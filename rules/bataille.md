@@ -11,29 +11,43 @@
 
 ## Règle courte
 
-Le joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée. Les joueurs dévoilent en même temps une carte. Celui qui possède la carte ayant la plus haute valeur remporte la mise. Le gagnant remporte les deux cartes. Et on recommence.
+À deux, avec un jeu de 32 ou de 52 cartes. Chaque joueur tire une carte : la plus forte désigne le donneur, qui distribue ensuite toutes les cartes une à une ; chacun garde son paquet face cachée, sans le regarder. À tour de rôle, chaque joueur retourne la carte du dessus de son paquet : la plus forte remporte les deux cartes, qui passent sous le paquet du gagnant. Quand deux cartes de même valeur se rencontrent, il y a **bataille**. La partie se termine lorsqu'un joueur n'a plus de cartes.
 
 ## Version longue
 
+La Bataille est l'un des tout premiers jeux de cartes pratiqués en France. Jeu élémentaire, son succès ne s'est jamais démenti et il continue à faire la joie des petits et des grands.
+
+### Matériel et joueurs
+
+- **Deux joueurs**, avec un jeu de **32 ou de 52 cartes**. Pour rendre la partie plus longue et plus passionnante, on peut même utiliser **deux jeux**.
+- Ordre décroissant des cartes : **A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3, 2**. La couleur n'importe pas.
+
+### But du jeu
+
+Faire prendre toutes ses cartes par son adversaire — autrement dit, remporter la totalité des cartes.
+
+### La donne
+
+Chaque joueur tire une carte du jeu : la **plus forte** désigne le premier **donneur**. Cartes battues et coupées, le donneur distribue **toutes les cartes, une à une**, jusqu'à épuisement du paquet. Chacun garde son paquet **sans le regarder ni le déranger**.
+
 ### Déroulement
 
-Le joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée.
-
-Les joueurs dévoilent en même temps une carte. Celui qui possède la carte ayant la plus haute valeur remporte la mise. Le gagnant remporte les deux cartes. Et on recommence.
+Quand toutes les cartes sont distribuées, le second joueur prend la carte du dessus de son paquet, la retourne et la dépose sur le tapis. Son adversaire en fait autant. Celui qui a la **carte la plus forte** ramasse la levée (les deux cartes), la place **sous son paquet** et joue la carte suivante. La partie se termine quand l'un des joueurs ne possède plus de cartes.
 
 ### La bataille
 
-La bataille se produit lorsque deux cartes d'égale valeur se rencontrent. Par exemple, si les deux joueurs sortent un Roi de leur paquet, il y a bataille. À ce moment, les deux joueurs dévoilent toujours leurs cartes en même temps, mais ils doivent sortir une carte d'égale valeur de leur paquet, un Roi dans ce cas-ci, pour remporter toutes les cartes dévoilées dans cette bataille.
-
-Le jeu se termine lorsqu'un des deux joueurs a remporté toutes les cartes.
-
-### Règles spéciales
-
-- Si, pendant une bataille, les deux joueurs dévoilent en même temps deux cartes identiques, ils les enlèvent du jeu. Ces cartes serviront à lancer une autre bataille une fois la première terminée.
-- Le hasard peut faire en sorte que les deux joueurs sortent deux Valets en même temps alors qu'ils se trouvaient dans une bataille en Valet. Comme il n'y a que quatre Valets dans un jeu de cartes, aucun des deux joueurs ne pourrait remporter cette bataille si on n'avait pas déjà prévu le coup. On enlèvera donc un de la valeur des cartes en litige pour continuer la bataille en 10, dans cet exemple. Si la bataille se fait en 2, on prendra l'As comme nouvelle valeur à trouver.
+C'est le côté attrayant du jeu : il peut arriver que les deux joueurs retournent deux cartes de **même valeur**. Il y a alors **bataille**. Les joueurs déposent une deuxième carte, puis une troisième, voire davantage, jusqu'au moment où l'un d'eux dépose une carte **plus forte** que celle de son adversaire ; il lève alors toutes les cartes déposées durant la bataille.
 
 ## Variantes
 
-- Vous pouvez appliquer toutes sortes de règles pour varier ce jeu, l'un des plus simples. La première consisterait à utiliser deux jeux de cartes. Cela aura notamment pour effet de prolonger la partie…
-- Une autre variante consiste à jouer à trois ou à quatre joueurs. À ce moment, les batailles se font entre les joueurs qui déposent des cartes d'égale valeur. Les autres les regardent jouer… Il est préférable d'utiliser deux paquets pour faire cette partie.
-- Vous pouvez aussi essayer de jouer en équipe si le cœur vous en dit.
+### Avec deux jeux de cartes
+
+On peut réunir deux jeux de cartes, ce qui a notamment pour effet de prolonger la partie.
+
+### À trois ou quatre joueurs
+
+On peut jouer à trois ou à quatre. Les batailles se font alors entre les joueurs qui déposent des cartes d'égale valeur, les autres se contentant de regarder. Il est préférable d'utiliser deux paquets pour cette partie.
+
+### En équipe
+
+On peut aussi jouer en équipe.

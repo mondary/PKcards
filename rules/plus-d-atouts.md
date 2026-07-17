@@ -9,42 +9,49 @@
 
 ---
 
-## Histoire
+## Règle courte
 
-Jeu élémentaire et très ancien, datant du début de l'introduction des jeux de cartes en Europe. Il peut même amuser les enfants.
+Jeu à deux avec un jeu de 32 cartes. À tour de rôle, l'un des joueurs a la main : il distribue 12 cartes à chacun (par deux ou par trois), puis retourne la 25e carte, dont la couleur devient l'atout. Les deux joueurs étalent alors leur main ; celui qui possède le plus grand nombre de cartes de la couleur d'atout gagne, sans tenir compte de la valeur de ses cartes. On peut jouer pour de l'argent : chaque joueur mise avant la donne et le gagnant ramasse les mises.
 
----
+## Version longue
 
-## Préparation
+Jeu élémentaire et très ancien, remontant au début de l'introduction des jeux de cartes en Europe. D'une grande simplicité, il peut même amuser les enfants.
 
-- Ordre des cartes : As, Roi, Dame, Valet, 10, 9, 8, 7.
-- On donne **12 cartes** à chacun (deux par deux ou trois par trois).
-- On retourne la **25e carte** qui désigne l'**atout**.
+### Matériel et joueurs
 
----
+- Un jeu de **32 cartes**.
+- **Deux joueurs**.
+- Ordre décroissant des cartes : **As, Roi, Dame, Valet, 10, 9, 8, 7**.
+- Une couleur devient **atout** ; elle est désignée par la carte retournée.
 
-## Déroulement
+### But du jeu
 
-Les deux joueurs **étalent leurs cartes**. Celui qui réunit le **plus grand nombre de cartes de la couleur de l'atout** gagne — sans tenir compte de la valeur des cartes.
+Réunir dans sa main et montrer le plus grand nombre de cartes d'atout.
 
----
+### La donne
 
-## Enjeux
+Chacun a la main à tour de rôle. Le donneur distribue **12 cartes** à chaque joueur, **deux par deux ou trois par trois**. Il retourne ensuite la **25e carte** : sa couleur désigne l'**atout** de la partie.
 
-On peut jouer pour de l'argent. Chaque joueur dépose une mise avant la partie ; le gagnant ramasse les mises.
+### Déroulement
 
-### En cas d'égalité (6 contre 6)
+Les deux joueurs **étalent leurs cartes**. Celui qui réunit le **plus grand nombre de cartes de la couleur d'atout** gagne, sans tenir compte de la valeur de ses cartes.
 
-La partie est **annulée**. Les mises restent dans la corbeille, les joueurs y déposent une nouvelle mise. Le premier vainqueur des parties suivantes ramasse la totalité.
+### Enjeux
 
----
+On peut jouer pour de l'argent. Chaque joueur dépose alors une **mise** dans la corbeille avant la partie ; le gagnant **ramasse les mises**.
 
-## Variante
+## Règles spéciales
 
-Au lieu de compter le nombre de cartes d'atout, on **additionne les points** des cartes d'atout :
+- **Égalité (six contre six) :** la partie est **annulée**. Les premières mises restent dans la corbeille et les joueurs y déposent une nouvelle mise. Le premier vainqueur de la partie suivante — ou parfois des deux ou trois parties suivantes en cas d'égalités successives — ramasse la **totalité de la corbeille**.
+
+## Variantes
+
+### Décompte aux points
+
+Cette légère variante rend le jeu un peu plus compliqué. Quand les cartes sont abattues, chaque joueur écarte parmi les siennes celles de la couleur d'atout, et c'est l'**addition des points** de ces cartes qui désigne le gagnant.
 
 | Carte | Points |
 |-------|--------|
 | As | 11 |
-| Figures | 10 chacune |
+| Figures (Roi, Dame, Valet) | 10 chacune |
 | Cartes numérales | Valeur marquée |

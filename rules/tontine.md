@@ -1,57 +1,52 @@
 # La Tontine
 
-**Nombre de joueurs :** 4+
+**Nombre de joueurs :** 4 et plus
 **Nombre de cartes :** 52
-**Difficulté :** Moyenne
-**Type :** Combinaisons, Défausse, Hasard
+**Difficulté :** Facile
+**Type :** Hasard
 **But :** Être le dernier joueur à posséder des jetons
-**Autres noms :** La Tontine
+**Autres noms :** —
 
 ---
 
-## Histoire
+## Règle courte
 
-Jeu de famille pratiqué au XIXe siècle. Son nom rappelle les emprunts du banquier napolitain Lorenzo Tonti.
+Jeu de hasard aux jetons. Chaque joueur mise **3 jetons** dans la corbeille centrale. Le donneur distribue une **carte découverte** à chacun (et à lui-même en dernier) ; selon la carte reçue, on prend des jetons dans la corbeille, on y en dépose, ou on en donne à son voisin de gauche. Un joueur sans jetons est **« mort »** et ne reçoit plus de carte, mais il revient dès qu'un voisin lui en donne. La partie se termine quand un seul joueur possède encore des jetons : ce survivant gagne et rafle la corbeille.
 
----
+## Version longue
 
-## Préparation
+La Tontine, dont le nom rappelle les emprunts réalisés en France aux XVIIᵉ et XVIIIᵉ siècles selon les méthodes du banquier napolitain Lorenzo Tonti, eut son heure de célébrité au XIXᵉ siècle. C'était surtout un jeu de famille (on l'appelait « le jeu des grands-pères et des enfants »), mais des joueurs acharnés y gagnèrent aussi beaucoup d'argent dans les tripots.
 
-Chaque joueur dispose de **8 à 10 jetons** et en dépose **3** dans la corbeille centrale.
+### Matériel et mise
 
----
+On se sert d'un jeu de **cinquante-deux cartes** et de **jetons** dont on a fixé au préalable la valeur. On fixe également le nombre de jetons attribué à chacun au départ (en général **huit ou dix**). Une **corbeille** est placée au centre de la table. En début de partie, chaque joueur y dépose **trois jetons**.
 
-## Déroulement
+### La donne
 
-Le donneur distribue **1 carte découverte** à chacun (en dernier lieu à lui-même).
+Le donneur, désigné par le sort, distribue à tous les joueurs, et à lui-même en dernier lieu, **une carte découverte**. Le **talon**, mis à part à droite du donneur, servira à une deuxième, voire une troisième donne.
 
-### Paiements selon la carte reçue
+### Barème selon la carte reçue
 
 | Carte | Action |
 |-------|--------|
 | **Roi** | Prend **3 jetons** dans la corbeille |
 | **Dame** | Prend **2 jetons** |
 | **Valet** | Prend **1 jeton** |
-| **10** | Ne prend ni ne paie |
+| **10** | Ne prend ni ne paie (sa mise initiale de 3 jetons reste dans la corbeille) |
 | **9, 7 ou 5** | Dépose **1 jeton** dans la corbeille |
-| **8, 6 ou 4** | Dépose **2 jetons** |
-| **As** | Donne **1 jeton** au voisin de gauche |
-| **3** | Donne **3 jetons** au voisin de gauche |
+| **8, 6 ou 4** | Dépose **2 jetons** dans la corbeille |
+| **As** | Donne **1 jeton** à son voisin de gauche |
+| **3** | Donne **3 jetons** à son voisin de gauche |
 
----
+### Tours suivants
 
-## Suites de coups
+Quand, au premier tour, chacun a pris ou donné, le **voisin de droite du donneur** reprend le talon et distribue une nouvelle carte à chacun ; le jeu se poursuit comme précédemment. Quand le talon est épuisé, on reprend les cartes déjà jouées, on les bat, et la distribution peut continuer.
 
-Le voisin de droite reprend le talon et distribue une nouvelle carte à chacun. Le jeu se poursuit comme précédemment.
+### Fin de la partie
 
-### Sans jetons (« mort »)
+La partie se termine lorsqu'un **seul joueur possède encore des jetons**. Ce survivant gagne la partie et s'adjuge le petit trésor accumulé dans la corbeille.
 
-Un joueur sans jetons ne reçoit plus de carte. Mais dès qu'un voisin lui donne des jetons (As ou 3), il revient dans le jeu.
+## Règles spéciales
 
-> Quand le talon est épuisé, on reprend les cartes jouées, on les bat et la distribution continue.
-
----
-
-## Fin du jeu
-
-La partie se termine quand un seul joueur possède encore des jetons. Ce survivant **gagne** et s'adjuge le trésor accumulé dans la corbeille.
+- **Joueur « mort » :** un joueur qui n'a plus de jetons est mort et ne reçoit plus de carte. Toutefois, dès qu'un voisin doit lui donner des jetons (As ou 3), il peut recommencer à jouer.
+- **Le 10** laisse la mise initiale dans la corbeille sans autre effet : son détenteur ne prend ni ne paie.

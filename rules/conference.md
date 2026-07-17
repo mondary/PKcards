@@ -1,71 +1,62 @@
 # La Conférence
 
 **Nombre de joueurs :** 4 (2 équipes de 2)
-**Nombre de cartes :** 32 + quatre 6
+**Nombre de cartes :** 36 (jeu de Piquet de 32 cartes complété par quatre 6)
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Défausse, Enchères, Hasard
+**Type :** Jeu de plis, Enchères
 **But :** Atteindre 5 ou 10 points en remportant des levées
 **Autres noms :** La Conférence
 
 ---
 
-## Valeur des cartes
+## Règle courte
 
-Roi, Dame, Valet, 10, 9, 8, 7, 6 (du plus fort au plus faible).
+Quatre joueurs en deux équipes de deux, avec 36 cartes. Les partenaires sont assis côte à côte et peuvent confronter leurs jeux. On joue sans atout. Chacun reçoit 9 cartes (par trois). Après consultation, une équipe s'engage à faire au moins 5 levées en disant « Nous y allons ! » ; sinon elle passe. On doit suivre la couleur et monter si possible. Chaque partie se joue en 5 ou 10 points, chaque levée gagnée valant 1 point.
 
----
+## Version longue
 
-## Préparation
+La Conférence est un très ancien jeu joué surtout dans les provinces méridionales de la France.
 
-### Les équipes
+### Joueurs et cartes
 
-- Les équipes sont **tirées au sort**.
-- Au tirage, les **deux plus fortes cartes** désignent une des deux équipes.
-- La **plus forte** de ces deux cartes désigne le **donneur**.
+Le jeu oppose **deux équipes de deux joueurs** qui utilisent **36 cartes**, soit un jeu de Piquet (32 cartes) complété par les **quatre 6**. Les partenaires s'installent **côte à côte**, de façon à pouvoir confronter leurs jeux.
 
-### La distribution
+L'ordre des cartes, en valeur décroissante, est : **Roi, Dame, Valet, As, 10, 9, 8, 7, 6**.
 
-Le donneur distribue, **trois par trois**, **9 cartes** à chacun.
+### Le but
 
----
+La partie se joue **sans atout**, en **5 ou 10 points**, obtenus par des levées au fil de plusieurs coups, **chaque levée valant 1 point**.
 
-## Déroulement
+### La donne
+
+Au tirage, les **deux plus hautes cartes** désignent les associés d'un même camp, et **la plus haute** désigne le **donneur**. Ce dernier distribue, **trois par trois**, **9 cartes** à chacun.
 
 ### Les enchères
 
-1. L'adversaire de gauche du donneur parle le **premier**, après avoir consulté son partenaire.
-2. Ils doivent estimer s'ils sont capables de faire **5 plis sur les 9** de la partie.
-3. S'ils l'estiment possible → **« Nous y allons ! »**
-4. Sinon → ils **passent**.
+L'adversaire **de droite du donneur** parle le premier, après avoir consulté son partenaire pour savoir si, à eux deux, ils sont capables de faire **cinq levées**.
 
-| Cas | Conséquence |
-|-----|-------------|
-| Les adversaires passent aussi | Le coup est **annulé**, le donneur suivant distribue |
-| Une équipe décide d'y aller | Elle **joue en premier** |
+- S'ils l'estiment possible, ils disent : **« Nous y allons ! »**
+- Sinon, ils **passent**.
+
+Dans ce dernier cas, les adversaires se consultent à leur tour. **S'ils passent également, le coup est annulé** et le donneur suivant distribue les cartes. C'est le **camp qui décide d'y aller qui joue en premier lieu**.
 
 ### Le jeu de la carte
 
-1. Le premier joueur **abat une carte**.
-2. Chacun doit **suivre la couleur** et, si possible, **monter**.
-3. Le joueur qui ne possède pas la couleur se **défausse** d'une carte quelconque.
-4. La **plus haute carte** de la couleur demandée fait le **pli**.
+Il faut **suivre la couleur demandée**, **monter et surmonter si possible**. Si l'on ne peut pas suivre, il faut **se défausser** d'une carte quelconque. La **plus haute carte de la couleur demandée** fait le pli.
 
-> Les plis réalisés par les partenaires d'une équipe sont **mis en commun**.
+Dès qu'on entreprend la partie, les levées faites par l'un ou l'autre partenaire sont **mises en commun**.
 
----
+### Le score
 
-## Score
+- Si le camp qui a entamé le jeu réussit ses **cinq premières levées obligatoires**, il marque **1 point**.
+- S'il ne les réussit pas, **ses adversaires** ont droit à ce point.
+- Le camp qui remporte **neuf levées** peut marquer **2 points**.
 
-| Résultat | Points |
-|----------|--------|
-| L'équipe engagée réussit les **5 plis** | **1 point** |
-| L'équipe engagée **échoue** | Ses adversaires marquent **1 point** |
-| L'équipe engagée fait **9 plis** | **2 points** |
+### Fin de partie
 
-> Si c'est l'équipe adverse qui totalise le nombre de plis, les points vont à cette équipe.
+La partie se joue en **5 ou 10 points**, en autant de donnes que nécessaire pour que l'une ou l'autre équipe atteigne ce total.
 
----
+## Règles spéciales
 
-## Fin de partie
-
-La partie se joue en **5 ou 10 points** — en autant de donnes nécessaires à l'une ou l'autre équipe pour réaliser ce score.
+- Le camp qui **s'engage** (« Nous y allons ! ») a l'obligation de réaliser au moins **5 levées** : s'il échoue, le point revient automatiquement aux adversaires.
+- Réaliser la **totalité des neuf levées** vaut **2 points** au lieu d'un seul — la seule façon de doubler la mise d'un coup.

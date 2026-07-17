@@ -1,59 +1,60 @@
 # Le Lansquenet
 
-**Nombre de joueurs :** 3 à 12
-**Nombre de cartes :** 52 (ou plus selon le nombre de joueurs) + jetons
+**Nombre de joueurs :** 3 à 12 (un banquier et un nombre indéterminé de pontes)
+**Nombre de cartes :** 312 (six jeux de 52) + jetons
 **Difficulté :** Moyenne
 **Type :** Hasard
-**But :** Miser et gagner contre le banquier, selon les cartes tirées
-**Autres noms :** Le Lansquenet, Lansquenet
+**But :** Miser et gagner contre le banquier selon les cartes tirées
+**Autres noms :** Lansquenet
 
 ---
 
-## Histoire
+## Règle courte
 
-« Lansquenet » vient de l'allemand *Landsknechte* (soldats mercenaires du XVe siècle). Jeu de **hasard pur** et de **mises ultra-rapides**, très populaire sous Louis XIV. Colbert et Mme de Maintenon tentèrent de l'interdire en vain.
+Un **banquier** affronte un nombre indéterminé de **pontes** avec **six jeux de 52 cartes**. Le banquier mêle, fait couper et annonce un enjeu. Les pontes, à tour de rôle en partant de sa droite, passent, tiennent l'enjeu entier ou en couvrent une partie, jusqu'à ce que la mise du banquier soit entièrement couverte. Le banquier retourne alors une carte pour lui (à gauche) et une pour les pontes (à droite), puis tire les cartes une à une : si une carte de même hauteur que la sienne sort, il gagne les mises ; si c'est une carte de même hauteur que celle des pontes, ceux-ci gagnent. Tant qu'il gagne, il garde la banque.
 
----
+## Version longue
 
-## Les mises
+### Matériel et joueurs
 
-Un joueur est choisi comme **banquier**. Il pose sa mise (un nombre de jetons) devant lui.
+Le Lansquenet se joue entre un **banquier** et un **nombre indéterminé de pontes**, avec **six jeux de 52 cartes**. On mise avec des jetons ; les enjeux sont en général très élevés.
 
-Chaque joueur, en partant de la droite du banquier (sens inverse des aiguilles), a 3 options :
+### Mise en place
 
-1. **« Je passe »** → ne mise pas.
-2. **« Banco » / « Je tiens »** → mise autant que le banquier → le jeu commence immédiatement.
-3. **Mise partielle** → mise une partie seulement ; le joueur suivant peut compléter.
+Le sort désigne le premier banquier. Celui-ci **mêle les six jeux, les bat et les fait couper**, puis annonce l'**enjeu** qu'il propose.
 
-Les mises se poursuivent jusqu'à ce que les joueurs aient misé collectivement **autant que le banquier**.
+### Les mises
 
----
+Le joueur placé **à la droite du banquier** parle le premier. Il dispose de trois possibilités :
 
-## Le tirage
+1. **Passer** s'il juge l'enjeu trop important.
+2. **Tenir l'enjeu entier** du banquier : en ce cas, le jeu se limite au banquier et à ce ponte.
+3. **Ne tenir qu'une partie** de l'enjeu (le cas le plus fréquent).
 
-Le banquier mélange les cartes et tire **2 cartes** face visible :
-- La **1ère** est pour lui (à gauche).
-- La **2nde** est pour les joueurs (à droite).
+Le joueur suivant procède de même : passer, tenir l'enjeu entier, ou n'en couvrir qu'une partie. Le jeu se poursuit ainsi jusqu'à ce que **tout l'enjeu soit couvert**.
 
-### Le « refait »
-Si les deux cartes sont de **même hauteur** → le banquier gagne et ramasse toutes les mises.
+Toutefois, si aucun joueur ne tient l'enjeu entier, le premier à parler, même s'il avait passé, peut encore **relancer et prendre à son compte l'enjeu entier**.
 
-### Le jeu continue
-Sans refait, le banquier tire les cartes **une par une** et les pose au centre :
-- Si une carte sort de **même hauteur que la carte du banquier** → le banquier ramasse les mises.
-- Si une carte sort de **même hauteur que la carte des joueurs** → les joueurs récupèrent leur mise + l'équivalent du banquier (doublement).
+### Le tirage
 
----
+L'enjeu étant entièrement couvert, le banquier retourne la carte supérieure de son paquet et la place, découverte, **à sa gauche** ; puis il retourne la seconde carte et la place **à sa droite** (la carte des pontes).
 
-## Exemple
+- **Le refait** : si le banquier retourne d'emblée **deux cartes de même valeur**, il a le droit de ramasser toutes les mises des pontes.
+- Sinon, le banquier tire les cartes **une à une**.
+  - Dès qu'il retourne une carte **semblable à la sienne** (celle de gauche), il a droit aux mises des pontes.
+  - Dès qu'il retourne une carte **semblable à celle des pontes** (celle de droite), les pontes s'adjugent l'enjeu du banquier **au prorata des parties qu'ils ont tenues**.
 
-Anna (banquier) mise 40 jetons. Charlie mise 10, Ben mise 30.
-- Anna tire un **Valet** (pour elle), puis un **3** (pour les joueurs).
-- Elle tire ensuite : 10, Roi, **3** → la carte des joueurs.
-- Ben et Charlie récupèrent leurs mises + Anna leur donne respectivement 30 et 10 jetons.
+Le jeu se termine dès qu'une de ces deux cartes réapparaît.
 
----
+### La banque
 
-## Organisation des tours
+Aussi longtemps que le banquier **gagne, il garde la main**. S'il perd, il **cède la banque à son voisin de droite**. Toutefois, s'il estime son gain suffisant, il peut **vendre sa banque** à l'un des pontes. Celui qui achète la banque la garde jusqu'à ce qu'il perde ; la banque revient alors au voisin de droite du banquier initial, à qui elle serait normalement revenue.
 
-Il est juste que **chaque joueur soit banquier à tour de rôle**.
+## Règles spéciales
+
+- **Refait** : deux premières cartes de même valeur retournées par le banquier → il ramasse les mises des pontes.
+- La banque se transmet au voisin de droite lorsque le banquier perd, sauf s'il choisit de la vendre à un ponte.
+
+## Variantes
+
+Aucune variante documentée dans la source.

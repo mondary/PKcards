@@ -1,49 +1,68 @@
 # Le Sept-et-Demi
 
-**Nombre de joueurs :** 2+ (un banquier et des pontes)
-**Nombre de cartes :** 40 (sans les 8, 9, 10)
+**Nombre de joueurs :** 2 et plus (un banquier et un nombre illimité de pontes)
+**Nombre de cartes :** 32 (jeu de piquet ; deux jeux si les pontes sont nombreux)
 **Difficulté :** Facile
 **Type :** Hasard
-**But :** Faire 7,5 points ou s'en approcher sans les dépasser
-**Autres noms :** Le Sept-et-Demi, Sette e Mezzo (Italie)
+**But :** Approcher 7 points et demi sans les dépasser, et battre le point du banquier
+**Autres noms :** —
 
 ---
 
 ## Règle courte
 
-Chaque joueur mise, puis reçoit des cartes. Le but est d'atteindre 7,5 points sans les dépasser. Les figures valent 0,5 point. Le banquier joue en dernier.
+Jeu de banque de pur hasard, apparenté au Vingt-et-Un et au Trente-et-Un. Un banquier affronte un nombre illimité de pontes avec un jeu de 32 cartes. Chaque ponte mise, reçoit une carte, puis demande autant de cartes qu'il veut (servies face visible) pour approcher **7 points et demi** sans les dépasser. Valeurs : **Roi 4, Dame 3, Valet 2, As 1, 7 vaut 1**, et **10, 9, 8 valent ½ point** (ce sont eux qui apportent le demi-point). Qui dépasse 7½ « crève » et perd sa mise ; qui fait 7½ pile touche le double. Le banquier parle en dernier.
 
 ## Version longue
+
+Ce jeu de pur hasard est apparenté au Vingt-et-Un et au Trente-et-Un. Longtemps pratiqué dans les cercles et les tripots, il séduit les joueurs en quête d'un gain rapide.
+
+### Joueurs et cartes
+
+Le Sept-et-Demi réunit un **banquier** et un nombre illimité de **pontes**. On utilise des **jetons** et un jeu de **trente-deux cartes** ; si le nombre de pontes l'exige, on peut employer deux jeux.
 
 ### Valeur des cartes
 
 | Carte | Points |
 |-------|--------|
-| Figures (Roi, Dame, Valet) | 0,5 |
+| Roi | 4 |
+| Dame | 3 |
+| Valet | 2 |
 | As | 1 |
-| 2 à 7 | Valeur faciale |
+| 7 | 1 |
+| 10, 9, 8 | ½ |
 
-### Préparation
+Le but est de faire **7 points et demi**. Ce sont donc les **10, 9 et 8** qui doivent intervenir pour faire le demi-point au-dessus de 7.
 
-- Chaque joueur reçoit un nombre égal de **jetons**.
-- Le **banquier** (donneur) est tiré au sort.
+### La donne
 
-### Déroulement
+Le banquier, désigné par le sort, a la donne : il bat les cartes et les fait couper par son voisin de droite. Il distribue ensuite une carte à chaque ponte d'une manière particulière, en alternant les côtés : la **première carte** à son voisin de droite, la **deuxième** à son voisin de gauche, la **troisième** à son second voisin de droite, la **quatrième** à son second voisin de gauche, et ainsi de suite.
 
-1. Chaque joueur pose sa **mise** devant lui.
-2. Le banquier distribue **une carte face cachée** à chaque joueur et à lui-même.
-3. À tour de rôle, chaque joueur peut :
-   - **« Je reste »** → satisfait de son total.
-   - **« Je tire » / « Carte »** → demande une carte supplémentaire.
-4. Si un joueur dépasse 7,5, il **« crevait »** et perd sa mise.
-5. Le banquier joue en dernier.
+### Le tirage
 
-### Résultats
+Après cette première distribution, chacun à son tour — en adoptant le même sens alterné que celui de la donne — parle et demande une ou plusieurs cartes, qui lui sont délivrées **à découvert** (face visible).
 
-- Si le banquier fait 7,5 exactement, il ramasse toutes les mises.
-- Sinon, il compare avec chaque joueur : verse à ceux qui ont plus (sans dépasser 7,5), ramasse ceux qui ont moins ou qui ont « crevé ».
-- En cas d'égalité, le joueur récupère sa mise.
+### Abattage et paiements
 
-## Variante
+- Tout le monde étant servi, celui qui a **plus de 7½** étale ses cartes et **« crève »** : sa mise revient au banquier.
+- Celui qui a **exactement 7½** l'annonce à son tour, et le banquier lui paie le **double** de sa mise.
+- C'est alors seulement que le **banquier** peut déclarer son point :
+  - s'il a **7½**, il ramasse les enjeux de tous les pontes restés dans le jeu ;
+  - s'il se **tient sans avoir 7½**, les pontes restants abattent leur jeu : ceux qui ont **plus** que le point du banquier reçoivent leur mise, ceux qui ont **moins** lui cèdent leur enjeu.
+- À **point égal** avec le banquier, le coup est **nul**.
 
-- Certaines variantes permettent au banquier de tirer ou non selon des règles fixes (par exemple, rester à 5 ou plus).
+### Passation de la banque
+
+Quand le banquier crève, la banque passe à son voisin de droite ; quand celui-ci a terminé, c'est le voisin de gauche du premier banquier qui le remplace.
+
+## Règles spéciales
+
+- **« Crever » :** dépasser 7½ fait perdre immédiatement la mise, qui va au banquier.
+- **7½ exact :** payé le double par le banquier.
+- Les **10, 9 et 8** (½ point chacun) sont les seules cartes permettant d'atteindre le demi-point au-dessus de 7.
+- **Point égal** avec le banquier : le coup est nul (ni gain ni perte).
+
+## Variantes
+
+- On convient parfois que le **ponte qui, le premier, fait 7½** remplacera, en temps voulu, le banquier.
+- Ou encore qu'après **trois ou quatre parties** tenues par le même banquier (à condition qu'il ne crève pas avant), on change de banquier.

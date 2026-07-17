@@ -13,6 +13,7 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 - [x] Enrichissement des règles (Difficulté, Type, Autres noms)
 - [x] Refonte de la carte et du détail (alias, badges, règle courte/longue)
 - [x] Bouton de recherche YouTube par jeu
+- [x] Enrichissement des « Version longue » depuis le guide Marabout (69 jeux)
 - [ ] Filtres par difficulté et type
 - [ ] Recherche par alias
 
@@ -30,6 +31,7 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 #### Changed
 - Migration du dossier `cartes-regles/` vers `rules/`
 - Réécriture des fiches au format « Règle courte / Version longue »
+- Enrichissement des règles détaillées de 69 jeux à partir du « Guide Marabout de tous les jeux de cartes »
 - `build.js` parse les nouveaux champs et lit depuis `rules/`
 - Compteur de jeux mis à jour (55 → 160+) dans le titre et la description
 

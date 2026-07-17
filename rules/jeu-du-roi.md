@@ -4,33 +4,54 @@
 **Nombre de cartes :** 52
 **Difficulté :** Difficile
 **Type :** Jeu de plis
-**But :** Avoir le plus de points à l'issue des dix manches
-**Autres noms :** Le Jeu du Roi, The King
+**But :** Obtenir le meilleur solde après les dix donnes (le plus de points bénéficiaires, une fois les pénalités déduites)
+**Autres noms :** The King
 
 ---
 
 ## Règle courte
 
-Ce jeu demande beaucoup de concentration, car il compte dix manches toutes différentes les unes des autres.
+Quatre joueurs, jeu de 52 cartes, dix donnes successives faites chacune par un donneur différent. Les **six premières donnes** se jouent **sans atout** et n'infligent que des points de **pénalité** (chaque donne interdit ou pénalise une chose précise : faire des plis, ramasser des cœurs, des figures…). Les **quatre dernières** se jouent **avec l'atout choisi par le donneur** et rapportent **4 points par pli**. À toutes les donnes, on suit obligatoirement à la couleur demandée si on l'a, sinon on se défausse. À la fin, on totalise séparément pénalités et points bénéficiaires : le meilleur solde gagne.
 
 ## Version longue
 
-### Début du jeu
+Vieux jeu anglais appelé **The King**, très proche du Sans-Cœur français mais avec des variantes qui le rendent original. Il comporte deux phases bien distinctes et réunit quatre joueurs munis d'un jeu de cinquante-deux cartes.
 
-Le donneur distribue 13 cartes, une à une, à chaque joueur. La personne à la gauche du donneur entame.
+### Les places et le donneur
 
-Le but de la première manche est d'obtenir le moins de plis possible. Le premier joueur lance donc une première carte. Les autres sont obligés de suivre à la couleur. Celui qui a lancé la plus haute carte remporte le pli. Si un joueur n'a pas la couleur demandée, c'est le temps pour lui de se débarrasser de ses plus hautes cartes… du moins, pour cette première manche ! En effet, le but du jeu changera en cours de route !
+On procède à un tirage au sort pour désigner les places et le donneur. La plus haute carte désigne le donneur ; le tireur de la plus haute carte suivante s'assied à sa droite, et ainsi de suite. La partie se joue en **dix donnes**, faites chacune par un donneur différent.
 
-On joue les dix manches, et le vainqueur est le joueur ayant le plus de points à l'issue de la rencontre. Il se peut alors fort bien qu'un ou plusieurs joueurs se retrouvent sous la barre du 0…
+### Règles communes aux dix donnes
 
-### Les dix manches
+Le donneur distribue **13 cartes**, une à une, à chaque joueur. Le voisin de gauche du donneur entame. On doit **toujours fournir la couleur demandée** si on la possède, sinon se défausser. Il n'est **pas obligatoire de monter ni de surmonter** ; mais lors des quatre dernières donnes, il est évidemment utile de le faire afin de ramasser des plis.
 
-Voici ce qu'il faut faire ou ne pas faire au cours des différentes manches du jeu du Roi :
+Les **six premières donnes** se jouent **sans atout** et sont marquées de points de **pénalité**. Les **quatre dernières** se jouent **avec un atout choisi par le donneur** et offrent des points **bénéficiaires**.
 
-1. Le but est de faire le moins de plis (2 points de pénalité chaque fois qu'il fait un pli).
-2. Il ne faut pas ramasser de cœur (2 points de pénalité chaque fois).
-3. Il ne faut pas ramasser de Roi ni de Valet (6 points de pénalité chaque fois).
-4. Il faut ramasser le moins de Dames (10 points de pénalité chaque fois).
-5. Il ne faut pas ramasser le Roi de cœur (40 points de pénalité).
-6. Il ne faut pas ramasser le dernier pli (20 points de pénalité).
-7. Les quatre dernières manches se jouent à l'atout (dans l'ordre : trèfle, carreau, cœur et pique). Le but est alors de faire un maximum de levées (4 points par levée plus 1 point par carte atout).
+### Première phase — six donnes de pénalité (sans atout)
+
+1. **1ʳᵉ donne :** faire le moins de plis possible. Chaque pli ramassé vaut **2 points** de pénalité.
+2. **2ᵉ donne :** éviter les cœurs. Chaque cœur figurant dans une levée ramassée vaut **2 points** de pénalité.
+3. **3ᵉ donne :** éviter les Rois et les Valets. Chacune de ces figures ramassée dans une levée vaut **6 points** de pénalité.
+4. **4ᵉ donne :** éviter les Dames. Chaque Dame ramassée vaut **10 points** de pénalité.
+5. **5ᵉ donne :** celui qui ramasse le **Roi de cœur** dans ses levées reçoit **40 points** de pénalité.
+6. **6ᵉ donne :** celui qui est obligé de prendre la **dernière levée** du coup reçoit **20 points** de pénalité.
+
+### Seconde phase — quatre donnes bénéficiaires (avec atout)
+
+Le donneur choisit l'atout qui lui convient. Durant ces quatre dernières donnes, il s'agit de faire le **plus de plis possible** : chaque levée rapporte **4 points** à celui qui la remporte.
+
+### Fin de la partie et décompte
+
+Après les dix donnes, on additionne séparément, pour chaque joueur, les points bénéficiaires d'une part et les points de pénalité d'autre part, puis on établit les différences. Le joueur qui obtient le plus grand nombre de points bénéficiaires (le meilleur solde) gagne la partie ; chacun de ses adversaires lui verse l'enjeu convenu.
+
+On peut convenir d'un enjeu fixe payé au gagnant par les trois perdants ; il est toutefois plus logique d'attribuer une valeur au point, chaque perdant payant au gagnant la contre-valeur des points qui l'en séparent.
+
+## Conseils
+
+- Lors des six premières donnes (pénalité), profitez d'un défaut de couleur pour vous débarrasser de vos plus hautes cartes.
+- Lors des quatre dernières donnes (à l'atout), montez ou surmontez dès que possible : c'est le seul moyen de rafler un maximum de levées et d'engranger les points bénéficiaires.
+
+## Règles spéciales
+
+- L'**objectif change à chaque donne** : identifiez bien, avant de jouer, ce qu'il faut éviter (phase de pénalité) ou rechercher (phase à l'atout).
+- Le **Roi de cœur** est la carte la plus dangereuse : le ramasser lors de la 5ᵉ donne coûte à lui seul 40 points de pénalité.

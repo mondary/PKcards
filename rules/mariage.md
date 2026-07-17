@@ -3,65 +3,72 @@
 **Nombre de joueurs :** 2
 **Nombre de cartes :** 32
 **Difficulté :** Moyenne
-**Type :** Jeu de plis, Défausse
-**But :** Réunir un maximum de mariages (Roi + Dame) et de brisques (As, 10)
-**Autres noms :** Mariage, Brisque, Briscan
+**But :** Réunir un maximum de mariages (Roi + Dame) et marquer le plus de points
+**Autres noms :** Brisque, Briscan
 
 ---
 
-## Histoire
+## Règle courte
 
-Ancêtre de la famille des brisques, cité par **Rabelais** dans la liste des jeux de Gargantua. Version simplifiée du Bésigue.
+Le Mariage se joue à **2 joueurs** avec **32 cartes**. On distribue **5 cartes** à chacun et la **11e carte retournée** fixe l'atout. On joue par levées : tant qu'il reste des cartes au talon, on n'est pas obligé de fournir, et après chaque levée chacun repioche une carte. On marque des points avec les cartes prises (As 11, 10 pts, Roi 4, Dame 3, Valet 2), les **mariages** (Roi + Dame de même couleur, 20 pts ; d'atout, 40 pts) et la **dernière levée** (10 pts). La partie se joue en **100 ou 150 points**.
 
-## Ordre des cartes
+## Version longue
 
-**As, 10, Roi, Dame, Valet, 9, 8, 7**
+### Origine
 
-Les As et les 10 sont appelés **« brisques »**.
+Appelé autrefois **Brisque** ou **Briscan**, ce jeu d'origine espagnole ou italienne date du **XVIe siècle**. Il présente, à peu de variantes près, les mêmes règles que le **Cinq-Cents**, et ses règles ont plus tard servi à créer le **Bésigue**.
 
----
+### Matériel et valeur des cartes
 
-## Distribution
+Deux joueurs utilisent un jeu de **32 cartes**.
 
-1. Le donneur distribue **5 cartes** chacun (3 puis 2).
-2. Il retourne la carte suivante → c'est l'**atout**.
-3. Le talon est posé à côté.
-4. Si un joueur a le **7 d'atout**, il peut l'échanger contre la carte retournée.
-
----
-
-## Déroulement
-
-### Phase 1 : Avec talon
-
-1. Le joueur non-donneur pose une carte.
-2. Le second joueur a **3 possibilités** :
-   - Jouer la couleur demandée (pas d'obligation de monter).
-   - Couper (pas d'obligation).
-   - Se défausser d'une carte quelconque.
-3. Le plus fort de la couleur demandée ou le plus fort atout remporte le pli.
-4. Chaque joueur **pioche une carte** du talon (gagnant en premier).
-
-### Phase 2 : Sans talon
-
-Quand le talon est épuisé :
-- **Obligation** de fournir la couleur et de monter.
-- **Obligation** de couper si on n'a pas la couleur.
-- Défausse possible seulement en l'absence de couleur et d'atout.
-
----
-
-## Compte des points
-
-| Élément | Points |
-|---------|--------|
-| As (brisque) | 11 |
-| 10 (brisque) | 10 |
+| Carte | Points |
+|-------|--------|
+| As | 11 |
+| 10 | 10 |
 | Roi | 4 |
 | Dame | 3 |
 | Valet | 2 |
-| Mariage (Roi + Dame même couleur) | 20 |
-| Mariage d'atout (Roi + Dame d'atout) | 40 |
-| Le joueur qui fait le plus de levées | +10 |
+| 9, 8, 7 | 0 |
 
-On joue en **100, 150 ou 200 points** (convenu au départ).
+L'As est la carte la plus forte, suivi du 10, puis du Roi, de la Dame, du Valet, du 9, du 8 et du 7.
+
+### La donne
+
+Le sort désigne le donneur. Il distribue, **par deux puis par trois**, **5 cartes** à son adversaire et en prend **5** lui-même. La **onzième carte**, retournée, devient l'**atout** ; le reste forme le **talon**.
+
+### L'échange du 7 d'atout
+
+Le joueur qui possède dans son jeu le **7 d'atout** peut l'**échanger contre la carte de retourne**, à condition de faire cet échange **avant de jouer la dernière levée des cartes du talon**.
+
+### Le jeu
+
+On joue par levées. Après chaque levée, chaque joueur **prélève une carte du talon** (le gagnant de la levée en premier) avant d'abattre une nouvelle carte.
+
+- **Tant qu'il reste des cartes au talon**, on n'est **pas obligé de fournir** la couleur demandée : on peut fournir, couper ou se défausser d'une carte quelconque.
+- **Quand le talon est épuisé**, on doit obligatoirement **fournir, forcer (monter) ou couper**.
+
+Le plus fort de la couleur demandée, ou le plus fort atout, remporte la levée.
+
+### Les combinaisons
+
+| Combinaison | Points |
+|-------------|--------|
+| Mariage (Roi + Dame de même couleur) | 20 |
+| Mariage d'atout (Roi + Dame d'atout) | 40 |
+| Dernière levée (à celui qui la fait) | 10 |
+
+### Le décompte et la fin de la partie
+
+Les levées terminées, on compte les points, tant ceux rapportés par les **combinaisons** que par les **cartes** figurant dans les levées.
+
+La partie se joue en général en **100 ou 150 points**. Le joueur qui atteint le premier le total fixé peut **arrêter le jeu**, même s'il garde des cartes en main.
+
+## Règles spéciales
+
+- Le joueur qui annonce avoir atteint le total fixé ne peut **se tromper dans son calcul mental** : même s'il ne lui manque qu'un point pour l'atteindre, il **perd la partie**.
+- Le **7 d'atout** ne peut être échangé contre la retourne qu'avant de jouer la dernière levée du talon.
+
+## Variantes
+
+Le Mariage se joue, à peu de variantes près, selon les mêmes règles que le **Cinq-Cents**. On peut convenir de jouer la partie en **100 ou en 150 points**.
