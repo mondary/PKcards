@@ -11,6 +11,7 @@ const S = {
   history: [],
   favorites: new Set(JSON.parse(localStorage.getItem('pk-fav') || '[]')),
   animating: false,
+  currentDetailId: null,
 };
 
 // --- Pointer tracking ---
@@ -39,10 +40,14 @@ function init() {
   // Header
   $('filterBtn').onclick = openFilter;
   $('favBtn').onclick    = openFavorites;
+  $('searchBtn').onclick = openSearch;
+
+  // Search
+  $('searchInput').addEventListener('input', e => renderSearchResults(e.target.value));
 
   // Sheets
   document.querySelectorAll('[data-close]').forEach(el => {
-    el.onclick = closeAllSheets;
+    el.onclick = () => closeAllSheets();
   });
 
   // Keyboard
@@ -54,6 +59,21 @@ function init() {
   });
 
   updateFavCount();
+
+  // Deep-link routing: open a game from #<id> on load, and react to hash changes
+  window.addEventListener('hashchange', handleHashRoute);
+  handleHashRoute();
+}
+
+// --- Hash routing (#<gameId>) ---
+function handleHashRoute() {
+  const id = decodeURIComponent(location.hash.replace(/^#/, '')).trim();
+  if (id && S.games.some(g => g.id === id)) {
+    if (!$('detailSheet').hidden && S.currentDetailId === id) return;
+    openDetail(id, true);
+  } else if (!id && !$('detailSheet').hidden) {
+    closeAllSheets(true);
+  }
 }
 
 // --- Filtering ---
@@ -326,9 +346,14 @@ function updateFavCount() {
 }
 
 // --- Detail sheet ---
-function openDetail(id) {
+function openDetail(id, fromHash) {
   const game = S.games.find(g => g.id === id);
   if (!game) return;
+
+  S.currentDetailId = id;
+  if (!fromHash && location.hash !== '#' + id) {
+    location.hash = id;
+  }
 
   const isFav = S.favorites.has(id);
 
@@ -356,6 +381,12 @@ function openDetail(id) {
                  color:${isFav ? '#fff' : 'var(--text-2)'};border:none;font-family:inherit">
           ${isFav ? '♥ Favori' : '♡ Ajouter'}
         </button>
+        <button class="badge badge--share" id="detailShareBtn"
+          style="cursor:pointer;border:none;font-family:inherit"
+          aria-label="Partager ce jeu">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
+          Partager
+        </button>
       </div>
       <div class="detail-summary">
         <div class="detail-summary__label">Règle courte</div>
@@ -372,11 +403,83 @@ function openDetail(id) {
 
   $('detailFavBtn').onclick = () => {
     toggleFavorite(id);
-    openDetail(id);
+    openDetail(id, true);
   };
+
+  $('detailShareBtn').onclick = () => shareGame(game);
 
   $('detailSheet').hidden = false;
   document.body.style.overflow = 'hidden';
+}
+
+// --- Share ---
+async function shareGame(game) {
+  const url = `${location.origin}${location.pathname}#${game.id}`;
+  const shareData = {
+    title: `${game.title} — PKcards`,
+    text: `Règles du jeu de cartes « ${game.title} » sur PKcards`,
+    url,
+  };
+  if (navigator.share) {
+    try { await navigator.share(shareData); return; }
+    catch (e) { if (e && e.name === 'AbortError') return; }
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+    showToast('Lien copié ✓');
+  } catch {
+    showToast(url);
+  }
+}
+
+// --- Toast ---
+let toastTimer = null;
+function showToast(msg) {
+  const el = $('toast');
+  el.textContent = msg;
+  el.hidden = false;
+  el.classList.add('toast--show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => {
+    el.classList.remove('toast--show');
+    setTimeout(() => { el.hidden = true; }, 250);
+  }, 2200);
+}
+
+// --- Search ---
+function normalize(str) {
+  return (str || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+function openSearch() {
+  renderSearchResults('');
+  $('searchSheet').hidden = false;
+  document.body.style.overflow = 'hidden';
+  setTimeout(() => $('searchInput').focus(), 60);
+}
+
+function renderSearchResults(query) {
+  const q = normalize(query);
+  const list = q
+    ? S.games.filter(g => normalize(g.title).includes(q) || normalize(g.aliases).includes(q))
+    : S.games;
+  const box = $('searchResults');
+
+  if (list.length === 0) {
+    box.innerHTML = `<div class="fav-empty"><div class="fav-empty__icon">🔍</div><p>Aucun jeu trouvé pour « ${escapeHtml(query)} »</p></div>`;
+    return;
+  }
+
+  box.innerHTML = list.slice(0, 60).map(g => `
+    <button class="search-item" style="--card-color:${g.color || 'var(--accent)'}" data-id="${g.id}">
+      <span class="search-item__name">${escapeHtml(g.title)}</span>
+      <span class="search-item__meta">${escapeHtml(g.players)} · ${escapeHtml(g.cards)} · ${escapeHtml(g.type)}</span>
+    </button>
+  `).join('');
+
+  box.querySelectorAll('.search-item').forEach(btn => {
+    btn.onclick = () => { $('searchSheet').hidden = true; openDetail(btn.dataset.id); };
+  });
 }
 
 // --- Favorites sheet ---
@@ -434,15 +537,21 @@ function openFilter() {
 }
 
 // --- Sheet management ---
-function closeAllSheets() {
+function closeAllSheets(fromHash) {
+  const detailWasOpen = !$('detailSheet').hidden;
   $('detailSheet').hidden = true;
   $('favSheet').hidden = true;
   $('filterSheet').hidden = true;
+  $('searchSheet').hidden = true;
   document.body.style.overflow = '';
+  S.currentDetailId = null;
+  if (detailWasOpen && !fromHash && location.hash) {
+    history.replaceState(null, '', location.pathname + location.search);
+  }
 }
 
 function anySheetOpen() {
-  return !$('detailSheet').hidden || !$('favSheet').hidden || !$('filterSheet').hidden;
+  return !$('detailSheet').hidden || !$('favSheet').hidden || !$('filterSheet').hidden || !$('searchSheet').hidden;
 }
 
 // Close on Escape
