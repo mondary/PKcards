@@ -29,6 +29,7 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 
 #### Changed
 - Migration du dossier `cartes-regles/` vers `rules/`
+- Réécriture des fiches au format « Règle courte / Version longue »
 - `build.js` parse les nouveaux champs et lit depuis `rules/`
 - Compteur de jeux mis à jour (55 → 160+) dans le titre et la description
 
