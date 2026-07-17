@@ -151,12 +151,15 @@ function createCard(game, depth) {
     <div class="card__stamp card__stamp--pass">Non</div>
     <div class="card__body">
       <h2 class="card__title">${escapeHtml(game.title)}</h2>
+      ${game.aliases ? `<div class="card__aliases">${escapeHtml(game.aliases)}</div>` : ''}
       <div class="card__badges">
         <span class="badge badge--players">
           <span class="badge__dot"></span>
           ${escapeHtml(game.players)}
         </span>
         <span class="badge badge--cards">${escapeHtml(game.cards)}</span>
+        ${game.difficulty !== 'Non renseignée' ? `<span class="badge">${escapeHtml(game.difficulty)}</span>` : ''}
+        ${game.type !== 'Non renseigné' ? `<span class="badge">${escapeHtml(game.type)}</span>` : ''}
       </div>
       <div class="card__goal">
         <div class="card__goal-label">But du jeu</div>
@@ -329,9 +332,20 @@ function openDetail(id) {
 
   const isFav = S.favorites.has(id);
 
+  const ytQuery = encodeURIComponent(game.title + ' règles jeu de cartes');
+  const ytUrl = `https://www.youtube.com/results?search_query=${ytQuery}`;
+
+  const aliasesHTML = game.aliases
+    ? `<div class="detail-aliases">
+         <span class="detail-aliases__label">Aussi appelé :</span>
+         ${escapeHtml(game.aliases)}
+       </div>`
+    : '';
+
   $('detailBody').innerHTML = `
     <div class="detail-header" style="--card-color:${game.color || 'var(--accent)'}">
       <h1>${escapeHtml(game.title)}</h1>
+      ${aliasesHTML}
       <div class="detail-badges">
         <span class="badge badge--players" style="--card-color:${game.color}">
           <span class="badge__dot"></span>${escapeHtml(game.players)}
@@ -343,7 +357,16 @@ function openDetail(id) {
           ${isFav ? '♥ Favori' : '♡ Ajouter'}
         </button>
       </div>
+      <div class="detail-summary">
+        <div class="detail-summary__label">Règle courte</div>
+        <div class="detail-summary__goal">${escapeHtml(game.goal)}</div>
+      </div>
+      <a href="${ytUrl}" target="_blank" rel="noopener" class="detail-yt-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.5 15.5v-7l6 3.5-6 3.5z"/></svg>
+        Voir les règles sur YouTube
+      </a>
     </div>
+    <div class="detail-long-label">Version longue</div>
     <div class="markdown">${marked.parse(stripMeta(game.markdown))}</div>
   `;
 
