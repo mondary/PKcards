@@ -1,94 +1,42 @@
 # Le Barbu
 
-**Nombre de joueurs :** 4
-**Nombre de cartes :** 52 (sans jokers)
+**Nombre de joueurs :** 4 à 8
+**Nombre de cartes :** 52 (2 jeux à 6+ joueurs)
 **Difficulté :** Difficile
 **Type :** Jeu de plis, Enchères
-**But :** Obtenir le **minimum de points**
-**Autres noms :** Le Barbu, Le Roi Barb
+**But :** Avoir le moins de points à la fin de la partie
+**Autres noms :** Le Barbu
 
 ---
 
-## Ordre des cartes
+## Règle courte
 
-**2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → Valet → Dame → Roi → As**
+Le barbu, c'est le Roi de cœur. C'est la carte qu'il faut absolument éviter de prendre lors des deux dernières manches de ce jeu, qui en compte cinq.
 
-> Pas d'atout. Le joueur qui entame détermine la couleur. On doit suivre la couleur demandée. Le joueur avec la carte la plus forte remporte le pli. Au 1er tour, il est **interdit** d'entamer par un cœur.
+## Version longue
 
-## Déroulement
+### Distribution des cartes
 
-Le jeu se joue en **4 manches** de **5 contrats** chacune. Un joueur désigné choisit un contrat non encore joué. Le joueur suivant entame.
+Chaque joueur donne les cartes tour à tour. Le donneur distribue toutes les cartes. Il doit cependant voir à ce que tous les joueurs en aient un nombre identique. C'est le joueur situé à gauche du donneur qui entame.
 
-## Les 6 contrats
+Le barbu respecte les grandes règles classiques des jeux de stratégie comme la Dame de pique. L'ordre des cartes va donc de l'As, la plus forte, au 2. Toutefois, les objectifs changent en cours de route, selon les manches.
 
-### 1. Le Barbu
+À la fin de la partie, le joueur ayant le moins de points est le vainqueur.
 
-Ne pas rapporter le **Roi de Cœur** dans ses plis.
+### Les cinq manches
 
-| Résultat | Points |
-|----------|--------|
-| Prendre le Barbu | **-40 points** |
+1. **Le moins de levées.** À la fin de la manche, chaque joueur compte 5 points par levée (ou pli) qu'il a réalisée.
 
-### 2. Les Dames
+2. **Pas de cœur.** Le but est de ramasser le moins de cœurs possible dans ses plis. Chaque cœur ramassé vaut 5 points.
 
-Ne pas rapporter de **Dame** dans ses plis.
+3. **Pas de Dames.** Il faut éviter de ramasser des Dames, chacune valant 20 points.
 
-| Résultat | Points |
-|----------|--------|
-| Chaque Dame prise | **-10 points** |
+4. **Le barbu.** Si on a le Roi de cœur dans son jeu, on doit s'ajouter 80 points.
 
-### 3. Les Cœurs
-
-Ne pas rapporter de **cœur** dans ses plis.
-
-| Résultat | Points |
-|----------|--------|
-| Chaque Cœur pris | **-5 points** |
-| **Tous les cœurs** (13) | Les 3 autres joueurs perdent **-40 points** chacun |
-
-### 4. Les Plis
-
-Ne pas rapporter de **pli**.
-
-| Résultat | Points |
-|----------|--------|
-| Chaque pli remporté | **-5 points** |
-| **Tous les plis** (13) | Les 3 autres joueurs perdent **-40 points** chacun |
-
-### 5. Le Dernier Pli
-
-Ne pas remporter le **dernier pli**.
-
-| Résultat | Points |
-|----------|--------|
-| Faire le dernier pli | **-40 points** |
-
-### 6. La Générale
-
-Tout est comptabilisé : plis, cœurs, Roi de Cœur, dames et dernier pli. Les points sont les mêmes que chaque contrat séparément.
-
-> Si un joueur fait **tous les points**, ce sont les 3 autres qui perdent chacun un nombre de points égal au total.
-
-## Récapitulatif
-
-| Contrat | Points perdus | Total max |
-|---------|---------------|-----------|
-| Barbu | 40 pts (Roi de Cœur) | 40 |
-| Dames | 10 pts par dame | 40 |
-| Cœurs | 5 pts par cœur | 65 |
-| Plis | 5 pts par pli | 65 |
-| Dernier pli | 40 pts | 40 |
-| Générale | Cumul des contrats | 250 |
-
-## Fin de manche
-
-- Quand tous les contrats ont été joués, on compte le total de points de chaque joueur.
-- Si plusieurs manches → le total s'ajoute.
-- **Le gagnant** = celui qui a perdu le **moins de points**.
+5. **La salade.** C'est un mélange de toutes les manches. Il faut donc éviter de faire une levée et ne prendre aucune carte de cœur, aucune Dame et surtout pas le Roi de cœur. À la fin de cette manche, on compte les points selon les règles établies pour toutes les manches précédentes.
 
 ## Variantes
 
-| Variante | Règle |
-|----------|-------|
-| **Les 2 derniers plis** | Ne pas prendre les 2 derniers plis : **-20 points** par pli |
-| **Dame de Pique** | Jeu dérivé du Barbu (connu sur Windows) |
+- Une variante consiste à laisser le joueur situé après le donneur choisir le jeu : le moins de levées possible, pas de cœurs, pas de Dames, le barbu ou la salade. Chaque joueur choisit à son tour. C'est cependant le joueur situé à droite du donneur qui entame.
+- Jouez au plus grand nombre de levées possibles. Cela peut se faire lors d'une manche ajoutée après la cinquième habituelle. Chaque joueur enlèvera 5 points à son total chaque fois qu'il fera une levée.
+- À six joueurs et plus, on peut utiliser deux jeux de cartes. Lorsque plusieurs joueurs déposent la même carte, c'est celui qui l'a présentée en dernier qui remporte la levée.

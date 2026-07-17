@@ -29,25 +29,23 @@ const GAMES = [
     "id": "8-americain",
     "title": "8 Américain",
     "players": "2+",
-    "cards": "108 (2 jeux de 54 sans jokers, recommandé) ou 52",
+    "cards": "52 (ou 108 avec deux jeux)",
     "difficulty": "Moyenne",
-    "type": "Mixte",
-    "goal": "Ne plus avoir aucune carte en main",
-    "aliases": "8 Américain, Crazy Eights, Mau Mau, Switch, Uno (ancêtre)",
+    "type": "Défausse, Hasard",
+    "goal": "Se débarrasser de toutes ses cartes le premier",
+    "aliases": "Crazy Eights, Mau Mau, Switch, Uno (ancêtre)",
     "playerMin": 2,
     "playerMax": 2,
-    "cardCount": 108,
+    "cardCount": 52,
     "category": "duo",
     "color": "#60a5fa",
     "sections": [
-      "Préparation",
-      "Déroulement",
-      "Cartes spéciales",
-      "Cartes spéciales supplémentaires (optionnelles)",
-      "Règles supplémentaires"
+      "Règle courte",
+      "Version longue",
+      "Variantes"
     ],
-    "excerpt": "1. Le joueur à gauche du batteur coupe les cartes. 2. Le donneur distribue de 3 à 13 cartes à chaque joueur (au choix). 3. Les cartes restantes sont placées face retournée en sabot au centre.",
-    "markdown": "# 8 Américain\n\n**Nombre de joueurs :** 2+\n**Nombre de cartes :** 108 (2 jeux de 54 sans jokers, recommandé) ou 52\n**Difficulté :** Moyenne\n**Type :** Mixte\n**But :** Ne plus avoir aucune carte en main\n**Autres noms :** 8 Américain, Crazy Eights, Mau Mau, Switch, Uno (ancêtre)\n\n---\n\n## Préparation\n\n1. Le joueur à gauche du batteur **coupe** les cartes.\n2. Le donneur distribue de **3 à 13 cartes** à chaque joueur (au choix).\n3. Les cartes restantes sont placées **face retournée** en sabot au centre.\n4. Retourner la première carte du sabot → elle est considérée comme la carte du donneur.\n\n> Le joueur à sa gauche commence à jouer.\n\n## Déroulement\n\n### Jouer une carte\n\nChaque joueur doit poser une carte sur le tas qui soit :\n- De la **même valeur**\n- OU de la **même enseigne**\n\n> Si on ne peut pas jouer → piocher une carte dans le sabot.\n\n### Contre-carte\n\nUn joueur qui n'a plus qu'**une carte** doit l'annoncer en disant **« Carte »**. S'il l'oublie et qu'un adversaire dit **« Contre-carte »** → **2 cartes de pénalité**.\n\n## Cartes spéciales\n\n| Carte | Effet |\n|-------|-------|\n| **8** | Carte la plus puissante. Peut être jouée sur **n'importe quelle** enseigne ou valeur. Le joueur annonce la nouvelle couleur. |\n| **As** | Le joueur suivant doit poser un As (sinon prendre 2 cartes × nb d'As posés). Un 8 annule le cumul. |\n| **2** | Le joueur suivant doit piocher **2 cartes** et ne joue pas. |\n| **Valet** | Inverse le sens du jeu. |\n| **7** | Fait sauter le tour du joueur suivant. |\n| **9** | Le joueur suivant doit poser un 9 (sinon piocher 1 carte). Si tous les 9 sont joués, jouer normalement. |\n| **10** | Permet de **rejouer**. Si posé en dernier, obligation de rejouer (et donc piocher). |\n\n## Cartes spéciales supplémentaires (optionnelles)\n\n| Carte | Effet |\n|-------|-------|\n| **3** | Similaire au 2 : le joueur suivant doit prendre **3 cartes** |\n| **Dame** | Permet de **rejouer**. Si on ne peut pas jouer après → piocher 1 carte |\n| **Roi** | Permet d'**échanger ses cartes** avec le joueur de son choix |\n\n## Règles supplémentaires\n\n### Pénalités (2 cartes)\n\n| Infraction |\n|------------|\n| Poser une carte ne correspondant ni à la bonne enseigne ni à la bonne valeur |\n| Jouer alors que ce n'est pas son tour |\n| Jouer alors qu'on le doit pas (à cause d'un 2 ou As) |\n| Oublier de dire « Carte » quand on n'a plus qu'1 carte |\n| Dire « Contre-carte » à un joueur ayant encore plus d'1 carte |\n| Poser deux cartes en même temps |\n\n### Les cartes doubles (2 jeux nécessaires)\n\n- Autorise à poser une carte **quand ce n'est pas son tour** si elle est **exactement identique** à celle sur le tas.\n- Si la carte est posée avant le joueur dont c'est le tour, le tour reprend à partir du « usurpateur ».\n\n### Couleurs plutôt qu'enseignes\n\nRemplacer les enseignes (pique, cœur, carreau, trèfle) par les **couleurs** (rouge, noir). On peut ainsi poser du cœur sur du carreau.\n"
+    "excerpt": "Le donneur distribue huit cartes aux deux joueurs en commençant par son adversaire. Une fois qu'il a terminé, il met le talon au centre du jeu et dévoile une carte, qu'il dépose à côté du talon. C'est le pli, qui indique…",
+    "markdown": "# 8 Américain\n\n**Nombre de joueurs :** 2+\n**Nombre de cartes :** 52 (ou 108 avec deux jeux)\n**Difficulté :** Moyenne\n**Type :** Défausse, Hasard\n**But :** Se débarrasser de toutes ses cartes le premier\n**Autres noms :** Crazy Eights, Mau Mau, Switch, Uno (ancêtre)\n\n---\n\n## Règle courte\n\nLe donneur distribue huit cartes aux deux joueurs en commençant par son adversaire. Une fois qu'il a terminé, il met le talon au centre du jeu et dévoile une carte, qu'il dépose à côté du talon. C'est le pli, qui indique la couleur qui prévaut.\n\n## Version longue\n\n### Début du jeu\n\nL'adversaire commence. Il joue s'il a une carte du même type (trèfle, carreau, cœur ou pique) que celle sur le dessus de l'écart. Il peut aussi jouer une carte de couleur différente mais de même rang. Par exemple, s'il y a un 7 de cœur sur l'écart, on peut mettre un 7 de carreau, et on continue en carreau. Il peut enfin jouer un 8 de n'importe quelle couleur ou un Fou.\n\nS'il ne peut jouer, il pige une carte sur le dessus du talon. Il peut la jouer si elle le lui permet.\n\nLorsqu'il ne reste plus de carte dans le talon, on ramasse les cartes de l'écart, sauf celle du dessus, on les mélange et on les retourne pour faire un nouveau talon.\n\n### Règle du « carte »\n\nLorsqu'un joueur n'a plus qu'une carte, il doit annoncer « carte ». Il pourra alors essayer de se débarrasser de sa dernière carte au tour suivant et gagner la manche ou la partie. S'il « oublie » d'annoncer sa dernière carte et qu'il la joue, il doit piger cinq nouvelles cartes.\n\n### Fin de partie\n\nLe premier joueur qui amasse 500 points perd la partie.\n\n### Cartes spéciales\n\n- **L'As** permet à un joueur de jouer toutes les cartes du même type. Par exemple, si le donneur dévoile un As de pique comme première carte de la partie, son adversaire peut jeter tout son pique.\n- **Le 2** force son adversaire à piger deux cartes supplémentaires et à passer son tour. Le 2 de pique oblige l'adversaire à piger quatre cartes.\n- **Le 8** change la couleur du jeu. En jetant un 8 de cœur, un joueur appelle une autre couleur, et pas nécessairement le cœur.\n- **Le Fou coloré** force son adversaire à piger 10 cartes supplémentaires et à passer son tour. Le Fou en noir et blanc oblige l'adversaire à piger cinq cartes. Attention : si les deux Fous du jeu ont la même couleur, relevez un détail qui permettra de les distinguer.\n- **Le Valet** fait passer un tour à l'adversaire.\n\n### Calcul des points\n\nLorsqu'un joueur a épuisé son jeu, la manche se termine. Il n'amasse donc aucun point. Son adversaire compte ses points ainsi :\n\n| Carte | Points |\n|-------|--------|\n| Fou | 50 |\n| 8 | 25 |\n| 2 de pique | 25 |\n| 2 | 15 |\n| As | 15 |\n| Figures | 10 |\n| Autres cartes | 5 |\n\n## Variantes\n\nSi vous êtes de trois à six joueurs, vous pouvez jouer à la « bande des huit ». Prenez alors deux jeux de cartes. Suivez les règles du jeu de 8 habituel, mais en déposant un As de pique, vous faites changer le sens du jeu. Le joueur à la gauche du donneur commence la partie. C'est toujours le joueur qui doit jouer après qui est victime des cartes « piégées », c'est-à-dire des Fous, des 2 et des Valets.\n"
   },
   {
     "id": "all-fives",
@@ -295,27 +293,24 @@ const GAMES = [
   {
     "id": "barbu",
     "title": "Le Barbu",
-    "players": "4",
-    "cards": "52 (sans jokers)",
+    "players": "4 à 8",
+    "cards": "52 (2 jeux à 6+ joueurs)",
     "difficulty": "Difficile",
     "type": "Jeu de plis, Enchères",
-    "goal": "Obtenir le **minimum de points**",
-    "aliases": "Le Barbu, Le Roi Barb",
+    "goal": "Avoir le moins de points à la fin de la partie",
+    "aliases": "Le Barbu",
     "playerMin": 4,
-    "playerMax": 4,
+    "playerMax": 8,
     "cardCount": 52,
-    "category": "petit-groupe",
-    "color": "#34d399",
+    "category": "grand-groupe",
+    "color": "#fb923c",
     "sections": [
-      "Ordre des cartes",
-      "Déroulement",
-      "Les 6 contrats",
-      "Récapitulatif",
-      "Fin de manche",
+      "Règle courte",
+      "Version longue",
       "Variantes"
     ],
-    "excerpt": "2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → Valet → Dame → Roi → As > Pas d'atout. Le joueur qui entame détermine la couleur. On doit suivre la couleur demandée. Le joueur avec la carte la plus forte remporte le pli. Au 1er tou…",
-    "markdown": "# Le Barbu\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52 (sans jokers)\n**Difficulté :** Difficile\n**Type :** Jeu de plis, Enchères\n**But :** Obtenir le **minimum de points**\n**Autres noms :** Le Barbu, Le Roi Barb\n\n---\n\n## Ordre des cartes\n\n**2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → Valet → Dame → Roi → As**\n\n> Pas d'atout. Le joueur qui entame détermine la couleur. On doit suivre la couleur demandée. Le joueur avec la carte la plus forte remporte le pli. Au 1er tour, il est **interdit** d'entamer par un cœur.\n\n## Déroulement\n\nLe jeu se joue en **4 manches** de **5 contrats** chacune. Un joueur désigné choisit un contrat non encore joué. Le joueur suivant entame.\n\n## Les 6 contrats\n\n### 1. Le Barbu\n\nNe pas rapporter le **Roi de Cœur** dans ses plis.\n\n| Résultat | Points |\n|----------|--------|\n| Prendre le Barbu | **-40 points** |\n\n### 2. Les Dames\n\nNe pas rapporter de **Dame** dans ses plis.\n\n| Résultat | Points |\n|----------|--------|\n| Chaque Dame prise | **-10 points** |\n\n### 3. Les Cœurs\n\nNe pas rapporter de **cœur** dans ses plis.\n\n| Résultat | Points |\n|----------|--------|\n| Chaque Cœur pris | **-5 points** |\n| **Tous les cœurs** (13) | Les 3 autres joueurs perdent **-40 points** chacun |\n\n### 4. Les Plis\n\nNe pas rapporter de **pli**.\n\n| Résultat | Points |\n|----------|--------|\n| Chaque pli remporté | **-5 points** |\n| **Tous les plis** (13) | Les 3 autres joueurs perdent **-40 points** chacun |\n\n### 5. Le Dernier Pli\n\nNe pas remporter le **dernier pli**.\n\n| Résultat | Points |\n|----------|--------|\n| Faire le dernier pli | **-40 points** |\n\n### 6. La Générale\n\nTout est comptabilisé : plis, cœurs, Roi de Cœur, dames et dernier pli. Les points sont les mêmes que chaque contrat séparément.\n\n> Si un joueur fait **tous les points**, ce sont les 3 autres qui perdent chacun un nombre de points égal au total.\n\n## Récapitulatif\n\n| Contrat | Points perdus | Total max |\n|---------|---------------|-----------|\n| Barbu | 40 pts (Roi de Cœur) | 40 |\n| Dames | 10 pts par dame | 40 |\n| Cœurs | 5 pts par cœur | 65 |\n| Plis | 5 pts par pli | 65 |\n| Dernier pli | 40 pts | 40 |\n| Générale | Cumul des contrats | 250 |\n\n## Fin de manche\n\n- Quand tous les contrats ont été joués, on compte le total de points de chaque joueur.\n- Si plusieurs manches → le total s'ajoute.\n- **Le gagnant** = celui qui a perdu le **moins de points**.\n\n## Variantes\n\n| Variante | Règle |\n|----------|-------|\n| **Les 2 derniers plis** | Ne pas prendre les 2 derniers plis : **-20 points** par pli |\n| **Dame de Pique** | Jeu dérivé du Barbu (connu sur Windows) |\n"
+    "excerpt": "Le barbu, c'est le Roi de cœur. C'est la carte qu'il faut absolument éviter de prendre lors des deux dernières manches de ce jeu, qui en compte cinq.",
+    "markdown": "# Le Barbu\n\n**Nombre de joueurs :** 4 à 8\n**Nombre de cartes :** 52 (2 jeux à 6+ joueurs)\n**Difficulté :** Difficile\n**Type :** Jeu de plis, Enchères\n**But :** Avoir le moins de points à la fin de la partie\n**Autres noms :** Le Barbu\n\n---\n\n## Règle courte\n\nLe barbu, c'est le Roi de cœur. C'est la carte qu'il faut absolument éviter de prendre lors des deux dernières manches de ce jeu, qui en compte cinq.\n\n## Version longue\n\n### Distribution des cartes\n\nChaque joueur donne les cartes tour à tour. Le donneur distribue toutes les cartes. Il doit cependant voir à ce que tous les joueurs en aient un nombre identique. C'est le joueur situé à gauche du donneur qui entame.\n\nLe barbu respecte les grandes règles classiques des jeux de stratégie comme la Dame de pique. L'ordre des cartes va donc de l'As, la plus forte, au 2. Toutefois, les objectifs changent en cours de route, selon les manches.\n\nÀ la fin de la partie, le joueur ayant le moins de points est le vainqueur.\n\n### Les cinq manches\n\n1. **Le moins de levées.** À la fin de la manche, chaque joueur compte 5 points par levée (ou pli) qu'il a réalisée.\n\n2. **Pas de cœur.** Le but est de ramasser le moins de cœurs possible dans ses plis. Chaque cœur ramassé vaut 5 points.\n\n3. **Pas de Dames.** Il faut éviter de ramasser des Dames, chacune valant 20 points.\n\n4. **Le barbu.** Si on a le Roi de cœur dans son jeu, on doit s'ajouter 80 points.\n\n5. **La salade.** C'est un mélange de toutes les manches. Il faut donc éviter de faire une levée et ne prendre aucune carte de cœur, aucune Dame et surtout pas le Roi de cœur. À la fin de cette manche, on compte les points selon les règles établies pour toutes les manches précédentes.\n\n## Variantes\n\n- Une variante consiste à laisser le joueur situé après le donneur choisir le jeu : le moins de levées possible, pas de cœurs, pas de Dames, le barbu ou la salade. Chaque joueur choisit à son tour. C'est cependant le joueur situé à droite du donneur qui entame.\n- Jouez au plus grand nombre de levées possibles. Cela peut se faire lors d'une manche ajoutée après la cinquième habituelle. Chaque joueur enlèvera 5 points à son total chaque fois qu'il fera une levée.\n- À six joueurs et plus, on peut utiliser deux jeux de cartes. Lorsque plusieurs joueurs déposent la même carte, c'est celui qui l'a présentée en dernier qui remporte la levée.\n"
   },
   {
     "id": "bassette",
@@ -414,24 +409,23 @@ const GAMES = [
     "id": "bataille",
     "title": "Bataille",
     "players": "2 (ou +)",
-    "cards": "32 ou 52",
+    "cards": "52",
     "difficulty": "Facile",
-    "type": "Jeu de plis, Hasard",
+    "type": "Hasard",
     "goal": "Posséder toutes les cartes du jeu",
     "aliases": "La Bataille, War",
     "playerMin": 2,
     "playerMax": 2,
-    "cardCount": 32,
+    "cardCount": 52,
     "category": "duo",
     "color": "#60a5fa",
     "sections": [
-      "Préparation",
-      "Déroulement",
-      "Bataille",
-      "Fin du jeu"
+      "Règle courte",
+      "Version longue",
+      "Variantes"
     ],
-    "excerpt": "Distribuer au hasard toutes les cartes aux deux joueurs. Les joueurs ne prennent pas connaissance de leurs cartes et les posent devant eux en un tas.",
-    "markdown": "# Bataille\n\n**Nombre de joueurs :** 2 (ou +)\n**Nombre de cartes :** 32 ou 52\n**Difficulté :** Facile\n**Type :** Jeu de plis, Hasard\n**But :** Posséder toutes les cartes du jeu\n**Autres noms :** La Bataille, War\n\n---\n\n## Préparation\n\n- Distribuer au hasard **toutes** les cartes aux deux joueurs.\n- Les joueurs ne prennent pas connaissance de leurs cartes et les posent devant eux en un **tas**.\n\n## Déroulement\n\n- À chaque tour, chaque joueur retourne la carte du haut de son tas.\n- Le joueur qui dévoile la carte ayant la plus haute valeur emporte la levée qu'il place sous son tas.\n- **Les valeurs des cartes (de la plus forte à la plus faible) :**\n  As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2\n\n> Seule la valeur compte. On ne distingue pas les couleurs (Carreau, Pique, Cœur, Trèfle).\n\n## Bataille\n\nSi deux cartes sont de même valeur, il y a **« bataille »** :\n\n1. Les joueurs posent une carte **face cachée**\n2. Puis une carte **face visible**\n3. Recommencer s'il y a de nouveau bataille\n4. Le joueur ayant la valeur la plus forte emporte tout le tas\n\n## Fin du jeu\n\nLorsque l'un des joueurs **possède toutes les cartes du jeu**, la partie s'arrête et ce dernier gagne.\n"
+    "excerpt": "Le joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée. Les joueurs dévoilent en même temps une carte. Celui qui…",
+    "markdown": "# Bataille\n\n**Nombre de joueurs :** 2 (ou +)\n**Nombre de cartes :** 52\n**Difficulté :** Facile\n**Type :** Hasard\n**But :** Posséder toutes les cartes du jeu\n**Autres noms :** La Bataille, War\n\n---\n\n## Règle courte\n\nLe joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée. Les joueurs dévoilent en même temps une carte. Celui qui possède la carte ayant la plus haute valeur remporte la mise. Le gagnant remporte les deux cartes. Et on recommence.\n\n## Version longue\n\n### Déroulement\n\nLe joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée.\n\nLes joueurs dévoilent en même temps une carte. Celui qui possède la carte ayant la plus haute valeur remporte la mise. Le gagnant remporte les deux cartes. Et on recommence.\n\n### La bataille\n\nLa bataille se produit lorsque deux cartes d'égale valeur se rencontrent. Par exemple, si les deux joueurs sortent un Roi de leur paquet, il y a bataille. À ce moment, les deux joueurs dévoilent toujours leurs cartes en même temps, mais ils doivent sortir une carte d'égale valeur de leur paquet, un Roi dans ce cas-ci, pour remporter toutes les cartes dévoilées dans cette bataille.\n\nLe jeu se termine lorsqu'un des deux joueurs a remporté toutes les cartes.\n\n### Règles spéciales\n\n- Si, pendant une bataille, les deux joueurs dévoilent en même temps deux cartes identiques, ils les enlèvent du jeu. Ces cartes serviront à lancer une autre bataille une fois la première terminée.\n- Le hasard peut faire en sorte que les deux joueurs sortent deux Valets en même temps alors qu'ils se trouvaient dans une bataille en Valet. Comme il n'y a que quatre Valets dans un jeu de cartes, aucun des deux joueurs ne pourrait remporter cette bataille si on n'avait pas déjà prévu le coup. On enlèvera donc un de la valeur des cartes en litige pour continuer la bataille en 10, dans cet exemple. Si la bataille se fait en 2, on prendra l'As comme nouvelle valeur à trouver.\n\n## Variantes\n\n- Vous pouvez appliquer toutes sortes de règles pour varier ce jeu, l'un des plus simples. La première consisterait à utiliser deux jeux de cartes. Cela aura notamment pour effet de prolonger la partie…\n- Une autre variante consiste à jouer à trois ou à quatre joueurs. À ce moment, les batailles se font entre les joueurs qui déposent des cartes d'égale valeur. Les autres les regardent jouer… Il est préférable d'utiliser deux paquets pour faire cette partie.\n- Vous pouvez aussi essayer de jouer en équipe si le cœur vous en dit.\n"
   },
   {
     "id": "baudet",
@@ -484,25 +478,21 @@ const GAMES = [
     "players": "4 (2 équipes de 2)",
     "cards": "32",
     "difficulty": "Difficile",
-    "type": "Jeu de plis, Défausse, Enchères",
-    "goal": "Être la 1ère équipe à atteindre 1000 points",
-    "aliases": "Belote, Belotte, Belote bridgée",
+    "type": "Jeu de plis, Combinaisons, Enchères",
+    "goal": "Atteindre un nombre donné de points en remportant des plis et en annonçant des combinaisons",
+    "aliases": "Belote",
     "playerMin": 4,
     "playerMax": 2,
     "cardCount": 32,
     "category": "duo",
     "color": "#60a5fa",
     "sections": [
-      "Préparation",
-      "Ordre des cartes",
-      "Déroulement",
-      "Décompte des points",
-      "Points marqués",
-      "Annonces",
-      "Tactiques de jeu"
+      "Règle courte",
+      "Version longue",
+      "Variantes"
     ],
-    "excerpt": "Les équipes : Nord et Sud contre Est et Ouest (adversaire à gauche et à droite). Le jeu de cartes n'est brassé qu'une seule fois, avant de commencer la partie. Distribution",
-    "markdown": "# Belote\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 32\n**Difficulté :** Difficile\n**Type :** Jeu de plis, Défausse, Enchères\n**But :** Être la 1ère équipe à atteindre 1000 points\n**Autres noms :** Belote, Belotte, Belote bridgée\n\n---\n\n## Préparation\n\n- Les équipes : Nord et Sud contre Est et Ouest (adversaire à gauche et à droite).\n- Le jeu de cartes n'est brassé qu'**une seule fois**, avant de commencer la partie.\n\n### Distribution\n\n1. Le joueur à droite du donneur **coupe** le jeu.\n2. Le donneur distribue **3 cartes** face cachée à chaque joueur, puis **2 cartes** supplémentaires.\n3. Il retourne la carte du dessus du tas → sa couleur est proposée comme **atout**.\n\n### Choix de l'atout\n\n| Tour | Règle |\n|------|-------|\n| **1er tour** | Chaque joueur accepte ou non l'atout proposé. Le premier qui accepte récupère la carte retournée. |\n| **2ème tour** | Si personne n'a pris, chaque joueur peut choisir **n'importe quelle couleur** d'atout. |\n| **Personne ne prend** | Les cartes sont regroupées et la donne suivante commence. |\n\n> Chaque joueur dispose de **8 cartes** en fin de donne.\n\n## Ordre des cartes\n\n### Hors atout (du plus faible au plus fort)\n\nSept, Huit, Neuf, Valet, Dame, Roi, Dix, As\n\n### À l'atout (du plus faible au plus fort)\n\nSept, Huit, Dame, Roi, Dix, As, Neuf, Valet\n\n> Toute carte d'atout l'emporte sur les cartes d'autres couleurs.\n\n## Déroulement\n\nUne manche = **8 plis**. Le joueur à gauche du donneur effectue la première entame.\n\n### Règles de jeu\n\n| Situation | Action obligatoire |\n|-----------|--------------------|\n| Le joueur possède la couleur d'entame | Il doit jouer une de ces cartes |\n| Le joueur n'a pas la couleur, mais son partenaire est **maître** | Il joue la carte de son choix (appel ou défausse) |\n| Le joueur n'a pas la couleur, l'adversaire est maître, il a des atouts | Il doit **couper** (jouer un atout) |\n| Le joueur n'a ni la couleur, ni des atouts | Il joue la carte de son choix |\n| Le joueur joue atout et a un atout plus fort que celui déjà posé | Il doit **monter à l'atout** (surcouper) |\n\n> **Remporter un pli :** Le joueur ayant déposé la carte la plus forte remporte le pli et entame le tour suivant.\n\n## Décompte des points\n\n### Valeurs hors atout\n\n| Carte | Points |\n|-------|--------|\n| As | 11 |\n| Dix | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| Valet | 2 |\n| Neuf, Huit, Sept | 0 |\n\n### Valeurs à l'atout\n\n| Carte | Points |\n|-------|--------|\n| Valet | 20 |\n| Neuf | 14 |\n| As | 11 |\n| Dix | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| Huit, Sept | 0 |\n\n> **Total des points du jeu = 162.** La règle du **10 de der** ajoute 10 points au dernier pli remporté.\n\n## Points marqués\n\n| Situation | Points |\n|-----------|--------|\n| **Contrat réussi** (> 81 pts) | Chaque équipe marque ses points (arrondis au multiple de 10) |\n| **Contrat perdu** (équipe preneuse < 82 pts) | Preneur : 0 / Adverse : **160 points** |\n| **Capot** (8 plis remportés) | **90 points supplémentaires** |\n| **Belote** (Roi + Dame d'atout) | **20 points** (toujours marqués par celui qui l'annonce) |\n\n> Une partie se joue en **1000 points**.\n\n## Annonces\n\nLes annonces se déclarent lors de la **première levée**. Seule l'équipe ayant l'annonce la plus forte les comptabilise.\n\n| Annonce | Points |\n|---------|--------|\n| **Belote** (Dame + Roi d'atout) | 20 |\n| **Tierce** (3 cartes consécutives) | 20 |\n| **Cinquante** (4 cartes consécutives) | 50 |\n| **Cent** (5 cartes consécutives) | 100 |\n| **Carré de Valets** | 200 |\n| **Carré de Neuf** | 150 |\n| **Carré d'As, Dix, Rois ou Dames** | 100 |\n| **Carré de Huit ou Sept** | 0 |\n\n### Ordre de priorité des annonces\n\n1. Plus de points = plus forte\n2. Si égales → plus haute dans l'ordre naturel = plus forte\n3. Si encore égales → à l'atout = plus forte\n4. Si non comparables → aucune n'est comptée (sauf la belote)\n\n## Tactiques de jeu\n\n| Stratégie | Description |\n|-----------|-------------|\n| **Choix de l'atout** | Prendre quand on a les plus forts (valet, neuf) et plus que l'adversaire |\n| **Faire tomber les atouts** | L'équipe qui part cherche à épuiser les atouts adverses |\n| **Garder ses atouts** | L'équipe qui défend garde ses atouts pour couper |\n| **Appels** | Défausser une carte de la couleur de sa carte maîtresse pour signaler à son partenaire |\n| **Impasses** | Ne pas jouer une carte maîtresse pour la garder dans un pli ultérieur |\n"
+    "excerpt": "La belote, jeu national français, se joue à quatre personnes, en deux équipes de deux. Le but est de gagner un maximum de manches, chacune étant remportée par la première équipe atteignant un nombre donné de points.",
+    "markdown": "# Belote\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 32\n**Difficulté :** Difficile\n**Type :** Jeu de plis, Combinaisons, Enchères\n**But :** Atteindre un nombre donné de points en remportant des plis et en annonçant des combinaisons\n**Autres noms :** Belote\n\n---\n\n## Règle courte\n\nLa belote, jeu national français, se joue à quatre personnes, en deux équipes de deux. Le but est de gagner un maximum de manches, chacune étant remportée par la première équipe atteignant un nombre donné de points.\n\n## Version longue\n\n### Ordre des cartes\n\n**Ordre des cartes pour l'atout :** Valet, 9, As, 10, Roi, Dame, 8, 7\n\n**Ordre des cartes pour les autres couleurs :** As, 10, Roi, Dame, Valet, 9, 8, 7\n\n**Ordre des cartes pendant le jeu :** As, Roi, Dame, Valet, 10, 9, 8, 7\n\nObservez l'originalité de ce jeu, qui réside notamment dans les variantes de valeurs des cartes.\n\n### Distribution des cartes\n\nLe donneur distribue, dans le sens des aiguilles d'une montre, trois cartes puis deux cartes à chaque personne, toujours en finissant par lui-même. La première carte restante est retournée. La couleur de cette carte donne la couleur de l'atout pour le premier tour de parole.\n\nChaque joueur, toujours dans le sens horaire, peut décider de passer ou de prendre, si la couleur d'atout l'intéresse. Si personne ne prend, un second tour est fait, où chaque joueur peut prendre à une autre couleur d'atout. Dès qu'un joueur a pris, le jeu peut commencer. Le preneur ramasse la carte retournée, et le donneur distribue les cartes restantes. Chacun obtient alors trois cartes, sauf le preneur qui n'en reçoit que deux, auxquelles il ajoute la carte retournée.\n\n### Annonces\n\nVoici les combinaisons possibles au jeu de la belote :\n\n| Combinaison | Points |\n|-------------|--------|\n| Carré de Valets | 200 |\n| Carré de 9 | 150 |\n| Carré d'As, de 10, de Rois ou de Dames | 100 |\n| Séquence de cinq cartes ou plus | 100 |\n| Séquence de quatre cartes | 50 |\n| Séquence de trois cartes | 20 |\n\nChaque joueur peut annoncer une combinaison à son tour, avant de poser sa carte. Il ne peut annoncer qu'une combinaison supérieure à celles déjà annoncées : soit une combinaison rapportant plus de points, soit une combinaison rapportant autant, mais plus haute (par exemple, un carré de Roi est supérieur à un carré de Dames et une séquence Roi, Dame, Valet, 10, 9 est supérieure à Dame, Valet, 10, 9, 8, 7).\n\nLe camp ayant annoncé la combinaison la plus forte obtient les points correspondant à chacune des combinaisons qu'il possède (les combinaisons des deux partenaires sont prises en compte ; une carte peut servir à la fois dans un carré et dans une séquence).\n\nLes combinaisons doivent être montrées au deuxième tour, chaque joueur à son tour, avant de jouer une carte.\n\n### Début du jeu\n\nLe joueur avant commencé à annoncer entame. On est obligé de fournir à la couleur. Dans le cas contraire, la coupe est obligatoire si l'adversaire est maître. Si c'est le partenaire, on est libre de se défausser ou de couper. On est toujours obligé de monter à l'atout.\n\nLa personne qui a le Roi et la Dame d'atouts peut annoncer **belote** en jouant la première de ces deux cartes et **rebelote** en jouant la seconde.\n\n### Calcul des points\n\nÀ l'issue du dernier pli, on compte les points des cartes ramassées par chaque camp.\n\n**Valeur des cartes atouts :**\n\n| Carte | Points |\n|-------|--------|\n| Valet | 20 |\n| 9 | 14 |\n| As | 11 |\n| 10 | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| 8 | 0 |\n| 7 | 0 |\n\n**Valeurs des autres couleurs :**\n\n| Carte | Points |\n|-------|--------|\n| As | 11 |\n| 10 | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| Valet | 2 |\n| 9 | 0 |\n| 8 | 0 |\n| 7 | 0 |\n\nLa dernière levée rapporte 10 points. Si un des camps a remporté toutes les levées, on dit alors qu'il a fait un **capot**. Il remporte alors 88 points en boni, ce qui lui donne 250 points. À cela, on ajoute les points des annonces, ainsi que 20 points pour une belote-rebelote.\n\nSi le camp avant pris obtient plus de points que le camp adverse (soit 82 points, ou plus, sur 162 pour le contrat de base), chaque camp marque le nombre de points qu'il a obtenu. Sinon, le camp défenseur marque la totalité des points.\n\nLorsque les deux camps obtiennent le même nombre de points, il y a litige. Seul le camp défenseur marque, et les points du preneur sont remis en jeu : ils seront remportés par le vainqueur du tour suivant.\n\n## Variantes\n\n- Si vous trouvez ce jeu trop compliqué, simplifiez-le en éliminant les annonces.\n- Vous pouvez décider qu'un carré de 7 annule la distribution. Les cartes seront alors redistribuées et aucun point ne sera marqué pendant cette manche.\n"
   },
   {
     "id": "bezique",
@@ -1368,12 +1358,12 @@ const GAMES = [
   },
   {
     "id": "dame-de-pique",
-    "title": "La Dame de Pique",
+    "title": "Le Dame de Pique",
     "players": "4",
-    "cards": "52 (2/3/4/5/6/7/8/9/10/V/D/R/A)",
+    "cards": "52",
     "difficulty": "Moyenne",
     "type": "Jeu de plis",
-    "goal": "Accumuler le **moins de points possible**",
+    "goal": "Éviter de prendre du cœur ou la Dame de pique",
     "aliases": "Dame de Pique, Hearts, Le Cœur, Black Lady",
     "playerMin": 4,
     "playerMax": 4,
@@ -1381,15 +1371,11 @@ const GAMES = [
     "category": "petit-groupe",
     "color": "#34d399",
     "sections": [
-      "Cartes à craindre",
-      "Préparation",
-      "Déroulement",
-      "Fin de manche",
-      "Grand Chelem",
-      "Score"
+      "Règle courte",
+      "Version longue"
     ],
-    "excerpt": "",
-    "markdown": "# La Dame de Pique\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52 (2/3/4/5/6/7/8/9/10/V/D/R/A)\n**Difficulté :** Moyenne\n**Type :** Jeu de plis\n**But :** Accumuler le **moins de points possible**\n**Autres noms :** Dame de Pique, Hearts, Le Cœur, Black Lady\n\n---\n\n## Cartes à craindre\n\n| Carte | Points |\n|-------|--------|\n| Dame de Pique | **13 points** |\n| Chaque carte de Cœur | **1 point** |\n\n## Préparation\n\n### Distribution\n\n- **13 cartes** sont distribuées à chacun.\n- Le jeu se déroule dans le sens des aiguilles d'une montre.\n\n### Échange obligatoire\n\nAvant chaque manche, chacun des joueurs choisit **deux cartes** de son jeu puis :\n- En donne **une à son voisin de droite**\n- En donne **une à son voisin de gauche**\n\n## Déroulement\n\n### Principe\n\n1. C'est toujours le joueur qui détient le **2 de Trèfle** qui commence.\n2. Chaque joueur doit **fournir à la couleur**.\n3. S'il ne possèst pas de carte dans la couleur demandée, il peut :\n   - Se défaire d'une carte au choix\n   - Se débarrasser de la **Dame de Pique** ou de ses **cartes de Cœur** (sauf lors du premier pli)\n4. Celui qui a joué la carte la plus forte dans la couleur demandée remporte le pli et entame le suivant.\n\n## Fin de manche\n\n- Lorsque les joueurs ont joué toutes leurs cartes, chacun compte les points des cartes qu'il a ramassées.\n- Chaque joueur note son nombre de points et une nouvelle partie commence.\n\n## Grand Chelem\n\nQuand un joueur possède à la fin de la partie **tous les Cœurs et la Dame de Pique** :\n- Il ne marque pas de point\n- Ses adversaires marquent **26 points** chacun !\n\n## Score\n\n- Le premier joueur à atteindre **100 points** perd la partie.\n- Le grand gagnant est celui dont le score reste au plus bas.\n"
+    "excerpt": "La Dame qui pique… Dans ce jeu relativement simple, il faut éviter de prendre du cœur ou, pire encore, la Dame de pique.",
+    "markdown": "# Le Dame de Pique\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52\n**Difficulté :** Moyenne\n**Type :** Jeu de plis\n**But :** Éviter de prendre du cœur ou la Dame de pique\n**Autres noms :** Dame de Pique, Hearts, Le Cœur, Black Lady\n\n---\n\n## Règle courte\n\nLa Dame qui pique… Dans ce jeu relativement simple, il faut éviter de prendre du cœur ou, pire encore, la Dame de pique.\n\n## Version longue\n\n### Distribution des cartes\n\nEnlevez les Fous et brassez les cartes. Le donneur distribue dans le sens des aiguilles d'une montre, en commençant par l'adversaire qui se tient à sa gauche.\n\nChaque joueur place son jeu, et c'est celui qui a le 2 de trèfle qui commence, en dévoilant cette carte.\n\n### Début du jeu\n\nIl est obligatoire de jouer la couleur demandée, à moins qu'on n'en ait pas dans son jeu. Par exemple, si un joueur lance un 6 de carreau au centre de la table, tous les autres vont jouer du carreau. Si un des joueurs n'en possède pas, il peut lancer la Dame de pique s'il la possède ou encore du cœur. Notez qu'il est interdit de jouer du cœur à moins que :\n\n- On n'ait pas dans son jeu la couleur demandée ;\n- Il ne reste plus que du cœur dans son jeu.\n\nLe joueur qui a lancé la carte la plus forte de la couleur demandée remporte le pli. Par exemple, la première carte lancée est un 3 de pique. La seconde, un 10 de pique, la troisième, un 8 de pique et la dernière, un As de cœur. Cette dernière carte n'étant pas de la couleur demandée, elle ne peut pas être la plus forte. C'est donc le joueur qui a lancé le 10 de pique qui remporte le pli… et un cœur !\n\nLa manche se termine lorsque les joueurs n'ont plus de cartes, c'est-à-dire après 13 plis.\n\n### Fin de partie\n\nLa partie se termine lorsqu'un des joueurs atteint la barre des 100 points. À ce moment-là, c'est le joueur qui a le moins de points qui gagne.\n\n### Calcul des points\n\nChaque cœur vaut 1 point. La Dame de pique, elle, en vaut 13.\n\nSi, par hasard, un joueur réussit une « petite misère », c'est-à-dire qu'il remporte tous les cœurs et la Dame de pique, il fait prendre 26 points à chacun de ses trois adversaires.\n"
   },
   {
     "id": "dominos",
@@ -2772,24 +2758,24 @@ const GAMES = [
   {
     "id": "poker",
     "title": "Poker (Texas Hold'Em)",
-    "players": "2 à 10",
-    "cards": "52 + jetons",
-    "difficulty": "Moyenne",
-    "type": "Combinaisons, Patience, Hasard",
-    "goal": "Se constituer la meilleure main pour remporter les jetons des adversaires",
+    "players": "3 à 6",
+    "cards": "52 (+ 1 ou 2 Fous optionnels)",
+    "difficulty": "Difficile",
+    "type": "Combinaisons, Enchères, Hasard",
+    "goal": "Remporter le pot avec la meilleure main ou en faisant coucher les adversaires",
     "aliases": "Poker, Draw Poker, Poker fermé",
-    "playerMin": 2,
-    "playerMax": 10,
+    "playerMin": 3,
+    "playerMax": 6,
     "cardCount": 52,
     "category": "grand-groupe",
     "color": "#fb923c",
     "sections": [
-      "Mise en place",
-      "Déroulement",
-      "Hiérarchie des combinaisons"
+      "Règle courte",
+      "Version longue",
+      "Variantes"
     ],
-    "excerpt": "1. Blinds : Les 2 joueurs à gauche du Donneur paient obligatoirement : Petite Blind (joueur juste à gauche du donneur) Grosse Blind (joueur à gauche de la Petite Blind, montant = double)",
-    "markdown": "# Poker (Texas Hold'Em)\n\n**Nombre de joueurs :** 2 à 10\n**Nombre de cartes :** 52 + jetons\n**Difficulté :** Moyenne\n**Type :** Combinaisons, Patience, Hasard\n**But :** Se constituer la meilleure main pour remporter les jetons des adversaires\n**Autres noms :** Poker, Draw Poker, Poker fermé\n\n---\n\n## Mise en place\n\n1. **Blinds :** Les 2 joueurs à gauche du Donneur paient obligatoirement :\n   - **Petite Blind** (joueur juste à gauche du donneur)\n   - **Grosse Blind** (joueur à gauche de la Petite Blind, montant = double)\n2. **Distribution :** Le Donneur distribue **2 cartes faces cachées** à chaque joueur (sens horaire).\n\n## Déroulement\n\n### 1. Pré-flop\n\n- Les joueurs prennent connaissance de leurs 2 cartes.\n- Tour de mise : le joueur à gauche de la Grosse Blind commence. Actions possibles :\n  - **Se coucher** → jeter ses cartes, retiré de la partie\n  - **Suivre** → miser la même somme que la Grosse Blind\n  - **Relancer** → miser une somme supérieure\n\n### 2. Flop (3 cartes communes)\n\n- Le Donneur brûle 1 carte, puis retourne **3 cartes** au milieu de la table.\n- Tour de mise :\n  - **Check** → ne pas miser (possible si les précédents n'ont pas misé)\n  - **Miser** → déposer une somme dans le pot\n  - **Suivre** → égaler la mise d'un adversaire\n  - **Relancer** → miser plus qu'un adversaire\n  - **Se coucher** → abandonner\n\n### 3. Turn (4e carte commune)\n\n- Le Donneur brûle 1 carte, retourne la **4e carte** au milieu.\n- Nouveau tour de mise.\n\n### 4. River (5e carte commune)\n\n- Le Donneur brûle 1 carte, retourne la **5e et dernière carte**.\n- Dernier tour de mise.\n\n### 5. Abattage\n\n- Les joueurs encore en jeu présentent leur **meilleure main de 5 cartes**.\n- Ils combinent leurs 2 cartes privées avec les 5 du tableau (ou utilisent uniquement le tableau).\n- Le joueur ayant la meilleure main remporte le pot.\n- En cas d'égalité → partage du pot.\n\n## Hiérarchie des combinaisons\n\nDu plus faible au plus fort :\n\n| Rang | Combinaison | Description |\n|------|-------------|-------------|\n| 1 | **Carte isolée** | Rien, le rang de la carte la plus forte compte |\n| 2 | **Paire** | 2 cartes de même valeur + 3 cartes éparses |\n| 3 | **Deux paires** | 2 paires différentes + 1 carte éparse |\n| 4 | **Brelan** | 3 cartes de même valeur + 2 cartes éparses |\n| 5 | **Quinte (Suite)** | 5 cartes de valeurs consécutives (couleurs diverses) |\n| 6 | **Couleur** | 5 cartes de même couleur |\n| 7 | **Full** | Brelan + Paire |\n| 8 | **Carré** | 4 cartes de même valeur + 1 carte éparse |\n| 9 | **Quinte Flush** | 5 cartes consécutives de même couleur |\n| 10 | **Quinte Royale** | Quinte Flush à l'As (A-K-Q-J-10) |\n\n> **Notes :** L'As peut être bas pour la Quinte A-2-3-4-5 (la « roue »). Les Quintes ne sont pas circulaires (Q-K-A-2-3 n'est pas une Quinte).\n"
+    "excerpt": "Ce jeu d'argent garde son intérêt même sans aucune mise. On peut très bien jouer avec des cure-dents ou en comptant les points. Chaque manche se déroule en quatre phases : la distribution, les mises, l'échange de cartes …",
+    "markdown": "# Poker (Texas Hold'Em)\n\n**Nombre de joueurs :** 3 à 6\n**Nombre de cartes :** 52 (+ 1 ou 2 Fous optionnels)\n**Difficulté :** Difficile\n**Type :** Combinaisons, Enchères, Hasard\n**But :** Remporter le pot avec la meilleure main ou en faisant coucher les adversaires\n**Autres noms :** Poker, Draw Poker, Poker fermé\n\n---\n\n## Règle courte\n\nCe jeu d'argent garde son intérêt même sans aucune mise. On peut très bien jouer avec des cure-dents ou en comptant les points. Chaque manche se déroule en quatre phases : la distribution, les mises, l'échange de cartes et les enchères.\n\n## Version longue\n\n### Préparation\n\nOn joue avec un jeu de 52 cartes, mais on peut inclure un ou deux Fous.\n\n### Distribution des cartes\n\nLe donneur distribue cinq cartes à chacun des joueurs, une par une, dans le sens des aiguilles d'une montre.\n\n### Les mises\n\nLe joueur situé après le donneur, toujours dans le sens des aiguilles d'une montre, place sa mise. Par exemple, il dépose un jeton au centre de la table. Son adversaire de droite en fait autant, et ainsi de suite. Un certain nombre de tours sont faits jusqu'à ce qu'il ne reste plus qu'un joueur en lice ou que toutes les mises soient au même montant.\n\nChaque joueur à son tour peut donc :\n\n- **Suivre**, c'est-à-dire qu'il augmente sa mise pour que son total soit égal à la mise du joueur précédent ;\n- **Passer**, ce qui fait qu'il perd sa mise ;\n- **Monter**, augmentant ainsi sa mise pour que son total soit supérieur à la mise du joueur précédent.\n\nS'il ne reste qu'un joueur, il remporte les mises et on passe au tour suivant.\n\n### L'échange de cartes\n\nTous les joueurs ayant suivi les mises peuvent échanger de une à trois cartes.\n\nNotez que certains joueurs acceptent de modifier cette règle de façon à ce qu'on puisse échanger toutes ses cartes. Si c'est votre cas, le donneur ne distribue que trois cartes à la fois au même joueur. Une fois son tour de distribution passé, il recommence si un ou des joueurs ont encore besoin d'une ou deux cartes.\n\n### Les enchères\n\nLes enchères se déroulent de la même manière que les mises.\n\nÀ la fin, tous les joueurs restants montrent leur jeu, et le jeu le plus fort remporte la totalité du pot. S'il y a égalité, le pot est partagé entre les vainqueurs.\n\n### Hiérarchie des mains\n\n1. **Le poker** : quatre cartes de même rang et un Fou. S'il arrivait que deux joueurs aient des pokers, ceux-ci seraient départagés par la valeur de la carte. Ainsi, quatre As battront des Rois, qui battront des Dames, etc.\n\n2. **La quinte flush** : cinq cartes de la même couleur qui se suivent. Deux quintes flush sont départagées par le niveau de leur plus forte carte. Une quinte flush composée par exemple d'un As de pique, d'un Roi de pique, d'une Dame de pique, d'un Valet de pique et d'un 10 de pique ne peut pas être battue. On l'appelle donc la **quinte flush royale**. La quinte formée d'un 5, d'un 4, d'un 3, d'un 2 et d'un As est la plus faible. C'est d'ailleurs la seule fois où l'As est la carte la plus faible. Prenez note que les suites du genre 3, 2, As, Roi et Dame sont habituellement interdites.\n\n3. **Le carré** : quatre cartes identiques. Deux carrés sont départagés par leur niveau. Par exemple, quatre Valets et un 5 battent quatre 10 et une Dame.\n\n4. **La full** : trois cartes de même rang plus deux cartes d'un autre rang. Deux fulls sont départagés par le brelan ; ainsi, trois 9 et une paire de 4 bat trois 8 et une paire de Rois.\n\n5. **La flush** : cinq cartes de même couleur. Elles ne se suivent pas nécessairement. On départage deux flushs par la plus haute carte ou les suivantes. Par exemple, une flush faite d'un As, d'une Dame, d'un 10, d'un 4 et d'un 3 bat une autre flush, composée d'un As, d'une Dame, d'un 10, d'un 4 et d'un 2.\n\n6. **La séquence** : cinq cartes se suivant (mais pas forcément de la même couleur). Deux séquences sont départagées par la plus haute carte.\n\n7. **Le brelan** : trois cartes de même rang. On départage deux brelans par son niveau (trois 10 battent trois 7) ou par la plus haute carte restante si on joue avec des atouts.\n\n8. **La double paire** : deux cartes de même rang, plus deux autres d'un autre rang. Elles sont départagées par le niveau de la paire la plus forte, puis de la paire la plus faible, puis de la cinquième carte. Ainsi, une paire de Rois, une paire de 10 et un As bat une paire de Rois, une paire de 10 et un 9.\n\n9. **La paire** : deux cartes de même rang départagées par le niveau de la paire, puis de la plus forte carte. Deux paires de 9, par exemple, seront départagées par la plus forte carte restante.\n\n10. **La carte** : toute main qui n'est pas une des combinaisons déjà évoquées. Les cartes sont alors départagées en ordre décroissant, de la plus forte à la plus faible.\n\n### Rôle du Fou\n\nL'As est généralement la plus grande carte. Il peut intervenir dans les suites soit au dessus du Roi, soit en dessous du 2. Si on joue avec un Fou, il peut servir comme un As ou pour compléter une suite ou une flush. Il ne compte cependant pas pour départager deux mains. Ainsi, un Fou complétant la suite Dame, Valet, 10 et 9 perdra devant la suite Roi, Dame, Valet, 10, 9. S'il y a égalité, la main comportant le moins de jokers est la plus forte.\n\n## Variantes\n\nVous pouvez inventer des dizaines de variantes au poker. L'une d'elles consiste à ajouter des cartes atouts. Avant de commencer un tour, annoncez par exemple que les 3 sont des cartes atouts. Vous pourriez peut-être ainsi plus facilement que vous ne le croyez avec une quinte flush royale !\n\nAutre variante fort intéressante, l'inverse du poker, qu'on peut appeler « Petite Misère » ou « Le prolétariat »… Il s'agit de garder la plus faible main possible. Ajoutez à ce jeu un ou deux atouts, et vous en aurez pour des heures de plaisir !\n"
   },
   {
     "id": "polignac",
@@ -3883,29 +3869,23 @@ const GAMES = [
   {
     "id": "whist",
     "title": "Le Whist",
-    "players": "4 (2 équipes de 2)",
+    "players": "4",
     "cards": "52",
     "difficulty": "Moyenne",
-    "type": "Jeu de plis, Défausse, Hasard",
-    "goal": "Remporter un maximum de levées et capturer les Honneurs d'atout",
-    "aliases": "Whist, Whist simple",
+    "type": "Jeu de plis",
+    "goal": "Remporter des plis stratégiques et viser les grands honneurs",
+    "aliases": "Whist",
     "playerMin": 4,
-    "playerMax": 2,
+    "playerMax": 4,
     "cardCount": 52,
-    "category": "duo",
-    "color": "#60a5fa",
+    "category": "petit-groupe",
+    "color": "#34d399",
     "sections": [
-      "Histoire",
-      "Ordre des cartes",
-      "Distribution",
-      "Jeu de la carte",
-      "Les Honneurs",
-      "Compte des points",
-      "Principes tactiques",
-      "Variantes"
+      "Règle courte",
+      "Version longue"
     ],
-    "excerpt": "As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2.",
-    "markdown": "# Le Whist\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 52\n**Difficulté :** Moyenne\n**Type :** Jeu de plis, Défausse, Hasard\n**But :** Remporter un maximum de levées et capturer les Honneurs d'atout\n**Autres noms :** Whist, Whist simple\n\n---\n\n## Histoire\n\nAncêtre du Bridge, né en Angleterre. Codifié au XVIIIe siècle par **Edmund Hoyle** dans son *Petit Traité du jeu de whist*. Toute la bonne société s'y est mise, des marins de Sa Majesté à Talleyrand.\n\n## Ordre des cartes\n\nAs, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2.\n\n---\n\n## Distribution\n\n1. Le donneur distribue **13 cartes** par joueur (1 par 1).\n2. La dernière carte est **retournée** → elle désigne l'**atout**.\n3. Elle reste visible jusqu'à la première carte jouée, puis réintègre le jeu du donneur.\n\n---\n\n## Jeu de la carte\n\n1. Le joueur à gauche du donneur entame.\n2. On doit **fournir la couleur** demandée (pas d'obligation de monter).\n3. Si pas de couleur → **couper** avec un atout ou **se défausser**.\n4. Le plus fort de la couleur demandée ou le plus fort atout remporte la levée.\n5. Le gagnant entame le pli suivant.\n\nLes levées sont conservées par **un seul joueur** de chaque équipe (celui qui remporte la première).\n\n---\n\n## Les Honneurs\n\nLes 4 cartes les plus fortes de l'atout : **As, Roi, Dame, Valet**.\n\n| Honneurs possédés | Points |\n|-------------------|--------|\n| 3 sur 4 | +2 |\n| 4 sur 4 | +4 |\n\n> Quand une équipe a 8 points, un équipier peut dire **« Je chante »** s'il a 2 Honneurs → demande si le partenaire en a un 3e.\n\n---\n\n## Compte des points\n\n### Points de levées\n\nLes 6 premières levées = **le Devoir** (ne comptent pas). Au-delà du 7e pli → chaque levée rapporte **1 point** (trick).\n\n### Points de manche et de robre\n\nUne partie (robre) se joue en **2 manches gagnantes** (10 points chacune). Une 3e manche (la « belle ») en cas d'égalité.\n\n| Situation | Fiches |\n|-----------|--------|\n| Adversaire à 0 point | 3 |\n| Adversaire à 1-4 points | 2 |\n| Adversaire à 5+ points | 1 |\n| Robre gagné | +4 |\n\n---\n\n## Principes tactiques\n\n- **Mettre petit en second** : ne pas gaspiller de bonnes cartes en deuxième position.\n- **Forcer en troisième** : jouer fort pour obliger le 4e joueur à se séparer de ses bonnes cartes.\n- **Commencer par de petites cartes** en entame avec un jeu ordinaire.\n- **Compter les atouts** joués et restants.\n\n---\n\n## Variantes\n\n- **Whist américain** : sans points d'Honneurs, manche en 7 points.\n- **Whist belge** : avec annonces.\n"
+    "excerpt": "À l'origine, le jeu du whist est très simple. C'est l'ancêtre du bridge. Formez deux équipes de deux joueurs. Pour gagner, il faut remporter des plis stratégiques et viser les grands honneurs, c'est-à-dire les quatre car…",
+    "markdown": "# Le Whist\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52\n**Difficulté :** Moyenne\n**Type :** Jeu de plis\n**But :** Remporter des plis stratégiques et viser les grands honneurs\n**Autres noms :** Whist\n\n---\n\n## Règle courte\n\nÀ l'origine, le jeu du whist est très simple. C'est l'ancêtre du bridge. Formez deux équipes de deux joueurs. Pour gagner, il faut remporter des plis stratégiques et viser les grands honneurs, c'est-à-dire les quatre cartes d'atout les plus fortes.\n\n## Version longue\n\n### Distribution des cartes\n\nLe donneur distribue 13 cartes à chacun, en tournant dans le sens des aiguilles d'une montre. Il retourne la dernière carte, qui désigne la couleur d'atout, avant de l'intégrer dans son jeu.\n\n### Début du jeu\n\nLe joueur suivant le donneur commence la partie.\n\nLes joueurs doivent fournir à la couleur. S'ils n'ont pas de cartes de la couleur, ils peuvent couper à l'atout ou se défausser.\n\nLe plus fort atout, ou à défaut, la plus forte carte de la couleur entamée remporte le pli, et le joueur ayant ramassé ce pli entame pour la levée suivante.\n\n### Décompte des points\n\nLa première équipe à marquer 10 points remporte la partie. Toutefois, on peut l'étirer en décidant dès le départ de jouer un match de 100 points.\n\nChaque pli au-delà du sixième compte pour 1 point.\n\nSi une équipe remporte les quatre honneurs (l'As, le Roi, la Dame et le Valet d'atout), elle marque 4 points. Elle en marque 2 si elle remporte trois honneurs sur quatre.\n"
   }
 ];
 const CATEGORY_INFO = {
@@ -3917,7 +3897,7 @@ const CATEGORY_INFO = {
   "duo": {
     "label": "À deux",
     "color": "#60a5fa",
-    "count": 53
+    "count": 52
   },
   "petit-groupe": {
     "label": "3–4 joueurs",
@@ -3927,6 +3907,6 @@ const CATEGORY_INFO = {
   "grand-groupe": {
     "label": "5 joueurs +",
     "color": "#fb923c",
-    "count": 75
+    "count": 76
   }
 };

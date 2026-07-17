@@ -3,127 +3,96 @@
 **Nombre de joueurs :** 4 (2 équipes de 2)
 **Nombre de cartes :** 32
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Défausse, Enchères
-**But :** Être la 1ère équipe à atteindre 1000 points
-**Autres noms :** Belote, Belotte, Belote bridgée
+**Type :** Jeu de plis, Combinaisons, Enchères
+**But :** Atteindre un nombre donné de points en remportant des plis et en annonçant des combinaisons
+**Autres noms :** Belote
 
 ---
 
-## Préparation
+## Règle courte
 
-- Les équipes : Nord et Sud contre Est et Ouest (adversaire à gauche et à droite).
-- Le jeu de cartes n'est brassé qu'**une seule fois**, avant de commencer la partie.
+La belote, jeu national français, se joue à quatre personnes, en deux équipes de deux. Le but est de gagner un maximum de manches, chacune étant remportée par la première équipe atteignant un nombre donné de points.
 
-### Distribution
+## Version longue
 
-1. Le joueur à droite du donneur **coupe** le jeu.
-2. Le donneur distribue **3 cartes** face cachée à chaque joueur, puis **2 cartes** supplémentaires.
-3. Il retourne la carte du dessus du tas → sa couleur est proposée comme **atout**.
+### Ordre des cartes
 
-### Choix de l'atout
+**Ordre des cartes pour l'atout :** Valet, 9, As, 10, Roi, Dame, 8, 7
 
-| Tour | Règle |
-|------|-------|
-| **1er tour** | Chaque joueur accepte ou non l'atout proposé. Le premier qui accepte récupère la carte retournée. |
-| **2ème tour** | Si personne n'a pris, chaque joueur peut choisir **n'importe quelle couleur** d'atout. |
-| **Personne ne prend** | Les cartes sont regroupées et la donne suivante commence. |
+**Ordre des cartes pour les autres couleurs :** As, 10, Roi, Dame, Valet, 9, 8, 7
 
-> Chaque joueur dispose de **8 cartes** en fin de donne.
+**Ordre des cartes pendant le jeu :** As, Roi, Dame, Valet, 10, 9, 8, 7
 
-## Ordre des cartes
+Observez l'originalité de ce jeu, qui réside notamment dans les variantes de valeurs des cartes.
 
-### Hors atout (du plus faible au plus fort)
+### Distribution des cartes
 
-Sept, Huit, Neuf, Valet, Dame, Roi, Dix, As
+Le donneur distribue, dans le sens des aiguilles d'une montre, trois cartes puis deux cartes à chaque personne, toujours en finissant par lui-même. La première carte restante est retournée. La couleur de cette carte donne la couleur de l'atout pour le premier tour de parole.
 
-### À l'atout (du plus faible au plus fort)
+Chaque joueur, toujours dans le sens horaire, peut décider de passer ou de prendre, si la couleur d'atout l'intéresse. Si personne ne prend, un second tour est fait, où chaque joueur peut prendre à une autre couleur d'atout. Dès qu'un joueur a pris, le jeu peut commencer. Le preneur ramasse la carte retournée, et le donneur distribue les cartes restantes. Chacun obtient alors trois cartes, sauf le preneur qui n'en reçoit que deux, auxquelles il ajoute la carte retournée.
 
-Sept, Huit, Dame, Roi, Dix, As, Neuf, Valet
+### Annonces
 
-> Toute carte d'atout l'emporte sur les cartes d'autres couleurs.
+Voici les combinaisons possibles au jeu de la belote :
 
-## Déroulement
+| Combinaison | Points |
+|-------------|--------|
+| Carré de Valets | 200 |
+| Carré de 9 | 150 |
+| Carré d'As, de 10, de Rois ou de Dames | 100 |
+| Séquence de cinq cartes ou plus | 100 |
+| Séquence de quatre cartes | 50 |
+| Séquence de trois cartes | 20 |
 
-Une manche = **8 plis**. Le joueur à gauche du donneur effectue la première entame.
+Chaque joueur peut annoncer une combinaison à son tour, avant de poser sa carte. Il ne peut annoncer qu'une combinaison supérieure à celles déjà annoncées : soit une combinaison rapportant plus de points, soit une combinaison rapportant autant, mais plus haute (par exemple, un carré de Roi est supérieur à un carré de Dames et une séquence Roi, Dame, Valet, 10, 9 est supérieure à Dame, Valet, 10, 9, 8, 7).
 
-### Règles de jeu
+Le camp ayant annoncé la combinaison la plus forte obtient les points correspondant à chacune des combinaisons qu'il possède (les combinaisons des deux partenaires sont prises en compte ; une carte peut servir à la fois dans un carré et dans une séquence).
 
-| Situation | Action obligatoire |
-|-----------|--------------------|
-| Le joueur possède la couleur d'entame | Il doit jouer une de ces cartes |
-| Le joueur n'a pas la couleur, mais son partenaire est **maître** | Il joue la carte de son choix (appel ou défausse) |
-| Le joueur n'a pas la couleur, l'adversaire est maître, il a des atouts | Il doit **couper** (jouer un atout) |
-| Le joueur n'a ni la couleur, ni des atouts | Il joue la carte de son choix |
-| Le joueur joue atout et a un atout plus fort que celui déjà posé | Il doit **monter à l'atout** (surcouper) |
+Les combinaisons doivent être montrées au deuxième tour, chaque joueur à son tour, avant de jouer une carte.
 
-> **Remporter un pli :** Le joueur ayant déposé la carte la plus forte remporte le pli et entame le tour suivant.
+### Début du jeu
 
-## Décompte des points
+Le joueur avant commencé à annoncer entame. On est obligé de fournir à la couleur. Dans le cas contraire, la coupe est obligatoire si l'adversaire est maître. Si c'est le partenaire, on est libre de se défausser ou de couper. On est toujours obligé de monter à l'atout.
 
-### Valeurs hors atout
+La personne qui a le Roi et la Dame d'atouts peut annoncer **belote** en jouant la première de ces deux cartes et **rebelote** en jouant la seconde.
 
-| Carte | Points |
-|-------|--------|
-| As | 11 |
-| Dix | 10 |
-| Roi | 4 |
-| Dame | 3 |
-| Valet | 2 |
-| Neuf, Huit, Sept | 0 |
+### Calcul des points
 
-### Valeurs à l'atout
+À l'issue du dernier pli, on compte les points des cartes ramassées par chaque camp.
+
+**Valeur des cartes atouts :**
 
 | Carte | Points |
 |-------|--------|
 | Valet | 20 |
-| Neuf | 14 |
+| 9 | 14 |
 | As | 11 |
-| Dix | 10 |
+| 10 | 10 |
 | Roi | 4 |
 | Dame | 3 |
-| Huit, Sept | 0 |
+| 8 | 0 |
+| 7 | 0 |
 
-> **Total des points du jeu = 162.** La règle du **10 de der** ajoute 10 points au dernier pli remporté.
+**Valeurs des autres couleurs :**
 
-## Points marqués
+| Carte | Points |
+|-------|--------|
+| As | 11 |
+| 10 | 10 |
+| Roi | 4 |
+| Dame | 3 |
+| Valet | 2 |
+| 9 | 0 |
+| 8 | 0 |
+| 7 | 0 |
 
-| Situation | Points |
-|-----------|--------|
-| **Contrat réussi** (> 81 pts) | Chaque équipe marque ses points (arrondis au multiple de 10) |
-| **Contrat perdu** (équipe preneuse < 82 pts) | Preneur : 0 / Adverse : **160 points** |
-| **Capot** (8 plis remportés) | **90 points supplémentaires** |
-| **Belote** (Roi + Dame d'atout) | **20 points** (toujours marqués par celui qui l'annonce) |
+La dernière levée rapporte 10 points. Si un des camps a remporté toutes les levées, on dit alors qu'il a fait un **capot**. Il remporte alors 88 points en boni, ce qui lui donne 250 points. À cela, on ajoute les points des annonces, ainsi que 20 points pour une belote-rebelote.
 
-> Une partie se joue en **1000 points**.
+Si le camp avant pris obtient plus de points que le camp adverse (soit 82 points, ou plus, sur 162 pour le contrat de base), chaque camp marque le nombre de points qu'il a obtenu. Sinon, le camp défenseur marque la totalité des points.
 
-## Annonces
+Lorsque les deux camps obtiennent le même nombre de points, il y a litige. Seul le camp défenseur marque, et les points du preneur sont remis en jeu : ils seront remportés par le vainqueur du tour suivant.
 
-Les annonces se déclarent lors de la **première levée**. Seule l'équipe ayant l'annonce la plus forte les comptabilise.
+## Variantes
 
-| Annonce | Points |
-|---------|--------|
-| **Belote** (Dame + Roi d'atout) | 20 |
-| **Tierce** (3 cartes consécutives) | 20 |
-| **Cinquante** (4 cartes consécutives) | 50 |
-| **Cent** (5 cartes consécutives) | 100 |
-| **Carré de Valets** | 200 |
-| **Carré de Neuf** | 150 |
-| **Carré d'As, Dix, Rois ou Dames** | 100 |
-| **Carré de Huit ou Sept** | 0 |
-
-### Ordre de priorité des annonces
-
-1. Plus de points = plus forte
-2. Si égales → plus haute dans l'ordre naturel = plus forte
-3. Si encore égales → à l'atout = plus forte
-4. Si non comparables → aucune n'est comptée (sauf la belote)
-
-## Tactiques de jeu
-
-| Stratégie | Description |
-|-----------|-------------|
-| **Choix de l'atout** | Prendre quand on a les plus forts (valet, neuf) et plus que l'adversaire |
-| **Faire tomber les atouts** | L'équipe qui part cherche à épuiser les atouts adverses |
-| **Garder ses atouts** | L'équipe qui défend garde ses atouts pour couper |
-| **Appels** | Défausser une carte de la couleur de sa carte maîtresse pour signaler à son partenaire |
-| **Impasses** | Ne pas jouer une carte maîtresse pour la garder dans un pli ultérieur |
+- Si vous trouvez ce jeu trop compliqué, simplifiez-le en éliminant les annonces.
+- Vous pouvez décider qu'un carré de 7 annule la distribution. Les cartes seront alors redistribuées et aucun point ne sera marqué pendant cette manche.

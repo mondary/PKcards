@@ -1,86 +1,36 @@
 # Le Whist
 
-**Nombre de joueurs :** 4 (2 équipes de 2)
+**Nombre de joueurs :** 4
 **Nombre de cartes :** 52
 **Difficulté :** Moyenne
-**Type :** Jeu de plis, Défausse, Hasard
-**But :** Remporter un maximum de levées et capturer les Honneurs d'atout
-**Autres noms :** Whist, Whist simple
+**Type :** Jeu de plis
+**But :** Remporter des plis stratégiques et viser les grands honneurs
+**Autres noms :** Whist
 
 ---
 
-## Histoire
+## Règle courte
 
-Ancêtre du Bridge, né en Angleterre. Codifié au XVIIIe siècle par **Edmund Hoyle** dans son *Petit Traité du jeu de whist*. Toute la bonne société s'y est mise, des marins de Sa Majesté à Talleyrand.
+À l'origine, le jeu du whist est très simple. C'est l'ancêtre du bridge. Formez deux équipes de deux joueurs. Pour gagner, il faut remporter des plis stratégiques et viser les grands honneurs, c'est-à-dire les quatre cartes d'atout les plus fortes.
 
-## Ordre des cartes
+## Version longue
 
-As, Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+### Distribution des cartes
 
----
+Le donneur distribue 13 cartes à chacun, en tournant dans le sens des aiguilles d'une montre. Il retourne la dernière carte, qui désigne la couleur d'atout, avant de l'intégrer dans son jeu.
 
-## Distribution
+### Début du jeu
 
-1. Le donneur distribue **13 cartes** par joueur (1 par 1).
-2. La dernière carte est **retournée** → elle désigne l'**atout**.
-3. Elle reste visible jusqu'à la première carte jouée, puis réintègre le jeu du donneur.
+Le joueur suivant le donneur commence la partie.
 
----
+Les joueurs doivent fournir à la couleur. S'ils n'ont pas de cartes de la couleur, ils peuvent couper à l'atout ou se défausser.
 
-## Jeu de la carte
+Le plus fort atout, ou à défaut, la plus forte carte de la couleur entamée remporte le pli, et le joueur ayant ramassé ce pli entame pour la levée suivante.
 
-1. Le joueur à gauche du donneur entame.
-2. On doit **fournir la couleur** demandée (pas d'obligation de monter).
-3. Si pas de couleur → **couper** avec un atout ou **se défausser**.
-4. Le plus fort de la couleur demandée ou le plus fort atout remporte la levée.
-5. Le gagnant entame le pli suivant.
+### Décompte des points
 
-Les levées sont conservées par **un seul joueur** de chaque équipe (celui qui remporte la première).
+La première équipe à marquer 10 points remporte la partie. Toutefois, on peut l'étirer en décidant dès le départ de jouer un match de 100 points.
 
----
+Chaque pli au-delà du sixième compte pour 1 point.
 
-## Les Honneurs
-
-Les 4 cartes les plus fortes de l'atout : **As, Roi, Dame, Valet**.
-
-| Honneurs possédés | Points |
-|-------------------|--------|
-| 3 sur 4 | +2 |
-| 4 sur 4 | +4 |
-
-> Quand une équipe a 8 points, un équipier peut dire **« Je chante »** s'il a 2 Honneurs → demande si le partenaire en a un 3e.
-
----
-
-## Compte des points
-
-### Points de levées
-
-Les 6 premières levées = **le Devoir** (ne comptent pas). Au-delà du 7e pli → chaque levée rapporte **1 point** (trick).
-
-### Points de manche et de robre
-
-Une partie (robre) se joue en **2 manches gagnantes** (10 points chacune). Une 3e manche (la « belle ») en cas d'égalité.
-
-| Situation | Fiches |
-|-----------|--------|
-| Adversaire à 0 point | 3 |
-| Adversaire à 1-4 points | 2 |
-| Adversaire à 5+ points | 1 |
-| Robre gagné | +4 |
-
----
-
-## Principes tactiques
-
-- **Mettre petit en second** : ne pas gaspiller de bonnes cartes en deuxième position.
-- **Forcer en troisième** : jouer fort pour obliger le 4e joueur à se séparer de ses bonnes cartes.
-- **Commencer par de petites cartes** en entame avec un jeu ordinaire.
-- **Compter les atouts** joués et restants.
-
----
-
-## Variantes
-
-- **Whist américain** : sans points d'Honneurs, manche en 7 points.
-- **Whist belge** : avec annonces.
+Si une équipe remporte les quatre honneurs (l'As, le Roi, la Dame et le Valet d'atout), elle marque 4 points. Elle en marque 2 si elle remporte trois honneurs sur quatre.

@@ -1,75 +1,58 @@
 # 8 Américain
 
 **Nombre de joueurs :** 2+
-**Nombre de cartes :** 108 (2 jeux de 54 sans jokers, recommandé) ou 52
+**Nombre de cartes :** 52 (ou 108 avec deux jeux)
 **Difficulté :** Moyenne
-**Type :** Mixte
-**But :** Ne plus avoir aucune carte en main
-**Autres noms :** 8 Américain, Crazy Eights, Mau Mau, Switch, Uno (ancêtre)
+**Type :** Défausse, Hasard
+**But :** Se débarrasser de toutes ses cartes le premier
+**Autres noms :** Crazy Eights, Mau Mau, Switch, Uno (ancêtre)
 
 ---
 
-## Préparation
+## Règle courte
 
-1. Le joueur à gauche du batteur **coupe** les cartes.
-2. Le donneur distribue de **3 à 13 cartes** à chaque joueur (au choix).
-3. Les cartes restantes sont placées **face retournée** en sabot au centre.
-4. Retourner la première carte du sabot → elle est considérée comme la carte du donneur.
+Le donneur distribue huit cartes aux deux joueurs en commençant par son adversaire. Une fois qu'il a terminé, il met le talon au centre du jeu et dévoile une carte, qu'il dépose à côté du talon. C'est le pli, qui indique la couleur qui prévaut.
 
-> Le joueur à sa gauche commence à jouer.
+## Version longue
 
-## Déroulement
+### Début du jeu
 
-### Jouer une carte
+L'adversaire commence. Il joue s'il a une carte du même type (trèfle, carreau, cœur ou pique) que celle sur le dessus de l'écart. Il peut aussi jouer une carte de couleur différente mais de même rang. Par exemple, s'il y a un 7 de cœur sur l'écart, on peut mettre un 7 de carreau, et on continue en carreau. Il peut enfin jouer un 8 de n'importe quelle couleur ou un Fou.
 
-Chaque joueur doit poser une carte sur le tas qui soit :
-- De la **même valeur**
-- OU de la **même enseigne**
+S'il ne peut jouer, il pige une carte sur le dessus du talon. Il peut la jouer si elle le lui permet.
 
-> Si on ne peut pas jouer → piocher une carte dans le sabot.
+Lorsqu'il ne reste plus de carte dans le talon, on ramasse les cartes de l'écart, sauf celle du dessus, on les mélange et on les retourne pour faire un nouveau talon.
 
-### Contre-carte
+### Règle du « carte »
 
-Un joueur qui n'a plus qu'**une carte** doit l'annoncer en disant **« Carte »**. S'il l'oublie et qu'un adversaire dit **« Contre-carte »** → **2 cartes de pénalité**.
+Lorsqu'un joueur n'a plus qu'une carte, il doit annoncer « carte ». Il pourra alors essayer de se débarrasser de sa dernière carte au tour suivant et gagner la manche ou la partie. S'il « oublie » d'annoncer sa dernière carte et qu'il la joue, il doit piger cinq nouvelles cartes.
 
-## Cartes spéciales
+### Fin de partie
 
-| Carte | Effet |
-|-------|-------|
-| **8** | Carte la plus puissante. Peut être jouée sur **n'importe quelle** enseigne ou valeur. Le joueur annonce la nouvelle couleur. |
-| **As** | Le joueur suivant doit poser un As (sinon prendre 2 cartes × nb d'As posés). Un 8 annule le cumul. |
-| **2** | Le joueur suivant doit piocher **2 cartes** et ne joue pas. |
-| **Valet** | Inverse le sens du jeu. |
-| **7** | Fait sauter le tour du joueur suivant. |
-| **9** | Le joueur suivant doit poser un 9 (sinon piocher 1 carte). Si tous les 9 sont joués, jouer normalement. |
-| **10** | Permet de **rejouer**. Si posé en dernier, obligation de rejouer (et donc piocher). |
+Le premier joueur qui amasse 500 points perd la partie.
 
-## Cartes spéciales supplémentaires (optionnelles)
+### Cartes spéciales
 
-| Carte | Effet |
-|-------|-------|
-| **3** | Similaire au 2 : le joueur suivant doit prendre **3 cartes** |
-| **Dame** | Permet de **rejouer**. Si on ne peut pas jouer après → piocher 1 carte |
-| **Roi** | Permet d'**échanger ses cartes** avec le joueur de son choix |
+- **L'As** permet à un joueur de jouer toutes les cartes du même type. Par exemple, si le donneur dévoile un As de pique comme première carte de la partie, son adversaire peut jeter tout son pique.
+- **Le 2** force son adversaire à piger deux cartes supplémentaires et à passer son tour. Le 2 de pique oblige l'adversaire à piger quatre cartes.
+- **Le 8** change la couleur du jeu. En jetant un 8 de cœur, un joueur appelle une autre couleur, et pas nécessairement le cœur.
+- **Le Fou coloré** force son adversaire à piger 10 cartes supplémentaires et à passer son tour. Le Fou en noir et blanc oblige l'adversaire à piger cinq cartes. Attention : si les deux Fous du jeu ont la même couleur, relevez un détail qui permettra de les distinguer.
+- **Le Valet** fait passer un tour à l'adversaire.
 
-## Règles supplémentaires
+### Calcul des points
 
-### Pénalités (2 cartes)
+Lorsqu'un joueur a épuisé son jeu, la manche se termine. Il n'amasse donc aucun point. Son adversaire compte ses points ainsi :
 
-| Infraction |
-|------------|
-| Poser une carte ne correspondant ni à la bonne enseigne ni à la bonne valeur |
-| Jouer alors que ce n'est pas son tour |
-| Jouer alors qu'on le doit pas (à cause d'un 2 ou As) |
-| Oublier de dire « Carte » quand on n'a plus qu'1 carte |
-| Dire « Contre-carte » à un joueur ayant encore plus d'1 carte |
-| Poser deux cartes en même temps |
+| Carte | Points |
+|-------|--------|
+| Fou | 50 |
+| 8 | 25 |
+| 2 de pique | 25 |
+| 2 | 15 |
+| As | 15 |
+| Figures | 10 |
+| Autres cartes | 5 |
 
-### Les cartes doubles (2 jeux nécessaires)
+## Variantes
 
-- Autorise à poser une carte **quand ce n'est pas son tour** si elle est **exactement identique** à celle sur le tas.
-- Si la carte est posée avant le joueur dont c'est le tour, le tour reprend à partir du « usurpateur ».
-
-### Couleurs plutôt qu'enseignes
-
-Remplacer les enseignes (pique, cœur, carreau, trèfle) par les **couleurs** (rouge, noir). On peut ainsi poser du cœur sur du carreau.
+Si vous êtes de trois à six joueurs, vous pouvez jouer à la « bande des huit ». Prenez alors deux jeux de cartes. Suivez les règles du jeu de 8 habituel, mais en déposant un As de pique, vous faites changer le sens du jeu. Le joueur à la gauche du donneur commence la partie. C'est toujours le joueur qui doit jouer après qui est victime des cartes « piégées », c'est-à-dire des Fous, des 2 et des Valets.

@@ -1,57 +1,43 @@
-# La Dame de Pique
+# Le Dame de Pique
 
 **Nombre de joueurs :** 4
-**Nombre de cartes :** 52 (2/3/4/5/6/7/8/9/10/V/D/R/A)
+**Nombre de cartes :** 52
 **Difficulté :** Moyenne
 **Type :** Jeu de plis
-**But :** Accumuler le **moins de points possible**
+**But :** Éviter de prendre du cœur ou la Dame de pique
 **Autres noms :** Dame de Pique, Hearts, Le Cœur, Black Lady
 
 ---
 
-## Cartes à craindre
+## Règle courte
 
-| Carte | Points |
-|-------|--------|
-| Dame de Pique | **13 points** |
-| Chaque carte de Cœur | **1 point** |
+La Dame qui pique… Dans ce jeu relativement simple, il faut éviter de prendre du cœur ou, pire encore, la Dame de pique.
 
-## Préparation
+## Version longue
 
-### Distribution
+### Distribution des cartes
 
-- **13 cartes** sont distribuées à chacun.
-- Le jeu se déroule dans le sens des aiguilles d'une montre.
+Enlevez les Fous et brassez les cartes. Le donneur distribue dans le sens des aiguilles d'une montre, en commençant par l'adversaire qui se tient à sa gauche.
 
-### Échange obligatoire
+Chaque joueur place son jeu, et c'est celui qui a le 2 de trèfle qui commence, en dévoilant cette carte.
 
-Avant chaque manche, chacun des joueurs choisit **deux cartes** de son jeu puis :
-- En donne **une à son voisin de droite**
-- En donne **une à son voisin de gauche**
+### Début du jeu
 
-## Déroulement
+Il est obligatoire de jouer la couleur demandée, à moins qu'on n'en ait pas dans son jeu. Par exemple, si un joueur lance un 6 de carreau au centre de la table, tous les autres vont jouer du carreau. Si un des joueurs n'en possède pas, il peut lancer la Dame de pique s'il la possède ou encore du cœur. Notez qu'il est interdit de jouer du cœur à moins que :
 
-### Principe
+- On n'ait pas dans son jeu la couleur demandée ;
+- Il ne reste plus que du cœur dans son jeu.
 
-1. C'est toujours le joueur qui détient le **2 de Trèfle** qui commence.
-2. Chaque joueur doit **fournir à la couleur**.
-3. S'il ne possèst pas de carte dans la couleur demandée, il peut :
-   - Se défaire d'une carte au choix
-   - Se débarrasser de la **Dame de Pique** ou de ses **cartes de Cœur** (sauf lors du premier pli)
-4. Celui qui a joué la carte la plus forte dans la couleur demandée remporte le pli et entame le suivant.
+Le joueur qui a lancé la carte la plus forte de la couleur demandée remporte le pli. Par exemple, la première carte lancée est un 3 de pique. La seconde, un 10 de pique, la troisième, un 8 de pique et la dernière, un As de cœur. Cette dernière carte n'étant pas de la couleur demandée, elle ne peut pas être la plus forte. C'est donc le joueur qui a lancé le 10 de pique qui remporte le pli… et un cœur !
 
-## Fin de manche
+La manche se termine lorsque les joueurs n'ont plus de cartes, c'est-à-dire après 13 plis.
 
-- Lorsque les joueurs ont joué toutes leurs cartes, chacun compte les points des cartes qu'il a ramassées.
-- Chaque joueur note son nombre de points et une nouvelle partie commence.
+### Fin de partie
 
-## Grand Chelem
+La partie se termine lorsqu'un des joueurs atteint la barre des 100 points. À ce moment-là, c'est le joueur qui a le moins de points qui gagne.
 
-Quand un joueur possède à la fin de la partie **tous les Cœurs et la Dame de Pique** :
-- Il ne marque pas de point
-- Ses adversaires marquent **26 points** chacun !
+### Calcul des points
 
-## Score
+Chaque cœur vaut 1 point. La Dame de pique, elle, en vaut 13.
 
-- Le premier joueur à atteindre **100 points** perd la partie.
-- Le grand gagnant est celui dont le score reste au plus bas.
+Si, par hasard, un joueur réussit une « petite misère », c'est-à-dire qu'il remporte tous les cœurs et la Dame de pique, il fait prendre 26 points à chacun de ses trois adversaires.
