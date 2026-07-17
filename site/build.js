@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * build.js — Parse all markdown files from cartes-regles/ and generate data.js
+ * build.js — Parse all markdown files from rules/ and generate data.js
  * Usage: node build.js
  */
 const fs = require('fs');
 const path = require('path');
 
-const dir = path.join(__dirname, '..', 'cartes-regles');
+const dir = path.join(__dirname, '..', 'rules');
 const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort();
 
 const CATEGORY_COLORS = {
@@ -25,6 +25,9 @@ function parseGame(file, content) {
   const players = (content.match(/\*\*Nombre de joueurs\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || '';
   const cards   = (content.match(/\*\*Nombre de cartes\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || '';
   const goal    = (content.match(/\*\*But\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || '';
+  const aliases = (content.match(/\*\*Autres noms\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || '';
+  const difficulty = (content.match(/\*\*Difficulté\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || 'Non renseignée';
+  const type = (content.match(/\*\*Type\s*:?\s*\*\*\s*(.+)/i) || [])[1]?.trim() || 'Non renseigné';
 
   // Parse player numbers
   const pNums = players.match(/\d+/g);
@@ -70,7 +73,7 @@ function parseGame(file, content) {
   }
 
   return {
-    id, title, players, cards, goal,
+    id, title, players, cards, difficulty, type, goal, aliases,
     playerMin, playerMax, cardCount,
     category, color: CATEGORY_COLORS[category],
     sections: sections.map(s => s.title),
@@ -83,7 +86,7 @@ const games = files.map(f => parseGame(f, fs.readFileSync(path.join(dir, f), 'ut
 
 const counts = games.reduce((acc, g) => { acc[g.category] = (acc[g.category]||0)+1; return acc; }, {});
 
-const output = `// Auto-generated from cartes-regles/*.md — do not edit manually
+  const output = `// Auto-generated from rules/*.md — do not edit manually
 // ${games.length} games — run 'node build.js' to regenerate
 const GAMES = ${JSON.stringify(games, null, 2)};
 const CATEGORY_INFO = ${JSON.stringify({
