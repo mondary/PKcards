@@ -18,6 +18,11 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 - [ ] Filtres par difficulté et type
 - [ ] Recherche par alias
 
+### Phase 2 — Expérience & partage
+- [x] Cartes Tinder plein écran et layout responsive (mobile → desktop)
+- [x] Moteur de recherche (titre + alias, insensible aux accents)
+- [x] Bouton de partage avec une URL par jeu (routing par hash `#id`)
+
 ---
 
 ## Releases
@@ -28,6 +33,9 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 - Scripts `add-aliases.js` et `classify-rules.js` pour enrichir les règles
 - Bouton de recherche YouTube et section « Règle courte / Version longue » dans le détail
 - Fichiers `VERSION`, `CHANGELOG.md` et assets (`icon.png`, `image.png`)
+- Cartes Tinder plein écran et mise en page responsive (colonne mobile → carte centrée sur desktop, modales centrées)
+- Moteur de recherche (loupe → panneau) filtrant sur le titre et les alias, insensible aux accents
+- Bouton de partage par jeu (`navigator.share` + repli copie du lien) et routing par hash (`#id`) pour une URL directe par jeu
 
 #### Changed
 - Migration du dossier `cartes-regles/` vers `rules/`
