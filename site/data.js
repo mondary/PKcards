@@ -1,5 +1,5 @@
 // Auto-generated from cartes-regles/*.md — do not edit manually
-// 128 games — run 'node build.js' to regenerate
+// 163 games — run 'node build.js' to regenerate
 const GAMES = [
   {
     "id": "500",
@@ -86,6 +86,26 @@ const GAMES = [
     ],
     "excerpt": "As (plus fort), Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2 (plus faible).",
     "markdown": "# All Fours\n\n**Nombre de joueurs :** 3\n**Nombre de cartes :** 52\n**But :** Gagner des points en remportant des levées contenant certaines cartes\n\n---\n\n## Histoire\n\nJeu originaire d'Angleterre (XVIIe siècle), populaire aux États-Unis au XIXe siècle. Le jeu de cartes national de Trinidad. Variantes : *Seven Up*, *High-Low Jack*, *Old Sledge*.\n\n## Ordre des cartes\n\nAs (plus fort), Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2 (plus faible).\n\n---\n\n## La donne\n\n1. **6 cartes** par joueur en deux paquets de 3.\n2. La carte suivante est retournée : la **retourne**. Si c'est un Valet, le donneur marque **1 point**.\n\n## Déterminer l'atout\n\n- Le joueur à gauche du donneur peut **accepter** ou **refuser** la couleur de la retourne.\n- Si refusé, le donneur peut dire **« Prends un point »** (+1 point pour le joueur de gauche) et garder la couleur.\n- Ou continuer la donne : 3 nouvelles cartes chacun + nouvelle retourne, jusqu'à obtenir une couleur différente.\n\n---\n\n## Jeu de la carte\n\n1. Le joueur à gauche du donneur entame.\n2. On doit **fournir la couleur** demandée si possible.\n3. Si impossible → jouer un atout ou une autre carte.\n4. Le plus fort de la couleur demandée ou le plus fort atout remporte la levée.\n5. Le gagnant entame le pli suivant. **6 plis** au total.\n\n---\n\n## Décompte des points\n\nUn point pour chacun des éléments suivants :\n\n| Élément | Point |\n|---------|-------|\n| Atout le plus fort capturé | 1 |\n| Atout le plus faible capturé | 1 |\n| Valet de la couleur d'atout capturé | 1 |\n| Plus grand nombre de points dans les plis | 1 |\n\n### Valeur des cartes pour le « Jeu »\n\n| Carte | Valeur |\n|-------|--------|\n| As | 4 |\n| Roi | 3 |\n| Dame | 2 |\n| Valet | 1 |\n| 10 | 10 |\n\nLes points sont attribués dans l'ordre : atout le plus fort, atout le plus faible, Valet d'atout, puis le Jeu.\n\nLe premier joueur à **7 points** gagne.\n"
+  },
+  {
+    "id": "allo-jack",
+    "title": "Allô Jack !",
+    "players": "6 à 20+",
+    "cards": "52 (1 à 3 jeux selon le nombre de joueurs)",
+    "goal": "Être le premier à se défaire de toutes ses cartes",
+    "playerMin": 6,
+    "playerMax": 20,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Histoire",
+      "Ce que chaque carte commande",
+      "Déroulement",
+      "Particularité"
+    ],
+    "excerpt": "> On peut modifier ces conventions.",
+    "markdown": "# Allô Jack !\n\n**Nombre de joueurs :** 6 à 20+\n**Nombre de cartes :** 52 (1 à 3 jeux selon le nombre de joueurs)\n**But :** Être le premier à se défaire de toutes ses cartes\n\n---\n\n## Histoire\n\nJeu de party idéal pour mettre de l'atmosphère. Même les très jeunes enfants et les non-joueurs peuvent participer.\n\n## Ce que chaque carte commande\n\n| Carte | Action requise |\n|-------|----------------|\n| **Valet** | Dire : « Allô Jack ! » |\n| **Dame** | Dire : « Bonjour Madame » |\n| **Roi** | Se lever et saluer |\n| **As** | Empiler ses mains au centre de la table |\n\n> On peut modifier ces conventions.\n\n---\n\n## Déroulement\n\n1. On distribue les cartes **également** entre les joueurs. Chacun pose son paquet devant soi **sans le regarder**.\n2. À tour de rôle, chaque joueur prend la carte du dessus de son paquet et la retourne vers le **centre de la table**.\n3. Si la carte correspond à l'une des cartes ci-dessus, tous les joueurs doivent **faire l'action commandée**.\n4. Le **dernier** à le faire ramasse les cartes accumulées au centre.\n\n> En cas d'ambiguïté, les cartes restent au centre.\n\n---\n\n## Particularité\n\nC'est le seul jeu où les joueurs sont **tristes de gagner** ! Certains quêtent des cartes ou se trompent volontairement pour prolonger la partie.\n"
   },
   {
     "id": "aluette",
@@ -194,6 +214,26 @@ const GAMES = [
     ],
     "excerpt": "> Quand le point dépasse 10, on ne compte que le chiffre des unités. Exemple : deux 7 = 14 → 4 points. Faire Baccara = faire 0 point.",
     "markdown": "# Le Baccara\n\n**Nombre de joueurs :** 2 à 12+ (un banquier et des pontes)\n**Nombre de cartes :** 52 (2 à 6 jeux selon convention)\n**But :** Faire 9 ou le point le plus proche de 9\n\n---\n\n## Histoire\n\nJeu de casino apparu en Italie ou en Provence à la fin du XVe siècle. Il existe deux variétés : le **Baccara en Banque** et le **Chemin de Fer**.\n\n---\n\n## Valeur des cartes\n\n| Carte | Valeur |\n|-------|--------|\n| Figures et 10 (« bâches ») | 0 (ne comptent pas) |\n| As | 1 |\n| 2 à 9 | Valeur nominale |\n\n> Quand le point dépasse 10, on ne compte que le **chiffre des unités**. Exemple : deux 7 = 14 → **4 points**. Faire **Baccara** = faire **0 point**.\n\n---\n\n## Le Baccara en Banque\n\n### Préparation\n\nLe banquier se place au centre. Les pontes se placent devant les cases numérotées. Le banquier annonce « **Rien ne va plus !** » une fois les mises placées.\n\n### Le coup\n\n1. Le banquier distribue **2 cartes** au tableau de droite, **2** au tableau de gauche, puis **2** pour lui-même.\n2. Si le banquier a **8 ou 9**, il abat ses cartes.\n\n| Point du banquier | Action |\n|-------------------|--------|\n| 8 ou 9 | Abattre immédiatement |\n| Moins | « J'en donne » → donner une 3e carte découverte si demandée |\n\n3. Les pontes qui ont un point **égal ou supérieur** gagnent. Les autres perdent leur mise.\n\n### Le Banco\n\nUn joueur peut tenir **seul** l'enjeu contre la banque : il demande le **banco**. Le banquier distribue les cartes au banco comme aux autres pontes, mais le joueur ne peut toucher au deuxième tableau avant d'avoir répondu au premier.\n\n---\n\n## Le Chemin de Fer\n\nLa principale différence : chaque joueur devient **banquier à tour de rôle**. Le banquier ne distribue qu'à **un seul ponte** qui représente tous les autres.\n\n- Quand le banquier perd, il cède sa place à son **voisin de droite**.\n- Le ponte qui met l'enjeu le plus élevé représente le groupe.\n\n---\n\n## Règles particulières\n\n- Le banquier qui fait **maldonne** perd le coup.\n- Il est interdit au ponte de montrer ses cartes ou de consulter les autres.\n- Si les points sont **égaux**, la partie est annulée et un nouveau coup est joué.\n- Le ponte qui se trompe sur la valeur de ses cartes est responsable de sa perte.\n"
+  },
+  {
+    "id": "banque-russe",
+    "title": "La Banque Russe",
+    "players": "2",
+    "cards": "104 (2 jeux de 52, un par joueur)",
+    "goal": "Être le premier à se défaire de toutes ses cartes",
+    "playerMin": 2,
+    "playerMax": 2,
+    "cardCount": 104,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Histoire",
+      "Préparation",
+      "Priorités de placement",
+      "Déroulement"
+    ],
+    "excerpt": "Chaque joueur bat son propre paquet, puis retourne 4 cartes en colonne (une sous l'autre) à sa gauche. Il y aura 2 colonnes de 4 cartes ouvertes. Chaque joueur constitue sa banque : 12 cartes faces cachées, puis retourne…",
+    "markdown": "# La Banque Russe\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 104 (2 jeux de 52, un par joueur)\n**But :** Être le premier à se défaire de toutes ses cartes\n\n---\n\n## Histoire\n\nJeu d'attention et d'observation, variante de la crapette russe.\n\n---\n\n## Préparation\n\nChaque joueur bat **son propre paquet**, puis retourne **4 cartes** en colonne (une sous l'autre) à sa gauche. Il y aura 2 colonnes de 4 cartes ouvertes.\n\nChaque joueur constitue sa **banque** : 12 cartes faces cachées, puis retourne la 13e sur le dessus. Le talon est posé faces cachées devant lui.\n\n> Celui qui a retourné la plus grosse carte sur sa banque joue en premier.\n\n---\n\n## Priorités de placement\n\nChaque joueur doit placer les cartes selon l'ordre suivant, sous peine de perdre son tour :\n\n1. **Le centre d'abord** : les As, puis 2, 3, 4… en montant jusqu'aux Rois, par famille\n2. **La banque ou défausses de l'adversaire** : en montant ou descendant dans la même famille\n3. **Les colonnes des côtés** : en descendant et en alternant la couleur (9 rouge, 8 noir, 7 rouge…)\n\n---\n\n## Déroulement\n\nLes deux joueurs jouent à tour de rôle tant qu'ils peuvent placer des cartes. Quand un joueur ne peut plus jouer, il défausse la carte de son talon **face ouverte** entre son talon et sa banque.\n\n### Les ouvertures\n\nIl doit toujours y avoir **2 colonnes de 4 piles**. Si une pile est épuisée, on crée une **ouverture** où l'on peut placer les cartes que l'on désire.\n\n### Les fautes (« Erreur ! »)\n\nSi un joueur constate que son adversaire a commis une faute, il crie **« Erreur ! »** et prend son tour. Les 4 fautes possibles :\n\n- Ne pas avoir joué au **centre** en premier\n- Avoir omis de placer une carte sur la **banque** ou les **défausses** de l'adversaire\n- Avoir négligé de créer une **ouverture**\n- Avoir pris une carte au **talon** avant d'épuiser toutes les possibilités de la table\n"
   },
   {
     "id": "banque",
@@ -359,6 +399,26 @@ const GAMES = [
     "markdown": "# Le Baudet\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52\n**But :** Se débarrasser le premier de toutes ses cartes\n\n---\n\n## Préparation\n\nLe donneur distribue les cartes **une par une**.\n\n---\n\n## Déroulement\n\n### Principe\n\n1. Les joueurs qui possèdent des **as** les sortent et les mettent sur la table, **faces visibles**.\n2. Sur ces as viendront ensuite se placer les autres cartes de **même couleur**, d'abord les **2**, puis les **3**, et ainsi de suite jusqu'au **roi**.\n\n### Règles de jeu\n\n- On joue dans **n'importe quel ordre**.\n- Les joueurs se débarrassent de leurs cartes **dès qu'ils le peuvent**.\n\n> Chaque couleur forme une pile ascendante : As → 2 → 3 → … → Roi.\n\n---\n\n## Fin du jeu\n\n### Variante 1 : Le premier gagne\n\nLe gagnant est celui qui se débarrasse le **premier** de toutes ses cartes.\n\n### Variante 2 : Le dernier perd\n\nOn joue la partie **jusqu'au bout**. Le dernier joueur restant est le **perdant** — le **baudet** (l'âne).\n"
   },
   {
+    "id": "beigne",
+    "title": "Le Beigne (Up and Down)",
+    "players": "3 à 6",
+    "cards": "52",
+    "goal": "Réussir le nombre exact de levées annoncées",
+    "playerMin": 3,
+    "playerMax": 6,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Histoire",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Le nombre de cartes par donne évolue ainsi : 1, 2, 3, 4, 5, 6, 7, 8, 7, 6, 5, 4, 3, 2, 1. À chaque donne, le donneur retourne la carte supérieure du talon : c'est l'atout. Si c'est un As, on joue en sans atout.",
+    "markdown": "# Le Beigne (Up and Down)\n\n**Nombre de joueurs :** 3 à 6\n**Nombre de cartes :** 52\n**But :** Réussir le nombre exact de levées annoncées\n\n---\n\n## Histoire\n\nJeu facile et amusant. Le nombre de cartes distribuées **monte** puis **descend**.\n\n---\n\n## Préparation\n\nLe nombre de cartes par donne évolue ainsi : **1, 2, 3, 4, 5, 6, 7, 8, 7, 6, 5, 4, 3, 2, 1**.\n\nÀ chaque donne, le donneur retourne la carte supérieure du talon : c'est l'**atout**. Si c'est un As, on joue en **sans atout**.\n\n---\n\n## Déroulement\n\n### Les annonces\n\nAvant de jouer, le voisin de gauche du donneur annonce combien de levées il compte faire. Les autres font de même à tour de rôle.\n\n### Le jeu de la carte\n\n- Fournir la couleur demandée si possible, sinon défausser ou couper.\n- **Personne n'est tenu de couper**.\n- En sans atout, on ne peut pas couper.\n\n---\n\n## Score\n\n| Résultat | Points |\n|----------|--------|\n| Contrat **réussi** | **10** (prime) + nombre de levées déclarées |\n| Contrat **échoué** | **0** |\n\n> Le total des levées annoncées peut être supérieur ou inférieur au nombre de cartes par joueur — c'est un des attraits du jeu !\n"
+  },
+  {
     "id": "belote",
     "title": "Belote",
     "players": "4 (2 équipes de 2)",
@@ -407,6 +467,42 @@ const GAMES = [
     ],
     "excerpt": "2 jeux de 32 cartes (7, 8, 9, 10, Valet, Dame, Roi, As) mélangés ensemble = 64 cartes. On peut aussi jouer avec un seul jeu de 32 cartes, mais la bézique « double » devient impossible.",
     "markdown": "# La Bézique\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 64 (2 jeux de 32 cartes mélangés)\n**But :** Marquer plus de points que l'adversaire en cumulant des points d'annonces et des points de plis\n\n---\n\n## Matériel\n\n- **2 jeux de 32 cartes** (7, 8, 9, 10, Valet, Dame, Roi, As) mélangés ensemble = **64 cartes**.\n- On peut aussi jouer avec un seul jeu de 32 cartes, mais la bézique « double » devient impossible.\n\n## Mise en place\n\n1. Mélanger les 64 cartes.\n2. Distribuer **8 cartes** à chaque joueur.\n3. Poser le reste en **talon** face cachée et retourner la première carte : sa couleur fixe l'**atout** (cette carte reste visible sous le talon).\n4. Déterminer le premier joueur, puis alterner les donnes.\n\n---\n\n## L'ordre des cartes\n\n### En atout\n\n| Rang | Carte |\n|------|-------|\n| 1 | As |\n| 2 | Roi |\n| 3 | Dame |\n| 4 | Valet |\n| 5 | 10 |\n| 6 | 9 |\n| 7 | 8 |\n| 8 | 7 |\n\n### En couleur\n\n| Rang | Carte |\n|------|-------|\n| 1 | As |\n| 2 | Roi |\n| 3 | Dame |\n| 4 | Valet |\n| 5 | 10 |\n| 6 | 9 |\n| 7 | 8 |\n| 8 | 7 |\n\n---\n\n## Points de cartes (table de comptage)\n\n| Carte | Points |\n|-------|--------|\n| As | 11 |\n| Roi | 10 |\n| Dame | 4 |\n| Valet | 3 |\n| 10 à 7 | 0 |\n\n**Bonus :** Le dernier pli rapporte souvent **10 points** (selon la variante).\n\n---\n\n## Déroulement d'une partie\n\nLa donne se déroule en **deux phases** :\n\n### Phase 1 : Avec talon (on pioche)\n\n1. **Jouer un pli :** Le joueur en main pose une carte, l'autre répond avec une carte de son choix.\n   - **Pas d'obligation** de fournir la couleur ni de couper tant que le talon existe.\n2. **Déterminer le gagnant du pli :** La plus forte carte de la couleur demandée gagne, sauf si un atout est joué : **l'atout l'emporte**. En cas d'égalité, la première jouée « tient ».\n3. **Annoncer (si vous avez pris le pli) :** Vous pouvez déclarer une combinaison et marquer les points correspondants, en montrant les cartes concernées.\n4. **Piocher :** Le gagnant du pli pioche d'abord, puis l'autre joueur.\n5. **Fin du talon :** Quand il n'y a plus de cartes à piocher (la dernière inclut souvent la carte d'atout visible), on passe au jeu sans talon.\n\n### Phase 2 : Sans talon (jeu « à la couleur »)\n\n- Les joueurs doivent **fournir la couleur** si possible, et **couper** (jouer atout) si nécessaire.\n- Les annonces deviennent souvent **limitées ou cessent** selon la variante.\n- Chaque pli compte : la fin de donne se joue « au calcul ».\n\n---\n\n## Les annonces\n\nLes annonces se font **uniquement après avoir remporté un pli**, en montrant la combinaison.\n\n### Combinaisons et points\n\n| Combinaison | Description | Points |\n|-------------|-------------|--------|\n| **Mariage** | Roi + Dame de la même couleur | 20 (atout) / 15 (couleur) |\n| **Carré de Valets** | 4 Valets de couleurs différentes | 40 |\n| **Carré de Dames** | 4 Dames de couleurs différentes | 60 |\n| **Carré de Rois** | 4 Rois de couleurs différentes | 80 |\n| **Carré d'As** | 4 As de couleurs différentes | 100 |\n| **Bézique** | Dame de Pique + Valet de Carreau | 40 |\n| **Double Bézique** | 2 Dames de Pique + 2 Valets de Carreau | 500 |\n| **Séquence** | 7, 8, 9, 10, Valet d'atout | 150 |\n| **Tierce** | Valet, Dame, Roi d'atout | — |\n\n### Règles des annonces\n\n- **Peut-on réutiliser une carte dans plusieurs annonces ?** Souvent oui, tant que la règle locale l'autorise. Le point clé est de pouvoir **présenter la combinaison** au moment de l'annonce.\n- **La « bézique »** : Classiquement **Dame de Pique + Valet de Carreau**. Avec deux jeux, on peut faire une **double bézique** (deux Dames de Pique et deux Valets de Carreau), plus rentable.\n\n---\n\n## Changement de l'atout\n\nDans certaines règles, tant que le talon existe, le joueur qui possède le **7 d'atout** peut l'échanger contre la **carte d'atout retournée** (souvent en gagnant un pli).\n\n---\n\n## Fin des annonces\n\nUne fois le talon vide, on ne fait **plus d'annonces** (ou elles sont fortement restreintes). Mettez-vous d'accord avant de commencer.\n\n---\n\n## Tableau récapitulatif\n\n| Situation | Règle | À retenir |\n|-----------|-------|-----------|\n| **Talon encore présent** | Après chaque pli, on pioche : gagnant puis perdant. Pas d'obligation de fournir/couper. | Le jeu est plus « libre » : préparez des annonces et gardez l'atout pour contrôler. |\n| **Annonce d'une combinaison** | Uniquement si vous remportez un pli, en montrant les cartes annoncées. | Annoncez quand cela rapporte sans trop vous affaiblir en plis. |\n| **Talon épuisé** | On joue sans pioche ; il faut fournir la couleur et couper si nécessaire. | La fin de donne se joue « au calcul » : chaque pli compte. |\n\n---\n\n## Comment gagner ?\n\nLa partie se joue en une ou plusieurs donnes. Dans la donne, vous additionnez :\n\n- Les **points d'annonces** déclarées\n- Les **points des cartes** remportées en plis (selon la table de comptage)\n- Le **bonus du dernier pli** (s'il est utilisé)\n\nLe joueur avec le **total le plus élevé** remporte la donne.\n\nPour une partie complète, fixez un **score cible** (par exemple un total à atteindre) ou jouez un **nombre déterminé de donnes**, puis comparez les totaux.\n\n---\n\n## Erreurs fréquentes\n\n1. **Oublier de clarifier les variantes** avant de jouer : Annonce autorisée quand ? Obligations de fournir/couper ? Échange du 7 d'atout ? Fixez ces points dès le départ.\n2. **Annoncer trop tôt** et se faire « contrer » : Montrer une combinaison peut révéler vos couleurs fortes. Si vous n'avez pas besoin d'annoncer immédiatement, attendez un moment où vous gardez le contrôle des plis.\n3. **Négliger la phase sans talon** : Beaucoup de points se décident à la fin : comptez vos atouts, anticipez les levées obligatoires et évitez de laisser des cartes payantes « gratuites ».\n"
+  },
+  {
+    "id": "black-jack-banquier",
+    "title": "Black Jack (avec banquier)",
+    "players": "2 à 14",
+    "cards": "52",
+    "goal": "Faire 21 ou s'en approcher sans dépasser",
+    "playerMin": 2,
+    "playerMax": 14,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur des cartes",
+      "Déroulement"
+    ],
+    "excerpt": "As = 1 ou 11, Figures = 10, autres cartes = valeur nominale.",
+    "markdown": "# Black Jack (avec banquier)\n\n**Nombre de joueurs :** 2 à 14\n**Nombre de cartes :** 52\n**But :** Faire 21 ou s'en approcher sans dépasser\n\n---\n\n## Valeur des cartes\n\nAs = 1 ou 11, Figures = 10, autres cartes = valeur nominale.\n\n---\n\n## Déroulement\n\nLe donneur est **banquier** et s'engage à faire **3 tours de table**. Il distribue **1 carte fermée** à chaque joueur.\n\n### Options du banquier\n\n| Situation | Action |\n|-----------|--------|\n| N'a pas regardé sa carte | Peut **tripler** la mise de chaque joueur |\n| A regardé sa carte | Peut **doubler** la mise |\n\nToutes les cartes suivantes sont données **ouvertes**. Chaque joueur demande des cartes jusqu'à être satisfait.\n\n### Gains spéciaux\n\n| Événement | Paiement |\n|-----------|----------|\n| **Black Jack** (As + Figure/10) | Banquier paie le **double** immédiatement |\n| **21 ou moins en 5 cartes** | Banquier paie le **triple** immédiatement |\n| **Dépasse 21** | Le joueur se retire et perd sa mise |\n\n### Le banquier joue\n\nAprès avoir servi les joueurs, le banquier ouvre sa carte cachée et prend des cartes. Il déclare payer son **total plus un**.\n\n> Si le banquier fait Black Jack, tous les joueurs encore en jeu paient le **double**. En 5 cartes : le **triple**.\n"
+  },
+  {
+    "id": "black-jack-pot",
+    "title": "Black Jack (avec pot)",
+    "players": "2 à 14",
+    "cards": "52",
+    "goal": "Faire 21 ou s'en approcher sans dépasser",
+    "playerMin": 2,
+    "playerMax": 14,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Principe",
+      "Déroulement"
+    ],
+    "excerpt": "Le donneur dépose un pot (ex: 30 jetons). Aucun joueur ne peut remporter plus que ce qui est dans le pot. Le donneur joue contre chaque joueur individuellement.",
+    "markdown": "# Black Jack (avec pot)\n\n**Nombre de joueurs :** 2 à 14\n**Nombre de cartes :** 52\n**But :** Faire 21 ou s'en approcher sans dépasser\n\n---\n\n## Principe\n\nLe donneur dépose un **pot** (ex: 30 jetons). Aucun joueur ne peut remporter plus que ce qui est dans le pot. Le donneur **joue contre chaque joueur individuellement**.\n\n---\n\n## Déroulement\n\n1. Le donneur donne **1 carte cachée** au premier joueur à sa gauche et s'en sert une.\n2. Le joueur parie et demande des cartes ouvertes jusqu'à être satisfait.\n3. Le donneur ouvre sa carte et prend des cartes. Il paie le joueur (à même le pot) si celui-ci a **mieux**.\n\n### Gains spéciaux\n\n| Événement | Paiement |\n|-----------|----------|\n| **Black Jack** | Banquier paie le **double** (à même le pot, sans jouer) |\n| **21 ou moins en 5 cartes** | Banquier paie le **triple** (à même le pot, sans jouer) |\n| **Dépasse 21** | Le joueur perd sa mise (au pot) |\n\n> Si le donneur fait Black Jack : le joueur paie **2× sa mise** au pot. En 5 cartes : **3× sa mise**.\n\nLe jeu se termine quand il n'y a plus de jetons au pot. Après 3 tours, le donneur ramasse ce qui reste.\n"
   },
   {
     "id": "bog",
@@ -599,6 +695,27 @@ const GAMES = [
     "markdown": "# La Brusquembille\n\n**Nombre de joueurs :** 2 à 5\n**Nombre de cartes :** 30 à 32\n**But :** Avoir le plus grand nombre de points dans ses levées\n\n---\n\n## Histoire\n\nJeu du XVIIIe siècle, fixé par le comédien Deslaurier, dit Brusquembille. Très populaire sous l'Ancien Régime, il perdit sa vogue sous l'Empire.\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As (« brusquembille ») | 11 |\n| 10 (« brusquembille ») | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| Valet | 2 |\n| Autres cartes | 0 |\n\n---\n\n## Préparation\n\n- En nombre pair de joueurs : 32 cartes. En nombre impair : 30 cartes (retirer un 7 rouge et un 7 noir).\n- Le donneur distribue **3 cartes** à chacun et s'en sert 3.\n- La **dernière carte** tirée est l'**atout** que le donneur annonce.\n- Le talon reste au centre pour les tirages.\n\n---\n\n## Déroulement\n\n1. Le joueur à droite du donneur abat une carte.\n2. Chacun doit **suivre la couleur demandée**. Sans la couleur ni d'atout : se défausser et couper le jeu.\n3. Celui qui fait la levée tire la **carte supérieure du talon** et la joue. Les autres font de même.\n\n> La partie se poursuit jusqu'à épuisement du talon. On joue alors les cartes restantes.\n\n---\n\n## Récompenses\n\n- Celui qui abat l'**As d'atout** reçoit **2 jetons** de chaque adversaire.\n- Celui qui abat un **As** reçoit **2 jetons**. Mais si cet As est **coupé**, il donne 2 jetons à chacun.\n\n---\n\n## Fin du jeu\n\nLe plus grand nombre de points dans ses levées désigne le **gagnant**. Le joueur à droite du donneur remplace ensuite ce dernier.\n"
   },
   {
+    "id": "canasta-chinoise",
+    "title": "La Canasta Chinoise",
+    "players": "4 ou 6 (équipes de 2)",
+    "cards": "162 à 216 (3 à 4 jeux de 52 + jokers et blanches)",
+    "goal": "Atteindre 15 000 points le premier",
+    "playerMin": 4,
+    "playerMax": 2,
+    "cardCount": 162,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Règle spéciale",
+      "Le « poney »",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Contrairement à la canasta ordinaire, les équipes doivent faire trois canastas : 1. Une canasta pure (sans frimes) 2. Une canasta impure (avec frimes)",
+    "markdown": "# La Canasta Chinoise\n\n**Nombre de joueurs :** 4 ou 6 (équipes de 2)\n**Nombre de cartes :** 162 à 216 (3 à 4 jeux de 52 + jokers et blanches)\n**But :** Atteindre 15 000 points le premier\n\n---\n\n## Règle spéciale\n\nContrairement à la canasta ordinaire, les équipes doivent faire **trois canastas** :\n1. Une canasta **pure** (sans frimes)\n2. Une canasta **impure** (avec frimes)\n3. Une **canasta de frimes** (sept 2 pure OU quatre 2 + trois jokers)\n\n---\n\n## Le « poney »\n\nLe partenaire prépare un paquet de **11 cartes** (« le poney ») pour chaque joueur. Dès qu'un joueur a ouvert, il peut prendre son poney et l'ajouter à son jeu.\n\n---\n\n## Préparation\n\nLe donneur distribue **15 cartes** à chacun. Le talon est au centre, carte supérieure retournée pour commencer la pile. Si c'est une frime ou un 3 rouge, la pile est **gelée**.\n\n---\n\n## Déroulement\n\nMêmes règles que la canasta ordinaire :\n- Piger au talon ou prendre la pile\n- Former des séries de 3+ cartes de même valeur\n- Les frimes : jokers, blanches et 2\n- Maximum 1 frime pour 3 cartes, 2 pour 4, 3 pour 5+\n\n### Canasta constituée\n\nRecouverte d'une carte naturelle : **noire** si impure, **rouge** si pure. On peut prendre la pile sur une défausse correspondant à une carte de sa canasta.\n\n---\n\n## Score\n\n| Élément | Points |\n|---------|--------|\n| Chaque 3 rouge | 100 |\n| Cinq 3 rouges | 1 000 |\n| Six 3 rouges | 1 200 |\n| Canasta de frimes impure | 1 500 |\n| Canasta de frimes pure | 2 000 |\n| Canasta impure | 300 |\n| Canasta pure | 500 |\n| Joker/blanche | 50 |\n| As et 2 | 20 |\n| Roi à 8 | 10 |\n| 7 à 4 | 5 |\n| 3 noir | 5 |\n\n### Points requis pour ouvrir\n\n| Score de l'équipe | Minimum |\n|-------------------|---------|\n| Moins de 0 | 0 |\n| 0 à 2 995 | 90 |\n| 3 000 à 4 995 | 120 |\n| 5 000 à 7 995 | 150 |\n| Plus de 8 000 | 180 |\n"
+  },
+  {
     "id": "canasta",
     "title": "La Canasta",
     "players": "4 (2 équipes de 2)",
@@ -624,6 +741,26 @@ const GAMES = [
     "markdown": "# La Canasta\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 108 (2 jeux de 54 cartes mélangés)\n**But :** Atteindre 5000 points en formant des combinaisons et des canastas\n\n---\n\n## Histoire\n\nNé en **Uruguay** (canasta = « petit panier »), répandu dans toute l'Amérique latine, puis aux États-Unis dans les années 50. Arrivé en Europe avec les soldats américains après la Seconde Guerre mondiale.\n\n## Cartes spéciales\n\n| Type | Cartes | Rôle |\n|------|--------|------|\n| **Cartes volantes** | 4 Jokers + 8 Deux | Remplacent n'importe quelle carte |\n| **Cartes de bonus** | 4 Trois rouges | Rapportent des points en fin de manche |\n| **Cartes d'arrêt** | 4 Trois noirs | Bloquent provisoirement la pile de défausse |\n| **Cartes naturelles** | Toutes les autres | Composent les combinaisons |\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| Joker | 50 |\n| 2 | 20 |\n| As | 20 |\n| Roi, Dame, Valet, 10, 9, 8 | 10 |\n| 7, 6, 5, 4 | 5 |\n| 3 rouge | 100 (bonus) |\n| 3 noir | 5 |\n\n---\n\n## Mise en place\n\n1. Distribuer **11 cartes** par joueur.\n2. Le reste forme le **talon** au centre, face cachée.\n3. Retourner la première carte → début de la **pile de défausse**.\n   - Si c'est une carte spéciale (Joker, 2, 3), retourner la suivante jusqu'à obtenir une carte naturelle.\n4. Si un joueur a un **3 rouge**, il le pose face visible et tire une carte de remplacement.\n\n---\n\n## Les combinaisons\n\n### Brelan (minimum pour ouvrir)\n3 cartes ou plus de **même hauteur**, avec plus de cartes naturelles que de volantes.\n\n### Canasta\n7 cartes de même hauteur :\n- **Canasta pure** (rouge) : uniquement des cartes naturelles → **500 pts**\n- **Canasta impure** (noire) : avec cartes volantes → **300 pts**\n\n> Une combinaison doit toujours comporter **plus de cartes naturelles que de cartes volantes**.\n\n---\n\n## Déroulement d'un tour\n\nChaque joueur effectue 3 opérations :\n\n### 1. Tirer une carte\n- Du **talon** (le plus courant)\n- Ou de la **pile de défausse** (si conditions remplies — voir « Capture de la pile »)\n\n### 2. Poser des cartes (ouvrir/compléter)\n- Former de nouveaux brelans\n- Compléter les combinaisons de son équipe\n\n#### Conditions d'ouverture\n\n| Score de l'équipe | Points minimum requis |\n|-------------------|-----------------------|\n| Négatif | 15 pts |\n| 0 à 1495 | 50 pts |\n| 1500 à 2995 | 90 pts |\n| 3000 à 4995 | 120 pts |\n\n### 3. Se défausser\n- Poser une carte sur la pile de défausse.\n- Un **3 noir** gelé la pile (le joueur suivant ne peut pas la capturer).\n\n### Capture de la pile de défausse\n\nPour ramasser la carte supérieure (et toute la pile) :\n- L'équipe doit avoir **déjà ouvert**\n- **Soit** posséder 2 cartes naturelles de même hauteur\n- **Soit** pouvoir placer la carte sur une combinaison existante\n\n---\n\n## Sortir (finir la manche)\n\n- Un joueur peut sortir s'il se débarrasse de sa **dernière carte**.\n- **Condition :** son équipe doit avoir posé au moins **une canasta**.\n- Il est d'usage de **demander l'autorisation** à son équipier.\n\n### Sortie-surprise\nDéposer toutes ses cartes en une seule fois → **+200 pts**\n\n---\n\n## Calcul des points en fin de manche\n\n| Élément | Points |\n|---------|--------|\n| Sortie | +100 |\n| Sortie-surprise | +200 |\n| Canasta pure | +500 |\n| Canasta impure | +300 |\n| Chaque 3 rouge (équipe ouverte) | +100 |\n| 4 Trois rouges (équipe ouverte) | +800 |\n| Chaque 3 rouge (équipe non ouverte) | -100 |\n| Cartes en main à la fin | **Soustraites** |\n\nL'équipe qui atteint **5000 points** remporte la partie.\n\n---\n\n## Variantes selon le nombre de joueurs\n\n| Joueurs | Cartes par joueur | Canastas pour sortir |\n|---------|-------------------|----------------------|\n| 2 | 15 | 2 |\n| 3 | 11 | 1 (chacun pour soi) |\n| 5 | 11 | 1 (2 vs 3) |\n| 6 | 11 | 2 (3 jeux de 54) |\n"
   },
   {
+    "id": "carotte",
+    "title": "La Carotte",
+    "players": "4",
+    "cards": "28 (52 sans les 7, 6, 5, 4, 3 et 2)",
+    "goal": "Atteindre 25 points le premier",
+    "playerMin": 4,
+    "playerMax": 4,
+    "cardCount": 28,
+    "category": "petit-groupe",
+    "color": "#34d399",
+    "sections": [
+      "Préparation",
+      "Les annonces",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Le donneur distribue 6 cartes fermées à chacun et pose 4 cartes fermées au centre (« la mise »).",
+    "markdown": "# La Carotte\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 28 (52 sans les 7, 6, 5, 4, 3 et 2)\n**But :** Atteindre 25 points le premier\n\n---\n\n## Préparation\n\nLe donneur distribue **6 cartes fermées** à chacun et pose **4 cartes fermées** au centre (« la mise »).\n\n---\n\n## Les annonces\n\nEn commençant par le voisin de gauche, chaque joueur annonce ou passe. L'annonce indique le **nombre de levées** (minimum 4) et l'**atout**.\n\n> Les annonces doivent **toujours monter** en nombre de levées. À 6 levées, on dit : **« Carotte à [couleur] »**.\n\nExemples : « Quatre trèfle », « Cinq cœur », « Carotte à cœur », « Passe ».\n\n---\n\n## Déroulement\n\n1. Le joueur avec la plus haute déclaration prend la **mise** et l'ajoute à son jeu.\n2. Il écarte pour revenir à **6 cartes**.\n3. Il entame et choisit l'atout.\n4. Fournir la couleur demandée si possible, sinon couper ou défausser.\n\n---\n\n## Score\n\n| Résultat | Points |\n|----------|--------|\n| Chaque levée déclarée et réussie | **+1** par levée déclarée |\n| Contrat échoué | **-1** par levée déclarée |\n| La carotte (6 levées) | **0** point (mais payée en jetons) |\n\n> La carotte se paye à part. Réussie : le joueur reçoit des jetons de chacun. Échouée : il remet le même nombre à chacun.\n"
+  },
+  {
     "id": "carte-la-plus-basse",
     "title": "La Carte la Plus Basse",
     "players": "indéterminé",
@@ -641,6 +778,25 @@ const GAMES = [
     ],
     "excerpt": "On distribue à chacun un nombre égal de cartes.",
     "markdown": "# La Carte la Plus Basse\n\n**Nombre de joueurs :** indéterminé\n**Nombre de cartes :** 32 ou 52\n**But :** Avoir le plus grand nombre de cartes à la fin de la partie\n\n---\n\n## Préparation\n\nOn distribue à chacun un **nombre égal de cartes**.\n\n---\n\n## Déroulement\n\n### Principe\n\n1. Chaque joueur joue sa **carte la plus basse**.\n2. Le pli revient au joueur qui a jeté la carte ayant la **valeur la plus basse**.\n\n> On ne tient pas compte de la couleur des cartes. Seule la valeur compte.\n\n---\n\n## Fin du jeu\n\nLe gagnant est le joueur qui, à la fin de la partie, a le **plus grand nombre de cartes**.\n"
+  },
+  {
+    "id": "carte-svp",
+    "title": "Carte, s'il vous plaît !",
+    "players": "4 à 7",
+    "cards": "52",
+    "goal": "Être le premier à atteindre 25 points",
+    "playerMin": 4,
+    "playerMax": 7,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Combinaisons et points",
+      "Préparation",
+      "Déroulement"
+    ],
+    "excerpt": "",
+    "markdown": "# Carte, s'il vous plaît !\n\n**Nombre de joueurs :** 4 à 7\n**Nombre de cartes :** 52\n**But :** Être le premier à atteindre 25 points\n\n---\n\n## Combinaisons et points\n\n| Combinaison | Points |\n|-------------|--------|\n| Trois cartes de **même famille** (3 cœurs, 3 trèfles…) | 1 |\n| Trois cartes qui **se suivent** (A-R-D, 2-3-4…) | 3 |\n| Trois cartes de **même valeur** (3 dames, 3 huits…) | 5 |\n\n---\n\n## Préparation\n\nLe donneur distribue **3 cartes fermées** à chacun et pose le talon au centre.\n\n---\n\n## Déroulement\n\n1. Le voisin de droite du donneur commence.\n2. S'il n'a pas de combinaison, il se débarrasse de sa moins bonne carte en la tendant **face cachée** à son voisin de droite, en disant : **« Carte, s'il vous plaît ! »**\n3. Le voisin doit **céder une carte** (sa moins bonne) en échange.\n4. Il fait à son tour la même proposition à son propre voisin de droite.\n5. On poursuit jusqu'à ce qu'un joueur réussisse une combinaison.\n\n### Nouvelle donne de cartes\n\nSi personne ne réussit de combinaison à la fin d'un tour, le donneur prélève au talon **une nouvelle carte** pour chaque joueur. Chacun défausse 1 carte pour garder 3 cartes en main.\n\n> Le premier joueur à atteindre **25 points** gagne la partie.\n"
   },
   {
     "id": "casino",
@@ -733,6 +889,26 @@ const GAMES = [
     "markdown": "# Le Chasse-Cœur\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 52\n**But :** Faire le moins de points possible dans ses levées\n\n---\n\n## Histoire\n\nJoué surtout dans la seconde moitié du XIXe siècle, en France et en Belgique. Garde des fidèles dans le nord de la France et en Wallonie.\n\n---\n\n## Valeur des cartes\n\n| Carte | Points de pénalité |\n|-------|--------------------|\n| Chaque **Dame** | 13 points |\n| Chaque **cœur** | 1 point |\n\n> Total des points d'une donne : **64** (12 cœurs + 4 × 13 Dames).\n\n---\n\n## Préparation\n\nLa partie se joue généralement en **12 donnes**. Le donneur distribue **13 cartes** à chacun (deux fois 4 et une fois 5).\n\n---\n\n## Déroulement\n\n1. Le joueur à gauche du donneur joue le premier. Ensuite, c'est celui qui a fait la dernière levée.\n2. On doit **toujours suivre la couleur** ; il n'est pas obligatoire de monter.\n3. Quand on ne peut suivre, il faut écarter en priorité :\n   - Les **cœurs** (et d'abord la Dame de cœur si avantageux).\n   - Puis les **Dames**.\n\n> Il est **interdit d'attaquer à cœur** tant qu'on tient des cartes d'une autre couleur.\n\n---\n\n## Score\n\nÀ la fin des 12 donnes, on additionne les points de chaque joueur. On défalque des deux colonnes les plus élevées les points des deux plus basses.\n\n> Le solde représente le gain des gagnants, partagé en deux parts égales.\n\n---\n\n## La Générale\n\nUn joueur peut déclarer la **Générale** : il s'engage à ramasser **tous les plis contenant des points**.\n\n| Résultat | Conséquence |\n|----------|-------------|\n| Réussite | Chaque adversaire marque **64 points** |\n| Échec | L'annonceur marque **64 points** |\n\n> En Générale, les adversaires sont **obligés** de mettre la Dame de la couleur du Roi ou de l'As joué par l'annonceur.\n\n### La Générale en sourdine\n\nTentée **sans l'annoncer**. Les suivants ne sont pas tenus de poser leurs Dames.\n\n| Réussite | Échec |\n|----------|-------|\n| Chaque adversaire marque **54 points** | L'annonceur ne marque que les points réellement faits |\n"
   },
   {
+    "id": "chat",
+    "title": "Le Chat",
+    "players": "3+",
+    "cards": "52 (un jeu par groupe de 5-6 joueurs)",
+    "goal": "Être le premier à se défaire de toutes ses cartes",
+    "playerMin": 3,
+    "playerMax": 3,
+    "cardCount": 52,
+    "category": "petit-groupe",
+    "color": "#34d399",
+    "sections": [
+      "Principe",
+      "Valeur des cartes",
+      "Préparation",
+      "Déroulement"
+    ],
+    "excerpt": "Écarter sur la carte du centre et sur les défausses des adversaires dans l'ordre ascendant ou descendant. Écarter sur les « chats » dans l'ordre ascendant ou descendant. En cas d'erreur, les autres crient « Chat ! » et l…",
+    "markdown": "# Le Chat\n\n**Nombre de joueurs :** 3+\n**Nombre de cartes :** 52 (un jeu par groupe de 5-6 joueurs)\n**But :** Être le premier à se défaire de toutes ses cartes\n\n---\n\n## Principe\n\nÉcarter sur la carte du centre et sur les défausses des adversaires dans l'ordre **ascendant ou descendant**. Écarter sur les « chats » dans l'ordre **ascendant ou descendant**. En cas d'erreur, les autres crient **« Chat ! »** et le joueur perd son tour.\n\n## Valeur des cartes\n\nL'As est à la fois la plus haute et la plus basse.\n\n---\n\n## Préparation\n\nLe donneur retourne **une carte au centre** et distribue un nombre égal de cartes fermées à tous. Les joueurs posent leur paquet devant eux sans le regarder.\n\n---\n\n## Déroulement\n\n1. Le voisin de gauche retourne la carte du dessus de son paquet (vers le centre, sans la déposer).\n2. Il vérifie s'il peut l'**écarter**.\n\n### Ordre de priorités\n\nAvant de retourner une nouvelle carte de son paquet, le joueur doit d'abord écarter :\n\n1. **Au centre** en premier\n2. **Sur les chats** des autres joueurs (du plus près à gauche au plus loin)\n3. **Sur les défausses** des adversaires (du plus près à gauche au plus loin)\n\n> Si un joueur ne peut écarter, il dépose sa carte ouverte devant son paquet.\n\n### Les erreurs (« Chat ! »)\n\nSi un joueur commet une erreur, les autres crient **« Chat ! »**. Il dépose sa carte ouverte à distance de ses défausses pour marquer le chat. Un joueur aura **autant de chats** qu'il fera d'erreurs.\n"
+  },
+  {
     "id": "chateau-de-cartes",
     "title": "Le Château de Cartes",
     "players": "2 à 8",
@@ -750,6 +926,24 @@ const GAMES = [
     ],
     "excerpt": "Le donneur distribue 8 cartes à chaque joueur.",
     "markdown": "# Le Château de Cartes\n\n**Nombre de joueurs :** 2 à 8\n**Nombre de cartes :** 52 (ou plus, pour que chaque joueur reçoive 8 cartes)\n**But :** Être le premier à se débarrasser de toutes ses cartes\n\n> Les valeurs des cartes sont sans importance.\n\n---\n\n## Préparation\n\nLe donneur distribue **8 cartes** à chaque joueur.\n\n---\n\n## Déroulement\n\n### Règle de pose\n\n- Le premier joueur pose **deux cartes en équilibre** sur la table.\n- Aucune carte ne doit être posée **à plat** sur la table : toutes les cartes ne peuvent toucher la table que **par la tranche** (le bord).\n- Ensuite, chaque joueur, à son tour, doit poser **deux nouvelles cartes**.\n- Chaque carte doit être **en contact avec au moins une carte** déjà posée.\n\n### Cartes tombées\n\n- Lorsqu'un joueur **fait tomber des cartes à plat** sur la table, il doit les **prendre** et les ajouter à sa main.\n\n---\n\n## Fin du jeu\n\nLe joueur qui parvient, le premier, à se débarrasser de **toutes ses cartes** est le **vainqueur**.\n"
+  },
+  {
+    "id": "chien-rouge",
+    "title": "Le Chien Rouge",
+    "players": "2 à 12",
+    "cards": "52",
+    "goal": "Détenir une carte plus forte et de même famille que celle retournée",
+    "playerMin": 2,
+    "playerMax": 12,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Déroulement",
+      "Particularité"
+    ],
+    "excerpt": "1. Chaque joueur (y compris le donneur) dépose une mise. L'ensemble forme les enjeux. 2. Le donneur distribue 3 cartes fermées à chacun. 3. Le voisin de gauche mise ou se retire.",
+    "markdown": "# Le Chien Rouge\n\n**Nombre de joueurs :** 2 à 12\n**Nombre de cartes :** 52\n**But :** Détenir une carte plus forte et de même famille que celle retournée\n\n---\n\n## Déroulement\n\n1. Chaque joueur (y compris le donneur) dépose une mise. L'ensemble forme les **enjeux**.\n2. Le donneur distribue **3 cartes fermées** à chacun.\n3. Le voisin de gauche mise ou se retire.\n4. Le donneur retourne la carte supérieure du **talon**.\n\n### Résolution\n\n| Situation | Conséquence |\n|-----------|-------------|\n| Le joueur a une carte **plus forte et de même famille** | Prend le nombre de jetons correspondant à sa mise |\n| Sinon | Dépose sa mise au centre |\n\n> Les enjeux sont remportés quand ils sont épuisés. Le jeu continue tant qu'il y a des jetons au centre.\n\n---\n\n## Particularité\n\nMême un joueur qui détient **3 As** peut perdre si la carte retournée est d'une famille qu'il n'a pas !\n"
   },
   {
     "id": "chkobba",
@@ -1088,6 +1282,26 @@ const GAMES = [
     "markdown": "# L'Écarté\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 32\n**But :** Remporter 5 points en gagnant des levées et en formant des combinaisons\n\n---\n\n## Histoire\n\nJeu très ancien, issu de la **Triomphe** (où apparut pour la première fois l'atout). Au XIXe siècle, c'était un jeu d'argent impliquant joueurs et spectateurs. Un des premiers films des frères Lumière (1895) a pour sujet « Une partie d'écarté ».\n\n## Ordre des cartes\n\n**Roi, Dame, Valet, As, 10, 9, 8, 7** (ordre inhabituel, l'As au milieu).\n\nUne couleur d'atout est désignée par le hasard à chaque donne.\n\n---\n\n## Distribution\n\n1. Chacun tire une carte. Le plus bas est le donneur (alternance à chaque tour).\n2. Le donneur bat, fait couper et distribue **5 cartes** chacun (2 puis 3, ou 3 puis 2).\n3. Il retourne la 11e carte → c'est la **retourne**, qui désigne l'**atout**.\n   - Si c'est un Roi → le donneur marque 1 point.\n4. Le talon est posé sur la retourne (laissée à demi visible).\n\n---\n\n## Le jeu « d'autorité »\n\nAvant les écarts, un joueur peut décider de jouer **d'autorité** (sans échanger de cartes) :\n- Il dit **« On joue »** et le jeu commence immédiatement.\n- S'il échoue (< 3 levées) → l'adversaire marque un **point de refus**.\n\n---\n\n## Les écarts\n\nSi aucun joueur ne joue d'autorité :\n\n1. Le joueur non-donneur dit **« Cartes »**.\n2. L'adversaire demande **« Combien ? »**\n3. Le joueur écarte de **1 à 5 cartes** et en pioche autant.\n4. L'autre fait de même.\n5. On continue jusqu'à ce qu'un joueur dise **« On joue »**.\n\n---\n\n## Jeu de la carte\n\n1. Annoncer le **Roi d'atout** si on l'a (→ 1 point) avant de poser sa première carte.\n2. Le joueur non-donneur entame.\n3. Obligations :\n   - **Fournir la couleur** demandée, en montant si possible.\n   - Si impossible → **couper** avec un atout.\n   - Si pas d'atout → **se défausser**.\n4. Le plus fort de la couleur demandée ou le plus fort atout remporte la levée.\n\n---\n\n## Compte des points\n\n| Événement | Points |\n|-----------|--------|\n| 3 ou 4 levées | 1 point (point de levée) |\n| 5 levées (capot) | 2 points (point de vole) |\n| Roi d'atout en main | 1 point (point du Roi) |\n| Refus d'écarts raté | 1 point (point de refus) |\n\nLe premier à **5 points** gagne la manche. On joue généralement en **deux manches gagnantes** (+ belle si nécessaire).\n\n---\n\n## Variantes\n\n- **L'Ecarté à 4 joueurs** : chacun joue individuellement, avec un talon plus important.\n"
   },
   {
+    "id": "elimination",
+    "title": "L'Élimination",
+    "players": "2 à 8",
+    "cards": "52",
+    "goal": "Avoir le plus haut OU le plus bas total de points",
+    "playerMin": 2,
+    "playerMax": 8,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur des cartes",
+      "Préparation",
+      "Déroulement",
+      "Fin de partie"
+    ],
+    "excerpt": "",
+    "markdown": "# L'Élimination\n\n**Nombre de joueurs :** 2 à 8\n**Nombre de cartes :** 52\n**But :** Avoir le plus haut OU le plus bas total de points\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As | 15 ou 1 (au choix) |\n| Figures | 10 |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Préparation\n\nChaque joueur dépose sa mise. Le donneur distribue **5 cartes fermées** à chacun.\n\n---\n\n## Déroulement\n\n1. Le donneur retourne **une carte** du talon. Les joueurs qui ont une carte de **même valeur** doivent l'**écarter** ouverte devant eux.\n2. Le donneur retourne jusqu'à **5 cartes** (ou 7).\n3. Les joueurs **misent à chaque tour**.\n\n> Si le donneur retourne une carte déjà retournée, il en retourne une autre.\n\n---\n\n## Fin de partie\n\nAvant d'ouvrir les jeux, les joueurs décident s'ils parient pour le **haut**, le **bas** ou les **deux**. Ils cachent dans leur main :\n\n| Jetons cachés | Parie pour |\n|---------------|------------|\n| 1 | Le petit jeu |\n| 2 | Le gros jeu |\n| 3 | Les deux |\n\nIl y a généralement **deux gagnants** qui se partagent les enjeux (le plus haut et le plus bas total).\n\n> Un joueur qui détient un **3 et 1 As** (4 et 14) remporte **tous** les enjeux.\n"
+  },
+  {
     "id": "enfle",
     "title": "L'Enflé",
     "players": "4 à 10",
@@ -1211,6 +1425,49 @@ const GAMES = [
     "markdown": "# Le Florentin\n\n**Nombre de joueurs :** indéterminé (un banquier et des pontes)\n**Nombre de cartes :** 52\n**But :** Voir apparaître une carte de même valeur que la carte de départ\n\n---\n\n## Histoire\n\nJeu populaire autrefois à Florence et en Toscane, joué aussi en France au début du XVIIIe siècle.\n\n---\n\n## Déroulement\n\n1. Le banquier **retourne la première carte** de son paquet (ex: une Dame). C'est la carte de **départ**. Il dépose des jetons dessus et **double** la mise à chaque tour.\n2. Il retourne une **2e carte** (ex: un 10). Les pontes peuvent miser dessus.\n3. Il retourne une **3e carte** (ex: un Roi). Nouvelles mises possibles.\n4. Et ainsi de suite, le banquier ajoutant **1 jeton** à sa mise sur la carte de départ à chaque tour.\n\n---\n\n## Résolution\n\n| Événement | Conséquence |\n|-----------|-------------|\n| Une carte de **même valeur que la 1re** sort | Les pontes se **partagent** les mises déposées sur cette carte. La banque saute. |\n| Une carte de **même valeur qu'une carte miseée par les pontes** sort | Le **banquier ramasse** les mises correspondantes |\n| **13 cartes différentes** de la 1re, puis la 13e est semblable | Le banquier fait **opéra** et ramasse tout |\n\n### Le double\n\nSi les **deux premières cartes** sont de même valeur, le banquier fait **double**. Le jeu se déroule alors à égalité (deux cartes pour le banquier, deux pour les pontes).\n"
   },
   {
+    "id": "floune",
+    "title": "La Floune",
+    "players": "2",
+    "cards": "52 (les 2 jokers sont frimés et remplacent n'importe quelle carte)",
+    "goal": "Avoir le moins de points quand l'adversaire atteint 100",
+    "playerMin": 2,
+    "playerMax": 2,
+    "cardCount": 52,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Histoire",
+      "Valeur des cartes",
+      "Combinaisons",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "",
+    "markdown": "# La Floune\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 52 (les 2 jokers sont frimés et remplacent n'importe quelle carte)\n**But :** Avoir le moins de points quand l'adversaire atteint 100\n\n---\n\n## Histoire\n\nJeu de rami à deux, populaire au Québec. Peut se jouer avec des enfants de 9-10 ans.\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As | 15 |\n| Figures | 10 |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Combinaisons\n\n- **Trios** : 3 cartes de même valeur\n- **Séquences** : 3 cartes de même famille qui se suivent\n\n---\n\n## Préparation\n\nLe donneur distribue **10 cartes fermées** à chacun, pose le talon et retourne la carte du dessus à côté.\n\n---\n\n## Déroulement\n\n1. L'adversaire du donneur commence. Il prend la carte retournée ou pige au talon, puis défausse une carte (toujours 10 cartes en main).\n2. Quand un joueur a **complété sa main** (toutes ses cartes en trios/séquences), il étale son jeu et défausse une carte.\n3. L'autre joueur ouvre alors son jeu. Il place ses trios et séquences et peut **compléter** celles de son adversaire.\n\n---\n\n## Score\n\n- Le joueur qui étale son jeu en premier compte **0 point**.\n- L'autre additionne la **valeur des cartes qui lui restent**.\n- La partie est terminée quand un joueur atteint **100 points**. Celui qui a le **moins de points** gagne.\n"
+  },
+  {
+    "id": "fouine",
+    "title": "La Fouine",
+    "players": "4 (2 équipes de 2)",
+    "cards": "40 (52 sans les 2, 3 et 4)",
+    "goal": "Atteindre 300 points le premier",
+    "playerMin": 4,
+    "playerMax": 2,
+    "cardCount": 40,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Valeur des cartes",
+      "Préparation",
+      "Les annonces",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "> Total : 100 points en jeu.",
+    "markdown": "# La Fouine\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 40 (52 sans les 2, 3 et 4)\n**But :** Atteindre 300 points le premier\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As | 10 |\n| 10 | 10 |\n| 5 | 5 |\n\n> Total : **100 points** en jeu.\n\n---\n\n## Préparation\n\nLe donneur distribue **10 cartes fermées** à chacun.\n\n---\n\n## Les annonces\n\nLe voisin de gauche annonce le premier. Chaque annonce doit être plus forte :\n\n| Annonce | Description |\n|---------|-------------|\n| **50** | Un As |\n| **55** | Deux As |\n| **60** | 5 cartes de la même famille + une absence |\n\n> Le partenaire peut renchérir (55 ou 60) s'il a une carte clé.\n\n---\n\n## Déroulement\n\n1. Celui qui a fait la plus forte annonce désigne l'**atout** et entame.\n2. Fournir la couleur demandée si possible, sinon couper ou défausser.\n3. Celui qui fait la levée commande la suivante.\n\n---\n\n## Score\n\nOn ouvre les levées de l'équipe déclarante :\n\n| Résultat | Conséquence |\n|----------|-------------|\n| Contrat **réussi** | Marque le total des points remportés |\n| Contrat **échoué** | Points annoncés **soustraits** du total accumulé |\n\n> Les As valent 10 points, les 10 valent 10 points, les 5 valent 5 points. Les autres cartes ne valent rien.\n"
+  },
+  {
     "id": "frappe-le-valet",
     "title": "Frappe le Valet",
     "players": "indéterminé",
@@ -1313,6 +1570,23 @@ const GAMES = [
     ],
     "excerpt": "Ordre décroissant : Roi, Dame, Valet, As, 10, 9, 8, 7. Pour les points : As = 11, figures = 10, autres = valeur nominale. Les honneurs sont les Rois, Dames, Valets, As et 7.",
     "markdown": "# L'Impériale\n\n**Nombre de joueurs :** 2 (possible à 3 ou 4)\n**Nombre de cartes :** 32\n**But :** Réussir le plus d'impériales (combinaisons)\n\n---\n\n## Histoire\n\nL'un des plus anciens jeux de cartes, connu sous Charles-Quint. Il donna naissance au Piquet.\n\n## Valeur des cartes\n\nOrdre décroissant : Roi, Dame, Valet, As, 10, 9, 8, 7.\n\nPour les points : As = 11, figures = 10, autres = valeur nominale.\n\nLes **honneurs** sont les Rois, Dames, Valets, As et 7.\n\n---\n\n## Les impériales\n\n| Combinaison | Description |\n|-------------|-------------|\n| Impériale d'atout | R, D, V et 10 d'atout (compte **double**) |\n| Impériale d'honneur | 4 R, 4 D, 4 V, 4 As ou 4 7 |\n| Impériale blanche | Que des cartes blanches (généralement **double**) |\n| Impériale de retourne | Carte de complément en première retourne |\n| Impériale tombée | Cartes trouvées dans les levées |\n\n> Quand on exhibe une impériale, l'adversaire doit **démarquer** ses points, sauf s'il possède lui aussi une impériale.\n\n---\n\n## Déroulement\n\n### La donne\n\nOn distribue **12 cartes** à chacun (par 2, 3 ou 4). La **25e carte** retournée indique l'atout.\n\n### Le point\n\nChaque joueur additionne les points d'une même couleur. Le plus élevé marque **1 point**.\n\n### Les annonces\n\nOn déclare ses impériales **avant** de jeter la première carte.\n\n### Le jeu\n\nFournir la couleur demandée, forcer si possible, couper sans la couleur. Celui qui fait la levée rejoue.\n\n---\n\n## Compte des points\n\n| Élément | Points |\n|---------|--------|\n| Le point (couleur la plus forte) | 1 |\n| Chaque honneur possédé | 1 |\n| Chaque levée au-dessus de 6 | 1 |\n| Capot (adversaire sans levée) | 2 impériales + démarquage |\n| Dernière levée | 1 |\n\n> La partie se joue généralement en **5 ou 6 impériales**.\n"
+  },
+  {
+    "id": "in-between",
+    "title": "Le In-Between",
+    "players": "2 à 15",
+    "cards": "52",
+    "goal": "Que la carte retournée soit entre vos deux cartes",
+    "playerMin": 2,
+    "playerMax": 15,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Déroulement"
+    ],
+    "excerpt": "1. Chaque joueur (y compris le donneur) dépose une mise. L'ensemble forme les enjeux. 2. Le donneur distribue 2 cartes fermées à chacun. 3. Le voisin de gauche mise ou se retire.",
+    "markdown": "# Le In-Between\n\n**Nombre de joueurs :** 2 à 15\n**Nombre de cartes :** 52\n**But :** Que la carte retournée soit entre vos deux cartes\n\n---\n\n## Déroulement\n\n1. Chaque joueur (y compris le donneur) dépose une mise. L'ensemble forme les **enjeux**.\n2. Le donneur distribue **2 cartes fermées** à chacun.\n3. Le voisin de gauche mise ou se retire.\n4. Le donneur retourne la carte supérieure du **talon**.\n\n### Résolution\n\n| Situation | Conséquence |\n|-----------|-------------|\n| La carte retournée est **entre** les 2 cartes du joueur | Le joueur **prend** le nombre de jetons misés |\n| Sinon | Le joueur **dépose** sa mise au centre |\n\n> L'As est la plus basse. Le meilleur jeu : **As + Roi** (mais pas de victoire assurée !).\n\n### Cartes égales\n\nUn joueur qui reçoit **2 cartes de même valeur** peut jouer **gratuitement**. S'il reçoit une 3e carte de même valeur, il remporte **tous les enjeux**.\n"
   },
   {
     "id": "jeu-de-loo",
@@ -1671,6 +1945,47 @@ const GAMES = [
     "markdown": "# Le Menteur\n\n**Nombre de joueurs :** 4/5/6\n**Nombre de cartes :** 32\n**But :** Être le premier à se débarrasser de toutes ses cartes\n\n---\n\n## Préparation\n\n- Le donneur distribue les cartes **une par une** de manière à ce que les joueurs en aient le même nombre.\n\n## Déroulement\n\n### Principe\n\n1. Le joueur dont c'est le tour prend une carte de sa main et la dépose sur la table, **face cachée**, en annonçant une famille : carreau, trèfle, cœur ou pique.\n2. Il a le droit de **mentir**.\n3. À leur tour, les autres joueurs doivent annoncer la même famille et poser **une ou plusieurs cartes**.\n\n### Annonces\n\n- Un joueur peut poser un **petit paquet de cartes de la même valeur** (ex : « 2 rois »).\n- Il peut poser **plus de cartes** que ce qu'il annonce, mais attention de ne pas se faire prendre.\n\n### Accusation de menteur\n\n- À n'importe quel moment, un joueur peut **accuser de menteur** le joueur actif.\n  - Si l'accusation est **juste** : le menteur ramasse toutes les cartes posées sur la table.\n  - Si l'accusation est **fausse** : l'accusateur doit prendre le tas de cartes. C'est à lui de jouer.\n\n## Fin de manche\n\nLe gagnant est celui qui n'a plus aucune carte en main.\n\n## Stratégie\n\n- Bluffer sur la vitesse du jeu.\n- Observer les réactions des adversaires pour détecter les menteurs.\n"
   },
   {
+    "id": "mille",
+    "title": "Le Mille",
+    "players": "2 à 6 (individuel ou en équipes à 4/6)",
+    "cards": "104 (2 jeux de 52 + jokers optionnels). Les 2 sont frimés.",
+    "goal": "Atteindre 1 000 points le premier",
+    "playerMin": 2,
+    "playerMax": 6,
+    "cardCount": 104,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur des cartes",
+      "Préparation",
+      "Déroulement",
+      "Score de donne"
+    ],
+    "excerpt": "",
+    "markdown": "# Le Mille\n\n**Nombre de joueurs :** 2 à 6 (individuel ou en équipes à 4/6)\n**Nombre de cartes :** 104 (2 jeux de 52 + jokers optionnels). Les 2 sont frimés.\n**But :** Atteindre 1 000 points le premier\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| Dame de pique | 100 |\n| Les 2 (frimés) | 20 |\n| Les As | 15 |\n| Rois, Dames, Valets, 10 | 10 |\n| Toutes les autres cartes | 5 |\n| Jokers (optionnels) | 50 |\n\n---\n\n## Préparation\n\nLe donneur prend une pile de cartes correspondant à environ **13 cartes par joueur** et les distribue une à une. S'il estime juste (exactement 13 par joueur), il marque **100 points**.\n\nLe talon est placé au centre, carte supérieure retournée à côté.\n\n---\n\n## Déroulement\n\n1. Le voisin de gauche pige au talon ou prend la carte retournée.\n2. S'il prend la retournée, il doit **étaler au moins 3 cartes de même valeur** (incluant celle-ci).\n3. Les **2** (frimés) peuvent compléter un trio à tout moment.\n4. On défausse ensuite une carte (généralement une petite).\n5. En équipes, les trios sont étalés devant un seul membre.\n\n> **Stratégie** : étaler rapidement un **trio de dames** pour que le partenaire puisse se défaire de la dame de pique.\n\n---\n\n## Score de donne\n\nLa donne est terminée quand un joueur n'a plus de cartes après avoir défaussé. On additionne :\n- La **valeur des cartes étalées**\n- **Moins** la valeur des cartes restées en main\n\nLe premier joueur ou équipe à **1 000 points** gagne.\n"
+  },
+  {
+    "id": "mitaine",
+    "title": "La Mitaine",
+    "players": "4 (2 équipes de 2)",
+    "cards": "52",
+    "goal": "Atteindre 500 points en tricotant des mitaines, gants ou chaussons",
+    "playerMin": 4,
+    "playerMax": 2,
+    "cardCount": 52,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Ordre des cartes",
+      "Combinaisons",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Les Valets sont les plus forts. L'As est la plus haute et le 2 la plus basse. Le 10 de carreau vaut 10 points.",
+    "markdown": "# La Mitaine\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 52\n**But :** Atteindre 500 points en tricotant des mitaines, gants ou chaussons\n\n---\n\n## Ordre des cartes\n\nLes **Valets** sont les plus forts. L'As est la plus haute et le 2 la plus basse. Le **10 de carreau** vaut 10 points.\n\n---\n\n## Combinaisons\n\n| Combinaison | Description | Points |\n|-------------|-------------|--------|\n| **Mitaine** | 2 cartes de même valeur | 10 |\n| **Gant** | 3 cartes de même valeur | 50 |\n| **Chausson** | 4 cartes de même valeur | 100 |\n\n---\n\n## Préparation\n\nLe donneur distribue **7 cartes fermées** à chaque joueur. Le reste est mis de côté.\n\n---\n\n## Déroulement\n\n1. En commençant par le voisin de gauche du donneur, chaque joueur écarte une carte.\n2. Il peut écarter simplement ou **annoncer** une mitaine, un gant ou un chausson.\n3. Les joueurs suivants doivent avoir une combinaison **plus forte** pour surenchérir.\n4. Quand le tour revient au joueur avec la plus forte combinaison, il récupère la sienne **plus toutes celles qu'il a battues**.\n\n### Règles spéciales\n\n- Une combinaison faite avec la carte du **dessous** de la pile compte **double**.\n- On peut compléter la combinaison de son partenaire.\n- Pour enlever les cartes du centre, jouer un **Valet** ou une carte de même valeur que celle du dessus de la pile.\n\n---\n\n## Score\n\n| Élément | Points |\n|---------|--------|\n| Cartes ouvertes | 50 |\n| Cartes fermées | 10 |\n| Mitaine | 10 |\n| Gant | 50 |\n| Chausson | 100 |\n"
+  },
+  {
     "id": "motz",
     "title": "Le Motz",
     "players": "3 à 6",
@@ -1739,6 +2054,66 @@ const GAMES = [
     "markdown": "# Le Nain Jaune\n\n**Nombre de joueurs :** 3 à 8\n**Nombre de cartes :** 52 + jetons (30 par joueur) + plateau\n**But :** Se débarrasser de ses cartes en formant des séries et en récupérant des jetons\n\n---\n\n## Histoire\n\nAnciennement connu comme le **Lindor** (déformation de « nain d'or » ?). Le **Nain Jaune** désigne le **7 de Carreau**.\n\n## Ordre des cartes\n\nAs, 2, 3, 4, 5, 6, 7, 8, 9, 10, Valet, Dame, Roi.\n\n---\n\n## Les « Belles Cartes »\n\n5 cartes ont des mises associées :\n\n| Carte | Mise |\n|-------|------|\n| 10 de Carreau | 1 jeton |\n| Valet de Trèfle | 2 jetons |\n| Dame de Pique | 3 jetons |\n| Roi de Cœur | 4 jetons |\n| **7 de Carreau** (Nain Jaune) | **5 jetons** |\n\nAu début, chaque joueur pose ses jetons sur le plateau (ou sur les cartes correspondantes).\n\n---\n\n## Distribution\n\n| Joueurs | Cartes par joueur |\n|---------|-------------------|\n| 3 | 15 |\n| 4 | 12 |\n| 5 | 9 |\n| 6 | 8 |\n| 7 | 7 |\n| 8 | 6 |\n\nLe reste forme un talon mis de côté.\n\n---\n\n## Déroulement\n\n1. Le joueur à droite du donneur commence.\n2. On pose des cartes en **séries ascendantes** (As → Roi), sans tenir compte de la couleur.\n3. À chaque carte, on annonce sa valeur : « six… sept… huit… ».\n4. Quand on ne peut plus continuer : on annonce **« sans [valeur suivante] ! »**.\n5. Le joueur suivant continue la série, ou en commence une nouvelle.\n\n### Récupérer les Belles Cartes\n\nQuand un joueur pose une des 5 cartes spéciales, il **ramasse les jetons** déposés dessus.\n\n### Fin de manche\n\nQuand un joueur se débarrasse de sa dernière carte : **« J'arrête ! »**\n\n---\n\n## Compte des jetons\n\n1. Chaque joueur verse au gagnant **1 jeton par carte restante**.\n2. Si un joueur garde une **Belle Carte** en main → il doit **doubler la mise** correspondante.\n\n---\n\n## Le Grand Opéra\n\nSi un joueur dépose **toutes ses cartes en une seule fois** au premier tour → il ramasse **tout le plateau**.\n"
   },
   {
+    "id": "neuf-a-deux",
+    "title": "Le Neuf à Deux",
+    "players": "2",
+    "cards": "52",
+    "goal": "Atteindre 0 point le premier (on commence à 9)",
+    "playerMin": 2,
+    "playerMax": 2,
+    "cardCount": 52,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Histoire",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "L'atout change à chaque donne dans l'ordre : pique, cœur, carreau, trèfle, sans atout, puis on recommence. Les cartes sont coupées et posées fermées au centre. Celui qui a coupé commence.",
+    "markdown": "# Le Neuf à Deux\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 52\n**But :** Atteindre 0 point le premier (on commence à 9)\n\n---\n\n## Histoire\n\nBon jeu pour enfants : facile, sensibilise aux jeux avec atout.\n\n---\n\n## Préparation\n\nL'atout change à chaque donne dans l'ordre : **pique, cœur, carreau, trèfle, sans atout**, puis on recommence.\n\nLes cartes sont coupées et posées fermées au centre. Celui qui a coupé commence.\n\n---\n\n## Déroulement\n\n### Le tirage des cartes\n\nLes joueurs tirent les cartes du paquet **alternativement** :\n\n1. Piger la carte du dessus. La garder si elle convient (atout ou grosse carte), sinon la défausser fermée.\n2. Si la 1re est gardée, la 2e est **défaussée obligatoirement** (même si meilleure).\n3. Si la 1re est défaussée, la 2e est **gardée obligatoirement**.\n\nOn alterne jusqu'à épuisement du paquet (13 cartes chacun).\n\n### Le jeu de la carte\n\nCelui qui a coupé entame. L'autre doit **suivre la couleur**, couper ou défausser.\n\n---\n\n## Score\n\nAu début, chaque joueur a **9 points**.\n\n| Levées | Variation |\n|--------|-----------|\n| Exactement 6 | 0 (la marque ne change pas) |\n| Plus de 6 | **-1** par levée au-dessus de 6 |\n| Moins de 6 | **+1** par levée en dessous de 6 |\n\n> Comme il y a 13 levées et qu'il en faut 6 pour maintenir la marque, le total des deux joueurs **baisse de 1** à chaque donne. Le premier à **0** gagne.\n"
+  },
+  {
+    "id": "neuf-a-quatre",
+    "title": "Le Neuf à Quatre",
+    "players": "4 (2 équipes de 2)",
+    "cards": "52",
+    "goal": "Atteindre 0 point le premier (chaque équipe commence à 18)",
+    "playerMin": 4,
+    "playerMax": 2,
+    "cardCount": 52,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Préparation",
+      "Signaux entre partenaires",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "L'atout change à chaque donne : pique, cœur, carreau, trèfle, sans atout, puis on recommence. Le donneur distribue toutes les cartes (13 par joueur).",
+    "markdown": "# Le Neuf à Quatre\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 52\n**But :** Atteindre 0 point le premier (chaque équipe commence à 18)\n\n---\n\n## Préparation\n\nL'atout change à chaque donne : **pique, cœur, carreau, trèfle, sans atout**, puis on recommence.\n\nLe donneur distribue **toutes les cartes** (13 par joueur).\n\n---\n\n## Signaux entre partenaires\n\nOn peut convenir de signaux :\n- Carte **paire** : « Partenaire, ne reviens pas dans cette famille »\n- Carte **impaire** : le contraire\n\n---\n\n## Déroulement\n\nLe voisin de gauche entame. Fournir la couleur demandée si possible, sinon couper ou défausser. Les levées sont placées devant un joueur de chaque équipe.\n\n---\n\n## Score\n\n| Levées | Variation |\n|--------|-----------|\n| Exactement 6 | 0 |\n| Plus de 6 | **-1** par levée au-dessus de 6 |\n| Moins de 6 | **+1** par levée en dessous de 6 |\n\n> Total de départ : 36 (2 × 18). Le total baisse de **1** à chaque donne.\n"
+  },
+  {
+    "id": "neuf-a-trois",
+    "title": "Le Neuf à Trois",
+    "players": "3",
+    "cards": "52",
+    "goal": "Atteindre 0 point le premier (on commence à 9)",
+    "playerMin": 3,
+    "playerMax": 3,
+    "cardCount": 52,
+    "category": "petit-groupe",
+    "color": "#34d399",
+    "sections": [
+      "Préparation",
+      "Choix de la main",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "L'atout change à chaque donne : pique, cœur, carreau, trèfle, sans atout, puis on recommence. Le donneur distribue 4 mains de 13 cartes. La 4e main est une main supplémentaire (« la poule »).",
+    "markdown": "# Le Neuf à Trois\n\n**Nombre de joueurs :** 3\n**Nombre de cartes :** 52\n**But :** Atteindre 0 point le premier (on commence à 9)\n\n---\n\n## Préparation\n\nL'atout change à chaque donne : **pique, cœur, carreau, trèfle, sans atout**, puis on recommence.\n\nLe donneur distribue **4 mains de 13 cartes**. La 4e main est une main supplémentaire (« la poule »).\n\n---\n\n## Choix de la main\n\nLe donneur décide le premier s'il garde sa main ou l'échange contre la main supplémentaire. Les autres font de même à tour de rôle. Il reste toujours **13 cartes hors jeu**.\n\n---\n\n## Déroulement\n\nLe voisin de gauche entame. Fournir la couleur demandée si possible, sinon couper ou défausser.\n\n> Quand un joueur est en avance, les deux autres peuvent **s'entraider** pour l'empêcher de faire des levées (ex: ne pas couper les levées de l'autre joueur au pointage haut).\n\n---\n\n## Score\n\n| Levées | Variation |\n|--------|-----------|\n| Exactement 4 (« le livre ») | 0 |\n| Plus de 4 | **-1** par levée au-dessus de 4 |\n| Moins de 4 | **+1** par levée en dessous de 4 |\n\n> Total de départ : 27 (3 × 9). Le total baisse de **1** à chaque donne.\n"
+  },
+  {
     "id": "nigaud",
     "title": "Le Nigaud",
     "players": "3 à 10",
@@ -1802,6 +2177,27 @@ const GAMES = [
     "markdown": "# Le Papillon\n\n**Nombre de joueurs :** 3 à 4\n**Nombre de cartes :** 52\n**But :** Ramasser le plus de cartes pour gagner la corbeille\n\n---\n\n## Valeur des cartes\n\nR, D, V = 10 points ; 10, 9, 8 = valeur nominale ; As = 1 point.\n\n---\n\n## Préparation\n\nChacun dépose 1 ou 2 jetons dans la corbeille. Le donneur (désigné par la carte la plus basse) distribue **3 cartes** à chacun, puis étale :\n- **7 cartes découvertes** sur le tapis (à 3 joueurs)\n- **4 cartes découvertes** (à 4 joueurs)\n\n---\n\n## Déroulement\n\n1. Le premier à jouer regarde s'il peut **prendre une carte découverte** de même valeur avec l'une de ses 3 cartes.\n2. On ne peut prendre qu'**une seule carte** de même valeur, même s'il y en a plusieurs sur le tapis.\n3. **Combinaisons possibles** : enlever plusieurs cartes dont la somme égale la valeur d'une carte en main (ex: un 5, un 4 et un As avec un 10).\n\n### Si on ne peut prendre aucune carte\n\nLe joueur doit **étaler ses cartes** sur le tapis et déposer **1 jeton par carte** restante dans la corbeille.\n\n> Toutefois, si un As figure parmi ces cartes, chaque adversaire lui paie **1 jeton par As**.\n\n---\n\n## Tours suivants\n\nQuand chaque joueur a utilisé ses cartes, le donneur en distribue de nouvelles (3 à chacun + nouvelles cartes retournées sur le tapis).\n\n> **Petit papillon** : un joueur qui fait ses 3 cartes avant la fin de la partie.\n\n---\n\n## Fin du jeu\n\nLe joueur qui a ramassé le **plus de cartes** gagne et prend le contenu de la corbeille.\n"
   },
   {
+    "id": "paquet-voleur",
+    "title": "Le Paquet Voleur",
+    "players": "2 à 6",
+    "cards": "52",
+    "goal": "Amasser plus de cartes que les autres joueurs",
+    "playerMin": 2,
+    "playerMax": 6,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Histoire",
+      "Préparation",
+      "Déroulement",
+      "Tours suivants",
+      "Fin du jeu"
+    ],
+    "excerpt": "Le donneur distribue 4 cartes fermées à chaque joueur et ouvre 4 cartes sur la table.",
+    "markdown": "# Le Paquet Voleur\n\n**Nombre de joueurs :** 2 à 6\n**Nombre de cartes :** 52\n**But :** Amasser plus de cartes que les autres joueurs\n\n---\n\n## Histoire\n\nJeu idéal pour apprendre les chiffres aux jeunes enfants (dès 4 ans). Les **valets** sont les voleurs.\n\n---\n\n## Préparation\n\nLe donneur distribue **4 cartes fermées** à chaque joueur et ouvre **4 cartes** sur la table.\n\n---\n\n## Déroulement\n\nÀ tour de rôle, en commençant par le voisin de gauche du donneur, chaque joueur peut :\n\n### Prendre une carte\n\nPrendre une carte de la table avec une carte de **même valeur** de sa main. Les cartes prises sont placées en pile, **faces ouvertes**, devant le joueur.\n\n> Cette pile peut être **volée** par un autre joueur !\n\n### Voler la pile d'un autre joueur\n\n- Avec un **valet** : voler la **plus grosse pile**.\n- Avec une carte de **même valeur** que celle sur le dessus de la pile visée.\n\n### Écarter\n\nSi on ne peut rien faire de mieux, écarter une carte sur la table.\n\n---\n\n## Tours suivants\n\nQuand les joueurs n'ont plus de cartes, le donneur en distribue **4 nouvelles** à chacun, jusqu'à épuisement du paquet.\n\n---\n\n## Fin du jeu\n\nIl n'y a pas de points. Le joueur qui a le **plus de cartes** à la fin est le vainqueur.\n"
+  },
+  {
     "id": "patiences",
     "title": "Patiences et Réussites",
     "players": "1",
@@ -1843,6 +2239,27 @@ const GAMES = [
     ],
     "excerpt": "Cartes : 32 Tirez les cartes une par une en prononçant la litanie : « 7, 8, 9, 10, Valet, Dame, Roi, As, 7, 8… » Si l'annonce correspond à la carte tirée → perdu.",
     "markdown": "# Patiences et Réussites\n\n**Nombre de joueurs :** 1\n**But :** Varie selon la patience (voir chaque jeu)\n\n---\n\nOn distingue la **patience** (jeu de réflexion et d'anticipation) de la **réussite** (où le hasard est le seul maître, servant parfois à interroger le destin).\n\n---\n\n## 1. L'Aboyeur\n\n**Cartes :** 32\n\nTirez les cartes une par une en prononçant la litanie : **« 7, 8, 9, 10, Valet, Dame, Roi, As, 7, 8… »**\n\nSi l'annonce **correspond** à la carte tirée → **perdu**.\n\n---\n\n## 2. Le Cercle\n\n**Cartes :** 52\n\nDisposez 8 cartes en cercle (les bases). Série ascendante (As → Roi) sans tenir compte de la couleur.\n\nTirez du talon et placez sur une base si la carte est de **rang immédiatement supérieur**. Sinon → rebut.\n\n2 passages maximum.\n\n---\n\n## 3. La Diagonale\n\n**Cartes :** 52\n\nTableau de **28 cartes** en 7 colonnes (comme le Solitaire classique). Séries descendantes alternées rouge/noir sur les colonnes. Piles ascendantes par couleur sur les As.\n\nTalon tiré **3 par 3**.\n\n---\n\n## 4. Les Dix\n\n**Cartes :** 52\n\nDisposez 13 cartes en tableau.\n\n- **Cartes 1 à 9** : faire des paires totalisant 10.\n- **Cartes 10+** : sortir par 4 (toutes les cartes d'une même couleur).\n\nComblez les trous avec le talon jusqu'à tout faire sortir.\n\n---\n\n## 5. L'Étoile\n\n**Cartes :** 32\n\nOn pose les cartes sur une étoile à 5 branches, par couleur.\n\nLes **Dames** ouvrent le jeu. Puis on suit un ordre précis de priorités (7 après Dame, 9 après Dame, etc.).\n\n2 passages maximum.\n\n---\n\n## 6. Freecell\n\n**Cartes :** 52\n\n8 colonnes de cartes face visible + 4 emplacements de réserve + 4 piles ascendantes.\n\n- Séries descendantes alternées rouge/noir sur les colonnes.\n- Piles ascendantes par couleur (As → Roi).\n- On peut sortir provisoirement jusqu'à **4 cartes** dans la réserve.\n\n---\n\n## 7. Libérez la princesse\n\n**Cartes :** 52 (sans la Dame de Cœur)\n\nLa Dame de Cœur est cachée sous la 4e carte d'une ligne de 10.\n\n- **Carte rouge** → la Dame se déplace d'un cran vers la **gauche**.\n- **Carte noire** → d'un cran vers la **droite**.\n\nIl faut la faire sortir par une extrémité.\n\n---\n\n## 8. Le Mélange\n\n**Cartes :** 52\n\n8 cartes en tableau. Si 2 cartes se suivent (dans l'ordre habituel), on les recouvre par des cartes du talon.\n\nLe but : poser toutes les cartes sur le tableau.\n\n---\n\n## 9. Monaco\n\n**Cartes :** 52\n\n20 cartes en 4 rangées de 5.\n\nRetirer les cartes **2 par 2** : même valeur, adjacentes (côte à côte, au-dessus/en dessous, ou en diagonale).\n\nComblez les trous avec le talon. Resserrez vers la gauche.\n\n---\n\n## 10. Napoléon à Sainte-Hélène\n\n**Cartes :** 104 (2 jeux de 52)\n\n40 cartes en 10 colonnes de 4.\n\n- Séries descendantes de **même couleur** sur les colonnes.\n- Piles ascendantes (As → Roi) au-dessus.\n- Cartes accessibles : uniquement celles au sommet des colonnes.\n\n---\n\n## 11. La Partie de chasse\n\n**Cartes :** 52 (sans les Dames)\n\n4 colonnes de 5 et 4 colonnes de 6 disposées en 2 rangées.\n\n- Sur les **5** : séries descendantes par couleur (5 → As).\n- Sur les **6** : séries ascendantes par couleur (6 → Roi).\n- Les Dames sont mises de côté.\n\n---\n\n## 12. Les Piles sauteuses\n\n**Cartes :** 32 ou 52\n\nPosez les cartes une par une. Si une carte se trouve entre **2 cartes de même couleur ou de même hauteur**, elle **saute** d'un cran vers la gauche.\n\nBut : tout empiler en **2 ou 3 paquets maximum**.\n\n---\n\n## 13. Les Quat'Z'As\n\n**Cartes :** 32\n\nFormez 4 paquets de 8 cartes. Retournez et tiriez les cartes jusqu'à trouver un As.\n\nReformez en 3 paquets, puis 2 paquets. À la fin, les **4 As doivent se retrouver ensemble** sur le dessus.\n\n---\n\n## 14. Les Quatre Couleurs\n\n**Cartes :** 52\n\nPosez 4 cartes face visible. Si 2 cartes ou plus sont de **même couleur**, recouvrez-les par des cartes du talon.\n\n**Perdu** si les 4 cartes affichent chacune une couleur différente.\n\n---\n\n## 15. La Salle d'audience\n\n**Cartes :** 52\n\n16 cartes en carré (l'antichambre) entourant un espace central (la salle d'audience).\n\n- Les couples **As + Valet** et **Roi + Dame** de même couleur entrent dans la salle.\n- Sur les Valets : séries descendantes par couleur (10 → 2).\n\n---\n\n## 16. Les Voyageuses\n\n**Cartes :** 32\n\n28 cartes en 4 lignes de 7, face cachée. Chaque ligne = une famille, chaque position = une valeur.\n\nTirez une carte du talon → placez-la à sa position exacte dans le tableau. La carte déplacée prend sa place. Continuez jusqu'à tout retourner.\n\n> Variante : 52 cartes, 4 rangées de 12, les 2 jouent le rôle des 7.\n\n---\n\n## 17. Le Bisley\n\n**Cartes :** 52\n\nLes 4 As et les 4 Rois servent de cartes de base.\n\n- Disposer les 4 As en rangée, puis 3 rangées de 13 cartes face visible (total 52 cartes).\n- Séries **croissantes** sur les As, **décroissantes** sur les Rois (quand ils sont libérés).\n- Une carte peut être placée sur une autre de même couleur, valeur ±1.\n- Seules les cartes de la rangée du bas sont disponibles au début.\n- **But :** Fusionner les séquences ascendantes et descendantes.\n\n## 18. Le Bristol\n\n**Cartes :** 52\n\n- 8 éventails de 3 cartes face visible + 3 piles de réserve face visible.\n- Bâtir des séquences **croissantes** sur les As (cartes de base), sans tenir compte de la couleur.\n- Les cartes des piles de réserve et les cartes exposées des éventails sont disponibles.\n- Quand bloqué : distribuer 1 carte par pile de réserve.\n\n## 19. L'Horloge\n\n**Cartes :** 52\n\n- Distribuer en 13 piles de 4 cartes face cachée, disposées comme un cadran (12 heures + centre).\n- Retourner la carte du centre → la placer à l'heure correspondante (As = 1h, 2 = 2h, …, Dame = 12h, Roi = centre).\n- Retourner la carte de la pile où on vient de placer → continuer.\n- **Perdu** si le 4e Roi est retourné avant que toutes les autres cartes soient sorties.\n\n## 20. Le Compte\n\n**Cartes :** 52\n\n- Cartes de base : As, 2, 3 et 4.\n- Bâtir avec des **intervalles** : 1 (chaque carte), 2 (une sur deux), 3 (une sur trois), 4 (une sur quatre).\n- Le talon est retourné une par une. Si une carte ne convient → pile de défausse (4 piles max).\n- **Clé :** Contrôler les piles de défausse en plaçant les cartes dans l'ordre inverse des séquences.\n\n## 21. Le Jardin fleuri\n\n**Cartes :** 52\n\n- 6 « jardins » (éventails de 6 cartes) + 16 cartes en « bouquet ».\n- Sortir les 4 As comme cartes de base, bâtir des séquences consécutives par couleur.\n- Bâtir aussi en ordre numérique (ascendant ou descendant) sur les cartes exposées des jardins, indépendamment de la couleur.\n- Les cartes du bouquet ne devraient **pas** être utilisées pour bâtir dans les jardins.\n\n## 22. Le Plaisir de l'idiot\n\n**Cartes :** 52 (As = plus forte, 2 = plus faible)\n\n- 4 cartes face visible. Si 2 cartes ou plus sont de même couleur → défausser la plus faible.\n- Compléter avec le talon. Distribuer 4 nouvelles cartes par-dessus quand bloqué.\n- Une pile vide peut être comblée par le dessus d'une autre pile.\n- Les **As ne peuvent pas être défaussés**.\n- **But :** Ne garder que les 4 As.\n\n## 23. Le Roi Albert\n\n**Cartes :** 52\n\n- 9 colonnes face visible (1, 2, 3, 4, 5, 6, 7, 8, 9 cartes) + 7 cartes en réserve.\n- Sortir les As (cartes de base), bâtir des séquences consécutives **par couleur**.\n- Séries descendantes de **couleur alternée** sur les colonnes (un 7 noir sur un 8 rouge).\n- Une colonne vide peut être occupée par **n'importe quelle carte ou séquence**.\n\n## 24. La Ruée vers l'or (Canfield)\n\n**Cartes :** 52\n\n- 7 colonnes (1 carte visible + cartes cachées, comme le Solitaire classique) + talon.\n- Sortir les As, bâtir des séquences consécutives **par couleur**.\n- Séries descendantes de **couleur alternée** sur les colonnes.\n- **Une colonne vide ne peut être occupée que par un Roi.**\n- Talon retourné **1 par 1**. Carte de défausse disponible.\n\n## 25. Les Chevaliers\n\n**Cartes :** 52\n\n- Les 4 Valets en rangée : ♥ ♣ ♦ ♠.\n- Distribuer 4 cartes à la fois : cartes **paires** sous les Valets rouges, cartes **impaires** sous les Valets noirs (Rois = pairs, Dames = impairs).\n- 3 tours de distribution.\n- Un Valet avec **plus de 12 cartes** marque 1 point par carte supplémentaire.\n- Le Valet avec le plus de points après 3 tours gagne.\n\n## 26. L'Audience royale\n\n**Cartes :** 52 (As = plus fort)\n\n- 16 cartes en carré (l'antichambre) entourant la salle d'audience.\n- Placer les couples **Valet + As** et **Roi + Dame** de même couleur dans la salle.\n- Bâtir des séquences **descendantes** sur les Valets (10 → 2), par couleur.\n- Les espaces vides de l'antichambre sont comblés par le talon ou la défausse.\n\n## 27. La Citadelle\n\n**Cartes :** 52\n\n- Les 4 As au centre en colonne. 6 cartes de chaque côté des As (gauche et droite).\n- Bâtir des séquences **croissantes** sur les As, par couleur.\n- Bâtir aussi des séries sur les cartes exposées (valeur immédiatement inférieure, sans tenir compte de la couleur).\n- Une colonne vide peut recevoir une carte ou une séquence d'une autre colonne.\n"
+  },
+  {
+    "id": "petite-memoire",
+    "title": "La Petite Mémoire",
+    "players": "2 à 5",
+    "cards": "52",
+    "goal": "Obtenir le plus bas total de points en 4 cartes",
+    "playerMin": 2,
+    "playerMax": 5,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Histoire",
+      "Valeur des cartes",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "",
+    "markdown": "# La Petite Mémoire\n\n**Nombre de joueurs :** 2 à 5\n**Nombre de cartes :** 52\n**But :** Obtenir le plus bas total de points en 4 cartes\n\n---\n\n## Histoire\n\nJeu de mémoire agréable à jouer avec des enfants de 8 ans et plus.\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| Rois et Valets | 0 |\n| Dame de pique | 25 |\n| As | 1 |\n| Autres Dames | 10 |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Préparation\n\nLe donneur distribue **4 cartes fermées** posées en carré (2×2) devant chaque joueur. Le talon est au centre, carte supérieure retournée à côté.\n\nTous les joueurs regardent leurs **deux cartes du bas** et les referment.\n\n---\n\n## Déroulement\n\nÀ tour de rôle (voisin de gauche en premier), chaque joueur :\n\n1. Prend la carte retournée ou pige au talon.\n2. Échange la carte prise contre une carte de **plus forte valeur**.\n\n> Un joueur peut aussi changer les cartes de la rangée du haut (non vues). Il doit alors **défausser** la carte cachée (même si c'est un Roi ou un Valet !).\n\n### Frapper\n\nDès qu'un joueur pense avoir un bon jeu, il **frappe sur la table** et ne prend aucune carte. Les autres ont **un seul tour** pour améliorer leur jeu. Ensuite on ouvre les jeux.\n\n---\n\n## Score\n\nLa partie se termine quand un joueur atteint **50 points**. Celui qui a le **moins de points** est le gagnant.\n"
   },
   {
     "id": "petits-paquets",
@@ -1922,6 +2339,27 @@ const GAMES = [
     ],
     "excerpt": "As (plus fort), 10, Roi, Dame, Valet, 9 (plus faible).",
     "markdown": "# Le Pinochle\n\n**Nombre de joueurs :** 2 (ou 4 avec enchères)\n**Nombre de cartes :** 48 (As, Roi, Dame, Valet, 10 et 9 de deux paquets mélangés)\n**But :** Remporter des levées avec des cartes de valeur et compléter des combinaisons\n\n---\n\n## Histoire\n\nVariante du Bésigue, très populaire en Amérique du Nord.\n\n## Ordre des cartes\n\nAs (plus fort), 10, Roi, Dame, Valet, 9 (plus faible).\n\n---\n\n## La donne\n\n1. **12 cartes** par joueur en trois paquets de 4.\n2. La carte suivante est retournée : la **retourne** (détermine l'atout).\n3. Le talon est placé sur la retourne (à demi visible).\n\n---\n\n## Étape 1 : Avec talon\n\n1. Le non-donneur entame. Le second joueur peut jouer **n'importe quelle carte** (pas d'obligation de fournir).\n2. Le gagnant du pli pioche au talon.\n3. Le gagnant peut annoncer **une combinaison** par tour :\n\n### Combinaisons et points\n\n| Combinaison | Description | Points |\n|-------------|-------------|--------|\n| Suite | As, 10, Roi, Dame, Valet d'atout | 150 |\n| Mariage royal | Roi + Dame d'atout | 40 |\n| Mariage | Roi + Dame d'une autre couleur | 20 |\n| Pinochle | Dame de pique + Valet de carreau | 40 |\n| Carré d'As | Un As de chaque couleur | 100 |\n| Carré de Rois | Un Roi de chaque couleur | 80 |\n| Carré de Dames | Une Dame de chaque couleur | 60 |\n| Carré de Valets | Un Valet de chaque couleur | 40 |\n\n> Une carte déjà utilisée dans une combinaison ne peut l'être que pour une combinaison de **classe différente**.\n\n### Le Dix (9 d'atout)\n- Le premier Dix peut être échangé contre la retourne (+10 points).\n- Le deuxième Dix se pose face visible (+10 points).\n\n---\n\n## Étape 2 : Sans talon (Playoff)\n\n1. Le gagnant du dernier pli de l'étape 1 entame.\n2. **Obligation** de fournir la couleur demandée.\n3. Si impossible → jouer un atout ou une autre carte.\n4. 12 plis sont joués. **Aucune combinaison** pendant cette phase.\n\n---\n\n## Décompte des points\n\n- Points des combinaisons (étape 1).\n- Points des cartes dans les plis (étape 2) :\n\n| Carte | Points |\n|-------|--------|\n| As | 11 |\n| 10 | 10 |\n| Roi | 4 |\n| Dame | 3 |\n| Valet | 2 |\n| 9, 8, 7 | 0 |\n\n- Dernier pli : **+10 points**.\n\nLe premier à **1000 points** gagne (ou 1250, 1500 en cas d'égalités successives).\n\n---\n\n## Variante : Pinochle à l'enchère (4 joueurs)\n\n- **15 cartes** par joueur + une **Veuve** de 3 cartes au centre.\n- Phase d'enchères : le preneur prend la Veuve, choisit l'atout et étale ses combinaisons.\n- Le preneur joue seul contre les 3 autres.\n- Seul le preneur peut former des combinaisons.\n- Jeu de la carte en une seule étape (obligation de fournir).\n- Le preneur est payé par les autres joueurs et la cagnotte selon son contrat.\n"
+  },
+  {
+    "id": "pique",
+    "title": "Le Pique (Spades)",
+    "players": "4 (2 équipes de 2)",
+    "cards": "52",
+    "goal": "Atteindre 300 points le premier",
+    "playerMin": 4,
+    "playerMax": 2,
+    "cardCount": 52,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Règle spéciale",
+      "Préparation",
+      "Les annonces",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "L'atout est toujours pique.",
+    "markdown": "# Le Pique (Spades)\n\n**Nombre de joueurs :** 4 (2 équipes de 2)\n**Nombre de cartes :** 52\n**But :** Atteindre 300 points le premier\n\n---\n\n## Règle spéciale\n\nL'atout est **toujours pique**.\n\n---\n\n## Préparation\n\nLe donneur distribue **13 cartes fermées** à chacun.\n\n---\n\n## Les annonces\n\nLe voisin de gauche parle le premier. Il annonce le nombre de levées qu'il pense faire (maximum 13) ou passe. Chaque joueur parle une seule fois.\n\n> On doit toujours annoncer **plus** de levées que le joueur précédent.\n\n---\n\n## Déroulement\n\nCelui qui a fait la plus forte annonce entame. Fournir la famille demandée si possible, sinon couper (avec pique) ou défausser.\n\n### Signaux entre partenaires\n\n| Signal | Signification |\n|--------|---------------|\n| Carte impaire | Bonne carte dans cette famille |\n| Carte paire | Rien dans cette famille |\n| 8 ou mieux | Revient en atout |\n\n---\n\n## Score\n\n| Résultat | Points |\n|----------|--------|\n| Contrat **réussi** | **10** + nombre de levées annoncé |\n| Contrat **manqué** | **-10** |\n"
   },
   {
     "id": "piquet",
@@ -2113,6 +2551,44 @@ const GAMES = [
     "markdown": "# Le Pouilleux\n\n**Nombre de joueurs :** 2 à 8\n**Nombre de cartes :** 51 (52 cartes dont on enlève le Valet de Trèfle)\n**But :** Se débarrasser de toutes ses cartes\n\n> Le dernier joueur à avoir le Valet de Pique a perdu.\n\n---\n\n## Préparation\n\n1. Distribuer **toutes les cartes** entre les joueurs.\n2. Chaque joueur se défausse de ses **paires** de cartes de même valeur et même couleur (rouge : cœur/carreau, noir : trèfle/pique).\n3. Le Valet de Trèfle est retiré du jeu.\n\n## Déroulement\n\n1. Le joueur pioche **une carte au hasard** dans la main du joueur à sa gauche (sans la montrer aux autres).\n2. Si la carte piochée forme une **paire** avec une carte de sa main → le joueur s'en défausse **immédiatement**.\n3. C'est ensuite au voisin de gauche de piocher dans la main de son voisin.\n4. La partie continue ainsi jusqu'à ce que toutes les paires aient été défaussées.\n\n## Fin de partie\n\nLe joueur qui est encore en possession du **Valet de Pique** (le « pouilleux ») **perd** la partie.\n\n## Variante\n\nLa carte retirée du jeu est tirée au hasard en début de partie, **sans que personne ne la voit**. Celui qui perd est le seul joueur à qui il reste une carte.\n\n> Cette variante ne permet pas de savoir à l'avance quelle carte peut faire perdre.\n"
   },
   {
+    "id": "poule-3-cartes",
+    "title": "La Poule à 3 Cartes",
+    "players": "2 à 7",
+    "cards": "52",
+    "goal": "Faire des levées (chaque levée = un tiers des enjeux)",
+    "playerMin": 2,
+    "playerMax": 7,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Chaque joueur dépose une mise égale. Le donneur distribue 3 cartes fermées à : la poule (jeu supplémentaire), à lui-même et à chaque joueur. Il retourne la carte supérieure du talon : c'est l'atout (n'appartient à person…",
+    "markdown": "# La Poule à 3 Cartes\n\n**Nombre de joueurs :** 2 à 7\n**Nombre de cartes :** 52\n**But :** Faire des levées (chaque levée = un tiers des enjeux)\n\n---\n\n## Préparation\n\nChaque joueur dépose une mise égale. Le donneur distribue **3 cartes fermées** à : la poule (jeu supplémentaire), à lui-même et à chaque joueur. Il retourne la carte supérieure du talon : c'est l'**atout** (n'appartient à personne).\n\n---\n\n## Déroulement\n\n1. Chaque joueur dit s'il **mise** (ajoute 2 jetons) ou se **retire**.\n2. Il faut au moins **2 joueurs** pour que la donne soit jouée.\n3. Le donneur peut prendre **la poule** ou garder son jeu. S'il la prend, il est **tenu de suivre**.\n4. Les joueurs peuvent changer leurs **3 cartes**.\n\n### Le jeu de la carte\n\n- Le suivant du donneur entame.\n- Si on a l'**As d'atout**, on est tenu de le **jouer immédiatement**.\n- On doit non seulement fournir mais **jouer plus fort** que la carte exposée.\n- Sans la couleur : **couper avec l'atout**. Si déjà coupé : couper **plus fort**.\n\n---\n\n## Score\n\nChaque levée donne droit au **tiers des enjeux**. Ceux qui n'ont aucune levée **remplacent les enjeux**.\n\n> Le jeu se termine quand il n'y a plus de jetons au centre.\n"
+  },
+  {
+    "id": "poule-5-cartes",
+    "title": "La Poule à 5 Cartes",
+    "players": "4 à 6",
+    "cards": "52",
+    "goal": "Faire le plus de levées pour remporter les enjeux",
+    "playerMin": 4,
+    "playerMax": 6,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Préparation",
+      "Déroulement",
+      "Fin de donne"
+    ],
+    "excerpt": "Chaque joueur dépose une mise égale (ex: 2 jetons). Le donneur distribue 5 cartes fermées à chacun. Sa dernière carte est retournée et détermine l'atout.",
+    "markdown": "# La Poule à 5 Cartes\n\n**Nombre de joueurs :** 4 à 6\n**Nombre de cartes :** 52\n**But :** Faire le plus de levées pour remporter les enjeux\n\n---\n\n## Préparation\n\nChaque joueur dépose une mise égale (ex: 2 jetons). Le donneur distribue **5 cartes fermées** à chacun. Sa **dernière carte** est retournée et détermine l'**atout**.\n\n---\n\n## Déroulement\n\n1. Tous les joueurs peuvent se retirer **sauf au premier tour**.\n2. Si tous se retirent, le donneur remporte les enjeux.\n3. On peut changer jusqu'à **4 cartes** (données ensemble, sauf 4 : 3 + 1 après service).\n4. Sauf au 1er tour, chaque joueur dit s'il mise (ajoute 2 jetons) ou se retire.\n5. Le suivant du donneur entame. Fournir la couleur obligatoire. Couper ou défausser sinon.\n\n---\n\n## Fin de donne\n\nLe joueur qui fait le **plus de levées** remporte les enjeux. Ceux qui n'en font **aucune** doivent déposer au centre l'équivalent des enjeux.\n\n> Le jeu se termine quand il n'y a plus de jetons au centre.\n"
+  },
+  {
     "id": "preference",
     "title": "La Préférence",
     "players": "3 (ou 4)",
@@ -2173,6 +2649,45 @@ const GAMES = [
     ],
     "excerpt": "1. Le donneur distribue 7 cartes à chaque joueur. 2. Les autres cartes sont posées au milieu de la table, faces cachées : c'est le puits.",
     "markdown": "# Le Puits\n\n**Nombre de joueurs :** 2 à 7\n**Nombre de cartes :** 52\n**But :** Se débarrasser le premier de toutes ses cartes\n\n---\n\n## Préparation\n\n1. Le donneur distribue **7 cartes** à chaque joueur.\n2. Les autres cartes sont posées au **milieu de la table, faces cachées** : c'est le **puits**.\n\n---\n\n## Déroulement\n\n### Principe\n\n1. Le premier joueur pose une carte, **face visible**, à côté du puits.\n2. Le joueur suivant doit trouver dans son jeu une carte ayant :\n   - La **même valeur**, OU\n   - La **même couleur** (rouge ou noir)\n\n### Si le joueur peut jouer\n\nIl retourne sa carte et la **met dans le puits**.\n\n### Si le joueur ne peut pas jouer\n\nIl **pioche** dans le puits jusqu'à ce qu'il ait trouvé la bonne carte.\n\n---\n\n## Fin du jeu\n\nLe gagnant est celui qui se débarrasse, le **premier**, de **toutes ses cartes**.\n"
+  },
+  {
+    "id": "quatre-quatorze",
+    "title": "Le Quatre-Quatorze",
+    "players": "2 à 9",
+    "cards": "52",
+    "goal": "Se rapprocher de 4 ou de 14 sans dépasser",
+    "playerMin": 2,
+    "playerMax": 9,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur des cartes",
+      "Déroulement",
+      "Fin de partie"
+    ],
+    "excerpt": "",
+    "markdown": "# Le Quatre-Quatorze\n\n**Nombre de joueurs :** 2 à 9\n**Nombre de cartes :** 52\n**But :** Se rapprocher de 4 ou de 14 sans dépasser\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As | 1 ou 11 |\n| Figures | 1/2 |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Déroulement\n\n1. Chaque joueur dépose une mise. Le donneur distribue **1 carte fermée** à chacun.\n2. En commençant par le voisin de gauche, les joueurs peuvent **attendre**, **miser** ou **relancer**.\n3. Le donneur demande à chaque joueur s'il veut une carte. Toutes les cartes sont données **ouvertes**.\n4. Après chaque distribution : un **tour de paris**.\n5. On continue jusqu'à ce qu'un tour complet se fasse **sans qu'aucun joueur prenne une carte**.\n\n---\n\n## Fin de partie\n\n| Main | Récompense |\n|------|------------|\n| La plus proche de **4** sans dépasser | **Moitié** des enjeux |\n| La plus proche de **14** sans dépasser | **Moitié** des enjeux (+ 1 jeton si compte impair) |\n\n> À valeur égale, la main avec le **moins de cartes** l'emporte.\n\n### Le jackpot\n\nUn joueur qui détient un **3 et 1 As** (qui fait **4 et 14**) remporte **tous les enjeux**, peu importe les autres mains. Il doit l'annoncer avant que les autres n'ouvrent leurs cartes.\n"
+  },
+  {
+    "id": "quatre-vingt-dix-neuf",
+    "title": "Le Quatre-Vingt-Dix-Neuf (99)",
+    "players": "2 à 6",
+    "cards": "52",
+    "goal": "Ne pas dépasser 99 et être le dernier à conserver des vies",
+    "playerMin": 2,
+    "playerMax": 6,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur spéciale des cartes",
+      "Préparation",
+      "Déroulement",
+      "Cas spécial"
+    ],
+    "excerpt": "",
+    "markdown": "# Le Quatre-Vingt-Dix-Neuf (99)\n\n**Nombre de joueurs :** 2 à 6\n**Nombre de cartes :** 52\n**But :** Ne pas dépasser 99 et être le dernier à conserver des vies\n\n---\n\n## Valeur spéciale des cartes\n\n| Carte | Effet |\n|-------|-------|\n| **Roi** | Le total passe automatiquement à **99** |\n| **10** | **+10 ou -10** au choix |\n| **9** | **0** et **change le sens** du jeu |\n| **8** | **0** |\n| **Valet** | **10** et fait **passer son tour** au suivant |\n| **As** | **1** |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Préparation\n\nChaque joueur reçoit **5 vies** (jetons, boutons…). Le donneur distribue **3 cartes fermées** à chacun.\n\n---\n\n## Déroulement\n\n1. Le voisin de gauche écarte une carte en **annonçant le compte**.\n2. Il pige au talon pour remplacer la carte jouée.\n3. Le joueur suivant fait de même, en additionnant.\n\n> Le total ne doit **jamais dépasser 99**. Le premier qui ne peut jouer **rend une vie**.\n\n### Exemple de compte\n\nJoueur 1 joue Dame → « 10 ». Joueur 2 joue 7 → « 17 ». Joueur 3 joue 8 → « 17 ». Joueur 4 joue Roi → « **99** ».\n\nSi le suivant joue un 10 → « **89** » (le compte baisse).\n\n---\n\n## Cas spécial\n\nSi un joueur a **3 cartes de même valeur** en main, il ouvre son jeu. Le jeu s'arrête et **tous les autres** rendent une vie.\n\n> Le premier joueur ayant perdu toutes ses vies a droit à une vie supplémentaire (la **« paille »**).\n"
   },
   {
     "id": "quit",
@@ -2299,6 +2814,65 @@ const GAMES = [
     "markdown": "# Le Roi et son Épée\n\n**Nombre de joueurs :** indéterminé\n**Nombre de cartes :** suffisamment pour que chaque joueur en reçoive deux\n**But :** Posséder à la fois le roi et son épée\n\n---\n\n## Préparation\n\n### Cartes spéciales\n\n- On retire du jeu **tous les rois, sauf un**.\n- On retire du jeu **tous les as, sauf un**.\n- L'as sera l'**« épée »** du roi.\n\n### Distribution\n\nLe donneur distribue les cartes **une par une**. Chaque joueur doit en recevoir **deux**.\n\n### Annonces\n\nLe joueur qui possède le **roi** et celui qui possède l'**« épée »** doivent l'annoncer **à haute voix**.\n\n---\n\n## Déroulement\n\n### Échange de cartes\n\n1. Le premier joueur présente ses **deux cartes, faces cachées**, au deuxième joueur.\n2. Le deuxième joueur en **tire une** au hasard. Il se retrouve avec **trois cartes**.\n3. Le deuxième joueur en fait tirer une au troisième joueur, qui procède de même.\n4. Et ainsi de suite.\n\n> Le roi et l'« épée » peuvent ainsi **se croiser plusieurs fois** avant d'être définitivement réunis.\n\n---\n\n## Fin du jeu\n\nLe gagnant est le premier joueur qui possède **à la fois le roi et son « épée »**, lorsqu'il a fait tirer le joueur suivant — c'est-à-dire lorsqu'il n'a plus que **deux cartes en main**.\n"
   },
   {
+    "id": "rummy-500",
+    "title": "Le Rummy 500",
+    "players": "2 à 8 (de préférence 3-5, en équipes à 4)",
+    "cards": "52 (104 à 5+ joueurs)",
+    "goal": "Atteindre 500 points le premier",
+    "playerMin": 2,
+    "playerMax": 4,
+    "cardCount": 52,
+    "category": "petit-groupe",
+    "color": "#34d399",
+    "sections": [
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "Le donneur distribue 7 cartes (13 à 2 joueurs). Le talon est au centre, carte supérieure retournée pour commencer la pile. Les cartes défaussées sur la pile sont placées côte à côte (toutes visibles).",
+    "markdown": "# Le Rummy 500\n\n**Nombre de joueurs :** 2 à 8 (de préférence 3-5, en équipes à 4)\n**Nombre de cartes :** 52 (104 à 5+ joueurs)\n**But :** Atteindre 500 points le premier\n\n---\n\n## Préparation\n\nLe donneur distribue **7 cartes** (13 à 2 joueurs). Le talon est au centre, carte supérieure retournée pour commencer la pile. Les cartes défaussées sur la pile sont placées **côte à côte** (toutes visibles).\n\n---\n\n## Déroulement\n\n1. À son tour, chaque joueur pige au talon ou prend **n'importe quelle carte** de la pile.\n2. S'il prend une carte de la pile, il doit prendre **toutes les cartes posées dessus** et pouvoir **utiliser immédiatement** cette carte dans une série ou séquence.\n3. Après avoir pigé (et avant de défausser), le joueur peut étaler des **trios** (3+ cartes de même valeur) ou des **séquences** (3+ cartes qui se suivent dans la même famille).\n4. On peut aussi compléter les séries déjà étalées.\n\n> Les séquences ne sont **pas continues** : on ne peut pas faire Roi-As-2. Il faut As-2-3 ou As-Roi-Dame.\n\n---\n\n## Score\n\n| Carte | Points |\n|-------|--------|\n| As | 15 (ou 1 dans la séquence As-2-3) |\n| Figures | 10 |\n| Autres cartes | Valeur nominale |\n\nPour chaque joueur : **valeur des cartes étalées** moins **valeur des cartes en main**. Le premier à **500 points** gagne.\n"
+  },
+  {
+    "id": "rummy-baltimore",
+    "title": "Le Rummy Baltimore",
+    "players": "3 à 8",
+    "cards": "104 à 156 (2 à 3 jeux de 52 selon le nombre de joueurs)",
+    "goal": "Avoir le moins de points après 5 donnes",
+    "playerMin": 3,
+    "playerMax": 8,
+    "cardCount": 104,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Les 5 donnes",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "> Trios = 3+ cartes de même valeur. Séquences = 4+ cartes qui se suivent dans la même famille. L'As est à la fois la plus basse et la plus haute (séquence 2-As-Roi possible).",
+    "markdown": "# Le Rummy Baltimore\n\n**Nombre de joueurs :** 3 à 8\n**Nombre de cartes :** 104 à 156 (2 à 3 jeux de 52 selon le nombre de joueurs)\n**But :** Avoir le moins de points après 5 donnes\n\n---\n\n## Les 5 donnes\n\n| Donne | Combinaison requise |\n|-------|---------------------|\n| 1 | **Deux trios** |\n| 2 | **Un trio + une séquence** |\n| 3 | **Deux séquences** |\n| 4 | **Trois trios** |\n| 5 | **Deux trios + une séquence** |\n\n> Trios = 3+ cartes de même valeur. Séquences = 4+ cartes qui se suivent dans la même famille. L'As est à la fois la plus basse et la plus haute (séquence 2-As-Roi possible).\n\n---\n\n## Préparation\n\nLe donneur distribue **10 cartes fermées** à chacun. Le talon est au centre, carte supérieure retournée.\n\n---\n\n## Déroulement\n\nChaque joueur doit faire **uniquement** ce que la donne commande (ni plus, ni moins).\n\nÀ son tour : prendre la carte retournée ou piger au talon, puis défausser.\n\n### Le « piquage »\n\nSi un joueur veut la carte retournée avant son tour, il dit **« je pique »**. Il prend la carte **plus une carte de pénalité** au talon.\n\n> Priorité au joueur le plus près à gauche de celui qui a défaussé.\n\n### Étalage\n\nDès qu'un joueur a complété la combinaison demandée, il étale son jeu. Il peut ensuite écarter sur les jeux des autres et le sien.\n\n> **5e donne spéciale** : un seul joueur peut étaler, sans défausser sa dernière carte. La dernière carte pigée doit compléter son jeu.\n\n---\n\n## Score\n\n| Carte | Points |\n|-------|--------|\n| As | 15 |\n| Figures et 10 | 10 |\n| Autres cartes | 5 |\n\nLe joueur qui a le **moins de points** cumulés après 5 donnes gagne.\n"
+  },
+  {
+    "id": "salade",
+    "title": "La Salade",
+    "players": "4 à 6",
+    "cards": "54 (52 + joker + blanche)",
+    "goal": "Avoir le moins de points après 6 donnes",
+    "playerMin": 4,
+    "playerMax": 6,
+    "cardCount": 54,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Les 6 donnes",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "",
+    "markdown": "# La Salade\n\n**Nombre de joueurs :** 4 à 6\n**Nombre de cartes :** 54 (52 + joker + blanche)\n**But :** Avoir le moins de points après 6 donnes\n\n---\n\n## Les 6 donnes\n\n| Donne | Objectif |\n|-------|----------|\n| 1 | Faire le **moins de levées** |\n| 2 | Éviter de prendre des **cœurs** |\n| 3 | Éviter de prendre des **Dames** |\n| 4 | Éviter de prendre le **Roi de cœur** |\n| 5 | Se défaire le **premier** de toutes ses cartes |\n| 6 | Éviter levées, cœurs, Dames **et** Roi de cœur |\n\n---\n\n## Préparation\n\nLe donneur distribue **toutes les cartes** fermées. Le joker et la blanche sont des **cartes passe-partout**.\n\n---\n\n## Déroulement\n\nLe voisin de gauche entame. On doit **suivre la famille** demandée si possible.\n\n> Le joker ou la blanche **dégagent** le joueur de l'obligation de fournir. On ne peut pas **commander** une famille avec eux. Si on le fait faute de mieux, on **remporte** automatiquement la levée.\n\n### La 5e donne (spéciale)\n\nLes joueurs jouent leurs **8** à tour de rôle, posés ouverts côte à côte. Ensuite on joue **en dessous ou au-dessus** du 8, en descendant ou montant les familles dans l'ordre. Le joker et la blanche remplacent n'importe quelle carte.\n\n---\n\n## Score\n\n| Donne | Pénalité |\n|-------|----------|\n| 1 | 5 points par levée |\n| 2 | 5 points par cœur |\n| 3 | 20 points par Dame |\n| 4 | 50 points pour le Roi de cœur |\n| 5 | **-100** au premier à se défausser / **-50** au second |\n| 6 | 5 par levée + 5 par cœur + 20 par Dame + 50 pour le Roi |\n"
+  },
+  {
     "id": "sans-coeur",
     "title": "Le Sans-Cœur",
     "players": "3 à 4",
@@ -2358,6 +2932,25 @@ const GAMES = [
     ],
     "excerpt": "> Le but est de faire 7 points 1/2.",
     "markdown": "# Le Sept-et-Demi\n\n**Nombre de joueurs :** 2+ (un banquier et des pontes)\n**Nombre de cartes :** 32\n**But :** Faire 7 points et demi\n\n---\n\n## Histoire\n\nJeu de pur hasard apparenté au Vingt-et-Un. Beaucoup pratiqué dans les cercles et tripots.\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| Roi | 4 |\n| Dame | 3 |\n| Valet | 2 |\n| As | 1 |\n| 7 | 1 |\n| 10, 9, 8 | **1/2 point** |\n\n> Le but est de faire **7 points 1/2**.\n\n---\n\n## Déroulement\n\n### La donne\n\nLe banquier distribue **1 carte** à chaque ponte selon un ordre alterné (voisin de droite, voisin de gauche, 2e voisin de droite, etc.).\n\n### Les demandes\n\nChacun, à tour de rôle, demande **une ou plusieurs cartes** à découvert.\n\n### Résolution\n\n| Point | Conséquence |\n|-------|-------------|\n| **Plus de 7 1/2** (« crève ») | La mise revient au banquier |\n| **7 1/2 exact** | Le banquier paie le **double** de la mise |\n| **Moins de 7 1/2** | On compare avec le banquier |\n\n> Si le banquier crève, il paie la mise à tous les pontes et cède la banque à son voisin de droite.\n\n---\n\n## Variante\n\nOn peut convenir que le premier ponte à faire 7 1/2 remplacera le banquier en temps voulu, ou qu'après 3-4 parties on change systématiquement de banquier.\n"
+  },
+  {
+    "id": "sept-vingt-sept",
+    "title": "Le Sept-Vingt-Sept",
+    "players": "2 à 7",
+    "cards": "52",
+    "goal": "Se rapprocher de 7 ou de 27 sans dépasser",
+    "playerMin": 2,
+    "playerMax": 7,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Valeur des cartes",
+      "Déroulement",
+      "Fin de partie"
+    ],
+    "excerpt": "",
+    "markdown": "# Le Sept-Vingt-Sept\n\n**Nombre de joueurs :** 2 à 7\n**Nombre de cartes :** 52\n**But :** Se rapprocher de 7 ou de 27 sans dépasser\n\n---\n\n## Valeur des cartes\n\n| Carte | Points |\n|-------|--------|\n| As | 1 ou 11 |\n| Figures | 1/2 |\n| Autres cartes | Valeur nominale |\n\n---\n\n## Déroulement\n\n1. Chaque joueur dépose une mise. Le donneur distribue **1 carte fermée** à chacun.\n2. En commençant par le voisin de gauche, les joueurs peuvent **attendre**, **miser** ou **relancer**.\n3. Le donneur demande à chaque joueur s'il veut une carte. Toutes les cartes sont données **ouvertes**.\n4. Après chaque distribution : un **tour de paris**.\n5. On continue jusqu'à ce qu'un tour complet se fasse **sans qu'aucun joueur prenne une carte**.\n\n---\n\n## Fin de partie\n\n| Main | Récompense |\n|------|------------|\n| La plus proche de **7** sans dépasser | **Moitié** des enjeux |\n| La plus proche de **27** sans dépasser | **Moitié** des enjeux (+ 1 jeton si compte impair) |\n\n> À valeur égale, la main avec le **moins de cartes** l'emporte. Il faut une valeur minimum de **20** pour revendiquer la main haute.\n\n### Le jackpot\n\nUn joueur qui détient un **5 et 2 As** (qui fait **7 et 27**) remporte **tous les enjeux**.\n"
   },
   {
     "id": "shithead",
@@ -2489,6 +3082,24 @@ const GAMES = [
     "markdown": "# Snip Snap Snorem\n\n**Nombre de joueurs :** indéterminé\n**Nombre de cartes :** 52\n**But :** Être le premier à se débarrasser de toutes ses cartes\n\n---\n\n## Préparation\n\nLe donneur distribue les cartes **une par une**, jusqu'à épuisement du paquet.\n\n> Peu importe si tous les joueurs n'ont pas le même nombre de cartes.\n\n---\n\n## Déroulement\n\n### Principe\n\n1. Le premier joueur pose une carte sur la table, **face visible**, en annonçant son rang : « **Dame !** »\n2. Le premier joueur (sens des aiguilles d'une montre) qui possède une **autre dame** la pose sur la première, en disant : **« Snip ! »**\n3. Le joueur suivant qui possède une **troisième dame** la pose, en disant : **« Snap ! »**\n4. Le joueur qui a la **quatrième dame** la pose sur les trois premières, en disant : **« Snorem ! »**\n\n### Relance\n\n- Le joueur qui a posé la **quatrième carte** (Snorem) pose alors sur la table une **carte de son choix**, et le jeu continue de la même manière.\n- À chaque fois, c'est le **quatrième joueur** qui relance l'action.\n\n---\n\n## Fin du jeu\n\nLe joueur qui, le premier, s'est débarrassé de **toutes ses cartes** a **gagné**.\n"
   },
   {
+    "id": "solitaire-a-deux",
+    "title": "Le Solitaire à Deux",
+    "players": "2",
+    "cards": "104 (un jeu de 52 par joueur)",
+    "goal": "Être le premier à se défaire de toutes ses cartes",
+    "playerMin": 2,
+    "playerMax": 2,
+    "cardCount": 104,
+    "category": "duo",
+    "color": "#60a5fa",
+    "sections": [
+      "Préparation",
+      "Déroulement"
+    ],
+    "excerpt": "Chaque joueur bat ses propres cartes et dispose 7 paquets en ligne devant lui : 1 paquet d'1 carte ouverte + 6 paquets de cartes fermées Sur la 1re carte fermée : 1 carte ouverte, puis 1 fermée sur chaque paquet suivant",
+    "markdown": "# Le Solitaire à Deux\n\n**Nombre de joueurs :** 2\n**Nombre de cartes :** 104 (un jeu de 52 par joueur)\n**But :** Être le premier à se défaire de toutes ses cartes\n\n---\n\n## Préparation\n\nChaque joueur bat **ses propres cartes** et dispose **7 paquets** en ligne devant lui :\n- 1 paquet d'**1 carte ouverte** + 6 paquets de cartes fermées\n- Sur la 1re carte fermée : 1 carte ouverte, puis 1 fermée sur chaque paquet suivant\n- On recommence jusqu'à ce que tous les paquets aient leur carte ouverte\n\nOn laisse un espace au centre pour les **As**. Le talon est posé fermé devant chaque joueur.\n\n---\n\n## Déroulement\n\nChaque joueur joue **individuellement**, mais les As sont **communs** aux deux joueurs (placés entre les deux lignes). Si un joueur pose l'As de pique, l'autre peut y placer le 2 de pique, le 3, etc.\n\n### Sur les 7 paquets\n\nEn **alternant rouge et noir**, faire chevaucher les cartes en **descendant** :\n> Sur un 7 rouge → 6 noir → 5 rouge → etc.\n\nLes cartes fermées découvertes sont retournées. Quand un paquet se libère, on peut y placer un **Roi**.\n\n### Le talon\n\nLes cartes du talon sont prises par **groupes de 3**. On retourne le paquet et on joue la carte visible. Quand le talon est épuisé, on retourne les cartes non utilisées sans les battre.\n\n### Les As (centre)\n\nOn y place les cartes dans l'ordre et dans la **même famille**, en montant jusqu'aux Rois.\n"
+  },
+  {
     "id": "solitaire",
     "title": "Solitaire",
     "players": "1",
@@ -2506,6 +3117,44 @@ const GAMES = [
     ],
     "excerpt": "Former 7 colonnes avec les cartes mélangées : Les 4 emplacements vides à gauche = piles de Fondation Les cartes restantes = pioche",
     "markdown": "# Solitaire\n\n**Nombre de joueurs :** 1\n**Nombre de cartes :** 52\n**But :** Reconstituer 4 piles de cartes (une par couleur) en suites croissantes de l'As au Roi\n\n---\n\n## Mise en place\n\nFormer **7 colonnes** avec les cartes mélangées :\n\n| Colonne | Cartes visibles | Cartes cachées |\n|---------|-----------------|----------------|\n| 1 | 1 | 0 |\n| 2 | 1 | 1 |\n| 3 | 1 | 2 |\n| 4 | 1 | 3 |\n| 5 | 1 | 4 |\n| 6 | 1 | 5 |\n| 7 | 1 | 6 |\n\n- Les 4 emplacements vides à gauche = **piles de Fondation**\n- Les cartes restantes = **pioche**\n\n## Déroulement\n\n### Déplacer une carte vers les piles de Fondation\n\n- Si un **As** est visible, glissez-le sur l'emplacement libre de la bonne couleur.\n- Puis placez le 2, le 3, etc. jusqu'au Roi (suites croissantes).\n- À chaque carte retirée, retournez celle qui était dessous.\n\n### Déplacer une carte d'une colonne vers une autre\n\nDeux conditions :\n1. Créer une **suite décroissante**\n2. **Alterner les couleurs** (rouge sur noir, noir sur rouge)\n\n> **Roi sur colonne vide :** Seul un Roi peut remplir une colonne vide.\n\n> **Déplacement de groupe :** On peut déplacer plusieurs cartes si l'alternance rouge/noir est respectée et qu'elles forment une suite décroissante.\n\n### Piocher une carte\n\nQuand il n'y a plus de coup légal, piochez dans la pioche (1, 2 ou 3 cartes selon la variante). Les cartes piochées sont posées sur la table. Jouez celles que vous pouvez.\n\n### Déplacement de Fondation vers colonne\n\nIl est possible de reprendre une carte d'une pile de Fondation pour la placer sur une colonne.\n\n## Fin du jeu\n\n**Victoire :** Les 4 piles de Fondation sont complètes (As jusqu'au Roi, une par couleur).\n\n**Défaite :** Plus aucun coup possible alors qu'il manque des cartes dans les Fondations.\n"
+  },
+  {
+    "id": "stud-5-cartes",
+    "title": "Stud à 5 Cartes",
+    "players": "2 à 10",
+    "cards": "52",
+    "goal": "Avoir la meilleure main de poker",
+    "playerMin": 2,
+    "playerMax": 10,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Préparation",
+      "Déroulement",
+      "Variantes populaires"
+    ],
+    "excerpt": "Chaque joueur dépose sa mise. Le donneur donne à chaque joueur 1 carte cachée puis 1 carte ouverte.",
+    "markdown": "# Stud à 5 Cartes\n\n**Nombre de joueurs :** 2 à 10\n**Nombre de cartes :** 52\n**But :** Avoir la meilleure main de poker\n\n---\n\n## Préparation\n\nChaque joueur dépose sa **mise**. Le donneur donne à chaque joueur **1 carte cachée** puis **1 carte ouverte**.\n\n---\n\n## Déroulement\n\n1. Le joueur avec la **meilleure main visible** parie en premier.\n2. Les autres suivent, relancent ou se retirent.\n3. Le donneur distribue une **carte ouverte** à chaque joueur restant.\n4. Nouvelle ronde de paris.\n5. On répète jusqu'à ce que chaque joueur ait **1 carte cachée + 4 cartes ouvertes**.\n\n> Le donneur annonce les **possibilités** de chaque main (« Une paire, pas plus », « Chance pour 4 cartes de même famille », etc.)\n\n---\n\n## Variantes populaires\n\n### Stud naturel\nSans frime. Une paire de figures a de bonnes chances de l'emporter.\n\n### Le roulant\nLa carte cachée est **frimée** pour le joueur qui la détient (et toutes les cartes de même valeur). Le donneur distribue 5 cartes cachées ; les joueurs en retournent 4 à leur rythme.\n\n### Show down\nMise **fixe** (souvent le nombre de jetons du joueur le plus pauvre). Pas de paris. 5 cartes **ouvertes** à chacun. La main la plus forte l'emporte.\n"
+  },
+  {
+    "id": "stud-7-cartes",
+    "title": "Stud à 7 Cartes",
+    "players": "2 à 7",
+    "cards": "52",
+    "goal": "Avoir la meilleure main de 5 cartes",
+    "playerMin": 2,
+    "playerMax": 7,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Préparation",
+      "Déroulement",
+      "Variantes populaires"
+    ],
+    "excerpt": "Chaque joueur dépose sa mise. Le donneur donne 2 cartes cachées puis 1 carte ouverte à chaque joueur.",
+    "markdown": "# Stud à 7 Cartes\n\n**Nombre de joueurs :** 2 à 7\n**Nombre de cartes :** 52\n**But :** Avoir la meilleure main de 5 cartes\n\n---\n\n## Préparation\n\nChaque joueur dépose sa **mise**. Le donneur donne **2 cartes cachées** puis **1 carte ouverte** à chaque joueur.\n\n---\n\n## Déroulement\n\n1. Le joueur avec la **meilleure main visible** parie en premier.\n2. Les autres suivent, relancent ou se retirent.\n3. Le donneur distribue une **carte ouverte** à chaque joueur restant.\n4. Nouvelle ronde de paris.\n5. On répète jusqu'à ce que chaque joueur ait **2 cartes cachées + 5 cartes ouvertes** (7 cartes au total).\n6. Chaque joueur fait sa **meilleure main de 5 cartes**.\n\n---\n\n## Variantes populaires\n\n### Stud naturel\nSans frime. Deux paires suffisent en moyenne pour gagner.\n\n### Baseball\nLes **3** et **9** sont frimés. Les **4** donnent droit à une carte supplémentaire cachée.\n\n### La dame et sa suivante\nLes **Dames** sont frimées ainsi que la **carte suivante** distribuée. La frime change à chaque Dame retournée.\n\n### Chicago\n2 cachées, 4 ouvertes, 1 cachée. Le **plus gros pique caché** remporte la moitié. La **main la plus forte** remporte l'autre moitié.\n\n### Au choix dans le trou\nChaque joueur choisit laquelle de ses **2 cartes cachées** est frimée.\n\n### Le plus petit jeu\nLa **plus petite main** gagne (l'As est la plus petite, straights et couleurs ne comptent pas).\n\n### La croix de feu\n4 cartes fermées par joueur + **5 cartes en croix** retournées une par une. Les 3 cartes horizontales ou verticales complètent la main.\n"
   },
   {
     "id": "tarot",
@@ -2555,6 +3204,27 @@ const GAMES = [
     ],
     "excerpt": "Chaque joueur dispose de 8 à 10 jetons et en dépose 3 dans la corbeille centrale.",
     "markdown": "# La Tontine\n\n**Nombre de joueurs :** 4+\n**Nombre de cartes :** 52\n**But :** Être le dernier joueur à posséder des jetons\n\n---\n\n## Histoire\n\nJeu de famille pratiqué au XIXe siècle. Son nom rappelle les emprunts du banquier napolitain Lorenzo Tonti.\n\n---\n\n## Préparation\n\nChaque joueur dispose de **8 à 10 jetons** et en dépose **3** dans la corbeille centrale.\n\n---\n\n## Déroulement\n\nLe donneur distribue **1 carte découverte** à chacun (en dernier lieu à lui-même).\n\n### Paiements selon la carte reçue\n\n| Carte | Action |\n|-------|--------|\n| **Roi** | Prend **3 jetons** dans la corbeille |\n| **Dame** | Prend **2 jetons** |\n| **Valet** | Prend **1 jeton** |\n| **10** | Ne prend ni ne paie |\n| **9, 7 ou 5** | Dépose **1 jeton** dans la corbeille |\n| **8, 6 ou 4** | Dépose **2 jetons** |\n| **As** | Donne **1 jeton** au voisin de gauche |\n| **3** | Donne **3 jetons** au voisin de gauche |\n\n---\n\n## Suites de coups\n\nLe voisin de droite reprend le talon et distribue une nouvelle carte à chacun. Le jeu se poursuit comme précédemment.\n\n### Sans jetons (« mort »)\n\nUn joueur sans jetons ne reçoit plus de carte. Mais dès qu'un voisin lui donne des jetons (As ou 3), il revient dans le jeu.\n\n> Quand le talon est épuisé, on reprend les cartes jouées, on les bat et la distribution continue.\n\n---\n\n## Fin du jeu\n\nLa partie se termine quand un seul joueur possède encore des jetons. Ce survivant **gagne** et s'adjuge le trésor accumulé dans la corbeille.\n"
+  },
+  {
+    "id": "treize-quebecois",
+    "title": "Le Treize (Québec)",
+    "players": "3 à 5",
+    "cards": "52",
+    "goal": "Avoir le moins de points après 13 donnes",
+    "playerMin": 3,
+    "playerMax": 5,
+    "cardCount": 52,
+    "category": "grand-groupe",
+    "color": "#fb923c",
+    "sections": [
+      "Les 13 donnes",
+      "Combinaisons",
+      "Préparation",
+      "Déroulement",
+      "Score"
+    ],
+    "excerpt": "La partie comporte 13 donnes. À chaque donne, une valeur de carte est frimée (remplace n'importe quelle carte) :",
+    "markdown": "# Le Treize (Québec)\n\n**Nombre de joueurs :** 3 à 5\n**Nombre de cartes :** 52\n**But :** Avoir le moins de points après 13 donnes\n\n---\n\n## Les 13 donnes\n\nLa partie comporte **13 donnes**. À chaque donne, une valeur de carte est **frimée** (remplace n'importe quelle carte) :\n\n| Donne | Carte frimée |\n|-------|-------------|\n| 1 | As |\n| 2 | 2 |\n| 3 | 3 |\n| … | … |\n| 13 | Roi |\n\n---\n\n## Combinaisons\n\n- **Trios** : 3 cartes de même valeur (jamais plus de 4 dans un trio)\n- **Séquences** : 4+ cartes qui se suivent dans la même famille\n\n---\n\n## Préparation\n\nLe donneur distribue **7 cartes fermées** à chacun. Le talon est au centre, carte supérieure retournée à côté.\n\n---\n\n## Déroulement\n\n1. Le voisin de gauche joue le premier : prendre la carte retournée ou piger au talon.\n2. Défausser une carte (toujours 7 cartes en main).\n3. Faire des trios ou des séquences selon son jeu.\n\n### Étalage\n\nQuand un joueur a complété son jeu, il l'étale. La donne est terminée.\n\nLe joueur à gauche de l'ouvreur peut étaler ses trios/séquences et **compléter** ceux de l'ouvreur. Les joueurs suivants font de même.\n\n> On ne peut placer des cartes **que sur les combinaisons de l'ouvreur**.\n\n---\n\n## Score\n\n| Carte | Points |\n|-------|--------|\n| As | 15 |\n| Figures | 10 |\n| Autres cartes | Valeur nominale |\n\nLe joueur avec le **plus bas total** après 13 donnes est le gagnant.\n"
   },
   {
     "id": "treize",
@@ -2640,6 +3310,27 @@ const GAMES = [
     ],
     "excerpt": "Roi, Dame, Valet, As, 10, 9, 8, 7 (en valeur décroissante).",
     "markdown": "# La Triomphe\n\n**Nombre de joueurs :** 2, 4 ou 6\n**Nombre de cartes :** 32\n**But :** Faire au moins 3 levées sur 5 pour gagner un jeu\n\n---\n\n## Histoire\n\nTrès vieux jeu français, à l'origine de l'Ecarté et du Piquet. « Triomphe » désignait autrefois la carte qui l'emportait sur toutes les autres (l'atout). Restée fidèle chez les gens de mer.\n\n## Ordre des cartes\n\nRoi, Dame, Valet, As, 10, 9, 8, 7 (en valeur décroissante).\n\n---\n\n## Préparation\n\nLe donneur distribue **5 cartes** à chacun (2 par 2, puis 1). La **11e carte** retournée devient la **triomphe** (atout).\n\n---\n\n## Déroulement\n\n1. Le premier joueur jette une carte de son choix.\n2. L'adversaire doit : **suivre en couleur**, **forcer** si possible, **couper** sans la couleur, ou **se défausser**.\n3. Celui qui fait la levée rejoue.\n\n---\n\n## La vole\n\nUn joueur peut annoncer la **vole** : s'engager à faire les **5 levées**.\n\n| Réussite | Échec |\n|----------|-------|\n| Marque **2 jeux** | Inscrit **2 jeux** à son passif |\n\n---\n\n## Fin de partie\n\nLa partie se joue en **5 jeux** (gagnant d'un jeu = donneur du suivant). À 4 ou 6, on peut jouer par équipes.\n\n---\n\n## Pénalités\n\n| Faute | Conséquence |\n|-------|-------------|\n| Ne pas suivre alors qu'on le peut | Perd **1 jeu** |\n| Ne pas abattre sa triomphe au bon moment | Perd **1 jeu** |\n| Maldonne | Rebattre et redistribuer |\n\n---\n\n## Variante : l'As qui pille\n\nL'As devient la carte la plus forte. Si la retourne est un As, le donneur peut s'en emparer (on dit qu'il **pille**). Il retourne une nouvelle carte jusqu'à ce qu'elle ne soit plus une triomphe. L'adversaire peut faire de même avec l'As correspondant.\n"
+  },
+  {
+    "id": "trou-du-cul",
+    "title": "Le Trou du Cul",
+    "players": "4",
+    "cards": "54 (52 + joker + blanche)",
+    "goal": "Devenir Président (le premier à se défaire de toutes ses cartes)",
+    "playerMin": 4,
+    "playerMax": 4,
+    "cardCount": 54,
+    "category": "petit-groupe",
+    "color": "#34d399",
+    "sections": [
+      "Les 4 rôles",
+      "Ordre des cartes",
+      "La donne",
+      "Déroulement",
+      "Rotation"
+    ],
+    "excerpt": "",
+    "markdown": "# Le Trou du Cul\n\n**Nombre de joueurs :** 4\n**Nombre de cartes :** 54 (52 + joker + blanche)\n**But :** Devenir Président (le premier à se défaire de toutes ses cartes)\n\n---\n\n## Les 4 rôles\n\n| Rang | Rôle | Privilèges/Tâches |\n|------|------|-------------------|\n| 1er | **Président** | Tous les privilèges (exige le vouvoiement) |\n| 2e | **Vice-président** | Assis à gauche du Président |\n| 3e | **Trésorier** | En face du Président |\n| 4e | **Trou du cul** | Toutes les tâches (sert les autres) |\n\n---\n\n## Ordre des cartes\n\nJoker > Blanche > 2 > As > Roi > … > 3 (la plus basse).\n\n---\n\n## La donne\n\nLe trou du cul distribue. Il donne **2 cartes supplémentaires** au président (15 cartes). Le président n'a que **13 cartes**.\n\n### Échanges obligatoires\n\n- Le **trou du cul** donne ses **2 plus fortes cartes** au président, qui lui remet ses **2 plus basses**.\n- Le **trésorier** donne sa **plus forte carte** au vice-président, qui lui remet sa **plus basse**.\n\n---\n\n## Déroulement\n\n1. Le président joue le premier. Il se défausse d'**1 à 4 cartes de même valeur**.\n2. Le vice-président doit **battre** les cartes déposées ou **passer**.\n3. On continue tant que les joueurs peuvent battre les cartes.\n4. Quand tous passent, la main revient au **dernier qui a écarté**.\n\n> Le joker et la blanche battent à elles seules n'importe quelle combinaison. Le joker bat la blanche.\n\n---\n\n## Rotation\n\nÀ chaque donne, les joueurs **changent de place** selon leur nouveau statut. On ne compile pas de points.\n"
   },
   {
     "id": "vingt-et-un",
@@ -2737,16 +3428,16 @@ const CATEGORY_INFO = {
   "duo": {
     "label": "À deux",
     "color": "#60a5fa",
-    "count": 44
+    "count": 53
   },
   "petit-groupe": {
     "label": "3–4 joueurs",
     "color": "#34d399",
-    "count": 27
+    "count": 32
   },
   "grand-groupe": {
     "label": "5 joueurs +",
     "color": "#fb923c",
-    "count": 54
+    "count": 75
   }
 };
