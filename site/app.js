@@ -161,9 +161,13 @@ function createCard(game, depth) {
   card.dataset.gameId = game.id;
   card.style.setProperty('--card-color', game.color || 'var(--accent)');
 
-  const sectionsHTML = game.sections.slice(0, 5).map(s =>
+  const headings = gameSections(game.markdown);
+  const sections = (headings.length ? headings : game.sections).slice(0, 7);
+  const sectionsHTML = sections.map(s =>
     `<div class="card__section-item">${escapeHtml(s)}</div>`
   ).join('');
+
+  const teaser = (game.excerpt || '').trim();
 
   card.innerHTML = `
     <div class="card__accent"></div>
@@ -171,7 +175,7 @@ function createCard(game, depth) {
     <div class="card__stamp card__stamp--pass">Non</div>
     <div class="card__body">
       <h2 class="card__title">${escapeHtml(game.title)}</h2>
-      ${game.aliases ? `<div class="card__aliases">${escapeHtml(game.aliases)}</div>` : ''}
+      ${game.aliases && game.aliases !== game.title ? `<div class="card__aliases">${escapeHtml(game.aliases)}</div>` : ''}
       <div class="card__badges">
         <span class="badge badge--players">
           <span class="badge__dot"></span>
@@ -185,6 +189,12 @@ function createCard(game, depth) {
         <div class="card__goal-label">But du jeu</div>
         <div class="card__goal-text">${escapeHtml(game.goal)}</div>
       </div>
+      ${teaser ? `
+        <div class="card__teaser">
+          <div class="card__teaser-label">En bref</div>
+          <p class="card__teaser-text">${escapeHtml(teaser)}</p>
+        </div>
+      ` : ''}
       ${sectionsHTML ? `
         <div>
           <div class="card__sections-label" style="margin-bottom:8px">Au programme</div>
@@ -576,6 +586,39 @@ function stripMeta(md) {
   const firstSection = md.indexOf('## ');
   if (firstSection > 0) return md.substring(firstSection);
   return md;
+}
+
+// Isolate the "Règle courte" portion of a game's markdown
+function shortRuleSection(md) {
+  if (!md) return '';
+  const start = md.indexOf('## Règle courte');
+  if (start < 0) return '';
+  let end = md.indexOf('## Version longue', start);
+  if (end < 0) end = md.length;
+  return md.slice(start, end);
+}
+
+const SECTION_BLOCKLIST = /^(règle courte|version longue|histoire|historique|but|but du jeu|conseils?|introduction|préambule)$/i;
+
+// Real section titles for the card preview. Prefers the short-rule H3
+// sub-headings; falls back to the document's H2 headings.
+function gameSections(md) {
+  if (!md) return [];
+  let heads = [];
+  const seg = shortRuleSection(md);
+  if (seg) {
+    const re = /^###\s+(.+?)\s*$/gm;
+    let m;
+    while ((m = re.exec(seg))) heads.push(m[1]);
+  }
+  if (!heads.length) {
+    const re = /^##\s+(.+?)\s*$/gm;
+    let m;
+    while ((m = re.exec(md))) heads.push(m[1]);
+  }
+  return heads
+    .map(h => h.replace(/\s*\(.*?\)\s*$/, '').trim())
+    .filter(h => h && !SECTION_BLOCKLIST.test(h));
 }
 
 // --- Boot ---

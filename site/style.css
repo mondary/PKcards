@@ -302,6 +302,22 @@ body::after {
   line-height: 1.45;
 }
 
+/* Teaser (short-rule intro) */
+.card__teaser-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  margin-bottom: 5px;
+}
+.card__teaser-text {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-2);
+  line-height: 1.5;
+}
+
 /* Sections preview */
 .card__sections-label {
   font-size: 10px;
@@ -311,17 +327,20 @@ body::after {
   color: var(--muted);
 }
 .card__sections {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 12px;
 }
 .card__section-item {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 14px;
+  font-size: 13.5px;
   color: var(--text-2);
-  font-weight: 500;
+  font-weight: 600;
+  padding: 7px 10px;
+  background: var(--surface-2);
+  border-radius: 8px;
 }
 .card__section-item::before {
   content: '';
