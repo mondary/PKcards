@@ -1,85 +1,88 @@
 # La Mouche
 
-**Nombre de joueurs :** 3 à 6
-**Nombre de cartes :** 32 (3 joueurs) ou 52 (4 joueurs et +) + jetons
+**Nombre de joueurs :** 3 à 5
+**Nombre de cartes :** 52
 **Difficulté :** Difficile
 **Type :** Jeu de plis, Défausse, Hasard
 **But :** Faire des levées pour éviter d'être lourdement pénalisé
-**Autres noms :** La Mouche, Mistigri, Pamphile, Lanturlu, Bête
+**Autres noms :** La Mouche
 
 ---
 
-## Histoire
+## Règle courte
 
-Jeu pratiqué aux XVIIe et XVIIIe siècles dans les salons, issu de la **Triomphe**. Variantes connues : « Lustucru », « Pamphile », « Mistigri ».
+### Matériel
 
-## Ordre des cartes
+52 cartes. Ordre classique.
 
-**Roi, Dame, Valet, As, 10, 9, 8, 7, 6, 5, 4, 3, 2**
+### Distribution
 
----
+Le donneur distribue 5 cartes à chacun (2+3 ou 3+2). Il retourne la carte suivante = atout.
 
-## Mise en place
+### La Mouche
 
-1. Chaque joueur reçoit un nombre égal de jetons (100 ou 200).
-2. Le donneur distribue **5 cartes** par joueur (2 puis 3, ou 3 puis 2).
-3. Le donneur place **5 jetons** dans une corbeille : c'est la **« mouche »** (cagnotte).
-4. Il retourne la carte suivante → c'est l'**atout**.
+Si un joueur a 5 cartes de la même couleur → « a la mouche » → remporte seul la cagnotte. Pas de jeu de la carte.
 
----
+### Déroulement
 
-## Le tour de parole
+Le voisin gauche du donneur entame. Obligation :
+1. Fournir la couleur
+2. Couper à l'atout si pas la couleur
+3. Se défausser si ni couleur ni atout
 
-Le joueur à droite du donneur parle en premier :
+Le plus fort ou le plus fort atout remporte le pli.
 
-- **« Je passe »** → ne participe pas au coup (cartes posées face cachée).
-- **« J'écarte »** → échange des cartes contre de nouvelles du talon.
-- **« Je tiens »** → participe sans échanger.
+### Le Valet de Trèfle (Mistigri)
 
----
+Devient la carte la plus forte, surpasse tout, y compris le Roi d'atout.
 
-## Avoir la mouche
+### Compte des levées
 
-Si un joueur a **5 cartes de la même couleur** en main → il « a la mouche » et remporte seul le contenu de la cagnotte. Pas de jeu de la carte.
+Chaque levée = 1/5e de la mouche. Qui n'a fait aucune levée = « a fait la mouche » → verse dans la cagnotte autant de jetons que les autres ont reçu.
 
-> Les autres joueurs sont considérés comme ayant « fait la mouche » et subissent les pénalités.
+### Fin de partie
 
----
-
-## Jeu de la carte (si personne n'a la mouche)
-
-1. Fournir la couleur si possible.
-2. Couper avec un atout si on n'a pas la couleur.
-3. Se défausser si on n'a ni couleur ni atout.
-4. Le plus fort ou le plus fort atout remporte le pli.
+Parties de 50 ou 100 points (ou plus).
 
 ---
 
-## Compte des levées
+## Version longue
 
-Chaque levée vaut **1/5e de la mouche**.
+### Historique
 
-Les joueurs qui n'ont fait **aucune levée** ont **« fait la mouche »** et doivent verser dans la cagnotte autant de jetons que ce que les autres ont reçu.
+La Mouche, lointain dérivé de l'Hombre, est apparue au XVIIe siècle. Ce jeu s'est répandu à travers la France, prenant selon les régions les noms de Bête, Mistigri, Pamphille ou Lanturlu.
 
-### La mouche grandit
+### Matériel
 
-| Mouche | Jetons |
-|--------|--------|
-| Simple | 5 |
-| Double | 10 |
-| Triple | 15 |
-| Quadruple | 20 |
+Un jeu de 52 cartes, des jetons et une corbeille.
 
-À chaque manche, le donneur ajoute **5 jetons** dans la mouche.
+### Distribution des cartes
 
----
+On tire au sort le donneur. Dans le sens des aiguilles d'une montre, il distribue par deux puis par trois cinq cartes à chacun. La carte supérieure du talon restant est retournée, afin d'indiquer la Couleur de l'Atout. Lorsque la donne est terminée, il jette 3 jetons dans la corbeille (1 par joueur). Cette mise de base constitue la Mouche simple.
 
-## Fin de partie
+### Les annonces
 
-Quand tous les joueurs ont été donneurs un nombre équivalent de fois. Le gagnant est celui qui a le **plus de jetons**.
+Les joueurs doivent alors se prononcer sur la qualité de leur jeu, en fonction de la valeur de leurs cartes et de leur force en Atout, en commençant par le voisin de gauche du donneur. Chacun peut, si son jeu ne lui convient pas, annoncer « Je passe », et remettre ses cartes sous le talon. Il se retire du tour. Évidemment, si tout le monde a passé, on change de donneur et on procède à une nouvelle distribution.
 
----
+Lorsqu'un joueur s'estime bien servi, il peut conserver l'intégralité de son jeu ou demander au donneur l'échange d'une, deux, trois, quatre ou des cinq cartes de son jeu. Les cartes rejetées sont placées sous le talon, et les nouvelles prises sur le dessus. Cet échange n'est possible qu'une seule fois par tour.
 
-## Variante : Le Mistigri
+### Le jeu de la carte
 
-Le **Valet de Trèfle** (le « Mistigri ») devient la carte la plus forte et surpasse toutes les autres, y compris le Roi d'atout.
+Le voisin de gauche du donneur abat la première carte. Les suivants doivent jouer une carte de la même Couleur, d'une valeur plus élevée, si possible. Si l'on est démuni de cette Couleur, on doit couper avec un Atout, et si l'on est dépourvu d'Atout, se débarrasser d'une carte quelconque. Le joueur ayant produit la plus haute carte emporte le pli et commence la levée suivante.
+
+### La Mouche (la main de 5 cartes même couleur)
+
+Lorsqu'un joueur a 5 cartes de la même Couleur en main → il « a la mouche » et remporte seul le contenu de la cagnotte. Pas de jeu de la carte.
+
+Le Valet de Trèfle (le « Mistigri ») devient la carte la plus forte et surpasse toutes les autres, y compris le Roi d'atout.
+
+### Fin du coup
+
+Lorsque toutes les levées sont faites, les joueurs totalisent les points des cartes ramassées. Celui dont le total est le plus élevé ramasse la Mouche. Égalité → jetons restent dans la corbeille, attribués au tour suivant.
+
+Si un joueur n'a fait aucune levée, il est déclaré « capot » et verse dans la cagnotte 2 jetons.
+
+### Variantes
+
+- **À plus de 3 joueurs :** À 4, on ajoute les 6. À 5, on rajoute les 6 et les 5. À 6, on ajoute les 6, les 5 et les 4. Mouche simple = 1 jeton par joueur.
+- **Grand Opéra :** Si un joueur se débarrasse de toutes ses cartes avant que ses adversaires n'aient pu poser une seule carte → « Grand Opéra ». Ramasse toutes les mises du tableau.

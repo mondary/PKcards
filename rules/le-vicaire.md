@@ -11,15 +11,41 @@
 
 ## Règle courte
 
-Chaque pli vaut des points dans ce jeu de cartes classique mais fort intéressant, où la coupe se fait avec du cœur.
+### Matériel
+
+52 cartes. Ordre classique : As (fort) au 2. Coupes = cœur = atout.
+
+### Distribution
+
+Le donneur distribue 10 cartes à chaque joueur.
+
+### Déroulement
+
+Le joueur à droite du donneur entame. Obligation de fournir la couleur. Si impossible :
+- Couper avec un cœur (seul atout possible)
+- Surcouper si déjà coupé
+
+Le plus fort cœur ou la plus forte carte de la couleur gagne. Gagnant entame au suivant.
+
+### Score
+
+Chaque pli = 1 point. Manche = 10 plis.
+
+- Si un joueur fait les 10 plis → 10 points, gagne la partie.
+- Sinon → redistribuer. Premier à atteindre **exactement 10 pts** ou **multiple de 5 supérieur à 10** (15, 20, 25...) gagne.
+- Égalité → total le moins élevé gagne. Si égalité persistante → continuer.
+
+---
 
 ## Version longue
+
+### Historique
+
+Chaque pli vaut des points dans ce jeu de cartes classique mais fort intéressant, où la coupe se fait avec du cœur.
 
 ### Distribution des cartes
 
 Le donneur distribue dix cartes à chaque joueur.
-
-Chaque pli remporté vaut 1 point. Le jeu consiste à obtenir un total exact de 10 points à la fin d'un jeu, ou alors un nombre supérieur à 10 mais multiple de 5 (15, 20, 25, etc.).
 
 ### Début du jeu
 

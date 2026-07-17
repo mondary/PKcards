@@ -1,80 +1,62 @@
 # Le Nain Jaune
 
 **Nombre de joueurs :** 3 à 8
-**Nombre de cartes :** 52 + jetons (30 par joueur) + plateau
+**Nombre de cartes :** 52 (+ jetons)
 **Difficulté :** Moyenne
-**Type :** Défausse, Hasard
-**But :** Se débarrasser de ses cartes en formant des séries et en récupérant des jetons
-**Autres noms :** Nain Jaune, Lindor
+**Type :** Combinaisons, Défausse
+**But :** Se débarrasser de toutes ses cartes en formant des suites
+**Autres noms :** Le Nain Jaune
 
 ---
 
-## Histoire
+## Règle courte
 
-Anciennement connu comme le **Lindor** (déformation de « nain d'or » ?). Le **Nain Jaune** désigne le **7 de Carreau**.
+### Matériel
 
-## Ordre des cartes
+52 cartes + plateau (ou 5 cases) : ♦10, ♥J, ♠Q, ♣K, ♦7 (le Nain Jaune). Jetons pour mises.
 
-As, 2, 3, 4, 5, 6, 7, 8, 9, 10, Valet, Dame, Roi.
+### Distribution
 
----
+Chacun tire une carte → plus fort = donneur. Distribue :
+- 3 joueurs : 15 cartes
+- 4 joueurs : 12 cartes
+- 5 joueurs : 10 cartes
+- 6 joueurs : 8 cartes
+- 7 joueurs : 7 cartes
+- 8 joueurs : 6 cartes
+Le reste = talon.
 
-## Les « Belles Cartes »
+### Mise initiale
 
-5 cartes ont des mises associées :
+Chaque joueur mise :
+- 1 jeton sur ♦10
+- 2 sur ♥J
+- 3 sur ♠Q
+- 4 sur ♣K
+- 5 sur ♦7 (Nain Jaune)
 
-| Carte | Mise |
-|-------|------|
-| 10 de Carreau | 1 jeton |
-| Valet de Trèfle | 2 jetons |
-| Dame de Pique | 3 jetons |
-| Roi de Cœur | 4 jetons |
-| **7 de Carreau** (Nain Jaune) | **5 jetons** |
+### Déroulement
 
-Au début, chaque joueur pose ses jetons sur le plateau (ou sur les cartes correspondantes).
+Le joueur à gauche du donneur commence. Il pose une carte, puis la suivante de la même couleur (suite montante : As, 2, 3... Roi). Change de couleur quand il ne peut plus suivre.
 
----
+Les autres suivent la suite s'ils peuvent. Sinon → passent.
 
-## Distribution
+Si un joueur pose une carte qui correspond à une case du plateau → il gagne la mise de cette case.
 
-| Joueurs | Cartes par joueur |
-|---------|-------------------|
-| 3 | 15 |
-| 4 | 12 |
-| 5 | 9 |
-| 6 | 8 |
-| 7 | 7 |
-| 8 | 6 |
+### Cartes spéciales
 
-Le reste forme un talon mis de côté.
-
----
-
-## Déroulement
-
-1. Le joueur à droite du donneur commence.
-2. On pose des cartes en **séries ascendantes** (As → Roi), sans tenir compte de la couleur.
-3. À chaque carte, on annonce sa valeur : « six… sept… huit… ».
-4. Quand on ne peut plus continuer : on annonce **« sans [valeur suivante] ! »**.
-5. Le joueur suivant continue la série, ou en commence une nouvelle.
-
-### Récupérer les Belles Cartes
-
-Quand un joueur pose une des 5 cartes spéciales, il **ramasse les jetons** déposés dessus.
+- **Roi** : termine une suite. Le joueur rejoue (nouvelle suite).
+- **7 ♦ (Nain Jaune)** : Joker. Peut remplacer n'importe quelle carte. Ne rapporte pas sa mise.
 
 ### Fin de manche
 
-Quand un joueur se débarrasse de sa dernière carte : **« J'arrête ! »**
+Dès qu'un joueur n'a plus de cartes → manche finie. Les autres lui paient 1 jeton par carte restante.
 
----
+### Fin de partie
 
-## Compte des jetons
+Quand un joueur n'a plus de jetons → éliminé. Dernier en lice gagne.
 
-1. Chaque joueur verse au gagnant **1 jeton par carte restante**.
-2. Si un joueur garde une **Belle Carte** en main → il doit **doubler la mise** correspondante.
+### Variantes
 
----
-
-## Le Grand Opéra
-
-Si un joueur dépose **toutes ses cartes en une seule fois** au premier tour → il ramasse **tout le plateau**.
+- **Piquet** : 32 cartes, 3-5 joueurs.
+- **Carré de 7** : annule la donne.

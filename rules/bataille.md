@@ -1,7 +1,7 @@
-# Bataille
+# La Bataille
 
 **Nombre de joueurs :** 2 (ou +)
-**Nombre de cartes :** 52
+**Nombre de cartes :** 32 ou 52
 **Difficulté :** Facile
 **Type :** Hasard
 **But :** Posséder toutes les cartes du jeu
@@ -11,43 +11,77 @@
 
 ## Règle courte
 
-À deux, avec un jeu de 32 ou de 52 cartes. Chaque joueur tire une carte : la plus forte désigne le donneur, qui distribue ensuite toutes les cartes une à une ; chacun garde son paquet face cachée, sans le regarder. À tour de rôle, chaque joueur retourne la carte du dessus de son paquet : la plus forte remporte les deux cartes, qui passent sous le paquet du gagnant. Quand deux cartes de même valeur se rencontrent, il y a **bataille**. La partie se termine lorsqu'un joueur n'a plus de cartes.
+### Matériel et valeur
 
-## Version longue
+Jeu de 32 ou 52 cartes. Ordre : As (le plus fort) au 2.
 
-La Bataille est l'un des tout premiers jeux de cartes pratiqués en France. Jeu élémentaire, son succès ne s'est jamais démenti et il continue à faire la joie des petits et des grands.
+### Distribution
 
-### Matériel et joueurs
-
-- **Deux joueurs**, avec un jeu de **32 ou de 52 cartes**. Pour rendre la partie plus longue et plus passionnante, on peut même utiliser **deux jeux**.
-- Ordre décroissant des cartes : **A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3, 2**. La couleur n'importe pas.
-
-### But du jeu
-
-Faire prendre toutes ses cartes par son adversaire — autrement dit, remporter la totalité des cartes.
-
-### La donne
-
-Chaque joueur tire une carte du jeu : la **plus forte** désigne le premier **donneur**. Cartes battues et coupées, le donneur distribue **toutes les cartes, une à une**, jusqu'à épuisement du paquet. Chacun garde son paquet **sans le regarder ni le déranger**.
+Le joueur qui brasse distribue toutes les cartes aux deux joueurs en commençant par donner une carte à son adversaire. Les joueurs laissent les cartes face cachée.
 
 ### Déroulement
 
-Quand toutes les cartes sont distribuées, le second joueur prend la carte du dessus de son paquet, la retourne et la dépose sur le tapis. Son adversaire en fait autant. Celui qui a la **carte la plus forte** ramasse la levée (les deux cartes), la place **sous son paquet** et joue la carte suivante. La partie se termine quand l'un des joueurs ne possède plus de cartes.
+Les joueurs dévoilent en même temps une carte. Celui qui possède la carte ayant la plus haute valeur remporte la mise. Le gagnant remporte les deux cartes. Et on recommence.
 
 ### La bataille
 
-C'est le côté attrayant du jeu : il peut arriver que les deux joueurs retournent deux cartes de **même valeur**. Il y a alors **bataille**. Les joueurs déposent une deuxième carte, puis une troisième, voire davantage, jusqu'au moment où l'un d'eux dépose une carte **plus forte** que celle de son adversaire ; il lève alors toutes les cartes déposées durant la bataille.
+La bataille se produit lorsque deux cartes d'égale valeur se rencontrent. Ex: les deux joueurs sortent un Roi → bataille. À ce moment, les deux joueurs dévoilent toujours leurs cartes en même temps, mais ils doivent sortir une carte d'égale valeur de leur paquet, un Roi dans ce cas-ci, pour remporter toutes les cartes dévoilées dans cette bataille.
 
-## Variantes
+Le jeu se termine lorsqu'un des deux joueurs a remporté toutes les cartes.
 
-### Avec deux jeux de cartes
+### Pendant la partie
 
-On peut réunir deux jeux de cartes, ce qui a notamment pour effet de prolonger la partie.
+- Si, pendant une bataille, les deux joueurs dévoilent en même temps deux cartes identiques, ils les enlèvent du jeu. Ces cartes serviront à lancer une autre bataille une fois la première terminée.
+- Le hasard peut faire en sorte que les deux joueurs sortent deux Valets en même temps alors qu'ils se trouvaient dans une bataille en Valet. Comme il n'y a que quatre Valets dans un jeu de cartes, aucun des deux joueurs ne pourrait remporter cette bataille si on n'avait pas déjà prévu le coup. On enlèvera donc un de la valeur des cartes en litige pour continuer la bataille en 10, dans cet exemple. Si la bataille se fait en 2, on prendra l'As comme nouvelle valeur à trouver.
 
-### À trois ou quatre joueurs
+### Variantes
 
-On peut jouer à trois ou à quatre. Les batailles se font alors entre les joueurs qui déposent des cartes d'égale valeur, les autres se contentant de regarder. Il est préférable d'utiliser deux paquets pour cette partie.
+- Utiliser deux jeux de cartes → prolonge la partie.
+- Jouer à 3 ou 4 joueurs. Batailles entre joueurs qui déposent des cartes d'égale valeur. Les autres regardent. Préférable d'utiliser deux paquets.
+- Jouer en équipe si le cœur vous en dit.
 
-### En équipe
+---
 
-On peut aussi jouer en équipe.
+## Version longue
+
+### Historique
+
+L'invention de la Bataille remonterait au XVe siècle, en France. À cette époque, certains jeux de cartes comportaient des figures d'inspiration guerrière ou chevaleresque. Leur opposition évoquait sans ambiguïté possible les joutes moyenâgeuses. De nos jours, ce jeu très simple permet aux jeunes enfants de s'initier aux cartes, tout en leur procurant les vives émotions des jeux de hasard.
+
+### Matériel
+
+Un feu de 32 cartes, on un jeu de 52 cartes.
+
+### Valeur des cartes
+
+L'ordre habituel, l'As étant la plus forte carte.
+
+### Distribution des cartes
+
+Chaque joueur prend une carte au hasard dans le paquet disposé en éventail, face cachée. La plus forte désigne le donneur. Celui-ci bat le paquet, fait couper à son adversaire et distribue une à une toutes les cartes.
+
+### Déroulement de la partie
+
+Chacun dispose devant lui son tas de cartes, faces cachées sans regarder le jeu dont il dispose. Les deux joueurs découvrent en même temps la carte supérieure de leur tas. Le joueur ayant abattu la carte ayant la plus haute valeur ramasse la mise. Le gagnant remporte les deux cartes. Et on recommence.
+
+### La bataille
+
+La bataille se produit lorsque deux cartes d'égale valeur se rencontrent. Par exemple, si les deux joueurs sortent un Roi de leur paquet, il y a bataille. À ce moment, les deux joueurs dévoilent toujours leurs cartes en même temps, mais ils doivent sortir une carte d'égale valeur de leur paquet, un Roi dans ce cas-ci, pour remporter toutes les cartes dévoilées dans cette bataille.
+
+Le jeu se termine lorsqu'un des deux joueurs a remporté toutes les cartes.
+
+### Exemple
+
+Joueur A | Ordre de tirage des cartes | Joueur B
+« Bataille » | « Bataille » | « Bataille »
+
+Le joueur A gagne les six cartes étalées.
+
+### Pour donner quelque piquant à la partie
+
+- Dès qu'il y a Bataille, les deux joueurs tirent une carte de leur tas, et les posent à côté des deux premières, sans les dévoiler. Ils tirent ensuite une troisième carte, face découverte. Le joueur ayant abattu la plus forte ramasse toutes les cartes étalées. Il retourne les cartes cachées de la levée. C'est la surprise !
+- Dès qu'il y a Bataille, les deux joueurs tirent une carte de leur tas, et les posent à côté des deux premières, sans les dévoiler. Ils tirent ensuite une troisième carte, face découverte. Le joueur ayant abattu la plus forte ramasse toutes les cartes étalées. Il retourne les cartes cachées de la levée. C'est la surprise !
+
+### Fin de la partie
+
+La partie prend fin dès que l'un des joueurs a rassemblé dans son talon toutes les cartes du jeu.

@@ -1,115 +1,106 @@
 # Le Reversi
 
-**Nombre de joueurs :** 4 (chacun pour soi)
-**Nombre de cartes :** 48 (jeu de 52 sans les quatre 10) + jetons et fiches
+**Nombre de joueurs :** 4
+**Nombre de cartes :** 48 (sans les 10)
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Combinaisons, Défausse
-**But :** Faire le **moins** de points possible dans ses levées, ou réaliser toutes les levées (le reversi)
-**Autres noms :** Reversis
+**Type :** Jeu de plis, Combinaisons
+**But :** Faire le moins de levées possible, ou au contraire toutes les levées
+**Autres noms :** Le Reversi
 
 ---
 
 ## Règle courte
 
-À quatre joueurs, avec **48 cartes** (52 privées des quatre 10). Les figures et As valent des points (As 4, Roi 3, Dame 2, Valet 1, cartes numérales 0 : 40 points en jeu) et **le but est d'en ramasser le moins possible**. Le donneur distribue **11 cartes** à chacun et **12 à lui-même** ; il reste **3 cartes** au talon pour les écarts. Chacun peut écarter (le donneur ajoute une de ses cartes aux écarts) : les quatre cartes écartées forment **« la Partie »**, et tout le monde se retrouve à 11 cartes.
+### Matériel
 
-On joue les plis en fournissant la couleur (sinon on se défausse). **Le joueur qui a le moins de points gagne le coup** et est payé par celui qui en a le plus. Deux grandes chances renversent la logique : le **Reversi** (faire toutes les levées) et les combinaisons du **quinola** (Valet de cœur) et de l'**espagnolette**. De nombreux paiements en fiches ponctuent le coup selon les As, le carreau et le quinola joués.
+48 cartes (sans 10). Ordre : As, Roi, Dame, Valet, 9, 8, 7, 6, 5, 4, 3, 2. Pas d'atout.
+
+### Distribution
+
+Chacun tire une carte → plus faible = donneur. Chaque joueur verse 10 jetons dans la cagnotte, donneur = 20. Donneur bat, fait couper par voisin gauche, distribue 11 cartes à chaque adversaire, 12 à lui-même. Talon = 3 cartes (la « partie »).
+
+### Échange
+
+Chacun, dans l'ordre de distribution, a droit (mais pas obligation) d'échanger 1 de ses cartes contre 1 carte du talon. Donneur rejette 1 carte. Chacun se retrouve avec 11 cartes. Talon = 4 cartes.
+
+### Annonces
+
+Les deux joueurs à gauche et à droite du donneur = « Chanteurs ». Ils posent leurs 6 plus faibles cartes dans le nouveau talon, puis annoncent leur jeu par signes à leur partenaire.
+
+Si une équipe croit ses 2 jeux réunis trop faibles → accorde le point aux adversaires sans jouer.
+
+### Déroulement
+
+Le voisin gauche du donneur entame. Il peut jouer faible (adversaires surenchérissent) ou forte (personne ne surenchérit). La plus forte carte gagne le pli. Égalité → levée annulée (« pourrie »), 4 cartes au talon, 1er des égaux entame suivant.
+
+### Score
+
+Fin de manche : 1 point à l'équipe du joueur ayant fait le plus de plis. Égalité plis → total plis équipe.
+
+Partie en 5 points.
+
+### Cartes particulières
+
+| Carte | Nom | Valeur | Signe |
+|-------|-----|--------|-------|
+| 3♦ | Le Monsieur | La plus forte | Lever les yeux au ciel |
+| 3♥ | La Madame | 2ème | Balancer la tête gauche-droite |
+| 2♦ | Le Borgne | 3ème | Cligner de l'œil |
+| 2♥ | La Vache | 4ème | Visage d'enfant triste |
+| 9♥ | Grand Neuf | 5ème (double fort) | Lever le pouce |
+| 9♦ | Petit Neuf | Double | Lever le petit doigt |
+| 2♣ | Deux de Chêne | Double | Index + majeur |
+| 2♠ | Deux d'Écrit | Double | Montrer l'annulaire |
+
+As = même valeur. Ouvrir la bouche = nb d'As.
+
+### Variantes
+
+**La Mordienne :** 10 manches au lieu de 5. Ne pas faire de plis aux 5-7 premiers tours, ramasser les 2-4 derniers. Annoncer le nombre de plis visés avant chaque manche. Mordienne réussie = 2 points.
+
+**Mordienne ajoutée :** Après la donne, l'annoncer + nb plis visés (2-4). Si possible → jeu en 10 manches. Mordienne réussie = 2 points à l'équipe.
+
+---
 
 ## Version longue
 
-### Histoire
+### Historique
 
-Le Reversi (ou **Reversis**) est l'un des tout premiers jeux de cartes pratiqués en France : dès le **XVIe siècle**, on y joue partout, de la cour aux tavernes, et Henri IV en témoigne dans une lettre de 1601. Il resta à la mode près de trois siècles. Le jeu vient sans doute d'**Espagne** : le personnage le plus important, le **quinola**, tient son nom de l'espagnol *quinola* (l'écuyer accompagnant les grandes dames au XVIe siècle) et désignait alors le Valet de cœur. Le nom de Reversi vient de l'italien *rovescio* (envers). Hérissé de complications, ce jeu exige une attention très soutenue et se trouve à l'origine des règles de bien d'autres jeux.
+Ce jeu ancien se joue avec des cartes particulières. Par contre, puisque ce livre traite des cartes en général, nous avons quelque peu modifié le jeu de l'aluette pour qu'il se pratique avec des cartes ordinaires.
 
-### Matériel : la boîte du Reversi
+### Symbolisme des couleurs
 
-C'est une boîte contenant, au centre, un **panier rond** entouré de **quatre petits paniers carrés** :
+- Trèfle = Bâtons (arme des paysans)
+- Carreau = Deniers (argent des marchands)
+- Pique = Épée (nobles)
+- Cœur = Calice (prêtres)
 
-- Le panier rond recueille **la remise**.
-- Chaque petit panier contient **5 jetons** (valant chacun 5 fiches), **10 contrats** (valant chacun 50 fiches) et **20 fiches**, soit une valeur totale de **545 fiches** par panier, d'une **couleur différente** pour chacun (par exemple 545 rouges, 545 vertes, 545 blanches, 545 noires). On fixe la valeur des fiches avant d'entreprendre la partie.
+### Distribution détaillée
 
-### Ordre et valeur des cartes
+Au premier tour, celui qui tire la plus forte carte devient le donneur. Il distribue ensuite neuf cartes, trois à la fois, à chaque joueur. Les douze cartes restantes formant le talon. Si un joueur se rend compte qu'il n'a aucune carte de valeur, il peut échanger son jeu contre les neuf premières cartes du talon.
 
-Le rang de force suit l'ordre habituel : As, Roi, Dame, Valet, 9, 8, 7, 6, 5, 4, 3, 2 (pas de 10). Pour le décompte des points :
+Une fois cette première donne réalisée, celui qui distribue les cartes partage le talon entre son partenaire et son adversaire de gauche, joueurs qui deviennent des « Chanteurs ». Ceux-ci doivent maintenant annoncer leur jeu. Mais avant, ils placent les six cartes les plus faibles de leur jeu dans le nouveau talon.
 
-- les **As** valent **4 points** chacun ;
-- les **Rois** : **3 points** ;
-- les **Dames** : **2 points** ;
-- les **Valets** : **1 point** ;
-- les **cartes numérales** : **sans valeur**.
+Pour annoncer, les joueurs d'une équipe doivent se faire des signes afin de connaître leur jeu commun. Si une équipe croit que ses deux jeux réunis sont trop faibles, elle peut accorder le point à ses adversaires sans jouer la manche.
 
-Au total, **40 points** sont en jeu.
+### Déroulement détaillé
 
-### Tirage des places et du donneur
+Le premier joueur, situé à gauche du donneur, commence à jouer. Il peut jouer une carte de faible valeur, et ses adversaires peuvent à leur tour augmenter la valeur de cette carte par une figure ou un As ou poser un double ou une aluette. Si un joueur dévoile une forte carte, personne n'a à faire de surenchère.
 
-On place chaque petit panier devant une face de la table (donc deux à deux, en vis-à-vis). Chaque joueur prend une fiche de couleur différente et la dépose dans le panier rond, puis chacun en puise une **sans regarder** : la couleur tirée l'oblige à s'installer devant le petit panier de cette couleur. Un joueur bat ensuite les cartes, partage le paquet en quatre parts à peu près égales et en remet une à chacun ; **celui qui trouve le quinola dans son paquet devient le donneur**.
+Le joueur ayant déposé la plus forte carte remporte le pli. C'est lui qui rejoue en premier au tour suivant. À la fin de la manche, on donne un point à l'équipe du joueur qui a fait le plus de plis. S'il y a autant de plis chez deux joueurs opposés, on compte le nombre de plis total des équipes.
 
-### Mises
+Notez qu'il est possible qu'un tour soit annulé si deux cartes de même valeur remportent un pli.
 
-- **Premier coup** : avant la donne, chaque joueur dépose **2 jetons** dans le panier rond, et le **donneur 3**.
-- **Coups suivants** : seul le **donneur** met **1 jeton** au panier — sauf si le panier est vide, auquel cas on recommence comme au premier coup (trois joueurs à 2 jetons, le donneur à 3).
+Le jeu s'achève lorsqu'une équipe a obtenu 5 points.
 
-### La donne
+### Les cartes et leurs signes
 
-La donne circule toujours vers la **droite**, le premier à jouer étant le joueur assis à la droite du donneur. Ce dernier distribue **11 cartes** à chacun mais **12 pour lui-même**, en trois fois : une fois par trois (mais **quatre au donneur**), puis deux fois quatre à chacun. Le donneur dispose donc de 12 cartes et les trois autres de 11, soit 45 cartes distribuées.
+Il n'y a que 48 cartes dans ce jeu. Elles se divisent en quatre séries de douze : As, Roi, Dame, Valet, 9, 8, 7, 6, 5, 4, 3, 2. Il n'y a donc pas de 10 dans ce jeu.
 
-### Les écarts et « la Partie »
+Les quatre premières sont des aluettes (valent plus que toute autre carte). Les autres sont des doubles (si on en dépose une, c'est comme si on en montrait deux). Les As forment les plus fortes cartes parmi celles qui n'ont pas de rôle particulier. Dans le jeu de l'aluette, on peut aussi se faire des signes entre coéquipiers pour indiquer lesquelles se trouvent dans son jeu.
 
-Le **talon de trois cartes** est réservé aux écarts : la première revient au premier joueur, la deuxième au second, la troisième au dernier ; le **donneur est obligé d'écarter une carte** de son jeu **sans en reprendre**.
+### La Mordienne
 
-Les joueurs **ne sont pas obligés d'écarter** s'ils estiment leur jeu valable. On admet quelquefois que celui qui n'écarte pas a néanmoins le droit de **regarder** la carte qu'il aurait pu prendre. Une fois les écarts terminés, les **quatre cartes écartées** (les trois du talon + celle du donneur) forment **« la Partie »** et se placent sous le panier rond ; chacun possède alors **11 cartes**.
+Se joue en dix manches au lieu de cinq. Le jeu consiste à ne pas faire de plis aux cinq, six ou sept premiers tours et à ramasser les deux, trois ou quatre derniers plis. Il faut cependant annoncer le nombre de plis réalisés avant chaque manche.
 
-Dans les cartes de la Partie, les valeurs restent les mêmes, sauf que l'**As de carreau vaut 5 points** et le **quinola 4 points**. Comme ces cartes écartées sont le plus souvent sans valeur, on y ajoute **4 points**, afin que celui qui gagne la Partie ait tout de même des points à marquer.
-
-### Le jeu de la carte
-
-Les cartes se jouent comme à l'ordinaire :
-
-1. On doit **fournir la couleur** demandée (pas d'obligation de monter).
-2. À défaut de la couleur, on **se défausse** de la carte de son choix.
-3. Le plus fort de la couleur demandée remporte le pli.
-
-**Le joueur qui fait le moins de points gagne le coup** et est payé par celui qui en fait le plus. À égalité de points, le gagnant est celui qui a fait **le moins de levées** ; à égalité de points et de levées, c'est celui qui occupe la **meilleure place** qui gagne : le donneur d'abord, puis, au fur et à mesure, les joueurs assis à sa droite.
-
-En dehors des chances, et si aucun reversi n'est joué, on fait à la fin du coup le total des points des levées : celui qui en a le moins gagne, celui qui en a le plus lui remet le nombre de fiches convenu comme bénéfice.
-
-### Les chances
-
-- **Reversi** : faire **toutes les levées**.
-- **Quinola** (Valet de cœur) : la plus forte carte du jeu.
-- **Espagnolette** : réunion, dans la même main, du quinola et de trois As, ou réunion des quatre As.
-
-### Le reversi
-
-La Partie ne se compte pas lorsqu'un joueur fait, à lui seul, **toutes les levées** : il fait alors **reversi**. Celui qui réussit le reversi tire **la remise** (contenu du panier rond) et reçoit, en outre, **16 jetons de chacun des trois autres joueurs**, le paiement du **vis-à-vis** (le joueur assis en face) étant **doublé à 32 jetons**.
-
-Le reversi est entrepris par le joueur qui fait les **premières levées**, mais il est **rompu** si ce joueur ne réussit pas les **deux dernières levées**. En ce cas, il fait **la bonne** et doit verser au panier rond un montant **égal à la remise** qui s'y trouve déjà.
-
-### Le quinola
-
-Celui qui peut jouer le quinola **après une renonce** sur une carte d'une autre couleur (parce qu'il n'a pas cette couleur) **gagne la remise**. Mais s'il est **forcé de mettre son quinola sur un cœur**, il **paie la remise**.
-
-Si un joueur fait ou manque le reversi et qu'un autre place son quinola (ou un quinola forcé), celui-ci **ne tire ni ne fait la remise**, et le quinola redevient un simple Valet.
-
-### L'espagnolette
-
-Son possesseur a le droit de **renoncer pendant les neuf premières levées**, c'est-à-dire de se défausser à sa guise sans fournir la couleur. Il lui est dès lors assez facile de **placer son quinola** (s'il l'a dans son espagnolette) et de tirer la remise ; en jouant habilement, il peut aussi gagner la Partie. Il ne peut cependant **pas renoncer à la bonne** : si par hasard il devait faire l'une des deux dernières levées, il **perdrait la Partie**, même sans aucun point dans sa levée, et devrait la payer au gagnant.
-
-### Paiements divers en cours de jeu
-
-- Le joueur qui abat un **As en renonce** reçoit **1 fiche** de celui qui fait la levée ; **2 fiches** pour l'**As de carreau** ; **5 fiches** pour un **quinola**.
-- Celui à qui **on force un As** paie **1 fiche** à celui qui le force, **2 fiches** si c'est l'As de carreau.
-- Celui qui **force le quinola** a droit à **5 fiches de chacun** des autres joueurs et à **10 fiches** de celui dont il a forcé le quinola.
-- Les **paiements sont doublés en vis-à-vis**, c'est-à-dire lorsque l'opération se fait entre deux joueurs assis face à face.
-- Certains admettent qu'en cas de **reversi réussi**, tous les paiements faits pendant le coup soient **remboursés**.
-
-## Conseils
-
-- Le possesseur de l'**espagnolette** doit exploiter son droit de renoncer durant les neuf premières levées pour **placer son quinola** et tirer la remise, tout en veillant à **ne pas faire l'une des deux dernières levées** (la bonne), qui lui ferait perdre la Partie.
-
-## Règles spéciales
-
-- **Gagne la Partie** le joueur qui n'a fait **aucune levée** ou **aucun point** dans ses levées ; celui qui totalise le plus de points la **perd** et la paie au gagnant.
-- Le **quinola forcé sur un cœur** fait payer la remise à celui qui le pose.
-- **Pénalités de maldonne** : le donneur qui fait maldonne perd le bénéfice de la donne, à moins qu'il ne consente à mettre **un jeton** au panier (5 fiches). S'il ne s'aperçoit pas de son erreur, ou si un autre joueur la lui signale une fois les écarts faits, il dépose **quatre jetons** (20 fiches) au panier.
-- **Écart irrégulier** : le joueur qui, ayant pris une carte d'écart, **n'écarte pas**, paie la remise au panier et **le coup est arrêté**.
+Ajoutez la Mordienne au jeu normal. Après la donne, annoncez-la, ainsi que le nombre de plis que vous comptez réaliser (de deux à quatre). Si vous avez la possibilité d'appeler la Mordienne, faites le jeu en dix manches. Une Mordienne donnera deux points à l'équipe qui l'aura réussie.

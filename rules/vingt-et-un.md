@@ -1,84 +1,121 @@
 # Le Vingt-et-un
 
-**Nombre de joueurs :** un banquier et un nombre indéterminé de pontes
-**Nombre de cartes :** 52 (un jeu pour quatre personnes ; plusieurs jeux si nécessaire) + jetons
-**Difficulté :** Facile
+**Nombre de joueurs :** 2 à 12
+**Nombre de cartes :** 52 (ou plus selon le nombre de joueurs) + jetons
+**Difficulté :** Moyenne
 **Type :** Hasard
-**But :** Faire 21 points avec deux ou plusieurs cartes, ou s'en approcher davantage que le banquier sans dépasser 21.
+**But :** Avoir 21 points ou s'en approcher le plus possible sans les dépasser
 **Autres noms :** Vingt-et-Un, Blackjack, 21, Pontoon
 
 ---
 
 ## Règle courte
 
-Le banquier donne deux cartes à chaque ponte et s'en donne deux. Figures = 10, As = 1 ou 11, autres cartes à leur valeur. Chaque ponte annonce s'il joue (et mise) ou s'il passe, puis peut se tenir ou demander des cartes une à une sans dépasser 21 (sinon il « crève » et perd sa mise). Le banquier complète son jeu en dernier : s'il crève, il paie le double à tous ; sinon il ramasse les mises des points inférieurs et double celles des points supérieurs. Qui fait 21 avec ses deux premières cartes touche le double. La banque passe au voisin de droite après un tour.
+### Matériel
+
+52 cartes + jetons. Valeurs : As = 1 ou 11, Figures/10 = 10, 2-9 = valeur faciale.
+
+### Préparation
+
+Chaque joueur reçoit un nombre égal de jetons. Le banquier (donneur) tiré au sort, ne mise pas.
+
+### Déroulement
+
+**Mises :** Chaque joueur pose sa mise.
+
+**Distribution :** 2 cartes par joueur (1ère cachée, 2nde visible). Banquier aussi (1 cachée, 1 visible).
+
+**Étape 1 - 21 immédiat :**
+- Joueur a 21 → montre, banquier verse l'équivalent de la mise (doubler), joueur sort.
+- Banquier a 21 (« naturel ») → ramasse toutes les mises.
+
+**Étape 2 - Personne n'a 21 :**
+Joueur à gauche du banquier parle :
+- « Je reste » → satisfait, passe
+- « Je tire » / « Carte » → demande une carte
+
+| Résultat | Conséquence |
+|----------|-------------|
+| 21 points | Banquier verse l'équivalent de la mise, joueur sort |
+| Plus de 21 (« crevé ») | Banquier ramasse la mise, joueur éliminé |
+| Moins de 21 | Peut « rester » ou continuer à tirer |
+
+**Étape 3 - Le banquier joue :**
+Retourne sa carte cachée, décide de tirer ou non.
+
+| Résultat banquier | Conséquence |
+|-------------------|-------------|
+| 21 points | Ramasse toutes les mises restantes |
+| Moins de 21, « reste » | Compare : verse à ceux qui ont plus, ramasse à ceux qui ont moins |
+| Plus de 21 | Verse l'équivalent de la mise à chaque joueur restant |
+| Égalité | Joueur récupère sa mise |
+
+---
 
 ## Version longue
 
-### Origine
+### Historique
 
-Le Vingt-et-Un est un jeu des plus populaires et des plus amusants. Il suscita en France un engouement extraordinaire dès le XVIIIe siècle : on assure que Marie-Antoinette comme Napoléon s'y adonnaient volontiers. Sous la Révolution française, il se jouait dans de nombreux tripots et permit à maints escrocs de s'enrichir aux dépens de quelques pontes naïfs. De nos jours, il compte toujours une foule de fervents dans toute l'Europe.
+Ancêtre du **Black Jack**, jeu de casino universellement pratiqué. Le Vingt-et-un est une version simplifiée, agréable à jouer entre amis.
 
-### Les joueurs et les cartes
-
-Le Vingt-et-Un se joue entre un banquier et un nombre indéterminé de pontes. On utilise un ou plusieurs jeux de cinquante-deux cartes selon le nombre de joueurs ; en tout cas, un jeu pour quatre personnes. On se sert de préférence de jetons dont on détermine la valeur avant d'entamer la partie.
-
-Valeur des cartes :
+### Valeur des cartes
 
 | Carte | Points |
 |-------|--------|
-| As | 1 ou 11, au gré de son détenteur |
-| Roi, Dame, Valet | 10 |
-| Cartes numérales | Valeur nominale |
+| As | 1 ou 11 (au choix) |
+| Roi, Dame, Valet, 10 (« bûches ») | 10 |
+| 2 à 9 | Valeur faciale |
 
-La couleur n'a guère d'importance.
+### Préparation
 
-### La donne
+- Chaque joueur reçoit un nombre égal de **jetons**.
+- Le **banquier** (donneur) est tiré au sort. Il ne mise pas.
 
-Le sort désigne le premier banquier, qui donne une par une deux cartes à chaque ponte et en prend deux pour lui.
+### Déroulement détaillé
 
-### Le tour des pontes
+#### Les mises
+Chaque joueur pose sa **mise** devant lui avant la distribution.
 
-Chaque ponte, en commençant par le voisin de droite du banquier, annonce s'il joue ou s'il passe.
+#### La distribution
+1. Le banquier distribue **2 cartes** par joueur :
+   - La **1ère face cachée**, la **2nde face visible**.
+2. Le banquier reçoit aussi 2 cartes (une cachée, une visible).
 
-S'il joue, il dépose son enjeu. Il peut ensuite dire qu'il se tient — ce qui laisse présager que ses deux cartes réunissent soit 21 points, soit un nombre très approchant. Il peut aussi demander une ou plusieurs cartes : le banquier les lui donne une à une, découvertes. Si, en prenant ces cartes supplémentaires, il dépasse 21, il annonce qu'il crève et il perd son enjeu.
+#### Étape 1 : Un joueur a 21 points
+Si un joueur a **21** dès la distribution → il montre son jeu, le banquier lui verse l'équivalent de sa mise (**doubler**), et il sort du jeu.
 
-### Le tour du banquier
+Si le banquier a 21 (« naturel ») → il ramasse toutes les mises.
 
-Quand tous les pontes sont servis, le banquier complète à son tour son jeu.
+#### Étape 2 : Personne n'a 21
+Le joueur à gauche du banquier parle :
+- **« Je reste »** → satisfait de son total, passe la parole.
+- **« Je tire » / « Carte »** → demande une carte supplémentaire.
 
-- S'il crève, il double la mise de tous les pontes qui n'ont pas crevé.
-- S'il n'a pas crevé, il étale ses cartes ainsi que tous les joueurs restant en jeu, et ramasse les enjeux de ceux qui ont moins de points que lui.
-- Il ne paie rien à ceux qui ont les mêmes points que lui et ne touche rien d'eux : c'est ce qu'on appelle payer en cartes.
-- Il doit doubler la mise de ceux qui ont plus de points que lui.
+**3 résultats possibles après tirage :**
+| Résultat | Conséquence |
+|----------|-------------|
+| **21 points** | Banquier verse l'équivalent de la mise, joueur sort |
+| **Plus de 21** (« crevé ») | Banquier ramasse la mise, joueur éliminé |
+| **Moins de 21** | Peut « rester » ou continuer à tirer |
 
-### Le vingt-et-un naturel
+#### Étape 3 : Le banquier joue
+Il retourne sa carte cachée et décide de tirer ou non.
 
-Le ponte qui fait vingt et un avec ses deux premières cartes abat son jeu et reçoit le double de sa mise. On admet généralement qu'il peut abattre son jeu avant que le banquier n'ait pris des cartes supplémentaires.
+| Résultat du banquier | Conséquence |
+|----------------------|-------------|
+| **21 points** | Ramasse toutes les mises restantes |
+| **Moins de 21, « reste »** | Compare avec chaque joueur : verse à ceux qui ont plus, ramasse à ceux qui ont moins |
+| **Plus de 21** | Verse l'équivalent de la mise à chaque joueur restant |
+| **Égalité** | Le joueur récupère sa mise |
 
-Si le banquier fait vingt et un avec ses deux premières cartes, sa chance annule celle des pontes qui auraient ce point, et les autres doivent lui payer le double de leur mise.
+---
 
-### La banque
+## Variantes : Le Black Jack
 
-Le banquier ne tient la banque qu'une fois. La partie terminée, son voisin de droite prend sa place.
-
-## Règles spéciales
-
-- « Payer en cartes » : en cas d'égalité de points entre le banquier et un ponte, il n'y a ni gain ni perte pour ce ponte.
-- Un ponte peut abattre son vingt-et-un naturel avant même que le banquier ne se serve.
-- Le vingt-et-un naturel du banquier prime celui des pontes ayant le même point.
-
-## Variantes
-
-### Le Vingt-et-un au point
-
-Autrefois, on jouait aussi le Vingt-et-un au point : le banquier ne donnait qu'une carte. Celle-ci comptait d'office pour 10 points, auxquels on ajoutait sa valeur réelle. Ainsi un Roi valait 10 + 10 points, un 7 valait 10 + 7, etc. Celui qui recevait un As avait d'emblée 21 (10 + 11). Toutefois, la carte suivante que le banquier distribuait ou prenait pour lui ne figurait que pour sa valeur marquée. C'était, en somme, un jeu de Vingt-et-un extrêmement simplifié.
-
-### Le Black Jack (version casino)
-
-- Un croupier professionnel tient la banque (et non un joueur).
-- Le croupier doit tirer tant qu'il a 16 et rester à 17.
-- Les cartes sont distribuées depuis un sabot (jusqu'à 8 jeux mélangés).
-- L'assurance est possible lorsque la carte visible du croupier est un As.
-- Le split (dédoubler) est possible avec deux cartes de même hauteur.
-- Le double permet de doubler sa mise en ne recevant plus qu'une seule carte.
+La version casino :
+- Un **croupier** professionnel tient la banque (pas un joueur).
+- Le croupier **doit tirer à 16** et **rester à 17**.
+- Les cartes viennent d'un **sabot** (jusqu'à 8 jeux mélangés).
+- **Assurance** possible si la carte visible du croupier est un As.
+- **Split** (dédoubler) possible avec deux cartes de même hauteur.
+- **Double** : doubler sa mise mais ne recevoir qu'une seule carte.

@@ -1,114 +1,123 @@
 # L'Aluette (La Vache)
 
 **Nombre de joueurs :** 4 (2 équipes de 2)
-**Nombre de cartes :** 48 (jeu de 52 dont on a retiré les quatre 10)
+**Nombre de cartes :** 48 (sans les 10)
 **Difficulté :** Difficile
 **Type :** Jeu de plis, Combinaisons
-**But :** Remporter le plus de manches en faisant le plus de levées
+**But :** Atteindre 5 points en remportant des levées
 **Autres noms :** Aluette, La Vache
 
 ---
 
 ## Règle courte
 
-L'Aluette est un vieux jeu espagnol qui se joue à **quatre, par équipes de deux** (les coéquipiers sont assis en croix). On utilise 48 cartes dont l'ordre de force est particulier et sans rapport avec les valeurs habituelles. Chaque joueur reçoit **neuf cartes** et l'on joue **neuf levées** ; la levée revient à qui pose la plus forte carte. La partie se joue en **cinq manches** : la manche est gagnée par l'équipe du joueur ayant fait le plus de levées, et l'équipe qui totalise le plus de manches gagne. Les coéquipiers se communiquent la valeur de leurs cartes par des **mimiques** discrètes, et l'on peut **annuler** une levée en jetant une carte aussi forte que celle de l'adversaire.
+### Matériel et ordre des cartes
+
+Jeu de 48 cartes (sans 10). Ordre particulier (décroissant) :
+
+**Cartes d'Aluette (les plus fortes) :**
+1. Le Monsieur = 3♦
+2. La Madame = 3♥
+3. Le Borgne = 2♦
+4. La Vache = 2♥
+
+**Cartes de double :**
+5. Le Grand Neuf = 9♥
+6. Le Petit Neuf = 9♦
+7. Le Deux de Chêne = 2♣
+8. Le Deux d'Écrit = 2♠
+
+**Cartes moyennes :** As, Rois, Dames, Valets
+**Cartes basses :** 9 restants, 8, 7, 6, 5, 4, 3 restants
+
+### Mise en place
+
+Le donneur distribue 9 cartes à chacun (3 par 3). 12 cartes au talon.
+Si un joueur n'a aucune carte de valeur, il peut échanger son jeu contre les 9 premières du talon.
+Le talon est partagé entre le partenaire et l'adversaire de gauche → deviennent les « Chanteurs ».
+Les Chanteurs posent leurs 6 plus faibles cartes dans le nouveau talon et annoncent leur jeu par signes.
+
+### Déroulement
+
+Le voisin de gauche du donneur entame. On peut jouer une carte faible (les adversaires surenchérissent) ou une forte (personne ne surenchérrit, sauf double/aluette).
+La plus forte carte gagne la levée et rejoue.
+À la fin : 1 point à l'équipe ayant le plus de levées. Égalité → total des levées d'équipe.
+Si deux cartes égales gagnent → levée annulée.
+
+### Signes (mimiques)
+
+| Carte | Signe |
+|-------|-------|
+| Le Monsieur (3♦) | Lever les yeux au ciel |
+| La Madame (3♥) | Balancer la tête gauche-droite |
+| Le Borgne (2♦) | Cligner de l'œil |
+| La Vache (2♥) | Visage d'enfant triste |
+| Grand Neuf (9♥) | Lever le pouce |
+| Petit Neuf (9♦) | Lever le petit doigt |
+| Deux de Chêne (2♣) | Index + majeur |
+| Deux d'Écrit (2♠) | Montrer l'annulaire |
+| As | Ouvrir la bouche (autant de fois que d'As) |
+
+### Variantes
+
+- **La Mordienne :** 10 manches au lieu de 5. Ne pas faire de plis aux 5-7 premiers, ramasser les 2-4 derniers. Annoncer le nombre de plis visés. Mordienne réussie = 2 points.
+- Mordienne ajoutée au jeu normal : l'annoncer + nombre de plis (2-4). Donne 2 points.
+
+---
 
 ## Version longue
 
-### Matériel
+### Historique
 
-On utilise les **48 cartes** qui restent d'un jeu de 52 dont on a enlevé les quatre 10. On se sert de préférence de **cartes espagnoles**, où les coupes, les épées, les deniers et les bâtons remplacent nos cœurs, piques, carreaux et trèfles ; on peut cependant jouer aisément avec des cartes françaises, comme on le fait dans quelques régions du sud-ouest de la France.
+Ce jeu ancien se joue avec des cartes particulières (Coupes, Épées, Deniers, Bâtons). Pour qu'il se pratique avec des cartes ordinaires, on a modifié l'Aluette. Il fut introduit en France dès la fin du Moyen Âge, mais n'est plus pratiqué aujourd'hui que dans l'Ouest du pays. Son nom viendrait du mot celte « Aluët » signifiant « trompé ». C'est dire l'esprit du jeu !
 
-La seule difficulté vient du fait que les valeurs attribuées aux cartes sont tout à fait différentes de celles auxquelles on est habitué. Pour les premières parties, on peut inscrire sur les cartes leur dénomination et leur valeur ; quelques parties suffisent à retenir ces dénominations.
+### Ordre complet des cartes
 
-### Ordre de force des cartes (décroissant)
+1. Le Monsieur (3♦)
+2. La Madame (3♥)
+3. Le Borgne (2♦)
+4. La Vache (2♥)
+5. Le Grand Neuf (9♥)
+6. Le Petit Neuf (9♦)
+7. Le Deux de Chêne (2♣)
+8. Le Deux d'Écrit (2♠)
+9. Les quatre As
+10. Les quatre Rois
+11. Les quatre Dames
+12. Les quatre Valets
+13. Les deux 9 restants
+14. Les quatre 8
+15. Les quatre 7
+16. Les quatre 6
+17. Les quatre 5
+18. Les quatre 4
+19. Les deux 3 restants
 
-Le **3 de carreau (Monsieur)** est la carte la plus forte ; le 3 de pique est la plus faible.
+### Symbolisme des couleurs
 
-**Les Supérieures (les aluettes) :**
-1. **Monsieur** — bat toutes les autres cartes.
-2. **Madame** — battue seulement par Monsieur.
-3. **Le Borgne** — bat la Vache et tout ce qui suit.
-4. **La Vache** — bat les Doubles, les Moyennes et les Inférieures.
+- Trèfle = Bâtons (arme des paysans)
+- Carreau = Deniers (argent des marchands)
+- Pique = Épée (nobles)
+- Cœur = Calice (prêtres)
 
-**Les Doubles** (déposer un Double, c'est comme en montrer deux) :
-5. **Le Grand Neuf** (9 de cœur)
-6. **Le Petit Neuf** (9 de carreau)
-7. **Le Chêne** (2 de trèfle)
-8. **L'Écrit** (2 de pique)
+### Déroulement détaillé
 
-**Les Moyennes :** As, Rois, Dames et Valets.
+Le premier joueur (voisin gauche du donneur) commence. Il peut jouer une carte faible, et ses adversaires surenchérissent. S'il dévoile une forte carte, personne n'a à surenchérir.
 
-**Les Inférieures :** les 9 de trèfle et de pique, les 8, 7, 6, 5, 4 et 3 de trèfle et de pique.
+Le joueur ayant déposé la plus forte carte remporte le pli et rejoue en premier. S'il y a égalité entre plusieurs joueurs ayant abattu la plus forte carte, la levée ne profite à personne (« pourrie »). Les quatre cartes du pli annulé sont rejetées au talon, et le premier joueur ayant abattu l'une des cartes à égalité entame le suivant.
 
-> Monsieur bat Madame ; le Borgne bat la Vache, qui bat les Doubles, qui battent eux-mêmes les Moyennes et les Inférieures.
+### Fin de partie
 
-### Constitution des équipes et distribution
-
-L'un des joueurs distribue les cartes une à une. **Celui qui reçoit Madame fait équipe avec celui qui obtient Monsieur** ; le Borgne a la Vache pour partenaire. Le Borgne se place à droite de Madame, la Vache à sa gauche. Les places sont fixées pour toute la partie. L'ordre des donnes est : Madame (1re donne), la Vache (2e), Monsieur (3e), le Borgne (4e), puis de nouveau Madame (5e).
-
-Après avoir battu les cartes, le donneur les fait couper par son voisin de droite. Puis, en commençant par son voisin de gauche, il distribue **neuf cartes muettes** (faces cachées) à chacun, une à une. Il dépose au centre du tapis le **talon de douze cartes muettes**.
-
-### Le chant (donne complémentaire facultative)
-
-Si les joueurs le décident d'un commun accord, le donneur peut partager le talon en deux parties égales et distribuer **six cartes supplémentaires** à chacun de ses deux voisins immédiats. Ceux-ci, qui ont alors quinze cartes, doivent en **écarter six**, déposées muettes, pour former un nouveau talon. Cette donne complémentaire, appelée le **chant**, est facultative et exige l'assentiment **unanime** des joueurs.
-
-### But et décompte
-
-La partie se joue en **cinq manches de neuf levées** chacune. Une levée vaut 1 point.
-
-- La **levée** est gagnée par le joueur qui sort la plus forte carte.
-- La **manche** est gagnée, pour son équipe, par le **joueur** qui fait le plus de levées : contrairement à beaucoup de jeux d'équipes, **les levées des deux partenaires ne s'additionnent pas** pour réaliser une manche.
-- L'équipe qui totalise le plus de **manches** gagne la partie.
-
-On peut **annuler** une levée en jetant une carte aussi forte que celle d'un adversaire. Si cette annulation amène les deux équipes à égalité de levées (par exemple quatre à quatre), la manche est gagnée par l'équipe qui, la première, a marqué quatre.
-
-### Déroulement d'une manche
-
-Le premier joueur, situé à gauche du donneur, entame. Chacun joue une carte à tour de rôle. Le joueur qui remporte une levée est **obligé de jouer en premier** à la levée suivante.
-
-Le jeu est simple à condition de bien connaître la valeur des cartes et d'observer la mimique de son partenaire comme celle des adversaires. Selon les mimiques et les cartes déjà tombées, on a parfois intérêt à jeter des cartes faibles, soit pour déconcerter l'adversaire, soit pour être certain de faire les levées suivantes.
-
-**Le jeu d'autant** consiste à « pourrir » le jeu, c'est-à-dire à annuler une levée en abattant, si possible, une carte de même valeur que la plus forte des adversaires — à condition que le partenaire ait jeté une carte plus faible. Les deux cartes s'annulent, aucune équipe ne marque la levée, et l'on remet les cartes au talon.
-
-> Astuce de comptage : pour tenir un compte clair des levées faites, déposez la quatrième carte de la levée **en croix** sur les trois autres.
-
-### Les mimiques
-
-Les membres d'une équipe se communiquent la valeur de leurs cartes par des mimiques discrètes, faites autant que possible à l'insu des adversaires — chacun s'observe en cours de partie. Elles servent surtout à indiquer les cartes fortes. Un joueur qui a d'emblée un jeu insignifiant peut le signaler à son partenaire en **haussant légèrement les épaules** ; si le partenaire est dans le même cas et fait le même geste, l'équipe peut, d'un commun accord, renoncer à jouer et laisser le point de la manche aux adversaires.
-
-Signes généralement adoptés :
-
-| Carte | Mimique |
-|-------|---------|
-| **Monsieur** | Lever les yeux au ciel |
-| **Madame** | Pencher la tête à gauche ou porter une main au cœur |
-| **Le Borgne** | Fermer l'œil gauche |
-| **La Vache** | Faire une moue |
-| **Le Grand Neuf** | Lever le pouce |
-| **Le Petit Neuf** | Lever le petit doigt |
-| **Le Chêne** | Lever le majeur |
-| **L'Écrit** | Joindre le pouce et l'index (comme pour écrire) |
-| **Les As** | Ouvrir la bouche |
-
-On peut imaginer d'autres mimiques pour les Rois, Dames et Valets si l'on veut compliquer le jeu, mais cela deviendrait abusif pour les cartes inférieures.
-
-## Conseils
-
-- Pour vos premières parties, inscrivez au crayon la dénomination et le rang des cartes ; quelques parties suffisent ensuite pour jouer avec des cartes non marquées.
-- Surveillez autant les mimiques de votre partenaire que celles des adversaires : c'est la clé du jeu.
-- N'hésitez pas à jeter des cartes faibles à bon escient, soit pour déconcerter l'adversaire, soit pour vous assurer les levées suivantes.
-
-## Règles spéciales
-
-- **Renoncement de manche :** si les deux partenaires signalent un jeu insignifiant (épaules haussées), l'équipe peut abandonner la manche et en laisser le point aux adversaires.
-- **Annulation de levée :** une carte aussi forte que la plus forte carte adverse annule la levée (jeu d'autant) ; personne ne marque et les cartes retournent au talon.
-- **Égalité de levées dans une manche :** la manche revient à l'équipe qui, la première, a atteint le total à égalité (ex. quatre à quatre → l'équipe arrivée à quatre en premier).
-
-## Variantes
+Le camp dont l'un des partenaires a totalisé le plus grand nombre de levées gagne le tour et marque 1 point. La partie se joue en 5 points.
 
 ### La Mordienne
 
-Si l'on décide de jouer à la Mordienne, un joueur cherche, pour gagner, à réaliser **sans interruption le plus possible de dernières levées**. Réussir la Mordienne vaut **2 points**, et la partie se joue alors en **10 points**.
+Se joue en 10 manches. Le jeu consiste à ne pas faire de plis aux 5-7 premiers tours et à ramasser les 2-4 derniers. Il faut annoncer le nombre de plis avant chaque manche. Mordienne réussie = 2 points.
 
-Le joueur qui estime pouvoir réaliser la Mordienne l'annonce en **se mordant les lèvres**. Les adversaires peuvent refuser : ils proposent de ne pas jouer la manche et de laisser un point à l'annonceur. Si celui-ci n'accepte pas la proposition, on joue la Mordienne ; si elle échoue, les **2 points** sont marqués par les adversaires de l'annonceur. Le partenaire de l'annonceur peut l'aider, soit en essayant de faire les premières levées, soit en faisant des autants (annulations).
+Ajoutée au jeu normal : après la donne, l'annoncer + le nombre de plis visés (2-4). Jeu en 10 manches.
+
+---
+
+## Variantes
+
+Voir section Règle courte.

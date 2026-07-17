@@ -1,119 +1,107 @@
 # L'Impériale
 
-**Nombre de joueurs :** 2 (possible à 3 ou 4)
-**Nombre de cartes :** 32 (36 à trois, avec les 6)
-**Difficulté :** Moyenne
-**Type :** Jeu de plis, Combinaisons, Enchères
-**But :** Être le premier à réussir le nombre d'impériales convenu
+**Nombre de joueurs :** 2
+**Nombre de cartes :** 32 (As au 7)
+**Difficulté :** Difficile
+**Type :** Jeu de plis, Combinaisons
+**But :** Atteindre 6 fiches (36 jetons) grâce aux Impériales et aux levées
 **Autres noms :** L'Impériale
 
 ---
 
 ## Règle courte
 
-L'Impériale oppose **deux joueurs** avec un jeu de **32 cartes**. On donne 12 cartes à chacun et l'on retourne la 25e pour désigner l'atout. Avant de jouer, chacun compare son meilleur **point** (total de sa plus longue couleur) et déclare ses **impériales** (combinaisons de cartes qui rapportent des fiches). On joue ensuite les 12 levées en fournissant la couleur, en forçant ou en coupant. On marque des points pour le point, les honneurs (R, D, V, A, 7) et les levées faites au-delà de six ; six jetons forment une **impériale** (une fiche). La partie se joue généralement en **cinq ou six impériales**.
+### Matériel et valeur
+
+32 cartes (As au 7). Jetons ronds + fiches rectangulaires (1 fiche = 6 jetons).
+
+### Ordre des cartes
+
+**À l'atout :** Roi, Dame, Valet, As, 10, 9, 8, 7
+**Autres couleurs :** As, 10, Roi, Dame, Valet, 9, 8, 7
+
+### Distribution
+
+Chacun tire une carte → plus fort = donneur. Donneur distribue 12 cartes à chacun (2 par 2 ou 3 par 3), retourne la 25ème = atout.
+
+### Annonces (obligatoires dans l'ordre)
+
+1. **Le Point** : Couleur la plus longue (en cartes). Égalité → plus riche (en points). Gagnant = 1 jeton.
+2. **Impériales** (seules marquées si annoncées) :
+   - Quatrième majeure : Roi, Dame, Valet, As (n'importe quelle couleur) = 1 fiche
+   - Impériale d'Honneurs : Carré de Rois, Dames, Valets, As ou 7 = 1 fiche
+   - Impériale blanche : Suite de 4 cartes ≤ As = 1 fiche
+   L'Impériale blanche annule le tour → nouvelle donne, change donneur.
+
+### Levées
+
+Non-donneur entame. Fournir la couleur, sinon couper. Plus fort atout ou plus fort de la couleur = levée. Gagnant entame suivant.
+
+### Score levées
+
+- 6 levées = 1 jeton
+- 7 levées = 1 fiche
+- 8 levées = 2 fiches
+- 9 levées = 3 fiches
+- 10 levées = 4 fiches
+- 11 levées = 5 fiches
+- 12 levées (vole) = 2 fiches + tout ce que l'adversaire a gagné ce tour
+
+### Score final
+
+1 fiche = 6 jetons. 6 fiches = partie gagnée. Partie liée = 2 manches gagnantes + belle.
+
+---
 
 ## Version longue
 
-### Histoire
+### Historique
 
-L'Impériale est l'un des plus anciens jeux de cartes ; certains auteurs affirment qu'on la connaissait déjà sous Charles-Quint. Très pratiquée dès le XVIe siècle, elle perdit de sa vogue trois cents ans plus tard au profit d'autres jeux, notamment le **Piquet** (auquel elle donna naissance), mais on la joue encore dans de nombreuses régions, entre autres les provinces méridionales de la France.
+Ce jeu, né à la fin du XVIe siècle dans le Saint Empire germanique de Charles Quint, à qui il doit certainement son nom, se joue encore dans le Nord de la France. L'importance, dans ses règles, du chiffre six est à l'origine de son nom.
 
-### Matériel : jetons et fiches
+### Matériel détaillé
 
-On se sert de **jetons** et de **fiches**. Les jetons représentent des points. Les fiches valent chacune **six jetons** et représentent les **impériales** ; on les désigne d'ailleurs sous ce nom. Chaque joueur dépose à sa **gauche** six jetons et six fiches. Quand il marque 1 point, il fait passer un jeton à sa **droite** ; quand il marque une impériale, une fiche.
+Les As, Rois, Dames, Valets, 10, 9, 8, 7, soit 36 cartes.
+Des jetons ronds, et des fiches rectangulaires valant 6 jetons.
 
 ### Valeur des cartes
 
-- Ordre de force décroissant : **R, D, V, A, 10, 9, 8, 7**.
-- Pour le calcul des points : l'As vaut **11 points**, les figures **10 points** chacune, les autres cartes leur **valeur nominale**.
+L'ordre classique, l'As étant la plus forte carte. Toutefois, et c'est l'originalité de ce jeu, l'ordre des cartes au Tre-Sette est assez inhabituel : 3, 2, As, Roi, Dame, Valet, 7, 6, 5, 4.
 
-Les **honneurs** sont les Rois, Dames, Valets, As et 7. Le joueur qui possède une de ces cartes marque **1 point**. Celui qui retourne un honneur en donnant marque également 1 point.
+### Distribution
 
-> Si le donneur retourne un Roi ou un As, il peut l'échanger contre le **7 de la même couleur** qu'il aurait dans son jeu.
+Chaque joueur tire une carte au hasard. La plus forte désigne le donneur, qui distribue dix cartes à chaque joueur, en trois donnes (quatre cartes, puis trois et trois).
 
-### Les impériales
+### Combinaisons possibles
 
-Il y a plusieurs façons de faire une impériale :
+Chaque joueur classe ses cartes dans le dessein de réaliser des combinaisons :
 
-| Combinaison | Description |
-|-------------|-------------|
-| **Impériale d'atout** | Réunir en main R, D, V et 10 d'atout — **compte double** |
-| **Impériale de couleur** | Réunir en main R, D, V et 10 d'une couleur autre que l'atout |
-| **Impériale d'honneur** | Tenir en main quatre R, quatre D, quatre V, quatre As ou quatre 7 |
-| **Impériale blanche** | N'avoir que des cartes blanches — généralement **comptée double** |
-| **Impériale de retourne** | Posséder une impériale incomplète en atout et voir la carte de complément comme première retourne |
-| **Impériale tombée (ou de rencontre)** | Trouver dans ses levées les cartes qui permettent de faire une impériale d'atout — *pas toujours admise* |
-| **Six points** | Additionner 6 points |
+**Napolitaine :** suite 3, 2, As de la même Couleur : 3 points.
+Chaque carte suivante, dans la même Couleur (R, D, V) : 1 point.
 
-On peut avoir dans son jeu **deux impériales** à la fois (par exemple une impériale blanche avec une impériale d'As ou de 7) ; dans ce cas, la seconde impériale se marque également.
+**Brelan de 3, de 2 ou d'As :** 3 points.
+**Brelan de 7 (Tre-sette) :** 4 points.
+**Autre brelan :** 1 point.
 
-> Le joueur qui exhibe une impériale oblige son adversaire à **démarquer** les points qu'il posséderait déjà, à moins que l'adversaire ne possède lui aussi une impériale. Cette règle ne joue pas pour le point de retourne s'il est marquant. Celui qui fait une impériale **blanche** ne peut pas faire démarquer les points de son adversaire.
+Tour à tour, les joueurs montrent les combinaisons qu'ils détiennent et marquent immédiatement les points correspondants.
 
-### Avant la partie
+### Déroulement de la partie
 
-On se met d'accord sur les impériales à compter ou non, et l'on fixe le **nombre d'impériales nécessaires pour gagner** (en général cinq ou six) : celui qui les réussit gagne. On fixe aussi, éventuellement, la valeur monnayée des fiches.
+Le voisin de droite du donneur entame le premier pli. Ses adversaires peuvent ou non fournir dans cette Couleur. Le joueur qui a fourni la plus forte carte dans la Couleur emporte la levée et commence la levée suivante. Le jeu se joue deux contre deux, et le partenaire d'un joueur ayant fourni une carte maîtresse a donc intérêt à jouer une carte de valeur.
 
-### La donne
+À l'issue des 10 levées, chaque camp examine ses plis et fait ses comptes selon le barème suivant :
 
-Chaque joueur tire une carte du jeu ; la plus haute désigne le **donneur**. On distribue **12 cartes** à chacun, par deux, par trois ou par quatre. On retourne la **25e carte**, qui indique l'**atout**.
+- Trois figures dans une même levée (3, 2, As, Roi, Dame ou Valet) : 1 point
+- Un As seul : 1 point
+- La dernière levée : 1 point
 
-### Le point
+On ajoute à ces points les bonifications suivantes :
 
-La donne terminée, chaque joueur rassemble les cartes de même couleur qu'il possède et additionne les points qu'elles totalisent. Le premier à parler annonce son point total : cela s'appelle **le point**. Le donneur répond :
+- La Strammasette, si un camp a emporté les 9 premières levées (3 jetons à chaque joueur).
+- La Strammason, si un joueur seul emporte les 9 premières levées (il gagne pour lui-même 6 jetons).
+- La Callade, si un camp emporte les 10 levées (4 jetons).
+- Le Calladonrion, pour le camp qui conserve dans ses levées une Napolitaine de sept cartes de la même Couleur (gagne 16 jetons).
 
-- « **C'est bon !** » si le point annoncé est plus élevé que le sien ;
-- « **Égal** » s'il est égal ;
-- « **Ne vaut pas** » s'il est inférieur.
+### Fin de la partie
 
-Celui qui a le point le plus élevé marque **1 point** (il dépose un jeton de sa réserve à sa droite). En cas d'égalité, c'est le **premier à parler** qui marque ce point.
-
-### Les annonces
-
-Chacun déclare ensuite sa ou ses impériales. On peut même les déclarer **avant** de faire le point, mais il est **interdit** de les déclarer et de les compter dès qu'une carte a été jetée. On admet qu'un joueur peut avertir son adversaire s'il a négligé d'indiquer son impériale.
-
-### Le jeu
-
-Le point et les impériales étant reconnus valables, le premier à jouer jette une carte. L'adversaire doit :
-
-1. **fournir** la couleur demandée ;
-2. **forcer** si cela lui est possible ;
-3. **couper** s'il n'a pas la couleur ;
-4. **renoncer** s'il n'a ni couleur ni atout.
-
-Celui qui fait la levée joue ensuite. Le jeu se poursuit jusqu'à ce que chacun ait jeté ses douze cartes. Il faut bien tenir compte du fait que les **honneurs marquent des points**.
-
-### Le compte des points
-
-On compte les levées faites. Celui qui en fait le plus marque **1 point pour chaque levée au-dessus de six**. Si chacun fait six levées, les points de levées ne se marquent pas.
-
-Si l'un des joueurs ne réussit **aucune levée**, il est **capot** : son adversaire marque **deux impériales** et l'oblige à démarquer les points acquis (mais non ses impériales).
-
-**Ordre de décompte** (pour la bonne règle) : la retourne, les impériales de main, l'impériale blanche, les autres impériales, le point, les honneurs et, enfin, les points des levées.
-
-## Conseils
-
-- Avant de commencer, mettez-vous clairement d'accord sur les impériales admises (notamment l'impériale tombée, pas toujours reconnue) et sur le nombre d'impériales à gagner.
-- N'oubliez pas de déclarer vos impériales avant de jouer la première carte : passé ce moment, elles ne comptent plus.
-
-## Règles spéciales
-
-- **Échange de retourne :** si le donneur retourne un Roi ou un As, il peut l'échanger contre le 7 de la même couleur présent dans sa main.
-- **Double impériale :** deux impériales tenues simultanément se marquent toutes les deux.
-- **Démarquage :** exhiber une impériale force l'adversaire à démarquer ses points, sauf s'il possède aussi une impériale ; l'impériale blanche ne provoque pas de démarquage.
-
-### Pénalités
-
-- On ne peut pas modifier en cours de partie la manière de faire la donne (par deux, par trois ou par quatre). Si le donneur y contrevient, son adversaire est en droit de refuser la donne et de prendre la place du donneur.
-- En cas de **maldonne**, la main passe à l'adversaire.
-- Il est défendu de retourner une des cartes restant au talon. La carte de retourne se dépose **visible, sur le talon**.
-
-## Variantes
-
-### L'Impériale à trois
-
-On ajoute les **6** au paquet de 32 cartes, et ces 6 comptent parmi les honneurs. Il n'y a **pas de talon** ; le premier en cartes joue en atout pour commencer.
-
-### L'Impériale à quatre
-
-Chaque joueur reçoit **huit cartes** et la **dernière** indique l'atout. Il faut **annoncer ses impériales avant de jouer la première carte**.
+Le premier camp qui marque 21 points gagne une manche et les deux joueurs vainqueurs reçoivent 1 jeton. La partie peut se jouer en deux manches gagnantes ou au premier joueur qui atteint un total de 10 jetons.

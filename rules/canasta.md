@@ -11,68 +11,66 @@
 
 ## Règle courte
 
-### Matériel et valeur des cartes
+### Matériel et valeur
 
-Deux jeux de 52 cartes + 4 Jokers = 108 cartes.
+2 jeux de 52 + 4 Jokers = 108 cartes.
 
 | Carte | Points | Rôle |
 |-------|--------|------|
-| Joker | 50 | Carte volante (remplace toute carte) |
-| 2 | 20 | Carte volante |
+| Joker | 50 | Volante (remplace toute carte) |
+| 2 | 20 | Volante |
 | As | 20 | |
 | R, D, V, 10, 9, 8 | 10 | |
 | 7, 6, 5, 4 | 5 | |
-| 3 rouge | 100 | Carte de bonification |
-| 3 noir | 5 | Carte d'arrêt (gèle la pile) |
+| 3 rouge | 100 | Bonification |
+| 3 noir | 5 | Arrêt (gèle la pile) |
 
 ### Combinaisons
 
 - **Brelan :** 3 cartes identiques (minimum pour ouvrir)
-- **Canasta :** 7 cartes identiques. Pure = 500 pts. Impure (avec volantes) = 300 pts.
+- **Canasta :** 7+ cartes identiques. **Pure** (sans volantes) = 500 pts. **Impure** (avec volantes) = 300 pts.
 
-Les cartes volantes (Jokers et 2) peuvent remplacer des cartes ordinaires, mais une combinaison doit toujours comporter plus de cartes ordinaires que de volantes.
+Volantes (Jokers, 2) remplacent cartes ordinaires, mais combinaison doit avoir + de cartes ordinaires que volantes.
 
 ### Distribution
 
-Le donneur distribue 11 cartes à chacun. Il retourne la 1ère carte du talon à côté : c'est la pile de défausses. Si c'est un Joker, un 2 ou un 3 rouge, on recouvre.
+Donneur distribue 11 cartes à chacun. Retourne 1ère carte du talon à côté = pile de défausses. Si Joker, 2 ou 3 rouge → recouvre par nouvelle carte.
 
 ### Déroulement
 
 À tour de rôle :
-1. **Tirer** la carte du talon OU prendre la pile de défausses (si on peut l'utiliser immédiatement avec une paire en main ou un brelan étalé).
-2. **Poser** des combinaisons (optionnel). Pour la première pose (« ouvrir »), il faut un minimum de points :
-   - Score négatif : 15 pts
-   - 0 à 1495 : 50 pts
-   - 1500 à 2995 : 90 pts
-   - 3000+ : 120 pts
-3. **Défausser** une carte sur la pile.
+1. **Tirer** : carte du talon OU prendre pile de défausses (si conditions : paire en main = carte exposée, ou brelan étalé = carte même hauteur). Si prise → prend TOUTE la pile.
+2. **Poser** : combinaisons (optionnel). 1ère pose (« ouvrir ») → minimum de points selon score équipe :
+   - Score négatif : 15
+   - 0-1495 : 50
+   - 1500-2995 : 90
+   - 3000+ : 120
+   Puis allonger brelans (propres ou adverses) sans minimum.
+3. **Défausser** : 1 carte sur pile (obligatoire sauf sortie).
 
-On peut aussi allonger les brelans de son partenaire.
-
-### Pile de défausses
-
-**Pile gelée** (quand un 3 rouge, un Joker ou un 2 est exposé) : on ne peut la prendre qu'avec une paire naturelle (sans volante).
+**Pile gelée** : 3 noir exposé, ou Joker/2 retourné par donneur, ou pile contient Joker/2. Pour prendre pile gelée → paire naturelle en main.
 
 ### Sortie
 
-Le coup se termine quand un joueur sort (se débarrasse de toutes ses cartes), à condition que son camp ait au moins une Canasta. La sortie = 100 pts (200 si surprise). Le partenaire doit accepter la sortie.
+Coup finit quand un joueur « sort » (se débarrasse de toutes ses cartes) + son camp a ≥ 1 Canasta. Sortie = 100 pts (200 si « sortie-surprise » = pose tout d'un coup).
 
-### Score final
+### Score
 
 | Élément | Points |
 |---------|--------|
-| Sortie | 100 |
-| Sortie-surprise | 200 |
+| Sortie | 100 (200 surprise) |
 | Canasta pure | 500 |
 | Canasta impure | 300 |
-| 3 rouge (si ouvert) | 100 |
+| 3 rouge | 100 |
 | 4 × 3 rouge | 800 |
 
-Les cartes restantes en main sont soustraites. Les 3 rouges non ouverts deviennent des pénalités.
+Cartes restantes en main = soustraites. 3 rouges = pénalité si non ouvert.
 
 ### Fin de partie
 
-Premier camp à 5000 points gagne.
+1er camp à 5000 pts gagne.
+
+---
 
 ## Version longue
 
@@ -80,22 +78,27 @@ Premier camp à 5000 points gagne.
 
 Le terme de Canasta vient de l'espagnol et signifie corbeille ou panier. Inventé vers 1940 en Amérique du Sud, en Uruguay semble-t-il, ce jeu s'est répandu comme une traînée de poudre aux États-Unis d'abord, où ses règles furent codifiées, puis en Europe où il fut importé par les soldats américains à la fin de la Seconde Guerre mondiale.
 
-### Prise de la pile de défausses en détail
+### Cartes spéciales
 
-On peut s'emparer de la pile si l'on possède :
-- Une paire de cartes de même hauteur que la carte exposée au-dessus de la pile ;
-- Ou une carte de même hauteur qu'une formation déjà étalée par son propre camp.
+**12 cartes volantes :** 4 Jokers + 8 deux. Remplacent toute carte ordinaire.
+**4 cartes d'arrêt :** 3 noirs. Gèlent la pile.
+**4 cartes de bonification :** 3 rouges. Donnent primes.
 
-Quand la pile est gelée, on ne peut s'en emparer qu'avec une paire de cartes naturelles (sans carte volante).
+### Prise de la pile de défausses
 
-### Stratégie en détail
+On peut s'emparer de la pile si :
+- On possède une paire de cartes de même hauteur que la carte exposée au-dessus de la pile
+- On possède une carte de même hauteur qu'une formation déjà étalée par son propre camp
+- Si la carte exposée est une carte volante (Joker ou 2)
 
-**L'ouverture :** il faut si possible choisir une ouverture permettant de conserver le maximum de cartes en main. Les As sont précieux, puisqu'un simple Brelan vaut 60 points et permet d'étaler.
+**Pile gelée :** 3 noir exposé, ou carte volante (retournée par donneur ou défaussée). Prise seulement avec paire naturelle.
 
-**Les défausses :** il faut surveiller attentivement les défausses du joueur qui joue derrière soi. En principe, les cartes qu'il rejette ne l'intéressent pas. Il sera donc généralement bon de défausser des cartes de même hauteur.
+### Stratégie
 
-**La prise de la pile :** il est généralement bon de ne pas utiliser toutes ses cartes volantes pour poser des formations : garder en main un Joker ou un 2 permet de faire une paire et de s'emparer ainsi de la pile. Il faut cependant réserver ses efforts pour les cas où la pile est importante.
-
-**La sortie :** en règle générale, si l'adversaire ne menace pas de sortir de façon imminente, il n'y a aucun intérêt à chercher à sortir le plus rapidement possible. La prime de sortie étant très faible (100 points), il est beaucoup plus rentable d'améliorer ses formations et de tenter de réaliser des Canastas.
-
-**Tactique générale :** il ne faut pas rechercher à tout prix les Canastas pures. Il est normalement conseillé de geler la pile lorsque les adversaires n'ont plus que très peu de cartes en main et que l'on en a soi-même beaucoup.
+- Conserver As (Brelan = 60 pts, ouvre à 15 pts)
+- Ne pas hâter les poses : cartes en main facilitent prise de pile
+- Garder volantes (Joker/2) pour faire paire + prise pile gelée
+- Surveiller défausses du joueur derrière soi → défausser même hauteur
+- Geler pile quand adversaires ont peu de cartes, soi beaucoup
+- Sortie : prime faible (100), mieux vaut améliorer formations (Canastas)
+- Pièges : défausse d'un Brelan non posé pour tenter prise de pile (double tranchant)

@@ -1,196 +1,117 @@
-# Rami
+# Le Rami
 
-**Nombre de joueurs :** 2 à 5 (le jeu à 4 est le plus plaisant)
-**Nombre de cartes :** 52 + 1 Joker
+**Nombre de joueurs :** 2 à 6 (au-delà de 6, préférer le Double Rum, le Rum 500 ou le Rummy Contract)
+**Nombre de cartes :** 52 (jeu de base) ; variantes à 104 (2 jeux) avec 2 à 4 Jokers
 **Difficulté :** Moyenne
 **Type :** Combinaisons, Défausse
-**But :** Se débarrasser de toutes ses cartes en étalant des combinaisons (« faire rami »)
-**Autres noms :** Rummy, Rum
+**But :** Se débarrasser de toutes ses cartes en formant des combinaisons (groupes de même rang et séquences), puis sortir le premier
+**Autres noms :** Rummy, Rum, Rami
 
 ---
 
 ## Règle courte
 
-Chaque joueur reçoit sept cartes (dix à deux joueurs). À son tour, on prend la carte de retourne ou la première du talon, puis on écarte une carte face visible. Dès que l'on peut, on étale des combinaisons devant soi : brelan ou carré (cartes de même valeur) ou séquence (au moins trois cartes de même couleur qui se suivent) ; le premier dépôt doit compter au moins trois cartes. Le Joker remplace n'importe quelle carte. On peut ensuite compléter ses propres combinaisons ou celles des autres. Le premier qui pose toutes ses cartes fait rami et met fin au coup. On additionne alors les points restés dans chaque main : celui qui atteint ou dépasse 100 « saute » ; le dernier à ne pas avoir atteint 100 gagne la partie.
+**Matériel et valeur des cartes.** Un jeu de 52 cartes. Ordre : Roi (le plus fort), Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As (le plus faible dans une séquence). Pour le décompte, les figures (R, D, V) valent 10 points, l'As 1 point, les autres cartes leur valeur nominale.
+
+**Combinaisons acceptées :**
+- Groupe (brelan ou carré) : 3 ou 4 cartes de même rang, ex. 9♠ 9♦ 9♣, ou Dame♠ Dame♥ Dame♦ Dame♣.
+- Séquence : 3 cartes ou plus qui se suivent dans la même couleur, ex. V♦ 10♦ 9♦. Dans une séquence, l'As est la carte la plus basse.
+
+**Distribution.** On tire pour désigner le donneur (la plus basse carte donne). Le joueur à droite du donneur coupe. Le donneur distribue une carte à la fois, face cachée, dans le sens des aiguilles d'une montre en commençant par sa gauche :
+- 2 joueurs : 10 cartes chacun ;
+- 3 ou 4 joueurs : 7 cartes chacun ;
+- 5 ou 6 joueurs : 6 cartes chacun.
+
+Le reste des cartes forme le talon (pioche), face cachée au centre. On retourne la carte du dessus à côté du talon pour commencer la pile de défausse.
+
+**Déroulement d'un tour.** En commençant par le joueur à gauche du donneur, chacun à son tour :
+1. **Pige** une carte : soit le dessus du talon, soit le dessus de la défausse.
+2. **Peut étaler** une ou plusieurs combinaisons, face visible, et **allonger** des combinaisons déjà posées (les siennes ou celles des autres) en y ajoutant des cartes compatibles.
+3. **Écarte** une carte, face visible, sur la pile de défausse. On ne peut pas reposer sur la défausse, au même tour, la carte qu'on vient d'y prendre.
+
+**Fin de la manche.** Un joueur gagne dès qu'il s'est débarrassé de toutes ses cartes. Si ses cartes restantes forment toutes des combinaisons, il peut tout étaler d'un coup sans écarter à son dernier tour.
+
+Si la dernière carte du talon est piochée sans que personne ne sorte, le joueur suivant prend soit le dessus de la défausse, soit retourne la défausse (sans la mélanger) pour en faire un nouveau talon, puis pige.
+
+**Décompte.** Chaque perdant paie au gagnant la valeur nominale des cartes qui lui restent en main, qu'elles soient en combinaison ou non. Si le gagnant sort d'un seul coup sans avoir étalé auparavant, il fait « Rummy » et chaque adversaire paie le double.
 
 ## Version longue
 
-### Matériel et joueurs
+**Nombre de joueurs et matériel.** Le Rummy se joue de deux à six joueurs, chacun pour soi, avec un jeu de 52 cartes. Au-delà de six joueurs, on préfère des variantes conçues pour cela : le Double Rum, le Rum 500 ou le Rummy Contract.
 
-Le Rami peut réunir de deux à cinq joueurs ; c'est toutefois à quatre que le jeu est le plus amusant. On utilise un jeu de cinquante-deux cartes auquel on adjoint le Joker.
+**Rang des cartes.** Du plus fort au plus faible : Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As. Dans une séquence, l'As est la carte la plus basse. Selon le type de Rummy pratiqué, l'As peut aussi être considéré comme la carte la plus haute (voir Variantes).
 
-La carte la plus basse est l'As ; viennent ensuite, en valeur ascendante, le 2, le 3, le 4, etc., jusqu'au Roi qui est la carte la plus forte.
+**Mélange, coupe et donneur.** On tire ou on coupe pour désigner le donneur : celui qui obtient la plus basse carte. Chaque joueur peut mélanger, le donneur mélange en dernier (d'habitude, seul le donneur mélange). Le joueur à la droite du donneur coupe. À deux joueurs, c'est le gagnant de chaque manche qui donne la suivante. À plus de deux joueurs, la donne passe vers la gauche d'une manche à l'autre.
 
-### Les combinaisons
+**La donne.** Le donneur passe une carte à la fois, face cachée, à chaque joueur, en un mouvement circulaire commençant par sa gauche, jusqu'à ce que chacun ait le bon nombre de cartes : dix cartes à deux joueurs, sept cartes à trois ou quatre joueurs, six cartes à cinq ou six joueurs. Les cartes restantes sont placées face cachée au centre pour former le talon. On retourne la carte du dessus du talon et on la pose à côté pour commencer la pile de défausse.
 
-Les combinaisons sont les mêmes que dans la plupart des autres jeux :
+**But du jeu.** Former dans sa main des combinaisons :
+- des groupes de 3 ou 4 cartes de même rang (ex. 9♠ 9♦ 9♣, ou Dame♠ Dame♥ Dame♦ Dame♣) ;
+- des séquences de trois cartes ou plus de même couleur (ex. ♦ Valet, 10, 9). L'As y est la carte la plus basse.
 
-- **brelan** : trois cartes de même valeur (trois Rois, trois As, etc.) ;
-- **carré** : quatre cartes de même valeur ;
-- **séquence** : au moins trois cartes de même couleur qui se suivent. La plus forte carte donne son nom à la séquence.
+**Le tour de jeu.** Chaque joueur, à tour de rôle, en commençant par l'aîné (le joueur à gauche du donneur), doit piger une carte — soit le dessus du talon, soit le dessus de la défausse — et l'ajouter à sa main. Il peut alors combiner ses cartes et en étaler, c'est-à-dire en déposer sur la table, face visible, réunies en groupes ou en séquences. Il doit ensuite écarter une carte, face visible, sur la pile. S'il a pris la carte qui était sur la pile, il ne peut pas l'y replacer au même tour.
 
-*Exemple :* un 5, un 4 et un 3 de pique forment une séquence au 5 de pique (une tierce). Une Dame, un Valet, un 10, un 9 et un 8 de cœur forment une séquence à la Dame de cœur (une quinte).
+**Allonger (étendre) les combinaisons.** À son tour, un joueur peut ajouter une ou plusieurs cartes de sa main à n'importe quelle combinaison déjà étalée sur la table, la sienne comme celle d'un autre. Ainsi, s'il y a trois cartes de même rang étalées, il peut y ajouter la quatrième ; si le 10, le 9 et le 8 de Cœur sont posés, il peut ajouter le Valet de Cœur, ou la Dame et le Valet de Cœur, ou le 7 de Cœur, ou encore le 7 et le 6. On ne peut pas faire plus d'une combinaison nouvelle par tour, mais on peut allonger autant de fois qu'on le souhaite.
 
-Contrairement à ce qui se passe dans plusieurs jeux, **une même carte ne peut être utilisée que dans une seule combinaison**. Par exemple, le joueur qui possède un 10 de trèfle peut l'utiliser dans un brelan de 10, mais il lui est alors défendu de l'utiliser aussi dans une séquence.
+**Sortir (finir).** Lorsqu'un joueur se débarrasse de toutes ses cartes de cette manière, il gagne la partie. Si toutes les cartes qui lui restent forment des combinaisons, il peut les déposer toutes ensemble sur la table, sans écarter, à son dernier tour.
 
-### But du jeu
+**Épuisement du talon.** Si l'on pige la dernière carte du talon sans qu'aucun joueur n'ait fini, le joueur suivant peut soit prendre la carte du dessus de la défausse, soit retourner cette pile pour en faire un nouveau talon (sans en mélanger les cartes) et piger la carte qui se trouve alors dessus ; le jeu continue.
 
-Il s'agit de **faire rami**, c'est-à-dire de se débarrasser le plus rapidement possible de toutes ses cartes en réalisant diverses combinaisons.
+**Le décompte.** Chaque joueur paie au gagnant de la partie la valeur nominale des cartes qui lui restent, qu'elles soient en combinaison ou non. Les figures comptent pour 10 points, l'As pour 1 point, toutes les autres cartes pour leur valeur nominale.
 
-### La donne
+Un joueur fait « Rummy » lorsqu'il se débarrasse de toutes ses cartes d'un seul coup, sans avoir déjà déposé ou étalé de cartes auparavant. Dans ce cas, chacun des autres joueurs lui paie le double de la valeur de sa main.
 
-On distribue les cartes une par une. Le nombre de cartes dépend du nombre de joueurs :
-
-- dix cartes par joueur à deux joueurs ;
-- sept cartes par joueur à trois, quatre ou cinq joueurs.
-
-Dans la partie à quatre, la donne se règle ainsi : chaque joueur tire une carte du paquet. La donne étant désavantageuse, **celui qui tire la carte la plus basse devient le donneur**. Celui des trois autres qui tire la plus basse s'installe à gauche du donneur : il sera le premier à jouer. Celui des deux derniers qui tire la plus basse prend place à gauche du deuxième, le dernier se trouvant à droite du donneur, chargé de couper le jeu battu par le donneur.
-
-Le donneur distribue, une par une, en commençant par son voisin de gauche et en poursuivant vers la gauche, sept cartes à chacun. Il dépose le talon sur le tapis, en retourne la carte supérieure et la place, découverte, à côté du talon : c'est **la retourne**.
-
-### Le jeu
-
-Le premier à jouer, à gauche du donneur, choisit et écarte une des sept cartes de sa main. Pour remplacer cet écart, il peut :
-
-1. **s'emparer de la carte de retourne** — il dépose alors son écart à la place de celle-ci ;
-2. **prendre la carte supérieure du talon** (les cartes muettes) — il pose alors son écart, à découvert, sur la carte de retourne.
-
-Les joueurs suivants agissent de même, chacun à son tour.
-
-Il s'agit ensuite de faire rami en déposant devant soi, découvertes et au moment où vient son tour de jouer, les cartes formant une combinaison. On peut la déposer en une fois, pourvu qu'elle comporte au moins trois cartes (un brelan ou une séquence de trois cartes), ou en plusieurs dépôts successifs, à raison d'un seul dépôt par tour.
-
-Après le premier tour, le joueur qui dépose ne peut le faire qu'**avant d'avoir écarté à nouveau** : au second tour, il doit donc déposer avant d'avoir pris la retourne ou la carte du talon. La carte ainsi prise ne peut servir qu'au tour suivant.
-
-L'obligation de déposer au moins trois cartes ne vaut que pour le **premier dépôt**. Une fois celui-ci fait, le joueur peut, à son tour, s'il n'a pas de combinaison de trois cartes, **compléter les combinaisons déjà étalées** — la sienne comme celles de ses adversaires.
-
-*Exemple :* si le joueur a en main un 10 de trèfle, il peut l'ajouter à un brelan de trèfle sur le tapis ou à une séquence de trèfle déjà déposée (à 9, 8, 7, il ajoute le 10). S'il possède en outre un Valet de trèfle, il peut le déposer en même temps que son 10 pour prolonger la combinaison ; mais s'il possède plutôt un 6 de trèfle, il ne pourra déposer que le 6 ou le 10, car **les cartes ajoutées doivent se suivre**. Les cartes qui se suivent, en ordre ascendant ou descendant, sont considérées comme un complément de dépôt unique.
-
-### Le cas du Joker
-
-Le Joker (« le fou aux grelots ») permet à celui qui le possède de remplacer n'importe quelle carte, de l'As au Roi. *Exemple :* le joueur qui a deux Rois et un Joker peut abattre un brelan de Rois.
-
-Il existe toutefois une limitation : **dès que le Joker fait partie d'une combinaison, il ne peut plus être remplacé ni déplacé.** En outre, s'il remplace une carte dans un brelan, une troisième carte réelle peut s'ajouter à ce brelan pour former un carré ; mais la quatrième carte de même valeur devra servir dans une séquence.
-
-*Exemple :* un joueur dépose deux Dames et un Joker, formant un brelan de Dames. On pourra plus tard ajouter une troisième Dame à ce brelan pour former un carré, mais la quatrième Dame restée en jeu ne pourra servir que dans une séquence.
-
-### Fin du coup et de la partie
-
-Une partie de Rami se joue en autant de coups qu'il est nécessaire, jusqu'à ce qu'un joueur fasse rami. Si personne n'a fait rami avant que le talon de cartes couvertes soit épuisé, le jeu est considéré comme **fermé** : le donneur bat les cartes et procède à une nouvelle distribution.
-
-Dans les deux cas — un joueur fait rami ou le jeu est fermé —, on additionne les points des cartes que chaque joueur garde encore en main.
-
-### Décompte des points, sauts et rachats
-
-La valeur des cartes conservées en main s'établit ainsi :
-
-- le **Joker** : 20 points ;
-- les **figures** : 10 points chacune ;
-- les **autres cartes** : leur valeur nominale (l'As ne comptant que pour 1 point).
-
-Le total ainsi obtenu représente les **points perdus** par chaque joueur ; on le marque. Toutefois, dans cette addition, on ne peut ni atteindre ni dépasser 100 points : le cas échéant, on **saute**.
-
-Le joueur qui saute peut **se racheter**. Au coup suivant, il repart avec, comme nombre de points de base, celui du joueur qui le suit immédiatement en points (le score le plus élevé parmi les autres joueurs).
-
-*Exemple :* le premier joueur totalise 10 points, le deuxième 42, le troisième 60, le quatrième 107. Ce dernier se rachète en repartant, pour le coup suivant, avec une marque de 60 points (le chiffre le plus élevé de ses trois adversaires). On repart donc avec 10, 42, 60 et 60 points.
-
-Tout joueur peut se racheter **trois fois** ; mais s'il saute une quatrième fois, après trois rachats, il est définitivement éliminé de la partie. C'est surtout ce jeu des sauts et des rachats qui rend le Rami passionnant, tout en exigeant du marqueur la plus vive attention.
-
-**Gagne la partie** le joueur qui n'a pas atteint ni dépassé 100 points, soit tout au long de la partie, soit — même après s'être racheté en cours de route — en restant seul, au dernier coup, à ne pas avoir atteint ce chiffre de 100.
-
-### Exemple de partie à quatre joueurs
-
-|  | Jean | Louis | Jules | Pierre |
-|---|---|---|---|---|
-| 1re donne | 12 | 9 | 40 | **0 (Rami)** |
-| 2e donne | 21 | 33 | **0 (Rami)** | 62 |
-| 3e donne | 10 | 59 | 30 | 22 *(jeu fermé)* |
-| **Total** | 43 | 101 | 70 | 84 |
-
-Louis saute et se rachète en prenant les points de Pierre. Départ : Jean 43, Louis 84, Jules 70, Pierre 84.
-
-| 4e donne | **0 (Rami)** | 23 | 34 | 12 |
-|---|---|---|---|---|
-| **Total** | 43 | 107 | 104 | 96 |
-
-Louis saute (2e fois), Jules (1re fois). Départ : 43, 96, 96, 96.
-
-| 5e donne | 54 | **0 (Rami)** | 22 | 17 |
-|---|---|---|---|---|
-| **Total** | 97 | 96 | 118 | 149 |
-
-Jules saute (2e fois), Pierre (1re fois). Départ : 97, 96, 97, 97.
-
-| 6e donne | 22 | 31 | **0 (Rami)** | 18 |
-|---|---|---|---|---|
-| **Total** | 119 | 127 | 97 | 115 |
-
-Louis saute (3e fois), Pierre (2e fois), Jean (1re fois). Départ : 97, 97, 97, 97.
-
-| 7e donne | **0 (Rami)** | 11 | 22 | 12 |
-|---|---|---|---|---|
-| **Total** | 97 | 108 | 119 | 109 |
-
-Louis saute (4e fois) et est éliminé ; Jules et Pierre sautent chacun (3e fois). Départ : Jean 97, Jules 97, Pierre 97.
-
-| 8e donne | **0 (Rami)** | — | 2 | 28 |
-|---|---|---|---|---|
-| **Total** | 97 | — | 99 | 125 |
-
-Pierre saute (4e fois) et est éliminé. Départ : Jean 97, Jules 99.
-
-| 9e donne | **0 (Rami)** | — | 33 | — |
-|---|---|---|---|---|
-| **Total** | 97 | — | 132 | — |
-
-Jules saute (4e fois) et est éliminé. **Jean gagne.**
-
-### Les mises et les enjeux
-
-Avant d'entamer une partie, les joueurs conviennent des mises et des enjeux. Il n'existe aucune règle fixe : le total des mises et les bénéfices attachés aux diverses phases du jeu restent variables et soumis aux conventions établies.
-
-En général, on forme un **pot** qui groupe les mises et dont le contenu récompense le gagnant. On décide par exemple qu'avant chaque donne, chaque joueur y dépose une mise fixe ; qu'après un jeu fermé cette mise est doublée ; et que celui qui doit se racheter verse une mise supplémentaire (double ou triple selon convention). Le contenu du pot peut ainsi devenir très important. Le joueur éliminé ne dépose plus de mise, mais perd toutes celles qu'il avait déjà placées.
-
-On décide parfois que chaque joueur verse en outre, après chaque coup, un enjeu convenu à celui qui vient de faire rami : ainsi, outre le grand gagnant qui ramasse le pot, quelques petits gagnants reçoivent une modeste récompense pour la manière dont ils ont mené leur jeu.
+**Exemples de décompte simple.** Un joueur reste en main avec Roi♣, 7♥ et 3♠ : il paie 10 + 7 + 3 = 20 points au gagnant. Un adversaire qui garde As♦ et 2♦ paie 1 + 2 = 3 points. Si le gagnant a fait Rummy, ces montants sont doublés (40 et 6 points).
 
 ## Conseils
 
-- Compléter une combinaison d'un adversaire ne vous en donne pas la propriété (elle lui reste acquise), mais peut constituer une stratégie pour mettre fin rapidement au coup en vous débarrassant de vos cartes.
-- Le décompte des sauts et des rachats exige du marqueur une attention constante : tenez soigneusement la feuille de marque pour savoir à tout moment qui peut encore se racheter.
+- Privilégiez un début de séquence (ex. 7-8 de la même couleur) à une simple paire : la séquence offre deux cartes utiles (le 6 et le 9) contre une seule pour la paire, et elle reste améliorable même après avoir servi.
+- Surveillez ce que vos adversaires piochent dans la défausse : cela révèle les combinaisons qu'ils construisent, et vous évite de leur écarter des cartes utiles.
+- Si un adversaire menace de sortir, allégez votre main en écartant d'abord les cartes chères (As, figures) que vous ne pourriez pas placer, afin de limiter les points payés.
 
 ## Règles spéciales
 
-- **Premier dépôt.** Le tout premier dépôt d'un joueur doit obligatoirement comporter au moins trois cartes ; l'obligation ne s'applique qu'à ce premier dépôt.
-- **Un seul dépôt par tour**, et — dès le second tour — le dépôt doit se faire avant de reprendre une carte. La carte prise à un tour ne peut servir qu'au tour suivant.
-- **Joker figé.** Une fois intégré à une combinaison étalée, le Joker ne peut être ni repris ni déplacé (sauf variante ci-dessous).
-- **Jeu fermé.** Si le talon s'épuise sans que personne n'ait fait rami, le coup est clos et l'on décompte les points ; le donneur redistribue.
-- **Saut et élimination.** Atteindre ou dépasser 100 points entraîne le saut ; après trois rachats, un quatrième saut élimine définitivement le joueur.
+**« Rummy » (sortie d'un seul coup).** Se débarrasser de toute sa main en un seul tour, sans avoir étalé auparavant, fait payer le double à chaque adversaire.
+
+**Jeu hors de tour.** Si l'on n'arrête pas un joueur avant qu'il ait terminé son tour en écartant, il est considéré comme ayant joué à son tour, et les joueurs qui auraient dû jouer avant lui perdent leur tour. S'il a pris une carte au talon, il est trop tard pour l'arrêter dès qu'il l'a mise dans sa main. Si l'on exige une correction à temps, le fautif remet la carte piochée et reprend toute combinaison qu'il aurait étalée ; le joueur dont c'était le tour reprend alors le jeu.
+
+**Carte pigée illégalement.** Si un joueur voit une carte à laquelle il n'a pas droit (carte piochée hors de tour, ou plusieurs cartes prises à la fois), il doit la replacer face visible sur le talon. Le joueur suivant peut alors la prendre, ou la faire remettre au centre du talon face cachée, et continuer comme s'il n'y avait pas eu d'irrégularité. Si plusieurs cartes sont ainsi exposées, chacun ne peut prendre à son tour que la carte du dessus de ces cartes exposées, ou la carte de dessus du talon (face cachée), ou (comme toujours) la dernière carte écartée sur la défausse. Après qu'un joueur a écarté, on ne peut plus lui faire rectifier une carte pigée illégalement.
+
+**Main imparfaite.** Le joueur qui a trop de cartes écarte avant de piger. Celui qui n'en a pas assez pige sans écarter, une carte par tour, jusqu'à avoir le bon nombre. Un joueur ne peut pas préparer de combinaison à étaler à un tour où sa main serait imparfaite. Si un joueur a trop de cartes après qu'un autre est sorti, il paie simplement la valeur de toutes ses cartes en main ; s'il n'en a pas assez, on lui compte 10 points par carte manquante. Si c'est le joueur qui finit qui n'a pas assez de cartes, il reprend les cartes qu'il a étalées et le jeu continue.
+
+**Redonne.** Le même donneur redonne si plus d'une carte a été exposée pendant la donne, ou s'il y a plus d'une carte face visible dans le talon. Un joueur ayant reçu un nombre incorrect de cartes peut réclamer une nouvelle donne avant de piocher à son premier tour, mais pas après. On redonne dès que l'on constate que le paquet est imparfait, tout en conservant les résultats des donnes précédentes.
+
+**Carte exposée.** Quand chacun joue pour soi, aucune pénalité si un joueur expose ses propres cartes. En jeu par équipes, toute carte exposée (sauf si elle peut être étalée normalement à ce moment) doit rester sur la table et être écartée à la première occasion ; avec plusieurs cartes exposées, on les écarte dans n'importe quel ordre.
+
+**Cartes étalées illégalement.** Si un joueur étale des cartes qui ne forment pas une combinaison valide et qu'on le découvre avant que les cartes soient mélangées, il doit les reprendre en main. Les cartes ajoutées par-dessus une telle combinaison restent sur la table, mais on ne peut plus y ajouter de cartes, à moins qu'il y en ait déjà 3 ou plus (elles forment alors une combinaison valable). Si un joueur annonce qu'il sort alors qu'il ne peut pas tout étaler ou écarter, il en étale ou en écarte le plus possible et le jeu continue comme s'il n'y avait pas eu d'irrégularité.
+
+**Fautes de pointage.** On ne peut pas corriger une erreur de comptage d'une main après qu'elle a été mélangée aux autres cartes. En revanche, une erreur d'inscription d'un score convenu peut être corrigée à tout moment.
+
+**Jeux apparentés.** Les règles d'irrégularités ci-dessus valent pour toute la famille du Rummy : Canasta, Oklahoma, Continental, Rummy Contract, Gin Rummy, etc. Dans chaque cas, consultez aussi les règles propres au jeu concerné.
 
 ## Variantes
 
-### Le Rami sans mises déposées au pot
+**As haut ou As bas.** Selon le type de Rummy, l'As peut être la carte la plus haute (au-dessus du Roi) ou la plus basse. Dans la version de base, l'As est bas dans les séquences.
 
-On ne verse aucune mise au pot ; à la place, on paie au gagnant, après chaque coup, la contrevaleur des points que les perdants gardent en main. La donne, la valeur des cartes et les combinaisons sont identiques au Rami ordinaire. Pour faciliter les paiements, on utilise des jetons dont on fixe la valeur.
+**Sortie avec écart obligatoire.** Dans certains cercles, le tour de chaque joueur doit obligatoirement se terminer par un écart. La partie finit alors lorsqu'un joueur, après avoir pigé, peut déposer ou allonger toutes ses cartes sauf une, qu'il écarte.
 
-Le premier joueur qui réussit à faire rami termine le coup ; on additionne pour chacun des autres les points restés en main, et chacun paie au gagnant, en jetons, la contrevaleur de ces points. Si le talon est épuisé avant que quiconque ait fait rami, les points perdus au coup suivant seront doublés.
+**Block Rummy.** Le jeu s'arrête lorsque le talon est épuisé et qu'un joueur refuse de prendre la dernière carte de la défausse. On étale alors toutes les mains : le joueur qui a le moins de cartes gagne, de chacun des autres, la différence entre son nombre de cartes et le leur. Si deux joueurs ont le même plus petit nombre de cartes, ils partagent les gains.
 
-*Exemple :* Jean fait rami ; Pierre, Louis et Jacques lui paient respectivement 22, 13 et 14 jetons, selon les points qu'ils gardaient en main.
+**Appel « Rummy » sur la défausse.** Si un joueur écarte une carte qu'il aurait pu allonger sur une combinaison de la table, n'importe quel autre joueur peut dire « Rummy », allonger la carte en question et la remplacer sur la défausse par une de ses propres cartes. Le privilège revient au premier qui dit « Rummy » ; en cas d'annonce simultanée, au joueur le plus proche de la gauche de celui qui a écarté.
 
-### Modifications à l'emploi du Joker
+**Aucune combinaison avant la sortie.** On établit parfois qu'aucune carte ne peut être étalée tant qu'un joueur ne peut pas finir d'un seul coup. Le gagnant reçoit alors, de chaque joueur, la valeur nominale de ses propres cartes. On joue souvent à deux ou trois joueurs, avec 10 cartes chacun. Le jeu continue jusqu'à ce qu'un joueur finisse d'un coup ; quand le talon est épuisé, la défausse est mélangée et retournée pour former un nouveau talon.
 
-Pour rendre la partie plus attrayante, on peut assouplir l'usage du Joker. Lorsqu'un Joker se trouve dans une combinaison étalée, le joueur qui détient la carte correspondant à la valeur attribuée à ce Joker peut s'en emparer et le remplacer par cette carte ; il lui est ensuite permis d'utiliser le Joker, en lui attribuant une autre valeur, dans n'importe quelle combinaison. Le décompte des points reste identique (Joker : 20 points ; figures : 10 ; cartes numérales : valeur nominale, l'As pour 1 point).
+**Rami avec un Joker (Fou).** On ajoute un Joker utilisé comme carte atout, remplaçant n'importe quelle carte. Il ne vaut aucun point en tant que tel. Dans un brelan de Rois terminé par un Fou, on compte 3 × 10 = 30 points ; dans une séquence 5-Fou-7, on ne compte que 12 points (5 + 7, le Fou remplaçant le 6). Un joueur qui possède la vraie carte remplacée (ici un 6) peut, à son tour, échanger le Fou contre elle et reprendre le Fou dans son jeu.
 
-*Exemple :* Jean a abattu un brelan formé de deux Rois et d'un Joker. Louis, qui détient un Roi, peut retirer le Joker du brelan, le remplacer par son Roi, puis — s'il possède par exemple deux Valets — déposer un brelan de Valets comprenant ses deux Valets et le Joker. Plus tard, Jacques, qui détient un Valet, s'empare à son tour du Joker, le remplace par son Valet et réutilise le Joker dans une autre combinaison.
+**Double Rummy (Rami à deux jeux).** Se joue avec deux jeux de 54 cartes (Jokers inclus). Quel que soit le nombre de joueurs, on distribue dix cartes chacun. Le Joker peut remplacer n'importe quelle carte ; une fois posé, n'importe quel joueur peut le remplacer par la carte équivalente. Cette variante utilise souvent un décompte de points « positifs » et « négatifs » :
 
-### Variante de décompte à points positifs
+- L'As vaut 11 points, sauf s'il est utilisé comme un 1 (par exemple dans la séquence As-2-3, où il vaut alors 1 point) ; les figures valent 10 points, les autres cartes leur valeur nominale ; le Joker vaut 25 points pour le décompte final.
+- Chaque joueur totalise d'abord les points « négatifs » des cartes restées en main, puis les soustrait de ses points « positifs » réalisés dans ses combinaisons.
+- Un carré vaut quatre fois la valeur totale de ses cartes : un carré de 6 (6+6+6+6 = 24) vaut 4 × 24 = 96 points.
+- Un brelan vaut trois fois la valeur d'une de ses cartes : un brelan de Rois vaut 30 points (10 × 3) ; un brelan d'As (33 points) vaut donc plus qu'un carré de 2 (32 points).
+- Une séquence vaut la somme de ses trois premières cartes : 4-5-6 = 15 points ; As-2-3 = 6 points. Une séquence Dame-Roi-As (l'As venant compléter par le haut) vaut 31 points, tandis que la séquence Roi-As-2 ne vaut que 13 points, car l'As y remplace un 1.
+- C'est le joueur qui totalise le plus de points qui remporte la partie.
 
-Certaines écoles marquent des points positifs pour les combinaisons étalées plutôt que de simples points perdus. Dans cette variante, l'As vaut 11 points (sauf employé comme un 1, par exemple dans la séquence As, 2, 3, où il ne vaut que 1) et les figures 10 points ; les autres cartes valent leur valeur nominale. Chaque joueur compte d'abord les points restés en main (points « négatifs »), qu'il soustrait des points « positifs » obtenus dans ses combinaisons :
+**Variante « Petite Misère » (l'inverse).** À l'opposé de l'objectif habituel, on cherche à conserver la main la plus faible possible. En y ajoutant un ou deux atouts (Jokers), on obtient une variante amusante et prolongée.
 
-- un **carré** vaut un fort bonus (par exemple, un carré de 6 est compté 96 points) ;
-- un **brelan** vaut trois fois la valeur d'une de ses cartes (un brelan de Rois vaut 30 points) ;
-- une **séquence** vaut la somme de la valeur de ses cartes (la séquence 4, 5, 6 vaut 15 points).
-
-La partie se joue alors jusqu'à un plafond convenu (par exemple 1 000 points) et c'est le joueur qui totalise le plus de points qui l'emporte. *(Système de décompte différent de la version Marabout ci-dessus ; à choisir avant la partie.)*
-
-### Le double Rummy
-
-Cette variante se joue avec deux jeux de 54 cartes (Jokers inclus). Quel que soit le nombre de joueurs, on distribue dix cartes. Le Joker peut remplacer n'importe quelle carte ; une fois posé, n'importe quel joueur peut le remplacer par une carte équivalente. Pour le décompte final des points, il vaut 25 points.
+**Jeux à grand nombre de joueurs.** Avec plus de six joueurs, on passe à des membres dédiés de la famille : le Double Rum, le Rum 500 ou le Rummy Contract, qui adaptent la donne et le décompte à l'effectif.

@@ -186,7 +186,7 @@ Si un joueur possède trois As en main, il doit, avant que le premier annonceur 
 
 Le silence le plus complet est exigé non seulement des joueurs, mais aussi des rentrants et des spectateurs éventuels. Toute parole ou observation peut être pénalisée d'un point.
 
-### Les infractions
+### Les infractions (Whist simple)
 
 - Si, par maladresse, le donneur retourne une carte, les autres joueurs peuvent exiger une nouvelle donne, faite par le même donneur, avant que l'atout soit connu. Si l'atout est connu, la donne peut être considérée comme bonne.
 - S'il y a maldonne et qu'un joueur joue avec douze cartes au lieu de treize, son partenaire ne peut pas faire la dernière levée ; mais si un adversaire a quatorze cartes, le coup est annulé et la donne passe au joueur suivant.
@@ -271,6 +271,83 @@ Certains amateurs le jouent à deux, avec deux morts. On suit les règles du Whi
 
 Il se pratique comme le Whist simple ; toutefois, la couleur d'atout se détermine autrement : on tire du deuxième jeu de cartes (celui qu'on n'utilise pas pour la partie) une carte quelconque qui indique l'atout.
 
-### Scoring américain
+### Le Whist selon les Lois américaines (Congrès de Chicago, 1893)
 
-Aux États-Unis, on utilise une façon de scorer plus simple : seuls existent les points de levées, les points d'honneurs n'étant pas pris en compte. La manche se joue alors en 7 points, et le premier camp à atteindre ce chiffre encaisse la différence entre son score et celui du perdant.
+Aux États-Unis, on utilise une marque plus simple : seuls comptent les points de levées, les points d'honneurs n'étant pas pris en compte. Les règles ci-dessous reprennent les « Lois du Whist » telles que revues et adoptées par le troisième congrès américain du Whist (Third American Whist Congress), tenu à Chicago en juin 1893.
+
+**La partie.** La partie se joue en 7 points ; chaque levée après la sixième compte pour 1 point. On détermine la valeur de la partie en soustrayant de sept points les points du perdant (le camp gagnant encaisse donc la différence entre son score et celui du perdant).
+
+**Comment former la table.** Les premiers arrivés dans la pièce ont la préférence. Si plus de quatre personnes se présentent parce que deux joueurs ou plus sont entrés ensemble, on fait couper un jeu de cartes pour choisir parmi les derniers arrivés : la carte la plus basse a la préférence sur toutes les autres. Six joueurs forment une table complète, la préférence allant au jeu à quatre. On désigne les partenaires en coupant : les deux joueurs ayant les cartes les plus hautes jouent ensemble contre ceux ayant les cartes les plus basses. Celui qui détient la carte la plus basse donne ; il a le choix des places et des cartes.
+
+- Si deux joueurs coupent des cartes intermédiaires d'égale valeur, ils coupent de nouveau ; celui qui détient la plus basse carte de la nouvelle coupe joue avec celui qui avait la plus basse carte au début.
+- Si trois joueurs coupent des cartes d'égale valeur, ils coupent de nouveau. Si le quatrième a coupé la carte la plus haute, les deux joueurs ayant les plus basses cartes de la nouvelle coupe jouent ensemble et la plus basse carte donne. Si le quatrième a coupé la carte la plus basse, il donne, et les deux joueurs ayant les cartes les plus élevées de la nouvelle coupe jouent ensemble.
+- À la fin d'une partie, s'il y a plus de quatre joueurs à la table, un nombre suffisant se retire pour céder la place à ceux qui attendent. On donne la préférence à ceux qui ont joué le plus petit nombre de parties consécutives ; entre joueurs ayant participé à un nombre égal de parties, on décide en coupant, la carte la plus basse ayant la préférence.
+- Pour avoir le droit d'entrer à une table, on doit manifester son intention de jouer avant qu'aucun des joueurs ait coupé dans le but de commencer la partie ou de déterminer les sortants.
+
+**La coupe.** En coupant, l'As est la carte la plus basse. Tous doivent couper avec le même paquet. Si un joueur expose plus d'une carte, il doit couper de nouveau. Au lieu de couper, on peut aussi tirer une carte d'un paquet étendu face contre table.
+
+**La mêlée (mélange).** Il faut mêler les cartes avant chaque donne. Quand on emploie deux paquets, le partenaire du donneur ramasse et mêle les cartes pour la donne suivante et les dépose à sa droite. Le donneur est toujours le dernier à mêler. On ne doit pas mêler un paquet pendant le jeu ni de façon à exposer une carte.
+
+**La coupe au donneur.** Le donneur présente le paquet à son adversaire de droite pour le faire couper. Celui-ci prend une partie du paquet sur le dessus et l'avance vers le donneur ; il faut qu'il reste au moins quatre cartes dans chacun des deux paquets. Le donneur réunit ensuite les paquets en plaçant la partie non retirée sur celle qui a été coupée.
+
+- Si l'on expose une carte en coupant ou en réunissant le paquet, le donneur doit mêler de nouveau et l'adversaire recoupe. En cas de confusion dans les cartes ou d'incertitude sur l'endroit exact de la coupe, il faut couper de nouveau.
+- Si le donneur remêle le paquet après qu'il a été bien coupé, il perd son tour de donner.
+
+**La donne.** Une fois le paquet dûment coupé et remis ensemble, le donneur distribue les cartes une à la fois, à chaque joueur à tour de rôle, en commençant par la gauche. La dernière carte, qui devient la carte d'atout, doit être retournée à l'endroit devant le donneur. À la fin de la main, ou si le donneur perd son tour, c'est au joueur suivant à sa gauche de donner ; chacun devient ainsi donneur à son tour.
+
+Le même donneur redistribue les cartes :
+- s'il y a une carte retournée à l'endroit dans le paquet, autre que la dernière ;
+- si l'on découvre, pendant la donne ou la main, que le paquet est inexact ou imparfait (on conserve toutefois les points inscrits précédemment en jouant avec ce même paquet).
+
+Si une carte est exposée pendant la donne, le camp adverse au donneur peut exiger une nouvelle donne, à condition que personne de son côté n'ait touché à une seule carte. S'il n'y a pas de nouvelle donne, la carte exposée n'est pas sujette à demande.
+
+On peut arrêter, avant que la carte d'atout soit retournée, tout joueur donnant hors de son tour ou se servant du paquet de l'adversaire. Une fois la carte d'atout retournée, la donne compte et, si les paquets ont été changés, ils le restent.
+
+**Maldonne.** Il y a maldonne :
+1. si le donneur ne fait pas couper le paquet et que ses adversaires s'en aperçoivent avant qu'il ait retourné la carte d'atout et avant qu'ils aient regardé leurs cartes ;
+2. s'il donne une carte incorrectement et ne corrige pas son erreur avant d'en donner une autre ;
+3. s'il compte les cartes qui sont sur la table ou qui restent dans le paquet ;
+4. si, le paquet étant complet, le donneur ne distribue pas à chaque joueur le bon nombre de cartes et si l'erreur est découverte avant que tous aient joué à la première levée ;
+5. s'il regarde la carte d'atout avant d'avoir donné toutes les cartes ;
+6. s'il pose la carte d'atout face en bas sur ses propres cartes ou sur celles d'un autre joueur.
+
+Lorsqu'il y a maldonne, le donneur perd son tour, à moins qu'un des adversaires n'ait touché à ses cartes pendant la donne ou n'ait interrompu le donneur d'une façon quelconque.
+
+**La carte d'atout.** Le donneur doit laisser la carte d'atout face en haut sur la table jusqu'à ce que ce soit son tour de jouer pour la première levée. Si elle reste sur la table après que l'on a joué et ramassé la seconde levée, elle devient une carte sujette à demande. Une fois qu'elle a été reprise légalement, il ne faut plus la nommer : tout joueur qui la nomme peut se voir demander par l'un ou l'autre adversaire d'abattre son plus haut ou son plus bas atout. Un joueur peut cependant demander de quelle couleur est l'atout.
+
+**Irrégularités dans les mains.** Si, après que tous les joueurs ont joué à la première levée (le paquet étant parfait), on constate qu'un joueur a plus ou moins de cartes qu'il ne devrait, les adversaires ayant leur bon nombre peuvent, dès la découverte, se consulter et choisir : soit demander une nouvelle donne, soit faire jouer la main sans tenir compte des cartes en trop ou en moins. Si un adversaire a aussi un nombre incorrect de cartes, il faut redonner. Si un joueur a une carte en trop parce qu'il n'a pas joué à une levée, ses adversaires ne pourront exercer ce privilège que lorsqu'il aura joué à la levée suivant celle où il a commis l'omission.
+
+**Cartes sujettes à demande.** L'un ou l'autre adversaire peut exiger l'une des cartes suivantes :
+1. toute carte posée à l'endroit sur la table, sauf au cours du jeu régulier ou s'il s'agit d'une carte jouée pour attaquer hors de tour ;
+2. toute carte jetée sur la table avec la carte d'attaque ou avec une autre carte jouée normalement (le joueur indique alors quelle carte il désirait jouer) ;
+3. toute carte tenue de telle manière que son partenaire puisse en voir l'endroit, même en partie ;
+4. toutes les cartes d'une main baissée ou montrée de façon que le partenaire puisse en voir plusieurs ;
+5. toute carte nommée par le joueur qui la détient.
+
+Ces cartes doivent rester face en l'air sur la table. À la demande, le joueur devra attaquer ou jouer avec une telle carte, pourvu qu'il puisse le faire sans renonce. La demande peut être répétée à chaque levée tant que la carte n'a pas été jouée. On ne peut empêcher un joueur de jouer ou d'attaquer avec une carte sujette à demande ; s'il parvient à s'en défaire au cours du jeu, aucune pénalité ne demeure.
+
+Si un joueur attaque avec une carte plus forte que celles de ses adversaires dans la même couleur, puis attaque de nouveau avec une ou plusieurs cartes sans attendre que son partenaire ait joué, l'un des adversaires peut lui demander de ramasser la première levée ; les autres cartes jouées hors de tour deviennent sujettes à demande.
+
+Un joueur ayant une carte sujette à demande ne doit pas en jouer une autre tant que l'adversaire n'a pas dit s'il désirait ou non qu'il joue la carte de pénalité. S'il joue une autre carte sans attendre la décision, cette carte devient elle aussi sujette à demande.
+
+**Entame hors de tour.** Si un joueur entame avant son tour, l'adversaire peut exiger de lui ou de son partenaire une couleur à sa guise la prochaine fois que ce sera au tour de l'un ou de l'autre d'attaquer. Cette pénalité ne peut être appliquée que par l'adversaire assis à la droite du joueur dont on peut légalement exiger une couleur. Si ce joueur n'a pas la couleur demandée, ou si tous les joueurs ont déjà joué après la fausse entame, la pénalité ne s'applique pas. Si tous n'ont pas joué à cette levée, les cartes jouées par erreur sur la fausse entame ne sont pas sujettes à demande et doivent être reprises par ceux qui les ont jouées.
+
+**Carte jouée hors de tour.** Si le troisième joueur joue avant le deuxième, le quatrième peut alors jouer, lui aussi, avant le deuxième. Si le troisième joueur n'a pas joué et que le quatrième joue avant le deuxième, le troisième peut exiger du deuxième qu'il joue sa plus haute ou sa plus basse carte de la couleur demandée ; s'il n'en a pas, on peut exiger qu'il joue ou ne joue pas atout à cette levée.
+
+**Mains abandonnées.** Si les quatre joueurs jettent leurs cartes sur la table, face en l'air, en même temps, il n'est plus permis de jouer cette main. Le résultat est établi tel que réclamé ou concédé ; cependant, si l'on découvre une renonce, la pénalité de renonce s'applique.
+
+**Renonce.** Une renonce est faite par erreur et non corrigée à temps : un joueur renonce lorsque, possédant en main une ou plusieurs cartes de la couleur d'attaque, il joue une carte d'une autre couleur. Il peut la corriger avant que la levée dont elle fait partie ne soit retournée et ramassée, sauf si lui ou son partenaire (que ce soit son tour ou non) a déjà attaqué ou joué à la levée suivante, ou si son partenaire a demandé s'il avait ou non une carte de la couleur renoncée.
+
+- Si un joueur corrige son erreur à temps pour éviter la renonce, la carte mal jouée devient sujette à demande. Tous les joueurs ayant joué après lui peuvent retirer leurs cartes, qui ne sont pas sujettes à demande.
+- La pénalité pour une renonce est le transfert de deux levées du côté fautif à ses adversaires. On peut l'appliquer autant de fois qu'il y a eu de renonces au cours d'une main. Le côté fautif ne peut pas gagner la partie dans cette main. Si les deux côtés commettent des renonces, ni l'un ni l'autre ne gagne cette main.
+- Le joueur qui a commis la renonce et son partenaire peuvent exiger que la main soit jouée en entier et compter tous les points qu'ils peuvent faire jusqu'à six.
+- À la fin d'une main, les joueurs qui prétendent qu'il y a eu renonce peuvent examiner toutes les levées. Si les levées sont mélangées, on peut déclarer la renonce et la prouver si possible ; aucune preuve n'est cependant nécessaire, et la renonce est reconnue si, après qu'elle a été déclarée, le joueur accusé ou son partenaire mélange les cartes avant qu'on ait pu les examiner à la satisfaction de l'adversaire.
+- On peut déclarer une renonce à tout moment avant que les cartes aient été présentées et coupées pour la donne suivante ; après, il est trop tard.
+
+**Divers.**
+- N'importe quel joueur peut exiger que les joueurs tirent leurs cartes pendant qu'on joue une levée, avant que les cartes aient été touchées pour les remettre ensemble.
+- Si, avant que son partenaire ait joué, un joueur attire l'attention d'une manière quelconque sur la levée en cours ou fait allusion aux points, le dernier adversaire à jouer sur cette levée peut exiger que le partenaire du fautif joue sa plus haute ou sa plus basse carte de la couleur d'attaque ; s'il n'en a pas, qu'il joue ou ne joue pas atout pour cette levée.
+- Si un joueur dit « Je puis remporter le reste », « Le reste nous appartient », « Nous tenons la partie » ou autres réflexions du même genre, son partenaire doit poser ses cartes sur la table et elles deviennent sujettes à demande.
+- Une levée ne doit pas être revue après avoir été retournée et ramassée, tant que la main n'est pas finie ; le côté qui commet cette faute encourt la même pénalité qu'une attaque hors de tour.
+- Si un joueur, légalement requis de jouer sa plus haute ou sa plus basse carte, de jouer ou de ne pas jouer atout, ou d'attaquer dans une couleur donnée, ne s'y conforme pas sans nécessité, il encourt la même pénalité que s'il avait commis une renonce.
+- Toutes les fois qu'un joueur est passible d'une pénalité, il doit attendre la décision des adversaires. Si l'un d'eux, avec ou sans le consentement de son partenaire, réclame la pénalité à laquelle il a droit, sa décision est finale.

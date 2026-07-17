@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Write complete, reliable French rules for one card game. The short version is a quick reference; the long version preserves the useful explanatory material from the source books.
+Write complete, reliable French rules for one card game. The short version ("Règle courte") is a self-contained, playable quick reference — enough to actually play a hand, not merely the goal. The long version ("Version longue") preserves the full explanatory material from the source books, including variants, examples and subtleties.
 
 ## Source Fidelity
 
@@ -31,11 +31,11 @@ Every file belongs in `rules/` and uses this structure:
 
 ## Règle courte
 
-Quick setup, turn order, legal moves and win condition. Keep this section usable at the table in under two minutes.
+Playable short rules — NOT just the objective. A reader must be able to sit down and play a full hand from this section alone. It MUST cover, concisely: setup and deal, card ranking/values if non-obvious, turn order, the legal moves on a turn, how a hand/round ends, and the win condition. Keep it usable at the table in under two minutes, but do not reduce it to a one-line goal. Reference files: `belote.md`, `poker.md`.
 
 ## Version longue
 
-The complete rule, including:
+The complete rule. It MUST go beyond the short rule and include documented variants, worked examples and subtleties (edge cases, priority rules, scoring nuances). Include:
 
 - matériel and exact deck composition;
 - player roles, teams and seating;
