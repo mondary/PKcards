@@ -1,62 +1,37 @@
 # Le Pouilleux
 
-**Nombre de joueurs :** 4 à 8 (jusqu'à 7 ou 8 selon le jeu utilisé)
-**Nombre de cartes :** 32 ou 52, dont on retire trois Valets pour ne laisser que le Valet de pique (le « vieux garçon »)
+**Nombre de joueurs :** À partir de 2, sans limite (chacun pour soi)
+**Nombre de cartes :** 51 (un jeu de 52 dont on retire une des quatre Dames)
 **Difficulté :** Facile
 **Type :** Combinaisons, Défausse, Hasard
-**But :** Se débarrasser de toutes ses cartes ; ne pas rester avec le Valet de pique, qui fait perdre.
-**Autres noms :** Le Vieux Garçon, Le Dernier Valet, Old Maid, La Pouilleuse
-
-> Le joueur qui reste avec le Valet de pique perd la partie.
+**But :** Former et écarter toutes ses paires ; ne pas rester avec la carte isolée à la fin de la partie.
+**Autres noms :** La Vieille Fille, La Sorcière, La Vieille, Old Maid
 
 ---
 
 ## Règle courte
 
-On retire trois Valets du jeu (32 ou 52 cartes) pour ne conserver que le Valet de pique. Chacun reçoit le même nombre de cartes, dépose ses paires visibles, puis présente ses cartes restantes (faces cachées) à son voisin, qui en tire une. Si la carte tirée complète une paire, elle est déposée. On se débarrasse ainsi de toutes ses cartes ; celui qui reste avec le Valet de pique — impossible à apparier — a perdu.
+On joue à 51 cartes : d'un jeu de 52, on retire une des quatre Dames, de sorte qu'il reste trois Dames dont une ne pourra jamais être appariée. On distribue toutes les cartes, une à une, à tous les joueurs, même si le compte n'est pas égal.
+
+Chacun examine son jeu et écarte, faces visibles, toutes les paires qu'il possède (deux cartes de même rang). Le donneur présente ensuite son jeu étalé, faces cachées, à son voisin de gauche, qui y pige une carte. Si cette carte complète une paire, il l'écarte ; puis il présente à son tour son jeu à son voisin de gauche, et ainsi de suite.
+
+On continue jusqu'à ce que toutes les paires aient été écartées et qu'il ne reste que la Dame dépareillée. Le joueur qui détient cette carte est la « Vieille Fille » (ou Sorcière) et perd la partie.
 
 ## Version longue
 
-### Généralités
+**Généralités.** C'est un jeu d'une grande simplicité, qui enchante les enfants et convient aux joueurs novices s'exerçant au maniement des cartes.
 
-C'est un jeu d'une simplicité enfantine qui présente peu d'intérêt, mais peut intéresser les joueurs novices qui s'exercent au maniement des cartes.
+**Les joueurs et les cartes.** Le nombre de joueurs peut aller de deux à l'infini, chacun jouant pour soi. On se sert de 51 cartes : un jeu de 52 dont on a retiré une des quatre Dames. Il reste donc trois Dames, ce qui garantit qu'une Dame demeurera toujours isolée en fin de partie.
 
-### Les joueurs et les cartes
+**La donne.** N'importe quel joueur mêle les cartes et les donne, une à la fois, à chaque joueur, tant qu'il en reste, même si le compte n'aboutit pas à l'égalité entre les joueurs.
 
-Suivant le nombre des joueurs, qui peut aller de quatre à sept ou huit, on se sert d'un jeu de trente-deux cartes ou d'un jeu de cinquante-deux cartes. Dans l'un comme dans l'autre cas, on enlève trois Valets du paquet pour n'y laisser que le Valet de pique, dit le vieux garçon.
+**Déroulement.** La donne terminée, chacun retire de son jeu, par deux, toutes les paires de cartes semblables qu'il détient et les dépose faces visibles (par exemple, un joueur qui a trois 6 ne peut en écarter que deux, la troisième restant en main).
 
-### La donne
+Le donneur présente alors son jeu, étalé et faces cachées, à son voisin de gauche, qui y pige une carte. Ce dernier écarte toute paire formée grâce à la carte pigée, puis présente à son tour son jeu à son voisin de gauche. On continue ainsi, de proche en proche, jusqu'à ce que toutes les paires aient été écartées et qu'il ne reste que la Dame isolée, avec laquelle aucune paire ne peut être formée.
 
-À tour de rôle, chacun des joueurs distribue les cartes, muettes, une par une ou deux par deux, de façon que chacun ait en main le même nombre de cartes. Si, après la donne, il reste des cartes, celles-ci sont distribuées jusqu'à la fin du paquet. Certains joueurs se trouvent alors légèrement désavantagés, ayant une carte de plus que le ou les derniers.
-
-### Déroulement
-
-La donne terminée, chacun examine son jeu et dépose sur le tapis, visibles, les paires qu'il peut contenir.
-
-Le premier joueur présente alors à son voisin de droite, faces cachées, les cartes qui lui restent ; celui-ci en choisit une. Si cette nouvelle carte lui permet de réaliser une paire, il la dépose sur le tapis.
-
-Ensuite, qu'il ait déposé une paire ou non, il présente le solde de ses cartes à son voisin de droite, qui en choisit une, et ainsi de suite.
-
-### Fin de partie
-
-Celui qui, le premier, s'est débarrassé de toutes ses cartes gagne. Celui qui reste avec le Valet de pique — qui ne peut entrer dans aucune paire — perd la partie.
+**Fin de la partie.** Le joueur qui détient cette Dame isolée est la « Vieille Fille » (ou Sorcière) et perd la partie ; les autres, qui se sont débarrassés de toutes leurs cartes, gagnent.
 
 ## Règles spéciales
 
-- Le Valet de pique est la seule carte impossible à apparier, puisque ses trois compagnons ont été retirés du paquet.
-- Lorsque la donne n'est pas rigoureusement égale, les joueurs ayant une carte de plus que les autres sont légèrement désavantagés.
-
-## Variantes
-
-### Le Pouilleux à 51 cartes (pioche chez le voisin)
-
-On joue avec 52 cartes dont on retire un seul Valet (par exemple le Valet de trèfle), de sorte que le Valet de pique n'ait plus de partenaire de sa couleur (les paires se font par valeur et par couleur : cœur/carreau pour le rouge, trèfle/pique pour le noir).
-
-1. On distribue toutes les cartes entre les joueurs.
-2. Chaque joueur défausse d'emblée les paires qu'il détient.
-3. À son tour, chaque joueur pioche une carte au hasard dans la main de son voisin (sans la montrer). Si elle complète une paire, il la défausse aussitôt.
-4. On continue jusqu'à ce que toutes les paires aient été défaussées ; le joueur resté avec le Valet de pique perd.
-
-### Le pouilleux caché
-
-La carte qui doit rester seule est tirée au hasard en début de partie, sans que personne ne la voie. Celui qui perd est le seul joueur à qui il reste une carte. Cette variante ne permet pas de savoir à l'avance quelle carte fera perdre.
+- **Écart erroné.** Si un joueur écarte deux cartes qui ne forment pas une paire, il restera trois cartes dépareillées à la fin au lieu d'une seule. C'est alors le joueur ayant commis cette erreur qui devient la « Vieille Fille ».
+- **Paire multiple.** Lorsqu'un joueur possède trois cartes de même rang, il ne peut en écarter que deux : la troisième reste en jeu.
