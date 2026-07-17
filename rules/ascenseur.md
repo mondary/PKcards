@@ -1,78 +1,53 @@
 # L'Ascenseur
 
-**Nombre de joueurs :** 3+
-**Nombre de cartes :** 52 (54 sans jokers)
+**Nombre de joueurs :** 4 à 6
+**Nombre de cartes :** 52
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Défausse, Enchères
-**But :** Réaliser le nombre de plis annoncés
+**Type :** Jeu de plis, Enchères
+**But :** Remporter le plus de points en réussissant ses contrats de plis
 **Autres noms :** L'Ascenseur, Lift (jeu)
 
 ---
 
-## Préparation
+## Règle courte
 
-### Ajustement du jeu de cartes
+À chaque donne, les joueurs parient sur le nombre de plis qu'ils vont faire. Toutefois, le nombre de cartes en main change chaque fois. Autrement dit, le jeu est très facile au début mais se corse en cours de route !
 
-On retire des cartes pour avoir un **multiple du nombre de joueurs** :
+## Version longue
 
-| Joueurs | Cartes retirées | Total |
-|---------|-----------------|-------|
-| 3 | 1 carte (un 2) | 51 |
-| 4 | aucune | 52 |
-| 5 | 2 cartes (deux 2) | 50 |
-| 6 | 4 cartes (quatre 2) | 48 |
-| 7 | 3 cartes (trois 2) | 49 |
+### Distribution des cartes
 
-### Distribution « Ascenseur »
+Le donneur distribue une carte à chaque joueur dans le sens des aiguilles d'une montre. Son voisin de gauche sera le donneur suivant. Lui distribuera deux cartes (une par une) et, ainsi de suite, jusqu'au maximum (huit cartes à six joueurs, dix cartes à cinq joueurs ou 13 cartes à quatre joueurs).
 
-- 1ère manche : **1 carte** par joueur
-- 2ème manche : **2 cartes**
-- ...jusqu'à ce qu'il n'en reste plus assez, puis on **redescend** jusqu'à 1 carte
+Les joueurs entameront ensuite la descente en distribuant une carte de moins à chaque donne jusqu'à revenir à une carte. Cette dernière donne mettra un terme à la partie. C'est d'ailleurs de ce principe que nous vient le nom de ce jeu.
 
-### Atout
+La couleur d'atout d'une donne est déterminée en retournant la première carte non distribuée. À quatre joueurs, la manche médiane, celle où le donneur distribue 13 cartes à chacun, se joue sans atout, car il ne reste aucune carte dans le talon.
 
-- S'il reste des cartes dans le talon → retourner la 1ère carte → sa couleur = **atout**
-- Si le talon est vide → partie **sans atout**
+### Les paris
 
-### Contrats
+En partant du joueur à gauche du donneur, donc dans le sens des aiguilles d'une montre, chacun parie sur le nombre de plis qu'il va faire. Bien entendu, il est interdit de revenir sur son pari.
 
-En commençant par le joueur à droite du Donneur, chaque joueur annonce le nombre de plis qu'il compte réaliser. Le Donneur annonce en dernier.
+Notez que le total des paris ne doit jamais équivaloir au nombre de plis de la donne. Prenons l'exemple d'une donne à quatre cartes. Le premier joueur annonce un pli, le second, deux. Personne ne peut donc ajouter à cette annonce. Les autres joueurs annoncent donc zéro pli.
 
-> **Règle :** Le nombre total de plis annoncés ne peut **pas** être égal au nombre de plis réalisables.
+### Début du jeu
 
-## Ordre des cartes
+Il est obligatoire de jouer la couleur demandée, à moins qu'un joueur n'ait pas cette couleur en main. Un joueur ne peut pas entamer un pli avec un atout tant qu'il lui reste d'autres cartes en main.
 
-**2 (la plus faible) → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → Valet → Dame → Roi → As (la plus forte)**
+Au premier tour, le donneur distribue une carte à chacun et retourne la carte sur le dessus du talon afin de déterminer l'atout. Pour ce premier tour, un seul joueur peut annoncer un pli.
 
-## Déroulement
+Le plus fort atout ou la plus forte carte de la couleur entamée remporte le pli. Il n'y a aucune obligation de monter à l'atout ou à la couleur ni de couper. On peut aussi entamer à l'atout quand on le désire.
 
-1. Le joueur à droite du Donneur lance la **première carte** → sa couleur = couleur demandée
-2. Les joueurs jouent dans le sens horaire :
-   - **Suivre** la couleur demandée si possible
-   - **Couper** (jouer un atout) si on ne peut pas suivre
-   - **Défausser** (n'importe quelle carte) si on ne peut ni suivre ni couper
-3. L'atout est toujours plus fort que la couleur coupée
-4. Le gagnant du pli lance la carte du tour suivant
+Le joueur ayant le plus de points à l'issue de la dernière manche remporte la partie.
 
-## Calcul des points
+### Calcul des points
 
-| Situation | Points |
-|-----------|--------|
-| **Contrat réussi** (nb de plis annoncés = nb réalisés) | plis annoncés + somme des points perdus par les joueurs qui ont chuté |
-| **Contrat échoué** (trop ou pas assez de plis) | différence entre plis annoncés et plis réalisés (négatif) |
+Dans le cas de la réussite d'un contrat, un joueur remporte 3 points en plus de 2 points par pli gagné. Une réussite sur deux plis remporte donc deux fois 2 points plus les 3 points boni, ce qui donne 7 points au total.
 
-## Exemple
+Dans le cas d'un échec, on soustrait 1 point chaque fois qu'un joueur a obtenu un pli en moins ou en plus de son contrat. Un échec sur un contrat de deux plis, alors qu'on n'en a fait qu'un, exige donc qu'on retranche 1 point à ce joueur.
 
-| Joueur | Annoncé | Réalisé | Points |
-|--------|---------|---------|--------|
-| Jeanne | 2 | 3 | -1 |
-| Pierre | 4 | 1 | -3 |
-| Paul | 2 | 2 | +6 (2 + 4 des chutes) |
-| Martine | 1 | 1 | +5 (1 + 4 des chutes) |
+Un contrat de zéro pli réussi vaut 3 points.
 
-> Le joueur à droite du Donneur devient le Donneur de la manche suivante.
+## Variantes
 
-## Variante : L'enculette
-
-- On n'utilise que les **atouts d'un jeu de tarot**
-- Quand une seule carte est distribuée, les joueurs **ne la regardent pas** → ils la posent sur leur front et estiment qui fera le pli selon les expressions des autres
+- Usez d'imagination pour créer des situations particulières dans ce jeu.
+- Vous pouvez aussi ajouter les Fous… Ils représenteraient par exemple les seuls atouts d'une manche sans atout !

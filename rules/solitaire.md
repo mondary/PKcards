@@ -1,59 +1,49 @@
-# Solitaire
+# Le Solitaire
 
 **Nombre de joueurs :** 1
 **Nombre de cartes :** 52
-**Difficulté :** Facile
-**Type :** Combinaisons, Patience, Hasard
-**But :** Reconstituer 4 piles de cartes (une par couleur) en suites croissantes de l'As au Roi
-**Autres noms :** Solitaire, Patience, Klondike
+**Difficulté :** Moyenne
+**Type :** Patience
+**But :** Reconstruire les quatre séries de cartes, de l'As au Roi
+**Autres noms :** Solitaire, Patience
 
 ---
 
-## Mise en place
+## Règle courte
 
-Former **7 colonnes** avec les cartes mélangées :
+Comme chez la plupart des patiences, il faut, à partir d'un placement désordonné, que le joueur reconstruise un certain ordre. Dans ce cas, il s'agit de mettre en ordre, c'est-à-dire de l'As jusqu'au Roi, chacune des quatre séries d'un jeu de cartes.
 
-| Colonne | Cartes visibles | Cartes cachées |
-|---------|-----------------|----------------|
-| 1 | 1 | 0 |
-| 2 | 1 | 1 |
-| 3 | 1 | 2 |
-| 4 | 1 | 3 |
-| 5 | 1 | 4 |
-| 6 | 1 | 5 |
-| 7 | 1 | 6 |
+## Version longue
 
-- Les 4 emplacements vides à gauche = **piles de Fondation**
-- Les cartes restantes = **pioche**
+### Ordre des cartes
 
-## Déroulement
+Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As.
 
-### Déplacer une carte vers les piles de Fondation
+### Disposition des cartes
 
-- Si un **As** est visible, glissez-le sur l'emplacement libre de la bonne couleur.
-- Puis placez le 2, le 3, etc. jusqu'au Roi (suites croissantes).
-- À chaque carte retirée, retournez celle qui était dessous.
+Enlevez les Fous, puis distribuez ensuite les cartes devant vous en sept piles de la façon suivante :
 
-### Déplacer une carte d'une colonne vers une autre
+- Découvrez une première carte, qui formera seule la première pile ;
+- À droite de la première carte, placez six autres cartes, face cachée, qui seront le début des autres piles ;
+- Passez tout de suite à la seconde pile et déposez-y une carte, à découvert ;
+- À droite de celle-ci, placez une carte, face cachée, sur chacune des autres piles ;
+- Et ainsi de suite.
 
-Deux conditions :
-1. Créer une **suite décroissante**
-2. **Alterner les couleurs** (rouge sur noir, noir sur rouge)
+En fin de compte, la pile la plus à gauche ne comptera qu'une seule carte. La deuxième pile en aura deux, la troisième, trois, la quatrième, quatre, la cinquième, cinq, la sixième, six, et la septième, sept. Chaque fois, la carte du dessus est à découvert.
 
-> **Roi sur colonne vide :** Seul un Roi peut remplir une colonne vide.
+Il vous reste donc 24 cartes pour faire des suites.
 
-> **Déplacement de groupe :** On peut déplacer plusieurs cartes si l'alternance rouge/noir est respectée et qu'elles forment une suite décroissante.
+### Début du jeu
 
-### Piocher une carte
+Dans le talon, tournez trois cartes à la fois. Vous devez placer celle qui se retrouve sur le dessus. Vous pigerez toujours trois cartes dans le talon lorsque vous ne pourrez plus changer l'ordre des piles.
 
-Quand il n'y a plus de coup légal, piochez dans la pioche (1, 2 ou 3 cartes selon la variante). Les cartes piochées sont posées sur la table. Jouez celles que vous pouvez.
+Faites des suites, peu importe les cœurs, piques, trèfles et carreaux. La carte du haut de la pile aura la plus forte valeur. Lorsque vous tomberez sur un As, placez-le de côté. S'il est en cœur, vous pourrez donc entreprendre votre série de cœur.
 
-### Déplacement de Fondation vers colonne
+### Fin de partie
 
-Il est possible de reprendre une carte d'une pile de Fondation pour la placer sur une colonne.
+La partie se termine lorsque vous avez fait les quatre séries de cartes ou lorsque vous ne pouvez plus continuer du tout.
 
-## Fin du jeu
+## Variantes
 
-**Victoire :** Les 4 piles de Fondation sont complètes (As jusqu'au Roi, une par couleur).
-
-**Défaite :** Plus aucun coup possible alors qu'il manque des cartes dans les Fondations.
+- Pigez une carte dans le talon plutôt que trois. Vous augmenterez ainsi vos chances de succès.
+- Limitez le nombre de tours. Par exemple, vous pouvez décider de ne retourner le talon que trois fois, après quoi vous ne pouvez plus continuer.

@@ -1,42 +1,67 @@
 # Le Barbu
 
-**Nombre de joueurs :** 4 à 8
-**Nombre de cartes :** 52 (2 jeux à 6+ joueurs)
+**Nombre de joueurs :** 4
+**Nombre de cartes :** 52
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Enchères
-**But :** Avoir le moins de points à la fin de la partie
+**Type :** Jeu de plis, Combinaisons
+**But :** Répondre aux exigences de sept contrats différents
 **Autres noms :** Le Barbu
 
 ---
 
 ## Règle courte
 
-Le barbu, c'est le Roi de cœur. C'est la carte qu'il faut absolument éviter de prendre lors des deux dernières manches de ce jeu, qui en compte cinq.
+Le Barbu est un jeu de création récente, codifié par les joueurs de Bridge. Chaque manche se compose de sept coups différents obéissant à des règles et des objectifs propres. Cinq choix « négatifs » où il faut éviter certaines cartes, et deux choix « positifs » où l'on tend vers un but constructif.
 
 ## Version longue
 
+### Matériel
+
+Un jeu de 52 cartes.
+
+### Ordre des cartes
+
+C'est l'ordre habituel du jeu, de l'As au 2.
+
 ### Distribution des cartes
 
-Chaque joueur donne les cartes tour à tour. Le donneur distribue toutes les cartes. Il doit cependant voir à ce que tous les joueurs en aient un nombre identique. C'est le joueur situé à gauche du donneur qui entame.
+Le donneur, qui demeure le même durant les sept coups constituant une manche, distribue une à une treize cartes à chaque joueur dans le sens des aiguilles d'une montre.
 
-Le barbu respecte les grandes règles classiques des jeux de stratégie comme la Dame de pique. L'ordre des cartes va donc de l'As, la plus forte, au 2. Toutefois, les objectifs changent en cours de route, selon les manches.
+### Déroulement de la partie
 
-À la fin de la partie, le joueur ayant le moins de points est le vainqueur.
+Une partie de Barbu se joue en quatre manches, chaque joueur étant successivement donneur sur une manche. Chaque manche est composée de sept coups différents, obéissant à des règles et des objectifs propres. L'ordre dans lequel ces coups se jouent dépend de la volonté du donneur, ou « déclarant », qui prend ses décisions au vu de sa propre main.
 
-### Les cinq manches
+**Règles de jeu de la carte (communes à tous les choix) :**
 
-1. **Le moins de levées.** À la fin de la manche, chaque joueur compte 5 points par levée (ou pli) qu'il a réalisée.
+- Sur chaque choix, c'est le déclarant qui entame.
+- Les joueurs sont tenus de fournir la Couleur demandée par le joueur qui attaque la levée.
+- Le joueur qui joue la plus forte carte de la Couleur demandée remporte la levée et attaque la levée suivante.
+- Le joueur qui n'a pas de carte de la Couleur demandée en main peut se défausser.
 
-2. **Pas de cœur.** Le but est de ramasser le moins de cœurs possible dans ses plis. Chaque cœur ramassé vaut 5 points.
+### Les cinq choix négatifs
 
-3. **Pas de Dames.** Il faut éviter de ramasser des Dames, chacune valant 20 points.
+**Le Barbu (Roi de cœur) :** Il faut éviter de le ramasser, sous peine d'une pénalité de 20 points. Il est interdit de jouer Cœur tant que l'on possède encore des cartes d'une autre Couleur.
 
-4. **Le barbu.** Si on a le Roi de cœur dans son jeu, on doit s'ajouter 80 points.
+**Les Cœurs :** Il faut éviter de prendre des Cœurs dans ses levées, sous peine d'une pénalité de 2 points par Cœur et de 6 points pour l'As. Interdiction de jouer Cœur tant que l'on possède des cartes d'une autre Couleur.
 
-5. **La salade.** C'est un mélange de toutes les manches. Il faut donc éviter de faire une levée et ne prendre aucune carte de cœur, aucune Dame et surtout pas le Roi de cœur. À la fin de cette manche, on compte les points selon les règles établies pour toutes les manches précédentes.
+**Les Dames :** Il faut éviter de ramasser des Dames, sous peine d'une pénalité de 6 points par Dame.
 
-## Variantes
+**Les Levées :** Il faut éviter de faire des levées, sous peine d'une pénalité de 2 points par levée.
 
-- Une variante consiste à laisser le joueur situé après le donneur choisir le jeu : le moins de levées possible, pas de cœurs, pas de Dames, le barbu ou la salade. Chaque joueur choisit à son tour. C'est cependant le joueur situé à droite du donneur qui entame.
-- Jouez au plus grand nombre de levées possibles. Cela peut se faire lors d'une manche ajoutée après la cinquième habituelle. Chaque joueur enlèvera 5 points à son total chaque fois qu'il fera une levée.
-- À six joueurs et plus, on peut utiliser deux jeux de cartes. Lorsque plusieurs joueurs déposent la même carte, c'est celui qui l'a présentée en dernier qui remporte la levée.
+**Les Deux der :** Il ne faut réaliser ni l'avant-dernière levée (pénalisée de 10 points) ni la dernière levée (pénalisée de 20 points).
+
+### Les deux choix positifs
+
+**L'Atout :** Il faut réaliser le plus de levées possible, le coup se jouant avec une Couleur choisie comme Atout par le déclarant. L'Atout a préséance sur les autres Couleurs. Lorsqu'un joueur n'a pas de carte dans la Couleur demandée, il est tenu de couper, et de surcouper si l'on a coupé devant lui. Chaque levée réalisée rapporte 5 points.
+
+**La Réussite :** Il faut se débarrasser de ses cartes le plus rapidement possible, en reconstituant dans l'ordre les quatre Couleurs du jeu. À partir d'une carte d'une certaine hauteur (un 9, par exemple), les joueurs doivent compléter chaque famille par la carte immédiatement supérieure ou inférieure. La hauteur de la réussite est fixée par le déclarant. Il est interdit de passer si l'on peut poser une carte. Le joueur qui se débarrasse le premier marque 45 points, le second 20 points, le troisième 10 points et le dernier se voit infliger une pénalité de 10 points.
+
+### Les contres
+
+Les joueurs peuvent se contrer entre eux. Par le contre, un joueur s'engage à faire aussi bien ou mieux que le joueur qu'il a contré. Chaque joueur doit obligatoirement contrer deux fois le déclarant sur l'ensemble de la manche. On ne peut contrer que le déclarant sur les choix positifs.
+
+### Stratégie
+
+L'ordre dans lequel les contrats sont choisis n'est pas indifférent. Il est conseillé de se débarrasser en priorité des choix les plus « chers » : le Barbu, les Deux der, les Cœurs, les Dames, les Levées, l'Atout et la Réussite. Il vaut mieux conserver ses choix positifs pour la fin, car le fait de pouvoir choisir la Couleur d'Atout et la hauteur de la réussite constitue un avantage tel que l'on est le plus souvent à l'abri du contre.
+
+La place que l'on occupe par rapport au déclarant n'est pas indifférente non plus. Le premier à parler ne peut contrer les autres joueurs qu'avec une très belle main. Le dernier à parler peut facilement tirer profit des enchères précédentes.

@@ -1,44 +1,30 @@
 # La Réussite
 
 **Nombre de joueurs :** 1
-**Nombre de cartes :** 32
+**Nombre de cartes :** 52
 **Difficulté :** Facile
 **Type :** Patience
-**But :** Réussir à mettre toutes les cartes à la bonne place sur la grille, avant de trouver les 4 as !
+**But :** Retourner toutes les cartes en les plaçant aux bonnes positions
 **Autres noms :** Réussite, Patience, Solitaire
 
 ---
 
-## Préparation
+## Règle courte
 
-### Grille
+Disposez les cartes en cercle comme les chiffres d'une horloge, avec une carte au centre. Retournez les cartes une à une en les plaçant à la position correspondante.
 
-- Disposer les cartes **face cachée** pour former une grille de **4 lignes et 7 colonnes**.
-- Poser les **4 cartes restantes** en paquet, à côté de la grille.
+## Version longue
 
-### Tableau à double entrée
+### Disposition des cartes
 
-La grille fonctionne selon un **tableau à double entrée** :
+Enlevez les Fous d'un jeu de cartes. Disposez ensuite, face cachée, les 52 cartes en cercle en imitant les chiffres d'une horloge. Lorsque vous avez placé les 12 premières cartes, mettez-en une au centre. C'est la treizième heure, qui sert aussi de talon.
 
-| | 7 | 8 | 9 | 10 | Valet | Dame | Roi |
-|---|---|---|---|---|---|---|---|
-| **Cœur** | | | | | | | |
-| **Carreau** | | | | | | | |
-| **Trèfle** | | | | | | | |
-| **Pique** | | | | | | | |
+Le jeu consiste simplement à retourner toutes les cartes.
 
-## Déroulement
+### Début du jeu
 
-### Tour de jeu
+Vous avez donc quatre cartes à chacune des 13 positions sur le jeu. Découvrez la carte sur le dessus du talon et placez-la sur le chiffre correspondant sur l'horloge : s'il s'agit d'un 6, placez-le en bas complètement, sur la pile de cartes correspondant à la sixième heure d'une horloge. Prenez alors la carte non découverte sur le dessus de cette pile et placez-la là où elle va. Et ainsi de suite jusqu'à ce que vous ayez découvert toutes les cartes.
 
-1. **Retourner la première carte** du paquet.
-2. En fonction de sa **couleur** et de sa **valeur**, placer la carte à la **bonne place** dans la grille.
-3. **Retirer la carte face cachée** qui se trouvait là, la placer à son tour au bon endroit, etc.
+Si vous découvrez un Roi, vous le laissez à découvert sur le talon et découvrez la seconde carte de ce même talon.
 
-### Cas particulier : les As
-
-- Si la carte retournée est un **as** → dommage ! Il faut le poser **à côté**, et continuer en prenant une **nouvelle carte du paquet**.
-
-## Fin de partie
-
-Si toutes les cartes sont à leur place **avant que les 4 as ne soient retournés**, la réussite est **gagnée** !
+Tant que vous le pouvez, découvrez des cartes. Si vous ne pouvez plus bouger, vous avez perdu ! C'est aussi simple que ça.

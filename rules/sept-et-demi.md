@@ -1,57 +1,49 @@
 # Le Sept-et-Demi
 
 **Nombre de joueurs :** 2+ (un banquier et des pontes)
-**Nombre de cartes :** 32
-**Difficulté :** Moyenne
+**Nombre de cartes :** 40 (sans les 8, 9, 10)
+**Difficulté :** Facile
 **Type :** Hasard
-**But :** Faire 7 points et demi
+**But :** Faire 7,5 points ou s'en approcher sans les dépasser
 **Autres noms :** Le Sept-et-Demi, Sette e Mezzo (Italie)
 
 ---
 
-## Histoire
+## Règle courte
 
-Jeu de pur hasard apparenté au Vingt-et-Un. Beaucoup pratiqué dans les cercles et tripots.
+Chaque joueur mise, puis reçoit des cartes. Le but est d'atteindre 7,5 points sans les dépasser. Les figures valent 0,5 point. Le banquier joue en dernier.
 
----
+## Version longue
 
-## Valeur des cartes
+### Valeur des cartes
 
 | Carte | Points |
 |-------|--------|
-| Roi | 4 |
-| Dame | 3 |
-| Valet | 2 |
+| Figures (Roi, Dame, Valet) | 0,5 |
 | As | 1 |
-| 7 | 1 |
-| 10, 9, 8 | **1/2 point** |
+| 2 à 7 | Valeur faciale |
 
-> Le but est de faire **7 points 1/2**.
+### Préparation
 
----
+- Chaque joueur reçoit un nombre égal de **jetons**.
+- Le **banquier** (donneur) est tiré au sort.
 
-## Déroulement
+### Déroulement
 
-### La donne
+1. Chaque joueur pose sa **mise** devant lui.
+2. Le banquier distribue **une carte face cachée** à chaque joueur et à lui-même.
+3. À tour de rôle, chaque joueur peut :
+   - **« Je reste »** → satisfait de son total.
+   - **« Je tire » / « Carte »** → demande une carte supplémentaire.
+4. Si un joueur dépasse 7,5, il **« crevait »** et perd sa mise.
+5. Le banquier joue en dernier.
 
-Le banquier distribue **1 carte** à chaque ponte selon un ordre alterné (voisin de droite, voisin de gauche, 2e voisin de droite, etc.).
+### Résultats
 
-### Les demandes
-
-Chacun, à tour de rôle, demande **une ou plusieurs cartes** à découvert.
-
-### Résolution
-
-| Point | Conséquence |
-|-------|-------------|
-| **Plus de 7 1/2** (« crève ») | La mise revient au banquier |
-| **7 1/2 exact** | Le banquier paie le **double** de la mise |
-| **Moins de 7 1/2** | On compare avec le banquier |
-
-> Si le banquier crève, il paie la mise à tous les pontes et cède la banque à son voisin de droite.
-
----
+- Si le banquier fait 7,5 exactement, il ramasse toutes les mises.
+- Sinon, il compare avec chaque joueur : verse à ceux qui ont plus (sans dépasser 7,5), ramasse ceux qui ont moins ou qui ont « crevé ».
+- En cas d'égalité, le joueur récupère sa mise.
 
 ## Variante
 
-On peut convenir que le premier ponte à faire 7 1/2 remplacera le banquier en temps voulu, ou qu'après 3-4 parties on change systématiquement de banquier.
+- Certaines variantes permettent au banquier de tirer ou non selon des règles fixes (par exemple, rester à 5 ou plus).

@@ -3,74 +3,30 @@
 **Nombre de joueurs :** 2 à 4
 **Nombre de cartes :** 52
 **Difficulté :** Moyenne
-**Type :** Combinaisons, Défausse, Patience
-**But :** Capturer autant de cartes de la disposition centrale que possible
+**Type :** Combinaisons, Défausse
+**But :** Conserver deux ou trois cartes totalisant 9 ou la valeur la plus proche de 9 possible
 **Autres noms :** Casino, Cassino
 
 ---
 
-## Histoire
+## Règle courte
 
-Seul jeu de « pêche » populaire dans le monde anglophone. Les joueurs « capturent » des cartes du tableau en utilisant les cartes de leur main.
+Ce jeu de casino style Baccara peut devenir tout à fait palpitant même si on ne joue pas à l'argent. Faites vos paris sur papier seulement !
 
-## Ordre des cartes
+## Version longue
 
-Roi (plus fort), Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As (plus faible).
+### Début du jeu
 
----
+L'objectif du Baccara est de conserver deux ou trois cartes totalisant 9 ou la valeur la plus proche de 9 possible.
 
-## La donne
+Le donneur distribue les cartes au joueur et à lui-même. En fonction de la valeur de la main de deux cartes initiale, une troisième carte peut être donnée à l'un ou à l'autre. À la fin, la main gagnante est celle qui est la plus proche de 9.
 
-1. **4 cartes** par joueur + **4 cartes** face visible au centre (la disposition).
-2. Distribuées traditionnellement en paires.
+Dans ce jeu, on ignore le chiffre des dizaines. Ainsi, 9 + 7 valent 6, et non 16.
 
----
+### Valeur des cartes
 
-## Les 4 types de capture
-
-### 1. Capture de paire
-Capturer une carte de la disposition avec une carte de **même valeur nominale** de sa main.
-
-### 2. Capture de groupe
-Capturer **2 cartes ou plus** dont la somme des valeurs égale la valeur d'une carte de sa main.
-
-### 3. Capture de groupe et de paire
-Combiner les deux méthodes ci-dessus. Si on capture **toutes les cartes** de la disposition → **balayage** (+1 point, le joueur suivant doit traîner).
-
-### 4. Capture de figure
-Une figure capture la figure correspondante de la disposition. Si 3 figures identiques sont visibles, la quatrième les capture toutes.
-
----
-
-## Bâtir
-
-On peut ajouter une carte de sa main à une carte de la disposition pour créer une **bâtisse**. La valeur totale ne doit pas dépasser 10. On doit détenir une carte égale à cette valeur totale.
-
-### Bâtisse multiple
-Augmenter la valeur d'une bâtisse existante **et** ajouter une seconde bâtisse de même valeur.
-
----
-
-## Traîner
-
-Si on ne peut ni capturer ni bâtir, on doit **traîner** : placer une carte face visible dans la disposition. C'est la seule façon d'ajouter des cartes à la disposition.
-
----
-
-## Fin de donne
-
-- De nouvelles cartes ne sont distribuées que quand tous les joueurs ont utilisé leurs 4 cartes.
-- Le jeu se poursuit jusqu'à épuisement du talon.
-
-## Décompte des points
-
-| Élément | Points |
-|---------|--------|
-| 10 de carreau (grand Casino) | 2 |
-| 2 de pique (petit Casino) | 1 |
-| Chaque As | 1 |
-| 7 de pique ou plus | 1 |
-| 27 cartes ou plus | 3 |
-| Balayage | 1 |
-
-Le premier joueur à atteindre **21 points** gagne.
+| Carte | Points |
+|-------|--------|
+| Figures et 10 | 0 |
+| As | 1 |
+| Toute autre carte | Le nombre qu'elle affiche |

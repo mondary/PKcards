@@ -1,53 +1,36 @@
 # Le Paquet Voleur
 
-**Nombre de joueurs :** 2 à 6
-**Nombre de cartes :** 52
-**Difficulté :** Moyenne
+**Nombre de joueurs :** 2 à 4
+**Nombre de cartes :** 52 (sans les Fous)
+**Difficulté :** Facile
 **Type :** Mixte
-**But :** Amasser plus de cartes que les autres joueurs
-**Autres noms :** Le Paquet Voleur (Québec), Egyptian Ratscrew (variant)
+**But :** Former des paires afin de gagner le plus de cartes possible
+**Autres noms :** Le Paquet Voleur
 
 ---
 
-## Histoire
+## Règle courte
 
-Jeu idéal pour apprendre les chiffres aux jeunes enfants (dès 4 ans). Les **valets** sont les voleurs.
+Formez des paires afin de gagner le plus de cartes possibles ! Déterminez un premier donneur, et commencez à jouer. Les Fous sont exclus de cette partie.
 
----
+## Version longue
 
-## Préparation
+### Début du jeu
 
-Le donneur distribue **4 cartes fermées** à chaque joueur et ouvre **4 cartes** sur la table.
+Le donneur distribue quatre cartes à chacun des joueurs. Ensuite, devant chacun d'eux, il dépose une carte sur la table, ouverte. C'est le début d'un paquet à voler…
 
----
+Le joueur à sa gauche est le premier à jouer. Son objectif consiste à jumeler une carte de sa main avec une carte déposée sur la table afin de faire une paire. Par exemple, il a un 7 dans son jeu et il y en a un sur la table. Il prend donc le 7 de la table et celui de sa main pour faire une paire, qu'il dépose à découvert, de façon à ce que la carte sur le dessus soit visible.
 
-## Déroulement
+S'il ne peut pas jouer, il jette une de ses cartes par-dessus celle qu'il avait déjà devant lui.
 
-À tour de rôle, en commençant par le voisin de gauche du donneur, chaque joueur peut :
+Le second joueur, comme les suivants d'ailleurs, a lui aussi le choix de faire des paires ou de rejeter une carte. S'il fait une paire avec la carte sur le dessus d'un paquet d'un adversaire, il vole tout ce paquet en n'oubliant pas de crier « paquet voleur ». Autrement, son geste sera annulé par les autres participants. S'il ne peut faire de paire, il rejette une carte à découvert sur son paquet.
 
-### Prendre une carte
+Quand les joueurs n'ont plus de carte dans leur main, le donneur distribue à nouveau quatre cartes. S'il n'en reste pas suffisamment, il distribue seulement ce qui reste.
 
-Prendre une carte de la table avec une carte de **même valeur** de sa main. Les cartes prises sont placées en pile, **faces ouvertes**, devant le joueur.
+### Fin de partie
 
-> Cette pile peut être **volée** par un autre joueur !
+La partie se termine quand il ne reste plus de carte dans le talon. À ce moment, le joueur qui compte le plus de cartes dans le paquet sur la table gagne la partie.
 
-### Voler la pile d'un autre joueur
+## Variantes
 
-- Avec un **valet** : voler la **plus grosse pile**.
-- Avec une carte de **même valeur** que celle sur le dessus de la pile visée.
-
-### Écarter
-
-Si on ne peut rien faire de mieux, écarter une carte sur la table.
-
----
-
-## Tours suivants
-
-Quand les joueurs n'ont plus de cartes, le donneur en distribue **4 nouvelles** à chacun, jusqu'à épuisement du paquet.
-
----
-
-## Fin du jeu
-
-Il n'y a pas de points. Le joueur qui a le **plus de cartes** à la fin est le vainqueur.
+- Faites deux équipes de deux joueurs et usez de stratégie pour obtenir le plus de paquets.

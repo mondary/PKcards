@@ -1,156 +1,118 @@
-# La Bézique
+# Le Bésigue
 
-**Nombre de joueurs :** 2
-**Nombre de cartes :** 64 (2 jeux de 32 cartes mélangés)
+**Nombre de joueurs :** 2 (variantes à 3 ou 4)
+**Nombre de cartes :** 64 (2 × 32) à deux ; 3 × 32 à trois, 4 × 32 à quatre
 **Difficulté :** Difficile
-**Type :** Jeu de plis, Combinaisons, Défausse, Mémoire, Patience, Hasard
-**But :** Marquer plus de points que l'adversaire en cumulant des points d'annonces et des points de plis
-**Autres noms :** Bésigue, Bézi, Bézigue, Bisi, Bizique
+**Type :** Jeu de plis, Combinaisons
+**But :** Atteindre le total de points convenu (en général 1 000 à 2 000) grâce aux combinaisons et aux brisques
+**Autres noms :** Bézigue, Bézi, Bési
 
 ---
 
-## Matériel
+## Règle courte
 
-- **2 jeux de 32 cartes** (7, 8, 9, 10, Valet, Dame, Roi, As) mélangés ensemble = **64 cartes**.
-- On peut aussi jouer avec un seul jeu de 32 cartes, mais la bézique « double » devient impossible.
+Le Bésigue se joue à deux avec **deux jeux de 32 cartes mélangés**. On distribue neuf cartes chacun (trois par trois) et l'on retourne la carte suivante du talon pour fixer l'**atout**. Chaque joueur joue une carte : celui qui remporte la levée annonce et étale **une** combinaison (mariage, carré, bésigue, quinte majeure…), en marque les points, puis les deux joueurs complètent leur main au talon. Tant que le talon dure, on n'est pas obligé de fournir la couleur ; une fois le talon épuisé, il faut fournir et, à défaut, couper. En fin de partie, chacun ajoute la valeur des **brisques** (As et 10) ramassées. Le premier à atteindre le total convenu (1 000 à 2 000 points) gagne.
 
-## Mise en place
+## Version longue
 
-1. Mélanger les 64 cartes.
-2. Distribuer **8 cartes** à chaque joueur.
-3. Poser le reste en **talon** face cachée et retourner la première carte : sa couleur fixe l'**atout** (cette carte reste visible sous le talon).
-4. Déterminer le premier joueur, puis alterner les donnes.
+Le Bésigue emprunte l'essentiel de ses règles au Mariage et au jeu du Cinq-cents. On en distingue trois variétés : le **Bésigue à la retourne**, le **Bésigue sans retourne** et le **Bésigue chinois**. La description ci-dessous détaille le Bésigue à la retourne à deux, forme de référence.
 
----
+### Ordre et valeur des cartes
 
-## L'ordre des cartes
+On se sert de deux jeux de trente-deux cartes mélangés (certains utilisent trois jeux, ce qui allonge les parties sans les rendre plus intéressantes).
 
-### En atout
+L'ordre des cartes, par priorité décroissante, est : **As, 10, Roi, Dame, Valet, 9, 8, 7**. L'As et le 10, appelés **brisques**, valent chacun 10 points. L'As peut prendre toutes les autres cartes, même le 10.
 
-| Rang | Carte |
-|------|-------|
-| 1 | As |
-| 2 | Roi |
-| 3 | Dame |
-| 4 | Valet |
-| 5 | 10 |
-| 6 | 9 |
-| 7 | 8 |
-| 8 | 7 |
+### Valeur des combinaisons
 
-### En couleur
+| Combinaison | Points |
+|-------------|--------|
+| Mariage (Roi + Dame de la même couleur) | 20 |
+| Mariage d'atout | 40 |
+| Carré de Valets (quatre Valets) | 40 |
+| Carré de Dames (quatre Dames) | 60 |
+| Carré de Rois (quatre Rois) | 80 |
+| Carré d'As (quatre As) | 100 |
+| Bésigue (Dame de pique + Valet de cœur) | 40 |
+| Double Bésigue (2 Dames de pique + 2 Valets de cœur) | 500 |
+| Quinte majeure (As, 10, Roi, Dame, Valet d'atout) | 250 |
+| Un 7 d'atout | 10 |
+| Plusieurs 7 d'atout, chacun | 10 |
 
-| Rang | Carte |
-|------|-------|
-| 1 | As |
-| 2 | Roi |
-| 3 | Dame |
-| 4 | Valet |
-| 5 | 10 |
-| 6 | 9 |
-| 7 | 8 |
-| 8 | 7 |
+### But de la partie
 
----
+Il s'agit de réaliser le maximum de points. Avant de commencer, on décide en combien de points la partie sera gagnée (le chiffre fixé varie en général entre **1 000 et 2 000 points**).
 
-## Points de cartes (table de comptage)
+### Distribution
 
-| Carte | Points |
-|-------|--------|
-| As | 11 |
-| Roi | 10 |
-| Dame | 4 |
-| Valet | 3 |
-| 10 à 7 | 0 |
+On tire au sort le premier donneur. Il distribue **neuf cartes** à chacun, **trois par trois**. On peut convenir de jouer avec huit ou dix cartes chacun ; le donneur distribue alors 3‑3‑2 (huit cartes) ou 3‑3‑3‑1 (dix cartes).
 
-**Bonus :** Le dernier pli rapporte souvent **10 points** (selon la variante).
+Après la distribution, on retourne la carte supérieure du talon, qui **désigne l'atout** : c'est la dix-septième carte à huit cartes chacun, la dix-neuvième à neuf cartes, la vingt et unième à dix cartes. La carte de retourne (l'atout) reste découverte sur le tapis. Le donneur dispose le talon à sa gauche.
 
----
+### Déroulement du jeu
 
-## Déroulement d'une partie
+L'adversaire du donneur joue le premier. Celui des deux qui **fait la levée** prend une carte au talon pour compléter son jeu ; son adversaire en fait autant. Celui qui a fait la levée rejoue le premier. Le jeu se poursuit ainsi jusqu'à épuisement du talon ; à ce moment, celui dont c'est le tour prend la carte de la retourne.
 
-La donne se déroule en **deux phases** :
+Lorsqu'un joueur réalise une levée, il **annonce et montre l'une de ses combinaisons**, puis en inscrit les points. Celui qui possède d'excellentes combinaisons mais ne réussit pas à faire de levées perd tout le bénéfice de ses combinaisons.
 
-### Phase 1 : Avec talon (on pioche)
+On ne peut annoncer **qu'une seule combinaison par levée ramassée**, mais une même carte peut servir à constituer diverses combinaisons.
 
-1. **Jouer un pli :** Le joueur en main pose une carte, l'autre répond avec une carte de son choix.
-   - **Pas d'obligation** de fournir la couleur ni de couper tant que le talon existe.
-2. **Déterminer le gagnant du pli :** La plus forte carte de la couleur demandée gagne, sauf si un atout est joué : **l'atout l'emporte**. En cas d'égalité, la première jouée « tient ».
-3. **Annoncer (si vous avez pris le pli) :** Vous pouvez déclarer une combinaison et marquer les points correspondants, en montrant les cartes concernées.
-4. **Piocher :** Le gagnant du pli pioche d'abord, puis l'autre joueur.
-5. **Fin du talon :** Quand il n'y a plus de cartes à piocher (la dernière inclut souvent la carte d'atout visible), on passe au jeu sans talon.
+### Obligation de fournir
 
-### Phase 2 : Sans talon (jeu « à la couleur »)
+Tant que le talon subsiste, on n'est **pas obligé** de suivre la couleur, ni de couper, ni de ne pas couper. Mais **dès que le talon est épuisé**, il devient obligatoire de fournir la couleur demandée ; si l'on n'en a pas, on doit couper.
 
-- Les joueurs doivent **fournir la couleur** si possible, et **couper** (jouer atout) si nécessaire.
-- Les annonces deviennent souvent **limitées ou cessent** selon la variante.
-- Chaque pli compte : la fin de donne se joue « au calcul ».
+Si les deux adversaires abattent une carte de même valeur, c'est **celui qui a joué en premier** qui ramasse la levée.
 
----
+### Décompte et fin de partie
 
-## Les annonces
+Celui qui ramasse la **dernière levée** marque 10 points. Quand la dernière levée est faite, chaque joueur compte les As et les 10 (brisques) contenus dans ses levées, dont la valeur s'ajoute aux points des combinaisons. À **points égaux**, le gagnant est celui qui a fait la dernière levée.
 
-Les annonces se font **uniquement après avoir remporté un pli**, en montrant la combinaison.
+> **Exemple.** Pierre donne ; servi, Jean choisit une de ses cartes de moindre valeur. Pierre fait la levée et prend une carte au talon. Jean, à son tour, prélève une Dame de pique ; comme il a déjà un Valet de cœur, il pourrait annoncer un Bésigue (40 points), mais il doit d'abord avoir fait une levée pour le marquer. Jean garde aussi trois As : s'il en acquiert un quatrième, il aura un carré d'As (100 points) qu'il aurait intérêt à annoncer dès sa première levée plutôt que son Bésigue de 40 points.
 
-### Combinaisons et points
+## Conseils
 
-| Combinaison | Description | Points |
-|-------------|-------------|--------|
-| **Mariage** | Roi + Dame de la même couleur | 20 (atout) / 15 (couleur) |
-| **Carré de Valets** | 4 Valets de couleurs différentes | 40 |
-| **Carré de Dames** | 4 Dames de couleurs différentes | 60 |
-| **Carré de Rois** | 4 Rois de couleurs différentes | 80 |
-| **Carré d'As** | 4 As de couleurs différentes | 100 |
-| **Bézique** | Dame de Pique + Valet de Carreau | 40 |
-| **Double Bézique** | 2 Dames de Pique + 2 Valets de Carreau | 500 |
-| **Séquence** | 7, 8, 9, 10, Valet d'atout | 150 |
-| **Tierce** | Valet, Dame, Roi d'atout | — |
+Comme on ne peut annoncer qu'une combinaison par levée, mieux vaut garder les cartes susceptibles de former les figures les plus fortes et, lorsqu'on a le choix, **annoncer d'abord la combinaison la plus payante** (par exemple un carré d'As à 100 points plutôt qu'un Bésigue à 40). Chaque joueur conserve ainsi des cartes qui, avec l'appoint d'une carte du talon, lui offriront l'occasion de marquer le point le plus fort.
 
-### Règles des annonces
+## Règles spéciales
 
-- **Peut-on réutiliser une carte dans plusieurs annonces ?** Souvent oui, tant que la règle locale l'autorise. Le point clé est de pouvoir **présenter la combinaison** au moment de l'annonce.
-- **La « bézique »** : Classiquement **Dame de Pique + Valet de Carreau**. Avec deux jeux, on peut faire une **double bézique** (deux Dames de Pique et deux Valets de Carreau), plus rentable.
+- **Cartes comptant plusieurs fois :** une même carte peut compter dans plusieurs combinaisons. Un Roi ayant compté dans un mariage intervient encore dans les 80 points d'un carré de Rois, et peut aussi compter dans une quinte d'atout. Toutefois, quand on a déjà marqué un carré de Rois, un second carré ne peut être compté que s'il ne contient **aucun** des Rois du premier.
+- **Maldonne :** la main passe, ou l'on recommence, selon la volonté de l'adversaire.
+- **Oubli de tirer au talon :** si un joueur oublie de lever sa carte au talon, l'adversaire peut l'obliger à prendre deux cartes de suite, ou bien décider le coup nul.
+- **Fausse annonce :** le joueur qui, n'ayant que trois cartes, en annonce quatre doit, l'erreur reconnue, démarquer le point indûment marqué. Il peut même être contraint de jouer une de ses trois cartes si l'erreur n'a pas été reconnue avant que l'adversaire ait joué (ce dernier ayant pu, du fait de cette faute, se défaire d'une carte qu'il n'avait aucune raison de conserver).
 
----
+## Variantes
 
-## Changement de l'atout
+### Bésigue à trois ou à quatre
 
-Dans certaines règles, tant que le talon existe, le joueur qui possède le **7 d'atout** peut l'échanger contre la **carte d'atout retournée** (souvent en gagnant un pli).
+On utilise **trois jeux** de trente-deux cartes à trois joueurs, et **quatre jeux** à quatre. À quatre, les joueurs peuvent se répartir en deux camps ; l'association deux à deux se fait par tirage au sort. Les associés ne sont pas placés côte à côte, mais aux **coins opposés** de la table ; en fin de partie, ils réunissent leurs points de combinaisons et leurs brisques comme dans la partie à deux.
 
----
+Le nombre de points à atteindre est alors beaucoup plus élevé : en général **2 500 ou 3 000**. Une combinaison nouvelle apparaît, le **triple Bésigue** (trois Dames de pique + trois Valets de cœur), qui vaut **1 500 points**.
 
-## Fin des annonces
+### Bésigue sans retourne
 
-Une fois le talon vide, on ne fait **plus d'annonces** (ou elles sont fortement restreintes). Mettez-vous d'accord avant de commencer.
+Cette partie se joue comme le Bésigue ordinaire, sauf que l'on ne retourne pas l'atout : ce dernier est déterminé par le **premier mariage** qu'un joueur annonce (par exemple, un mariage du Roi et de la Dame de carreau fait du carreau l'atout). Dans ces conditions, ce premier mariage vaut 40 points et la quinte majeure ne peut être marquée qu'après l'annonce du mariage fixant l'atout. Les autres combinaisons sont comptées comme au Bésigue à la retourne, sauf le **7 d'atout qui perd sa valeur de 10 points**.
 
----
+### Bésigue chinois
 
-## Tableau récapitulatif
+Variété plus compliquée, jouée avec **quatre, voire six jeux** de trente-deux cartes ; le point à atteindre va de **3 000 à 5 000**. Les valeurs des combinaisons sont toutes différentes :
 
-| Situation | Règle | À retenir |
-|-----------|-------|-----------|
-| **Talon encore présent** | Après chaque pli, on pioche : gagnant puis perdant. Pas d'obligation de fournir/couper. | Le jeu est plus « libre » : préparez des annonces et gardez l'atout pour contrôler. |
-| **Annonce d'une combinaison** | Uniquement si vous remportez un pli, en montrant les cartes annoncées. | Annoncez quand cela rapporte sans trop vous affaiblir en plis. |
-| **Talon épuisé** | On joue sans pioche ; il faut fournir la couleur et couper si nécessaire. | La fin de donne se joue « au calcul » : chaque pli compte. |
+| Combinaison | Points |
+|-------------|--------|
+| Mariage | 100 |
+| Mariage d'atout | 200 |
+| Carré de Valets | 200 |
+| Carré de Dames | 300 |
+| Carré de Rois | 400 |
+| Carré d'As | 500 |
+| Carré de Valets d'atout | 400 |
+| Carré de Dames d'atout | 600 |
+| Carré de Rois d'atout | 800 |
+| Quinte majeure d'atout | 1 000 |
+| Quinte majeure d'une autre couleur | 150 |
+| Bésigue | 200 |
+| Double bésigue | 1 000 |
+| Triple bésigue | 2 500 |
+| Quadruple bésigue | 4 000 |
+| La dernière levée | 50 |
 
----
-
-## Comment gagner ?
-
-La partie se joue en une ou plusieurs donnes. Dans la donne, vous additionnez :
-
-- Les **points d'annonces** déclarées
-- Les **points des cartes** remportées en plis (selon la table de comptage)
-- Le **bonus du dernier pli** (s'il est utilisé)
-
-Le joueur avec le **total le plus élevé** remporte la donne.
-
-Pour une partie complète, fixez un **score cible** (par exemple un total à atteindre) ou jouez un **nombre déterminé de donnes**, puis comparez les totaux.
-
----
-
-## Erreurs fréquentes
-
-1. **Oublier de clarifier les variantes** avant de jouer : Annonce autorisée quand ? Obligations de fournir/couper ? Échange du 7 d'atout ? Fixez ces points dès le départ.
-2. **Annoncer trop tôt** et se faire « contrer » : Montrer une combinaison peut révéler vos couleurs fortes. Si vous n'avez pas besoin d'annoncer immédiatement, attendez un moment où vous gardez le contrôle des plis.
-3. **Négliger la phase sans talon** : Beaucoup de points se décident à la fin : comptez vos atouts, anticipez les levées obligatoires et évitez de laisser des cartes payantes « gratuites ».
+On convient parfois que le gagnant de la partie **ajoute 500 points** à son total, mais en **déduit le total du perdant** : on obtient ainsi le « bénéfice du vainqueur ». Si le perdant n'a pas réussi à marquer au moins 1 000 points, ses points s'ajoutent à ceux du gagnant. En attribuant une valeur à chaque cinquantaine ou centaine de points, ce procédé évite d'arriver à des chiffres astronomiques.

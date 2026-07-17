@@ -1,154 +1,158 @@
 # Le Tarot
 
-**Nombre de joueurs :** 4 (le plus courant), 3 ou 5 (avec appel au Roi)
-**Nombre de cartes :** 78
+**Nombre de joueurs :** 3 ou 4
+**Nombre de cartes :** 78 (21 Atouts + Excuse + 4 couleurs de 14 cartes avec Cavalier)
 **Difficulté :** Difficile
 **Type :** Jeu de plis, Enchères
-**But :** Le preneur doit réaliser son contrat (nombre de points) contre tous les autres
-**Autres noms :** Tarot, Tarot français, Jeu de Tarot
+**But :** Réaliser un contrat en capturant des cartes de valeur (91 points au total)
+**Autres noms :** Le Tarot
 
 ---
 
-## Histoire
+## Règle courte
 
-Un des plus anciens jeux de cartes, remontant aux Sarrasins, transité par l'Italie. Les premiers jeux imprimés à Marseille (XVIe siècle) sont encore utilisés pour la divination.
+### Matériel
 
-## Composition du jeu
+Jeu de 78 cartes : 21 Atouts (du 21 au 1), une Excuse (le Fou), et 4 couleurs de 14 cartes (As, 2, 3, 4, 5, 6, 7, 8, 9, 10, Valet, Cavalier, Dame, Roi). Les Atouts ont toujours préséance sur les Couleurs.
 
-- **21 Atouts** (numérotés de 1 à 21)
-- **L'Excuse** (carte particulière)
-- **4 couleurs** de 14 cartes : Roi, Dame, Cavalier, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As
+### Valeur des cartes pour le compte
 
-### Les Bouts (ou Oudlers)
+Le jeu contient 91 points. Les Oudlers (21, Petit=1, Excuse) valent 5 pts chacun (+ une petite carte ou Atout). Les Rois = 5 pts, Dames = 4 pts, Cavaliers = 3 pts, Valets = 2 pts. Les autres cartes comptent par paires (1 pt pour 2 cartes).
 
-Le **21** (le plus fort, imprenable), le **1** (le Petit, prenable) et l'**Excuse**.
+| Oudlers possédés par le preneur | Points minimum à faire |
+|--------------------------------|----------------------|
+| 0 Oudler | 56 |
+| 1 Oudler | 51 |
+| 2 Oudlers | 41 |
+| 3 Oudlers | 36 |
 
----
+### Distribution
 
-## Ordre des cartes
+- À 4 joueurs : 18 cartes chacun + Chien de 6 cartes
+- À 3 joueurs : 24 cartes chacun + Chien de 6 cartes
 
-- **Atouts** : du 21 (plus fort) au 1.
-- **Couleurs** : Roi, Dame, Cavalier, Valet, 10 à As.
+Le donneur distribue dans le sens inverse des aiguilles d'une montre, en constituant un Chien de 6 cartes.
 
----
+### Enchères
 
-## Valeur des cartes
+À tour de rôle (en commençant à droite du donneur), on peut Passer ou annoncer un contrat :
 
-| Carte | Points |
-|-------|--------|
-| Bout (21, 1, Excuse) | 4,5 |
-| Roi | 4,5 |
-| Dame | 3,5 |
-| Cavalier | 2,5 |
-| Valet | 1,5 |
-| Autres cartes | 0,5 |
+| Contrat | Coefficient | Description |
+|---------|-------------|-------------|
+| Prise (Petite) | 1 | On prend le Chien, on écarte 6 cartes |
+| Garde | 2 | Comme la Prise, mais points doublés |
+| Garde sans | 4 | On ne touche pas au Chien (reste caché, propriété du preneur) |
+| Garde contre | 6 | Le Chien revient à la défense |
 
-> On compte les cartes **deux par deux** (une haute + une basse).
+En cas de passe générale, la donne tourne.
 
-**Total du jeu : 91 points.**
+### Jeu de la carte
 
----
+Le joueur à droite du donneur entame. Obligations :
+- Fournir la Couleur demandée si on l'a ;
+- Si on n'a pas cette Couleur : couper à l'Atout (et surcouper si quelqu'un a déjà coupé) ;
+- À l'Atout, on doit forcer (monter si possible).
 
-## Distribution (à 4 joueurs)
+Le 21, le Petit (1) et l'Excuse sont les Oudlers. L'Excuse permet d'éviter de fournir, mais reste la propriété de son camp.
 
-1. Le joueur en face bat, celui à gauche coupe.
-2. Distribution de **18 cartes** par joueur (3 par 3).
-3. **Le Chien** : 6 cartes écartées par le donneur pendant la distribution.
+### La chasse au Petit
 
----
+Le Petit (1 d'atout) est le seul bout « prenable ». En défense, si le preneur n'a pas d'atouts au Chien, on entame Atout et on poursuit Atout pour capturer le Petit. En attaque, le preneur « tire en tête » ses gros Atouts pour faire tomber le Petit.
 
-## Les enchères
+### Annonces et primes
 
-Le joueur à droite du donneur parle en premier. Il **passe** ou **prend**.
+**Poignée :** montrer 10+ Atouts avant la 1ère carte. Simple (10) = 20 pts, Double (13) = 30 pts, Triple (15) = 40 pts. Prime fixe, non multipliable.
 
-### Les 4 niveaux de contrat
+**Petit au bout :** si le Petit est joué à la dernière levée, prime de 10 pts multipliable selon le contrat.
 
-| Contrat | Coefficient | Utilisation du Chien |
-|---------|-------------|----------------------|
-| **Petite** (Prise) | ×1 | Oui |
-| **Garde** | ×2 | Oui |
-| **Garde sans le Chien** | ×3 | Non (points au preneur) |
-| **Garde contre le Chien** | ×4 | Non (points à la défense) |
+**Chelem :** toutes les levées par un camp. Annoncé et réalisé = +400. Non annoncé mais réalisé = +200. Annoncé et non réalisé = -200.
 
-La surenchère est possible. Le joueur avec la plus forte enchère devient le **Preneur**.
+### Calcul des points
 
----
+Tout contrat réussi = 25 pts + les pts de gain ou de perte (par rapport au minimum). Ce total est multiplié par le coefficient du contrat (1, 2, 4 ou 6). Si le preneur passe, chaque défenseur lui paie. S'il chute, il paie chaque défenseur. Le score total de la donne doit être égal à zéro.
 
-## L'écart
+### Fin de partie
 
-Si le contrat autorise le Chien (Petite ou Garde) :
-1. Le Preneur récupère les **6 cartes** du Chien.
-2. Il les montre aux adversaires.
-3. Il **écarte 6 cartes** (face cachée).
-4. Il ne peut pas écarter de Rois, d'Atouts ou de Bouts.
+La partie se joue par accord mutuel, ou on fixe un nombre de tours à l'avance.
 
----
+## Version longue
 
-## Objectif de points
+### Historique
 
-Le Preneur doit atteindre un minimum fonction de ses Bouts :
+Le Tarot est l'ancêtre des cartes à jouer. Introduit en Italie par les Sarrasins au Xe siècle, son nom dérive de l'italien Tarroco (Tour) mais son origine plus lointaine demeure toujours inconnue. Il a longtemps été associé aux mystères de la divination, les cartomanciennes utilisant les différents symboles représentés sur les Atouts pour prédire l'avenir : 1. le Bateleur ; 2. la Papesse ; 3. l'Impératrice ; 4. l'Empereur ; 5. le Pape ; 6. l'Amoureux ; 7. le Chariot ; 8. la Justice ; 9. l'Ermite ; 10. la Roue de la Fortune ; 11. la Force ; 12. le Pendu ; 13. la Mort ; 14. la Tempérance ; 15. le Diable ; 16. la Foudre ; 17. l'Étoile ; 18. la Lune ; 19. le Soleil ; 20. le Jugement ; 21. le Monde. L'Excuse, quant à elle, représente un Fou.
 
-| Bouts en fin de manche | Points minimum |
-|------------------------|----------------|
-| 0 | 56 |
-| 1 | 51 |
-| 2 | 41 |
-| 3 | 36 |
+### Ordre et valeur des cartes
 
----
+**Dans chaque Couleur** (par force décroissante) : Roi, Dame, Cavalier, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, As. Le Roi est la plus forte et l'As la plus faible.
 
-## Jeu de la carte
+**À l'Atout**, la force décroît du 21 au 1. L'Excuse n'a pas de valeur propre ; elle permet d'éviter de fournir à la Couleur ou à l'Atout.
 
-1. Le joueur à droite du donneur entame.
-2. On doit **fournir la couleur** demandée (pas d'obligation de monter).
-3. Si pas de couleur → **couper avec un Atout**.
-4. Le joueur suivant doit **revenir à la couleur** ; sinon **surcouper** ; sinon **pisser** un atout plus faible.
-5. Le plus fort ou l'Atout le plus fort remporte le pli.
+### Déroulement des enchères en détail
 
-### L'Excuse
+Le « preneur », auteur de la plus forte Enchère, s'engage, face aux autres joueurs ligués contre lui en défense, à réaliser un nombre minimal de points grâce aux levées qu'il fera.
 
-- Carte **neutre**, jouable à tout moment.
-- Elle ne permet pas de remporter un pli (sauf au dernier pli d'un chelem).
-- Son propriétaire la récupère et donne une petite carte au gagnant du pli.
-- Si jouée au **dernier pli** → elle change de camp.
+### Le jeu de la carte en détail
 
----
+**Prise ou Garde :** le preneur prend le Chien, le montre aux défenseurs, incorpore les cartes à son jeu, puis écarte faces cachées six cartes de son choix. Il est interdit d'écarter des Rois, des Atouts ou des Oudlers.
 
-## Calcul du score
+**Garde sans :** le preneur ne peut utiliser le Chien. Celui-ci reste caché, et sa composition reste donc inconnue du preneur comme des défenseurs jusqu'à la fin de la donne. Le Chien demeure cependant la propriété du preneur.
 
-1. **Base** : 25 points.
-2. **± points de gain/perte** (écart entre objectif et points réalisés).
-3. **× coefficient** du contrat (1, 2, 3 ou 4 selon la convention : Petite=1, Garde=2, Garde sans=4, Garde contre=6).
-4. **+ points d'annonces** (poignées, Petit au Bout, etc.).
+**Garde contre :** non seulement le preneur ne peut utiliser le Chien, mais de plus la propriété de ce dernier est transférée à la défense.
 
-Le Preneur marque le total × 3 (ou × nombre d'adversaires). Les défenseurs marquent l'opposé chacun.
+Avant de jouer sa première carte, tout joueur possédant 10, 13, 15 ou 18 Atouts peut les annoncer. À cette annonce correspond une prime.
 
----
+### Points d'annonce en détail
 
-## Annonces et primes
+**La Poignée :** un joueur possédant au moins dix Atouts peut l'annoncer et la montrer avant de jouer sa première carte. L'Excuse peut en faire partie à condition de ne pas avoir un onzième Atout.
 
-### Les poignées
+| Poignée | Points |
+|---------|--------|
+| Simple (10 Atouts à 4 joueurs, 13 à 3) | 20 |
+| Double (13 à 4, 15 à 3) | 30 |
+| Triple (15 à 4, 18 à 3) | 40 |
 
-| Poignée | Atouts | Points |
-|---------|--------|--------|
-| Simple | 10 | 20 |
-| Double | 13 | 30 |
-| Triple | 15 | 40 |
+Cette prime revient au camp vainqueur de la donne.
 
-### Le Petit au Bout
+**Le Petit au bout :** si le Petit est joué lors de la dernière levée, prime de 10 points, multipliable selon le contrat. Cette prime ne va pas au gagnant de la donne, mais au joueur qui a réalisé le dernier pli avec le Petit.
 
-Si le Petit est joué à la **dernière levée** → **+10 points** pour le camp qui remporte la levée.
+**Le Chelem :** Il y a Chelem quand un camp remporte toutes les levées :
+- Annoncé et réalisé : 400 points supplémentaires ;
+- Non annoncé mais réalisé : 200 points supplémentaires ;
+- Annoncé mais non réalisé : pénalisé de 200 points ;
+- Si le preneur subit un Chelem par la défense : il paye 200 points à chaque défenseur.
 
-### Le Chelem
+En cas d'annonce de Chelem, c'est le preneur qui commence la partie. Il peut à titre exceptionnel jouer l'Excuse en dernier, et le Petit sera considéré comme mené au bout s'il est joué à l'avant-dernière levée.
 
-Faire **tous les plis**. Annoncé : ±400/200 pts. Non annoncé mais réalisé : +200 pts.
+### Marque et compte des points en détail
 
----
+Le score du preneur correspond au score de la donne multiplié par le nombre de défenseurs. L'addition des scores du preneur et des défenseurs doit être égale à zéro.
 
-## Variantes
+Exemple : A prend une « Garde contre » et réalise 38 points. Il a trois bouts. Le minimum est de 36. Il « passe » de 2. Il n'a pas comptabilisé les points du Chien (qui reviennent à la défense). A encaisse : 25 (contrat) + 2 (passe) = 27, multiplié par 6 = 162 points, de chaque joueur. Score : A +486, B -162, C -162, D -162. Total = 0.
 
-### À 3 joueurs
-24 cartes par joueur. Poignées : 13/15/18 atouts.
+### La chasse au Petit en détail
 
-### À 5 joueurs (appel au Roi)
-Le Preneur **appelle un Roi** → le possesseur devient son équipier caché. 15 cartes par joueur, Chien de 3 cartes. Poignées : 8/10/13 atouts.
+Le Petit est le seul bout « prenable », c'est-à-dire pouvant changer de camp (à part l'Excuse si un masochiste la joue à la dernière levée). Pouvoir le capturer est donc d'une importance primordiale dans certains cas, principalement quand le preneur n'a pris qu'avec un seul bout : la possession du Petit rapporte non seulement les 5 points que vaut cet Oudler, mais fait de plus sensiblement varier le total minimal des points nécessaires à la réalisation du contrat.
+
+**En défense :** la chasse est ouverte lorsque le preneur n'a pas trouvé d'Atouts au Chien : le premier à jouer entame Atout et la défense poursuit Atout chaque fois qu'elle reprend la main. Si le possesseur du Petit est en défense, il le signale à ses partenaires en jouant à son tour un Atout anormalement haut : il leur indique de cette façon conventionnelle d'arrêter la chasse.
+
+**En attaque :** le preneur chasse le Petit chaque fois qu'il possède une longue à l'Atout commandée par de forts Atouts : par exemple, avec 21, 20, 19, 18, 14, 11, 9, 7, 4, 3, 2, il « tire en tête » les quatre gros Atouts et a de très fortes chances de capturer le Petit.
+
+### Le Tarot à cinq joueurs
+
+Cette forme de jeu diffère du Tarot classique par un côté beaucoup plus hasardeux : les Couleurs sont très souvent distribuées de façon fort irréregulière. Les joueurs sont secrètement associés sur chaque donne. Le preneur « appelle » un Roi de son choix avant de retourner le Chien, et le possesseur de ce Roi devient son partenaire sur cette donne.
+
+Chaque joueur reçoit quinze cartes, le Chien n'étant formé que de trois cartes. Les Poignées sont de 8 (simple), 10 (double) et 13 (triple) Atouts. Le preneur qui possède les quatre Rois peut appeler une Dame.
+
+### Stratégie en détail
+
+Un coup étant le plus souvent gagné ou chuté à l'Enchère, il est capital de savoir évaluer une main. On aura remarqué que le nombre de points à réaliser décroissait sensiblement avec le nombre d'Oudlers possédés : sans Oudler, le preneur doit réaliser 56 points, uniquement à l'aide de ses Atouts et de ses Honneurs. La simple comparaison de ce total avec la valeur totale des cartes (91 points) montre que ce pari est extrêmement problématique.
+
+Avec un Oudler, il s'agit de faire 51 moins 5 = 46 points. Avec deux Oudlers, 41 moins 10 = 31 points, ce qui devient tout à fait possible. Avec trois Oudlers, 36 moins 15 = 21 points.
+
+56, 46, 31 et 21 points : cette chute brutale montre que la possession d'Oudlers représente un facteur clé dans toute Enchère. Il ne faut toutefois pas oublier qu'il s'agit du nombre d'Oudlers à la fin de la donne : un Petit non protégé peut être capturé !
+
+La force d'une main est fonction des points d'Honneurs, de la présence ou non de Couleurs longues, du nombre et de la force des Atouts. Plus une main contient de points d'Honneurs plus elle est forte.
+
+Le rôle joué par une Couleur longue est subtil : elle permet de faire couper les adversaires dès qu'ils n'ont plus de cartes de cette Couleur, les appauvrissant ainsi en Atouts. Une Couleur courte ou une Chicane permet de s'emparer des points adverses en coupant.
+
+En défense, vers la fin d'une donne, il est fréquent qu'un joueur n'ait plus de cartes dans la Couleur longue jouée par le preneur, ni d'Atout. Son rôle est de veiller à ce que les points qui lui restent aillent à son propre camp, en les « chargeant » sur le pli maître d'un partenaire.

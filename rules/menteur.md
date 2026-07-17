@@ -1,42 +1,34 @@
 # Le Menteur
 
-**Nombre de joueurs :** 4/5/6
-**Nombre de cartes :** 32
-**Difficulté :** Moyenne
+**Nombre de joueurs :** 2 à 6
+**Nombre de cartes :** 52
+**Difficulté :** Facile
 **Type :** Mixte
-**But :** Être le premier à se débarrasser de toutes ses cartes
-**Autres noms :** Le Menteur, La Marmite, Liar's Dice (variant), Cheat
+**But :** Se débarrasser de toutes ses cartes pour gagner la partie
+**Autres noms :** Le Menteur
 
 ---
 
-## Préparation
+## Règle courte
 
-- Le donneur distribue les cartes **une par une** de manière à ce que les joueurs en aient le même nombre.
+Dans ce jeu, il faut se débarrasser de toutes ses cartes pour gagner la partie.
 
-## Déroulement
+## Version longue
 
-### Principe
+### Distribution des cartes
 
-1. Le joueur dont c'est le tour prend une carte de sa main et la dépose sur la table, **face cachée**, en annonçant une famille : carreau, trèfle, cœur ou pique.
-2. Il a le droit de **mentir**.
-3. À leur tour, les autres joueurs doivent annoncer la même famille et poser **une ou plusieurs cartes**.
+Le donneur distribue autant de cartes à chacun des joueurs. Par exemple, s'il y a cinq joueurs, le donneur distribuera dix cartes à chacun et rejettera les deux dernières.
 
-### Annonces
+### Début de la partie
 
-- Un joueur peut poser un **petit paquet de cartes de la même valeur** (ex : « 2 rois »).
-- Il peut poser **plus de cartes** que ce qu'il annonce, mais attention de ne pas se faire prendre.
+Le joueur à la gauche du donneur commence la partie. Il dépose une carte, face cachée, sur la table et dit une couleur (carreau, cœur, trèfle ou pique). Personne d'autre que lui sait s'il ment ou dit la vérité.
 
-### Accusation de menteur
+Dès qu'un joueur a des doutes, il peut crier « menteur ». Ce n'est pas nécessaire pour cela que ce soit à son tour de jouer. Lorsqu'une personne crie « menteur », on retourne la carte et on vérifie qui a raison : le joueur ou l'accusateur.
 
-- À n'importe quel moment, un joueur peut **accuser de menteur** le joueur actif.
-  - Si l'accusation est **juste** : le menteur ramasse toutes les cartes posées sur la table.
-  - Si l'accusation est **fausse** : l'accusateur doit prendre le tas de cartes. C'est à lui de jouer.
+Par exemple, un joueur dépose une carte sur la table et dit « cœur ». Si un accusateur crie « menteur », on retourne la carte. Si c'est bel et bien de cœur qu'il s'agit, l'accusateur a perdu et se retrouve avec toutes les cartes rejetées jusqu'à ce moment. Si la carte était en pique, c'est l'accusateur qui gagne. Le menteur doit donc prendre tout le paquet.
 
-## Fin de manche
+Et on poursuit ainsi jusqu'à ce qu'un joueur gagne.
 
-Le gagnant est celui qui n'a plus aucune carte en main.
+## Variantes
 
-## Stratégie
-
-- Bluffer sur la vitesse du jeu.
-- Observer les réactions des adversaires pour détecter les menteurs.
+- Pourquoi ne pas ajouter un atout ? Une seule carte, par exemple le Valet de cœur, serait blanchie de tout soupçon. Ainsi, si une personne dépose l'atout et qu'un accusateur se manifeste, le joueur gagnera automatiquement.

@@ -1,68 +1,51 @@
 # Le Jeu des Valets (Polignac)
 
-**Nombre de joueurs :** 4
-**Nombre de cartes :** 52 (ou 32 pour le Polignac)
-**Difficulté :** Moyenne
+**Nombre de joueurs :** 3 à 6
+**Nombre de cartes :** 32 (à 4 joueurs) ou 30 (autrement)
+**Difficulté :** Facile
 **Type :** Jeu de plis
-**But :** Gagner le plus de levées en évitant de ramasser les Valets
-**Autres noms :** Jeu de Valets
+**But :** Éviter de ramasser le Valet de pique
+**Autres noms :** Le Jeu des Valets, Polignac
 
 ---
 
-## Ordre des cartes
+## Règle courte
 
-As (plus fort), Roi, Dame, Valet, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+Le but de ce jeu est d'éviter de ramasser le Valet de pique. C'est un jeu de levées classique, sans atout.
 
----
+## Version longue
 
-## La donne
+### Ordre des cartes
 
-1. **12 cartes** par joueur (1 par 1).
-2. Une **13e carte** pour tous sauf le donneur.
-3. La dernière carte est retournée → c'est l'**atout**. Le donneur la ramasse au début de son tour.
+Roi, Dame, Valet, As, 10, 9, 8, 7.
 
----
+### Distribution des cartes
 
-## Jeu de la carte
+Si on joue à trois, cinq ou six joueurs, on enlèvera du jeu les 7 de trèfle et de carreau.
 
-1. Le joueur à gauche du donneur entame.
-2. On doit **fournir la couleur** demandée.
-3. Si impossible → jouer un atout ou une autre carte.
-4. Le plus fort de la couleur demandée ou le plus fort atout remporte la levée.
-5. **13 plis** au total.
+Le donneur distribue toutes les cartes :
 
----
+- À trois joueurs, il donne dix cartes à chacun ;
+- À quatre joueurs, il donne huit cartes à chacun ;
+- À cinq joueurs, il donne six cartes à chacun ;
+- À six joueurs, il donne cinq cartes à chacun.
 
-## Décompte des points
+### Début du jeu
 
-| Élément | Points |
-|---------|--------|
-| Chaque levée gagnée | +1 |
-| Valet de cœur | −4 |
-| Valet de carreau | −3 |
-| Valet de trèfle | −2 |
-| Valet de pique | −1 |
+Le joueur à gauche du donneur entame.
 
-Le premier à **20 points** gagne.
+Chaque joueur doit fournir à la couleur demandée ou se défausser s'il n'a pas de cartes de cette couleur.
 
-### Renonce
-Ne pas fournir la couleur alors qu'on en a → **−3 points**.
+Le joueur ayant posé la plus forte carte ramasse le pli et rejoue.
 
----
+### Fin de partie
 
-## Variante : Polignac
+La partie s'arrête lorsqu'un des joueurs atteint le plateau des 50 points. Le vainqueur est alors celui qui a le moins de points.
 
-Version française du jeu des Valets.
+### Calcul des points
 
-| Différence | Détail |
-|------------|--------|
-| Cartes | 32 (sans les 2, 3, 4, 5, 6) |
-| Cartes par joueur | 8 |
-| Atout | **Aucun** |
-| Valet de pique (Polignac) | **−2 points** |
-| Autres Valets | **−1 point** chacun |
+Chaque Valet vaut 1 point, sauf le Valet de pique, qui en vaut 2.
 
-### Le Général
-Un joueur peut annoncer avant le jeu qu'il fera **toutes les levées**.
-- **Réussi** : +5 points de prime.
-- **Échoué** : +5 points pour chaque autre joueur.
+Chaque joueur marque le nombre de points correspondant aux Valets qu'il a pu prendre.
+
+S'il arrivait qu'un joueur fasse tous les plis, la manche ne compterait pas.

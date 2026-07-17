@@ -1,91 +1,87 @@
 # La Manille
 
 **Nombre de joueurs :** 4 (2 équipes de 2)
-**Nombre de cartes :** 32 (ou 54 sans les cartes 2 à 6)
-**Difficulté :** Moyenne
+**Nombre de cartes :** 32 (de l'As au 2)
+**Difficulté :** Difficile
 **Type :** Jeu de plis
-**But :** Obtenir **121 points**
-**Autres noms :** Manille, Manille coinchée, Manille muette
+**But :** Réaliser plus de 34 points grâce aux levées
+**Autres noms :** La Manille
 
 ---
 
-## Formation des équipes
+## Règle courte
 
-1. Poser une carte face visible au milieu → sa couleur indique la couleur des **rois** à chercher (rouge → rois noirs, noire → rois rouges).
-2. Distribuer les cartes une par une, face visible, devant chaque joueur.
-3. On arrête de distribuer devant un joueur dès qu'un roi de la couleur cherchée est posé.
-4. On arrête quand le **2ème roi** est posé → les joueurs ayant les rois forment une équipe, les deux autres forment l'autre.
+### Matériel et valeur des cartes
 
-> Les coéquipiers se placent **face à face**.
-
-## Distribution
-
-- Le donneur distribue **8 cartes** à chaque joueur (3 + 2 + 3, dans le sens horaire).
-- Avant la distribution, le joueur à droite du donneur **coupe** le paquet.
-
-## Valeur des cartes
-
-### Hiérarchie (du plus fort au plus faible)
-
-**10 (Manille) > As (Manillon) > Roi > Dame > Valet > 9 > 8 > 7**
-
-### Points
+Jeu de 32 cartes. Ordre spécifique : 10 (Manille), As (Manillon), Roi, Dame, Valet, 9, 8, 7.
 
 | Carte | Points |
 |-------|--------|
-| 10 (Manille) | 5 |
-| As (Manillon) | 4 |
-| Roi | 3 |
-| Dame | 2 |
-| Valet | 1 |
+| Manilles (10) | 5 × 4 = 20 |
+| Manillons (As) | 4 × 4 = 16 |
+| Rois | 3 × 4 = 12 |
+| Dames | 2 × 4 = 8 |
+| Valets | 1 × 4 = 4 |
 | 9, 8, 7 | 0 |
+| **Total** | **60** |
 
-> **Total :** 60 points (cartes) + 8 points (1 par pli) = **68 points**
+### Distribution
 
-## Annonces
+Le donneur distribue la totalité du paquet, 2 cartes par 2 cartes, dans le sens inverse des aiguilles d'une montre. Il retourne la dernière carte pour fixer l'atout.
 
-Le donneur annonce la couleur d'atout, ou passe à son partenaire (« en face »), ou passe (« voiture »).
+### Déroulement
 
-| Annonce | Règle |
-|---------|-------|
-| **En face** | Le partenaire est obligé de choisir une couleur ou d'annoncer voiture |
-| **Voiture** | Pas d'atout pour ce tour |
+**Manille parlée :** le premier à jouer peut interroger son partenaire et lui donner des ordres. Ce privilège se transmet au gagnant du pli. Les questions et réponses doivent être brèves et intelligibles de tous.
 
-### Contre-annonces
+Obligations :
+- Fournir la couleur demandée
+- Forcer sur la carte adverse (pas obligatoire sur le partenaire)
+- Couper si on n'a pas la couleur et que l'adversaire est maître. Surcouper si on peut.
 
-| Action | Effet |
-|--------|-------|
-| **Coincher** (l'équipe adverse frappe la table) | Points doublés |
-| **Sur-coincher** (l'équipe du donneur frappe à son tour) | Points × 4 |
+### Score
 
-## Déroulement
+Valeur des cartes dans les plis + 1 point par levée. Total = 68 points. L'équipe avec plus de 34 points gagne. Prime pour le donneur si la retourne est un Honneur (valeur de la carte). Pénalité de 34 points pour faute.
 
-1. Le joueur à gauche du donneur commence
-2. Les autres joueurs posent une carte dans le sens horaire
+### Fin de partie
 
-### Règles de jeu
+50, 100 ou 150 points, ou 2 manches gagnantes. Les manches en 44 points, la belle en 54.
 
-| Règle | Description |
-|-------|-------------|
-| **Fournir à la couleur** | Si on a la couleur demandée, on doit la jouer |
-| **Monter à la carte** | Obligatoire **uniquement** quand l'atout est demandé (sur l'adversaire ET le partenaire) |
-| **Couper** | Si on n'a pas la couleur et qu'on a un atout, il faut couper (sauf si le partenaire est maître) |
-| **Pas d'atout (voiture)** | Personne n'est obligé de monter |
+### Stratégie
 
-> Le joueur qui remporte le pli (le maître) entame le tour suivant.
+- Avec la formation 10/Roi, placer le Roi : il sera suffisant si le Manillon est situé avant.
+- Quand on sait que le partenaire a une Manille, entamer sa plus forte carte de cette couleur pour capturer le Manillon adverse.
+- Quand un camp est faible en Honneurs, chercher à s'ouvrir des coupes en jouant ses couleurs courtes.
 
-## Calcul des points
+## Version longue
 
-- Chaque équipe additionne les points de ses cartes + 1 point par pli
-- **Total = 68 points** (il faut que la somme des deux équipes = 68)
-- L'équipe qui a **plus de 34 points** gagne la manche
-- **Score marqué** = points obtenus - 34
+### Historique
 
-### Exemples
+La Manille est un jeu assez ancien, d'origine espagnole, pratiqué surtout dans le Midi de la France où il jouit d'une certaine popularité. Ses variantes sont très nombreuses, et les usages varient quelquefois d'une région à l'autre. Il n'en existe pas moins un fonds de règles communes.
 
-| Équipe A (atout) | Équipe B | Score marqué |
-|-------------------|----------|--------------|
-| 38 pts | 30 pts | A marque **4 pts** (38 - 34) |
-| 27 pts (a choisi) | 41 pts (a coinché) | B marque **7 × 2 = 14 pts** |
+### Exemple de coup
 
-> La partie se joue jusqu'à **121 points**.
+♦ A, 8 / ♥ 7 / — / ♣ 10
+
+♦ 10 / ♥ 8 / ♦ 7 / ♣ A
+
+♦ 9 / ♥ — / ♦ 9 / ♣ 8, 7
+
+♦ R / ♥ — / ♦ A, V / ♣ R
+
+Pour examiner plus facilement la façon dont se déroule un coup, nous avons pris une position à quatre cartes de la fin. L'Atout est Trèfle, et c'est à Ouest de jouer.
+
+**1ère levée :** Ouest joue le 8♥. Sud est obligé de couper du R♣. Est, qui ne peut surcouper, défausse le 9♦ dans l'espoir de couper plus tard le Manillon Carreau de Nord-Sud, et Nord fournit le 7♥.
+
+**2ème levée :** Sud joue le R♣ et Est met le 9♣. Nord, qui n'est pas obligé de forcer sur son partenaire, met le 8♣ et Ouest prend de la Manille (10♣).
+
+**3ème levée :** Ouest joue le 7♣ dans la Couleur défaussée par son partenaire. Sud a le Manillon (As♣) et le met. Est coupe et Nord, qui n'aurait pas été obligé de couper la carte maîtresse de son partenaire, doit maintenant surcouper de la Manille (10♣).
+
+**4ème levée :** Nord joue son As♣, Ouest coupe du Manillon maître (As♣) tandis que Sud fournit son V♣ et Est son dernier Atout.
+
+### Variantes
+
+**Manille muette :** Les règles sont les mêmes que pour la Manille parlée mais, comme son nom l'indique, pas un seul mot n'est échangé. La seule indication de jeu est donc la retourne.
+
+**Le Dix-Sept :** C'est une variante de jeu où chacun joue pour son propre compte. Chaque joueur est censé pouvoir réaliser sa part de points, soit 68 divisé par 4 = 17 points. Le jeu se déroule en silence, et il n'y a pas à proprement parler de partie, gains et pertes se réglant au coup par coup.
+
+**La Manille folle :** C'est une variante où l'on joue à la Manille « à l'envers », le but du jeu étant de réaliser le minimum de points. Il n'y a pas de retourne, la Couleur d'Atout étant fixée par le premier à joueur (normalement dans sa Couleur la plus faible). Le premier joueur qui atteint 100 points est le perdant de la partie. Quand un joueur se voit menacé de faire un grand nombre de points sur une donne, il peut demander « le général ». S'il parvient alors à réaliser toutes les levées, chaque adversaire marque 68 points.
