@@ -9,7 +9,9 @@ const S = {
   filter: 'all',
   currentIndex: 0,
   history: [],
-  favorites: new Set(JSON.parse(localStorage.getItem('pk-fav') || '[]')),
+  email: localStorage.getItem('pk-email') || null,
+  favorites: new Set(JSON.parse(localStorage.getItem('pk-fav-cache') || '[]')),
+  votes: {},          // game_id -> count (best-effort, depuis le serveur)
   animating: false,
   currentDetailId: null,
 };
@@ -21,6 +23,27 @@ const P = { active: false, card: null, x0: 0, y0: 0, dx: 0, dy: 0 };
 const $ = id => document.getElementById(id);
 const stack = $('cardStack');
 const stage = $('stage');
+
+// --- Backend API (PHP + SQLite) ---
+const API = './api.php';
+
+async function apiGet(action, params = {}) {
+  const qs = new URLSearchParams({ action, ...params }).toString();
+  const res = await fetch(`${API}?${qs}`, { headers: { Accept: 'application/json' } });
+  if (!res.ok) throw Object.assign(new Error('http'), { status: res.status });
+  return res.json();
+}
+
+async function apiPost(action, body = {}) {
+  const res = await fetch(`${API}?action=${encodeURIComponent(action)}`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw Object.assign(new Error(data.error || 'http'), { status: res.status, data });
+  return data;
+}
 
 // --- Init ---
 function init() {
@@ -41,9 +64,14 @@ function init() {
   $('filterBtn').onclick = openFilter;
   $('favBtn').onclick    = openFavorites;
   $('searchBtn').onclick = openSearch;
+  $('topBtn').onclick    = openTop;
 
   // Search
   $('searchInput').addEventListener('input', e => renderSearchResults(e.target.value));
+
+  // Email sheet (identité favoris)
+  $('emailSaveBtn').onclick = submitEmail;
+  $('emailInput').addEventListener('keydown', e => { if (e.key === 'Enter') submitEmail(); });
 
   // Sheets
   document.querySelectorAll('[data-close]').forEach(el => {
@@ -59,6 +87,7 @@ function init() {
   });
 
   updateFavCount();
+  syncFavorites();
 
   // Deep-link routing: open a game from #<id> on load, and react to hash changes
   window.addEventListener('hashchange', handleHashRoute);
@@ -339,20 +368,137 @@ function restart() {
   renderStack();
 }
 
-// --- Favorites ---
-function toggleFavorite(id, add) {
-  if (add !== undefined) {
-    if (add) S.favorites.add(id);
-    else S.favorites.delete(id);
-  } else {
-    S.favorites.has(id) ? S.favorites.delete(id) : S.favorites.add(id);
+// --- Favorites (serveur, liés à un email) ---
+function cacheFavorites() {
+  localStorage.setItem('pk-fav-cache', JSON.stringify([...S.favorites]));
+}
+
+async function syncFavorites() {
+  if (!S.email) return;
+  try {
+    const list = await apiGet('favorites', { email: S.email });
+    S.favorites = new Set(list);
+    cacheFavorites();
+    updateFavCount();
+  } catch { /* garde le cache local en cas d'indisponibilité */ }
+}
+
+async function toggleFavorite(id, add) {
+  const shouldAdd = add !== undefined ? add : !S.favorites.has(id);
+  if (!S.email) {
+    requireEmail(() => applyFavorite(id, shouldAdd));
+    return;
   }
-  localStorage.setItem('pk-fav', JSON.stringify([...S.favorites]));
+  await applyFavorite(id, shouldAdd);
+}
+
+async function applyFavorite(id, shouldAdd) {
+  // MAJ optimiste
+  shouldAdd ? S.favorites.add(id) : S.favorites.delete(id);
+  cacheFavorites();
   updateFavCount();
+  refreshDetailFav(id);
+  try {
+    const data = await apiPost(shouldAdd ? 'fav_add' : 'fav_remove', { email: S.email, game: id });
+    S.favorites = new Set(data.favorites);
+    cacheFavorites();
+    updateFavCount();
+    refreshDetailFav(id);
+  } catch {
+    // rollback
+    shouldAdd ? S.favorites.delete(id) : S.favorites.add(id);
+    cacheFavorites();
+    updateFavCount();
+    refreshDetailFav(id);
+    showToast('Serveur indisponible, réessayez');
+  }
+}
+
+function refreshDetailFav(id) {
+  if (S.currentDetailId === id && !$('detailSheet').hidden) openDetail(id, true);
 }
 
 function updateFavCount() {
   $('favCount').textContent = S.favorites.size;
+}
+
+// --- Email (identité des favoris, sans mot de passe) ---
+let emailCallback = null;
+
+function requireEmail(cb) {
+  emailCallback = cb || null;
+  $('emailInput').value = S.email || '';
+  $('emailSheet').hidden = false;
+  document.body.style.overflow = 'hidden';
+  setTimeout(() => $('emailInput').focus(), 60);
+}
+
+async function submitEmail() {
+  const val = ($('emailInput').value || '').trim().toLowerCase();
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val)) { showToast('Email invalide'); return; }
+  S.email = val;
+  localStorage.setItem('pk-email', val);
+  $('emailSheet').hidden = true;
+  document.body.style.overflow = '';
+  await syncFavorites();
+  const cb = emailCallback; emailCallback = null;
+  if (cb) await cb();
+}
+
+// --- Votes ---
+async function voteGame(id) {
+  try {
+    const data = await apiPost('vote', { game: id });
+    S.votes[id] = data.count;
+    showToast('Vote enregistré ✓');
+    const btn = $('detailVoteBtn');
+    if (btn && S.currentDetailId === id) {
+      const c = btn.querySelector('.vote-count');
+      if (c) c.textContent = data.count;
+    }
+  } catch (e) {
+    if (e.status === 429) showToast('Doucement ! Réessayez dans un instant');
+    else showToast('Serveur indisponible');
+  }
+}
+
+// --- Top jeux (classement par votes) ---
+async function openTop() {
+  $('topSheet').hidden = false;
+  document.body.style.overflow = 'hidden';
+  const box = $('topList');
+  box.innerHTML = '<div class="fav-empty"><p>Chargement…</p></div>';
+  try {
+    const rows = await apiGet('top', { limit: '100' });
+    rows.forEach(r => { S.votes[r.game_id] = r.count; });
+    renderTop(rows);
+  } catch {
+    box.innerHTML = '<div class="fav-empty"><div class="fav-empty__icon">📡</div><p>Classement indisponible (serveur PHP requis)</p></div>';
+  }
+}
+
+function renderTop(rows) {
+  const box = $('topList');
+  const items = rows
+    .map(r => ({ game: S.games.find(g => g.id === r.game_id), count: r.count }))
+    .filter(x => x.game);
+  if (!items.length) {
+    box.innerHTML = '<div class="fav-empty"><div class="fav-empty__icon">🏆</div><p>Aucun vote pour le moment. Soyez le premier à voter !</p></div>';
+    return;
+  }
+  box.innerHTML = items.map((x, i) => `
+    <button class="top-item" style="--card-color:${x.game.color || 'var(--accent)'}" data-id="${x.game.id}">
+      <span class="top-item__rank">${i + 1}</span>
+      <span class="top-item__info">
+        <span class="top-item__name">${escapeHtml(x.game.title)}</span>
+        <span class="top-item__meta">${escapeHtml(x.game.players)} · ${escapeHtml(x.game.cards)}</span>
+      </span>
+      <span class="top-item__votes">${x.count} ${x.count > 1 ? 'votes' : 'vote'}</span>
+    </button>
+  `).join('');
+  box.querySelectorAll('.top-item').forEach(btn => {
+    btn.onclick = () => { $('topSheet').hidden = true; openDetail(btn.dataset.id); };
+  });
 }
 
 // --- Detail sheet ---
@@ -397,6 +543,12 @@ function openDetail(id, fromHash) {
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>
           Partager
         </button>
+        <button class="badge badge--vote" id="detailVoteBtn"
+          style="cursor:pointer;border:none;font-family:inherit"
+          aria-label="Voter pour ce jeu">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.3 6.9.7-5.1 4.6 1.4 6.8L12 17.8 5.9 20.4l1.4-6.8L2.2 9l6.9-.7z"/></svg>
+          Voter <span class="vote-count">${S.votes[id] || 0}</span>
+        </button>
       </div>
       <div class="detail-summary">
         <div class="detail-summary__label">Règle courte</div>
@@ -411,12 +563,11 @@ function openDetail(id, fromHash) {
     <div class="markdown">${marked.parse(stripMeta(game.markdown))}</div>
   `;
 
-  $('detailFavBtn').onclick = () => {
-    toggleFavorite(id);
-    openDetail(id, true);
-  };
+  $('detailFavBtn').onclick = () => { toggleFavorite(id); };
 
   $('detailShareBtn').onclick = () => shareGame(game);
+
+  $('detailVoteBtn').onclick = () => voteGame(id);
 
   $('detailSheet').hidden = false;
   document.body.style.overflow = 'hidden';
@@ -553,6 +704,9 @@ function closeAllSheets(fromHash) {
   $('favSheet').hidden = true;
   $('filterSheet').hidden = true;
   $('searchSheet').hidden = true;
+  $('topSheet').hidden = true;
+  $('emailSheet').hidden = true;
+  emailCallback = null;
   document.body.style.overflow = '';
   S.currentDetailId = null;
   if (detailWasOpen && !fromHash && location.hash) {
@@ -561,7 +715,8 @@ function closeAllSheets(fromHash) {
 }
 
 function anySheetOpen() {
-  return !$('detailSheet').hidden || !$('favSheet').hidden || !$('filterSheet').hidden || !$('searchSheet').hidden;
+  return !$('detailSheet').hidden || !$('favSheet').hidden || !$('filterSheet').hidden
+      || !$('searchSheet').hidden || !$('topSheet').hidden || !$('emailSheet').hidden;
 }
 
 // Close on Escape

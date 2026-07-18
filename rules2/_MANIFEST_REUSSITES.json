@@ -1,0 +1,1786 @@
+[
+  {
+    "title": "Agnes I",
+    "slug": "agnes-i",
+    "book_page": 21,
+    "pdf_page": 25,
+    "chars": 6930,
+    "kind": "reussite"
+  },
+  {
+    "title": "Agnes",
+    "slug": "agnes-ii",
+    "book_page": 23,
+    "pdf_page": 27,
+    "chars": 4584,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Aigle",
+    "slug": "laigle",
+    "book_page": 24,
+    "pdf_page": 28,
+    "chars": 2140,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Aiglon",
+    "slug": "laiglon",
+    "book_page": 25,
+    "pdf_page": 29,
+    "chars": 5754,
+    "kind": "reussite"
+  },
+  {
+    "title": "Alhambra",
+    "slug": "alhambra",
+    "book_page": 28,
+    "pdf_page": 32,
+    "chars": 3949,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "alliances",
+    "book_page": 30,
+    "pdf_page": 34,
+    "chars": 2624,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "alternances",
+    "book_page": 30,
+    "pdf_page": 34,
+    "chars": 2508,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Amour des",
+    "slug": "lamour-des-poetes",
+    "book_page": 34,
+    "pdf_page": 38,
+    "chars": 6489,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Appel des",
+    "slug": "lappel-des-cartes",
+    "book_page": 36,
+    "pdf_page": 40,
+    "chars": 2090,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Araignee",
+    "slug": "laraignee",
+    "book_page": 36,
+    "pdf_page": 40,
+    "chars": 2861,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Arc-en-ciel",
+    "slug": "larc-en-ciel",
+    "book_page": 38,
+    "pdf_page": 42,
+    "chars": 2904,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Arlequin",
+    "slug": "larlequin",
+    "book_page": 39,
+    "pdf_page": 43,
+    "chars": 2188,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Arete",
+    "slug": "larete",
+    "book_page": 40,
+    "pdf_page": 44,
+    "chars": 5258,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les As",
+    "slug": "as-chasseurs",
+    "book_page": 42,
+    "pdf_page": 46,
+    "chars": 2579,
+    "kind": "reussite"
+  },
+  {
+    "title": "Au",
+    "slug": "au-coin",
+    "book_page": 42,
+    "pdf_page": 46,
+    "chars": 2844,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Audience du",
+    "slug": "laudience-du-roi",
+    "book_page": 43,
+    "pdf_page": 47,
+    "chars": 3371,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Autobus",
+    "slug": "lautobus",
+    "book_page": 46,
+    "pdf_page": 50,
+    "chars": 6308,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Belle",
+    "slug": "belle-lucie",
+    "book_page": 55,
+    "pdf_page": 59,
+    "chars": 5506,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "bisley",
+    "book_page": 68,
+    "pdf_page": 72,
+    "chars": 3188,
+    "kind": "reussite"
+  },
+  {
+    "title": "Blocade",
+    "slug": "blocade",
+    "book_page": 69,
+    "pdf_page": 73,
+    "chars": 6118,
+    "kind": "reussite"
+  },
+  {
+    "title": "Block",
+    "slug": "block-11",
+    "book_page": 71,
+    "pdf_page": 75,
+    "chars": 2436,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Blocus des",
+    "slug": "blocus-des-quatorze",
+    "book_page": 72,
+    "pdf_page": 76,
+    "chars": 5743,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "bonaparte",
+    "book_page": 73,
+    "pdf_page": 77,
+    "chars": 4759,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Bon",
+    "slug": "bon-ordre",
+    "book_page": 75,
+    "pdf_page": 79,
+    "chars": 4764,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "boussole",
+    "book_page": 80,
+    "pdf_page": 84,
+    "chars": 3368,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "bristol",
+    "book_page": 102,
+    "pdf_page": 106,
+    "chars": 3404,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Brune et la",
+    "slug": "brune-et-la-blonde",
+    "book_page": 102,
+    "pdf_page": 106,
+    "chars": 4646,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "but",
+    "book_page": 105,
+    "pdf_page": 109,
+    "chars": 2729,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Cadran des",
+    "slug": "cadran-des-valets",
+    "book_page": 106,
+    "pdf_page": 110,
+    "chars": 4014,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "calculs",
+    "book_page": 108,
+    "pdf_page": 112,
+    "chars": 6657,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "cameleon",
+    "book_page": 110,
+    "pdf_page": 114,
+    "chars": 4864,
+    "kind": "reussite"
+  },
+  {
+    "title": "Canfield",
+    "slug": "canfield",
+    "book_page": 116,
+    "pdf_page": 120,
+    "chars": 4237,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "carre",
+    "book_page": 119,
+    "pdf_page": 123,
+    "chars": 3895,
+    "kind": "reussite"
+  },
+  {
+    "title": "Wimonhilo",
+    "slug": "wimonhilo",
+    "book_page": 121,
+    "pdf_page": 125,
+    "chars": 6483,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Carte",
+    "slug": "carte-voyageuse",
+    "book_page": 124,
+    "pdf_page": 128,
+    "chars": 3557,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "cercle",
+    "book_page": 127,
+    "pdf_page": 131,
+    "chars": 3492,
+    "kind": "reussite"
+  },
+  {
+    "title": "Cesar",
+    "slug": "cesar",
+    "book_page": 129,
+    "pdf_page": 133,
+    "chars": 3421,
+    "kind": "reussite"
+  },
+  {
+    "title": "Chacun Son Tour Ao)",
+    "slug": "chacun-son-tour-ao",
+    "book_page": 130,
+    "pdf_page": 134,
+    "chars": 4458,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "chapeau",
+    "book_page": 134,
+    "pdf_page": 138,
+    "chars": 6146,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "chatelaine",
+    "book_page": 140,
+    "pdf_page": 144,
+    "chars": 3201,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Cle de Voute",
+    "slug": "cle-de-voute-a0",
+    "book_page": 147,
+    "pdf_page": 151,
+    "chars": 2278,
+    "kind": "reussite"
+  },
+  {
+    "title": "Colorado",
+    "slug": "colorado",
+    "book_page": 151,
+    "pdf_page": 155,
+    "chars": 4568,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Commere",
+    "slug": "commere-simple",
+    "book_page": 154,
+    "pdf_page": 158,
+    "chars": 5970,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Congres de",
+    "slug": "congres-de-vienne",
+    "book_page": 156,
+    "pdf_page": 160,
+    "chars": 9041,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Coq du",
+    "slug": "coq-du-nord",
+    "book_page": 159,
+    "pdf_page": 163,
+    "chars": 5073,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Cotillon",
+    "slug": "cotillon-royal",
+    "book_page": 163,
+    "pdf_page": 167,
+    "chars": 2856,
+    "kind": "reussite"
+  },
+  {
+    "title": "Cote a",
+    "slug": "cote-a-cote",
+    "book_page": 165,
+    "pdf_page": 169,
+    "chars": 3000,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "couleurs",
+    "book_page": 168,
+    "pdf_page": 172,
+    "chars": 2555,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Couples",
+    "slug": "couples-5",
+    "book_page": 168,
+    "pdf_page": 172,
+    "chars": 3665,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "couronne",
+    "book_page": 171,
+    "pdf_page": 175,
+    "chars": 4487,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "crapaud",
+    "book_page": 173,
+    "pdf_page": 177,
+    "chars": 2568,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "crapette",
+    "book_page": 173,
+    "pdf_page": 177,
+    "chars": 7389,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "crinoline",
+    "book_page": 178,
+    "pdf_page": 182,
+    "chars": 5155,
+    "kind": "reussite"
+  },
+  {
+    "title": "Dada",
+    "slug": "dada",
+    "book_page": 180,
+    "pdf_page": 184,
+    "chars": 2891,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Dame de",
+    "slug": "dame-de-pique",
+    "book_page": 182,
+    "pdf_page": 186,
+    "chars": 4102,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Dames et les",
+    "slug": "dames-et-les-valets",
+    "book_page": 182,
+    "pdf_page": 186,
+    "chars": 2493,
+    "kind": "reussite"
+  },
+  {
+    "title": ")| les Decades",
+    "slug": "les-decades-52",
+    "book_page": 183,
+    "pdf_page": 187,
+    "chars": 1846,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Demi-lune",
+    "slug": "demi-lune",
+    "book_page": 183,
+    "pdf_page": 187,
+    "chars": 3367,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Dernier",
+    "slug": "dernier-carre",
+    "book_page": 184,
+    "pdf_page": 188,
+    "chars": 4377,
+    "kind": "reussite"
+  },
+  {
+    "title": "| les Deux",
+    "slug": "les-deux-maisons",
+    "book_page": 186,
+    "pdf_page": 190,
+    "chars": 3976,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Detective",
+    "slug": "detective-amateur",
+    "book_page": 188,
+    "pdf_page": 192,
+    "chars": 3093,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Deux",
+    "slug": "deux-couleurs",
+    "book_page": 188,
+    "pdf_page": 192,
+    "chars": 1659,
+    "kind": "reussite"
+  },
+  {
+    "title": "‘le Dictionnaire de L’Academie",
+    "slug": "le-dictionnaire-de-lacademie",
+    "book_page": 189,
+    "pdf_page": 193,
+    "chars": 3686,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Docteur",
+    "slug": "docteur-ox",
+    "book_page": 190,
+    "pdf_page": 194,
+    "chars": 4910,
+    "kind": "reussite"
+  },
+  {
+    "title": "Don Quichotte Go) 5",
+    "slug": "don-quichotte-go-5",
+    "book_page": 193,
+    "pdf_page": 197,
+    "chars": 7279,
+    "kind": "reussite"
+  },
+  {
+    "title": "| la Duchesse de",
+    "slug": "la-duchesse-de-luynes",
+    "book_page": 201,
+    "pdf_page": 205,
+    "chars": 4042,
+    "kind": "reussite"
+  },
+  {
+    "title": "| L’Ecole",
+    "slug": "lecole-buissonniere",
+    "book_page": 205,
+    "pdf_page": 209,
+    "chars": 2883,
+    "kind": "reussite"
+  },
+  {
+    "title": "E Pur Si",
+    "slug": "e-pur-si-muove",
+    "book_page": 207,
+    "pdf_page": 211,
+    "chars": 3701,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Escargot",
+    "slug": "lescargot",
+    "book_page": 209,
+    "pdf_page": 213,
+    "chars": 2515,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Esperance —=",
+    "slug": "lesperance",
+    "book_page": 209,
+    "pdf_page": 213,
+    "chars": 3247,
+    "kind": "reussite"
+  },
+  {
+    "title": "Lyetincelle",
+    "slug": "lyetincelle",
+    "book_page": 210,
+    "pdf_page": 214,
+    "chars": 4699,
+    "kind": "reussite"
+  },
+  {
+    "title": "| L’Etoile",
+    "slug": "letoile",
+    "book_page": 212,
+    "pdf_page": 216,
+    "chars": 2741,
+    "kind": "reussite"
+  },
+  {
+    "title": "L-eventail de Lady",
+    "slug": "eventail-de-lady-windermere",
+    "book_page": 214,
+    "pdf_page": 218,
+    "chars": 4574,
+    "kind": "reussite"
+  },
+  {
+    "title": "Variante 3",
+    "slug": "variante-3-allegee",
+    "book_page": 215,
+    "pdf_page": 219,
+    "chars": 1932,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "eventails",
+    "book_page": 218,
+    "pdf_page": 222,
+    "chars": 2981,
+    "kind": "reussite"
+  },
+  {
+    "title": "Expansion",
+    "slug": "expansion",
+    "book_page": 218,
+    "pdf_page": 222,
+    "chars": 4447,
+    "kind": "reussite"
+  },
+  {
+    "title": "Faust",
+    "slug": "faust",
+    "book_page": 221,
+    "pdf_page": 225,
+    "chars": 3464,
+    "kind": "reussite"
+  },
+  {
+    "title": "Martin Perd Son",
+    "slug": "martin-perd-son-ane",
+    "book_page": 222,
+    "pdf_page": 226,
+    "chars": 4600,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "fenetres",
+    "book_page": 222,
+    "pdf_page": 226,
+    "chars": 5473,
+    "kind": "reussite"
+  },
+  {
+    "title": "Fission",
+    "slug": "fission",
+    "book_page": 224,
+    "pdf_page": 228,
+    "chars": 5797,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "fleche",
+    "book_page": 226,
+    "pdf_page": 230,
+    "chars": 4546,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Anglaise",
+    "slug": "langlaise",
+    "book_page": 232,
+    "pdf_page": 236,
+    "chars": 2876,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "alternances-2",
+    "book_page": 232,
+    "pdf_page": 236,
+    "chars": 2647,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Grand",
+    "slug": "grand-triomphe",
+    "book_page": 232,
+    "pdf_page": 236,
+    "chars": 858,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Cinq",
+    "slug": "cinq-colonnes",
+    "book_page": 232,
+    "pdf_page": 236,
+    "chars": 3124,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Francaise a",
+    "slug": "francaise-a-deux",
+    "book_page": 233,
+    "pdf_page": 237,
+    "chars": 3605,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Galerie des",
+    "slug": "galerie-des-ancetres",
+    "book_page": 233,
+    "pdf_page": 237,
+    "chars": 3800,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Galerie des",
+    "slug": "galerie-des-tableaux",
+    "book_page": 234,
+    "pdf_page": 238,
+    "chars": 3872,
+    "kind": "reussite"
+  },
+  {
+    "title": "Gargantua",
+    "slug": "gargantua",
+    "book_page": 234,
+    "pdf_page": 238,
+    "chars": 3763,
+    "kind": "reussite"
+  },
+  {
+    "title": "Gavroche",
+    "slug": "gavroche",
+    "book_page": 235,
+    "pdf_page": 239,
+    "chars": 2361,
+    "kind": "reussite"
+  },
+  {
+    "title": "Germinal",
+    "slug": "germinal",
+    "book_page": 235,
+    "pdf_page": 239,
+    "chars": 5245,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Grande",
+    "slug": "grande-passion",
+    "book_page": 245,
+    "pdf_page": 249,
+    "chars": 4640,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Grande Serie",
+    "slug": "grande-serie-5-2",
+    "book_page": 247,
+    "pdf_page": 251,
+    "chars": 1499,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Grands",
+    "slug": "grands-peres",
+    "book_page": 247,
+    "pdf_page": 251,
+    "chars": 4972,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "grille",
+    "book_page": 248,
+    "pdf_page": 252,
+    "chars": 4451,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Guillotine",
+    "slug": "guillotine-royale",
+    "book_page": 248,
+    "pdf_page": 252,
+    "chars": 2521,
+    "kind": "reussite"
+  },
+  {
+    "title": "Lyhorloge",
+    "slug": "lyhorloge",
+    "book_page": 256,
+    "pdf_page": 260,
+    "chars": 3498,
+    "kind": "reussite"
+  },
+  {
+    "title": "Hors Jeu :",
+    "slug": "hors-jeu",
+    "book_page": 258,
+    "pdf_page": 262,
+    "chars": 1220,
+    "kind": "reussite"
+  },
+  {
+    "title": "Lyhotel des",
+    "slug": "lyhotel-des-carneadx",
+    "book_page": 258,
+    "pdf_page": 262,
+    "chars": 8711,
+    "kind": "reussite"
+  },
+  {
+    "title": "Lyimperatrice des",
+    "slug": "lyimperatrice-des-indes",
+    "book_page": 259,
+    "pdf_page": 263,
+    "chars": 7577,
+    "kind": "reussite"
+  },
+  {
+    "title": "Liindien",
+    "slug": "liindien",
+    "book_page": 265,
+    "pdf_page": 269,
+    "chars": 2453,
+    "kind": "reussite"
+  },
+  {
+    "title": "Intermezzo",
+    "slug": "intermezzo",
+    "book_page": 265,
+    "pdf_page": 269,
+    "chars": 4579,
+    "kind": "reussite"
+  },
+  {
+    "title": "Liintrigue",
+    "slug": "liintrigue",
+    "book_page": 266,
+    "pdf_page": 270,
+    "chars": 3166,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Jardin des",
+    "slug": "jardin-des-dames",
+    "book_page": 267,
+    "pdf_page": 271,
+    "chars": 2334,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Jardin",
+    "slug": "jardin-fleuri",
+    "book_page": 269,
+    "pdf_page": 273,
+    "chars": 3214,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "jiley",
+    "book_page": 273,
+    "pdf_page": 277,
+    "chars": 2692,
+    "kind": "reussite"
+  },
+  {
+    "title": "Joli Mai —)",
+    "slug": "joli-mai-ls",
+    "book_page": 276,
+    "pdf_page": 280,
+    "chars": 5509,
+    "kind": "reussite"
+  },
+  {
+    "title": "Jour J",
+    "slug": "jour-j",
+    "book_page": 278,
+    "pdf_page": 282,
+    "chars": 4901,
+    "kind": "reussite"
+  },
+  {
+    "title": "Klondike",
+    "slug": "klondike",
+    "book_page": 280,
+    "pdf_page": 284,
+    "chars": 3861,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "legitime",
+    "book_page": 284,
+    "pdf_page": 288,
+    "chars": 3261,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Loi",
+    "slug": "loi-salique",
+    "book_page": 284,
+    "pdf_page": 288,
+    "chars": 3412,
+    "kind": "reussite"
+  },
+  {
+    "title": "Louis-napoleon",
+    "slug": "louis-napoleon",
+    "book_page": 285,
+    "pdf_page": 289,
+    "chars": 4136,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Lune",
+    "slug": "lune-bleue",
+    "book_page": 285,
+    "pdf_page": 289,
+    "chars": 4660,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "maiastra",
+    "book_page": 288,
+    "pdf_page": 292,
+    "chars": 2633,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Maison dans le",
+    "slug": "maison-dans-le-bois",
+    "book_page": 288,
+    "pdf_page": 292,
+    "chars": 3474,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "marchepied",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 6272,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "mariages",
+    "book_page": 292,
+    "pdf_page": 296,
+    "chars": 2979,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Mariages Nh",
+    "slug": "mariages-nh",
+    "book_page": 292,
+    "pdf_page": 296,
+    "chars": 2283,
+    "kind": "reussite"
+  },
+  {
+    "title": "Marie-antoinette",
+    "slug": "marie-antoinette",
+    "book_page": 293,
+    "pdf_page": 297,
+    "chars": 4301,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "marquetterie",
+    "book_page": 294,
+    "pdf_page": 298,
+    "chars": 4386,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "marronniers",
+    "book_page": 298,
+    "pdf_page": 302,
+    "chars": 3732,
+    "kind": "reussite"
+  },
+  {
+    "title": "Mathusalem",
+    "slug": "mathusalem",
+    "book_page": 299,
+    "pdf_page": 303,
+    "chars": 1901,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "melange",
+    "book_page": 300,
+    "pdf_page": 304,
+    "chars": 1468,
+    "kind": "reussite"
+  },
+  {
+    "title": "Miss",
+    "slug": "miss-milligan",
+    "book_page": 302,
+    "pdf_page": 306,
+    "chars": 4105,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "missionnaires",
+    "book_page": 303,
+    "pdf_page": 307,
+    "chars": 4376,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "monegasque",
+    "book_page": 304,
+    "pdf_page": 308,
+    "chars": 2793,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Mont",
+    "slug": "mont-olympe",
+    "book_page": 304,
+    "pdf_page": 308,
+    "chars": 3354,
+    "kind": "reussite"
+  },
+  {
+    "title": "Monte Carlo",
+    "slug": "monte-carlo-40",
+    "book_page": 305,
+    "pdf_page": 309,
+    "chars": 3535,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Mots",
+    "slug": "mots-croises",
+    "book_page": 305,
+    "pdf_page": 309,
+    "chars": 2655,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "moulin",
+    "book_page": 307,
+    "pdf_page": 311,
+    "chars": 3851,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Mouvement",
+    "slug": "mouvement-perpetuel",
+    "book_page": 309,
+    "pdf_page": 313,
+    "chars": 2233,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Musicale ( a 10 <",
+    "slug": "musicale-a-10",
+    "book_page": 309,
+    "pdf_page": 313,
+    "chars": 3149,
+    "kind": "reussite"
+  },
+  {
+    "title": "Napoleon",
+    "slug": "napoleon",
+    "book_page": 312,
+    "pdf_page": 316,
+    "chars": 3803,
+    "kind": "reussite"
+  },
+  {
+    "title": "Nestor",
+    "slug": "nestor",
+    "book_page": 313,
+    "pdf_page": 317,
+    "chars": 2348,
+    "kind": "reussite"
+  },
+  {
+    "title": "Neuf en",
+    "slug": "neuf-en-ordre",
+    "book_page": 313,
+    "pdf_page": 317,
+    "chars": 3227,
+    "kind": "reussite"
+  },
+  {
+    "title": "| Noir et",
+    "slug": "noir-et-rouge",
+    "book_page": 315,
+    "pdf_page": 319,
+    "chars": 2790,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Nombre",
+    "slug": "nombre-13",
+    "book_page": 316,
+    "pdf_page": 320,
+    "chars": 1814,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’?octogone",
+    "slug": "l-octogone",
+    "book_page": 316,
+    "pdf_page": 320,
+    "chars": 3237,
+    "kind": "reussite"
+  },
+  {
+    "title": "Olga",
+    "slug": "olga",
+    "book_page": 320,
+    "pdf_page": 324,
+    "chars": 4396,
+    "kind": "reussite"
+  },
+  {
+    "title": "Ombre et",
+    "slug": "ombre-et-lumiere",
+    "book_page": 320,
+    "pdf_page": 324,
+    "chars": 3173,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "onze",
+    "book_page": 321,
+    "pdf_page": 325,
+    "chars": 1533,
+    "kind": "reussite"
+  },
+  {
+    "title": "L’Ordre",
+    "slug": "lordre",
+    "book_page": 321,
+    "pdf_page": 325,
+    "chars": 1736,
+    "kind": "reussite"
+  },
+  {
+    "title": "Osmose",
+    "slug": "osmose",
+    "book_page": 322,
+    "pdf_page": 326,
+    "chars": 3087,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "outsiders",
+    "book_page": 323,
+    "pdf_page": 327,
+    "chars": 1765,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "outsiders-2",
+    "book_page": 324,
+    "pdf_page": 328,
+    "chars": 4608,
+    "kind": "reussite"
+  },
+  {
+    "title": "Pair-impair",
+    "slug": "pair-impair",
+    "book_page": 324,
+    "pdf_page": 328,
+    "chars": 2846,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "paires",
+    "book_page": 325,
+    "pdf_page": 329,
+    "chars": 7523,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Parade",
+    "slug": "parade-royale",
+    "book_page": 328,
+    "pdf_page": 332,
+    "chars": 4315,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Patience des",
+    "slug": "patience-des-dames",
+    "book_page": 329,
+    "pdf_page": 333,
+    "chars": 3739,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Patience de",
+    "slug": "patience-de-napoleon",
+    "book_page": 330,
+    "pdf_page": 334,
+    "chars": 2389,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "pendule",
+    "book_page": 331,
+    "pdf_page": 335,
+    "chars": 5207,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "penicilline",
+    "book_page": 332,
+    "pdf_page": 336,
+    "chars": 4260,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Petite",
+    "slug": "petite-araignee",
+    "book_page": 332,
+    "pdf_page": 336,
+    "chars": 2841,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Petits",
+    "slug": "petits-paquets",
+    "book_page": 333,
+    "pdf_page": 337,
+    "chars": 1459,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Petits",
+    "slug": "petits-tas",
+    "book_page": 333,
+    "pdf_page": 337,
+    "chars": 7090,
+    "kind": "reussite"
+  },
+  {
+    "title": "‘variante",
+    "slug": "variante",
+    "book_page": 346,
+    "pdf_page": 350,
+    "chars": 5433,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Poker",
+    "slug": "poker-patience",
+    "book_page": 359,
+    "pdf_page": 363,
+    "chars": 3714,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "pont",
+    "book_page": 363,
+    "pdf_page": 367,
+    "chars": 2956,
+    "kind": "reussite"
+  },
+  {
+    "title": "R la",
+    "slug": "r-la-poussette",
+    "book_page": 366,
+    "pdf_page": 370,
+    "chars": 1938,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "prison",
+    "book_page": 366,
+    "pdf_page": 370,
+    "chars": 3115,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "pyramide",
+    "book_page": 366,
+    "pdf_page": 370,
+    "chars": 2677,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre",
+    "slug": "quatre-as",
+    "book_page": 369,
+    "pdf_page": 373,
+    "chars": 2340,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre",
+    "slug": "quatre-coins",
+    "book_page": 369,
+    "pdf_page": 373,
+    "chars": 4746,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre",
+    "slug": "quatre-couleurs",
+    "book_page": 371,
+    "pdf_page": 375,
+    "chars": 1671,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre",
+    "slug": "quatre-familles",
+    "book_page": 371,
+    "pdf_page": 375,
+    "chars": 2525,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre Points",
+    "slug": "quatre-points-cardinaux",
+    "book_page": 372,
+    "pdf_page": 376,
+    "chars": 4337,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Quatre 7",
+    "slug": "quatre-7",
+    "book_page": 372,
+    "pdf_page": 376,
+    "chars": 2668,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Quinte",
+    "slug": "quinte-royale",
+    "book_page": 373,
+    "pdf_page": 377,
+    "chars": 3695,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "quinzaine",
+    "book_page": 374,
+    "pdf_page": 378,
+    "chars": 3125,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "quinze-2",
+    "book_page": 375,
+    "pdf_page": 379,
+    "chars": 1552,
+    "kind": "reussite"
+  },
+  {
+    "title": "Quitte ou",
+    "slug": "quitte-ou-double",
+    "book_page": 376,
+    "pdf_page": 380,
+    "chars": 2709,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "raglan",
+    "book_page": 376,
+    "pdf_page": 380,
+    "chars": 2978,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Reconciliation :",
+    "slug": "reconciliation",
+    "book_page": 381,
+    "pdf_page": 385,
+    "chars": 2517,
+    "kind": "reussite"
+  },
+  {
+    "title": "Reine D’Italie",
+    "slug": "reine-ditalie",
+    "book_page": 382,
+    "pdf_page": 386,
+    "chars": 4490,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "relativite",
+    "book_page": 382,
+    "pdf_page": 386,
+    "chars": 3675,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "relief",
+    "book_page": 384,
+    "pdf_page": 388,
+    "chars": 2056,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "renard",
+    "book_page": 384,
+    "pdf_page": 388,
+    "chars": 3395,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "republicaine",
+    "book_page": 385,
+    "pdf_page": 389,
+    "chars": 2831,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "reserve",
+    "book_page": 385,
+    "pdf_page": 389,
+    "chars": 3287,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "reversi",
+    "book_page": 385,
+    "pdf_page": 389,
+    "chars": 7369,
+    "kind": "reussite"
+  },
+  {
+    "title": "Robert",
+    "slug": "robert",
+    "book_page": 387,
+    "pdf_page": 391,
+    "chars": 7045,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Roi",
+    "slug": "roi-albert",
+    "book_page": 389,
+    "pdf_page": 393,
+    "chars": 3079,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "rois",
+    "book_page": 390,
+    "pdf_page": 394,
+    "chars": 3578,
+    "kind": "reussite"
+  },
+  {
+    "title": "R/ la",
+    "slug": "r-la-ronde",
+    "book_page": 392,
+    "pdf_page": 396,
+    "chars": 3649,
+    "kind": "reussite"
+  },
+  {
+    "title": "Rouge et",
+    "slug": "rouge-et-noir",
+    "book_page": 392,
+    "pdf_page": 396,
+    "chars": 3035,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Rouge et la",
+    "slug": "rouge-et-la-noire",
+    "book_page": 393,
+    "pdf_page": 397,
+    "chars": 3895,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Rouge et la Noire ~~}! +",
+    "slug": "rouge-et-la-noire-2",
+    "book_page": 394,
+    "pdf_page": 398,
+    "chars": 1733,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "saisons",
+    "book_page": 394,
+    "pdf_page": 398,
+    "chars": 2620,
+    "kind": "reussite"
+  },
+  {
+    "title": "Dian.",
+    "slug": "dian",
+    "book_page": 395,
+    "pdf_page": 399,
+    "chars": 1951,
+    "kind": "reussite"
+  },
+  {
+    "title": "Saute-grenouille",
+    "slug": "saute-grenouille",
+    "book_page": 397,
+    "pdf_page": 401,
+    "chars": 1772,
+    "kind": "reussite"
+  },
+  {
+    "title": "Saute-mouton",
+    "slug": "saute-mouton",
+    "book_page": 397,
+    "pdf_page": 401,
+    "chars": 2757,
+    "kind": "reussite"
+  },
+  {
+    "title": "A325 As.",
+    "slug": "a325-as",
+    "book_page": 399,
+    "pdf_page": 403,
+    "chars": 2842,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "series",
+    "book_page": 401,
+    "pdf_page": 405,
+    "chars": 2253,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Seven",
+    "slug": "seven-up-2",
+    "book_page": 402,
+    "pdf_page": 406,
+    "chars": 3984,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "shah",
+    "book_page": 403,
+    "pdf_page": 407,
+    "chars": 4476,
+    "kind": "reussite"
+  },
+  {
+    "title": "Shamrocks",
+    "slug": "shamrocks",
+    "book_page": 405,
+    "pdf_page": 409,
+    "chars": 3798,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "siege",
+    "book_page": 405,
+    "pdf_page": 409,
+    "chars": 2481,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Six",
+    "slug": "six-paquets",
+    "book_page": 406,
+    "pdf_page": 410,
+    "chars": 3022,
+    "kind": "reussite"
+  },
+  {
+    "title": "Strategie",
+    "slug": "strategie",
+    "book_page": 413,
+    "pdf_page": 417,
+    "chars": 2204,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "sultan",
+    "book_page": 413,
+    "pdf_page": 417,
+    "chars": 3418,
+    "kind": "reussite"
+  },
+  {
+    "title": "Sur la Voie du",
+    "slug": "sur-la-voie-du-retour",
+    "book_page": 414,
+    "pdf_page": 418,
+    "chars": 2561,
+    "kind": "reussite"
+  },
+  {
+    "title": "‘le",
+    "slug": "le-tableau",
+    "book_page": 417,
+    "pdf_page": 421,
+    "chars": 3150,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Table de",
+    "slug": "table-de-pythagore",
+    "book_page": 417,
+    "pdf_page": 421,
+    "chars": 3818,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "tapis",
+    "book_page": 419,
+    "pdf_page": 423,
+    "chars": 2746,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Tapis",
+    "slug": "tapis-japonais",
+    "book_page": 419,
+    "pdf_page": 423,
+    "chars": 3031,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Taquin",
+    "slug": "taquin-g5",
+    "book_page": 421,
+    "pdf_page": 425,
+    "chars": 25150,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Temps Modernes",
+    "slug": "temps-modernes-5",
+    "book_page": 425,
+    "pdf_page": 429,
+    "chars": 3851,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "tigre",
+    "book_page": 426,
+    "pdf_page": 430,
+    "chars": 5362,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "tisserands",
+    "book_page": 427,
+    "pdf_page": 431,
+    "chars": 7127,
+    "kind": "reussite"
+  },
+  {
+    "title": "Tit-tat-toe",
+    "slug": "tit-tat-toe",
+    "book_page": 428,
+    "pdf_page": 432,
+    "chars": 1398,
+    "kind": "reussite"
+  },
+  {
+    "title": "La Tour de",
+    "slug": "tour-de-babel",
+    "book_page": 429,
+    "pdf_page": 433,
+    "chars": 3595,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "tournoi",
+    "book_page": 429,
+    "pdf_page": 433,
+    "chars": 4691,
+    "kind": "reussite"
+  },
+  {
+    "title": "Toute",
+    "slug": "toute-simple",
+    "book_page": 431,
+    "pdf_page": 435,
+    "chars": 1948,
+    "kind": "reussite"
+  },
+  {
+    "title": "Towie",
+    "slug": "towie",
+    "book_page": 431,
+    "pdf_page": 435,
+    "chars": 5450,
+    "kind": "reussite"
+  },
+  {
+    "title": "R",
+    "slug": "r-trains",
+    "book_page": 432,
+    "pdf_page": 436,
+    "chars": 3561,
+    "kind": "reussite"
+  },
+  {
+    "title": "Treize a la",
+    "slug": "treize-a-la-douzaine",
+    "book_page": 432,
+    "pdf_page": 436,
+    "chars": 3835,
+    "kind": "reussite"
+  },
+  {
+    "title": "La",
+    "slug": "tresse",
+    "book_page": 437,
+    "pdf_page": 441,
+    "chars": 3880,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Triades (s) 2",
+    "slug": "triades-s-2",
+    "book_page": 437,
+    "pdf_page": 441,
+    "chars": 2920,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les Trois",
+    "slug": "trois-mousquetaires",
+    "book_page": 440,
+    "pdf_page": 444,
+    "chars": 2440,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le Vieux",
+    "slug": "vieux-procureur",
+    "book_page": 445,
+    "pdf_page": 449,
+    "chars": 3367,
+    "kind": "reussite"
+  },
+  {
+    "title": "Les",
+    "slug": "paires-2",
+    "book_page": 446,
+    "pdf_page": 450,
+    "chars": 1467,
+    "kind": "reussite"
+  },
+  {
+    "title": "Le",
+    "slug": "violon",
+    "book_page": 447,
+    "pdf_page": 451,
+    "chars": 7437,
+    "kind": "reussite"
+  },
+  {
+    "title": "R les Visiteors",
+    "slug": "r-les-visiteors-imprevus",
+    "book_page": 448,
+    "pdf_page": 452,
+    "chars": 3291,
+    "kind": "reussite"
+  }
+]

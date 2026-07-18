@@ -1,0 +1,2297 @@
+[
+  {
+    "title": "Achille",
+    "slug": "achille",
+    "book_page": 20,
+    "pdf_page": 24,
+    "chars": 5667,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Adrenaline",
+    "slug": "adrenaline",
+    "book_page": 21,
+    "pdf_page": 25,
+    "chars": 5367,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "All Fours",
+    "slug": "all-fours",
+    "book_page": 29,
+    "pdf_page": 33,
+    "chars": 5699,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "All Fours a Quatre Joueurs",
+    "slug": "all-fours-a-quatre-joueurs",
+    "book_page": 29,
+    "pdf_page": 33,
+    "chars": 1481,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Seven Up",
+    "slug": "seven-up",
+    "book_page": 29,
+    "pdf_page": 33,
+    "chars": 1388,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "All Five",
+    "slug": "all-five",
+    "book_page": 29,
+    "pdf_page": 33,
+    "chars": 1138,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Aluette",
+    "slug": "aluette",
+    "book_page": 31,
+    "pdf_page": 35,
+    "chars": 8032,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Mordienne",
+    "slug": "mordienne",
+    "book_page": 33,
+    "pdf_page": 37,
+    "chars": 6936,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Animaux",
+    "slug": "animaux",
+    "book_page": 35,
+    "pdf_page": 39,
+    "chars": 4950,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’As Qui Brille",
+    "slug": "as-qui-brille",
+    "book_page": 41,
+    "pdf_page": 45,
+    "chars": 4954,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Auction Pitch",
+    "slug": "auction-pitch",
+    "book_page": 43,
+    "pdf_page": 47,
+    "chars": 6012,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Auteurs",
+    "slug": "auteurs",
+    "book_page": 45,
+    "pdf_page": 49,
+    "chars": 4155,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Baccara",
+    "slug": "baccara",
+    "book_page": 49,
+    "pdf_page": 53,
+    "chars": 6397,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Chemin de Fer Anglais",
+    "slug": "chemin-de-fer-anglais",
+    "book_page": 49,
+    "pdf_page": 53,
+    "chars": 2098,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Baccara a Deux Tableaux (la Banque)",
+    "slug": "baccara-a-deux-tableaux-la-banque",
+    "book_page": 49,
+    "pdf_page": 53,
+    "chars": 1169,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Barbu",
+    "slug": "barbu",
+    "book_page": 50,
+    "pdf_page": 54,
+    "chars": 7266,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Barbu a Sept Coups",
+    "slug": "barbu-a-sept-coups",
+    "book_page": 51,
+    "pdf_page": 55,
+    "chars": 1494,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Barbu a Six Coups",
+    "slug": "barbu-a-six-coups",
+    "book_page": 51,
+    "pdf_page": 55,
+    "chars": 2187,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bambu",
+    "slug": "bambu",
+    "book_page": 52,
+    "pdf_page": 56,
+    "chars": 1706,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bassette",
+    "slug": "bassette",
+    "book_page": 52,
+    "pdf_page": 56,
+    "chars": 5722,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bataille",
+    "slug": "bataille",
+    "book_page": 53,
+    "pdf_page": 57,
+    "chars": 4221,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bataille Decouverte",
+    "slug": "bataille-decouverte",
+    "book_page": 53,
+    "pdf_page": 57,
+    "chars": 2676,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bataille Tennis",
+    "slug": "bataille-tennis",
+    "book_page": 53,
+    "pdf_page": 57,
+    "chars": 6194,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bataille Anglaise",
+    "slug": "bataille-anglaise",
+    "book_page": 54,
+    "pdf_page": 58,
+    "chars": 3730,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Batouille",
+    "slug": "batouille",
+    "book_page": 54,
+    "pdf_page": 58,
+    "chars": 2625,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Belote",
+    "slug": "belote",
+    "book_page": 56,
+    "pdf_page": 60,
+    "chars": 15696,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Belote a 2 ou 3",
+    "slug": "belote-a-2-ou-3",
+    "book_page": 59,
+    "pdf_page": 63,
+    "chars": 3138,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Rubicon",
+    "slug": "rubicon",
+    "book_page": 59,
+    "pdf_page": 63,
+    "chars": 1609,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Belote Bridgee",
+    "slug": "belote-bridgee",
+    "book_page": 60,
+    "pdf_page": 64,
+    "chars": 5554,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Belote Armenienne",
+    "slug": "belote-armenienne",
+    "book_page": 60,
+    "pdf_page": 64,
+    "chars": 3151,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Belote de Comptoir",
+    "slug": "belote-de-comptoir",
+    "book_page": 63,
+    "pdf_page": 67,
+    "chars": 4137,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Belote avec Enjeux ou Poule a la Belote",
+    "slug": "belote-avec-enjeux-ou-poule-a-la-belote",
+    "book_page": 63,
+    "pdf_page": 67,
+    "chars": 2915,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Besigue",
+    "slug": "besigue",
+    "book_page": 64,
+    "pdf_page": 68,
+    "chars": 8427,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Besigue a Trois",
+    "slug": "besigue-a-trois",
+    "book_page": 65,
+    "pdf_page": 69,
+    "chars": 1365,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Besigue a Quatre",
+    "slug": "besigue-a-quatre",
+    "book_page": 65,
+    "pdf_page": 69,
+    "chars": 1494,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Besigue Rubicon",
+    "slug": "besigue-rubicon",
+    "book_page": 65,
+    "pdf_page": 69,
+    "chars": 5221,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Besigue a Six Paquets",
+    "slug": "besigue-a-six-paquets",
+    "book_page": 65,
+    "pdf_page": 69,
+    "chars": 3802,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Binocle",
+    "slug": "binocle",
+    "book_page": 66,
+    "pdf_page": 70,
+    "chars": 7047,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Black Out",
+    "slug": "black-out",
+    "book_page": 68,
+    "pdf_page": 72,
+    "chars": 4391,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Blind Hookey",
+    "slug": "blind-hookey",
+    "book_page": 69,
+    "pdf_page": 73,
+    "chars": 3309,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Boston",
+    "slug": "boston",
+    "book_page": 76,
+    "pdf_page": 80,
+    "chars": 2384,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Boston de Nantes ou de Quimper",
+    "slug": "boston-de-nantes-ou-de-quimper",
+    "book_page": 76,
+    "pdf_page": 80,
+    "chars": 9675,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Bouchons",
+    "slug": "bouchons",
+    "book_page": 77,
+    "pdf_page": 81,
+    "chars": 2462,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Bouillotte",
+    "slug": "bouillotte",
+    "book_page": 78,
+    "pdf_page": 82,
+    "chars": 9884,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Brag",
+    "slug": "brag",
+    "book_page": 80,
+    "pdf_page": 84,
+    "chars": 5413,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Brelan",
+    "slug": "brelan",
+    "book_page": 81,
+    "pdf_page": 85,
+    "chars": 3520,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge",
+    "slug": "bridge",
+    "book_page": 82,
+    "pdf_page": 86,
+    "chars": 7430,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Bridge Lune de Miel",
+    "slug": "bridge-lune-de-miel",
+    "book_page": 98,
+    "pdf_page": 102,
+    "chars": 3668,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Bridge-plafond",
+    "slug": "bridge-plafond",
+    "book_page": 99,
+    "pdf_page": 103,
+    "chars": 3640,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge aux Encheres",
+    "slug": "bridge-aux-encheres",
+    "book_page": 99,
+    "pdf_page": 103,
+    "chars": 2290,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge Whist",
+    "slug": "bridge-whist",
+    "book_page": 99,
+    "pdf_page": 103,
+    "chars": 5622,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Bridge Lune de Miel avec Veuve",
+    "slug": "bridge-lune-de-miel-avec-veuve",
+    "book_page": 100,
+    "pdf_page": 104,
+    "chars": 2925,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Bridge Lune de Miel Semi-decouvert",
+    "slug": "bridge-lune-de-miel-semi-decouvert",
+    "book_page": 100,
+    "pdf_page": 104,
+    "chars": 2013,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge Simple",
+    "slug": "bridge-simple",
+    "book_page": 100,
+    "pdf_page": 104,
+    "chars": 1200,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge a Trois",
+    "slug": "bridge-a-trois",
+    "book_page": 100,
+    "pdf_page": 104,
+    "chars": 2417,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Bridge Mini",
+    "slug": "bridge-mini",
+    "book_page": 101,
+    "pdf_page": 105,
+    "chars": 5920,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Brusquembille",
+    "slug": "brusquembille",
+    "book_page": 104,
+    "pdf_page": 108,
+    "chars": 3135,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Canasta",
+    "slug": "canasta",
+    "book_page": 111,
+    "pdf_page": 115,
+    "chars": 16649,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Canasta a 2 Joueurs",
+    "slug": "canasta-a-2-joueurs",
+    "book_page": 115,
+    "pdf_page": 119,
+    "chars": 1167,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Canasta a 6 Joueurs",
+    "slug": "canasta-a-6-joueurs",
+    "book_page": 115,
+    "pdf_page": 119,
+    "chars": 3646,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Carabin",
+    "slug": "carabin",
+    "book_page": 117,
+    "pdf_page": 121,
+    "chars": 5713,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cartawel",
+    "slug": "cartawel",
+    "book_page": 120,
+    "pdf_page": 124,
+    "chars": 5065,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Casino",
+    "slug": "casino",
+    "book_page": 125,
+    "pdf_page": 129,
+    "chars": 6818,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Casino Royal",
+    "slug": "casino-royal",
+    "book_page": 126,
+    "pdf_page": 130,
+    "chars": 1149,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Casino a la Tire",
+    "slug": "casino-a-la-tire",
+    "book_page": 126,
+    "pdf_page": 130,
+    "chars": 1222,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Chasse a L’As",
+    "slug": "chasse-a-las",
+    "book_page": 136,
+    "pdf_page": 140,
+    "chars": 8721,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Chasse Coeur",
+    "slug": "chasse-coeur",
+    "book_page": 140,
+    "pdf_page": 144,
+    "chars": 4438,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Chien Rouge",
+    "slug": "chien-rouge",
+    "book_page": 141,
+    "pdf_page": 145,
+    "chars": 6494,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cinch",
+    "slug": "cinch",
+    "book_page": 142,
+    "pdf_page": 146,
+    "chars": 11382,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cinq Cents",
+    "slug": "cinq-cents",
+    "book_page": 145,
+    "pdf_page": 149,
+    "chars": 6219,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cinq Cents Bordelais",
+    "slug": "cinq-cents-bordelais",
+    "book_page": 145,
+    "pdf_page": 149,
+    "chars": 2186,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cinq Cents Lyonnais ou Jeu des Mille",
+    "slug": "cinq-cents-lyonnais-ou-jeu-des-mille",
+    "book_page": 145,
+    "pdf_page": 149,
+    "chars": 1575,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cinq Cents Americain Mi",
+    "slug": "cinq-cents-americain-mi",
+    "book_page": 146,
+    "pdf_page": 150,
+    "chars": 6668,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Coeurs",
+    "slug": "coeurs",
+    "book_page": 148,
+    "pdf_page": 152,
+    "chars": 5206,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Coeurs Dominos",
+    "slug": "coeurs-dominos",
+    "book_page": 149,
+    "pdf_page": 153,
+    "chars": 1882,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Coeurs a la Grecque",
+    "slug": "coeurs-a-la-grecque",
+    "book_page": 149,
+    "pdf_page": 153,
+    "chars": 1769,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Coeurs Omnibus ou Frappe-la-lune",
+    "slug": "coeurs-omnibus-ou-frappe-la-lune",
+    "book_page": 149,
+    "pdf_page": 153,
+    "chars": 2571,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Coeurs Numeriques",
+    "slug": "coeurs-numeriques",
+    "book_page": 149,
+    "pdf_page": 153,
+    "chars": 1268,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Coeur (le Petit)",
+    "slug": "coeur-le-petit",
+    "book_page": 149,
+    "pdf_page": 153,
+    "chars": 1325,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "| le Colonel",
+    "slug": "le-colonel",
+    "book_page": 150,
+    "pdf_page": 154,
+    "chars": 2133,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Comete",
+    "slug": "comete",
+    "book_page": 152,
+    "pdf_page": 156,
+    "chars": 6512,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Commerce",
+    "slug": "commerce",
+    "book_page": 154,
+    "pdf_page": 158,
+    "chars": 6000,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Commere, Accomodez-moi",
+    "slug": "commere-accomodez-moi",
+    "book_page": 154,
+    "pdf_page": 158,
+    "chars": 1423,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Concentration",
+    "slug": "concentration",
+    "book_page": 155,
+    "pdf_page": 159,
+    "chars": 2854,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": ": la Conference",
+    "slug": "la-conference",
+    "book_page": 156,
+    "pdf_page": 160,
+    "chars": 2576,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Coucou Ah + Ssi",
+    "slug": "coucou-ah-ssi",
+    "book_page": 165,
+    "pdf_page": 169,
+    "chars": 7003,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Couillon Force",
+    "slug": "couillon-force",
+    "book_page": 166,
+    "pdf_page": 170,
+    "chars": 1868,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Couillon Japonais Mb",
+    "slug": "couillon-japonais-mb",
+    "book_page": 167,
+    "pdf_page": 171,
+    "chars": 5252,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Courses",
+    "slug": "courses",
+    "book_page": 172,
+    "pdf_page": 176,
+    "chars": 3134,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cribbage",
+    "slug": "cribbage",
+    "book_page": 175,
+    "pdf_page": 179,
+    "chars": 7277,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Cribbage a 3 Joueurs",
+    "slug": "cribbage-a-3-joueurs",
+    "book_page": 176,
+    "pdf_page": 180,
+    "chars": 1317,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Cribbage a 4 Joueurs",
+    "slug": "cribbage-a-4-joueurs",
+    "book_page": 176,
+    "pdf_page": 180,
+    "chars": 4374,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "| la Dame de Pique + 2",
+    "slug": "la-dame-de-pique-2",
+    "book_page": 181,
+    "pdf_page": 185,
+    "chars": 4658,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Dame de Pique a 5",
+    "slug": "dame-de-pique-a-5",
+    "book_page": 181,
+    "pdf_page": 185,
+    "chars": 1972,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Distrait",
+    "slug": "distrait",
+    "book_page": 189,
+    "pdf_page": 193,
+    "chars": 1443,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les Dominos Wl",
+    "slug": "dominos-wl",
+    "book_page": 192,
+    "pdf_page": 196,
+    "chars": 5252,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Easy Go",
+    "slug": "easy-go",
+    "book_page": 201,
+    "pdf_page": 205,
+    "chars": 4238,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Ecarte",
+    "slug": "ecarte",
+    "book_page": 203,
+    "pdf_page": 207,
+    "chars": 9294,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Ecarte a 3 Joueurs",
+    "slug": "ecarte-a-3-joueurs",
+    "book_page": 204,
+    "pdf_page": 208,
+    "chars": 1425,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Ecarte a 4 Joueurs",
+    "slug": "ecarte-a-4-joueurs",
+    "book_page": 204,
+    "pdf_page": 208,
+    "chars": 1223,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Ecarte avec Chouette",
+    "slug": "ecarte-avec-chouette",
+    "book_page": 204,
+    "pdf_page": 208,
+    "chars": 1388,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Eleusis",
+    "slug": "eleusis",
+    "book_page": 205,
+    "pdf_page": 209,
+    "chars": 5611,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Delphi",
+    "slug": "delphi",
+    "book_page": 206,
+    "pdf_page": 210,
+    "chars": 5263,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Escalier",
+    "slug": "escalier",
+    "book_page": 208,
+    "pdf_page": 212,
+    "chars": 4113,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L7euchre",
+    "slug": "l7euchre",
+    "book_page": 213,
+    "pdf_page": 217,
+    "chars": 8656,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Variante 1",
+    "slug": "variante-1",
+    "book_page": 215,
+    "pdf_page": 219,
+    "chars": 2722,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Variante 2",
+    "slug": "variante-2",
+    "book_page": 215,
+    "pdf_page": 219,
+    "chars": 1347,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Fan Tan",
+    "slug": "fan-tan",
+    "book_page": 220,
+    "pdf_page": 224,
+    "chars": 3482,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Faro",
+    "slug": "faro",
+    "book_page": 221,
+    "pdf_page": 225,
+    "chars": 4180,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Ferme",
+    "slug": "ferme",
+    "book_page": 223,
+    "pdf_page": 227,
+    "chars": 4126,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Florentin 52",
+    "slug": "florentin-52",
+    "book_page": 229,
+    "pdf_page": 233,
+    "chars": 7148,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Gin Rummy",
+    "slug": "gin-rummy",
+    "book_page": 238,
+    "pdf_page": 242,
+    "chars": 9881,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Gobefiche",
+    "slug": "gobefiche",
+    "book_page": 241,
+    "pdf_page": 245,
+    "chars": 9339,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Variante 2",
+    "slug": "variante-2-2",
+    "book_page": 249,
+    "pdf_page": 253,
+    "chars": 1173,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Variante 3",
+    "slug": "variante-3",
+    "book_page": 249,
+    "pdf_page": 253,
+    "chars": 1238,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Guimbarde",
+    "slug": "guimbarde",
+    "book_page": 249,
+    "pdf_page": 253,
+    "chars": 10664,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Hoc l",
+    "slug": "hoc-l",
+    "book_page": 252,
+    "pdf_page": 256,
+    "chars": 9334,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Hoggenheimer",
+    "slug": "hoggenheimer",
+    "book_page": 253,
+    "pdf_page": 257,
+    "chars": 10341,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Hoodlum",
+    "slug": "hoodlum",
+    "book_page": 256,
+    "pdf_page": 260,
+    "chars": 3850,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Imperiale",
+    "slug": "imperiale",
+    "book_page": 264,
+    "pdf_page": 268,
+    "chars": 6651,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Ixi",
+    "slug": "ixi",
+    "book_page": 267,
+    "pdf_page": 271,
+    "chars": 2137,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Jass",
+    "slug": "jass",
+    "book_page": 269,
+    "pdf_page": 273,
+    "chars": 7497,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Jeu de la Bete",
+    "slug": "jeu-de-la-bete",
+    "book_page": 270,
+    "pdf_page": 274,
+    "chars": 3965,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Jeu des Familles",
+    "slug": "jeu-des-familles",
+    "book_page": 271,
+    "pdf_page": 275,
+    "chars": 2749,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Jeu des Sept Familles",
+    "slug": "jeu-des-sept-familles",
+    "book_page": 271,
+    "pdf_page": 275,
+    "chars": 3935,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Jeu du Roi",
+    "slug": "jeu-du-roi",
+    "book_page": 272,
+    "pdf_page": 276,
+    "chars": 4632,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Jeu du Treize",
+    "slug": "jeu-du-treize",
+    "book_page": 272,
+    "pdf_page": 276,
+    "chars": 4471,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Jo-jotte -",
+    "slug": "jo-jotte",
+    "book_page": 274,
+    "pdf_page": 278,
+    "chars": 9526,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Julepe",
+    "slug": "julepe",
+    "book_page": 279,
+    "pdf_page": 283,
+    "chars": 2949,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Klaberjass Ny +",
+    "slug": "klaberjass-ny",
+    "book_page": 279,
+    "pdf_page": 283,
+    "chars": 6309,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Knock Rummy Mo +",
+    "slug": "knock-rummy-mo",
+    "book_page": 280,
+    "pdf_page": 284,
+    "chars": 6545,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Lansquenet",
+    "slug": "ansquenet",
+    "book_page": 281,
+    "pdf_page": 285,
+    "chars": 8388,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Loterie +",
+    "slug": "oterie",
+    "book_page": 284,
+    "pdf_page": 288,
+    "chars": 2993,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Magistrale",
+    "slug": "magistrale",
+    "book_page": 287,
+    "pdf_page": 291,
+    "chars": 1437,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Macao +",
+    "slug": "macao",
+    "book_page": 287,
+    "pdf_page": 291,
+    "chars": 4203,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Malicieuse Mi (2)",
+    "slug": "malicieuse-mi-2",
+    "book_page": 289,
+    "pdf_page": 293,
+    "chars": 5318,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille",
+    "slug": "manille",
+    "book_page": 290,
+    "pdf_page": 294,
+    "chars": 4430,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille Parlee",
+    "slug": "manille-parlee",
+    "book_page": 290,
+    "pdf_page": 294,
+    "chars": 2436,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille Coinchee",
+    "slug": "manille-coinchee",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 1786,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille a Trois",
+    "slug": "manille-a-trois",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 1106,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille a L’Envers ou Manille Folle",
+    "slug": "manille-a-lenvers-ou-manille-folle",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 1396,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Dix-sept",
+    "slug": "dix-sept",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 1531,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Manille aux Encheres",
+    "slug": "manille-aux-encheres",
+    "book_page": 291,
+    "pdf_page": 295,
+    "chars": 3329,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Marjolet",
+    "slug": "marjolet",
+    "book_page": 293,
+    "pdf_page": 297,
+    "chars": 4013,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Marmite No +",
+    "slug": "marmite-no",
+    "book_page": 294,
+    "pdf_page": 298,
+    "chars": 3786,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Mat",
+    "slug": "mat",
+    "book_page": 298,
+    "pdf_page": 302,
+    "chars": 3277,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le May I ?",
+    "slug": "may-i",
+    "book_page": 299,
+    "pdf_page": 303,
+    "chars": 7095,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le May I a Six Manches",
+    "slug": "may-i-a-six-manches",
+    "book_page": 300,
+    "pdf_page": 304,
+    "chars": 1113,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Memoire",
+    "slug": "memoire",
+    "book_page": 301,
+    "pdf_page": 305,
+    "chars": 2596,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Michigan",
+    "slug": "michigan",
+    "book_page": 301,
+    "pdf_page": 305,
+    "chars": 5096,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Motz",
+    "slug": "motz",
+    "book_page": 306,
+    "pdf_page": 310,
+    "chars": 5263,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Mouche",
+    "slug": "mouche",
+    "book_page": 307,
+    "pdf_page": 311,
+    "chars": 4733,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "| le Nain Jaune",
+    "slug": "le-nain-jaune",
+    "book_page": 310,
+    "pdf_page": 314,
+    "chars": 6507,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Nap",
+    "slug": "nap",
+    "book_page": 311,
+    "pdf_page": 315,
+    "chars": 5811,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Napoleon a Sept Cartes",
+    "slug": "napoleon-a-sept-cartes",
+    "book_page": 312,
+    "pdf_page": 316,
+    "chars": 1593,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Nigaud",
+    "slug": "nigaud",
+    "book_page": 315,
+    "pdf_page": 319,
+    "chars": 4185,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Nouvi My + I",
+    "slug": "nouvi-my-i",
+    "book_page": 316,
+    "pdf_page": 320,
+    "chars": 3060,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "L’Oke",
+    "slug": "oke",
+    "book_page": 318,
+    "pdf_page": 322,
+    "chars": 1696,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Lyoklahoma",
+    "slug": "yoklahoma",
+    "book_page": 318,
+    "pdf_page": 322,
+    "chars": 6851,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Papesse Jeanne",
+    "slug": "papesse-jeanne",
+    "book_page": 326,
+    "pdf_page": 330,
+    "chars": 5611,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Papillon",
+    "slug": "papillon",
+    "book_page": 328,
+    "pdf_page": 332,
+    "chars": 4993,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Peche",
+    "slug": "peche",
+    "book_page": 330,
+    "pdf_page": 334,
+    "chars": 3488,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pharaon",
+    "slug": "pharaon",
+    "book_page": 335,
+    "pdf_page": 339,
+    "chars": 4024,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pinochle",
+    "slug": "pinochle",
+    "book_page": 336,
+    "pdf_page": 340,
+    "chars": 7590,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pinochle aux Encheres",
+    "slug": "pinochle-aux-encheres",
+    "book_page": 337,
+    "pdf_page": 341,
+    "chars": 6459,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pinochle « Firehouse »",
+    "slug": "pinochle-firehouse",
+    "book_page": 338,
+    "pdf_page": 342,
+    "chars": 1454,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pinochle en Equipe",
+    "slug": "pinochle-en-equipe",
+    "book_page": 338,
+    "pdf_page": 342,
+    "chars": 4599,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pinochle en Equipes a Plus de Quatre Joueurs",
+    "slug": "pinochle-en-equipes-a-plus-de-quatre-joueurs",
+    "book_page": 338,
+    "pdf_page": 342,
+    "chars": 2950,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Pinochle ou Check Pinochle",
+    "slug": "pinochle-ou-check-pinochle",
+    "book_page": 339,
+    "pdf_page": 343,
+    "chars": 7439,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Piquet",
+    "slug": "piquet",
+    "book_page": 340,
+    "pdf_page": 344,
+    "chars": 12126,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Piquet a 3 ou Piquet Normand",
+    "slug": "piquet-a-3-ou-piquet-normand",
+    "book_page": 342,
+    "pdf_page": 346,
+    "chars": 2165,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Piquet a 4 ou Piquet Voleur",
+    "slug": "piquet-a-4-ou-piquet-voleur",
+    "book_page": 342,
+    "pdf_page": 346,
+    "chars": 3726,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pishti",
+    "slug": "pishti",
+    "book_page": 344,
+    "pdf_page": 348,
+    "chars": 4948,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Plus D’Atouts",
+    "slug": "plus-datouts",
+    "book_page": 345,
+    "pdf_page": 349,
+    "chars": 4095,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Straight Draw Poker",
+    "slug": "straight-draw-poker",
+    "book_page": 347,
+    "pdf_page": 351,
+    "chars": 13237,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "La Veuve Sauvage",
+    "slug": "veuve-sauvage",
+    "book_page": 354,
+    "pdf_page": 358,
+    "chars": 1733,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Stud Poker",
+    "slug": "stud-poker",
+    "book_page": 354,
+    "pdf_page": 358,
+    "chars": 5704,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Variante Francaise",
+    "slug": "variante-francaise",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 1217,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Cincinnati",
+    "slug": "cincinnati",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 3796,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Spit In The Ocean",
+    "slug": "spit-in-the-ocean",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 1784,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Pig In The Poke",
+    "slug": "pig-in-the-poke",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 1276,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Down The River",
+    "slug": "down-the-river",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 1708,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Whiskey Poker",
+    "slug": "whiskey-poker",
+    "book_page": 356,
+    "pdf_page": 360,
+    "chars": 3127,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Knock Poker",
+    "slug": "knock-poker",
+    "book_page": 357,
+    "pdf_page": 361,
+    "chars": 3270,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Poker « a Qui Perd Gagne »",
+    "slug": "poker-a-qui-perd-gagne",
+    "book_page": 357,
+    "pdf_page": 361,
+    "chars": 1638,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Poker High-low",
+    "slug": "poker-high-low",
+    "book_page": 357,
+    "pdf_page": 361,
+    "chars": 1672,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Strip Poker",
+    "slug": "strip-poker",
+    "book_page": 357,
+    "pdf_page": 361,
+    "chars": 1299,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Les 2 Sauvages",
+    "slug": "2-sauvages",
+    "book_page": 357,
+    "pdf_page": 361,
+    "chars": 2464,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Fusil a Deux Coups",
+    "slug": "fusil-a-deux-coups",
+    "book_page": 358,
+    "pdf_page": 362,
+    "chars": 1963,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Quintet",
+    "slug": "quintet",
+    "book_page": 358,
+    "pdf_page": 362,
+    "chars": 3049,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Salomon",
+    "slug": "salomon",
+    "book_page": 358,
+    "pdf_page": 362,
+    "chars": 2299,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Poker Menteur",
+    "slug": "poker-menteur",
+    "book_page": 359,
+    "pdf_page": 363,
+    "chars": 3502,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Polignac +",
+    "slug": "polignac",
+    "book_page": 360,
+    "pdf_page": 364,
+    "chars": 5503,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Slobberhannes",
+    "slug": "slobberhannes",
+    "book_page": 363,
+    "pdf_page": 367,
+    "chars": 1088,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Poque",
+    "slug": "poque",
+    "book_page": 363,
+    "pdf_page": 367,
+    "chars": 6686,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Pousse-pousse [e =",
+    "slug": "pousse-pousse-e",
+    "book_page": 364,
+    "pdf_page": 368,
+    "chars": 6335,
+    "kind": "jeu",
+    "skipped": true
+  },
+  {
+    "title": "Le Quadrille",
+    "slug": "quadrille",
+    "book_page": 368,
+    "pdf_page": 372,
+    "chars": 6736,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Quinto",
+    "slug": "quinto",
+    "book_page": 373,
+    "pdf_page": 377,
+    "chars": 5276,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Quinze",
+    "slug": "quinze",
+    "book_page": 375,
+    "pdf_page": 379,
+    "chars": 3482,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Rami",
+    "slug": "rami",
+    "book_page": 377,
+    "pdf_page": 381,
+    "chars": 6941,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Rummy Boathouse",
+    "slug": "rummy-boathouse",
+    "book_page": 378,
+    "pdf_page": 382,
+    "chars": 1396,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Rummy Continental",
+    "slug": "rummy-continental",
+    "book_page": 378,
+    "pdf_page": 382,
+    "chars": 1581,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Knock Rummy ou Poker Run",
+    "slug": "knock-rummy-ou-poker-run",
+    "book_page": 378,
+    "pdf_page": 382,
+    "chars": 2527,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Rami Contrat",
+    "slug": "rami-contrat",
+    "book_page": 378,
+    "pdf_page": 382,
+    "chars": 6216,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Rami Corse",
+    "slug": "rami-corse",
+    "book_page": 380,
+    "pdf_page": 384,
+    "chars": 4404,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Rams",
+    "slug": "rams",
+    "book_page": 380,
+    "pdf_page": 384,
+    "chars": 4911,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Rockaway Nh",
+    "slug": "rockaway-nh",
+    "book_page": 388,
+    "pdf_page": 392,
+    "chars": 3380,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Roi et le Valet",
+    "slug": "roi-et-le-valet",
+    "book_page": 389,
+    "pdf_page": 393,
+    "chars": 2946,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Roi et Son Epee",
+    "slug": "roi-et-son-epee",
+    "book_page": 390,
+    "pdf_page": 394,
+    "chars": 2220,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Romestecq Ni +",
+    "slug": "romestecq-ni",
+    "book_page": 391,
+    "pdf_page": 395,
+    "chars": 5448,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Ronda",
+    "slug": "ronda",
+    "book_page": 391,
+    "pdf_page": 395,
+    "chars": 6180,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "| le Schwartzkopf",
+    "slug": "le-schwartzkopf",
+    "book_page": 398,
+    "pdf_page": 402,
+    "chars": 5048,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Scopa",
+    "slug": "scopa",
+    "book_page": 398,
+    "pdf_page": 402,
+    "chars": 3681,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Sept et Demi",
+    "slug": "sept-et-demi",
+    "book_page": 401,
+    "pdf_page": 405,
+    "chars": 3933,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Siquinette Ni +",
+    "slug": "siquinette-ni",
+    "book_page": 406,
+    "pdf_page": 410,
+    "chars": 3306,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Sixte",
+    "slug": "sixte",
+    "book_page": 407,
+    "pdf_page": 411,
+    "chars": 3737,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Si-yac",
+    "slug": "si-yac",
+    "book_page": 407,
+    "pdf_page": 411,
+    "chars": 2124,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Sizette",
+    "slug": "sizette",
+    "book_page": 407,
+    "pdf_page": 411,
+    "chars": 1711,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Skat",
+    "slug": "skat",
+    "book_page": 408,
+    "pdf_page": 412,
+    "chars": 7294,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Slippery Sam Nh +",
+    "slug": "slippery-sam-nh",
+    "book_page": 409,
+    "pdf_page": 413,
+    "chars": 3565,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Snap",
+    "slug": "snap",
+    "book_page": 410,
+    "pdf_page": 414,
+    "chars": 2450,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Spinado",
+    "slug": "spinado",
+    "book_page": 410,
+    "pdf_page": 414,
+    "chars": 4787,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Spoil Five Ni +",
+    "slug": "spoil-five-ni",
+    "book_page": 411,
+    "pdf_page": 415,
+    "chars": 7255,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Stop",
+    "slug": "stop",
+    "book_page": 412,
+    "pdf_page": 416,
+    "chars": 4470,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Survie Vy +",
+    "slug": "survie-vy",
+    "book_page": 414,
+    "pdf_page": 418,
+    "chars": 3513,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Svoyi Koziri",
+    "slug": "svoyi-koziri",
+    "book_page": 415,
+    "pdf_page": 419,
+    "chars": 4320,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Tablanette Mi",
+    "slug": "tablanette-mi",
+    "book_page": 415,
+    "pdf_page": 419,
+    "chars": 4923,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Tontine",
+    "slug": "tontine",
+    "book_page": 428,
+    "pdf_page": 432,
+    "chars": 5129,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Trente et Quarante. })+ &)|&) (2)",
+    "slug": "trente-et-quarante-2",
+    "book_page": 434,
+    "pdf_page": 438,
+    "chars": 6233,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Trente et Un",
+    "slug": "trente-et-un",
+    "book_page": 435,
+    "pdf_page": 439,
+    "chars": 4898,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Belle",
+    "slug": "belle",
+    "book_page": 435,
+    "pdf_page": 439,
+    "chars": 4105,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Tre-sette",
+    "slug": "tre-sette",
+    "book_page": 436,
+    "pdf_page": 440,
+    "chars": 5404,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Triomphe",
+    "slug": "triomphe",
+    "book_page": 439,
+    "pdf_page": 443,
+    "chars": 4128,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "La Triomphe a L’As Qui Pille",
+    "slug": "triomphe-a-las-qui-pille",
+    "book_page": 440,
+    "pdf_page": 444,
+    "chars": 2675,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Les Trois Dimensions",
+    "slug": "trois-dimensions",
+    "book_page": 440,
+    "pdf_page": 444,
+    "chars": 4517,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Truco 2",
+    "slug": "truco-2",
+    "book_page": 441,
+    "pdf_page": 445,
+    "chars": 4964,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Truc a Quatre",
+    "slug": "truc-a-quatre",
+    "book_page": 441,
+    "pdf_page": 445,
+    "chars": 1408,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "[les Valets Wt",
+    "slug": "les-valets-wt",
+    "book_page": 442,
+    "pdf_page": 446,
+    "chars": 3018,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Valet Californien",
+    "slug": "valet-californien",
+    "book_page": 442,
+    "pdf_page": 446,
+    "chars": 6373,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Vieux Garcon",
+    "slug": "vieux-garcon",
+    "book_page": 444,
+    "pdf_page": 448,
+    "chars": 3347,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Vingt et Un",
+    "slug": "vingt-et-un",
+    "book_page": 445,
+    "pdf_page": 449,
+    "chars": 6841,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Vingt et Un au Point",
+    "slug": "vingt-et-un-au-point",
+    "book_page": 446,
+    "pdf_page": 450,
+    "chars": 1460,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "L’Assurance",
+    "slug": "assurance",
+    "book_page": 446,
+    "pdf_page": 450,
+    "chars": 2130,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Vingt-neuf",
+    "slug": "vingt-neuf",
+    "book_page": 446,
+    "pdf_page": 450,
+    "chars": 3276,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Vingt-neuf de Trois a Huit Joueurs",
+    "slug": "vingt-neuf-de-trois-a-huit-joueurs",
+    "book_page": 447,
+    "pdf_page": 451,
+    "chars": 2082,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Vive la Joie",
+    "slug": "vive-la-joie",
+    "book_page": 449,
+    "pdf_page": 453,
+    "chars": 2426,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whip",
+    "slug": "whip",
+    "book_page": 449,
+    "pdf_page": 453,
+    "chars": 4625,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist",
+    "slug": "whist",
+    "book_page": 450,
+    "pdf_page": 454,
+    "chars": 8156,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Whist a Trois Joueurs ou Whist avec Mort",
+    "slug": "whist-a-trois-joueurs-ou-whist-avec-mort",
+    "book_page": 451,
+    "pdf_page": 455,
+    "chars": 2156,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist avec la Favorite",
+    "slug": "whist-avec-la-favorite",
+    "book_page": 451,
+    "pdf_page": 455,
+    "chars": 1156,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist Prussien",
+    "slug": "whist-prussien",
+    "book_page": 451,
+    "pdf_page": 455,
+    "chars": 2191,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist Chinois",
+    "slug": "whist-chinois",
+    "book_page": 452,
+    "pdf_page": 456,
+    "chars": 2030,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist de Gand",
+    "slug": "whist-de-gand",
+    "book_page": 452,
+    "pdf_page": 456,
+    "chars": 5614,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist aux Encheres",
+    "slug": "whist-aux-encheres",
+    "book_page": 452,
+    "pdf_page": 456,
+    "chars": 8121,
+    "kind": "jeu",
+    "skipped": false
+  },
+  {
+    "title": "Le Whist Ecossais ou la Chasse au Dix",
+    "slug": "whist-ecossais-ou-la-chasse-au-dix",
+    "book_page": 454,
+    "pdf_page": 458,
+    "chars": 6695,
+    "kind": "jeu",
+    "skipped": false
+  }
+]

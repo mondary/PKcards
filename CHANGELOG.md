@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.2` (catalogue enrichi + refonte UI)
+Statut : `1.2026.3` (backend votes & favoris serveur)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -23,9 +23,25 @@ Statut : `1.2026.2` (catalogue enrichi + refonte UI)
 - [x] Moteur de recherche (titre + alias, insensible aux accents)
 - [x] Bouton de partage avec une URL par jeu (routing par hash `#id`)
 
+### Phase 3 — Backend (votes & favoris)
+- [x] API PHP + SQLite (`api.php`, base `data/pk.sqlite`)
+- [x] Votes serveur (multi-vote autorisé) avec throttle léger anti-spam
+- [x] Vue « Meilleurs jeux » (classement par votes)
+- [x] Favoris liés à un email (sans mot de passe), stockés côté serveur
+
 ---
 
 ## Releases
+
+### [1.2026.3] - 2026-07-18
+#### Added
+- Backend PHP + SQLite (`site/api.php`, base `site/data/pk.sqlite` auto-créée) pour la persistance serveur
+- Votes serveur par jeu (multi-vote autorisé) avec throttle léger anti-spam (5 s entre deux votes même IP+jeu, cap 40/min/IP)
+- Vue « Meilleurs jeux » (bouton 🏆 du header) affichant le classement par nombre de votes
+- Bouton « Voter » dans la fiche détail
+- Favoris liés à un email (sans mot de passe), stockés côté serveur et synchronisés entre appareils ; cache local pour rendu instantané et dégradation propre si le backend est absent
+- Panneau de saisie d'email déclenché au premier ajout de favori
+- Protection de la base par `site/data/.htaccess` (Apache) et règle `.gitignore` pour ne pas versionner le `.sqlite`
 
 ### [1.2026.2] - 2026-07-17
 #### Added

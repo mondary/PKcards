@@ -13,7 +13,8 @@ Discover 160+ card games by swiping: browse, learn the rules and save your favor
 - Rich game sheets: difficulty, type, other names, number of players and cards
 - Short rule and long version for each game
 - One-click YouTube search for video rules
-- Favorites saved locally
+- Vote for your favorite games and check the "Best games" ranking
+- Favorites synced across all your devices via a simple email (no password)
 - Filters and color-coded categories
 
 ## 🧠 Usage
@@ -25,7 +26,8 @@ Discover 160+ card games by swiping: browse, learn the rules and save your favor
 ## ⚙️ Settings
 
 - Filter the catalog via the filter button in the header.
-- Favorites are kept in the browser's local storage.
+- Favorites are linked to an email (no password) and stored server-side, so you can find them again on any device.
+- Vote for a game from its sheet; the ranking is available via the 🏆 button in the header.
 
 ## 🧾 Commands
 
@@ -41,15 +43,26 @@ The catalog is generated from the Markdown files in `rules/`. After editing any 
 node site/build.js
 ```
 
+## 🗄️ Backend (votes & favorites)
+
+Votes and favorites are persisted server-side by `site/api.php` in a **SQLite** database (`site/data/pk.sqlite`, created automatically on first call).
+
+- Requires **PHP hosting** (PHP 8+, `pdo_sqlite` extension). The rest of the site (`index.html`, `app.js`, `style.css`, `data.js`) stays 100% static.
+- Without a PHP backend the catalog still works; only voting and favorites sync are unavailable.
+- The database is protected from direct HTTP access by `site/data/.htaccess` (Apache). On **nginx**, block access to `/data/` in the server configuration.
+- Endpoints: `POST vote`, `GET top`, `POST fav_add` / `fav_remove`, `GET favorites`.
+
 ## 🧪 Installation
 
-Static web app, no dependencies to install. Serve the `site/` folder:
+Serve the `site/` folder with a PHP server to enable votes and favorites:
 
 ```bash
 cd site
-python3 -m http.server 8000
+php -S localhost:8000
 # then open http://localhost:8000
 ```
+
+For a catalog-only preview (without votes/favorites), a static server is enough (`python3 -m http.server 8000`).
 
 ## 📋 Changelog
 
