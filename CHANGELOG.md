@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.5` (tracker régicide en ligne + règles clm)
+Statut : `1.2026.6` (refacto site v1→v2 + sections familles régicide)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -32,6 +32,17 @@ Statut : `1.2026.5` (tracker régicide en ligne + règles clm)
 ---
 
 ## Releases
+
+### [1.2026.6] - 2026-07-29
+#### Added
+- `site/v2/` : version mobile-first ultra simple (1 PHP + SQLite + HTMX), lectures des règles depuis `rules_clm/`
+- Tracker Régicide : sections par famille (Valets / Dames / Rois jamais cassées par le responsive)
+- Tracker Régicide : favicon couronne dorée, lien vers règles PDF, mémo mise en place
+
+#### Changed
+- `site/` archivé en `site/v1/`
+- Tracker Régicide déplacé dans `tools/regicide/` avec cartes et règles
+- Grille tracker : 2 colonnes mobile, 4 colonnes desktop par section
 
 ### [1.2026.5] - 2026-07-29
 #### Added

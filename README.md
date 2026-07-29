@@ -77,7 +77,9 @@ Voir le [CHANGELOG](CHANGELOG.md) pour l'historique complet.
 
 ## 🔗 Liens
 
+- **App v2** (mobile, HTMX) : [`site/v2/`](site/v2/) · en ligne : https://mondary.design/pk/site/v2/
+- App v1 (archive) : [`site/v1/`](site/v1/)
 - Règles des jeux : dossier [`rules/`](rules/)
 - Règles CLM (Régicide, Yaniv) : dossier [`rules_clm/`](rules_clm/)
-- Tracker Régicide : [`tools/regicide-hp.html`](tools/regicide-hp.html) (en ligne : https://mondary.design/pk/tools/regicide-hp.html)
+- Tracker Régicide : [`tools/regicide/`](tools/regicide/) · en ligne : https://mondary.design/pk/tools/regicide/
 - Scripts de build : dossier [`scripts/`](scripts/)
