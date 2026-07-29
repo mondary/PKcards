@@ -106,7 +106,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 <div class="header">
   <h1>Régicide</h1>
   <div class="progress">
-    <span id="defeated" style="color:var(--gold);font-weight:600">0</span><span style="color:#555">/18</span>
+    <span id="defeated" style="color:var(--gold);font-weight:600">0</span><span style="color:#555">/12</span>
     <div class="bar"><div class="bar-fill" id="bar-fill" style="width:0%"></div></div>
   </div>
   <button class="reset-btn" id="reset">RESET</button>
@@ -147,7 +147,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 </div>
 
 <script>
-const FILES=['file_00000000004081f487a947298dc06fbf.jpg','file_00000000065481f488fe86b7ba0a9a4c.jpg','file_000000000cf48210b7c9822c111fa8d4.jpg','file_00000000108081f4ab2570a8e94d6c1b.jpg','file_00000000151881f4b90340cca64e6f81.jpg','file_0000000030f081f49ec83a0831339577.jpg','file_0000000036e881f4a9b0a8881c90206d.jpg','file_0000000037a882468b34523578043fdd.jpg','file_000000005a608243b49b12172bed91ea.jpg','file_00000000607882438689a04f0863f47c.jpg','file_000000007a348246938de5d2557966ff.jpg','file_00000000a5988243a99239d6f0568c62.jpg','file_00000000aeac8246a959c30d91cbb89f.jpg','file_00000000d2a8824381321d4fae1c1eeb.jpg','file_00000000d5cc81f4b45fb76b1a1365ed.jpg','file_00000000da0081f48f347caddfd8239f.jpg','file_00000000eb0c81f497d59fe19ead6a9e.jpg','file_00000000f9f081f4b0c190fae02d5a58.jpg']
+const FILES=['J_pic.jpg','J_coeur.jpg','J_carreau.jpg','J_trefle.jpg','Q_pic.jpg','Q_coeur.jpg','Q_carreau.jpg','Q_trefle.jpg','K_pic.jpg','K_coeur.jpg','K_carreau.jpg','K_trefle.jpg']
+const RANKS={'J':{name:'Valet',atk:10,hp:20},'Q':{name:'Dame',atk:15,hp:30},'K':{name:'Roi',atk:20,hp:40}}
 const TYPES={'10':{name:'Valet',hp:20},'15':{name:'Dame',hp:30},'20':{name:'Roi',hp:40}}
 const ATKS=[10,15,20]
 const N=FILES.length
@@ -157,11 +158,14 @@ let zoomId=null
 function tierColor(atk){return atk===10?'#27ae60':atk===15?'#e8c46a':'#e74c3c'}
 
 function init(){
-  FILES.forEach((f,i)=>{state[i]={id:i,file:f,atk:10,hp:20,max:20}})
-  const saved=localStorage.getItem('regicide-v2')
+  FILES.forEach((f,i)=>{
+    const r=RANKS[f[0]]
+    state[i]={id:i,file:f,atk:r.atk,hp:r.hp,max:r.hp}
+  })
+  const saved=localStorage.getItem('regicide-v3')
   if(saved){try{const d=JSON.parse(saved);for(const k in d){if(state[k]){state[k].atk=d[k].atk;state[k].hp=d[k].hp;state[k].max=TYPES[d[k].atk].hp}}}catch(e){}}
 }
-function save(){const d={};for(const k in state)d[k]={atk:state[k].atk,hp:state[k].hp};localStorage.setItem('regicide-v2',JSON.stringify(d))}
+function save(){const d={};for(const k in state)d[k]={atk:state[k].atk,hp:state[k].hp};localStorage.setItem('regicide-v3',JSON.stringify(d))}
 
 // ===== GRID =====
 function renderGrid(){
