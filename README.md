@@ -78,5 +78,6 @@ Voir le [CHANGELOG](CHANGELOG.md) pour l'historique complet.
 ## 🔗 Liens
 
 - Règles des jeux : dossier [`rules/`](rules/)
-- Tracker Régicide : [`tools/regicide-hp.html`](tools/regicide-hp.html)
+- Règles CLM (Régicide, Yaniv) : dossier [`rules_clm/`](rules_clm/)
+- Tracker Régicide : [`tools/regicide-hp.html`](tools/regicide-hp.html) (en ligne : https://mondary.design/pk/tools/regicide-hp.html)
 - Scripts de build : dossier [`scripts/`](scripts/)

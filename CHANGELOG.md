@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.4` (tracker pv régicide + réorg règles)
+Statut : `1.2026.5` (tracker régicide en ligne + règles clm)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -32,6 +32,15 @@ Statut : `1.2026.4` (tracker pv régicide + réorg règles)
 ---
 
 ## Releases
+
+### [1.2026.5] - 2026-07-29
+#### Added
+- Règles Régicide et Yaniv dans `rules_clm/`
+- Tracker Régicide déployé en ligne sur https://mondary.design/pk/tools/regicide-hp.html
+
+#### Changed
+- Grille du tracker : cartes plus grandes (padding réduit, 2 colonnes mobile)
+- Liseré coloré discret pour les tiers d'attaque au lieu du badge ⚔
 
 ### [1.2026.4] - 2026-07-29
 #### Added
