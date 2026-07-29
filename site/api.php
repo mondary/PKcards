@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-$DB_PATH = __DIR__ . '/data/pk.sqlite';
+$DB_PATH = __DIR__ . '/data/rules.sqlite';
 
 // Throttle votes
 const VOTE_MIN_INTERVAL = 5;   // secondes entre 2 votes même IP+jeu

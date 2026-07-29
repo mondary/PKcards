@@ -279,6 +279,19 @@ body::after {
   border-radius: 50%;
   background: var(--card-color, var(--accent));
 }
+.badge__ico {
+  font-size: 1.05em;
+  line-height: 1;
+  margin-right: 1px;
+}
+
+/* Card suit symbols in rules text */
+.suit {
+  font-style: normal;
+  font-weight: 700;
+}
+.suit--red { color: #d81e3f; }
+.suit--black { color: var(--text, #1a1a1a); }
 
 /* Goal box */
 .card__goal {
@@ -742,6 +755,84 @@ body::after {
   color: var(--muted);
 }
 
+/* Multi-facet filter */
+.facet-group { margin-bottom: 18px; }
+.facet-group__label {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.facet-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.facet-chip {
+  padding: 8px 14px;
+  background: var(--surface-2);
+  border: 2px solid transparent;
+  border-radius: 999px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-2);
+  cursor: pointer;
+  transition: border-color .15s, background .15s, color .15s, transform .1s;
+}
+.facet-chip:active { transform: scale(.96); }
+.facet-chip--on {
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+  border-color: var(--accent);
+  color: var(--text);
+}
+.facet-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+  position: sticky;
+  bottom: 0;
+}
+.facet-actions .btn { flex: 1; }
+
+/* Favorites sync bar */
+.fav-sync {
+  font-size: 13px;
+  color: var(--muted);
+  padding: 4px 2px 10px;
+  text-align: center;
+}
+.fav-sync b { color: var(--text-2); font-weight: 700; }
+.fav-sync__link {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+}
+
+/* Favorites filter bar */
+.fav-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 4px 2px 12px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--surface-2);
+}
+.facet-chips--fav { gap: 6px; }
+.facet-chips--fav .facet-chip {
+  padding: 6px 12px;
+  font-size: 13px;
+}
+.fav-filter__reset { text-align: right; }
+
 /* ================================================================
    ANIMATIONS
    ================================================================ */
@@ -903,6 +994,14 @@ body::after {
 .search-item:hover { background: #ececf0; }
 .search-item__name { font-size: 16px; font-weight: 700; color: var(--text); }
 .search-item__meta { font-size: 12px; color: var(--muted); }
+.search-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  padding: 2px 2px 4px;
+}
 
 /* Vote badge (detail sheet) */
 .badge--vote {

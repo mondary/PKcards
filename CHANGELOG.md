@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.3` (backend votes & favoris serveur)
+Statut : `1.2026.4` (tracker pv régicide + réorg règles)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -24,7 +24,7 @@ Statut : `1.2026.3` (backend votes & favoris serveur)
 - [x] Bouton de partage avec une URL par jeu (routing par hash `#id`)
 
 ### Phase 3 — Backend (votes & favoris)
-- [x] API PHP + SQLite (`api.php`, base `data/pk.sqlite`)
+- [x] API PHP + SQLite (`api.php`, base `data/rules.sqlite`)
 - [x] Votes serveur (multi-vote autorisé) avec throttle léger anti-spam
 - [x] Vue « Meilleurs jeux » (classement par votes)
 - [x] Favoris liés à un email (sans mot de passe), stockés côté serveur
@@ -33,15 +33,29 @@ Statut : `1.2026.3` (backend votes & favoris serveur)
 
 ## Releases
 
+### [1.2026.4] - 2026-07-29
+#### Added
+- Tracker de points de vie pour le jeu Régicide (`tools/regicide-hp.html`) : grille de cartes responsive, mode zoom plein écran (hero header avec fade vers le noir), anneaux/barres de PV colorés, persistance localStorage, vibrations haptiques
+- Images des cartes du Régicide dans `tools/cards/`
+- Nouveaux dossiers de règles sources : `rules_bycicle/`, `rules_edimag100/`, `rules_fetjain32/`, `rules3/`
+
+#### Changed
+- Réorganisation des `rules2/` en sous-dossiers `jeux/` et `reussite/`
+- Déplacement définitif des scripts offline vers `scripts/` (`build.js`, `add-aliases.js`, `classify-rules.js`)
+
 ### [1.2026.3] - 2026-07-18
 #### Added
-- Backend PHP + SQLite (`site/api.php`, base `site/data/pk.sqlite` auto-créée) pour la persistance serveur
+- Backend PHP + SQLite (`site/api.php`, base `site/data/rules.sqlite` auto-créée) pour la persistance serveur
 - Votes serveur par jeu (multi-vote autorisé) avec throttle léger anti-spam (5 s entre deux votes même IP+jeu, cap 40/min/IP)
 - Vue « Meilleurs jeux » (bouton 🏆 du header) affichant le classement par nombre de votes
 - Bouton « Voter » dans la fiche détail
 - Favoris liés à un email (sans mot de passe), stockés côté serveur et synchronisés entre appareils ; cache local pour rendu instantané et dégradation propre si le backend est absent
 - Panneau de saisie d'email déclenché au premier ajout de favori
 - Protection de la base par `site/data/.htaccess` (Apache) et règle `.gitignore` pour ne pas versionner le `.sqlite`
+
+#### Changed
+- Déplacement des scripts offline (`build.js`, `add-aliases.js`, `classify-rules.js`) de `site/` vers `scripts/`, pour que `site/` ne contienne que les fichiers à déployer
+- `build.js` s'exécute désormais depuis la racine (`node scripts/build.js`) et écrit dans `site/data.js`
 
 ### [1.2026.2] - 2026-07-17
 #### Added

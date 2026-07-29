@@ -6,7 +6,8 @@
 // --- State ---
 const S = {
   games: [],
-  filter: 'all',
+  filters: { players: new Set(), cards: new Set(), types: new Set() },
+  favFilters: { players: new Set(), cards: new Set(), types: new Set() },
   currentIndex: 0,
   history: [],
   email: localStorage.getItem('pk-email') || null,
@@ -15,6 +16,86 @@ const S = {
   animating: false,
   currentDetailId: null,
 };
+
+// --- Filter facets ---
+const PLAYER_BUCKETS = [
+  { key: 'solo', label: 'Solo',       min: 1, max: 1 },
+  { key: '2',    label: '2 joueurs',  min: 2, max: 2 },
+  { key: '3-4',  label: '3–4',        min: 3, max: 4 },
+  { key: '5+',   label: '5 et +',     min: 5, max: 99 },
+];
+const CARD_BUCKETS = [
+  { key: '32',     label: '32 cartes' },
+  { key: '52',     label: '52 cartes' },
+  { key: '2decks', label: '2 jeux (104+)' },
+  { key: 'tarot',  label: 'Tarot (78)' },
+  { key: 'autre',  label: 'Autre' },
+];
+
+// Which deck "tokens" a game's card string matches (a game can match several)
+function deckTokens(cards) {
+  const c = cards || '';
+  const t = new Set();
+  if (/104|108|deux jeux|2\s*(?:jeux|×|x)\s*(?:de\s*)?5[24]/i.test(c)) { t.add('2decks'); return t; }
+  if (/78|tarot/i.test(c)) { t.add('tarot'); return t; }
+  if (/\b32\b/.test(c)) t.add('32');
+  if (/\b52\b/.test(c)) t.add('52');
+  if (!t.size) t.add('autre');
+  return t;
+}
+
+// All distinct type tags across the catalogue (types are comma-separated)
+function allTypeTags() {
+  const s = new Set();
+  S.games.forEach(g => {
+    if (g.type && g.type !== 'Non renseigné') {
+      g.type.split(',').forEach(t => { const v = t.trim(); if (v) s.add(v); });
+    }
+  });
+  return [...s].sort((a, b) => a.localeCompare(b, 'fr'));
+}
+
+function activeFilterCount() {
+  const f = S.filters;
+  return f.players.size + f.cards.size + f.types.size;
+}
+
+function filterSig() {
+  const f = S.filters;
+  return [...f.players].sort().join(',') + '|' + [...f.cards].sort().join(',') + '|' + [...f.types].sort().join(',');
+}
+
+function gameMatchesFilters(g, filters = S.filters) {
+  const f = filters;
+  if (f.players.size) {
+    const ok = [...f.players].some(k => {
+      const b = PLAYER_BUCKETS.find(x => x.key === k);
+      return b && g.playerMin <= b.max && g.playerMax >= b.min;
+    });
+    if (!ok) return false;
+  }
+  if (f.cards.size) {
+    const toks = deckTokens(g.cards);
+    if (![...f.cards].some(k => toks.has(k))) return false;
+  }
+  if (f.types.size) {
+    const tags = (g.type || '').split(',').map(s => s.trim());
+    if (![...f.types].some(k => tags.includes(k))) return false;
+  }
+  return true;
+}
+
+// Which facet options actually appear in a given set of games
+function facetOptions(games) {
+  const players = PLAYER_BUCKETS.filter(b => games.some(g => g.playerMin <= b.max && g.playerMax >= b.min));
+  const cards = CARD_BUCKETS.filter(b => games.some(g => deckTokens(g.cards).has(b.key)));
+  const typeSet = new Set();
+  games.forEach(g => {
+    if (g.type && g.type !== 'Non renseigné') g.type.split(',').forEach(t => { const v = t.trim(); if (v) typeSet.add(v); });
+  });
+  const types = [...typeSet].sort((a, b) => a.localeCompare(b, 'fr'));
+  return { players, cards, types };
+}
 
 // --- Pointer tracking ---
 const P = { active: false, card: null, x0: 0, y0: 0, dx: 0, dy: 0 };
@@ -49,7 +130,7 @@ async function apiPost(action, body = {}) {
 function init() {
   S.games = GAMES;
   buildFilterList();
-  applyFilter('all');
+  updateFilterLabel();
   renderStack();
 
   // Controls
@@ -107,38 +188,75 @@ function handleHashRoute() {
 
 // --- Filtering ---
 function getFiltered() {
-  if (S.filter === 'all') return S.games;
-  return S.games.filter(g => g.category === S.filter);
+  if (activeFilterCount() === 0) return S.games;
+  return S.games.filter(gameMatchesFilters);
 }
 
-function applyFilter(cat) {
-  S.filter = cat;
+function updateFilterLabel() {
+  const n = activeFilterCount();
+  $('filterLabel').textContent = n === 0 ? 'Tous' : `Filtres (${n})`;
+}
+
+function toggleFacet(group, key) {
+  const set = S.filters[group];
+  set.has(key) ? set.delete(key) : set.add(key);
   S.currentIndex = 0;
   S.history = [];
-  const label = cat === 'all' ? 'Tous' : CATEGORY_INFO[cat]?.label || cat;
-  $('filterLabel').textContent = label;
+  updateFilterLabel();
+  buildFilterList();
   renderStack();
-  closeAllSheets();
+}
+
+function resetFilters() {
+  S.filters.players.clear();
+  S.filters.cards.clear();
+  S.filters.types.clear();
+  S.currentIndex = 0;
+  S.history = [];
+  updateFilterLabel();
+  buildFilterList();
+  renderStack();
+}
+
+function chipRow(group, buckets) {
+  return buckets.map(b => {
+    const active = S.filters[group].has(b.key);
+    return `<button class="facet-chip ${active ? 'facet-chip--on' : ''}" data-group="${group}" data-key="${b.key}">${escapeHtml(b.label)}</button>`;
+  }).join('');
 }
 
 function buildFilterList() {
   const list = $('filterList');
-  const cats = [
-    { key: 'all', label: 'Tous les jeux', color: 'var(--accent)', count: S.games.length },
-    ...Object.entries(CATEGORY_INFO).map(([key, info]) => ({
-      key, label: info.label, color: info.color, count: info.count
-    }))
-  ];
-  list.innerHTML = cats.map(c => `
-    <button class="filter-item ${c.key === S.filter ? 'filter-item--active' : ''}" data-cat="${c.key}">
-      <span class="filter-item__color" style="background:${c.color}"></span>
-      <span class="filter-item__label">${c.label}</span>
-      <span class="filter-item__count">${c.count}</span>
-    </button>
-  `).join('');
-  list.querySelectorAll('.filter-item').forEach(btn => {
-    btn.onclick = () => applyFilter(btn.dataset.cat);
+  const typeButtons = allTypeTags().map(t =>
+    `<button class="facet-chip ${S.filters.types.has(t) ? 'facet-chip--on' : ''}" data-group="types" data-key="${escapeHtml(t)}">${escapeHtml(t)}</button>`
+  ).join('');
+
+  const count = getFiltered().length;
+
+  list.innerHTML = `
+    <div class="facet-group">
+      <div class="facet-group__label">Nombre de joueurs</div>
+      <div class="facet-chips">${chipRow('players', PLAYER_BUCKETS)}</div>
+    </div>
+    <div class="facet-group">
+      <div class="facet-group__label">Jeu de cartes</div>
+      <div class="facet-chips">${chipRow('cards', CARD_BUCKETS)}</div>
+    </div>
+    <div class="facet-group">
+      <div class="facet-group__label">Type de jeu</div>
+      <div class="facet-chips">${typeButtons}</div>
+    </div>
+    <div class="facet-actions">
+      <button class="btn btn--ghost" id="filterReset">Réinitialiser</button>
+      <button class="btn btn--primary" id="filterApply">Voir ${count} jeu${count > 1 ? 'x' : ''}</button>
+    </div>
+  `;
+
+  list.querySelectorAll('.facet-chip').forEach(btn => {
+    btn.onclick = () => toggleFacet(btn.dataset.group, btn.dataset.key);
   });
+  $('filterReset').onclick = resetFilters;
+  $('filterApply').onclick = () => closeAllSheets();
 }
 
 // --- Current game ---
@@ -182,6 +300,48 @@ function renderStack() {
   setupSwipe(stack.querySelector('.card[data-depth="0"]'));
 }
 
+// --- Formatting utils ---
+function cleanAliases(aliases, title) {
+  if (!aliases) return '';
+  const parts = aliases.split(',').map(s => s.trim()).filter(Boolean);
+  const seen = new Set([normalize(title)]);
+  const kept = [];
+  for (const p of parts) {
+    const n = normalize(p);
+    if (!n || seen.has(n)) continue;
+    seen.add(n);
+    kept.push(p);
+  }
+  return kept.join(', ');
+}
+
+function formatPlayers(p) {
+  if (!p) return '';
+  if (/joueur/i.test(p)) return p;
+  const unit = /^1(\D|$)/.test(p.trim()) ? 'joueur' : 'joueurs';
+  return `${p} ${unit}`;
+}
+
+function formatCards(c) {
+  if (!c) return '';
+  return /carte/i.test(c) ? c : `${c} cartes`;
+}
+
+const SUIT_MAP = [
+  { re: /(c(?:œu|oeu)rs?)/gi,  sym: '♥', cls: 'suit--red' },
+  { re: /(carreaux?)/gi,       sym: '♦', cls: 'suit--red' },
+  { re: /(tr[èe]fles?)/gi,     sym: '♣', cls: 'suit--black' },
+  { re: /(piques?)/gi,         sym: '♠', cls: 'suit--black' },
+];
+
+function colorizeSuits(html) {
+  let out = html;
+  for (const { re, sym, cls } of SUIT_MAP) {
+    out = out.replace(re, `$1\u202F<span class="suit ${cls}">${sym}</span>`);
+  }
+  return out;
+}
+
 // --- Create a card element ---
 function createCard(game, depth) {
   const card = document.createElement('div');
@@ -204,13 +364,12 @@ function createCard(game, depth) {
     <div class="card__stamp card__stamp--pass">Non</div>
     <div class="card__body">
       <h2 class="card__title">${escapeHtml(game.title)}</h2>
-      ${game.aliases && game.aliases !== game.title ? `<div class="card__aliases">${escapeHtml(game.aliases)}</div>` : ''}
+      ${cleanAliases(game.aliases, game.title) ? `<div class="card__aliases">${escapeHtml(cleanAliases(game.aliases, game.title))}</div>` : ''}
       <div class="card__badges">
         <span class="badge badge--players">
-          <span class="badge__dot"></span>
-          ${escapeHtml(game.players)}
+          <span class="badge__ico">👥</span>${escapeHtml(formatPlayers(game.players))}
         </span>
-        <span class="badge badge--cards">${escapeHtml(game.cards)}</span>
+        <span class="badge badge--cards"><span class="badge__ico">🂠</span>${escapeHtml(formatCards(game.cards))}</span>
         ${game.difficulty !== 'Non renseignée' ? `<span class="badge">${escapeHtml(game.difficulty)}</span>` : ''}
         ${game.type !== 'Non renseigné' ? `<span class="badge">${escapeHtml(game.type)}</span>` : ''}
       </div>
@@ -335,7 +494,7 @@ function flyAway(card, dir) {
 
   setTimeout(() => {
     S.animating = false;
-    S.history.push({ id: card.dataset.gameId, dir, filter: S.filter });
+    S.history.push({ id: card.dataset.gameId, dir, sig: filterSig() });
     S.currentIndex++;
     renderStack();
   }, 430);
@@ -356,7 +515,7 @@ function swipeFromButton(dir) {
 function rewind() {
   if (S.history.length === 0 || S.animating) return;
   const last = S.history.pop();
-  if (last.filter !== S.filter) return;
+  if (last.sig !== filterSig()) return;
   S.currentIndex = Math.max(0, S.currentIndex - 1);
   renderStack();
 }
@@ -368,7 +527,7 @@ function restart() {
   renderStack();
 }
 
-// --- Favorites (serveur, liés à un email) ---
+// --- Favorites (local-first, sync serveur optionnelle via email) ---
 function cacheFavorites() {
   localStorage.setItem('pk-fav-cache', JSON.stringify([...S.favorites]));
 }
@@ -376,42 +535,38 @@ function cacheFavorites() {
 async function syncFavorites() {
   if (!S.email) return;
   try {
-    const list = await apiGet('favorites', { email: S.email });
+    // Pousse les favoris locaux non encore connus du serveur, puis récupère la liste fusionnée
+    const local = [...S.favorites];
+    let list = await apiGet('favorites', { email: S.email });
+    const remote = new Set(list);
+    const toPush = local.filter(id => !remote.has(id));
+    for (const id of toPush) {
+      try { list = (await apiPost('fav_add', { email: S.email, game: id })).favorites; } catch { /* ignore */ }
+    }
     S.favorites = new Set(list);
     cacheFavorites();
     updateFavCount();
   } catch { /* garde le cache local en cas d'indisponibilité */ }
 }
 
-async function toggleFavorite(id, add) {
+// Bascule un favori : effet immédiat en local, puis synchro serveur si email connu.
+function toggleFavorite(id, add) {
   const shouldAdd = add !== undefined ? add : !S.favorites.has(id);
-  if (!S.email) {
-    requireEmail(() => applyFavorite(id, shouldAdd));
-    return;
-  }
-  await applyFavorite(id, shouldAdd);
-}
-
-async function applyFavorite(id, shouldAdd) {
-  // MAJ optimiste
   shouldAdd ? S.favorites.add(id) : S.favorites.delete(id);
   cacheFavorites();
   updateFavCount();
   refreshDetailFav(id);
+  if (S.email) pushFavorite(id, shouldAdd);
+}
+
+async function pushFavorite(id, shouldAdd) {
   try {
     const data = await apiPost(shouldAdd ? 'fav_add' : 'fav_remove', { email: S.email, game: id });
     S.favorites = new Set(data.favorites);
     cacheFavorites();
     updateFavCount();
     refreshDetailFav(id);
-  } catch {
-    // rollback
-    shouldAdd ? S.favorites.delete(id) : S.favorites.add(id);
-    cacheFavorites();
-    updateFavCount();
-    refreshDetailFav(id);
-    showToast('Serveur indisponible, réessayez');
-  }
+  } catch { /* on garde l'état local, resynchro au prochain chargement */ }
 }
 
 function refreshDetailFav(id) {
@@ -516,10 +671,11 @@ function openDetail(id, fromHash) {
   const ytQuery = encodeURIComponent(game.title + ' règles jeu de cartes');
   const ytUrl = `https://www.youtube.com/results?search_query=${ytQuery}`;
 
-  const aliasesHTML = game.aliases
+  const aliasList = cleanAliases(game.aliases, game.title);
+  const aliasesHTML = aliasList
     ? `<div class="detail-aliases">
          <span class="detail-aliases__label">Aussi appelé :</span>
-         ${escapeHtml(game.aliases)}
+         ${escapeHtml(aliasList)}
        </div>`
     : '';
 
@@ -529,9 +685,9 @@ function openDetail(id, fromHash) {
       ${aliasesHTML}
       <div class="detail-badges">
         <span class="badge badge--players" style="--card-color:${game.color}">
-          <span class="badge__dot"></span>${escapeHtml(game.players)}
+          <span class="badge__ico">👥</span>${escapeHtml(formatPlayers(game.players))}
         </span>
-        <span class="badge badge--cards">${escapeHtml(game.cards)}</span>
+        <span class="badge badge--cards"><span class="badge__ico">🂠</span>${escapeHtml(formatCards(game.cards))}</span>
         <button class="badge ${isFav ? 'badge--is-fav' : ''}" id="detailFavBtn"
           style="cursor:pointer;background:${isFav ? 'var(--like)' : 'var(--surface-2)'};
                  color:${isFav ? '#fff' : 'var(--text-2)'};border:none;font-family:inherit">
@@ -560,7 +716,7 @@ function openDetail(id, fromHash) {
       </a>
     </div>
     <div class="detail-long-label">Version longue</div>
-    <div class="markdown">${marked.parse(stripMeta(game.markdown))}</div>
+    <div class="markdown">${colorizeSuits(marked.parse(stripMeta(game.markdown)))}</div>
   `;
 
   $('detailFavBtn').onclick = () => { toggleFavorite(id); };
@@ -621,9 +777,10 @@ function openSearch() {
 
 function renderSearchResults(query) {
   const q = normalize(query);
+  const all = [...S.games].sort((a, b) => a.title.localeCompare(b.title, 'fr'));
   const list = q
-    ? S.games.filter(g => normalize(g.title).includes(q) || normalize(g.aliases).includes(q))
-    : S.games;
+    ? all.filter(g => normalize(g.title).includes(q) || normalize(g.aliases).includes(q))
+    : all;
   const box = $('searchResults');
 
   if (list.length === 0) {
@@ -631,12 +788,18 @@ function renderSearchResults(query) {
     return;
   }
 
-  box.innerHTML = list.slice(0, 60).map(g => `
+  const countLabel = q
+    ? `${list.length} résultat${list.length > 1 ? 's' : ''}`
+    : `${list.length} jeux au catalogue`;
+
+  const itemsHTML = list.slice(0, 200).map(g => `
     <button class="search-item" style="--card-color:${g.color || 'var(--accent)'}" data-id="${g.id}">
       <span class="search-item__name">${escapeHtml(g.title)}</span>
-      <span class="search-item__meta">${escapeHtml(g.players)} · ${escapeHtml(g.cards)} · ${escapeHtml(g.type)}</span>
+      <span class="search-item__meta">👥 ${escapeHtml(formatPlayers(g.players))} · 🂠 ${escapeHtml(formatCards(g.cards))}${g.type && g.type !== 'Non renseigné' ? ` · ${escapeHtml(g.type)}` : ''}</span>
     </button>
   `).join('');
+
+  box.innerHTML = `<div class="search-count">${countLabel}</div>${itemsHTML}`;
 
   box.querySelectorAll('.search-item').forEach(btn => {
     btn.onclick = () => { $('searchSheet').hidden = true; openDetail(btn.dataset.id); };
@@ -644,32 +807,83 @@ function renderSearchResults(query) {
 }
 
 // --- Favorites sheet ---
+function favFacetCount() {
+  const f = S.favFilters;
+  return f.players.size + f.cards.size + f.types.size;
+}
+
+function toggleFavFacet(group, key) {
+  const set = S.favFilters[group];
+  set.has(key) ? set.delete(key) : set.add(key);
+  openFavorites();
+}
+
+function resetFavFilters() {
+  S.favFilters.players.clear();
+  S.favFilters.cards.clear();
+  S.favFilters.types.clear();
+  openFavorites();
+}
+
+function favFilterBar(allFavs) {
+  if (allFavs.length < 2) return '';
+  const opts = facetOptions(allFavs);
+  const groups = [];
+  const grp = (label, group, buckets, labelFn) => {
+    if (buckets.length < 2) return;
+    const chips = buckets.map(b => {
+      const key = labelFn ? b : b.key;
+      const text = labelFn ? b : b.label;
+      const on = S.favFilters[group].has(key);
+      return `<button class="facet-chip ${on ? 'facet-chip--on' : ''}" data-favgroup="${group}" data-key="${escapeHtml(key)}">${escapeHtml(text)}</button>`;
+    }).join('');
+    groups.push(`<div class="facet-chips facet-chips--fav">${chips}</div>`);
+  };
+  grp('Joueurs', 'players', opts.players, false);
+  grp('Cartes', 'cards', opts.cards, false);
+  grp('Type', 'types', opts.types, true);
+  if (!groups.length) return '';
+  const resetBtn = favFacetCount() ? `<button class="fav-sync__link" id="favFilterReset">réinitialiser</button>` : '';
+  return `<div class="fav-filter">${groups.join('')}${resetBtn ? `<div class="fav-filter__reset">${resetBtn}</div>` : ''}</div>`;
+}
+
 function openFavorites() {
-  const favs = [...S.favorites]
+  const allFavs = [...S.favorites]
     .map(id => S.games.find(g => g.id === id))
     .filter(Boolean);
 
+  const favs = allFavs.filter(g => gameMatchesFilters(g, S.favFilters));
+
+  const syncHTML = S.email
+    ? `<div class="fav-sync">☁ Synchronisés avec <b>${escapeHtml(S.email)}</b> · <button class="fav-sync__link" id="favSyncChange">changer</button></div>`
+    : `<div class="fav-sync"><button class="fav-sync__link" id="favSyncSet">☁ Synchroniser mes favoris sur tous mes appareils</button></div>`;
+
   const grid = $('favGrid');
-  if (favs.length === 0) {
-    grid.innerHTML = `
+
+  if (allFavs.length === 0) {
+    grid.innerHTML = `${syncHTML}
       <div class="fav-empty">
         <div class="fav-empty__icon">🃏</div>
-        <p>Swipe à droite (♥) pour ajouter des jeux à vos favoris</p>
+        <p>Swipe à droite (♥) ou touche « Ajouter » pour garder un jeu ici</p>
       </div>
     `;
   } else {
-    grid.innerHTML = favs.map(g => `
-      <div class="fav-card" style="--card-color:${g.color || 'var(--accent)'}" data-id="${g.id}">
-        <div class="fav-card__icon">🃏</div>
-        <div class="fav-card__info">
-          <div class="fav-card__name">${escapeHtml(g.title)}</div>
-          <div class="fav-card__meta">${escapeHtml(g.players)} · ${escapeHtml(g.cards)}</div>
+    const filterHTML = favFilterBar(allFavs);
+    const listHTML = favs.length === 0
+      ? `<div class="fav-empty"><div class="fav-empty__icon">🔍</div><p>Aucun favori ne correspond à ce filtre</p></div>`
+      : favs.map(g => `
+        <div class="fav-card" style="--card-color:${g.color || 'var(--accent)'}" data-id="${g.id}">
+          <div class="fav-card__icon">🃏</div>
+          <div class="fav-card__info">
+            <div class="fav-card__name">${escapeHtml(g.title)}</div>
+            <div class="fav-card__meta">${escapeHtml(formatPlayers(g.players))} · ${escapeHtml(formatCards(g.cards))}</div>
+          </div>
+          <button class="fav-card__remove" data-remove="${g.id}" aria-label="Retirer">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M6 6l12 12M18 6L6 18"/></svg>
+          </button>
         </div>
-        <button class="fav-card__remove" data-remove="${g.id}" aria-label="Retirer">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M6 6l12 12M18 6L6 18"/></svg>
-        </button>
-      </div>
-    `).join('');
+      `).join('');
+    grid.innerHTML = syncHTML + filterHTML + listHTML;
 
     grid.querySelectorAll('.fav-card').forEach(el => {
       el.onclick = e => {
@@ -684,7 +898,17 @@ function openFavorites() {
         openFavorites();
       };
     });
+    grid.querySelectorAll('[data-favgroup]').forEach(btn => {
+      btn.onclick = () => toggleFavFacet(btn.dataset.favgroup, btn.dataset.key);
+    });
+    const favResetBtn = $('favFilterReset');
+    if (favResetBtn) favResetBtn.onclick = resetFavFilters;
   }
+
+  const setBtn = $('favSyncSet');
+  if (setBtn) setBtn.onclick = () => requireEmail(() => openFavorites());
+  const changeBtn = $('favSyncChange');
+  if (changeBtn) changeBtn.onclick = () => requireEmail(() => openFavorites());
 
   $('favSheet').hidden = false;
   document.body.style.overflow = 'hidden';

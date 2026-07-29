@@ -32,7 +32,7 @@ Discover 160+ card games by swiping: browse, learn the rules and save your favor
 ## 🧾 Commands
 
 ```bash
-node site/build.js        # generates site/data.js from rules/*.md
+node scripts/build.js       # generates site/data.js from rules/*.md
 ```
 
 ## 📦 Build & Package
@@ -40,14 +40,16 @@ node site/build.js        # generates site/data.js from rules/*.md
 The catalog is generated from the Markdown files in `rules/`. After editing any rule, regenerate the data:
 
 ```bash
-node site/build.js
+node scripts/build.js
 ```
 
 ## 🗄️ Backend (votes & favorites)
 
-Votes and favorites are persisted server-side by `site/api.php` in a **SQLite** database (`site/data/pk.sqlite`, created automatically on first call).
+Votes and favorites are persisted server-side by `site/api.php` in a **SQLite** database (`site/data/rules.sqlite`, created automatically on first call).
 
+- **What to upload**: the entire contents of the `site/` folder (and nothing else) — `index.html`, `style.css`, `app.js`, `data.js`, `api.php`, `data/.htaccess`. The `scripts/` folder is only for generating `data.js` locally and must **not** be uploaded.
 - Requires **PHP hosting** (PHP 8+, `pdo_sqlite` extension). The rest of the site (`index.html`, `app.js`, `style.css`, `data.js`) stays 100% static.
+- The `site/data/` folder must be **writable by PHP** (chmod 755/775) so the database can be created there.
 - Without a PHP backend the catalog still works; only voting and favorites sync are unavailable.
 - The database is protected from direct HTTP access by `site/data/.htaccess` (Apache). On **nginx**, block access to `/data/` in the server configuration.
 - Endpoints: `POST vote`, `GET top`, `POST fav_add` / `fav_remove`, `GET favorites`.
@@ -64,6 +66,11 @@ php -S localhost:8000
 
 For a catalog-only preview (without votes/favorites), a static server is enough (`python3 -m http.server 8000`).
 
+## 🛠️ Tools
+
+- **Régicide HP Tracker** (`tools/regicide-hp.html`) — hit point tracker for the Régicide card game. Open the file in a mobile browser. Card grid with fullscreen zoom mode, attack badges per rank (Jack ⚔10, Queen ⚔15, King ⚔20), automatic HP persistence.
+- **Card images** (`tools/cards/`) — card scans used by the tracker.
+
 ## 📋 Changelog
 
 See [CHANGELOG](CHANGELOG.md) for full history.
@@ -71,3 +78,5 @@ See [CHANGELOG](CHANGELOG.md) for full history.
 ## 🔗 Links
 
 - Game rules: [`rules/`](rules/) folder
+- Régicide tracker: [`tools/regicide-hp.html`](tools/regicide-hp.html)
+- Build scripts: [`scripts/`](scripts/) folder

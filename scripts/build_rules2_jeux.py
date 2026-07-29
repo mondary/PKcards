@@ -20,7 +20,9 @@ SECTIONS = Path("/tmp/garraud_sections")
 JEUX_PATH = Path("/tmp/garraud_jeux.json")
 REUSSITES_PATH = Path("/tmp/garraud_reussites.json")
 PDF_PATH = ROOT / "benchmark" / "isbn_2724225910 (Unknown) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-OUT = ROOT / "rules2"
+# Output: rules2/jeux/ (and rules2/jeux/images/)
+RULES2 = ROOT / "rules2"
+OUT = RULES2 / "jeux"
 IMG = OUT / "images"
 
 OCR = [
@@ -629,7 +631,7 @@ def main(rebuild_all: bool = False):
 
     if REUSSITES_PATH.exists():
         reussites = json.loads(REUSSITES_PATH.read_text(encoding="utf-8"))
-        (OUT / "_QUEUE_REUSSITES.json").write_text(
+        (RULES2 / "reussite" / "_QUEUE_REUSSITES.json").write_text(
             json.dumps(
                 {
                     "note": 'Réussites à traiter plus tard. Type obligatoire: "Réussite"',

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Build rules2/*.md for the 223 pending "réussites" (patiences/solitaires)
-from Garraud 1984. Reads the queue in rules2/_QUEUE_REUSSITES.json and the
+Build rules2/reussite/*.md for the 223 pending "réussites" (patiences/solitaires)
+from Garraud 1984. Reads the queue in rules2/reussite/_QUEUE_REUSSITES.json and the
 raw OCR text in /tmp/garraud_sections/{slug}.txt, applies cleanup, and
 writes one markdown file per réussite following the same template as the
 jeux builder. Images are linked only if a png is already present in
@@ -16,7 +16,7 @@ from collections import OrderedDict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "rules2"
+OUT = ROOT / "rules2" / "reussite"
 IMG = OUT / "images"
 SECTIONS = Path("/tmp/garraud_sections")
 QUEUE_PATH = OUT / "_QUEUE_REUSSITES.json"
@@ -25,12 +25,15 @@ QUEUE_PATH = OUT / "_QUEUE_REUSSITES.json"
 # OCR cleanup shared with the jeux builder
 # ---------------------------------------------------------------------------
 OCR = [
-    (r"céte", "côte"), (r"frangaise", "française"), (r"frangais", "français"),
+    (r"céte", "côte"),     (r"frangaise", "française"), (r"frangais", "français"),
     (r"siécle", "siècle"), (r"\bsiecle\b", "siècle"),
     (r"\bpremiere\b", "première"), (r"\bdeuxieme\b", "deuxième"),
     (r"\btroisieme\b", "troisième"), (r"\bquatrieme\b", "quatrième"),
     (r"\bcinquieme\b", "cinquième"), (r"\bsixieme\b", "sixième"),
     (r"\bderniere\b", "dernière"),
+    (r"\bBati?r\b", "Bâtir"), (r"\bbati?r\b", "bâtir"),
+    (r"\bmani[eé]re\b", "manière"), (r"\bpremi[eé]re\b", "première"),
+    (r"\bderni[eé]re\b", "dernière"),
     (r"premiéres?", "première"), (r"deuxiémes?", "deuxième"),
     (r"troisiémes?", "troisième"), (r"quatriémes?", "quatrième"),
     (r"cinquiémes?", "cinquième"), (r"septiémes?", "septième"),
@@ -174,6 +177,34 @@ def clean(s: str) -> str:
     # Trailing single-letter layout fragments after periods (". V", ". F")
     s = re.sub(r"[\.\,\;]\s+[A-Z]\s+(?=[A-ZÀ-Ÿ][a-zà-ÿ])", ". ", s)
     s = re.sub(r"\.\s+[VEF]\s*\Z", ".", s)
+
+    # ---------- CAPTION LINE FILTER (before line-join) ----------
+    # Process each line individually to drop ascii-art figure captions
+    # mixed into the text (e.g. "Base -¢ + @n~ < < ¢ © > > nes").
+    def _is_caption_line(line: str) -> bool:
+        stripped = line.strip()
+        if not stripped or len(stripped) < 6:
+            return False
+        symbols = sum(1 for c in stripped if c in
+                      "-¢@+*~<>©:;,()[]{}=\\/!?§&_")
+        letters = sum(1 for c in stripped if c.isalpha())
+        digits = sum(1 for c in stripped if c.isdigit())
+        if symbols >= 3 and letters <= 20 and len(stripped) <= 80:
+            return True
+        if symbols >= 5 and letters <= 30:
+            return True
+        if digits >= 2 and letters <= 4 and symbols >= 1:
+            return True
+        if re.search(r"\(\d+\s*cartes?\)", stripped) and symbols >= 1:
+            return True
+        if len(stripped) <= 5 and not re.search(r"[a-zA-ZÀ-ÿ]{3,}", stripped):
+            return True
+        return False
+
+    kept_lines = [ln for ln in s.split("\n") if not _is_caption_line(ln)]
+    s = "\n".join(kept_lines)
+    # -------------------------------------------------------------
+
     # Join soft-wrapped lines
     s = re.sub(r"(?<!\n)\n(?!\n)", " ", s)
     s = re.sub(r"[ \t]+", " ", s)
@@ -216,39 +247,6 @@ def clean(s: str) -> str:
     s = re.sub(r"(?<=[\.\!\?])\s+\+\s+", " ", s)
     s = re.sub(r"(?<=[\.\!\?])\s+[\*\>\<\/]\s+", " ", s)
     s = re.sub(r"^\s*[\+\*\>\<\/]\s+", "", s)
-    # Drop lines that look like a layout-figure caption: a word like
-    # "Base", "Talon", "Rebut", "Séries", followed or preceded by a run of
-    # symbols/short tokens. The trick is to detect a long stretch where
-    # symbols outnumber letters.
-    def _is_caption_line(line: str) -> bool:
-        stripped = line.strip()
-        if not stripped or len(stripped) < 15:
-            return False
-        symbols = sum(1 for c in stripped if c in
-                      "-¢@+*~<>©:;,()[]{}=\\/!?§&_")
-        letters = sum(1 for c in stripped if c.isalpha())
-        digits = sum(1 for c in stripped if c.isdigit())
-        # Captions have lots of symbols or many digits/short fragments
-        if symbols >= 4 and letters <= 40:
-            return True
-        if digits >= 4 and letters <= 25 and symbols >= 1:
-            return True
-        # (N cartes) pattern
-        if re.search(r"\(\d+\s*cartes?\)", stripped) and symbols >= 2:
-            return True
-        return False
-    lines = s.split("\n")
-    kept = [ln for ln in lines if not _is_caption_line(ln)]
-    s = "\n".join(kept)
-    # Inline caption between two sentences: "(?<=. )Base ... Talon(?= Le )"
-    cap_inline = re.compile(
-        r"(?<=[\.\!\?])\s+"
-        r"(?:[A-Za-zÀ-ÿ]{1,15}\s)?"
-        r"(?:[\-\¢\@\+\*\~\<\>\©\:\;\,\(\)\[\]\{\}\d\s\=\/\\\?\!_§&]{8,}"
-        r"[A-Za-zÀ-ÿ]{0,8}){1,4}"
-        r"(?=\s+[A-ZÀ-ÿ])",
-    )
-    s = cap_inline.sub(" ", s)
     # Fix double "à à"
     s = re.sub(r"\bà à\b", "à", s)
     return s.strip()
