@@ -15,7 +15,7 @@ function init_db($db) {
     )");
     if ($db->query("SELECT COUNT(*) FROM games")->fetchColumn() > 0) return;
 
-    $dir = __DIR__ . '/../../rules_clm';
+    $dir = __DIR__ . '/../../rules/rules_clm';
     if (!is_dir($dir)) return;
 
     foreach (glob("$dir/*.md") as $f) {
