@@ -14,6 +14,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 /* ===== HEADER ===== */
 .header{position:sticky;top:0;padding:12px 16px 8px;background:linear-gradient(180deg,rgba(10,10,20,.96),rgba(10,10,20,.6) 90%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);z-index:10;display:flex;align-items:center;justify-content:space-between;gap:10px}
 .header h1{font-family:Georgia,serif;font-size:1.15rem;font-weight:400;letter-spacing:5px;text-transform:uppercase;color:var(--gold);white-space:nowrap}
+@media(min-width:720px){.header h1{font-size:1.5rem;letter-spacing:8px}.header{padding:16px 24px 10px}.memo{font-size:.75rem;gap:8px 20px;padding:8px 16px}}
 .progress{display:flex;align-items:center;gap:8px;font-size:.7rem;color:#777}
 .bar{width:60px;height:3px;background:rgba(255,255,255,.1);border-radius:2px;overflow:hidden}
 .bar-fill{height:100%;background:linear-gradient(90deg,#c0392b,var(--gold),var(--green));transition:width .4s}
@@ -26,9 +27,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .memo-rules:active{opacity:.6}
 
 /* ===== GRID ===== */
-.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:10px 8px 60px;max-width:600px;margin:0 auto}
-@media(min-width:480px){.grid{grid-template-columns:repeat(3,1fr);gap:14px}}
-@media(min-width:720px){.grid{grid-template-columns:repeat(4,1fr)}}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:10px 8px 60px;max-width:1200px;margin:0 auto}
+@media(min-width:480px){.grid{grid-template-columns:repeat(3,1fr);gap:14px;padding:14px 16px 60px}}
+@media(min-width:720px){.grid{grid-template-columns:repeat(4,1fr);gap:18px}}
+@media(min-width:1000px){.grid{grid-template-columns:repeat(6,1fr);gap:20px}}
 
 .gcard{position:relative;border-radius:10px;overflow:hidden;aspect-ratio:7/10;box-shadow:0 4px 14px rgba(0,0,0,.5);transition:transform .15s;cursor:pointer}
 .gcard:active{transform:scale(.96)}
@@ -51,6 +53,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 /* HP circle with tier-colored border */
 .ghp{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,.6);color:#fff;font-size:1.05rem;font-weight:700;width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:3;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);border:2px solid var(--tier,rgba(255,255,255,.25));font-variant-numeric:tabular-nums}
+@media(min-width:720px){.ghp{width:52px;height:52px;font-size:1.3rem}.gatk{font-size:.9rem;top:10px;right:10px}.gbtn{font-size:1.1rem}}
 .ghp.low{border-color:var(--red)!important;color:var(--red);animation:pulseRed 1.8s infinite}
 @keyframes pulseRed{0%,100%{box-shadow:0 0 0 0 rgba(231,76,60,.4)}50%{box-shadow:0 0 0 6px rgba(231,76,60,0)}}
 .gcard.dead .ghp{text-decoration:line-through;opacity:.4}
