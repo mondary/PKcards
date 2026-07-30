@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = path.join(__dirname, '..', 'rules');
+const dir = path.join(__dirname, '..', 'assets', 'rules');
 const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort();
 
 const CATEGORY_COLORS = {
@@ -86,7 +86,7 @@ const games = files.map(f => parseGame(f, fs.readFileSync(path.join(dir, f), 'ut
 
 const counts = games.reduce((acc, g) => { acc[g.category] = (acc[g.category]||0)+1; return acc; }, {});
 
-  const output = `// Auto-generated from rules/*.md — do not edit manually
+  const output = `// Auto-generated from assets/rules/*.md — do not edit manually
 // ${games.length} games — run 'node build.js' to regenerate
 const GAMES = ${JSON.stringify(games, null, 2)};
 const CATEGORY_INFO = ${JSON.stringify({

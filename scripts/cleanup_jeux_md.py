@@ -10,7 +10,7 @@ import re
 import sys
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parents[1] / "rules2"
+OUT = Path(__file__).resolve().parents[1] / "assets" / "rules" / "rules2"
 
 # Same OCR rules as build_rules2_reussites.py
 OCR = [

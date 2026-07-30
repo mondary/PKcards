@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = path.join(__dirname, '..', 'rules');
+const dir = path.join(__dirname, '..', 'assets', 'rules');
 
 function classify(content) {
   const text = content

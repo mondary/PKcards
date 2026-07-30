@@ -20,8 +20,8 @@ SECTIONS = Path("/tmp/garraud_sections")
 JEUX_PATH = Path("/tmp/garraud_jeux.json")
 REUSSITES_PATH = Path("/tmp/garraud_reussites.json")
 PDF_PATH = ROOT / "benchmark" / "isbn_2724225910 (Unknown) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-# Output: rules2/jeux/ (and rules2/jeux/images/)
-RULES2 = ROOT / "rules2"
+# Output: assets/rules/rules2/jeux/ (and assets/rules/rules2/jeux/images/)
+RULES2 = ROOT / "assets" / "rules" / "rules2"
 OUT = RULES2 / "jeux"
 IMG = OUT / "images"
 

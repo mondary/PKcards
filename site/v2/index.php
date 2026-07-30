@@ -6,7 +6,7 @@ $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 /* Import auto si vide */
 if ($db->query('SELECT COUNT(*) FROM games')->fetchColumn() == 0) {
-    $dir = __DIR__ . '/../../rules/rules_clm';
+    $dir = __DIR__ . '/../../assets/rules/rules_clm';
     if (is_dir($dir)) {
         $db->exec('CREATE TABLE IF NOT EXISTS games (id INTEGER PRIMARY KEY, slug TEXT UNIQUE, title TEXT, players TEXT, duration TEXT, tagline TEXT, type TEXT, content TEXT)');
         foreach (glob("$dir/*.md") as $f) {

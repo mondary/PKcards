@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && ($_POST['action'] ?? '') === 'save'
     $s = $_POST['slug'] ?? ''; $c = $_POST['content'] ?? '';
     $db->prepare('INSERT OR REPLACE INTO masters (slug,content,updated) VALUES (?,?,datetime("now"))')->execute([$s,$c]);
     // Also write to rules_clm/ if it exists
-    $clm = __DIR__ . '/../../rules/rules_clm/' . $s . '.md';
+    $clm = __DIR__ . '/../../assets/rules/rules_clm/' . $s . '.md';
     @file_put_contents($clm, $c);
     echo json_encode(['ok' => true, 'path' => $clm]);
     exit;

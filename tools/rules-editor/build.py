@@ -3,7 +3,7 @@
 import sqlite3, re, sys
 from pathlib import Path
 
-RULES_DIR = Path(__file__).resolve().parent.parent.parent / 'rules'
+RULES_DIR = Path(__file__).resolve().parent.parent.parent / 'assets' / 'rules'
 DB_PATH = Path(__file__).resolve().parent / 'data.sqlite'
 
 SOURCES = {

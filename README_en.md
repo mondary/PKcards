@@ -79,7 +79,7 @@ See [CHANGELOG](CHANGELOG.md) for full history.
 
 - **App v2** (mobile, HTMX): [`site/v2/`](site/v2/) · live: https://mondary.design/pk/site/v2/
 - App v1 (archive): [`site/v1/`](site/v1/)
-- Game rules: [`rules/`](rules/) folder
-- CLM rules (Régicide, Yaniv): [`rules/rules_clm/`](rules/rules_clm/) folder
+- Game rules: [`assets/rules/`](assets/rules/) folder
+- CLM rules (Régicide, Yaniv): [`assets/rules/rules_clm/`](assets/rules/rules_clm/) folder
 - Régicide tracker: [`tools/regicide/`](tools/regicide/) · live: https://mondary.design/pk/tools/regicide/
 - Build scripts: [`scripts/`](scripts/) folder

@@ -16,7 +16,7 @@ from collections import OrderedDict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "rules2" / "reussite"
+OUT = ROOT / "assets" / "rules" / "rules2" / "reussite"
 IMG = OUT / "images"
 SECTIONS = Path("/tmp/garraud_sections")
 QUEUE_PATH = OUT / "_QUEUE_REUSSITES.json"
