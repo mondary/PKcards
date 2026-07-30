@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.6` (refacto site v1→v2 + sections familles régicide)
+Statut : `1.2026.7` (editeur generique + 4 nouvelles regles)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -32,6 +32,16 @@ Statut : `1.2026.6` (refacto site v1→v2 + sections familles régicide)
 ---
 
 ## Releases
+
+### [1.2026.7] - 2026-07-30
+#### Added
+- `tools/rules-editor/` : éditeur générique multi-projets (sidebar rétractable, filtres par statut, favoris ⭐, archive 📦, dédoublonnage 🔍)
+- Architecture multi-projets : table `projects` avec labels dynamiques, storage par projet, routing `?project=`
+- Colonnes sources avec chapitrage (`##`), scroll synchronisé par section, surlignage vert des sections uniques
+- Épinglage de sections (📌), recherche dans les colonnes, redimensionnement des colonnes
+- Lien/fusion de documents par autocomplete (unifie alias + merges)
+- Thème clair/sombre style Kigen (Inter + JetBrains Mono, cartes blanches, ombres subtiles)
+- 4 nouvelles règles CLM : Gin Rummy, Le Kem's, Rami 500, Le 8 Américain
 
 ### [1.2026.6] - 2026-07-29
 #### Added
