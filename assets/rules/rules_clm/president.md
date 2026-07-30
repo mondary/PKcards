@@ -1,331 +1,203 @@
-# Le Président
+# 👑 Le Président
 
-**4 à 8 joueurs • Combinaisons, stratégie, jeu social • 30 à 60 min**
-
-## But du jeu
-
-Chaque joueur cherche à se débarrasser de toutes ses cartes avant les autres.
-
-À la fin de chaque manche, les joueurs obtiennent un rang social selon leur ordre de sortie :
-
-1. **Président**
-2. **Vice-président**
-3. Joueur(s) neutre(s)
-4. **Vice-trou du cul**
-5. **Trou du cul**
-
-Lors de la manche suivante, les joueurs les mieux classés reçoivent les meilleures cartes des joueurs les moins bien classés.
-
-Le véritable objectif n'est donc pas seulement de devenir Président, mais surtout de ne pas retomber au bas de l'échelle sociale.
+**👥 Joueurs :** 4 à 8 (4 ou 5 idéal)
+**🃏 Cartes :** 52 cartes (54 avec Jokers selon les variantes)
+**⭐ Difficulté :** 2/5
+**🎯 But :** Être le premier à se débarrasser de toutes ses cartes afin de devenir Président.
 
 ---
 
-## Matériel
+## ⚡ En un coup d'œil
 
-Un jeu de **52 cartes**. Les deux Jokers peuvent être ajoutés selon la variante.
+Débarrassez-vous de toutes vos cartes avant les autres.
 
-Ordre normal, du plus faible au plus fort :
+À votre tour, vous devez :
+
+- jouer le même nombre de cartes que le joueur précédent ;
+- avec une valeur supérieure ;
+- ou passer.
+
+Ordre des cartes :
 
 **3 < 4 < 5 < 6 < 7 < 8 < 9 < 10 < Valet < Dame < Roi < As < 2**
 
-Le 2 est la carte la plus forte. Les couleurs n'ont aucune importance.
+Le 2 est la carte la plus forte.
+
+Lorsqu'il ne reste plus qu'un seul joueur en lice, il remporte le pli, défausse les cartes jouées et ouvre un nouveau pli.
+
+À la fin de la manche, les joueurs obtiennent un rang social qui déterminera les échanges de cartes de la manche suivante.
+
+👑 Président • 🎩 Vice-président • 🙂 Neutre • 👟 Vice-trou du cul • 💩 Trou du cul
 
 ---
 
-## Première manche
+## 📦 Préparation
 
-Aucun joueur ne possède encore de rang social. Deux méthodes :
+### Première manche
 
-**Méthode simple** : choisissez le premier joueur au hasard, il distribue toutes les cartes une par une.
+- Choisissez un premier joueur au hasard (ou en tirant une carte).
+- Distribuez toutes les cartes.
 
-**Méthode sociale** : chaque joueur tire une carte. La plus forte = Président, la deuxième = Vice-président, la troisième = Cadre, la plus faible = Trou du cul. En cas d'égalité, on retire.
+### Manches suivantes
 
-Lors de cette première manche, les titres servent seulement à déterminer le placement et le premier joueur. Aucun échange de cartes.
+1. 💩 Le Trou du cul distribue les cartes.
+2. 🔁 Les échanges sont effectués.
+3. ▶️ Le Trou du cul ouvre la manche.
 
----
-
-## Placement et devoirs
-
-Les joueurs se placent selon leur rang. Le Président peut recevoir le meilleur fauteuil. Le Trou du cul peut être chargé de :
-
-- Mélanger et distribuer les cartes
-- Ramasser les plis
-- Apporter les boissons
-- Supporter les commentaires parfaitement impartiaux du Président
+> Variante très répandue : c'est le Président qui ouvre la manche.
 
 ---
 
-## Distribution
+## ▶️ Déroulement
 
-Le Trou du cul mélange, le Président coupe. Toutes les cartes sont distribuées une par une, même si certains joueurs reçoivent une carte de plus.
+Le premier joueur ouvre le pli avec :
 
----
+- 🃏 une carte ;
+- 🃏🃏 une paire ;
+- 🃏🃏🃏 un brelan ;
+- 🃏🃏🃏🃏 un carré.
 
-## Échange de cartes
+Le joueur suivant doit jouer la même combinaison, mais plus forte.
 
-À partir de la deuxième manche :
+Sinon, il passe.
 
-- Le **Trou du cul** donne obligatoirement ses **2 meilleures cartes** au Président.
-- Le **Président** lui donne **2 cartes de son choix** (généralement ses plus faibles, mais il peut choisir).
-- Le **Vice-trou du cul** donne sa **meilleure carte** au Vice-président.
-- Le **Vice-président** lui donne **1 carte de son choix**.
-- Les joueurs neutres n'échangent rien.
+### Exemples
 
----
+**Carte seule**
 
-## Déroulement d'un pli
+7 → 10 → As → Passe → Passe
 
-Le Président entame. Il pose une carte seule, une paire, un brelan ou un carré.
+➡️ L'As remporte le pli.
 
-### Jouer sur une combinaison
+**Paire**
 
-Chaque joueur doit poser le **même nombre de cartes**, d'une **valeur supérieure**.
+7-7 → 9-9 → R-R → Passe → Passe
 
-Exemple : sur un 7 → on peut jouer 8, Roi, As ou 2. Pas de 6.
+➡️ Les Rois remportent le pli.
 
-Exemple : sur deux 7 → il faut une paire supérieure. Pas de brelan.
+**Carré**
 
-### Passer
+9-9-9-9
 
-Un joueur qui ne peut ou ne veut pas jouer annonce qu'il passe. Il est **éliminé du pli en cours** et ne peut plus revenir. Il rejouera au pli suivant.
-
-### Fin d'un pli
-
-Le pli se termine quand tous les autres joueurs ont passé. Le dernier joueur ayant posé **remporte le pli**, nettoie la table et entame un nouveau pli.
+➡️ Le carré ouvre directement le pli (et peut déclencher une variante).
 
 ---
 
-## Sortie d'un joueur
+## 🏁 Fin du pli
 
-Dès qu'un joueur pose sa ou ses dernières cartes, il quitte la manche et obtient son rang selon l'ordre de sortie. Si un joueur termine et remporte le pli simultanément, la main revient au joueur suivant encore en jeu.
+Un pli prend fin lorsque le tour revient jusqu'au dernier joueur ayant joué sans qu'aucune nouvelle combinaison n'ait été posée.
 
----
+Ce joueur :
 
-## Fin de manche et nouveaux rangs
-
-À quatre joueurs :
-
-| Position | Rang |
-|----------|------|
-| 1er | Président |
-| 2e | Vice-président |
-| 3e | Vice-trou du cul |
-| Dernier | Trou du cul |
-
-À cinq joueurs ou plus, des joueurs neutres s'intercalent.
+- remporte le pli ;
+- retire les cartes de la table ;
+- ouvre un nouveau pli avec la combinaison de son choix.
 
 ---
 
-# Règles spéciales — Version CLM
+## 👑 Fin de manche
 
-Les règles suivantes correspondent à la façon dont nous jouons. Elles créent une partie plus dynamique et tactique.
+Dès qu'un joueur n'a plus de cartes, il obtient son rang.
 
----
+| Place | Rang | Échange |
+|-------|------|---------|
+| 🥇 | 👑 Président | +2 cartes |
+| 🥈 | 🎩 Vice-président | +1 carte |
+| … | 🙂 Neutre(s) | — |
+| Avant-dernier | 👟 Vice-trou du cul | −1 carte |
+| Dernier | 💩 Trou du cul | −2 cartes |
 
-## Interdiction de finir avec un 2
-
-Un joueur **ne peut pas terminer** la manche en jouant un 2 (seul, paire, brelan ou carré).
-
-Si un joueur joue son ou ses derniers 2, il est **immédiatement classé Trou du cul**, même s'il aurait normalement terminé premier.
-
-> Cette règle oblige à utiliser ses 2 avant la fin et empêche de conserver la meilleure carte pour sortir sans risque.
-
----
-
-## Le Saut (même carte)
-
-Un joueur peut exceptionnellement poser une combinaison de **même valeur** que la précédente. Ce ne bat pas la combinaison : cela déclenche un **Saut** — le joueur suivant perd immédiatement son tour.
-
-Exemple : Alice joue un 8 → Bob joue aussi un 8 → Chloé est sautée → c'est au joueur d'après.
-
-Fonctionne avec une carte identique, une paire identique ou un brelan identique. Comme un skip dans le Uno.
+Les joueurs changent généralement de place autour de la table selon leur nouveau rang.
 
 ---
 
-## Le Slam (carré complété)
+## 🔁 Début de la manche suivante
 
-Lorsqu'un joueur **complète les quatre cartes** d'une même valeur déjà présentes dans le pli, il réalise un Slam.
+Après la distribution :
 
-- Le pli s'arrête **immédiatement**.
-- Le joueur ayant complété **nettoie la table** et **reprend la main**.
-- Tous les autres joueurs sont écartés du pli.
+- 💩 Le Trou du cul donne ses 2 meilleures cartes au Président.
+- 👑 Le Président lui donne 2 cartes de son choix (généralement les plus faibles).
+- 👟 Le Vice-trou du cul donne sa meilleure carte au Vice-président.
+- 🎩 Le Vice-président lui donne 1 carte de son choix.
 
-Exemple : Alice pose deux 4 → Bob possède les deux autres 4 et les joue → Slam ! Bob reprend la main.
-
-Le Slam est plus puissant qu'un Saut : le joueur suivant ne perd pas seulement son tour, tout le pli est terminé.
-
----
-
-## La Révolution
-
-Quand un joueur pose un **carré complet en une seule fois** depuis sa main, il déclenche une **Révolution**.
-
-L'ordre des cartes s'**inverse immédiatement** :
-
-| Ordre normal | Ordre révolutionnaire |
-|---|---|
-| 3 (plus faible) | **3 (plus forte)** |
-| 4 | 4 |
-| ... | ... |
-| As | As |
-| 2 (plus forte) | **2 (plus faible)** |
-
-La Révolution dure **jusqu'à la fin de la manche**. Au début de la manche suivante, l'ordre normal est rétabli.
-
-> Un Trou du cul qui possède quatre 3 peut déclencher une Révolution et se retrouver avec les meilleures cartes du jeu. De véritables renversements sociaux.
+Une fois les échanges terminés, le Trou du cul ouvre la nouvelle manche.
 
 ---
 
-## Différence entre Slam et Révolution
+## ⭐ Variantes utilisées dans cette règle (Version CLM)
 
-| | Slam | Révolution |
-|---|---|---|
-| **Déclencheur** | Le carré est complété par plusieurs joueurs au cours du pli | Un joueur pose directement les 4 cartes depuis sa main |
-| **Exemple** | Deux 6, puis les deux autres 6 | Quatre 6 posés en une seule fois |
-| **Effet** | Nettoyage de table, reprise de main | Inversion de l'ordre des cartes jusqu'à la fin de la manche |
+✅ **💩 Le Trou du cul ouvre toujours la manche.**
 
----
+✅ **🚫 Il est interdit de terminer avec un 2.** Un joueur qui termine avec un 2 devient automatiquement Trou du cul.
 
-## Exemple de tour en version CLM
+✅ **⏭️ Jouer exactement la même carte ou la même combinaison fait passer le tour du joueur suivant.**
 
-Alice, Présidente, commence avec une **paire de 6**.
+Exemple :
 
-Bob joue une **paire de 8**.
+8 → 8 → (joueur suivant sauté)
 
-Chloé possède les deux autres 8 et les joue → même combinaison que Bob → les quatre 8 sont réunis → **Slam** ! Chloé nettoie la table et reprend la main.
+✅ **💥 Slam :** lorsqu'un joueur complète les quatre cartes d'une même valeur déjà présentes sur la table, le pli prend immédiatement fin et il reprend la main.
 
-Chloé ouvre avec un **carré de 4** posé directement → **Révolution** ! Pour le reste de la manche, le 3 est la meilleure carte et le 2 la plus faible.
+Exemple :
 
----
+9-9 → 9-9
 
-# Variantes courantes
+➡️ Slam !
 
-Ces règles ne font pas partie de la version CLM mais peuvent être ajoutées avant la partie.
+✅ **🔄 Révolution :** lorsqu'un joueur pose directement un carré depuis sa main, l'ordre des cartes est inversé jusqu'à la fin de la manche.
 
----
+2 < As < Roi < Dame < Valet < 10 < 9 < 8 < 7 < 6 < 5 < 4 < 3
 
-## Le 8 saute un joueur
+✅ **🚪 Un joueur qui passe n'est pas éliminé du pli.** Il peut rejouer si son tour revient. Le pli ne se termine que lorsque le tour revient au dernier joueur ayant joué sans qu'aucune nouvelle combinaison n'ait été posée.
 
-Quand un 8 est posé, le joueur suivant passe automatiquement son tour. Une paire de 8 peut faire sauter deux joueurs.
-
-À ne pas confondre avec le Saut CLM (où l'effet est déclenché en posant exactement la même valeur que le joueur précédent).
-
-## Le 10 brûle la pile
-
-Quand un 10 est posé, le pli est immédiatement terminé. Le joueur ayant posé le 10 reprend la main.
-
-## Le carré nettoie la table
-
-Dès que les quatre cartes d'une même valeur apparaissent dans un pli, la pile est nettoyée. Correspond au Slam de la version CLM.
+✅ **🃏 Les Jokers ne sont pas utilisés.**
 
 ---
 
-## Révolution permanente (Daifugō)
+## ⚖️ Autres variantes populaires
 
-La Révolution ne disparaît pas à la fin de la manche. Elle reste active jusqu'à ce qu'un nouveau carré provoque une contre-révolution. Chaque carré alterne entre ordre normal et ordre inversé.
+### 💥 Les carrés
 
-## Révolution de pli
-
-La Révolution ne dure que pendant le pli en cours. Une fois la pile nettoyée, l'ordre normal revient.
-
-## Contre-révolution
-
-Quand une Révolution est active, un nouveau carré annule la Révolution et restaure l'ordre normal.
+- **Carré nettoyeur :** un carré met immédiatement fin au pli.
+- **Révolution permanente :** l'ordre des cartes reste inversé jusqu'à une nouvelle Révolution.
+- **Contre-révolution :** un nouveau carré rétablit immédiatement l'ordre normal.
+- **Bombes :** un carré peut battre n'importe quelle combinaison.
 
 ---
 
-## Les Jokers
+### 🔥 Cartes spéciales
 
-**Comme cartes ultimes** : un Joker seul bat un 2. Ordre : 3 < ... < 2 < Joker.
-
-**Comme cartes libres** : un Joker remplace n'importe quelle carte dans une combinaison. Une combinaison sans Joker est dite *pure*, une avec Joker est *impure*. Certains groupes autorisent une combinaison pure à battre une combinaison impure de même valeur.
-
-**Joker vulnérable au 3 de pique** (Spade Three) : le Joker est la meilleure carte mais peut être battu par le 3 de pique.
-
----
-
-## Les suites
-
-Les joueurs peuvent poser des suites d'au moins trois cartes (4-5-6, 8-9-10-Valet). Le joueur suivant doit poser une suite du même nombre de cartes, entièrement supérieure.
-
-**Suites de même couleur** : la suite doit être de la même couleur.
-
-**Doubles suites** : plusieurs paires consécutives (deux 5 + deux 6). Variante venue du Daifugō.
+- **2 comme atout :** un 2 peut battre n'importe quelle combinaison.
+- **8 Skip :** un 8 fait passer le tour du joueur suivant.
+- **10 Burn :** un 10 vide immédiatement la table et son joueur ouvre un nouveau pli.
+- **7 Low :** après un 7, il faut jouer des cartes de plus en plus faibles jusqu'à la fin du pli.
+- **Valet Reverse :** le Valet inverse le sens du jeu.
 
 ---
 
-## Les Bombes
+### 🃏 Les Jokers
 
-Un carré est une Bombe qui peut battre n'importe quelle combinaison ordinaire, quel que soit le nombre de cartes. Un joueur pose un 2 → le suivant pose quatre 5 → la Bombe bat le 2.
-
-Quand plusieurs Bombes sont jouées, elles sont comparées selon leur valeur (quatre Rois battent quatre 10).
-
----
-
-## Cartes spéciales supplémentaires
-
-- **Le 7 impose de jouer plus bas** (Seven Low) : le joueur suivant doit jouer une carte inférieure au 7.
-- **Le Valet inverse le sens** du jeu.
-- **L'As transparent** : un As peut être posé sans modifier la valeur à battre.
-- **La carte miroir** : poser la même valeur inverse le sens du jeu (remplace le Saut).
+- **Jokers ultimes** (plus forts que le 2).
+- **Jokers libres** (remplacent n'importe quelle carte).
+- **3♠ contre Joker** (variante japonaise).
 
 ---
 
-## Interdictions de finir
+### ♠ Les combinaisons
 
-En plus du 2, certains groupes interdisent de finir avec un Joker, un 8, un 10, une Bombe ou une carte provoquant une Révolution. Le contrevenant devient automatiquement Trou du cul.
-
-À l'inverse, certains considèrent que terminer avec un 2 donne automatiquement la première place.
-
----
-
-## Variantes d'échange
-
-- **Don imposé** : le Président doit donner ses deux cartes les plus faibles.
-- **Don libre** : le Président peut donner n'importe quelles cartes.
-- **Échange à l'aveugle** : les cartes sont choisies au hasard dans la main de l'autre.
-- **Choix du Trou du cul** : le Trou du cul peut choisir les cartes qu'il donne.
+- **Suites** (ex. 5-6-7, puis 6-7-8).
+- **Doubles suites** (ex. 5-5 / 6-6, puis 7-7 / 8-8).
 
 ---
 
-## Révolte et coup d'État
+### 👑 Déroulement
 
-- **Révolte du Trou du cul** : s'il possède un carré, les deux Jokers ou quatre 2, il peut annuler les échanges.
-- **Coup d'État** : un joueur qui reçoit les quatre 2 devient immédiatement Président.
-
----
-
-## Dynastie et destitution
-
-- **Président absolu** : un joueur qui reste Président pendant 3 manches consécutives remporte la partie.
-- **Destitution** : si le Président termine Trou du cul à la manche suivante, il reçoit une pénalité supplémentaire.
+- Le Président commence la manche (variante la plus répandue).
+- **Passe définitive** (un joueur ayant passé ne peut plus revenir).
+- **Putsch :** le Trou du cul peut refuser les échanges s'il estime pouvoir terminer Président. En cas d'échec, une pénalité est appliquée lors de la manche suivante.
 
 ---
 
-## Partie avec score
+## 💡 Conseil
 
-| Rang | Points |
-|------|--------|
-| Président | 5 |
-| Vice-président | 3 |
-| Neutre | 1 |
-| Vice-trou du cul | 0 |
-| Trou du cul | -1 |
-
-Premier à 25 (partie normale) ou 50 (partie longue).
-
----
-
-# Version CLM recommandée
-
-Pour retrouver précisément notre façon de jouer :
-
-- **52 cartes**, sans Joker, quatre joueurs idéalement.
-- Ordre : 3 < 4 < ... < As < 2.
-- Échanges : Trou du cul donne ses 2 meilleures → Président donne 2 de son choix.
-- Combinaisons : cartes seules, paires, brelans, carrés. **Pas de suites**.
-- Un joueur qui passe est éliminé du pli.
-- **Finir avec un 2** = automatiquement Trou du cul.
-- **Jouer la même combinaison** = Saut (le suivant perd son tour).
-- **Compléter un carré** = Slam (nettoyage de table, reprise de main).
-- **Poser un carré depuis sa main** = Révolution (ordre inversé jusqu'à la fin de la manche).
+Avant de commencer une partie, mettez-vous d'accord sur les variantes utilisées. Le Président est un jeu de tradition orale : il n'existe pas de règle officielle, mais une multitude de façons d'y jouer.
