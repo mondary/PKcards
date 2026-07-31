@@ -476,10 +476,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .game__mono{width:46px;height:46px;border-radius:12px;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#ca9ee6) 15%,transparent);border-color:color-mix(in srgb,var(--c,#ca9ee6) 32%,transparent);font-size:1.35rem}.game__title{color:var(--text);font-weight:650}.tag{background:rgba(198,208,245,.07);color:var(--muted)}.tag--p{color:var(--blue);background:rgba(140,170,238,.12)}.tag--d{color:var(--peach);background:rgba(239,159,118,.12)}.tag--v{color:var(--gold);background:rgba(202,158,230,.14)}
  .game__fav{color:#737b9c;border-radius:12px;transition:color .18s,background .18s}.game__fav:hover{color:var(--red);background:rgba(231,130,132,.1)}
  .tag--clm{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
- .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
+  .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
+  .reader-hero{--hero-c:var(--gold);position:relative;min-height:310px;margin:0 -16px 26px;padding:78px 22px 24px;overflow:hidden;background:var(--card);border-bottom:1px solid var(--border);isolation:isolate}.reader-hero::before{content:'';position:absolute;z-index:-1;width:280px;height:280px;right:-76px;top:-82px;border:1px solid color-mix(in srgb,var(--hero-c) 45%,transparent);border-radius:50%;box-shadow:0 0 0 34px color-mix(in srgb,var(--hero-c) 8%,transparent),0 0 0 70px color-mix(in srgb,var(--hero-c) 4%,transparent)}.reader-hero::after{content:'♠  ♥  ♦  ♣';position:absolute;z-index:-1;right:18px;bottom:28px;color:color-mix(in srgb,var(--hero-c) 72%,transparent);font-family:Georgia,serif;font-size:1rem;letter-spacing:.45em;opacity:.68;transform:rotate(-16deg)}.reader-hero__wash{position:absolute;inset:0;z-index:-2;background:linear-gradient(110deg,color-mix(in srgb,var(--hero-c) 16%,var(--bg)) 0%,transparent 58%)}.reader-hero__eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase}.reader-hero h1{max-width:680px;margin:13px 0 20px;color:var(--text);font-family:Georgia,serif;font-size:clamp(2.6rem,8vw,6.4rem);font-weight:400;letter-spacing:-.06em;line-height:.88;text-wrap:balance}.reader-hero__meta{display:flex;flex-wrap:wrap;gap:7px}.reader-hero__meta span{padding:5px 10px;border:1px solid color-mix(in srgb,var(--hero-c) 30%,transparent);border-radius:8px;background:color-mix(in srgb,var(--hero-c) 10%,transparent);color:var(--text);font-size:.72rem}.reader-hero__stamp{position:absolute;right:clamp(25px,10vw,120px);top:90px;color:var(--hero-c);font-family:Georgia,serif;font-size:clamp(7rem,17vw,13rem);line-height:.7;opacity:.13;transform:rotate(12deg)}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
  :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
-  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
+  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:280px;padding-top:78px}.reader-hero__stamp{right:-8px;top:94px;font-size:8rem}}
  @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
  </style>
 </head>
@@ -491,6 +492,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   if ($g):
     $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
     $ytUrl = 'https://www.youtube.com/results?search_query=' . rawurlencode($g['title'] . ' règles jeu de cartes');
+    $heroGlyph = (int)($g['is_clm'] ?? 0) ? '♥' : (['solo' => '♠', 'duo' => '♦', 'petit-groupe' => '♣', 'grand-groupe' => '♥'][$g['category']] ?? '🂠');
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
 ?>
@@ -499,13 +501,18 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <a class="bar__back" href="<?= e(qs_home()) ?>" aria-label="Retour">‹</a>
       <span style="color:#777;font-size:.8rem"><?= e($g['type'] ?: 'Jeu de cartes') ?></span>
     </div>
-    <h1 class="rtitle"><?= e($g['title']) ?></h1>
-    <div class="rmeta">
-      <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
-      <?php if ($g['cards']): ?><span class="m">🂠 <?= e($g['cards']) ?></span><?php endif; ?>
-      <?php if ($g['difficulty']): ?><span class="m"><?= e($g['difficulty']) ?></span><?php endif; ?>
-      <?php if ($g['goal']): ?><span class="m">🎯 <?= e($g['goal']) ?></span><?php endif; ?>
-    </div>
+    <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
+      <div class="reader-hero__wash"></div>
+      <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?></div>
+      <h1 id="gameTitle"><?= e($g['title']) ?></h1>
+      <div class="reader-hero__meta">
+        <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
+        <?php if ($g['cards']): ?><span>🂠 <?= e($g['cards']) ?></span><?php endif; ?>
+        <?php if ($g['difficulty']): ?><span><?= e($g['difficulty']) ?></span><?php endif; ?>
+        <?php if ($g['goal']): ?><span>🎯 <?= e($g['goal']) ?></span><?php endif; ?>
+      </div>
+      <div class="reader-hero__stamp" aria-hidden="true"><?= e($heroGlyph) ?></div>
+    </section>
     <div class="raction">
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
