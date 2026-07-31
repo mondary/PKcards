@@ -488,8 +488,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .empty h2{font-size:1.05rem;color:#c0c0cc;font-weight:600;margin-bottom:4px}
 
 /* READER */
-.reader{width:70%;max-width:1080px;margin:0 auto;padding:0 16px 70px}
-.bar{position:sticky;top:0;z-index:15;display:flex;align-items:center;gap:12px;padding:calc(10px + env(safe-area-inset-top)) 0 10px;background:linear-gradient(180deg,var(--bg) 80%,transparent);backdrop-filter:blur(6px)}
+.reader{width:100%;margin:0 auto;padding:0 0 70px}
+.bar{position:sticky;top:0;z-index:15;display:flex;align-items:center;gap:12px;width:70%;max-width:1080px;margin:0 auto;padding:calc(10px + env(safe-area-inset-top)) 0 10px;background:linear-gradient(180deg,var(--bg) 80%,transparent);backdrop-filter:blur(6px)}
 .bar__back{width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.06);color:var(--gold);font-size:1.3rem;display:flex;align-items:center;justify-content:center}
 .bar__back:active{transform:scale(.9)}
 .rtitle{font-family:Georgia,serif;font-size:1.85rem;color:#fff;line-height:1.15;margin:6px 0 12px}
@@ -567,10 +567,10 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .tag--clm,.tag--mistigri{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
   .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
   .reader-hero{--hero-c:var(--gold);position:sticky;top:0;height:100dvh;min-height:420px;margin:0 calc(50% - 50vw);padding:clamp(96px,18vh,150px) 0 26px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:end;align-items:center;z-index:1}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(22,24,36,.9) 0%,rgba(22,24,36,.5) 52%,rgba(22,24,36,.08) 100%),linear-gradient(0deg,var(--bg) 10%,rgba(22,24,36,0) 46%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(.8) contrast(1.05)}.reader-hero__eyebrow{width:70%;max-width:1080px;font-family:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase}.reader-hero h1{width:70%;max-width:1080px;margin:13px 0 20px;color:#f5eee5;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(3rem,9vw,7rem);font-weight:500;letter-spacing:-.02em;line-height:.9;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:7px;font-family:'DM Mono',ui-monospace,monospace}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.7rem;letter-spacing:.04em;backdrop-filter:blur(6px)}
-  .reader-body{position:relative;z-index:2;margin:0 -16px;padding:24px 16px 0;background:var(--bg);border-radius:26px 26px 0 0;box-shadow:0 -22px 50px rgba(0,0,0,.35)}
+  .reader-body{position:relative;z-index:2;margin:0;padding:26px 0 0;background:var(--bg);border-radius:26px 26px 0 0;box-shadow:0 -22px 50px rgba(0,0,0,.35)}.reader-body-inner{width:70%;max-width:1080px;margin:0 auto}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
  :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
-  @media(max-width:700px){.reader{width:100%}.reader-hero__eyebrow,.reader-hero h1,.reader-hero__meta{width:100%}.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:380px;padding:92px 16px 26px}.reader-hero__image{object-position:62% center}.reader-body{border-radius:20px 20px 0 0}}
+  @media(max-width:700px){.bar{width:100%;padding-left:16px;padding-right:16px}.reader-hero__eyebrow,.reader-hero h1,.reader-hero__meta{width:100%}.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:380px;padding:92px 16px 26px}.reader-hero__image{object-position:62% center}.reader-body{border-radius:20px 20px 0 0}.reader-body-inner{width:100%;padding:0 16px}}
  @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
  </style>
 </head>
@@ -603,12 +603,14 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       </div>
     </section>
     <div class="reader-body">
+    <div class="reader-body-inner">
     <div class="raction">
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
     </div>
     <a class="reader__youtube" href="<?= e($ytUrl) ?>" target="_blank" rel="noopener noreferrer">▶ Rechercher les règles sur YouTube</a>
     <div class="rules"><?= md2html($md) ?></div>
+    </div>
     </div>
   </div>
 <?php endif;
