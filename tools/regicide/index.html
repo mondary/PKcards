@@ -10,6 +10,8 @@
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;user-select:none}
 :root{--gold:#e8c46a;--red:#e74c3c;--green:#2ecc71;--orange:#f39c12;--bg:#0a0a14}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);background-image:radial-gradient(ellipse at 50% -10%,rgba(232,196,106,.1) 0%,transparent 55%),radial-gradient(ellipse at 10% 90%,rgba(192,57,43,.06) 0%,transparent 50%);min-height:100dvh;color:#e0e0e0;padding-top:env(safe-area-inset-top)}
+/* ponytail: overflow:hidden stops background scroll under the fixed zoom on modern iOS. If an older iOS still rubber-bands, escalate to position:fixed + scrollY restore on body.lock. */
+body.lock{overflow:hidden}
 
 /* ===== HEADER ===== */
 .header{position:sticky;top:0;padding:12px 16px 8px;background:linear-gradient(180deg,rgba(10,10,20,.96),rgba(10,10,20,.6) 90%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);z-index:10;display:flex;align-items:center;justify-content:space-between;gap:10px}
@@ -54,13 +56,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .gcard img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .gcard .shade{position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.55) 0%,transparent 30%,transparent 60%,rgba(0,0,0,.2) 100%);pointer-events:none}
 
-/* Attack: subtle colored number, no badge, no icon */
-.gatk{position:absolute;top:8px;right:8px;font-size:.75rem;font-weight:800;color:var(--tier,#fff);text-shadow:0 1px 5px rgba(0,0,0,.95),0 0 4px rgba(0,0,0,.9);z-index:4;cursor:pointer;letter-spacing:.5px}
-.gatk:active{transform:scale(1.2)}
+/* Attack: small dark pill with sword icon. Visible but quieter than the HP circle. */
+.gatk{position:absolute;top:7px;left:0;right:0;margin:0 auto;width:fit-content;font-size:.72rem;font-weight:800;color:var(--tier,#fff);z-index:4;cursor:pointer;letter-spacing:.5px;padding:3px 7px;border-radius:8px;background:rgba(0,0,0,.5);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);border:1px solid rgba(255,255,255,.14);font-variant-numeric:tabular-nums;transition:background .15s,color .15s,border-color .15s}
+.gatk:active{transform:scale(1.15)}
+.gatk.reduced{background:rgba(231,76,60,.92);color:#fff;border-color:rgba(255,255,255,.25)}
 
 /* HP circle with tier-colored border */
 .ghp{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,.6);color:#fff;font-size:1.05rem;font-weight:700;width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:3;backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);border:2px solid var(--tier,rgba(255,255,255,.25));font-variant-numeric:tabular-nums}
-@media(min-width:720px){.ghp{width:52px;height:52px;font-size:1.3rem}.gatk{font-size:.9rem;top:10px;right:10px}.gbtn{font-size:1.1rem}}
+@media(min-width:720px){.ghp{width:52px;height:52px;font-size:1.3rem}.gatk{font-size:.9rem;top:10px}.gbtn{font-size:1.1rem}}
 .ghp.low{border-color:var(--red)!important;color:var(--red);animation:pulseRed 1.8s infinite}
 @keyframes pulseRed{0%,100%{box-shadow:0 0 0 0 rgba(231,76,60,.4)}50%{box-shadow:0 0 0 6px rgba(231,76,60,0)}}
 .gcard.dead .ghp{text-decoration:line-through;opacity:.4}
@@ -89,8 +92,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .zfade{position:absolute;bottom:0;left:0;right:0;height:50%;background:linear-gradient(0deg,#000 0%,rgba(0,0,0,.95) 12%,rgba(0,0,0,.7) 35%,rgba(0,0,0,.3) 65%,transparent 100%);pointer-events:none}
 
 .ztop-bar{position:absolute;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;padding:12px 16px;padding-top:calc(14px + env(safe-area-inset-top));z-index:10;background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,transparent 100%)}
-.ztop-info{display:flex;align-items:center;gap:10px}
-.zatk{background:rgba(232,196,106,.15);color:var(--gold);font-size:.75rem;padding:4px 12px;border-radius:8px;font-weight:600;border:1px solid rgba(232,196,106,.25);cursor:pointer}
+.zatk{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,.55);color:var(--gold);font-size:1.05rem;padding:7px 14px;border-radius:10px;font-weight:700;border:1px solid rgba(232,196,106,.4);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);font-variant-numeric:tabular-nums;cursor:pointer;line-height:1;white-space:nowrap}
+.zatk.reduced{color:#fff;background:rgba(231,76,60,.9);border-color:rgba(255,255,255,.25)}
 .zrank{color:rgba(255,255,255,.55);font-size:.7rem;letter-spacing:2px;text-transform:uppercase}
 .zclose{width:34px;height:34px;border-radius:50%;border:none;background:rgba(0,0,0,.5);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);color:#ccc;font-size:1.1rem;cursor:pointer;flex-shrink:0}
 .zclose:active{background:rgba(255,255,255,.15)}
@@ -145,10 +148,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <img class="zhero-img" id="z-img" src="">
     <div class="zfade"></div>
     <div class="ztop-bar">
-      <div class="ztop-info">
-        <span class="zatk" id="z-atk">⚔ 10</span>
-        <span class="zrank" id="z-rank">Valet</span>
-      </div>
+      <span class="zrank" id="z-rank">Valet</span>
+      <span class="zatk" id="z-atk">⚔ 10</span>
       <button class="zclose" id="z-close">✕</button>
     </div>
     <div class="zko-hero" id="z-ko">Vaincu</div>
@@ -175,23 +176,21 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 <script>
 const FILES=['J_pic.jpg','J_coeur.jpg','J_carreau.jpg','J_trefle.jpg','Q_pic.jpg','Q_coeur.jpg','Q_carreau.jpg','Q_trefle.jpg','K_pic.jpg','K_coeur.jpg','K_carreau.jpg','K_trefle.jpg']
 const RANKS={'J':{name:'Valet',atk:10,hp:20},'Q':{name:'Dame',atk:15,hp:30},'K':{name:'Roi',atk:20,hp:40}}
-const TYPES={'10':{name:'Valet',hp:20},'15':{name:'Dame',hp:30},'20':{name:'Roi',hp:40}}
-const ATKS=[10,15,20]
 const N=FILES.length
 const state={}
 let zoomId=null
 
-function tierColor(atk){return atk===10?'#27ae60':atk===15?'#e8c46a':'#e74c3c'}
+function tierColor(baseAtk){return baseAtk===10?'#27ae60':baseAtk===15?'#e8c46a':'#e74c3c'}
 
 function init(){
   FILES.forEach((f,i)=>{
     const r=RANKS[f[0]]
-    state[i]={id:i,file:f,atk:r.atk,hp:r.hp,max:r.hp}
+    state[i]={id:i,file:f,baseAtk:r.atk,atk:r.atk,hp:r.hp,max:r.hp}
   })
-  const saved=localStorage.getItem('regicide-v3')
-  if(saved){try{const d=JSON.parse(saved);for(const k in d){if(state[k]){state[k].atk=d[k].atk;state[k].hp=d[k].hp;state[k].max=TYPES[d[k].atk].hp}}}catch(e){}}
+  const saved=localStorage.getItem('regicide-v4')
+  if(saved){try{const d=JSON.parse(saved);for(const k in d){if(state[k]){state[k].atk=d[k].atk;state[k].hp=d[k].hp}}}catch(e){}}
 }
-function save(){const d={};for(const k in state)d[k]={atk:state[k].atk,hp:state[k].hp};localStorage.setItem('regicide-v3',JSON.stringify(d))}
+function save(){const d={};for(const k in state)d[k]={atk:state[k].atk,hp:state[k].hp};localStorage.setItem('regicide-v4',JSON.stringify(d))}
 
 // ===== SECTIONS =====
 const SECTIONS=[
@@ -205,10 +204,10 @@ function renderGrid(){
   for(const s of SECTIONS){
     h+=`<div class="section"><div class="section-title">${s.name}<span class="section-line"></span><span class="section-atk">⚔ ${s.atk}</span></div><div class="section-grid">`
     for(const i of s.ids){
-      const c=state[i],dead=c.hp<=0,low=!dead&&c.hp/c.max<=.3
-      h+=`<div class="gcard ${dead?'dead':''} ${low?'low':''}" data-id="${i}" style="--tier:${tierColor(c.atk)}">
+      const c=state[i],dead=c.hp<=0,low=!dead&&c.hp/c.max<=.3,red=c.atk<c.baseAtk
+      h+=`<div class="gcard ${dead?'dead':''} ${low?'low':''}" data-id="${i}" style="--tier:${tierColor(c.baseAtk)}">
 <img src="cards/${c.file}" alt="" loading="lazy"><div class="shade"></div>
-<span class="gatk" data-id="${i}">${c.atk}</span>
+<span class="gatk ${red?'reduced':''}" data-id="${i}">⚔ ${c.atk}</span>
 <span class="ghp ${low?'low':''}">${c.hp}</span>
 ${dead?'<span class="gko">KO</span>':''}
 <div class="gbtns"><button class="gbtn minus" data-id="${i}" data-act="minus">−</button><button class="gbtn plus" data-id="${i}" data-act="plus">+</button></div>
@@ -223,11 +222,11 @@ ${dead?'<span class="gko">KO</span>':''}
 function updateCard(i){
   const el=document.querySelector(`.gcard[data-id="${i}"]`)
   if(!el)return
-  const c=state[i],dead=c.hp<=0,low=!dead&&c.hp/c.max<=.3
+  const c=state[i],dead=c.hp<=0,low=!dead&&c.hp/c.max<=.3,red=c.atk<c.baseAtk
   el.className=`gcard ${dead?'dead':''} ${low?'low':''}`
-  el.style.setProperty('--tier',tierColor(c.atk))
+  el.style.setProperty('--tier',tierColor(c.baseAtk))
   const hpEl=el.querySelector('.ghp');hpEl.textContent=c.hp;hpEl.className=`ghp ${low?'low':''}`
-  el.querySelector('.gatk').textContent=c.atk
+  const atkEl=el.querySelector('.gatk');atkEl.innerHTML=`⚔ ${c.atk}`;atkEl.className=`gatk ${red?'reduced':''}`
   const koEl=el.querySelector('.gko')
   if(dead&&!koEl)el.insertAdjacentHTML('beforeend','<span class="gko">KO</span>')
   if(!dead&&koEl)koEl.remove()
@@ -248,25 +247,28 @@ function changeHP(i,delta){
   if(zoomId!==null)updateZoom()
 }
 
-function cycleAtk(i){
+// ATK only ever decreases during a fight (Pique rule). Decrement wraps 0 -> baseAtk (correction).
+function changeAtk(i,delta){
   const c=state[i]
-  c.atk=ATKS[(ATKS.indexOf(c.atk)+1)%3]
-  c.max=TYPES[c.atk].hp;c.hp=c.max
-  if(navigator.vibrate)navigator.vibrate(10)
+  c.atk=(c.atk+delta+c.baseAtk+1)%(c.baseAtk+1)
+  if(navigator.vibrate)navigator.vibrate(c.atk===c.baseAtk?20:12)
   updateCard(i);if(zoomId!==null)updateZoom();save()
 }
 
 // ===== ZOOM =====
-function openZoom(i){zoomId=i;updateZoom();document.getElementById('zoom').classList.add('open')}
-function closeZoom(){zoomId=null;document.getElementById('zoom').classList.remove('open')}
+function openZoom(i){zoomId=i;updateZoom();document.getElementById('zoom').classList.add('open');document.body.classList.add('lock')}
+function closeZoom(){zoomId=null;document.getElementById('zoom').classList.remove('open');document.body.classList.remove('lock')}
 
 function updateZoom(){
   if(zoomId===null)return
   const c=state[zoomId],dead=c.hp<=0,pct=Math.max(0,c.hp/c.max),low=!dead&&pct<=.25
   document.getElementById('z-img').src=`cards/${c.file}`
   document.getElementById('z-img').className=`zhero-img ${dead?'dead':''}`
-  document.getElementById('z-atk').textContent=`⚔ ${c.atk}`
-  document.getElementById('z-rank').textContent=TYPES[c.atk].name
+  const red=c.atk<c.baseAtk
+  const atkEl=document.getElementById('z-atk')
+  atkEl.textContent=red?`⚔ ${c.atk} / ${c.baseAtk}`:`⚔ ${c.atk}`
+  atkEl.className=`zatk ${red?'reduced':''}`
+  document.getElementById('z-rank').textContent=RANKS[c.file[0]].name
   const hpEl=document.getElementById('z-hp')
   hpEl.textContent=c.hp;hpEl.className=`zhp-num ${low?'low':''}`
   document.getElementById('z-hp-max').textContent=c.max+' PV'
@@ -289,13 +291,14 @@ function zoomAnim(type){
 }
 
 // ===== EVENTS =====
-document.getElementById('grid').addEventListener('click',e=>{
+const gridEl=document.getElementById('grid')
+gridEl.addEventListener('click',e=>{
   const btn=e.target.closest('.gbtn')
   if(btn){e.stopPropagation();const id=+btn.dataset.id;changeHP(id,btn.dataset.act==='plus'?1:-1)
     const card=btn.closest('.gcard');card.classList.add(btn.dataset.act==='plus'?'heal':'shake')
     setTimeout(()=>card.classList.remove('shake','heal'),320);return}
   const atk=e.target.closest('.gatk')
-  if(atk){e.stopPropagation();cycleAtk(+atk.dataset.id);return}
+  if(atk){e.stopPropagation();changeAtk(+atk.dataset.id,-1);return}
   const card=e.target.closest('.gcard')
   if(card)openZoom(+card.dataset.id)
 })
@@ -303,13 +306,14 @@ document.getElementById('grid').addEventListener('click',e=>{
 document.getElementById('z-close').addEventListener('click',closeZoom)
 document.getElementById('z-minus').addEventListener('click',()=>{if(zoomId===null)return;changeHP(zoomId,-1);zoomAnim('shake')})
 document.getElementById('z-plus').addEventListener('click',()=>{if(zoomId===null)return;changeHP(zoomId,1);zoomAnim('heal')})
-document.getElementById('z-atk').addEventListener('click',()=>cycleAtk(zoomId))
+document.getElementById('z-atk').addEventListener('click',()=>{if(zoomId!==null)changeAtk(zoomId,-1)})
+
 document.getElementById('z-prev').addEventListener('click',()=>zoomNav(-1))
 document.getElementById('z-next').addEventListener('click',()=>zoomNav(1))
 
 document.getElementById('reset').addEventListener('click',()=>{
-  if(!confirm('Remettre tous les PV au maximum ?'))return
-  for(const k in state)state[k].hp=state[k].max
+  if(!confirm('Remettre tous les PV et ATK au maximum ?'))return
+  for(const k in state){state[k].hp=state[k].max;state[k].atk=state[k].baseAtk}
   renderGrid();if(zoomId!==null)updateZoom();save()
 })
 
