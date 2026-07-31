@@ -429,6 +429,9 @@ function chip_active(string $a, string $b): string { return $a === $b ? 'chip--a
 <meta name="description" content="PKcards — <?= $TOTAL ?> jeux de cartes : règles, favoris, découverte.">
 <title>PKcards — <?= $TOTAL ?> jeux de cartes</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23292c3c'/%3E%3Crect x='13' y='9' width='38' height='48' rx='8' fill='%23f5eee5' transform='rotate(-8 32 33)'/%3E%3Cpath d='M32 42c-2.8-4.2-9-7.2-9-12.2 0-3.1 2.1-5.3 4.8-5.3 2 0 3.5 1.1 4.2 2.7.7-1.6 2.2-2.7 4.2-2.7 2.7 0 4.8 2.2 4.8 5.3 0 5-6.2 8-9 12.2Z' fill='%23e78284'/%3E%3Ccircle cx='22' cy='18' r='2' fill='%23ca9ee6'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 :root{--gold:#e8c46a;--bg:#0a0a14;--card:rgba(255,255,255,.035);--border:rgba(255,255,255,.07);--muted:#7a7a8c;--red:#e74c3c;--green:#2ecc71}
@@ -563,10 +566,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .game__thumb{width:46px;height:46px;border-radius:12px}
   .tag--clm,.tag--mistigri{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
   .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
-  .reader-hero{--hero-c:var(--gold);position:relative;min-height:390px;margin:0 -16px 26px;padding:104px 22px 28px;overflow:hidden;background:#1d2030;border-bottom:1px solid var(--border);isolation:isolate;display:flex;flex-direction:column;justify-content:end}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(22,24,36,.92) 0%,rgba(22,24,36,.57) 52%,rgba(22,24,36,.16) 100%),linear-gradient(0deg,rgba(22,24,36,.65),transparent 52%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(.8) contrast(1.05)}.reader-hero__eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase}.reader-hero h1{max-width:680px;margin:13px 0 20px;color:#f5eee5;font-family:Georgia,serif;font-size:clamp(2.6rem,8vw,6.4rem);font-weight:400;letter-spacing:-.06em;line-height:.88;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{display:flex;flex-wrap:wrap;gap:7px}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.72rem;backdrop-filter:blur(6px)}
+  .reader-hero{--hero-c:var(--gold);position:sticky;top:0;height:100dvh;min-height:440px;margin:0 -16px 0;padding:clamp(96px,18vh,150px) 22px 26px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:end;z-index:1}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(22,24,36,.9) 0%,rgba(22,24,36,.5) 52%,rgba(22,24,36,.08) 100%),linear-gradient(0deg,var(--bg) 10%,rgba(22,24,36,0) 46%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(.8) contrast(1.05)}.reader-hero__eyebrow{font-family:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase}.reader-hero h1{max-width:680px;margin:13px 0 20px;color:#f5eee5;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(3rem,9vw,7rem);font-weight:500;letter-spacing:-.02em;line-height:.9;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{display:flex;flex-wrap:wrap;gap:7px;font-family:'DM Mono',ui-monospace,monospace}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.7rem;letter-spacing:.04em;backdrop-filter:blur(6px)}
+  .reader-body{position:relative;z-index:2;margin:0 -16px;padding:24px 16px 0;background:var(--bg);border-radius:26px 26px 0 0;box-shadow:0 -22px 50px rgba(0,0,0,.35)}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
  :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
-  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:340px;padding-top:84px}.reader-hero__image{object-position:62% center}}
+  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:380px;padding-top:92px}.reader-hero__image{object-position:62% center}.reader-body{border-radius:20px 20px 0 0}}
  @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
  </style>
 </head>
@@ -598,12 +602,14 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
         <?php if ($g['goal']): ?><span>🎯 <?= e($g['goal']) ?></span><?php endif; ?>
       </div>
     </section>
+    <div class="reader-body">
     <div class="raction">
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
     </div>
     <a class="reader__youtube" href="<?= e($ytUrl) ?>" target="_blank" rel="noopener noreferrer">▶ Rechercher les règles sur YouTube</a>
     <div class="rules"><?= md2html($md) ?></div>
+    </div>
   </div>
 <?php endif;
   if ($view === 'notfound'): ?>
