@@ -317,7 +317,7 @@ function chip_active(string $a, string $b): string { return $a === $b ? 'chip--a
 <style>
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 :root{--gold:#e8c46a;--bg:#0a0a14;--card:rgba(255,255,255,.035);--border:rgba(255,255,255,.07);--muted:#7a7a8c;--red:#e74c3c;--green:#2ecc71}
-html,body{height:100%}
+html,body{min-height:100%}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);background-image:radial-gradient(ellipse at 50% -10%,rgba(232,196,106,.08) 0%,transparent 55%);color:#e6e6ec;min-height:100dvh;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);-webkit-text-size-adjust:100%}
 a{color:inherit;text-decoration:none}
 button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
