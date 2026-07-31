@@ -36,7 +36,7 @@ class Vault {
     $pdo->exec('CREATE TABLE IF NOT EXISTS games(
       slug TEXT PRIMARY KEY, title TEXT, players TEXT, cards TEXT,
       difficulty TEXT, type TEXT, goal TEXT, category TEXT, color TEXT,
-      aliases TEXT, excerpt TEXT, sort INTEGER)');
+      aliases TEXT, excerpt TEXT, playerMin INTEGER, playerMax INTEGER, sort INTEGER)');
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_games_cat ON games(category)');
     $pdo->exec('CREATE TABLE IF NOT EXISTS kv(
       path TEXT PRIMARY KEY, mime TEXT, body BLOB, updated_at INTEGER)');
@@ -63,7 +63,7 @@ class Vault {
     $cs = strpos($f, 'CATEGORY_INFO'); $cs = strpos($f, '{', $cs); $ce = strpos($f, '};', $cs);
     $cats = json_decode(substr($f, $cs, $ce - $cs + 1), true) ?: [];
 
-    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,sort) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)');
+    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $kv  = $db->prepare('INSERT INTO kv(path,mime,body,updated_at) VALUES(?,?,?,?)');
     $i = 0;
     foreach ($games as $g) {
@@ -72,7 +72,8 @@ class Vault {
         $slug, $g['title'] ?? '', $g['players'] ?? '', $g['cards'] ?? '',
         $g['difficulty'] ?? '', $g['type'] ?? '', $g['goal'] ?? '',
         $g['category'] ?? '', $g['color'] ?? '#e8c46a', $g['aliases'] ?? '',
-        mb_strimwidth((string)($g['excerpt'] ?? ''), 0, 160, '…', 'UTF-8'), $i,
+        mb_strimwidth((string)($g['excerpt'] ?? ''), 0, 160, '…', 'UTF-8'),
+        (int)($g['playerMin'] ?? 0), (int)($g['playerMax'] ?? 0), $i,
       ]);
       $kv->execute(['/games/' . $slug . '.md', 'text/markdown', (string)($g['markdown'] ?? ''), time()]);
       $i++;
@@ -187,6 +188,15 @@ function remove_accents(string $s): string {
    HELPERS
    ============================================================ */
 function e($s): string { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
+
+/** Compacte le nb de joueurs en badge : « 2–6 j », « 4 j », « 3+ j ». */
+function player_short(array $g): string {
+  $min = (int)($g['playerMin'] ?? 0); $max = (int)($g['playerMax'] ?? 0);
+  if ($max && $max < $min) $max = 0;            // donnée source incohérente
+  if (!$min && !$max) return '';
+  if ($min && $max) return $min === $max ? $min . ' j' : $min . '–' . ($max >= 20 ? '20+' : $max) . ' j';
+  return $min ? $min . '+ j' : '≤' . $max . ' j';
+}
 
 /** Markdown → HTML (taille raisonnable : titres, gras, listes, tables, hr, emoji ok/no). */
 function md2html(string $md): string {
@@ -312,47 +322,51 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 a{color:inherit;text-decoration:none}
 button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
 
-/* HEADER */
-.head{position:sticky;top:0;z-index:20;background:linear-gradient(180deg,rgba(10,10,20,.96),rgba(10,10,20,.7) 85%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:10px 14px calc(8px + env(safe-area-inset-top))}
-.head__row{display:flex;align-items:center;gap:10px;max-width:680px;margin:0 auto}
-.brand{font-family:Georgia,serif;font-size:1.15rem;color:var(--gold);letter-spacing:1px;white-space:nowrap}
-.brand b{color:#fff;font-weight:400}
-.head__spacer{flex:1}
-.iconbtn{width:38px;height:38px;border-radius:11px;background:rgba(255,255,255,.05);display:flex;align-items:center;justify-content:center;color:#cfcfd8;position:relative}
-.iconbtn:active{transform:scale(.92)}
-.iconbtn .dot{position:absolute;top:-2px;right:-2px;background:var(--red);color:#fff;font-size:.6rem;font-weight:700;min-width:16px;height:16px;border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 4px}
+/* TOPFIX sticky : brand + recherche + filtres restent accrochés en haut */
+.topfix{position:sticky;top:0;z-index:30;background:rgba(10,10,20,.86);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);padding:calc(8px + env(safe-area-inset-top)) 14px 10px}
+.topfix__inner{max-width:680px;margin:0 auto}
+.brandrow{display:flex;align-items:center;gap:10px}
+.brand{font-family:Georgia,serif;font-size:1.1rem;color:var(--gold);letter-spacing:.5px;white-space:nowrap;display:flex;align-items:baseline;gap:8px}
+.brand b{color:#fff;font-weight:600}
+.brand .suits{color:var(--gold);opacity:.45;letter-spacing:3px;font-size:.8rem}
+.spacer{flex:1}
+.iconbtn{width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,.06);display:flex;align-items:center;justify-content:center;color:#d0d0da;position:relative;font-size:1.05rem;flex-shrink:0}
+.iconbtn:active{transform:scale(.9)}
+.iconbtn .dot{position:absolute;top:1px;right:1px;background:var(--red);color:#fff;font-size:.56rem;font-weight:700;min-width:18px;height:18px;border-radius:9px;display:flex;align-items:center;justify-content:center;padding:0 4px;border:2px solid var(--bg);box-sizing:content-box}
 
-/* SEARCH */
-.search{max-width:680px;margin:8px auto 0;padding:0 14px;display:flex;gap:8px}
-.search input{flex:1;background:var(--card);border:1px solid var(--border);color:#fff;border-radius:12px;padding:11px 14px;font-size:.95rem;outline:none}
-.search input:focus{border-color:rgba(232,196,106,.4)}
-.search input::placeholder{color:#555}
+/* SEARCH — dans le topfix, donc sticky */
+.search{margin-top:10px}
+.search input{width:100%;background:rgba(0,0,0,.32);border:1px solid var(--border);color:#fff;border-radius:14px;padding:13px 16px;font-size:1rem;outline:none;transition:border-color .15s,background .15s}
+.search input:focus{border-color:rgba(232,196,106,.5);background:rgba(0,0,0,.45)}
+.search input::placeholder{color:#56566a}
 
-/* FILTER CHIPS */
-.chips{max-width:680px;margin:10px auto 0;padding:0 14px;display:flex;gap:7px;overflow-x:auto;scrollbar-width:none}
+/* CHIPS — dans le topfix */
+.chips{margin-top:10px;display:flex;gap:7px;overflow-x:auto;scrollbar-width:none;padding:1px}
 .chips::-webkit-scrollbar{display:none}
-.chip{flex-shrink:0;padding:6px 13px;border-radius:18px;background:var(--card);border:1px solid var(--border);font-size:.78rem;color:#a8a8b6;white-space:nowrap;transition:.15s}
+.chip{flex-shrink:0;padding:7px 14px;border-radius:20px;background:rgba(255,255,255,.05);border:1px solid var(--border);font-size:.78rem;color:#a8a8b6;white-space:nowrap;transition:background .15s,color .15s,border-color .15s}
 .chip:active{transform:scale(.95)}
-.chip--active{background:rgba(232,196,106,.16);border-color:rgba(232,196,106,.4);color:var(--gold)}
+.chip--active{background:var(--gold);border-color:var(--gold);color:#1a1a24;font-weight:600}
 
-/* GAME LIST */
-.list{max-width:680px;margin:0 auto;padding:12px 14px 90px;display:flex;flex-direction:column;gap:10px}
-.tile{display:flex;align-items:center;gap:13px;padding:14px;background:var(--card);border:1px solid var(--border);border-radius:16px;transition:transform .12s,border-color .15s;position:relative;overflow:hidden}
-.tile:active{transform:scale(.985)}
-.tile::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--c,var(--gold))}
-.tile__ic{width:46px;height:46px;border-radius:12px;background:rgba(255,255,255,.04);display:flex;align-items:center;justify-content:center;font-size:1.5rem;flex-shrink:0;margin-left:2px}
-.tile__body{flex:1;min-width:0}
-.tile__title{font-size:1rem;font-weight:600;color:#fff;margin-bottom:3px}
-.tile__sub{font-size:.74rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.tile__meta{display:flex;flex-direction:column;align-items:flex-end;gap:5px;flex-shrink:0}
-.badge{font-size:.64rem;padding:2px 8px;border-radius:8px;background:rgba(255,255,255,.05);white-space:nowrap;color:var(--gold)}
-.badge--muted{color:var(--muted)}
-.heart{width:30px;height:30px;display:flex;align-items:center;justify-content:center;color:#555;font-size:1rem}
-.heart.on{color:var(--red)}
+/* LISTE */
+.list{max-width:680px;margin:0 auto;padding:12px 14px 90px;display:flex;flex-direction:column;gap:8px}
+.game{display:flex;align-items:center;gap:13px;padding:12px 13px;background:var(--card);border:1px solid var(--border);border-radius:15px;transition:transform .12s,background .15s,border-color .15s;position:relative}
+.game:active{transform:scale(.99);background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.12)}
+.game__mono{width:42px;height:42px;border-radius:11px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-family:Georgia,serif;font-size:1.15rem;font-weight:600;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#e8c46a) 15%,transparent);border:1px solid color-mix(in srgb,var(--c,#e8c46a) 32%,transparent)}
+.game__main{flex:1;min-width:0}
+.game__title{font-size:1rem;font-weight:600;color:#f2f2f8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.25}
+.game__tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.tag{font-size:.66rem;padding:2px 8px;border-radius:7px;background:rgba(255,255,255,.05);color:#9696a4;white-space:nowrap;line-height:1.6}
+.tag--p{color:var(--gold);background:rgba(232,196,106,.1)}
+.tag--d{color:#e09a6a;background:rgba(224,154,106,.1)}
+.tag--v{color:var(--gold);background:rgba(232,196,106,.14);font-weight:600}
+.game__fav{width:44px;height:44px;display:flex;align-items:center;justify-content:center;color:#48485a;font-size:1.15rem;flex-shrink:0;border-radius:50%}
+.game__fav:active{transform:scale(.82)}
+.game__fav.on{color:var(--red)}
 
-.empty{text-align:center;padding:50px 20px;color:var(--muted)}
-.empty__big{font-size:2.4rem;margin-bottom:10px}
-.count-line{text-align:center;font-size:.74rem;color:#555;padding:6px 0 0}
+.count-line{text-align:center;font-size:.72rem;color:#52525e;padding:6px 0 2px;letter-spacing:.3px}
+.empty{text-align:center;padding:60px 24px;color:var(--muted)}
+.empty__big{font-size:2.6rem;margin-bottom:12px;opacity:.45}
+.empty h2{font-size:1.05rem;color:#c0c0cc;font-weight:600;margin-bottom:4px}
 
 /* READER */
 .reader{max-width:680px;margin:0 auto;padding:0 16px 70px}
@@ -438,51 +452,57 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 else:
   // ----- HOME / TOP -----
   $isTop = ($view === 'top');
-  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games(['q' => $q, 'cat' => $cat]);
+  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games([]);
 ?>
-  <header class="head">
-    <div class="head__row">
-      <span class="brand">PK<b>cards</b></span>
-      <span class="head__spacer"></span>
-      <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>" title="Meilleurs jeux" aria-label="Top">🏆</a>
-      <button class="iconbtn" id="favOpen" title="Favoris" aria-label="Favoris">♥<span class="dot" id="favDot" hidden>0</span></button>
+  <div class="topfix">
+    <div class="topfix__inner">
+      <div class="brandrow">
+        <span class="brand">PK<b>cards</b><span class="suits">♠♥♦♣</span></span>
+        <span class="spacer"></span>
+        <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>" title="Meilleurs jeux" aria-label="Top">🏆</a>
+        <button class="iconbtn" id="favOpen" title="Favoris" aria-label="Favoris">♥<span class="dot" id="favDot" hidden>0</span></button>
+      </div>
+      <?php if (!$isTop): ?>
+      <div class="search">
+        <input type="search" id="searchInput" placeholder="Rechercher un jeu, un type…" autocomplete="off" autocapitalize="off" spellcheck="false">
+      </div>
+      <div class="chips" id="chips">
+        <button class="chip chip--active" data-cat="">Tous</button>
+        <?php foreach ($CATEGORIES as $key => $info): ?>
+          <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> · <?= (int)($info['count'] ?? 0) ?></button>
+        <?php endforeach; ?>
+      </div>
+      <?php endif; ?>
     </div>
-  </header>
-
-  <form class="search" method="get" action="">
-    <input type="search" name="q" value="<?= e($q) ?>" placeholder="Rechercher un jeu, un type…" autocomplete="off" autocapitalize="off" spellcheck="false">
-    <?php if ($cat): ?><input type="hidden" name="cat" value="<?= e($cat) ?>"><?php endif; ?>
-  </form>
-
-  <?php if (!$isTop): ?>
-  <div class="chips">
-    <a class="chip <?= $cat === '' ? 'chip--active' : '' ?>" href="<?= e(qs_home()) ?>">Tous</a>
-    <?php foreach ($CATEGORIES as $key => $info): ?>
-      <a class="chip <?= $cat === $key ? 'chip--active' : '' ?>" href="<?= e(qs_home(['cat' => $key])) ?>"><?= e($info['label'] ?? $key) ?> · <?= (int)($info['count'] ?? 0) ?></a>
-    <?php endforeach; ?>
   </div>
-  <?php endif; ?>
 
-  <p class="count-line"><?= $isTop ? 'Classement par votes' : (count($games) . ' jeu(x)' . ($q ? ' pour « ' . e($q) . ' »' : '')) ?></p>
+  <p class="count-line" id="countLine"><?= count($games) ?> jeu(x)</p>
 
-  <div class="list">
-    <?php if (!$games): ?>
-      <div class="empty"><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
-    <?php endif; ?>
+  <div class="list" id="list">
     <?php foreach ($games as $g):
-      $c = $g['color'] ?: '#e8c46a'; ?>
-      <a class="tile" style="--c:<?= e($c) ?>" href="<?= e(qs_game($g['slug'], $cat ? ['cat' => $cat] : [])) ?>">
-        <div class="tile__ic"><?= e(game_glyph($g['slug'])) ?></div>
-        <div class="tile__body">
-          <div class="tile__title"><?= e($g['title']) ?></div>
-          <div class="tile__sub"><?= e(trim(($g['players'] ? '👥 ' . $g['players'] . ' · ' : '') . ($g['type'] ?: '') . ($g['difficulty'] ? ' · ' . $g['difficulty'] : ''), ' · ')) ?: e(mb_strimwidth($g['excerpt'], 0, 60, '…', 'UTF-8')) ?></div>
-        </div>
-        <div class="tile__meta">
-          <?php if ((int)$g['votes'] > 0): ?><span class="badge">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
-          <button class="heart" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
-        </div>
+      $c = $g['color'] ?: '#e8c46a';
+      $pshort = player_short($g);
+      $init = mb_strtoupper(mb_substr(preg_replace('/^[«"\']/','',trim($g['title'])), 0, 1, 'UTF-8'), 'UTF-8'); ?>
+      <a class="game" style="--c:<?= e($c) ?>"
+         href="<?= e(qs_game($g['slug'])) ?>"
+         data-title="<?= e(mb_strtolower((string)$g['title'])) ?>"
+         data-aliases="<?= e(mb_strtolower((string)$g['aliases'])) ?>"
+         data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
+         data-cat="<?= e($g['category']) ?>">
+        <span class="game__mono"><?= e($init ?: '🂠') ?></span>
+        <span class="game__main">
+          <span class="game__title"><?= e($g['title']) ?></span>
+          <span class="game__tags">
+            <?php if ((int)$g['votes'] > 0): ?><span class="tag tag--v">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
+            <?php if ($pshort): ?><span class="tag tag--p">👥 <?= e($pshort) ?></span><?php endif; ?>
+            <?php if ($g['type']): ?><span class="tag"><?= e($g['type']) ?></span><?php endif; ?>
+            <?php if ($g['difficulty']): ?><span class="tag tag--d"><?= e($g['difficulty']) ?></span><?php endif; ?>
+          </span>
+        </span>
+        <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
       </a>
     <?php endforeach; ?>
+    <div class="empty" id="emptyState" hidden><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
   </div>
 <?php endif; ?>
 
@@ -572,8 +592,38 @@ if(lb){ lb.addEventListener('click', async ()=>{
   else toast(r&&r.error==='too_soon'?'Trop vite !':'Vote bloqué');
 });}
 
+// ---- LIVE FILTER (home : recherche + chips instantanés) ----
+const listEl = document.getElementById('list');
+const searchInputEl = document.getElementById('searchInput');
+const chipsEl = document.getElementById('chips');
+const countLineEl = document.getElementById('countLine');
+const emptyState = document.getElementById('emptyState');
+let activeCat = '';
+function applyFilter(){
+  if(!listEl) return;
+  const q = searchInputEl ? searchInputEl.value.trim().toLowerCase() : '';
+  let shown = 0;
+  listEl.querySelectorAll('.game').forEach(el=>{
+    const okQ = !q || el.dataset.title.includes(q) || el.dataset.aliases.includes(q) || el.dataset.type.includes(q);
+    const okC = !activeCat || el.dataset.cat === activeCat;
+    const show = okQ && okC;
+    el.style.display = show ? '' : 'none';
+    if(show) shown++;
+  });
+  if(countLineEl) countLineEl.textContent = shown + (shown > 1 ? ' jeux' : ' jeu');
+  if(emptyState) emptyState.hidden = shown !== 0;
+}
+if(searchInputEl) searchInputEl.addEventListener('input', applyFilter);
+if(chipsEl) chipsEl.addEventListener('click', e=>{
+  const c = e.target.closest('.chip'); if(!c) return;
+  activeCat = c.dataset.cat || '';
+  chipsEl.querySelectorAll('.chip').forEach(x => x.classList.toggle('chip--active', x === c));
+  applyFilter();
+});
+
 // ---- INIT ----
 syncFavUI();
+applyFilter();
 if(email) loadFavs();
 </script>
 </body>
