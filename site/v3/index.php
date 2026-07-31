@@ -37,9 +37,11 @@ class Vault {
       slug TEXT PRIMARY KEY, title TEXT, players TEXT, cards TEXT,
       difficulty TEXT, type TEXT, goal TEXT, category TEXT, color TEXT,
       aliases TEXT, excerpt TEXT, playerMin INTEGER, playerMax INTEGER, sort INTEGER,
-      is_clm INTEGER NOT NULL DEFAULT 0)');
+      is_clm INTEGER NOT NULL DEFAULT 0, is_mistigri INTEGER NOT NULL DEFAULT 0, image TEXT)');
     $columns = array_column($pdo->query('PRAGMA table_info(games)')->fetchAll(), 'name');
     if (!in_array('is_clm', $columns, true)) $pdo->exec('ALTER TABLE games ADD COLUMN is_clm INTEGER NOT NULL DEFAULT 0');
+    if (!in_array('is_mistigri', $columns, true)) $pdo->exec('ALTER TABLE games ADD COLUMN is_mistigri INTEGER NOT NULL DEFAULT 0');
+    if (!in_array('image', $columns, true)) $pdo->exec('ALTER TABLE games ADD COLUMN image TEXT');
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_games_cat ON games(category)');
     $pdo->exec('CREATE TABLE IF NOT EXISTS kv(
       path TEXT PRIMARY KEY, mime TEXT, body BLOB, updated_at INTEGER)');
@@ -50,6 +52,7 @@ class Vault {
     self::$pdo = $pdo;
      self::seed();
      self::importClm();
+     self::importMistigri();
      return $pdo;
   }
 
@@ -111,6 +114,50 @@ class Vault {
       $values = [$title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
       if (!$update->rowCount()) $insert->execute([$slug, ...array_slice($values, 0, 1), $players, $cards, 'CLM', 'Règle maison', '', 'clm', '#ca9ee6', '', $values[7], $min, $max, $sort++, 1]);
+      self::write('/games/' . $slug . '.md', $md, 'text/markdown');
+    }
+  }
+
+  /** Importe les règles Mistigri (jeuxdecartes1.e-monsite.com) avec leur image. */
+  static function importMistigri(): void {
+    $dir = __DIR__ . '/../../assets/rules/rules_mistigri';
+    if (!is_dir($dir)) return;
+    $db = self::$pdo;
+    $insert = $db->prepare('INSERT OR IGNORE INTO games
+      (slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm,is_mistigri,image)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,goal=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_mistigri=1,image=? WHERE slug=?');
+    $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
+    $mimes = ['jpg' => 'image/jpeg', 'jpeg' => 'image/jpeg', 'png' => 'image/png', 'gif' => 'image/gif', 'webp' => 'image/webp'];
+    foreach (glob($dir . '/*.md') ?: [] as $file) {
+      $slug = pathinfo($file, PATHINFO_FILENAME);
+      $md = file_get_contents($file) ?: '';
+      if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
+      $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
+      $info = [];
+      if (preg_match_all('/♦\s*\*\*([^*]+?)\*\*\s*:\s*(.*)$/mu', $md, $m, PREG_SET_ORDER))
+        foreach ($m as $mm) $info[trim($mm[1])] = trim($mm[2]);
+      $players = $info['Nombre de joueurs'] ?? '';
+      $cards = $info['Matériel'] ?? '';
+      $goal = $info['Objectif'] ?? '';
+      preg_match('/(\d+)\s*(?:à|–|et)\s*(\d+)/iu', $players, $rng);
+      $min = (int)($rng[1] ?? 0); $max = (int)($rng[2] ?? 0);
+      if (!$min && preg_match('/(\d+)\s*joueurs?/iu', $players, $one)) $min = $max = (int)$one[1];
+      $image = '';
+      if (preg_match('/^!\[[^\]]*\]\(images\/([^)]+)\)/mu', $md, $img)) {
+        $imgPath = $dir . '/images/' . $img[1];
+        if (is_file($imgPath)) {
+          $image = '/images/' . $img[1];
+          $ext = strtolower(pathinfo($imgPath, PATHINFO_EXTENSION));
+          self::write($image, file_get_contents($imgPath) ?: '', $mimes[$ext] ?? 'image/jpeg');
+        }
+        $md = preg_replace('/\]\(images\/([^)]+)\)/', '](?img=/images/$1)', $md);
+      }
+      $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
+      $excerpt = mb_strimwidth($plain, 0, 160, '…', 'UTF-8');
+      $values = [$title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', $excerpt, $min, $max, $image, $slug];
+      $update->execute($values);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', '', $excerpt, $min, $max, $sort++, 0, 1, $image]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
   }
@@ -232,6 +279,36 @@ function player_short(array $g): string {
   return $min ? $min . '+ j' : '≤' . $max . ' j';
 }
 
+/** Photos Wikimedia Commons, choisies par famille et stables pour chaque jeu. */
+function hero_photo(array $g): string {
+  $photos = [
+    'general' => [
+      'https://upload.wikimedia.org/wikipedia/commons/e/e9/Ace_playing_cards.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/2/26/Playing_card_deck%2C_side_view-92656.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/8/87/Valentin_de_Boulogne_-_Soldiers_Playing_Cards_and_Dice_%28The_Cheats%29.jpg',
+    ],
+    'poker' => [
+      'https://upload.wikimedia.org/wikipedia/commons/2/26/Poker_closeup.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/4/40/Two_poker_cards_and_poker_chips_20170611.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/7/7c/Poker_cards_52.jpg',
+    ],
+    'solo' => [
+      'https://upload.wikimedia.org/wikipedia/commons/e/e5/Carpet_patience_2.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/4/47/Spider_Solitaire_Card_Game.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/f/fd/Solitaire_%28356533432%29.jpg',
+    ],
+    'tarot' => [
+      'https://upload.wikimedia.org/wikipedia/commons/3/37/Tarot_cards_-_3_card_spread.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/8/83/Tarot_cards_-_3_card_spread_with_candles.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/3/34/Tarot_cards_-_Celtic_cross_spread.jpg',
+    ],
+  ];
+  $type = mb_strtolower((string)($g['type'] ?? ''));
+  $set = str_contains($type, 'patience') ? 'solo' : (str_contains($type, 'tarot') ? 'tarot' : (str_contains($type, 'hasard') || str_contains($type, 'enchères') ? 'poker' : 'general'));
+  $images = $photos[$set];
+  return $images[abs(crc32((string)$g['slug'])) % count($images)];
+}
+
 /** Markdown → HTML (taille raisonnable : titres, gras, listes, tables, hr, emoji ok/no). */
 function md2html(string $md): string {
   $md = preg_replace('/^---+\s*$/m', "\n<hr>\n", $md);
@@ -239,7 +316,11 @@ function md2html(string $md): string {
   $md = preg_replace('/^###\s+(.+)$/m', '<h3>$1</h3>', $md);
   $md = preg_replace('/^##\s+(.+)$/m', '<h2>$1</h2>', $md);
   $md = preg_replace('/^#\s+(.+)$/m', '<h1>$1</h1>', $md);
+  $md = preg_replace('/\*\*\*(.+?)\*\*\*/', '<strong><em>$1</em></strong>', $md);
   $md = preg_replace('/\*\*(.+?)\*\*/', '<strong>$1</strong>', $md);
+  $md = preg_replace('/!\[([^\]]*)\]\(([^)\s]+)\)/', '<img src="$2" alt="$1" loading="lazy">', $md);
+  $md = preg_replace('/\[([^\]]+)\]\(([^)\s]+)\)/', '<a href="$2" target="_blank" rel="noopener">$1</a>', $md);
+  $md = preg_replace('/^>\s*(.+)$/m', '<blockquote>$1</blockquote>', $md);
   $md = preg_replace('/✅/', '<span class="ok">✅</span>', $md);
   $md = preg_replace('/❌/', '<span class="no">❌</span>', $md);
   $lines = explode("\n", $md);
@@ -260,7 +341,7 @@ function md2html(string $md): string {
     if ($inO) { $html[] = '</ol>'; $inO = false; }
     if ($t === '') continue;
     if ($t === '<hr>') { $html[] = '<hr>'; continue; }
-    if (preg_match('/^<h[1-4]/', $t)) { $html[] = $t; continue; }
+    if (preg_match('/^<h[1-4]/', $t) || preg_match('/^<blockquote/', $t)) { $html[] = $t; continue; }
     $html[] = "<p>$t</p>";
   }
   if ($inT) $html[] = '</table>';
@@ -386,6 +467,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .game{display:flex;align-items:center;gap:13px;padding:12px 13px;background:var(--card);border:1px solid var(--border);border-radius:15px;transition:transform .12s,background .15s,border-color .15s;position:relative}
 .game:active{transform:scale(.99);background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.12)}
 .game__mono{width:42px;height:42px;border-radius:11px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-family:Georgia,serif;font-size:1.15rem;font-weight:600;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#e8c46a) 15%,transparent);border:1px solid color-mix(in srgb,var(--c,#e8c46a) 32%,transparent)}
+.game__thumb{width:42px;height:42px;border-radius:11px;flex-shrink:0;object-fit:cover;background:rgba(255,255,255,.04);border:1px solid var(--border)}
 .game__main{flex:1;min-width:0}
 .game__title{font-size:1rem;font-weight:600;color:#f2f2f8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.25}
 .game__tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
@@ -431,6 +513,9 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .rules td{padding:7px 10px;border:1px solid var(--border)}
 .rules td:first-child{color:var(--gold);font-weight:600}
 .rules .ok{color:var(--green)}.rules .no{color:var(--red)}
+.rules img{max-width:100%;border-radius:12px;margin:2px 0 10px}
+.rules blockquote{margin:12px 0;padding:8px 14px;border-left:3px solid var(--gold);background:rgba(255,255,255,.03);color:var(--muted);font-size:.85rem}
+.rules blockquote a{color:var(--gold)}
 
 /* TOAST + FAV SHEET */
 #toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%);background:rgba(20,20,32,.96);border:1px solid var(--border);color:#fff;padding:10px 18px;border-radius:12px;font-size:.85rem;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
@@ -475,12 +560,13 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .game{padding:17px 15px;background:var(--card);border-color:var(--border);border-radius:14px;transition:transform .18s ease,background .18s ease,border-color .18s ease;min-height:102px;overflow:hidden}.game::before{content:'';position:absolute;inset:0 0 auto;height:3px;background:var(--c,var(--gold));opacity:.72}.game:hover{transform:translateY(-3px);background:var(--card-2);border-color:rgba(202,158,230,.45)}.game:active{transform:scale(.99);background:var(--card-2);border-color:var(--gold)}
   .game__mono{width:46px;height:46px;border-radius:12px;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#ca9ee6) 15%,transparent);border-color:color-mix(in srgb,var(--c,#ca9ee6) 32%,transparent);font-size:1.35rem}.game__title{color:var(--text);font-weight:650}.tag{background:rgba(198,208,245,.07);color:var(--muted)}.tag--p{color:var(--blue);background:rgba(140,170,238,.12)}.tag--d{color:var(--peach);background:rgba(239,159,118,.12)}.tag--v{color:var(--gold);background:rgba(202,158,230,.14)}
  .game__fav{color:#737b9c;border-radius:12px;transition:color .18s,background .18s}.game__fav:hover{color:var(--red);background:rgba(231,130,132,.1)}
- .tag--clm{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
+  .game__thumb{width:46px;height:46px;border-radius:12px}
+  .tag--clm,.tag--mistigri{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
   .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
-  .reader-hero{--hero-c:var(--gold);position:relative;min-height:310px;margin:0 -16px 26px;padding:78px 22px 24px;overflow:hidden;background:var(--card);border-bottom:1px solid var(--border);isolation:isolate}.reader-hero::before{content:'';position:absolute;z-index:-1;width:280px;height:280px;right:-76px;top:-82px;border:1px solid color-mix(in srgb,var(--hero-c) 45%,transparent);border-radius:50%;box-shadow:0 0 0 34px color-mix(in srgb,var(--hero-c) 8%,transparent),0 0 0 70px color-mix(in srgb,var(--hero-c) 4%,transparent)}.reader-hero::after{content:'♠  ♥  ♦  ♣';position:absolute;z-index:-1;right:18px;bottom:28px;color:color-mix(in srgb,var(--hero-c) 72%,transparent);font-family:Georgia,serif;font-size:1rem;letter-spacing:.45em;opacity:.68;transform:rotate(-16deg)}.reader-hero__wash{position:absolute;inset:0;z-index:-2;background:linear-gradient(110deg,color-mix(in srgb,var(--hero-c) 16%,var(--bg)) 0%,transparent 58%)}.reader-hero__eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase}.reader-hero h1{max-width:680px;margin:13px 0 20px;color:var(--text);font-family:Georgia,serif;font-size:clamp(2.6rem,8vw,6.4rem);font-weight:400;letter-spacing:-.06em;line-height:.88;text-wrap:balance}.reader-hero__meta{display:flex;flex-wrap:wrap;gap:7px}.reader-hero__meta span{padding:5px 10px;border:1px solid color-mix(in srgb,var(--hero-c) 30%,transparent);border-radius:8px;background:color-mix(in srgb,var(--hero-c) 10%,transparent);color:var(--text);font-size:.72rem}.reader-hero__stamp{position:absolute;right:clamp(25px,10vw,120px);top:90px;color:var(--hero-c);font-family:Georgia,serif;font-size:clamp(7rem,17vw,13rem);line-height:.7;opacity:.13;transform:rotate(12deg)}
+  .reader-hero{--hero-c:var(--gold);position:relative;min-height:390px;margin:0 -16px 26px;padding:104px 22px 28px;overflow:hidden;background:#1d2030;border-bottom:1px solid var(--border);isolation:isolate;display:flex;flex-direction:column;justify-content:end}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(22,24,36,.92) 0%,rgba(22,24,36,.57) 52%,rgba(22,24,36,.16) 100%),linear-gradient(0deg,rgba(22,24,36,.65),transparent 52%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(.8) contrast(1.05)}.reader-hero__eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase}.reader-hero h1{max-width:680px;margin:13px 0 20px;color:#f5eee5;font-family:Georgia,serif;font-size:clamp(2.6rem,8vw,6.4rem);font-weight:400;letter-spacing:-.06em;line-height:.88;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{display:flex;flex-wrap:wrap;gap:7px}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.72rem;backdrop-filter:blur(6px)}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
  :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
-  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:280px;padding-top:78px}.reader-hero__stamp{right:-8px;top:94px;font-size:8rem}}
+  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.reader-hero{min-height:340px;padding-top:84px}.reader-hero__image{object-position:62% center}}
  @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
  </style>
 </head>
@@ -492,7 +578,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   if ($g):
     $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
     $ytUrl = 'https://www.youtube.com/results?search_query=' . rawurlencode($g['title'] . ' règles jeu de cartes');
-    $heroGlyph = (int)($g['is_clm'] ?? 0) ? '♥' : (['solo' => '♠', 'duo' => '♦', 'petit-groupe' => '♣', 'grand-groupe' => '♥'][$g['category']] ?? '🂠');
+    $heroPhoto = $g['image'] ? '?img=' . urlencode($g['image']) : hero_photo($g);
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
 ?>
@@ -502,8 +588,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <span style="color:#777;font-size:.8rem"><?= e($g['type'] ?: 'Jeu de cartes') ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
-      <div class="reader-hero__wash"></div>
-      <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?></div>
+      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" alt="Photographie de cartes pour <?= e($g['title']) ?>" referrerpolicy="no-referrer">
+      <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> · <span style="color:var(--green)">MISTIGRI</span><?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <div class="reader-hero__meta">
         <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
@@ -511,7 +597,6 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
         <?php if ($g['difficulty']): ?><span><?= e($g['difficulty']) ?></span><?php endif; ?>
         <?php if ($g['goal']): ?><span>🎯 <?= e($g['goal']) ?></span><?php endif; ?>
       </div>
-      <div class="reader-hero__stamp" aria-hidden="true"><?= e($heroGlyph) ?></div>
     </section>
     <div class="raction">
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
@@ -581,7 +666,9 @@ else:
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
+        <?php if ($g['image']): ?><img class="game__thumb" src="?img=<?= e(urlencode($g['image'])) ?>" alt="" loading="lazy"><?php else: ?>
         <span class="game__mono"><?= e($init ?: '🂠') ?></span>
+        <?php endif; ?>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
           <span class="game__tags">
@@ -589,6 +676,7 @@ else:
             <?php if ($pshort): ?><span class="tag tag--p">👥 <?= e($pshort) ?></span><?php endif; ?>
              <?php if ($g['type']): ?><span class="tag"><?= e($g['type']) ?></span><?php endif; ?>
              <?php if ((int)($g['is_clm'] ?? 0)): ?><span class="tag tag--clm">CLM</span><?php endif; ?>
+            <?php if ((int)($g['is_mistigri'] ?? 0)): ?><span class="tag tag--mistigri">Mistigri</span><?php endif; ?>
              <?php if ($g['difficulty']): ?><span class="tag tag--d"><?= e($g['difficulty']) ?></span><?php endif; ?>
           </span>
         </span>
