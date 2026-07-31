@@ -1,0 +1,603 @@
+<?php
+/* ==================================================================
+   PKcards v3 — Monolithe autoportant
+   ------------------------------------------------------------------
+   2 fichiers : index.php (tout le code) + vault.sqlite (toutes les données)
+   Zéro config : `new PDO('sqlite:'.__DIR__.'/vault.sqlite')`
+   Zéro dépendance : PHP + SQLite, ni CDN, ni build, ni .htaccess requis.
+   ------------------------------------------------------------------
+   index.php contient : la classe Vault, le routeur, les templates,
+   le CSS, le JS, l'API, les contrôleurs.
+   vault.sqlite contient : jeux, markdown, catégories, votes, favoris,
+   et tout blob arbitraire via le store KV (Vault::read/write/json/image).
+   ================================================================== */
+
+declare(strict_types=1);
+error_reporting(E_ERROR | E_PARSE);
+
+/* ============================================================
+   VAULT — mini-lib d'accès. Le coeur de l'archi.
+   La plupart du code ne touche pas SQLite directement : il parle au Vault.
+   ============================================================ */
+class Vault {
+
+  static ?PDO $pdo = null;
+  const PATH = __DIR__ . '/vault.sqlite';
+
+  /** PDO singleton. Crée le schéma + seed à la première ouverture. */
+  static function db(): PDO {
+    if (self::$pdo !== null) return self::$pdo;
+    $pdo = new PDO('sqlite:' . self::PATH, null, null, [
+      PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
+      PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+    ]);
+    $pdo->exec('PRAGMA journal_mode=WAL');
+    $pdo->exec('PRAGMA foreign_keys=ON');
+    $pdo->exec('CREATE TABLE IF NOT EXISTS games(
+      slug TEXT PRIMARY KEY, title TEXT, players TEXT, cards TEXT,
+      difficulty TEXT, type TEXT, goal TEXT, category TEXT, color TEXT,
+      aliases TEXT, excerpt TEXT, sort INTEGER)');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_games_cat ON games(category)');
+    $pdo->exec('CREATE TABLE IF NOT EXISTS kv(
+      path TEXT PRIMARY KEY, mime TEXT, body BLOB, updated_at INTEGER)');
+    $pdo->exec('CREATE TABLE IF NOT EXISTS votes(game_id TEXT PRIMARY KEY, count INTEGER NOT NULL DEFAULT 0)');
+    $pdo->exec('CREATE TABLE IF NOT EXISTS vote_log(id INTEGER PRIMARY KEY AUTOINCREMENT, game_id TEXT, ip TEXT, created_at INTEGER)');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_vl ON vote_log(ip, created_at)');
+    $pdo->exec('CREATE TABLE IF NOT EXISTS favorites(email TEXT, game_id TEXT, created_at INTEGER, PRIMARY KEY(email, game_id))');
+    self::$pdo = $pdo;
+    self::seed();
+    return $pdo;
+  }
+
+  /** Seed one-shot si base vide : lit ../v1/data.js (présent en dev only).
+   *  Le markdown de chaque jeu va dans le KV (/games/<slug>.md), l'index
+   *  structuré va dans la table games. Les catégories → /config/categories.json. */
+  static function seed(): void {
+    $db = self::$pdo;
+    if ((int)$db->query('SELECT COUNT(*) FROM games')->fetchColumn() > 0) return;
+    $src = __DIR__ . '/../v1/data.js';
+    if (!is_file($src)) return;
+    $f = file_get_contents($src);
+    $s = strpos($f, '['); $e = strpos($f, '];', $s);
+    $games = json_decode(substr($f, $s, $e - $s + 1), true) ?: [];
+    $cs = strpos($f, 'CATEGORY_INFO'); $cs = strpos($f, '{', $cs); $ce = strpos($f, '};', $cs);
+    $cats = json_decode(substr($f, $cs, $ce - $cs + 1), true) ?: [];
+
+    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,sort) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)');
+    $kv  = $db->prepare('INSERT INTO kv(path,mime,body,updated_at) VALUES(?,?,?,?)');
+    $i = 0;
+    foreach ($games as $g) {
+      $slug = is_string($g['id'] ?? null) && $g['id'] !== '' ? $g['id'] : self::slug($g['title'] ?? 'game-'.$i);
+      $ins->execute([
+        $slug, $g['title'] ?? '', $g['players'] ?? '', $g['cards'] ?? '',
+        $g['difficulty'] ?? '', $g['type'] ?? '', $g['goal'] ?? '',
+        $g['category'] ?? '', $g['color'] ?? '#e8c46a', $g['aliases'] ?? '',
+        mb_strimwidth((string)($g['excerpt'] ?? ''), 0, 160, '…', 'UTF-8'), $i,
+      ]);
+      $kv->execute(['/games/' . $slug . '.md', 'text/markdown', (string)($g['markdown'] ?? ''), time()]);
+      $i++;
+    }
+    $kv->execute(['/config/categories.json', 'application/json', json_encode($cats), time()]);
+  }
+
+  /* ---- Store KV générique (la vision : markdown, json, images, blobs) ---- */
+  static function read(string $path): ?string {
+    $st = self::db()->prepare('SELECT body FROM kv WHERE path=?');
+    $st->execute([$path]);
+    $r = $st->fetchColumn();
+    return $r === false ? null : (string)$r;
+  }
+  static function write(string $path, string $body, string $mime = 'text/plain'): void {
+    $st = self::db()->prepare('INSERT INTO kv(path,mime,body,updated_at) VALUES(?,?,?,?)
+      ON CONFLICT(path) DO UPDATE SET body=excluded.body, mime=excluded.mime, updated_at=excluded.updated_at');
+    $st->execute([$path, $mime, $body, time()]);
+  }
+  static function json(string $path) {
+    $b = self::read($path);
+    return $b === null ? null : json_decode($b, true);
+  }
+  static function image(string $path): ?array {
+    $st = self::db()->prepare('SELECT mime, body FROM kv WHERE path=?');
+    $st->execute([$path]);
+    $r = $st->fetch();
+    return $r ?: null;
+  }
+
+  /* ---- Données applicatives ---- */
+  /** Liste de jeux filtrable/triable. opts: q, cat, top, limit. */
+  static function games(array $o = []): array {
+    $top = !empty($o['top']);
+    if ($top) {
+      $sql = 'SELECT g.*, v.count AS votes
+              FROM games g JOIN votes v ON v.game_id = g.slug
+              WHERE v.count > 0 ORDER BY v.count DESC, g.title ASC';
+      $st = self::db()->prepare($sql . (isset($o['limit']) ? ' LIMIT ' . (int)$o['limit'] : ''));
+      $st->execute([]);
+      return $st->fetchAll();
+    }
+    $w = []; $a = [];
+    if (!empty($o['cat'])) { $w[] = 'category=?'; $a[] = $o['cat']; }
+    if (!empty($o['q'])) {
+      $w[] = '(title LIKE ? OR aliases LIKE ? OR type LIKE ? OR excerpt LIKE ?)';
+      $q = '%' . $o['q'] . '%'; array_push($a, $q, $q, $q, $q);
+    }
+    $sql = 'SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games';
+    if ($w) $sql .= ' WHERE ' . implode(' AND ', $w);
+    $sql .= ' ORDER BY sort ASC';
+    if (isset($o['limit'])) $sql .= ' LIMIT ' . (int)$o['limit'];
+    $st = self::db()->prepare($sql); $st->execute($a);
+    return $st->fetchAll();
+  }
+
+  static function game(string $slug): ?array {
+    $st = self::db()->prepare('SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games WHERE slug=?');
+    $st->execute([$slug]);
+    $g = $st->fetch();
+    return $g ?: null;
+  }
+
+  /** Vote +1 (throttle par IP). Retourne le nouveau total. */
+  static function vote(string $slug, string $ip, int $now): array {
+    $db = self::db();
+    $st = $db->prepare('SELECT MAX(created_at) FROM vote_log WHERE ip=? AND game_id=?');
+    $st->execute([$ip, $slug]);
+    if (($last = (int)$st->fetchColumn()) && ($now - $last) < 5)
+      return ['error' => 429, 'msg' => 'too_soon'];
+    $st = $db->prepare('SELECT COUNT(*) FROM vote_log WHERE ip=? AND created_at>?');
+    $st->execute([$ip, $now - 60]);
+    if ((int)$st->fetchColumn() >= 40)
+      return ['error' => 429, 'msg' => 'rate_limited'];
+
+    $db->beginTransaction();
+    $db->prepare('INSERT INTO votes(game_id,count) VALUES(?,1)
+                  ON CONFLICT(game_id) DO UPDATE SET count=count+1')->execute([$slug]);
+    $db->prepare('INSERT INTO vote_log(game_id,ip,created_at) VALUES(?,?,?)')->execute([$slug, $ip, $now]);
+    $db->commit();
+    $st = $db->prepare('SELECT count FROM votes WHERE game_id=?'); $st->execute([$slug]);
+    return ['count' => (int)$st->fetchColumn()];
+  }
+
+  static function favToggle(string $email, string $slug, bool $add): array {
+    $db = self::db();
+    if ($add) $db->prepare('INSERT OR IGNORE INTO favorites(email,game_id,created_at) VALUES(?,?,?)')->execute([$email, $slug, time()]);
+    else      $db->prepare('DELETE FROM favorites WHERE email=? AND game_id=?')->execute([$email, $slug]);
+    $st = $db->prepare('SELECT game_id FROM favorites WHERE email=? ORDER BY created_at DESC');
+    $st->execute([$email]);
+    return array_column($st->fetchAll(), 'game_id');
+  }
+  static function favs(string $email): array {
+    $st = self::db()->prepare('SELECT game_id FROM favorites WHERE email=? ORDER BY created_at DESC');
+    $st->execute([$email]);
+    return array_column($st->fetchAll(), 'game_id');
+  }
+
+  static function slug(string $s): string {
+    $s = strtolower(preg_replace('/[^a-z0-9]+/i', '-', trim(remove_accents($s))), '');
+    return trim($s, '-') ?: 'game';
+  }
+}
+
+function remove_accents(string $s): string {
+  if (function_exists('translit')) return $s;
+  return strtr(utf8_decode($s), utf8_decode('àáâãäçèéêëìíîïñòóôõöùúûüýÿÀÁÂÃÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝ'),
+                                  'aaaaaceeeeiiiinooooouuuuyyAAAAACEEEEIIIINOOOOOUUUUY');
+}
+
+/* ============================================================
+   HELPERS
+   ============================================================ */
+function e($s): string { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
+
+/** Markdown → HTML (taille raisonnable : titres, gras, listes, tables, hr, emoji ok/no). */
+function md2html(string $md): string {
+  $md = preg_replace('/^---+\s*$/m', "\n<hr>\n", $md);
+  $md = preg_replace('/^####\s+(.+)$/m', '<h4>$1</h4>', $md);
+  $md = preg_replace('/^###\s+(.+)$/m', '<h3>$1</h3>', $md);
+  $md = preg_replace('/^##\s+(.+)$/m', '<h2>$1</h2>', $md);
+  $md = preg_replace('/^#\s+(.+)$/m', '<h1>$1</h1>', $md);
+  $md = preg_replace('/\*\*(.+?)\*\*/', '<strong>$1</strong>', $md);
+  $md = preg_replace('/✅/', '<span class="ok">✅</span>', $md);
+  $md = preg_replace('/❌/', '<span class="no">❌</span>', $md);
+  $lines = explode("\n", $md);
+  $html = []; $inT = $inU = $inO = false;
+  foreach ($lines as $line) {
+    $t = trim($line);
+    if (preg_match('/^\|(.+)\|$/', $t, $m)) {
+      if (!$inT) { $html[] = '<table>'; $inT = true; }
+      $cells = array_map('trim', explode('|', trim($m[1], '|')));
+      if (preg_match('/^[-:]+$/', implode('', $cells))) continue;
+      $html[] = '<tr>' . implode('', array_map(fn($c) => "<td>$c</td>", $cells)) . '</tr>';
+      continue;
+    }
+    if ($inT) { $html[] = '</table>'; $inT = false; }
+    if (preg_match('/^-\s+(.+)/', $t, $m)) { if (!$inU) { $html[] = '<ul>'; $inU = true; } $html[] = "<li>$m[1]</li>"; continue; }
+    if ($inU) { $html[] = '</ul>'; $inU = false; }
+    if (preg_match('/^\d+\.\s+(.+)/', $t, $m)) { if (!$inO) { $html[] = '<ol>'; $inO = true; } $html[] = "<li>$m[1]</li>"; continue; }
+    if ($inO) { $html[] = '</ol>'; $inO = false; }
+    if ($t === '') continue;
+    if ($t === '<hr>') { $html[] = '<hr>'; continue; }
+    if (preg_match('/^<h[1-4]/', $t)) { $html[] = $t; continue; }
+    $html[] = "<p>$t</p>";
+  }
+  if ($inT) $html[] = '</table>';
+  if ($inU) $html[] = '</ul>';
+  if ($inO) $html[] = '</ol>';
+  return implode("\n", $html);
+}
+
+function json_out($d, int $code = 200): void {
+  http_response_code($code);
+  header('Content-Type: application/json; charset=utf-8');
+  header('Cache-Control: no-store');
+  echo json_encode($d, JSON_UNESCAPED_UNICODE);
+  exit;
+}
+
+/* ============================================================
+   ROUTEUR
+   ============================================================ */
+Vault::db();
+$ip   = $_SERVER['REMOTE_ADDR'] ?? '0.0.0.0';
+$now  = time();
+
+// --- API JSON (?api=...) ---
+if (!empty($_GET['api'])) {
+  switch ($_GET['api']) {
+    case 'vote':
+      if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') json_out(['ok' => false, 'error' => 'method'], 405);
+      $slug = $_POST['game'] ?? (json_decode(file_get_contents('php://input') ?: '', true)['game'] ?? '');
+      if (!preg_match('/^[a-z0-9-]{1,80}$/', (string)$slug)) json_out(['ok' => false, 'error' => 'bad_game'], 400);
+      $r = Vault::vote($slug, $ip, $now);
+      if (isset($r['error'])) json_out(['ok' => false, 'error' => $r['msg']], $r['error']);
+      json_out(['ok' => true, 'count' => $r['count']]);
+    case 'top':
+      json_out(array_map(fn($g) => ['game_id' => $g['slug'], 'count' => (int)$g['votes'], 'title' => $g['title']], Vault::games(['top' => true, 'limit' => 100])));
+    case 'fav_toggle':
+      if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') json_out(['ok' => false, 'error' => 'method'], 405);
+      $body = json_decode(file_get_contents('php://input') ?: '', true) ?: [];
+      $email = strtolower(trim((string)($body['email'] ?? '')));
+      $slug  = (string)($body['game'] ?? '');
+      $add   = (bool)($body['add'] ?? false);
+      if (!filter_var($email, FILTER_VALIDATE_EMAIL) || !preg_match('/^[a-z0-9-]{1,80}$/', $slug))
+        json_out(['ok' => false, 'error' => 'bad_input'], 400);
+      json_out(['ok' => true, 'favorites' => Vault::favToggle($email, $slug, $add)]);
+    case 'favorites':
+      $email = strtolower(trim((string)($_GET['email'] ?? '')));
+      if (!filter_var($email, FILTER_VALIDATE_EMAIL)) json_out(['ok' => false, 'error' => 'bad_email'], 400);
+      json_out(Vault::favs($email));
+    default:
+      json_out(['ok' => false, 'error' => 'unknown'], 404);
+  }
+}
+
+// --- Image depuis le KV (?img=/path) ---
+if (isset($_GET['img'])) {
+  $p = '/' . ltrim((string)$_GET['img'], '/');
+  $img = Vault::image($p);
+  if (!$img) { http_response_code(404); exit; }
+  header('Content-Type: ' . ($img['mime'] ?: 'application/octet-stream'));
+  header('Cache-Control: public, max-age=86400');
+  echo $img['body'];
+  exit;
+}
+
+// --- Choix de la vue ---
+$slug = isset($_GET['game']) ? (string)$_GET['game'] : '';
+$q    = trim((string)($_GET['q'] ?? ''));
+$cat  = (string)($_GET['cat'] ?? '');
+$view = ($slug !== '' && !isset($_GET['q'])) ? 'reader' : 'home';
+if (isset($_GET['top'])) $view = 'top';
+
+/* ============================================================
+   VUES
+   ============================================================ */
+$CATEGORIES = Vault::json('/config/categories.json') ?: [];
+$TOTAL = (int)Vault::db()->query('SELECT COUNT(*) FROM games')->fetchColumn();
+function chip_active(string $a, string $b): string { return $a === $b ? 'chip--active' : ''; }
+?>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a14">
+<meta name="description" content="PKcards — <?= $TOTAL ?> jeux de cartes : règles, favoris, découverte.">
+<title>PKcards — <?= $TOTAL ?> jeux de cartes</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230a0a14'/><text x='32' y='44' font-size='36' text-anchor='middle'>🂠</text></svg>">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+:root{--gold:#e8c46a;--bg:#0a0a14;--card:rgba(255,255,255,.035);--border:rgba(255,255,255,.07);--muted:#7a7a8c;--red:#e74c3c;--green:#2ecc71}
+html,body{height:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);background-image:radial-gradient(ellipse at 50% -10%,rgba(232,196,106,.08) 0%,transparent 55%);color:#e6e6ec;min-height:100dvh;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);-webkit-text-size-adjust:100%}
+a{color:inherit;text-decoration:none}
+button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+
+/* HEADER */
+.head{position:sticky;top:0;z-index:20;background:linear-gradient(180deg,rgba(10,10,20,.96),rgba(10,10,20,.7) 85%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:10px 14px calc(8px + env(safe-area-inset-top))}
+.head__row{display:flex;align-items:center;gap:10px;max-width:680px;margin:0 auto}
+.brand{font-family:Georgia,serif;font-size:1.15rem;color:var(--gold);letter-spacing:1px;white-space:nowrap}
+.brand b{color:#fff;font-weight:400}
+.head__spacer{flex:1}
+.iconbtn{width:38px;height:38px;border-radius:11px;background:rgba(255,255,255,.05);display:flex;align-items:center;justify-content:center;color:#cfcfd8;position:relative}
+.iconbtn:active{transform:scale(.92)}
+.iconbtn .dot{position:absolute;top:-2px;right:-2px;background:var(--red);color:#fff;font-size:.6rem;font-weight:700;min-width:16px;height:16px;border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 4px}
+
+/* SEARCH */
+.search{max-width:680px;margin:8px auto 0;padding:0 14px;display:flex;gap:8px}
+.search input{flex:1;background:var(--card);border:1px solid var(--border);color:#fff;border-radius:12px;padding:11px 14px;font-size:.95rem;outline:none}
+.search input:focus{border-color:rgba(232,196,106,.4)}
+.search input::placeholder{color:#555}
+
+/* FILTER CHIPS */
+.chips{max-width:680px;margin:10px auto 0;padding:0 14px;display:flex;gap:7px;overflow-x:auto;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex-shrink:0;padding:6px 13px;border-radius:18px;background:var(--card);border:1px solid var(--border);font-size:.78rem;color:#a8a8b6;white-space:nowrap;transition:.15s}
+.chip:active{transform:scale(.95)}
+.chip--active{background:rgba(232,196,106,.16);border-color:rgba(232,196,106,.4);color:var(--gold)}
+
+/* GAME LIST */
+.list{max-width:680px;margin:0 auto;padding:12px 14px 90px;display:flex;flex-direction:column;gap:10px}
+.tile{display:flex;align-items:center;gap:13px;padding:14px;background:var(--card);border:1px solid var(--border);border-radius:16px;transition:transform .12s,border-color .15s;position:relative;overflow:hidden}
+.tile:active{transform:scale(.985)}
+.tile::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--c,var(--gold))}
+.tile__ic{width:46px;height:46px;border-radius:12px;background:rgba(255,255,255,.04);display:flex;align-items:center;justify-content:center;font-size:1.5rem;flex-shrink:0;margin-left:2px}
+.tile__body{flex:1;min-width:0}
+.tile__title{font-size:1rem;font-weight:600;color:#fff;margin-bottom:3px}
+.tile__sub{font-size:.74rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tile__meta{display:flex;flex-direction:column;align-items:flex-end;gap:5px;flex-shrink:0}
+.badge{font-size:.64rem;padding:2px 8px;border-radius:8px;background:rgba(255,255,255,.05);white-space:nowrap;color:var(--gold)}
+.badge--muted{color:var(--muted)}
+.heart{width:30px;height:30px;display:flex;align-items:center;justify-content:center;color:#555;font-size:1rem}
+.heart.on{color:var(--red)}
+
+.empty{text-align:center;padding:50px 20px;color:var(--muted)}
+.empty__big{font-size:2.4rem;margin-bottom:10px}
+.count-line{text-align:center;font-size:.74rem;color:#555;padding:6px 0 0}
+
+/* READER */
+.reader{max-width:680px;margin:0 auto;padding:0 16px 70px}
+.bar{position:sticky;top:0;z-index:15;display:flex;align-items:center;gap:12px;padding:calc(10px + env(safe-area-inset-top)) 0 10px;background:linear-gradient(180deg,var(--bg) 80%,transparent);backdrop-filter:blur(6px)}
+.bar__back{width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.06);color:var(--gold);font-size:1.3rem;display:flex;align-items:center;justify-content:center}
+.bar__back:active{transform:scale(.9)}
+.rtitle{font-family:Georgia,serif;font-size:1.85rem;color:#fff;line-height:1.15;margin:6px 0 12px}
+.rmeta{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:22px}
+.rmeta span{font-size:.74rem;padding:4px 11px;border-radius:10px;background:rgba(232,196,106,.1);color:var(--gold)}
+.rmeta span.m{background:rgba(255,255,255,.05);color:#aaa}
+.raction{display:flex;gap:10px;margin-bottom:22px}
+.rbtn{flex:1;height:48px;border-radius:13px;font-weight:700;font-size:.92rem;display:flex;align-items:center;justify-content:center;gap:7px;transition:transform .1s}
+.rbtn:active{transform:scale(.96)}
+.rbtn--like{background:linear-gradient(135deg,#3a2a14,#5a3f1a);color:var(--gold);border:1px solid rgba(232,196,106,.25)}
+.rbtn--fav{background:rgba(255,255,255,.05);border:1px solid var(--border);color:#bbb}
+
+.rules{font-size:.96rem;line-height:1.75;color:#c2c2cc}
+.rules h1{font-family:Georgia,serif;font-size:1.45rem;color:var(--gold);margin:28px 0 10px}
+.rules h2{font-size:1.15rem;color:#fff;margin:26px 0 9px;padding-bottom:6px;border-bottom:1px solid var(--border)}
+.rules h3{font-size:1.02rem;color:var(--gold);margin:17px 0 5px}
+.rules h4{font-size:.95rem;color:#fff;margin:14px 0 4px}
+.rules p{margin:8px 0}
+.rules strong{color:#fff}
+.rules ul,.rules ol{margin:8px 0 8px 22px}
+.rules li{margin:4px 0}
+.rules hr{border:none;border-top:1px solid var(--border);margin:22px 0}
+.rules table{width:100%;border-collapse:collapse;margin:12px 0;font-size:.86rem}
+.rules td{padding:7px 10px;border:1px solid var(--border)}
+.rules td:first-child{color:var(--gold);font-weight:600}
+.rules .ok{color:var(--green)}.rules .no{color:var(--red)}
+
+/* TOAST + FAV SHEET */
+#toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%);background:rgba(20,20,32,.96);border:1px solid var(--border);color:#fff;padding:10px 18px;border-radius:12px;font-size:.85rem;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.show{opacity:1}
+.sheet{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.6);display:flex;align-items:flex-end;opacity:0;visibility:hidden;transition:opacity .2s,visibility .2s}
+.sheet.open{opacity:1;visibility:visible}
+.sheet__panel{width:100%;max-width:680px;margin:0 auto;background:#12121e;border-top-left-radius:22px;border-top-right-radius:22px;padding:14px 16px calc(20px + env(safe-area-inset-bottom));max-height:85dvh;overflow:auto;transform:translateY(20px);transition:transform .25s}
+.sheet.open .sheet__panel{transform:translateY(0)}
+.sheet__grab{width:38px;height:4px;border-radius:3px;background:#333;margin:0 auto 12px}
+.sheet__title{font-size:1.05rem;color:#fff;margin-bottom:14px}
+.fav-row{display:flex;align-items:center;gap:10px;padding:12px;background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:8px}
+.fav-row__t{flex:1}.fav-row__t b{display:block;color:#fff;font-size:.92rem}.fav-row__t small{color:var(--muted);font-size:.72rem}
+.field{display:flex;gap:8px;margin-bottom:14px}
+.field input{flex:1;background:rgba(0,0,0,.3);border:1px solid var(--border);color:#fff;border-radius:10px;padding:11px;font-size:.9rem;outline:none}
+.btn{height:44px;border-radius:11px;background:linear-gradient(135deg,#c9a84c,#e8c46a);color:#1a1a24;font-weight:700;padding:0 18px}
+.note{font-size:.74rem;color:var(--muted);margin-bottom:10px;line-height:1.5}
+@media(min-width:560px){.tile__ic{width:52px;height:52px;font-size:1.7rem}}
+</style>
+</head>
+<body>
+
+<?php if ($view === 'reader'):
+  $g = Vault::game($slug);
+  if (!$g) { http_response_code(404); $view = 'notfound'; $g = null; }
+  if ($g):
+    $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
+    // retirer le H1 du markdown (déjà affiché en titre)
+    $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
+?>
+  <div class="reader">
+    <div class="bar">
+      <a class="bar__back" href="<?= e(qs_home()) ?>" aria-label="Retour">‹</a>
+      <span style="color:#777;font-size:.8rem"><?= e($g['type'] ?: 'Jeu de cartes') ?></span>
+    </div>
+    <h1 class="rtitle"><?= e($g['title']) ?></h1>
+    <div class="rmeta">
+      <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
+      <?php if ($g['cards']): ?><span class="m">🂠 <?= e($g['cards']) ?></span><?php endif; ?>
+      <?php if ($g['difficulty']): ?><span class="m"><?= e($g['difficulty']) ?></span><?php endif; ?>
+      <?php if ($g['goal']): ?><span class="m">🎯 <?= e($g['goal']) ?></span><?php endif; ?>
+    </div>
+    <div class="raction">
+      <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
+      <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
+    </div>
+    <div class="rules"><?= md2html($md) ?></div>
+  </div>
+<?php endif;
+  if ($view === 'notfound'): ?>
+    <div class="empty"><div class="empty__big">🃏</div><h2>Jeu introuvable</h2><p><a class="chip chip--active" href="<?= e(qs_home()) ?>">← Retour</a></p></div>
+<?php endif;
+
+else:
+  // ----- HOME / TOP -----
+  $isTop = ($view === 'top');
+  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games(['q' => $q, 'cat' => $cat]);
+?>
+  <header class="head">
+    <div class="head__row">
+      <span class="brand">PK<b>cards</b></span>
+      <span class="head__spacer"></span>
+      <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>" title="Meilleurs jeux" aria-label="Top">🏆</a>
+      <button class="iconbtn" id="favOpen" title="Favoris" aria-label="Favoris">♥<span class="dot" id="favDot" hidden>0</span></button>
+    </div>
+  </header>
+
+  <form class="search" method="get" action="">
+    <input type="search" name="q" value="<?= e($q) ?>" placeholder="Rechercher un jeu, un type…" autocomplete="off" autocapitalize="off" spellcheck="false">
+    <?php if ($cat): ?><input type="hidden" name="cat" value="<?= e($cat) ?>"><?php endif; ?>
+  </form>
+
+  <?php if (!$isTop): ?>
+  <div class="chips">
+    <a class="chip <?= $cat === '' ? 'chip--active' : '' ?>" href="<?= e(qs_home()) ?>">Tous</a>
+    <?php foreach ($CATEGORIES as $key => $info): ?>
+      <a class="chip <?= $cat === $key ? 'chip--active' : '' ?>" href="<?= e(qs_home(['cat' => $key])) ?>"><?= e($info['label'] ?? $key) ?> · <?= (int)($info['count'] ?? 0) ?></a>
+    <?php endforeach; ?>
+  </div>
+  <?php endif; ?>
+
+  <p class="count-line"><?= $isTop ? 'Classement par votes' : (count($games) . ' jeu(x)' . ($q ? ' pour « ' . e($q) . ' »' : '')) ?></p>
+
+  <div class="list">
+    <?php if (!$games): ?>
+      <div class="empty"><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
+    <?php endif; ?>
+    <?php foreach ($games as $g):
+      $c = $g['color'] ?: '#e8c46a'; ?>
+      <a class="tile" style="--c:<?= e($c) ?>" href="<?= e(qs_game($g['slug'], $cat ? ['cat' => $cat] : [])) ?>">
+        <div class="tile__ic"><?= e(game_glyph($g['slug'])) ?></div>
+        <div class="tile__body">
+          <div class="tile__title"><?= e($g['title']) ?></div>
+          <div class="tile__sub"><?= e(trim(($g['players'] ? '👥 ' . $g['players'] . ' · ' : '') . ($g['type'] ?: '') . ($g['difficulty'] ? ' · ' . $g['difficulty'] : ''), ' · ')) ?: e(mb_strimwidth($g['excerpt'], 0, 60, '…', 'UTF-8')) ?></div>
+        </div>
+        <div class="tile__meta">
+          <?php if ((int)$g['votes'] > 0): ?><span class="badge">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
+          <button class="heart" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
+        </div>
+      </a>
+    <?php endforeach; ?>
+  </div>
+<?php endif; ?>
+
+<!-- FAV SHEET -->
+<div class="sheet" id="favSheet">
+  <div class="sheet__panel">
+    <div class="sheet__grab"></div>
+    <div class="sheet__title">♥ Mes favoris</div>
+    <p class="note">Votre email synchronise vos favoris entre appareils. Aucun mot de passe.</p>
+    <div class="field">
+      <input type="email" id="emailField" placeholder="votre@email.com" autocomplete="email">
+      <button class="btn" id="emailSave">OK</button>
+    </div>
+    <div id="favList"></div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+const api = (action, opts={}) => fetch('?api='+action, opts).then(r=>r.json());
+const post = (action, body) => api(action, {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)});
+const toast = (m) => { const t=document.getElementById('toast'); t.textContent=m; t.classList.add('show'); clearTimeout(toast._); toast._=setTimeout(()=>t.classList.remove('show'),1600); };
+
+// ---- FAVORIS ----
+const LS_EMAIL='pk_email', LS_FAVS='pk_favs';
+let email = localStorage.getItem(LS_EMAIL) || '';
+let favs = new Set(JSON.parse(localStorage.getItem(LS_FAVS)||'[]'));
+
+function syncFavUI(){
+  document.querySelectorAll('[data-fav]').forEach(b=>{
+    b.classList.toggle('on', favs.has(b.dataset.fav));
+  });
+  const dot=document.getElementById('favDot');
+  if(favs.size){dot.hidden=false; dot.textContent=favs.size;} else dot.hidden=true;
+}
+async function loadFavs(){
+  if(!email) return;
+  const r = await api('favorites&email='+encodeURIComponent(email));
+  if(Array.isArray(r)){ favs=new Set(r); localStorage.setItem(LS_FAVS, JSON.stringify([...favs])); syncFavUI(); }
+}
+async function toggleFav(slug){
+  if(!email){ openFavSheet(); return; }
+  const add = !favs.has(slug);
+  favs[add?'add':'delete'](slug); syncFavUI();
+  const r = await post('fav_toggle',{email, game:slug, add});
+  if(r&&r.ok){ favs=new Set(r.favorites); localStorage.setItem(LS_FAVS,JSON.stringify([...favs])); syncFavUI(); }
+  else toast('Erreur favori');
+}
+
+document.addEventListener('click', e=>{
+  const h = e.target.closest('[data-fav]');
+  if(h){ e.preventDefault(); e.stopPropagation(); toggleFav(h.dataset.fav); }
+});
+
+// fav sheet
+const sheet=document.getElementById('favSheet');
+function openFavSheet(){ sheet.classList.add('open'); document.getElementById('emailField').value=email; renderFavList(); }
+function closeFavSheet(){ sheet.classList.remove('open'); }
+sheet.addEventListener('click', e=>{ if(e.target===sheet) closeFavSheet(); });
+document.getElementById('favOpen').addEventListener('click', openFavSheet);
+document.getElementById('emailSave').addEventListener('click', async ()=>{
+  email = document.getElementById('emailField').value.trim().toLowerCase();
+  if(!email) return;
+  localStorage.setItem(LS_EMAIL,email); await loadFavs(); renderFavList(); toast('Favoris synchronisés');
+});
+async function renderFavList(){
+  const box=document.getElementById('favList'); box.innerHTML='';
+  if(!email){ box.innerHTML='<p class="note">Entrez votre email.</p>'; return; }
+  if(!favs.size){ box.innerHTML='<p class="note">Aucun favori pour le moment.</p>'; return; }
+  // fetch titles via top list (lightweight) — fallback: link to game page
+  const top = await api('top');
+  const titles = {}; (top||[]).forEach(t=>titles[t.game_id]=t.title);
+  [...favs].forEach(s=>{
+    const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
+    d.innerHTML='<div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle →</small></div><span class="heart on">♥</span>';
+    box.appendChild(d);
+  });
+}
+
+// ---- VOTE (reader) ----
+const lb=document.getElementById('likeBtn');
+if(lb){ lb.addEventListener('click', async ()=>{
+  const slug=lb.dataset.slug;
+  const r=await post('vote',{game:slug});
+  if(r&&r.ok){ document.getElementById('likeCount').textContent=r.count; lb.style.transform='scale(.94)'; setTimeout(()=>lb.style.transform='',120); toast('Merci ! ♥ '+r.count); }
+  else toast(r&&r.error==='too_soon'?'Trop vite !':'Vote bloqué');
+});}
+
+// ---- INIT ----
+syncFavUI();
+if(email) loadFavs();
+</script>
+</body>
+</html>
+<?php
+/* ============================================================
+   HELPERS DE VUES (query strings relatifs → portables)
+   ============================================================ */
+function qs_home(array $extra = []): string {
+  $p = array_merge(['q' => '', 'cat' => '', 'top' => null], $extra);
+  $parts = [];
+  if (!empty($p['top'])) $parts['top'] = '1';
+  if (!empty($p['cat'])) $parts['cat'] = $p['cat'];
+  return $parts ? '?' . http_build_query($parts) : '?';
+}
+function qs_game(string $slug, array $extra = []): string {
+  $parts = array_merge(['game' => $slug], $extra);
+  return '?' . http_build_query($parts);
+}
+function game_glyph(string $slug): string {
+  $map = ['regicide'=>'♚','yaniv'=>'🃏','president'=>'👑','kems'=>'🤝','bataille-corse'=>'⚡',
+          'paquet-de-merde'=>'💩','pouilleux'=>'🤢','tarot'=>'🃏','belote'=>'♠','rummy'=>'🔄',
+          'gin-rummy'=>'🍸','barbu'=>'🧔','poker'=>'🎲','blackjack'=>'🂡','uno'=>'1️⃣'];
+  foreach ($map as $k=>$v) if (str_contains($slug, $k)) return $v;
+  return '🂠';
+}
+// builder for the home-count line was inlined above
