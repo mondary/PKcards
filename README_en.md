@@ -32,7 +32,7 @@ Discover 160+ card games by swiping: browse, learn the rules and save your favor
 ## 🧾 Commands
 
 ```bash
-node scripts/build.js       # generates site/data.js from rules/*.md
+node scripts/build.js       # generates site/v1/data.js from assets/rules/*.md
 ```
 
 ## 📦 Build & Package
@@ -47,7 +47,7 @@ node scripts/build.js
 
 Votes and favorites are persisted server-side by `site/api.php` in a **SQLite** database (`site/data/rules.sqlite`, created automatically on first call).
 
-- **What to upload**: the entire contents of the `site/` folder (and nothing else) — `index.html`, `style.css`, `app.js`, `data.js`, `api.php`, `data/.htaccess`. The `scripts/` folder is only for generating `data.js` locally and must **not** be uploaded.
+- **What to upload for V1**: the entire contents of `site/v1/` — `index.html`, `style.css`, `app.js`, `data.js`, `api.php`, `data/.htaccess`. The `scripts/` folder is only for generating `site/v1/data.js` locally and must **not** be uploaded.
 - Requires **PHP hosting** (PHP 8+, `pdo_sqlite` extension). The rest of the site (`index.html`, `app.js`, `style.css`, `data.js`) stays 100% static.
 - The `site/data/` folder must be **writable by PHP** (chmod 755/775) so the database can be created there.
 - Without a PHP backend the catalog still works; only voting and favorites sync are unavailable.

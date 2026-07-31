@@ -85,7 +85,7 @@ Statut : `1.2026.7` (editeur generique + 4 nouvelles regles)
 
 #### Changed
 - Déplacement des scripts offline (`build.js`, `add-aliases.js`, `classify-rules.js`) de `site/` vers `scripts/`, pour que `site/` ne contienne que les fichiers à déployer
-- `build.js` s'exécute désormais depuis la racine (`node scripts/build.js`) et écrit dans `site/data.js`
+- `build.js` s'exécute désormais depuis la racine (`node scripts/build.js`) et écrit dans `site/v1/data.js`, afin que V1 reste autonome
 
 ### [1.2026.2] - 2026-07-17
 #### Added

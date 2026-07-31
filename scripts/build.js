@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * build.js — Parse all markdown files from rules/ and generate site/data.js
+ * build.js — Parse all markdown files from assets/rules/ and generate site/v1/data.js
  * Usage: node scripts/build.js  (depuis la racine du dépôt)
  */
 const fs = require('fs');
@@ -96,6 +96,6 @@ const CATEGORY_INFO = ${JSON.stringify({
   'grand-groupe': { label: '5 joueurs +',    color: CATEGORY_COLORS['grand-groupe'], count: counts['grand-groupe']||0 },
 }, null, 2)};`;
 
-fs.writeFileSync(path.join(__dirname, '..', 'site', 'data.js'), output);
+fs.writeFileSync(path.join(__dirname, '..', 'site', 'v1', 'data.js'), output);
 console.log(`✓ Generated data.js — ${games.length} games`);
 console.log(`  Solo: ${counts.solo||0} | Duo: ${counts.duo||0} | 3-4: ${counts['petit-groupe']||0} | 5+: ${counts['grand-groupe']||0}`);

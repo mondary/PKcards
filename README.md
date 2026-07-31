@@ -32,7 +32,7 @@ Découvrez plus de 160 jeux de cartes en swipant : parcourez, apprenez les règl
 ## 🧾 Commandes
 
 ```bash
-node scripts/build.js       # génère site/data.js depuis rules/*.md
+node scripts/build.js       # génère site/v1/data.js depuis assets/rules/*.md
 ```
 
 ## 📦 Build & Package
@@ -47,7 +47,7 @@ node scripts/build.js
 
 Les votes et favoris sont persistés côté serveur par `site/api.php` dans une base **SQLite** (`site/data/rules.sqlite`, créée automatiquement au premier appel).
 
-- **À uploader** : tout le contenu du dossier `site/` (et rien d'autre) — `index.html`, `style.css`, `app.js`, `data.js`, `api.php`, `data/.htaccess`. Le dossier `scripts/` sert uniquement à générer `data.js` en local et ne doit **pas** être uploadé.
+- **À uploader pour V1** : tout le contenu du dossier `site/v1/` — `index.html`, `style.css`, `app.js`, `data.js`, `api.php`, `data/.htaccess`. Le dossier `scripts/` sert uniquement à générer `site/v1/data.js` en local et ne doit **pas** être uploadé.
 - Nécessite un **hébergement PHP** (PHP 8+, extension `pdo_sqlite`). Le reste du site (`index.html`, `app.js`, `style.css`, `data.js`) reste 100 % statique.
 - Le dossier `site/data/` doit être **inscriptible par PHP** (chmod 755/775) pour que la base puisse s'y créer.
 - Sans backend PHP, le catalogue fonctionne quand même ; seuls les votes et la synchro des favoris sont indisponibles.

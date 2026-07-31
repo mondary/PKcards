@@ -36,7 +36,10 @@ class Vault {
     $pdo->exec('CREATE TABLE IF NOT EXISTS games(
       slug TEXT PRIMARY KEY, title TEXT, players TEXT, cards TEXT,
       difficulty TEXT, type TEXT, goal TEXT, category TEXT, color TEXT,
-      aliases TEXT, excerpt TEXT, playerMin INTEGER, playerMax INTEGER, sort INTEGER)');
+      aliases TEXT, excerpt TEXT, playerMin INTEGER, playerMax INTEGER, sort INTEGER,
+      is_clm INTEGER NOT NULL DEFAULT 0)');
+    $columns = array_column($pdo->query('PRAGMA table_info(games)')->fetchAll(), 'name');
+    if (!in_array('is_clm', $columns, true)) $pdo->exec('ALTER TABLE games ADD COLUMN is_clm INTEGER NOT NULL DEFAULT 0');
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_games_cat ON games(category)');
     $pdo->exec('CREATE TABLE IF NOT EXISTS kv(
       path TEXT PRIMARY KEY, mime TEXT, body BLOB, updated_at INTEGER)');
@@ -45,8 +48,9 @@ class Vault {
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_vl ON vote_log(ip, created_at)');
     $pdo->exec('CREATE TABLE IF NOT EXISTS favorites(email TEXT, game_id TEXT, created_at INTEGER, PRIMARY KEY(email, game_id))');
     self::$pdo = $pdo;
-    self::seed();
-    return $pdo;
+     self::seed();
+     self::importClm();
+     return $pdo;
   }
 
   /** Seed one-shot si base vide : lit ../v1/data.js (présent en dev only).
@@ -63,7 +67,7 @@ class Vault {
     $cs = strpos($f, 'CATEGORY_INFO'); $cs = strpos($f, '{', $cs); $ce = strpos($f, '};', $cs);
     $cats = json_decode(substr($f, $cs, $ce - $cs + 1), true) ?: [];
 
-    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $kv  = $db->prepare('INSERT INTO kv(path,mime,body,updated_at) VALUES(?,?,?,?)');
     $i = 0;
     foreach ($games as $g) {
@@ -73,12 +77,42 @@ class Vault {
         $g['difficulty'] ?? '', $g['type'] ?? '', $g['goal'] ?? '',
         $g['category'] ?? '', $g['color'] ?? '#e8c46a', $g['aliases'] ?? '',
         mb_strimwidth((string)($g['excerpt'] ?? ''), 0, 160, '…', 'UTF-8'),
-        (int)($g['playerMin'] ?? 0), (int)($g['playerMax'] ?? 0), $i,
+        (int)($g['playerMin'] ?? 0), (int)($g['playerMax'] ?? 0), $i, 0,
       ]);
       $kv->execute(['/games/' . $slug . '.md', 'text/markdown', (string)($g['markdown'] ?? ''), time()]);
       $i++;
     }
     $kv->execute(['/config/categories.json', 'application/json', json_encode($cats), time()]);
+  }
+
+  /** Importe les règles éditoriales CLM une seule fois et les marque comme favoris natifs. */
+  static function importClm(): void {
+    $dir = __DIR__ . '/../../assets/rules/rules_clm';
+    if (!is_dir($dir)) return;
+    $db = self::$pdo;
+    $insert = $db->prepare('INSERT OR IGNORE INTO games
+      (slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_clm=1 WHERE slug=?');
+    $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
+    foreach (glob($dir . '/*.md') ?: [] as $file) {
+      $slug = pathinfo($file, PATHINFO_FILENAME);
+      $md = file_get_contents($file) ?: '';
+      if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
+      $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
+      preg_match('/\*\*([^*]*(?:joueur|joueurs)[^*]*)\*\*/iu', $md, $playersMatch);
+      preg_match('/\*\*([^*]*cartes[^*]*)\*\*/iu', $md, $cardsMatch);
+      $players = trim($playersMatch[1] ?? '');
+      $cards = trim($cardsMatch[1] ?? '');
+      preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
+      $min = (int)($range[1] ?? 0); $max = (int)($range[2] ?? 0);
+      if (!$min && preg_match('/^(\d+)\s*joueurs?/iu', $players, $single)) $min = $max = (int)$single[1];
+      $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
+      $values = [$title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
+      $update->execute($values);
+      if (!$update->rowCount()) $insert->execute([$slug, ...array_slice($values, 0, 1), $players, $cards, 'CLM', 'Règle maison', '', 'clm', '#ca9ee6', '', $values[7], $min, $max, $sort++, 1]);
+      self::write('/games/' . $slug . '.md', $md, 'text/markdown');
+    }
   }
 
   /* ---- Store KV générique (la vision : markdown, json, images, blobs) ---- */
@@ -413,8 +447,41 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .field input{flex:1;background:rgba(0,0,0,.3);border:1px solid var(--border);color:#fff;border-radius:10px;padding:11px;font-size:.9rem;outline:none}
 .btn{height:44px;border-radius:11px;background:linear-gradient(135deg,#c9a84c,#e8c46a);color:#1a1a24;font-weight:700;padding:0 18px}
 .note{font-size:.74rem;color:var(--muted);margin-bottom:10px;line-height:1.5}
-@media(min-width:560px){.tile__ic{width:52px;height:52px;font-size:1.7rem}}
-</style>
+ @media(min-width:560px){.tile__ic{width:52px;height:52px;font-size:1.7rem}}
+
+ /* v3 visual pass: Catppuccin Frappé */
+ :root{--gold:#ca9ee6;--bg:#303446;--bg-deep:#292c3c;--card:#383c50;--card-2:#41465a;--border:rgba(198,208,245,.12);--text:#c6d0f5;--muted:#a5adce;--red:#e78284;--green:#a6d189;--blue:#8caaee;--peach:#ef9f76}
+ body{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);background-image:radial-gradient(ellipse at 75% 0%,rgba(202,158,230,.16),transparent 42%),linear-gradient(var(--bg),var(--bg-deep))}
+ .topfix{background:rgba(48,52,70,.82);padding:calc(14px + env(safe-area-inset-top)) clamp(18px,4vw,56px) 14px;border-bottom:1px solid var(--border)}
+ .topfix__inner{max-width:1440px}
+ .brand{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.78rem;color:var(--gold);letter-spacing:.15em;text-transform:uppercase}
+ .brand b{color:var(--text)}.brand .suits{color:var(--gold);opacity:.7;font-size:.7rem}
+ .iconbtn{border-radius:12px;background:var(--card);border:1px solid var(--border);color:var(--text);transition:transform .18s ease,border-color .18s ease,color .18s ease}
+ .iconbtn:hover{color:var(--gold);border-color:var(--gold);transform:translateY(-2px)}
+ .search input{background:var(--bg-deep);border-color:var(--border);color:var(--text);border-radius:12px;box-shadow:inset 0 1px rgba(255,255,255,.03)}
+ .search input:focus{border-color:var(--gold);background:#232638;box-shadow:0 0 0 3px rgba(202,158,230,.14)}
+ .search input::placeholder{color:#838baa}
+ .chip{border-radius:9px;background:rgba(255,255,255,.035);border-color:var(--border);color:var(--muted)}
+ .chip--active{background:var(--gold);border-color:var(--gold);color:#232638}
+ .hero{max-width:1440px;margin:0 auto;min-height:min(580px,72dvh);padding:clamp(70px,10vw,150px) clamp(18px,7vw,120px) clamp(46px,7vw,86px);display:flex;align-items:flex-end;position:relative;overflow:hidden;border-bottom:1px solid var(--border)}
+ .hero__copy{position:relative;z-index:2;max-width:760px}.eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.67rem;line-height:1.3;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}.eyebrow span{color:var(--muted);padding:0 .35rem}
+ .hero h1{margin-top:18px;font-family:Georgia,serif;font-weight:400;font-size:clamp(3.8rem,10vw,9.5rem);line-height:.82;letter-spacing:-.065em;color:var(--text);text-wrap:balance}.hero h1 i{color:var(--gold);font-weight:400}
+ .hero__intro{max-width:500px;margin-top:28px;color:var(--muted);font-size:clamp(.92rem,1.4vw,1.05rem);line-height:1.65;text-wrap:pretty}.hero__meta{display:flex;gap:22px;margin-top:32px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.66rem;letter-spacing:.06em;color:var(--muted);text-transform:uppercase}.hero__meta b{color:var(--text);font-weight:600}
+  .hero__mark{position:absolute;right:8vw;top:16%;display:grid;grid-template-columns:repeat(2,1fr);gap:10px;transform:rotate(12deg);font-family:Georgia,serif;font-size:clamp(5rem,13vw,12rem);line-height:.72;color:var(--gold);opacity:.16;z-index:1}.hero__mark span:nth-child(2),.hero__mark span:nth-child(3){color:var(--peach)}
+  .hero__art{position:absolute;right:clamp(7vw,13vw,190px);top:12%;width:clamp(220px,27vw,370px);height:clamp(280px,35vw,470px);transform:rotate(8deg);z-index:1;pointer-events:none}.hero__card{position:absolute;width:clamp(145px,16vw,215px);aspect-ratio:2/3;display:flex;flex-direction:column;justify-content:space-between;padding:18px;border:1px solid rgba(255,255,255,.34);border-radius:18px;background:#f5eee5;color:#262538;box-shadow:18px 24px 35px rgba(17,18,29,.28);font-family:Georgia,serif;font-size:clamp(2rem,4vw,4rem);line-height:.8}.hero__card small{font-family:ui-monospace,monospace;font-size:.58rem;letter-spacing:.12em;line-height:1.1;text-transform:uppercase}.hero__card--back{right:0;top:0;transform:rotate(15deg);background:#474d6b;color:#f5eee5;border-color:rgba(255,255,255,.18);justify-content:center;align-items:center}.hero__card--back::before{content:'♠ ♥ ♦ ♣';display:block;max-width:90px;font-size:1.4rem;line-height:1.7;letter-spacing:.15em;text-align:center}.hero__card--front{left:0;bottom:0;transform:rotate(-13deg)}.hero__card--front b{font-size:clamp(4rem,8vw,7rem);font-weight:400;align-self:center;margin:auto}.hero__card--front span:last-child{align-self:flex-end;transform:rotate(180deg)}
+ .hero__fade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(48,52,70,0) 35%,rgba(48,52,70,.28) 64%,var(--bg) 100%),linear-gradient(0deg,var(--bg) 0%,transparent 26%);pointer-events:none}
+ .section-head{max-width:1440px;margin:0 auto;padding:34px clamp(18px,7vw,120px) 10px;display:flex;align-items:center;justify-content:space-between}
+ .list{max-width:1440px;margin:0 auto;padding:10px clamp(18px,7vw,120px) 110px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+  .game{padding:17px 15px;background:var(--card);border-color:var(--border);border-radius:14px;transition:transform .18s ease,background .18s ease,border-color .18s ease;min-height:102px;overflow:hidden}.game::before{content:'';position:absolute;inset:0 0 auto;height:3px;background:var(--c,var(--gold));opacity:.72}.game:hover{transform:translateY(-3px);background:var(--card-2);border-color:rgba(202,158,230,.45)}.game:active{transform:scale(.99);background:var(--card-2);border-color:var(--gold)}
+  .game__mono{width:46px;height:46px;border-radius:12px;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#ca9ee6) 15%,transparent);border-color:color-mix(in srgb,var(--c,#ca9ee6) 32%,transparent);font-size:1.35rem}.game__title{color:var(--text);font-weight:650}.tag{background:rgba(198,208,245,.07);color:var(--muted)}.tag--p{color:var(--blue);background:rgba(140,170,238,.12)}.tag--d{color:var(--peach);background:rgba(239,159,118,.12)}.tag--v{color:var(--gold);background:rgba(202,158,230,.14)}
+ .game__fav{color:#737b9c;border-radius:12px;transition:color .18s,background .18s}.game__fav:hover{color:var(--red);background:rgba(231,130,132,.1)}
+ .tag--clm{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
+ .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
+ .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
+ :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+  @media(max-width:700px){.hero{min-height:520px;padding-top:86px}.hero__mark{right:-18px;top:18%;font-size:7rem}.hero__art{right:-22px;top:17%;transform:scale(.78) rotate(8deg);transform-origin:top right;opacity:.72}.hero__fade{background:linear-gradient(180deg,rgba(48,52,70,0) 25%,var(--bg) 78%),linear-gradient(0deg,var(--bg) 0%,transparent 45%)}.hero__meta{flex-wrap:wrap;gap:10px 16px}.list{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}}
+ @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
+ </style>
 </head>
 <body>
 
@@ -423,6 +490,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   if (!$g) { http_response_code(404); $view = 'notfound'; $g = null; }
   if ($g):
     $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
+    $ytUrl = 'https://www.youtube.com/results?search_query=' . rawurlencode($g['title'] . ' règles jeu de cartes');
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
 ?>
@@ -442,6 +510,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
     </div>
+    <a class="reader__youtube" href="<?= e($ytUrl) ?>" target="_blank" rel="noopener noreferrer">▶ Rechercher les règles sur YouTube</a>
     <div class="rules"><?= md2html($md) ?></div>
   </div>
 <?php endif;
@@ -476,7 +545,22 @@ else:
     </div>
   </div>
 
-  <p class="count-line" id="countLine"><?= count($games) ?> jeu(x)</p>
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero__copy">
+        <p class="eyebrow">bibliothèque de table <span>·</span> v3</p>
+        <h1 id="heroTitle">Les cartes<br><i>restent en main.</i></h1>
+        <p class="hero__intro">Explorez les règles, retrouvez un jeu en une frappe et gardez vos classiques à portée de table.</p>
+        <div class="hero__meta"><span><b><?= $TOTAL ?></b> jeux indexés</span><span><b>⌘ K</b> recherche rapide</span></div>
+      </div>
+      <div class="hero__mark" aria-hidden="true"><span>♠</span><span>♥</span><span>♦</span><span>♣</span></div>
+      <div class="hero__art" aria-hidden="true">
+        <div class="hero__card hero__card--back"><small>PKcards<br>jeu libre</small></div>
+        <div class="hero__card hero__card--front"><small>jeu de table</small><b>♥</b><span>♥</span></div>
+      </div>
+      <div class="hero__fade" aria-hidden="true"></div>
+    </section>
+    <div class="section-head"><p class="eyebrow">le catalogue</p><p class="count-line" id="countLine"><?= count($games) ?> jeux</p></div>
 
   <div class="list" id="list">
     <?php foreach ($games as $g):
@@ -488,15 +572,17 @@ else:
          data-title="<?= e(mb_strtolower((string)$g['title'])) ?>"
          data-aliases="<?= e(mb_strtolower((string)$g['aliases'])) ?>"
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
-         data-cat="<?= e($g['category']) ?>">
+         data-cat="<?= e($g['category']) ?>"
+         data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
         <span class="game__mono"><?= e($init ?: '🂠') ?></span>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
           <span class="game__tags">
             <?php if ((int)$g['votes'] > 0): ?><span class="tag tag--v">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
             <?php if ($pshort): ?><span class="tag tag--p">👥 <?= e($pshort) ?></span><?php endif; ?>
-            <?php if ($g['type']): ?><span class="tag"><?= e($g['type']) ?></span><?php endif; ?>
-            <?php if ($g['difficulty']): ?><span class="tag tag--d"><?= e($g['difficulty']) ?></span><?php endif; ?>
+             <?php if ($g['type']): ?><span class="tag"><?= e($g['type']) ?></span><?php endif; ?>
+             <?php if ((int)($g['is_clm'] ?? 0)): ?><span class="tag tag--clm">CLM</span><?php endif; ?>
+             <?php if ($g['difficulty']): ?><span class="tag tag--d"><?= e($g['difficulty']) ?></span><?php endif; ?>
           </span>
         </span>
         <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
@@ -504,6 +590,7 @@ else:
     <?php endforeach; ?>
     <div class="empty" id="emptyState" hidden><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
   </div>
+  </main>
 <?php endif; ?>
 
 <!-- FAV SHEET -->
@@ -531,6 +618,8 @@ const toast = (m) => { const t=document.getElementById('toast'); t.textContent=m
 const LS_EMAIL='pk_email', LS_FAVS='pk_favs';
 let email = localStorage.getItem(LS_EMAIL) || '';
 let favs = new Set(JSON.parse(localStorage.getItem(LS_FAVS)||'[]'));
+let pendingFav = '';
+const clmSlugs = () => [...document.querySelectorAll('[data-clm="1"]')].map(el=>el.dataset.fav || el.querySelector('[data-fav]')?.dataset.fav).filter(Boolean);
 
 function syncFavUI(){
   document.querySelectorAll('[data-fav]').forEach(b=>{
@@ -542,14 +631,14 @@ function syncFavUI(){
 async function loadFavs(){
   if(!email) return;
   const r = await api('favorites&email='+encodeURIComponent(email));
-  if(Array.isArray(r)){ favs=new Set(r); localStorage.setItem(LS_FAVS, JSON.stringify([...favs])); syncFavUI(); }
+  if(Array.isArray(r)){ favs=new Set([...r,...clmSlugs()]); localStorage.setItem(LS_FAVS, JSON.stringify([...favs])); syncFavUI(); }
 }
 async function toggleFav(slug){
-  if(!email){ openFavSheet(); return; }
+  if(!email){ pendingFav=slug; openFavSheet(); return; }
   const add = !favs.has(slug);
   favs[add?'add':'delete'](slug); syncFavUI();
   const r = await post('fav_toggle',{email, game:slug, add});
-  if(r&&r.ok){ favs=new Set(r.favorites); localStorage.setItem(LS_FAVS,JSON.stringify([...favs])); syncFavUI(); }
+  if(r&&r.ok){ favs=new Set([...r.favorites,...clmSlugs()]); localStorage.setItem(LS_FAVS,JSON.stringify([...favs])); syncFavUI(); }
   else toast('Erreur favori');
 }
 
@@ -567,15 +656,22 @@ document.getElementById('favOpen').addEventListener('click', openFavSheet);
 document.getElementById('emailSave').addEventListener('click', async ()=>{
   email = document.getElementById('emailField').value.trim().toLowerCase();
   if(!email) return;
-  localStorage.setItem(LS_EMAIL,email); await loadFavs(); renderFavList(); toast('Favoris synchronisés');
+  localStorage.setItem(LS_EMAIL,email);
+  if(pendingFav){
+    const r=await post('fav_toggle',{email,game:pendingFav,add:true});
+    if(r&&r.ok) favs=new Set([...r.favorites,...clmSlugs()]);
+    pendingFav='';
+  }
+  await loadFavs();
+  closeFavSheet();
+  syncFavUI();
+  toast('Favori enregistré');
 });
 async function renderFavList(){
   const box=document.getElementById('favList'); box.innerHTML='';
   if(!email){ box.innerHTML='<p class="note">Entrez votre email.</p>'; return; }
   if(!favs.size){ box.innerHTML='<p class="note">Aucun favori pour le moment.</p>'; return; }
-  // fetch titles via top list (lightweight) — fallback: link to game page
-  const top = await api('top');
-  const titles = {}; (top||[]).forEach(t=>titles[t.game_id]=t.title);
+  const titles = <?= json_encode(array_column(Vault::games(), 'title', 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
   [...favs].forEach(s=>{
     const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
     d.innerHTML='<div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle →</small></div><span class="heart on">♥</span>';
@@ -621,7 +717,15 @@ if(chipsEl) chipsEl.addEventListener('click', e=>{
   applyFilter();
 });
 
+// Recherche par frappe : le catalogue reste directement explorable au clavier.
+document.addEventListener('keydown', e=>{
+  if(!searchInputEl || e.target.matches('input,textarea,button,a')) return;
+  if((e.metaKey || e.ctrlKey) && e.key.toLowerCase()==='k'){ e.preventDefault(); searchInputEl.focus(); return; }
+  if(e.key.length===1 && !e.metaKey && !e.ctrlKey && !e.altKey){ searchInputEl.focus(); searchInputEl.value=e.key; applyFilter(); }
+});
+
 // ---- INIT ----
+document.querySelectorAll('[data-clm="1"]').forEach(el=>{ const slug=el.dataset.fav || el.querySelector('[data-fav]')?.dataset.fav; if(slug) favs.add(slug); });
 syncFavUI();
 applyFilter();
 if(email) loadFavs();

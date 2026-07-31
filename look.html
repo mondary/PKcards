@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Color Generator – Kigen</title>
+  <meta name="description" content="Generate beautiful color palettes for your design system with OKLCH, Tailwind, Radix, and Ant Design algorithms." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --bg-page: #f7f7f8;
+      --card-bg: #ffffff;
+      --card-border: rgba(0, 0, 0, 0.08);
+      --text-primary: #161718;
+      --text-secondary: #737373;
+      --text-muted: #8e8e93;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --border-gray-1: rgba(0, 0, 0, 0.08);
+      --radii-4: 4px;
+      --radii-8: 8px;
+      --radii-12: 12px;
+      --radii-16: 16px;
+      --radii-full: 9999px;
+      --shadow-sm: inset 0.75px 0.75px 1px #fff, inset -0.75px -0.75px 1px rgba(0, 0, 0, 0.15), 0 2px 4px rgba(0, 0, 0, 0.04);
+      --shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+      --input-bg: #f2f3f5;
+      --badge-bg: #e5e7eb;
+      --toast-bg: #161718;
+      --toast-text: #ffffff;
+    }
+
+    [data-theme="dark"] {
+      --bg-page: #0b0c0e;
+      --card-bg: #141517;
+      --card-border: rgba(255, 255, 255, 0.1);
+      --text-primary: #f3f4f6;
+      --text-secondary: #9ca3af;
+      --text-muted: #6b7280;
+      --border-gray-1: rgba(255, 255, 255, 0.1);
+      --shadow-sm: inset 0.75px 0.75px 1px rgba(255, 255, 255, 0.15), inset -0.75px -0.75px 1px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.2);
+      --shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 8px 10px -6px rgba(0, 0, 0, 0.5);
+      --input-bg: #1c1e22;
+      --badge-bg: #282a30;
+      --toast-bg: #ffffff;
+      --toast-text: #0b0c0e;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-page);
+      color: var(--text-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: background-color 0.25s ease, color 0.25s ease;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* HEADER */
+    header {
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border-gray-1);
+    }
+
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 500;
+      font-size: 20px;
+      letter-spacing: -0.5px;
+    }
+
+    .logo-icon {
+      width: 28px;
+      height: 28px;
+      background: linear-gradient(135deg, #75daff 0%, #588ffc 50%, #935afa 100%);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      box-shadow: 0 2px 8px rgba(88, 143, 252, 0.3);
+    }
+
+    .separator {
+      color: var(--text-muted);
+      font-weight: 300;
+      margin: 0 2px;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-secondary);
+      font-size: 14px;
+      font-weight: 500;
+      transition: color 0.15s ease;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .nav-links a:hover, .nav-links a.active {
+      color: var(--text-primary);
+    }
+
+    .pill-badge {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 99px;
+      background: var(--badge-bg);
+      color: var(--text-secondary);
+      letter-spacing: 0.3px;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 8px 16px;
+      border-radius: var(--radii-8);
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border-gray-1);
+      background-color: var(--card-bg);
+      color: var(--text-primary);
+      box-shadow: var(--shadow-sm);
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      border-color: rgba(0,0,0,0.15);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .btn-primary {
+      background: var(--text-primary);
+      color: var(--bg-page);
+      border: none;
+    }
+
+    .btn-icon {
+      padding: 8px;
+      border-radius: var(--radii-8);
+      width: 36px;
+      height: 36px;
+    }
+
+    /* MAIN GENERATOR BAR */
+    .generator-header {
+      margin-top: 32px;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .top-controls-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-16);
+      padding: 20px 24px;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .base-color-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .color-picker-wrapper {
+      position: relative;
+      width: 44px;
+      height: 44px;
+      border-radius: var(--radii-12);
+      overflow: hidden;
+      cursor: pointer;
+      box-shadow: 0 0 0 1px rgba(0,0,0,0.1), inset 0 0 0 1px rgba(255,255,255,0.2);
+      transition: transform 0.15s ease;
+    }
+
+    .color-picker-wrapper:hover {
+      transform: scale(1.05);
+    }
+
+    .color-picker-native {
+      position: absolute;
+      top: -10px;
+      left: -10px;
+      width: 64px;
+      height: 64px;
+      border: none;
+      cursor: pointer;
+      opacity: 0;
+    }
+
+    .color-picker-swatch {
+      width: 100%;
+      height: 100%;
+      background-color: #3b82f6;
+      border-radius: var(--radii-12);
+    }
+
+    .hex-input-box {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .input-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .hex-input-field {
+      display: flex;
+      align-items: center;
+      background: var(--input-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-8);
+      padding: 4px 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text-primary);
+      width: 120px;
+    }
+
+    .hex-input-field input {
+      border: none;
+      background: transparent;
+      outline: none;
+      color: inherit;
+      font-family: inherit;
+      font-size: inherit;
+      width: 100%;
+      text-transform: uppercase;
+    }
+
+    .color-space-tabs {
+      display: flex;
+      background: var(--input-bg);
+      padding: 3px;
+      border-radius: var(--radii-8);
+      gap: 2px;
+      border: 1px solid var(--border-gray-1);
+    }
+
+    .tab-btn {
+      border: none;
+      background: transparent;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .tab-btn.active {
+      background: var(--card-bg);
+      color: var(--text-primary);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    /* CONTROLS TOOLBAR */
+    .controls-grid {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .control-item {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .select-input {
+      background: var(--input-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-8);
+      padding: 8px 12px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-primary);
+      outline: none;
+      cursor: pointer;
+      min-width: 140px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .range-input-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .range-input {
+      -webkit-appearance: none;
+      width: 90px;
+      height: 4px;
+      border-radius: 2px;
+      background: var(--border-gray-1);
+      outline: none;
+    }
+
+    .range-input::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--text-primary);
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .num-val {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--text-secondary);
+      min-width: 32px;
+    }
+
+    /* ACTION BAR */
+    .action-buttons-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-left: auto;
+    }
+
+    /* SHADES STREAM / GRID */
+    .shades-container {
+      margin-top: 16px;
+      margin-bottom: 40px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 12px;
+      width: 100%;
+    }
+
+    .shade-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-12);
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      box-shadow: var(--shadow-sm);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      position: relative;
+    }
+
+    .shade-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+    }
+
+    .shade-color-box {
+      width: 100%;
+      height: 140px;
+      border-radius: var(--radii-8);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 10px;
+      box-shadow: inset 0 0 0 1px rgba(0,0,0,0.06);
+      transition: background-color 0.2s ease;
+    }
+
+    .shade-badge {
+      align-self: flex-start;
+      padding: 3px 8px;
+      border-radius: 99px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      backdrop-filter: blur(8px);
+      background: rgba(0, 0, 0, 0.25);
+      color: #ffffff;
+    }
+
+    .shade-card-info {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .shade-step-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .shade-color-name {
+      font-size: 11px;
+      color: var(--text-muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .shade-value-code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      margin-top: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      padding: 4px 6px;
+      border-radius: 4px;
+      transition: background 0.15s ease;
+    }
+
+    .shade-value-code:hover {
+      background: var(--input-bg);
+      color: var(--text-primary);
+    }
+
+    .contrast-badge {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 6px;
+      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      margin-top: 4px;
+      width: fit-content;
+    }
+
+    .contrast-pass {
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+    }
+
+    .contrast-fail {
+      background: rgba(239, 68, 68, 0.15);
+      color: #ef4444;
+    }
+
+    /* ADVANCED CONTROLS DRAWER */
+    .curves-drawer {
+      background: var(--card-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-16);
+      padding: 20px;
+      margin-bottom: 24px;
+      display: none;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .curves-drawer.open {
+      display: grid;
+    }
+
+    .curve-control-box {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    /* PRESETS BAR */
+    .presets-section {
+      margin-bottom: 32px;
+    }
+
+    .presets-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 12px;
+    }
+
+    .presets-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .preset-chip {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      background: var(--card-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-full);
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .preset-chip:hover {
+      transform: translateY(-2px);
+      border-color: rgba(0,0,0,0.2);
+    }
+
+    .preset-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+
+    /* EXPORT MODAL */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(8px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 999;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-gray-1);
+      border-radius: var(--radii-16);
+      width: 90%;
+      max-width: 640px;
+      padding: 24px;
+      box-shadow: var(--shadow-lg);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .modal-title {
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .export-tabs {
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--border-gray-1);
+      padding-bottom: 12px;
+    }
+
+    .export-tab {
+      padding: 6px 14px;
+      border-radius: var(--radii-8);
+      border: none;
+      background: transparent;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      cursor: pointer;
+    }
+
+    .export-tab.active {
+      background: var(--input-bg);
+      color: var(--text-primary);
+    }
+
+    .code-preview {
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 16px;
+      border-radius: var(--radii-8);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      max-height: 320px;
+      overflow-y: auto;
+      white-space: pre;
+    }
+
+    /* TOAST */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--toast-bg);
+      color: var(--toast-text);
+      padding: 10px 18px;
+      border-radius: var(--radii-8);
+      font-size: 13px;
+      font-weight: 500;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.2);
+      transform: translateY(100px);
+      opacity: 0;
+      transition: transform 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.25s ease;
+      z-index: 1000;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: auto;
+      border-top: 1px solid var(--border-gray-1);
+      padding: 32px 0;
+      color: var(--text-secondary);
+      font-size: 13px;
+    }
+
+    .footer-inner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .shortcut-hint {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    kbd {
+      background: var(--badge-bg);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--text-primary);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="container header-inner">
+      <a href="#" class="logo-group">
+        <div class="logo-icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+          </svg>
+        </div>
+        <span>kigen</span>
+        <span class="separator">/</span>
+        <span>color</span>
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="#">Design System <span class="pill-badge">new</span></a></li>
+        <li><a href="#">Figma plugin</a></li>
+        <li><a href="#" class="active">Color</a></li>
+        <li><a href="#">Type Scale <span class="pill-badge">wip</span></a></li>
+        <li><a href="#">blog</a></li>
+        <li><a href="#">FAQs</a></li>
+        <li><a href="#">changelog</a></li>
+      </ul>
+
+      <div class="header-actions">
+        <button class="btn btn-icon" id="themeToggleBtn" title="Toggle Dark/Light Mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+        <button class="btn btn-primary">Install Plugin</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="container">
+    <div class="generator-header">
+      
+      <!-- TOP CONTROL CARD -->
+      <div class="top-controls-card">
+        <div class="base-color-group">
+          <div class="color-picker-wrapper" title="Click to pick base color">
+            <div class="color-picker-swatch" id="pickerSwatch"></div>
+            <input type="color" class="color-picker-native" id="nativeColorInput" value="#3b82f6" />
+          </div>
+          
+          <div class="hex-input-box">
+            <span class="input-label">Base Color</span>
+            <div class="hex-input-field">
+              <span>#</span>
+              <input type="text" id="hexTextInput" value="3B82F6" maxlength="6" />
+            </div>
+          </div>
+
+          <div class="color-space-tabs">
+            <button class="tab-btn active" data-space="hex">HEX</button>
+            <button class="tab-btn" data-space="rgb">RGB</button>
+            <button class="tab-btn" data-space="hsl">HSL</button>
+            <button class="tab-btn" data-space="oklch">OKLCH</button>
+          </div>
+        </div>
+
+        <div class="controls-grid">
+          <div class="control-item">
+            <span class="input-label">Algorithm</span>
+            <select class="select-input" id="algorithmSelect">
+              <option value="tailwind">Tailwind CSS</option>
+              <option value="radix">Radix UI</option>
+              <option value="antd">Ant Design</option>
+              <option value="lightness">Lightness Scale</option>
+              <option value="saturation">Saturation Scale</option>
+              <option value="hue">Hue Shift Scale</option>
+              <option value="monochromatic">Monochromatic</option>
+              <option value="analogous">Analogous</option>
+              <option value="complementary">Complementary</option>
+            </select>
+          </div>
+
+          <div class="control-item">
+            <span class="input-label">Contrast Shift</span>
+            <div class="range-input-group">
+              <input type="range" class="range-input" id="contrastShiftRange" min="-1" max="1" step="0.05" value="0" />
+              <span class="num-val" id="contrastShiftVal">0.00</span>
+            </div>
+          </div>
+
+          <div class="control-item">
+            <span class="input-label">Naming Pattern</span>
+            <select class="select-input" id="namingPatternSelect">
+              <option value="standard">50, 100...900</option>
+              <option value="sequential">1, 2, 3...20</option>
+              <option value="multiples">10, 20, 30...200</option>
+            </select>
+          </div>
+
+          <div class="control-item">
+            <span class="input-label">Shade Count</span>
+            <div class="range-input-group">
+              <input type="range" class="range-input" id="shadeCountRange" min="2" max="20" value="11" />
+              <span class="num-val" id="shadeCountVal">11</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="action-buttons-group">
+          <button class="btn" id="toggleDrawerBtn" title="Fine-tuning curves">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+            </svg>
+            Controls
+          </button>
+
+          <button class="btn" id="randomizeBtn" title="Randomize color (Spacebar)">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+              <circle cx="8.5" cy="8.5" r="1.5"></circle>
+              <circle cx="15.5" cy="15.5" r="1.5"></circle>
+              <circle cx="15.5" cy="8.5" r="1.5"></circle>
+              <circle cx="8.5" cy="15.5" r="1.5"></circle>
+              <circle cx="12" cy="12" r="1.5"></circle>
+            </svg>
+            Random
+          </button>
+
+          <button class="btn btn-primary" id="exportBtn">Export</button>
+        </div>
+      </div>
+
+      <!-- SHORTCUT HINT BANNER -->
+      <div class="shortcut-hint">
+        <span>💡 Hint: Press <kbd>Spacebar</kbd> or click Random to generate a new color. Press <kbd>C</kbd> to copy code, <kbd>E</kbd> to export.</span>
+      </div>
+
+      <!-- FINE TUNING DRAWER -->
+      <div class="curves-drawer" id="curvesDrawer">
+        <div class="curve-control-box">
+          <span class="input-label">Lightness Scale Adjust</span>
+          <div class="range-input-group">
+            <input type="range" class="range-input" id="lightnessAdjust" min="-0.5" max="0.5" step="0.02" value="0" />
+            <span class="num-val" id="lightnessAdjustVal">0.00</span>
+          </div>
+        </div>
+
+        <div class="curve-control-box">
+          <span class="input-label">Saturation / Chroma Curve</span>
+          <div class="range-input-group">
+            <input type="range" class="range-input" id="chromaAdjust" min="-0.5" max="0.5" step="0.02" value="0" />
+            <span class="num-val" id="chromaAdjustVal">0.00</span>
+          </div>
+        </div>
+
+        <div class="curve-control-box">
+          <span class="input-label">Hue Shift Curve (°deg)</span>
+          <div class="range-input-group">
+            <input type="range" class="range-input" id="hueShiftAdjust" min="-90" max="90" step="1" value="0" />
+            <span class="num-val" id="hueShiftAdjustVal">0°</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- PRESET INSPIRATION -->
+      <div class="presets-section">
+        <div class="presets-title">Popular Presets</div>
+        <div class="presets-list">
+          <div class="preset-chip" data-color="3B82F6"><div class="preset-dot" style="background:#3B82F6;"></div>Brand Blue</div>
+          <div class="preset-chip" data-color="10B981"><div class="preset-dot" style="background:#10B981;"></div>Emerald</div>
+          <div class="preset-chip" data-color="8B5CF6"><div class="preset-dot" style="background:#8B5CF6;"></div>Violet</div>
+          <div class="preset-chip" data-color="F59E0B"><div class="preset-dot" style="background:#F59E0B;"></div>Amber</div>
+          <div class="preset-chip" data-color="F43F5E"><div class="preset-dot" style="background:#F43F5E;"></div>Rose</div>
+          <div class="preset-chip" data-color="64748B"><div class="preset-dot" style="background:#64748B;"></div>Slate</div>
+          <div class="preset-chip" data-color="00F0FF"><div class="preset-dot" style="background:#00F0FF;"></div>Cyber Neon</div>
+          <div class="preset-chip" data-color="FF5722"><div class="preset-dot" style="background:#FF5722;"></div>Sunset Orange</div>
+        </div>
+      </div>
+
+      <!-- SHADES STREAM GRID -->
+      <div class="shades-container" id="shadesContainer">
+        <!-- Shade Cards will be rendered dynamically here -->
+      </div>
+    </div>
+  </main>
+
+  <!-- EXPORT MODAL -->
+  <div class="modal-overlay" id="exportModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Export Color Tokens</h3>
+        <button class="btn btn-icon" id="closeModalBtn">✕</button>
+      </div>
+
+      <div class="export-tabs">
+        <button class="export-tab active" data-format="css">CSS Variables</button>
+        <button class="export-tab" data-format="tailwind">Tailwind v3</button>
+        <button class="export-tab" data-format="tailwind4">Tailwind v4 (@theme)</button>
+        <button class="export-tab" data-format="tokens">Tokens (JSON)</button>
+      </div>
+
+      <div class="code-preview" id="codePreview"></div>
+
+      <div style="display:flex; justify-content:flex-end;">
+        <button class="btn btn-primary" id="copyCodeBtn">Copy Code</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST ALERT -->
+  <div class="toast" id="toastAlert">Copied color to clipboard!</div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025 - 2026 Overlayz Studio. Kigen is created with ♥ by realvjy.</div>
+      <div style="display:flex; gap:16px;">
+        <a href="#" style="color:inherit; text-decoration:none;">Figma</a>
+        <a href="#" style="color:inherit; text-decoration:none;">X/Twitter</a>
+        <a href="#" style="color:inherit; text-decoration:none;">Privacy</a>
+        <a href="#" style="color:inherit; text-decoration:none;">Terms</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- CORE COLOR LOGIC SCRIPT -->
+  <script>
+    // COLOR UTILITIES
+    function hexToRgb(hex) {
+      hex = hex.replace(/^#/, '');
+      if (hex.length === 3) hex = hex.split('').map(c => c + c).join('');
+      const num = parseInt(hex, 16);
+      return { r: (num >> 16) & 255, g: (num >> 8) & 255, b: num & 255 };
+    }
+
+    function rgbToHex(r, g, b) {
+      const toHex = c => Math.max(0, Math.min(255, Math.round(c))).toString(16).padStart(2, '0');
+      return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
+    }
+
+    function rgbToHsl(r, g, b) {
+      r /= 255; g /= 255; b /= 255;
+      const max = Math.max(r, g, b), min = Math.min(r, g, b);
+      let h = 0, s = 0, l = (max + min) / 2;
+      if (max !== min) {
+        const d = max - min;
+        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+        switch (max) {
+          case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+          case g: h = (b - r) / d + 2; break;
+          case b: h = (r - g) / d + 4; break;
+        }
+        h /= 6;
+      }
+      return { h: Math.round(h * 360), s: Math.round(s * 100), l: Math.round(l * 100) };
+    }
+
+    function srgbToLinear(c) {
+      c /= 255;
+      return c <= 0.04045 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4);
+    }
+
+    function linearToSrgb(c) {
+      c = Math.max(0, Math.min(1, c));
+      const s = c <= 0.0031308 ? c * 12.92 : 1.055 * Math.pow(c, 1 / 2.4) - 0.055;
+      return Math.round(s * 255);
+    }
+
+    function rgbToOklch(r, g, b) {
+      const lr = srgbToLinear(r), lg = srgbToLinear(g), lb = srgbToLinear(b);
+      const l = Math.cbrt(0.4122214708 * lr + 0.5363325363 * lg + 0.0514459929 * lb);
+      const m = Math.cbrt(0.2119034982 * lr + 0.6806995451 * lg + 0.1073969566 * lb);
+      const s = Math.cbrt(0.0883024619 * lr + 0.2817188376 * lg + 0.6299787015 * lb);
+
+      const L = 0.2104542553 * l + 0.7936177850 * m - 0.0040720403 * s;
+      const a = 1.9779984951 * l - 2.4285922050 * m + 0.4505937099 * s;
+      const b_val = 0.0259040371 * l + 0.7827717662 * m - 0.8086757973 * s;
+
+      const C = Math.sqrt(a * a + b_val * b_val);
+      let h = Math.atan2(b_val, a) * (180 / Math.PI);
+      if (h < 0) h += 360;
+
+      return { l: Number(L.toFixed(3)), c: Number(C.toFixed(3)), h: Number(h.toFixed(1)) };
+    }
+
+    function oklchToRgb(l, c, h) {
+      const hRad = (h * Math.PI) / 180;
+      const a = c * Math.cos(hRad);
+      const b_val = c * Math.sin(hRad);
+
+      const l_ = l + 0.3963377774 * a + 0.2158037573 * b_val;
+      const m_ = l - 0.1055613458 * a - 0.0638541728 * b_val;
+      const s_ = l - 0.0894841775 * a - 1.2914855480 * b_val;
+
+      const l3 = l_ * l_ * l_;
+      const m3 = m_ * m_ * m_;
+      const s3 = s_ * s_ * s_;
+
+      const rLin = +4.0767416621 * l3 - 3.3077115913 * m3 + 0.2309699292 * s3;
+      const gLin = -1.2684380046 * l3 + 2.6097574011 * m3 - 0.3413193965 * s3;
+      const bLin = -0.0041960863 * l3 - 0.7034186147 * m3 + 1.7076147010 * s3;
+
+      return { r: linearToSrgb(rLin), g: linearToSrgb(gLin), b: linearToSrgb(bLin) };
+    }
+
+    function getLuminance(r, g, b) {
+      const a = [r, g, b].map(v => {
+        v /= 255;
+        return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+      });
+      return a[0] * 0.2126 + a[1] * 0.7152 + a[2] * 0.0722;
+    }
+
+    function getContrastRatio(rgb1, rgb2) {
+      const lum1 = getLuminance(rgb1.r, rgb1.g, rgb1.b);
+      const lum2 = getLuminance(rgb2.r, rgb2.g, rgb2.b);
+      const brightest = Math.max(lum1, lum2);
+      const darkest = Math.min(lum1, lum2);
+      return (brightest + 0.05) / (darkest + 0.05);
+    }
+
+    // STATE
+    const state = {
+      baseHex: '3B82F6',
+      activeSpace: 'hex',
+      algorithm: 'tailwind',
+      contrastShift: 0,
+      namingPattern: 'standard',
+      shadeCount: 11,
+      lightnessAdjust: 0,
+      chromaAdjust: 0,
+      hueShiftAdjust: 0,
+      activeExportFormat: 'css'
+    };
+
+    // ALGORITHM TARGET LUMINANCES
+    const TAILWIND_TARGETS = [0.97, 0.93, 0.85, 0.73, 0.56, 0.40, 0.28, 0.20, 0.13, 0.08, 0.04];
+    const ANTD_TARGETS = [0.98, 0.93, 0.85, 0.73, 0.60, 0.45, 0.33, 0.22, 0.13, 0.07];
+    const RADIX_TARGETS = [0.99, 0.97, 0.94, 0.91, 0.86, 0.79, 0.70, 0.58, 0.45, 0.38, 0.25, 0.09];
+
+    // COLOR NAMES GENERATOR SIMULATION
+    const COLOR_NAMES_MAP = {
+      '50': 'Ice White', '100': 'Frost Tint', '200': 'Light Mist', '300': 'Soft Glow',
+      '400': 'Bright Accent', '500': 'Primary Base', '600': 'Vibrant Shade',
+      '700': 'Deep Tone', '800': 'Dark Shadow', '900': 'Midnight', '950': 'Abyssal'
+    };
+
+    function generateShades() {
+      const baseRgb = hexToRgb(state.baseHex);
+      const baseOklch = rgbToOklch(baseRgb.r, baseRgb.g, baseRgb.b);
+      const count = parseInt(state.shadeCount);
+      const shades = [];
+
+      let targetLuminances = [];
+      if (state.algorithm === 'tailwind') {
+        targetLuminances = interpolateTargets(TAILWIND_TARGETS, count);
+      } else if (state.algorithm === 'antd') {
+        targetLuminances = interpolateTargets(ANTD_TARGETS, count);
+      } else if (state.algorithm === 'radix') {
+        targetLuminances = interpolateTargets(RADIX_TARGETS, count);
+      } else {
+        // Uniform linear distribution
+        for (let i = 0; i < count; i++) {
+          targetLuminances.push(0.98 - (i / (count - 1)) * 0.92);
+        }
+      }
+
+      // Calculate step labels based on naming pattern
+      let labels = [];
+      if (state.namingPattern === 'standard') {
+        labels = ['50', '100', '200', '300', '400', '500', '600', '700', '800', '900', '950'];
+        labels = interpolateTargets(labels, count);
+      } else if (state.namingPattern === 'sequential') {
+        for (let i = 1; i <= count; i++) labels.push(i.toString());
+      } else {
+        for (let i = 1; i <= count; i++) labels.push((i * 10).toString());
+      }
+
+      for (let i = 0; i < count; i++) {
+        let targetL = targetLuminances[i] + parseFloat(state.lightnessAdjust) + parseFloat(state.contrastShift) * 0.1;
+        targetL = Math.max(0.02, Math.min(0.99, targetL));
+
+        let targetC = baseOklch.c + parseFloat(state.chromaAdjust);
+        // Reduce chroma on extreme light/dark steps to prevent clipping
+        if (targetL > 0.85 || targetL < 0.2) targetC *= 0.6;
+        targetC = Math.max(0, Math.min(0.35, targetC));
+
+        let targetH = (baseOklch.h + parseFloat(state.hueShiftAdjust) + (i - count/2) * (state.algorithm === 'hue' ? 12 : 2)) % 360;
+        if (targetH < 0) targetH += 360;
+
+        const rgb = oklchToRgb(targetL, targetC, targetH);
+        const hex = rgbToHex(rgb.r, rgb.g, rgb.b);
+        const hsl = rgbToHsl(rgb.r, rgb.g, rgb.b);
+        const oklch = rgbToOklch(rgb.r, rgb.g, rgb.b);
+
+        // WCAG Contrast against White & Black
+        const contrastWhite = getContrastRatio(rgb, {r:255,g:255,b:255});
+        const contrastBlack = getContrastRatio(rgb, {r:0,g:0,b:0});
+
+        shades.push({
+          step: labels[i] || (i + 1),
+          name: COLOR_NAMES_MAP[labels[i]] || `Shade ${i + 1}`,
+          hex: hex,
+          rgb: `rgb(${rgb.r}, ${rgb.g}, ${rgb.b})`,
+          hsl: `hsl(${hsl.h}, ${hsl.s}%, ${hsl.l}%)`,
+          oklch: `oklch(${oklch.l} ${oklch.c} ${oklch.h})`,
+          rgbObj: rgb,
+          contrastWhite: contrastWhite.toFixed(1),
+          contrastBlack: contrastBlack.toFixed(1),
+          isBase: Math.abs(targetL - baseOklch.l) < 0.08
+        });
+      }
+      return shades;
+    }
+
+    function interpolateTargets(arr, count) {
+      if (arr.length === count) return arr;
+      const res = [];
+      for (let i = 0; i < count; i++) {
+        const idx = (i / (count - 1)) * (arr.length - 1);
+        const low = Math.floor(idx);
+        const high = Math.ceil(idx);
+        const weight = idx - low;
+        if (typeof arr[low] === 'number') {
+          res.push(arr[low] * (1 - weight) + arr[high] * weight);
+        } else {
+          res.push(arr[Math.round(idx)]);
+        }
+      }
+      return res;
+    }
+
+    // RENDER FUNCTIONS
+    function renderShades() {
+      const container = document.getElementById('shadesContainer');
+      const shades = generateShades();
+      container.innerHTML = '';
+
+      shades.forEach(s => {
+        const card = document.createElement('div');
+        card.className = 'shade-card';
+
+        let displayValue = s.hex;
+        if (state.activeSpace === 'rgb') displayValue = s.rgb;
+        if (state.activeSpace === 'hsl') displayValue = s.hsl;
+        if (state.activeSpace === 'oklch') displayValue = s.oklch;
+
+        const isDarkText = parseFloat(s.contrastWhite) < 4.5;
+        const textStyleColor = isDarkText ? '#000000' : '#ffffff';
+
+        card.innerHTML = `
+          <div class="shade-color-box" style="background-color: ${s.hex}; color: ${textStyleColor};">
+            ${s.isBase ? `<span class="shade-badge">BASE</span>` : `<span></span>`}
+            <div style="font-weight:700; font-size:16px;">${s.step}</div>
+          </div>
+          <div class="shade-card-info">
+            <div class="shade-step-name">
+              <span>${s.step}</span>
+              <span class="shade-color-name">${s.name}</span>
+            </div>
+            <div class="shade-value-code" onclick="copyToClipboard('${displayValue}')" title="Click to copy">
+              <span>${displayValue}</span>
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            </div>
+            <div style="display:flex; gap:6px; margin-top:4px;">
+              <span class="contrast-badge ${parseFloat(s.contrastWhite) >= 4.5 ? 'contrast-pass' : 'contrast-fail'}" title="Contrast vs White">
+                W: ${s.contrastWhite}:1
+              </span>
+              <span class="contrast-badge ${parseFloat(s.contrastBlack) >= 4.5 ? 'contrast-pass' : 'contrast-fail'}" title="Contrast vs Black">
+                B: ${s.contrastBlack}:1
+              </span>
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function updateColor(hex) {
+      hex = hex.replace(/^#/, '').toUpperCase();
+      if (/^[0-9A-F]{6}$/.i.test(hex)) {
+        state.baseHex = hex;
+        document.getElementById('hexTextInput').value = hex;
+        document.getElementById('nativeColorInput').value = '#' + hex;
+        document.getElementById('pickerSwatch').style.backgroundColor = '#' + hex;
+        renderShades();
+      }
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toastAlert');
+      toast.innerText = msg;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+
+    function copyToClipboard(text) {
+      navigator.clipboard.writeText(text);
+      showToast(`Copied ${text} to clipboard!`);
+    }
+
+    function updateExportCode() {
+      const shades = generateShades();
+      const format = state.activeExportFormat;
+      let code = '';
+
+      if (format === 'css') {
+        code = `/* CSS Variables generated from Kigen.design */\n:root {\n`;
+        shades.forEach(s => {
+          code += `  --color-brand-${s.step}: ${s.hex};\n`;
+        });
+        code += `}`;
+      } else if (format === 'tailwind') {
+        code = `// Tailwind CSS v3 Config\nmodule.exports = {\n  theme: {\n    extend: {\n      colors: {\n        brand: {\n`;
+        shades.forEach(s => {
+          code += `          '${s.step}': '${s.hex}',\n`;
+        });
+        code += `        }\n      }\n    }\n  }\n}`;
+      } else if (format === 'tailwind4') {
+        code = `/* Tailwind CSS v4 Theme */\n@theme {\n`;
+        shades.forEach(s => {
+          code += `  --color-brand-${s.step}: ${s.hex};\n`;
+        });
+        code += `}`;
+      } else if (format === 'tokens') {
+        const obj = {};
+        shades.forEach(s => {
+          obj[s.step] = { "$value": s.hex, "$type": "color" };
+        });
+        code = JSON.stringify({ brand: obj }, null, 2);
+      }
+
+      document.getElementById('codePreview').textContent = code;
+    }
+
+    // EVENT LISTENERS BINDING
+    document.addEventListener('DOMContentLoaded', () => {
+      // Hex text input
+      const hexInput = document.getElementById('hexTextInput');
+      hexInput.addEventListener('input', (e) => updateColor(e.target.value));
+
+      // Native color picker
+      const nativePicker = document.getElementById('nativeColorInput');
+      nativePicker.addEventListener('input', (e) => updateColor(e.target.value));
+
+      // Spacebar mode tabs
+      document.querySelectorAll('.color-space-tabs .tab-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          document.querySelectorAll('.color-space-tabs .tab-btn').forEach(b => b.classList.remove('active'));
+          e.target.classList.add('active');
+          state.activeSpace = e.target.getAttribute('data-space');
+          renderShades();
+        });
+      });
+
+      // Select controls
+      document.getElementById('algorithmSelect').addEventListener('change', (e) => {
+        state.algorithm = e.target.value;
+        renderShades();
+      });
+
+      document.getElementById('namingPatternSelect').addEventListener('change', (e) => {
+        state.namingPattern = e.target.value;
+        renderShades();
+      });
+
+      // Range sliders
+      document.getElementById('contrastShiftRange').addEventListener('input', (e) => {
+        state.contrastShift = e.target.value;
+        document.getElementById('contrastShiftVal').innerText = parseFloat(e.target.value).toFixed(2);
+        renderShades();
+      });
+
+      document.getElementById('shadeCountRange').addEventListener('input', (e) => {
+        state.shadeCount = e.target.value;
+        document.getElementById('shadeCountVal').innerText = e.target.value;
+        renderShades();
+      });
+
+      // Curves drawer controls
+      document.getElementById('lightnessAdjust').addEventListener('input', (e) => {
+        state.lightnessAdjust = e.target.value;
+        document.getElementById('lightnessAdjustVal').innerText = parseFloat(e.target.value).toFixed(2);
+        renderShades();
+      });
+
+      document.getElementById('chromaAdjust').addEventListener('input', (e) => {
+        state.chromaAdjust = e.target.value;
+        document.getElementById('chromaAdjustVal').innerText = parseFloat(e.target.value).toFixed(2);
+        renderShades();
+      });
+
+      document.getElementById('hueShiftAdjust').addEventListener('input', (e) => {
+        state.hueShiftAdjust = e.target.value;
+        document.getElementById('hueShiftAdjustVal').innerText = `${e.target.value}°`;
+        renderShades();
+      });
+
+      document.getElementById('toggleDrawerBtn').addEventListener('click', () => {
+        document.getElementById('curvesDrawer').classList.toggle('open');
+      });
+
+      // Preset chips
+      document.querySelectorAll('.preset-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const hex = chip.getAttribute('data-color');
+          updateColor(hex);
+          showToast(`Loaded preset: ${chip.innerText.trim()}`);
+        });
+      });
+
+      // Random button
+      document.getElementById('randomizeBtn').addEventListener('click', randomizeColor);
+
+      function randomizeColor() {
+        const randomHex = Math.floor(Math.random()*16777215).toString(16).padStart(6, '0').toUpperCase();
+        updateColor(randomHex);
+        showToast(`Randomized: #${randomHex}`);
+      }
+
+      // Theme toggle
+      document.getElementById('themeToggleBtn').addEventListener('click', () => {
+        const isDark = document.body.getAttribute('data-theme') === 'dark';
+        document.body.setAttribute('data-theme', isDark ? 'light' : 'dark');
+      });
+
+      // Export modal
+      const modal = document.getElementById('exportModal');
+      document.getElementById('exportBtn').addEventListener('click', () => {
+        updateExportCode();
+        modal.classList.add('open');
+      });
+
+      document.getElementById('closeModalBtn').addEventListener('click', () => {
+        modal.classList.remove('open');
+      });
+
+      document.querySelectorAll('.export-tab').forEach(tab => {
+        tab.addEventListener('click', (e) => {
+          document.querySelectorAll('.export-tab').forEach(t => t.classList.remove('active'));
+          e.target.classList.add('active');
+          state.activeExportFormat = e.target.getAttribute('data-format');
+          updateExportCode();
+        });
+      });
+
+      document.getElementById('copyCodeBtn').addEventListener('click', () => {
+        const code = document.getElementById('codePreview').textContent;
+        copyToClipboard(code);
+      });
+
+      // KEYBOARD SHORTCUTS
+      document.addEventListener('keydown', (e) => {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+        if (e.code === 'Space') {
+          e.preventDefault();
+          randomizeColor();
+        } else if (e.code === 'KeyE') {
+          e.preventDefault();
+          updateExportCode();
+          modal.classList.add('open');
+        } else if (e.code === 'Escape') {
+          modal.classList.remove('open');
+          document.getElementById('curvesDrawer').classList.remove('open');
+        }
+      });
+
+      // INITIAL RENDER
+      updateColor('3B82F6');
+    });
+  </script>
+</body>
+</html>
