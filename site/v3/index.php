@@ -347,7 +347,7 @@ function chip_active(string $a, string $b): string { return $a === $b ? 'chip--a
 <meta name="theme-color" content="#0a0a14">
 <meta name="description" content="PKcards — <?= $TOTAL ?> jeux de cartes : règles, favoris, découverte.">
 <title>PKcards — <?= $TOTAL ?> jeux de cartes</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230a0a14'/><text x='32' y='44' font-size='36' text-anchor='middle'>🂠</text></svg>">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 :root{--gold:#e8c46a;--bg:#0a0a14;--card:rgba(255,255,255,.035);--border:rgba(255,255,255,.07);--muted:#7a7a8c;--red:#e74c3c;--green:#2ecc71}
