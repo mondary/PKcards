@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.20';
+const VERSION = '2026.08.21';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -1157,7 +1157,12 @@ const loadNextImage=()=>{
   if(imageLoading||!imageQueue.length)return;
   imageLoading=true;
   const img=imageQueue.shift();
-  const next=()=>setTimeout(()=>{imageLoading=false;loadNextImage();},180);
+  let finished=false;
+  const next=()=>{
+    if(finished)return;
+    finished=true;
+    setTimeout(()=>{imageLoading=false;loadNextImage();},520);
+  };
   img.addEventListener('load',next,{once:true});
   img.addEventListener('error',next,{once:true});
   loadImage(img);
