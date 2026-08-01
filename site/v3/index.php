@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.18';
+const VERSION = '2026.08.19';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -1139,12 +1139,24 @@ const loadImage=img=>{
 };
 document.querySelectorAll('img[data-fallback]:not([data-src])').forEach(watchImageErrors);
 const lazyImages=document.querySelectorAll('img[data-src]');
+const imageQueue=[];
+let imageLoading=false;
+const loadNextImage=()=>{
+  if(imageLoading||!imageQueue.length)return;
+  imageLoading=true;
+  const img=imageQueue.shift();
+  const next=()=>setTimeout(()=>{imageLoading=false;loadNextImage();},180);
+  img.addEventListener('load',next,{once:true});
+  img.addEventListener('error',next,{once:true});
+  loadImage(img);
+};
+const queueImage=img=>{imageQueue.push(img);loadNextImage();};
 if('IntersectionObserver' in window){
   const imageObserver=new IntersectionObserver((entries,observer)=>entries.forEach(entry=>{
-    if(entry.isIntersecting){loadImage(entry.target);observer.unobserve(entry.target);}
+    if(entry.isIntersecting){queueImage(entry.target);observer.unobserve(entry.target);}
   }),{rootMargin:'320px 0px'});
   lazyImages.forEach(img=>imageObserver.observe(img));
-}else lazyImages.forEach(loadImage);
+}else lazyImages.forEach(queueImage);
 
 const currentTheme=()=>document.documentElement.dataset.theme || 'cat';
 function syncThemeUI(){
