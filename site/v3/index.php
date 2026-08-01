@@ -566,7 +566,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
  .game__fav{color:#737b9c;border-radius:12px;transition:color .18s,background .18s}.game__fav:hover{color:var(--red);background:rgba(231,130,132,.1)}
   .game__thumb{width:46px;height:46px;border-radius:12px}
   .tag--clm,.tag--mistigri{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
-  .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
+   .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
+   .yt-alts{display:flex;flex-wrap:wrap;gap:7px;margin:-12px 0 24px}.yt-alt{padding:5px 12px;border:1px solid var(--border);border-radius:50px;background:var(--card);color:var(--muted);font-size:.76rem;transition:color .15s,border-color .15s,background .15s}.yt-alt:hover{color:var(--peach);border-color:var(--peach);background:rgba(239,159,118,.08)}
    .reader-hero{--hero-c:var(--gold);position:relative;height:100dvh;min-height:420px;margin:0 calc(50% - 50vw);padding:clamp(96px,18vh,150px) 0 26px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:end;align-items:center;z-index:1}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(22,24,36,.62),transparent 38%),linear-gradient(90deg,rgba(22,24,36,.5) 0%,rgba(22,24,36,.18) 50%,rgba(22,24,36,0) 100%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(1.05) contrast(1.08) brightness(1.05)}.reader-hero__eyebrow{width:70%;max-width:1080px;font-family:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase}.reader-hero h1{width:70%;max-width:1080px;margin:13px 0 20px;color:#f5eee5;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(3rem,9vw,7rem);font-weight:500;letter-spacing:-.02em;line-height:.9;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:7px;font-family:'DM Mono',ui-monospace,monospace}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.7rem;letter-spacing:.04em;backdrop-filter:blur(6px)}
    .reader-body{--fade-h:220px;position:relative;z-index:2;margin:-180px 0 0;padding:var(--fade-h) 0 70px;background:transparent}.reader-body::before{content:'';position:absolute;z-index:0;top:0;left:0;right:0;height:var(--fade-h);background:linear-gradient(180deg,transparent,var(--bg));pointer-events:none}.reader-body::after{content:'';position:absolute;z-index:0;top:var(--fade-h);right:0;bottom:0;left:0;background:var(--bg);pointer-events:none}.reader-body-inner{position:relative;z-index:1;width:70%;max-width:1080px;margin:0 auto}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
@@ -582,7 +583,18 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   if (!$g) { http_response_code(404); $view = 'notfound'; $g = null; }
   if ($g):
     $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
-    $ytUrl = 'https://www.youtube.com/results?search_query=' . rawurlencode($g['title'] . ' règles jeu de cartes');
+    // Noms de recherche YouTube : titre principal + variantes entre parenthèses + aliases.
+    $_t = trim(preg_replace('/^(Le|La|Les|L|Un|Une|Du|De|Des)[\'’]?\s+/i', '', preg_replace('/\s*\([^)]*\)/', '', $g['title'])));
+    $_names = array_filter([$_t], fn($x) => $x !== '');
+    preg_match_all('/\(([^)]*)\)/', $g['title'], $_pm);
+    foreach ($_pm[1] as $_p) foreach (preg_split('~/|,~', $_p) as $_x) {
+      $_x = trim($_x);
+      if ($_x !== '' && !preg_match('/\d|var|jeu de cartes|^avec/i', $_x)) $_names[] = $_x;
+    }
+    foreach (preg_split('~/|,~', (string)$g['aliases']) as $_x) { $_x = trim($_x); if ($_x !== '') $_names[] = $_x; }
+    $_seen = []; $yNames = [];
+    foreach ($_names as $_n) { $_l = mb_strtolower($_n); if (!isset($_seen[$_l])) { $_seen[$_l] = 1; $yNames[] = $_n; } }
+    $_yt = fn(string $n): string => 'https://www.youtube.com/results?search_query=' . rawurlencode('règles du jeu ' . $n);
     $heroPhoto = $g['image'] ? '?img=' . urlencode($g['image']) : hero_photo($g);
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
@@ -609,7 +621,10 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
     </div>
-    <a class="reader__youtube" href="<?= e($ytUrl) ?>" target="_blank" rel="noopener noreferrer">▶ Rechercher les règles sur YouTube</a>
+    <?php if ($yNames): $_main = array_shift($yNames); ?>
+    <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer">▶ Règles du jeu « <?= e($_main) ?> » sur YouTube</a>
+    <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
+    <?php endif; ?>
     <div class="rules"><?= md2html($md) ?></div>
     </div>
     </div>
