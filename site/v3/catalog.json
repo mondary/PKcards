@@ -28,6 +28,441 @@
     "rummy-500": "rami-500"
   },
   "content_sources": {},
+  "families": {
+    "Addition": [
+      "baccara",
+      "black-jack-banquier",
+      "casino",
+      "chkobba",
+      "cribbage",
+      "elimination",
+      "ferme",
+      "la-pomme",
+      "macao",
+      "papillon",
+      "quatre-quatorze",
+      "quatre-vingt-dix-neuf",
+      "scopa",
+      "sept-vingt-sept",
+      "trente-et-quarante",
+      "trente-et-un",
+      "vingt-et-un",
+      "whip",
+      "brain-drain",
+      "cinquante-plus-moins",
+      "le-100",
+      "le-21",
+      "le-24",
+      "le-98",
+      "noddy"
+    ],
+    "Adresse": [
+      "chateau-de-cartes"
+    ],
+    "Appariemment": [
+      "8-americain",
+      "baudet",
+      "chat",
+      "dominos",
+      "fan-tan",
+      "flip",
+      "menteur",
+      "michigan",
+      "nain-jaune",
+      "nigaud",
+      "papesse-jeanne",
+      "poque",
+      "quit",
+      "salade",
+      "sans-coeur",
+      "anandis",
+      "blanche-neige",
+      "clubbed",
+      "east-wes",
+      "eleusis",
+      "last-one",
+      "le-21",
+      "le-kings-corners",
+      "le-poker-squares",
+      "q-squared-joe",
+      "sab-at-al-deemin",
+      "snip-snap-snoru",
+      "spi",
+      "tras",
+      "le-tour-de-france"
+    ],
+    "Attaque": [
+      "clubbed",
+      "mustamaija",
+      "stortok"
+    ],
+    "Banque": [
+      "ambigu",
+      "baccara",
+      "bassette",
+      "black-jack-banquier",
+      "bouillotte",
+      "brag",
+      "brelan",
+      "chien-rouge",
+      "commerce",
+      "elimination",
+      "ferme",
+      "florentin",
+      "in-between",
+      "jeu-de-loo",
+      "lansquenet",
+      "loterie",
+      "macao",
+      "michigan",
+      "motz",
+      "mouche",
+      "nain-jaune",
+      "papesse-jeanne",
+      "papillon",
+      "petits-paquets",
+      "pharaon",
+      "poque",
+      "poule-3-cartes",
+      "poule-5-cartes",
+      "sept-et-demi",
+      "tontine",
+      "treize",
+      "trente-et-quarante",
+      "trente-et-un",
+      "vingt-et-un",
+      "horse-race",
+      "le-bingo"
+    ],
+    "Bataille": [
+      "allo-jack",
+      "animaux",
+      "bataille-corse",
+      "bataille",
+      "frappe-le-valet",
+      "le-front",
+      "mitaine",
+      "ping-pong",
+      "snap",
+      "camicia",
+      "fotbo",
+      "le-neuf",
+      "le-snap-irlandais"
+    ],
+    "Combat": [
+      "dourak",
+      "football-americain",
+      "tennis-cartes",
+      "regicide",
+      "le-cuttle",
+      "q-squared-joe-ng",
+      "q-squared-joe-war",
+      "wizard-due"
+    ],
+    "Commerce": [
+      "carte-svp",
+      "commerce",
+      "commere-accom modez-moi",
+      "coucou",
+      "lechange",
+      "pot",
+      "le-kems",
+      "crapaud",
+      "le-51-japonais",
+      "le-james-bond",
+      "quads"
+    ],
+    "Compendium": [
+      "barbu",
+      "jeu-du-roi",
+      "salade",
+      "sans-coeur"
+    ],
+    "Coopératif": [
+      "regicide"
+    ],
+    "Course": [
+      "football-americain",
+      "tennis-cartes",
+      "horse-race",
+      "le-7-de-coeur",
+      "promenade",
+      "le-tour-de-france"
+    ],
+    "Divers": [
+      "dingo",
+      "le-gops",
+      "shamus"
+    ],
+    "Enchères": [
+      "500",
+      "ascenseur",
+      "belote",
+      "boston",
+      "bridge",
+      "carotte",
+      "charlemagne",
+      "commerce",
+      "conference",
+      "couillon",
+      "euchre",
+      "ferme",
+      "fouine",
+      "hoc",
+      "kalabriasz",
+      "pinochle",
+      "pique",
+      "poker",
+      "preference",
+      "rams",
+      "skat",
+      "tarot",
+      "valet-de-trefle",
+      "whist-a-la-couleur"
+    ],
+    "Enquête": [
+      "extravagante-minoune",
+      "golf",
+      "skyjo",
+      "anandis",
+      "c-q-f-d",
+      "color-game",
+      "eleusis",
+      "identite",
+      "marguerite",
+      "oracle"
+    ],
+    "Escalade": [
+      "president",
+      "big-three"
+    ],
+    "Familles": [
+      "familles",
+      "le-front",
+      "paquet-voleur",
+      "pige-dans-le-lac",
+      "plus-d-atouts",
+      "roi-et-son-epee",
+      "skyjo",
+      "snip-snap-snorem",
+      "vive-la-joie",
+      "la-famille-coeur",
+      "le-go-fish-deluxe",
+      "les-7-familles",
+      "litterature",
+      "omben"
+    ],
+    "Hasard": [
+      "bassette",
+      "bataille",
+      "brelan",
+      "florentin",
+      "lansquenet",
+      "loterie",
+      "petits-paquets",
+      "pharaon",
+      "plus-d-atouts",
+      "roi-et-son-epee",
+      "tontine",
+      "treize",
+      "trente-et-quarante",
+      "vive-la-joie"
+    ],
+    "Levées": [
+      "3-5-7-9",
+      "500",
+      "all-fives",
+      "all-fours",
+      "aluette",
+      "ascenseur",
+      "barbu",
+      "belote",
+      "bezique",
+      "boston",
+      "bridge",
+      "brusquembille",
+      "carotte",
+      "carte-la-plus-basse",
+      "charlemagne",
+      "coeurs",
+      "conference",
+      "couillon",
+      "ecarte",
+      "enfle",
+      "euchre",
+      "fouine",
+      "imperiale",
+      "jeu-de-loo",
+      "jeu-de-valets",
+      "jeu-du-roi",
+      "kalabriasz",
+      "kilo-de-plomb",
+      "la-pomme",
+      "le-vicaire",
+      "manille",
+      "mariage",
+      "marjolet",
+      "motz",
+      "mouche",
+      "nap",
+      "neuf-a-deux",
+      "neuf-a-quatre",
+      "neuf-a-trois",
+      "pinochle",
+      "pique",
+      "piquet",
+      "politaine",
+      "poule-3-cartes",
+      "poule-5-cartes",
+      "preference",
+      "quarante-cinq",
+      "rams",
+      "reversi",
+      "rouge-contre-noir",
+      "salade",
+      "sans-coeur",
+      "sixte",
+      "skat",
+      "tarot",
+      "triomphe",
+      "valet-de-trefle",
+      "whist-a-la-couleur",
+      "whist",
+      "colour-blind",
+      "democratie",
+      "la-salade-canadienne",
+      "le-generala",
+      "le-knock-out-whis"
+    ],
+    "Mémoire": [
+      "la-compliquee",
+      "la-selective",
+      "memoire-a-lepreuve",
+      "identite",
+      "le-memory-cooperatif",
+      "le-memory",
+      "thinkabi"
+    ],
+    "Passes de cartes": [
+      "bouchon",
+      "pouilleux",
+      "paquet-de-merde"
+    ],
+    "Patience": [
+      "crapette-tarot",
+      "crapette",
+      "double-solitaire",
+      "reussite",
+      "solitaire-a-deux"
+    ],
+    "Pioche & défausse": [
+      "baudet",
+      "chat",
+      "dominos",
+      "dourak",
+      "enfle",
+      "fan-tan",
+      "hoc",
+      "kilo-de-plomb",
+      "michigan",
+      "mitaine",
+      "nain-jaune",
+      "nigaud",
+      "papesse-jeanne",
+      "poker-menteur",
+      "president",
+      "puits",
+      "quit",
+      "shithead",
+      "snip-snap-snorem",
+      "gin-rummy",
+      "rami-500",
+      "yaniv",
+      "crapaud",
+      "le-14",
+      "le-41",
+      "le-cabo-var",
+      "le-rami-contra",
+      "le-rami-frustration",
+      "le-rami-machiave",
+      "le-tamalou",
+      "le-yami",
+      "seven-spades",
+      "tres-y-dos",
+      "le-tour-de-france"
+    ],
+    "Poker": [
+      "ambigu",
+      "bouillotte",
+      "brag",
+      "poker-menteur",
+      "poker",
+      "poque",
+      "quatre-quatorze",
+      "sept-vingt-sept",
+      "stud-5-cartes",
+      "stud-7-cartes"
+    ],
+    "Pêche": [
+      "casino",
+      "chkobba",
+      "familles",
+      "papillon",
+      "paquet-voleur",
+      "scopa",
+      "whip",
+      "basra",
+      "kontsina",
+      "pasur"
+    ],
+    "Rami": [
+      "belote",
+      "bezique",
+      "canasta-chinoise",
+      "canasta",
+      "carte-svp",
+      "cinq-rois",
+      "commere-accom modez-moi",
+      "cribbage",
+      "extravagante-minoune",
+      "floune",
+      "hoc",
+      "imperiale",
+      "kalabriasz",
+      "knock-rummy",
+      "lechange",
+      "mariage",
+      "marjolet",
+      "may-i",
+      "mille",
+      "minoune",
+      "mitaine",
+      "petite-ecole",
+      "ping-pong",
+      "pinochle",
+      "piquet",
+      "pot",
+      "rami",
+      "rummy-baltimore",
+      "treize-quebecois",
+      "valet-de-trefle",
+      "gin-rummy",
+      "rami-500"
+    ],
+    "Réaction": [
+      "allo-jack",
+      "bouchon",
+      "flip",
+      "frappe-le-valet",
+      "le-kems",
+      "paquet-de-merde"
+    ],
+    "Rôle": [
+      "mafia",
+      "candyman",
+      "le-killer"
+    ]
+  },
   "games": {
     "3-5-7-9": [
       "Le 3-5-7-9"
@@ -1367,7 +1802,745 @@
       "Jhyap",
       "Dhumbal",
       "Dumbal",
-      "Kluft"
+      "Kluft",
+      "Yanouf"
+    ]
+  },
+  "sources": {
+    "500": [
+      "https://www.pagat.com/euchre/500.html"
+    ],
+    "8-americain": [
+      "https://www.pagat.com/eights/crazy8s.html"
+    ],
+    "all-fives": [
+      "https://www.pagat.com/allfours/allfives.html",
+      "https://www.pagat.com/allfours/pitch.html#fives"
+    ],
+    "all-fours": [
+      "https://www.pagat.com/allfours/allfours.html"
+    ],
+    "allo-jack": [
+      "https://www.pagat.com/war/snap.html"
+    ],
+    "aluette": [
+      "https://www.pagat.com/put/aluette.html"
+    ],
+    "anandis": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/anandis.html"
+    ],
+    "animaux": [
+      "https://www.pagat.com/war/snap.html#animals",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/animals.html",
+      "https://www.pagat.com/snap/snap.html"
+    ],
+    "ascenseur": [
+      "https://www.pagat.com/exact/ohhell.html"
+    ],
+    "baccara": [
+      "https://www.pagat.com/banking/baccarat.html"
+    ],
+    "barbu": [
+      "https://www.pagat.com/compendium/barbu.html"
+    ],
+    "basra": [
+      "https://www.pagat.com/fishing/basra.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-peche/basra.html"
+    ],
+    "bassette": [
+      "https://fr.wikipedia.org/wiki/Bassette_(jeu)"
+    ],
+    "bataille": [
+      "https://www.pagat.com/war/war.html"
+    ],
+    "bataille-corse": [
+      "https://www.pagat.com/war/beggar_my_neighbour.html",
+      "https://www.pagat.com/war/egyptrat.html"
+    ],
+    "belote": [
+      "https://www.pagat.com/jass/belote.html"
+    ],
+    "bezique": [
+      "https://www.pagat.com/marriage/bezique.html",
+      "https://en.wikipedia.org/wiki/Bezique"
+    ],
+    "big-three": [
+      "https://www.pagat.com/climbing/bigthree.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-escalade/big-three.html"
+    ],
+    "black-jack-banquier": [
+      "https://www.pagat.com/banking/blackjack.html"
+    ],
+    "blanche-neige": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/blanche-neige.html"
+    ],
+    "boston": [
+      "https://en.wikipedia.org/wiki/Boston_(card_game)#Boston_de_Nantes"
+    ],
+    "bouchon": [
+      "https://www.pagat.com/passing/pig.html"
+    ],
+    "bouillotte": [
+      "https://www.pagat.com/vying/bouillotte.html"
+    ],
+    "brag": [
+      "https://www.pagat.com/vying/brag.html"
+    ],
+    "brain-drain": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/brain-drain.html"
+    ],
+    "brelan": [
+      "https://www.pagat.com/vying/bouillotte.html"
+    ],
+    "bridge": [
+      "https://www.pagat.com/auctionwhist/bridge.html"
+    ],
+    "brusquembille": [
+      "https://fr.wikipedia.org/wiki/Brusquembille"
+    ],
+    "c-q-f-d": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/c-q-f-d-.html"
+    ],
+    "camicia": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/camicia.html",
+      "https://www.pagat.com/war/beggar_my_neighbour.html"
+    ],
+    "canasta": [
+      "https://www.pagat.com/rummy/canasta.html"
+    ],
+    "canasta-chinoise": [
+      "https://www.pagat.com/rummy/canasta.html#variations"
+    ],
+    "candyman": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-role/candyman.html"
+    ],
+    "casino": [
+      "https://www.pagat.com/fishing/casino.html"
+    ],
+    "charlemagne": [
+      "https://www.pagat.com/euchre/charlemagne.html"
+    ],
+    "chat": [
+      "https://www.pagat.com/patience/spitemal.html"
+    ],
+    "chien-rouge": [
+      "https://www.pagat.com/banking/reddog.html"
+    ],
+    "chkobba": [
+      "https://www.pagat.com/fishing/scopa.html#chkobba"
+    ],
+    "cinq-rois": [
+      "https://www.playmonster.com/product/five-crowns/"
+    ],
+    "cinquante-plus-moins": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/cinquante-plus-moins.html"
+    ],
+    "clubbed": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/clubbed.html"
+    ],
+    "coeurs": [
+      "https://www.pagat.com/reverse/hearts.html",
+      "https://en.wikipedia.org/wiki/Black_Lady"
+    ],
+    "color-game": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/color-game.html"
+    ],
+    "colour-blind": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/colour-blind.html",
+      "https://www.parlettgames.uk/oricards/"
+    ],
+    "commerce": [
+      "https://en.wikipedia.org/wiki/Commerce_(card_game)"
+    ],
+    "coucou": [
+      "https://www.pagat.com/cuckoo/cuckoo.html",
+      "https://www.pagat.com/banking/in-between.html",
+      "https://en.wikipedia.org/wiki/Ranter-Go-Round"
+    ],
+    "couillon": [
+      "https://www.pagat.com/couillon/couillon.html"
+    ],
+    "crapaud": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/crapaud.html"
+    ],
+    "crapette": [
+      "https://www.pagat.com/patience/crapette.html",
+      "https://en.wikipedia.org/wiki/Russian_bank_(card_game)"
+    ],
+    "crapette-tarot": [
+      "https://www.pagat.com/patience/crapette.html"
+    ],
+    "cribbage": [
+      "https://www.pagat.com/adders/crib6.html",
+      "https://en.wikipedia.org/wiki/Cribbage"
+    ],
+    "democratie": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/democratie.html"
+    ],
+    "dingo": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-divers/dingo.html"
+    ],
+    "dominos": [
+      "https://www.pagat.com/layout/sevens.html"
+    ],
+    "double-solitaire": [
+      "https://www.pagat.com/patience/double.html"
+    ],
+    "dourak": [
+      "https://www.pagat.com/beating/durak.html",
+      "https://en.wikipedia.org/wiki/Durak"
+    ],
+    "east-wes": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/east-west.html",
+      "https://boardgamegeek.com/boardgame/3181/east-west"
+    ],
+    "ecarte": [
+      "https://en.wikipedia.org/wiki/%C3%89cart%C3%A9"
+    ],
+    "eleusis": [
+      "https://en.wikipedia.org/wiki/Eleusis_(card_game)",
+      "http://www.logicmazes.com/games/eleusis/",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/eleusis.html"
+    ],
+    "enfle": [
+      "https://en.wikipedia.org/wiki/Enfl%C3%A9"
+    ],
+    "euchre": [
+      "https://www.pagat.com/euchre/euchre.html",
+      "https://en.wikipedia.org/wiki/Euchre"
+    ],
+    "familles": [
+      "https://www.pagat.com/quartet/gofish.html"
+    ],
+    "fan-tan": [
+      "https://www.pagat.com/layout/sevens.html"
+    ],
+    "flip": [
+      "https://www.pagat.com/patience/spit.html"
+    ],
+    "fotbo": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/fotboll.html"
+    ],
+    "fouine": [
+      "https://www.pagat.com/jass/bela.html"
+    ],
+    "frappe-le-valet": [
+      "https://www.pagat.com/war/slapjack.html",
+      "https://en.wikipedia.org/wiki/Slapjack",
+      "https://www.pagat.com/war/slapjack.html#sj1"
+    ],
+    "gin-rummy": [
+      "https://www.pagat.com/rummy/ginrummy.html",
+      "https://en.wikipedia.org/wiki/Gin_rummy"
+    ],
+    "golf": [
+      "https://www.pagat.com/draw/golf.html",
+      "https://www.pagat.com/draw/golf.html#four"
+    ],
+    "hoc": [
+      "https://www.pagat.com/stops/hoc.html",
+      "https://en.wikipedia.org/wiki/Hoc_(card_game)"
+    ],
+    "horse-race": [
+      "https://www.pagat.com/race/horse_race.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/horse-race.html"
+    ],
+    "identite": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/identite.html"
+    ],
+    "in-between": [
+      "https://www.pagat.com/banking/in-between.html"
+    ],
+    "jeu-de-loo": [
+      "https://www.pagat.com/rams/loo.html"
+    ],
+    "jeu-de-valets": [
+      "https://www.pagat.com/reverse/knaves.html",
+      "https://en.wikipedia.org/wiki/Polignac_(card_game)"
+    ],
+    "jeu-du-roi": [
+      "https://www.pagat.com/compendium/king.html"
+    ],
+    "kalabriasz": [
+      "https://www.pagat.com/jass/bela.html",
+      "https://en.wikipedia.org/wiki/Klaberjass"
+    ],
+    "knock-rummy": [
+      "https://www.pagat.com/rummy/knock.html"
+    ],
+    "kontsina": [
+      "https://www.pagat.com/fishing/kontsina.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-peche/kontsina.html"
+    ],
+    "la-famille-coeur": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/la-famille-coeur.html",
+      "https://en.wikipedia.org/wiki/Happy_families"
+    ],
+    "la-salade-canadienne": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/la-salade-canadienne.html",
+      "https://en.wikipedia.org/wiki/Canadian_Salad"
+    ],
+    "lansquenet": [
+      "https://www.pagat.com/banking/lansquenet.html",
+      "https://en.wikipedia.org/wiki/Lansquenet"
+    ],
+    "last-one": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/last-one.html"
+    ],
+    "le-100": [
+      "https://www.pagat.com/adders/98.html#100",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-100.html"
+    ],
+    "le-14": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-14.html"
+    ],
+    "le-21": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-21.html"
+    ],
+    "le-24": [
+      "https://www.pagat.com/adders/24.html",
+      "https://en.wikipedia.org/wiki/24_(puzzle)",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-24.html"
+    ],
+    "le-41": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-41.html"
+    ],
+    "le-51-japonais": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-commerce/le-51-japonais.html"
+    ],
+    "le-7-de-coeur": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/le-7-de-coeur.html"
+    ],
+    "le-98": [
+      "https://www.pagat.com/adders/98.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-98.html"
+    ],
+    "le-bingo": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-banque/le-bingo.html",
+      "https://en.wikipedia.org/wiki/Bingo_(American_version)"
+    ],
+    "le-cabo-var": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-cabo-var.html",
+      "https://www.pagat.com/draw/golf.html"
+    ],
+    "le-cuttle": [
+      "https://www.pagat.com/combat/cuttle.html",
+      "https://en.wikipedia.org/wiki/Cuttle",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/le-cuttle.html"
+    ],
+    "le-generala": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/le-generala.html"
+    ],
+    "le-go-fish-deluxe": [
+      "https://www.pagat.com/quartet/gofish.html#australia",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/le-go-fish-deluxe.html"
+    ],
+    "le-gops": [
+      "https://www.pagat.com/misc/gops.html",
+      "https://en.wikipedia.org/wiki/Goofspiel"
+    ],
+    "le-james-bond": [
+      "https://www.pagat.com/commerce/jamesbond.html"
+    ],
+    "le-kems": [
+      "https://www.pagat.com/commerce/kemps.html",
+      "https://bicyclecards.com/how-to-play/kemps/",
+      "https://en.wikipedia.org/wiki/Kemps_(card_game)"
+    ],
+    "le-killer": [
+      "https://en.wikipedia.org/wiki/Wink_murder",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-role/le-killer.html"
+    ],
+    "le-kings-corners": [
+      "https://www.pagat.com/layout/kingscorners.html"
+    ],
+    "le-knock-out-whis": [
+      "https://www.pagat.com/whist/kowhist.html"
+    ],
+    "le-memory": [
+      "https://www.pagat.com/misc/pelmanism.html",
+      "https://en.wikipedia.org/wiki/Concentration_(game)",
+      "https://en.wikipedia.org/wiki/Concentration_(card_game)"
+    ],
+    "le-memory-cooperatif": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/le-memory-cooperatif.html",
+      "https://www.pagat.com/misc/pelmanism.html"
+    ],
+    "le-neuf": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/le-neuf.html"
+    ],
+    "le-poker-squares": [
+      "https://en.wikipedia.org/wiki/Poker_squares",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/le-poker-squares.html"
+    ],
+    "le-rami-contra": [
+      "https://www.pagat.com/rummy/ctrummy.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-rami-contrat.html"
+    ],
+    "le-rami-frustration": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-rami-frustration.html",
+      "https://www.pagat.com/rummy/ctrummy.html#progressive"
+    ],
+    "le-rami-machiave": [
+      "https://www.pagat.com/rummy/carousel.html#machiavelli"
+    ],
+    "le-snap-irlandais": [
+      "https://www.pagat.com/war/slapjack.html#sj2"
+    ],
+    "le-tamalou": [
+      "https://www.pagat.com/draw/golf.html#power",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-tamalou.html"
+    ],
+    "le-vicaire": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/le-vicaire.html",
+      "https://www.pagat.com/alpha/"
+    ],
+    "le-yami": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-yami.html"
+    ],
+    "lechange": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "les-7-familles": [
+      "https://www.pagat.com/quartet/gofish.html#families"
+    ],
+    "litterature": [
+      "https://www.pagat.com/quartet/literature.html",
+      "https://en.wikipedia.org/wiki/Literature_(card_game)"
+    ],
+    "loterie": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "macao": [
+      "https://en.wikipedia.org/wiki/Macao_(card_game)"
+    ],
+    "mafia": [
+      "https://en.wikipedia.org/wiki/Mafia_(party_game)",
+      "https://fr.wikipedia.org/wiki/Mafia_(jeu)"
+    ],
+    "manille": [
+      "https://en.wikipedia.org/wiki/Manille",
+      "https://www.pagat.com/manille/"
+    ],
+    "marguerite": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/marguerite.html"
+    ],
+    "mariage": [
+      "https://en.wikipedia.org/wiki/Mariage_(card_game)",
+      "https://en.wikipedia.org/wiki/Briscan",
+      "https://en.wikipedia.org/wiki/Brisque"
+    ],
+    "marjolet": [
+      "https://www.pagat.com/marriage/marjolet.html"
+    ],
+    "may-i": [
+      "https://www.pagat.com/rummy/ctrummy.html#mayi"
+    ],
+    "memoire-a-lepreuve": [
+      "https://www.pagat.com/misc/pelmanism.html"
+    ],
+    "menteur": [
+      "https://www.pagat.com/beating/cheat.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/la-triche.html"
+    ],
+    "michigan": [
+      "https://www.pagat.com/stops/michigan.html"
+    ],
+    "mille": [
+      "https://www.pagat.com/rummy/canasta.html"
+    ],
+    "minoune": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "mitaine": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "motz": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "mouche": [
+      "https://en.wikipedia.org/wiki/Mouche_(card_game)",
+      "https://www.pagat.com/rams/"
+    ],
+    "mustamaija": [
+      "https://www.pagat.com/beating/mustamaija.html"
+    ],
+    "nain-jaune": [
+      "https://en.wikipedia.org/wiki/Nain_Jaune",
+      "https://en.wikipedia.org/wiki/Pope_Joan_(card_game)"
+    ],
+    "nap": [
+      "https://www.pagat.com/trumps/nap.html",
+      "https://en.wikipedia.org/wiki/Napoleon_(card_game)"
+    ],
+    "neuf-a-deux": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "neuf-a-quatre": [
+      "https://www.pagat.com/exact/ohhell.html"
+    ],
+    "neuf-a-trois": [
+      "https://www.pagat.com/exact/ohhell.html",
+      "https://en.wikipedia.org/wiki/3-5-8"
+    ],
+    "nigaud": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "noddy": [
+      "https://www.pagat.com/adders/noddy.html",
+      "https://www.parlettgames.uk/histocs/noddy.html"
+    ],
+    "omben": [
+      "https://www.pagat.com/quartet/gofish.html#omben"
+    ],
+    "oracle": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/oracle.html"
+    ],
+    "papesse-jeanne": [
+      "https://www.pagat.com/stops/pope_joan.html",
+      "https://en.wikipedia.org/wiki/Pope_Joan_(card_game)"
+    ],
+    "papillon": [
+      "https://en.wikipedia.org/wiki/Papillon_(card_game)"
+    ],
+    "paquet-de-merde": [
+      "https://www.pagat.com/passing/pig.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-passes-de-cartes/le-kilo-de-merde.html"
+    ],
+    "paquet-voleur": [
+      "https://www.pagat.com/fishing/bundle.html"
+    ],
+    "pasur": [
+      "https://www.pagat.com/fishing/pasur.html"
+    ],
+    "petite-ecole": [
+      "https://www.pagat.com/rummy/ctrummy.html"
+    ],
+    "petits-paquets": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "pharaon": [
+      "https://www.pagat.com/banking/faro.html"
+    ],
+    "pige-dans-le-lac": [
+      "https://www.pagat.com/quartet/gofish.html"
+    ],
+    "ping-pong": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "pinochle": [
+      "https://www.pagat.com/marriage/pin2hand.html",
+      "https://en.wikipedia.org/wiki/Pinochle"
+    ],
+    "pique": [
+      "https://www.pagat.com/auctionwhist/spades.html"
+    ],
+    "piquet": [
+      "https://www.pagat.com/notrump/piquet.html"
+    ],
+    "plus-d-atouts": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "poker": [
+      "https://www.pagat.com/poker/variants/5draw.html",
+      "https://en.wikipedia.org/wiki/Five-card_draw",
+      "https://en.wikipedia.org/wiki/Texas_hold_%27em"
+    ],
+    "poker-menteur": [
+      "https://en.wikipedia.org/wiki/Liar%27s_poker"
+    ],
+    "politaine": [
+      "https://www.pagat.com/alpha/",
+      "https://en.wikipedia.org/wiki/Manille"
+    ],
+    "poque": [
+      "https://www.pagat.com/stops/poch.html"
+    ],
+    "pot": [
+      "https://www.pagat.com/alpha/"
+    ],
+    "pouilleux": [
+      "https://www.pagat.com/passing/oldmaid.html"
+    ],
+    "poule-3-cartes": [
+      "https://www.pagat.com/vying/brag.html"
+    ],
+    "poule-5-cartes": [
+      "https://www.pagat.com/vying/brag.html#five"
+    ],
+    "preference": [
+      "https://www.pagat.com/preference/",
+      "https://en.wikipedia.org/wiki/Preferans"
+    ],
+    "president": [
+      "https://www.pagat.com/climbing/president.html",
+      "https://www.pagat.com/passing/oldmaid.html"
+    ],
+    "promenade": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/promenade.html"
+    ],
+    "q-squared-joe": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/q-squared-joe.html"
+    ],
+    "q-squared-joe-ng": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/q-squared-joe-ng.html"
+    ],
+    "q-squared-joe-war": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/q-squared-joe-war.html"
+    ],
+    "quads": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-commerce/quads.html"
+    ],
+    "quarante-cinq": [
+      "https://www.pagat.com/spoil5/45.html",
+      "https://en.wikipedia.org/wiki/Forty-fives"
+    ],
+    "quatre-vingt-dix-neuf": [
+      "https://en.wikipedia.org/wiki/Ninety-nine_(addition_card_game)"
+    ],
+    "rami": [
+      "https://www.pagat.com/rummy/rummy.html"
+    ],
+    "rami-500": [
+      "https://www.pagat.com/rummy/500rum.html",
+      "https://en.wikipedia.org/wiki/500_rum"
+    ],
+    "rams": [
+      "https://en.wikipedia.org/wiki/Rams_(card_game)",
+      "https://www.pagat.com/rams/"
+    ],
+    "regicide": [
+      "https://www.regicidegame.com/how-to-play/",
+      "https://boardgamegeek.com/boardgame/307002/regicide"
+    ],
+    "reussite": [
+      "https://www.pagat.com/solitaire/",
+      "https://en.wikipedia.org/wiki/Patience_(game)"
+    ],
+    "reversi": [
+      "https://en.wikipedia.org/wiki/Reversis",
+      "http://www.parlettgames.uk/histocs/reversis.html"
+    ],
+    "rummy-baltimore": [
+      "https://www.pagat.com/rummy/ctrummy.html"
+    ],
+    "sab-at-al-deemin": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/sab-at-al-deemin.html"
+    ],
+    "salade": [
+      "https://www.pagat.com/compendium/canadian_salad.html"
+    ],
+    "sans-coeur": [
+      "https://en.wikipedia.org/wiki/King_(card_game)",
+      "https://www.pagat.com/reverse/hearts.html"
+    ],
+    "scopa": [
+      "https://www.pagat.com/fishing/scopa.html",
+      "https://en.wikipedia.org/wiki/Scopa"
+    ],
+    "sept-et-demi": [
+      "https://en.wikipedia.org/wiki/Sette_e_mezzo",
+      "https://www.pagat.com/banking/sette_e_mezzo.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-banque/le-7-et-demi.html"
+    ],
+    "seven-spades": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/seven-spades.html"
+    ],
+    "shamus": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-divers/shamus.html"
+    ],
+    "shithead": [
+      "https://www.pagat.com/beating/shithead.html"
+    ],
+    "skat": [
+      "https://www.pagat.com/skat/skat.html",
+      "https://en.wikipedia.org/wiki/Skat_(card_game)"
+    ],
+    "skyjo": [
+      "https://boardgamegeek.com/boardgame/204135/skyjo"
+    ],
+    "snap": [
+      "https://www.pagat.com/war/snap.html",
+      "https://www.pagat.com/war/slapjack.html"
+    ],
+    "snip-snap-snorem": [
+      "https://www.pagat.com/stops/snipsnapsnorum.html"
+    ],
+    "snip-snap-snoru": [
+      "https://www.pagat.com/stops/snipsnapsnorum.html"
+    ],
+    "solitaire-a-deux": [
+      "https://www.pagat.com/patience/double.html"
+    ],
+    "spi": [
+      "https://www.pagat.com/patience/spit.html"
+    ],
+    "stortok": [
+      "https://www.pagat.com/beating/stortok.html"
+    ],
+    "stud-5-cartes": [
+      "https://www.pagat.com/poker/variants/5stud.html"
+    ],
+    "stud-7-cartes": [
+      "https://www.pagat.com/poker/variants/7stud.html"
+    ],
+    "tarot": [
+      "https://www.pagat.com/tarot/frtarot.html",
+      "https://fftarot.fr/"
+    ],
+    "thinkabi": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/thinkabit.html"
+    ],
+    "tontine": [
+      "https://en.wikipedia.org/wiki/Tontine_(card_game)",
+      "https://salondesjeux.fr/tontine.htm"
+    ],
+    "tras": [
+      "https://www.pagat.com/patience/trash.html"
+    ],
+    "trente-et-quarante": [
+      "https://en.wikipedia.org/wiki/Trente_et_Quarante",
+      "https://www.britannica.com/topic/trente-et-quarante"
+    ],
+    "trente-et-un": [
+      "https://en.wikipedia.org/wiki/Thirty-one_(card_game)"
+    ],
+    "tres-y-dos": [
+      "https://www.pagat.com/rummy/tresydos.html"
+    ],
+    "triomphe": [
+      "https://en.wikipedia.org/wiki/Triomphe"
+    ],
+    "valet-de-trefle": [
+      "https://www.pagat.com/jass/",
+      "https://www.pagat.com/jass/belote.html"
+    ],
+    "vingt-et-un": [
+      "https://www.pagat.com/banking/blackjack.html",
+      "https://www.pagat.com/banking/pontoon.html",
+      "https://en.wikipedia.org/wiki/Twenty-One_(card_game)"
+    ],
+    "vive-la-joie": [
+      "https://www.pagat.com/passing/oldmaid.html"
+    ],
+    "whip": [
+      "https://www.pagat.com/fishing/casino.html",
+      "https://www.pagat.com/fishing/scopa.html"
+    ],
+    "whist": [
+      "https://www.pagat.com/whist/whist.html",
+      "https://en.wikipedia.org/wiki/Whist"
+    ],
+    "whist-a-la-couleur": [
+      "https://en.wikipedia.org/wiki/Whist",
+      "https://www.pagat.com/whist/"
+    ],
+    "wizard-due": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/wizard-duel.html"
+    ],
+    "yaniv": [
+      "https://www.pagat.com/draw/yaniv.html",
+      "https://en.wikipedia.org/wiki/Yaniv_(card_game)"
     ]
   }
 }

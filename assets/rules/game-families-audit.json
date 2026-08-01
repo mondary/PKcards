@@ -1,0 +1,1857 @@
+[
+  {
+    "slug": "3-5-7-9",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Chaque joueur cherche à remporter des plis précis selon leur rang dans la donne."
+  },
+  {
+    "slug": "500",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les joueurs enchérissent un contrat puis doivent réaliser les plis annoncés pour progresser vers 500 points."
+  },
+  {
+    "slug": "8-americain",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Il faut vider sa main en couvrant la défausse selon la couleur ou la valeur, avec des cartes à effets."
+  },
+  {
+    "slug": "all-fives",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Le score provient des cartes de valeur capturées dans les levées."
+  },
+  {
+    "slug": "all-fours",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Six levées sont disputées à l'atout pour capturer les cartes et critères rapportant des points."
+  },
+  {
+    "slug": "allo-jack",
+    "families": [
+      "Bataille",
+      "Réaction"
+    ],
+    "rationale": "Tous doivent exécuter immédiatement l'action commandée par une figure, le dernier ramassant le centre."
+  },
+  {
+    "slug": "aluette",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "La partie repose sur la conduite et la capture de levées avec une hiérarchie de cartes particulière."
+  },
+  {
+    "slug": "ambigu",
+    "families": [
+      "Poker",
+      "Banque"
+    ],
+    "rationale": "Les joueurs forment des mains classées, misent, relancent ou passent afin de gagner la corbeille."
+  },
+  {
+    "slug": "animaux",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Il faut repérer une paire de valeurs, se rappeler le cri adverse et l'annoncer avant recouvrement pour capturer son paquet."
+  },
+  {
+    "slug": "ascenseur",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Chaque joueur annonce un nombre exact de levées puis tente de remplir ce contrat."
+  },
+  {
+    "slug": "baccara",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Les mains du joueur et du banquier sont comparées par leur total modulo dix, au plus près de neuf."
+  },
+  {
+    "slug": "barbu",
+    "families": [
+      "Levées",
+      "Compendium"
+    ],
+    "rationale": "Le jeu enchaîne plusieurs manches de plis aux objectifs distincts, puis une salade qui les combine."
+  },
+  {
+    "slug": "bassette",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Des mises sont réglées par le banquier uniquement selon les cartes successivement retournées."
+  },
+  {
+    "slug": "bataille-corse",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Les cartes s'accumulent comme à la bataille et certaines configurations déclenchent une frappe rapide pour capturer le tas."
+  },
+  {
+    "slug": "bataille",
+    "families": [
+      "Bataille",
+      "Hasard"
+    ],
+    "rationale": "Les cartes sont révélées sans choix et la plus forte capture le pli jusqu'à possession de tout le paquet."
+  },
+  {
+    "slug": "baudet",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs vident leur main en construisant librement quatre suites ascendantes de l'As au Roi."
+  },
+  {
+    "slug": "belote",
+    "families": [
+      "Levées",
+      "Enchères",
+      "Rami"
+    ],
+    "rationale": "Un contrat d'atout encadre les levées, tandis que les annonces de suites, carrés et belote rapportent aussi des points."
+  },
+  {
+    "slug": "bezique",
+    "families": [
+      "Levées",
+      "Rami"
+    ],
+    "rationale": "Les points viennent à la fois des levées et des combinaisons étalées depuis la main."
+  },
+  {
+    "slug": "black-jack-banquier",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Chaque joueur mise contre le banquier et additionne ses cartes pour approcher 21 sans le dépasser."
+  },
+  {
+    "slug": "boston",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les enchères fixent un nombre de levées et un atout que le déclarant doit ensuite réaliser."
+  },
+  {
+    "slug": "bouchon",
+    "families": [
+      "Passes de cartes",
+      "Réaction"
+    ],
+    "rationale": "Les joueurs passent simultanément des cartes pour réunir un carré, puis doivent saisir rapidement un bouchon."
+  },
+  {
+    "slug": "bouillotte",
+    "families": [
+      "Poker",
+      "Banque"
+    ],
+    "rationale": "Des mains classées sont soutenues par des mises, relances et abandons autour d'une cagnotte."
+  },
+  {
+    "slug": "brag",
+    "families": [
+      "Poker",
+      "Banque"
+    ],
+    "rationale": "Les joueurs misent ou se retirent sur des mains cachées classées, avec possibilité de jouer sans même regarder."
+  },
+  {
+    "slug": "brelan",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Après la mise, la donne seule décide qui obtient le brelan gagnant et remporte la corbeille."
+  },
+  {
+    "slug": "bridge",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les enchères déterminent le contrat, l'atout et le déclarant avant le jeu des levées."
+  },
+  {
+    "slug": "brusquembille",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs disputent des levées et marquent selon les cartes de valeur qu'elles contiennent."
+  },
+  {
+    "slug": "canasta-chinoise",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Les équipes piochent et défaussent pour étaler les séries et canastas imposées."
+  },
+  {
+    "slug": "canasta",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Le cœur du jeu consiste à piocher, défausser et étaler des séries de même rang jusqu'aux canastas."
+  },
+  {
+    "slug": "carotte",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Une enchère croissante fixe l'atout et le nombre de levées que le gagnant doit réussir."
+  },
+  {
+    "slug": "carte-la-plus-basse",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Chaque tour forme une levée remportée, à l'inverse des usages, par la carte de plus faible valeur."
+  },
+  {
+    "slug": "carte-svp",
+    "families": [
+      "Rami",
+      "Commerce"
+    ],
+    "rationale": "Les joueurs échangent une carte avec leur voisin afin de former une couleur, une suite ou un brelan de trois cartes."
+  },
+  {
+    "slug": "casino",
+    "families": [
+      "Pêche",
+      "Addition"
+    ],
+    "rationale": "Une carte de la main capture sur la table une carte égale ou un ensemble dont la somme correspond."
+  },
+  {
+    "slug": "charlemagne",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Le déclarant obtient l'atout après les annonces et doit réussir son contrat en levées."
+  },
+  {
+    "slug": "chat",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les cartes sont éliminées sur plusieurs piles en respectant des progressions ascendantes ou descendantes."
+  },
+  {
+    "slug": "chateau-de-cartes",
+    "families": [
+      "Adresse"
+    ],
+    "rationale": "Chaque tour ajoute deux cartes en équilibre à une structure commune sans la faire tomber."
+  },
+  {
+    "slug": "chien-rouge",
+    "families": [
+      "Banque"
+    ],
+    "rationale": "Chaque joueur calibre une mise contre la poule avant qu'une carte du talon décide du paiement."
+  },
+  {
+    "slug": "chkobba",
+    "families": [
+      "Pêche",
+      "Addition"
+    ],
+    "rationale": "La carte jouée capture au centre les cartes dont les valeurs additionnées donnent son total."
+  },
+  {
+    "slug": "cinq-rois",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "À chaque manche, les joueurs piochent et défaussent pour former suites et groupes avant de fermer."
+  },
+  {
+    "slug": "coeurs",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les levées sont disputées en cherchant à éviter les Cœurs et la Dame de Pique pénalisants."
+  },
+  {
+    "slug": "commerce",
+    "families": [
+      "Commerce",
+      "Enchères",
+      "Banque"
+    ],
+    "rationale": "Le banquier vend sa troisième carte aux enchères, puis la meilleure carte d'atout remporte les mises."
+  },
+  {
+    "slug": "commere-accom modez-moi",
+    "families": [
+      "Rami",
+      "Commerce"
+    ],
+    "rationale": "Les voisins troquent des cartes cachées jusqu'à ce qu'un joueur forme une couleur, une séquence ou un tricon."
+  },
+  {
+    "slug": "conference",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les équipes s'engagent à réaliser au moins cinq levées, puis jouent neuf plis sans atout."
+  },
+  {
+    "slug": "coucou",
+    "families": [
+      "Commerce"
+    ],
+    "rationale": "Chaque tour repose sur la circulation forcée d'une carte entre voisins, avec le Roi comme seul refus possible."
+  },
+  {
+    "slug": "couillon",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les joueurs annoncent jouer ou passer avant une manche à l'atout comptée par les cartes remportées en levées."
+  },
+  {
+    "slug": "crapette-tarot",
+    "families": [
+      "Patience"
+    ],
+    "rationale": "Cette patience compétitive fait vider son paquet sur des colonnes descendantes alternées et des piles de défausse."
+  },
+  {
+    "slug": "crapette",
+    "families": [
+      "Patience"
+    ],
+    "rationale": "Deux joueurs déplacent les cartes selon des règles de patience afin de vider réserve, main et écart."
+  },
+  {
+    "slug": "cribbage",
+    "families": [
+      "Addition",
+      "Rami"
+    ],
+    "rationale": "Le jeu alterne un compte cumulatif plafonné à 31 et le calcul de quinzes, paires, suites et couleurs."
+  },
+  {
+    "slug": "dominos",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs vident leur main en prolongeant des suites adjacentes par couleur ou par rang."
+  },
+  {
+    "slug": "double-solitaire",
+    "families": [
+      "Patience"
+    ],
+    "rationale": "La partie transpose une construction de patience en course pour compléter huit piles."
+  },
+  {
+    "slug": "dourak",
+    "families": [
+      "Combat",
+      "Pioche & défausse"
+    ],
+    "rationale": "Un attaquant pose des cartes que le défenseur doit couvrir, tandis que chacun cherche à vider sa main."
+  },
+  {
+    "slug": "ecarte",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Après l'éventuel remplacement de cartes, l'objectif est de gagner au moins trois des cinq levées."
+  },
+  {
+    "slug": "elimination",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Les joueurs misent puis comparent la somme de leurs cartes restantes pour récompenser le total le plus haut et le plus bas."
+  },
+  {
+    "slug": "enfle",
+    "families": [
+      "Levées",
+      "Pioche & défausse"
+    ],
+    "rationale": "Il faut suivre la couleur dans chaque levée et être le premier à épuiser sa main, quitte à piocher jusqu'à pouvoir fournir."
+  },
+  {
+    "slug": "euchre",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Une phase de choix de l'atout désigne le camp qui doit remporter au moins trois des cinq levées."
+  },
+  {
+    "slug": "extravagante-minoune",
+    "families": [
+      "Rami",
+      "Enquête"
+    ],
+    "rationale": "Cette variante de rami forme des groupes identiques, avec un paquet hors jeu qui impose de mémoriser et déduire les cartes disponibles."
+  },
+  {
+    "slug": "familles",
+    "families": [
+      "Pêche",
+      "Familles"
+    ],
+    "rationale": "Les joueurs demandent des cartes précises aux adversaires afin de réunir et poser des carrés complets."
+  },
+  {
+    "slug": "fan-tan",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse"
+    ],
+    "rationale": "Chacun vide sa main en bâtissant, autour des 7, quatre suites ordonnées par couleur."
+  },
+  {
+    "slug": "ferme",
+    "families": [
+      "Banque",
+      "Addition",
+      "Enchères"
+    ],
+    "rationale": "Un fermier adjugé aux enchères tient la banque pendant que les autres tirent des cartes pour totaliser exactement 16."
+  },
+  {
+    "slug": "flip",
+    "families": [
+      "Appariemment",
+      "Réaction"
+    ],
+    "rationale": "Les deux joueurs posent simultanément et au plus vite des cartes immédiatement supérieures ou inférieures pour vider leur paquet."
+  },
+  {
+    "slug": "florentin",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Les pontes misent contre un banquier sur la seule apparition aléatoire d'une carte du même rang que la carte de départ."
+  },
+  {
+    "slug": "floune",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "À chaque tour on pioche et défausse pour constituer trios et séquences jusqu'à combiner toute sa main."
+  },
+  {
+    "slug": "football-americain",
+    "families": [
+      "Course",
+      "Combat"
+    ],
+    "rationale": "Le jeu simule une progression de football où des paires offensives affrontent successivement trois lignes défensives."
+  },
+  {
+    "slug": "fouine",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Des annonces croissantes fixent un contrat et l'atout, puis les équipes marquent les cartes capturées dans les plis."
+  },
+  {
+    "slug": "frappe-le-valet",
+    "families": [
+      "Bataille",
+      "Réaction"
+    ],
+    "rationale": "Le premier à frapper un Valet révélé capture toute la pile centrale et cherche à réunir toutes les cartes."
+  },
+  {
+    "slug": "golf",
+    "families": [
+      "Enquête"
+    ],
+    "rationale": "Les joueurs mémorisent partiellement un carré de cartes cachées et choisissent lesquelles remplacer pour réduire leur score."
+  },
+  {
+    "slug": "hoc",
+    "families": [
+      "Rami",
+      "Enchères",
+      "Pioche & défausse"
+    ],
+    "rationale": "Trois enchères comparent points, suites et groupes, avant une phase où il faut vider sa main par cartes croissantes."
+  },
+  {
+    "slug": "imperiale",
+    "families": [
+      "Levées",
+      "Rami"
+    ],
+    "rationale": "Les joueurs annoncent des suites ou carrés appelés Impériales, puis gagnent des levées à l'atout."
+  },
+  {
+    "slug": "in-between",
+    "families": [
+      "Banque"
+    ],
+    "rationale": "Chaque joueur mise sur la probabilité que la prochaine carte tirée se situe entre ses deux cartes."
+  },
+  {
+    "slug": "jeu-de-loo",
+    "families": [
+      "Levées",
+      "Banque"
+    ],
+    "rationale": "Les participants engagent des jetons, choisissent de jouer ou passer, puis se partagent la cagnotte selon les levées gagnées."
+  },
+  {
+    "slug": "jeu-de-valets",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Ce jeu de levées sans atout consiste à éviter de capturer le Valet de pique."
+  },
+  {
+    "slug": "jeu-du-roi",
+    "families": [
+      "Levées",
+      "Compendium"
+    ],
+    "rationale": "Dix donnes de plis enchaînent six objectifs de pénalité différents puis quatre manches positives à l'atout."
+  },
+  {
+    "slug": "kalabriasz",
+    "families": [
+      "Levées",
+      "Enchères",
+      "Rami"
+    ],
+    "rationale": "Le faiseur choisit l'atout et doit réussir son contrat grâce aux levées et aux suites annoncées."
+  },
+  {
+    "slug": "kilo-de-plomb",
+    "families": [
+      "Levées",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs suivent la couleur, ramassent ou piochent s'ils ne peuvent fournir, et cherchent à vider leur main en premier."
+  },
+  {
+    "slug": "knock-rummy",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "La main est organisée en brelans, carrés et suites, avec possibilité de conclure sur un faible total de cartes isolées."
+  },
+  {
+    "slug": "la-compliquee",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "Les joueurs retournent des cartes parmi 104 cartes cachées pour retrouver et conserver des paires."
+  },
+  {
+    "slug": "la-pomme",
+    "families": [
+      "Levées",
+      "Addition"
+    ],
+    "rationale": "Chaque confrontation est une levée à l'atout dont les cartes capturées doivent être additionnées autour du seuil de 21."
+  },
+  {
+    "slug": "la-selective",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "La mécanique centrale consiste à mémoriser les cartes cachées afin de compléter cinq paires."
+  },
+  {
+    "slug": "lansquenet",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Les joueurs parient contre une banque et les gains sont entièrement déterminés par l'ordre aléatoire des cartes retournées."
+  },
+  {
+    "slug": "le-front",
+    "families": [
+      "Familles",
+      "Bataille"
+    ],
+    "rationale": "Les joueurs construisent des groupes de même rang et s'en emparent mutuellement jusqu'à compléter les collections."
+  },
+  {
+    "slug": "le-vicaire",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Chaque levée vaut un point et la victoire exige d'atteindre exactement 10 ou un multiple de 5 supérieur."
+  },
+  {
+    "slug": "lechange",
+    "families": [
+      "Rami",
+      "Commerce"
+    ],
+    "rationale": "Les joueurs négocient l'échange de cartes pour former puis poser des séries de trois."
+  },
+  {
+    "slug": "loterie",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Les mises sont attribuées par correspondance aléatoire entre cartes-billets distribuées et cartes-lots retournées."
+  },
+  {
+    "slug": "macao",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Les pontes misent contre un banquier, additionnent la valeur de leurs cartes et choisissent de tirer ou de rester pour approcher 9 sans le dépasser."
+  },
+  {
+    "slug": "mafia",
+    "families": [
+      "Rôle"
+    ],
+    "rationale": "Des rôles secrets aux pouvoirs asymétriques s'affrontent par éliminations nocturnes, débats, accusations et votes collectifs."
+  },
+  {
+    "slug": "manille",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs fournissent à la couleur, coupent à l'atout et marquent les cartes remportées dans leurs levées."
+  },
+  {
+    "slug": "mariage",
+    "families": [
+      "Levées",
+      "Rami"
+    ],
+    "rationale": "Le score vient à la fois des cartes gagnées en levées et des mariages Roi-Dame de même couleur annoncés."
+  },
+  {
+    "slug": "marjolet",
+    "families": [
+      "Levées",
+      "Rami"
+    ],
+    "rationale": "Les joueurs gagnent des levées puis exposent des carrés et mariages pour ajouter leurs points au décompte des cartes capturées."
+  },
+  {
+    "slug": "may-i",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Chaque manche impose des suites ou groupes à étaler, alimentés par la pioche et l'écart, avant de vider sa main."
+  },
+  {
+    "slug": "memoire-a-lepreuve",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "Les cartes sont révélées puis retournées et il faut mémoriser leur emplacement pour retrouver les paires identiques."
+  },
+  {
+    "slug": "menteur",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les joueurs se défaussent sous des annonces potentiellement mensongères et doivent décider quand contester un adversaire."
+  },
+  {
+    "slug": "michigan",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse",
+      "Banque"
+    ],
+    "rationale": "Les cartes sont posées en suites montantes jusqu'à un arrêt, avec pour but de vider sa main et d'encaisser les jetons des cartes payantes."
+  },
+  {
+    "slug": "mille",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Ce dérivé de la Canasta alterne pioche et défausse pour étaler des groupes d'au moins trois cartes de même valeur."
+  },
+  {
+    "slug": "minoune",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Les joueurs piochent, défaussent et étalent des séries de même rang, éventuellement complétées par des cartes frimées."
+  },
+  {
+    "slug": "mitaine",
+    "families": [
+      "Rami",
+      "Pioche & défausse",
+      "Bataille"
+    ],
+    "rationale": "Des paires, brelans ou carrés sont joués en surenchère de force, et la combinaison gagnante capture les cartes qu'elle a battues."
+  },
+  {
+    "slug": "motz",
+    "families": [
+      "Levées",
+      "Banque"
+    ],
+    "rationale": "Les joueurs passent ou entrent dans le coup, disputent trois levées à l'atout et se partagent une corbeille de mises selon leur résultat."
+  },
+  {
+    "slug": "mouche",
+    "families": [
+      "Levées",
+      "Banque"
+    ],
+    "rationale": "Après avoir passé ou échangé des cartes, les participants jouent des levées à l'atout pour gagner la cagnotte et éviter les pénalités."
+  },
+  {
+    "slug": "nain-jaune",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse",
+      "Banque"
+    ],
+    "rationale": "Les joueurs vident leur main par suites ascendantes interrompues, tandis que certaines cartes du plateau rapportent les mises associées."
+  },
+  {
+    "slug": "nap",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Chaque joueur annonce un nombre de levées, la meilleure déclaration fixe le contrat, puis les levées déterminent sa réussite."
+  },
+  {
+    "slug": "neuf-a-deux",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Après avoir constitué leur main par tirages alternés, les deux joueurs disputent treize levées avec une couleur d'atout variable."
+  },
+  {
+    "slug": "neuf-a-quatre",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Deux équipes jouent une main complète de levées avec un atout tournant et ajustent leur marque selon les levées réalisées."
+  },
+  {
+    "slug": "neuf-a-trois",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Trois joueurs disputent des levées avec atout tournant tandis qu'une quatrième main distribuée reste hors jeu."
+  },
+  {
+    "slug": "nigaud",
+    "families": [
+      "Pioche & défausse",
+      "Appariemment"
+    ],
+    "rationale": "Chacun vide sa pile en posant sa carte active sur une carte immédiatement inférieure, continuant tant qu'une pose ascendante reste possible."
+  },
+  {
+    "slug": "papesse-jeanne",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse",
+      "Banque"
+    ],
+    "rationale": "Les cartes se jouent dans l'ordre au sein d'une couleur jusqu'à un arrêt; vider sa main et poser les cartes payantes permet de prendre les jetons."
+  },
+  {
+    "slug": "papillon",
+    "families": [
+      "Pêche",
+      "Addition",
+      "Banque"
+    ],
+    "rationale": "Une carte de main capture sur la table une valeur identique ou plusieurs cartes dont la somme lui est égale, afin de gagner la corbeille de mises."
+  },
+  {
+    "slug": "paquet-voleur",
+    "families": [
+      "Pêche",
+      "Familles"
+    ],
+    "rationale": "Une carte de même rang capture une carte exposée ou vole tout le paquet visible d'un adversaire, et le plus gros paquet gagne."
+  },
+  {
+    "slug": "petite-ecole",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Les dix manches demandent successivement de former et d'étaler des groupes ou suites précis avant de se défausser de sa main."
+  },
+  {
+    "slug": "petits-paquets",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Chaque ponte mise contre le banquier puis une carte imposée de chaque paquet caché est révélée et simplement comparée."
+  },
+  {
+    "slug": "pharaon",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Les joueurs misent sur l'une de deux colonnes avant que deux cartes aléatoires désignent les gagnants et les gains de la banque."
+  },
+  {
+    "slug": "pige-dans-le-lac",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "Les joueurs demandent un rang à l'adversaire ou piochent dans le lac afin de compléter des groupes de quatre cartes identiques."
+  },
+  {
+    "slug": "ping-pong",
+    "families": [
+      "Bataille",
+      "Rami"
+    ],
+    "rationale": "Les adversaires opposent des paires ou trios; la combinaison la plus forte capture la mise de cartes et pourra être recyclée."
+  },
+  {
+    "slug": "pinochle",
+    "families": [
+      "Levées",
+      "Enchères",
+      "Rami"
+    ],
+    "rationale": "Une enchère fixe le contrat et l'atout, puis les annonces de combinaisons et les cartes gagnées en levées produisent le score."
+  },
+  {
+    "slug": "pique",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les équipes surenchérissent sur le nombre de levées qu'elles réaliseront puis jouent la main avec pique comme atout permanent."
+  },
+  {
+    "slug": "piquet",
+    "families": [
+      "Levées",
+      "Rami"
+    ],
+    "rationale": "Le score associe des séquences et groupes déclarés avant le jeu aux cartes et levées ensuite remportées."
+  },
+  {
+    "slug": "plus-d-atouts",
+    "families": [
+      "Familles",
+      "Hasard"
+    ],
+    "rationale": "Une couleur est tirée au hasard et le gagnant est simplement celui dont la main distribuée contient le plus de cartes de cette couleur."
+  },
+  {
+    "slug": "poker-menteur",
+    "families": [
+      "Poker",
+      "Pioche & défausse"
+    ],
+    "rationale": "Une main de poker circule, chaque annonce doit dépasser la précédente et peut être mensongère jusqu'à ce qu'un joueur la conteste."
+  },
+  {
+    "slug": "poker",
+    "families": [
+      "Poker",
+      "Enchères"
+    ],
+    "rationale": "Les combinaisons hiérarchisées sont soutenues par des tours de mise, de relance et de bluff pouvant faire coucher les adversaires."
+  },
+  {
+    "slug": "politaine",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Deux équipes suivent la couleur et utilisent l'atout pour remporter des levées dont les cartes alimentent leur score."
+  },
+  {
+    "slug": "poque",
+    "families": [
+      "Poker",
+      "Appariemment",
+      "Banque"
+    ],
+    "rationale": "Les joueurs misent et relancent sur des combinaisons cachées; à défaut, ils vident leur main en séquences montantes et gagnent des corbeilles de jetons."
+  },
+  {
+    "slug": "pot",
+    "families": [
+      "Rami",
+      "Commerce"
+    ],
+    "rationale": "Pendant trois tours, les joueurs échangent leurs cartes avec le pot visible pour obtenir un brelan ou une séquence."
+  },
+  {
+    "slug": "pouilleux",
+    "families": [
+      "Passes de cartes"
+    ],
+    "rationale": "Les joueurs forment et écartent des paires puis piochent à l'aveugle chez leur voisin jusqu'à laisser une unique carte sans partenaire."
+  },
+  {
+    "slug": "poule-3-cartes",
+    "families": [
+      "Levées",
+      "Banque"
+    ],
+    "rationale": "Les joueurs engagent une mise puis disputent trois levées à l'atout, chacune rapportant un tiers des enjeux."
+  },
+  {
+    "slug": "poule-5-cartes",
+    "families": [
+      "Levées",
+      "Banque"
+    ],
+    "rationale": "Après la mise et la désignation de l'atout, cinq levées sont jouées pour déterminer qui remporte les enjeux."
+  },
+  {
+    "slug": "preference",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les déclarations concurrentes fixent le contrat et l'atout, puis le déclarant doit réaliser l'objectif annoncé dans le jeu de levées."
+  },
+  {
+    "slug": "president",
+    "families": [
+      "Escalade",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs se débarrassent de leurs cartes en surenchérissant avec le même nombre de cartes d'un rang supérieur."
+  },
+  {
+    "slug": "puits",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Chaque carte jouée doit correspondre à la valeur ou à la couleur rouge/noire de la précédente, sinon le joueur pioche."
+  },
+  {
+    "slug": "quarante-cinq",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs fournissent la couleur ou coupent à l'atout afin de remporter cinq levées par donne."
+  },
+  {
+    "slug": "quatre-quatorze",
+    "families": [
+      "Poker",
+      "Addition"
+    ],
+    "rationale": "Les joueurs composent des totaux proches de 4 et 14 autour d'une carte cachée, avec plusieurs tours de mise et de relance."
+  },
+  {
+    "slug": "quatre-vingt-dix-neuf",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Chaque carte modifie un total commun que les joueurs doivent maintenir à 99 ou moins."
+  },
+  {
+    "slug": "quit",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les cartes sont défaussées en prolongeant des séries numériques croissantes jusqu'au 11."
+  },
+  {
+    "slug": "rami",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "La sortie repose sur la formation et l'étalage de groupes de même rang et de séquences de même couleur."
+  },
+  {
+    "slug": "rams",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Le jeu consiste à gagner des levées à l'atout, avec possibilité d'annoncer le contrat de toutes les remporter."
+  },
+  {
+    "slug": "reussite",
+    "families": [
+      "Patience"
+    ],
+    "rationale": "Le joueur organise seul un tableau pour libérer les fondations et y ranger toutes les cartes."
+  },
+  {
+    "slug": "reversi",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les cartes sont confrontées en levées sans atout, la carte la plus forte remportant chaque pli."
+  },
+  {
+    "slug": "roi-et-son-epee",
+    "families": [
+      "Familles",
+      "Hasard"
+    ],
+    "rationale": "La victoire dépend de la réunion du roi et de l'as associé par des tirages aléatoires dans les mains voisines."
+  },
+  {
+    "slug": "rouge-contre-noir",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Deux adversaires confrontent une carte à chaque pli pour capturer surtout les cartes de la couleur désignée."
+  },
+  {
+    "slug": "rummy-baltimore",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Les joueurs piochent et défaussent pour former des trios et des séquences au cours de cinq donnes."
+  },
+  {
+    "slug": "salade",
+    "families": [
+      "Compendium",
+      "Levées",
+      "Appariemment"
+    ],
+    "rationale": "Six donnes enchaînent plusieurs objectifs de plis pénalisants puis une phase de défausse en suites autour des 8."
+  },
+  {
+    "slug": "sans-coeur",
+    "families": [
+      "Compendium",
+      "Levées",
+      "Appariemment"
+    ],
+    "rationale": "La manche combine quatre contrats d'évitement en levées et une phase finale de suites construites autour des Valets."
+  },
+  {
+    "slug": "scopa",
+    "families": [
+      "Pêche",
+      "Addition"
+    ],
+    "rationale": "Une carte capture sur la table une valeur identique ou un ensemble dont la somme égale sa valeur."
+  },
+  {
+    "slug": "sept-et-demi",
+    "families": [
+      "Banque"
+    ],
+    "rationale": "Les pontes affrontent un banquier en additionnant leurs cartes pour approcher 7,5 sans dépasser."
+  },
+  {
+    "slug": "sept-vingt-sept",
+    "families": [
+      "Poker",
+      "Addition"
+    ],
+    "rationale": "Les joueurs visent deux totaux avec une carte cachée et décident de miser, relancer ou demander des cartes."
+  },
+  {
+    "slug": "shithead",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Il faut vider main et tableau en jouant sur la défausse une carte égale ou supérieure, sous peine de ramasser le tas."
+  },
+  {
+    "slug": "sixte",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les six joueurs fournissent la couleur dans des levées à l'atout et marquent selon les plis remportés."
+  },
+  {
+    "slug": "skat",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Une enchère désigne le déclarant et son contrat, ensuite résolu par des levées comptant les points de cartes."
+  },
+  {
+    "slug": "skyjo",
+    "families": [
+      "Enquête",
+      "Familles"
+    ],
+    "rationale": "Les joueurs révèlent et remplacent les cartes d'une grille partiellement cachée, tout en réunissant des triples en colonnes."
+  },
+  {
+    "slug": "snap",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Il faut réagir immédiatement à des cartes identiques pour réclamer et capturer les piles exposées."
+  },
+  {
+    "slug": "snip-snap-snorem",
+    "families": [
+      "Familles",
+      "Pioche & défausse"
+    ],
+    "rationale": "Les quatre cartes d'un même rang sont posées successivement, chacun cherchant à vider sa main."
+  },
+  {
+    "slug": "solitaire-a-deux",
+    "families": [
+      "Patience"
+    ],
+    "rationale": "Deux joueurs résolvent simultanément des tableaux de solitaire en alternant les couleurs et en alimentant des fondations communes."
+  },
+  {
+    "slug": "stud-5-cartes",
+    "families": [
+      "Poker"
+    ],
+    "rationale": "Des cartes cachées et visibles alternent avec des tours de pari avant la comparaison des mains de poker."
+  },
+  {
+    "slug": "stud-7-cartes",
+    "families": [
+      "Poker"
+    ],
+    "rationale": "Les joueurs misent à plusieurs reprises sur des informations partielles puis composent leur meilleure main de cinq cartes."
+  },
+  {
+    "slug": "tarot",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les annonces fixent le contrat du preneur, qui doit ensuite atteindre son seuil de points dans les plis."
+  },
+  {
+    "slug": "tennis-cartes",
+    "families": [
+      "Course",
+      "Combat"
+    ],
+    "rationale": "Deux adversaires résolvent des attaques de cartes et progressent selon un score reproduisant points, manches et match de tennis."
+  },
+  {
+    "slug": "tontine",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Une carte distribuée au hasard impose automatiquement des transferts de jetons avec la corbeille ou un voisin."
+  },
+  {
+    "slug": "treize-quebecois",
+    "families": [
+      "Rami"
+    ],
+    "rationale": "Chaque donne consiste à piocher et défausser pour compléter des trios et des séquences, avec une valeur joker variable."
+  },
+  {
+    "slug": "treize",
+    "families": [
+      "Banque",
+      "Hasard"
+    ],
+    "rationale": "Les pontes misent contre une banque et le paiement dépend uniquement des correspondances fortuites entre annonces et cartes tirées."
+  },
+  {
+    "slug": "trente-et-quarante",
+    "families": [
+      "Banque",
+      "Addition",
+      "Hasard"
+    ],
+    "rationale": "Les pontes misent contre la banque sur deux lignes dont les cartes sont additionnées jusqu'au premier total supérieur à 30."
+  },
+  {
+    "slug": "trente-et-un",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Chaque ponte compare au banquier un total visant 31 sans le dépasser."
+  },
+  {
+    "slug": "triomphe",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs doivent fournir la couleur et utilisent l'atout pour gagner au moins trois des cinq levées."
+  },
+  {
+    "slug": "valet-de-trefle",
+    "families": [
+      "Levées",
+      "Enchères",
+      "Rami"
+    ],
+    "rationale": "Une annonce choisit l'atout, puis les équipes marquent par leurs levées et par des carrés, suites et mariages."
+  },
+  {
+    "slug": "vingt-et-un",
+    "families": [
+      "Banque",
+      "Addition"
+    ],
+    "rationale": "Les joueurs misent contre la banque et additionnent leurs cartes pour approcher 21 sans dépasser."
+  },
+  {
+    "slug": "vive-la-joie",
+    "families": [
+      "Familles",
+      "Hasard"
+    ],
+    "rationale": "Les joueurs éliminent des paires formées grâce à une carte tirée au hasard dans la main du voisin."
+  },
+  {
+    "slug": "whip",
+    "families": [
+      "Pêche",
+      "Addition"
+    ],
+    "rationale": "Une carte de la main capture sur le tapis une valeur identique ou plusieurs cartes dont elle représente la somme."
+  },
+  {
+    "slug": "whist-a-la-couleur",
+    "families": [
+      "Levées",
+      "Enchères"
+    ],
+    "rationale": "Les joueurs surenchérissent en couleurs et contrats, puis tentent le nombre de plis annoncé."
+  },
+  {
+    "slug": "whist",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Le Whist simple distribue tout le paquet et oppose deux équipes pour gagner les levées au-delà du devoir."
+  },
+  {
+    "slug": "gin-rummy",
+    "families": [
+      "Pioche & défausse",
+      "Rami"
+    ],
+    "rationale": "Les joueurs piochent et défaussent pour former des suites et des groupes de cartes de même valeur."
+  },
+  {
+    "slug": "le-kems",
+    "families": [
+      "Commerce",
+      "Réaction"
+    ],
+    "rationale": "Il faut réunir un carré par échanges simultanés, repérer les signaux secrets et annoncer Kem's avant les adversaires."
+  },
+  {
+    "slug": "paquet-de-merde",
+    "families": [
+      "Passes de cartes",
+      "Réaction"
+    ],
+    "rationale": "Les cartes circulent entre voisins jusqu'à former un carré, puis tous doivent toucher le tas central au plus vite."
+  },
+  {
+    "slug": "rami-500",
+    "families": [
+      "Pioche & défausse",
+      "Rami"
+    ],
+    "rationale": "Le jeu repose sur la pose de suites et de groupes, ainsi que sur l'ajout de cartes aux combinaisons déjà étalées."
+  },
+  {
+    "slug": "regicide",
+    "families": [
+      "Coopératif",
+      "Combat"
+    ],
+    "rationale": "Les joueurs coordonnent leurs cartes pour infliger des dégâts aux figures ennemies et survivre à leurs contre-attaques."
+  },
+  {
+    "slug": "yaniv",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Chaque tour permet de défausser une carte, un groupe ou une suite afin de réduire la valeur de sa main avant l'annonce Yaniv."
+  },
+  {
+    "slug": "anandis",
+    "families": [
+      "Enquête",
+      "Appariemment"
+    ],
+    "rationale": "Les cartes révélées par les réponses adverses permettent d'éliminer les possibilités et d'identifier l'unique carte cachée."
+  },
+  {
+    "slug": "basra",
+    "families": [
+      "Pêche"
+    ],
+    "rationale": "Une carte capture sur la table une valeur identique ou plusieurs cartes dont la somme égale sa valeur."
+  },
+  {
+    "slug": "big-three",
+    "families": [
+      "Escalade"
+    ],
+    "rationale": "Les joueurs surenchérissent avec des cartes ou combinaisons supérieures pour vider leur main en premier."
+  },
+  {
+    "slug": "blanche-neige",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Chaque joueur tente de vider sa main en posant des cartes conformes à la contrainte de défausse propre à son personnage."
+  },
+  {
+    "slug": "brain-drain",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Tous cherchent simultanément une équation utilisant quatre cartes pour atteindre la cible, la première solution valide remportant la carte."
+  },
+  {
+    "slug": "c-q-f-d",
+    "families": [
+      "Enquête"
+    ],
+    "rationale": "Des questions chiffrées et leurs réponses servent à déduire la composition exacte des sept cartes adverses."
+  },
+  {
+    "slug": "camicia",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Les cartes sont retournées en confrontation et les pénalités de figures déterminent qui ramasse le pli accumulé."
+  },
+  {
+    "slug": "candyman",
+    "families": [
+      "Rôle"
+    ],
+    "rationale": "Des rôles secrets opposent Candyman au policier, qui doit l'identifier en observant les clins d'œil et les réactions."
+  },
+  {
+    "slug": "cinquante-plus-moins",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Chaque carte modifie par addition ou soustraction un total commun qu'il faut amener exactement à 50."
+  },
+  {
+    "slug": "clubbed",
+    "families": [
+      "Appariemment",
+      "Attaque"
+    ],
+    "rationale": "Les joueurs apparient couleur ou valeur pour alimenter une défausse, puis un trèfle force l'adversaire à capturer toute la pile."
+  },
+  {
+    "slug": "color-game",
+    "families": [
+      "Enquête"
+    ],
+    "rationale": "Il faut prédire rouge ou noir sur des tirages aléatoires, tandis que les cartes déjà vues renseignent la composition restante."
+  },
+  {
+    "slug": "colour-blind",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs fournissent à la couleur et cherchent à remporter certaines levées plutôt que simplement le plus grand nombre."
+  },
+  {
+    "slug": "crapaud",
+    "families": [
+      "Pioche & défausse",
+      "Commerce"
+    ],
+    "rationale": "La pioche et la défausse servent à constituer exactement 10 points rouges et 10 points noirs."
+  },
+  {
+    "slug": "democratie",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les cartes sont jouées en levées et les plis remportés déterminent les points accumulés dans les couleurs."
+  },
+  {
+    "slug": "dingo",
+    "families": [
+      "Divers"
+    ],
+    "rationale": "Une phase de passes orientées prépare une chasse où dingos et loups de même valeur capturent des cartes lapins."
+  },
+  {
+    "slug": "east-wes",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les joueurs placent progressivement leurs cartes sur trois lignes afin d'y construire des mains classées selon la hiérarchie du poker."
+  },
+  {
+    "slug": "eleusis",
+    "families": [
+      "Enquête",
+      "Appariemment"
+    ],
+    "rationale": "Les cartes acceptées ou refusées dans une suite servent à inférer la règle secrète qui gouverne la séquence."
+  },
+  {
+    "slug": "fotbo",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Le jeu simule un match de football en comparant les valeurs des cartes pour franchir les lignes adverses et marquer des buts."
+  },
+  {
+    "slug": "horse-race",
+    "families": [
+      "Course",
+      "Banque"
+    ],
+    "rationale": "Les joueurs misent à des cotes fixées sur des chevaux dont l'avancée dépend entièrement des couleurs tirées au hasard."
+  },
+  {
+    "slug": "identite",
+    "families": [
+      "Mémoire",
+      "Enquête"
+    ],
+    "rationale": "Les cartes révélées dans une grille doivent être mémorisées pour déduire sa propre carte et répondre avant les autres."
+  },
+  {
+    "slug": "kontsina",
+    "families": [
+      "Pêche"
+    ],
+    "rationale": "Les joueurs posent des cartes pour capturer sur la table les cartes de même valeur et marquer avec leur récolte."
+  },
+  {
+    "slug": "la-famille-coeur",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "À la manière des jeux de familles, chacun demande des cartes précises pour réunir les six membres de la famille Cœur."
+  },
+  {
+    "slug": "la-salade-canadienne",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Six contrats successifs modifient les levées et cartes qu'il faut éviter tout en respectant le jeu de la couleur demandée."
+  },
+  {
+    "slug": "last-one",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Cette variante du 8 Américain consiste à vider sa main par appariement, cartes spéciales et séquences de mêlée croissantes."
+  },
+  {
+    "slug": "le-100",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Les cartes augmentent, réduisent ou transforment un total commun qu'il faut manipuler sans dépasser 100."
+  },
+  {
+    "slug": "le-14",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs posent et recomposent des groupes de cartes dont la somme doit toujours être égale à 14."
+  },
+  {
+    "slug": "le-21",
+    "families": [
+      "Addition",
+      "Appariemment"
+    ],
+    "rationale": "Tous placent ensemble leurs cartes sur quatre piles afin de produire un maximum de sommes exactes de 21."
+  },
+  {
+    "slug": "le-24",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Les joueurs combinent simultanément quatre nombres avec des opérations et la première solution donnant 24 l'emporte."
+  },
+  {
+    "slug": "le-41",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "La pioche et la défausse servent à rassembler quatre cartes d'une même couleur avant de clore la manche."
+  },
+  {
+    "slug": "le-51-japonais",
+    "families": [
+      "Commerce"
+    ],
+    "rationale": "Chaque tour échange une carte avec l'étal central afin de réunir cinq cartes d'une même couleur."
+  },
+  {
+    "slug": "le-7-de-coeur",
+    "families": [
+      "Course"
+    ],
+    "rationale": "Des tirages aléatoires font avancer les pions sur un parcours à effets jusqu'à l'arrivée exacte au 7 de Cœur."
+  },
+  {
+    "slug": "le-98",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Chaque carte modifie un total partagé que les joueurs doivent maintenir sans franchir la limite de 98."
+  },
+  {
+    "slug": "le-bingo",
+    "families": [
+      "Banque"
+    ],
+    "rationale": "Les cartes sont appelées aléatoirement et le premier joueur dont les cinq cartes correspondent aux tirages gagne."
+  },
+  {
+    "slug": "le-cabo-var",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs mémorisent des cartes cachées, puis piochent, défaussent et échangent pour réduire leur total avant d'annoncer Cabo."
+  },
+  {
+    "slug": "le-cuttle",
+    "families": [
+      "Combat"
+    ],
+    "rationale": "Deux joueurs attaquent, contrent et détruisent les cartes adverses tout en construisant leur propre total jusqu'au seuil de victoire."
+  },
+  {
+    "slug": "le-generala",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs fournissent à la couleur et la carte la plus forte remporte la levée suivante."
+  },
+  {
+    "slug": "le-go-fish-deluxe",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "Les joueurs réclament une valeur ou piochent, puis collectionnent les cartes obtenues par paires."
+  },
+  {
+    "slug": "le-gops",
+    "families": [
+      "Divers"
+    ],
+    "rationale": "Chaque carte-prix est attribuée au joueur qui engage secrètement la carte d'enchère la plus forte."
+  },
+  {
+    "slug": "le-james-bond",
+    "families": [
+      "Commerce"
+    ],
+    "rationale": "Tous échangent simultanément avec quatre cartes centrales afin de compléter des carrés dans leurs paquets."
+  },
+  {
+    "slug": "le-killer",
+    "families": [
+      "Rôle"
+    ],
+    "rationale": "Un assassin caché élimine par clins d'œil tandis que le détective tente de l'identifier."
+  },
+  {
+    "slug": "le-kings-corners",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les joueurs se défaussent sur un tableau de réussite en suites descendantes alternant les couleurs."
+  },
+  {
+    "slug": "le-knock-out-whis",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Il faut fournir à la couleur et remporter au moins une levée pour éviter l'élimination."
+  },
+  {
+    "slug": "le-memory-cooperatif",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "Les joueurs mémorisent ensemble les cartes cachées pour réunir les valeurs avec peu d'erreurs."
+  },
+  {
+    "slug": "le-memory",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "Chaque joueur retourne des cartes cachées et mémorise leur emplacement pour former des paires."
+  },
+  {
+    "slug": "le-neuf",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Deux armées opposent leurs chefs et résolvent leurs affrontements par comparaison de cartes de troupe."
+  },
+  {
+    "slug": "le-poker-squares",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "L'équipe place irréversiblement 25 cartes dans une grille de réussite pour former dix mains de poker."
+  },
+  {
+    "slug": "le-rami-contra",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Chaque manche impose des suites ou groupes précis à réaliser par pioche et défausse."
+  },
+  {
+    "slug": "le-rami-frustration",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs piochent et défaussent pour accomplir successivement quatorze contrats de combinaisons."
+  },
+  {
+    "slug": "le-rami-machiave",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Les cartes sont posées en suites et groupes que les joueurs peuvent réorganiser pour se vider la main."
+  },
+  {
+    "slug": "le-snap-irlandais",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Les cartes s'accumulent au centre et une concordance oblige tous les joueurs à frapper la pile au plus vite."
+  },
+  {
+    "slug": "le-tamalou",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Les joueurs mémorisent des cartes cachées, les échangent et peuvent défausser rapidement les valeurs appariées."
+  },
+  {
+    "slug": "le-yami",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "La pioche-défausse sert à remplir une grille de séries et de mains classiques du poker."
+  },
+  {
+    "slug": "les-7-familles",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "Les joueurs demandent des cartes précises à leurs adversaires afin de compléter des familles."
+  },
+  {
+    "slug": "litterature",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "Les équipes réclament des cartes précises et déduisent leur répartition pour revendiquer des suites complètes."
+  },
+  {
+    "slug": "marguerite",
+    "families": [
+      "Enquête"
+    ],
+    "rationale": "Les réponses partielles aux questions permettent d'identifier par élimination la carte secrètement retirée."
+  },
+  {
+    "slug": "mustamaija",
+    "families": [
+      "Attaque"
+    ],
+    "rationale": "Un attaquant pose des cartes que le défenseur doit battre sous peine de les reprendre en main."
+  },
+  {
+    "slug": "noddy",
+    "families": [
+      "Addition"
+    ],
+    "rationale": "Les joueurs marquent par totaux de 15, 25 ou 31 ainsi que par paires, suites et couleurs."
+  },
+  {
+    "slug": "omben",
+    "families": [
+      "Familles"
+    ],
+    "rationale": "À la manière du Go Fish, chacun réclame une valeur ou pioche jusqu'à compléter des carrés."
+  },
+  {
+    "slug": "oracle",
+    "families": [
+      "Enquête"
+    ],
+    "rationale": "Les joueurs déduisent les valeurs détenues par l'Oracle pour les deviner et capturer ses cartes."
+  },
+  {
+    "slug": "pasur",
+    "families": [
+      "Pêche"
+    ],
+    "rationale": "Une carte jouée capture sur la table une carte égale ou un ensemble dont les valeurs totalisent onze."
+  },
+  {
+    "slug": "promenade",
+    "families": [
+      "Course"
+    ],
+    "rationale": "Les pions avancent au dé sur un parcours et les cases atteintes déterminent les fruits collectés."
+  },
+  {
+    "slug": "q-squared-joe-ng",
+    "families": [
+      "Combat"
+    ],
+    "rationale": "Les joueurs attaquent mains, ressources et terrains en comparant la force de leurs cartes."
+  },
+  {
+    "slug": "q-squared-joe-war",
+    "families": [
+      "Combat"
+    ],
+    "rationale": "Les cartes d'un domaine attaquent celles de l'adversaire et la plus faible est éliminée."
+  },
+  {
+    "slug": "q-squared-joe",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "À chaque tour, il faut défausser une carte qui bat la précédente selon un ordre de force particulier."
+  },
+  {
+    "slug": "quads",
+    "families": [
+      "Commerce"
+    ],
+    "rationale": "Les joueurs échangent simultanément avec le marché central jusqu'à réunir un carré avant les autres."
+  },
+  {
+    "slug": "sab-at-al-deemin",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les cartes sont défaussées sur quatre suites croissantes de couleur, chacune ouverte par son 7."
+  },
+  {
+    "slug": "seven-spades",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Chaque carte piochée peut être revendiquée comme un pique face cachée, au risque d'une contestation."
+  },
+  {
+    "slug": "shamus",
+    "families": [
+      "Divers"
+    ],
+    "rationale": "Les partenaires coopèrent contre un compte à rebours, l'un se défaussant par correspondance et l'autre formant des combinaisons de rami."
+  },
+  {
+    "slug": "snip-snap-snoru",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les cartes doivent être jouées dans des suites croissantes de même couleur afin de vider sa main."
+  },
+  {
+    "slug": "spi",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Les deux joueurs se défaussent simultanément et sans tour sur les suites adjacentes des piles centrales."
+  },
+  {
+    "slug": "stortok",
+    "families": [
+      "Attaque"
+    ],
+    "rationale": "Chaque joueur doit battre la carte précédente, faute de quoi il la reprend, jusqu'à vider sa main."
+  },
+  {
+    "slug": "thinkabi",
+    "families": [
+      "Mémoire"
+    ],
+    "rationale": "Les joueurs mémorisent un tableau face cachée et retournent cinq cartes pour capturer des combinaisons de poker."
+  },
+  {
+    "slug": "tras",
+    "families": [
+      "Appariemment"
+    ],
+    "rationale": "Chaque joueur révèle et replace les cartes d'un tableau personnel pour ordonner les emplacements de l'As au 10."
+  },
+  {
+    "slug": "tres-y-dos",
+    "families": [
+      "Pioche & défausse"
+    ],
+    "rationale": "Par pioche et défausse, les joueurs cherchent à former une main composée d'une paire et d'un brelan."
+  },
+  {
+    "slug": "wizard-due",
+    "families": [
+      "Combat"
+    ],
+    "rationale": "Les attaques retirent des vies et les défenses doivent atteindre par addition la force requise."
+  },
+  {
+    "slug": "le-tour-de-france",
+    "families": [
+      "Appariemment",
+      "Pioche & défausse",
+      "Course"
+    ],
+    "rationale": "Les joueurs vident leur main sur quatre séquences autour des 10 et cumulent les cartes restantes comme un temps de course."
+  }
+]
