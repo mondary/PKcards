@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.12';
+const VERSION = '2026.08.13';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -305,6 +305,7 @@ class Vault {
     }
     $w = []; $a = [];
     if (!empty($o['cat'])) { $w[] = 'category=?'; $a[] = $o['cat']; }
+    if (!empty($o['family'])) { $w[] = 'EXISTS(SELECT 1 FROM game_families gf WHERE gf.slug=games.slug AND gf.family=?)'; $a[] = $o['family']; }
     if (!empty($o['q'])) {
       $w[] = '(title LIKE ? OR EXISTS(SELECT 1 FROM game_names gn WHERE gn.slug=games.slug AND gn.name LIKE ?) OR type LIKE ? OR excerpt LIKE ?)';
       $q = '%' . $o['q'] . '%'; array_push($a, $q, $q, $q, $q);
@@ -520,6 +521,7 @@ if (isset($_GET['img'])) {
 $slug = isset($_GET['game']) ? (string)$_GET['game'] : '';
 $q    = trim((string)($_GET['q'] ?? ''));
 $cat  = (string)($_GET['cat'] ?? '');
+$family = trim((string)($_GET['family'] ?? ''));
 $view = ($slug !== '' && !isset($_GET['q'])) ? 'reader' : 'home';
 if (isset($_GET['top'])) $view = 'top';
 
@@ -564,7 +566,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 
 .section-head,.list,.families{max-width:1440px;margin:auto}.section-head{display:flex;justify-content:space-between;padding:54px clamp(18px,4vw,64px) 18px}.section-head .eyebrow{display:inline-block;padding:4px 8px;background:var(--yellow);color:var(--ink);font-weight:700;transform:rotate(-1deg)}.count-line{color:var(--muted);font-variant-numeric:tabular-nums}
 .list{padding:0 clamp(10px,3.4vw,52px) 96px}.game{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;min-height:108px;padding:0 12px;border-radius:4px;transition:background .15s,color .15s}.game:nth-child(4n+1):hover{background:var(--pink)}.game:nth-child(4n+2):hover{background:var(--blue);color:#fff}.game:nth-child(4n+3):hover{background:var(--yellow)}.game:nth-child(4n):hover{background:var(--mint)}.game__index{font:700 .76rem var(--mono);color:var(--blue);font-variant-numeric:tabular-nums}.game__main{min-width:0;padding:18px 12px}.game__title{display:block;font-size:clamp(1.35rem,2.2vw,1.75rem);font-weight:700}.game__sub,.game__meta{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.game__sub{margin-top:6px;color:var(--muted);font:.82rem var(--mono)}.game__meta{margin-top:8px;color:var(--muted);font-size:.8rem}.game:hover .game__sub,.game:hover .game__meta{color:inherit}.game__fav{min-width:52px;min-height:46px;border:0;border-radius:3px;background:transparent;color:inherit;font:700 .72rem var(--mono);text-transform:uppercase}.game__fav:hover,.game__fav.on{background:var(--ink);color:var(--yellow)}
-.families{padding:28px clamp(18px,4vw,64px) 120px}.families__title{margin-bottom:38px;font:2.4rem var(--display);text-transform:uppercase}.families__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px 48px;align-items:start}.family{min-width:0}.family__name{display:inline-block;padding:5px 9px;background:var(--pink);font:700 .72rem var(--mono);text-transform:uppercase;transform:rotate(-2deg);cursor:pointer;list-style:none}.family__name::-webkit-details-marker{display:none}.family__name::after{content:' +';margin-left:6px}.family[open] .family__name::after{content:' −'}.family__name small{opacity:.65;font:inherit}.family:nth-child(2) .family__name{background:var(--blue);color:#fff;transform:rotate(2deg)}.family:nth-child(3) .family__name{background:var(--yellow)}.family__members{display:flex;flex-direction:column;margin-top:18px}.family__link{padding:6px 0;color:var(--muted);font-size:.88rem}.family__link:hover{color:var(--blue)}
+.families{padding:28px clamp(18px,4vw,64px) 120px}.families__title{margin-bottom:38px;font:2.4rem var(--display);text-transform:uppercase}.families__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px 48px}.family{display:flex;align-items:center;justify-content:space-between;min-width:0;padding:18px 0;border-top:1px solid var(--line)}.family__name{display:inline-block;padding:5px 9px;background:var(--pink);font:700 .72rem var(--mono);text-transform:uppercase;transform:rotate(-2deg)}.family__name::after{content:' →';margin-left:6px}.family strong{color:var(--muted);font:500 .68rem var(--mono);white-space:nowrap}.family:nth-child(2) .family__name{background:var(--blue);color:#fff;transform:rotate(2deg)}.family:nth-child(3) .family__name{background:var(--yellow)}.family:hover .family__name{background:var(--ink);color:var(--paper);transform:none}
 .empty{padding:72px 18px;text-align:center;color:var(--muted)}.empty h2{margin-bottom:8px;color:var(--ink)}
 
 .reader{display:grid;grid-template-columns:minmax(380px,42vw) minmax(0,1fr);min-height:100dvh;background:var(--paper)}.bar{position:fixed;z-index:20;top:0;left:0;width:42vw;display:flex;justify-content:space-between;align-items:center;padding:calc(18px + env(safe-area-inset-top)) 24px 16px;color:#fff;font:.64rem var(--mono);text-transform:uppercase}.bar__back{padding:9px 11px;border:0;border-radius:6px;background:rgba(16,38,31,.72)}
@@ -790,7 +792,8 @@ html[data-theme="appica"] .reader{background:var(--paper)}html[data-theme="appic
 else:
   // ----- HOME / TOP -----
   $isTop = ($view === 'top');
-  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games([]);
+  $isFamily = $family !== '';
+  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games($isFamily ? ['family' => $family] : []);
   // Map slug -> tous les noms (game_names) pour la recherche et l'affichage.
   $namesMap = [];
   $altNamesMap = [];
@@ -825,11 +828,11 @@ else:
   <main>
     <section class="launcher" aria-labelledby="heroTitle">
       <div class="launcher__intro">
-        <p class="eyebrow"><?= $TOTAL ?> règles vérifiées / accès immédiat</p>
-        <h1 id="heroTitle">On joue<br>à quoi ?</h1>
-        <p>Nom officiel, surnom local ou type de jeu : une frappe suffit.</p>
+        <p class="eyebrow"><?= $isFamily ? count($games).' jeux dans cette famille' : $TOTAL.' règles vérifiées / accès immédiat' ?></p>
+        <h1 id="heroTitle"><?= $isFamily ? e($family) : 'On joue<br>à quoi ?' ?></h1>
+        <p><?= $isFamily ? 'Une sélection réunie par mécanique de jeu.' : 'Nom officiel, surnom local ou type de jeu : une frappe suffit.' ?></p>
       </div>
-      <?php if (!$isTop): ?>
+      <?php if (!$isTop && !$isFamily): ?>
       <div class="search">
         <label for="searchInput">Trouver une règle</label>
         <input type="search" id="searchInput" placeholder="Yaniv, Main Verte, Speed…" autocomplete="off" autocapitalize="off" spellcheck="false">
@@ -845,11 +848,13 @@ else:
           <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> <span><?= (int)($info['count'] ?? 0) ?></span></button>
         <?php endforeach; ?>
       </div>
-      <?php else: ?>
+      <?php elseif ($isTop): ?>
       <p class="top-intro">Les règles les plus utiles selon les joueurs.</p>
+      <?php else: ?>
+      <p class="top-intro"><a href="#list">Voir les jeux</a> · <a href="?">Toutes les familles</a></p>
       <?php endif; ?>
     </section>
-    <div class="section-head"><p class="eyebrow"><?= $isTop ? 'Classement' : 'Répertoire' ?></p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
+    <div class="section-head"><p class="eyebrow"><?= $isTop ? 'Classement' : ($isFamily ? 'Famille · '.e($family) : 'Répertoire') ?></p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
 
   <div class="list" id="list">
     <?php foreach ($games as $index => $g):
@@ -876,19 +881,15 @@ else:
     <?php endforeach; ?>
     <div class="empty" id="emptyState" hidden><h2>Aucun jeu trouvé</h2><p>Essayez un autre nom ou une autre famille.</p></div>
   </div>
-  <?php if ($families): ?>
+  <?php if ($families && !$isFamily && !$isTop): ?>
   <section class="families" id="families">
     <div class="families__head"><h2 class="families__title">Familles</h2></div>
     <div class="families__grid">
       <?php foreach ($families as $family => $slugs): ?>
-      <details class="family">
-        <summary class="family__name"><?= e($family) ?> <small><?= count($slugs) ?></small></summary>
-        <div class="family__members">
-          <?php foreach ($slugs as $s): $gt = ''; foreach ($games as $gg) { if ($gg['slug']===$s) { $gt=$gg['title']; break; } } ?>
-          <a class="family__link" href="?game=<?= e($s) ?>"><?= e($gt ?: $s) ?></a>
-          <?php endforeach; ?>
-        </div>
-      </details>
+      <a class="family" href="?family=<?= e(rawurlencode($family)) ?>">
+        <span class="family__name"><?= e($family) ?></span>
+        <strong><?= count($slugs) ?> jeux</strong>
+      </a>
       <?php endforeach; ?>
     </div>
   </section>
