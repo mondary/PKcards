@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.19';
+const VERSION = '2026.08.20';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -440,7 +440,7 @@ function hero_photo(array $g, int $width = 1280): string {
 
 function game_photo(array $g, bool $thumbnail = false): string {
   $generated = Vault::catalog()['images'][$g['slug']] ?? '';
-  if ($generated !== '') return $generated;
+  if ($generated !== '') return '?visual=' . urlencode((string)$g['slug']);
   $image = (string)($g['image'] ?? '');
   if (str_starts_with($image, 'http')) return $image;
   return $image !== '' ? '?img=' . urlencode($image) : hero_photo($g, $thumbnail ? 640 : 1280);
@@ -530,6 +530,18 @@ if (!empty($_GET['api'])) {
     default:
       json_out(['ok' => false, 'error' => 'unknown'], 404);
   }
+}
+
+// --- Visuel généré local (?visual=slug) ---
+if (isset($_GET['visual'])) {
+  $slug = (string)$_GET['visual'];
+  $path = Vault::catalog()['images'][$slug] ?? '';
+  $file = $path !== '' ? __DIR__ . '/' . $path : '';
+  if ($file === '' || !is_file($file)) { http_response_code(404); exit; }
+  header('Content-Type: image/webp');
+  header('Cache-Control: public, max-age=31536000, immutable');
+  readfile($file);
+  exit;
 }
 
 // --- Image depuis le KV (?img=/path) ---
