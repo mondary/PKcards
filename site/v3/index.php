@@ -120,9 +120,9 @@ class Vault {
       $min = (int)($range[1] ?? 0); $max = (int)($range[2] ?? 0);
       if (!$min && preg_match('/^(\d+)\s*joueurs?/iu', $players, $single)) $min = $max = (int)$single[1];
       $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
-      $values = [$title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
+      $values = [$title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
-      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
       $gn->execute([$slug, $title]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
@@ -486,6 +486,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .game__thumb{width:42px;height:42px;border-radius:11px;flex-shrink:0;object-fit:cover;background:rgba(255,255,255,.04);border:1px solid var(--border)}
 .game__main{flex:1;min-width:0}
 .game__title{font-size:1rem;font-weight:600;color:#f2f2f8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.25}
+.game__sub{display:block;font-size:.74rem;color:var(--gold);opacity:.7;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.3;margin-top:1px}
+.game__meta{display:block;font-size:.66rem;color:#7a7a8c;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.3;margin-top:2px}
 .game__alts{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
 .game__alt{font-size:.68rem;padding:2px 8px;border-radius:50px;background:rgba(202,158,230,.1);border:1px solid rgba(202,158,230,.25);color:var(--gold);white-space:nowrap}
 .game__tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
@@ -610,6 +612,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     $_yt = fn(string $n): string => 'https://www.youtube.com/results?search_query=' . rawurlencode('règles du jeu ' . $n);
     $altNames = array_values(array_filter($yNames, fn($n) => mb_strtolower($n) !== mb_strtolower($g['title'])));
     $heroPhoto = $g['image'] ? '?img=' . urlencode($g['image']) : hero_photo($g);
+    // Navigation clavier : prev/next.
+    $_all = Vault::db()->query("SELECT slug FROM games ORDER BY sort")->fetchAll(PDO::FETCH_COLUMN);
+    $_i = array_search($g['slug'], $_all);
+    $prevSlug = $_all[($_i - 1 + count($_all)) % count($_all)];
+    $nextSlug = $_all[($_i + 1) % count($_all)];
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
     // Jeux liés depuis game_links (bidirectionnel).
@@ -769,16 +776,9 @@ else:
           <?php
             $gAlts = array_values(array_filter($altNamesMap[$g['slug']] ?? [], fn($n) => mb_strtolower($n) !== mb_strtolower($g['title'])));
             if ($gAlts): ?>
-          <span class="game__alts"><?php foreach ($gAlts as $_a): ?><span class="game__alt"><?= e($_a) ?></span><?php endforeach; ?></span>
+          <span class="game__sub"><?= e(implode(' · ', $gAlts)) ?></span>
           <?php endif; ?>
-          <span class="game__tags">
-            <?php if ((int)$g['votes'] > 0): ?><span class="tag tag--v">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
-            <?php if ($pshort): ?><span class="tag tag--p">👥 <?= e($pshort) ?></span><?php endif; ?>
-             <?php if ($g['type']): ?><span class="tag"><?= e($g['type']) ?></span><?php endif; ?>
-             <?php if ((int)($g['is_clm'] ?? 0)): ?><span class="tag tag--clm">CLM</span><?php endif; ?>
-            <?php if ((int)($g['is_mistigri'] ?? 0)): ?><span class="tag tag--mistigri">Mistigri</span><?php endif; ?>
-             <?php if ($g['difficulty']): ?><span class="tag tag--d"><?= e($g['difficulty']) ?></span><?php endif; ?>
-          </span>
+          <span class="game__meta"><?php if ($pshort): ?>👥 <?= e($pshort) ?><?php endif; ?><?php if ($pshort && $g['difficulty']): ?> · <?php endif; ?><?php if ($g['difficulty']): ?><?= e($g['difficulty']) ?><?php endif; ?><?php if ((int)$g['votes'] > 0): ?> · ♥ <?= (int)$g['votes'] ?><?php endif; ?></span>
         </span>
         <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
       </a>
