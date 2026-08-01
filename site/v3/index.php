@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.22';
+const VERSION = '2026.08.23';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -438,9 +438,12 @@ function hero_photo(array $g, int $width = 1280): string {
   return 'https://commons.wikimedia.org/wiki/Special:Redirect/file/' . basename($path) . '?width=' . $width;
 }
 
-function game_photo(array $g, bool $thumbnail = false): string {
+function game_photo(array $g, bool $thumbnail = false, bool $inline = false): string {
   $generated = Vault::catalog()['images'][$g['slug']] ?? '';
-  if ($generated !== '') return '?visual=' . urlencode((string)$g['slug']);
+  if ($generated !== '') {
+    if ($inline) return 'data:image/webp;base64,' . base64_encode(file_get_contents(__DIR__ . '/' . $generated) ?: '');
+    return '?visual=' . urlencode((string)$g['slug']);
+  }
   $image = (string)($g['image'] ?? '');
   if (str_starts_with($image, 'http')) return $image;
   return $image !== '' ? '?img=' . urlencode($image) : hero_photo($g, $thumbnail ? 640 : 1280);
@@ -767,7 +770,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     $yNames = $_ns->fetchAll(PDO::FETCH_COLUMN);
     $_yt = fn(string $n): string => 'https://www.youtube.com/results?search_query=' . rawurlencode('règles du jeu ' . $n);
     $altNames = array_values(array_filter($yNames, fn($n) => mb_strtolower($n) !== mb_strtolower($g['title'])));
-    $heroPhoto = game_photo($g);
+    $heroPhoto = game_photo($g, false, true);
     // Navigation clavier : prev/next.
     $_all = Vault::db()->query("SELECT slug FROM games ORDER BY sort_key(title)")->fetchAll(PDO::FETCH_COLUMN);
     $_i = array_search($g['slug'], $_all);
@@ -908,7 +911,7 @@ else:
 
   <main>
     <section class="launcher<?= $isFamily ? ' launcher--family' : '' ?>" aria-labelledby="heroTitle">
-      <?php if ($familyCover): ?><img class="launcher__family-image" src="<?= e(game_photo($familyCover)) ?>" data-fallback="<?= e(hero_photo($familyCover)) ?>" alt="" decoding="async" fetchpriority="high" referrerpolicy="no-referrer"><?php endif; ?>
+      <?php if ($familyCover): ?><img class="launcher__family-image" src="<?= e(game_photo($familyCover, false, true)) ?>" data-fallback="<?= e(hero_photo($familyCover)) ?>" alt="" decoding="async" fetchpriority="high" referrerpolicy="no-referrer"><?php endif; ?>
       <div class="launcher__intro">
         <p class="eyebrow"><?= $isFamily ? count($games).' jeux dans cette famille' : $TOTAL.' règles vérifiées / accès immédiat' ?></p>
         <h1 id="heroTitle"><?= $isFamily ? e($family) : 'On joue<br>à quoi ?' ?></h1>
