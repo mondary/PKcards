@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.9';
+const VERSION = '2026.08.10';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -55,6 +55,7 @@ class Vault {
      self::seed();
      self::importClm();
      self::importMistigri();
+     self::syncCatalog();
      return $pdo;
   }
 
@@ -105,9 +106,11 @@ class Vault {
       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_clm=1 WHERE slug=?');
     $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
+    $retired = self::retiredSlugs();
     $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
     foreach (glob($dir . '/*.md') ?: [] as $file) {
       $slug = pathinfo($file, PATHINFO_FILENAME);
+      if (isset($retired[$slug])) continue;
       $md = file_get_contents($file) ?: '';
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
       $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
@@ -138,10 +141,12 @@ class Vault {
       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,goal=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_mistigri=1,image=? WHERE slug=?');
     $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
+    $retired = self::retiredSlugs();
     $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
     $mimes = ['jpg' => 'image/jpeg', 'jpeg' => 'image/jpeg', 'png' => 'image/png', 'gif' => 'image/gif', 'webp' => 'image/webp'];
     foreach (glob($dir . '/*.md') ?: [] as $file) {
       $slug = pathinfo($file, PATHINFO_FILENAME);
+      if (isset($retired[$slug])) continue;
       $md = file_get_contents($file) ?: '';
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
       $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
@@ -172,6 +177,81 @@ class Vault {
       if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', $excerpt, $min, $max, $sort++, 0, 1, $image]);
       $gn->execute([$slug, $title]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
+    }
+  }
+
+  static function catalog(): array {
+    static $catalog;
+    if ($catalog === null) {
+      $file = __DIR__ . '/catalog.json';
+      $catalog = is_file($file) ? (json_decode(file_get_contents($file) ?: '', true) ?: []) : [];
+    }
+    return $catalog;
+  }
+
+  static function retiredSlugs(): array {
+    $applied = self::$pdo->query("SELECT 1 FROM kv WHERE path='/meta/catalog-version'")->fetchColumn();
+    return $applied ? array_fill_keys(array_keys(self::catalog()['duplicates'] ?? []), true) : [];
+  }
+
+  /** Réconcilie une fois les noms et doublons sans écraser votes ni favoris. */
+  static function syncCatalog(): void {
+    $file = __DIR__ . '/catalog.json';
+    if (!is_file($file)) return;
+    $hash = hash_file('sha256', $file) ?: '';
+    $db = self::$pdo;
+    $marker = $db->query("SELECT body FROM kv WHERE path='/meta/catalog-version'")->fetchColumn();
+    if ($marker === $hash) return;
+    $catalog = self::catalog();
+
+    $db->beginTransaction();
+    try {
+      $copyContent = $db->prepare("INSERT INTO kv(path,mime,body,updated_at)
+        SELECT ?,mime,body,? FROM kv WHERE path=?
+        ON CONFLICT(path) DO UPDATE SET mime=excluded.mime,body=excluded.body,updated_at=excluded.updated_at");
+      foreach ($catalog['content_sources'] ?? [] as $canonical => $source)
+        $copyContent->execute(['/games/' . $canonical . '.md', time(), '/games/' . $source . '.md']);
+
+      $exists = $db->prepare('SELECT 1 FROM games WHERE slug=?');
+      $vote = $db->prepare('INSERT INTO votes(game_id,count) SELECT ?,count FROM votes WHERE game_id=? ON CONFLICT(game_id) DO UPDATE SET count=count+excluded.count');
+      $favorite = $db->prepare('INSERT OR IGNORE INTO favorites(email,game_id,created_at) SELECT email,?,created_at FROM favorites WHERE game_id=?');
+      $links = $db->prepare('SELECT slug,related,rel,note FROM game_links WHERE slug=? OR related=?');
+      $insertLink = $db->prepare('INSERT OR IGNORE INTO game_links(slug,related,rel,note) VALUES(?,?,?,?)');
+      foreach ($catalog['duplicates'] ?? [] as $duplicate => $canonical) {
+        $exists->execute([$duplicate]);
+        if (!$exists->fetchColumn()) continue;
+        $vote->execute([$canonical, $duplicate]);
+        $favorite->execute([$canonical, $duplicate]);
+        $db->prepare('UPDATE vote_log SET game_id=? WHERE game_id=?')->execute([$canonical, $duplicate]);
+        $links->execute([$duplicate, $duplicate]);
+        $rows = $links->fetchAll();
+        $db->prepare('DELETE FROM game_links WHERE slug=? OR related=?')->execute([$duplicate, $duplicate]);
+        foreach ($rows as $row) {
+          $from = $row['slug'] === $duplicate ? $canonical : $row['slug'];
+          $to = $row['related'] === $duplicate ? $canonical : $row['related'];
+          if ($from !== $to) $insertLink->execute([$from, $to, $row['rel'], $row['note']]);
+        }
+        $db->prepare('DELETE FROM favorites WHERE game_id=?')->execute([$duplicate]);
+        $db->prepare('DELETE FROM votes WHERE game_id=?')->execute([$duplicate]);
+        $db->prepare('DELETE FROM game_names WHERE slug=?')->execute([$duplicate]);
+        $db->prepare('DELETE FROM games WHERE slug=?')->execute([$duplicate]);
+      }
+
+      $gameExists = $db->prepare('SELECT 1 FROM games WHERE slug=?');
+      $deleteNames = $db->prepare('DELETE FROM game_names WHERE slug=?');
+      $insertName = $db->prepare('INSERT INTO game_names(slug,name) VALUES(?,?)');
+      foreach ($catalog['games'] ?? [] as $slug => $names) {
+        $gameExists->execute([$slug]);
+        if (!$gameExists->fetchColumn()) continue;
+        $deleteNames->execute([$slug]);
+        foreach ($names as $name) $insertName->execute([$slug, $name]);
+      }
+      $db->prepare("INSERT INTO kv(path,mime,body,updated_at) VALUES('/meta/catalog-version','text/plain',?,?)
+        ON CONFLICT(path) DO UPDATE SET body=excluded.body,updated_at=excluded.updated_at")->execute([$hash, time()]);
+      $db->commit();
+    } catch (Throwable $e) {
+      $db->rollBack();
+      throw $e;
     }
   }
 
@@ -228,6 +308,10 @@ class Vault {
     $st = self::db()->prepare('SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games WHERE slug=?');
     $st->execute([$slug]);
     $g = $st->fetch();
+    if (!$g && isset(self::catalog()['duplicates'][$slug])) {
+      $st->execute([self::catalog()['duplicates'][$slug]]);
+      $g = $st->fetch();
+    }
     return $g ?: null;
   }
 

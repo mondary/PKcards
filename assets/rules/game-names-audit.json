@@ -1,0 +1,5297 @@
+[
+  {
+    "slug": "3-5-7-9",
+    "title": "Le 3-5-7-9",
+    "current_names": [
+      "Le 3-5-7-9"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The distinctive objective of winning the 3rd, 5th, 7th and 9th tricks did not match a documented international game. Do not conflate it with poker's unrelated 3-5-7.",
+    "source_urls": []
+  },
+  {
+    "slug": "500",
+    "title": "Le 500",
+    "current_names": [
+      "Cinq-Cent",
+      "Five Hundred",
+      "Le 500"
+    ],
+    "add": [
+      "500",
+      "Cinq Cents"
+    ],
+    "remove": [
+      "Cinq-Cent"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "This is Five Hundred: Euchre bowers, joker, kitty, trick contract and 500-point target. Cinq-Cent is a malformed singular spelling. This should be the canonical record over the later duplicate.",
+    "source_urls": [
+      "https://www.pagat.com/euchre/500.html"
+    ]
+  },
+  {
+    "slug": "8-americain",
+    "title": "LE 8 AMÉRICAIN",
+    "current_names": [
+      "8 Américain",
+      "Crazy Eights",
+      "LE 8 AMÉRICAIN",
+      "Le Huit Américain",
+      "Mau Mau",
+      "Switch",
+      "Uno"
+    ],
+    "add": [
+      "Huit américain",
+      "Huit",
+      "Crates",
+      "Swedish Rummy",
+      "Last One",
+      "Rockaway",
+      "Tschausepp",
+      "Pesten"
+    ],
+    "remove": [
+      "Uno"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The matching-suit/rank shedding game is the Crazy Eights family. Pagat recognizes the added regional names. Uno is a commercial descendant, not an alternative name for the standard-deck game.",
+    "source_urls": [
+      "https://www.pagat.com/eights/crazy8s.html"
+    ]
+  },
+  {
+    "slug": "all-fives",
+    "title": "All Fives",
+    "current_names": [
+      "All Fives",
+      "Cinch"
+    ],
+    "add": [],
+    "remove": [
+      "Cinch"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules match the two-player All Fives variant of All Fours. Cinch normally denotes Double Pedro, where both same-colour fives are scoring trumps, so it is not an exact alias here.",
+    "source_urls": [
+      "https://www.pagat.com/allfours/allfives.html",
+      "https://www.pagat.com/allfours/pitch.html#fives"
+    ]
+  },
+  {
+    "slug": "all-fours",
+    "title": "All Fours",
+    "current_names": [
+      "All Fours",
+      "Old Sledge",
+      "Seven Up"
+    ],
+    "add": [
+      "All Foes"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "High, Low, Jack and Game identify All Fours. Old Sledge and Seven Up are documented North American names; All Foes is the Trinidad name.",
+    "source_urls": [
+      "https://www.pagat.com/allfours/allfours.html"
+    ]
+  },
+  {
+    "slug": "allo-jack",
+    "title": "Allô Jack !",
+    "current_names": [
+      "Allô Jack !",
+      "Snap"
+    ],
+    "add": [],
+    "remove": [
+      "Snap"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Players react to particular ranks with prescribed words or gestures; they do not call matching ranks as in Snap. This is the earlier canonical copy of the same core game as bonjour-monsieur.",
+    "source_urls": [
+      "https://www.pagat.com/war/snap.html"
+    ]
+  },
+  {
+    "slug": "aluette",
+    "title": "L'Aluette",
+    "current_names": [
+      "Aluette",
+      "L'Aluette",
+      "La Vache",
+      "L’Aluette"
+    ],
+    "add": [
+      "Jeu de la Vache"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 48-card pack, exceptional card hierarchy, partnerships and gestures identify Aluette, also called la Vache.",
+    "source_urls": [
+      "https://www.pagat.com/put/aluette.html"
+    ]
+  },
+  {
+    "slug": "ambigu",
+    "title": "L'Ambigu",
+    "current_names": [
+      "L'Ambigu",
+      "—"
+    ],
+    "add": [
+      "Ambigu"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The em dash is a malformed placeholder alias. The two-stage deal, chances/combinations and betting describe the historical Ambigu, not any record sharing the placeholder.",
+    "source_urls": []
+  },
+  {
+    "slug": "animaux",
+    "title": "Les Animaux",
+    "current_names": [
+      "Animal Sounds",
+      "Les Animaux"
+    ],
+    "add": [
+      "Animals",
+      "Animal Snap",
+      "Barnyard Snap"
+    ],
+    "remove": [
+      "Animal Sounds"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The face-up deal, matching ranks and calling an opponent's animal identify the Animals variant of Snap. The noise version is documented as Barnyard Snap; Animal Sounds is descriptive but not an established title.",
+    "source_urls": [
+      "https://www.pagat.com/war/snap.html#animals"
+    ]
+  },
+  {
+    "slug": "ascenseur",
+    "title": "L'Ascenseur",
+    "current_names": [
+      "L'Ascenseur",
+      "Lift",
+      "L’Ascenseur"
+    ],
+    "add": [
+      "Oh Hell!",
+      "Elevator",
+      "Up and Down the River",
+      "Oh Pshaw!",
+      "Oh Well!",
+      "Oh Shit!",
+      "Blob",
+      "Blackout",
+      "Contract Whist",
+      "Nomination Whist",
+      "Bust",
+      "La Podrida"
+    ],
+    "remove": [
+      "Lift"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Changing hand sizes, exact trick bids, a turned trump and the hook rule identify Oh Hell. Elevator/L'Ascenseur is documented; Lift is only a literal translation. This is the preferred canonical record over beigne.",
+    "source_urls": [
+      "https://www.pagat.com/exact/ohhell.html"
+    ]
+  },
+  {
+    "slug": "baccara",
+    "title": "Le Baccara",
+    "current_names": [
+      "Baccara",
+      "Baccara Banque",
+      "Chemin de Fer",
+      "Le Baccara"
+    ],
+    "add": [
+      "Baccarat"
+    ],
+    "remove": [
+      "Baccara Banque",
+      "Chemin de Fer"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Modulo-ten totals approaching nine identify Baccarat/Baccara. Baccarat Banque and Chemin de Fer are recognized but mechanically distinct Baccarat variants, not interchangeable aliases for a generic record.",
+    "source_urls": [
+      "https://www.pagat.com/banking/baccarat.html"
+    ]
+  },
+  {
+    "slug": "banque-russe",
+    "title": "La Banque Russe",
+    "current_names": [
+      "Crapette",
+      "Crapette Russe",
+      "La Banque Russe",
+      "Russian Bank"
+    ],
+    "add": [
+      "Zank-Patience",
+      "Streitpatience",
+      "Schikanös-Patience",
+      "Stop",
+      "Touch",
+      "Tonj",
+      "Tunj",
+      "Tonge",
+      "Tunge"
+    ],
+    "remove": [],
+    "duplicate_of": "crapette",
+    "confidence": "high",
+    "rationale": "The two packs, reserves, shared foundations/tableau and compulsory moves are exactly Russian Bank/Crapette. The database's crapette record has the same objective and mechanics.",
+    "source_urls": [
+      "https://www.pagat.com/patience/crapette.html"
+    ]
+  },
+  {
+    "slug": "banque",
+    "title": "La Banque",
+    "current_names": [
+      "Banco",
+      "La Banque"
+    ],
+    "add": [
+      "Red Dog",
+      "High Card Pool",
+      "Shoot"
+    ],
+    "remove": [
+      "Banco"
+    ],
+    "duplicate_of": "chien-rouge",
+    "confidence": "medium",
+    "rationale": "Three cards per punter and winning with a higher card of the dealer's turned suit match the Shoot/old Red Dog mechanism. chien-rouge describes the same comparison and betting rule. Banco is a Baccarat betting call, not a reliable game alias here.",
+    "source_urls": [
+      "https://www.pagat.com/banking/reddog.html"
+    ]
+  },
+  {
+    "slug": "barbu",
+    "title": "Le Barbu",
+    "current_names": [
+      "Le Barbu"
+    ],
+    "add": [
+      "Barbu"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The changing negative and positive contracts, including avoidance of the king of hearts, identify Barbu. Related compendium games such as King and Canadian Salad are not aliases.",
+    "source_urls": [
+      "https://www.pagat.com/compendium/barbu.html"
+    ]
+  },
+  {
+    "slug": "bassette",
+    "title": "La Bassette",
+    "current_names": [
+      "Bassette",
+      "La Bassette"
+    ],
+    "add": [
+      "Basset"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is the historical banking game Bassette/Basset. Faro is historically related but not mechanically identical enough to add as an alias.",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Bassette_(jeu)"
+    ]
+  },
+  {
+    "slug": "bataille-corse",
+    "title": "La Bataille Corse",
+    "current_names": [
+      "Bataille Corse",
+      "Bataille Corse Tarot",
+      "Egyptian Rat Screw",
+      "La Bataille Corse",
+      "Tarot"
+    ],
+    "add": [
+      "Egyptian Ratscrew",
+      "Egyptian Rat Slap"
+    ],
+    "remove": [
+      "Tarot"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Face-card payments plus reaction/slapping rules identify the Egyptian Ratscrew/Bataille Corse family. Tarot names a deck or a separate trick-taking game, not this ruleset.",
+    "source_urls": [
+      "https://www.pagat.com/war/beggar_my_neighbour.html",
+      "https://www.pagat.com/war/egyptrat.html"
+    ]
+  },
+  {
+    "slug": "bataille-norvegienne",
+    "title": "Bataille Norvégienne",
+    "current_names": [
+      "Bataille Norvégienne",
+      "Norwegian War"
+    ],
+    "add": [
+      "Shithead",
+      "Palace",
+      "Karma",
+      "China Hand",
+      "Ten-Two Slide"
+    ],
+    "remove": [
+      "Norwegian War"
+    ],
+    "duplicate_of": "shithead",
+    "confidence": "high",
+    "rationale": "Three cards down, three up, three in hand, replenishing to three, equal-or-higher play, 2 resets and 10 clears identify Shithead. It is not War/Bataille. The later shithead record is the same game.",
+    "source_urls": [
+      "https://www.pagat.com/beating/shithead.html"
+    ]
+  },
+  {
+    "slug": "bataille",
+    "title": "La Bataille",
+    "current_names": [
+      "La Bataille",
+      "War"
+    ],
+    "add": [
+      "Battle"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Simultaneously exposed cards, rank comparison and battles on ties are standard War/Bataille. This is distinct from Bataille Corse.",
+    "source_urls": [
+      "https://www.pagat.com/war/war.html"
+    ]
+  },
+  {
+    "slug": "baudet",
+    "title": "Le Baudet",
+    "current_names": [
+      "Le Baudet",
+      "Le Petit Cheval"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The simultaneous construction of four ascending ace-to-king suit piles does not safely match Sevens, Domino, Nerts or another documented international ruleset. Preserve the two regional names only.",
+    "source_urls": []
+  },
+  {
+    "slug": "beigne",
+    "title": "Le Beigne",
+    "current_names": [
+      "Le Beigne",
+      "Nomination Whist",
+      "Oh Hell",
+      "Up and Down"
+    ],
+    "add": [
+      "Oh Hell!",
+      "L'Ascenseur",
+      "Elevator",
+      "Up and Down the River",
+      "Oh Pshaw!",
+      "Oh Well!",
+      "Blob",
+      "Blackout",
+      "Contract Whist",
+      "Bust"
+    ],
+    "remove": [
+      "Up and Down"
+    ],
+    "duplicate_of": "ascenseur",
+    "confidence": "high",
+    "rationale": "The rising/falling deal sequence, exact bids and 10-plus-bid scoring are a standard Oh Hell variant. Scoring differences are normal variations, not a separate game identity.",
+    "source_urls": [
+      "https://www.pagat.com/exact/ohhell.html"
+    ]
+  },
+  {
+    "slug": "belote",
+    "title": "La Belote",
+    "current_names": [
+      "Belote",
+      "La Belote"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 32-card pack, promoted trump jack and nine, contracts, declarations and belote-rebelote identify classical French Belote. Belot and Klaverjassen are related national games, not exact aliases.",
+    "source_urls": [
+      "https://www.pagat.com/jass/belote.html"
+    ]
+  },
+  {
+    "slug": "bezique",
+    "title": "La Bésigue",
+    "current_names": [
+      "Bisi",
+      "Bizique",
+      "Bésigue",
+      "Bésigue chinois",
+      "Bézi",
+      "Bézigue",
+      "La Bésigue"
+    ],
+    "add": [
+      "Bezique",
+      "Besit",
+      "Bezit"
+    ],
+    "remove": [
+      "Bisi",
+      "Bizique",
+      "Bésigue chinois"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two 32-card packs, trick play, marriages, bésigue melds and brisques identify Bezique/Bésigue. Chinese Bezique is a six-pack variant, not an alias. Besit/Bezit and Bézi are documented historical forms.",
+    "source_urls": [
+      "https://www.pagat.com/marriage/bezique.html",
+      "https://en.wikipedia.org/wiki/Bezique"
+    ]
+  },
+  {
+    "slug": "black-jack-banquier",
+    "title": "Black Jack",
+    "current_names": [
+      "Black Jack",
+      "Blackjack",
+      "Blackjack 21",
+      "Le Valet Noir",
+      "Vingt-et-un"
+    ],
+    "add": [
+      "21",
+      "Twenty-One"
+    ],
+    "remove": [
+      "Blackjack 21",
+      "Le Valet Noir"
+    ],
+    "duplicate_of": "vingt-et-un",
+    "confidence": "high",
+    "rationale": "Flexible aces, ten-valued faces, player decisions before a bank dealer and a target of 21 are Blackjack/Twenty-One. vingt-et-un has the same rules. Le Valet Noir risks confusion with the unrelated British Crazy Eights name Black Jack.",
+    "source_urls": [
+      "https://www.pagat.com/banking/blackjack.html"
+    ]
+  },
+  {
+    "slug": "bog",
+    "title": "Le Bog",
+    "current_names": [
+      "Boga",
+      "Le Bog"
+    ],
+    "add": [
+      "Bog",
+      "Poch",
+      "Pochspiel",
+      "Pochen",
+      "Le Poque",
+      "Bock",
+      "Bocken"
+    ],
+    "remove": [
+      "Boga"
+    ],
+    "duplicate_of": "poque",
+    "confidence": "high",
+    "rationale": "The special board, pay-card pools, betting on pairs/triples/quartets and final stops phase identify Poch/Poque. Pagat explicitly records Bog as a French name. poque contains the same historical game.",
+    "source_urls": [
+      "https://www.pagat.com/stops/poch.html"
+    ]
+  },
+  {
+    "slug": "bonjour-monsieur",
+    "title": "Bonjour Monsieur, Bonjour Madame",
+    "current_names": [
+      "Bonjour Monsieur",
+      "Bonjour Monsieur, Bonjour Madame"
+    ],
+    "add": [
+      "Allô Jack !"
+    ],
+    "remove": [],
+    "duplicate_of": "allo-jack",
+    "confidence": "high",
+    "rationale": "The same rank-triggered greetings, salute and hand-on-pile actions occur in allo-jack; the additional number-card actions are house-rule extensions.",
+    "source_urls": []
+  },
+  {
+    "slug": "boston",
+    "title": "Le Boston de Nantes",
+    "current_names": [
+      "Boston",
+      "Boston de Nantes",
+      "Le Boston",
+      "Le Boston de Nantes"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The record describes the documented Boston de Nantes variant, with auction contracts, support and its own stake structure. Generic Boston remains a reasonable umbrella shorthand.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Boston_(card_game)#Boston_de_Nantes"
+    ]
+  },
+  {
+    "slug": "bouchon",
+    "title": "Le Bouchon",
+    "current_names": [
+      "Le Bouchon"
+    ],
+    "add": [
+      "Bouchon",
+      "Pig",
+      "Spoons"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Passing cards to collect four of a kind followed by grabbing one fewer token than players is Spoons. Pagat explicitly identifies Bouchon as the French cork-token version.",
+    "source_urls": [
+      "https://www.pagat.com/passing/pig.html"
+    ]
+  },
+  {
+    "slug": "bouillotte",
+    "title": "La Bouillotte",
+    "current_names": [
+      "Aucun",
+      "La Bouillotte"
+    ],
+    "add": [
+      "Bouillotte"
+    ],
+    "remove": [
+      "Aucun"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Aucun is a malformed placeholder, not a name. Three-card hands, the turned card, brelan carré and historical betting structure identify Bouillotte.",
+    "source_urls": [
+      "https://www.pagat.com/vying/bouillotte.html"
+    ]
+  },
+  {
+    "slug": "brag",
+    "title": "Le Brag",
+    "current_names": [
+      "Brag",
+      "Le Brag",
+      "Three Card Brag"
+    ],
+    "add": [
+      "Three-Card Brag"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Three-card combinations and Brag's continuing betting procedure identify Three Card Brag. Teen Patti is closely related but remains a separately named regional game.",
+    "source_urls": [
+      "https://www.pagat.com/vying/brag.html"
+    ]
+  },
+  {
+    "slug": "brelan",
+    "title": "Le Brelan",
+    "current_names": [
+      "Berlan",
+      "Le Brelan"
+    ],
+    "add": [
+      "Brelan"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Three dealt cards, betting and a winning three of a kind describe historical Brelan. Bouillotte derives from it but has additional regulated betting and hand-ranking rules.",
+    "source_urls": [
+      "https://www.pagat.com/vying/bouillotte.html"
+    ]
+  },
+  {
+    "slug": "bridge",
+    "title": "Le Bridge",
+    "current_names": [
+      "Bridge-Contrat",
+      "Contract Bridge",
+      "Le Bridge"
+    ],
+    "add": [
+      "Bridge",
+      "Bridge de contrat"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Four-player partnerships, contract auction, declarer and dummy identify Contract Bridge. Rubber and Duplicate Bridge are formats of this game, not necessary aliases.",
+    "source_urls": [
+      "https://www.pagat.com/auctionwhist/bridge.html"
+    ]
+  },
+  {
+    "slug": "brusquembille",
+    "title": "La Brusquembille",
+    "current_names": [
+      "Bruxambille",
+      "La Brusquembille"
+    ],
+    "add": [
+      "Brusquembille"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The historical French ace-ten trick game is Brusquembille; Bruxambille is a documented-looking orthographic form. Similar predecessors such as Briscan should not be merged without stronger rule evidence.",
+    "source_urls": [
+      "https://fr.wikipedia.org/wiki/Brusquembille"
+    ]
+  },
+  {
+    "slug": "canasta-chinoise",
+    "title": "La Canasta Chinoise",
+    "current_names": [
+      "Canasta Chinoise",
+      "La Canasta Chinoise"
+    ],
+    "add": [
+      "Chinese Canasta"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The requirement for several canastas of specified kinds and a 15,000-point target makes this a distinct Canasta variant, not a duplicate of ordinary Canasta.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/canasta.html#variations"
+    ]
+  },
+  {
+    "slug": "canasta",
+    "title": "La Canasta",
+    "current_names": [
+      "Canasta",
+      "La Canasta"
+    ],
+    "add": [
+      "Classic Canasta"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two decks plus four jokers, same-rank melds, seven-card canastas and a 5,000-point target identify Classic Canasta.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/canasta.html"
+    ]
+  },
+  {
+    "slug": "carotte",
+    "title": "La Carotte",
+    "current_names": [
+      "La Carotte"
+    ],
+    "add": [
+      "Carotte"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The 28-card Quebec contract game with a four-card kitty and six-trick carotte contract did not safely match a documented international alias.",
+    "source_urls": []
+  },
+  {
+    "slug": "carte-la-plus-basse",
+    "title": "La Carte la Plus Basse",
+    "current_names": [
+      "La Carte la Plus Basse",
+      "Low Card"
+    ],
+    "add": [],
+    "remove": [
+      "Low Card"
+    ],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The rule that everyone plays their lowest card and the lowest wins is too generic to equate with the many unrelated games called Low Card. Retain only the attested French title.",
+    "source_urls": []
+  },
+  {
+    "slug": "carte-svp",
+    "title": "Carte, s'il vous plaît !",
+    "current_names": [
+      "Card Please",
+      "Carte",
+      "Carte, s'il vous plaît !",
+      "s'il vous plaît !"
+    ],
+    "add": [],
+    "remove": [
+      "Card Please",
+      "Carte",
+      "s'il vous plaît !"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The comma-separated title was malformed by the alias parser into Carte and s'il vous plaît !. Card Please is an unsupported literal translation, not a recognized English game name.",
+    "source_urls": []
+  },
+  {
+    "slug": "casino",
+    "title": "Le Cassino",
+    "current_names": [
+      "Casino",
+      "Cassino",
+      "Le Casino",
+      "Le Cassino",
+      "Le casino"
+    ],
+    "add": [],
+    "remove": [
+      "Le casino"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Matching and additive captures, builds, most cards/spades and Big/Little Casino identify Casino. Casino and Cassino are both established spellings; the lowercase duplicate adds no alias value.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/casino.html"
+    ]
+  },
+  {
+    "slug": "charlemagne",
+    "title": "Le Charlemagne",
+    "current_names": [
+      "Charlemagne",
+      "La Partie",
+      "Le Charlemagne"
+    ],
+    "add": [],
+    "remove": [
+      "La Partie"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Jokers, right/left bowers, kitty, trick bids, Mulot and Charlemagne contracts identify the eastern Canadian game. La Partie is generic and not corroborated by the established reference.",
+    "source_urls": [
+      "https://www.pagat.com/euchre/charlemagne.html"
+    ]
+  },
+  {
+    "slug": "chasse-a-las",
+    "title": "La Chasse à l'As",
+    "current_names": [
+      "Ace Chase",
+      "Acey-Deucey",
+      "Chasse à l'As",
+      "La Chasse a L’As",
+      "La Chasse à l'As"
+    ],
+    "add": [
+      "Chase the Ace",
+      "Cuckoo",
+      "Ranter Go Round",
+      "Screw Your Neighbor"
+    ],
+    "remove": [
+      "Ace Chase",
+      "Acey-Deucey"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "One card each, exchanging with the next player, king blocking exchanges and lowest card losing identify Cuckoo/Chase the Ace. Acey-Deucey is In Between, where a third card must fall between two cards. Pagat's Ace Chasing is also a different betting variant.",
+    "source_urls": [
+      "https://www.pagat.com/cuckoo/cuckoo.html",
+      "https://www.pagat.com/banking/in-between.html"
+    ]
+  },
+  {
+    "slug": "chasse-coeur",
+    "title": "Le Chasse-Cœur",
+    "current_names": [
+      "Black Lady",
+      "Hearts",
+      "Le Chasse Coeur",
+      "Le Chasse-Cœur"
+    ],
+    "add": [
+      "Chasse-Cœur",
+      "Dame de Pique",
+      "Rickety Kate"
+    ],
+    "remove": [],
+    "duplicate_of": "coeurs",
+    "confidence": "high",
+    "rationale": "Avoiding hearts and the queen of spades, passing three cards and shooting the moon are standard Hearts/Black Lady. coeurs contains the same rules; dame-de-pique is another duplicate variant.",
+    "source_urls": [
+      "https://www.pagat.com/reverse/hearts.html"
+    ]
+  },
+  {
+    "slug": "chat",
+    "title": "Le Chat",
+    "current_names": [
+      "Le Chat",
+      "Spite and Malice"
+    ],
+    "add": [],
+    "remove": [
+      "Spite and Malice"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This game uses a single dealt packet, a central card, opponents' discard piles and penalties called chats. Spite and Malice instead uses personal reserve piles and shared ascending foundations, so the mechanics are materially different.",
+    "source_urls": [
+      "https://www.pagat.com/patience/spitemal.html"
+    ]
+  },
+  {
+    "slug": "chateau-de-cartes",
+    "title": "Le Château de Cartes",
+    "current_names": [
+      "Card Castle",
+      "Le Château de Cartes"
+    ],
+    "add": [
+      "Château de Cartes"
+    ],
+    "remove": [
+      "Card Castle"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The physical dexterity game of adding cards on edge is clearly described, but Card Castle appears to be an unsupported literal translation rather than a recognized international title.",
+    "source_urls": []
+  },
+  {
+    "slug": "chien-rouge",
+    "title": "Le Chien Rouge",
+    "current_names": [
+      "Chien Rouge",
+      "Le Chien Rouge",
+      "Poule à la haute carte",
+      "Red Dog"
+    ],
+    "add": [
+      "High Card Pool"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Betting that a hand contains a higher card of the dealer's turned suit is the original Red Dog/High Card Pool, not modern casino In Between. This should be canonical over banque.",
+    "source_urls": [
+      "https://www.pagat.com/banking/reddog.html"
+    ]
+  },
+  {
+    "slug": "chkobba",
+    "title": "Chkobba",
+    "current_names": [
+      "Chkobba",
+      "Escoba",
+      "Scopa"
+    ],
+    "add": [
+      "Chkouba",
+      "Chkoba",
+      "Scopa tunisienne"
+    ],
+    "remove": [
+      "Escoba",
+      "Scopa"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The Tunisian 40-card game with compulsory matching/additive captures, chkobbas and its own scoring is Chkobba/Chkouba. Scopa is its Italian parent and Escoba captures to fifteen; they are related but mechanically distinct games.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/scopa.html#chkobba"
+    ]
+  },
+  {
+    "slug": "cinq-cents",
+    "title": "Cinq Cents",
+    "current_names": [
+      "500",
+      "Cinq Cents",
+      "Five Hundred",
+      "Le Cinq Cents"
+    ],
+    "add": [
+      "Cinq-Cents",
+      "Le 500"
+    ],
+    "remove": [],
+    "duplicate_of": "500",
+    "confidence": "high",
+    "rationale": "The joker, Euchre bowers, kitty, trick auction and 500-point target are the same game as 500. Different player counts and pack sizes are standard Five Hundred variants.",
+    "source_urls": [
+      "https://www.pagat.com/euchre/500.html"
+    ]
+  },
+  {
+    "slug": "cinq-rois",
+    "title": "Les Cinq Rois",
+    "current_names": [
+      "Cinq-Rois",
+      "Five Crowns",
+      "Les Cinq Rois"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Ordinary-card adaptation of the proprietary five-suit rummy game Five Crowns. No additional broadly recognized name was found.",
+    "source_urls": [
+      "https://www.playmonster.com/product/five-crowns/"
+    ]
+  },
+  {
+    "slug": "coeurs",
+    "title": "Les Cœurs",
+    "current_names": [
+      "Chasse-Cœur",
+      "Dame de Pique",
+      "Hearts",
+      "La Bête Noire",
+      "Les Coeurs",
+      "Les Cœurs"
+    ],
+    "add": [
+      "American Hearts",
+      "Black Lady",
+      "Black Lady Hearts",
+      "Discard Hearts",
+      "Rickety Kate"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 26-point rules use hearts plus Q♠ and passing, identifying the modern Black Lady form usually called Hearts rather than original Hearts without Q♠.",
+    "source_urls": [
+      "https://www.pagat.com/reverse/hearts.html",
+      "https://en.wikipedia.org/wiki/Black_Lady"
+    ]
+  },
+  {
+    "slug": "commerce",
+    "title": "Le Commerce",
+    "current_names": [
+      "Le Commerce"
+    ],
+    "add": [
+      "Commerce",
+      "Trade and Barter"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The rules combine a simple banking form with the historical trade-and-barter Commerce variant. Thirty-One and Stop the Bus are relatives, not exact aliases.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Commerce_(card_game)"
+    ]
+  },
+  {
+    "slug": "commere-accom modez-moi",
+    "title": "Commère, accommodez-moi",
+    "current_names": [
+      "Commère",
+      "Commère, accommodez-moi",
+      "accommodez-moi"
+    ],
+    "add": [],
+    "remove": [
+      "Commère",
+      "accommodez-moi"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The two removals are punctuation-split title fragments, not independently documented game names. No reliable international equivalent was established.",
+    "source_urls": []
+  },
+  {
+    "slug": "conference",
+    "title": "La Conférence",
+    "current_names": [
+      "La Conférence"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Distinct old French 36-card partnership game with consultation, no trump, compulsory heading, and a five-trick undertaking. No reliable alternative name was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "coucou",
+    "title": "Le Coucou",
+    "current_names": [
+      "Le Cocu",
+      "Le Coucou",
+      "Le Her",
+      "Le Malheureux",
+      "Le Pauvre Hère"
+    ],
+    "add": [
+      "Chase the Ace",
+      "Cuckoo",
+      "Ranter Go Round",
+      "Ranter-Go-Round",
+      "Screw Your Neighbor"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Mechanics match the one-card Cuckoo or Ranter-Go-Round family: exchange with a neighbor, a king blocks, and the lowest card loses a life.",
+    "source_urls": [
+      "https://www.pagat.com/cuckoo/cuckoo.html",
+      "https://en.wikipedia.org/wiki/Ranter-Go-Round"
+    ]
+  },
+  {
+    "slug": "couillon",
+    "title": "Le Couillon",
+    "current_names": [
+      "Le Couillon"
+    ],
+    "add": [
+      "Couillon",
+      "Kujong",
+      "Kwajongen",
+      "Troeven"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 24-card partnership rules and line-erasing score identify Belgian Couillon. Pagat documents the regional names Kwajongen, Kujong, and Troeven.",
+    "source_urls": [
+      "https://www.pagat.com/couillon/couillon.html"
+    ]
+  },
+  {
+    "slug": "crapette-tarot",
+    "title": "La Crapette Tarot",
+    "current_names": [
+      "Crapette Tarot",
+      "La Crapette Tarot"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A tarot-pack competitive patience adaptation. It is related to Crapette, but its one-pack split layout differs enough to remain separate.",
+    "source_urls": [
+      "https://www.pagat.com/patience/crapette.html"
+    ]
+  },
+  {
+    "slug": "crapette",
+    "title": "La Crapette",
+    "current_names": [
+      "Banque Russe",
+      "Crapette Russe",
+      "La",
+      "La Crapette",
+      "Russian Bank"
+    ],
+    "add": [
+      "Crapette",
+      "Crapô",
+      "Schikanös-Patience",
+      "Stop",
+      "Streitpatience",
+      "The Wrangle",
+      "Tonj",
+      "Touch",
+      "Tunj",
+      "Zank-Patience"
+    ],
+    "remove": [
+      "La"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Rules match Russian Bank or Crapette: separate decks, reserve, eight foundations, compulsory plays, and loading the opponent. La is a parser fragment.",
+    "source_urls": [
+      "https://www.pagat.com/patience/crapette.html",
+      "https://en.wikipedia.org/wiki/Russian_bank_(card_game)"
+    ]
+  },
+  {
+    "slug": "cribbage",
+    "title": "Le Cribbage",
+    "current_names": [
+      "Crib",
+      "Le Cribbage"
+    ],
+    "add": [
+      "Cribbage"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Standard six-card Cribbage to 121. Crib is already present, while the bare canonical form is missing.",
+    "source_urls": [
+      "https://www.pagat.com/adders/crib6.html",
+      "https://en.wikipedia.org/wiki/Cribbage"
+    ]
+  },
+  {
+    "slug": "dame-de-pique",
+    "title": "La Dame de Pique",
+    "current_names": [
+      "Black Lady",
+      "Chasse-Cœur",
+      "Hearts",
+      "La Bête Noire",
+      "La Dame de",
+      "La Dame de Pique"
+    ],
+    "add": [
+      "American Hearts",
+      "Black Lady Hearts",
+      "Discard Hearts",
+      "Rickety Kate"
+    ],
+    "remove": [
+      "La Dame de"
+    ],
+    "duplicate_of": "coeurs",
+    "confidence": "high",
+    "rationale": "The rules are effectively identical to coeurs: passing, each heart scores 1, Q♠ scores 13, and there is no trump. La Dame de is a parser fragment.",
+    "source_urls": [
+      "https://www.pagat.com/reverse/hearts.html",
+      "https://en.wikipedia.org/wiki/Black_Lady"
+    ]
+  },
+  {
+    "slug": "dominos",
+    "title": "Le Domino",
+    "current_names": [
+      "Le Domino",
+      "Les Dominos"
+    ],
+    "add": [
+      "Domino"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "French card Domino, where the first rank chosen becomes the starting rank for every suit. It is close to Sevens or Fan Tan but not necessarily identical.",
+    "source_urls": [
+      "https://www.pagat.com/layout/sevens.html"
+    ]
+  },
+  {
+    "slug": "double-solitaire",
+    "title": "Le Double Solitaire",
+    "current_names": [
+      "Le Double Solitaire"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The rules shuffle two decks together into eight rows of eight, unlike recognized competitive Double Solitaire, where each player has a separate Klondike layout. The title is not externally confirmed for these exact mechanics.",
+    "source_urls": [
+      "https://www.pagat.com/patience/double.html"
+    ]
+  },
+  {
+    "slug": "dourak",
+    "title": "Dourak",
+    "current_names": [
+      "Dourak",
+      "Durak",
+      "Le Fou",
+      "Дурак"
+    ],
+    "add": [
+      "Fool",
+      "Podkidnoy Durak",
+      "Russian War",
+      "Throw-in Durak"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Six-card Russian attack-and-defense shedding rules identify the common throw-in or Podkidnoy form of Durak.",
+    "source_urls": [
+      "https://www.pagat.com/beating/durak.html",
+      "https://en.wikipedia.org/wiki/Durak"
+    ]
+  },
+  {
+    "slug": "ecarte",
+    "title": "L'Écarté",
+    "current_names": [
+      "L'Écarté",
+      "L’Ecarte"
+    ],
+    "add": [
+      "Ecarte",
+      "Écarté"
+    ],
+    "remove": [
+      "L’Ecarte"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Standard two-player Écarté. The unaccented article form is malformed normalization; bare accented and conventional unaccented forms are preferable.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/%C3%89cart%C3%A9"
+    ]
+  },
+  {
+    "slug": "elimination",
+    "title": "L'Élimination",
+    "current_names": [
+      "High-Low",
+      "L'Élimination"
+    ],
+    "add": [],
+    "remove": [
+      "High-Low"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is a Québec betting game with five cards, rank-triggered discards, and high or low totals. Generic High-Low normally denotes other games and creates a false alias collision.",
+    "source_urls": []
+  },
+  {
+    "slug": "enfle",
+    "title": "L'Enflé",
+    "current_names": [
+      "L'Enflé",
+      "—"
+    ],
+    "add": [
+      "Enflé",
+      "Farbenjagd",
+      "Rolling Stone",
+      "Schweller"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "References recognize these names for Enflé. The stored draw-until-suit rule is a substantial local variant of the usual pick-up-the-trick rule. The dash is placeholder data.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Enfl%C3%A9"
+    ]
+  },
+  {
+    "slug": "euchre",
+    "title": "L'Euchre",
+    "current_names": [
+      "Euchre",
+      "L'Euchre"
+    ],
+    "add": [
+      "Eucre"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Standard Euchre-family rules with five tricks and bowers. Eucre is a documented historical spelling; Jucker is an ancestor rather than an alias.",
+    "source_urls": [
+      "https://www.pagat.com/euchre/euchre.html",
+      "https://en.wikipedia.org/wiki/Euchre"
+    ]
+  },
+  {
+    "slug": "extravagante-minoune",
+    "title": "L'Extravagante Minoune",
+    "current_names": [
+      "L'Extravagante Minoune"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Québec Minoune variant using two joker packs and a dummy third hand. No reliable independent alternative name was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "familles",
+    "title": "Les Familles",
+    "current_names": [
+      "Go Fish",
+      "Les Familles",
+      "Pêche"
+    ],
+    "add": [
+      "Authors",
+      "Quartett"
+    ],
+    "remove": [
+      "Go Fish",
+      "Pêche"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "All cards are dealt, players request a specific card, and there is no fishing stock. These mechanics are Authors, with Quartett as a regional equivalent, not standard Go Fish or Pêche.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html"
+    ]
+  },
+  {
+    "slug": "fan-tan",
+    "title": "Le Fan Tan",
+    "current_names": [
+      "Domino",
+      "Fan Tan",
+      "Le Fan Tan",
+      "Parlement",
+      "Sept"
+    ],
+    "add": [
+      "Card Dominoes",
+      "Fan-Tan",
+      "Sevens"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Exact Sevens or Fan Tan layout beginning with sevens and building each suit both ways. This is not the unrelated Chinese casino game also called Fan-Tan.",
+    "source_urls": [
+      "https://www.pagat.com/layout/sevens.html"
+    ]
+  },
+  {
+    "slug": "ferme",
+    "title": "La Ferme",
+    "current_names": [
+      "Aucun",
+      "La Ferme"
+    ],
+    "add": [],
+    "remove": [
+      "Aucun"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "A distinct French banking game targeting exactly 16. Aucun records the absence of an alias and is malformed data, not a name.",
+    "source_urls": []
+  },
+  {
+    "slug": "flip",
+    "title": "Le Flip",
+    "current_names": [
+      "Crapette Rapide",
+      "Lapsit",
+      "Le Flip",
+      "Speed"
+    ],
+    "add": [
+      "Flip",
+      "Vitesse"
+    ],
+    "remove": [
+      "Lapsit"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The simultaneous play onto two central piles matches Speed more closely than Spit. Lapsit could not be verified as a recognized name.",
+    "source_urls": [
+      "https://www.pagat.com/patience/spit.html"
+    ]
+  },
+  {
+    "slug": "florentin",
+    "title": "Le Florentin",
+    "current_names": [
+      "Le Florentin",
+      "—"
+    ],
+    "add": [],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Distinct banking game in which bettors back the appearance of the banker's starting rank. The dash is placeholder data, not an alias.",
+    "source_urls": []
+  },
+  {
+    "slug": "floune",
+    "title": "La Floune",
+    "current_names": [
+      "La Floune"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Québec combination game using two wild jokers. No reliable independently documented alternative name was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "football-americain",
+    "title": "Le Football Américain",
+    "current_names": [
+      "Le Football Américain"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Local two-player card simulation of American football. No established equivalent with matching mechanics was identified.",
+    "source_urls": []
+  },
+  {
+    "slug": "fouine",
+    "title": "La Fouine",
+    "current_names": [
+      "Klaberjass",
+      "Klabrias",
+      "La Fouine"
+    ],
+    "add": [],
+    "remove": [
+      "Klaberjass",
+      "Klabrias"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The stored four-player partnership and scoring rules do not match two-player Klaberjass or Kalabriasz. Those aliases belong to the separate kalabriasz entry.",
+    "source_urls": [
+      "https://www.pagat.com/jass/bela.html"
+    ]
+  },
+  {
+    "slug": "frappe-le-valet",
+    "title": "Frappe le Valet",
+    "current_names": [
+      "Frappe le Valet",
+      "Slapjack"
+    ],
+    "add": [
+      "Slap Jack"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Exact Slapjack mechanics: cards are exposed in turn and the first player to slap a jack wins the pile.",
+    "source_urls": [
+      "https://www.pagat.com/war/slapjack.html",
+      "https://en.wikipedia.org/wiki/Slapjack"
+    ]
+  },
+  {
+    "slug": "gin-rami",
+    "title": "Le Gin-Rami",
+    "current_names": [
+      "Gin",
+      "Gin Rami",
+      "Gin Rummy",
+      "Le Gin-Rami"
+    ],
+    "add": [
+      "Gin-Rami"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Standard Gin Rummy with sets, runs, knocking, gin, deadwood, and undercut scoring.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ginrummy.html"
+    ]
+  },
+  {
+    "slug": "golf",
+    "title": "Golf",
+    "current_names": [
+      "Golf",
+      "Le Golf"
+    ],
+    "add": [
+      "Four-Card Golf",
+      "Polish Poker"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The four face-down cards arranged as a square identify Four-Card Golf, also widely called Polish Poker.",
+    "source_urls": [
+      "https://www.pagat.com/draw/golf.html"
+    ]
+  },
+  {
+    "slug": "hoc",
+    "title": "Le Hoc",
+    "current_names": [
+      "Le Hoc"
+    ],
+    "add": [
+      "Hoc",
+      "Hoc Mazarin"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The combination phase followed by ascending sequences and payments for special cards identifies Hoc Mazarin.",
+    "source_urls": [
+      "https://www.pagat.com/stops/hoc.html",
+      "https://en.wikipedia.org/wiki/Hoc_(card_game)"
+    ]
+  },
+  {
+    "slug": "imperiale",
+    "title": "L'Impériale",
+    "current_names": [
+      "L'Impériale",
+      "L’Imperiale"
+    ],
+    "add": [
+      "Impériale"
+    ],
+    "remove": [
+      "L’Imperiale"
+    ],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The unaccented smart-apostrophe form is malformed normalization. The stored long and abbreviated rules contradict each other, so no mechanical synonym is proposed.",
+    "source_urls": []
+  },
+  {
+    "slug": "in-between",
+    "title": "Le In-Between",
+    "current_names": [
+      "Acey-Deucey",
+      "Between the Sheets",
+      "In-Between",
+      "Le In-Between"
+    ],
+    "add": [
+      "Red Dog",
+      "Yablon"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Players bet that a third card will rank between two initial cards, the standard In-Between or Acey-Deucey banking game.",
+    "source_urls": [
+      "https://www.pagat.com/banking/in-between.html"
+    ]
+  },
+  {
+    "slug": "jeu-de-loo",
+    "title": "Le Jeu de Loo",
+    "current_names": [
+      "Jeu de Loo",
+      "Lanterloo",
+      "Le Jeu de Loo",
+      "Loo"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Standard Loo or Lanterloo structure: players must win a trick or pay into the pool.",
+    "source_urls": [
+      "https://www.pagat.com/rams/loo.html"
+    ]
+  },
+  {
+    "slug": "jeu-de-valets",
+    "title": "Le Jeu des Valets",
+    "current_names": [
+      "Le Jeu des Valets",
+      "Polignac"
+    ],
+    "add": [
+      "Jeu des Valets"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The no-trump avoidance game centered on the jack of spades is Polignac. Other jack-avoidance names often denote variants with different penalties.",
+    "source_urls": [
+      "https://www.pagat.com/reverse/knaves.html",
+      "https://en.wikipedia.org/wiki/Polignac_(card_game)"
+    ]
+  },
+  {
+    "slug": "jeu-du-roi",
+    "title": "Le Jeu du Roi",
+    "current_names": [
+      "Le Jeu du Roi",
+      "The King"
+    ],
+    "add": [
+      "King"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The ten-contract compendium with six negative and four positive deals matches King. Barbu, Kierki, Rıfkı, and Trex are related compendia rather than exact aliases.",
+    "source_urls": [
+      "https://www.pagat.com/compendium/king.html"
+    ]
+  },
+  {
+    "slug": "kalabriasz",
+    "title": "Le Kalabriasz",
+    "current_names": [
+      "Clabber",
+      "Clob",
+      "Clobber",
+      "Clubby",
+      "Kalabrias",
+      "Kalabriasz",
+      "Klab",
+      "Klaberjass",
+      "Klob",
+      "Le Kalabriasz"
+    ],
+    "add": [
+      "Bela",
+      "Clobyosh",
+      "Clubiasch",
+      "Klabberjass",
+      "Klaberyass"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 32-card game with J-9 trump hierarchy, melds, bidding, and a 500-point target is the Klaberjass or Kalabriasz family. The additions are documented regional spellings.",
+    "source_urls": [
+      "https://www.pagat.com/jass/bela.html",
+      "https://en.wikipedia.org/wiki/Klaberjass"
+    ]
+  },
+  {
+    "slug": "kilo-de-plomb",
+    "title": "Le Kilo de Plomb",
+    "current_names": [
+      "Kilo de Plomb",
+      "Le Kilo de Plomb"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Local five-player penalty game involving tricks, a stock, and recorded kilos. No reliable published equivalent was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "kilo",
+    "title": "Le Kilo",
+    "current_names": [
+      "Le Kilo",
+      "de merde"
+    ],
+    "add": [
+      "Kilo",
+      "Kilo de merde",
+      "Le Kilo de merde"
+    ],
+    "remove": [
+      "de merde"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A local four-of-a-kind signaling game in the Pig or Spoons family, but those games are not exact aliases. The existing phrase is a parser fragment of the full local name.",
+    "source_urls": [
+      "https://www.pagat.com/passing/pig.html"
+    ]
+  },
+  {
+    "slug": "knock-rummy",
+    "title": "Le Knock-Rummy",
+    "current_names": [
+      "Knock Rummy",
+      "Le Knock Rummy",
+      "Le Knock-Rummy"
+    ],
+    "add": [
+      "Poker Rum"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Basic Knock Rummy permits ending by knocking with sufficiently low unmatched cards. Poker Rum is a documented alternative name.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/knock.html"
+    ]
+  },
+  {
+    "slug": "la-compliquee",
+    "title": "La Compliquée",
+    "current_names": [
+      "La Compliquée"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A 104-card matching-memory variant requiring identical duplicate cards. Generic Memory, Concentration, and Pelmanism describe the parent game but are not exact aliases.",
+    "source_urls": []
+  },
+  {
+    "slug": "la-pomme",
+    "title": "La Pomme",
+    "current_names": [
+      "La Pomme"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Unusual two-player trick game targeting 21 points within each trick. No established game with sufficiently matching mechanics was identified.",
+    "source_urls": []
+  },
+  {
+    "slug": "la-selective",
+    "title": "La Sélective",
+    "current_names": [
+      "La Sélective"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Local memory-game variant in which players complete five pairs from hidden cards. No independently documented exact synonym was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "lansquenet",
+    "title": "Le Lansquenet",
+    "current_names": [
+      "Le Lansquenet"
+    ],
+    "add": [
+      "Lansquenet",
+      "Skin"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Historical banking game in which the banker's and players' ranks compete as cards are exposed. Skin is its documented English form.",
+    "source_urls": [
+      "https://www.pagat.com/banking/lansquenet.html",
+      "https://en.wikipedia.org/wiki/Lansquenet"
+    ]
+  },
+  {
+    "slug": "le-front",
+    "title": "Le Front",
+    "current_names": [
+      "Le Front"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Local bundle-capturing game where incomplete rank piles may be stolen. It resembles Stealing Bundles and Casita Robada but differs enough that neither is a safe exact alias.",
+    "source_urls": []
+  },
+  {
+    "slug": "le-vicaire",
+    "title": "Le Vicaire",
+    "current_names": [
+      "Le Vicaire"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The three-player, hearts-trump game does not match a recognized Vicar/Vicaire entry in major indexes. Retain only the documented local French name.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/le-vicaire.html",
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "lechange",
+    "title": "L'Échange",
+    "current_names": [
+      "L'Échange"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The two-player exchange-and-meld rules appear to be a local Quebec game related to La Minoune, not a recognized international game with a stable alternative name.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "loterie",
+    "title": "La Loterie",
+    "current_names": [
+      "La Loterie"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The two-deck lots-and-tickets mechanism is specific enough that the generic English translation Lottery should not be added without an established rules reference.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "macao",
+    "title": "Le Macao",
+    "current_names": [
+      "Le Macao",
+      "Macao"
+    ],
+    "add": [
+      "Macco"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules are the historical banking game Macao: banker versus punters, objective nine, and immediate loss above nine. It is related to but mechanically distinct from Baccarat.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Macao_(card_game)"
+    ]
+  },
+  {
+    "slug": "mafia",
+    "title": "Mafia",
+    "current_names": [
+      "Loup-Garou",
+      "Mafia",
+      "Werewolf"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Mafia and Werewolf/Loup-Garou are recognized themes of the same day/night social-deduction system. The database type Jeu de plis is incorrect but outside this name audit.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mafia_(party_game)",
+      "https://fr.wikipedia.org/wiki/Mafia_(jeu)"
+    ]
+  },
+  {
+    "slug": "manille",
+    "title": "La Manille",
+    "current_names": [
+      "La Manille"
+    ],
+    "add": [
+      "Manille"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 32-card partnership rules and 10-A-K-Q-J ranking identify French Manille. Manilla/Malilla are related regional games rather than safe exact aliases.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Manille",
+      "https://www.pagat.com/manille/"
+    ]
+  },
+  {
+    "slug": "mariage-chinois",
+    "title": "Le Mariage Chinois",
+    "current_names": [
+      "Concentration",
+      "Le Mariage Chinois",
+      "Mariage Chinois",
+      "Memory"
+    ],
+    "add": [
+      "Jeu de paires",
+      "Pelmanism",
+      "Shinkei-suijaku"
+    ],
+    "remove": [],
+    "duplicate_of": "le-memory",
+    "confidence": "high",
+    "rationale": "Turning two cards, retaining a rank match, replaying after success, and replacing failures is standard Concentration/Memory. The mechanics duplicate le-memory, not merely its aliases.",
+    "source_urls": [
+      "https://www.pagat.com/misc/pelmanism.html",
+      "https://en.wikipedia.org/wiki/Concentration_(game)"
+    ]
+  },
+  {
+    "slug": "mariage",
+    "title": "Le Mariage",
+    "current_names": [
+      "Briscan",
+      "Brisque",
+      "Le Mariage"
+    ],
+    "add": [
+      "Mariage"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The trick-and-draw game scores marriages and Ace-Ten counters and is historically within the Mariage/Brisque/Briscan family. These names are close historical forms, so no duplicate is asserted.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mariage_(card_game)",
+      "https://en.wikipedia.org/wiki/Briscan",
+      "https://en.wikipedia.org/wiki/Brisque"
+    ]
+  },
+  {
+    "slug": "marjolet",
+    "title": "Le Marjolet",
+    "current_names": [
+      "Le Marjolet"
+    ],
+    "add": [
+      "Marjolet"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 32-card trick-and-meld rules, marjolet trump jack, marriages, and brisques identify the recognized French game Marjolet.",
+    "source_urls": [
+      "https://www.pagat.com/marriage/marjolet.html"
+    ]
+  },
+  {
+    "slug": "may-i",
+    "title": "Le « May I? »",
+    "current_names": [
+      "Le « May I? »",
+      "May I?",
+      "Puis-je ?"
+    ],
+    "add": [
+      "May-I?"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The compulsory progressive melds and out-of-turn purchase of a discard identify May I?, a Contract Rummy variant. Contract Rummy is a family name, not an exact alias for this five-round ruleset.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ctrummy.html#mayi"
+    ]
+  },
+  {
+    "slug": "memoire-a-lepreuve",
+    "title": "La Mémoire à l'Épreuve",
+    "current_names": [
+      "La Mémoire à l'Épreuve"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is a scored Concentration derivative using exact duplicate cards and a separate point-card deck. The scoring apparatus is substantial enough to retain it as a named variant rather than mark an exact duplicate.",
+    "source_urls": [
+      "https://www.pagat.com/misc/pelmanism.html"
+    ]
+  },
+  {
+    "slug": "memoire-collective",
+    "title": "La Mémoire Collective",
+    "current_names": [
+      "La Mémoire Collective"
+    ],
+    "add": [
+      "Concentration",
+      "Jeu de paires",
+      "Memory",
+      "Pelmanism"
+    ],
+    "remove": [],
+    "duplicate_of": "le-memory",
+    "confidence": "high",
+    "rationale": "Its base play is standard Concentration: turn two, keep a match, otherwise replace them, with most pairs winning. Optional wild-card scoring does not distinguish the core record.",
+    "source_urls": [
+      "https://www.pagat.com/misc/pelmanism.html"
+    ]
+  },
+  {
+    "slug": "menteur",
+    "title": "Le Menteur",
+    "current_names": [
+      "I Doubt It",
+      "J'en doute",
+      "Le Menteur"
+    ],
+    "add": [
+      "Bullshit",
+      "Cheat"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Face-down rank claims, challenges, and taking the pile identify Cheat/Bullshit/I Doubt It. Pagat distinguishes this sequential-rank game from another same-rank game also called I Doubt It.",
+    "source_urls": [
+      "https://www.pagat.com/beating/cheat.html"
+    ]
+  },
+  {
+    "slug": "michigan",
+    "title": "Le Michigan",
+    "current_names": [
+      "Boodle",
+      "Chicago",
+      "Le Michigan",
+      "Michigan",
+      "Newmarket",
+      "Saratoga",
+      "Stops"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The spare hand, ascending suit sequences, stop cards, pay cards, and first player out identify Michigan/Newmarket/Boodle. Chicago and Saratoga denote documented regional forms of the same Stops family.",
+    "source_urls": [
+      "https://www.pagat.com/stops/michigan.html"
+    ]
+  },
+  {
+    "slug": "mille",
+    "title": "Le Mille",
+    "current_names": [
+      "Canasta",
+      "Le Mille"
+    ],
+    "add": [],
+    "remove": [
+      "Canasta"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules use ordinary three-of-a-kind melds, 2s as wild cards, a 1,000-point target, and no seven-card canastas or 5,000-point target. It is Canasta-related but not Canasta.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/canasta.html"
+    ]
+  },
+  {
+    "slug": "minoune",
+    "title": "La Minoune",
+    "current_names": [
+      "La Minoune"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The same-rank melds, special queen-of-spades score, and Quebec terminology appear local. No reliable source established a broader alternative name.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "mitaine",
+    "title": "La Mitaine",
+    "current_names": [
+      "La Mitaine"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The bidding/capture game using mitaine, gant, and chausson combinations appears Quebec-specific. No reliable international synonym was found.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "motz",
+    "title": "Le Motz",
+    "current_names": [
+      "Le Motz"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The unusual two-bower ranking and three-card optional-play mechanism resemble historical Rams-family games, but not closely enough to assign Mouche, Loo, or Rams as an alias.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "mouche",
+    "title": "La Mouche",
+    "current_names": [
+      "La Mouche"
+    ],
+    "add": [
+      "Bête",
+      "Lanturlu",
+      "Mistigri",
+      "Pamphile"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The five-card draw/exchange trick game with a pool and penalty for taking no trick is historical Mouche. Bête, Mistigri, Pamphile, and Lanturlu are documented regional names/forms, though conventions vary.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Mouche_(card_game)",
+      "https://www.pagat.com/rams/"
+    ]
+  },
+  {
+    "slug": "nain-jaune",
+    "title": "Le Nain Jaune",
+    "current_names": [
+      "Le Nain Jaune"
+    ],
+    "add": [
+      "Lindor",
+      "Nain Jaune",
+      "Yellow Dwarf"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 7♦ pay compartment and ascending Stops play identify Nain Jaune/Yellow Dwarf. It is related to Michigan and Pope Joan but has a distinct board and pay-card structure.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Nain_Jaune",
+      "https://en.wikipedia.org/wiki/Pope_Joan_(card_game)"
+    ]
+  },
+  {
+    "slug": "nap",
+    "title": "Le Nap",
+    "current_names": [
+      "Le Nap",
+      "Nap",
+      "Napoléon"
+    ],
+    "add": [
+      "Napoleon"
+    ],
+    "remove": [],
+    "duplicate_of": "napoleon",
+    "confidence": "high",
+    "rationale": "Both records deal five cards, auction tricks through Nap/Wellington/Blücher, make the first lead trump, and settle by the contract. This is a mechanical duplicate of napoleon.",
+    "source_urls": [
+      "https://www.pagat.com/trumps/nap.html",
+      "https://en.wikipedia.org/wiki/Napoleon_(card_game)"
+    ]
+  },
+  {
+    "slug": "neuf-a-deux",
+    "title": "Le Neuf à Deux",
+    "current_names": [
+      "Le Neuf à Deux",
+      "Neuf à Deux",
+      "Nine to Zero"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The alternating keep/discard draft and fixed six-trick benchmark distinguish this Quebec game from standard exact-bid games. No additional established name was verified.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "neuf-a-quatre",
+    "title": "Le Neuf à Quatre",
+    "current_names": [
+      "Le Neuf à Quatre",
+      "Neuf à Quatre",
+      "Oh Hell"
+    ],
+    "add": [],
+    "remove": [
+      "Oh Hell"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "There is no bidding in these rules: both teams are measured against a fixed six-trick baseline. Oh Hell requires each player to bid an exact number of tricks, so it is not an alias.",
+    "source_urls": [
+      "https://www.pagat.com/exact/ohhell.html"
+    ]
+  },
+  {
+    "slug": "neuf-a-trois",
+    "title": "Le Neuf à Trois",
+    "current_names": [
+      "Le Neuf à Trois",
+      "Neuf à Trois"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The fourth undealt/exchangeable hand and fixed four-trick benchmark are specific local mechanics. It should not be conflated with Oh Hell or 3-5-8.",
+    "source_urls": [
+      "https://www.pagat.com/exact/ohhell.html",
+      "https://en.wikipedia.org/wiki/3-5-8"
+    ]
+  },
+  {
+    "slug": "nigaud",
+    "title": "Le Nigaud",
+    "current_names": [
+      "La Longue Patience",
+      "Le Nigaud"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The exposed personal piles and ascending placement onto another player's pile do not match a major indexed patience or shedding game closely enough for another alias.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "papesse-jeanne",
+    "title": "La Papesse Jeanne",
+    "current_names": [
+      "Jeu de la Papesses",
+      "La Papesse Jeanne",
+      "La Papesses"
+    ],
+    "add": [
+      "Jeu de la Papesse",
+      "Pope",
+      "Pope Joan"
+    ],
+    "remove": [
+      "Jeu de la Papesses",
+      "La Papesses"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Removing 8♦, using 9♦ as Pope, eight staking compartments, a dead hand, and Stops play exactly identify Pope Joan. The two current plural Papesses forms are parser/spelling errors.",
+    "source_urls": [
+      "https://www.pagat.com/stops/pope_joan.html",
+      "https://en.wikipedia.org/wiki/Pope_Joan_(card_game)"
+    ]
+  },
+  {
+    "slug": "papillon",
+    "title": "Le Papillon",
+    "current_names": [
+      "Le Papillon",
+      "—"
+    ],
+    "add": [
+      "Papillon"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The dash is a malformed placeholder alias. The fishing-by-equal-value-or-sum rules identify historical Papillon, but related games such as Cassino are not exact aliases.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Papillon_(card_game)"
+    ]
+  },
+  {
+    "slug": "paquet-voleur",
+    "title": "Le Paquet Voleur",
+    "current_names": [
+      "Le Paquet Voleur"
+    ],
+    "add": [
+      "Casita Robada",
+      "Rubamazzo",
+      "Steal Pile",
+      "Steal the Old Man's Bundle",
+      "Steal the Old Man's Pack",
+      "Stealing Bundles"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Four-card deals, rank matching, visible bundle tops, and stealing an opponent's whole bundle identify Stealing Bundles and its Argentine and Italian forms.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/bundle.html"
+    ]
+  },
+  {
+    "slug": "petite-ecole",
+    "title": "La Petite École",
+    "current_names": [
+      "La Petite École"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is a ten-contract progressive rummy with local school/class terminology. It belongs to the Contract Rummy family, but its contract schedule is not identical to the existing generic or Frustration Rummy records.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ctrummy.html"
+    ]
+  },
+  {
+    "slug": "petite-memoire",
+    "title": "La Petite Mémoire",
+    "current_names": [
+      "Golf",
+      "La Petite Mémoire"
+    ],
+    "add": [
+      "Four-Card Golf",
+      "Golf à quatre cartes"
+    ],
+    "remove": [],
+    "duplicate_of": "golf",
+    "confidence": "high",
+    "rationale": "Four face-down cards, initial inspection, draw-and-replace play, knocking, and lowest score are exactly Four-Card Golf. Different card values are ordinary Golf variations.",
+    "source_urls": [
+      "https://www.pagat.com/draw/golf.html#four"
+    ]
+  },
+  {
+    "slug": "petits-paquets",
+    "title": "Les Petits Paquets",
+    "current_names": [
+      "Les Petits",
+      "Les Petits Paquets",
+      "—"
+    ],
+    "add": [],
+    "remove": [
+      "Les Petits",
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The dash is a placeholder and Les Petits is a malformed truncated alias. No reliable established alternative name was found for this banker-versus-packets game.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "pharaon",
+    "title": "Le Pharaon",
+    "current_names": [
+      "Faro",
+      "Le Pharaon"
+    ],
+    "add": [
+      "Faro Bank",
+      "Pharaoh",
+      "Pharaon",
+      "Pharo"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The banking layout and wagers on card outcomes identify the historical Pharaon/Faro family. Faro is not a duplicate of Macao: Faro wagers on ranks exposed in paired draws.",
+    "source_urls": [
+      "https://www.pagat.com/banking/faro.html"
+    ]
+  },
+  {
+    "slug": "pige-dans-le-lac",
+    "title": "Pige dans le lac",
+    "current_names": [
+      "Fish",
+      "Go Fish",
+      "Pige dans le lac"
+    ],
+    "add": [
+      "Pêche"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Requesting ranks and drawing from the lake to complete books of four is Go Fish. It is not automatically a duplicate of familles, whose stored rules deal all cards and more closely resemble Authors.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html"
+    ]
+  },
+  {
+    "slug": "ping-pong",
+    "title": "Le Ping-Pong",
+    "current_names": [
+      "Le Ping-Pong"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The two-player comparison of pairs/triples with reusable captured cards appears to be a local named Battle derivative. No established international synonym was found.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "pinochle",
+    "title": "Le Pinochle",
+    "current_names": [
+      "Le Pinochle",
+      "Pinochle à l'américaine",
+      "Pinocle"
+    ],
+    "add": [
+      "Penuchle",
+      "Pinochle"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The doubled 48-card deck, A-10-K-Q-J-9 order, marriages, arounds, Q♠-J♦ meld, and trick points identify Pinochle. Pinocle and Penuchle are documented spellings.",
+    "source_urls": [
+      "https://www.pagat.com/marriage/pin2hand.html",
+      "https://en.wikipedia.org/wiki/Pinochle"
+    ]
+  },
+  {
+    "slug": "pique",
+    "title": "Le Pique",
+    "current_names": [
+      "Atout Pique",
+      "Le Pique",
+      "Pique",
+      "Spades"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Four players in partnerships, bids for tricks, and spades permanently trump identify Spades. The French names are transparent established renderings of that game.",
+    "source_urls": [
+      "https://www.pagat.com/auctionwhist/spades.html"
+    ]
+  },
+  {
+    "slug": "piquet",
+    "title": "Le Piquet",
+    "current_names": [
+      "Le Piquet"
+    ],
+    "add": [
+      "Piquet",
+      "Rubicon Piquet"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two players, 32 cards, exchange from an eight-card talon, declarations, and tricks identify classic Piquet; the prevalent six-deal form is Rubicon Piquet.",
+    "source_urls": [
+      "https://www.pagat.com/notrump/piquet.html"
+    ]
+  },
+  {
+    "slug": "plus-d-atouts",
+    "title": "Le Plus-d'Atouts",
+    "current_names": [
+      "Le Plus-d'Atouts"
+    ],
+    "add": [
+      "Plus-d'Atouts"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The game is a simple historical comparison of the number of trumps held after a partial deal. No reliable English or international alternative name was established.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "poker-menteur",
+    "title": "Le Poker Menteur",
+    "current_names": [
+      "Le Poker Menteur",
+      "Liar's Poker",
+      "Poker Menteur"
+    ],
+    "add": [],
+    "remove": [
+      "Liar's Poker"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The stored game passes one five-card hand while announcing successively stronger poker combinations. The recognized English game Liar's Poker instead bids on digits in banknote serial numbers, so that alias is misleading.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Liar%27s_poker"
+    ]
+  },
+  {
+    "slug": "poker",
+    "title": "Le Poker",
+    "current_names": [
+      "Draw Poker",
+      "Le Poker",
+      "Poker",
+      "Poker fermé",
+      "Texas Hold'em"
+    ],
+    "add": [
+      "Five-Card Draw",
+      "Five Card Draw",
+      "Poker à cinq cartes"
+    ],
+    "remove": [
+      "Texas Hold'em"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The primary stored rules deal five private cards, allow an exchange, and have betting before and after it: Five-Card Draw. Texas Hold'em uses community cards and is a variant, not an alternative name.",
+    "source_urls": [
+      "https://www.pagat.com/poker/variants/5draw.html",
+      "https://en.wikipedia.org/wiki/Five-card_draw",
+      "https://en.wikipedia.org/wiki/Texas_hold_%27em"
+    ]
+  },
+  {
+    "slug": "polignac",
+    "title": "Le Polignac",
+    "current_names": [
+      "Jeu des Valets",
+      "Le Polignac"
+    ],
+    "add": [
+      "Knaves",
+      "Polignac"
+    ],
+    "remove": [],
+    "duplicate_of": "jeu-de-valets",
+    "confidence": "high",
+    "rationale": "Both database records use the same 28–32-card reverse trick game, penalize captured jacks with J♠ worth two, and share the names Polignac/Jeu des Valets.",
+    "source_urls": [
+      "https://www.pagat.com/reverse/knaves.html"
+    ]
+  },
+  {
+    "slug": "politaine",
+    "title": "La Politaine",
+    "current_names": [
+      "La Politaine"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Its 10-9-A ranking, eleven-point deal, steck, signalling conventions, and 10-9-A combination distinguish it from Manille despite superficial similarities. No reliable alternative name was found.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/",
+      "https://en.wikipedia.org/wiki/Manille"
+    ]
+  },
+  {
+    "slug": "poque",
+    "title": "Le Poque",
+    "current_names": [
+      "Aucun",
+      "Le Poque"
+    ],
+    "add": [
+      "Bock",
+      "Bog",
+      "Poch",
+      "Pochen",
+      "Pochspiel",
+      "Poque"
+    ],
+    "remove": [
+      "Aucun"
+    ],
+    "duplicate_of": "bog",
+    "confidence": "high",
+    "rationale": "Aucun is a malformed no-alias placeholder. The pay compartments, vying on pairs/triples/quartets, and final Stops phase identify Poch/Poque/Bog; the stored bog record has the same three-phase structure.",
+    "source_urls": [
+      "https://www.pagat.com/stops/poch.html"
+    ]
+  },
+  {
+    "slug": "pot",
+    "title": "Le Pot",
+    "current_names": [
+      "Le Pot"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The three-card hand, six-card exchange pot, three exchange rounds, and requirement for a set or sequence did not match a reliably documented game closely enough for another name.",
+    "source_urls": [
+      "https://www.pagat.com/alpha/"
+    ]
+  },
+  {
+    "slug": "pouilleux",
+    "title": "Le Pouilleux",
+    "current_names": [
+      "La Sorcière",
+      "La Vieille",
+      "La Vieille Fille",
+      "Le Pouilleux",
+      "Old Maid"
+    ],
+    "add": [
+      "Black Peter",
+      "Papaz Kaçtı",
+      "Schwarzer Peter",
+      "Vieux Garçon"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Discarding rank pairs and losing by retaining the unmatched jack is the French male-card form of Old Maid. Vieux Garçon, Black Peter/Schwarzer Peter, and Papaz Kaçtı are recognized national forms with the same mechanism.",
+    "source_urls": [
+      "https://www.pagat.com/passing/oldmaid.html"
+    ]
+  },
+  {
+    "slug": "poule-3-cartes",
+    "title": "La Poule à 3 Cartes",
+    "current_names": [
+      "La Poule à 3 Cartes",
+      "Poule à 3 Cartes",
+      "Three Card Brag"
+    ],
+    "add": [],
+    "remove": [
+      "Three Card Brag"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The stored rules are a three-trick trump game with exchanges and compulsory overtake/cut. Three Card Brag is a vying game based on poker combinations, not this game.",
+    "source_urls": [
+      "https://www.pagat.com/vying/brag.html"
+    ]
+  },
+  {
+    "slug": "poule-5-cartes",
+    "title": "La Poule à 5 Cartes",
+    "current_names": [
+      "Five Card Brag",
+      "La Poule à 5 Cartes",
+      "Poule à 5 Cartes"
+    ],
+    "add": [],
+    "remove": [
+      "Five Card Brag"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The stored rules use five trump tricks and award the pot by tricks won. Five Card Brag is a poker-like vying game, so the shared card count does not establish identity.",
+    "source_urls": [
+      "https://www.pagat.com/vying/brag.html#five"
+    ]
+  },
+  {
+    "slug": "preference",
+    "title": "La Préférence",
+    "current_names": [
+      "La Préférence",
+      "Le Préférence",
+      "Preferans"
+    ],
+    "add": [
+      "Préférence",
+      "Preference",
+      "Austrian Preference"
+    ],
+    "remove": [
+      "Le Préférence",
+      "Preferans"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The fixed suit hierarchy and six-trick contract identify Central European/Austrian Preference. Russian Preferans is a later game with contracts from six through ten tricks. 'Le Préférence' has the wrong French article.",
+    "source_urls": [
+      "https://www.pagat.com/preference/",
+      "https://en.wikipedia.org/wiki/Preferans"
+    ]
+  },
+  {
+    "slug": "president",
+    "title": "Le Président",
+    "current_names": [
+      "Asshole",
+      "Le Pallmall",
+      "Le Pouilleux",
+      "Le Président",
+      "Scum",
+      "Trou du Cul"
+    ],
+    "add": [
+      "President",
+      "Trouduc",
+      "Arsehole",
+      "Rich Man Poor Man",
+      "Bum",
+      "Capitalism"
+    ],
+    "remove": [
+      "Le Pouilleux",
+      "Le Pallmall"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules are the climbing game President. Pouilleux is an Old Maid-type pairing game with an unmatched card; Pallmall is not corroborated as a recognized President name.",
+    "source_urls": [
+      "https://www.pagat.com/climbing/president.html",
+      "https://www.pagat.com/passing/oldmaid.html"
+    ]
+  },
+  {
+    "slug": "puits",
+    "title": "Le Puits",
+    "current_names": [
+      "Le Puits",
+      "The Well"
+    ],
+    "add": [],
+    "remove": [
+      "The Well"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The English name appears to be an unsupported literal translation rather than a documented international alias. No reliable reference was located for this exact seven-card shedding rule.",
+    "source_urls": []
+  },
+  {
+    "slug": "quarante-cinq",
+    "title": "Le Quarante-Cinq",
+    "current_names": [
+      "45",
+      "Forty-Five",
+      "Le Quarante-Cinq",
+      "Spoil Five"
+    ],
+    "add": [
+      "Forty-Fives",
+      "45s"
+    ],
+    "remove": [
+      "Spoil Five"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Forty-Fives/45s is descended from Spoil Five but is separately named and scored to 45. Spoil Five is the ancestor, not a strict alias.",
+    "source_urls": [
+      "https://www.pagat.com/spoil5/45.html",
+      "https://en.wikipedia.org/wiki/Forty-fives"
+    ]
+  },
+  {
+    "slug": "quatre-quatorze",
+    "title": "Le Quatre-Quatorze",
+    "current_names": [
+      "4-14",
+      "Le Quatre-Quatorze",
+      "Quatre-Quatorze"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The Quebec numeric form 4-14 is internally consistent with the dual-target rules. No established English or international name was reliably corroborated.",
+    "source_urls": []
+  },
+  {
+    "slug": "quatre-vingt-dix-neuf",
+    "title": "Le Quatre-Vingt-Dix-Neuf",
+    "current_names": [
+      "99",
+      "Le Quatre-Vingt-Dix-Neuf",
+      "Quatre-Vingt-Dix-Neuf"
+    ],
+    "add": [
+      "Ninety-Nine"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "This is the addition/shedding game where the running total must not exceed 99. It is distinct from the trick-taking game also called Ninety-Nine.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Ninety-nine_(addition_card_game)"
+    ]
+  },
+  {
+    "slug": "quit",
+    "title": "Le Quit",
+    "current_names": [
+      "Le Quit",
+      "—"
+    ],
+    "add": [
+      "Quit"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The em dash is a malformed placeholder alias. The rules require a proprietary 56-card pack; no independent alternative name was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "rami",
+    "title": "Le Rami",
+    "current_names": [
+      "Le Rami",
+      "Rum",
+      "Rummy"
+    ],
+    "add": [
+      "Rami",
+      "Basic Rummy",
+      "Straight Rummy",
+      "Traditional Rummy"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The mechanics are basic draw-and-discard Rummy: sets/runs and going out, without the defining discard-pile access and cumulative scoring of 500 Rummy.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/rummy.html"
+    ]
+  },
+  {
+    "slug": "rams",
+    "title": "Le Rams",
+    "current_names": [
+      "Le Rams"
+    ],
+    "add": [
+      "Rams",
+      "Rammes",
+      "Ramsch",
+      "Ramscheln"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Five-card opt-in trick play, a widow and penalties identify the Rams family. Ramsch is context-sensitive because it also names a Skat contract, but is documented as a Rams name.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Rams_(card_game)",
+      "https://www.pagat.com/rams/"
+    ]
+  },
+  {
+    "slug": "reussite",
+    "title": "La Réussite",
+    "current_names": [
+      "As à l'As",
+      "Carré d'As",
+      "Cellules",
+      "L'Araignée",
+      "L'Horloge",
+      "La Réussite",
+      "Mygale",
+      "Neuvaine",
+      "Paires",
+      "Patience",
+      "Patiences et Réussites",
+      "Pyramide",
+      "Rouge et le Noir",
+      "Réussite",
+      "Solitaire"
+    ],
+    "add": [
+      "Card Solitaire"
+    ],
+    "remove": [
+      "As à l'As",
+      "Carré d'As",
+      "Cellules",
+      "L'Araignée",
+      "L'Horloge",
+      "Mygale",
+      "Neuvaine",
+      "Paires",
+      "Patiences et Réussites",
+      "Pyramide",
+      "Rouge et le Noir"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The page is an umbrella for patience/solitaire games. Most current names are individual layouts or variants, not alternative names for the category itself.",
+    "source_urls": [
+      "https://www.pagat.com/solitaire/",
+      "https://en.wikipedia.org/wiki/Patience_(game)"
+    ]
+  },
+  {
+    "slug": "reversi",
+    "title": "Le Reversi",
+    "current_names": [
+      "Le",
+      "Le Reversi"
+    ],
+    "add": [
+      "Reversis",
+      "Réversis",
+      "Réversi",
+      "Reversin",
+      "Reversy"
+    ],
+    "remove": [
+      "Le"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 48-card, no-trump trick-avoidance game is historical Reversis, not the board game Reversi. Standalone 'Le' is a malformed parser alias.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Reversis",
+      "http://www.parlettgames.uk/histocs/reversis.html"
+    ]
+  },
+  {
+    "slug": "roi-et-son-epee",
+    "title": "Le Roi et son Épée",
+    "current_names": [
+      "Le Roi et Son Epee",
+      "Le Roi et son Épée"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The current forms are orthographic variants. No reliable established alternative name was located for this exact king-and-ace pairing game.",
+    "source_urls": []
+  },
+  {
+    "slug": "rouge-contre-noir",
+    "title": "Le Rouge contre le Noir",
+    "current_names": [
+      "Le Rouge contre le Noir"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The stored rules describe a two-player trick game scoring cards of a selected color, not casino Rouge et Noir or Trente-et-Quarante. No reliable alternative name was found.",
+    "source_urls": []
+  },
+  {
+    "slug": "rummy-500",
+    "title": "Le Rummy 500",
+    "current_names": [
+      "Le Rummy 500",
+      "Rami 500",
+      "Rum 500",
+      "Rum Michigan",
+      "Rummy 500",
+      "Rummy Pinochle"
+    ],
+    "add": [
+      "500 Rummy",
+      "500 Rum",
+      "Pinochle Rummy"
+    ],
+    "remove": [
+      "Rummy Pinochle"
+    ],
+    "duplicate_of": "rami-500",
+    "confidence": "high",
+    "rationale": "The buried-discard pickup rule, 7/13-card deal and target of 500 match the separate rami-500 page essentially rule for rule. Pinochle Rummy, not Rummy Pinochle, is documented.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/500rum.html"
+    ]
+  },
+  {
+    "slug": "rummy-baltimore",
+    "title": "Le Rummy Baltimore",
+    "current_names": [
+      "Baltimore",
+      "Le Rummy Baltimore",
+      "Rummy Baltimore"
+    ],
+    "add": [
+      "Baltimore Rummy"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is a five-deal contract-rummy form with out-of-turn buying. It is related to Contract Rummy and May I?, but its schedule does not justify treating those broader games as exact aliases.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ctrummy.html"
+    ]
+  },
+  {
+    "slug": "salade",
+    "title": "La Salade",
+    "current_names": [
+      "La Salade",
+      "Mixed Hearts"
+    ],
+    "add": [
+      "Salade"
+    ],
+    "remove": [
+      "Mixed Hearts"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The six phases include a fifth Domino/Fan-Tan-style shedding hand with wild cards. This differs from Canadian Salad, whose fifth hand penalizes the last trick; Mixed Hearts is misleading.",
+    "source_urls": [
+      "https://www.pagat.com/compendium/canadian_salad.html"
+    ]
+  },
+  {
+    "slug": "sans-coeur",
+    "title": "Le Sans-Cœur",
+    "current_names": [
+      "Jeu du roi",
+      "Le Sans-Cœur"
+    ],
+    "add": [
+      "Sans-Cœur"
+    ],
+    "remove": [
+      "Jeu du roi"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The stored page labels Jeu du Roi as a confusion. Its five-phase, 32-card structure differs from the database's ten-deal jeu-du-roi and from ordinary Hearts.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/King_(card_game)",
+      "https://www.pagat.com/reverse/hearts.html"
+    ]
+  },
+  {
+    "slug": "scopa",
+    "title": "La Scopa",
+    "current_names": [
+      "La Scopa"
+    ],
+    "add": [
+      "Scopa"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules match Italian Scopa. Escoba and Chkobba are related regional games with changed capture/scoring rules, not strict aliases.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/scopa.html",
+      "https://en.wikipedia.org/wiki/Scopa"
+    ]
+  },
+  {
+    "slug": "sept-et-demi",
+    "title": "Le Sept et Demi",
+    "current_names": [
+      "Le Sept et Demi",
+      "Le Sept-et-Demi",
+      "Sette e Mezzo"
+    ],
+    "add": [
+      "Sept et demi",
+      "Seven and a Half",
+      "Seven-and-a-Half",
+      "Siete y Media"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 7½ banking game is internationally documented under Italian, English and Spanish names with equivalent half-point court-card mechanics.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Sette_e_mezzo",
+      "https://www.pagat.com/banking/sette_e_mezzo.html"
+    ]
+  },
+  {
+    "slug": "sept-vingt-sept",
+    "title": "Le Sept-Vingt-Sept",
+    "current_names": [
+      "7-27",
+      "Le Sept-Vingt-Sept",
+      "Sept-Vingt-Sept"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The Quebec numeric alias is consistent with the two target totals. No recognized English name for these exact rules was reliably corroborated.",
+    "source_urls": []
+  },
+  {
+    "slug": "shithead",
+    "title": "Shithead",
+    "current_names": [
+      "Karma",
+      "Palace",
+      "Shed",
+      "Shithead"
+    ],
+    "add": [
+      "China Hand",
+      "Ten-Two Slide",
+      "Smeghead"
+    ],
+    "remove": [
+      "Shed"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 3-down/3-up/3-hand layout, beating pile, special 2 and 10, and last-player loss identify Shithead. Pagat documents the additions; generic Shed is not corroborated there.",
+    "source_urls": [
+      "https://www.pagat.com/beating/shithead.html"
+    ]
+  },
+  {
+    "slug": "sixte",
+    "title": "La Sixte",
+    "current_names": [
+      "La Sixte",
+      "—"
+    ],
+    "add": [
+      "Sixte"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The em dash is a malformed placeholder. No reliable alternative name was found for this six-player, 36-card trick game.",
+    "source_urls": []
+  },
+  {
+    "slug": "skat",
+    "title": "Le Skat",
+    "current_names": [
+      "Le Skat",
+      "Rauber Skat"
+    ],
+    "add": [
+      "Skat"
+    ],
+    "remove": [
+      "Rauber Skat"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The main rules are ordinary Skat. Räuber/Rauber Skat is a specific variant and should not be indexed as an alternative name for standard Skat.",
+    "source_urls": [
+      "https://www.pagat.com/skat/skat.html",
+      "https://en.wikipedia.org/wiki/Skat_(card_game)"
+    ]
+  },
+  {
+    "slug": "skyjo",
+    "title": "Le Skyjo",
+    "current_names": [
+      "Le Skyjo",
+      "Skyjo"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Skyjo is the product's established name. No recognized translated alternative name is needed.",
+    "source_urls": [
+      "https://boardgamegeek.com/boardgame/204135/skyjo"
+    ]
+  },
+  {
+    "slug": "snap",
+    "title": "Snap",
+    "current_names": [
+      "Slapjack",
+      "Snap"
+    ],
+    "add": [],
+    "remove": [
+      "Slapjack"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Stored rules award matching exposed ranks after calling Snap. Slapjack awards the center pile for slapping Jacks and is separately represented by frappe-le-valet/le-slapjack mechanics.",
+    "source_urls": [
+      "https://www.pagat.com/war/snap.html",
+      "https://www.pagat.com/war/slapjack.html"
+    ]
+  },
+  {
+    "slug": "snip-snap-snorem",
+    "title": "Snip Snap Snorem",
+    "current_names": [
+      "Snip Snap Snorem"
+    ],
+    "add": [
+      "Snip Snap Snorum",
+      "Snip Snap Snore 'Em"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Snorem/Snorum are documented spellings. This page uses the equal-rank form; snip-snap-snoru uses the five-card sequence form. Pagat treats both as forms of the game, but their mechanics differ materially.",
+    "source_urls": [
+      "https://www.pagat.com/stops/snipsnapsnorum.html"
+    ]
+  },
+  {
+    "slug": "solitaire-a-deux",
+    "title": "Le Solitaire à Deux",
+    "current_names": [
+      "Double Solitaire",
+      "Le Solitaire à Deux",
+      "Solitaire à Deux"
+    ],
+    "add": [
+      "Simultaneous Solitaire"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two separate Klondike layouts racing onto shared foundations are Double/Simultaneous Solitaire. The database's double-solitaire is a single shuffled 104-card 8×8 patience, so it is not a rules duplicate.",
+    "source_urls": [
+      "https://www.pagat.com/patience/double.html"
+    ]
+  },
+  {
+    "slug": "stud-5-cartes",
+    "title": "Stud à 5 Cartes",
+    "current_names": [
+      "Five Card Stud",
+      "Stud à 5 Cartes"
+    ],
+    "add": [
+      "Five-Card Stud",
+      "Five Card Stud Poker",
+      "Stud poker à cinq cartes"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "One hole card followed by four exposed cards and betting rounds is standard Five Card Stud.",
+    "source_urls": [
+      "https://www.pagat.com/poker/variants/5stud.html"
+    ]
+  },
+  {
+    "slug": "stud-7-cartes",
+    "title": "Stud à 7 Cartes",
+    "current_names": [
+      "Seven Card Stud",
+      "Stud à 7 Cartes"
+    ],
+    "add": [
+      "Seven-Card Stud",
+      "Seven Card Stud Poker",
+      "Stud poker à sept cartes"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two down/one up, four further streets, and the best five-card hand from seven identify standard Seven Card Stud.",
+    "source_urls": [
+      "https://www.pagat.com/poker/variants/7stud.html"
+    ]
+  },
+  {
+    "slug": "tarot",
+    "title": "Le Tarot",
+    "current_names": [
+      "Le Tarot"
+    ],
+    "add": [
+      "Tarot",
+      "Tarot français",
+      "French Tarot",
+      "Jeu de Tarot"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 78-card deck, chien, bouts/oudlers and French contract thresholds identify French Tarot specifically, rather than tarot card games generally.",
+    "source_urls": [
+      "https://www.pagat.com/tarot/frtarot.html",
+      "https://fftarot.fr/"
+    ]
+  },
+  {
+    "slug": "tennis-cartes",
+    "title": "Le Tennis",
+    "current_names": [
+      "Le Tennis"
+    ],
+    "add": [
+      "Tennis"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "No reliable established international alternative name was located for the exact card simulation described.",
+    "source_urls": []
+  },
+  {
+    "slug": "tontine",
+    "title": "La Tontine",
+    "current_names": [
+      "La Tontine",
+      "—"
+    ],
+    "add": [
+      "Tontine"
+    ],
+    "remove": [
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Card actions, circulating jetons, death/resurrection and last survivor match historical Tontine. The em dash is a malformed placeholder.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Tontine_(card_game)",
+      "https://salondesjeux.fr/tontine.htm"
+    ]
+  },
+  {
+    "slug": "treize-quebecois",
+    "title": "Le Treize",
+    "current_names": [
+      "Le Treize",
+      "Québec"
+    ],
+    "add": [
+      "Treize québécois",
+      "Le Treize (Québec)"
+    ],
+    "remove": [
+      "Québec"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Standalone Québec is a parser fragment from the parenthetical qualifier. Thirteen deals with a changing wild rank identify a rummy game, not the banking treize page.",
+    "source_urls": []
+  },
+  {
+    "slug": "treize",
+    "title": "Le Jeu du Treize",
+    "current_names": [
+      "Le Jeu du Treize",
+      "Le Treize"
+    ],
+    "add": [
+      "Jeu du Treize",
+      "Treize"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This is a banking/counting game in which thirteen ranks are called against thirteen exposed cards. It is mechanically unrelated to treize-quebecois despite the shared short name.",
+    "source_urls": []
+  },
+  {
+    "slug": "trente-et-quarante",
+    "title": "Le Trente-et-Quarante",
+    "current_names": [
+      "Le Trente-et-Quarante",
+      "Trente et Quarante",
+      "Trente-et-Quarante"
+    ],
+    "add": [
+      "Thirty and Forty",
+      "Rouge et Noir"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The casino tableau with Noir/Rouge and Couleur/Inverse bets is internationally known as Trente et Quarante, Thirty and Forty, or Rouge et Noir.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Trente_et_Quarante",
+      "https://www.britannica.com/topic/trente-et-quarante"
+    ]
+  },
+  {
+    "slug": "trente-et-un",
+    "title": "Le Trente-et-Un",
+    "current_names": [
+      "Le Trente et Un",
+      "Le Trente-et-Un",
+      "Trente-et-Un"
+    ],
+    "add": [
+      "Trente et un",
+      "Thirty-One"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The rules are a banker-versus-pontes draw-to-31 game. Thirty-One is a defensible translation but is ambiguous internationally because several unrelated games use that name.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Thirty-one_(card_game)"
+    ]
+  },
+  {
+    "slug": "triomphe",
+    "title": "La Triomphe",
+    "current_names": [
+      "La Triomphe"
+    ],
+    "add": [
+      "Triomphe",
+      "Triumph",
+      "French Ruff",
+      "Trump"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Five-card hands, turned trump, compulsory following/trumping and three tricks to win match historical Triomphe/French Ruff.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Triomphe"
+    ]
+  },
+  {
+    "slug": "valet-de-trefle",
+    "title": "Le Valet de Trèfle",
+    "current_names": [
+      "Le Valet de Trèfle"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "The trump order and melds resemble the Jass/Belote family, but the target and card values do not cleanly match Belote, Klaberjass or Klaverjas. No alias should be inferred from family resemblance alone.",
+    "source_urls": [
+      "https://www.pagat.com/jass/",
+      "https://www.pagat.com/jass/belote.html"
+    ]
+  },
+  {
+    "slug": "vingt-et-un",
+    "title": "Le Vingt-et-un",
+    "current_names": [
+      "21",
+      "Blackjack",
+      "Le Vingt et Un",
+      "Le Vingt-et-un",
+      "Pontoon",
+      "Vingt-et-Un"
+    ],
+    "add": [
+      "Vingt et un",
+      "Twenty-One"
+    ],
+    "remove": [
+      "Blackjack",
+      "Pontoon"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The main rules describe traditional rotating-banker Twenty-One, with Blackjack only as a later variant. Casino Blackjack and Pontoon have materially distinct rules; shared ancestry does not make them exact aliases or duplicates.",
+    "source_urls": [
+      "https://www.pagat.com/banking/blackjack.html",
+      "https://www.pagat.com/banking/pontoon.html",
+      "https://en.wikipedia.org/wiki/Twenty-One_(card_game)"
+    ]
+  },
+  {
+    "slug": "vive-la-joie",
+    "title": "Vive la Joie",
+    "current_names": [
+      "Dernier Valet",
+      "Vive la Joie"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Rules support the local equivalence to Dernier Valet: discard rank-pairs, draw blindly from a neighbor, and win by emptying the hand. It resembles Old Maid but lacks the defining unmatched loser card.",
+    "source_urls": [
+      "https://www.pagat.com/passing/oldmaid.html"
+    ]
+  },
+  {
+    "slug": "whip",
+    "title": "Le Whip",
+    "current_names": [
+      "Le Whip",
+      "Le ip",
+      "—"
+    ],
+    "add": [
+      "Whip"
+    ],
+    "remove": [
+      "Le ip",
+      "—"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Le ip is a parser corruption caused by dropping Wh, and the em dash is a placeholder. Mechanics are a Flemish fishing game related to Cassino/Scopa, but its scoring and covering rules do not justify those aliases.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/casino.html",
+      "https://www.pagat.com/fishing/scopa.html"
+    ]
+  },
+  {
+    "slug": "whist-a-la-couleur",
+    "title": "Le Whist à la Couleur",
+    "current_names": [
+      "Le Whist à la Couleur"
+    ],
+    "add": [
+      "Whist à la couleur",
+      "Colour Whist",
+      "Color Whist"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Auctions include emballage, solo, misère, piccolo and abondance, identifying the continental color-contract variant rather than simple Whist. It is not mechanically identical to the whist page's main game.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Whist",
+      "https://www.pagat.com/whist/"
+    ]
+  },
+  {
+    "slug": "whist",
+    "title": "Le Whist",
+    "current_names": [
+      "Le Whist",
+      "Le ist",
+      "Whist prussien",
+      "Whist simple",
+      "Whist à la couleur"
+    ],
+    "add": [
+      "Whist"
+    ],
+    "remove": [
+      "Le ist",
+      "Whist prussien",
+      "Whist à la couleur"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The main rules are classic partnership Whist with turned trump, tricks above six and honors. Le ist is parser corruption. Prussian Whist and Whist à la couleur are variants, the latter with separate auction mechanics and its own page.",
+    "source_urls": [
+      "https://www.pagat.com/whist/whist.html",
+      "https://en.wikipedia.org/wiki/Whist"
+    ]
+  },
+  {
+    "slug": "gin-rummy",
+    "title": "GIN RUMMY",
+    "current_names": [
+      "GIN RUMMY",
+      "Le Gin Rummy"
+    ],
+    "add": [
+      "Gin",
+      "Gin Rami",
+      "Gin-Rami"
+    ],
+    "remove": [],
+    "duplicate_of": "gin-rami",
+    "confidence": "high",
+    "rationale": "Same 10-card knock-rummy mechanics as gin-rami: sets/runs, deadwood, knock, gin and undercut. The house rule incorrectly allows Q-K-A, whereas standard Gin Rummy keeps the ace low, but this is a rules error rather than a distinct game.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ginrummy.html",
+      "https://en.wikipedia.org/wiki/Gin_rummy"
+    ]
+  },
+  {
+    "slug": "le-kems",
+    "title": "LE KEM'S",
+    "current_names": [
+      "Jeu des Mots",
+      "Kem",
+      "Kem's",
+      "Kem’s",
+      "LE KEM'S"
+    ],
+    "add": [
+      "Kemps",
+      "Kent",
+      "Cash",
+      "Canes",
+      "Carré-Coupé",
+      "Gemsch",
+      "Gämsch"
+    ],
+    "remove": [
+      "Jeu des Mots",
+      "Kem"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Mechanics exactly match Kemps: simultaneous exchanges, four of a kind, partner signal and counter-call. 'Jeu des Mots' is unrelated; 'Kem' appears to be a truncated parser alias. Carré-Coupé, Cash and Gemsch are documented regional forms.",
+    "source_urls": [
+      "https://www.pagat.com/commerce/kemps.html",
+      "https://bicyclecards.com/how-to-play/kemps/",
+      "https://en.wikipedia.org/wiki/Kemps_(card_game)"
+    ]
+  },
+  {
+    "slug": "paquet-de-merde",
+    "title": "Le Paquet de Merde",
+    "current_names": [
+      "Le Paquet de Merde"
+    ],
+    "add": [
+      "Paquet de Merde",
+      "Kilo de Merde"
+    ],
+    "remove": [],
+    "duplicate_of": "le-kilo-de-merde",
+    "confidence": "high",
+    "rationale": "The stored rules reproduce Kilo de Merde: four-card rank sets, passing one card around, touching the central pile, kilo penalties and a flush-clearing card. Differences in starting player and whether 7 or 8 clears penalties are minor house variations.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-passes-de-cartes/le-kilo-de-merde.html"
+    ]
+  },
+  {
+    "slug": "rami-500",
+    "title": "RAMI 500",
+    "current_names": [
+      "RAMI 500"
+    ],
+    "add": [
+      "Rami 500",
+      "Rummy 500",
+      "500 Rummy",
+      "500 Rum",
+      "Rum 500",
+      "Pinochle Rummy"
+    ],
+    "remove": [],
+    "duplicate_of": "rummy-500",
+    "confidence": "high",
+    "rationale": "Same game as rummy-500: cumulative 500-point target, table melds, laying off and taking a buried discard together with all cards above it.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/500rum.html",
+      "https://en.wikipedia.org/wiki/500_rum"
+    ]
+  },
+  {
+    "slug": "regicide",
+    "title": "Régicide",
+    "current_names": [
+      "Régicide"
+    ],
+    "add": [
+      "Regicide"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Official international title is Regicide; Régicide is the natural French spelling. Mechanics match the published cooperative game against Jacks, Queens and Kings.",
+    "source_urls": [
+      "https://www.regicidegame.com/how-to-play/",
+      "https://boardgamegeek.com/boardgame/307002/regicide"
+    ]
+  },
+  {
+    "slug": "yaniv",
+    "title": "Yaniv",
+    "current_names": [
+      "Main Verte",
+      "Yaniv",
+      "Yanoff"
+    ],
+    "add": [
+      "Jhyap",
+      "Dhumbal",
+      "Dumbal",
+      "Kluft"
+    ],
+    "remove": [
+      "Main Verte",
+      "Yanoff"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules are recognizably Yaniv. Pagat documents Jhyap and Dhumbal in Nepal and Kluft in the Netherlands. No reliable established use was found for 'Main Verte' or 'Yanoff'; both look like local or corrupted aliases.",
+    "source_urls": [
+      "https://www.pagat.com/draw/yaniv.html",
+      "https://en.wikipedia.org/wiki/Yaniv_(card_game)"
+    ]
+  },
+  {
+    "slug": "anandis",
+    "title": "Anandis",
+    "current_names": [
+      "Anandis"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Distinct two-player deduction game using 16 court cards, a joker and one hidden card. No established international alternative name was located.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/anandis.html"
+    ]
+  },
+  {
+    "slug": "animals",
+    "title": "Animals",
+    "current_names": [
+      "Animals"
+    ],
+    "add": [
+      "Barnyard Snap"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "An animal-name variant of Snap. Barnyard Snap is the documented animal-sound form. It should not be marked duplicate of ordinary Snap because the memorized identities or sounds are a material mechanic.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/animals.html",
+      "https://www.pagat.com/snap/snap.html"
+    ]
+  },
+  {
+    "slug": "basra",
+    "title": "Basra",
+    "current_names": [
+      "Basra"
+    ],
+    "add": [
+      "Assaba-al'-Komi",
+      "Ashush"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat documents Assaba-al'-Komi and Ashush as regional names. Pâsur, Kontsina and Tablić are related fishing games, not safe aliases: capture powers and scoring differ.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/basra.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-peche/basra.html"
+    ]
+  },
+  {
+    "slug": "big-three",
+    "title": "Big Three",
+    "current_names": [
+      "Big Three"
+    ],
+    "add": [
+      "Da San",
+      "Dà Sān",
+      "Dig a Hole",
+      "Wa Keng",
+      "Wā Kēng"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat confirms Big Three/Da San and Dig a Hole/Wa Keng for the Shaanxi climbing game. It is related to Dou Dizhu but has different cards, rankings and legal combinations.",
+    "source_urls": [
+      "https://www.pagat.com/climbing/bigthree.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-escalade/big-three.html"
+    ]
+  },
+  {
+    "slug": "blanche-neige",
+    "title": "Blanche-Neige",
+    "current_names": [
+      "Blanche-Neige"
+    ],
+    "add": [
+      "Blanche Neige"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A distinct role-dependent shedding design. It is derived from Crazy Eights/8 Américain but the five asymmetric character rules prevent treating those family names as aliases.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/blanche-neige.html"
+    ]
+  },
+  {
+    "slug": "brain-drain",
+    "title": "Brain Drain",
+    "current_names": [
+      "Brain Drain"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "David Parlett arithmetic game using four operands to reach a fifth target card. It is derived from Twenty-Four but changes the target, scoring and card values, so it is not a duplicate.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/brain-drain.html"
+    ]
+  },
+  {
+    "slug": "c-q-f-d",
+    "title": "C.Q.F.D.",
+    "current_names": [
+      "C.Q.F.D."
+    ],
+    "add": [
+      "Cartes Qu’il Faut Deviner",
+      "Cartes Qu'il Faut Deviner"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The punctuation is intentional and not a malformed alias: C.Q.F.D. expands to Cartes Qu’il Faut Deviner in the rules. No other established name was found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/c-q-f-d-.html"
+    ]
+  },
+  {
+    "slug": "camicia",
+    "title": "Camicia",
+    "current_names": [
+      "Camicia"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Italian Beggar-my-Neighbour-family game in which A, 2 and 3 impose payment counts. Family labels such as Beggar-my-Neighbour and Bataille Corse should not be aliases because their attack cards and slap rules differ.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/camicia.html",
+      "https://www.pagat.com/war/beggar_my_neighbour.html"
+    ]
+  },
+  {
+    "slug": "candyman",
+    "title": "Candyman",
+    "current_names": [
+      "Candyman"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Winking hidden-role game with Candyman, police officer and buyers. It is related to Wink Murder/Killer, but the specific roles, win conditions and card assignment make a duplicate claim unsafe.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-role/candyman.html"
+    ]
+  },
+  {
+    "slug": "cinquante-plus-moins",
+    "title": "Cinquante Plus/Moins",
+    "current_names": [
+      "Cinquante Plus/Moins"
+    ],
+    "add": [
+      "50 Plus/Moins",
+      "Fifty Plus/Minus"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Locally documented arithmetic game attributed to Dani. The translated forms are useful search variants but were not independently established; no mechanics-equivalent database game was identified.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/cinquante-plus-moins.html"
+    ]
+  },
+  {
+    "slug": "clubbed",
+    "title": "Clubbed",
+    "current_names": [
+      "Clubbed"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Named invention by Dave and Kendall Cline. Although its matching rule resembles Crazy Eights, clubs transfer the entire discard pile to the opponent and victory depends on the smallest captured stock.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/clubbed.html"
+    ]
+  },
+  {
+    "slug": "color-game",
+    "title": "Color Game",
+    "current_names": [
+      "Color Game"
+    ],
+    "add": [
+      "Colour Game"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Simple red/black prediction game. Colour Game is only the British spelling; no distinctive established international title was found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/color-game.html"
+    ]
+  },
+  {
+    "slug": "colour-blind",
+    "title": "Colour-blind",
+    "current_names": [
+      "Colour-blind"
+    ],
+    "add": [
+      "Colour Blind",
+      "Color-blind",
+      "Color Blind"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "David Parlett design. Added only punctuation and British/American spelling forms; no separate mechanics-equivalent title was found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/colour-blind.html",
+      "https://www.parlettgames.uk/oricards/"
+    ]
+  },
+  {
+    "slug": "crapaud",
+    "title": "Crapaud",
+    "current_names": [
+      "Crapaud",
+      "Le"
+    ],
+    "add": [
+      "Toad"
+    ],
+    "remove": [
+      "Le"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules explicitly identify Toad as the original English title. 'Le' is a malformed article-only parser alias.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/crapaud.html"
+    ]
+  },
+  {
+    "slug": "democratie",
+    "title": "Démocratie",
+    "current_names": [
+      "Démocratie"
+    ],
+    "add": [
+      "Democracy"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The Cleveland game is described under the translated French title Démocratie; Democracy is the natural original-language form. Its simultaneous tribal voting tricks are distinctive.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/democratie.html"
+    ]
+  },
+  {
+    "slug": "dingo",
+    "title": "Dingo",
+    "current_names": [
+      "Dingo"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Distinct Cleveland hunt game with rabbits, dingoes and wolves mapped to suits. No reliable alternative title was found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-divers/dingo.html"
+    ]
+  },
+  {
+    "slug": "east-wes",
+    "title": "East-West",
+    "current_names": [
+      "East-West"
+    ],
+    "add": [
+      "East West"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Reiner Knizia design predating Schotten Totten/Battle Line. Those later games are relatives, not aliases; East West is only a punctuation variant.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/east-west.html",
+      "https://boardgamegeek.com/boardgame/3181/east-west"
+    ]
+  },
+  {
+    "slug": "eleusis",
+    "title": "Éleusis",
+    "current_names": [
+      "Eleusis",
+      "Éleusis"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Both accented French and unaccented international forms are already present. New Eleusis and Eleusis Express are materially revised variants and should not be added as exact aliases.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Eleusis_(card_game)",
+      "http://www.logicmazes.com/games/eleusis/",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/eleusis.html"
+    ]
+  },
+  {
+    "slug": "fotbo",
+    "title": "Fotboll",
+    "current_names": [
+      "Fotboll"
+    ],
+    "add": [
+      "Football"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Roland Johansson's Swedish football-simulation card game. Football is the direct translated title documented by the rule source; no database duplicate matches its field layout and attack sequence.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/fotboll.html"
+    ]
+  },
+  {
+    "slug": "horse-race",
+    "title": "Horse Race",
+    "current_names": [
+      "Horse Race"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Matches Pagat's Basic Horse Race exactly: four aces, seven-card course, suit-driven movement and bookmaker odds. 'Racing Aces' was not added because that name is also used for materially different layouts.",
+    "source_urls": [
+      "https://www.pagat.com/race/horse_race.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/horse-race.html"
+    ]
+  },
+  {
+    "slug": "identite",
+    "title": "Identité",
+    "current_names": [
+      "Identité"
+    ],
+    "add": [
+      "Identity"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Distinct memory/deduction design involving forehead cards and a matching memory grid. Identity is a translation/search form, not independently corroborated as a published title.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/identite.html"
+    ]
+  },
+  {
+    "slug": "kontsina",
+    "title": "Kontsina",
+    "current_names": [
+      "Kontsina"
+    ],
+    "add": [
+      "Koltsina",
+      "Kolitsina",
+      "Κοντσίνα",
+      "Κολτσίνα",
+      "Κολιτσίνα"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat confirms all three Greek transliterations. Basra and Casino are relatives, not duplicates: Kontsina permits only one equal-sum combination and uses its own five-point scoring.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/kontsina.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-peche/kontsina.html"
+    ]
+  },
+  {
+    "slug": "la-famille-coeur",
+    "title": "La Famille Cœur",
+    "current_names": [
+      "La Famille Cœur"
+    ],
+    "add": [
+      "Famille Cœur"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A one-family adaptation of Happy Families/Jeu des 7 familles. It should remain distinct because it uses only six named heart cards and a specific request script.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/la-famille-coeur.html",
+      "https://en.wikipedia.org/wiki/Happy_families"
+    ]
+  },
+  {
+    "slug": "la-salade-canadienne",
+    "title": "La Salade Canadienne",
+    "current_names": [
+      "La Salade Canadienne"
+    ],
+    "add": [
+      "Salade Canadienne",
+      "Grande Salade",
+      "Canadian Salad"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The source explicitly gives Grande Salade; Canadian Salad is the established English rendering. Barbu is a related compendium but differs in contracts and structure.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/la-salade-canadienne.html",
+      "https://en.wikipedia.org/wiki/Canadian_Salad"
+    ]
+  },
+  {
+    "slug": "la-triche",
+    "title": "La Triche",
+    "current_names": [
+      "La Triche"
+    ],
+    "add": [
+      "Triche",
+      "Cheat",
+      "Bullshit",
+      "I Doubt It",
+      "J’en doute",
+      "J'en doute"
+    ],
+    "remove": [],
+    "duplicate_of": "menteur",
+    "confidence": "high",
+    "rationale": "The stored mechanics exactly match Pagat's ascending-rank Cheat/I Doubt It and the existing menteur entry: face-down claims, cyclic ranks and challenges. This is not the separate same-rank version also called Bluff/I Doubt It.",
+    "source_urls": [
+      "https://www.pagat.com/beating/cheat.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/la-triche.html"
+    ]
+  },
+  {
+    "slug": "last-one",
+    "title": "Last One",
+    "current_names": [
+      "Last One"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A specific Crazy Eights-family variant with 4-7 mêlée sequences and its own scoring. Generic names such as Crazy Eights, Last Card and 8 Américain would overmerge mechanically different games.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/last-one.html"
+    ]
+  },
+  {
+    "slug": "le-100",
+    "title": "Le 100",
+    "current_names": [
+      "Le 100"
+    ],
+    "add": [
+      "100",
+      "One Hundred"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Matches Pagat's One Hundred adding game, including black aces, spade 2, red 5s, 10, Jack, heart Queen and Kings. Related 98 and 99 games have different limits and card effects.",
+    "source_urls": [
+      "https://www.pagat.com/adders/98.html#100",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-100.html"
+    ]
+  },
+  {
+    "slug": "le-14",
+    "title": "Le 14",
+    "current_names": [
+      "Le 14"
+    ],
+    "add": [
+      "14",
+      "Fourteen"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "low",
+    "rationale": "Distinct shedding game based on making and rearranging combinations totalling 14 across four staged packets. No independently established alternative title was found; Fourteen is only a translation/search form.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-14.html"
+    ]
+  },
+  {
+    "slug": "le-21",
+    "title": "Le 21",
+    "current_names": [
+      "Le 21"
+    ],
+    "add": [
+      "21",
+      "Stack Cards"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The source explicitly identifies Stack Cards. Although inspired by Blackjack, this is a cooperative four-pile puzzle with combination scoring, not Blackjack itself.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-21.html"
+    ]
+  },
+  {
+    "slug": "le-24",
+    "title": "Le 24",
+    "current_names": [
+      "Le 24"
+    ],
+    "add": [
+      "24",
+      "Twenty-Four",
+      "24 Game",
+      "Make 24",
+      "Maths24"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Same arithmetic puzzle documented internationally: use four card values exactly once with basic operations to make 24. The stored two-player shedding format is a documented long-game form, not a different game.",
+    "source_urls": [
+      "https://www.pagat.com/adders/24.html",
+      "https://en.wikipedia.org/wiki/24_(puzzle)",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-24.html"
+    ]
+  },
+  {
+    "slug": "le-41",
+    "title": "Le 41",
+    "current_names": [
+      "Le 41"
+    ],
+    "add": [
+      "41",
+      "Empat Satu"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The rules explicitly identify the Indonesian name Empat Satu. It resembles same-suit draw-and-discard games but has four cards and subtractive off-suit scoring, so Thirty-One is not an alias.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-41.html"
+    ]
+  },
+  {
+    "slug": "le-51-japonais",
+    "title": "Le 51 Japonais",
+    "current_names": [
+      "Le 51 Japonais"
+    ],
+    "add": [
+      "51 Japonais",
+      "Goju Ichi",
+      "Gojū Ichi"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The Japanese name Goju Ichi is explicitly documented. The five-card market and subtractive off-suit scoring distinguish it from Chinese 51 and other commerce games.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-commerce/le-51-japonais.html"
+    ]
+  },
+  {
+    "slug": "le-7-de-coeur",
+    "title": "Le 7 de Cœur",
+    "current_names": [
+      "Le 7 de Cœur"
+    ],
+    "add": [
+      "7 de Cœur"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "A playing-card implementation of Jeu de l'Oie with the heart 7 as finish. Jeu de l'Oie describes the inspiration, not an alternative name for this exact card layout.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/le-7-de-coeur.html"
+    ]
+  },
+  {
+    "slug": "le-7-et-demi",
+    "title": "Le 7½",
+    "current_names": [
+      "Le 7½"
+    ],
+    "add": [
+      "7½",
+      "Sept et Demi",
+      "Sept-et-Demi",
+      "Seven and a Half",
+      "Seven-and-a-Half",
+      "Sette e Mezzo",
+      "Siete y Media",
+      "Sete e Meio"
+    ],
+    "remove": [],
+    "duplicate_of": "sept-et-demi",
+    "confidence": "high",
+    "rationale": "Same banking game as sept-et-demi: 40 cards, courts worth one-half, target 7½ and banker winning ties. Pagat confirms the Italian, Spanish, Portuguese and English names.",
+    "source_urls": [
+      "https://www.pagat.com/banking/sette_e_mezzo.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-banque/le-7-et-demi.html"
+    ]
+  },
+  {
+    "slug": "le-98",
+    "title": "Le 98",
+    "current_names": [
+      "Le 98"
+    ],
+    "add": [
+      "98",
+      "Ninety-Eight"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Matches Pagat's standard 98 exactly: four-card hands, running total, 10 as -10, J/Q as zero and King setting 98. It is related to but not identical with 99 and 100.",
+    "source_urls": [
+      "https://www.pagat.com/adders/98.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/le-98.html"
+    ]
+  },
+  {
+    "slug": "le-bingo",
+    "title": "Le Bingo",
+    "current_names": [
+      "Le Bingo"
+    ],
+    "add": [
+      "Bingo",
+      "Card Bingo",
+      "Playing-Card Bingo"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Standard playing-card adaptation of Bingo using one deck as player cards and another as caller deck. Generic Bingo is acceptable, but this should not be merged with numbered bingo implementations.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-banque/le-bingo.html",
+      "https://en.wikipedia.org/wiki/Bingo_(American_version)"
+    ]
+  },
+  {
+    "slug": "le-cabo-var",
+    "title": "Le Cabo",
+    "current_names": [
+      "Le Cabo"
+    ],
+    "add": [
+      "Cabo"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "A specifically documented simplified Cabo variant. It shares the Golf/Tamalou family and much of le-tamalou's layout, but differs materially in powers, matching from opponents' layouts, scoring and end conditions; therefore no duplicate designation.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-cabo-var.html",
+      "https://www.pagat.com/draw/golf.html"
+    ]
+  },
+  {
+    "slug": "le-cuttle",
+    "title": "Le Cuttle",
+    "current_names": [
+      "Le Cuttle"
+    ],
+    "add": [
+      "Cuttle",
+      "Cutthroat Cuttle"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Mechanics match established Cuttle: point cards, scuttling, one-off effects, permanent royals and a 21-point goal. Cutthroat Cuttle is the documented three-player variant.",
+    "source_urls": [
+      "https://www.pagat.com/combat/cuttle.html",
+      "https://en.wikipedia.org/wiki/Cuttle",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/le-cuttle.html"
+    ]
+  },
+  {
+    "slug": "le-generala",
+    "title": "Le Générala",
+    "current_names": [
+      "Le Générala"
+    ],
+    "add": [
+      "Générala",
+      "Generala"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Camerounian elimination trick game with inability-to-follow penalties and Jokers as highest cards. It is unrelated to the Latin American dice game also called Generala; no other card-game name was corroborated.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/le-generala.html"
+    ]
+  },
+  {
+    "slug": "le-go-fis",
+    "title": "Le Go Fish",
+    "current_names": [
+      "Le Go Fish"
+    ],
+    "add": [
+      "Go Fish",
+      "Fish",
+      "Pige dans le lac"
+    ],
+    "remove": [
+      "Le Go Fish"
+    ],
+    "duplicate_of": "pige-dans-le-lac",
+    "confidence": "high",
+    "rationale": "Same asking, fishing and four-of-a-kind mechanics as the existing record. Current alias has a parser-added article.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html"
+    ]
+  },
+  {
+    "slug": "le-go-fish-deluxe",
+    "title": "Le Go Fish Deluxe",
+    "current_names": [
+      "Le Go Fish Deluxe"
+    ],
+    "add": [
+      "Go Fish Deluxe",
+      "Australian Fish"
+    ],
+    "remove": [
+      "Le Go Fish Deluxe"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pair-collecting variant documented by Pagat as Australian Fish; materially different from ordinary Go Fish. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html#australia",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/le-go-fish-deluxe.html"
+    ]
+  },
+  {
+    "slug": "le-gops",
+    "title": "Le Gops",
+    "current_names": [
+      "Le Gops"
+    ],
+    "add": [
+      "GOPS",
+      "Gops",
+      "Goofspiel",
+      "Goofenspiel",
+      "Game of Pure Strategy"
+    ],
+    "remove": [
+      "Le Gops"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat explicitly documents both Goofspiel spellings and the acronym expansion. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/misc/gops.html",
+      "https://en.wikipedia.org/wiki/Goofspiel"
+    ]
+  },
+  {
+    "slug": "le-james-bond",
+    "title": "Le James Bond",
+    "current_names": [
+      "Le James Bond"
+    ],
+    "add": [
+      "James Bond",
+      "Atlantis",
+      "Chanhassen",
+      "Lännen nopein"
+    ],
+    "remove": [
+      "Le James Bond"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat lists the regional names for the same simultaneous four-of-a-kind packet game. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/commerce/jamesbond.html"
+    ]
+  },
+  {
+    "slug": "le-killer",
+    "title": "Le Killer",
+    "current_names": [
+      "Le Killer"
+    ],
+    "add": [
+      "Killer",
+      "Assassin",
+      "Wink Murder",
+      "Murder Wink",
+      "Murder in the Dark"
+    ],
+    "remove": [
+      "Le Killer"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The hidden murderer kills by winking while a detective identifies them, matching Wink Murder. Current alias has a leading article.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Wink_murder",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-role/le-killer.html"
+    ]
+  },
+  {
+    "slug": "le-kilo-de-merde",
+    "title": "Le Kilo de Merde",
+    "current_names": [
+      "Le Kilo de Merde"
+    ],
+    "add": [
+      "Kilo de merde"
+    ],
+    "remove": [
+      "Le Kilo de Merde"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Distinct scored passing-and-reaction game. Bouchon is only a documented equipment variant and is not safe as an alias because a separate Bouchon record exists. Current alias has a leading article.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-passes-de-cartes/le-kilo-de-merde.html",
+      "https://www.pagat.com/passing/pig.html"
+    ]
+  },
+  {
+    "slug": "le-kings-corners",
+    "title": "Le Kings Corners",
+    "current_names": [
+      "Le Kings Corners"
+    ],
+    "add": [
+      "Kings Corners",
+      "Kings in the Corners",
+      "Kings in the Corner"
+    ],
+    "remove": [
+      "Le Kings Corners"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat recognizes Kings Corners and Kings in the Corners for the same shedding layout game. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/layout/kingscorners.html"
+    ]
+  },
+  {
+    "slug": "le-knock-out-whis",
+    "title": "Le Knock-out Whist",
+    "current_names": [
+      "Le Knock-out Whist"
+    ],
+    "add": [
+      "Knock-out Whist",
+      "Knockout Whist",
+      "Trumps",
+      "Scrounge",
+      "Rat"
+    ],
+    "remove": [
+      "Le Knock-out Whist"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "All alternatives are explicitly listed by Pagat for the diminishing-hand elimination game. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/whist/kowhist.html"
+    ]
+  },
+  {
+    "slug": "le-memory-cooperatif",
+    "title": "Le Memory Coopératif",
+    "current_names": [
+      "Le Memory Coopératif"
+    ],
+    "add": [
+      "Memory coopératif",
+      "Cooperative Memory",
+      "Cooperative Concentration"
+    ],
+    "remove": [
+      "Le Memory Coopératif"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Cooperative adaptation of Memory/Concentration, not the competitive Memory record. English forms are descriptive translations rather than strongly established titles. Current alias has a leading article.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/le-memory-cooperatif.html",
+      "https://www.pagat.com/misc/pelmanism.html"
+    ]
+  },
+  {
+    "slug": "le-memory",
+    "title": "Le Memory",
+    "current_names": [
+      "Le Memory"
+    ],
+    "add": [
+      "Memory",
+      "Concentration",
+      "Pelmanism",
+      "Shinkei-suijaku"
+    ],
+    "remove": [
+      "Le Memory"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat identifies all four names for the same pair-matching memory game. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/misc/pelmanism.html",
+      "https://en.wikipedia.org/wiki/Concentration_(card_game)"
+    ]
+  },
+  {
+    "slug": "le-neuf",
+    "title": "Le Neuf",
+    "current_names": [
+      "Le Neuf"
+    ],
+    "add": [
+      "Neuf"
+    ],
+    "remove": [
+      "Le Neuf"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Modern authored battle game by Yusuf and Yaqub; no independently recognized alternative title found. Current alias has a leading article.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/le-neuf.html"
+    ]
+  },
+  {
+    "slug": "le-poker-squares",
+    "title": "Le Poker Squares",
+    "current_names": [
+      "Le Poker Squares"
+    ],
+    "add": [
+      "Poker Squares",
+      "Poker Solitaire",
+      "Poker Patience"
+    ],
+    "remove": [
+      "Le Poker Squares"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The 5x5 fixed-placement and ten-hand scoring mechanics match the recognized solitaire under all three names. Current alias has a leading article.",
+    "source_urls": [
+      "https://en.wikipedia.org/wiki/Poker_squares",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/le-poker-squares.html"
+    ]
+  },
+  {
+    "slug": "le-rami-contra",
+    "title": "Le Rami Contrat",
+    "current_names": [
+      "Le Rami Contrat"
+    ],
+    "add": [
+      "Rami contrat",
+      "Contract Rummy"
+    ],
+    "remove": [
+      "Le Rami Contrat"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Its seven contracts, changing hand sizes and 'May I?' rule match Pagat's Contract Rummy. Liverpool Rummy, May I?, Shanghai Rummy and Progressive Rummy have rule differences and are not added as aliases. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/ctrummy.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-rami-contrat.html"
+    ]
+  },
+  {
+    "slug": "le-rami-frustration",
+    "title": "Le Rami Frustration",
+    "current_names": [
+      "Le Rami Frustration"
+    ],
+    "add": [
+      "Rami Frustration",
+      "Frustration Rummy"
+    ],
+    "remove": [
+      "Le Rami Frustration"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Fourteen-contract rummy related to Progressive and 12-Step Rummy, but its exact contract schedule is distinct. Current alias has a leading article.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-rami-frustration.html",
+      "https://www.pagat.com/rummy/ctrummy.html#progressive"
+    ]
+  },
+  {
+    "slug": "le-rami-machiave",
+    "title": "Le Rami Machiavel",
+    "current_names": [
+      "Le Rami Machiavel"
+    ],
+    "add": [
+      "Rami Machiavel",
+      "Machiavelli",
+      "Machiavelli Rummy"
+    ],
+    "remove": [
+      "Le Rami Machiavel"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Two decks without jokers, thirteen-card hands and unrestricted rearrangement of table melds match Pagat's Italian Machiavelli. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/carousel.html#machiavelli"
+    ]
+  },
+  {
+    "slug": "le-slapjack",
+    "title": "Le Slapjack",
+    "current_names": [
+      "Le Slapjack"
+    ],
+    "add": [
+      "Slapjack",
+      "Slap Jack"
+    ],
+    "remove": [
+      "Le Slapjack"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Players slap only jacks and collect the pile. The existing snap record matches equal ranks instead, so its shared Slapjack alias does not make these duplicates. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/war/slapjack.html#sj1"
+    ]
+  },
+  {
+    "slug": "le-snap-irlandais",
+    "title": "Le Snap Irlandais",
+    "current_names": [
+      "Le Snap Irlandais"
+    ],
+    "add": [
+      "Snap irlandais",
+      "Irish Snap"
+    ],
+    "remove": [
+      "Le Snap Irlandais"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Called ranks, matching and last-to-slap penalties identify Irish Snap, not ordinary Snap or Slapjack. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/war/slapjack.html#sj2"
+    ]
+  },
+  {
+    "slug": "le-tamalou",
+    "title": "Le Tamalou",
+    "current_names": [
+      "Le Tamalou"
+    ],
+    "add": [
+      "Tamalou",
+      "Cabo",
+      "Gabo",
+      "Kobo",
+      "Dutch",
+      "Cambio"
+    ],
+    "remove": [
+      "Le Tamalou"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Four hidden cards, two initial peeks, low-score call, power cards and matching identify the power-card Golf/Cabo family. le-cabo-var has materially different powers and scoring, so it is a related variant rather than a duplicate. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/draw/golf.html#power",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-tamalou.html"
+    ]
+  },
+  {
+    "slug": "le-yami",
+    "title": "Le Yami",
+    "current_names": [
+      "Le Yami"
+    ],
+    "add": [
+      "Yami"
+    ],
+    "remove": [
+      "Le Yami"
+    ],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Max Gerchambeau's scored sixteen-round hybrid of Yahtzee/Yam's, rummy and poker; no established alternative title found. Current alias has a leading article.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-yami.html"
+    ]
+  },
+  {
+    "slug": "les-7-familles",
+    "title": "Les 7 Familles",
+    "current_names": [
+      "Les 7 Familles"
+    ],
+    "add": [
+      "7 familles",
+      "Sept familles",
+      "Jeu des sept familles",
+      "Jeu des 7 familles"
+    ],
+    "remove": [
+      "Les 7 Familles"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "French family-collection game recognized by Pagat as Jeu des Sept Familles. Happy Families is related but uses different family composition and is not treated as an exact alias. Current alias has a leading article.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html#families"
+    ]
+  },
+  {
+    "slug": "litterature",
+    "title": "Littérature",
+    "current_names": [
+      "Littérature"
+    ],
+    "add": [
+      "Literature",
+      "Fish",
+      "Canadian Fish",
+      "Russian Fish"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat explicitly lists the English and North American names for the partnership half-suit game.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/literature.html",
+      "https://en.wikipedia.org/wiki/Literature_(card_game)"
+    ]
+  },
+  {
+    "slug": "marguerite",
+    "title": "Marguerite",
+    "current_names": [
+      "Marguerite"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Custom hidden-card deduction game; no recognized international alternative name found. It should not be conflated with generic missing-card or Cluedo-style games.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/marguerite.html"
+    ]
+  },
+  {
+    "slug": "mustamaija",
+    "title": "Mustamaija",
+    "current_names": [
+      "Mustamaija"
+    ],
+    "add": [
+      "Musta Maija"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Finnish beating game. Black Maria is only a translation/comparison and Pagat explicitly says the British Black Maria game is mechanically different.",
+    "source_urls": [
+      "https://www.pagat.com/beating/mustamaija.html"
+    ]
+  },
+  {
+    "slug": "napoleon",
+    "title": "Napoléon",
+    "current_names": [
+      "Napoleon",
+      "Napoléon"
+    ],
+    "add": [
+      "Nap"
+    ],
+    "remove": [],
+    "duplicate_of": "nap",
+    "confidence": "high",
+    "rationale": "Five-card British trick auction with Two, Three, Misère, Four, Nap, Wellington and Blücher is the same game as existing nap, not Japanese Napoleon.",
+    "source_urls": [
+      "https://www.pagat.com/trumps/nap.html"
+    ]
+  },
+  {
+    "slug": "noddy",
+    "title": "Noddy",
+    "current_names": [
+      "Noddy"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Historical English adding game and precursor of Cribbage; no established alternative title found.",
+    "source_urls": [
+      "https://www.pagat.com/adders/noddy.html",
+      "https://www.parlettgames.uk/histocs/noddy.html"
+    ]
+  },
+  {
+    "slug": "omben",
+    "title": "Omben",
+    "current_names": [
+      "Omben"
+    ],
+    "add": [
+      "Minuman"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat documents Omben as the Javanese name and Minuman as the Indonesian name for this specific Go Fish variant.",
+    "source_urls": [
+      "https://www.pagat.com/quartet/gofish.html#omben"
+    ]
+  },
+  {
+    "slug": "oracle",
+    "title": "Oracle",
+    "current_names": [
+      "Oracle"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Peter Higgins deduction/guessing design; no independently recognized alternative name found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/oracle.html"
+    ]
+  },
+  {
+    "slug": "pasur",
+    "title": "Pâsur",
+    "current_names": [
+      "Pâsur"
+    ],
+    "add": [
+      "Pasur",
+      "Chahâr barg",
+      "Chahar Barg",
+      "Haft khâj",
+      "Haft Khaj",
+      "Yâzdahtâyi",
+      "Yazdahtayi",
+      "Haft va chahâr, yâzdah"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat explicitly documents these Iranian names for the same eleven-sum fishing game; accentless transliterations improve international searchability.",
+    "source_urls": [
+      "https://www.pagat.com/fishing/pasur.html"
+    ]
+  },
+  {
+    "slug": "pig",
+    "title": "Pig",
+    "current_names": [
+      "Pig"
+    ],
+    "add": [
+      "Spoons",
+      "Hog",
+      "Donkey"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Pagat treats Pig and Spoons as closely grouped forms of the same four-of-a-kind passing game and documents Hog and Donkey regionally. Bouchon changes the token and penalty convention, so the existing Bouchon record is not marked as a duplicate.",
+    "source_urls": [
+      "https://www.pagat.com/passing/pig.html"
+    ]
+  },
+  {
+    "slug": "promenade",
+    "title": "Promenade",
+    "current_names": [
+      "Promenade"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Custom card-board race involving fruit cards, a die and pawns; no established alternative title found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-course/promenade.html"
+    ]
+  },
+  {
+    "slug": "q-squared-joe-ng",
+    "title": "Q Squared Joe NG",
+    "current_names": [
+      "Q Squared Joe NG"
+    ],
+    "add": [
+      "Q²J NG",
+      "Q Squared Joe New Game"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "New Game combat design with hands, resources and hidden terrain. Its mechanics differ substantially from both Q Squared Joe and Q Squared Joe War.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/q-squared-joe-ng.html"
+    ]
+  },
+  {
+    "slug": "q-squared-joe-war",
+    "title": "Q Squared Joe War",
+    "current_names": [
+      "Q Squared Joe War"
+    ],
+    "add": [
+      "Q²J War"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Battlefield combat derivative with exploited cards and attacks; mechanically distinct from the classic shedding game and NG version.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/q-squared-joe-war.html"
+    ]
+  },
+  {
+    "slug": "q-squared-joe",
+    "title": "Q Squared Joe",
+    "current_names": [
+      "Q Squared Joe"
+    ],
+    "add": [
+      "Q²J"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "The source explicitly gives Q²J as the abbreviated name. This is a shedding game, unlike its War and NG derivatives.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/q-squared-joe.html"
+    ]
+  },
+  {
+    "slug": "quads",
+    "title": "Quads",
+    "current_names": [
+      "Quads"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Brooke Nicole Shell's simultaneous central-market four-of-a-kind game; no reliable alternative title found. It is not Pig, James Bond or Kemps despite the shared four-of-a-kind objective.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-commerce/quads.html"
+    ]
+  },
+  {
+    "slug": "sab-at-al-deemin",
+    "title": "Sab’at Al-Deemin",
+    "current_names": [
+      "Sab’at Al-Deemin"
+    ],
+    "add": [
+      "Sab'at Al-Deemin",
+      "Sabat Al Deemin",
+      "Seven of Diamonds",
+      "Sept de carreau"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Arabic transliteration variants and literal translations. Although related to Domino/Fan Tan, this Saudi partnership game starts every suit at seven and builds upward only, with distinct scoring.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/sab-at-al-deemin.html"
+    ]
+  },
+  {
+    "slug": "seven-spades",
+    "title": "Seven Spades",
+    "current_names": [
+      "Seven Spades"
+    ],
+    "add": [
+      "Sept Piques"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Johan Wästlund bluff game; Sept Piques is the documented French translation. No broader established alias found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/seven-spades.html"
+    ]
+  },
+  {
+    "slug": "shamus",
+    "title": "Shamus",
+    "current_names": [
+      "Shamus"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Distinct cooperative hybrid assigning Uno-like and Rummy-like roles against a ten-card timer; no recognized alternative name found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-divers/shamus.html"
+    ]
+  },
+  {
+    "slug": "snip-snap-snoru",
+    "title": "Snip Snap Snorum",
+    "current_names": [
+      "Snip Snap Snorum"
+    ],
+    "add": [
+      "Snip Snap Snorem"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Assigned rules use five-card ascending suit sequences. Existing snip-snap-snorem instead uses four equal ranks, so the shared historical name does not establish a duplicate.",
+    "source_urls": [
+      "https://www.pagat.com/stops/snipsnapsnorum.html"
+    ]
+  },
+  {
+    "slug": "spi",
+    "title": "Spit",
+    "current_names": [
+      "Spit"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Five exposed stock piles and simultaneous adjacent-rank play identify Spit. Speed is closely related but uses five-card hands and one stock pile, so it is not added as an exact alias.",
+    "source_urls": [
+      "https://www.pagat.com/patience/spit.html"
+    ]
+  },
+  {
+    "slug": "stortok",
+    "title": "Stortok",
+    "current_names": [
+      "Stortok"
+    ],
+    "add": [
+      "Kjempetosk"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat documents Kjempetosk as the Norwegian equivalent of the Swedish two-trump beating game.",
+    "source_urls": [
+      "https://www.pagat.com/beating/stortok.html"
+    ]
+  },
+  {
+    "slug": "thinkabi",
+    "title": "Thinkabit",
+    "current_names": [
+      "Thinkabit"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Reiner Knizia memory game using five-card poker combinations; no reliable alternative title found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/thinkabit.html"
+    ]
+  },
+  {
+    "slug": "tras",
+    "title": "Trash",
+    "current_names": [
+      "Trash"
+    ],
+    "add": [
+      "Garbage",
+      "Ten"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Pagat explicitly lists Garbage and Ten for the Ace-to-Ten positional layout game.",
+    "source_urls": [
+      "https://www.pagat.com/patience/trash.html"
+    ]
+  },
+  {
+    "slug": "tres-y-dos",
+    "title": "Tres y Dos",
+    "current_names": [
+      "Tres y Dos"
+    ],
+    "add": [
+      "Tres y dos"
+    ],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Recognized Caribbean draw-and-discard game whose exact objective is a full house. Generic Full House is not added because it is not established as the game's name.",
+    "source_urls": [
+      "https://www.pagat.com/rummy/tresydos.html"
+    ]
+  },
+  {
+    "slug": "wizard-due",
+    "title": "Wizard Duel",
+    "current_names": [
+      "Wizard Duel"
+    ],
+    "add": [],
+    "remove": [],
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Modern authored attack-and-defense game with suit-specific defensive effects; no reliable alternative title found.",
+    "source_urls": [
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-combat/wizard-duel.html"
+    ]
+  },
+  {
+    "slug": "le-tour-de-france",
+    "title": "LE TOUR DE FRANCE",
+    "current_names": [
+      "LE TOUR DE FRANCE"
+    ],
+    "add": [
+      "Tour de France"
+    ],
+    "remove": [
+      "LE TOUR DE FRANCE"
+    ],
+    "duplicate_of": null,
+    "confidence": "high",
+    "rationale": "Explicit house rule with ten-centered suit foundations, time scoring and a special fifth round. It resembles stops/foundation games but is not mechanically identical. Current alias is malformed by leading article and all-caps parser output.",
+    "source_urls": []
+  }
+]

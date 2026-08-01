@@ -1,0 +1,1373 @@
+{
+  "version": 1,
+  "duplicates": {
+    "animals": "animaux",
+    "banque": "chien-rouge",
+    "banque-russe": "crapette",
+    "bataille-norvegienne": "shithead",
+    "beigne": "ascenseur",
+    "bog": "poque",
+    "bonjour-monsieur": "allo-jack",
+    "chasse-a-las": "coucou",
+    "chasse-coeur": "coeurs",
+    "cinq-cents": "500",
+    "dame-de-pique": "coeurs",
+    "gin-rami": "gin-rummy",
+    "kilo": "paquet-de-merde",
+    "la-triche": "menteur",
+    "le-7-et-demi": "sept-et-demi",
+    "le-go-fis": "pige-dans-le-lac",
+    "le-kilo-de-merde": "paquet-de-merde",
+    "le-slapjack": "frappe-le-valet",
+    "mariage-chinois": "le-memory",
+    "memoire-collective": "le-memory",
+    "napoleon": "nap",
+    "petite-memoire": "golf",
+    "pig": "bouchon",
+    "polignac": "jeu-de-valets",
+    "rummy-500": "rami-500"
+  },
+  "content_sources": {},
+  "games": {
+    "3-5-7-9": [
+      "Le 3-5-7-9"
+    ],
+    "500": [
+      "Le 500",
+      "Five Hundred",
+      "500",
+      "Cinq Cents",
+      "Le Cinq Cents",
+      "Cinq-Cents"
+    ],
+    "8-americain": [
+      "LE 8 AMÉRICAIN",
+      "8 Américain",
+      "Crazy Eights",
+      "Mau Mau",
+      "Switch",
+      "Le Huit Américain",
+      "Huit américain",
+      "Huit",
+      "Crates",
+      "Swedish Rummy",
+      "Last One",
+      "Rockaway",
+      "Tschausepp",
+      "Pesten"
+    ],
+    "all-fives": [
+      "All Fives"
+    ],
+    "all-fours": [
+      "All Fours",
+      "Old Sledge",
+      "Seven Up",
+      "All Foes"
+    ],
+    "allo-jack": [
+      "Allô Jack !",
+      "Bonjour Monsieur, Bonjour Madame",
+      "Bonjour Monsieur"
+    ],
+    "aluette": [
+      "L'Aluette",
+      "Aluette",
+      "La Vache",
+      "Jeu de la Vache"
+    ],
+    "ambigu": [
+      "L'Ambigu",
+      "Ambigu"
+    ],
+    "anandis": [
+      "Anandis"
+    ],
+    "animaux": [
+      "Les Animaux",
+      "Animals",
+      "Animal Snap",
+      "Barnyard Snap"
+    ],
+    "ascenseur": [
+      "L'Ascenseur",
+      "Oh Hell!",
+      "Elevator",
+      "Up and Down the River",
+      "Oh Pshaw!",
+      "Oh Well!",
+      "Oh Shit!",
+      "Blob",
+      "Blackout",
+      "Contract Whist",
+      "Nomination Whist",
+      "Bust",
+      "La Podrida",
+      "Le Beigne",
+      "Oh Hell"
+    ],
+    "baccara": [
+      "Le Baccara",
+      "Baccara",
+      "Baccarat"
+    ],
+    "barbu": [
+      "Le Barbu",
+      "Barbu"
+    ],
+    "basra": [
+      "Basra",
+      "Assaba-al'-Komi",
+      "Ashush"
+    ],
+    "bassette": [
+      "La Bassette",
+      "Bassette",
+      "Basset"
+    ],
+    "bataille": [
+      "La Bataille",
+      "War",
+      "Battle"
+    ],
+    "bataille-corse": [
+      "La Bataille Corse",
+      "Bataille Corse Tarot",
+      "Egyptian Rat Screw",
+      "Bataille Corse",
+      "Egyptian Ratscrew",
+      "Egyptian Rat Slap"
+    ],
+    "baudet": [
+      "Le Baudet",
+      "Le Petit Cheval"
+    ],
+    "belote": [
+      "La Belote",
+      "Belote"
+    ],
+    "bezique": [
+      "La Bésigue",
+      "Bésigue",
+      "Bézi",
+      "Bézigue",
+      "Bezique",
+      "Besit",
+      "Bezit"
+    ],
+    "big-three": [
+      "Big Three",
+      "Da San",
+      "Dig a Hole",
+      "Wa Keng"
+    ],
+    "black-jack-banquier": [
+      "Black Jack",
+      "Blackjack",
+      "Vingt-et-un",
+      "21",
+      "Twenty-One"
+    ],
+    "blanche-neige": [
+      "Blanche-Neige",
+      "Blanche Neige"
+    ],
+    "boston": [
+      "Le Boston de Nantes",
+      "Boston",
+      "Boston de Nantes",
+      "Le Boston"
+    ],
+    "bouchon": [
+      "Le Bouchon",
+      "Bouchon",
+      "Pig",
+      "Spoons",
+      "Hog",
+      "Donkey"
+    ],
+    "bouillotte": [
+      "La Bouillotte",
+      "Bouillotte"
+    ],
+    "brag": [
+      "Le Brag",
+      "Brag",
+      "Three Card Brag",
+      "Three-Card Brag"
+    ],
+    "brain-drain": [
+      "Brain Drain"
+    ],
+    "brelan": [
+      "Le Brelan",
+      "Berlan",
+      "Brelan"
+    ],
+    "bridge": [
+      "Le Bridge",
+      "Bridge-Contrat",
+      "Contract Bridge",
+      "Bridge",
+      "Bridge de contrat"
+    ],
+    "brusquembille": [
+      "La Brusquembille",
+      "Bruxambille",
+      "Brusquembille"
+    ],
+    "c-q-f-d": [
+      "C.Q.F.D.",
+      "Cartes Qu’il Faut Deviner"
+    ],
+    "camicia": [
+      "Camicia"
+    ],
+    "canasta": [
+      "La Canasta",
+      "Canasta",
+      "Classic Canasta"
+    ],
+    "canasta-chinoise": [
+      "La Canasta Chinoise",
+      "Canasta Chinoise",
+      "Chinese Canasta"
+    ],
+    "candyman": [
+      "Candyman"
+    ],
+    "carotte": [
+      "La Carotte",
+      "Carotte"
+    ],
+    "carte-la-plus-basse": [
+      "La Carte la Plus Basse"
+    ],
+    "carte-svp": [
+      "Carte, s'il vous plaît !"
+    ],
+    "casino": [
+      "Le Cassino",
+      "Casino",
+      "Cassino"
+    ],
+    "charlemagne": [
+      "Le Charlemagne",
+      "Charlemagne"
+    ],
+    "chat": [
+      "Le Chat"
+    ],
+    "chateau-de-cartes": [
+      "Le Château de Cartes",
+      "Château de Cartes"
+    ],
+    "chien-rouge": [
+      "Le Chien Rouge",
+      "Poule à la haute carte",
+      "Red Dog",
+      "Chien Rouge",
+      "High Card Pool",
+      "La Banque",
+      "Shoot"
+    ],
+    "chkobba": [
+      "Chkobba",
+      "Chkouba",
+      "Chkoba",
+      "Scopa tunisienne"
+    ],
+    "cinq-rois": [
+      "Les Cinq Rois",
+      "Cinq-Rois",
+      "Five Crowns"
+    ],
+    "cinquante-plus-moins": [
+      "Cinquante Plus/Moins",
+      "50 Plus/Moins",
+      "Fifty Plus/Minus"
+    ],
+    "clubbed": [
+      "Clubbed"
+    ],
+    "coeurs": [
+      "Les Cœurs",
+      "Chasse-Cœur",
+      "Dame de Pique",
+      "Hearts",
+      "La Bête Noire",
+      "Les Coeurs",
+      "American Hearts",
+      "Black Lady",
+      "Black Lady Hearts",
+      "Discard Hearts",
+      "Rickety Kate",
+      "Le Chasse-Cœur",
+      "Le Chasse Coeur",
+      "La Dame de Pique"
+    ],
+    "color-game": [
+      "Color Game",
+      "Colour Game"
+    ],
+    "colour-blind": [
+      "Colour-blind",
+      "Colour Blind",
+      "Color-blind",
+      "Color Blind"
+    ],
+    "commerce": [
+      "Le Commerce",
+      "Commerce",
+      "Trade and Barter"
+    ],
+    "commere-accom modez-moi": [
+      "Commère, accommodez-moi"
+    ],
+    "conference": [
+      "La Conférence"
+    ],
+    "coucou": [
+      "Le Coucou",
+      "Le Cocu",
+      "Le Her",
+      "Le Malheureux",
+      "Le Pauvre Hère",
+      "Chase the Ace",
+      "Cuckoo",
+      "Ranter Go Round",
+      "Ranter-Go-Round",
+      "Screw Your Neighbor",
+      "La Chasse à l'As",
+      "Chasse à l'As"
+    ],
+    "couillon": [
+      "Le Couillon",
+      "Couillon",
+      "Kujong",
+      "Kwajongen",
+      "Troeven"
+    ],
+    "crapaud": [
+      "Crapaud",
+      "Toad"
+    ],
+    "crapette": [
+      "La Crapette",
+      "Banque Russe",
+      "Crapette Russe",
+      "Russian Bank",
+      "Crapette",
+      "Crapô",
+      "Schikanös-Patience",
+      "Stop",
+      "Streitpatience",
+      "The Wrangle",
+      "Tonj",
+      "Touch",
+      "Tunj",
+      "Zank-Patience",
+      "La Banque Russe",
+      "Tonge",
+      "Tunge"
+    ],
+    "crapette-tarot": [
+      "La Crapette Tarot",
+      "Crapette Tarot"
+    ],
+    "cribbage": [
+      "Le Cribbage",
+      "Crib",
+      "Cribbage"
+    ],
+    "democratie": [
+      "Démocratie",
+      "Democracy"
+    ],
+    "dingo": [
+      "Dingo"
+    ],
+    "dominos": [
+      "Le Domino",
+      "Les Dominos",
+      "Domino"
+    ],
+    "double-solitaire": [
+      "Le Double Solitaire"
+    ],
+    "dourak": [
+      "Dourak",
+      "Durak",
+      "Le Fou",
+      "Дурак",
+      "Fool",
+      "Podkidnoy Durak",
+      "Russian War",
+      "Throw-in Durak"
+    ],
+    "east-wes": [
+      "East-West",
+      "East West"
+    ],
+    "ecarte": [
+      "L'Écarté",
+      "Ecarte"
+    ],
+    "eleusis": [
+      "Éleusis"
+    ],
+    "elimination": [
+      "L'Élimination"
+    ],
+    "enfle": [
+      "L'Enflé",
+      "Enflé",
+      "Farbenjagd",
+      "Rolling Stone",
+      "Schweller"
+    ],
+    "euchre": [
+      "L'Euchre",
+      "Euchre",
+      "Eucre"
+    ],
+    "extravagante-minoune": [
+      "L'Extravagante Minoune"
+    ],
+    "familles": [
+      "Les Familles",
+      "Authors",
+      "Quartett"
+    ],
+    "fan-tan": [
+      "Le Fan Tan",
+      "Domino",
+      "Parlement",
+      "Sept",
+      "Fan Tan",
+      "Card Dominoes",
+      "Fan-Tan",
+      "Sevens"
+    ],
+    "ferme": [
+      "La Ferme"
+    ],
+    "flip": [
+      "Le Flip",
+      "Crapette Rapide",
+      "Lapsit",
+      "Speed",
+      "Flip",
+      "Vitesse"
+    ],
+    "florentin": [
+      "Le Florentin"
+    ],
+    "floune": [
+      "La Floune"
+    ],
+    "football-americain": [
+      "Le Football Américain"
+    ],
+    "fotbo": [
+      "Fotboll",
+      "Football"
+    ],
+    "fouine": [
+      "La Fouine"
+    ],
+    "frappe-le-valet": [
+      "Frappe le Valet",
+      "Slapjack",
+      "Slap Jack",
+      "Le Slapjack"
+    ],
+    "gin-rummy": [
+      "GIN RUMMY",
+      "Le Gin Rummy",
+      "Gin",
+      "Gin Rami",
+      "Gin-Rami",
+      "Le Gin-Rami"
+    ],
+    "golf": [
+      "Golf",
+      "Le Golf",
+      "Four-Card Golf",
+      "Polish Poker",
+      "La Petite Mémoire",
+      "Golf à quatre cartes"
+    ],
+    "hoc": [
+      "Le Hoc",
+      "Hoc",
+      "Hoc Mazarin"
+    ],
+    "horse-race": [
+      "Horse Race"
+    ],
+    "identite": [
+      "Identité",
+      "Identity"
+    ],
+    "imperiale": [
+      "L'Impériale",
+      "Impériale"
+    ],
+    "in-between": [
+      "Le In-Between",
+      "Acey-Deucey",
+      "Between the Sheets",
+      "In-Between",
+      "Red Dog",
+      "Yablon"
+    ],
+    "jeu-de-loo": [
+      "Le Jeu de Loo",
+      "Jeu de Loo",
+      "Lanterloo",
+      "Loo"
+    ],
+    "jeu-de-valets": [
+      "Le Jeu des Valets",
+      "Polignac",
+      "Jeu des Valets",
+      "Le Polignac",
+      "Knaves"
+    ],
+    "jeu-du-roi": [
+      "Le Jeu du Roi",
+      "The King",
+      "King"
+    ],
+    "kalabriasz": [
+      "Le Kalabriasz",
+      "Clabber",
+      "Clob",
+      "Clobber",
+      "Clubby",
+      "Kalabrias",
+      "Kalabriasz",
+      "Klab",
+      "Klaberjass",
+      "Klob",
+      "Bela",
+      "Clobyosh",
+      "Clubiasch",
+      "Klabberjass",
+      "Klaberyass"
+    ],
+    "kilo-de-plomb": [
+      "Le Kilo de Plomb",
+      "Kilo de Plomb"
+    ],
+    "knock-rummy": [
+      "Le Knock-Rummy",
+      "Knock Rummy",
+      "Le Knock Rummy",
+      "Poker Rum"
+    ],
+    "kontsina": [
+      "Kontsina",
+      "Koltsina",
+      "Kolitsina",
+      "Κοντσίνα",
+      "Κολτσίνα",
+      "Κολιτσίνα"
+    ],
+    "la-compliquee": [
+      "La Compliquée"
+    ],
+    "la-famille-coeur": [
+      "La Famille Cœur",
+      "Famille Cœur"
+    ],
+    "la-pomme": [
+      "La Pomme"
+    ],
+    "la-salade-canadienne": [
+      "La Salade Canadienne",
+      "Salade Canadienne",
+      "Grande Salade",
+      "Canadian Salad"
+    ],
+    "la-selective": [
+      "La Sélective"
+    ],
+    "lansquenet": [
+      "Le Lansquenet",
+      "Lansquenet",
+      "Skin"
+    ],
+    "last-one": [
+      "Last One"
+    ],
+    "le-100": [
+      "Le 100",
+      "100",
+      "One Hundred"
+    ],
+    "le-14": [
+      "Le 14",
+      "14",
+      "Fourteen"
+    ],
+    "le-21": [
+      "Le 21",
+      "21",
+      "Stack Cards"
+    ],
+    "le-24": [
+      "Le 24",
+      "24",
+      "Twenty-Four",
+      "24 Game",
+      "Make 24",
+      "Maths24"
+    ],
+    "le-41": [
+      "Le 41",
+      "41",
+      "Empat Satu"
+    ],
+    "le-51-japonais": [
+      "Le 51 Japonais",
+      "51 Japonais",
+      "Goju Ichi"
+    ],
+    "le-7-de-coeur": [
+      "Le 7 de Cœur",
+      "7 de Cœur"
+    ],
+    "le-98": [
+      "Le 98",
+      "98",
+      "Ninety-Eight"
+    ],
+    "le-bingo": [
+      "Le Bingo",
+      "Bingo",
+      "Card Bingo",
+      "Playing-Card Bingo"
+    ],
+    "le-cabo-var": [
+      "Le Cabo",
+      "Cabo"
+    ],
+    "le-cuttle": [
+      "Le Cuttle",
+      "Cuttle",
+      "Cutthroat Cuttle"
+    ],
+    "le-front": [
+      "Le Front"
+    ],
+    "le-generala": [
+      "Le Générala",
+      "Générala"
+    ],
+    "le-go-fish-deluxe": [
+      "Le Go Fish Deluxe",
+      "Go Fish Deluxe",
+      "Australian Fish"
+    ],
+    "le-gops": [
+      "Le Gops",
+      "GOPS",
+      "Goofspiel",
+      "Goofenspiel",
+      "Game of Pure Strategy"
+    ],
+    "le-james-bond": [
+      "Le James Bond",
+      "James Bond",
+      "Atlantis",
+      "Chanhassen",
+      "Lännen nopein"
+    ],
+    "le-kems": [
+      "LE KEM'S",
+      "Kem's",
+      "Kemps",
+      "Kent",
+      "Cash",
+      "Canes",
+      "Carré-Coupé",
+      "Gemsch",
+      "Gämsch"
+    ],
+    "le-killer": [
+      "Le Killer",
+      "Killer",
+      "Assassin",
+      "Wink Murder",
+      "Murder Wink",
+      "Murder in the Dark"
+    ],
+    "le-kings-corners": [
+      "Le Kings Corners",
+      "Kings Corners",
+      "Kings in the Corners",
+      "Kings in the Corner"
+    ],
+    "le-knock-out-whis": [
+      "Le Knock-out Whist",
+      "Knock-out Whist",
+      "Knockout Whist",
+      "Trumps",
+      "Scrounge",
+      "Rat"
+    ],
+    "le-memory": [
+      "Le Memory",
+      "Memory",
+      "Concentration",
+      "Pelmanism",
+      "Shinkei-suijaku",
+      "Le Mariage Chinois",
+      "Mariage Chinois",
+      "Jeu de paires",
+      "La Mémoire Collective"
+    ],
+    "le-memory-cooperatif": [
+      "Le Memory Coopératif",
+      "Memory coopératif",
+      "Cooperative Memory",
+      "Cooperative Concentration"
+    ],
+    "le-neuf": [
+      "Le Neuf",
+      "Neuf"
+    ],
+    "le-poker-squares": [
+      "Le Poker Squares",
+      "Poker Squares",
+      "Poker Solitaire",
+      "Poker Patience"
+    ],
+    "le-rami-contra": [
+      "Le Rami Contrat",
+      "Rami contrat",
+      "Contract Rummy"
+    ],
+    "le-rami-frustration": [
+      "Le Rami Frustration",
+      "Rami Frustration",
+      "Frustration Rummy"
+    ],
+    "le-rami-machiave": [
+      "Le Rami Machiavel",
+      "Rami Machiavel",
+      "Machiavelli",
+      "Machiavelli Rummy"
+    ],
+    "le-snap-irlandais": [
+      "Le Snap Irlandais",
+      "Snap irlandais",
+      "Irish Snap"
+    ],
+    "le-tamalou": [
+      "Le Tamalou",
+      "Tamalou",
+      "Cabo",
+      "Gabo",
+      "Kobo",
+      "Dutch",
+      "Cambio"
+    ],
+    "le-tour-de-france": [
+      "LE TOUR DE FRANCE",
+      "Tour de France"
+    ],
+    "le-vicaire": [
+      "Le Vicaire"
+    ],
+    "le-yami": [
+      "Le Yami",
+      "Yami"
+    ],
+    "lechange": [
+      "L'Échange"
+    ],
+    "les-7-familles": [
+      "Les 7 Familles",
+      "7 familles",
+      "Sept familles",
+      "Jeu des sept familles",
+      "Jeu des 7 familles"
+    ],
+    "litterature": [
+      "Littérature",
+      "Literature",
+      "Fish",
+      "Canadian Fish",
+      "Russian Fish"
+    ],
+    "loterie": [
+      "La Loterie"
+    ],
+    "macao": [
+      "Le Macao",
+      "Macao",
+      "Macco"
+    ],
+    "mafia": [
+      "Mafia",
+      "Loup-Garou",
+      "Werewolf"
+    ],
+    "manille": [
+      "La Manille",
+      "Manille"
+    ],
+    "marguerite": [
+      "Marguerite"
+    ],
+    "mariage": [
+      "Le Mariage",
+      "Briscan",
+      "Brisque",
+      "Mariage"
+    ],
+    "marjolet": [
+      "Le Marjolet",
+      "Marjolet"
+    ],
+    "may-i": [
+      "Le « May I? »",
+      "May I?",
+      "Puis-je ?",
+      "May-I?"
+    ],
+    "memoire-a-lepreuve": [
+      "La Mémoire à l'Épreuve"
+    ],
+    "menteur": [
+      "Le Menteur",
+      "I Doubt It",
+      "J'en doute",
+      "Bullshit",
+      "Cheat",
+      "La Triche",
+      "Triche"
+    ],
+    "michigan": [
+      "Le Michigan",
+      "Boodle",
+      "Chicago",
+      "Newmarket",
+      "Saratoga",
+      "Stops",
+      "Michigan"
+    ],
+    "mille": [
+      "Le Mille"
+    ],
+    "minoune": [
+      "La Minoune"
+    ],
+    "mitaine": [
+      "La Mitaine"
+    ],
+    "motz": [
+      "Le Motz"
+    ],
+    "mouche": [
+      "La Mouche",
+      "Bête",
+      "Lanturlu",
+      "Mistigri",
+      "Pamphile"
+    ],
+    "mustamaija": [
+      "Mustamaija",
+      "Musta Maija"
+    ],
+    "nain-jaune": [
+      "Le Nain Jaune",
+      "Lindor",
+      "Nain Jaune",
+      "Yellow Dwarf"
+    ],
+    "nap": [
+      "Le Nap",
+      "Nap",
+      "Napoléon"
+    ],
+    "neuf-a-deux": [
+      "Le Neuf à Deux",
+      "Neuf à Deux",
+      "Nine to Zero"
+    ],
+    "neuf-a-quatre": [
+      "Le Neuf à Quatre",
+      "Neuf à Quatre"
+    ],
+    "neuf-a-trois": [
+      "Le Neuf à Trois",
+      "Neuf à Trois"
+    ],
+    "nigaud": [
+      "Le Nigaud",
+      "La Longue Patience"
+    ],
+    "noddy": [
+      "Noddy"
+    ],
+    "omben": [
+      "Omben",
+      "Minuman"
+    ],
+    "oracle": [
+      "Oracle"
+    ],
+    "papesse-jeanne": [
+      "La Papesse Jeanne",
+      "Jeu de la Papesse",
+      "Pope",
+      "Pope Joan"
+    ],
+    "papillon": [
+      "Le Papillon",
+      "Papillon"
+    ],
+    "paquet-de-merde": [
+      "Le Paquet de Merde",
+      "Paquet de Merde",
+      "Kilo de Merde",
+      "Le Kilo",
+      "Kilo",
+      "Le Kilo de merde"
+    ],
+    "paquet-voleur": [
+      "Le Paquet Voleur",
+      "Casita Robada",
+      "Rubamazzo",
+      "Steal Pile",
+      "Steal the Old Man's Bundle",
+      "Steal the Old Man's Pack",
+      "Stealing Bundles"
+    ],
+    "pasur": [
+      "Pâsur",
+      "Chahâr barg",
+      "Haft khâj",
+      "Yâzdahtâyi",
+      "Haft va chahâr, yâzdah"
+    ],
+    "petite-ecole": [
+      "La Petite École"
+    ],
+    "petits-paquets": [
+      "Les Petits Paquets"
+    ],
+    "pharaon": [
+      "Le Pharaon",
+      "Faro",
+      "Faro Bank",
+      "Pharaoh",
+      "Pharaon",
+      "Pharo"
+    ],
+    "pige-dans-le-lac": [
+      "Pige dans le lac",
+      "Fish",
+      "Go Fish",
+      "Pêche",
+      "Le Go Fish"
+    ],
+    "ping-pong": [
+      "Le Ping-Pong"
+    ],
+    "pinochle": [
+      "Le Pinochle",
+      "Pinochle à l'américaine",
+      "Pinocle",
+      "Penuchle",
+      "Pinochle"
+    ],
+    "pique": [
+      "Le Pique",
+      "Atout Pique",
+      "Pique",
+      "Spades"
+    ],
+    "piquet": [
+      "Le Piquet",
+      "Piquet",
+      "Rubicon Piquet"
+    ],
+    "plus-d-atouts": [
+      "Le Plus-d'Atouts",
+      "Plus-d'Atouts"
+    ],
+    "poker": [
+      "Le Poker",
+      "Draw Poker",
+      "Poker",
+      "Poker fermé",
+      "Five-Card Draw",
+      "Five Card Draw",
+      "Poker à cinq cartes"
+    ],
+    "poker-menteur": [
+      "Le Poker Menteur",
+      "Poker Menteur"
+    ],
+    "politaine": [
+      "La Politaine"
+    ],
+    "poque": [
+      "Le Poque",
+      "Bock",
+      "Bog",
+      "Poch",
+      "Pochen",
+      "Pochspiel",
+      "Poque",
+      "Le Bog",
+      "Bocken"
+    ],
+    "pot": [
+      "Le Pot"
+    ],
+    "pouilleux": [
+      "Le Pouilleux",
+      "La Sorcière",
+      "La Vieille",
+      "La Vieille Fille",
+      "Old Maid",
+      "Black Peter",
+      "Papaz Kaçtı",
+      "Schwarzer Peter",
+      "Vieux Garçon"
+    ],
+    "poule-3-cartes": [
+      "La Poule à 3 Cartes",
+      "Poule à 3 Cartes"
+    ],
+    "poule-5-cartes": [
+      "La Poule à 5 Cartes",
+      "Poule à 5 Cartes"
+    ],
+    "preference": [
+      "La Préférence",
+      "Préférence",
+      "Austrian Preference"
+    ],
+    "president": [
+      "Le Président",
+      "Asshole",
+      "Scum",
+      "Trou du Cul",
+      "President",
+      "Trouduc",
+      "Arsehole",
+      "Rich Man Poor Man",
+      "Bum",
+      "Capitalism"
+    ],
+    "promenade": [
+      "Promenade"
+    ],
+    "puits": [
+      "Le Puits"
+    ],
+    "q-squared-joe": [
+      "Q Squared Joe",
+      "Q²J"
+    ],
+    "q-squared-joe-ng": [
+      "Q Squared Joe NG",
+      "Q²J NG",
+      "Q Squared Joe New Game"
+    ],
+    "q-squared-joe-war": [
+      "Q Squared Joe War",
+      "Q²J War"
+    ],
+    "quads": [
+      "Quads"
+    ],
+    "quarante-cinq": [
+      "Le Quarante-Cinq",
+      "45",
+      "Forty-Five",
+      "Forty-Fives",
+      "45s"
+    ],
+    "quatre-quatorze": [
+      "Le Quatre-Quatorze",
+      "4-14",
+      "Quatre-Quatorze"
+    ],
+    "quatre-vingt-dix-neuf": [
+      "Le Quatre-Vingt-Dix-Neuf",
+      "99",
+      "Quatre-Vingt-Dix-Neuf",
+      "Ninety-Nine"
+    ],
+    "quit": [
+      "Le Quit",
+      "Quit"
+    ],
+    "rami": [
+      "Le Rami",
+      "Rum",
+      "Rummy",
+      "Rami",
+      "Basic Rummy",
+      "Straight Rummy",
+      "Traditional Rummy"
+    ],
+    "rami-500": [
+      "RAMI 500",
+      "Rummy 500",
+      "500 Rummy",
+      "500 Rum",
+      "Rum 500",
+      "Pinochle Rummy",
+      "Le Rummy 500",
+      "Rum Michigan"
+    ],
+    "rams": [
+      "Le Rams",
+      "Rams",
+      "Rammes",
+      "Ramsch",
+      "Ramscheln"
+    ],
+    "regicide": [
+      "Régicide"
+    ],
+    "reussite": [
+      "La Réussite",
+      "Patience",
+      "Réussite",
+      "Solitaire",
+      "Card Solitaire"
+    ],
+    "reversi": [
+      "Le Reversi",
+      "Reversis",
+      "Réversi",
+      "Reversin",
+      "Reversy"
+    ],
+    "roi-et-son-epee": [
+      "Le Roi et son Épée"
+    ],
+    "rouge-contre-noir": [
+      "Le Rouge contre le Noir"
+    ],
+    "rummy-baltimore": [
+      "Le Rummy Baltimore",
+      "Baltimore",
+      "Rummy Baltimore",
+      "Baltimore Rummy"
+    ],
+    "sab-at-al-deemin": [
+      "Sab’at Al-Deemin",
+      "Sabat Al Deemin",
+      "Seven of Diamonds",
+      "Sept de carreau"
+    ],
+    "salade": [
+      "La Salade",
+      "Salade"
+    ],
+    "sans-coeur": [
+      "Le Sans-Cœur",
+      "Sans-Cœur"
+    ],
+    "scopa": [
+      "La Scopa",
+      "Scopa"
+    ],
+    "sept-et-demi": [
+      "Le Sept et Demi",
+      "Le Sept-et-Demi",
+      "Sette e Mezzo",
+      "Sept et demi",
+      "Seven and a Half",
+      "Seven-and-a-Half",
+      "Siete y Media",
+      "Le 7½",
+      "7½",
+      "Sept-et-Demi",
+      "Sete e Meio"
+    ],
+    "sept-vingt-sept": [
+      "Le Sept-Vingt-Sept",
+      "7-27",
+      "Sept-Vingt-Sept"
+    ],
+    "seven-spades": [
+      "Seven Spades",
+      "Sept Piques"
+    ],
+    "shamus": [
+      "Shamus"
+    ],
+    "shithead": [
+      "Shithead",
+      "Karma",
+      "Palace",
+      "China Hand",
+      "Ten-Two Slide",
+      "Smeghead",
+      "Bataille Norvégienne"
+    ],
+    "sixte": [
+      "La Sixte",
+      "Sixte"
+    ],
+    "skat": [
+      "Le Skat",
+      "Skat"
+    ],
+    "skyjo": [
+      "Le Skyjo",
+      "Skyjo"
+    ],
+    "snap": [
+      "Snap"
+    ],
+    "snip-snap-snorem": [
+      "Snip Snap Snorem",
+      "Snip Snap Snorum",
+      "Snip Snap Snore 'Em"
+    ],
+    "snip-snap-snoru": [
+      "Snip Snap Snorum",
+      "Snip Snap Snorem"
+    ],
+    "solitaire-a-deux": [
+      "Le Solitaire à Deux",
+      "Double Solitaire",
+      "Solitaire à Deux",
+      "Simultaneous Solitaire"
+    ],
+    "spi": [
+      "Spit"
+    ],
+    "stortok": [
+      "Stortok",
+      "Kjempetosk"
+    ],
+    "stud-5-cartes": [
+      "Stud à 5 Cartes",
+      "Five Card Stud",
+      "Five-Card Stud",
+      "Five Card Stud Poker",
+      "Stud poker à cinq cartes"
+    ],
+    "stud-7-cartes": [
+      "Stud à 7 Cartes",
+      "Seven Card Stud",
+      "Seven-Card Stud",
+      "Seven Card Stud Poker",
+      "Stud poker à sept cartes"
+    ],
+    "tarot": [
+      "Le Tarot",
+      "Tarot",
+      "Tarot français",
+      "French Tarot",
+      "Jeu de Tarot"
+    ],
+    "tennis-cartes": [
+      "Le Tennis",
+      "Tennis"
+    ],
+    "thinkabi": [
+      "Thinkabit"
+    ],
+    "tontine": [
+      "La Tontine",
+      "Tontine"
+    ],
+    "tras": [
+      "Trash",
+      "Garbage",
+      "Ten"
+    ],
+    "treize": [
+      "Le Jeu du Treize",
+      "Le Treize",
+      "Jeu du Treize",
+      "Treize"
+    ],
+    "treize-quebecois": [
+      "Le Treize",
+      "Treize québécois",
+      "Le Treize (Québec)"
+    ],
+    "trente-et-quarante": [
+      "Le Trente-et-Quarante",
+      "Trente et Quarante",
+      "Trente-et-Quarante",
+      "Thirty and Forty",
+      "Rouge et Noir"
+    ],
+    "trente-et-un": [
+      "Le Trente-et-Un",
+      "Trente-et-Un",
+      "Le Trente et Un",
+      "Trente et un",
+      "Thirty-One"
+    ],
+    "tres-y-dos": [
+      "Tres y Dos"
+    ],
+    "triomphe": [
+      "La Triomphe",
+      "Triomphe",
+      "Triumph",
+      "French Ruff",
+      "Trump"
+    ],
+    "valet-de-trefle": [
+      "Le Valet de Trèfle"
+    ],
+    "vingt-et-un": [
+      "Le Vingt-et-un",
+      "21",
+      "Vingt-et-Un",
+      "Le Vingt et Un",
+      "Vingt et un",
+      "Twenty-One"
+    ],
+    "vive-la-joie": [
+      "Vive la Joie",
+      "Dernier Valet"
+    ],
+    "whip": [
+      "Le Whip",
+      "Whip"
+    ],
+    "whist": [
+      "Le Whist",
+      "Whist simple",
+      "Whist"
+    ],
+    "whist-a-la-couleur": [
+      "Le Whist à la Couleur",
+      "Whist à la couleur",
+      "Colour Whist",
+      "Color Whist"
+    ],
+    "wizard-due": [
+      "Wizard Duel"
+    ],
+    "yaniv": [
+      "Yaniv",
+      "Main Verte",
+      "Yanoff",
+      "Jhyap",
+      "Dhumbal",
+      "Dumbal",
+      "Kluft"
+    ]
+  }
+}
