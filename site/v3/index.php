@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.25';
+const VERSION = '2026.08.26';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -786,6 +786,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     $_ss = Vault::db()->prepare('SELECT url FROM game_sources WHERE slug=? ORDER BY url');
     $_ss->execute([$g['slug']]);
     $sources = $_ss->fetchAll(PDO::FETCH_COLUMN);
+    $imageCredit = Vault::catalog()['image_credits'][$g['slug']] ?? null;
     if ($related) {
       $slugs = array_column($related, 'rslug');
       $titles = Vault::db()->prepare("SELECT slug, title FROM games WHERE slug IN (" . implode(',', array_fill(0, count($slugs), '?')) . ")");
@@ -803,7 +804,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
       <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
-      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" data-fallback="<?= e(hero_photo($g)) ?>" alt="Illustration de cartes pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
+      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" data-fallback="<?= e(hero_photo($g)) ?>" alt="Visuel pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
       <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> / MISTIGRI<?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <?php if ($altNames): ?>
@@ -840,10 +841,10 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     <?php endif; ?>
     <h2 class="rules-title">Règles détaillées</h2>
     <div class="rules"><?= md2html($md) ?></div>
-    <?php if ($sources): ?>
+    <?php if ($sources || $imageCredit): ?>
     <div class="reader-sources">
       <h2 class="related__title">Sources</h2>
-      <div class="source-list"><?php foreach ($sources as $_source): ?><a href="<?= e($_source) ?>" target="_blank" rel="noopener noreferrer"><?= e(preg_replace('/^www\./', '', (string)parse_url($_source, PHP_URL_HOST))) ?></a><?php endforeach; ?></div>
+      <div class="source-list"><?php foreach ($sources as $_source): ?><a href="<?= e($_source) ?>" target="_blank" rel="noopener noreferrer"><?= e(preg_replace('/^www\./', '', (string)parse_url($_source, PHP_URL_HOST))) ?></a><?php endforeach; ?><?php if ($imageCredit): ?><a href="<?= e($imageCredit['url']) ?>" target="_blank" rel="noopener noreferrer">Photo : <?= e($imageCredit['author']) ?> · <?= e($imageCredit['license']) ?></a><?php endif; ?></div>
     </div>
     <?php endif; ?>
     <?php if ($related): ?>

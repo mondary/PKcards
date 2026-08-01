@@ -2159,6 +2159,58 @@
     "wizard-due": "images/games/wizard-due.webp",
     "yaniv": "images/games/yaniv.webp"
   },
+  "image_credits": {
+    "all-fives": {
+      "author": "Sudzie",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Playing_Cards_-_number_fives.jpg"
+    },
+    "all-fours": {
+      "author": "Matthew Ramnath",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Allfourssetup.jpg"
+    },
+    "allo-jack": {
+      "author": "James Cridland",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Old_Bakelite_telephone,_Fenton_House_2011-04-03.jpg"
+    },
+    "anandis": {
+      "author": "Auteurs divers",
+      "license": "Domaine public",
+      "url": "https://commons.wikimedia.org/wiki/File:True_Detective_Mysteries_1927-12.pdf"
+    },
+    "animals": {
+      "author": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:012_Wild_Chamois_Riederalp_Photo_by_Giles_Laurent.jpg"
+    },
+    "basra": {
+      "author": "Aziz1005",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Basra-Shatt-Al-Arab.jpg"
+    },
+    "big-three": {
+      "author": "Rosan Harmens",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Three_mountain_peaks_(Unsplash).jpg"
+    },
+    "black-jack-banquier": {
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG"
+    },
+    "blanche-neige": {
+      "author": "455992",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Snow-white-913740_1280.jpg"
+    },
+    "bonjour-monsieur": {
+      "author": "State Library of Queensland",
+      "license": "Aucune restriction connue",
+      "url": "https://commons.wikimedia.org/wiki/File:Tea_on_the_verandah_of_a_Mount_Nutt_home,_Bowen,_Queensland,_ca._1900-1910_(5141945740).jpg"
+    }
+  },
   "sources": {
     "500": [
       "https://www.pagat.com/euchre/500.html"
