@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.11';
+const VERSION = '2026.08.12';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -296,9 +296,9 @@ class Vault {
   static function games(array $o = []): array {
     $top = !empty($o['top']);
     if ($top) {
-      $sql = 'SELECT g.*, v.count AS votes
-              FROM games g JOIN votes v ON v.game_id = g.slug
-              WHERE v.count > 0 ORDER BY v.count DESC, g.title ASC';
+      $sql = 'SELECT g.*, COALESCE(v.count, 0) AS votes
+              FROM games g LEFT JOIN votes v ON v.game_id = g.slug
+              ORDER BY votes DESC, g.title ASC';
       $st = self::db()->prepare($sql . (isset($o['limit']) ? ' LIMIT ' . (int)$o['limit'] : ''));
       $st->execute([]);
       return $st->fetchAll();
