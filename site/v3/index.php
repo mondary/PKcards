@@ -548,7 +548,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
  .iconbtn:hover{color:var(--gold);border-color:var(--gold);transform:translateY(-2px)}
  .search input{background:var(--bg-deep);border-color:var(--border);color:var(--text);border-radius:12px;box-shadow:inset 0 1px rgba(255,255,255,.03)}
  .search input:focus{border-color:var(--gold);background:#232638;box-shadow:0 0 0 3px rgba(202,158,230,.14)}
- .search input::placeholder{color:#838baa}
+  .search input::placeholder{color:#838baa}
+  body.searching .hero{display:none}
  .chip{border-radius:9px;background:rgba(255,255,255,.035);border-color:var(--border);color:var(--muted)}
  .chip--active{background:var(--gold);border-color:var(--gold);color:#232638}
  .hero{max-width:1440px;margin:0 auto;min-height:min(580px,72dvh);padding:clamp(70px,10vw,150px) clamp(18px,7vw,120px) clamp(46px,7vw,86px);display:flex;align-items:flex-end;position:relative;overflow:hidden;border-bottom:1px solid var(--border)}
@@ -812,7 +813,16 @@ function applyFilter(){
   if(countLineEl) countLineEl.textContent = shown + (shown > 1 ? ' jeux' : ' jeu');
   if(emptyState) emptyState.hidden = shown !== 0;
 }
-if(searchInputEl) searchInputEl.addEventListener('input', applyFilter);
+if(searchInputEl){
+  searchInputEl.addEventListener('input', applyFilter);
+  searchInputEl.addEventListener('focus', ()=>{
+    document.body.classList.add('searching');
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+  searchInputEl.addEventListener('blur', ()=>{
+    if(!searchInputEl.value.trim()) document.body.classList.remove('searching');
+  });
+}
 if(chipsEl) chipsEl.addEventListener('click', e=>{
   const c = e.target.closest('.chip'); if(!c) return;
   activeCat = c.dataset.cat || '';
