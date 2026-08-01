@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.13';
+const VERSION = '2026.08.14';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -33,6 +33,10 @@ class Vault {
       PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
       PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
     ]);
+    $pdo->sqliteCreateFunction('sort_key', static function ($value) {
+      $ascii = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', mb_strtolower((string)$value)) ?: (string)$value;
+      return trim(preg_replace('/[^a-z0-9]+/', ' ', $ascii));
+    }, 1);
     $pdo->exec('PRAGMA journal_mode=WAL');
     $pdo->exec('PRAGMA foreign_keys=ON');
     $pdo->exec('CREATE TABLE IF NOT EXISTS games(
@@ -298,7 +302,7 @@ class Vault {
     if ($top) {
       $sql = 'SELECT g.*, COALESCE(v.count, 0) AS votes
               FROM games g LEFT JOIN votes v ON v.game_id = g.slug
-              ORDER BY votes DESC, g.title ASC';
+              ORDER BY votes DESC, sort_key(g.title) ASC';
       $st = self::db()->prepare($sql . (isset($o['limit']) ? ' LIMIT ' . (int)$o['limit'] : ''));
       $st->execute([]);
       return $st->fetchAll();
@@ -312,7 +316,7 @@ class Vault {
     }
     $sql = 'SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games';
     if ($w) $sql .= ' WHERE ' . implode(' AND ', $w);
-    $sql .= ' ORDER BY sort ASC';
+    $sql .= ' ORDER BY sort_key(title) ASC';
     if (isset($o['limit'])) $sql .= ' LIMIT ' . (int)$o['limit'];
     $st = self::db()->prepare($sql); $st->execute($a);
     return $st->fetchAll();
@@ -418,6 +422,12 @@ function hero_photo(array $g): string {
   $set = str_contains($type, 'patience') ? 'solo' : (str_contains($type, 'tarot') ? 'tarot' : (str_contains($type, 'hasard') || str_contains($type, 'enchères') ? 'poker' : 'general'));
   $images = $photos[$set];
   return $images[abs(crc32((string)$g['slug'])) % count($images)];
+}
+
+function game_photo(array $g): string {
+  $image = (string)($g['image'] ?? '');
+  if (str_starts_with($image, 'http')) return $image;
+  return $image !== '' ? '?img=' . urlencode($image) : hero_photo($g);
 }
 
 /** Markdown → HTML (taille raisonnable : titres, gras, listes, tables, hr, emoji ok/no). */
@@ -543,7 +553,7 @@ function chip_active(string $a, string $b): string { return $a === $b ? 'chip--a
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23151515'/%3E%3Cpath d='M8 43 55 20l2 11L10 53Z' fill='%23ff3d9a'/%3E%3Ctext x='32' y='39' text-anchor='middle' font-family='Arial' font-size='24' font-weight='900' fill='white'%3EPK%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=DM+Mono:wght@400;500&family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@300;400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Outfit:wght@400;500;600;700&family=Paytone+One&family=Permanent+Marker&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Cherry+Bomb+One&family=DM+Mono:wght@400;500&family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@300;400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Outfit:wght@400;500;600;700&family=Paytone+One&family=Permanent+Marker&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script>try{document.documentElement.dataset.theme=localStorage.getItem('pk_theme')||'cat'}catch(e){}</script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -558,15 +568,15 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .iconbtn{position:relative;padding:8px 10px;border:0;border-radius:4px;background:transparent;color:#fff;font:600 .72rem var(--mono);text-transform:uppercase;transition:background .15s,color .15s}.iconbtn:hover{background:var(--yellow);color:var(--ink)}.dot{margin-left:4px;color:var(--yellow)}
 .theme-switch{display:flex;gap:3px}.theme-switch button{min-height:34px;padding:0 8px;border:0;border-radius:3px;background:rgba(255,255,255,.08);color:inherit;font:700 .58rem var(--mono)}.theme-switch button[aria-pressed="true"]{background:var(--pink);color:var(--ink)}.theme-select{display:none}
 
-.launcher{position:relative;width:100%;max-width:1440px;margin:auto;padding:clamp(56px,8vw,118px) clamp(18px,4vw,64px) 56px;color:var(--ink);display:grid;grid-template-columns:minmax(250px,.72fr) minmax(320px,1.28fr);column-gap:clamp(48px,8vw,140px);align-items:end}.launcher>*{min-width:0}.launcher::after{content:'CHOISIS. JOUE.';position:absolute;left:33%;top:18%;padding:4px 10px;background:var(--yellow);font:clamp(1rem,2vw,1.7rem) var(--marker);transform:rotate(-6deg)}
+.launcher{position:relative;width:100%;max-width:1440px;margin:auto;padding:clamp(56px,8vw,118px) clamp(18px,4vw,64px) 56px;color:var(--ink);display:grid;grid-template-columns:minmax(250px,.72fr) minmax(320px,1.28fr);column-gap:clamp(48px,8vw,140px);align-items:end}.launcher>*{min-width:0}.launcher::after{content:'CHOISIS. JOUE.';position:absolute;left:33%;top:18%;padding:4px 10px;background:var(--yellow);font:clamp(1rem,2vw,1.7rem) var(--marker);transform:rotate(-6deg)}.launcher--family{min-height:68vh;overflow:hidden;isolation:isolate}.launcher--family>*:not(.launcher__family-image){position:relative;z-index:1}.launcher__family-image{position:absolute;z-index:0;inset:0 0 0 auto;width:68%;height:100%;object-fit:cover;opacity:.68;-webkit-mask-image:linear-gradient(90deg,transparent 0,#000 38%);mask-image:linear-gradient(90deg,transparent 0,#000 38%)}
 .launcher__intro{grid-row:span 3}.launcher .eyebrow{color:var(--blue);font-weight:700}.launcher h1{margin-top:16px;max-width:650px;font:400 clamp(4.2rem,9vw,9rem)/.78 var(--display);text-transform:uppercase;text-shadow:5px 5px 0 var(--pink),10px 10px 0 var(--blue);text-wrap:balance}.launcher__intro>p:last-child,.top-intro{max-width:430px;margin-top:38px;color:var(--muted);font-size:.96rem;line-height:1.65;text-wrap:pretty}
 .search{position:relative}.search label{display:block;margin-bottom:10px;color:var(--ink);font:700 .66rem var(--mono);text-transform:uppercase}.search input{width:100%;height:70px;padding:0 62px 0 20px;border:3px solid var(--ink);border-radius:3px;background:var(--surface);color:var(--ink);box-shadow:8px 8px 0 var(--blue);font-size:clamp(1rem,2vw,1.25rem);outline:none}.search input:focus{box-shadow:8px 8px 0 var(--pink)}.search input::placeholder{color:#83817c}.search__key{position:absolute;right:18px;bottom:24px;color:var(--muted);font:.7rem var(--mono)}
 .launcher__actions{display:flex;gap:24px;align-items:center;margin-top:24px;font:700 .7rem var(--mono);text-transform:uppercase}.random{padding:13px 17px;border:3px solid var(--ink);border-radius:3px;background:var(--pink);color:var(--ink);box-shadow:4px 4px 0 var(--ink);font:inherit;text-transform:inherit}.random:active{transform:translate(2px,2px);box-shadow:2px 2px 0 var(--ink)}.launcher__actions a{color:var(--ink);text-decoration:underline;text-decoration-thickness:3px;text-decoration-color:var(--blue)}
 .chips{grid-column:2;display:flex;gap:8px;margin-top:32px;overflow-x:auto;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{flex:none;padding:9px 12px;border:0;border-radius:3px;background:var(--soft);color:var(--ink);font:700 .64rem var(--mono);text-transform:uppercase}.chip:nth-child(2){background:#ffb5d5}.chip:nth-child(3){background:#aebcff}.chip:nth-child(4){background:#9ff0c8}.chip:nth-child(5){background:#f5e984}.chip span{margin-left:5px;opacity:.65}.chip--active{background:var(--ink)!important;color:#fff}.chip--active span{color:#fff}
 
 .section-head,.list,.families{max-width:1440px;margin:auto}.section-head{display:flex;justify-content:space-between;padding:54px clamp(18px,4vw,64px) 18px}.section-head .eyebrow{display:inline-block;padding:4px 8px;background:var(--yellow);color:var(--ink);font-weight:700;transform:rotate(-1deg)}.count-line{color:var(--muted);font-variant-numeric:tabular-nums}
-.list{padding:0 clamp(10px,3.4vw,52px) 96px}.game{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;min-height:108px;padding:0 12px;border-radius:4px;transition:background .15s,color .15s}.game:nth-child(4n+1):hover{background:var(--pink)}.game:nth-child(4n+2):hover{background:var(--blue);color:#fff}.game:nth-child(4n+3):hover{background:var(--yellow)}.game:nth-child(4n):hover{background:var(--mint)}.game__index{font:700 .76rem var(--mono);color:var(--blue);font-variant-numeric:tabular-nums}.game__main{min-width:0;padding:18px 12px}.game__title{display:block;font-size:clamp(1.35rem,2.2vw,1.75rem);font-weight:700}.game__sub,.game__meta{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.game__sub{margin-top:6px;color:var(--muted);font:.82rem var(--mono)}.game__meta{margin-top:8px;color:var(--muted);font-size:.8rem}.game:hover .game__sub,.game:hover .game__meta{color:inherit}.game__fav{min-width:52px;min-height:46px;border:0;border-radius:3px;background:transparent;color:inherit;font:700 .72rem var(--mono);text-transform:uppercase}.game__fav:hover,.game__fav.on{background:var(--ink);color:var(--yellow)}
-.families{padding:28px clamp(18px,4vw,64px) 120px}.families__title{margin-bottom:38px;font:2.4rem var(--display);text-transform:uppercase}.families__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px 48px}.family{display:flex;align-items:center;justify-content:space-between;min-width:0;padding:18px 0;border-top:1px solid var(--line)}.family__name{display:inline-block;padding:5px 9px;background:var(--pink);font:700 .72rem var(--mono);text-transform:uppercase;transform:rotate(-2deg)}.family__name::after{content:' →';margin-left:6px}.family strong{color:var(--muted);font:500 .68rem var(--mono);white-space:nowrap}.family:nth-child(2) .family__name{background:var(--blue);color:#fff;transform:rotate(2deg)}.family:nth-child(3) .family__name{background:var(--yellow)}.family:hover .family__name{background:var(--ink);color:var(--paper);transform:none}
+.list{padding:0 clamp(10px,3.4vw,52px) 96px}.game{display:grid;grid-template-columns:112px 56px minmax(0,1fr) auto;align-items:center;min-height:108px;padding:8px 12px;border-radius:4px;overflow:hidden;transition:background .15s,color .15s}.game__image{width:100%;height:84px;border-radius:3px;object-fit:cover;background:var(--soft)}.game:nth-child(4n+1):hover{background:var(--pink)}.game:nth-child(4n+2):hover{background:var(--blue);color:#fff}.game:nth-child(4n+3):hover{background:var(--yellow)}.game:nth-child(4n):hover{background:var(--mint)}.game__index{font:700 .76rem var(--mono);color:var(--blue);font-variant-numeric:tabular-nums}.game__main{min-width:0;padding:18px 12px}.game__title{display:block;font-size:clamp(1.35rem,2.2vw,1.75rem);font-weight:700}.game__sub,.game__meta{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.game__sub{margin-top:6px;color:var(--muted);font:.82rem var(--mono)}.game__meta{margin-top:8px;color:var(--muted);font-size:.8rem}.game:hover .game__sub,.game:hover .game__meta{color:inherit}.game__fav{min-width:52px;min-height:46px;border:0;border-radius:3px;background:transparent;color:inherit;font:700 .72rem var(--mono);text-transform:uppercase}.game__fav:hover,.game__fav.on{background:var(--ink);color:var(--yellow)}
+.families{padding:28px clamp(18px,4vw,64px) 120px}.families__title{margin-bottom:38px;font:2.4rem var(--display);text-transform:uppercase}.families__grid{display:grid;grid-template-columns:repeat(12,1fr);grid-auto-flow:dense;gap:14px}.family{position:relative;grid-column:span 4;min-width:0;min-height:260px;overflow:hidden;border-radius:4px;background:#111;color:#fff}.family:nth-child(8n+1),.family:nth-child(8n+2){grid-column:span 6}.family__image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .2s}.family__content{position:absolute;inset:auto 0 0;display:flex;align-items:end;justify-content:space-between;gap:20px;padding:70px 20px 20px;background:linear-gradient(transparent,rgba(0,0,0,.88))}.family__visual-title{font:400 clamp(1.8rem,3vw,3rem)/.9 var(--display);text-transform:uppercase}.family__visual-title::after{content:' →'}.family__count{font:600 .62rem var(--mono);text-align:right;text-transform:uppercase}.family:hover .family__image{transform:scale(1.04)}
 .empty{padding:72px 18px;text-align:center;color:var(--muted)}.empty h2{margin-bottom:8px;color:var(--ink)}
 
 .reader{display:grid;grid-template-columns:minmax(380px,42vw) minmax(0,1fr);min-height:100dvh;background:var(--paper)}.bar{position:fixed;z-index:20;top:0;left:0;width:42vw;display:flex;justify-content:space-between;align-items:center;padding:calc(18px + env(safe-area-inset-top)) 24px 16px;color:#fff;font:.64rem var(--mono);text-transform:uppercase}.bar__back{padding:9px 11px;border:0;border-radius:6px;background:rgba(16,38,31,.72)}
@@ -582,7 +592,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 @media(max-width:760px){
   .brandrow{min-width:0;gap:6px}.brand{flex:0 0 28px;min-width:0;overflow:hidden;white-space:nowrap;font-size:0}.brand b{font-size:1rem}.brand .ver{display:none}.iconbtn{min-height:44px;flex:none;padding:7px;font-size:.62rem}.theme-switch{display:none}.theme-select{display:block;min-height:40px;max-width:92px;padding:0 24px 0 8px;border:1px solid rgba(255,255,255,.25);border-radius:4px;background:var(--ink);color:#fff;font:700 .58rem var(--mono)}
   .launcher{display:block;width:100%;max-width:100vw;padding-top:54px}.launcher::after{left:auto;right:18px;top:28px;font-size:.9rem}.launcher h1{font-size:clamp(4.3rem,21vw,6.2rem);text-shadow:3px 3px 0 var(--pink),6px 6px 0 var(--blue)}.launcher__intro>p:last-child{margin:30px 0 34px}.search input{height:62px;box-shadow:5px 5px 0 var(--blue)}.chips{margin:26px -18px 0;padding:0 18px}.chip,.random{min-height:44px}.launcher__actions{justify-content:flex-start;flex-wrap:wrap;gap:12px 20px}
-  .section-head{padding-top:30px}.game{grid-template-columns:40px minmax(0,1fr) 44px;min-height:106px}.game__main{padding-left:8px}.game__title{font-size:1.35rem}.game__sub{font-size:.78rem}.game__meta{font-size:.76rem}.game__fav{font-size:.62rem}.families__grid{grid-template-columns:1fr}
+  .section-head{padding-top:30px}.game{grid-template-columns:80px minmax(0,1fr) 44px;min-height:112px;padding:7px}.game__image{height:82px}.game__index{display:none}.game__main{padding-left:8px}.game__title{font-size:1.35rem}.game__sub{font-size:.78rem}.game__meta{font-size:.76rem}.game__fav{font-size:.62rem}.families__grid{grid-template-columns:1fr}.family,.family:nth-child(n){grid-column:1/-1;min-height:230px}.launcher--family{min-height:560px}.launcher__family-image{inset:auto 0 0;width:100%;height:56%;opacity:.55;-webkit-mask-image:linear-gradient(0deg,#000 45%,transparent);mask-image:linear-gradient(0deg,#000 45%,transparent)}
   .reader{display:block;width:100%;max-width:100vw}.bar{width:100%;padding:calc(10px + env(safe-area-inset-top)) 12px 10px}.bar>span{display:none}.reader-hero{position:relative;height:62dvh;min-height:430px;padding:90px 18px 24px}.reader-hero h1{font-size:clamp(3.4rem,17vw,5.6rem)}.reader-body-inner{width:100%;padding:48px 18px 80px}.reader-summary__text{font-size:1.5rem}.reader-hero__meta span{font-size:.72rem}.raction,.rbtn{min-width:0}.rbtn{padding:8px}.rules{overflow-wrap:anywhere;font-size:1.05rem}.rules table{display:block;overflow-x:auto}.related__grid{grid-template-columns:1fr}
   body.searching .launcher__intro{display:none}body.searching .launcher{padding-top:24px}
 }
@@ -656,8 +666,17 @@ html[data-theme="appica"]{color-scheme:light;--paper:#f5f7fb;--surface:#fff;--so
 html[data-theme="appica"] body{background:var(--paper);color:var(--ink)}html[data-theme="appica"] .topfix{background:rgba(255,255,255,.9);border-bottom:1px solid var(--line);color:var(--ink);backdrop-filter:blur(12px)}html[data-theme="appica"] .brand b{color:var(--blue)}html[data-theme="appica"] .brand .ver{color:var(--muted)}html[data-theme="appica"] .iconbtn{border-radius:10px;color:var(--ink)}html[data-theme="appica"] .iconbtn:hover{background:var(--soft);color:var(--blue)}html[data-theme="appica"] .theme-switch{gap:2px;padding:3px;border:1px solid var(--line);border-radius:12px;background:var(--soft)}html[data-theme="appica"] .theme-switch button{border-radius:8px;background:transparent;color:var(--muted)}html[data-theme="appica"] .theme-switch button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(16,24,40,.12)}
 html[data-theme="appica"] .launcher{min-height:70vh;align-items:center}html[data-theme="appica"] .launcher::after{content:'ACCESSIBLE BY DEFAULT';left:auto;right:4vw;top:82px;padding:7px 10px;border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--muted);font:600 .58rem var(--mono);letter-spacing:.08em;transform:none;box-shadow:0 6px 18px rgba(16,24,40,.06)}html[data-theme="appica"] .launcher .eyebrow{color:var(--blue)}html[data-theme="appica"] .launcher h1{font:600 clamp(3.8rem,8vw,8rem)/.86 var(--display);text-transform:none;letter-spacing:-.065em;text-shadow:none}html[data-theme="appica"] .launcher__intro>p:last-child,html[data-theme="appica"] .top-intro{color:var(--muted)}
 html[data-theme="appica"] .search label{color:var(--muted)}html[data-theme="appica"] .search input{border:1px solid var(--line);border-radius:16px;background:var(--surface);color:var(--ink);box-shadow:0 10px 28px rgba(16,24,40,.08)}html[data-theme="appica"] .search input:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(23,105,224,.12)}html[data-theme="appica"] .random{border:0;border-radius:11px;background:var(--ink);color:var(--surface);box-shadow:0 6px 16px rgba(16,24,40,.12)}html[data-theme="appica"] .random:active{transform:scale(.98);box-shadow:none}html[data-theme="appica"] .launcher__actions a{color:var(--blue);text-decoration:none}html[data-theme="appica"] .chip,html[data-theme="appica"] .chip:nth-child(n){border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--muted)}html[data-theme="appica"] .chip--active,html[data-theme="appica"] .chip--active:nth-child(n){border-color:var(--ink);background:var(--ink)!important;color:var(--surface)}
-html[data-theme="appica"] .section-head .eyebrow{padding:0;background:none;color:var(--blue);transform:none}html[data-theme="appica"] .list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;padding-bottom:100px}html[data-theme="appica"] .game{grid-template-columns:40px minmax(0,1fr);align-content:center;min-height:176px;border:1px solid var(--line);border-radius:18px;background:var(--surface);box-shadow:0 5px 16px rgba(16,24,40,.04)}html[data-theme="appica"] .game:nth-child(n):hover{border-color:#b8c5d6;background:var(--surface);color:var(--ink);transform:translateY(-2px);box-shadow:0 14px 30px rgba(16,24,40,.09)}html[data-theme="appica"] .game__index{color:var(--blue)}html[data-theme="appica"] .game__sub,html[data-theme="appica"] .game__meta{color:var(--muted)}html[data-theme="appica"] .game__fav{grid-column:2;width:max-content;min-height:34px;margin-left:12px;padding:0 10px;border-radius:8px;background:var(--soft);color:var(--muted)}html[data-theme="appica"] .game__fav:hover,html[data-theme="appica"] .game__fav.on{background:var(--ink);color:var(--surface)}html[data-theme="appica"] .families__title{text-transform:none}html[data-theme="appica"] .families__grid{gap:14px}html[data-theme="appica"] .family{padding:20px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}html[data-theme="appica"] .family .family__name,html[data-theme="appica"] .family:nth-child(n) .family__name{padding:0;background:none;color:var(--ink);transform:none}html[data-theme="appica"] .family__link{color:var(--muted)}
+html[data-theme="appica"] .section-head .eyebrow{padding:0;background:none;color:var(--blue);transform:none}html[data-theme="appica"] .list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;padding-bottom:100px}html[data-theme="appica"] .game{position:relative;grid-template-columns:minmax(0,1fr) auto;align-content:start;min-height:280px;padding:0 0 14px;border:1px solid var(--line);border-radius:18px;background:var(--surface);box-shadow:0 5px 16px rgba(16,24,40,.04)}html[data-theme="appica"] .game__image{grid-column:1/-1;width:100%;height:164px;border-radius:17px 17px 0 0}html[data-theme="appica"] .game:nth-child(n):hover{border-color:#b8c5d6;background:var(--surface);color:var(--ink);transform:translateY(-2px);box-shadow:0 14px 30px rgba(16,24,40,.09)}html[data-theme="appica"] .game__index{position:absolute;top:12px;left:12px;padding:5px 7px;border-radius:7px;background:var(--surface);color:var(--blue)}html[data-theme="appica"] .game__main{grid-column:1}html[data-theme="appica"] .game__sub,html[data-theme="appica"] .game__meta{color:var(--muted)}html[data-theme="appica"] .game__fav{grid-column:2;width:max-content;min-height:34px;margin:12px 12px 0 0;padding:0 10px;border-radius:8px;background:var(--soft);color:var(--muted)}html[data-theme="appica"] .game__fav:hover,html[data-theme="appica"] .game__fav.on{background:var(--ink);color:var(--surface)}html[data-theme="appica"] .families__title{text-transform:none}html[data-theme="appica"] .families__grid{gap:14px}html[data-theme="appica"] .family{padding:0;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
 html[data-theme="appica"] .reader{background:var(--paper)}html[data-theme="appica"] .bar__back{border:1px solid rgba(255,255,255,.28);border-radius:10px;background:rgba(17,24,39,.72)}html[data-theme="appica"] .reader-hero{background:#172033}html[data-theme="appica"] .reader-hero::after{background:linear-gradient(0deg,rgba(17,24,39,.86),rgba(17,24,39,.18))}html[data-theme="appica"] .reader-hero__eyebrow{border-radius:8px;background:var(--surface);transform:none}html[data-theme="appica"] .reader-hero h1{font:600 clamp(3.2rem,6.5vw,7rem)/.86 var(--display);text-transform:none;letter-spacing:-.06em;text-shadow:none}html[data-theme="appica"] .reader-summary::before{border-radius:8px;background:var(--yellow);color:var(--blue);transform:none}html[data-theme="appica"] .rbtn,html[data-theme="appica"] .reader__youtube{border:1px solid var(--line);border-radius:11px;background:var(--surface);color:var(--ink);box-shadow:0 4px 12px rgba(16,24,40,.05)}html[data-theme="appica"] .rbtn--like{border-color:var(--ink);background:var(--ink);color:var(--surface)}html[data-theme="appica"] .rules blockquote{background:var(--soft)}html[data-theme="appica"] .related__card,html[data-theme="appica"] .related__card:nth-child(even){border:1px solid var(--line);border-radius:14px;background:var(--surface);color:var(--ink)}html[data-theme="appica"] .source-list a{border-radius:9px;background:var(--surface)}html[data-theme="appica"] .sheet__panel{background:var(--paper);color:var(--ink)}html[data-theme="appica"] .field input{border-color:var(--line);border-radius:10px;background:var(--surface);color:var(--ink)}html[data-theme="appica"] .btn{border-radius:10px;background:var(--ink);color:var(--surface)}
+
+/* EDGE — blanc ample et halos pastel inspirés d’EdgeDrop */
+html[data-theme="edge"]{--paper:#faf9f7;--surface:#fff;--soft:#f0eef4;--ink:#202023;--pink:#ff9fd5;--blue:#91baff;--yellow:#ffd98a;--mint:#9ce4d1;--line:#e2dfe5;--muted:#757079;--display:'Cherry Bomb One',sans-serif;--marker:'Cherry Bomb One',sans-serif;--mono:'Manrope',sans-serif;--sans:'Manrope',sans-serif}
+html[data-theme="edge"] body{background-color:var(--paper);background-image:radial-gradient(circle at 8% 8%,rgba(255,159,213,.4),transparent 24rem),radial-gradient(circle at 88% 12%,rgba(145,186,255,.4),transparent 25rem),radial-gradient(circle at 44% 44%,rgba(255,217,138,.25),transparent 27rem);background-attachment:fixed;color:var(--ink)}
+html[data-theme="edge"] .topfix{background:rgba(250,249,247,.82);border-bottom:1px solid rgba(32,32,35,.08);color:var(--ink);backdrop-filter:blur(14px)}html[data-theme="edge"] .brand b{color:#7965ff}html[data-theme="edge"] .brand .ver{color:var(--muted)}html[data-theme="edge"] .iconbtn{border-radius:999px;color:var(--ink)}html[data-theme="edge"] .iconbtn:hover{background:var(--ink);color:#fff}html[data-theme="edge"] .theme-switch{padding:3px;border-radius:999px;background:rgba(255,255,255,.7)}html[data-theme="edge"] .theme-switch button{border-radius:999px;background:transparent;color:var(--muted)}html[data-theme="edge"] .theme-switch button[aria-pressed="true"]{background:var(--ink);color:#fff}
+html[data-theme="edge"] .launcher{min-height:74vh;align-items:center}html[data-theme="edge"] .launcher::after{content:'100% JEU';left:auto;right:5%;top:13%;padding:10px 16px;border-radius:999px;background:#fff;color:var(--ink);font:500 .65rem var(--mono);transform:rotate(5deg);box-shadow:0 12px 32px rgba(99,73,116,.12)}html[data-theme="edge"] .launcher .eyebrow{color:#7965ff}html[data-theme="edge"] .launcher h1{font:400 clamp(4.5rem,9.5vw,10rem)/.75 var(--display);text-transform:none;letter-spacing:-.04em;text-shadow:none}html[data-theme="edge"] .launcher__intro>p:last-child,html[data-theme="edge"] .top-intro{color:var(--muted)}
+html[data-theme="edge"] .search label{color:var(--muted)}html[data-theme="edge"] .search input{border:0;border-radius:999px;background:rgba(255,255,255,.86);color:var(--ink);box-shadow:0 18px 50px rgba(112,82,132,.13)}html[data-theme="edge"] .search input:focus{box-shadow:0 0 0 4px rgba(121,101,255,.18),0 18px 50px rgba(112,82,132,.13)}html[data-theme="edge"] .random{border:0;border-radius:999px;background:var(--ink);color:#fff;box-shadow:none}html[data-theme="edge"] .random:active{transform:scale(.98);box-shadow:none}html[data-theme="edge"] .launcher__actions a{color:var(--ink);text-decoration-color:#7965ff}html[data-theme="edge"] .chip,html[data-theme="edge"] .chip:nth-child(n){border:0;border-radius:999px;background:rgba(255,255,255,.72);color:var(--muted)}html[data-theme="edge"] .chip--active,html[data-theme="edge"] .chip--active:nth-child(n){background:var(--ink)!important;color:#fff}
+html[data-theme="edge"] .section-head .eyebrow{padding:0;background:none;color:#7965ff;transform:none}html[data-theme="edge"] .list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;padding-bottom:110px}html[data-theme="edge"] .game{grid-template-columns:170px 38px minmax(0,1fr) auto;min-height:176px;border:1px solid rgba(255,255,255,.8);border-radius:28px;background:rgba(255,255,255,.72);box-shadow:0 12px 36px rgba(81,59,97,.08)}html[data-theme="edge"] .game__image{height:154px;border-radius:21px}html[data-theme="edge"] .game:nth-child(n):hover{background:#fff;color:var(--ink);transform:translateY(-2px)}html[data-theme="edge"] .game__index{color:#7965ff}html[data-theme="edge"] .game__sub,html[data-theme="edge"] .game__meta{color:var(--muted)}html[data-theme="edge"] .game__title{font-weight:700}html[data-theme="edge"] .game__fav:hover,html[data-theme="edge"] .game__fav.on{border-radius:999px;background:var(--ink);color:#fff}html[data-theme="edge"] .families__title{text-transform:none}html[data-theme="edge"] .family{border-radius:28px}html[data-theme="edge"] .family__image{filter:saturate(.8)}
+html[data-theme="edge"] .reader{background:var(--paper)}html[data-theme="edge"] .bar__back{border-radius:999px;background:rgba(255,255,255,.88);color:var(--ink)}html[data-theme="edge"] .reader-hero{background:#f1e7ef}html[data-theme="edge"] .reader-hero::after{background:linear-gradient(0deg,rgba(32,32,35,.72),transparent)}html[data-theme="edge"] .reader-hero__image{filter:saturate(.75) contrast(.96)}html[data-theme="edge"] .reader-hero__eyebrow{border-radius:999px;background:#fff;transform:none}html[data-theme="edge"] .reader-hero h1{font:400 clamp(3.5rem,7vw,7.7rem)/.78 var(--display);text-transform:none;letter-spacing:-.03em;text-shadow:none}html[data-theme="edge"] .reader-summary::before{border-radius:999px;background:var(--pink);transform:none}html[data-theme="edge"] .rbtn,html[data-theme="edge"] .reader__youtube{border:0;border-radius:999px;background:#fff;color:var(--ink);box-shadow:0 10px 30px rgba(81,59,97,.08)}html[data-theme="edge"] .rbtn--like{background:var(--ink);color:#fff}html[data-theme="edge"] .rules blockquote{background:rgba(255,255,255,.72)}html[data-theme="edge"] .related__card,html[data-theme="edge"] .related__card:nth-child(even){border:0;border-radius:22px;background:#fff;color:var(--ink)}html[data-theme="edge"] .source-list a{border-radius:999px;background:#fff}html[data-theme="edge"] .sheet__panel{background:var(--paper);color:var(--ink)}
 @media(prefers-color-scheme:dark){
   html[data-theme="appica"]{color-scheme:dark;--paper:#0b1120;--surface:#111827;--soft:#1d2738;--ink:#f4f7fb;--pink:#163f72;--blue:#75b5ff;--yellow:#162f4f;--mint:#153b36;--line:#2b3749;--muted:#9aa7b8}
   html[data-theme="appica"] .topfix{background:rgba(11,17,32,.92)}html[data-theme="appica"] .theme-switch button[aria-pressed="true"]{box-shadow:none}html[data-theme="appica"] .search input,html[data-theme="appica"] .game,html[data-theme="appica"] .family{box-shadow:none}html[data-theme="appica"] .game:nth-child(n):hover{border-color:#52647d;box-shadow:0 14px 30px rgba(0,0,0,.2)}
@@ -672,9 +691,10 @@ html[data-theme="appica"] .reader{background:var(--paper)}html[data-theme="appic
   html[data-theme="ascii"] .launcher::after{display:none}
   html[data-theme="ascii"] .launcher h1{font-size:clamp(2.8rem,14vw,4.2rem);text-shadow:none}
   html[data-theme="ascii"] .search input{box-shadow:none}
-  html[data-theme="aura"] .launcher,html[data-theme="details"] .launcher,html[data-theme="bynar"] .launcher{min-height:auto}html[data-theme="aura"] .launcher::after,html[data-theme="details"] .launcher::after,html[data-theme="bynar"] .launcher::after,html[data-theme="bynar"] .launcher::before{display:none}
+  html[data-theme="aura"] .launcher,html[data-theme="details"] .launcher,html[data-theme="bynar"] .launcher,html[data-theme="edge"] .launcher{min-height:auto}html[data-theme="aura"] .launcher::after,html[data-theme="details"] .launcher::after,html[data-theme="bynar"] .launcher::after,html[data-theme="bynar"] .launcher::before,html[data-theme="edge"] .launcher::after{display:none}
   html[data-theme="aura"] .launcher h1{font-size:clamp(3.7rem,17vw,5.4rem)}html[data-theme="details"] .launcher h1{font-size:clamp(4rem,19vw,6rem)}html[data-theme="details"] .list{grid-template-columns:1fr}html[data-theme="bynar"] .launcher h1{font-size:clamp(3.3rem,15vw,5rem)}
-  html[data-theme="appica"] .launcher{min-height:auto}html[data-theme="appica"] .launcher::after{display:none}html[data-theme="appica"] .launcher h1{font-size:clamp(3.5rem,16vw,5.1rem)}html[data-theme="appica"] .list{grid-template-columns:1fr;gap:10px}html[data-theme="appica"] .game{min-height:152px}
+  html[data-theme="appica"] .launcher{min-height:auto}html[data-theme="appica"] .launcher::after{display:none}html[data-theme="appica"] .launcher h1{font-size:clamp(3.5rem,16vw,5.1rem)}html[data-theme="appica"] .list{grid-template-columns:1fr;gap:10px}html[data-theme="appica"] .game{grid-template-columns:minmax(0,1fr) auto;min-height:270px}html[data-theme="appica"] .game__image{height:155px}html[data-theme="appica"] .game__index{display:block}
+  html[data-theme="edge"] .launcher h1{font-size:clamp(4rem,18vw,5.8rem)}html[data-theme="edge"] .list{grid-template-columns:1fr;gap:10px}html[data-theme="edge"] .game{grid-template-columns:88px minmax(0,1fr) 44px;min-height:112px;border-radius:18px}html[data-theme="edge"] .game__image{height:88px;border-radius:13px}html[data-theme="edge"] .game__index{display:none}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important}}
 </style>
@@ -692,9 +712,9 @@ html[data-theme="appica"] .reader{background:var(--paper)}html[data-theme="appic
     $yNames = $_ns->fetchAll(PDO::FETCH_COLUMN);
     $_yt = fn(string $n): string => 'https://www.youtube.com/results?search_query=' . rawurlencode('règles du jeu ' . $n);
     $altNames = array_values(array_filter($yNames, fn($n) => mb_strtolower($n) !== mb_strtolower($g['title'])));
-    $heroPhoto = $g['image'] ? '?img=' . urlencode($g['image']) : hero_photo($g);
+    $heroPhoto = game_photo($g);
     // Navigation clavier : prev/next.
-    $_all = Vault::db()->query("SELECT slug FROM games ORDER BY sort")->fetchAll(PDO::FETCH_COLUMN);
+    $_all = Vault::db()->query("SELECT slug FROM games ORDER BY sort_key(title)")->fetchAll(PDO::FETCH_COLUMN);
     $_i = array_search($g['slug'], $_all);
     $prevSlug = $_all[($_i - 1 + count($_all)) % count($_all)];
     $nextSlug = $_all[($_i + 1) % count($_all)];
@@ -718,9 +738,9 @@ html[data-theme="appica"] .reader{background:var(--paper)}html[data-theme="appic
     <div class="bar">
       <a class="bar__back" href="<?= e(qs_home()) ?>">Retour</a>
       <div class="theme-switch" role="group" aria-label="Choisir le thème">
-        <button type="button" data-theme-set="cat">CAT</button><button type="button" data-theme-set="ascii">ASCII</button><button type="button" data-theme-set="graffiti">GRAFF</button><button type="button" data-theme-set="aura">AURA</button><button type="button" data-theme-set="details">DETAILS</button><button type="button" data-theme-set="bynar">BYNAR</button><button type="button" data-theme-set="appica">APPICA</button>
+        <button type="button" data-theme-set="cat">CAT</button><button type="button" data-theme-set="ascii">ASCII</button><button type="button" data-theme-set="graffiti">GRAFF</button><button type="button" data-theme-set="aura">AURA</button><button type="button" data-theme-set="details">DETAILS</button><button type="button" data-theme-set="bynar">BYNAR</button><button type="button" data-theme-set="appica">APPICA</button><button type="button" data-theme-set="edge">EDGE</button>
       </div>
-      <select class="theme-select" data-theme-select aria-label="Choisir le thème"><option value="cat">CAT</option><option value="ascii">ASCII</option><option value="graffiti">GRAFF</option><option value="aura">AURA</option><option value="details">DETAILS</option><option value="bynar">BYNAR</option><option value="appica">APPICA</option></select>
+      <select class="theme-select" data-theme-select aria-label="Choisir le thème"><option value="cat">CAT</option><option value="ascii">ASCII</option><option value="graffiti">GRAFF</option><option value="aura">AURA</option><option value="details">DETAILS</option><option value="bynar">BYNAR</option><option value="appica">APPICA</option><option value="edge">EDGE</option></select>
       <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
@@ -806,9 +826,15 @@ else:
   }
   // Taxonomie mécanique : un jeu peut appartenir à plusieurs familles.
   $families = [];
-  $_fl = Vault::db()->query('SELECT gf.family, gf.slug FROM game_families gf JOIN games g ON g.slug=gf.slug ORDER BY gf.family,g.sort');
+  $_fl = Vault::db()->query('SELECT gf.family, gf.slug FROM game_families gf JOIN games g ON g.slug=gf.slug ORDER BY gf.family,sort_key(g.title)');
   foreach ($_fl->fetchAll(PDO::FETCH_ASSOC) as $r) $families[$r['family']][] = $r['slug'];
   uasort($families, fn($a, $b) => count($b) <=> count($a));
+  $gameMap = array_column($games, null, 'slug');
+  $familyCover = null;
+  if ($isFamily && $games) {
+    $familyCover = $games[0];
+    foreach ($games as $_game) if (!empty($_game['image'])) { $familyCover = $_game; break; }
+  }
 ?>
   <header class="topfix">
     <div class="topfix__inner">
@@ -816,9 +842,9 @@ else:
         <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil"><b>PK</b> / GUIDE DE TABLE <span class="ver">v<?= VERSION ?></span></a>
         <span class="spacer"></span>
         <div class="theme-switch" role="group" aria-label="Choisir le thème">
-          <button type="button" data-theme-set="cat">CAT</button><button type="button" data-theme-set="ascii">ASCII</button><button type="button" data-theme-set="graffiti">GRAFF</button><button type="button" data-theme-set="aura">AURA</button><button type="button" data-theme-set="details">DETAILS</button><button type="button" data-theme-set="bynar">BYNAR</button><button type="button" data-theme-set="appica">APPICA</button>
+          <button type="button" data-theme-set="cat">CAT</button><button type="button" data-theme-set="ascii">ASCII</button><button type="button" data-theme-set="graffiti">GRAFF</button><button type="button" data-theme-set="aura">AURA</button><button type="button" data-theme-set="details">DETAILS</button><button type="button" data-theme-set="bynar">BYNAR</button><button type="button" data-theme-set="appica">APPICA</button><button type="button" data-theme-set="edge">EDGE</button>
         </div>
-        <select class="theme-select" data-theme-select aria-label="Choisir le thème"><option value="cat">CAT</option><option value="ascii">ASCII</option><option value="graffiti">GRAFF</option><option value="aura">AURA</option><option value="details">DETAILS</option><option value="bynar">BYNAR</option><option value="appica">APPICA</option></select>
+        <select class="theme-select" data-theme-select aria-label="Choisir le thème"><option value="cat">CAT</option><option value="ascii">ASCII</option><option value="graffiti">GRAFF</option><option value="aura">AURA</option><option value="details">DETAILS</option><option value="bynar">BYNAR</option><option value="appica">APPICA</option><option value="edge">EDGE</option></select>
         <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>">Top</a>
         <button class="iconbtn" id="favOpen">Favoris <span class="dot" id="favDot" hidden>0</span></button>
       </div>
@@ -826,7 +852,8 @@ else:
   </header>
 
   <main>
-    <section class="launcher" aria-labelledby="heroTitle">
+    <section class="launcher<?= $isFamily ? ' launcher--family' : '' ?>" aria-labelledby="heroTitle">
+      <?php if ($familyCover): ?><img class="launcher__family-image" src="<?= e(game_photo($familyCover)) ?>" alt="" referrerpolicy="no-referrer"><?php endif; ?>
       <div class="launcher__intro">
         <p class="eyebrow"><?= $isFamily ? count($games).' jeux dans cette famille' : $TOTAL.' règles vérifiées / accès immédiat' ?></p>
         <h1 id="heroTitle"><?= $isFamily ? e($family) : 'On joue<br>à quoi ?' ?></h1>
@@ -866,6 +893,7 @@ else:
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
+        <img class="game__image" src="<?= e(game_photo($g)) ?>" alt="" loading="lazy" referrerpolicy="no-referrer">
         <span class="game__index"><?= str_pad((string)($index + 1), 3, '0', STR_PAD_LEFT) ?></span>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
@@ -885,10 +913,13 @@ else:
   <section class="families" id="families">
     <div class="families__head"><h2 class="families__title">Familles</h2></div>
     <div class="families__grid">
-      <?php foreach ($families as $family => $slugs): ?>
+      <?php foreach ($families as $family => $slugs):
+        $cover = $gameMap[$slugs[0]] ?? null;
+        foreach ($slugs as $_slug) if (!empty($gameMap[$_slug]['image'])) { $cover = $gameMap[$_slug]; break; }
+      ?>
       <a class="family" href="?family=<?= e(rawurlencode($family)) ?>">
-        <span class="family__name"><?= e($family) ?></span>
-        <strong><?= count($slugs) ?> jeux</strong>
+        <?php if ($cover): ?><img class="family__image" src="<?= e(game_photo($cover)) ?>" alt="" loading="lazy" referrerpolicy="no-referrer"><?php endif; ?>
+        <span class="family__content"><span class="family__visual-title"><?= e($family) ?></span><span class="family__count"><?= count($slugs) ?> jeux · <?= e($cover['title'] ?? '') ?></span></span>
       </a>
       <?php endforeach; ?>
     </div>
@@ -1062,7 +1093,7 @@ function syncThemeUI(){
   document.querySelectorAll('[data-theme-set]').forEach(b=>b.setAttribute('aria-pressed', b.dataset.themeSet===currentTheme() ? 'true' : 'false'));
   document.querySelectorAll('[data-theme-select]').forEach(s=>s.value=currentTheme());
   const appicaColor=matchMedia('(prefers-color-scheme: dark)').matches?'#0b1120':'#f5f7fb';
-  document.querySelector('meta[name="theme-color"]').content={cat:'#303446',ascii:'#11130f',graffiti:'#151515',aura:'#0d0713',details:'#f2f0e9',bynar:'#050505',appica:appicaColor}[currentTheme()] || '#303446';
+  document.querySelector('meta[name="theme-color"]').content={cat:'#303446',ascii:'#11130f',graffiti:'#151515',aura:'#0d0713',details:'#f2f0e9',bynar:'#050505',appica:appicaColor,edge:'#faf9f7'}[currentTheme()] || '#303446';
 }
 document.querySelectorAll('[data-theme-set]').forEach(b=>b.addEventListener('click',()=>{
   document.documentElement.dataset.theme=b.dataset.themeSet;
