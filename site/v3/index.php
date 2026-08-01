@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.15';
+const VERSION = '2026.08.16';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -755,7 +755,7 @@ html[data-theme="edge"] .game{grid-template-columns:minmax(0,1fr) auto;min-heigh
       <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
-      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" alt="Photographie de cartes pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
+      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" data-fallback="<?= e(hero_photo($g)) ?>" alt="Photographie de cartes pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
       <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> / MISTIGRI<?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <?php if ($altNames): ?>
@@ -864,7 +864,7 @@ else:
 
   <main>
     <section class="launcher<?= $isFamily ? ' launcher--family' : '' ?>" aria-labelledby="heroTitle">
-      <?php if ($familyCover): ?><img class="launcher__family-image" src="<?= e(game_photo($familyCover)) ?>" alt="" decoding="async" fetchpriority="high" referrerpolicy="no-referrer"><?php endif; ?>
+      <?php if ($familyCover): ?><img class="launcher__family-image" src="<?= e(game_photo($familyCover)) ?>" data-fallback="<?= e(hero_photo($familyCover)) ?>" alt="" decoding="async" fetchpriority="high" referrerpolicy="no-referrer"><?php endif; ?>
       <div class="launcher__intro">
         <p class="eyebrow"><?= $isFamily ? count($games).' jeux dans cette famille' : $TOTAL.' règles vérifiées / accès immédiat' ?></p>
         <h1 id="heroTitle"><?= $isFamily ? e($family) : 'On joue<br>à quoi ?' ?></h1>
@@ -904,7 +904,7 @@ else:
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
-        <img class="game__image lazy-image" data-src="<?= e(game_photo($g, true)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+        <img class="game__image lazy-image" data-src="<?= e(game_photo($g, true)) ?>" data-fallback="<?= e(hero_photo($g, 640)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
         <span class="game__index"><?= str_pad((string)($index + 1), 3, '0', STR_PAD_LEFT) ?></span>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
@@ -929,7 +929,7 @@ else:
         foreach ($slugs as $_slug) if (!empty($gameMap[$_slug]['image'])) { $cover = $gameMap[$_slug]; break; }
       ?>
       <a class="family" href="?family=<?= e(rawurlencode($family)) ?>">
-        <?php if ($cover): ?><img class="family__image lazy-image" data-src="<?= e(game_photo($cover, true)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><?php endif; ?>
+        <?php if ($cover): ?><img class="family__image lazy-image" data-src="<?= e(game_photo($cover, true)) ?>" data-fallback="<?= e(hero_photo($cover, 640)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><?php endif; ?>
         <span class="family__content"><span class="family__visual-title"><?= e($family) ?></span><span class="family__count"><?= count($slugs) ?> jeux · <?= e($cover['title'] ?? '') ?></span></span>
       </a>
       <?php endforeach; ?>
@@ -1099,12 +1099,22 @@ document.addEventListener('keydown', e=>{
 });
 
 // ---- INIT ----
+const useImageFallback=img=>{
+  const fallback=img.dataset.fallback;
+  if(fallback){delete img.dataset.fallback;img.src=fallback;}
+  else img.classList.add('is-loaded');
+};
+const watchImageErrors=(img,checkExisting=true)=>{
+  img.addEventListener('error',()=>useImageFallback(img));
+  if(checkExisting&&img.complete&&!img.naturalWidth) useImageFallback(img);
+};
 const loadImage=img=>{
   img.addEventListener('load',()=>img.classList.add('is-loaded'),{once:true});
-  img.addEventListener('error',()=>img.classList.add('is-loaded'),{once:true});
+  watchImageErrors(img,false);
   img.src=img.dataset.src;
   delete img.dataset.src;
 };
+document.querySelectorAll('img[data-fallback]:not([data-src])').forEach(watchImageErrors);
 const lazyImages=document.querySelectorAll('img[data-src]');
 if('IntersectionObserver' in window){
   const imageObserver=new IntersectionObserver((entries,observer)=>entries.forEach(entry=>{
