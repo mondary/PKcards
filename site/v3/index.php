@@ -15,6 +15,8 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
+const VERSION = '2026.08.1';
+
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
    La plupart du code ne touche pas SQLite directement : il parle au Vault.
@@ -680,7 +682,7 @@ else:
       </div>
       <div class="hero__fade" aria-hidden="true"></div>
     </section>
-    <div class="section-head"><p class="eyebrow">le catalogue</p><p class="count-line" id="countLine"><?= count($games) ?> jeux</p></div>
+    <div class="section-head"><p class="eyebrow">le catalogue</p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
 
   <div class="list" id="list">
     <?php foreach ($games as $g):
@@ -829,7 +831,7 @@ function applyFilter(){
     el.style.display = show ? '' : 'none';
     if(show) shown++;
   });
-  if(countLineEl) countLineEl.textContent = shown + (shown > 1 ? ' jeux' : ' jeu');
+  if(countLineEl) countLineEl.textContent = shown + (shown > 1 ? ' jeux' : ' jeu') + ' · ' + countLineEl.dataset.ver;
   if(emptyState) emptyState.hidden = shown !== 0;
 }
 if(searchInputEl){
@@ -853,7 +855,7 @@ if(chipsEl) chipsEl.addEventListener('click', e=>{
 document.addEventListener('keydown', e=>{
   if(!searchInputEl || e.target.matches('input,textarea,button,a')) return;
   if((e.metaKey || e.ctrlKey) && e.key.toLowerCase()==='k'){ e.preventDefault(); searchInputEl.focus(); return; }
-  if(e.key.length===1 && !e.metaKey && !e.ctrlKey && !e.altKey){ searchInputEl.focus(); searchInputEl.value=e.key; applyFilter(); }
+  if(e.key.length===1 && !e.metaKey && !e.ctrlKey && !e.altKey){ e.preventDefault(); searchInputEl.focus(); searchInputEl.value=e.key; applyFilter(); }
 });
 
 // ---- INIT ----
