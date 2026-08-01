@@ -486,6 +486,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .game__thumb{width:42px;height:42px;border-radius:11px;flex-shrink:0;object-fit:cover;background:rgba(255,255,255,.04);border:1px solid var(--border)}
 .game__main{flex:1;min-width:0}
 .game__title{font-size:1rem;font-weight:600;color:#f2f2f8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.25}
+.game__alts{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
+.game__alt{font-size:.68rem;padding:2px 8px;border-radius:50px;background:rgba(202,158,230,.1);border:1px solid rgba(202,158,230,.25);color:var(--gold);white-space:nowrap}
 .game__tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
 .tag{font-size:.66rem;padding:2px 8px;border-radius:7px;background:rgba(255,255,255,.05);color:#9696a4;white-space:nowrap;line-height:1.6}
 .tag--p{color:var(--gold);background:rgba(232,196,106,.1)}
@@ -681,8 +683,13 @@ else:
   $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games([]);
   // Map slug -> tous les noms (game_names) pour la recherche et l'affichage.
   $namesMap = [];
-  foreach (Vault::db()->query("SELECT slug, group_concat(lower(name),' ') AS names FROM game_names GROUP BY slug")->fetchAll(PDO::FETCH_ASSOC) as $r) {
-    $namesMap[$r['slug']] = $r['names'];
+  $altNamesMap = [];
+  foreach (Vault::db()->query("SELECT slug, name FROM game_names ORDER BY (name=''), slug")->fetchAll(PDO::FETCH_ASSOC) as $r) {
+    $namesMap[$r['slug']][] = $r['name'];
+  }
+  foreach ($namesMap as $slug => $names) {
+    $namesMap[$slug] = implode(' ', array_map('mb_strtolower', $names)); // pour data-names (recherche)
+    $altNamesMap[$slug] = $names; // pour affichage (casse originale)
   }
   // Familles depuis game_links.
   $families = [];
@@ -747,6 +754,11 @@ else:
         <?php endif; ?>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
+          <?php
+            $gAlts = array_values(array_filter($altNamesMap[$g['slug']] ?? [], fn($n) => mb_strtolower($n) !== mb_strtolower($g['title'])));
+            if ($gAlts): ?>
+          <span class="game__alts"><?php foreach ($gAlts as $_a): ?><span class="game__alt"><?= e($_a) ?></span><?php endforeach; ?></span>
+          <?php endif; ?>
           <span class="game__tags">
             <?php if ((int)$g['votes'] > 0): ?><span class="tag tag--v">♥ <?= (int)$g['votes'] ?></span><?php endif; ?>
             <?php if ($pshort): ?><span class="tag tag--p">👥 <?= e($pshort) ?></span><?php endif; ?>
