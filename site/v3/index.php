@@ -442,7 +442,7 @@ function game_photo(array $g, bool $thumbnail = false, bool $inline = false): st
   $generated = Vault::catalog()['images'][$g['slug']] ?? '';
   if ($generated !== '') {
     if ($inline) return 'data:image/webp;base64,' . base64_encode(file_get_contents(__DIR__ . '/' . $generated) ?: '');
-    return '?visual=' . urlencode((string)$g['slug']);
+    return '?visual=' . urlencode((string)$g['slug']) . '&v=' . VERSION;
   }
   $image = (string)($g['image'] ?? '');
   if (str_starts_with($image, 'http')) return $image;
@@ -1175,7 +1175,7 @@ const loadImageBatch=async()=>{
   const batch=imageQueue.splice(0,24);
   const slugs=batch.map(img=>new URL(img.dataset.src,location.href).searchParams.get('visual')).filter(Boolean);
   try{
-    const response=await fetch('?visuals='+encodeURIComponent([...new Set(slugs)].join(',')));
+    const response=await fetch('?visuals='+encodeURIComponent([...new Set(slugs)].join(','))+'&v=<?= VERSION ?>');
     if(!response.ok)throw new Error('visuals');
     const images=await response.json();
     batch.forEach(img=>{
