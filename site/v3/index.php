@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.3';
+const VERSION = '2026.08.4';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -438,208 +438,51 @@ function chip_active(string $a, string $b): string { return $a === $b ? 'chip--a
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#0a0a14">
+<meta name="theme-color" content="#10261f">
 <meta name="description" content="PKcards — <?= $TOTAL ?> jeux de cartes : règles, favoris, découverte.">
 <title>PKcards — <?= $TOTAL ?> jeux de cartes</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23292c3c'/%3E%3Crect x='13' y='9' width='38' height='48' rx='8' fill='%23f5eee5' transform='rotate(-8 32 33)'/%3E%3Cpath d='M32 42c-2.8-4.2-9-7.2-9-12.2 0-3.1 2.1-5.3 4.8-5.3 2 0 3.5 1.1 4.2 2.7.7-1.6 2.2-2.7 4.2-2.7 2.7 0 4.8 2.2 4.8 5.3 0 5-6.2 8-9 12.2Z' fill='%23e78284'/%3E%3Ccircle cx='22' cy='18' r='2' fill='%23ca9ee6'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2310261f'/%3E%3Ctext x='32' y='39' text-anchor='middle' font-family='Arial' font-size='23' font-weight='700' fill='%23d6ef72'%3EPK%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-/* ============ RESET + VARIABLES ============ */
-*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-:root{
-  --bg:#303446;--bg-deep:#292c3c;--card:#383c50;--card-hi:#41455a;
-  --border:rgba(198,208,245,.1);--text:#c6d0f5;--muted:#949cbb;
-  --gold:#ca9ee6;--blue:#8caaee;--green:#a6d189;--red:#e78284;--peach:#ef9f76;
-  --radius:12px;--maxw:680px;
-  --serif:'Cormorant Garamond',Georgia,serif;
-  --mono:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
-  --sans:ui-sans-serif,system-ui,-apple-system,sans-serif;
-}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--paper:#f1efe6;--ink:#132019;--forest:#10261f;--acid:#d6ef72;--coral:#ef5b43;--line:#b9b8ae;--muted:#62675f;--mono:'IBM Plex Mono',monospace;--sans:'Archivo',sans-serif}
 html{scroll-behavior:smooth}
-body{font-family:var(--sans);background:var(--bg);color:var(--text);min-height:100dvh;
-  background-image:radial-gradient(ellipse at 70% -5%,rgba(202,158,230,.12),transparent 40%),linear-gradient(var(--bg),var(--bg-deep));
-  -webkit-text-size-adjust:100%}
-a{color:inherit;text-decoration:none}
-button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
-:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+body{min-height:100dvh;overflow-x:hidden;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-text-size-adjust:100%}
+a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inherit;cursor:pointer}:focus-visible{outline:3px solid var(--coral);outline-offset:3px}
+.eyebrow,.count-line{font:500 .68rem/1.2 var(--mono);letter-spacing:.11em;text-transform:uppercase}
 
-/* ============ TOPFIX ============ */
-.topfix{position:sticky;top:0;z-index:30;background:rgba(48,52,70,.85);backdrop-filter:blur(16px) saturate(1.3);-webkit-backdrop-filter:blur(16px) saturate(1.3);padding:calc(10px + env(safe-area-inset-top)) clamp(14px,5vw,48px) 12px;border-bottom:1px solid var(--border)}
-.topfix__inner{max-width:var(--maxw);margin:0 auto}
-.brandrow{display:flex;align-items:center;gap:10px}
-.brand{font-family:var(--mono);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);white-space:nowrap;display:flex;align-items:baseline;gap:7px}
-.brand b{color:var(--text);font-weight:600}
-.brand .suits{opacity:.5;font-size:.65rem}
-.brand .ver{font-size:.5rem;color:var(--muted);opacity:.4;margin-left:4px}
-.spacer{flex:1}
-.iconbtn{width:38px;height:38px;border-radius:10px;background:var(--card);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:1rem;position:relative;flex-shrink:0;transition:border-color .15s,color .15s}
-.iconbtn:hover{border-color:var(--gold);color:var(--gold)}
-.iconbtn:active{transform:scale(.92)}
-.iconbtn .dot{position:absolute;top:-2px;right:-2px;background:var(--red);color:#fff;font-size:.5rem;font-weight:700;min-width:16px;height:16px;border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 4px;border:2px solid var(--bg)}
+.topfix{position:sticky;top:0;z-index:30;width:100%;max-width:100vw;padding:calc(14px + env(safe-area-inset-top)) clamp(18px,4vw,64px) 14px;background:var(--forest);color:var(--paper);border-bottom:1px solid #385148}
+.topfix__inner{max-width:1440px;margin:auto}.brandrow{display:flex;align-items:center;gap:12px}.brand{font:500 .68rem var(--mono);letter-spacing:.08em}.brand b{color:var(--acid)}.brand .ver{margin-left:8px;color:#82938c;font-size:.56rem}.spacer{flex:1}
+.iconbtn{position:relative;padding:8px 10px;border:1px solid #53675f;background:transparent;color:var(--paper);font:500 .64rem var(--mono);text-transform:uppercase;transition:background .15s,color .15s}.iconbtn:hover{background:var(--acid);color:var(--forest)}.dot{margin-left:4px;color:var(--acid)}
 
-/* ============ SEARCH + CHIPS ============ */
-.search{margin-top:10px}
-.search input{width:100%;background:var(--bg-deep);border:1px solid var(--border);color:var(--text);border-radius:var(--radius);padding:12px 16px;font-size:.95rem;outline:none;transition:border-color .15s,box-shadow .15s}
-.search input:focus{border-color:var(--gold);box-shadow:0 0 0 3px rgba(202,158,230,.12)}
-.search input::placeholder{color:#7a82a3}
-.chips{margin-top:8px;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:1px}
-.chips::-webkit-scrollbar{display:none}
-.chip{flex-shrink:0;padding:6px 12px;border-radius:8px;background:rgba(255,255,255,.04);border:1px solid var(--border);font-size:.75rem;color:var(--muted);white-space:nowrap;transition:background .15s,color .15s}
-.chip:active{transform:scale(.95)}
-.chip--active{background:var(--gold);border-color:var(--gold);color:#232634;font-weight:600}
+.launcher{width:100%;max-width:100vw;padding:clamp(44px,7vw,96px) clamp(18px,4vw,64px) 28px;background:var(--forest);color:var(--paper);display:grid;grid-template-columns:minmax(250px,.72fr) minmax(320px,1.28fr);column-gap:clamp(32px,7vw,120px);align-items:end}.launcher>*{min-width:0}
+.launcher__intro{grid-row:span 3}.launcher .eyebrow{color:var(--acid)}.launcher h1{margin-top:14px;max-width:650px;font-size:clamp(3.2rem,8vw,8rem);font-weight:700;line-height:.82;letter-spacing:-.075em}.launcher__intro>p:last-child,.top-intro{max-width:460px;margin-top:24px;color:#acbbb5;font-size:.93rem;line-height:1.55}
+.search{position:relative}.search label{display:block;margin-bottom:8px;font:500 .66rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.search input{width:100%;height:66px;padding:0 62px 0 18px;border:2px solid var(--acid);border-radius:0;background:var(--paper);color:var(--ink);font-size:clamp(1rem,2vw,1.3rem);outline:none}.search input::placeholder{color:#777b73}.search__key{position:absolute;right:16px;bottom:23px;color:var(--muted);font:.7rem var(--mono)}
+.launcher__actions{display:flex;gap:20px;align-items:center;margin-top:16px;font:500 .7rem var(--mono);text-transform:uppercase}.random{padding:10px 14px;border:0;background:var(--acid);color:var(--forest);font:inherit;text-transform:inherit}.launcher__actions a{border-bottom:1px solid #70827b;padding-bottom:3px}
+.chips{grid-column:2;display:flex;gap:7px;margin-top:24px;overflow-x:auto;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{flex:none;padding:8px 10px;border:1px solid #53675f;background:transparent;color:#c3cec9;font:500 .64rem var(--mono);text-transform:uppercase}.chip span{margin-left:5px;color:#7d8d87}.chip--active{border-color:var(--acid);background:var(--acid);color:var(--forest)}.chip--active span{color:var(--forest)}
 
-/* ============ HERO (home) ============ */
-body.searching .hero{display:none}
-.hero{max-width:var(--maxw);margin:0 auto;padding:clamp(50px,12vh,100px) 18px 40px;position:relative}
-.hero__copy{position:relative;z-index:2}
-.eyebrow{font-family:var(--mono);font-size:.6rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}
-.hero h1{margin-top:14px;font-family:var(--serif);font-weight:500;font-size:clamp(2.8rem,12vw,5rem);line-height:.9;letter-spacing:-.02em;color:var(--text);text-wrap:balance}
-.hero h1 i{color:var(--gold);font-style:italic}
-.hero__intro{max-width:440px;margin-top:20px;color:var(--muted);font-size:.9rem;line-height:1.6}
-.hero__meta{display:flex;gap:20px;margin-top:24px;font-family:var(--mono);font-size:.6rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
-.hero__meta b{color:var(--text)}
-.hero__mark{position:absolute;right:-10px;top:12%;font-family:var(--serif);font-size:clamp(4rem,18vw,9rem);line-height:.8;opacity:.08;z-index:0;transform:rotate(8deg)}
-.hero__mark span:nth-child(2),.hero__mark span:nth-child(3){color:var(--peach)}
-.hero__art{position:absolute;right:5%;top:18%;width:clamp(180px,25vw,320px);aspect-ratio:2/3;transform:rotate(6deg);z-index:1;pointer-events:none}
-.hero__card{position:absolute;width:clamp(120px,14vw,180px);aspect-ratio:2/3;display:flex;flex-direction:column;justify-content:space-between;padding:14px;border:1px solid rgba(255,255,255,.3);border-radius:14px;background:#f5eee5;color:#262538;box-shadow:14px 20px 30px rgba(0,0,0,.25);font-family:var(--serif);font-size:clamp(1.6rem,3vw,3rem);line-height:.8}
-.hero__card small{font-family:var(--mono);font-size:.5rem;letter-spacing:.1em;text-transform:uppercase}
-.hero__card--back{right:0;top:0;transform:rotate(12deg);background:#474d6b;color:#f5eee5;border-color:rgba(255,255,255,.15);justify-content:center;align-items:center}
-.hero__card--back::before{content:'♠ ♥ ♦ ♣';font-size:1.2rem;letter-spacing:.12em;text-align:center}
-.hero__card--front{left:0;bottom:0;transform:rotate(-10deg)}
-.hero__card--front b{font-size:clamp(3rem,6vw,5rem);font-weight:400;align-self:center;margin:auto}
-.hero__fade{position:absolute;inset:0;background:linear-gradient(0deg,var(--bg) 2%,transparent 30%);pointer-events:none;z-index:0}
+.section-head,.list,.families{max-width:1440px;margin:auto}.section-head{display:flex;justify-content:space-between;padding:34px clamp(18px,4vw,64px) 12px;border-bottom:1px solid var(--ink)}.section-head .eyebrow{color:var(--ink)}.count-line{color:var(--muted)}
+.list{padding:0 clamp(18px,4vw,64px) 80px}.game{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;min-height:88px;border-bottom:1px solid var(--line);transition:background .15s}.game:hover{background:var(--acid)}.game__index{font:.65rem var(--mono);color:var(--muted)}.game__main{min-width:0;padding:14px 12px}.game__title{display:block;font-size:clamp(1.05rem,2vw,1.45rem);font-weight:600;letter-spacing:-.025em}.game__sub,.game__meta{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.game__sub{margin-top:4px;color:var(--muted);font:.7rem var(--mono)}.game__meta{margin-top:6px;color:var(--muted);font-size:.7rem}.game__fav{min-width:48px;min-height:44px;border:1px solid transparent;background:transparent;font:500 .62rem var(--mono);text-transform:uppercase}.game__fav:hover,.game__fav.on{border-color:var(--ink);background:var(--forest);color:var(--acid)}
+.families{padding:24px clamp(18px,4vw,64px) 100px}.families__title{margin-bottom:24px;font-size:1.4rem}.families__grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--ink);border:1px solid var(--ink)}.family{min-height:150px;padding:22px;background:var(--paper)}.family__name{font:.65rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.family__members{display:flex;flex-direction:column;margin:18px 0 0 5px;border-left:1px solid var(--line)}.family__link{position:relative;padding:5px 0 5px 18px;font-size:.85rem}.family__link::before{content:'';position:absolute;left:0;top:50%;width:10px;border-top:1px solid var(--line)}.family__link:hover{text-decoration:underline}
+.empty{padding:72px 18px;text-align:center;color:var(--muted)}.empty h2{margin-bottom:8px;color:var(--ink)}
 
-/* ============ SECTION HEAD ============ */
-.section-head{max-width:var(--maxw);margin:0 auto;padding:24px 18px 8px;display:flex;align-items:center;justify-content:space-between}
-.count-line{font-family:var(--mono);font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.reader{display:grid;grid-template-columns:minmax(380px,42vw) minmax(0,1fr);min-height:100dvh;background:var(--paper)}.bar{position:fixed;z-index:20;top:0;left:0;width:42vw;display:flex;justify-content:space-between;align-items:center;padding:calc(18px + env(safe-area-inset-top)) 24px 16px;color:#fff;font:.64rem var(--mono);letter-spacing:.08em;text-transform:uppercase}.bar__back{padding:8px 10px;border:1px solid rgba(255,255,255,.65);background:rgba(16,38,31,.72)}
+.reader-hero{position:sticky;top:0;height:100dvh;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:100px clamp(24px,4vw,64px) 36px;background:var(--forest);color:#fff;isolation:isolate}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:rgba(9,24,19,.55)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;filter:saturate(.75) contrast(1.12)}.reader-hero__eyebrow{color:var(--acid);font:500 .65rem var(--mono);letter-spacing:.12em;text-transform:uppercase}.reader-hero h1{margin:14px 0 16px;font-size:clamp(2.6rem,5.8vw,6.2rem);line-height:.88;letter-spacing:-.065em;text-wrap:balance}.reader-hero__alts{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:22px}.reader-hero__alt{padding:5px 8px;border:1px solid rgba(255,255,255,.5);font:.62rem var(--mono)}.reader-hero__meta{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid rgba(255,255,255,.5)}.reader-hero__meta span{padding:12px 8px 0 0;font:.72rem var(--mono)}.reader-hero__meta small{display:block;margin-bottom:5px;color:#b7c3be;font-size:.55rem;text-transform:uppercase}
+.reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:34px;border-bottom:4px solid var(--ink)}.reader-summary::before{content:'Règle express';display:block;margin-bottom:18px;color:var(--coral);font:500 .65rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:600;line-height:1.25;letter-spacing:-.03em}.raction{display:grid;grid-template-columns:1fr 1fr;margin:22px 0}.rbtn{min-height:48px;border:1px solid var(--ink);background:transparent;font:500 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--forest);color:var(--acid)}
+.reader__youtube{display:block;padding:15px;border:1px solid var(--coral);color:#b93726;font-size:.84rem;font-weight:600}.yt-alts{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 30px}.yt-alt{border-bottom:1px solid var(--line);font:.65rem var(--mono)}
+.rules-title,.related__title{margin:48px 0 18px;font:500 .65rem var(--mono);letter-spacing:.12em;text-transform:uppercase}.rules{font-size:.96rem;line-height:1.72}.rules h1,.rules h2,.rules h3{line-height:1.15;letter-spacing:-.025em}.rules h1{margin:40px 0 12px;font-size:1.7rem}.rules h2{margin:34px 0 10px;font-size:1.35rem;border-bottom:1px solid var(--line);padding-bottom:8px}.rules h3{margin:24px 0 8px;font-size:1.05rem}.rules p{margin:9px 0}.rules ul,.rules ol{margin:10px 0 10px 22px}.rules li{margin:5px 0}.rules strong{font-weight:700}.rules hr{margin:30px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:18px 0;border-collapse:collapse;font-size:.82rem}.rules td{padding:9px;border:1px solid var(--line)}.rules img{max-width:100%;margin:12px 0}.rules blockquote{margin:18px 0;padding:12px 16px;border-left:4px solid var(--coral);background:#e5e3da}.rules a{text-decoration:underline}
+.related{margin-top:50px;border-top:1px solid var(--ink)}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);border:1px solid var(--line)}.related__card{display:flex;flex-direction:column;gap:4px;padding:15px;border:1px solid var(--line);margin:-1px 0 0 -1px}.related__card:hover{background:var(--acid)}.related__rel{font:.55rem var(--mono);text-transform:uppercase;color:var(--muted)}.related__name{font-weight:600}.related__note{font-size:.68rem;color:var(--muted)}
 
-/* ============ GAME CARDS ============ */
-.list{max-width:var(--maxw);margin:0 auto;padding:8px 18px 80px;display:flex;flex-direction:column;gap:7px}
-.game{display:flex;align-items:center;gap:12px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius);position:relative;transition:background .15s,border-color .15s}
-.game::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--c,var(--gold));border-radius:3px 0 0 3px;opacity:.6}
-.game:hover{background:var(--card-hi);border-color:rgba(202,158,230,.3)}
-.game:active{transform:scale(.99)}
-.game__mono{width:40px;height:40px;border-radius:10px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:1.1rem;font-weight:600;color:var(--c,var(--gold));background:color-mix(in srgb,var(--c,#ca9ee6) 14%,transparent);border:1px solid color-mix(in srgb,var(--c,#ca9ee6) 28%,transparent)}
-.game__thumb{width:40px;height:40px;border-radius:10px;flex-shrink:0;object-fit:cover;border:1px solid var(--border);background:rgba(255,255,255,.03)}
-.game__main{flex:1;min-width:0}
-.game__title{font-size:.95rem;font-weight:600;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.game__sub{display:block;font-size:.72rem;color:var(--gold);opacity:.65;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:1px}
-.game__meta{display:block;font-size:.65rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
-.game__fav{width:36px;height:36px;flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#5b6078;font-size:1rem;border-radius:50%;transition:color .15s}
-.game__fav:hover{color:var(--red)}
-.game__fav:active{transform:scale(.82)}
-.game__fav.on{color:var(--red)}
+#toast{position:fixed;z-index:60;left:50%;bottom:24px;transform:translateX(-50%);padding:10px 16px;background:var(--forest);color:#fff;font-size:.78rem;opacity:0;pointer-events:none;transition:opacity .15s}#toast.show{opacity:1}.sheet{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(9,24,19,.7);opacity:0;visibility:hidden;transition:opacity .15s}.sheet.open{opacity:1;visibility:visible}.sheet__panel{width:min(100%,680px);max-height:85dvh;margin:auto;padding:24px 20px calc(24px + env(safe-area-inset-bottom));overflow:auto;background:var(--paper);transform:translateY(20px);transition:transform .2s}.sheet.open .sheet__panel{transform:none}.sheet__grab{width:50px;border-top:3px solid var(--ink);margin:0 auto 20px}.sheet__title{margin-bottom:16px;font-size:1.3rem;font-weight:700}.note{margin-bottom:10px;color:var(--muted);font-size:.75rem;line-height:1.5}.field{display:flex;margin-bottom:18px}.field input{min-width:0;flex:1;height:44px;padding:0 10px;border:1px solid var(--ink);background:#fff}.btn{padding:0 16px;border:0;background:var(--acid);font-weight:700}.fav-row{display:flex;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}.fav-row__t{flex:1}.fav-row__t b,.fav-row__t small{display:block}.fav-row__t small{margin-top:3px;color:var(--muted)}
 
-/* ============ FAMILLES ============ */
-.families{max-width:var(--maxw);margin:0 auto;padding:8px 18px 80px}
-.families__title{font-family:var(--mono);font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
-.families__grid{display:flex;flex-direction:column;gap:8px}
-.family{padding:12px 16px;background:var(--card);border:1px solid var(--border);border-radius:var(--radius)}
-.family__name{font-family:var(--mono);font-size:.55rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);margin-bottom:8px}
-.family__members{display:flex;flex-wrap:wrap;gap:5px}
-.family__link{padding:4px 10px;border-radius:8px;background:rgba(255,255,255,.04);border:1px solid var(--border);color:var(--text);font-size:.76rem;transition:border-color .15s,color .15s}
-.family__link:hover{border-color:var(--gold);color:var(--gold)}
-
-/* ============ EMPTY ============ */
-.empty{text-align:center;padding:60px 24px;color:var(--muted)}
-.empty__big{font-size:2.4rem;margin-bottom:10px;opacity:.4}
-
-/* ============ READER — BAR ============ */
-.reader{width:100%;margin:0 auto;padding:0 0 60px}
-.bar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:10px;width:70%;max-width:1080px;margin:0 auto;padding:calc(8px + env(safe-area-inset-top)) 0 8px;background:linear-gradient(180deg,var(--bg) 75%,transparent);backdrop-filter:blur(8px)}
-.bar__back{width:34px;height:34px;border-radius:50%;background:var(--card);border:1px solid var(--border);color:var(--gold);font-size:1.2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0}
-.bar__back:active{transform:scale(.9)}
-
-/* ============ READER — HERO ============ */
-.reader-hero{--hero-c:var(--gold);position:relative;height:100dvh;min-height:420px;margin:0 calc(50% - 50vw);padding:clamp(80px,16vh,140px) 0 24px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;z-index:1}
-.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(22,24,36,.65),transparent 40%),linear-gradient(90deg,rgba(22,24,36,.55) 0%,rgba(22,24,36,.2) 50%,rgba(22,24,36,0) 100%)}
-.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(1.05) contrast(1.08) brightness(1.05)}
-.reader-hero__eyebrow{width:70%;max-width:1080px;font-family:var(--mono);color:var(--hero-c);font-size:.62rem;letter-spacing:.16em;text-transform:uppercase}
-.reader-hero h1{width:70%;max-width:1080px;margin:10px 0 16px;color:#f5eee5;font-family:var(--serif);font-size:clamp(2.5rem,8vw,6rem);font-weight:500;letter-spacing:-.02em;line-height:.92;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.3)}
-.reader-hero__alts{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:7px;margin:0 0 14px}
-.reader-hero__alt{padding:4px 12px;border:1px solid rgba(245,238,229,.32);border-radius:50px;background:rgba(245,238,229,.08);color:#f5eee5;font-family:var(--mono);font-size:.66rem;letter-spacing:.05em;backdrop-filter:blur(6px);transition:background .15s,border-color .15s}
-.reader-hero__alt:hover{background:rgba(245,238,229,.16);border-color:#f5eee5}
-.reader-hero__meta{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:6px;font-family:var(--mono)}
-.reader-hero__meta span{padding:4px 10px;border:1px solid rgba(245,238,229,.25);border-radius:8px;background:rgba(22,24,36,.45);color:#f5eee5;font-size:.66rem;backdrop-filter:blur(6px)}
-
-/* ============ READER — BODY ============ */
-.reader-body{--fade-h:200px;position:relative;z-index:2;margin:-160px 0 0;padding:var(--fade-h) 0 60px;background:transparent}
-.reader-body::before{content:'';position:absolute;z-index:0;top:0;left:0;right:0;height:var(--fade-h);background:linear-gradient(180deg,transparent,var(--bg));pointer-events:none}
-.reader-body::after{content:'';position:absolute;z-index:0;top:var(--fade-h);right:0;bottom:0;left:0;background:var(--bg);pointer-events:none}
-.reader-body-inner{position:relative;z-index:1;width:70%;max-width:1080px;margin:0 auto}
-
-/* ============ READER — SUMMARY + ACTIONS ============ */
-.reader-summary{margin-bottom:20px;padding:14px 18px;background:rgba(202,158,230,.06);border:1px solid rgba(202,158,230,.16);border-radius:14px}
-.reader-summary__text{font-size:.85rem;color:var(--muted);line-height:1.55;margin:0}
-.raction{display:flex;gap:10px;margin-bottom:18px}
-.rbtn{flex:1;height:46px;border-radius:12px;font-weight:700;font-size:.88rem;display:flex;align-items:center;justify-content:center;gap:7px;transition:transform .1s}
-.rbtn:active{transform:scale(.96)}
-.rbtn--like{background:linear-gradient(135deg,#3a2a4a,#4a3a5a);color:var(--gold);border:1px solid rgba(202,158,230,.22)}
-.rbtn--fav{background:var(--card);border:1px solid var(--border);color:var(--muted)}
-
-/* ============ YOUTUBE ============ */
-.reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 20px;padding:12px 16px;border:1px solid rgba(239,159,118,.3);border-radius:12px;background:rgba(239,159,118,.08);color:var(--peach);font-size:.82rem;font-weight:700;transition:background .15s,border-color .15s}
-.reader__youtube:hover{background:rgba(239,159,118,.14);border-color:var(--peach)}
-.yt-alts{display:flex;flex-wrap:wrap;gap:6px;margin:-10px 0 20px}
-.yt-alt{padding:4px 11px;border:1px solid var(--border);border-radius:50px;background:var(--card);color:var(--muted);font-size:.72rem;transition:color .15s,border-color .15s}
-.yt-alt:hover{color:var(--peach);border-color:var(--peach)}
-
-/* ============ RULES ============ */
-.rules-title{font-family:var(--mono);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:24px 0 10px;padding-top:16px;border-top:1px solid var(--border)}
-.rules{font-size:.92rem;line-height:1.7;color:var(--text)}
-.rules h1{font-family:var(--serif);font-size:1.4rem;color:var(--gold);margin:24px 0 8px}
-.rules h2{font-size:1.1rem;color:var(--text);margin:22px 0 8px;padding-bottom:5px;border-bottom:1px solid var(--border)}
-.rules h3{font-size:1rem;color:var(--gold);margin:16px 0 5px}
-.rules p{margin:7px 0}
-.rules strong{color:#fff}
-.rules ul,.rules ol{margin:7px 0 7px 20px}
-.rules li{margin:3px 0}
-.rules hr{border:none;border-top:1px solid var(--border);margin:18px 0}
-.rules table{width:100%;border-collapse:collapse;margin:10px 0;font-size:.82rem}
-.rules td{padding:6px 9px;border:1px solid var(--border)}
-.rules td:first-child{color:var(--gold);font-weight:600}
-.rules img{max-width:100%;border-radius:10px;margin:4px 0 8px}
-.rules blockquote{margin:10px 0;padding:7px 12px;border-left:3px solid var(--gold);background:rgba(255,255,255,.03);color:var(--muted);font-size:.82rem}
-.rules blockquote a{color:var(--gold)}
-
-/* ============ RELATED ============ */
-.related{margin-top:28px;padding-top:20px;border-top:1px solid var(--border)}
-.related__title{font-family:var(--mono);font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
-.related__grid{display:flex;flex-wrap:wrap;gap:7px}
-.related__card{display:flex;flex-direction:column;gap:2px;padding:9px 13px;border:1px solid var(--border);border-radius:10px;background:var(--card);min-width:130px;transition:border-color .15s,color .15s}
-.related__card:hover{border-color:var(--gold)}
-.related__rel{font-family:var(--mono);font-size:.5rem;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
-.related__name{font-size:.84rem;font-weight:600;color:var(--text)}
-.related__note{font-size:.64rem;color:var(--muted)}
-
-/* ============ TOAST + SHEET ============ */
-#toast{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--bg-deep);border:1px solid var(--border);color:#fff;padding:9px 16px;border-radius:10px;font-size:.82rem;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
-#toast.show{opacity:1}
-.sheet{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.55);display:flex;align-items:flex-end;opacity:0;visibility:hidden;transition:opacity .2s,visibility .2s}
-.sheet.open{opacity:1;visibility:visible}
-.sheet__panel{width:100%;max-width:var(--maxw);margin:0 auto;background:var(--bg-deep);border-top-left-radius:20px;border-top-right-radius:20px;padding:12px 16px calc(16px + env(safe-area-inset-bottom));max-height:85dvh;overflow:auto;transform:translateY(20px);transition:transform .25s}
-.sheet.open .sheet__panel{transform:translateY(0)}
-.sheet__grab{width:34px;height:4px;border-radius:3px;background:#444;margin:0 auto 10px}
-.sheet__title{font-size:1rem;color:var(--text);margin-bottom:12px}
-.fav-row{display:flex;align-items:center;gap:10px;padding:11px;background:var(--card);border:1px solid var(--border);border-radius:11px;margin-bottom:7px}
-.fav-row__t{flex:1}.fav-row__t b{display:block;color:var(--text);font-size:.88rem}.fav-row__t small{color:var(--muted);font-size:.68rem}
-.field{display:flex;gap:8px;margin-bottom:12px}
-.field input{flex:1;background:var(--bg);border:1px solid var(--border);color:var(--text);border-radius:10px;padding:10px;font-size:.88rem;outline:none}
-.btn{height:42px;border-radius:10px;background:var(--gold);color:#232634;font-weight:700;padding:0 16px}
-.note{font-size:.7rem;color:var(--muted);margin-bottom:8px;line-height:1.5}
-
-/* ============ RESPONSIVE ============ */
-@media(max-width:700px){
-  .bar{width:100%;padding-left:16px;padding-right:16px}
-  .reader-hero__eyebrow,.reader-hero h1,.reader-hero__alts,.reader-hero__meta{width:100%}
-  .reader-hero{padding:80px 16px 22px}
-  .reader-hero__image{object-position:62% center}
-  .reader-body{--fade-h:140px;margin-top:-100px}
-  .reader-body-inner{width:100%;padding:0 16px}
-  .hero__art{transform:scale(.7) rotate(6deg);transform-origin:top right;opacity:.5}
-  .hero__mark{font-size:5rem}
+@media(max-width:760px){
+  .brandrow{min-width:0}.brand{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.58rem}.brand .ver{display:none}.iconbtn{min-height:44px;flex:none;padding:7px;font-size:.58rem}
+  .launcher{display:block;padding-top:42px}.launcher h1{font-size:clamp(3.3rem,17vw,5.4rem)}.launcher__intro>p:last-child{margin:18px 0 34px}.search input{height:60px}.chips{margin:22px -18px 0;padding:0 18px}.chip,.random{min-height:44px}.launcher__actions{justify-content:space-between}
+  .section-head{padding-top:26px}.game{grid-template-columns:40px minmax(0,1fr) 44px;min-height:92px}.game__main{padding-left:6px}.game__title{font-size:1.1rem}.game__fav{font-size:.55rem}.families__grid{grid-template-columns:1fr}
+  .reader{display:block;width:100%;max-width:100vw}.bar{width:100%;padding:calc(14px + env(safe-area-inset-top)) 16px 12px}.reader-hero{position:relative;height:62dvh;min-height:430px;padding:90px 18px 24px}.reader-hero h1{font-size:clamp(2.8rem,14vw,4.8rem)}.reader-body-inner{width:100%;padding:48px 18px 80px}.reader-summary__text{font-size:1.35rem}.reader-hero__meta span{font-size:.65rem}.raction,.rbtn{min-width:0}.rbtn{padding:8px}.rules{overflow-wrap:anywhere}.rules table{display:block;overflow-x:auto}.related__grid{grid-template-columns:1fr}
+  body.searching .launcher__intro{display:none}body.searching .launcher{padding-top:24px}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important}}
 </style>
@@ -676,14 +519,14 @@ body.searching .hero{display:none}
       $titleMap = $titles->fetchAll(PDO::FETCH_KEY_PAIR);
     } else { $titleMap = []; }
 ?>
-  <div class="reader">
+  <div class="reader" data-prev="<?= e($prevSlug) ?>" data-next="<?= e($nextSlug) ?>">
     <div class="bar">
-      <a class="bar__back" href="<?= e(qs_home()) ?>" aria-label="Retour">‹</a>
-      <span style="color:#777;font-size:.8rem"><?= e($g['type'] ?: 'Jeu de cartes') ?></span>
+      <a class="bar__back" href="<?= e(qs_home()) ?>">Retour</a>
+      <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
       <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" alt="Photographie de cartes pour <?= e($g['title']) ?>" referrerpolicy="no-referrer">
-      <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> · <span style="color:var(--green)">MISTIGRI</span><?php endif; ?></div>
+      <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> / MISTIGRI<?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <?php if ($altNames): ?>
       <div class="reader-hero__alts">
@@ -693,10 +536,9 @@ body.searching .hero{display:none}
       </div>
       <?php endif; ?>
       <div class="reader-hero__meta">
-        <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
-        <?php if ($g['cards']): ?><span>🂠 <?= e($g['cards']) ?></span><?php endif; ?>
-        <?php if ($g['difficulty']): ?><span><?= e($g['difficulty']) ?></span><?php endif; ?>
-        <?php if ($g['goal']): ?><span>🎯 <?= e($g['goal']) ?></span><?php endif; ?>
+        <?php if ($g['players']): ?><span><small>Joueurs</small><?= e($g['players']) ?></span><?php endif; ?>
+        <?php if ($g['cards']): ?><span><small>Cartes</small><?= e($g['cards']) ?></span><?php endif; ?>
+        <?php if ($g['difficulty']): ?><span><small>Niveau</small><?= e($g['difficulty']) ?></span><?php endif; ?>
       </div>
     </section>
     <div class="reader-body">
@@ -711,11 +553,11 @@ body.searching .hero{display:none}
     </div>
     <?php endif; ?>
     <div class="raction">
-      <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
-      <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
+      <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">Règle utile <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
+      <button class="rbtn rbtn--fav" id="favBtn" data-fav="<?= e($g['slug']) ?>">Ajouter aux favoris</button>
     </div>
     <?php if ($yNames): $_main = array_shift($yNames); ?>
-    <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer">▶ Règles du jeu « <?= e($_main) ?> » sur YouTube</a>
+    <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer">Voir la règle « <?= e($_main) ?> » sur YouTube</a>
     <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
     <?php endif; ?>
     <h2 class="rules-title">Règles détaillées</h2>
@@ -739,7 +581,7 @@ body.searching .hero{display:none}
   </div>
 <?php endif;
   if ($view === 'notfound'): ?>
-    <div class="empty"><div class="empty__big">🃏</div><h2>Jeu introuvable</h2><p><a class="chip chip--active" href="<?= e(qs_home()) ?>">← Retour</a></p></div>
+    <div class="empty"><h2>Jeu introuvable</h2><p><a class="chip chip--active" href="<?= e(qs_home()) ?>">Retour</a></p></div>
 <?php endif;
 
 else:
@@ -763,47 +605,48 @@ else:
   foreach ($families as $note => &$slugs) { $slugs = array_unique($slugs); sort($slugs); }
   unset($slugs);
 ?>
-  <div class="topfix">
+  <header class="topfix">
     <div class="topfix__inner">
       <div class="brandrow">
-        <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil">PK<b>cards</b><span class="suits">♠♥♦♣</span><span class="ver">v<?= VERSION ?></span></a>
+        <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil"><b>PK</b> / GUIDE DE TABLE <span class="ver">v<?= VERSION ?></span></a>
         <span class="spacer"></span>
-        <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>" title="Meilleurs jeux" aria-label="Top">🏆</a>
-        <button class="iconbtn" id="favOpen" title="Favoris" aria-label="Favoris">♥<span class="dot" id="favDot" hidden>0</span></button>
+        <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>">Top</a>
+        <button class="iconbtn" id="favOpen">Favoris <span class="dot" id="favDot" hidden>0</span></button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="launcher" aria-labelledby="heroTitle">
+      <div class="launcher__intro">
+        <p class="eyebrow"><?= $TOTAL ?> règles vérifiées / accès immédiat</p>
+        <h1 id="heroTitle">On joue<br>à quoi ?</h1>
+        <p>Nom officiel, surnom local ou type de jeu : une frappe suffit.</p>
       </div>
       <?php if (!$isTop): ?>
       <div class="search">
-        <input type="search" id="searchInput" placeholder="Rechercher un jeu, un type…" autocomplete="off" autocapitalize="off" spellcheck="false">
+        <label for="searchInput">Trouver une règle</label>
+        <input type="search" id="searchInput" placeholder="Yaniv, Main Verte, Speed…" autocomplete="off" autocapitalize="off" spellcheck="false">
+        <span class="search__key">⌘ K</span>
+      </div>
+      <div class="launcher__actions">
+        <button class="random" id="randomGame">Choisir au hasard</button>
+        <?php if ($families): ?><a href="#families">Voir les familles</a><?php endif; ?>
       </div>
       <div class="chips" id="chips">
         <button class="chip chip--active" data-cat="">Tous</button>
         <?php foreach ($CATEGORIES as $key => $info): ?>
-          <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> · <?= (int)($info['count'] ?? 0) ?></button>
+          <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> <span><?= (int)($info['count'] ?? 0) ?></span></button>
         <?php endforeach; ?>
       </div>
+      <?php else: ?>
+      <p class="top-intro">Les règles les plus utiles selon les joueurs.</p>
       <?php endif; ?>
-    </div>
-  </div>
-
-  <main>
-    <section class="hero" aria-labelledby="heroTitle">
-      <div class="hero__copy">
-        <p class="eyebrow">bibliothèque de table <span>·</span> v3</p>
-        <h1 id="heroTitle">Les cartes<br><i>restent en main.</i></h1>
-        <p class="hero__intro">Explorez les règles, retrouvez un jeu en une frappe et gardez vos classiques à portée de table.</p>
-        <div class="hero__meta"><span><b><?= $TOTAL ?></b> jeux indexés</span><span><b>⌘ K</b> recherche rapide</span></div>
-      </div>
-      <div class="hero__mark" aria-hidden="true"><span>♠</span><span>♥</span><span>♦</span><span>♣</span></div>
-      <div class="hero__art" aria-hidden="true">
-        <div class="hero__card hero__card--back"><small>PKcards<br>jeu libre</small></div>
-        <div class="hero__card hero__card--front"><small>jeu de table</small><b>♥</b><span>♥</span></div>
-      </div>
-      <div class="hero__fade" aria-hidden="true"></div>
     </section>
-    <div class="section-head"><p class="eyebrow">le catalogue</p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
+    <div class="section-head"><p class="eyebrow"><?= $isTop ? 'Classement' : 'Répertoire' ?></p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
 
   <div class="list" id="list">
-    <?php foreach ($games as $g):
+    <?php foreach ($games as $index => $g):
       $c = $g['color'] ?: '#e8c46a';
       $pshort = player_short($g);
       $init = mb_strtoupper(mb_substr(preg_replace('/^[«"\']/','',trim($g['title'])), 0, 1, 'UTF-8'), 'UTF-8'); ?>
@@ -814,9 +657,7 @@ else:
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
-        <?php if ($g['image']): ?><img class="game__thumb" src="?img=<?= e(urlencode($g['image'])) ?>" alt="" loading="lazy"><?php else: ?>
-        <span class="game__mono"><?= e($init ?: '🂠') ?></span>
-        <?php endif; ?>
+        <span class="game__index"><?= str_pad((string)($index + 1), 3, '0', STR_PAD_LEFT) ?></span>
         <span class="game__main">
           <span class="game__title"><?= e($g['title']) ?></span>
           <?php
@@ -824,12 +665,12 @@ else:
             if ($gAlts): ?>
           <span class="game__sub"><?= e(implode(' · ', $gAlts)) ?></span>
           <?php endif; ?>
-          <span class="game__meta"><?php if ($pshort): ?>👥 <?= e($pshort) ?><?php endif; ?><?php if ($pshort && $g['difficulty']): ?> · <?php endif; ?><?php if ($g['difficulty']): ?><?= e($g['difficulty']) ?><?php endif; ?><?php if ((int)$g['votes'] > 0): ?> · ♥ <?= (int)$g['votes'] ?><?php endif; ?></span>
+          <span class="game__meta"><?php if ($pshort): ?><?= e($pshort) ?> joueurs<?php endif; ?><?php if ($pshort && $g['difficulty']): ?> / <?php endif; ?><?php if ($g['difficulty']): ?><?= e($g['difficulty']) ?><?php endif; ?><?php if ((int)$g['votes'] > 0): ?> / <?= (int)$g['votes'] ?> votes<?php endif; ?></span>
         </span>
-        <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Favori">♥</button>
+        <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Ajouter aux favoris">Fav</button>
       </a>
     <?php endforeach; ?>
-    <div class="empty" id="emptyState" hidden><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
+    <div class="empty" id="emptyState" hidden><h2>Aucun jeu trouvé</h2><p>Essayez un autre nom ou une autre famille.</p></div>
   </div>
   <?php if ($families): ?>
   <section class="families" id="families">
@@ -855,7 +696,7 @@ else:
 <div class="sheet" id="favSheet">
   <div class="sheet__panel">
     <div class="sheet__grab"></div>
-    <div class="sheet__title">♥ Mes favoris</div>
+    <div class="sheet__title">Mes favoris</div>
     <p class="note">Votre email synchronise vos favoris entre appareils. Aucun mot de passe.</p>
     <div class="field">
       <input type="email" id="emailField" placeholder="votre@email.com" autocomplete="email">
@@ -884,7 +725,7 @@ function syncFavUI(){
     b.classList.toggle('on', favs.has(b.dataset.fav));
   });
   const dot=document.getElementById('favDot');
-  if(favs.size){dot.hidden=false; dot.textContent=favs.size;} else dot.hidden=true;
+  if(dot){ if(favs.size){dot.hidden=false; dot.textContent=favs.size;} else dot.hidden=true; }
 }
 async function loadFavs(){
   if(!email) return;
@@ -910,7 +751,7 @@ const sheet=document.getElementById('favSheet');
 function openFavSheet(){ sheet.classList.add('open'); document.getElementById('emailField').value=email; renderFavList(); }
 function closeFavSheet(){ sheet.classList.remove('open'); }
 sheet.addEventListener('click', e=>{ if(e.target===sheet) closeFavSheet(); });
-document.getElementById('favOpen').addEventListener('click', openFavSheet);
+document.getElementById('favOpen')?.addEventListener('click', openFavSheet);
 document.getElementById('emailSave').addEventListener('click', async ()=>{
   email = document.getElementById('emailField').value.trim().toLowerCase();
   if(!email) return;
@@ -932,7 +773,7 @@ async function renderFavList(){
   const titles = <?= json_encode(array_column(Vault::games(), 'title', 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
   [...favs].forEach(s=>{
     const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
-    d.innerHTML='<div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle →</small></div><span class="heart on">♥</span>';
+    d.innerHTML='<div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle</small></div><span>Favori</span>';
     box.appendChild(d);
   });
 }
@@ -942,7 +783,7 @@ const lb=document.getElementById('likeBtn');
 if(lb){ lb.addEventListener('click', async ()=>{
   const slug=lb.dataset.slug;
   const r=await post('vote',{game:slug});
-  if(r&&r.ok){ document.getElementById('likeCount').textContent=r.count; lb.style.transform='scale(.94)'; setTimeout(()=>lb.style.transform='',120); toast('Merci ! ♥ '+r.count); }
+  if(r&&r.ok){ document.getElementById('likeCount').textContent=r.count; lb.style.transform='scale(.94)'; setTimeout(()=>lb.style.transform='',120); toast('Merci, '+r.count+' votes'); }
   else toast(r&&r.error==='too_soon'?'Trop vite !':'Vote bloqué');
 });}
 
@@ -984,8 +825,26 @@ if(chipsEl) chipsEl.addEventListener('click', e=>{
   applyFilter();
 });
 
+document.getElementById('randomGame')?.addEventListener('click', ()=>{
+  const choices=[...listEl.querySelectorAll('.game')].filter(el=>el.style.display!=='none');
+  if(choices.length) location.href=choices[Math.floor(Math.random()*choices.length)].href;
+});
+searchInputEl?.addEventListener('keydown', e=>{
+  if(e.key==='Enter'){
+    const first=[...listEl.querySelectorAll('.game')].find(el=>el.style.display!=='none');
+    if(first) location.href=first.href;
+  }
+});
+
 // Recherche par frappe : le catalogue reste directement explorable au clavier.
 document.addEventListener('keydown', e=>{
+  const reader=document.querySelector('.reader');
+  if(reader && !e.target.matches('input,textarea,button,a')){
+    if(e.key==='ArrowLeft') location.href='?game='+encodeURIComponent(reader.dataset.prev);
+    if(e.key==='ArrowRight') location.href='?game='+encodeURIComponent(reader.dataset.next);
+    if(e.key==='Escape') location.href='?';
+    return;
+  }
   if(!searchInputEl || e.target.matches('input,textarea,button,a')) return;
   if((e.metaKey || e.ctrlKey) && e.key.toLowerCase()==='k'){ e.preventDefault(); searchInputEl.focus(); return; }
   if(e.key.length===1 && !e.metaKey && !e.ctrlKey && !e.altKey){ e.preventDefault(); searchInputEl.focus(); searchInputEl.value=e.key; applyFilter(); }
@@ -1013,12 +872,5 @@ function qs_home(array $extra = []): string {
 function qs_game(string $slug, array $extra = []): string {
   $parts = array_merge(['game' => $slug], $extra);
   return '?' . http_build_query($parts);
-}
-function game_glyph(string $slug): string {
-  $map = ['regicide'=>'♚','yaniv'=>'🃏','president'=>'👑','kems'=>'🤝','bataille-corse'=>'⚡',
-          'paquet-de-merde'=>'💩','pouilleux'=>'🤢','tarot'=>'🃏','belote'=>'♠','rummy'=>'🔄',
-          'gin-rummy'=>'🍸','barbu'=>'🧔','poker'=>'🎲','blackjack'=>'🂡','uno'=>'1️⃣'];
-  foreach ($map as $k=>$v) if (str_contains($slug, $k)) return $v;
-  return '🂠';
 }
 // builder for the home-count line was inlined above
