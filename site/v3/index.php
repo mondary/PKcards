@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.1';
+const VERSION = '2026.08.2';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -72,18 +72,23 @@ class Vault {
     $cs = strpos($f, 'CATEGORY_INFO'); $cs = strpos($f, '{', $cs); $ce = strpos($f, '};', $cs);
     $cats = json_decode(substr($f, $cs, $ce - $cs + 1), true) ?: [];
 
-    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $ins = $db->prepare('INSERT INTO games(slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $kv  = $db->prepare('INSERT INTO kv(path,mime,body,updated_at) VALUES(?,?,?,?)');
+    $gn  = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
     $i = 0;
     foreach ($games as $g) {
       $slug = is_string($g['id'] ?? null) && $g['id'] !== '' ? $g['id'] : self::slug($g['title'] ?? 'game-'.$i);
       $ins->execute([
         $slug, $g['title'] ?? '', $g['players'] ?? '', $g['cards'] ?? '',
         $g['difficulty'] ?? '', $g['type'] ?? '', $g['goal'] ?? '',
-        $g['category'] ?? '', $g['color'] ?? '#e8c46a', $g['aliases'] ?? '',
+        $g['category'] ?? '', $g['color'] ?? '#e8c46a',
         mb_strimwidth((string)($g['excerpt'] ?? ''), 0, 160, '…', 'UTF-8'),
         (int)($g['playerMin'] ?? 0), (int)($g['playerMax'] ?? 0), $i, 0,
       ]);
+      foreach (array_filter(array_merge([$g['title'] ?? ''], preg_split('/[,\/]/', $g['aliases'] ?? ''))) as $n) {
+        $n = trim(preg_replace('/^\p{So}+\s*/u', '', $n));
+        if ($n !== '') $gn->execute([$slug, $n]);
+      }
       $kv->execute(['/games/' . $slug . '.md', 'text/markdown', (string)($g['markdown'] ?? ''), time()]);
       $i++;
     }
@@ -96,9 +101,10 @@ class Vault {
     if (!is_dir($dir)) return;
     $db = self::$pdo;
     $insert = $db->prepare('INSERT OR IGNORE INTO games
-      (slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm)
-      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+      (slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_clm=1 WHERE slug=?');
+    $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
     $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
     foreach (glob($dir . '/*.md') ?: [] as $file) {
       $slug = pathinfo($file, PATHINFO_FILENAME);
@@ -116,7 +122,8 @@ class Vault {
       $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
       $values = [$title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
-      if (!$update->rowCount()) $insert->execute([$slug, ...array_slice($values, 0, 1), $players, $cards, 'CLM', 'Règle maison', '', 'clm', '#ca9ee6', '', $values[7], $min, $max, $sort++, 1]);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, 'CLM', 'Règle maison', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
+      $gn->execute([$slug, $title]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
   }
@@ -127,9 +134,10 @@ class Vault {
     if (!is_dir($dir)) return;
     $db = self::$pdo;
     $insert = $db->prepare('INSERT OR IGNORE INTO games
-      (slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm,is_mistigri,image)
-      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+      (slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm,is_mistigri,image)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,goal=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_mistigri=1,image=? WHERE slug=?');
+    $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
     $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
     $mimes = ['jpg' => 'image/jpeg', 'jpeg' => 'image/jpeg', 'png' => 'image/png', 'gif' => 'image/gif', 'webp' => 'image/webp'];
     foreach (glob($dir . '/*.md') ?: [] as $file) {
@@ -161,7 +169,8 @@ class Vault {
       $excerpt = mb_strimwidth($plain, 0, 160, '…', 'UTF-8');
       $values = [$title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', $excerpt, $min, $max, $image, $slug];
       $update->execute($values);
-      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', '', $excerpt, $min, $max, $sort++, 0, 1, $image]);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', $excerpt, $min, $max, $sort++, 0, 1, $image]);
+      $gn->execute([$slug, $title]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
   }
@@ -204,7 +213,7 @@ class Vault {
     $w = []; $a = [];
     if (!empty($o['cat'])) { $w[] = 'category=?'; $a[] = $o['cat']; }
     if (!empty($o['q'])) {
-      $w[] = '(title LIKE ? OR aliases LIKE ? OR type LIKE ? OR excerpt LIKE ?)';
+      $w[] = '(title LIKE ? OR EXISTS(SELECT 1 FROM game_names gn WHERE gn.slug=games.slug AND gn.name LIKE ?) OR type LIKE ? OR excerpt LIKE ?)';
       $q = '%' . $o['q'] . '%'; array_push($a, $q, $q, $q, $q);
     }
     $sql = 'SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games';
@@ -486,6 +495,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .game__fav:active{transform:scale(.82)}
 .game__fav.on{color:var(--red)}
 
+.families{max-width:680px;margin:0 auto;padding:10px 14px 110px}.families__title{font-family:ui-monospace,monospace;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}.families__grid{display:flex;flex-direction:column;gap:10px}.family{padding:14px 16px;background:var(--card);border:1px solid var(--border);border-radius:14px}.family__name{font-family:ui-monospace,monospace;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:8px}.family__members{display:flex;flex-wrap:wrap;gap:6px}.family__link{padding:4px 10px;border-radius:8px;background:rgba(255,255,255,.04);border:1px solid var(--border);color:var(--text);font-size:.78rem;transition:border-color .15s,color .15s}.family__link:hover{border-color:var(--gold);color:var(--gold)}
+
 .count-line{text-align:center;font-size:.72rem;color:#52525e;padding:6px 0 2px;letter-spacing:.3px}
 .empty{text-align:center;padding:60px 24px;color:var(--muted)}
 .empty__big{font-size:2.6rem;margin-bottom:12px;opacity:.45}
@@ -523,6 +534,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .rules img{max-width:100%;border-radius:12px;margin:2px 0 10px}
 .rules blockquote{margin:12px 0;padding:8px 14px;border-left:3px solid var(--gold);background:rgba(255,255,255,.03);color:var(--muted);font-size:.85rem}
 .rules blockquote a{color:var(--gold)}
+.related{margin-top:32px;padding-top:24px;border-top:1px solid var(--border)}.related__title{font-family:ui-monospace,monospace;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}.related__grid{display:flex;flex-wrap:wrap;gap:8px}.related__card{display:flex;flex-direction:column;gap:2px;padding:10px 14px;border:1px solid var(--border);border-radius:10px;background:var(--card);min-width:140px;transition:border-color .15s,color .15s}.related__card:hover{border-color:var(--gold);color:var(--gold)}.related__rel{font-family:ui-monospace,monospace;font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold)}.related__name{font-size:.88rem;font-weight:600;color:#f2f2f8}.related__note{font-size:.68rem;color:var(--muted)}
 
 /* TOAST + FAV SHEET */
 #toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translateX(-50%);background:rgba(20,20,32,.96);border:1px solid var(--border);color:#fff;padding:10px 18px;border-radius:12px;font-size:.85rem;z-index:60;opacity:0;transition:opacity .2s;pointer-events:none}
@@ -572,7 +584,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
   .tag--clm,.tag--mistigri{color:var(--green);background:rgba(166,209,137,.12);font-weight:700}
    .reader__youtube{display:flex;align-items:center;justify-content:center;gap:8px;margin:0 0 24px;padding:13px 16px;border:1px solid rgba(239,159,118,.35);border-radius:12px;background:rgba(239,159,118,.1);color:var(--peach);font-size:.86rem;font-weight:700;transition:transform .18s ease,background .18s ease,border-color .18s ease}.reader__youtube:hover{transform:translateY(-2px);background:rgba(239,159,118,.16);border-color:var(--peach)}
    .yt-alts{display:flex;flex-wrap:wrap;gap:7px;margin:-12px 0 24px}.yt-alt{padding:5px 12px;border:1px solid var(--border);border-radius:50px;background:var(--card);color:var(--muted);font-size:.76rem;transition:color .15s,border-color .15s,background .15s}.yt-alt:hover{color:var(--peach);border-color:var(--peach);background:rgba(239,159,118,.08)}
-   .reader-hero{--hero-c:var(--gold);position:relative;height:100dvh;min-height:420px;margin:0 calc(50% - 50vw);padding:clamp(96px,18vh,150px) 0 26px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:end;align-items:center;z-index:1}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(22,24,36,.62),transparent 38%),linear-gradient(90deg,rgba(22,24,36,.5) 0%,rgba(22,24,36,.18) 50%,rgba(22,24,36,0) 100%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(1.05) contrast(1.08) brightness(1.05)}.reader-hero__eyebrow{width:70%;max-width:1080px;font-family:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase}.reader-hero h1{width:70%;max-width:1080px;margin:13px 0 20px;color:#f5eee5;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(3rem,9vw,7rem);font-weight:500;letter-spacing:-.02em;line-height:.9;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:7px;font-family:'DM Mono',ui-monospace,monospace}.reader-hero__alts{width:70%;max-width:1080px;margin:0 0 14px;color:rgba(245,238,229,.72);font-family:'DM Mono',ui-monospace,monospace;font-size:.72rem;letter-spacing:.04em}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.7rem;letter-spacing:.04em;backdrop-filter:blur(6px)}
+   .reader-hero{--hero-c:var(--gold);position:relative;height:100dvh;min-height:420px;margin:0 calc(50% - 50vw);padding:clamp(96px,18vh,150px) 0 26px;overflow:hidden;background:#1d2030;isolation:isolate;display:flex;flex-direction:column;justify-content:end;align-items:center;z-index:1}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(22,24,36,.62),transparent 38%),linear-gradient(90deg,rgba(22,24,36,.5) 0%,rgba(22,24,36,.18) 50%,rgba(22,24,36,0) 100%)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(1.05) contrast(1.08) brightness(1.05)}.reader-hero__eyebrow{width:70%;max-width:1080px;font-family:'DM Mono',ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--hero-c);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase}.reader-hero h1{width:70%;max-width:1080px;margin:13px 0 20px;color:#f5eee5;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(3rem,9vw,7rem);font-weight:500;letter-spacing:-.02em;line-height:.9;text-wrap:balance;text-shadow:0 3px 24px rgba(0,0,0,.28)}.reader-hero__meta{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:7px;font-family:'DM Mono',ui-monospace,monospace}.reader-hero__alts{width:70%;max-width:1080px;display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}.reader-hero__alt{padding:5px 14px;border:1px solid rgba(245,238,229,.35);border-radius:50px;background:rgba(245,238,229,.08);color:#f5eee5;font-family:'DM Mono',ui-monospace,monospace;font-size:.72rem;letter-spacing:.06em;backdrop-filter:blur(6px);cursor:pointer;transition:background .15s,border-color .15s}.reader-hero__alt:hover{background:rgba(245,238,229,.16);border-color:#f5eee5}.reader-hero__meta span{padding:5px 10px;border:1px solid rgba(245,238,229,.28);border-radius:8px;background:rgba(22,24,36,.4);color:#f5eee5;font-size:.7rem;letter-spacing:.04em;backdrop-filter:blur(6px)}
    .reader-body{--fade-h:220px;position:relative;z-index:2;margin:-180px 0 0;padding:var(--fade-h) 0 70px;background:transparent}.reader-body::before{content:'';position:absolute;z-index:0;top:0;left:0;right:0;height:var(--fade-h);background:linear-gradient(180deg,transparent,var(--bg));pointer-events:none}.reader-body::after{content:'';position:absolute;z-index:0;top:var(--fade-h);right:0;bottom:0;left:0;background:var(--bg);pointer-events:none}.reader-body-inner{position:relative;z-index:1;width:70%;max-width:1080px;margin:0 auto}
  .count-line{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.65rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
  :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
@@ -596,6 +608,16 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     $heroPhoto = $g['image'] ? '?img=' . urlencode($g['image']) : hero_photo($g);
     // retirer le H1 du markdown (déjà affiché en titre)
     $md = preg_replace('/^#\s+.+\n?/m', '', $md, 1);
+    // Jeux liés depuis game_links (bidirectionnel).
+    $_rl = Vault::db()->prepare("SELECT DISTINCT rel, note, related AS rslug FROM game_links WHERE slug=? UNION SELECT DISTINCT rel, note, slug AS rslug FROM game_links WHERE related=? ORDER BY rel, rslug");
+    $_rl->execute([$g['slug'], $g['slug']]);
+    $related = $_rl->fetchAll(PDO::FETCH_ASSOC);
+    if ($related) {
+      $slugs = array_column($related, 'rslug');
+      $titles = Vault::db()->prepare("SELECT slug, title FROM games WHERE slug IN (" . implode(',', array_fill(0, count($slugs), '?')) . ")");
+      $titles->execute($slugs);
+      $titleMap = $titles->fetchAll(PDO::FETCH_KEY_PAIR);
+    } else { $titleMap = []; }
 ?>
   <div class="reader">
     <div class="bar">
@@ -607,7 +629,11 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
       <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> · <span style="color:var(--green)">MISTIGRI</span><?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <?php if ($altNames): ?>
-      <p class="reader-hero__alts">aussi appelé : <?= e(implode(' · ', $altNames)) ?></p>
+      <div class="reader-hero__alts">
+        <?php foreach ($altNames as $_a): ?>
+        <a class="reader-hero__alt" href="https://www.youtube.com/results?search_query=<?= e(rawurlencode('règles du jeu '.$_a)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_a) ?></a>
+        <?php endforeach; ?>
+      </div>
       <?php endif; ?>
       <div class="reader-hero__meta">
         <?php if ($g['players']): ?><span>👥 <?= e($g['players']) ?></span><?php endif; ?>
@@ -627,6 +653,20 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
     <?php endif; ?>
     <div class="rules"><?= md2html($md) ?></div>
+    <?php if ($related): ?>
+    <div class="related">
+      <h2 class="related__title">Jeux liés</h2>
+      <div class="related__grid">
+        <?php foreach ($related as $r): ?>
+        <a class="related__card" href="?game=<?= e($r['rslug']) ?>">
+          <span class="related__rel"><?= e($r['rel']) ?></span>
+          <span class="related__name"><?= e($titleMap[$r['rslug']] ?? $r['rslug']) ?></span>
+          <?php if ($r['note']): ?><span class="related__note"><?= e($r['note']) ?></span><?php endif; ?>
+        </a>
+        <?php endforeach; ?>
+      </div>
+    </div>
+    <?php endif; ?>
     </div>
     </div>
   </div>
@@ -644,6 +684,12 @@ else:
   foreach (Vault::db()->query("SELECT slug, group_concat(lower(name),' ') AS names FROM game_names GROUP BY slug")->fetchAll(PDO::FETCH_ASSOC) as $r) {
     $namesMap[$r['slug']] = $r['names'];
   }
+  // Familles depuis game_links.
+  $families = [];
+  $_fl = Vault::db()->query("SELECT note, slug AS s FROM game_links UNION SELECT note, related AS s FROM game_links ORDER BY note, s");
+  foreach ($_fl->fetchAll(PDO::FETCH_ASSOC) as $r) $families[$r['note']][] = $r['s'];
+  foreach ($families as $note => &$slugs) { $slugs = array_unique($slugs); sort($slugs); }
+  unset($slugs);
 ?>
   <div class="topfix">
     <div class="topfix__inner">
@@ -692,7 +738,7 @@ else:
       <a class="game" style="--c:<?= e($c) ?>"
          href="<?= e(qs_game($g['slug'])) ?>"
          data-title="<?= e(mb_strtolower((string)$g['title'])) ?>"
-         data-names="<?= e(mb_strtolower((string)($namesMap[$g['slug']] ?? $g['aliases']))) ?>"
+         data-names="<?= e(mb_strtolower((string)($namesMap[$g['slug']] ?? ''))) ?>"
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
@@ -715,6 +761,23 @@ else:
     <?php endforeach; ?>
     <div class="empty" id="emptyState" hidden><div class="empty__big">🔍</div><h2>Aucun jeu</h2><p>Essayez une autre recherche.</p></div>
   </div>
+  <?php if ($families): ?>
+  <section class="families" id="families">
+    <div class="families__head"><h2 class="families__title">Familles</h2></div>
+    <div class="families__grid">
+      <?php foreach ($families as $note => $slugs): ?>
+      <div class="family">
+        <h3 class="family__name"><?= e($note) ?></h3>
+        <div class="family__members">
+          <?php foreach ($slugs as $s): $gt = ''; foreach ($games as $gg) { if ($gg['slug']===$s) { $gt=$gg['title']; break; } } ?>
+          <a class="family__link" href="?game=<?= e($s) ?>"><?= e($gt ?: $s) ?></a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+  </section>
+  <?php endif; ?>
   </main>
 <?php endif; ?>
 
