@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.2';
+const VERSION = '2026.08.3';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -536,6 +536,8 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .rules img{max-width:100%;border-radius:12px;margin:2px 0 10px}
 .rules blockquote{margin:12px 0;padding:8px 14px;border-left:3px solid var(--gold);background:rgba(255,255,255,.03);color:var(--muted);font-size:.85rem}
 .rules blockquote a{color:var(--gold)}
+.reader-summary{margin-bottom:22px;padding:16px 18px;background:rgba(202,158,230,.06);border:1px solid rgba(202,158,230,.18);border-radius:14px}.reader-summary__goal{font-size:.92rem;font-weight:600;color:var(--gold);margin-bottom:6px;line-height:1.4}.reader-summary__text{font-size:.84rem;color:var(--muted);line-height:1.55;margin:0}
+.rules-title{font-family:ui-monospace,monospace;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:28px 0 10px;padding-top:18px;border-top:1px solid var(--border)}
 .related{margin-top:32px;padding-top:24px;border-top:1px solid var(--border)}.related__title{font-family:ui-monospace,monospace;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:14px}.related__grid{display:flex;flex-wrap:wrap;gap:8px}.related__card{display:flex;flex-direction:column;gap:2px;padding:10px 14px;border:1px solid var(--border);border-radius:10px;background:var(--card);min-width:140px;transition:border-color .15s,color .15s}.related__card:hover{border-color:var(--gold);color:var(--gold)}.related__rel{font-family:ui-monospace,monospace;font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold)}.related__name{font-size:.88rem;font-weight:600;color:#f2f2f8}.related__note{font-size:.68rem;color:var(--muted)}
 
 /* TOAST + FAV SHEET */
@@ -646,6 +648,15 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     </section>
     <div class="reader-body">
     <div class="reader-body-inner">
+    <?php
+      $_summary = trim((string)$g['goal']);
+      if (!$_summary) { foreach (explode("\n", $md) as $_l) { $_l = trim($_l); if ($_l !== '' && $_l[0] !== '#' && $_l[0] !== '*' && $_l[0] !== '|' && $_l[0] !== '-' && $_l[0] !== '>') { $_summary = $_l; break; } } }
+    ?>
+    <?php if ($_summary): ?>
+    <div class="reader-summary">
+      <p class="reader-summary__text"><?= e($_summary) ?></p>
+    </div>
+    <?php endif; ?>
     <div class="raction">
       <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">♥ J'aime <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
       <button class="rbtn rbtn--fav" id="favBtn" data-slug="<?= e($g['slug']) ?>">★ Favori</button>
@@ -654,6 +665,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
     <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer">▶ Règles du jeu « <?= e($_main) ?> » sur YouTube</a>
     <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
     <?php endif; ?>
+    <h2 class="rules-title">Règles détaillées</h2>
     <div class="rules"><?= md2html($md) ?></div>
     <?php if ($related): ?>
     <div class="related">
