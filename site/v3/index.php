@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.23';
+const VERSION = '2026.08.24';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
