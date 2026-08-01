@@ -459,7 +459,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .brandrow{display:flex;align-items:center;gap:10px}
 .brand{font-family:Georgia,serif;font-size:1.1rem;color:var(--gold);letter-spacing:.5px;white-space:nowrap;display:flex;align-items:baseline;gap:8px}
 .brand b{color:#fff;font-weight:600}
-.brand .suits{color:var(--gold);opacity:.45;letter-spacing:3px;font-size:.8rem}
+.brand .suits{color:var(--gold);opacity:.45;letter-spacing:3px;font-size:.8rem}.brand .ver{font-family:ui-monospace,monospace;font-size:.55rem;color:var(--muted);opacity:.5;margin-left:6px;letter-spacing:.05em}
 .spacer{flex:1}
 .iconbtn{width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,.06);display:flex;align-items:center;justify-content:center;color:#d0d0da;position:relative;font-size:1.05rem;flex-shrink:0}
 .iconbtn:active{transform:scale(.9)}
@@ -713,7 +713,7 @@ else:
   <div class="topfix">
     <div class="topfix__inner">
       <div class="brandrow">
-        <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil">PK<b>cards</b><span class="suits">♠♥♦♣</span></a>
+        <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil">PK<b>cards</b><span class="suits">♠♥♦♣</span><span class="ver">v<?= VERSION ?></span></a>
         <span class="spacer"></span>
         <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>" title="Meilleurs jeux" aria-label="Top">🏆</a>
         <button class="iconbtn" id="favOpen" title="Favoris" aria-label="Favoris">♥<span class="dot" id="favDot" hidden>0</span></button>
