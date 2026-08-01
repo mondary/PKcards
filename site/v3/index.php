@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.7';
+const VERSION = '2026.08.8';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -792,12 +792,13 @@ const chipsEl = document.getElementById('chips');
 const countLineEl = document.getElementById('countLine');
 const emptyState = document.getElementById('emptyState');
 let activeCat = '';
+const normalizeSearch = s => s.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 function applyFilter(){
   if(!listEl) return;
-  const q = searchInputEl ? searchInputEl.value.trim().toLowerCase() : '';
+  const q = searchInputEl ? normalizeSearch(searchInputEl.value.trim()) : '';
   let shown = 0;
   listEl.querySelectorAll('.game').forEach(el=>{
-    const okQ = !q || el.dataset.names.includes(q) || el.dataset.type.includes(q);
+    const okQ = !q || normalizeSearch(el.dataset.names).includes(q) || normalizeSearch(el.dataset.type).includes(q);
     const okC = !activeCat || el.dataset.cat === activeCat;
     const show = okQ && okC;
     el.style.display = show ? '' : 'none';
