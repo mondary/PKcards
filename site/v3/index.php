@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.21';
+const VERSION = '2026.08.22';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -530,6 +530,18 @@ if (!empty($_GET['api'])) {
     default:
       json_out(['ok' => false, 'error' => 'unknown'], 404);
   }
+}
+
+// --- Miniatures générées par lot pour éviter les limites HTTP/2 de l'hébergeur ---
+if (isset($_GET['visuals'])) {
+  $catalogImages = Vault::catalog()['images'] ?? [];
+  $images = [];
+  foreach (array_slice(array_unique(explode(',', (string)$_GET['visuals'])), 0, 24) as $slug) {
+    $path = $catalogImages[$slug] ?? '';
+    $file = $path !== '' ? __DIR__ . '/' . $path : '';
+    if ($file !== '' && is_file($file)) $images[$slug] = 'data:image/webp;base64,' . base64_encode(file_get_contents($file) ?: '');
+  }
+  json_out($images);
 }
 
 // --- Visuel généré local (?visual=slug) ---
@@ -1152,22 +1164,26 @@ const loadImage=img=>{
 document.querySelectorAll('img[data-fallback]:not([data-src])').forEach(watchImageErrors);
 const lazyImages=document.querySelectorAll('img[data-src]');
 const imageQueue=[];
-let imageLoading=false;
-const loadNextImage=()=>{
-  if(imageLoading||!imageQueue.length)return;
-  imageLoading=true;
-  const img=imageQueue.shift();
-  let finished=false;
-  const next=()=>{
-    if(finished)return;
-    finished=true;
-    setTimeout(()=>{imageLoading=false;loadNextImage();},520);
-  };
-  img.addEventListener('load',next,{once:true});
-  img.addEventListener('error',next,{once:true});
-  loadImage(img);
+let imageBatchTimer;
+const loadImageBatch=async()=>{
+  imageBatchTimer=undefined;
+  const batch=imageQueue.splice(0,24);
+  const slugs=batch.map(img=>new URL(img.dataset.src,location.href).searchParams.get('visual')).filter(Boolean);
+  try{
+    const response=await fetch('?visuals='+encodeURIComponent([...new Set(slugs)].join(',')));
+    if(!response.ok)throw new Error('visuals');
+    const images=await response.json();
+    batch.forEach(img=>{
+      const slug=new URL(img.dataset.src,location.href).searchParams.get('visual');
+      if(!images[slug]){loadImage(img);return;}
+      img.addEventListener('load',()=>img.classList.add('is-loaded'),{once:true});
+      img.src=images[slug];
+      delete img.dataset.src;
+    });
+  }catch(error){batch.forEach(loadImage);}
+  if(imageQueue.length)imageBatchTimer=setTimeout(loadImageBatch,80);
 };
-const queueImage=img=>{imageQueue.push(img);loadNextImage();};
+const queueImage=img=>{imageQueue.push(img);if(!imageBatchTimer)imageBatchTimer=setTimeout(loadImageBatch,40);};
 if('IntersectionObserver' in window){
   const imageObserver=new IntersectionObserver((entries,observer)=>entries.forEach(entry=>{
     if(entry.isIntersecting){queueImage(entry.target);observer.unobserve(entry.target);}
