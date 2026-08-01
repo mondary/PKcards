@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.4';
+const VERSION = '2026.08.5';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -647,10 +647,8 @@ else:
 
   <div class="list" id="list">
     <?php foreach ($games as $index => $g):
-      $c = $g['color'] ?: '#e8c46a';
-      $pshort = player_short($g);
-      $init = mb_strtoupper(mb_substr(preg_replace('/^[«"\']/','',trim($g['title'])), 0, 1, 'UTF-8'), 'UTF-8'); ?>
-      <a class="game" style="--c:<?= e($c) ?>"
+      $pshort = player_short($g); ?>
+      <a class="game"
          href="<?= e(qs_game($g['slug'])) ?>"
          data-title="<?= e(mb_strtolower((string)$g['title'])) ?>"
          data-names="<?= e(mb_strtolower((string)($namesMap[$g['slug']] ?? ''))) ?>"
@@ -665,7 +663,7 @@ else:
             if ($gAlts): ?>
           <span class="game__sub"><?= e(implode(' · ', $gAlts)) ?></span>
           <?php endif; ?>
-          <span class="game__meta"><?php if ($pshort): ?><?= e($pshort) ?> joueurs<?php endif; ?><?php if ($pshort && $g['difficulty']): ?> / <?php endif; ?><?php if ($g['difficulty']): ?><?= e($g['difficulty']) ?><?php endif; ?><?php if ((int)$g['votes'] > 0): ?> / <?= (int)$g['votes'] ?> votes<?php endif; ?></span>
+          <span class="game__meta"><?php if ($pshort): ?><?= e($pshort) ?><?php endif; ?><?php if ($pshort && $g['difficulty']): ?> / <?php endif; ?><?php if ($g['difficulty']): ?><?= e($g['difficulty']) ?><?php endif; ?><?php if ((int)$g['votes'] > 0): ?> / <?= (int)$g['votes'] ?> votes<?php endif; ?></span>
         </span>
         <button class="game__fav" data-fav="<?= e($g['slug']) ?>" aria-label="Ajouter aux favoris">Fav</button>
       </a>
