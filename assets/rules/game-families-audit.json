@@ -1853,5 +1853,42 @@
       "Course"
     ],
     "rationale": "Les joueurs vident leur main sur quatre séquences autour des 10 et cumulent les cartes restantes comme un temps de course."
+  },
+  {
+    "slug": "animals",
+    "families": [
+      "Bataille"
+    ],
+    "rationale": "Chaque joueur retourne une carte et déclenche une bataille sonore lorsque deux animaux correspondent."
+  },
+  {
+    "slug": "beigne",
+    "families": [
+      "Levées"
+    ],
+    "rationale": "Les joueurs annoncent puis tentent de réaliser exactement leur nombre de levées."
+  },
+  {
+    "slug": "bonjour-monsieur",
+    "families": [
+      "Bataille",
+      "Réaction"
+    ],
+    "rationale": "Les cartes sont révélées en bataille et certaines figures imposent une formule ou une réaction immédiate."
+  },
+  {
+    "slug": "petite-memoire",
+    "families": [
+      "Pioche & défausse",
+      "Mémoire"
+    ],
+    "rationale": "Les joueurs remplacent les cartes d'un carré partiellement mémorisé afin de minimiser leur score."
+  },
+  {
+    "slug": "pig",
+    "families": [
+      "Passes de cartes"
+    ],
+    "rationale": "Les joueurs passent simultanément une carte jusqu'à former un carré, puis signalent discrètement leur réussite."
   }
 ]

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import re
 import sqlite3
 import unicodedata
 from pathlib import Path
@@ -11,16 +12,14 @@ AUDIT = ROOT / "assets/rules/game-names-audit.json"
 FAMILY_REPORTS = [ROOT / f"site/v3/family-batch-{i}.json" for i in range(1, 7)]
 FAMILY_AUDIT = ROOT / "assets/rules/game-families-audit.json"
 CATALOG = ROOT / "site/v3/catalog.json"
+LEGACY = ROOT / "site/v1/data.js"
 
 # Only mechanically equivalent records belong here. Similar variants stay separate.
 DUPLICATES = {
-    "animals": "animaux",
     "banque": "chien-rouge",
     "banque-russe": "crapette",
     "bataille-norvegienne": "shithead",
-    "beigne": "ascenseur",
     "bog": "poque",
-    "bonjour-monsieur": "allo-jack",
     "chasse-a-las": "coucou",
     "chasse-coeur": "coeurs",
     "cinq-cents": "500",
@@ -35,16 +34,38 @@ DUPLICATES = {
     "mariage-chinois": "le-memory",
     "memoire-collective": "le-memory",
     "napoleon": "nap",
-    "petite-memoire": "golf",
-    "pig": "bouchon",
     "polignac": "jeu-de-valets",
     "rummy-500": "rami-500",
+}
+
+# Variants previously merged by mistake. Production can recreate their row
+# from the former target while retaining their own rule already stored in KV.
+RESTORED_VARIANTS = {
+    "animals": "animaux",
+    "beigne": "ascenseur",
+    "bonjour-monsieur": "allo-jack",
+    "petite-memoire": "golf",
+    "pig": "bouchon",
 }
 
 # Local names explicitly confirmed by the product owner.
 KEEP = {
     "flip": {"Lapsit"},
+    "le-cabo-var": {"Le Cabo (var.)"},
     "yaniv": {"Main Verte", "Yanoff", "Yanouf"},
+}
+
+# Named variants need unambiguous search terms even when they share a family.
+NAME_OVERRIDES = {
+    "allo-jack": ["Allô Jack !", "Allô Jack ! (Québec)"],
+    "animaux": ["Les Animaux", "Animal Sounds"],
+    "ascenseur": ["L'Ascenseur", "Elevator", "Up and Down the River", "Oh Hell!", "Oh Pshaw!", "Oh Well!", "Oh Shit!", "Blob", "Blackout", "Contract Whist", "Nomination Whist", "Bust", "La Podrida"],
+    "beigne": ["Le Beigne"],
+    "bonjour-monsieur": ["Bonjour Monsieur, Bonjour Madame", "Bonjour Monsieur"],
+    "bouchon": ["Le Bouchon", "Bouchon"],
+    "golf": ["Golf", "Le Golf", "Four-Card Golf", "Polish Poker"],
+    "petite-memoire": ["La Petite Mémoire", "La Petite Mémoire (Québec)"],
+    "pig": ["Pig", "Spoons", "Hog", "Donkey"],
 }
 
 PLACEHOLDERS = {"", "-", "—", "aucun", "aucune"}
@@ -99,8 +120,11 @@ FAMILY_OVERRIDES = {
     "8-americain": ["Appariemment"],
     "allo-jack": ["Bataille", "Réaction"],
     "anandis": ["Enquête", "Appariemment"],
+    "animals": ["Bataille"],
     "bataille-corse": ["Bataille"],
+    "beigne": ["Levées"],
     "bouchon": ["Passes de cartes", "Réaction"],
+    "bonjour-monsieur": ["Bataille", "Réaction"],
     "clubbed": ["Appariemment", "Attaque"],
     "crapaud": ["Pioche & défausse", "Commerce"],
     "eleusis": ["Enquête", "Appariemment"],
@@ -112,6 +136,8 @@ FAMILY_OVERRIDES = {
     "le-21": ["Addition", "Appariemment"],
     "le-kems": ["Commerce", "Réaction"],
     "paquet-de-merde": ["Passes de cartes", "Réaction"],
+    "petite-memoire": ["Pioche & défausse", "Mémoire"],
+    "pig": ["Passes de cartes"],
     "pouilleux": ["Passes de cartes"],
     "president": ["Escalade", "Pioche & défausse"],
     "rami-500": ["Pioche & défausse", "Rami"],
@@ -152,6 +178,35 @@ def mistigri_family(slugs: list[str]):
     return None
 
 
+def mistigri_source(slug: str):
+    file = ROOT / f"assets/rules/rules_mistigri/{slug}.md"
+    if not file.exists():
+        return None
+    match = re.search(r"^> Source.*\((https?://[^)]+)\)", file.read_text(), re.MULTILINE)
+    return match.group(1) if match else None
+
+
+def restored_metadata(slug: str, title: str, source: str, legacy: dict) -> dict:
+    if slug in legacy:
+        game = legacy[slug]
+        return {"source": source, **{field: game.get(field, "") for field in (
+            "players", "cards", "difficulty", "type", "goal", "category", "color", "excerpt", "playerMin", "playerMax"
+        )}, "title": title, "is_clm": 0, "is_mistigri": 0, "image": ""}
+
+    markdown = (ROOT / f"assets/rules/rules_mistigri/{slug}.md").read_text()
+    info = dict(re.findall(r"♦\s*\*\*([^*]+?)\*\*\s*:\s*(.*)", markdown))
+    players = info.get("Nombre de joueurs", "")
+    numbers = re.findall(r"\d+", players)
+    plain = " ".join(re.sub(r"[#*_>`|!-]+", " ", markdown).split())
+    return {
+        "source": source, "title": title, "players": players, "cards": info.get("Matériel", ""),
+        "difficulty": "", "type": "", "goal": info.get("Objectif", ""), "category": "mistigri",
+        "color": "#a6e3a1", "excerpt": plain[:160], "playerMin": int(numbers[0]) if numbers else 0,
+        "playerMax": int(numbers[1] if len(numbers) > 1 else numbers[0]) if numbers else 0,
+        "is_clm": 0, "is_mistigri": 1, "image": "",
+    }
+
+
 def main() -> None:
     audit = (json.loads(AUDIT.read_text()) if AUDIT.exists()
              else [entry for report in REPORTS for entry in json.loads(report.read_text())])
@@ -174,6 +229,8 @@ def main() -> None:
         removals = {key(name) for name in entry["remove"] if name not in KEEP.get(slug, set())}
         kept = [name for name in current.get(slug, entry["current_names"]) if key(name) not in removals or key(name) == key(title)]
         names[slug] = unique([title, *kept, *entry["add"], *sorted(KEEP.get(slug, set()))])
+        if slug in NAME_OVERRIDES:
+            names[slug] = NAME_OVERRIDES[slug]
 
     for duplicate, canonical in DUPLICATES.items():
         names[canonical] = unique([*names[canonical], *names[duplicate]])
@@ -209,16 +266,26 @@ def main() -> None:
 
     sources = {}
     for entry in audit:
-        slug = DUPLICATES.get(entry["slug"], entry["slug"])
-        sources[slug] = unique([*sources.get(slug, []), *entry["source_urls"]])
+        original = entry["slug"]
+        slug = DUPLICATES.get(original, original)
+        sources[slug] = unique([*sources.get(slug, []), *entry["source_urls"], mistigri_source(original) or ""])
     sources = {slug: urls for slug, urls in sources.items() if urls}
+
+    legacy_text = LEGACY.read_text()
+    legacy_start = legacy_text.index("[")
+    legacy_end = legacy_text.index("];", legacy_start)
+    legacy = {game["id"]: game for game in json.loads(legacy_text[legacy_start:legacy_end + 1])}
+    restored = {slug: restored_metadata(slug, names[slug][0], source, legacy)
+                for slug, source in RESTORED_VARIANTS.items()}
 
     catalog = {
         "version": 1,
         "duplicates": DUPLICATES,
+        "restored_variants": restored,
         "content_sources": dict(sorted(content_sources.items())),
         "families": dict(sorted(families.items())),
         "games": dict(sorted(names.items())),
+        "images": {slug: f"images/games/{slug}.webp" for slug in sorted(names)},
         "sources": dict(sorted(sources.items())),
     }
     AUDIT.write_text(json.dumps(audit, ensure_ascii=False, indent=2) + "\n")

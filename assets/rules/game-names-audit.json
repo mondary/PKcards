@@ -427,9 +427,9 @@
     "remove": [
       "Up and Down"
     ],
-    "duplicate_of": "ascenseur",
-    "confidence": "high",
-    "rationale": "The rising/falling deal sequence, exact bids and 10-plus-bid scoring are a standard Oh Hell variant. Scoring differences are normal variations, not a separate game identity.",
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "Le Beigne preserves a named fixed 1-to-8-to-1 deal schedule and local scoring form. It remains separate from the broader Ascenseur record as a documented variant.",
     "source_urls": [
       "https://www.pagat.com/exact/ohhell.html"
     ]
@@ -542,9 +542,9 @@
       "Allô Jack !"
     ],
     "remove": [],
-    "duplicate_of": "allo-jack",
-    "confidence": "high",
-    "rationale": "The same rank-triggered greetings, salute and hand-on-pile actions occur in allo-jack; the additional number-card actions are house-rule extensions.",
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "The additional turn-order and spoken actions materially change play, so this named local variant remains separate from Allô Jack.",
     "source_urls": []
   },
   {
@@ -572,14 +572,12 @@
       "Le Bouchon"
     ],
     "add": [
-      "Bouchon",
-      "Pig",
-      "Spoons"
+      "Bouchon"
     ],
     "remove": [],
     "duplicate_of": null,
     "confidence": "high",
-    "rationale": "Passing cards to collect four of a kind followed by grabbing one fewer token than players is Spoons. Pagat explicitly identifies Bouchon as the French cork-token version.",
+    "rationale": "Bouchon adds its own spoken stop action, movable cork and scoring convention, so this French named variant remains distinct from Pig and Spoons.",
     "source_urls": [
       "https://www.pagat.com/passing/pig.html"
     ]
@@ -2359,9 +2357,9 @@
       "Golf à quatre cartes"
     ],
     "remove": [],
-    "duplicate_of": "golf",
-    "confidence": "high",
-    "rationale": "Four face-down cards, initial inspection, draw-and-replace play, knocking, and lowest score are exactly Four-Card Golf. Different card values are ordinary Golf variations.",
+    "duplicate_of": null,
+    "confidence": "medium",
+    "rationale": "This Quebec named variant uses its own scoring table and four-card procedure, so it remains separate from the generic Golf record.",
     "source_urls": [
       "https://www.pagat.com/draw/golf.html#four"
     ]

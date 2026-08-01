@@ -1,13 +1,10 @@
 {
   "version": 1,
   "duplicates": {
-    "animals": "animaux",
     "banque": "chien-rouge",
     "banque-russe": "crapette",
     "bataille-norvegienne": "shithead",
-    "beigne": "ascenseur",
     "bog": "poque",
-    "bonjour-monsieur": "allo-jack",
     "chasse-a-las": "coucou",
     "chasse-coeur": "coeurs",
     "cinq-cents": "500",
@@ -22,10 +19,95 @@
     "mariage-chinois": "le-memory",
     "memoire-collective": "le-memory",
     "napoleon": "nap",
-    "petite-memoire": "golf",
-    "pig": "bouchon",
     "polignac": "jeu-de-valets",
     "rummy-500": "rami-500"
+  },
+  "restored_variants": {
+    "animals": {
+      "source": "animaux",
+      "title": "Animals",
+      "players": "Entre 4 et 8 joueurs",
+      "cards": "Un jeu de 52 cartes (sans Joker)",
+      "difficulty": "",
+      "type": "",
+      "goal": "Avoir en sa possession plus de cartes que ses adversaires",
+      "category": "mistigri",
+      "color": "#a6e3a1",
+      "excerpt": "Animals [Animals](images/animals.png) Source : [Animals](https://jeuxdecartes1.e monsite.com/pages/jeux de bataille/animals.html) ♦ Matériel : Un jeu de 52 cart",
+      "playerMin": 4,
+      "playerMax": 8,
+      "is_clm": 0,
+      "is_mistigri": 1,
+      "image": ""
+    },
+    "beigne": {
+      "source": "ascenseur",
+      "players": "3 à 6",
+      "cards": "52",
+      "difficulty": "Difficile",
+      "type": "Jeu de plis, Défausse, Enchères",
+      "goal": "Réussir le nombre exact de levées annoncées",
+      "category": "grand-groupe",
+      "color": "#fb923c",
+      "excerpt": "Le nombre de cartes par donne évolue ainsi : 1, 2, 3, 4, 5, 6, 7, 8, 7, 6, 5, 4, 3, 2, 1. À chaque donne, le donneur retourne la carte supérieure du talon : c'est l'atout. Si c'est un As, on joue en sans atout.",
+      "playerMin": 3,
+      "playerMax": 6,
+      "title": "Le Beigne",
+      "is_clm": 0,
+      "is_mistigri": 0,
+      "image": ""
+    },
+    "bonjour-monsieur": {
+      "source": "allo-jack",
+      "players": "2 à 4+",
+      "cards": "52 ou 32",
+      "difficulty": "Moyenne",
+      "type": "Mixte",
+      "goal": "Être le 1er à vider son tas de cartes",
+      "category": "petit-groupe",
+      "color": "#34d399",
+      "excerpt": "Distribuer toutes les cartes entre les joueurs. Chaque joueur a un tas face cachée devant lui.",
+      "playerMin": 2,
+      "playerMax": 4,
+      "title": "Bonjour Monsieur, Bonjour Madame",
+      "is_clm": 0,
+      "is_mistigri": 0,
+      "image": ""
+    },
+    "petite-memoire": {
+      "source": "golf",
+      "players": "2 à 5",
+      "cards": "52",
+      "difficulty": "Facile",
+      "type": "Défausse, Mémoire, Adresse",
+      "goal": "Obtenir le plus bas total de points en 4 cartes",
+      "category": "grand-groupe",
+      "color": "#fb923c",
+      "excerpt": "",
+      "playerMin": 2,
+      "playerMax": 5,
+      "title": "La Petite Mémoire",
+      "is_clm": 0,
+      "is_mistigri": 0,
+      "image": ""
+    },
+    "pig": {
+      "source": "bouchon",
+      "title": "Pig",
+      "players": "Entre 3 et 13 joueurs",
+      "cards": "Un jeu de 52 cartes (sans Joker), et des cuillères dans la variante ***Spoons***",
+      "difficulty": "",
+      "type": "",
+      "goal": "Former un carré, c’est-à-dire réunir quatre cartes de même valeur dans sa main",
+      "category": "mistigri",
+      "color": "#a6e3a1",
+      "excerpt": "Pig [Pig](images/pig.jpg) Source : [Pig](https://jeuxdecartes1.e monsite.com/pages/jeux de passes de cartes/pig.html) ♦ Matériel : Un jeu de 52 cartes (sans Jok",
+      "playerMin": 3,
+      "playerMax": 13,
+      "is_clm": 0,
+      "is_mistigri": 1,
+      "image": ""
+    }
   },
   "content_sources": {},
   "families": {
@@ -147,7 +229,9 @@
       "camicia",
       "fotbo",
       "le-neuf",
-      "le-snap-irlandais"
+      "le-snap-irlandais",
+      "animals",
+      "bonjour-monsieur"
     ],
     "Combat": [
       "dourak",
@@ -332,7 +416,8 @@
       "democratie",
       "la-salade-canadienne",
       "le-generala",
-      "le-knock-out-whis"
+      "le-knock-out-whis",
+      "beigne"
     ],
     "Mémoire": [
       "la-compliquee",
@@ -341,12 +426,14 @@
       "identite",
       "le-memory-cooperatif",
       "le-memory",
-      "thinkabi"
+      "thinkabi",
+      "petite-memoire"
     ],
     "Passes de cartes": [
       "bouchon",
       "pouilleux",
-      "paquet-de-merde"
+      "paquet-de-merde",
+      "pig"
     ],
     "Patience": [
       "crapette-tarot",
@@ -389,7 +476,8 @@
       "le-yami",
       "seven-spades",
       "tres-y-dos",
-      "le-tour-de-france"
+      "le-tour-de-france",
+      "petite-memoire"
     ],
     "Poker": [
       "ambigu",
@@ -455,7 +543,8 @@
       "flip",
       "frappe-le-valet",
       "le-kems",
-      "paquet-de-merde"
+      "paquet-de-merde",
+      "bonjour-monsieur"
     ],
     "Rôle": [
       "mafia",
@@ -502,8 +591,7 @@
     ],
     "allo-jack": [
       "Allô Jack !",
-      "Bonjour Monsieur, Bonjour Madame",
-      "Bonjour Monsieur"
+      "Allô Jack ! (Québec)"
     ],
     "aluette": [
       "L'Aluette",
@@ -518,17 +606,19 @@
     "anandis": [
       "Anandis"
     ],
+    "animals": [
+      "Animals",
+      "Barnyard Snap"
+    ],
     "animaux": [
       "Les Animaux",
-      "Animals",
-      "Animal Snap",
-      "Barnyard Snap"
+      "Animal Sounds"
     ],
     "ascenseur": [
       "L'Ascenseur",
-      "Oh Hell!",
       "Elevator",
       "Up and Down the River",
+      "Oh Hell!",
       "Oh Pshaw!",
       "Oh Well!",
       "Oh Shit!",
@@ -537,9 +627,7 @@
       "Contract Whist",
       "Nomination Whist",
       "Bust",
-      "La Podrida",
-      "Le Beigne",
-      "Oh Hell"
+      "La Podrida"
     ],
     "baccara": [
       "Le Baccara",
@@ -577,6 +665,9 @@
       "Le Baudet",
       "Le Petit Cheval"
     ],
+    "beigne": [
+      "Le Beigne"
+    ],
     "belote": [
       "La Belote",
       "Belote"
@@ -607,6 +698,10 @@
       "Blanche-Neige",
       "Blanche Neige"
     ],
+    "bonjour-monsieur": [
+      "Bonjour Monsieur, Bonjour Madame",
+      "Bonjour Monsieur"
+    ],
     "boston": [
       "Le Boston de Nantes",
       "Boston",
@@ -615,11 +710,7 @@
     ],
     "bouchon": [
       "Le Bouchon",
-      "Bouchon",
-      "Pig",
-      "Spoons",
-      "Hog",
-      "Donkey"
+      "Bouchon"
     ],
     "bouillotte": [
       "La Bouillotte",
@@ -929,9 +1020,7 @@
       "Golf",
       "Le Golf",
       "Four-Card Golf",
-      "Polish Poker",
-      "La Petite Mémoire",
-      "Golf à quatre cartes"
+      "Polish Poker"
     ],
     "hoc": [
       "Le Hoc",
@@ -1087,7 +1176,8 @@
     ],
     "le-cabo-var": [
       "Le Cabo",
-      "Cabo"
+      "Cabo",
+      "Le Cabo (var.)"
     ],
     "le-cuttle": [
       "Le Cuttle",
@@ -1393,6 +1483,10 @@
     "petite-ecole": [
       "La Petite École"
     ],
+    "petite-memoire": [
+      "La Petite Mémoire",
+      "La Petite Mémoire (Québec)"
+    ],
     "petits-paquets": [
       "Les Petits Paquets"
     ],
@@ -1403,6 +1497,12 @@
       "Pharaoh",
       "Pharaon",
       "Pharo"
+    ],
+    "pig": [
+      "Pig",
+      "Spoons",
+      "Hog",
+      "Donkey"
     ],
     "pige-dans-le-lac": [
       "Pige dans le lac",
@@ -1806,6 +1906,259 @@
       "Yanouf"
     ]
   },
+  "images": {
+    "3-5-7-9": "images/games/3-5-7-9.webp",
+    "500": "images/games/500.webp",
+    "8-americain": "images/games/8-americain.webp",
+    "all-fives": "images/games/all-fives.webp",
+    "all-fours": "images/games/all-fours.webp",
+    "allo-jack": "images/games/allo-jack.webp",
+    "aluette": "images/games/aluette.webp",
+    "ambigu": "images/games/ambigu.webp",
+    "anandis": "images/games/anandis.webp",
+    "animals": "images/games/animals.webp",
+    "animaux": "images/games/animaux.webp",
+    "ascenseur": "images/games/ascenseur.webp",
+    "baccara": "images/games/baccara.webp",
+    "barbu": "images/games/barbu.webp",
+    "basra": "images/games/basra.webp",
+    "bassette": "images/games/bassette.webp",
+    "bataille": "images/games/bataille.webp",
+    "bataille-corse": "images/games/bataille-corse.webp",
+    "baudet": "images/games/baudet.webp",
+    "beigne": "images/games/beigne.webp",
+    "belote": "images/games/belote.webp",
+    "bezique": "images/games/bezique.webp",
+    "big-three": "images/games/big-three.webp",
+    "black-jack-banquier": "images/games/black-jack-banquier.webp",
+    "blanche-neige": "images/games/blanche-neige.webp",
+    "bonjour-monsieur": "images/games/bonjour-monsieur.webp",
+    "boston": "images/games/boston.webp",
+    "bouchon": "images/games/bouchon.webp",
+    "bouillotte": "images/games/bouillotte.webp",
+    "brag": "images/games/brag.webp",
+    "brain-drain": "images/games/brain-drain.webp",
+    "brelan": "images/games/brelan.webp",
+    "bridge": "images/games/bridge.webp",
+    "brusquembille": "images/games/brusquembille.webp",
+    "c-q-f-d": "images/games/c-q-f-d.webp",
+    "camicia": "images/games/camicia.webp",
+    "canasta": "images/games/canasta.webp",
+    "canasta-chinoise": "images/games/canasta-chinoise.webp",
+    "candyman": "images/games/candyman.webp",
+    "carotte": "images/games/carotte.webp",
+    "carte-la-plus-basse": "images/games/carte-la-plus-basse.webp",
+    "carte-svp": "images/games/carte-svp.webp",
+    "casino": "images/games/casino.webp",
+    "charlemagne": "images/games/charlemagne.webp",
+    "chat": "images/games/chat.webp",
+    "chateau-de-cartes": "images/games/chateau-de-cartes.webp",
+    "chien-rouge": "images/games/chien-rouge.webp",
+    "chkobba": "images/games/chkobba.webp",
+    "cinq-rois": "images/games/cinq-rois.webp",
+    "cinquante-plus-moins": "images/games/cinquante-plus-moins.webp",
+    "clubbed": "images/games/clubbed.webp",
+    "coeurs": "images/games/coeurs.webp",
+    "color-game": "images/games/color-game.webp",
+    "colour-blind": "images/games/colour-blind.webp",
+    "commerce": "images/games/commerce.webp",
+    "commere-accom modez-moi": "images/games/commere-accom modez-moi.webp",
+    "conference": "images/games/conference.webp",
+    "coucou": "images/games/coucou.webp",
+    "couillon": "images/games/couillon.webp",
+    "crapaud": "images/games/crapaud.webp",
+    "crapette": "images/games/crapette.webp",
+    "crapette-tarot": "images/games/crapette-tarot.webp",
+    "cribbage": "images/games/cribbage.webp",
+    "democratie": "images/games/democratie.webp",
+    "dingo": "images/games/dingo.webp",
+    "dominos": "images/games/dominos.webp",
+    "double-solitaire": "images/games/double-solitaire.webp",
+    "dourak": "images/games/dourak.webp",
+    "east-wes": "images/games/east-wes.webp",
+    "ecarte": "images/games/ecarte.webp",
+    "eleusis": "images/games/eleusis.webp",
+    "elimination": "images/games/elimination.webp",
+    "enfle": "images/games/enfle.webp",
+    "euchre": "images/games/euchre.webp",
+    "extravagante-minoune": "images/games/extravagante-minoune.webp",
+    "familles": "images/games/familles.webp",
+    "fan-tan": "images/games/fan-tan.webp",
+    "ferme": "images/games/ferme.webp",
+    "flip": "images/games/flip.webp",
+    "florentin": "images/games/florentin.webp",
+    "floune": "images/games/floune.webp",
+    "football-americain": "images/games/football-americain.webp",
+    "fotbo": "images/games/fotbo.webp",
+    "fouine": "images/games/fouine.webp",
+    "frappe-le-valet": "images/games/frappe-le-valet.webp",
+    "gin-rummy": "images/games/gin-rummy.webp",
+    "golf": "images/games/golf.webp",
+    "hoc": "images/games/hoc.webp",
+    "horse-race": "images/games/horse-race.webp",
+    "identite": "images/games/identite.webp",
+    "imperiale": "images/games/imperiale.webp",
+    "in-between": "images/games/in-between.webp",
+    "jeu-de-loo": "images/games/jeu-de-loo.webp",
+    "jeu-de-valets": "images/games/jeu-de-valets.webp",
+    "jeu-du-roi": "images/games/jeu-du-roi.webp",
+    "kalabriasz": "images/games/kalabriasz.webp",
+    "kilo-de-plomb": "images/games/kilo-de-plomb.webp",
+    "knock-rummy": "images/games/knock-rummy.webp",
+    "kontsina": "images/games/kontsina.webp",
+    "la-compliquee": "images/games/la-compliquee.webp",
+    "la-famille-coeur": "images/games/la-famille-coeur.webp",
+    "la-pomme": "images/games/la-pomme.webp",
+    "la-salade-canadienne": "images/games/la-salade-canadienne.webp",
+    "la-selective": "images/games/la-selective.webp",
+    "lansquenet": "images/games/lansquenet.webp",
+    "last-one": "images/games/last-one.webp",
+    "le-100": "images/games/le-100.webp",
+    "le-14": "images/games/le-14.webp",
+    "le-21": "images/games/le-21.webp",
+    "le-24": "images/games/le-24.webp",
+    "le-41": "images/games/le-41.webp",
+    "le-51-japonais": "images/games/le-51-japonais.webp",
+    "le-7-de-coeur": "images/games/le-7-de-coeur.webp",
+    "le-98": "images/games/le-98.webp",
+    "le-bingo": "images/games/le-bingo.webp",
+    "le-cabo-var": "images/games/le-cabo-var.webp",
+    "le-cuttle": "images/games/le-cuttle.webp",
+    "le-front": "images/games/le-front.webp",
+    "le-generala": "images/games/le-generala.webp",
+    "le-go-fish-deluxe": "images/games/le-go-fish-deluxe.webp",
+    "le-gops": "images/games/le-gops.webp",
+    "le-james-bond": "images/games/le-james-bond.webp",
+    "le-kems": "images/games/le-kems.webp",
+    "le-killer": "images/games/le-killer.webp",
+    "le-kings-corners": "images/games/le-kings-corners.webp",
+    "le-knock-out-whis": "images/games/le-knock-out-whis.webp",
+    "le-memory": "images/games/le-memory.webp",
+    "le-memory-cooperatif": "images/games/le-memory-cooperatif.webp",
+    "le-neuf": "images/games/le-neuf.webp",
+    "le-poker-squares": "images/games/le-poker-squares.webp",
+    "le-rami-contra": "images/games/le-rami-contra.webp",
+    "le-rami-frustration": "images/games/le-rami-frustration.webp",
+    "le-rami-machiave": "images/games/le-rami-machiave.webp",
+    "le-snap-irlandais": "images/games/le-snap-irlandais.webp",
+    "le-tamalou": "images/games/le-tamalou.webp",
+    "le-tour-de-france": "images/games/le-tour-de-france.webp",
+    "le-vicaire": "images/games/le-vicaire.webp",
+    "le-yami": "images/games/le-yami.webp",
+    "lechange": "images/games/lechange.webp",
+    "les-7-familles": "images/games/les-7-familles.webp",
+    "litterature": "images/games/litterature.webp",
+    "loterie": "images/games/loterie.webp",
+    "macao": "images/games/macao.webp",
+    "mafia": "images/games/mafia.webp",
+    "manille": "images/games/manille.webp",
+    "marguerite": "images/games/marguerite.webp",
+    "mariage": "images/games/mariage.webp",
+    "marjolet": "images/games/marjolet.webp",
+    "may-i": "images/games/may-i.webp",
+    "memoire-a-lepreuve": "images/games/memoire-a-lepreuve.webp",
+    "menteur": "images/games/menteur.webp",
+    "michigan": "images/games/michigan.webp",
+    "mille": "images/games/mille.webp",
+    "minoune": "images/games/minoune.webp",
+    "mitaine": "images/games/mitaine.webp",
+    "motz": "images/games/motz.webp",
+    "mouche": "images/games/mouche.webp",
+    "mustamaija": "images/games/mustamaija.webp",
+    "nain-jaune": "images/games/nain-jaune.webp",
+    "nap": "images/games/nap.webp",
+    "neuf-a-deux": "images/games/neuf-a-deux.webp",
+    "neuf-a-quatre": "images/games/neuf-a-quatre.webp",
+    "neuf-a-trois": "images/games/neuf-a-trois.webp",
+    "nigaud": "images/games/nigaud.webp",
+    "noddy": "images/games/noddy.webp",
+    "omben": "images/games/omben.webp",
+    "oracle": "images/games/oracle.webp",
+    "papesse-jeanne": "images/games/papesse-jeanne.webp",
+    "papillon": "images/games/papillon.webp",
+    "paquet-de-merde": "images/games/paquet-de-merde.webp",
+    "paquet-voleur": "images/games/paquet-voleur.webp",
+    "pasur": "images/games/pasur.webp",
+    "petite-ecole": "images/games/petite-ecole.webp",
+    "petite-memoire": "images/games/petite-memoire.webp",
+    "petits-paquets": "images/games/petits-paquets.webp",
+    "pharaon": "images/games/pharaon.webp",
+    "pig": "images/games/pig.webp",
+    "pige-dans-le-lac": "images/games/pige-dans-le-lac.webp",
+    "ping-pong": "images/games/ping-pong.webp",
+    "pinochle": "images/games/pinochle.webp",
+    "pique": "images/games/pique.webp",
+    "piquet": "images/games/piquet.webp",
+    "plus-d-atouts": "images/games/plus-d-atouts.webp",
+    "poker": "images/games/poker.webp",
+    "poker-menteur": "images/games/poker-menteur.webp",
+    "politaine": "images/games/politaine.webp",
+    "poque": "images/games/poque.webp",
+    "pot": "images/games/pot.webp",
+    "pouilleux": "images/games/pouilleux.webp",
+    "poule-3-cartes": "images/games/poule-3-cartes.webp",
+    "poule-5-cartes": "images/games/poule-5-cartes.webp",
+    "preference": "images/games/preference.webp",
+    "president": "images/games/president.webp",
+    "promenade": "images/games/promenade.webp",
+    "puits": "images/games/puits.webp",
+    "q-squared-joe": "images/games/q-squared-joe.webp",
+    "q-squared-joe-ng": "images/games/q-squared-joe-ng.webp",
+    "q-squared-joe-war": "images/games/q-squared-joe-war.webp",
+    "quads": "images/games/quads.webp",
+    "quarante-cinq": "images/games/quarante-cinq.webp",
+    "quatre-quatorze": "images/games/quatre-quatorze.webp",
+    "quatre-vingt-dix-neuf": "images/games/quatre-vingt-dix-neuf.webp",
+    "quit": "images/games/quit.webp",
+    "rami": "images/games/rami.webp",
+    "rami-500": "images/games/rami-500.webp",
+    "rams": "images/games/rams.webp",
+    "regicide": "images/games/regicide.webp",
+    "reussite": "images/games/reussite.webp",
+    "reversi": "images/games/reversi.webp",
+    "roi-et-son-epee": "images/games/roi-et-son-epee.webp",
+    "rouge-contre-noir": "images/games/rouge-contre-noir.webp",
+    "rummy-baltimore": "images/games/rummy-baltimore.webp",
+    "sab-at-al-deemin": "images/games/sab-at-al-deemin.webp",
+    "salade": "images/games/salade.webp",
+    "sans-coeur": "images/games/sans-coeur.webp",
+    "scopa": "images/games/scopa.webp",
+    "sept-et-demi": "images/games/sept-et-demi.webp",
+    "sept-vingt-sept": "images/games/sept-vingt-sept.webp",
+    "seven-spades": "images/games/seven-spades.webp",
+    "shamus": "images/games/shamus.webp",
+    "shithead": "images/games/shithead.webp",
+    "sixte": "images/games/sixte.webp",
+    "skat": "images/games/skat.webp",
+    "skyjo": "images/games/skyjo.webp",
+    "snap": "images/games/snap.webp",
+    "snip-snap-snorem": "images/games/snip-snap-snorem.webp",
+    "snip-snap-snoru": "images/games/snip-snap-snoru.webp",
+    "solitaire-a-deux": "images/games/solitaire-a-deux.webp",
+    "spi": "images/games/spi.webp",
+    "stortok": "images/games/stortok.webp",
+    "stud-5-cartes": "images/games/stud-5-cartes.webp",
+    "stud-7-cartes": "images/games/stud-7-cartes.webp",
+    "tarot": "images/games/tarot.webp",
+    "tennis-cartes": "images/games/tennis-cartes.webp",
+    "thinkabi": "images/games/thinkabi.webp",
+    "tontine": "images/games/tontine.webp",
+    "tras": "images/games/tras.webp",
+    "treize": "images/games/treize.webp",
+    "treize-quebecois": "images/games/treize-quebecois.webp",
+    "trente-et-quarante": "images/games/trente-et-quarante.webp",
+    "trente-et-un": "images/games/trente-et-un.webp",
+    "tres-y-dos": "images/games/tres-y-dos.webp",
+    "triomphe": "images/games/triomphe.webp",
+    "valet-de-trefle": "images/games/valet-de-trefle.webp",
+    "vingt-et-un": "images/games/vingt-et-un.webp",
+    "vive-la-joie": "images/games/vive-la-joie.webp",
+    "whip": "images/games/whip.webp",
+    "whist": "images/games/whist.webp",
+    "whist-a-la-couleur": "images/games/whist-a-la-couleur.webp",
+    "wizard-due": "images/games/wizard-due.webp",
+    "yaniv": "images/games/yaniv.webp"
+  },
   "sources": {
     "500": [
       "https://www.pagat.com/euchre/500.html"
@@ -1829,10 +2182,12 @@
     "anandis": [
       "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/anandis.html"
     ],
-    "animaux": [
-      "https://www.pagat.com/war/snap.html#animals",
+    "animals": [
       "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/animals.html",
       "https://www.pagat.com/snap/snap.html"
+    ],
+    "animaux": [
+      "https://www.pagat.com/war/snap.html#animals"
     ],
     "ascenseur": [
       "https://www.pagat.com/exact/ohhell.html"
@@ -1856,6 +2211,9 @@
     "bataille-corse": [
       "https://www.pagat.com/war/beggar_my_neighbour.html",
       "https://www.pagat.com/war/egyptrat.html"
+    ],
+    "beigne": [
+      "https://www.pagat.com/exact/ohhell.html"
     ],
     "belote": [
       "https://www.pagat.com/jass/belote.html"
@@ -2027,15 +2385,15 @@
     "frappe-le-valet": [
       "https://www.pagat.com/war/slapjack.html",
       "https://en.wikipedia.org/wiki/Slapjack",
-      "https://www.pagat.com/war/slapjack.html#sj1"
+      "https://www.pagat.com/war/slapjack.html#sj1",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/le-slapjack.html"
     ],
     "gin-rummy": [
       "https://www.pagat.com/rummy/ginrummy.html",
       "https://en.wikipedia.org/wiki/Gin_rummy"
     ],
     "golf": [
-      "https://www.pagat.com/draw/golf.html",
-      "https://www.pagat.com/draw/golf.html#four"
+      "https://www.pagat.com/draw/golf.html"
     ],
     "hoc": [
       "https://www.pagat.com/stops/hoc.html",
@@ -2137,10 +2495,12 @@
     ],
     "le-gops": [
       "https://www.pagat.com/misc/gops.html",
-      "https://en.wikipedia.org/wiki/Goofspiel"
+      "https://en.wikipedia.org/wiki/Goofspiel",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-divers/le-gops.html"
     ],
     "le-james-bond": [
-      "https://www.pagat.com/commerce/jamesbond.html"
+      "https://www.pagat.com/commerce/jamesbond.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-commerce/le-james-bond.html"
     ],
     "le-kems": [
       "https://www.pagat.com/commerce/kemps.html",
@@ -2152,15 +2512,18 @@
       "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-role/le-killer.html"
     ],
     "le-kings-corners": [
-      "https://www.pagat.com/layout/kingscorners.html"
+      "https://www.pagat.com/layout/kingscorners.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/le-kings-corners.html"
     ],
     "le-knock-out-whis": [
-      "https://www.pagat.com/whist/kowhist.html"
+      "https://www.pagat.com/whist/kowhist.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/le-knock-out-whist.html"
     ],
     "le-memory": [
       "https://www.pagat.com/misc/pelmanism.html",
       "https://en.wikipedia.org/wiki/Concentration_(game)",
-      "https://en.wikipedia.org/wiki/Concentration_(card_game)"
+      "https://en.wikipedia.org/wiki/Concentration_(card_game)",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/le-memory.html"
     ],
     "le-memory-cooperatif": [
       "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-memoire/le-memory-cooperatif.html",
@@ -2182,10 +2545,12 @@
       "https://www.pagat.com/rummy/ctrummy.html#progressive"
     ],
     "le-rami-machiave": [
-      "https://www.pagat.com/rummy/carousel.html#machiavelli"
+      "https://www.pagat.com/rummy/carousel.html#machiavelli",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/le-rami-machiavel.html"
     ],
     "le-snap-irlandais": [
-      "https://www.pagat.com/war/slapjack.html#sj2"
+      "https://www.pagat.com/war/slapjack.html#sj2",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-bataille/le-snap-irlandais.html"
     ],
     "le-tamalou": [
       "https://www.pagat.com/draw/golf.html#power",
@@ -2202,11 +2567,13 @@
       "https://www.pagat.com/alpha/"
     ],
     "les-7-familles": [
-      "https://www.pagat.com/quartet/gofish.html#families"
+      "https://www.pagat.com/quartet/gofish.html#families",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/les-7-familles.html"
     ],
     "litterature": [
       "https://www.pagat.com/quartet/literature.html",
-      "https://en.wikipedia.org/wiki/Literature_(card_game)"
+      "https://en.wikipedia.org/wiki/Literature_(card_game)",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/litterature.html"
     ],
     "loterie": [
       "https://www.pagat.com/alpha/"
@@ -2263,7 +2630,8 @@
       "https://www.pagat.com/rams/"
     ],
     "mustamaija": [
-      "https://www.pagat.com/beating/mustamaija.html"
+      "https://www.pagat.com/beating/mustamaija.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-attaque/mustamaija.html"
     ],
     "nain-jaune": [
       "https://en.wikipedia.org/wiki/Nain_Jaune",
@@ -2271,7 +2639,8 @@
     ],
     "nap": [
       "https://www.pagat.com/trumps/nap.html",
-      "https://en.wikipedia.org/wiki/Napoleon_(card_game)"
+      "https://en.wikipedia.org/wiki/Napoleon_(card_game)",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-levees/napoleon.html"
     ],
     "neuf-a-deux": [
       "https://www.pagat.com/alpha/"
@@ -2288,10 +2657,12 @@
     ],
     "noddy": [
       "https://www.pagat.com/adders/noddy.html",
-      "https://www.parlettgames.uk/histocs/noddy.html"
+      "https://www.parlettgames.uk/histocs/noddy.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-addition/noddy.html"
     ],
     "omben": [
-      "https://www.pagat.com/quartet/gofish.html#omben"
+      "https://www.pagat.com/quartet/gofish.html#omben",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/omben.html"
     ],
     "oracle": [
       "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-enquete/oracle.html"
@@ -2311,10 +2682,14 @@
       "https://www.pagat.com/fishing/bundle.html"
     ],
     "pasur": [
-      "https://www.pagat.com/fishing/pasur.html"
+      "https://www.pagat.com/fishing/pasur.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-peche/pasur.html"
     ],
     "petite-ecole": [
       "https://www.pagat.com/rummy/ctrummy.html"
+    ],
+    "petite-memoire": [
+      "https://www.pagat.com/draw/golf.html#four"
     ],
     "petits-paquets": [
       "https://www.pagat.com/alpha/"
@@ -2322,8 +2697,13 @@
     "pharaon": [
       "https://www.pagat.com/banking/faro.html"
     ],
+    "pig": [
+      "https://www.pagat.com/passing/pig.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-passes-de-cartes/pig.html"
+    ],
     "pige-dans-le-lac": [
-      "https://www.pagat.com/quartet/gofish.html"
+      "https://www.pagat.com/quartet/gofish.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-familles/le-go-fish.html"
     ],
     "ping-pong": [
       "https://www.pagat.com/alpha/"
@@ -2467,16 +2847,19 @@
       "https://www.pagat.com/stops/snipsnapsnorum.html"
     ],
     "snip-snap-snoru": [
-      "https://www.pagat.com/stops/snipsnapsnorum.html"
+      "https://www.pagat.com/stops/snipsnapsnorum.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/snip-snap-snorum.html"
     ],
     "solitaire-a-deux": [
       "https://www.pagat.com/patience/double.html"
     ],
     "spi": [
-      "https://www.pagat.com/patience/spit.html"
+      "https://www.pagat.com/patience/spit.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/spit.html"
     ],
     "stortok": [
-      "https://www.pagat.com/beating/stortok.html"
+      "https://www.pagat.com/beating/stortok.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-attaque/stortok.html"
     ],
     "stud-5-cartes": [
       "https://www.pagat.com/poker/variants/5stud.html"
@@ -2496,7 +2879,8 @@
       "https://salondesjeux.fr/tontine.htm"
     ],
     "tras": [
-      "https://www.pagat.com/patience/trash.html"
+      "https://www.pagat.com/patience/trash.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-d-appariemment/trash.html"
     ],
     "trente-et-quarante": [
       "https://en.wikipedia.org/wiki/Trente_et_Quarante",
@@ -2506,7 +2890,8 @@
       "https://en.wikipedia.org/wiki/Thirty-one_(card_game)"
     ],
     "tres-y-dos": [
-      "https://www.pagat.com/rummy/tresydos.html"
+      "https://www.pagat.com/rummy/tresydos.html",
+      "https://jeuxdecartes1.e-monsite.com/pages/jeux-de-pioche-defausse/tres-y-dos.html"
     ],
     "triomphe": [
       "https://en.wikipedia.org/wiki/Triomphe"

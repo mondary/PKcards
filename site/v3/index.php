@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.17';
+const VERSION = '2026.08.18';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -220,6 +220,18 @@ class Vault {
         ON CONFLICT(path) DO UPDATE SET mime=excluded.mime,body=excluded.body,updated_at=excluded.updated_at");
       foreach ($catalog['content_sources'] ?? [] as $canonical => $source)
         $copyContent->execute(['/games/' . $canonical . '.md', time(), '/games/' . $source . '.md']);
+
+      $restore = $db->prepare('INSERT INTO games
+        (slug,title,players,cards,difficulty,type,goal,category,color,aliases,excerpt,playerMin,playerMax,sort,is_clm,is_mistigri,image)
+        VALUES(:slug,:title,:players,:cards,:difficulty,:type,:goal,:category,:color,NULL,:excerpt,:playerMin,:playerMax,
+          (SELECT COALESCE(MAX(sort),-1)+1 FROM games),:is_clm,:is_mistigri,:image)
+        ON CONFLICT(slug) DO UPDATE SET title=excluded.title,players=excluded.players,cards=excluded.cards,
+          difficulty=excluded.difficulty,type=excluded.type,goal=excluded.goal,category=excluded.category,color=excluded.color,
+          excerpt=excluded.excerpt,playerMin=excluded.playerMin,playerMax=excluded.playerMax,
+          is_clm=excluded.is_clm,is_mistigri=excluded.is_mistigri,image=excluded.image');
+      foreach ($catalog['restored_variants'] ?? [] as $slug => $variant) {
+        $restore->execute(['slug' => $slug, ...array_diff_key($variant, ['source' => true])]);
+      }
 
       $exists = $db->prepare('SELECT 1 FROM games WHERE slug=?');
       $vote = $db->prepare('INSERT INTO votes(game_id,count) SELECT ?,count FROM votes WHERE game_id=? ON CONFLICT(game_id) DO UPDATE SET count=count+excluded.count');
@@ -427,6 +439,8 @@ function hero_photo(array $g, int $width = 1280): string {
 }
 
 function game_photo(array $g, bool $thumbnail = false): string {
+  $generated = Vault::catalog()['images'][$g['slug']] ?? '';
+  if ($generated !== '') return $generated;
   $image = (string)($g['image'] ?? '');
   if (str_starts_with($image, 'http')) return $image;
   return $image !== '' ? '?img=' . urlencode($image) : hero_photo($g, $thumbnail ? 640 : 1280);
@@ -761,7 +775,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
       <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
-      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" data-fallback="<?= e(hero_photo($g)) ?>" alt="Photographie de cartes pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
+      <img class="reader-hero__image" src="<?= e($heroPhoto) ?>" data-fallback="<?= e(hero_photo($g)) ?>" alt="Illustration de cartes pour <?= e($g['title']) ?>" decoding="async" fetchpriority="high" referrerpolicy="no-referrer">
       <div class="reader-hero__eyebrow"><?= e($g['category'] ?: 'jeu de cartes') ?><?php if ((int)($g['is_mistigri'] ?? 0)): ?> / MISTIGRI<?php endif; ?></div>
       <h1 id="gameTitle"><?= e($g['title']) ?></h1>
       <?php if ($altNames): ?>
