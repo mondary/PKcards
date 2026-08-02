@@ -12,6 +12,7 @@ AUDIT = ROOT / "assets/rules/game-names-audit.json"
 FAMILY_REPORTS = [ROOT / f"site/v3/family-batch-{i}.json" for i in range(1, 7)]
 FAMILY_AUDIT = ROOT / "assets/rules/game-families-audit.json"
 CATALOG = ROOT / "site/v3/catalog.json"
+WIKIMEDIA = ROOT / "assets/images/wikimedia.json"
 LEGACY = ROOT / "site/v1/data.js"
 
 # Only mechanically equivalent records belong here. Similar variants stay separate.
@@ -46,59 +47,6 @@ RESTORED_VARIANTS = {
     "bonjour-monsieur": "allo-jack",
     "petite-memoire": "golf",
     "pig": "bouchon",
-}
-
-IMAGE_CREDITS = {
-    "all-fives": {
-        "author": "Sudzie",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Playing_Cards_-_number_fives.jpg",
-    },
-    "all-fours": {
-        "author": "Matthew Ramnath",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Allfourssetup.jpg",
-    },
-    "allo-jack": {
-        "author": "James Cridland",
-        "license": "CC BY 2.0",
-        "url": "https://commons.wikimedia.org/wiki/File:Old_Bakelite_telephone,_Fenton_House_2011-04-03.jpg",
-    },
-    "anandis": {
-        "author": "Auteurs divers",
-        "license": "Domaine public",
-        "url": "https://commons.wikimedia.org/wiki/File:True_Detective_Mysteries_1927-12.pdf",
-    },
-    "animals": {
-        "author": "Giles Laurent",
-        "license": "CC BY-SA 4.0",
-        "url": "https://commons.wikimedia.org/wiki/File:012_Wild_Chamois_Riederalp_Photo_by_Giles_Laurent.jpg",
-    },
-    "basra": {
-        "author": "Aziz1005",
-        "license": "CC BY-SA 2.5",
-        "url": "https://commons.wikimedia.org/wiki/File:Basra-Shatt-Al-Arab.jpg",
-    },
-    "big-three": {
-        "author": "Rosan Harmens",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Three_mountain_peaks_(Unsplash).jpg",
-    },
-    "black-jack-banquier": {
-        "author": "Scott Nazelrod",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
-    },
-    "blanche-neige": {
-        "author": "455992",
-        "license": "CC0",
-        "url": "https://commons.wikimedia.org/wiki/File:Snow-white-913740_1280.jpg",
-    },
-    "bonjour-monsieur": {
-        "author": "State Library of Queensland",
-        "license": "Aucune restriction connue",
-        "url": "https://commons.wikimedia.org/wiki/File:Tea_on_the_verandah_of_a_Mount_Nutt_home,_Bowen,_Queensland,_ca._1900-1910_(5141945740).jpg",
-    },
 }
 
 # Local names explicitly confirmed by the product owner.
@@ -330,6 +278,20 @@ def main() -> None:
     legacy = {game["id"]: game for game in json.loads(legacy_text[legacy_start:legacy_end + 1])}
     restored = {slug: restored_metadata(slug, names[slug][0], source, legacy)
                 for slug, source in RESTORED_VARIANTS.items()}
+    wikimedia = json.loads(WIKIMEDIA.read_text())["images"]
+    if set(wikimedia) != set(names):
+        raise SystemExit("Wikimedia manifest must cover every canonical game exactly once")
+    image_credits = {
+        slug: {
+            "title": image["file"].removeprefix("File:"),
+            "author": image["author"],
+            "license": image["license"],
+            "license_url": image.get("license_url", ""),
+            "url": image["page_url"],
+            "rationale": image["rationale_fr"],
+        }
+        for slug, image in wikimedia.items()
+    }
 
     catalog = {
         "version": 1,
@@ -339,7 +301,7 @@ def main() -> None:
         "families": dict(sorted(families.items())),
         "games": dict(sorted(names.items())),
         "images": {slug: f"images/games/{slug}.webp" for slug in sorted(names)},
-        "image_credits": IMAGE_CREDITS,
+        "image_credits": image_credits,
         "sources": dict(sorted(sources.items())),
     }
     AUDIT.write_text(json.dumps(audit, ensure_ascii=False, indent=2) + "\n")

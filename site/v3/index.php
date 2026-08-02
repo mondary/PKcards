@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.26';
+const VERSION = '2026.08.27';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -844,7 +844,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     <?php if ($sources || $imageCredit): ?>
     <div class="reader-sources">
       <h2 class="related__title">Sources</h2>
-      <div class="source-list"><?php foreach ($sources as $_source): ?><a href="<?= e($_source) ?>" target="_blank" rel="noopener noreferrer"><?= e(preg_replace('/^www\./', '', (string)parse_url($_source, PHP_URL_HOST))) ?></a><?php endforeach; ?><?php if ($imageCredit): ?><a href="<?= e($imageCredit['url']) ?>" target="_blank" rel="noopener noreferrer">Photo : <?= e($imageCredit['author']) ?> · <?= e($imageCredit['license']) ?></a><?php endif; ?></div>
+      <div class="source-list"><?php foreach ($sources as $_source): ?><a href="<?= e($_source) ?>" target="_blank" rel="noopener noreferrer"><?= e(preg_replace('/^www\./', '', (string)parse_url($_source, PHP_URL_HOST))) ?></a><?php endforeach; ?><?php if ($imageCredit): ?><a href="<?= e($imageCredit['url']) ?>" title="<?= e($imageCredit['rationale']) ?>" target="_blank" rel="noopener noreferrer">Image : <?= e($imageCredit['author']) ?> · <?= e($imageCredit['license']) ?></a><?php if ($imageCredit['license_url']): ?><a href="<?= e($imageCredit['license_url']) ?>" target="_blank" rel="noopener noreferrer">Licence</a><?php endif; ?><?php endif; ?></div>
     </div>
     <?php endif; ?>
     <?php if ($related): ?>

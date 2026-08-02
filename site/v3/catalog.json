@@ -2160,55 +2160,2013 @@
     "yaniv": "images/games/yaniv.webp"
   },
   "image_credits": {
+    "3-5-7-9": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Quatre cartes se chevauchant sur la table, illustration concrète du pli remporté à chaque levée."
+    },
+    "500": {
+      "title": "Six-handed 500 playing cards.jpg",
+      "author": "Countakeshi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Six-handed_500_playing_cards.jpg",
+      "rationale": "Cartes additionnelles du jeu 500, montrant le matériel exact de la variante Euchre."
+    },
+    "8-americain": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Il faut vider sa main en couvrant la défausse selon la couleur ou la valeur, avec des cartes à effets."
+    },
     "all-fives": {
+      "title": "Playing Cards - number fives.jpg",
       "author": "Sudzie",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Playing_Cards_-_number_fives.jpg"
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Playing_Cards_-_number_fives.jpg",
+      "rationale": "Les quatre cartes de valeur cinq illustrent directement le nom du jeu."
     },
     "all-fours": {
-      "author": "Matthew Ramnath",
+      "title": "Allfourssetup.jpg",
+      "author": "tsunamishadow AKA Matthew Rmanath",
       "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Allfourssetup.jpg"
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Allfourssetup.jpg",
+      "rationale": "Photographie de la mise en place réelle du jeu All Fours."
     },
     "allo-jack": {
+      "title": "Old Bakelite telephone, Fenton House 2011-04-03.jpg",
       "author": "James Cridland",
       "license": "CC BY 2.0",
-      "url": "https://commons.wikimedia.org/wiki/File:Old_Bakelite_telephone,_Fenton_House_2011-04-03.jpg"
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Old_Bakelite_telephone,_Fenton_House_2011-04-03.jpg",
+      "rationale": "Le téléphone à cadran illustre l'appel « Allô Jack » qui déclenche l'action."
     },
-    "anandis": {
-      "author": "Auteurs divers",
-      "license": "Domaine public",
-      "url": "https://commons.wikimedia.org/wiki/File:True_Detective_Mysteries_1927-12.pdf"
+    "aluette": {
+      "title": "Aluette card deck - Grimaud - 1858-1890 - King of Clubs.jpg",
+      "author": "B. P. Grimaud (editor)",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Aluette_card_deck_-_Grimaud_-_1858-1890_-_King_of_Clubs.jpg",
+      "rationale": "Carte authentique du jeu d'Aluette (Roi de Trèfle) issue d'un paquet Grimaud d'époque, soit le matériel même du jeu."
     },
-    "animals": {
-      "author": "Giles Laurent",
-      "license": "CC BY-SA 4.0",
-      "url": "https://commons.wikimedia.org/wiki/File:012_Wild_Chamois_Riederalp_Photo_by_Giles_Laurent.jpg"
-    },
-    "basra": {
-      "author": "Aziz1005",
-      "license": "CC BY-SA 2.5",
-      "url": "https://commons.wikimedia.org/wiki/File:Basra-Shatt-Al-Arab.jpg"
-    },
-    "big-three": {
-      "author": "Rosan Harmens",
-      "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Three_mountain_peaks_(Unsplash).jpg"
-    },
-    "black-jack-banquier": {
+    "ambigu": {
+      "title": "Blackjack game 1.JPG",
       "author": "Scott Nazelrod",
       "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG"
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les joueurs forment des mains classées, misent, relancent ou passent afin de gagner la corbeille."
+    },
+    "anandis": {
+      "title": "True Detective Mysteries 1927-12.pdf",
+      "author": "Various",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:True_Detective_Mysteries_1927-12.pdf",
+      "rationale": "Couverture policière du domaine public liée à la mécanique d'enquête."
+    },
+    "animals": {
+      "title": "012 Wild Chamois Riederalp Photo by Giles Laurent.jpg",
+      "author": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:012_Wild_Chamois_Riederalp_Photo_by_Giles_Laurent.jpg",
+      "rationale": "Animal sauvage photographié, directement lié au thème annoncé par les joueurs."
+    },
+    "animaux": {
+      "title": "Три олениці взимку.jpg",
+      "author": "Byrdyak",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D1%80%D0%B8_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%86%D1%96_%D0%B2%D0%B7%D0%B8%D0%BC%D0%BA%D1%83.jpg",
+      "rationale": "Trois cerfs groupés évoquent les paires d'animaux à repérer et le paquet capturé."
+    },
+    "ascenseur": {
+      "title": "Fase de carteo oh hell.jpg",
+      "author": "Tipar",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fase_de_carteo_oh_hell.jpg",
+      "rationale": "Photographie d'une donne du jeu Oh Hell, illustrant la phase de levées centrale de l'Ascenseur."
+    },
+    "baccara": {
+      "title": "BaccaratTables-Casino-MarinaBaySands-Singapore-20100507.jpg",
+      "author": "hj_west from USA.",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:BaccaratTables-Casino-MarinaBaySands-Singapore-20100507.jpg",
+      "rationale": "De vraies tables de baccara dans un casino illustrent le jeu et son décor bancaire."
+    },
+    "barbu": {
+      "title": "King of Hearts Ruen pattern comparison.jpg",
+      "author": "Various, cited in the image",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:King_of_Hearts_Ruen_pattern_comparison.jpg",
+      "rationale": "Le Barbu doit son nom au roi de Cœur (le « barbu »), ici présenté à travers l'évolution de ses illustrations."
+    },
+    "basra": {
+      "title": "Basra-Shatt-Al-Arab.jpg",
+      "author": "Aziz1005",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Basra-Shatt-Al-Arab.jpg",
+      "rationale": "Vue de Bassorah, ville qui donne son nom au jeu."
+    },
+    "bassette": {
+      "title": "Gamblers.jpg",
+      "author": "Thomas Rowlandson",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Gamblers.jpg",
+      "rationale": "Gravure de Rowlandson montrant une salle de jeu period, évocation visuelle de l'univers du banquier et des paris propre à la Bassette."
+    },
+    "bataille": {
+      "title": "War card game 4-25-2021 (51174764872).jpg",
+      "author": "Larry Koester",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:War_card_game_4-25-2021_(51174764872).jpg",
+      "rationale": "Photographie explicite d'une partie du jeu de bataille (War) avec cartes retournées face visible, illustrant la mécanique de pli."
+    },
+    "bataille-corse": {
+      "title": "Pile of playing cards.jpg",
+      "author": "Belbury",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pile_of_playing_cards.jpg",
+      "rationale": "Un tas réel de cartes à jouer entassées illustre l'accumulation centrale et la capture du paquet qui caractérise la bataille corse."
+    },
+    "baudet": {
+      "title": "Equus asinus Kadzidłowo 001.jpg",
+      "author": "Lilly M",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Equus_asinus_Kadzid%C5%82owo_001.jpg",
+      "rationale": "Le baudet est un âne ; la photo d'un âne en pleine nature illustre directement le personnage-titre du jeu."
+    },
+    "beigne": {
+      "title": "Pastry-Donut-Cake-Glazed.jpg",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Pastry-Donut-Cake-Glazed.jpg",
+      "rationale": "Beignets fraîchement préparés, objet éponyme du jeu Le Beigne, en image horizontale appétissante."
+    },
+    "belote": {
+      "title": "Belot-9.jpg",
+      "author": "Stokkestijn",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Belot-9.jpg",
+      "rationale": "Photographie réelle d'une partie de Belote en cours, joueurs et cartes autour de la table."
+    },
+    "bezique": {
+      "title": "Gustave caillebotte, partita a bezique, 1880.jpg",
+      "author": "Francesco Bini",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Gustave_caillebotte,_partita_a_bezique,_1880.jpg",
+      "rationale": "Tableau de Caillebotte montrant une véritable partie de Bésigue en cours."
+    },
+    "big-three": {
+      "title": "Three mountain peaks (Unsplash).jpg",
+      "author": "Rosan Harmens rooszan",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Three_mountain_peaks_(Unsplash).jpg",
+      "rationale": "Trois sommets distincts illustrent directement le nom Big Three."
+    },
+    "black-jack-banquier": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Photographie d'une table de blackjack avec banque et mises."
     },
     "blanche-neige": {
+      "title": "Snow-white-913740 1280.jpg",
       "author": "455992",
       "license": "CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Snow-white-913740_1280.jpg"
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Snow-white-913740_1280.jpg",
+      "rationale": "Illustration du conte et du personnage qui donnent leur nom au jeu."
     },
     "bonjour-monsieur": {
-      "author": "State Library of Queensland",
-      "license": "Aucune restriction connue",
-      "url": "https://commons.wikimedia.org/wiki/File:Tea_on_the_verandah_of_a_Mount_Nutt_home,_Bowen,_Queensland,_ca._1900-1910_(5141945740).jpg"
+      "title": "A young woman is holding the arm of man as he raises his hat Wellcome V0040071.jpg",
+      "author": "Pigal / Wellcome Collection",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_young_woman_is_holding_the_arm_of_man_as_he_raises_his_hat_Wellcome_V0040071.jpg",
+      "rationale": "Scène de salut où un homme lève son chapeau devant une femme."
+    },
+    "boston": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "Visuel lié à la mécanique « Enchères » : Les enchères fixent un nombre de levées et un atout que le déclarant doit ensuite réaliser."
+    },
+    "bouchon": {
+      "title": "Wine cork (3844217211).jpg",
+      "author": "Angelo DeSantis from Berkeley, US",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Wine_cork_(3844217211).jpg",
+      "rationale": "La mécanique exige que les joueurs saisissent un bouchon ; un vrai bouchon de bouteille montre l'objet même qu'il faut attraper."
+    },
+    "bouillotte": {
+      "title": "Jean-François Bosio - La bouillotte.jpg",
+      "author": "Jean François Bozio",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Bosio_-_La_bouillotte.jpg",
+      "rationale": "Ce tableau de Bosio est littéralement intitulé « La bouillotte » et figure une partie du jeu de cartes éponyme."
+    },
+    "brag": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les joueurs misent ou se retirent sur des mains cachées classées, avec possibilité de jouer sans même regarder."
+    },
+    "brain-drain": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Tous cherchent simultanément une équation utilisant quatre cartes pour atteindre la cible, la première solution valide remportant la carte."
+    },
+    "brelan": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Après la mise, la donne seule décide qui obtient le brelan gagnant et remporte la corbeille."
+    },
+    "bridge": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "La séquence d'enchères avec boîtes de bridge matérialise la phase d'enchères qui fixe le contrat."
+    },
+    "brusquembille": {
+      "title": "Piquet deck.png",
+      "author": "Polybius",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Piquet_deck.png",
+      "rationale": "Le paquet français de 32 cartes (jeu de piquet) est précisément le matériel utilisé pour la Brusquembille."
+    },
+    "c-q-f-d": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Visuel lié à la mécanique « Enquête » : Des questions chiffrées et leurs réponses servent à déduire la composition exacte des sept cartes adverses."
+    },
+    "camicia": {
+      "title": "Italian 15th Century, Playing Cards, 15th century, NGA 41319.jpg",
+      "author": "Italian 15th Century",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Italian_15th_Century,_Playing_Cards,_15th_century,_NGA_41319.jpg",
+      "rationale": "Cartes à jouer italiennes du XVe siècle, matériel même du jeu de Camicia."
+    },
+    "canasta": {
+      "title": "Canasta example layout.jpg",
+      "author": "Keyacom",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Canasta_example_layout.jpg",
+      "rationale": "Disposition complète d'une partie de Canasta avec melds, défausse et cartes en main, montrant la mécanique de séries de même rang."
+    },
+    "canasta-chinoise": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : Les équipes piochent et défaussent pour étaler les séries et canastas imposées."
+    },
+    "candyman": {
+      "title": "Sassafras Sweet Co. candy in jars.jpg",
+      "author": "Matthew Paul  Argall",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sassafras_Sweet_Co._candy_in_jars.jpg",
+      "rationale": "Le nom du jeu évoque les bonbons ; les pots de confiserie d'une boutique incarnent l'univers gourmand du rôle Candyman."
+    },
+    "carotte": {
+      "title": "Carrots at Ljubljana Central Market.JPG",
+      "author": "domdomegg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carrots_at_Ljubljana_Central_Market.JPG",
+      "rationale": "Bottes de carottes sur un marché, légume éponyme du jeu La Carotte, en format horizontal net."
+    },
+    "carte-la-plus-basse": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Toile montrant des joueurs attablés autour d'une partie de cartes, conforme au principe des levées."
+    },
+    "carte-svp": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Les joueurs échangent une carte avec leur voisin afin de former une couleur, une suite ou un brelan de trois cartes."
+    },
+    "casino": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Une carte de la main capture sur la table une carte égale ou un ensemble dont la somme correspond."
+    },
+    "charlemagne": {
+      "title": "Charlemagne et Louis le Pieux.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Charlemagne_et_Louis_le_Pieux.jpg",
+      "rationale": "Le jeu tire son nom de Charlemagne, ici figuré aux côtés de son fils dans une enluminure des Grandes Chroniques de France."
+    },
+    "chat": {
+      "title": "Felis catus-cat on snow.jpg",
+      "author": "Von.grzanka",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg",
+      "rationale": "Photo claire d'un chat domestique, animal éponyme du jeu Le Chat."
+    },
+    "chateau-de-cartes": {
+      "title": "House of cards (682408974).jpg",
+      "author": "Janet McKnight from Oxford, UK",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:House_of_cards_(682408974).jpg",
+      "rationale": "Château de cartes monté avec de vraies cartes à jouer géantes, illustration exacte du principe du jeu d'adresse."
+    },
+    "chien-rouge": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Chaque joueur calibre une mise contre la poule avant qu'une carte du talon décide du paiement."
+    },
+    "chkobba": {
+      "title": "Chkobba carreau 01.svg",
+      "author": "Abjiklam",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Chkobba_carreau_01.svg",
+      "rationale": "Carte officielle du jeu de Chkobba (As de carreau) : le matériel exact du jeu nommé."
+    },
+    "cinq-rois": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : À chaque manche, les joueurs piochent et défaussent pour former suites et groupes avant de fermer."
+    },
+    "cinquante-plus-moins": {
+      "title": "Lancaster County, Pennsylvania. Blackboard work in arithmetic. See 83G 37529 and 37530. - NARA - 521098.jpg",
+      "author": "Irving Rusinow",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Lancaster_County,_Pennsylvania._Blackboard_work_in_arithmetic._See_83G_37529_and_37530._-_NARA_-_521098.jpg",
+      "rationale": "Scène concrète d'arithmétique au tableau noir, représentant visuellement l'addition et la soustraction au cœur du jeu."
+    },
+    "clubbed": {
+      "title": "Playingcards-en-clubs.jpg",
+      "author": "Człowiek Oddzielany Mechanicznie",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Playingcards-en-clubs.jpg",
+      "rationale": "Toutes les cartes de trèfle d'un jeu classique, couleur qui force l'adversaire à capturer la pile."
+    },
+    "coeurs": {
+      "title": "Card-ace-hearts - Aussiesim - game-icons.svg",
+      "author": "Aussiesim",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Card-ace-hearts_-_Aussiesim_-_game-icons.svg",
+      "rationale": "Une carte de cœur isole le symbole même des pénalités que les joueurs fuient dans ce jeu de levées."
+    },
+    "color-game": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Visuel lié à la mécanique « Enquête » : Il faut prédire rouge ou noir sur des tirages aléatoires, tandis que les cartes déjà vues renseignent la composition restante."
+    },
+    "colour-blind": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les joueurs fournissent à la couleur et cherchent à remporter certaines levées plutôt que simplement le plus grand nombre."
+    },
+    "commerce": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Le banquier vend sa troisième carte aux enchères, puis la meilleure carte d'atout remporte les mises."
+    },
+    "commere-accom modez-moi": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Les voisins troquent des cartes cachées jusqu'à ce qu'un joueur forme une couleur, une séquence ou un tricon."
+    },
+    "conference": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "Visuel lié à la mécanique « Enchères » : Les équipes s'engagent à réaliser au moins cinq levées, puis jouent neuf plis sans atout."
+    },
+    "coucou": {
+      "title": "Cuckoo clock, 1898.jpg",
+      "author": "Deutsches Uhrenmuseum Furtwangen",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cuckoo_clock,_1898.jpg",
+      "rationale": "Le jeu tire son nom du coucou ; une horloge coucou historique de musée illustre l'objet éponyme de façon iconique."
+    },
+    "couillon": {
+      "title": "The Fool and the Lady Fool.jpg",
+      "author": "Scan by Yellow Lion",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Fool_and_the_Lady_Fool.jpg",
+      "rationale": "Le « couillon » désigne le sot ou le bouffon ; cette gravure de couple de fous Renaissance illustre directement ce thème."
+    },
+    "crapaud": {
+      "title": "Bufo bufo 2015 G3.jpg",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_2015_G3.jpg",
+      "rationale": "Crapaud commun européen, animal éponyme du jeu, photographié en milieu naturel en format horizontal."
+    },
+    "crapette": {
+      "title": "Carpet patience 2.jpg",
+      "author": "Orion 8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpet_patience_2.jpg",
+      "rationale": "Couverture du traité de Foster dédié explicitement au Russian Bank, autre nom de la Crapette."
+    },
+    "crapette-tarot": {
+      "title": "Carpet patience 2.jpg",
+      "author": "Orion 8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpet_patience_2.jpg",
+      "rationale": "Visuel lié à la mécanique « Patience » : Cette patience compétitive fait vider son paquet sur des colonnes descendantes alternées et des piles de défausse."
+    },
+    "cribbage": {
+      "title": "Cribbage board with pegs2.jpg",
+      "author": "Bruce Guenter",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cribbage_board_with_pegs2.jpg",
+      "rationale": "Le plateau à fiches du cribbage est le matériel même du jeu et de son compte cumulatif."
+    },
+    "democratie": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les cartes sont jouées en levées et les plis remportés déterminent les points accumulés dans les couleurs."
+    },
+    "dingo": {
+      "title": "Dingo of Fraser Island.jpg",
+      "author": "Newretreads",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dingo_of_Fraser_Island.jpg",
+      "rationale": "Photo emblématique du dingo australien, animal chasseur qui donne son nom au jeu."
+    },
+    "dominos": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les joueurs vident leur main en prolongeant des suites adjacentes par couleur ou par rang."
+    },
+    "double-solitaire": {
+      "title": "Carpet patience 2.jpg",
+      "author": "Orion 8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpet_patience_2.jpg",
+      "rationale": "Manuel historique de R. F. Foster dédié au Russian Bank, nom alternatif du Double Solitaire, jeu de patience à deux joueurs."
+    },
+    "dourak": {
+      "title": "Russian card game Durak.jpg",
+      "author": "Gzhegozh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Russian_card_game_Durak.jpg",
+      "rationale": "Photographie d'une véritable partie de Durak avec le jeu de cartes Atlasnye : illustration exacte du jeu et de sa mécanique d'attaque/défense."
+    },
+    "east-wes": {
+      "title": "Lille rose des vents republique.jpg",
+      "author": "Velvet",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lille_rose_des_vents_republique.jpg",
+      "rationale": "Le nom du jeu évoque les points cardinaux ; une rose des vents au sol matérialise l'axe Est-Ouest."
+    },
+    "ecarte": {
+      "title": "1926 Hans Mertens Ecartéspieler.jpg",
+      "author": "Hans Mertens",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:1926_Hans_Mertens_Ecart%C3%A9spieler.jpg",
+      "rationale": "Tableau de 1926 intitulé « Écartéspieler » montrant un joueur de ce jeu précis, illustration explicite et emblématique."
+    },
+    "eleusis": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les cartes acceptées ou refusées dans une suite servent à inférer la règle secrète qui gouverne la séquence."
+    },
+    "elimination": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les joueurs misent puis comparent la somme de leurs cartes restantes pour récompenser le total le plus haut et le plus bas."
+    },
+    "enfle": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Il faut suivre la couleur dans chaque levée et être le premier à épuiser sa main, quitte à piocher jusqu'à pouvoir fournir."
+    },
+    "euchre": {
+      "title": "Euchre scorekeeping.png",
+      "author": "Poster Nutbag",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Euchre_scorekeeping.png",
+      "rationale": "Le marqueur de score d'Euchre, formé des 2 et 3 posés en compteurs, est un élément caractéristique de ce jeu de levées à trois plis."
+    },
+    "extravagante-minoune": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Visuel lié à la mécanique « Enquête » : Cette variante de rami forme des groupes identiques, avec un paquet hors jeu qui impose de mémoriser et déduire les cartes disponibles."
+    },
+    "familles": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Cartes du jeu Happy Families (Jaques, v.1880), version anglaise du jeu des Familles."
+    },
+    "fan-tan": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Chacun vide sa main en bâtissant, autour des 7, quatre suites ordonnées par couleur."
+    },
+    "ferme": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Un fermier adjugé aux enchères tient la banque pendant que les autres tirent des cartes pour totaliser exactement 16."
+    },
+    "flip": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les deux joueurs posent simultanément et au plus vite des cartes immédiatement supérieures ou inférieures pour vider leur paquet."
+    },
+    "florentin": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les pontes misent contre un banquier sur la seule apparition aléatoire d'une carte du même rang que la carte de départ."
+    },
+    "floune": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : À chaque tour on pioche et défausse pour constituer trios et séquences jusqu'à combiner toute sa main."
+    },
+    "football-americain": {
+      "title": "Warrior Games athletes honored at Navy-Air Force football game 141004-D-DB155-022.jpg",
+      "author": "EJ Hersom",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Warrior_Games_athletes_honored_at_Navy-Air_Force_football_game_141004-D-DB155-022.jpg",
+      "rationale": "Action de football américain (touchdown) reflétant la progression offensive simulée par le jeu."
+    },
+    "fotbo": {
+      "title": "Duke soccer match 1960 01.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Duke_soccer_match_1960_01.jpg",
+      "rationale": "Une action de football illustre le thème du match simulé par les cartes."
+    },
+    "fouine": {
+      "title": "Stone marten (Martes foina) Drenthe.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Stone_marten_(Martes_foina)_Drenthe.jpg",
+      "rationale": "La fouine (Martes foina) est l'animal éponyme du jeu, ici photographiée vivante dans son milieu."
+    },
+    "frappe-le-valet": {
+      "title": "English pattern jack of hearts.svg",
+      "author": "Дмитрий Фомин (Dmitry Fomin)",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:English_pattern_jack_of_hearts.svg",
+      "rationale": "Carte de Valet, cible exacte que les joueurs doivent frapper dans Slapjack/Frappe le Valet."
+    },
+    "gin-rummy": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Les joueurs piochent et défaussent pour former des suites et des groupes de cartes de même valeur."
+    },
+    "golf": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Visuel lié à la mécanique « Enquête » : Les joueurs mémorisent partiellement un carré de cartes cachées et choisissent lesquelles remplacer pour réduire leur score."
+    },
+    "hoc": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "Visuel lié à la mécanique « Enchères » : Trois enchères comparent points, suites et groupes, avant une phase où il faut vider sa main par cartes croissantes."
+    },
+    "horse-race": {
+      "title": "Philippine Jockey Club race track tellers betting machines.jpg",
+      "author": "P1898",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Philippine_Jockey_Club_race_track_tellers_betting_machines.jpg",
+      "rationale": "Le jeu reproduit des paris à cotes sur des chevaux ; les guichets et tableaux de cotes d'un champ de courses incarnent cette mécanique."
+    },
+    "identite": {
+      "title": "New Romanian ID Card (2021).png",
+      "author": "Government of HALA8 October 2021",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:New_Romanian_ID_Card_(2021).png",
+      "rationale": "Spécimen horizontal d'une carte d'identité, objet central du jeu de déduction Identité."
+    },
+    "imperiale": {
+      "title": "Imperial Crown of Austria (Vienna).JPG",
+      "author": "Bede735c",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Imperial_Crown_of_Austria_(Vienna).JPG",
+      "rationale": "Couronne impériale autrichienne exposée à Vienne, objet-totem évoquant les annonces d'Impériales."
+    },
+    "in-between": {
+      "title": "Yablon deal.jpg",
+      "author": "Kevan Davis",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Yablon_deal.jpg",
+      "rationale": "La donne des deux cartes encadrantes illustre le principe même du Yablon/In-Between."
+    },
+    "jeu-de-loo": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les participants engagent des jetons, choisissent de jouer ou passer, puis se partagent la cagnotte selon les levées gagnées."
+    },
+    "jeu-de-valets": {
+      "title": "French Portrait card deck - 1853 - Jack of Spades.jpg",
+      "author": "Nicolas-Marie Gatteaux, Anatole Hulot",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:French_Portrait_card_deck_-_1853_-_Jack_of_Spades.jpg",
+      "rationale": "Le Jeu des Valets (Polignac) pénalise la capture du valet de pique, ici figuré dans un paquet français historique."
+    },
+    "jeu-du-roi": {
+      "title": "King playing cards.jpg",
+      "author": "Enoch Lau",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:King_playing_cards.jpg",
+      "rationale": "Photo des quatre Rois d'un jeu standard, carte centrale du Jeu du Roi."
+    },
+    "kalabriasz": {
+      "title": "French-suited 32-card pack.jpg",
+      "author": "Bermicourt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:French-suited_32-card_pack.jpg",
+      "rationale": "Paquet de 32 cartes françaises utilisé notamment pour le Klaberjass/Kalabriasz."
+    },
+    "kilo-de-plomb": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les joueurs suivent la couleur, ramassent ou piochent s'ils ne peuvent fournir, et cherchent à vider leur main en premier."
+    },
+    "knock-rummy": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : La main est organisée en brelans, carrés et suites, avec possibilité de conclure sur un faible total de cartes isolées."
+    },
+    "kontsina": {
+      "title": "Philhellenes greek revolution playing cards.jpg",
+      "author": "Badseed",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Philhellenes_greek_revolution_playing_cards.jpg",
+      "rationale": "La Kontsina est un jeu grec de pêche ; un jeu de cartes historique grec évoque directement son origine culturelle."
+    },
+    "la-compliquee": {
+      "title": "Memory (spel).jpg",
+      "author": "Tilanus at Dutch Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(spel).jpg",
+      "rationale": "Photographie d'une partie de Memory (tournoi néerlandais), montrant concrètement l'appariement des cartes que reproduit le jeu de mémorisation La Compliquée."
+    },
+    "la-famille-coeur": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : À la manière des jeux de familles, chacun demande des cartes précises pour réunir les six membres de la famille Cœur."
+    },
+    "la-pomme": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Chaque confrontation est une levée à l'atout dont les cartes capturées doivent être additionnées autour du seuil de 21."
+    },
+    "la-salade-canadienne": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Six contrats successifs modifient les levées et cartes qu'il faut éviter tout en respectant le jeu de la couleur demandée."
+    },
+    "la-selective": {
+      "title": "Memory (game).JPG",
+      "author": "Photo by KF, July 2005.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(game).JPG",
+      "rationale": "Le plateau de Memory illustre directement la mécanique de mémorisation et d'appariement des cartes cachées."
+    },
+    "lansquenet": {
+      "title": "Landsknechts break into Parmigianino's studio (1854), by Amanzio Cattaneo.jpg",
+      "author": "Amanzio Cattaneo",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Landsknechts_break_into_Parmigianino%27s_studio_(1854),_by_Amanzio_Cattaneo.jpg",
+      "rationale": "Scène historique représentant des lansquenets, soldats qui ont donné leur nom au jeu Lansquenet."
+    },
+    "last-one": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Cette variante du 8 Américain consiste à vider sa main par appariement, cartes spéciales et séquences de mêlée croissantes."
+    },
+    "le-100": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les cartes augmentent, réduisent ou transforment un total commun qu'il faut manipuler sans dépasser 100."
+    },
+    "le-14": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Les joueurs posent et recomposent des groupes de cartes dont la somme doit toujours être égale à 14."
+    },
+    "le-21": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Tous placent ensemble leurs cartes sur quatre piles afin de produire un maximum de sommes exactes de 21."
+    },
+    "le-24": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les joueurs combinent simultanément quatre nombres avec des opérations et la première solution donnant 24 l'emporte."
+    },
+    "le-41": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : La pioche et la défausse servent à rassembler quatre cartes d'une même couleur avant de clore la manche."
+    },
+    "le-51-japonais": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Étal de cartes hanafuda japonaises rappelant le thème du 'Japonais' et la disposition centrale d'échange."
+    },
+    "le-7-de-coeur": {
+      "title": "Close-up of the seven of hearts card on the ground. A good omen (51276463242).jpg",
+      "author": "Ivan Radic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_seven_of_hearts_card_on_the_ground._A_good_omen_(51276463242).jpg",
+      "rationale": "Photographie réelle du 7 de cœur, carte-objectif du jeu de course."
+    },
+    "le-98": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Chaque carte modifie un total partagé que les joueurs doivent maintenir sans franchir la limite de 98."
+    },
+    "le-bingo": {
+      "title": "ANTIGUO BOLILLERO. CIRUGÍA 3 FOUBA.JPG",
+      "author": "L.enriquez",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:ANTIGUO_BOLILLERO._CIRUG%C3%8DA_3_FOUBA.JPG",
+      "rationale": "Ancien bolillero (tambour à boules de bingo), matériel même des tirages aléatoires du bingo."
+    },
+    "le-cabo-var": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Les joueurs mémorisent des cartes cachées, puis piochent, défaussent et échangent pour réduire leur total avant d'annoncer Cabo."
+    },
+    "le-cuttle": {
+      "title": "Russian card game Durak.jpg",
+      "author": "Gzhegozh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Russian_card_game_Durak.jpg",
+      "rationale": "Visuel lié à la mécanique « Combat » : Deux joueurs attaquent, contrent et détruisent les cartes adverses tout en construisant leur propre total jusqu'au seuil de victoire."
+    },
+    "le-front": {
+      "title": "War card game 4-25-2021 (51174764872).jpg",
+      "author": "Larry Koester",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:War_card_game_4-25-2021_(51174764872).jpg",
+      "rationale": "Visuel lié à la mécanique « Bataille » : Les joueurs construisent des groupes de même rang et s'en emparent mutuellement jusqu'à compléter les collections."
+    },
+    "le-generala": {
+      "title": "Rostov-on-Don 2014 Victory Day Parade Rehearsal, Military, Major general, Russia.jpg",
+      "author": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rostov-on-Don_2014_Victory_Day_Parade_Rehearsal,_Military,_Major_general,_Russia.jpg",
+      "rationale": "Le nom du jeu évoque un général ; un officier supérieur en parade illustre ce lien nominal explicite."
+    },
+    "le-go-fish-deluxe": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Les joueurs réclament une valeur ou piochent, puis collectionnent les cartes obtenues par paires."
+    },
+    "le-gops": {
+      "title": "Pile of playing cards.jpg",
+      "author": "Belbury",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pile_of_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Divers » : Chaque carte-prix est attribuée au joueur qui engage secrètement la carte d'enchère la plus forte."
+    },
+    "le-james-bond": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Tous échangent simultanément avec quatre cartes centrales afin de compléter des carrés dans leurs paquets."
+    },
+    "le-kems": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Il faut réunir un carré par échanges simultanés, repérer les signaux secrets et annoncer Kem's avant les adversaires."
+    },
+    "le-killer": {
+      "title": "Detective.svg",
+      "author": "Juhele",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Detective.svg",
+      "rationale": "Le détective à la loupe incarne le rôle explicitement nommé dans la mécanique, qui tente d'identifier l'assassin."
+    },
+    "le-kings-corners": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Photographie réelle d'une partie de Kings in the Corner en cours, illustration exacte du jeu."
+    },
+    "le-knock-out-whis": {
+      "title": "Whist, and Short whist (IA whistshortwhist00matt).pdf",
+      "author": "Matthews, Thomas. [from old catalog] Coles, Charles Barwell. [from old catalog]",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Whist,_and_Short_whist_(IA_whistshortwhist00matt).pdf",
+      "rationale": "Traité historique de Thomas Matthews sur le Whist et le Short Whist, jeu parent dont dérive directement le Knockout Whist (levées et atouts)."
+    },
+    "le-memory": {
+      "title": "Memory (game).JPG",
+      "author": "Photo by KF, July 2005.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(game).JPG",
+      "rationale": "Visuel lié à la mécanique « Mémoire » : Chaque joueur retourne des cartes cachées et mémorise leur emplacement pour former des paires."
+    },
+    "le-memory-cooperatif": {
+      "title": "Memory game 0001.jpg",
+      "author": "F. D. Richards",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_game_0001.jpg",
+      "rationale": "Photographie réelle d'une partie de Memory en cours, illustrant la mémorisation et l'appariement des cartes retournées propres au jeu coopératif."
+    },
+    "le-neuf": {
+      "title": "Toy Soldiers British Coldstream Guards.jpg",
+      "author": "Jcbutler at English Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Toy_Soldiers_British_Coldstream_Guards.jpg",
+      "rationale": "Le jeu oppose deux armées par comparaison de cartes ; des soldats de plomb en formation incarnent l'affrontement militaire de la bataille."
+    },
+    "le-poker-squares": {
+      "title": "Poker Solitaire Layout.jpg",
+      "author": "Tesseract Mobile",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Poker_Solitaire_Layout.jpg",
+      "rationale": "Capture d'écran d'une grille de Poker Solitaire, matériel même du jeu Poker Squares, en format horizontal."
+    },
+    "le-rami-contra": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Chaque manche impose des suites ou groupes précis à réaliser par pioche et défausse."
+    },
+    "le-rami-frustration": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Les joueurs piochent et défaussent pour accomplir successivement quatorze contrats de combinaisons."
+    },
+    "le-rami-machiave": {
+      "title": "Portrait of Niccolò Machiavelli by Santi di Tito.jpg",
+      "author": "Santi di Tito",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg",
+      "rationale": "Portrait de Machiavel, personnage éponyme du rami stratégique qui porte son nom."
+    },
+    "le-snap-irlandais": {
+      "title": "War card game 4-25-2021 (51174764872).jpg",
+      "author": "Larry Koester",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:War_card_game_4-25-2021_(51174764872).jpg",
+      "rationale": "Visuel lié à la mécanique « Bataille » : Les cartes s'accumulent au centre et une concordance oblige tous les joueurs à frapper la pile au plus vite."
+    },
+    "le-tamalou": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Les joueurs mémorisent des cartes cachées, les échangent et peuvent défausser rapidement les valeurs appariées."
+    },
+    "le-tour-de-france": {
+      "title": "Belgische Tourploeg in 1949, Parijs (collectie KOERS. Museum van de Wielersport).jpg",
+      "author": "onbekend",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Belgische_Tourploeg_in_1949,_Parijs_(collectie_KOERS._Museum_van_de_Wielersport).jpg",
+      "rationale": "Équipe belge du Tour de France 1949 à Paris, illustrant le thème cycliste qui donne son nom au jeu."
+    },
+    "le-vicaire": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Chaque levée vaut un point et la victoire exige d'atteindre exactement 10 ou un multiple de 5 supérieur."
+    },
+    "le-yami": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : La pioche-défausse sert à remplir une grille de séries et de mains classiques du poker."
+    },
+    "lechange": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Les joueurs négocient l'échange de cartes pour former puis poser des séries de trois."
+    },
+    "les-7-familles": {
+      "title": "Jeu de sept familles - jeu de cartes, estampe - A. G. - btv1b10510273b (07 of 74).jpg",
+      "author": "Gill, André (1840-1885). Dessinateur",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Jeu_de_sept_familles_-_jeu_de_cartes,_estampe_-_A._G._-_btv1b10510273b_(07_of_74).jpg",
+      "rationale": "Carte d'un jeu historique de sept familles signé Gill, illustration exacte du jeu éponyme."
+    },
+    "litterature": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Les équipes réclament des cartes précises et déduisent leur répartition pour revendiquer des suites complètes."
+    },
+    "loterie": {
+      "title": "EuroMillions tickets.jpg",
+      "author": "Magnus D from London, United Kingdom",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:EuroMillions_tickets.jpg",
+      "rationale": "Des billets de loterie illustrant la correspondance aléatoire entre mises et lots du jeu."
+    },
+    "macao": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les pontes misent contre un banquier, additionnent la valeur de leurs cartes et choisissent de tirer ou de rester pour approcher 9 sans le dépasser."
+    },
+    "mafia": {
+      "title": "Werewolf in Geneva (1580).png",
+      "author": "From collection of en:Johann Jakob Wick (1522-1588)",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Werewolf_in_Geneva_(1580).png",
+      "rationale": "Le loup-garou est l'éponyme du jeu (Loup-Garou), ici figuré dans une chronique suisse du XVIe siècle."
+    },
+    "manille": {
+      "title": "Spadille Manille and Basta - IMG 7835.jpg",
+      "author": "Bermicourt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Spadille_Manille_and_Basta_-_IMG_7835.jpg",
+      "rationale": "Planche montrant les atouts nommés (Spadille, Manille, Basta), la Manille étant la carte éponyme."
+    },
+    "marguerite": {
+      "title": "Five daisies (Bellis perennis).jpg",
+      "author": "Friedrich Haag",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Five_daisies_(Bellis_perennis).jpg",
+      "rationale": "Bouquet de marguerites (Bellis perennis), fleur éponyme du jeu de déduction."
+    },
+    "mariage": {
+      "title": "The Deck of Cards (Queen ^ King) - panoramio.jpg",
+      "author": "Christopher Wood",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Deck_of_Cards_(Queen_%5E_King)_-_panoramio.jpg",
+      "rationale": "Une dame et un roi côte à côte, soit le couple qui forme le 'mariage' au cœur de la marque et du score du jeu."
+    },
+    "marjolet": {
+      "title": "Marjolet-Queen of Spades and Jack of Diamonds.jpg",
+      "author": "Bermicourt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Marjolet-Queen_of_Spades_and_Jack_of_Diamonds.jpg",
+      "rationale": "Illustration explicite de la combinaison nommée « marjolet » (Dame de Pique + Valet de Carreau) dans le jeu historique de Marjolet."
+    },
+    "may-i": {
+      "title": "Rummy cards.jpg",
+      "author": "இந்து தங்கராஜ்",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_cards.jpg",
+      "rationale": "Cartes de rummy étalées en suites et séries, mécanique de pioche-défausse centrale de cette variante."
+    },
+    "memoire-a-lepreuve": {
+      "title": "Memory (game).JPG",
+      "author": "Photo by KF, July 2005.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(game).JPG",
+      "rationale": "Visuel lié à la mécanique « Mémoire » : Les cartes sont révélées puis retournées et il faut mémoriser leur emplacement pour retrouver les paires identiques."
+    },
+    "menteur": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les joueurs se défaussent sous des annonces potentiellement mensongères et doivent décider quand contester un adversaire."
+    },
+    "michigan": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les cartes sont posées en suites montantes jusqu'à un arrêt, avec pour but de vider sa main et d'encaisser les jetons des cartes payantes."
+    },
+    "mille": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : Ce dérivé de la Canasta alterne pioche et défausse pour étaler des groupes d'au moins trois cartes de même valeur."
+    },
+    "minoune": {
+      "title": "Six weeks old cat (aka).jpg",
+      "author": "André Karwath aka Aka",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Six_weeks_old_cat_(aka).jpg",
+      "rationale": "La minoune (chaton) est l'éponyme du jeu, ici photographiée de manière lisible et cadrée horizontalement."
+    },
+    "mitaine": {
+      "title": "War card game 4-25-2021 (51174764872).jpg",
+      "author": "Larry Koester",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:War_card_game_4-25-2021_(51174764872).jpg",
+      "rationale": "Visuel lié à la mécanique « Bataille » : Des paires, brelans ou carrés sont joués en surenchère de force, et la combinaison gagnante capture les cartes qu'elle a battues."
+    },
+    "motz": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les joueurs passent ou entrent dans le coup, disputent trois levées à l'atout et se partagent une corbeille de mises selon leur résultat."
+    },
+    "mouche": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Après avoir passé ou échangé des cartes, les participants jouent des levées à l'atout pour gagner la cagnotte et éviter les pénalités."
+    },
+    "mustamaija": {
+      "title": "Seven brothers in the village of Raattama in Kittilä in 1992 (JOKAJUK3D K-7).tif",
+      "author": "Jukka Kuusisto",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Seven_brothers_in_the_village_of_Raattama_in_Kittil%C3%A4_in_1992_(JOKAJUK3D_K-7).tif",
+      "rationale": "Joueurs finlandais attablés autour d'une partie de cartes en Laponie : scène de jeu conforme à l'origine finlandaise du Mustamaija."
+    },
+    "nain-jaune": {
+      "title": "Snow White and the Seven Dwarfs 2.png",
+      "author": "National and University Library of Iceland",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Snow_White_and_the_Seven_Dwarfs_2.png",
+      "rationale": "Le jeu doit son nom au « Nain Jaune » ; une gravure de conte illustrant des nains évoque directement ce personnage éponyme."
+    },
+    "nap": {
+      "title": "Napoleon I of France by Andrea Appiani.jpg",
+      "author": "Andrea Appiani",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Napoleon_I_of_France_by_Andrea_Appiani.jpg",
+      "rationale": "Portrait classique de Napoléon Bonaparte, personnage éponyme du jeu de levées Napoléon (Nap)."
+    },
+    "neuf-a-deux": {
+      "title": "Settling the odd trick (BM 1865,0610.1126).jpg",
+      "author": "British Museum",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Settling_the_odd_trick_(BM_1865,0610.1126).jpg",
+      "rationale": "Gravure de joueuses disputant un pli de cartes, scène directement liée à la mécanique des levées."
+    },
+    "neuf-a-quatre": {
+      "title": "Interior with two men playing cards and four other figures. Wellcome L0016705.jpg",
+      "author": "Wellcome Collection",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Interior_with_two_men_playing_cards_and_four_other_figures._Wellcome_L0016705.jpg",
+      "rationale": "Scène de joueurs attablés autour des cartes, évocatrice du jeu de levées par équipes."
+    },
+    "neuf-a-trois": {
+      "title": "Theodoor Rombouts - The Card Players - WGA20022.jpg",
+      "author": "Theodoor Rombouts",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Theodoor_Rombouts_-_The_Card_Players_-_WGA20022.jpg",
+      "rationale": "Tableau de genre montrant des joueurs de cartes, scène évoquant les levées à trois joueurs."
+    },
+    "nigaud": {
+      "title": "The Court Jester by John Watson Nicol.jpg",
+      "author": "John Watson Nicol",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Court_Jester_by_John_Watson_Nicol.jpg",
+      "rationale": "Portrait du bouffon Gonella par Fouquet, figure du « nigaud » qui prête son nom à cette patience."
+    },
+    "noddy": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les joueurs marquent par totaux de 15, 25 ou 31 ainsi que par paires, suites et couleurs."
+    },
+    "omben": {
+      "title": "4coloraces1.jpg",
+      "author": "Entheta",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:4coloraces1.jpg",
+      "rationale": "Les quatre as d'un jeu de cartes classique, support central d'un jeu de familles de type Go Fish comme Omben."
+    },
+    "oracle": {
+      "title": "Glaskugel CrystalBall.jpg",
+      "author": "Eva K. / Eva K.",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Glaskugel_CrystalBall.jpg",
+      "rationale": "Boule de cristal, attribut emblématique de l'oracle/devin, qui donne son nom au jeu de déduction."
+    },
+    "papesse-jeanne": {
+      "title": "II LA PAPESSE Nicolas Conver Tarot 1760.jpg",
+      "author": "Tarot World Project",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:II_LA_PAPESSE_Nicolas_Conver_Tarot_1760.jpg",
+      "rationale": "L'arcane II « La Papesse » du Tarot de Marseille de Conver représente précisément la Papesse Jeanne, figure éponyme du jeu."
+    },
+    "papillon": {
+      "title": "Common brimstone butterfly (Gonepteryx rhamni) male.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Common_brimstone_butterfly_(Gonepteryx_rhamni)_male.jpg",
+      "rationale": "Le nom du jeu signifie « papillon » ; la photo d'un papillon en plein vol illustre directement le titre éponyme."
+    },
+    "paquet-de-merde": {
+      "title": "Spoons Card Game Start.jpg",
+      "author": "Ian Roberts",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Spoons_Card_Game_Start.jpg",
+      "rationale": "Début de partie de Spoons, jeu dont la mécanique de circulation des cartes et de saisie central est exactement celle du Paquet de Merde."
+    },
+    "paquet-voleur": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Une carte de même rang capture une carte exposée ou vole tout le paquet visible d'un adversaire, et le plus gros paquet gagne."
+    },
+    "pasur": {
+      "title": "Ivory playing cards purchased by Émile Prisse d'Avennes.jpg",
+      "author": "Émile Prisse d'Avennes",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Ivory_playing_cards_purchased_by_%C3%89mile_Prisse_d%27Avennes.jpg",
+      "rationale": "Cartes persanes en ivoire évoquant l'origine iranienne du Pâsur et sa culture de jeu."
+    },
+    "petite-ecole": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : Les dix manches demandent successivement de former et d'étaler des groupes ou suites précis avant de se défausser de sa main."
+    },
+    "petite-memoire": {
+      "title": "Memory (game).JPG",
+      "author": "Photo by KF, July 2005.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(game).JPG",
+      "rationale": "Visuel lié à la mécanique « Mémoire » : Les joueurs remplacent les cartes d'un carré partiellement mémorisé afin de minimiser leur score."
+    },
+    "petits-paquets": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Chaque ponte mise contre le banquier puis une carte imposée de chaque paquet caché est révélée et simplement comparée."
+    },
+    "pharaon": {
+      "title": "The loss of the faro bank; -or the Rook's Pigeon'd. (BM J,3.49).jpg",
+      "author": "Print made by: James Gillray  Published by: Hannah Humphrey",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:The_loss_of_the_faro_bank;_-or_the_Rook%27s_Pigeon%27d._(BM_J,3.49).jpg",
+      "rationale": "Caricature de Gillray montrant une table de faro et sa banque dévalisée, scène directement tirée du jeu du Pharaon."
+    },
+    "pig": {
+      "title": "Spoons Card Game Start.jpg",
+      "author": "Ian Roberts",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Spoons_Card_Game_Start.jpg",
+      "rationale": "Visuel lié à la mécanique « Passes de cartes » : Les joueurs passent simultanément une carte jusqu'à former un carré, puis signalent discrètement leur réussite."
+    },
+    "pige-dans-le-lac": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Les joueurs demandent un rang à l'adversaire ou piochent dans le lac afin de compléter des groupes de quatre cartes identiques."
+    },
+    "ping-pong": {
+      "title": "2022-08-19 European Championships 2022 – Table Tennis by Sandro Halank–007.jpg",
+      "author": "Sandro Halank, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:2022-08-19_European_Championships_2022_%E2%80%93_Table_Tennis_by_Sandro_Halank%E2%80%93007.jpg",
+      "rationale": "Le jeu porte le nom du ping-pong ; une partie de tennis de table en action illustre directement le titre éponyme."
+    },
+    "pinochle": {
+      "title": "Indoor Sports - Pinochle - Bidding 400.jpg",
+      "author": "Tad Dorgan",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Indoor_Sports_-_Pinochle_-_Bidding_400.jpg",
+      "rationale": "Bande dessinée montrant trois joueurs de pinochle en pleine enchère, scène explicite du jeu et de sa mécanique d'annonce."
+    },
+    "pique": {
+      "title": "Card-ace-spades - Aussiesim - game-icons.svg",
+      "author": "Aussiesim",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Card-ace-spades_-_Aussiesim_-_game-icons.svg",
+      "rationale": "L'as de pique, carte emblématique de la couleur d'atout permanent du jeu."
+    },
+    "piquet": {
+      "title": "Ernest Meissonier - A Game of Piquet.jpg",
+      "author": "Jean-Louis-Ernest Meissonier",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Ernest_Meissonier_-_A_Game_of_Piquet.jpg",
+      "rationale": "Tableau de Meissonier montrant deux joueurs attablés pour une partie de Piquet."
+    },
+    "plus-d-atouts": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Une couleur est tirée au hasard et le gagnant est simplement celui dont la main distribuée contient le plus de cartes de cette couleur."
+    },
+    "poker": {
+      "title": "Two poker cards and poker chips 20170611.jpg",
+      "author": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Two_poker_cards_and_poker_chips_20170611.jpg",
+      "rationale": "Les cartes et jetons de poker posés sur la table représentent le matériel emblématique du jeu de mises et de relances."
+    },
+    "poker-menteur": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Une main de poker circule, chaque annonce doit dépasser la précédente et peut être mensongère jusqu'à ce qu'un joueur la conteste."
+    },
+    "politaine": {
+      "title": "Playing-cards-meliadus-naples-1362.jpg",
+      "author": "French-influenced Neopolitan artist, for Louis I of Naples.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Playing-cards-meliadus-naples-1362.jpg",
+      "rationale": "Plus ancienne représentation connue de joueurs de cartes (Meliadus, v.1362), scène médiévale de jeu de levées."
+    },
+    "poque": {
+      "title": "Pochbrett 3.jpg",
+      "author": "Aineias",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pochbrett_3.jpg",
+      "rationale": "Plateau de Poch (Pochen/Poque), matériel dédié du jeu, avec ses cases de mise et couronnes de gains."
+    },
+    "pot": {
+      "title": "Hanafuda Koi-Koi Setup 1.jpg",
+      "author": "Marcus Richert",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hanafuda_Koi-Koi_Setup_1.jpg",
+      "rationale": "Visuel lié à la mécanique « Commerce » : Pendant trois tours, les joueurs échangent leurs cartes avec le pot visible pour obtenir un brelan ou une séquence."
+    },
+    "pouilleux": {
+      "title": "Walter Helsper A38.jpg",
+      "author": "Dorothea Jasper",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Walter_Helsper_A38.jpg",
+      "rationale": "Le Pouilleux existe en version allemande (Schwarzer Peter) ; un jeu de cartes allemand moderne illustre directement ce jeu de défausse de paires."
+    },
+    "poule-3-cartes": {
+      "title": "Hen chicken.jpg",
+      "author": "Thegreenj",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Hen_chicken.jpg",
+      "rationale": "Poule (Gallus gallus), animal éponyme du jeu La Poule à 3 Cartes, en photo horizontale simple."
+    },
+    "poule-5-cartes": {
+      "title": "Rooster portrait, France.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rooster_portrait,_France.jpg",
+      "rationale": "Portrait net d'un coq, animal éponyme du jeu, dans une vue horizontale."
+    },
+    "preference": {
+      "title": "Preferans (card game) in Croatia.5.jpg",
+      "author": "Silverije",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Preferans_%28card_game%29_in_Croatia.5.jpg",
+      "rationale": "Photographie réelle d'une partie de Preferans, version croate de la Préférence."
+    },
+    "president": {
+      "title": "Mr. Presidente card game (24127660700).jpg",
+      "author": "Petr Meissner from Czech Republic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mr._Presidente_card_game_(24127660700).jpg",
+      "rationale": "Photographie réelle d'une partie du jeu de cartes Président en cours."
+    },
+    "promenade": {
+      "title": "Close-up of the seven of hearts card on the ground. A good omen (51276463242).jpg",
+      "author": "Ivan Radic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Close-up_of_the_seven_of_hearts_card_on_the_ground._A_good_omen_(51276463242).jpg",
+      "rationale": "Visuel lié à la mécanique « Course » : Les pions avancent au dé sur un parcours et les cases atteintes déterminent les fruits collectés."
+    },
+    "puits": {
+      "title": "Clonmacnoise Bullaun Stone.png",
+      "author": "A.-K. D.",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Clonmacnoise_Bullaun_Stone.png",
+      "rationale": "Pierre à basin millénaire servant de puits rustique, objet éponyme du jeu Le Puits."
+    },
+    "q-squared-joe": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : À chaque tour, il faut défausser une carte qui bat la précédente selon un ordre de force particulier."
+    },
+    "q-squared-joe-ng": {
+      "title": "Russian card game Durak.jpg",
+      "author": "Gzhegozh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Russian_card_game_Durak.jpg",
+      "rationale": "Visuel lié à la mécanique « Combat » : Les joueurs attaquent mains, ressources et terrains en comparant la force de leurs cartes."
+    },
+    "q-squared-joe-war": {
+      "title": "The Battle of Arras, April-may 1917 Q5225.jpg",
+      "author": "John Warwick Brooke",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Battle_of_Arras,_April-may_1917_Q5225.jpg",
+      "rationale": "Des soldats jouant aux cartes dans une tranchée illustrent la conjonction « cartes + guerre » au cœur du jeu d'attaque Q²J War."
+    },
+    "quads": {
+      "title": "Quads 7153-1.jpg",
+      "author": "Matěj Baťha",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Quads_7153-1.jpg",
+      "rationale": "Le jeu consiste à réunir des carrés ; une photo d'un jeu de société « Quads » adapté illustre directement le matériel visé."
+    },
+    "quarante-cinq": {
+      "title": "Forty-five players' manual; (IA fortyfiveplayers00fort).pdf",
+      "author": "Forty-five players' congress. [from old catalog] O'Hara, P., [from old catalog] comp",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Forty-five_players%27_manual;_(IA_fortyfiveplayers00fort).pdf",
+      "rationale": "Manuel historique des joueurs de Forty-Five, seul candidat directement consacré au jeu éponyme."
+    },
+    "quatre-quatorze": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les joueurs composent des totaux proches de 4 et 14 autour d'une carte cachée, avec plusieurs tours de mise et de relance."
+    },
+    "quatre-vingt-dix-neuf": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Chaque carte modifie un total commun que les joueurs doivent maintenir à 99 ou moins."
+    },
+    "quit": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les cartes sont défaussées en prolongeant des séries numériques croissantes jusqu'au 11."
+    },
+    "rami": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "L'étalage de cartes d'une donne de Rummy illustre directement la mécanique de formation de groupes et de suites."
+    },
+    "rami-500": {
+      "title": "A Game of Rummy.JPG",
+      "author": "David Lazich",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Game_of_Rummy.JPG",
+      "rationale": "Photographie d'une partie de Rummy 500 en cours, illustration exacte du jeu nommé."
+    },
+    "rams": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "Visuel lié à la mécanique « Enchères » : Le jeu consiste à gagner des levées à l'atout, avec possibilité d'annoncer le contrat de toutes les remporter."
+    },
+    "regicide": {
+      "title": "Fallen King.jpg",
+      "author": "McDaniels Okoro",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fallen_King.jpg",
+      "rationale": "Le titre 'Fallen King' incarne le roi terrassé, objectif central du jeu coopératif Régicide."
+    },
+    "reussite": {
+      "title": "Carpet patience 2.jpg",
+      "author": "Orion 8",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpet_patience_2.jpg",
+      "rationale": "Tapis de Carpet Patience dévoilé : un véritable tableau de solitaire/patience, mécanique exacte du jeu."
+    },
+    "reversi": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les cartes sont confrontées en levées sans atout, la carte la plus forte remportant chaque pli."
+    },
+    "roi-et-son-epee": {
+      "title": "King Arthur Excalibur Sword Sculpture, Llanberis - geograph.org.uk - 6548791.jpg",
+      "author": "Brian Deegan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:King_Arthur_Excalibur_Sword_Sculpture,_Llanberis_-_geograph.org.uk_-_6548791.jpg",
+      "rationale": "Sculpture du roi Arthur brandissant Excalibur, figurant littéralement le roi et son épée du jeu."
+    },
+    "rouge-contre-noir": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Deux adversaires confrontent une carte à chaque pli pour capturer surtout les cartes de la couleur désignée."
+    },
+    "rummy-baltimore": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : Les joueurs piochent et défaussent pour former des trios et des séquences au cours de cinq donnes."
+    },
+    "sab-at-al-deemin": {
+      "title": "(7) Seven of diamonds (8086091501).jpg",
+      "author": "wikioticsIan",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:(7)_Seven_of_diamonds_(8086091501).jpg",
+      "rationale": "Photographie réelle du 7 de carreau, carte qui ouvre chaque suite du jeu."
+    },
+    "salade": {
+      "title": "Salad bowl in Tampere.jpg",
+      "author": "JIP",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Salad_bowl_in_Tampere.jpg",
+      "rationale": "Le bol de salade composée reflète l'éponyme du jeu, qui mélange plusieurs contrats comme une salade."
+    },
+    "sans-coeur": {
+      "title": "Hearts; rules and instructions for playing the game, illustrated (IA heartsrulesinstr00cady).pdf",
+      "author": "Cady, A. Howard (Alice Howard)",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Hearts;_rules_and_instructions_for_playing_the_game,_illustrated_(IA_heartsrulesinstr00cady).pdf",
+      "rationale": "Manuel explicitement consacré au jeu de Hearts, dont Sans-Cœur est une variante d'évitement : il couvre les levées et les pénalités de cœur au cœur du jeu."
+    },
+    "scopa": {
+      "title": "Scopa, exemple de jeu. (cartes italiennes).jpg",
+      "author": "ItsMariano",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Scopa,_exemple_de_jeu._(cartes_italiennes).jpg",
+      "rationale": "Table de scopa en cours avec cartes italiennes, illustration directe du jeu et de sa mécanique de capture."
+    },
+    "sept-et-demi": {
+      "title": "SetteMezzo.jpg",
+      "author": "LvdT88",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:SetteMezzo.jpg",
+      "rationale": "Photographie explicite d'un Sette e Mezzo reale avec cartes du jeu de Bologne, illustration exacte du Sept et Demi."
+    },
+    "sept-vingt-sept": {
+      "title": "Yablon deal.jpg",
+      "author": "Kevan Davis",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Yablon_deal.jpg",
+      "rationale": "Manuel de poker de R. F. Foster : le 7-27 (sept-vingt-sept) est une variante reconnue du poker, dont ce traité expose mises et combinaisons."
+    },
+    "seven-spades": {
+      "title": "Playing Card, Seven of Spades, late 19th century (CH 18405359).jpg",
+      "author": "Made by B.P. Grimaud",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Playing_Card,_Seven_of_Spades,_late_19th_century_(CH_18405359).jpg",
+      "rationale": "Le jeu tourne autour du 7 de pique revendiqué ; une carte historique illustrée du 7 de pique illustre directement l'objet central."
+    },
+    "shamus": {
+      "title": "Film Noir.jpg",
+      "author": "Johannes Østby",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Film_Noir.jpg",
+      "rationale": "Ambiance de film noir avec détective, univers sémantique du mot « shamus » (détective privé)."
+    },
+    "shithead": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Photographie explicite d'une main et de la défausse lors d'une partie de Shithead."
+    },
+    "sixte": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les six joueurs fournissent la couleur dans des levées à l'atout et marquent selon les plis remportés."
+    },
+    "skat": {
+      "title": "Skat-bubenordnung.jpg",
+      "author": "VV94",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Skat-bubenordnung.jpg",
+      "rationale": "L'ordre des valets, plus forts atouts du Skat, est au cœur des levées et de la mécanique du jeu."
+    },
+    "skyjo": {
+      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
+      "author": "Gerhard van Steenwijck",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
+      "rationale": "Visuel lié à la mécanique « Enquête » : Les joueurs révèlent et remplacent les cartes d'une grille partiellement cachée, tout en réunissant des triples en colonnes."
+    },
+    "snap": {
+      "title": "War card game 4-25-2021 (51174764872).jpg",
+      "author": "Larry Koester",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:War_card_game_4-25-2021_(51174764872).jpg",
+      "rationale": "Visuel lié à la mécanique « Bataille » : Il faut réagir immédiatement à des cartes identiques pour réclamer et capturer les piles exposées."
+    },
+    "snip-snap-snorem": {
+      "title": "Piquée.png",
+      "author": "Maciozik",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Piqu%C3%A9e.png",
+      "rationale": "Une « piquée » (quatre cartes de même rang), cœur même de la mécanique de Snip Snap Snorem."
+    },
+    "snip-snap-snoru": {
+      "title": "Snip snap snorum game cards 1.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Snip_snap_snorum_game_cards_1.jpg",
+      "rationale": "Cartes de l'édition historique 'The Improved Game of Snip, Snap, Snorum', matériel dédié du jeu nommé."
+    },
+    "solitaire-a-deux": {
+      "title": "Double Freecell.png",
+      "author": "Olle Bonk",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Double_Freecell.png",
+      "rationale": "Tableau double de FreeCell à 104 cartes : un solitaire simultané à deux paquets, exactement la mécanique du Solitaire à Deux."
+    },
+    "spi": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Les deux joueurs se défaussent simultanément et sans tour sur les suites adjacentes des piles centrales."
+    },
+    "stortok": {
+      "title": "Alexander Lauréus - Peasants playing Cards - NG.M.00138 - National Museum of Art, Architecture and Design.jpg",
+      "author": "Aleksander Lauréus",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Alexander_Laur%C3%A9us_-_Peasants_playing_Cards_-_NG.M.00138_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "rationale": "Tableau nordique de paysans jouant aux cartes, scène concrète représentant la mécanique de jeu de cartes Stortok."
+    },
+    "stud-5-cartes": {
+      "title": "Five Card Stud.jpg",
+      "author": "Nintendere at German Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Five_Card_Stud.jpg",
+      "rationale": "Photographie explicite d'une main de Five Card Stud, cartes visibles et cachées alternées."
+    },
+    "stud-7-cartes": {
+      "title": "Poker-Seven-Card-Stud.jpg",
+      "author": "Nyks at German Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Poker-Seven-Card-Stud.jpg",
+      "rationale": "Photographie d'une main réelle de Seven-Card Stud, montrant cartes visibles et cachées du poker."
+    },
+    "tarot": {
+      "title": "Cards of French Tarot.jpg",
+      "author": "立直",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Cards_of_French_Tarot.jpg",
+      "rationale": "Les cartes du tarot français étalées, matériel même du jeu de levées et d'annonces."
+    },
+    "tennis-cartes": {
+      "title": "Evening tennis match, Kirkstall Abbey - geograph.org.uk - 6858907.jpg",
+      "author": "Stephen Craven",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Evening_tennis_match,_Kirkstall_Abbey_-_geograph.org.uk_-_6858907.jpg",
+      "rationale": "Le match de tennis illustré correspond au thème du jeu, qui reproduit points, manches et match au moyen de cartes."
+    },
+    "thinkabi": {
+      "title": "Memory (game).JPG",
+      "author": "Photo by KF, July 2005.",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Memory_(game).JPG",
+      "rationale": "Visuel lié à la mécanique « Mémoire » : Les joueurs mémorisent un tableau face cachée et retournent cinq cartes pour capturer des combinaisons de poker."
+    },
+    "tontine": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Une carte distribuée au hasard impose automatiquement des transferts de jetons avec la corbeille ou un voisin."
+    },
+    "tras": {
+      "title": "Kings in the Corner card game.jpg",
+      "author": "Borgendorf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kings_in_the_Corner_card_game.jpg",
+      "rationale": "Visuel lié à la mécanique « Appariemment » : Chaque joueur révèle et replace les cartes d'un tableau personnel pour ordonner les emplacements de l'As au 10."
+    },
+    "treize": {
+      "title": "Blackjack game 1.JPG",
+      "author": "Scott Nazelrod",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Blackjack_game_1.JPG",
+      "rationale": "Visuel lié à la mécanique « Banque » : Les pontes misent contre une banque et le paiement dépend uniquement des correspondances fortuites entre annonces et cartes tirées."
+    },
+    "treize-quebecois": {
+      "title": "Rummy (game)-card deal.JPG",
+      "author": "Adamt",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Rummy_(game)-card_deal.JPG",
+      "rationale": "Visuel lié à la mécanique « Rami » : Chaque donne consiste à piocher et défausser pour compléter des trios et des séquences, avec une valeur joker variable."
+    },
+    "trente-et-quarante": {
+      "title": "Trente et Quarante table (punter's view).jpg",
+      "author": "Countakeshi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Trente_et_Quarante_table_(punter%27s_view).jpg",
+      "rationale": "Table de Trente et Quarante au casino de Monte-Carlo, illustration exacte du matériel du jeu de casino éponyme."
+    },
+    "trente-et-un": {
+      "title": "Winning hand in the game of Thirty-One.png",
+      "author": "Guy vandegrift",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "url": "https://commons.wikimedia.org/wiki/File:Winning_hand_in_the_game_of_Thirty-One.png",
+      "rationale": "Main gagnante explicite du Thirty-One (as, valet, dame de pique) totalisant 31."
+    },
+    "tres-y-dos": {
+      "title": "Full house poker cards 20190408.jpg",
+      "author": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Full_house_poker_cards_20190408.jpg",
+      "rationale": "Le full house (une paire + un brelan) incarne la combinaison visée par le Tres y Dos."
+    },
+    "triomphe": {
+      "title": "Four overlapping playing cards.jpg",
+      "author": "Newwhist",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Four_overlapping_playing_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Levées » : Les joueurs doivent fournir la couleur et utilisent l'atout pour gagner au moins trois des cinq levées."
+    },
+    "valet-de-trefle": {
+      "title": "French Portrait card deck - 1853 - Jack of Clubs.jpg",
+      "author": "Nicolas-Marie Gatteaux, Anatole Hulot",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:French_Portrait_card_deck_-_1853_-_Jack_of_Clubs.jpg",
+      "rationale": "Le valet de trèfle est l'éponyme du jeu, ici présenté dans un paquet français historique."
+    },
+    "vingt-et-un": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Les joueurs misent contre la banque et additionnent leurs cartes pour approcher 21 sans dépasser."
+    },
+    "vive-la-joie": {
+      "title": "Happy Families cards.jpg",
+      "author": "Published by John Jaques & Son, artist unknown",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Happy_Families_cards.jpg",
+      "rationale": "Visuel lié à la mécanique « Familles » : Les joueurs éliminent des paires formées grâce à une carte tirée au hasard dans la main du voisin."
+    },
+    "whip": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Addition » : Une carte de la main capture sur le tapis une valeur identique ou plusieurs cartes dont elle représente la somme."
+    },
+    "whist": {
+      "title": "Whist marker.jpg",
+      "author": "Charles Goodall",
+      "license": "Public domain",
+      "license_url": "",
+      "url": "https://commons.wikimedia.org/wiki/File:Whist_marker.jpg",
+      "rationale": "Marqueur de score en cuir signé Charles Goodall, accessoire historique spécifique au Whist : le matériel même du jeu."
+    },
+    "whist-a-la-couleur": {
+      "title": "Bridge bidding sequence.jpg",
+      "author": "KoeppiK",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Bridge_bidding_sequence.jpg",
+      "rationale": "Visuel lié à la mécanique « Enchères » : Les joueurs surenchérissent en couleurs et contrats, puis tentent le nombre de plis annoncé."
+    },
+    "wizard-due": {
+      "title": "Russian card game Durak.jpg",
+      "author": "Gzhegozh",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Russian_card_game_Durak.jpg",
+      "rationale": "Visuel lié à la mécanique « Combat » : Les attaques retirent des vies et les défenses doivent atteindre par addition la force requise."
+    },
+    "yaniv": {
+      "title": "Shithead.jpg",
+      "author": "JFinch",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shithead.jpg",
+      "rationale": "Visuel lié à la mécanique « Pioche & défausse » : Chaque tour permet de défausser une carte, un groupe ou une suite afin de réduire la valeur de sa main avant l'annonce Yaniv."
     }
   },
   "sources": {

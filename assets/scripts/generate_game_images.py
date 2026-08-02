@@ -4,70 +4,88 @@ import json
 import shutil
 import subprocess
 import sys
+import tempfile
+import time
+import urllib.parse
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 CATALOG = ROOT / "site/v3/catalog.json"
-CARDS = sorted((ROOT / "assets/cards").glob("*.png"))
+MANIFEST = ROOT / "assets/images/wikimedia.json"
 OUTPUT = ROOT / "site/v3/images/games"
-
-PALETTES = [
-    ("#f2eadf", "#e63b2e", "#171717", "#f4b942"),
-    ("#dce8f5", "#2357d9", "#101b35", "#ef5da8"),
-    ("#e8edcf", "#a6ce39", "#18382b", "#ff7043"),
-    ("#f4dfe8", "#d72d79", "#25203f", "#f2a900"),
-    ("#efe1cc", "#c65d35", "#4c1f2d", "#2d8074"),
-    ("#d9eeee", "#00a6a6", "#102c35", "#ffcb47"),
-    ("#e7e0f2", "#7457c8", "#321d4f", "#ef6f61"),
-    ("#eee9dc", "#d49a24", "#162e3c", "#d94f4f"),
-]
+ALLOWED_LICENSES = {
+    "CC0", "Public domain", "CC BY 1.0", "CC BY 2.0", "CC BY 2.5", "CC BY 3.0", "CC BY 4.0",
+    "CC BY-SA 1.0", "CC BY-SA 2.0", "CC BY-SA 2.5", "CC BY-SA 3.0", "CC BY-SA 4.0",
+}
 
 
-def generate(slug: str, force: bool) -> None:
-    output = OUTPUT / f"{slug}.webp"
-    if output.exists() and not force:
-        return
-    digest = hashlib.sha256(slug.encode()).digest()
-    paper, accent, ink, spark = PALETTES[digest[0] % len(PALETTES)]
-    diagonal = 230 + digest[1] % 180
-    draw = (
-        f"polygon 0,0 {diagonal},0 {diagonal - 150},400 0,400 "
-        f"circle {510 + digest[2] % 70},{60 + digest[3] % 80} {650 + digest[2] % 70},{60 + digest[3] % 80}"
-    )
-    lines = " ".join(f"line {x},0 {x - 180},400" for x in range(70, 790, 72))
-    command = [
-        shutil.which("magick") or "magick", "-size", "640x400", f"xc:{paper}",
-        "-fill", accent, "-draw", draw,
-        "-stroke", spark, "-strokewidth", "3", "-fill", "none", "-draw", lines,
-        "-fill", ink, "-stroke", "none", "-draw", f"rectangle 0,{350 + digest[4] % 22} 640,400",
-    ]
-    count = 3 + digest[5] % 2
-    for index in range(count):
-        card = CARDS[digest[6 + index] % len(CARDS)]
-        angle = -20 + digest[12 + index] % 41
-        x = 52 + index * 128 + digest[18 + index] % 36
-        y = 68 + digest[24 + index] % 72
-        command += [
-            "(", str(card), "-resize", "148x214", "-bordercolor", ink, "-border", "2",
-            "-background", "none", "-rotate", str(angle), ")",
-            "-geometry", f"+{x}+{y}", "-composite",
-        ]
-    command += ["-strip", "-quality", "78", str(output)]
-    subprocess.run(command, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+def download(url: str, destination: Path) -> None:
+    for delay in (0, 10, 30, 60, 120):
+        time.sleep(delay)
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": "PKcards/1.0 (licensed image build)"})
+            with urllib.request.urlopen(request, timeout=60) as response:
+                destination.write_bytes(response.read())
+            time.sleep(5)
+            return
+        except Exception:
+            if delay == 120:
+                raise
+
+
+def source_url(image: dict) -> str:
+    if "/thumb/" in image["thumb_url"]:
+        return image["thumb_url"]
+    filename = urllib.parse.quote(image["file"].removeprefix("File:"), safe="")
+    width = int(image.get("width") or 500)
+    thumbnail = max(size for size in (20, 40, 60, 120, 250, 330, 500, 960) if size < width)
+    return f"https://commons.wikimedia.org/wiki/Special:Redirect/file/{filename}?width={thumbnail}"
 
 
 def main() -> None:
-    if not shutil.which("magick"):
+    magick = shutil.which("magick")
+    if not magick:
         raise SystemExit("ImageMagick is required")
     catalog = json.loads(CATALOG.read_text())
+    manifest = json.loads(MANIFEST.read_text())["images"]
+    expected = set(catalog["games"])
+    if set(manifest) != expected:
+        raise SystemExit("Wikimedia manifest must cover every canonical game exactly once")
+    for slug, image in manifest.items():
+        if image.get("license") not in ALLOWED_LICENSES:
+            raise SystemExit(f"Unsupported license for {slug}: {image.get('license')}")
+        if not all(image.get(field) for field in ("file", "author", "page_url", "thumb_url")):
+            raise SystemExit(f"Incomplete attribution for {slug}")
+
     OUTPUT.mkdir(parents=True, exist_ok=True)
     force = "--force" in sys.argv
-    for slug in catalog["games"]:
-        generate(slug, force)
-    generated = list(OUTPUT.glob("*.webp"))
-    if len(generated) != len(catalog["games"]):
-        raise SystemExit(f"Expected {len(catalog['games'])} images, found {len(generated)}")
-    print(f"Generated {len(generated)} distinct game images")
+    built = {}
+    cache = Path(tempfile.gettempdir()) / "pkcards-wikimedia-cache"
+    cache.mkdir(exist_ok=True)
+    for index, (slug, image) in enumerate(manifest.items(), 1):
+        output = OUTPUT / f"{slug}.webp"
+        if output.exists() and not force:
+            continue
+        source = source_url(image)
+        key = (source, image.get("gravity", "center"))
+        if key in built:
+            shutil.copyfile(built[key], output)
+        else:
+            raw = cache / (hashlib.sha256(source.encode()).hexdigest() + ".image")
+            if not raw.exists():
+                download(source, raw)
+            subprocess.run([
+                magick, str(raw), "-auto-orient", "-resize", "640x400^", "-gravity",
+                image.get("gravity", "center"), "-extent", "640x400", "-strip", "-quality", "82", str(output),
+            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            built[key] = output
+        print(f"{index:03d}/251 {slug}", flush=True)
+
+    generated = {path.stem for path in OUTPUT.glob("*.webp")}
+    if generated != expected:
+        raise SystemExit(f"Expected exactly {len(expected)} game images, found {len(generated)}")
+    print(f"Generated {len(generated)} licensed game images")
 
 
 if __name__ == "__main__":
