@@ -124,8 +124,8 @@ class Vault {
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
       $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
       $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
-      preg_match('/\*\*([^*]*(?:joueur|joueurs)[^*]*)\*\*/iu', $md, $playersMatch);
-      preg_match('/\*\*([^*]*cartes[^*]*)\*\*/iu', $md, $cardsMatch);
+      preg_match('/\*\*[^*]*joueurs?\s*:\s*\*\*\s*(.+)/iu', $md, $playersMatch);
+      preg_match('/\*\*[^*]*cartes?\s*:\s*\*\*\s*(.+)/iu', $md, $cardsMatch);
       $players = trim($playersMatch[1] ?? '');
       $cards = trim($cardsMatch[1] ?? '');
       preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
@@ -134,7 +134,7 @@ class Vault {
       $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
       $values = [$title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
-      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'Règle maison', '', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
       $gn->execute([$slug, $title]);
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
