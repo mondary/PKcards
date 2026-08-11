@@ -1,0 +1,14 @@
+/* Source : Uiverse.io par mikedavidsonhub — carte 3D flip (face/verso).
+   Stockée pour référence. Idée retenue pour le Régicide : cartes en CSS pur,
+   flip vers le verso quand le boss est vaincu. */
+.card-wrapper{--black:#000;--white:#fff;--card-border:#222;width:250px;height:350px;perspective:1200px;position:relative;margin:20px auto;font-family:sans-serif}
+.card-wrapper .card{width:100%;height:100%;position:relative;transition:transform .6s cubic-bezier(.4,0,.2,1);transform-style:preserve-3d;cursor:pointer}
+.card-wrapper .card.is-flipped{transform:rotateY(180deg)}
+.card-wrapper .card-face{position:absolute;width:100%;height:100%;border-radius:15px;backface-visibility:hidden;display:flex;justify-content:center;align-items:center;box-sizing:border-box;border:2px solid var(--card-border);box-shadow:0 4px 15px rgba(0,0,0,.2)}
+.card-wrapper .card-front{background:var(--white);color:var(--black)}
+.card-wrapper .card-back{background:var(--black);transform:rotateY(180deg);border:2px solid var(--white);outline:2px solid var(--black);position:relative;overflow:hidden}
+.card-wrapper .pattern{width:90%;height:94%;border:1px solid rgba(255,255,255,.2);border-radius:10px;background-image:linear-gradient(45deg,rgba(215,22,22,.389) 25%,transparent 25%),linear-gradient(-45deg,rgba(167,68,68,.3) 25%,transparent 25%),linear-gradient(45deg,transparent 75%,rgba(255,255,255,.3) 75%),linear-gradient(-45deg,transparent 75%,rgba(255,255,255,.4) 100%);background-size:20px 20px;background-position:0 0,0 10px,10px 10px,-10px 0}
+.card-wrapper .corner{position:absolute;font-size:28px;font-weight:bold;display:flex;flex-direction:column;align-items:center}
+.card-wrapper .top-left{top:15px;left:15px}
+.card-wrapper .bottom-right{bottom:15px;right:15px;transform:rotate(180deg)}
+.card-wrapper .center-suit{font-size:120px}

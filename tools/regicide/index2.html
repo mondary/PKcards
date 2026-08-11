@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230a0a14'/><path d='M14 24L20 38L32 16L44 38L50 24L50 46L14 46Z' fill='%23e8c46a'/><circle cx='32' cy='34' r='3' fill='%23c0392b'/></svg>">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#07070d">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="icon192.png">
+<title>Régicide — Donjon</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;user-select:none}
+:root{--gold:#e8c46a;--red:#e74c3c;--green:#2ecc71;--orange:#f39c12;--bg:#07070d;--ease:cubic-bezier(0.32,0.72,0,1)}
+html,body{height:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:#e8e8e8;overflow:hidden;min-height:100dvh}
+body.lock{overflow:hidden}
+
+.atmos{position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(ellipse 90% 50% at 50% 0%,rgba(232,196,106,.09) 0%,transparent 60%),radial-gradient(ellipse 70% 40% at 50% 108%,rgba(192,57,43,.08) 0%,transparent 55%)}
+.grain{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.04;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+
+.stage{position:relative;z-index:2;display:flex;flex-direction:column;height:100dvh;padding-top:env(safe-area-inset-top)}
+
+/* ===== HEADER (overlay) ===== */
+.header{position:absolute;top:0;left:0;right:0;z-index:40;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:calc(10px + env(safe-area-inset-top)) 14px 8px;background:linear-gradient(180deg,rgba(7,7,13,.9),rgba(7,7,13,.3) 70%,transparent)}
+.brand{font-family:Georgia,serif;font-size:.95rem;letter-spacing:5px;text-transform:uppercase;color:var(--gold);white-space:nowrap;text-shadow:0 2px 8px rgba(0,0,0,.7)}
+.spine{display:flex;gap:4px}
+.node{padding:4px 8px;border-radius:999px;font-size:.54rem;letter-spacing:1.5px;text-transform:uppercase;color:#5a5a5a;border:1px solid rgba(255,255,255,.07);background:rgba(0,0,0,.4);transition:all .4s var(--ease)}
+.node .ndot{display:inline-block;width:5px;height:5px;border-radius:50%;background:#333;margin-right:4px;vertical-align:middle;transition:all .4s var(--ease)}
+.node.done{color:var(--gold);border-color:rgba(232,196,106,.3)}.node.done .ndot{background:var(--gold)}
+.node.active{color:#fff;border-color:rgba(255,255,255,.25)}.node.active .ndot{background:var(--tier,#e8c46a);box-shadow:0 0 8px var(--tier,#e8c46a)}
+.reset-btn{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);color:#888;font-size:.54rem;padding:5px 9px;border-radius:7px;cursor:pointer;letter-spacing:1.5px;font-weight:600;transition:all .25s var(--ease)}
+.reset-btn:active{transform:scale(.94)}
+
+/* ===== TIER LABEL (floating) ===== */
+.tier-label{position:absolute;top:calc(46px + env(safe-area-inset-top));left:0;right:0;z-index:30;text-align:center;pointer-events:none;opacity:0;animation:rise .7s var(--ease) .1s forwards}
+.tier-label .eyebrow{font-size:.56rem;letter-spacing:4px;text-transform:uppercase;color:#6a6a6a;margin-bottom:2px}
+.tier-label h2{font-family:Georgia,serif;font-size:1.5rem;font-weight:400;color:#fff;letter-spacing:2px;text-shadow:0 2px 12px rgba(0,0,0,.85)}
+.tier-label .sub{font-size:.62rem;color:var(--tier,#e8c46a);margin-top:2px;letter-spacing:1px;opacity:.85}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+
+/* ===== FAN — fullscreen cards, 15% cut at bottom ===== */
+.fan-view{flex:1;position:relative;overflow:hidden}
+.fan{position:absolute;inset:0;perspective:1600px}
+.fan-inner{position:absolute;left:50%;bottom:0;width:0;height:0}
+
+.fslot{position:absolute;bottom:calc(-1 * var(--cut) + var(--lift,0px));left:0;width:var(--cw);margin-left:calc(var(--cw)/-2);transform-origin:50% 100%;transform:translateX(var(--dx,0)) rotate(var(--angle,0deg));transition:transform .5s var(--ease)}
+
+.fcard{position:relative;width:100%;aspect-ratio:7/10;border-radius:16px;overflow:hidden;cursor:pointer;box-shadow:0 24px 60px rgba(0,0,0,.75),0 4px 12px rgba(0,0,0,.5);transition:transform .3s var(--ease),box-shadow .3s var(--ease);animation:cardIn .55s var(--ease) var(--delay,0ms) backwards}
+@keyframes cardIn{from{opacity:0;transform:translateY(80px) scale(.94)}to{opacity:1;transform:none}}
+.fcard::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:var(--tier,#555);z-index:6}
+.fcard img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.fcard .shade{position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.45) 0%,transparent 28%,transparent 58%,rgba(0,0,0,.28) 100%);pointer-events:none}
+
+.fcard .fstats{position:absolute;top:var(--ptop,10px);left:0;right:0;display:flex;justify-content:center;gap:6px;z-index:7}
+.fcard .fpill{font-size:.62rem;font-weight:800;padding:3px 8px;border-radius:8px;background:rgba(0,0,0,.62);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);border:1px solid rgba(255,255,255,.16);font-variant-numeric:tabular-nums;letter-spacing:.4px;color:#fff}
+.fcard .fpill.atk{color:var(--tier,#fff)}
+.fcard .fpill.atk.reduced{background:rgba(231,76,60,.9);color:#fff}
+.fcard .fpill.hp.low{color:var(--red)}
+
+.fcard:not(.dead):hover{transform:translateY(-30px) scale(1.04);box-shadow:0 36px 70px rgba(0,0,0,.85),0 0 0 1px rgba(232,196,106,.4);z-index:10}
+.fcard:not(.dead):active{transform:translateY(-14px) scale(1.01)}
+.fcard.dead{cursor:default}
+.fcard.dead img{filter:grayscale(.9) brightness(.3) contrast(1.1)}
+.fcard.dead .fko{position:absolute;top:30%;left:50%;transform:translate(-50%,-50%) rotate(-14deg);font-family:Georgia,serif;font-size:.8rem;font-weight:900;letter-spacing:3px;color:rgba(220,40,40,.95);border:2px solid rgba(220,40,40,.6);border-radius:5px;padding:3px 10px;z-index:5;text-transform:uppercase;background:rgba(0,0,0,.55)}
+
+.fan-hint{position:absolute;bottom:calc(env(safe-area-inset-bottom) + 10px);left:0;right:0;z-index:30;text-align:center;font-size:.58rem;letter-spacing:2px;text-transform:uppercase;color:#6a6a6a;pointer-events:none;opacity:0;animation:rise .7s var(--ease) .5s forwards}
+.fan-hint b{color:var(--tier,#e8c46a)}
+
+.tier-clear{position:absolute;inset:0;z-index:35;display:flex;flex-direction:column;align-items:center;justify-content:center;background:radial-gradient(circle,rgba(232,196,106,.16),transparent 70%);opacity:0;visibility:hidden;transition:opacity .5s var(--ease),visibility .5s}
+.tier-clear.show{opacity:1;visibility:visible}
+.tier-clear .tc-icon{font-size:3rem;margin-bottom:12px;animation:tcPop .6s var(--ease)}
+.tier-clear .tc-text{font-family:Georgia,serif;font-size:1.25rem;color:var(--gold);letter-spacing:3px;text-transform:uppercase}
+@keyframes tcPop{0%{transform:scale(0) rotate(-20deg);opacity:0}60%{transform:scale(1.2)}100%{transform:scale(1);opacity:1}}
+
+/* ===== COMBAT — fullscreen card + right fade + controls ===== */
+.combat{position:fixed;inset:0;z-index:100;background:#000;overflow:hidden;opacity:0;visibility:hidden;transition:opacity .3s var(--ease),visibility .3s}
+.combat.open{opacity:1;visibility:visible}
+
+.cbg{position:absolute;inset:0;overflow:hidden}
+.cbg img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center;transform:translate(var(--cx,0%),var(--cy,0%)) scale(var(--czoom,1.05));opacity:0;transition:transform .5s var(--ease),opacity .35s var(--ease),filter .3s}
+.combat.open .cbg img{transform:translate(var(--cx,0%),var(--cy,0%)) scale(var(--czoom,1.05));opacity:1}
+.cbg img.shake{animation:cshk .3s}
+.cbg img.heal{animation:chl .3s}
+@keyframes cshk{0%,100%{transform:scale(1) translateX(0)}20%{transform:scale(1) translateX(-10px)}40%{transform:translateX(8px)}60%{transform:translateX(-5px)}80%{transform:translateX(3px)}}
+@keyframes chl{0%,100%{transform:scale(1)}50%{transform:scale(1.04)}}
+.cbg img.dead{filter:grayscale(.85) brightness(.3)}
+.cbg::before{content:'';position:absolute;inset:0;z-index:2;background:linear-gradient(90deg,transparent 46%,rgba(0,0,0,.5) 60%,rgba(0,0,0,.82) 74%,#000 90%)}
+
+/* Blood overlay: intensifies as HP drops. --blood 0..1 driven by JS. */
+.blood{position:absolute;inset:0;z-index:4;pointer-events:none;opacity:var(--blood,0);transition:opacity .5s var(--ease);background-image:
+  radial-gradient(circle 28px at 13% 17%,rgba(115,8,8,.92),transparent 70%),
+  radial-gradient(circle 16px at 21% 27%,rgba(95,6,6,.85),transparent 70%),
+  radial-gradient(circle 12px at 9% 33%,rgba(90,6,6,.8),transparent 70%),
+  radial-gradient(circle 36px at 84% 22%,rgba(110,7,7,.9),transparent 70%),
+  radial-gradient(circle 14px at 76% 12%,rgba(90,6,6,.85),transparent 70%),
+  radial-gradient(circle 24px at 90% 36%,rgba(100,7,7,.82),transparent 72%),
+  radial-gradient(circle 42px at 28% 64%,rgba(100,7,7,.85),transparent 72%),
+  radial-gradient(circle 20px at 64% 74%,rgba(95,6,6,.88),transparent 70%),
+  radial-gradient(circle 16px at 48% 40%,rgba(120,8,8,.78),transparent 70%),
+  radial-gradient(circle 30px at 56% 56%,rgba(105,7,7,.8),transparent 72%),
+  radial-gradient(ellipse 130% 48% at 50% 116%,rgba(70,4,4,.95),transparent 60%),
+  radial-gradient(ellipse 150% 90% at 50% 50%,transparent 52%,rgba(35,0,0,.45) 100%)}
+.blood::before{content:'';position:absolute;top:0;left:0;right:0;height:34%;background:
+  radial-gradient(ellipse 60% 100% at 18% 0,rgba(90,5,5,.88),transparent 70%),
+  radial-gradient(ellipse 50% 100% at 52% 0,rgba(78,5,5,.82),transparent 70%),
+  radial-gradient(ellipse 70% 100% at 82% 0,rgba(95,6,6,.9),transparent 70%)}
+/* Red edge flash on each damage hit */
+.combat.hit .cbg::after{content:'';position:absolute;inset:0;z-index:5;pointer-events:none;background:radial-gradient(ellipse 120% 80% at 50% 50%,transparent 55%,rgba(180,10,10,.5));animation:hitflash .25s ease-out forwards}
+@keyframes hitflash{from{opacity:1}to{opacity:0}}
+
+/* top bar */
+.ctop{position:absolute;top:0;left:0;right:0;z-index:13;display:flex;align-items:center;justify-content:space-between;padding:calc(11px + env(safe-area-inset-top)) 14px 10px;background:linear-gradient(180deg,rgba(0,0,0,.7),transparent)}
+.cback{display:flex;align-items:center;gap:5px;background:rgba(0,0,0,.55);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.14);color:#ddd;font-size:.68rem;font-weight:600;padding:7px 12px;border-radius:999px;cursor:pointer}
+.cback:active{transform:scale(.94)}
+.crank{color:rgba(255,255,255,.55);font-size:.64rem;letter-spacing:2.5px;text-transform:uppercase}
+.ctop-right{display:flex;align-items:center;gap:10px}
+.cko-stamp{font-family:Georgia,serif;font-size:1rem;font-weight:900;letter-spacing:3px;color:rgba(220,40,40,.9);opacity:0;transition:opacity .3s}
+.cko-stamp.show{opacity:1}
+
+/* Combat controls: each positioned in % of the screen (left/top), centered on its point */
+.ccontrols{position:absolute;inset:0;z-index:12}
+
+/* Attack (tappable) */
+.catk{position:absolute;left:var(--atkx,78%);top:var(--atky,38%);transform:translate(-50%,-50%) scale(var(--atkz,1));display:flex;flex-direction:column;align-items:center;gap:3px;cursor:pointer;padding:14px 18px;border-radius:18px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);transition:all .2s var(--ease)}
+.catk:active{transform:translate(-50%,-50%) scale(calc(var(--atkz,1)*.93))}
+.catk .catk-icon{font-size:1.1rem;color:var(--gold)}
+.catk .catk-val{font-size:1.7rem;font-weight:800;color:#fff;font-variant-numeric:tabular-nums;line-height:1}
+.catk .catk-lbl{font-size:.5rem;letter-spacing:2px;text-transform:uppercase;color:#777;margin-top:2px}
+.catk.reduced{border-color:rgba(231,76,60,.5);background:rgba(231,76,60,.12)}
+.catk.reduced .catk-val{color:var(--red)}
+
+/* HP: + / PV / − each positioned independently */
+.chp-group{position:absolute;inset:0;pointer-events:none}
+.chp-group *{pointer-events:auto}
+.cround{width:clamp(56px,15vw,72px);height:clamp(56px,15vw,72px);border-radius:50%;border:none;font-size:1.8rem;font-weight:800;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:transform .12s var(--ease);box-shadow:0 6px 18px rgba(0,0,0,.5)}
+.cround.plus{background:linear-gradient(135deg,#16a085,#2ecc71)}
+.cround.minus{background:linear-gradient(135deg,#a93226,#e74c3c)}
+.cround.heal-mode{width:auto;padding:0 18px;border-radius:999px;font-size:.8rem;letter-spacing:1.5px;height:clamp(48px,13vw,60px)}
+#cPlus{position:absolute;left:var(--plusx,78%);top:var(--plusy,52%);transform:translate(-50%,-50%) scale(var(--plusz,1))}
+#cPlus:active{transform:translate(-50%,-50%) scale(calc(var(--plusz,1)*.9))}
+#cMinus{position:absolute;left:var(--minusx,78%);top:var(--minusy,76%);transform:translate(-50%,-50%) scale(var(--minusz,1))}
+#cMinus:active{transform:translate(-50%,-50%) scale(calc(var(--minusz,1)*.9))}
+
+.chp{position:absolute;left:var(--hpx,78%);top:var(--hpy,64%);transform:translate(-50%,-50%) scale(var(--hpz,1));display:flex;flex-direction:column;align-items:center;gap:4px}
+.chp-num{font-size:clamp(2rem,7vw,2.8rem);font-weight:800;color:#fff;line-height:.9;font-variant-numeric:tabular-nums}
+.chp-num.low{color:var(--red)}
+.chp-sep{font-size:1rem;color:#444;margin:0 4px}
+.chp-max{font-size:.8rem;color:#666;font-variant-numeric:tabular-nums}
+.chp-bar{width:min(120px,32vw);height:6px;background:rgba(255,255,255,.08);border-radius:3px;overflow:hidden;margin-top:4px}
+.chp-bar-fill{height:100%;border-radius:3px;transition:width .35s var(--ease),background .3s}
+.chp-lbl{font-size:.5rem;letter-spacing:2px;text-transform:uppercase;color:#666;margin-top:3px}
+
+/* ===== VICTORY ===== */
+.victory{position:fixed;inset:0;z-index:200;background:radial-gradient(circle at 50% 40%,#1a1408,#000);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:40px 30px;opacity:0;visibility:hidden;transition:opacity .6s var(--ease),visibility .6s}
+.victory.show{opacity:1;visibility:visible}
+.victory .crown{font-size:4.5rem;margin-bottom:20px;filter:drop-shadow(0 0 30px rgba(232,196,106,.5));animation:vFloat 3s ease-in-out infinite}
+@keyframes vFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.victory h1{font-family:Georgia,serif;font-size:2rem;font-weight:400;color:var(--gold);letter-spacing:4px;text-transform:uppercase;margin-bottom:10px}
+.victory p{font-size:.82rem;color:#888;margin-bottom:36px;max-width:320px;line-height:1.6}
+.victory .vbtn{background:linear-gradient(135deg,#1a1610,#3a2f15);border:1px solid rgba(232,196,106,.35);color:var(--gold);font-size:.78rem;font-weight:700;letter-spacing:2px;text-transform:uppercase;padding:15px 32px;border-radius:999px;cursor:pointer;box-shadow:0 8px 30px rgba(0,0,0,.5)}
+.victory .vbtn:active{transform:scale(.95)}
+
+/* ===== SETTINGS DRAWER ===== */
+.gear{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);color:#888;font-size:.72rem;padding:5px 9px;border-radius:7px;cursor:pointer;transition:all .25s var(--ease)}
+.gear:active{transform:scale(.94)}
+.scrim{position:fixed;inset:0;z-index:150;background:rgba(0,0,0,.55);opacity:0;visibility:hidden;transition:opacity .3s var(--ease),visibility .3s}
+.scrim.open{opacity:1;visibility:visible}
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(300px,68vw);z-index:160;background:#101018;border-left:1px solid rgba(255,255,255,.08);transform:translateX(105%);transition:transform .35s var(--ease);display:flex;flex-direction:column;box-shadow:-20px 0 60px rgba(0,0,0,.6)}
+.drawer.open{transform:translateX(0)}
+.drawer.left{left:0;right:auto;border-left:0;border-right:1px solid rgba(255,255,255,.08);transform:translateX(-105%);box-shadow:20px 0 60px rgba(0,0,0,.6)}
+.drawer.left.open{transform:translateX(0)}
+.drawer-head{display:flex;justify-content:space-between;align-items:center;padding:16px 18px;border-bottom:1px solid rgba(255,255,255,.08)}
+.drawer-head span{font-size:.72rem;letter-spacing:3px;text-transform:uppercase;color:var(--gold)}
+.drawer-x{background:none;border:none;color:#888;font-size:1.15rem;cursor:pointer;padding:2px 6px}
+.drawer-body{padding:16px 18px;overflow-y:auto;display:flex;flex-direction:column;gap:16px}
+.grp{display:flex;flex-direction:column;gap:12px}
+.grp-h{font-size:.58rem;letter-spacing:2.5px;text-transform:uppercase;color:#5a5a5a;padding-bottom:4px;border-bottom:1px solid rgba(255,255,255,.06)}
+.fld{display:flex;flex-direction:column;gap:5px}
+.fld>span{font-size:.6rem;color:#aaa;letter-spacing:.5px;display:flex;justify-content:space-between}
+.fld b{color:var(--gold);font-variant-numeric:tabular-nums;font-weight:700}
+.fld input[type=range]{width:100%;accent-color:var(--gold)}
+.fld .num{width:64px;background:#0a0a10;border:1px solid rgba(255,255,255,.1);border-radius:6px;color:var(--gold);font-size:.72rem;font-weight:700;text-align:right;padding:3px 6px;font-variant-numeric:tabular-nums}
+.fld .desc{font-size:.56rem;color:#5a5a5a;font-style:italic;line-height:1.4}
+.drawer-actions{display:flex;flex-direction:column;gap:8px;padding:14px 18px 20px;border-top:1px solid rgba(255,255,255,.08)}
+.dbtn{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);color:#ddd;font-size:.64rem;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;padding:11px;border-radius:9px;cursor:pointer;transition:all .2s var(--ease)}
+.dbtn:active{transform:scale(.97)}
+.dbtn.export{background:linear-gradient(135deg,#3a2f15,#1a1610);border-color:rgba(232,196,106,.35);color:var(--gold)}
+.dbtn.reset{color:#888}
+.json-modal{position:fixed;inset:0;z-index:170;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.7);opacity:0;visibility:hidden;transition:opacity .25s var(--ease),visibility .25s;padding:20px}
+.json-modal.open{opacity:1;visibility:visible}
+.json-box{width:100%;max-width:420px;background:#101018;border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:12px;box-shadow:0 30px 80px rgba(0,0,0,.7)}
+.json-head{display:flex;justify-content:space-between;align-items:center}
+.json-head span{font-size:.68rem;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold)}
+.json-box textarea{width:100%;height:220px;background:#0a0a10;color:var(--gold);border:1px solid rgba(255,255,255,.08);border-radius:9px;padding:12px;font:.72rem/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;resize:none;white-space:pre;outline:none}
+
+@media(min-width:900px){.brand{font-size:1.3rem;letter-spacing:8px}.tier-label h2{font-size:2.2rem}}
+/* Landscape: PV numbers read horizontally */
+@media (orientation:landscape){
+  .chp{flex-direction:row;align-items:baseline}
+}
+</style>
+</head>
+<body>
+<div class="atmos"></div>
+<div class="grain"></div>
+
+<div class="stage">
+  <header class="header">
+    <div class="brand">Régicide</div>
+    <div class="spine" id="spine"></div>
+    <button class="gear" id="gear" aria-label="Réglages">⚙</button>
+    <button class="reset-btn" id="reset">Recommencer</button>
+  </header>
+
+  <div class="tier-label" id="tierLabel"></div>
+
+  <main class="fan-view" id="fanView">
+    <div class="fan"><div class="fan-inner" id="fan"></div></div>
+    <div class="fan-hint" id="fanHint"></div>
+    <div class="tier-clear" id="tierClear">
+      <div class="tc-icon">⚔</div>
+      <div class="tc-text" id="tcText">Valets vaincus</div>
+    </div>
+  </main>
+</div>
+
+<div class="combat" id="combat">
+  <div class="cbg"><img id="cImg" src="" alt=""><div class="blood" id="cBlood"></div></div>
+  <div class="ctop">
+    <button class="cback" id="cBack">‹ Éventail</button>
+    <span class="crank" id="cRank">Valet</span>
+    <div class="ctop-right">
+      <span class="cko-stamp" id="cKoStamp">Vaincu</span>
+      <button class="gear" id="gearC" aria-label="Réglages">⚙</button>
+    </div>
+  </div>
+  <div class="ccontrols">
+    <div class="catk" id="cAtkBtn">
+      <span class="catk-icon">⚔</span>
+      <span class="catk-val" id="cAtkVal">10</span>
+      <span class="catk-lbl">Attaque</span>
+    </div>
+    <div class="chp-group">
+      <button class="cround plus" id="cPlus">+</button>
+      <div class="chp">
+        <div><span class="chp-num" id="cHp">20</span><span class="chp-sep">/</span><span class="chp-max" id="cHpMax">20</span></div>
+        <div class="chp-bar"><div class="chp-bar-fill" id="cBar"></div></div>
+        <div class="chp-lbl">Points de vie</div>
+      </div>
+      <button class="cround minus" id="cMinus">−</button>
+    </div>
+  </div>
+</div>
+
+<div class="victory" id="victory">
+  <div class="crown">♚</div>
+  <h1>Régicide accompli</h1>
+  <p>Les douze seigneurs du donjon sont tombés. Le royaume est libre.</p>
+  <button class="vbtn" id="vReset">Nouvelle partie</button>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-head"><span>Réglages</span><span><button class="drawer-x" id="drawerSide" aria-label="Changer de côté">⇄</button><button class="drawer-x" id="drawerX" aria-label="Fermer">✕</button></span></div>
+  <div class="drawer-body" id="drawerBody"></div>
+  <div class="drawer-actions">
+    <button class="dbtn export" id="copyJsonBtn">📋 Copier JSON</button>
+    <button class="dbtn export" id="exportJson">⬇ Exporter JSON</button>
+    <button class="dbtn reset" id="resetSet">Réinitialiser</button>
+  </div>
+</div>
+
+<div class="json-modal" id="jsonModal">
+  <div class="json-box">
+    <div class="json-head"><span>JSON des réglages</span><button class="drawer-x" id="jsonX" aria-label="Fermer">✕</button></div>
+    <textarea id="jsonText" readonly spellcheck="false"></textarea>
+    <button class="dbtn export" id="copyJson">📋 Copier</button>
+  </div>
+</div>
+
+<script>
+const FILES=['J_pic.jpg','J_coeur.jpg','J_carreau.jpg','J_trefle.jpg','Q_pic.jpg','Q_coeur.jpg','Q_carreau.jpg','Q_trefle.jpg','K_pic.jpg','K_coeur.jpg','K_carreau.jpg','K_trefle.jpg']
+const RANKS={'J':{name:'Valet',atk:10,hp:20},'Q':{name:'Dame',atk:15,hp:30},'K':{name:'Roi',atk:20,hp:40}}
+const TIERS=[
+  {name:'Valets',rank:'J',ids:[0,1,2,3],label:'Les gardes du donjon'},
+  {name:'Dames',rank:'Q',ids:[4,5,6,7],label:'Les souveraines'},
+  {name:'Rois',rank:'K',ids:[8,9,10,11],label:'Le couronnement'}
+]
+const tierColor=t=>t===0?'#27ae60':t===1?'#e8c46a':'#e74c3c'
+const state={}
+let view='fan',combatId=null,currentTier=0
+
+// ===== SETTINGS (drawer) =====
+const DEF_SET={
+  fanZoomPortrait:0.78, fanZoomLandscape:0.95, fanLift:-7,
+  fanCapPortrait:6, fanCapLandscape:5, fanGapPortrait:-30, fanGapLandscape:-10,
+  pillTopLandscape:0,
+  combatZoom:2.15, combatX:-12, combatY:22,
+  atkX:81, atkY:44, atkZoom:1.55,
+  plusX:83, plusY:68, plusZoom:1.55, minusX:83, minusY:85, minusZoom:1.5,
+  hpX:55, hpY:87, hpZoom:1.28
+}
+let SET={...DEF_SET}
+try{
+  const saved=JSON.parse(localStorage.getItem('regicide-v2-settings-3')||'{}')
+  for(const k in saved)if(k in DEF_SET)SET[k]=saved[k]
+}catch(e){}
+function saveSet(){localStorage.setItem('regicide-v2-settings-3',JSON.stringify(SET))}
+const GROUPS=[['portrait','Portrait'],['paysage','Paysage'],['combat','Combat']]
+const FIELDS=[
+  {k:'fanZoomPortrait',group:['portrait'],label:'Hauteur éventail',d:'Taille des cartes (proportion de l\'écran)',min:0.05,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'fanLift',group:['portrait'],label:'Position verticale',d:'Déplace l\'éventail vers le haut ou le bas',min:-50,max:50,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'fanCapPortrait',group:['portrait'],label:'Ouverture',d:'Écartement des cartes (rotation)',min:0,max:90,step:1,fmt:v=>Math.round(v)+' °'},
+  {k:'fanGapPortrait',group:['portrait'],label:'Espacement cartes',d:'Distance entre les bords des cartes',min:-200,max:200,step:2,fmt:v=>Math.round(v)+' px'},
+  {k:'fanZoomLandscape',group:['paysage'],label:'Hauteur éventail',d:'Taille des cartes (proportion de l\'écran)',min:0.1,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'fanCapLandscape',group:['paysage'],label:'Ouverture',d:'Écartement des cartes (rotation)',min:0,max:60,step:1,fmt:v=>Math.round(v)+' °'},
+  {k:'pillTopLandscape',group:['paysage'],label:'Position badges',d:'Où les pastilles ⚔/PV sont placées sur les cartes (paysage)',min:0,max:0.8,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'fanGapLandscape',group:['paysage'],label:'Espacement cartes',d:'Distance entre les bords des cartes',min:-200,max:200,step:2,fmt:v=>Math.round(v)+' px'},
+  {k:'combatZoom',group:['combat'],label:'Zoom carte',d:'Taille de la carte dans le combat',min:0.2,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'combatX',group:['combat'],label:'Carte · Position X',d:'Déplace la carte horizontalement (en % de l\'écran)',min:-50,max:50,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'combatY',group:['combat'],label:'Carte · Position Y',d:'Déplace la carte verticalement (en % de l\'écran)',min:-50,max:50,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'atkX',group:['combat'],label:'Attaque · Position X',d:'Déplace le bouton Attaque (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'atkY',group:['combat'],label:'Attaque · Position Y',d:'Déplace le bouton Attaque (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'atkZoom',group:['combat'],label:'Attaque · Zoom',d:'Taille du bouton Attaque',min:0.3,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'hpX',group:['combat'],label:'PV · Position X',d:'Déplace l\'affichage des points de vie (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'hpY',group:['combat'],label:'PV · Position Y',d:'Déplace l\'affichage des points de vie (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'hpZoom',group:['combat'],label:'PV · Zoom',d:'Taille de l\'affichage des points de vie',min:0.3,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'plusX',group:['combat'],label:'Bouton + · Position X',d:'Déplace le bouton + (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'plusY',group:['combat'],label:'Bouton + · Position Y',d:'Déplace le bouton + (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'plusZoom',group:['combat'],label:'Bouton + · Zoom',d:'Taille du bouton +',min:0.3,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'},
+  {k:'minusX',group:['combat'],label:'Bouton − · Position X',d:'Déplace le bouton − (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'minusY',group:['combat'],label:'Bouton − · Position Y',d:'Déplace le bouton − (en % de l\'écran)',min:0,max:100,step:1,fmt:v=>Math.round(v)+' %'},
+  {k:'minusZoom',group:['combat'],label:'Bouton − · Zoom',d:'Taille du bouton −',min:0.3,max:3,step:0.01,fmt:v=>Math.round(v*100)+' %'}
+]
+function buildDrawer(){
+  const vis=view==='combat'?['combat']:['portrait','paysage']
+  document.getElementById('drawerBody').innerHTML=GROUPS.filter(([g])=>vis.includes(g)).map(([g,label])=>
+    `<div class="grp"><div class="grp-h">${label}</div>`+FIELDS.filter(f=>f.group.includes(g)).map(f=>`
+      <div class="fld"><span>${f.label}<input type="number" class="num" data-k="${f.k}" min="${f.min}" max="${f.max}" step="${f.step}" value="${SET[f.k]}"></span>
+      <input type="range" data-k="${f.k}" min="${f.min}" max="${f.max}" step="${f.step}" value="${SET[f.k]}">${f.d?`<span class="desc">${f.d}</span>`:''}</div>`).join('')+
+    `</div>`).join('')
+  const setVal=(k,v)=>{
+    const f=FIELDS.find(x=>x.k===k)
+    if(!isFinite(v))v=DEF_SET[k]
+    v=Math.min(f.max,Math.max(f.min,v))
+    SET[k]=v;saveSet();updateLabel(k);applySet()
+  }
+  document.getElementById('drawerBody').querySelectorAll('input[type=range]').forEach(inp=>{
+    inp.addEventListener('input',()=>setVal(inp.dataset.k,parseFloat(inp.value)))
+  })
+  document.getElementById('drawerBody').querySelectorAll('input[type=number]').forEach(inp=>{
+    inp.addEventListener('change',()=>setVal(inp.dataset.k,parseFloat(inp.value)))
+  })
+}
+function updateLabel(k){document.querySelectorAll(`input[data-k="${k}"]`).forEach(i=>i.value=SET[k])}
+function applyCombatVars(){
+  const c=document.getElementById('combat')
+  c.style.setProperty('--czoom',SET.combatZoom)
+  c.style.setProperty('--cx',SET.combatX+'%')
+  c.style.setProperty('--cy',SET.combatY+'%')
+  c.style.setProperty('--atkx',SET.atkX+'%')
+  c.style.setProperty('--atky',SET.atkY+'%')
+  c.style.setProperty('--atkz',SET.atkZoom)
+  c.style.setProperty('--plusx',SET.plusX+'%')
+  c.style.setProperty('--plusy',SET.plusY+'%')
+  c.style.setProperty('--plusz',SET.plusZoom)
+  c.style.setProperty('--minusx',SET.minusX+'%')
+  c.style.setProperty('--minusy',SET.minusY+'%')
+  c.style.setProperty('--minusz',SET.minusZoom)
+  c.style.setProperty('--hpx',SET.hpX+'%')
+  c.style.setProperty('--hpy',SET.hpY+'%')
+  c.style.setProperty('--hpz',SET.hpZoom)
+}
+function applySet(){applyCombatVars();if(view==='fan')renderFan();else updateCombat()}
+
+function init(){
+  FILES.forEach((f,i)=>{const r=RANKS[f[0]];state[i]={id:i,file:f,baseAtk:r.atk,atk:r.atk,hp:r.hp,max:r.hp}})
+  const saved=localStorage.getItem('regicide-v5')
+  if(saved){try{const d=JSON.parse(saved);for(const k in d)if(state[k]){state[k].atk=d[k].atk;state[k].hp=d[k].hp}}catch(e){}}
+}
+function save(){const d={};for(const k in state)d[k]={atk:state[k].atk,hp:state[k].hp};localStorage.setItem('regicide-v5',JSON.stringify(d))}
+function computeTier(){for(let t=0;t<TIERS.length;t++)if(TIERS[t].ids.some(id=>state[id].hp>0))return t;return TIERS.length}
+
+// ===== FAN =====
+function renderFan(){
+  currentTier=computeTier()
+  if(currentTier>=TIERS.length){showVictory();return}
+  const T=TIERS[currentTier],color=tierColor(currentTier),vh=window.innerHeight
+  document.getElementById('fanView').style.setProperty('--tier',color)
+  const tl=document.getElementById('tierLabel')
+  tl.style.setProperty('--tier',color)
+  tl.innerHTML=`<div class="eyebrow">Étage ${currentTier+1} / 3</div><h2>${T.name}</h2><div class="sub">${T.label}</div>`
+  tl.style.animation='none';void tl.offsetWidth;tl.style.animation=''
+
+  const living=T.ids.filter(id=>state[id].hp>0).length
+  const hint=document.getElementById('fanHint')
+  hint.style.setProperty('--tier',color)
+  hint.innerHTML=living===T.ids.length?`Choisissez votre cible · <b>${living} ${T.name.toLowerCase()}</b>`:`<b>${living}</b> ${T.name.toLowerCase()} restant${living>1?'s':''}`
+  hint.style.animation='none';void hint.offsetWidth;hint.style.animation=''
+
+  // Portrait: cards at SET zoom, fanned by rotation, block vertically centered.
+  // Landscape: cards fill the screen height, centers spread to fill the width.
+  const vw=window.innerWidth
+  const margin=16, rad=d=>d*Math.PI/180
+  const landscape=vw>vh
+  const ch=landscape?vh*SET.fanZoomLandscape:vh*SET.fanZoomPortrait
+  const cw=ch*0.70
+  const cut=ch*0.15           // 15% below fold
+  const lift=landscape?0:(vh+2*cut-ch)/2+vh*SET.fanLift/100  // center the fan block in portrait
+  const avail=vw/2-margin                         // usable half-width
+  const asin=c=>Math.asin(Math.min(1,Math.max(0,c)))*180/Math.PI
+  const cap=landscape?SET.fanCapLandscape:SET.fanCapPortrait
+  let tm=Math.min(cap,asin(avail/ch))             // tilt so tops fit
+  let dxm=avail-(cw/2)*Math.cos(rad(tm))          // center spread to fill width
+  if(dxm<0)dxm=0
+  if(dxm>0)tm=Math.min(tm,asin((avail-dxm)/ch))
+  const gap=landscape?SET.fanGapLandscape:SET.fanGapPortrait
+  const ptop=landscape?Math.round(vh*SET.pillTopLandscape):10  // landscape: pills below header+label
+  const fan=document.getElementById('fan')
+  fan.innerHTML=''
+  const ids=T.ids,n=ids.length
+  ids.forEach((id,i)=>{
+    const c=state[id],dead=c.hp<=0,low=!dead&&c.hp/c.max<=.3,red=c.atk<c.baseAtk
+    const p=n>1?(i-(n-1)/2)/((n-1)/2):0
+    const dx=p*dxm+p*gap
+    const angle=p*tm
+    const slot=document.createElement('div')
+    slot.className='fslot'
+    slot.style.setProperty('--cw',cw+'px')
+    slot.style.setProperty('--cut',cut+'px')
+    slot.style.setProperty('--lift',lift+'px')
+    slot.style.setProperty('--ptop',ptop+'px')
+    slot.style.setProperty('--dx',dx+'px')
+    slot.style.setProperty('--angle',angle+'deg')
+    slot.style.setProperty('--delay',(i*80)+'ms')
+    slot.innerHTML=`<div class="fcard ${dead?'dead':''}" data-id="${id}" style="--tier:${color}">
+      <img src="cards/${c.file}" alt="" loading="lazy">
+      <div class="shade"></div>
+      <div class="fstats">
+        <span class="fpill atk ${red?'reduced':''}">⚔ ${c.atk}</span>
+        <span class="fpill hp ${low?'low':''}">${c.hp} PV</span>
+      </div>
+      ${dead?'<div class="fko">Vaincu</div>':''}
+    </div>`
+    fan.appendChild(slot)
+  })
+  renderSpine()
+}
+window.addEventListener('resize',()=>{if(view==='fan')renderFan()})
+
+function renderSpine(){
+  document.getElementById('spine').innerHTML=TIERS.map((T,t)=>{
+    const alive=T.ids.filter(id=>state[id].hp>0).length
+    const done=alive===0,active=t===currentTier&&!done
+    return `<div class="node ${done?'done':''} ${active?'active':''}" style="--tier:${tierColor(t)}"><span class="ndot"></span>${T.name}</div>`
+  }).join('')
+}
+
+// ===== COMBAT =====
+function openCombat(id){combatId=id;view='combat';updateCombat();document.getElementById('combat').classList.add('open');document.body.classList.add('lock')}
+function closeCombat(){combatId=null;view='fan';document.getElementById('combat').classList.remove('open');document.body.classList.remove('lock');renderFan()}
+function updateCombat(){
+  if(combatId===null)return
+  const c=state[combatId],dead=c.hp<=0,pct=Math.max(0,c.hp/c.max),low=!dead&&pct<=.25,red=c.atk<c.baseAtk
+  const img=document.getElementById('cImg');img.src=`cards/${c.file}`;img.className=dead?'dead':''
+  // Blood: nothing above 75% HP, then ramps to max at death.
+  const blood = pct>=0.75 ? 0 : Math.min(1,(0.75-pct)/0.7)
+  document.getElementById('cBlood').style.setProperty('--blood',blood)
+  document.getElementById('cRank').textContent=RANKS[c.file[0]].name
+  const atkBtn=document.getElementById('cAtkBtn'),atkVal=document.getElementById('cAtkVal')
+  atkVal.textContent=red?`${c.atk}/${c.baseAtk}`:c.atk
+  atkBtn.classList.toggle('reduced',red)
+  const hpEl=document.getElementById('cHp');hpEl.textContent=c.hp;hpEl.className=`chp-num ${low?'low':''}`
+  document.getElementById('cHpMax').textContent=c.max
+  const barColor=dead?'#444':pct>.5?'#2ecc71':pct>.25?'#f39c12':'#e74c3c'
+  const bar=document.getElementById('cBar');bar.style.width=(pct*100)+'%';bar.style.background=barColor
+  document.getElementById('cKoStamp').classList.toggle('show',dead)
+  const mBtn=document.getElementById('cMinus'),pBtn=document.getElementById('cPlus')
+  if(dead){mBtn.style.visibility='hidden';pBtn.classList.add('heal-mode');pBtn.textContent='↻ SOIGNER'}
+  else{mBtn.style.visibility='';pBtn.classList.remove('heal-mode');pBtn.textContent='+'}
+}
+function combatAnim(type){
+  const img=document.getElementById('cImg');img.classList.remove('shake','heal');void img.offsetWidth;img.classList.add(type);setTimeout(()=>img.classList.remove(type),320)
+  if(type==='shake'){const c=document.getElementById('combat');c.classList.remove('hit');void c.offsetWidth;c.classList.add('hit');setTimeout(()=>c.classList.remove('hit'),260)}
+}
+
+function changeHP(id,delta){
+  const c=state[id],wasDead=c.hp<=0
+  c.hp=Math.max(0,Math.min(c.max,c.hp+delta))
+  if(navigator.vibrate)navigator.vibrate(delta<0?18:8)
+  save();if(view==='combat'&&combatId===id)updateCombat()
+  if(!wasDead&&c.hp<=0&&view==='combat')setTimeout(afterDefeat,650)
+}
+function changeAtk(id,delta){const c=state[id];c.atk=(c.atk+delta+c.baseAtk+1)%(c.baseAtk+1);if(navigator.vibrate)navigator.vibrate(c.atk===c.baseAtk?20:12);save();if(view==='combat'&&combatId===id)updateCombat()}
+function afterDefeat(){
+  if(view!=='combat')return
+  const T=TIERS[currentTier]
+  if(T.ids.filter(id=>state[id].hp>0).length>0){ closeCombat(); return }  // back to fan
+  const tc=document.getElementById('tierClear')
+  document.getElementById('tcText').textContent=`${T.name} vaincus`
+  tc.classList.add('show');if(navigator.vibrate)navigator.vibrate([30,60,30])
+  setTimeout(()=>{tc.classList.remove('show');closeCombat()},1600)
+}
+function showVictory(){document.getElementById('combat').classList.remove('open');document.getElementById('victory').classList.add('show')}
+
+// ===== EVENTS =====
+document.getElementById('fan').addEventListener('click',e=>{const card=e.target.closest('.fcard');if(card)openCombat(+card.dataset.id)})
+document.getElementById('cBack').addEventListener('click',closeCombat)
+document.getElementById('cMinus').addEventListener('click',()=>{if(combatId===null)return;changeHP(combatId,-1);combatAnim('shake')})
+document.getElementById('cPlus').addEventListener('click',()=>{if(combatId===null)return;changeHP(combatId,1);combatAnim('heal')})
+document.getElementById('cAtkBtn').addEventListener('click',()=>{if(combatId!==null)changeAtk(combatId,-1)})
+
+function reset(){
+  if(!confirm('Recommencer une nouvelle partie ?'))return
+  for(const k in state){state[k].hp=state[k].max;state[k].atk=state[k].baseAtk}
+  save();closeCombat();document.getElementById('victory').classList.remove('show');renderFan()
+}
+document.getElementById('reset').addEventListener('click',reset)
+document.getElementById('vReset').addEventListener('click',reset)
+
+let tsx=0,tsy=0
+document.getElementById('combat').addEventListener('touchstart',e=>{if(!e.target.closest('.cround,.cback,.catk')){tsx=e.touches[0].clientX;tsy=e.touches[0].clientY}},{passive:true})
+document.getElementById('combat').addEventListener('touchend',e=>{
+  if(e.target.closest('.cround,.cback,.catk'))return
+  const dx=e.changedTouches[0].clientX-tsx,dy=e.changedTouches[0].clientY-tsy
+  if(dx<-80)closeCombat()   // swipe left → back to fan
+},{passive:true})
+
+applyCombatVars();init();renderFan()
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{})
+
+// ===== DRAWER events =====
+const drawer=document.getElementById('drawer'),scrim=document.getElementById('scrim')
+const toggleDrawer=open=>{drawer.classList.toggle('open',open);scrim.classList.toggle('open',open)}
+document.getElementById('drawerSide').addEventListener('click',()=>{drawer.classList.toggle('left');localStorage.setItem('regicide-drawer-side',drawer.classList.contains('left')?'left':'right')})
+if(localStorage.getItem('regicide-drawer-side')==='left')drawer.classList.add('left')
+document.getElementById('gear').addEventListener('click',()=>{buildDrawer();toggleDrawer(true)})
+document.getElementById('gearC').addEventListener('click',()=>{buildDrawer();toggleDrawer(true)})
+document.getElementById('drawerX').addEventListener('click',()=>toggleDrawer(false))
+scrim.addEventListener('click',()=>toggleDrawer(false))
+document.getElementById('exportJson').addEventListener('click',()=>{
+  const blob=new Blob([JSON.stringify(SET,null,2)],{type:'application/json'})
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='regicide-settings.json';a.click();URL.revokeObjectURL(a.href)
+})
+const jsonModal=document.getElementById('jsonModal'),jsonText=document.getElementById('jsonText')
+const openJson=()=>{jsonText.value=JSON.stringify(SET,null,2);jsonModal.classList.add('open');jsonText.focus();jsonText.select()}
+document.getElementById('copyJsonBtn').addEventListener('click',openJson)
+document.getElementById('copyJson').addEventListener('click',()=>{
+  jsonText.focus();jsonText.select()
+  navigator.clipboard.writeText(jsonText.value).then(()=>{jsonText.select()}).catch(()=>document.execCommand('copy'))
+})
+document.getElementById('jsonX').addEventListener('click',()=>jsonModal.classList.remove('open'))
+jsonModal.addEventListener('click',e=>{if(e.target===jsonModal)jsonModal.classList.remove('open')})
+document.getElementById('resetSet').addEventListener('click',()=>{SET={...DEF_SET};saveSet();buildDrawer();applySet()})
+
+// Keep the screen on while playing (works in an installed PWA on Android).
+let wakeLock=null
+const reqWake=()=>{if('wakeLock' in navigator){wakeLock=null;navigator.wakeLock.request('screen').then(l=>wakeLock=l).catch(()=>{})}}
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')reqWake()})
+reqWake()
+</script>
+</body>
+</html>
