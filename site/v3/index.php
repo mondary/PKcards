@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.27';
+const VERSION = '2026.08.28';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -636,7 +636,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .related{margin-top:60px}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.related__card{display:flex;flex-direction:column;gap:5px;padding:18px;border-radius:3px;background:#ffbad8}.related__card:nth-child(even){background:#b8c3ff}.related__card:hover{transform:rotate(-1deg)}.related__rel{font:700 .55rem var(--mono);text-transform:uppercase;color:var(--ink)}.related__name{font-weight:700}.related__note{font-size:.68rem;color:var(--muted)}
 .reader-sources{margin-top:52px}.source-list{display:flex;flex-wrap:wrap;gap:8px}.source-list a{padding:9px 11px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font:600 .65rem var(--mono)}.source-list a:hover{border-color:var(--blue);color:var(--blue)}
 
-#toast{position:fixed;z-index:60;left:50%;bottom:24px;transform:translateX(-50%);padding:10px 16px;border-radius:3px;background:var(--ink);color:#fff;font-size:.78rem;opacity:0;pointer-events:none;transition:opacity .15s}#toast.show{opacity:1}.sheet{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(0,0,0,.55);opacity:0;visibility:hidden;transition:opacity .15s}.sheet.open{opacity:1;visibility:visible}.sheet__panel{width:min(100%,680px);max-height:85dvh;margin:auto;padding:28px 24px calc(28px + env(safe-area-inset-bottom));overflow:auto;border-radius:12px 12px 0 0;background:var(--paper);transform:translateY(20px);transition:transform .2s}.sheet.open .sheet__panel{transform:none}.sheet__grab{width:40px;height:4px;border-radius:4px;background:var(--pink);margin:0 auto 20px}.sheet__title{margin-bottom:16px;font:2rem var(--display);text-transform:uppercase}.note{margin-bottom:10px;color:var(--muted);font-size:.75rem;line-height:1.5}.field{display:flex;gap:8px;margin-bottom:18px}.field input{min-width:0;flex:1;height:46px;padding:0 12px;border:2px solid var(--ink);border-radius:3px;background:var(--surface)}.btn{padding:0 18px;border:0;border-radius:3px;background:var(--blue);color:#fff;font-weight:700}.fav-row{display:flex;align-items:center;padding:14px 0}.fav-row__t{flex:1}.fav-row__t b,.fav-row__t small{display:block}.fav-row__t small{margin-top:3px;color:var(--muted)}
+#toast{position:fixed;z-index:60;left:50%;bottom:24px;transform:translateX(-50%);padding:10px 16px;border-radius:3px;background:var(--ink);color:#fff;font-size:.78rem;opacity:0;pointer-events:none;transition:opacity .15s}#toast.show{opacity:1}.sheet{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(0,0,0,.55);opacity:0;visibility:hidden;transition:opacity .15s}.sheet.open{opacity:1;visibility:visible}.sheet__panel{width:min(100%,680px);max-height:85dvh;margin:auto;padding:28px 24px calc(28px + env(safe-area-inset-bottom));overflow:auto;border-radius:12px 12px 0 0;background:var(--paper);transform:translateY(20px);transition:transform .2s}.sheet.open .sheet__panel{transform:none}.sheet__grab{width:40px;height:4px;border-radius:4px;background:var(--pink);margin:0 auto 20px}.sheet__title{margin-bottom:16px;font:2rem var(--display);text-transform:uppercase}.note{margin-bottom:10px;color:var(--muted);font-size:.75rem;line-height:1.5}.field{display:flex;gap:8px;margin-bottom:18px}.field input{min-width:0;flex:1;height:46px;padding:0 12px;border:2px solid var(--ink);border-radius:3px;background:var(--surface)}.btn{padding:0 18px;border:0;border-radius:3px;background:var(--blue);color:#fff;font-weight:700}.fav-row{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}.fav-row__img{width:48px;height:48px;border-radius:6px;object-fit:cover;background:var(--soft);flex-shrink:0}.fav-row__t{flex:1;min-width:0}.fav-row__t b,.fav-row__t small{display:block}.fav-row__t small{margin-top:3px;color:var(--muted)}.fav-row__star{color:var(--yellow);font-size:1.1rem;flex-shrink:0}.fav-default{display:flex;align-items:center;gap:8px;margin-bottom:18px;color:var(--muted);font-size:.78rem;cursor:pointer}.fav-default input{width:18px;height:18px}
 
 @media(max-width:760px){
   .brandrow{min-width:0;gap:6px}.brand{flex:0 0 28px;min-width:0;overflow:hidden;white-space:nowrap;font-size:0}.brand b{font-size:1rem}.brand .ver{display:none}.iconbtn{min-height:44px;flex:none;padding:7px;font-size:.62rem}.theme-switch{display:none}.theme-select{display:block;min-height:40px;max-width:92px;padding:0 24px 0 8px;border:1px solid rgba(255,255,255,.25);border-radius:4px;background:var(--ink);color:#fff;font:700 .58rem var(--mono)}
@@ -836,8 +836,8 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     </div>
     <?php endif; ?>
     <div class="raction">
-      <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>">Règle utile <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
-      <button class="rbtn rbtn--fav" id="favBtn" data-fav="<?= e($g['slug']) ?>">Ajouter aux favoris</button>
+      <button class="rbtn rbtn--like" id="likeBtn" data-slug="<?= e($g['slug']) ?>" title="Marquer cette règle comme utile">👍 Utile · <span id="likeCount"><?= (int)$g['votes'] ?></span></button>
+      <button class="rbtn rbtn--fav" id="favBtn" data-fav="<?= e($g['slug']) ?>" aria-pressed="false"><span id="favLabel">★ Ajouter aux favoris</span></button>
     </div>
     <?php if ($yNames): $_main = array_shift($yNames); ?>
     <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer">Voir la règle « <?= e($_main) ?> » sur YouTube</a>
@@ -935,6 +935,7 @@ else:
       </div>
       <div class="chips" id="chips">
         <button class="chip chip--active" data-cat="">Tous</button>
+        <button class="chip chip--fav" data-cat="__fav__">★ Favoris <span id="favChipCount">0</span></button>
         <?php foreach ($CATEGORIES as $key => $info): ?>
           <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> <span><?= (int)($info['count'] ?? 0) ?></span></button>
         <?php endforeach; ?>
@@ -956,6 +957,7 @@ else:
          data-names="<?= e(mb_strtolower((string)($namesMap[$g['slug']] ?? ''))) ?>"
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
+         data-slug="<?= e($g['slug']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
         <img class="game__image lazy-image" data-src="<?= e(game_photo($g, true)) ?>" data-fallback="<?= e(hero_photo($g, 640)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
         <span class="game__index"><?= str_pad((string)($index + 1), 3, '0', STR_PAD_LEFT) ?></span>
@@ -1002,6 +1004,7 @@ else:
       <input type="email" id="emailField" placeholder="votre@email.com" autocomplete="email">
       <button class="btn" id="emailSave">OK</button>
     </div>
+    <label class="fav-default"><input type="checkbox" id="defaultFavsToggle"> Afficher mes favoris à l'accueil par défaut</label>
     <div id="favList"></div>
   </div>
 </div>
@@ -1027,8 +1030,13 @@ function syncFavUI(){
     b.setAttribute('aria-pressed',on?'true':'false');
     b.closest('.game')?.classList.toggle('game--favorite',on);
   });
+  const fbLabel=document.getElementById('favLabel');
+  if(fbLabel){ const fb=document.getElementById('favBtn'); fbLabel.textContent = (fb&&favs.has(fb.dataset.fav)) ? '★ Favori (ajouté)' : '★ Ajouter aux favoris'; }
   const dot=document.getElementById('favDot');
   if(dot){ if(favs.size){dot.hidden=false; dot.textContent=favs.size;} else dot.hidden=true; }
+  const fc=document.getElementById('favChipCount');
+  if(fc) fc.textContent=favs.size;
+  if(activeCat==='__fav__') applyFilter();
 }
 async function loadFavs(){
   if(!email) return;
@@ -1076,7 +1084,7 @@ async function renderFavList(){
   const titles = <?= json_encode(array_column(Vault::games(), 'title', 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
   [...favs].forEach(s=>{
     const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
-    d.innerHTML='<div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle</small></div><span>Favori</span>';
+    d.innerHTML='<img class="fav-row__img" src="?visual='+encodeURIComponent(s)+'&v=<?= VERSION ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle</small></div><span class="fav-row__star">★</span>';
     box.appendChild(d);
   });
 }
@@ -1104,7 +1112,7 @@ function applyFilter(){
   let shown = 0;
   listEl.querySelectorAll('.game').forEach(el=>{
     const okQ = !q || normalizeSearch(el.dataset.names).includes(q) || normalizeSearch(el.dataset.type).includes(q);
-    const okC = !activeCat || el.dataset.cat === activeCat;
+    const okC = !activeCat || (activeCat==='__fav__' ? favs.has(el.dataset.slug) : el.dataset.cat === activeCat);
     const show = okQ && okC;
     el.style.display = show ? '' : 'none';
     if(show) shown++;
@@ -1128,6 +1136,19 @@ if(chipsEl) chipsEl.addEventListener('click', e=>{
   chipsEl.querySelectorAll('.chip').forEach(x => x.classList.toggle('chip--active', x === c));
   applyFilter();
 });
+
+// Option : afficher les favoris par défaut à l'accueil.
+const LS_DEFAULT_FAVS='pk_default_favs';
+const defaultFavsToggle=document.getElementById('defaultFavsToggle');
+if(defaultFavsToggle){
+  const def=localStorage.getItem(LS_DEFAULT_FAVS)==='1';
+  defaultFavsToggle.checked=def;
+  defaultFavsToggle.addEventListener('change',()=>{
+    localStorage.setItem(LS_DEFAULT_FAVS, defaultFavsToggle.checked?'1':'0');
+    if(defaultFavsToggle.checked){ activeCat='__fav__'; chipsEl?.querySelectorAll('.chip').forEach(x=>x.classList.toggle('chip--active', x.dataset.cat==='__fav__')); applyFilter(); }
+  });
+  if(def && favs.size){ activeCat='__fav__'; chipsEl?.querySelectorAll('.chip').forEach(x=>x.classList.toggle('chip--active', x.dataset.cat==='__fav__')); }
+}
 
 document.getElementById('randomGame')?.addEventListener('click', ()=>{
   const choices=[...listEl.querySelectorAll('.game')].filter(el=>el.style.display!=='none');
