@@ -795,7 +795,8 @@
       "Chien Rouge",
       "High Card Pool",
       "La Banque",
-      "Shoot"
+      "Shoot",
+      "Banco"
     ],
     "chkobba": [
       "Chkobba",
@@ -865,7 +866,9 @@
       "Ranter-Go-Round",
       "Screw Your Neighbor",
       "La Chasse à l'As",
-      "Chasse à l'As"
+      "Chasse à l'As",
+      "Ace Chase",
+      "Acey-Deucey"
     ],
     "couillon": [
       "Le Couillon",
@@ -1462,7 +1465,8 @@
       "Kilo de Merde",
       "Le Kilo",
       "Kilo",
-      "Le Kilo de merde"
+      "Le Kilo de merde",
+      "Le Kilo (de merde)"
     ],
     "paquet-voleur": [
       "Le Paquet Voleur",
@@ -1543,7 +1547,8 @@
       "Poker fermé",
       "Five-Card Draw",
       "Five Card Draw",
-      "Poker à cinq cartes"
+      "Poker à cinq cartes",
+      "Poker ouvert"
     ],
     "poker-menteur": [
       "Le Poker Menteur",
@@ -1561,7 +1566,8 @@
       "Pochspiel",
       "Poque",
       "Le Bog",
-      "Bocken"
+      "Bocken",
+      "Boga"
     ],
     "pot": [
       "Le Pot"
@@ -1663,7 +1669,8 @@
       "Rum 500",
       "Pinochle Rummy",
       "Le Rummy 500",
-      "Rum Michigan"
+      "Rum Michigan",
+      "Rummy Pinochle"
     ],
     "rams": [
       "Le Rams",
@@ -1751,7 +1758,8 @@
       "China Hand",
       "Ten-Two Slide",
       "Smeghead",
-      "Bataille Norvégienne"
+      "Bataille Norvégienne",
+      "Norwegian War"
     ],
     "sixte": [
       "La Sixte",

@@ -126,6 +126,7 @@ class Vault {
       $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
       preg_match('/\*\*[^*]*joueurs?\s*:\s*\*\*\s*(.+)/iu', $md, $playersMatch);
       preg_match('/\*\*[^*]*cartes?\s*:\s*\*\*\s*(.+)/iu', $md, $cardsMatch);
+      preg_match('/\*\*[^*]*autres?\s+noms?\s*:\s*\*\*\s*(.+)/iu', $md, $aliasesMatch);
       $players = trim($playersMatch[1] ?? '');
       $cards = trim($cardsMatch[1] ?? '');
       preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
@@ -135,7 +136,10 @@ class Vault {
       $values = [$title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
       if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'Règle maison', '', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
-      $gn->execute([$slug, $title]);
+      foreach (array_filter(array_merge([$title], preg_split('/[,\/]/u', $aliasesMatch[1] ?? ''))) as $name) {
+        $name = trim($name);
+        if ($name !== '' && $name !== '—' && mb_strtolower($name) !== 'aucun') $gn->execute([$slug, $name]);
+      }
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
   }

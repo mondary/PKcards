@@ -5,7 +5,7 @@
 **Difficulté :** Facile
 **Type :** Défausse, Adresse
 **But :** Capturer les cartes d'une pile centrale en posant une carte de même rang que la carte supérieure (ou un Valet), et réaliser des « xeri » — la capture d'une carte unique — qui rapportent un gros bonus.
-**Autres noms :** Xéri, Kseri, Ξερή (grec, « sec » ou « plain »)
+**Autres noms :** Xéri, Kseri, Kzeri, Ξερή
 
 ---
 

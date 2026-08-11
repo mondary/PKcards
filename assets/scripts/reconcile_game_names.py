@@ -165,6 +165,25 @@ def unique(values: list[str]) -> list[str]:
     return result
 
 
+def markdown_names(slug: str) -> list[str]:
+    for file in (ROOT / f"assets/rules/{slug}.md", ROOT / f"assets/rules/rules_clm/{slug}.md"):
+        if not file.exists():
+            continue
+        markdown = file.read_text()
+        title = re.search(r"^#\s+(.+)$", markdown, re.MULTILINE)
+        aliases = re.search(r"\*\*Autres noms\s*:\s*\*\*\s*(.+)$", markdown, re.MULTILINE | re.IGNORECASE)
+        if not aliases:
+            return []
+        raw = aliases.group(1).strip()
+        values = []
+        if title and raw.casefold().startswith(title.group(1).casefold()):
+            values.append(title.group(1))
+            raw = re.sub(r"^\s*\([^)]*\)\s*", "", raw[len(title.group(1)):]).lstrip(" ,/")
+        values.extend(re.sub(r"\s*\([^)]*\)\s*$", "", name.strip()) for name in re.split(r"[,/]", raw))
+        return unique(values)
+    return []
+
+
 def mistigri_family(slugs: list[str]):
     for slug in slugs:
         file = ROOT / f"assets/rules/rules_mistigri/{slug}.md"
@@ -229,7 +248,8 @@ def main() -> None:
         title = titles.get(slug, entry["title"])
         removals = {key(name) for name in entry["remove"] if name not in KEEP.get(slug, set())}
         kept = [name for name in current.get(slug, entry["current_names"]) if key(name) not in removals or key(name) == key(title)]
-        names[slug] = unique([title, *kept, *entry["add"], *sorted(KEEP.get(slug, set()))])
+        declared = [name for name in markdown_names(slug) if key(name) not in removals]
+        names[slug] = unique([title, *kept, *declared, *entry["add"], *sorted(KEEP.get(slug, set()))])
         if slug in NAME_OVERRIDES:
             names[slug] = NAME_OVERRIDES[slug]
 
