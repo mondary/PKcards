@@ -43,6 +43,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Batch Tarot : 25 fiches FR — Cego, Chambéry Tarot, Tarok danois, Dappen, Dreierles, Illustrated Hungarian Tarokk, Königrufen, Lungau, Abbé de Marolles, Minchiate, Nebraska Taroky, Tarot Niçoise, Ottocento, Piedicavallo, Romanian Tarok, Sicilian, Slovenian Tarok, Droggn, Taroky, Troccas, Troggu, Tübingen Tarock, Hungarian Tarokk, Zwanzigerrufen
 - [x] Batch Mariage/Pinochle/Schnapsen : 23 fiches FR
 - [x] Batch Jass : 24 fiches FR
+- [x] Batch Whist/enchères : 32 fiches FR (whist, auctionwhist, quotawhist)
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---

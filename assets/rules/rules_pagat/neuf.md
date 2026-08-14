@@ -3,105 +3,100 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** A Canadian game for three players in which each begins with a score of 9 points and tries to reduce it to zero by winning more than their quota of 4 tricks.
+**But :** Jeu canadien pour trois joueurs où chacun commence avec un score de 9 points et tente de le réduire à zéro en remportant plus que son quota de 4 plis. **Autres noms :** Chômeur, Nines
 
 ---
 
 - Introduction
 
-- Players and Cards
+- Joueurs et cartes
 
-- Deal
+- Distribution
 
-- Exchanging Cards
+- Échange de cartes
 
-- Play
+- Déroulement
 
-- Scoring
+- Comptage des points
 
-- Variations
+- Variantes
 
 ## Introduction
 
-This game from Eastern Canada is played primarily in French-speaking regions, especially Quebec province, where it is known as **Le Neuf** or sometimes as **Chômeur** (unemployed). It is also played by Acadians in Nov Scotia, and in Newfoundland and in Eastern Ontario where it is called by the English name **Nines**. The name refers to the fact that everyone starts with 9 points. The aim is to reach a score of zero by winning more than your quota of tricks: each trick above quota removes a point but each trick below quota adds a point. 
+Ce jeu de l'Est du Canada se joue principalement dans les régions francophones, notamment au Québec, où il est connu sous le nom de **Le Neuf** ou parfois de **Chômeur**. Il est également pratiqué par les Acadiens en Nouvelle-Écosse, à Terre-Neuve et dans l'Est de l'Ontario, où il porte le nom anglais de **Nines**. Le nom fait référence au fait que tout le monde commence avec 9 points. Le but est d'atteindre un score de zéro en remportant plus que son quota de plis : chaque pli au-dessus du quota retire un point, mais chaque pli en dessous du quota en ajoute un.
 
-*This page is based on contributions from Paul Garreau, Michel Fortin, Pierre Germain and Gerald Hamilton.* 
+*Cette page est basée sur les contributions de Paul Garreau, Michel Fortin, Pierre Germain et Gerald Hamilton.*
 
-## Players and cards
+## Joueurs et cartes
 
-A standard 52 card pack is used, the cards in each suit rank in the familiar 
-order from ace (high) to two (low). 
+On utilise un jeu standard de 52 cartes, les cartes de chaque couleur étant classées dans l'ordre habituel, de l'as (haut) au deux (bas).
 
-There are usually three players: 13 cards are dealt to each player and there is spare (or 'unemployed') 13-card hand - hence the alternative name *Chômeur*. 
+Il y a généralement trois joueurs : 13 cartes sont distribuées à chaque joueur et il reste une main supplémentaire (ou « chômeur ») de 13 cartes — d'où le nom alternatif de *Chômeur*.
 
-The trump suit rotates from deal to deal in the sequence hearts, diamonds, clubs, spades, no trump, hearts, etc. (the same as the ranking order of the suits in 500 and many other games). 
+La couleur d'atout tourne de donne en donne dans l'ordre : cœurs, carreaux, trèfles, piques, sans atout, cœurs, etc. (le même ordre que le classement des couleurs au 500 et dans de nombreux autres jeux).
 
-The deal and play are clockwise and the turn to deal passes to the left after each hand.
+La distribution et le jeu se font dans le sens horaire, et le tour de distribuer passe à la gauche après chaque main.
 
-## Deal
+## Distribution
 
-The dealer shuffles and the player to dealer's right cuts. The dealer then deals the cards one at a time face down into four piles, one pile for each player plus an extra hand next to the dealer, and continues until every player and the extra hand has 13 cards. The extra hand is then moved to the centre of the table and the players pick up, look at and sort their hands.
+Le donneur bat les cartes et le joueur à sa droite coupe. Le donneur distribue ensuite les cartes une par une face cachée en quatre tas, un pour chaque joueur plus une main supplémentaire à côté du donneur, jusqu'à ce que chaque joueur et la main supplémentaire aient 13 cartes. La main supplémentaire est ensuite placée au centre de la table et les joueurs ramassent, examinent et trient leurs cartes.
 
-## Exchanging cards
+## Échange de cartes
 
-The player to dealer's left has the opportunity to change all 13 cards with the 13 cards of the extra hand (whose cards are unknown). If the player to dealer's left chooses not to exchange, the opportunity to do so passes clockwise around the table. 
+Le joueur à la gauche du donneur a la possibilité d'échanger ses 13 cartes avec les 13 cartes de la main supplémentaire (dont les cartes sont inconnues). Si le joueur à la gauche du donneur choisit de ne pas échanger, la possibilité passe dans le sens horaire autour de la table.
 
-A player who exchanges places their hand face
-down on the table in place of the extra hand and the opportunity to exchange continues around the table. After all three players have had an opportunity to exchange hands, either with the original spare hand or with a hand discarded by a previous player, the final spare hand is put aside and cannot be looked at until the play has ended.
+Un joueur qui échange pose sa main face cachée sur la table à la place de la main supplémentaire, et la possibilité d'échanger continue autour de la table. Après que les trois joueurs ont eu la possibilité d'échanger — soit avec la main supplémentaire d'origine, soit avec une main défaussée par un joueur précédent — la main supplémentaire finale est mise de côté et ne peut être consultée qu'une fois le jeu terminé.
 
-## The Play
+## Déroulement
 
-The player to the dealer's left leads to the first trick. Players must follow suit if possible; if unable to follow they may play any card. The trick is won by the highest trump in it, or, if it contains no trump, by the highest card of the suit led. The winner of each trick leads to the next.
+Le joueur à la gauche du donneur entame le premier pli. Les joueurs doivent suivre la couleur si possible ; s'ils ne peuvent pas suivre, ils peuvent jouer n'importe quelle carte. Le pli est remporté par le plus haut atout s'il y en a, ou sinon par la plus haute carte de la couleur demandée. Le gagnant de chaque pli entame le suivant.
 
-## Scoring
+## Comptage des points
 
-All three players start with 9 points, and each player has a quota of 4 tricks to win.
+Les trois joueurs commencent avec 9 points, et chaque joueur a un quota de 4 plis à remporter.
 
-- Players who win **more** than four tricks score one point for each trick in excess of four and these points are **deducted** from their previous score. 
+- Les joueurs qui remportent **plus** de quatre plis marquent un point pour chaque pli au-dessus de quatre, et ces points sont **déduits** de leur score précédent.
 
-- Players who win fewer than four tricks lose a point for each trick short of four and these points are **added** to their previous score. 
+- Les joueurs qui remportent moins de quatre plis perdent un point pour chaque pli manquant en dessous de quatre, et ces points sont **ajoutés** à leur score précédent.
 
-- Players with exactly four tricks neither win nor lose. 
+- Les joueurs avec exactement quatre plis ne gagnent ni ne perdent.
 
-The game continues until a player's score has dropped down to zero or less: this player is the winner. If two players reach zero or less on the same hand, the player who is furthest below 0 wins. If they are equal at zero or below they are joint winners.
+Le jeu continue jusqu'à ce que le score d'un joueur tombe à zéro ou moins : ce joueur est le gagnant. Si deux joueurs atteignent zéro ou moins sur la même main, le joueur le plus en dessous de zéro l'emporte. S'ils sont à égalité à zéro ou en dessous, ils sont vainqueurs ex æquo.
 
-The normal method of scoring is to write the names of the three players across the top of a sheet of paper with the initial score of 9 written under each
-name. At the far right of the points, the total of all 3 scores is written down, which at the outset is of course 27. In a column down the left hand side of the page, the trump suits for the deals are written in their order, so that each row will show the trump suit for the deal, the cumulative scores of the players and the total of these scores.
+La méthode de notation habituelle consiste à écrire les noms des trois joueurs en haut d'une feuille de papier avec le score initial de 9 sous chaque nom. À l'extrême droite des points, le total des 3 scores est inscrit — qui est au départ de 27. Dans une colonne sur le côté gauche de la page, les couleurs d'atout des donnes sont écrites dans leur ordre, de sorte que chaque ligne indique la couleur d'atout de la donne, les scores cumulés des joueurs et le total de ces scores.
 
-This helps keep track of trump and of the person dealing and to avoid scoring mistakes. For each hand played the total score in the right hand column should reduce by one: there are 13 tricks but the quotas add up to only 12 so in aggregate the players must be one trick over quota. 
+Cela permet de suivre l'atout, le donneur et d'éviter les erreurs de notation. Pour chaque main jouée, le score total dans la colonne de droite doit diminuer de un : il y a 13 plis mais les quotas s'additionnent à seulement 12, donc globalement les joueurs doivent être à un pli au-dessus du quota.
 
-The game will last at most 25 deals because at that point the total of the scores will be 2, so someone must have a score of zero or below.
+Le jeu durera au maximum 25 donnes car à ce moment le total des scores sera de 2, donc quelqu'un doit avoir un score de zéro ou moins.
 
-## Variations
+## Variantes
 
-### Trump sequence
+### Séquence d'atouts
 
-There are many alternative versions of the sequence of trumps, and often a fifth deal with no trumps is included so that the cycle repeats after 5 deals rather than 4. Options that I have seen are:
+Il existe de nombreuses versions alternatives de la séquence d'atouts, et souvent une cinquième donne sans atout est incluse pour que le cycle se répète après 5 donnes plutôt que 4. Les options que j'ai vues sont :
 
-- spades, hearts, diamonds, clubs, no trump, spades, etc.
+- piques, cœurs, carreaux, trèfles, sans atout, piques, etc.
 
-- hearts, diamonds, spades, clubs, no trump, hearts, etc.
+- cœurs, carreaux, piques, trèfles, sans atout, cœurs, etc.
 
-- hearts, clubs, diamonds, spades, no trump, hearts, etc.
+- cœurs, trèfles, carreaux, piques, sans atout, cœurs, etc.
 
-- hearts, diamonds, clubs, spades and no trump, hearts, etc. 
+- cœurs, carreaux, trèfles, piques, sans atout, cœurs, etc.
 
-The choice of trump sequence makes no real difference to the game. The players should agree in advance what sequence they prefer.
+Le choix de la séquence d'atouts n'a pas de véritable incidence sur le jeu. Les joueurs doivent s'accorder à l'avance sur la séquence qu'ils préfèrent.
 
-### Card Exchange
+### Échange de cartes
 
-In many places the dealer has the first opportunity to exchange cards, followed by each of the other players in clockwise order. 
+Dans beaucoup d'endroits, le donneur a la première possibilité d'échanger des cartes, suivi de chacun des autres joueurs dans le sens horaire.
 
-### Avoiding Ties
+### Éviter les égalités
 
-Players who want to avoid the possibility of a drawn game in which two players reach the same score of zero or below on the same deal could adopt the following house rule. A player who wins more than four tricks is entitled to score points for the extra tricks as soon as they are taken. So for example if the scores at the start of a hand are A:3, B:1, C:1, if either B or C takes a fifth trick they win the game immediately without further play. **Note**: this is just a suggestion from the editor. I have not heard from any Canadian players who actually use this house rule.
+Les joueurs qui souhaitent éviter la possibilité d'un match nul où deux joueurs atteignent le même score de zéro ou moins sur la même donne pourraient adopter la règle maison suivante. Un joueur qui remporte plus de quatre plis a le droit de marquer les points pour les plis supplémentaires dès qu'ils sont pris. Par exemple, si les scores en début de main sont A:3, B:1, C:1, si B ou C prend un cinquième pli, il gagne immédiatement sans poursuite du jeu. **Note** : il s'agit uniquement d'une suggestion de l'éditeur. Je n'ai eu écho d'aucun joueur canadien utilisant réellement cette règle maison.
 
-### Four player game
+### Jeu à quatre joueurs
 
-Gerald Hamilton reports that in Newfoundland Nines is normally played by 4 people - 2 teams of 2 with partners sitting across from each other. All cards are dealt out, 13 to each player, and there is no exchange of cards. The rules of play are as above. 
+Gerald Hamilton rapporte qu'à Terre-Neuve, le Neuf se joue normalement à 4 personnes — 2 équipes de 2 avec des partenaires assis en face l'un de l'autre. Toutes les cartes sont distribuées, 13 à chaque joueur, et il n'y a pas d'échange de cartes. Les règles du jeu sont les mêmes que ci-dessus.
 
-Each team has a quota of 6 tricks and begins with 9 points. At the end of the play of each hand, for each trick a team has won in excess of 6 they subtract one point from their score and for each trick by which they are short of 6 they add one point. The first team to reach a score of zero or less wins. This takes at most 17 deals since the total score of the two teams begins at 18 and reduces by one for each deal.
+Chaque équipe a un quota de 6 plis et commence avec 9 points. À la fin de chaque main, pour chaque pli qu'une équipe a remporté au-delà de 6, elle soustrait un point de son score, et pour chaque pli en dessous de 6, elle ajoute un point. La première équipe à atteindre un score de zéro ou moins gagne. Cela prend au maximum 17 donnes puisque le score total des deux équipes commence à 18 et diminue de un à chaque donne.
 
-Apart from the particular method of scoring, this form of the game is almost identical to classic Whist.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Neuf (nines)
+À part la méthode de comptage particulière, cette forme du jeu est presque identique au Whist classique.

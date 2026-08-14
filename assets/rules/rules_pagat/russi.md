@@ -2,44 +2,42 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A simple Icelandic version of Whist without trumps for two players.
+**But :** Une version islandaise simple du Whist sans atout pour deux joueurs.
 
 ---
 
-*This page is based on information from Guðjón Torfi Sigurðsson.*
+*Cette page est basée sur les informations de Guðjón Torfi Sigurðsson.*
 
 ## Introduction
 
-This is an Icelandic version of No Trump or Scandinavian Whist. The name *Rússi* is simply Icelandic for 'Russian'.
+C'est une version islandaise du Whist sans atout ou du Whist scandinave. Le nom *Rússi* signifie simplement « Russe » en islandais.
 
-## Players and Cards
+## Joueurs et cartes
 
-This game is for two players only using a standard Anglo-American 52-card pack, the cards of each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Ce jeu est pour deux joueurs seulement, utilisant un jeu anglo-américain standard de 52 cartes, les cartes de chaque couleur étant classées de la plus forte à la plus faible A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-## Deal
+## Distribution
 
-Turn to deal alternates. The dealer shuffles and deals.
+Le tour de distribution alterne. Le donneur mélange et distribue.
 
-Then each player is dealt 26 cards, one at a time beginning with dealer's opponent and alternating. First each is dealt 9 cards face down on the table, 5 in the lower row, 4 in the upper row, then another 9 cards face up on top of the face down ones, then a hand of 8 cards.
+Ensuite, chaque joueur reçoit 26 cartes, une à la fois en commençant par l'adversaire du donneur et en alternant. D'abord, chacun reçoit 9 cartes face cachée sur la table, 5 dans la rangée du bas, 4 dans la rangée du haut, puis 9 autres cartes face visible par-dessus les cartes face cachée, puis une main de 8 cartes.
 
-So, each player has 8 cards that only they can see (in the hand), there are 18 down cards that neither player can see, and 18 face up cards that both can see.
+Ainsi, chaque joueur a 8 cartes que seul lui peut voir (en main), 18 cartes face cachée qu'aucun joueur ne peut voir, et 18 cartes face visibles que les deux peuvent voir.
 
-## Objective
+## Objectif
 
-The objective is to win more tricks than the opponent.
+L'objectif est de remporter plus de levées que l'adversaire.
 
-## Play
+## Jeu
 
-The non-dealer leads to the first trick.
+Le non-donneur entame la première levée.
 
-Each trick consists of two cards. At your turn, you can play a card from your hand or one of the cards in your face up layout. As soon as a card from the layout is played, if this uncovers a face down card that card is immediately turned face up, before any other cards are played by either player.
+Chaque levée se compose de deux cartes. À votre tour, vous pouvez jouer une carte de votre main ou une des cartes de votre disposition face visible. Dès qu'une carte de la disposition est jouée, si cela découvre une carte face cachée, celle-ci est immédiatement retournée face visible, avant que d'autres cartes ne soient jouées par l'un ou l'autre joueur.
 
-Any card can be led. The other card played to the trick must follow suit if possible. So if the leader's opponent has any cards of the same suit as the led card, either in hand or face up on the table, such a card must be played.
+N'importe quelle carte peut être entamée. L'autre carte jouée à la levée doit suivre la couleur si possible. Ainsi, si l'adversaire de celui qui entame a des cartes de la même couleur que la carte entamée, en main ou face visible sur la table, une telle carte doit être jouée.
 
-The two-card trick is won by the higher card of the suit that was led (there are no trumps). The player who wins the trick leads to the next.
+La levée de deux cartes est remportée par la carte la plus forte de la couleur demandée (il n'y a pas d'atout). Le joueur qui remporte la levée entame la suivante.
 
-## Scoring
+## Marque des points
 
-There is no scoring, the player with more tricks simply wins the game.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Rússi
+Il n'y a pas de marque des points, le joueur avec le plus de levées gagne simplement la partie.

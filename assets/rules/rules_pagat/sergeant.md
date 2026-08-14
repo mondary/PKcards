@@ -3,132 +3,114 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** Also sometimes known as 8-5-3 because the three players have different objectives, to win at least 8, 5 and 3 tricks.
-**Autres noms :** Kurnik
+**But :** Jeu de plis à quota pour trois joueurs avec des objectifs différents : remporter au moins 8, 5 et 3 plis.
+**Autres noms :** 8-5-3, Kurnik
 
 ---
 
 ## Introduction
 
-This game was described to me by John Card, who tells me that it used to be popular in Britain's Royal Air Force. Some closely related games, generally known as 8-5-3 or 3-5-8, are played in India and the near east; also the game 9-5-2, played in Canada, is very similar.
+Ce jeu m'a été décrit par John Card, qui m'indique qu'il était autrefois populaire dans la Royal Air Force britannique. Des jeux très similaires, généralement connus sous le nom de 8-5-3 ou 3-5-8, se jouent en Inde et au Proche-Orient ; le jeu 9-5-2, joué au Canada, est également très similaire.
 
-## Players and Cards
+## Joueurs et cartes
 
-Sergeant Major is a trick taking game for 3 players, using a standard 52 card pack. It is played clockwise.
+Sergeant Major est un jeu de plis pour 3 joueurs, utilisant un jeu standard de 52 cartes. Il se joue dans le sens horaire.
 
-## Object of the Game
+## But du jeu
 
-The aim is to win as many tricks as possible. If a player succeeds in winning 12 or more tricks in one hand, the game ends and that player wins.
+Le but est de remporter le plus de plis possible. Si un joueur réussit à gagner 12 plis ou plus en une seule main, le jeu s'arrête et ce joueur gagne.
 
-## Deal and Card Exchange (first hand)
+## Distribution et échange de cartes (première main)
 
-The first dealer is chosen at random. The cards are shuffled, cut and then dealt singly, 16 to each player. The last four undealt cards are placed face down on the table to form a kitty. The dealer names a suit as trumps (clubs, spades, hearts or diamonds - "no trump" is not allowed), discards any four cards face down, and takes the four undealt cards from the kitty in their place.
+Le premier donneur est choisi au hasard. Les cartes sont battues, coupées puis distribuées une par une, 16 à chaque joueur. Les quatre dernières cartes non distribuées sont posées face cachée sur la table pour former le talon. Le donneur nomme une couleur comme atout (trèfles, piques, cœurs ou carreaux — « sans atout » n'est pas autorisé), défausse quatre cartes face cachée, et prend les quatre cartes non distribuées du talon à la place.
 
-## The Play
+## Déroulement
 
-The player to dealer's left leads any card to the first trick. It is compulsory to follow suit if able to; a player holding no card of the suit led may play any card. Each trick is won by the highest trump it contains, or if there are no trumps in it, by the highest card of the suit led. The winner of each trick leads to the next.
+Le joueur à la gauche du donneur joue n'importe quelle carte pour entamer le premier pli. Il est obligatoire de suivre la couleur si possible ; un joueur n'ayant aucune carte de la couleur demandée peut jouer n'importe quelle carte. Chaque pli est remporté par le plus haut atout qu'il contient, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée. Le gagnant de chaque pli entame le suivant.
 
-## Targets and Scoring
+## Objectifs et comptage des points
 
-Each player has a target. The dealer's target is 8 tricks; the player to dealer's left has a target of 5 tricks; and the player to dealer's right needs 3 tricks. A player who won more tricks than the target is said to be **up** by the number of tricks won in excess of target. A player who failed to reach the target is **down** by the number of tricks short. The player(s) who are down pay one stake per trick short of target, and the player(s) who are up receive one stake per overtrick.
+Chaque joueur a un objectif. L'objectif du donneur est de 8 plis ; le joueur à la gauche du donneur a un objectif de 5 plis ; et le joueur à la droite du donneur doit en obtenir 3. Un joueur qui a remporté plus de plis que son objectif est dit **en excédent** du nombre de plis au-delà de l'objectif. Un joueur qui n'a pas atteint son objectif est **en déficit** du nombre de plis manquants. Le(s) joueur(s) en déficit paient une mise par pli en dessous de l'objectif, et le(s) joueur(s) en excédent reçoivent une mise par pli supplémentaire.
 
-## Deal and Exchange (second and subsequent hands)
+## Distribution et échange (deuxième main et suivantes)
 
-The turn to deal rotates clockwise, so the new dealer is the player who led to the first trick previous hand. The pack is shuffled and cut and 16 cards each are dealt singly as before. 
+Le tour de distribuer tourne dans le sens horaire, le nouveau donneur est donc le joueur qui a entamé le premier pli de la main précédente. Le jeu est battu, coupé et 16 cartes sont distribuées une par une à chacun comme précédemment.
 
-Now each player who was up on the previous hand gives away one unwanted card per overtrick to a player who was down, and that player must return the highest card(s) held of the same suit(s). The exact procedure is as follows:
+Chaque joueur qui était en excédent lors de la main précédente donne une carte indésirable par pli supplémentaire à un joueur en déficit, et ce joueur doit retourner sa (ses) plus haute(s) carte(s) de la (des) même(s) couleur(s). La procédure exacte est la suivante :
 
-- If just one player was up, that player gives each of the other players as many unwanted cards face down as they had undertricks. These cards are all given simultaneously. The other players add these cards to their hands, and for each card received, they give back face down their highest card of that suit. A player who has no other cards of the suit received will of course have to give back the same card.
-- If two players were up, the player with the higher target for the hand about to be played trades first. This player gives (face down) as many cards as he or she had overtricks to the player who was down, and that player gives back face down the highest card(s) held in the same suit(s). After that, the other player who was up gives a card per overtrick to the player who was down, and receives in exchange that player's highest card(s) in the same suit(s).
+- Si un seul joueur était en excédent, ce joueur donne à chacun des autres joueurs autant de cartes indésirables face cachée qu'ils avaient de plis manquants. Ces cartes sont toutes données simultanément. Les autres joueurs ajoutent ces cartes à leur main et, pour chaque carte reçue, retournent face cachée leur plus haute carte de cette couleur. Un joueur qui n'a pas d'autres cartes de la couleur reçue devra bien sûr retourner la même carte.
+- Si deux joueurs étaient en excédent, le joueur ayant l'objectif le plus élevé pour la main qui va se jouer échange en premier. Ce joueur donne (face cachée) autant de cartes qu'il avait de plis supplémentaires au joueur en déficit, et ce joueur retourne face cachée sa (ses) plus haute(s) carte(s) de la (des) même(s) couleur(s). Ensuite, l'autre joueur en excédent donne une carte par pli supplémentaire au joueur en déficit, et reçoit en échange la (les) plus haute(s) carte(s) de ce joueur dans la (les) même(s) couleur(s).
 
-After this exchange of cards is complete, the dealer names trumps, discards four cards and takes the four undealt cards. If the dealer was down and had to give away the highest card of a suit, but then picks up one or more higher cards of that same suit from the undealt cards, any such high cards must be shown privately to the player(s) who traded cards in that suit.
+Une fois cet échange terminé, le donneur nomme l'atout, défausse quatre cartes et prend les quatre cartes non distribuées. Si le donneur était en déficit et a dû donner sa plus haute carte d'une couleur, mais récupère ensuite une ou plusieurs cartes plus hautes de cette même couleur parmi les cartes non distribuées, ces cartes hautes doivent être montrées en privé au(x) joueur(s) ayant échangé des cartes dans cette couleur.
 
-The play and scoring then proceeds as described above. The targets are always 8 tricks for the current dealer, 5 for the player who leads to the first trick, and 3 for the other player.
+Le jeu et le comptage se déroulent ensuite comme décrit ci-dessus. Les objectifs sont toujours de 8 plis pour le donneur en cours, 5 pour le joueur qui entame le premier pli, et 3 pour l'autre joueur.
 
-## End of the Game
+## Fin du jeu
 
-The game ends when any player succeeds in winning 12 or more tricks in one hand, thereby winning the game.
+Le jeu s'arrête lorsqu'un joueur parvient à remporter 12 plis ou plus en une seule main, gagnant ainsi la partie.
 
-## Variations
+## Variantes
 
-Some play that the dealer picks up the kitty and then discards (rather than discarding before picking up).
+Certains jouent que le donneur ramasse le talon puis défausse (au lieu de défausser avant de ramasser).
 
-Some play that the game goes on until someone takes all sixteen tricks. This can lead to an extremely long game - my experience with this version is that the game generally gets abandoned before the end is reached.
+Certains jouent que la partie continue jusqu'à ce que quelqu'un prenne les seize plis. Cela peut mener à une partie extrêmement longue — mon expérience avec cette version est que la partie est généralement abandonnée avant la fin.
 
-Shawn's former [Sergeant Major page](https://web.archive.org/web/19990302094234/http://www.erols.com/shawncoons/sarge.htm) (archive copy) described a variation played with only 51 cards (the 2 of clubs is removed). 17 cards are dealt to each player. The dealer chooses trumps, as usual, and the targets are 8 tricks for dealer, 6 for player left of dealer, 3 for player right of dealer. The player to dealer's left leads to the first trick (as usual). Players score +1 for each trick above target, -1 for each trick below. From the second hand onwards cards are exchanged in the usual way (according to tricks above or below target on the previous hand) before trump is called. The game ends when someone wins by reaching +10 points. 
+L'ancienne [page Sergeant Major](https://web.archive.org/web/19990302094234/http://www.erols.com/shawncoons/sarge.htm) de Shawn (copie d'archive) décrivait une variante jouée avec seulement 51 cartes (le 2 de trèfle est retiré). 17 cartes sont distribuées à chaque joueur. Le donneur choisit l'atout, comme d'habitude, et les objectifs sont de 8 plis pour le donneur, 6 pour le joueur à gauche du donneur, 3 pour le joueur à droite du donneur. Le joueur à la gauche du donneur entame le premier pli (comme d'habitude). Les joueurs marquent +1 pour chaque pli au-dessus de l'objectif, -1 pour chaque pli en dessous. À partir de la deuxième main, les cartes sont échangées de la manière habituelle (selon les plis au-dessus ou en dessous de l'objectif de la main précédente) avant que l'atout soit nommé. Le jeu se termine quand quelqu'un gagne en atteignant +10 points.
 
-Ralph Birch describes a similar variant played by his grandfather who was the Regimental Sergeant Major of the Kings Own Scottish Borderers, serving in the British Army in India in the 1930s and 40s. The two of spades is removed, 17 cards each are dealt, the targets are 9 tricks for dealer, 5 the dealer's left-hand opponent and 3 for dealer's right-hand opponent, and in theory the game is supposed to continue until someone wins all 17 tricks though in practice the game is nearly always abandoned 'with a useless hand being thrown at the dominant player'.
+Ralph Birch décrit une variante similaire jouée par son grand-père, qui était Sergeant Major du régiment des King's Own Scottish Borderers, servant dans l'armée britannique en Inde dans les années 1930 et 1940. Le 2 de piques est retiré, 17 cartes sont distribuées à chacun, les objectifs sont de 9 plis pour le donneur, 5 pour l'adversaire à gauche et 3 pour l'adversaire à droite, et en théorie le jeu est censé continuer jusqu'à ce que quelqu'un gagne les 17 plis, bien qu'en pratique la partie soit presque toujours abandonnée « avec une main inutile jetée au joueur dominant ».
 
 ## 9-5-2
 
-Details of this Canadian variation were sent to me by Henry Stevens. The game is identical to Sergeant Major apart from the following:
+Les détails de cette variante canadienne m'ont été envoyés par Henry Stevens. Le jeu est identique au Sergeant Major à l'exception de ce qui suit :
 
-- The targets for the three players are:
+- Les objectifs des trois joueurs sont :
 
-- Dealer - 9 tricks
+- Donneur — 9 plis
 
-- Player to dealer's left - 5 tricks
+- Joueur à la gauche du donneur — 5 plis
 
-- Player to dealer's right - 2 tricks. 
+- Joueur à la droite du donneur — 2 plis.
 
-- After trading cards and choosing trump, the dealer picks up the four kitty cards **before** discarding four.
+- Après l'échange de cartes et le choix de l'atout, le donneur ramasse les quatre cartes du talon **avant** de défausser quatre cartes.
 
-- A cumulative score for each player is kept on paper. The score for each hand is assessed based on whether the required number of tricks were taken (zero score), more tricks were taken (plus score of number of tricks over required tricks) or fewer tricks (minus score of number of tricks under required tricks). Scores are totaled with the score from previous hands, and the total score of all three players should always be zero.
+- Un score cumulé pour chaque joueur est noté sur papier. Le score de chaque main est évalué selon que le nombre requis de plis a été pris (score zéro), plus de plis pris (score positif du nombre de plis au-dessus de l'objectif) ou moins de plis (score négatif du nombre de plis en dessous de l'objectif). Les scores sont additionnés à ceux des mains précédentes, et le total des scores des trois joueurs doit toujours être zéro.
 
-- 9-5-2 is played to a target score agreed in advance, usually 10 or 20 points. The game ends when someone's score reaches or exceeds the target. Since the sum of the scores on each hand is zero, in theory the game could go on for ever, but in practice someone will eventually reach the target.
+- Le 9-5-2 se joue jusqu'à un score cible convenu à l'avance, généralement 10 ou 20 points. Le jeu se termine lorsque le score de quelqu'un atteint ou dépasse le cible. Puisque la somme des scores de chaque main est zéro, en théorie le jeu pourrait durer indéfiniment, mais en pratique quelqu'un finira par atteindre le score cible.
 
-Nicholas Tallyn reports another variation of 9-5-2 with the following differences:
+Nicholas Tallyn signale une autre variante du 9-5-2 avec les différences suivantes :
 
-- The targets of the players left and right of dealer are reversed - the player to dealer's left needs 2 tricks and the player to the right needs 5 tricks. *[This seems odd given that dealer's left hand opponent has the advantage of leading first.]*
+- Les objectifs des joueurs à gauche et à droite du donneur sont inversés — le joueur à gauche du donneur a besoin de 2 plis et le joueur à droite a besoin de 5 plis. *[Cela semble étrange étant donné que l'adversaire à gauche du donneur a l'avantage d'entamer en premier.]*
 
-- The order of exchanging cards and making trumps is:
+- L'ordre d'échange des cartes et de nomination de l'atout est :
 
-- Dealer picks up the four spare cards and then discards four;
+- Le donneur ramasse les quatre cartes supplémentaires puis défausse quatre cartes ;
 
-- Players with positive scores on the previous hand pass cards;
+- Les joueurs ayant un score positif lors de la main précédente passent des cartes ;
 
-- Dealer calls trump;
+- Le donneur nomme l'atout ;
 
-- Players with negative scores pass back their highest cards in the suits they were given. 
+- Les joueurs ayant un score négatif retournent leurs plus hautes cartes dans les couleurs qu'ils ont reçues.
 
-- The game continues until someone reaches or goes beyond +15 or -15, and whoever has the most points at that time is the winner.
+- Le jeu continue jusqu'à ce que quelqu'un atteigne ou dépasse +15 ou -15, et celui qui a le plus de points à ce moment est le gagnant.
 
-## Four-handed Sergeant Major
+## Sergeant Major à quatre joueurs
 
-Bryan Weaver writes:
+Bryan Weaver écrit :
 
-When I was in college at Georgia Tech in the mid 1980's, there was a large community of card players there. In addition to a lot of Bridge and Hearts (which were typically played for stakes) we played a four-handed variety of sergeant major.
+Quand j'étais à l'université à Georgia Tech au milieu des années 1980, il y avait une grande communauté de joueurs de cartes. En plus de beaucoup de Bridge et de Hearts (qui se jouaient généralement avec des mises), nous jouions à une variante à quatre du Sergeant Major.
 
-No cards were undealt; the trick taking requirements were 5-4-2-2 with the usual rewards and penalties.
+Aucune carte n'était laissée non distribuée ; les objectifs de plis étaient 5-4-2-2 avec les mêmes récompenses et pénalités.
 
-The four-handed game introduces complications when taking extra cards from those who were down (we called the process "plucking" and individual cards "plucks"). To begin with, we handled the situation of competitive "plucking" different from the standard. If more than one player passed cards to the same person, then the person returned his highest cards in the suit to those players based upon the rank of the cards that they used to "pluck" from him, rather than doing it in a particular order. 
+Le jeu à quatre introduit des complications lors de la prise de cartes supplémentaires à ceux qui étaient en déficit (nous appelions ce processus « plucking » et les cartes individuelles des « plucks »). Pour commencer, nous traitions la situation des « pluckings » concurrents différemment de la norme. Si plus d'un joueur passait des cartes à la même personne, celle-ci retournait ses plus hautes cartes dans la couleur à ces joueurs en fonction du rang des cartes qu'ils avaient utilisées pour le « plucking », plutôt que de le faire dans un ordre particulier.
 
-An example: West has the A9872 of Hearts. North exchanges the 5 of hearts with him and South the 3 of hearts. West returns the A of Hearts to North and the 9 of hearts to South. 
+Exemple : Ouest a A9872 de Cœurs. Nord échange le 8 de cœurs avec lui et Sud le 5 de cœurs. Ouest retourne l'As de Cœurs à Nord et le 9 de cœurs à Sud.
 
-It was possible for West to give cards from one opponent to the other. 
+Il était possible pour Ouest de donner des cartes d'un adversaire à l'autre.
 
-Example: West has the A432 of Hearts. North exchanges the 8 of hearts with him and South the 5 of hearts. West returns the A of Hearts to North and the 8 of hearts to South.
+Exemple : Ouest a A432 de Cœurs. Nord échange le 8 de cœurs avec lui et Sud le 5 de cœurs. Ouest retourne l'As de Cœurs à Nord et le 8 de cœurs à Sud.
 
-The general procedure for determining who you plucked when two players were up and two players were down was as follows.
+La procédure générale pour déterminer qui vous avez « plucké » lorsque deux joueurs étaient en excédent et deux en déficit était la suivante.
 
-- Encourage Competition. Suppose N is -2, E is -1, W is +1 and S is +2. If plucks are uneven, ensuring competition is the most important guideline: South sends a card to both N and E, and West sends a card to North. 
+- Encourager la concurrence. Supposons N=-2, E=-1, W=+1 et S=+2. Si les plucks sont inégaux, s'assurer de la concurrence est la directive la plus importante : Sud envoie une carte à la fois à N et à E, et Ouest envoie une carte à Nord.
 
-- Discourage passing cards to your left if possible. Suppose N and S are each +1 and E and W are each -1. South should pass a card to East, not West. The reason for this is that South should get the card, but not the extra benefit of the information that his LHO has no card larger than the one he received.
-
-## Other WWW pages
-
-Here is an archive copy of Jim Buckley's description of [Sergeant Major](https://web.archive.org/web/www.jambutty.u-net.com/09i09.html) at his Jambutty site.
-
-Christopher Dearlove has published rules for a version of Sergeant Major known as [Trumpet Major](https://www.mnemosyne.uk/bgames/TrumpetMajor.txt).
-
-3-5-8 can be played on line at the [Game Desire](https://www.gamedesire.com/games/card-games) web site, and also at [PlayOK Online Games](https://www.playok.com/) (formerly known as Kurnik).
-
-You can play Sergeant Major (either 8-5-3 or 9-5-2) online at [CardzMania.com](https://www.cardzmania.com/SergeantMajor).
-
-You can play 3-5-8 (Sergeant Major) online at [VIPgames.com](https://vipgames.com/sergeant-major/).
-
-Marya's [World of Card Games](https://worldofcardgames.com/sergeant-major) offers an online Sergeant Major game.
-
-A 3-5-8 game which can be played locally against the computer or online is included in the [Favorite Games](https://www.favorite-games.com/htmlen/downloads.php?id=42) Ltd. package.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Sergeant Major
+- Éviter si possible de passer des cartes vers sa gauche. Supposons N et S à +1 chacun et E et W à -1 chacun. Sud devrait passer une carte à Est, pas à Ouest. La raison est que Sud devrait obtenir la carte, mais sans l'avantage supplémentaire de l'information que son voisin de gauche n'a pas de carte plus grande que celle qu'il a reçue.

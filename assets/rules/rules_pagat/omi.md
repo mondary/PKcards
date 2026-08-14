@@ -3,71 +3,69 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Also known as Oombi, a Whist-like game from Sri Lanka for 4 players using 32 cards.
+**But :** Aussi connu sous le nom d'Oombi, un jeu apparenté au Whist originaire du Sri Lanka pour 4 joueurs utilisant 32 cartes.
 **Autres noms :** Oombi
 
 ---
 
-*This page is mainly based on information from Thushara Wickramasinghe.*
+*Cette page est principalement basée sur les informations de Thushara Wickramasinghe.*
 
 ## Introduction
 
-**Omi** is a popular card game played in Sri Lanka: in some regins it is known as **Oombi**. The name suggests some connection with Hombre in the distant past, but if this is so, little trace of the influence of Hombre remains. Omi is a straightforward partnership plain-trick game of the Whist type, somewhat similar to the Indian and Pakistani game Court Piece in that the first player has to choose trumps on the basis of a the first few cards.
+**Omi** est un jeu de cartes populaire au Sri Lanka : dans certaines régions, il est connu sous le nom d'**Oombi**. Le nom suggère un lien avec l'Hombre dans un lointain passé, mais si c'est le cas, il reste peu de traces de l'influence de l'Hombre. Omi est un jeu de levées en équipe simple du type Whist, quelque peu similaire au jeu indien et pakistanais Court Piece en ce que le premier joueur doit choisir les atouts sur la base des premières cartes.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite (North and South play against East and West). Deal and play are counter-clockwise.
+Il y a quatre joueurs en équipes fixes, les partenaires étant assis en face (Nord et Sud jouent contre Est et Ouest). La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-A standard international 52-card pack is used, but only 32 of the cards are used for play. These cards rank from high to low A-K-Q-J-10-9-8-7 in each suit. 
+On utilise un jeu international standard de 52 cartes, mais seulement 32 cartes sont utilisées pour le jeu. Ces cartes sont classées de la plus forte à la plus faible A-R-D-V-10-9-8-7 dans chaque couleur.
 
-The remaining 20 cards are used for scoring. One player (say North) takes charge the ten black scoring cards (2-6 of clubs and spades) and an opponent (say West) takes charge of the red scoring cards (2-6 of hearts and diamonds). These cards are used as tokens, each card having the same value. The other two players (South and East) are in charge of collecting tokens won from the opponents. So the red and black token cards are never mixed: in this example black tokes are transferred from North to East and red tokens are transferred from South to West.
+Les 20 cartes restantes servent pour la marque. Un joueur (par exemple Nord) prend en charge les dix cartes noires de marque (2 à 6 de trèfle et de pique) et un adversaire (par exemple Ouest) prend en charge les cartes rouges de marque (2 à 6 de cœur et de carreau). Ces cartes servent de jetons, chaque carte ayant la même valeur. Les deux autres joueurs (Sud et Est) sont chargés de collecter les jetons gagnés aux adversaires. Ainsi, les jetons rouges et noirs ne sont jamais mélangés : dans cet exemple, les jetons noirs sont transférés de Nord à Est et les jetons rouges sont transférés de Sud à Ouest.
 
-## Deal and Making Trumps
+## Distribution et choix de l'atout
 
-Any player may deal first, and the turn to deal passes to the right after each hand.
+N'importe quel joueur peut distribuer en premier, et le tour de distribution passe à droite après chaque main.
 
-The dealer shuffles the 32-card pack and offers the cards to the opponent to the left to cut. The dealer then deals a batch of four cards to each player. 
+Le donneur mélange le jeu de 32 cartes et offre les cartes à l'adversaire à gauche pour couper. Le donneur distribue ensuite un lot de quatre cartes à chaque joueur.
 
-The player to dealer's right looks at the four cards and must decide (without help from any other player) and announce which suit will be trumps. The dealer then deals a second batch of four cards to each player, so that everyone has eight.
+Le joueur à la droite du donneur regarde ses quatre cartes et doit décider (sans l'aide d'aucun autre joueur) et annoncer quelle couleur sera l'atout. Le donneur distribue ensuite un deuxième lot de quatre cartes à chaque joueur, pour que chacun ait huit cartes.
 
-## Play
+## Jeu
 
-The player to dealer's right, who announced the trump suit, leads any card to the first trick. The other players play in turn, anticlockwise around the table, and must follow suit if able to; a player who holds no card of the suit led may play any card.
+Le joueur à la droite du donneur, qui a annoncé la couleur d'atout, entame n'importe quelle carte pour la première levée. Les autres joueurs jouent à leur tour, dans le sens inverse des aiguilles d'une montre, et doivent suivre la couleur s'ils le peuvent ; un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte.
 
-If no trumps are played, the trick is won by the highest card of the suit that was led. If any trumps were played the highest trump wins the trick. The winner of the trick gathers the four cards, stacks them face down in the team's trick pile, and leads any card to the next trick.
+Si aucun atout n'est joué, la levée est remportée par la carte la plus forte de la couleur demandée. Si des atouts ont été joués, l'atout le plus fort remporte la levée. Le vainqueur de la levée rassemble les quatre cartes, les empile face cachée dans la pile de levées de l'équipe, et entame n'importe quelle carte pour la levée suivante.
 
-## Scoring
+## Marque des points
 
-After the eighth trick, the tricks won by each team are counted.
+Après la huitième levée, les levées remportées par chaque équipe sont comptées.
 
-- If the team that chose the trump suit have 5, 6 or 7 tricks, they win one token cards from the opponents' supply.
+- Si l'équipe qui a choisi la couleur d'atout a 5, 6 ou 7 levées, elle gagne une carte-jeton du stock des adversaires.
 
-- If the team that did not choose the trump suit have 5, 6 or 7 tricks, they win two token cards.
+- Si l'équipe qui n'a pas choisi la couleur d'atout a 5, 6 ou 7 levées, elle gagne deux cartes-jetons.
 
-- If either team wins all 8 tricks, they win three token cards. This is known as **Kapothi**, or in the south as **Basthe**.
+- Si l'une des équipes remporte les 8 levées, elle gagne trois cartes-jetons. C'est ce qu'on appelle **Kapothi**, ou au sud **Basthe**.
 
-- If the teams take 4 tricks each, no token cards are transferred, but an extra token card is won the next time a team takes more than 4 tricks.
+- Si les équipes prennent 4 levées chacune, aucune carte-jeton n'est transférée, mais une carte-jeton supplémentaire est gagnée la prochaine fois qu'une équipe remporte plus de 4 levées.
 
-The winners are the first team to win 10 or more tokens. So when a team runs out of token cards in their supply, or does not have enough token cards to pay the winning team, they have lost the game.
+Les vainqueurs sont la première équipe à gagner 10 jetons ou plus. Ainsi, quand une équipe n'a plus de cartes-jetons dans son stock, ou n'a pas assez de cartes-jetons pour payer l'équipe gagnante, elle a perdu la partie.
 
-## Tactics
+## Tactiques
 
-When choosing trumps, one should select the suit in which one has most cards. Between two equal suits one of which contains the ace, it is better to make the other suit trumps, since the ace is likely to win a trick whether it is a trump or not.
+En choisissant l'atout, on devrait sélectionner la couleur dans laquelle on a le plus de cartes. Entre deux couleurs égales dont l'une contient l'as, il vaut mieux choisir l'autre couleur comme atout, puisque l'as est susceptible de remporter une levée qu'il soit atout ou non.
 
-As in any partnership trick-taking game, it is important to remember what cards have been played and to co-operate with your partner. So for example you should not normally beat or trump your partner's card when your partner is likely to win the trick.
+Comme dans tout jeu de levées en équipe, il est important de se souvenir des cartes qui ont été jouées et de coopérer avec son partenaire. Ainsi, par exemple, on ne devrait normalement pas surmonter ou atouter la carte de son partenaire quand celui-ci est susceptible de remporter la levée.
 
-If your partner plays a winning card and you have no card of that suit, you may discard a card of the suit that you would like your partner to lead next, either because you have the highest card of that suit, or because it is your only card of the suit and you will be able to trump it.
+Si votre partenaire joue une carte gagnante et que vous n'avez pas de carte de cette couleur, vous pouvez défausser une carte de la couleur que vous aimeriez que votre partenaire entame ensuite, soit parce que vous avez la carte la plus forte de cette couleur, soit parce que c'est votre seule carte de cette couleur et que vous pourrez l'atouter.
 
-Holding the ace and a queen of a suit that is led by another player it is often worth *finessing*, playing the queen rather than the ace, which can gain a trick when the opponent to your left has the king.
+Détenant l'as et une dame d'une couleur demandée par un autre joueur, il vaut souvent la peine de *finesser*, en jouant la dame plutôt que l'as, ce qui peut permettre de gagner une levée quand l'adversaire à votre gauche a le roi.
 
-It is difficult to choose trump when holding four cards of different suits - essentially one has to trust to luck. Some players pick the suit of the lowest card in this situation. Some players, holding four cards in three suits, with two low cards in one suit, will choose as trumps the suit in which they have no cards, hoping either to get trumps in the second part of the deal, or that partner will get them.
+Il est difficile de choisir l'atout avec quatre cartes de couleurs différentes — il faut essentiellement s'en remettre à la chance. Certains joueurs choisissent la couleur de la carte la plus basse dans cette situation. Certains joueurs, ayant quatre cartes en trois couleurs, avec deux cartes basses dans une couleur, choisiront comme atout la couleur dans laquelle ils n'ont pas de carte, en espérant soit obtenir des atouts dans la deuxième partie de la distribution, soit que le partenaire en obtienne.
 
-## Variations
+## Variantes
 
-Some play that in order to win 3 tokens for taking 8 tricks, you need to announce before the seventh trick that you intend to win all eight tricks. If, having announed this, you then lose one of the last two tricks you have to give 4 tokens to the opponents.
+Certains jouent que pour gagner 3 jetons en remportant 8 levées, il faut annoncer avant la septième levée que l'on a l'intention de remporter les huit levées. Si, après avoir annoncé cela, on perd l'une des deux dernières levées, on doit donner 4 jetons aux adversaires.
 
-## Software
+## Logiciels
 
-Here is a free computer version of [Omi Sinhala](https://zipwaves.blogspot.com/2009/03/oombi-sinhala-or-omi-sinhala.html) for Windows.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Omi
+Voici une version informatique gratuite d'[Omi Sinhala](https://zipwaves.blogspot.com/2009/03/oombi-sinhala-or-omi-sinhala.html) pour Windows.

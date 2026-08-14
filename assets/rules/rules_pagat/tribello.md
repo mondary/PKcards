@@ -3,36 +3,34 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** A whist-like game for three players in four rounds played in Illinois, USA.
+**But :** Jeu de type whist pour trois joueurs en quatre manches, joué dans l'Illinois, États-Unis.
 
 ---
 
-*This game from Illinois, USA was contributed by Mary Beale whose family (from Dekalb county) have played it since the 1930's or 40's*
+*Ce jeu de l'Illinois, États-Unis, a été contribué par Mary Beale, dont la famille (du comté de DeKalb) y joue depuis les années 1930 ou 1940.*
 
-Tribello is a trick-taking game of the Whist type for three players, using a standard 52-card deck with no jokers.
+Tribello est un jeu de plis de type Whist pour trois joueurs, utilisant un jeu standard de 52 cartes sans jokers.
 
-Deal out four hands of 13 cards each - one for each player and a spare hand called the **pickup**. The cards are dealt out one card at a time, with the last card going to the dealer. The order of dealing to the two opponents of the dealer and to the pickup is not specified, but whatever order you choose, you must be consistent. 
+Distribuez quatre mains de 13 cartes chacune — une pour chaque joueur et une main supplémentaire appelée le **pickup**. Les cartes sont distribuées une par une, la dernière carte allant au donneur. L'ordre de distribution aux deux adversaires du donneur et au pickup n'est pas précisé, mais quel que soit l'ordre choisi, il faut être constant.
 
-There are four rounds of play with three deals per round (twelve deals in all). The turn to deal passes to the left after each hand, so that each player plays once in each of the three positions in each round. In the first three rounds the object is to win tricks; in the fourth the aim is to avoid winning tricks. The rounds are as follows:
+Il y a quatre manches de jeu avec trois donnes par manche (douze donnes au total). Le tour de distribuer passe à la gauche après chaque main, de sorte que chaque joueur joue une fois dans chacune des trois positions à chaque manche. Dans les trois premières manches, le but est de remporter des plis ; dans la quatrième, l'objectif est d'éviter de remporter des plis. Les manches sont les suivantes :
 
-- In the first round, before dealing, cut the cards - **the suit of the cut card is the trump suit**.
+- Dans la première manche, avant de distribuer, coupez les cartes — **la couleur de la carte coupée est la couleur d'atout**.
 
-- In the second round, **dealer names trump** after looking at his hand.
+- Dans la deuxième manche, **le donneur nomme l'atout** après avoir examiné sa main.
 
-- In the third round, there is **no trump**. 
+- Dans la troisième manche, il n'y a **pas d'atout**.
 
-- The fourth round is also played without trumps and the objective is to **avoid taking tricks** (This is called **nullo**.) 
+- La quatrième manche se joue également sans atout et l'objectif est d'**éviter de remporter des plis** (C'est ce qu'on appelle le **nullo**.)
 
-In the first three rounds, the dealer has a quota of **six** tricks, the person to the left of the dealer has a quota of **four** tricks, and the person to the right of the dealer has a quota of **three** tricks. If you take more than your quota you score one point per extra trick; if you take less than your quota you score minus one point per trick below quota.
+Dans les trois premières manches, le donneur a un quota de **six** plis, le joueur à la gauche du donneur a un quota de **quatre** plis, et le joueur à la droite du donneur a un quota de **trois** plis. Si vous prenez plus que votre quota, vous marquez un point par pli supplémentaire ; si vous prenez moins que votre quota, vous marquez moins un point par pli en dessous du quota.
 
-In the fourth (**nullo**) round, the dealer has a quota of **three** tricks, the person to the left of the dealer has a quota of **four** tricks, and the person to the right of the dealer has a quota of **six** tricks. If you take more that your quota you score minus one point for each surplus trick; if you take less than your quota you score plus one for each trick below.
+Dans la quatrième manche (**nullo**), le donneur a un quota de **trois** plis, le joueur à la gauche du donneur a un quota de **quatre** plis, et le joueur à la droite du donneur a un quota de **six** plis. Si vous prenez plus que votre quota, vous marquez moins un point pour chaque pli excédentaire ; si vous prenez moins que votre quota, vous marquez plus un pour chaque pli en dessous.
 
-For each round, after the players have looked at their hands, the dealer decides how many cards he wants from the pickup (zero to 13). He discards this number of cards from his hand, and then draws an equal number from the top of the pickup, which remains face down. If there are cards remaining in the pickup (which there virtually always are), the player to the left of the dealer can then discard as many cards as he wishes, up to the number remaining in the pickup, and draw replacements from the pickup. If there are still some cards left, the person to dealer's right can discard and draw in the same way. The discards are placed face down in a separate discard pile to be shuffled with the rest of the cards for the next deal.
+Pour chaque manche, après que les joueurs ont examiné leur main, le donneur décide combien de cartes il veut du pickup (de zéro à 13). Il défausse ce nombre de cartes de sa main, puis pioche le même nombre depuis le dessus du pickup, qui reste face cachée. S'il reste des cartes dans le pickup (ce qui est presque toujours le cas), le joueur à la gauche du donneur peut alors défausser autant de cartes qu'il souhaite, jusqu'au nombre restant dans le pickup, et piocher des remplacements. S'il reste encore des cartes, le joueur à la droite du donneur peut défausser et piocher de la même manière. Les défausses sont posées face cachée dans une pile de défausse séparée, à battre avec le reste des cartes pour la donne suivante.
 
-The dealer leads to the first trick. Players must follow with a card of the suit led if they have one. A player who has no card of the suit led may play any card. If any trumps are played to the trick, the highest trump wins it; otherwise it is won by the highest card played of the suit that was led. The winner of the trick leads to the next trick. 
+Le donneur entame le premier pli. Les joueurs doivent suivre avec une carte de la couleur demandée s'ils en ont. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. Si des atouts sont joués dans le pli, le plus haut atout l'emporte ; sinon, c'est la plus haute carte jouée de la couleur demandée qui l'emporte. Le gagnant du pli entame le pli suivant.
 
-In round three there are no trumps, so each trick is simply won by the highest card of the suit led. In the fourth (nullo) round, the point is to avoid taking tricks, but the highest card of the suit led wins just as in the third round.
+Dans la troisième manche, il n'y a pas d'atout, donc chaque pli est simplement remporté par la plus haute carte de la couleur demandée. Dans la quatrième manche (nullo), le but est d'éviter de remporter des plis, mais la plus haute carte de la couleur demandée l'emporte comme dans la troisième manche.
 
-The total score for each hand must equal zero, as must the total score for the twelve hands of the game. The winner is the player with the most points at the end of the fourth round.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Tribello
+Le score total de chaque main doit être égal à zéro, tout comme le score total des douze mains de la partie. Le gagnant est le joueur ayant le plus de points à la fin de la quatrième manche.

@@ -3,154 +3,152 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** A trick-taking game with trumps and bidding played in several Middle Eastern countries.
+**But :** Un jeu de prise de plis avec atouts et enchères joué dans plusieurs pays du Moyen-Orient.
 
 ---
 
 ## Introduction
 
-Tarneeb is a plain trick-taking game for four players with trumps and bidding. It is popular in various versions in several Middle Eastern countries, possibly having originated in Lebanon. Tarneeb is the Arabic word for "trump" in this game.
+Tarneeb est un jeu de prise de plis pour quatre joueurs avec atouts et enchères. Il est populaire dans diverses versions dans plusieurs pays du Moyen-Orient, ayant probablement pour origine le Liban. Tarneeb est le mot arabe pour « atout » dans ce jeu.
 
-There are two main versions. In the original and simpler form of the game, which is described first, players bid only the number of tricks their team will take. In the more elaborate version, which is popular in Egypt, the bid includes the proposed trump suit as well.
+Il existe deux versions principales. Dans la forme originale et plus simple du jeu, décrite en premier, les joueurs n'enchérissent que le nombre de plis que leur équipe prendra. Dans la version plus élaborée, populaire en Égypte, l'enchère inclut également la couleur d'atout proposée.
 
-This page is based on information from Salah Wassef, Cesar, Ash Ponders and others.
+Cette page est basée sur des informations de Salah Wassef, Cesar, Ash Ponders et d'autres.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners facing each other. 
+Il y a quatre joueurs en partenariats fixes, les partenaires faisant face l'un à l'autre.
 
-A standard international 52-card pack is used, the cards in each suit ranking from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Un jeu standard international de 52 cartes est utilisé, les cartes de chaque couleur étant classées de haut en bas : A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-The game is normally played counter-clockwise.
+Le jeu se joue normalement dans le sens antihoraire.
 
-## Deal
+## Donnée
 
-The first dealer is chosen and random. After each hand the turn to deal passes to the right. The cards are shuffled and cut, and are all dealt out, one at a time so that everyone has 13 cards.
+Le premier donneur est choisi au hasard. Après chaque main, le tour de donner passe à la droite. Les cartes sont mélangées et coupées, et sont toutes distribuées, une à la fois de sorte que chacun ait 13 cartes.
 
-## Bidding
+## Enchères
 
-The bidding begins with the player to dealer's right and continues counterclockwise.
+Les enchères commencent avec le joueur à la droite du donneur et continuent dans le sens antihoraire.
 
-The bids are numbers, representing the number of tricks that the bidder's team undertakes to win. The lowest bid is seven and the highest is thirteen. Each bid must be higher than the last.
+Les enchères sont des nombres, représentant le nombre de plis que l'équipe de l'enchérisseur s'engage à gagner. L'enchère la plus basse est sept et la plus haute est treize. Chaque enchère doit être supérieure à la précédente.
 
-A player who does not wish to bid at their turn can pass. Once you have passed you drop out of the bidding - you cannot bid again on a later turn.
+Un joueur qui ne souhaite pas enchérir à son tour peut passer. Une fois que vous avez passé, vous sortez de l'enchère — vous ne pouvez plus enchérir lors d'un tour ultérieur.
 
-If all four players pass on their first turn to speak, the hand is thrown in, and the cards are shuffled and redealt by the same dealer.
+Si les quatre joueurs passent à leur premier tour de parole, la main est jetée, et les cartes sont mélangées et redistribuées par le même donneur.
 
-Otherwise the bidding continues around the table as many times as necessary until all players but one have passed. The final bidder then announces the trump suit (tarneeb) and leads to the first trick.
+Sinon, les enchères continuent autour de la table autant de fois que nécessaire jusqu'à ce que tous les joueurs sauf un aient passé. Le dernier enchérisseur annonce alors la couleur d'atout (tarneeb) et entame le premier pli.
 
-There is also the option to announce that the hand will be played without trumps. 
+Il y a aussi l'option d'annoncer que la main sera jouée sans atouts.
 
-| Example of bidding: |
-| North(dealer) | West | South | East |
-| --- | pass | 7 | 8 |
-| 10 | --- | pass | 11 |
-| pass | | | |
+| Exemple d'enchères : |
+| Nord (donneur) | Ouest | Sud | Est |
+| --- | passe | 7 | 8 |
+| 10 | --- | passe | 11 |
+| passe | | | |
 
-Here West began the bidding, since North dealt. West could not say anything over North's bid of 10, since he has already passed at his first turn. The bidding ends when North passes, and East must now choose trumps.
+Ici, l'Ouest a commencé les enchères puisque Nord a donné. L'Ouest ne pouvait rien dire sur l'enchère de 10 de Nord, puisqu'il avait déjà passé à son premier tour. L'enchère se termine lorsque Nord passe, et Est doit maintenant choisir les atouts.
 
-## Play
+## Jeu
 
-The player who won the bidding leads to the first trick, and thereafter the winner of each trick leads to the next.
+Le joueur qui a remporté les enchères entame le premier pli, et ensuite le gagnant de chaque pli entame le suivant.
 
-Play is counterclockwise. Players must follow suit if able to. Those unable to follow suit may play any card - either trump (tarneeb) or discard a card of another suit (sakret).
+Le jeu se fait dans le sens antihoraire. Les joueurs doivent suivre la couleur s'ils le peuvent. Ceux qui ne peuvent pas suivre la couleur peuvent jouer n'importe quelle carte — soit un atout (tarneeb), soit défausser une carte d'une autre couleur (sakret).
 
-Each trick is won by the highest trump in it, or by the highest card of the suit led if it contains no trumps.
+Chaque pli est gagné par la plus haute carte d'atout, ou par la plus haute carte de la couleur demandée s'il ne contient pas d'atouts.
 
-## Scoring
+## Marque
 
-The bidder's team tries to take at least as many tricks as they bid. If their bid is less than 13 and succeed, they score the number of tricks they won, and the other team scores nothing. If the bidding team takes fewer tricks than they bid, they lose the amount of their bid, and the other team scores the number of tricks they won.
+L'équipe de l'enchérisseur essaie de prendre au moins autant de plis qu'elle a annoncé. Si son enchère est inférieure à 13 et réussit, elle marque le nombre de plis qu'elle a gagnées, et l'autre équipe ne marque rien. Si l'équipe qui a enchéri prend moins de plis que prévu, elle perd le montant de son enchère, et l'autre équipe marque le nombre de plis qu'elle a gagnées.
 
-Winning all 13 tricks is called kaboot. If the bid was less than 13, kaboot brings a bonus of 3 points, so 16 points in total instead of 13.
+Gagner les 13 plis s'appelle kaboot. Si l'enchère était inférieure à 13, le kaboot rapporte un bonus de 3 points, soit 16 points au total au lieu de 13.
 
-If a team bids 13 tricks and wins them all, they score 26 points. If they lose any tricks, they score minus 16 and the other team scores double the number the tricks that they win.
+Si une équipe enchérit 13 plis et les gagne toutes, elle marque 26 points. Si elle perd des plis, elle marque moins 16 et l'autre équipe marque le double du nombre de plis qu'elle a gagnées.
 
-Further hands are played until one team achieves a cumulative score of 31 points or more, and wins the game.
+D'autres mains sont jouées jusqu'à ce qu'une équipe atteigne un score cumulé de 31 points ou plus, et remporte la partie.
 
-## Variations
+## Variantes
 
-Some play the whole game clockwise, in which case the player to the left of the dealer begins the bidding.
+Certains jouent toute la partie dans le sens horaire, auquel cas le joueur à la gauche du donneur commence les enchères.
 
-Some allow the cards to be dealt in a single batch of 13 to each player. 
+Certains autorisent la distribution des cartes en un seul lot de 13 à chaque joueur.
 
-In some parts of Lebanon, each player is allowed only one bid. After everyone has spoken, the auction is at an end. Players cannot increase their bids. In this version the dealer, who bids last, need only equal the highest bid made by another player to take over the role of bidder.
+Dans certaines parties du Liban, chaque joueur n'est autorisé qu'à une seule enchère. Après que tout le monde a parlé, l'enchère est terminée. Les joueurs ne peuvent pas augmenter leurs enchères. Dans cette version, le donneur, qui enchérit en dernier, n'a besoin que d'égaler l'enchère la plus élevée faite par un autre joueur pour reprendre le rôle d'enchérisseur.
 
-Some play that if the first three players pass, the dealer is forced to bid seven.
+Certains jouent que si les trois premiers joueurs passent, le donneur est forcé d'enchérir sept.
 
-Some play that the bidder must lead a trump to the first trick.
+Certains jouent que l'enchérisseur doit entamer un atout au premier pli.
 
-If the players agree at the start, the score required to win the game may be set at 41, 51 or 61 rather than 31.
+Si les joueurs en conviennent au départ, le score requis pour gagner la partie peut être fixé à 41, 51 ou 61 plutôt que 31.
 
-Some play that the cards may be thrown in immediately after the deal by any player who has
+Certains jouent que les cartes peuvent être jetées immédiatement après la distribution par tout joueur qui a
 
-- no ace, and
+- aucun as, et
 
-- no king in a suit of two cards or more, and
+- aucun roi dans une couleur de deux cartes ou plus, et
 
-- no queen in a suit of three cards or more, and
+- aucune dame dans une couleur de trois cartes ou plus, et
 
-- no jack in a suit of four cards or more.
+- aucun valet dans une couleur de quatre cartes ou plus.
 
-In other words, the player has no card that could take a trick if an opponent led the suit from the top down: A, K, Q, ... In this case, the cards are shuffled and dealt by the next dealer.
+En d'autres termes, le joueur n'a aucune carte qui pourrait prendre un pli si un adversaire entamait la couleur du haut vers le bas : A, R, D, ... Dans ce cas, les cartes sont mélangées et distribuées par le donneur suivant.
 
-Some require a player who holds 10 or more cards of any one suit either
+Certains exigent qu'un joueur qui détient 10 cartes ou plus d'une seule couleur soit tenu de
 
-- to pass, or
+- passer, ou
 
-- to bid kaboot, an undertaking to win all 13 tricks with partner's help, or
+- enchérir kaboot, un engagement à gagner les 13 plis avec l'aide du partenaire, ou
 
-- to throw in the hand: the cards are shuffled and redealt by the same dealer.
+- jeter la main : les cartes sont mélangées et redistribuées par le même donneur.
 
-## Egyptian Tarneeb
+## Tarneeb égyptien
 
-There is a popular variation played mostly in Egypt in which each bid specifies the proposed trump suit as well as the number of tricks. The suits are ranked from high to low: No Trump, Spades, Hearts, Diamonds, Clubs. To overcall the previous bidder, you must bid the same number of tricks in a higher suit, or a greater number of tricks in any suit. So the lowest bid is 7 clubs, the highest is 13 No Trump.
+Il existe une variante populaire jouée principalement en Égypte dans laquelle chaque enchère spécifie la couleur d'atout proposée ainsi que le nombre de plis. Les couleurs sont classées de haut en bas : Sans Atout, Pique, Cœur, Carreau, Trèfle. Pour surenchérir sur le précédent enchérisseur, vous devez enchérir le même nombre de plis dans une couleur supérieure, ou un plus grand nombre de plis dans n'importe quelle couleur. Ainsi, l'enchère la plus basse est 7 trèfle, la plus haute est 13 Sans Atout.
 
-Starting with the player to dealer's right, each player in turn may either:
+En commençant par le joueur à la droite du donneur, chaque joueur à son tour peut soit :
 
-- Pass
+- Passer
 
-- Bid higher than the highest bid so far
+- Enchérir plus haut que l'enchère la plus élevée jusqu'à présent
 
-- Double, if the last bid was by an opponent
+- Contrer, si la dernière enchère était d'un adversaire
 
-In this version of Tarneeb, passing (or doubling) does not prevent you from bidding on a future turn.
+Dans cette version de Tarneeb, passer (ou contrer) ne vous empêche pas d'enchérir lors d'un tour ultérieur.
 
-The bidding continues until there is a complete round in which none of the four players bids. Then the play begins. The declarer leads and the trump suit (or no trump) is as specified in the final bid.
+Les enchères continuent jusqu'à ce qu'il y ait un tour complet pendant lequel aucun des quatre joueurs n'enchérit. Ensuite, le jeu commence. Le déclarant entame et la couleur d'atout (ou sans atout) est telle que spécifiée dans l'enchère finale.
 
-This bidding process may look similar to bidding in Bridge, but there are two important differences.
+Ce processus d'enchères peut ressembler aux enchères au Bridge, mais il y a deux différences importantes.
 
-- Three consecutive passes do not end the bidding. If you bid 8 hearts and the other three players pass, you still have the chance to change to a higher bid - for example 8 spades or 9 diamonds - and if you do that everyone else gets another chance to bid as well.
+- Trois passes consécutives ne terminent pas les enchères. Si vous enchérissez 8 cœurs et que les trois autres joueurs passent, vous avez encore la chance de changer pour une enchère plus élevée — par exemple 8 pique ou 9 carreau — et si vous le faites, tout le monde a une autre chance d'enchérir aussi.
 
-- A double does not count as a bid. If you bid 9 spades, your right-hand opponent and your partner pass, your left-hand opponent doubles and you pass, that is the end of the bidding. The contract is 9 spades doubled.
+- Un contré ne compte pas comme une enchère. Si vous enchérissez 9 pique, votre adversaire de droite et votre partenaire passent, votre adversaire de gauche contré et vous passez, c'est la fin des enchères. Le contrat est 9 pique contré.
 
-If the final bid is not doubled, the scoring is the same as in the version where the bids are just numbers. The bidders score the number of tricks they took if sufficient. Otherwise they lose the amount of their bid and the opponents score for their own tricks.
+Si l'enchère finale n'est pas contrée, le marquage est le même que dans la version où les enchères sont juste des nombres. Les enchérisseurs marquent le nombre de plis qu'ils ont pris si suffisant. Sinon, ils perdent le montant de leur enchère et les adversaires marquent pour leurs propres plis.
 
-If the final bid is doubled, this doubles the amount won or lost by the bidding side, but does not affect the amount scored by the opponents if the bidding side loses.
+Si l'enchère finale est contrée, cela double le montant gagné ou perdu par l'équipe qui a enchéri, mais n'affecte pas le montant marqué par les adversaires si l'équipe qui a enchéri perd.
 
-For example, if the contract is 10 hearts doubled:
+Par exemple, si le contrat est 10 cœurs contré :
 
-- if the bidders win 11 tricks, they score 22 points;
+- si les enchérisseurs gagnent 11 plis, ils marquent 22 points ;
 
-- if the bidder win 8 tricks, they score -20 points and the opponents score 5;
+- si les enchérisseurs gagnent 8 plis, ils marquent -20 points et les adversaires marquent 5 ;
 
-- if the bidders win 13 tricks they score 32 points (twice the usual 16).
+- si les enchérisseurs gagnent 13 plis, ils marquent 32 points (le double des 16 habituels).
 
-The target score to win the game is usually set at 41 in this Egyptian variant.
+Le score cible pour gagner la partie est généralement fixé à 41 dans cette variante égyptienne.
 
-### Variations of Egyptian Tarneeb
+### Variantes du Tarneeb égyptien
 
-If the final bid is doubled, some players allow the bidder or his partner to redouble, multiplying their score for the hand by 4 instead of 2.
+Si l'enchère finale est contrée, certains joueurs autorisent l'enchérisseur ou son partenaire à surcontrer, multipliant leur score pour la main par 4 au lieu de 2.
 
-Some play that a double or redouble also multiplies the opponent's score for tricks by 2 or 4, in the event that the bidder fails.
+Certains jouent qu'un contré ou surcontré multiplie aussi le score de l'adversaire pour les plis par 2 ou 4, dans le cas où l'enchérisseur échoue.
 
-## Other Tarneeb Web Sites
+## Autres sites web sur Tarneeb
 
-There is a [Wikipedia article on Tarneeb](https://en.wikipedia.org/wiki/Tarneeb).
+Il existe un [article Wikipedia sur Tarneeb](https://en.wikipedia.org/wiki/Tarneeb).
 
-You can play Tarneeb online at the [Cardzmania](https://www.cardzmania.com/) website.
+Vous pouvez jouer à Tarneeb en ligne sur le site [Cardzmania](https://www.cardzmania.com/).
 
-Tarneeb can be played online at the [Jawaker](https://www.jawaker.com/en) web site.
+Tarneeb peut être joué en ligne sur le site [Jawaker](https://www.jawaker.com/en).
 
-A free Windows program with which you can play Egyptian Tarneeb against the computer is available from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Tarneeb
+Un programme Windows gratuit avec lequel vous pouvez jouer au Tarneeb égyptien contre l'ordinateur est disponible sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

@@ -3,158 +3,153 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** Also known as Blooper, a 4-player card game in which each team tries to win at least the total number of tricks bid by the partners.
-**Autres noms :** Blooper
+**But :** Jeu de cartes à 4 joueurs dans lequel chaque équipe tente de remporter au moins le nombre total de levées enchéries par les partenaires. Autres noms : Blooper, Back Alley Bridge, Back Street Bridge
 
 ---
 
-This page is based on information collected from several contributors.
+Cette page est basée sur des informations recueillies auprès de plusieurs contributeurs.
 
 ## Introduction
 
-Back Alley, also known as Back Alley Bridge or sometimes as Back Street Bridge originated in the American military, probably during World War II. The practice of varying the number of cards dealt on each hand and of determining the trump suit at random is slightly reminscent of Oh Hell!, but the objective in this game is always to win tricks, not to take the exact number that were bid.
+Le Back Alley, aussi connu sous le nom de Back Alley Bridge ou parfois Back Street Bridge, est originaire de l'armée américaine, probablement pendant la Seconde Guerre mondiale. La pratique de faire varier le nombre de cartes distribuées à chaque donne et de déterminer la couleur d'atout au hasard rappelle un peu Oh Hell!, mais l'objectif de ce jeu est toujours de gagner des levées, et non d'en prendre exactement le nombre enchéri.
 
-The first version of Back Alley described on this page, which seems to be the more prevalent, may have originated in the 1960's during the Vietnam war. It is a partnership game, normally played with two jokers, known as bloopers, and the game itself is sometimes called Blooper. It has a fairly strong similarity to Spades, in that the bids of the partners are added together.
+La première version du Back Alley décrite sur cette page, qui semble être la plus répandue, pourrait être originaire des années 1960 pendant la guerre du Vietnam. C'est un jeu d'équipe, normalement joué avec deux jokers, appelés bloopers, et le jeu lui-même est parfois appelé Blooper. Il présente une forte ressemblance avec le Spades, en ce que les enchères des partenaires sont additionnées.
 
-The second version is played without partners. There are no jokers, and the ![diamond](../images/internat/diamond.gif)2 is usually the highest trump. This version corresponds more closely to the original game played in the 1940's.
+La seconde version se joue sans partenaire. Il n'y a pas de jokers, et le ![carreau](../images/internat/diamond.gif)2 est généralement le plus haut atout. Cette version correspond plus étroitement au jeu original des années 1940.
 
-## Partnership Back Alley
+## Back Alley en équipe
 
-### Players
+### Joueurs
 
-There are four players in fixed partnerships, partners sitting opposite. The game is played
-clockwise.
+Quatre joueurs en équipes fixes, les partenaires étant assis en face. Le jeu se déroule dans le sens horaire.
 
-### Cards
+### Cartes
 
-54 - a standard 52 card pack with two distinguishable jokers, big and little. The jokers are known as bloopers or blookers. The cards in each non-trump suit rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. The big blooper is the highest trump and the little blooper is second highest, so the order of trumps is BB-LB-A-K-Q-J-10-9-8-7-6-5-4-3-2.
+54 — un jeu standard de 52 cartes avec deux jokers distincts, le grand et le petit. Les jokers sont appelés bloopers ou blookers. Les cartes de chaque couleur non-atout se classent de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2. Le grand blooper est le plus haut atout et le petit blooper est le deuxième plus haut, l'ordre des atouts est donc GB-pB-A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-### Deal
+### La donne
 
-13 cards each in the first hand, then one card fewer each successive hand down to one card each. Then a second hand with one card dealt to each player and rising again to a final deal of 13 each, so that there are 26 deals in a complete game. Turn to deal passes clockwise. So a complete game consists of 25 deals. After the four hands have been dealt the next card is turned up and its suit is trumps for the hand. If the turn up is a joker (blooper) there are no trumps and the holder (if any) of the other joker must discard it and take the next undealt card in exchange.
+13 cartes chacun lors de la première donne, puis une carte de moins à chaque donne successive jusqu'à une carte chacun. Ensuite, une seconde donne d'une carte à chaque joueur en remontant jusqu'à une donne finale de 13 cartes chacun, soit 26 donnes au total. Le tour de donne passe dans le sens horaire. Ainsi, une partie complète compte 25 donnes. Après la distribution des quatre mains, la carte suivante est retournée et sa couleur est l'atout pour la donne. Si la carte retournée est un joker (blooper), il n'y a pas d'atout et le détenteur (s'il y en a un) de l'autre joker doit le défausser et prendre la prochaine carte non distribuée en échange.
 
-### Bidding
+### Les enchères
 
-Starting to dealer's left, each player in turn has just one bid. The possible bids are 'pass', a positive whole number, or 'board'. There is no requirement for each bid to be higher than the previous one.
+En commençant par le joueur à la gauche du donneur, chaque joueur n'a qu'une seule enchère. Les enchères possibles sont « passe », un nombre entier positif, ou « board ». Il n'est pas nécessaire que chaque enchère soit supérieure à la précédente.
 
-- If all pass the cards are thrown in and there is a new deal of the same number of cards by the next dealer. 
+- Si tous passent, les cartes sont jetées et il y a une nouvelle donne du même nombre de cartes par le prochain donneur.
 
-- If both members of a team bid a number, those numbers are added and the team's aim is to win at least that many tricks. A pass counts as zero. So if the members of a team bid 1 and 4 they try to win at least 5 tricks between them. If they bid pass and 3 they try to win at least 3 tricks. If both pass they have no minimum target, though any tricks they do win will benefit them slightly. The maximum number bid allowed is one less than the number of cards dealt.
+- Si les deux membres d'une équipe enchérissent un nombre, ces nombres sont additionnés et l'objectif de l'équipe est de gagner au moins ce nombre de levées. Un passe compte comme zéro. Ainsi, si les membres d'une équipe enchérissent 1 et 4, ils essaient de gagner au moins 5 levées ensemble. S'ils enchérissent passe et 3, ils essaient de gagner au moins 3 levées. Si les deux passent, ils n'ont pas de minimum, bien que toute levée gagnée leur soit légèrement bénéfique. Le nombre maximum enchéri autorisé est un de moins que le nombre de cartes distribuées.
 
-- A player who bids 'board' commits his or her team to try to win all the tricks. If more than one player bids board, the second board bid is a 'double board', the third is a 'triple board' and the fourth is a 'quadruple board'.
+- Un joueur qui enchérit « board » engage son équipe à tenter de gagner toutes les levées. Si plus d'un joueur enchérit board, le deuxième board est un « double board », le troisième un « triple board » et le quatrième un « quadruple board ».
 
-### Play
+### Le jeu
 
-The highest bidder leads to the first trick. If more than one player bid the same number the earliest of those bidders leads. If more than one player bid a board the last of them leads.
+Le plus haut enchérisseur entame la première levée. Si plusieurs joueurs ont enchéri le même nombre, le premier d'entre eux entame. Si plusieurs joueurs ont enchéri un board, le dernier d'entre eux entame.
 
-Players must follow suit. If unable to follow suit you may play any card. The trick is won by the highest trump in it, or if it contains no trumps, by the highest card of the suit led. The winner of a trick leads to the next.
+Les joueurs doivent suivre la couleur. S'ils ne peuvent pas suivre, ils peuvent jouer n'importe quelle carte. La levée est gagnée par le plus haut atout présent, ou si elle ne contient pas d'atout, par la carte la plus haute de la couleur entamée. Le gagnant d'une levée entame la suivante.
 
-It is illegal to lead a trump unless either 
+Il est interdit d'entamer un atout sauf si :
 
-- trumps have been 'broken' - i.e. someone has already played a trump to a previous trick, or
+- les atouts ont été « cassés » — c'est-à-dire que quelqu'un a déjà joué un atout lors d'une levée précédente, ou
 
-- you have bid a board (or a double, triple or quadruple board).
+- vous avez enchéri un board (ou un double, triple ou quadruple board).
 
-If the big blooper is led to a trick, each of the other players must play their highest trump. If the little blooper is led the other players must play their lowest trump (note that the little blooper might still be beaten if someone's only remaining trump was the big blooper). These constraints do not apply when a blooper is played other than as the first card of a trick. Also, a player who has no trumps is free to discard any card when a blooper is led.
+Si le grand blooper est entamé dans une levée, chacun des autres joueurs doit jouer son atout le plus haut. Si le petit blooper est entamé, les autres joueurs doivent jouer leur atout le plus bas (notez que le petit blooper peut quand même être battu si le seul atout restant de quelqu'un est le grand blooper). Ces contraintes ne s'appliquent pas lorsqu'un blooper est joué autrement qu'en première carte d'une levée. De plus, un joueur qui n'a pas d'atout est libre de défausser n'importe quelle carte lorsqu'un blooper est entamé.
 
-### Scoring
+### Score
 
-A team which wins at least as many tricks as they bid scores 5 points per trick bid, plus 1 point for each trick won in excess of the bid. If they win fewer tricks than they bid, they lose 5 points for each trick bid.
+Une équipe qui gagne au moins autant de levées qu'elle a enchéri marque 5 points par levée enchérie, plus 1 point pour chaque levée gagnée au-delà de l'enchère. Si elle gagne moins de levées qu'elle a enchéri, elle perd 5 points par levée enchérie.
 
-A team which bid board scores 10 points per trick if they succeed in winning all the tricks; if they fail they lose the same amount (e.g. 50 points in a five card hand). A team which bid double, triple or quadruple board wins 2, 3 or 4 times as much. (When a team bids board only their highest bid counts; the other partner's bid does not affect the score). 
+Une équipe qui a enchéri un board marque 10 points par levée si elle réussit à gagner toutes les levées ; si elle échoue, elle perd le même montant (par exemple 50 points dans une donne de cinq cartes). Une équipe qui a enchéri un double, triple ou quadruple board gagne respectivement 2, 3 ou 4 fois plus. (Lorsqu'une équipe enchérit un board, seule son enchère la plus élevée compte ; l'enchère de l'autre partenaire n'affecte pas le score.)
 
-### Variations
+### Variantes
 
 Boards
-Some play that after any player has bid board, the player's partner may increase the team's bid to a double board, which scores 15 points per trick. So if you started with a number and your partner bid board, you could increase it to double board. In this version it is possible for both teams to bid board or double board independently of each other; there is no triple or quadruple board bid. In determining the first lead, I think that double board takes precedence over board, and between two equal bids, the player whose first turn to bid was earlier has precedence.
+Certains jouent qu'après qu'un joueur a enchéri un board, le partenaire de ce joueur peut augmenter l'enchère de l'équipe à un double board, qui rapporte 15 points par levée. Ainsi, si vous aviez commencé par un nombre et votre partenaire a enchéri un board, vous pouvez l'augmenter à un double board. Dans cette version, il est possible que les deux équipes enchérissent un board ou un double board indépendamment ; il n'y a pas d'enchère de triple ou quadruple board. Pour déterminer la première entame, le double board a priorité sur le board, et entre deux enchères égales, le joueur dont le premier tour d'enchère était le plus tôt a priorité.
 
 Boston
-This is a bid, in a hand with more than 6 cards dealt, undertaking that the bidding team will win the first 6 tricks. It is worth 100 points for the first 6 tricks plus 1 for each additional trick. If the bidding team loses any of the first 6 tricks, they lose 100 points.
+Il s'agit d'une enchère, dans une donne de plus de 6 cartes, s'engageant à ce que l'équipe enchérisseuse gagne les 6 premières levées. Elle vaut 100 points pour les 6 premières levées plus 1 pour chaque levée supplémentaire. Si l'équipe enchérisseuse perd l'une des 6 premières levées, elle perd 100 points.
 
-Rainbow
-In this popular variation, when exactly four cards are dealt, a hand consisting of one card of each suit is called a rainbow. This can be announced at the player's turn to bid for an extra bonus of 40 points provided that the player wins at least one trick. The rainbow player leads to the first trick. In the event that more than one player bids rainbow, the first rainbow bidder leads to the first trick.
-Some also allow rainbow to be announced with 2 cards of each suit in the 8-card deal for 80 points and with 3 cards of each suit in the 12-card deal for 120 points. To score these points the rainbow player has to win at least 2 tricks with an 8-card rainbow and at least 3 with a 12-card rainbow.
-If the rainbow player fails to take the required tricks (at least 1 trick with four cards, 2 tricks with 8 cards, 3 tricks with 12 cards), the rainbow points are subtracted from the team's score instead of added. Partner's tricks do not help here - if you announce a rainbow you have to take the required tricks yourself or lose the points. Of course, a player with a rainbow hand is not obliged to announce the rainbow, and should not do so unless there is a good chance of winning the required tricks.
-The rainbow announcement also counts as a normal bid of the relevant number of tricks, and the player can increase it by announcing "rainbow+1", "rainbow+2", etc. This is then added to partner's bid as usual. Example: with 8 cards dealt North bids "rainbow+1" (meaning 3 tricks) and South bids 1. This commits the team to win at least 4 tricks. If North wins 2 and South wins 3 they will score +101 points: 80 for the rainbow, 20 for the bid and one for the overtrick. If North wins 2 tricks and South 1 they score +60, winning 80 for the rainbow but losing 20 for the failed bid. If North wins 1 trick and South wins 3 they score -60, losing 80 for the rainbow but winning 20 for the bid.
-Some play the rainbow announcement without the trick-taking requirement. Announcing a rainbow with 4 cards at your turn to bid simply gives your team a bonus of 40 points as compensation for telling everyone that you have a card of every suit. The rainbow player also makes a normal bid or pass which is added to partner's bid in the usual way.
-Usually a player who has announced a rainbow is required to keep their cards on the table in front of them as they are played, rather than have them gathered up with the tricks, so that everyone can verify that the rainbow player really has the claimed distribution of suits.
+Arc-en-ciel
+Dans cette variante populaire, lorsque exactement quatre cartes sont distribuées, une main composée d'une carte de chaque couleur est appelée un arc-en-ciel. Cela peut être annoncé lors du tour d'enchère du joueur pour un bonus de 40 points à condition que le joueur gagne au moins une levée. Le joueur à l'arc-en-ciel entame la première levée. Si plusieurs joueurs enchérissent un arc-en-ciel, le premier annonciateur entame. Certains autorisent également l'annonce d'un arc-en-ciel avec 2 cartes de chaque couleur dans la donne de 8 cartes pour 80 points et avec 3 cartes de chaque couleur dans la donne de 12 cartes pour 120 points. Pour marquer ces points, le joueur à l'arc-en-ciel doit gagner au moins 2 levées avec un arc-en-ciel de 8 cartes et au moins 3 avec un arc-en-ciel de 12 cartes.
+Si le joueur à l'arc-en-ciel échoue à prendre les levées requises (au moins 1 levée avec 4 cartes, 2 levées avec 8 cartes, 3 levées avec 12 cartes), les points de l'arc-en-ciel sont soustraits du score de l'équipe au lieu d'être ajoutés. Les levées du partenaire ne comptent pas ici — si vous annoncez un arc-en-ciel, vous devez prendre les levées requises vous-même ou perdre les points. Un joueur avec une main en arc-en-ciel n'est évidemment pas obligé de l'annoncer, et ne devrait pas le faire sauf s'il a de bonnes chances de gagner les levées requises.
+L'annonce de l'arc-en-ciel compte également comme une enchère normale du nombre correspondant de levées, et le joueur peut l'augmenter en annonçant « arc-en-ciel+1 », « arc-en-ciel+2 », etc. Cela s'ajoute ensuite à l'enchère du partenaire comme d'habitude. Exemple : avec 8 cartes distribuées, Nord enchérit « arc-en-ciel+1 » (soit 3 levées) et Sud enchérit 1. Cela engage l'équipe à gagner au moins 4 levées. Si Nord gagne 2 levées et Sud 3, ils marquent +101 points : 80 pour l'arc-en-ciel, 20 pour l'enchère et 1 pour la surenchère. Si Nord gagne 2 levées et Sud 1, ils marquent +60, gagnant 80 pour l'arc-en-ciel mais perdant 20 pour l'enchère échouée. Si Nord gagne 1 levée et Sud 3, ils marquent -60, perdant 80 pour l'arc-en-ciel mais gagnant 20 pour l'enchère.
+Certains jouent l'annonce de l'arc-en-ciel sans obligation de levées. Annoncer un arc-en-ciel avec 4 cartes lors de votre tour d'enchère donne simplement à votre équipe un bonus de 40 points en compensation du fait de révéler à tous que vous avez une carte de chaque couleur. Le joueur à l'arc-en-ciel fait également une enchère normale ou un passe qui s'ajoute à l'enchère du partenaire de la manière habituelle.
+En général, un joueur qui a annoncé un arc-en-ciel est tenu de garder ses cartes sur la table devant lui au fur et à mesure qu'elles sont jouées, plutôt que de les ramasser avec les levées, afin que tout le monde puisse vérifier que le joueur a vraiment la distribution de couleurs revendiquée.
 
-Blind bids
-Some play that at the halfway point up and down (the 7-card deals with 4 players), the hands are bid "blind" (i.e. without looking at the cards). In this version, if a joker is turned as trump it is "burned" (put at the bottom of the deck) and trump is determined by the next card turned. In the case where both jokers are "burned" and there are no more cards available (i.e. at the 13-card deal with 4 players), there is no trump. The score is the number of tricks bid plus the number of tricks won if the bid is successful. If the tricks won are less than tricks bid, the team loses 2 points per trick bid regardless of how many were won. There are no "board" bids.
+Enchères à l'aveugle
+Certains jouent qu'au milieu du cycle montant et descendant (les donnes de 7 cartes avec 4 joueurs), les mains sont enchéries « à l'aveugle » (c'est-à-dire sans regarder les cartes). Dans cette version, si un joker est retourné comme atout, il est « brûlé » (placé au bas du paquet) et l'atout est déterminé par la carte suivante retournée. Dans le cas où les deux jokers sont « brûlés » et qu'il n'y a plus de cartes disponibles (c'est-à-dire lors de la donne de 13 cartes avec 4 joueurs), il n'y a pas d'atout. Le score est le nombre de levées enchéries plus le nombre de levées gagnées si l'enchère est réussie. Si les levées gagnées sont inférieures aux levées enchéries, l'équipe perd 2 points par levée enchérie, indépendamment du nombre gagné. Il n'y a pas d'enchères « board ».
 
-Number of players and individual play
-3 players can play as individuals, starting at 13 cards each and working down to 1 card and back to 13 as usual. 4 can play as individuals rather than in partnerships. 5 can play as individuals, starting and ending at 10 cards each. I have been told that 6 could play - presumably they form 2 teams of three or 3 teams of two.
+Nombre de joueurs et jeu individuel
+3 joueurs peuvent jouer en individuel, en commençant à 13 cartes chacun et en descendant à 1 puis en remontant à 13 comme d'habitude. 4 peuvent jouer en individuel plutôt qu'en équipe. 5 peuvent jouer en individuel, en commençant et finissant à 10 cartes chacun. On m'a dit que 6 pourraient jouer — probablement en formant 2 équipes de trois ou 3 équipes de deux.
 
-Big blooper
-Some play that when your partner leads the big blooper, you do not have to waste your highest trump: you are allowed to follow with a low trump. Some say that you must play your lowest trump - which is usually what you would wish to do anyway.
+Grand blooper
+Certains jouent que lorsque votre partenaire entame le grand blooper, vous n'êtes pas obligé de gaspiller votre atout le plus haut : vous êtes autorisé à suivre avec un atout bas. Certains disent que vous devez jouer votre atout le plus bas — ce que vous souhaiteriez de toute façon généralement faire.
 
-Cards dealt
-I have been told that some do not vary the deal, but deal the same number of cards each time - presumably 13.
-Some play 25 deals rather than 26, with just one one-card deal in the middle.
+Nombre de cartes distribuées
+On m'a dit que certains ne varient pas la donne, mais distribuent toujours le même nombre de cartes — vraisemblablement 13.
+Certains jouent 25 donnes plutôt que 26, avec une seule donne d'une carte au milieu.
 
-Trumps
-Some play with spades as a permanent trump suit, instead of turning a card to determining trumps on each deal.
-Game with high two of spades
-This 26-deal game is played with a 52-card deck without jokers. The game begins with a 1-card deal, then increases one at a time to the maximum 13 cards and decreases again to 1 card. There are two 13-card deals in the middle, and in these the deck is cut before dealing to determine trumps. The two of spades is normally the highest trump, above the ace, and counts as belonging to the trump suit. The exception is when the two of spades is cut or turned for trump, in which case there are no trumps. 
-Trumps cannot be led except in two cases: (a) when the leader is "tight" (holds nothing but trumps) and (b) the leader holds two of spades and chooses to lead it. When the two of spades is led the other players must play their highest trumps to this trick. The player who led the spade two can then continue to lead trumps (but the other players do not have to play high) until he loses a trick. Once the player who led the spade two loses a trick or leads anything other than trump, it is again illegal to lead trumps unless the player on lead is tight.
-Players sitting opposite are partners, but the scoring is based on the tricks won by individual players compared to their bids, and the partners' scores are then combined. The score is 10 points per trick bid and made plus one for each overtrick. If the bid fails the loss is 10 points per trick bid. Example: if North bids 4, South bids 2 and they win 3 tricks each, then North scores -40 and South +21 for a total of -19 for the partnership.
-Board can be bid only on the 1-card deals: after a player has bid 1, another player can bid "board" for 20, a third player "double board" for 30 and the last player "triple board" for 40.
-On a deal of 7 or more cards, if any player has no trumps the hands are thrown in and redealt, unless it was a no-trump deal (two of spades cut or turned for trump).
+Atouts
+Certains jouent avec les piques comme couleur d'atout permanente, au lieu de retourner une carte pour déterminer l'atout à chaque donne.
+Partie avec le deux de piques haut
+Cette partie de 26 donnes se joue avec un jeu de 52 cartes sans jokers. La partie commence avec une donne d'une carte, puis augmente d'une à chaque fois jusqu'à 13 cartes au maximum, puis redescend à 1 carte. Il y a deux donnes de 13 cartes au milieu, et dans celles-ci le paquet est coupé avant la distribution pour déterminer l'atout. Le deux de piques est normalement le plus haut atout, au-dessus de l'as, et compte comme appartenant à la couleur d'atout. L'exception est lorsque le deux de piques est coupé ou retourné pour l'atout, auquel cas il n'y a pas d'atout.
+Les atouts ne peuvent être entamés que dans deux cas : (a) lorsque l'entameur est « serré » (ne détient que des atouts) et (b) l'entameur détient le deux de piques et choisit de l'entamer. Lorsque le deux de piques est entamé, les autres joueurs doivent jouer leurs atouts les plus hauts. Le joueur qui a entamé le deux de piques peut ensuite continuer à entamer des atouts (mais les autres joueurs n'ont pas à jouer haut) jusqu'à ce qu'il perde une levée. Une fois que le joueur qui a entamé le deux de piques perd une levée ou entame autre chose qu'un atout, il est de nouveau interdit d'entamer des atouts sauf si le joueur en position d'entame est serré.
+Les joueurs assis en face sont partenaires, mais le score est basé sur les levées gagnées par chaque joueur individuel comparées à son enchère, et les scores des partenaires sont ensuite combinés. Le score est de 10 points par levée enchérie et réalisée plus un par surenchère. Si l'enchère échoue, la perte est de 10 points par levée enchérie. Exemple : si Nord enchérit 4, Sud enchérit 2 et qu'ils gagnent 3 levées chacun, Nord marque -40 et Sud +21 pour un total de -19 pour l'équipe.
+Le board ne peut être enchéri que sur les donnes d'une carte : après qu'un joueur a enchéri 1, un autre peut enchérir « board » pour 20, un troisième « double board » pour 30 et le dernier « triple board » pour 40.
+Sur une donne de 7 cartes ou plus, si un joueur n'a pas d'atout, les mains sont jetées et redistribuées, sauf s'il s'agissait d'une donne sans atout (deux de piques coupé ou retourné pour l'atout).
 
-Reduced Deck
-I have seen one report of a version played with a reduced deck of 42 cards, with 4's, 3's and 2's removed. In the first hand 10 cards each are dealt and this is reduced by one for each subsequent hand as usual.
+Jeu de cartes réduit
+J'ai vu un rapport d'une version jouée avec un jeu réduit de 42 cartes, sans les 4, 3 et 2. Lors de la première donne, 10 cartes sont distribuées à chacun, puis réduit d'une à chaque donne suivante comme d'habitude.
 
-All: game without jokers
-One correspondent reports a variation known as "All", played without jokers (in the 13-card deals the cards are cut for trump before dealing). Instead of the "board" bid, there is a bid of "all", allowed only when 5 or fewer cards each are dealt. This is a commitment that the player's team will win every trick and scores 25 points if successful or loses 25 points if not.
+All : partie sans jokers
+Un correspondant rapporte une variante appelée « All », jouée sans jokers (dans les donnes de 13 cartes, les cartes sont coupées pour déterminer l'atout avant la distribution). Au lieu de l'enchère « board », il y a une enchère « all », autorisée uniquement lorsque 5 cartes ou moins sont distribuées à chacun. C'est un engagement à ce que l'équipe du joueur gagne chaque levée ; elle rapporte 25 points en cas de succès ou perd 25 points sinon.
 
-Spades trump
-Some play with Spades as permanent trumps, instead of turning up a card for trumps on each deal.
+Piques atout
+Certains jouent avec les piques comme atout permanent, au lieu de retourner une carte pour l'atout à chaque donne.
 
-Redeal
-Some play that when a hand of 6 or more cards are dealt, a player who has no aces, no face cards and no trumps is allowed to demand a new deal by the same dealer.
+Redistribution
+Certains jouent que lorsqu'une main de 6 cartes ou plus est distribuée, un joueur qui n'a pas d'as, pas de figures et pas d'atout est autorisé à demander une nouvelle donne par le même donneur.
 
-## Individual Back Alley
+## Back Alley individuel
 
-This version of the game dates from World War II. It is played with a 52 card pack without jokers. The two of diamonds is highest trump, followed by the Ace of the trump suit, so the trumps rank ![diamond](../images/internat/diamond.gif)2-A-K-Q-J-10-9- etc.
+Cette version du jeu date de la Seconde Guerre mondiale. Elle se joue avec un jeu de 52 cartes sans jokers. Le deux de carreaux est le plus haut atout, suivi de l'as de la couleur d'atout, les atouts se classant donc ![carreau](../images/internat/diamond.gif)2-A-R-D-V-10-9- etc.
 
-The game is played by two, three or four players, without partners. If there are fewer than four players there will be undealt cards, even in the 13-card hand.
+Le jeu se joue à deux, trois ou quatre joueurs, sans partenaire. S'il y a moins de quatre joueurs, il restera des cartes non distribuées, même dans la donne de 13 cartes.
 
-There are 14 deals in a game. In the first deal, 13 cards are dealt to each player. In each subsequent deal, the number of cards dealt is reduced by one, and the last two deals are of one card each.
+Il y a 14 donnes dans une partie. Lors de la première donne, 13 cartes sont distribuées à chaque joueur. À chaque donne suivante, le nombre de cartes distribuées diminue d'une, et les deux dernières donnes sont d'une carte chacune.
 
-Before the 13-card deal with 4 players, the cards are cut to determine the trump suit; in all other deals, the first undealt card is turned up to determine the trump suit. If the ![diamond](../images/internat/diamond.gif)2 is cut or turned up, diamonds are trumps.
+Avant la donne de 13 cartes avec 4 joueurs, les cartes sont coupées pour déterminer la couleur d'atout ; dans toutes les autres donnes, la première carte non distribuée est retournée pour déterminer l'atout. Si le ![carreau](../images/internat/diamond.gif)2 est coupé ou retourné, les carreaux sont l'atout.
 
-Each player in turn bids a number of tricks. A bid of no tricks is a pass, and if all players pass, the hand is redealt by the same dealer.
+Chaque joueur à son tour enchérit un nombre de levées. Une enchère de zéro levée est un passe, et si tous les joueurs passent, la main est redistribuée par le même donneur.
 
-The highest bidder leads to the first trick; if there were several equally high bids the first of these bidders leads. Any card can be led - there are no restrictions on leading trumps. It is compulsory to follow suit whenever you can; note that (unless diamonds are trumps) the ![diamond](../images/internat/diamond.gif)2 is not a diamond but is treated as belonging to the trump suit. A player unable to follow suit to a non-trump lead must trump. If a non-trump lead has already been trumped, a subsequent player who is unable to follow suit must beat the highest trump in the trick if possible - if unable to do this he may play any card. A player who is unable to follow suit may play any card.
+Le plus haut enchérisseur entame la première levée ; s'il y a eu plusieurs enchères equally hautes, le premier de ces enchérisseurs entame. N'importe quelle carte peut être entamée — il n'y a pas de restriction sur l'entame d'atouts. Il est obligatoire de suivre la couleur quand c'est possible ; notez que (sauf si les carreaux sont l'atout) le ![carreau](../images/internat/diamond.gif)2 n'est pas un carreau mais est traité comme appartenant à la couleur d'atout. Un joueur qui ne peut pas suivre une entame non-atout doit atouter. Si une entame non-atout a déjà été atoutée, un joueur suivant qui ne peut pas suivre doit battre le plus haut atout de la levée si possible — s'il ne le peut pas, il peut jouer n'importe quelle carte. Un joueur qui ne peut pas suivre peut jouer n'importe quelle carte.
 
-For the hands with more than one card dealt, if you make at least as many tricks as you bid, you score 3 points for each you bid, plus one extra point for each trick you make in excess of your bid. If you fail to make as many tricks as you bid, you lose 3 points for each trick that you bid, irrespective of how many you made.
+Pour les mains de plus d'une carte, si vous gagnez au moins autant de levées que vous avez enchéri, vous marquez 3 points par levée enchérie, plus un point supplémentaire pour chaque levée gagnée au-delà de votre enchère. Si vous échouez à gagner autant de levées que vous avez enchéri, vous perdez 3 points par levée enchérie, indépendamment du nombre gagné.
 
-If you bid for all the available tricks, this is called board, and you win 6 points per trick bid if successful and lose 6 points per trick bid otherwise. There are no double board bids, but it is possible for more than one player to bid board.
+Si vous enchérissez pour toutes les levées disponibles, cela s'appelle un board, et vous gagnez 6 points par levée enchérie en cas de succès et perdez 6 points par levée enchérie sinon. Il n'y a pas de double board, mais il est possible que plusieurs joueurs enchérissent un board.
 
-On the one card deals, you only options are to bid board - for which you win 13 points if you win the trick and lose 13 points if you don't - or to pass - in which case you score no points regardless of whether or not you win the trick.
+Sur les donnes d'une carte, vos seules options sont d'enchérir un board — pour lequel vous gagnez 13 points si vous gagnez la levée et perdez 13 points sinon — ou de passer — auquel cas vous ne marquez aucun point, que vous gagniez ou non la levée.
 
-### Variations of Individual Back Alley
+### Variantes du Back Alley individuel
 
-18 deal game
-Some start at a deal of 9 cards each, work down to 1 (twice) and back up to 9 for a total of 18 deals. A player who has one cards of each suit in a 4-card deal can declare this during the bidding for a 5-point bonus. Declaring two cards of each suit in the 8-card deal gives a 10-point bonus. A board bid is worth an extra 10 points if successful, but loses an extra 10 points if it fails. The correspondent who reported this version calls it "Oh Hell", a name which is normally used for a different game in which the aim is to take the exact number of tricks that are bid.
+Partie de 18 donnes
+Certains commencent par une donne de 9 cartes, descendent à 1 (deux fois) puis remontent à 9 pour un total de 18 donnes. Un joueur qui a une carte de chaque couleur dans une donne de 4 cartes peut le déclarer pendant les enchères pour un bonus de 5 points. Déclarer deux cartes de chaque couleur dans la donne de 8 cartes donne un bonus de 10 points. Une enchère de board rapporte 10 points supplémentaires en cas de succès, mais en perd 10 supplémentaires en cas d'échec. Le correspondant qui a rapporté cette version l'appelle « Oh Hell », nom normalement utilisé pour un jeu différent dont l'objectif est de prendre exactement le nombre de levées enchéries.
 
-Twos of diamonds and trumps high
-Some play that if diamonds are not trumps, the second highest trump is the two of the trump suit, and the trump ace is third highest.
+Deux de carreaux et atouts hauts
+Certains jouent que si les carreaux ne sont pas l'atout, le deuxième plus haut atout est le deux de la couleur d'atout, et l'as d'atout est troisième.
 
-26 deal version
-This may have originated in the Korean War. There is no high two - the ace of trumps is highest. After the two one-card deals, further hands are played with the number of cards dealt to each player increasing by one each time, up to the maximum 13. Trumps cannot be led until they have been broken. Players score 5 points each for tricks bid and made, plus 1 point for each overtrick. A player who makes fewer tricks than they bid loses 5 points per undertrick. A player can bid "bort" (presumably a corruption of "board"), an undertaking to win every trick, scoring 10 points per trick if successful, but otherwise losing the full amount of the bid. In the four-card deal a player with a "rainbow" (one card of each suit) can declare it during the bidding for a 40 point bonus. The cards are not shown at this stage: the other players should check that the player really has the claimed rainbow. A false rainbow announcement loses 40 points.
-This game is intermediate between the two main versions described on this page. It is an individual game, but the deal sequence, the play (no trump leads until broken), the scoring and the rainbow bid are more typical of the newer partnership game.
+Version de 26 donnes
+Celle-ci pourrait être originaire de la guerre de Corée. Il n'y a pas de deux haut — l'as d'atout est le plus haut. Après les deux donnes d'une carte, les donnes suivantes se jouent avec un nombre de cartes augmentant d'une à chaque fois, jusqu'à 13 au maximum. Les atouts ne peuvent être entamés avant d'avoir été cassés. Les joueurs marquent 5 points chacun pour les levées enchéries et réalisées, plus 1 point par surenchère. Un joueur qui gagne moins de levées que son enchère perd 5 points par levée manquante. Un joueur peut enchérir « bort » (probablement une déformation de « board »), un engagement à gagner chaque levée, rapportant 10 points par levée en cas de succès, mais perdant le montant total de l'enchère sinon. Dans la donne de 4 cartes, un joueur avec un « arc-en-ciel » (une carte de chaque couleur) peut le déclarer pendant les enchères pour un bonus de 40 points. Les cartes ne sont pas montrées à ce stade : les autres joueurs doivent vérifier que le joueur a vraiment l'arc-en-ciel revendiqué. Une fausse annonce d'arc-en-ciel coûte 40 points.
+Ce jeu est intermédiaire entre les deux versions principales décrites sur cette page. C'est un jeu individuel, mais la séquence de donnes, le jeu (pas d'entame d'atout avant cassure), le score et l'enchère d'arc-en-ciel sont plus typiques de la version plus récente en équipe.
 
-## Other Back Alley WWW Pages
+## Autres pages web sur le Back Alley
 
-This archive copy of Sgt Grit's Back Alley Bridge Rules gives another description of the game with bloopers.
+Une copie archivée des règles du Back Alley Bridge du Sgt Grit donne une autre description du jeu avec bloopers.
 
-Back Alley can be played online at [Tabletopia](https://tabletopia.com/games/back-alley).
+Le Back Alley peut être joué en ligne sur [Tabletopia](https://tabletopia.com/games/back-alley).
 
-A commercial version of Back Alley was advertised at http://www.backalleygames.com but the web site has since disappeared. I have not seen the actual product, but there were some rules on the web page. The game is related to WWII game described above, and there are no partnerships. It is played with a special pack of 56 cards: four suits of 13 plus four identical wild cards. No card is turned for trumps - the only trumps are the four wild cards. If you can't follow suit you must trump with a wild card if you have one, and when a wild card is played subsequent players are released from the obligation to follow suit in that trick and may play any card. If several wilds are played to a trick the first wins. It's illegal to lead a wild card unless you have nothing else in your hand. Before play each player can discard one card and draw one of the undealt cards. Score is 3 points per trick bid plus 1 per overtrick if successful; lose 3 per trick bid if unsuccessful.
+Une version commerciale du Back Alley était annoncée sur http://www.backalleygames.com mais le site web a depuis disparu. Je n'ai pas vu le produit lui-même, mais il y avait des règles sur la page web. Le jeu est apparenté au jeu de la Seconde Guerre mondiale décrit ci-dessus, et il n'y a pas de partenaires. Il se joue avec un jeu spécial de 56 cartes : quatre couleurs de 13 plus quatre cartes sauvages identiques. Aucune carte n'est retournée pour l'atout — les seuls atouts sont les quatre cartes sauvages. Si vous ne pouvez pas suivre la couleur, vous devez atouter avec une carte sauvage si vous en avez une, et lorsqu'une carte sauvage est jouée, les joueurs suivants sont libérés de l'obligation de suivre la couleur dans cette levée et peuvent jouer n'importe quelle carte. Si plusieurs cartes sauvages sont jouées dans une levée, la première gagne. Il est interdit d'entamer une carte sauvage sauf si vous n'avez rien d'autre en main. Avant le jeu, chaque joueur peut défausser une carte et piocher une carte non distribuée. Le score est de 3 points par levée enchérie plus 1 par surenchère en cas de succès ; 3 par levée enchérie en cas d'échec.
 
-### *Contributors*
+### *Contributeurs*
 
-*Most of the information on this page is based on e-mails and news postings from Charles Petro, Howard L Wagner, Rand Collins, Daniel Grimes, Cindy Ingels, Douglas Nitch, David Brandt, Amber Sexton, Becky B, Tim Arview, Vincent Higginbotham and Liana Ottaviano.*
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Back Alley
+*La plupart des informations sur cette page sont basées sur des e-mails et des messages de Charles Petro, Howard L Wagner, Rand Collins, Daniel Grimes, Cindy Ingels, Douglas Nitch, David Brandt, Amber Sexton, Becky B, Tim Arview, Vincent Higginbotham et Liana Ottaviano.*

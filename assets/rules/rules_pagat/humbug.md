@@ -2,38 +2,30 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for a simple 18th century two-player whist variant known as Humbug.
+**But :** Règles d'une variante simple du Whist à deux joueurs du XVIIIe siècle, connue sous le nom d'Humbug.
 
 ---
 
-- Introduction
-
-- Players, Cards and Deal
-
-- The Play
-
 ## Introduction
 
-This 18th century game is about the simplest two-player adaptation of Whist that can be imagined. An account published in London in the September 1793 edition of *The Sporting Magazine* was drawn to my attention by Ivan Derzhanski - [here is the original](https://books.google.com/books?id=Mb0CAAAAYAAJ&pg=PA361). Since both players know each other's cards at the outset, the experience is more like a puzzle and a test of memory than a normal card game. Probably that is why card players came to prefer other two-player adaptations such as German Whist in which the players do not begin with complete information.
+Ce jeu du XVIIIe siècle est à peu près l'adaptation à deux joueurs la plus simple du Whist imaginable. Un compte rendu publié à Londres dans l'édition de septembre 1793 de *The Sporting Magazine* a été porté à mon attention par Ivan Derzhanski — [voici l'original](https://books.google.com/books?id=Mb0CAAAAYAAJ&pg=PA361). Puisque les deux joueurs connaissent les cartes de l'autre dès le départ, l'expérience ressemble davantage à un puzzle et à un exercice de mémoire qu'à un jeu de cartes ordinaire. C'est probablement la raison pour laquelle les joueurs de cartes ont fini par préférer d'autres adaptations à deux joueurs, comme le Whist allemand, dans lesquelles les joueurs ne commencent pas avec une information complète.
 
-## Players, Cards and Deal
+## Joueurs, cartes et distribution
 
-This game is for two players, using a standard Anglo-American 52-card pack. The cards in each suit rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Ce jeu est pour deux joueurs, utilisant un jeu standard anglo-américain de 52 cartes. Les cartes de chaque couleur sont classées de la plus forte à la plus faible A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-The dealer is chosen by drawing cards from the shuffled deck: the player who draws the lower card is the dealer. The dealer shuffles again, the non-dealer cuts, and the dealer deals all the cards one at a time, turning the last card face up. The suit of this card, which belongs to the dealer, is the trump suit for the hand.
+Le donneur est choisi en tirant des cartes du jeu mélangé : le joueur qui tire la carte la plus basse est le donneur. Le donneur mélange à nouveau, le non-donneur coupe, et le donneur distribue toutes les cartes une par une, en retournant la dernière carte face visible. La couleur de cette carte, qui appartient au donneur, est la couleur d'atout pour la main.
 
-The players look at their cards, and since they know that the opponent has all the other cards, there is no harm in laying all one's cards face up on the table, organised into suits, for a better overview.
+Les joueurs regardent leurs cartes, et puisqu'ils savent que l'adversaire a toutes les autres cartes, il n'y a aucun inconvénient à poser toutes ses cartes face visible sur la table, organisées par couleur, pour une meilleure vue d'ensemble.
 
-## The Play
+## Le jeu
 
-The aim is to win tricks. Each trick consists of two cards, one played by each player. The first player plays any card and the second player must play a card of the same suit if possible. In this case the higher card wins the trick. If the second player has no card of that suit, he or she may play any card. When the two cards are of different suits the first player wins unless one of the cards is a trump, in which case the trump wins.
+Le but est de remporter des levées. Chaque levée se compose de deux cartes, une jouée par chaque joueur. Le premier joueur joue n'importe quelle carte et le deuxième joueur doit jouer une carte de la même couleur si possible. Dans ce cas, la carte la plus forte remporte la levée. Si le deuxième joueur n'a pas de carte de cette couleur, il peut jouer n'importe quelle carte. Lorsque les deux cartes sont de couleurs différentes, le premier joueur remporte la levée, sauf si l'une des cartes est un atout, auquel cas l'atout l'emporte.
 
-The non-dealer leads (plays the first card) to the first trick. The winner of each trick takes the two cards, stores them face down, and then leads (plays the first card) to the next trick.
+Le non-donneur entame (joue la première carte) la première levée. Le vainqueur de chaque levée prend les deux cartes, les pose face cachée, puis entame la levée suivante.
 
-Players are not allowed to look at the cards in completed tricks, neither their own nor their opponent's. After the first few tricks players normally pick up their own cards and hold them so that the opponent cannot see them. So in order to know what cards one's opponent still holds, it is necessary to remember which cards have been played.
+Les joueurs ne sont pas autorisés à regarder les cartes des levées terminées, ni les leurs ni celles de l'adversaire. Après les premières levées, les joueurs ramassent généralement leurs propres cartes et les tiennent de façon que l'adversaire ne puisse pas les voir. Ainsi, pour savoir quelles cartes l'adversaire détient encore, il faut se souvenir des cartes qui ont été jouées.
 
-A *revoke* occurs if the second player to a trick illegally plays a card of a different suit, even though a card of the same suit was held. The penalty is that the offender must transfer three tricks to the other player.
+Une *renonce* se produit si le deuxième joueur d'une levée joue illégalement une carte d'une couleur différente, alors qu'il détenait une carte de la même couleur. La pénalité est que le fautif doit céder trois levées à l'autre joueur.
 
-When all the cards have been played, the player who won more tricks wins in proportion to the difference in tricks between the players - for example 8 units if the winner has 17 tricks and the loser 9. It is clear from the article in *The Sporting Magazine* that the game was usually played for money, and for quite high stakes, each deal being a separate event. It would of course be possible instead just to keep a score on paper and add up the scores for a series of deals.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Humbug
+Lorsque toutes les cartes ont été jouées, le joueur qui a remporté le plus de levées gagne proportionnellement à la différence de levées entre les joueurs — par exemple 8 unités si le gagnant a 17 levées et le perdant 9. Il ressort clairement de l'article de *The Sporting Magazine* que le jeu se jouait généralement pour de l'argent, et pour des mises assez élevées, chaque donne étant un événement séparé. Il serait bien sûr possible de simplement garder un score sur papier et d'additionner les points pour une série de donnes.

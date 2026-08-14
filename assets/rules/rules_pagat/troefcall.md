@@ -3,66 +3,64 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for Troefcall, a four-player card game from Suriname, also played in the Netherlands.
+**But :** Jeu de cartes à quatre joueurs originaire du Suriname, également joué aux Pays-Bas.
 
 ---
 
-*This page is mainly based on information from Fernando Noordam.*
+*Cette page est principalement basée sur des informations de Fernando Noordam.*
 
 ## Introduction
 
-Troefcall is a trick-taking game for four players which is played in the former Dutch colony Suriname and in the Surinamese community in the Netherlands. It has some similarity to the Indian game Court Piece or Seven Hands, and this may be explained by the presence of a significant minority of ethnic Indians in Suriname. The name of the game (*troefcall* = 'trump call') is a mixture of Dutch and English, and the terminology of the game uses both English and Dutch words.
+Le Troefcall est un jeu de levées pour quatre joueurs qui se joue dans l'ancienne colonie néerlandaise du Suriname et dans la communauté surinamienne des Pays-Bas. Il présente des similitudes avec le jeu indien Court Piece ou Seven Hands, ce qui peut s'expliquer par la présence d'une minorité significative d'Indiens d'origine ethnique au Suriname. Le nom du jeu (*troefcall* = « appel d'atout ») est un mélange de néerlandais et d'anglais, et la terminologie du jeu utilise des mots des deux langues.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite each other.
+Quatre joueurs en équipes fixes, les partenaires étant assis en face l'un de l'autre.
 
-A standard international 52-card pack is used.
+On utilise un jeu standard international de 52 cartes.
 
-Deal and play are clockwise. 
+La donne et le jeu se font dans le sens horaire.
 
-## The Deal and Making Trumps
+## La donne et la détermination de l'atout
 
-The first trump caller is chosen by dealing the cards around until a Jack appears. The player to the right of the trump caller is the dealer.
+Le premier désignateur d'atout est choisi en distribuant les cartes jusqu'à ce qu'un Valet apparaisse. Le joueur à la droite du désignateur d'atout est le donneur.
 
-The dealer shuffles the cards and the trump caller (the player to dealer's left) has the opportunity to cut. (So unlike most European games, in Troefcall the player who will be dealt the first cards also cuts the pack.)
+Le donneur mélange les cartes et le désignateur d'atout (le joueur à la gauche du donneur) a la possibilité de couper. (Ainsi, contrairement à la plupart des jeux européens, au Troefcall, le joueur qui recevra les premières cartes coupe aussi le paquet.)
 
-The dealer then deals the top five cards to the trump caller who looks at them and names the trump suit. The deal is then completed by dealing a batch of five cards to each of the other three players, then a batch of four cards to each player, and finally another batch of four cards to each player.
+Le donneur distribue ensuite les cinq premières cartes au désignateur d'atout, qui les regarde et nomme la couleur d'atout. La distribution se poursuit par un lot de cinq cartes à chacun des trois autres joueurs, puis un lot de quatre cartes à chaque joueur, et enfin un autre lot de quatre cartes à chaque joueur.
 
-In subsequent hands, the same player continues to deal as long as the trump caller's team wins points. If the trump caller's team loses, the turn to deal passes to the left: the unsuccessful trump caller becomes the new dealer, and the old dealer's partner becomes the new trump caller.
+Lors des donnes suivantes, le même joueur continue à donner tant que l'équipe du désignateur d'atout gagne des points. Si l'équipe du désignateur d'atout perd, le tour de donner passe à gauche : le désignateur d'atout malheureux devient le nouveau donneur, et le partenaire de l'ancien donneur devient le nouveau désignateur d'atout.
 
-If after all the cards are dealt the trump caller has no picture cards (King, Queen or Jack), the trump caller may show his 13 cards and ask for the cards to be redealt. In this case all the cards are shuffled and there is a new deal by the same dealer. Holding one or more Aces does not prevent the trump caller from demanding a redeal, provided that no pictures are held.
+Si après la distribution de toutes les cartes le désignateur d'atout n'a aucune figure (Roi, Dame ou Valet), il peut montrer ses 13 cartes et demander une redistribution. Dans ce cas, toutes les cartes sont mélangées et il y a une nouvelle donne par le même donneur. Détenir un ou plusieurs as n'empêche pas le désignateur d'atout de demander une redistribution, à condition de ne pas avoir de figures.
 
-## The Play
+## Le jeu
 
-The trump caller leads to the first trick. Any card may be led, and other players in clockwise order must each play a card of the suit that was led if possible. A player who has no cards of the suit that was led may play any card. If there are any trumps in the trick, the highest trump wins it. A trick containing no trumps is won by the highest card of the suit that was led. The winner of each trick leads to the next.
+Le désignateur d'atout entame la première levée. N'importe quelle carte peut être entamée, et les autres joueurs, dans l'ordre horaire, doivent chacun jouer une carte de la couleur entamée si possible. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte. S'il y a des atouts dans la levée, le plus haut atout l'emporte. Une levée sans atout est gagnée par la carte la plus haute de la couleur entamée. Le gagnant de chaque levée entame la suivante.
 
-The first objective is to win the majority of tricks - that is at least 7 of the 13 tricks. 
+Le premier objectif est de gagner la majorité des levées — c'est-à-dire au moins 7 des 13 levées.
 
-A team that wins the **first** 7 tricks must decide whether to stop there, or to play on and try to win all 13 tricks. The player who wins the seventh trick can stop the play by tapping the table or announcing '*kap partij*'. It is also possible for the partner of the winner of the seventh trick to stop the play by announcing '*kap partij*'. If a team wins seven tricks and the winner of the seventh continues and leads to the eighth trick, the team is committed to an attempt to win 13 tricks (*baunie*) and incurs a penalty if they subsequently lose a trick. 
+Une équipe qui gagne les **7 premières** levées doit décider de s'arrêter là, ou de continuer et tenter de gagner les 13 levées. Le joueur qui gagne la septième levée peut arrêter le jeu en tapant la table ou en annonçant « *kap partij* ». Il est aussi possible pour le partenaire du gagnant de la septième levée d'arrêter le jeu en annonçant « *kap partij* ». Si une équipe gagne sept levées et que le gagnant de la septième continue et entame la huitième levée, l'équipe s'engage à tenter de gagner 13 levées (*baunie*) et encourt une pénalité si elle perd ensuite une levée.
 
-## Scoring
+## Score
 
-A cumulative score is kept for each team, starting at zero.
+Un score cumulatif est tenu pour chaque équipe, commençant à zéro.
 
-- A team that wins at least seven tricks, but not the first seven tricks, scores** 2 points**.
+- Une équipe qui gagne au moins sept levées, mais pas les sept premières, marque **2 points**.
 
-- If a team wins the first seven tricks and the winner of the seventh trick stops the play at that point, they score **5 points** for *kap partij*.
+- Si une équipe gagne les sept premières levées et que le gagnant de la septième levée arrête le jeu à ce moment, elle marque **5 points** pour *kap partij*.
 
-- If a team wins the first seven tricks and the **partner** of the winner of the seventh trick stops the play at that point, they score just **2 points**.
+- Si une équipe gagne les sept premières levées et que le **partenaire** du gagnant de la septième levée arrête le jeu à ce moment, elle marque seulement **2 points**.
 
-- If a team wins all 13 tricks, they score **15 points** for *baunie* (possible from the English 'bounty').
+- Si une équipe gagne les 13 levées, elle marque **15 points** pour *baunie* (probablement de l'anglais « bounty »).
 
-- If a team wins the first seven tricks, leads to the eighth trick, but then fails to win all the remaining tricks, their **opponents** score **2 points**.
+- Si une équipe gagne les sept premières levées, entame la huitième levée, mais échoue ensuite à remporter toutes les levées restantes, ses **adversaires** marquent **2 points**.
 
-If the trump maker's team scores, the same dealer deals again. If the dealer's team scores, the turn to deal passes to the left.
+Si l'équipe du désignateur d'atout marque, le même donneur redistribue. Si l'équipe du donneur marque, le tour de donner passe à gauche.
 
-The first team to reach an agreed target score, for example 15 points, 20 points or 50 points, wins the game.
+La première équipe à atteindre un score cible convenu, par exemple 15 points, 20 points ou 50 points, gagne la partie.
 
-Alternatively players may agree to play a fixed number of deals, or up to an agreed time limit. 
+Alternativement, les joueurs peuvent convenir de jouer un nombre fixe de donnes, ou jusqu'à une limite de temps convenue.
 
-## Other Web Sites
+## Autres sites web
 
-Here is the website of the [Troefcall Sport Bond Nederland](https://www.tsbn.nl) and an [archive copy of an earlier version of the site](https://web.archive.org/web/members.lycos.nl/troefcall/experiences.html), which had a more complete set of rules. 
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Troefcall
+Voici le site de la [Troefcall Sport Bond Nederland](https://www.tsbn.nl) et une [copie archivée d'une version antérieure du site](https://web.archive.org/web/members.lycos.nl/troefcall/experiences.html), qui contenait un ensemble de règles plus complet.

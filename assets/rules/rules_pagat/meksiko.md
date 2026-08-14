@@ -2,96 +2,94 @@
 
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** A three-player 32-card trick-taking card game from Serbia in which the player who bids to take most tricks chooses trumps and plays against the other two.
+**But :** Un jeu de cartes de prise de plis à 32 cartes pour trois joueurs originaire de Serbie, dans lequel le joueur qui s'engage à prendre le plus de plis choisit les atouts et joue contre les deux autres.
 
 ---
 
 ## Introduction
 
-Meksiko is a three-player game using a 32-card pack, said to be the most popular trick-taking game in Serbia.
+Meksiko est un jeu à trois joueurs utilisant un jeu de 32 cartes, dit le plus populaire des jeux de prise de plis en Serbie.
 
-It was probably inspired by Preference, in that the players are dealt 10 cards each and the player who bids to take most tricks picks up the 2-card talon and chooses the trump suit. However in Meksiko, unlike Preference, the opponents of the bidder have no duty to win a minimum number of tricks and no opportunity to drop out. We have therefore categorised it as an Auction Whist game.
+Il a probablement été inspiré par le Preference, en ce que les joueurs reçoivent 10 cartes chacun et le joueur qui s'engage à prendre le plus de plis ramasse le talon de 2 cartes et choisit la couleur d'atout. Cependant, contrairement au Preference, les adversaires de l'enchérisseur n'ont aucune obligation de remporter un nombre minimum de plis ni l'opportunité de se retirer. Nous l'avons donc classé comme un jeu de Whist aux enchères.
 
-The game is named after its highest bid "Meksiko", which is an undertaking to win all the tricks without the help of the talon and with no trumps. "Meksiko" is of course just the Serbian spelling of the name of the country Mexico, but in common with many others this card game has no connection at all to the country that shares its name.
+Le jeu porte le nom de son enchère la plus élevée « Meksiko », qui est un engagement à gagner tous les plis sans l'aide du talon et sans atouts. « Meksiko » est bien sûr simplement l'orthographe serbe du nom du pays Mexique, mais comme beaucoup d'autres, ce jeu de cartes n'a aucun lien du tout avec le pays dont il porte le nom.
 
-*This page is based on information from Aleksandar Sredojevic who has played Meksiko in Novi Sad (northern Serbia) with players from various parts of the country.* 
+*Cette page est basée sur des informations d'Aleksandar Sredojevic, qui a joué à Meksiko à Novi Sad (nord de la Serbie) avec des joueurs de diverses régions du pays.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Meksiko is a game for 3 players, but can be played by 4 if the dealer sits out of each hand. 
+Meksiko est un jeu pour 3 joueurs, mais peut être joué à 4 si le donneur ne participe pas à chaque main.
 
-It uses a 32-card pack in which sevens are the lowest cards. 
+Il utilise un jeu de 32 cartes dans lequel les sept sont les cartes les plus basses.
 
-It is often played with "Hungarian cards" (мађарске карте) - cards of the William Tell pattern with suits of hearts, bells, acorns and leaves, but it can also be played with an international 52-card deck with French suits of hearts, diamonds, clubs and spades from which the ranks from 2 to 6 and any jokers have been removed.
+Il se joue souvent avec des « cartes hongroises » (мађарске карте) — cartes du motif Guillaume Tell avec des couleurs de cœurs, cloches, glands et feuilles — mais il peut aussi se jouer avec un jeu international de 52 cartes aux couleurs françaises de cœurs, carreaux, trèfles et piques duquel les rangs du 2 au 6 et tous les jokers ont été retirés.
 
-The ranking of the cards in each suit from high to low is:
+Le classement des cartes de chaque couleur, de la plus haute à la plus basse, est :
 
-- Ace, King, Over, Under, X, IX, VIII, VII if using Hungarian cards;
+- As, Roi, Ober, Unter, X, IX, VIII, VII si l'on utilise des cartes hongroises ;
 
-- Ace, King, Queen, Jack, 10, 9, 8, 7 if using French suited cards.
+- As, Roi, Dame, Valet, 10, 9, 8, 7 si l'on utilise des cartes aux couleurs françaises.
 
-Deal and play are counterclockwise and the turn to deal passes to the right after each hand.
+La donne et le jeu se font dans le sens antihoraire et le tour de donner passe à la droite après chaque main.
 
-## Deal
+## Donnée
 
-There isn't a commonly accepted way to pick first dealer, other than whoever happens to be holding the deck when the game starts. The dealer shuffles, the person on dealer's left cuts, and then the dealer deals 10 cards to each player and two to the talon or kup (куп). People tend to deal however they please. Aleksandar Sredojevic's preference is to deal a packet of 3 cards to each player, then 2 to each player, then 2 to the talon, then once again 3 to each and 2 to each. 
+Il n'y a pas de méthode couramment acceptée pour choisir le premier donneur, sinon celui qui se trouve avoir le jeu en main au début. Le donneur mélange, la personne à sa gauche coupe, puis le donneur distribue 10 cartes à chaque joueur et deux au talon ou kup (куп). Les gens tendent à distribuer comme ils veulent. La préférence d'Aleksandar Sredojevic est de distribuer un lot de 3 cartes à chaque joueur, puis 2 à chaque joueur, puis 2 au talon, puis à nouveau 3 à chacun et 2 à chacun.
 
-## Bidding
+## Enchères
 
-After the deal there is an auction. The possible bids are the numbers from 5 to 10, in which the bidder undertakes to win at least that many tricks, and above 10 is the special bid "meksiko", in which the bidder promises to win all 10 tricks without trumps and without using the talon.
+Après la donne, il y a une enchère. Les enchères possibles sont les nombres de 5 à 10, dans lesquels l'enchérisseur s'engage à remporter au moins ce nombre de plis, et au-dessus de 10 se trouve l'enchère spéciale « meksiko », dans laquelle l'enchérisseur promet de gagner les 10 plis sans atouts et sans utiliser le talon.
 
-The person on the dealer's right speaks first and must bid at least 5. Then subsequent players in turn must bid higher or pass. A player who has passed is not allowed to rejoin the auction. The auction ends once two players have passed, and the last player, who bid highest, is the declarer. 
+La personne à la droite du donneur parle en premier et doit enchérir au moins 5. Ensuite, les joueurs suivants doivent enchérir plus haut ou passer. Un joueur qui a passé n'est pas autorisé à reprendre l'enchère. L'enchère se termine lorsque deux joueurs ont passé, et le dernier joueur, qui a enchéri le plus haut, est le déclarant.
 
-If the final bid was a number the declarer flips the two talon cards for all to see. These are then added to the declarer's hand for a total of 12 cards, and the declarer discards any two of these cards face down. Finally the declarer announces the trump suit for the hand. 
+Si l'enchère finale était un nombre, le déclarant retourne les deux cartes du talon pour que tous les voient. Celles-ci sont ajoutées à la main du déclarant pour un total de 12 cartes, et le déclarant défausse deux de ces cartes face en bas. Enfin, le déclarant annonce la couleur d'atout de la main.
 
-If the final bid was meksiko no one sees the talon, there are no trumps, and the play begins immediately.
+Si l'enchère finale était meksiko, personne ne voit le talon, il n'y a pas d'atouts, et le jeu commence immédiatement.
 
-## Play
+## Jeu
 
-The declarer leads to the first trick and subsequently the winner of each trick leads to the next. 
+Le déclarant entame le premier pli et ensuite le gagnant de chaque pli entame le suivant.
 
-Any card can be led, and each of the other two players in turn must play a card to the trick. They must play a card of the same suit as the led card if they have any. A player with no card of the suit that was led must play a trump if possible. A player with no cards of the suit led and no trumps can play any card.
+N'importe quelle carte peut être entamée, et chacun des deux autres joueurs doit jouer une carte au pli. Ils doivent jouer une carte de la même couleur que la carte entamée s'ils en ont. Un joueur n'ayant aucune carte de la couleur demandée doit jouer un atout si possible. Un joueur n'ayant aucune carte de la couleur demandée et aucun atout peut jouer n'importe quelle carte.
 
-The trick is won by whoever player played the highest trump, or if there are no trumps in the trick by whoever played the highest card of the suit that was led. The winner of the trick takes the three played cards and stacks them face down in front of them, keeping won tricks overlapped but separate so that everyone can see how many tricks each player has won.
+Le pli est gagné par celui qui a joué la carte d'atout la plus haute, ou s'il n'y a pas d'atout dans le pli, par celui qui a joué la carte la plus haute de la couleur demandée. Le gagnant du pli prend les trois cartes jouées et les empile face en bas devant lui, en gardant les plis gagnés chevauchés mais séparés pour que chacun puisse voir combien de plis chaque joueur a gagnés.
 
-Note that there is no obligation to beat the highest card in the trick - a player is free to play any card of the appropriate suit, higher or lower than previous plays.
+Notez qu'il n'y a aucune obligation de monter la carte la plus haute du pli — un joueur est libre de jouer n'importe quelle carte de la couleur appropriée, plus haute ou plus basse que les cartes précédemment jouées.
 
-Note also that the two opponents of the declarer must store their tricks separately since each will score separately for the tricks that they won.
+Notez également que les deux adversaires du déclarant doivent conserver leurs plis séparément puisque chacun marquera séparément pour les plis qu'il a gagnés.
 
-## Scoring
+## Marque
 
-Once all 10 tricks are played each player counts the tricks they won. 
+Une fois les 10 plis joués, chaque joueur compte les plis qu'il a gagnés.
 
-If the declarer won at least as many tricks as were bid, the declarer scores positive points equal to the number of tricks **won** (which may be greater than the bid). If the declarer won fewer tricks than were bid, the declarer scores minus the number that was **bid**. 
+Si le déclarant a gagné au moins autant de plis que l'enchère, il marque des points positifs égaux au nombre de plis **gagnés** (qui peuvent être supérieurs à l'enchère). Si le déclarant a gagné moins de plis que l'enchère, il marque moins le nombre **enchéri**.
 
-If the bid was "meksiko" the declarer scores plus 20 points for taking all the tricks, or minus 20 points if any other player took a trick.
+Si l'enchère était « meksiko », le déclarant marque plus 20 points pour avoir pris tous les plis, ou moins 20 points si un autre joueur a pris un pli.
 
-Whatever the bid, each of the declarer's opponents scores one point for each trick that they won. 
+Quelle que soit l'enchère, chacun des adversaires du déclarant marque un point pour chaque pli qu'il a gagné.
 
-For example if the declarer A bid 6 and won 7 tricks, B won 1 trick and C won 2 the scores are A:+7, B:+1. C:+2. If the declarer had bid 6 but won only 5 tricks, while B won 4 and C won 1, the scores would be A:-6, B:+4, C:+1.
+Par exemple, si le déclarant A a enchéri 6 et a gagné 7 plis, B a gagné 1 pli et C a gagné 2 plis, les scores sont A : +7, B : +1, C : +2. Si le déclarant avait enchéri 6 mais n'avait gagné que 5 plis, tandis que B en a gagné 4 et C en a gagné 1, les scores seraient A : -6, B : +4, C : +1.
 
-A cumulative score is kept for each player, starting at zero. A player's total score can be negative.
+Un score cumulé est conservé pour chaque joueur, commençant à zéro. Le score total d'un joueur peut être négatif.
 
-The game ends when any player reaches a cumulative score of 51 points or more (over as many hands as that takes). The winner is then the player who has most points. 
+Le jeu se termine lorsqu'un joueur atteint un score cumulé de 51 points ou plus (en autant de mains que nécessaire). Le vainqueur est alors le joueur qui a le plus de points.
 
-- In case of a tie for most points, the player who was declarer in the final hand wins.
+- En cas d'égalité pour le plus grand nombre de points, le joueur qui était déclarant lors de la dernière main gagne.
 
-- If neither player in the tie was the declarer, the winner is whichever of them won more tricks in the final hand. If they won equal numbers of tricks they share the victory.
+- Si aucun des joueurs à égalité n'était le déclarant, le vainqueur est celui d'entre eux qui a gagné le plus de plis lors de la dernière main. S'ils ont gagné le même nombre de plis, ils partagent la victoire.
 
-## Variations
+## Variantes
 
-Some players do not allow an explicit bid of 5. Instead the minimum bid allowed is 6 and the first player is allowed to pass. If all three players pass the dealer becomes the declarer and must take at least 5 tricks, scoring as for a bid of 5. 
+Certains joueurs ne permettent pas d'enchère explicite de 5. Au lieu de cela, l'enchère minimum autorisée est 6 et le premier joueur est autorisé à passer. Si les trois joueurs passent tous, le donneur devient le déclarant et doit prendre au moins 5 plis, en marquant comme pour une enchère de 5.
 
-Some play that if the final (and only) bid is 5, the declarer takes the two talon cards without showing them to the other players.
+Certains jouent que si l'enchère finale (et unique) est 5, le déclarant prend les deux cartes du talon sans les montrer aux autres joueurs.
 
-Some players shorten the game by setting the target as 31 points rather than 51.
+Certains joueurs raccourcissent le jeu en fixant l'objectif à 31 points plutôt que 51.
 
-In at least one group a player unable to follow suit is not required to play a trump, but this way of playing is unusual.
+Dans au moins un groupe, un joueur incapable de suivre la couleur n'est pas obligé de jouer un atout, mais cette façon de jouer est inhabituelle.
 
-There is an alternative method of scoring, sometimes known as "pub scoring". It is for the most part the same as regular scoring, with the following differences:
+Il existe une méthode de marquage alternative, parfois appelée « marquage de pub ». Elle est pour la plupart identique au marquage normal, avec les différences suivantes :
 
-- for a failed bid the declarer losers twice the amount of the bid (presumably 40 points for a failed meksiko);
+- pour une enchère échouée, le déclarant perd deux fois le montant de l'enchère (probablement 40 points pour un meksiko échoué) ;
 
-- an opponent of the declarer who wins no tricks at all scores minus the number bid (-20 for meksiko) instead of zero. 
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Meksiko
+- un adversaire du déclarant qui ne gagne aucun pli du tout marque moins le nombre enchéri (-20 pour meksiko) au lieu de zéro.

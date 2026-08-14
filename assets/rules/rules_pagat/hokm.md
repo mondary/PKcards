@@ -3,139 +3,137 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An Iranian Whist-like card game for four players, in which the first player chooses trumps based on the first five cards dealt.
+**But :** Jeu de cartes iranien apparenté au Whist pour quatre joueurs, dans lequel le premier joueur choisit l'atout d'après les cinq premières cartes distribuées.
 
 ---
 
-*This page is mainly based on information from Ali Jahânshiri. Thanks also to Babak Mozaffari and Cathy Tavangarian for sending descriptions of this game.*
+*Cette page est principalement basée sur les informations d'Ali Jahânshiri. Merci aussi à Babak Mozaffari et Cathy Tavangarian pour leurs descriptions de ce jeu.*
 
-## Game Overview
+## Vue d'ensemble
 
-Hokm is a trick taking card game, in which the object is to be the first team or player to win 7 points. It's the most popular card game in Iran. Deal and play are anticlockwise.
+Hokm est un jeu de levées, dont le but est d'être la première équipe ou le premier joueur à atteindre 7 points. C'est le jeu de cartes le plus populaire en Iran. La donne et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-The word Hokm literally means "command, order" but in card game jargon, it's Persian for trump suit.
+Le mot Hokm signifie littéralement « commande, ordre » mais dans le jargon des jeux de cartes, c'est le persan pour désigner la couleur d'atout.
 
-### Hâkem
+### Hâjem
 
-At the beginning of each hand, one of the players becomes Hâkem. Hâkem literally means "ruler, governor" and in card game jargon, it refers to a player having certain privileges in the game. In Hokm, these privileges are:
+Au début de chaque main, un des joueurs devient Hâjem. Hâjem signifie littéralement « dirigeant, gouverneur » et dans le jargon des jeux de cartes, il désigne un joueur disposant de certains privilèges. Au Hokm, ces privilèges sont :
 
-- To be the player who receives the first cards dealt.
+- Être le joueur qui reçoit les premières cartes distribuées.
 
-- To be the player who makes trump (i.e. chooses and declares what suit will be trump) for the current hand.
+- Être le joueur qui détermine l'atout (c'est-à-dire qui choisit et déclare quelle couleur sera l'atout) pour la main en cours.
 
-- To be the player who leads to the first trick of the hand.
+- Être le joueur qui entame la première levée.
 
-### Players and Cards
+### Joueurs et cartes
 
-Hokm can be played with 2, 3 or 4 players. If with four players, two players normally team up against the other two.
+Hokm peut se jouer à 2, 3 ou 4 joueurs. S'il y a quatre joueurs, deux joueurs forment généralement une équipe contre les deux autres.
 
-The game uses a standard 52-card deck. Within each suit, the cards are ranked from highest to lowest: **A K Q J 10 9 8 7 6 5 4 3 2**
+Le jeu utilise un jeu standard de 52 cartes. Dans chaque couleur, les cartes sont classées de la plus forte à la plus faible : **A R D V 10 9 8 7 6 5 4 3 2**
 
-## Hokm for 4 Players
+## Hokm à 4 joueurs
 
-The four players are in fixed partnerships, with partners sitting opposite each other.
+Les quatre joueurs forment des équipes fixes, les partenaires étant assis en face l'un de l'autre.
 
-### Determination of Hâkem, His Partner and Dealer
+### Détermination du Hâjem, de son partenaire et du donneur
 
-One of the players flips one card to each player anticlockwise. The first player to take an **Ace** becomes Hâkem. The dealing is continued (notice that Hâkem gets no more card) until another player takes another **Ace**. This player becomes the partner of Hâkem. If necessary, the players must change seats so that the partners are sitting opposite each other. The player to the left of Hâkem, who is from the opposite team, becomes dealer.
+Un des joueurs retourne une carte à chaque joueur dans le sens inverse des aiguilles d'une montre. Le premier joueur à recevoir un **As** devient Hâjem. La distribution se poursuit (le Hâjem ne reçoit pas de carte supplémentaire) jusqu'à ce qu'un autre joueur reçoive un autre **As**. Ce joueur devient le partenaire du Hâjem. Si nécessaire, les joueurs doivent changer de place pour que les partenaires soient assis en face l'un de l'autre. Le joueur à la gauche du Hâjem, qui fait partie de l'équipe adverse, devient le donneur.
 
-### Deal
+### Distribution
 
-Before the deal, the partner of Hâkem (the player to dealer's left) has the right to cut the deck. The dealer then deals out all the cards in 3 rounds so that each player has 13 cards. Each player receives 5 cards at a time in the first round, and 4 cards in the following rounds. The first cards are dealt to Hâkem (the player to dealer's right) and the deal continues anticlockwise, ending with the dealer. Hâkem must choose and declare the trump suit on the basis of his own first 5 cards only. To avoid any possibility that Hâkem's partner might help by passing information about his cards, the deal must be paused during the first round, and no cards given to Hâkem's partner until Hâkem has declared the trump suit. 
+Avant la distribution, le partenaire du Hâjem (le joueur à la gauche du donneur) a le droit de couper le jeu. Le donneur distribue ensuite toutes les cartes en 3 tours afin que chaque joueur ait 13 cartes. Chaque joueur reçoit 5 cartes à la fois au premier tour, puis 4 cartes aux tours suivants. Les premières cartes sont distribuées au Hâjem (le joueur à la droite du donneur) et la distribution se poursuit dans le sens inverse des aiguilles d'une montre, en terminant par le donneur. Le Hâjem doit choisir et déclarer la couleur d'atout uniquement sur la base de ses 5 premières cartes. Pour éviter toute possibilité que le partenaire du Hâjem aide en transmettant des informations sur ses cartes, la distribution doit être interrompue pendant le premier tour, et aucune carte n'est donnée au partenaire du Hâjem jusqu'à ce que celui-ci ait déclaré la couleur d'atout.
 
-### Play
+### Jeu
 
-Hâkem leads to the first trick. Each player in turn must follow suit. If a player holds no cards of the suit led, that player may play any card (including any trump card). The highest card in the trump suit always wins the trick. If no trump cards are played, the trick goes to the highest card of the suit led. The winner of a trick leads to the next.
+Le Hâjem entame la première levée. Chaque joueur à son tour doit suivre la couleur demandée. Si un joueur n'a aucune carte de la couleur demandée, il peut jouer n'importe quelle carte (y compris un atout). La carte la plus forte de la couleur d'atout remporte toujours la levée. Si aucun atout n'est joué, la levée revient à la carte la plus forte de la couleur demandée. Le vainqueur d'une levée entame la levée suivante.
 
-### Scoring
+### Marque des points
 
-- The first team to take 7 tricks wins the hand and scores 1 point.
+- La première équipe à remporter 7 levées gagne la main et marque 1 point.
 
-- If the Hâkem's team wins the hand by taking the first 7 tricks, the other team having taken none, they win 2 points instead of 1. If the Hâkem's opponents win by taking the first 7 tricks, they win 3 points instead of 1.
+- Si l'équipe du Hâjem gagne la main en remportant les 7 premières levées, l'autre équipe n'en ayant remporté aucune, elle marque 2 points au lieu de 1. Si les adversaires du Hâjem gagnent en remportant les 7 premières levées, ils marquent 3 points au lieu de 1.
 
-- The first team to reach 7 points wins the game.
+- La première équipe à atteindre 7 points gagne la partie.
 
-- If the Hâkem's team won the hand, the Hâkem retains the rank, and the same dealer deals again. If the other team wins, the turn to deal passes to the right: the previous Hâkem deals and the player to his right becomes Hâkem for the following hand.
+- Si l'équipe du Hâjem a gagné la main, le Hâjem conserve son rang, et le même donneur redistribue. Si l'autre équipe gagne, le tour de distribution passe à droite : le Hâjem précédent distribue et le joueur à sa droite devient Hâjem pour la main suivante.
 
-## Hokm for 3 Players
+## Hokm à 3 joueurs
 
-### Determination of Hâkem and Dealer
+### Détermination du Hâjem et du donneur
 
-Before starting the game, one of the 2's is removed from the deck, leaving 51 cards (17 cards for each player). One of the players flips one card at a time to each player anticlockwise. The first player to take an **Ace** becomes Hâkem and the player to his left becomes dealer.
+Avant de commencer, un des 2 est retiré du jeu, laissant 51 cartes (17 cartes par joueur). Un des joueurs retourne une carte à la fois à chaque joueur dans le sens inverse des aiguilles d'une montre. Le premier joueur à recevoir un **As** devient Hâjem et le joueur à sa gauche devient donneur.
 
-### Deal
+### Distribution
 
-The dealer deals out all the cards in 4 rounds so that each player has 17 cards. Each player receives 5 cards at a time in the first round, and 4 cards in the following rounds. The Hâkem receives the first cards and the deal continues anticlockwise. The deal is paused after the first round, and continued after Hâkem has declared the trump suit.
+Le donneur distribue toutes les cartes en 4 tours afin que chaque joueur ait 17 cartes. Chaque joueur reçoit 5 cartes à la fois au premier tour, puis 4 cartes aux tours suivants. Le Hâjem reçoit les premières cartes et la distribution se poursuit dans le sens inverse des aiguilles d'une montre. La distribution est interrompue après le premier tour et reprise après que le Hâjem a déclaré la couleur d'atout.
 
-### Play
+### Jeu
 
-Hâkem leads to the first trick. Each player in turn must follow suit. If a player holds no cards of the suit led, that player may play any card (including any trump card). The highest card in the trump suit always wins the trick. If no trump cards are played, the trick goes to the highest card of the suit led. The winner of a trick leads to the next.
+Le Hâjem entame la première levée. Chaque joueur à son tour doit suivre la couleur demandée. Si un joueur n'a aucune carte de la couleur demandée, il peut jouer n'importe quelle carte (y compris un atout). La carte la plus forte de la couleur d'atout remporte toujours la levée. Si aucun atout n'est joué, la levée revient à la carte la plus forte de la couleur demandée. Le vainqueur d'une levée entame la levée suivante.
 
-### Scoring
+### Marque des points
 
-- If one player takes all the first 7 tricks, the hand is over and the winner scores either 2 points if he was Hâkem or 3 if he wasn't Hâkem.
+- Si un joueur remporte les 7 premières levées, la main est terminée et le vainqueur marque soit 2 points s'il était Hâjem, soit 3 s'il ne l'était pas.
 
-- Otherwise, the winner is the first player who takes a number of tricks that cannot be equalled or exceeded by another player. For example if the tricks are 7-4-3 the play must continue, because a second player might also achieve 7 tricks, but at 7-4-4 the player with 7 tricks has won, because no one else can take more than 6 tricks. In the same way 8-3-1 is not yet a win, but 8-2-2 is a win for the player with 8 tricks. In such a case the winner of the hand scores 1 point.
+- Sinon, le vainqueur est le premier joueur qui remporte un nombre de levées qui ne peut être égalé ou dépassé par un autre joueur. Par exemple, si les levées sont à 7-4-3, le jeu doit continuer, car un deuxième joueur pourrait aussi atteindre 7 levées, mais à 7-4-4 le joueur avec 7 levées a gagné, car personne d'autre ne peut prendre plus de 6 levées. De même, 8-3-1 n'est pas encore une victoire, mais 8-2-2 est une victoire pour le joueur avec 8 levées. Dans ce cas, le vainqueur de la main marque 1 point.
 
-- If two of players take the same number of tricks then the third player wins the hand and scores 1 point. So for example if the tricks are 7-7-3, the player with 3 tricks wins.
+- Si deux joueurs remportent le même nombre de levées, le troisième joueur gagne la main et marque 1 point. Ainsi, par exemple, si les levées sont à 7-7-3, le joueur avec 3 levées gagne.
 
-- The first player to reach 7 points wins the game.
+- Le premier joueur à atteindre 7 points gagne la partie.
 
-- If Hâkem won the hand, he keeps this rank and the same player deals again. Otherwise Hâkem becomes the new dealer and the player to his right becomes Hâkem for the following hand.
+- Si le Hâjem a gagné la main, il conserve ce rang et le même joueur redistribue. Sinon, le Hâjem devient le nouveau donneur et le joueur à sa droite devient Hâjem pour la main suivante.
 
-## Hokm for 2 Players
+## Hokm à 2 joueurs
 
-### Determination of Hâkem and Dealer
+### Détermination du Hâjem et du donneur
 
-One of the players flips one card at a time to each player alternately. The first player to take an **Ace** becomes Hâkem and the other player becomes dealer.
+Un des joueurs retourne une carte à la fois à chaque joueur alternativement. Le premier à recevoir un **As** devient Hâjem et l'autre joueur devient donneur.
 
-### Deal
+### Distribution
 
-The dealer deals 5 cards at once to Hâkem and 5 to himself and the undealt stock is placed face down in the middle of table. Hâkem examines his cards and declares the trump suit. Then he chooses 3 of his 5 cards to discard face down to start the discard pile. In the same way, the other player discards 2 unwanted cards from his hand face down.
+Le donneur distribue 5 cartes d'un coup au Hâjem et 5 à lui-même, et le talon non distribué est placé face cachée au milieu de la table. Le Hâjem examine ses cartes et déclare la couleur d'atout. Ensuite, il choisit 3 de ses 5 cartes à défausser face cachée pour commencer la pile de défausse. De même, l'autre joueur défausse 2 cartes indésirables de sa main face cachée.
 
-Now Hâkem draws the top card from the undealt stock (without exposing it to his opponent). If he estimates it valuable, he can add it to his hand; otherwise he discards it face down and takes the next card from the top of the stock, which he must keep. If he chose to keep the first card, he must discard the second card face down, having looked at it. Now the other player draws from the stock, choosing to keep the first or second card in the same way. This continues, the players taking turns to draw, until the stock is exhausted. At this point, each player should have 13 cards in hand.
+Le Hâjem tire ensuite la carte du dessus du talon (sans la montrer à son adversaire). S'il l'estime précieuse, il peut l'ajouter à sa main ; sinon, il la défausse face cachée et tire la carte suivante du talon, qu'il doit conserver. S'il a choisi de garder la première carte, il doit défausser la seconde face cachée, après l'avoir regardée. Ensuite, l'autre joueur tire du talon, choisissant de garder la première ou la deuxième carte de la même manière. Cela continue, les joueurs tirant à tour de rôle, jusqu'à épuisement du talon. À ce moment, chaque joueur doit avoir 13 cartes en main.
 
-The decision whether to take the first card or wait for the second brings a lot of excitement to the game. Sometimes you miss a valuable card because you have picked the first card. Your opponent must not see any of your discarded cards.
+La décision de prendre la première carte ou d'attendre la deuxième apporte beaucoup d'excitation au jeu. Parfois, on rate une carte précieuse parce qu'on a pris la première. L'adversaire ne doit voir aucune de vos cartes défaussées.
 
-### Play
+### Jeu
 
-Hâkem leads to the first trick. The other player must follow suit. If he holds no cards of the suit led, he may play any card (including any trump card). The highest card in the trump suit always wins the trick. If no trump cards are played, the trick goes to the highest card of the suit led. The winner of a trick leads to the next.
+Le Hâjem entame la première levée. L'autre joueur doit suivre la couleur. S'il n'a pas de carte de la couleur demandée, il peut jouer n'importe quelle carte (y compris un atout). La carte la plus forte de la couleur d'atout remporte toujours la levée. Si aucun atout n'est joué, la levée revient à la carte la plus forte de la couleur demandée. Le vainqueur d'une levée entame la levée suivante.
 
-### Scoring
+### Marque des points
 
-- The first player to take 7 tricks wins the hand and scores 1 point.
+- Le premier joueur à remporter 7 levées gagne la main et marque 1 point.
 
-- If Hâkem wins the first 7 tricks he scores 2 points instead of 1. If Hâkem's opponent wins by taking the first 7 tricks, he scores 3 points instead of 1.
+- Si le Hâjem remporte les 7 premières levées, il marque 2 points au lieu de 1. Si l'adversaire du Hâjem gagne en remportant les 7 premières levées, il marque 3 points au lieu de 1.
 
-- The first player to reach 7 points wins the game.
+- Le premier joueur à atteindre 7 points gagne la partie.
 
-- If Hâkem won the hand, he remains Hâkem. If not, he deals and the other player becomes Hâkem.
+- Si le Hâjem a gagné la main, il reste Hâjem. Sinon, il distribue et l'autre joueur devient Hâjem.
 
-## Glossary
+## Glossaire
 
-Kot 
-Winning the hand by taking all the first seven tricks is called **Kot** which is worth 2 points.
-Hâkem Koti 
-If you or your team could **Kot** the Hâkem player or team (impossible mission) then it's called **Hâkem Koti** which is worth 3 points.
-Hokm Lâzem 
-To lead a trump card which obliges other players to play a trump card.
-Boridan 
-(literally 'to cut' - cf. French 'couper') To win a trick by playing a trump card when you are void of the suit led.
-Rad Kardan 
-(literally 'to bypass') Not to play a trump card when you are void of the suit led, because you are quite sure that your partner will win the trick.
-Pâyin Âmadan 
-(literally 'to lay low') To play a low card because you are quite sure that your opponent will win the trick.
-Bâlâ Âmadan 
-(literally 'to lay high') To play a high card in order to make the next player play a higher card if he can.
+Kot
+Remporter la main en gagnant les sept premières levées s'appelle **Kot**, ce qui vaut 2 points.
+Hâjem Koti
+Si vous ou votre équipe parvenez à **Kot** le joueur ou l'équipe Hâjem (mission impossible), cela s'appelle **Hâjem Koti**, ce qui vaut 3 points.
+Hokm Lâzem
+Jouer une carte d'atout qui oblige les autres joueurs à jouer un atout.
+Boridan
+(littéralement « couper » — cf. français « couper ») Remporter une levée en jouant une carte d'atout quand on n'a pas de la couleur demandée.
+Rad Kardan
+(littéralement « contourner ») Ne pas jouer un atout quand on n'a pas de la couleur demandée, parce qu'on est sûr que son partenaire remportera la levée.
+Pâyin Âmadan
+(littéralement « se faire petit ») Jouer une carte basse parce qu'on est sûr que son adversaire remportera la levée.
+Bâlâ Âmadan
+(littéralement « se faire grand ») Jouer une carte haute pour forcer le joueur suivant à jouer une carte encore plus haute s'il le peut.
 
-## Other Hokm web pages
+## Autres pages web sur Hokm
 
-Here is an archive copy of [Ali Jahânshiri's Hokm page](https://web.archive.org/web/20131006142727/jahanshiri.ir/cardgames/en/hokm.html).
+Voici une copie d'archive de la [page Hokm d'Ali Jahânshiri](https://web.archive.org/web/20131006142727/jahanshiri.ir/cardgames/en/hokm.html).
 
-## Software and Online Games
+## Logiciels et jeux en ligne
 
-At Vahid Dastpak's [Baazii](https://baazii.com/) site you can play Hokm online against computer or live opponents.
+Sur le site [Baazii](https://baazii.com/) de Vahid Dastpak, vous pouvez jouer au Hokm en ligne contre l'ordinateur ou des adversaires en direct.
 
-The [Varaq](https://varaq.me/) site offers Hokm apps for Android and iOS.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Hokm
+Le site [Varaq](https://varaq.me/) propose des applications Hokm pour Android et iOS.

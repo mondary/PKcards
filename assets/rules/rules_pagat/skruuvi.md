@@ -4,265 +4,265 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Whist aux enchères, Plis
-**But :** A Finnish card game for four players which is a descendant of the Russian game Vint and a distant cousin to Bridge.
-**Autres noms :** Skruv-Whist in Swedish and Skru
+**But :** Un jeu de cartes finlandais pour quatre joueurs, descendant du jeu russe Vint et cousin éloigné du Bridge.
+**Autres noms :** Skruv-Whist en suédois et Skru
 
 ---
 
 ## Introduction
 
-The Finnish game **Scruuvi** is a descendant of the famous 19th century Russian card game Vint and a distant cousin of Bridge. When Vint was introduced to Finland in the late 19th century it was known as Skruv-Whist in Swedish and Skruuvi in Finnish, both words being translations of 'Vint' which means 'screw', referring to the screw-like tightening of the bidding in the game.
+Le jeu finlandais **Skruuvi** est un descendant du célèbre jeu de cartes russe du XIXe siècle Vint et un cousin éloigné du Bridge. Lorsque Vint a été introduit en Finlande à la fin du XIXe siècle, il était connu sous le nom de Skruv-Whist en suédois et Skruuvi en finnois, les deux mots étant des traductions de « Vint » qui signifie « vis », en référence au resserrement en spirale des enchères dans le jeu.
 
-This page describes a modern version of Skruuvi which is the result of an extensive process of reform through the 20th and early 21st century. It is largely based on the rules published by the Helsingin Suomalainen Klubi (Helsinki Finnish Club) in their [Handbook of Skruuvi](https://web.archive.org/web/20200716095115/https://www.klubi.fi/site/assets/files/1157/handbook_skruuvi.pdf) (archive copy) in 2016. For further details of the history of Skruuvi and its relationship to Vint see the page Screw Whist: Vint in Finland with contributions by Olli Salmi and Prof Olli Meretoja.
+Cette page décrit une version moderne de Skruuvi qui est le résultat d'un vaste processus de réforme à travers les XXe et début du XXIe siècle. Elle est largement basée sur les règles publiées par le Helsingin Suomalainen Klubi (Club finlandais d'Helsinki) dans leur [Manuel de Skruuvi](https://web.archive.org/web/20200716095115/https://www.klubi.fi/site/assets/files/1157/handbook_skruuvi.pdf) (copie d'archive) en 2016. Pour plus de détails sur l'histoire de Skruuvi et ses relations avec Vint, voir la page Screw Whist: Vint en Finlande avec des contributions d'Olli Salmi et du Prof Olli Meretoja.
 
-## Players, Cards and Format
+## Joueurs, cartes et format
 
-There are four players, and the game is played clockwise.
+Il y a quatre joueurs, et le jeu se joue dans le sens horaire.
 
-A standard international 52-card pack is used. It is normal, though not completely necessary to use two such decks with different coloured backs. As in Whist or Bridge, while the dealer is dealing from one pack the player sitting opposite the dealer shuffles the other pack which will be used by the next dealer. The shuffler places the shuffled pack to his or her right. Traditionally it should be placed face up with a middling card (not an A, K, 2 or 3) on top. After the hand has been bid, played and scored, the new dealer takes the shuffled pack which should be to his or her left, passes it across to the opponent to the right to be cut, and then deals while the player across the table shuffles the pack that has just been used.
+Un jeu standard international de 52 cartes est utilisé. Il est normal, bien que pas strictement nécessaire, d'utiliser deux jeux de ce type avec des dos de couleurs différentes. Comme au Whist ou au Bridge, pendant que le donneur distribue depuis un jeu, le joueur assis en face du donneur mélange l'autre jeu qui sera utilisé par le prochain donneur. Le mélangeur place le jeu mélangé à sa droite. Traditionnellement, il doit être placé face visible avec une carte moyenne (ni A, R, 2 ni 3) sur le dessus. Après que la main a été enchérie, jouée et marquée, le nouveau donneur prend le jeu mélangé qui devrait être à sa gauche, le passe à l'adversaire à droite pour qu'il coupe, puis distribue pendant que le joueur en face de la table mélange le jeu qui vient d'être utilisé.
 
-Most of the time Skruuvi is played as either a Kitty Game or a No-Kitty Game between two partnerships, partners sitting opposite each other. Optionally, some deals may be played as Bolshevik, in which one player plays against the other three as a team.
+La plupart du temps, Skruuvi est joué soit comme un jeu avec Kitty soit comme un jeu sans Kitty entre deux partenariats, les partenaires étant assis en face l'un de l'autre. En option, certaines donnes peuvent être jouées en mode Bolchevique, dans lequel un joueur joue contre les trois autres en tant qu'équipe.
 
-The standard format consists of 24 deals consisting of three sets of 8. Each set of eight deals consists of four Kitty Games followed by four No-Kitty Games. Between the sets of 8 the players change seats in such a way that by the end of the whole session each player has played one set of 8 deals with each other player as a partner.
+Le format standard comprend 24 donnes composées de trois séries de 8. Chaque série de huit donnes comprend quatre jeux avec Kitty suivis de quatre jeux sans Kitty. Entre les séries de 8, les joueurs changent de place de telle sorte qu'à la fin de la session chaque joueur ait joué une série de 8 donnes avec chaque autre joueur comme partenaire.
 
-Optionally the players may agree to play in addition one or more sets of Bolshevik, for example after each normal set of 8 deals or after the last set only. 
+En option, les joueurs peuvent convenir de jouer en plus une ou plusieurs séries de Bolchevique, par exemple après chaque série normale de 8 donnes ou seulement après la dernière série.
 
-For a shorter session, a 12-deal format is possible consisting 4 deals with each pairing of partners. Each set of 4 deals then consists of two Kitty Games followed by two No-Kitty games.
+Pour une session plus courte, un format de 12 donnes est possible, comprenant 4 donnes avec chaque paire de partenaires. Chaque série de 4 donnes comprend alors deux jeux avec Kitty suivis de deux jeux sans Kitty.
 
-## Contract Types
+## Types de contrats
 
-There are three types of contract: Trumps, Grand and Misère. 
+Il existe trois types de contrats : Atouts, Grand et Misère.
 
-Trumps
-The aim is to win tricks. The trump suit and the level are specified in the bid. The minimum number of tricks that the bidding side undertakes to win is six plus the level of the bid. For example a bid of '5 diamonds' is an undertaking to win at least 11 tricks (6+5) with diamonds as trumps.
-Grand
-The aim is to win tricks. There is no trump suit and the level of the bid specifies how many tricks in excess of six must be won. For example '7 grand' is an undertaking to win all 13 tricks (6+7) with no trumps.
-Misère
-The aim is to lose tricks and in particular to avoid winning tricks containing Aces. There are no trumps. The penalty for taking an Ace increases steadily during the play. When Misère is bid, the bidding team undertakes to win at most seven tricks **minus** the level of the bid. For example '6 misère' is an undertaking to win not more than one trick. Misère is also played if no one bids in the auction: in this case every trick taken (and every Ace won) counts against the team that wins it.
+**Atouts**
+Le but est de gagner des plis. La couleur d'atout et le niveau sont spécifiés dans l'enchère. Le nombre minimum de plis que l'équipe qui a enchéri s'engage à gagner est six plus le niveau de l'enchère. Par exemple, une enchère de « 5 carreaux » est un engagement à gagner au moins 11 plis (6+5) avec les carreaux comme atouts.
 
-## Kitty Game
+**Grand**
+Le but est de gagner des plis. Il n'y a pas de couleur d'atout et le niveau de l'enchère spécifie combien de plis au-delà de six doivent être gagnés. Par exemple « 7 grand » est un engagement à gagner les 13 plis (6+7) sans atouts.
 
-In this format there is a kitty of four cards to be taken by the highest bidder. The bidder then passes four cards to partner who in turn distributes one card to each of the other three players. It was also known as 'Packet Skruuvi', and was described a Finnish rule book as early as 1895, though without the misère options and doubling.
+**Misère**
+Le but est de perdre des plis et en particulier d'éviter de gagner des plis contenant des As. Il n'y a pas d'atouts. La pénalité pour avoir pris un As augmente progressivement pendant le jeu. Lorsque la Misère est enchérie, l'équipe qui a enchéri s'engage à gagner au plus sept plis **moins** le niveau de l'enchère. Par exemple « 6 misère » est un engagement à ne pas gagner plus d'un pli. La Misère est aussi jouée si personne n'enchérit : dans ce cas, chaque pli pris (et chaque As gagné) compte contre l'équipe qui le gagne.
 
-### Deal
+## Jeu avec Kitty
 
-The dealer deals 12 cards face down to each player, clockwise, one card at a time. During the deal a kitty of 4 cards is dealt face down to the centre of the table. The kitty may be dealt whenever the dealer chooses provided that it does not include the top card, the bottom card or consist of 4 consecutive cards from the pack.
+Dans ce format, il y a une kitty de quatre cartes à prendre pour le plus haut enchérisseur. L'enchérisseur passe ensuite quatre cartes à son partenaire qui à son tour distribue une carte à chacun des trois autres joueurs. C'était aussi connu sous le nom de « Skruuvi en paquet », décrit dans un livre de règles finlandais dès 1895, mais sans les options de misère et les contrés.
 
-### Auction
+### Donnée
 
-The dealer speaks first and the turn to bid passes clockwise. Each player must either pass or bid higher than the previous bidder. A bid consists of a **level**, which is a whole number from 1 to 7, and a **denomination**. The possible denominations, in ascending order, are **misère, spades, clubs, diamonds, hearts, grand**. To be higher, a bid must either be at a higher level than the previous bid, or the same level in a higher denomination.
+Le donneur distribue 12 cartes face en bas à chaque joueur, dans le sens horaire, une carte à la fois. Pendant la distribution, une kitty de 4 cartes est distribuée face en bas au centre de la table. La kitty peut être distribuée à tout moment que le donneur choisit, à condition qu'elle n'inclue pas la carte du dessus, la carte du bas ou ne soit pas constituée de 4 cartes consécutives du jeu.
 
-Since the final contact has to be at a level of 5 or higher, lower bids are used in the early rounds to convey information about hand strength, potential trump suits and the location of Aces and Kings - see conventions.
+### Enchères
 
-If all four players pass at their first turn to speak, the auction ends and an All-pass Misère is played. If anyone bids, the auction continues in rotation until there are **eight** consecutive passes (two by each player). A player who has passed may bid again on a subsequent turn. Therefore a player who has bid may pass at his or her next turn and bid again the turn after that, even if everyone else passes twice meanwhile. 
+Le donneur parle en premier et le tour d'enchérir passe dans le sens horaire. Chaque joueur doit soit passer soit enchérir plus haut que le précédent enchérisseur. Une enchère se compose d'un **niveau**, qui est un nombre entier de 1 à 7, et d'une **dénomination**. Les dénominations possibles, par ordre croissant, sont **misère, pique, trèfle, carreau, cœur, grand**. Pour être plus élevée, une enchère doit être soit à un niveau supérieur à l'enchère précédente, soit au même niveau dans une dénomination supérieure.
 
-After eight passes, the last and highest bid is known as the '**kitty bid**', and the that player's team are known as the '**main players**'. They will have to play the contract and their opponents are the '**defenders**'.
+Puisque le contrat final doit être à un niveau de 5 ou plus, les enchères inférieures sont utilisées dans les tours initiaux pour transmettre des informations sur la force de la main, les couleurs d'atout potentielles et la localisation des As et des Rois — voir conventions.
 
-### Card Exchange
+Si les quatre joueurs passent à leur premier tour de parole, l'enchère se termine et une Misère générale est jouée. Si quelqu'un enchérit, l'enchère continue en rotation jusqu'à ce qu'il y ait **huit** passes consécutives (deux par chaque joueur). Un joueur qui a passé peut enchérir à nouveau lors d'un tour ultérieur. Par conséquent, un joueur qui a enchéri peut passer à son prochain tour et enchérir à nouveau au tour suivant, même si tous les autres passent deux fois entre-temps.
 
-The player who made the kitty bid exposes the four kitty cards for everyone to see, and then adds them to his or her hand. The kitty bidder then selects any four cards from hand, arranges them in a packet, and passes the packet across the table face down to partner.
+Après huit passes, la dernière et plus haute enchère est appelée l'« **enchère kitty** », et l'équipe de ce joueur sont les « **joueurs principaux** ». Ils devront jouer le contrat et leurs adversaires sont les « **défenseurs** ».
 
-The kitty bidder's partner takes these four cards, adds them to his or her hand, and selects any three cards from hand to pass face down to the other three players, one to partner and one to each opponent. After this each of the four players should have a hand of 13 cards.
+### Échange de cartes
 
-The kitty bidder is allowed to convey information not only by the selection of cards that are passed but also by the order in which these cards are arranged in the packet. See conventions.
+Le joueur qui a fait l'enchère kitty expose les quatre cartes kitty pour que tout le monde les voie, puis les ajoute à sa main. L'enchérisseur kitty sélectionne ensuite quatre cartes de sa main, les arrange en paquet, et passe le paquet face en bas à travers la table à son partenaire.
 
-### Extended Bids
+Le partenaire de l'enchérisseur kitty prend ces quatre cartes, les ajoute à sa main, et sélectionne trois cartes de sa main à passer face en bas aux trois autres joueurs, une au partenaire et une à chaque adversaire. Après cela, chacun des quatre joueurs devrait avoir une main de 13 cartes.
 
-After the card exchange there is a further period of bidding involving only the main players. They bid in turn, beginning with the kitty bidder, and ending when there are **four** consecutive passes (two by each partner). The final bidder is known as the '**declarer**'. *(Bridge players should note that the declarer will not necessarily be the first of the main players who bid the denomination of the final contract.)*
+L'enchérisseur kitty est autorisé à transmettre des informations non seulement par la sélection des cartes passées mais aussi par l'ordre dans lequel ces cartes sont arrangées dans le paquet. Voir conventions.
 
-If the main players are satisfied with the contract reached at the end of the first part of the auction, both players may just pass twice. If they bid, the first bid must be higher than the kitty bid, and each subsequent bid must be higher.
+### Enchères étendues
 
-Although the kitty bid can be at any level, **the level of the final bid must be at least five** (the main players must undertake to win at least 11 tricks in trumps or grand, or at most 2 tricks in misère). Therefore if the kitty bid was at the level of 4 or less, the main players cannot just pass twice but must raise the level of the bid. 
+Après l'échange de cartes, il y a une nouvelle période d'enchères impliquant uniquement les joueurs principaux. Ils enchérissent à tour de rôle, en commençant par l'enchérisseur kitty, et cela se termine lorsqu'il y a **quatre** passes consécutives (deux par chaque partenaire). Le dernier enchérisseur est appelé le « **déclarant** ». *(Les joueurs de Bridge noteront que le déclarant ne sera pas nécessairement le premier des joueurs principaux qui a enchéri la dénomination du contrat final.)*
 
-### Opponents' Card Exchange and Doubles
+Si les joueurs principaux sont satisfaits du contrat atteint à la fin de la première partie de l'enchère, les deux joueurs peuvent simplement passer deux fois. S'ils enchérissent, la première enchère doit être plus haute que l'enchère kitty, et chaque enchère suivante doit être plus élevée.
 
-If the first bid in the auction by the main players was at a level lower than 6, the opponents now have the right to exchange one card. The player to the left of the declarer passes one card face down to the other defender who takes it and returns one card face down.
+Bien que l'enchère kitty puisse être à n'importe quel niveau, **le niveau de l'enchère finale doit être au moins cinq** (les joueurs principaux doivent s'engager à gagner au moins 11 plis à l'atout ou au grand, ou au plus 2 plis en misère). Par conséquent, si l'enchère kitty était au niveau de 4 ou moins, les joueurs principaux ne peuvent pas simplement passer deux fois mais doivent élever le niveau de l'enchère.
 
-Next, the defender to declarer's left has the opportunity to double the contract. If this defender passes the other defender may double or pass. If either defender doubles, the main player to the doubler's left may pass or redouble, and if the first main player passes the other main player may pass or redouble. The score for a contract, won or lost, is multiplied by two if it was doubled, or by **three** (not four) if it was doubled and redoubled. In a misère, the multiplication applies only to the score for the contract and over- or undertricks, not to the penalties for taking Aces.
+### Échange de cartes des adversaires et contrés
 
-## Kotka (No-Kitty) Game
+Si la première enchère des joueurs principaux était à un niveau inférieur à 6, les adversaires ont maintenant le droit d'échanger une carte. Le joueur à la gauche du déclarant passe une carte face en bas à l'autre défenseur qui la prend et retourne une carte face en bas.
 
-This style of play is named after the city of Kotka, where it was invented in the early 20th century. The declarer's team passes four cards in each direction, and the bidding begins at the 6-level.
+Ensuite, le défenseur à la gauche du déclarant a la possibilité de contrer le contrat. Si ce défenseur passe, l'autre défenseur peut contrer ou passer. Si l'un des défenseurs contré, le joueur principal à la gauche de celui qui a contré peut passer ou surcontrer, et si le premier joueur principal passe, l'autre joueur principal peut passer ou surcontrer. Le score d'un contrat, gagné ou perdu, est multiplié par deux s'il a été contré, ou par **trois** (pas quatre) s'il a été contré et surcontré. En misère, la multiplication s'applique uniquement au score du contrat et aux sur ou sous-plis, pas aux pénalités pour avoir pris des As.
 
-### Deal
+## Kotka (sans Kitty)
 
-The dealer deals out all the cards one at a time so that each player has a hand of 13 cards. 
+Ce style de jeu porte le nom de la ville de Kotka, où il a été inventé au début du XXe siècle. L'équipe du déclarant passe quatre cartes dans chaque direction, et les enchères commencent au niveau 6.
 
-### Auction
+### Donnée
 
-The ranking of the denominations, in ascending order, is **spades, clubs, diamonds, hearts, misère, grand**. Note that the ranking of misère is higher than in Kitty games. The auction proceeds in the same way as in the Kitty game but the **minimum bid level is six**. As usual if all four players pass at their first turn an All-pass Misère is played - because of the stricter bidding requirement this happens more often than in the Kitty game.
+Le donneur distribue toutes les cartes une à une de sorte que chaque joueur ait une main de 13 cartes.
 
-### Card Exchange
+### Enchères
 
-The highest bidder selects any four cards and hands them in a packet face down to partner, who adds them to his or her hand and returns any four cards from hand in a packet. 
+Le classement des dénominations, par ordre croissant, est **pique, trèfle, carreau, cœur, misère, grand**. Notez que le rang de la misère est plus élevé que dans les jeux avec Kitty. L'enchère se déroule de la même manière que dans le jeu avec Kitty mais le **niveau minimum d'enchère est six**. Comme d'habitude, si les quatre joueurs passent à leur premier tour, une Misère générale est jouée — en raison de l'exigence d'enchère plus stricte, cela se produit plus souvent que dans le jeu avec Kitty.
 
-### Extended Bids and Doubles
+### Échange de cartes
 
-The main players continue bidding, as in the Kitty game, until there are four consecutive passes. The final bidder is the declarer. The defenders do not have any opportunity to exchange cards.
+Le plus haut enchérisseur sélectionne quatre cartes et les passe en paquet face en bas à son partenaire, qui les ajoute à sa main et retourne quatre cartes de sa main en paquet.
 
-The opponents may double - the player to declarer's left decides first, then the other defender. If either defender doubles, the main player to the doubler's left decides first whether to redouble, then the other main player.
+### Enchères étendues et contrés
 
-## All-Pass Misère
+Les joueurs principaux continuent d'enchérir, comme dans le jeu avec Kitty, jusqu'à ce qu'il y ait quatre passes consécutives. Le dernier enchérisseur est le déclarant. Les défenseurs n'ont aucune opportunité d'échanger des cartes.
 
-This happens in a Kitty or a Kotka game if all four players pass at their first turn to speak in the auction. If it is a Kitty game the dealer deals the four kitty cards face down to the players, one card each, so that each player has 13 cards.
+Les adversaires peuvent contrer — le joueur à la gauche du déclarant décide en premier, puis l'autre défenseur. Si l'un des défenseurs contré, le joueur principal à la gauche de celui qui a contré décide en premier de surcontrer, puis l'autre joueur principal.
 
-### Card Exchange and Doubles
+## Misère générale
 
-The player to dealer's left and the dealer's partner each pass one card face down across the table to their partners. The dealer and the player to dealer's right take these cards and each pass one card back. Assuming that two packs of cards are being used, the players who pass cards first are those on each side of the newly shuffled pack.
+Cela se produit dans un jeu avec Kitty ou Kotka si les quatre joueurs passent à leur premier tour de parole lors de l'enchère. S'il s'agit d'un jeu avec Kitty, le donneur distribue les quatre cartes kitty face en bas aux joueurs, une carte chacun, de sorte que chaque joueur ait 13 cartes.
 
-The dealer has the first opportunity to double. If the dealer passes, the opportunity to double passes clockwise. If a player doubles, the player to the left of the doubler has the first opportunity to redouble, and if that player passes the turn passes to the player to doubler's right.
+### Échange de cartes et contrés
 
-## Bolshevik
+Le joueur à la gauche du donneur et le partenaire du donneur passent chacun une carte face en bas à travers la table à leurs partenaires. Le donneur et le joueur à la droite du donneur prennent ces cartes et chacun passe une carte en retour. En supposant que deux jeux de cartes sont utilisés, les joueurs qui passent les cartes en premier sont ceux de chaque côté du jeu nouvellement mélangé.
 
-In Bolshevik, one player plays a level 7 contract (normally 7 misère), playing alone against a team consisting of the other three players. Every player must do this at least once. 
+Le donneur a la première opportunité de contrer. Si le donneur passe, l'opportunité de contrer passe dans le sens horaire. Si un joueur contré, le joueur à la gauche de celui qui a contré a la première opportunité de surcontrer, et si ce joueur passe, le tour passe au joueur à la droite de celui qui a contré.
 
-A Bolshevik set consists of up to eight deals during which each of the four players must play one and only one contract. 
+## Bolchevique
 
-### Deal
+Au Bolchevique, un joueur joue un contrat de niveau 7 (normalement 7 misère), jouant seul contre une équipe composée des trois autres joueurs. Chaque joueur doit le faire au moins une fois.
 
-As in the Kitty game, the dealer deals 12 cards to each player and during the deal creates a face down kitty of four cards in the centre of the table.
+Une série de Bolchevique comprend jusqu'à huit donnes pendant lesquelles chacun des quatre joueurs doit jouer un et un seul contrat.
 
-### Auction
+### Donnée
 
-The only possible bid is 'Bolshevik', which is equivalent to 7 misère. The auction begins with the dealer and goes clockwise just once around the table. Players who have already played a contract are skipped and do not get a turn to speak. Those who have not yet played a contract must at their turn either pass or bid Bolshevik. It is possible for two or more players to bid Bolshevik. In this case the bidders choose in turn whether to play their contract or to withdraw and let a later bidder play. If all but one withdraw the last Bolshevik bidder must play.
+Comme dans le jeu avec Kitty, le donneur distribue 12 cartes à chaque joueur et pendant la distribution crée une kitty face en bas de quatre cartes au centre de la table.
 
-If all players pass, the hand is not played. The cards are thrown in and it is the next player's turn to deal. 
+### Enchères
 
-However, if the number of deals out of the set of 8 remaining to be played is equal to the number of players who have not yet played their contract, it is not permitted for all players to pass. If no one else has bid, the player whose turn to speak is last must bid Bolshevik irrespective of whether his or her cards are suitable. This is called a 'forced Bolshevik'.
+La seule enchère possible est « Bolchevique », qui équivaut à 7 misère. L'enchère commence avec le donneur et va dans le sens horaire une seule fois autour de la table. Les joueurs qui ont déjà joué un contrat sont sautés et ne prennent pas la parole. Ceux qui n'ont pas encore joué de contrat doivent à leur tour soit passer soit enchérir Bolchevique. Il est possible que deux joueurs ou plus enchérissent Bolchevique. Dans ce cas, les enchérisseurs choisissent à tour de rôle s'ils veulent jouer leur contrat ou se retirer et laisser un enchérisseur ultérieur jouer. Si tous sauf un se retirent, le dernier enchérisseur Bolchevique doit jouer.
 
-### Card Exchange
+Si tous les joueurs passent, la main n'est pas jouée. Les cartes sont jetées et c'est le tour du joueur suivant de donner.
 
-The bidder exposes the kitty, picks it up, and passes one card face down to each opponent, so that each player has 13 cards.
+Cependant, si le nombre de donnes restantes de la série de 8 à jouer est égal au nombre de joueurs qui n'ont pas encore joué leur contrat, il n'est pas permis que tous les joueurs passent. Si personne d'autre n'a enchéri, le joueur dont c'est le dernier tour de parole doit enchérir Bolchevique indépendamment de la qualité de ses cartes. Cela s'appelle un « Bolchevique forcé ».
 
-### Extended Bids and Doubles
+### Échange de cartes
 
-After handing out cards, the bidder will usually pass and play 7 misère, undertaking to lose every trick. Alternatively the bidder may raise the bid to 7 in any trump suit or 7 grand and attempt to win every trick. A contract to win all the tricks in this case is known as **Dictator**.
+L'enchérisseur expose la kitty, la ramasse, et passe une carte face en bas à chaque adversaire, de sorte que chaque joueur ait 13 cartes.
 
-The player to the bidder's right is known as the 'stalker'. Beginning with the stalker, each opponent in clockwise order may either double or pass. A double counts only for the individual player, not for the team. After all the opponents have spoken, if anyone has doubled, the bidder can either redouble all those who have doubled or pass.
+### Enchères étendues et contrés
 
-## Play
+Après avoir distribué les cartes, l'enchérisseur passera généralement et jouera 7 misère, s'engageant à perdre chaque pli. Alternativement, l'enchérisseur peut monter l'enchère à 7 dans n'importe quelle couleur d'atout ou 7 grand et tenter de gagner tous les plis. Un contrat pour gagner tous les plis dans ce cas est appelé **Dictateur**.
 
-In Kitty or Kotka game when there is a declarer, the player to the declarer's left leads any card to the first trick. In an All-pass Misère the player to the dealer's left leads. In Bolshevik, the player to the bidder's **right** (the stalker) leads to the first trick.
+Le joueur à la droite de l'enchérisseur est appelé le « stalkern ». En commençant par le stalkern, chaque adversaire dans l'ordre horaire peut soit contrer soit passer. Un contré ne compte que pour le joueur individuel, pas pour l'équipe. Après que tous les adversaires ont parlé, si quelqu'un a contré, l'enchérisseur peut soit surcontrer tous ceux qui ont contré soit passer.
 
-In Skruuvi, unlike Bridge, there is no exposed dummy hand. All four players play their own cards.
+## Jeu
 
-Players must follow suit if possible. A player who has no card of the suit that was led may play any card. The trick is won by the highest trump in it, or if it contains no trump, by the highest card of the suit that was led. The winner of each trick leads to the next.
+Dans un jeu avec Kitty ou Kotka lorsqu'il y a un déclarant, le joueur à la gauche du déclarant entame n'importe quelle carte au premier pli. Dans une Misère générale, le joueur à la gauche du donneur entame. Au Bolchevique, le joueur à la **droite** de l'enchérisseur (le stalkern) entame le premier pli.
 
-## Scoring
+Au Skruuvi, contrairement au Bridge, il n'y a pas de main de mort exposée. Les quatre joueurs jouent leurs propres cartes.
 
-In **Kitty** and **Kotka** games the scorer records the score for their team, positive or negative, after each hand. So for example a contract made by the scorer's opponents is recorded as negative points for the scorer's team. At the end of each set of 8 deals, the scores are transferred to the individual players. For example if the scorer's team scored -47 points for the set, then the scorer and partner would subtract 47 from their cumulative score while the other two players add 47.
+Les joueurs doivent suivre la couleur si possible. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. Le pli est gagné par la plus haute carte d'atout, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée. Le gagnant de chaque pli entame le suivant.
 
-The scores for bid contracts are as follows. Note that the 'contract made' score applies only if the contract is successful. If the contract fails only the undertircks are scored.
+## Marque
 
-| Level | 5 | 6 | 7 |
-| Contract made (trump or grand) | 25 | 35 | 50 |
-| Contract made (misère) | 10 | 20 | 35 |
-| Overtricks (each) | 2 | 2 | - |
-| First undertrick (trump or grand) | 5 | 10 | 15 |
-| First undertrick (misère) | 10 | 15 | 20 |
-| Subsequent undertricks | 5 | 5 | 5 |
+Dans les jeux **avec Kitty** et **Kotka**, le marqueur enregistre le score de son équipe, positif ou négatif, après chaque main. Par exemple, un contrat réalisé par les adversaires du marqueur est enregistré comme des points négatifs pour l'équipe du marqueur. À la fin de chaque série de 8 donnes, les scores sont transférés aux joueurs individuels. Par exemple, si l'équipe du marqueur a marqué -47 points pour la série, alors le marqueur et son partenaire soustrairaient 47 de leur score cumulé tandis que les deux autres joueurs ajoutent 47.
 
-In addition, in a misère, for each Ace taken, the winners of the trick are penalised the ordinal number of the trick. For example an Ace taken in the fourth trick costs 4, and Ace taken in the last (13th) trick costs 13.
+Les scores pour les contrats enchéris sont les suivants. Notez que le score « contrat réussi » ne s'applique que si le contrat est réussi. Si le contrat échoue, seuls les sous-plis sont marqués.
 
-If the contract was doubled but not redoubled, the scores in the table are multiplied by 2. For a redoubled contract the scores in the table are multiplied by 3. Doubles and redoubles do not affect the penalties for Aces.
+| Niveau | 5 | 6 | 7 |
+| Contrat réussi (atout ou grand) | 25 | 35 | 50 |
+| Contrat réussi (misère) | 10 | 20 | 35 |
+| Surplis (chacun) | 2 | 2 | - |
+| Premier sous-pli (atout ou grand) | 5 | 10 | 15 |
+| Premier sous-pli (misère) | 10 | 15 | 20 |
+| Sous-plis suivants | 5 | 5 | 5 |
 
-In **All-pass Misère** each trick counts one negative point for the team that wins it, and there is a penalty for each Ace taken as in a bid misère. Double and redouble affect only the trick points, not the Aces.
+De plus, en misère, pour chaque As pris, les gagnants du pli sont pénalisés du numéro ordinal du pli. Par exemple, un As pris au quatrième pli coûte 4, et un As pris au dernier (13e) pli coûte 13.
 
-In **Bolshevik** a separate score is kept for each player. A 7 misère contract scores 20 if made. If it fails the first undertrick costs 15 and each subsequent undertrick 5 points. A dictator contract scores the same as in normal games: 50 if the contract is made, if it fails 15 for the first undertrick and 5 for each subsequent undertrick. These scores apply to each opponent of the bidder: for opponents who doubled they are doubled, or trebled if the bidder redoubled. In a misère Aces score penalty points as usual. Aces taken by the bidder's opponents count against all members of the team, but as usual are not affected by doubles and redoubles. The bidder's score is calculated so that the sum of the players' scores are zero. 
+Si le contrat a été contré mais pas surcontré, les scores du tableau sont multipliés par 2. Pour un contrat surcontré, les scores du tableau sont multipliés par 3. Les contrés et surcontrés n'affectent pas les pénalités pour les As.
 
-Bolshevik scores are kept separately from the scores for normal kitty and no-kitty (Kotka) games and All-pass misères. At the end of a session the total Bolshevik scores are divided by 3 and rounded up to the nearest integer before adding them to the other scores. The effect is that (for example) a successful 7 misère in a Boilshevik round with Aces in the 2nd, 4th, 5th and 8th tricks and no doubles would initially score -39 for each opponent (39=20+2+4+5+8) and +117 to the declarer, but in the final totals this would be reduced to +39 for the declarer and -13 for each opponent.
+En **Misère générale**, chaque pli compte un point négatif pour l'équipe qui le gagne, et il y a une pénalité pour chaque As prise comme dans une misère enchérie. Le contré et le surcontré n'affectent que les points des plis, pas les As.
 
-Another example: player A plays 7 misère and wins one trick while the opponents take Aces on the 2nd, 5th, 9th and 10th tricks, players C and D doubled but B did not. The Aces are worth 26 (=2+5+9+10) and the contract with its undertrick is worth 15. player B will score -11 (=15-26) and players C and D will each score +4 (=15×2-26) and therefore player A will score +3 (=+11-4-4). In the final scoring this will be reduced to +1 for A, -3⅔ for B and +1⅓ each for C and D.
+Au **Bolchevique**, un score séparé est conservé pour chaque joueur. Un contrat de 7 misère rapporte 20 s'il est réussi. S'il échoue, le premier sous-pli coûte 15 et chaque sous-pli suivant 5 points. Un contrat de Dictateur se marque de la même manière que dans les jeux normaux : 50 si le contrat est réussi, 15 pour le premier sous-pli et 5 pour chaque sous-pli suivant en cas d'échec. Ces scores s'appliquent à chaque adversaire de l'enchérisseur : pour les adversaires qui ont contré, ils sont doublés, ou triplés si l'enchérisseur a surcontré. En misère, les As marquent des points de pénalité comme d'habitude. Les As pris par les adversaires de l'enchérisseur comptent contre tous les membres de l'équipe, mais comme d'habitude ne sont pas affectés par les contrés et surcontrés. Le score de l'enchérisseur est calculé de sorte que la somme des scores des joueurs soit nulle.
+
+Les scores de Bolchevique sont conservés séparément des scores des jeux normaux avec et sans Kitty (Kotka) et des Misères générales. À la fin d'une session, le total des scores de Bolchevique est divisé par 3 et arrondi à l'entier supérieur avant de les ajouter aux autres scores. L'effet est que (par exemple) un 7 misère réussi dans un tour de Bolchevique avec des As aux 2e, 4e, 5e et 8e plis et sans contré marquerait initialement -39 pour chaque adversaire (39=20+2+4+5+8) et +117 pour le déclarant, mais dans les totaux finaux cela serait réduit à +39 pour le déclarant et -13 pour chaque adversaire.
+
+Un autre exemple : le joueur A joue 7 misère et gagne un pli tandis que les adversaires prennent des As aux 2e, 5e, 9e et 10e plis, les joueurs C et D ont contré mais pas B. Les As valent 26 (=2+5+9+10) et le contrat avec son sous-pli vaut 15. Le joueur B marquera -11 (=15-26) et les joueurs C et D marqueront chacun +4 (=15×2-26) et par conséquent le joueur A marquera +3 (=+11-4-4). Dans le score final, cela sera réduit à +1 pour A, -3⅔ pour B et +1⅓ chacun pour C et D.
 
 ## Conventions
 
-Here is a brief summary of bidding and passing conventions. The [handbook](https://web.archive.org/web/20200716095115/https://www.klubi.fi/site/assets/files/1157/handbook_skruuvi.pdf) gives further details and examples.
+Voici un bref résumé des conventions d'enchères et de passes. Le [manuel](https://web.archive.org/web/20200716095115/https://www.klubi.fi/site/assets/files/1157/handbook_skruuvi.pdf) donne plus de détails et d'exemples.
 
-### Auction
+### Enchères
 
-**In a Kitty game**, players use the early rounds of the auction and the bid levels below 5 to explore possible trump suits and exchange information about honours held, especially Aces and Kings. 
+**Dans un jeu avec Kitty**, les joueurs utilisent les tours initiaux de l'enchère et les niveaux d'enchère inférieurs à 5 pour explorer les couleurs d'atout possibles et échanger des informations sur les honneurs détenus, en particulier les As et les Rois.
 
-It is legal for players to devise and agree their own bidding systems. These must be disclosed to the opponents, and partner's bids explained on request, as in Bridge. However in Skruuvi, unlike Bridge, players do not form long-term partnerships with the same partners always playing together. Since a Skruuvi match between 4 players consists of three sets of deals, one set with each possible pairing of partners, it is usual and convenient for all players at the table to play the same bidding system and a commonly agreed standard system has evolved.
+Il est permis aux joueurs de concevoir et convenir de leurs propres systèmes d'enchères. Ceux-ci doivent être divulgués aux adversaires, et les enchères du partenaire doivent être expliquées sur demande, comme au Bridge. Cependant, au Skruuvi, contrairement au Bridge, les joueurs ne forment pas de partenariats à long terme avec les mêmes partenaires jouant toujours ensemble. Puisqu'un match de Skruuvi entre 4 joueurs comprend trois séries de donnes, une avec chaque paire possible de partenaires, il est habituel et pratique que tous les joueurs à la table jouent le même système d'enchères et un système standard communément convenu a évolué.
 
-Some typical conventions are as follows. 'Honours' are the A, K, Q, J and 10 of each suit.
+Voici quelques conventions typiques. Les « honneurs » sont l'A, R, D, V et 10 de chaque couleur.
 
-In the first round, 
+Au premier tour,
 
-- 1 of a suit shows a 5-card suit headed by 3 honours or a 6-card suit headed by two high honours, plus an Ace in another suit
+- 1 d'une couleur montre une cinquième couleur menée par 3 honneurs ou une sixième couleur menée par deux honneurs élevés, plus un As dans une autre couleur
 
-- 1 grand shows three Aces
+- 1 grand montre trois As
 
-- 2 of a suit shows a stronger suit than a bid of 1
+- 2 d'une couleur montre une couleur plus forte qu'une enchère de 1
 
-- 2 grand shows 4 Aces
+- 2 grand montre 4 As
 
-- 3 of a suit shows a reasonably good hand (about 7 honours) unsuitable for misère but with no good suit. The suit bid is the best one.
+- 3 d'une couleur montre une main raisonnablement bonne (environ 7 honneurs) inappropriée pour la misère mais sans bonne couleur. La couleur enchérie est la meilleure.
 
-- 3 grand shows a similar strength hand to 3 of a suit but with all suits about equally strong and not more than two Aces (with 3 or 4 Aces 1 or 2 grand would be bid).
+- 3 grand montre une main de force similaire à 3 d'une couleur mais avec toutes les couleurs à peu près également fortes et pas plus de deux As (avec 3 ou 4 As, on enchérirait 1 ou 2 grand).
 
-- 5 or 6 misère (or any other denomination) - preemptive, to hinder the opponents from exchanging information. 6 is often a more profitable pre-empt than 5 as it prevents the opponents from exchanging cards.
+- 5 ou 6 misère (ou toute autre dénomination) — préemptif, pour entraver les adversaires dans l'échange d'informations. 6 est souvent un préempt plus rentable que 5 car il empêche les adversaires d'échanger des cartes.
 
-In response to partner's opening
+En réponse à l'ouverture du partenaire
 
-- new suit - similar quality suit to an opening bid of 1 but no side Ace is needed
+- nouvelle couleur — qualité similaire à une ouverture de 1 mais aucun As latéral n'est nécessaire
 
-- 2 grand in response to 1 grand shows the fourth Ace
+- 2 grand en réponse à 1 grand montre le quatrième As
 
-- 2 misère in response to a suit opening shows a void or low singleton in opener's suit
+- 2 misère en réponse à une ouverture de couleur montre un singleton ou un singleton bas dans la couleur de l'ouvreur
 
-- immediate raise of partner's suit - 4 card support to an honour
+- relance immédiate de la couleur du partenaire — soutien de 4 cartes à un honneur
 
-- grand at the lowest level or a single jump - shows 3 or 4 Aces respectively
+- grand au niveau le plus bas ou un saut simple — montre 3 ou 4 As respectivement
 
-Second round bids:
+Enchères du deuxième tour :
 
-- opener can bid a second suit, requesting partner to pass cards of this suit if unable to pass four trumps - this second suit can be one card weaker than required for a first round bid
+- l'ouvreur peut enchérir une deuxième couleur, demandant au partenaire de passer des cartes de cette couleur s'il est incapable de passer quatre atouts — cette deuxième couleur peut être une carte plus faible que ce qui est requis pour une enchère du premier tour
 
-- opener can jump in a new suit to show a second suit of first round opening quality
+- l'ouvreur peut sauter dans une nouvelle couleur pour montrer une deuxième couleur de qualité d'ouverture du premier tour
 
-- misère can be bid to show a hand suitable for misère
+- la misère peut être enchérie pour montrer une main appropriée pour la misère
 
-Third and fourth round
+Tours trois et quatre
 
-- suits are bid in upward order to show Aces, or Kings if the Ace of the bid suit has already been shown
+- les couleurs sont enchéries dans l'ordre ascendant pour montrer les As, ou les Rois si l'As de la couleur enchérie a déjà été montré
 
 Encouragement
 
-- It is usually desirable for the partner with weaker trumps to be the kitty bidder, so that all trumps can passed to one hand. A bid of 5 in the denomination immediately below the prospective trump suit by the partner with stronger trumps is a request to partner to make the kitty bid. (For example 5 diamonds asks partner to bid 5 hearts, 5 misère asks partner to bid 5 spades).
+- Il est généralement souhaitable que le partenaire avec les atouts les plus faibles soit l'enchérisseur kitty, de sorte que tous les atouts puissent être passés à une seule main. Une enchère de 5 dans la dénomination immédiatement inférieure à la couleur d'atout envisagée par le partenaire aux atouts les plus forts est une demande au partenaire de faire l'enchère kitty. (Par exemple, 5 carreaux demande au partenaire d'enchérir 5 cœurs, 5 misère demande au partenaire d'enchérir 5 piques).
 
-**In a Kotka game** a strong hand is needed to open the bidding - for example a 7-card suit to 3 honours with a side Ace, or 9 cards in two suits with 3 good honours in each. The player will normally bid 6 spades, leaving the trump suit to be set after card exchange. 6 clubs shows a natural void (in any suit) and a dislike of spades.
+**Dans un jeu Kotka**, une main forte est nécessaire pour ouvrir les enchères — par exemple une septième couleur à 3 honneurs avec un As latéral, ou 9 cartes en deux couleurs avec 3 bons honneurs dans chaque. Le joueur enchérira normalement 6 pique, laissant la couleur d'atout être fixée après l'échange de cartes. 6 trèfle montre un chicane naturel (dans n'importe quelle couleur) et une aversion pour les piques.
 
-### Passing Cards
+### Passes de cartes
 
-The arrangement of the packet of four cards passed by the final bidder after the first part of the auction can be used to show which suits have been voided, whether the hand is suitable for misère, and in a Kotka game to indicate the preferred trump suit (or safest suit in case of misère). If the four-card packet contains two suits then the card closest to the table normally indicates a suit in which the passer has made a void. A suitable hand for misère is indicated by arranging a suit so that its lowest card is nearest to the table.
+L'arrangement du paquet de quatre cartes passé par le dernier enchérisseur après la première partie de l'enchère peut être utilisé pour montrer quelles couleurs ont été coupées, si la main est appropriée pour la misère, et dans un jeu Kotka pour indiquer la couleur d'atout préférée (ou la couleur la plus sûre en cas de misère). Si le paquet de quatre cartes contient deux couleurs, la carte la plus proche de la table indique normalement une couleur dans laquelle le passeur a fait une coupe. Une main appropriée pour la misère est indiquée en arrangeant une couleur de sorte que sa carte la plus basse soit la plus proche de la table.
 
-Specifically, if the packet contains two suits A(a) and B(b) then it can be arranged from top to bottom in the following ways: aaB**B**, ABA**B**, baa**b**, aa**a**B, AAB**A**, aba**a**, bAA**A**. These arrangements indicate that suit(s) in upper case (A, B) have been voided, but that the passer still holds at least one card in the lower case suit(s) (a, b). The hand is suitable for misère if the card in **bold** is lower in rank than the other cards of the same suit. In a Kotka game the preferred trump suit (or safest suit in case of misère) is indicated by the rank of the card of the A(a)-suit that is topmost in the packet. Using the rank spades < clubs < diamonds < hearts, if the top card of the A(a)-suit is higher than the next card of that suit the preference is for the higher of the suits not present, otherwise it is for the lower suit. In a misère game the same suit preference signal is used to indicate a safe suit with several low cards. The partner can hand back a high to middling card in that suit.
+Spécifiquement, si le paquet contient deux couleurs A(a) et B(b), il peut être arrangé de haut en bas des façons suivantes : aaB**B**, ABA**B**, baa**b**, aa**a**B, AAB**A**, aba**a**, bAA**A**. Ces arrangements indiquent que la ou les couleurs en majuscules (A, B) ont été coupées, mais que le passeur détient encore au moins une carte dans la ou les couleurs en minuscules (a, b). La main est appropriée pour la misère si la carte en **gras** est de rang inférieur aux autres cartes de la même couleur. Dans un jeu Kotka, la couleur d'atout préférée (ou la couleur la plus sûre en cas de misère) est indiquée par le rang de la carte de la couleur A(a) qui est au sommet du paquet. En utilisant le rang pique < trèfle < carreau < cœur, si la carte du dessus de la couleur A(a) est plus élevée que la carte suivante de cette couleur, la préférence est pour la plus élevée des couleurs non présentes, sinon c'est pour la couleur la plus basse. Dans un jeu de misère, le même signal de préférence de couleur est utilisé pour indiquer une couleur sûre avec plusieurs cartes basses. Le partenaire peut retourner une carte de niveau moyen à élevé dans cette couleur.
 
-If a single suit packet is passed in a Kitty game then cards in ascending or descending sequence indicate that the passer still holds at least one card of the suit; if the cards are not in sequence the passer has voided that suit. In a Kotka game the rank order of the top three cards indicates preference among the other three suits, the suit of the top card is preferred, and the suit of the second card is the second choice. In either type of game, the bottom card indicates that the hand is suitable for misère if it is the lowest ranked card, and unsuitable otherwise. In misère the suit preference signal is used is used to indicate a safe suit.
+Si un paquet d'une seule couleur est passé dans un jeu avec Kitty, des cartes en séquence ascendante ou descendante indiquent que le passeur détient encore au moins une carte de la couleur ; si les cartes ne sont pas en séquence, le passeur a coupé cette couleur. Dans un jeu Kotka, l'ordre de rang des trois cartes du dessus indique la préférence parmi les trois autres couleurs, la couleur de la carte du dessus est préférée, et la couleur de la deuxième carte est le deuxième choix. Dans l'un ou l'autre type de jeu, la carte du bas indique que la main est appropriée pour la misère si elle est la carte de rang le plus bas, et inappropriée sinon. En misère, le signal de préférence de couleur est utilisé pour indiquer une couleur sûre.
 
-Sometimes three suits are passed in the packet, especially in a Kotka game when the bidder has two short suits. The same principles are followed: the voided suit(s) are nearest to the table, and the arrangement of the two-card suit indicates suitability or not for misère.
+Parfois, trois couleurs sont passées dans le paquet, surtout dans un jeu Kotka lorsque l'enchérisseur a deux couleurs courtes. Les mêmes principes sont suivis : la ou les couleurs coupées sont les plus proches de la table, et l'arrangement de la couleur de deux cartes indique l'adéquation ou non pour la misère.
 
-In a Kotka game, the bidder's partner will usually return four trumps, or three trumps with a low card on top, the low card indicating a suit in which the passer has an ace which can be used as an entry. Holding only one or two cards of the bidder's preferred suit, the partner may instead return cards in the bidder's second preference suit, suggesting this as the trump suit.
+Dans un jeu Kotka, le partenaire de l'enchérisseur retournera généralement quatre atouts, ou trois atouts avec une carte basse sur le dessus, la carte basse indiquant une couleur dans laquelle le passeur a un As qui peut être utilisé comme entrée. Ne détenant qu'une ou deux cartes de la couleur préférée de l'enchérisseur, le partenaire peut à la place retourner des cartes dans la deuxième couleur de préférence de l'enchérisseur, suggérant celle-ci comme couleur d'atout.
 
-In a trump game where the opponents can exchange cards, they will often pass the highest card of their shortest suit. In a misère or all-pass misère they will normally pass the lowest card of their shortest suit, or the Ace of that suit if they have it.
+Dans un jeu à l'atout où les adversaires peuvent échanger des cartes, ils passeront souvent la carte la plus haute de leur couleur la plus courte. En misère ou misère générale, ils passeront normalement la carte la plus basse de leur couleur la plus courte, ou l'As de cette couleur s'ils l'ont.
 
-## Variants
+## Variantes
 
-The version of Skruuvi described on this page is quite recent, and it is likely that older versions are still played in some places. The previous scoring schedule was as follows:
+La version de Skruuvi décrite sur cette page est assez récente, et il est probable que des versions plus anciennes soient encore jouées dans certains endroits. L'ancienne grille de notation était la suivante :
 
-| Level | 5 | 6 | 7 |
-| Contract made (trump or grand) | 25 | 36 | 49 |
-| Contract made (misère) | 10 | 20 | 30 |
-| Overtricks (each) | 5 | 6 | - |
-| First undertrick (all contracts) | 5 | 11 | 17 |
-| Subsequent undertricks | 5 | 6 | 7 |
+| Niveau | 5 | 6 | 7 |
+| Contrat réussi (atout ou grand) | 25 | 36 | 49 |
+| Contrat réussi (misère) | 10 | 20 | 30 |
+| Surplis (chacun) | 5 | 6 | - |
+| Premier sous-pli (tous contrats) | 5 | 11 | 17 |
+| Sous-plis suivants | 5 | 6 | 7 |
 
-Doubling affected the scoring for aces in misère and redoubling multiplied basic scores by 4 rather than 3.
+Le contré affectait la notation des as en misère et le surcontré multipliait les scores de base par 4 plutôt que par 3.
 
-In the 20th century, 4-level contracts were permitted in Kitty games. However, these contracts were only played out if the defenders doubled. If there was no double, the contract was simply scored as though it had been made with no overtricks, the cards were thrown in and the next hand was dealt. The score for a 4-level contract, consistent with the new scoring schedule, should be 10 points for trump or grand, 5 points for misère, 2 points for each overtrick and 5 for each undertrick. Using the older schedule it should perhaps be 16 points for trump or grand, 5 points for misère and 4 for each overtrick or undertrick.
+Au XXe siècle, les contrats de niveau 4 étaient autorisés dans les jeux avec Kitty. Cependant, ces contrats n'étaient joués que si les défenseurs contrés. S'il n'y avait pas de contré, le contrat était simplement marqué comme s'il avait été réussi sans surplis, les cartes étaient jetées et la main suivante était distribuée. Le score d'un contrat de niveau 4, cohérent avec la nouvelle grille de notation, devrait être de 10 points pour atout ou grand, 5 points pour misère, 2 points pour chaque surpli et 5 pour chaque sous-pli. En utilisant l'ancienne grille, cela devrait peut-être être 16 points pour atout ou grand, 5 points pour misère et 4 pour chaque surpli ou sous-pli.
 
-For earlier versions of the game, see the page Screw Whist: Vint in Finland in which Olli Salmi traces the evolution of the game and scoring through the 20th century and Prof Olli Meretoja explains the genesis of the new scoring schedule.
+Pour les versions antérieures du jeu, voir la page Screw Whist: Vint en Finlande dans laquelle Olli Salmi retrace l'évolution du jeu et de la notation à travers le XXe siècle et le Prof Olli Meretoja explique la genèse de la nouvelle grille de notation.
 
-Bolshevik can be played as an option within the game rather than as a separate set of deals. In that case, each set consists of 12 deals rather than 8 and each player must play one and only one Bolshevik during the set. The auction begins with an extra round of bidding in which the only possible bids are Bolshevik (for players who have not played their Bolshevik) or pass. If all four players pass in this first round the normal auction follows, and if all four pass a second time an All-pass Misère is played. If Bolshevik is bid the auction ends after the first round and a Bolshevik is played. The next deal should then be dealt by the same dealer so as not to disturb the sequence of deals for the Kitty and Kotka games. After four Kitty games have been played, the style changes to Kotka as usual but the cards are dealt as for a Kitty game. If no one bids Bolshevik, the kitty cards are dealt to the four players and the Kotka bidding continues, each player having a 13-card hand. If any of the players have not played their Bolshevik after the four Kotka games have been played, those players must each in turn play a forced Bolshevik.
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Skruuvi
+Le Bolchevique peut être joué comme une option dans le jeu plutôt que comme une série de donnes séparée. Dans ce cas, chaque série comprend 12 donnes plutôt que 8 et chaque joueur doit jouer un et un seul Bolchevique pendant la série. L'enchère commence par un tour supplémentaire d'enchères dans lequel les seules enchères possibles sont Bolchevique (pour les joueurs qui n'ont pas encore joué leur Bolchevique) ou passer. Si les quatre joueurs passent au premier tour, l'enchère normale suit, et si les quatre passent une deuxième fois, une Misère générale est jouée. Si Bolchevique est enchéri, l'enchère se termine après le premier tour et un Bolchevique est joué. La donne suivante devrait alors être distribuée par le même donneur afin de ne pas perturber la séquence des donnes pour les jeux avec Kitty et Kotka. Après quatre jeux avec Kitty ont été joués, le style passe à Kotka comme d'habitude mais les cartes sont distribuées comme pour un jeu avec Kitty. Si personne n'enchérit Bolchevique, les cartes kitty sont distribuées aux quatre joueurs et les enchères Kotka continuent, chaque joueur ayant une main de 13 cartes. Si certains des joueurs n'ont pas encore joué leur Bolchevique après les quatre jeux Kotka, ces joueurs doivent chacun à leur tour jouer un Bolchevique forcé.

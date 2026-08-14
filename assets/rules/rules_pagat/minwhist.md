@@ -3,84 +3,82 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A variant of the four-player card game Norwegian Whist played in Minnesota and South Dakota, USA.
+**But :** Une variante du jeu de cartes à quatre joueurs Whist norvégien, jouée au Minnesota et au Dakota du Sud, États-Unis.
 
 ---
 
-This page based on contributions from Marisa Johnson, Tanya Veverka, Bill and Rita Rabe, Rand Allgaier and ErikPeter Walker.
+Cette page est basée sur les contributions de Marisa Johnson, Tanya Veverka, Bill et Rita Rabe, Rand Allgaier et ErikPeter Walker.
 
 ## Introduction
 
-This game is very popular in Minnesota, USA, where it is just called Whist. It seems certain that it was brought there by settlers from Norway. It is also played in South Dakota, which has a high proportion of people of Norwegian ancestry. It is extremely similar to a Scandinavian game, often listed in English language card game books under the name Norwegian Whist. The main difference from the European version is that in America a black card indicates that one wants to play "high" (aiming to win tricks) and a red card is a vote for "low" (avoiding tricks), while in Europe red means high and black means low.
+Ce jeu est très populaire au Minnesota, États-Unis, où on l'appelle simplement Whist. Il est quasi certain qu'il a été apporté là-bas par des colons venus de Norvège. Il se joue aussi au Dakota du Sud, qui compte une forte proportion de personnes d'ascendance norvégienne. Il est extrêmement similaire à un jeu scandinave, souvent répertorié dans les livres de jeux de cartes en anglais sous le nom de Whist norvégien. La principale différence avec la version européenne est qu'en Amérique une carte noire indique qu'on veut jouer « haut » (cherchant à remporter des levées) et une carte rouge est un vote pour « bas » (éviter les levées), alors qu'en Europe rouge signifie haut et noir signifie bas.
 
-## Players
+## Joueurs
 
-There are four players in two fixed partnerships. Partners sit facing each other. The game is played clockwise. 
+Il y a quatre joueurs en deux équipes fixes. Les partenaires sont assis face à face. Le jeu se joue dans le sens des aiguilles d'une montre.
 
-## Cards
+## Cartes
 
-A standard 52 card pack is used. The cards in each suit rank from highest to lowest: A K Q J 10 9 8 7 6 5 4 3 2. There are no trumps.
+On utilise un jeu standard de 52 cartes. Les cartes de chaque couleur sont classées de la plus forte à la plus faible : A R D V 10 9 8 7 6 5 4 3 2. Il n'y a pas d'atout.
 
-## Deal
+## Distribution
 
-The dealer deals out all the cards one at a time so that each player has 13.
+Le donneur distribue toutes les cartes une par une pour que chaque joueur ait 13 cartes.
 
-## High / Low Bids
+## Enchères Haut / Bas
 
-Each hand is played either **"high"** or **"low"**. If it is played "high", the partnership that takes at least 7 of the 13 tricks scores points. If it is played "low", a partnership must take 6 or fewer tricks to avoid losing points.
+Chaque main se joue soit **« haut »** soit **« bas »**. Si elle se joue « haut », l'équipe qui remporte au moins 7 des 13 levées marque des points. Si elle se joue « bas », une équipe doit remporter 6 levées ou moins pour éviter de perdre des points.
 
-All four players indicate whether they wish to play the hand as "high" or "low" by simultaneously placing a card face down in front of them. A black card indicates that they wish to play "high"; a red card indicates that they wish to play "low" (sometimes known as "nullo"). Usually players pick their lowest red or black card to represent their bid.
+Les quatre joueurs indiquent simultanément s'ils souhaitent jouer la main « haut » ou « bas » en posant une carte face cachée devant eux. Une carte noire indique qu'ils souhaitent jouer « haut » ; une carte rouge indique qu'ils souhaitent jouer « bas » (parfois appelé « nullo »). En général, les joueurs choisissent leur carte rouge ou noire la plus basse pour représenter leur enchère.
 
-Starting with the player to the left of the dealer, each person turns over their bidding card in turn. If the card is red, the next player to the left turns over their card. If any card is black, all revealing of bid cards stops and the hand is played "high". Only if all four bidding cards are red is the hand played "low".
+En commençant par le joueur à la gauche du donneur, chaque personne retourne sa carte d'enchère à son tour. Si la carte est rouge, le joueur suivant à gauche retourne sa carte. Si une carte est noire, tous les retournements de cartes d'enchère s'arrêtent et la main se joue « haut ». Ce n'est que si les quatre cartes d'enchère sont rouges que la main se joue « bas ».
 
-The partnership containing the person who showed black first is said to have **"granded"**.
+L'équipe contenant la personne qui a montré du noir en premier est dit avoir **« grandé »**.
 
-## Play and Scoring with High Bid
+## Jeu et marque avec une enchère haut
 
-The player to the **right of the person who granded** leads to the first trick. Players must follow suit. The player of the highest card in the suit led wins the trick and leads to the next. When all 13 tricks have been played, the side which won more tricks scores 1 point for each trick they won in excess of 6. 
+Le joueur à la **droite de la personne qui a grandé** entame la première levée. Les joueurs doivent suivre la couleur. Le joueur de la carte la plus forte de la couleur demandée remporte la levée et entame la suivante. Lorsque les 13 levées ont été jouées, le côté qui a remporté le plus de levées marque 1 point pour chaque levée au-dessus de 6.
 
-## Play and Scoring with Low Bid
+## Jeu et marque avec une enchère bas
 
-The player to the **left of the dealer** leads to the first trick. Players must follow suit. The player of the highest card in the suit led wins the trick and leads to the next. When all 13 tricks have been played, the side which won more tricks **loses** 1 point for each trick they have in excess of 6. 
+Le joueur à la **gauche du donneur** entame la première levée. Les joueurs doivent suivre la couleur. Le joueur de la carte la plus forte de la couleur demandée remporte la levée et entame la suivante. Lorsque les 13 levées ont été jouées, le côté qui a remporté le plus de levées **perd** 1 point pour chaque levée au-dessus de 6.
 
-## End of the Game
+## Fin de la partie
 
-The partnership which first reaches 13 points wins the game. This takes several deals. 
+L'équipe qui atteint la première 13 points gagne la partie. Cela prend plusieurs donnes.
 
-## Variations
+## Variantes
 
-2 points per trick for a failed grand
-Many play that if a high bid fails - that is the side that did not grand takes more than 6 tricks, they receive **2 points** for each trick they won in excess of 6. If the side that granded wins more than 6 tricks, they receive just 1 point for each trick in excess of 6 as usual. This type of scoring reflects the idea that granding is like undertaking a contract, and the penalty for failing should be greater than the reward for succeeding.
+2 points par levée pour un grandé raté
+Beaucoup jouent que si une enchère haut échoue — c'est-à-dire que le côté qui n'a pas grandé remporte plus de 6 levées —, ils reçoivent **2 points** pour chaque levée au-dessus de 6. Si le côté qui a grandé remporte plus de 6 levées, ils ne reçoivent que 1 point par levée au-dessus de 6 comme d'habitude. Ce type de marque reflète l'idée que grander est comme s'engager dans un contrat, et que la pénalité pour avoir échoué doit être supérieure à la récompense pour avoir réussi.
 
-Askov Rules
-This version, reported by ErikPeter Walker, is played to 15 points. In a Black/High hand if the opponents of the pair that granded win, they score 2 points per trick in excess of 6.
+Règles d'Askov
+Cette version, rapportée par ErikPeter Walker, se joue en 15 points. Dans une main noire/haut, si les adversaires de la paire qui a grandé gagnent, ils marquent 2 points par levée au-dessus de 6.
 
-There are two additional options. A player can bid Sola Nola or Grand Dix. In both of these special cases, the player who makes the bid plays alone against the other partnership while their partner sits out. A player may bid Sola Nola or Grand Dix to overrule another bid, and a bid of Grand Dix overrules Sola Nola. For example, if one player shows a black card, which would start a High hand, another player (even one who has already bid red/Low) could say "Sola Nola" to overrule the black bid. The player who had bid Black might in turn bid Grand Dix if he was confident. A player can even overrule his own partner's bid.
+Il y a deux options supplémentaires. Un joueur peut enchérir Sola Nola ou Grand Dix. Dans ces deux cas spéciaux, le joueur qui fait l'enchère joue seul contre l'autre équipe pendant que son partenaire est exclu. Un joueur peut enchérir Sola Nola ou Grand Dix pour annuler une autre enchère, et une enchère de Grand Dix annule Sola Nola. Par exemple, si un joueur montre une carte noire, ce qui lancerait une main haut, un autre joueur (même celui qui a déjà enchéri rouge/bas) pourrait dire « Sola Nola » pour annuler l'enchère noire. Le joueur qui avait enchéri noir pourrait à son tour enchérir Grand Dix s'il était confiant. Un joueur peut même annuler l'enchère de son propre partenaire.
 
-By bidding Sola Nola, (akin to Nolo in other games), the player undertakes to win no tricks. Before the first lead, the player who made the bid and his partner must trade one card - each simultaneously passes a card across face down across the table. The opposing player to the right of the bidder leads the first card. 
+En enchérissant Sola Nola (analogue au Nolo dans d'autres jeux), le joueur s'engage à ne remporter aucune levée. Avant la première entame, le joueur qui a fait l'enchère et son partenaire doivent échanger une carte — chacun passe simultanément une carte face cachée à travers la table. L'adversaire à la droite de l'enchérisseur entame la première carte.
 
-By bidding Grand Dix, the player undertakes to win the first seven tricks (despite the name, which suggests it once required taking ten). In this mode of play, there is no trade of cards, but the bidding player's partner leads the first card before sitting out the rest of the hand. Obviously the partner must choose wisely so as not to force their partner's defeat.
+En enchérissant Grand Dix, le joueur s'engage à remporter les sept premières levées (malgré le nom, qui suggère qu'il fallait autrefois en prendre dix). Dans ce mode de jeu, il n'y a pas d'échange de cartes, mais le partenaire du joueur enchérisseur entame la première carte avant de se retirer du reste de la main. Évidemment, le partenaire doit choisir judicieusement pour ne pas forcer la défaite de son partenaire.
 
-Players do not score points for Sola Nola or Grand Dix. Instead, the successful partnership scores a "Star", which counts as a whole game won by the partnership (effectively 15 points). The current score is unaffected. As an example, when one partnership wins by reaching 15 or more points, the losers pay the winners 15 cents for the game and an additional 15 cents for each star they had earned. Thus stars have the effect of "upping the stakes", because the losing partnership's stars count for nothing at the end of the game.
+Les joueurs ne marquent pas de points pour Sola Nola ou Grand Dix. Au lieu de cela, l'équipe gagnante marque une « Étoile », qui compte comme une partie entière gagnée par l'équipe (effectivement 15 points). Le score actuel n'est pas affecté. À titre d'exemple, lorsqu'une équipe gagne en atteignant 15 points ou plus, les perdants paient 15 centimes aux gagnants pour la partie et 15 centimes supplémentaires pour chaque étoile qu'ils ont obtenue. Ainsi, les étoiles ont pour effet d'« augmenter les enjeux », car les étoiles de l'équipe perdante ne comptent pour rien à la fin de la partie.
 
-South Dakota Whist
-In this variant, reported by Rand Allgaier, a player who "goes black" also leads to the first trick, and the suit led is trump for that deal. (A trick to which a trump is played is won by the highest trump in it, not by the highest card of the suit led as usual. Players must follow suit as usual. Players unable to follow suit may play a trump or sluff a card of any other suit.) The team of the player that "goes black" scores 1 point for each trick above 6 that they win. If they win fewer than 7 tricks, they lose 1 point for each trick below 7. The other team does not score. If everyone "goes red", the team that takes 7 or more tricks loses one point for each trick in excess of 6. The game is played to 11 points rather than 13.
-Whist parties
-Whist is sometimes played in parties, with several tables playing at the same time, and the players moving after each game. In one format, suitable for three or four tables, the tables are numbered from highest to lowest. After each game, the winning pair moves to the next higher table (the winners on the top table remaining on the top table) and the losing pair moves to the next lower table (the losers on the bottom table staying there). Players swap partners on all but the top table, where the winning pairs from the top two tables in the previous round keep their partners and play against each other.
+Whist du Dakota du Sud
+Dans cette variante, rapportée par Rand Allgaier, un joueur qui « passe au noir » entame également la première levée, et la couleur demandée est l'atout pour cette donne. (Une levée à laquelle un atout est joué est remportée par l'atout le plus fort, et non par la carte la plus forte de la couleur demandée comme d'habitude. Les joueurs doivent suivre la couleur comme d'habitude. Les joueurs incapables de suivre peuvent jouer un atout ou défausser une carte d'une autre couleur.) L'équipe du joueur qui « passe au noir » marque 1 point pour chaque levée au-dessus de 6 qu'elle remporte. Si elle remporte moins de 7 levées, elle perd 1 point pour chaque levée en dessous de 7. L'autre équipe ne marque pas. Si tout le monde « passe au rouge », l'équipe qui remporte 7 levées ou plus perd un point pour chaque levée au-dessus de 6. La partie se joue en 11 points au lieu de 13.
+Parties de Whist
+Le Whist se joue parfois en parties, avec plusieurs tables jouant en même temps, et les joueurs se déplaçant après chaque partie. Dans un format adapté à trois ou quatre tables, les tables sont numérotées de la plus haute à la plus basse. Après chaque partie, la paire gagnante passe à la table supérieure suivante (les gagnants de la table du haut restant à la table du haut) et la paire perdante passe à la table inférieure suivante (les perdants de la table du bas y restant). Les joueurs changent de partenaires sur toutes les tables sauf la table du haut, où les paires gagnantes des deux tables du haut du tour précédent gardent leurs partenaires et jouent l'une contre l'autre.
 
-## Tactics
+## Tactiques
 
-The Invite
-When a person leads for the first time, it is called an "invite". (Thus there are usually four invites during a game.) 
+L'invitation
+Quand une personne entame pour la première fois, cela s'appelle une « invitation ». (Ainsi, il y a généralement quatre invitations au cours d'une partie.)
 
-Tactics for the high bid
-When playing high, the invite should be the lowest card of the player's best suit. This gives their partner a hint as to what to lead later on if their own hand is weak, yet doesn't give away the true strength of inviter's hand. The inviter's partner should respond by playing their highest card in this suit. This gives the inviter a sense of what the partner has to offer during the hand.
-Sometimes when it comes to the partner's turn to invite (after having won a trick), they will choose instead of leading their own suit to lead back their partner's suit. To do this indicates to one's partner that one has a very weak hand. 
-The most important invite is the first lead by the person who "granded" earlier - this indicates to everyone the strongest suit of a person who considered themselves to have a strong hand.
-When sluffing (discarding when you cannot follow suit), a good tactic is to sluff the suit you do not want your partner to lead. That way, after a couple of sluffs, your partner can deduce what suit you are looking for, and you will not have wasted any of the cards in your best suit. However, to avoid misunderstanding, you need to discuss this before the game, because many people sluff a low card from their best suit. 
+Tactiques pour l'enchère haut
+En jouant haut, l'invitation devrait être la carte la plus basse de la meilleure couleur du joueur. Cela donne un indice à son partenaire sur ce qu'il convient d'entamer plus tard si sa propre main est faible, sans révéler la vraie force de la main de l'invitant. Le partenaire de l'invitant devrait répondre en jouant sa carte la plus forte dans cette couleur. Cela donne à l'invitant une idée de ce que le partenaire peut apporter pendant la main.
+Parfois, lorsque c'est le tour du partenaire d'inviter (après avoir remporté une levée), il choisit au lieu d'entamer dans sa propre couleur de renvoyer dans la couleur de son partenaire. Faire cela indique à son partenaire qu'on a une main très faible.
+L'invitation la plus importante est la première entame de la personne qui a « grandé » — cela indique à tous la couleur la plus forte d'une personne qui se considérait avoir une bonne main.
+Lors du défaussement (rejeter une carte quand on ne peut pas suivre), une bonne tactique est de défausser la couleur qu'on ne veut pas que son partenaire entame. Ainsi, après quelques défausses, son partenaire peut déduire quelle couleur on cherche, et on n'aura pas gaspillé de cartes de sa meilleure couleur. Cependant, pour éviter tout malentendu, il faut en discuter avant la partie, car beaucoup de gens défaussent une carte basse de leur meilleure couleur.
 
-Tactics for the low bid
-Playing low is generally considered more difficult than playing high. The invite during a low game should be the highest card of a player's weakest suit. This gives their partner a hint as to what to lead later on. The response of this person's partner is to play their highest card in this suit as well.
-In a low bid, the natural tactic would be to sluff cards from a short suit where no low cards are held, so as to get rid of the suit entirely. 
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Whist (Minnesota)
+Tactiques pour l'enchère bas
+Jouer bas est généralement considéré plus difficile que jouer haut. L'invitation lors d'une main basse devrait être la carte la plus haute de la couleur la plus faible du joueur. Cela donne un indice à son partenaire sur ce qu'il convient d'entamer plus tard. La réponse du partenaire est de jouer sa carte la plus haute dans cette couleur également.
+Dans une enchère basse, la tactique naturelle est de défausser les cartes d'une couleur courte où l'on ne détient pas de cartes basses, afin de se débarrasser complètement de cette couleur.

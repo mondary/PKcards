@@ -3,94 +3,91 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Whist-like game in which the Two of Hearts is the highest card.
-**Autres noms :** Court Piece
+**But :** Jeu de type whist dans lequel le Deux de Cœur est la carte la plus forte. Autres noms : Court Piece
 
 ---
 
-*This page is based on information from Ketan Appa, author of the [Satat.net website](https://www.satat.net/).*
+*Cette page est basée sur des informations de Ketan Appa, auteur du [site satat.net](https://www.satat.net/).*
 
 ## Introduction
 
-**Satat** is the most popular card game in Mauritius. Its name comes from the from the Hindi *"saat hant"* meaning "seven hands" and it is related to the Indian game of Seven Hands (also known as Court Piece). The objective is to win at least seven of the 13 tricks, or even better to win the first 7 tricks, or better still all 13 tricks.
+**Satat** est le jeu de cartes le plus populaire à l'île Maurice. Son nom vient du hindi *"saat hant"* signifiant « sept levées » et il est apparenté au jeu indien Seven Hands (aussi connu sous le nom de Court Piece). L'objectif est de remporter au moins sept des 13 levées, ou mieux encore de gagner les 7 premières levées, ou encore les 13 levées.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite. A standard international 52-card pack is used. The cards of each suit rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2 with the exception of the **two of hearts**, which in this game is the highest card in the pack. Deal and play are clockwise.
+Quatre joueurs en équipes fixes, les partenaires étant assis en face. On utilise un jeu standard international de 52 cartes. Les cartes de chaque couleur se classent de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2, à l'exception du **deux de cœur**, qui dans ce jeu est la carte la plus forte du paquet. La donne et le jeu se font dans le sens horaire.
 
-## The Deal and Making Trumps
+## La donne et la détermination de l'atout
 
-The first dealer is decided by drawing cards from the shuffled pack. Whoever draws the highest card will be the leader and trump maker for the first deal, and the player to the right will deal. For the purpose only of deciding the first deal, aces are low, the two of hearts counts as an ordinary two, and kings are highest. Subsequently the dealer is always a member of the team that lost previous deal, as described under "the result".
+Le premier donneur est désigné en tirant des cartes du paquet mélangé. Celui qui tire la carte la plus élevée sera le meneur et le désignateur d'atout pour la première donne, et le joueur à sa droite donnera. Pour la détermination de la première donne uniquement, les as sont bas, le deux de cœur compte comme un deux ordinaire, et les rois sont les plus hauts. Par la suite, le donneur est toujours membre de l'équipe qui a perdu la donne précédente, comme décrit à la section « résultat ».
 
-The dealer shuffles, the player to dealer's right cuts, and the dealer deals a batch of five cards to each player. The trump maker, to dealer's left, looks at these five cards and announces the trump suit. Alternatively, if unwilling to decide trumps on the basis of these first five cards, the trump maker may elect to use the last four cards to determine the trump suit. If the trump maker's first five cards contain no pictures (kings queens and jacks) there is a third option: the trump maker may require the cards to be reshuffled and dealt again. However, only two reshuffles are allowed: on the third deal, the trump maker must choose a suit (or a card from the last four) even if the first five cards have no pictures.
+Le donneur mélange, le joueur à sa droite coupe, et le donneur distribue cinq cartes à chaque joueur. Le désignateur d'atout, à la gauche du donneur, regarde ces cinq cartes et annonce la couleur d'atout. Alternativement, s'il ne souhaite pas décider de l'atout sur la base de ces cinq premières cartes, le désignateur d'atout peut choisir d'utiliser les quatre dernières cartes pour déterminer l'atout. Si les cinq premières cartes du désignateur d'atout ne contiennent aucune figure (rois, dames et valets), il existe une troisième option : le désignateur d'atout peut demander un remélange et une redistribution. Cependant, seuls deux remélanges sont autorisés : lors de la troisième donne, le désignateur d'atout doit choisir une couleur (ou une carte parmi les quatre dernières) même si les cinq premières cartes n'ont pas de figures.
 
-The dealer now deals the remaining cards in batches of four, so that everyone has 13 cards. If the trump maker opted to make trumps from the last four cards, the dealer places the trump maker's last four cards face down in a row and the trump maker selects one card, without first looking at it, and turns it face up. The suit of this card is trumps. All players pick up their 13 cards and look at them.
+Le donneur distribue ensuite les cartes restantes par lots de quatre, de sorte que chacun ait 13 cartes. Si le désignateur d'atout a choisi de déterminer l'atout à partir des quatre dernières cartes, le donneur place les quatre dernières cartes du désignateur d'atout face cachée en ligne et le désignateur en sélectionne une, sans la regarder au préalable, et la retourne face visible. La couleur de cette carte est l'atout. Tous les joueurs ramassent leurs 13 cartes et les regardent.
 
-If the trump maker's partner has no trumps at all, he or she can announce this and suggest a new deal. If the trump maker agrees, the cards are thrown in, shuffled and dealt again by the same dealer.
+Si le partenaire du désignateur d'atout n'a aucun atout, il peut l'annoncer et suggérer une nouvelle donne. Si le désignateur d'atout est d'accord, les cartes sont jetées, mélangées et redistribuées par le même donneur.
 
-## The Play
+## Le jeu
 
-The trump maker (the player to dealer's left) leads to the first trick. Players must follow suit if possible, except that the ![heart](../images/internat/heart.gif)2 may be played to any trick, even if the owner could have followed suit. The holder of the ![heart](../images/internat/heart.gif)2 is not forced to play it on a heart lead (or on a trump lead), even if no other hearts (or trumps) are held. A player who has no card of the suit led can play any card. If the ![heart](../images/internat/heart.gif)2 is led, the other players must play trumps if they have them; if not they may play any card.
+Le désignateur d'atout (le joueur à la gauche du donneur) entame la première levée. Les joueurs doivent suivre la couleur si possible, sauf que le ![cœur](../images/internat/heart.gif)2 peut être joué à n'importe quelle levée, même si le joueur aurait pu suivre la couleur. Le détenteur du ![cœur](../images/internat/heart.gif)2 n'est pas obligé de le jouer sur une entame à cœur (ou une entame à atout), même s'il ne détient aucun autre cœur (ou atout). Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. Si le ![cœur](../images/internat/heart.gif)2 est entamé, les autres joueurs doivent jouer un atout s'ils en ont ; sinon ils peuvent jouer n'importe quelle carte.
 
-The ![heart](../images/internat/heart.gif)2 always wins the trick in which it is played. Otherwise, the trick is won by the highest trump in it, or, if it contains no trumps, by the highest card of the suit led. The winner of each trick leads to the next. 
+Le ![cœur](../images/internat/heart.gif)2 remporte toujours la levée dans laquelle il est joué. Sinon, la levée est gagnée par le plus haut atout présent, ou, si elle ne contient pas d'atout, par la carte la plus haute de la couleur demandée. Le gagnant de chaque levée entame la suivante.
 
-Normally the play ends when one team wins by taking seven tricks. However, if a team wins the first seven tricks (a 7-0 win) they may continue the play and try to win all the tricks (13-0 win).
+Normalement, le jeu s'arrête lorsqu'une équipe gagne en remportant sept levées. Cependant, si une équipe gagne les sept premières levées (victoire 7-0), elle peut continuer et tenter de remporter toutes les levées (victoire 13-0).
 
-## The Result
+## Le résultat
 
-The team that took seven tricks wins. If the trump-maker's team wins (but not a 7-0 or 13-0 win) the same dealer deals again and the same player has another chance to make trumps. If the dealer's team wins the turn to deal passes to the left, so that the previous dealer's partner becomes the trump maker.
+L'équipe qui a remporté sept levées gagne. Si l'équipe du désignateur d'atout gagne (mais pas par 7-0 ni 13-0), le même donneur redistribue et le même joueur a une nouvelle chance de désigner l'atout. Si l'équipe du donneur gagne, le tour de donner passe à gauche, de sorte que le partenaire du donneur précédent devient le nouveau désignateur d'atout.
 
-If the dealer's team loses by 7-0 or 13-0, the deal passes to the partner of the previous dealer.
+Si l'équipe du donneur perd par 7-0 ou 13-0, le tour de donner passe au partenaire du donneur précédent.
 
-There is a further consequence of a 7-0 win. On the next deal, each member of the losing team must pass one trump face down to the player on the right. In return each member of the winning team passes one unwanted card face down to the left. The cards are passed simultaneously - each player must decide what to pass before knowing what card will be received. Normally losers will pass their lowest trump and winners will pass a low card of a weak suit.
+Il y a une autre conséquence d'une victoire 7-0. Lors de la donne suivante, chaque membre de l'équipe perdante doit passer un atout face cachée au joueur de droite. En échange, chaque membre de l'équipe gagnante passe une carte non désirée face cachée à gauche. Les cartes sont passées simultanément — chaque joueur doit décider de ce qu'il passe avant de savoir quelle carte il recevra. Normalement, les perdants passeront leur atout le plus bas et les gagnants passeront une carte basse d'une couleur faible.
 
-- If a member of the losing team has no trump, the player's highest ranking card must be passed (a player who has no trump and equally high cards of more than one suit can choose which of these highest cards to pass). The ![heart](../images/internat/heart.gif)2 need never be passed. 
+- Si un membre de l'équipe perdante n'a pas d'atout, la carte la plus haute du joueur doit être passée (un joueur sans atout et avec des cartes également hautes dans plusieurs couleurs peut choisir laquelle de ces cartes les plus hautes passer). Le ![cœur](../images/internat/heart.gif)2 ne doit jamais être passé.
 
-- A member of the winning team is not allowed to pass the only card held in a non-trump suit. The player must keep at least one card in each suit that was present in the hand as originally dealt.
+- Un membre de l'équipe gagnante n'est pas autorisé à passer la seule carte qu'il détient dans une couleur non-atout. Le joueur doit conserver au moins une carte dans chaque couleur présente dans la main initialement distribuée.
 
-After a 13-0 win, the losers each pass two trumps to one of the winners and the winners return two unwanted cards. As with a 7-0 win, a player who has insufficient trumps must subsitute highest ranking non-trumps, winners cannot dispose of a suit entirely and the ![heart](../images/internat/heart.gif)2 is never passed.
+Après une victoire 13-0, les perdants passent chacun deux atouts à l'un des gagnants et les gagnants retournent deux cartes non désirées. Comme pour une victoire 7-0, un joueur qui n'a pas assez d'atout doit substituer ses cartes non-atout les plus hautes, les gagnants ne peuvent pas se débarrasser d'une couleur entièrement et le ![cœur](../images/internat/heart.gif)2 n'est jamais passé.
 
-There is no formal system of scoring and no fixed length to the game, but the players may like to keep track of how many games each team has won or lost.
+Il n'y a pas de système de score formel ni de durée fixe pour la partie, mais les joueurs peuvent tenir compte du nombre de parties gagnées ou perdues par chaque équipe.
 
-## Signals
+## Signaux
 
-There are certain signals that a player can make to give information to partner.
+Il existe certains signaux qu'un joueur peut faire pour donner des informations à son partenaire.
 
 Pile
-Knocking the table when playing a card is a "strong card" sign, which indicates that the player holds the highest outsanding card of that suit.
+Frapper la table en jouant une carte est un signe de « carte forte », qui indique que le joueur détient la plus haute carte encore en jeu de cette couleur.
 
-**Note:** the ![heart](../images/internat/heart.gif)2 cannot be signalled this way. Knocking while playing a trump or a heart indicates the ace of that suit, if not already played.
-Grate
-Scratching the table with the edge of a card when you play it is the "card over" sign, which indicates that it is the only card you have in that suit.
-![heart](../images/internat/heart.gif)2 announcement
-The holder of the ![heart](../images/internat/heart.gif)2 is allowed to announce it at the start of the play, before the very first card is led. 
+**Note :** le ![cœur](../images/internat/heart.gif)2 ne peut pas être signalé de cette façon. Frapper en jouant un atout ou un cœur indique l'as de cette couleur, s'il n'a pas déjà été joué.
+Grille
+Gratter la table avec le bord d'une carte quand on la joue est le signe « carte unique », qui indique que c'est la seule carte que l'on possède dans cette couleur.
+![cœur](../images/internat/heart.gif)2, annonce
+Le détenteur du ![cœur](../images/internat/heart.gif)2 est autorisé à l'annoncer au début du jeu, avant que la toute première carte ne soit entamée.
 Vire
-This "roll sign" can only be given when playing to a trick to which partner has led. It asks partner to lead a card of the other suit of the same colour - for example hearts if the lead was diamonds. The sign is made by placing the hand palm-down on the table, then turning it plam up and then palm down again.
-Lese
-This "let it come" sign can only be made when one's left hand opponent has just led to a trick. It is a sign to partner that one intends to win the trick, so partner should play a low card. The sign is performed by stroking the backs of the cards one is holding with the fingers of the other hand. 
+Ce signe de « roulement » ne peut être donné que lors d'une levée à laquelle le partenaire a entamé. Il demande au partenaire d'entamer une carte de l'autre couleur de même famille — par exemple les cœurs si l'entame était en carreaux. Le signe se fait en posant la main paume vers le bas sur la table, puis en la retournant paume vers le haut, puis à nouveau paume vers le bas.
+Lèse
+Ce signe de « laisse venir » ne peut être fait que lorsque l'adversaire de gauche vient d'entamer une levée. C'est un signe au partenaire que l'on a l'intention de gagner la levée, le partenaire doit donc jouer une carte basse. Le signe s'exécute en caressant le dos des cartes que l'on tient avec les doigts de l'autre main.
 
-The first three signals are allowed in most private games, though not in tournaments. The last two signals (vire and lese) are rarely allowed but may be permitted if the players agree in advance.
+Les trois premiers signaux sont autorisés dans la plupart des parties privées, mais pas en tournoi. Les deux derniers signaux (vire et lèse) sont rarement autorisés mais peuvent être permis si les joueurs se mettent d'accord à l'avance.
 
-None of these signals and announcements are compulsory. For example a player will only signal a strong card or the last card of a suit or announce the ![heart](../images/internat/heart.gif)2 if it seems to be in the interests of the partnership to do so.
+Aucun de ces signaux et annonces n'est obligatoire. Par exemple, un joueur ne signalera une carte forte ou la dernière carte d'une couleur ou n'annoncera le ![cœur](../images/internat/heart.gif)2 que si cela semble dans l'intérêt de l'équipe de le faire.
 
-False signals are allowed, if the player wishes to deceive the opponents. Of course there is the danger that partner will also be deceived. 
+Les faux signaux sont autorisés, si le joueur souhaite tromper les adversaires. Bien sûr, il y a le risque que le partenaire soit aussi trompé.
 
-## Variations
+## Variantes
 
 ### Trup kasiet
 
-In this "hidden trump" variation, instead of announcing the trump suit, the trump maker places one card of the trump suit face down. If the trump card is selected unseen from the last four, the trump maker looks at it before placing it face down.
+Dans cette variante de « l'atout caché », au lieu d'annoncer la couleur d'atout, le désignateur d'atout pose une carte de la couleur d'atout face cachée. Si la carte d'atout est sélectionnée sans être vue parmi les quatre dernières, le désignateur d'atout la regarde avant de la poser face cachée.
 
-Play then continues as usual, but since the other three players do not know initially what the trump suit is, the trump maker must tell the players who has won each trick, until such time as the trump suit becomes known. This can happen in various ways. The simplest way is if the trump maker plays the face down trump card. This card can be led or played to any trick for which it is a legal play, according to the normal rules of following suit. Also a trick in which more than one suit is played provides evidence about the trump suit. For example if a trick consists of ![heart](../images/internat/heart.gif)A - ![spade](../images/internat/spade.gif)5 - ![heart](../images/internat/heart.gif)7 - ![club](../images/internat/club.gif)4 and the ![spade](../images/internat/spade.gif)5 wins then spades are trumps, and if the ![club](../images/internat/club.gif)5 wins clubs are trumps. If the ![heart](../images/internat/heart.gif)A wins, then the trump suit must be either hearts or diamonds.
+Le jeu continue ensuite comme d'habitude, mais puisque les trois autres joueurs ne connaissent pas initialement la couleur d'atout, le désignateur d'atout doit dire aux joueurs qui a remporté chaque levée, jusqu'à ce que la couleur d'atout devienne connue. Cela peut se produire de plusieurs façons. La façon la plus simple est si le désignateur d'atout joue la carte d'atout face cachée. Cette carte peut être entamée ou jouée à n'importe quelle levée pour laquelle c'est un jeu légal, selon les règles normales de suivi de couleur. Une levée contenant plus d'une couleur fournit également des indices sur la couleur d'atout. Par exemple, si une levée se compose de ![cœur](../images/internat/heart.gif)A - ![pique](../images/internat/spade.gif)5 - ![cœur](../images/internat/heart.gif)7 - ![trèfle](../images/internat/club.gif)4 et que le ![pique](../images/internat/spade.gif)5 l'emporte, alors les piques sont l'atout, et si le ![trèfle](../images/internat/club.gif)5 l'emporte, les trèfles sont l'atout. Si le ![cœur](../images/internat/heart.gif)A l'emporte, l'atout doit être les cœurs ou les carreaux.
 
-In this variation there is no opportunity to reshuffle if the trump maker's partner has no trumps, since the partner will not know this.
+Dans cette variante, il n'y a pas de possibilité de remélanger si le partenaire du désignateur d'atout n'a pas d'atout, puisque le partenaire ne le saura pas.
 
-If the ![heart](../images/internat/heart.gif)2 is led before the trump suit is known, the other players are allowed to play any card.
+Si le ![cœur](../images/internat/heart.gif)2 est entamé avant que la couleur d'atout ne soit connue, les autres joueurs sont autorisés à jouer n'importe quelle carte.
 
-In this variation 7-0 and 13-0 wins are more frequent, but no cards are exchanged after a 7-0 or 13-0 win.
+Dans cette variante, les victoires 7-0 et 13-0 sont plus fréquentes, mais aucun échange de cartes n'a lieu après une victoire 7-0 ou 13-0.
 
-## Software
+## Logiciel
 
-On Ketan Appa's website [satat.net](https://www.satat.net/) you can play Satat online against computer or human opponents. 
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Satat
+Sur le site de Ketan Appa [satat.net](https://www.satat.net/), vous pouvez jouer au Satat en ligne contre des adversaires informatiques ou humains.

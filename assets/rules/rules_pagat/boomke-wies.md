@@ -3,92 +3,90 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** A version of Whist with or without bidding for 4 players in fixed partnerships.
+**But :** Une variante du Whist avec ou sans enchères pour 4 joueurs en partenariats fixes.
 
 ---
 
 ## Introduction
 
-Boomke Wies is a Belgian Whist game for four players in fixed partnerships. The main description on this page is of a version with an auction in which whoever commits their team to win most tricks chooses the trump suit. In some places Boomke Wies is played without an auction, making it very similar to classic Whist. 
+Boomke Wies est un jeu de Whist belge pour quatre joueurs en partenariats fixes. La description principale de cette page concerne une version avec enchères où celui qui s'engage à faire gagner le plus de plis à son équipe choisit la couleur d'atout. Dans certains endroits, Boomke Wies se joue sans enchères, ce qui le rend très similaire au Whist classique.
 
-I am grateful to Nico Luijten and Freddy Verhuizen for providing information about this game.
+Je remercie Nico Luijten et Freddy Verhuizen pour les informations qu'ils ont fournies sur ce jeu.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players and a standard international 52-card pack is used, the cards in each suit ranking from highest to lowest A-K-Q-J-10-9-8-7-6-5-4-3-2. Deal and play are clockwise.
+Il y a quatre joueurs et on utilise un jeu standard international de 52 cartes, les cartes de chaque couleur étant classées de la plus haute à la plus basse A-R-D-V-10-9-8-7-6-5-4-3-2. La donne et le jeu se font dans le sens horaire.
 
-At the start of the game the teams are determined as follows. Each player takes a stack of cards from the shuffled deck and shows the bottom card of the portion they have taken. The two players with the lowest cards form one team and the two with the highest cards form the other team. The player with the highest card becomes the scorer unless all agree otherwise. Team mates sit opposite one another, so that each player is between two opponents. 
+Au début du jeu, les équipes sont déterminées comme suit. Chaque joueur prend une pile de cartes du jeu mélangé et montre la carte du bas de la portion qu'il a prise. Les deux joueurs ayant les cartes les plus basses forment une équipe et les deux ayant les cartes les plus hautes forment l'autre équipe. Le joueur ayant la carte la plus haute devient le marqueur, sauf accord contraire de tous. Les partenaires sont assis en face l'un de l'autre, de sorte que chaque joueur se trouve entre deux adversaires.
 
-## Deal
+## Donnée
 
-The player to the left of the scorer is the first dealer and the turn to deal passes to the left after each hand.
+Le joueur à la gauche du marqueur est le premier donneur et le tour de donner passe à la gauche après chaque main.
 
-The dealer is free to shuffle or not to shuffle the cards. They are then offered to the player to dealer's right who cuts the pack. The dealer then deals clockwise, either two batches of 4 cards each followed by a batch of 5 cards each, or one batch of 5 cards each first followed by two batches of 4 cards each. The four players pick up their 13-card hands and look at them.
+Le donneur est libre de mélanger ou non les cartes. Elles sont ensuite offertes au joueur à la droite du donneur qui coupe le tas. Le donneur distribue ensuite dans le sens horaire, soit deux lots de 4 cartes chacun suivis d'un lot de 5 cartes chacun, soit un lot de 5 cartes chacun d'abord suivi de deux lots de 4 cartes chacun. Les quatre joueurs ramassent leurs mains de 13 cartes et les regardent.
 
-## Bidding
+## Enchères
 
-There is an auction in which the players bid numbers, committing their team to win at least that number of tricks if they are allowed to choose the trump suit. The lowest possible bid is 7 and the highest is 13, normally called *Boom* (tree). 
+Il y a une enchère où les joueurs annoncent des nombres, s'engageant à faire gagner à leur équipe au moins ce nombre de plis s'ils ont le droit de choisir la couleur d'atout. L'enchère la plus basse possible est 7 et la plus haute est 13, appelée *Boom* (arbre).
 
-The players speak in clockwise order, starting with the player to dealer's left and continuing clockwise for as many circuits as necessary. At their turn a player may either pass or bid a number, which must be higher than the previous highest number bid. A player who has passed is not allowed to bid at a later turn. 
+Les joueurs parlent dans l'ordre horaire, en commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire autant de tours que nécessaire. À son tour, un joueur peut soit passer soit annoncer un nombre, qui doit être supérieur au nombre le plus élevé précédemment annoncé. Un joueur qui a passé n'est pas autorisé à enchérir lors d'un tour ultérieur.
 
-If any of the first three players bid, the auction continues until three players have passed. The final bidder will choose trumps.
+Si l'un des trois premiers joueurs enchérit, l'enchère continue jusqu'à ce que trois joueurs aient passé. Le dernier enchérisseur choisit les atouts.
 
-If the first three players all pass the dealer must either bid 7 or bid *Boom* (13) or declare a *'Meetje'*. 
+Si les trois premiers joueurs passent tous, le donneur doit soit enchérir 7 soit enchérir *Boom* (13) soit déclarer un *'Meetje'*.
 
-**Meetje** is a special game played when no one is willing to bid as much as 7: dealer chooses trumps and the team that takes the majority on tricks scores a point. The difference from a dealer's bid of 7 is that the dealer's team suffers no extra penalty if they take less than 7 tricks, but get no extra benefit if they take more than 7 tricks. 
+Le **Meetje** est un jeu spécial qui se joue lorsque personne ne veut enchérir jusqu'à 7 : le donneur choisit les atouts et l'équipe qui remporte la majorité des plis marque un point. La différence avec une enchère de 7 du donneur est que l'équipe du donneur ne subit pas de pénalité supplémentaire si elle prend moins de 7 plis, mais n'obtient pas non plus d'avantage supplémentaire si elle en prend plus de 7.
 
-Note that after three passes there would be no purpose in the dealer bidding 8, 9, 10, 11 or 12 since the score in case of success is exactly the same as for a bid of 7, while the penalty for failure is the same or greater. A dealer who wants to commit to dealer's team winning all 13 tricks can however bid Boom, which gives a higher score than taking 13 tricks in a 7-bid, with a correspondingly greater penalty for failure.
+Notez qu'après trois passes, il n'y aurait aucun intérêt pour le donneur à enchérir 8, 9, 10, 11 ou 12 puisque le score en cas de réussite est exactement le même que pour une enchère de 7, tandis que la pénalité en cas d'échec est identique ou supérieure. Un donneur qui veut s'engager à faire gagner les 13 plis à son équipe peut cependant enchérir Boom, ce qui donne un score plus élevé que de prendre 13 plis dans une enchère de 7, avec une pénalité proportionnellement plus grande en cas d'échec.
 
-Note also that no suit is mentioned when bidding. This can be difficult when both partners on a team bid, as neither can be sure what suit the other partner would prefer as trump. 
+Notez également qu'aucune couleur n'est mentionnée lors des enchères. Cela peut être difficile lorsque les deux partenaires d'une équipe enchérissent, car aucun des deux ne peut être sûr de la couleur que l'autre préférerait comme atout.
 
-## Play
+## Jeu
 
-The player with who made the last and highest bid leads to the first trick and the suit of that card becomes the trump suit for the deal. (In case of a Meetje the dealer leads to the first trick, thereby determining trumps).
+Le joueur qui a fait la dernière et plus haute enchère entame le premier pli et la couleur de cette carte devient la couleur d'atout de la donne. (Dans le cas d'un Meetje, le donneur entame le premier pli, déterminant ainsi les atouts).
 
-Each trick is won by the highest trump in it, or if it contains no trump by the highest card of the suit that was led. The winner of each trick leads to the next.
+Chaque pli est gagné par la plus haute carte d'atout qu'il contient, ou s'il ne contient aucun atout, par la plus haute carte de la couleur demandée. Le gagnant de chaque pli entame le suivant.
 
-Any card may be led to a trick. The other three players must always follow suit if possible, playing a card of the same suit as the card that was led. A player who is unable to follow suit may play any card in their hand.
+N'importe quelle carte peut être entamée. Les trois autres joueurs doivent toujours suivre la couleur si possible, en jouant une carte de la même couleur que la carte entamée. Un joueur incapable de suivre la couleur peut jouer n'importe quelle carte de sa main.
 
-Note that there is no obligation to beat cards previously played to a trick nor to play a trump when unable to follow suit.
+Notez qu'il n'y a aucune obligation de monter les cartes jouées précédemment dans un pli ni de jouer un atout lorsqu'on est incapable de suivre la couleur.
 
-## Scoring
+## Marque
 
-When all 13 tricks have been played the hand is scored, according to the bid and the number of tricks won by each team.
+Une fois les 13 plis joués, la main est marquée, selon l'enchère et le nombre de plis remportés par chaque équipe.
 
-In a **Meetje** the team that takes 7 or more tricks scores 1 point and their opponents score nothing.
+Dans un **Meetje**, l'équipe qui prend 7 plis ou plus marque 1 point et ses adversaires ne marquent rien.
 
-If the final bid was **7, 8, 9, 10, 11 or 12** and the bidding team win at least as many tricks as they bid, then the bidding team score
+Si l'enchère finale était **7, 8, 9, 10, 11 ou 12** et que l'équipe qui a enchéri remporte au moins autant de plis qu'elle a annoncé, alors l'équipe marque
 
-- 1 point if they win 7, 8 or 9 tricks
+- 1 point si elle remporte 7, 8 ou 9 plis
 
-- 2 points if they win 10, 11 or 12 tricks
+- 2 points si elle remporte 10, 11 ou 12 plis
 
-- 3 points if they win 13 tricks
+- 3 points si elle remporte 13 plis
 
-and their opponents score nothing.
+et ses adversaires ne marquent rien.
 
-If the final bid was **7, 8 or 9** and the bidding team win fewer tricks then they bid, then the bidding team score -1 point and their opponents score
+Si l'enchère finale était **7, 8 ou 9** et que l'équipe qui a enchéri remporte moins de plis que prévu, alors l'équipe marque -1 point et ses adversaires marquent
 
-- 1 point if they win up to 9 tricks
+- 1 point s'ils remportent jusqu'à 9 plis
 
-- 2 points if they win 10 or more tricks
+- 2 points s'ils remportent 10 plis ou plus
 
-If the final bid was **10, 11 or 12** and the bidding team won fewer tricks than they bid, then the bidding team score -2 points and their opponents score 2 points.
+Si l'enchère finale était **10, 11 ou 12** et que l'équipe qui a enchéri a remporté moins de plis que prévu, alors l'équipe marque -2 points et ses adversaires marquent 2 points.
 
-If the final bid was a **Boom (13 tricks)** and the bidding team wins every trick they score 5 points and their opponents score nothing. If the bidders lose a trick then the play ends and the bidding team scores -5 while the opponents score 5.
+Si l'enchère finale était un **Boom (13 plis)** et que l'équipe remporte tous les plis, elle marque 5 points et ses adversaires ne marquent rien. Si les enchérisseurs perdent un pli, le jeu s'arrête et l'équipe marque -5 tandis que les adversaires marquent 5.
 
-In a tournament, each round lasts for a given length of time - for example one hour - at the end of which the team with the higher total score are the winners of the round. In case of a tie an extra deal is played to decide the winner.
+Lors d'un tournoi, chaque manche dure un temps donné — par exemple une heure — à la fin duquel l'équipe ayant le score total le plus élevé remporte la manche. En cas d'égalité, une donne supplémentaire est jouée pour départager le gagnant.
 
-There are various systems for deciding the tournament winners according to most rounds won or most points scored or a combination of these.
+Il existe divers systèmes pour déterminer les vainqueurs du tournoi selon le nombre de manches gagnées ou le nombre de points marqués ou une combinaison de ceux-ci.
 
-## Variations
+## Variantes
 
-In some places Boomke Wies is played without bidding. In this simpler version the cards are dealt in three batches of 4 cards each followed by a single card each. The dealer's last card is turned face up and determines the trump suit. The player to dealer's left leads to the first trick and need not lead a trump. The rules of play are as above, and each team wins a point for each trick they win. This game is more or less equivalent to classic Whist.
+Dans certains endroits, Boomke Wies se joue sans enchères. Dans cette version plus simple, les cartes sont distribuées en trois lots de 4 cartes chacun suivis d'une seule carte chacun. La dernière carte du donneur est retournée face visible et détermine la couleur d'atout. Le joueur à la gauche du donneur entame le premier pli et n'est pas obligé d'entamer un atout. Les règles du jeu sont les mêmes que ci-dessus, et chaque équipe marque un point pour chaque pli remporté. Ce jeu est plus ou moins équivalent au Whist classique.
 
-## Other Web Sites
+## Autres sites web
 
-The [International World Whist Association](https://www.whistiwwa.com/) organises tournaments and publishes rules, score tables and scoresheets for Boomke Wies and other Belgian games. 
+L'[International World Whist Association](https://www.whistiwwa.com/) organise des tournois et publie des règles, des tables de marque et des feuilles de marque pour Boomke Wies et d'autres jeux belges.
 
-The [Boomke Wies Wikipedia page](https://nl.wikipedia.org/wiki/Boomke_wies) describes the simple form of the game without bidding.
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Boomke Wies
+La [page Wikipedia Boomke Wies](https://nl.wikipedia.org/wiki/Boomke_wies) décrit la forme simple du jeu sans enchères.

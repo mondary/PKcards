@@ -1,95 +1,93 @@
-# Biritch, or Russian Whist
+# Biritch, ou Whist russe
 
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** History and original rules of the card game Biritch, a late 19th century direct ancestor of Bridge from Constantinople.
+**But :** Histoire et règles originales du jeu de cartes Biritch, un ancêtre direct du Bridge de la fin du XIXe siècle originaire de Constantinople.
 
 ---
 
-This page gives a transcription of the booklet "Biritch, or Russian Whist" by John Collinson, which is the earliest known document describing a form of bridge. This is the game that the plain word "bridge" originally referred to, before the development of auction bridge and then today's contract bridge. Modern writers usually call it "straight bridge" or "bridge-whist".
+Cette page donne une transcription du livret « Biritch, or Russian Whist » de John Collinson, qui est le plus ancien document connu décrivant une forme de bridge. C'est le jeu auquel le mot simple « bridge » faisait originellement référence, avant le développement du bridge aux enchères puis du bridge contractuel d'aujourd'hui. Les auteurs modernes l'appellent généralement « straight bridge » ou « bridge-whist ».
 
-Three surviving copies of "Biritch, or Russian Whist" are known, all in the United Kingdom. One is in the Bodleian Library at Oxford University, one in the Cambridge University Library and one in the Public Record Office, London. A fourth copy, which was in the British Museum Library, was destroyed in the Blitz in 1940 or 1941.
+Trois exemplaires survivants de « Biritch, or Russian Whist » sont connus, tous au Royaume-Uni. Un se trouve à la Bodleian Library de l'Université d'Oxford, un à la Cambridge University Library, et un au Public Record Office de Londres. Un quatrième exemplaire, qui se trouvait à la British Museum Library, a été détruit lors du Blitz en 1940 ou 1941.
 
-A detailed analysis of the history of this document, the career of its author and its implications for the origins of Bridge in the Russian colony at Constantinople can be found in an article by Thierry Depaulis and Jac Fuchs, "First Steps of Bridge in the West: Collinson's 'Biritch'", [The Playing-Card](https://www.i-p-c-s.org/wp/publications), Vol. 32, no. 2, Sep.-Oct. 2003, pp. 67-76. According to this article, John Collinson (1842-1922) trained as an engineer and in the early 1880's was involved as a consultant in planning and building the Mersina, Tarsus and Adana railway in Turkey. In a letter to The Saturday Review dated 28 May 1906, Collinson wrote: "Between 1880-4 I spent a considerable time in Constantinople and Asia Minor, where I played what was then called 'Biritch or Russian Whist'. I was then living, while in England, at Cromwell Road and introduced the game to many of my English friends, who liked it so much that they asked me to have the rules printed. ... 'Biritch' was attributed to the Russian colony at Constantinople; in my time the dominating social and political element." According to the registration at the Stationers' Hall (whose documents are now kept at the Public Record Office) the booklet containing the promised rules was published on 9th July 1886.
+Une analyse détaillée de l'histoire de ce document, de la carrière de son auteur et de ses implications pour l'origine du bridge dans la colonie russe de Constantinople peut être trouvée dans un article de Thierry Depaulis et Jac Fuchs, « First Steps of Bridge in the West: Collinson's 'Biritch' », [The Playing-Card](https://www.i-p-c-s.org/wp/publications), vol. 32, n° 2, sept.-oct. 2003, pp. 67-76. Selon cet article, John Collinson (1842-1922), formé comme ingénieur, a été impliqué au début des années 1880 comme consultant dans la planification et la construction du chemin de fer Mersina, Tarsus et Adana en Turquie. Dans une lettre au Saturday Review datée du 28 mai 1906, Collinson a écrit : « Entre 1880 et 1884, j'ai passé un temps considérable à Constantinople et en Asie Mineure, où je jouais à ce qu'on appelait alors le "Biritch ou Whist russe". J'habitais alors, en Angleterre, Cromwell Road et j'ai introduit le jeu à beaucoup de mes amis anglais, qui l'ont tellement aimé qu'ils m'ont demandé de faire imprimer les règles... Le "Biritch" était attribué à la colonie russe de Constantinople ; de mon temps l'élément social et politique dominant. » Selon l'enregistrement au Stationers' Hall (dont les documents sont maintenant conservés au Public Record Office), le livret contenant les règles promises a été publié le 9 juillet 1886.
 
-The transcription below, made by Mark Brader, is from the copy in the Bodleian Library. The document does not have any of the physical forms that we would expect today. It is actually a miniature bound book, containing 56 pages (28 sheets) of paper about 3 by 5 inches between fairly hard covers. The covers are plain brown with no writing visible; the spine is covered with the library's tape (on which they have written the title, a catalog number, and the date 1886). No author's name is given, and of the 56 pages, only 4 have anything printed on them -- the first 2 and the last 50 are blank. Christina Ballinger tells me that the copy held by Cambridge University Library is in the form of a single A5 folded sheet.
+La transcription ci-dessous, réalisée par Mark Brader, provient de l'exemplaire de la Bodleian Library. Le document n'a aucune des formes physiques que nous attendrions aujourd'hui. Il s'agit en fait d'un mini-livre relié, contenant 56 pages (28 feuilles) de papier d'environ 3 sur 5 pouces entre des couvertures assez rigides. Les couvertures sont brunes et sans écriture visible ; le dos est recouvert du ruban de la bibliothèque (sur lequel ils ont écrit le titre, un numéro de catalogue et la date 1886). Aucun nom d'auteur n'est mentionné, et des 56 pages, seules 4 ont quelque chose d'imprimé — les 2 premières et les 50 dernières sont vierges. Christina Ballinger m'indique que l'exemplaire conservé à la Cambridge University Library se présente sous la forme d'une feuille A5 pliée.
 
-Spelling, punctuation, capitalization, and italics are reproduced verbatim. Headings in the original are centered, and below the main title in the original is a decorative line of Maltese crosses. Some tables are reproduced as monospaced text in order to protect the alignment. Ditto marks in the tables in the original take a form resembling a double comma, or a closing double quote moved down to the baseline, and hence are shown as double commas here.
+L'orthographe, la ponctuation, les majuscules et les italiques sont reproduits fidèlement. Les titres de l'original sont centrés, et sous le titre principal de l'original se trouve une ligne décorative de croix de Malte. Certains tableaux sont reproduits en texte à largeur fixe pour préserver l'alignement. Les marques de répétition dans les tableaux de l'original prennent une forme ressemblant à une double virgule, ou à un guillemet fermant double déplacé à la ligne de base, et sont donc montrées comme des doubles virgules ici.
 
-## BIRITCH, OR RUSSIAN WHIST.
+## BIRITCH, OU WHIST RUSSE.
 
 ### + + + + + + + + +
 
-### VALUE OF THE CARDS
+### VALEUR DES CARTES
 
-The value of the cards is the same as at short whist.
+La valeur des cartes est la même qu'au short whist.
 
-Tricks are taken in the same manner, and the odd tricks, over and above six, are counted as at short whist.
+Les levées sont prises de la même manière, et les levées excédentaires, au-delà de six, sont comptées comme au short whist.
 
-### METHOD OF PLAYING.
+### MANIÈRE DE JOUER.
 
-There are four players as at short whist, the cutting for partners, shuffling and dealing is the same, except that no card is turned up for trumps.
+Il y a quatre joueurs comme au short whist, la coupe pour les partenaires, le mélange et la distribution sont les mêmes, sauf qu'aucune carte n'est retournée pour l'atout.
 
-The dealer, after the cards have been looked at, has the option of declaring the suit he elects for trumps, or of saying "pass," in which latter case his partner must declare a suit for trumps.
+Le donneur, après que les cartes ont été regardées, a l'option de déclarer la couleur qu'il choisit comme atout, ou de dire « passe », auquel cas son partenaire doit déclarer une couleur pour l'atout.
 
-In either case of the dealer or his partner declaring, the one declaring may, instead of declaring trumps, say "biritch," which means that the hands shall be played without trumps.
+Dans l'un ou l'autre cas — que ce soit le donneur ou son partenaire qui déclare — celui qui déclare peut, au lieu de déclarer l'atout, dire « biritch », ce qui signifie que la main se jouera sans atout.
 
-After the declaration of trumps, or "biritch," either of the adversaries may say "contre," in which case the value of all tricks taken is doubled, the dealer or his partner may however thereupon say "sur contre," in which latter case the value of all the tricks taken is quadrupled, and so on ad infinitum the doubling of the last established value may go on until one side ceases to call a "sur" to the previous "sur contreing."
+Après la déclaration de l'atout, ou du « biritch », l'un des adversaires peut dire « contre », auquel cas la valeur de toutes les levées prises est doublée ; le donneur ou son partenaire peut alors dire « sur contre », auquel cas la valeur de toutes les levées prises est quadruplée, et ainsi de suite à l'infini — le doublement de la dernière valeur établie peut continuer jusqu'à ce qu'un côté cesse d'appeler un « sur » au « sur contre » précédent.
 
-When the declaration has been made, and the "contreing" and "sur contreing" (if any) have ceased, the person to the left of the dealer leads a card.
+Lorsque la déclaration a été faite, et que le « contre » et le « sur contre » (s'il y en a) ont cessé, la personne à la gauche du donneur entame une carte.
 
-Then the partner of the dealer exposes all his cards, on the table, which are played by the dealer as at Dummy Whist.
+Ensuite, le partenaire du donneur expose toutes ses cartes sur la table, qui sont jouées par le donneur comme au Dummy Whist.
 
-No suggestions as to play may be made by the one standing out (Dummy) to the dealer.
+Aucune suggestion de jeu ne peut être faite par celui qui est exposé (Dummy) au donneur.
 
-A revoke counts the same as at Short Whist, but the exposed hand cannot revoke.
+Une renonciation compte comme au Short Whist, mais la main exposée ne peut pas renoncer.
 
-A misdeal does not change the deal, but in such cases the cards must be re-shuffled, re-cut, and re-dealt.
+Une mauvaise distribution ne change pas le donneur, mais dans ce cas les cartes doivent être remélangées, recoupées et redistribuées.
 
-After each rubber there is a fresh cut for partners.
+Après chaque rubber, il y a une nouvelle coupe pour les partenaires.
 
-### GAMES AND RUBBERS.
+### PARTIES ET RUBBERS.
 
-A game is won by the first side which scores in play 30 points. The honours do not score towards the game.
+Une partie est gagnée par le premier côté qui marque 30 points en jeu. Les honneurs ne comptent pas pour la partie.
 
-The Rubber consists, as at Short Whist, of two games out of three.
+Le rubber consiste, comme au Short Whist, en deux parties sur trois.
 
-### SCORING.
+### MARQUE.
 
-The odd tricks count as follows:--
+Les levées excédentaires comptent comme suit :--
 
-| If "Biritch" is declared    .    . |    .    . | each 10 points. |
-| ,, "Hearts" are made trumps |    .    . |    ,,    8    ,, |
-| ,, "Diamonds"     ,,       ,, |    .    . |    ,,    6    ,, |
-| ,, "Clubs"            ,,       ,, |    .    . |    ,,    4    ,, |
-| ,, "Spades"          ,,       ,, |    .    . |    ,,    2    ,, |
+| Si « Biritch » est déclaré   | | | chaque 10 points. |
+| ,, « Cœurs » sont l'atout    | | | ,, 8 ,, |
+| ,, « Carreaux » ,, ,, | | | ,, 6 ,, |
+| ,, « Trèfles » ,, ,, | | | ,, 4 ,, |
+| ,, « Piques » ,, ,, | | | ,, 2 ,, |
 
-If all the tricks are taken by one side they add 40 extra points. This is called "Grand Slamm."
+Si toutes les levées sont prises par un côté, il ajoute 40 points supplémentaires. C'est ce qu'on appelle « Grand Slamm. »
 
-If all the tricks but one are taken by one side they add 20 extra points. This is called "Petit Slamm."
+Si toutes les levées sauf une sont prises par un côté, il ajoute 20 points supplémentaires. C'est ce qu'on appelle « Petit Slamm. »
 
-The winners of each rubber add 40 points to their score. This is called "Consolation."
+Les gagnants de chaque rubber ajoutent 40 points à leur score. C'est ce qu'on appelle « Consolation. »
 
-There are four honours if "Biritch" is declared, which are the four aces.
+Il y a quatre honneurs si « Biritch » est déclaré, qui sont les quatre as.
 
-Equality in aces counts nothing.
+L'égalité en as ne compte rien.
 
-3 aces . . . . . . . = 3 tricks.
+3 as . . . . . . . = 3 levées.
 4 ,, . . . . . . = 4 ,,
-4 ,, in one hand . . . = 8 ,,
+4 ,, dans une même main . . . = 8 ,,
 
-There are five honours, viz:--Ace, King, Queen, Knave and Ten, if trumps are declared.
+Il y a cinq honneurs, à savoir : As, Roi, Dame, Valet et Dix, si l'atout est déclaré.
 
-Simple honours (3) . . = 2 tricks.
+Honneurs simples (3) . . = 2 levées.
 4 ,, . . . = 4 ,,
-4 ,, (in one hand) = 8 ,,
-5 ,, . . . . = 1 trick
-additional to the score for four honours.
+4 ,, (dans une main) = 8 ,,
+5 ,, . . . . = 1 levée
+supplémentaire au score pour quatre honneurs.
 
-The honour points are of equal value to the other points, except that they do not affect the games or rubbers, and are not doubled by a "contre."
+Les points d'honneur ont la même valeur que les autres points, sauf qu'ils n'affectent pas les parties ou les rubbers, et ne sont pas doublés par un « contre. »
 
-If one hand has no trumps (trumps having been declared) his side, in the case of it scoring honours, adds the value of simple honours to its honour score, or, in the case of the other side scoring honours, the value of simple honours is deducted from the latter's score. This is called "Chicane."
+Si une main n'a pas d'atout (l'atout ayant été déclaré), son côté, s'il compte des honneurs, ajoute la valeur des honneurs simples à son score d'honneur, ou, si c'est l'autre côté qui compte des honneurs, la valeur des honneurs simples est déduite du score de ce dernier. C'est ce qu'on appelle « Chicane. »
 
-The original document and this transcription are in the public domain. Another copy of this transcription is [available on Wikisource](https://en.wikisource.org/wiki/Biritch,_or_Russian_Whist).
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Biritch
+Le document original et cette transcription sont dans le domaine public. Une autre copie de cette transcription est [disponible sur Wikisource](https://en.wikisource.org/wiki/Biritch,_or_Russian_Whist).

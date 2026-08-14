@@ -2,52 +2,50 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** In which each player plays two cards to each trick.
+**But :** Chaque joueur joue deux cartes à chaque levée.
 
 ---
 
-This page is based on information from Brian Parsonnet.
+Cette page est basée sur des informations de Brian Parsonnet.
 
 ## Introduction
 
-This is a two-player version of Scandinavian Whist, known in some card game books as Norwegian Whist, or of the related game Minnesota Whist played in some American communities with Scandinavian ancestry. It is quite different from the much better-known two-player game known as German Whist.
+Il s'agit d'une version à deux joueurs du Whist scandinave, connu dans certains livres de jeux de cartes sous le nom de Whist norvégien, ou du jeu apparenté Minnesota Whist joué dans certaines communautés américaines d'origine scandinave. Il est assez différent du jeu à deux joueurs bien plus connu sous le nom de Whist allemand.
 
-The two-player whist described here is unusual in that each player plays two cards to each trick.
+Le whist à deux joueurs décrit ici est inhabituel en ce que chaque joueur joue deux cartes à chaque levée.
 
-## Players and Cards
+## Joueurs et cartes
 
-This game is for two players only using a standard Anglo-American 52-card pack, the cards of each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Ce jeu est uniquement pour deux joueurs, avec un jeu standard anglo-américain de 52 cartes, les cartes de chaque couleur se classant de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-## Deal
+## La donne
 
-Turn to deal alternates. The dealer shuffles and the non-dealer cuts.
+Le tour de donne alterne. Le donneur mélange et le non-donneur coupe.
 
-Then each player is dealt 26 cards, one at a time beginning with dealer's opponent and alternating. First each is dealt 8 cards face down on the table in a 4x2 rectangle, then another 8 cards face up on top of the face down ones, then a hand of 10 cards.
+Ensuite, chaque joueur reçoit 26 cartes, une à la fois en commençant par l'adversaire du donneur et en alternant. D'abord, chacun reçoit 8 cartes face cachée sur la table en un rectangle 4x2, puis 8 autres cartes face visible par-dessus les cartes face cachée, puis une main de 10 cartes.
 
-So, each player has 10 cards that only they can see (in the hand), there are 16 down cards that neither player can see, and 16 face up cards that both can see. 
+Ainsi, chaque joueur a 10 cartes qu'il est le seul à voir (en main), il y a 16 cartes face cachée qu'aucun joueur ne peut voir, et 16 cartes face visible que les deux peuvent voir.
 
-## Bid
+## Enchères
 
-First the non-dealer bids "high" or "low". If high, it's a high game and dealer has no say. If low, dealer then bids "high" or "low". If dealer says high, it's a high game. If both say low, it's a low game.
+Le non-donneur enchérit d'abord « haut » ou « bas ». Si haut, c'est une partie haute et le donneur n'a pas son mot à dire. Si bas, le donneur enchérit alors « haut » ou « bas ». Si le donneur dit haut, c'est une partie haute. Si les deux disent bas, c'est une partie basse.
 
-In a high game the objective is to win tricks, and in a low game the objective is to avoid winning tricks.
+Dans une partie haute, l'objectif est de gagner des levées, et dans une partie basse, l'objectif est d'éviter d'en gagner.
 
-## Play
+## Le jeu
 
-In a low game the non-dealer leads to the first trick. In a high game the first lead is by the player who did not bid high. So the only case where the dealer leads first is when the non-dealer bids high.
+Dans une partie basse, le non-donneur entame la première levée. Dans une partie haute, la première entame est faite par le joueur qui n'a pas enchéri haut. Le seul cas où le donneur entame en premier est donc quand le non-donneur a enchéri haut.
 
-Each trick consists of four cards, two from each player (alternating). At your turn, you can play a card from your hand or one of the cards in your face up layout. As soon as a card from the layout is played, if this uncovers a face down card that card is immediately turned face up, before any other cards are played by either player.
+Chaque levée se compose de quatre cartes, deux de chaque joueur (en alternance). À votre tour, vous pouvez jouer une carte de votre main ou une carte de votre disposition face visible. Dès qu'une carte de la disposition est jouée, si cela découvre une carte face cachée, celle-ci est immédiatement retournée face visible, avant que d'autres cartes ne soient jouées par l'un ou l'autre joueur.
 
-Any card can be led. The other three cards played to the trick must follow suit if possible. So if the leader's opponent has any cards of the same suit as the led card, either in hand or face up on the table, such a card must be played. Then the leader must play a second card, also following suit to the card he or she led if possible, and finally the opponent plays a second card, also following suit to the original lead if possible.
+N'importe quelle carte peut être entamée. Les trois autres cartes jouées à la levée doivent suivre la couleur si possible. Ainsi, si l'adversaire de l'entameur a des cartes de la même couleur que la carte entamée, soit en main soit face visible sur la table, une telle carte doit être jouée. Ensuite, l'entameur doit jouer une deuxième carte, en suivant également la couleur de la carte qu'il a entamée si possible, et enfin l'adversaire joue une deuxième carte, en suivant également la couleur de l'entame initiale si possible.
 
-The four-card trick is won by the highest card of the suit that was led (there are no trumps). The player who wins the trick leads to the next.
+La levée de quatre cartes est gagnée par la carte la plus haute de la couleur entamée (il n'y a pas d'atout). Le joueur qui gagne la levée entame la suivante.
 
-## Scoring
+## Score
 
-In a high game, if the player who bid high wins the majority of the tricks, he or she scores one point for each trick in excess of 6. If not, the bidder's opponent wins 2 points for each trick in excess of 6.
+Dans une partie haute, si le joueur qui a enchéri haut gagne la majorité des levées, il marque un point par levée au-dessus de 6. Sinon, l'adversaire de l'enchérisseur marque 2 points par levée au-dessus de 6.
 
-In a low game, the player who took fewer tricks scores one point for each trick less than 7. For example if the tricks are 8 to 5, the player with 5 tricks scores 2 point (7-5).
+Dans une partie basse, le joueur qui a pris le moins de levées marque un point par levée en dessous de 7. Par exemple, si les levées sont à 8 contre 5, le joueur avec 5 levées marque 2 points (7-5).
 
-The winner is the first player whose cumulative score reaches 13 points or more.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Whist (Minnesota) > Two-player
+Le gagnant est le premier joueur dont le score cumulatif atteint 13 points ou plus.

@@ -1,127 +1,125 @@
-# Court Piece and Double Sir
+# Court Piece et Double Sir
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** And the variant Double Sir in which consecutive tricks must be won.
+**But :** Et la variante Double Sir dans laquelle des levées consécutives doivent être remportées.
 
 ---
 
 ## Introduction
 
-This game, which is very popular in India and Pakistan, has several names. The name **Court Piece** is sometimes written as **Coat Piece** or **Coat Pees**, Pees being a Hindi word meaning to deal. In Pakistan this game is often known as **Rang** or **Rung**, which means trump. In some places, for example in Goa, it is called **Seven Hands**: in India the English word "hand" is sometimes used to mean a "trick" - i.e. one card played to the table by each player in turn, these cards being won by the player of the highest card.
+Ce jeu, très populaire en Inde et au Pakistan, porte plusieurs noms. Le nom **Court Piece** est parfois écrit **Coat Piece** ou **Coat Pees**, Pees étant un mot hindi signifiant distribuer. Au Pakistan, ce jeu est souvent appelé **Rang** ou **Rung**, qui signifie atout. Dans certains endroits, par exemple à Goa, on l'appelle **Seven Hands** : en Inde, le mot anglais « hand » est parfois utilisé pour signifier une « levée » — c'est-à-dire une carte jouée sur la table par chaque joueur à tour de rôle, ces cartes étant remportées par le joueur de la carte la plus forte.
 
-The word Court, Coat, Kot or Kout occurs in many South Asian games and is also found as far away as Somalia and Malaysia. It usually means something like a slam, in which one team wins all the tricks or at least a number of consecutive tricks while the other team wins none. The origin of the word Kot is unclear, but Thierry Depaulis suggests that it may perhaps come from Tamil or some other Dravidian language.
+Le mot Court, Coat, Kot ou Kout se retrouve dans de nombreux jeux sud-asiatiques et se trouve aussi loin qu'en Somalie et en Malaisie. Il signifie généralement quelque chose comme un chelem, dans lequel une équipe remporte toutes les levées ou au moins un certain nombre de levées consécutives pendant que l'autre équipe n'en remporte aucune. L'origine du mot Kot est incertaine, mais Thierry Depaulis suggère qu'il pourrait peut-être venir du tamoul ou d'une autre langue dravidienne.
 
-*This page is based mostly on information from Ankit Bhageria, Dr Kamran Dodhy and Bob Da Costa.* 
+*Cette page est principalement basée sur les informations d'Ankit Bhageria, Dr Kamran Dodhy et Bob Da Costa.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite. Deal and play are anticlockwise.
+Il y a quatre joueurs en équipes fixes, les partenaires étant assis en face. La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-A standard international pack is used, the cards in each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. 
+On utilise un jeu international standard, les cartes de chaque couleur étant classées de la plus forte à la plus faible A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-## Deal and Making Trumps
+## Distribution et choix de l'atout
 
-The first dealer is chosen at random. Subsequently the dealer is always a member of the team that lost the previous deal - see winning for details.
+Le premier donneur est choisi au hasard. Par la suite, le donneur est toujours un membre de l'équipe qui a perdu la donne précédente — voir la section victoire pour les détails.
 
-The dealer shuffles and the player to dealer's right, known as the "trump-caller", cuts. The dealer deals a batch of five cards to each player. The trump-caller player looks at his or her five cards and (without communication with any other player) chooses and announces the trump suit. Then the dealer deals out all the remaining cards in batches of four, so that everyone has 13 cards. 
+Le donneur mélange et le joueur à sa droite, appelé le « désignateur d'atout », coupe. Le donneur distribue un lot de cinq cartes à chaque joueur. Le désignateur d'atout regarde ses cinq cartes et (sans communication avec aucun autre joueur) choisit et annonce la couleur d'atout. Ensuite, le donneur distribue toutes les cartes restantes par lots de quatre, pour que chacun ait 13 cartes.
 
-## Play
+## Jeu
 
-The player to dealer's right leads any card to the first trick. Players must follow suit if possible: if unable they may play any card. When all four players have contributed a card the player of the highest card of the suit that was led wins the trick unless one or more cards of the trump suit were played, in which case the highest trump wins. The player who won the trick leads any card to the next trick.
+Le joueur à la droite du donneur entame n'importe quelle carte pour la première levée. Les joueurs doivent suivre la couleur si possible ; s'ils ne le peuvent pas, ils peuvent jouer n'importe quelle carte. Quand les quatre joueurs ont joué une carte, le joueur de la carte la plus forte de la couleur demandée remporte la levée, sauf si une ou plusieurs cartes de la couleur d'atout ont été jouées, auquel cas l'atout le plus fort remporte. Le joueur qui a remporté la levée entame n'importe quelle carte pour la levée suivante.
 
-Completed tricks (which are confusingly sometimes known in India as "hands") are stacked neatly face down in front of one of the players of the team who won them, so that everyone can see how many tricks each team has won.
+Les levées terminées (parfois appelées confusingly « hands » en Inde) sont empilées soigneusement face cachée devant l'un des joueurs de l'équipe qui les a remportées, afin que chacun puisse voir combien de levées chaque équipe a remportées.
 
-A player who revokes by failing to follow suit when able to may apologise and correct the error without penalty, provided that this is done before the trick (hand) has been completed and turned face down. After the revoke is corrected, any players who played after the incorrect play have the option, in turn, to take back the card they played and play a different one. If a revoke is detected after the trick is complete (for example a player plays a different suit on a heart lead and later plays a heart), then the play ends and the opposing team immediately scores a court.
+Un joueur qui renonce en ne suivant pas la couleur alors qu'il le pouvait peut s'excuser et corriger l'erreur sans pénalité, à condition que cela soit fait avant que la levée ne soit terminée et retournée face cachée. Après la correction de la renonce, tous les joueurs qui ont joué après le jeu incorrect ont la possibilité, à leur tour, de reprendre la carte qu'ils ont jouée et d'en jouer une autre. Si une renonce est détectée après que la levée est complète (par exemple un joueur joue une couleur différente sur une entame à cœur et joue plus tard un cœur), le jeu s'arrête et l'équipe adverse marque immédiatement un court.
 
-## Winning
+## Victoire
 
-The object of the game is to score **courts** (coats, kots) by winning the majority of the tricks (hands). 
+Le but du jeu est de marquer des **courts** (coats, kots) en remportant la majorité des levées (hands).
 
-- The team that wins at least seven of the thirteen tricks (hands) wins the deal, and a team that wins seven deals in succession scores a court.
+- L'équipe qui remporte au moins sept des treize levées gagne la donne, et une équipe qui gagne sept donnes consécutives marque un court.
 
-- It is also possible to score a court in a single deal by winning the first seven tricks, while the opposing team scores none.
+- Il est aussi possible de marquer un court en une seule donne en remportant les sept premières levées, pendant que l'équipe adverse n'en remporte aucune.
 
-- If a player revokes (fails to follow suit when able to) and the revoke is not corrected before the next trick, the opponents score a court.
+- Si un joueur renonce (ne suit pas la couleur alors qu'il le pouvait) et que la renonce n'est pas corrigée avant la levée suivante, les adversaires marquent un court.
 
-Whenever a court is scored, the number of consecutive deals won is reset to zero.
+Chaque fois qu'un court est marqué, le nombre de donnes consécutives gagnées est remis à zéro.
 
-The dealer is always a player from the team that lost the previous deal, so that the winners of the previous deal call trumps. The next dealer is determined as follows:
+Le donneur est toujours un joueur de l'équipe qui a perdu la donne précédente, pour que les gagnants de la donne précédente désignent l'atout. Le prochain donneur est déterminé comme suit :
 
-- If the dealer's team wins the deal, the player to the dealer's right deals next.
+- Si l'équipe du donneur gagne la donne, le joueur à la droite du donneur distribue ensuite.
 
-- If the trump-caller's team wins the deal, but does not score a court, the same dealer deals again.
+- Si l'équipe du désignateur d'atout gagne la donne, mais ne marque pas de court, le même donneur redistribue.
 
-- If the trump-caller's team scores a court, the deal passes to the partner of the previous dealer.
+- Si l'équipe du désignateur d'atout marque un court, la donne passe au partenaire du donneur précédent.
 
-If the dealer's team wins the first seven tricks, this is sometimes known as a **goon court**. This is a humiliating loss for the trump-caller's team. "Goon", with a silent n, means horse manure.
+Si l'équipe du donneur remporte les sept premières levées, cela s'appelle parfois un **goon court**. C'est une perte humiliante pour l'équipe du désignateur d'atout. « Goon », avec un n muet, signifie fumier de cheval.
 
-A team that scores a court by winning the first seven tricks can carry on and try to win all 13 tricks. This extremely rare achievement is known as a **52-court** or a **bavney**. There is no penalty for carrying on after seven tricks and failing to win all thirteen, but to save time, normally the play is ended when one team has won seven tricks.
+Une équipe qui marque un court en remportant les sept premières levées peut continuer et essayer de remporter les 13 levées. Cette réalisation extrêmement rare est appelée un **52-court** ou un **bavney**. Il n'y a pas de pénalité pour continuer après sept levées et échouer à remporter les treize, mais pour gagner du temps, le jeu s'arrête normalement quand une équipe a remporté sept levées.
 
-The overall winners of the session are the team that has scored most courts after an agreed length of time. If both teams have scored equally many courts (or no courts at all were scored) there is no winner. Winning a 52-court or bavney counts as 52 courts.
+Les vainqueurs globaux de la session sont l'équipe qui a marqué le plus de courts après une durée convenue. Si les deux équipes ont marqué le même nombre de courts (ou si aucun court n'a été marqué), il n'y a pas de vainqueur. Remporter un 52-court ou un bavney compte comme 52 courts.
 
-## Variations
+## Variantes
 
-Some play that the trump caller, instead of announcing the trump suit, chooses it by selecting a card from the first five dealt and placing it on the table separately from his or her other cards. The trump-caller may decide not to choose a trump suit from the first five cards dealt. In this case, trumps are determined by turning over one card at random from the second batch of cards dealt to the trump caller. 
+Certains jouent que le désignateur d'atout, au lieu d'annoncer la couleur d'atout, la choisit en sélectionnant une carte parmi les cinq premières distribuées et en la posant sur la table séparément de ses autres cartes. Le désignateur d'atout peut décider de ne pas choisir une couleur d'atout parmi les cinq premières cartes distribuées. Dans ce cas, l'atout est déterminé en retournant une carte au hasard du deuxième lot de cartes distribué au désignateur d'atout.
 
-Some play that the card indicating the trump suit is kept face down, so that the players other than the trump caller do not know what the trump suit will be. In this version of the game, there are no trumps until the trump indicator card is revealed. A player who is unable to follow suit may ask for the trump to be shown: in this case the trump indicator card is turned face up and then returned to the owner's hand, and the player who asked must play a trump if possible. The trump caller may choose to reveal his own trump card if unable to follow suit or when on lead, in which case he must play a trump. From the moment that the trump indicator card is revealed its suit becomes trumps, but cards of that suit played before the indicator card was revealed do not count as trumps unless the trump suit was led. This can result in a lower card beating a higher card of the same suit if the suit was revealed as trump after the higher card was played - see examples under Hidden Rung.
+Certains jouent que la carte indiquant la couleur d'atout est gardée face cachée, pour que les joueurs autres que le désignateur d'atout ne sachent pas quelle sera la couleur d'atout. Dans cette version du jeu, il n'y a pas d'atout jusqu'à ce que la carte indicatrice d'atout soit révélée. Un joueur incapable de suivre la couleur peut demander à voir l'atout : dans ce cas, la carte indicatrice d'atout est retournée face visible puis renvoyée dans la main de son propriétaire, et le joueur qui a demandé doit jouer un atout si possible. Le désignateur d'atout peut choisir de révéler sa propre carte d'atout s'il est incapable de suivre ou quand il est en main, auquel cas il doit jouer un atout. À partir du moment où la carte indicatrice d'atout est révélée, sa couleur devient l'atout, mais les cartes de cette couleur jouées avant que la carte indicatrice ne soit révélée ne comptent pas comme atout à moins que la couleur d'atout n'ait été demandée. Cela peut entraîner une carte plus basse battant une carte plus haute de la même couleur si la couleur a été révélée comme atout après que la carte la plus haute a été jouée — voir les exemples sous Rung caché.
 
-Some play that the trump indicator card is selected at random from the first player's first five cards without looking, so that even this player does not know what the trump suit will be until the card is revealed.
+Certains jouent que la carte indicatrice d'atout est sélectionnée au hasard parmi les cinq premières cartes du premier joueur sans les regarder, de sorte que même ce joueur ne sait pas quelle sera la couleur d'atout jusqu'à ce que la carte soit révélée.
 
-Some play that if the trump caller's first 5 cards are all lower than a Jack, the player can demand that the cards be thrown in and redealt by the same dealer.
+Certains jouent que si les 5 premières cartes du désignateur d'atout sont toutes inférieures à un Valet, le joueur peut exiger que les cartes soient jetées et redistribuées par le même donneur.
 
-Instead of counting only courts, some players score points for each deal. The trump calling team score 1 point for taking at least 7 tricks or 3 points for a court. The opponents score 2 points if they take at least 7 tricks or 4 points for a court. The first team to reach an agreed target score, for example 10 points, wins the game.
+Au lieu de compter uniquement les courts, certains joueurs marquent des points pour chaque donne. L'équipe désignant l'atout marque 1 point pour avoir remporté au moins 7 levées ou 3 points pour un court. Les adversaires marquent 2 points s'ils remportent au moins 7 levées ou 4 points pour un court. La première équipe à atteindre un score cible convenu, par exemple 10 points, gagne la partie.
 
 ## Double Sir
 
-**Double Sir** or **Double Sar** is a variant of Court Piece: the word sir (sar) means trick (hand). 
+**Double Sir** ou **Double Sar** est une variante du Court Piece : le mot sir (sar) signifie levée (hand).
 
-The deal, choice of trumps and rules of play are the same as in Court Piece, but in this variant, a player who wins a  trick **does not** gather in the cards, but turns the cards of the trick face down in the centre of the table. Cards are only gathered in when the same **player** wins two consecutive tricks. Until then the tricks pile up in the centre. 
+La distribution, le choix de l'atout et les règles du jeu sont les mêmes qu'au Court Piece, mais dans cette variante, un joueur qui remporte une levée **ne rassemble pas** les cartes, mais retourne les cartes de la levée face cachée au centre de la table. Les cartes ne sont rassemblées que lorsque le même **joueur** remporte deux levées consécutives. Jus'à-là, les levées s'accumulent au centre.
 
-When a player does win two consecutive tricks, that player takes all the cards from the centre (the trick just won and the pile of previous tricks), adds them to his team's face down trick pile, and leads to the next trick. 
+Lorsqu'un joueur remporte deux levées consécutives, il prend toutes les cartes du centre (la levée qui vient d'être remportée et la pile des levées précédentes), les ajoute à la pile de levées face cachée de son équipe, et entame la levée suivante.
 
-After a player has won two consecutive tricks and gathered in the cards, the following trick is left in the centre to begin a new pile. So if a player who has just won two consecutive tricks and taken the pile wins the next trick as well, he does not automatically take in this third trick. He would be able to do so if he also won the following trick.
+Après qu'un joueur a remporté deux levées consécutives et rassemblé les cartes, la levée suivante est laissée au centre pour commencer une nouvelle pile. Ainsi, si un joueur qui vient de remporter deux levées consécutives et pris la pile remporte également la levée suivante, il ne ramasse pas automatiquement cette troisième levée. Il pourrait le faire s'il remportait aussi la levée suivante.
 
-The player who wins the 13th and last trick takes in this and any tricks that have accumulated in the centre, even if he did not win the 12th trick. 
+Le joueur qui remporte la 13e et dernière levée ramasse celle-ci et toutes les levées accumulées au centre, même s'il n'a pas remporté la 12e levée.
 
-Note that it is not possible to  pick up the cards in the centre if two consecutive tricks are won by two **different** players of a partnership. For example if AC and BD  are two partnerships, 4 tricks are lying in the centre, "Player A" wins a trick and the next trick is won by "Player C", then they can't pick up the 6 tricks. But if the next trick is also won by Player C, then he'll  pick up all 7 tricks for AC. 
+Notez qu'il n'est pas possible de ramasser les cartes du centre si deux levées consécutives sont remportées par deux joueurs **différents** d'une même équipe. Par exemple, si AC et BD sont deux équipes, 4 levées sont au centre, le « Joueur A » remporte une levée et la levée suivante est remportée par le « Joueur C », ils ne peuvent pas ramasser les 6 levées. Mais si la levée suivante est aussi remportée par le Joueur C, il ramassera les 7 levées pour AC.
 
-The team that wins seven or more tricks wins the deal, and a team that wins seven or more consecutive deals score a court.
+L'équipe qui remporte sept levées ou plus gagne la donne, et une équipe qui remporte sept donnes consécutives ou plus marque un court.
 
-To score a court in one deal, a team needs to win **all thirteen tricks**, and the number of deals won is reset to zero. If the dealer's team wins all thirteen tricks, this is a goon court which counts as **three courts**.
+Pour marquer un court en une donne, une équipe doit remporter **les treize levées**, et le nombre de donnes gagnées est remis à zéro. Si l'équipe du donneur remporte les treize levées, c'est un goon court qui compte comme **trois courts**.
 
-The next dealer is a member of the losing team, determined in the same way as in Court Piece.
+Le prochain donneur est un membre de l'équipe perdante, déterminé de la même manière qu'au Court Piece.
 
-## Variants of Double Sir
+## Variantes du Double Sir
 
-Some play that a player who wins the first two tricks cannot pick them up (but a player who wins the second and third tricks can pick up the three tricks as usual). Also some play that a player who wins the 11th and 12th tricks cannot pick up the tricks from the table. These rules makes it more difficult for a team to escape having a court scored against them.
+Certains jouent qu'un joueur qui remporte les deux premières levées ne peut pas les ramasser (mais un joueur qui remporte les deuxième et troisième levées peut ramasser les trois levées comme d'habitude). Certains jouent aussi qu'un joueur qui remporte les 11e et 12e levées ne peut pas ramasser les levées de la table. Ces règles rendent plus difficile pour une équipe d'éviter qu'un court soit marqué contre elle.
 
-Some play that a goon court, where the dealer's team wins every trick, counts as 10 courts rather than just three.
+Certains jouent qu'un goon court, où l'équipe du donneur remporte chaque levée, compte comme 10 courts au lieu de trois.
 
-Some play that the trump caller, if unwilling to choose a suit on the basis of five cards, can specify some later card such as the 7th or the 10th. The dealer then completes the deal, turning the specified card face up, and its suit is trumps.
+Certains jouent que le désignateur d'atout, s'il ne veut pas choisir une couleur sur la base de cinq cartes, peut spécifier une carte ultérieure, comme la 7e ou la 10e. Le donneur termine alors la distribution, en retournant la carte spécifiée face visible, et sa couleur est l'atout.
 
-Some play that a player who wins two consecutive tricks with aces is not entitled to pick them up.
+Certains jouent qu'un joueur qui remporte deux levées consécutives avec des as n'a pas le droit de les ramasser.
 
 ### Be-ranga Double Sar
 
-In this variant the dealer deals all thirteen cards and the play begins without trumps until some player is unable to follow suit. As soon as a player cannot follow suit, the suit of the card they play instead becomes trump for the rest of the deal. No tricks can be collected until the trick **after** the one in which trumps are determined (but if the same player wins the trump determining trick and the following one, that player's team collects all the tricks played up to this point).
+Dans cette variante, le donneur distribue les treize cartes et le jeu commence sans atout jusqu'à ce qu'un joueur soit incapable de suivre la couleur. Dès qu'un joueur ne peut pas suivre, la couleur de la carte qu'il joue à la place devient l'atout pour le reste de la donne. Aucune levée ne peut être collectée avant la levée **suivante** à celle où l'atout est déterminé (mais si le même joueur remporte la levée déterminant l'atout et la levée suivante, l'équipe de ce joueur collecte toutes les levées jouées jusqu'à ce point).
 
-### Hidden Rung
+### Rung caché
 
-In this Double Sir variant the first player chooses trumps from the first five cards dealt by placing a card of the trump suit face down without telling the other players what it is. A player who is unable to follow suit may ask for the trump to be revealed and must then play a trump to the trick if possible.
+Dans cette variante du Double Sir, le premier joueur choisit l'atout parmi les cinq premières cartes distribuées en posant une carte de la couleur d'atout face cachée sans dire aux autres joueurs ce que c'est. Un joueur incapable de suivre la couleur peut demander à révéler l'atout et doit ensuite jouer un atout à la levée si possible.
 
-If the player who chose trump is unable to follow suit, he or she may either reveal the trump and play a trump card (not necessarily the revealed card) or may play a card of another suit face down, so as not to give any clue about the suit chosen as trumps. The trump maker may choose to reveal the trump when leading, and in that case a trump must be led.
+Si le joueur qui a choisi l'atout est incapable de suivre la couleur, il peut soit révéler l'atout et jouer une carte d'atout (pas nécessairement la carte révélée), soit jouer une carte d'une autre couleur face cachée, pour ne donner aucun indice sur la couleur choisie comme atout. Le créateur de l'atout peut choisir de révéler l'atout lorsqu'il est en main, et dans ce cas, il doit jouer un atout.
 
-If a suit other than trumps was led, the chosen suit becomes trumps at the moment when the trump card is revealed. That may sometimes result in a lower card beating a higher card of the same suit. **Example.** Player 1 leads the ![heart](../images/internat/heart.gif)A, player 2 follows suit with the ![heart](../images/internat/heart.gif)5 and player 3 discards the ![diamond](../images/internat/diamond.gif)6 having no hearts. Player 4 also has no hearts and asks for the trump to be revealed. Player 2 reveals a diamond and player 4 trumps with the ![diamond](../images/internat/diamond.gif)3. Player 4 wins the trick: the 3 of diamonds beats the 6 of diamonds, because the 6 was not a trump at the time when it was played. 
+Si une couleur autre que l'atout a été demandée, la couleur choisie devient l'atout au moment où la carte d'atout est révélée. Cela peut parfois entraîner une carte plus basse battant une carte plus haute de la même couleur. **Exemple.** Le joueur 1 entame l'![cœur](../images/internat/heart.gif)A, le joueur 2 suit avec le ![cœur](../images/internat/heart.gif)5 et le joueur 3 défausse le ![carreau](../images/internat/diamond.gif)6 n'ayant pas de cœur. Le joueur 4 n'a pas non plus de cœur et demande à révéler l'atout. Le joueur 2 révèle un carreau et le joueur 4 atoute avec le ![carreau](../images/internat/diamond.gif)3. Le joueur 4 remporte la levée : le 3 de carreau bat le 6 de carreau, car le 6 n'était pas un atout au moment où il a été joué.
 
-However, if the trump suit turns out to be the suit that was led, the highest card of that suit wins even if the suit was revealed in the middle of the trick. For example player 1 leads the ![spade](../images/internat/spade.gif)A, player 2 has no spades and asks the trump maker (player 4) to reveal the trump. Player 4 shows the ![spade](../images/internat/spade.gif)7, and player 2 throws the ![diamond](../images/internat/diamond.gif)3. Player 3 follows suit with the ![spade](../images/internat/spade.gif)5 and player 4 plays the ![spade](../images/internat/spade.gif)7. Player 1 wins the trick: since the chosen suit was led, the Ace wins even though it was not known to be a trump at the time when it was played.
+Cependant, si la couleur d'atout s'avère être la couleur qui a été demandée, la carte la plus forte de cette couleur remporte même si la couleur a été révélée au milieu de la levée. Par exemple, le joueur 1 entame l'![pique](../images/internat/spade.gif)A, le joueur 2 n'a pas de pique et demande au créateur de l'atout (joueur 4) de révéler l'atout. Le joueur 4 montre le ![pique](../images/internat/spade.gif)7, et le joueur 2 jette le ![carreau](../images/internat/diamond.gif)3. Le joueur 3 suit avec le ![pique](../images/internat/spade.gif)5 et le joueur 4 joue le ![pique](../images/internat/spade.gif)7. Le joueur 1 remporte la levée : puisque la couleur choisie a été demandée, l'As remporte même s'il n'était pas connu comme étant un atout au moment où il a été joué.
 
-In order to claim the tricks from the centre of the table a player needs to win two consecutive tricks **after** the trump suit has been revealed. No tricks can be claimed at the end of the 1st, 2nd or 12th trick. From the 3rd to the 11th trick inclusive, if the trick is won by the same **player** that won the previous trick, **and** the winning card of the previous trick was played **after** the trump had been revealed, the player's team collects all the tricks from the centre of the table. 
+Pour réclamer les levées du centre de la table, un joueur doit remporter deux levées consécutives **après** que la couleur d'atout a été révélée. Aucune levée ne peut être réclamée à la fin de la 1re, 2e ou 12e levée. De la 3e à la 11e levée inclus, si la levée est remportée par le même **joueur** qui a remporté la levée précédente, **et** que la carte gagnante de la levée précédente a été jouée **après** la révélation de l'atout, l'équipe du joueur collecte toutes les levées du centre de la table.
 
-The winner of the 13th trick takes all remaining tricks from the table. If the trump has not been revealed by the time the trump maker plays to the 13th trick, the trump maker naturally has to reveal it and play it to that trick.
+Le vainqueur de la 13e levée prend toutes les levées restantes de la table. Si l'atout n'a pas été révélé au moment où le créateur de l'atout joue à la 13e levée, le créateur de l'atout doit naturellement le révéler et le jouer à cette levée.
 
-## Software and Online Games
+## Logiciels et jeux en ligne
 
-In the Rung section of CardzMania you can [play Rung, Double Sir or Hidden Rung online](https://www.cardzmania.com/Rung) against bots or live opponents. 
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Court Piece / Rang
+Dans la section Rung de CardzMania, vous pouvez [jouer au Rung, au Double Sir ou au Rung caché en ligne](https://www.cardzmania.com/Rung) contre des robots ou des adversaires en direct.

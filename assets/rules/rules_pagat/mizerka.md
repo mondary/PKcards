@@ -3,56 +3,54 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** How to play the three-player Polish card game Mizerka in which each player has a different quota of tricks to win or lose in order to score.
+**But :** Comment jouer au jeu de cartes polonais à trois joueurs Mizerka, dans lequel chaque joueur a un quota différent de plis à gagner ou à perdre pour marquer.
 
 ---
 
-*This popular Polish game was shown to me by Michał Wojwoda of Łódz.*
+*Ce jeu polonais populaire m'a été montré par Michał Wojwoda de Łódz.*
 
-It is a three-player game using a standard 52 card pack, the cards in each suit ranking as usual from ace (high) down to two (low).
+C'est un jeu à trois joueurs utilisant un jeu standard de 52 cartes, les cartes de chaque couleur se classant comme d'habitude de l'as (haut) au deux (bas).
 
-The game is played clockwise. Any player can deal first and the turn to deal passes clockwise. In each deal the player to the dealer's left chooses among the six possible contracts. Each player must choose each contract once, and after 18 deals, when everyone has played every contract the game ends.
+Le jeu se joue dans le sens des aiguilles d'une montre. N'importe quel joueur peut donner en premier et le tour de donner passe dans le sens des aiguilles d'une montre. À chaque donne, le joueur à la gauche du donneur choisit parmi les six contrats possibles. Chaque joueur doit choisir chaque contrat une fois, et après 18 donnes, lorsque tout le monde a joué chaque contrat, la partie se termine.
 
-The possible contracts are: clubs, hearts, spades, diamonds, no trumps and mizerka. In the first four the aim is to win tricks, with the named suit as trumps. In "no trumps" the aim is to win tricks, but without a trump suit. In mizerka there are also no trumps, but the aim is to avoid winning tricks.
+Les contrats possibles sont : trèfle, cœur, pique, carreau, sans atout et mizerka. Dans les quatre premiers, le but est de gagner des plis, avec la couleur nommée comme atout. Au « sans atout », le but est de gagner des plis, mais sans couleur d'atout. Au mizerka, il n'y a pas non plus d'atout, mais le but est d'éviter de gagner des plis.
 
-The dealer deals the cards one at a time into four piles - a hand for each of the three players and a talon. After six cards each have been dealt, the deal pauses and the player to dealer's left must select the contract on the basis of his or her first six cards. After the contract has been announced, the deal is completed, so that each player has a hand of 13 cards and there is a face-down talon of 13 cards.
+Le donneur distribue les cartes une à la fois en quatre tas — une main pour chacun des trois joueurs et un talon. Après que six cartes ont été distribuées à chacun, la donne s'interrompt et le joueur à la gauche du donneur doit sélectionner le contrat en fonction de ses six premières cartes. Une fois le contrat annoncé, la donne est complétée, de sorte que chaque joueur a une main de 13 cartes et il y a un talon face contre table de 13 cartes.
 
-The player to the dealer's left may now discard any number of unwanted cards and replace them by drawing cards from the top of the talon. Having drawn replacement cards you are not allowed to discard any further cards. The player to dealer's right may then discard any number of cards up to the number of unused cards remaining in the talon and replenish in the same manner. Finally, if there are any cards left in the talon (which is unusual) the dealer may do the same. No player is obliged to discard any cards at all - you may play with your original hand if you wish to.
+Le joueur à la gauche du donneur peut maintenant défausser un nombre quelconque de cartes indésirables et les remplacer en piochant des cartes du dessus du talon. Une fois les cartes de remplacement piochées, il n'est plus autorisé à défausser d'autres cartes. Le joueur à la droite du donneur peut ensuite défausser un nombre de cartes allant jusqu'au nombre de cartes non utilisées restant dans le talon et se réapprovisionner de la même manière. Enfin, s'il reste des cartes dans le talon (ce qui est rare), le donneur peut faire de même. Aucun joueur n'est obligé de défausser des cartes — vous pouvez jouer avec votre main d'origine si vous le souhaitez.
 
-The player to dealer's left now leads to the first trick. Players must follow suit if possible. A player who has no card of the suit led may play any card. There is no obligation to trump or to overtake. The trick is won by the highest trump played if any, or otherwise by the highest card of the suit led. The winner of a trick leads to the next.
+Le joueur à la gauche du donneur entame maintenant le premier pli. Les joueurs doivent suivre la couleur si possible. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte. Il n'y a aucune obligation de couper ou de monter. Le pli est remporté par le plus fort atout joué s'il y en a un, ou sinon par la plus forte carte de la couleur entamée. Le gagnant d'un pli entame le suivant.
 
-Each player has a quota of tricks to make, and scores according the number of tricks they win more or less than their quota. The quotas and scores are as follows:
+Chaque joueur a un quota de plis à réaliser, et marque en fonction du nombre de plis gagnés au-dessus ou en dessous de son quota. Les quotas et les scores sont les suivants :
 
-| Player | Trumps or no trumps | Mizerka |
+| Joueur | Atout ou sans atout | Mizerka |
 | Quota | Score | Quota | Score |
-| Left of dealer | 7 tricks | Each trick above quota scores +1
+| À gauche du donneur | 7 plis | Chaque pli au-dessus du quota marque +1
 
-Each trick below quota scores -1 | 1 trick | Each trick above quota scores -1
+Chaque pli en dessous du quota marque -1 | 1 pli | Chaque pli au-dessus du quota marque -1
 
-Each trick below quota scores +1 |
-| Right of dealer | 5 tricks | 5 tricks |
-| Dealer | 1 trick | 7 tricks |
+Chaque pli en dessous du quota marque +1 |
+| À droite du donneur | 5 plis | 5 plis |
+| Donneur | 1 pli | 7 plis |
 
-The scoresheet looks like this:
+La feuille de score ressemble à ceci :
 
-| | | | | | NT | Miz | |
-| Player A | | | | | | | |
-| Player B | | | | | | | |
-| Player C | | | | | | | |
+| | | | | | SA | Miz | |
+| Joueur A | | | | | | | |
+| Joueur B | | | | | | | |
+| Joueur C | | | | | | | |
 
-In the left-hand section an "X" is marked to show the contracts that each player has chosen. The cumulative scores of the players are kept in the area to the right.
+Dans la section de gauche, un « X » est marqué pour indiquer les contrats que chaque joueur a choisis. Les scores cumulés des joueurs sont conservés dans la zone de droite.
 
-**Example.** Suppose that in the first deal player A chooses hearts as trumps and wins 5 tricks, B and C winning 4 tricks each. Then A loses 2 points, B loses 1 point C wins 3 points. In the second deal player B plays a mizerka and wins 2 tricks, C wins 6 tricks and A wins 5, so that B and C each lose a point and A wins 2 points. The scoresheet would then look like this:
+**Exemple.** Supposons que lors de la première donne, le joueur A choisit le cœur comme atout et gagne 5 plis, B et C en gagnant 4 chacun. Alors A perd 2 points, B perd 1 point et C gagne 3 points. Lors de la deuxième donne, le joueur B joue un mizerka et gagne 2 plis, C en gagne 6 et A en gagne 5, de sorte que B et C perdent chacun un point et A gagne 2 points. La feuille de score ressemblerait alors à ceci :
 
-| | | | | | NT | Miz | |
-| Player A | | X | | | | | -2   0 |
-| Player B | | | | | | X | -1  -2 |
-| Player C | | | | | | | +3  +2 |
+| | | | | | SA | Miz | |
+| Joueur A | | X | | | | | -2   0 |
+| Joueur B | | | | | | X | -1  -2 |
+| Joueur C | | | | | | | +3  +2 |
 
-The scores always add up to zero, and the the score after all 18 hands have been played indicates how much each player has won or lost.
+Les scores s'additionnent toujours à zéro, et le score après les 18 mains indique combien chaque joueur a gagné ou perdu.
 
-## Software
+## Logiciel
 
-You can download a freeware Mizerka program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Mizerka
+Vous pouvez télécharger un programme Mizerka en gratuiciel sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

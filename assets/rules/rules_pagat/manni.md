@@ -3,103 +3,106 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** A three-player game in which each player has a quota of tricks to win.
+**But :** Jeu à trois joueurs dans lequel chaque joueur a un quota de plis à remporter.
 
 ---
 
 ## Introduction
 
-Manni is a popular Icelandic card game, and has large numbers of local versions. Manni means little man or chap, and is the name given to the spare hand of cards dealt to the table, which may be used to improve a player's hand. This page is based on translations by Anthony Smith of parts of *"Spilabók AB" by Þ. Guðmundsson, 1989, Reykjavik* and on information contributed by Eldsmiðurinn (Palli). The rules of the basic game will be given first, followed by several variations. 
+Manni est un jeu de cartes islandais populaire, qui compte de très nombreuses versions locales. Manni signifie petit homme ou garçon, et c'est le nom donné à la main supplémentaire de cartes distribuée sur la table, qui peut être utilisée pour améliorer la main d'un joueur. Cette page est basée sur des traductions par Anthony Smith de parties de *"Spilabók AB" de Þ. Guðmundsson, 1989, Reykjavik* et sur des informations fournies par Eldsmiðurinn (Palli). Les règles du jeu de base seront données en premier, suivies de plusieurs variantes.
 
-## Basic Manni
+## Manni de base
 
-**Players and cards**
-Three players use a 48 card pack, made from a standard 52 card pack by taking out the twos. The cards in each suit rank in the normal order from ace (high) to three (low). The four twos are used as trump indicators; the trump suit rotates from deal to deal in the sequence hearts, spades, diamonds, clubs, hearts, etc.
-**Deal**
-12 cards are dealt to each player, in packets of four. The remaining 12 cards form the **Manni**, which is placed face-down in the centre of the table.
-**Exchanging cards**
-The player to dealer's left has the opportunity to change all 12 cards with the 12 cards of the Manni (whose cards are unknown). If the player to dealer's left chooses not to exchange, the opportunity to do so passes clockwise around the table. Once a player has exchanged the other players must play with the cards they were dealt. If no one exchanges all play with their original cards and the Manni is not looked at.
-**The Play**
-The player to the dealer's left leads to the first trick. Players must follow suit if possible; if unable to follow they may play any card. The trick is won by the highest trump in it, or, if it contains no trump, by the highest card of the suit led. The winner of each trick leads to the next.**Scoring**
+**Joueurs et cartes**
+Trois joueurs utilisent un jeu de 48 cartes, composé à partir d'un jeu standard de 52 cartes en retirant les deux. Les cartes de chaque couleur se classent dans l'ordre normal de l'as (haut) au trois (bas). Les quatre deux servent d'indicateurs d'atout ; la couleur d'atout tourne d'une donne à l'autre dans l'ordre cœur, pique, carreau, trèfle, cœur, etc.
 
-A cumulative score is kept, everyone starting at zero. Players who win more than four tricks score one point for each trick in excess of four; players with four or fewer tricks score nothing. Players with exactly four tricks neither win nor lose. The game continues until one or more players have a cumulative score of 10 points or more. The player who then has most points is the winner. 
+**Donne**
+12 cartes sont distribuées à chaque joueur, par paquets de quatre. Les 12 cartes restantes forment le **Manni**, placé face contre table au centre de la table.
+
+**Échange de cartes**
+Le joueur à la gauche du donneur a la possibilité d'échanger ses 12 cartes contre les 12 cartes du Manni (dont les cartes sont inconnues). Si le joueur à la gauche du donneur choisit de ne pas échanger, l'opportunité passe dans le sens des aiguilles d'une montre autour de la table. Une fois qu'un joueur a échangé, les autres joueurs doivent jouer avec les cartes qui leur ont été distribuées. Si personne n'échange, tout le monde joue avec ses cartes d'origine et le Manni n'est pas regardé.
+
+**Le jeu**
+Le joueur à la gauche du donneur entame le premier pli. Les joueurs doivent suivre la couleur si possible ; s'ils ne peuvent pas suivre, ils peuvent jouer n'importe quelle carte. Le pli est remporté par le plus fort atout qu'il contient, ou s'il ne contient pas d'atout, par la plus forte carte de la couleur entamée. Le gagnant de chaque pli entame le suivant.
+
+**Comptage des points**
+
+Un score cumulé est conservé, tout le monde commençant à zéro. Les joueurs qui gagnent plus de quatre plis marquent un point pour chaque pli au-dessus de quatre ; ceux qui ont quatre plis ou moins ne marquent rien. Les joueurs ayant exactement quatre plis ne gagnent ni ne perdent. Le jeu continue jusqu'à ce qu'un ou plusieurs joueurs aient un score cumulé de 10 points ou plus. Le joueur qui a alors le plus de points est le vainqueur.
 
 ## Trjámann
 
-The name of this game seems to mean "tree-man". In this version a full 52-card pack is used, from which 16 cards are dealt to each of the three players in packets of four, and there are just four cards left for the Manni. Instead of the trump suit rotating, the player to dealer's left is the declarer, and must choose one of the four possible contracts. Each player must choose each contract once in the course of the whole game, which consists of twelve deals. The contracts are:
+Le nom de ce jeu semble signifier « homme-arbre ». Dans cette version, on utilise un jeu complet de 52 cartes, dont 16 cartes sont distribuées à chacun des trois joueurs par paquets de quatre, et il ne reste que quatre cartes pour le Manni. Au lieu d'une rotation de la couleur d'atout, le joueur à la gauche du donneur est le déclarant et doit choisir l'un des quatre contrats possibles. Chaque joueur doit choisir chaque contrat une fois au cours de la partie entière, qui comprend douze donnes. Les contrats sont :
 
-- **Nullo** (to avoid taking tricks; there are no trumps)
+- **Nullo** (éviter de prendre des plis ; pas d'atout)
 
-- **Grand** (to take tricks with no trump suit)
+- **Grand** (prendre des plis sans couleur d'atout)
 
-- **Spades** (to take tricks with spades as trumps)
+- **Pique** (prendre des plis avec le pique comme atout)
 
-- **Other** (to take tricks with a trump suit chosen by the contractor)
+- **Autre** (prendre des plis avec une couleur d'atout choisie par le déclarant)
 
-Before leading to the first trick, the declarer is allowed to discard up to 4 cards and replace them by drawing an equal number of cards from the Manni. The other players are not allowed to exchange any cards.
+Avant d'entamer le premier pli, le déclarant est autorisé à défausser jusqu'à 4 cartes et à les remplacer en piochant un nombre égal de cartes du Manni. Les autres joueurs ne sont pas autorisés à échanger des cartes.
 
-In this game both positive and negative points are scored. 
-If the contract is Grand, Spades or Other, the declarer's target is 8 tricks and the other players have a target of 4 tricks each. Each player scores 1 positive point for each trick above their target, or 1 negative point for each trick below their target.
+Dans ce jeu, on compte des points positifs et négatifs.
+Si le contrat est Grand, Pique ou Autre, l'objectif du déclarant est de 8 plis et celui des autres joueurs de 4 plis chacun. Chaque joueur marque 1 point positif pour chaque pli au-dessus de son objectif, ou 1 point négatif pour chaque pli en dessous de son objectif.
 
-If the contract is Nullo, the declarer's target is 4 tricks and the other players have a target of 6 tricks each. The aim is to avoid winning tricks, so you win score 1 positive point for each trick below your target, or 1 negative point for each trick you win in excess of your target. 
+Si le contrat est Nullo, l'objectif du déclarant est de 4 plis et celui des autres joueurs de 6 plis chacun. Le but est d'éviter de gagner des plis, donc vous marquez 1 point positif pour chaque pli en dessous de votre objectif, ou 1 point négatif pour chaque pli gagné au-dessus de votre objectif.
 
-After 12 deals each player's negative points are subtracted from their positive points to produce a net positive or negative score. These net scores should always add up to zero. The player with the highest positive score wins, or if playing for stakes the positive and negative scores indicate how much each player should pay or receive.
+Après 12 donnes, les points négatifs de chaque joueur sont soustraits de ses points positifs pour produire un score net positif ou négatif. Ces scores nets doivent toujours s'additionner à zéro. Le joueur avec le score positif le plus élevé gagne, ou si on joue pour de l'argent, les scores positifs et négatifs indiquent combien chaque joueur doit payer ou recevoir.
 
-### Variants
+### Variantes
 
-- Some do not allow the declarer to choose spades as trumps in the "other" contract. 
+- Certains n'autorisent pas le déclarant à choisir le pique comme atout dans le contrat « Autre ».
 
-- Some play that the declarer must discard either 4 cards or none at all.
+- Certains jouent que le déclarant doit défausser soit 4 cartes, soit aucune du tout.
 
 ## Hornafjarðarmanni
 
-This archive copy of [Eldsmiðurinn's web page](https://web.archive.org/web/19991011204932/http://eldhorn.is:80/Hornafjardarmanni/chap.html) describes a version of Manni played in Hornafjörður, on the South-East coast of Iceland. They play the World Championship there during the summer lobster festival. In 1997 there were about 300 participants.
+Cette archive de [la page web d'Eldsmiðurinn](https://web.archive.org/web/19991011204932/http://eldhorn.is:80/Hornafjardarmanni/chap.html) décrit une version de Manni jouée à Hornafjörður, sur la côte sud-est de l'Islande. Ils y organisent le championnat du monde pendant le festival estival du homard. En 1997, il y avait environ 300 participants.
 
-For this game the twos are kept in the pack, and the deal is 4 cards to the Manni, then 3 to each player, repeated until the Manni has 16 cards and each player has 12. The player to dealer's right cuts the cards, and the cut card determines the contract as follows:
+Pour ce jeu, les deux sont conservés dans le jeu, et la distribution est de 4 cartes au Manni, puis 3 à chaque joueur, répétée jusqu'à ce que le Manni ait 16 cartes et chaque joueur 12. Le joueur à la droite du donneur coupe les cartes, et la carte coupée détermine le contrat comme suit :
 
-- ten or higher - no trumps
+- dix ou plus — sans atout
 
-- six to nine - the suit of the cut card is trumps
+- six à neuf — la couleur de la carte coupée est l'atout
 
-- five or lower - *nóló* (avoid taking tricks, with no trumps, Ace low) 
-The cut card ends up at the bottom of the pack and so goes to the dealer. 
+- cinq ou moins — *nóló* (éviter de prendre des plis, sans atout, As bas)
+La carte coupée finit au bas du paquet et va donc au donneur.
 
-The player to dealer's left can discard up to seven cards and replace them from the top of the Manni. The discards are put face down in a pile separate from the Manni and are out of the game. Then the player to dealer's right can discard up to five and replace them. Finally the dealer can discard up to as many cards as are left in the Manni - there will be four if the first two players exchanged the maximum number of cards.
+Le joueur à la gauche du donneur peut défausser jusqu'à sept cartes et les remplacer par le dessus du Manni. Les défausses sont posées face contre table dans une pile séparée du Manni et sont hors du jeu. Ensuite, le joueur à la droite du donneur peut défausser jusqu'à cinq et les remplacer. Enfin, le donneur peut défausser autant de cartes qu'il en reste dans le Manni — il y en aura quatre si les deux premiers joueurs ont échangé le nombre maximum de cartes.
 
-The player to dealer's left leads to the first trick and the play is as usual, with one exception. If the contract is *nóló*, The Ace is the lowest card of each suit, ranking below the Two. In all other contracts the Ace is high, above the King. Each player has a target of 4 tricks, the aim being to take as many tricks as possible if the contract is no trumps or a suit, but as few as possible if it is *nóló*. 
+Le joueur à la gauche du donneur entame le premier pli et le jeu se déroule comme d'habitude, avec une exception. Si le contrat est *nóló*, l'As est la carte la plus basse de chaque couleur, classé en dessous du Deux. Dans tous les autres contrats, l'As est haut, au-dessus du Roi. Chaque joueur a un objectif de 4 plis, le but étant de prendre le plus de plis possible si le contrat est sans atout ou une couleur, mais le moins possible s'il s'agit de *nóló*.
 
-As usual, when the aim is to win tricks 1 positive point is scored for each trick above the target or 1 negative point for each trick below it. When the aim is to lose tricks, 1 positive point is scored for each trick below the target or 1 negative point for each trick above it. 
+Comme d'habitude, lorsque le but est de gagner des plis, on marque 1 point positif pour chaque pli au-dessus de l'objectif ou 1 point négatif pour chaque pli en dessous. Lorsque le but est de perdre des plis, on marque 1 point positif pour chaque pli en dessous de l'objectif ou 1 point négatif pour chaque pli au-dessus.
 
-In this game the positive and negative points for each player are recorded separately on the score sheet, sometimes as tally marks. Further hands are played until someone has scored 10 or more positive points. Only at the end of the game are the negative points for each player subtracted from their positive points. The player with the highest net positive score is then the winner. So the winner is not necessarily the player who ended the game by accumulating 10 positive points: that player may also have a large number of negative points to subtract. If two players tie for most points, they share the win.
+Dans ce jeu, les points positifs et négatifs de chaque joueur sont enregistrés séparément sur la feuille de score, parfois sous forme de coches. On continue à jouer jusqu'à ce que quelqu'un ait marqué 10 points positifs ou plus. Ce n'est qu'à la fin du jeu que les points négatifs de chaque joueur sont soustraits de ses points positifs. Le joueur avec le score net positif le plus élevé est alors le vainqueur. Le vainqueur n'est donc pas forcément le joueur qui a terminé le jeu en accumulant 10 points positifs : ce joueur peut aussi avoir un grand nombre de points négatifs à soustraire. Si deux joueurs sont à égalité pour le plus de points, ils partagent la victoire.
 
-There is a tradition that the above version of Hornafjarðarmanni was invented by a minister of the local church. This version has been the most popular in Hornafjörður as well as in other parts of the country for the past few decades.
+Il existe une tradition selon laquelle la version ci-dessus du Hornafjarðarmanni a été inventée par un ministre de l'église locale. Cette version a été la plus populaire à Hornafjörður ainsi que dans d'autres parties du pays au cours des dernières décennies.
 
-### Online Game
+### Jeu en ligne
 
-You can play this version of Hornafjarðarmanni online against computer or human players at [cardgames.io](https://cardgames.io/manni/).
+Vous pouvez jouer à cette version du Hornafjarðarmanni en ligne contre des joueurs informatiques ou humains sur [cardgames.io](https://cardgames.io/manni/).
 
-### Variant
+### Variante
 
-Þ. Guðmundsson's *Spilabók AB* describes a different version of Hornafjarðarmanni. It is similar to Trjámann, except that there are six possible contracts: Nullo, Grand, Spades, Hearts, Clubs and Diamonds, the last four having the named suit as trumps. Aces are always high, even in Nullo. The game takes 18 deals. The first time you are declarer you have the choice of any of the six contracts, the next time you can choose from the remaining five, and so on until in the last three deals the declarer has no choice at all. 
+Le *Spilabók AB* de Þ. Guðmundsson décrit une version différente du Hornafjarðarmanni. Elle est similaire au Trjámann, sauf qu'il y a six contrats possibles : Nullo, Grand, Pique, Cœur, Trèfle et Carreau, les quatre derniers ayant la couleur nommée comme atout. Les As sont toujours hauts, même au Nullo. La partie comprend 18 donnes. La première fois que vous êtes déclarant, vous avez le choix parmi les six contrats, la fois suivante vous pouvez choisir parmi les cinq restants, et ainsi de suite jusqu'à ce que lors des trois dernières donnes le déclarant n'ait plus aucun choix.
 
 ## Laugavatnsmanni
 
-This version, presumably played at Laugavatn, is described in Þ. Guðmundsson's *Spilabók AB*.
+Cette version, vraisemblablement jouée à Laugavatn, est décrite dans le *Spilabók AB* de Þ. Guðmundsson.
 
-It is similar to Trjámann, but with six possible contracts: Nullo, Grand, Spades, Hearts, Clubs and Diamonds, the last four having the named suit as trumps. The game takes 18 deals. 
+Elle est similaire au Trjámann, mais avec six contrats possibles : Nullo, Grand, Pique, Cœur, Trèfle et Carreau, les quatre derniers ayant la couleur nommée comme atout. La partie comprend 18 donnes.
 
-The player to the left of dealer chooses any contract he or she has not yet played, but either of the other players can try to take over the role of declarer by announcing a **great** contract in either Grand or one of the four suits, provided that the player has not already played a contract in this denomination. In a great contract the declarer has a target of 14 tricks, and the other players a target of 1 each. 
+Le joueur à la gauche du donneur choisit n'importe quel contrat qu'il n'a pas encore joué, mais l'un des deux autres joueurs peut essayer de prendre le rôle de déclarant en annonçant un contrat **grand** en Grand ou dans l'une des quatre couleurs, à condition que ce joueur n'ait pas déjà joué un contrat dans cette dénomination. Dans un contrat grand, le déclarant a un objectif de 14 plis et les autres joueurs un objectif de 1 chacun.
 
-If either of the other players offers to play a great contract, the player left of dealer can retain the right to be declarer by also undertaking to play a great contract, which can be in **any** suit or grand this player has not yet used. 
+Si l'un des deux autres joueurs propose de jouer un contrat grand, le joueur à la gauche du donneur peut conserver le droit d'être déclarant en s'engageant également à jouer un contrat grand, qui peut être dans **n'importe quelle** couleur ou Grand que ce joueur n'a pas encore utilisé.
 
-If the player to dealer's right announces a great contract and the player to dealer's left does not wish to compete by also announcing one, the dealer can become declarer by undertaking a great contract in a higher denomination, the ordering being Grand (high), hearts, spades, diamonds, clubs (low). Again this higher bid must be in a suit or Grand that the dealer has not already played.
+Si le joueur à la droite du donneur annonce un contrat grand et que le joueur à la gauche du donneur ne souhaite pas concourir en en annonçant un également, le donneur peut devenir déclarant en s'engageant à jouer un contrat grand dans une dénomination supérieure, l'ordre étant Grand (haut), cœur, pique, carreau, trèfle (bas). Là encore, cette enchère supérieure doit être dans une couleur ou Grand que le donneur n'a pas déjà joué.
 
-There is no "great nullo" contract.
+Il n'existe pas de contrat « grand nullo ».
 
-As in Trjámann the declarer can discard up to 4 cards and replace them from the Manni. The declarer leads to the first trick.
+Comme au Trjámann, le déclarant peut défausser jusqu'à 4 cartes et les remplacer par le Manni. Le déclarant entame le premier pli.
 
-In the ordinary Grand and suit contracts the targets are 8 for the declarer and 4 for each of the other players as usual. In Nullo the target is 4 for declarer and 6 for each of the others. Scoring is as in Trjámann. 
+Dans les contrats Grand et de couleur ordinaires, les objectifs sont de 8 pour le déclarant et 4 pour chacun des autres joueurs comme d'habitude. Au Nullo, l'objectif est de 4 pour le déclarant et 6 pour chacun des autres. Le comptage est le même qu'au Trjámann.
 
-If declarer takes 15 tricks in a great contract, the declarer wins 4 points and each opponent loses 2. For taking all 16 tricks the declarer wins 8 points and each other player loses 4. If the declarer takes 14 or fewer tricks, the scoring is normal - each player wins or loses a point for each trick above or below their target.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Manni
+Si le déclarant prend 15 plis dans un contrat grand, il gagne 4 points et chaque adversaire perd 2. Pour avoir pris les 16 plis, le déclarant gagne 8 points et chaque autre joueur perd 4. Si le déclarant prend 14 plis ou moins, le comptage est normal — chaque joueur gagne ou perd un point pour chaque pli au-dessus ou en dessous de son objectif.

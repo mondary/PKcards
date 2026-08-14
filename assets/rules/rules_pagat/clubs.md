@@ -3,60 +3,58 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Whist à quota, Plis
-**But :** An American card game for three players in which clubs are permanent trumps and each player has a quota of 4 tricks to win.
+**But :** Jeu de cartes américain à trois joueurs dans lequel les trèfles sont l'atout permanent et chaque joueur a un quota de 4 plis à remporter.
 
 ---
 
 ## Introduction
 
-In this three-player card game from the US East Coast, each player has a quota of 4 tricks to win and gains or loses points according to how far they are above or below the quota. It is quite similar to the Canadian game Le Neuf (or Nines), but in Clubs the target score is 11 rather than 9, and clubs are permanent trumps.
+Dans ce jeu de cartes à trois joueurs de la côte est des États-Unis, chaque joueur a un quota de 4 plis à gagner et gagne ou perd des points en fonction de l'écart au-dessus ou en dessous de son quota. Il est assez similaire au jeu canadien Le Neuf (ou Nines), mais dans Clubs le score cible est 11 plutôt que 9, et les trèfles sont l'atout permanent.
 
-*The first version of this page appeared as Clubs (4) in the invented games section of pagat.com, based on a [posting to the newsgroup rec.games.playing-cards](https://groups.google.com/forum/#!topic/rec.games.playing-cards/ECxFIXZ5JA8) by TC in July 1997. More recent information from Spencer Cappallo makes it clear that this game is quite widely known and that at least two different versions of it exist.* 
+*La première version de cette page est parue sous le nom de Clubs (4) dans la section des jeux inventés de pagat.com, basée sur un [message sur le forum rec.games.playing-cards](https://groups.google.com/forum/#!topic/rec.games.playing-cards/ECxFIXZ5JA8) de TC en juillet 1997. Des informations plus récentes de Spencer Cappallo montrent clairement que ce jeu est assez connu et qu'il existe au moins deux versions différentes.*
 
-## Players and Cards
+## Joueurs et Cartes
 
-There are three players and a standard 52-card pack (without jokers) is used. The cards of each suit rank from high to low A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2.
+Il y a trois joueurs et on utilise un jeu standard de 52 cartes (sans jokers). Les cartes de chaque couleur se classent de la plus forte à la plus faible A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3, 2.
 
-Clubs are always trumps. The other three suits (hearts, diamonds and spades) will be referred to as **plain suits**.
+Les trèfles sont toujours l'atout. Les trois autres couleurs (cœur, carreau et pique) seront appelées **couleurs ordinaires**.
 
-Deal and play are clockwise and the turn to deal passes to the left after each hand.
+La donne et le jeu se font dans le sens des aiguilles d'une montre et le tour de donner passe à la gauche après chaque main.
 
-## Deal and Bid
+## Donne et Enchère
 
-The first dealer is chosen by any convenient method. The dealer deals out all the cards one at a time into four hands of 13 cards, one for each player and a spare hand, known as the "bid" hand, which is face down in the middle of the table. The three players pick up their cards and look at them.
+Le premier donneur est choisi par la méthode de votre choix. Le donneur distribue toutes les cartes une à la fois en quatre mains de 13 cartes, une pour chaque joueur et une main supplémentaire, appelée « main d'enchère », qui est face contre table au milieu de la table. Les trois joueurs ramassent leurs cartes et les regardent.
 
-Next each of the three players in turn, beginning with the player to dealer's left and ending with the dealer, decides whether to keep the cards they are dealt or exchange them for the bid hand. When exchanging a player picks up the bid hand and places the whole of their original hand face down in the middle to form the new bid hand.
+Ensuite, chacun des trois joueurs à tour de rôle, commençant par le joueur à la gauche du donneur et finissant par le donneur, décide de garder les cartes qui lui ont été distribuées ou de les échanger contre la main d'enchère. Lors d'un échange, le joueur ramasse la main d'enchère et pose l'ensemble de sa main originale face contre table au milieu pour former la nouvelle main d'enchère.
 
-It is possible for more than one player to exchange, each taking the cards put down by the previous exchanger. 
+Il est possible que plusieurs joueurs échangent, chacun prenant les cartes posées par l'échangeur précédent.
 
-A player who exchanges has the advantage of having seen 26 cards rather than 13. However they do not know in advance what they will get from the bid hand, and since each player has only one turn to exchange, if the bid hand turns out to be worse than your original hand there is no possibility to get your original cards back.
+Un joueur qui échange a l'avantage d'avoir vu 26 cartes au lieu de 13. Cependant, il ne sait pas à l'avance ce qu'il obtiendra de la main d'enchère, et puisque chaque joueur n'a qu'un seul tour d'échange, si la main d'enchère s'avère pire que sa main originale, il n'y a aucune possibilité de récupérer ses cartes d'origine.
 
-## Play
+## Jeu
 
-If the bid hand was taken, the last player who exchanged plays the first card (leads) to the first trick. If no one exchanged, the player to dealer's left leads to the first trick. Each trick is won by the highest club (trump) in it, or if it contains no clubs it is won by the highest card of the suit that was led. The winner of each trick leads to the next. 
+Si la main d'enchère a été prise, le dernier joueur qui a échangé joue la première carte (entame) du premier pli. Si personne n'a échangé, le joueur à la gauche du donneur entame le premier pli. Chaque pli est remporté par le plus fort trèfle (atout) qu'il contient, ou s'il ne contient pas de trèfle, par la plus forte carte de la couleur entamée. Le gagnant de chaque pli entame le suivant.
 
-Players must always follow suit if possible - i.e. play a card of the same suit that was led. Subject to this rule, they must always if possible play a card that beats the highest card so far played to the trick.
+Les joueurs doivent toujours suivre la couleur si possible — c'est-à-dire jouer une carte de la même couleur que celle entamée. Sous réserve de cette règle, ils doivent toujours si possible jouer une carte qui bat la carte la plus forte jouée jusqu'à présent dans le pli.
 
-It is illegal to **lead** a club (trump) to a trick until either clubs have been 'broken' or the player whose turn it is to lead has nothing left in their hand except clubs. Clubs are said to be **'broken'** when a player trumps a plain suit lead or leads a club because they have no other suits.
+Il est interdit d'**entamer** un trèfle (atout) dans un pli jusqu'à ce que les trèfles aient été « cassés » ou que le joueur dont c'est le tour d'entamer n'ait plus rien d'autre dans sa main que des trèfles. On dit que les trèfles sont **« cassés »** lorsqu'un joueur coupe une entame de couleur ordinaire ou entame un trèfle parce qu'il n'a pas d'autres couleurs.
 
-It follows from the rule that the highest card in the trick must be beaten if possible that if a plain suit is led and the second player has no card of that suit, they must play a trump if they have one. The same applies if the third player cannot follow suit, unless the second player has played a trump that the third player is unable to beat.
+Il découle de la règle selon laquelle la carte la plus forte du pli doit être battue si possible que si une couleur ordinaire est entamée et que le deuxième joueur n'a pas de carte de cette couleur, il doit jouer un atout s'il en a un. La même chose s'applique si le troisième joueur ne peut pas suivre la couleur, sauf si le deuxième joueur a joué un atout que le troisième joueur est incapable de battre.
 
-Tricks should be neatly stacked face down in front of the winner, with the tricks overlapped so that everyone can easily see how many tricks each player has won. When all 13 tricks have been played the hand is scored.
+Les plis doivent être empilés proprement face contre table devant le gagnant, avec les plis chevauchés pour que tout le monde puisse facilement voir combien de plis chaque joueur a gagnés. Lorsque les 13 plis ont été joués, la main est comptée.
 
-## Scoring
+## Comptage des points
 
-The scores are recorded on paper, with a column for each player. Everyone begins with a score of zero. At the end of each hand, the number of tricks won by each player is compared to their quota of 4 tricks. Players with more than 4 tricks have one point added to their score for each trick in excess of 4, players with fewer than 4 tricks subtract one point for each trick by which they fall short of 4, and players with exactly 4 tricks neither add not subtract anything. Total scores can be negative.
+Les scores sont enregistrés sur papier, avec une colonne pour chaque joueur. Tout le monde commence avec un score de zéro. À la fin de chaque main, le nombre de plis gagnés par chaque joueur est comparé à son quota de 4 plis. Les joueurs ayant plus de 4 plis ajoutent un point à leur score pour chaque pli au-dessus de 4, ceux ayant moins de 4 plis soustraient un point pour chaque pli en dessous de 4, et ceux ayant exactement 4 plis n'ajoutent ni ne soustraient rien. Les scores totaux peuvent être négatifs.
 
-For example if players A, B and C win 7, 2 and 4 tricks respectively, their scores for the hand are +3, -2 and 0. Since there are 13 tricks and the quotas of the three players add up to 12, it is easy to see that the total of the players' scores must increase by 1 for each hand played, for example after 5 deals the total of all the scores must be 5.
+Par exemple, si les joueurs A, B et C gagnent respectivement 7, 2 et 4 plis, leurs scores pour la main sont +3, -2 et 0. Puisqu'il y a 13 plis et que les quotas des trois joueurs s'additionnent à 12, il est facile de voir que le total des scores des joueurs doit augmenter de 1 pour chaque main jouée — par exemple, après 5 donnes le total de tous les scores doit être 5.
 
-The object of the game is to reach a total positive score of +11 or more, or a negative score of -11 or beyond, over as many deals as it takes. If two people achieve this on the same hand - either both reaching +11 or one +11 and another -11, there are two winners. It is even possible for all three to reach the target on the same deal - two +11 and one -11 - in which case the game is a draw.
+Le but du jeu est d'atteindre un score positif total de +11 ou plus, ou un score négatif de -11 ou au-delà, en autant de donnes que nécessaire. Si deux personnes atteignent ce résultat sur la même main — soit en atteignant tous les deux +11, soit l'un +11 et l'autre -11 — il y a deux vainqueurs. Il est même possible que les trois atteignent le objectif sur la même donne — deux +11 et un -11 — auquel cas la partie est nulle.
 
-## Variants
+## Variantes
 
-Spencer Cappallo describes a variant played by his family in Pennsylvania with the following differences:
+Spencer Cappallo décrit une variante jouée par sa famille en Pennsylvanie avec les différences suivantes :
 
-- In the play, players must follow suit and are not allowed to lead clubs until they are broken, but there is no requirement to beat the highest card so far played to the trick, and therefore no requirement to trump if you have no card of the plain suit that was led.
+- Dans le jeu, les joueurs doivent suivre la couleur et ne sont pas autorisés à entamer des trèfles tant qu'ils ne sont pas cassés, mais il n'y a aucune obligation de battre la carte la plus forte jouée jusqu'à présent dans le pli, et donc aucune obligation de couper si vous n'avez pas de carte de la couleur ordinaire entamée.
 
-- The object is to reach a cumulative score of +11 or more. Reaching -11 does not win the game.
-
-Home Page > Classified Index > Trick Taking Games > Whist group > Quota > Clubs
+- Le but est d'atteindre un score cumulé de +11 ou plus. Atteindre -11 ne fait pas gagner la partie.

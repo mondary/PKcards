@@ -2,76 +2,74 @@
 
 **Difficulté :** —
 **Type :** Whist aux enchères, Plis
-**But :** How to play several different versions of Honeymoon Bridge - adaptations of for two players of the card game Contract Bridge.
+**But :** Comment jouer plusieurs versions différentes du Honeymoon Bridge — adaptations pour deux joueurs du jeu de cartes Contract Bridge.
 
 ---
 
-The name Honeymoon Bridge can be applied to any adaptation of Contract Bridge for two players. There are several versions. All of them use a 52-card pack, with suits and cards in each suit ranking as in Bridge. Scoring is the same as in Rubber Bridge.
+Le nom Honeymoon Bridge peut s'appliquer à toute adaptation du Contract Bridge pour deux joueurs. Il existe plusieurs versions. Toutes utilisent un jeu de 52 cartes, avec les couleurs et les cartes de chaque couleur classées comme au Bridge. Le décompte des points est le même qu'au Rubber Bridge.
 
 ## Draw Bridge
 
-Two players use a 52 card pack. Suits and cards in each suit rank as in Bridge.
+Deux joueurs utilisent un jeu de 52 cartes. Les couleurs et les cartes de chaque couleur sont classées comme au Bridge.
 
-The dealer shuffles and dealer's opponent cuts. The dealer deals 13 cards to each player, one at a time. The remaining 26 cards are placed face down to form a pile from which cards are drawn during play. This is known as the stock.
+Le donneur mélange et l'adversaire coupe. Le donneur distribue 13 cartes à chaque joueur, une à la fois. Les 26 cartes restantes sont placées face en bas pour former une pile à partir de laquelle les cartes sont tirées pendant le jeu. C'est ce qu'on appelle le talon.
 
-The first 13 tricks are played at no trump. Non dealer leads to the first trick, and it is not necessary to follow suit. These tricks do not count towards the score - they are simply discarded - but the winner of each trick draws the top card from the top of the stock and the loser takes the next card. When drawing a card you add it to your hand without showing it to your opponent.
+Les 13 premiers plis se jouent sans atout. Le non-donneur entame le premier pli, et il n'est pas nécessaire de suivre la couleur. Ces plis ne comptent pas pour le score — ils sont simplement écartés — mais le gagnant de chaque pli tire la carte du dessus du talon et le perdant prend la carte suivante. Lors du tirage, on ajoute la carte à sa main sans la montrer à l'adversaire.
 
-After 13 tricks each player still has 13 cards, and if they have very good memories they will know each other's hands. The players now bid as in Contract Bridge (doubles and redoubles are allowed), until one player passes. The final contract is then played, the opponent of the bidder leading to the first trick. Suit must be followed, as in Bridge.
+Après 13 plis, chaque joueur a encore 13 cartes, et s'ils ont très bonne mémoire, ils connaissent les mains de chacun. Les joueurs enchérissent alors comme au Contract Bridge (les contrés et surcontrés sont autorisés), jusqu'à ce qu'un joueur passe. Le contrat final est ensuite joué, l'adversaire de l'enchérisseur entamant le premier pli. La couleur doit être suivie, comme au Bridge.
 
-### Variations
+### Variantes
 
-Some players turn the top card of the stock face up before the lead to each trick, so in the first 13 tricks you know what card you will pick up if you win the trick (but not if you lose).
+Certains joueurs retournent la carte du dessus du talon face visible avant l'entame de chaque pli, de sorte que dans les 13 premiers plis vous savez quelle carte vous allez ramasser si vous gagnez le pli (mais pas si vous le perdez).
 
-Some play that you have to follow suit in the first 13 tricks. However, since following suit is not enforceable when players draw new cards after each trick, it is probably better to play that you don't have to. In the last 13 tricks suit must always be followed as in Bridge.
+Certains jouent qu'il faut suivre la couleur dans les 13 premiers plis. Cependant, puisque le suivi de la couleur n'est pas applicable lorsque les joueurs tirent de nouvelles cartes après chaque pli, il est probablement préférable de jouer qu'on n'est pas obligé de le faire. Dans les 13 derniers plis, la couleur doit toujours être suivie comme au Bridge.
 
 ## Draw and Discard Bridge
 
-No cards are dealt, but after shuffling and cutting, the 52 cards are stacked face down. The players take turns to draw cards as follows: at your turn you look at the top card of the stock (without showing it to your opponent). You may either take this card and add it to your hand, or discard it to a face down discard pile. If you reject the first stock card you must take the next stock card and add it to the hand. If you take the first stock card you look at the next stock card and must discard it face down. Players take alternate turns until the stock is exhausted. At this time, each player has a hand of 13 cards, and has seen 13 of the 26 cards in the discard pile, but does not know which of the other 26 cards are in the opponent's hand.
+Aucune carte n'est distribuée, mais après le mélange et la coupe, les 52 cartes sont empilées face en bas. Les joueurs tirent des cartes à tour de rôle comme suit : à votre tour, vous regardez la carte du dessus du talon (sans la montrer à votre adversaire). Vous pouvez soit prendre cette carte et l'ajouter à votre main, soit la défausser sur une pile de défausse face en bas. Si vous refusez la première carte du talon, vous devez prendre la carte suivante et l'ajouter à votre main. Si vous prenez la première carte, vous regardez la carte suivante et devez la défausser face en bas. Les joueurs jouent à tour de rôle jusqu'à épuisement du talon. À ce moment, chaque joueur a une main de 13 cartes et a vu 13 des 26 cartes de la pile de défausse, mais ne sait pas lesquelles des 26 autres cartes se trouvent dans la main de l'adversaire.
 
-The players now bid as in Contract Bridge (doubles and redoubles are allowed), until one player passes. The final contract is then played, the opponent of the bidder leading to the first trick. Suit must be followed, as in Bridge.
+Les joueurs enchérissent alors comme au Contract Bridge (les contrés et surcontrés sont autorisés), jusqu'à ce qu'un joueur passe. Le contrat final est ensuite joué, l'adversaire de l'enchérisseur entamant le premier pli. La couleur doit être suivie, comme au Bridge.
 
-### Variations
+### Variantes
 
-Some play that in the drawing, a player who accepts the top card of the stock does not look at and discard the next card. In this version, there will generally be some stock cards left over when each player has collected their 13 cards. Neither player knows what these remaining stock cards are.
+Certains jouent que lors du tirage, un joueur qui accepte la carte du dessus du talon ne regarde pas et ne défausse pas la carte suivante. Dans cette version, il restera généralement des cartes dans le talon lorsque chaque joueur aura collecté ses 13 cartes. Aucun des joueurs ne sait ce que sont ces cartes restantes.
 
 ## Double Dummy Bridge
 
-The two active players sit next to each other. Four 13-card hands are dealt as in Bridge - a hand for each player and two dummy hands. The hand opposite each player is their dummy, but they cannot look at it until after the bidding.
+Les deux joueurs actifs sont assis côte à côte. Quatre mains de 13 cartes sont distribuées comme au Bridge — une main pour chaque joueur et deux mains de mort. La main en face de chaque joueur est son mort, mais on ne peut pas la regarder avant les enchères.
 
-The two players bid as in Contract Bridge (doubles and redoubles allowed) until one player passes. The players then look at their own dummies, but do not show them to each other until after the opening lead.
+Les deux joueurs enchérissent comme au Contract Bridge (contrés et surcontrés autorisés) jusqu'à ce qu'un joueur passe. Les joueurs regardent ensuite leur propre mort, mais ne les montrent pas l'un à l'autre avant l'entame d'ouverture.
 
-The declarer's opponent leads a card to the first trick from the hand that will be to declarer's left: this will be the opponent's own hand if the declarer is the right-hand player, but the opponent's dummy if the declarer is the left-hand player. Both dummies are then exposed on the table, opposite their owners, and play continues as in Bridge, each of the players playing cards from their own dummy at its turn.
+L'adversaire du déclarant entame une carte au premier pli depuis la main qui sera à la gauche du déclarant : ce sera la propre main de l'adversaire si le déclarant est le joueur de droite, mais le mort de l'adversaire si le déclarant est le joueur de gauche. Les deux morts sont alors exposés sur la table, en face de leurs propriétaires, et le jeu continue comme au Bridge, chacun des joueurs jouant les cartes de son propre mort à son tour.
 
-### Variations
+### Variantes
 
-Some play that neither dummy is exposed to the opponent. After the end of the bidding, the dummy cards are placed in racks so that they are visible to the owner throughout the play, but not to the other player. Hans Peter Albach suggests that when playing this way, the two players should sit facing each other across the table, each having their opponent's rack in front of them to their left. So if South and East are the real players, with North and West as their dummy partners, the arrangement and sequence of play looks like this:
+Certains jouent qu'aucun mort n'est exposé à l'adversaire. Après la fin des enchères, les cartes du mort sont placées dans des râteliers de sorte qu'elles soient visibles pour le propriétaire pendant tout le jeu, mais pas pour l'autre joueur. Hans Peter Albach suggère que lorsqu'on joue ainsi, les deux joueurs devraient être assis en face l'un de l'autre de part et d'autre de la table, chacun ayant le râtelier de son adversaire devant lui à sa gauche. Ainsi si Sud et Est sont les vrais joueurs, avec Nord et Ouest comme partenaires morts, l'arrangement et la séquence de jeu ressemblent à ceci :
 
 ![honeymoon bridge with racks](../images/boston/honeymoon.jpg)
 
-To eliminate any positional advantage in sitting to the left or right, some play that the hands are always arranged, after the bidding, in the clockwise order: opponent's dummy, declarer's dummy, opponent, declarer. In this case the opponent's dummy leads to the first trick.
+Pour éliminer tout avantage de position lié au fait d'être assis à gauche ou à droite, certains jouent que les mains sont toujours arrangées, après les enchères, dans l'ordre horaire : mort de l'adversaire, mort du déclarant, adversaire, déclarant. Dans ce cas, le mort de l'adversaire entame le premier pli.
 
-Some deal just 12 cards to each player initially. Players may look at their own dummies during the bidding. After the bidding, the dealer deals two more cards to each player. The players look at these extra cards and choose which to add to their own hand and which to their dummy. 
+Certains distribuent seulement 12 cartes à chaque joueur au départ. Les joueurs peuvent regarder leur propre mort pendant les enchères. Après les enchères, le donneur distribue deux cartes supplémentaires à chaque joueur. Les joueurs regardent ces cartes supplémentaires et choisissent lesquelles ajouter à leur propre main et lesquelles à leur mort.
 
 ## Single Dummy Bridge
 
-Four hands are dealt as in Double Dummy Bridge, but one hand is exposed before the bidding. After the bidding, the declarer chooses whether to have the exposed dummy or the other dummy as a partner. Either way, the second dummy is then exposed and the play continues as in Double Dummy Bridge.
+Quatre mains sont distribuées comme au Double Dummy Bridge, mais une main est exposée avant les enchères. Après les enchères, le déclarant choisit d'avoir le mort exposé ou l'autre mort comme partenaire. Dans les deux cas, le second mort est ensuite exposé et le jeu continue comme au Double Dummy Bridge.
 
-## Bridge with Semi-Exposed Dummies
+## Bridge avec morts semi-exposés
 
-The players sit next to each other. Four 13-card hands are dealt. The hands belonging to the players are dealt normally, but each of the dummies are arranged with six cards face down in a row, one face up card on top of each face down card, and a seventh face up card at the end of the row with no card under it. Each active player owns and plays the dummy opposite them.
+Les joueurs sont assis côte à côte. Quatre mains de 13 cartes sont distribuées. Les mains appartenant aux joueurs sont distribuées normalement, mais chacun des morts est arrangé avec six cartes face en bas en rangée, une carte face visible sur chaque carte face en bas, et une septième carte face visible au bout de la rangée sans carte en dessous. Chaque joueur actif possède et joue le mort en face de lui.
 
-The two players bid as at Contract Bridge (doubles and redoubles allowed) until one player passes. In this version each player can of course see seven cards of each dummy as well as their own cards during the bidding. The hand to the declarer's left leads to the first trick.
+Les deux joueurs enchérissent comme au Contract Bridge (contrés et surcontrés autorisés) jusqu'à ce qu'un joueur passe. Dans cette version, chaque joueur peut bien sûr voir sept cartes de chaque mort ainsi que ses propres cartes pendant les enchères. La main à la gauche du déclarant entame le premier pli.
 
-When it is the turn of a dummy hand to play, its owner plays a face up card from it, obeying the usual rules of following suit. If this exposes a face down card, that card is turned face up at the end of the trick.
+Quand c'est le tour d'une main de mort de jouer, son propriétaire joue une carte face visible, en respectant les règles habituelles de suivi de couleur. Si cela expose une carte face en bas, cette carte est retournée face visible à la fin du pli.
 
 ## Memory Bridge
 
-13 cards are dealt to each player and played at no trump. Suit must be followed, and there is no drawing of replacement cards as in Draw Bridge. The player who makes seven or more tricks scores as though they had played a contract of 1NT, and gets an additional premium of 100 above the line.
+13 cartes sont distribuées à chaque joueur et jouées sans atout. La couleur doit être suivie, et il n'y a pas de tirage de cartes de remplacement comme au Draw Bridge. Le joueur qui fait sept plis ou plus marque comme s'il avait joué un contrat de 1SA, et obtient une prime supplémentaire de 100 au-dessus de la ligne.
 
-The remaining cards are then dealt, 13 to each player, and bid, played and scored as in Bridge.
+Les cartes restantes sont ensuite distribuées, 13 à chaque joueur, et enchéries, jouées et marquées comme au Bridge.
 
 ## Bridgette
 
-This game, first published by J.Q.Kansil in 1970, uses a special 55-card pack consistaining three extra cards known as Colons: the Grand Colon matches aces; the Royal Colon matches Face cards (K,Q,J) and the Little Colon matches the numeral cards 2-10. A Colon can be discarded on a matching lead: it loses the trick but stops the opponent from leading a card of the same suit to the next trick.
-
-Home Page > Classified Index > Trick Taking Games > Auction Whist Group > Bridge > Honeymoon Bridge
+Ce jeu, publié pour la première fois par J.Q. Kansil en 1970, utilise un jeu spécial de 55 cartes comprenant trois cartes supplémentaires appelées Colons : le Grand Colon correspond aux as ; le Royal Colon correspond aux figures (R, D, V) et le Petit Colon correspond aux cartes numériques 2-10. Un Colon peut être défaussé sur une entame correspondante : il perd le pli mais empêche l'adversaire d'entamer une carte de la même couleur au pli suivant.
