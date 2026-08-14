@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>Score — compteur de points</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%0A%20%20%3Crect%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22%23faf8f4%22%2F%3E%0A%20%20%3Cg%20stroke%3D%22%232050c8%22%20stroke-width%3D%2236%22%20stroke-linecap%3D%22round%22%3E%0A%20%20%20%20%3Cline%20x1%3D%22156%22%20y1%3D%22148%22%20x2%3D%22156%22%20y2%3D%22364%22%2F%3E%0A%20%20%20%20%3Cline%20x1%3D%22228%22%20y1%3D%22148%22%20x2%3D%22228%22%20y2%3D%22364%22%2F%3E%0A%20%20%20%20%3Cline%20x1%3D%22300%22%20y1%3D%22148%22%20x2%3D%22300%22%20y2%3D%22364%22%2F%3E%0A%20%20%20%20%3Cline%20x1%3D%22372%22%20y1%3D%22148%22%20x2%3D%22372%22%20y2%3D%22364%22%2F%3E%0A%20%20%20%20%3Cline%20x1%3D%22112%22%20y1%3D%22342%22%20x2%3D%22416%22%20y2%3D%22170%22%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+:root{
+  --paper:#faf8f4; --ink:#1c1b18; --line:#ddd8ce; --mut:#8a857a; --acc:#2050c8;
+}
+*{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  height:100dvh; display:flex; flex-direction:overflow; touch-action:manipulation;
+  -webkit-font-smoothing:antialiased;
+}
+button{font:inherit; color:inherit; background:none; border:0; padding:0; cursor:pointer; touch-action:manipulation}
+button:disabled{opacity:.3; pointer-events:none}
+
+#app{
+  max-width:640px; width:100%; margin:0 auto; height:100dvh;
+  display:flex; flex-direction:column; overflow:hidden;
+}
+
+/* ----- entête de liste ----- */
+#listHead{
+  display:flex; align-items:center; gap:8px;
+  padding:2px 0 10px;
+}
+#listHead b{font-size:15px}
+#listHead .grow{flex:1}
+.mini{
+  height:30px; padding:0 10px; border-radius:8px; border:1px solid var(--line);
+  font-size:12.5px; font-weight:600; background:#fff;
+}
+.mini:active{background:var(--ink); color:#fff}
+#listHead{
+  display:flex; align-items:center; gap:8px;
+  padding:2px 0 10px;
+}
+#listHead b{font-size:15px}
+#listHead .grow{flex:1}
+
+/* ----- liste des joueurs ----- */
+#list{flex:1; overflow-y:auto; padding:calc(env(safe-area-inset-top) + 10px) 14px 10px; -webkit-overflow-scrolling:touch}
+.prow{
+  display:flex; align-items:stretch;
+  padding:0; margin:0 -14px; border-radius:14px;
+}
+.prow.sel{background:#eef1fb}
+.init{
+  width:64px; min-height:64px; flex:none; align-self:stretch;
+  display:grid; place-items:center; font-weight:700; font-size:16px;
+  background:#eceae4; overflow:hidden; position:relative;
+  border-radius:14px 0 0 14px;
+}
+.init.ph{padding:0; border:0; object-fit:cover; display:block; width:64px; height:auto}
+.pmid{
+  flex:1; min-width:0; display:flex; flex-direction:column; justify-content:center;
+  padding:9px 4px 9px 12px;
+}
+.prow.sel .init{background:var(--acc); color:#fff}
+.pmid{flex:1; min-width:0}
+.pnm{
+  display:block; font-size:16px; font-weight:600; text-align:left;
+  overflow:hidden; text-overflow:ellipsis; white-space:nowrap; padding:2px 0;
+}
+.pnm:active{color:var(--acc)}
+.pbd{
+  display:flex; flex-wrap:wrap; gap:3px 0; color:var(--mut); font-size:13px;
+  margin-top:5px; line-height:1.5; font-variant-numeric:tabular-nums;
+}
+.pbd:empty{display:none}
+.pbd [data-fix]{
+  padding:3px 5px; margin-right:2px; border-radius:6px;
+  border-bottom:1px dashed #c9c3b6;
+}
+.pbd [data-fix]:active{color:var(--acc); border-color:var(--acc)}
+.pbd .pl{margin-right:5px; opacity:.55}
+.tot{font-size:30px; font-weight:800; font-variant-numeric:tabular-nums; letter-spacing:-.5px; align-self:center; padding-right:8px}
+.rx{color:#c9c3b6; font-size:15px; padding:8px; margin-right:4px; align-self:center}
+.rx:active{color:#b3261e}
+
+#addRow{
+  display:flex; align-items:center; gap:12px; width:100%;
+  padding:10px 10px; margin:0 -14px; border-radius:14px; color:var(--mut);
+}
+#addRow .init{
+  width:46px; min-height:46px; align-self:center; border-radius:14px;
+  border:1.5px dashed #c9c3b6; background:none; color:#c9c3b6; font-size:18px;
+}
+#addRow span{font-size:15px}
+#addRow:active{background:#f1eee7; color:var(--ink)}
+
+/* ----- pavé permanent ----- */
+#pad{
+  border-top:1px solid var(--line); background:#fff;
+  padding:8px 12px calc(env(safe-area-inset-bottom) + 8px);
+}
+#padBar{display:flex; align-items:center; gap:8px; padding:0 2px 8px}
+#padWho{flex:1; min-width:0; text-align:left}
+#padWho b{font-size:15px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+#padVal{
+  font-size:24px; font-weight:800; font-variant-numeric:tabular-nums;
+  min-width:70px; text-align:right; letter-spacing:.5px; white-space:nowrap;
+}
+#padVal.long{font-size:17px}
+#padVal:empty::after{content:"—"; color:#c9c3b6; font-weight:400}
+#pgrid{display:grid; grid-template-columns:repeat(4,1fr); gap:6px}
+#pgrid button{
+  height:46px; border:1px solid var(--line); border-radius:11px;
+  font-size:20px; font-weight:600; background:var(--paper);
+}
+#pgrid button:active{background:var(--ink); color:#fff; border-color:var(--ink)}
+#pgrid .fn{color:var(--mut); font-size:17px}
+#pgrid #undoBtn{border-color:var(--line)}
+#pgrid #undoBtn.attn{border-color:var(--acc); color:var(--acc)}
+#pgrid #padOk{
+  grid-column:span 3; background:var(--acc); color:#fff; border-color:var(--acc);
+  font-size:15.5px;
+}
+#pgrid #padOk:active{background:var(--ink); border-color:var(--ink)}
+#pgrid #padOk.fix{background:var(--ink); border-color:var(--ink)}
+
+/* ----- overlays ----- */
+.ov{
+  position:fixed; inset:0; z-index:30; background:rgba(28,27,24,.45);
+  display:grid; place-items:center; padding:20px;
+}
+.ov[hidden]{display:none}
+.sheet{
+  width:100%; max-width:380px; background:#fff; border-radius:18px;
+  padding:20px 18px 16px; max-height:80dvh; overflow-y:auto;
+}
+.sheet h2{margin:0 0 4px; font-size:20px}
+.sheet .sub2{color:var(--mut); font-size:13.5px; margin:0 0 14px}
+.rline{
+  display:flex; align-items:center; gap:10px; padding:10px 2px;
+  border-bottom:1px solid var(--line); font-size:15px;
+}
+.rline:last-of-type{border-bottom:0}
+.rline .w{flex:1; font-weight:600}
+.rline .c{color:var(--mut); font-size:13px}
+.rline .v{font-weight:800; font-variant-numeric:tabular-nums}
+.rline.win .w::after{content:" 🏆"}
+.sheet .btns{display:flex; flex-direction:column; gap:8px; margin-top:14px}
+.bmain{padding:14px; border-radius:12px; background:var(--acc); color:#fff; font-weight:600; font-size:15.5px}
+.bmain:active{background:var(--ink)}
+.bghost{padding:12px; border-radius:12px; border:1px solid var(--line); color:var(--mut); font-size:14.5px}
+
+#toast{
+  position:fixed; top:calc(env(safe-area-inset-top) + 66px); left:50%;
+  transform:translateX(-50%); background:var(--ink); color:#fff;
+  padding:9px 16px; border-radius:8px; font-size:14px; font-weight:600;
+  opacity:0; pointer-events:none; transition:opacity .2s; z-index:40; white-space:nowrap;
+}
+#toast.on{opacity:1}
+
+@media (min-width:600px){
+  #list{display:grid; grid-template-columns:1fr 1fr; align-content:start; gap:2px 10px}
+  .tot{font-size:34px}
+}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="list"></div>
+  <div id="pad">
+    <div id="padBar">
+      <button id="padWho"><b id="pwName"></b></button>
+      <span id="padVal"></span>
+    </div>
+    <div id="pgrid">
+      <button data-k="1">1</button><button data-k="2">2</button><button data-k="3">3</button><button data-k="b" class="fn">⌫</button>
+      <button data-k="4">4</button><button data-k="5">5</button><button data-k="6">6</button><button data-k="s" class="fn">−</button>
+      <button data-k="7">7</button><button data-k="8">8</button><button data-k="9">9</button><button id="undoBtn" class="fn" title="Annuler la dernière saisie du joueur">↩</button>
+      <button data-k="0">0</button>
+      <button id="padOk">Valider</button>
+    </div>
+  </div>
+</div>
+
+<div id="ovEnd" class="ov" hidden></div>
+<div id="ovPal" class="ov" hidden></div>
+<div id="ovMenu" class="ov" hidden></div>
+<div id="toast"></div>
+
+<script>
+'use strict';
+var KEY='pk.score.v3', GKEY='pk.score.games';
+var S=load(), GAMES=loadGames();
+var SEL=null, CUR='', FIX=null, toastT=0;
+
+function lsGet(k){if(location.protocol==='file:')return null;try{return localStorage.getItem(k)}catch(e){return null}}
+function lsSet(k,v){if(location.protocol==='file:')return;try{localStorage.setItem(k,v)}catch(e){}}
+function load(){
+  try{var d=JSON.parse(lsGet(KEY)||'null');if(d&&d.players)return d}catch(e){}
+  return {players:[
+    {id:uid(),name:'Joueur 1'},
+    {id:uid(),name:'Joueur 2'},
+    {id:uid(),name:'Joueur 3'}
+  ],rounds:[],log:[]};
+}
+function loadGames(){
+  try{var d=JSON.parse(lsGet(GKEY)||'null');if(Array.isArray(d))return d}catch(e){}
+  return [];
+}
+function save(){lsSet(KEY,JSON.stringify(S))}
+function saveGames(){lsSet(GKEY,JSON.stringify(GAMES))}
+function uid(){return Math.random().toString(36).slice(2,9)}
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function ini(n){
+  var m=/^(.*?)\s*(\d+)$/.exec(n.trim());
+  if(m)return (m[1].charAt(0).toUpperCase()+m[2]).slice(0,3);
+  var w=n.trim().split(/\s+/);
+  return (w[0].charAt(0)+(w[1]?w[1].charAt(0):'')).toUpperCase();
+}
+function P(id){for(var i=0;i<S.players.length;i++)if(S.players[i].id===id)return S.players[i]}
+function tot(pid){var t=0;S.rounds.forEach(function(r){t+=r.scores[pid]||0});return t}
+function curRound(){
+  var r=S.rounds[S.rounds.length-1];
+  if(!r||r.done)return null;
+  return r;
+}
+function roundNo(){return S.rounds.length?(curRound()?S.rounds.length:S.rounds.length+1):1}
+function commit(pid,v,ridx){
+  var prev;
+  if(ridx!=null){
+    prev=(pid in S.rounds[ridx].scores)?S.rounds[ridx].scores[pid]:null;
+    S.rounds[ridx].scores[pid]=v;
+  }else{
+    var r=curRound();
+    if(!r){r={scores:{},done:false};S.rounds.push(r)}
+    prev=(pid in r.scores)?r.scores[pid]:null;
+    r.scores[pid]=v;
+    ridx=S.rounds.length-1;
+  }
+  var rr=S.rounds[ridx];
+  rr.done=S.players.every(function(p){return p.id in rr.scores});
+  S.log.push({pid:pid,ridx:ridx,prev:prev});
+  if(S.log.length>200)S.log.shift();
+  save();
+}
+function parseVal(e){if(e===''||e==='-')return null;var n=parseInt(e,10);return isNaN(n)?null:n}
+function nextMissing(fromPid){
+  var r=curRound();if(!r)return null;
+  var ids=S.players.map(function(p){return p.id});
+  var i=fromPid?ids.indexOf(fromPid)+1:0;
+  for(var k=i;k<ids.length;k++)if(!(ids[k] in r.scores))return ids[k];
+  for(var j=0;j<ids.length;j++)if(!(ids[j] in r.scores))return ids[j];
+  return null;
+}
+
+function render(){
+  var list=document.getElementById('list');
+  var cur=curRound();
+  var h='<div id="listHead"><b>Manche '+roundNo()+'</b><span class="grow"></span>'
+    +'<button class="mini" id="btnPal">🏆 Palmarès</button>'
+    +'<button class="mini" id="btnMenu">Menu</button></div>';
+  h+=S.players.map(function(p){
+    var segs=[];
+    S.rounds.forEach(function(r,i){
+      if(!(p.id in r.scores))return;
+      var v=r.scores[p.id];
+      segs.push((i>0?'<span class="pl">+</span>':'')
+        +'<span data-fix="'+i+'" data-pid="'+p.id+'">'+(v<0?'−'+Math.abs(v):v)+'</span>');
+    });
+    return '<div class="prow'+(SEL===p.id&&!FIX?' sel':'')+'" data-pid="'+p.id+'">'
+      +(p.photo
+        ?'<img class="init ph" data-photo="'+p.id+'" src="'+p.photo+'" alt="">'
+        :'<button class="init noph" data-photo="'+p.id+'" title="Photo">'+esc(ini(p.name))+'</button>')
+      +'<span class="pmid"><button class="pnm" data-ren="'+p.id+'">'+esc(p.name)+'</button>'
+      +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
+      +'</span>'
+      +'<span class="tot">'+tot(p.id)+'</span>'
+      +'<button class="rx" data-rm="'+p.id+'" title="Retirer">✕</button>'
+      +'</div>';
+  }).join('');
+  h+='<button id="addRow" data-act="add"><span class="init">＋</span><span>Ajouter un joueur</span></button>';
+  list.innerHTML=h;
+  document.getElementById('undoBtn').className=S.log.length?'fn attn':'fn';
+  syncPad();
+}
+function entryVal(){return parseVal(CUR)}
+function entryText(){return CUR.replace('-','−')}
+function clearEntry(){CUR=''}
+function setEntry(v){CUR=String(v===null||v===undefined?'':v)}
+function syncPad(){
+  var p=P(SEL);
+  document.getElementById('pwName').textContent=p?(p.name+(FIX?' — corriger':'')):'';
+  var pv=document.getElementById('padVal');
+  pv.textContent=entryText();
+  pv.className=entryText().length>6?'long':'';
+  document.getElementById('padOk').textContent=FIX?'Corriger':'Valider';
+  document.getElementById('padOk').className=FIX?'fix':'';
+}
+function toast(m){
+  var t=document.getElementById('toast');
+  t.textContent=m;t.classList.add('on');
+  clearTimeout(toastT);toastT=setTimeout(function(){t.classList.remove('on')},1700);
+}
+
+/* ----- sélection & saisie ----- */
+function curRoundVal(pid){
+  var r=curRound();
+  return (r&&pid in r.scores)?r.scores[pid]:null;
+}
+function select(pid,fixIdx){
+  var v=entryVal();
+  if(SEL&&!FIX&&v!==null&&SEL!==pid){
+    commit(SEL,v);toast(P(SEL).name+' : '+v);
+  }
+  SEL=pid;FIX=(fixIdx!=null)?fixIdx:null;
+  if(fixIdx!=null)setEntry(S.rounds[fixIdx].scores[pid]||0);
+  else{var c=curRoundVal(pid);setEntry(c!==null?c:null)}
+  render();
+}
+function padKey(k){
+  if(/^[0-9]$/.test(k))CUR=(CUR==='0'?k:CUR==='-'?'-'+k:CUR+k).slice(0,7);
+  else if(k==='b')CUR=CUR.slice(0,-1);
+  else if(k==='s'){
+    if(CUR==='')CUR='-';
+    else CUR=CUR.charAt(0)==='-'?CUR.slice(1):'-'+CUR;
+  }
+  syncPad();
+}
+function padOk(){
+  var v=entryVal();
+  if(v===null){toast('Tape un score (0 compris)');return}
+  if(FIX!=null){
+    commit(SEL,v,FIX);
+    toast('Corrigé : '+v);
+    FIX=null;clearEntry();
+  }else{
+    commit(SEL,v);
+    toast(P(SEL).name+' : '+v);
+    var n=nextMissing(SEL);
+    if(n){SEL=n;setEntry(curRoundVal(n)!==null?curRoundVal(n):null)}
+    else{
+      toast('Manche '+S.rounds.length+' complète ✓');
+      SEL=nextMissing(null);clearEntry();
+      if(!SEL&&S.players.length)SEL=S.players[0].id;
+    }
+  }
+  render();
+}
+function undo(){
+  if(!SEL){toast('Sélectionne un joueur');return}
+  var idx=-1;
+  for(var i=S.log.length-1;i>=0;i--)if(S.log[i].pid===SEL){idx=i;break}
+  if(idx<0){toast('Rien à annuler pour '+P(SEL).name);return}
+  var a=S.log.splice(idx,1)[0];
+  var r=S.rounds[a.ridx];
+  if(r){
+    if(a.prev===null||a.prev===undefined)delete r.scores[a.pid];
+    else r.scores[a.pid]=a.prev;
+    if(!Object.keys(r.scores).length)S.rounds.splice(a.ridx,1);
+    else r.done=false;
+  }
+  save();
+  FIX=null;clearEntry();
+  render();toast('Annulé — '+P(SEL).name);
+}
+
+/* ----- fin de partie & palmarès ----- */
+function endGame(){
+  if(!S.rounds.length)return;
+  var st=S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return b.s-a.s});
+  var best=st[0].s;
+  GAMES.push({d:Date.now(),w:st.filter(function(x){return x.s===best}).map(function(x){return x.name}),s:st});
+  if(GAMES.length>60)GAMES.shift();
+  saveGames();
+  var ov=document.getElementById('ovEnd');
+  ov.innerHTML='<div class="sheet"><h2>Partie terminée</h2>'
+    +'<p class="sub2">'+esc(GAMES.length)+' partie'+(GAMES.length>1?'s':'')+' au palmarès</p>'
+    +st.map(function(x,i){return '<div class="rline'+(x.s===best?' win':'')+'"><span class="c">'+(i+1)+'</span><span class="w">'+esc(x.name)+'</span><span class="v">'+x.s+'</span></div>'}).join('')
+    +'<div class="btns"><button class="bmain" data-e="again">Rejouer (mêmes joueurs)</button>'
+    +'<button class="bghost" data-e="close">Fermer</button></div></div>';
+  ov.hidden=false;
+}
+function palmares(){
+  var ov=document.getElementById('ovPal');
+  var wins={},n=GAMES.length;
+  GAMES.forEach(function(g){g.w.forEach(function(w){wins[w]=(wins[w]||0)+1})});
+  var rows=Object.keys(wins).sort(function(a,b){return wins[b]-wins[a]})
+    .map(function(w){return '<div class="rline"><span class="w">'+esc(w)+'</span><span class="v">'+wins[w]+' victoire'+(wins[w]>1?'s':'')+'</span></div>'});
+  ov.innerHTML='<div class="sheet"><h2>Palmarès</h2>'
+    +'<p class="sub2">'+n+' partie'+(n>1?'s':'')+' jouée'+(n>1?'s':'')+'</p>'
+    +(rows.length?rows.join(''):'<p class="sub2">Termine une partie (🏁) pour alimenter le palmarès.</p>')
+    +'<div class="btns"><button class="bghost" data-p="wipe">Effacer le palmarès</button>'
+    +'<button class="bmain" data-p="close">Fermer</button></div></div>';
+  ov.hidden=false;
+}
+
+function pickPhoto(pid){
+  var inp=document.createElement('input');
+  inp.type='file';inp.accept='image/*';inp.capture='environment';
+  inp.onchange=function(){
+    var f=inp.files&&inp.files[0];if(!f)return;
+    var url=URL.createObjectURL(f);
+    var img=new Image();
+    img.onload=function(){
+      try{
+        var s=112,c=document.createElement('canvas');
+        c.width=s;c.height=s;
+        var ctx=c.getContext('2d');
+        var m=Math.min(img.width,img.height);
+        ctx.drawImage(img,(img.width-m)/2,(img.height-m)/2,m,m,0,0,s,s);
+        P(pid).photo=c.toDataURL('image/jpeg',.72);
+        save();
+      }catch(e){}
+      URL.revokeObjectURL(url);
+      render();
+    };
+    img.onerror=function(){URL.revokeObjectURL(url)};
+    img.src=url;
+  };
+  inp.click();
+}
+
+function openMenu(){
+  var ov=document.getElementById('ovMenu');
+  ov.innerHTML='<div class="sheet"><h2>Menu</h2>'
+    +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
+    +'<div class="btns">'
+    +'<button class="bmain" data-m="end"'+(S.rounds.length?'':' disabled')+'>🏁 Terminer la partie<small style="display:block;font-weight:400;font-size:12px;opacity:.85">classement final + victoire au palmarès</small></button>'
+    +'<button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
+    +'<button class="bghost" data-m="close">Fermer</button>'
+    +'</div></div>';
+  ov.hidden=false;
+}
+function resetRounds(){
+  S.rounds=[];S.log=[];save();
+  SEL=S.players.length?S.players[0].id:null;
+  clearEntry();FIX=null;
+  render();toast('Scores remis à zéro — manche 1');
+}
+
+/* ----- événements ----- */
+document.getElementById('list').addEventListener('click',function(e){
+  var rm=e.target.closest('[data-rm]');
+  if(rm){
+    var pid=rm.dataset.rm;
+    if(confirm('Retirer '+P(pid).name+' et ses scores ?')){
+      S.players=S.players.filter(function(p){return p.id!==pid});
+      S.rounds.forEach(function(r){delete r.scores[pid]});
+      S.rounds=S.rounds.filter(function(r){return Object.keys(r.scores).length});
+      S.log=S.log.filter(function(a){return P(a.pid)});
+      var lr=S.rounds[S.rounds.length-1];
+      if(lr)lr.done=S.players.every(function(p){return p.id in lr.scores});
+      if(SEL===pid)SEL=S.players.length?S.players[0].id:null;
+      save();render();
+    }
+    return;
+  }
+  var ren=e.target.closest('[data-ren]');
+  if(ren){
+    var pl=P(ren.dataset.ren);
+    var v=prompt('Nom du joueur :',pl.name);
+    if(v!==null&&v.trim()){pl.name=v.trim().slice(0,14);save();render()}
+    return;
+  }
+  var fx=e.target.closest('[data-fix]');
+  if(fx){select(fx.dataset.pid,parseInt(fx.dataset.fix,10));return}
+  var ad=e.target.closest('[data-act="add"]');
+  if(ad){
+    if(S.players.length>=10){toast('10 joueurs max');return}
+    var nm='Joueur '+(S.players.length+1);
+    S.players.push({id:uid(),name:nm});
+    save();
+    select(S.players[S.players.length-1].id);
+    var np=S.players[S.players.length-1];
+    var v2=prompt('Nom du joueur :',np.name);
+    if(v2!==null&&v2.trim()){np.name=v2.trim().slice(0,14);save()}
+    render();
+    return;
+  }
+  var ph=e.target.closest('[data-photo]');
+  if(ph){pickPhoto(ph.dataset.photo);return}
+  var row=e.target.closest('.prow[data-pid]');
+  if(row)select(row.dataset.pid);
+});
+document.getElementById('pgrid').addEventListener('click',function(e){
+  var k=e.target.closest('[data-k]');
+  if(k)padKey(k.dataset.k);
+});
+document.getElementById('padOk').addEventListener('click',padOk);
+document.getElementById('undoBtn').addEventListener('click',undo);
+document.getElementById('list').addEventListener('click',function(e){
+  if(e.target.closest('#btnPal')){palmares();return}
+  if(e.target.closest('#btnMenu')){openMenu();return}
+});
+document.getElementById('ovMenu').addEventListener('click',function(e){
+  var b=e.target.closest('[data-m]');if(!b)return;
+  document.getElementById('ovMenu').hidden=true;
+  if(b.dataset.m==='end')endGame();
+  else if(b.dataset.m==='reset'&&confirm('Effacer toutes les manches et revenir à la manche 1 ?'))resetRounds();
+});
+document.getElementById('ovEnd').addEventListener('click',function(e){
+  var b=e.target.closest('[data-e]');if(!b)return;
+  document.getElementById('ovEnd').hidden=true;
+  if(b.dataset.e==='again'){
+    S.rounds=[];S.log=[];save();
+    SEL=S.players.length?S.players[0].id:null;clearEntry();
+    render();toast('Nouvelle partie — mêmes joueurs');
+  }
+});
+document.getElementById('ovPal').addEventListener('click',function(e){
+  var b=e.target.closest('[data-p]');if(!b)return;
+  if(b.dataset.p==='wipe'&&confirm('Effacer tout le palmarès ?')){GAMES=[];saveGames()}
+  document.getElementById('ovPal').hidden=true;
+});
+document.addEventListener('keydown',function(e){
+  if(!document.getElementById('ovEnd').hidden||!document.getElementById('ovPal').hidden)return;
+  if(/^[0-9]$/.test(e.key))padKey(e.key);
+  else if(e.key==='Backspace'){e.preventDefault();padKey('b')}
+  else if(e.key==='Enter')padOk();
+  else if(e.key==='-')padKey('s');
+  else if(e.key==='Escape'){FIX=null;clearEntry();render()}
+});
+
+/* démarrage : sélectionne le 1er joueur */
+SEL=S.players.length?S.players[0].id:null;
+render();
+</script>
+</body>
+</html>

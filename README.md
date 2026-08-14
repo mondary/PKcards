@@ -68,6 +68,7 @@ Pour un aperçu du catalogue seul (sans votes/favoris), un serveur statique suff
 
 ## 🛠️ Outils
 
+- **Compteur de scores** (`site/tools/score/`) — notez les points de chaque manche pour 2 à 10 joueurs, totaux automatiques, historique corrigeable. 100 % statique (un seul fichier), pensé mobile. En ligne : https://mondary.design/pk/-Games-cards/score/
 - **Tracker PV Régicide** (`tools/regicide-hp.html`) — compteur de points de vie pour le jeu Régicide. Ouvrez le fichier dans un navigateur mobile. Grille de cartes avec mode zoom plein écran, badges d'attaque par rang (Valet ⚔10, Dame ⚔15, Roi ⚔20), persistance automatique des PV.
 - **Images des cartes** (`tools/cards/`) — scans des cartes utilisés par le tracker.
 
