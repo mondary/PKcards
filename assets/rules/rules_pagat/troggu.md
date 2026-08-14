@@ -1,120 +1,118 @@
 # Troggu
 
 **Difficulté :** —
-**Type :** Tarot, Tarot
-**But :** A 62-card Tarot game for up to 8 players from the German speaking part of the Swiss canton Wallis.
+**Type :** Jeux de tarot, Jeux de tarot
+**But :** Un jeu de tarot à 62 cartes pour jusqu'à 8 joueurs, originaire de la partie germanophone du canton suisse du Valais.
 
 ---
 
-*This page is based partly on information gathered by John McLeod, who took part in games at the Restaurant au Moulin in Grächen in 1987 and observed a game in the Martinikeller in Visp in May 1999. It also makes use of material collected by Max Ruh: typescript descriptions of the versions played in St Niklaus and Visp and newspaper articles about the game played in Visp.*
+*Cette page est en partie basée sur des informations recueillies par John McLeod, qui a participé à des parties au Restaurant au Moulin à Grächen en 1987 et observé une partie au Martinikeller à Visp en mai 1999. Elle utilise également du matériel collecté par Max Ruh : descriptions dactylographiées des versions jouées à St Niklaus et Visp et articles de journaux sur le jeu joué à Visp.*
 
 ## Introduction
 
-**Troggu**, also known as **Trogga** or **Tappä**, is a form of Tarot played in a few villages in the German speaking part of canton Wallis in Switzerland. It seems unfortunately to be on the verge of extinction, and the younger generation show little interest in the game.
+Le **Troggu**, également connu sous le nom de **Trogga** ou **Tappä**, est une forme de Tarot jouée dans quelques villages de la partie germanophone du canton du Valais en Suisse. Il semble malheureusement être au bord de l'extinction, et la jeune génération montre peu d'intérêt pour ce jeu.
 
-Troggu is especially interesting from a historical point of view, because of the use of the fool - here known as **der Narr**, **der Mat**, **der Gschgüser**, or most often **der Bättler**. In classic Tarot games the fool is played as an excuse: it is exempt from the rules of following suit and has no trick taking power. In the more modern type of Tarot games characteristic of central Europe, the fool has become the highest trump, beating the XXI. The rules on the use of the fool in Troggu are intermediate between the classic and modern traditions. It is usually played as the highest trump, but if it is your only trump you have the option of withholding the fool when a trump play would otherwise be required, and playing any other card instead. If you exercise this option to renege then your fool then becomes powerless to win a trick, though you still benefit from its point value.
+Le Troggu est particulièrement intéressant d'un point de vue historique, en raison de l'utilisation du fou — ici appelé **der Narr**, **der Mat**, **der Gschgüser**, ou le plus souvent **der Bättler**. Dans les jeux de Tarot classiques, le fou est joué comme une excuse : il est exempté des règles de suivi de couleur et n'a aucun pouvoir de prise de levée. Dans les jeux de Tarot plus modernes, caractéristiques de l'Europe centrale, le fou est devenu le plus haut atout, battant le XXI. Les règles concernant l'utilisation du fou au Troggu se situent entre la tradition classique et la tradition moderne. Il est généralement joué comme le plus haut atout, mais s'il s'agit de votre seul atout, vous avez la possibilité de retenir le fou lorsqu'un atout devrait autrement être exigé, et de jouer une autre carte à la place. Si vous exercez cette option pour vous dérober, votre fou perd alors tout pouvoir pour gagner une levée, bien que vous bénéficiiez toujours de sa valeur en points.
 
-Because of this hybrid role for using the fool, it seems possible that Troggu is a surviving example of a transitional stage of Tarot between the classic and modern versions. According to Michael Dummett in *"The Game of Tarot"* (pp 437-438), Tarot games in which the fool is the highest trump began to appear in the late eighteenth century, so it could be that the game of Troggu as now played in Wallis also originated at about that time.
+En raison de ce rôle hybride du fou, il semble possible que le Troggu soit un exemple survivant d'une phase de transition du Tarot entre les versions classique et moderne. Selon Michael Dummett dans *« The Game of Tarot »* (pp. 437-438), les jeux de Tarot dans lesquels le fou est le plus haut atout ont commencé à apparaître à la fin du XVIIIe siècle, il se pourrait donc que le jeu de Troggu tel qu'il est joué aujourd'hui dans le Valais soit également originaire de cette époque.
 
-Even though Troggu is only played in a small region, there are minor variations of the rules from place to place. The decription below is based mainly on the version played in Visp. There are notes on the differences in other versions in the variations section at the end.
+Bien que le Troggu ne soit joué que dans une petite région, il existe des variations mineures des règles d'un endroit à l'autre. La description ci-dessous est principalement basée sur la version jouée à Visp. Des notes sur les différences dans d'autres versions se trouvent dans la section des variations à la fin.
 
-## Cards
+## Cartes
 
-The Italian suited Swiss Tarot pack is used. This pattern, known to collectors as the Tarot de Besançon, or as 1JJ, is similar to the Tarot de Marseilles except that trumps II and V depict Juno and Jupiter instead of the popess and pope respectively. The packs used to play the game in Wallis nowadays often have German titles on the trumps, though the players in Grächen told me that cards with French titles were formerly used. A group of players in Münster (Obergoms) showed me a pack of the type used in the 1950's when the game was more popular in Wallis. This was A.G.Müller's "Tarot No. 1" (as opposed to "No. 1JJ") with French titles and the pope and popess. Probably these were the cards traditionally used in Wallis, but unfortunately they are no longer manufactured in a form suitable for playing.
+On utilise le jeu de Tarot suisse aux enseignes italiennes. Ce motif, connu des collectionneurs sous le nom de Tarot de Besançon, ou 1JJ, est similaire au Tarot de Marseille, sauf que les atouts II et V représentent Junon et Jupiter au lieu de la papesse et du pape respectivement. Les jeux utilisés pour jouer au Valais de nos jours portent souvent des titres allemands sur les atouts, bien que les joueurs de Grächen m'aient dit que des cartes avec des titres français étaient autrefois utilisées. Un groupe de joueurs de Münster (Obergoms) m'a montré un jeu du type utilisé dans les années 1950, lorsque le jeu était plus populaire dans le Valais. Il s'agissait du « Tarot No. 1 » d'A.G. Müller (par opposition au « No. 1JJ ») avec des titres français et le pape et la papesse. Il est probable que ce sont les cartes traditionnellement utilisées dans le Valais, mais malheureusement elles ne sont plus fabriquées sous une forme adaptée au jeu.
 
-The full pack contains 78 cards but only 62 are used for this game. The cards omitted are the I, II, III and IIII of the long suits (swords and batons) and the X, IX, VIII and VII of the round suits (cups and coins). The pack thus consists of:
+Le jeu complet contient 78 cartes, mais seules 62 sont utilisées pour ce jeu. Les cartes omises sont le I, II, III et IIII des longues couleurs (épées et bâtons) et le X, IX, VIII et VII des couleurs rondes (coupes et deniers). Le jeu se compose donc de :
 
-- suits of **cups** (*Goppe*), and **coins** (here called *Roosä* - flowers), ranking from high to low: **king** (*Kinig*), **queen** (*Frouwwi*), **cavalier** (*Ritti*), **jack** (*Büob*), **I**, **II**, **III**, **IIII**, **V**, **VI**
+- les couleurs de **coupes** (*Goppe*) et de **deniers** (ici appelés *Roosä* — fleurs), classées de haut en bas : **roi** (*Kinig*), **dame** (*Frouwwi*), **cavalier** (*Ritti*), **valet** (*Büob*), **I**, **II**, **III**, **IIII**, **V**, **VI**
 
-- suits of **swords** (*Schwäärti*) and **batons** (*Schtächnä*), ranking from high to low: **king**, **queen**, **cavalier**, **jack**, **X**, **IX**, **VIII**, **VII**, **VI**, **V**
+- les couleurs d'**épées** (*Schwäärti*) et de **bâtons** (*Schtächnä*), classées de haut en bas : **roi**, **dame**, **cavalier**, **valet**, **X**, **IX**, **VIII**, **VII**, **VI**, **V**
 
-- 21 permanent **trumps** ranking from **XXI** (*Mund*) down to **I** (*Bagatt* or *Bagatji*) (low)
+- 21 **atouts** permanents classés du **XXI** (*Mund*) au **I** (*Bagatt* ou *Bagatji*) (le plus bas)
 
-- the **fool** (*der Bättler*), which is normally the highest trump, ranking above the **XXI**.
+- le **fou** (*der Bättler*), qui est normalement le plus haut atout, au-dessus du **XXI**.
 
-Each card has a point value as follows:
+Chaque carte a une valeur en points comme suit :
 
-| fool, trump XXI, trump I: | ... | 5 points each |
-| trumps II - XX: | ... | 1 point each |
-| kings: | ... | 5 points each |
-| queens: | ... | 4 points each |
-| cavaliers: | ... | 3 points each |
-| jacks: | ... | 2 points each |
-| numeral cards of suits: | ... | 1 point each |
+| fou, atout XXI, atout I : | ... | 5 points chacun |
+| atouts II - XX : | ... | 1 point chacun |
+| rois : | ... | 5 points chacun |
+| dames : | ... | 4 points chacun |
+| cavaliers : | ... | 3 points chacun |
+| valets : | ... | 2 points chacun |
+| cartes numérales des couleurs : | ... | 1 point chacun |
 
-The cards are counted singly, so the total value of the cards in the pack is 114 points.
+Les cartes sont comptées individuellement, la valeur totale des cartes du jeu est donc de 114 points.
 
-## Players and deal
+## Joueurs et distribution
 
-The game can be played by any number of players from 3 to 8. The 6- and 7-player versions are said to be best. The first dealer is chosen at random and the turn to deal passes to the right after each hand. The cards are shuffled by the dealer and cut by the player to dealer's left. The dealer then places a packet of cards face down in the centre of the table to form the **Tapp** (or talon), and deals the rest of the cards out to the players in packets, starting to the dealer's right and going aroung the table anticlockwise. The size of the Tapp and the packets to be dealt varies according to the number of players, and is shown in the following table. 
+Le jeu peut être joué par un nombre de joueurs de 3 à 8. Les versions à 6 et 7 joueurs sont considérées comme les meilleures. Le premier donneur est choisi au hasard et le tour de distribution passe à droite après chaque main. Les cartes sont mélangées par le donneur et coupées par le joueur situé à sa gauche. Le donneur place ensuite un paquet de cartes face en bas au centre de la table pour former le **Tapp** (ou talon), et distribue le reste des cartes aux joueurs par paquets, en commençant par le joueur à la droite du donneur et en continuant dans le sens antihoraire. La taille du Tapp et des paquets à distribuer varie selon le nombre de joueurs, comme indiqué dans le tableau suivant.
 
-| Deal | to the Tapp | to each player |
-| 3 players | 8 cards | 6 + 6 + 6 |
-| 4 players | 10 cards | 4 + 4 + 5 |
-| 5 players | 7 cards | 4 + 4 + 3 |
-| 6 players | 8 cards | 4 + 5 |
-| 7 players | 6 cards | 4 + 4 |
-| 8 players | 6 cards | 4 + 3 |
+| Distribution | au Tapp | à chaque joueur |
+| 3 joueurs | 8 cartes | 6 + 6 + 6 |
+| 4 joueurs | 10 cartes | 4 + 4 + 5 |
+| 5 joueurs | 7 cartes | 4 + 4 + 3 |
+| 6 joueurs | 8 cartes | 4 + 5 |
+| 7 joueurs | 6 cartes | 4 + 4 |
+| 8 joueurs | 6 cartes | 4 + 3 |
 
-## Bidding
+## Enchères
 
-In the game for up to six players, one player (the **Tappist**) plays alone against all the rest, who form a temporary team. The Tappist is allowed to improve his or her hand using cards from the Tapp. When there are seven or eight players the Tappist can also call on the help of a partner, and these two play together against the remaining 5 or 6 players. The rules of the game for six or fewer players are described first. The adjustments needed when seven or eight play are explained later.
+Dans le jeu pour jusqu'à six joueurs, un joueur (le **Tappist**) joue seul contre tous les autres, qui forment une équipe temporaire. Le Tappist est autorisé à améliorer sa main en utilisant des cartes du Tapp. Lorsqu'il y a sept ou huit joueurs, le Tappist peut également faire appel à l'aide d'un partenaire, et ces deux-là jouent ensemble contre les 5 ou 6 autres joueurs. Les règles du jeu pour six joueurs ou moins sont décrites en premier. Les ajustements nécessaires pour sept ou huit joueurs sont expliqués plus tard.
 
-The player to the dealer's right speaks first. The options are to pass, to offer play a normal game as the Tappist by saying *"ich nehm's"* or *"ich gehe"*, or to play a **Solo** (play alone without looking at the Tapp). If the first player passes, the next player has the same options, and so on anticlockwise, the dealer being the last to speak.
+Le joueur à la droite du donneur parle en premier. Les options sont de passer, d'offrir de jouer une partie normale en tant que Tappist en disant *« ich nehm's »* ou *« ich gehe »*, ou de jouer un **Solo** (jouer seul sans regarder le Tapp). Si le premier joueur passe, le suivant a les mêmes options, et ainsi de suite dans le sens antihoraire, le donneur parlant en dernier.
 
-If someone offers to play a normal game as the Tappist, there should be a pause to see whether anyone later in the speaking order wants to play a **Solo**, which takes priority. If there is no Solo, the normal game is played.
+Si quelqu'un offre de jouer une partie normale en tant que Tappist, il doit y avoir une pause pour voir si un joueur ultérieur dans l'ordre de parole souhaite jouer un **Solo**, qui a priorité. S'il n'y a pas de Solo, la partie normale est jouée.
 
-In the game with up to 6 players, if everyone passes a **misere** is played (see below).
+Dans le jeu à 6 joueurs ou moins, si tout le monde passe, une **Misère** est jouée (voir ci-dessous).
 
-## Exchanging
+## Échange
 
-In a normal game, the Tappist picks up all of the Tapp cards, without showing them to the other players, and then discards an equal number of cards face-down in their place. The cards discarded may include some of the cards picked up. It is illegal to discard any of the seven 5-point cards, except that if you hold four kings you are allowed to discard all of them if you wish. 1-point trumps can be placed in the discard, and you do not have to notify the other players of this. The point values of the discarded cards count for the Tappist.
+Dans une partie normale, le Tappist ramasse toutes les cartes du Tapp, sans les montrer aux autres joueurs, puis défausse un nombre égal de cartes face en bas à leur place. Les cartes défaussées peuvent inclure certaines des cartes ramassées. Il est interdit de défausser l'une des sept cartes à 5 points, sauf si vous tenez quatre rois, auquel cas vous êtes autorisé à les défausser tous si vous le souhaitez. Les atouts à 1 point peuvent être placés dans la défausse, et vous n'êtes pas obligé d'en informer les autres joueurs. La valeur en points des cartes défaussées compte pour le Tappist.
 
-In the case of a Solo, there is no exchange with the Tapp. The Soloist plays with the cards as dealt. The Tapp is not looked at until after the play. The points in it will then count for the Soloist as usual.
+Dans le cas d'un Solo, il n'y a pas d'échange avec le Tapp. Le Soliste joue avec les cartes telles que distribuées. Le Tapp n'est pas regardé avant la fin du jeu. Les points qu'il contient comptent alors pour le Soliste comme d'habitude.
 
-## Play
+## Jeu
 
-The Tappist or Soloist leads to the first trick. Players must follow suit if they can; if they cannot they must play a trump. A trick is won by the highest trump in it or, if none are played, by the highest card of the suit led. The winner of a trick leads to the next.
+Le Tappist ou le Soliste mène la première levée. Les joueurs doivent suivre la couleur s'ils le peuvent ; s'ils ne le peuvent pas, ils doivent jouer un atout. Une levée est gagnée par le plus haut atout qu'elle contient ou, si aucun atout n'est joué, par la plus haute carte de la couleur demandée. Le gagnant d'une levée mène la suivante.
 
-The fool usually ranks as the highest trump. However, if it is the only trump you have left in your hand, you do not have to play it when a trump is led or when you are void of the suit led. Instead you can throw a card of another suit. After you have exercised this option to withhold the fool, it loses all its trick-taking power. You must keep it in your hand until it is your turn to play to the last trick. Then you show the fool and add it to your team's trick pile. In exchange you extract a low value card from your team's trick pile to be given to the winner of the last trick, along with the other cards played to that trick. If the holder of the withheld fool has to lead to the last trick, the fool is shown as usual, and the next player's card determines the suit of the trick.
+Le fou est généralement classé comme le plus haut atout. Cependant, s'il s'agit du seul atout qu'il vous reste en main, vous n'êtes pas obligé de le jouer lorsqu'un atout est demandé ou lorsque vous n'avez pas de carte de la couleur demandée. Vous pouvez à la place jouer une carte d'une autre couleur. Après avoir exercé cette option de retenir le fou, il perd tout son pouvoir de prise de levée. Vous devez le conserver en main jusqu'à votre tour de jouer à la dernière levée. Vous montrez alors le fou et l'ajoutez au tas de levées de votre équipe. En échange, vous extrayez une carte de faible valeur du tas de levées de votre équipe pour la donner au gagnant de la dernière levée, avec les autres cartes jouées à cette levée. Si le détenteur du fou retenu doit mener la dernière levée, le fou est montré comme d'habitude, et la carte du joueur suivant détermine la couleur de la levée.
 
-## Scoring
+## Comptage
 
-At the end of the play, each side counts the card points in their tricks. The Tappist or Soloist also adds in the value of the cards in the Tapp. The side that has more than half of the points - i.e. 58 or more - wins. The normal basic stake is 10 Rappen, paid to the Tappist or Soloist by each opponent, or to each opponent by the Tappist or Soloist. If the card points are divided 57-57 neither side wins, and there is no payment. If the losers have 30 points or fewer the payment is doubled (20 Rappen each), and if they took no tricks at all it is trebled (30 Rappen). The payment is also doubled if a Solo was played (20, 40 or 60 Rappen each).
+À la fin du jeu, chaque côté compte les points de cartes de ses levées. Le Tappist ou le Soliste ajoute également la valeur des cartes du Tapp. Le côté qui a plus de la moitié des points — c'est-à-dire 58 ou plus — gagne. La mise de base normale est de 10 Rappen, payée au Tappist ou au Soliste par chaque adversaire, ou à chaque adversaire par le Tappist ou le Soliste. Si les points de cartes sont répartis à 57-57, aucun côté ne gagne et il n'y a pas de paiement. Si les perdants ont 30 points ou moins, le paiement est doublé (20 Rappen chacun), et s'ils n'ont pris aucune levée, il est triplé (30 Rappen). Le paiement est également doublé si un Solo a été joué (20, 40 ou 60 Rappen chacun).
 
-## Misere
+## Misère
 
-If everyone passes, a **Misere** (or *Misäär*) is played. The Tapp is not used. The player to the right of the dealer leads to the first trick, and everyone plays for themselves, the object being to avoid winning points. The player who takes the most points must pay 10 Rappen to each other player. 
+Si tout le monde passe, une **Misère** (ou *Misäär*) est jouée. Le Tapp n'est pas utilisé. Le joueur à la droite du donneur mène la première levée, et chacun joue pour soi, le but étant d'éviter de remporter des points. Le joueur qui prend le plus de points doit payer 10 Rappen à chaque autre joueur.
 
-## Special rules for 7 or 8 players
+## Règles spéciales pour 7 ou 8 joueurs
 
-**Bidding**
-If everyone passes, the holder of the Bättler (fool) is forced to play a normal game. If no one has the Bättler (because it is in the Tapp), the holder of the Bagatt (trump I) must play a normal game. If both the Bättler and the Bagatt are in the Tapp, a Misere is played.
-**Calling a partner** 
-The Tappist chooses a temporary partner by calling any trump except the XXI or the Bättler. Normally the XX is called, unless the caller already has it. The player who holds the called card is the partner of the caller, but must not say or do anything to reveal his or her identity as the partner. This will only become apparent during the play, for example when the called card is played.
-If the called card is in the Tappist's hand or in the Tapp, the Tappist plays without a partner, though the other players will not realise this initially. It is legal to call a trump that you have in your hand if you wish to play alone.
-In the case of a Solo, there is no calling and no exchange with the Tapp. The bidder plays alone with the cards as dealt.
-**Scoring**
-As usual, the team with more than half of the points wins. In a basic game (where the losers had more than 30 points), the Tappist's opponents pay or receive 10 Rappen each, the Tappist's called partner receives or pays 20 Rappen and the Tappist receives or pays the balance (30 Rappen with 7 players, 40 Rappen with 8). If the losers have 30 or fewer points or no tricks at all these payments are doubled or trebled as usual.
+**Enchères**
+Si tout le monde passe, le détenteur du Bättler (fou) est obligé de jouer une partie normale. Si personne n'a le Bättler (parce qu'il est dans le Tapp), le détenteur du Bagatt (atout I) doit jouer une partie normale. Si le Bättler et le Bagatt sont tous deux dans le Tapp, une Misère est jouée.
+**Appel d'un partenaire**
+Le Tappist choisit un partenaire temporaire en appelant n'importe quel atout sauf le XXI ou le Bättler. Normalement, le XX est appelé, sauf si l'appelant l'a déjà. Le joueur qui détient la carte appelée est le partenaire de l'appelant, mais ne doit rien dire ou faire pour révéler son identité en tant que partenaire. Cela ne deviendra apparent que pendant le jeu, par exemple lorsque la carte appelée est jouée.
+Si la carte appelée est dans la main du Tappist ou dans le Tapp, le Tappist joue sans partenaire, bien que les autres joueurs ne s'en rendent pas compte initialement. Il est autorisé d'appeler un atout que l'on a en main si l'on souhaite jouer seul.
+Dans le cas d'un Solo, il n'y a pas d'appel ni d'échange avec le Tapp. L'enchérisseur joue seul avec les cartes telles que distribuées.
+**Comptage**
+Comme d'habitude, l'équipe ayant plus de la moitié des points gagne. Dans une partie de base (où les perdants ont plus de 30 points), les adversaires du Tappist paient ou reçoivent 10 Rappen chacun, le partenaire appelé du Tappist reçoit ou paie 20 Rappen et le Tappist reçoit ou paie la différence (30 Rappen avec 7 joueurs, 40 Rappen avec 8). Si les perdants ont 30 points ou moins, ou aucune levée du tout, ces paiements sont doublés ou triplés comme d'habitude.
 
 ## Variations
 
-The exact method of dealing the cards to the players and the Tapp varies. The Visp rules do not allow for a three-player version of the game, while the St Niklaus rules envisage at most 7 players. In Grächen the Tapp is dealt after the first round of dealing: in the five-player game the deal can be 5 + Tapp + 6 or 6 + Tapp + 5, at the dealer's discreton; with 4 players the deal is 7 + Tapp + 7.
+La méthode exacte de distribution des cartes aux joueurs et au Tapp varie. Les règles de Visp ne permettent pas de version à trois joueurs, tandis que les règles de St Niklaus envisagent au maximum 7 joueurs. À Grächen, le Tapp est distribué après le premier tour de distribution : dans le jeu à cinq joueurs, la distribution peut être 5 + Tapp + 6 ou 6 + Tapp + 5, à la discrétion du donneur ; avec 4 joueurs, la distribution est 7 + Tapp + 7.
 
-In St Niklaus and Grächen the special discard of four kings is not permitted, but a player who has all of the 5-point cards - the four kings, the I, the XXI and the Bättler - is allowed to discard all seven of them.
+À St Niklaus et Grächen, la défausse spéciale de quatre rois n'est pas permise, mais un joueur qui possède toutes les cartes à 5 points — les quatre rois, le I, le XXI et le Bättler — est autorisé à les défausser toutes les sept.
 
-In Grächen there is no Misere - if everyone passes the deal passes to the next dealer. In St Niklaus, instead of the player who takes most points losing, the player who takes least points in a Misere wins a basic stake from each player.
+À Grächen, il n'y a pas de Misère — si tout le monde passe, la distribution passe au donneur suivant. À St Niklaus, au lieu que le joueur qui prend le plus de points perde, c'est le joueur qui prend le moins de points dans une Misère qui gagne une mise de base de chaque joueur.
 
-The threshhold at which the losers have to pay a double stake varies. In Visp the losers pay double if they have 30 points or fewer, as described above. In St Niklaus a double stake has to be paid if the losers have 31 points or fewer. In Grächen the double stake applies only if the losers have 20 points or fewer.
+Le seuil auquel les perdants doivent payer une double mise varie. À Visp, les perdants paient double s'ils ont 30 points ou moins, comme décrit ci-dessus. À St Niklaus, une double mise doit être payée si les perdants ont 31 points ou moins. À Grächen, la double mise s'applique uniquement si les perdants ont 20 points ou moins.
 
-In both St Niklaus and Grächen the normal stake was 5 Rappen rather than 10.
+À St Niklaus et à Grächen, la mise normale était de 5 Rappen plutôt que 10.
 
-The version played at Visperterminen is explained in the 2009 [supplement to A History of Games Played with the Tarot Pack](https://www.tarotgame.org/tarotSupplement.pdf) (PDF pages S9-S11).
+La version jouée à Visperterminen est expliquée dans le supplément de 2009 de *A History of Games Played with the Tarot Pack* (pages PDF S9-S11).
 
-On the page [Spielregeln Troggu](https://jassverzeichnis.ch/spielregeln-troggu/), Georg Burgener has published rules for different variants for all numbers of players from 3 to 8 as played in and around Stalden, about 7km south of Visp.
+Sur la page [Spielregeln Troggu](https://jassverzeichnis.ch/spielregeln-troggu/), Georg Burgener a publié des règles pour différentes variantes pour tous les nombres de joueurs de 3 à 8, telles que jouées dans et autour de Stalden, à environ 7 km au sud de Visp.
 
-## Software
+## Logiciel
 
-You can download a freeware Troggu program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Troggu
+Vous pouvez télécharger un programme gratuit de Troggu sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

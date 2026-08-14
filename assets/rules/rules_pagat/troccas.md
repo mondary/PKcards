@@ -2,7 +2,7 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** A Swiss tarot game with 78 cards for four players in partership played in the Surselva.
+**But :** Un jeu de Tarot suisse à 78 cartes pour quatre joueurs en partenariat, joué dans la Surselva.
 
 ---
 
@@ -10,178 +10,176 @@
 
 ## Introduction
 
-Troccas is a Tarot game played with the 78 card Italian suited Swiss Tarot pack, known to some people as the 1JJ pack. It is played in the Canton Grisons (Grischun, Graubünden) in the east of Switzerland. It is popular in the region known as the Surselva, from the Medel and Tujetsch valleys in the west to Ilanz in the east, and is played to a lesser extent further down the valley as far as Chur. The language of this region is Romansh - the fourth Swiss national language - and therefore much of the terminology of the game is in the Romansh language.
+Troccas est un jeu de Tarot joué avec le jeu de Tarot suisse à enseignes italiennes de 78 cartes, connu de certains sous le nom de jeu 1JJ. Il se joue dans le canton des Grisons (Grischun, Graubünden) dans l'est de la Suisse. Il est populaire dans la région appelée Surselva, des vallées de Medel et Tujetsch à l'ouest jusqu'à Ilanz à l'est, et se joue dans une moindre mesure plus bas dans la vallée jusqu'à Coire. La langue de cette région est le romanche — la quatrième langue nationale suisse — et donc une grande partie de la terminologie du jeu est en romanche.
 
-Although the exact history of the game is uncertain, it is probable that this Swiss tradition dates from the seventeenth century, when the game was imported from Italy. In recent years it has gained in popularity and there are many local clubs and tournaments.
+Bien que l'histoire exacte du jeu soit incertaine, il est probable que cette tradition suisse date du XVIIe siècle, quand le jeu a été importé d'Italie. Ces dernières années, il a gagné en popularité et il existe de nombreux clubs et tournois locaux.
 
-The description of Troccas on this page is based on information from
+La description de Troccas sur cette page est basée sur des informations de :
 
-- my visit to Sedrun to play Troccas in 1978,
+- ma visite à Sedrun pour jouer à Troccas en 1978,
 
-- Carla Deplazes' paper 'Troccas - Das Tarockspiel in Graubunden' in the Schweizerische Archiv fur Volkskunde 83. Jahrgang, Heft 1/2, Basel 1987 (pp 41-59), 
+- l'article de Carla Deplazes « Troccas - Das Tarockspiel in Graubunden » dans le Schweizerische Archiv für Volkskunde 83. Jahrgang, Heft 1/2, Bâle 1987 (pp 41-59),
 
-- 'Turnier da Troccas a Savognin' (1985) - a set of rules compiled by Norbert Berther and Gieri Carigiet,
+- « Turnier da Troccas a Savognin » (1985) — un ensemble de règles compilé par Norbert Berther et Gieri Carigiet,
 
-- the paper 'Cuorta introducziun el giug da Troccas' (2000) by Annalisa Cathomas, who has kindly answered several detailed questions about the rules.
+- l'article « Cuorta introducziun el giug da Troccas » (2000) par Annalisa Cathomas, qui a aimablement répondu à plusieurs questions détaillées sur les règles.
 
-## Troccas for Four Players
+## Troccas à quatre joueurs
 
-The principal and most popular form of Troccas is played by four players in fixed partnerships. This will be described first, followed by the less usual variations for three, five or six players.
+La forme principale et la plus populaire de Troccas se joue à quatre joueurs en partenariats fixes. Elle sera décrite en premier, suivie des variantes moins courantes à trois, cinq ou six joueurs.
 
-### Players and Cards
+### Joueurs et cartes
 
-An Italian-suited 78-card tarot pack is used, of the Swiss design known as 1JJ because Juno and Jupiter are substituted for the Pope and Popess. The pack consists of 21 trumps identified by Roman numbers from I (lowest) to XXI (highest), four suits of 14 cards, and a special card called the Fool, which is labelled 'LE MAT' but known in Romansh as 'il narr'. As well as the Fool, the 21 trumps and the four court cards of each suit have titles written at the bottom of the card in French. The Romansh names of the cards are given below.
+Un jeu de tarot à enseignes italiennes de 78 cartes est utilisé, de conception suisse connue sous le nom de 1JJ parce que Junon et Jupiter remplacent le Pape et la Papesse. Le jeu se compose de 21 atouts identifiés par des chiffres romains de I (le plus bas) à XXI (le plus haut), quatre enseignes de 14 cartes, et une carte spéciale appelée le Fou, étiquetée « LE MAT » mais connue en romanche sous le nom d'« il narr ». Outre le Fou, les 21 atouts et les quatre cartes de cour de chaque enseigne ont des titres écrits en français au bas de la carte. Les nomes romanches des cartes sont donnés ci-dessous.
 
-The four suits are the usual Italian suits of cups, coins, swords and batons. Each suit has four court cards and ten numeral cards. The ranking of the cards in the suits from high to low is:
+Les quatre enseignes sont les enseignes italiennes habituelles : coupes, deniers, épées et bâtons. Chaque enseigne a quatre cartes de cour et dix cartes numériques. La hiérarchie des cartes dans les enseignes, du plus haut au plus bas, est :
 
-- in cups and coins (round suits): king, queen, cavalier, jack, ace, 2, 3, 4, 5, 6, 7, 8, 9, 10;
+- dans les coupes et deniers (enseignes rondes) : roi, dame, cavalier, valet, as, 2, 3, 4, 5, 6, 7, 8, 9, 10 ;
 
-- in swords and batons (long suits); king, queen, cavalier, jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, ace.
+- dans les épées et bâtons (enseignes longues) : roi, dame, cavalier, valet, 10, 9, 8, 7, 6, 5, 4, 3, 2, as.
 
-The aim of the game is to win tricks containing valuable cards - especially the highest and lowest trump (XXI and I), the Fool, the kings and to a lesser extent the other court cards - see scoring for details of how the cards are valued.
+Le but du jeu est de remporter des plis contenant des cartes précieuses — surtout l'atout le plus élevé et le plus bas (XXI et I), le Fou, les rois et, dans une moindre mesure, les autres cartes de cour — voir le comptage pour les détails de la valorisation des cartes.
 
-The four players play in two fixed partnerships and the deal and play are anticlockwise. To determine partners, the top card of the pack is placed in the middle of the table, and then cards are dealt out to the players, face up, one by one, until each player has a trump (a player who has already received a trump receives no more cards). When all the players have a trump, those with the two lowest trumps become partners, as do those with the two highest; the player with the lowest trump becomes the first dealer. The players then arrange themselves so that partners are facing each other across the table.
+Les quatre joueurs jouent en deux partenariats fixes et la distribution et le jeu se font dans le sens antihoraire. Pour déterminer les partenaires, la carte du dessus du jeu est placée au centre de la table, puis les cartes sont distribuées aux joueurs, face visible, une par une, jusqu'à ce que chaque joueur ait un atout (un joueur qui a déjà reçu un atout ne reçoit plus de cartes). Quand tous les joueurs ont un atout, ceux qui ont les deux atouts les plus bas deviennent partenaires, tout comme ceux qui ont les deux plus élevés ; le joueur avec l'atout le plus bas devient le premier donneur. Les joueurs s'arrangent ensuite pour que les partenaires se fassent face de part et d'autre de la table.
 
-### The Deal
+### La distribution
 
-The dealer shuffles and the player to dealer's left cuts the pack. The cut card is shown to the three players other than the dealer, but the dealer may only look at it himself after he has dealt the first 12 cards to each player when the cards are dealt in three rounds (see below). When the cards are dealt in two rounds or a single round the dealer may look at the cut card before starting to deal.
+Le donneur mélange et le joueur à sa gauche coupe le jeu. La carte coupée est montrée aux trois joueurs autres que le donneur, mais le donneur ne peut la regarder lui-même qu'après avoir distribué les 12 premières cartes à chaque joueur lors d'une distribution en trois tours (voir ci-dessous). Lorsque les cartes sont distribuées en deux tours ou un seul tour, le donneur peut regarder la carte coupée avant de commencer à distribuer.
 
-The dealer, known as the "scartist", deals nineteen cards to each of the other players, and twenty-one to himself. The normal method of dealing is in three rounds: a batch of six cards to each player, then another batch of six each, then a batch of seven to each of the other three players and nine to the dealer. The last card dealt to each of the four players is turned face up for all to see.
+Le donneur, connu sous le nom de « scartist », distribue dix-neuf cartes à chacun des autres joueurs et vingt-et-une à lui-même. La méthode normale de distribution se fait en trois tours : un groupe de six cartes à chaque joueur, puis un autre groupe de six, puis un groupe de sept à chacun des trois autres joueurs et neuf au donneur. La dernière carte distribuée à chacun des quatre joueurs est retournée face visible pour que tous la voient.
 
-A team that is currently losing by at least 9 points may demand that the deal be in two rounds of nine and ten cards (dealer taking twelve cards in the last round), and a team losing by 18 or more points can demand that the cards be dealt in one round, each player being given their 21 cards in a single batch. When the single round method is used, the players of the losing team are allowed to gather up their own cards from the preceding round in any order that they like; in this case the cards must not be shuffled before the deal, but only cut.
+Une équipe qui perd actuellement d'au moins 9 points peut exiger que la distribution se fasse en deux tours de neuf et dix cartes (le donneur prenant douze cartes au dernier tour), et une équipe perdant de 18 points ou plus peut exiger que les cartes soient distribuées en un seul tour, chaque joueur recevant ses 21 cartes en un seul groupe.
 
-After each round of the deal there is an interval in which the players decide whether the hand will continue or will be abandoned, in which case the cards are thrown in, shuffled, cut and redealt by the same dealer. The players speak in turn, beginning with the player to the dealer's right. Any of the players may veto the throw-in; in this case the next round of the deal immediately goes ahead or if the deal was already complete the dealer discards and the play starts. If the first two players are prepared to allow a throw-in, they can use their turns to give some information about their hand to their partners, indicating the strength of their trumps and whether they hold Kings with or without other picture cards in the suits, but they cannot mention specific suits. The third player, having heard this, can either demand that the deal or play continue or can say "liber" (free), allowing the scartist to choose whether to continue or to abandon the hand. Also, if the scartist has no trumps at all at the end of the last round of the deal, he may choose to abandon the hand and deal afresh, even against the wishes of the other players; only the dealer has this privilege.
+Après chaque tour de distribution, il y a un intervalle pendant lequel les joueurs décident si la main continuera ou sera abandonnée, auquel cas les cartes sont jetées, mélangées, coupées et redistribuées par le même donneur. Les joueurs parlent à tour de rôle, en commençant par le joueur à la droite du donneur. N'importe quel joueur peut s'opposer à l'abandon ; dans ce cas, le tour suivant de distribution commence immédiatement. Si les deux premiers joueurs acceptent un abandon, ils peuvent utiliser leurs tours pour donner des informations sur leur main à leurs partenaires, indiquant la force de leurs atouts et s'ils détiennent des Rois avec ou sans d'autres cartes de cour dans les enseignes, mais ils ne peuvent pas mentionner d'enseignes spécifiques.
 
-The giving of information about cards held during the deal is known as tschintschar (talking) and will be described in detail later.
+Le fait de donner des informations sur les cartes détenues pendant la distribution est appelé *tschintschar* (parler) et sera décrit en détail plus tard.
 
-### The Discard
+### L'écart
 
-When the deal has been completed, if the hand is not being abandoned, the dealer must discard two cards face down to form the scart, which counts for his side at the end of the play. It is illegal to discard any King, trump XXI or I or the Fool - that is any card worth 5 points (see scoring). The dealer is free to include court cards below the king, numeral cards in the suits, and even trumps other than the XXI or I in the discard.
+Quand la distribution est terminée, si la main n'est pas abandonnée, le donneur doit écarter deux cartes face cachée pour former le *scart*, qui compte pour son côté à la fin du jeu. Il est illégal d'écarter un Roi, l'atout XXI ou I ou le Fou — c'est-à-dire n'importe quelle carte valant 5 points (voir comptage). Le donneur est libre d'inclure des cartes de cour inférieures au Roi, des cartes numériques des enseignes, et même des atouts autres que le XXI ou le I dans l'écart.
 
-### The Play
+### Le jeu
 
-The player to the dealer's right leads to the first trick. 
+Le joueur à la droite du donneur entame le premier pli.
 
-- If a trump is led, the other players must play trumps if possible, otherwise they may throw any card. 
+- Si un atout est entamé, les autres joueurs doivent jouer des atouts s'ils le peuvent, sinon ils peuvent jeter n'importe quelle carte.
 
-- If a suit card is led, the other players must follow suit. Any player unable to follow suit must play a trump. A player who has no cards of the suit led an no trumps may play any card.
+- Si une carte d'enseigne est entamée, les autres joueurs doivent suivre l'enseigne. Tout joueur incapable de suivre l'enseigne doit jouer un atout. Un joueur qui n'a pas de carte de l'enseigne entamée et pas d'atout peut jouer n'importe quelle carte.
 
-The trick is won by the highest trump in it, or if it contains no trump, by the highest card of the suit led. The winner of each trick leads to the next. 
+Le pli est remporté par l'atout le plus élevé qu'il contient, ou s'il n'y a pas d'atout, par la carte la plus haute de l'enseigne entamée. Le gagnant de chaque pli entame le suivant.
 
-The Fool (il narr) is an exception to the above rules. The holder may play it to any trick, regardless of the requirement to follow suit or play a trump. It can never win a trick, but neither is it captured by the winner of the trick to which it is played. Instead, the person who played it adds the Fool to the tricks won by his team. If the trick is won by the opponents, the player of the Fool gives it up in exchange for it a low card from the tricks won by his side; this low card is added to the trick pile of the team that won the trick.
+Le Fou (*il narr*) fait exception aux règles ci-dessus. Le détenteur peut le jouer à n'importe quel pli, indépendamment de l'obligation de suivre l'enseigne ou de jouer un atout. Il ne peut jamais gagner de pli, mais il n'est pas non plus capturé par le gagnant du pli auquel il est joué. À la place, la personne qui l'a joué l'ajoute aux plis gagnés par son équipe. Si le pli est gagné par les adversaires, le joueur du Fou le cède en échange d'une carte basse des plis gagnés par son côté ; cette carte basse est ajoutée au tas de plis de l'équipe qui a gagné le pli.
 
-The team that played the Fool is not allowed to give a card from the scart in exchange for it. If the team that plays the Fool has not yet won any tricks containing low cards, they keep the Fool face up in front of them and can give a card in exchange for it when they later win a trick. If a side wins all the tricks, they also win the Fool and the scart.
+L'équipe qui a joué le Fou n'est pas autorisée à donner une carte du *scart* en échange. Si l'équipe qui joue le Fou n'a pas encore gagné de pli contenant des cartes basses, elle conserve le Fou face visible devant elle et peut donner une carte en échange lorsqu'elle gagne un pli plus tard. Si un côté gagne tous les plis, il gagne aussi le Fou et le *scart*.
 
-If the Fool is led to a trick, the second player may play any card, and the remainder of the trick is played as though this second card had been led to it.
+Si le Fou est entamé à un pli, le deuxième joueur peut jouer n'importe quelle carte, et le reste du pli est joué comme si cette deuxième carte avait été entamée.
 
-Another special rule comes into effect the first time any particular suit is led, if the king of that suit is played to the trick. In that case, at the end of the trick, if the jack of the suit has not also been played, the winner of the trick can call 'buob' (jack) or 'buob, sche' (jack, if). When 'buob' is called, in most cases the holder of the jack must add it to the trick, and in exchange must take back into his hand the card that he played to the trick. There are just two exceptions:
+Une autre règle spéciale entre en jeu la première fois qu'une enseigne particulière est entamée, si le Roi de cette enseigne est joué au pli. Dans ce cas, à la fin du pli, si le Valet de l'enseigne n'a pas non plus été joué, le gagnant du pli peut appeler « buob » (valet) ou « buob, sche » (valet, si). Quand « buob » est appelé, dans la plupart des cas le détenteur du Valet doit l'ajouter au pli, et en échange reprendre dans sa main la carte qu'il a jouée au pli. Il y a deux exceptions :
 
-- if the jack is one of the two cards that the dealer placed in the scart, it remains there and calling for the jack has no effect;
+- si le Valet est l'une des deux cartes que le donneur a placées dans le *scart*, il y reste et l'appel du Valet n'a aucun effet ;
 
-- if the holder of the jack played the Fool to the trick, he is allowed to keep the jack and the Fool remains played.
+- si le détenteur du Valet a joué le Fou au pli, il est autorisé à garder le Valet et le Fou reste joué.
 
-In most cases, calling 'buob' has the effect that one of the players who played a numeral card (lecra) of the suit will have to take it back in exchange for the jack. However, it sometimes happens that the holder of the jack played the queen or cavalier to the trick; in this case the queen or cavalier is taken back in exchange for the jack. To prevent this, the player of the king can call 'buob, sche' instead of just 'buob'. 'Buob, sche' requires the jack to be contributed to the trick only if the holder did not play the queen or cavalier. If the holder of the jack did play the queen or cavalier he announces this; the played card then remains in the trick and the player keeps the jack in his hand for later use. 
+Dans la plupart des cas, appeler « buob » a pour effet qu'un des joueurs qui a joué une carte numérique (*lecra*) de l'enseigne devra la reprendre en échange du Valet. Cependant, il arrive parfois que le détenteur du Valet ait joué la Dame ou le Cavalier au pli ; dans ce cas, la Dame ou le Cavalier est repris en échange du Valet. Pour éviter cela, le joueur du Roi peut appeler « buob, sche » au lieu de simplement « buob ». « Buob, sche » exige que le Valet soit contribué au pli seulement si le détenteur n'a pas joué la Dame ou le Cavalier.
 
-If the holder of the king has the jack as well, then when the suit is first led he is allowed to play both the king and the jack together to the trick; when the trick is complete, he takes from the trick a numeral card of the suit (played by one of the other players) and adds it to his hand.
+Si le détenteur du Roi a aussi le Valet, alors quand l'enseigne est entamée pour la première fois, il est autorisé à jouer le Roi et le Valet ensemble au pli ; quand le pli est complet, il prend du pli une carte numérique de l'enseigne (jouée par un des autres joueurs) et l'ajoute à sa main.
 
-### Scoring
+### Comptage
 
-At the end of the play, each team counts the value of the cards in their tricks, the scart being included with the dealer's team's tricks. The cards have point values as follows:
+À la fin du jeu, chaque équipe compte la valeur des cartes dans ses plis, le *scart* étant inclus dans les plis de l'équipe du donneur. Les cartes ont les valeurs en points suivantes :
 
-| trump XXI, trump I, Fool |   . . . .   | 5 points each |
-| trumps II to XX |   . . . .   | 1 point each |
-| kings |   . . . .   | 5 points each |
-| queens |   . . . .   | 4 points each |
-| cavaliers |   . . . .   | 3 points each |
-| jacks |   . . . .   | 2 points each |
-| ace to 10 of each suit |   . . . .   | 1 point each |
+| atout XXI, atout I, Fou | 5 points chacun |
+| atouts II à XX | 1 point chacun |
+| rois | 5 points chacun |
+| dames | 4 points chacun |
+| cavaliers | 3 points chacun |
+| valets | 2 points chacun |
+| as à 10 de chaque enseigne | 1 point chacun |
 
-The cards are counted in groups of four, and three points are subtracted from each group - so that for example a queen plus three numeral cards is worth 4 points (4+1+1+1-3), and a group consisting of a king, a cavalier and trumps XXI and XV is worth 11 points (5+3+5+1-3). The dealer's team will have two cards left over, corresponding to the scart. These two cards are worth the sum of their values minus one point. However the cards fall, the total value of the cards in the pack is always 72 points. Readers who find this method of counting unfamiliar will find some further discussion of it on the page on counting points in tarot games. 
+Les cartes sont comptées par groupes de quatre, et trois points sont soustraits de chaque groupe — de sorte que par exemple une Dame plus trois cartes numériques vaut 4 points (4+1+1+1-3), et un groupe composé d'un Roi, d'un Cavalier et des atouts XXI et XV vaut 11 points (5+3+5+1-3). L'équipe du donneur aura deux cartes restantes, correspondant au *scart*. Ces deux cartes valent la somme de leurs valeurs moins un point. Cependant les cartes soient réparties, la valeur totale des cartes du jeu est toujours de 72 points.
 
-Each team scores the difference, positive or negative, between its total of card points and 36, and adds it to its cumulative score from previous hands. After each hand, therefore, the positive score of one side will be exactly balanced by the negative score, of the same absolute value, of the other. This score is not written down, but remembered from hand to hand.
+Chaque équipe marque la différence, positive ou négative, entre son total de points de carte et 36, et l'ajoute à son score cumulé des mains précédentes. Après chaque main, le score positif d'un côté est exactement compensé par le score négatif, de même valeur absolue, de l'autre.
 
-A game consists of four hands, not including abandoned deals. The winning side is of course that which has a positive cumulative score at the end of the four rounds.
+Une partie se compose de quatre mains, sans compter les donnes abandonnées. Le côté gagnant est celui qui a un score cumulé positif à la fin des quatre tours.
 
 ### Tschintschar
 
-The exchange of information during the deal about the quality of the players' hands is known as tschintschar (talking), dar cun autras (playing with other cards) or cantar (singing). The conversation takes place in a kind of code, referring indirectly to the cards held by speaking of places and in metaphors. The aim is to pass useful information to your partner while confusing the opponents. There is no requirement that the information given be true: a player may exaggerate or make entirely false statements to mislead the opponents. Tone of voice and gestures accompanying the remarks can also be important. It is usually better not to say too much - one does not want to risk giving information to the enemy.
+L'échange d'informations pendant la distribution sur la qualité des mains des joueurs est appelé *tschintschar* (parler), *dar cun autras* (jouer avec d'autres cartes) ou *cantar* (chanter). La conversation se déroule dans une sorte de code, faisant référence indirectement aux cartes détenues en parlant de lieux et en utilisant des métaphores. Le but est de transmettre des informations utiles à son partenaire tout en confondant les adversaires. Il n'y a aucune obligation que les informations données soient vraies : un joueur peut exagérer ou faire des déclarations entièrement fausses pour tromper les adversaires. Le ton de voix et les gestes accompagnant les remarques peuvent aussi être importants.
 
-Individual cards are seldom named, with the exception of the XXI and the Fool. Trumps are often described in general terms by relation to the Medel valley: for example a player might say: "jeu sun da Medel", "duas da Medel", "tschéc da Medel" (I have some trumps, two trumps, plenty of trumps). Players will sometimes use the names of places in the valley to indicate their trump length and strength, lower down the valley indicating stronger cards: for example "gnanc tochen Sogn Gion" (not even at Sogn Gion) shows very weak trumps, while "ei va encunter Salvaplauna" (nearly at Salvaplauna - a meadow just outside Disentis) indicates very strong trumps, as does "clavau dalla claustra" (monastery cellar). "Dar da freid" (play cold) means that the player has no more trumps.
+Les cartes individuelles sont rarement nommées, à l'exception du XXI et du Fou. Les atouts sont souvent décrits en termes généraux par rapport à la vallée de Medel : par exemple un joueur peut dire « jeu sun da Medel », « duas da Medel », « tschéc da Medel » (j'ai quelques atouts, deux atouts, beaucoup d'atouts).
 
-"Ina cuort" (a court) or "ina famiglia" (a family) refers to the king, queen, cavalier and jack of a suit. A king and queen together are called in Brigels "ina napla" (a group). Court cards can be described in relation to the Tujetsch valley, for example "mo in pèr da Tujetsch" (just a few court cards). In the Medel valley they say "da Mustér" (from Disentis) for court cards, because people from Disentis were thought of as wealthy and well dressed. Kings can be described in terms of flowers, "ina flur" (one flower) corresponding to a strength of about two kings. "In fluretg" (a small flower) would represent one king and "in fluretg nausch" (a poor little flower) is a bare king, without other court cards; on the other hand "in tschéc fluretg" can show two kings supported by some court cards. "In persul" (only one) and "in miserabel" (a miserable one) are similar to "in fluretg nausch", showing a lone king, as does "strusch in" (hardly one), which can also show the unprotected trump I. "Ina femna" (a woman) indicates court cards without the king. "In tec carn" (a little meat) shows a few court cards.. "Bi e bein in" shows a king accompanied by other cards of the suit, or the trump I with some other trumps and "il narr bein" shows the Fool with trumps. "Il narr blut" is the naked Fool, with no accompanying trumps.
+« Ina cuort » (une cour) ou « ina famiglia » (une famille) désigne le Roi, la Dame, le Cavalier et le Valet d'une enseigne. Un Roi et une Dame ensemble sont appelés à Brigels « ina napla » (un groupe). Les Rois peuvent être décrits en termes de fleurs, « ina flur » (une fleur) correspondant à une force d'environ deux Rois.
 
-A good hand might be indicated by saying "jeu gidel" or "jeu tegn cun tei" (I help), "jeu sun cheu" (I am here), "mia part bein" (my share is good) or "jeu hai miu giug" (I have my game), or "paset". The following would describe a mediocre hand: "strusch mia part" (hardly my share), "pli bugen autras" (I would prefer other cards), "in paletg", "tric e trac" (in Brigels: this and that), "pas". With a bad hand one can say: "autras" (other - i.e. asking for other cards), "lavadas" (washout), "buca cheu" (not here), "vitas" (empty cards), "senza mei" (without me) or "pasun". To demand that the deal or play continue, vetoing the throw-in, one can say "aunc sis da quellas" (another six like those), "dai vinavon!" (deal some more), "jeu mirel" (I see it), "jeu stun" (I stay), "tuttas" (all), or "nus dein" (start the play).
+Une bonne main peut être indiquée en disant « jeu gidel » ou « jeu tegn cun tei » (je t'aide), « jeu sun cheu » (je suis là), « mia part bein » (ma part est bonne) ou « jeu hai miu giug » (j'ai mon jeu), ou « paset ». Avec une mauvaise main, on peut dire « autras » (autres), « lavadas » (lessive), « buca cheu » (pas là), « vitas » (cartes vides), « senza mei » (sans moi) ou « pasun ». Pour exiger que la distribution ou le jeu continue, en s'opposant à l'abandon, on peut dire « aunc sis da quellas » (encore six comme celles-là), « dai vinavon ! » (distribuez encore), « jeu mirel » (je le vois), « jeu stun » (je reste), « tuttas » (toutes), ou « nus dein » (commencez le jeu).
 
-### Variations
+### Variantes
 
-The greatest variation in the versions of Troccas played in different places concerns the type and amount of conversation and signals that are allowed during the deal (and in some places also during the play of the cards), the rules being more liberal in the Tujetsch and Medel valleys, while to the east the game is more often played in silence.
+La plus grande variation entre les versions de Troccas jouées à différents endroits concerne le type et la quantité de conversation et de signaux autorisés pendant la distribution (et dans certains endroits aussi pendant le jeu de cartes), les règles étant plus libérales dans les vallées de Tujetsch et Medel, tandis qu'à l'est le jeu se joue plus souvent en silence.
 
-In some places, the holder of the XXI may signal that he holds it by knocking on the table the first time that trumps are led. Subsequently, the holder of the highest outstanding trump can signal it by knocking on the table on the next lead of a trump after it becomes highest, all higher trumps having been played.
+À certains endroits, le détenteur du XXI peut signaler qu'il le détient en frappant sur la table la première fois que des atouts sont entamés. Par la suite, le détenteur de l'atout le plus élevé encore en jeu peut le signaler en frappant sur la table lors de l'entame suivante d'un atout après qu'il est devenu le plus élevé.
 
-## Troccas for Six Players
+## Troccas à six joueurs
 
-The six players form two fixed partnerships of three each: the members of the two sides sit alternately. Each player receives thirteen cards in the deal: one round of six cards each followed by one round of seven cards each, the last card being dealt face up. The dealer takes no extra cards, and there is therefore no discard. There is no conversation (tschintschar) and no option to abandon the deal. At the end of the round, the cards are counted in fours, as in the four-player game; the two odd cards which one team will have are also treated in the same way, so that there are still 72 points altogether. A game consists of six rounds. All else is as in the four-handed game.
+Les six joueurs forment deux partenariats fixes de trois chacun : les membres des deux côtés s'assoient en alternance. Chaque joueur reçoit treize cartes lors de la distribution : un tour de six cartes chacun suivi d'un tour de sept cartes, la dernière étant distribuée face visible. Le donneur ne prend pas de cartes supplémentaires, il n'y a donc pas d'écart. Il n'y a pas de conversation (*tschintschar*) ni d'option d'abandonner la donne. À la fin du tour, les cartes sont comptées par quatre, comme au jeu à quatre joueurs ; les deux cartes impaires qu'une équipe aura sont aussi traitées de la même manière, de sorte qu'il y a toujours 72 points au total. Une partie se compose de six tours. Tout le reste est comme au jeu à quatre.
 
-## Troccas for Three Players
+## Troccas à trois joueurs
 
-Each of the three players plays for himself. The cards are dealt in batches of five, the dealer taking the last three cards and discarding three, so that each player has twenty-five cards. Since there are no partners, there is no conversation, no signalling and no possibility to abandon the deal. There is no option to call for the jack when playing the king to the first trick in a suit. However, a player who holds both the king and jack of a suit can play them both to the first trick in that suit, taking a low card from the trick in exchange.
+Chacun des trois joueurs joue pour soi. Les cartes sont distribuées par groupes de cinq, le donneur prenant les trois dernières cartes et en écartant trois, de sorte que chaque joueur a vingt-cinq cartes. Comme il n'y a pas de partenaires, il n'y a pas de conversation, pas de signaux et pas de possibilité d'abandonner la donne. Il n'y a pas d'option d'appeler le Valet lors du jeu du Roi au premier pli d'une enseigne. Cependant, un joueur qui détient le Roi et le Valet d'une enseigne peut les jouer tous les deux au premier pli de cette enseigne, en prenant une carte basse du pli en échange.
 
-Some players count the cards in threes (grouping the cards into threes, and subtracting two points from the sum of the card values in each group), so that there are 78 points in total. In this case each player wins or loses the amount by which their card point total exceeds or falls short of 26.
+Certains joueurs comptent les cartes par trois (groupant les cartes par trois et soustrayant deux points de la somme des valeurs dans chaque groupe), de sorte qu'il y a 78 points au total. Dans ce cas, chaque joueur gagne ou perd le montant dont son total de points dépasse ou est en dessous de 26.
 
-Others count the cards singly, giving each card taken in tricks its full value. Each of the three cards in the scart counts one point less than its full value (so 1-point cards are worth nothing at all). Using this method, there are 127 points altogether. The dealer scores the difference between his point-total and 43 points; each of the other two players scores the difference between their point total and 42 points.
+D'autres comptent les cartes individuellement, donnant à chaque carte prise en plis sa pleine valeur. Chacune des trois cartes du *scart* compte un point de moins que sa pleine valeur (donc les cartes d'un point ne valent rien du tout). Avec cette méthode, il y a 127 points au total. Le donneur marque la différence entre son total et 43 points ; chacun des deux autres joueurs marque la différence entre son total et 42 points.
 
-For the rest, all the rules of the four-handed game apply.
+Pour le reste, toutes les règles du jeu à quatre s'appliquent.
 
-## Troccas for Five Players
+## Troccas à cinq joueurs
 
-Each player plays for himself. The game is exactly like the three-handed one with the cards counted singly, except that the dealer gives fifteen cards to each of the other players and eighteen to himself, discarding three. The dealer scores the difference, positive or negative, between his point-total and 27 points: each of the other players scores the difference, positive or negative, between their point-total and 25 points.
+Chaque joueur joue pour soi. Le jeu est exactement comme le jeu à trois avec les cartes comptées individuellement, sauf que le donneur donne quinze cartes à chacun des autres joueurs et dix-huit à lui-même, en écartant trois. Le donneur marque la différence, positive ou négative, entre son total et 27 points ; chacun des autres joueurs marque la différence, positive ou négative, entre son total et 25 points.
 
-## More Romansh Terminology
+## Plus de terminologie romanche
 
-| Romansh | English |
-| il retg | the king |
-| la regina | the queen |
-| il cavagl | the cavalier (lit. the horse) |
-| il buob | the jack |
-| cuppas | cups |
-| rosas | coins (lit. roses) |
-| spadas | swords |
-| bastuns | batons |
-   
-| Romansh | English |
-| troccas | trumps |
-| catschar troccas | to draw trumps |
-| il narr | the Fool |
-| ils honors | the honours (5-point cards) |
-| igl juhe | the XXI, I and Fool (jubilation) |
-| lecras | numeral cards of a suit |
-| ina scartina | singleton of a suit |
+| Romanche | Français |
+| il retg | le roi |
+| la regina | la dame |
+| il cavagl | le cavalier |
+| il buob | le valet |
+| cuppas | coupes |
+| rosas | deniers (litt. roses) |
+| spadas | épées |
+| bastuns | bâtons |
 
-| Trump | Title on card | Romansh name(s) | English translation |
-| I | Le Bateleur | il bagat | [the pagat] |
-| II | Junon | la gaglina, la biua | the hen |
-| III | L'Imperatrice | l'imperatura | the empress |
-| IIII | L'Empereur | igl imperatur | the emperor |
-| V | Jupiter | il da Cuoz, il Diu fauls | the false god |
-| VI | L'Amoureux | ils amurai | the lovers |
-| VII | Le Chariot | il carr, la Catrina en crotscha | the wagon, Catherine in the coach |
-| VIII | La Justice | la stadera, la giustia | the scales, justice |
-| VIIII | L'Ermite | il pader | the monk |
-| X | La Roue de Fortune | la ventira, la roda dalla fortuna | luck, the wheel of fortune |
-| XI | La Force | la forza | strength |
-| XII | Le Pendu | il pendiu | the hanged man |
-| XIII | La Mort | la mort | death |
-| XIIII | Temperance | il aunghel, la tempronza | the angel, temperance |
-| XV | Le Diable | il giavel, il da cornas, il naucli, il bab dallas femnas | the devil, the horned one, the evil one, the father of young girls |
-| XVI | La Maison de Dieu | il tiaratriembel, il cametg, la Cadi, la casa da Diu, la claustra barschada | the earthquake, the lightning, the church, the house of god, the burned monastery |
-| XVII | L'Étoile | las steilas | the stars |
-| XVIII | La Lune | la glina | the moon |
-| XVIIII | Le Soleil | la sulegl | the sun |
-| XX | Le Jugement | la dertgira, ils bluts, ils bluts digl aug Rest, la giuventetgna | judgement, the nudes, uncle Christian's nudes, youth |
-| XXI | Le Monde | il mund, la vacca, la biala, il min, il miau, la ferma | the world, the cow, the beautiful one, the cat, the strong one |
+| Romanche | Français |
+| troccas | atouts |
+| catschar troccas | tirer les atouts |
+| il narr | le Fou |
+| ils honors | les honneurs (cartes à 5 points) |
+| igl juhe | le XXI, le I et le Fou (jubilation) |
+| lecras | cartes numériques d'une enseigne |
+| ina scartina | singleton d'une enseigne |
 
-## Other Troccas WWW Pages
+| Atout | Titre sur la carte | Nom(s) romanche(s) | Traduction française |
+| I | Le Bateleur | il bagat | [le pagat] |
+| II | Junon | la gaglina, la biua | la poule |
+| III | L'Impératrice | l'imperatura | l'impératrice |
+| IIII | L'Empereur | igl imperatur | l'empereur |
+| V | Jupiter | il da Cuoz, il Diu fauls | le faux dieu |
+| VI | L'Amoureux | ils amurai | les amoureux |
+| VII | Le Chariot | il carr, la Catrina en crotscha | le char, Catherine en carrosse |
+| VIII | La Justice | la stadera, la giustia | la balance, la justice |
+| VIIII | L'Hermite | il pader | le moine |
+| X | La Roue de Fortune | la ventira, la roda dalla fortuna | la chance, la roue de la fortune |
+| XI | La Force | la forza | la force |
+| XII | Le Pendu | il pendiu | le pendu |
+| XIII | La Mort | la mort | la mort |
+| XIIII | Tempérance | il aunghel, la tempronza | l'ange, la tempérance |
+| XV | Le Diable | il giavel, il da cornas, il naucli, il bab dallas femnas | le diable, le cornu, le malin, le père des jeunes filles |
+| XVI | La Maison Dieu | il tiaratriembel, il cametg, la Cadi, la casa da Diu, la claustra barschada | le tremblement de terre, la foudre, l'église, la maison de Dieu, le monastère brûlé |
+| XVII | L'Étoile | las steilas | les étoiles |
+| XVIII | La Lune | la glina | la lune |
+| XVIIII | Le Soleil | la sulegl | le soleil |
+| XX | Le Jugement | la dertgira, ils bluts, ils bluts digl aug Rest, la giuventetgna | le jugement, les nus, les nus de l'oncle Christian, la jeunesse |
+| XXI | Le Monde | il mund, la vacca, la biala, il min, il miau, la ferma | le monde, la vache, la belle, le chat, le fort |
 
-Another description of Troccas can be found on this archive copy of Nicolette Deplazes' [Troccas page](https://web.archive.org/web/20100602221806/http://www.hollyfeld.org/heaven/Text/Divination/troccas.txt).
+## Autres pages web sur Troccas
 
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Troccas
+Une autre description de Troccas peut être trouvée sur cette copie d'archive de la page [Troccas de Nicolette Deplazes](https://web.archive.org/web/20100602221806/http://www.hollyfeld.org/heaven/Text/Divination/troccas.txt).

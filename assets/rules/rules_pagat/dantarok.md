@@ -1,509 +1,463 @@
-# Tarok (Danish)
+# Tarok (danois)
 
 **Nombre de cartes :** 78
 **Difficulté :** ⭐⭐⭐
 **Type :** Tarot, Tarot
-**But :** A 3-player game with 78 cards. The main aim is to win the last trick with the lowest trump (the Pagat) or a King.
+**But :** Un jeu à 3 joueurs avec 78 cartes. Le but principal est de gagner la dernière levée avec le plus bas atout (le Pagat) ou un Roi.
 **Autres noms :** Grosstarok
 
 ---
 
-## Summary
+## Résumé
 
-Tarok (Danish style) is a game for three persons played with a tarot deck of 78 cards. It is a trick taking game, where the primary emphasis is on winning the last trick with one of five designated cards (known as winning **Ultimo**), and there is secondary emphasis on winning many tricks and winning counting cards in the tricks. To play well, players need to form alliances during the play, to keep track of the cards that have been played, and to be able to play according to a well chosen plan. Together, this makes the game difficult to learn to play well. It thus embodies much of the intellectual challenge otherwise associated with games like contract bridge.
+Le Tarok (de style danois) est un jeu pour trois personnes joué avec un jeu de tarot de 78 cartes. C'est un jeu de levées où l'accent principal est mis sur la victoire de la dernière levée avec l'une de cinq cartes désignées (ce qui s'appelle gagner **l'Ultimo**), avec un accent secondaire sur le gain de nombreuses levées et de cartes de valeur. Pour bien jouer, les joueurs doivent former des alliances pendant la partie, suivre les cartes jouées et être capables de jouer selon un plan bien choisi. L'ensemble en fait un jeu difficile à bien maîtriser. Il incarne ainsi une grande partie du défi intellectuel autrement associé à des jeux comme le bridge.
 
-*This description was contributed by Jens Brix Christiansen*
+*Cette description a été contribuée par Jens Brix Christiansen*
 
-## Rules
+## Règles
 
-### Players and Equipment
+### Joueurs et Équipement
 
-To play tarok you need three or four players, some tarok cards, a supply of chips to keep score, and two containers to serve as the pots.
+Pour jouer au tarok il faut trois ou quatre joueurs, des cartes de tarok, un stock de jetons pour tenir le score, et deux récipients pour servir de pots.
 
-#### Players
+#### Joueurs
 
-Although there are only three active players at a time, it is quite usual for four people to take part in a tarok game. With four people, the player sitting opposite the dealer takes no part in the play.
+Bien qu'il n'y ait que trois joueurs actifs à la fois, il est assez courant que quatre personnes participent à une partie de tarok. À quatre, le joueur assis en face du donneur ne participe pas au jeu.
 
-#### Cards
+#### Cartes
 
-A standard French tarot deck of 78 cards is used. There are 
+On utilise un jeu de tarot français standard de 78 cartes. Il y a
 
-- four standard suits of 14 cards each, 
+- quatre couleurs standard de 14 cartes chacune,
 
-- 21 trumps (*tarok*, pl. *tarokker*) 
+- 21 atouts (*tarok*, pl. *tarokker*)
 
-- one special card, the **fool** (*skisen*, *scusen*).
+- une carte spéciale, l'**excuse** (*skisen*, *scusen*).
 
-In the past, Tarok cards were made in Denmark for this game, but since the second world war these have no longer been manufactured, and Tarot cards imported from France are used instead. Of course the exact appearance of the cards, though interesting in its own right, is immaterial to the rules of the game. The old Danish cards had no corner indices, but players have become so used to the modern French cards, that cards without corner markings are now considered too cumbersome for practical play.
+Par le passé, des cartes de Tarok étaient fabriquées au Danemark pour ce jeu, mais depuis la Seconde Guerre mondiale elles ne sont plus fabriquées, et on utilise des cartes de Tarot importées de France. Bien sûr, l'apparence exacte des cartes, aussi intéressante soit-elle, est sans importance pour les règles du jeu. Les anciennes cartes danoises n'avaient pas d'indices de coin, mais les joueurs sont devenus si habitués aux cartes françaises modernes que les cartes sans marques de coin sont désormais considérées trop peu pratiques pour le jeu.
 
-The standard suits, hearts, diamonds, spades and clubs each have four court cards (*honnør*, pl *honnører*). The corner indices stand for the French names of the cards, though in play the Danish names are used:
+Les couleurs standard, cœur, carreau, pique et trèfle ont chacune quatre figures (*honnør*, pl. *honnører*). Les indices de coin correspondent aux noms français des cartes, bien qu'en jeu on utilise les noms danois :
 
-the **king** (*konge*) marked **R** for *roi*;
+le **roi** (*konge*) marqué **R** pour *roi* ;
 
-the **queen** (*dame*) marked **D** for *dame*; 
+la **dame** (*dame*) marquée **D** pour *dame* ;
 
-the **knight** (*kaval*) marked **C** for *cavalier*;
+le **cavalier** (*kaval*) marqué **C** pour *cavalier* ;
 
-the **jack** (*knægt*) marked **V** for *valet*. 
+le **valet** (*knægt*) marqué **V** pour *valet*.
 
-Each suit also has the usual 10 spot cards (*ladon*, pl. *ladoner*) marked with numbers 1 through 10. 
+Chaque couleur a aussi les 10 cartes numériques habituelles (*ladon*, pl. *ladoner*) marquées des numéros 1 à 10.
 
-In the black suits (spades and clubs) the cards are ranked from high to low:
+Dans les couleurs noires (pique et trèfle), les cartes se classent du plus haut au plus bas :
 
 - **R D C V 10 9 8 7 6 5 4 3 2 1**.
 
-In the red suits (hearts and diamonds) the spot cards have the opposite ranking; from high to low the cards rank: 
+Dans les couleurs rouges (cœur et carreau), les cartes numériques ont l'ordre inverse ; du plus haut au plus bas :
 
 - **R D C V 1 2 3 4 5 6 7 8 9 10**.
 
-The trumps are marked with the numbers **1** through **21**, and are ranked in numerical order with **21** highest and **1** lowest. In Italy, where tarot games originated, all the trumps had special names; only the names for the hoghest and lowest trumps have been carried over into the Dannish game:
+Les atouts sont marqués des numéros **1** à **21** et se classent par ordre numérique avec **21** le plus haut et **1** le plus bas. En Italie, d'où les jeux de tarot sont originaires, tous les atouts avaient des noms spéciaux ; seuls les noms des atouts les plus haut et le plus bas ont été transmis au jeu danois :
 
-the **pagat** is the **1** of trumps (the lowest trump) (*pagaten*) - from the Italian *bagatto*
+le **pagat** est le **1** d'atout (le plus bas atout) (*pagaten*) — de l'italien *bagatto*
 
-the **mondo** is the **21** of trumps (the highest trump) (*mondo*) - unaltered from the Italian *mondo*
+le **mondo** est le **21** d'atout (le plus haut atout) (*mondo*) — inchangé de l'italien *mondo*
 
-The **fool** is not part of any suit. It is marked so as to distinguish it from the other cards, often with a star.
+L'**excuse** n'appartient à aucune couleur. Elle est marquée de manière à la distinguer des autres cartes, souvent avec une étoile.
 
-In practice it is traditional to use two tarot packs, if possible with different coloured backs, which are used to play alternate hands. This saves some time, especially with four players. During the play, the inactive player can shuffle the cards for the new dealer, who can then start dealing while the players are still settling up from the previous hand - see logistics.
+En pratique, il est traditionnel d'utiliser deux jeux de tarot, si possible avec des dos de couleur différente, qui sont utilisés pour jouer alternativement. Cela fait gagner du temps, surtout avec quatre joueurs. Pendant la partie, le joueur inactif peut mélanger les cartes pour le nouveau donneur, qui peut alors commencer à distribuer pendant que les joueurs règlent encore la donne précédente — voir logistique.
 
-#### Chips
+#### Jetons
 
-The scoring is always done using tokens, or chips, rather than on paper. Keeping score in writing, though possible, would be rather inconvenient, because of the two pots, and the payments that are made between players during the play of the hand.
+Le comptage se fait toujours avec des jetons, et non sur papier. Tenir le score par écrit, bien que possible, serait assez malcommode en raison des deux pots et des paiements effectués entre joueurs pendant la partie.
 
-It is best to use chips in denominations of 5, 20, 100 and possibly 500, distinguished by different shapes or sizes. Ideally all denominations should be available in three or four different colours, so that each player can begin with a supply of chips of their own colour. That way it is easy to see how much each player has won or lost, and it is not necessary for each player to have an equal number of chips at the start of the game.
+Il est préférable d'utiliser des jetons de coupures de 5, 20, 100 et éventuellement 500, distingués par différentes formes ou tailles. Idéalement, toutes les coupures devraient être disponibles en trois ou quatre couleurs différentes, pour que chaque joueur puisse commencer avec un stock de jetons de sa propre couleur. Ainsi il est facile de voir combien chaque joueur a gagné ou perdu, et il n'est pas nécessaire que chaque joueur ait le même nombre de jetons au départ.
 
-#### The Pots
+#### Les Pots
 
-Two distinct receptacles are needed to hold the **pagat pot** and the **king pot**. In the past there were purpose built pots marked with a crown and a figure 1 respectively. Alternatively, you may use a wide, shallow dish with a smaller bowl standing in the centre of it (like a cup and saucer). The centre bowl is the king pot and the dish is the pagat pot.
+Deux récipients distincts sont nécessaires pour contenir le **pot du pagat** et le **pot des rois**. Par le passé, il existait des pots spécialement conçus marqués d'une couronne et du chiffre 1. Alternativement, on peut utiliser un plat large et peu profond avec un bol plus petit au centre (comme une tasse et sa soucoupe). Le bol central est le pot des rois et le plat est le pot du pagat.
 
-### The mechanics of the game
+### Mécanique du jeu
 
-The general direction of the game is counter-clockwise. 
+Le sens général du jeu est dans le sens inverse des aiguilles d'une montre.
 
-#### Dealing
+#### Distribution
 
-The cards are dealt five at a time to the three active players, until each has 25 cards. The dealer adds the remaining three cards to his own hand.
+Les cartes sont distribuées cinq par cinq aux trois joueurs actifs, jusqu'à ce que chacun ait 25 cartes. Le donneur ajoute les trois cartes restantes à sa propre main.
 
-#### Discarding
+#### Écart
 
-The dealer now discards (*ekarterer*) three of his cards. These three cards are called the skat (*skaten*), and will not be used in the play. The skat constitues the first three cards in the dealer's trick pile.
+Le donneur écarte (*ekarterer*) trois de ses cartes. Ces trois cartes sont appelées le skat (*skaten*), et ne seront pas utilisées dans le jeu. Le skat constitue les trois premières cartes du tas de levées du donneur.
 
-#### Declaring
+#### Déclarations
 
-Certain combined holdings of court cards, trumps, and the **fool** are called declarations (*meldinger*). Any valid combinations held **must** be declared to the other players. Starting with the dealer, each player declares his combinations in turn. The information passed with the declarations have significant influence on the strategy in the play.
+Certaines combinaisons de figures, d'atouts et de l'**excuse** sont appelées déclarations (*meldinger*). Toute combinaison valide détenue **doit** être déclarée aux autres joueurs. En commençant par le donneur, chaque joueur déclare ses combinaisons à tour de rôle. Les informations transmises par les déclarations ont une influence significative sur la stratégie de jeu.
 
-#### Play
+#### Jeu
 
-The player to the dealer's right leads to the first trick, and play proceeds in counter-clockwise rotation. All players must follow suit, playing any card they wish in the suit led (trumps are considered as a separate suit). If a player cannot follow suit, he must play a trump (any trump he wishes). If a player has no cards in the suit led nor any trumps, he may play any card in any other suit. The trick is won by the player contributing the highest trump to the trick, or if no trump was played, by the player contributing the highest card in the suit led. The three cards in the trick are placed face down in front of the player winning the trick. These rules do not apply to the **fool**; see below. The player who wins a trick is on lead to the next trick.
+Le joueur à la droite du donneur mène la première levée, et le jeu se poursuit dans le sens inverse des aiguilles. Tous les joueurs doivent suivre la couleur en jouant n'importe quelle carte de la couleur menée (les atouts sont considérés comme une couleur séparée). Si un joueur ne peut pas suivre, il doit jouer un atout (n'importe lequel). S'il n'a ni carte de la couleur menée ni atout, il peut jouer n'importe quelle carte d'une autre couleur. La levée est gagnée par le joueur ayant joué l'atout le plus élevé, ou, si aucun atout n'a été joué, par celui ayant joué la carte la plus élevée de la couleur menée. Les trois cartes de la levée sont placées face en bas devant le joueur qui l'a gagnée. Ces règles ne s'appliquent pas à l'**excuse** ; voir ci-dessous. Le joueur qui gagne une levée mène la suivante.
 
-#### The last trick
+#### La dernière levée
 
-The prime focus of the game is on the last trick. In general, the winner of a hand is the player who takes the last trick. Five cards, i.e., the four **kings** and the **pagat**, are designated as Ultimo cards. There is a considerable bonus for winning the last trick with an Ultimo card; this is known as **"winning Ultimo"**. Playing an Ultimo card in the last trick without winning the trick, on the other hand, is known in Danish as **"Bagud"** (literally "going out the back way"). There is a penalty, equivalent to the Ultimo bonus, for losing a Bagud.
+Le point focal principal du jeu est la dernière levée. En général, le gagnant d'une donne est le joueur qui remporte la dernière levée. Cinq cartes, c'est-à-dire les quatre **rois** et le **pagat**, sont désignées comme cartes d'Ultimo. Il y a un bonus considérable pour gagner la dernière levée avec une carte d'Ultimo ; c'est ce qu'on appelle **« gagner l'Ultimo »**. Jouer une carte d'Ultimo dans la dernière levée sans gagner la levée est appelé en danois **« Bagud »** (littéralement « sortir par derrière »). Il y a une pénalité, équivalente au bonus d'Ultimo, pour avoir fait un Bagud.
 
-For advice on how to win an Ultimo, or prevent someone else doing so, see the strategy page.
+Pour des conseils sur la façon de gagner un Ultimo ou d'empêcher un autre joueur de le faire, consultez la page de stratégie.
 
-#### End of play
+#### Fin de la partie
 
-The new dealer deals, while the two other players count their trick piles (see scoring below).
+Le nouveau donneur distribue, tandis que les deux autres joueurs comptent leurs tas de levées (voir comptage ci-dessous).
 
-### The **fool**
+### L'**excuse**
 
-The **fool** is a card with special properties during the play. The 
-**fool** is used to extend any suit by one card, possibly even after the player 
-holding the **fool** has not followed for several rounds of that suit. This is 
-formalized as follows:
+L'**excuse** est une carte aux propriétés spéciales pendant le jeu. L'**excuse** sert à prolonger n'importe quelle couleur d'une carte, même après que le joueur qui la détient n'a pas suivi pendant plusieurs tours de cette couleur. Cela se formalise ainsi :
 
-- The **fool** can be played at any time, regardless of the suit led and the 
-player's holding in that suit or in trumps (but see the rules below regarding the last three 
-tricks).
+- L'**excuse** peut être jouée à tout moment, indépendamment de la couleur menée et de la détention du joueur dans cette couleur ou dans les atouts (mais voir les règles ci-dessous concernant les trois dernières levées).
 
-- Until it is actually played, the **fool** does not belong to any of the suits 
-(including trumps). When it is led or played, it becomes the lowest ranking card in the suit 
-led to the trick.
+- Jusqu'à ce qu'elle soit effectivement jouée, l'**excuse** n'appartient à aucune couleur (y compris les atouts). Quand elle est menée ou jouée, elle devient la carte la plus basse de la couleur menée.
 
-- When a player leads the **fool**, he names the suit intended - any of the four plain suits or *tarokker* (trumps). (This is known 
-as "naming the **fool**" *(at benævne skisen)*)
+- Quand un joueur mène l'**excuse**, il nomme la couleur visée — l'une des quatre couleurs simples ou *tarokker* (atouts). (C'est ce qu'on appelle « nommer l'**excuse** » *(at benævne skisen)*).
 
-Although the **fool** can never win a trick, for scoring purposes the card is not 
-lost to the winner of the trick:
+Bien que l'**excuse** ne puisse jamais gagner de levée, pour le comptage elle n'est pas perdue au profit du gagnant de la levée :
 
-- The **fool** is not surrendered to the player winning the trick; instead it 
-goes to the trick pile of the player playing it (but see the rules below when the 
-**fool** is played in the last trick).
+- L'**excuse** n'est pas remise au joueur gagnant de la levée ; elle va au tas de levées du joueur qui l'a jouée (mais voir les règles ci-dessous quand l'**excuse** est jouée dans la dernière levée).
 
-Special rules govern the way the **fool** is used in the end play. They are 
-probably intended to avoid giving the holder of the **fool** undue advantages:
+Des règles spéciales régissent l'utilisation de l'**excuse** en fin de partie. Elles sont probablement destinées à éviter d'accorder un avantage indu au détenteur de l'**excuse** :
 
-- The **fool** must **never** be played to the **second to 
-last** trick.
+- L'**excuse** ne doit **jamais** être jouée à l'avant-dernière levée.
 
-- When the **fool** is in the last trick, it is added to the trick pile of the 
-player winning the trick.
+- Quand l'**excuse** est dans la dernière levée, elle est ajoutée au tas de levées du joueur gagnant.
 
-- During the third to last trick, any player who does not hold the **fool** may 
-require that it be played. The play to this trick is then taken back as far as necessary to 
-comply with this requirement. There is a penalty for requiring the 
-**fool** erroneously.
+- Pendant la troisième levée en partant de la fin, tout joueur qui ne détient pas l'**excuse** peut exiger qu'elle soit jouée. Le jeu de cette levée est alors repris autant que nécessaire pour satisfaire cette exigence. Il y a une pénalité pour exiger l'**excuse** à tort.
 
-Some special, somewhat complicated rules apply to the naming of the **fool**, when it is led. Their purpose is originally to prevent the **fool** from ever winning a trick. These rules are seldom needed.
+Des règles spéciales, quelque peu compliquées, s'appliquent au nommage de l'**excuse** quand elle est menée. Leur but est à l'origine d'empêcher l'**excuse** de jamais gagner une levée. Ces règles sont rarement nécessaires.
 
-- If the second player is void in the suit named for the **fool**, he may make the statement, "I have no cards in that suit". The third player then checks whether he has any cards in the suit named, and makes a statement to that effect. If it turns out that he too is void in the suit, the **fool** remains led, but the second player has the right to name the **fool**.
+- Si le deuxième joueur est void dans la couleur nommée pour l'**excuse**, il peut déclarer : « Je n'ai pas de cartes dans cette couleur. » Le troisième joueur vérifie alors s'il a des cartes de cette couleur et le déclare. S'il s'avère qu'il est aussi void, l'**excuse** reste menée, mais le deuxième joueur a le droit de nommer l'**excuse**.
 
-- If the second player is void in the suit named for the **fool** and plays to the trick anyway (which he may do either inadvertently or on purpose), he loses the right to name the **fool**. If now the third player is also void, he can claim the right to name the **fool**. The second player will now usually need to take his played card back in order to follow suit.
+- Si le deuxième joueur est void dans la couleur nommée pour l'**excuse** et joue quand même à la levée (ce qu'il peut faire par inadvertance ou intentionnellement), il perd le droit de nommer l'**excuse**. Si le troisième joueur est aussi void, il peut revendiquer le droit de nommer l'**excuse**. Le deuxième joueur devra généralement reprendre sa carte pour suivre la couleur.
 
-- If both the second and the third players show out on the suit named for the **fool** instead of claiming the right to name the **fool**, then they were obliged to play trumps if they had them, and the higher trump wins the trick as usual. However, if both the second and third players have run out of trumps, then the card played by the second player automatically names the **fool**, and the third player may have to take his played card back in order to follow suit.
+- Si le deuxième et le troisième joueur sont tous deux void dans la couleur nommée pour l'**excuse** au lieu de revendiquer le droit de la nommer, alors ils étaient obligés de jouer des atouts s'ils en avaient, et l'atout le plus élevé gagne la levée comme d'habitude. Cependant, si les deuxième et troisième joueurs n'ont plus d'atouts, la carte jouée par le deuxième joueur nomme automatiquement l'**excuse**, et le troisième joueur peut devoir reprendre sa carte pour suivre.
 
-### The discard (the skat)
+### L'écart (le skat)
 
-The dealer may discard any three cards from his hand, subject to the following restrictions.
+Le donneur peut écarter trois cartes de sa main, sous les restrictions suivantes.
 
-- Ultimo cards (the **kings** and the **pagat**) can never be discarded.
+- Les cartes d'Ultimo (les **rois** et le **pagat**) ne peuvent jamais être écartées.
 
-- The **mondo **(tarok 21) can never be discarded.
+- Le **mondo** (tarok 21) ne peut jamais être écarté.
 
-- It is illegal to discard a card that would otherwise be part of a combination to be declared, except in the highly unlikely case where it is impossible to avoid doing so. If the dealer has more than 25 cards that belong to combinations that can be declared, he must declare and is paid for all of them, and he must also announce exactly which declared card(s) he is discarding.
+- Il est interdit d'écarter une carte qui ferait autrement partie d'une combinaison à déclarer, sauf dans le cas très improbable où il est impossible de faire autrement. Si le donneur a plus de 25 cartes appartenant à des combinaisons pouvant être déclarées, il doit toutes les déclarer et en être payé, et doit annoncer exactement quelle(s) carte(s) déclarée(s) il écarte.
 
-- The dealer may discard one or more trumps only if he thereby becomes void in trumps. For the purpose of this rule, the **fool** does not count as a trump. During the play, if the dealer shows out in trumps at the first opportunity to play one, he must if requested by an opponent declare whether he discarded trumps or not, but need not say how many. Note that if the dealer holds the **pagat** or the **mondo** he cannot discard trumps even if he has three or fewer of them.
+- Le donneur ne peut écarter un ou plusieurs atouts que s'il devient ainsi void en atouts. Pour cette règle, l'**excuse** ne compte pas comme un atout. Pendant le jeu, si le donneur se révèle void en atouts à la première occasion d'en jouer un, il doit, si un adversaire le demande, déclarer s'il a écarté des atouts, mais n'est pas tenu de dire combien. Notez que si le donneur détient le **pagat** ou le **mondo**, il ne peut pas écarter d'atouts même s'il en a trois ou moins.
 
-- The **fool** may not be discarded except in the rare case that the dealer wishes to play for Tout. If the dealer discards the **fool **for this reason, he must announce that he is playing for Tout.
-Some play with slightly different discard restrictions - see variations section. See the strategy section for advice on what to discard.
+- L'**excuse** ne peut être écartée que dans le cas rare où le donneur souhaite jouer le Tout. Si le donneur écarte l'**excuse** pour cette raison, il doit annoncer qu'il joue le Tout.
 
-### The declarations
+Certains jouent avec des restrictions d'écart légèrement différentes — voir section des variantes. Voir la section de stratégie pour des conseils sur ce qu'il convient d'écarter.
 
-Certain combinations of cards in a player's hand **must** be declared before play starts. Declarations are made in rotation starting with the dealer.
+### Les déclarations
 
-**Trumps**
-A player holding 10 or more trumps must declare how many he has. For this purpose, the **fool** counts as a trump. When trumps are declared, the player must also mention whether or not he holds the **pagat**. A sample declaration is "11 trumps, with the **pagat**" (11 tarokker med **pagat**); if there are no other declarations, it is not revealed whether the **fool** was one of the 11 trumps.
+Certaines combinaisons de cartes dans la main d'un joueur **doivent** être déclarées avant le début du jeu. Les déclarations se font à tour de rôle en commençant par le donneur.
+
+**Atouts**
+Un joueur détenant 10 atouts ou plus doit déclarer combien il en a. Pour cela, l'**excuse** compte comme un atout. Lors de la déclaration des atouts, le joueur doit aussi mentionner s'il détient le **pagat**. Une déclaration type est « 11 atouts, avec le **pagat** ». S'il n'y a pas d'autres déclarations, il n'est pas révélé si l'**excuse** était l'un des 11 atouts.
 
 **Matadors**
 
-3 matadors is the combination of the **fool**, **mondo**, and the **pagat**. Any trumps in unbroken sequence with the 20 count as extra matadors, for example 4 matadors additionally includes the trump **20**. 5 matadors additionally includes the trump **19**, and so on. A player holding the **fool**, **mondo**, and the **pagat** must declare how many matadors he holds.
+3 matadors est la combinaison de l'**excuse**, du **mondo** et du **pagat**. Les atouts en séquence ininterrompue avec le 20 comptent comme des matadors supplémentaires : 4 matadors inclut également l'atout **20**, 5 matadors inclut le **19**, et ainsi de suite. Un joueur détenant l'**excuse**, le **mondo** et le **pagat** doit déclarer combien de matadors il détient.
 
-![fool](../images/tarot/ex.gif)
+![excuse](../images/tarot/ex.gif)
 ![pagat](../images/tarot/t1.gif)
 ![mondo](../images/tarot/t21.gif)
 ![tarok 20](../images/tarot/t20.gif)
-![tarok 20](../images/tarot/t19.gif)
+![tarok 19](../images/tarot/t19.gif)
+
 **Cavallerie**
 
-A player who holds four court cards of the same suit must declare cavallerie of the suit. A typical declaration is simply "full hearts" (*fulde hjerter*). 
-![heart king](../images/tarot/hr.gif)
-![heart queen](../images/tarot/hd.gif)
-![heart knight](../images/tarot/hc.gif)
-![heart jack](../images/tarot/hv.gif)
+Un joueur qui détient les quatre figures d'une même couleur doit déclarer la cavallerie de cette couleur. Une déclaration type est simplement «plein cœur» (*fulde hjerter*).
 
-A player who holds the **fool** in addition to the four court cards must declare an abundant cavallerie, e.g., "abundant spades" (*sprøjtefulde spar*).
-![spade king](../images/tarot/sr.gif)
-![spade queen](../images/tarot/sd.gif)
-![spade knight](../images/tarot/sc.gif)
-![spade jack](../images/tarot/sv.gif)
-![fool](../images/tarot/ex.gif)
-A player who holds three court cards of the same suit and the **fool** must declare a half cavallerie and state which court card s missing, e.g. "half diamonds, no 
-**knight**" (*halve ruder, mangler kaval*).
-![diamond king](../images/tarot/dr.gif)
-![diamond queen](../images/tarot/dd.gif)
-![diamond jack](../images/tarot/dv.gif)
-![fool](../images/tarot/ex.gif)
-Three court cards of a suit without the fool is not a valid declaration.**Kings**
+![roi de cœur](../images/tarot/hr.gif)
+![dame de cœur](../images/tarot/hd.gif)
+![cavalier de cœur](../images/tarot/hc.gif)
+![valet de cœur](../images/tarot/hv.gif)
 
-A player holding all four **kings** must declare "full kings" (*fulde konger*).
-![heart king](../images/tarot/hr.gif)
-![club king](../images/tarot/cr.gif)
-![diamond king](../images/tarot/dr.gif)
-![spade king](../images/tarot/sr.gif)
-With all four **kings** and the **fool**, he declares "abundant kings" (*sprøjtefulde konger*).
-![heart king](../images/tarot/hr.gif)
-![club king](../images/tarot/cr.gif)
-![diamond king](../images/tarot/dr.gif)
-![spade king](../images/tarot/sr.gif)
-![fool](../images/tarot/ex.gif)
-With three **kings** and the **fool**, the player declares "half kings" (*halve konger*) and must state the suit of the missing king.
-![club king](../images/tarot/cr.gif)
-![diamond king](../images/tarot/dr.gif)
-![spade king](../images/tarot/sr.gif)
-![fool](../images/tarot/ex.gif)
-Three kings without the fool is not a valid declaration.
+Un joueur qui détient l'**excuse** en plus des quatre figures doit déclarer une cavallerie abondante, par ex. « pique abondant » (*sprøjtefulde spar*).
 
-**Note:** In Danish, "fuld" means both "full" and "drunk", and "sprøjtefuld" is a somewhat outdated slangy expression for "seriously intoxicated".
+![roi de pique](../images/tarot/sr.gif)
+![dame de pique](../images/tarot/sd.gif)
+![cavalier de pique](../images/tarot/sc.gif)
+![valet de pique](../images/tarot/sv.gif)
+![excuse](../images/tarot/ex.gif)
 
-A player who has no declaration to make says "pass" (*pas*).
+Un joueur qui détient trois figures d'une même couleur et l'**excuse** doit déclarer une demi-cavallerie et indiquer quelle figure manque, par ex. « demi-carreau, sans **cavalier** » (*halve ruder, mangler kaval*).
 
-### Scoring, payment
+![roi de carreau](../images/tarot/dr.gif)
+![dame de carreau](../images/tarot/dd.gif)
+![valet de carreau](../images/tarot/dv.gif)
+![excuse](../images/tarot/ex.gif)
 
-Scoring is done in terms of immediate payment in tokens. Payment happens at several points during the game, and payment is effected both directly among the players and with two pots (*kop*, pl. *kopper*). All payment is in multiples of 5 units.
+Trois figures d'une couleur sans l'excuse ne constituent pas une déclaration valide.
 
-Each player has his own tokens (*jeton*, pl. *jetoner*). In addition there are two pots, the **pagat pot** (*pagatkoppen*) and the **king pot** (kongekoppen), which each contain some tokens. Payments are made at the following points during the game.
+**Rois**
 
-#### 1. Foundation (fundering)
+Un joueur détenant les quatre **rois** doit déclarer « pleins rois » (*fulde konger*).
 
-At the very beginning of the game, each player contributes 20 to each pot. Subsequently, whenever a pot is emptied, each player contributes 20 to that pot. If there are four players, these foundation payments are also made the player who is sitting out; this is the only payment required of a player sitting out. 
+![roi de cœur](../images/tarot/hr.gif)
+![roi de trèfle](../images/tarot/cr.gif)
+![roi de carreau](../images/tarot/dr.gif)
+![roi de pique](../images/tarot/sr.gif)
 
-#### 2. Dealing
+Avec les quatre **rois** et l'**excuse**, il déclare « rois abondants » (*sprøjtefulde konger*).
 
-The dealer pays 5 to each pot. This can be construed as payment for the privilege of choosing and knowing the contents of the skat. It can also be taken as payment for the privilege of the much higher likelihood of getting a good hand because of the extra three cards.
+![roi de cœur](../images/tarot/hr.gif)
+![roi de trèfle](../images/tarot/cr.gif)
+![roi de carreau](../images/tarot/dr.gif)
+![roi de pique](../images/tarot/sr.gif)
+![excuse](../images/tarot/ex.gif)
 
-#### 3. Declaring
+Avec trois **rois** et l'**excuse**, le joueur déclare « demi-rois » (*halve konger*) et doit indiquer la couleur du roi manquant.
 
-When a player makes an (obligatory) declaration, the other two players pay him immediately. This can be construed as payment for the information received. The schedule of payment is as follows.
+![roi de trèfle](../images/tarot/cr.gif)
+![roi de carreau](../images/tarot/dr.gif)
+![roi de pique](../images/tarot/sr.gif)
+![excuse](../images/tarot/ex.gif)
 
-- 10 trumps = 10. 11 trumps = 15. 12 trumps = 20. And so on (5 more for each additional trump).
+Trois rois sans l'excuse ne constituent pas une déclaration valide.
 
-- 3 matadors = 10. 4 matadors = 15. 5 matadors = 20. And so on (5 more for each additional matador).
+**Note :** En danois, « fuld » signifie à la fois « plein » et « ivre », et « sprøjtefuld » est une expression argotique quelque peu datée signifiant « sérieusement intoxiqué ».
 
-- abundant **kings** or cavallerie: 15
+Un joueur qui n'a aucune déclaration à faire dit « passe » (*pas*).
 
-- full **kings** or cavallerie: 10
+### Comptage, Paiements
 
-- half **kings** or cavallerie: 5
+Le comptage se fait en paiements immédiats en jetons. Les paiements ont lieu à plusieurs moments pendant le jeu, tant directement entre les joueurs qu'avec les deux pots (*kop*, pl. *kopper*). Tous les paiements sont en multiples de 5 unités.
 
-One card may belong to several declarations. This is especially true of the **fool**. All such declarations must be made and paid for independently.
+Chaque joueur a ses propres jetons (*jeton*, pl. *jetoner*). En outre, il y a deux pots, le **pot du pagat** (*pagatkoppen*) et le **pot des rois** (*kongekoppen*), qui contiennent chacun des jetons. Les paiements se font aux moments suivants.
 
-#### 4. During play, but not in the final trick
+#### 1. Fondation (fundering)
 
-When a player leads or plays a **king** to a trick, but does not win the trick, he pays 5 to each of the other two players and 5 to the **king pot**.
+Au tout début du jeu, chaque joueur contribue 20 à chaque pot. Par la suite, chaque fois qu'un pot est vidé, chaque joueur contribue 20 à ce pot. S'il y a quatre joueurs, ces paiements de fondation sont aussi effectués par le joueur qui ne joue pas ; c'est le seul paiement requis d'un joueur inactif.
 
-When a player leads or plays the **pagat** to a trick, but does not win the trick, he pays 5 to each of the other two players and 5 to the **pagat pot** .
+#### 2. Distribution
 
-When a player wins a trick with the **pagat**, the other two players each pay him 5 (but does not take anything from the pagat pot). (A variant of the game exists which does not recognize this payment. It is not clear which variant is the dominant one).
+Le donneur paie 5 à chaque pot. Cela peut être interprété comme le paiement pour le privilège de choisir et de connaître le contenu du skat. Cela peut aussi être vu comme le paiement pour le privilège de la probabilité beaucoup plus élevée d'obtenir une bonne main grâce aux trois cartes supplémentaires.
 
-#### 5. After the final trick
+#### 3. Déclarations
+
+Quand un joueur fait une déclaration (obligatoire), les deux autres joueurs le paient immédiatement. Le barème est le suivant.
+
+- 10 atouts = 10. 11 atouts = 15. 12 atouts = 20. Et ainsi de suite (5 de plus pour chaque atout supplémentaire).
+
+- 3 matadors = 10. 4 matadors = 15. 5 matadors = 20. Et ainsi de suite (5 de plus pour chaque matador supplémentaire).
+
+- **rois** ou cavallerie abondants : 15
+
+- **rois** ou cavallerie pleins : 10
+
+- demi-**rois** ou demi-cavallerie : 5
+
+Une carte peut appartenir à plusieurs déclarations. C'est particulièrement vrai pour l'**excuse**. Toutes ces déclarations doivent être faites et payées indépendamment.
+
+#### 4. Pendant le jeu, mais pas dans la dernière levée
+
+Quand un joueur mène ou joue un **roi** à une levée sans la gagner, il paie 5 à chacun des deux autres joueurs et 5 au **pot des rois**.
+
+Quand un joueur mène ou joue le **pagat** à une levée sans la gagner, il paie 5 à chacun des deux autres joueurs et 5 au **pot du pagat**.
+
+Quand un joueur gagne une levée avec le **pagat**, les deux autres joueurs lui paient chacun 5 (mais il ne prend rien au pot du pagat). (Il existe une variante qui ne reconnaît pas ce paiement.)
+
+#### 5. Après la dernière levée
 
 **Tout**
-If one player has taken all 25 tricks, he has made Tout, both the other active players pay 
-him 85. In addition he will receive payment from each player for the cards (see 
-below), and he also takes the contents of both pots, which then both need foundation (unless 
-there are simultaneous occurences of Bagud). 
+Si un joueur a pris les 25 levées, il a fait un Tout, les deux autres joueurs actifs lui paient 85. Il reçoit en outre le paiement de chaque joueur pour les cartes (voir ci-dessous), et il emporte aussi le contenu des deux pots, qui ont alors tous les deux besoin d'être refondus (sauf s'il y a des occurrences simultanées de Bagud).
+
 **Nolo**
-If just one player takes no tricks, he has made Nolo, and the two other players pay him 25. 
-When a player makes Nolo there is no score for the last trick or the cards, and Ulitimos do not 
-count. The Nolo itself does not count if another player wins Tout. 
-**Pagat Ultimo**.
-If a player wins the last trick with the **pagat**, and there is no Tout or 
-Nolo, that player receives 45 from each of the other two players. He also receives the contents 
-of the **pagat pot**, which then needs foundation.
-**King Ultimo**.
-If a player wins the last trick with a **king**, and there is no Tout or Nolo, 
-that player receives 40 from each of the other two players. He also receives the contents of 
-the **king pot**, which then needs foundation (unless there is a simultaneous 
-**king Bagud**, see below).
-**Pagat Bagud**.
-If a player plays the **pagat** to the last trick without winning the trick, that player pays 45 to each of the other two players. He also doubles the contents of the **pagat pot**. Payment is effected regardless of a simultaneous Tout, Nolo. (Simultaneous Ultimo is not possible.)
-**King Bagud**
-If a player plays a **king** to the last trick without winning the trick, that player pays 40 to each of the other two players. He also doubles the contents of the **king pot**. Payment is effected regardless of a simultaneous Tout, Nolo, or Ultimo.
-**Last Trick**
-If a player wins the last trick with a card other than a **king** or the 
-**pagat**, and there is no Tout, Nolo, or Bagud, he receives 20 from each of the 
-other two players.
-
-When several payments concerning the last trick affect the **king** pot, the 
-contents of the pot is first counted; then, if there is an Ultimo winner, he is paid; finally, 
-any player owing for Bagud pays the amount that was originally in the pot. Imagine, for 
-instance, that three **kings** are in the last trick (no Tout or Nolo) and the 
-**king pot** contains 135. The winner takes the 135, and each of the two losers 
-pays 135 to the pot, which then contains 270. 
-
-**Failed announced Tout.** If the dealer discarded the **fool** and announced a Tout, but failed to win every trick, he must double both pots and pay 85 to each opponent. No Ultimo is possible. When this happens it is likely that one of the other players will win a Nolo, which must also be paid for in the usual way. 
-
-Apparently the difference between 40 for **King Ultimo** and 45 for **Pagat 
-Ultimo** recognizes that winning the **pagat** in an earlier trick would be worth 5 on its own. 
+Si un seul joueur ne prend aucune levée, il a fait un Nolo, et les deux autres joueurs lui paient 25. Quand un joueur fait un Nolo, il n'y a pas de score pour la dernière levée ni pour les cartes, et les Ultimos ne comptent pas. Le Nolo ne compte pas si un autre joueur fait un Tout.
 
-#### 6. After the final trick payments are settled (the count)
-
-With the exception of the next dealer, who should be busy dealing the other pack, the players 
-count the value of their piles of tricks, according to the following schedule:
-
-- The **pagat**, **mondo**, the **fool**, and the four 
-**kings** each count 4 points.
+**Pagat Ultimo.**
+Si un joueur gagne la dernière levée avec le **pagat**, et qu'il n'y a ni Tout ni Nolo, ce joueur reçoit 45 de chacun des deux autres joueurs. Il reçoit aussi le contenu du **pot du pagat**, qui a alors besoin d'être refondu.
 
-- The four **queens** each count 3 points.
+**Roi Ultimo.**
+Si un joueur gagne la dernière levée avec un **roi**, et qu'il n'y a ni Tout ni Nolo, ce joueur reçoit 40 de chacun des deux autres joueurs. Il reçoit aussi le contenu du **pot des rois**, qui a alors besoin d'être refondu (sauf s'il y a un **roi Bagud** simultané, voir ci-dessous).
 
-- The four **knights** each count 2 points.
+**Pagat Bagud.**
+Si un joueur joue le **pagat** à la dernière levée sans la gagner, il paie 45 à chacun des deux autres joueurs. Il double aussi le contenu du **pot du pagat**. Le paiement est effectué indépendamment d'un Tout ou Nolo simultané. (Un Ultimo simultané n'est pas possible.)
 
-- The four **jacks** each count 1 point.
+**Roi Bagud**
+Si un joueur joue un **roi** à la dernière levée sans la gagner, il paie 40 à chacun des deux autres joueurs. Il double aussi le contenu du **pot des rois**. Le paiement est effectué indépendamment d'un Tout, Nolo ou Ultimo simultanés.
 
-- Each trick taken counts 1 point.
+**Dernière levée**
+Si un joueur gagne la dernière levée avec une carte autre qu'un **roi** ou le **pagat**, et qu'il n'y a ni Tout, Nolo ni Bagud, il reçoit 20 de chacun des deux autres joueurs.
 
-- The skat counts 1 point.
+Quand plusieurs paiements concernant la dernière levée affectent le **pot des rois**, le contenu du pot est d'abord compté ; puis, s'il y a un gagnant d'Ultimo, il est payé ; enfin, tout joueur redevable d'un Bagud paie le montant qui se trouvait à l'origine dans le pot. Imaginez par exemple que trois **rois** sont dans la dernière levée (ni Tout ni Nolo) et que le **pot des rois** contient 135. Le gagnant prend les 135, et chacun des deux perdants paie 135 au pot, qui contient alors 270.
 
-This amounts to 78 points in total (7*4 + 4*3 + 4*2 + 4*1 + 25 + 1) 
+**Tout annoncé raté.** Si le donneur a écarté l'**excuse** et annoncé un Tout, mais n'a pas réussi à gagner chaque levée, il doit doubler les deux pots et payer 85 à chaque adversaire. Aucun Ultimo n'est possible. Quand cela se produit, il est probable qu'un des autres joueurs fera un Nolo, qui doit aussi être payé de la manière habituelle.
 
-In practice, the player simply counts 1 point for every three cards in the trick pile. The 
-trick with the **fool** will have moved one card from one pile to another, but that 
-should not confuse the counting player.
+Apparemment, la différence de 40 pour le **Roi Ultimo** et de 45 pour le **Pagat Ultimo** reconnaît que gagner le **pagat** dans une levée antérieure vaudrait 5 par lui-même.
 
-The total number of points counted for each player is compared with 26. The difference is 
-rounded off to the nearest multiple of 5. The corresponding number of tokens is paid to the 
-new dealer by a player with fewer than 26 points, or received from the new dealer by a player 
-with more than 26 points. The most common payments are summarized in the table:
+#### 6. Après le règlement des paiements de la dernière levée (le décompte)
 
-**Point count**
-**14-18** pay new dealer 10
-**19-23** pay new dealer 5
-**24-28** no payment
-**29-33** receive 5 from new dealer
-**34-38** receive 10 from new dealer 
+À l'exception du nouveau donneur, qui devrait être occupé à distribuer l'autre jeu, les joueurs comptent la valeur de leurs tas de levées selon le barème suivant :
 
-When there is a Nolo, there is no payment for point count.
+- Le **pagat**, le **mondo**, l'**excuse** et les quatre **rois** comptent chacun 4 points.
 
-#### 7. After the final hand of the session has been played.
+- Les quatre **dames** comptent chacune 3 points.
 
-The contents of the two pots are divided evenly among the three (or four) players.
+- Les quatre **cavaliers** comptent chacun 2 points.
 
-## Proprieties
+- Les quatre **valets** comptent chacun 1 point.
 
-Tarok is a game of controlled communication among the players. Hence it is a game with no conversation and no body language during play. Information should be exchanged only through declarations of card combinations and the play of the cards. 
+- Chaque levée prise compte 1 point.
 
-In two cases it is considered improper to play safe in order to avoid Bagud:
+- Le skat compte 1 point.
 
-Consider the following end game with two tricks to go: 
+Cela donne un total de 78 points (7×4 + 4×3 + 4×2 + 4×1 + 25 + 1).
 
-Position 1: 
-A: **![diamond](../images/internat/diamond.gif)R**, 
-**T7** 
-B: **![heart](../images/internat/heart.gif)R**, 
-**![diamond](../images/internat/diamond.gif)9** 
-C: **![club](../images/internat/club.gif)7**, 
-**![club](../images/internat/club.gif)2**
+En pratique, le joueur compte simplement 1 point pour trois cartes dans le tas de levées. La levée avec l'**excuse** aura déplacé une carte d'un tas à l'autre, mais cela ne doit pas perturber le comptage.
 
-If A is on lead, he can play the last trump and win his **king Ultimo**. If C is 
-on lead, A's Ultimo is automatic. In both these cases, B will play the 
-**![heart](../images/internat/heart.gif)R** and avoid Bagud. But if 
-B is on lead, his play of the 
-**![heart](../images/internat/heart.gif)R** will allow A to win his 
-**king Ultimo**, whereas a diamond will drive out the 
-**![diamond](../images/internat/diamond.gif)R**, preventing the 
-Ultimo at the cost of B's Bagud. It is normally accepted that in such a situation B is morally 
-obliged to lose his Bagud, even though it is not in his interest (especially if the 
-**king** pot is much richer than the **pagat** pot). 
-The reasoning behind this is that the player's first obligation is to protect the values in the 
-pots, and he therefore should not be holding on to his **king** if he cannot 
-guarantee that there will not be another Ultimo.
+Le nombre total de points comptés pour chaque joueur est comparé à 26. La différence est arrondie au multiple de 5 le plus proche. Le nombre correspondant de jetons est payé au nouveau donneur par un joueur ayant moins de 26 points, ou reçu du nouveau donneur par un joueur ayant plus de 26 points. Les paiements les plus courants sont résumés dans le tableau :
 
-Here are two other positions, still two tricks to go, B on lead:
+**Décompte de points**
+**14-18** paient 10 au nouveau donneur
+**19-23** paient 5 au nouveau donneur
+**24-28** aucun paiement
+**29-33** reçoivent 5 du nouveau donneur
+**34-38** reçoivent 10 du nouveau donneur
 
-Position 2: 
-A: **T10**, **T7** 
-B: **![heart](../images/internat/heart.gif)R**, **![diamond](../images/internat/diamond.gif)9** 
-C: **![heart](../images/internat/heart.gif)3**, **![heart](../images/internat/heart.gif)4**
+Quand il y a un Nolo, il n'y a pas de paiement pour le décompte des points.
 
-Position 3: 
-A: **T10**, **![heart](../images/internat/heart.gif)3** 
-B: **![heart](../images/internat/heart.gif)R**, **![diamond](../images/internat/diamond.gif)9** 
-C: **T7**, **![heart](../images/internat/heart.gif)4**
+#### 7. Après la dernière donne de la session
 
-Leading the **![diamond](../images/internat/diamond.gif)9** leads to Bagud in position 2 and to Ultimo in position 3. Leading the Heart **king** concedes the last trick, gives up the chance of Ultimo, and removes the risk of Bagud. It is normally accepted that if B has no information to distinguish the two positions, he should take the chance, run the risk of Bagud, and play the **![diamond](../images/internat/diamond.gif)9**.
+Le contenu des deux pots est réparti équitablement entre les trois (ou quatre) joueurs.
 
-Sometimes a player has a choice of going for a **king** Ultimo or a 
-**pagat** Ultimo. If there is a considerable difference in the value of the two pots, it is considered proper to go for the most profitable pot. However, it is not considered proper to seek information about the contents of the pots during the play of a hand.
+## Bienséance
 
-## Logistics, The fourth player
+Le Tarok est un jeu de communication contrôlée entre les joueurs. C'est donc un jeu sans conversation et sans langage corporel pendant la partie. L'information ne doit être échangée que par les déclarations de combinaisons de cartes et le jeu des cartes.
 
-Payment is made by means of chips or tokens. The **king** pot and the 
-**pagat** pot are maintained in specially designed cups, marked with a crown and 
-the figure 1 respectively. Or they are simply kept in a normal cup and saucer, the king pot 
-being the cup.
+Dans deux cas, il est considéré incorrect de jouer prudemment pour éviter un Bagud :
 
-Usually two decks are used. While one is being dealt, the player on the dealer's left shuffles 
-the other deck and places it on his own left.
+Considérons la fin de partie suivante avec deux levées restantes :
 
-Players should not pick up the cards until the dealer has finished dealing and verified that he 
-himself receives eight cards at the end. The dealer does this by making the somewhat confusing 
-statement "the discard is ready" (*"skaten er klar"*).
+Position 1 :
+A : **![carreau](../images/internat/diamond.gif)R**, **T7**
+B : **![cœur](../images/internat/heart.gif)R**, **![carreau](../images/internat/diamond.gif)9**
+C : **![trèfle](../images/internat/club.gif)7**, **![trèfle](../images/internat/club.gif)2**
 
-The position of the pots on the table signifies who the dealer is. After play ends, the pots should be on the previous dealer's right, which is the new dealer's left. Once all payments have been settled, the new dealer pays for the privilege of dealing in each pot and simultaneously moves the pots from his left to his right, thus signaling that he has indeed paid for dealing. If there has been an Ultimo or Bagud, he may be well into the deal before all the payments of the previous deal has been settled. Any doubt that arises as to whether the dealer has paid for his privilege is resolved by the position of the pots.
+Si A mène, il peut jouer le dernier atout et gagner son **roi Ultimo**. Si C mène, l'Ultimo de A est automatique. Dans les deux cas, B jouera le **![cœur](../images/internat/heart.gif)R** et évitera le Bagud. Mais si B mène, son jeu du **![cœur](../images/internat/heart.gif)R** permettra à A de gagner son **roi Ultimo**, alors qu'un carreau chasserait le **![carreau](../images/internat/diamond.gif)R**, empêchant l'Ultimo au prix du Bagud de B. Il est généralement admis que dans une telle situation B est moralement obligé de perdre son Bagud, même si ce n'est pas dans son intérêt (surtout si le **pot des rois** est beaucoup plus riche que le **pot du pagat**).
 
-A player who has not been dealt any trumps (the **fool** does not count as a trump here) may declare a misdeal and require that the same dealer shuffles and deals again.
+La logique est que la première obligation du joueur est de protéger les valeurs dans les pots, et qu'il ne devrait donc pas conserver son **roi** s'il ne peut pas garantir qu'il n'y aura pas un autre Ultimo.
 
-Tarok can be played in a company of four. The player opposite the dealer sits out, and takes over the obligation of shuffling the extra pack, leaving it on his own left. In general, he may observe the game but make no sound or gesture during play. The fourth player does not participate in payments, except when an empty cup needs foundation.
+Voici deux autres positions, toujours avec deux levées restantes, B menant :
 
-A fourth player joining a party of three can enter the game by adding to each pot one third of what is already there.
+Position 2 :
+A : **T10**, **T7**
+B : **![cœur](../images/internat/heart.gif)R**, **![carreau](../images/internat/diamond.gif)9**
+C : **![cœur](../images/internat/heart.gif)3**, **![cœur](../images/internat/heart.gif)4**
 
-The winner of a pot is responsible for ensuring the subsequent foundation (when needed). If the pot is later found to be deficient, he must complete the pot from his own funds.
+Position 3 :
+A : **T10**, **![cœur](../images/internat/heart.gif)3**
+B : **![cœur](../images/internat/heart.gif)R**, **![carreau](../images/internat/diamond.gif)9**
+C : **T7**, **![cœur](../images/internat/heart.gif)4**
 
-## Irregularities during play - fines
+Mener le **![carreau](../images/internat/diamond.gif)9** mène au Bagud dans la position 2 et à l'Ultimo dans la position 3. Mener le roi de cœur concède la dernière levée, renonce à la chance d'Ultimo et élimine le risque de Bagud. Il est généralement admis que si B n'a aucune information pour distinguer les deux positions, il devrait tenter sa chance, prendre le risque de Bagud et jouer le **![carreau](../images/internat/diamond.gif)9**.
 
-If an irregularity occurs during play, the players must agree on the severity, and a fine is then paid. If four players are in the game, and no agreement can be reached, the fourth player can be used as arbiter. There are four categories of irregularities: 
+Parfois un joueur a le choix entre un **roi** Ultimo ou un **pagat** Ultimo. S'il y a une différence considérable dans la valeur des deux pots, il est correct de viser le pot le plus rentable. Cependant, il n'est pas correct de chercher à obtenir des informations sur le contenu des pots pendant une donne.
 
-**Superficial.** No fine. Examples are
+## Logistique, Le quatrième joueur
 
-- Wrong number of cards after dealing, when the player with too many cards still has not seen the face of his cards.
+Les paiements se font au moyen de jetons. Le **pot des rois** et le **pot du pagat** sont maintenus dans des gobelets spécialement conçus, marqués d'une couronne et du chiffre 1. Ou ils sont simplement gardés dans une tasse et une soucoupe normales, le pot des rois étant la tasse.
 
-- Revoke (failure to follow suit or failure to play a trump on a trick where a player cannot follow suit), provided that the revoke can be corrected without divulging essential information and without unduly influencing the play.
+On utilise généralement deux jeux. Pendant que l'un est distribué, le joueur à la gauche du donneur mélange l'autre jeu et le place à sa propre gauche.
 
-- Naming the **fool** in a suit that cannot be followed.
+Les joueurs ne doivent pas ramasser les cartes avant que le donneur ait fini de distribuer et vérifié qu'il reçoit bien huit cartes à la fin. Le donneur le fait en prononçant la phrase quelque peu déroutante « l'écart est prêt » (*« skaten er klar »*).
 
-- Declarations can be corrected without penalty until the opening lead; but only if the correction does not divulge essential information. (It is acceptable to correct a declaration of 12 trumps to 11, but not to correct a declaration of 10 trumps to "pass").
+La position des pots sur la table indique qui est le donneur. Après la fin de la partie, les pots devraient être à la droite du donneur précédent, c'est-à-dire à la gauche du nouveau donneur. Une fois tous les paiements réglés, le nouveau donneur paie pour le privilège de distribuer dans chaque pot et déplace simultanément les pots de sa gauche vers sa droite, signalant ainsi qu'il a effectivement payé. S'il y a eu un Ultimo ou un Bagud, il peut être bien avancé dans la distribution avant que tous les paiements de la donne précédente soient réglés. Tout doute sur le fait que le donneur a payé est résolu par la position des pots.
 
-**Minor.** 5 in each pot. Examples are
+Un joueur qui n'a reçu aucun atout (l'**excuse** ne compte pas comme un atout ici) peut déclarer une maldonne et exiger que le même donneur mélange et distribue à nouveau.
 
-- Failure to move the pots after paying for dealing.
+Le Tarok peut se jouer à quatre. Le joueur en face du donneur est inactif et reprend l'obligation de mélanger le jeu supplémentaire, le laissant à sa gauche. En général, il peut observer le jeu mais ne faire ni son ni geste pendant la partie. Le quatrième joueur ne participe pas aux paiements, sauf quand un pot vide a besoin d'être refondu.
 
-- Wrong number of cards dealt in such a way that the cards must be redealt. (Same dealer)
+Un quatrième joueur rejoignant une partie de trois peut entrer dans le jeu en ajoutant à chaque pot un tiers de ce qui s'y trouve déjà.
 
-**Major.** 20 in each pot. Play continues. 
-Examples include
+Le gagnant d'un pot est responsable de s'assurer que la fondation ultérieure est effectuée (quand nécessaire). Si le pot s'avère ultérieurement insuffisant, il doit le compléter avec ses propres fonds.
 
-- Making a declaration before the dealer has discarded and made his declarations.
+## Irrégularités pendant le jeu — amendes
 
-- Lead out of turn. The lead is taken back.
+S'il se produit une irrégularité pendant le jeu, les joueurs doivent s'accorder sur sa gravité, et une amende est alors payée. S'il y a quatre joueurs et qu'aucun accord ne peut être trouvé, le quatrième joueur peut servir d'arbitre. Il y a quatre catégories d'irrégularités :
 
-- Premature play of a card. The card cannot be taken back.
+**Superficielle.** Pas d'amende. Exemples :
 
-- Calling for the **fool** when it has already been played.
+- Nombre incorrect de cartes après la distribution, quand le joueur ayant trop de cartes n'a pas encore vu le recto de ses cartes.
 
-**Irrecoverable. ** 40 in each pot. Play abandoned. New player deals. Examples include
+- Renonce (défaut de suivre la couleur ou de jouer un atout quand on ne peut pas suivre), pourvu que la renonce puisse être corrigée sans révéler d'information essentielle et sans influencer indûment le jeu.
 
-- Improper discarding. Cannot be corrected once the player to the right of the dealer makes his declarations.
+- Nommer l'**excuse** dans une couleur qui ne peut être suivie.
 
-- Irrecoverable revoke.
+- Les déclarations peuvent être corrigées sans pénalité jusqu'à la première carte menée ; mais seulement si la correction ne révèle pas d'information essentielle. (Il est acceptable de corriger une déclaration de 12 atouts en 11, mais pas de corriger une déclaration de 10 atouts en « passe »).
 
-- Errors in declarations that are not superficial. The bonus received for the wrong declaration is paid back. The error is not penalized if discovered after all payments have been made at the end of play.
+**Mineure.** 5 dans chaque pot. Exemples :
 
-- A player holds the wrong number of cards, as discovered during play (i.e., after the opening lead has been made).
+- Oubli de déplacer les pots après avoir payé pour la distribution.
 
-## Variations
+- Nombre incorrect de cartes distribué de sorte que les cartes doivent être redistribuées. (Même donneur.)
 
-There are several minor variations in the discard restrictions for the dealer.
+**Majeure.** 20 dans chaque pot. Le jeu continue. Exemples :
 
-- Some play that the **fool** can never be discarded, in which case it is impossible for the dealer to play for Tout if he holds the fool.
+- Faire une déclaration avant que le donneur n'ait écarté et fait ses propres déclarations.
 
-- Some play that if the dealer discards trumps, at the point in the play when he shows void of trumps he must, if asked, declare not only that he has discarded trumps, but also how many trumps he discarded.
+- Mener hors tour. La carte menée est reprise.
 
-- Formerly it was legal to discard the the **pagat** (but not the **mondo**) in order to create a void in trumps. This rule is given by J.V.V.
-Hermansen in his classic manual *Tarok* (1926) and may possibly still be observed by some players. However, Hans Jørgen Møller, author of *Tarok* (1988), informs me that all clubs now use the rule that ultimo cards can never be discarded.
+- Jeu prématuré d'une carte. La carte ne peut pas être reprise.
 
-## Danish Tarok compared with other Tarot games
+- Exiger l'**excuse** alors qu'elle a déjà été jouée.
 
-For readers who have a general knowledge of other tarot games, the game can be summarized in these terms: 
+**Irrécupérable.** 40 dans chaque pot. Jeu abandonné. Nouveau joueur distribue. Exemples :
 
-- Danish Tarok is a game for three players using the full 78 card pack. It is unlike most modern tarot games in that there is no bidding and no formal partnerships. However, an informal alliance often forms against the player with the strongest cards.
+- Écart irrégulier. Ne peut être corrigé une fois que le joueur à la droite du donneur a fait ses déclarations.
 
-- It is the last surviving member of a group of games, typified by **Großtarok**, which were played throughout Germany, and in many neighbouring countries from the late 18th century and through most of the 19th century.
+- Renonce irrécupérable.
 
-- The **fool** is used as an excuse, not as the highest trump: the fool can never take a trick and can be played instead of following suit. 
+- Erreurs dans les déclarations qui ne sont pas superficielles. Le bonus reçu pour la mauvaise déclaration est remboursé. L'erreur n'est pas pénalisée si elle est découverte après que tous les paiements ont été effectués à la fin du jeu.
 
-- Scoring is dominated by special pots that are awarded to a player winning Ultimo (i.e. making the final trick with a **king** or the **pagat**), but other payments among the players are frequent. The bonuses and penalties are such that winning Ultimo, or conversely, preventing other players from winning Ultimo, is the major purpose of the game, overshadowing all other purposes. Still, tricks taken and counting cards have some value. 
+- Un joueur détient un nombre incorrect de cartes, découvert pendant le jeu (c'est-à-dire après la première carte menée).
 
-- Normal tarot-style rules for leading, following, and trumping apply. French Tarot players should note that there is no obligation to play higher when playing a trump; also that the ranking of the spot cards has not been rationalised as it has in France; the traditional order has been preserved, with the red suit spot cards ranking in reverse order.
+## Variantes
 
-## References and Web Sites
+Il existe plusieurs variantes mineures dans les restrictions d'écart pour le donneur.
 
-- Emil Wolff: * Tarok*. København: H. Hagerups Forlag 1899.
+- Certains jouent que l'**excuse** ne peut jamais être écartée, auquel cas il est impossible pour le donneur de jouer le Tout s'il détient l'excuse.
 
-- Oberstløjtnant R. L. Borch: *Tarok. En vejledning i Spillets Regler og Anvendelse.* 1924. Reprinted 1959 by "Tarokklubben af 1959".
+- Certains jouent que si le donneur écarte des atouts, au moment où il se révèle sans atout il doit, si on le lui demande, déclarer non seulement qu'il a écarté des atouts, mais aussi combien il en a écartés.
 
-- J. V. V. Hermansen: * Tarok.* Published 1943.
+- Autrefois, il était légal d'écarter le **pagat** (mais pas le **mondo**) pour créer un vide en atouts. Cette règle est donnée par J.V.V. Hermansen dans son manuel classique *Tarok* (1926) et peut encore être observée par quelques joueurs. Cependant, Hans Jørgen Møller, auteur de *Tarok* (1988), informe que tous les clubs utilisent désormais la règle selon laquelle les cartes d'Ultimo ne peuvent jamais être écartées.
 
-- H. J. Møller: *Tarok: En vejledning i det ædle kortspil*. København: Strubes forlag 1988.
+## Le Tarok danois comparé aux autres jeux de Tarot
 
-Reference 2 has been used here to resolve disagreements among the sources regarding the finer points of the rules. 
+Pour les lecteurs qui ont une connaissance générale des autres jeux de tarot, le jeu peut être résumé ainsi :
 
-Here is the web site of the [Dansk Tarokforbund](https://www.dansk-tarok.dk/index.html) with club information and a blog. On this site, Hans Møller has published a [history of Danish Tarok](https://www.dansk-tarok.dk/2011%20tarokhistorie_HJM.pdf) analysing changes in the game over the last two centuries. Here is an English translation of this history.
+- Le Tarok danois est un jeu à trois joueurs utilisant le jeu complet de 78 cartes. Il diffère de la plupart des jeux de tarot modernes en ce qu'il n'y a ni enchères ni partenariats formels. Cependant, une alliance informelle se forme souvent contre le joueur ayant les cartes les plus fortes.
 
-## Danish Tarok Online
+- C'est le dernier survivant d'un groupe de jeux, typifié par le **Großtarok**, qui étaient joués dans toute l'Allemagne et dans de nombreux pays voisins de la fin du XVIIIe siècle à la majeure partie du XIXe siècle.
 
-Danish Tarok is available to play online under the name [Grosstarok](https://boardgamearena.com/gamepanel?game=grosstarock) at Board Game Arena.
+- L'**excuse** est utilisée comme carte d'excuse, et non comme l'atout le plus élevé : l'excuse ne peut jamais prendre de levée et peut être jouée au lieu de suivre.
 
-*Card images used with permission of France Cartes*
+- Le comptage est dominé par des pots spéciaux attribués à un joueur gagnant l'Ultimo (c'est-à-dire remportant la dernière levée avec un **roi** ou le **pagat**), mais d'autres paiements entre joueurs sont fréquents. Les bonus et pénalités sont tels que gagner l'Ultimo, ou inversement empêcher d'autres joueurs de le gagner, est le but principal du jeu, primant tous les autres objectifs. Les levées prises et les cartes de comptage ont tout de même une certaine valeur.
 
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tarok (Danish)
+- Les règles normales de tarot pour mener, suivre et atouter s'appliquent. Les joueurs de Tarot français noteront qu'il n'y a aucune obligation de jouer plus haut lorsqu'on joue un atout ; aussi, le rang des cartes numériques n'a pas été rationalisé comme en France ; l'ordre traditionnel a été préservé, avec les cartes numériques des couleurs rouges dans l'ordre inverse.
+
+## Références et sites web
+
+- Emil Wolff : *Tarok*. Copenhague : H. Hagerups Forlag 1899.
+
+- Oberstløjtnant R. L. Borch : *Tarok. En vejledning i Spillets Regler og Anvendelse.* 1924. Réimprimé en 1959 par « Tarokklubben af 1959 ».
+
+- J. V. V. Hermansen : *Tarok.* Publié en 1943.
+
+- H. J. Møller : *Tarok: En vejledning i det ædle kortspil*. Copenhague : Strubes forlag 1988.
+
+La référence 2 a été utilisée ici pour résoudre les désaccords entre les sources concernant les points fins des règles.
+
+Voici le site du [Dansk Tarokforbund](https://www.dansk-tarok.dk/index.html) avec des informations sur les clubs et un blog. Sur ce site, Hans Møller a publié une [histoire du Tarok danois](https://www.dansk-tarok.dk/2011%20tarokhistorie_HJM.pdf) analysant les changements du jeu au cours des deux derniers siècles.
+
+## Tarok danois en ligne
+
+Le Tarok danois est disponible en ligne sous le nom de [Grosstarok](https://boardgamearena.com/gamepanel?game=grosstarock) sur Board Game Arena.
+
+*Images de cartes utilisées avec la permission de France Cartes*

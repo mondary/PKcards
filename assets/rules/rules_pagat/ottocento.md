@@ -1,490 +1,452 @@
-# Tarocchi Bolognesi: Ottocento
+# Tarocchi Bolognesi : Ottocento
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** A four-player game played in and around Bologna with a special Tarocchi pack of 62 cards, and some related games.
+**But :** Jeu à quatre joueurs pratiqué à Bologne et ses environs avec un jeu de Tarocchi spécial de 62 cartes, ainsi que quelques jeux apparentés.
 
 ---
 
-This page is based on a description that was contributed by Alan Trangmar in 1996, which in turn relied heavily on research by Michael Dummett, as published in his book The Game of Tarot (Duckworth 1980). Some corrections have been made based on comments from Maurizio Barilli and further information and advice from members of the [Accademia del Tarocchino Bolognese](https://www.tarocchinobolognese.it). 
+Cette page est basée sur une description contributed par Alan Trangmar en 1996, qui s'appuyait elle-même largement sur les recherches de Michael Dummett, publiées dans son livre The Game of Tarot (Duckworth 1980). Des corrections ont été apportées à partir des commentaires de Maurizio Barilli et d'informations et conseils supplémentaires de membres de l'[Accademia del Tarocchino Bolognese](https://www.tarocchinobolognese.it).
 
 ## Introduction
 
-Ottocento is a Tarot game for 4 players which comes from Bologna. Tarot games have been played in that city for over 500 years, and the game of Ottocento as currently played preserves distinct characteristics (both of the games and of the pack of cards) which go back at least to the 16th century. The special 62-card pack that is used and the game itself was sometimes referred to as Tarocchino (pronounced tarokino), the diminutive form of Tarocco referring to the reduction of the pack many centuries ago from 78 to 62 cards. 
+L'Ottocento est un jeu de Tarot pour 4 joueurs originaire de Bologne. Les jeux de tarot y sont pratiqués depuis plus de 500 ans, et l'Ottocento tel qu'il est joué actuellement conserve des caractéristiques distinctives (du jeu et du jeu de cartes) qui remontent au moins au XVIe siècle. Le jeu spécial de 62 cartes utilisé et le jeu lui-même étaient parfois appelés Tarocchino (prononcé tarokino), forme diminutive de Tarocco faisant référence à la réduction du jeu de 78 à 62 cartes il y a de nombreux siècles.
 
-Ottocento is a point-trick game, with trumps. The cards have point values individually (as in other Tarot games) but these are dominated by the much greater value of the various card combinations. There is no bidding, but players can score by declaring card combinations held in their hands at the start of play, as well as for combinations taken in tricks.
+L'Ottocento est un jeu de levées comptant des points, avec des atouts. Les cartes ont des valeurs individuelles (comme dans les autres jeux de Tarot) mais celles-ci sont dominées par la valeur beaucoup plus grande des diverses combinaisons de cartes. Il n'y a pas d'enchères, mais les joueurs peuvent marquer des points en déclarant des combinaisons de cartes détenues dans leur main au début du jeu, ainsi que pour des combinaisons prises dans les levées.
 
-## Players
+## Joueurs
 
-There are four players, two against two in fixed partnerships. Play is anticlockwise.
+Il y a quatre joueurs, deux contre deux en partenariats fixes. Le jeu se fait dans le sens antihoraire.
 
-## Cards
+## Cartes
 
-The pack is known as the Tarocco Bolognese - the version of the Tarot pack which has been used at Bologna since the 16th century. The cards are also commonly known as '*carte lunghi*' (long cards) as they are physically longer than the cards of the Piacentine pattern that are generally used in that area for other card games such as Tressette. Tarocco Bolognese packs are produced and sold by the main Italian playing-card manufacturers Modiano and Dal Negro. They are somewhat similar to other Italian-suited Tarot packs, but omit the 2 to the 5 of each plain suit, and have other peculiarities found only at Bologna.
+Le jeu est connu sous le nom de Tarocco Bolognese — la version du jeu de Tarot utilisée à Bologne depuis le XVIe siècle. Les cartes sont aussi couramment appelées '*carte lunghi*' (cartes longues) car elles sont physiquement plus longues que les cartes du modèle piacentino généralement utilisé dans cette région pour d'autres jeux de cartes comme la Tressette. Les jeux de Tarocco Bolognese sont produits et vendus par les principaux fabricants italiens de cartes à jouer Modiano et Dal Negro. Ils ressemblent quelque peu aux autres jeux de tarot aux couleurs italiennes, mais omettent le 2 au 5 de chaque couleur ordinaire, et présentent d'autres particularités propres à Bologne.
 
-### Rank of Cards
+### Rang des cartes
 
-There are 4 suits: 10 card each in swords (*spade*), batons (*bastoni*), coins (*denari*) and cups (*coppe*), plus 21 trumps, often referred to in Italian as *numeri* (numbers), plus one special card, the *Matto*, making a total of 62 cards. The rank of the cards from highest to lowest is: 
+Il y a 4 couleurs de 10 cartes chacune : épées (*spade*), bâtons (*bastoni*), deniers (*denari*) et coupes (*coppe*), plus 21 atouts, souvent appelés *numeri* (nombres) en italien, plus une carte spéciale, le *Matto*, soit un total de 62 cartes. Le rang des cartes du plus haut au plus bas est :
 
-- in swords and batons: King (*Re*), Queen (*Regina*), Knight (*Cavallo*), Jack (*Fante*), 10, 9, 8, 7, 6, Ace (*Asso*) 
-- in cups and coins: King, Queen, Knight, Jack, Ace, 6, 7, 8, 9, 10
+- dans les épées et bâtons : Roi (*Re*), Dame (*Regina*), Cavalier (*Cavallo*), Valet (*Fante*), 10, 9, 8, 7, 6, As (*Asso*)
+- dans les coupes et deniers : Roi, Dame, Cavalier, Valet, As, 6, 7, 8, 9, 10
 
-- in trumps: Angel (Angelo), World (Mondo), Sun
-(Sole), Moon (Luna), 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, the four Moors (*Mori* or *Moretti*), *Bégato* 
+- dans les atouts : Ange (Angelo), Monde (Mondo), Soleil
+(Sole), Lune (Luna), 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, les quatre Maures (*Mori* ou *Moretti*), *Bégato*
 
-The Angel, World, Bégato and Matto are also known as the tarocchi.
+L'Ange, le Monde, le Bégato et le Matto sont aussi appelés les tarocchi.
 
-The Matto has no rank and is played according to a special rule, see Play.
+Le Matto n'a pas de rang et se joue selon une règle spéciale, voir Jeu.
 
-All the numbered trumps also have pictures on them, for instance the 16 is the Star, the 15 is the Tower, and so on, but the numbers are the simplest way to identify them.
+Tous les atouts numérotés portent également des images, par exemple le 16 est l'Étoile, le 15 la Tour, et ainsi de suite, mais les nombres sont le moyen le plus simple de les identifier.
 
-In play the four Moors are all equivalent (although they are not all visually identical - see below). If two or more Moors are played to a trick and no higher trump is played then the last Moor played wins.
+En jeu, les quatre Maures sont tous équivalents (bien qu'ils ne soient pas visuellement identiques — voir ci-dessous). Si deux Maures ou plus sont joués dans une levée et qu'aucun atout supérieur n'est joué, le dernier Maure joué gagne.
 
-(It is interesting to note in passing that this means there are 5 trumps ranked below the 5, and only 4 above the 16, so the numbers are not "correct". The most satisfying explanation of this is that the trump sequence was already established before the numbering was introduced and the numbers were chosen to retain the association of 13 with the death card).
+(Il est intéressant de noter que cela signifie qu'il y a 5 atouts classés en dessous du 5, et seulement 4 au-dessus du 16, de sorte que les nombres ne sont pas « corrects ». L'explication la plus satisfaisante est que la séquence des atouts était déjà établie avant l'introduction de la numérotation et que les nombres ont été choisis pour conserver l'association du 13 avec la carte de mort.)
 
-### Identification of Cards
+### Identification des cartes
 
-At first sight, some of the cards in the pack may be hard to identify for those not familiar with them. In fact the pack is perfectly practical to play with (as 5 centuries of use have demonstrated), and after a little practice the designs are easy to recognise.
+À première vue, certaines cartes du jeu peuvent être difficiles à identifier pour ceux qui ne sont pas familiarisés avec elles. En fait, le jeu est parfaitement pratique à jouer (comme 5 siècles d'utilisation l'ont démontré), et après un peu de pratique les dessins sont faciles à reconnaître.
 
-Numbered trumps: If there's a number on a card then it's a trump (whatever the picture may look like). In practice the most confusing one is the 8 of trumps (Justice) which shows a woman carrying some scales and a prominent sword, which might cause you to mistake it for a court card of the swords suit. You can tell it is in fact a trump from the fact that it has a figure **8** on it.
+Atouts numérotés : S'il y a un nombre sur une carte, c'est un atout (quelle que soit l'image). En pratique, le plus déroutant est le 8 d'atouts (Justice) qui représente une femme portant des balances et une épée proéminente, ce qui pourrait vous amener à la confondre avec une figure de la couleur d'épées. Vous pouvez reconnaître qu'il s'agit en fait d'un atout par la présence du chiffre **8** dessus.
 
-Unnumbered trumps: These are the most important cards in the pack: learn them and wake up if you see one!
+Atouts non numérotés : Ce sont les cartes les plus importantes du jeu : apprenez-les et soyez attentif si vous en voyez une !
 
-![angel](../images/bolog/ang.gif)![world](../images/bolog/mon.gif)![sun](../images/bolog/sol.gif)![moon](../images/bolog/lun.gif)
+![ange](../images/bolog/ang.gif)![monde](../images/bolog/mon.gif)![soleil](../images/bolog/sol.gif)![lune](../images/bolog/lun.gif)
 
-The top four trumps are the **angel**, the **world**, the **sun** and the **moon**. The angel blows a trumpet, the world is round, and the sun and the moon have fairly obvious pictures of these heavenly bodies.
+Les quatre atouts supérieurs sont l'**ange**, le **monde**, le **soleil** et la **lune**. L'ange souffle dans une trompette, le monde est rond, et le soleil et la lune ont des images assez évidentes de ces corps célestes.
 
-![moor](../images/bolog/mor1.gif)![moor](../images/bolog/mor2.gif)![moor](../images/bolog/mor2.gif)![moor](../images/bolog/mor3.gif)
+![maure](../images/bolog/mor1.gif)![maure](../images/bolog/mor2.gif)![maure](../images/bolog/mor2.gif)![maure](../images/bolog/mor3.gif)
 
-Immediately below the 5 of trumps come the four Moors. Two look the same, the other two look different, but all have equal rank during the play.
+Juste en dessous du 5 d'atouts viennent les quatre Maures. Deux se ressemblent, les deux autres sont différents, mais tous ont le même rang pendant le jeu.
 
 ![Bégato](../images/bolog/beg.gif)
 
-The **Bégato** is standing behind a table. He is the lowest trump, and is valuable as a counting card, as one of the tarocchi, and for his role in sequences.
+Le **Bégato** se tient derrière une table. C'est l'atout le plus bas, et il est précieux comme carte comptant, comme l'un des tarocchi, et pour son rôle dans les séquences.
 
 ![matto](../images/bolog/mat.gif)
 
-The **Matto** is not a trump. He beats nothing but a drum (see rules of play). 
+Le **Matto** n'est pas un atout. Il ne bat rien, seulement un tambour (voir règles du jeu).
 
-![king of swords](../images/bolog/rs.gif)![king of batons](../images/bolog/rb.gif)![king of cups](../images/bolog/rc.gif)![king of coins](../images/bolog/rd.gif)
+![roi d'épées](../images/bolog/rs.gif)![roi de bâtons](../images/bolog/rb.gif)![roi de coupes](../images/bolog/rc.gif)![roi de deniers](../images/bolog/rd.gif)
 
-Here are the four Kings, of swords, batons, cups and coins. They all have crowns; two of them have beards, and the other two have their heads tilted to one side.
+Voici les quatre Rois, d'épées, de bâtons, de coupes et de deniers. Ils ont tous des couronnes ; deux d'entre eux ont une barbe, et les deux autres ont la tête inclinée d'un côté.
 
-![queen of swords](../images/bolog/ds.gif)![queen of batons](../images/bolog/db.gif)![queen of cups](../images/bolog/dc.gif)![queen of coins](../images/bolog/dd.gif)
+![dame d'épées](../images/bolog/ds.gif)![dame de bâtons](../images/bolog/db.gif)![dame de coupes](../images/bolog/dc.gif)![dame de deniers](../images/bolog/dd.gif)
 
-Here are the Queens of swords, batons, cups and coins. They have crowns and most of them look reasonably female
+Voici les Dames d'épées, de bâtons, de coupes et de deniers. Elles ont des couronnes et la plupart d'entre elles ressemblent raisonnablement à des femmes.
 
-![knight of swords](../images/bolog/cs.gif)![knight of batons](../images/bolog/cb.gif)![knight of cups](../images/bolog/cc.gif)![knight of coins](../images/bolog/cd.gif)
+![cavalier d'épées](../images/bolog/cs.gif)![cavalier de bâtons](../images/bolog/cb.gif)![cavalier de coupes](../images/bolog/cc.gif)![cavalier de deniers](../images/bolog/cd.gif)
 
-The Knights of swords, batons, cups and coins all ride horses.
+Les Cavaliers d'épées, de bâtons, de coupes et de deniers chevauchent tous.
 
-![jack of swords](../images/bolog/fs.gif)![jack of batons](../images/bolog/fb.gif)![jack of cups](../images/bolog/fc.gif)![jack of coins](../images/bolog/fd.gif)
+![valet d'épées](../images/bolog/fs.gif)![valet de bâtons](../images/bolog/fb.gif)![valet de coupes](../images/bolog/fc.gif)![valet de deniers](../images/bolog/fd.gif)
 
-The Jacks of swords, batons, cups and coins are the ones with no crowns and no horses
+Les Valets d'épées, de bâtons, de coupes et de deniers sont ceux sans couronne et sans cheval.
 
-![10 of swords](../images/bolog/10s.gif)![7 of batons](../images/bolog/7b.gif)![7 of cups](../images/bolog/7c.gif)![6 of coins](../images/bolog/6d.gif)
+![10 d'épées](../images/bolog/10s.gif)![7 de bâtons](../images/bolog/7b.gif)![7 de coupes](../images/bolog/7c.gif)![6 de deniers](../images/bolog/6d.gif)
 
-Here is a selection of pip cards (*scartini*). These can usually be identified by spotting the suit symbol and counting. Cups look rather like Christmas crackers. Swords on pip cards are curved while batons are straight; though most swords on court cards are straight. Swords and batons may have one or two symbols vertical or horizontal through the middle, separate from the other symbols. Illustrated here are the 10 of swords, 7 of batons, 7 of cups and 6 of coins. The 10 of swords has eight curved swords, a long straight vertical sword and a short straight horizontal sword.
+Voici une sélection de cartes numériques (*scartini*). Elles peuvent généralement être identifiées en repérant le symbole de la couleur et en comptant. Les coupes ressemblent à des papillotes de fête. Les épées sur les cartes numériques sont courbes tandis que les bâtons sont droits ; bien que la plupart des épées sur les figures soient droites. Les épées et les bâtons peuvent avoir un ou deux symboles verticaux ou horizontaux au milieu, séparés des autres symboles. Sont illustrées ici le 10 d'épées, le 7 de bâtons, le 7 de coupes et le 6 de deniers. Le 10 d'épées comporte huit épées courbes, une longue épée verticale droite et une courte épée horizontale droite.
 
-![ace of swords](../images/bolog/as.gif)![ace of batons](../images/bolog/ab.gif)![ace of cups](../images/bolog/ac.gif)![ace of coins](../images/bolog/ad.gif)
+![as d'épées](../images/bolog/as.gif)![as de bâtons](../images/bolog/ab.gif)![as de coupes](../images/bolog/ac.gif)![as de deniers](../images/bolog/ad.gif)
 
-![old ace of swords](../images/bolog/oldsa.jpg)Here are the **aces** of swords, batons, cups and coins. Note that the monochrome card with the blank circle is the ace of coins. The blank circle originally held the tax stamp but this is no longer required. The funny looking card with two circles connected by a bar is the ace of swords. It is in fact a double ended version of a rather strange sword ace with a hook-shaped blade.
+![ancien as d'épées](../images/bolog/oldsa.jpg)Voici les **as** d'épées, de bâtons, de coupes et de deniers. Notez que la carte monochrome avec le cercle vide est l'as de deniers. Le cercle vide contenait à l'origine le timbre fiscal mais cela n'est plus requis. La carte amusante avec deux cercles reliés par une barre est l'as d'épées. Il s'agit en fait d'une version double face d'un as d'épées plutôt étrange avec une lame en forme de crochet.
 
-### Card Points:
+### Points des cartes :
 
-The basic values are as follows:
+Les valeurs de base sont les suivantes :
 
-| Tarocchi (Angel, World, Bégato, Matto) | 5 each |
-| Kings | 5 each |
-| Queens | 4 each |
-| Knights | 3 each |
-| Jacks | 2 each |
-| All other cards | 1 each |
+| Tarocchi (Ange, Monde, Bégato, Matto) | 5 chacun |
+| Rois | 5 chacun |
+| Dames | 4 chacun |
+| Cavaliers | 3 chacun |
+| Valets | 2 chacun |
+| Toutes les autres cartes | 1 chacune |
 
-Cards are counted in pairs, deducting one point from the value of each pair. (Because each trick contains 4 cards the number of cards captured by each side must always be even.) Of course this is the same as deducting half a point from each individual card value, so for instance a King is worth as much as 9 other
-cards (4.5 to 0.5).
+Les cartes sont comptées par paires, en déduisant un point de la valeur de chaque paire. (Comme chaque levée contient 4 cartes, le nombre de cartes capturées par chaque côté doit toujours être pair.) C'est bien sûr la même chose que déduire un demi-point de chaque valeur individuelle de carte, de sorte qu'un Roi vaut par exemple autant que 9 autres cartes (4,5 contre 0,5).
 
-The total number of points in the pack is 87. In addition there are 6 points for the last trick.
+Le nombre total de points dans le jeu est de 87. De plus, il y a 6 points pour la dernière levée.
 
-## Playing Procedure
+## Procédure de jeu
 
-The game is played anticlockwise. Partnerships remain fixed until a rubber is completed (800, hence Ottocento). The deal for the first hand of each rubber is decided randomly, after that the deal passes to the right after each hand.
+Le jeu se joue dans le sens antihoraire. Les partenariats restent fixes jusqu'à la fin d'une manche (800 points, d'où Ottocento). La donne de la première main de chaque manche est décidée au hasard, puis la donne passe à droite après chaque main.
 
-The sequence of events on each deal is:
+La séquence des événements de chaque donne est :
 
-### Deal
+### Distribution
 
-The dealer shuffles and gives the cards to the player to the left to cut. The cards are then dealt out in packets of five cards, starting with the player on dealer's right. This means that at the end of the third round of the deal each player other than the dealer has 15 cards, but the dealer has an extra two cards in addition to final the packet of 5. Everyone picks up their cards and the dealer discards two cards face down to reduce his hand from 17 to the same number of cards (15) as everyone else. These discarded cards count for dealer's team at the end of the hand as if they had been won in tricks (however they are lost if dealer's side loses every trick). Dealer is not allowed to discard 5-point cards (Tarocchi and Kings), but may discard other trumps (this differs from the custom in many other Tarot games).
+Le donneur bat et donne les cartes au joueur à gauche pour couper. Les cartes sont ensuite distribuées par paquets de cinq, en commençant par le joueur à la droite du donneur. Cela signifie qu'à la fin du troisième tour de distribution, chaque joueur autre que le donneur a 15 cartes, mais le donneur a deux cartes supplémentaires en plus du dernier paquet de 5. Tous ramassent leurs cartes et le donneur écarte deux cartes face cachée pour réduire sa main de 17 au même nombre de cartes (15) que les autres. Ces cartes écartées comptent pour l'équipe du donneur à la fin de la main comme si elles avaient été gagnées dans des levées (cependant elles sont perdues si l'équipe du donneur perd toutes les levées). Le donneur n'est pas autorisé à écarter les cartes à 5 points (Tarocchi et Rois), mais peut écarter d'autres atouts (cela diffère de la coutume dans beaucoup d'autres jeux de Tarot).
 
-**Note. **The dealer has the option to score for declarations using just the first 15 cards if this gives the dealer's team enough points to win the game. For this reason, if the dealer's team's score is close to 800, the dealer should not pick up all 17 cards at once but leave the last two face down on the table while studying the first 15. If the first 15 cards do not contain enough declarations to reach 800, the dealer then picks up the last two cards and discards in the normal way.
+**Note.** Le donneur a la possibilité de compter les points des déclarations en utilisant seulement les 15 premières cartes si cela donne assez de points à son équipe pour gagner le jeu. Pour cette raison, si le score de l'équipe du donneur est proche de 800, le donneur ne devrait pas ramasser les 17 cartes d'un coup mais laisser les deux dernières face cachée sur la table en étudiant les 15 premières. Si les 15 premières cartes ne contiennent pas assez de déclarations pour atteindre 800, le donneur ramasse alors les deux dernières cartes et écarte de la manière habituelle.
 
-### Declarations
+### Déclarations
 
-During the first trick, players may *declare* combinations of cards which have special scores: see Combinations. Note that the score is doubled only if three or more combinations of the same type are declared by the same player - it is not enough for the partnership to declare three between them.
+Pendant la première levée, les joueurs peuvent *déclarer* des combinaisons de cartes qui ont des scores spéciaux : voir Combinaisons. Notez que le score n'est doublé que si trois combinaisons ou plus du même type sont déclarées par le même joueur — il ne suffit pas que le partenariat en déclare trois ensemble.
 
-Each player makes any declarations they wish to immediately before playing their card to the first trick. Combinations are declared by placing all the relevant cards face up on the table. After declaring, the player then plays to the first trick and picks up the cards displayed (if any); then the next player declares and plays, and so on.
+Chaque joueur fait ses déclarations immédiatement avant de jouer sa carte à la première levée. Les combinaisons sont déclarées en posant toutes les cartes concernées face visible sur la table. Après la déclaration, le joueur joue à la première levée et ramasse les cartes affichées (s'il y en a) ; puis le joueur suivant déclare et joue, et ainsi de suite.
 
-Declarations are not compulsory. Players are allowed to declare only some but not all of the combinations they hold, and may even make a declaration which is less than the maximum possible - for instance it is legal to declare a sequence of 4 swords when 5 could be declared or three Queens when holding four. Of course points are only scored for what is actually declared.
+Les déclarations ne sont pas obligatoires. Les joueurs sont autorisés à ne déclarer que certaines des combinaisons qu'ils détiennent, et peuvent même faire une déclaration inférieure au maximum possible — par exemple, il est légal de déclarer une séquence de 4 épées alors que 5 pourraient l'être, ou trois Dames en en détenant quatre. Bien sûr, les points ne sont marqués que pour ce qui est effectivement déclaré.
 
-The dealer cannot include the cards that were discarded in declarations.
+Le donneur ne peut pas inclure les cartes écartées dans les déclarations.
 
-### The Play
+### Le jeu
 
-Any card may be led. Other players must follow suit if they can. If they have no cards of the suit led then they must play a trump. The trick is won by the highest card of the suit led, unless it contains a trump in which case the highest trump wins. If the highest trumps are two or more Moors, the last Moor that was played wins the trick. The player to dealer's right leads to the first trick. Thereafter the winner of each trick leads to the next.
+N'importe quelle carte peut être jouée en premier. Les autres joueurs doivent suivre la couleur s'ils le peuvent. S'ils n'ont pas de carte de la couleur demandée, ils doivent jouer un atout. La levée est gagnée par la carte la plus élevée de la couleur demandée, à moins qu'elle ne contienne un atout, auquel cas l'atout le plus élevé gagne. Si les atouts les plus élevés sont deux Maures ou plus, le dernier Maure joué gagne la levée. Le joueur à la droite du donneur entame la première levée. Ensuite, le gagnant de chaque levée entame la suivante.
 
-The Matto is an exception to the above: it may be played to any trick regardless of whether or not the player has any cards in the suit led. When it is played, it is always retained by the side that played it. If the other side win the trick then the side that played it give them a worthless card in exchange. This can be any card they have previously taken in tricks, but if they have not yet taken any card of sufficient worthlessness they are allowed to wait until they do. In this case the Matto can be left face up as a reminder. Remember that many cards have some potential value, either in themselves or in combinations: usually a pip card from a suit is chosen to give in exchange, or a low numbered trump can be given once the trump sequence is known to be stopped (see Sequences). At the end of the hand, if no earlier, they must give a card in exchange; if they have taken no tricks at all then the Matto would be lost (this hardly ever happens).
+Le Matto fait exception à ce qui précède : il peut être joué dans n'importe quelle levée, indépendamment de la présence ou non de cartes de la couleur demandée dans la main du joueur. Quand il est joué, il est toujours conservé par le côté qui l'a joué. Si l'autre côté gagne la levée, le côté qui l'a joué leur donne une carte sans valeur en échange. Cela peut être n'importe quelle carte qu'ils ont précédemment prise dans des levées, mais s'ils n'ont pas encore pris de carte suffisamment sans valeur, ils sont autorisés à attendre d'en trouver une. Dans ce cas, le Matto peut être laissé face visible en rappel. N'oubliez pas que beaucoup de cartes ont une valeur potentielle, soit en elles-mêmes soit dans des combinaisons : on choisit généralement une carte numérique d'une couleur pour la donner en échange, ou un atout numéroté bas peut être donné une fois que la séquence des atouts est connue comme bloquée (voir Séquences). À la fin de la main, au plus tard, ils doivent donner une carte en échange ; s'ils n'ont pris aucune levée, le Matto serait perdu (ce qui arrive presque jamais).
 
-If the Matto is led then the second player may play any card and this determines the
-suit of the trick.
+Si le Matto est joué en premier, le deuxième joueur peut jouer n'importe quelle carte et cela détermine la couleur de la levée.
 
-### Signals
+### Signaux
 
-There are three signals which a player can make to her partner
-at the same time as leading to a trick. Their meanings, in principle, are as follows.
+Il y a trois signaux qu'un joueur peut faire à son partenaire en même temps qu'il entame une levée. Leurs significations, en principe, sont les suivantes.
 
-- volo: toss the card in the air: "This is my last card in this suit" (or last trump if leading a trump).
+- volo : lancer la carte en l'air : « C'est ma dernière carte dans cette couleur » (ou le dernier atout si un atout est entamé).
 
-- busso: strike the table with the fist. This is a signal of strength, whose meaning varies according to the context - see tactics. In principle it shows strong trumps, requests partner to play a high card to the trick, and requests partner to return a trump or the same suit when on lead.
+- busso : frapper la table du poing. C'est un signal de force, dont le sens varie selon le contexte — voir tactiques. En principe, il montre des atouts forts, demande au partenaire de jouer une carte élevée dans la levée, et demande au partenaire de retourner un atout ou la même couleur lorsqu'il reprendra la main.
 
-- striscio: scrape the card along the table: "I have at least one more card in the suit that I am leading"
-(or long trumps without the highest ones if leading a trump).
+- striscio : traîner la carte sur la table : « J'ai au moins une carte de plus dans la couleur que j'entame » (ou des atouts longs sans les plus élevés si un atout est entamé).
 
-A signal can only be given when leading a suit of which the King has already been played in a previous trick, or when leading a trump irrespective of what has previously been played. Only one signal can be made in any one trick.
+Un signal ne peut être donné que lorsqu'on entame une couleur dont le Roi a déjà été joué dans une levée précédente, ou lorsqu'on entame un atout indépendamment de ce qui a été joué précédemment. Un seul signal peut être fait dans chaque levée.
 
-It is strictly forbidden to use signals other than these (though in the 19th century there were versions of the game with many more signals). It is also considered highly unethical to use signals with a meaning substantially different from the generally accepted meaning. 
+Il est strictement interdit d'utiliser d'autres signaux (bien qu'au XIXe siècle il existait des versions du jeu avec beaucoup plus de signaux). Il est aussi considéré comme très anti-éthique d'utiliser des signaux avec un sens nettement différent du sens généralement accepté.
 
-See Tactics for further advice on on how these signals are used.
+Voir Tactiques pour plus de conseils sur l'utilisation de ces signaux.
 
-## Combinations: Criccone and Sequences
+## Combinaisons : Criccone et Séquences
 
-Combinations can be scored in a player's hand at the start (see
-Declarations) and are also scored at the end of the hand in cards captured in tricks. In either case the scoring combinations are the same.
+Les combinaisons peuvent être comptées dans la main d'un joueur au début (voir Déclarations) et sont aussi comptées à la fin de la main dans les cartes capturées dans les levées. Dans les deux cas, les combinaisons comptées sont les mêmes.
 
 ### Criccone
 
-These are combinations of three or four cards of a kind. Historically, a single combination of this sort was known as a cricca, and three or more different *cricche* together were known as a *criccone*. However the word *cricca* for a single combination has now fallen into disuse. 
+Ce sont des combinaisons de trois ou quatre cartes de même type. Historiquement, une combinaison unique de ce type était connue sous le nom de *cricca*, et trois *cricche* différentes ou plus ensemble étaient appelées *criccone*. Cependant, le mot *cricca* pour une combinaison unique est maintenant tombé en désuétude.
 
-The combinations of the *criccone* score as follows:
+Les combinaisons du *criccone* se comptent comme suit :
 
-|   | All 4 cards | Any 3 cards |
-| Tarocchi (Angel, World, Bégato, Matto) | 36 points | 18 points |
-| Kings | 34 points | 17 points |
-| Queens | 28 points | 14 points |
-| Knights | 26 points | 13 points |
-| Jacks | 24 points | 12 points |
+|  | Les 4 cartes | 3 cartes quelconques |
+| Tarocchi (Ange, Monde, Bégato, Matto) | 36 points | 18 points |
+| Rois | 34 points | 17 points |
+| Dames | 28 points | 14 points |
+| Cavaliers | 26 points | 13 points |
+| Valets | 24 points | 12 points |
 
-If three or more of these combinations are collected by the same team in cards that they took in play (for instance 3 tarocchi, 4 kings and 3 jacks) then the player or team has a *criccone* and the total score for the combinations is doubled. The same also applies in the unusual case where a single player declares three or more of these combinations at the start of play: the player has a *criccone* in hand and the score for the combinations is doubled.
+Si trois combinaisons ou plus de ce type sont collectées par la même équipe dans les cartes qu'elles ont prises (par exemple 3 tarocchi, 4 rois et 3 valets), le joueur ou l'équipe a un *criccone* et le score total des combinaisons est doublé. Il en va de même dans le cas inhabituel où un seul joueur déclare trois combinaisons ou plus au début du jeu : le joueur a un *criccone* en main et le score des combinaisons est doublé.
 
-### Sequences
+### Séquences
 
-These are combinations of 3 or more cards and score according
-to the number of cards in the sequence:
+Ce sont des combinaisons de 3 cartes ou plus et comptent selon le nombre de cartes dans la séquence :
 
-| 3 cards (minimum) | 10 points |
-| each additional card | 5 points |
+| 3 cartes (minimum) | 10 points |
+| chaque carte supplémentaire | 5 points |
 
-If three or more different sequences are collected by the same team in cards that they took in play (for instance Swords, Aces and Moors) then the total scores for these sequences are doubled. Also, if a single player declares three or more sequences in hand at the start of play, the score for them is doubled.
+Si trois séquences différentes ou plus sont collectées par la même équipe dans les cartes prises (par exemple Épées, As et Maures), les scores totaux de ces séquences sont doublés. De même, si un seul joueur déclare trois séquences ou plus en main au début du jeu, le score en est doublé.
 
-All sequences have a minimum condition to establish the sequence; once established, additional cards may be added under less restrictive conditions.
+Toutes les séquences ont une condition minimale pour établir la séquence ; une fois établie, des cartes supplémentaires peuvent être ajoutées dans des conditions moins restrictives.
 
-The Matto and Bégato are wild cards (contatori) which can be used in place of some of the cards which would normally be required in sequences. If not needed to establish the sequence they can always be added to the length (and hence the score) of any sequence, even if all possible "real" cards are already present. Each wild card held can be used in every sequence.
+Le Matto et le Bégato sont des cartes Joker (*contatori*) qui peuvent être utilisés à la place de certaines cartes normalement requises dans les séquences. S'ils ne sont pas nécessaires pour établir la séquence, ils peuvent toujours être ajoutés à la longueur (et donc au score) de n'importe quelle séquence, même si toutes les cartes « réelles » possibles sont déjà présentes. Chaque carte Joker détenue peut être utilisée dans chaque séquence.
 
-Trump sequence (grande):
+Séquence d'atouts (grande) :
 
-The Angel, which must be real (that is, it cannot be substituted by a wild card), and at least two of the next three trumps (World, Sun, Moon), at least one of which must be real. Once established, further trumps can be added in sequence from the 16 on down until there is a missing trump. Wild cards can be used in place of numbered trumps, and the sequence can continue, but:
+L'Ange, qui doit être réel (il ne peut pas être remplacé par un Joker), et au moins deux des trois atouts suivants (Monde, Soleil, Lune), dont au moins un doit être réel. Une fois établie, d'autres atouts peuvent être ajoutés en séquence à partir du 16 vers le bas jusqu'à ce qu'il manque un atout. Les cartes Joker peuvent remplacer des atouts numérotés, et la séquence peut continuer, mais :
 
-- each wild card can be used only once in each sequence. In particular, if it has been used to replace the World, Sun or Moon it cannot be used again to replace a numbered trump.
+- chaque carte Joker ne peut être utilisée qu'une seule fois dans chaque séquence. En particulier, si elle a été utilisée pour remplacer le Monde, le Soleil ou la Lune, elle ne peut pas être réutilisée pour remplacer un atout numéroté.
 
-- two adjacent wild cards end the sequence; wild cards cannot be used consecutively to fill two gaps in the middle of the sequence.
+- deux cartes Joker adjacentes mettent fin à la séquence ; les cartes Joker ne peuvent pas être utilisées consécutivement pour combler deux lacunes au milieu de la séquence.
 
-With enough trumps, the trump sequence can even include Moors (this is in addition to the Moors potentially scoring as a sequence in their own right). A trump sequence that includes Moors is known as a "*grande fino ai calzettini*" (trump sequence down to the socks). 
-Suit sequence:
+Avec suffisamment d'atouts, la séquence d'atouts peut même inclure les Maures (en plus des Maures comptant potentiellement comme une séquence à part entière). Une séquence d'atouts incluant les Maures est appelée « *grande fino ai calzettini* » (séquence d'atouts jusqu'aux chaussettes).
 
-The King, which must be real, and at least two of the next three cards (Queen, Knight and Jack), at least one of which must be real. Once established, the Ace can be added.
+Séquence de couleur :
+Le Roi, qui doit être réel, et au moins deux des trois cartes suivantes (Dame, Cavalier et Valet), dont au moins une doit être réelle. Une fois établie, l'As peut être ajouté.
 
-Moors sequence:
-At least three Moors, at least two of which must be real.
+Séquence de Maures :
+Au moins trois Maures, dont au moins deux doivent être réels.
 
-Aces sequence:
-At least three Aces, at least two of which must be real.
+Séquence d'As :
+Au moins trois As, dont au moins deux doivent être réels.
 
-Examples:
+Exemples :
 
-- **Angel, World, Moon, 16**: trump sequence of 4, worth 15 points
+- **Ange, Monde, Lune, 16** : séquence d'atouts de 4, valant 15 points
 
-- **Angel, Matto** (for the World or Sun), **Moon, 16, 15, Bégato** (for the 14), **13, 12**: trump sequence of 8, worth 35 points. Note it is not necessary to replace both the World and the Sun with wild cards.
+- **Ange, Matto** (pour le Monde ou le Soleil), **Lune, 16, 15, Bégato** (pour le 14), **13, 12** : séquence d'atouts de 8, valant 35 points. Il n'est pas nécessaire de remplacer à la fois le Monde et le Soleil par des cartes Joker.
 
-- **Angel, World, Sun, Moon, 16, Matto, Bégato, 13**: trump sequence of 7, worth 30 points. Note this is not a sequence of 8: both the 15 and the 14 are missing, the gap of two stops the sequence, and the 13 cannot be added.
+- **Ange, Monde, Soleil, Lune, 16, Matto, Bégato, 13** : séquence d'atouts de 7, valant 30 points. Ce n'est pas une séquence de 8 : le 15 et le 14 manquent tous les deux, l'écart de deux arrête la séquence, et le 13 ne peut pas être ajouté.
 
-- **Angel, World, Bégato, Matto, 15, 14**: trump sequence of 4, worth 15 points. The contatori can be counted, but they cannot be used to connect the 15 to the sequence, because one would have to represent the Sun or Moon and the other the 16, making them adjacent. 
+- **Ange, Monde, Bégato, Matto, 15, 14** : séquence d'atouts de 4, valant 15 points. Les *contatori* peuvent être comptés, mais ne peuvent pas servir à relier le 15 à la séquence, car l'un devrait représenter le Soleil ou la Lune et l'autre le 16, ce qui les rendrait adjacents.
 
-- **Angel, Matto, Sun, Bégato, 15, 14**: trump sequence of 6, worth 25 points. This differs from the above only in having the Sun instead of the World. But now we can use the Matto to represent the World, separating the wild cards and enabling the 15 and 14 to be included in the sequence. 
-- **King, Matto, Bégato, Ace**: Not a sequence (at least one of the queen, knight, jack must be real) 
-- **King, Knight, Jack:** suit sequence of 3, worth 10 points 
-- **King, Queen, Bégato** (for Knight or Jack), **Ace**: suit sequence of 4, worth 15 points 
-- **King, Queen, Knight, Jack, Ace, Matto**: suit sequence of 6, worth 25 points. 
+- **Ange, Matto, Soleil, Bégato, 15, 14** : séquence d'atouts de 6, valant 25 points. La différence avec la précédente est d'avoir le Soleil au lieu du Monde. Maintenant on peut utiliser le Matto pour représenter le Monde, séparant les cartes Joker et permettant d'inclure le 15 et le 14 dans la séquence.
+- **Roi, Matto, Bégato, As** : Pas une séquence (au moins une de la Dame, du Cavalier ou du Valet doit être réel)
+- **Roi, Cavalier, Valet :** séquence de couleur de 3, valant 10 points
+- **Roi, Dame, Bégato** (pour Cavalier ou Valet), **As** : séquence de couleur de 4, valant 15 points
+- **Roi, Dame, Cavalier, Valet, As, Matto** : séquence de couleur de 6, valant 25 points.
 
-- **Two Moors, Bégato**: sequence of 3, worth 10. Note that at the end of the play if one team has this sequence, the other team will also score a sequence of Moors: Two Moors and the Matto. 
-- **Four Aces, Bégato, Matto**: sequence of 6, worth 25 points 
+- **Deux Maures, Bégato** : séquence de 3, valant 10. Notez qu'à la fin du jeu, si une équipe a cette séquence, l'autre équipe comptera aussi une séquence de Maures : Deux Maures et le Matto.
+- **Quatre As, Bégato, Matto** : séquence de 6, valant 25 points
 
 **Scavezzo della grande**
 
-When scoring at the end of the play, this is the numbered trump that "breaks" the *grande*, that is the numbered trump held by the opponents of the team that has the Angel that marks the end of the trump sequence. This card is the basis of a shortcut method of scoring the *grande* which is used by all regular players. To novices it looks completely mysterious but for a long *grande* it is much quicker than pulling out all the cards of the *grande* and counting them. For this method it is only necessary to look at the trumps and *contatori* taken by the **opponents** of the team that has the Angel. It works like this.
+Lors du décompte à la fin du jeu, c'est l'atout numéroté qui « brise » la *grande*, c'est-à-dire l'atout numéroté détenu par les adversaires de l'équipe qui a l'Ange et qui marque la fin de la séquence d'atouts. Cette carte est la base d'une méthode raccourcie de comptage de la *grande* utilisée par tous les joueurs réguliers. Pour les novices, cela paraît complètement mystérieux, mais pour une longue *grande*, c'est beaucoup plus rapide que d'étaler toutes les cartes de la *grande* et de les compter. Pour cette méthode, il suffit de regarder les atouts et les *contatori* pris par les **adversaires** de l'équipe qui a l'Ange. Cela fonctionne ainsi.
 
-- If the opponents of the Angel have the World, Sun and Moon, or if they have two of these three cards with both *contatori*, there is no *grande*.
+- Si les adversaires de l'Ange ont le Monde, le Soleil et la Lune, ou s'ils ont deux de ces trois cartes avec les deux *contatori*, il n'y a pas de *grande*.
 
-- Otherwise, identify the *scavezzo* (breaking card) - the highest numbered trump held by the opponents of the Angel that is not in the *grande*. Count how many *contatori* and trumps higher than the *scavezzo* the opponents of the Angel have, add this to the number of the *scavezzo* itself, subtract the result from 21 and multiply by 5. This is the value of the *grande*.
+- Sinon, identifier le *scavezzo* (carte de rupture) — l'atout numéroté le plus élevé détenu par les adversaires de l'Ange qui n'est pas dans la *grande*. Compter combien de *contatori* et d'atouts supérieurs au *scavezzo* les adversaires de l'Ange ont, ajouter cela au numéro du *scavezzo* lui-même, soustraire le résultat de 21 et multiplier par 5. C'est la valeur de la *grande*.
 
-- If there is no *scavezzo* - so that the team with the Angel have a *grande fino ai calzettini* (down to the socks) - then the *scavezzo* number is zero. Count all the trumps and *contatori* held by the opponents of the Angel, subtract that number from 21 and multiply by 5.
+- S'il n'y a pas de *scavezzo* — de sorte que l'équipe avec l'Ange a une *grande fino ai calzettini* (jusqu'aux chaussettes) — alors le numéro du *scavezzo* est zéro. Compter tous les atouts et *contatori* détenus par les adversaires de l'Ange, soustraire ce nombre de 21 et multiplier par 5.
 
-**Examples:**
+**Exemples :**
 
-- In example 1 above the *scavezzo* is the 15, and the opponents of the Angel have both *contatori* and the Sun. 15+3=18. 21-18=3. The value of the *grande* is 3×5=15.
+- Dans l'exemple 1 ci-dessus, le *scavezzo* est le 15, et les adversaires de l'Ange ont les deux *contatori* et le Soleil. 15+3=18. 21-18=3. La valeur de la *grande* est 3×5=15.
 
-- In example 2 the *scavezzo* is the 11, and the opponents of the Angel have the World, Sun and 14 of trumps. 11+3=14. 21-14=7. The value of the *grande* is 7×5=35.
+- Dans l'exemple 2, le *scavezzo* est le 11, et les adversaires de l'Ange ont le Monde, le Soleil et le 14 d'atouts. 11+3=14. 21-14=7. La valeur de la *grande* est 7×5=35.
 
-- In example 3 the *scavezzo* is the 15 and the opponents have no trumps or *contatori* to count. 21-15=6. The value of the *grande* is 6×5=30.
+- Dans l'exemple 3, le *scavezzo* est le 15 et les adversaires n'ont ni atouts ni *contatori* à compter. 21-15=6. La valeur de la *grande* est 6×5=30.
 
-- If the opponents of the Angel have nothing relevant except the 7 of trumps, the Matto and one Moor the *scavezzo* is 0, 21-3=18 and the value of the *grande* is 18×5=90. This is a case in which the *scavezzo* method is clearly quicker than counting all the cards in the *grande*. The team with the *grande* will also score 15 for their sequence of Moors in this case.
+- Si les adversaires de l'Ange n'ont rien de pertinent sauf le 7 d'atouts, le Matto et un Maure, le *scavezzo* est 0, 21-3=18 et la valeur de la *grande* est 18×5=90. C'est un cas où la méthode du *scavezzo* est nettement plus rapide que de compter toutes les cartes de la *grande*. L'équipe avec la *grande* comptera aussi 15 pour leur séquence de Maures dans ce cas.
 
-## Scoring Procedure
+## Procédure de décompte
 
-Although the scoring in the present-day game may seem fairly complex (each hand ends by laying out most of one side's cards on the table), it is in fact a simplification of an earlier game which had another
-level of scoring on top of the one which is used today.
+Bien que le décompte dans le jeu actuel puisse sembler assez complexe (chaque main se termine en étalant la plupart des cartes d'un côté sur la table), il s'agit en fait d'une simplification d'un jeu antérieur qui comportait un niveau de décompte supplémentaire par rapport à celui utilisé aujourd'hui.
 
-As already stated, combinations announced during the first trick are scored at that time.
+Comme indiqué précédemment, les combinaisons annoncées pendant la première levée sont comptées à ce moment-là.
 
-All other scoring is at the end of the hand: card points for cards captured, points for the last trick, and points for combinations of cards captured. The usual way of doing this is as follows.
+Tout le reste du décompte se fait à la fin de la main : les points de cartes pour les cartes capturées, les points de la dernière levée et les points pour les combinaisons de cartes capturées. La façon habituelle de procéder est la suivante.
 
-- Take one side's pile of cards captured (including dealer's discard if this side were dealer) and lay them out on the table so as to show all the significant cards of each suit (Kings, Queens, Knights, Jacks, Aces, in a matrix of suit by rank), and all the significant trumps, and Moors. (It is best to choose the smaller pile of the two!).
+- Prendre le tas de cartes capturées d'un côté (y compris l'écart du donneur si ce côté était le donneur) et les étaler sur la table pour montrer toutes les cartes significatives de chaque couleur (Rois, Dames, Cavaliers, Valets, As, disposés en matrice couleur par rang), et tous les atouts significatifs, et les Maures. (Il vaut mieux choisir le plus petit tas des deux !).
 
-- Score for the criccone. Do this first for the side whose cards are on the table and then for the other side (spotting the gaps: for instance if only one King is visible then the other
-side must have three Kings). Remember to double the score for a side that has three or more of these combinations.
+- Compter les points du criccone. Le faire d'abord pour le côté dont les cartes sont sur la table, puis pour l'autre côté (en repérant les lacunes : par exemple, si un seul Roi est visible, l'autre côté doit avoir trois Rois). Se rappeler de doubler le score pour un côté qui a trois combinaisons ou plus de ce type.
 
-- Give 6 points to the side that won the last trick. This is traditionally added to the *criccone* score (but never doubled).
+- Donner 6 points au côté qui a gagné la dernière levée. Traditionnellement, cela est ajouté au score du *criccone* (mais jamais doublé).
 
-- Score for sequences (*sequenze*). Do this first for the side whose cards are on the table and then for the other side (spotting the gaps). Since there are seven possible sequences, it nearly always happens that one side, and not infrequently both sides have three or more sequences and therefore double their sequence score. The way this is normally scored is by counting the total number of cards in all the sequences, subtract one for each sequence, and then multiplying the result by 10. If the side has fewer than three sequences the result is halved.
+- Compter les séquences (*sequenze*). Le faire d'abord pour le côté dont les cartes sont sur la table, puis pour l'autre côté (en repérant les lacunes). Comme il y a sept séquences possibles, il arrive presque toujours qu'un côté, et pas rarement les deux, ait trois séquences ou plus et double donc le score de séquence. La façon dont cela est normalement compté est de compter le nombre total de cartes dans toutes les séquences, de soustraire une pour chaque séquence, puis de multiplier le résultat par 10. Si le côté a moins de trois séquences, le résultat est divisé par deux.
 
-- Count the cards, putting one 1-point card on top of each 2- 3- 4- or 5- point card and scoring the value (see card points above), then counting the remaining 1-point cards in pairs, scoring 1 for each pair. The other side's card points are then worked out by deducting from 87.
+- Compter les cartes, en posant une carte à 1 point sur chaque carte à 2, 3, 4 ou 5 points et en comptant la valeur (voir points des cartes ci-dessus), puis en comptant les cartes restantes à 1 point par paires, en attribuant 1 pour chaque paire. Les points de cartes de l'autre côté sont ensuite calculés en déduisant de 87.
 
-The rubber is won by the first side to reach 800. If both sides reach 800 on the same deal then the side that goes further beyond 800 wins. 
+La manche est gagnée par le premier côté à atteindre 800. Si les deux côtés atteignent 800 lors de la même donne, le côté qui dépasse le plus 800 gagne.
 
-It is possible for a team to win the game without playing any cards if either the dealer or the player to dealer's right can score enough points from declarations to take the team's score to 800 or more. The dealer has the first opportunity to do this but can only use the first 15 cards dealt. If the dealer is unable to reach 800 with declarations, the dealer does not declare but instead picks up the last two cards and discards, and the player to dealer's right has the opportunity to end the game if able to score enough for declarations. If the player to dealer's right is also unable to end the game, she makes any declarations she wishes to and leads to the first trick. The other three players declare if they wish to as they play their first cards, the dealer declaring last in the usual way. Declarations by players other than the player to dealer's right made during the first trick do not end the game even if they take the team's score to 800 or more. Once the first player has led to the first trick the whole hand must be played out, and the winners will be the team with more points at the end of play.
+Il est possible pour une équipe de gagner le jeu sans jouer aucune carte si le donneur ou le joueur à la droite du donneur peut compter suffisamment de points de déclarations pour porter le score de l'équipe à 800 ou plus. Le donneur a la première opportunité de le faire mais ne peut utiliser que les 15 premières cartes distribuées. Si le donneur est incapable d'atteindre 800 avec les déclarations, il ne déclare pas mais ramasse les deux dernières cartes et écarte, et le joueur à la droite du donneur a l'opportunité de terminer le jeu s'il peut compter assez de déclarations. Si le joueur à la droite du donneur est lui aussi incapable de terminer le jeu, il fait ses déclarations et entame la première levée. Les trois autres joueurs déclarent s'ils le souhaitent en jouant leurs premières cartes, le donneur déclarant en dernier de la manière habituelle. Les déclarations par des joueurs autres que le joueur à la droite du donneur faites pendant la première levée ne terminent pas le jeu même si elles portent le score de l'équipe à 800 ou plus. Une fois que le premier joueur a entamé la première levée, toute la main doit être jouée, et les gagnants seront l'équipe avec le plus de points à la fin du jeu.
 
-## Tactics
+## Tactiques
 
-*This section was originally written by Alan Trangmar. It has been revised and rewritten in the light of advice from Gianfranco Laghi's book [I Giocchi dei Tarocchi Bolognesi](https://en.calameo.com/books/00541737097111dce8408), and the members of the Academia del Tarocchino Bolognese.*
+*Cette section a été initialement écrite par Alan Trangmar. Elle a été révisée et réécrite à la lumière des conseils du livre de Gianfranco Laghi [I Giocchi dei Tarocchi Bolognesi](https://en.calameo.com/books/00541737097111dce8408) et des membres de l'Academia del Tarocchino Bolognese.*
 
-### Observations on the cards and their values
+### Observations sur les cartes et leurs valeurs
 
-The first thing to notice is that the scoring is dominated by the scores for combinations, and the biggest swing on most hands is on sequences: if one side fails to collect as many as three sequences in their tricks they tend lose by a large margin. The key cards for forming sequences are the Angel and the four Kings, which are necessary to head the *grande* and the suit sequences respectively, and the two *contatori*, the Matto and Bégato, which can be used in all sequences. The Angel and the Matto cannot be captured in play, but the Bégato and the Kings can. Therefore one of the most important objectives of the play is to collect as many as possible of the five key cards: the Bégato and the Kings.
+La première chose à remarquer est que le décompte est dominé par les scores des combinaisons, et le plus grand écart dans la plupart des mains se trouve sur les séquences : si un côté échoue à collecter au moins trois séquences dans ses levées, il a tendance à perdre avec une forte marge. Les cartes clés pour former des séquences sont l'Ange et les quatre Rois, qui sont nécessaires pour mener la *grande* et les séquences de couleurs respectivement, et les deux *contatori*, le Matto et le Bégato, qui peuvent être utilisés dans toutes les séquences. L'Ange et le Matto ne peuvent pas être capturés en jeu, mais le Bégato et les Rois le peuvent. Par conséquent, l'un des objectifs les plus importants du jeu est de collecter autant que possible les cinq cartes clés : le Bégato et les Rois.
 
-The next most valuable cards are the World and the Queens, Knights and Jacks of the suits, which score both in sequences and in the criccone, and the Aces, which score in two kinds of sequence. The Queens, Knights, Jacks and Aces are not very different from each other in value - their relative importance depends mainly on how they fit with the other cards collected by the team. The Sun, Moon and Moors are generally of less value since they normally contribute to only one sequence.
+Les cartes les plus précieuses ensuite sont le Monde et les Dames, Cavaliers et Valets des couleurs, qui comptent dans les séquences et dans le criccone, ainsi que les As, qui comptent dans deux types de séquences. Les Dames, Cavaliers, Valets et As ne sont pas très différents en valeur les uns des autres — leur importance relative dépend principalement de la façon dont ils s'intègrent avec les autres cartes collectées par l'équipe. Le Soleil, la Lune et les Maures sont généralement de moins grande valeur car ils ne contribuent normalement qu'à une seule séquence.
 
-The Sun and Moon are known as *rossi* (red cards) and the World, Sun and Moon are collectively known as *pezzi* - that is 'pieces' (of the *grande*).
+Le Soleil et la Lune sont appelés *rossi* (cartes rouges) et le Monde, le Soleil et la Lune sont collectivement appelés *pezzi* — c'est-à-dire « pièces » (de la *grande*).
 
-### Choosing the discard
+### Choix de l'écart
 
-The dealer is known in Italian as *il scartatore* (the discarder) and has to begin by discarding two cards. Usually the dealer should try to discard an entire suit to create a void, and aim to capture the King and other valuable cards of that suit by trumping them. Another possibility, if holding three or four Kings, is to bare one or two of the Kings by discarding the other cards of their suits, so as to capture the other valuable cards of this suit by trumping.
+Le donneur est appelé en italien *il scartatore* (l'écarteur) et doit commencer par écarter deux cartes. Le donneur devrait essayer d'écarter une couleur entière pour créer un vide, et chercher à capturer le Roi et les autres cartes précieuses de cette couleur en les coupant. Une autre possibilité, s'il détient trois ou quatre Rois, est de dégarnir un ou deux Rois en écartant les autres cartes de leurs couleurs, afin de capturer les autres cartes précieuses de cette couleur en les coupant.
 
-If it is not possible to create a void, the dealer should aim to discard cards that will be useful in combinations, especially Knights, Jacks and Aces. Also it may be worth creating a singleton so as to be able to trump the second round of a suit.
+S'il n'est pas possible de créer un vide, le donneur devrait chercher à écarter des cartes utiles dans les combinaisons, surtout les Cavaliers, Valets et As. Il peut aussi valoir la peine de créer un singleton pour pouvoir couper au deuxième tour d'une couleur.
 
-### Declaring combinations in the first trick
+### Déclarer des combinaisons dans la première levée
 
-A beginner's instinct is usually to declare any and all combinations that they hold, so as to score as many points as possible, but experienced players often suppress declarations, especially sets of Queens, Knights, Jacks or Aces.
+L'instinct du débutant est généralement de déclarer toutes les combinaisons qu'il détient pour marquer le maximum de points, mais les joueurs expérimentés suppriment souvent des déclarations, surtout les ensembles de Dames, Cavaliers, Valets ou As.
 
-In general, it is right to declare the *grande*, a set of *tarocchi* and any combinations that involve Kings, as it is useful for partner to know the locations of these cards. Also it is usual to declare Moors if held, because it does no harm and scores a few points. If you are lucky enough to have three or more sequences or three or more sets from the *criccone* it is worth declaring them to obtain the double score.
+En général, il est bon de déclarer la *grande*, un ensemble de *tarocchi* et toute combinaison impliquant des Rois, car il est utile pour le partenaire de connaître l'emplacement de ces cartes. Il est aussi habituel de déclarer les Maures si on les détient, car cela ne fait pas de mal et rapporte quelques points. Si vous avez la chance d'avoir trois séquences ou plus, ou trois ensembles ou plus du *criccone*, cela vaut la peine de les déclarer pour obtenir le double.
 
-The problem with declaring a set of court cards below the King or a set of Aces is that although it scores you a few points, it also lets everyone know that you are not void in those suits. This information can be useful to the opponents - if you have not yet played the card you declared they know you will have to follow suit and this may help them to save the King or to trump with the Bégato secure in the knowledge that you will not overtrump. 
+Le problème avec la déclaration d'un ensemble de figures inférieures au Roi ou d'un ensemble d'As est que, bien que cela vous rapporte quelques points, cela informe aussi tout le monde que vous n'êtes pas vide dans ces couleurs. Cette information peut être utile aux adversaires — si vous n'avez pas encore joué la carte que vous avez déclarée, ils savent que vous devrez suivre et cela peut les aider à sauver le Roi ou à couper avec le Bégato en sachant que vous ne surmonterez pas.
 
-Many players use a declaration of a set of three Aces, Jacks, Knights or Queens as a strong suggestion to partner to lead the fourth suit. The player who made the declaration is probably void or at least short in that suit and wishes to trump it. This agreement is particularly useful for a declaration by a player other than the dealer, as the player's partner would not be expecting them to have a void in this case.
+Beaucoup de joueurs utilisent la déclaration d'un ensemble de trois As, Valets, Cavaliers ou Dames comme une forte suggestion au partenaire d'entamer la quatrième couleur. Le joueur qui a fait la déclaration est probablement vide ou au moins court dans cette couleur et souhaite la couper. Cet accord est particulièrement utile pour une déclaration par un joueur autre que le donneur, car le partenaire de ce joueur ne s'attendrait pas à ce qu'il soit vide dans ce cas.
 
-Of course all players should pay careful attention to who declares what, to find out and remember as much as possible about the positions of the key cards. Negative inferences may also be drawn from cards that are not declared - for example if three players have declared sequences without including the Bégato it is likely that the fourth player has it. It is conceivable that one of the players who declared a sequence might be keeping the Bégato concealed, though such concealment carries the risk the player's partner will be unaware of the need to help save the Bégato. 
+Bien sûr, tous les joueurs doivent prêter attention aux déclarations de chacun, pour découvrir et retenir autant que possible les positions des cartes clés. Des inférences négatives peuvent aussi être tirées des cartes qui ne sont pas déclarées — par exemple, si trois joueurs ont déclaré des séquences sans inclure le Bégato, il est probable que le quatrième joueur le détient.
 
-### Planning the play
+### Planification du jeu
 
-In his book, GF Laghi identifies two styles of play - the attacking game and the passive game. Your initial hand may indicate what type of game you would prefer, but as in any partnership game it is important to base your decisions not only on your own cards, but on what you can discover of your partner's hand and preferences and your opponents' strengths and weaknesses. Your plan may need to be modified as the game develops.
+Dans son livre, GF Laghi identifie deux styles de jeu — le jeu attaquant et le jeu passif. Votre main initiale peut indiquer quel type de jeu vous préféreriez, mais comme dans tout jeu de partenariat, il est important de baser vos décisions non seulement sur vos propres cartes, mais aussi sur ce que vous pouvez découvrir de la main et des préférences de votre partenaire ainsi que des forces et faiblesses de vos adversaires. Votre plan peut devoir être modifié au fur et à mesure que le jeu se développe.
 
-An **attacking** game is one in which you try to impose the course of the play on the other players. There are a few types of hand that lend themselves to an attacking game.
+Un jeu **attaquant** est un jeu dans lequel vous cherchez à imposer le cours du jeu aux autres joueurs. Il y a quelques types de mains qui se prêtent à un jeu attaquant.
 
-- With a long suit (4 or more cards) and an average or greater number of trumps (say 6 or more), it is best to lead the long suit, aiming to shorten the trumps of the other players and thereby win the last few tricks.
+- Avec une couleur longue (4 cartes ou plus) et un nombre moyen ou supérieur d'atouts (disons 6 ou plus), il vaut mieux entamer la couleur longue, cherchant à raccourcir les atouts des autres joueurs et ainsi gagner les dernières levées.
 
-- With a short suit (1 card) and short trumps, lead the short suit so as to use your trumps productively when partner returns it, and after running out of trumps hope to save your valuable cards on partner's trump tricks. 
+- Avec une couleur courte (1 carte) et des atouts courts, entamer la couleur courte pour utiliser vos atouts productivement lorsque le partenaire la retourne, et après avoir épuisé vos atouts, espérer sauver vos cartes précieuses sur les levées d'atout du partenaire.
 
-- With a hand that is very rich in valuable suit cards, play trumps so as to eliminate the opponents' trumps and increase the trick-taking power of your suit cards.
+- Avec une main très riche en cartes de couleur précieuses, jouer des atouts pour éliminer les atouts des adversaires et augmenter la capacité de prise de levées de vos cartes de couleur.
 
-If your hand is not suitable to initiate an attacking game, then you prepare yourself to **support** your partner's plan if your partner shows a desire to be in charge of the game, or if your partner is the dealer.
+Si votre main ne convient pas pour initier un jeu attaquant, préparez-vous à **soutenir** le plan de votre partenaire si votre partenaire montre un désir de diriger le jeu, ou si votre partenaire est le donneur.
 
-If neither partner has a suitable hand for attack, you play a **passive** game, which will be devoted to trying to frustrate the opponents' aims, spoiling their combinations when possible by capturing valuable cards. You do not lead trumps, and when possible you avoid leading a new suit for the first time. You get home your valuable cards when the opportunity arises, and lead back suits that have been led before.
+Si aucun des deux partenaires n'a une main adaptée à l'attaque, vous jouez un jeu **passif**, consacré à tenter de contrarier les objectifs des adversaires, en ruinant leurs combinaisons lorsque c'est possible en capturant des cartes précieuses. Vous n'entamez pas d'atouts, et quand c'est possible, vous évitez d'entamer une nouvelle couleur pour la première fois. Vous rentrez vos cartes précieuses lorsque l'occasion se présente, et vous retournez des couleurs qui ont déjà été entamées.
 
-There are of course also deals which are evenly balanced, where neither team is in a position to mount a sustained attack, and the players simply try to make the best use of opportunities as they arise.
+Il y a bien sûr aussi des donnes équilibrées, où aucune équipe n'est en mesure de mener une attaque soutenue, et les joueurs essaient simplement de tirer le meilleur parti des occasions qui se présentent.
 
-### Playing suits
+### Jeu des couleurs
 
-The first thing to realise is that in the initial stages of the play it is almost always wrong to lead a suit in which you hold the King. It is better to wait for someone else to the lead this suit. There are a few exceptions.
+La première chose à comprendre est qu'aux premiers stades du jeu, il est presque toujours faux d'entamer une couleur dans laquelle vous détenez le Roi. Il vaut mieux attendre que quelqu'un d'autre entame cette couleur. Il y a quelques exceptions.
 
-- A singleton King can be led, inviting partner to return the suit so that the player can trump it.
+- Un Roi singleton peut être entamé, invitant le partenaire à retourner la couleur pour que le joueur puisse la couper.
 
-- The King can be led from King-Queen, if the player leading the King is confident that it will not be trumped.
+- Le Roi peut être entamé depuis Roi-Dame, si le joueur qui entame le Roi est confiant qu'il ne sera pas coupé.
 
-- A member of the dealer's team may begin a long suit attack by leading the King of the suit.
+- Un membre de l'équipe du donneur peut commencer une attaque de couleur longue en entamant le Roi de cette couleur.
 
-The only situation in which a low card is led away from a King is in the later stages of the game, when the player is certain that an opponent will trump the trick.
+La seule situation où une carte basse est entamée au lieu d'un Roi est aux stades avancés du jeu, lorsque le joueur est certain qu'un adversaire coupera la levée.
 
-When another player leads a suit in which you hold the King it is usually best to play the King on the first round. A possible exception is when you are playing fourth, the other three players to the trick have all played *scartini* (pip-cards), and you hold the King with just one other card of the suit. In this case it can be worth holding back the King aiming to capture some court cards on the second round of the suit to build a sequence.
+Lorsqu'un autre joueur entame une couleur dans laquelle vous détenez le Roi, il est généralement préférable de jouer le Roi au premier tour. Une exception possible est quand vous jouez quatrième, que les trois autres joueurs de la levée ont tous joué des *scartini* (cartes numériques), et que vous détenez le Roi avec une seule autre carte de la couleur. Dans ce cas, il peut valoir la peine de retenir le Roi en visant à capturer des figures au deuxième tour de la couleur pour construire une séquence.
 
-Often the first lead in a suit will be a pip card led by a player who does not have the King (the partner of the dealer may do better to begin with a court card or an Ace rather than a pip card if there is a good chance that dealer has discarded the suit). The low card from a suit of Q-x is often a good lead, since the holder of the King is quite likely to play it and then the Queen may then win the second round of the suit, hopefully picking up some useful cards. 
+Souvent, la première entame dans une couleur sera une carte numérique jouée par un joueur qui n'a pas le Roi (le partenaire du donneur peut faire mieux en commençant par une figure ou un As plutôt que par une carte numérique s'il y a de bonnes chances que le donneur ait écarté la couleur). La carte basse d'une couleur R-x est souvent une bonne entame, puisque le détenteur du Roi est assez susceptible de le jouer et alors la Dame pourra peut-être gagner le deuxième tour de la couleur, en ramassant idéalement des cartes utiles.
 
-It is important for the dealer's partner to discover what suit the dealer has discarded. Sometimes this is immediately clear from the dealer's declarations. If the dealer's partner does not have the King of the discarded suit, they need to make sure the dealer has the chance to trump it as often as needed to capture the valuable cards in it, hopefully including the King. When it turns out that unfortunately the dealer has discarded a suit in which partner holds King-Queen or King-Knight it is usually not in partner's interest to lead this suit, and the dealer's team will wait for it to be led by the opponents.
+Il est important pour le partenaire du donneur de découvrir quelle couleur le donneur a écartée. Parfois, cela est immédiatement clair d'après les déclarations du donneur. Si le partenaire du donneur n'a pas le Roi de la couleur écartée, il doit s'assurer que le donneur a l'occasion de la couper aussi souvent que nécessaire pour capturer les cartes précieuses qu'elle contient, y compris idéalement le Roi.
 
-Usually you avoid leading from a suit headed by two valuable cards. When you do make such a lead, you begin with one of the valuable cards unless you know that an opponent holds the King. The cases when leading a suit headed by two valuable cards may be desirable are:
+En général, on évite d'entamer depuis une couleur dirigée par deux cartes précieuses. Lorsqu'on fait une telle entame, on commence par l'une des cartes précieuses, à moins qu'on ne sache qu'un adversaire détient le Roi.
 
-- when the suit is doubleton - especially Queen-Knight in which case you hope to win the second round;
+Puisqu'aucun signal n'est autorisé dans une couleur avant que le Roi ait été joué, une entame d'ouverture d'une petite carte de couleur est ambiguë.
 
-- when attacking from a long suit headed by two valuable cards;
+### Entamer des atouts
 
-- when the leader is the dealer's partner.
+Il y a deux motifs principaux pour entamer des atouts tôt dans le jeu.
 
-Since no signal in a suit is allowed before the King has been played, an opening lead of a small suit card is ambiguous. It will only be clear from the declarations or the subsequent play what kind of hand the player has.
+- Le joueur a des atouts longs (7 ou plus) et espère attirer les atouts ennemis, en capturant éventuellement le Bégato.
 
-### Leading trumps
+- Le joueur a une main riche en cartes précieuses et veut encourager le jeu d'atouts pour sauver ces cartes plus tard, par exemple en épuisant les atouts du donneur avant qu'il n'ait la possibilité de couper la couleur qu'il a écartée.
 
-There are two main motives for leading trumps early in the game. 
+En entamant des atouts, il vaut généralement mieux commencer par un atout numéroté bas. Ces cas peuvent être distingués dans une certaine mesure par le signal que le joueur fait ou ne fait pas en même temps que l'entame.
 
-- The player has long trumps (7 or more) and hopes to draw the enemy trumps, possibly capturing the Bégato.
+- Entamer un atout avec un *busso* indique en principe que le joueur détient le plus élevé des atouts non joués — initialement l'Ange. Dans certains contextes, certains joueurs utilisent aussi cela pour signaler des atouts très forts menés par le deuxième plus élevé (initialement le Monde), mais si le Bégato du partenaire est susceptible d'être en danger, un *busso* devrait garantir le plus élevé des atouts, pour que le partenaire puisse s'y fier si nécessaire pour sauver le Bégato. Le partenaire est invité à jouer un atout moyen-élevé et à retourner un atout à sa prochaine prise de main.
 
-- The player has a hand rich in valuable cards and wants to encourage trumps to be played so as to save these cards later, for example by exhausting the dealer's trumps before the dealer has a chance to trump the suit they have discarded.
+- Entamer un atout avec un *striscio* indique que le joueur a des atouts longs (au moins 7) mais ne détient aucun des deux plus élevés. Le partenaire est invité à jouer un atout moyen-élevé et à retourner des atouts à la prochaine occasion s'il est disposé à coopérer à une stratégie d'épuisement des atouts.
 
-When leading trumps it is usually best to begin with a small numbered trump. These cases can be distinguished to some extent by the signal that the player makes or does not make along with the lead.
+- Entamer un atout sans faire de signal indique que les atouts du joueur ne sont ni particulièrement longs ni forts, mais que le joueur désire vivement que des atouts soient joués. Le joueur n'a ni vide ni couleur courte à couper et une main riche en cartes précieuses. Le partenaire ne devrait généralement pas jouer un atout élevé, juste assez haut pour battre la carte du deuxième joueur si nécessaire, pour empêcher le quatrième joueur de sauver facilement le Bégato ou un Maure.
 
-- Leading a trump with a *busso* in principle indicates that the leader holds the highest outstanding trump - initially the Angel. In some contexts some players also use this to signal very strong trumps headed by the second highest (initially the World), but if partner's Bégato is likely to be in danger a *busso* should guarantee the highest trump, so that partner can rely on it if necessary to save the Bégato. Partner is invited to play a medium-high trump and to return a trump when next obtaining the lead if holding a suitable hand.
+La stratégie d'entamer des atouts présente des inconvénients potentiels qu'il faut peser contre les avantages. Il y a le risque de mettre le Bégato du partenaire en danger, et la probabilité de concéder plusieurs atouts utiles aux adversaires.
 
-- Leading a trump with a *striscio* indicates that the leader has long trumps (at least 7) but holds neither of the top two. Again partner is invited to play a medium-high trump and to return trumps at the next opportunity if willing to cooperate in a trump-drawing strategy.
+Typiquement, un atout numéroté bas est entamé et le deuxième joueur contribuera souvent un Maure car le quatrième joueur est bien placé pour battre ce que le partenaire de l'entameur joue. Sans Maure, le deuxième joueur battra normalement la carte entamée aussi bon marché que possible. Le troisième joueur ne voudra pas gaspiller l'Ange sur une levée ne contenant rien de mieux qu'un Maure, et sera réticent à jouer un *pezzo* (atout non numéroté élevé) de peur de le perdre.
 
-- Leading a trump without making any signal indicates that the leader's trumps are not particularly long or strong, but the player is keen for trumps to be played. The leader has no void or short suit that they wish to trump and a hand rich in valuable cards in the suits. Partner should usually not play a high trump, only high enough to beat the second player's card if necessary, to prevent the fourth player from easily saving the Bégato or a Moor.
+En raison des risques, un joueur ne devrait généralement pas insister unilatéralement sur une stratégie d'entame d'atouts, mais se laisser guider par la réponse du partenaire.
 
-The strategy of leading trumps has some potential disadvantages that should be weighed against the benefits. There is the risk of putting partner's Bégato in danger, and the probability of conceding several useful trumps to the opponents.
+### Retourner une entame
 
-Typically a low numbered trump is led and the second player will often contribute a Moor because the fourth player is in a good position to beat whatever the leader's partner plays. Lacking a Moor the second player will normally beat the led card as cheaply as possible. The third player will not want to waste the Angel on a trick containing nothing better than a Moor, and will be reluctant to play a *pezzo* (high unnumbered trump) for fear of losing it. If partner has led a trump with a *busso* or *striscio* the third player will usually play a number around 13-15. By beating (for example) the 14 with the 15 the fourth player may collect a Moor and couple of very useful cards to build a *grande* or to break the *grande* at a high level depending on which team has the Angel.
+Lorsque vous entamez une couleur qui a déjà été entamée, le Roi a généralement été joué au premier tour, il y a donc l'opportunité de faire un signal. Un *striscio* ou *volo* indique si le joueur a encore des cartes de cette couleur, et peut aider le partenaire à juger la distribution de la couleur. Cela peut aussi aider les adversaires, il est donc sage de signaler seulement lorsqu'on a un plan particulier en tête.
 
-Because of the risks, a player should generally not insist unilaterally on a trump leading strategy, but be guided by partner's response. If partner returns a suit rather than a trump on obtaining the lead, it may mean that they have short trumps and want to use them to trump voids or short suits, or it may be a sign of the Bégato in danger.
+Un *busso* lors de l'entame d'une couleur indique des atouts forts, et suggère au partenaire de retourner un atout à sa prochaine prise de main, ou de retourner la même couleur pour forcer les adversaires à couper.
 
-### Returning a lead
+Lorsqu'on entame un atout en réponse à l'invitation du partenaire, on signale la qualité de sa propre détention d'atouts. Un *busso* montre au moins un atout élevé non numéroté, un *striscio* montre des atouts raisonnablement longs sans atout élevé, et un *volo* montre qu'on entame son dernier atout restant pour soutenir le plan du partenaire, puisqu'on n'en a pas meilleur usage.
 
-When you lead a suit that has been led before, usually the King has been played on the first round so there is the opportunity to make a signal. A *striscio* or *volo* indicates whether or not the leader has further cards of that suit, and may help partner to judge the distribution of the suit. It can also help the opponents of course, so it is wise to signal only when having a particular plan in mind. When the opponents have the balance of the cards and you are playing a passive game it is better to give out as little information as possible.
+### Arrachage d'atouts et entrées
 
-A *busso* when leading a suit indicates strong trumps, and suggests that partner should either return a trump when they next obtain the lead, or return the same suit so as to force the opponents to trump.
+Parfois, une méthode efficace pour épuiser les atouts des adversaires est d'entamer répétitivement une couleur longue qu'ils doivent tous deux couper. Cet arrachage des atouts des adversaires est appelé en italien *accorciamento* (raccourcissement).
 
-When leading a trump in response to partner's invitation, you signal the quality of your own trump holding. A *busso* shows at least one high unnumbered trump, a *striscio* shows reasonably long trumps without any high ones, and a *volo* shows that you are leading your last remaining trump in support of your partner's plan, since you have no better use for it. Returning a trump without a signal shows a trump holding that is neither long not strong, and a willingness to go along with the plan because you have no short suits (singletons or voids) where you would prefer to use your trumps.
+La configuration la plus favorable pour l'arrachage est lorsqu'un partenaire a une couleur longue et des atouts longs tandis que l'autre est court dans cette couleur avec des atouts courts mais bons.
 
-Leading a suit when partner had requested a trump lead suggests that you do not want to play trumps because you have a void or short suit that you want to trump, and perhaps also because your Bégato is in danger.
+### Sauver le Bégato
 
-### Trump ripping and entries
+Le joueur détenant le Bégato réfléchira au moment le plus sûr pour le jouer. Avec des atouts longs (disons 7 ou plus), il n'y a pas d'urgence. Avec une détention courte d'atouts, quelque chose doit être fait rapidement. La façon la plus sûre est de le jouer sous l'Ange du partenaire — si le partenaire l'a. Si le détenteur du Bégato a un vide ou un singleton, il peut être possible de l'utiliser pour couper une couleur latérale. C'est satisfaisant (il peut capturer un Roi) mais pas entièrement sûr, surtout si le donneur n'a pas encore joué à la levée.
 
-Sometimes an effective method to exhaust the opponents' trumps is by repeatedly leading a long suit that they both have to trump. Ripping the opponents' trumps in this way is known in Italian as *accorciamento* (shortening). This is not always an unpleasant experience for the players whose trumps are ripped, because in the process they may capture several useful cards. The ripping strategy also has the drawback that the player leading the long suit loses the lead each time it is led, so the player also needs sufficient entries (such as Kings or high trumps) to regain the initiative in order to lead the long suit again.
+### Fin de partie
 
-The most favourable configuration for ripping is when one partner has a long suit and long trumps while the other is short in that suit with short but good trumps. When the long suit is led the opponents have to beat the short partner's trumps if they want to obtain the lead, and the player with short trumps, after using them all to good effect, has the opportunity to save valuable cards on partner's remaining trump tricks.
+Les joueurs qui ont épuisé leurs atouts peuvent utiliser les cartes qu'ils défaussent pour indiquer à leur partenaire la force relative de leurs couleurs. Défausser une carte de couleur montre une faiblesse dans cette couleur.
 
-Another favourable situation is when you hold a suit in common with your left-hand opponent, the other two players having run out. If you lead this suit your right-hand opponent must trump and partner can overtrump. It is important to keep count of the cards in the suit to know when your left-hand opponent also becomes void. The signals *striscio* and *volo* can be used to help your partner to estimate whether the fourth player will also be trumping.
+Vers la fin du jeu, surtout quand le partenaire a épuisé ses atouts, les significations des signaux *busso* et *striscio* lors de l'entame d'atouts sont modifiées.
 
-### Saving the Bégato
+- *Busso* signifie « J'ai des atouts forts, mais pas beaucoup. Sauvez vos cartes précieuses en les jouant maintenant avant que mes atouts ne s'épuisent ».
 
-The player holding the Bégato will be thinking about the safest time to play it. With long trumps (say 7 or more) there is no great urgency, a chance will probably appear. With a short trump holding something may need to be done quickly. The safest way is to play it under partner's Angel - if partner has it. If the owner of the Bégato has a void or singleton it may be possible to use it to trump a side suit. This is satisfying (it may capture a King) but not entirely safe, especially if the dealer has yet to play to the trick (dealer often creates a void with the discard). In a desperate situation, the best chance may be to play the Bégato to a trump trick in which partner is playing last, or even just to lead the Bégato and hope that partner can win if it is clear that there is no other chance to save it.
+- *Striscio* signifie « J'ai des atouts longs, mais pas nécessairement les plus élevés. Gardez vos cartes gagnantes dans les couleurs et défaussez vos couleurs faibles, pour qu'après avoir éliminé tous les atouts nous puissions prendre les levées de couleur restantes ».
 
-In this, as in all the play, players should remember the information they gained from the declarations on the first trick. If the partner is known to hold the Angel then it is safe to lead the Bégato. If the third player to a trick is void of the suit led and the fourth player has declared a card in the suit which they haven't yet played, then it is safe for the third player to trump with the Bégato. 
+### Utilisation du Matto
 
-The unusual lead of a King may suggest that it is a singleton (so unlikely to be trumped), and that the player intends to try to save the Bégato by trumping the second round of the suit.
+Le Matto peut être une carte difficile à bien utiliser. Il devrait normalement être joué sur une levée qui est gagnée par le partenaire ou un adversaire. Il est presque toujours une erreur d'entamer avec le Matto, car cela donne au joueur suivant un libre choix de jeu et lui permet souvent de sauver une carte précieuse qui aurait autrement été perdue.
 
-### The Endgame
+La façon la plus simple de l'utiliser est d'allonger effectivement vos atouts ou l'une de vos couleurs en le jouant dans une levée de cette couleur ou d'atouts à la place de la carte perdante que vous auriez autrefois dû jouer.
 
-Players who have run out of trumps can use the cards they discard to indicate to their partner the relative strength of their suits. Discarding a suit card shows weakness in that suit, and if a player discards cards from two or three suits, partner can infer that their strength if any lies in the remaining suit(s).
-
-Towards the end of the game, especially when partner has run out of trumps, the meanings of the *busso* and *striscio* signals when leading trumps are modified. 
-
-- *Busso* means 'I have strong trumps, but not very many. Save your valuable cards by playing them now before my trumps run out'.
-
-- *Striscio* means 'I have long trumps, but not necessarily the top ones. Hold on to your winning cards in the suits and discard your weak suits, so that after I have eliminated all the trumps we can take the remaining suit tricks.'
-
-Occasionally in the last few tricks, if you have an accurate idea of who holds which cards, it can be profitable to endplay an opponent, forcing them to take the lead in order to capture a valuable card from them.
-
-### Use of the Matto
-
-The Matto can be a difficult card to use well. It should normally be played on a trick that is being won by partner or an opponent. It is nearly always a mistake to lead the Matto, since it gives the next player a free choice of play and often allows them to save a valuable card that would otherwise be lost.
-
-The easiest way to use it is to effectively lengthen your trumps or one of your suits by playing it to a trick in that suit or trumps in place of the losing card that you would otherwise have to play. 
-
-Occasionally it can be used in the endgame to avoid taking the lead from an opponent and thereby force them to lead into a holding with which you can capture a valuable card. For example if your opponent has to lead from World, 13, 12 and you hold Angel, Sun, Matto (the other players having no trumps) you will play the Matto on the lead of the 13 or 12 in order to capture the World.
-
-Special care is needed when holding the Matto in a strong hand. You will need to plan when to play the Matto, usually playing it quite early, and at all costs avoiding the situation where you are left on lead with nothing but winners and the Matto, and thus are forced at some point to lead the Matto and watch your opponents save a couple of key cards.
-
-## Variants
+## Variantes
 
 ### Millone
 
-When a series of games of Ottocento is played, sometimes the last game of the session is played as Millone (1000), the only difference being that the target score to win this game is 1000 points rather than 800.
+Lorsqu'une série de parties d'Ottocento est jouée, parfois la dernière partie de la session est jouée en Millone (1000), la seule différence étant que le score cible pour gagner cette partie est de 1000 points au lieu de 800.
 
-Millone or Mille is also the name of a two-player game with Tarocco Bolognese cards in which 20 cards are dealt to each player, each discards 10, then 10 more cards each are dealt, plus two more to the dealer and the dealer discards another two cards. As usual five-point cards cannot be discarded and all discarded cards count for the player who discarded them at the end of the play. The target score to win the game is 1000 points over as many deals as it takes.
+Millone ou Mille est aussi le nom d'un jeu à deux joueurs avec des cartes de Tarocco Bolognese dans lequel 20 cartes sont distribuées à chaque joueur, chacun écarte 10, puis 10 cartes supplémentaires sont distribuées à chacun, plus deux au donneur qui écarte encore deux cartes. Les cartes à 5 points ne peuvent pas être écartées et toutes les cartes écartées comptent pour le joueur qui les a écartées à la fin du jeu. Le score cible pour gagner est de 1000 points sur autant de donnes que nécessaire.
 
 ### Quattro Scartate
 
-This is the same game as Ottocento, but instead of playing to a target score of 800, four deals are played and the final scores determine the margin of victory for the team with more points. Some groups prefer this format to Ottocento because it gives each player in turn the advantage of being the *scartatore*, unlike a game of Ottocento which is often completed in three or even just two deals.
+C'est le même jeu que l'Ottocento, mais au lieu de jouer pour un score cible de 800, quatre donnes sont jouées et les scores finaux déterminent la marge de victoire pour l'équipe ayant le plus de points. Certains groupes préfèrent ce format à l'Ottocento car il donne à chaque joueur à tour de rôle l'avantage d'être le *scartatore*.
 
-### Use of Signals
+### Utilisation des signaux
 
-The signals explained in the main description above are those allowed by the Accademia del Tarocchino Bolognese. However, there are places where more signals are allowed and at least one place where the game is played with no signals at all. 
+Les signaux expliqués dans la description principale sont ceux autorisés par l'Accademia del Tarocchino Bolognese. Cependant, il existe des endroits où plus de signaux sont autorisés et au moins un endroit où le jeu se joue sans aucun signal.
 
-In general if more signals that are allowed the play can be planned more accurately, which favours the team with the stronger cards. With too many signals all uncertainty is removed: the play becomes uninteresting and the team with weaker cards has no chance. Without signals the players are more in the dark, and must rely on probability, guesswork and instinct.
+En général, si plus de signaux sont autorisés, le jeu peut être planifié plus précisément, ce qui favorise l'équipe avec les cartes les plus fortes. Avec trop de signaux, toute incertitude est supprimée : le jeu devient sans intérêt et l'équipe avec les cartes les plus faibles n'a aucune chance.
 
-In the main description above, one controversial rule is the ban on signalling in a suit before the King has been played. In the past many circles allowed such signals, making it easier for a player to indicate their preferred strategy at the start of the game.
+### Comptage de la Grande
 
-Another controversy centres around whether players are allowed to bluff, for example giving a 'fake' *volo* signal holding more than one card of the suit led, and even attaching an extra meaning to this, such as using a fake trump *volo* to show short trumps with the Angel. A few pairs use this while others consider it unethical. 
+Par le passé, il y a eu des controverses sur l'interprétation de la règle selon laquelle les *contatori* ne peuvent pas être utilisés comme substituts pour deux atouts consécutifs dans la *grande*. La version dans la description principale est largement acceptée comme standard : elle correspond aux règles originales du jeu selon les récits dont nous disposons et est approuvée par l'Accademia. Dans son livre de 1983, Gianfranco Laghi note les interprétations alternatives suivantes, qui peuvent encore être en vigueur dans certains endroits.
 
-When playing for the first time in an unfamiliar group who may have different conventions, it is advisable to agree the house rules on what signals will be allowed before beginning the game.
+- Certains disent que si le Soleil et la Lune manquent, le 16 ne peut pas être ajouté à la *grande*.
 
-### Scoring the Grande
+- Certains disent que si la Lune et le 16 manquent, le 15 ne peut pas être ajouté à la *grande*.
 
-In the past there has been controversy over the interpretation of the rule that *contatori* cannot be used as substitutes for two consecutive trumps in the *grande*. The version in the main description above is widely accepted as standard: it corresponds to the original rules of the game according to the accounts we have and is endorsed by the Accademia. In his 1983 book, Gianfranco Laghi notes the following alternative interpretations, which may still be current in some places.
+L'interprétation standard est que la Lune n'est pas nécessaire pour la *grande*, donc dans ces deux cas la *grande* n'est pas interrompue pourvu que suffisamment de *contatori* soient détenus.
 
-- Some say that if the Sun and the Moon are missing, the 16 cannot be added to the *grande*.
+## Jeu de substitution
 
-- Some say that if the Moon and 16 are missing, the 15 cannot be added to the *grande*.
+Si vous ne trouvez pas de jeu de Tarocchi Bolognese, il est théoriquement possible de jouer avec un autre jeu de Tarot, par exemple un Tarot de Marseille ou un Tarocco Piemontese réduit, mais un certain nombre de substitutions seraient nécessaires pour les atouts :
 
-The standard interpretation is that the Moon is not necessary for the *grande*, so in these two cases the *grande* is not broken provided that sufficient *contatori* are held.
+- XX pour l'Ange (atout le plus élevé)
 
-## Substitute Pack
+- XXI pour le Monde (notez que le XX bat le XXI)
 
-If you cannot find a Bolognese Tarocchi pack then it is theoretically possible to play the game with another Tarot pack, for instance a cut-down Tarot de Marseille or Tarocco Piemontese, but a number of substitutions would have to be made in trumps:
+- XIX pour le Soleil
 
-- XX used for the Angel (highest trump)
+- XVIII pour la Lune
 
-- XXI for the World (note that the XX beats the XXI)
-
-- XIX for the Sun
-
-- XVIII for the Moon
-
-- XVII for the 16 (!) (Star)
+- XVII pour le 16 (!) (Étoile)
 
 - ...
 
-- VI for the 5
+- VI pour le 5
 
-- V, IIII, III, II for the 4 Moors (replaced by popes and emperors)
+- V, IIII, III, II pour les 4 Maures (remplacés par des papes et empereurs)
 
-- I for the Bégato
+- I pour le Bégato
 
-This is only recommended as a last resort since the individuality of the Bolognese cards is one of the attractions of the game.
+Ceci n'est recommandé qu'en dernier recours car la personnalité des cartes bolognaises est l'une des attractions du jeu.
 
-## Other Tarocco Bolognese WWW pages
+## Autres pages web sur le Tarocco Bolognese
 
-Here is the web site of the [Accademia del Tarocchino Bolognese](https://www.tarocchinobolognese.it) - an institute devoted to the promotion and development of the game.
+Voici le site de l'[Accademia del Tarocchino Bolognese](https://www.tarocchinobolognese.it) — un institut devoted à la promotion et au développement du jeu.
 
-Maurizio Barilli's [Tarocco Bolognese](http://taroccobolognese.mauriziobarilli.it/) web site includes rules for Ottocento and for several closely related games, including versions for 2 or 3 players.
+Le site [Tarocco Bolognese](http://taroccobolognese.mauriziobarilli.it/) de Maurizio Barilli comprend des règles pour l'Ottocento et pour plusieurs jeux apparentés, y compris des versions pour 2 ou 3 joueurs.
 
-The card game encylopedia at tretre.it includes [rules for Tarocchino Bolognese](https://web.archive.org/web/20160810090708/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-t/#c132). At this site there is also the [Biblioteca del tre](https://web.archive.org/web/20170602231335/http://www.tretre.it/menu/accademia-del-tre/biblioteca-del-tre.html), which has reproductions of several early books about Tarocchino, and a copy of the [earliest known rules for Tarocchino](https://web.archive.org/web/20160804151328/http://www.tretre.it/index.php?id=90), from a manuscript dating originally from the late 16th or early 17th century, and transcribed by Pedini in 1746.
+## Jeu en ligne
 
-## Online Game
-
-You can play Ottocento, Quattro Scartate and Millone online against live opponents on Joe Elleson's [Online Card Games](https://onlinecardgames.co.uk/) site. The user interface is available in Italian or English. It is free to use but a login is required.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tarocco Bolognese: Ottocento
+Vous pouvez jouer à l'Ottocento, au Quattro Scartate et au Millone en ligne contre des adversaires en direct sur le site [Online Card Games](https://onlinecardgames.co.uk/) de Joe Elleson. L'interface utilisateur est disponible en italien ou en anglais. L'utilisation est gratuite mais un identifiant est requis.

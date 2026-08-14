@@ -2,192 +2,199 @@
 
 **Difficulté :** ⭐⭐⭐
 **Type :** Tarot, Tarot
-**But :** A special form of Tarock for 3 or 4 players played in southern Baden in Germany.
+**But :** Une forme particulière de Tarock pour 3 ou 4 joueurs, jouée dans le sud du Bade en Allemagne.
 **Autres noms :** Cego cards
 
 ---
 
 ## Introduction
 
-Cego is a special type of Tarok, played in south west Germany. It was developed in the early part of the nineteenth century and became the national card game of Baden and Hohenzollern, where it remains extremely popular. These are the only parts of Germany where genuine Tarok cards (here known as Cego cards) are still in general use. (A game called Tarock is played in Württemberg and Bavaria, but that game uses a normal 36 card German pack).
+Le Cego est un type particulier de Tarok, joué dans le sud-ouest de l'Allemagne. Il s'est développé au début du XIXe siècle et est devenu le jeu de cartes national du Bade et du Hohenzollern, où il reste extrêmement populaire. C'est la seule région d'Allemagne où les véritables cartes de Tarok (appelées ici cartes Cego) sont encore d'usage courant. (Un jeu appelé Tarock est joué dans le Wurtemberg et en Bavière, mais ce jeu utilise un jeu allemand classique de 36 cartes.)
 
-Cego is unusual among Tarok games in that an extra hand, the **Cego**, sometimes known as the **Tapp** or **Blinde**, is dealt to the centre of the table. Many of the bids involve playing with this extra hand, retaining only one or two of one's original cards and discarding the remainder. The discarded cards are sometimes called the **Legage**. The idea of this type of bid derives from a version of L'Hombre, and survives in a few other games, such as Vira.
+Le Cego est inhabituel parmi les jeux de Tarok en ce qu'une main supplémentaire, le **Cego**, parfois appelé le **Tapp** ou le **Blinde**, est distribuée au centre de la table. Beaucoup des enchères impliquent de jouer avec cette main supplémentaire, en ne conservant qu'une ou deux de ses cartes d'origine et en écartant le reste. Les cartes écartées sont parfois appelées le **Legage**. L'idée de ce type d'enchère dérive d'une version du L'Hombre et survit dans quelques autres jeux, comme le Vira.
 
-There are many local variations of Cego; the description on this page is based on games played in Bräunlingen in April 1997, in the Gasthaus zum Löwen and also with young members of the church (the *Bräunlingen Ministranten*). My thanks to Stephan Ocker for introducing me to the players.
+Il existe de nombreuses variantes locales du Cego ; la description de cette page est basée sur des parties jouées à Bräunlingen en avril 1997, au Gasthaus zum Löwen et également avec de jeunes membres de la paroisse (les *Bräunlinger Ministranten*). Mes remerciements à Stephan Ocker pour m'avoir présenté aux joueurs.
 
-The version played at the Gasthaus zum Löwen is described first, then the version played by the Ministranten. Some other variations, including those mentioned in various published descriptions of Cego, are given at the end.
+La version jouée au Gasthaus zum Löwen est décrite en premier, puis la version jouée par les Ministranten. D'autres variantes sont données à la fin, y compris celles mentionnées dans diverses publications.
 
-## Players
+## Joueurs
 
-There are four or three active players. If five people want to play, the dealer sits out of each hand but pays or receives the same as the defenders. The game is played anticlockwise. 
+Il y a quatre ou trois joueurs actifs. Si cinq personnes souhaitent jouer, le donneur ne participe pas à chaque donne mais paie ou reçoit la même chose que les défenseurs. Le jeu se joue dans le sens inverse des aiguilles d'une montre.
 
-The player to the dealer's right, who receives the first cards and speaks first in the bidding, is known as **Vorhand**.
+Le joueur situé à la droite du donneur, qui reçoit les premières cartes et parle en premier lors des enchères, est appelé **Vorhand**.
 
-## Cards
+## Cartes
 
-A special 54 card Cego pack consisting of 22 **Trocke**, which are permanent trumps, and 8 cards in each of the four suits clubs *(kreuz)*, spades *(schippen, schip)*, hearts *(herz)* and diamonds *(karo, eckstein, eck)*. There are two different designs in use: in one various anmals are depicted on the Trocke; in the other, the Trocke show domestic scenes. If you have no Cego cards, you could use instead an Austrian Tarock pack, or a French Tarot pack from which the 1-6 in each black suit and the 5-10 in each red suit have been removed.
+On utilise un jeu spécial de 54 cartes Cego composé de 22 **Trocke**, qui sont des atouts permanents, et de 8 cartes dans chacune des quatre couleurs : trèfle (*kreuz*), pique (*schippen, schip*), cœur (*herz*) et carreau (*karo, eckstein, eck*). Il existe deux designs différents : l'un représente divers animaux sur les Trocke ; l'autre montre des scènes de vie domestique. Si vous n'avez pas de cartes Cego, vous pouvez utiliser un jeu de Tarock autrichien, ou un jeu de Tarot français duquel on a retiré les 1-6 de chaque couleur noire et les 5-10 de chaque couleur rouge.
 
-The Trocke from 1 to 21 are identified by large arabic numbers in the top centre. They rank from 1 (lowest) up to 21 (second highest). The highest trump, which is effectively No. 22, is called **der Gstieß** (or sometimes **der Geiger**). It has no number and shows a musician. The lowest trump, Trock 1, is called **der kleine Mann**.
+Les Trocke de 1 à 21 sont identifiés par de grands chiffres arabes au centre supérieur. Ils se classent du 1 (le plus bas) au 21 (deuxième plus haut). L'atout le plus haut, qui est en fait le n° 22, est appelé **der Gstieß** (ou parfois **der Geiger**). Il n'a pas de numéro et représente un musicien. Le plus bas atout, le Trock 1, est appelé **der kleine Mann**.
 
-The cards in the black suits rank (from high to low) king *(König)*, queen *(Dame)*, cavalier *(Reiter)*, jack *(Bube)*, 10, 9, 8, 7. The cards in the red suits rank king, queen, cavalier, jack, 1, 2, 3, 4. The picture cards have no corner indices for identification, but the kings wear crowns, the queens are female, the cavaliers have horses and the jacks are the other ones.
+Les cartes des couleurs noires se classent (du plus haut au plus bas) : roi (*König*), dame (*Dame*), cavalier (*Reiter*), valet (*Bube*), 10, 9, 8, 7. Les cartes des couleurs rouges se classent : roi, dame, cavalier, valet, 1, 2, 3, 4. Les figures n'ont pas d'indices de coin pour les identifier, mais les rois portent des couronnes, les dames sont des figures féminines, les cavaliers montent des chevaux et les valets sont les autres.
 
-## Values of the cards
+## Valeur des cartes
 
-The object of the game is (usually) to win tricks containing valuable cards. The cards values are:
+Le but du jeu est (généralement) de gagner des levées contenant des cartes de valeur. Les valeurs des cartes sont :
 
-| Gstieß, Trock 21, Trock 1 and kings | 5 points each |
-| queens | 4 points each |
-| cavaliers | 3 points each |
-| jacks | 2 points each |
-| all other cards | 1 point each |
+| Gstieß, Trock 21, Trock 1 et rois | 5 points chacun |
+| dames | 4 points chacune |
+| cavaliers | 3 points chacun |
+| valets | 2 points chacun |
+| toutes les autres cartes | 1 point chacune |
 
-The cards are counted in groups of three, and two points are subtracted from the value of each group of 3 cards. If one or two cards are left over at the end of counting a pile of cards, one point is subtracted from this group. The total value of the cards in the pack is 70 points. 
+Les cartes sont comptées par groupes de trois, et deux points sont soustraits de la valeur de chaque groupe de 3 cartes. S'il reste une ou deux cartes à la fin du comptage d'un tas, un point est soustrait de ce groupe. La valeur totale des cartes du jeu est de 70 points.
 
-If this method of counting is unfamiliar, see the counting points in Tarot games page for further explanation and examples.
+Si cette méthode de comptage ne vous est pas familière, consultez la page sur le comptage des points dans les jeux de Tarot pour plus d'explications et d'exemples.
 
-## Four player game
+## Jeu à quatre joueurs
 
-### Deal
+### Distribution
 
-The first dealer is chosen by cutting cards (highest deals); thereafter the turn to deal rotates anticlockwise. The dealer shuffles and the player to dealer's left cuts. The dealer places the top 10 cards of the pack face down in the centre of the table, and then deals a single batch of 11 cards to each player. The cards dealt to the centre of the table are known as **das Cego**, or sometimes **der Tapp**.
+Le premier donneur est choisi par coupe de cartes (le plus haut distribue) ; ensuite le tour de distribution passe dans le sens inverse des aiguilles d'une montre. Le donneur mélange et le joueur à sa gauche coupe. Le donneur place les 10 premières cartes du jeu face en bas au centre de la table, puis distribue 11 cartes à chaque joueur. Les cartes distribuées au centre de la table sont appelées **das Cego**, ou parfois **der Tapp**.
 
-### The Games
+### Les Jeux
 
-The game to be played is decided by bidding. In most cases, the player who wins the bidding (i.e. makes the last bid) plays alone against the other three players in partnership (the defenders). The only exception to this is the game Räuber, which is played without partnerships - everyone for themselves. 
+Le jeu à jouer est décidé par des enchères. Dans la plupart des cas, le joueur qui gagne les enchères (c'est-à-dire qui fait la dernière enchère) joue seul contre les trois autres joueurs associés en équipe (les défenseurs). La seule exception est le jeu Räuber, qui se joue sans association — chacun pour soi.
 
-There are two types of game, which I shall call normal games and special games. In a normal game, the bidder's objective is to take as many card points as possible. When counting the points taken, the cego cards (the 10 cards that are out of play) are added to the tricks won by the bidder, and the cards in the tricks won by the defenders are counted together. The bidder wins by taking more card points than the defenders, that is 36 or more, since there are 70 card points in total.
+Il existe deux types de jeux : les jeux normaux et les jeux spéciaux. Dans un jeu normal, l'objectif de l'enchérisseur est de prendre le plus de points de cartes possible. Lors du comptage, les cartes du cego (les 10 cartes hors jeu) sont ajoutées aux levées gagnées par l'enchérisseur, et les cartes des levées gagnées par les défenseurs sont comptées ensemble. L'enchérisseur gagne en prenant plus de points de cartes que les défenseurs, soit 36 ou plus, puisqu'il y a 70 points en tout.
 
-#### Normal Games
+#### Jeux normaux
 
-The possible normal games are as follows:
+Les jeux normaux possibles sont les suivants :
 
 **Solo**
-Everyone plays with the cards they were originally dealt. No one may look at the cego cards until after the play.
+Tout le monde joue avec les cartes qui lui ont été distribuées à l'origine. Personne ne peut regarder les cartes du cego avant la fin de la partie.
+
 **Cego**
-The bidder selects two cards to keep (usually high Trocke), discards the other nine, and then picks up the ten cego cards, making twelve. Finally the bidder discards one more card face down from these twelve and plays with the remaining 11 cards. This exchange of cards is performed by the bidder, without exposing any of the cards to the defenders.
+L'enchérisseur choisit deux cartes à conserver (généralement des Trocke élevés), écarte les neuf autres, puis ramasse les dix cartes du cego, totalisant douze cartes. Enfin, l'enchérisseur écarte une carte supplémentaire face en bas parmi ces douze et joue avec les 11 cartes restantes. Cet échange de cartes est effectué par l'enchérisseur, sans montrer aucune carte aux défenseurs.
+
 **Eine**
-The bidder can choose just one card to keep (generally a high trump). This card is combined with the cego to form a new 11 card hand with which the bidder plays. The remaining 10 cards are discarded. Again, none of the cards are shown to the defenders.
-**Eine Leere** *("one empty")*
-The bidder can keep one card, which must be a numeral card of a suit (i.e. an "empty" card). This card is placed face up on the table, the remaining 10 cards of the bidder's hand are discarded face down, and the bidder picks up the 10 cego cards in their place, without showing them. The empty card which was kept and exposed must either be led to the first trick, or the bidder must lead another card of the same suit as the exposed card.
+L'enchérisseur peut choisir de ne garder qu'une seule carte (généralement un atout élevé). Cette carte est combinée avec le cego pour former une nouvelle main de 11 cartes. Les 10 cartes restantes sont écartées. Là encore, aucune carte n'est montrée aux défenseurs.
 
-It is possible for a player who has no empty cards to play Eine Leere. In this case the bidder can keep a picture card in a suit instead, for example a jack, and nominate this as an empty card. Such a card counts as the lowest in its suit, and cannot win a trick. In fact the exposed "empty card" kept by the bidder in Eine Leere can never win a trick. If the bidder chooses to lead a different card of the same suit as the exposed card, the card which was originally exposed automatically loses any trick to which it is played later. 
+**Eine Leere** *(« une vide »)*
+L'enchérisseur peut garder une carte, qui doit être une carte numérique d'une couleur (c'est-à-dire une carte « vide »). Cette carte est placée face visible sur la table, les 10 autres cartes de la main sont écartées face en bas, et l'enchérisseur ramasse les 10 cartes du cego à la place, sans les montrer. La carte vide conservée et exposée doit soit être menée à la première levée, soit l'enchérisseur doit mener une autre carte de la même couleur que la carte exposée.
 
-**Example:** The bidder keeps the **![club](../images/internat/club.gif)8** but having found the king of clubs in the cego, decides to lead that to the first trick instead. The king of clubs wins, as everyone has a club. Later in the hand, the bidder has managed to draw all the defenders' trumps and none of them has any clubs left. If the bidder leads the **![club](../images/internat/club.gif)8** now, it does not win the trick even though it is the only club. The second player can play any card, this card determines the suit to be followed, and the highest card of that suit wins the trick.
+Il est possible pour un joueur qui n'a pas de cartes vides de jouer Eine Leere. Dans ce cas, l'enchérisseur peut garder une figure d'une couleur à la place, par exemple un valet, et la désigner comme carte vide. Une telle carte compte comme la plus basse de sa couleur et ne peut pas gagner de levée. En fait, la carte « vide » exposée conservée par l'enchérisseur dans Eine Leere ne peut jamais gagner de levée. Si l'enchérisseur choisit de mener une carte différente de la même couleur que la carte exposée, la carte initialement exposée perd automatiquement toute levée à laquelle elle est jouée ultérieurement.
 
-**Zwei Leere** *("two empty")*
-The bidder keeps two numeral cards of the same suit, which are placed face up on the table, and discards the other nine cards face down. The bidder then picks up the cego, and from it must discard the **lowest Trock**, showing it to the defenders before adding it to the other 9 discards. The bidder must either lead the two exposed cards to the first two tricks, or replace one or both of them by cards of the same suit from hand and lead those. In any case, as in Eine Leere, whether they are played now or later, the original exposed "empty cards" can never win tricks.
-A player who does not have two numeral cards of the same suit can designate any two cards of the same suit as "empty" and expose them, but as in Eine Leere, these become low cards and can never win tricks.
+**Exemple :** L'enchérisseur conserve le **![trèfle](../images/internat/club.gif)8** mais, ayant trouvé le roi de trèfle dans le cego, décide de le mener à la première levée. Le roi de trèfle l'emporte, puisque tout le monde a du trèfle. Plus tard dans la donne, l'enchérisseur a réussi à tirer tous les atouts des défenseurs et aucun d'eux n'a plus de trèfle. Si l'enchérisseur mène le **![trèfle](../images/internat/club.gif)8** maintenant, il ne gagne pas la levée même s'il est le seul trèfle. Le deuxième joueur peut jouer n'importe quelle carte ; cette carte détermine la couleur à suivre, et la plus haute carte de cette couleur gagne la levée.
 
-**Zwei Verschiedene** *("two different")*
-The bidder keeps two numeral cards of different suits, which are placed face up on the table, and discards the other nine cards face down. The bidder then picks up the cego, and from it must discard the **highest Trock**, showing it to the defenders before adding it to the other 9 discards. The bidder must lead the two exposed cards to the first two tricks - there is no option to lead other cards of the same suits. As in Eine Leere and Zwei Leere, a player who does not have two numeral cards of different suits can use picture cards for one or both of them instead; these then become the lowest cards of their suits.
+**Zwei Leere** *(« deux vides »)*
+L'enchérisseur conserve deux cartes numériques de la même couleur, qui sont placées face visible sur la table, et écarte les neuf autres cartes face en bas. L'enchérisseur ramasse ensuite le cego, et doit en écarter le **Trock le plus bas**, en le montrant aux défenseurs avant de l'ajouter aux 9 autres cartes écartées. L'enchérisseur doit soit mener les deux cartes exposées aux deux premières levées, soit remplacer l'une ou les deux par des cartes de la même couleur depuis sa main et les mener. Dans tous les cas, comme dans Eine Leere, qu'elles soient jouées maintenant ou plus tard, les cartes « vides » originales ne peuvent jamais gagner de levées.
+Un joueur qui n'a pas deux cartes numériques de la même couleur peut désigner deux cartes quelconques de la même couleur comme « vides » et les exposer, mais comme dans Eine Leere, elles deviennent des cartes basses et ne peuvent jamais gagner de levées.
+
+**Zwei Verschiedene** *(« deux différentes »)*
+L'enchérisseur conserve deux cartes numériques de couleurs différentes, qui sont placées face visible sur la table, et écarte les neuf autres cartes face en bas. L'enchérisseur ramasse ensuite le cego, et doit en écarter le **Trock le plus haut**, en le montrant aux défenseurs avant de l'ajouter aux 9 autres cartes écartées. L'enchérisseur doit mener les deux cartes exposées aux deux premières levées — il n'y a pas d'option pour mener d'autres cartes des mêmes couleurs. Comme dans Eine Leere et Zwei Leere, un joueur qui n'a pas deux cartes numériques de couleurs différentes peut utiliser des figures pour l'une ou les deux ; celles-ci deviennent alors les cartes les plus basses de leur couleur.
+
 **Der kleine Mann**
-The bidder must hold the kleiner Mann (Trock 1), which is placed face up on the table and must be led to the first trick (which it will lose). The bidder's other 10 cards are discarded face down and replaced by the 10 cards of the cego.
+L'enchérisseur doit posséder le kleine Mann (Trock 1), qui est placé face visible sur la table et doit être mené à la première levée (qu'il perdra). Les 10 autres cartes de l'enchérisseur sont écartées face en bas et remplacées par les 10 cartes du cego.
 
-#### Special Games
+#### Jeux spéciaux
 
-There are four **special games**, in which the objective is different from that in the normal games. In all of the special games, the cego is set aside and the players play with the cards they were dealt.
+Il existe quatre **jeux spéciaux**, dans lesquels l'objectif diffère des jeux normaux. Dans tous les jeux spéciaux, le cego est mis de côté et les joueurs jouent avec les cartes qui leur ont été distribuées.
 
 **Ulti**
-The bidder's sole object is to win the last trick with Trock 1 (der kleine Mann). The bidder wins if this succeeds and loses if it fails (which can happen in two ways: one of the defenders wins the last trick with a higher Trock, or the Trock 1 is forced out before the last trick).
+Le seul objectif de l'enchérisseur est de gagner la dernière levée avec le Trock 1 (der kleine Mann). L'enchérisseur gagne s'il y parvient et perd s'il échoue (ce qui peut arriver de deux façons : un des défenseurs gagne la dernière levée avec un Trock plus élevé, ou le Trock 1 est forcé de sortir avant la dernière levée).
+
 **Piccolo**
-The bidder's aim is to win exactly one trick; the defenders win if the bidder takes no tricks or more than one.
+L'objectif de l'enchérisseur est de gagner exactement une levée ; les défenseurs gagnent si l'enchérisseur ne prend aucune levée ou plus d'une.
+
 **Bettel**
-The bidder wins by taking no tricks at all; if the bidder ever takes a trick the defenders win.
+L'enchérisseur gagne en ne prenant aucune levée ; si l'enchérisseur prend ne serait-ce qu'une levée, les défenseurs gagnent.
+
 **Räuber**
-In this game everyone plays for themselves. The player who takes the most card points in tricks loses.
+Dans ce jeu, chacun joue pour soi. Le joueur qui prend le plus de points de cartes en levées perd.
 
-### Bidding Procedure
+### Procédure d'enchères
 
-The bidding is in two phases. The purpose of the first phase is to find out if anyone wants to play Solo or Ulti, and in the second phase the other games can be bid. 
+Les enchères se déroulent en deux phases. Le but de la première phase est de savoir si quelqu'un souhaite jouer Solo ou Ulti, et dans la deuxième phase, les autres jeux peuvent être enchéris.
 
-### First phase of bidding
+### Première phase des enchères
 
-The bidding begins with Vorhand (the player to dealer's right) and continues anticlockwise until someone says Solo or Ulti; a player who does not want to play either of these games passes by saying "Fort Solo" or just "Fort". A bid of Ulti ends the whole auction - no further bids are possible and the Ulti is played. A bid of Solo ends the first phase of bidding. If no one bids Solo or Ulti the first phase ends when everyone has said "Fort".
+Les enchères commencent avec Vorhand (le joueur à la droite du donneur) et continuent dans le sens inverse des aiguilles d'une montre jusqu'à ce que quelqu'un dise Solo ou Ulti ; un joueur qui ne souhaite jouer ni l'un ni l'autre passe en disant « Fort Solo » ou simplement « Fort ». Une enchère d'Ulti met fin à l'ensemble des enchères — aucune autre enchère n'est possible et l'Ulti est joué. Une enchère de Solo met fin à la première phase. Si personne n'enchérit Solo ou Ulti, la première phase se termine quand tout le monde a dit « Fort ».
 
-### Second phase after everyone said "Fort"
+### Deuxième phase après que tout le monde a dit « Fort »
 
-If everyone said "Fort", Vorhand must begin the second phase of bidding by saying "Cego" or "Piccolo" or "Bettel". Vorhand is not allowed to pass. If Vorhand says "Cego", any of the other players who wish to play Piccolo or Bettel can say so now, or at any time up to an including their normal turn to bid. A bid of Piccolo or Bettel ends the bidding and is played. In the unlikely event that more than one player wants to play a Piccolo or a Bettel, the player whose turn to bid is earlier (i.e. the nearest player in anticlockwise order from Vorhand) has priority.
+Si tout le monde a dit « Fort », Vorhand doit commencer la deuxième phase en disant « Cego » ou « Piccolo » ou « Bettel ». Vorhand n'est pas autorisé à passer. Si Vorhand dit « Cego », tout autre joueur qui souhaite jouer Piccolo ou Bettel peut le dire maintenant, ou à tout moment jusqu'à son tour normal d'enchérir. Une enchère de Piccolo ou Bettel met fin aux enchères et est jouée. Dans le cas improbable où plus d'un joueur souhaite jouer un Piccolo ou un Bettel, le joueur dont le tour d'enchère est antérieur (c'est-à-dire le joueur le plus proche dans le sens inverse des aiguilles à partir de Vorhand) a priorité.
 
-When Vorhand has said "Cego", as long as no one interrupts with Piccolo or Bettel, players have the opportunity to bid the other normal games. The ranking of the remaining bids, in ascending order, is Eine, Eine Leere, Zwei Leere, Zwei Verschiedene, der kleine Mann. If two players want to play the same game, the player whose turn to bid was earlier has priority. However, at any stage, each player can only make the lowest possible bid (jump bids are not allowed), and each player only enters the bidding after the bidding between the previous players has been resolved. 
+Lorsque Vorhand a dit « Cego », tant que personne n'interrompt avec un Piccolo ou un Bettel, les joueurs ont la possibilité d'enchérir les autres jeux normaux. L'ordre des enchères restantes, par ordre croissant, est : Eine, Eine Leere, Zwei Leere, Zwei Verschiedene, der kleine Mann. Si deux joueurs souhaitent jouer le même jeu, le joueur dont le tour était antérieur a priorité. Cependant, à chaque étape, chaque joueur ne peut faire que l'enchère la plus basse possible (les enchères par saut ne sont pas autorisées), et chaque joueur n'entre dans les enchères qu'une fois les enchères entre les joueurs précédents résolues.
 
-So after Vorhand has said "Cego" the player to Vorhand's right has the choice of making the next higher bid, "Eine" or passing, by saying "gut" (good). If this player says gut, the next player in turn has the same options, and so on, round to the dealer. If a player says "Eine", then it is immediately Vorhand's turn to decide whether to equal this bid, by saying "selbst" (myself) or to pass, by saying "gut". If Vorhand says "selbst" then the player who bid Eine must either pass, saying "gut", or continue to the next bid "Eine Leere", in which case Vorhand again has the choice of saying "selbst" or "gut". This competition between the two players continues until one of them says "gut". The survivor will play the last game mentioned unless someone bids higher. The bidding continues with the player to the right of the one who said Eine; this player can either pass or bid the next higher game, in which case the survivor of the previous bidding can say "selbst" or "gut". The bidding continues in this way until everyone has had a chance to speak and all players but one have said "gut". This one surviving bidder plays the last game mentioned. 
+Ainsi, après que Vorhand a dit « Cego », le joueur à la droite de Vorhand a le choix de faire l'enchère suivante, « Eine », ou de passer, en disant « gut » (bon). Si ce joueur dit gut, le joueur suivant a les mêmes options, et ainsi de suite, jusqu'au donneur. Si un joueur dit « Eine », c'est immédiatement au tour de Vorhand de décider s'il égalise cette enchère, en disant « selbst » (moi-même), ou s'il passe, en disant « gut ». Si Vorhand dit « selbst », le joueur qui a enchéri Eine doit soit passer, en disant « gut », soit continuer avec l'enchère suivante « Eine Leere », auquel cas Vorhand a de nouveau le choix de dire « selbst » ou « gut ». Cette compétition entre les deux joueurs continue jusqu'à ce que l'un d'eux dise « gut ». Le survivant jouera le dernier jeu mentionné, à moins que quelqu'un n'enchérisse plus haut. Les enchères continuent avec le joueur à la droite de celui qui a dit Eine ; ce joueur peut soit passer soit enchérir le jeu suivant, auquel cas le survivant de l'enchère précédente peut dire « selbst » ou « gut ». Les enchères continuent ainsi jusqu'à ce que tout le monde ait eu l'occasion de parler et que tous les joueurs sauf un aient dit « gut ». Cet unique enchérisseur survivant joue le dernier jeu mentionné.
 
-In the special case when Vorhand bids Cego and everyone else says "gut", Vorhand can choose whether to play Cego or Räuber. This is the only case in which a game of Räuber can be played. The idea of a Räuber is to punish a player who has failed to bid Solo, despite having a good hand; this player is likely to take most points and thus lose.
+Dans le cas particulier où Vorhand enchérit Cego et que tout le monde d'autre dit « gut », Vorhand peut choisir de jouer Cego ou Räuber. C'est le seul cas où un Räuber peut être joué. L'idée du Räuber est de punir un joueur qui a manqué de jouer Solo malgré une bonne main ; ce joueur risque de prendre le plus de points et donc de perdre.
 
-**Examples** (A is Vorhand; B, C and D are the other players in antclockwise order; D is dealer).
+**Exemples** (A est Vorhand ; B, C et D sont les autres joueurs dans le sens inverse des aiguilles ; D est le donneur).
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Fort | Fort | |
 | Cego | Gut | Eine | - | |
 | Selbst | - | Eine Leere | - | |
 | Gut | - | - | Zwei Leere | |
-| - | - | Selbst | Gut | C plays Zwei Leere |
+| - | - | Selbst | Gut | C joue Zwei Leere |
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Fort | Fort | |
 | Cego | Eine | - | - | |
-| Gut | - | Gut | Gut | B plays Eine |
+| Gut | - | Gut | Gut | B joue Eine |
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Fort | Fort | |
-| Cego | Eine | - | Piccolo | D plays Piccolo |
+| Cego | Eine | - | Piccolo | D joue Piccolo |
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Fort | Fort | |
-| Cego | Gut | Gut | Gut | A has the choice of playing Cego or Räuber |
+| Cego | Gut | Gut | Gut | A a le choix entre Cego et Räuber |
 
-### Second phase of bidding after a Solo bid
+### Deuxième phase des enchères après une enchère de Solo
 
-The bidding procedure after a Solo similar to the procedure when there is no Solo, except that: 
+La procédure d'enchères après un Solo est similaire à la procédure sans Solo, sauf que :
 
-- the Solo bidder has highest priority, then Vorhand, and then the other players in anticlockwise order;
+- l'enchérisseur Solo a la plus haute priorité, puis Vorhand, puis les autres joueurs dans le sens inverse des aiguilles ;
 
-- the next bid above Solo is Gegensolo (which means the same as Cego), then Eine, Eine Leere, etc., as usual;
+- l'enchère suivante au-dessus de Solo est Gegensolo (qui équivaut au Cego), puis Eine, Eine Leere, etc., comme d'habitude ;
 
-- no special games (Piccolo, Bettel) can be bid over a Solo.
+- aucun jeu spécial (Piccolo, Bettel) ne peut être enchéri au-dessus d'un Solo.
 
-So after a Solo bid, the second phase begins with Vorhand, or with the player to the right of Vorhand if it was Vorhand who bid Solo. This player can bid "Gegensolo" or pass by saying "gut". Gegensolo (against the solo) is the same game as Cego, but is worth more (as it is more difficult to win, given that the Solo player has a strong hand). If the first player passes, the next player can bid Gegensolo or pass and so on anticlockwise around the table, but skipping the player who bid Solo. 
+Ainsi après une enchère de Solo, la deuxième phase commence avec Vorhand, ou avec le joueur à la droite de Vorhand si c'était Vorhand qui avait enchéri Solo. Ce joueur peut enchérir « Gegensolo » ou passer en disant « gut ». Gegensolo (contre le solo) est le même jeu que Cego, mais vaut davantage (car il est plus difficile à gagner, le joueur Solo ayant une main forte). Si le premier joueur passe, le suivant peut enchérir Gegensolo ou passer, et ainsi de suite dans le sens inverse des aiguilles, en sautant le joueur qui a enchéri Solo.
 
-If all three opponents of the Solo bidder say "gut" the Solo is played. If someone bids Gegensolo the Solo bidder can either equal this bid, saying "selbst" or pass by saying "gut". If the Solo bidder says "selbst", the Gegensolo bidder can raise the bid to Eine, and so on just as in the bidding when there is no Solo. When one of these players says "gut", it is the turn of the player to the right of the Gegensolo bidder (or if that is the Solo bidder, the player to the Solo bidder's right) to make the next higher bid or pass, and so on. 
+Si les trois adversaires de l'enchérisseur Solo disent tous « gut », le Solo est joué. Si quelqu'un enchérit Gegensolo, l'enchérisseur Solo peut soit égaliser en disant « selbst », soit passer en disant « gut ». Si l'enchérisseur Solo dit « selbst », l'enchérisseur Gegensolo peut surenchérir à Eine, et ainsi de suite comme dans les enchères sans Solo. Quand l'un de ces joueurs dit « gut », c'est au tour du joueur à la droite de l'enchérisseur Gegensolo (ou si c'est l'enchérisseur Solo, le joueur à la droite de l'enchérisseur Solo) de faire l'enchère suivante ou de passer, et ainsi de suite.
 
-**Examples** (A is Vorhand; B, C and D are the other players in antclockwise order; D is dealer).
+**Exemples** (A est Vorhand ; B, C et D sont les autres joueurs dans le sens inverse des aiguilles ; D est le donneur).
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Solo | - | |
-| Gut | Gut | - | Gut | C plays Solo |
+| Gut | Gut | - | Gut | C joue Solo |
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Solo | - | - | |
 | Gut | - | Gegensolo | - | |
-| - | Gut | - | Gut | C plays Cego |
+| - | Gut | - | Gut | C joue Cego |
 
-| A | B | C | D | Result |
+| A | B | C | D | Résultat |
 | Fort | Fort | Solo | - | |
 | Gegensolo | - | Selbst | - | |
-| Gut | Gut | - | Eine | (A rather unlikely bidding sequence) |
-| - | - | Selbst | Gut | C plays Eine |
+| Gut | Gut | - | Eine | (Suite d'enchères peu probable) |
+| - | - | Selbst | Gut | C joue Eine |
 
-### The Play
+### Le Jeu
 
-The bidder leads to the first trick. The other players must follow suit if they can. A player who cannot follow suit **must** play a Trock if possible. If a Trock is led, the other players must follow with Trocks if they can. A player who has no card of the suit led and no Trocks is free to play any card.
+L'enchérisseur mène la première levée. Les autres joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui ne peut pas suivre **doit** jouer un Trock si possible. Si un Trock est mené, les autres joueurs doivent jouer des Trocks s'ils le peuvent. Un joueur qui n'a aucune carte de la couleur menée et aucun Trock peut jouer n'importe quelle carte.
 
-A trick is won by the highest Trock in it, or if no Trocks are played, by the highest card of the suit led. The winner of a trick leads to the next.
+Une levée est gagnée par le Trock le plus élevé qu'elle contient, ou, si aucun Trock n'est joué, par la plus haute carte de la couleur menée. Le gagnant d'une levée mène la suivante.
 
-In games in which the bidder's original hand was discarded, the bidder is allowed to look at the discarded cards (the Legage) at any time until the end of the first trick, but not thereafter. In Solo, Ulti, Piccolo, Bettel and Räuber, no one is allowed to look at the cego cards until the end of the play.
+Dans les jeux où la main originale de l'enchérisseur a été écartée, l'enchérisseur est autorisé à regarder les cartes écartées (le Legage) à tout moment jusqu'à la fin de la première levée, mais pas après. Dans Solo, Ulti, Piccolo, Bettel et Räuber, personne n'est autorisé à regarder les cartes du cego avant la fin de la partie.
 
-In the games **Zwei Leere** and **Zwei Verschiedene**, the bidder leads to the first **two** tricks. The two cards kept from the bidder's original hand (which in the case of Zwei Leere may be replaced by other cards of the same suit found in the cego) are placed face up on the table to begin the tricks, and each defender in turn plays to both tricks. If the first two tricks are won by different players, the player who won with the higher card leads to the third trick. In the case of Zwei Verschiedene it is possible that two different defenders could win the tricks with equally high cards (for example two kings); in that case the player who played the king of the higher suit leads to the third trick, the suits ranking in the order: clubs (highest), spades, hearts, diamonds (lowest).
+Dans les jeux **Zwei Leere** et **Zwei Verschiedene**, l'enchérisseur mène les **deux** premières levées. Les deux cartes conservées de la main originale (qui dans le cas de Zwei Leere peuvent être remplacées par d'autres cartes de la même couleur trouvées dans le cego) sont placées face visible sur la table pour commencer les levées, et chaque défenseur joue à tour de rôle aux deux levées. Si les deux premières levées sont gagnées par des joueurs différents, celui qui a gagné avec la carte la plus haute mène la troisième levée. Dans le cas de Zwei Verschiedene, il est possible que deux défenseurs différents gagnent les levées avec des cartes de valeur égale (par exemple deux rois) ; dans ce cas, le joueur qui a joué le roi de la couleur la plus haute mène la troisième levée, les couleurs se classant dans l'ordre : trèfle (le plus haut), pique, cœur, carreau (le plus bas).
 
-### The Scoring
+### Le Comptage
 
-In a normal game, provided that the bidder wins at least one trick, the bidder counts the card points in won tricks plus the cego (the ten cards which are out of play), while the defenders count the points in the tricks they have won. There are 70 card points altogether; to win, the bidder needs more than half of these points - that is at least 36. 
+Dans un jeu normal, à condition que l'enchérisseur gagne au moins une levée, l'enchérisseur compte les points de cartes dans les levées gagnées plus le cego (les dix cartes hors jeu), tandis que les défenseurs comptent les points dans les levées qu'ils ont gagnées. Il y a 70 points de cartes au total ; pour gagner, l'enchérisseur doit en prendre plus de la moitié, soit au moins 36.
 
-If the bidder loses every trick, the cego counts for the opponents - so the payments are calculated on the basis that the bidder has taken 0 points and the opponents have 70. Thus it is possible for the bidder to lose even after discarding a Legage of 36 points - the bidder also needs to win at least one trick to avoid defeat.
+Si l'enchérisseur perd toutes les levées, le cego compte pour les adversaires — les paiements sont donc calculés sur la base de 0 point pour l'enchérisseur et 70 pour les adversaires. Il est donc possible que l'enchérisseur perde même après avoir écarté un Legage de 36 points — l'enchérisseur doit aussi gagner au moins une levée pour éviter la défaite.
 
-The amount the bidder wins or loses is the difference between 35 and the number of card points taken, multiplied by a factor which depends on the game which was played. The result is rounded up to the next multiple of 5, and this is the amount (in Pfennig) which the bidder receives from or pays to each opponent.
+Le montant que l'enchérisseur gagne ou perd est la différence entre 35 et le nombre de points de cartes pris, multipliée par un facteur qui dépend du jeu joué. Le résultat est arrondi au multiple de 5 supérieur, et c'est le montant (en Pfennig) que l'enchérisseur reçoit de ou paie à chaque adversaire.
 
-The factor for a Solo is 2 if the bidder wins, but just 1 if the bidder loses. The factors for the other possible normal games depend on whether they were bid against a Solo, as follows:
+Le facteur pour un Solo est 2 si l'enchérisseur gagne, mais seulement 1 s'il perd. Les facteurs pour les autres jeux normaux dépendent de savoir s'ils ont été enchéris contre un Solo :
 
-| Game | Factor if Solo was not bid | Factor if bid over a Solo |
+| Jeu | Facteur si Solo non enchéri | Facteur si enchéri sur un Solo |
 | Cego | 1 | 2 (Gegensolo) |
 | Eine | 2 | 3 |
 | Eine Leere | 3 | 4 |
@@ -195,203 +202,203 @@ The factor for a Solo is 2 if the bidder wins, but just 1 if the bidder loses. T
 | Zwei Verschiedene | 5 | 6 |
 | Der kleine Mann | 6 | 7 |
 
-The case when the bidders and the defenders take 35 points each is called **Bürgermeister**, and the bidder pays 5 Pfennig to each defender.
+Le cas où l'enchérisseur et les défenseurs prennent chacun 35 points est appelé **Bürgermeister**, et l'enchérisseur paie 5 Pfennig à chaque défenseur.
 
-**Examples:**
+**Exemples :**
 
-- The bidder wins a Solo with 41 points (the defenders have 29). The difference from 35 is 6; multiplying by 2 (the factor for a won Solo) gives 12; this is rounded up to 15 and the bidder wins 15 Pfennig from each defender.
+- L'enchérisseur gagne un Solo avec 41 points (les défenseurs ont 29). La différence avec 35 est 6 ; en multipliant par 2 (facteur pour un Solo gagné) on obtient 12 ; arrondi à 15, l'enchérisseur gagne 15 Pfennig de chaque défenseur.
 
-- The bidder loses a Solo taking only 29 points. The difference is 6 and the multiplication factor is 1 (for a lost Solo); 6 is rounded up to 10, and the bidder pays 10 Pfennig to each opponent.
+- L'enchérisseur perd un Solo en ne prenant que 29 points. La différence est 6 et le facteur multiplicateur est 1 (Solo perdu) ; 6 est arrondi à 10, et l'enchérisseur paie 10 Pfennig à chaque adversaire.
 
-- The bidder wins Zwei Leere with 39 points. The difference is 4 and the multiplying factor is 4; the product 16 is rounded up to 20 and the bidder wins 20 Pfennig from each opponent.
+- L'enchérisseur gagne Zwei Leere avec 39 points. La différence est 4 et le facteur est 4 ; le produit 16 est arrondi à 20 et l'enchérisseur gagne 20 Pfennig de chaque adversaire.
 
-- The bidder loses a Gegensolo (a Cego bid over a Solo), taking only 27 points; the bidder pays 20 Pfennig (8*2=16 rounded up) to each defender.
+- L'enchérisseur perd un Gegensolo (Cego enchéri sur un Solo), en ne prenant que 27 points ; il paie 20 Pfennig (8×2=16 arrondi) à chaque défenseur.
 
-- The bidder plays a Gegensolo, discarding 25 points, but takes no tricks in the play. The discarded cards count for the opponents and the bidder must therefore pay 70 Pfennig to each defender (35*2).
+- L'enchérisseur joue un Gegensolo, écarte 25 points, mais ne prend aucune levée. Les cartes écartées comptent pour les adversaires et l'enchérisseur doit donc payer 70 Pfennig (35×2) à chaque défenseur.
 
-The special games have fixed scores as follows: 
+Les jeux spéciaux ont des scores fixes :
 
-| Game | Score |
+| Jeu | Score |
 | Ulti | 80 |
 | Piccolo | 30 |
 | Bettel | 30 |
 | Räuber | 30 |
 
-If the game is Ulti, Piccolo or Bettel, each defender pays the appropriate amount to the bidder if the bidder wins; otherwise the bidder pays each defender. 
+Si le jeu est Ulti, Piccolo ou Bettel, chaque défenseur paie le montant approprié à l'enchérisseur si ce dernier gagne ; sinon l'enchérisseur paie chaque défenseur.
 
-In a Räuber, all players count the points in their own tricks. The cego is not counted. The player who has most points loses. If Vorhand loses, the payment to the other players is doubled (60 instead of 30). If there is a tie for most points, and Vorhand is involved in the tie, then Vorhand loses. If there is a tie in which Vorhand is not involved, then all the players who tie for most points have to pay 30 to each other player.
+Dans un Räuber, tous les joueurs comptent les points de leurs propres levées. Le cego n'est pas compté. Le joueur qui a le plus de points perd. Si Vorhand perd, le paiement aux autres joueurs est doublé (60 au lieu de 30). En cas d'égalité pour le plus grand nombre de points, et si Vorhand fait partie de l'égalité, Vorhand perd. S'il y a une égalité dont Vorhand ne fait pas partie, tous les joueurs à égalité paient 30 à chacun des autres.
 
-### Ending the Session
+### Fin de la session
 
-A player who wishes to end the session says "der Gstieß gibt ab". On the following deal it is noted who holds the Gstieß, play then continues until that player's next turn to deal, and that player deals the last hand of the session.
+Un joueur qui souhaite terminer la session dit « der Gstieß gibt ab ». À la donne suivante, on note qui détient le Gstieß, le jeu continue jusqu'au prochain tour de donne de ce joueur, et celui-ci distribue la dernière donne de la session.
 
-## Three Player Game
+## Jeu à trois joueurs
 
-When there are only three players, three cards - the **![club](../images/internat/club.gif)7**, **![spade](../images/internat/spade.gif)7** and **![diamond](../images/internat/diamond.gif)4** - are removed from the pack, leaving 51 cards (there are 8 cards in the hearts suit but only 7 in the other suits). The number of points in the remaining cards is therefore only 69, but provided that the declarer wins at least one trick the final point that corresponds to the three unused cards is given to the declarer, bringing the total to 70.
+Lorsqu'il n'y a que trois joueurs, trois cartes — le **![trèfle](../images/internat/club.gif)7**, le **![pique](../images/internat/spade.gif)7** et le **![carreau](../images/internat/diamond.gif)4** — sont retirées du jeu, laissant 51 cartes (il y a 8 cartes dans la couleur de cœur mais seulement 7 dans les autres couleurs). Le nombre de points dans les cartes restantes n'est donc que 69, mais à condition que le déclarant gagne au moins une levée, le point final correspondant aux trois cartes inutilisées est attribué au déclarant, portant le total à 70.
 
-The deal is 12 cards to the Cego and 13 to each player. 
+La distribution est de 12 cartes pour le Cego et 13 à chaque joueur.
 
-The games Piccolo, Bettel and Räuber are not allowed; otherwise the games and bidding procedure are the same as in the four player game.
+Les jeux Piccolo, Bettel et Räuber ne sont pas autorisés ; sinon les jeux et la procédure d'enchères sont les mêmes que dans le jeu à quatre joueurs.
 
-In place of Räuber, there is a different method of penalising a player who fails to bid Solo with a strong hand. For this purpose a strong hand is defined as follows:
+À la place du Räuber, il existe une méthode différente pour pénaliser un joueur qui manque de jouer Solo malgré une bonne main. À cette fin, une main forte est définie comme suit :
 
-- any hand containing nine or more trumps
+- toute main contenant neuf atouts ou plus
 
-- any hand containing eight trumps of which at least two are **higher than** the 17, and the remaining cards belonging to at most two suits (so at least two suits are void)
+- toute main contenant huit atouts dont au moins deux sont **supérieurs au** 17, et les cartes restantes appartenant à au plus deux couleurs (donc au moins deux couleurs sont vides)
 
-A player whose hand satisfies either of the above criteria is said to "have a Solo". Passing (saying "fort Solo") in the first phase of the bidding when you have such a hand is called "skinning" a solo (**soloschinden**). 
+Un joueur dont la main satisfait à l'un de ces critères est dit « avoir un Solo ». Passer (dire « fort Solo ») lors de la première phase alors qu'on a une telle main s'appelle « dépecer » un solo (**soloschinden**).
 
-If everyone says "fort Solo", the eventual highest bidder can, after looking at the Cego cards, claim that someone has skinned a Solo. In this case all three players expose their cards, and if it turns out that one of the players has indeed skinned a Solo, that player loses as though they had played in the game of the final bid and lost every trick. If it turns out, on the other hand, that no one has skinned a Solo, the bidder who made the accusation loses as though having lost every trick. Note that if, as the bidder, you find that your own hand plus the Cego contains fewer than five Trocke in total, you are safe in claiming that someone has skinned a Solo.
+Si tout le monde dit « fort Solo », l'enchérisseur final peut, après avoir regardé les cartes du Cego, prétendre que quelqu'un a dépecé un Solo. Dans ce cas, les trois joueurs exposent leurs cartes, et si l'un d'eux a effectivement dépecé un Solo, ce joueur perd comme s'il avait joué le jeu de l'enchère finale et perdu toutes les levées. Si, en revanche, personne n'a dépecé de Solo, l'enchérisseur qui a fait l'accusation perd comme s'il avait perdu toutes les levées. Notez que si, en tant qu'enchérisseur, vous constatez que votre propre main plus le Cego contient moins de cinq Trocke au total, vous pouvez sans risque prétendre que quelqu'un a dépecé un Solo.
 
-## Variations
+## Variantes
 
-There are many local variations of Cego, and even within the relatively small town of Bräunlingen several different versions are played. Here are a few variations that I have so far collected from players and from some of the published rule books. If any Cego players reading this would like to let me know about other versions and where they are played, I would be happy to add this information to the page.
+Il existe de nombreuses variantes locales du Cego, et même dans la relativement petite ville de Bräunlingen, plusieurs versions différentes sont jouées. Voici quelques variantes que j'ai pu recueillir auprès des joueurs et de certains livres de règles publiés. Si des joueurs de Cego lisant ceci souhaitent me faire part d'autres versions et des endroits où elles sont jouées, je serai heureux d'ajouter ces informations.
 
 ### Pflicht-Räuber
 
-This is a local variation from the Gasthaus zum Löwen in Bräunlingen, where they play four-handed Cego every Wednesday evening. At 23:00 there is a round of compulsory Räuber - one deal by each player. During this round no other bidding is allowed; a Räuber is played on every deal.
+C'est une variante locale du Gasthaus zum Löwen à Bräunlingen, où l'on joue au Cego à quatre tous les mercredis soir. À 23 heures, il y a une manche de Räuber obligatoire — une donne par chaque joueur. Pendant cette manche, aucune autre enchère n'est permise ; un Räuber est joué à chaque donne.
 
-In Pflicht-Räuber the loser pays 30 to each other player. There is no special penalty if Vorhand loses, but if one player takes no tricks the loser must pay 60. If two players take no tricks the loser must pay 120 to each other player. If three players take no tricks, the player who took all the tricks **wins** (rather than loses) 240 from each other player.
+Au Pflicht-Räuber, le perdant paie 30 à chaque autre joueur. Il n'y a pas de pénalité particulière si Vorhand perd, mais si un joueur ne prend aucune levée, le perdant doit payer 60. Si deux joueurs ne prennent aucune levée, le perdant doit payer 120 à chaque autre joueur. Si trois joueurs ne prennent aucune levée, le joueur qui a pris toutes les levées **gagne** (au lieu de perdre) 240 de chaque autre joueur.
 
-After the Pflicht-Räuber round, normal Cego is played again, but for 10 times the normal stake - that is 10 Pfennig per point rather than 1; so Ramsch, Piccolo and Bettel cost DM 3.00, Ulti costs DM 8.00, and so on.
+Après la manche de Pflicht-Räuber, le Cego normal reprend, mais pour dix fois la mise habituelle — soit 10 Pfennig par point au lieu de 1 ; ainsi Ramsch, Piccolo et Bettel coûtent 3 DM, Ulti coûte 8 DM, etc.
 
-## Ministranten Version
+## Version des Ministranten
 
-These rules are based on games played in the Pfarrenhaus at Bräunlingen with some of the Ministranten: Christoph, Stephan, Georg and Richard. I shall just give the differences from the Gasthaus zum Löwen rules set out above. The usual game is for four players.
+Ces règles sont basées sur des parties jouées au Pfarrenhaus de Bräunlingen avec quelques-uns des Ministranten : Christoph, Stephan, Georg et Richard. Je ne donnerai que les différences avec les règles du Gasthaus zum Löwen décrites ci-dessus. Le jeu habituel est à quatre joueurs.
 
-### Terminology
+### Terminologie
 
-- The cards in the centre are always called the **Cego** (not Blinde or Legage). The word **Legage** is used for a discard that contains a large number of points.
+- Les cartes au centre sont toujours appelées le **Cego** (et non Blinde ou Legage). Le mot **Legage** est utilisé pour un écart contenant un grand nombre de points.
 
-- The numeral cards in the suits (10, 9, 8, 7, A, 2, 3, 4) are called **Brettli**.
+- Les cartes numériques des couleurs (10, 9, 8, 7, A, 2, 3, 4) sont appelées **Brettli**.
 
-- **Piccolo** is alternatively called **Bikel**
+- **Piccolo** est aussi appelé **Bikel**
 
-- **Räuber** is also known as **Luftkampf**
+- **Räuber** est aussi appelé **Luftkampf**
 
-### The possible Games
+### Les jeux possibles
 
-When everyone passes Vorhand's Cego bid, there are some additional alternatives:
+Quand tout le monde passe l'enchère de Cego de Vorhand, il y a des alternatives supplémentaires :
 
 **Dresch**
-A special game which can be chosen by Vorhand as an alternative to Räuber. The Cego is not used, and the sole objective is to avoid winning the last trick; the winner of the last trick loses the game. The players at the Gasthaus zum Löwen also knew of this game but disapproved of it, probably because Vorhand can use it to punish one of the other players heavily, almost at random.
+Un jeu spécial que Vorhand peut choisir comme alternative au Räuber. Le Cego n'est pas utilisé, et le seul objectif est d'éviter de gagner la dernière levée ; le gagnant de la dernière levée perd le jeu. Les joueurs du Gasthaus zum Löwen connaissaient aussi ce jeu mais le désapprouvaient, probablement parce que Vorhand peut l'utiliser pour punir sévèrement un autre joueur, presque au hasard.
+
 **Geregelter Räuber**
-This is like a normal Räuber except that trumps **must** be played to the first three tricks. The holder of the Gstieß must play it on the first trick, the holder of the 21 must play it on the second trick, and the kleiner Mann must be played on the third trick. A player with fewer than three trumps must play Brettli to the tricks to which trumps cannot be played (for example if you had only two Trocke, **16** and **1**, you would play the **16** to the first trick, a Brettli to the second trick, and the **1** to the third). The winner of the third trick leads to the fourth and play continues normally.
+Comme un Räuber normal, sauf que des atouts **doivent** être joués aux trois premières levées. Le détenteur du Gstieß doit le jouer à la première levée, le détenteur du 21 doit le jouer à la deuxième, et le kleine Mann doit être joué à la troisième. Un joueur ayant moins de trois atouts doit jouer des Brettli aux levées où il ne peut pas jouer d'atout (par exemple si vous n'avez que deux Trocke, le **16** et le **1**, vous jouez le **16** à la première levée, un Brettli à la deuxième, et le **1** à la troisième). Le gagnant de la troisième levée mène la quatrième et le jeu continue normalement.
+
 **Wilder Räuber**
-This is just a normal Räuber, in which there is no special restriction on what can be played.
+C'est un Räuber normal, sans restriction particulière sur ce qui peut être joué.
 
-### Bidding procedure
+### Procédure d'enchères
 
-As usual, the first phase is begun by Vorhand and the possible bids are Ulti and Solo; a player who does not want to bid either says Fort. A bid of Ulti ends the auction; a bid of Solo immediately starts the second phase.
+Comme d'habitude, la première phase est commencée par Vorhand et les enchères possibles sont Ulti et Solo ; un joueur qui ne veut enchérir aucun des deux dit Fort. Une enchère d'Ulti met fin aux enchères ; une enchère de Solo démarre immédiatement la deuxième phase.
 
-If everyone said Fort in the first phase, Vorhand must begin the second phase by bidding Cego, and the bidding continues anticlockwise. The possible bids for the next player are Eine, Piccolo and Bettel; alternatively the second player can pass by saying "gut", and the next player has the same possibilities. A bid of Piccolo or Bettel ends the auction - otherwise the bidding continues anticlockwise. A bid of Eine can be overcalled by Eine Leere, which can be overcalled by Zwei Leere and so on through the normal games (no jump bids are allowed). Piccolo and Bettel cannot be bid over Eine or higher normal bids. When the bidding comes back to Vorhand, one of the other players having bid a higher normal game, Vorhand can bid the same game by saying "selbst". A player who has passed cannot bid in a later round.
+Si tout le monde a dit Fort dans la première phase, Vorhand doit commencer la deuxième phase en enchérissant Cego, et les enchères continuent dans le sens inverse des aiguilles. Les enchères possibles pour le joueur suivant sont Eine, Piccolo et Bettel ; le deuxième joueur peut aussi passer en disant « gut », et le joueur suivant a les mêmes possibilités. Une enchère de Piccolo ou Bettel met fin aux enchères — sinon les enchères continuent. Eine peut être surclassée par Eine Leere, qui peut être surclassée par Zwei Leere, et ainsi de suite dans les jeux normaux (les sauts ne sont pas autorisés). Piccolo et Bettel ne peuvent pas être enchéris au-dessus de Eine ou d'un jeu normal supérieur. Quand les enchères reviennent à Vorhand, si un autre joueur a enchéri un jeu normal supérieur, Vorhand peut faire la même enchère en disant « selbst ». Un joueur qui a passé ne peut plus enchérir dans un tour ultérieur.
 
-If after Vorhand has bid Cego everyone says "gut", Vorhand has a choice between playing **Cego**, **Piccolo**, **Bettel**, **Geregelter Räuber**, **Wilder Räuber** or **Dresch**. 
-**Example:**
+Si après que Vorhand a enchéri Cego tout le monde dit « gut », Vorhand a le choix entre **Cego**, **Piccolo**, **Bettel**, **Geregelter Räuber**, **Wilder Räuber** ou **Dresch**.
 
-| A | B | C | D | Result |
+**Exemple :**
+
+| A | B | C | D | Résultat |
 | Fort | Fort | Fort | Fort | |
 | Cego | Gut | Eine | Eine Leere | |
 | selbst | - | Zwei Leere | Gut | |
-| Gut | - | - | - | C plays Zwei Leere |
+| Gut | - | - | - | C joue Zwei Leere |
 
-If the first phase is ended by someone saying Solo, the second phase is begun by the player on the right of the one who said Solo and continues clockwise. The Solo player cannot bid again. If all the other players say "gut", the Solo is played. The only possible bid over a Solo is Gegensolo (which is a Cego against the Solo). If someone bids Gegensolo, this ends the auction and the player who bid Gegensolo plays a Cego.
+Si la première phase est terminée par une enchère de Solo, la deuxième phase est commencée par le joueur à la droite de celui qui a dit Solo et continue dans le sens inverse des aiguilles. Le joueur Solo ne peut plus enchérir. Si tous les autres joueurs disent « gut », le Solo est joué. La seule enchère possible au-dessus d'un Solo est Gegensolo (un Cego contre le Solo). Si quelqu'un enchérit Gegensolo, cela met fin aux enchères et le joueur qui a enchéri Gegensolo joue un Cego.
 
-### The Play
+### Le Jeu
 
-Generally this is the same as in the same as in the Gasthaus zum Löwen version. In a game in which the Cego has been used, the bidder can look at the Cego until the end of the **third** trick.
+C'est généralement le même que dans la version du Gasthaus zum Löwen. Dans un jeu où le Cego a été utilisé, l'enchérisseur peut regarder le Cego jusqu'à la fin de la **troisième** levée.
 
-There are difference in the games **Eine Leere**, **Zwei Leere** and **Zwei Verschiedene**:
+Il y a des différences pour les jeux **Eine Leere**, **Zwei Leere** et **Zwei Verschiedene** :
 
-- For these games, the one or two cards you lay out must really be empty cards (Brettli). If you do not have the appropriate cards in your hand you cannot make the bid.
+- Pour ces jeux, la ou les deux cartes posées doivent être de véritables cartes vides (Brettli). Si vous n'avez pas les cartes appropriées en main, vous ne pouvez pas faire l'enchère.
 
-- The empty cards must be led to the first trick(s) - there is no opportunity to substitute other cards of the same suit.
+- Les cartes vides doivent être menées à la première (aux premières) levée(s) — il n'y a pas de possibilité de les remplacer par d'autres cartes de la même couleur.
 
-- After these trick(s) have been taken by the opponents, it is the **bidder** who leads to the next trick. Play than continues normally.
+- Après que ces levée(s) ont été gagnées par les adversaires, c'est l'**enchérisseur** qui mène la levée suivante. Le jeu continue ensuite normalement.
 
-### The Scoring
+### Le Comptage
 
-The scores are written down rather than paid out in money after each hand. Nevertheless, the normal stake is 1 Pfennig per point. So if a player wins 30 in a four player game, 90 is added to that player's cumulative score and each of the other players loses 30 from their cumulative score.
+Les scores sont notés plutôt que payés en espèces après chaque donne. Néanmoins, la mise de base est de 1 Pfennig par point. Ainsi si un joueur gagne 30 dans un jeu à quatre, 90 sont ajoutés au score cumulé de ce joueur et chacun des autres joueurs perd 30 de son score cumulé.
 
-In a normal game, the cards are counted in threes as usual, and the score is based on the difference of the card points taken from 35. This is multiplied by the factor for the game being played, and then rounded to the **nearest** 5 points, with a minimum score of 5 points won or lost. 
+Dans un jeu normal, les cartes sont comptées par trois comme d'habitude, et le score est basé sur la différence des points de cartes pris par rapport à 35. Cette différence est multipliée par le facteur du jeu joué, puis arrondie au **multiple de 5 le plus proche**, avec un score minimum de 5 points gagnés ou perdus.
 
-The factors are the same as the Gasthaus zum Löwen version, except that a Gegensolo has a factor of 4 if won, 2 if lost.
+Les facteurs sont les mêmes que dans la version du Gasthaus zum Löwen, sauf qu'un Gegensolo a un facteur de 4 s'il est gagné, 2 s'il est perdu.
 
-In case of a **Bürgermeister** (a hand in which the points divide 35-35), the bidder loses the minimum of 5 points, but in addition must buy a round of Schnaps for the players.
+En cas de **Bürgermeister** (une donne où les points se divisent 35-35), l'enchérisseur perd le minimum de 5 points, mais doit en plus offrir une tournée de Schnaps aux joueurs.
 
-The scores for the special games are somewhat different:
+Les scores des jeux spéciaux sont quelque peu différents :
 
-| Game | Score |
+| Jeu | Score |
 | Ulti | 70 |
 | Piccolo | 40 |
 | Bettel | 50 |
 | Räuber | 30 |
 | Dresch | 70 |
 
-If the loser of a Räuber took more than 30 card points, the payment is the number of card points taken, rounded to the nearest five. If Vorhand loses a Räuber, the loss is 60 points, or twice the number of card points taken rounded to the nearest five if this is greater.
+Si le perdant d'un Räuber a pris plus de 30 points de cartes, le paiement est le nombre de points arrondi au multiple de 5 le plus proche. Si Vorhand perd un Räuber, la perte est de 60 points, ou deux fois le nombre de points pris arrondi au multiple de 5 le plus proche si c'est supérieur.
 
-In some circles, Piccolo is played as worth 35, rather than 40.
+Dans certains cercles, Piccolo vaut 35 au lieu de 40.
 
-### Three Player Version
+### Version à trois joueurs
 
-This is the equivalent game, without Räuber or Dresch, but with the possibility of challenging a player who you think has skinned a Solo. The three cards removed were **![heart](../images/internat/heart.gif)4**, **![diamond](../images/internat/diamond.gif)4** and **![spade](../images/internat/spade.gif)7**, leaving clubs rather than hearts as the long suit.
+C'est le jeu équivalent, sans Räuber ni Dresch, mais avec la possibilité de défier un joueur que l'on pense avoir dépecé un Solo. Les trois cartes retirées étaient le **![cœur](../images/internat/heart.gif)4**, le **![carreau](../images/internat/diamond.gif)4** et le **![pique](../images/internat/spade.gif)7**, laissant le trèfle plutôt que le cœur comme couleur longue.
 
-### Penalties
+### Pénalités
 
-The standard penalty for breaking the rules is that the offender pays 70 points to each other player. These penalties were enthusiastically enforced by the players, especially in the following cases:
+La pénalité standard pour infraction aux règles est que le contrevenant paie 70 points à chaque autre joueur. Ces pénalités étaient rigoureusement appliquées, surtout dans les cas suivants :
 
-- **Misdeal.** The dealer is allowed to stop the other players picking up their hands before the deal is complete; once the dealer is satisfied that all is in order and allows the cards to be picked up, if any hand or the cego has the wrong number of cards, the dealer is penalised
+- **Maldonne.** Le donneur a le droit d'empêcher les autres joueurs de ramasser leurs cartes avant que la distribution ne soit terminée ; une fois le donneur satisfait que tout est en ordre et les cartes ramassées, si une main ou le cego a un nombre incorrect de cartes, le donneur est pénalisé.
 
-- **Incorrect discard.** This can easily happen in a Cego game - having retained two cards and picked up the 10 cards from the middle, you forget to discard a further card but lead to the first trick instead. The deal is abandoned and you pay everyone 70.
+- **Écart incorrect.** Cela peut facilement arriver dans un jeu Cego — après avoir conservé deux cartes et ramassé les 10 cartes du milieu, on oublie d'écarter une carte supplémentaire et on mène la première levée. La donne est abandonnée et on paie 70 à tout le monde.
 
-- **Revoke.** Failing to follow suit, or failing to play a Trock when you have no card of the suit led. Again the deal is abandoned and you pay the penalty.
+- **Renonce.** Ne pas suivre la couleur, ou ne pas jouer un Trock lorsqu'on n'a pas de carte de la couleur menée. Là encore, la donne est abandonnée et la pénalité est payée.
 
-## Bräunlingen Tournament Version
+## Version du tournoi de Bräunlingen
 
-Stephan Ocker gave me a rule sheet for a Cego tournament which had recently been held in Bräunlingen. Although incomplete, this sheet indicates yet another version of the rules. The main distinguishing features are as follows:
+Stephan Ocker m'a remis une feuille de règles pour un tournoi de Cego qui s'était récemment tenu à Bräunlingen. Bien qu'incomplète, cette feuille indique encore une autre version des règles. Les principales caractéristiques distinctives sont les suivantes :
 
-- Two sessions of 24 hands are to be played
+- Deux sessions de 24 donnes doivent être jouées.
 
-- You cannot bid against your own Solo - that is, once you have bid Solo and someone has bid Gegensolo you are out of the bidding
+- On ne peut pas enchérir contre son propre Solo — une fois qu'on a enchéri Solo et que quelqu'un a enchéri Gegensolo, on est sorti des enchères.
 
-- The values of the special games are:
+- Les valeurs des jeux spéciaux sont :
+  - Ultimo : 80
+  - Piccolo : 40
+  - Bettel : 40
+  - Räuber : 30
 
-- Ultimo: 80
+- Lors du comptage des jeux normaux, la différence avec 35 est arrondie au multiple de 5 supérieur avant d'être multipliée par le facteur du jeu.
 
-- Piccolo: 40
+## Version d'Oberwolfach
 
-- Bettel: 40
+Celle-ci a été rapportée par Michael Dummett dans son livre *The Game of Tarot* (Duckworth 1980), d'après des parties qu'il y a jouées en 1974. Le jeu principal est la version à trois joueurs. Les principales différences avec la version à trois joueurs de Bräunlingen sont énumérées ci-dessous.
 
-- Räuber: 30
+- Il n'y a pas de jeu **Ulti**.
 
-- When scoring normal games, the difference from 35 is rounded up to the next multiple of 5 before it is multiplied by the factor for the game being played
+- Dans **Eine Leere**, **Zwei Leere** et **Zwei Vershiedene**, les cartes vides doivent être de véritables cartes vides. Si vous n'avez pas les cartes appropriées, vous ne pouvez pas enchérir ces jeux. Il n'y a pas d'obligation de mener les cartes vides au début — l'enchérisseur peut mener n'importe quelle carte.
 
-## Oberwolfach Version
+- Dans le jeu normal le plus élevé — ici appelé **die Pfeif'**, **Bapperle** ou **Pagat** plutôt que **der kleine Mann**, l'enchérisseur a la possibilité, au lieu de mener le **Trock 1** à la première levée, de dire « ich spiele die Pfeif' frei », de reprendre la carte dans sa main, et de tenter de gagner la dernière levée avec. Si l'enchérisseur le fait mais échoue à gagner la dernière levée avec le **1**, le jeu est perdu. Il n'est pas clair comment une telle défaite est comptée ; probablement comme si l'enchérisseur avait perdu toutes les levées.
 
-This was reported by Michael Dummett in his book "The Game of Tarot" (Duckworth 1980), on the basis of games he played there in 1974. The prinicpal game there is the three player version. The main differences from the three player game at Bräunlingen will be listed.
+- Quand les trois joueurs disent « Fort Solo » dans la première phase, non seulement Vorhand doit ouvrir la deuxième phase avec « Cego », mais le joueur suivant doit surclasser avec « Eine ». Vorhand peut alors maintenir en disant « selbst » ou passer en disant « gut », et le reste des enchères se déroule comme d'habitude.
 
-- There is no **Ulti** game.
-- In **Eine Leere**, **Zwei Leere** and **Zwei Vershiedene**, the empty cards must really be empty. If you do not have the appropriate cards you cannot bid these games. There is no obligation to lead the empty card(s) at the beginning - the bidder can lead any card.
+- Si les trois joueurs disent « Fort Solo », un joueur dont la main contient sept cartes vides ou plus peut jeter ses cartes, et il y a une nouvelle donne par le donneur suivant.
 
-- In the highest normal game - here called **die Pfeif'**, **Bapperle** or **Pagat** rather than **der kleine Mann**, the bidder has the option, instead of leading the **Trock 1** to the first trick, to say "ich spiele die Pfeif' frei", take the card back into hand, and attempt to win the last trick with it. If the bidder does this but fails to win the last trick with the **1** the game is lost. It is unclear how such a loss is scored; probably it is as though the bidder had lost every trick.
+- Une enchère de Solo met fin à la première phase et le joueur qui a enchéri Solo ne peut plus enchérir. La deuxième phase ne commence pas avec Vorhand, mais avec le joueur à la droite de celui qui a enchéri Solo. Ce joueur peut maintenir les enchères du troisième joueur. Par exemple, les enchères pourraient être :
 
-- When all three players say "Fort Solo" in the first phase of bidding, not only must Vorhand open the second phase with "Cego", but the next player must overcall with "Eine". Vorhand is then free to hold by saying "selbst" or pass by saying "gut", and the rest of the bidding is as usual.
-
-- If all three players say "Fort Solo", a player whose hand contains seven or more empty cards (numeral cards in the suits) can throw the cards in, and there is a new deal by the next dealer.
-
-- A bid of Solo ends the first phase of bidding and the player who bid Solo cannot bid again. The second phase begins not with Vorhand, but with the player to the right of the one who bid Solo. This player can hold the third player's bids. For example the bidding might go:
-
-| A | B | C | Result |
+| A | B | C | Résultat |
 | Fort Solo | Solo | Gegensolo | |
 | Eine | - | selbst | |
-| gut | - | - | C plays Eine Leere |
+| gut | - | - | C joue Eine Leere |
 
-- The factor for Solo is 1 if it is won, but 2 if it is lost. This is the opposite way round from the Bräunlingen scores and makes Solo much less attractive.
+- Le facteur pour Solo est 1 s'il est gagné, mais 2 s'il est perdu. C'est l'inverse de la notation de Bräunlingen et rend Solo beaucoup moins attractif.
 
-- To score a normal game, the difference of the points from 35 is divided by 5, ignoring any remainder, and then 1 is added, and the result is multiplied by the factor for the game. The following table is given for calculating the base value of the game:
+- Pour compter un jeu normal, la différence des points par rapport à 35 est divisée par 5, en ignorant le reste, puis on ajoute 1, et le résultat est multiplié par le facteur du jeu. Le tableau suivant est donné pour calculer la valeur de base du jeu :
 
-| | Points won bybidder | Points won byopponents | Base value |
-| bidderwins | 70 | 0 | 8 |
+| | Points gagnés par l'enchérisseur | Points gagnés par les adversaires | Valeur de base |
+| l'enchérisseur gagne | 70 | 0 | 8 |
 | 65 - 69 | 1 - 5 | 7 |
 | 60 - 64 | 6 - 10 | 6 |
 | 55 - 59 | 11 - 15 | 5 |
@@ -399,7 +406,7 @@ This was reported by Michael Dummett in his book "The Game of Tarot" (Duckworth 
 | 45 - 49 | 21 - 25 | 3 |
 | 40 - 44 | 26 - 30 | 2 |
 | 36 - 39 | 31 - 34 | 1 |
-| bidderloses | 31 - 35 | 35 - 39 | 1 |
+| l'enchérisseur perd | 31 - 35 | 35 - 39 | 1 |
 | 26 - 30 | 40 - 44 | 2 |
 | 21 - 25 | 45 - 49 | 3 |
 | 16 - 20 | 50 - 54 | 4 |
@@ -408,53 +415,52 @@ This was reported by Michael Dummett in his book "The Game of Tarot" (Duckworth 
 | 1 - 5 | 65 - 69 | 7 |
 | 0 | 70 | 8 |
 
-The four player game at Oberwolfach follows similar principles. There is still no Ulti game, but Bettel, Piccolo and Räuber are possible. There is no possibility for a player with seven empty cards to throw in the hand.
+Le jeu à quatre joueurs d'Oberwolfach suit des principes similaires. Il n'y a toujours pas de jeu Ulti, mais Bettel, Piccolo et Räuber sont possibles. Il n'y a pas de possibilité pour un joueur avec sept cartes vides de jeter sa main.
 
-In the second bidding phase after all players have said "Fort Solo", Bettel and Piccolo can be bid, as well as the normal games. Bettel can overcall Piccolo, and both outrank the normal games. If Vorhand bids Cego and the other three pass, Vorhand has the option of playing Cego or Räuber. The scores for the special games are 5 for Räuber, 10 for Piccolo and 15 for Bettel. These are in proportion to the lower scores for the normal games, which are generally about one fifth of the Bräunlingen scores. 
+Dans la deuxième phase d'enchères après que tous les joueurs ont dit « Fort Solo », Bettel et Piccolo peuvent être enchéris, ainsi que les jeux normaux. Bettel peut surclasser Piccolo, et tous deux priment sur les jeux normaux. Si Vorhand enchérit Cego et les trois autres passent, Vorhand a le choix entre Cego et Räuber. Les scores des jeux spéciaux sont 5 pour Räuber, 10 pour Piccolo et 15 pour Bettel. Ils sont proportionnellement plus bas que les scores de Bräunlingen, généralement environ un cinquième.
 
-In the four player game, a player who has 8 or more **Trocke** (here called **Trucks**), or 7 of which at least two are higher than 17 and at least two voids, is said to have a Solo. If everyone says "Fort Solo" in the first phase of bidding, the eventual bidder of a normal game, having looked at the cego cards (here called the **Blinde**) can claim that someone has skinned a Solo, with the same effects as in the three player game.
+Dans le jeu à quatre joueurs, un joueur qui a 8 **Trocke** ou plus (ici appelés **Trucks**), ou 7 dont au moins deux sont supérieurs au 17 et au moins deux couleurs vides, est dit avoir un Solo. Si tout le monde dit « Fort Solo » dans la première phase, l'enchérisseur final d'un jeu normal, après avoir regardé les cartes du cego (ici appelées le **Blinde**), peut prétendre que quelqu'un a dépecé un Solo, avec les mêmes effets que dans le jeu à trois joueurs.
 
-## Ichenheim Version
+## Version d'Ichenheim
 
-Peter Müller reports that there is an annual Cego tournament on 6th January ("Heilige Drei 
-König" - epiphany) in the Gasthaus "Hechten" in Ichenheim with around 60 to 100 players. The three-player game is played, in two sessions of 24 deals. If the number of entrants is not divisible by three, there are some 4-player tables, but at these the 3-player game is still played with the dealer sitting out and winning or losing the same as the defenders.
+Peter Müller rapporte qu'il y a un tournoi annuel de Cego le 6 janvier (« Heilige Drei König » — l'Épiphanie) au Gasthaus « Hechten » à Ichenheim, avec environ 60 à 100 joueurs. On y joue la version à trois joueurs, en deux sessions de 24 donnes. Si le nombre de participants n'est pas divisible par trois, il y a quelques tables à 4 joueurs, mais on y joue toujours la version à trois joueurs avec le donneur qui ne joue pas et gagne ou perd comme les défenseurs.
 
-In Eine, Eine Leere, Zwei Leere and Zwei Verschiedene, the cards laid out have to be Brettli (pip cards) - it is not possible to substitute a picture card.
+Dans Eine, Eine Leere, Zwei Leere et Zwei Verschiedene, les cartes posées doivent être des Brettli (cartes numériques) — il n'est pas possible de substituer une figure.
 
-Two special games are allowed - these must be bid in the first phase:
+Deux jeux spéciaux sont autorisés — ils doivent être enchéris dans la première phase :
 
-- Ulti has a value of just 20 game points.
+- Ulti vaut seulement 20 points de jeu.
 
-- Solodu (sometimes also called "Drescher") is a Solo in which the bidder is committed to win all the tricks, and is worth 64 game points. (The name obviously comes from the French "solo tout", "tout" meaning "all" - in the Bavarian game Schafkopf there is a similar bid with the same meaning.
+- Solodu (parfois aussi appelé « Drescher ») est un Solo dans lequel l'enchérisseur s'engage à gagner toutes les levées, et vaut 64 points de jeu. (Le nom vient évidemment du français « solo tout », « tout » signifiant « tous » — dans le jeu bavarois du Schafkopf, il existe une enchère similaire avec le même sens.)
 
-There is a tradition that if the bidder loses every trick ("er geht durch"), his opponents sing a short version of the German folk song "[Im Wald, da sind die Räuber](https://ingeb.org/Lieder/einmadcg.html)".
+Il est de tradition que si l'enchérisseur perd toutes les levées (« er geht durch »), ses adversaires chantent une version abrégée de la chanson folklorique allemande « [Im Wald, da sind die Räuber](https://ingeb.org/Lieder/einmadcg.html) ».
 
-When the bidder is "Bürgermeister" (loses by taking 35 card points), he has to buy a round of Schnaps for the table.
+Quand l'enchérisseur est « Bürgermeister » (perd en prenant 35 points de cartes), il doit offrir une tournée de Schnaps à la table.
 
-## Schmidt Version
+## Version Schmidt
 
-The Cego cards made by F.X.Schmidt come with a leaflet giving rules of the game. These include several small variations and mostly agree with the Oberwolfach version. Some differences are:
+Les cartes Cego fabriquées par F.X.Schmidt sont accompagnées d'une brochure donnant les règles du jeu. Celles-ci incluent plusieurs petites variantes et correspondent principalement à la version d'Oberwolfach. Parmi les différences :
 
-- There is no possibility to throw in the hand if you have seven empty cards.
+- Il n'y a pas de possibilité de jeter sa main si on a sept cartes vides.
 
-- In **Eine Leere**, **Zwei Leere** and **Zwei Verschiedene**, the possibility of using other cards instead of empty cards and the obligation to lead these cards at the beginning are mentioned as variations.
+- Dans **Eine Leere**, **Zwei Leere** et **Zwei Verschiedene**, la possibilité d'utiliser d'autres cartes à la place des cartes vides et l'obligation de les mener en début de partie sont mentionnées comme variantes.
 
-- In **die Pfeif'**, normally the Pfeif' must be led to the first trick. "Ich spiele die Pfeif' frei" is mentioned as a variation, but in this case the bidder is only committed to win a trick with the Pfeif', not necessarily the last trick.
+- Dans **die Pfeif'**, normalement la Pfeif' doit être menée à la première levée. « Ich spiele die Pfeif' frei » est mentionné comme variante, mais dans ce cas l'enchérisseur s'engage seulement à gagner une levée avec la Pfeif', pas nécessairement la dernière.
 
-- It is mentioned as a variation that you can bid over your own Solo.
+- Il est mentionné comme variante qu'on peut enchérir sur son propre Solo.
 
-- The leaflet is ambiguous as to whether the factor for Solo is 2 if won and 1 if lost or vice versa.
+- La brochure est ambiguë quant à savoir si le facteur de Solo est 2 s'il est gagné et 1 s'il est perdu, ou l'inverse.
 
-## Cards counted in twos
+## Cartes comptées par deux
 
-Some published descriptions of Cego, notably those by Claus D Grupp, say that the cards are counted in twos rather than in threes. The players at Bräunlingen confirmed that this method is used in villages a few kilometers to the west of there.
+Certaines descriptions publiées du Cego, notamment celles de Claus D Grupp, indiquent que les cartes sont comptées par deux plutôt que par trois. Les joueurs de Bräunlingen ont confirmé que cette méthode est utilisée dans des villages situés quelques kilomètres plus à l'ouest.
 
-In this method of counting, the cards are grouped into twos, the values of each pair of cards are added and one point subtracted from the sum. (See the counting points in Tarot games page for a general discussion of counting). This gives a higher total of 79 points in the pack, and because the total is odd, no Bürgermeister (tie) is possible.
+Dans cette méthode de comptage, les cartes sont groupées par deux, les valeurs de chaque paire sont additionnées et un point est soustrait de la somme. (Voir la page sur le comptage des points dans les jeux de Tarot pour une discussion générale). Cela donne un total plus élevé de 79 points dans le jeu, et comme le total est impair, aucun Bürgermeister (égalité) n'est possible.
 
-The side which has 40 or more points wins. The base value of the game is given by the table below. This is multiplied by the factor for the game being played to obtain the score.
+Le côté qui a 40 points ou plus gagne. La valeur de base du jeu est donnée par le tableau ci-dessous. Elle est multipliée par le facteur du jeu pour obtenir le score.
 
-| | Points won bybidder | Points won byopponents | Base value |
-| bidderwins | 75 - 79 | 0 - 4 | 8 |
+| | Points gagnés par l'enchérisseur | Points gagnés par les adversaires | Valeur de base |
+| l'enchérisseur gagne | 75 - 79 | 0 - 4 | 8 |
 | 70 - 74 | 5 - 9 | 7 |
 | 65 - 69 | 10 - 14 | 6 |
 | 60 - 64 | 15 - 19 | 5 |
@@ -462,7 +468,7 @@ The side which has 40 or more points wins. The base value of the game is given b
 | 50 - 54 | 25 - 29 | 3 |
 | 45 - 49 | 30 - 34 | 2 |
 | 40 - 44 | 35 - 39 | 1 |
-| bidderloses | 35 - 39 | 40 - 44 | 1 |
+| l'enchérisseur perd | 35 - 39 | 40 - 44 | 1 |
 | 30 - 34 | 45 - 49 | 2 |
 | 25 - 29 | 50 - 54 | 3 |
 | 20 - 24 | 59 - 59 | 4 |
@@ -471,12 +477,10 @@ The side which has 40 or more points wins. The base value of the game is given b
 | 5 - 9 | 70 - 74 | 7 |
 | 0 - 4 | 75 - 79 | 8 |
 
-## Other Cego Sites
+## Autres sites sur le Cego
 
-Achim Laber's German language site [cego.de](https://www.cego.de) has Cego rules, information and variants.
+Le site en allemand d'Achim Laber [cego.de](https://www.cego.de) propose des règles, des informations et des variantes du Cego.
 
-Jürgen Weißauer's eBook, which includes rules (in German) for a version of Cego, is available from his [Spiele Okular](https://web.archive.org/web/spiele-okular.de) website (archive copy).
+Le livre électronique de Jürgen Weißauer, qui inclut des règles (en allemand) d'une version du Cego, est disponible sur son site [Spiele Okular](https://web.archive.org/web/spiele-okular.de) (copie d'archive).
 
-The [Cego Online](https://www.cego-online.de/) site provides rules and tournament information, and you can play against human or computer players.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Cego
+Le site [Cego Online](https://www.cego-online.de/) fournit des règles et des informations de tournoi, et permet de jouer contre des joueurs humains ou informatiques.

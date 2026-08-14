@@ -2,53 +2,53 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** How to play Sicilian Tarocchi. Introduction to the games for three and four players from Mineo and a summary of Tarot variants from other parts of Sicily.
+**But :** Comment jouer aux Tarocchi siciliens. Introduction aux jeux à trois et quatre joueurs de Mineo et résumé des variantes de Tarot jouées dans d'autres régions de Sicile.
 **Autres noms :** Piccoli Gallerini, Vanto
 
 ---
 
-*We are grateful to Michael Dummett for making the Sicilian game of Tarot known to the world and to Salvatore Bonaccorsi and the members of the [Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett](https://giocotarocchisiciliani.jimdofree.com/) in Catania for their demonstration of the Mineo version of the game at the IPCS Convention in September 2019.* *Also to Domenico Starna for his research on this game.*
+*Nous sommes reconnaissants envers Michael Dummett d'avoir fait connaître au monde le jeu de Tarot sicilien, ainsi qu'envers Salvatore Bonaccorsi et les membres de l'[Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett](https://giocotarocchisiciliani.jimdofree.com/) de Catane pour leur démonstration de la version de Mineo lors de la convention de l'IPCS en septembre 2019.* *Ainsi qu'envers Domenico Starna pour ses recherches sur ce jeu.*
 
 ## Introduction
 
-In Sicily, Tarocchi (Tarot) is played with a special pack of 63 cards, smaller in size than most Tarot cards and with somewhat different designs. This page describes in detail the version that is played in Mineo in the province of Catania. This followed by brief details of versions played in other places in Sicily.
+En Sicile, le Tarocchi (Tarot) se joue avec un jeu spécial de 63 cartes, plus petit que la plupart des jeux de Tarot et avec des dessins quelque peu différents. Cette page décrit en détail la version jouée à Mineo, dans la province de Catane. Elle est suivie de brèves descriptions des versions jouées dans d'autres endroits de Sicile.
 
-Tarot was introduced into Sicily in the mid 17th century, probably from Rome, in two forms: Gallerini (equivalent to Minchiate) was played with 97 cards and Tarocchi (sometimes known as Piccoli Gallerini) with the usual 78 cards. This is according to the detailed history of Sicilian culture written by the Marchese di Villabianca (1720-1802). By the time that Villabianca was writing, probably in the 1780's, Gallerini had become rare and the 78-card pack was sometimes shortened, presumably to 63 cards, by removing the lowest numeral cards in the suits. The 63-card pack later became standard and so far as we know no Sicilian 78-card or 97-card packs have survived.
+Le Tarot a été introduit en Sicile au milieu du XVIIe siècle, probablement depuis Rome, sous deux formes : le Gallerini (équivalent de la Minchiate) se jouait avec 97 cartes et le Tarocchi (parfois appelé Piccoli Gallerini) avec les 78 cartes habituelles. C'est ce qui ressort de l'histoire détaillée de la culture sicilienne rédigée par le Marchese di Villabianca (1720-1802). À l'époque où Villabianca écrivait, probablement dans les années 1780, le Gallerini était devenu rare et le jeu de 78 cartes était parfois raccourci, vraisemblablement à 63 cartes, en retirant les cartes numériques les plus basses des enseignes. Le jeu de 63 cartes est ensuite devenu standard et, autant que nous le sachions, aucun jeu sicilien de 78 ou 97 cartes n'a survécu.
 
-Like all classic games played with Tarot cards, Sicilian Tarocchi is a point trick game with trumps. There are versions for three and for four players. The ranking of the cards and the system of point values is common to all the games and will be explained first.
+Comme tous les jeux classiques joués avec des cartes de Tarot, le Tarocchi sicilien est un jeu de plis comptés avec atouts. Il existe des versions pour trois et pour quatre joueurs. La hiérarchie des cartes et le système de valeur en points sont communs à tous les jeux et seront expliqués en premier.
 
-## The Cards and their Values
+## Les cartes et leurs valeurs
 
-The pack traditionally consists of 63 cards: 
+Le jeu se compose traditionnellement de 63 cartes :
 
-- **21 trumps**: twenty of them are numbered, from the 20 (highest) down to 1, and below this comes the unnumbered *'Miseria'*.
+- **21 atouts** : vingt d'entre eux sont numérotés, du 20 (le plus haut) au 1, et en dessous se trouve le non numéroté *Miseria*.
 
-- **The Fool**, known as *il Fuggitivo* in Italian and *lu Fujutu* in Sicilian.
+- **Le Fou**, connu sous le nom d'*il Fuggitivo* en italien et *lu Fujutu* en sicilien.
 
-- **Four suits:** cups (*coppe*), money/coins (*oro*), clubs (*bastoni* or *mazze*) and swords (*spade*). In each suit the cards rank from high to low: King (*Re*), Queen (*Regina*), Horse (*Cavallo*), Maid (*Donna*), 10, 9, 8, 7, 6, 5, (4). Only the suit of money has 11 cards including a 4 - the other three suits have just 10 cards and the lowest card is the 5.
+- **Quatre enseignes** : coupes (*coppe*), deniers (*oro*), bâtons (*bastoni* ou *mazze*) et épées (*spade*). Dans chaque enseigne, les cartes se rangent du plus haut au plus bas : Roi (*Re*), Dame (*Regina*), Cavalier (*Cavallo*), Valet (*Donna*), 10, 9, 8, 7, 6, 5, (4). Seule l'enseigne de deniers comporte 11 cartes, y compris un 4 — les trois autres enseignes n'ont que 10 cartes et la carte la plus basse est le 5.
 
-As sold today, Sicilian Tarot packs have an additional 64th card, the Ace of money. This was added to the pack in the 19th century purely to carry the tax stamp, which was required by law to be printed on this card. Subsequently, players in some places began to use this Ace as the lowest card of the money/coins suit, either in place of or in addition to the 4. 
+Les jeux de Tarot sicilien vendus aujourd'hui comportent une 64e carte supplémentaire, l'As de deniers. Cette carte a été ajoutée au jeu au XIXe siècle uniquement pour porter le timbre fiscal, que la loi exigeait d'imprimer sur cette carte. Par la suite, des joueurs de certains endroits ont commencé à utiliser cet As comme la carte la plus basse de l'enseigne de deniers, soit à la place du 4, soit en plus du 4.
 
-When counting the value of the tricks taken by a player or team, the cards are customarily counted in **batches of three**. The values of the individual cards are as follows 
+Pour compter la valeur des plis remportés par un joueur ou une équipe, on compte habituellement les cartes par **groupes de trois**. Les valeurs des cartes individuelles sont les suivantes :
 
-| Trump 20, trump 1, Fool | 10 points each |
-| Trumps 19, 18, 17, 16 (arie) | 5 points each |
-| Kings | 5 points each |
-| Queens | 4 points each |
-| Horses | 3 points each |
-| Maids | 2 points each |
-| All other cards (trumps 2-15, 
-Miseria, numeral cards in suits) | 1 point each |
+| Atout 20, atout 1, Fou | 10 points chacun |
+| Atouts 19, 18, 17, 16 (arie) | 5 points chacun |
+| Rois | 5 points chacun |
+| Dames | 4 points chacun |
+| Cavaliers | 3 points chacun |
+| Valets | 2 points chacun |
+| Toutes les autres cartes (atouts 2-15,
+Miseria, cartes numériques des enseignes) | 1 point chacun |
 
-2 points are subtracted from the total of each batch of three cards, so that for example trumps 20, 9 and 6 together are worth 10+1+1-2=10 card points. Queen, Horse and 7 together are worth 4+3+1-2=6. Three 1-point cards together are worth 1+1+1-2=1. 
+2 points sont déduits du total de chaque groupe de trois cartes, de sorte que par exemple les atouts 20, 9 et 6 réunis valent 10+1+1-2=10 points de carte. Dame, Cavalier et 7 réunis valent 4+3+1-2=6. Trois cartes d'un point réunies valent 1+1+1-2=1.
 
-If one or two cards are left over, 1 card point instead of 2 is subtracted from the value of cards in this defective batch, so for example a Maid on her own is worth 1 card point and a Maid with a small card is worth 2.
+S'il reste une ou deux cartes, on déduit 1 point de carte au lieu de 2 de la valeur de ce groupe incomplet, de sorte que par exemple un Valet seul vaut 1 point de carte, et un Valet avec une petite carte vaut 2.
 
-The **last trick** counts **5 card points extra **for the player or team that wins it. The total number of points in the 63-card pack is always **109**. 
+Le **dernier pli** compte **5 points de carte supplémentaires** pour le joueur ou l'équipe qui le remporte. Le nombre total de points dans le jeu de 63 cartes est toujours de **109**.
 
-Some players who are new to the game may find it easier to count 1 point less for each individual card than in the table above. They must then add 1 card point (instead of subtracting 2) for each batch of 3 cards or for a batch of 2 left over at the end and 5 more points for the last trick. Using this method the card values are 9 points each for the 20, 1 and Fool, 4 each for the 19, 18, 17, 16 and Kings, 3 for Queens, 2 for Horses, 1 for Maids and nothing for other cards. This method gives exactly the same result is the customary method, with a total of 109 points in the game. See the page counting points in tarot games for further discussion and comparison of these methods.
+Certains joueurs débutants peuvent trouver plus facile de compter 1 point de moins pour chaque carte individuelle que dans le tableau ci-dessus. Ils doivent alors ajouter 1 point de carte (au lieu de soustraire 2) pour chaque groupe de 3 cartes ou pour un groupe de 2 restant à la fin, et 5 points supplémentaires pour le dernier pli. Avec cette méthode, les valeurs des cartes sont de 9 points chacun pour le 20, le 1 et le Fou, 4 chacun pour le 19, 18, 17, 16 et les Rois, 3 pour les Dames, 2 pour les Cavaliers, 1 pour les Valets et rien pour les autres cartes. Cette méthode donne exactement le même résultat que la méthode habituelle, avec un total de 109 points.
 
-With a little practice, the cards are fairly easy to identify. The most valuable cards are trump 20 (Jupiter), trump 1 (the young men) and the Fool, who wears a pointed hat, blows a trumpet and carries a ball.
+Avec un peu de pratique, les cartes sont assez faciles à identifier. Les cartes les plus précieuses sont l'atout 20 (Jupiter), l'atout 1 (les jeunes hommes) et le Fou, qui porte un chapeau pointu, souffle dans une trompette et porte une balle.
 
 ![20](../images/sictar/20.gif)
 giove
@@ -58,7 +58,7 @@ i picciotti
 
 ![fujutu](../images/sictar/fuggitivo.gif)
 fuggitivo
-The trump cards from 1 to 20 all have numbers, which for reasons that are unclear to us are inconveniently located at the top right of the card. The next four trumps below the 20 are also valuable. They represent celestial bodies: the world (19), sun (18), moon (17) and star (16). The top five trumps are collectively known as *Arie*. 
+Les cartes d'atout de 1 à 20 portent toutes des numéros, qui pour des raisons peu claires pour nous sont situés de manière peu pratique en haut à droite de la carte. Les quatre atouts suivants en dessous du 20 sont également précieux. Ils représentent des corps célestes : le monde (19), le soleil (18), la lune (17) et l'étoile (16). Les cinq atouts les plus élevés sont collectivement appelés *Arie*.
 
 ![19](../images/sictar/19.gif)
 la palla
@@ -68,383 +68,381 @@ il sole
 la luna
 ![16](../images/sictar/16.gif)
 la stella
-The lowest trump, which ranks below the 1, depicts a beggar and its name 'Miseria' is shown in a banner at the top.
+L'atout le plus bas, qui se classe sous le 1, représente un mendiant et son nom « Miseria » est inscrit sur une bannière en haut.
 
 ![miseria](../images/sictar/miseria.gif)
 miseria
-The four Kings all have beards, wear crowns and are seated, with a shield beside the throne. 
+Les quatre Rois ont tous une barbe, portent une couronne et sont assis, avec un bouclier à côté du trône.
 
-![king of cups](../images/sictar/re-c.gif)
-![king of coins](../images/sictar/re-d.gif)
-![king of clubs](../images/sictar/re-b.gif)
-![king of swords](../images/sictar/re-s.gif)
-The Queens are also seated, wearing robes covering their legs and with no shields. 
+![roi de coupes](../images/sictar/re-c.gif)
+![roi de deniers](../images/sictar/re-d.gif)
+![roi de bâtons](../images/sictar/re-b.gif)
+![roi d'épées](../images/sictar/re-s.gif)
+Les Dames sont également assises, portant des robes couvrant leurs jambes et sans bouclier.
 
-![queen of cups](../images/sictar/regina-c.gif)![queen of coins](../images/sictar/regina-d.gif)![queen of clubs](../images/sictar/regina-b.gif)![queen of swords](../images/sictar/regina-s.gif)
+![dame de coupes](../images/sictar/regina-c.gif)![dame de deniers](../images/sictar/regina-d.gif)![dame de bâtons](../images/sictar/regina-b.gif)![dame d'épées](../images/sictar/regina-s.gif)
 
-Mounted on the horses are men with feathered hats, carrying their suit signs.
+Les Cavaliers montent des chevaux, portant des chapeaux à plumes et les signes de leur enseigne.
 
-![horse of cups](../images/sictar/cavallo-c.gif)![horse of coins](../images/sictar/cavallo-d.gif)![horse of clubs](../images/sictar/cavallo-b.gif)
+![cavalier de coupes](../images/sictar/cavallo-c.gif)![cavalier de deniers](../images/sictar/cavallo-d.gif)![cavalier de bâtons](../images/sictar/cavallo-b.gif)
 
-The maids are standing, wearing long dresses, and each carrying a shield.
+Les Valets sont debout, portant de longues robes, et tiennent chacun un bouclier.
 
-![maid of cups](../images/sictar/donna-c.gif)![maid of coins](../images/sictar/donna-d.gif)![maid of clubs](../images/sictar/donna-b.gif)![maid of swords](../images/sictar/donna-s.gif)
+![valet de coupes](../images/sictar/donna-c.gif)![valet de deniers](../images/sictar/donna-d.gif)![valet de bâtons](../images/sictar/donna-b.gif)![valet d'épées](../images/sictar/donna-s.gif)
 
-It is easy to recognise the numeral cards in the suits by counting the symbols, and in addition they have an index in a rectangle at the top containing the number and the first letter of the suit: **C**oppe=cups, **O**ro=money, **B**astoni=clubs, **S**pade=swords - for example 7.O is the 7 of money.
+Il est facile de reconnaître les cartes numériques des enseignes en comptant les symboles, et en outre elles comportent un indice dans un rectangle en haut contenant le numéro et la première lettre de l'enseigne : **C**oppe=coupes, **O**ro=deniers, **B**astoni=bâtons, **S**pade=épées — par exemple 7.O est le 7 de deniers.
 
-## The Three-Player Mineo Game
+## Le jeu à trois joueurs de Mineo
 
-The Mineo version of Sicilian Tarocchi is the most traditional and arguably the most interesting surviving form of the game. Although there are now unfortunately only a few people in Mineo and nearby Palagonia and Grammichele who still play it, it has been taken up and promoted in recent years by the *Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett* in Catania under the leadership of Salvatore Bonaccorsi*. *There are versions for 3 and 4 players. The 3-player game, which will be described first, has more scope for strategy and is preferred by the experienced players in the Mineo area.
+La version de Mineo du Tarocchi sicilien est la plus traditionnelle et probablement la plus intéressante des formes survivantes du jeu. Bien qu'il n'y ait malheureusement aujourd'hui que quelques personnes à Mineo et dans les environs de Palagonia et Grammichele qui y jouent encore, elle a été reprise et promue ces dernières années par l'*Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett* de Catane, sous la direction de Salvatore Bonaccorsi. Il existe des versions à 3 et 4 joueurs. Le jeu à 3 joueurs, qui sera décrit en premier, offre plus de possibilités stratégiques et est préféré par les joueurs expérimentés de la région de Mineo.
 
-In each deal, if it is played out, one of the three players will be the soloist, playing alone against the other two players who form a temporary partnership. Each player is dealt a hand of 20 cards and the three remaining cards form the *monte*, which can be used by the soloist to improve their hand. 
+À chaque donne, si elle est jouée, l'un des trois joueurs sera le soliste, jouant seul contre les deux autres joueurs qui forment une partnership temporaire. Chaque joueur reçoit une main de 20 cartes et les trois cartes restantes forment le *monte*, que le soliste peut utiliser pour améliorer sa main.
 
-The game is played for stakes known as *jochi* or *jucate* (singular *jocu*) which can represent a sum of money or can be thought of simply as game points or victory points. The soloist aims to take more than half the card points, that is 55 or more, in tricks. This is worth 1 *jocu* received from each opponent if successful or paid to each if not. There are several other ways to win or lose *jochi*, for example by winning the last trick, by capturing a counting trump from an opponent, or by winning all four Kings.
+Le jeu se joue pour des enjeux appelés *jochi* ou *jucate* (singulier *jocu*) qui peuvent représenter une somme d'argent ou être considérés simplement comme des points de jeu ou des points de victoire. Le soliste vise à remporter plus de la moitié des points de carte, c'est-à-dire 55 ou plus, en plis. Cela vaut 1 *jocu* reçu de chaque adversaire en cas de succès, ou payé à chacun en cas d'échec. Il existe plusieurs autres moyens de gagner ou de perdre des *jochi*, par exemple en remportant le dernier pli, en capturant un atout comptant d'un adversaire, ou en remportant les quatre Rois.
 
-Not every deal is played out. The cards are dealt in batches of 5 and after each round of the deal there is an opportunity to abandon the deal by agreement, sometimes with a compensation payment between the players.
+Toutes les donnes ne sont pas jouées. Les cartes sont distribuées par groupes de 5 et après chaque tour de distribution, il y a une possibilité d'abandonner la donne d'un commun accord, parfois avec un paiement de compensation entre les joueurs.
 
-### The Deal
+### La distribution
 
-The first dealer is chosen by any convenient random method, for example the players each draw a card and the player who received the highest card deals first. After each hand the turn to deal passes to the right.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire appropriée, par exemple chaque joueur tire une carte et le joueur ayant reçu la carte la plus haute distribue en premier. Après chaque main, le tour de distribuer passe vers la droite.
 
-The dealer shuffles and the player to dealer's left cuts the cards. Before beginning to deal, the dealer may look at the bottom card of the pack, which will be one of the three cards of the *monte*, without showing it to the other players.
+Le donneur mélange et le joueur à la gauche du donneur coupe les cartes. Avant de commencer à distribuer, le donneur peut regarder la carte du bas du jeu, qui sera l'une des trois cartes du *monte*, sans la montrer aux autres joueurs.
 
-The cards are dealt anticlockwise in batches of 5 cards at a time, beginning to dealer's right, but after each round of the deal there is a pause in which the players decide whether to continue the deal or abandon it. The players look at the cards they have received so far and then speak in turn, beginning with the player's right and ending with the dealer.
+Les cartes sont distribuées dans le sens antihoraire par groupes de 5 cartes, en commençant à la droite du donneur, mais après chaque tour de distribution il y a une pause pendant laquelle les joueurs décident s'ils veulent continuer la distribution ou l'abandonner. Les joueurs regardent les cartes qu'ils ont reçues jusqu'ici puis parlent à tour de rôle, en commençant par le joueur à la droite du donneur et en terminant par le donneur.
 
-After the** first round** of the deal, when each player has 5 cards, the possible announcements are:
+Après le **premier tour** de distribution, lorsque chaque joueur a 5 cartes, les annonces possibles sont :
 
-- **Mischio** (shuffle) or **passo** (pass): the player offers to abandon the deal if all agree
+- **Mischio** (mélange) ou **passo** (passe) : le joueur propose d'abandonner la donne si tous sont d'accord.
 
-- **Altre cinque** (another five): the player insists on continuing with the next round of the deal
+- **Altre cinque** (cinq de plus) : le joueur exige de continuer avec le tour de distribution suivant.
 
-- **Vado solo** (I play alone): the player requires that the deal be completed and volunteers (having seen only five cards) to play alone against the other two players.
+- **Vado solo** (je joue seul) : le joueur exige que la distribution soit complétée et se porte volontaire (n'ayant vu que cinq cartes) pour jouer seul contre les deux autres joueurs.
 
-If any player announces 'vado solo' with 5 cards there is nothing more to be said. The remaining cards are dealt without pause so that everyone has 20 cards, the soloist shows the *monte*, takes it into hand, discards three cards as described below, and the play begins. The incentive for a player to commit to playing alone after seeing only 5 cards is that in this case all scores for the hand are doubled.
+Si un joueur annonce « vado solo » avec 5 cartes, il n'y a plus rien à dire. Les cartes restantes sont distribuées sans pause pour que chacun ait 20 cartes, le soliste montre le *monte*, le prend dans sa main, écarte trois cartes comme décrit ci-dessous, et le jeu commence. L'incitation pour un joueur à s'engager à jouer seul après n'avoir vu que 5 cartes est que dans ce cas tous les scores de la main sont doublés.
 
-If all three players say 'mischio' (or 'passo'), the deal is abandoned and there is no score. The cards are shuffled and the next dealer deals a new hand.
+Si les trois joueurs disent « mischio » (ou « passo »), la donne est abandonnée et il n'y a pas de score. Les cartes sont mélangées et le prochain donneur distribue une nouvelle main.
 
-In the most usual case where one player says 'altre cinque' and no one says 'vado solo', the dealer deals the next five cards to each player. After the **second round** of the deal, when each player has 10 cards, the possible announcements are:
+Dans le cas le plus courant où un joueur dit « altre cinque » et personne ne dit « vado solo », le donneur distribue les cinq cartes suivantes à chaque joueur. Après le **deuxième tour** de distribution, lorsque chaque joueur a 10 cartes, les annonces possibles sont :
 
-- **Mischio** (shuffle) or **passo** (pass): the player offers to abandon the deal for no score if all agree
+- **Mischio** (mélange) ou **passo** (passe) : le joueur propose d'abandonner la donne sans score si tous sont d'accord.
 
-- **Pago** (I pay): this can be said by the first player, and by the second player if the first player said 'mischio/passo' or 'pago'. The player volunteers to pay one *jocu* (stake) if the others agree to abandon the deal.
+- **Pago** (je paie) : cela peut être dit par le premier joueur, et par le deuxième joueur si le premier joueur a dit « mischio/passo » ou « pago ». Le joueur se porte volontaire pour payer un *jocu* (enjeu) si les autres acceptent d'abandonner la donne.
 
-- **Prendo** (I take): this can be said by the second or third player if at least one previous player has said 'pago' and no previous player has said 'prendo' or 'altre cinque'. The player agrees to accept the *jochi* (stakes) offered by the player(s) who said 'pago' and abandon the deal.
+- **Prendo** (je prends) : cela peut être dit par le deuxième ou troisième joueur si au moins un joueur précédent a dit « pago » et aucun joueur précédent n'a dit « prendo » ou « altre cinque ». Le joueur accepte de recevoir les *jochi* (enjeux) offerts par le(s) joueur(s) qui ont dit « pago » et d'abandonner la donne.
 
-- **Altre cinque** (another five): the player insists on continuing with the next round of the deal, and any announcements in this round of 'pago' or 'prendo' are thereby cancelled.
+- **Altre cinque** (cinq de plus) : le joueur exige de continuer avec le tour de distribution suivant, et toute annonce de « pago » ou « prendo » dans ce tour est ainsi annulée.
 
-If any player says 'altre cinque' there is no more to be said in this round. The dealer continues by dealing a third batch of 5 cards each.
+Si un joueur dit « altre cinque », il n'y a plus rien à dire dans ce tour. Le donneur continue en distribuant un troisième groupe de 5 cartes à chacun.
 
-If no one said 'altre cinque' the deal is abandoned. The cards are shuffled and the next dealer deals a new hand. If all said 'mischio' (or 'passo'), there is no score. If one or two said 'pago' and one said 'prendo' the player who said 'prendo' receives one *jocu* from each player who said 'pago'. A player who said 'passo' neither pays nor receives.
+Si personne n'a dit « altre cinque », la donne est abandonnée. Les cartes sont mélangées et le prochain donneur distribue une nouvelle main. Si tous ont dit « mischio » (ou « passo »), il n'y a pas de score. Si un ou deux ont dit « pago » et un a dit « prendo », le joueur qui a dit « prendo » reçoit un *jocu* de chaque joueur qui a dit « pago ». Un joueur qui a dit « passo » ne paie ni ne reçoit.
 
-After the **third round** of the deal, when everyone has 15 cards, the options and their results are exactly the same as after the second round. The possible announcements are again 'mischio'/'passo', 'pago', 'prendo' or 'altre cinque'. If any player says 'altre cinque' with 15 cards, the dealer completes the deal by dealing a final batch of five cards to each player. 
+Après le **troisième tour** de distribution, lorsque tout le monde a 15 cartes, les options et leurs résultats sont exactement les mêmes qu'après le deuxième tour. Les annonces possibles sont à nouveau « mischio »/« passo », « pago », « prendo » ou « altre cinque ». Si un joueur dit « altre cinque » avec 15 cartes, le donneur complète la distribution en donnant un dernier groupe de cinq cartes à chaque joueur.
 
-After the **fourth round** of the deal everyone has their full hand of 20 cards and the last three cards form the *monte*. The dealer looks at these three cards without showing them to the other players and then places them face down on the table. In this final round the possible announcements are:
+Après le **quatrième tour** de distribution, tout le monde a sa main complète de 20 cartes et les trois dernières cartes forment le *monte*. Le donneur regarde ces trois cartes sans les montrer aux autres joueurs, puis les pose face cachée sur la table. Dans ce tour final, les annonces possibles sont :
 
-- **Mischio** (shuffle) or **passo** (pass): the player offers to abandon the deal for no score if all agree
+- **Mischio** (mélange) ou **passo** (passe) : le joueur propose d'abandonner la donne sans score si tous sont d'accord.
 
-- **Pago** (I pay): this can be said by the first player, and by the second player if the first player said 'mischio/passo' or 'pago'. The player volunteers to pay one *jocu* (stake) if the others agree to abandon the deal.
+- **Pago** (je paie) : cela peut être dit par le premier joueur, et par le deuxième joueur si le premier joueur a dit « mischio/passo » ou « pago ». Le joueur se porte volontaire pour payer un *jocu* si les autres acceptent d'abandonner la donne.
 
-- **Prendo** (I take): this can be said by the second or third player if at least one previous player has said 'pago' and no previous player has said 'prendo' or 'vado solo'. The player agrees to accept the *jochi* (stakes) offered by the player(s) who said 'pago' and abandon the deal.
+- **Prendo** (je prends) : cela peut être dit par le deuxième ou troisième joueur si au moins un joueur précédent a dit « pago » et aucun joueur précédent n'a dit « prendo » ou « vado solo ». Le joueur accepte de recevoir les *jochi* offerts par le(s) joueur(s) qui ont dit « pago » et d'abandonner la donne.
 
-- ******Vado solo** (I play alone): the player volunteers to play alone against the other two players. This ends the announcements. Rather than actually saying 'vado solo', the player may simply take the *monte* cards.
+- **Vado solo** (je joue seul) : le joueur se porte volontaire pour jouer seul contre les deux autres joueurs. Cela met fin aux annonces. Au lieu de dire effectivement « vado solo », le joueur peut simplement prendre les cartes du *monte*.
 
-If no one volunteered to play alone the deal is abandoned. The cards are shuffled and the next dealer deals a new hand. If all said 'mischio' (or 'passo'), there is no score. If one or two said 'pago' and one said 'prendo' the player who said 'prendo' receives one *jocu* from each player who said 'pago'. A player who said 'passo' neither pays nor receives.
+Si personne ne s'est porté volontaire pour jouer seul, la donne est abandonnée. Les cartes sont mélangées et le prochain donneur distribue une nouvelle main. Si tous ont dit « mischio » (ou « passo »), il n'y a pas de score. Si un ou deux ont dit « pago » et un a dit « prendo », le joueur qui a dit « prendo » reçoit un *jocu* de chaque joueur qui a dit « pago ». Un joueur qui a dit « passo » ne paie ni ne reçoit.
 
-If either of the first two players plays alone, they must turn the three cards of the *monte* face up for all to see before adding them* *to their hand. If the dealer plays alone, the dealer picks up the *monte* without showing the cards to the opponents. In either case, after taking the *monte*, the soloist must discard three of their 23 cards face down under the following restrictions. 
+Si l'un des deux premiers joueurs joue seul, il doit retourner les trois cartes du *monte* face visible pour que tous les voient avant de les ajouter à sa main. Si le donneur joue seul, le donneur ramasse le *monte* sans montrer les cartes aux adversaires. Dans les deux cas, après avoir pris le *monte*, le soliste doit écarter trois de ses 23 cartes face cachée, sous les restrictions suivantes.
 
-It is illegal to discard any trumps, the Fool (*fujutu*) or any King. Other cards in the suits (Queens, Knights, Maids and numeral cards) may be discarded, and any points in these discarded cards count towards the soloist's tricks. Exceptionally, in the very rare case where after taking the *monte* the soloist has fewer than three suit cards that are not Kings, it is permitted to discard the least valuable trumps (Miseria and 2-15) but no more trumps than necessary. In this case the discarded trump(s) are not declared or shown, and the soloist's remaining hand must consist entirely of trumps and Kings, possibly with the Fool.
+Il est interdit d'écarter des atouts, le Fou (*fujutu*) ou un Roi. Les autres cartes des enseignes (Dames, Cavaliers, Valets et cartes numériques) peuvent être écartées, et les points de ces cartes écartées comptent pour les plis du soliste. Exceptionnellement, dans le cas très rare où, après avoir pris le *monte*, le soliste a moins de trois cartes d'enseigne qui ne sont pas des Rois, il est permis d'écarter les atouts les moins précieux (Miseria et 2-15) mais pas plus d'atouts que nécessaire. Dans ce cas, le(s) atout(s) écarté(s) ne sont pas déclaré(s) ni montré(s), et la main restante du soliste doit être composée entièrement d'atouts et de Rois, éventuellement avec le Fou.
 
-**Note.** Announcements of 'pago' or 'prendo' are only possible when the players have at least 10 cards. They are cancelled by an announcement of 'altre cinque' or 'solo' in the same round.
+**Note.** Les annonces de « pago » ou « prendo » ne sont possibles que lorsque les joueurs ont au moins 10 cartes. Elles sont annulées par une annonce de « altre cinque » ou « solo » dans le même tour.
 
-**Note.** An announcement of 'solo' is only possible with 5 cards (for a double stake) or 20 cards (for a single stake), not with 10 or 15 cards.
+**Note.** Une annonce de « solo » n'est possible qu'avec 5 cartes (pour un double enjeu) ou 20 cartes (pour un enjeu simple), pas avec 10 ou 15 cartes.
 
-### The Play
+### Le jeu
 
-After discarding the soloist says '*fatto è*' (it's done) when ready for the play to begin. Before the first lead there are two types of announcement that can be made.
+Après l'écart, le soliste dit « *fatto è* » (c'est fait) lorsqu'il est prêt pour que le jeu commence. Avant la première entame, deux types d'annonces peuvent être faites.
 
-- The soloist can announce **Scommessa** which is an undertaking to win all three of the most valuable cards - *giove* (20), *i picciotti *(1) and *fujutu* (Fool) in tricks. Since the 20 and Fool cannot be lost, to make this announcement the soloists normally needs to hold these two cards, and either to hold the 1 and expect to bring it home or (more rarely) to be confident of capturing the 1 from the opponents.
+- Le soliste peut annoncer **Scommessa**, qui est un engagement de remporter les trois cartes les plus précieuses — *giove* (20), *i picciotti* (1) et *fujutu* (Fou) en plis. Puisque le 20 et le Fou ne peuvent pas être perdus, pour faire cette annonce, le soliste doit normalement détenir ces deux cartes, et soit détenir le 1 et s'attendre à le ramener, soit (plus rarement) être sûr de capturer le 1 aux adversaires.
 
-- An opponent of the soloist can announce **Rivanto**, which doubles the score for winning the last trick. However 'rivanto' can only be said by an opponent who did not themselves have an opportunity to announce a solo in the final round of the deal. For example if in the fourth round of the deal the first player passes, and the second player says 'vado solo', the dealer is allowed to announce 'rivanto' but the first player cannot. So the tactic of passing with a good hand to trap a later player into saying 'solo' so that one can then announce 'rivanto' is not permitted.
+- Un adversaire du soliste peut annoncer **Rivanto**, qui double le score de remport du dernier pli. Cependant, « rivanto » ne peut être dit que par un adversaire qui n'a pas eu lui-même l'opportunité d'annoncer un solo au dernier tour de distribution. Par exemple, si au quatrième tour le premier joueur passe et le deuxième joueur dit « vado solo », le donneur est autorisé à annoncer « rivanto » mais le premier joueur ne le peut pas.
 
-The player to the right of the soloist always leads to the first trick, so that the soloist plays last to this first trick. 
+Le joueur à la droite du soliste entame toujours le premier pli, de sorte que le soliste joue en dernier à ce premier pli.
 
-Any card except the Fool may be led. The other players must follow suit if able to, and if unable to follow suit must play a trump if they have one. There is no obligation to overtake cards played by the previous players.
+N'importe quelle carte sauf le Fou peut être entamée. Les autres joueurs doivent suivre l'enseigne s'ils le peuvent, et s'ils ne peuvent pas suivre l'enseigne, doivent jouer un atout s'ils en ont un. Il n'y a aucune obligation de surmonter les cartes jouées par les joueurs précédents.
 
-Each trick is won by the highest trump in it, or if it contains no trumps, by the highest card of the suit that was led. The winner of each trick adds the cards to their trick pile and leads to the next one. Tricks are stored face down, except that if the winner of a trick captures a counting trump (1, 16, 17, 18 or 19) from the opposition, the captured trump is kept face up beside the trick pile as a reminder to claim payment for it.
+Chaque pli est remporté par le plus haut atout qu'il contient, ou s'il ne contient pas d'atout, par la carte la plus haute de l'enseigne entamée. Le gagnant de chaque pli ajoute les cartes à son tas de plis et entame le suivant. Les plis sont conservés face cachée, sauf si le gagnant d'un pli capture un atout comptant (1, 16, 17, 18 ou 19) de l'adversaire, auquel cas l'atout capturé est conservé face visible à côté du tas de plis comme rappel pour réclamer le paiement.
 
-The Fool is an exception to the above rules of following suit. The Fool may be played to any trick as an alternative to following suit or trumping. The holder does not add the Fool to the trick but simply shows it and places it face down in their own trick pile. The trick therefore consists of only two cards, taken by the winner as usual.
+Le Fou fait exception aux règles ci-dessus de suivi d'enseigne. Le Fou peut être joué à n'importe quel pli au lieu de suivre l'enseigne ou de couper. Le détenteur n'ajoute pas le Fou au pli mais le montre simplement et le pose face cachée dans son propre tas de plis. Le pli ne comprend donc que deux cartes, prises par le gagnant comme d'habitude.
 
-If the team of the player of the Fool has not yet taken any tricks, the Fool is stored face up until they have done so. If they never take a trick the Fool is surrendered to the other team. This rule has no practical effect in this game, except in the very rare case where the soloist is able to achieve a *Scommessa* by winning all the tricks and thereby capturing the Fool from the opponents.
+Si l'équipe du joueur du Fou n'a pas encore remporté de pli, le Fou est conservé face visible jusqu'à ce qu'elle le fasse. Si elle ne remporte jamais de pli, le Fou est cédé à l'autre équipe.
 
-The Fool cannot be led, except to the last trick, when it is the player's only card. If it is led to the last trick, the card played by the second player determines the suit to be followed by the third. 
+Le Fou ne peut pas être entamé, sauf au dernier pli, lorsqu'il est la seule carte du joueur. S'il est entamé au dernier pli, la carte jouée par le deuxième joueur détermine l'enseigne à suivre pour le troisième.
 
-**Note.** It can be a mistake to keep the Fool for too long. For example if the soloist wins a trick late in the play and still holds the Fool, then in order to win the last trick they will need to lose at least two more tricks before the end: one in which they give the lead to an opponent and another in which they play the Fool. If soloist is unable to give away a trick in time, they will have to lead the Fool to the last trick, losing that trick.
+**Note.** Il peut être une erreur de garder le Fou trop longtemps. Par exemple, si le soliste remporte un pli tard dans le jeu et conserve encore le Fou, alors pour gagner le dernier pli il devra perdre au moins deux plis supplémentaires avant la fin : un dans lequel il cède l'entame à un adversaire, et un autre dans lequel il joue le Fou.
 
-### Scoring
+### Comptage des points
 
-At the end of the play the players settle up in *jochi*. The soloist's opponents form a partnership, and pay equal amounts to or receive equal amounts from the soloist. Any achievement such as winning the last trick or capture of a counting trump by one of the soloist's opponents benefits both of them.
+À la fin du jeu, les joueurs règlent leurs comptes en *jochi*. Les adversaires du soliste forment une équipe et paient des montants égaux au soliste ou en reçoivent des montants égaux. Toute réalisation telle que remporter le dernier pli ou capturer un atout comptant par l'un des adversaires du soliste profite aux deux.
 
-There are two payments that always take place.
+Il y a deux paiements qui ont toujours lieu.
 
-- The card points in the tricks taken by each side are counted, as explained above (the three discarded cards count for the soloist). The side that has more card points (55 or more) wins one *jocu* for **Rimatura**.
+- Les points de carte dans les plis remportés par chaque côté sont comptés, comme expliqué ci-dessus (les trois cartes écartées comptent pour le soliste). Le côté qui a le plus de points de carte (55 ou plus) gagne un *jocu* pour **Rimatura**.
 
-- Whoever wins the last trick wins one *jocu* for their side for **Vanto**.
+- Celui qui remporte le dernier pli gagne un *jocu* pour son côté pour **Vanto**.
 
-The following payments depend on events that may happen in the play.
+Les paiements suivants dépendent d'événements qui peuvent se produire au cours du jeu.
 
-- For each counting trump (1, 16, 17, 18, 19) captured from the other side, the capturing team wins one *jocu* for **Pigliata**.
+- Pour chaque atout comptant (1, 16, 17, 18, 19) capturé de l'autre côté, l'équipe qui le capture gagne un *jocu* pour **Pigliata**.
 
-- If one side has all four Kings in their tricks, they win one *jocu* for **4 Re**.
+- Si un côté a les quatre Rois dans ses plis, il gagne un *jocu* pour **4 Re**.
 
-- If one side has the top five trumps in their tricks (20, 19, 18, 17, 16) they win two *jochi* for **5 Arie**.
+- Si un côté a les cinq atouts les plus élevés dans ses plis (20, 19, 18, 17, 16), il gagne deux *jochi* pour **5 Arie**.
 
-- If one side has the 19, 18, 17 and 16 but not the 20 in their tricks they win one *jocu* for **4 Arie**.
+- Si un côté a le 19, 18, 17 et 16 mais pas le 20 dans ses plis, il gagne un *jocu* pour **4 Arie**.
 
-The following payments take place if and only if announced before the play.
+Les paiements suivants ont lieu si et seulement s'ils sont annoncés avant le jeu.
 
-- If the soloist announced **Scommessa**, they win one *jocu* if they have the 20, 1 and Fool in their tricks, but lose one *jocu* if they do not have all three of these cards.
+- Si le soliste a annoncé **Scommessa**, il gagne un *jocu* s'il a le 20, le 1 et le Fou dans ses plis, mais perd un *jocu* s'il n'a pas les trois.
 
-- If an opponent of the soloist announced **Rivanto**, they side that won the last trick wins an extra *jocu* (two *jochi* for the last trick in total).
+- Si un adversaire du soliste a annoncé **Rivanto**, le côté qui a remporté le dernier pli gagne un *jocu* supplémentaire (deux *jochi* pour le dernier pli au total).
 
-The players add up the *jochi* won by each side, and the losing side pays the net amount to the winners. For example if the soloist wins the last trick but the opponents take the majority of card points, and there are no announcements or scoring events, then then each side has won one *jocu* and there is no payment.
+Les joueurs additionnent les *jochi* gagnés par chaque côté, et le côté perdant paie le montant net aux gagnants. Par exemple, si le soliste remporte le dernier pli mais que les adversaires obtiennent la majorité des points de carte, et qu'il n'y a pas d'annonces ni d'événements de score, alors chaque côté a gagné un *jocu* et il n'y a pas de paiement.
 
-In the unusual case where a player announced a solo after being dealt only 5 cards, all the payments are doubled.
+Dans le cas inhabituel où un joueur a annoncé un solo après n'avoir reçu que 5 cartes, tous les paiements sont doublés.
 
-### Communication during the Play
+### Communication pendant le jeu
 
-The soloist's opponents are allowed to communicate to a limited extent during the play, giving advice to partner, asking for advice or giving information. The permitted expressions are given in the tables below - the left column is the Sicilian phrase and the right hand column explains the meaning.
+Les adversaires du soliste sont autorisés à communiquer de manière limitée pendant le jeu, en donnant des conseils à leur partenaire, en demandant des conseils ou en donnant des informations. Les expressions autorisées sont données dans les tableaux ci-dessous — la colonne de gauche est la phrase sicilienne et la colonne de droite explique la signification.
 
-As in most card games that allow this sort of conversation, it should be used sparingly and only when it gives some definite benefit to the partnership. The soloist is entitled to hear everything that is said, and there is always the risk that the information passed might be of more use to the soloist than to the partnership.
+Comme dans la plupart des jeux de cartes qui autorisent ce type de conversation, elle doit être utilisée avec parcimonie et uniquement lorsqu'elle apporte un bénéfice certain à l'équipe. Le soliste a le droit d'entendre tout ce qui est dit, et il y a toujours le risque que les informations transmises soient plus utiles au soliste qu'à l'équipe.
 
-Giving advice when partner is about to lead:
+Donner des conseils lorsque le partenaire s'apprête à entamer :
 
-| Faglio | Lead the soloist's void. |
-| 'U stissu jocu | Lead the suit of the previous trick. |
-| 'N 'auto jocu / jocu novu | Lead a different suit from the previous trick. |
-| 'U primu jocu | Lead the first suit that was led. |
-| 'U sicunnu jocu | Lead the second suit that was led. |
-| Di unni vuliti vuliti tutti cosi | Lead your highest card from the suit of your choice. |
-| Joca unni hai 'u Re | Lead a suit in which you have the King. |
-| Joca uno nunn'hai 'u Re | Lead a suit in which you don't have the King. |
-| Trunfu | Lead a trump. In response the leader can ask "grossu o picciriddu?": large or small? |
+| Faglio | Entamez l'enseigne où le soliste n'a pas de carte. |
+| 'U stissu jocu | Entamez l'enseigne du pli précédent. |
+| 'N 'auto jocu / jocu novu | Entamez une enseigne différente du pli précédent. |
+| 'U primu jocu | Entamez la première enseigne qui a été entamée. |
+| 'U sicunnu jocu | Entamez la deuxième enseigne qui a été entamée. |
+| Di unni vuliti vuliti tutti cosi | Jouez votre carte la plus haute de l'enseigne de votre choix. |
+| Joca unni hai 'u Re | Entamez une enseigne où vous avez le Roi. |
+| Joca uno nunn'hai 'u Re | Entamez une enseigne où vous n'avez pas le Roi. |
+| Trunfu | Entamez un atout. En réponse, le joueur qui entame peut demander « grossu o picciriddu ? » : grand ou petit ? |
 
-Asking advice when about to lead:
+Demander des conseils au moment d'entamer :
 
-| Pozzu turnari? | Should I lead the suit of the previous trick? |
-| ‘U pozzu fare u me iocu? | Should I lead my suit? [the suit I have been leading] |
-| ‘U vostru primu jocu vi piaci? | Should I lead your suit? [the suit you have been leading] |
-| L’haj’a fari a ‘rèula? | Should I draw trumps? [e.g. to help catch the 1] |
-| 'U primu jocu vi piace? | Should I lead the first suit that was led? |
-| 'U sicunnu jocu vi piace? | Should I lead the second suit that was led? |
+| Pozzu turnari? | Dois-je entamer l'enseigne du pli précédent ? |
+| 'U pozzu fare u me iocu? | Dois-je entamer mon enseigne ? [l'enseigne que j'ai entamée] |
+| 'U vostru primu jocu vi piaci? | Dois-je entamer votre enseigne ? [celle que vous avez entamée] |
+| L'haj'a fari a 'rèula? | Dois-je tirer les atouts ? [pour aider à capturer le 1] |
+| 'U primu jocu vi piace? | Dois-je entamer la première enseigne entamée ? |
+| 'U sicunnu jocu vi piace? | Dois-je entamer la deuxième enseigne entamée ? |
 
-Questions to ask partner during a trick:
+Questions à poser au partenaire pendant un pli :
 
-| Ci putiti? | Can you win this trick? |
-| Ci putiti abbivirari? | Can you put some points into this trick? |
-| Tutti cosi? | Should I play my most valuable card in the suit led? |
-| Lassu ‘a ‘tò? | Shall I leave you to win this trick? |
-| L’haj’ a fare ‘u Re? | Should I win with the King of this suit? |
-| Quantu ti ‘nni mancanu? | How many cards of this suit have you not seen? [played or in your hand] |
+| Ci putiti? | Peux-tu gagner ce pli ? |
+| Ci putiti abbivirari? | Peux-tu mettre des points dans ce pli ? |
+| Tutti cosi? | Dois-je jouer ma carte la plus précieuse de l'enseigne entamée ? |
+| Lassu 'a 'tò? | Dois-je te laisser gagner ce pli ? |
+| L'haj' a fare 'u Re? | Dois-je gagner avec le Roi de cette enseigne ? |
+| Quantu ti 'nni mancanu? | Combien de cartes de cette enseigne n'as-tu pas vues ? [jouées ou dans ta main] |
 
-Giving information during a trick:
+Donner des informations pendant un pli :
 
-| Chistu è ’u Re | “This is a King.” [meaning that the card I am playing is the highest outstanding card of the suit led] |
-| [Hold cards to your chest] | [I have the Queen of the suit led] |
+| Chistu è 'u Re | « C'est un Roi. » [la carte que je joue est la carte la plus élevée encore en jeu de l'enseigne entamée] |
+| [Tenir les cartes contre sa poitrine] | [J'ai la Dame de l'enseigne entamée] |
 
-### Variations
+### Variantes
 
-The exact set of statements and questions with which the partners can communicate varies from place to place. In addition to those listed above, here are some others which may be allowed, according to some descriptions of the game.
+L'ensemble exact des phrases et questions avec lesquelles les partenaires peuvent communiquer varie d'un endroit à l'autre. En plus de celles listées ci-dessus, voici d'autres expressions qui peuvent être autorisées, selon certaines descriptions du jeu.
 
-- '*Jocu novu novu*' is a request to partner to lead the suit of coins (money).
+- « Jocu novu novu » est une demande au partenaire d'entamer l'enseigne de deniers.
 
-- '*Cchi hai docu?*' / '*U’17?*' asks what is partner's highest Aria, or whether partner has the one mentioned.
+- « Cchi hai docu ? » / « U'17 ? » demande le meilleur Arie du partenaire, ou s'il a celui qui est mentionné.
 
-- '*Mi fici ‘u re*' / '*Mi fici a regina*' : I have the King / the Queen of the suit we are discussing / proposing to lead.
+- « Mi fici 'u re » / « Mi fici a regina » : j'ai le Roi / la Dame de l'enseigne dont nous discutons / proposons d'entamer.
 
-- *'Me lo faccio il xx?*': Shall I win this trick with the xx, where 'xx' is a specific Aria (16, 17, 18, etc.)
+- « Me lo faccio il xx ? » : dois-je gagner ce pli avec le xx, où « xx » est un Arie spécifique (16, 17, 18, etc.)
 
-- A player who is about to lead may place a card face down and show it privately to partner, asking whether this card should be led.
+- Un joueur qui s'apprête à entamer peut poser une carte face cachée et la montrer privément à son partenaire, en demandant si cette carte doit être entamée.
 
-Some play that it is the soloist, not the player to the soloist's right, who leads to the first trick.
+Certains jouent que c'est le soliste, et non le joueur à la droite du soliste, qui entame le premier pli.
 
-Michael Dummett's description allows either opponent of the soloist to announce *'rivanto'*, even if the player passed an opportunity to bid a solo after the fourth round of the deal.
+La description de Michael Dummett autorise n'importe quel adversaire du soliste à annoncer « rivanto », même si le joueur a passé l'opportunité d'annoncer un solo après le quatrième tour.
 
-Michael Dummett also reports that in Palagonia, a player is allowed to announce a solo after any round of the deal: if it is announced with fewer than 20 cards all the scores are doubled.
+Michael Dummett rapporte également qu'à Palagonia, un joueur est autorisé à annoncer un solo après n'importe quel tour de distribution : s'il est annoncé avec moins de 20 cartes, tous les scores sont doublés.
 
-## The Four-Player Mineo Game
+## Le jeu à quatre joueurs de Mineo
 
-In the four-player version of the Mineo game, most deals are played two against two in variable partnerships chosen by calling a card. It is also possible for one person to play alone against a team of three opponents. The basics of the game - the card values, the rules of play and the scoring - are the same as with three players
+Dans la version à quatre joueurs du jeu de Mineo, la plupart des donnes se jouent deux contre deux en partnerships variables choisies par l'appel d'une carte. Il est également possible pour une personne de jouer seule contre une équipe de trois adversaires. Les bases du jeu — les valeurs des cartes, les règles de jeu et le comptage — sont les mêmes qu'à trois joueurs.
 
-### The Deal
+### La distribution
 
-The first dealer is chosen by any convenient random method, for example the players each draw a card and the player who received the highest card deals first. After each hand the turn to deal passes to the right. The dealer shuffles and the player to dealer's left cuts the cards. 
+Le premier donneur est choisi par n'importe quelle méthode aléatoire appropriée. Après chaque main, le tour de distribuer passe vers la droite. Le donneur mélange et le joueur à la gauche du donneur coupe les cartes.
 
-The cards are dealt anticlockwise in batches of 5 cards at a time, beginning to dealer's right. After the first round of the deal, the dealer pauses and the players look at their 5 cards and speak in turn, beginning with the player to dealer's right. The options are:
+Les cartes sont distribuées dans le sens antihoraire par groupes de 5, en commençant à la droite du donneur. Après le premier tour, le donneur fait une pause et les joueurs regardent leurs 5 cartes et parlent à tour de rôle, en commençant par le joueur à la droite du donneur. Les options sont :
 
-- **Vado solo** (I play alone). On the basis of the first five cards, the player undertakes to play a solo, playing alone against the other three players. The deal is completed without further announcements.
+- **Vado solo** (je joue seul). Sur la base des cinq premières cartes, le joueur s'engage à jouer un solo, seul contre les trois autres joueurs. La distribution est complétée sans autres annonces.
 
-- **Passo** (pass). The player does not wish to commit to playing alone at this stage, and the deal should continue.
+- **Passo** (passe). Le joueur ne souhaite pas s'engager à jouer seul à ce stade, et la distribution doit continuer.
 
-After this, two more rounds of 5 cards each are dealt and the last three cards are placed face down on the table, forming the *monte*. Each player now has 15 cards and if Solo was not bid after the first round of the deal there is a round of bidding, beginning again with the player to dealer's right, in which the possibilities are:
+Après cela, deux autres tours de 5 cartes chacun sont distribués et les trois dernières cartes sont posées face cachée sur la table, formant le *monte*. Chaque joueur a maintenant 15 cartes et si Solo n'a pas été annoncé après le premier tour, il y a un tour d'enchères, en commençant à nouveau par le joueur à la droite du donneur, avec les possibilités suivantes :
 
-- **Passo** (pass). The player does not want to play, even with the help of a partner.
+- **Passo** (passe). Le joueur ne veut pas jouer, même avec l'aide d'un partenaire.
 
-- **Chiamo** (I call). The player wishes to play with the help of a partner, and names the highest trump that they do not hold: they must call the 20 if they do not have it: if they have the 20 they must call the 19 if they do not have it; holding 20-19 but not the 18 they call the 18, and so on.
+- **Chiamo** (j'appelle). Le joueur souhaite jouer avec l'aide d'un partenaire et nomme l'atout le plus élevé qu'il ne détient pas : il doit appeler le 20 s'il ne l'a pas ; s'il a le 20, il doit appeler le 19 s'il ne l'a pas ; s'il a le 20-19 mais pas le 18, il appelle le 18, et ainsi de suite.
 
-- **Vado solo** (I play alone). The player undertakes to play alone against the other three players.
+- **Vado solo** (je joue seul). Le joueur s'engage à jouer seul contre les trois autres joueurs.
 
-Each player has just one chance to speak. If a player calls a trump, subsequent players must either pass or say 'vado solo', which supersedes the call. If a player says 'vado solo' that ends the bidding. If all four players pass, the cards are thrown in and the next player deals.
+Chaque joueur n'a qu'une seule chance de parler. Si un joueur appelle un atout, les joueurs suivants doivent soit passer soit dire « vado solo », ce qui supplante l'appel. Si un joueur dit « vado solo », cela met fin aux enchères. Si les quatre joueurs passent, les cartes sont jetées et le joueur suivant distribue.
 
-### Calling and Exchanging the Monte
+### Appel et échange du monte
 
-If the final bid was a call (chiamo), the holder of the called trump becomes the bidder's partner, but is not allowed to reveal their identity until the called trump appears in the course of play. The *monte* is then turned up for all to see. If the called trump is in the *monte*, the caller has no partner and has to play alone against the other three players. 
+Si l'enchère finale est un appel (*chiamo*), le détenteur de l'atout appelé devient le partenaire de l'enchérisseur, mais n'est pas autorisé à révéler son identité tant que l'atout appelé n'est pas apparu au cours du jeu. Le *monte* est alors retourné pour que tous le voient. Si l'atout appelé est dans le *monte*, l'appelant n'a pas de partenaire et doit jouer seul contre les trois autres joueurs.
 
-In a solo there is of course no calling. The *monte* is exposed and picked up by the soloist.
+En cas de solo, il n'y a bien sûr pas d'appel. Le *monte* est exposé et ramassé par le soliste.
 
-The player who picked up the *monte* must then discard three cards face down under the same restrictions as in the three-player game. Counting trumps, Kings and the Fool can never be discarded. Low value trumps can only be discarded if there is no alternative. 
+Le joueur qui a ramassé le *monte* doit ensuite écarter trois cartes face cachée sous les mêmes restrictions qu'au jeu à trois. Les atouts comptant, les Rois et le Fou ne peuvent jamais être écartés. Les atouts de faible valeur ne peuvent être écartés que s'il n'y a pas d'alternative.
 
-### The Play
+### Le jeu
 
-After discarding the bidder says '*fatto è*' (it's done) when ready for the play to begin. As in the 3-player game, before the first lead there are two types of announcement that can be made. The bidder can announce **Scommessa**, committing the bidder's team to bring home the 20, 1 and Fool in their tricks. An opponent of the bidder who did not have an opportunity to call can announce **Rivanto** to double the payment for the last trick. Note that in a 'chiamo', the bidder's partner, the holder of the called card, is not permitted to make any announcement. For example if the caller calls the 18 and the holder of the 18 has the 1 and the Fool, the called player knows that the bidder holds the 20 and 19, but is not permitted to announce 'Scommessa' even though it is certain that all three cards can be brought home by the caller's team.
+Après l'écart, l'enchérisseur dit « *fatto è* » (c'est fait) lorsqu'il est prêt. Comme au jeu à 3 joueurs, avant la première entame, deux types d'annonces peuvent être faites. L'enchérisseur peut annoncer **Scommessa**, engageant l'équipe de l'enchérisseur à ramener le 20, le 1 et le Fou dans ses plis. Un adversaire de l'enchérisseur qui n'a pas eu l'opportunité d'appeler peut annoncer **Rivanto** pour doubler le paiement du dernier pli. Notez que dans un *chiamo*, le partenaire de l'enchérisseur, détenteur de la carte appelée, n'est pas autorisé à faire la moindre annonce. Par exemple, si l'appelant appelle le 18 et que le détenteur du 18 a le 1 et le Fou, le joueur appelé sait que l'enchérisseur détient le 20 et le 19, mais n'est pas autorisé à annoncer « Scommessa » bien qu'il soit certain que les trois cartes peuvent être ramenées par l'équipe.
 
-The player to the bidder's right leads to the first trick, so the bidder plays last to this trick. The rules of play are the same as in the three-player game. Any card except the Fool may be led to a trick. The other players must follow suit if able to, and if unable to follow suit must play a trump if they have one, and there is no obligation to overtake cards played by the previous players.
+Le joueur à la droite de l'enchérisseur entame le premier pli, de sorte que l'enchérisseur joue en dernier. Les règles de jeu sont les mêmes qu'au jeu à trois. N'importe quelle carte sauf le Fou peut être entamée. Les autres joueurs doivent suivre l'enseigne s'ils le peuvent, et s'ils ne peuvent pas suivre, doivent jouer un atout s'ils en ont un. Il n'y a aucune obligation de surmonter les cartes jouées précédemment.
 
-Each trick is won by the highest trump in it, or if it contains no trumps, by the highest card of the suit that was led. The winner of each trick adds the cards to their face down trick pile and leads to the next one. Each player must of course keep their tricks separately at least until the partnerships are revealed. Counting trumps captured from a player who is or may be an opponent are kept face up as a reminder for the scoring.
+Chaque pli est remporté par le plus haut atout qu'il contient, ou s'il n'y a pas d'atout, par la carte la plus haute de l'enseigne entamée. Le gagnant de chaque pli ajoute les cartes à son tas face cachée et entame le suivant. Chaque joueur doit bien sûr garder ses plis séparément au moins jusqu'à ce que les partnerships soient révélées. Les atouts comptant capturés d'un joueur qui est ou peut être un adversaire sont conservés face visible comme rappel pour le comptage.
 
-The Fool may be played to any trick as an alternative to following suit or trumping. The holder does not add the Fool to the trick but simply shows it and places it face down in their own trick pile. The trick therefore consists of only three cards, taken by the winner as usual. If the team of the player of the Fool has not yet taken any tricks, the Fool is stored face up until they have done so. If they never take a trick the Fool is surrendered to the other team.
+Le Fou peut être joué à n'importe quel pli au lieu de suivre l'enseigne ou de couper. Le détenteur ne l'ajoute pas au pli mais le montre et le pose face cachée dans son propre tas de plis. Le pli ne comprend donc que trois cartes, prises par le gagnant comme d'habitude. Si l'équipe du joueur du Fou n'a pas encore remporté de pli, le Fou est conservé face visible jusqu'à ce qu'elle le fasse. Si elle ne remporte jamais de pli, le Fou est cédé à l'autre équipe.
 
-The Fool cannot be led, except to the last trick, when it is the player's only card. If it is led to the last trick, the card played by the second player determines the suit to be followed by the remaining players. 
+Le Fou ne peut pas être entamé, sauf au dernier pli, lorsqu'il est la seule carte du joueur. S'il est entamé au dernier pli, la carte jouée par le deuxième joueur détermine l'enseigne à suivre pour les joueurs restants.
 
-In principle, conversation between partners is allowed as in the three-player game, but in practice there is little or no conversation. It would not in any case be useful until the partnerships are revealed, which is sometimes quite late in the play.
+En principe, la conversation entre partenaires est autorisée comme au jeu à trois, mais en pratique il y a peu ou pas de conversation. Elle ne serait de toute façon pas utile avant que les partnerships soient révélées, ce qui arrive parfois assez tard dans le jeu.
 
-### Scoring
+### Comptage des points
 
-After the play each team combines its tricks and counts its card points. The players then settle up in *jochi*. When there are partners, a payment of one *jocu* means that each member of the winning side gains one *jocu* and each member of the losing side loses one. If the bidder is alone, a payment of one jocu results in the bidder winning or losing three *jochi* while the members of the other team lose or win one *jocu* each.
+Après le jeu, chaque équipe combine ses plis et compte ses points de carte. Les joueurs règlent ensuite leurs comptes en *jochi*. Quand il y a des partenaires, un paiement d'un *jocu* signifie que chaque membre du côté gagnant gagne un *jocu* et chaque membre du côté perdant en perd un. Si l'enchérisseur est seul, un paiement d'un *jocu* fait gagner ou perdre trois *jochi* à l'enchérisseur, tandis que les membres de l'autre équipe perdent ou gagnent un *jocu* chacun.
 
-The scores are the same as in the three-player game:
+Les scores sont les mêmes qu'au jeu à trois :
 
-- **Rimatura** (one *jocu* for the side with 55 or more cards points) and **Vanto** (one *jocu* for the side that wins the last trick) are always scored.
+- **Rimatura** (un *jocu* pour le côté avec 55 points ou plus) et **Vanto** (un *jocu* pour le côté qui remporte le dernier pli) sont toujours comptés.
 
-- **Four Kings** (one *jocu*), **Four Arie** (one *jocu* for the 16-17-18-19) and **Five Arie** (two *jochi* for the 16-17-18-19-20) are scored if a team has the relevant set of cards in its tricks.
+- **Quatre Rois** (un *jocu*), **Quatre Arie** (un *jocu* pour le 16-17-18-19) et **Cinq Arie** (deux *jochi* pour le 16-17-18-19-20) sont comptés si une équipe a l'ensemble de cartes correspondant dans ses plis.
 
-- **Pigliate** (capturing the 1, 16, 17, 18 or 19 from an opponent) score one *jocu* each, but of course there is no score for capturing a trump from a player who turns out to be your partner.
+- **Pigliate** (capture du 1, 16, 17, 18 ou 19 d'un adversaire) comptent un *jocu* chacun, mais bien sûr il n'y a pas de score pour capturer un atout d'un joueur qui s'avère être votre partenaire.
 
-- **Scommessa** (if announced): one *jocu* is won by the bidder's team for having the 20, 1 and Fool in their tricks or lost if they do not have all three of these cards
+- **Scommessa** (si annoncé) : un *jocu* est gagné par l'équipe de l'enchérisseur pour avoir le 20, le 1 et le Fou dans ses plis, ou perdu s'ils n'ont pas les trois.
 
-- **Rivanto** (if announced), two *jochi* instead of one for winning the last trick.
+- **Rivanto** (si annoncé) : deux *jochi* au lieu d'un pour remporter le dernier pli.
 
-The payments are added and the losing team pays the net result to the winning team. If a player bid solo on the basis of the first 5 cards dealt, all payments are doubled.
+Les paiements sont additionnés et l'équipe perdante paie le résultat net à l'équipe gagnante. Si un joueur a fait une enchère de solo sur la base des 5 premières cartes distribuées, tous les paiements sont doublés.
 
-### Variations
+### Variantes
 
-The four-player game is sometimes played with a forced call (*chiamante forzato*). In this variant, if all four players pass, the player who holds the 20 (giove) is forced to call, but has the advantage of first showing and taking the *monte* and discarding and then calling the highest missing trump. The risk of playing alone is thus avoided. This version may be favoured by players who dislike the possibility of having to redeal the cards, but others consider it unfair to force a player with the poor hand including the 20 to play in this case.
+Le jeu à quatre joueurs est parfois joué avec un appel forcé (*chiamante forzato*). Dans cette variante, si les quatre joueurs passent, le joueur qui détient le 20 (*giove*) est forcé d'appeler, mais a l'avantage de montrer et de prendre le *monte* en premier, d'écarter, puis d'appeler l'atout manquant le plus élevé. Le risque de jouer seul est ainsi évité. Cette version peut être privilégiée par des joueurs qui n'aiment pas la possibilité de devoir redistribuer les cartes, mais d'autres la jugent injuste envers un joueur avec une faible main incluant le 20.
 
-Michael Dummett, in his description, allows a player who bids 'chiamo' to call any trump from 20 down to 16. It does not have to be highest trump that the bidder does not hold, and it may be a trump that it is in the bidder's own hand, in which case they will play a 'secret solo' in which the other players will not at first realise that the bidder has no partner.
+Michael Dummett, dans sa description, autorise un joueur qui enchérit « chiamo » à appeler n'importe quel atout du 20 au 16. Il n'est pas nécessaire que ce soit l'atout le plus élevé que l'enchérisseur ne détient pas, et cela peut être un atout qui se trouve dans la main de l'enchérisseur, auquel cas il joue un « solo secret » dont les autres joueurs ne réaliseront pas d'abord qu'il n'a pas de partenaire.
 
-In addition, the variations mentioned for the three-player game may apply with four players as well. 
+En outre, les variantes mentionnées pour le jeu à trois peuvent s'appliquer également à quatre joueurs.
 
-## Other Versions of Sicilian Tarocchi
+## Autres versions du Tarocchi sicilien
 
 ### Tortorici
 
-At Tortorici in the province of Messina there is a three-player game and a less popular four-player version. Both games are played with 63 cards, but nowadays the Ace of coins is used as the lowest card of the money suit and the Four is set aside. As usual, the deal bidding and play are anticlockwise.
+À Tortorici, dans la province de Messine, il existe un jeu à trois joueurs et une version à quatre joueurs moins populaire. Les deux jeux se jouent avec 63 cartes, mais de nos jours l'As de deniers est utilisé comme la carte la plus basse de l'enseigne de deniers et le 4 est mis de côté. Comme d'habitude, la distribution, les enchères et le jeu se font dans le sens antihoraire.
 
-In the **three-player game**, known as Vanto, 20 cards are dealt to each player in batches of 5, leaving a three-card *monte* which is placed face down on the table. There are two possible contracts, *chiamo* and *solo*. After the deal, the player to dealer's right speaks first and nearly always says *'chiamo'*. Theoretically the first player could pass but there is no advantage in doing so. The first player is allowed to open the bidding with *'solo'* instead of *'chiamo'* but this would only be profitable with a very strong hand. The bidding continues clockwise. After a bid of *'chiamo'*, subsequent players can pass by saying *'bene'* or overcall by bidding *'solo'*, and in this case the *'chiamo'* bidder responds with either with *'bene'* to allow the other player's *solo* to go ahead or with *'solo io'* to claim the right to play their own *solo*.
+Dans le **jeu à trois joueurs**, connu sous le nom de Vanto, 20 cartes sont distribuées à chaque joueur par groupes de 5, laissant un *monte* de trois cartes posé face cachée sur la table. Il y a deux contrats possibles, *chiamo* et *solo*. Après la distribution, le joueur à la droite du donneur parle en premier et dit presque toujours « chiamo ». Théoriquement, le premier joueur pourrait passer mais il n'y a aucun avantage à le faire. Le premier joueur est autorisé à ouvrir les enchères avec « solo » au lieu de « chiamo », mais cela ne serait profitable qu'avec une très forte main. Les enchères continuent dans le sens horaire. Après une enchère de « chiamo », les joueurs suivants peuvent passer en disant « bene » ou sur enchérir avec « solo », et dans ce cas l'enchérisseur « chiamo » répond soit par « bene » pour autoriser le solo de l'autre joueur, soit par « solo io » pour revendiquer le droit de jouer son propre solo.
 
-The final bidder takes the *monte* without showing it to the other players and discards three cards under the same restrictions as in Mineo. The rules for playing the cards are the same is in Mineo.
+Le dernier enchérisseur prend le *monte* sans le montrer aux autres joueurs et écarte trois cartes sous les mêmes restrictions qu'à Mineo. Les règles de jeu des cartes sont les mêmes qu'à Mineo.
 
-If the bid was **chiamo**, the player to the bidder's right leads to the first trick and everyone plays for themselves. After the play, each player counts their card points. The bidder scores the difference, positive or negative from 37 and the other two players score the difference of their points from 36, so the scores of the three players add up to zero.
+Si l'enchère est **chiamo**, le joueur à la droite de l'enchérisseur entame le premier pli et chacun joue pour soi. Après le jeu, chaque joueur compte ses points de carte. L'enchérisseur marque la différence, positive ou négative, par rapport à 37 et les deux autres joueurs marquent la différence de leurs points par rapport à 36, de sorte que les scores des trois joueurs s'additionnent à zéro.
 
-If the bid was **solo**, the bidder leads to the first trick and the other two players are partners. The bidder scores twice the difference between card points taken and 55 while the other players each score the difference between the card points in their combined tricks and 54, so again the scores of the three players add up to zero.
+Si l'enchère est **solo**, l'enchérisseur entame le premier pli et les deux autres joueurs sont partenaires. L'enchérisseur marque le double de la différence entre les points de carte remportés et 55, tandis que les autres joueurs marquent chacun la différence entre les points de carte de leurs plis combinés et 54, de sorte que les scores des trois joueurs s'additionnent à zéro.
 
-The **four-player game** at Tortorici is played with fixed partnerships, partners facing each other across the table. The dealer deals 15 cards to each player in three rounds of 5. In each of the first two rounds of the deal the dealer may choose to expose one of the cards dealt to each player. After each of the first two rounds of the deal, the player to dealer's right may choose to give information about important cards held. If this right is exercised the dealer's partner may also give information to the dealer. When giving information, a player is not allowed to announce possession of more than two Kings, even when holding three or four. If the player to dealer's right gives information, the player to dealer's left responds with either *'mischio'* (shuffle) to suggest throwing in the hand or *'tengo'* to insist on continuing with the deal. If the response is *'mischio'* the dealer chooses whether to throw in the cards or continue the deal.
+Le **jeu à quatre joueurs** à Tortorici se joue avec des partnerships fixes, les partenaires se faisant face de part et d'autre de la table. Le donneur distribue 15 cartes à chaque joueur en trois tours de 5. À chacun des deux premiers tours de distribution, le donneur peut choisir d'exposer une des cartes distribuées à chaque joueur. Après chacun des deux premiers tours, le joueur à la droite du donneur peut choisir de donner des informations sur les cartes importantes détenues. Si ce droit est exercé, le partenaire du donneur peut également donner des informations au donneur. Lors de la transmission d'informations, un joueur n'est pas autorisé à annoncer la possession de plus de deux Rois, même s'il en détient trois ou quatre. Si le joueur à la droite du donneur donne des informations, le joueur à la gauche du donneur répond soit par « mischio » (mélange) pour suggérer de jeter la main, soit par « tengo » pour exiger de continuer la distribution. Si la réponse est « mischio », le donneur choisit de jeter les cartes ou de continuer la distribution.
 
-At the end of the deal, the dealer takes the *monte* without showing it to the other players, and discards three cards under the usual restrictions. The player to dealer's right leads to the first trick, and the usual rules of play apply. When all the cards have been played the dealer's team scores the difference, positive or negative, of their card point total from 55 and their opponents score their difference from 54.
+À la fin de la distribution, le donneur prend le *monte* sans le montrer aux autres joueurs et écarte trois cartes sous les restrictions habituelles. Le joueur à la droite du donneur entame le premier pli et les règles habituelles de jeu s'appliquent. Quand toutes les cartes ont été jouées, l'équipe du donneur marque la différence, positive ou négative, entre son total de points de carte et 55, et ses adversaires marquent leur différence par rapport à 54.
 
-Michael Dummett managed to obtain from the late Avvocato Gaetano Franchina some details of an** earlier form of three-player Vanto**, which was played in Tortorici until around 1930. This has common features with the modern three-player games in both Tortorici and Mineo and is perhaps an ancestor of both. It was played with 63 cards using the Four as the lowest card of the money suit rather than the Ace.
+Michael Dummett a réussi à obtenir de feu l'Avvocato Gaetano Franchina quelques détails d'une **forme antérieure du Vanto à trois joueurs**, qui était jouée à Tortorici jusqu'environ 1930. Elle présente des caractéristiques communes avec les jeux modernes à trois joueurs de Tortorici et de Mineo et est peut-être l'ancêtre des deux. Elle se jouait avec 63 cartes, le 4 étant la carte la plus basse de l'enseigne de deniers plutôt que l'As.
 
-- The possible bids were *'solo'* and *'chiamo'* with the same meanings as in the modern Tortorici game, but *solo* could only be bid with 5, 10 or 15 cards. Otherwise with 20 cards the player to dealer's right would bid *'chiamo'*. In either case the bidder took the *monte*, discarded and led to the first trick. For a *solo da quindici* (bid with 15 cards) each opponent paid to the soloist the number of card points the soloist took above 55, or received the deficit if the soloist took less than 55 points. For a *solo da dieci* (with 10 cards) these payments were doubled and for a *solo da cinque* (5 cards) they were tripled.
+- Les enchères possibles étaient « solo » et « chiamo » avec les mêmes significations que dans le jeu moderne de Tortorici, mais « solo » ne pouvait être enchéri qu'avec 5, 10 ou 15 cartes. Sinon, avec 20 cartes, le joueur à la droite du donneur enchérissait « chiamo ». Dans les deux cas, l'enchérisseur prenait le *monte*, écartait et entamait le premier pli. Pour un *solo da quindici* (enchère avec 15 cartes), chaque adversaire payait au soliste le nombre de points de carte au-dessus de 55, ou recevait le déficit si le soliste en avait pris moins de 55. Pour un *solo da dieci* (avec 10 cartes), ces paiements étaient doublés, et pour un *solo da cinque* (5 cartes), ils étaient triplés.
 
-- A player who had bid *'solo'* could announce *'scommessa'* in the same or a later round of the deal, but not with more than 15 cards. As in Mineo this was an undertaking to take the three *decine* (10-point cards) - the 20, 1 and Fool - in tricks. *Scommessa* announced with 15 cards was worth 5 points to or from each opponent, *scommessa* announced with 10 cards was worth 10 and *scommessa* announced with 5 cards was worth 15.
+- Un joueur qui avait enchéri « solo » pouvait annoncer « scommessa » dans le même tour ou un tour ultérieur de distribution, mais pas avec plus de 15 cartes. Comme à Mineo, c'était un engagement de prendre les trois *decine* (cartes de 10 points) — le 20, le 1 et le Fou — en plis. La *scommessa* annoncée avec 15 cartes valait 5 points pour ou de chaque adversaire, la *scommessa* annoncée avec 10 cartes valait 10 et la *scommessa* annoncée avec 5 cartes valait 15.
 
-- There was a pool to which everyone contributed 10 points at the start of the game and whenever it was empty. A player who had bid *'solo'* could announce *'vanto'* before the first lead, undertaking to win the last trick, and winning the pool if successful or doubling it if not.
+- Il existait un pot auquel chacun contribuait 10 points au début du jeu et chaque fois qu'il était vide. Un joueur qui avait enchéri « solo » pouvait annoncer « vanto » avant la première entame, s'engageant à remporter le dernier pli, et gagnait le pot en cas de succès ou le doublait en cas d'échec.
 
-- If a *cinquina* (a 5-point card - i.e. a King or the 16, 17, 18 or 19) was captured from an opponent there was a payment of 5 points, between the soloist and each opponent in a *solo*, but only between the player of the captured card and the one who took it in a *chiamo*.
+- Si une *cinquina* (une carte de 5 points — c'est-à-dire un Roi ou le 16, 17, 18 ou 19) était capturée d'un adversaire, il y avait un paiement de 5 points, entre le soliste et chaque adversaire dans un *solo*, mais seulement entre le joueur de la carte capturée et celui qui l'a prise dans un *chiamo*.
 
-- There was a payment of 10 points for a player or team who had all four Kings or all four of the arie 16-19 in their tricks.
+- Il y avait un paiement de 10 points pour un joueur ou une équipe qui avait les quatre Rois ou les quatre arie 16-19 dans ses plis.
 
-- A speciality of this game was that a player holding the sequence 13-14-15 of trumps, known as *ternone*, in their hand could declare it when playing the first of these cards for a payment of 5 game points from each other player (even from partner if playing against a *solo*).
+- Une particularité de ce jeu était qu'un joueur détenant la séquence 13-14-15 d'atouts, appelée *ternone*, dans sa main pouvait la déclarer en jouant la première de ces cartes, pour un paiement de 5 points de jeu de chaque autre joueur (même du partenaire si on joue contre un *solo*).
 
 ### Barcellona di Pozzo
 
-Tarocchi is said to have been introduced to Barcellona in the province of Messina in the early 20th century by players from Palermo, where Tarocchi is no longer played. There are versions for three and four players.
+On dit que le Tarocchi a été introduit à Barcellona, dans la province de Messine, au début du XXe siècle par des joueurs de Palerme, où le Tarocchi n'est plus joué. Il existe des versions à trois et quatre joueurs.
 
-The **three-player game** is played with as 63-card pack, using the Ace as the lowest card of money/coins and setting aside the Four. 20 cards are dealt to each player in batches of 5, leaving a *monte* of three cards face down on the table. The player to dealer's right may bid solo or pass. If this player passes the player to dealer's left has the same options. If either of these players bids solo the bidding is over: the soloist takes the *monte*, showing it to their opponents, adds it to their hand, and discards three cards under the usual restrictions. If the first two players pass, the dealer may also pass, in which case the cards are thrown in and the next player deals. Alternatively the dealer may pick up the *monte*, showing it to the opponents, and having discarded, either play a solo or declare that each player will play for themselves.
+Le **jeu à trois joueurs** se joue avec un jeu de 63 cartes, l'As étant la carte la plus basse des deniers et le 4 étant mis de côté. 20 cartes sont distribuées à chaque joueur par groupes de 5, laissant un *monte* de trois cartes face cachée sur la table. Le joueur à la droite du donneur peut enchérir solo ou passer. Si ce joueur passe, le joueur à la gauche du donneur a les mêmes options. Si l'un de ces joueurs enchérit solo, les enchères sont terminées : le soliste prend le *monte*, le montre à ses adversaires, l'ajoute à sa main et écarte trois cartes sous les restrictions habituelles. Si les deux premiers joueurs passent, le donneur peut aussi passer, auquel cas les cartes sont jetées et le joueur suivant distribue. Alternativement, le donneur peut ramasser le *monte*, le montrer aux adversaires, et après avoir écarté, soit jouer un solo, soit déclarer que chacun jouera pour soi.
 
-The player to the right of the bidder leads to the first trick and the rules of play are as usual. In a solo, an opponent of the soloist who holds the *giove* (20) together with the 19 or 18 may declare this when leading to a trick by saying "*Batto*". Holding the 20 but neither the 19 nor the 18 the player may instead declare "*Ho il 20*" when leading. A player who does not have the 20 may indicate this by saying *"Non batto"* when leading.
+Le joueur à la droite de l'enchérisseur entame le premier pli et les règles de jeu sont habituelles. En solo, un adversaire du soliste qui détient le *giove* (20) avec le 19 ou le 18 peut le déclarer en entamant un pli en disant « *Batto* ». S'il détient le 20 mais ni le 19 ni le 18, le joueur peut plutôt déclarer « *Ho il 20* » en entamant. Un joueur qui n'a pas le 20 peut l'indiquer en disant « *Non batto* » en entamant.
 
-In a solo the bidder's target is 55 card points. For taking more than 55 the soloist is paid 4 times the difference (twice the difference from each opponent). With less than 55 points the soloist pays twice the difference to each opponent. With exactly 55 these is no payment. When playing for themselves the dealer has a target of 37 card points and the other two players 36 each. Players with more card points than the target receive the difference and those with less pay the difference.
+En solo, la cible de l'enchérisseur est de 55 points de carte. Pour plus de 55 points, le soliste est payé 4 fois la différence (deux fois la différence par chaque adversaire). Avec moins de 55 points, le soliste paie deux fois la différence à chaque adversaire. Avec exactement 55, il n'y a pas de paiement. Lorsque chacun joue pour soi, le donneur a une cible de 37 points de carte et les deux autres joueurs 36 chacun. Les joueurs qui ont plus de points de carte que la cible reçoivent la différence et ceux qui en ont moins paient la différence.
 
-There are several variants: some do not allow the dealer to play a solo, some halve the payment for a solo, some allow additional announcements of top trumps, some do not require the bidder to show the *monte*, and some play that the bidder leads to the first trick.
+Il existe plusieurs variantes : certaines n'autorisent pas le donneur à jouer un solo, certaines divisent par deux le paiement d'un solo, certaines autorisent des annonces supplémentaires d'atouts élevés, certaines n'exigent pas que l'enchérisseur montre le *monte*, et certaines jouent que l'enchérisseur entame le premier pli.
 
-The **four-player game** at Barcellona uses all 64 cards of the pack as currently sold, so the money/coins suit has 12 cards. All the cards are dealt out in packets of four so that each player has 16 cards and there is no *monte*. There is no bidding, and the player to dealer's right leads to the first trick. The game may be played with fixed partners, partners facing each other, in which case the winning side receives the difference in card points between the two teams, or with everyone playing for themselves, in which case each player pays or receives according to the difference of their card points from 27.
+Le **jeu à quatre joueurs** à Barcellona utilise les 64 cartes du jeu tel que vendu actuellement, de sorte que l'enseigne de deniers a 12 cartes. Toutes les cartes sont distribuées en paquets de quatre, de sorte que chaque joueur a 16 cartes et il n'y a pas de *monte*. Il n'y a pas d'enchères et le joueur à la droite du donneur entame le premier pli. Le jeu peut se jouer avec des partenaires fixes, les partenaires se faisant face, auquel cas le côté gagnant reçoit la différence de points de carte entre les deux équipes, ou avec chacun jouant pour soi, auquel cas chaque joueur paie ou reçoit selon la différence de ses points de carte par rapport à 27.
 
 ### Calatafimi
 
-Michael Dummett learned these variants from the members of the *Circolo 15 maggio* in Calatafimi in the province of Trapani in the early 1970's. Not having access to traditional Sicilian tarocchi cards at the time, they adapted the 78-card Piedmontese pack by throwing out the lowest cards of the suits. The trumps in Piedmontese packs are numbered from 1 to 21, so the players used the 21 as the *giove* and the 2 as the *picciotti*, each worth 10 points. The trump labelled 20 was the second highest, known as the *palla*, and the 1 was the lowest trump, known as the *miseria*. The printed titles and designs of the trump cards were ignored. The lowest court card of each suit in the Piedmontese pack is a Jack (*fante*) which of course took the place of the Sicilian Maid (*donna*). It is straightforward to play the same game with standard Sicilian Tarocchi cards if available.
+Michael Dummett a appris ces variantes des membres du *Circolo 15 maggio* à Calatafimi, dans la province de Trapani, au début des années 1970. N'ayant pas accès à des cartes de tarot sicilien traditionnelles à l'époque, ils ont adapté le jeu de 78 cartes piémontais en éliminant les cartes les plus basses des enseignes. Les atouts dans les jeux piémontais sont numérotés de 1 à 21, de sorte que les joueurs utilisaient le 21 comme *giove* et le 2 comme *picciotti*, chacun valant 10 points. L'atout étiqueté 20 était le deuxième plus élevé, appelé *palla*, et le 1 était l'atout le plus bas, appelé *miseria*. Les titres imprimés et les dessins des cartes d'atout étaient ignorés. La carte de cour la plus basse de chaque enseigne dans le jeu piémontais est un Valet (*fante*) qui prenait naturellement la place du Valet sicilien (*donna*). Il est simple de jouer le même jeu avec des cartes de Tarocchi sicilien standard si on en dispose.
 
-The preferred form of the game is for **four players**. Having looked at the bottom card of the pack, the dealer deals 10 cards to each player in packets of 5. In no particular order, any player who has poor cards may offer any number of points (typically less than 10) to abandon the deal. A player who wants to abandon the deal for no payment says *'mescolate'* (shuffle). A player who is willing to accept a payment to abandon the deal may say *'prendo'* to take all the payments offered or '*prendo x*' if willing to accept a smaller amount *x*, leaving the remainder to a player who has not yet spoken. At any stage, any player may say *'tengo'*, rejecting all offers and insisting that the deal should continue. If any player says *tengo* the deal is completed by giving a third batch of 5 cards to each player and placing the last three cards as a *monte* face down on the table.
+La forme préférée du jeu est à **quatre joueurs**. Après avoir regardé la carte du bas du jeu, le donneur distribue 10 cartes à chaque joueur en paquets de 5. Dans n'importe quel ordre, tout joueur qui a de mauvaises cartes peut offrir n'importe quel nombre de points (généralement moins de 10) pour abandonner la donne. Un joueur qui veut abandonner sans paiement dit « mescolate » (mélange). Un joueur qui est prêt à accepter un paiement pour abandonner peut dire « prendo » pour prendre tous les paiements offerts ou « prendo x » s'il est prêt à accepter un montant plus petit *x*, laissant le reste à un joueur qui n'a pas encore parlé. À tout moment, n'importe quel joueur peut dire « tengo », rejetant toutes les offres et exigeant que la distribution continue. Si un joueur dit « tengo », la distribution est complétée en donnant un troisième groupe de 5 cartes à chaque joueur et en posant les trois dernières cartes comme *monte* face cachée sur la table.
 
-There are two phases of bidding. In the first phase the dealer asks each player in turn, beginning to dealer's right, whether they wish to play *solo*, i.e. to play alone against the other three players in partnership. If anyone does, that ends the bidding. The soloist picks up the *monte* which must be shown to the other players unless the dealer is the soloist, and discards three cards. 
+Il y a deux phases d'enchères. Dans la première phase, le donneur demande à chaque joueur à tour de rôle, en commençant par la droite du donneur, s'il souhaite jouer *solo*, c'est-à-dire jouer seul contre les trois autres joueurs en partnership. Si quelqu'un le fait, cela met fin aux enchères. Le soliste ramasse le *monte*, qui doit être montré aux autres joueurs sauf si le donneur est le soliste, et écarte trois cartes.
 
-If no one wants to play *solo*, the dealer picks up the monte without showing it and discards three cards. There is then another round of bidding, again beginning to dealer's right, in which players may bid either '20' or 'zero'. In order to bid 20 a player must hold 5-point and 10-point cards with a total value of at least 20. If all four players bid 'zero' the cards are thrown in and the next player deals. If a player bids 20, then the other players, beginning to this players right may bid 15 if they have exactly 15 points worth of 10-point and 5-point cards and must bid zero otherwise. As soon as a player bids 15 the bidding ends and the 20 and 15 players are partners against the other two. Note that in this second phase of bidding no player is compelled to bid 20 or 15 if they meet the criteria - it is always legal to bid zero.
+Si personne ne veut jouer *solo*, le donneur ramasse le *monte* sans le montrer et écarte trois cartes. Il y a alors un autre tour d'enchères, en commençant à nouveau par la droite du donneur, dans lequel les joueurs peuvent enchérir « 20 » ou « zéro ». Pour enchérir 20, un joueur doit détenir des cartes à 5 points et 10 points d'une valeur totale d'au moins 20. Si les quatre joueurs enchérissent « zéro », les cartes sont jetées et le joueur suivant distribue. Si un joueur enchérit 20, les autres joueurs, en commençant par la droite de ce joueur, peuvent enchérir 15 s'ils ont exactement 15 points de cartes à 10 et 5 points, et doivent enchérir zéro sinon. Dès qu'un joueur enchérit 15, les enchères s'arrêtent et les joueurs à 20 et 15 sont partenaires contre les deux autres. Notez que dans cette seconde phase d'enchères, aucun joueur n'est tenu d'enchérir 20 ou 15 s'il remplit les critères — il est toujours légal d'enchérir zéro.
 
-If after a bid of 20 the other three players all bid zero the 20 player chooses a partner by calling a King that the 20 player does not hold (or a Queen if holding all four Kings). The suit of the King to be called is governed by the following constraints:
+Si après une enchère de 20 les trois autres joueurs enchérissent tous zéro, le joueur à 20 choisit un partenaire en appelant un Roi qu'il ne détient pas (ou une Dame s'il détient les quatre Rois). L'enseigne du Roi à appeler est régie par les contraintes suivantes :
 
-- the shortest suit with at least one card
+- l'enseigne la plus courte avec au moins une carte
 
-- between equally short suits, the suit with the highest court card, if equal then the highest accompanying court cards (e.g. Queen and Horse in preference to Queen and Maid/Jack
+- entre les enseignes de même longueur, l'enseigne avec la carte de cour la plus élevée, à égalité la carte de cour d'accompagnement la plus élevée (par exemple Dame et Cavalier de préférence à Dame et Valet)
 
-- between equally short suits with equal court cards, the suit of coins is preferred
+- entre les enseignes de même longueur avec des cartes de cour égales, l'enseigne de deniers est préférée
 
-- if all non-void suits contain the King, call a void suit, preferably coins if there is a choice of these
+- si toutes les enseignes non vides contiennent le Roi, appeler une enseigne vide, de préférence deniers s'il y a le choix
 
-- holding four Kings, the Queen of the shortest suit containing at least two cards without the Queen
+- avec quatre Rois, la Dame de l'enseigne la plus courte contenant au moins deux cartes sans la Dame
 
-- and so on using similar principles, for example a suit of King-Maid/Jack-6 is preferred to King-9-8 because of the Maid/Jack.
+- et ainsi de suite selon des principes similaires, par exemple une enseigne de Roi-Valet-6 est préférée à Roi-9-8 en raison du Valet.
 
-The player to the soloist's right or the 20-player's right leads to the first trick. If a King (or Queen) was called, the holder must not say anything to reveal their identity, but when they first obtain the lead they must lead the called suit, though not necessarily the called card. Any player leading to a trick who holds the *giove* or *palla* is allowed to declare it. Alternatively a player leading to a trick can say *'batto'* to indicate that they hold one of the top two trumps, or if those have both been played, that they hold the highest trump that has not yet been played.
+Le joueur à la droite du soliste ou à la droite du joueur à 20 entame le premier pli. Si un Roi (ou une Dame) a été appelé, le détenteur ne doit rien dire pour révéler son identité, mais lorsqu'il obtient l'entame pour la première fois, il doit entamer l'enseigne appelée, pas nécessairement la carte appelée. Tout joueur qui entame et détient le *giove* ou la *palla* est autorisé à le déclarer. Alternativement, un joueur qui entame peut dire « batto » pour indiquer qu'il détient l'un des deux atouts les plus élevés, ou si les deux ont déjà été joués, qu'il détient l'atout le plus élevé qui n'a pas encore été joué.
 
-The soloist or the team of the 20-player has a target of 55 points and the opposing team has a target of 54. In a solo, each member of the team receives or pays the amount by which the points in their combined tricks are above or below their target, and the soloist plays or receives three times the difference. In a game between teams of two, each player receives or pays the amount by which the points in their team's combined tricks are above or below their target. Thus the scores of the four players always add up to zero.
+Le soliste ou l'équipe du joueur à 20 a une cible de 55 points et l'équipe adverse a une cible de 54. En solo, chaque membre de l'équipe reçoit ou paie le montant dont les points de leurs plis combinés dépassent ou sont en dessous de leur cible, et le soliste gagne ou perd trois fois la différence. Dans un jeu entre équipes de deux, chaque joueur reçoit ou paie le montant dont les points de l'équipe dépassent ou sont en dessous de la cible. Ainsi, les scores des quatre joueurs s'additionnent toujours à zéro.
 
-The **three-player game** is much more straightforward. The deal in batches of 5. When everyone has 15 cards there is a pause during which players can bargain to abandon the deal, possibly for a compensation payment. This works the same way as in the 4-player game above. If any player says *'tengo'* the deal is completed so that each player has 20 cards. The dealer also takes the last three cards and discards three under the usual constraints. The player to dealer's right leads to the first trick. In the play there are some special rules. 
+Le **jeu à trois joueurs** est beaucoup plus simple. La distribution se fait par groupes de 5. Quand tout le monde a 15 cartes, il y a une pause pendant laquelle les joueurs peuvent négocier l'abandon de la donne, éventuellement avec un paiement de compensation. Cela fonctionne de la même manière qu'au jeu à 4 joueurs. Si un joueur dit « tengo », la distribution est complétée pour que chacun ait 20 cartes. Le donneur prend également les trois dernières cartes et en écarte trois sous les contraintes habituelles. Le joueur à la droite du donneur entame le premier pli. Dans le jeu, il y a des règles spéciales.
 
-- A player who holds a King must play it to the first trick in that suit. 
+- Un joueur qui détient un Roi doit le jouer au premier pli de cette enseigne.
 
-- A player who has just two cards of a suit - the Horse and a numeral card - must play the Horse to the first trick in that suit.
+- Un joueur qui n'a que deux cartes d'une enseigne — le Cavalier et une carte numérique — doit jouer le Cavalier au premier pli de cette enseigne.
 
-- A player who has the Maid/Jack of a suit must play it in a trick of that suit to which the King has already been played.
+- Un joueur qui a le Valet d'une enseigne doit le jouer à un pli de cette enseigne auquel le Roi a déjà été joué.
 
-The dealer's target is 37 card points and the other two have a target of 36 each. Each player receives or pays the amount by which the card points in their tricks exceed or fall short of their target.
+La cible du donneur est de 37 points de carte et celle des deux autres est de 36 chacun. Chaque joueur reçoit ou paie le montant dont les points de carte de ses plis dépassent ou sont en dessous de sa cible.
 
-There is also a very simple **two-player game**, which may be useful for teaching the cards and values to children. This is played with a 62-card pack without the 4 of coins. Each player is dealt 15 cards in batches of 5 and the remaining 15 are stacked face down to form a stock. The non-dealer leads to the first trick. After each trick the winner draws the top card of the stock and the loser draws the next card. The drawn cards are shown to the opponent before being added to the player's hand. Then the winner of the trick leads to the next. When the stock is exhausted the play continues without drawing. At the end of the play each player counts the card points in their tricks and the player with more wins the difference.
+Il existe également un **jeu à deux joueurs** très simple, qui peut être utile pour apprendre les cartes et les valeurs aux enfants. Il se joue avec un jeu de 62 cartes sans le 4 de deniers. Chaque joueur reçoit 15 cartes par groupes de 5 et les 15 restantes sont empilées face cachée pour former un talon. Le non-donneur entame le premier pli. Après chaque pli, le gagnant tire la carte du dessus du talon et le perdant tire la carte suivante. Les cartes tirées sont montrées à l'adversaire avant d'être ajoutées à la main du joueur. Ensuite, le gagnant du pli entame le suivant. Quand le talon est épuisé, le jeu continue sans tirage. À la fin du jeu, chaque joueur compte les points de carte dans ses plis et le joueur qui en a le plus gagne la différence.
 
 ### Ragusa
 
-Salvatore Bonaccorsi reports that in Ragusa some people play a three-player game that is similar to the game in Mineo except that card points are ignored and the **only** score is for winning the last trick.
+Salvatore Bonaccorsi rapporte qu'à Ragusa, certaines personnes jouent un jeu à trois joueurs similaire à celui de Mineo, sauf que les points de carte sont ignorés et que le **seul** score est pour la remise du dernier pli.
 
-## Websites, software and online games
+## Sites web, logiciels et jeux en ligne
 
-The website of the [**Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett**](https://giocotarocchisiciliani.jimdofree.com/) has an introduction to the games and information on the activities of the Association.
+Le site de l'[**Associazione Culturale Gioco Tarocchi Siciliani – Michael Dummett**](https://giocotarocchisiciliani.jimdofree.com/) propose une introduction aux jeux et des informations sur les activités de l'Association.
 
-Two platforms are available for playing Mineo Tarocchi free online. Documentation is available at https://giocotarocchisiciliani.jimdofree.com/giocare/software-free/. George Witty has created a number of Tarocchi tables at [https://virtualtabletop.io/](https://virtualtabletop.io/). Previously Salvo Bonaccorsi and his team had developed a version using the [Vassal engine](https://vassalengine.org/library/projects/Sicilian_Tarot). 
+Deux plateformes sont disponibles pour jouer au Tarocchi de Mineo gratuitement en ligne. La documentation est disponible à https://giocotarocchisiciliani.jimdofree.com/giocare/software-free/. George Witty a créé plusieurs tables de Tarocchi sur [https://virtualtabletop.io/](https://virtualtabletop.io/). Auparavant, Salvo Bonaccorsi et son équipe avaient développé une version utilisant le moteur [Vassal](https://vassalengine.org/library/projects/Sicilian_Tarot).
 
-## Sources of Information: Books and Websites
+## Sources d'information : livres et sites web
 
-**Salvatore Bonaccorsi: *I Tarocchi Siciliani di Mineo*** (4th ed., Associazione Culturale Gioco Tarocchi Siciliani, Catania, 2018) - a manual on Mineo Tarocchi introducing the history of the cards and game, the rules and suggestions on strategy (in Italian).
+**Salvatore Bonaccorsi : *I Tarocchi Siciliani di Mineo*** (4e éd., Associazione Culturale Gioco Tarocchi Siciliani, Catane, 2018) — manuel du Tarocchi de Mineo présentant l'histoire des cartes et du jeu, les règles et des suggestions de stratégie (en italien).
 
-**Michael Dummett:* I Tarocchi Siciliani*** (2nd ed. il melangolo, Genova, 2002). History and rules of Tarocchi in Sicily (in Italian).
+**Michael Dummett : *I Tarocchi Siciliani*** (2e éd. il melangolo, Gênes, 2002). Histoire et règles du Tarocchi en Sicile (en italien).
 
-**Michael Dummett and John McLeod: [*A History of Games Played with the Tarot Pack - volume 1*](https://mellenpress.com/book/History-of-Games-Played-with-the-Tarot-Pack-Volume-One/5804)** (Edwin Mellen Press 2004) has history and rules of Sicilian Tarocchi in English in Chapter 14*.* 
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Sicilian
+**Michael Dummett et John McLeod : [*A History of Games Played with the Tarot Pack - volume 1*](https://mellenpress.com/book/History-of-Games-Played-with-the-Tarot-Pack-Volume-One/5804)** (Edwin Mellen Press 2004) contient l'histoire et les règles du Tarocchi sicilien en anglais au chapitre 14.

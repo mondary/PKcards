@@ -2,33 +2,33 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** How to play Slovenian Tarok for 3 or 4 players using a 54-card Tarok pack. The partnerships are determined by the bidding and when 4 play also by calling a King.
+**But :** Comment jouer au Tarok slovène à 3 ou 4 joueurs avec un jeu de Tarok de 54 cartes. Les partnerships sont déterminés par les enchères et, à 4 joueurs, également par l'appel d'un Roi.
 
 ---
 
-*This page is based on a contribution from Zoran Obradovic.*
+*Cette page est basée sur une contribution de Zoran Obradovic.*
 
 - Introduction
 
-- Cards
+- Cartes
 
-- The Contracts - a summary
+- Les contrats — résumé
 
 ## Introduction
 
-This is the Slovenian version of the central european Tarot games. It is closely related to Austrian tarock - for example the four player form is similar to Austrian Königrufen - but because of the differences in contracts and scoring, it is less baroque and much more competitive. There are quite a few small local variations in the rules, some of which are mentioned after the main description. 
+Il s'agit de la version slovène des jeux de Tarot d'Europe centrale. Elle est étroitement apparentée au Tarock autrichien — par exemple, la forme à quatre joueurs est similaire au Königrufen autrichien — mais en raison des différences de contrats et de comptage, elle est moins baroque et beaucoup plus compétitive. Il existe assez peu de variations locales dans les règles, dont certaines sont mentionnées après la description principale.
 
-Technically, Tarok is a point trick game with bidding. The cards have values; players bid to decide who will be declarer; then tricks are played and the declarer's side wins if they take more than half the card points. In some contracts declarer can choose a partner by specifying a king.
+Techniquement, le Tarok est un jeu de plis comptés avec enchères. Les cartes ont des valeurs ; les joueurs enchérissent pour décider qui sera le déclarant ; puis les plis sont joués et le côté du déclarant gagne s'il remporte plus de la moitié des points de carte. Dans certains contrats, le déclarant peut choisir un partenaire en désignant un Roi.
 
-That is the basic game, but a lot of extra variety has been added. There are other possible contracts with different objectives, and players can earn bonuses for feats achieved during the game, such as winning the last trick with the lowest trump. Such feats can be announced in advance for extra points.
+C'est le jeu de base, mais beaucoup de variété supplémentaire a été ajoutée. Il existe d'autres contrats possibles avec des objectifs différents, et les joueurs peuvent gagner des bonus pour des exploits réalisés pendant le jeu, comme gagner le dernier pli avec l'atout le plus bas. Ces exploits peuvent être annoncés à l'avance pour des points supplémentaires.
 
-The four player version of Slovenian Tarok is described first. This is the most popular form for social play. The same game can be played by five people, by the simple expedient of having one player sit out of each hand. Many serious players prefer the more demanding three player game, in which there is less variety, but greater scope for scientific play.
+La version à quatre joueurs du Tarok slovène est décrite en premier. C'est la forme la plus populaire pour les parties sociales. Le même jeu peut se jouer à cinq, en faisant simplement asseoir un joueur à tour de rôle. De nombreux joueurs sérieux préfèrent le jeu à trois, plus exigeant, qui offre moins de variété mais une plus grande portée pour le jeu scientifique.
 
-## Cards
+## Cartes
 
-The Tarok pack has 54 cards; it is essentially the same as the pack used for Tarock in Austria, and for Taroky in the Czech Republic and Slovakia. There are 8 cards in each of the four suits Clubs, Spades, Hearts and Diamonds, plus 22 trumps (taroks). The highest tarok, the **Škis** (pronounced *shkiss*), looks rather like a Joker. The second highest trump (XXI) is called the **Mond** and the lowest trump (I) is called the **Pagat**. The black suits rank from highest to lowest: King, Queen, Knight, Jack, 10, 9, 8, 7. The red suits rank from highest to lowest: King, Queen, Knight, Jack 1, 2, 3, 4. 
+Le jeu de Tarok comporte 54 cartes ; il est essentiellement le même que celui utilisé pour le Tarock en Autriche et pour le Taroky en République tchèque et en Slovaquie. Il y a 8 cartes dans chacune des quatre enseignes — trèfle, pique, cœur et carreau — plus 22 atouts (taroks). Le tarok le plus élevé, le **Škis** (prononcé *shkiss*), ressemble plutôt à un Joker. Le deuxième atout le plus élevé (XXI) est appelé le **Mond** et l'atout le plus bas (I) est appelé le **Pagat**. Les enseignes noires se rangent du plus haut au plus bas : Roi, Dame, Cavalier, Valet, 10, 9, 8, 7. Les enseignes rouges se rangent du plus haut au plus bas : Roi, Dame, Cavalier, Valet, As, 2, 3, 4.
 
-**Identification of the cards.** The taroks all have large roman numerals except for the škis. In the four suits, the king has a crown, the queen is female, the knight rides a horse, and the jack is the other picture card. The numeral cards are identified by counting the spots on them (there is no corner index).
+**Identification des cartes.** Les taroks ont tous de grands chiffres romains sauf le škis. Dans les quatre enseignes, le Roi porte une couronne, la Dame est féminine, le Cavalier monte à cheval, et le Valet est l'autre carte à figure. Les cartes numériques sont identifiées en comptant les symboles (il n'y a pas d'indice dans le coin).
 
 **Škis**
 
@@ -36,407 +36,383 @@ The Tarok pack has 54 cards; it is essentially the same as the pack used for Tar
 
 **Pagat**
 
-**Spade king**
+**Roi de ![pique](../images/internat/spade.gif)**
 
-**Heart queen**
+**Dame de ![cœur](../images/internat/heart.gif)**
 
-**Club knight**
+**Cavalier de ![trèfle](../images/internat/club.gif)**
 
-**Diamond jack**
+**Valet de ![carreau](../images/internat/diamond.gif)**
 
-Players in North America can obtain Austrian Tarock cards suitable for this game from [tarock.net](http://www.tarock.net).
+Les joueurs d'Amérique du Nord peuvent se procurer des cartes de Tarock autrichien adaptées à ce jeu sur [tarock.net](http://www.tarock.net).
 
-It is also sometimes possible to find Tarok packs using the special patriotic Slovenian pattern designed by Hinko Smrekar and published in 1916. These have been reprinted from time to time and many players have one in their collection, but they are not in everyday use for playing the game.
+Il est parfois possible de trouver des jeux de Tarok utilisant le motif patriotique slovène spécial conçu par Hinko Smrekar et publié en 1916. Ceux-ci ont été réimprimés de temps en temps et de nombreux joueurs en possèdent un dans leur collection, mais ils ne sont pas d'usage courant pour le jeu.
 
-The point values of the cards are as follows: 
+Les valeurs en points des cartes sont les suivantes :
 
-| kings | 5 each |
-| škis, XXI (mond) and I (pagat) | 5 each |
-| queens | 4 each |
-| knights | 3 each |
-| jacks | 2 each |
-| all other cards | 1 each |
+| rois | 5 chacun |
+| škis, XXI (mond) et I (pagat) | 5 chacun |
+| dames | 4 chacun |
+| cavaliers | 3 chacun |
+| valets | 2 chacun |
+| toutes les autres cartes | 1 chacune |
 
-The process for finding the total point value of a pile of cards may seem slightly strange. The cards are counted in batches of three, to find the value of a batch you add up the values of the cards and subtract 2. If at the end of your counting you have one or two cards left over they are worth one point less than their total value. (So 2 or 3 one-point cards are worth 1 point, but a single one-point card is worth nothing). The total value of the pack comes to 70 card points. This traditional point-counting method, which is common to most forms of tarot, is further discussed and explained on a separate page: counting card points in tarot games.
+Le processus pour trouver la valeur totale en points d'un tas de cartes peut paraître un peu étrange. Les cartes sont comptées par groupes de trois ; pour trouver la valeur d'un groupe, on additionne les valeurs des cartes et on soustrait 2. S'il reste une ou deux cartes à la fin du comptage, elles valent un point de moins que la somme de leurs valeurs. (Donc 2 ou 3 cartes d'un point valent 1 point, mais une seule carte d'un point ne vaut rien). La valeur totale du jeu s'élève à 70 points de carte. Cette méthode traditionnelle de comptage, commune à la plupart des formes de tarot, est davantage discutée et expliquée sur une page séparée : compter les points de carte dans les jeux de tarot.
 
-In a positive contract, the declarer's side wins if at the end of the play they have at least 36 of the available 70 points.
+Dans un contrat positif, le côté du déclarant gagne si, à la fin du jeu, il a au moins 36 des 70 points disponibles.
 
-## The Contracts, a summary
+## Les contrats — résumé
 
-In each hand the declarer is the player who is prepared to undertake the highest contract. This is decided by bidding, so in order to understand the bidding, it is first necessary to know what contracts are possible. The available contracts are listed below in ascending order, with their scores and brief descriptions. Further details of the contracts are given later. 
+À chaque main, le déclarant est le joueur qui est prêt à s'engager sur le contrat le plus élevé. Cela se décide par les enchères, donc pour comprendre les enchères, il faut d'abord connaître les contrats possibles. Les contrats disponibles sont listés ci-dessous par ordre croissant, avec leurs scores et de brèves descriptions. Des détails supplémentaires sont donnés plus loin.
 
-The first two contracts listed (klop and three) are only available to Forehand (the player to dealer's right), in the case when all the other players pass. 
+Les deux premiers contrats listés (klop et three) ne sont disponibles que pour le joueur de droite (Forehand), dans le cas où tous les autres joueurs passent.
 
-| name | score | description |
-| klop (sometimes called klopecki) | minus (points taken) or 70 | avoid taking points; no bonuses; available to forehand only |
-| three (tri or trojka) | 10 + difference | call a king; take 3 cards from the talon; win at least 36 card points; available to forehand only |
-| two (dva or dve or dvojka) | 20 + difference | call a king; take 2 cards from the talon; win at least 36 card points |
-| one (ena or enka or enojka or enica) | 30 + difference | call a king; take 1 card from the talon; win at least 36 card points |
-| solo three (solo tri) | 40 + difference | play alone; take 3 cards from the talon; win at least 36 card points |
-| solo two (solo dva) | 50 + difference | play alone; take 2 cards from the talon; win at least 36 card points |
-| solo one (solo ena) | 60 + difference | play alone; take 1 card from the talon; win at least 36 card points |
-| beggar (berač) | 70 | play alone; take no tricks; no bonuses |
-| solo without (solo brez or brez talona) | 80 | play alone; no cards from the talon; win at least 36 card points; no bonuses |
-| open beggar (odprti berač) | 90 | play alone; take no tricks; declarer's cards are exposed; no bonuses |
-| colour valat without (barvni valat brez) | 125 | play alone; no cards from the talon; taroks are not trumps; win all tricks; no bonuses |
-| valat without (valat brez) | 500 | play alone; no cards from the talon; win all tricks; no bonuses |
+| nom | score | description |
+| klop (parfois appelé klopecki) | moins (points pris) ou 70 | éviter de prendre des points ; pas de bonus ; réservé au joueur de droite |
+| three (tri ou trojka) | 10 + différence | appeler un Roi ; prendre 3 cartes du talon ; gagner au moins 36 points de carte ; réservé au joueur de droite |
+| two (dva ou dve ou dvojka) | 20 + différence | appeler un Roi ; prendre 2 cartes du talon ; gagner au moins 36 points de carte |
+| one (ena ou enka ou enojka ou enica) | 30 + différence | appeler un Roi ; prendre 1 carte du talon ; gagner au moins 36 points de carte |
+| solo three (solo tri) | 40 + différence | jouer seul ; prendre 3 cartes du talon ; gagner au moins 36 points de carte |
+| solo two (solo dva) | 50 + différence | jouer seul ; prendre 2 cartes du talon ; gagner au moins 36 points de carte |
+| solo one (solo ena) | 60 + différence | jouer seul ; prendre 1 carte du talon ; gagner au moins 36 points de carte |
+| beggar (berač) | 70 | jouer seul ; ne prendre aucun pli ; pas de bonus |
+| solo without (solo brez ou brez talona) | 80 | jouer seul ; pas de carte du talon ; gagner au moins 36 points de carte ; pas de bonus |
+| open beggar (odprti berač) | 90 | jouer seul ; ne prendre aucun pli ; les cartes du déclarant sont exposées ; pas de bonus |
+| colour valat without (barvni valat brez) | 125 | jouer seul ; pas de carte du talon ; les taroks ne sont pas atouts ; gagner tous les plis ; pas de bonus |
+| valat without (valat brez) | 500 | jouer seul ; pas de carte du talon ; gagner tous les plis ; pas de bonus |
 
-In the above table "difference" is the difference between the card points taken and 35, rounded to the nearest 5 points.
+Dans le tableau ci-dessus, « différence » est la différence entre les points de carte remportés et 35, arrondie au multiple de 5 le plus proche.
 
-## Bonuses
+## Bonus
 
-Bonuses are additional ways of winning game points in the "normal" contracts (three, two, one, solo three, solo two, solo one). Most bonuses can be scored without prior announcement, or can be announced in advance for a double score. The scores and brief descriptions are in the table below; further details of bonuses are explained later. 
+Les bonus sont des moyens supplémentaires de gagner des points de jeu dans les contrats « normaux » (three, two, one, solo three, solo two, solo one). La plupart des bonus peuvent être marqués sans annonce préalable, ou être annoncés à l'avance pour un double score. Les scores et de brèves descriptions figurent dans le tableau ci-dessous ; des détails supplémentaires sont expliqués plus loin.
 
-| bonus | unannounced | announced | description |
-| trula | 10 | 20 | take škis, XXI and I in tricks |
-| kings | 10 | 20 | take all 4 kings in tricks |
-| king ultimo | 10 | 20 | win the called king in the last trick (only the called player can announce this) |
-| pagat ultimo | 25 | 50 | win the last trick with the pagat (tarok I) (only the holder of the pagat can announce this) |
-| valat | 250 | 500 | win all the tricks - in this case no other bonuses count |
+| bonus | non annoncé | annoncé | description |
+| trula | 10 | 20 | prendre le škis, le XXI et le I en plis |
+| rois | 10 | 20 | prendre les 4 rois en plis |
+| king ultimo | 10 | 20 | gagner le Roi appelé au dernier pli (seul le joueur appelé peut l'annoncer) |
+| pagat ultimo | 25 | 50 | gagner le dernier pli avec le pagat (tarok I) (seul le détenteur du pagat peut l'annoncer) |
+| valat | 250 | 500 | gagner tous les plis — dans ce cas aucun autre bonus ne compte |
 
-Except for valat, the scores for the game and bonuses are independent of each other. A team may win some and lose others, so a player may have conflicting objectives during a hand. It is quite possible to win the game and yet lose points because the bonuses were worth more than the game. 
+À l'exception du valat, les scores du jeu et des bonus sont indépendants. Une équipe peut en gagner certains et en perdre d'autres, de sorte qu'un joueur peut avoir des objectifs contradictoires au cours d'une main. Il est tout à fait possible de gagner le jeu et pourtant de perdre des points parce que les bonus valaient plus que le jeu.
 
-The score for valat eliminates all other scores for the hand.
+Le score du valat annule tous les autres scores de la main.
 
-## Playing Procedure
+## Déroulement du jeu
 
-The game is played anticlockwise. The first dealer is selected by cutting the pack (highest card deals), and the turn to deal rotates anticlockwise after each hand.
+Le jeu se joue dans le sens antihoraire. Le premier donneur est choisi en coupant le jeu (la carte la plus haute distribue), et le tour de distribuer tourne dans le sens antihoraire après chaque main.
 
-The sequence of events on each deal is as follows: 
+La séquence des événements à chaque donne est la suivante :
 
-- The cards are dealt
+- Les cartes sont distribuées
 
-- The players bid to decide who will be declarer
+- Les joueurs enchérissent pour décider qui sera le déclarant
 
-- The declarer calls a king, if the contract requires it
+- Le déclarant appelle un Roi, si le contrat l'exige
 
-- The declarer exchanges some cards with the talon, if the contract requires it
+- Le déclarant échange des cartes avec le talon, si le contrat l'exige
 
-- There is a round of announcements, when bonuses and kontras can be announced
+- Il y a un tour d'annonces, pendant lequel les bonus et les contras peuvent être annoncés
 
-- The cards are played out in tricks
+- Les cartes sont jouées en plis
 
-- The cards taken by each team are counted to determine the result
+- Les cartes remportées par chaque équipe sont comptées pour déterminer le résultat
 
-- The score for the hand is recorded
+- Le score de la main est enregistré
 
-### Deal
+### Distribution
 
-Dealer shuffles, gives the cards to the opposite player to cut, then deals in packets of six cards. The first packet is placed face-down in the middle of the table, to form the **talon**. Then packets of six are dealt to the players, starting to the dealer's right, until all cards are dealt. It is **crucial** that the talon cards are dealt in a bunch from the top of the pack without any shuffling or interchanging of cards.
+Le donneur mélange, donne les cartes au joueur opposé pour couper, puis distribue en paquets de six cartes. Le premier paquet est posé face cachée au centre de la table pour former le **talon**. Puis des paquets de six sont distribués aux joueurs, en commençant par la droite du donneur, jusqu'à ce que toutes les cartes soient distribuées. Il est **crucial** que les cartes du talon soient distribuées en bloc depuis le sommet du jeu sans aucun mélange ni échange de cartes.
 
-Instead of cutting, the player opposite the dealer is allowed to "knock", or tap the pack of cards. They must then be dealt as follows: the first six cards to the talon, then four packets of 12 cards. Each player in anticlockwise rotation, starting with the player to dealer's right, chooses whether they will have the first, second, third or fourth packet. If the first player choses to have the first cards, the others do not get a choice, but are automatically assigned the second, the third, and the fourth pack of twelve in rotation. If the first player chooses the first cards he can also specify whether the talon is to be dealt first (as usual), or immediately after the first player's cards, or at the end.
+Au lieu de couper, le joueur opposé au donneur est autorisé à « frapper » (knock), ou taper le jeu de cartes. Les cartes doivent alors être distribuées comme suit : les six premières au talon, puis quatre paquets de 12 cartes. Chaque joueur, dans le sens antihoraire, en commençant par le joueur à la droite du donneur, choisit s'il aura le premier, le deuxième, le troisième ou le quatrième paquet.
 
-Hand with no taroks
+Main sans taroks
 
-Any player who is dealt no taroks that player **must** immediately show all his cards. All the players must then throw in their hands; the cards are shuffled and cut again, there is a new deal by the same dealer, and a game of compulsory klop is played.
-Misdeal
-If the dealer misdeals (giving out the wrong number of cards, dealing in the wrong order, exposing cards during the deal, etc), 20 points are subtracted from his score, and he gets an asterisk by his name. If the same player misdeals again, he loses a further 40 points, and gets another asterisk. If it happens a third time he will lose 80, then 160, and so on. The player who misdealt deals again.
-The škis round
+Tout joueur qui n'a reçu aucun tarok **doit** immédiatement montrer toutes ses cartes. Tous les joueurs doivent alors jeter leur main ; les cartes sont mélangées et recoupées, il y a une nouvelle distribution par le même donneur, et une partie de klop obligatoire est jouée.
 
-When the players wish to end the game - maybe at a certain time, like 4:00 AM, or when a player reaches a certain score - usually 1000 - or when the players are simply too sleepy or too drunk or too fed up to continue with the session, the **škis round** is played. The cards are dealt and a hand is played as usual, but at the end the players note who received the škis in the deal. The next time that it is this person's turn to deal, the hand they deal will be the last one of the session. For example, if in the škis round the dealer gets the škis, another four hands will be played after that one. If the škis is in the talon, another škis round is played to determine who will deal last.
+Mauvaise distribution
 
-### Bidding
+Si le donneur fait une mauvaise distribution (nombre de cartes incorrect, ordre de distribution erroné, exposition de cartes pendant la distribution, etc.), 20 points sont soustraits de son score, et il obtient un astérisque à côté de son nom. Si le même joueur fait une autre mauvaise distribution, il perd 40 points supplémentaires et un autre astérisque. Si cela se produit une troisième fois, il perd 80, puis 160, et ainsi de suite. Le joueur qui a fait la mauvaise distribution redistribue.
 
-After the deal, the auction starts. The player to dealer's right ("forehand") says nothing and waits for the other players to announce their bids. Each player in turn after that must either bid by naming a contract or pass. Once having passed a player may not re-enter the auction. The auction continues until three players have passed consecutively, and the last player to have bid becomes declarer. 
+Le tour du škis
 
-During the bidding there is an order of priority, starting with forehand (highest) and continuing anticlockwise around the table to dealer (lowest). When bidding a contract, if you have lower priority than the previous bidder you must bid a higher contract or pass, but if you have higher priority than the previous bidder it is sufficient to bid an equal or higher contract. 
+Quand les joueurs souhaitent terminer la partie — peut-être à une certaine heure, comme 4h du matin, ou lorsqu'un joueur atteint un certain score — généralement 1000 — ou quand les joueurs sont tout simplement trop fatigués, trop ivres ou trop las pour continuer la session, le **tour du škis** est joué. Les cartes sont distribuées et une main est jouée comme d'habitude, mais à la fin, les joueurs notent qui a reçu le škis lors de la distribution. La prochaine fois que c'est à ce joueur de distribuer, la main qu'il distribuera sera la dernière de la session.
 
-Example:
-The players in anticlockwise order are A (forehand), B, C and D.
+### Enchères
 
-B bids "two", C passes. Now if D wants to bid, the minimum bid is "one", because B has priority over D. If D bids "one" then A is also allowed to bid "one", which overcalls D's "one", because A has priority over D.
+Après la distribution, les enchères commencent. Le joueur à la droite du donneur (« joueur de droite ») ne dit rien et attend que les autres joueurs annoncent leurs enchères. Chaque joueur à tour de rôle doit soit enchérir en nommant un contrat, soit passer. Une fois passé, un joueur ne peut pas revenir aux enchères. Les enchères continuent jusqu'à ce que trois joueurs aient passé consécutivement, et le dernier joueur à avoir enchéri devient le déclarant.
 
-If the three players other than forehand just pass, forehand is now free to name any contract. This is the only case in which the first two contracts in the list (**klop** and **three**) can be played.
+Pendant les enchères, il y a un ordre de priorité, commençant par le joueur de droite (le plus élevé) et continuant dans le sens antihoraire autour de la table jusqu'au donneur (le plus bas). Lorsqu'on enchérit un contrat, si on a une priorité inférieure au précédent enchérisseur, on doit enchérir un contrat supérieur ou passer, mais si on a une priorité supérieure, il suffit d'enchérir un contrat égal ou supérieur.
 
-If someone other than forehand does bid, then the final bidder is the declarer. This player now names the contract they will play; this can be the last contract they bid or any higher contract.
+Exemple :
+Les joueurs dans le sens antihoraire sont A (joueur de droite), B, C et D.
 
-Compulsory klop
-In certain circumstances a hand of **compulsory klop** has to be played. In this case the bids from **three** to **beggar** inclusive are unavailable. The lowest possible bid is **solo without**, and if (as will often happen) the other three players pass, forehand has the choice of naming **solo without** or higher, or playing a **klop**. Most of the time, klop will be played.
-Compulsory klop is played after a player's cumulative score reaches exactly zero (see scoring) and after a player is dealt no taroks.
+B enchérit « two », C passe. Si D veut enchérir, l'enchère minimale est « one », car B a priorité sur D. Si D enchérit « one », alors A est également autorisé à enchérir « one », ce qui surclasse le « one » de D, car A a priorité sur D.
 
-### Calling a King
+Si les trois joueurs autres que le joueur de droite passent, le joueur de droite est libre de nommer n'importe quel contrat. C'est le seul cas où les deux premiers contrats de la liste (**klop** et **three**) peuvent être joués.
 
-If the contract is one in which declarer gets a partner, the declarer names a suit. The holder of the king of that suit becomes declarer's partner **but does not tell anyone who they are**. The partnerships are sometimes not discovered until quite late in the hand. 
+Si quelqu'un d'autre que le joueur de droite enchérit, le dernier enchérisseur est le déclarant. Ce joueur nomme le contrat qu'il jouera ; ce peut être le dernier contrat enchéri ou n'importe quel contrat supérieur.
 
-It is legal to call your own king. In this case you play on your own against the other three players in partnership, but they will not realise at first that they are all on the same side. This is generally not a very good idea, because declaring a solo cotract will bring you 30 points more.
+Klop obligatoire
+Dans certaines circonstances, une main de **klop obligatoire** doit être jouée. Dans ce cas, les enchères de **three** à **beggar** inclus ne sont pas disponibles. L'enchère la plus basse possible est **solo without**, et si (comme cela arrive souvent) les trois autres joueurs passent, le joueur de droite a le choix de nommer **solo without** ou supérieur, ou de jouer un **klop**. La plupart du temps, le klop sera joué. Le klop obligatoire se joue après que le score cumulatif d'un joueur atteint exactement zéro (voir comptage) et après qu'un joueur n'a reçu aucun tarok.
 
-You also play alone if the called king happens to be in the talon. 
+### Appeler un Roi
 
-### Exchanging cards with the talon
+Si le contrat est un contrat dans lequel le déclarant obtient un partenaire, le déclarant nomme une enseigne. Le détenteur du Roi de cette enseigne devient le partenaire du déclarant **mais ne dit à personne qui il est**. Les partnerships ne sont parfois découverts que tard dans la main.
 
-In contracts which entitle the declarer to take cards from the talon, the talon is now exposed in two sets of three cards, three sets of two cards, or as individual cards, depending on the contract. Declarer chooses one of the sets and adds the cards to his hand. The talon cards which the declarer does not take are put in a face down pile and count as part of the opponents' tricks. If a king was called, the pile of rejected talon cards must at first be kept separate from the opponents' tricks, since some of the players do not yet know who is on which side. After taking the chosen set of cards into his hand, declarer then discards the same number of cards face down into his trick pile. Cards that are worth 5 points (kings and cards of the trula) may never be discarded; other trumps can be discarded freely but must be discarded face up, so that all the players know how many trumps are in play. 
+Il est légal d'appeler son propre Roi. Dans ce cas, on joue seul contre les trois autres joueurs en partnership, mais ils ne s'en rendront pas compte au début. Ce n'est généralement pas une très bonne idée, car déclarer un contrat solo rapporterait 30 points de plus.
 
-If the king called by the declarer happens to be in the talon, then the declarer can win the remainder of the talon (the part not taken) by picking up the part of the talon that contains the called king and winning a trick with that king. When the called king is played, the remainder of the talon is tossed face up on top of it, so that it is collected by the winner of the trick. 
+On joue également seul si le Roi appelé se trouve être dans le talon.
 
-Colour valat *(barvni valat)*
-If the contract is solo three, solo two or solo one, the delarer can, after exchanging cards with the talon, increase the contract to **colour valat**. This is the normal way in which colour valat arises - colour valat with the talon cannot be bid directly. "Colour valat without" is normally bid only when a player wanted to play colour valat (and is strong enough to do it without help from the talon), but another player has outbid the solo games. Colour valat scores 125 points there is no score for the difference, nor for other bonuses. Note that if a player wants to play a valat with trumps (which is more valuable than colour valat), he play a normal contract can announce it during the round of announcements (or make it unannounced).
+### Échange de cartes avec le talon
 
-### Announcements
+Dans les contrats qui donnent droit au déclarant de prendre des cartes du talon, le talon est exposé en deux groupes de trois, trois groupes de deux, ou en cartes individuelles, selon le contrat. Le déclarant choisit un groupe et ajoute les cartes à sa main. Les cartes du talon que le déclarant ne prend pas sont posées dans un tas face cachée et comptent comme partie des plis des adversaires. Si un Roi a été appelé, le tas des cartes du talon rejetées doit d'abord être gardé séparément des plis des adversaires, car certains joueurs ne savent pas encore qui est dans quel côté. Après avoir pris le groupe choisi dans sa main, le déclarant écarte ensuite le même nombre de cartes face cachée dans son tas de plis. Les cartes valant 5 points (Rois et cartes de la trula) ne peuvent jamais être écartées ; les autres atouts peuvent être écartés librement mais doivent être écartés face visible, pour que tous les joueurs sachent combien d'atouts sont en jeu.
 
-There is now a round of announcements. Beginning with the declarer, each player can pass or make one or more announcements on behalf of their side. An announcement is a commitment to win a particular bonus, or a kontra of something said by the other side. The round of announcements continues until three players have passed consecutively.
+Si le Roi appelé par le déclarant se trouve dans le talon, le déclarant peut gagner le reste du talon (la partie non prise) en ramassant la partie du talon qui contient le Roi appelé et en gagnant un pli avec ce Roi. Quand le Roi appelé est joué, le reste du talon est jeté face visible sur ce pli, pour être collecté par le gagnant.
 
-This, at least, is the theory, but in practice the announcements are made in no particular order, and they still turn out fine. 
+Valat couleur *(barvni valat)*
+Si le contrat est solo three, solo two ou solo one, le déclarant peut, après avoir échangé des cartes avec le talon, augmenter le contrat en **valat couleur**. C'est la façon normale dont le valat couleur survient — le valat couleur avec le talon ne peut pas être enchéri directement. Le « valat couleur sans » est normalement enchéri seulement lorsqu'un joueur voulait jouer un valat couleur (et est assez fort pour le faire sans l'aide du talon), mais un autre joueur a sur-enchéri les contrats solo.
+
+### Annonces
+
+Il y a maintenant un tour d'annonces. En commençant par le déclarant, chaque joueur peut passer ou faire une ou plusieurs annonces au nom de son côté. Une annonce est un engagement à gagner un bonus particulier, ou un contra de quelque chose dit par le côté adverse. Le tour d'annonces continue jusqu'à ce que trois joueurs aient passé consécutivement.
 
 #### Kontra
 
-During the round of announcements, a member of the defending side may double the score for the game and any difference points by saying "**kontra the game**". After this has happened, either member of the declarer's team may double the acore again by saying "**rekontra**". Then the defenders can double it again if they wish by saying "**subkontra**" and finally the declarer's team could say "**mordkontra**", by which time the original score for the game and difference has been multiplied by 16.
+Pendant le tour d'annonces, un membre du côté défenseur peut doubler le score du jeu et des points de différence en disant « **kontra le jeu** ». Après cela, n'importe quel membre de l'équipe du déclarant peut doubler à nouveau en disant « **rekontra** ». Les défenseurs peuvent alors doubler à nouveau en disant « **subkontra** » et enfin l'équipe du déclarant peut dire « **mordkontra** », par lequel le score original du jeu et de la différence a été multiplié par 16.
 
-In the same way, an opponent of a player who has announced a bonus can double the score for the bonus, by saying (for example) "kontra the king ultimo". The game and bonuses are scored independently, and are therefore kontra'd, rekontra'd, and so on independently. A player who says kontra must specify exactly what they are saying kontra to. A kontra'd bonus can be rekontra'd by the team that announced it, subkontra'd by the other side and mordkontra'd by the announcing team.
+De la même manière, un adversaire d'un joueur qui a annoncé un bonus peut doubler le score de ce bonus, en disant par exemple « kontra le king ultimo ». Le jeu et les bonus sont comptés indépendamment, et sont donc kontras, rekontras, etc. indépendamment. Un joueur qui dit kontra doit spécifier exactement ce qu'il contre. Un bonus contré peut être rekontras par l'équipe qui l'a annoncé, subkontras par le côté adverse et mordkontras par l'équipe annonciatrice.
 
-If a bonus is announced by a player other than the declarer, it may not be clear which team they belong to. Since as player is are not allowed to kontra their partner, it is illegal to kontra an announcement unless the player saying kontra knows for certain that they are on the opposite team from the announcer.
+Si un bonus est annoncé par un joueur autre que le déclarant, il peut ne pas être clair à quelle équipe il appartient. Puisqu'un joueur n'est pas autorisé à contrer son partenaire, il est illégal de contrer une annonce à moins que le joueur disant kontra ne soit certain d'être dans l'équipe adverse de l'annonciateur.
 
-### The Play
+### Le jeu
 
-In contracts up to and including **solo one**, the player to dealer's right (Forehand) leads to the first trick, no matter who is declarer. In the higher contracts, from **beggar** upwards, the declarer leads to the first trick. The declarer leads first in a colour valat.
+Dans les contrats jusqu'à et y compris **solo one**, le joueur à la droite du donneur entame le premier pli, quel que soit le déclarant. Dans les contrats supérieurs, à partir de **beggar**, le déclarant entame le premier pli. Le déclarant entame en premier dans un valat couleur.
 
-You must follow suit if you can. If you cannot follow suit **you must play a trump**. The trick is won by the highest card played of the suit led, unless it contains a trump in which case the highest trump wins (exception: colour valat). 
+Vous devez suivre l'enseigne si vous le pouvez. Si vous ne pouvez pas suivre l'enseigne, **vous devez jouer un atout**. Le pli est remporté par la carte la plus haute de l'enseigne entamée, sauf s'il contient un atout auquel cas le plus haut atout gagne (exception : valat couleur).
 
-Additional rule for all contracts - The Emperor trick
+Règle supplémentaire pour tous les contrats — Le pli de l'Empereur
 
-If the three *trula* cards, the *škis*, the XXI (*mond*) and the I (*pagat*) are all played to the same trick, then the **pagat** counts as the highest trump and therefore wins the trick. (The only exception is in a colour valat when a non-trump is led; if the other cards played to the trick are the three trula cards the led card wins).
-Captured Mond
-This rule applies in the "normal" contracts (three, two, one, solo three, solo two, solo one) and in "solo without", but not in the other contracts. If the *škis* and the *mond* (XXI) are played to the same trick, the player of the *mond* is penalised: 20 points are subtracted from his score. This penalty applies whether the trick is won by a partner of the player of the *mond* or by an opponent; it also applies to the player of the *mond* in an Emperor trick. It is an individual penalty - the partner(s), if any, of the player of the *mond* do not lose anything. The penalty is not affected by any doubles for kontras or radli.
-The penalty for captured *mond* also applies if the *mond* is found in the talon when it is exposed and the declarer chooses not take the part of the talon which includes the *mond*, thus giving it to the opponents. However, if the called king **and** the *mond* are found in different parts of the talon, and the declarer takes the king and wins a trick with it, thus winning the rest of the talon including the untaken *mond*, there is no penalty. In "solo without", the declarer does not suffer any penalty if the *mond* is in the talon.
-Additional rules for negative contracts (klop, beggar, open beggar)
-1. You must beat the highest card on the table if possible.
-2. You are not allowed to play the *pagat* unless it's the only card you can play (if it's your last card, if it's your only trump, or if it's the only card that will win the trick - see emperor trick).
+Si les trois cartes de la *trula* — le *škis*, le XXI (*mond*) et le I (*pagat*) — sont toutes jouées au même pli, alors le **pagat** compte comme l'atout le plus élevé et remporte donc le pli. (La seule exception est dans un valat couleur quand une carte non atout est entamée ; si les autres cartes jouées sont les trois cartes de la trula, la carte entamée gagne).
 
-### The Scoring
+Mond capturé
+Cette règle s'applique dans les contrats « normaux » (three, two, one, solo three, solo two, solo one) et dans « solo without », mais pas dans les autres contrats. Si le *škis* et le *mond* (XXI) sont joués au même pli, le joueur du *mond* est pénalisé : 20 points sont soustraits de son score. Cette pénalité s'applique que le pli soit gagné par un partenaire du joueur du *mond* ou par un adversaire. C'est une pénalité individuelle — le(s) partenaire(s) du joueur du *mond* ne perdent rien.
 
-A cumulative score is kept on paper. In most cases only the declarer (and the declarer's partner if any) score. In general, solidarity of partnerships applies, so if the declarer has a partner, both members of the declarer's team will win or lose the same amount. Anything won by the declarer's side or lost by the opponents is added to declarer's team's score, and anything lost by declarer's team or won by their opponents is subtracted from declarer's team's score. The exceptions are:
+Règles supplémentaires pour les contrats négatifs (klop, beggar, open beggar)
+1. Vous devez battre la carte la plus haute sur la table si possible.
+2. Vous n'êtes pas autorisé à jouer le *pagat* sauf si c'est la seule carte que vous pouvez jouer.
 
-- klop, where everyone scores separately;
+### Le comptage
 
-- the penalty for losing the mond, which applies only to the player who lost it;
+Un score cumulatif est tenu sur papier. Dans la plupart des cas, seul le déclarant (et le partenaire du déclarant s'il y en a un) marque. En général, la solidarité des partnerships s'applique, donc si le déclarant a un partenaire, les deux membres de l'équipe du déclarant gagneront ou perdront le même montant. Les exceptions sont :
 
-- the penalties for **revoking, misdealing**, etc, which apply only to the culprit.
+- klop, où chacun marque séparément ;
 
-The point value of the contract is added to player's score if he wins the game, or subtracted from it if he loses. In a normal contract (three, two, one, solo three, solo two, solo one) this value is increased by the card point difference. The card point difference is calculated by subtracting 35 from the card points won by the player(s) and rounded to nearest 5. For example: if a player wins 43 card points, he has won by 10. If he wins 37 card points he has won with no difference. If he wins 21 points, he has lost by 15.
+- la pénalité pour la perte du mond, qui ne s'applique qu'au joueur qui l'a perdu ;
 
-The value of any bonuses won by the declarer's team are added to their score; if they lose any bonuses, their values are subtracted. Conversely, if the opposition win any bonuses, their value is subtracted from the declarer's team's score and any bonuses lost by the opposition are added to the declarer's team's score.
+- les pénalités pour **renonce, mauvaise distribution**, etc., qui ne s'appliquent qu'au coupable.
 
-In the higher contracts, beggar and above, the declarer simply either wins or loses the value of the contract. There is no difference and no bonuses (except that the penalty for losing the mond still applies in "solo without").
+La valeur en points du contrat est ajoutée au score du joueur s'il gagne, ou soustraite s'il perd. Dans un contrat normal (three, two, one, solo three, solo two, solo one), cette valeur est augmentée de la différence de points de carte. La différence de points de carte est calculée en soustrayant 35 des points de carte gagnés par le joueur(s) et en arrondissant au multiple de 5 le plus proche. Par exemple : si un joueur gagne 43 points de carte, il a gagné de 10. S'il gagne 37 points de carte, il a gagné sans différence. S'il gagne 21 points, il a perdu de 15.
 
-The score sheet looks like this:
+La valeur des bonus gagnés par l'équipe du déclarant est ajoutée à leur score ; s'ils perdent des bonus, leurs valeurs sont soustraites. Inversement, si l'opposition gagne des bonus, leur valeur est soustraite du score de l'équipe du déclarant et les bonus perdus par l'opposition sont ajoutés au score de l'équipe du déclarant.
 
-| Ana | Boris | Cilka | David |
-|   |   |   |   |
-|    |   |   |   |
+Dans les contrats supérieurs, beggar et au-dessus, le déclarant gagne ou perd simplement la valeur du contrat. Il n'y a pas de différence ni de bonus (sauf que la pénalité pour la perte du mond s'applique toujours dans « solo without »).
 
 ### Radli
 
-The second row of the scoresheet is reserved for *radlci*. (*Radlc* is a word of German descent meaning a little wheel). These are little circles drawn under each player's name. All four players get a new *radlc* whenever any of the following events happens, :
+La deuxième ligne de la feuille de score est réservée aux *radlci*. (*Radlc* est un mot d'origine allemande signifiant petite roue). Ce sont de petits cercles dessinés sous le nom de chaque joueur. Les quatre joueurs reçoivent un nouveau *radlc* chaque fois que l'un des événements suivants se produit :
 
-- a klop is played;
+- un klop est joué ;
 
-- a contract of beggar or higher is played;
+- un contrat de beggar ou supérieur est joué ;
 
-- any kind of valat is won or lost.
+- n'importe quel type de valat est gagné ou perdu.
 
-The *radlci* are added to the scoresheet immediately after the hand on which the event occured has been scored. 
+Les *radlci* sont ajoutés à la feuille de score immédiatement après que la main où l'événement s'est produit a été comptée.
 
-When a declarer wins a contract and the score is calculated, his *radlci* are checked. If the declarer has any outstanding *radlci* from previous hands, the declarer's score (and that of the declarer's partner if any) for the cuerrent hand are doubled and one of the declarer's *radlci* is annulled (usually by colouring the circle). If the declarer loses a contract, the score is still doubled, but the *radlc* is not anulled.
+Quand un déclarant gagne un contrat et que le score est calculé, ses *radlci* sont vérifiés. Si le déclarant a des *radlci* en suspens de mains précédentes, le score du déclarant (et celui de son partenaire s'il y en a un) pour la main en cours est doublé et un de ses *radlci* est annulé (généralement en colorant le cercle). Si le déclarant perd un contrat, le score est toujours doublé, mais le *radlc* n'est pas annulé.
 
-If any *radlci* are left over at the end of the night, 100 points are subtracted from the players' score for each uncancelled *radlc*. The idea of *radlci *is to punish the players who do not declare contracts themselves, but rather wait for other players to call them. Also, some people consider that bigger scores make the game more fun.
+S'il reste des *radlci* à la fin de la soirée, 100 points sont soustraits du score des joueurs pour chaque *radlc* non annulé. L'idée des *radlci* est de punir les joueurs qui ne déclarent pas de contrats eux-mêmes, mais attendent que d'autres joueurs les appellent.
 
-### Example
+### Exemple
 
-After a few games, the score sheet might look like this:
+Après quelques parties, la feuille de score pourrait ressembler à ceci :
 
-| players | Ana | Boris | Cilka | David |
+| joueurs | Ana | Boris | Cilka | David |
 | radli | xoo | ooo | xoo | xoo |
 | 1 | +40 |   | +40 |   |
 | 2 |   |   | -30 | -70 |
 | 3 |   | +70 |   |   |
 | 4 |   |   | +120 |   |
-| 5 |  
-+180 |  
-+210 | +100
-  |   |
+| 5 |   | +180 |   | +210 | +100 |
 | 6 | +140 |   | +60 |   |
 | 7 | 0 |   |   |   |
 | 8 |   |   |   | +90 |
 
-Let's see what happened:
+Voyons ce qui s'est passé :
 
-In the **first game** Cilka plays 1, calls Ana, and wins by 10, so their score is 30 (for one) + 10 (the difference) = 40.
+Dans la **première partie**, Cilka joue 1, appelle Ana, et gagne de 10, donc leur score est 30 (pour one) + 10 (la différence) = 40.
 
-In the **second game** David plays 2, calls Cilka and announces pagat ultimo. Unfortunately, they lose the pagat and the game by 0 points, 20 (for two) + 50 (the announced pagat ultimo) = 70 points are subtracted from their scores.
+Dans la **deuxième partie**, David joue 2, appelle Cilka et annonce pagat ultimo. Malheureusement, ils perdent le pagat et le jeu de 0 point, 20 (pour two) + 50 (le pagat ultimo annoncé) = 70 points sont soustraits de leurs scores.
 
-In the **third game**, Boris plays beggar (*berač*) and wins, so his score is 70 and everybody gets a *radl*.
+Dans la **troisième partie**, Boris joue beggar (*berač*) et gagne, donc son score est 70 et tout le monde obtient un *radl*.
 
-In the **fourth game**, Cilka plays solo 3, and announces the trula. She wins by 15 and gets the trula. She has some *radli*, so her score is 40 (for solo three) + 15 (the difference) + 20 (the announced trula), everything * 2 (the *radl*) = 150. One of her *radli *is annulled.
+Dans la **quatrième partie**, Cilka joue solo 3 et annonce la trula. Elle gagne de 15 et obtient la trula. Elle a des *radli*, donc son score est 40 (pour solo three) + 15 (la différence) + 20 (la trula annoncée), le tout × 2 (le *radl*) = 150. Un de ses *radli* est annulé.
 
-In the **fifth game**, Ana plays 1 and calls Boris, who announces king ultimo. During the game, Cilka loses her mond to Ana's škis, so 20 points are subtracted from Cilka's score. Ana and Boris win the game by 10 and also win trula, so their score is 30 (for one) + 10 (the difference) + 20 (the announced king ultimo) + 10 (the trula),
-everything * 2 (Ana's *radl*) = 140. One of Ana's *radli *is annulled.
+Dans la **cinquième partie**, Ana joue 1 et appelle Boris, qui annonce king ultimo. Pendant le jeu, Cilka perd son mond face au škis d'Ana, donc 20 points sont soustraits du score de Cilka. Ana et Boris gagnent le jeu de 10 et gagnent aussi la trula, donc leur score est 30 (pour one) + 10 (la différence) + 20 (le king ultimo annoncé) + 10 (la trula), le tout × 2 (le *radl* d'Ana) = 140.
 
-In the **sixth game**, Cilka plays 2 and calls Ana. They win only 34 points, so their score is reduced by 20 (for two) + 0 (the difference), everything * 2 (Cilka's *radl*) = 40. Cilka's *radli* reamin as they are.
+Dans la **sixième partie**, Cilka joue 2 et appelle Ana. Elles ne gagnent que 34 points, donc leur score est réduit de 20 (pour two) + 0 (la différence), le tout × 2 (le *radl* de Cilka) = 40. Les *radli* de Cilka restent tels quels.
 
-In the **seventh game**, Ana plays beggar and loses, so her score is 70 (for the beggar) * 2 (the *radl*) = 140 and everybody gets another *radl*.
+Dans la **septième partie**, Ana joue beggar et perd, donc son score est de 70 (pour beggar) × 2 (le *radl*) = 140 et tout le monde obtient un autre *radl*.
 
-Before the **eighth game** Ana's score is 0, so compulsory klop is played. However, after the cards are dealt, David decides his cards are too good, so he plays "solo without" and wins. His score is increased by 80 (for solo without) * 2 (the *radl*) = 160 and everybody gets another *radl*.
-
-Usually, no blank lines are left; each player's scores are written in the first available space in the column, so the scores are not aligned across the page for each hand, as in the diagram.
-
-As already described, the game is traditionally ended by means of a škis round. When the last hand has been played, points are subtracted from the players' scores for any uncancelled *radli* (100 points per *radl*), and the winner is announced.
+Avant la **huitième partie**, le score d'Ana est de 0, donc un klop obligatoire est joué. Cependant, après la distribution, David décide que ses cartes sont trop bonnes, alors il joue « solo without » et gagne. Son score augmente de 80 (pour solo without) × 2 (le *radl*) = 160 et tout le monde obtient un autre *radl*.
 
 ### Renonce
 
-If a player breaks any of the rules (plays the wrong suit, discards wrong number of cards, fails to beat the highest card on the table when he could have done so in a negative contract, or talks in such a way as to give away information about his cards), he is punished by the full score of the game (the contract + 35 difference, if appropriate + bonuses, plus kontras and radl). 
+Si un joueur enfreint l'une des règles (joue la mauvaise enseigne, écarte un nombre incorrect de cartes, ne bat pas la carte la plus haute sur la table alors qu'il le pouvait dans un contrat négatif, ou parle de manière à révéler des informations sur ses cartes), il est puni par le score complet du jeu (le contrat + 35 de différence, si approprié + bonus, plus contras et radl).
 
-## Detailed descriptions of some contracts and bonuses
+## Descriptions détaillées de certains contrats et bonus
 
-Klop: 
-It's every man for himself. The object of the game is to win as few card points as possible. At any rate you want to avoid **losing** (taking more than 35 cards points), and if possible you want to **win** (take no tricks at all). The additional rules for negative contracts apply. In addition, in each of the first six tricks a card is turned up from the top of the talon and added to the trick as a "gift" to the player who won the trick, usually called a "vitamin". As klop is played when everybody passes, the talon cards tend to be rather juicy.
+Klop :
+C'est chacun pour soi. Le but du jeu est de gagner le moins possible de points de carte. Il faut surtout éviter de **perdre** (prendre plus de 35 points de carte), et si possible de **gagner** (ne prendre aucun pli). Les règles supplémentaires pour les contrats négatifs s'appliquent. De plus, à chacun des six premiers plis, une carte est retournée du sommet du talon et ajoutée au pli comme un « cadeau » au joueur qui a gagné le pli, généralement appelé « vitamine ».
 
-A player who **loses** (takes more than 35 card points) scores minus 70. Any player who **wins** (taking no tricks) scores is +70. If any player wins or loses, then only the the winners and losers score.
+Un joueur qui **perd** (prend plus de 35 points de carte) marque moins 70. Tout joueur qui **gagne** (ne prend aucun pli) marque +70. Si des joueurs gagnent ou perdent, seuls les gagnants et les perdants marquent.
 
-If no one loses and no one wins, the card points taken by each player are rounded to the nearest 5 and subtracted from the player's score.
+Si personne ne perd et personne ne gagne, les points de carte pris par chaque joueur sont arrondis au multiple de 5 le plus proche et soustraits du score du joueur.
 
-If a klop occurs while some players have uncancelled *radlci*, those players' gains or losses are doubled. Any player with an uncancelled *radl* who wins a klop scores double (140) and cancels a radl. Three, two, one: 
-Declarer chooses a partner by calling a king, and exchanges the appropriate number of cards with the talon. The object of the game is to win at least 36 card points.
-The score for the game is (10 or 20 or 30) + bonuses + difference.
-Solo three, solo two, solo one: 
-Declarer plays alone and exchanges the appropriate number of cards with the talon. The object of the game is to win at least 36 card points.
-The score for the game is (40 or 50 or 60) + bonuses + difference.
-Declarer can also raise the contract to colour valat after exchanging with the talon.**Berač** (Beggar)
-Declarer plays alone and doesn't ex change any cards. The object of the game is to take no tricks. The additional rules for negative contracts apply. The talon is placed face down in the middle of the table and the declarer starts the game by placing his card to his side of the talon. Other players do the same. The player who wins the trick places leads the next trick by placing his card on top of his first card, but doesn't cover it completely, then others do the same. In time, a kind of a cross is formed on the table.
-This manner of playing the cards has no magical meaning. It was rather devised to enable all the players to see all the cards that have been played so far.
-The score for the game is 70.
-Solo without: 
-Declarer plays alone and doesn't get to exchange any cards. The talon (unrevealed) goes to the opposition. The object of the game is to win at least 36 card points.
-The score for the game is 80; no bonuses, no difference.
-This contract is rarely bid. It's the last resort if somebody bids beggar and you have a winning hand. It's also used when a compulsory klop is being played and you just know you're going to lose it.
-**Odprti berač** (Open beggar) 
-This contract is played the same way as the beggar, except for one major difference. After the first trick is played, the declarer arranges all his cards face up on the table so that the other players can see them. This makes the contract extremely hard to win. The declarer's opponents are not allowed to discuss the play.
-The score for the game is 90. 
-Colour valat: 
-Declarer plays alone against the other three players with the object of winning all the tricks, but the trumps function as an ordinary suit. The declarer leads to the first trick. A player unable to follow suit is still obliged to play a trump, but the trumps do not win - the trick is won by the highest card of the suit led. When a trump is led, players must follow with trumps if possible and the highest trump wins.
-The score for the game is 125.
+Three, two, one :
+Le déclarant choisit un partenaire en appelant un Roi, et échange le nombre approprié de cartes avec le talon. Le but est de gagner au moins 36 points de carte.
+Le score du jeu est (10 ou 20 ou 30) + bonus + différence.
 
-### Notes on pagat ultimo and king ultimo
+Solo three, solo two, solo one :
+Le déclarant joue seul et échange le nombre approprié de cartes avec le talon. Le but est de gagner au moins 36 points de carte.
+Le score du jeu est (40 ou 50 ou 60) + bonus + différence. Le déclarant peut aussi augmenter le contrat en valat couleur après l'échange avec le talon.
 
-- For king ultimo it is good enough for either partner to win the last trick with the called king in it. For pagat ultimo, the pagat actually has to win the trick - if not, the bonus is lost even if the trick is won by the partner of the person playing the pagat. 
+**Berač** (Mendiant)
+Le déclarant joue seul et n'échange aucune carte. Le but est de ne prendre aucun pli. Les règles supplémentaires pour les contrats négatifs s'appliquent. Le talon est posé face cachée au centre de la table et le déclarant commence le jeu en posant sa carte de son côté du talon. Les autres joueurs font de même.
+Le score du jeu est 70.
 
-- If the bonus is not announced, but you play the called king or the pagat to the last trick, you are deemed to be attempting to score the bonus, and you score minus the appropriate bonus if the pagat is beaten, or your side loses the last trick containing the called king.
+Solo without :
+Le déclarant joue seul et n'échange aucune carte. Le talon (non révélé) va à l'opposition. Le but est de gagner au moins 36 points de carte.
+Le score du jeu est 80 ; pas de bonus, pas de différence.
 
-- An announced bonus of this type can be lost in three ways:
+**Odprti berač** (Mendiant ouvert)
+Ce contrat se joue de la même manière que le mendiant, sauf une différence majeure. Après le premier pli, le déclarant arrange toutes ses cartes face visible sur la table pour que les autres joueurs puissent les voir.
+Le score du jeu est 90.
 
-- you play the card to the last trick, but it fails to win (or, in the case of the king, your partner also fails to win); 
+Valat couleur :
+Le déclarant joue seul contre les trois autres avec pour but de gagner tous les plis, mais les atouts fonctionnent comme une enseigne ordinaire. Le déclarant entame le premier pli.
+Le score du jeu est 125.
 
-- the card is forced out prematurely; 
+### Notes sur le pagat ultimo et le king ultimo
 
-- your side does not possess the card at all (stranger things have happened!). 
+- Pour le king ultimo, il suffit que l'un ou l'autre partenaire gagne le dernier pli avec le Roi appelé. Pour le pagat ultimo, le pagat doit effectivement gagner le pli — sinon, le bonus est perdu même si le pli est gagné par le partenaire du joueur qui a joué le pagat.
 
-- If the bonus is announced, the side making the announcement is obliged to keep the card for as long as they can, subject to the rules of play, saving it until the last trick if possible.
+- Si le bonus n'est pas annoncé, mais que vous jouez le Roi appelé ou le pagat au dernier pli, vous êtes réputé tenter de marquer le bonus, et vous marquez moins le bonus approprié si le pagat est battu, ou votre côté perd le dernier pli contenant le Roi appelé.
 
-- It is customary to turn the declared card around or to put it face up on the table, so that other players can see it.
+- Un bonus annoncé de ce type peut être perdu de trois manières :
+  - vous jouez la carte au dernier pli, mais elle ne gagne pas ;
+  - la carte est forcée prématurément ;
+  - votre côté ne possède pas du tout la carte.
 
-- An announcement of Valat cancels all other bonuses and announcements. Therefore a player who previously announced pagat ultimo or king ultimo can no longer score for it and therefore is no longer obliged to keep the card until the end.
+- Si le bonus est annoncé, le côté qui l'annonce est tenu de garder la carte aussi longtemps que possible, selon les règles de jeu, en la sauvegardant jusqu'au dernier pli si possible.
 
-## Variations
+- Il est habituel de retourner la carte déclarée ou de la poser face visible sur la table.
 
-### Calling a king
+- Une annonce de Valat annule tous les autres bonus et annonces.
 
-If you have all four kings, and play a three, two or one, you would normally have no option but to call yourself. However, some people allow a player who holds all the kings to call a card of the trula. In this case a player who holds all the kings and all the trula cards is allowed to call a trump (but a player with such a good hand should really be playing something higher than one).
+## Variantes
 
-Some people allow a player who has three kings to call the fourth by simply saying "the fourth king", without specifying its suit. This can make things somewhat more difficult for the opponents.
+### Appeler un Roi
 
-### Bidding and contracts
+Si vous avez les quatre Rois et jouez un three, two ou one, vous n'auriez normalement d'autre choix que de vous appeler vous-même. Cependant, certains permettent à un joueur qui détient tous les Rois d'appeler une carte de la trula.
 
-According to many people the winner of the bidding must play the exact contract he bid - he cannot convert to a higher contract (except in the special case of increasing a solo three, solo two or solo one to colour valat.
+Certains permettent à un joueur qui a trois Rois d'appeler le quatrième en disant simplement « le quatrième Roi », sans spécifier son enseigne.
 
-Some people allow an additional negative contract called **piccolo**, in which the object is to win exactly one trick. It ranks between *solo one* and *berač* and is worth 70. Most players do not allow this contract, as it is thought to be too easy. If it is played, it would make more sense to rank it below *solo three*, or maybe even between *three* and *two*.
+### Enchères et contrats
 
-Some people allow colour valat to be played with a partner (after exchanging the talon in a contract of three, two or one). This is also too easy, and most players don't allow it.
+Selon beaucoup de joueurs, le gagnant des enchères doit jouer le contrat exact qu'il a enchéri — il ne peut pas convertir en un contrat supérieur (sauf dans le cas spécial d'augmenter un solo three, solo two ou solo one en valat couleur).
 
-In some circles compulsory klop is played when a player's score reaches 500, 1000 or any multiple of 500. Some also play a compulsory klop after a misdeal.
+Certains permettent un contrat négatif supplémentaire appelé **piccolo**, dans lequel le but est de gagner exactement un pli. Il se classe entre *solo one* et *berač* et vaut 70.
 
-### Bonuses and kontras
+Dans certains cercles, le klop obligatoire se joue lorsque le score d'un joueur atteint 500, 1000 ou tout multiple de 500.
 
-Some people allow an extra level of doubling - hirškontra - between subkontra and mordkontra.
+### Bonus et contras
 
-Some people play that declarer's team only require 35 points plus one card (rather than 36 points) to win a contract.
+Certains permettent un niveau supplémentaire de doublement — hirškontra — entre subkontra et mordkontra.
 
-A few people play that an unannounced pagat ultimo (won or lost) counts only for or against the holder of the pagat. The partner is not affected. Some play this only if the pagat ultimo is lost.
+Certains jouent que l'équipe du déclarant ne nécessite que 35 points plus une carte (plutôt que 36 points) pour gagner un contrat.
+
+Quelques-uns jouent qu'un pagat ultimo non annoncé (gagné ou perdu) ne compte que pour ou contre le détenteur du pagat. Le partenaire n'est pas affecté.
 
 ### Klop
 
-Some people play that in a klop, if the škis has not yet been played it is illegal to lead the XXI (unless it is your last card, or your last two cards are the mond and the pagat).
+Certains jouent que dans un klop, si le škis n'a pas encore été joué, il est interdit d'entamer le XXI (sauf si c'est votre dernière carte, ou si vos deux dernières cartes sont le mond et le pagat).
 
-Some allow a klop to be kontra'd. If a player says kontra then anyone who takes more than 35 points loses 140 instead of 70. If no one takes more than 35 points the player who said kontra loses 140.
+Certains autorisent un klop à être contré. Si un joueur dit kontra, tout joueur qui prend plus de 35 points perd 140 au lieu de 70.
 
 ### Berač
 
-The declarer can bid berač holding the škis, gambling on the mond and pagat being held by different players, neither being in the talon. If you play this variation, the declarer leads the škis to the first trick, and the players who hold the mond and pagat are obliged to play them, so that the pagat wins an emperor trick. If the mond and pagat do not both appear, the berač has failed.
+Le déclarant peut enchérir berač en détenant le škis, pariant que le mond et le pagat sont détenus par des joueurs différents, aucun n'étant dans le talon. Si cette variante est jouée, le déclarant entame le škis au premier pli, et les joueurs qui détiennent le mond et le pagat sont obligés de les jouer, de sorte que le pagat gagne un pli de l'Empereur.
 
-### Colour Valat
+### Valat couleur
 
-Most people allow the declarer to lead his cards in any order, but some players require the declarer to play all his suit cards before leading any trumps.
+La plupart des joueurs autorisent le déclarant à jouer ses cartes dans n'importe quel ordre, mais certains exigent que le déclarant joue toutes ses cartes d'enseigne avant d'entamer des atouts.
 
-### Money game
+### Jeu d'argent
 
-Many people, when playing for money, operate the scoring differently. If the declarer has a partner, each member of the losing team pays one member of the winning team. If the declarer is alone, he receives from or pays to all three of the other players. Using this method, it is possible to settle up after each hand by pushing money across the table, or the score is recorded showing the gains and losses of each player.
+Beaucoup de joueurs, en jouant pour de l'argent, gèrent le comptage différemment. Si le déclarant a un partenaire, chaque membre de l'équipe perdante paie un membre de l'équipe gagnante. Si le déclarant est seul, il reçoit de ou paie à tous les trois autres joueurs.
 
-This way of scoring increases the value of games played alone relative to those played with a partner. If two players in partnership win 80 then the results for the four players will be +80/+80/-80/-80, which if one player wins 80 points alone, the result will be +240/-80/-80/-80. In this version, a player whose *mond* is captured pays 20 to each of the other three players.
+Si vous jouez avec des *radli*, ils sont représentés par une sorte de jeton, comme des allumettes. Les joueurs qui ont des *radli* restants à la fin de la partie paient 100 à chacun des autres joueurs pour chaque *radl* qu'ils ont.
 
-If you are paying out after each hand rather than scoring on paper, the management of radli and the scores for klop become rather complicated. For this reason some people play this form of the game without klop and without radli. If you do play with klop, then if no one wins or loses, each player pays for the points they took to each of the other three players. A player who wins or loses receives or pays 70 to all three opponents. If you play with *radli*, they are represented by some kind of token, such as matchsticks. Players who have any *radli* left over at the end of the game pay 100 to each of the other players for each *radl* they have left.
+## Le jeu à cinq joueurs
 
-If playing for high stakes, you may want to dispense with the rounding of difference points to the nearest 5, but pay for them exactly instead. In that case the penalty for losing the mond becomes 21 rather than 20.
+Le jeu à cinq joueurs est pratiquement identique au jeu à quatre joueurs. Le donneur distribue les cartes à tous les joueurs sauf lui-même et termine ainsi son rôle dans le jeu. Le donneur ne marque jamais rien. Dans la version avec argent, le donneur ne paie ni ne reçoit rien. Cependant, si un événement se produit qui fait que tout le monde reçoit un radl, le donneur en reçoit un aussi.
 
-It is also possible to play for money using the paper method of scoring explained in the main description of the game. In that case, at the end of the game, the average score is worked out, and players pay or receive according to how far they are above or below the average.
+## Le jeu à trois joueurs
 
-## The five-player game
+C'est la variante préférée par beaucoup de bons joueurs de tarok. Ce type de jeu exige beaucoup plus de concentration que la version à quatre joueurs, donc il n'est pas vraiment adapté aux soirées habituelles tarok + bière. Les cartes et leurs valeurs sont les mêmes qu'au jeu à quatre, et les règles de jeu sont les mêmes, sauf indication contraire.
 
-The five-player game is virtually identical to the four-player game. The dealer deals the cards to all players but himself and thus finishes his role in the game. In the next game, the next player deals.
-The dealer never scores anything. In the money version of the game the dealer neither pays nor receives anything. However, if an event happens that causes everyone to get a radl, the dealer gets one too.
+Le joueur à la gauche du donneur coupe le jeu (ou frappe) et les joueurs reçoivent 16 cartes chacun en paquets de huit.
 
-## The three-player game
+Sauf au klop, le déclarant joue toujours seul contre les deux autres joueurs. Les contrats possibles sont :
 
-This is the variant favoured by many good players of tarok. This type of game requires much more concentration than the four player version, so it's not really suitable for the usual tarok + beer parties. The cards and their values are the same as in the four player game, and the rules of play are the same, except where specified below.
+| nom | score | description |
+| klop (parfois appelé klopecki) | moins (points pris) ou 70 | éviter de prendre des points ; pas de bonus ; joué seulement si tout le monde passe |
+| three (tri ou trojka) | 10 + différence | prendre 3 cartes du talon ; gagner au moins 36 points de carte |
+| two (dva ou dve ou dvojka) | 20 + différence | prendre 2 cartes du talon ; gagner au moins 36 points de carte |
+| one (ena ou enka ou enojka ou enica) | 30 + différence | prendre 1 carte du talon ; gagner au moins 36 points de carte |
+| beggar (berač) | 70 | ne prendre aucun pli ; pas de bonus |
+| solo without (solo brez talona) | 80 | pas de carte du talon ; gagner au moins 36 points de carte ; pas de bonus |
 
-The player to the left of the dealer cuts the deck (or knocks) and the players are dealt 16 cards each in packets of eight.
+Au jeu à trois, les différences de points de carte sont souvent comptées exactement, sans arrondir au multiple de 5.
 
-Except in klop, the declarer always plays alone against the other two players. The possible contracts are:
+Klop ne peut pas être enchéri, mais les autres contrats sont disponibles pour tous les joueurs. Les enchères commencent par le joueur à la droite du donneur et continuent autour de la table dans le sens antihoraire. Si les trois joueurs passent, le klop doit être joué.
 
-| name | score | description |
-| klop (sometimes called klopecki) | minus (points taken) or 70 | avoid taking points; no bonuses; played only if everyone passes |
-| three (tri or trojka) | 10 + difference | take 3 cards from the talon; win at least 36 card points |
-| two (dva or dve or dvojka) | 20 + difference | take 2 cards from the talon; win at least 36 card points |
-| one (ena or enka or enojka or enica) | 30 + difference | take 1 card from the talon; win at least 36 card points |
-| beggar (berač) | 70 | take no tricks; no bonuses |
-| solo without (solo brez talona) | 80 | no cards from the talon; win at least 36 card points; no bonuses |
+Le gagnant des enchères peut jouer le contrat enchéri ou convertir en un contrat supérieur. Les cartes du talon sont échangées selon le cas, et il y a une opportunité d'annonces. Les bonus suivants sont disponibles :
 
-In the three player game, especially when played for money,  the card point differences are often scored exactly, not rounded to nearest 5.
+| bonus | non annoncé | annoncé | description |
+| trula | 10 | 20 | prendre le škis, le XXI et le I en plis |
+| rois | 10 | 20 | prendre les 4 rois en plis |
+| pagat ultimo | 25 | 50 | gagner le dernier pli avec le pagat (tarok I) |
+| valat | 250 | 500 | gagner tous les plis — dans ce cas aucun autre bonus ne compte |
 
-Klop cannot be bid, but the other contracts are available to all players. The bidding begins with the player to dealer's right, and continues around the table anticlockwise. If all three players pass, klop must be played. As in the four player game, players whose first turn to speak was earlier have seniority in the bidding, and can equal the bids of junior players by holding. A junior player has to bid higher than a senior player or pass. A player who has passed cannot bid again during the auction.
+Les cartes sont jouées comme au jeu à quatre joueurs, et la main est comptée. Dans un contrat de three, two ou one, un joueur dont le *mond* est battu, ou qui laisse le *mond* dans le talon, paie une pénalité individuelle de 21 points. Pour terminer la session, un tour du škis est joué.
 
-The winner of the bidding can play the bid contract or convert to a higher one. The talon cards are then exchanged as appropriate, and there is an opportunity for announcements. The following bonuses are available:
+### Variantes du jeu à trois joueurs
 
-| bonus | unannounced | announced | description |
-| trula | 10 | 20 | take škis, XXI and I in tricks |
-| kings | 10 | 20 | take all 4 kings in tricks |
-| pagat ultimo | 25 | 50 | win the last trick with the pagat (tarok I) |
-| valat | 250 | 500 | win all the tricks - in this case no other bonuses count |
+Certains joueurs autorisent des enchères élevées supplémentaires du jeu à quatre : open beggar (90), valat couleur sans (125) et valat sans (500).
 
-The cards are played as in the four player game, and the hand is scored. In a contract of three, two or one, a player whose *mond* is beaten, or who leaves the *mond* in the talon, pays an individual penalty of 21 points. To end the session, a škis round is played.
+Certains accordent un privilège spécial à un joueur qui a reçu le pagat mais aucun autre tarok. Pendant le tour d'annonces, le joueur peut annoncer « *Vogel frei* », et le pagat est alors exempté des règles de suivi d'enseigne.
 
-### Variations of the three player game
+Certains jouent que la main peut être annulée, après la distribution, par tout joueur qui n'a pas de taroks, ou un seul tarok, ou deux taroks tous deux inférieurs au **X**.
 
-Some players allow additional high bids of the four player game: open beggar (90), colour valat without (125) and valat without (500). These contracts are much rarer with only three players than with four. Also, if colour valat is allowed, a bid of three, two or one can be increased to colour valat after exchanging the talon.
+## Autres pages et logiciels pour le Tarok slovène
 
-Some grant a special privilege to a player who has been dealt the pagat but no other taroks. During the round of announcements, the player can announce *"Vogel frei"*, and the pagat is then exempt from the rules of following suit. The pagat can be played to any trick, and it wins the trick to which it is played, irrespective of what other cards are played to that trick. *[I do not know why the announcement of this is in German. Vogel means bird, which is the pagat - sometimes known in Austria as the sparrow (Spatz), and frei means that it is free - i.e. can be played any time.]*
+L'[Association slovène de Tarok](https://tarokzveza.si/) (Tarok Zveza Slovenije) compte 19 clubs avec environ 150 joueurs chacun. Elle organise des tournois réguliers de Tarok à 3 joueurs — environ 10 par an — et maintient un système de classement.
 
-Some play that the hand can be annulled, after the deal, by any player who has no taroks, or one tarok, or two taroks, both of which are below the **X**.
+[Tarok.net](https://www.tarok.net/) propose un programme permettant de jouer au Tarok slovène à 3 ou 4 joueurs contre des adversaires en direct sur Internet.
 
-## Other Slovenian Tarok WWW pages and software
+Sur le site de Žan Kafol, [briskula.si](https://briskula.si/tarok), vous pouvez jouer au Tarok en ligne contre des adversaires humains ou l'IA.
 
-The [Slovenian Tarok Association](https://tarokzveza.si/) (Tarok Sveza Slovenije) has 19 clubs with around 150 players in each. They organise regular 3-player Tarok tournaments - about 10 per year - and maintain a rating system.
-
-[Tarok.net](https://www.tarok.net/) offers a program which can be used to play three- or four-player Slovenian Tarok against live opponents over the Internet.
-
-At Žan Kafol's site [briskula.si](https://briskula.si/tarok) you can play Tarok online against live or AI opponents. The game runs on PC, Mac, iPhone and Android.
-
-Wesley Welch's [www.tarock.net](http://www.tarock.net) is the web site of an American group that play a version of Slovenian Tarok.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tarok (Slovenian)
+Le site [www.tarock.net](http://www.tarock.net) de Wesley Welch est le site d'un groupe américain qui joue une version du Tarok slovène.

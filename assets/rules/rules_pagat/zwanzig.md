@@ -1,17 +1,15 @@
 # Zwanzigerrufen
 
 **Difficulté :** —
-**Type :** Tarot, Tarot
-**But :** A card game from Lower Austria played with 40 Tarock cards. Links to rules.
+**Type :** Jeux de tarot, Jeux de tarot
+**But :** Un jeu de cartes de Basse-Autriche joué avec 40 cartes de Tarock. Liens vers les règles.
 
 ---
 
-Zwanzigerrufen (XX-rufen) is an Austrian Tarock game for four players, somewhat simpler than Königrufen, and played with just 40 cards of the Tarock pack. The name means "Call the XX", because you call the tarock-XX to determine who will be your partner.
+Le Zwanzigerrufen (XX-rufen) est un jeu de Tarock autrichien pour quatre joueurs, un peu plus simple que le Königrufen, et joué avec seulement 40 cartes du jeu de Tarock. Le nom signifie « Appelez le XX », car on appelle le tarock XX pour déterminer qui sera votre partenaire.
 
-You can find the rules on this archive copy of Bernhard Krüpl's [Tarock Page](https://web.archive.org/web/20070514081801/http://www.webit.at/bk/tarock.html) and on the [Zwanzigerrufen Wikipedia page](https://en.wikipedia.org/wiki/Zwanzigerrufen).
+Vous trouverez les règles sur cette [page d'archive du site de Tarock de Bernhard Krüpl](https://web.archive.org/web/20070514081801/http://www.webit.at/bk/tarock.html) et sur la [page Wikipédia du Zwanzigerrufen](https://en.wikipedia.org/wiki/Zwanzigerrufen).
 
-You can play XX-rufen on line against live opponents at the [Gametwist](https://www.gametwist.com/en/skill-games/20er-rufen) site (the interface is in German).
+Vous pouvez jouer au XX-rufen en ligne contre des adversaires en direct sur le site [Gametwist](https://www.gametwist.com/en/skill-games/20er-rufen) (l'interface est en allemand).
 
-A [XX-rufen computer program](https://www.tarock.at/main.php) is available from KEC Austria: Triangle productions.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Zwanzigerrufen
+Un [programme informatique de XX-rufen](https://www.tarock.at/main.php) est disponible auprès de KEC Austria : Triangle productions.

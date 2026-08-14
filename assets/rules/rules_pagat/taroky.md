@@ -1,366 +1,324 @@
 # Taroky
 
 **Difficulté :** —
-**Type :** Tarot, Tarot
-**But :** A Czech and Slovak Tarot game for 4 players using 54-cards in which a player can recruit a partner by calling the XIX.
+**Type :** Tarot, Tarot, Tarot
+**But :** Un jeu de Tarot tchèque et slovaque à 4 joueurs utilisant 54 cartes dans lequel un joueur peut recruter un partenaire en appelant le XIX.
 
 ---
 
 ## Introduction
 
-Taroky is a tarot game for 4 players, played in the Czech Republic (especially in Moravia) and also in Slovakia. It is played with a 54 card pack similar to that used for Austrian Tarock. There are several local variations in the rules; the version described on this page is played in Hlučín, near Ostrava in the Czech Republic. It was taught to John McLeod by Alois Nasadil, Drahomír Navrátil, Oldřich Cibulec, Jindřich Cibulec and Jiří Uhřík.
+Taroky est un jeu de tarot à 4 joueurs, joué en République tchèque (surtout en Moravie) et aussi en Slovaquie. Il se joue avec un jeu de 54 cartes similaire à celui utilisé pour le Tarock autrichien. Il existe plusieurs variations locales dans les règles ; la version décrite sur cette page se joue à Hlučín, près d'Ostrava en République tchèque. Elle a été enseignée à John McLeod par Alois Nasadil, Drahomír Navrátil, Oldřich Cibulec, Jindřich Cibulec et Jiří Uhřík.
 
-A similar game Taroki is played in a small area of southern Poland, which formed part of Austrian Silesia in the 19th century.
+Un jeu similaire, Taroki, se joue dans une petite région du sud de la Pologne, qui faisait partie de la Silésie autrichienne au XIXe siècle.
 
-Taroky is also played by the Czech community in central Texas, USA - for example in the towns of Temple, West and Fort Worth. There are enough players that Taroky cards are available in the shops there, and regular tournaments are held.
+Taroky est aussi joué par la communauté tchèque du centre du Texas, États-Unis — par exemple dans les villes de Temple, West et Fort Worth. Il y a assez de joueurs pour que des cartes de Taroky soient disponibles dans les magasins, et des tournois réguliers sont organisés.
 
-## Outline of the game
+## Aperçu du jeu
 
-Taroky is a point trick game - the object is to take tricks containing valuable cards. There are four active players and the whole game is played anticlockwise. The 54 card pack consists of four suits of eight cards plus 22 permanent trumps, called taroky. Twelve cards are dealt to each player and the remaining six form the talon. 
+Taroky est un jeu de plis comptés — le but est de remporter des plis contenant des cartes précieuses. Il y a quatre joueurs actifs et le jeu entier se joue dans le sens antihoraire. Le jeu de 54 cartes se compose de quatre enseignes de huit cartes plus 22 atouts permanents, appelés taroky. Douze cartes sont distribuées à chaque joueur et les six restantes forment le talon.
 
-In each hand, the four players play in two temporary teams, either one against three or two against two, depending on the bidding. When playing two against two, the bidder calls a tarok, usually the XIX, and the holder of the called card becomes the declarer's partner. Depending on the bid, the bidder's hand may also be improved by drawing some cards from the talon and discarding. As in all tarot games, in the trick play it is compulsory to follow suit, and to play a tarok if you have no cards of the suit led. At the end of the play the teams count the value of the cards they have won in tricks to determine which side has won and by how much. Players can also win bonuses by declaring certain combinations of cards held in hand, and for winning the last trick with the lowest trump. If no one wishes to bid, a game of Varšava is played, in which the normal objective of the play is reversed: the aim is to avoid winning card points in tricks, and whoever takes most of them loses.
+À chaque main, les quatre joueurs jouent en deux équipes temporaires, soit un contre trois, soit deux contre deux, selon les enchères. Lorsqu'on joue deux contre deux, l'enchérisseur appelle un tarok, généralement le XIX, et le détenteur de la carte appelée devient le partenaire de l'enchérisseur. Selon l'enchère, la main de l'enchérisseur peut aussi être améliorée en tirant des cartes du talon et en écartant. Comme dans tous les jeux de tarot, au jeu de plis il est obligatoire de suivre l'enseigne, et de jouer un tarok si on n'a pas de carte de l'enseigne entamée. À la fin du jeu, les équipes comptent la valeur des cartes qu'elles ont remportées en plis pour déterminer quel côté a gagné et de combien. Les joueurs peuvent aussi gagner des bonus en déclarant certaines combinaisons de cartes en main, et pour gagner le dernier pli avec l'atout le plus bas. Si personne ne souhaite enchérir, on joue une partie de Varšava, dans laquelle l'objectif normal du jeu est inversé : le but est d'éviter de gagner des points de carte en plis, et celui qui en prend le plus perd.
 
-It is normal to play for money, settling up after each hand by passing coins across the table. The scoring will be given throughout in terms of payment in Czech crowns (Kč).
+Il est normal de jouer pour de l'argent, en réglant les comptes après chaque main en faisant passer des pièces sur la table. Les scores seront donnés en paiement en couronnes tchèques (Kč).
 
-It is possible for five people to take part in a game, taking turns to sit out. The rules are exactly as in the four-player game but the dealer deals cards only to the other four players, takes no part in the play, and neither wins nor loses in that deal.
+Il est possible pour cinq personnes de participer à une partie, en prenant tour à tour un repos. Les règles sont exactement les mêmes qu'au jeu à quatre joueurs, mais le donneur ne distribue qu'aux quatre autres joueurs, ne prend pas part au jeu, et ne gagne ni ne perd lors de cette donne.
 
-## The cards and their values
+## Les cartes et leurs valeurs
 
-A Taroky pack consists of 54 cards and is almost identical in appearance to an Austrian Tarock pack. There are 22 **taroky** (singular: **tarok**) which function as permanent trumps. The highest of these is the **škýz**, which is unnumbered and looks a little like a joker. The remaining taroky bear roman numbers **XXI**, **XX**, **XIX**, **XVIII**, etc. down to **I**. The **XXI** - the second highest tarok - is also known as the **mond** and the **I** - the lowest tarok - is called the **pagát**.
+Un jeu de Taroky se compose de 54 cartes et est presque identique en apparence à un jeu de Tarock autrichien. Il y a 22 **taroky** (singulier : **tarok**) qui fonctionnent comme atouts permanents. Le plus élevé est le **škýz**, qui n'est pas numéroté et ressemble un peu à un Joker. Les taroky restants portent des chiffres romains **XXI**, **XX**, **XIX**, **XVIII**, etc. jusqu'au **I**. Le **XXI** — le deuxième tarok le plus élevé — est aussi appelé le **mond** et le **I** — le tarok le plus bas — est appelé le **pagát**.
 
-In addition there are four suits - hearts (*srdce* or *herce*), diamonds (*kára* or *koule*), spades (*piky*) and clubs (*křiže*), each consisting of eight cards, ranking from high to low as follows: 
+En outre, il y a quatre enseignes — cœur (*srdce* ou *herce*), carreau (*kára* ou *koule*), pique (*piky*) et trèfle (*křiže*), chacune composée de huit cartes, se rangeant du plus haut au plus bas :
 
-- in the black suits: **king** (*král*), **queen** (*dáma*), **rider** (*kavall*), **jack** (*kluk*), **10**, **9**, **8**, **7**;
+- dans les enseignes noires : **roi** (*král*), **dame** (*dáma*), **cavalier** (*kavall*), **valet** (*kluk*), **10**, **9**, **8**, **7** ;
 
-- in the red suits: **king**, **queen**, **rider**, **jack**, **ace**, **2**, **3**, **4**.
+- dans les enseignes rouges : **roi**, **dame**, **cavalier**, **valet**, **as**, **2**, **3**, **4**.
 
-| The values of the cards are as follows:
+Les valeurs des cartes sont les suivantes :
 
-škýz, mond and pagát | ..... | 5 points each |
-| taroky II to XX | ..... | 1 point each |
-| kings | ..... | 5 points each |
-| queens | ..... | 4 points each |
-| riders | ..... | 3 points each |
-| jacks | ..... | 2 points each |
-| 10, 9, 8, 7, ace, 2, 3, 4 | ..... | 1 point each |
+| škýz, mond et pagát | 5 points chacun |
+| taroky II à XX | 1 point chacun |
+| rois | 5 points chacun |
+| dames | 4 points chacun |
+| cavaliers | 3 points chacun |
+| valets | 2 points chacun |
+| 10, 9, 8, 7, as, 2, 3, 4 | 1 point chacun |
 
-When counting the point value of the cards won in tricks, they are counted as far as possible in **batches of three**, and two points are subtracted from the value of each group. For example a queen and two 1 point cards are worth 4 altogether (4 + 1 + 1 - 2 = 4); a king, a rider and a jack are worth 8 (5 + 3 + 2 - 2); three one-point cards are worth one (1 + 1 + 1 - 2). If two cards are left over, they are worth the sum of their individual values less one point - for example a taroky XXI and IX are worth 5 points (5 + 1 - 1 = 5). A single card left over is worth one point less than its face value - for example king by itself is worth 4, and a one-point card by itself is worth nothing.
+En comptant la valeur en points des cartes gagnées en plis, on les compte autant que possible par **groupes de trois**, et deux points sont soustraits de la valeur de chaque groupe. Par exemple, une dame et deux cartes d'un point valent 4 au total (4 + 1 + 1 - 2 = 4) ; un roi, un cavalier et un valet valent 8 (5 + 3 + 2 - 2). S'il reste deux cartes, elles valent la somme de leurs valeurs individuelles moins un point. Une seule carte restante vaut un point de moins que sa valeur nominale — par exemple un roi seul vaut 4, et une carte d'un point seule ne vaut rien.
 
-If you are unfamiliar with this way of counting, see the page on counting cards in tarot games for further explanation. It turns out that it does not matter how a pile of cards is arranged into threes - its total value is always the same. The total value of the pack is 70 points, and the card point totals taken by the two teams always add up to 70.
+La valeur totale du jeu est de 70 points, et les totaux de points de carte pris par les deux équipes s'additionnent toujours à 70.
 
-The cards used in the Czech Republic and Slovakia are very similar in design to Austrian Tarock cards. 
+## La distribution
 
-**škýz**
-**mond**
-**pagát**
+Le premier donneur est choisi en coupant les cartes (la carte la plus haute distribue) ; ensuite, le tour de distribuer passe à la droite après chaque main. Le donneur mélange et le joueur assis **en face** du donneur coupe les cartes. Le donneur distribue un paquet de 6 cartes face cachée au centre de la table pour former le talon, puis distribue le reste aux joueurs, dans le sens antihoraire par groupes de 6, de sorte que chacun ait douze cartes.
 
-**The four kings**
+Le joueur en face du donneur peut frapper au lieu de couper. Dans ce cas, les cartes seront distribuées en paquets de 12. En commençant par le joueur à la droite du donneur, les joueurs peuvent choisir quel paquet ils souhaitent recevoir. Le donneur distribue les six premières cartes au talon comme d'habitude, puis distribue le reste en paquets de 12, en donnant chaque paquet au joueur qui l'a demandé.
 
-**The four queens**
+En cas de mauvaise distribution, le donneur doit payer Kč 1,00 à chacun des autres joueurs.
 
-**The four riders**
+## Les enchères
 
-**The four jacks**
+Les enchères possibles, par ordre croissant, sont :
 
-## The deal
+- **povinnost**, ou **základni povinnost** (premier devoir) — dans lequel l'enchérisseur échange avec le talon et appelle un partenaire ;
 
-The first dealer is chosen by cutting cards (highest card deals); subsequently the turn to deal passes to the right after each hand. The dealer shuffles and the player sitting **opposite** to the dealer cuts the cards. The dealer deals a packet of 6 cards face down to the centre of the table to form the talon, and then deals out the remainder of the cards to the players, anticlockwise in batches of 6, so that everyone has twelve cards.
+- **druhá povinnost** (deuxième devoir) — similaire à *základni povinnost*, avec la condition supplémentaire que l'enchérisseur s'engage à essayer de gagner le dernier pli avec le pagát ;
 
-The player opposite the dealer can knock instead of cutting the cards. In that case the cards will be given out in batches of 12. Starting with the player to dealer's right, the players can choose which batch they want to receive - for example this player might ask for the second batch, the player opposite the dealer might ask for the fourth, the player to dealer's left might ask for the first, and the dealer would then have to take the second batch. The dealer deals the first six cards to the talon as usual, and then deals the remainder in batches of 12, giving each batch to the player who asked for it.
+- **trojka**, ou **preferanc** — dans lequel l'enchérisseur échange avec le talon mais joue seul ;
 
-In the event of a misdeal, the dealer should pay Kč 1.00 to each of the other players.
+- **sólo** — dans lequel l'enchérisseur joue seul sans échanger de cartes avec le talon.
 
-## The bidding
+Chaque joueur n'a qu'un seul tour de parole, en commençant par le joueur à la droite du donneur (le premier joueur — appelé **předák** en tchèque) et en continuant dans le sens antihoraire autour de la table. Le premier joueur n'est pas autorisé à passer, mais doit enchérir *povinnost*, *trojka* ou *sólo*. Les joueurs suivants peuvent soit passer, soit nommer une enchère supérieure à l'enchère précédente.
 
-The possible bids, in ascending order are:
+Notez que :
 
-- **povinnost**, or **základni povinnost** (first duty) - in which the bidder exchanges with the talon and calls a partner;
+- le premier joueur ne peut pas enchérir *druhá povinnost* ;
 
-- **druhá povinnost** (second duty) - which is similar to *základni povinnost*, with the additional condition that the bidder undertakes to try to win the last trick with the pagát;
+- les trois autres joueurs ne peuvent pas enchérir *základni povinnost*, mais si le premier joueur commence par *povinnost*, l'un des autres peut enchérir *druhá povinnost* s'il détient le pagát ;
 
-- **trojka**, or **preferanc** - in which the bidder exchanges with the talon but plays alone;
+- comme il n'y a qu'un seul tour d'enchères, si vous voulez enchérir *trojka* ou *sólo*, vous devez le dire à votre tour.
 
-- **sólo** - in which the bidder plays alone without exchanging cards with the talon.
+Le joueur qui fait la dernière et plus haute enchère est appelé l'enchérisseur (en tchèque **vydražitel**). Ce joueur peut maintenant appeler un partenaire et tirer des cartes du talon, selon l'enchère.
 
-The meanings of these bids will be explained in more detail below.
+## Les contrats possibles ; appel d'un partenaire et utilisation du talon
 
-Each player has only one turn to speak, beginning with the player to the right of the dealer (the first player - known as **předák** in Czech) and continuing anticlockwise around the table. The first player is not allowed to pass, but must bid *povinnost*, *trojka* or *sólo*. Subsequent players can either pass or name a bid higher than the previous bid.
+### Základni povinnost (premier devoir)
 
-Notice that:
+L'enchérisseur, qui est le premier joueur dans ce cas, appelle une carte — généralement le tarok **XIX**, aussi appelé **stará** (le vieux). Le détenteur de la carte appelée sera le partenaire de l'enchérisseur, mais ce joueur ne doit rien dire ni faire pour révéler qui il est — les partnerships ne sont découverts qu'au cours du jeu, par exemple quand la carte appelée est jouée. Un enchérisseur qui détient le **XIX** est autorisé à appeler le **XVIII** (**mladá** — le jeune) à la place. Si l'enchérisseur détient le **XIX** et le **XVIII**, le **XVII** peut être appelé, et ainsi de suite. Les taroky en dessous du **XVI** ne peuvent pas être appelés.
 
-- the first player cannot bid *druhá povinnost* (in fact there would be no point in doing so as the intention to win the last trick with the pagát can be announced later);
+Alternativement, si vous enchérissez *povinnost*, vous êtes toujours autorisé à appeler le **XIX** même si vous le détenez vous-même. Si vous détenez la carte appelée, vous n'aurez bien sûr pas de partenaire — vous jouerez seul contre les trois autres joueurs, bien qu'ils ne s'en rendent pas compte au début.
 
-- the other three players cannot bid *základni povinnost*, but if the first player starts with *povinnost*, one of the others can bid *druhá povinnost* if they hold the pagát;
+Ayant appelé un tarok, l'enchérisseur tire les quatre premières cartes du talon, sans les montrer aux autres joueurs, puis écarte quatre cartes face cachée. Les deux joueurs suivants à tour de rôle (le joueur à la droite de l'enchérisseur et le joueur en face de l'enchérisseur) tirent chacun une carte du talon et en écartent une. Les cartes écartées ne doivent pas inclure de cartes à 5 points (rois, škýz, mond et pagát). Il n'est pas permis d'écarter des taroky sauf si on n'a pas d'alternative. Tout tarok écarté doit être posé face visible. Toutes les cartes écartées comptent à la fin du jeu en faveur de l'équipe du joueur qui a fait l'écart.
 
-- as there is only one round of bidding, if you want to bid *trojka* or *sólo* you need to say so at your turn. If you start with *povinnost* and someone else bids higher, you have no opportunity to increase your own bid.
+Si l'enchérisseur tire du talon sans avoir d'abord appelé une carte, on suppose que le **XIX** est appelé.
 
-The player who makes the last and highest bid is known as the bidder (in Czech the word is **vydražitel**). This player may now call a partner and draw cards from the talon, according to the bid.
+L'enchérisseur d'une *povinnost* doit toujours tirer quatre cartes et en écarter quatre. Il est possible que l'un des deux autres joueurs ayant droit à une carte ne souhaite pas en tirer — probablement parce qu'il veut préserver une déclaration. Dans ce cas, le joueur peut passer, et le joueur à la gauche de l'enchérisseur tirera la dernière carte du talon.
 
-## The possible contracts; calling a partner and using the talon
+Si la carte appelée est dans le talon, le joueur qui la tire devient le partenaire de l'enchérisseur. Si la carte appelée est tirée par l'enchérisseur, celui-ci n'a pas de partenaire. Dans ce cas, l'enchérisseur est autorisé à se rendre immédiatement, sans jouer la main, et doit payer Kč 1,00 à chaque adversaire. Alternativement, l'enchérisseur peut continuer à jouer seul.
 
-### Základni povinnost (first duty)
+Si le premier joueur enchérit *povinnost* et que tous les autres passent, il y a une autre option : au lieu d'appeler un tarok, le premier joueur peut choisir de jouer une partie de **Varšava** (Varsovie), dans laquelle le but est d'éviter de gagner des plis contenant des points de carte.
 
-The bidder, who is the first player in this case, calls a card - usually tarok **XIX**, also known as **stará** (the old one). The holder of the called card will be the bidder's partner, but this player must not say or do anything to reveal who they are - the partnerships are only discovered during the course of play, for example when the called card is played. A bidder who holds the **XIX** is allowed to call the **XVIII** (**mladá** - the young one) instead. If the bidder holds the **XIX** and **XVIII**, the **XVII** can be called, and a bidder who holds the **XIX**, **XVIII** and **XVII** can call the **XVI**. Taroky below the **XVI** cannot be called. 
+### Druhá povinnost (deuxième devoir)
 
-Alternatively, if you bid *povinnost* you are always allowed to call the **XIX** even if you hold it yourself. If you hold the called card you will of course not have a partner - you will be playing alone against the other three players, though they will not realise this at first. It is only with the **XIX** that you are allowed to call yourself in this way; calling the **XVIII**, **XVII** or **XVI** promises that you do **not** hold the called card, and that you **do** hold all the higher callable taroky up to and including the **XIX**. If you badly wanted to play alone, you could of course have bid *trojka* instead of *povinnost*.
+C'est presque identique à la *základni povinnost*. Les différences sont :
 
-Having called a tarok, the bidder draws the top four cards of the talon, without showing them to the other players, and then discards any four cards face down. The next two players in turn (the player to the bidder's right and the player opposite the bidder) also each draw one card from the talon and discard one. The discarded cards must not include any 5-point cards (kings, škýz, mond and pagát). It is not permitted to discard taroky unless you have no alternative (your remaining hand consists entirely of taroky and kings). Any taroky discarded must be placed face up, so that all the players know which taroky are in play. All discarded cards count at the end of the game along with the tricks won by the player who made the discard, in favour of that player's team.
+- l'enchérisseur s'engage à gagner le dernier pli avec le pagát — cela est payé indépendamment du jeu, exactement comme un pagát annoncé dans n'importe quel contrat ;
 
-If the bidder draws from the talon without first calling a card, it is assumed that the **XIX** is called.
+- il n'y a pas d'option de jouer *Varšava* à la place ;
 
-The bidder of a *povinnost* must always draw four cards and discard four. It is possible that one of the other two players entitled to draw a card may not wish to draw - probably because they wish to preserve a declaration. In this case, the player who does not want a card from the talon can pass instead, and the player to the left of the bidder will draw the last card from the talon. It is not possible for two players to pass the option to draw from the talon.
+- si l'enchérisseur tire la carte appelée du talon, le jeu doit continuer — il n'y a pas d'option de se rendre.
 
-If the called card is in the talon, then the player who draws it will of course become the bidder's partner. If the called card is drawn by the bidder, the bidder has no partner. In this case the bidder is allowed to surrender immediately, without playing the hand, and must pay Kč 1.00 to each opponent. Alternatively, the bidder can play on alone against the other three players.
+### Trojka, ou preferanc
 
-If the first player bids *povinnost* and everyone else passes there is another option, which the first player will prefer with a hand weak in taroks and high cards. Instead of calling a tarok, the first player can choose to play a game of **Varšava**, in which the object is to avoid winning tricks containing card points. The details will be explained later.
+Si vous enchérissez *trojka*, vous jouez seul ; les trois autres jouent comme une seule équipe contre vous.
 
-### Druhá povinnost (second duty)
+Vous commencez par regarder les trois premières cartes du talon, sans les montrer aux adversaires. Vous avez deux options :
 
-This is almost the same as the *základni povinnost*. The differences are:
+- ajouter ces trois cartes à votre main et écarter trois cartes (les restrictions d'écart sont les mêmes que pour *povinnost*) ; les trois autres cartes du talon sont comptées avec les plis de vos adversaires ; c'est ce qu'on appelle jouer au **premier niveau** ;
 
-- the bidder undertakes to win the last trick with the pagát - this is paid for independently of the game, exactly like an announced pagát in any game, as explained below;
+- poser les trois premières cartes du talon face visible sur la table et ramasser les trois suivantes.
 
-- there is no opportunity to play *Varšava* instead;
+Si vous regardez les trois cartes suivantes du talon, vous avez encore deux options :
 
-- if the bidder draws the called card from the talon, the game must continue - there is no opportunity to surrender.
+- les ajouter à votre main et écarter trois face cachée ; la première partie du talon, rejetée et exposée, est retournée face cachée et comptée avec les plis de vos adversaires ; c'est le **deuxième niveau** ;
 
-### Trojka, or preferanc
-
-If you bid *trojka*, you play alone; the other three play as a single team against you.
-
-You begin by looking at the top three cards from the talon, without showing them to the other players, but keeping them separate from your hand. You have two options:
-
-- add these three cards to your hand and discard three cards (the restrictions on discarding are the same as for *povinnost* - no 5-point cards and no taroky unless forced); the other three talon cards are counted with your opponents' tricks but no one sees these cards until the end of the play; this is called playing on the **first level**;
-
-- place the first three talon cards face up on the table and pick up the second three, again without showing them to the opponents and keeping them separate from your hand.
-
-If you look at the second three cards from the talon you again have two options: 
-
-- add these three cards to your hand and discard three face down; the first part of the talon, which you rejected and exposed on the table, is turned face down and counted with your opponents' tricks at the end of the play; this is called playing on the **second level**;
-
-- place the second three cards face up on the table, pick up the first three cards again and add them to your hand, and discard three cards face down; the second part of the talon, which you rejected and exposed on the table, is turned face down and counted with your opponents' tricks at the end of the play; this is called playing on the **third level**.
+- poser la deuxième partie face visible, ramasser la première et ajouter ces trois cartes à votre main, et écarter trois cartes face cachée ; c'est le **troisième niveau**.
 
 ### Sólo
 
-If you bid *sólo*, you play alone; the other three play as a single team against you. No one sees the talon until after the play. The six talon cards are then counted with your opponents' tricks.
+Si vous enchérissez *sólo*, vous jouez seul. Personne ne voit le talon avant la fin du jeu. Les six cartes du talon sont comptées avec les plis de vos adversaires.
 
-## The announcements
+## Les annonces
 
-Before the play begins, players can make announcements. The players speak in turn, beginning with the bidder, and continuing anticlockwise around the table. There are three possible types of announcements:
+Avant que le jeu ne commence, les joueurs peuvent faire des annonces. Les joueurs parlent à tour de rôle, en commençant par l'enchérisseur et en continuant dans le sens antihoraire. Il y a trois types possibles d'annonces :
 
-- announcements of an intention to score a bonus in the play;
+- annonces d'une intention de marquer un bonus pendant le jeu ;
 
-- declarations which give information that one holds certain combinations of cards;
+- déclarations qui donnent des informations sur certaines combinaisons de cartes détenues ;
 
-- doubling the score for the game or an announcement made by an opponent.
+- doublement du score du jeu ou d'une annonce faite par un adversaire.
 
-### Bonuses
+### Bonus
 
-Pagát The **pagát** bonus occurs when someone plays the pagát (tarok **I**) to the last trick. If the pagát wins the trick, the team wins a bonus of Kč 1.00; if it does not win (because some other player still has a tarok), the team which played the pagát loses Kč 1.00. Note that the team with the pagát loses this bonus even if the last trick is won by a partner of the person who played the pagát.
+Pagát Le bonus **pagát** se produit lorsque quelqu'un joue le pagát (tarok **I**) au dernier pli. Si le pagát gagne le pli, l'équipe gagne un bonus de Kč 1,00 ; s'il ne gagne pas (parce qu'un autre joueur a encore un tarok), l'équipe qui a joué le pagát perd Kč 1,00. Notez que l'équipe avec le pagát perd ce bonus même si le dernier pli est gagné par le partenaire du joueur qui a joué le pagát.
 
-The holder of the pagát can announce the **pagát** bonus before the start of play, promising to win the last trick with the pagát. If this succeeds, the team wins Kč 2.00 instead of Kč 1.00. It can fail in two ways:
+Le détenteur du pagát peut annoncer le bonus **pagát** avant le début du jeu, en promettant de gagner le dernier pli avec le pagát. Si cela réussit, l'équipe gagne Kč 2,00 au lieu de Kč 1,00. Cela peut échouer de deux manières :
 
-- the announcer is forced to play the pagát before the last trick;
+- l'annonceur est forcé de jouer le pagát avant le dernier pli ;
 
-- the announcer plays the pagát to the last trick but some other player (opponent or partner) beats it with a higher tarok.
+- l'annonceur joue le pagát au dernier pli mais un autre joueur le bat avec un tarok supérieur.
 
-In both cases the announcement is lost and the team has to pay Kč 2.00. 
-Note that if you announce pagát, you must keep the pagát in your hand for as long as you can, subject to the rules of play - if possible until the last trick. You are not permitted to play it early to save the card, if you notice that the bonus has become impossible.
-Valát A team which wins every trick is paid a bonus of Kč 7.00. This is in addition to what they win for the game. If you announce valát, you are promising that your team will win every trick. If this succeeds your team wins a bonus of Kč 14.00 instead of Kč 7.00 in addition to the payment for the game. If your team does not manage to take every trick, your team must pay Kč 14.00 for the failed valát.
+Dans les deux cas, l'annonce est perdue et l'équipe doit payer Kč 2,00. Notez que si vous annoncez pagát, vous devez garder le pagát en main aussi longtemps que possible, selon les règles de jeu — si possible jusqu'au dernier pli.
 
-### Declaring a combination
+Valát Une équipe qui gagne tous les plis reçoit un bonus de Kč 7,00, en plus de ce qu'elle gagne pour le jeu. Si vous annoncez valát, vous promettez que votre équipe gagnera tous les plis. Si cela réussit, votre équipe gagne Kč 14,00 au lieu de Kč 7,00 en plus du paiement du jeu. Si votre équipe ne réussit pas à prendre tous les plis, elle doit payer Kč 14,00 pour le valát manqué.
 
-There are certain combinations of cards which you can declare:
+### Déclarer une combinaison
 
-| Declaration | Cards held | Payment (Kč) |
-| Taroky | 10, 11 or 12 Taroky | 1.00 |
-| Taročky | 8 or 9 Taroky | 0.50 |
-| Barvy | No tarok, or the pagát only | 1.00 |
-| Barvičky | One tarok (not the pagát) or two taroky | 0.50 |
-| Trul | Škýz, mond (XXI) and pagát (I) | 0.50 |
-| Honery | Four or more of the seven 5-point cards | 0.50 |
-| Královské honery | Four kings | 1.00 |
+Il existe certaines combinaisons de cartes que vous pouvez déclarer :
 
-If you have four kings you must automatically have *honery* as well. The payment of Kč 1.00 for *královské honery* already includes the 0.50 for *honery* - in fact it is made up of 0.50 for *honery* and another 0.50 for the kings. 
+| Déclaration | Cartes détenues | Paiement (Kč) |
+| Taroky | 10, 11 ou 12 Taroky | 1,00 |
+| Taročky | 8 ou 9 Taroky | 0,50 |
+| Barvy | Pas de tarok, ou seulement le pagát | 1,00 |
+| Barvičky | Un tarok (pas le pagát) ou deux taroky | 0,50 |
+| Trul | Škýz, mond (XXI) et pagát (I) | 0,50 |
+| Honery | Quatre ou plus des sept cartes à 5 points | 0,50 |
+| Královské honery | Quatre rois | 1,00 |
 
-Declarations can be combined. For example if you have *trul* plus one or more kings you can declare **Trulhonery** (*trul* plus *honery*) for Kč 1.00. If you are lucky enough to be dealt all seven five-point cards, you have *trul* and *královské honery* and can claim Kč 1.50. On the other hand you might have *barvy* or *barvičky* together with *honery* or *královské honery*. Again, the payments for the declared combinations are added.
+Si vous avez quatre rois, vous avez automatiquement *honery*. Le paiement de Kč 1,00 pour *královské honery* inclut déjà les 0,50 pour *honery*.
 
-### Doubles and redoubles
+Les déclarations peuvent être combinées. Par exemple, si vous avez *trul* plus un ou plusieurs rois, vous pouvez déclarer **Trulhonery** (*trul* plus *honery*) pour Kč 1,00.
 
-Any player can double the payment for the game or for a pagát or valát announced by the opposing team by saying **kontra**, or more usually **flek**. The game, pagát and valát can be doubled independently, so if pagát or valát has been announced, the player saying *flek* must specify exactly what is being doubled. Any player belonging to the team whose game or announcement has been doubled can double the score for it again by saying **reflek** (or **rekontra**). If this happens, either member of the team that said *flek* (*kontra*) can double the score a third time by saying **super** (or **superkontra**).
+### Doubles et redoubles
 
-### Procedure for making announcements
+N'importe quel joueur peut doubler le paiement du jeu ou d'un pagát ou valát annoncé par l'équipe adverse en disant **kontra**, ou plus généralement **flek**. Le jeu, le pagát et le valát peuvent être doublés indépendamment. Tout joueur appartenant à l'équipe dont le jeu ou l'annonce a été doublé peut redoubler en disant **reflek** (ou **rekontra**). Si cela se produit, n'importe quel membre de l'équipe qui a dit *flek* (*kontra*) peut tripler le score en disant **super** (ou **superkontra**).
 
-Normally, each player, beginning with the bidder and going around the table anticlockwise, speaks just once, making any appropriate announcements or declarations, or passing if they have nothing to say. A player who has already had their turn may speak again to say *flek*, *reflek* or *super*, but announcements of pagát or valát and declarations of card combinations may no longer be made at this stage.
+### Procédure pour faire des annonces
 
-## The play
+Normalement, chaque joueur, en commençant par l'enchérisseur et en parcourant la table dans le sens antihoraire, parle une seule fois, en faisant les annonces ou déclarations appropriées, ou en passant s'il n'a rien à dire. Un joueur qui a déjà eu son tour peut reparler pour dire *flek*, *reflek* ou *super*, mais les annonces de pagát ou valát et les déclarations de combinaisons ne peuvent plus être faites à ce stade.
 
-The player to the right of the dealer leads to the first trick. Players are obliged to follow suit. A player who has no card of the suit led **must** play a tarok. If a tarok is led, the other players must play taroky if they have them. A player who has no card of the suit led and no tarok is free to play any card. The trick is won by the highest tarok in it, or (if it contains no tarok) by the highest card of the suit led. The winner of each trick leads to the next.
+## Le jeu
 
-Players keep the tricks they have won in a face-down pile in front of them, along with any cards they discarded. When the called tarok is played in a *povinnost*, the partnerships become clear and partners can combine their tricks and discards into a single pile.
+Le joueur à la droite du donneur entame le premier pli. Les joueurs sont obligés de suivre l'enseigne. Un joueur qui n'a pas de carte de l'enseigne entamée **doit** jouer un tarok. Si un tarok est entamé, les autres joueurs doivent jouer des taroky s'ils en ont. Un joueur qui n'a pas de carte de l'enseigne entamée et pas de tarok est libre de jouer n'importe quelle carte. Le pli est remporté par le tarok le plus élevé qu'il contient, ou (s'il n'y a pas de tarok) par la carte la plus haute de l'enseigne entamée. Le gagnant de chaque pli entame le suivant.
 
-## The scoring
+Les joueurs gardent les plis qu'ils ont gagnés dans un tas face cachée devant eux, ainsi que toutes les cartes qu'ils ont écartées. Quand le tarok appelé est joué dans une *povinnost*, les partnerships deviennent clairs et les partenaires peuvent combiner leurs plis et écartés en un seul tas.
 
-At the end of the play, each of the teams counts the card points they have taken. The points taken by the two teams should add up to 70. The team with more points are paid for each point they have above 35, the rate being as follows:
+## Le comptage
 
-| Bid | Payment per point (Kč) |
-| Základni povinnost | 0.10 |
-| Druhá povinnost | 0.10 |
-| Trojka - first level | 0.10 |
-| Trojka - second level | 0.20 |
-| Trojka - third level | 0.30 |
-| Sólo | 0.60 |
+À la fin du jeu, chaque équipe compte les points de carte qu'elle a pris. Les points pris par les deux équipes doivent s'additionner à 70. L'équipe avec le plus de points est payée pour chaque point au-dessus de 35, au taux suivant :
 
-If the two teams take 35 card points each, the bidder's team has lost and the opponents win a fixed amount of Kč 0.10.
+| Enchère | Paiement par point (Kč) |
+| Základni povinnost | 0,10 |
+| Druhá povinnost | 0,10 |
+| Trojka - premier niveau | 0,10 |
+| Trojka - deuxième niveau | 0,20 |
+| Trojka - troisième niveau | 0,30 |
+| Sólo | 0,60 |
 
-In the case of a *flek*, *reflek* or *super*, the relevant payments are multiplied by 2, 4 or 8 as appropriate.
+Si les deux équipes prennent 35 points de carte chacune, l'équipe de l'enchérisseur a perdu et les adversaires gagnent un montant fixe de Kč 0,10.
 
-All payments, whether for the game, for bonuses or for declarations, are won or lost equally by all members of a team. When the bidder calls a partner and two play against two, each player pays to or receives from one player of the other team. When the bidder plays alone, the bidder is paid by all three opponents, or pays to all three opponents. 
+En cas de *flek*, *reflek* ou *super*, les paiements sont multipliés par 2, 4 ou 8 selon le cas.
 
-It is possible for a team to win some items and lose others on the same deal. 
+Tous les paiements, que ce soit pour le jeu, les bonus ou les déclarations, sont gagnés ou perdus de manière égale par tous les membres d'une équipe. Quand l'enchérisseur appelle un partenaire et que deux jouent contre deux, chaque joueur paie à ou reçoit d'un joueur de l'autre équipe. Quand l'enchérisseur joue seul, il est payé par les trois adversaires, ou paie aux trois adversaires.
 
-**Example:** South deals. East is the first player, and plays a *povinnost*, calling the **XIX**, which turns out to be held by North. West declares *barvičky*, and South says *flek*. East and North take 39 card points. East and North win 0.80 for having 4 points more than 35, and South and West win 0.50 for West's *barvičky*. The net gain for East and North is 0.30, so West pays 0.30 to North and South pays 0.30 to East. 
+Il est possible pour une équipe de gagner certains postes et d'en perdre d'autres lors de la même donne.
 
-**Example:** East deals, and South plays a *trojka* on the third level, declares *taročky* and *trulhonery*, takes 47 points, and succeeds in winning the last trick with the pagát, without having announced it. South wins 3.60 for the game, 0.50 for the *taročky* and 1.00 for the *pagát*. Each of the other three players pays 5.10 to South.
+**Exemple :** Sud distribue. Est est le premier joueur et joue une *povinnost*, en appelant le **XIX**, qui se révèle être détenu par Nord. Ouest déclare *barvičky*, et Sud dit *flek*. Est et Nord prennent 39 points de carte. Est et Nord gagnent 0,80 pour avoir 4 points de plus que 35, et Sud et Ouest gagnent 0,50 pour la *barvičky* d'Ouest. Le gain net d'Est et Nord est de 0,30, donc Ouest paie 0,30 à Nord et Sud paie 0,30 à Est.
 
-To save time, it is generally agreed that a *povinnost* bid with no *flek* and no pagát or valát announced is thrown in without play. The bidder and partner are assumed to win the minimum amount of Kč 0.10, and any valid declarations of card combinations are also paid for.
+**Exemple :** Est distribue et Sud joue une *trojka* au troisième niveau, déclare *taročky* et *trulhonery*, prend 47 points, et réussit à gagner le dernier pli avec le pagát, sans l'avoir annoncé. Sud gagne 3,60 pour le jeu, 0,50 pour les *taročky* et 1,00 pour le *pagát*. Chacun des trois autres joueurs paie 5,10 à Sud.
+
+Pour gagner du temps, il est généralement convenu qu'une enchère *povinnost* sans *flek* et sans pagát ou valát annoncé est abandonnée sans être jouée.
 
 ## Varšava
 
-If the first player says *povinnost* and the other three all pass, the first player has the option, instead of calling a card, to declare a **Varšava** (Warsaw). This is a special game in which all four players play as individuals and try to avoid taking tricks containing card points. The player who takes most card points has to pay the others.
+Si le premier joueur dit *povinnost* et que les trois autres passent tous, le premier joueur a l'option, au lieu d'appeler une carte, de déclarer une **Varšava** (Varsovie). C'est un jeu spécial dans lequel les quatre joueurs jouent en individuels et essaient d'éviter de gagner des plis contenant des points de carte. Le joueur qui prend le plus de points de carte doit payer les autres.
 
-In a Varšava, no declarations, announcements or bonuses are available. As usual, the player to the dealer's right leads to the first trick. Players must follow suit, and play a tarok if they have no card of the suit led. There are three additional constraints.
+Dans une Varšava, il n'y a pas de déclarations, d'annonces ni de bonus. Comme d'habitude, le joueur à la droite du donneur entame le premier pli. Les joueurs doivent suivre l'enseigne et jouer un tarok s'ils n'ont pas de carte de l'enseigne entamée. Il y a trois contraintes supplémentaires.
 
-- **Compulsory overtaking**. Subject to the rules of following suit, each player must if possible play a card which beats all the cards so far played to the trick.
+- **Surpassement obligatoire**. Sous réserve des règles de suivi d'enseigne, chaque joueur doit si possible jouer une carte qui bat toutes les cartes jouées au pli jusqu'ici.
 
-- **Playing the pagát**. It is illegal to play the pagát until it is the only tarok left in your hand.
+- **Jeu du pagát**. Il est illégal de jouer le pagát tant qu'il n'est pas le seul tarok restant dans votre main.
 
-- **Playing the mond**. It is illegal to lead the mond (**XXI**), or to play it to a trick to which the škýz has already been played, unless the mond is the only tarok left in your hand, or the only taroky you have left are the mond and the pagát. However, the mond can be played (subject to the rules of following suit) to beat a lower tarok or to trump a suit card.
+- **Jeu du mond**. Il est illégal d'entamer le mond (**XXI**), ou de le jouer à un pli auquel le škýz a déjà été joué, sauf si le mond est le seul tarok restant dans votre main, ou si les seuls taroky restants sont le mond et le pagát.
 
-The six talon cards are given to the winners of the first six tricks. This is done by the first player, who at the end of each of the first six tricks turns over the top card of the talon and places it face up on top of the trick. The talon card does not have any effect on who wins the trick, but the winner takes all 5 cards and leads to the next trick. 
+Les six cartes du talon sont données aux gagnants des six premiers plis. À la fin d'une *Varšava*, les quatre joueurs comptent séparément les points de carte qu'ils ont pris. Le perdant est celui qui a pris le plus de points et doit payer les trois autres joueurs :
 
-At the end of a *Varšava*, all four players separately count the card points they have taken. The loser is the player who has taken most points, and must pay all three of the other players. The payment depends on the number of points taken by the loser:
+| jusqu'à 29 points | payer Kč 1,00 |
+| 30 à 39 points | payer Kč 2,00 |
+| 40 points ou plus | payer Kč 4,00 |
 
-| up to 29 points | ........ | pay Kč 1.00 |
-| 30 to 39 points | ........ | pay Kč 2.00 |
-| 40 or more points | ........ | pay Kč 4.00 |
+Tout joueur qui ne prend aucun pli est payé double.
 
-Any player who takes no tricks is paid double.
+Si deux joueurs sont à égalité pour le plus de points, ils doivent partager le paiement.
 
-If two players tie for most points, they must share the payment. For example, if two players take 26 points each and one player takes no trick, the player without a trick is entitled to receive Kč 2.00 and the other winner receives Kč 1.00, so the losers must pay Kč 1.50 each.
-
-## Variations
+## Variantes
 
 ### Abeles
 
-This is a variation in the deal, named after the coffee house in Vienna where it was invented at the start of the 20th century. If the player opposite the dealer knocks instead of cutting the cards, the dealer can choose to deal the cards as follows: six to the talon, then six to the dealer, then twelve each to the other players in turn, and the final six to the dealer.
+C'est une variante de distribution, nommée d'après le café viennois où elle a été inventée au début du XXe siècle. Si le joueur en face du donneur frappe au lieu de couper, le donneur peut choisir de distribuer les cartes ainsi : six au talon, puis six au donneur, puis douze à chaque autre joueur à tour de rôle, et les six derniers au donneur.
 
-### Use of the Talon
+### Utilisation du talon
 
-In tournament play, the players to the right of and opposite the player of a *povinnost* are obliged to take a card from the talon and discard - they are not allowed to pass this opportunity on to the fourth player. On the other hand, some informal groups allow both the players who are entitled to a talon card to refuse it, in which case the fourth player takes a card and the final card is taken by the bidder, who therefore draws 5 cards intead of 4.
+En jeu de tournoi, les joueurs à la droite et en face de l'enchérisseur d'une *povinnost* sont obligés de prendre une carte du talon et d'en écarter une — ils ne sont pas autorisés à passer cette opportunité au quatrième joueur.
 
-Věkoslav Němčík has described the **'Ostrava variant'**, played by some groups in Olomouc and presumably also in Ostrava, where in a *základni povinnost* the bidder draws only one card from the talon, the player to the right draws two and the next player draws three (the fourth player gets nothing fronm the talon as usual). The idea behing placing the bidder at such a disadvantage is to make a *flek* from one of the opponents be more likely, causing the cards to be played out rather than allowing the bidder to win without play. This change does not apply in a *druhá povinnost* where the talon cards are distributed in the normal way: 4-1-1.
+Věkoslav Němčík a décrit la **« variante d'Ostrava »**, jouée par certains groupes à Olomouc et probablement aussi à Ostrava, où dans une *základni povinnost* l'enchérisseur ne tire qu'une carte du talon, le joueur à la droite en tire deux et le suivant en tire trois.
 
-### Exposing the talon in trojka
+### Déclarations
 
-Some play that in a trojka, the top three cards of the talon are never exposed to the opponents, and the bottom three are only exposed after the bidder decides to reject them and play on the third level.
+À la place de *barvy* et *barvičky*, certains joueurs ne reconnaissent qu'une seule déclaration, appelée **barvy**, pour laquelle le joueur doit détenir au plus deux taroky. Dans cette variante, *barvy* vaut 0,50.
 
-### Declarations
+### Variantes de Varšava
 
-In place of *barvy* and *barvičky*, some players only recognise a single declaration, called **barvy**, for which the player must hold not more than two taroky. In this variation *barvy* is worth 0.50.
+Il existe d'autres façons de compter *Varšava*. Par exemple, certains jouent que le perdant paie 0,50 à chaque autre joueur, doublé si le perdant a pris 35 points ou plus.
 
-### Variations of Varšava
+Certains joueurs n'imposent pas de restrictions sur le jeu du *mond*.
 
-There are other ways of scoring *Varšava*. For example some play that the loser pays 0.50 to each other player, doubled if the loser took 35 or more points, and with a double payment to anyone who took no trick.
+### Le Žid
 
-Some players do not impose restrictions on playing the *mond*.
+Certains jouent avec un pot, dans lequel des amendes sont payées pour les irrégularités. Quand on joue avec un pot, les paiements pour Varšava ne vont qu'à ce pot. Quiconque prend plus qu'un certain nombre de points doit payer au pot.
 
-### The Žid
+Dans cette version, quand Druhá povinnost est enchéri, le déclarant et le partenaire prennent le pot et se le partagent également si le Pagát réussit — en plus de ce qu'ils reçoivent des adversaires. Ils ne doivent pas payer le pot si le Pagát échoue.
 
-Some play with a pool, into which fines are paid for any irregularities, such as revokes. When playing with a pool, payments for Varšava are paid only to this pool. Anyone who takes more than a certain number of points must pay to the pool, on a scale such as 1.00 for 19 to 28 points; 2.00 for 29 to 38 points; 3.00 for 39 or more points.
+Le pot est populairement appelé « Žid », qui signifie Juif. Les joueurs nient vigoureusement toute intention antisémite, affirmant que le Žid est regardé par les joueurs avec beaucoup de respect, étant l'arbitre du jeu, qui est payé pour toute infraction aux règles.
 
-In this version of the game, when Druhá povinnost is bid, the declarer and partner take the pool and share it equally between them is the Pagát is successful - this is in addition to what they receive from the opponents. They do not have to pay the pool if the Pagát fails. If Kontra is said to the Pagát then the pool will not be taken, but one side will pay the other an amount equal to what is in the pool, according to whether the Pagát is successful or not (that is, each player pays half what is in the pool), in addition to the normal payments. In case of a Rekontra, each player would pay or receive twice as much, i.e. the whole value of the pool.
+## Taroki polonais
 
-Note that these pool payments for Pagát only apply in a Druha povinnost, not when Pagát is announced in addition to some other contract. Therefore in this variation, the first player should take care to open the bidding with Druha povinnost, not Základni povinnost, if intending to announce the Pagát.
+Taroki se joue dans le sud de la Pologne, autour de Czechowice-Dziedzice et surtout à Zabrzeg. Le jeu est très similaire au Taroky tchèque, mais avec des différences de règles et de terminologie.
 
-The pool is popularly known as "Žid", which means Jew. The players strenuously deny any anti-semitic intention, claiming that the Žid is regarded by the players with great respect, being the arbiter of the game, who is paid for any infractions of the rules.
+Les atouts sont appelés *taroki*. L'atout le plus élevé est le *skiż*, le XXI est le *mund* et le I est le *pagat*. Un joueur qui n'a reçu aucun atout, ou un seul atout d'honneur (*skiż*, *mund* ou *pagat*) sans autre atout, ou seulement le *mund* et le *pagat* sans autre atout, peut (mais n'est pas obligé de) jeter la main avant le début des enchères sans score, et le même joueur redistribue.
 
-## Polish Taroki
+Les quatre contrats sont les mêmes que dans le jeu tchèque, mais leurs noms, par ordre croissant, sont *powinność*, *pagat*, *brewer* et *zolo brewer*. Si le premier joueur enchérit *powinność* et que les autres passent tous, le premier joueur doit appeler un partenaire : il n'y a pas d'option de jouer un jeu négatif à la place (pas d'équivalent de *Varšava*).
 
-Taroki is played in southern Poland, around Czechowice-Dziedzice and especially in Zabrzeg. The game is very similar to Czech Taroky, but with some differences in rules and terminology as follows.
+Les bonus *pagat* (gagner le dernier pli avec le I) et *walat* (gagner tous les plis) peuvent être annoncés. Un joueur dont l'enchère est *pagat* doit bien sûr annoncer *pagat*. Les scores peuvent être doublés, redoublés, etc., les noms des doubles étant *kontra*, *re*, *sub*, *mord*.
 
-Trumps are called *taroki*. The highest trump is the *skiż*, the XXI is the *mund* and the I is the *pagat*. A player who is dealt no trumps at all, or just one trump honour (*skiż*, *mund* or *pagat) *and no other trumps, or just the *mund* and the *pagat* and no other trumps may (but is not obliged to) throw in the hand before the bidding begins for no score, and the same player deals again.
+Les déclarations possibles sont :
 
-The four contracts are the same as in the Czech game, but their names, in ascending order, are *powinność*, *pagat*, *brewer* and *zolo brewer*. If the first player bids *powinność* and the other players all pass, the first player must call a partner: there is no option to play a negative game instead (no equivalent of *Varšava*).
+| Déclaration | Cartes détenues | Score |
+| Barwy | 0, 1 ou 2 taroki | 3 |
+| Honery | 2 rois et 2 honneurs d'atout ou 3 rois et 1 honneur d'atout | 4 |
+| Trul | les trois honneurs d'atout (skiż, mund et pagat) | 5 |
+| Trul – honer | 3 honneurs d'atout plus 1, 2 ou 3 rois | 6 |
+| Kenix – trul | les quatre rois | 5 |
+| Kenix – trul – honer | 4 rois plus 1 ou 2 honneurs d'atout | 6 |
+| Mały tarok | 8 ou 9 taroki | 2 |
+| Duży tarok | 10, 11 ou 12 taroki | 4 |
 
-As usual the bonuses *pagat* (winning the last trick with the I) and *walat* (winning all the tricks) can be announced. A player whose bid was *pagat* must of course announce *pagat*. The scores for any contract or announcement can be doubled, redoubled, etc., the names of the doubles being *kontra*, *re*, *sub*, *mord*.
+Un joueur ne peut faire qu'une seule des déclarations de rois ou d'honneurs d'atout, sauf s'il a les sept cartes à 5 points, auquel cas il peut déclarer Trul et Kenix-trul pour un total de 10 points de jeu.
 
-The possible declarations, with their scores in game points, are:
+Au jeu, dans le cas exceptionnel où le *skiż*, le *mund* et le *pagat* sont tous joués au même pli, le ***pagat*** gagne le pli !
 
-| Declaration | Cards held | Score |
-| Barwy | 0, 1 or 2 taroki | 3 |
-| Honery | 2 kings and 2 trump honours or 3 kings and 1 trump honour | 4 |
-| Trul | all three trump honours (skiż, mund and pagat) | 5 |
-| Trul – honer | 3 trump honours plus 1, 2 or 3 kings | 6 |
-| Kenix – trul | all four kings | 5 |
-| Kenix – trul – honer | 4 kings plus 1 or 2 trump honours | 6 |
-| Mały tarok | 8 or 9 taroki | 2 |
-| Duży tarok | 10, 11 or 12 taroki | 4 |
+Pour obtenir le score de base du jeu, on soustrait les points de carte pris par le côté perdant de 35, on arrondit au multiple de 5 le plus proche, on divise par 5 puis on ajoute 1. Par exemple, si les perdants ont 27 points de carte, alors 35-27=8 arrondi à 10, divisé par 5 font 2, puis on ajoute 1 pour un score de base de 3 points de jeu.
 
-A player can make only one of the declarations of kings or trump honours unless he has all seven 5-point cards, in which case he can declare Trul and Kenix-trul for a total of 10 game points.
+Le score pour *pagat* est de 8 points de jeu s'il a été annoncé, et 4 s'il ne l'a pas été.
 
-In the play, in the exceptional case where the *skiż*, *mund* and *pagat* are all played to the same trick, the ***pagat*** wins the trick!
+Une équipe qui gagne tous les plis marque 20 points de jeu pour *walat*, ce qui supplante tous les autres paiements.
 
-To obtain the basic score for the game, subtract the card points taken by the losing side from 35, round to the nearest 5, divide by 5 and then add 1, For example, if the losers have 27 card points then 35-27=8 rounded up to 10, divide by 5 making 2, and then add 1 for a basic score of 3 game points.
+Il y a un pot appelé *żid* qui est vide au début de la session. Le contenu entier du pot est collecté par toute équipe qui annonce avec succès *pagat*, et partagé équitablement entre les membres de cette équipe.
 
-In *powinność* or *pagat*, the payment for the game is the basic score as above. In *brewer* the basic score is multiplied by 3 if the game is played at the first level, 2 if it is at the second level, and 1 if it is at the third level. Note that these multipliers are the **opposite** way around from those in Czech Taroky. If you look at more of the talon you **reduce** the value of the game. In *solo brewer* the basic score is multiplied by 6.
+**Note :** un type différent de Taroki, dans lequel un Roi plutôt que le XIX est appelé pour choisir un partenaire, se joue dans le village de Kozy, à l'est de Bielsko-Biała.
 
-The score for *pagat* is 8 game points if it was announced, and 4 game points if it was not announced. As usual, playing the pagat to the last trick is treated as an attempt to score the *pagat* bonus. If the *pagat* does not win the trick, the side that played it has to pay 4 game points, irrespective of whether the trick was won by the partner or an opponent of the *pagat* holder.
+## Taroky en Slovaquie
 
-A team that wins all the tricks scores 20 game points for *walat* and this supersedes all other payments. The payment for an announced *walat* is 40 game points, again superseding everything else.
+Igor Zmeták m'indique que la version de Taroky jouée à Trenčín est la même que le Taroky tchèque, sauf pour les différences suivantes.
 
-There is a pot called the *żid* which is empty at the start of the session, and various events cause game points to be paid to the pot as follows:
+Il y a des bonus supplémentaires :
 
-- The holder of the *pagat* must pay 5 game points to the pot if the *pagat* is captured by an opponent.
+- **Uhu** pour gagner l'avant-dernier pli avec le **II**,
 
-- The holder of the *mund* must pay 10 game points to the pot if the *mund* is captured by an opponent's.
+- **Kakadu** pour gagner l'avant-avant-dernier pli avec le **III**,
 
-- The holder of the *skiż* must pay 15 game points to the pot if the *skiż* is captured by an opponent's *pagat*. This can only happen if the *mund* is also played to the same trick - see above.
+- **Quapil** pour gagner le quatrième pli en partant de la fin avec le **IIII**.
 
-- If the net score for a hand, when the scores for the game and all bonuses and declarations are totalled, comes to zero game points, the declarer and his partner if any must by 5 game points each to the pot.
+Les scores de ces bonus sont les mêmes que pour pagát, et ils peuvent être annoncés à l'avance de la même manière.
 
-Note that the first three payments are made only by the individual player who loses the card: the player's partner is not affected.
+Une *druhá povinnost* (deuxième devoir) peut être enchérie avec uhu, kakadu ou quapil au lieu de pagát.
 
-The whole contents of the pot are collected any team that successfully announces *pagat*, and shared equally between the members of that team. Note that there is no corresponding payment to the pot for a failed *pagat* announcement - only the usual individual payment of 5 game points by the owner of the *pagat* if the card is lost to an opponent. The effect of this is that a risky *pagat* announcement becomes more and more attractive as the pot becomes larger.
+Le jeu négatif joué quand le premier joueur ne souhaite pas appeler de carte après que tous les autres ont passé est appelé **Trišák**, au lieu de Varšava.
 
-**Note:** a different type of Taroki, in which a king rather than the XIX is called to choose a partner, is played in the village of Kozy, east of Bielsko-Biała.
+## Autres sites et jeux en ligne pour Taroky
 
-## Taroky in Slovakia
+Vous pouvez jouer à Taroky en ligne sur le site [taroky.net](http://taroky.net/) qui propose des interfaces en tchèque et en anglais.
 
-Igor Zmeták tells me that the version of Taroky played in Trenčín is the same as Czech Taroky except for the following differences.
+Le site en langue tchèque [www.taroky.cz](http://www.taroky.cz/) est une source riche d'informations sur Taroky, y compris des détails sur les clubs et les tournois.
 
-There are additional bonuses: 
-
-- **Uhu** for winning the second to last trick with the **II**,
-
-- **Kakadu** for winning the thrid to last trick with the **III**,
-
-- **Quapil** for winning the fourth to last trick with the **IIII**.
-
-The scores for these bonuses are the same as for pagát, and they can be announced in advance in the same way. 
-
-A *druhá povinnost* (second duty) can be bid with uhu, kakadu or quapil instead of pagát. The bidder must state at the time of bidding the contract (so before seeing the talon) which of the four bonuses he will announce. Additional bonuses can of course be announced after the talon exchange.
-
-The negative game played when the first player does not wish to call a card after all the others have passed is called **Trišák**, instead of Varšava.
-
-## Other Taroky WWW Sites and online games
-
-You can play Taroky on line at the [taroky.net](http://taroky.net/) web site which has interfaces in Czech and English. 
-
-In the box to the right you can check how many players are currently on line.
-
-The Czech language site [www.taroky.cz](http://www.taroky.cz/) is a rich source of information about Taroky, including details of clubs and tournaments.
-
-Here is an archive copy of Branislav Hanaček's [Taroky page](https://web.archive.org/web/20010723170332/taroky.web-net.sk/), which gave the rules in Slovakian.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Taroky (Czech / Slovak)
+Voici une copie d'archive de la page [Taroky de Branislav Hanaček](https://web.archive.org/web/20010723170332/taroky.web-net.sk/), qui donnait les règles en slovaque.

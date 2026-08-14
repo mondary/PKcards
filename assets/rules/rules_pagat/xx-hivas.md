@@ -2,38 +2,39 @@
 
 **Nombre de cartes :** 42
 **Difficulté :** ⭐⭐⭐
-**Type :** Tarot, Tarot
-**But :** An excellent four-player card game using a 42-card Tarot pack, in which the bidder chooses a partner by calling trump XX.
+**Type :** Jeux de tarot, Jeux de tarot
+**But :** Un excellent jeu de cartes à quatre joueurs utilisant un jeu de Tarot de 42 cartes, dans lequel l'enchérisseur choisit un partenaire en appelant le tarock XX.
+**Autres noms :** Húszashívásos tarokk, Paskievics tarokk
 
 ---
 
-*The first version of this page was published in 1995, based on a description by Kirsty Healey and Matthew Macfadyen. In 1998 it was revised and expanded by John McLeod, making extensive use of comments and suggestions from Gábor Révész and Gyula Zsigri.* *Illustration from [Fortepan / Ladinek Viktor](https://fortepan.hu/hu/photos/?id=267300) (1914).*
+*La première version de cette page a été publiée en 1995, d'après une description de Kirsty Healey et Matthew Macfadyen. En 1998, elle a été révisée et enrichie par John McLeod, en utilisant largement les commentaires et suggestions de Gábor Révész et Gyula Zsigri.* *Illustration issue de [Fortepan / Ladinek Viktor](https://fortepan.hu/hu/photos/?id=267300) (1914).*
 
 ## Introduction
 
-This page describes basic Hungarian Tarokk, generally known as **Húszashívásos tarokk** (XX-calling tarokk), or **Paskievics tarokk** after Ivan Fyodorovich Paskevich, the prince of Warsaw who led Russian troops to Hungary to put down the Hungarian revolution and war of independence in 1848/49. Gyula Zsigri has suggested that there may be some connection between the year '48 and the 48 card points needed to win the game. It is a tarot game played with a shortened pack of 42 cards, with an advanced structure of bids and bonuses. The game was developed in the 19th century from a version of Austrian Zwanzigerrufen, and became the favourite game of the Hungarian establishment. It was discouraged during the communist era because of its association with the gentry, but in the current more liberal political climate, interest in this fine game may again be increasing. It is reported that according to the Austrian playing-card manufacturer Piatnik, sales of Tarokk cards in Hungary are currently around 3500 to 4000 packs per year.
+Cette page décrit le Tarokk hongrois de base, généralement connu sous le nom de **Húszashívásos tarokk** (tarokk à appel du XX), ou **Paskievics tarokk** d'après Ivan Fyodorovich Paskevich, prince de Varsovie qui mena des troupes russes en Hongrie pour réprimer la révolution et la guerre d'indépendance hongroise de 1848/49. Gyula Zsigri a suggéré qu'il pourrait y avoir un lien entre l'année '48 et les 48 points de cartes nécessaires pour gagner la partie. C'est un jeu de tarot joué avec un jeu réduit de 42 cartes, avec une structure avancée d'enchères et de bonus. Le jeu s'est développé au XIXe siècle à partir d'une version du Zwanzigerrufen autrichien, et est devenu le jeu favori de l'establishment hongrois. Il a été découragé pendant l'ère communiste en raison de son association avec la noblesse, mais dans le climat politique plus libéral actuel, l'intérêt pour ce beau jeu pourrait à nouveau augmenter. Selon le fabricant de cartes de jeu autrichien Piatnik, les ventes de cartes de Tarokk en Hongrie se situent actuellement autour de 3500 à 4000 jeux par an.
 
-Tarokk is a four-player game with partnerships that change from hand to hand and are initially unknown. In addition to the basic aim of taking the majority of card points in tricks there are additional bonuses for feats such as winning all the honours or all the kings in tricks, winning the last trick with the lowest trump or using the highest trump to capture the second highest trump (XXI) from an opponent . Achieving these bonuses is often more important than winning the basic game, especially as they can be announced in advance for a double score. To play well requires a high level of cooperation between partners, and a great deal of the skill in the game centres around finding out who is your partner and what they are trying to do, and helping them to achieve their aims.
+Le Tarokk est un jeu à quatre joueurs avec des partenariats qui changent de main en main et sont initialement inconnus. Outre le but de base de remporter la majorité des points de cartes en levées, il existe des bonus supplémentaires pour des exploits tels que remporter tous les honneurs ou tous les rois en levées, gagner la dernière levée avec le plus bas atout, ou utiliser le plus haut atout pour capturer le deuxième plus haut atout (XXI) d'un adversaire. Atteindre ces bonus est souvent plus important que gagner la partie de base, d'autant plus qu'ils peuvent être annoncés à l'avance pour un double score. Bien jouer exige un haut niveau de coopération entre partenaires, et une grande partie de l'habileté du jeu consiste à découvrir qui est votre partenaire et ce qu'il essaie de faire, et à l'aider à atteindre ses objectifs.
 
-Of interest to players who like games with an even greater range of options is **Illusztrált tarokk** (Illustrated Tarokk), in which six extra bonuses are added. There is a strong difference of opinion among Hungarian players as to whether the additional bonuses improve the game or spoil it. You can read Lóránt Kégl's arguments in favour of Paskievics tarokk and against the Illustrated version on his [Tarokk page for advanced players](https://lorantkegl.eu/tarokk_en.htm). Illustrated Tarokk is described on a separate pagat.com page.
+Les joueurs qui aiment les jeux offrant un éventail encore plus large d'options pourront s'intéresser au **Illusztrált tarokk** (Tarokk illustré), qui ajoute six bonus supplémentaires. Il existe un fort désaccord parmi les joueurs hongrois sur la question de savoir si les bonus supplémentaires améliorent le jeu ou le gâtent. Vous pouvez lire les arguments de Lóránt Kégl en faveur du Paskievics tarokk et contre la version illustrée sur sa [page Tarokk pour joueurs avancés](https://lorantkegl.eu/tarokk_en.htm). Le Tarokk illustré est décrit sur une page séparée de pagat.com.
 
-## Players and equipment
+## Joueurs et matériel
 
-### The players
+### Les joueurs
 
-Tarokk is basically a game for four players, in that there are four active participants at a time. However it is common for five to play, the dealer sitting out of each hand (this allows time for dealer to organise drinks, dispose of them, and so on). Like all tarot games it is a trick-taking game; the partnerships vary from hand to hand and are determined by a card called by the high bidder.
+Le Tarokk est fondamentalement un jeu pour quatre joueurs, en ce sens qu'il y a quatre participants actifs à la fois. Cependant, il est courant de jouer à cinq, le donneur étant exclu de chaque main (ce qui laisse au donneur le temps d'organiser les boissons, etc.). Comme tous les jeux de tarot, c'est un jeu de levées ; les partenariats varient d'une main à l'autre et sont déterminés par une carte appelée par le plus haut enchérisseur.
 
-### The cards
+### Les cartes
 
-Tarokk is played with a 42 card pack. There are four plain suits (hearts, diamonds, clubs and spades) each consisting of only five cards, and 22 tarokks, which function as trump cards. Tarokk cards are normally sold as a 54 card pack with eight cards in each plain suits; from this you remove the 7s, 8s and 9s of the black suits and the 2s, 3s and 4s of the red suits to leave the 42 cards needed for the game.
+Le Tarokk se joue avec un jeu de 42 cartes. Il y a quatre couleurs ordinaires (cœurs, carreaux, trèfles et piques), chacune composée de seulement cinq cartes, et 22 tarokks, qui fonctionnent comme des atouts. Les cartes de Tarokk sont normalement vendues en jeu de 54 cartes avec huit cartes dans chaque couleur ordinaire ; on retire les 7, 8 et 9 des couleurs noires et les 2, 3 et 4 des couleurs rouges pour obtenir les 42 cartes nécessaires au jeu.
 
-The cards have point values, the basic object of the game being to win more than half the points in tricks.
+Les cartes ont des valeurs en points, le but de base du jeu étant de remporter plus de la moitié des points en levées.
 
 ![Skíz](../images/tarock/s.jpg)
 ![XXI](../images/tarock/xxi.jpg)
 ![Pagát](../images/tarock/i.jpg)
 
-The highest tarokk is the **skíz**, which looks a little like a Joker. All the others bear Roman numerals, from the **XXI**, which is the second highest down to the lowest, the **I**, which is known as the **pagát**. The **skíz**, **XXI** and **pagát** are collectively known as **honours** *(honőrök)* and are worth **5 points** each. The highest two tarokks (**skíz** and **XXI**) are known as the **high honours** *(nagyhonőrök)*
+Le tarock le plus élevé est le **skíz**, qui ressemble un peu à un Joker. Tous les autres portent des chiffres romains, du **XXI**, qui est le deuxième plus élevé, jusqu'au plus bas, le **I**, connu sous le nom de **pagát**. Le **skíz**, le **XXI** et le **pagát** sont collectivement appelés **honneurs** *(honőrök)* et valent **5 points** chacun. Les deux tarocks les plus élevés (**skíz** et **XXI**) sont appelés les **hauts honneurs** *(nagyhonőrök)*.
 
 ![XX](../images/tarock/xx.jpg)
 ![XIX](../images/tarock/xix.jpg)
@@ -41,124 +42,124 @@ The highest tarokk is the **skíz**, which looks a little like a Joker. All the 
 ![VI](../images/tarock/vi.jpg)
 ![II](../images/tarock/ii.jpg)
 
-The 19 tarokks from XX down to II are worth just **1 point** each.
+Les 19 tarocks du XX au II valent seulement **1 point** chacun.
 
-![club king](../images/tarock/ck.jpg)
-![club queen](../images/tarock/cq.jpg)
-![club rider](../images/tarock/cc.jpg)
-![club jack](../images/tarock/cj.jpg)
-![club ten](../images/tarock/c10.jpg)
+![roi de trèfle](../images/tarock/ck.jpg)
+![dame de trèfle](../images/tarock/cq.jpg)
+![cavalier de trèfle](../images/tarock/cc.jpg)
+![valet de trèfle](../images/tarock/cj.jpg)
+![dix de trèfle](../images/tarock/c10.jpg)
 
-![spade king](../images/tarock/sk.jpg)
-![spade queen](../images/tarock/sq.jpg)
-![spade rider](../images/tarock/sc.jpg)
-![spade jack](../images/tarock/sj.jpg)
-![spade ten](../images/tarock/s10.jpg)
+![roi de pique](../images/tarock/sk.jpg)
+![dame de pique](../images/tarock/sq.jpg)
+![cavalier de pique](../images/tarock/sc.jpg)
+![valet de pique](../images/tarock/sj.jpg)
+![dix de pique](../images/tarock/s10.jpg)
 
-![king](../images/tarock/hk.jpg)
-![queen](../images/tarock/hq.jpg)
-![rider](../images/tarock/hc.jpg)
-![jack](../images/tarock/hj.jpg)
-![ace](../images/tarock/h1.jpg)
+![roi](../images/tarock/hk.jpg)
+![dame](../images/tarock/hq.jpg)
+![cavalier](../images/tarock/hc.jpg)
+![valet](../images/tarock/hj.jpg)
+![as](../images/tarock/h1.jpg)
 
-![king](../images/tarock/dk.jpg)
-![queen](../images/tarock/dq.jpg)
-![rider](../images/tarock/dc.jpg)
-![jack](../images/tarock/dj.jpg)
-![ace](../images/tarock/d1.jpg)
+![roi](../images/tarock/dk.jpg)
+![dame](../images/tarock/dq.jpg)
+![cavalier](../images/tarock/dc.jpg)
+![valet](../images/tarock/dj.jpg)
+![as](../images/tarock/d1.jpg)
 
-The suits consist of five cards each. In the black suits the cards rank from highest to lowest:
+Les couleurs se composent de cinq cartes chacune. Dans les couleurs noires, les cartes sont classées de haut en bas :
 
-**king** *(király)*, **queen** *(dáma)*, **rider** *(lovas)*, **jack** (*bubi* or *botos*), **ten** *(tízes)*.
+**roi** *(király)*, **dame** *(dáma)*, **cavalier** *(lovas)*, **valet** (*bubi* ou *botos*), **dix** *(tízes)*.
 
-In the red suits the cards rank from highest to lowest:
+Dans les couleurs rouges, les cartes sont classées de haut en bas :
 
-**king** *(király)*, **queen** *(dáma)*, **rider** *(lovas)*, **jack** (*bubi* or *botos*), **ace** *(ász)*.
+**roi** *(király)*, **dame** *(dáma)*, **cavalier** *(lovas)*, **valet** (*bubi* ou *botos*), **as** *(ász)*.
 
-Although the cards have no corner indices, they are fairly easy to tell apart: in each suit the king wears a crown, the queen is female, the rider rides a horse and the jack is the other picture.
+Bien que les cartes n'aient pas d'indices dans les coins, elles sont assez faciles à distinguer : dans chaque couleur, le roi porte une couronne, la dame est une figure féminine, le cavalier monte un cheval et le valet est l'autre figure.
 
-The point values of the suit cards are as follows:
+Les valeurs en points des cartes de couleur sont les suivantes :
 
-| kings | .... | 5 points each |
-| queens | .... | 4 points each |
-| riders | .... | 3 points each |
-| jacks | .... | 2 points each |
-| tens and aces | .... | 1 point each |
+| rois | .... | 5 points chacun |
+| dames | .... | 4 points chacun |
+| cavaliers | .... | 3 points chacun |
+| valets | .... | 2 points chacun |
+| dix et as | .... | 1 point chacun |
 
-The total value of all the cards in the pack is 94 points: 15 in each suit, 15 for the honours, and 19 for the other tarokks.
+La valeur totale de toutes les cartes du jeu est de 94 points : 15 dans chaque couleur, 15 pour les honneurs, et 19 pour les autres tarocks.
 
-Tarokk packs are normally supplied with 54 cards, with a design very similar to that of Austrian Tarock cards. Players throw out the 2, 3 and 4 of the red suits and 9, 8 and 7 of the black suits before playing. 
+Les jeux de Tarokk sont normalement fournis avec 54 cartes, avec un design très similaire à celui des cartes de Tarock autrichiennes. Les joueurs retirent le 2, le 3 et le 4 des couleurs rouges et le 9, le 8 et le 7 des couleurs noires avant de jouer.
 
-### The mayor's hat
+### Le chapeau du maire
 
-An important part of the apparatus of this game is the **mayor's hat**, which should look as silly as possible - one version is a felt hat adorned with feathers and other decorations, but anything ridiculous looking will do. The largest bonus in the game occurs when the second highest card - tarokk XXI - is captured by an opponent's skíz. The player who is unfortunate (or careless) enough to lose the XXI is called the **mayor** *(polgármester)*, and is obliged as a penalty to wear the hat until someone else suffers the same misfortune.
+Une partie importante du matériel de ce jeu est le **chapeau du maire**, qui doit être aussi ridicule que possible — une version est un chapeau de feutre orné de plumes et d'autres décorations, mais n'importe quel objet ridicule fera l'affaire. Le plus grand bonus du jeu se produit lorsque le deuxième plus haut atout — le tarock XXI — est capturé par le skíz d'un adversaire. Le joueur assez malchanceux (ou négligent) pour perdre le XXI est appelé le **maire** *(polgármester)* et est obligé, en tant que pénalité, de porter le chapeau jusqu'à ce que quelqu'un d'autre subisse le même malheur.
 
-## Outline of the game
+## Aperçu du jeu
 
-The entire game is played anticlockwise.
+Le jeu entier se joue dans le sens antihoraire.
 
-Nine cards are dealt to each of the four active players and the remaining six are placed face down to form the **talon**. There is an auction in which the possible bids (from low to high) are "three", "two", "one" and "solo". The winner of the auction (the "bidder" or "declarer") draws some cards from the talon and discards an equal number. The bid determines the number of talon cards drawn by the declarer - "solo" means zero cards. The other talon cards are distributed as equally as possible among the other three players and they also discard to reduce their hands to nine cards again.
+Neuf cartes sont distribuées à chacun des quatre joueurs actifs et les six restantes sont placées face en bas pour former le **talon**. Il y a une enchère où les mises possibles (de la plus basse à la plus haute) sont « trois », « deux », « un » et « solo ». Le gagnant de l'enchère (le « preneur » ou « déclarant ») tire quelques cartes du talon et en défausse un nombre égal. L'enchère détermine le nombre de cartes du talon tirées par le déclarant — « solo » signifie zéro carte. Les autres cartes du talon sont distribuées aussi équitablement que possible entre les trois autres joueurs, qui défaussent également pour réduire leur main à neuf cartes.
 
-The partnerships vary from hand to hand. The declarer calls a tarokk - normally the **XX** - and the holder of the called tarokk becomes the declarer's partner, **but does not announce who they are**. The other two players form the opposing team. Often the partnerships are only discovered during the course of the play - for example when the called card is played. In some cases the identity of the partners can be deduced from the bidding or subsequent announcements.
+Les partenariats changent d'une main à l'autre. Le déclarant appelle un tarock — normalement le **XX** — et le détenteur du tarock appelé devient le partenaire du déclarant, **mais ne l'annonce pas**. Les deux autres joueurs forment l'équipe adverse. Souvent, les partenariats ne sont découverts qu'au cours du jeu — par exemple lorsque la carte appelée est jouée. Dans certains cas, l'identité des partenaires peut être déduite des enchères ou des annonces ultérieures.
 
-After the declarer has called a tarokk, there is a **round of announcements** in which the declarer followed by the other players in turn has the opportunity to: 
+Après que le déclarant a appelé un tarock, il y a un **tour d'annonces** au cours duquel le déclarant, puis les autres joueurs à tour de rôle, ont l'opportunité de :
 
-- announce their intention to try for one or more bonuses;
+- annoncer leur intention d'essayer d'obtenir un ou plusieurs bonus ;
 
-- declare a holding of eight or nine tarokks;
+- déclarer une détention de huit ou neuf tarocks ;
 
-- say kontra to double the stake for the game or any bonuses announced by the other team if they think they will fail.
+- dire kontra pour doubler la mise de la partie ou de tout bonus annoncé par l'autre équipe s'ils pensent qu'ils échoueront.
 
-The player to the dealer's right then leads to the first trick. It is compulsory to follow suit and to play a tarokk if you have no cards of the suit led. After nine tricks have been played each side counts the card points in its tricks, the declarer's team adding the cards discarded by the declarer, and the declarer's team wins if they have more than half of the card points (at least 48). 
+Le joueur à la droite du donneur mène ensuite la première levée. Il est obligatoire de suivre la couleur et de jouer un tarock si vous n'avez pas de carte de la couleur demandée. Après neuf levées jouées, chaque côté compte les points de cartes de ses levées, l'équipe du déclarant ajoutant les cartes défaussées par le déclarant, et l'équipe du déclarant gagne si elle a plus de la moitié des points de cartes (au moins 48).
 
-At the end of each hand, payments are made in cash, or equivalent transactions are recorded on a scoresheet. As well as the payment for game, there are bonus payments for a team which takes all three honours or all four kings in tricks, takes at least three quarters of the points or all the tricks, wins the last trick with the pagát, or captures the opponents' XXI with the skíz. The bonus payments can often be greater than the payment for the game. There is a double payment for any bonuses that were announced in advance, and any item that was kontra'd is further doubled.
+À la fin de chaque main, des paiements sont effectués en espèces, ou des transactions équivalentes sont enregistrées sur une feuille de marque. Outre le paiement de la partie, il y a des bonus pour une équipe qui remporte les trois honneurs ou les quatre rois en levées, qui prend au moins les trois quarts des points ou toutes les levées, qui gagne la dernière levée avec le pagát, ou qui capture le XXI des adversaires avec le skíz. Les bonus peuvent souvent être supérieurs au paiement de la partie. Il y a un double paiement pour tout bonus annoncé à l'avance, et tout élément faisant l'objet d'un kontra est encore doublé.
 
-## Choice of seats, dealing and ending the session
+## Choix des places, distribution et fin de session
 
-The relative positions of the players are important, so seats are generally determined randomly by the following method. Take from the pack one tarokk and one card of each suit (if there are 5 players) or one tarokk and three cards of different suits (if there are four players); shuffle these and deal one face up to each position at the table. Take another similar set of cards - a tarokk and three or four cards of different suits - and deal them face down to the players. The players examine their cards and move to the position of the face up card of the corresponding suit. The player who received the tarokk moves to the tarokk position and will bid first and play the first card in the first hand; the player sitting to the left of the one who received the tarokk deals first.
+Les positions relatives des joueurs sont importantes, les places sont donc généralement déterminées au hasard par la méthode suivante. Prenez dans le jeu un tarock et une carte de chaque couleur (s'il y a 5 joueurs) ou un tarock et trois cartes de couleurs différentes (s'il y a 4 joueurs) ; mélangez-les et distribuez une carte face visible à chaque position à la table. Prenez un autre ensemble similaire — un tarock et trois ou quatre cartes de couleurs différentes — et distribuez-les face en bas aux joueurs. Les joueurs examinent leurs cartes et se déplacent vers la position de la carte face visible de la couleur correspondante. Le joueur qui a reçu le tarock se déplace vers la position du tarock et enchérira en premier et jouera la première carte de la première main ; le joueur assis à la gauche de celui qui a reçu le tarock distribue en premier.
 
-The whole game is played anticlockwise. If there are just four players everyone takes part in every hand. If there are five, the dealer sits out of each hand, dealing cards to the other four players only. The dealer shuffles and the player to the dealer's left cuts. The dealer begins by dealing a packet of six cards face down; to form the **talon**. Next a packet of five cards is dealt to each of the four active players, beginning to dealer's right and continuing anticlockwise, and finally a packet of four cards is dealt to each active player in the same way. 
+Le jeu entier se joue dans le sens antihoraire. S'il n'y a que quatre joueurs, chacun participe à chaque main. S'il y en a cinq, le donneur est exclu de chaque main et ne distribue qu'aux quatre autres joueurs. Le donneur mélange et le joueur à la gauche du donneur coupe. Le donneur commence par distribuer un paquet de six cartes face en bas pour former le **talon**. Ensuite, un paquet de cinq cartes est distribué à chacun des quatre joueurs actifs, en commençant à la droite du donneur et en continuant dans le sens antihoraire, et enfin un paquet de quatre cartes est distribué à chaque joueur actif de la même manière.
 
-After each hand has been played and scored, the turn to deal passes to the right.
+Après chaque main jouée et comptée, le tour de distribution passe à droite.
 
-The traditional way of ending a session of tarokk is for a player to give notice by saying **"A skíz oszt, nem oszt"** ("The skíz deals and does not deal"). The meaning of this is as follows. The skíz is the person who is dealt the skíz (or picks it up from the talon) in the next deal after notice is given. The game continues until the next time it is this player's turn to deal, and then goes on for one more complete round of deals, until the skíz is about to deal for the second time. At that point, the session ends (the skíz does not deal). Therefore the number of complete hands to be played after someone gives notice is from 5 to 9 if there are five players, and from 4 to 7 if there are four players, depending on the position of the skíz. 
+La façon traditionnelle de terminer une session de tarokk est qu'un joueur donne un préavis en disant **« A skíz oszt, nem oszt »** (« Le skíz distribue et ne distribue pas »). La signification est la suivante. Le skíz est la personne à qui le skíz est distribué (ou qui le ramasse du talon) lors de la distribution suivant le préavis. Le jeu continue jusqu'à ce que ce soit à nouveau le tour de ce joueur de distribuer, puis continue pour un tour complet supplémentaire de distributions, jusqu'à ce que le skíz s'apprête à distribuer pour la deuxième fois. À ce moment, la session se termine (le skíz ne distribue pas). Par conséquent, le nombre de mains complètes à jouer après que quelqu'un a donné un préavis est de 5 à 9 s'il y a cinq joueurs, et de 4 à 7 s'il y a quatre joueurs, selon la position du skíz.
 
-Customarily, notice to end the session is given by one of the players who is a net loser from the hands played so far. However, any player is entitled to give notice, and of course the game can end at any time without notice being given if all the players agree to stop.
+De coutume, le préavis de fin de session est donné par l'un des joueurs qui est en déficit net par rapport aux mains jouées jusqu'à présent. Cependant, tout joueur est en droit de donner un préavis, et bien sûr le jeu peut se terminer à tout moment sans préavis si tous les joueurs sont d'accord pour arrêter.
 
-## The bidding
+## Les enchères
 
-There is an auction to determine which player will be the declarer. The bidding begins with the player to dealer's right and continues anticlockwise around the table. The four possible bids indicate the number of cards (from zero to three) which the eventual winner of the bidding will exchange with the talon; the fewer cards exchanged the higher the bid and the payment for the game. In ascending order the bids are:
+Il y a une enchère pour déterminer quel joueur sera le déclarant. Les enchères commencent par le joueur à la droite du donneur et continuent dans le sens antihoraire autour de la table. Les quatre enchères possibles indiquent le nombre de cartes (de zéro à trois) que le gagnant final des enchères échangera avec le talon ; moins de cartes échangées signifie une enchère plus élevée et un paiement plus important pour la partie. Par ordre croissant, les enchères sont :
 
-- **three** *(három)* (payment for the game: 1 point);
+- **trois** *(három)* (paiement pour la partie : 1 point) ;
 
-- **two** *(kettő)* (payment for the game: 2 points);
+- **deux** *(kettő)* (paiement pour la partie : 2 points) ;
 
-- **one** *(egy)* (payment for the game: 3 points);
+- **un** *(egy)* (paiement pour la partie : 3 points) ;
 
-- **solo** *(szóló)* (payment for the game: 4 points).
+- **solo** *(szóló)* (paiement pour la partie : 4 points).
 
-A player who does not wish to bid can **pass** *(passz)*. A player who passes cannot bid again in the auction.
+Un joueur qui ne souhaite pas enchérir peut **passer** *(passz)*. Un joueur qui passe ne peut plus enchérir lors de cette enchère.
 
-**To be allowed to bid at all, a player must have at least one of the honours (skíz, XXI and pagát); if you have none of these cards you must pass.** If you have an honour you are allowed to bid but you are not compelled to.
+**Pour être autorisé à enchérir, un joueur doit avoir au moins un honneur (skíz, XXI et pagát) ; si vous n'avez aucune de ces cartes, vous devez passer.** Si vous avez un honneur, vous êtes autorisé à enchérir mais vous n'y êtes pas obligé.
 
-Each bid must be higher than the previous one, with the following exception: if you have already bid, but another player has subsequently bid higher, you may **hold** (the Hungarian expression is *"tartom"* - "I hold it"), which means that you make a bid equal to the highest bid so far (but see variations). A bid can only be held once: if the last positive bid was a hold, you cannot also hold but must bid higher or pass.
+Chaque enchère doit être supérieure à la précédente, avec l'exception suivante : si vous avez déjà enchéri, mais qu'un autre joueur a ensuite enchéri plus haut, vous pouvez **maintenir** (l'expression hongroise est *« tartom »* — « je maintiens »), ce qui signifie que vous faites une enchère égale à l'enchère la plus élevée jusqu'à présent (mais voir les variations). Une enchère ne peut être maintenue qu'une seule fois : si la dernière enchère positive était un maintien, vous ne pouvez pas non plus maintenir mais devez enchérir plus haut ou passer.
 
-It is quite unusual for all four players to pass. If it happens, the cards are thrown in, and the same player deals again, and for the next round (four deals if there are four players; five deals if there are five players) all the scores are doubled. If during the doubled round another hand is passed out, another doubled round is started, leading to some deals in which the scores are quadrupled while the two rounds overlap (but see variations).
+Il est assez inhabituel que les quatre joueurs passent. Si cela se produit, les cartes sont jetées, le même joueur redistribue, et pour le tour suivant (quatre mains s'il y a quatre joueurs ; cinq mains s'il y a cinq joueurs) tous les scores sont doublés. Si, pendant le tour doublé, une autre main est sans enchère, un autre tour doublé commence, ce qui peut conduire à des mains où les scores sont quadruplés pendant que les deux tours se chevauchent (mais voir les variations).
 
-If anyone bids, the auction continues for as many rounds as are necessary until all players but one have passed, or until no higher bids are possible. The last player who bid becomes the **declarer** *(felvevő)*, and will draw 3, 2, 1 or no cards from the talon, depending on the final bid.
+Si quelqu'un enchérit, l'enchère continue autant de tours que nécessaire jusqu'à ce que tous les joueurs sauf un aient passé, ou qu'aucune enchère plus élevée ne soit possible. Le dernier joueur à avoir enchéri devient le **déclarant** *(felvevő)* et tirera 3, 2, 1 ou aucune carte du talon, selon l'enchère finale.
 
-Here are some simple examples of auctions. In this and all examples of this page the active players, in anticlockwise order, are called **A**, **B**, **C** and **D**. **A **is the player to the right of the dealer, who bids first and will lead to the first trick.
+Voici quelques exemples simples d'enchères. Dans cet exemple et dans tous les exemples de cette page, les joueurs actifs, dans l'ordre antihoraire, sont appelés **A**, **B**, **C** et **D**. **A** est le joueur à la droite du donneur, qui enchérit en premier et mènera la première levée.
 
-| Bidding in Hungarian | Bidding in English | Result |
+| Enchères en hongrois | Enchères en français | Résultat |
 | A | B | C | D |
 | Passz | Három | Kettő | Passz |
 | | Tartom | Passz | |
 
 | A | B | C | D |
-| Pass | Three | Two | Pass |
-| | Hold | Pass | |
+| Passe | Trois | Deux | Passe |
+| | Maintient | Passe | |
 
-**B** is the declarer and takes two cards from the talon.
+**B** est le déclarant et prend deux cartes du talon.
 
 | A | B | C | D |
 | Három | Kettő | Passz | Egy |
@@ -166,355 +167,358 @@ Here are some simple examples of auctions. In this and all examples of this page
 | Tartom | | | |
 
 | A | B | C | D |
-| Three | Two | Pass | One |
-| Hold | Pass | | Solo |
-| Hold | | | |
+| Trois | Deux | Passe | Un |
+| Maintient | Passe | | Solo |
+| Maintient | | | |
 
-**A** is the declarer and takes no cards from the talon. The auction ends after **A** holds the Solo as there is no higher bid that **D** can make. Notice that if **B** wanted to bid again on the second round, the bid would have to be solo, as **D**'s bid of one has already been held.
+**A** est le déclarant et ne prend aucune carte du talon. L'enchère se termine après qu'**A** a maintenu le Solo car il n'y a pas d'enchère plus élevée que **D** puisse faire. Notez que si **B** voulait enchérir à nouveau au deuxième tour, l'enchère devrait être solo, puisque l'enchère de un de **D** a déjà été maintenue.
 
 | A | B | C | D |
 | Passz | Szóló | | |
 
 | A | B | C | D |
-| Pass | Solo | | |
+| Passe | Solo | | |
 
-**B** makes the highest bid and ends the auction. **B** is the declarer and takes no cards from the talon.
+**B** fait l'enchère la plus élevée et termine l'enchère. **B** est le déclarant et ne prend aucune carte du talon.
 
-Normally it is agreed that certain bidding sequences are **conventional**, promising that the bidder holds a particular tarokk or tarokks. These conventions (unlike bidding conventions in Bridge) are mandatory - if you make a conventional bid you must hold the card(s) that you promise. They will be explained in the section on cue bids and yielded games below. 
+Normalement, il est convenu que certaines séquences d'enchères sont **conventionnelles**, promettant que l'enchérisseur détient un tarock ou des tarocks particuliers. Ces conventions (contrairement aux conventions d'enchères au Bridge) sont obligatoires — si vous faites une enchère conventionnelle, vous devez détenir la ou les cartes que vous promettez. Elles seront expliquées dans la section sur les enchères d'appel et les parties cédées ci-dessous.
 
-There is one exception to the rule that you cannot bid without an honour. If the first three players pass, the fourth player is permitted to bid holding no honour, but speculating on picking up an honour from the talon. If the bidder does not obtain an honour from the talon, the game is automatically lost without play, and the bidder must pay the value of the game to each other player (i.e. 1 point each, assuming that the bid was "three"). A bid of "three" in fourth position without an honour is sometimes called a *próbahárom* (trial three). 
+Il y a une exception à la règle selon laquelle on ne peut pas enchérir sans honneur. Si les trois premiers joueurs passent, le quatrième joueur est autorisé à enchérir sans honneur, en spéculant sur le fait de ramasser un honneur du talon. Si l'enchérisseur n'obtient pas d'honneur du talon, la partie est automatiquement perdue sans jouer, et l'enchérisseur doit payer la valeur de la partie à chaque autre joueur (c'est-à-dire 1 point chacun, en supposant que l'enchère était « trois »). Une enchère de « trois » en quatrième position sans honneur est parfois appelée *próbahárom* (trois d'essai).
 
-## Drawing from the talon and discarding
+## Pioche au talon et défausse
 
-### Distributing the talon
+### Distribution du talon
 
-Declarer receives cards bid from the top of the talon according to the final bid. The other players in anticlockwise rotation get the remaining talon cards, which are distributed as equally as possible; the players nearest the declarer's right get an extra card when necessary as follows:
+Le déclarant reçoit les cartes enchéries du dessus du talon selon l'enchère finale. Les autres joueurs, dans l'ordre antihoraire, reçoivent les cartes restantes du talon, qui sont distribuées aussi équitablement que possible ; les joueurs les plus proches de la droite du déclarant reçoivent une carte supplémentaire si nécessaire, comme suit :
 
-| Final bid | Declarer | 2nd player | 3rd player | 4th player |
-| three (három) | 3 cards | 1 card | 1 card | 1 card |
-| two (kettő) | 2 cards | 2 cards | 1 card | 1 card |
-| one (egy) | 1 card | 2 cards | 2 cards | 1 card |
-| solo (szóló) | no cards | 2 cards | 2 cards | 2 cards |
+| Enchère finale | Déclarant | 2e joueur | 3e joueur | 4e joueur |
+| trois (három) | 3 cartes | 1 carte | 1 carte | 1 carte |
+| deux (kettő) | 2 cartes | 2 cartes | 1 carte | 1 carte |
+| un (egy) | 1 carte | 2 cartes | 2 cartes | 1 carte |
+| solo (szóló) | aucune carte | 2 cartes | 2 cartes | 2 cartes |
 
-If there are four players, they each take the cards they are entitled to (without showing them to the other players). If there are five players the dealer distributes the talon cards (face down) to the players. 
+S'il y a quatre joueurs, chacun prend les cartes auxquelles il a droit (sans les montrer aux autres joueurs). S'il y a cinq joueurs, le donneur distribue les cartes du talon (face en bas) aux joueurs.
 
-### Discarding
+### Défausse
 
-The players add the cards they have gained from the talon to their hands and then discard an equal number of cards face down, so that everyone has nine cards (in Hungarian the discarded cards are called the **skart**). The declarer's discards are placed in a pile in front of the declarer, and any points in these cards count to the benefit of the declarer's side. All the cards discarded by the other three players are put into a single pile, which is kept in front of the dealer if there are five players, and immediately to the right of the dealer if there are four (this custom makes it easier to remember who dealt); the points in these discards count for the declarer's opponents (even though one the three players will normally be the declarer's partner).
+Les joueurs ajoutent les cartes qu'ils ont reçues du talon à leur main, puis défaussent un nombre égal de cartes face en bas, pour que chacun ait neuf cartes (en hongrois, les cartes défaussées sont appelées le **skart**). Les défausses du déclarant sont placées dans une pile devant lui, et tous les points de ces cartes comptent au bénéfice du côté du déclarant. Toutes les cartes défaussées par les trois autres joueurs sont placées dans une seule pile, conservée devant le donneur s'il y a cinq joueurs, et immédiatement à sa droite s'il y en a quatre (cette coutume facilite la mémoire de qui a distribué) ; les points de ces défausses comptent pour les adversaires du déclarant (même si l'un des trois joueurs est normalement le partenaire du déclarant).
 
-**It is always illegal to discard kings or honours** (i.e. any 5 point cards). If you have made a **cue bid** or **yielded the game** (see below), it is also illegal to discard the tarokk which you have indicated by your bidding. Any other cards, including tarokks, may be discarded freely (but see variations). 
+**Il est toujours interdit de défausser des rois ou des honneurs** (c'est-à-dire n'importe quelle carte à 5 points). Si vous avez fait une **enchère d'appel** ou **cédé la partie** (voir ci-dessous), il est également interdit de défausser le tarock que vous avez indiqué par votre enchère. Toutes les autres cartes, y compris les tarocks, peuvent être défaussées librement (mais voir les variations).
 
-After everyone has discarded, the number of tarokks in the discard must be announced. If there are five players the dealer looks at the cards discarded by the three players other than the declarer, and either declares them **"clean"** *("tiszta")*, or states how many tarokks have been discarded: **"one tarokk discarded", "two tarokks discarded"** *("egy tarokk fekszik", "két tarokk fekszik")*, etc. If there are only four players, the dealer is taking part in the game, so is not allowed to see the discards; in this case when the discards are complete, any player who has discarded tarokks must announce how many. No "clean" announcement is required from players who have not discarded tarokks - anyone who does not say anything is assumed to have discarded suit cards only.
+Une fois que tout le monde a défaussé, le nombre de tarocks dans la défausse doit être annoncé. S'il y a cinq joueurs, le donneur examine les cartes défaussées par les trois joueurs autres que le déclarant, et déclare soit qu'elles sont **« propres »** * (« tiszta ») *, soit combien de tarocks ont été défaussés : **« un tarock défaussé », « deux tarocks défaussés »** *(« egy tarokk fekszik », « két tarokk fekszik »)*, etc. S'il n'y a que quatre joueurs, le donneur participe au jeu et n'est donc pas autorisé à voir les défausses ; dans ce cas, lorsque les défausses sont terminées, tout joueur qui a défaussé des tarocks doit annoncer combien. Aucune annonce « propre » n'est requise de la part des joueurs qui n'ont pas défaussé de tarocks — quiconque ne dit rien est supposé n'avoir défaussé que des cartes de couleur.
 
-Any tarokks discarded by the declarer must be turned face up when all the discards are complete, so that everyone knows not only how many tarokks the declarer has discarded but also which ones. The declarer's discarded tarokks remain face up until the lead to the first trick.
+Tous les tarocks défaussés par le déclarant doivent être retournés face visible lorsque toutes les défausses sont terminées, pour que tout le monde sache non seulement combien de tarocks le déclarant a défaussés, mais aussi lesquels. Les tarocks défaussés du déclarant restent face visible jusqu'à la première levée.
 
-### Annulling the hand
+### Annulation de la main
 
-Certain holdings are considered so poor that the player is allowed to annul the hand. These are:
+Certaines mains sont considérées si mauvaises que le joueur est autorisé à annuler la main. Ce sont :
 
-- all four kings;
+- les quatre rois ;
 
-- the XXI and no other tarokks;
+- le XXI et aucun autre tarock ;
 
-- the pagát (I) and no other tarokks;
+- le pagát (I) et aucun autre tarock ;
 
-- no tarokks at all;
+- aucun tarock du tout ;
 
-- the XXI, the pagát and no other tarokks.
+- le XXI, le pagát et aucun autre tarock.
 
-Annulling the hand is voluntary - if you have cards which would allow you to annul the hand you can nevertheless play on if you see some advantage in doing so. You are not allowed to annul the hand on the basis of any of the last four holdings if you have discarded a tarokk into the skart (but see variations). However, a player who holds four kings can annul the hand even after discarding a tarokk. A hand can only be annulled immediately after the talon exchange; once the round of announcements is underway it is too late. 
+L'annulation de la main est facultative — si vous avez des cartes qui vous permettraient d'annuler la main, vous pouvez néanmoins continuer à jouer si vous y voyez un avantage. Vous n'êtes pas autorisé à annuler la main sur la base de l'un des quatre derniers cas si vous avez défaussé un tarock dans le skart (mais voir les variations). Cependant, un joueur qui détient quatre rois peut annuler la main même après avoir défaussé un tarock. Une main ne peut être annulée qu'immédiatement après l'échange avec le talon ; une fois le tour d'annonces commencé, il est trop tard.
 
-It may not be immediately obvious that four kings is a bad holding. In fact kings are usually a liability in this game - they are worth 5 points but they nearly always get trumped and you are not allowed to discard them into the skart.
+Il n'est peut-être pas immédiatement évident que quatre rois constituent une mauvaise main. En fait, les rois sont généralement un handicap dans ce jeu — ils valent 5 points mais ils sont presque toujours atoutés et vous n'êtes pas autorisé à les défausser dans le skart.
 
-When a hand is annulled, there is no score. The cards are thrown in, the same dealer deals again, and the next four or five hands (depending on the number of players) are played for doubled scores, in the same way as if the deal had been passed out.
+Lorsqu'une main est annulée, il n'y a pas de score. Les cartes sont jetées, le même donneur redistribue, et les quatre ou cinq mains suivantes (selon le nombre de joueurs) sont jouées à score doublé, de la même manière que si la distribution avait été sans enchère.
 
-## Calling a partner, bonuses and announcements
+## Appel d'un partenaire, bonus et annonces
 
-After everyone has discarded, there is what sounds like a second auction. This one starts with the **declarer** and proceeds anticlockwise around the table, possibly for several rounds. There are four types of announcement that can be made at this time:
+Une fois que tout le monde a défaussé, il y a ce qui ressemble à une deuxième enchère. Celle-ci commence par le **déclarant** et se poursuit dans le sens antihoraire autour de la table, éventuellement pendant plusieurs tours. Il y a quatre types d'annonces possibles à ce moment :
 
-- A player who has 8 or 9 tarokks may declare them;
+- Un joueur qui a 8 ou 9 tarocks peut les déclarer ;
 
-- The declarer must call a partner;
+- Le déclarant doit appeler un partenaire ;
 
-- Any player may announce one or more bonuses;
+- Tout joueur peut annoncer un ou plusieurs bonus ;
 
-- Players may say kontra, rekontra, etc. to a previously announced game or bonus.
+- Les joueurs peuvent dire kontra, rekontra, etc. à une partie ou un bonus précédemment annoncé.
 
-Each of these possibilities will be described in detail, and then the procedure for the round of announcements will be explained.
+Chacune de ces possibilités sera décrite en détail, puis la procédure du tour d'annonces sera expliquée.
 
-### Calling a partner
+### Appel d'un partenaire
 
-The declarer begins the round of announcements by calling a tarokk whose holder will be declarer's **partner** *(partner, segítő)* for this hand. The other two active players will form the opposing team, the **opponents** *(ellenfelek, ellenjátékosok)* or **defenders** *(védők)*. The declarer says, for example, **"I call the twenty"** *("Hívom a húszast")* or **"The twenty helps me"** *("Segít a húszas")*. There are three circumstances in which the declarer is allowed to call a tarokk other than the **XX**:
+Le déclarant commence le tour d'annonces en appelant un tarock dont le détenteur sera le **partenaire** *(partner, segítő)* du déclarant pour cette main. Les deux autres joueurs actifs formeront l'équipe adverse, les **adversaires** *(ellenfelek, ellenjátékosok)* ou **défenseurs** *(védők)*. Le déclarant dit par exemple **« J'appelle le vingt »** *(« Hívom a húszast »)* ou **« Le vingt m'aide »** *(« Segít a húszas »)*. Il y a trois circonstances dans lesquelles le déclarant est autorisé à appeler un tarock autre que le **XX** :
 
-- If as declarer you hold the **XX** yourself, you may instead call the highest tarokk **below** the **XX** which you do not hold. For example, if your tarokks are **skíz, XX, XIX, XVIII, XV, XIII, VII** you are allowed to call the **XVII**. Alternatively you can, if you wish, call your own **XX**, in which case you will have no partner, and the other three players will form a team against you, though they will not realise this until later.
+- Si, en tant que déclarant, vous détenez vous-même le **XX**, vous pouvez à la place appeler le tarock le plus élevé **en dessous** du **XX** que vous ne détenez pas. Par exemple, si vos tarocks sont **skíz, XX, XIX, XVIII, XV, XIII, VII**, vous êtes autorisé à appeler le **XVII**. Vous pouvez alternatively, si vous le souhaitez, appeler votre propre **XX**, auquel cas vous n'aurez pas de partenaire, et les trois autres joueurs formeront une équipe contre vous, bien qu'ils ne s'en rendent compte que plus tard.
 
-- If any of the players other than the declarer has discarded a tarokk, the declarer is free to call **any tarokk other than an honour**. If the called tarokk has in fact been discarded, the declarer plays alone against three opponents. The player who discarded the called tarokk is obliged in this case to kontra the game (see below). 
+- Si l'un des joueurs autres que le déclarant a défaussé un tarock, le déclarant est libre d'appeler **n'importe quel tarock autre qu'un honneur**. Si le tarock appelé a effectivement été défaussé, le déclarant joue seul contre trois adversaires. Le joueur qui a défaussé le tarock appelé est obligé dans ce cas de dire kontra à la partie (voir ci-dessous).
 
-- If anyone other than the declarer has made a **cue bid** (see below), the declarer is not allowed to call the **XX**, but **must** call the tarokk (**XIX** or **XVIII**) indicated by the cue bid. In a **yielded game**, the declarer must call the **XX**. This applies even if tarokks have been discarded - the indicated tarokk cannot be discarded and must be called.
+- Si quelqu'un d'autre que le déclarant a fait une **enchère d'appel** (voir ci-dessous), le déclarant n'est pas autorisé à appeler le **XX**, mais **doit** appeler le tarock (**XIX** ou **XVIII**) indiqué par l'enchère d'appel. Dans une **partie cédée**, le déclarant doit appeler le **XX**. Cela s'applique même si des tarocks ont été défaussés — le tarock indiqué ne peut pas être défaussé et doit être appelé.
 
-If you hold the called tarokk you are the declarer's partner, but you must not make any sign to reveal this. Your identity as the partner will only become known in the course of the subsequent announcements and play. Sometimes the partnerships will remain a mystery right up to the point when the called tarokk is played.
+Si vous détenez le tarock appelé, vous êtes le partenaire du déclarant, mais vous ne devez faire aucun signe pour le révéler. Votre identité en tant que partenaire ne sera connue qu'au cours des annonces et du jeu ultérieurs. Parfois, les partenariats resteront un mystère jusqu'au moment où le tarock appelé est joué.
 
-### Bonuses
+### Bonus
 
-Bonuses *(figurák)* are scored for achieving some feat during the play. Bonuses are won or lost by a partnership, not an individual - if you make pagátultimó, or lose your **XXI** to the enemy **skíz**, your partner wins or loses the same amount as you (but in the latter case it is only you who suffer the indignity of wearing the hat). If you are confident that your side is going to win a particular bonus, you can **announce** during the round of announcements that your side is going for this bonus. You and your partner win twice as much if you succeed, but if you fail, you both lose the amount that you would have won. In most cases the bonuses, silent and announced, are scored independently of each other and of the game; you can win some and lose others. (The only exceptions are bonuses double game and volát, which interact with each other and the game score as explained under scoring).
+Les bonus *(figurák)* sont marqués pour avoir accompli un exploit pendant le jeu. Les bonus sont gagnés ou perdus par un partenariat, pas par un individu — si vous réussissez un pagátultimó ou perdez votre **XXI** face au **skíz** adverse, votre partenaire gagne ou perd le même montant que vous (mais dans ce dernier cas, c'est seulement vous qui subissez l'indignité de porter le chapeau). Si vous êtes confiant que votre équipe va gagner un bonus particulier, vous pouvez **l'annoncer** pendant le tour d'annonces. Vous et votre partenaire gagnez le double si vous réussissez, mais si vous échouez, vous perdez tous les deux le montant que vous auriez gagné. Dans la plupart des cas, les bonus, silencieux et annoncés, sont marqués indépendamment les uns des autres et de la partie ; vous pouvez en gagner certains et en perdre d'autres. (Les seules exceptions sont les bonus partie double et volát, qui interagissent entre eux et le score de la partie comme expliqué dans le comptage).
 
-In basic Hungarian tarokk, six bonuses are available:
+Au Tarokk hongrois de base, six bonus sont disponibles :
 
-- **Tulétroá**, also known as **tuli**, **trull** or **trúl** for short, is a bonus for a team that wins all three honours (skíz, XXI and pagát (I)) in its tricks. The name comes from the French *"tous les trois"* (all three). Payment: 1 point if made silently; 2 points if announced.
-- **Four kings** *(négykirály)* is a bonus for a team that wins all four kings in its tricks. Payment: 1 point if made silently; 2 points if announced.
+- **Tulétroá**, aussi connu sous les noms de **tuli**, **trull** ou **trúl** en abrégé, est un bonus pour une équipe qui remporte les trois honneurs (skíz, XXI et pagát (I)) dans ses levées. Le nom vient du français *« tous les trois »*. Paiement : 1 point si réalisé silencieusement ; 2 points si annoncé.
 
-- **Double game** *(duplajáték)* is a bonus for a team that wins more than three quarters of the card points in its tricks - that is at least 71 points, keeping the other side to 23 card points or fewer. This bonus doubles the payment for the game if made silently; if announced it multiplies the game score by 4.
+- **Quatre rois** *(négykirály)* est un bonus pour une équipe qui remporte les quatre rois dans ses levées. Paiement : 1 point si réalisé silencieusement ; 2 points si annoncé.
 
-- **Volát** is a bonus for a team that wins all nine tricks. The payment for the game is then multiplied by three for silent volát, or by six if it was announced.
+- **Partie double** *(duplajáték)* est un bonus pour une équipe qui remporte plus des trois quarts des points de cartes dans ses levées — c'est-à-dire au moins 71 points, limitant l'autre côté à 23 points de cartes ou moins. Ce bonus double le paiement de la partie s'il est réalisé silencieusement ; s'il est annoncé, il multiplie le score de la partie par 4.
 
-- **Pagátultimó**, also known as **pagátulti**, is a bonus for winning the last trick with the pagát (tarokk I). The payment for a silent pagátulti is 5 points. The pagát itself has to win the trick for this bonus to succeed. If the pagát is played to the last trick and does not win, the pagátulti has failed and the team that played the pagát have to pay 5 points to the other side (even if the last trick was won by the partner of the person who played the pagát). If pagát ulti is announced, the payment is 10 points. If announced it can fail in three different ways:
+- **Volát** est un bonus pour une équipe qui remporte les neuf levées. Le paiement de la partie est alors multiplié par trois pour un volát silencieux, ou par six s'il a été annoncé.
 
-- the pagát is beaten by a higher tarokk in the last trick;
+- **Pagátultimó**, aussi connu sous le nom de **pagátulti**, est un bonus pour gagner la dernière levée avec le pagát (tarock I). Le paiement pour un pagátulti silencieux est de 5 points. Le pagát lui-même doit gagner la levée pour que ce bonus réussisse. Si le pagát est joué à la dernière levée et ne gagne pas, le pagátulti a échoué et l'équipe qui a joué le pagát doit payer 5 points à l'autre côté (même si la dernière levée a été gagnée par le partenaire de la personne qui a joué le pagát). Si le pagátulti est annoncé, le paiement est de 10 points. Si annoncé, il peut échouer de trois façons différentes :
 
-- the holder of the pagát is forced to play it before the last trick;
+- le pagát est battu par un tarock plus élevé dans la dernière levée ;
 
-- (unusual) the team that announced pagátulti do not hold the pagát at all.
+- le détenteur du pagát est forcé de le jouer avant la dernière levée ;
 
-- **XXI-catch** *(huszonegyfogás)* is a bonus for catching an opponent's **XXI** with the **skíz**. Payment: 21 points and the player who lost the **XXI** has to wear the **mayor's hat**. If two partners manage to play the **skíz** and the **XXI** to the same trick, it does not count as a **XXI**-catch and there is no payment. The payment for an announced XXI-catch is 42 points if it succeeds; if the **XXI** escapes or if it was not held by an opponent, the team which announced the catch have to pay 42 points.
+- (inhabituel) l'équipe qui a annoncé le pagátulti ne détient pas le pagát du tout.
+
+- **Capture du XXI** *(huszonegyfogás)* est un bonus pour capturer le **XXI** d'un adversaire avec le **skíz**. Paiement : 21 points et le joueur qui a perdu le **XXI** doit porter le **chapeau du maire**. Si deux partenaires parviennent à jouer le **skíz** et le **XXI** dans la même levée, cela ne compte pas comme une **capture du XXI** et il n'y a pas de paiement. Le paiement pour une capture du XXI annoncée est de 42 points si elle réussit ; si le **XXI** s'échappe ou s'il n'était pas détenu par un adversaire, l'équipe qui a annoncé la capture doit payer 42 points.
 
 ### Kontra
 
-During the round of announcements, an opponent of the declarer may double the score for the game by saying **"kontra the game"** (*kontra játék*). In the same way an opponent of a player who announced a bonus may kontra the announcement, doubling the score for it. All kontras are independent of each other, so you must specify which things you are saying kontra to, for example "kontra the pagátultimó" or "kontra the four kings and the game". After the game or an announcement has been kontra'd, either member of the side which originally announced it may **rekontra** it, which doubles the score for that item again. Theoretically, the process can continue with further doubles: the opponents of the announcers can "szubkontra", the announcers can then "hirskontra" and their opponents can then "mordkontra". For example, if the contract is a "one" *(egyes játék)*, the game is worth 3 to begin with; with kontra it is worth 6, with rekontra 12, with szubkontra 24, with hirskontra 48 and with mordkontra 96. Kontras above szubkontra are rare in practice. 
+Pendant le tour d'annonces, un adversaire du déclarant peut doubler le score de la partie en disant **« kontra à la partie »** (*kontra játék*). De même, un adversaire d'un joueur qui a annoncé un bonus peut faire kontra à l'annonce, doublant le score pour ce bonus. Tous les kontras sont indépendants les uns des autres, vous devez donc préciser à quoi vous dites kontra, par exemple « kontra au pagátultimó » ou « kontra aux quatre rois et à la partie ». Après que la partie ou une annonce a reçu un kontra, n'importe quel membre du côté qui l'a annoncée à l'origine peut faire **rekontra**, ce qui double encore le score pour cet élément. Théoriquement, le processus peut continuer avec des doubles supplémentaires : les adversaires des annonceurs peuvent faire « szubkontra », les annonceurs peuvent ensuite faire « hirskontra » et leurs adversaires peuvent ensuite faire « mordkontra ». Par exemple, si le contrat est un « un » *(egyes játék)*, la partie vaut 3 au départ ; avec kontra elle vaut 6, avec rekontra 12, avec szubkontra 24, avec hirskontra 48 et avec mordkontra 96. Les kontras au-dessus de szubkontra sont rares en pratique.
 
-### Declaring tarokks
+### Déclaration de tarocks
 
-Any player with 8 or 9 tarokks may declare the fact during the round of announcements, and is immediately paid for it by each of the other three active players. The payment is 1 point from each player each for 8 tarokks *(nyolc tarokk)*, and 2 points from each for 9 tarokks *(kilenc tarokk)*. It is not normally compulsory to make these declarations. The exception is when you are announcing pagátultimó or saying kontra to a pagátultimó announcement, in which case you must declare 8 or 9 tarokks if you have them. 
+Tout joueur ayant 8 ou 9 tarocks peut le déclarer pendant le tour d'annonces, et est immédiatement payé pour cela par chacun des trois autres joueurs actifs. Le paiement est de 1 point de chaque joueur pour 8 tarocks *(nyolc tarokk)*, et de 2 points de chaque joueur pour 9 tarocks *(kilenc tarokk)*. Cela n'est normalement pas obligatoire. L'exception est lorsque vous annoncez un pagátultimó ou que vous dites kontra à une annonce de pagátultimó, auquel cas vous devez déclarer 8 ou 9 tarocks si vous les avez.
 
-It is illegal to declare 8 tarokks if you actually have nine.
+Il est interdit de déclarer 8 tarocks si vous en avez réellement neuf.
 
-If you have 8 or 9 tarokks and do not declare them during the round of announcements, you can still claim payment for them from your partner at the end of the hand, but not from the opponents. There is a school of thought that it is unsporting to claim payment from your partner for undeclared tarokks unless your team has won enough on the hand to cover the payment.
+Si vous avez 8 ou 9 tarocks et ne les déclarez pas pendant le tour d'annonces, vous pouvez toujours réclamer le paiement à votre partenaire à la fin de la main, mais pas aux adversaires. Il existe une école de pensée selon laquelle il est antisportif de réclamer le paiement à son partenaire pour des tarocks non déclarés, sauf si votre équipe a gagné suffisamment sur la main pour couvrir le paiement.
 
-### Procedure for the round of announcements
+### Procédure du tour d'annonces
 
-The declarer speaks first and may declare tarokks. The declarer must call a partner, may then go on to announce bonuses, and must end by saying **"pass"** (*passz* or *mehet*). Any declaration of tarokks comes first, then the calling of a partner, and finally bonus announcements in any order. For example a declarer with a particularly fine hand might begin the round of announcements by saying: "eight tarokks; I call the nineteen; trull; four kings; pass" *("nyolc tarokk, hívom a tizenkilencest, tulétroá, négykirály, passz")*.
+Le déclarant parle en premier et peut déclarer des tarocks. Le déclarant doit appeler un partenaire, peut ensuite passer aux annonces de bonus, et doit terminer en disant **« passe »** (*passz* ou *mehet*). Toute déclaration de tarocks vient en premier, puis l'appel d'un partenaire, et enfin les annonces de bonus dans un ordre quelconque. Par exemple, un déclarant avec une main particulièrement belle pourrait commencer le tour d'annonces en disant : « huit tarocks ; j'appelle le dix-neuf ; trull ; quatre rois ; passe » *(« nyolc tarokk, hívom a tizenkilencest, tulétroá, négykirály, passz »)*.
 
-The round of announcements now continues in anticlockwise rotation. Each player, at their turn, may declare tarokks, announce bonuses, and kontra things announced by the other team, always ending by saying "pass", to indicate that the next player may now speak. The round of announcements continues as many times around the table as necessary until three players in succession do nothing except pass.
+Le tour d'annonces continue ensuite dans le sens antihoraire. Chaque joueur, à son tour, peut déclarer des tarocks, annoncer des bonus, et faire kontra aux choses annoncées par l'autre équipe, en terminant toujours par dire « passe » pour indiquer que le joueur suivant peut maintenant parler. Le tour d'annonces continue autant de tours autour de la table que nécessaire jusqu'à ce que trois joueurs successifs ne fassent rien d'autre que passer.
 
-In general any player can announce any bonus, and all announcements are made on behalf of the announcer's team. For example, if you think your partner has the pagát, you can announce pagátultimó, committing your partner to win the last trick with it. There are some restrictions on announcing double game and volát:
+En général, tout joueur peut annoncer n'importe quel bonus, et toutes les annonces sont faites au nom de l'équipe de l'annonceur. Par exemple, si vous pensez que votre partenaire a le pagát, vous pouvez annoncer le pagátultimó, engageant votre partenaire à gagner la dernière levée avec. Il y a quelques restrictions pour annoncer la partie double et le volát :
 
-- You cannot announce both double game and volát at the same turn to speak.
+- Vous ne pouvez pas annoncer à la fois la partie double et le volát au même tour de parole.
 
-- You cannot announce double game if your team has previously announced volát.
+- Vous ne pouvez pas annoncer la partie double si votre équipe a précédemment annoncé le volát.
 
-When a player announces a bonus, it is necessary to know which team they belong to - i.e. whether they are for or against the declarer. Without this arrangement it would become impossible to kontra these announcements, as you would not know whether you were playing with or against the announcer. This is achieved as follows:
+Lorsqu'un joueur annonce un bonus, il est nécessaire de savoir à quelle équipe il appartient — c'est-à-dire s'il est pour ou contre le déclarant. Sans cela, il deviendrait impossible de faire kontra à ces annonces, car vous ne sauriez pas si vous jouez avec ou contre l'annonceur. Cela se réalise comme suit :
 
-- If a player makes an announcement and it is not otherwise provable whether they are for or against the declarer, they are assumed to be on the same team as the player who most recently announced or kontra'd anything. If there have been no kontras or announcements yet, the announcer is assumed to be the declarer's partner.
+- Si un joueur fait une annonce et qu'il n'est pas autrement prouvable s'il est pour ou contre le déclarant, il est supposé être dans la même équipe que le joueur qui a le plus récemment annoncé ou fait kontra à quelque chose. S'il n'y a pas encore eu de kontras ni d'annonces, l'annonceur est supposé être le partenaire du déclarant.
 
-- 
-Therefore, if you want to make an announcement and you are against the player who most recently announced or kontra'd anything (or against the declarer if nothing has been announced or kontra'd), you must also kontra (or rekontra) something said by your opponents, to make it known what side you are on.
+- Par conséquent, si vous voulez faire une annonce et que vous êtes contre le joueur qui a le plus récemment annoncé ou fait kontra à quelque chose (ou contre le déclarant si rien n'a été annoncé ou fait l'objet d'un kontra), vous devez également faire kontra (ou rekontra) à quelque chose dit par vos adversaires, pour faire connaître de quel côté vous êtes.
 
-- 
-If it is already known what side you are on - either because the declarer's partner is already known from the bidding (if the game was yielded or a cue-bid card was called) or from previous announcements, or because you have already made an announcement which proves what side you are on - you are free to make announcements without including a kontra.
+- Si l'on sait déjà de quel côté vous êtes — soit parce que le partenaire du déclarant est déjà connu des enchères (si la partie a été cédée ou si une carte d'enchère d'appel a été appelée) ou d'annonces précédentes, ou parce que vous avez déjà fait une annonce qui prouve de quel côté vous êtes — vous êtes libre de faire des annonces sans inclure de kontra.
 
-The above rules do not apply to declarations of tarokks. Anyone who has 8 or 9 tarokks can declare them freely, and you do not necessarily know whether they are for or against you. Also, if you announce something after a declaration of tarokks this does not prove that you are on the side of the player who declared the tarokks. (Some players treat declarations differently - see variations).
+Les règles ci-dessus ne s'appliquent pas aux déclarations de tarocks. Quiconque a 8 ou 9 tarocks peut les déclarer librement, et vous ne savez pas nécessairement s'ils sont pour ou contre vous. De plus, si vous annoncez quelque chose après une déclaration de tarocks, cela ne prouve pas que vous êtes du côté du joueur qui a déclaré les tarocks. (Certains joueurs traitent les déclarations différemment — voir les variations).
 
-Here some examples of rounds of announcements. Player **B** is the declarer in each case:
+Voici quelques exemples de tours d'annonces. Le joueur **B** est le déclarant dans chaque cas :
 
-**Example 1.**
+**Exemple 1.**
 
 | A | B | C | D |
-| | I call the XX, pass | Trull, four kings, pass | Pass |
-| Kontra the trull, pass | Pagátultimó, pass | Pass | Pass |
-| Pass | | | |
+| | J'appelle le XX, passe | Trull, quatre rois, passe | Passe |
+| Kontra au trull, passe | Pagátultimó, passe | Passe | Passe |
+| Passe | | | |
 
-The trull and four kings announcements imply that **C** has the **XX**. This encourages **B** to announce pagátultimó. It sounds as though **A** and **C** have the high honours, so that there is a possibility of a **XXI**-catch, and the players will have to be careful about this.**Example 2.**
+Les annonces de trull et quatre rois impliquent que **C** a le **XX**. Cela encourage **B** à annoncer le pagátultimó. Il semble que **A** et **C** aient les hauts honneurs, de sorte qu'il y a une possibilité de **capture du XXI**, et les joueurs devront faire attention à ce sujet.
 
-| A | B | C | D |
-| | I call the XX, pass | Kontra the game, pass | Pass |
-| Trull, pass | Pass | Pass | Pass |
-
-Since the game has been kontra'd, **A**'s trull announcement (without a rekontra of the game) shows that **A** does **not** have the **XX**. It must be **D** who is **B**'s partner.**Example 3.**
+**Exemple 2.**
 
 | A | B | C | D |
-| | I call the XX, four kings, pass | Kontra the four kings, pass | Nine tarokks, pagátultimó, pass |
-| Pass | Kontra the pagátulti, pass | Pass | Pass |
-| Pass | | | |
+| | J'appelle le XX, passe | Kontra à la partie, passe | Passe |
+| Trull, passe | Passe | Passe | Passe |
 
-**D**'s announcement shows that **D** and **C** are partners, since **C** was the previous speaker. If **D** wanted to announce pagátulti in this position holding the **XX**, he would be obliged also to rekontra the four kings. Therefore **B** knows that **D** is an enemy, and **B** can legally kontra the pagátulti. 
+Puisque la partie a reçu un kontra, l'annonce de trull d'**A** (sans rekontra à la partie) montre que **A** n'a **pas** le **XX**. Ce doit être **D** qui est le partenaire d'**B**.
 
-## The play
+**Exemple 3.**
 
-After the round of announcements the play of the hand begins. The player to dealer's right leads to the first trick, and the winner of each trick leads to the next. Any card may be led to a trick, and the other players in turn must follow suit - i.e. play a card of the same suit that was led, or play a tarokk if a tarokk was led.
+| A | B | C | D |
+| | J'appelle le XX, quatre rois, passe | Kontra aux quatre rois, passe | Neuf tarocks, pagátultimó, passe |
+| Passe | Kontra au pagátulti, passe | Passe | Passe |
+| Passe | | | |
 
-If a suit is led and you have no cards of that suit, you **must** play a tarokk if you have one. Only if you have neither tarokks nor cards in the suit led are you free to play any card. The trick is won by the highest tarokk in it, or, if it contains no tarokk, by the highest card of the suit led. 
+L'annonce de **D** montre que **D** et **C** sont partenaires, puisque **C** était le précédent intervenant. Si **D** voulait annoncer le pagátulti dans cette position en détenant le **XX**, il serait obligé de faire également rekontra aux quatre rois. Par conséquent, **B** sait que **D** est un adversaire, et **B** peut légalement faire kontra au pagátulti.
 
-If your team has announced pagátultimó, you are obliged to hold onto the pagát as long as possible. You may not play it until you are forced to by the above rules of following suit and playing a tarokk if unable to. Even if it becomes clear that the pagát cannot win the last trick, you are not allowed to play it early to save it. 
+## Le jeu
 
-Since often during the early stages of the play you do not know who your partner is, players keep their own tricks in separate face-down piles, and the defenders' part of the discard must also be kept separate. Only when the called tarokk has been played (or some other event has occurred which proves which players are partners) can the piles be combined into two: declarer's cards and defenders' cards.
+Après le tour d'annonces, le jeu de la main commence. Le joueur à la droite du donneur mène la première levée, et le gagnant de chaque levée mène la suivante. N'importe quelle carte peut être menée à une levée, et les autres joueurs à tour de rôle doivent suivre la couleur — c'est-à-dire jouer une carte de la même couleur que celle menée, ou jouer un tarock si un tarock a été mené.
 
-When all nine tricks have been played, the card points taken by each side are counted and the hand is scored. The player to the right of the previous dealer then shuffles, has the cards cut, and deals the next hand.
+Si une couleur est menée et que vous n'avez pas de carte de cette couleur, vous **devez** jouer un tarock si vous en avez un. Ce n'est que si vous n'avez ni tarock ni carte de la couleur menée que vous êtes libre de jouer n'importe quelle carte. La levée est gagnée par le tarock le plus élevé qu'elle contient, ou, si elle ne contient aucun tarock, par la plus haute carte de la couleur menée.
 
-## The scoring
+Si votre équipe a annoncé un pagátultimó, vous êtes obligé de conserver le pagát le plus longtemps possible. Vous ne pouvez pas le jouer tant que vous n'y êtes pas forcé par les règles ci-dessus de suivi de couleur et de jeu d'un tarock si incapable de suivre. Même s'il devient clair que le pagát ne peut pas gagner la dernière levée, vous n'êtes pas autorisé à le jouer tôt pour le sauver.
 
-The scoring system is designed for people who settle up by pushing money across the table at the end of each hand. In contracts with two players on each side, each player on the losing team pays one of the players on the winning team the net score for the game and any bonuses which happened on that hand. If you are playing alone against the other three players together (because you called your own **XX** or a discarded tarokk), you are paid the net score by each of them (or if you lose you pay it to each of them), so the value to declarer of such contracts is three times as much. When there are five players the payments are only between the four active players; the dealer neither wins nor loses. If you prefer to note the scores on a score sheet, then receipts are recorded as plus and payments as minus, so that the scores of the players always add up to zero.
+Puisque souvent pendant les premières phases du jeu vous ne savez pas qui est votre partenaire, les joueurs conservent leurs propres levées dans des piles séparées face en bas, et la partie des défenseurs de la défausse doit également être gardée séparée. Ce n'est que lorsque le tarock appelé a été joué (ou qu'un autre événement s'est produit prouvant quels joueurs sont partenaires) que les piles peuvent être combinées en deux : cartes du déclarant et cartes des défenseurs.
 
-First, the cards taken by each team are counted, using the scale of card points explained above. There are 94 card points altogether. If the declarer's team have taken at least 48 points (more than half) they have won the **game**. The opponents win if they have 47 or more. If either team has more than three quarters of the card points, so that the other side has 23 points or fewer, they have won a **double game**. A team which has taken all the tricks has won **volát**.
+Lorsque les neuf levées ont été jouées, les points de cartes pris par chaque côté sont comptés et la main est marquée. Le joueur à la droite du donneur précédent mélange alors, fait couper les cartes, et distribue la main suivante.
 
-The basic payment for the game depends on the bid. These basic scores are doubled if double game was made by either side, or multiplied by three if volát was made. If double game was announced, the basic game score is multiplied by four and if volát was announced it is multiplied by six.
+## Le comptage
 
-| Bid | Basic game score | Silent double game | Silent volát | Announced double game | Announced volát |
-| Three | 1 point | 2 points | 3 points | 4 points | 6 points |
-| Two | 2 points | 4 points | 6 points | 8 points | 12 points |
-| One | 3 points | 6 points | 9 points | 12 points | 18 points |
+Le système de comptage est conçu pour les personnes qui règlent leurs comptes en faisant passer de l'argent sur la table à la fin de chaque main. Dans les contrats avec deux joueurs de chaque côté, chaque joueur de l'équipe perdante paie un des joueurs de l'équipe gagnante le score net de la partie et de tous les bonus qui se sont produits lors de cette main. Si vous jouez seul contre les trois autres joueurs ensemble (parce que vous avez appelé votre propre **XX** ou un tarock défaussé), vous êtes payé le score net par chacun d'eux (ou si vous perdez, vous le payez à chacun d'eux), donc la valeur pour le déclarant de ces contrats est trois fois plus grande. Quand il y a cinq joueurs, les paiements n'interviennent qu'entre les quatre joueurs actifs ; le donneur ne gagne ni ne perd. Si vous préférez noter les scores sur une feuille, les recettes sont enregistrées comme positifs et les paiements comme négatifs, de sorte que les scores des joueurs s'additionnent toujours à zéro.
+
+D'abord, les cartes prises par chaque équipe sont comptées, selon l'échelle des points de cartes expliquée ci-dessus. Il y a 94 points de cartes au total. Si l'équipe du déclarant a pris au moins 48 points (plus de la moitié), elle a gagné la **partie**. Les adversaires gagnent s'ils ont 47 ou plus. Si l'une des équipes a plus des trois quarts des points de cartes, de sorte que l'autre côté a 23 points ou moins, elle a gagné une **partie double**. Une équipe qui a pris toutes les levées a gagné un **volát**.
+
+Le paiement de base de la partie dépend de l'enchère. Ces scores de base sont doublés si une partie double a été réalisée par l'un ou l'autre côté, ou multipliés par trois si un volát a été réalisé. Si une partie double a été annoncée, le score de base de la partie est multiplié par quatre, et si un volát a été annoncé, il est multiplié par six.
+
+| Enchère | Score de base de la partie | Partie double silencieuse | Volát silencieux | Partie double annoncée | Volát annoncé |
+| Trois | 1 point | 2 points | 3 points | 4 points | 6 points |
+| Deux | 2 points | 4 points | 6 points | 8 points | 12 points |
+| Un | 3 points | 6 points | 9 points | 12 points | 18 points |
 | Solo | 4 points | 8 points | 12 points | 16 points | 24 points |
 
-Note that in the absence of announcements or kontras, the scores for game, double game and volát are alternatives - if the bid is two and the declarer's team takes 75 card points, the payment of 4 points for double game replaces the 2 points for game; it is not additional.
+Notez qu'en l'absence d'annonces ou de kontras, les scores de la partie, de la partie double et du volát sont des alternatives — si l'enchère est deux et que l'équipe du déclarant prend 75 points de cartes, le paiement de 4 points pour la partie double remplace les 2 points de la partie ; ce n'est pas supplémentaire.
 
-If double game or volát is announced, or the game is kontra'd, the situation is more complex. The rules determining the score for game, double game and volát are as follows:
+Si la partie double ou le volát est annoncé, ou si la partie fait l'objet d'un kontra, la situation est plus complexe. Les règles déterminant le score de la partie, de la partie double et du volát sont les suivantes :
 
-- If neither double game nor volát was announced and the game was not kontra'd, then only one of the game, the double game and the volát is scored, depending on what card points / tricks are made. 
+- Si ni la partie double ni le volát n'ont été annoncés et que la partie n'a pas reçu de kontra, un seul de la partie, de la partie double ou du volát est marqué, selon ce qui a été réalisé en points de cartes / levées.
 
-- If a team announces double game, they cannot score for the ordinary game, but they can score volát in addition to the announced double game if they win all the tricks. If they lose not only the announcement but the game as well, the opponents will score for the ordinary game as well as the failed announced double game (5 times the game in total). If the opponents managed to make their own double game or even volát, they would score that instead of the ordinary game, in addition to the failed announced double game.
+- Si une équipe annonce la partie double, elle ne peut pas marquer pour la partie ordinaire, mais elle peut marquer un volát en plus de la partie double annoncée si elle remporte toutes les levées. Si elle perd non seulement l'annonce mais aussi la partie, les adversaires marqueront pour la partie ordinaire ainsi que pour la partie double annoncée échouée (5 fois la partie au total). Si les adversaires parviennent à réaliser leur propre partie double ou même un volát, ils marqueront cela à la place de la partie ordinaire, en plus de la partie double annoncée échouée.
 
-- If a team announces both double game and volát, then each of these bonuses is scored separately; it is possible to win the double game while losing the volát. The ordinary game is not scored unless the announcing team loses the game, in which case the opponents score for it. In the unlikely case that the opponents made a silent double game or volát they would score that in place of the ordinary game.
+- Si une équipe annonce à la fois la partie double et le volát, chacun de ces bonus est marqué séparément ; il est possible de gagner la partie double tout en perdant le volát. La partie ordinaire n'est pas marquée sauf si l'équipe annonçant perd la partie, auquel cas les adversaires marquent pour elle. Dans le cas improbable où les adversaires ont réalisé une partie double silencieuse ou un volát silencieux, ils marqueraient cela à la place de la partie ordinaire.
 
-- If a team announces volát but not double game, the volát is scored (won or lost). The announcing team cannot score anything for game or double game, but if the opponents win the game (or double game or volát) they score for it.
+- Si une équipe annonce le volát mais pas la partie double, le volát est marqué (gagné ou perdu). L'équipe annonçante ne peut rien marquer pour la partie ou la partie double, mais si les adversaires gagnent la partie (ou la partie double ou le volát), ils marquent pour cela.
 
-- If the game is kontra'd it is always scored. If either side makes a silent double game or volát, that is scored in addition to the kontra'd game (but not both the double game and the volát).
+- Si la partie fait l'objet d'un kontra, elle est toujours marquée. Si l'un ou l'autre côté réalise une partie double silencieuse ou un volát silencieux, cela est marqué en plus de la partie avec kontra (mais pas les deux : partie double et volát).
 
-- If the game is kontra'd (or rekontra'd) and double game and / or volát is announced (by either team), the game is scored as well as the announcements. A silent volát can be scored in addition to a kontra'd game and an announced double game.
+- Si la partie fait l'objet d'un kontra (ou rekontra) et que la partie double et/ou le volát est annoncé (par l'une ou l'autre équipe), la partie est marquée ainsi que les annonces. Un volát silencieux peut être marqué en plus d'une partie avec kontra et d'une partie double annoncée.
 
-The following table summarises the amount by which the basic game score is to be multiplied in various situations, according to the number of card points or tricks taken by the declarer's team. Positive multipliers indicate that declarer's team wins; negative multipliers indicate that the opponents win.
+Le tableau suivant résume le multiplicateur à appliquer au score de base de la partie dans diverses situations, selon le nombre de points de cartes ou de levées pris par l'équipe du déclarant. Les multiplicateurs positifs indiquent que l'équipe du déclarant gagne ; les multiplicateurs négatifs indiquent que les adversaires gagnent.
 
-| BASIC GAME SCORE MULTIPLIERS FOR DECLARER'S TEAM |
-| Announcements | Points / tricks taken by declarer's team |
-| No trick | 23 or fewer | 24-47 | 48-70 | 71 or more | All tricks |
-| Nothing | -3 | -2 | -1 | +1 | +2 | +3 |
-| Double game | -7 | -6 | -5 | -4 | +4 | +7 |
+| MULTIPLICATEURS DU SCORE DE BASE DE LA PARTIE POUR L'ÉQUIPE DU DÉCLARANT |
+| Annonces | Points / levées pris par l'équipe du déclarant |
+| Aucune levée | 23 ou moins | 24-47 | 48-70 | 71 ou plus | Toutes les levées |
+| Rien | -3 | -2 | -1 | +1 | +2 | +3 |
+| Partie double | -7 | -6 | -5 | -4 | +4 | +7 |
 | Volát | -9 | -8 | -7 | -6 | -6 | +6 |
-| Double game, volát | -13 | -12 | -11 | -10 | -2 | +10 |
-| Kontra the game | -5 | -4 | -2 | +2 | +4 | +5 |
-| Kontra the game;opponents announce double | -9 | -6 | +2 | +6 | +8 | +9 |
-| Double game;opponents kontra the double | -11 | -10 | -9 | -8 | +8 | +11 |
-| Double game;opponents kontra the double and the game | -13 | -12 | -10 | -6 | +10 | +13 |
+| Partie double, volát | -13 | -12 | -11 | -10 | -2 | +10 |
+| Kontra à la partie | -5 | -4 | -2 | +2 | +4 | +5 |
+| Kontra à la partie ; adversaires annoncent la partie double | -9 | -6 | +2 | +6 | +8 | +9 |
+| Partie double ; adversaires kontra à la partie double | -11 | -10 | -9 | -8 | +8 | +11 |
+| Partie double ; adversaires kontra à la partie double et à la partie | -13 | -12 | -10 | -6 | +10 | +13 |
 
-The above table does not give an exhaustive list of possible situations, but should be sufficient to illustrate how the scoring works. For example if the bid is "two", the declarer announces double game, the opponents kontra the double game and the game, and the declarer's team takes 52 card points, the score is -6 times 2, that is 12 points paid to the opponents. This is made up of 4 points won by the declarer's team for the kontra'd game and 16 points won by the opponents for the kontra'd announcement of double game.
+Le tableau ci-dessus ne donne pas une liste exhaustive de toutes les situations possibles, mais devrait suffire à illustrer le fonctionnement du comptage. Par exemple, si l'enchère est « deux », le déclarant annonce la partie double, les adversaires font kontra à la partie double et à la partie, et l'équipe du déclarant prend 52 points de cartes, le score est -6 fois 2, soit 12 points payés aux adversaires. Cela se compose de 4 points gagnés par l'équipe du déclarant pour la partie avec kontra et de 16 points gagnés par les adversaires pour l'annonce de partie double avec kontra.
 
-The next table summarises the scores for other bonuses and declarations. These scores are not affected by the basic game value; they are the same, no matter what type of game was bid:
+Le tableau suivant résume les scores pour les autres bonus et déclarations. Ces scores ne sont pas affectés par la valeur de base de la partie ; ils sont les mêmes, quel que soit le type d'enchère :
 
-| Item | Silent | Announced | Notes |
-| Trull | 1 | 2 | A team which wins all the tricks scores nothing for silent trull or silent four kings. Announced trull or four kings are scored as usual. |
-| Four kings (négykirály) | 1 | 2 |
-| Pagátultimó | 5 | 10 | The pagát itself must win the last trick for this bonus to succeed. |
-| XXI-catch (XXI-fogás) | 21 | 42 | The player who loses the XXI must wear the hat. |
-| 8 tarokks (nyolc tarokk) | 1 | 1 | Payment for declared tarokks is made by all other active players, including the partner of the player who holds the tarokks. If the tarokks are not declared, payment can be claimed at the end of the play from the partner of the holder only. |
-| 9 tarokks (kilenc tarokk) | 2 | 2 |
+| Élément | Silencieux | Annoncé | Notes |
+| Trull | 1 | 2 | Une équipe qui remporte toutes les levées ne marque rien pour le trull silencieux ou les quatre rois silencieux. Le trull annoncé ou les quatre rois annoncés sont marqués comme d'habitude. |
+| Quatre rois (négykirály) | 1 | 2 |
+| Pagátultimó | 5 | 10 | Le pagát lui-même doit gagner la dernière levée pour que ce bonus réussisse. |
+| Capture du XXI (XXI-fogás) | 21 | 42 | Le joueur qui perd le XXI doit porter le chapeau. |
+| 8 tarocks (nyolc tarokk) | 1 | 1 | Le paiement pour les tarocks déclarés est effectué par tous les autres joueurs actifs, y compris le partenaire du joueur qui détient les tarocks. Si les tarocks ne sont pas déclarés, le paiement peut être réclamé à la fin du jeu uniquement au partenaire du détenteur. |
+| 9 tarocks (kilenc tarokk) | 2 | 2 |
 
-All of the above scores for bonuses and declarations are available to either team. It is possible for a bonus to be scored twice by one team - for example: if four kings are announced but the opposing team manages to capture all four kings, the successful team scores 3 points for this - 2 points for the failed announcement plus 1 point for their own silent four kings. It is even possible for both teams to announce the same bonus: for example team **A** announces four kings, but team **B** kontras this and also announces four kings. Now if either side actually takes all four kings they will score 6 points; if the kings are split both announcements will be lost, and team **B**'s net score for the two announcements will be 2 points.
+Tous les scores ci-dessus pour les bonus et déclarations sont disponibles pour l'une ou l'autre équipe. Il est possible qu'un bonus soit marqué deux fois par une même équipe — par exemple : si les quatre rois sont annoncés mais que l'équipe adverse parvient à capturer les quatre rois, l'équipe qui réussit marque 3 points pour cela — 2 points pour l'annonce échouée plus 1 point pour ses propres quatre rois silencieux. Il est même possible que les deux équipes annoncent le même bonus : par exemple l'équipe **A** annonce les quatre rois, mais l'équipe **B** fait kontra à cela et annonce également les quatre rois. Maintenant, si l'un ou l'autre côté prend effectivement les quatre rois, il marquera 6 points ; si les rois sont partagés, les deux annonces seront perdues, et le score net de l'équipe **B** pour les deux annonces sera de 2 points.
 
-The rule that silent trull and four kings cannot be scored in addition to volát has an interesting consequence. When the bid is three and nothing has been announced, if you have taken all the honours and kings it is better to give up one trick and make double game, trull and four kings for 4 points (2 + 1 + 1), rather than to win every trick and make volát, which is worth only 3 points.
+La règle selon laquelle le trull silencieux et les quatre rois silencieux ne peuvent pas être marqués en plus du volát a une conséquence intéressante. Lorsque l'enchère est trois et que rien n'a été annoncé, si vous avez pris tous les honneurs et les rois, il vaut mieux concéder une levée et réaliser la partie double, le trull et les quatre rois pour 4 points (2 + 1 + 1), plutôt que de gagner chaque levée et réaliser un volát qui ne vaut que 3 points.
 
-## Conventions: cue bids and the yielded game
+## Conventions : enchères d'appel et la partie cédée
 
-The purpose of conventional bidding is to enable two players who hold strong hands including honours to arrange to be partners, even when neither of them holds the **XX**. This helps them to announce and make more valuable bonuses.
+Le but des enchères conventionnelles est de permettre à deux joueurs qui ont de bonnes mains incluant des honneurs de s'organiser pour être partenaires, même si aucun d'eux ne détient le **XX**. Cela les aide à annoncer et réaliser des bonus plus précieux.
 
-### Cue bids
+### Enchères d'appel
 
-A cue bid guarantees that the bidder holds a specific tarokk - the **XIX** or the **XVIII**. The main purpose of making a cue bid is to enable the eventual winner of the bidding to become your partner by calling the card you have indicated. In Hungarian these bids are called *"invit"* (literally invitations), but we have found that new players learning the game find the term "invitation" for these bids confusing, so here I use instead the term "cue bid", borrowed from Bridge.
+Une enchère d'appel garantit que l'enchérisseur détient un tarock spécifique — le **XIX** ou le **XVIII**. Le but principal d'une enchère d'appel est de permettre au gagnant final des enchères de devenir votre partenaire en appelant la carte que vous avez indiquée. En hongrois, ces enchères sont appelées *« invit »* (littéralement invitations), mais nous avons trouvé que les nouveaux joueurs qui apprennent le jeu trouvent le terme « invitation » pour ces enchères confus, j'utilise donc ici le terme « enchère d'appel », emprunté au Bridge.
 
-However, unlike Bridge conventions, these bidding conventions are part of the rules of the game. It is **illegal** to make a cue bid or to yield the game if you do not hold the indicated tarokk. On the other hand you are not forced to make a cue bid or yield just because you hold the requisite cards - you may pass or make the minimum bid instead if you wish.
+Cependant, contrairement aux conventions du Bridge, ces conventions d'enchères font partie des règles du jeu. Il est **interdit** de faire une enchère d'appel ou de céder la partie si vous ne détenez pas le tarock indiqué. D'un autre côté, vous n'êtes pas obligé de faire une enchère d'appel ou de céder simplement parce que vous détenez les cartes requises — vous pouvez passer ou faire l'enchère minimale à la place si vous le souhaitez.
 
-A cue bid is made by means of a jump in the bidding:
+Une enchère d'appel se fait par un saut dans les enchères :
 
-- A bid which is **one** level higher than the minimum bid available is a cue bid showing the **XIX** (but see variations). 
+- Une enchère qui est d'**un** niveau plus élevé que l'enchère minimale disponible est une enchère d'appel montrant le **XIX** (mais voir les variations).
 
-- A bid which is **two** levels higher than the minimum bid available is a cue bid showing the **XVIII**. 
+- Une enchère qui est de **deux** niveaux plus élevée que l'enchère minimale disponible est une enchère d'appel montrant le **XVIII**.
 
-If the bidding is eventually won by a player other than the one who made the cue bid, the declarer **must** call the tarokk shown by the cue bid.
+Si les enchères sont finalement gagnées par un joueur autre que celui qui a fait l'enchère d'appel, le déclarant **doit** appeler le tarock montré par l'enchère d'appel.
 
-There are two situations in which a jump is not a cue bid:
+Il y a deux situations dans lesquelles un saut n'est pas une enchère d'appel :
 
-- There can only be one cue bid during the auction. If there has already been a cue bid, a second jump bid in the same auction has no conventional meaning. 
+- Il ne peut y avoir qu'une seule enchère d'appel pendant l'enchère. S'il y a déjà eu une enchère d'appel, un deuxième saut dans la même enchère n'a pas de signification conventionnelle.
 
-- If the first three players pass, a bid by the fourth player is never counted as a cue bid. (There would be little point in cue-bidding in this situation, since no other player is in a position to take over the contract and call the cue-bid card.)
+- Si les trois premiers joueurs passent, une enchère du quatrième joueur n'est jamais comptée comme une enchère d'appel. (Il y aurait peu d'intérêt à faire une enchère d'appel dans cette situation, puisque aucun autre joueur n'est en position de reprendre le contrat et d'appeler la carte de l'enchère d'appel.)
 
-Normally a player who makes a cue bid will have a fairly strong hand and a high honour. It is possible to make a cue bid when your only honour is the pagát but if you do this there is an additional constraint: you must announce pagátultimó at your first turn to speak during the round of announcements.
+Normalement, un joueur qui fait une enchère d'appel aura une main assez forte et un honneur élevé. Il est possible de faire une enchère d'appel lorsque votre seul honneur est le pagát, mais si vous le faites, il y a une contrainte supplémentaire : vous devez annoncer le pagátultimó à votre premier tour de parole pendant le tour d'annonces.
 
-Note that using normal bidding conventions it is not possible to cue bid the **XVII**. The only possibility of a triple jump would be an opening bid of Solo, and that cannot usefully be given a conventional meaning as a cue bid, since no one can bid over it to call the indicated card. A possible method of cue bidding the **XVII** is explained in the variations section.
+Notez qu'avec les conventions d'enchères normales, il n'est pas possible de faire une enchère d'appel pour le **XVII**. La seule possibilité d'un triple saut serait une enchère d'ouverture de Solo, et on ne peut pas utilement lui donner une signification conventionnelle comme enchère d'appel, puisque personne ne peut surenchérir pour appeler la carte indiquée. Une méthode possible d'enchère d'appel pour le **XVII** est expliquée dans la section des variations.
 
-### Yielded game
+### Partie cédée
 
-A second type of conventional sequence is the **yielded game** *(engedett játék)*. This can only occur when one player has bid **three**, someone else has bid **two**, and both of the other players have passed. In this case, a **pass** by the player who originally bid **three** is conventional, guaranteeing that that player who passes holds the **XX** plus at least one high honour (skíz or XXI).
+Un deuxième type de séquence conventionnelle est la **partie cédée** *(engedett játék)*. Cela ne peut se produire que lorsqu'un joueur a enchéri **trois**, quelqu'un d'autre a enchéri **deux**, et que les deux autres joueurs ont passé. Dans ce cas, un **passe** du joueur qui a enchéri **trois** en premier est conventionnel, garantissant que le joueur qui passe détient le **XX** plus au moins un honneur élevé (skíz ou XXI).
 
-### Examples of bidding sequences
+### Exemples de séquences d'enchères
 
-Here are some further examples of bidding sequences, most of which involve conventional bids:
+Voici d'autres exemples de séquences d'enchères, dont la plupart impliquent des enchères conventionnelles :
 
-| Bidding | Comments |
+| Enchères | Commentaires |
 | A | B | C | D |
-| Three | Pass | Pass | One |
-| Solo | | | Pass |
+| Trois | Passe | Passe | Un |
+| Solo | | | Passe |
 
-**D**'s single jump is a cue bid of the **XIX**. **A**'s solo bid is also a jump (**A** could have held) but is not a cue bid, since **D** has already cue bid. **A** is the declarer, in a contract of solo, and must call **D**'s **XIX**. As well as increasing the value of the game, **A**'s solo bid allows **D** to exchange two cards with the talon, rather than **A** and **D** exchanging one each, which may or may not be an advantage.
-
-| A | B | C | D |
-| Three | Solo | Pass | Pass |
-| Hold | | | |
-
-**B**'s double jump is a cue bid of the **XVIII**. **A** is the declarer in a contract of solo and must call **B**'s **XVIII**. The bidding ends after **A**'s "hold" as there are no more legal bids that can be made.
+Le saut simple de **D** est une enchère d'appel du **XIX**. L'enchère de solo d'**A** est aussi un saut (**A** aurait pu maintenir) mais n'est pas une enchère d'appel, puisque **D** a déjà fait une enchère d'appel. **A** est le déclarant, dans un contrat de solo, et doit appeler le **XIX** de **D**. Outre l'augmentation de la valeur de la partie, l'enchère de solo d'**A** permet à **D** d'échanger deux cartes avec le talon, plutôt qu'à **A** et **D** d'en échanger une chacun, ce qui peut ou non être un avantage.
 
 | A | B | C | D |
-| Two | Pass | Pass | One |
-| Pass | | | |
+| Trois | Solo | Passe | Passe |
+| Maintient | | | |
 
-**A**'s opening bid of two is a jump (**A** could have started with three), showing the **XIX**. **D** is the declarer, and must call **A**'s **XIX**.
-
-| A | B | C | D |
-| Pass | Three | Two | Pass |
-| | One | Hold | |
-| | Pass | | |
-
-**C** is the declarer, the game is one, and **C** must call **B**'s **XIX**. **B** could have held **C**'s bid of "two", so the one bid was a level higher than necessary, and therefore a cue bid of the **XIX**. Some players adhere to the older rules of bidding, whereby **C** is not allowed to hold in this situation (see variations). Under those older rules, **C** would need to bid solo to become declarer and call the **XIX**.
+Le double saut de **B** est une enchère d'appel du **XVIII**. **A** est le déclarant dans un contrat de solo et doit appeler le **XVIII** de **B**. Les enchères se terminent après le « maintient » d'**A** car il n'y a plus d'enchères légales possibles.
 
 | A | B | C | D |
-| Three | Two | Solo | |
-| Pass | Hold | | |
+| Deux | Passe | Passe | Un |
+| Passe | | | |
 
-**B** is the declarer, and must call the **XIX** which **C** has cue bid. Note that many players still use an older system of conventions (see variations) whereby any jump to solo is a cue bid of the **XVIII**. Under the old system **C** cannot cue bid the **XIX** in this example - whereas under the new system **C** cannot cue bid the **XVIII**.
-
-| A | B | C | D |
-| Two | One | Solo | |
-| Pass | Pass | | |
-
-**A** cue bid the **XIX** and **B** and **C** competed to be allowed to call it. **B** could have become **A**'s partner by holding the Solo, but perhaps **B** has the **skíz** and is hoping for a **XXI**-catch. Note that if **A** had a change of mind and did not want to be called as a partner by **B** or **C**, **A** could hold the solo.
+L'enchère d'ouverture de deux d'**A** est un saut (**A** aurait pu commencer par trois), montrant le **XIX**. **D** est le déclarant et doit appeler le **XIX** d'**A**.
 
 | A | B | C | D |
-| Three | Pass | One | Solo |
-| Hold | | | |
+| Passe | Trois | Deux | Passe |
+| | Un | Maintient | |
+| | Passe | | |
 
-**C** cue bid the **XIX**, expecting to be called by **A**. **D** interfered with a solo bid, but **A** held it and becomes the declarer, calling **C**'s **XIX**.
-
-| A | B | C | D |
-| Three | Pass | Two | Pass |
-| Pass | | | |
-
-This is a "yielded game". By passing, **A** shows the **XX** plus at least one high honour and **C** must call the **XX**. Notice that in this fairly common type of situation, the only way **A** can avoid making a conventional bid on the second round of the bidding (after Three - Two) is to hold. To bid one or solo would be to cue bid the **XIX** or **XVIII** respectively, and to pass is to yield the game, promising the **XX**.
+**C** est le déclarant, la partie est un, et **C** doit appeler le **XIX** de **B**. **B** aurait pu maintenir l'enchère de deux de **C**, donc l'enchère de un était d'un niveau plus élevé que nécessaire, et par conséquent une enchère d'appel du **XIX**. Certains joueurs adhèrent aux règles d'enchères plus anciennes, selon lesquelles **C** n'est pas autorisé à maintenir dans cette situation (voir les variations). Sous ces anciennes règles, **C** devrait enchérer solo pour devenir déclarant et appeler le **XIX**.
 
 | A | B | C | D |
-| Three | Two | Pass | One |
-| Pass | Pass | | |
+| Trois | Deux | Solo | |
+| Passe | Maintient | | |
 
-There are no conventional bids or passes here. If **D** had passed **A** would be in a similar situation to the example above, but since **D** bid one, this is no longer counts as a yielded game. All we know for sure is that **A**, **B** and **D** each have an honour.
+**B** est le déclarant et doit appeler le **XIX** que **C** a fait l'objet d'une enchère d'appel. Notez que de nombreux joueurs utilisent encore un système de conventions plus ancien (voir les variations) selon lequel tout saut à solo est une enchère d'appel du **XVIII**. Sous l'ancien système, **C** ne peut pas faire d'enchère d'appel pour le **XIX** dans cet exemple — alors que sous le nouveau système **C** ne peut pas faire d'enchère d'appel pour le **XVIII**.
 
 | A | B | C | D |
-| Pass | Pass | Pass | One |
+| Deux | Un | Solo | |
+| Passe | Passe | | |
 
-The first three players all passed, so **D**'s bid is not conventional. All we know from this auction is that **D** has an honour. We may assume that **D** also has a fairly strong hand.
+**A** a fait une enchère d'appel pour le **XIX** et **B** et **C** ont rivalisé pour être autorisés à l'appeler. **B** aurait pu devenir le partenaire d'**A** en maintenant le Solo, mais peut-être que **B** a le **skíz** et espère une **capture du XXI**. Notez que si **A** avait changé d'avis et ne voulait pas être appelé comme partenaire par **B** ou **C**, **A** pourrait maintenir le solo.
+
+| A | B | C | D |
+| Trois | Passe | Un | Solo |
+| Maintient | | | |
+
+**C** a fait une enchère d'appel pour le **XIX**, s'attendant à être appelé par **A**. **D** a interféré avec une enchère de solo, mais **A** l'a maintenue et devient le déclarant, appelant le **XIX** de **C**.
+
+| A | B | C | D |
+| Trois | Passe | Deux | Passe |
+| Passe | | | |
+
+C'est une « partie cédée ». En passant, **A** montre le **XX** plus au moins un honneur élevé et **C** doit appeler le **XX**. Remarquez que dans cette situation assez courante, le seul moyen pour **A** d'éviter de faire une enchère conventionnelle au deuxième tour d'enchères (après Trois - Deux) est de maintenir. Enchérir un ou solo serait faire une enchère d'appel pour le **XIX** ou le **XVIII** respectivement, et passer revient à céder la partie, promettant le **XX**.
+
+| A | B | C | D |
+| Trois | Deux | Passe | Un |
+| Passe | Passe | | |
+
+Il n'y a pas d'enchères conventionnelles ni de passes conventionnels ici. Si **D** était passé, **A** se serait trouvé dans une situation similaire à l'exemple ci-dessus, mais puisque **D** a enchéri un, cela ne compte plus comme une partie cédée. Tout ce que nous savons avec certitude, c'est que **A**, **B** et **D** ont chacun un honneur.
+
+| A | B | C | D |
+| Passe | Passe | Passe | Un |
+
+Les trois premiers joueurs ont tous passé, donc l'enchère de **D** n'est pas conventionnelle. Tout ce que nous savons de cette enchère est que **D** a un honneur. Nous pouvons supposer que **D** a également une main assez forte.
 
 ## Variations
 
-There are quite a lot of minor variations in the rules and conventions observed by different circles of tarokk players. In choosing which rules to present above as the standard version of the game, I have been greatly helped by a survey carried out in 1997 by Gyula Zsigri, in which he obtained responses from members of 11 different groups of tarokk players in various parts of Hungary about which version of the rules they play. On a separate page, you can see a summary of the survey results. Where there was a clear majority, I have followed the majority view of the people surveyed, and in this way I hope I have produced a description which is fairly representative of the way tarokk is actually played in Hungary now.
+Il existe assez de variations mineures dans les règles et conventions observées par différents cercles de joueurs de tarokk. Pour choisir les règles à présenter ci-dessus comme la version standard du jeu, j'ai été grandement aidé par une enquête menée en 1997 par Gyula Zsigri, dans laquelle il a obtenu des réponses de membres de 11 groupes différents de joueurs de tarokk dans diverses régions de Hongrie sur la version des règles qu'ils jouent. Sur une page séparée, vous pouvez voir un résumé des résultats de l'enquête. Lorsqu'il y avait une majorité claire, j'ai suivi l'opinion majoritaire des personnes interrogées, et j'espère ainsi avoir produit une description assez représentative de la façon dont le tarokk est réellement joué en Hongrie aujourd'hui.
 
-There are several Hungarian books with extensive descriptions of tarokk, including those by Dr Endre Kovács, who is widely regarded as the greatest expert on the game. Nevertheless, most of these books describe versions of tarokk which differ in various ways from the rules most commonly played. In some cases this is because the books give older versions of the rules. In others it is because the authors are attempting to introduce rule changes of their own invention, often in the form of different scores and extra bonuses. Few of these proposed changes have been adopted to any great extent in actual play.
+Il existe plusieurs livres hongrois avec des descriptions approfondies du tarokk, dont ceux du Dr Endre Kovács, qui est largement considéré comme le plus grand expert du jeu. Néanmoins, la plupart de ces livres décrivent des versions du tarokk qui diffèrent à divers égards des règles les plus couramment jouées. Dans certains cas, cela est dû au fait que les livres donnent des versions plus anciennes des règles. Dans d'autres, c'est parce que les auteurs tentent d'introduire des changements de règles de leur invention, souvent sous forme de scores différents et de bonus supplémentaires. Peu de ces changements proposés ont été adoptés dans une large mesure en pratique.
 
-The following books include substantial descriptions of tarokk: 
+Les livres suivants incluent des descriptions substantielles du tarokk :
 
-- G. J. Potter: A kártyajáték művészete (Budapest, 1930) - reprinted in Zsigri Gyula: 21 válogatott kártyajáték (Szeged, 1993)
+- G. J. Potter: A kártyajáték művészete (Budapest, 1930) — réimprimé dans Zsigri Gyula: 21 válogatott kártyajáték (Szeged, 1993)
 
 - Dr Kovács Endre, Dr Szigetvári Zoltán: Tarokk-őr (Budapest, 1940)
 
@@ -522,7 +526,7 @@ The following books include substantial descriptions of tarokk:
 
 - Michael Dummett: The Game of Tarot (London, 1980)
 
-- (ed. Dr Berend Mihály): Kártyások könyve (Budapest, 1984) - reprinted with revisions as Nagy Kártyakönyv (1990, 1994)
+- (éd. Dr Berend Mihály): Kártyások könyve (Budapest, 1984) — réimprimé avec révisions sous le titre Nagy Kártyakönyv (1990, 1994)
 
 - Dr Kovács Endre: Tarokk-kódex (Budapest, 1989)
 
@@ -534,250 +538,248 @@ The following books include substantial descriptions of tarokk:
 
 - Michael Dummett and John McLeod: A History of Games Played with the Tarot Pack (Lampeter, 2004)
 
-Lóránt Kégl has published a [Tarokk page for advanced players](https://lorantkegl.eu/tarokk_en.htm), which explains the tactics of the game in depth as well as proposing a standard version of the rules.
+Lóránt Kégl a publié une [page Tarokk pour joueurs avancés](https://lorantkegl.eu/tarokk_en.htm), qui explique en profondeur les tactiques du jeu et propose une version standard des règles.
 
-### Variations in the equipment and deal
+### Variations dans le matériel et la distribution
 
-Some players use the fours of the red suits instead of aces. This makes no actual difference to the game, but has the slight practical advantage that the fours of hearts and diamonds are easier to tell apart than the aces, having suit symbols in the corners.
+Certains joueurs utilisent les quatre des couleurs rouges au lieu des as. Cela ne fait aucune différence au jeu, mais présente le léger avantage pratique que les quatre de cœurs et de carreaux sont plus faciles à distinguer que les as, ayant des symboles de couleur dans les coins.
 
-Some players allow the person to dealer's left, instead of cutting the cards, to refuse to cut by knocking on the top of the pack instead. In this case, after dealing the first six cards to the talon, the dealer must deal the remaining cards in batches of nine. Each active player in turn, starting to the **left** of the dealer and going around **clockwise** decides which batch to take as their hand.
+Certains joueurs permettent à la personne à la gauche du donneur, au lieu de couper les cartes, de refuser de couper en frappant le dessus du paquet. Dans ce cas, après avoir distribué les six premières cartes au talon, le donneur doit distribuer les cartes restantes par paquets de neuf. Chaque joueur actif à son tour, en commençant à la **gauche** du donneur et en allant dans le sens **horaire**, décide quel paquet prendre comme sa main.
 
-### Variations in the bidding procedure
+### Variations dans la procédure d'enchères
 
-There is an important variation in the rule about holding. The original rule was that you can only hold the bid of another player if your first turn to speak was earlier, and no one else has already held that bid. So if the players in anticlockwise order starting to dealer's right are **A**, **B**, **C** and **D**, **A** can hold the bids of all the other players, **B** can hold bids by **C** and **D**, **C** can hold bids by **D**, and **D** can never hold. Most of the books still give this rule, and a significant minority of players still follow it. The biggest practical difference occurs in cue bid sequences. For example with the newer rule, the sequence **A** - Three; **B** - Two; **A** - Solo; **B** - Hold is possible. With the old rule **A**'s Solo would be useess as no one else would be allowed to bid after it. In order to cue bid **A** must either open with Two or One at his first turn or rebid One at his second turn.
+Il existe une variation importante dans la règle du maintien. La règle originale était que vous ne pouvez maintenir l'enchère d'un autre joueur que si votre premier tour de parole était antérieur, et que personne d'autre n'a déjà maintenu cette enchère. Donc si les joueurs dans l'ordre antihoraire commençant par la droite du donneur sont **A**, **B**, **C** et **D**, **A** peut maintenir les enchères de tous les autres joueurs, **B** peut maintenir les enchères de **C** et **D**, **C** peut maintenir les enchères de **D**, et **D** ne peut jamais maintenir. La plupart des livres donnent encore cette règle, et une minorité significative de joueurs la suivent encore. La plus grande différence pratique se produit dans les séquences d'enchères d'appel. Par exemple, avec la règle plus récente, la séquence **A** - Trois ; **B** - Deux ; **A** - Solo ; **B** - Maintient est possible. Avec l'ancienne règle, le Solo d'**A** serait inutile car personne d'autre ne serait autorisé à enchérir après. Pour faire une enchère d'appel, **A** doit soit ouvrir avec Deux ou Un à son premier tour, soit surenchérir Un à son deuxième tour.
 
-If a player bids **three** and everyone else passes, some groups allow the bidder to increase the bid to two or one before taking cards from the talon. This purpose of this rule is to allow for the fact that the bidder might want play two or one, but was not allowed to bid it originally, lacking the necessary cards for a cue bid.
+Si un joueur enchérit **trois** et que tout le monde passe, certains groupes permettent à l'enchérisseur d'augmenter son enchère à deux ou un avant de prendre des cartes du talon. Le but de cette règle est de tenir compte du fait que l'enchérisseur pourrait vouloir jouer deux ou un, mais n'était pas autorisé à l'enchérir initialement, faute des cartes nécessaires pour une enchère d'appel.
 
-Some people do not play with the doubling of scores after a hand is passed out or annulled. In this variation, the cards are thrown in, the turn to deal passes to the next dealer and the game continues with normal scoring as before.
+Certaines personnes ne jouent pas avec le doublement des scores après une main sans enchère ou annulée. Dans cette variante, les cartes sont jetées, le tour de distribution passe au donneur suivant et le jeu continue avec un comptage normal.
 
-Some play that if a hand is passed out or annulled during a doubled round, an additional round of hands for doubled stakes is played after the end of the currently scheduled set of doubled hands. No hand is ever played for quadrupled or higher stakes. 
+Certains jouent que si une main est sans enchère ou annulée pendant un tour doublé, un tour supplémentaire de mains à enjeux doublés est joué après la fin de la série actuelle de mains doublées. Aucune main n'est jamais jouée à enjeux quadruplés ou supérieurs.
 
-Others play that if a hand is passed out or annulled during a doubled round, a complete round of deals is then played for quadrupled stakes. In this version the stakes are usually not allowed to be doubled further; if another passed or annulled hand occurs during the quadrupled round, the period of quadrupled stakes is simply extended to last for a complete round after this occurrence.
+D'autres jouent que si une main est sans enchère ou annulée pendant un tour doublé, un tour complet de distributions est alors joué à enjeux quadruplés. Dans cette version, les enjeux ne sont généralement pas autorisés à être encore doublés ; si une autre main sans enchère ou annulée se produit pendant le tour quadruplé, la période d'enjeux quadruplés est simplement prolongée pour durer un tour complet après cet événement.
 
-### Variations in the discarding and annulling the hand
+### Variations dans la défausse et l'annulation de la main
 
-There are many players who do not allow tarokk **XX** to be discarded. In Gyula Zsigri's survey respondents were almost equally split between those who allow this and those who do not. If you play the version in which it is illegal to discard the **XX**, then there is little point in the rule releasing the declarer from the obligation to call the **XX** if a tarokk has been discarded by any of the other players. In this case, it may be agreed that discarded tarokks are to be admitted at your first turn to speak in the round of announcements, rather than immediately after the discard.
+Il y a de nombreux joueurs qui n'autorisent pas le tarock **XX** à être défaussé. Dans l'enquête de Gyula Zsigri, les répondants étaient presque également répartis entre ceux qui autorisent cela et ceux qui ne l'autorisent pas. Si vous jouez la version dans laquelle il est interdit de défausser le **XX**, il y a alors peu d'intérêt à la règle libérant le déclarant de l'obligation d'appeler le **XX** si un tarock a été défaussé par l'un des autres joueurs. Dans ce cas, on peut convenir que les tarocks défaussés sont admis à votre premier tour de parole du tour d'annonces, plutôt qu'immédiatement après la défausse.
 
-Some players who do not allow the **XX** to be discarded nevertheless still follow the rule that if one of the other players has discarded a tarokk, the declarer can call any tarokk other than an honour.
+Certains joueurs qui n'autorisent pas le **XX** à être défaussé suivent néanmoins la règle selon laquelle si l'un des autres joueurs a défaussé un tarock, le déclarant peut appeler n'importe quel tarock autre qu'un honneur.
 
-Some players admit fewer holdings which allow the deal to be annulled. The only one universally acknowledged is the singleton **XXI**. Most players also allow a hand to be annulled with four kings or with no tarokks at all. Many also allow annulment with a singleton pagát and many with the XXI, I and no other tarokks.
+Certains joueurs admettent moins de mains qui permettent l'annulation de la distribution. La seule universellement reconnue est le **XXI** seul. La plupart des joueurs autorisent également l'annulation avec quatre rois ou sans aucun tarock. Beaucoup autorisent aussi l'annulation avec un pagát seul et beaucoup avec le XXI, le I et aucun autre tarock.
 
-There are a few players who allow the hand to be annulled by a player who has discarded tarokks. This makes annulments much more frequent. For example, a player whose XXI is guarded by only one or two other tarokks will try to discard these so as to throw in the hand and avoid a XXI-catch.
+Il y a quelques joueurs qui autorisent l'annulation de la main par un joueur qui a défaussé des tarocks. Cela rend les annulations beaucoup plus fréquentes. Par exemple, un joueur dont le XXI n'est gardé que par un ou deux autres tarocks essaiera de les défausser pour annuler la main et éviter une capture du XXI.
 
-### Variations in bonuses, announcements and declarations
+### Variations dans les bonus, annonces et déclarations
 
-Some players allow double game and volát to be announced at the same turn to speak. 
+Certains joueurs autorisent la partie double et le volát à être annoncés au même tour de parole.
 
-Other players do not allow double game and volát to be announced by the same player, even on separate rounds; in this version the only way a side can announce both is if one player announces double game and the player's partner then announces volát.
+D'autres joueurs n'autorisent pas la partie double et le volát à être annoncés par le même joueur, même lors de tours séparés ; dans cette version, le seul moyen pour un côté d'annoncer les deux est qu'un joueur annonce la partie double et que le partenaire de ce joueur annonce ensuite le volát.
 
-Some players treat declarations of 8 or 9 tarokks like bonus announcements. A player who declares tarokks and whose allegiance is not yet known is assumed to be on the same side as the most recent speaker in the round of announcements who did not just say pass. Also, if you make an announcement when the most recent announcement made was a declaration of tarokks, you are assumed to be on the same side as the player with the tarokks unless it can be proved otherwise.
+Certains joueurs traitent les déclarations de 8 ou 9 tarocks comme des annonces de bonus. Un joueur qui déclare des tarocks et dont l'allégeance n'est pas encore connue est supposé être du même côté que le dernier intervenant dans le tour d'annonces qui n'a pas simplement dit passe. De plus, si vous faites une annonce lorsque la dernière annonce faite était une déclaration de tarocks, vous êtes supposé être du même côté que le joueur avec les tarocks, sauf si cela peut être prouvé autrement.
 
-In his book, József Pais gives a different set of rules: the declarer's partner is not permitted to declare 8 or 9 tarokks until it is provable that he is the partner; any player who announces anything or says kontra must in the same turn declare 8 or 9 tarokks if held. 
+Dans son livre, József Pais donne un ensemble de règles différent : le partenaire du déclarant n'est pas autorisé à déclarer 8 ou 9 tarocks tant qu'il n'est pas prouvable qu'il est le partenaire ; tout joueur qui annonce quelque chose ou dit kontra doit, dans le même tour, déclarer 8 ou 9 tarocks s'il les détient.
 
-A few people play that a player who has discarded the called tarokk must state that this is the case when announcing their obligatory kontra of the game. 
+Quelques personnes jouent qu'un joueur qui a défaussé le tarock appelé doit le déclarer lors de l'annonce de son kontra obligatoire de la partie.
 
-Illustrated Hungarian Tarokk, which adds six further announced bonuses, is described on a separate page.
+Le Tarokk hongrois illustré, qui ajoute six bonus supplémentaires, est décrit sur une page séparée.
 
-### Variations in the scoring
+### Variations dans le comptage
 
-There is quite a lot of variation in the way that the scores for game, double game and volát interact. For example:
+Il existe pas mal de variations dans la façon dont les scores de la partie, de la partie double et du volát interagissent. Par exemple :
 
-- Some play that if double game is announced or made, the basic game cannot be scored by either side unless it is kontra'd. Similarly, if volát is announced or made, neither side can score an unannounced double game, nor an unkontra'd basic game.
+- Certains jouent que si la partie double est annoncée ou réalisée, la partie de base ne peut être marquée par aucun côté à moins qu'elle ne fasse l'objet d'un kontra. De même, si le volát est annoncé ou réalisé, aucun côté ne peut marquer une partie double non annoncée, ni une partie de base sans kontra.
 
-- There is another variation in which the opponents of declarer cannot score silent double game or volát if they did not kontra the game.
+- Il existe une autre variante dans laquelle les adversaires du déclarant ne peuvent pas marquer une partie double silencieuse ou un volát silencieux s'ils n'ont pas fait kontra à la partie.
 
-- If the game is kontra'd or rekontra'd, some players apply these doubles to the score for any silent double game or silent volát, instead of simply adding the score for the double game or volát. With this way of scoring, a kontra'd game with silent volát scores 6 times the game (3 * 2), rather than 5 times. Also a rekontra'd game with silent double game would score 8 times the game (4 * 2), rather than six times (4 + 2).
+- Si la partie fait l'objet d'un kontra ou d'un rekontra, certains joueurs appliquent ces doubles au score de toute partie double silencieuse ou volát silencieux, au lieu de simplement ajouter le score de la partie double ou du volát. Avec cette façon de compter, une partie avec kontra et un volát silencieux compte 6 fois la partie (3 × 2), plutôt que 5 fois. De même, une partie avec rekontra et une partie double silencieuse compterait 8 fois la partie (4 × 2), plutôt que 6 fois (4 + 2).
 
-Some players allow a silent trull to be scored along with volát, but not a silent four kings. Some do not allow a side to score silent four kings as well as double game.
+Certains joueurs autorisent un trull silencieux à être marqué en plus du volát, mais pas des quatre rois silencieux. Certains n'autorisent pas un côté à marquer les quatre rois silencieux en plus de la partie double.
 
-Some play that if the opponents say kontra to the game, the number of card points they need to win is increased from 47 to 48: if the card points divide 47-47 the declarer's side win. This version is described in Dr Kovács' recent books and has been adopted by a significant number of players.
+Certains jouent que si les adversaires disent kontra à la partie, le nombre de points de cartes dont ils ont besoin pour gagner est augmenté de 47 à 48 : si les points de cartes se répartissent à 47-47, le côté du déclarant gagne. Cette version est décrite dans les livres récents du Dr Kovács et a été adoptée par un nombre significatif de joueurs.
 
-Several of the recent books give different scores for some of the bonuses - for example:
+Plusieurs des livres récents donnent des scores différents pour certains des bonus — par exemple :
 
-- four kings score 2 silent and 4 announced (instead of 1 and 2);
+- quatre rois comptent 2 silencieux et 4 annoncés (au lieu de 1 et 2) ;
 
-- pagátulti scores 6 silent and 12 announced (instead of 5 and 10);
+- pagátulti compte 6 silencieux et 12 annoncés (au lieu de 5 et 10) ;
 
-- XXI-catch scores 30 silent and 60 announced (instead of 21 and 42).
+- capture du XXI compte 30 silencieux et 60 annoncés (au lieu de 21 et 42).
 
-In practice most players stick to the traditional scores. 
+En pratique, la plupart des joueurs conservent les scores traditionnels.
 
-There is a traditional rule in the five player game that anyone who received an honour from the talon must pay the dealer for it at the end of the hand at the rate of 3 points for the skíz, 2 points for the XXI, and 1 point for the pagát. If the recipient forgets to pay before the deal of the next hand is complete, the previous dealer can claim double payment. This rather pointless rule is nowadays rarely played.
+Il existe une règle traditionnelle dans le jeu à cinq joueurs selon laquelle toute personne qui a reçu un honneur du talon doit le payer au donneur à la fin de la main au taux de 3 points pour le skíz, 2 points pour le XXI, et 1 point pour le pagát. Si le bénéficiaire oublie de payer avant que la distribution de la main suivante soit complète, le donneur précédent peut réclamer un double paiement. Cette règle assez inutile est de nos jours rarement jouée.
 
-Some play that in the five player game the dealer weeps or laughs *(sír-nevet)* with the defenders - in other words loses or wins the same amount as the opponents of the declarer.
+Certains jouent que dans le jeu à cinq joueurs, le donneur pleure ou rit *(sír-nevet)* avec les défenseurs — c'est-à-dire perd ou gagne le même montant que les adversaires du déclarant.
 
-### Variations in the bidding conventions
+### Variations dans les conventions d'enchères
 
-There is an important variation in the interpretation of cue bids. The original rule was that any jump bid that could only be overcalled at the level of solo was a cue bid of the **XVIII**, even if it was only a single jump. Most of the books still give this rule, but the majority of players have gone over to the newer interpretation, whereby any single jump is a cue bid of the **XIX**. When combined with the old rule that a bid can only be held by a player whose first turn to bid was earlier, one consequence is that the sequence **A**:3 - **B**:2 - **A**:1 is a cue bid of the **XVIII** by **A**, since **B** can only accept the invitation by bidding solo. Under the newer rule **A**'s bid of one would be a cue bid of the **XIX**, which **B** could accept by holding.
+Il existe une variation importante dans l'interprétation des enchères d'appel. La règle originale était que tout saut qui ne pouvait être surmonté qu'au niveau du solo était une enchère d'appel du **XVIII**, même s'il ne s'agissait que d'un saut simple. La plupart des livres donnent encore cette règle, mais la majorité des joueurs sont passés à l'interprétation plus récente, selon laquelle tout saut simple est une enchère d'appel du **XIX**. Combinée avec l'ancienne règle selon laquelle une enchère ne peut être maintenue que par un joueur dont le premier tour d'enchères était antérieur, une conséquence est que la séquence **A**:3 - **B**:2 - **A**:1 est une enchère d'appel du **XVIII** par **A**, puisque **B** ne peut accepter l'invitation qu'en enchérissant solo. Sous la règle plus récente, l'enchère de un d'**A** serait une enchère d'appel du **XIX**, que **B** pourrait accepter en maintenant.
 
-There are other variations in the conventions:
+Il existe d'autres variations dans les conventions :
 
-- Some play that the first bid of the auction is never a cue bid - so you can begin by bidding two or one on any hand containing an honour. In this version, if you want to cue bid, and no one has bid before you, you must start by bidding three and then make your jump on the next round.
+- Certains jouent que la première enchère de l'enchère n'est jamais une enchère d'appel — vous pouvez donc commencer par enchérir deux ou un avec n'importe quelle main contenant un honneur. Dans cette version, si vous voulez faire une enchère d'appel et que personne n'a enchéri avant vous, vous devez commencer par enchérir trois puis faire votre saut au tour suivant.
 
-- Some play that a bid only counts as a cue bid if some other player eventually becomes the declarer. This means that you can open the bidding with two or one without holding the requisite cards for a cue bid provided that you hold all subsequent bids by other players so as to make sure that you become the declarer.
+- Certains jouent qu'une enchère ne compte comme enchère d'appel que si un autre joueur devient finalement le déclarant. Cela signifie que vous pouvez ouvrir les enchères avec deux ou un sans détenir les cartes requises pour une enchère d'appel, à condition de maintenir toutes les enchères ultérieures d'autres joueurs pour vous assurer de devenir le déclarant.
 
-- Some play that a cue bid is only an invitation to a player who has already bid, and that the invitation can only be accepted by holding the cue bid. In any other case, the effect of the cue bid is cancelled.
+- Certains jouent qu'une enchère d'appel n'est qu'une invitation à un joueur qui a déjà enchéri, et que l'invitation ne peut être acceptée qu'en maintenant l'enchère d'appel. Dans tout autre cas, l'effet de l'enchère d'appel est annulé.
 
-- Some players do not recognise conventional bids or yielded games at all.
+- Certains joueurs ne reconnaissent pas les enchères conventionnelles ni les parties cédées.
 
-In his book, József Pais suggests a way of cue bidding the **XVII**. The idea is that a single jump bid at your **first** opportunity is a cue bid of the **XIX**, whereas if you first make a minimum bid and then a single jump on your **second** turn to bid, this would be interpreted as a cue bid of the **XVII**. For example in each of the following auctions:
+Dans son livre, József Pais suggère une façon de faire une enchère d'appel pour le **XVII**. L'idée est qu'un saut simple à votre **première** opportunité est une enchère d'appel pour le **XIX**, alors que si vous faites d'abord une enchère minimale puis un saut simple à votre **deuxième** tour d'enchère, cela serait interprété comme une enchère d'appel pour le **XVII**. Par exemple, dans chacune des enchères suivantes :
 
-- **A**:pass, **B**:3, **C**:2, **D**:pass, **B**:1, **C**:solo, **B**:pass
+- **A**:passe, **B**:3, **C**:2, **D**:passe, **B**:1, **C**:solo, **B**:passe
 
-- **A**:3, **B**:2, **C**:pass, **D**:pass, **A**:hold, **B**:solo, **A**:hold
+- **A**:3, **B**:2, **C**:passe, **D**:passe, **A**:maintient, **B**:solo, **A**:maintient
 
-player **B** has made a cue bid showing the **XVII** and a high honour, and the declarer must call the **XVII**.
+le joueur **B** a fait une enchère d'appel montrant le **XVII** et un honneur élevé, et le déclarant doit appeler le **XVII**.
 
-## Advice on tactics
+## Conseils tactiques
 
-### Assessing the strength of a hand
+### Évaluer la force d'une main
 
-Before discussing the details of bidding, announcements and play, it is useful to have a general idea of what constitutes a strong or weak hand. By a strong hand we mean one that has the power to take more than an average share of the tricks. By winning tricks you not only gain card points but also choose what card to lead next, and so decide the course of the play.
+Avant de discuter en détail des enchères, des annonces et du jeu, il est utile d'avoir une idée générale de ce qui constitue une main forte ou faible. Par main forte, nous entendons une main qui a la capacité de remporter plus que la part moyenne des levées. En gagnant des levées, non seulement vous gagnez des points de cartes, mais vous choisissez aussi quelle carte mener ensuite, et donc décidez du cours du jeu.
 
-The strength of a hand depends mainly on tarokks: how many you have and how high they are. An average hand has 5 tarokks. A really strong hand contains at least 6 or 7 tarokks, including two or three of the highest ones (XVIII or above) and several middle tarokks (X to XVII). A hand of 7 or 8 small tarokks most of which are small is less strong than it may at first appear - although you can play a trump to most tricks you will not often have the lead, and so will not be able to control the game.
+La force d'une main dépend principalement des tarocks : combien vous en avez et à quel point ils sont élevés. Une main moyenne a 5 tarocks. Une main vraiment forte contient au moins 6 ou 7 tarocks, dont deux ou trois des plus élevés (XVIII ou au-dessus) et plusieurs tarocks moyens (X à XVII). Une main de 7 ou 8 tarocks dont la plupart sont petits est moins forte qu'elle n'y paraît au premier abord — bien que vous puissiez jouer un atout à la plupart des levées, vous n'aurez souvent pas la main, et ne pourrez donc pas contrôler le jeu.
 
-In general the fewer different suits you have, the stronger your cards are. Suits of two or more cards headed by a king are stronger than unheaded suits. A suit consisting of a lone king and no other cards is a disadvantage.
+En général, moins vous avez de couleurs différentes, plus vos cartes sont fortes. Les couleurs de deux cartes ou plus menées par un roi sont plus fortes que les couleurs sans honneur. Une couleur composée d'un roi seul et d'aucune autre carte est un désavantage.
 
-Normally it is good to have a strong hand, but when there is a prospect of a XXI-catch, players often need to avoid taking tricks. A strong hand for taking tricks is generally not such a good hand for catching or saving the XXI; what a good hand is for that purpose is dealt with separately under XXI-catch.
+Normalement, il est bon d'avoir une main forte, mais lorsqu'il y a une perspective de capture du XXI, les joueurs doivent souvent éviter de remporter des levées. Une main forte pour remporter des levées n'est généralement pas une aussi bonne main pour capturer ou sauver le XXI ; ce qu'est une bonne main à cet effet est traité séparément dans la section sur la capture du XXI.
 
-Tarokk is a game where players holding fairly poor cards often play important roles. If you pick up a weak hand, it is not time to relax. The play of a weak hand can require more concentration than when your hand is strong: you must try to deduce where the strength lies and how the cards are distributed among the other players, so that you can play in a way that will help your partner.
+Le Tarokk est un jeu où les joueurs ayant des cartes assez médiocres jouent souvent des rôles importants. Si vous recevez une main faible, ce n'est pas le moment de vous détendre. Le jeu d'une main faible peut nécessiter plus de concentration que lorsque votre main est forte : vous devez essayer de déduire où se trouve la force et comment les cartes sont réparties entre les autres joueurs, pour que vous puissiez jouer d'une manière qui aidera votre partenaire.
 
-### Bidding
+### Enchères
 
-It is a rule that you must have an honour to bid, but it is important to realise that apart from this it is not necessary to have a particularly strong hand. Your initial task as declarer is only to take more than half of the card points. If the game is three or two your team will be exchanging at least as many talon cards as the opponents, you have an honour and your partner will have at least one good tarokk (the called card). In fact it is sensible to bid on most hands which contain the skíz - for one thing you want to make sure that the hand is played so that you may have a chance to catch the XXI. Holding the XXI or the pagát you will usually want to bid unless your hand is well below average in strength. 
+C'est une règle que vous devez avoir un honneur pour enchérir, mais il est important de réaliser qu'à part cela, il n'est pas nécessaire d'avoir une main particulièrement forte. Votre tâche initiale en tant que déclarant est seulement de remporter plus de la moitié des points de cartes. Si la partie est trois ou deux, votre équipe échangera au moins autant de cartes du talon que les adversaires, vous avez un honneur et votre partenaire aura au moins un bon tarock (la carte appelée). En fait, il est sensé d'enchérir sur la plupart des mains qui contiennent le skíz — d'une part, vous voulez vous assurer que la main est jouée pour que vous ayez une chance de capturer le XXI. En détenant le XXI ou le pagát, vous voudrez généralement enchérir, à moins que votre main ne soit bien en dessous de la moyenne en force.
 
-If you have short tarokks including the XXI but not the skíz, you may be tempted to pass because of the danger of a XXI-catch. However, playing dead like this rarely works against good players. The holder of the skíz will probably try to catch the XXI in any case. Experience suggests that it is better for a weak XXI to bid so as to become declarer, or at least to obtain more than one card from the talon. Discarding two cards should create at least one void suit on which the XXI may escape. The only case in which passing is definitely better is when you are sitting in fourth position after three passes, in which case you can annul the hand by passing. 
+Si vous avez des tarocks courts incluant le XXI mais pas le skíz, vous pourriez être tenté de passer en raison du danger d'une capture du XXI. Cependant, jouer mort de cette façon fonctionne rarement contre de bons joueurs. Le détenteur du skíz essaiera probablement de capturer le XXI de toute façon. L'expérience suggère qu'il vaut mieux pour un XXI faible d'enchérir pour devenir déclarant, ou au moins d'obtenir plus d'une carte du talon. Défausser deux cartes devrait créer au moins une couleur vide par laquelle le XXI peut s'échapper. Le seul cas où passer est définitivement meilleur est lorsque vous êtes assis en quatrième position après trois passes, auquel cas vous pouvez annuler la main en passant.
 
-Another type of hand on which you might pass is an average hand that contains the **XX** and the pagát but no high honour. With this hand you expect to be called by the eventual winner of the bidding in any case, and then your partner will have a high honour, rather than just the XIX that you would have to call. There are two ways in which this plan can go wrong: if your hand is too strong there is a danger that everyone else might pass; and if your hand is weak there is a danger that the players with the other two honours might get together successfully by means of a cue bid, cutting out your **XX**.
+Un autre type de main sur lequel vous pourriez passer est une main moyenne qui contient le **XX** et le pagát mais pas de haut honneur. Avec cette main, vous vous attendez à être appelé par le gagnant final des enchères de toute façon, et votre partenaire aura alors un honneur élevé, plutôt que simplement le XIX que vous auriez dû appeler. Il y a deux façons dont ce plan peut mal tourner : si votre main est trop forte, il y a un risque que tout le monde passe ; et si votre main est faible, il y a un risque que les joueurs avec les deux autres honneurs réussissent à s'associer grâce à une enchère d'appel, excluant votre **XX**.
 
-There is one case in which you should nearly always bid if you have an honour: if the player to your immediate left bids three you should automatically bid two if it is legal. If you are left to play the two it is a yielded game, and you have an excellent partner with the XX and a high honour. On the other hand, if the player to your left bids again you are relieved of the responsibility of being declarer and you have gained an additional card from the talon.
+Il y a un cas où vous devriez presque toujours enchérir si vous avez un honneur : si le joueur immédiatement à votre gauche enchérit trois, vous devriez automatiquement enchérir deux si c'est légal. Si on vous laisse jouer le deux, c'est une partie cédée, et vous avez un excellent partenaire avec le XX et un honneur élevé. D'un autre côté, si le joueur à votre gauche enchérit à nouveau, vous êtes libéré de la responsabilité d'être déclarant et vous avez gagné une carte supplémentaire du talon.
 
-To make a cue bid you should have the indicated card (**XIX** or **XVIII**), a high honour, and a good hand, ideally containing at least six tarokks. Cue bidding with the pagát and no high honour is very rare, and requires an extremely strong hand, with at least eight and preferably nine good tarokks. To yield the game you do not need so much strength - often you would rather have a partner with an honour than a partner with the **XIX**.
+Pour faire une enchère d'appel, vous devez avoir la carte indiquée (**XIX** ou **XVIII**), un honneur élevé, et une bonne main, contenant idéalement au moins six tarocks. Faire une enchère d'appel avec le pagát et sans honneur élevé est très rare et nécessite une main extrêmement forte, avec au moins huit et idéalement neuf bons tarocks. Pour céder la partie, vous n'avez pas besoin d'autant de force — souvent vous préférez avoir un partenaire avec un honneur qu'un partenaire avec le **XIX**.
 
-Finally, it is important for everyone to **remember the bidding** during the rest of the hand. Anyone who bids must have at least one of the three honours, so if two or three people have bid, you already have useful information about the position of these cards.
+Enfin, il est important pour tout le monde de **se souvenir des enchères** pendant le reste de la main. Quiconque enchérit doit avoir au moins un des trois honneurs, donc si deux ou trois personnes ont enchéri, vous avez déjà des informations utiles sur la position de ces cartes.
 
-### Discarding
+### Défausse
 
-From the point of view of getting the maximum number of points in your part of the skart, since kings and honours cannot be discarded, the best discards are queens and riders for everyone except the declarer's partner. If you hold the **XX** and know you are going to be called, then from this point of view you would prefer to discard a ten or an ace, because your discard will belong to the declarer's opponents.
+Du point de vue d'obtenir le maximum de points dans votre partie du skart, puisque les rois et les honneurs ne peuvent pas être défaussés, les meilleures défausses sont les dames et les cavaliers pour tout le monde sauf le partenaire du déclarant. Si vous détenez le **XX** et savez que vous allez être appelé, alors de ce point de vue vous préféreriez défausser un dix ou un as, car votre défausse appartiendra aux adversaires du déclarant.
 
-At the stage of the game when you have to discard, you may have few clues from the bidding about the locations of the key cards or who the partners will be. Sometimes, however, you know or can guess the position, and this may influence your discard. If you want to take the lead as often as possible, you prefer to keep just one or two suits and discard other suits entirely. On the other hand, if you want to avoid having to lead, you will do better to keep cards in as many different suits as you can, so that you will not be forced to win tricks with your tarokks when these suits are led. Other things being equal, you want to lead when your partner is on your left (playing last), but when your partner is on your right you sometimes want to avoid taking the lead. If you have the skíz and are hoping to catch the XXI, you want to avoid taking tricks until the XXI is played, and it may even be worth discarding a tarokk to weaken your hand. The same can apply if you suspect that you are the partner of the XXI, with the enemy skíz sitting after the XXI when you lead to a trick.
+Au stade du jeu où vous devez défausser, vous avez peut-être peu d'indices des enchères sur l'emplacement des cartes clés ou sur les partenaires. Parfois, cependant, vous savez ou pouvez deviner la position, et cela peut influencer votre défausse. Si vous voulez prendre la main aussi souvent que possible, vous préférez ne conserver qu'une ou deux couleurs et défausser entièrement les autres. D'un autre côté, si vous voulez éviter d'avoir à mener, vous ferez mieux de conserver des cartes dans autant de couleurs différentes que possible, pour ne pas être forcé de gagner des levées avec vos tarocks lorsque ces couleurs sont menées. À conditions égales, vous voulez mener lorsque votre partenaire est à votre gauche (en jouant en dernier), mais lorsque votre partenaire est à votre droite, vous voulez parfois éviter de prendre la main. Si vous avez le skíz et espérez capturer le XXI, vous voulez éviter de prendre des levées jusqu'à ce que le XXI soit joué, et cela peut même valoir la peine de défausser un tarock pour affaiblir votre main. Il en va de même si vous soupçonnez que vous êtes le partenaire du XXI, avec le skíz adverse assis après le XXI lorsque vous menez une levée.
 
-### Announcements
+### Annonces
 
-Do not be afraid to announce trull. In general, trull should be announced by the declarer's team whenever they have both top honours, unless their cards are exceptionally weak. Often the pagát can be captured even if they do not hold it. Even when the pagát cannot be caught, it will be difficult for the opponents to know when they can safely kontra the announcement. If you have a reasonable hand including the called tarokk and a high honour, it can be worth announcing trull even if you are not certain that the declarer holds the other high honour. The good news about your hand can be useful to the declarer in other ways.
+N'ayez pas peur d'annoncer le trull. En général, le trull devrait être annoncé par l'équipe du déclarant chaque fois qu'elle a les deux hauts honneurs, à moins que ses cartes ne soient exceptionnellement faibles. Souvent, le pagát peut être capturé même s'ils ne le détiennent pas. Même lorsque le pagát ne peut pas être attrapé, il sera difficile pour les adversaires de savoir quand ils peuvent faire kontra à l'annonce en toute sécurité. Si vous avez une main raisonnable incluant le tarock appelé et un honneur élevé, cela peut valoir la peine d'annoncer le trull même si vous n'êtes pas certain que le déclarant détient l'autre honneur élevé. La bonne nouvelle de votre main peut être utile au déclarant d'autres façons.
 
-It is extremely difficult to predict when your side is going to make four kings. You certainly do not want kings in your hand, as you are then likely to lose them to the opponents tarokks; four kings is most likely to make when both partners have some high tarokks accompanied by cards in only one or at most two suits. The announcement of four kings is often used as a general encouragement, showing a good hand and inviting your partner to make further announcements, such as pagátulti or double game. Because the four kings announcement is used in this way, the opponents should be on the lookout for an opportunity to kontra it. This will often be possible when the opponent with longer tarokks has a couple of high ones which might win a late tarokk trick on which partner can be expected to throw a king.
+Il est extrêmement difficile de prédire quand votre équipe va réaliser les quatre rois. Vous ne voulez certainement pas de rois dans votre main, car vous risquez alors de les perdre face aux tarocks adverses ; les quatre rois ont le plus de chances d'être réalisés lorsque les deux partenaires ont quelques tarocks élevés accompagnés de cartes dans une seule couleur ou au plus deux. L'annonce des quatre rois est souvent utilisée comme un encouragement général, montrant une bonne main et invitant votre partenaire à faire d'autres annonces, telles que le pagátulti ou la partie double. Parce que l'annonce des quatre rois est utilisée de cette façon, les adversaires doivent être à l'affût d'une opportunité pour faire kontra. Cela sera souvent possible lorsque l'adversaire ayant les tarocks les plus longs a un ou deux tarocks élevés qui pourraient gagner une levée de tarocks tardive sur laquelle le partenaire peut être censé défausser un roi.
 
-Pagátultimó is harder to make than at first appears. More than half of the cards in the pack are tarokks, and all the other tarokks have to be driven out in the first 8 tricks in order for the pagát to win. Without help from your partner, you can never be 100% certain to make pagátulti however strong your hand is - for example an opponent might have nine tarokks. To announce a pagátultimó you need long tarokks, preferably at least seven, including several high ones, and some evidence that your partner also has a good hand.
+Le pagátultimó est plus difficile à réaliser qu'il n'y paraît au premier abord. Plus de la moitié des cartes du jeu sont des tarocks, et tous les autres tarocks doivent être chassés lors des 8 premières levées pour que le pagát gagne. Sans l'aide de votre partenaire, vous ne pouvez jamais être certain à 100 % de réaliser un pagátulti, aussi forte que soit votre main — par exemple, un adversaire pourrait avoir neuf tarocks. Pour annoncer un pagátultimó, vous avez besoin de tarocks longs, de préférence au moins sept, dont plusieurs élevés, et des indices que votre partenaire a également une bonne main.
 
-The defenders need 24 points to prevent double game, and depending on the contract they already have 3,4,5 or 6 cards in their trick pile, many of which are queens and riders. This means that if you announce double game in a one or solo you can generally only afford to concede one trick, and that one must not contain too many valuable cards. If the bid is two or three, the talon is likely to contain around 8-10 points, so two tricks can usually be given up provided that at least one of them is cheap. 
+Les défenseurs ont besoin de 24 points pour empêcher la partie double, et selon le contrat, ils ont déjà 3, 4, 5 ou 6 cartes dans leur tas de levées, dont beaucoup sont des dames et des cavaliers. Cela signifie que si vous annoncez la partie double dans un un ou un solo, vous pouvez généralement vous permettre de concéder une seule levée, et celle-ci ne doit pas contenir trop de cartes de valeur. Si l'enchère est deux ou trois, le talon contiendra probablement autour de 8 à 10 points, donc deux levées peuvent généralement être concédées à condition qu'au moins l'une d'entre elles soit peu coûteuse.
 
-### Play
+### Jeu
 
-Of the pack of 42 cards, over half are tarokks. Furthermore, six of the 20 suit cards are usually discarded, so of the 36 cards in play only 14 belong to the four suits. It is therefore clear that most tricks will be won by tarokks, and a large part of the play is about the management of the tarokks. The suit cards are nevertheless important, partly because they are worth points, and partly because when a suit is led, some of the players have to follow suit while the others play tarokks.
+Sur les 42 cartes du jeu, plus de la moitié sont des tarocks. De plus, six des 20 cartes de couleur sont généralement défaussées, donc sur les 36 cartes en jeu, seules 14 appartiennent aux quatre couleurs. Il est donc clair que la plupart des levées seront gagnées par des tarocks, et une grande partie du jeu concerne la gestion des tarocks. Les cartes de couleur sont néanmoins importantes, en partie parce qu'elles valent des points, et en partie parce que lorsqu'une couleur est menée, certains joueurs doivent suivre tandis que d'autres jouent des tarocks.
 
-Another basic point to notice is that all four kings must be in play - they cannot be discarded. This has various consequences - for example if you lead for the first time a suit of which you do not have the king, at least one other player will have to follow suit.
+Un autre point de base à noter est que les quatre rois doivent être en jeu — ils ne peuvent pas être défaussés. Cela a diverses conséquences — par exemple, si vous menez pour la première fois une couleur dont vous n'avez pas le roi, au moins un autre joueur devra suivre.
 
-The game and the different bonuses require somewhat different styles of play to achieve them, and effective cooperation between partners is needed for success. Normally the member of a team who is longer in tarokks will decide on the line of play, and the shorter partner will try to cooperate with the longer partner's plan.
+La partie et les différents bonus nécessitent des styles de jeu quelque peu différents pour les réaliser, et une coopération efficace entre partenaires est nécessaire pour réussir. Normalement, le membre d'une équipe qui a les tarocks les plus longs décidera de la ligne de jeu, et le partenaire le plus court essaiera de coopérer avec le plan du partenaire le plus long.
 
-At the start, the players' attention is usually concentrated on the most valuable bonus that might be achieved. Interest shifts to the smaller value items as the larger ones succeed or become impossible. The normal order of priorities is:
+Au début, l'attention des joueurs est généralement concentrée sur le bonus le plus précieux qui pourrait être réalisé. L'intérêt se déplace vers les éléments de moindre valeur au fur et à mesure que les plus importants réussissent ou deviennent impossibles. L'ordre normal des priorités est :
 
-- Catch or save the XXI.
+- Capturer ou sauver le XXI.
 
-- Make or prevent pagátultimó.
+- Réaliser ou empêcher le pagátultimó.
 
-- Make the game or double game.
+- Réaliser la partie ou la partie double.
 
-- Capture or save the pagát so as to make or prevent trull.
+- Capturer ou sauver le pagát pour réaliser ou empêcher le trull.
 
-- Capture kings to make four kings or prevent the other team from doing so.
+- Capturer les rois pour réaliser les quatre rois ou empêcher l'autre équipe de le faire.
 
-Of course, this priority order may be altered if some bonuses have been announced and maybe kontra'd.
+Bien sûr, cet ordre de priorité peut être modifié si certains bonus ont été annoncés et éventuellement fait l'objet d'un kontra.
 
-**Catching the XXI**
+**Capturer le XXI**
 
-This is only possible if the skíz and XXI belong to opposite teams, and even then, the cards will often lie in such a way that there is very little chance of the XXI being caught. However, the bonus for XXI-catch is so large in comparison to the others (not to mention the pleasure of seeing somebody wear the mayor's hat) that it is normal to look for ways that the XXI can be caught or saved until it becomes clear that no catch is possible. In particular, even though you do not know for certain who has the skíz and who has the XXI, you should assume until it is proved otherwise that they are in such positions that the XXI-catch is possible. This is because the gain in managing to catch (or save) the XXI when your assumption is right far outweighs the cost of your somewhat suboptimal play when the assumption is wrong.
+Cela n'est possible que si le skíz et le XXI appartiennent à des équipes adverses, et même alors, les cartes se trouveront souvent dans une configuration où il y a très peu de chances que le XXI soit capturé. Cependant, le bonus pour la capture du XXI est si grand par rapport aux autres (sans mentionner le plaisir de voir quelqu'un porter le chapeau du maire) qu'il est normal de chercher des moyens de capturer ou sauver le XXI jusqu'à ce qu'il devienne clair qu'aucune capture n'est possible. En particulier, même si vous ne savez pas avec certitude qui a le skíz et qui a le XXI, vous devez supposer jusqu'à preuve du contraire qu'ils se trouvent dans des positions telles que la capture du XXI est possible. C'est parce que le gain de parvenir à capturer (ou sauver) le XXI lorsque votre supposition est juste pèse largement plus que le coût de votre jeu sous-optimal lorsque la supposition est fausse.
 
-The classic process for catching the XXI depends mostly on the holder of skíz playing after the holder of the XXI on whenever possible. This is easiest to achieve if the skíz is sitting immediately to the victim's right. The skíz holder will try to avoid taking a trick before the XXI appears, so as not to have to lead. The ideal hand for catching the XXI consists of the skíz and five or six small tarokks, with the remaining cards in different suits - not kings. It is also useful to have a strong partner!
+Le processus classique pour capturer le XXI dépend principalement du fait que le détenteur du skíz joue après le détenteur du XXI autant que possible. C'est plus facile à réaliser si le skíz est assis immédiatement à la droite de la victime. Le détenteur du skíz essaiera d'éviter de prendre une levée avant que le XXI n'apparaisse, pour ne pas avoir à mener. La main idéale pour capturer le XXI se compose du skíz et de cinq ou six petits tarocks, avec les cartes restantes dans différentes couleurs — pas des rois. Il est également utile d'avoir un partenaire fort !
 
-A conspicuous sign of a player trying to catch the XXI is that they play tarokks which are as large as possible without heading the trick - for example the skíz holder may play the XVII under the XVIII to avoid taking the lead and at the same time get rid of a large tarokk with which might be an embarrassment later. This kind of play should be taken as a signal to partner that a XXI-catch is likely. It can occasionally also be used by a player who does not have the skíz as a way of misleading the other players. Conversely, the play of a very small tarokk, when a larger losing tarokk could have been played, is a signal to partner that one is not trying to catch the XXI. If the skíz holder is forced to take a trick, the most usual lead is a suit card (preferably from a suit not headed by the king), hoping that the XXI also has this suit and cannot escape on this trick.
+Un signe apparent qu'un joueur essaie de capturer le XXI est qu'il joue des tarocks aussi grands que possible sans mener la levée — par exemple, le détenteur du skíz peut jouer le XVII sous le XVIII pour éviter de prendre la main et en même temps se débarrasser d'un tarock élevé qui pourrait être gênant plus tard. Ce genre de jeu doit être pris comme un signal au partenaire qu'une capture du XXI est probable. Il peut occasionnellement aussi être utilisé par un joueur qui n'a pas le skíz comme moyen d'induire les autres joueurs en erreur. À l'inverse, le jeu d'un tarock très petit, lorsqu'un tarock perdant plus grand aurait pu être joué, est un signal au partenaire qu'on n'essaie pas de capturer le XXI. Si le détenteur du skíz est forcé de prendre une levée, la conduite la plus courante est une carte de couleur (de préférence d'une couleur non menée par un roi), en espérant que le XXI a aussi cette couleur et ne peut pas s'échapper sur cette levée.
 
-If you are the partner of the skíz and the skíz is sitting to your left, you will take the lead as often as possible, and probably lead large tarokks. If the skíz is to your right, the catch is much more difficult - you need to avoid the lead, or perhaps engineer some kind of deception. If you are sitting opposite the skíz you still have a good chance of a catch if the XXI is to your right. For an example of a catch from the wrong side, see example deal 4.
+Si vous êtes le partenaire du skíz et que le skíz est assis à votre gauche, vous prendrez la main aussi souvent que possible, et probablement mènerez des tarocks élevés. Si le skíz est à votre droite, la capture est beaucoup plus difficile — vous devez éviter de mener, ou peut-être manœuvrer une sorte de tromperie. Si vous êtes assis en face du skíz, vous avez encore une bonne chance de capture si le XXI est à votre droite.
 
-If you are the partner of the XXI, you want to play in such a way as to allow the XXI to play after the skíz on some trick. If you have the lead, and the relative positions are such that the skíz will be playing after your partner there are two possible techniques:
+Si vous êtes le partenaire du XXI, vous voulez jouer de manière à ce que le XXI puisse jouer après le skíz lors d'une levée. Si vous avez la main, et que les positions relatives sont telles que le skíz jouera après votre partenaire, il y a deux techniques possibles :
 
-- if you think the XXI has longer tarokks you may be able to drive out the skíz simply by leading tarokks; 
+- si vous pensez que le XXI a les tarocks les plus longs, vous pouvez essayer de chasser le skíz simplement en menant des tarocks ;
 
-- if on the other hand the skíz is longer, you will have to lead a suit in the hope that either the skíz will be forced to take a trick, or that your partner will be able to risk trumping with the XXI while the skíz has to follow suit. For this purpose it is best to lead a suit not headed by a king. 
+- si au contraire le skíz est plus long, vous devrez mener une couleur en espérant que soit le skíz sera forcé de prendre une levée, soit votre partenaire pourra risquer d'atouter avec le XXI pendant que le skíz doit suivre. Pour cela, il vaut mieux mener une couleur non menée par un roi.
 
-Your partner's play may suggest which strategy to follow; for example, if the holder of the XXI leads tarokks to try to drive out the skíz, you should do this too, rather than employing the riskier tactic of looking for escape suits. This is illustrated in example deal 9.
+Le jeu de votre partenaire peut suggérer quelle stratégie suivre ; par exemple, si le détenteur du XXI mène des tarocks pour essayer de chasser le skíz, vous devriez faire de même, plutôt que d'employer la tactique plus risquée de chercher des couleurs de sortie.
 
-**Making pagátultimó**
+**Réaliser le pagátultimó**
 
-To drive out the enemy tarokks, the pagát holder needs either to lead tarokks, or to lead from a long suit which will cost the other players tarokks. The pagát's partner should help by taking the lead and playing tarokks as well.
+Pour chasser les tarocks adverses, le détenteur du pagát doit soit mener des tarocks, soit mener depuis une couleur longue qui coûtera des tarocks aux autres joueurs. Le partenaire du pagát devrait aider en prenant la main et en jouant des tarocks également.
 
-In general, the most efficient technique for drawing tarokks if the partners are sitting next to each other works like this: the left hand partner will lead a small tarokk, allowing the right-hand partner to win with a top card; the right hand partner will then lead medium tarokks through the two opponents and continue as long as these are allowed to win; if an opponent covers a medium tarokk with a higher one, the left hand partner will take the trick and lead a low tarokk again. If partners are sitting opposite it is more difficult - in general it is best to lead a low tarokk on which your partner plays a high one, and if it wins, leads a low tarokk back.
+En général, la technique la plus efficace pour tirer les tarocks lorsque les partenaires sont assis côte à côte fonctionne ainsi : le partenaire de gauche mènera un petit tarock, permettant au partenaire de droite de gagner avec une carte élevée ; le partenaire de droite mènera alors des tarocks moyens à travers les deux adversaires et continuera tant que ceux-ci gagnent ; si un adversaire couvre un tarock moyen avec un plus élevé, le partenaire de gauche reprendra la levée et mènera un petit tarock à nouveau. Si les partenaires sont assis en face, c'est plus difficile — en général, il vaut mieux mener un petit tarock sur lequel votre partenaire joue un élevé, et si cela gagne, il mène un petit tarock en retour.
 
-The above technique works when the two partners' tarokk holdings are well balanced. In the case of an announced pagátultimó the holder of the pagát, who should be longer in tarokks than partner, should not make the mistake of playing too many high tarokks too soon. The pagát should begin with a medium or low tarokk, allowing partner to take the trick and lead a tarokk back. The pagát's high tarokks will be more useful for drawing the last tarokks from the opponents after partner runs out. If you are the pagát's partner you should try to keep a low tarokk to be played last. You do not want to take a trick with your last tarokk, as you will then have to lead a suit, which may damage the ultimó by costing the pagát a tarokk while an opponent follows suit.
+La technique ci-dessus fonctionne lorsque les détentions de tarocks des deux partenaires sont bien équilibrées. Dans le cas d'un pagátultimó annoncé, le détenteur du pagát, qui devrait avoir des tarocks plus longs que le partenaire, ne doit pas commettre l'erreur de jouer trop de tarocks élevés trop tôt. Le pagát devrait commencer par un tarock moyen ou bas, permettant au partenaire de prendre la levée et de renvoyer un tarock. Les tarocks élevés du pagát seront plus utiles pour tirer les derniers tarocks des adversaires après que le partenaire en a épuisé. Si vous êtes le partenaire du pagát, vous devriez essayer de conserver un petit tarock pour le jouer en dernier. Vous ne voulez pas prendre une levée avec votre dernier tarock, car vous devrez alors mener une couleur, ce qui pourrait endommager l'ultimó en coûtant un tarock au pagát pendant qu'un adversaire suit.
 
-**Making the game or double game** 
+**Réaliser la partie ou la partie double**
 
-Assuming that you are not in a position to win all of the tricks, it is generally better to let the opponents win their tricks early - particularly by giving them tricks consisting mainly of tarokks, which are not very valuable. A team which plays all its high tarokks too soon may lose some expensive tricks at the end of the hand.
+En supposant que vous n'êtes pas en mesure de gagner toutes les levées, il est généralement préférable de laisser les adversaires gagner leurs levées tôt — particulièrement en leur concédant des levées composées principalement de tarocks, qui ne valent pas cher. Une équipe qui joue tous ses tarocks élevés trop tôt peut perdre des levées coûteuses à la fin de la main.
 
-If neither you nor your partner have long tarokks, it is better not to lead them too often. Instead you should try to lead suits of which your partner is void, so that your team's tarokks can be played to separate tricks rather than falling together. Conversely, if your partner has declared 8 or 9 tarokks, you should definitely lead a tarokk. It is generally good to arrange that the partner with shorter tarokks takes the early tricks - the Hungarian expression is *"kurta üt"* ("short takes the trick"). This way the longer partner's high tarokks are saved for later, to be used after the short partner has run out.
+Si ni vous ni votre partenaire n'avez de longs tarocks, il vaut mieux ne pas les mener trop souvent. Au lieu de cela, vous devriez essayer de mener des couleurs dont votre partenaire est vide, pour que les tarocks de votre équipe puissent être joués à des levées séparées plutôt que de tomber ensemble. À l'inverse, si votre partenaire a déclaré 8 ou 9 tarocks, vous devriez définitivement mener un tarock. Il est généralement bon d'organiser que le partenaire aux tarocks plus courts prenne les levées précoces — l'expression hongroise est *« kurta üt »* (« le court prend la levée »). Ainsi, les tarocks élevés du partenaire le plus long sont gardés pour plus tard, pour être utilisés après que le partenaire court a épuisé.
 
-Do not let your opponents win kings too cheaply. If an opponent to your left leads a low card of a suit you do not have, play a fairly high tarokk; if you trump with a low tarokk you risk allowing the other opponent to overtrump easily, collecting your partner's king.
+Ne laissez pas vos adversaires gagner des rois trop facilement. Si un adversaire à votre gauche mène une carte basse d'une couleur que vous n'avez pas, jouez un tarock assez élevé ; si vous atourez avec un tarock bas, vous risquez de permettre à l'autre adversaire de suratouter facilement, ramassant le roi de votre partenaire.
 
-**Capturing or saving the pagát**
+**Capturer ou sauver le pagát**
 
-If one team holds both high honours but not the pagát, it becomes worthwhile for them to capture the pagát, especially if they have announced trull. There are three ways of saving the pagát: the easiest is to play it on partner's high tarokk; the second is to use it to trump a suit held by both opponents; the third is to hang onto it until your opponents have run out of tarokks. In any case, the best tactic for the team that holds the pagát is usually to lead plain suits, hoping either to draw the opponents' tarokks or to find a suit on which the pagát can be saved.
+Si une équipe détient les deux hauts honneurs mais pas le pagát, cela vaut la peine pour elle de capturer le pagát, surtout si elle a annoncé le trull. Il y a trois façons de sauver le pagát : la plus facile est de le jouer sur le tarock élevé du partenaire ; la deuxième est de l'utiliser pour atouter une couleur détenue par les deux adversaires ; la troisième est de le conserver jusqu'à ce que les adversaires aient épuisé leurs tarocks. Dans tous les cas, la meilleure tactique pour l'équipe qui détient le pagát est généralement de mener des couleurs ordinaires, en espérant soit de chasser les tarocks des adversaires, soit de trouver une couleur sur laquelle le pagát peut être sauvé.
 
-If you are trying to catch the pagát, you should try to avoid leading a plain suit unless you are fairly sure that your partner is void of it. When playing tarokks you do not need to win every trick - you only need to play high enough tarokks to prevent the pagát from escaping. For example, if your partner, sitting opposite you, leads a low tarokk and the second player plays a medium one, you only need to beat the second player's card; keep your top tarokks for later. If the pagát does not appear, it is usually desirable to continue leading tarokks until one of the opponents runs out. It then becomes much harder for the pagát to escape. On the other hand, leading tarokks too vigorously can be dangerous if you and your partner are both short - you may be helping an opponent to make a silent pagátulti.
+Si vous essayez de capturer le pagát, vous devriez essayer d'éviter de mener une couleur ordinaire à moins d'être assez sûr que votre partenaire en est vide. En jouant des tarocks, vous n'avez pas besoin de gagner chaque levée — vous n'avez besoin que de jouer des tarocks assez élevés pour empêcher le pagát de s'échapper. Par exemple, si votre partenaire, assis en face de vous, mène un petit tarock et que le deuxième joueur joue un moyen, vous n'avez besoin que de battre la carte du deuxième joueur ; gardez vos tarocks les plus élevés pour plus tard. Si le pagát n'apparaît pas, il est généralement souhaitable de continuer à mener des tarocks jusqu'à ce qu'un des adversaires soit vide. Il devient alors beaucoup plus difficile pour le pagát de s'échapper. D'un autre côté, mener des tarocks trop vigoureusement peut être dangereux si vous et votre partenaire êtes tous deux courts — vous pourriez aider un adversaire à réaliser un pagátulti silencieux.
 
-**Collecting kings**
+**Collecter les rois**
 
-When all the matters to do with the honours are resolved (which may sometimes not happen until the end of the hand) one's attention can be turned to the kings. The normal ways to get a king home are by trumping, or by a player who has no tarokks left dropping a king on partner's tarokk trick. The former process works by leading the suits early, while your partner still has tarokks left; the latter depends on the player with long tarokks keeping a big one till last.
+Lorsque tout ce qui concerne les honneurs est réglé (ce qui peut parfois n'arriver qu'à la fin de la main), on peut tourner son attention vers les rois. Les façons normales de ramener un roi à la maison sont l'atoutage, ou le fait qu'un joueur qui n'a plus de tarocks défausse un roi sur une levée gagnée par un tarock du partenaire. Le premier processus fonctionne en menant les couleurs tôt, alors que votre partenaire a encore des tarocks ; le second dépend du fait que le joueur aux tarocks longs conserve un gros tarock jusqu'à la fin.
 
-A team that is trying to collect all the kings needs to arrange if possible to play a high tarokk on every trick in which a king might escape. Leading tarokks will probably not be effective unless they are very strong. Leading suits to drive out the kings and trumping them with high tarokks is likely to be more successful.
+Une équipe qui essaie de collecter tous les rois doit organiser si possible de jouer un tarock élevé à chaque levée où un roi pourrait s'échapper. Mener des tarocks ne sera probablement pas efficace à moins qu'ils ne soient très forts. Mener des couleurs pour chasser les rois et les atouer avec des tarocks élevés est probablement plus efficace.
 
-## Customs and sayings
+## Coutumes et expressions
 
-These are not a necessary part of the game, but for people who are interested we have included an example hand which illustrates some of the traditional customs and sayings which are sometimes used by Tarokk players.
+Elles ne font pas partie nécessaire du jeu, mais pour les personnes intéressées, nous avons inclus un exemple de main illustrant certaines des coutumes et expressions traditionnelles parfois utilisées par les joueurs de Tarokk.
 
-## Other Hungarian Tarokk WWW pages and Online Games
+## Autres pages hongroises de Tarokk et jeux en ligne
 
-Lóránt Kégl has published a [Tarokk page for advanced players](https://lorantkegl.eu/tarokk_en.htm), which explains the tactics of the game in depth as well as proposing a standard version of the rules. In order to benefit fully from that page, players will first need an understanding of the basic tactics explained above and some playing experience. Lóránt has also provided a [summary PDF](https://lorantkegl.eu/tarokk_basic.pdf) of his standard rules and conventions.
+Lóránt Kégl a publié une [page Tarokk pour joueurs avancés](https://lorantkegl.eu/tarokk_en.htm), qui explique en profondeur les tactiques du jeu et propose une version standard des règles. Pour bénéficier pleinement de cette page, les joueurs doivent d'abord comprendre les tactiques de base expliquées ci-dessus et avoir une certaine expérience de jeu. Lóránt a également fourni un [PDF récapitulatif](https://lorantkegl.eu/tarokk_basic.pdf) de ses règles et conventions standard.
 
-Thanks to László Kiss, Tarokk can now be played online at [Board Game Arena](https://boardgamearena.com/gamepanel?game=hungariantarokk) in a web browser. This implementation uses Lóránt Kégl's rules, and players should be aware of some details that differ from the main description above.
+Grâce à László Kiss, le Tarokk peut désormais être joué en ligne sur [Board Game Arena](https://boardgamearena.com/gamepanel?game=hungariantarokk) dans un navigateur web. Cette implémentation utilise les règles de Lóránt Kégl, et les joueurs doivent être conscients de quelques détails qui diffèrent de la description principale ci-dessus.
 
-- All jumps to solo are invitations to the XVIII, except that A:3 - B:2- A:hold - B:solo is not an invitation at all. 
+- Tous les sauts à solo sont des invitations au XVIII, sauf que A:3 - B:2 - A:maintient - B:solo n'est pas une invitation.
 
-- The sequence A:3 - B:2 - A:1 is an invitation to the XVIII, not the XIX and player B can only accept this particular invitation by bidding solo. If B says hold to the 1-bid in this sequence this counts as a rejection of the invitation - this is the only case where a player can reject an invitation by bidding rather than passing.
+- La séquence A:3 - B:2 - A:1 est une invitation au XVIII, pas au XIX, et le joueur B ne peut accepter cette invitation particulière qu'en enchérissant solo. Si B dit maintient à l'enchère de 1 dans cette séquence, cela compte comme un rejet de l'invitation — c'est le seul cas où un joueur peut rejeter une invitation en enchérissant plutôt qu'en passant.
 
-- An opening bid of 2 or 1 is only an invitation if the opener passes after another player has accepted it. If the opener holds or overcalls the 'accepting' bid, the invitation is cancelled and in this case the opener does not promise any particular cards.
+- Une enchère d'ouverture de 2 ou 1 n'est une invitation que si l'ouvreur passe après qu'un autre joueur l'a acceptée. Si l'ouvreur maintient ou surclasse l'enchère « acceptante », l'invitation est annulée et dans ce cas l'ouvreur ne promet aucune carte particulière.
 
-- Invitations and yielded games do not guarantee a high honour, but if a player who has yielded or whose invitation has been accepted holds no high honour, they must announce pagátultimó at the first opportunity. This freedom to invite without a high honour must obviously be used with great caution.
+- Les invitations et les parties cédées ne garantissent pas un honneur élevé, mais si un joueur qui a cédé ou dont l'invitation a été acceptée ne détient pas de haut honneur, il doit annoncer le pagátultimó à la première opportunité. Cette liberté d'inviter sans honneur élevé doit évidemment être utilisée avec une grande prudence.
 
-- A hand can only be annulled if a player has the XXI alone, no tarokks or four kings **after** cards have been drawn from the talon and **before** the discard.
+- Une main ne peut être annulée que si un joueur a le XXI seul, aucun tarock ou quatre rois **après** que les cartes ont été tirées du talon et **avant** la défausse.
 
-- After three passes, the fourth player can bid without an honour, hoping to draw one from the talon. If no honour is found, the bidder without an honour pays 2 points to each opponent and the deal passes to the next player.
+- Après trois passes, le quatrième joueur peut enchérir sans honneur, en espérant en tirer un du talon. Si aucun honneur n'est trouvé, l'enchérisseur sans honneur paie 2 points à chaque adversaire et la distribution passe au joueur suivant.
 
-- There is an option to play with an ultimó pot. For every hand that is abandoned because of four passes, a lone XXI or 4 kings, each player pays 2 to the pot. If a hand is abandoned because the fourth player bids without an honour and draws no honour from the talon, this player pays 8 to the pot instead of 2 to each opponent. If pagátultimó is announced and made, the team that made it shares the contents of the pot. If it is announced and fails the team shares the cost of doubling the pot. A silent pagátultimó, won or lost, has no effect on the ultimó pot. Any points remaining in the pot are shared equally between the players at the end of the game.
+- Il existe une option de jouer avec un pot d'ultimó. Pour chaque main abandonnée à cause de quatre passes, d'un XXI seul ou de 4 rois, chaque joueur paie 2 au pot. Si une main est abandonnée parce que le quatrième joueur enchérit sans honneur et ne tire aucun honneur du talon, ce joueur paie 8 au pot au lieu de 2 à chaque adversaire. Si le pagátultimó est annoncé et réalisé, l'équipe qui l'a réalisé partage le contenu du pot. S'il est annoncé et échoue, l'équipe partage le coût du doublement du pot. Un pagátultimó silencieux, gagné ou perdu, n'a aucun effet sur le pot d'ultimó. Les points restants dans le pot sont partagés équitablement entre les joueurs à la fin du jeu.
 
-- An invited tarokk cannot be discarded. If there was no invitation the XX cannot be discarded. The discard of a tarokk does not give the declarer the right to call a tarokk other than the normal one.
+- Un tarock faisant l'objet d'une invitation ne peut pas être défaussé. S'il n'y a pas eu d'invitation, le XX ne peut pas être défaussé. La défausse d'un tarock ne donne pas au déclarant le droit d'appeler un tarock autre que celui qu'il appelle normalement.
 
-- A team that scores for silent double game cannot also score for silent four kings. (This removes the perverse incentive for a team that has bid 3 and made silent trull, double game and four kings to lose one trick so as to score 2+1+1 for double game, trull and four kings rather than just 3 for volát.)
+- Une équipe qui marque pour une partie double silencieuse ne peut pas non plus marquer pour les quatre rois silencieux. (Cela supprime l'incitation perverse pour une équipe qui a enchéri 3 et réalisé un trull silencieux, une partie double et quatre rois à perdre une levée pour marquer 2+1+1 pour la partie double, le trull et les quatre rois plutôt que simplement 3 pour le volát.)
 
-- A player who has no high honour is not allowed to announce trull. 
+- Un joueur qui n'a pas de haut honneur n'est pas autorisé à annoncer le trull.
 
-- It is not possible for a team to announce volát without also announcing (or having already announced) trull and four kings. Volát can be announced without high game, and it is not possible for a player to announce both high game and volát in the same turn.
+- Il n'est pas possible pour une équipe d'annoncer le volát sans annoncer également (ou avoir déjà annoncé) le trull et les quatre rois. Le volát peut être annoncé sans la partie haute, et il n'est pas possible pour un joueur d'annoncer à la fois la partie haute et le volát au même tour.
 
-- Announcements made by a player in one turn are presented in a fixed order after the player has decided what if anything they wish to announce and then selected "pass". Thus it is not possible to use the order in which announcements are made within one turn to convey information.
+- Les annonces faites par un joueur en un seul tour sont présentées dans un ordre fixe après que le joueur a décidé ce qu'il souhaite le cas échéant annoncer, puis a sélectionné « passe ». Il n'est donc pas possible d'utiliser l'ordre dans lequel les annonces sont faites au sein d'un même tour pour transmettre des informations.
 
-- In the English interface *'kontra'* is translated as 'double' and the translation of *'duplajáték'* is 'high game', not 'double game' as on this page and in other English descriptions of Tarokk.
+- Dans l'interface en anglais, *« kontra »* est traduit par « double » et la traduction de *« duplajáték »* est « high game » (partie haute), et non « double game » comme sur cette page et dans d'autres descriptions anglaises du Tarokk.
 
-The [Budapest Tarokk Society (Budapesti Tarokk Egyesület)](https://www.tarokk.hu) holds regular weekly meetings in Budapest. 
+La [Société de Tarokk de Budapest (Budapesti Tarokk Egyesület)](https://www.tarokk.hu) organise des réunions hebdomadaires régulières à Budapest.
 
-With Ákos Uzonyi's [tarokk app](https://play.google.com/store/apps/details?id=com.tisza.tarock) for Android you can play Hungarian Tarokk online against live opponents.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Hungarian Tarokk
+Avec l'[application tarokk d'Ákos Uzonyi](https://play.google.com/store/apps/details?id=com.tisza.tarock) pour Android, vous pouvez jouer au Tarokk hongrois en ligne contre des adversaires en direct.

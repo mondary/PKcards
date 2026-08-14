@@ -2,334 +2,318 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** A four-player 54-card Tarok game in which the bidder chooses a partner by calling a King, played by people of Czech descent in Nebraska, USA.
+**But :** Jeu de Taroky à 54 cartes pour quatre joueurs dans lequel lepreneur choisit un partenaire en appelant un Roi, joué par des personnes d'ascendance tchèque dans le Nebraska, USA.
 
 ---
 
-Nebraska Taroky - card game rules
-
-Home
-A-Z
-
-Select language ▼
-
-[deutsch](https://www.pagat.com/de/tarot/nebraska.html)
-[english](https://www.pagat.com/tarot/nebraska.html)
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Nebraska 
-
-Nebraska Taroky
-![Glenn Cada (2016) Taroky Cards](../images/nebraska/cada_taroky-cards.jpg)
-
 ## Introduction
 
-This four-player 54-card game, locally known as *Taroky* or *Tarok*, is played in Nebraska, USA, mainly by people of Czech descent. In the basic contract the bidder chooses a partner by calling a King, not the trump **XIX** as in modern Czech Taroky.
+Ce jeu à quatre joueurs et 54 cartes, connu localement sous le nom de *Taroky* ou *Tarok*, se joue dans le Nebraska, USA, principalement par des personnes d'ascendance tchèque. Dans le contrat de base, lepreneur choisit un partenaire en appelant un Roi, et non l'atout **XIX** comme dans le Taroky tchèque moderne.
 
-This page is based mainly on research by Emily Wynn, who has played Taroky at the [Czech and Slovak Educational Center and Cultural Museum](https://czechandslovakmuseum.org/) in La Vista, Nebraska, and in a tournament in Clarkson, and she would like to thank the players for their help and support in learning the game. 
+Cette page repose principalement sur les recherches d'Emily Wynn, qui a joué au Taroky au [Czech and Slovak Educational Center and Cultural Museum](https://czechandslovakmuseum.org/) de La Vista (Nebraska) et lors d'un tournoi à Clarkson, et elle tient à remercier les joueurs pour leur aide et leur soutien dans l'apprentissage du jeu.
 
-A slightly different version of Taroky is described by Robert Brichaček and Ken Čada in their 1997 document on the rules used at the Holy Trinity Catholic Church in Heun. This version, and a related game promoted by August Petrtyl in the 1920's are described in the Variations section of the page. 
+Une version légèrement différente du Taroky est décrite par Robert Brichaček et Ken Čada dans leur document de 1997 sur les règles pratiquées à la paroisse catholique Holy Trinity de Heun. Cette version, ainsi qu'un jeu apparenté promu par August Petrtyl dans les années 1920, sont décrites dans la section Variantes de cette page.
 
-## Players and Equipment
+## Joueurs et matériel
 
-There are four active players. It is possible for five people to take part in a game: in this case the dealer deals to the other four players and takes no part in the play or scoring of that deal.
+Il y a quatre joueurs actifs. Il est possible que cinq personnes participent à une partie : dans ce cas, le donneur distribue aux quatre autres joueurs et ne prend pas part à la levée ni au décompte de cette donne.
 
-Unlike European Tarok games, in Nebraska the game is played **clockwise**.
+Contrairement aux jeux de Tarok européens, au Nebraska le jeu se joue **dans le sens horaire**.
 
-A 54-card Tarok pack is used: 22 trumps and 8 cards in each of the four suits. In Nebraska it is played with cards made by the Western Playing-Card Company (Racine WI) whose design is based on the European "bourgeois pattern" (as found on French Tarot cards and some Cego cards) but reduced to Bridge size (9 x 6 cm instead of the usual Tarok card size of 11 x 6 cm). The game can of course be played with European Tarok cards if the American design is not available. 
+On utilise un jeu de Taroky à 54 cartes : 22 atouts et 8 cartes dans chacune des quatre couleurs. Au Nebraska, on joue avec des cartes fabriquées par la Western Playing-Card Company (Racine WI) dont le dessin est basé sur le « modèle bourgeois » européen (comme on le trouve sur les cartes de Tarot français et certaines cartes Cego) mais réduit au format Bridge (9 x 6 cm au lieu de la taille habituelle des cartes de Tarok de 11 x 6 cm). Le jeu peut bien sûr se jouer avec des cartes de Tarok européennes si le design américain n'est pas disponible.
 
-![Skies](../images/nebraska/s.jpg) ![Tarock 21](../images/nebraska/21.jpg) ![Tarock 20](../images/nebraska/20.jpg)  **…**  ![Tarock 2](../images/nebraska/02.jpg) ![Tarock 1](../images/nebraska/01.jpg)
+![Ciel](../images/nebraska/s.jpg) ![Tarock 21](../images/nebraska/21.jpg) ![Tarock 20](../images/nebraska/20.jpg) **…** ![Tarock 2](../images/nebraska/02.jpg) ![Tarock 1](../images/nebraska/01.jpg)
 
-There are 22 trumps called *taroky*. The highest is the ***Skies*** (in Czech *Škýz*, but in English pronounced *skeez*), which looks a bit like a Joker and is effectively trump **22**. The other trumps follow in numerical order from **21** down to **1**. The lowest trump **1** is also called *špaček *(starling) in Czech.
+Il y a 22 atouts appelés *taroky*. Le plus élevé est le ***Ciel*** (en tchèque *Škýz*, mais prononcé *skeez* en anglais), qui ressemble un peu à un Joker et correspond en fait à l'atout **22**. Les autres atouts se suivent dans l'ordre numérique de **21** à **1**. Le plus bas, l'atout **1**, est aussi appelé *špaček* (étourneau) en tchèque.
 
 ![](../images/nebraska/hk.jpg) ![](../images/nebraska/sq.jpg) ![](../images/nebraska/dc.jpg) ![](../images/nebraska/cj.jpg)
 
-The remainder of the deck consist of four 8-card suits: ![♣](../images/internat/club.gif) clubs, ![♠](../images/internat/spade.gif) spades, ![♥](../images/internat/heart.gif) hearts and ![♦](../images/internat/diamond.gif) diamonds. Each suit has four picture cards, in descending order King, Queen, Horsemen and Jack followed by four pip cards - in the black suits (![♠](../images/internat/spade.gif) ![♣](../images/internat/club.gif)) 10, 9, 8, 7 but in the red suits (![♥](../images/internat/heart.gif) ![♦](../images/internat/diamond.gif)) 4, 3, 2, 1. *Note that the pip cards in all four suits rank in descending order. In the red suits the 1 (ace) is lowest, unlike in central European Tarok where the ranking of the red suit pip cards is reversed.* 
+Le reste du jeu se compose de quatre couleurs de 8 cartes : ![♣](../images/internat/club.gif) trèfles, ![♠](../images/internat/spade.gif) piques, ![♥](../images/internat/heart.gif) cœurs et ![♦](../images/internat/diamond.gif) carreaux. Chaque couleur comporte quatre figures, par ordre décroissant : Roi, Dame, Cavalier et Valet, suivis de quatre cartes numériques — dans les couleurs noires (![♠](../images/internat/spade.gif) ![♣](../images/internat/club.gif)) 10, 9, 8, 7 et dans les couleurs rouges (![♥](../images/internat/heart.gif) ![♦](../images/internat/diamond.gif)) 4, 3, 2, 1. *Notez que les cartes numériques des quatre couleurs sont classées par ordre décroissant. Dans les couleurs rouges, le 1 (as) est le plus bas, contrairement au Tarok d'Europe centrale où l'ordre des cartes numériques rouges est inversé.*
 
-The top two trumps, the lowest trump and the picture cards in the suits have special point values, while the other trumps (**2** to **20**) and the pip cards in the suits are worth just 1 point each
+Les deux plus hauts atouts, le plus bas atout et les figures des couleurs ont des valeurs spéciales, tandis que les autres atouts (**2** à **20**) et les cartes numériques des couleurs ne valent chacune qu'un point.
 
-| Card | Value |
-| Skies, Tarok 21, Tarok 1 | 5 |
-| King | 5 |
-| Queen | 4 |
-| Horseman | 3 |
-| Jack | 2 |
-| Other cards | 1 |
+| Carte | Valeur |
+| Ciel, Tarok 21, Tarok 1 | 5 |
+| Roi | 5 |
+| Dame | 4 |
+| Cavalier | 3 |
+| Valet | 2 |
+| Autres cartes | 1 |
 
-The cards taken by each team are counted in packets of three - their values are added together and 2 points care substracted from the total. For example a packet of King-8-7 is worth 5 points (5+1+1-2), a packet of **21**-Horseman-Jack is worth 8 points (5+3+2-2=8) and a packet of three one-point cards is worth 1 point (1+1+1-2).
+Les cartes prises par chaque équipe sont comptées par paquets de trois — on additionne leurs valeurs et on soustrait 2 points du total. Par exemple, un paquet Roi-8-7 vaut 5 points (5+1+1-2), un paquet **21**-Cavalier-Valet vaut 8 points (5+3+2-2=8) et un paquet de trois cartes à un point vaut 1 point (1+1+1-2).
 
-For an incomplete packet of one or two cards left over just one point is subtracted. However the cards are grouped the total value of the cards belonging to the two teams at the end of the play is always 70. See counting points in Tarot games for further explanation and discussion of this point counting method.
+Pour un paquet incomplet d'une ou deux cartes restantes, on ne soustrait qu'un seul point. Cependant les cartes sont regroupées, la valeur totale des cartes appartenant aux deux équipes en fin de levée est toujours de 70.
 
-Usually the score is kept using poker chips: red or blue chips worth 5 game points each and white chips worth 1 game point each. Each player begins the session with 4 colored and 5 white chips (total value 20 game points). The session may be played until a player runs out of chips or for a fixed number of deals agreed in advance. 
+En général, le score est tenu avec des jetons de poker : des jetons rouges ou bleus valant 5 points de jeu chacun et des jetons blancs valant 1 point de jeu chacun. Chaque joueur commence la session avec 4 jetons de couleur et 5 jetons blancs (valeur totale de 20 points de jeu). La session peut se jouer jusqu'à ce qu'un joueur n'ait plus de jetons ou pour un nombre fixe de donnes convenu à l'avance.
 
-## Deal
+## Distribution
 
-The dealer shuffles the cards and offers them to the player to the right who may cut the pack, or decine to cut by lightly tapping the face down deck.
+Le donneur bat les cartes et les offre au joueur à sa droite, qui peut couper le tas, ou renoncer à couper en tapant légèrement le dos du jeu.
 
-The dealer places the top 6 cards of the deck face down in the center of the table to form the **blind**. Then if the cards were cut, the dealer deals the remaining cards clockwise in packets of 6, so that after two rounds of dealing everyone has 12 cards. If the player to the right tapped the cards instead of cutting, then after placing the blind the dealer deals the remaining cards in packets of 12, placing the packets face down in a row. The player to dealer's left then chooses a 12-card packet as their hand. If this player chooses the first packet then the other three players must take the 2nd, 3rd and 4th packets in clockwise order. If the first player chooses to take a packet other than the first, the other three players in clockwise order each take a 12-card packet of their choice from those that have not yet been claimed.
+Le donneur pose les 6 premières cartes du jeu face cachée au centre de la table pour former le **chien**. Ensuite, si les cartes ont été coupées, le donneur distribue les cartes restantes dans le sens horaire par paquets de 6, de sorte qu'après deux tours de distribution chacun ait 12 cartes. Si le joueur à droite a tapé les cartes au lieu de les couper, alors après avoir posé le chien le donneur distribue les cartes restantes par paquets de 12, posant les paquets face cachée en ligne. Le joueur à gauche du donneur choisit ensuite un paquet de 12 cartes comme sa main. Si ce joueur choisit le premier paquet, les trois autres joueurs doivent prendre les 2e, 3e et 4e paquets dans l'ordre horaire. Si le premier joueur choisit de prendre un paquet autre que le premier, les trois autres joueurs dans l'ordre horaire prennent chacun un paquet de 12 cartes de leur choix parmi ceux qui n'ont pas encore été réclamés.
 
-When the first hand of the session has been dealt the players pick up their hands and check who holds **tarok 2**. This player will be **forehand**, the player who starts the bidding. If the **2** is in the blind, then forehand is the holder of the **3**, or if that is also in the blind the holder of the **4** is forehand and so on. 
+Lorsque la première main de la session a été distribuée, les joueurs prennent leurs cartes et vérifient qui détient le **tarok 2**. Ce joueur sera le **premier en main**, celui qui entame les enchères. Si le **2** est dans le chien, alors le premier en main est le détenteur du **3**, ou si celui-ci est aussi dans le chien le détenteur du **4** est le premier en main, et ainsi de suite.
 
-For the second and subsequent deals the dealer is the player who was forehand in the previous deal, and the player to dealer's left is the new forehand who starts the bidding. Therefore from the second deal onwards the turn to deal passes clockwise around the table.
+Pour les deuxième et subsequentes donnes, le donneur est le joueur qui était premier en main lors de la donne précédente, et le joueur à gauche du donneur est le nouveau premier en main qui entame les enchères. Par conséquent, à partir de la deuxième donne, le tour de donner passe dans le sens horaire autour de la table.
 
-If any player has no Kings and no Taroky in their 12 cards, they can require that the deal be abandoned for no score. In this case the cards are thrown in and the next dealer shuffles and deals. 
+Si un joueur n'a ni Roi ni Taroky dans ses 12 cartes, il peut exiger que la donne soit annulée sans marquer de points. Dans ce cas, les cartes sont jetées et le prochain donneur bat et distribue.
 
-## Bidding
+## Enchères
 
-The purpose of the bidding is to choose a player, the **bidder**, who will have up to three privileges:
+Le but des enchères est de choisir un joueur, le **preneur**, qui aura jusqu'à trois privilèges :
 
-- to determine the partnerships. The final bidder must name a suit, and the holder of the King of that suit becomes the bidder's partner for the deal,
+- déterminer les partenariats. Le preneur final doit nommer une couleur, et le détenteur du Roi de cette couleur devient le partenaire du preneur pour la donne,
 
-- in the case of a 'Four' bid to improve their hand by drawing cards from the blind,
+- dans le cas d'une enchère « Quatre », d'améliorer sa main en piochant des cartes dans le chien,
 
-- to lead to the first trick.
+- d'entamer la première levée.
 
-There are three possible bids, in ascending order 'Four', 'Five' and 'Five Over'. In all cases the bidder's team needs to take the majority of card points (at least 36) in their tricks plus their share (if any) of the blind in order to win. The differences between the bids are in how the blind is used and in the payments in chips for winning or losing, the higher bids being more expensive.
+Il y a trois enchères possibles, par ordre croissant : « Quatre », « Cinq » et « Cinq Sur ». Dans tous les cas, l'équipe du preneur doit remporter la majorité des points de cartes (au moins 36) dans ses levées plus sa part (éventuelle) du chien pour gagner. Les différences entre les enchères résident dans l'utilisation du chien et dans les paiements en jetons pour la victoire ou la défaite, les enchères plus élevées étant plus coûteuses.
 
-Players bid in clockwise order starting with forehand (the player to dealer's left or the tarok-**2** holder in the first deal of a session). 
+Les joueurs enchérissent dans l'ordre horaire en commençant par le premier en main (le joueur à gauche du donneur ou le détenteur du tarok **2** lors de la première donne d'une session).
 
-- If no one has bid, the possibilities are to pass, bid 'Four' or bid 'Five'.
+- Si personne n'a enchéri, les possibilités sont de passer, d'enchérir « Quatre » ou « Cinq ».
 
-- If only 'Four' has been bid, the possibilities are to pass or bid 'Five'.
+- Si seul « Quatre » a été enchéri, les possibilités sont de passer ou d'enchérir « Cinq ».
 
-- If 'Five' has been bid, a subsequent player who has not yet had a turn to bid can pass or bid 'Five Over'.
+- Si « Cinq » a été enchéri, un joueur ultérieur qui n'a pas encore eu l'occasion d'enchérir peut passer ou enchérir « Cinq Sur ».
 
-- A player who has passed takes no further part in the bidding. 
+- Un joueur qui a passé ne participe plus aux enchères.
 
-- If the first three players pass the fourth player **must** bid Four or Five.
+- Si les trois premiers joueurs passent, le quatrième joueur **doit** enchérir Quatre ou Cinq.
 
-- If two players have bid then the first bidder can supersede the second player's bid by making an **equal** bid. For example if forehand bids Four and another player bids Five, then forehand can reply with "I'll take the Five" or "I'll hold that Five" or words to that effect, and will become the bidder in a Five game unless the second bidder persists by bidding "Five Over". Alternatively, forehand can reply to the 'Five' bid with a bid of 'Five Over', ending the bidding.
+- Si deux joueurs ont enchéri, le premier enchérisseur peut surclasser l'enchère du deuxième joueur par une enchère **égale**. Par exemple, si le premier en main enchérit Quatre et qu'un autre joueur enchérit Cinq, le premier en main peut répondre « Je prends le Cinq » ou « Je garde ce Cinq » ou des termes similaires, et deviendra le preneur d'un jeu à Cinq à moins que le deuxième enchérisseur ne persière en enchérissant « Cinq Sur ». Alternativement, le premier en main peut répondre à l'enchère « Cinq » par une enchère « Cinq Sur », mettant fin aux enchères.
 
-When all players have passed, the last player who bid is the bidder and must call a King (see below).
+Lorsque tous les joueurs ont passé, le dernier joueur ayant enchéri est le preneur et doit appeler un Roi (voir ci-dessous).
 
 **Notes**
 
-Forehand will almost always start the auction with a bid of Four or Five. It is rarely correct to begin with a pass, because every hand has to be played, and the player who bids Four has the advantage (if all the others pass) of drawing cards from the blind and acquiring a partner who holds a King. Probably the only exception occurs when forehand holds four Kings and passes because they are certain to be called as a partner by another player.
+Le premier en main commencera presque toujours les enchères par une enchère de Quatre ou Cinq. Il est rarement correct de commencer par un passe, car chaque main doit être jouée, et le joueur qui enchérit Quatre a l'avantage (si tous les autres passent) de piocher des cartes dans le chien et d'acquérir un partenaire qui détient un Roi. La seule exception probable survient lorsque le premier en main détient quatre Rois et passe parce qu'il est certain d'être appelé comme partenaire par un autre joueur.
 
-Occasionally there may be three bidders, bidding Four, Five and Five Over. Theoretically the first bidder could then keep the bid by bidding 'Five Over' themselves, or if the first bidder then passed the second bidder could keep the bid by bidding 'Five Over'. Or if there were only two bidders, forehand bidding 'Five' and another player bidding 'Five Over', forehand could in principle keep the bid by also bidding 'Five Over'. However it is difficult to imagine a case where two players had such strong hands that keeping Five Over would be sensible. 
+Il peut y avoir occasionnellement trois enchérisseurs, enchérissant Quatre, Cinq et Cinq Sur. Théoriquement, le premier enchérisseur pourrait alors conserver l'enchère en enchérissant lui-même « Cinq Sur », ou si le premier enchérisseur passait alors, le deuxième enchérisseur pourrait conserver l'enchère en enchérissant « Cinq Sur ». S'il n'y avait que deux enchérisseurs, le premier en main enchérissant « Cinq » et un autre joueur enchérissant « Cinq Sur », le premier en main pourrait en principe conserver l'enchère en enchérissant également « Cinq Sur ». Cependant, il est difficile d'imaginer un cas où deux joueurs auraient des mains si fortes que conserver un Cinq Sur serait sensé.
 
-## Calling a King and Use of the Blind
+## Appel d'un Roi et utilisation du chien
 
-The final bidder **must** call a King. Normally this is done by naming a suit - hearts, diamonds, clubs or spades - and whoever holds the King of that suit will be the bidder's partner, but **must not** identify themselves. The partnerships will become clear during the play, at the latest when the holder of the called King plays it to a trick. 
+Le preneur final **doit** appeler un Roi. Normalement, cela se fait en nommant une couleur — cœurs, carreaux, trèfles ou piques — et celui qui détient le Roi de cette couleur sera le partenaire du preneur, mais il **ne doit pas** se révéler. Les partenariats deviendront clairs au cours du jeu, au plus tard lorsque le détenteur du Roi appelé le joue dans une levée.
 
-If the bidder holds exactly three kings, then instead of naming a suit the bidder can call "the fourth King". In this case the holder of the fourth King is the bidder's partner and the suit of the called King as well as the identity of the partner will initially be unknown to the other team.
+Si le preneur détient exactement trois Rois, alors au lieu de nommer une couleur, le preneur peut appeler « le quatrième Roi ». Dans ce cas, le détenteur du quatrième Roi est le partenaire du preneur et la couleur du Roi appelé ainsi que l'identité du partenaire seront initialement inconnus pour l'autre équipe.
 
-If the called King is in the bidder's hand or in the blind then the bidder plays alone against a team of three opponents, though the players may not realise that this is the case until the King is played or when it is found in the blind at the end of the play.
+Si le Roi appelé se trouve dans la main du preneur ou dans le chien, le preneur joue seul contre une équipe de trois adversaires, bien que les joueurs puissent ne pas s'en rendre compte avant que le Roi ne soit joué ou qu'il soit trouvé dans le chien à la fin du jeu.
 
-A player who wishes to play alone (so that they will be paid by three opponents if they win) can do so if they hold a King by deliberately calling a King that is in their hand.
+Un joueur qui souhaite jouer seul (de manière à être payé par trois adversaires s'il gagne) peut le faire s'il détient un Roi en appelant délibérément un Roi qu'il a dans sa main.
 
-The use of the blind depends on the final bid.
+L'utilisation du chien dépend de l'enchère finale.
 
-### Four
+### Quatre
 
-The bidder draws three cards from the blind and looks at them, keeping them separate from their hand and without showing them to the other players. There are then four possibilities:
+Le preneur tire trois cartes du chien et les regarde, en les gardant séparées de sa main et sans les montrer aux autres joueurs. Il y a alors quatre possibilités :
 
-- The bidder decides to keep these cards and adds them to their hand, leaving the bottom three cards of the blind face down on the table where they will remain unknown until the end of the play.
+- Le preneur décide de garder ces cartes et les ajoute à sa main, laissant les trois cartes du bas du chien face cachée sur la table où elles resteront inconnues jusqu'à la fin du jeu.
 
-- The bidder decides to look at the rest of the blind. In this case the bidder must place the first three blind cards face up on the table for all to see and pick up the other three cards of the blind. The bidder may elect to keep these second three cards and add them to their hand without showing them to the other players.
+- Le preneur décide de regarder le reste du chien. Dans ce cas, il doit poser les trois premières cartes du chien face visible sur la table pour que tous les voient et ramasser les trois autres cartes du chien. Il peut choisir de garder ces secondes trois cartes et les ajouter à sa main sans les montrer aux autres joueurs.
 
-- Having placed the first three cards of the blind face up on the table, the bidder looks at the other three blind cards but decides to reject them. The bidder then places this second part of the blind face up on the table and returns to the first three cards, picking them up and adding them to their hand.
+- Ayant posé les trois premières cartes du chien face visible, le preneur regarde les trois autres cartes du chien mais décide de les refuser. Il pose alors cette deuxième partie du chien face visible sur la table et revient aux trois premières cartes, les ramassant et les ajoutant à sa main.
 
-- Having seen both parts of the blind the bidder can surrender the game without play and pay 4 chips to each of the other three players. This will be the best option when the bidder finds the called King in the blind and sees no prospect of winning the game alone. In this case the cards are thrown in and there is a new deal by the next dealer.
+- Ayant vu les deux parties du chien, le preneur peut abandonner le jeu sans levée et payer 4 jetons à chacun des trois autres joueurs. Ce sera la meilleure option lorsque le preneur trouve le Roi appelé dans le chien et ne voit aucune perspective de gagner le jeu seul. Dans ce cas, les cartes sont jetées et il y a une nouvelle donne par le prochain donneur.
 
-The option chosen affects the chip score for the game as explained in the section on scoring below.
+L'option choisie affecte le score en jetons du jeu comme expliqué dans la section sur le décompte ci-dessous.
 
-In cases 1-3 the bidder, having 15 cards, must now discard three cards face down to reduce their hand to 12. 5-point cards (the Kings and taroky **1**, **21** and **Skies**) can **never** be discarded. Other taroky (**2**-**20**) can be discarded only if the bidder's remaining 12 cards are all taroky and Kings, and in this case the bidder must tell the other players how many taroky have been discarded.
+Dans les cas 1 à 3, le preneur, ayant 15 cartes, doit maintenant écarter trois cartes face cachée pour réduire sa main à 12. Les cartes à 5 points (les Rois et les taroky **1**, **21** et **Ciel**) ne peuvent **jamais** être écartées. Les autres taroky (**2** à **20**) ne peuvent être écartés que si les 12 cartes restantes du preneur sont toutes des taroky et des Rois, et dans ce cas le preneur doit dire aux autres joueurs combien de taroky ont été écartés.
 
-The card points in the three cards that the bidder discarded count for the bidder's team, and the card points in the part of the blind that was rejected or not looked at count for the bidder's opponents.
+Les points de cartes des trois cartes écartées par le preneur comptent pour l'équipe du preneur, et les points de cartes de la partie du chien qui a été refusée ou non regardée comptent pour les adversaires du preneur.
 
-**Note.** If the first three cards of the blind are favourable, the bidder may well choose to expose them and look at the other three cards, with the intention of exposing those too and returning to the first set for a higher score.
+**Note.** Si les trois premières cartes du chien sont favorables, le preneur peut très bien choisir de les exposer et regarder les trois autres cartes, dans l'intention de les exposer également et de revenir au premier ensemble pour un score plus élevé.
 
-### Five and Five Over
+### Cinq et Cinq Sur
 
-These bids differ from each other only in the score for them. The more expensive 'Five Over' can only be bid if another player has bid 'Five'.
+Ces enchères ne diffèrent l'une de l'autre que par le score qui leur est associé. L'enchère plus coûteuse « Cinq Sur » ne peut être faite que si un autre joueur a enchéri « Cinq ».
 
-The blind remains face down and unknown until the end of the play. At the end of the play all six blind cards are added to and counted with the tricks of the bidder's opponents unless the called King was in the blind. In this case, where the bidder played alone, the blind it is divided unseen into two sets of three cards: the set of three that contains the called King is given to the bidder and the other three cards to the three-player team of opponents. 
+Le chien reste face cachée et inconnu jusqu'à la fin du jeu. À la fin du jeu, les six cartes du chien sont ajoutées et comptées avec les levées des adversaires du preneur, sauf si le Roi appelé se trouvait dans le chien. Dans ce cas, où le preneur jouait seul, le chien est divisé à l'aveugle en deux ensembles de trois cartes : l'ensemble de trois contenant le Roi appelé est donné au preneur et les trois autres cartes à l'équipe adverse de trois joueurs.
 
-## Bonuses, Announcements and Declarations
+## Bonus, annonces et déclarations
 
-There are extra payments for following special events and card combinations.
+Il y a des paiements supplémentaires pour certains événements spéciaux et combinaisons de cartes.
 
-**King Last.** If the called King is played in the last trick, then the team that wins the trick is paid an extra chip for 'King Last'.
+**Roi en dernier.** Si le Roi appelé est joué dans la dernière levée, l'équipe qui gagne la levée reçoit un jeton supplémentaire pour « Roi en dernier ».
 
-**Tarok 1 Last** (*špaček last*). If the tarok **1** wins the last trick the team of the player of the **1** is paid an extra chip for 'Tarok **1** Last'. If tarok **1** is played to the last trick but is beaten by a higher trump in that trick, the team that played the **1** has to pay a chip for a failed attempt at 'Tarok **1** Last', even if the last trick is won by the partner of the player of the **1**.
+**Tarok 1 en dernier** (*špaček last*). Si le tarok **1** gagne la dernière levée, l'équipe du joueur du **1** reçoit un jeton supplémentaire pour « Tarok **1** en dernier ». Si le tarok **1** est joué à la dernière levée mais est battu par un atout supérieur dans cette levée, l'équipe qui a joué le **1** doit payer un jeton pour une tentative ratée de « Tarok **1** en dernier », même si la dernière levée est gagnée par le partenaire du joueur du **1**.
 
-**Ten Taroky**. If a player holds 10 or more taroky and declares this before the bidder leads to the first trick, that player immediately receives one chip from each of the other three players, irrespective of partnerships.
+**Dix Taroky**. Si un joueur détient 10 taroky ou plus et le déclare avant que le preneur n'entame la première levée, ce joueur reçoit immédiatement un jeton de chacun des trois autres joueurs, indépendamment des partenariats.
 
-**Four Kings**. If one player has all 4 Kings in their hand, that player may declare 'Four Kings' after playing the fourth King and is immediately paid one chip by each of the other three players.
+**Quatre Rois**. Si un joueur a les 4 Rois dans sa main, il peut déclarer « Quatre Rois » après avoir joué le quatrième Roi et reçoit immédiatement un jeton de chacun des trois autres joueurs.
 
-**Three High**. If one player holds all three counting trumps: the **Skies**, the **21** and the **1**, that player may declare 'Three High' after playing the third of these cards and is immediately paid one chip by each of the other three players.
+**Trois Hauts**. Si un joueur détient les trois atouts comptant : le **Ciel**, le **21** et le **1**, il peut déclarer « Trois Hauts » après avoir joué le troisième de ces cartes et reçoit immédiatement un jeton de chacun des trois autres joueurs.
 
-Each of the above bonuses is worth two chips instead of one when the bid is 'Five', and four chips when the bid is 'Five Over'.
+Chacun des bonus ci-dessus vaut deux jetons au lieu d'un lorsque l'enchère est « Cinq », et quatre jetons lorsque l'enchère est « Cinq Sur ».
 
-**All Tricks**. If one team wins all 12 tricks (known in Czech as "*valát*") the payments for the game and any last trick bonuses are doubled. This doubling does not affect the payments for card combinations Ten Taroky, Four Kings or Three High.
+**Toutes les levées**. Si une équipe gagne les 12 levées (connu en tchèque sous le nom de « *valát* »), les paiements pour le jeu et tout bonus de dernière levée sont doublés. Ce doublement n'affecte pas les paiements pour les combinaisons de cartes Dix Taroky, Quatre Rois ou Trois Hauts.
 
-### Announcements
+### Annonces
 
-Either of the last trick bonuses (King Last or Tarok **1** Last) can be **announced** before the bidder leads to the first trick. This commits the announcing player's team to win that bonus. If they succeed they are paid double but if they fail they pay double.
+Chacun des bonus de dernière levée (Roi en dernier ou Tarok **1** en dernier) peut être **annoncé** avant que le preneur n'entame la première levée. Cela engage l'équipe qui annonce à remporter ce bonus. En cas de réussite, elle est payée double mais en cas d'échec, elle paie double.
 
-Note that an announced last trick bonus can fail in two different ways. As usual the bonus is lost if the called King is captured by the enemy in the last trick or if the tarok **1** is played to the last trick and fails to win it. But they also fail if the holder of the called King or the tarok **1** plays it before last trick. 
+Notez qu'un bonus de dernière levée annoncé peut échouer de deux manières différentes. Comme d'habitude, le bonus est perdu si le Roi appelé est capturé par l'ennemi dans la dernière levée ou si le tarok **1** est joué à la dernière levée sans la gagner. Mais ils échouent aussi si le détenteur du Roi appelé ou du tarok **1** le joue avant la dernière levée.
 
-Note also that in Nebraska, unlike the European game, it is permissible for a team that has announced a last trick bonus to abandon it by voluntarily playing the key card earlier than the last trick even if not forced to by the rules of play. In this case the team will have to pay for the lost bonus, but this may be worthwhile if by sacrificing the bonus they can save the card itself for their team and thereby win the game.
+Notez également qu'au Nebraska, contrairement au jeu européen, il est permis à une équipe qui a annoncé un bonus de dernière levée d'y renoncer en jouant volontairement la carte clé avant la dernière levée même si elle n'y est pas forcée par les règles du jeu. Dans ce cas, l'équipe devra payer le bonus perdu, mais cela peut valoir la peine si en sacrifiant le bonus elle peut garder la carte pour son équipe et ainsi gagner le jeu.
 
-If the bid was 'Five' or 'Five Over' and an opponent of the bidder thinks that the game will not succeed - i.e. that the bidder's team will take 35 or fewer card points - they can double the payment for the game by saying "**double**" or "**kontra**" before the bidder leads to the first trick. If confident of winning, the bidder or the bidder's partner can reply with "**redouble**" or "**rekontra**" which doubles the payment for game again to four times the basic amount. These doubles only affect the basic game score, not the scores for any bonuses. 
+Si l'enchère était « Cinq » ou « Cinq Sur » et qu'un adversaire du preneur pense que le jeu n'aboutira pas — c'est-à-dire que l'équipe du preneur prendra 35 points de cartes ou moins — il peut doubler le paiement du jeu en disant « **contre** » ou « **kontra** » avant que le preneur n'entame la première levée. S'il est confiant dans la victoire, le preneur ou le partenaire du preneur peut répondre « **surcontre** » ou « **rekontra** », ce qui double à nouveau le paiement du jeu pour le porter à quatre fois le montant de base. Ces contraintes n'affectent que le score de base du jeu, pas les scores des bonus.
 
-In Nebraska Taroky there is no possibility for a team to announce in advance that they will win all the tricks. 
+Au Nebraska Taroky, il n'y a pas de possibilité pour une équipe d'annoncer à l'avance qu'elle gagnera toutes les levées.
 
-## Play
+## Jeu
 
-The final bidder leads to the first trick. Ideally the bidder should pause before leading to the first trick to give the other players a chance to make announcements if they wish to. 
+Le preneur final entame la première levée. Idéalement, le preneur devrait faire une pause avant d'entamer la première levée pour donner aux autres joueurs l'occasion de faire des annonces s'ils le souhaitent.
 
-Any card may be led, and the other players must each play a card in turn to complete the 4-card trick. 
+N'importe quelle carte peut être jouée en premier, et les autres joueurs doivent chacun jouer une carte à tour de rôle pour compléter la levée de 4 cartes.
 
-- **If a trump (tarok) is led **the other players must play a trump if they have any. Players with no trumps may discard any card when a trump is led.
+- **Si un atout (tarok) est joué**, les autres joueurs doivent jouer un atout s'ils en ont. Les joueurs sans atout peuvent défausser n'importe quelle carte lorsqu'un atout est joué.
 
-- **If a suit card is led**, other players must play a card of the suit that was led is they can. Players with no card of the suit led **must** play a tarok if they have any. Players with no taroky and no cards of the suit led may play any card.
+- **Si une carte de couleur est jouée**, les autres joueurs doivent jouer une carte de la couleur demandée s'ils le peuvent. Les joueurs n'ayant pas de carte de la couleur demandée **doivent** jouer un tarok s'ils en ont. Les joueurs n'ayant ni taroky ni carte de la couleur demandée peuvent jouer n'importe quelle carte.
 
-A trick that contains trumps is won by the highest trump in it (*but see the exception below*). A trick that contains no trumps is won by the highest card of the suit that was led. The winner of the trick gathers the four cards, stores them face down in front of them and leads any card to the next trick.
+Une levée contenant des atouts est remportée par le plus élevé d'entre eux (*mais voir l'exception ci-dessous*). Une levée sans atout est remportée par la carte la plus élevée de la couleur demandée. Le gagnant de la levée ramasse les quatre cartes, les pose face cachée devant lui et joue n'importe quelle carte pour entamer la levée suivante.
 
-**Exception**. If the **21**, the **Skies** and the trump **1** are all played to the same trick **in that order**, then the trump **1** wins the trick. The **21**, **Skies** and **1** do not have to be played consecutively - the fourth card can be anywhere in the trick - but the **1** only wins the trick if it is played after the **Skies**, which is played after the **21**. 
+**Exception**. Si le **21**, le **Ciel** et l'atout **1** sont tous joués dans la même levée **dans cet ordre**, alors l'atout **1** remporte la levée. Le **21**, le **Ciel** et le **1** n'ont pas besoin d'être joués consécutivement — la quatrième carte peut se trouver n'importe où dans la levée — mais le **1** ne gagne la levée que s'il est joué après le **Ciel**, qui est joué après le **21**.
 
-## Scoring
+## Décompte
 
-### Payments for game
+### Paiements pour le jeu
 
-Each team counts the value of the cards they have taken in tricks plus their part of the blind. The total value should be 70 card points as explained above, and the bidder's team wins the game if they have more card points than the other team i.e. 36 or more. In case of a 35-35 tie or if the opponents have more card points than the bidder's team, the bidder's team loses the game.
+Chaque équipe compte la valeur des cartes qu'elle a prises dans ses levées plus sa part du chien. La valeur totale devrait être de 70 points de cartes comme expliqué ci-dessus, et l'équipe du preneur gagne le jeu si elle a plus de points de cartes que l'autre équipe, c'est-à-dire 36 ou plus. En cas d'égalité 35-35 ou si les adversaires ont plus de points de cartes que l'équipe du preneur, l'équipe du preneur perd le jeu.
 
-The payment for the game depends on the bid, how the blind was used, whether kontra (double) was announced and whether one team won all the tricks. The basic payments are as follows:
+Le paiement pour le jeu dépend de l'enchère, de l'utilisation du chien, de l'annonce d'un kontra (contre) et de la victoire ou non de toutes les levées par une équipe. Les paiements de base sont les suivants :
 
-| Bid | Use of the blind | Payment 
-(chips) |
-| 'Four' | Bidder takes first three cards | 4 |
-| Bidder shows first three cards and takes second three | 5 |
-| Bidder shows both sets of cards and takes first three | 6 |
-| 'Five' | Blind to bidder's opponents unseen. | 8 |
-| 'Five Over' | 16 |
+| Enchère | Utilisation du chien | Paiement (jetons) |
+| 'Quatre' | Le preneur prend les trois premières cartes | 4 |
+| Le preneur expose les trois premières et prend les secondes trois | 5 |
+| Le preneur expose les deux ensembles et prend les trois premières | 6 |
+| 'Cinq' | Chien aux adversaires du preneur, non vu | 8 |
+| 'Cinq Sur' | 16 |
 
-In the usual 2 against 2 game each member of the winning team receives chips to the value shown in the table and each member of the losing team pays that value in chips. When the bidder plays alone (having called their own King or a King in the blind) the bidder pays or receives the amount in the table to or from each opponent, so that the bidder's gain or loss is three times as great as that of the team members. For example when the bidder wins a 'Four' bid playing alone, having exposed the whole blind and returned to the first set of three cards, each opponent will pay the bidder 6 chips for the game and thus the bidder will gain 18 chips.
+Dans le jeu habituel à 2 contre 2, chaque membre de l'équipe gagnante reçoit des jetons de la valeur indiquée dans le tableau et chaque membre de l'équipe perdante paie cette valeur en jetons. Lorsque le preneur joue seul (ayant appelé son propre Roi ou un Roi dans le chien), le preneur paie ou reçoit le montant du tableau à ou de chaque adversaire, de sorte que le gain ou la perte du preneur est trois fois supérieur à celui des membres de l'équipe. Par exemple, lorsque le preneur gagne une enchère « Quatre » en jouant seul, ayant exposé tout le chien et repris le premier ensemble de trois cartes, chaque adversaire paiera au preneur 6 jetons pour le jeu et ainsi le preneur gagnera 18 jetons.
 
-If either team wins all the tricks the payments for game in the above table are doubled.
+Si l'une ou l'autre équipe gagne toutes les levées, les paiements pour le jeu dans le tableau ci-dessus sont doublés.
 
-In a 'Five' or 'Five Over' game if kontra (double) was said the payments in the table are doubled and if the bidder's team replied with rekontra (redouble) they are doubled again.
+Dans un jeu « Cinq » ou « Cinq Sur », si un kontra (contre) a été dit, les paiements dans le tableau sont doublés, et si l'équipe du preneur a répondu par un rekontra (surcontre), ils sont doublés à nouveau.
 
-### Payments for last trick bonuses
+### Paiements pour les bonus de dernière levée
 
-These payments are independent of the game - a team may win the game and lose a last trick bonus or vice versa. As with the game payments, in a 2 against 2 game each member of the losing team pays a member of the winning team, and a bidder playing alone against a team of three pays to or receives from all three opponents.
+Ces paiements sont indépendants du jeu — une équipe peut gagner le jeu et perdre un bonus de dernière levée ou inversement. Comme pour les paiements du jeu, dans un jeu à 2 contre 2, chaque membre de l'équipe perdante paie un membre de l'équipe gagnante, et un preneur jouant seul contre une équipe de trois paie à ou reçoit de ses trois adversaires.
 
-The basic payment for 'King Last' or 'Tarok **1** Last' is 1 chip. This is subject to doubling as follows:
+Le paiement de base pour « Roi en dernier » ou « Tarok **1** en dernier » est de 1 jeton. Il est soumis au doublement comme suit :
 
-- doubled if the bonus was announced ('called') before the bidder led to the first trick.
+- doublé si le bonus a été annoncé ('appelé') avant que le preneur n'entame la première levée.
 
-- doubled if the bid was 'Five' or quadrupled if the bid was 'Five Over'
+- doublé si l'enchère était « Cinq » ou quadruplé si l'enchère était « Cinq Sur »
 
-- doubled if a team won all the tricks
+- doublé si une équipe a gagné toutes les levées
 
-So for example a successful 'Called King Last' in a game of 'Five Over' earns a payment of 8 chips, or 16 chips if the team took all 12 tricks.
+Ainsi, par exemple, un « Roi en dernier annoncé » réussi dans un jeu « Cinq Sur » rapporte un paiement de 8 jetons, ou 16 jetons si l'équipe a pris toutes les 12 levées.
 
-The payments for last trick bonuses are not affected by kontra or rekontra - these announcements only affect the game.
+Les paiements pour les bonus de dernière levée ne sont pas affectés par kontra ou rekontra — ces annonces n'affectent que le jeu.
 
-### Payments for card combinations
+### Paiements pour les combinaisons de cartes
 
-These payments are independent of the game and the partnerships. They are paid to the holder of the combination by all three of the other players irrespective of which team they belong to. Note that to obtain the payment the holder of Ten Taroky must claim it before the bidder leads the first card, and to obtain the payments for 'Four Kings' or 'Three High' they must be claimed after all the relevant cards have been played and before the payments for game are finalised. It is possible for the same player to claim more than one of these payments - for example a player holding the **Skies**, **21**, **1** and seven other taroky can claim 'Ten Taroky' before the first card is led and then 'Three High' after the last of the 5-point trumps has been played.
+Ces paiements sont indépendants du jeu et des partenariats. Ils sont payés au détenteur de la combinaison par les trois autres joueurs, indépendamment de l'équipe à laquelle ils appartiennent. Notez que pour obtenir le paiement, le détenteur de Dix Taroky doit le réclamer avant que le preneur ne joue la première carte, et pour obtenir les paiements de « Quatre Rois » ou « Trois Hauts », ils doivent être réclamés après que toutes les cartes concernées ont été jouées et avant que les paiements du jeu ne soient finalisés. Il est possible pour le même joueur de réclamer plusieurs de ces paiements — par exemple, un joueur détenant le **Ciel**, le **21**, le **1** et sept autres taroky peut réclamer « Dix Taroky » avant que la première carte ne soit jouée, puis « Trois Hauts » après que le dernier des atouts à 5 points a été joué.
 
-The basic payment for 'Ten Taroky' or 'Four Kings' or 'Three High' is 1 chip. This payment is doubled to 2 chips if the bid is 'Five' or quadrupled to 4 chips if the bid is 'Five Over'.
+Le paiement de base pour « Dix Taroky », « Quatre Rois » ou « Trois Hauts » est de 1 jeton. Ce paiement est doublé à 2 jetons si l'enchère est « Cinq » ou quadruplé à 4 jetons si l'enchère est « Cinq Sur ».
 
-The payments for card combinations are not affected by kontra or rekontra or by a team taking 12 tricks.
+Les paiements pour les combinaisons de cartes ne sont pas affectés par kontra, rekontra ou par une équipe qui remporte 12 levées.
 
-### Penalties
+### Pénalités
 
-**Misdeal**. The dealer pays 1 chip to each of the other three players, the cards are thrown in and forehand shuffles and deals the next hand.
+**Maldonne**. Le donneur paie 1 jeton à chacun des trois autres joueurs, les cartes sont jetées et le premier en main bat et distribue la prochaine main.
 
-**Forgotten discard**. If the bidder forgets to discard (or discards too few cards) and this is not noticed until after the bidder has led to the first trick, the bidder must pay 1 chip to each of the other three players and then complete the discard, after which the game resumes and is paid for as usual. 
+**Écart oublié**. Si le preneur oublie d'écarter (ou n'écarte pas assez de cartes) et que cela n'est pas remarqué après que le preneur a entamé la première levée, le preneur doit payer 1 jeton à chacun des trois autres joueurs puis compléter l'écart, après quoi le jeu reprend et est payé comme d'habitude.
 
-## Variations
+## Variantes
 
-Kontra/rekontra is not a universally recognised rule: some tables do not allow these announcements. The tournament in Clarkson was played without kontra and rekontra.
+Le kontra/rekontra n'est pas une règle universellement reconnue : certaines tables n'autorisent pas ces annonces. Le tournoi de Clarkson se jouait sans kontra ni rekontra.
 
-Some play that a bidder who holds all four Kings is allowed to choose a partner by calling a Queen. Some play that a bidder holding four Kings may call the trump 19.
+Certains jouent qu'un preneur qui détient les quatre Rois est autorisé à choisir un partenaire en appelant une Dame. Certains jouent qu'un preneur détenant quatre Rois peut appeler l'atout 19.
 
-### Heun Version
+### Version de Heun
 
-This version is described in a [document by Robert Brichaček and Ken Čada](https://clarksonhistory.wordpress.com/wp-content/uploads/2016/02/heun-taroky.pdf) published in 1997. There are a few differences between these Heun rules and the La Vista version described above, as follows.
+Cette version est décrite dans un [document de Robert Brichaček et Ken Čada](https://clarksonhistory.wordpress.com/wp-content/uploads/2016/02/heun-taroky.pdf) publié en 1997. Il y a quelques différences entre ces règles de Heun et la version de La Vista décrite ci-dessus, comme suit.
 
-The bidder of a 'Four' game is not allowed to discard taroky, Kings **or cards picked up from the blind** unless there is no alternative. Kings, 5-point taroky and taroky picked up from the blind can **never** be discarded. Other taroky (**2**-**20**) can only discarded if the bidder is left with a hand consisting entirely of taroky and Kings and as usual must tell the other players how many taroky have been discarded. This restriction seems to be unenforceable if the bidder takes the first or second set of three cards from the blind without showing them. In this case the other players have no way to know which cards were obtained from the blind and which were in the bidder's original hand.
+Le preneur d'un jeu « Quatre » n'est pas autorisé à écarter des taroky, des Rois **ou des cartes prises dans le chien** sauf s'il n'y a pas d'autre choix. Les Rois, les taroky à 5 points et les taroky pris dans le chien ne peuvent **jamais** être écartés. Les autres taroky (**2** à **20**) ne peuvent être écartés que si le preneur se retrouve avec une main composée uniquement de taroky et de Rois et doit, comme d'habitude, dire aux autres joueurs combien de taroky ont été écartés. Cette restriction semble inapplicable si le preneur prend le premier ou le second ensemble de trois cartes du chien sans les montrer. Dans ce cas, les autres joueurs n'ont aucun moyen de savoir quelles cartes provenaient du chien et lesquelles se trouvaient dans la main initiale du preneur.
 
-If the bid is 'Five' or 'Five Over' and the called King turns out to be in the blind, the bidder is given the top three cards of the blind and the bottom three belong to the bidder's opponents, irrespective of which half contains the called King.
+Si l'enchère est « Cinq » ou « Cinq Sur » et que le Roi appelé se révèle être dans le chien, le preneur reçoit les trois cartes du haut du chien et les trois du bas appartiennent aux adversaires du preneur, indépendamment de la moitié qui contient le Roi appelé.
 
-If a player other than forehand plays a game of 'Four', forehand having passed, it is forehand, not the bidder, who leads to the first trick.
+Si un joueur autre que le premier en main joue un jeu « Quatre », le premier en main ayant passé, c'est le premier en main, et non le preneur, qui entame la première levée.
 
-Apparently in Heun, if the last trick contains the tarok **1**, the 'Tarok **1** Last' bonus is won by the team that wins the last trick even if the winner of the trick is the partner of the person who player the **1**. This is not very clearly explained - the rules just say that 'Tarok **1** Last' is played "with the same conditions" as 'King Last'. This may be an oversight and the more usual rule that the tarok **1** itself has to win the trick for the bonus to succeed may have been intended.
+Apparemment à Heun, si la dernière levée contient le tarok **1**, le bonus « Tarok **1** en dernier » est remporté par l'équipe qui gagne la dernière levée même si le gagnant de la levée est le partenaire de la personne qui a joué le **1**. Cela n'est pas très clairement expliqué — les règles disent simplement que « Tarok **1** en dernier » se joue « avec les mêmes conditions » que « Roi en dernier ». Il pourrait s'agir d'un oubli et la règle plus courante selon laquelle le tarok **1** lui-même doit gagner la levée pour que le bonus réussisse a pu être envisagée.
 
-### Petrtyl Tarock
+### Tarock de Petrtyl
 
-![Pertytls «Tarok» (Chris Miller, Wikimedia 2011)](../images/nebraska/pertytl-deck.jpg)
+![Pertytl « Tarok » (Chris Miller, Wikimedia 2011)](../images/nebraska/pertytl-deck.jpg)
 
-(Fig. 1)
+(Fig. 1)
 
-In 1922, August Petrtyl published an unconventional tarot pack in Chicago. The suits have unusual colors (hearts pink, diamonds yellow, clubs black and spades green) and the picture cards in the suits are Indian Chief, Squaw, Cowboy and Scout instead of King, Queen, Horseman and Jack. All four suits have the same pip cards IV, III, II and I labelled with Roman numbers. The trumps show American landscapes in a circle. The Skies is "Uncle Sam" and the **1** is the "Papoose". The cards are accompanied by a set of rules with games for 2 to 5 players.
+En 1922, August Petrtyl a publié un jeu de tarot non conventionnel à Chicago. Les couleurs ont des teintes inhabituelles (cœurs roses, carreaux jaunes, trèfles noirs et piques verts) et les figures des couleurs sont Chef Indien, Squaw, Cowboy et Scout au lieu de Roi, Dame, Cavalier et Valet. Les quatre couleurs ont les mêmes cartes numériques IV, III, II et I avec des chiffres romains. Les atouts représentent des paysages américains en cercle. Le Ciel est « Uncle Sam » et le **1** est le « Papoose ». Les cartes sont accompagnées d'un ensemble de règles pour des jeux de 2 à 5 joueurs.
 
-If you disregard the idiosyncratic terminology and design of the cards, the four-player game looks like an early form of Nebraska Taroky in which the bidder shooses a partner by calling a King. Ulf Martin has suppied the following summary of the differences from the modern Nebraska game.
+Si l'on fait abstraction de la terminologie et du design idiosyncrasiques des cartes, le jeu à quatre joueurs ressemble à une forme ancienne du Nebraska Taroky dans laquelle le preneur choisit un partenaire en appelant un Roi. Ulf Martin a fourni le résumé suivant des différences avec le jeu nébraskais moderne.
 
-The bids in ascending order are: "Three", "Four", "Five", "Grand Nullo" and "Grand Sweep" (there is no "Five Over").
+Les enchères par ordre croissant sont : « Trois », « Quatre », « Cinq », « Grand Nullo » et « Grand Sweep » (il n'y a pas de « Cinq Sur »).
 
-**Three**. Forehand always starts the bidding and must bid at least "Three". If nobody overcalls with "Four" the cards are thrown in and forehand receives 3 chips from each player.
+**Trois**. Le premier en main commence toujours les enchères et doit enchérir au moins « Trois ». Si personne ne surclasse par « Quatre », les cartes sont jetées et le premier en main reçoit 3 jetons de chaque joueur.
 
-**Solo play.** In the "Four" and "Five" games, the bidder can explicitly choose to play alone: "Without a King!" (or "Without a Chief!").
+**Jeu en solo**. Dans les jeux « Quatre » et « Cinq », le preneur peut explicitement choisir de jouer seul : « Sans Roi ! » (ou « Sans Chef ! »).
 
-**Sweep** means winning all the tricks and can be announced before the first lead. If the bid is 'Four' the payment is 12, 14 or 16 chips (if the bidder took the first half of blind, took the second half or returned to first half) respectively. These payments are doubled to 24, 28, 32 chips if the Sweep was announced. Ig the bid is 'Five' the payment for Sweep is 24 chips, or 48 chips if the Sweep was announced. 'Grand Sweep' means that the player plays alone without taking the blind and must take all the tricks, and this is worth 60 chips. In case of a Sweep, last trick bonuses are not counted.
+**Sweep** (balayage) signifie gagner toutes les levées et peut être annoncé avant la première entame. Si l'enchère est « Quatre », le paiement est de 12, 14 ou 16 jetons (selon que le preneur a pris la première moitié du chien, la seconde moitié ou est revenu à la première moitié) respectivement. Ces paiements sont doublés à 24, 28, 32 jetons si le Sweep a été annoncé. Si l'enchère est « Cinq », le paiement pour un Sweep est de 24 jetons, ou 48 jetons si le Sweep a été annoncé. « Grand Sweep » signifie que le joueur joue seul sans prendre le chien et doit gagner toutes les levées, et cela vaut 60 jetons. En cas de Sweep, les bonus de dernière levée ne sont pas comptés.
 
-**Trick play**. Forehand always leads to the first trick. Anyone who announces a last trick bonus cannot play the announced card before the last trick unless forced to by the rules of play.
+**Jeu des levées**. Le premier en main entame toujours la première levée. Toute personne qui annonce un bonus de dernière levée ne peut pas jouer la carte annoncée avant la dernière levée sauf si elle y est forcée par les règles du jeu.
 
-**Declarations**. The payments for card combinations (Three High, Four Kings, Ten Taroky) depend on the bid: 'Four' 1 chip, 'Five' 2 chips, 'Grand Sweep" 4 chips.
+**Déclarations**. Les paiements pour les combinaisons de cartes (Trois Hauts, Quatre Rois, Dix Taroky) dépendent de l'enchère : « Quatre » 1 jeton, « Cinq » 2 jetons, « Grand Sweep » 4 jetons.
 
-**Grand Nullo**. The talon is set aside unseen, the bidder plays the cards as dealt and must try to lose every trick. Payment 36 chips. If this is the bid, the possible declarations are "No trumps" (two or fewer taroky), "No three" (no **skies**, **21**, **1**) and "No Kings". These are worth 4 chips each.
+**Grand Nullo**. Le talon est mis de côté non vu, le preneur joue les cartes telles qu'elles ont été distribuées et doit essayer de perdre chaque levée. Paiement 36 jetons. Si c'est l'enchère, les déclarations possibles sont « Pas d'atout » (deux taroky ou moins), « Pas de trois » (pas de **Ciel**, **21**, **1**) et « Pas de Rois ». Elles valent chacune 4 jetons.
 
-**Penalty pot**. In case of a misdeal the dealer pays 4 chips into this pot. Its contents are won by a team that announces "Tarok 1 Last" if they succeed, or doubled by them if they fail. 
+**Pari pénalité**. En cas de maldonne, le donneur paie 4 jetons dans ce pot. Son contenu est remporté par une équipe qui annonce « Tarok 1 en dernier » en cas de réussite, ou doublé par elle en cas d'échec.
 
-### Ben Franklin Store Rules
+### Règles du magasin Ben Franklin
 
-For a while, the Tarok cards sold by the Ben Franklin store in Schuyler NE were accompanied by a rule sheet for 2 to 4 players. However, these rules do not describe the Nebraska game. They are a fairly literal translation of part of a German leaflet published the Austrian card maker Piatnik in the 1970's which describes the Tarock games that were best known in Vienna at that time. It seems likely that at some point Ben Franklin Store was importing Piatnik cards from Austria and commissioned a translation of the enclosed leaflet not realising that it described a different game from theirs. 
+Pendant un certain temps, les cartes de Tarok vendues par le magasin Ben Franklin de Schuyler NE étaient accompagnées d'une feuille de règles pour 2 à 4 joueurs. Cependant, ces règles ne décrivent pas le jeu du Nebraska. Il s'agit d'une traduction assez littérale d'une partie d'un dépliant allemand publié par le fabricant de cartes autrichien Piatnik dans les années 1970, qui décrit les jeux de Tarock les plus connus à Vienne à cette époque. Il semble probable qu'à un moment donné, le magasin Ben Franklin importait des cartes Piatnik d'Autriche et a commandé une traduction du dépliant inclus sans réaliser qu'il décrivait un jeu différent du leur.
 
-## Notes on Related Cards and Games
+## Notes sur les cartes et jeux apparentés
 
-Ulf Martin has provided the following notes.
+Ulf Martin a fourni les notes suivantes.
 
-The pattern used for Taroky in Nebraska in the last few decades is based on the "Encyclopaedic" or "Bourgeois Tarot" published by the Conrad Ludwig Wüst company in Frankfurt am Main in 1865. The pattern obviously struck a chord with the times and copies and variants were produced by many major card makers. The Viennese company Piatnik had a joint distribution agreement with Wüst for its variant published in New York in 1905. Wüst was taken over by Vereinigte Altenburger und Stralsunder Spielkarten-Fabriken A.G. (ASS) in 1927. The last ASS cards with the Wüst pattern were labelled "Cego-Karte Nr. 49" and were exported to America until the end of the 1930s. The cards exported from Europe always had the usual size for tarot cards of approx. 11 x 6 cm. 
+Le modèle utilisé pour le Taroky au Nebraska au cours des dernières décennies est basé sur l'« Encyclopédique » ou « Tarot Bourgeois » publié par la société Conrad Ludwig Wüst de Francfort-sur-le-Main en 1865. Ce modèle a manifestement rencontré un écho auprès de l'époque et des copies et variantes ont été produites par de nombreux grands fabricants de cartes. La société viennoise Piatnik avait un accord de distribution conjoint avec Wüst pour sa variante publiée à New York en 1905. Wüst a été repris par Vereinigte Altenburger und Stralsunder Spielkarten-Fabriken A.G. (ASS) en 1927. Les dernières cartes ASS avec le modèle Wüst étaient étiquetées « Cego-Karte Nr. 49 » et ont été exportées vers l'Amérique jusqu'à la fin des années 1930. Les cartes exportées d'Europe avaient toujours la taille habituelle pour les cartes de tarot d'environ 11 x 6 cm.
 
 ![Tarock von Western PCC und Cego-Karten Nr. 49 von ASS mit US-Steuerstempel (Achim Laber, 2024)](../images/nebraska/western-und-ass.jpg)
 
-(Fig. 2)
+(Fig. 2)
 
-With the outbreak of war in 1939, German playing card exports overseas came to an end. As there was still a demand for the cards, the Western Playing Card Company in Racine (Wisconsin) stepped in. Western PCC adopted the ASS pattern, including the ASS logo on the Ace of Diamonds. As there was probably no production line for cards taller than the bridge format (9 x 6 cm, 2 cm shorter than standard tarot cards), 1 cm was cut off the images of each half of the card.
+Avec le déclenchement de la guerre en 1939, les exportations allemandes de cartes à jouer vers l'outre-mer ont pris fin. Comme il y avait encore une demande pour les cartes, la Western Playing Card Company de Racine (Wisconsin) s'est engagée. Western PCC a adopté le modèle ASS, y compris le logo ASS sur l'As de Carreaux. Comme il n'y avait probablement pas de ligne de production pour des cartes plus grandes que le format Bridge (9 x 6 cm, 2 cm plus court que les cartes de tarot standard), 1 cm a été coupé des images de chaque moitié de la carte.
 
 ![Western PCC, Karo-Ass](../images/nebraska/d1.jpg)
 
-Initially, the cards were delivered in a cardboard box clearly labelled with the manufacturer's name: "Tarock Playing Cards / Made in U.S.A. / Western Playing Card Co. / Racine, Wis. / Poughkeepsie N.Y.". Later, a transparent celluloid box was used with no cover card, so that the manufacturer's details are missing from this later edition. 
+Initialement, les cartes étaient livrées dans une boîte en carton clairement étiquetée avec le nom du fabricant : « Tarock Playing Cards / Made in U.S.A. / Western Playing Card Co. / Racine, Wis. / Poughkeepsie N.Y. ». Plus tard, une boîte en celluloid transparente a été utilisée sans carte de couverture, de sorte que les détails du fabricant manquent sur cette édition ultérieure.
 
-![Tarock Playing Cards, Western PCC, ca. 1940 (Emily Wynn, 2025)](../images/nebraska/plibbity_western-tarock.jpg) ![Tarock Playing Cards, Western PCC, n.d. (Ebay, aufgerufen 2025)](../images/nebraska/ebay_western.jpg) ![Tarock Playing Cards, Ben Franklin Store, Schuyler NE](../images/nebraska/ben-franklin-tarock.jpg)
+![Tarock Playing Cards, Western PCC, ca. 1940 (Emily Wynn, 2025)](../images/nebraska/plibbity_western-tarock.jpg) ![Tarock Playing Cards, Western PCC, n.d. (Ebay, aufgerufen 2025)](../images/nebraska/ebay_western.jpg) ![Tarock Playing Cards, Ben Franklin Store, Schuyler NE](../images/nebraska/ben-franklin-tarock.jpg)
 
 (Fig. 3)
 
-Western PCC was bought by Liberty Inc. at the end of the 1980s. No new cards seem to have been produced since then. The Ben Franklin store in Schuyler NE was the last to sell tarok cards. Ben Franklin was a chain of variety stores that went out of business in the late 1990s. The stock was bought by players and is still sold today at Taroky tournaments in Nebraska and by the plumbing and heating shop Clarkson Plumbing, Heating, and Hardware, Inc., 220 Pine St, Clarkson NE 68629, Tel. +1-402-892-3331 for $5 each, available only on site and a maximum of two per buyer(!) as of March 2025. 
+Western PCC a été rachetée par Liberty Inc. à la fin des années 1980. Aucune nouvelle carte ne semble avoir été produite depuis. Le magasin Ben Franklin de Schuyler NE était le dernier à vendre des cartes de tarok. Ben Franklin était une chaîne de magasins à succursales diverses qui a fait faillite à la fin des années 1990. Le stock a été acheté par des joueurs et est encore vendu aujourd'hui lors des tournois de Taroky dans le Nebraska et par le magasin de plomberie et chauffage Clarkson Plumbing, Heating, and Hardware, Inc., 220 Pine St, Clarkson NE 68629, Tél. +1-402-892-3331, à 5 $ chacun, uniquement sur place et avec un maximum de deux par acheteur (!) en mars 2025.
 
-After the war, ASS discontinued its Cego No. 49 and never again exported cards to America on a large scale. If you cannot obtain the Western cards, the most similar pattern would be the Cego by F.X. Schmid. It has the large numbers in the center of the bar at each end of the trump cards, with peasant scenes underneath throughout. The Schmid pattern is distributed by several companies (Fahnen & Werbetechnik Staeb, Fürstenberg Brauerei; it is printed by ASS). The modern French tarot (*Tarot nouveau*, commercially: *Jeu de tarot à 78 cartes*) has the same pattern on the trumps as the Western cards, but the numbers are in the corners. The "Adler Cego" with animal images on the trumps is a more distant relative.
+Après la guerre, ASS a abandonné son Cego n° 49 et n'a plus jamais exporté de cartes vers l'Amérique à grande échelle. Si vous ne pouvez pas vous procurer les cartes Western, le modèle le plus similaire serait le Cego de F.X. Schmid. Il a les grands nombres au centre de la barre à chaque extrémité des atouts, avec des scènes paysannes en dessous. Le modèle Schmid est distribué par plusieurs sociétés (Fahnen & Werbetechnik Staeb, Fürstenberg Brauerei ; il est imprimé par ASS). Le tarot français moderne (*Tarot nouveau*, commercialement : *Jeu de tarot à 78 cartes*) a le même modèle sur les atouts que les cartes Western, mais les nombres sont dans les coins. L'« Adler Cego » avec des images d'animaux sur les atouts est un parent plus éloigné.
 
-The illustrations by Brichaček/Čada and Čada suggest that Austrian Industrie-und-Glück pattern Tarock cards with large Roman numerals on the trumps, sometimes known in Nebraska as "fancy cards" have also been used for Nebraska Taroky. Although the Western PCC bridge-sized cards are preferred many players, they are becoming harder to obtain, and it appears that the newest generation of Nebraska players have therefore begun to play instead with Piatnik Industrie-und-Glück pattern Tarock decks which they buy online. 
+Les illustrations de Brichaček/Čada et Čada suggèrent que des cartes de Tarock du modèle Industrie-und-Glück autrichien avec de grands chiffres romains sur les atouts, parfois connues au Nebraska sous le nom de « cartes fantaisie », ont également été utilisées pour le Nebraska Taroky. Bien que les cartes de format Bridge de Western PCC soient préférées par de nombreux joueurs, elles deviennent plus difficiles à se procurer, et il semble que la nouvelle génération de joueurs du Nebraska ait donc commencé à jouer avec des jeux de Tarock du modèle Industrie-und-Glück de Piatnik, qu'ils achètent en ligne.
 
-![Vergleich Tarock 17](../images/nebraska/t17-diverse.jpg)
+![Comparaison Tarock 17](../images/nebraska/t17-diverse.jpg)
 
 (Fig. 4)
 
-### Origins and Related Games
+### Origines et jeux apparentés
 
-The Nebraska rules are based on variants that were played around 1900 in the lands of the Bohemian Crown in the Habsburg Empire. The wave of emigration from there was organised in such a way that closed Czech settlement areas were able to form in the American Midwest, where the Bohemian culture, including Taroky, was preserved.
+Les règles du Nebraska sont basées sur des variantes jouées vers 1900 dans les terres de la Couronne de Bohême dans l'Empire des Habsbourg. La vague d'émigration depuis cette région a été organisée de manière à permettre la formation de zones de peuplement tchèque fermées dans le Middle West américain, où la culture bohémienne, y compris le Taroky, a été préservée.
 
-Compared to today's Königrufen in Austria, the procedure for picking up the blind in stages in the Nebraska "Four" bid seems particularly old fashioned. Also the principle of allowing any player to play a simple Rufer game (equivalent to 'Four') is no longer maintained in Austria. Either forehand is allowed to make this or in some places it is omitted altogether.
+Comparé au Königrufen actuel en Autriche, la procédure de prise du chien par étapes dans l'enchère « Quatre » du Nebraska semble particulièrement ancienne. Le principe permettant à n'importe quel joueur de jouer un Rufer simple (équivalent au « Quatre ») n'est d'ailleurs plus maintenu en Autriche. Soit le premier en main est autorisé à le faire, soit dans certains endroits cela est omis entièrement.
 
-In modern Czech four-player Taroky players no longer call a King to select a partner - only the trump **19** can be called. It is likely that in the past both variants (King-calling and **19**-calling) were known in the same Czech regions (as they still are in some parts of Austria today). This can be inferred from the fact that descendants of Czech immigrants in Texas still play King-calling, **19**-calling and **20**-calling Taroky variants. In Texas, however, the players use "fancy cards" of the Industrie-und-Glück pattern, imported from Austria. 
+Dans le Taroky tchèque moderne à quatre joueurs, on n'appelle plus un Roi pour choisir un partenaire — seul l'atout **19** peut être appelé. Il est probable que par le passé les deux variantes (appel du Roi et appel du **19**) étaient connues dans les mêmes régions tchèques (comme c'est encore le cas dans certaines parties de l'Autriche aujourd'hui). On peut le déduire du fait que les descendants d'immigrants tchèques au Texas jouent encore des variantes de Taroky avec appel du Roi, appel du **19** et appel du **20**. Au Texas, cependant, les joueurs utilisent des « cartes fantaisie » du modèle Industrie-und-Glück, importées d'Autriche.
 
-## Sources and References
+## Sources et références
 
-### Bibliography
+### Bibliographie
 
 - BRICHAČEK Robert / ČADA Ken (1997) The Czech Card Game of Taroky: Rules as Played at Holy Trinity Catholic Church Heun, Nebraska. ([Clarkson History](https://clarksonhistory.wordpress.com/wp-content/uploads/2016/02/heun-taroky.pdf))
 
@@ -337,45 +321,45 @@ In modern Czech four-player Taroky players no longer call a King to select a par
 
 - DUMMETT Michael / MCLEOD John (2009) Supplement to A History of Games Played with the Tarot Pack. Oxford, Maproom. ([Tarotgame.org](https://www.tarotgame.org/))
 
-- *Petrytl: games 18.14 (4 players, calling a King) and 18.15 to 18.17 (other numbers of players).*
+- *Petrytl : jeux 18.14 (4 joueurs, appel d'un Roi) et 18.15 à 18.17 (autres nombres de joueurs).*
 
-- *Texas: games 18.13 (calling a King), 19.16 (calling the **19**), 19.17 (calling the **20**).*
+- *Texas : jeux 18.13 (appel d'un Roi), 19.16 (appel du **19**), 19.17 (appel du **20**).*
 
-- KNÜPFER Ulrich (2024) Ein Bürger tarockiert. ([Talon Nr. 33, S. 86](http://www.talon.cc/Talon-Inhalt/Inhalt33.html)) *Tarock cards in America.*
+- KNÜPFER Ulrich (2024) Ein Bürger tarockiert. ([Talon Nr. 33, S. 86](http://www.talon.cc/Talon-Inhalt/Inhalt33.html)) *Cartes de Tarock en Amérique.*
 
-- LABER Achim (2025) Die Kartenblätter. ([Cego.de](https://www.cego.de/kartenblaetter)) *Comparison of Tarock card patterns.*
+- LABER Achim (2025) Die Kartenblätter. ([Cego.de](https://www.cego.de/kartenblaetter)) *Comparaison des modèles de cartes de Tarock.*
 
 - MCLEOD John
 
-- [Taroky](https://www.pagat.com/tarot/taroky.html). *Czech Taroky, calling the **19***
+- [Taroky](https://www.pagat.com/tarot/taroky.html). *Taroky tchèque, appel du **19***
 
-- [Königrufen](https://www.pagat.com/de/tarot/koenig.html). *Austrian King-calling Tarock.*
+- [Königrufen](https://www.pagat.com/de/tarot/koenig.html). *Tarock autrichien avec appel du Roi.*
 
 - WINTLE Simon (2023) Western PCC, Racine, Wisconsin. ([World of Playing Cards](https://www.wopc.co.uk/usa/western/western-pcc))
 
-In addition, discussions with Gerd Matthes, playing card collector and long-time employee of the playing card factory in Altenburg (Thuringia).
+En outre, discussions avec Gerd Matthes, collectionneur de cartes à jouer et ancien employé de longue date de la fabrique de cartes à jouer d'Altenbourg (Thuringe).
 
 ### Illustrations
 
-- Title picture: Čada
+- Image de titre : Čada
 
-- Western Cards: Scans by Ulf Martin
+- Cartes Western : Scans par Ulf Martin
 
-- Numbered Figures
+- Figures numérotées
 
-- Petrytl Tarok: Chris Miller ([Wikimedia, 2011](https://commons.wikimedia.org/wiki/File:Tarok_American_Card.jpg))
+- Tarock de Petrtyl : Chris Miller ([Wikimedia, 2011](https://commons.wikimedia.org/wiki/File:Tarok_American_Card.jpg))
 
-- Tarock by Western PCC and Cego-Karten Nr. 49 by ASS with US tax stamp 1937: Achim Laber (Hinterzarten, 2024)
+- Tarock par Western PCC et Cego-Karten Nr. 49 par ASS avec timbre fiscal américain 1937 : Achim Laber (Hinterzarten, 2024)
 
-- Western PCC boxes (left to right.)
+- Boîtes Western PCC (de gauche à droite.)
 
-- Box for "Tarock Playing Cards" (ca. 1940): Emily Wynn (La Vista NE, 2025)
+- Boîte « Tarock Playing Cards » (ca. 1940) : Emily Wynn (La Vista NE, 2025)
 
-- Box for "Tarock Playing Cards" (undated): Ebay-offer "Vintage Deck of Tarock Playing Cards w/Box - 54 Cards - USA - Western Playing Co" ([Playful Investments](https://www.ebay.com/itm/355153414283), retrieved March 2025)
+- Boîte « Tarock Playing Cards » (non datée) : offre Ebay « Vintage Deck of Tarock Playing Cards w/Box - 54 Cards - USA - Western Playing Co » ([Playful Investments](https://www.ebay.com/itm/355153414283), récupéré en mars 2025)
 
-- Celluloid box from the Ben Franklin Store, Schuyler NE (1999): Čada
+- Boîte en celluloid du magasin Ben Franklin, Schuyler NE (1999) : Čada
 
-- Comparison of Tarock **17** (left to right on squared paper - 5mm squares): Scan by Ulf Martin
+- Comparaison du Tarock **17** (de gauche à droite sur papier quadrillé — carrés de 5 mm) : Scan par Ulf Martin
 
 - Industrie & Glück (Piatnik)
 
@@ -387,15 +371,6 @@ In addition, discussions with Gerd Matthes, playing card collector and long-time
 
 - Tarock Playing Cards (Western PCC)
 
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Nebraska
+Cette page est basée sur une page en allemand d'Ulf Martin, révisée et maintenue par John McLeod, john@pagat.com
 
-This page is based on a page in German by Ulf Martin, revised and maintained by John McLeod, john@pagat.com
-
-© Ulf Martin, John McLeod, 2025. Last updated: 20th October 2025
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
-
-Select language: [deutsch](https://www.pagat.com/de/tarot/nebraska.html) [english](https://www.pagat.com/tarot/nebraska.html)
+© Ulf Martin, John McLeod, 2025. Dernière mise à jour : 20 octobre 2025

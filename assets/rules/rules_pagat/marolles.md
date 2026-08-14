@@ -2,230 +2,203 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** How the card game Tarot was played in the early 17th century French Tarot according to the Abbé de Marolles (1637).
+**But :** Comment le jeu de cartes Tarot était pratiqué au début du XVIIe siècle en France, selon l'abbé de Marolles (1637).
 
 ---
 
-Abbé de Marolles Tarot - card game rules
+## Tarot français du début du XVIIe siècle
 
-Home
-A-Z
-
-Select language ▼
-
-[deutsch](https://www.pagat.com/de/tarot/marolles.html)
-[english](https://www.pagat.com/tarot/marolles.html)
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Abbé de Marolles 
-
-Early 17th Century French Tarot 
-
-## (according to the Abbé de Marolles, 1637)
+## (selon l'abbé de Marolles, 1637)
 
 ## Introduction
 
-In his memoirs, Michel de Marolles, Abbot of Villeloin, recorded that in 1637 he had visited the town of Nevers, halfway between Paris and Lyon, and had the opportunity to play Tarot with Princess Louise-Marie de Gonzague-Nevers (later Queen of Poland). The princess had added some innovations to the game and asked the Abbot to note them down and have them printed. These are the oldest known printed rules of the game of Tarot.
+Dans ses mémoires, Michel de Marolles, abbé de Villeloin, a consigné qu'en 1637 il s'était rendu à la ville de Nevers, à mi-chemin entre Paris et Lyon, et avait eu l'occasion de jouer au Tarot avec la princesse Louise-Marie de Gonzague-Nevers (devenue reine de Pologne). La princesse avait apporté quelques innovations au jeu et avait demandé à l'abbé de les noter et de les faire imprimer. Ce sont les règles imprimées les plus anciennes connues du jeu de Tarot.
 
-The game has all the essential scoring elements found later in German and Danish Tarok and in other three-player variants, such as that from Nice. Everyone plays for themselves and there are bonuses for declaring card combinations, for card points (using the characteristic counting method), and for winning or losing any of the 7 'Tarots' which in this game are the Kings, the lowest and highest trump and the Fool. There is also an Ultimo bonus for winning the last trick with a King or the lowest trump. Similar scoring elements are already mentioned in some Italian sources about 50 years earlier. 
+Le jeu possède tous les éléments de marquage essentiels qu'on retrouvera plus tard dans le Tarok allemand et danois et dans d'autres variantes à trois joueurs, comme celle de Nice. Chacun joue pour soi-même et il y a des bonus pour la déclaration de combinaisons de cartes, pour les points de cartes (en utilisant la méthode de comptage caractéristique), et pour gagner ou perdre l'un des 7 « Tarots » qui dans ce jeu sont les Rois, le plus bas et le plus haut atout et le Mat. Il y a aussi un bonus d'Ultimo pour gagner la dernière levée avec un Roi ou le plus bas atout. Des éléments de marquage similaires sont déjà mentionnés dans certaines sources italiennes environ 50 ans plus tôt.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are three active players, each playing for themselves - there are no formal partnerships. Each player starts with a sufficient number of counters called *marques*. The direction of play is anticlockwise.
+Il y a trois joueurs actifs, chacun jouant pour soi — il n'y a pas de partenariats formels. Chaque joueur commence avec un nombre suffisant de jetons appelés *marques*. Le sens du jeu est inverse aux aiguilles d'une montre.
 
-The game is played with an Italian-suited Tarot pack of 78 cards from which the lowest three cards of each suit have been removed to make a 66-card pack.
+Le jeu se joue avec un jeu de Tarot à couleurs italiennes de 78 cartes dont les trois cartes les plus basses de chaque couleur ont été retirées pour obtenir un jeu de 66 cartes.
 
-There are the 22 *triomphes*, 21 of which are trumps and are numbered from I to XXI. Trump XXI is *le Monde* (the World) and trump I is *le Bagat* (Pagat). The 22nd *triomphe* card has a special Joker-like role and is called *le Math* (the Fool) from the Italian *matto* (fool).
+Il y a les 22 *triomphes*, dont 21 sont des atouts numérotés de I à XXI. L'atout XXI est *le Monde* (le Monde) et l'atout I est *le Bagat* (Pagat). La 22e carte *triomphe* a un rôle spécial de Joker et est appelée *le Math* (le Mat), de l'italien *matto* (le fou).
 
-There are 4 court cards and 7 numeral cards in each suit. The court cards, also called *honneurs*, are: the King (*le Roy*), Queen (*la Royne*), Cavalier (*le Cheualier*) and Jack (*le Faon*, from the Italian *fante*). The cards of each suit rank from highest to lowest as follows.
+Il y a 4 cartes de cour et 7 cartes numériques dans chaque couleur. Les cartes de cour, aussi appelées *honneurs*, sont : le Roi (*le Roy*), la Dame (*la Royne*), le Cavalier (*le Cheualier*) et le Valet (*le Faon*, de l'italien *fante*). Les cartes de chaque couleur se classent du plus fort au plus faible comme suit.
 
-- In the ‘long suits’, Swords (*espées*) and Batons (*bastons*): K, Q, C, J, 10, 9, 8, 7, 6, 5, 4.
+- Dans les « couleurs longues », Épées (*espées*) et Bâtons (*bastons*) : R, D, C, V, 10, 9, 8, 7, 6, 5, 4.
 
-- In the ‘round suits’, Cups (*couppes*) and Coins (*deniers*): K, Q, C, J, A, 2, 3, 4, 5, 6, 7.
+- Dans les « couleurs rondes », Coupes (*couppes*) et Deniers (*deniers*) : R, D, C, V, A, 2, 3, 4, 5, 6, 7.
 
-The oddity of numeral cards in the round suits ranking inversely to those in the long suits is found in most Tarot traditions.
+La singularité des cartes numériques dans les couleurs rondes classées en ordre inverse de celles des couleurs longues se retrouve dans la plupart des traditions du Tarot.
 
-## Aim
+## But
 
-There are several scoring elements.
+Il y a plusieurs éléments de marquage.
 
-- The **Kings**, the **Fool*** (Math), *the **Trump I*** (Pagat*) and the **Trump XXI** (*Monde)* are called ***Tarots*** (“*les Tarots par excellence*”). These are the most important cards in the game, since players are paid for winning tricks with them or have to pay a penalty if they are captured. This payment or penalty is greatly increased if the Pagat or a King is played in the last trick (Ultimo).
+- Les **Rois**, le **Mat** (Math), l'**Atout I** (Pagat) et l'**Atout XXI** (Monde) sont appelés les ***Tarots*** (« *les Tarots par excellence* »). Ce sont les cartes les plus importantes du jeu, puisque les joueurs sont payés pour gagner des levées avec ces cartes ou doivent payer une pénalité si elles sont capturées. Ce paiement ou cette pénalité est considérablement augmenté si le Pagat ou un Roi est joué à la dernière levée (Ultimo).
 
-- The Ace of Coins is called *la Belle* (the beautiful one), and whoever holds it receives a payment.
+- L'As de Deniers est appelé *la Belle* (la belle), et celui qui le détient reçoit un paiement.
 
-- Certain combinations of cards in the hand of a player - Kings, Trumps, Court cards and Tarots, can be declared before the start of play and the holder is paid for them.
+- Certaines combinaisons de cartes dans la main d'un joueur — Rois, Atouts, cartes de cour et Tarots — peuvent être déclarées avant le début du jeu et le détenteur est payé pour elles.
 
-- At the end of the play the total value of the cards in tricks taken by each player is counted, and players whose total is below average have to pay the player whose total is highest.
+- À la fin du jeu, la valeur totale des cartes dans les levées prises par chaque joueur est comptée, et les joueurs dont le total est inférieur à la moyenne doivent payer au joueur dont le total est le plus élevé.
 
-## Deal and Discard
+## Donne et écart
 
-The dealer shuffles and the player to dealer's left cuts. The cut card, which becomes the bottom card of the pack will go to the dealer, is shown to everyone. If it is a tarot (i.e. *Monde*, *Bagat*, *Math* or King), the dealer is paid one *marque* by each opponent.
+Le donneur bat les cartes et le joueur à sa gauche coupe. La carte coupée, qui deviendra la carte du bas du paquet et ira au donneur, est montrée à tout le monde. Si c'est un tarot (c'est-à-dire *Monde*, *Bagat*, *Math* ou Roi), le donneur reçoit une *marque* de chaque adversaire.
 
-The dealer deals 4 rounds of 5 cards to each player; then one more card to each other player and 4 to himself. 
+Le donneur distribue 4 tours de 5 cartes à chaque joueur, puis une carte de plus à chaque autre joueur et 4 à lui-même.
 
-The two non-dealers each discard one card and the dealer discards four. In each case these cards count in the discarder’s favour at the end of the play. No trumps or Tarots may be discarded, on penalty of paying two *marques* to each opponent.
+Les deux non-donneurs écartent chacun une carte et le donneur en écarte quatre. Dans chaque cas, ces cartes comptent en faveur de celui qui les a écartées à la fin du jeu. Aucun atout ou Tarot ne peut être écarté, sous peine de payer deux *marques* à chaque adversaire.
 
-## Declarations
+## Déclarations
 
-In turn, players may now declare specific combinations of cards they hold in their hand and receive *marques* from the other two in return. Each card may be used in each of the following types of declaration, i.e. multiple times. The declarations are voluntary and will only be paid if declared in advance of the play; it is not possible to claim them later. A player who makes a declaration receives the following number of *marques* (M) from each opponent:
+À tour de rôle, les joueurs peuvent maintenant déclarer des combinaisons spécifiques de cartes qu'ils tiennent en main et recevoir des *marques* des deux autres en retour. Chaque carte peut être utilisée dans chacun des types de déclaration suivants, c'est-à-dire plusieurs fois. Les déclarations sont volontaires et ne sont payées que si elles sont déclarées avant le jeu ; il n'est pas possible de les réclamer plus tard. Un joueur qui fait une déclaration reçoit le nombre suivant de *marques* (M) de chaque adversaire :
 
-- ***Tarots***. First four tarots are worth 1M, each additional tarot is worth 1M.
+- ***Tarots***. Les quatre premiers tarots valent 1M, chaque tarot supplémentaire vaut 1M.
 
-- ***Kings and Fool***. This combination must have at least three cards and its value depends on how many Kings are present and whether the Fool is included. Three natural Kings are worth 1M, four natural Kings are worth 3M and the Fool is worth 1M, so:
+- ***Rois et Mat***. Cette combinaison doit avoir au moins trois cartes et sa valeur dépend du nombre de Rois présents et de l'inclusion du Mat. Trois Rois naturels valent 1M, quatre Rois naturels valent 3M et le Mat vaut 1M, donc :
 
-- 2 Kings + Fool: 1M
+- 2 Rois + Mat : 1M
 
-- 3 Kings: 1M
+- 3 Rois : 1M
 
-- 3 Kings + Fool: 2M
+- 3 Rois + Mat : 2M
 
-- 4 Kings: 3M
+- 4 Rois : 3M
 
-- 4 Kings + Fool: 4M
+- 4 Rois + Mat : 4M
 
-- ***Triomphes***. 10 or more trumps, counting the Fool as a trump for this purpose. Ten = 1M, fifteen = 2M, twenty = 3M. A player who has more *triomphes* than he wishes to or is able to score selects which trumps to reveal (e.g. showing any 10 of 13 trumps).
+- ***Triomphes***. 10 atouts ou plus, en comptant le Mat comme un atout à cet effet. Dix = 1M, quinze = 2M, vingt = 3M. Un joueur qui a plus de *triomphes* qu'il ne souhaite ou peut en marquer choisit lesquels révéler (par exemple en montrant 10 de ses 13 atouts).
 
-- ***Imperials***. All four courts of a suit or a set of four Queens, Cavaliers or Jacks is worth 1M. A card may be declared in both types of *Imperial* combination, for example a player who has all courts in the suit of Cups and all the Queens collects 2M from each opponent.
+- ***Imperiaux***. Les quatre cours d'une couleur ou un ensemble de quatre Dames, Cavaliers ou Valets vaut 1M. Une carte peut être déclarée dans les deux types de combinaison d'*Impériaux*, par exemple un joueur qui a toutes les cours dans la couleur de Coupes et toutes les Dames collecte 2M de chaque adversaire.
 
-- ***Brizigole***. An uninterrupted sequence of the four, five, or six highest or lowest trumps: 1M for four, 2M for five, or 3M for six. 
+- ***Brizigole***. Une séquence ininterrompue des quatre, cinq ou six atouts les plus élevés ou les plus bas : 1M pour quatre, 2M pour cinq, ou 3M pour six.
 
-- ***Tout les trois***. (not a term used by Marolles) 3M for all three Triumph Tarots (XXI, I, Fool). Anyone who only holds two of them asks “*qui à le sien?”* (“who has them?”) and is paid 1M by the player who doesn't have one. 
+- ***Tous les trois***. (terme non utilisé par Marolles) 3M pour les trois Tarots Triomphes (XXI, I, Mat). Celui qui ne détient que deux d'entre eux demande « *qui à le sien ?* » (« qui les a ? ») et est payé 1M par le joueur qui n'en a pas.
 
-**Example:** a player who has Two Kings, the I, and XXI and the Fool can declare Tous les Trois (3M), 2 Kings with the Fool (1M) and 5 Tarots (2M) for a total of 6M from each opponent. 
+**Exemple :** un joueur qui a deux Rois, le I, le XXI et le Mat peut déclarer Tous les Trois (3M), 2 Rois avec le Mat (1M) et 5 Tarots (2M) pour un total de 6M de chaque adversaire.
 
-## Play
+## Jeu
 
-The player to dealer's right leads the first card and each subsequent player adds one to the trick. The rules correspond to those of almost all Tarot games:
+Le joueur à la droite du donneur mène la première carte et chaque joueur suivant ajoute une à la levée. Les règles correspondent à celles de presque tous les jeux de Tarot :
 
-- Suit must be followed, i.e. if you have cards of the suit played in your hand, you must play one of them.
+- La couleur doit être suivie, c'est-à-dire que si vous avez des cartes de la couleur jouée dans votre main, vous devez en jouer une.
 
-- If you cannot follow or if a trump has been led, you must play a trump.
+- Si vous ne pouvez pas suivre ou si un atout a été mené, vous devez jouer un atout.
 
-- The highest trump wins the trick, or the highest card of the suit led if no trump was played.
+- L'atout le plus élevé gagne la levée, ou la carte la plus élevée de la couleur menée si aucun atout n'a été joué.
 
-- The winner of a trick leads to the next.
+- Le gagnant d'une levée mène la suivante.
 
-*Players familiar with modern French Tarot should note that there is no need to overtake when required to play a trump - a higher or lower trump can be played. The modern French rule is unique among Tarot games in this respect.*
+*Les joueurs habitués au Tarot français moderne noteront qu'il n'est pas nécessaire de surmonter lorsqu'on est tenu de jouer un atout — un atout supérieur ou inférieur peut être joué. La règle française moderne est unique parmi les jeux de Tarot à cet égard.*
 
-Whenever a Tarot is played to a trick, the player is immediately paid one *marque* by each opponent unless it is captured by an opponent. When a Tarot is captured, the player immediately pays one *marque* to each opponent.
+Chaque fois qu'un Tarot est joué à une levée, le joueur reçoit immédiatement une *marque* de chaque adversaire, à moins qu'il ne soit capturé par un adversaire. Quand un Tarot est capturé, le joueur paie immédiatement une *marque* à chaque adversaire.
 
-***La Belle***. The holder of the Ace of Coins receives one *marque* from each opponent when it is played, regardless of who wins the trick. 
+***La Belle***. Le détenteur de l'As de Deniers reçoit une *marque* de chaque adversaire lorsqu'il est joué, indépendamment de qui gagne la levée.
 
-### Excusing (*S'excuser*)
+### Excuser (*S'excuser*)
 
-The Fool can be played in any trick except the last instead of following suit or playing a trump. It is shown and then discarded to its holder's tricks. The Fool cannot be lost, but it cannot win a trick either. Playing the Fool like this is called ‘excusing’ (*s'excuser*) i.e. apologising. Since the Fool cannot be captured the player receives one *marque* from each opponent.
+Le Mat peut être joué à n'importe quelle levée sauf la dernière, au lieu de suivre la couleur ou de jouer un atout. Il est montré puis écarté dans les levées de son détenteur. Le Mat ne peut pas être perdu, mais il ne peut pas non plus gagner une levée. Jouer le Mat de cette façon s'appelle « s'excuser » (*s'excuser*), c'est-à-dire s'excuser. Puisque le Mat ne peut pas être capturé, le joueur reçoit une *marque* de chaque adversaire.
 
-A player who fails to excuse before the last trick pays two marques to each of the other players. 
+Un joueur qui omet d'excuser avant la dernière levée paie deux marques à chacun des autres joueurs.
 
-If the Fool is led to a trick the second player can play any card, which is then treated as the lead and determines what the third player has to do. 
+Si le Mat est mené à une levée, le deuxième joueur peut jouer n'importe quelle carte, qui est alors traitée comme la carte menée et détermine ce que le troisième joueur doit faire.
 
-## Scoring
+## Marquage des points
 
-***Ultimo***. A player who wins the last trick with a King or the *Pagat* receives 6 *marques* from each opponent. If a King or the Pagat is played to the last trick but does not win, the person who played it must pay 6 *marques* to each opponent.
+***Ultimo***. Un joueur qui gagne la dernière levée avec un Roi ou le *Pagat* reçoit 6 *marques* de chaque adversaire. Si un Roi ou le Pagat est joué à la dernière levée mais ne gagne pas, la personne qui l'a joué doit payer 6 *marques* à chaque adversaire.
 
-At the end of the hand, players add their discards to the cards taken in tricks and score them together. The cards are counted in packets of three, each containing one counting card and two worthless or empty cards. The value of a packet of three is equal to that of the counting card. Every three excess empty cards score one card point. Counting cards are: 
+À la fin de la main, les joueurs ajoutent leurs écarts aux cartes prises en levées et les comptent ensemble. Les cartes sont comptées en paquets de trois, chacun contenant une carte comptable et deux cartes sans valeur ou vides. La valeur d'un paquet de trois est égale à celle de la carte comptable. Trois cartes vides excédentaires marquent un point de carte. Les cartes comptables sont :
 
-| Card | Value |
-| Tarots (trump 21, trump 1, Fool and Kings): | 5 points each |
-| Queens | 4 points each |
-| Cavaliers | 3 points each |
-| Jacks | 2 points each |
+| Carte | Valeur |
+| Tarots (atout 21, atout 1, Mat et Rois) | 5 points chacun |
+| Dames | 4 points chacun |
+| Cavaliers | 3 points chacun |
+| Valets | 2 points chacun |
 
-So there are 19 counting cards which along with the 38 empty cards that go with them have a total value of 71 points, plus 9 extra empty cards which are worth 3 points, so that the total value of the 66-card pack is 74 points. If a player does not have enough empty cards to place two of them in a packet with each counting card:
+Il y a donc 19 cartes comptables qui avec les 38 cartes vides qui les accompagnent ont une valeur totale de 71 points, plus 9 cartes vides excédentaires qui valent 3 points, pour une valeur totale du jeu de 66 cartes de 74 points. Si un joueur n'a pas assez de cartes vides pour en placer deux dans un paquet avec chaque carte comptable :
 
-- A packet with two counting cards scores its total value less one, a packet with three counting cards as its total value less two.
+- Un paquet avec deux cartes comptables vaut sa valeur totale moins un, un paquet avec trois cartes comptables sa valeur totale moins deux.
 
-- Two surplus cards are treated as if there were a third empty card.
+- Deux cartes excédentaires sont traitées comme s'il y avait une troisième carte vide.
 
-- A single excess counting card scores one less than its value; a single excess empty card scores nothing.**
+- Une seule carte comptable excédentaire vaut un point de moins que sa valeur ; une seule carte vide excédentaire ne vaut rien.
 
-- see counting points in Tarot games for further explanation.
+Voir le comptage des points dans les jeux de Tarot pour plus d'explications.
 
-Players with a below average number of points (24 points or less) in their tricks are losers and players with above average points (25 or more) are winners. There will either be two losers and one winner or two winners and one loser. 
+Les joueurs avec un nombre de points inférieur à la moyenne (24 points ou moins) dans leurs levées sont perdants et ceux avec un nombre supérieur à la moyenne (25 ou plus) sont gagnants. Il y aura soit deux perdants et un gagnant, soit deux gagnants et un perdant.
 
-- If there are two losers each of them has to pay the winner one *marque* for each 5 points by which their count is less than 25.
+- S'il y a deux perdants, chacun doit payer au gagnant une *marque* pour chaque 5 points dont leur total est inférieur à 25.
 
-- If there are two winners each of them collects from the loser one *marque* for each 5 points by which their score is greater than 25.
+- S'il y a deux gagnants, chacun collecte du perdant une *marque* pour chaque 5 points dont leur score est supérieur à 25.
 
-Amounts less than 5 points are ignored, so players with a total in the range 21 to 29 neither pay nor receive. In detail: 
+Les montants inférieurs à 5 points sont ignorés, donc les joueurs avec un total dans la plage de 21 à 29 ne paient ni ne reçoivent. En détail :
 
-| Two losers each 
-pay winner | Two winners each 
-collect from loser |
+| Deux perdants chacun paient le gagnant | | Deux gagnants chacun collectent du perdant | |
 | points | marques | points | marques |
 | 24 – 21 | 0 | 25 – 29 | 0 |
 | 20 – 16 | 1 | 30 – 34 | 1 |
 | 15 – 11 | 2 | 35 – 39 | 2 |
 | 10 – 6 | 3 | 40 – 44 | 3 |
 | 5 – 1 | 4 | 45 – 49 | 4 |
-| 0 | 5 |   |   |
+| 0 | 5 | | |
 
-## Variations and Uncertainties
+## Variantes et incertitudes
 
-As often happens with historic games for which we have only one description, there are a few details that are not fully explained by the source. Fortunately in most cases we can be fairly sure what was intended.
+Comme cela arrive souvent avec les jeux historiques dont nous n'avons qu'une seule description, il y a quelques détails qui ne sont pas entièrement expliqués par la source. Heureusement, dans la plupart des cas, nous pouvons être assez sûrs de ce qui était prévu.
 
-### Deal**
+### Donne
 
-As an alternative to dealing in packets of 5, the cards can be dealt in 7 rounds of 3 cards each, after which the last 3 cards are for the dealer. Either way, the dealer ends up with 24 cards and the other two players with 21 each. 
+Comme alternative à la distribution en paquets de 5, les cartes peuvent être distribuées en 7 tours de 3 cartes chacun, après quoi les 3 dernières cartes sont pour le donneur. Dans les deux cas, le donneur se retrouve avec 24 cartes et les deux autres joueurs avec 21 chacun.
 
-### Discard
+### Écart
 
-Presumably the penalty for an illegal discard applies to each card discarded illegally, otherwise the dealer could discard cheaply a group of high value but vulnerable cards.
+On suppose que la pénalité pour un écart illégal s'applique à chaque carte écartée illégalement, sinon le donneur pourrait écarté à bas prix un groupe de cartes de forte valeur mais vulnérables.
 
 ### La Belle
 
-Marolles includes a possible declaration of 7 Tarots with *la Belle* for 5M. We take this to mean that the player can show *la Belle* along with the 7 Tarots (4M) and claim the extra 1M for it before the play. Presumably this is instead of waiting and collecting 1M for *la Belle* when it is played - it would seem unreasonable for the holder to be paid twice for having been dealt this card..
+Marolles inclut une déclaration possible de 7 Tarots avec *la Belle* pour 5M. Nous interprétons cela comme signifiant que le joueur peut montrer *la Belle* en même temps que les 7 Tarots (4M) et réclamer le 1M supplémentaire avant le jeu. Presque certainement, cela remplace le fait d'attendre et de collecter 1M pour *la Belle* quand elle est jouée — il serait déraisonnable que le détenteur soit payé deux fois pour s'être vu distribuer cette carte.
 
-### Declarations
+### Déclarations
 
-Marolles does not specify exactly when these declarations are made. It is most likely that they were made before the first lead, but another possibility is that they were be declared by each player just before playing to the first trick.
+Marolles ne précise pas exactement quand ces déclarations sont faites. Il est probable qu'elles étaient faites avant la première carte menée, mais une autre possibilité est qu'elles étaient déclarées par chaque joueur juste avant de jouer à la première levée.
 
-Marolles does not specify whether declarations must be maximum, as would be required in modern rules, i.e. whether a player holding e.g. 16 trumps or four Kings may declare just 10 trumps (instead of 15) or three Kings (instead of four). The assumption seems to be that players will always try to declare the maximum they are entitled to.
+Marolles ne précise pas si les déclarations doivent être maximales, comme cela serait requis dans les règles modernes, c'est-à-dire si un joueur ayant par exemple 16 atouts ou quatre Rois peut déclarer seulement 10 atouts (au lieu de 15) ou trois Rois (au lieu de quatre). L'hypothèse semble être que les joueurs essaieront toujours de déclarer le maximum auquel ils ont droit.
 
-The payments listed by Marolles for various sets of Kings with or without the Fool are a little confusing, because the payment for Tarots is sometimes but not always included. For example it is stated that four Kings are worth 4M, (3M for four Kings plus 1M for four Tarots) and four Kings with the Fool are worth 6M (4M for Kings and Fool plus 2M for five tarots). However, he gives 2 M for “Trois Roys & le Math", although for consistency that should be 3M because of the four tarots. 
+Les paiements listés par Marolles pour divers ensembles de Rois avec ou sans le Mat sont un peu confus, car le paiement pour les Tarots est parfois mais pas toujours inclus. Par exemple, il est dit que quatre Rois valent 4M (3M pour quatre Rois plus 1M pour quatre Tarots) et quatre Rois avec le Mat valent 6M (4M pour les Rois et le Mat plus 2M pour cinq tarots). Cependant, il donne 2M pour « Trois Roys & le Math », alors que pour la cohérence cela devrait être 3M à cause des quatre tarots.
 
-### Play
+### Jeu
 
-Marolles does not mention the possibility of leading the Fool to a trick. If this is allowed, we suggest that the second player can play any card, which is then treated as the lead and determines what the third player has to do. However, another possibility is that it was not legal to lead the Fool. In that case a player who was on lead holding only winning cards and the Fool would be forced to keep it until the last trick and then pay the penalty. 
+Marolles ne mentionne pas la possibilité de mener le Mat à une levée. Si cela est autorisé, nous suggérons que le deuxième joueur peut jouer n'importe quelle carte, qui est alors traitée comme la carte menée et détermine ce que le troisième joueur doit faire. Cependant, une autre possibilité est qu'il n'était pas légal de mener le Mat. Dans ce cas, un joueur en tête ne détenant que des cartes gagnantes et le Mat serait obligé de le garder jusqu'à la dernière levée puis de payer la pénalité.
 
-### Scoring
+### Marquage des points
 
-Marolles does not explain how the single cards discarded at the beginning are scored, what happens if you have too few empty cards and how to deal with the fact that when the Fool has been played, the holder has one card too many and the winner of the trick one too few. We have adopted the simplest solution of treating these cases in the same way as in other Tarot games in which the cards are counted in groups of 3.
+Marolles n'explique pas comment les cartes uniques écartées au début sont comptées, ce qui se passe s'il n'y a pas assez de cartes vides et comment gérer le fait que lorsque le Mat a été joué, le détenteur a une carte de trop et le gagnant de la levée une de moins. Nous avons adopté la solution la plus simple en traitant ces cas de la même manière que dans les autres jeux de Tarot où les cartes sont comptées par groupes de 3.
 
-Marolles explanation of the payments for card points only deals with the case where there are two losers and one winner and gives the amount that each loser has to pay the winner. In the above description we have assumed that when there is one loser and two winners the loser has to pay each winner according to their points in excess of the average according to a similar schedule.
+L'explication de Marolles des paiements pour les points de cartes ne traite que le cas où il y a deux perdants et un gagnant et donne le montant que chaque perdant doit payer au gagnant. Dans la description ci-dessus, nous avons supposé que quand il y a un perdant et deux gagnants, le perdant doit payer chaque gagnant selon ses points excédant la moyenne selon un barème similaire.
 
-The book 'A History of Games played with the Tarot Pack' (Dummett/McLeod 2004) adopts a more literal interpretation of Marolles' text whereby the loser pays only the winner who has more points. This seems a little unfair in that if the two winners have almost equal numbers of points - say 32:33:9 - the winner with more points will collect the whole of the loser's payment and the other 'winner' would gain nothing. Also it leaves unresolved the question of what happens when the winners tie, for example 33:33:8 - in this case according to Marolles the loser should pay 3 *marques* but it is unclear how to divide these between the winners.
+Le livre « A History of Games played with the Tarot Pack » (Dummett/McLeod 2004) adopte une interprétation plus littérale du texte de Marolles selon laquelle le perdant ne paie que le gagnant qui a le plus de points. Cela semble un peu injuste car si les deux gagnants ont des nombres de points presque égaux — par exemple 32:33:9 — le gagnant avec le plus de points collecterait tout le paiement du perdant et l'autre « gagnant » ne gagnerait rien. Cela laisse aussi sans réponse la question de ce qui se passe quand les gagnants sont à égalité, par exemple 33:33:8 — dans ce cas, selon Marolles, le perdant devrait payer 3 *marques* mais il n'est pas clair comment les diviser entre les gagnants.
 
-Marolles does not specify the amounts due from losers who have less than 6 points. We have assumed that this is just because it is rare to take so few points, and we have extrapolated the payments in the obvious way.
+Marolles ne précise pas les montants dus par les perdants qui ont moins de 6 points. Nous supposons que c'est simplement parce qu'il est rare de prendre si peu de points, et nous avons extrapolé les paiements de manière évidente.
 
 ### Ultimo
 
-Marolles does not explicitly state what happens if the Pagat or a King is played to the last trick but does not win it. We have assumed that in this case the player must pay a penalty of 6 *marques* to each opponent, the penalty for failure balancing the gain for success, but a literal reading of Marolles would be that the penalty was only 1M paid to each opponent, the same cost as for losing a King or the Pagat in any other trick.
+Marolles ne précise pas explicitement ce qui se passe si le Pagat ou un Roi est joué à la dernière levée mais ne gagne pas. Nous supposons que dans ce cas le joueur doit payer une pénalité de 6 *marques* à chaque adversaire, la pénalité pour l'échec équilibrant le gain pour la réussite, mais une lecture littérale de Marolles serait que la pénalité n'est que de 1M payée à chaque adversaire, le même coût que pour perdre un Roi ou le Pagat dans n'importe quelle autre levée.
 
-If one compares the payment for card points, which is generally at most 3M, with the payment of 6M for King or Pagat Ultimo, it becomes clear that the Ultimo is the most important game element. The ratio of the Ultimo payment to the card point payment is comparable to that in the [Tarot of Nice](https://www.pagat.com/de/tarot/nice.html), where the Pagat Ultimo is always worth 4M and the card points 1 to 4. In Piedmontese Mitigati, c. 1780, the ratio was even 3 to 1: that is, 60 for the Pagat Ultimo and a maximum of 20 for the card points (Dummett/McLeod 2004, Game 8.7). When 78-card Tarock first appeared in German card game literature (*Regeln bey dem Taroc-Spiele*, 1754) the value of the Ultimo was still relatively low (20 M against a maximum of 50 for the card points), it then steadily increased up to 19th century Danish ratio of at least 145 for King Ultimo and a maximum 50 for card points, which roughly corresponds to the ratios in Nice or Piedmont 100 years earlier or in Marolles 250 years earlier. 
+Si l'on compare le paiement pour les points de cartes, généralement au plus de 3M, avec le paiement de 6M pour le Roi ou le Pagat Ultimo, il devient clair que l'Ultimo est l'élément de jeu le plus important. Le ratio du paiement d'Ultimo au paiement des points de cartes est comparable à celui du [Tarot de Nice](https://www.pagat.com/de/tarot/nice.html), où le Pagat Ultimo vaut toujours 4M et les points de cartes 1 à 4. Dans le Mitigati piémontais, vers 1780, le ratio était même de 3 pour 1 : c'est-à-dire 60 pour le Pagat Ultimo et un maximum de 20 pour les points de cartes (Dummett/McLeod 2004, Jeu 8.7). Quand le Tarock à 78 cartes est apparu pour la première fois dans la littérature allemande sur les jeux de cartes (*Regeln bey dem Taroc-Spiele*, 1754), la valeur de l'Ultimo était encore relativement basse (20 M contre un maximum de 50 pour les points de cartes), puis elle n'a cessé d'augmenter jusqu'au ratio danois du XIXe siècle d'au moins 145 pour le Roi Ultimo et un maximum de 50 pour les points de cartes, ce qui correspond grossièrement aux ratios de Nice ou du Piémont 100 ans plus tôt ou de Marolles 250 ans plus tôt.
 
-### 78-card game
+### Jeu à 78 cartes
 
-As mentioned in the introduction, the game described above is Princess Marie-Louise's improved version of Tarot. She found the game "more enjoyable" if one “discarded twelve useless cards" from the suits, namely the lowest three ranks, leaving 66 cards, which is a somewhat unusual size for a Tarot deck: shortened decks of 62 or 54 cards are more common. Her version also has the highly unusual feature, not found in any other recorded Tarot game, that all three players discard before the play begins, the dealer discarding 4 cards and the other players one each. The reduction of the deck speeds up the play and reduces the number of uninteresting tricks containing only empty suit cards, and the discard by all players greatly increases the risk of a King being captured.
+Comme mentionné dans l'introduction, le jeu décrit ci-dessus est la version améliorée du Tarot de la princesse Marie-Louise. Elle trouvait le jeu « plus agréable » si l'on « écartait douze cartes inutiles » des couleurs, à savoir les trois rangs les plus bas, laissant 66 cartes, ce qui est une taille quelque peu inhabituelle pour un jeu de Tarot : les jeux raccourcis de 62 ou 54 cartes sont plus courants. Sa version présente aussi la caractéristique très inhabituelle, non trouvée dans aucun autre jeu de Tarot enregistré, que les trois joueurs écartent tous avant le début du jeu, le donneur écartant 4 cartes et les autres joueurs une chacun. La réduction du jeu accélère le jeu et réduit le nombre de levées peu intéressantes ne contenant que des cartes de couleur vides, et l'écart par tous les joueurs augmente considérablement le risque qu'un Roi soit capturé.
 
-It seems very likely that these were the Princess's two improvements. If we remove them, what remains is a 78-card game in which 25 cards are dealt to each of the dealer's opponents and 28 to the dealer, who discards three cards. This could well be the basic Tarot game that the princess improved: it is very similar to the classic 3-player version of Tarot that was played in many parts of Europe in the 18th century.
+Il semble très probable que ce soient les deux améliorations de la princesse. Si nous les retirons, ce qui reste est un jeu à 78 cartes dans lequel 25 cartes sont distribuées à chacun des adversaires du donneur et 28 au donneur, qui écarte trois cartes. Il pourrait bien s'agir du jeu de Tarot de base que la princesse a amélioré : il ressemble beaucoup à la version classique du Tarot à trois joueurs qui était jouée dans de nombreuses régions d'Europe au XVIIIe siècle.
 
-## Bibliography and Internet Links
+## Bibliographie et liens internet
 
-Depaulis, Thierry (2002), *Quand l’abbé de Marolles jouait au tarot*. Le Vieux Papier, Fascicule 65, July: 313–26.
+Depaulis, Thierry (2002), *Quand l'abbé de Marolles jouait au tarot*. Le Vieux Papier, Fascicule 65, juillet : 313-26.
 
-Dummett, Michael; McLeod, John (2004), *[A History of Games Played with the Tarot Pack](https://www.tarotgame.org/).* Edwin Mellen, Lewiston, Queenstown, Lampeter. Game Nos. 2.1–2.3, Vol. 1: 17–22.
+Dummett, Michael ; McLeod, John (2004), *[A History of Games Played with the Tarot Pack](https://www.tarotgame.org/).* Edwin Mellen, Lewiston, Queenstown, Lampeter. Jeux n° 2.1-2.3, vol. 1 : 17-22.
 
-Marolles, Michel de (1637), *Regles dv iev des tarots*. Jean Fourré, Nevers. Printed pamphlet, in the manuscript collection of the National Library of France: Dupuy 777, f° 94–97. [Online at Hans-Joachim Alscher‘s Tarock pages](https://www.tarock.info/depaulis.htm). Author, publisher, date and year according to Depaulis (2002). 
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Abbé de Marolles
-
-Original German pages by Ulf Martin, translated by Paul Eaton, edited and maintained by John McLeod, john@pagat.com
-
-© Ulf Martin, Paul Eaton, John McLeod, 2023. Last updated: 15th June 2023
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
-
-Select language: [deutsch](https://www.pagat.com/de/tarot/marolles.html) [english](https://www.pagat.com/tarot/marolles.html)
+Marolles, Michel de (1637), *Regles dv iev des tarots*. Jean Fourré, Nevers. Pamphlet imprimé, dans la collection manuscrite de la Bibliothèque nationale de France : Dupuy 777, f° 94-97. [En ligne sur les pages Tarock de Hans-Joachim Alscher](https://www.tarock.info/depaulis.htm). Auteur, éditeur, date et année selon Depaulis (2002).

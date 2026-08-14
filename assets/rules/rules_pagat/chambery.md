@@ -2,252 +2,222 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** An early 20th century French game for 5 players, also playable by 4 or 3, as described in a rule booklet accompanying a 1902 pack with flowers on the trumps.
+**But :** Un jeu français du début du XXe siècle pour 5 joueurs, également jouable à 4 ou 3, tel que décrit dans un livret de règles accompagnant un jeu de 1902 avec des fleurs sur les atouts.
 
 ---
 
-Chambéry Tarot - card game rules
+## Le Tarot aux fleurs français
 
-Home
-A-Z
-
-Select language ▼
-
-[deutsch](https://www.pagat.com/de/tarot/chambery.html)
-[english](https://www.pagat.com/tarot/chambery.html)
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Chambéry 
-
-Chambéry Tarot 
-
-## French Flower Tarot
-
-tarot simplifié)*
-
-- Comments
-
-- Botanical Notes
-
-- Foldable Rule Sheet
+*(tarot simplifié)*
 
 ## Introduction
 
-In 1902, card makers *Fossorier, Amar & Cie* (Paris) issued a charming Art Nouveau Tarot pack, with pictures of flowers on the trumps drawn by E. Helle. It was called the *Tarot français des fleurs, *“French Flower Tarot”. The cards have been reprinted several times, most recently under the [Dussere](https://www.variantes.com/tarot-cartes-boutique/4868-tarot-francais-des-fleurs-3505770200010.html) brand.
+En 1902, les fabricants de cartes *Fossorier, Amar & Cie* (Paris) ont édité un charmant jeu de Tarot Art Nouveau, avec des illustrations de fleurs sur les atouts dessinées par E. Helle. Il était appelé le *Tarot français des fleurs*. Les cartes ont été réimprimées plusieurs fois, plus récemment sous la marque [Dussere](https://www.variantes.com/tarot-cartes-boutique/4868-tarot-francais-des-fleurs-3505770200010.html).
 
-Accompanying the cards are rules by the *Club des Taroteurs* in the Grand Café Emile Coudurier in Chambéry, the capital of French Savoy. We give here an English version of the rules for those who have a flower tarot pack. The game may also be played with any normal French-suited Tarot pack of 78 cards (as they probably normally did then as well). The rules are comparatively simple and thus a good introduction into the family of classic Tarot games.
+Accompagnant les cartes se trouvent des règles du *Club des Taroteurs* du Grand Café Emile Coudurier à Chambéry, capitale de la Savoie française. Nous donnons ici une version française des règles pour ceux qui possèdent un jeu de tarot aux fleurs. Le jeu peut également se jouer avec n'importe quel jeu de Tarot à enseignes françaises de 78 cartes (comme on le faisait probablement à l'époque). Les règles sont relativement simples et constituent donc une bonne introduction à la famille des jeux de Tarot classiques.
 
-Because Savoy (like Nice) belonged to the Kingdom of Sardinia until 1860, the rules are more akin to those of Piedmont and Nice than to those of modern French Tarot. The rules for the four- and five-handed games are of the same type as those for Tubingen Tarock (Tarock Quadrille); the three-player game is like Grosstarock but without declarations and the Ultimo feature.
+Comme la Savoie (comme Nice) appartenait au royaume de Sardaigne jusqu'en 1860, les règles sont plus proches de celles du Piémont et de Nice que de celles du Tarot français moderne. Les règles pour les jeux à quatre et cinq joueurs sont du même type que celles du Tarock de Tübingen (Tarock Quadrille) ; le jeu à trois joueurs est semblable au Grosstarock mais sans déclarations ni fonctionnalité d'Ultimo.
 
-## Players and Cards
+## Joueurs et Cartes
 
-It is a typical Tarot game for three to five players. When four or five play, partnerships are formed; in the three-hand game each plays for themselves. The objective is to win the majority of card points. The five player variant that was clearly preferred in the Grand Café Coudurier will be described first.
+C'est un jeu de Tarot typique pour trois à cinq joueurs. À quatre ou cinq, des équipes se forment ; à trois, chacun joue pour soi. L'objectif est de gagner la majorité des points de cartes. La variante à cinq joueurs, clairement préférée au Grand Café Coudurier, sera décrite en premier.
 
-A French-suited Tarot pack of 78 cards is used (there is also a version *tarot simplifié *using a pack shortened to 62 cards - see below). It is also useful for each player to have a supply of chips with a total value of 50 points each if you do not want to keep a written score after each hand.
+On utilise un jeu de Tarot à enseignes françaises de 78 cartes (il existe aussi une version *tarot simplifié* utilisant un jeu réduit à 62 cartes — voir ci-dessous). Il est également utile que chaque joueur dispose d'un stock de jetons d'une valeur totale de 50 points chacun si l'on ne souhaite pas tenir un score écrit après chaque donne.
 
-The suit cards bear the usual images and French corner indices, their rank from high to low is King (index R, French *Roi*), Queen (D, *Dame*), Cavalier (C, *Chevalier*) and Jacks (V, *Valet*). Then follow the numeral cards 1, 10, 9, 8, 7, 6, 5, 4, 3, 2. The Ace (1) ranks immediately below the Jack in every suit.
+Les cartes de couleur portent les images habituelles et les indices de coin français ; leur rang, du plus haut au plus bas, est : Roi (indice R, français *Roi*), Dame (D, *Dame*), Cavalier (C, *Chevalier*) et Valet (V, *Valet*). Suivent ensuite les cartes numériques 1, 10, 9, 8, 7, 6, 5, 4, 3, 2. L'As (1) se classe immédiatement en dessous du Valet dans chaque couleur.
 
-The trump (tarots) rank from high to low as follows: **21**, **20**, ..., **2**, **1** (a number in bold is a tarot). The Pagat (**1**) is called *baga* in the local dialect.
+Les atouts (tarots) se classent du plus haut au plus bas : **21**, **20**, ..., **2**, **1** (un nombre en gras désigne un tarot). Le Pagat (**1**) est appelé *baga* dans le dialecte local.
 
-The *Fou* (fool) plays a special role.
+Le *Fou* (excuse) joue un rôle spécial.
 
-The values of the cards are as follows.
+Les valeurs des cartes sont les suivantes :
 
-*Fou*, **21** and **1 – **4 points each
+*Fou*, **21** et **1** – 4 points chacun
 
-Kings – 4 points each
+Rois – 4 points chacun
 
-Queens – 3 points each
+Dames – 3 points chacune
 
-Cavaliers – 2 points each
+Cavaliers – 2 points chacun
 
-Jacks – 1 point each
+Valets – 1 point chacun
 
-Other cards have zero point value. In addition each trick is worth 1 extra card point and the discard is also worth 1 point (in addition to the value of any counting cards it contains.
+Les autres cartes n'ont aucune valeur en points. De plus, chaque levée vaut 1 point supplémentaire et l'écart vaut également 1 point (en plus de la valeur des cartes de comptage qu'il contient).
 
-The total value of the counting cards is 52 card points, and together with the tricks and discard that gives a total of 68 card points in the five-player game.
+La valeur totale des cartes de comptage est de 52 points de cartes, et avec les levées et l'écart, cela donne un total de 68 points de cartes dans le jeu à cinq joueurs.
 
-## Deal and Discard
+## Distribution et Écart
 
-Deal and play are anticlockwise.
+La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-The first dealer is chosen by any agreed means and the deal rotates to the right after each hand.
+Le premier donneur est choisi par n'importe quel moyen convenu et la distribution passe à droite après chaque donne.
 
-If there are six players at the table, the player to the left of the dealer (i.e. the previous dealer) receives no cards and sits out of the hand.
+S'il y a six joueurs à la table, le joueur à la gauche du donneur (c'est-à-dire le donneur précédent) ne reçoit aucune carte et ne participe pas à la donne.
 
-The dealer shuffles, the player to dealer's left cuts, and the dealer distributes the cards in packets of 5 going three times around the table so that each player other than the dealer has 15 cards. The dealer takes the last 3 cards, for a total of 18 cards in the dealer's hand.
+Le donneur mélange, le joueur à sa gauche coupe, et le donneur distribue les cartes par paquets de 5 trois fois autour de la table, de sorte que chaque joueur autre que le donneur reçoive 15 cartes. Le donneur prend les 3 dernières cartes, pour un total de 18 cartes.
 
-The players view their own cards. The dealer discards, that is lays away 3 cards face down on the table, leaving 15 cards in hand. These discarded cards count for the dealer's team.
+Les joueurs consultent leurs cartes. Le donneur écarte, c'est-à-dire pose 3 cartes face en bas sur la table, gardant 15 cartes en main. Ces cartes écartées comptent pour l'équipe du donneur.
 
-In *no case *may Kings, the **21** or *Fou* be discarded. Tarots other than the **21** may be discarded only if, as a result, the dealer is left with no tarots in hand; the *Fou* does not count as a tarot for this purpose. If the dealer discards the **1** in this way, which is allowed, the dealer must announce: *«Baga à l’écart»* (“Pagat discarded”).
+En **aucun cas** on ne peut écarter de rois, le **21** ou le *Fou*. Les tarots autres que le **21** ne peuvent être écartés que si, par conséquent, le donneur n'a plus aucun tarot en main ; le *Fou* ne compte pas comme un tarot à cette fin. Si le donneur écarte le **1** de cette façon, ce qui est permis, il doit annoncer : *« Baga à l'écart »*.
 
-*The rules do not state what happens in the rare case that the dealer has so many tarots and Kings that some of them must be discarded to reduce the dealer's hand to 15 cards. A rule for this case that is often found in other tarot games is that the player may then discard tarots with no point value (i.e. not the 1 or 21) and announces how many tarots were discarded.*
+*Les règles ne précisent pas ce qui se passe dans le cas rare où le donneur a tellement de tarots et de rois que certains doivent être écartés pour réduire sa main à 15 cartes. Une règle souvent trouvée dans d'autres jeux de tarot est que le joueur peut alors écarter des tarots sans valeur en points (c'est-à-dire ni le 1 ni le 21) et annoncer combien de tarots ont été écartés.*
 
-## Bidding
+## Enchères
 
-There is a round of bidding, beginning with first hand (the player to the right of the dealer), to find out whether any player wishes to play a 'Solo', that is to play alone against the four opponents as a team. Each player in turn has just one chance to speak, and a player who does not want to play a Solo passes. 
+Il y a un tour d'enchères, commençant par la première main (le joueur à la droite du donneur), pour savoir si un joueur souhaite jouer un « Solo », c'est-à-dire jouer seul contre les quatre adversaires en équipe. Chaque joueur à tour de rôle n'a qu'une seule occasion de parler, et un joueur qui ne veut pas jouer de Solo passe.
 
-A Solo player may demand up to two cards from the other players, naming the number as part of the bid. Therefore there are three levels of Solo bid:
+Un joueur Solo peut demander jusqu'à deux cartes aux autres joueurs, en indiquant le nombre dans son enchère. Il y a donc trois niveaux d'enchère Solo :
 
-- *«Je marche seul à deux cartes»* (I’m playing alone with 2 cards); 2-Card Solo
+- *« Je marche seul à deux cartes »* ; Solo à 2 cartes
 
-- *«Je marche seul à une carte»* (I’m playing alone with 1 card); 1-Card Solo
+- *« Je marche seul à une carte »* ; Solo à 1 carte
 
-- *«Je marche à point»* (I’m playing alone with the cards I was dealt); Hand Solo.
+- *« Je marche à point »* ; Solo de main.
 
-If a player bids a Solo and a later player also wants to play Solo, this later player must bid a Solo with fewer cards. This supersedes the earlier bid.
+Si un joueur enchérit un Solo et qu'un joueur ultérieur veut aussi jouer Solo, ce dernier doit enchérir un Solo avec moins de cartes. Cela remplace l'enchère précédente.
 
-If there is a Solo player, then at the end of the bidding round this player specifies the cards (if any) that they want. The only restriction is that a player cannot ask for the *Fou*. The holders of the one or two demanded cards must hand them to the soloist. For each card received the soloist gives an unwanted card in exchange (*probably face down*). *The rules do not specify what happens if the card asked for has been discarded by the dealer. In practice this situation will never arise since the Soloist will ask for the 21 or other high trumps or Kings, which cannot have been discarded.*
+S'il y a un joueur Solo, à la fin du tour d'enchères, ce joueur spécifie les cartes (s'il y en a) qu'il souhaite. La seule restriction est qu'un joueur ne peut pas demander le *Fou*. Les détenteurs des cartes demandées doivent les remettre au soliste. Pour chaque carte reçue, le soliste donne une carte non désirée en échange (*probablement face en bas*). *Les règles ne précisent pas ce qui se passe si la carte demandée a été écartée par le donneur. En pratique, cette situation ne se produit jamais puisque le soliste demandera le 21 ou d'autres atouts élevés ou des rois, qui ne peuvent avoir été écartés.*
 
-If no one wants to play a Solo, the dealer must choose a partner by calling a King, or a Queen if dealer holds all four Kings. Whoever holds the called card immediately makes this known. The dealer and the called player form a partnership against the other three players.
+Si personne ne veut jouer de Solo, le donneur doit choisir un partenaire en appelant un roi, ou une dame s'il détient les quatre rois. Celui qui détient la carte appelée le fait immédiatement savoir. Le donneur et le joueur appelé forment une équipe contre les trois autres joueurs.
 
-## Play of the Cards
+## Jeu des Cartes
 
-The player to dealer's right begins the play by leading any card face up. The other players, in turn, each add a card face up to the trick. 
+Le joueur à la droite du donneur commence en menant n'importe quelle carte face visible. Les autres joueurs, à tour de rôle, ajoutent chacun une carte face visible à la levée.
 
-If a suit card is led, the other players must follow suit if they can. Anyone who cannot follow suit must play a tarot (trump). If a tarot is led the others must play tarots. There is no obligation to overtake or overtrump. A player who cannot follow suit and has no tarots can play any card. 
+Si une carte de couleur est menée, les autres joueurs doivent suivre s'ils le peuvent. Celui qui ne peut pas suivre doit jouer un tarot (atout). Si un tarot est mené, les autres doivent jouer des tarots. Il n'y a aucune obligation de surmonter ou de suratouter. Un joueur qui ne peut pas suivre et n'a pas de tarots peut jouer n'importe quelle carte.
 
-The trick is won by the person who played the highest tarot, or the highest card of the led suit if no tarot was played. Whoever wins the trick leads to the next.
+La levée est gagnée par celui qui a joué le tarot le plus élevé, ou la carte la plus élevée de la couleur menée si aucun tarot n'a été joué. Celui qui gagne la levée mène la suivante.
 
-**Fou.** Instead of following suit or trumping, the owner of the *Fou* can show it on any one occasion and then add it to their own team's tricks. The trick then consists of the other four cards. The *Fou* itself can never win a trick itself. 
+**Fou.** Au lieu de suivre la couleur ou d'atouter, le détenteur du *Fou* peut le montrer à n'importe quel moment et l'ajouter aux levées de sa propre équipe. La levée se compose alors des quatre autres cartes. Le *Fou* lui-même ne peut jamais gagner de levée.
 
-*The rules do not state whether the Fou can be shown as the first card of a trick. A typical rule would be that it is allowed and in this case the second card played determines which suit must be followed or trumped. *
+*Les règles ne précisent pas si le Fou peut être montré comme première carte d'une levée. Une règle typique serait que cela est autorisé, et dans ce cas la deuxième carte jouée détermine la couleur à suivre ou à atouter.*
 
-## Scoring
+## Comptage
 
-In addition to the total value 52 of the counting cards, there are 15 tricks and the discard which score 1 extra point each. Therefore, there is a total of 68 points for cards. If the score is tied at 34 – 34, the game is a draw.
+En plus de la valeur totale de 52 des cartes de comptage, il y a 15 levées et l'écart qui valent chacun 1 point supplémentaire. Il y a donc un total de 68 points pour les cartes. Si le score est à égalité 34–34, la partie est nulle.
 
-Otherwise, the team with less than 34 card points pays the difference to the winners, which may be multiplied as follows. 
+Sinon, l'équipe ayant moins de 34 points paie la différence aux gagnants, ce qui peut être multiplié comme suit.
 
-- If the losers have less than half the points needed to tie (less than 17), the payment is doubled.
+- Si les perdants ont moins de la moitié des points nécessaires pour l'égalité (moins de 17), le paiement est doublé.
 
-- If the soloist played a 1-Card Solo the payment is doubled.
+- Si le soliste a joué un Solo à 1 carte, le paiement est doublé.
 
-- If the soloist played a Hand Solo the payment is multiplied by four.
+- Si le soliste a joué un Solo de main, le paiement est multiplié par quatre.
 
-The maximum multiplier is therefore eight-fold for a Hand Solo in which the losing team has less than 17 card points.
+Le multiplicateur maximum est donc de huit pour un Solo de main où l'équipe perdante a moins de 17 points.
 
-If the dealer called a partner and the team of three loses, each loser pays the difference multiplied by the game factor and the two winners share the amount equally. If the amount to be shared is an odd number, the dealer gets the extra point. If the dealer’s team loses, both have to pay the three opponents, so each has to pay one and a half times the difference multiplied by the game factor, and the dealer again pays the extra point if necessary.
+Si le donneur a appelé un partenaire et que l'équipe de trois perd, chaque perdant paie la différence multipliée par le facteur de jeu et les deux gagnants se partagent le montant à parts égales. Si le montant à partager est un nombre impair, le donneur reçoit le point supplémentaire. Si l'équipe du donneur perd, les deux doivent payer aux trois adversaires, chacun paie donc une fois et demie la différence multipliée par le facteur de jeu, et le donneur paie à nouveau le point supplémentaire si nécessaire.
 
-In a Solo, the soloist pays or receives four times the difference multiplied by the game factor, and the opponents each pay or receive singly.
+Dans un Solo, le soliste paie ou reçoit quatre fois la différence multipliée par le facteur de jeu, et les adversaires paient ou reçoivent individuellement.
 
-After one round, when each player has dealt once (5 deals), the rubber ends.
+Après un tour, quand chaque joueur a distribué une fois (5 donnes), la manche s'achève.
 
-## Four Player Game
+## Jeu à quatre joueurs
 
-There are two ways to play:
+Il y a deux façons de jouer :
 
-- As with five players with a round in which players can bid Solo and the dealer calling a King for partner if all pass.
+- Comme à cinq joueurs, avec un tour où les joueurs peuvent enchérir un Solo et le donneur appelant un roi comme partenaire si tous passent.
 
-- With fixed partnerships and no Solo contract, the partners sitting opposite one another (*croisé*).
+- Avec des équipes fixes et sans contrat Solo, les partenaires étant assis en face (*croisé*).
 
-Each player receives 19 cards, *presumably dealt: 5, 5, 5, 4*. The dealer deals 6 cards last and discards two, which count as an extra point for the discards.
+Chaque joueur reçoit 19 cartes, *probablement distribuées : 5, 5, 5, 4*. Le donneur distribue 6 cartes en dernier et en écarte deux, ce qui compte comme un point supplémentaire pour les écarts.
 
-The total value of the cards is 52 plus 19 for tricks plus 1 for the discard pile, 72 altogether. A tie occurs at 36 all.
+La valeur totale des cartes est de 52 plus 19 pour les levées plus 1 pour l'écart, soit 72 au total. Une égalité se produit à 36 partout.
 
-The game value is doubled if one side has fewer than 18 card points. In the variable partnership format it is also doubled for a 1-card Solo and quadrupled for a Hand Solo.
+La valeur du jeu est doublée si un côté a moins de 18 points. Dans le format avec équipes variables, elle est aussi doublée pour un Solo à 1 carte et quadruplée pour un Solo de main.
 
-## Three Player Game
+## Jeu à trois joueurs
 
-Each player receives 5 batches of 5 cards, a total of 25. The three extra cards are added to the dealer's final batch giving the dealer 28 cards from which 3 must be discarded. These discarded cards as usual score 1 card point for discards, in addition to their own card point value.
+Chaque joueur reçoit 5 paquets de 5 cartes, soit 25 au total. Les trois cartes supplémentaires sont ajoutées au dernier paquet du donneur, donnant au donneur 28 cartes dont il doit écarter 3. Ces cartes écartées valent 1 point pour l'écart, en plus de leur propre valeur en points.
 
-There are no partnerships and no Solo contract.
+Il n'y a pas d'équipe ni de contrat Solo.
 
-There are 78 card points in all (52 for cards + 25 for tricks + 1 for the discard). Players with fewer than 26 points pay the difference, doubled if they have fewer than 13 points. Players with more than 26 share the amounts paid in proportion to their difference in points.
+Il y a 78 points de cartes au total (52 pour les cartes + 25 pour les levées + 1 pour l'écart). Les joueurs ayant moins de 26 points paient la différence, doublée s'ils ont moins de 13 points. Les joueurs ayant plus de 26 se partagent les montants payés proportionnellement à leur différence de points.
 
-**Example*.**** Amélie has 37 card points, Béatrice 29, Cécile 12. The differences from 26 are: Amélie +11, Béatrice +3, Cécile −14. Since Cécile has fewer than 13, she pays the difference twice: −28. Amélie receives +22 and Béatrice +6.*
+**Exemple.** Amélie a 37 points, Béatrice 29, Cécile 12. Les différences par rapport à 26 sont : Amélie +11, Béatrice +3, Cécile −14. Comme Cécile a moins de 13, elle paie le double de la différence : −28. Amélie reçoit +22 et Béatrice +6.
 
-## Shortened Pack *(le
-tarot simplifié)*
+## Jeu réduit *(le tarot simplifié)*
 
-The lowest cards of each suit, the 2, 3, 4 and 5, are removed from the deck leaving 62 cards. The game is played by three or four players.
+Les cartes les plus basses de chaque couleur, le 2, 3, 4 et 5, sont retirées du jeu, laissant 62 cartes. Le jeu se joue à trois ou quatre joueurs.
 
-**Four players** (either in fixed partnerships or with Solo /Call). Each player receives 15 cards in three packets of 5. The dealer has 2 extra cards and discards two. There are 68 card points (52 + 15 + 1), a tie is 34 all, and the game value is doubled if a player/team has less than 17.
+**Quatre joueurs** (soit en équipes fixes, soit avec Solo/Appel). Chaque joueur reçoit 15 cartes en trois paquets de 5. Le donneur a 2 cartes supplémentaires et en écarte deux. Il y a 68 points de cartes (52 + 15 + 1), une égalité à 34 partout, et la valeur du jeu est doublée si un joueur/équipe a moins de 17.
 
-**Three players.** Each receives 20 cards in four packets of 5. The dealer has 2 extra cards and lays 2 away. The cards discarded do **not** count as an extra point in this version. There are 72 card points (52 + 20). Anyone who has less than 24 card points has lost, double if they have less than 12.
+**Trois joueurs.** Chacun reçoit 20 cartes en quatre paquets de 5. Le donneur a 2 cartes supplémentaires et en pose 2 de côté. Les cartes écartées ne comptent **pas** comme un point supplémentaire dans cette version. Il y a 72 points de cartes (52 + 20). Quiconque a moins de 24 points a perdu, le double s'il a moins de 12.
 
-## Comments
+## Commentaires
 
-**Scoring**. The rules above interpret the information in the rulebook according to the usual procedure in practically all Tarot games in which the result is a zero-sum. The rulebook itself only describes the game for five players:
+**Comptage.** Les règles ci-dessus interprètent les informations du livret de règles selon la procédure habituelle dans pratiquement tous les jeux de Tarot où le résultat est à somme nulle. Le livret lui-même ne décrit le jeu que pour cinq joueurs :
 
-*"Le nombre total des points étant de 68, chacun des joueurs du camp qui n’a pas atteint 34 points paie aux adversaires, qui se les partagent, autant de jetons que ceux-ci ont fait de points en plus de 34."*
+*« Le nombre total des points étant de 68, chacun des joueurs du camp qui n'a pas atteint 34 points paie aux adversaires, qui se les partagent, autant de jetons que ceux-ci ont fait de points en plus de 34. »*
 
-Michael Dummett interprets the payment system differently (in* The Game of Tarot*, 1980, and the same interpretation is repeated in: Dummett/McLeod, *History of Games Played with the Tarot Pack*, 2004, games 8.28 to 8.34). According to Dummett, a loser always pays the simple difference from the halfway value multiplied by the game factor. This would mean that, for example, a soloist would be paid four times as much if successful as they would pay if they lost by the same margin. In case of a loss by the soloist the opponents would somehow have to share the payment between the four of them. Dummett gives this explicitly as an example. Such a rule would, however, be very unusual among tarot games in weighting the payments so much in favour of the soloist.
+Michael Dummett interprète le système de paiement différemment (dans *The Game of Tarot*, 1980, et la même interprétation est reprise dans : Dummett/McLeod, *History of Games Played with the Tarot Pack*, 2004, jeux 8.28 à 8.34). Selon Dummett, un perdant paie toujours la simple différence par rapport à la valeur médiane multipliée par le facteur de jeu. Cela signifierait que, par exemple, un soliste serait payé quatre fois plus s'il gagnait que ce qu'il paierait s'il perdait du même écart. En cas de perte du soliste, les adversaires devraient d'une manière ou d'une autre se partager le paiement entre eux quatre. Dummett donne explicitement ceci en exemple. Une telle règle serait cependant très inhabituelle parmi les jeux de tarot en pondérant les paiements autant en faveur du soliste.
 
-Unfortunately in historical rulebooks the scoring of card games game scoring is often not explained with the level of detail and clarity one would expect of a modern description.
+Malheureusement, dans les livrets de règles historiques, le comptage des jeux de cartes n'est souvent pas expliqué avec le niveau de détail et de clarté que l'on attendrait d'une description moderne.
 
-In the rule book, the method of payment for **three players with a shortened pack** is given under the place where the game with the full pack is described. This error has already been spotted and corrected by Michael Dummett.
+Dans le livret de règles, la méthode de paiement pour **trois joueurs avec un jeu réduit** est donnée à l'endroit où le jeu avec le jeu complet est décrit. Cette erreur a déjà été repérée et corrigée par Michael Dummett.
 
-The question of who gets the extra point when payments cannot be shared exactly is not addressed in the rulebook, as it probably did not arise at the time. Even with a stake of one centime per point, it was possible to share the point, as half-centime coins existed.
+La question de qui reçoit le point supplémentaire lorsque les paiements ne peuvent être partagés exactement n'est pas traitée dans le livret, car elle ne se posait probablement pas à l'époque. Même avec une mise d'un centime par point, il était possible de partager le point, car des pièces d'un demi-centime existaient.
 
-The rule book states that if a player makes an accidental mistake that cannot be corrected, the game is annulled. 
+Le livret de règles stipule que si un joueur commet une erreur accidentelle qui ne peut être corrigée, la donne est annulée.
 
-**Clarification. **In the rulebook, page 7ff. says about any ambiguities: "[…] we only give a broad outline of the game and leave out the small details that players learn in practice." They promise that: "If necessary, we will fill in any gaps in a new edition." In any case, there is an invitation that: "Game lovers (*amateurs*) who require additional information or explanations should contact the Grand Café Coudurier in Chambéry. We would be very happy to give you any advice that might be useful to you."
+**Clarification.** Dans le livret, page 7 et suivantes, il est dit à propos des ambiguïtés : «[…] nous ne donnons qu'un aperçu général du jeu et laissons de côté les petits détails que les joueurs apprennent en pratique. » Ils promettent que : « Si nécessaire, nous comblerons les lacunes dans une nouvelle édition. » Quoi qu'il en soit, il y a une invitation : « Les amateurs qui souhaitent des informations ou explications supplémentaires doivent contacter le Grand Café Coudurier à Chambéry. Nous serons très heureux de vous donner tous les conseils qui pourraient vous être utiles. »
 
-Unfortunately, there has never been a new edition of the rules, the Grand Café no longer seems to exist and the tarot players of Chambéry in the 21st century probably play modern French Tarot. We can therefore no longer be completely certain what payment rules were used, and 21st century players will have to agree on whatever method seem right to them.
+Malheureusement, il n'y a jamais eu de nouvelle édition des règles, le Grand Café ne semble plus exister et les joueurs de tarot de Chambéry au XXIe siècle jouent probablement au Tarot français moderne. Nous ne pouvons donc plus être tout à fait certains des règles de paiement utilisées, et les joueurs du XXIe siècle devront s'accorder sur la méthode qui leur semble correcte.
 
-The **unusual suit card ranking** in this game in which the Ace ranks immediately below the Jack in all four suits is also found in the version of Tarot formerly played in Nice and other French games such as **Impériale** and Ecarté. In contrast to the Nice game and many other Tarot traditions. Note, however, that the cards of the Chambéry Tarot have the same ranking in all suits and are not ranked in reverse order in the red suits.
+Le **rang inhabituel des cartes de couleur** dans ce jeu, où l'As se classe immédiatement en dessous du Valet dans les quatre couleurs, se retrouve aussi dans la version du Tarot autrefois jouée à Nice et dans d'autres jeux français comme **l'Impériale** et l'Écarté. Contrairement au jeu de Nice et à beaucoup d'autres traditions de Tarot, notez que les cartes du Tarot de Chambéry ont le même rang dans toutes les couleurs et ne sont pas dans l'ordre inverse dans les couleurs rouges.
 
-## Botanical Notes
+## Notes botaniques
 
-The flowers on the Tarot are stylized and therefore cannot always be identified precisely. The current state of knowledge is as follows:
+Les fleurs sur le Tarot sont stylisées et ne peuvent donc pas toujours être identifiées avec précision. L'état actuel des connaissances est le suivant :
 
-**1**   Dandelion *(Taraxacum officinale)*
+**1** Pissenlit *(Taraxacum officinale)*
 
-**2**   Pink Flax *(Linum pubescens)*
+**2** Lin rose *(Linum pubescens)*
 
-**3**   Poppy *(Papaver rhoeas)*
+**3** Coquelicot *(Papaver rhoeas)*
 
-**4**   Cape Aster* (Othonna crassifolia)*
+**4** Aster du Cap *(Othonna crassifolia)*
 
-**5**   Coral Lily *(Lilium tenuifolium)*
+**5** Lis corallien *(Lilium tenuifolium)*
 
-**6**   Summer Pheasant’s Eye *(Adonis aestivalis)*
+**6** Adonis d'été *(Adonis aestivalis)*
 
-**7**   Marigold *(Calendula officinalis)*
+**7** Souci *(Calendula officinalis)*
 
-**8**   Lily of the Valley *(Convallaria majalis)*
+**8** Muguet *(Convallaria majalis)*
 
-**9**   Wallflower *(Erysimum cheiri)*
+**9** Girafe *(Erysimum cheiri)*
 
-**10**   Corncockle *(Agrostema githago)*
+**10** Nielle des blés *(Agrostemma githago)*
 
-**11**   Petunia *(Petunia hybrida)*
+**11** Pétunia *(Petunia hybrida)*
 
-**12**   Avens *(Geum coccineum)*
+**12** Benoîte *(Geum coccineum)*
 
-**13**   Early Dog-Violet *(Viola reichenbachiana)*
+**13** Violette des chiens *(Viola reichenbachiana)*
 
-**14**   Chrysanthemum *(Chrisanthemum grandifolium)*
+**14** Chrysanthème *(Chrysanthemum grandifolium)*
 
-**15**   Water Forget-me-Not *(Myosotis palustris)*
+**15** Myosotis des marais *(Myosotis palustris)*
 
-**16**   Anemone *(Anemone coronaria)*
+**16** Anémone *(Anemone coronaria)*
 
-**17**   Lance-Leaved Lily *(Lilium lancifolium)*
+**17** Lis à feuilles lancéolées *(Lilium lancifolium)*
 
-**18**   Leopard Lily *(Lilium pardalinum)*
+**18** Lis léopard *(Lilium pardalinum)*
 
-**19**   Geranium *(Pelargonium hortorum)*
+**19** Géranium *(Pelargonium hortorum)*
 
-**20**   Cape Jewels *(Nemesia strumosa)*
+**20** Nemesia *(Nemesia strumosa)*
 
-**21**   Opium Poppy *(Papaver somniferum)*
+**21** Pavot somnifère *(Papaver somniferum)*
 
-The trumps are fully portrayed in the *World Web Playing Card Museum* [[WWPCM02108](http://a.trionfi.eu/WWPCM/decks05/d02108/d02108.htm)].
+Les atouts sont intégralement reproduits dans le *World Web Playing Card Museum* [[WWPCM02108](http://a.trionfi.eu/WWPCM/decks05/d02108/d02108.htm)].
 
-## Foldable Rulesheet
+## Feuille de règles pliable
 
-Here is a link to Ulf Martin's German language PDF rulesheet, A4 with 2x5 pages on each side, so that it can be folded to fit into a pack of cards.
+Voici un lien vers la feuille de règles en PDF en allemand d'Ulf Martin, format A4 avec 2×5 pages par face, de sorte qu'elle puisse être pliée pour tenir dans une boîte de cartes.
 
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Chambéry
+Cette version allemande de cette page a été écrite par Ulf Martin. La traduction française est de Paul Eaton et la page est maintenue par John McLeod, john@pagat.com.
 
-This German version of this page was written by Ulf Martin. The English translation is by Paul Eaton and the page maintained by John McLeod, john@pagat.com
-
-© John McLeod, 2024. Last updated: 9th October 2024
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
-
-Select language: [deutsch](https://www.pagat.com/de/tarot/chambery.html) [english](https://www.pagat.com/tarot/chambery.html)
+© John McLeod, 2024. Dernière mise à jour : 9 octobre 2024.

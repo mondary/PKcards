@@ -1,214 +1,186 @@
 # Tübingen Tarock
 
 **Difficulté :** —
-**Type :** Tarot, Tarot
-**But :** Rules for 4-player Tarock with 78 cards as played by students in Tübingen around 1890.
+**Type :** Jeux de tarot, Jeux de tarot
+**But :** Règles du Tarock à 4 joueurs avec 78 cartes, tel que joué par les étudiants de Tübingen vers 1890.
 
 ---
 
-Tübingen Tarock - card game rules
-
-Home
-A-Z
-
-Select language ▼
-
-[deutsch](https://www.pagat.com/de/tarot/tuebingen.html)
-[english](https://www.pagat.com/tarot/tuebingen.html)
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tübingen Tarock 
-
-Tübingen Tarock
-
 ## Introduction
 
-This account by Guntram Kommerell of a Tarock game played in Tübingen at the end of the 19th century is of considerable interest since it is a version of Tarok-Quadrille, a type of game that was previously thought to have died out in Germany by the mid 19th century. 
+Ce récit de Guntram Kommerell sur un jeu de Tarock joué à Tübingen à la fin du XIXe siècle présente un intérêt considérable, puisqu'il s'agit d'une version du Tarok-Quadrille, un type de jeu que l'on pensait auparavant disparu en Allemagne depuis le milieu du XIXe siècle.
 
-The history of Tarot card games in Germany goes back to the early 18th century [1] with the arrival of a game called Tarock that was very similar to early French Tarot games such as that described by Abbé Michel de Marolles in 1635. Over time the 78-card game in Germany developed its own variations such as the addition of new declarations, an option to lose all tricks, a bonus for winning the last trick with trump II, and notably the introduction of bidding in imitation of l'Hombre to create the game Tarok l'Hombre. A further development that appeared in the late 18th century was a form played between four people in the manner of Quadrille, the four-player l'Hombre variant in which the bidder chooses a partner by calling a King. This variant was later dubbed Tarok-Quadrille by Michael Dummett who believed that it had probably died out in Germany by 1850, although a 4-player Tarot game based on similar principles survived in France as Tarot d'Appel, and Königrufen, played with the shortened 54-card pack and Fool as highest trump, has continued to thrive and evolve in Austria to the present day. 
+L'histoire des jeux de cartes de Tarot en Allemagne remonte au début du XVIIIe siècle [1] avec l'arrivée d'un jeu appelé Tarock, très similaire aux premiers jeux de Tarot français tels que celui décrit par l'abbé Michel de Marolles en 1635. Au fil du temps, le jeu à 78 cartes en Allemagne a développé ses propres variations, telles que l'ajout de nouvelles déclarations, la possibilité de perdre toutes les levées, un bonus pour gagner la dernière levée avec l'atout II, et notamment l'introduction des enchères imitant l'Hombre pour créer le jeu Tarok l'Hombre. Un développement ultérieur apparu à la fin du XVIIIe siècle est une forme jouée entre quatre personnes à la manière du Quadrille, la variante à quatre joueurs de l'Hombre dans laquelle l'enchérisseur choisit un partenaire en appelant un Roi. Cette variante a plus tard été appelée Tarok-Quadrille par Michael Dummett, qui croyait qu'elle avait probablement disparu en Allemagne vers 1850, bien qu'un jeu de Tarot à 4 joueurs basé sur des principes similaires ait survécu en France sous le nom de Tarot d'Appel, et que le Königrufen, joué avec le jeu réduit de 54 cartes et le Fou comme plus haut atout, ait continué à prospérer et à évoluer en Autriche jusqu'à nos jours.
 
-Guntram learned Tarock in the 1940s from his grandfather, Otto Kommerell, as an entertaining family game. Otto grew up in Tübingen in the Café Kommerell, a student bar founded by his father that was very popular around 1890. The variant of Tarock played by the students at that time was probably the one that was passed down orally by the Kommerells. Guntram wonders if there are other families who still play in this way and would be very happy to hear of this: Guntram Kommerell 
-.
+Guntram a appris le Tarock dans les années 1940 de son grand-père, Otto Kommerell, comme un jeu de famille divertissant. Otto a grandi à Tübingen dans le Café Kommerell, un bar d'étudiants fondé par son père qui était très populaire vers 1890. La variante de Tarock jouée par les étudiants à cette époque était probablement celle qui a été transmise oralement par les Kommerell. Guntram se demande s'il existe d'autres familles qui jouent encore ainsi et serait très heureux d'en avoir des nouvelles : Guntram Kommerell.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are 4 players. The game is played counter-clockwise (unlike Skat and most Anglo-American games). 
+Il y a 4 joueurs. Le jeu se joue dans le sens antihoraire (contrairement au Skat et à la plupart des jeux anglo-américains).
 
-A pack of 78 French-suited cards is used, which are best obtained in France. (Editor’s comment: in the past these would have been German-manufactured cards with genre scenes on the trumps. Today, packs used for French Tarot may be used. These are manufactured in France by, *inter alia,* Ducale, Ebiz and Cartamundi France, in Spain by Fournier and in Austria by Piatnik.)
+On utilise un jeu de 78 cartes aux enseignes françaises, qu'il est préférable de se procurer en France. (Note de l'éditeur : autrefois, il s'agissait de cartes fabriquées en Allemagne avec des scènes de genre sur les atouts. Aujourd'hui, on peut utiliser les jeux de Tarot français. Ceux-ci sont fabriqués en France par, entre autres, Ducale, Ebiz et Cartamundi France, en Espagne par Fournier et en Autriche par Piatnik.)
 
-There are 21 trump cards called ‘tarocks’. These have numerals in which the higher numbers beat the lower ones. In addition, there are 14 cards in each suit, including a Cavalier ranking between the Queen and the Jack. In the black suits (Clubs and Spades), the cards rank in their natural order from King down to Ace. In the red suits (Hearts and Diamonds), the order of the pip cards or numerals (*Blättle *i.e. “little cards”) is reversed such that the ranking is K Q C J A 2 3 4 5 6 7 8 9 10. Finally there is the Fool, known as the *Ski, *from the French word *Excuse.*
+Il y a 21 cartes d'atout appelées « tarocks ». Elles portent des chiffres romains dont les plus grands battent les plus petits. En outre, il y a 14 cartes dans chaque couleur, dont un Cavalier classé entre la Dame et le Valet. Dans les couleurs noires (trèfles et piques), les cartes sont classées dans leur ordre naturel du Roi à l'As. Dans les couleurs rouges (cœurs et carreaux), l'ordre des cartes numérales (*Blättle*, c'est-à-dire « petites cartes ») est inversé, de sorte que le classement est R D C V A 2 3 4 5 6 7 8 9 10. Enfin, il y a le Fou, connu sous le nom de *Ski*, du mot français *Excuse*.
 
-The card values are:
+Les valeurs des cartes sont :
 
-- 4.5 points: King, Tarock 21 (*Einundzwanziger-Tarock*), Tarock 1 (*Einser-Tarock*), *Ski*
+- 4,5 points : Roi, Tarock 21 (*Einundzwanziger-Tarock*), Tarock 1 (*Einser-Tarock*), *Ski*
 
-- 3.5 points: Queen
+- 3,5 points : Dame
 
-- 2.5 points: Cavalier
+- 2,5 points : Cavalier
 
-- 1.5 points: Jack
+- 1,5 point : Valet
 
-- 0.5 point: all pip cards and Tarocks 2–20
+- 0,5 point : toutes les cartes numérales et les Tarocks 2–20
 
-The total value of the cards in the pack is 91 points.
+La valeur totale des cartes du jeu est de 91 points.
 
-## Deal and Discard
+## Distribution et défausse
 
-The dealer shuffles the cards and has the player to his left cut the pack. Three packets of 5 and one packet of 4 cards are dealt to each player, with the exception of the dealer, who receives 6 cards in his last packet instead of 4. After each deal, the role of dealer rotates to the right.
+Le donneur mélange les cartes et fait couper le jeu par le joueur à sa gauche. Trois paquets de 5 et un paquet de 4 cartes sont distribués à chaque joueur, à l'exception du donneur, qui reçoit 6 cartes dans son dernier paquet au lieu de 4. Après chaque distribution, le rôle de donneur passe à droite.
 
-The dealer discards two cards face down to end up with 19 hand cards like the other players. This is known as *'legen'* (laying away). Any card may be laid away except a King, the Ski, Tarock 1 or Tarock 21. Tactically, the dealer should use discarding to void one or two suits and protect endangered high-value cards, such as an unguarded Queen. The cards laid away remain the property of the dealer or his team.
+Le donneur défausse deux cartes face en bas pour se retrouver avec 19 cartes en main comme les autres joueurs. Cela s'appelle *« legen »* (poser de côté). Toute carte peut être posée de côté sauf un Roi, le Ski, le Tarock 1 ou le Tarock 21. Tactiquement, le donneur devrait utiliser la défausse pour se priver d'une ou deux couleurs et protéger les cartes de haute valeur menacées, comme une Dame non gardée. Les cartes posées de côté restent la propriété du donneur ou de son équipe.
 
-## Auction
+## Enchères
 
 ### Raus
 
-This is the first of two rounds of bidding. After the dealer has announced “ready” (*es liegt*), there is the opportunity to bid a *Raus*, i.e. to undertake to play alone against three opponents. The player to the right of the dealer is asked first. He may either bid a *Raus* or say “pass” (*Pass*), in which case his right-hand neighbour has the same options. Finally, it is the dealer’s turn. He may bid a *Raus* overtly, but is the only one who also has the option of playing a “concealed” (*versteckten*) *Raus* - see *Rufen* below.
+C'est le premier des deux tours d'enchères. Après que le donneur a annoncé « prêt » (*es liegt*), il y a la possibilité d'enchérir un *Raus*, c'est-à-dire de s'engager à jouer seul contre trois adversaires. On demande d'abord au joueur à la droite du donneur. Il peut soit enchérir un *Raus* soit dire « passe » (*Pass*), auquel cas son voisin de droite a les mêmes options. Enfin, c'est le tour du donneur. Il peut enchérir un *Raus* ouvertement, mais il est le seul à avoir également la possibilité de jouer un *Raus* « caché » (*versteckten*) — voir *Rufen* ci-dessous.
 
 ### Rufen
 
-If no player has bid a *Raus*, there is a second round of bidding, called *Rufen *(“Calling”). Starting with the **dealer** this time, players in turn have the opportunity to call a King. The caller (*Rufer*) forms a team with the player holding the called card. However, the player with the called King is only revealed when he plays it. Prior to that, the identity of the caller’s partner may indirectly become apparent, for example, when he smears a high value card onto a trick won by the caller. 
+Si aucun joueur n'a enchéri un *Raus*, il y a un deuxième tour d'enchères, appelé *Rufen* (« Appel »). En commençant par le **donneur** cette fois-ci, les joueurs ont tour à tour la possibilité d'appeler un Roi. L'appelant (*Rufer*) forme une équipe avec le joueur détenant la carte appelée. Cependant, le joueur ayant le Roi appelé n'est révélé que lorsqu'il le joue. Avant cela, l'identité du partenaire de l'appelant peut devenir apparente indirectement, par exemple lorsqu'il « étale » une carte de haute valeur sur une levée gagnée par l'appelant.
 
-In most cases, a player may only call a King that he does not hold. If the caller has 3 Kings in his hand, he may (but does not have to) call "the fourth" (*den Vierten*) without naming its suit. If the caller has all 4 Kings in hand, he may call the 21, the 1 or the *Ski* if he does not hold that card in his hand. A player who does not wish to call, simply says “*fort*” i.e. “carry on” passing the option to call to the right. A player who does not want to call despite having at least 8 tarocks, says “*fort mit*”. As soon as someone has called, the game begins.
+Dans la plupart des cas, un joueur ne peut appeler qu'un Roi qu'il ne détient pas. Si l'appelant a 3 Rois en main, il peut (mais n'est pas obligé de) appeler « le quatrième » (*den Vierten*) sans nommer sa couleur. Si l'appelant a les 4 Rois en main, il peut appeler le 21, le 1 ou le *Ski* s'il ne détient pas cette carte. Un joueur qui ne souhaite pas appeler dit simplement *« fort »*, c'est-à-dire « continuez », passant l'option d'appeler à droite. Un joueur qui ne veut pas appeler bien qu'ayant au moins 8 tarocks dit *« fort mit »*. Dès que quelqu'un a appelé, le jeu commence.
 
-The dealer is the only player who may play a concealed *Raus* by calling a King held in his own hand. Concealing the *Raus* is an advantage, because the 3 opponents only realise the dealer is playing alone when he plays the called King.
+Le donneur est le seul joueur qui peut jouer un *Raus* caché en appelant un Roi détenu dans sa propre main. Cacher le *Raus* est un avantage, car les 3 adversaires ne se rendent compte que le donneur joue seul que lorsqu'il joue le Roi appelé.
 
 ### Stecken
 
-If all four players say “*fort*”, they ‘order’ (*stecken*) their cards. Each player puts his good cards (the 21, 1, *Ski*, high tarocks and Kings, but not the lower courts) on the left side of his hand. Then all 4 hands are placed on top of one another and the cards are cut just once. Now the same dealer distributes the cards again. Ordering the cards in this way almost always results in one player receiving good cards. He then usually plays a *Raus* and wins by a huge margin.
+Si les quatre joueurs disent *« fort »*, ils « ordonnent » (*stecken*) leurs cartes. Chaque joueur place ses bonnes cartes (le 21, le 1, le *Ski*, les tarocks élevés et les Rois, mais pas les honneurs inférieurs) sur le côté gauche de sa main. Ensuite, les 4 mains sont placées les unes sur les autres et les cartes sont coupées une seule fois. Le même donneur redistribue alors les cartes. Ordonner les cartes de cette façon aboutit presque toujours à ce qu'un joueur reçoive de bonnes cartes. Celui-ci joue généralement un *Raus* et gagne par une large marge.
 
-### *Little Tout* and *Grand Tout*
+### *Petit Tout* et *Grand Tout*
 
-If a player is dealt a hand with no cards worth more than ½ point (discarded courts do not count), i.e. he has only ‘pip cards’ and no more than 7 tarocks, those tarocks not including the 21, 1 or *Ski*, he can ask the others: "Do any of the ladies or gentlemen here wish to play a *Little* *Tout*?" A *Little Tout* (*Tout* being French for “all”) is an undertaking to make all but one trick. If the declarer of a *Little* *Tout* succeeds, he scores 120 points. If he takes all the tricks, this is a *Grand* *Tout* (*Großer Tout*) which earns 240 points. If he has to concede 2 or more tricks, he loses 240 points. If no player wants to risk a *Little* *Tout*, the cards are thrown in, shuffled and redealt by the same dealer.
+Si un joueur reçoit une main sans carte valant plus de 0,5 point (les honneurs défaussés ne comptent pas), c'est-à-dire qu'il n'a que des « cartes numérales » et pas plus de 7 tarocks, ceux-ci n'incluant pas le 21, le 1 ou le *Ski*, il peut demander aux autres : « L'un des messieurs ou des dames ici présents souhaite-t-il jouer un *Petit Tout* ? » Un *Petit Tout* (*Tout* étant le mot français pour « tout ») est un engagement à remporter toutes les levées sauf une. Si le déclarant d'un *Petit Tout* réussit, il marque 120 points. S'il remporte toutes les levées, c'est un *Grand Tout* (*Großer Tout*) qui rapporte 240 points. S'il doit concéder 2 levées ou plus, il perd 240 points. Si aucun joueur ne veut risquer un *Petit Tout*, les cartes sont jetées, mélangées et redistribuées par le même donneur.
 
-## Play
+## Jeu
 
-The player to the right of the dealer sits “in front” (*vorne*) i.e. is forehand. He leads the first card; thereafter that right goes to the player who won the previous trick. Then the other players in anticlockwise order play a card. Each hand consists of 19 tricks of 4 cards each. If a suit card is played, it must be followed. A player who cannot follow, must trump with a tarock if possible. If he is out of tarocks, he may play any card. If his partner is likely to win the trick, he will "smear". If his opponent looks likely to win the trick, he will discard a card worth as little as possible.
+Le joueur à la droite du donneur est assis « devant » (*vorne*), c'est-à-dire en première position. Il joue la première carte ; ensuite, ce droit passe au joueur qui a remporté la levée précédente. Puis les autres joueurs jouent une carte dans l'ordre antihoraire. Chaque main comprend 19 levées de 4 cartes chacune. Si une carte de couleur est jouée, il faut suivre. Un joueur qui ne peut pas suivre doit jouer un atout (tarock) si possible. S'il n'a plus de tarocks, il peut jouer n'importe quelle carte. Si son partenaire est susceptible de gagner la levée, il « étalera ». Si un adversaire est susceptible de gagner la levée, il défaussera une carte valant le moins possible.
 
-If a tarock is led, players must follow with a tarock if able. When leading high Tarocks from an unbroken sequence, they should be played "from above". For example a player who has the 21, 20 and 19 is expected to lead the 21, not the 19 which would be considered unfair deception. However, the 17 could be led if the 18 were still in play in another player’s hand. A player who has no tarocks may throw any card.
+Si un tarock est mené, les joueurs doivent suivre avec un tarock s'ils le peuvent. Lorsqu'on mène des tarocks élevés depuis une séquence ininterrompue, ils doivent être joués « par le haut ». Par exemple, un joueur qui a le 21, le 20 et le 19 est censé mener le 21, et non le 19, ce qui serait considéré comme une tromperie déloyale. Cependant, le 17 peut être mené si le 18 est encore en jeu dans la main d'un autre joueur. Un joueur qui n'a pas de tarocks peut jouer n'importe quelle carte.
 
-A trick is taken by the player who played the highest tarock or the highest card of the led suit if no tarocks are played. He picks up the trick and places it face down in his trick pile to be scored later. Once the teams are known, the tricks of one team can be combined. By contrast, in a *Raus,* tricks must be collected in four separate piles (see below).
+Une levée est remportée par le joueur qui a joué le tarock le plus élevé ou la plus haute carte de la couleur demandée si aucun tarock n'est joué. Il ramasse la levée et la place face en bas dans son tas de levées pour le comptage ultérieur. Une fois les équipes connues, les levées d'une équipe peuvent être combinées. En revanche, dans un *Raus*, les levées doivent être collectées dans quatre tas séparés (voir ci-dessous).
 
-### The* Ski*
+### Le *Ski*
 
-The *Ski* acts as a Joker. It can be played in place of any other card, but has no trick-taking power. The *Ski* always remains with its original owner. After the trick has been completed, if it falls to the opponents, they are given a pip card or tarock worth ½ point from the tricks collected by the player or team with the *Ski*. This does not apply to the last trick. Here the *Ski* falls to the winner of the trick; it is said to "go across" (*geht über*). This may be desirable in a *Raus* in order to *contre* the *Ski* (see below). Playing the *Ski* (*skisieren*) is often used to save a tarock or to spare a Queen if a trick with a King is going to be won by an opponent.
+Le *Ski* agit comme un Joker. Il peut être joué à la place de n'importe quelle autre carte, mais n'a aucun pouvoir de prise de levée. Le *Ski* reste toujours avec son propriétaire initial. Après que la levée est terminée, s'il revient aux adversaires, on leur donne une carte numérale ou un tarock valant 0,5 point prise dans les levées collectées par le joueur ou l'équipe ayant le *Ski*. Cela ne s'applique pas à la dernière levée. Ici, le *Ski* revient au gagnant de la levée ; on dit qu'il « passe » (*geht über*). Cela peut être souhaitable dans un *Raus* afin de *contrer* le *Ski* (voir ci-dessous). Jouer le *Ski* (*skisieren*) est souvent utilisé pour sauver un tarock ou pour épargner une Dame lorsqu'une levée avec un Roi va être remportée par un adversaire.
 
-## Counting and Scoring
+## Comptage et marquage
 
-The cards in the tricks won by each player or team are scored based on the values above. The dealer scores additionally for the two cards initially discarded.
+Les cartes dans les levées gagnées par chaque joueur ou équipe sont comptées selon les valeurs ci-dessus. Le donneur compte en plus les deux cartes initialement défaussées.
 
-*Rufer (Ruf-Spiel) *– Two against Two
-Each side counts its card points up to 23 and then starts again at 0. The winner is the side that scores at least a further 23 points after passing zero, i.e. more than half of the 45 points available after the first 23 have been counted by each team. For example, if team that has 62 card points in its tricks will scores 29 points (62 = 23 + 29): the caller and his partner are each given 29 points. If the other side has scores at least 23 points (beyond the initial 23, which count as 0), for example 27 points, the caller loses double i.e. 2 x 27 = 54 points. No points are deducted from the called player, so it is always advantageous to be called.
-*Raus* – One against Three
-Players only count up to 18 in the first round of scoring and then start again at 0. The declarer (soloist) wins if he has scored more points than the best of his opponents. The 3 opponents may not combine their tricks. Exception: Points from another opponent may be added to those of the best opponent if they consist of no more than 3 ’empty’ tricks, i.e. tricks that only contain cards with a point value of 0.5. Only the *Ski* may be included in the case of empty tricks. The 2 cards initially discarded by the dealer may also be added, even if they are courts, but only if the dealer has taken a maximum of 3 empty tricks. If the declarer has e.g. 21 points after passing the 18=zero threshold, but the best of the opponents only has 20 beyond the theshold, the soloist will be awarded 3 times 21 = 63 points. If the declarer has 21 and has lost to the best opponent who has 22 points, 66 points are deducted from the declarer. So a *Raus *is won or lost treble.
+*Rufer (Ruf-Spiel)* — Deux contre Deux
+Chaque côté compte ses points de cartes jusqu'à 23, puis recommence à 0. Le gagnant est le côté qui marque au moins 23 points supplémentaires après avoir dépassé zéro, c'est-à-dire plus de la moitié des 45 points disponibles après que les 23 premiers ont été comptés par chaque équipe. Par exemple, si l'équipe qui a 62 points de cartes dans ses levées marque 29 points (62 = 23 + 29) : l'appelant et son partenaire reçoivent chacun 29 points. Si l'autre côté marque au moins 23 points (au-delà des 23 initiaux, qui comptent pour 0), par exemple 27 points, l'appelant perd le double, c'est-à-dire 2 × 27 = 54 points. Aucun point n'est déduit du joueur appelé, il est donc toujours avantageux d'être appelé.
+*Raus* — Un contre Trois
+Les joueurs ne comptent que jusqu'à 18 lors du premier tour de comptage, puis recommencent à 0. Le déclarant (soliste) gagne s'il a marqué plus de points que le meilleur de ses adversaires. Les 3 adversaires ne peuvent pas combiner leurs levées. Exception : les points d'un autre adversaire peuvent être ajoutés à ceux du meilleur adversaire s'ils se composent de pas plus de 3 levées « vides », c'est-à-dire de levées ne contenant que des cartes d'une valeur de 0,5 point. Seul le *Ski* peut être inclus dans le cas de levées vides. Les 2 cartes initialement défaussées par le donneur peuvent également être ajoutées, même si ce sont des honneurs, mais seulement si le donneur a pris au maximum 3 levées vides. Si le déclarant a par exemple 21 points après avoir dépassé le seuil de 18 = zéro, mais que le meilleur des adversaires n'a que 20 au-delà du seuil, le soliste se voit attribuer 3 fois 21 = 63 points. Si le déclarant a 21 et a perdu face au meilleur adversaire qui a 22 points, 66 points sont déduits du déclarant. Ainsi, un *Raus* est gagné ou perdu au triple.
 
-### Bonuses (*Strafen*)
+### Bonus (*Strafen*)
 
-Once the winner of the hand is decided based on the points scored in tricks, bonuses may be declared. These extra points are called *Strafen* (“penalties”), even though they maybe favourable or unfavourable for the team in question. *Strafen* may only be declared up to the point when the cards are cut for the next deal. If declared late, they no longer count. Your opponents will be delighted if you forget to declare *Strafen*.
+Une fois le gagnant de la main déterminé en fonction des points marqués dans les levées, des bonus peuvent être déclarés. Ces points supplémentaires sont appelés *Strafen* (« pénalités »), même s'ils peuvent être favorables ou défavorables pour l'équipe en question. Les *Strafen* ne peuvent être déclarées que jusqu'au moment où les cartes sont coupées pour la distribution suivante. Si elles sont déclarées tardivement, elles ne comptent plus. Vos adversaires seront ravis si vous oubliez de déclarer des *Strafen*.
 
-If both teams score *Strafen*, these are combined to calculate the net gain or loss for the declaring team.
+Si les deux équipes marquent des *Strafen*, celles-ci sont combinées pour calculer le gain ou la perte net pour l'équipe déclarante.
 
-If the game is won, *Strafen* gained by the declaring team are added to the declaring side’s points scored in tricks, and if the game is lost, *Strafen* gained by the declaring team are deducted from the opponents’ points in the tricks before determining the declaring side’s loss. *Strafen* are calculated before the score is multiplied by the game value: ×2 in the case of a lost *Rufer*, ×3 in the case of a *Raus*. In the event of a lost game, the opponents’ points may only be reduced down to zero by *Strafen* bonuses but no further; *Strafen* cannot be used to convert a lost game into a win. After all, the loser will be content if he succeeds in reducing his loss to zero (*runterstrafen*).
+Si le jeu est gagné, les *Strafen* obtenues par l'équipe déclarante sont ajoutées aux points de l'équipe déclarante marqués dans les levées, et si le jeu est perdu, les *Strafen* obtenues par l'équipe déclarante sont déduites des points des adversaires dans les levées avant de déterminer la perte de l'équipe déclarante. Les *Strafen* sont calculées avant que le score ne soit multiplié par la valeur du jeu : ×2 dans le cas d'un *Rufer* perdu, ×3 dans le cas d'un *Raus*. En cas de jeu perdu, les points des adversaires ne peuvent être réduits qu'à zéro par les bonus *Strafen*, mais pas au-delà ; les *Strafen* ne peuvent pas être utilisées pour transformer un jeu perdu en victoire. Après tout, le perdant sera satisfait s'il parvient à réduire sa perte à zéro (*runterstrafen*).
 
-Based on the cards in hand before play begins, the following *Strafen* apply:
+En fonction des cartes en main avant le début du jeu, les *Strafen* suivantes s'appliquent :
 
-- *Skimon* (in French the 21 is *monde* = world): *Ski* + 21 + 1 = 10 bonus points
+- *Skimon* (en français, le 21 est *monde* = monde) : *Ski* + 21 + 1 = 10 points de bonus
 
-- Three or more *Oberers* (top tarocks): 21 + 20 + 19 etc. in unbroken sequence. The *Ski* can plug a gap in the sequence or extend the number of *Oberers* by 1. Each *Oberer *is worth 2 bonus points.
+- Trois *Oberers* ou plus (tarocks élevés) : 21 + 20 + 19, etc., en séquence ininterrompue. Le *Ski* peut combler un vide dans la séquence ou augmenter le nombre d'*Oberers* de 1. Chaque *Oberer* vaut 2 points de bonus.
 
-- Three or more *Unterers* (low tarocks): 1 + 2 + 3 etc. These score in the same way as *Oberers*.
+- Trois *Unterers* ou plus (tarocks bas) : 1 + 2 + 3, etc. Ils comptent de la même manière que les *Oberers*.
 
-- *Kingdom* (*Königreich*}: all 4 Kings in hand = 10 bonus points.
+- *Royaume* (*Königreich*) : les 4 Rois en main = 10 points de bonus.
 
-- *Ski* *Kingdom* (*Skisiertes* *Königreich*}: 3 Kings + *Ski* = 5 bonus points.
+- *Royaume du Ski* (*Skisiertes Königreich*) : 3 Rois + *Ski* = 5 points de bonus.
 
-- *Natural Family* (*Natürliche Familie*): All 4 courts of one suit = 10 bonus points
+- *Famille naturelle* (*Natürliche Familie*) : les 4 honneurs d'une même couleur = 10 points de bonus
 
-- *Ski* *Family* (*Skisiertes* *Familie*}: 3 courts of one suit + *Ski* = 5 bonus points.
+- *Famille du Ski* (*Skisiertes Familie*) : 3 honneurs d'une même couleur + *Ski* = 5 points de bonus.
 
-Bonuses may also be claimed for *Strafen* that occur during play as follows:
+Des bonus peuvent également être réclamés pour les *Strafen* qui surviennent pendant le jeu, comme suit :
 
-- *Fein * (fine): winning the last trick with trump 1 = 10 bonus points.
+- *Fein* (fin) : gagner la dernière levée avec l'atout 1 = 10 points de bonus.
 
-- *Einser gefasst* (captured 1): losing trump 1 to the opponents = 5 minus points.
+- *Einser gefasst* (1 capturé) : perdre l'atout 1 au profit des adversaires = 5 points négatifs.
 
-- *Einser fein gefasst* (finely captured 1): losing trump 1 in the last trick = 10 minus points.
+- *Einser fein gefasst* (1 finement capturé) : perdre l'atout 1 dans la dernière levée = 10 points négatifs.
 
-*[**Editor's notes**. *
+*[**Notes de l'éditeur.**
 
-*1. If the *Strafen* result in a net gain for the declarer's opponents - for example one of the opponents held all 4 court cards of a suit for 10, or the opponents managed to capture the declarer's trump 1 for 5, while the declarer's team scored no positive *Strafen*, then these *Strafen* points will obviously be **subtracted** from the declarer's score if the declarer's team won or **added** to the opponents' score if the declarer's team lost.*
+**1. Si les *Strafen* aboutissent à un gain net pour les adversaires du déclarant — par exemple l'un des adversaires détenait les 4 honneurs d'une couleur pour 10, ou les adversaires ont réussi à capturer l'atout 1 du déclarant pour 5, tandis que l'équipe du déclarant n'a marqué aucun *Strafen* positif — alors ces points de *Strafen* seront évidemment **soustraits** du score du déclarant si l'équipe du déclarant a gagné, ou **ajoutés** au score des adversaires si l'équipe du déclarant a perdu.
 
-*2. The practice of giving a score only to one team, so that the resulting scores do not add up to zero, is unusual for Tarot/Tarock games. In most of games of this family the result of each hand is a payment between players, and if the score is recorded on paper the players will have balancing positive and negative totals representing the amount each player has won or lost. In this Tübingen game a natural scoring system would be that in a successful *Rufer* each member of the declarer's team is paid by one of the opponents, and when unsuccessful the caller pays both opponents, while the called partner neither receives nor pays. In a *Raus*, the soloist would be paid by each of the three opponents if successful and would pay each opponent if unsuccessful. It seems quite likely that the game was originally scored this way and that this is the origin of the ×2 and ×3 multipliers in Guntram Kommerell's version.]*
+**2. La pratique consistant à attribuer un score à une seule équipe, de sorte que les scores obtenus ne s'additionnent pas à zéro, est inhabituelle pour les jeux de Tarot/Tarock. Dans la plupart des jeux de cette famille, le résultat de chaque main est un paiement entre joueurs, et si le score est enregistré sur papier, les joueurs auront des totaux positifs et négatifs s'équilibrant, représentant le montant que chaque joueur a gagné ou perdu. Dans ce jeu de Tübingen, un système de marquage naturel serait que lors d'un *Rufer* réussi, chaque membre de l'équipe du déclarant est payé par l'un des adversaires, et en cas d'échec, l'appelant paie les deux adversaires, tandis que le partenaire appelé ne reçoit ni ne paie. Dans un *Raus*, le soliste serait payé par chacun des trois adversaires s'il réussit, et paierait chaque adversaire s'il échoue. Il est assez probable que le jeu était à l'origine marqué de cette façon et que c'est l'origine des multiplicateurs ×2 et ×3 dans la version de Guntram Kommerell.]*
 
-## Tactics
+## Tactique
 
-*Dem Freund eine Neue*. "A new one for your friend." If a player is leading and his left-hand neighbour is his partner, it is advisable to lead a suit that has not yet appeared. As rearhand, the partner then has the opportunity to safely play valuable court cards.
+*Dem Freund eine Neue*. « Une nouvelle pour ton ami. » Si un joueur mène et que son voisin de gauche est son partenaire, il est conseillé de mener une couleur qui n'est pas encore apparue. En tant que joueur de fond, le partenaire a alors l'opportunité de jouer en toute sécurité des cartes d'honneur de valeur.
 
-*Spannen. *“Stretching." This is where the King is held back in order to capture the opponent's Queen in a later trick. However, this increases the risk of losing the King to an opponent's tarock.
+*Spannen.* « Tendre. » Il s'agit de retenir le Roi afin de capturer la Dame de l'adversaire lors d'une levée ultérieure. Cependant, cela augmente le risque de perdre le Roi face à un tarock adverse.
 
-*Nicht mit einem König rausplatzen*. “Don't blurt out a King.” Leading a King is usually unwise because the chance of luring out a Queen is lost. In addition, it is dangerous since the opponents may capture the King with a tarock.
+*Nicht mit einem König rausplatzen*. « Ne pas lâcher un Roi. » Mener un Roi est généralement déconseillé car la chance d'attirer une Dame est perdue. De plus, c'est dangereux car les adversaires peuvent capturer le Roi avec un tarock.
 
-In a *Raus*, the declarer's 3 opponents should attempt to counter the declarer by concentrating their points on the strongest member of their own team, called the *Contre*. An opponent may not announce that he wants to be the *Contre* but may indicate, through his playing style, that he has a relatively strong hand, e.g. by playing a King. The other opponents who have weaker cards should never lead a King (if they have one), but smear it to the *Contre* when a good opportunity arises.
+Dans un *Raus*, les 3 adversaires du déclarant devraient essayer de contrer le déclarant en concentrant leurs points sur le membre le plus fort de leur propre équipe, appelé le *Contre*. Un adversaire ne peut pas annoncer qu'il veut être le *Contre* mais peut indiquer, par son style de jeu, qu'il a une main relativement forte, par exemple en jouant un Roi. Les autres adversaires qui ont des cartes plus faibles ne devraient jamais mener un Roi (s'ils en ont un), mais l'étaler au *Contre* lorsqu'une bonne occasion se présente.
 
-## Typical Game Sayings
+## Expressions typiques du jeu
 
-Players spoke in Swabian, whence some of the sayings below.
+Les joueurs parlaient en souabe, d'où certaines des expressions ci-dessous.
 
-*Der Skar stimmt*.  “The skat’s good.” Said if you have dealt correctly. The *Skar* refers to the two extra cards that the dealer receives. The word comes from the Italian *scarto* = difference. What is meant is the difference in the number of cards dealt to the dealer compared with those dealt to the other players. The term is used in other Central European Tarot games. There it is called *Skart* or *Skat*. The name of the game of Skat, invented in a tarock club around 1810-1815, also comes from *scarto*.
+*Der Skar stimmt*. « Le skat est bon. » Se dit si vous avez distribué correctement. Le *Skar* fait référence aux deux cartes supplémentaires que le donneur reçoit. Le mot vient de l'italien *scarto* = écart. Ce qui est signifié est la différence du nombre de cartes distribuées au donneur par rapport à celles distribuées aux autres joueurs. Ce terme est utilisé dans d'autres jeux de Tarot d'Europe centrale. Là, il est appelé *Skart* ou *Skat*. Le nom du jeu de Skat, inventé dans un club de tarock vers 1810-1815, vient également de *scarto*.
 
-*Zehn auf die Badehose*.  “Ten on your swimming trunks.” A deduction of 10 points when someone has misdealt.
+*Zehn auf die Badehose*. « Dix sur le maillot de bain. » Une déduction de 10 points lorsque quelqu'un a mal distribué.
 
-*Da sind zwei Bäcke zamme komme. * “Here are two bakers together!” Said when it turns out that both the caller and the called have good cards.
+*Da sind zwei Bäcke zamme komme.* « Voilà deux boulangers ensemble ! » Se dit lorsqu'il s'avère que l'appelant et l'appelé ont tous deux de bonnes cartes.
 
-*Des buttet*. “*That’s* buttering.” When several high-quality cards are taken in one trick.
+*Des buttet*. « Ça beurre. » Lorsque plusieurs cartes de haute qualité sont prises dans une même levée.
 
-*Die beinet uns aus*. “That’s pared us to the bone.” Said when opponents take one trick after the other.
+*Die beinet uns aus*. « Ça nous vide jusqu'aux os. » Se dit lorsque les adversaires remportent les levées les unes après les autres.
 
-*Tack, tack, tack, do kommet se.* “Rat-a-tat-tat, here they come.” When the opponent finally has to give valuable courts after many low cards.
+*Tack, tack, tack, do kommet se.* « Ratatata, les voilà. » Quand l'adversaire doit enfin céder des honneurs de valeur après de nombreuses cartes basses.
 
-*E blutte Dam*.  “Nothing but a dame.” A singleton Queen without a guard card.
+*E blutte Dam.* « Rien qu'une dame. » Une Dame singleton sans carte de garde.
 
-*Über’s Kreuz*. “Crosswise”. When the players sitting opposite are partners. In this case, nobody can play *dem Freund e Neue* i.e. play a new one to his partner. 
+*Über's Kreuz*. « En croix. » Lorsque les joueurs assis en face sont partenaires. Dans ce cas, personne ne peut jouer *dem Freund e Neue*, c'est-à-dire jouer une nouvelle carte à son partenaire.
 
-*S sind a scho am Mische gstorbe.* “You’ve already died shuffling.” When someone shuffles for a long time.
+*S sind a scho am Mische gstorbe.* « Vous êtes déjà morts en mélangeant. » Quand quelqu'un mélange pendant longtemps.
 
-*I wart a Viertelstund, i wart a halbe Stund, i nehm a Vollbad.*  “I’m waiting a quarter of an hour, half an hour, I’m going for a bath.” Said when a player takes too much time playing a card.
+*I wart a Viertelstund, i wart a halbe Stund, i nehm a Vollbad.* « J'attends un quart d'heure, une demi-heure, je vais prendre un bain. » Se dit quand un joueur prend trop de temps pour jouer une carte.
 
-*E kart oder a Stick Holz*. “A card or a piece of wood.” When someone takes forever deciding what to play.
+*E kart oder a Stick Holz.* « Une carte ou un bout de bois. » Quand quelqu'un met une éternité à décider quoi jouer.
 
-*Herz wie alle Anfänger.* “Hearts, just like all beginners.” Said when someone calls the King of Hearts.
+*Herz wie alle Anfänger.* « Cœur, comme tous les débutants. » Se dit quand quelqu'un appelle le Roi de Cœur.
 
-*I weiß, jetzt werd i gschimpft*. ”I know, I’ll be scolded.” Said when someone does not dare to beat the Queen with his King and accepts that others will think he’s a chicken.
+*I weiß, jetzt werd i gschimpft*. « Je sais, je vais me faire gronder. » Se dit quand quelqu'un n'ose pas battre la Dame avec son Roi et accepte que les autres pensent qu'il est lâche.
 
-*Jaja, mit de Küh schwätzt mer ja au. *”Yeah, yeah, I always chat to the cow too.” Said when someone tries to give their friend advice.
+*Jaja, mit de Küh schwätzt mer ja au.* « Oui, oui, je parle aussi aux vaches. » Se dit quand quelqu'un essaie de donner des conseils à son ami.
 
-*I will’s glei wisse*. “I want to know *now*.” When forehand immediately leads the called suit to clarify who is playing with whom.
+*I will's glei wisse*. « Je veux savoir *maintenant*. » Quand le joueur en première position mène immédiatement la couleur appelée pour clarifier qui joue avec qui.
 
-*Immer der Ohrfeig nach*. “Always like slapping a face.” Deal and play are anticlockwise (only works for right-handers)
+*Immer der Ohrfeig nach*. « Toujours comme une gifle. » La distribution et le jeu se font dans le sens antihoraire (ne fonctionne que pour les droitiers).
 
-*I kann die Steckerei net leide! *”I can't bear to order my cards!” When rearhand decides to call even though he has a weak hand. If he then loses the game, he suffers a *Hintermannsfuhr* or "tail end Charlie" beating.
+*I kann die Steckerei net leide!* « Je ne supporte pas d'ordonner mes cartes ! » Quand le joueur de fond décide d'appeler bien qu'il ait une main faible. S'il perd ensuite la partie, il subit un *Hintermannsfuhr* ou « coup de poing du dernier ».
 
-*Ja, ja, der richtige Einsatz des Ski. *"Come on, use the Ski properly." When the Ski has not been used properly.
+*Ja, ja, der richtige Einsatz des Ski.* « Allez, utilisez le Ski correctement. » Quand le Ski n'a pas été utilisé correctement.
 
-*Oh Ihr Wüüschte. *“Oh you lovelies!” When valuable cards are drawn from you.
+*Oh Ihr Wüüschte.* « Oh, vous beautés ! » Quand on vous prend des cartes de valeur.
 
-*Opfer müssen gebracht werden, denn dazu sind sie da*. ”Sacrifices have to be made, cos that's what they’re there for.” When a suit is played to which both opponents play a tarock, but your partner has to play a court.
+*Opfer müssen gebracht werden, denn dazu sind sie da.* « Des sacrifices doivent être faits, car c'est à ça qu'ils servent. » Quand une couleur est jouée et que les deux adversaires jouent un tarock, mais que votre partenaire doit jouer un honneur.
 
-*Machet me no voll hi.* “Don’t make me homesick” (*voll Heimweh*). Said when you're losing.
+*Machet me no voll hi.* « Ne me donnez pas le mal du pays » (*voll Heimweh*). Se dit quand on est en train de perdre.
 
-*Du hascht ons a rechte Freid gmacht. *”Never mind, you’ve made us very happy.” Said to console a player who has lost badly. 
+*Du hascht ons a rechte Freid gmacht.* « N'importe, vous nous avez fait bien plaisir. » Se dit pour consoler un joueur qui a perdu sévèrement.
 
-## Reference
+## Références
 
-- Martin, Ulf (2015). “The Tarock of the Skat Inventors. Part I: Grosstarock Redefined” in *The Playing-Card*, Vol. 44, No. 3, Oct – Dec 2015, Journal of the International Playing-Card Society, ISSN 1752-71X, p. 144.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tübingen Tarock
-
-This page was translated from the original German by Paul Eaton and is maintained by John McLeod, john@pagat.com
-
-© John McLeod, Paul Eaton 2023. Last updated: 14th February 2023
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
-
-Select language: [deutsch](https://www.pagat.com/de/tarot/tuebingen.html) [english](https://www.pagat.com/tarot/tuebingen.html)
+- Martin, Ulf (2015). « The Tarock of the Skat Inventors. Part I: Grosstarock Redefined » dans *The Playing-Card*, Vol. 44, No. 3, oct.–déc. 2015, Journal of the International Playing-Card Society, ISSN 1752-71X, p. 144.

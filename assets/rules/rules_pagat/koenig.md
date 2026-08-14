@@ -3,497 +3,489 @@
 **Nombre de cartes :** 54
 **Difficulté :** ⭐⭐⭐
 **Type :** Tarot, Tarot
-**But :** An Austrian Tarock game for 4 players with a large choice of contracts. In some the bidder plays alone, in others a partner is chosen by calling a king.
+**But :** Jeu de Tarock autrichien à 4 joueurs offissant un large choix de contrats. Dans certains, le preneur joue seul ; dans d'autres, un partenaire est choisi en appelant un roi.
 **Autres noms :** Bürgermeister
 
 ---
 
 ## Introduction
 
-A fast and friendly game for four or five players, which can be a lot of fun even when played quite badly. It is one of the most popular games in eastern Austria. There is a lot of variation in the rules - in fact it would probably be hard to find two groups of players who play exactly the same way. In the following description we have therefore tried to include a typical choice of features. In future we may add further pages giving other variations. For Matthew Macfadyen's advice on how to play Königrufen, see Königrufen - remarks on skilful play.
+Un jeu rapide et convivial pour quatre ou cinq joueurs, qui peut être très amusant même quand on y joue assez mal. C'est l'un des jeux les plus populaires de l'est de l'Autriche. Les règles varient considérablement — il serait d'ailleurs probablement difficile de trouver deux groupes de joueurs qui jouent exactement de la même manière. Dans la description suivante, nous avons donc essayé d'inclure un choix typique de caractéristiques. À l'avenir, nous pourrons ajouter d'autres pages décrivant d'autres variantes. Pour les conseils de Matthew Macfadyen sur la façon de jouer au Königrufen, voir Königrufen — remarques sur le jeu habile.
 
-Technically Königrufen is a point trick game with bidding. The cards have values; players bid to decide who will be declarer; then tricks are played and the declarer's side wins if they take
-more than half the card points. In some contracts declarer can choose a partner by specifying a king - hence the name of the game which means "Call the King".
+Techniquement, Königrufen est un jeu de levées avec enchères et valeur des cartes. Les cartes ont des valeurs ; les joueurs enchérissent pour décider qui sera le preneur ; puis les levées sont jouées et le côté du preneur gagne s'il prend
+plus de la moitié des points de cartes. Dans certains contrats, le preneur peut choisir un partenaire en désignant un roi — d'où le nom du jeu qui signifie « Appeler le Roi ».
 
-That is the basic game, but a lot of extra variety has been
-added. There are other possible contracts with different
-objectives, and players can earn bonuses for feats 
-achieved during the game, such as winning the last trick with the 
-lowest trump. Such feats can be announced in advance for extra points.
+C'est le jeu de base, mais beaucoup de variété supplémentaire a été
+ajoutée. Il existe d'autres contrats possibles avec des
+objectifs différents, et les joueurs peuvent gagner des bonus pour des exploits
+réalisés pendant le jeu, comme gagner la dernière levée avec
+le plus faible atout. Ces exploits peuvent être annoncés à l'avance pour gagner des points supplémentaires.
 
-The description on this page was written by Matthew Macfadyen and Kirsty Healey and revised by John McLeod. 
+La description de cette page a été rédigée par Matthew Macfadyen et Kirsty Healey et révisée par John McLeod.
 
-## Cards
+## Cartes
 
-Five suits; 8 each of Clubs, Spades, Hearts and Diamonds; and 22 trumps (tarocks), of which the highest, the *Sküs*, looks rather like a Joker. The second highest trump (XXI) is called the *Mond* and the lowest trump (I) is called the *Pagat*. The black suits rank from highest to lowest: King, Queen, Knight, Jack, 10, 9, 8, 7. The red suits rank from highest to lowest: King, Queen, Knight, Jack 1, 2, 3, 4.
+Cinq couleurs ; 8 chacune de trèfles, piques, cœurs et carreaux ; et 22 atouts (tarocks), dont le plus élevé, le *Sküs*, ressemble à un Joker. Le deuxième atout le plus élevé (XXI) est appelé le *Mond* et l'atout le plus bas (I) est appelé le *Pagat*. Les couleurs noires se classent du plus fort au plus faible : Roi, Dame, Cavalier, Valet, 10, 9, 8, 7. Les couleurs rouges se classent du plus fort au plus faible : Roi, Dame, Cavalier, Valet, As, 2, 3, 4.
 
-**Identification**: the king has a crown, the knight has a horse, the queen is female and the jack is the other one.
+**Identification** : le roi a une couronne, le cavalier a un cheval, la dame est féminine et le valet est l'autre.
 
-Cards are worth points as follows:
+Les cartes valent des points comme suit :
 
-| Kings | 5 each |
-| Sküs, XXI (Mond), and I (Pagat) | 5 each |
-| Queens | 4 each |
-| Knights | 3 each |
-| Jacks | 2 each |
-| All other cards | 1 each |
+| Rois | 5 chacun |
+| Sküs, XXI (Mond) et I (Pagat) | 5 chacun |
+| Dames | 4 chacun |
+| Cavaliers | 3 chacun |
+| Valets | 2 chacun |
+| Toutes les autres cartes | 1 chacune |
 
-The process for adding up the cards is slightly odd: for each set of three cards you add up the values of the cards and subtract 2. If at the end of your counting you have one or two odd cards
-left over they are worth one point less than their total value. (So 2 or 3 one-point cards are worth 1 point, but a single one-point card is worth nothing). The total value of the pack comes to 70 card points. See the counting points in Tarot games page for further explanation of this.
+Le processus de comptage des cartes est un peu particulier : pour chaque ensemble de trois cartes, on additionne les valeurs et on soustrait 2. S'il reste à la fin une ou deux cartes impaires,
+elles valent un point de moins que leur valeur totale. (Ainsi, 2 ou 3 cartes à un point valent 1 point, mais une seule carte à un point ne vaut rien). La valeur totale du jeu s'élève à 70 points de cartes. Voir la page sur le comptage des points dans les jeux de tarot pour plus d'explications.
 
-In a positive contract, the declarer's side wins if they make at least 36 of the 70 points.
+Dans un contrat positif, le côté du preneur gagne s'il obtient au moins 36 des 70 points.
 
-## The Contracts, a summary
+## Les Contrats, un résumé
 
-These are listed in ascending order, with a possible scoring schedule. Each group will tend to have their own different version of this. Further
-details of the contracts are given later.
+Ceux-ci sont listés par ordre croissant, avec un barème de points possible. Chaque groupe aura tendance à avoir sa propre version de ce tableau. D'autres
+détails sur les contrats sont donnés plus loin.
 
-The first three are only available to Forehand (the player to
-dealer's right), in the case that "Mein Spiel" is passed
-out:
+Les trois premiers ne sont disponibles que pour l'Avant-main (le joueur à
+la droite du donneur), dans le cas où « Mein Spiel » serait
+passé :
 
-| Name | score | description |
-| Rufer | 1 | call a king; 3 cards from talon; take 36+ points |
-| Trischaken | 1 | avoid taking card points |
-| Sechserdreier | +2, -4 | play alone; 6 cards from talon; take 36+ points |
+| Nom | points | description |
+| Rufer | 1 | appeler un roi ; 3 cartes du talon ; prendre 36+ points |
+| Trischaken | 1 | éviter de prendre des points de cartes |
+| Sechserdreier | +2, -4 | jouer seul ; 6 cartes du talon ; prendre 36+ points |
 
-The following contracts are available to all players: 
+Les contrats suivants sont disponibles pour tous les joueurs :
 
-| Piccolo | 2 | play alone; win one trick exactly |
-| Zwiccolo | 2 | play alone; win two tricks exactly |
-| Solo | 2 | call a king; 0 cards from talon; take 36+ points |
-| Bettel | 3 | play alone; lose every trick |
-| Besserrufer | 1+bonus | like rufer but must announce a bird |
-| Farbendreier | 3 | play alone; 3 cards from talon; tarocks don't win |
-| Dreier | 4 | play alone; 3 cards from talon; take 36+ points |
-| Piccolo Ouvert | 5 | play alone; win one trick; all cards exposed |
-| Bettel Ouvert | 6 | play alone; lose every trick; all cards exposed |
-| Farbensolo | 6 | play alone; 0 cards from talon; tarocks don't win |
-| Solodreier | 8 | play alone; 0 cards from talon; take 36+ points |
+| Piccolo | 2 | jouer seul ; gagner exactement une levée |
+| Zwiccolo | 2 | jouer seul ; gagner exactement deux levées |
+| Solo | 2 | appeler un roi ; 0 carte du talon ; prendre 36+ points |
+| Bettel | 3 | jouer seul ; perdre toutes les levées |
+| Besserrufer | 1+bonus | comme rufer mais doit annoncer un oiseau |
+| Farbendreier | 3 | jouer seul ; 3 cartes du talon ; les tarocks ne gagnent pas |
+| Dreier | 4 | jouer seul ; 3 cartes du talon ; prendre 36+ points |
+| Piccolo Ouvert | 5 | jouer seul ; gagner une levée ; toutes les cartes exposées |
+| Bettel Ouvert | 6 | jouer seul ; perdre toutes les levées ; toutes les cartes exposées |
+| Farbensolo | 6 | jouer seul ; 0 carte du talon ; les tarocks ne gagnent pas |
+| Solodreier | 8 | jouer seul ; 0 carte du talon ; prendre 36+ points |
 
-The scores above are in game points - the amount of money you
-win if your contract is successful. These are not to be confused
-with the cards points in your tricks which you count to find out
-whether you have made your (positive) contract.
+Les scores ci-dessus sont en points de jeu — le montant d'argent que vous
+gagnez si votre contrat est réussi. Il ne faut pas les confondre
+avec les points de cartes dans vos levées que vous comptez pour savoir
+si vous avez réussi votre contrat (positif).
 
-## Bonuses
+## Bonus
 
-These are additional ways of winning game points in positive contracts.
-Further details of bonuses are given
-later.
+Ce sont des moyens supplémentaires de gagner des points de jeu dans les contrats positifs.
+D'autres détails sur les bonus sont donnés
+plus loin.
 
-| Bonus | unannounced | announced | description |
-| Trull | 1 | 2 | take S, XXI and I in tricks |
-| 4 kings | 1 | 2 | take all 4 kings in tricks |
-| Called king captured | 1 |   | ...by declarer's opponents |
-| Mondfang | 1 |   | capture opponent's XXI |
-| Sküsfang | 2 |   | capture opponent's Sküs |
-| Pagat Ultimo* | 1 | 2 | win last trick with the I |
-| Uhu* | 2 | 4 | win 2nd last trick with II |
-| Kakadu* | 3 | 6 | win 3rd last trick with III |
-| Marabu* | 4 | 8 | win 4th last trick with IIII |
-| King ultimo | 1 | 2 | win called king in last trick |
-| Valat | 4× game score | 8× game score | win every trick |
+| Bonus | non annoncé | annoncé | description |
+| Trull | 1 | 2 | prendre S, XXI et I dans les levées |
+| 4 rois | 1 | 2 | prendre les 4 rois dans les levées |
+| Roi appelé capturé | 1 |   | ...par les adversaires du preneur |
+| Mondfang | 1 |   | capturer le XXI d'un adversaire |
+| Sküsfang | 2 |   | capturer le Sküs d'un adversaire |
+| Pagat Ultimo* | 1 | 2 | gagner la dernière levée avec le I |
+| Uhu* | 2 | 4 | gagner l'avant-dernière levée avec le II |
+| Kakadu* | 3 | 6 | gagner la 3e levée en partant de la fin avec le III |
+| Marabu* | 4 | 8 | gagner la 4e levée en partant de la fin avec le IIII |
+| Roi ultimo | 1 | 2 | jouer le roi appelé à la dernière levée |
+| Valat | 4× score du jeu | 8× score du jeu | gagner toutes les levées |
 
-Notice that most bonuses can be announced in advance, and are
-then worth twice as much. All bonuses score double the amounts
-given above if the contract is Solo or Solodreier.
+Notez que la plupart des bonus peuvent être annoncés à l'avance, et valent
+alors deux fois plus. Tous les bonus sont doublés
+si le contrat est Solo ou Solodreier.
 
-*The trumps I, II, III and IIII, and the bonuses for winning particular
-tricks with them are called **birds** (*Vogerl*). 
+*Les atouts I, II, III et IIII, et les bonus pour gagner une
+levée particulière avec eux sont appelés **oiseaux** (*Vogerl*).
 
-Scores for the game and bonuses are independent of each other,
-so that a player may have conflicting objectives during a hand.
-It is quite possible to win the game and yet lose money because
-the bonuses were worth more than the game.
+Les scores du jeu et des bonus sont indépendants les uns des autres,
+de sorte qu'un joueur peut avoir des objectifs contradictoires pendant une main.
+Il est tout à fait possible de gagner le jeu et pourtant perdre de l'argent parce que
+les bonus valaient plus que le jeu.
 
-## Playing Procedure
+## Déroulement du jeu
 
-The game is played anticlockwise. The first dealer is selected
-randomly, and the turn to deal rotates anticlockwise after each hand.
-There are only four active players in each deal. If there are five
-players at the table, the dealer deals no cards to herself and takes
-no part in the hand.
+Le jeu se joue dans le sens inverse des aiguilles d'une montre. Le premier donneur est choisi
+au hasard, et le tour de donne tourne dans le sens inverse des aiguilles d'une montre après chaque main.
+Il n'y a que quatre joueurs actifs dans chaque donne. S'il y a cinq
+joueurs à la table, le donneur ne se distribue aucune carte et ne participe
+pas à la main.
 
-The sequence of events on each deal is as follows:
+La séquence des événements pour chaque donne est la suivante :
 
-### Deal
+### Donne
 
-Dealer shuffles, gives the cards to the player on her left to
-cut, then deals in packets of six cards, starting on her right,
-one packet to each player, then one into the middle of the table
-(the 'talon') then finally another packet of six cards to each player. 
-If there are five players, the dealer deals to the other four players only.
+Le donneur bat les cartes, les donne au joueur à sa gauche pour
+couper, puis distribue en paquets de six cartes, commençant par sa droite,
+un paquet à chaque joueur, puis un au milieu de la table
+(le « talon »), puis enfin un autre paquet de six cartes à chaque joueur.
+S'il y a cinq joueurs, le donneur ne distribue qu'aux quatre autres joueurs.
 
-Instead of cutting, the player to dealer's left is allowed to
-"knock", or tap the pack of cards. They must then be
-dealt as follows: the first six cards to the talon, then four
-packets of 12 cards. Each player in anticlockwise rotation, starting
-with the player to dealer's right, chooses whether they will have
-the first, second, third or fourth packet.
+Au lieu de couper, le joueur à la gauche du donneur est autorisé à
+« frapper » ou taper le paquet de cartes. Elles doivent alors être
+distribuées ainsi : les six premières au talon, puis quatre
+paquets de 12 cartes. Chaque joueur dans le sens inverse des aiguilles d'une montre, commençant
+par le joueur à la droite du donneur, choisit s'il aura
+le premier, deuxième, troisième ou quatrième paquet.
 
-### Bidding
+### Enchères
 
-The auction then starts. The player to dealer's right ("forehand")
-may reserve her bid by saying "Mein Spiel". Each player
-in turn after that must either bid by naming a contract or pass.
-Once having passed a player may not re-enter the auction. The
-auction continues until three players have passed consecutively,
-and the last player to have bid becomes declarer. If the only
-bid was "Mein Spiel" the first player now names any
-contract - this is the only case in which the top three contracts
-in the list can be played.
+Les enchères commencent alors. Le joueur à la droite du donneur (« avant-main »)
+peut réserver son enchère en disant « Mein Spiel ». Chaque joueur
+ensuite doit soit enchérir en nommant un contrat soit passer.
+Une fois passé, un joueur ne peut pas revenir aux enchères. Les
+enchères continuent jusqu'à ce que trois joueurs aient passé consécutivement,
+et le dernier à avoir enchéri devient le preneur. Si la seule
+enchère était « Mein Spiel », le premier joueur nomme alors n'importe quel
+contrat — c'est le seul cas où les trois premiers contrats
+de la liste peuvent être joués.
 
-During the bidding there is an order of priority, starting with
-forehand (highest) and continuing anticlockwise round the table
-to dealer (lowest). When bidding a contract, if you have lower
-priority than the previous bidder you must bid a higher contract
-or pass,
-but if you have higher priority than the previous bidder it is
-sufficient to bid an equal or higher contract. 
+Pendant les enchères, il y a un ordre de priorité, commençant par
+l'avant-main (la plus haute) et continuant dans le sens inverse des aiguilles d'une montre
+jusqu'au donneur (la plus basse). Lors d'une enchère, si vous avez une priorité
+inférieure au précédent enchérisseur, vous devez enchérir un contrat supérieur
+ou passer,
+mais si vous avez une priorité supérieure, il suffit
+d'enchérir un contrat égal ou supérieur.
 
-**Example**: (the players in anticlockwise order
-are A (forehand), B, C and D) A says "mein Spiel"; B
-bids "Solo", C passes. Now if D wants to bid, the minimum
-bid is "Bettel", because B has priority over D. If D
-passes then A is allowed to bid "Solo", which overcalls
-B's Solo, because A has priority over B.
+**Exemple** : (les joueurs dans le sens inverse des aiguilles d'une montre
+sont A (avant-main), B, C et D) A dit « mein Spiel » ; B
+enchérit « Solo », C passe. Maintenant si D veut enchérir, l'enchère minimum
+est « Bettel », car B a priorité sur D. Si D
+passe, alors A est autorisé à enchérir « Solo », qui surclasse
+le Solo de B, car A a priorité sur B.
 
-### Calling a King
+### Appel d'un Roi
 
-If the contract is one in which declarer gets a partner, declarer
-now names a suit, the holder of the king of that suit becomes
-declarer's partner **but does not tell anyone who they are**.
-The partnerships are sometimes not discovered until quite late
-in the hand.
+Si le contrat est un contrat où le preneur obtient un partenaire, le preneur
+nomme maintenant une couleur, le détenteur du roi de cette couleur devient
+le partenaire du preneur **mais ne dit à personne qui il est**.
+Les équipes ne sont parfois découvertes que tard
+dans la main.
 
-It is legal to call your own king. In this case you play on your
-own against the other 3 players in partnership, but they will
-not realise at first that they are all on the same side. You also
-play alone if the called king happens to be in the talon.
+Il est autorisé d'appeler son propre roi. Dans ce cas, vous jouez seul
+contre les 3 autres joueurs en équipe, mais ils ne
+s'en rendront pas compte au début. Vous jouez aussi
+seul si le roi appelé se trouve être dans le talon.
 
-If a declarer entitled to call a king for a partner holds three
-kings in her hand, she may call "The fourth king" without
-naming its suit. This is often a good idea, as it informs the called partner that the bid is probably based on kings rather than trump strength. 
+Si un preneur ayant le droit d'appeler un roi pour partenaire détient trois
+rois dans sa main, il peut appeler « Le quatrième roi » sans
+nommer sa couleur. C'est souvent une bonne idée, car cela informe le partenaire appelé que l'enchère est probablement basée sur des rois plutôt que sur la force des atouts.
 
-If as declarer you have all four kings and find yourself playing
-a contract in which you are allowed to call a king, you have no
-option but to call yourself. Incidentally, you are not allowed
-to try to confuse matters by calling "the fourth king"
-in this case.
+Si en tant que preneur vous avez les quatre rois et que vous jouez
+un contrat où vous êtes autorisé à appeler un roi, vous n'avez
+pas d'autre choix que de vous appeler vous-même. Incidemment, il n'est pas permis
+d'essayer de semer la confusion en appelant « le quatrième roi »
+dans ce cas.
 
-### Exchanging cards with the talon
+### Échange de cartes avec le talon
 
-When declarer is entitled to exchange three cards with the talon,
-the talon is now exposed in two sets of three cards. Declarer
-chooses one of the sets, and gives the other to her opponents
-(actually they are put in a separate pile from the opponents'
-tricks, since some of the players do not yet know who is on which
-side). After taking the chosen three cards into her hand, declarer
-then discards three cards face down into her trick pile. Kings
-and Trull cards (Sküs, XXI, I) may never be discarded; other trumps
-may only be discarded if there is no choice, and they should be
-discarded face up.
+Quand le preneur a le droit d'échanger trois cartes avec le talon,
+le talon est exposé en deux ensembles de trois cartes. Le preneur
+choisit un des ensembles, et donne l'autre à ses adversaires
+(en fait ils sont placés dans un tas séparé des levées des adversaires,
+car certains joueurs ne savent pas encore qui est dans quel camp).
+Après avoir pris les trois cartes choisies dans sa main, le preneur
+écarte trois cartes face contre table dans son tas de levées. Les rois
+et les cartes du Trull (Sküs, XXI, I) ne peuvent jamais être écartés ; les autres atouts
+ne peuvent être écartés que s'il n'y a pas d'autre choix, et doivent être
+écartés face visible.
 
-Exception: Farbendreier. As usual Kings
-and Trull cards (Sküs, XXI, I) may never be discarded. Trumps II-XX may be discarded freely, but suit cards must not be discarded unless the declarer has no choice, and must be discarded face up when it is necessary (declarer having no trumps left in hand other than Trull cards).
+Exception : Farbendreier. Comme d'habitude, les rois
+et les cartes du Trull (Sküs, XXI, I) ne peuvent jamais être écartés. Les atouts II-XX peuvent être écartés librement, mais les cartes de couleur ne doivent pas être écartées sauf si le preneur n'a pas le choix, et doivent être écartées face visible quand cela est nécessaire (le preneur n'ayant plus d'atouts en main à part les cartes du Trull).
 
-### Announcements
+### Annonces
 
-There is now a round of announcements. Beginning with the declarer,
-each player can pass or make one or more announcements on behalf
-of her side. An announcement is a statement that you are going
-for some bonus, or a *kontra* of something said by the other side.
-The round of announcements continues until three players have
-passed consecutively.
+Il y a maintenant un tour d'annonces. En commençant par le preneur,
+chaque joueur peut passer ou faire une ou plusieurs annonces au nom
+de son côté. Une annonce est une déclaration que vous visez
+un bonus, ou un *kontra* sur quelque chose dit par l'autre côté.
+Le tour d'annonces continue jusqu'à ce que trois joueurs aient
+passé consécutivement.
 
 #### Kontra
 
-During the round of announcements, a member of the defending side
-may double the score for the game or for any announced bonuses
-(independently of each other) by saying for example "kontra
-the game" or "kontra the king ultimo". After this
-either member of the side which originally made the announcement
-may say "rekontra" to that bonus, in which case the
-opponents can double again with "subkontra". Some players
-allow the doubling to continue further with "hirschkontra"
-and "mordkontra", by which time the original score for
-that feature has been multiplied by 64 (announcement and five
+Pendant le tour d'annonces, un membre du côté défenseur
+peut doubler le score du jeu ou de tout bonus annoncé
+(indépendamment) en disant par exemple « kontra
+au jeu » ou « kontra au roi ultimo ». Après cela,
+n'importe quel membre du côté qui a fait l'annonce originale
+peut dire « rekontra » à ce bonus, auquel cas
+les adversaires peuvent doubler à nouveau avec « subkontra ». Certains joueurs
+permettent de continuer à doubler avec « hirschkontra »
+et « mordkontra », moment où le score original
+pour cet élément a été multiplié par 64 (annonce et cinq
 doubles).
 
-A player may only make a bonus announcement if they are declarer's
-partner or if it is already known which side they are on. (e.g.
-declarer's partner holding the Sküs and the XXI may announce
-trull and this demonstrates that he is her partner; alternatively
-a defender holding both Sküs and XXI may be pretty sure of
-making the trull, but may only announce it if she also makes some
-kontra, for example "kontra the pagat ultimo; trull"
-might be appropriate).
+Un joueur ne peut faire une annonce de bonus que s'il est le partenaire du preneur
+ou si son camp est déjà connu. (par ex.
+le partenaire du preneur détenant le Sküs et le XXI peut annoncer
+le trull, ce qui démontre qu'il est son partenaire ; alternatively
+un défenseur détenant le Sküs et le XXI peut être assez sûr de
+réaliser le trull, mais ne peut l'annoncer que s'il fait aussi un
+kontra, par exemple « kontra au pagat ultimo ; trull »
+pourrait être approprié).
 
-### The Play
+### Le Jeu
 
-In positive contracts (including Farbensolo and Farbendreier) the player to dealer's
-right (Forehand) leads to the first trick no matter who is declarer.
-In negative contracts and Farbensolo,
-Declarer leads to the first trick.
+Dans les contrats positifs (y compris Farbensolo et Farbendreier), le joueur à la droite du donneur
+(Avant-main) mène la première levée quel que soit le preneur.
+Dans les contrats négatifs et Farbensolo,
+le preneur mène la première levée.
 
-You must follow suit if you can. If you cannot follow suit **you
-must play a trump**. The trick is won by the highest card
-played of the suit led, unless it contains a trump in which case
-the highest trump wins (exceptions: Farbensolo and Farbendreier).
+Vous devez suivre la couleur si vous le pouvez. Si vous ne pouvez pas suivre, **vous
+devez jouer un atout**. La levée est gagnée par la carte la plus forte
+de la couleur menée, sauf si elle contient un atout auquel cas
+l'atout le plus élevé gagne (exceptions : Farbensolo et Farbendreier).
 
-In Farbensolo and Farbendreier players are not allowed to lead trumps unless they have nothing but trumps in their hand. As usual players must follow suit if they can and if not they must play a trump. However the trick is won by the highest card of the suit led, ignoring trumps. If trumps are led, the player on lead having nothing else, the trick is won by the highest trump in it.
+Dans Farbensolo et Farbendreier, les joueurs ne sont pas autorisés à mener des atouts sauf s'ils n'ont plus que des atouts en main. Comme d'habitude, les joueurs doivent suivre la couleur s'ils le peuvent et s'ils ne le peuvent pas, ils doivent jouer un atout. Cependant, la levée est gagnée par la carte la plus forte de la couleur menée, ignorant les atouts. Si des atouts sont menés, le joueur qui mène n'ayant rien d'autre, la levée est gagnée par l'atout le plus élevé.
 
-**Additional rules for negative contracts**
+**Règles supplémentaires pour les contrats négatifs**
 (Trischaken, Piccolo, Zwiccolo, Bettel, Piccolo Ouvert, Bettel
-Ouvert): You must beat the highest card on the table if possible.
-You are not allowed
-to play the Pagat until it is your only trump.
+Ouvert) : Vous devez battre la carte la plus forte sur la table si possible.
+Il est interdit
+de jouer le Pagat tant qu'il n'est pas votre seul atout.
 
-**Optional rule for all contracts - The
-Emperor trick: **If the three trull cards, the Sküs,
-the XXI (Mond) and the I (Pagat) are all played to the same trick,
-then that trick is won by the Pagat. The bonus for capturing the
-Sküs only applies if the Sküs is captured by an opponent.
+**Règle facultative pour tous les contrats — Le
+tour de l'Empereur :** Si les trois cartes du trull, le Sküs,
+le XXI (Mond) et le I (Pagat) sont toutes jouées à la même levée,
+cette levée est gagnée par le Pagat. Le bonus pour la capture
+du Sküs ne s'applique que si le Sküs est capturé par un adversaire.
 
-### The Scoring
+### Le Marquage des points
 
-The hand is counted and scored. The scoring system is designed
-for people who score by pushing money across the table at the
-end of each hand. In contracts with two players on each side,
-each player on the losing team pays one of the players on the
-winning team the game score. When one player plays against the
-other three, she is paid by (or pays) the score to each of them,
-so the value to declarer of such contracts is three times as much.
+La main est comptée et marquée. Le système de marquage est conçu
+pour les joueurs qui règlent en argent à table à la
+fin de chaque main. Dans les contrats avec deux joueurs de chaque côté,
+chaque joueur de l'équipe perdante paie un joueur de l'équipe
+gagnante le score du jeu. Quand un joueur joue contre les
+trois autres, il est payé par (ou paie) le score à chacun d'eux,
+de sorte que la valeur pour le preneur de tels contrats est trois fois supérieure.
 
-Solidarity of partnerships applies throughout. If a player wins
-(or loses) a game or bonus, all players of that partnership win
-(or lose) equally.
+La solidarité des équipes s'applique tout au long. Si un joueur gagne
+(ou perd) un jeu ou un bonus, tous les joueurs de cette équipe gagnent
+(ou perdent) également.
 
-## Detailed Descriptions of the Contracts and
-Bonuses
+## Descriptions détaillées des contrats et bonus
 
-### The Positive Contracts
+### Les contrats positifs
 
-In all these contracts, declarer's side has to take at least 36
-card points in their tricks plus their part of the talon to win the
-game. 
+Dans tous ces contrats, le côté du preneur doit prendre au moins 36
+points de cartes dans ses levées plus sa part du talon pour gagner le
+jeu.
 
-**Rufer: **
-Declarer chooses a partner by calling a king, and gets to change three cards with
-the the talon.
-**Sechserdreier** 
-Declarer plays alone but gets to draw all six cards from the
-talon, without showing them to the other players, and declarer's
-six discards all go into her tricks. Declarer scores two points
-if successful, but loses four if she fails to make the game.
-**Solo**:
-Declarer chooses a partner by calling a king, but does not change cards with the
-talon. The 6 cards of the talon are put aside unseen and added to the 
-defenders' tricks at the end of the hand, unless it turns out that
-the called king is in the talon. If the king is in the talon the declarer 
-is playing alone against all three players but in compensation the 
-talon is added to the declarer's tricks.
-All bonuses count double in a Solo.
+**Rufer :**
+Le preneur choisit un partenaire en appelant un roi, et échange trois cartes avec le talon.
+**Sechserdreier**
+Le preneur joue seul mais prend les six cartes du
+talon, sans les montrer aux autres joueurs, et les six écarts du preneur vont tous dans ses levées. Le preneur marque deux points
+en cas de réussite, mais en perd quatre s'il échoue.
+**Solo :**
+Le preneur choisit un partenaire en appelant un roi, mais n'échange pas de cartes avec le
+talon. Les 6 cartes du talon sont mises de côté sans être regardées et ajoutées aux
+levées des défenseurs à la fin de la main, sauf s'il s'avère que
+le roi appelé est dans le talon. Si le roi est dans le talon, le preneur
+joue seul contre les trois autres joueurs mais en compensation,
+le talon est ajouté aux levées du preneur.
+Tous les bonus comptent double dans un Solo.
 
-**Besserrufer**:
+**Besserrufer :**
 
-Declarer chooses a partner by calling a king, and changes three 
-cards with the talon. At the start of the round of announcements, 
-declarer is obliged
-to announce at least one of Pagat ultimo, Uhu, Kakadu or Marabu
-("the birds"). If the declarer in a Besser Rufer finds
-the called king in the talon, she may choose to play on alone or 
-to give up the hand for 3 points (equivalent losing the game (1) and 
-the pagat (2) without kontras or extra bonuses).
-**Dreier**:
-Declarer plays alone against the other three players, and gets to
-change three cards with the talon.
-**Solodreier:** 
+Le preneur choisit un partenaire en appelant un roi, et échange trois
+cartes avec le talon. Au début du tour d'annonces,
+le preneur est obligé
+d'annoncer au moins l'un des suivants : Pagat ultimo, Uhu, Kakadu ou Marabu
+(« les oiseaux »). Si le preneur d'un Besser Rufer trouve
+le roi appelé dans le talon, il peut choisir de jouer seul ou
+abandonner la main pour 3 points (équivalent à perdre le jeu (1) et
+le pagat (2) sans kontras ni bonus supplémentaires).
+**Dreier :**
+Le preneur joue seul contre les trois autres joueurs, et échange
+trois cartes avec le talon.
+**Solodreier :**
 
-Declarer plays alone and the talon goes unseen to the opponents'
-tricks. All bonuses count double in a Solodreier.
+Le preneur joue seul et le talon va sans être regardé aux levées des adversaires.
+Tous les bonus comptent double dans un Solodreier.
 
 ### Farbensolo
 
-Declarer plays alone against the other three players with the
-object of winning at least 36 points in tricks, but the trumps
-function as an ordinary suit. As usual the player to dealer's right leads to the first trick. A player unable to follow suit is still obliged
-to play a trump, but the trumps do not win - the trick is won
-by the highest card of the suit led. It is illegal
-to lead trumps until you hold nothing else. When a trump is led,
-players must follow with trumps if possible and the highest trump
-wins.
+Le preneur joue seul contre les trois autres joueurs avec
+l'objectif de gagner au moins 36 points en levées, mais les atouts
+fonctionnent comme une couleur ordinaire. Comme d'habitude, le joueur à la droite du donneur mène la première levée. Un joueur incapable de suivre la couleur est quand même obligé
+de jouer un atout, mais les atouts ne gagnent pas — la levée est gagnée
+par la carte la plus forte de la couleur menée. Il est interdit
+de mener des atouts tant qu'il vous reste autre chose. Quand un atout est mené,
+les joueurs doivent suivre avec des atouts s'ils le peuvent et l'atout le plus élevé
+gagne.
 
-In Farbensolo, all six cards of the talon go unseen to
-the opponents' tricks. The only bonus available is for making
-valat.
+Dans Farbensolo, les six cartes du talon vont sans être regardées aux
+levées des adversaires. Le seul bonus disponible est le valat.
 
-**Farbendreier** is similar to Farbensolo except that the talon is exposed, the declarer takes one half of it and discards three cards. The declarer must so far as possible discard one-point trumps. As usual 5-point cards callot be discarded. If the declarer has to discard suit cards they must be discarded face up , and declarer's remaining hand will have nothing but suit cards and cards of the Trull.
+**Farbendreier** est similaire à Farbensolo sauf que le talon est exposé, le preneur prend la moitié et écarte trois cartes. Le preneur doit autant que possible écarter des atouts à un point. Comme d'habitude, les cartes à 5 points ne peuvent pas être écartées. Si le preneur doit écarter des cartes de couleur, elles doivent être écartées face visible, et la main restante du preneur ne contiendra que des cartes de couleur et les cartes du Trull.
 
-### The Negative Contracts
+### Les contrats négatifs
 
-**Piccolo**:
+**Piccolo :**
 
-The declarer plays alone and must take exactly one trick to win. **Zwiccolo**:
-The declarer plays alone and must take exactly two 
-tricks to win (this contract is considered degenerate
-and not allowed by some circles of players).
-**Bettel**:
-Declarer playing alone must lose every trick to win the game.
-**Bettel Ouvert**:
-A contract to make no tricks, but with all four hands exposed
-as soon as a card has been led to the second trick.
-**Piccolo Ouvert**:
-Exactly one trick, with all hands exposed as soon as a card
-has been led to the second trick.
-**Trischaken **
+Le preneur joue seul et doit gagner exactement une levée. **Zwiccolo :**
+Le preneur joue seul et doit gagner exactement deux
+levées pour gagner (ce contrat est considéré comme dégénéré
+et n'est pas autorisé par certains groupes de joueurs).
+**Bettel :**
+Le preneur jouant seul doit perdre toutes les levées pour gagner.
+**Bettel Ouvert :**
+Un contrat pour ne faire aucune levée, avec les quatre mains exposées
+dès qu'une carte a été menée à la deuxième levée.
+**Piccolo Ouvert :**
+Exactement une levée, avec toutes les mains exposées dès qu'une carte
+a été menée à la deuxième levée.
+**Trischaken**
 
-The four players play as individuals. The object is to take
-as few points as possible. At the end of each of the first six trick, the top card from the talon is turned up and added to the trick but has no effect on who wins the trick. The two players who take most card points in tricks pay one point 
-to the two who take least. If any player takes no tricks they
-are paid 2 by all three others in addition to this, and if any player
-takes 36 or more points (known as Bürgermeister) they pay 2 to all three in addition (Trischaken
-is meant to be a sort of punishment for not bidding meted out
-to the player with the best hand - the word "trischaken"
-is Viennese dialect for beating up or mugging).
+Les quatre joueurs jouent en individuels. L'objectif est de prendre
+le moins de points possible. À la fin de chacune des six premières levées, la carte supérieure du talon est retournée et ajoutée à la levée mais n'affecte pas qui gagne la levée. Les deux joueurs qui prennent le plus de points de cartes en paient un
+aux deux qui en prennent le moins. Si un joueur ne prend aucune levée, il
+est payé 2 par les trois autres en plus de cela, et si un joueur
+prend 36 points ou plus (appelé Bürgermeister), il paie 2 aux trois autres en plus (Trischaken
+est censé être une sorte de punition pour ne pas avoir enchéri,
+infligée au joueur avec la meilleure main — le mot « trischaken »
+est un dialecte viennois pour « tabasser » ou « mugguer »).
 
-In negative contracts other than Trischaken the talon is not used, and no one may look at it until the end of the play. Declarer leads to the first trick,
-rather than the player on dealer's right. The rules of play are different
-in negative contracts: when it is your turn to play, you are forced
-to beat the cards already played if you can. It is illegal to play the Pagat unless it is your last trump.
+Dans les contrats négatifs autres que Trischaken, le talon n'est pas utilisé, et personne ne peut le regarder jusqu'à la fin du jeu. Le preneur mène la première levée,
+plutôt que le joueur à la droite du donneur. Les règles de jeu sont différentes
+dans les contrats négatifs : quand c'est votre tour de jouer, vous êtes forcé
+de battre les cartes déjà jouées si vous le pouvez. Il est interdit de jouer le Pagat sauf s'il est votre dernier atout.
 
-### Bonuses
+### Bonus
 
-These are only available in positive contracts.
+Ceux-ci ne sont disponibles que dans les contrats positifs.
 
-**Trull** 
-Taking all three of the Sküs, XXI and I in your side's
-tricks plus your part of the talon.
-**4 Kings** 
-Taking all 4 kings in your side's tricks + talon cards.
-**Mond Fang** 
-Capturing an opponents' XXI with the Sküs
-**Pagat Ultimo** 
-Winning the last trick with the I
-**Uhu **
-Winning the penultimate trick with the II
-**Kakadu *** 
-Winning the 3rd last trick with the III
+**Trull**
+Prendre les trois cartes Sküs, XXI et I dans les levées de votre côté
+plus votre part du talon.
+**4 Rois**
+Prendre les 4 rois dans les levées de votre côté + cartes du talon.
+**Mond Fang**
+Capturer le XXI d'un adversaire avec le Sküs.
+**Pagat Ultimo**
+Gagner la dernière levée avec le I.
+**Uhu**
+Gagner l'avant-dernière levée avec le II.
+**Kakadu**
+Gagner la 3e levée en partant de la fin avec le III.
 
-**Quapil *** 
-Winning the 4th last trick with the IIII
-**King Ultimo** 
-Playing the called king to the last trick, and having your
-side win the trick.
-**Valat** 
-Winning all the tricks. Any cards from the talon are surrendered
-to the winning side if valat is made - so trull and four kings
-are made even if one of those cards was in the rejected half of
-the talon.
+**Quapil**
+Gagner la 4e levée en partant de la fin avec le IIII.
+**Roi Ultimo**
+Jouer le roi appelé à la dernière levée, et que votre
+côté gagne la levée.
+**Valat**
+Gagner toutes les levées. Toutes les cartes du talon sont remises
+au côté gagnant si le valat est réalisé — le trull et les quatre rois
+sont donc faits même si l'une de ces cartes était dans la moitié rejetée du talon.
 
-Bonuses except that for valat are not available in Farbensolo.
+Les bonus autres que le valat ne sont pas disponibles dans Farbensolo.
 
-Most of these bonuses are worth double if you announce the intention
-to achieve them during the announcements phase (see summary table of bonuses), 
-but in this case
-failure to achieve the bonus scores minus. They are all scored
-independently of each other and of the game.
+La plupart de ces bonus valent le double si vous annoncez l'intention
+de les réaliser pendant la phase des annonces (voir le tableau récapitulatif des bonus), mais dans ce cas,
+l'échec du bonus donne un score négatif. Ils sont tous marqués
+indépendamment les uns des autres et du jeu.
 
-These bonus scores are doubled in Solo and Solodreier, on top
-of any doubles for being announced beforehand and for kontras.
+Ces scores de bonus sont doublés dans Solo et Solodreier, en plus
+des doublons pour l'annonce préalable et les kontras.
 
-### Notes on bonuses involving winning a particular trick with
-a particular card (Pagat Ultimo, Uhu, Kakadu, Quapil, King Ultimo)
+### Notes sur les bonus impliquant de gagner une levée particulière avec
+une carte particulière (Pagat Ultimo, Uhu, Kakadu, Quapil, Roi Ultimo)
 
-The small trumps (birds) have various alternative names, many of which are bird names - for example *Spatz* (sparrow) for the Pagat, *Pelikan*, *Kanari* or *Maus* for the III, *Wildsau* or *Marabu* for the IIII. Some groups do not award a bonus for the higher birds: IIII and sometimes III may not be recognised. On the other hand there are a few groups that give analogous bonuses for the V and even the VI.
+Les petits atouts (oiseaux) ont divers noms alternatifs, dont beaucoup sont des noms d'oiseaux — par exemple *Spatz* (moineau) pour le Pagat, *Pelikan*, *Kanari* ou *Maus* pour le III, *Wildsau* ou *Marabu* pour le IIII. Certains groupes ne donnent pas de bonus pour les oiseaux supérieurs : IIII et parfois III peuvent ne pas être reconnus. D'un autre côté, quelques groupes donnent des bonus analogues pour le V et même le VI.
 
-- For king ultimo it is good enough for either partner to win
-the last trick with the called king in it. For Pagat, Uhu, Kakadu
-and Quapil the card named actually has to win the trick - if not
-the bonus is lost, even if the trick is won by the partner of
-the person playing the card.
+- Pour le roi ultimo, il suffit que l'un ou l'autre partenaire gagne
+la dernière levée avec le roi appelé dedans. Pour le Pagat, l'Uhu, le Kakadu
+et le Quapil, la carte nommée doit elle-même gagner la levée — sinon
+le bonus est perdu, même si la levée est gagnée par le partenaire
+de la personne qui a joué la carte.
 
-- If the bonus is not announced, but you play one of these cards
-to the relevant trick, you are deemed to be attempting to get
-the bonus, and you score minus the appropriate bonus if the card
-fails to win the trick (or if your side fails to win the trick in the case of
-King Ultimo).
+- Si le bonus n'est pas annoncé, mais que vous jouez une de ces cartes
+à la levée concernée, vous êtes réputé tenter d'obtenir
+le bonus, et vous marquez moins le bonus approprié si la carte
+échoue à gagner la levée (ou si votre côté échoue à gagner la levée dans le cas du
+Roi Ultimo).
 
-- An announced bonus of this type can be lost in four ways:
+- Un bonus annoncé de ce type peut être perdu de quatre façons :
 
-- you play the card to the correct trick, but it fails to win
-(or in the case of the king, your partner also fails to win);
+- vous jouez la carte à la bonne levée, mais elle ne gagne pas
+(ou dans le cas du roi, votre partenaire non plus) ;
 
-- the card is forced out prematurely;
+- la carte est forcée prématurément ;
 
-- (for II, III and IIII) you keep the card until the correct
-trick but the player on lead leads a suit to which you have to
-follow, so you don't manage to play it;
+- (pour II, III et IIII) vous gardez la carte jusqu'à la bonne
+levée mais le joueur qui mène mène une couleur à laquelle vous devez
+suivre, et vous ne parvenez pas à la jouer ;
 
-- your side does not possess the card at all (stranger things
-have happened!).
+- votre côté ne possède pas la carte du tout (des choses plus étranges
+se sont produites !).
 
-- If the bonus is announced, the side making the announcement
-is obliged to keep the card until the relevant trick and play
-it then if possible. e.g. having announced Uhu the player must
-hold onto the II until the penultimate trick (if possible) and
-must play it to that trick if it is legal, even though it may
-have become clear that the II will not win the trick.
+- Si le bonus est annoncé, le côté qui fait l'annonce
+est obligé de garder la carte jusqu'à la levée concernée et de la jouer
+alors si possible. Par exemple, ayant annoncé l'Uhu, le joueur doit
+conserver le II jusqu'à l'avant-dernière levée (si possible) et
+doit le jouer à cette levée si c'est légal, même s'il est devenu
+clair que le II ne gagnera pas la levée.
 
-- If you have announced more than one bird and are forced to play one of them prematurely (having run out of other trumps to play), the highest one must be played first.
+- Si vous avez annoncé plus d'un oiseau et êtes forcé d'en jouer un prématurément (ayant épuisé vos autres atouts), le plus élevé doit être joué en premier.
 
-## Variations
+## Variantes
 
-The detailed rules of Königrufen vary from place to place and there are countless different versions. There are variations in the scores for the various contracts and bonuses, in which contracts and bonuses are allowed, and in the ranking order of contracts in the bidding. Markus Mair's website tarock.tirol has useful [summaries and comparisons of different rules sets](http://www.tarock.tirol/tarock-regeln.html), including those used in the various Austrian tournament series.
+Les règles détaillées du Königrufen varient d'un endroit à l'autre et il existe d'innombrables versions différentes. Il y a des variantes dans les scores des divers contrats et bonus, dans les contrats et bonus autorisés, et dans l'ordre de classement des contrats aux enchères. Le site de Markus Mair tarock.tirol propose des [résumés et comparaisons utiles de différents jeux de règles](http://www.tarock.tirol/tarock-regeln.html), y compris ceux utilisés dans les diverses séries de tournois autrichiens.
 
-**Sechserdreier. **A variant is becoming increasingly widespread in which Sechserdreier can only be bid by Vorhand at the **start** of the bidding, before any of the other players have spoken. In this case the score will be higher - similar to or a little less than an ordinary Dreier, still losing double if lost. It can be overcalled by Dreier or above (according to some groups also by Farbendreier). After Mein Spiel and three passes, Vorhand can play Rufer, Trischaken or any other contract **except** Sechserdreier.
+**Sechserdreier.** Une variante devient de plus en plus répandue dans laquelle le Sechserdreier ne peut être enchéri que par l'Avant-main au **début** des enchères, avant que les autres joueurs aient parlé. Dans ce cas, le score sera plus élevé — similaire ou un peu inférieur à un Dreier ordinaire, en perdant toujours le double en cas d'échec. Il peut être surcladé par un Dreier ou au-dessus (selon certains groupes aussi par Farbendreier). Après Mein Spiel et trois passes, l'Avant-main peut jouer Rufer, Trischaken ou tout autre contrat **sauf** Sechserdreier.
 
-**Trischaken.** There are many variants and different ways to score this. In some the two players with the higher scores pay the two with the lower scores. In some the Talon cards are given to the winner of the last trick. A popular alternative is that at the end of each of the first 6 tricks a card is turned up from the talon, added to the trick and taken by the winner of the trick. When there are five at the table some require the normally non-playing dealer to pick up the talon and join in the first 6 tricks. Some play Trischaken without the requirement to overtake the highest card so far played to the trick: players must just follow suit and trump if unable to do so; the Pagat can still only be played when it is the holder's last trump.
+**Trischaken.** Il existe de nombreuses variantes et différentes façons de le marquer. Dans certaines, les deux joueurs avec les scores les plus élevés paient les deux avec les scores les plus bas. Dans certaines, les cartes du talon sont données au gagnant de la dernière levée. Une alternative populaire est qu'à la fin de chacune des 6 premières levées, une carte est retournée du talon, ajoutée à la levée et prise par le gagnant de la levée. Quand ils sont cinq à table, certains exigent que le donneur normalement non-joueur ramasse le talon et participe aux 6 premières levées. Certains jouent au Trischaken sans l'obligation de surmonter la carte la plus forte jouée jusqu'ici : les joueurs doivent simplement suivre la couleur et couper s'ils ne le peuvent pas ; le Pagat ne peut toujours être joué que quand il est le dernier atout du détenteur.
 
-Here are a few examples of additional contracts and bonuses that may be encountered.
+Voici quelques exemples de contrats et bonus supplémentaires qui peuvent être rencontrés.
 
 Pagatrufer, Uhurufer, Kakadurufer, Quapilrufer
-These are an alternative to Besserrufer, and will be scattered through the schedule of contracts according to their point value. When the game is played with these bids instead of Besserrufer, the bid specifies which bird will be announced. Some award a bonus for winning the fifth last trick with the V, sometimes known as a **Geier** (vulture), in which case Geierrufer is also possible. There are even some places where there is a bonus winning the 6th last trick with the VI.
+Ce sont une alternative au Besserrufer, et seront dispersés dans le tableau des contrats selon leur valeur en points. Quand le jeu se joue avec ces enchères au lieu du Besserrufer, l'enchère spécifie quel oiseau sera annoncé. Certains attribuent un bonus pour gagner la 5e levée en partant de la fin avec le V, parfois appelé **Geier** (vautour), auquel cas le Geierrufer est aussi possible. Il existe même quelques endroits où il y a un bonus pour gagner la 6e levée en partant de la fin avec le VI.
 
 **Besserdreier**
-The same as a Dreier, but as in Besserrufer the declarer must announce at least 
-one "bird" at the start of the round of announcements. 
-****Zwiccolo Ouvert 
-A Zwiccolo played with all hands exposed after the first trick.
-Driccolo
-The declarer must win exactly three tricks.
+Identique à un Dreier, mais comme au Besserrufer, le preneur doit annoncer au moins
+un « oiseau » au début du tour d'annonces.
+**Zwiccolo Ouvert**
+Un Zwiccolo joué avec toutes les mains exposées après la première levée.
+**Driccolo**
+Le preneur doit gagner exactement trois levées.
 
-Absolut (or Sack)
-Taking at least 46 card points (the threshhold may vary). Also some allow Doppelsack (at least 56 points). These normally score only if announced.
-**Capture Called King** 
-The opponents capture the king which the declarer called to
-determine the partnerships 
+**Absolut (ou Sack)**
+Prendre au moins 46 points de cartes (le seuil peut varier). Certains permettent aussi le Doppelsack (au moins 56 points). Ceux-ci ne marquent généralement que si annoncés.
+**Capture du Roi Appelé**
+Les adversaires capturent le roi que le preneur a appelé
+pour déterminer les équipes.
 
 **Sküs Fang**
-Capturing the opponents' Sküs (by means of the 'Emperor trick',
-if allowed)
+Capturer le Sküs des adversaires (par le « tour de l'Empereur »,
+si autorisé).
 
-## Other Königrufen web pages and software
+## Autres pages et logiciels Königrufen
 
-Here are some web sites that give rules for alternative versions of Königrufen. Since the game is Austrian, most of the pages are of course in German.
+Voici quelques sites web donnant les règles pour d'autres versions du Königrufen. Comme le jeu est autrichien, la plupart des pages sont en allemand.
 
-- [Wikipedia page on Königrufen](https://de.wikipedia.org/wiki/Königrufen)
+- [Page Wikipedia sur Königrufen](https://de.wikipedia.org/wiki/Königrufen)
 
-- [Markus Mair's web site](http://www.tarock.tirol/) with details of his Tarock club in Innsbruck, rules and tournament dates.
+- [Site web de Markus Mair](http://www.tarock.tirol/) avec les détails de son club de Tarock à Innsbruck, les règles et les dates de tournois.
 
-Clas Broder Hansen and Markus Mair have devised an adaptation of Königrufen for three players, with the fourth player repaced by a dummy hand. 
+Clas Broder Hansen et Markus Mair ont conçu une adaptation du Königrufen pour trois joueurs, avec le quatrième joueur remplacé par un jeu muet.
 
-There are several places where you can play Königrufen online against human opponents.
+Plusieurs sites permettent de jouer au Königrufen en ligne contre des adversaires humains.
 
-- Joe Elleson's [Online Card Games](https://onlinecardgames.co.uk/) site offers several different versions, with an interface in English or German, and allows tables of up to 6 players, with players sitting out in rotation.
+- Le site [Online Card Games](https://onlinecardgames.co.uk/) de Joe Elleson propose plusieurs versions différentes, avec une interface en anglais ou allemand, et permet des tables de jusqu'à 6 joueurs, avec des joueurs assis à tour de rôle.
 
-- Bernd Nussbaumer's [tarockapp.at](https://tarockapp.at/) also offers several rules options and the possibility of playing with either human or computer players.
+- Le site [tarockapp.at](https://tarockapp.at/) de Bernd Nussbaumer propose aussi plusieurs options de règles et la possibilité de jouer avec des joueurs humains ou informatiques.
 
-- With Paul Kubitscheck's [KubiTarock](https://kubiconsult.com/Games/KubiTarock/) app for Windows or Android you can play against bots or human opponents. It has customisable rules and features a player assistant that can suggest what to bid and what card to play.
+- Avec l'application [KubiTarock](https://kubiconsult.com/Games/KubiTarock/) de Paul Kubitscheck pour Windows ou Android, vous pouvez jouer contre des bots ou des adversaires humains. Elle a des règles personnalisables et un assistant joueur qui peut suggérer quoi enchérir et quelle carte jouer.
 
-A [Königrufen computer program](https://www.tarock.at/main.php) is available from KEC Austria: Triangle productions.
+Un [programme informatique Königrufen](https://www.tarock.at/main.php) est disponible auprès de KEC Austria : Triangle productions.
 
-See also Königrufen - remarks on skilful play
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Königrufen
+Voir aussi Königrufen — remarques sur le jeu habile

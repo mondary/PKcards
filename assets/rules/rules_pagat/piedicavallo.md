@@ -2,160 +2,158 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** Rules for the 62-card Tarocchi game played at Piedicavallo in the Valle Cervo, Piedmonet, Italy.
+**But :** Règles du jeu de Tarocchi à 62 cartes pratiqué à Piedicavallo dans la Valle Cervo, Piémont, Italie.
 
 ---
 
 ## Introduction
 
-This partnership Tarocchi game for four players is played at Piedicavallo, at the top of the Valle Cervo in Piedmont, Italy. It differs from the better-known Piedmontese Tarocchi games Scarto and Mitigati in that it uses only 62 cards from the 78-card Tarocco Piemontese pack, and that partners are allowed to comunicate about their cards and tactics by words an gestures, within certain defined limits. This page is based on the [description by Zorio Prachin Gian Vittorio](https://web.archive.org/web/20240209025645/https://www.piedicavallo.com/Sito%20Pro%20Loco/Documenti/Il%20gioco%20dei%20tarocchi.pdf) (archive copy) from the former Pro Loco Piedicavallo web site, and games played in Piedicavallo during a visit by John McLeod and Sally Prime in May 2011.
+Ce jeu de Tarocchi en partenariat pour quatre joueurs se joue à Piedicavallo, au sommet de la Valle Cervo dans le Piémont, Italie. Il diffère des jeux de Tarocchi piémontais les plus connus, Scarto et Mitigati, en ce qu'il n'utilise que 62 cartes du jeu de Tarocco Piemontese à 78 cartes, et que les partenaires sont autorisés à communiquer sur leurs cartes et leurs tactiques par des mots et des gestes, dans certaines limites définies. Cette page est basée sur la [description de Zorio Prachin Gian Vittorio](https://web.archive.org/web/20240209025645/https://www.piedicavallo.com/Sito%20Pro%20Loco/Documenti/Il%20gioco%20dei%20tarocchi.pdf) (copie d'archive) de l'ancien site web du Pro Loco Piedicavallo, et sur des parties jouées à Piedicavallo lors d'une visite de John McLeod et Sally Prime en mai 2011.
 
-We would like to thank the players Paola Zorio, Claudio Peraldo Bracet, Graziella Peraldo Bracet, Armando Ribaldone, Ugo Porrino, Piero Peraldo Morbe and Federico Pianella for their warm hospitality, and Neasa MacErlean for her invaluable help as translator.
+Nous tenons à remercier les joueurs Paola Zorio, Claudio Peraldo Bracet, Graziella Peraldo Bracet, Armando Ribaldone, Ugo Porrino, Piero Peraldo Morbe et Federico Pianella pour leur chaleureuse hospitalité, et Neasa MacErlean pour son aide précieuse en tant que traductrice.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite each other. Deal and play are anticlockwise.
+Il y a quatre joueurs en partenariats fixes, les partenaires étant assis en face l'un de l'autre. La distribution et le jeu se font dans le sens antihoraire.
 
-A 62-card pack is used, made from a Tarocco Piemontese pack by removing the lowest four cards of each suit: the 1, 2, 3 and 4 of swords and batons and the 10, 9, 8 and 7 of cups and coins. This leaves:
+Un jeu de 62 cartes est utilisé, constitué à partir d'un jeu de Tarocco Piemontese en retirant les quatre cartes les plus basses de chaque couleur : le 1, 2, 3 et 4 d'épées et de bâtons et le 10, 9, 8 et 7 de coupes et de deniers. Il reste :
 
-- 21 trumps (*tarocchi*), ranking from 21 *(il mondo*) (highest) down to 1 (*il bagatto*) (lowest)
+- 21 atouts (*tarocchi*), classés de 21 (*il mondo*) (le plus élevé) à 1 (*il bagatto*) (le plus bas)
 
-- the suits of cups (*coppe*) and coins (*denari*) , ranking from high to low: king(*re*), queen (*donna*), horse (*cavallo*), jack(*fante*), 1, 2, 3, 4, 5, 6
+- les couleurs de coupes (*coppe*) et de deniers (*denari*), classées de haut en bas : roi (*re*), dame (*donna*), cavalier (*cavallo*), valet (*fante*), 1, 2, 3, 4, 5, 6
 
-- the suits of swords (*spade*) and batons (*bastoni*), ranking from high to low: king(*re*), queen (*donna*), horse (*cavallo*), jack(*fante*), 10, 9, 8, 7, 6, 5
+- les couleurs d'épées (*spade*) et de bâtons (*bastoni*), classées de haut en bas : roi (*re*), dame (*donna*), cavalier (*cavallo*), valet (*fante*), 10, 9, 8, 7, 6, 5
 
-- the fool (*il matto*)
+- le fou (*il matto*)
 
-Note that in Piedicavallo the 21 of trumps is highest. This differs from the ranking in most other parts of Piedmont, where for historical reasons the 20 (*l'angelo*) is higher than the 21 (*il mondo*).
+Notez qu'à Piedicavallo, le 21 d'atouts est le plus élevé. Cela diffère du classement dans la plupart des autres régions du Piémont, où pour des raisons historiques le 20 (*l'angelo*) est supérieur au 21 (*il mondo*).
 
-In the game, the round suits cups and coins are known as *rossi* (red) and the long suits swords and batons as *neri* (black). As usual the numeral cards in the round/red suits rank in the opposite order from those in the long/black suits.
+Dans le jeu, les couleurs rondes coupes et deniers sont appelées *rossi* (rouges) et les couleurs longues épées et bâtons *neri* (noires). Comme d'habitude, les cartes numériques des couleurs rondes/rouges sont classées dans l'ordre inverse de celles des couleurs longues/noires.
 
-The cards have points values as follows:
+Les cartes ont les valeurs de points suivantes :
 
-- trump 21, trump 1, fool, kings: 5 points each
+- atout 21, atout 1, fou, rois : 5 points chacun
 
-- queens: 4 points each
+- dames : 4 points chacun
 
-- horses: 3 points each
+- cavaliers : 3 points chacun
 
-- jacks: 2 points each
+- valets : 2 points chacun
 
-- all other cards (trumps 2-20, numeral cards in the four suits): 1 point each
+- toutes les autres cartes (atouts 2-20, cartes numériques des quatre couleurs) : 1 point chacune
 
-Therefore the total number of points in the pack is 114.
+Le nombre total de points dans le jeu est donc de 114.
 
-Deal and play are anticlockwise.
+La distribution et le jeu se font dans le sens antihoraire.
 
-## The Deal and Discard
+## La distribution et l'écart
 
-A game consists of four deals, one by each player, the turn to deal passing anticlockwise. The players draw cards from the shuffled pack to decide who will deal first, having agreed beforehand whether the first dealer will be the player who cuts the highest or the lowest card. In case of a tie the tieing players cut again.
+Une partie se compose de quatre donnes, une par chaque joueur, le tour de distribution passant dans le sens antihoraire. Les joueurs tirent des cartes du jeu battu pour décider qui distribuera en premier, après s'être mis d'accord à l'avance si le premier donneur sera le joueur qui coupe la carte la plus haute ou la plus basse. En cas d'égalité, les joueurs concernés coupent à nouveau.
 
-The dealer shuffles the cards. (In tournament play the cards are first shuffled by the player to the right of the dealer, and then handed to the dealer, who may shuffle again if he wishes to.) The dealer then offers the pack to the player to his left to cut. The dealer then gives the first 15 cards to the player to his right, the next 15 to his partner, the next 15 to the player to his left and the last 17 to himself. The player to dealer's left may choose not to cut, in which case the cards are dealt from the pack as it is.
+Le donneur bat les cartes. (En jeu de tournoi, les cartes sont d'abord battues par le joueur à la droite du donneur, puis transmises au donneur, qui peut battre à nouveau s'il le souhaite.) Le donneur offre ensuite le jeu au joueur à sa gauche pour couper. Le donneur donne ensuite les 15 premières cartes au joueur à sa droite, les 15 suivantes à son partenaire, les 15 suivantes au joueur à sa gauche et les 17 dernières à lui-même. Le joueur à la gauche du donneur peut choisir de ne pas couper, auquel cas les cartes sont distribuées telles quelles.
 
-The dealer now looks at his hand and selects two cards to discard face down. The point value of these cards will count for dealer's team, provided that they win at least one trick. The 5-point cards - the kings, the trump 21, the trump 1 and the fool - cannot be discarded. Trumps other than the 1 and 21 may be discarded if the dealer has no option (the dealer's hand after discarding containing only trumps and kings), or if after discarding the dealer has no trumps at all. In these cases the dealer must inform the other players how many trumps he has discarded.
+Le donneur regarde alors sa main et sélectionne deux cartes à écarter face cachée. La valeur en points de ces cartes comptera pour l'équipe du donneur, à condition qu'elle gagne au moins une levée. Les cartes à 5 points — les rois, l'atout 21, l'atout 1 et le fou — ne peuvent pas être écartées. Les atouts autres que le 1 et le 21 peuvent être écartés si le donneur n'a pas d'autre choix (la main du donneur après écart ne contenant que des atouts et des rois), ou si après l'écart le donneur n'a plus aucun atout. Dans ces cas, le donneur doit informer les autres joueurs du nombre d'atouts écartés.
 
-In tournament games, the players other than the dealer may not pick up their cards until after the dealer has discarded. In informal games, to save time, the players usually pick up their cards and sort them as soon as they have been dealt.
+Dans les jeux de tournoi, les joueurs autres que le donneur ne peuvent pas ramasser leurs cartes avant que le donneur ait écarté. Dans les parties informelles, pour gagner du temps, les joueurs ramassent généralement leurs cartes et les trient dès qu'elles ont été distribuées.
 
-## The Play
+## Le jeu
 
-When the dealer has discarded and confirms that he is ready, the player to dealer's right leads to the first trick. Any card may be led to a trick, and the other players must follow suit if possible. A player who is unable to follow suit must play a trump if possible. A player who has no cards of the suit led and no trumps may play any card. 
+Lorsque le donneur a écarté et confirme qu'il est prêt, le joueur à la droite du donneur entame la première levée. N'importe quelle carte peut être entamée, et les autres joueurs doivent suivre la couleur si possible. Un joueur incapable de suivre la couleur doit jouer un atout si possible. Un joueur n'ayant aucune carte de la couleur demandée et aucun atout peut jouer n'importe quelle carte.
 
-A trick that contains one or more trumps is won by the highest trump in it. A trick without trumps is won by the highest card of the suit that was led. The winner of each trick leads to the next.
+Une levée contenant un ou plusieurs atouts est gagnée par l'atout le plus élevé. Une levée sans atout est gagnée par la carte la plus élevée de la couleur demandée. Le gagnant de chaque levée entame la suivante.
 
-The fool is an exception to the above rules of play. It may be played to any trick, even if the holder could have followed suit or played a trump. The holder of the fool is never obliged to play it (except of course in the very last trick). The fool can never win a trick, but it is not captured by the winner of the trick. Instead it is added to the trick pile of the team of the person who played it, and they will score for it provided that they win at least one trick. If the fool is led to a trick, the second player may play any card, and this determines the suit to be followed by the other players, as though it had been led.
+Le fou fait exception aux règles ci-dessus. Il peut être joué dans n'importe quelle levée, même si le détenteur aurait pu suivre la couleur ou jouer un atout. Le détenteur du fou n'est jamais obligé de le jouer (sauf bien sûr à la toute dernière levée). Le fou ne peut jamais gagner une levée, mais il n'est pas capturé par le gagnant de la levée. Il est plutôt ajouté au tas de levées de l'équipe de la personne qui l'a joué, et l'équipe comptera pour lui à condition de gagner au moins une levée. Si le fou est entamé dans une levée, le deuxième joueur peut jouer n'importe quelle carte, et cela détermine la couleur à suivre par les autres joueurs, comme si elle avait été entamée.
 
-## Communication during the Play
+## Communication pendant le jeu
 
-During the play, players are allowed to communicate, within certain limits, about the cards they hold and what cards they partner should play. Formerly this was done mainly by means of gestures, but nowadays, most of the information is spoken. The principles are the same in either case. Numerous examples of gestures and dialect phrases that can be used are given in the [Pro Loco Piedicavallo rules](https://web.archive.org/web/20240209025645/https://www.piedicavallo.com/Sito%20Pro%20Loco/Documenti/Il%20gioco%20dei%20tarocchi.pdf), but players do not have to stick rigidly to these. Other gestures and comments can be used, provided that they are understood by all the players, and provided that they conform to the rules below.
+Pendant le jeu, les joueurs sont autorisés à communiquer, dans certaines limites, sur les cartes qu'ils détiennent et les cartes que leur partenaire devrait jouer. Autrefois, cela se faisait principalement par gestes, mais de nos jours la plupart de l'information est parlée. Les principes sont les mêmes dans les deux cas. De nombreux exemples de gestes et de phrases dialectales sont donnés dans les [règles du Pro Loco Piedicavallo](https://web.archive.org/web/20240209025645/https://www.piedicavallo.com/Sito%20Pro%20Loco/Documenti/Il%20gioco%20dei%20tarocchi.pdf), mais les joueurs ne sont pas tenus de s'y conformer rigoureusement. D'autres gestes et commentaires peuvent être utilisés, pourvu qu'ils soient compris par tous les joueurs et qu'ils respectent les règles ci-dessous.
 
-### General rules
+### Règles générales
 
-You may only give information when playing a card to a trick. The type of information you may give is determined by the the card you are actually playing, not by what was led to the trick.
+Vous ne pouvez donner des informations que lors du jeu d'une carte dans une levée. Le type d'information que vous pouvez donner est déterminé par la carte que vous jouez réellement, et non par la carte qui a été entamée.
 
-All information given must be true. It is illegal to claim to have a card that you do not in fact hold.
+Toutes les informations données doivent être vraies. Il est interdit de prétendre détenir une carte que vous n'avez pas en fait.
 
-### Signalling cards that are held
+### Signaler les cartes détenues
 
-**When playing a trump or the fool**, you can give information about the trumps that you hold and the fool, as follows:
+**Lors du jeu d'un atout ou du fou**, vous pouvez donner des informations sur les atouts que vous détenez et le fou, comme suit :
 
-- Specific trumps from the 21 down to the 15 can be declared.
+- Des atouts spécifiques du 21 au 15 peuvent être déclarés.
 
-- You may say how many other trumps you hold, but not which ones.
+- Vous pouvez dire combien d'autres atouts vous détenez, mais pas lesquels.
 
-- You may indicate that you hold the highest trump that has not yet been played by banging the table with your fist or by saying *"batto"* (I hit), or indicate the highest two outstanding trumps by hitting twice of saying *"batto, batto"*, etc.
+- Vous pouvez indiquer que vous détenez l'atout le plus élevé qui n'a pas encore été joué en frappant la table du poing ou en disant « *batto* » (je frappe), ou indiquer les deux plus élevés des atouts non joués en frappant deux fois ou en disant « *batto, batto* », etc.
 
-- If you have the trump 1 (*il bagatto*) and it is in danger of being captured (accompanied by no more than 2 or 3 trumps), you may say so, or signal it by with your index finger pointed downwards, touching the table and wobbling.
+- Si vous avez l'atout 1 (*il bagatto*) et qu'il est en danger d'être capturé (accompagné de pas plus de 2 ou 3 atouts), vous pouvez le dire, ou le signaler avec l'index pointé vers le bas, touchant la table et oscillant.
 
-- If you have the fool, you may say so, or signal it by holding your hand vertically with the thumb upwards and waving it from side to side.
+- Si vous avez le fou, vous pouvez le dire, ou le signaler en tenant votre main verticalement avec le pouce vers le haut et en la balançant de côté.
 
-- You may indicate that you have no more trumps.
+- Vous pouvez indiquer que vous n'avez plus d'atouts.
 
-**For example**, when playing a trump, you may say "I have the 20, the 18 and four others". 
+**Par exemple**, en jouant un atout, vous pouvez dire « J'ai le 20, le 18 et quatre autres ».
 
-When playing a trump, you cannot say anything about cards in the four suits.
+En jouant un atout, vous ne pouvez rien dire sur les cartes des quatre couleurs.
 
-**When playing a card of one of the four suits**, you can give information about the cards you hold in that suit. 
+**Lors du jeu d'une carte de l'une des quatre couleurs**, vous pouvez donner des informations sur les cartes que vous détenez dans cette couleur.
 
-- The king, queen, horse and jack may be declared specifically if held. 
+- Le roi, la dame, le cavalier et le valet peuvent être déclarés spécifiquement s'ils sont détenus.
 
-- You may also say how many numeral cards (*cartine*) you have in the suit, but not which ones. 
+- Vous pouvez aussi dire combien de cartes numériques (*cartine*) vous avez dans la couleur, mais pas lesquelles.
 
-- You can just say how many cards you have in the suit in total.
+- Vous pouvez simplement dire combien de cartes vous avez au total dans la couleur.
 
-- You can indicate that you have the highest outstanding card of the suit by saying *"batto"* (I hit), or indicating it with your fist.
+- Vous pouvez indiquer que vous avez la plus haute carte non jouée de la couleur en disant « *batto* » (je frappe), ou en l'indiquant avec votre poing.
 
-- You can indicate that you have no more cards in the suit. The signal is to draw a line with your finger on the table.
+- Vous pouvez indiquer que vous n'avez plus de cartes dans la couleur. Le signal est de tracer une ligne avec le doigt sur la table.
 
-For example, when leading a card you can say *"altro quattro"*, meaning "I have four more cards in this suit".
+Par exemple, en entamant une carte vous pouvez dire « *altro quattro* », signifiant « J'ai quatre autres cartes dans cette couleur ».
 
-You may also give similar information about suits of the **opposite colour** to the one you are currently playing, but without specifying which. The term for the opposite colour suit is "*alto*" or "*girare*". **Examples:**
+Vous pouvez aussi donner des informations similaires sur les couleurs de **couleur opposée** à celle que vous jouez actuellement, mais sans préciser laquelle. Le terme pour la couleur opposée est « *alto* » ou « *girare* ». **Exemples :**
 
-- When playing a coin, if you have the king of batons, you can say *"alto batto"* to indicate that you have **either** the king of batons **or** the king of swords, but you cannot tell your partner which it is. 
+- En jouant un denier, si vous avez le roi de bâtons, vous pouvez dire « *alto batto* » pour indiquer que vous avez **soit** le roi de bâtons **soit** le roi d'épées, mais vous ne pouvez pas dire à votre partenaire lequel c'est.
 
-- If you had no cards in cups, then while playing a sword you could draw a line on the table with your finger, saying "*alto*", indicating that you were void in **either** coins **or** cups. 
+- Si vous n'avez aucune carte en coupes, alors en jouant une épée vous pouvez tracer une ligne sur la table avec votre doigt, en disant « *alto* », indiquant que vous êtes vide en **soit** deniers **soit** coupes.
 
-- If you have the kings of both batons and swords, you can show this unambiguously while playing a cup by saying "*alto batto, alto batto*". 
+- Si vous avez les rois de bâtons et d'épées, vous pouvez le montrer sans ambiguïté en jouant une coupe en disant « *alto batto, alto batto* ».
 
-- When playing a baton, you can say something like "I have the king, horse and two more cards in one red suit and the queen with one more card in the other", indicating your holdings in cups and coins, but you must not say which is which.
+- En jouant un bâton, vous pouvez dire quelque chose comme « J'ai le roi, le cavalier et deux autres cartes dans une couleur rouge et la dame avec une carte de plus dans l'autre », indiquant vos détentions en coupes et deniers, mais vous ne devez pas dire laquelle est laquelle.
 
-When playing a suit card, you cannot say anything about the other suit of the **same** colour as the suit you are playing, nor about trumps.
+Lors du jeu d'une carte de couleur, vous ne pouvez rien dire sur l'autre couleur de **même** teinte que la couleur jouée, ni sur les atouts.
 
-If you are the dealer, you can also give information about cards that are "sleeping", i.e. that are in the two cards that you discarded before the play, by placing your hand flat with the palm downwards on your discard. However, the principle above apply: you can only give information about sleeping cards in the suit you are currently playing, or a suit of the other colour without specifying which. You can mention the queen, horse or jack specifically (kings cannot be in the discard) or number cards without specifying which.
+Si vous êtes le donneur, vous pouvez aussi donner des informations sur les cartes « dormantes », c'est-à-dire celles qui se trouvent dans les deux cartes que vous avez écartées avant le jeu, en posant votre main à plat, paume vers le bas, sur votre écart. Cependant, les principes ci-dessus s'appliquent : vous ne pouvez donner des informations que sur les cartes dormantes de la couleur que vous jouez actuellement, ou d'une couleur de l'autre teinte sans préciser laquelle. Vous pouvez mentionner la dame, le cavalier ou le valet spécifiquement (les rois ne peuvent pas être dans l'écart) ou des cartes numériques sans préciser lesquelles.
 
-### Signalling what partner should play
+### Signaler ce que le partenaire devrait jouer
 
-In general, when playing a card, you can make any suggestion you wish about how your partner should play to the current trick, or what you would like your partner to lead to a future trick, but there are restrictions on mentioning trumps or specific suits, similar to those that apply when signalling cards held.
+En général, lors du jeu d'une carte, vous pouvez faire toute suggestion sur la façon dont votre partenaire devrait jouer dans la levée en cours, ou ce que vous aimeriez que votre partenaire entame lors d'une prochaine levée, mais il y a des restrictions similaires à celles qui s'appliquent pour signaler les cartes détenues concernant les mentions d'atouts ou de couleurs spécifiques.
 
-- trumps can only be mentioned when playing a trump or the fool;
+- Les atouts ne peuvent être mentionnés que lors du jeu d'un atout ou du fou ;
 
-- when playing a suit card, you may refer specifically to the suit you are playing;
+- lors du jeu d'une carte de couleur, vous pouvez vous référer spécifiquement à la couleur que vous jouez ;
 
-- when playing a suit card, you may refer to a suit of the opposite "colour", but you must not specify which of those two suits is meant.
+- lors du jeu d'une carte de couleur, vous pouvez vous référer à une couleur de teinte « opposée », mais vous ne devez pas préciser laquelle des deux couleurs est concernée.
 
-If your partner has not yet played to the current trick you may ask him to win the trick, perhaps with a high card that he has already indicated. One expression for this is *"farlo!"* ("Do it!"). Alternatively you may ask him to play low, or to put as many points as possible into the trick, or as few points a possible, or to play a specific card (provided of course that you are playing a card of the same suit). Another possibility, when leading to a trick, is to ask partner just to cover the second player's card (to beat it with as low a card as possible). This can be shown by describing an anticlockwise semicircle above the table, starting near yourself and ending near your partner.
+Si votre partenaire n'a pas encore joué à la levée en cours, vous pouvez lui demander de gagner la levée, peut-être avec une carte élevée qu'il a déjà signalée. Une expression pour cela est « *farlo !* » (« Fais-le ! »). Alternativement, vous pouvez lui demander de jouer bas, ou de mettre le plus de points possible dans la levée, ou le moins possible, ou de jouer une carte spécifique (pourvu bien sûr que vous jouiez une carte de la même couleur). Une autre possibilité, lors de l'entame d'une levée, est de demander au partenaire de simplement couvrir la carte du deuxième joueur (de la battre avec la carte la plus basse possible). Cela peut être montré en décrivant un demi-cercle antihoraire au-dessus de la table, en commençant près de soi et en terminant près du partenaire.
 
-It is also possible to indicate what your partner should lead in future. A trump lead can only be requested if you are currently playing a trump. When playing a suit card you can only request a lead of that same suit or of an unspecified suit of the opposite colour. When requesting a lead of a suit or trumps you can further ask partner to lead a high card, a low card, a valuable card, or a specific card that you know that he has.
+Il est aussi possible d'indiquer ce que votre partenaire devrait entamer à l'avenir. Une entame d'atout ne peut être demandée que si vous jouez actuellement un atout. Lors du jeu d'une carte de couleur, vous ne pouvez demander l'entame que de cette même couleur ou d'une couleur non spécifiée de la teinte opposée. Lors de la demande d'entame d'une couleur ou d'atouts, vous pouvez en outre demander au partenaire d'entamer une carte élevée, une carte basse, une carte précieuse, ou une carte spécifique que vous savez qu'il détient.
 
-Players are not obliged to honour their partners' requests. You always have the right to play a different card from the one your partner asked for, if you see an advantage in doing so.
+Les joueurs ne sont pas obligés de respecter les demandes de leurs partenaires. Vous avez toujours le droit de jouer une carte différente de celle demandée par votre partenaire, si vous y voyez un avantage.
 
-## Scoring
+## Décompte
 
-The teams count the value of the cards in the tricks they have won, and the team that wins more points in total over the four deals wins the game. 
+Les équipes comptent la valeur des cartes dans les levées qu'elles ont gagnées, et l'équipe qui totalise le plus de points sur les quatre donnes remporte la partie.
 
-In practice, the score is kept by remembering how many points the team that is ahead has more than the average. So in the first deal, the team that takes more than 57 points (57 being half the total) notes how many points they have more than 57. In the next deal, this losing team begins by counting cards up to the number by which the winning team was ahead. They then need 57 more to draw level: the amount they have more or less than this shows which team is now ahead and by how much. 
+En pratique, le score est tenu en mémorisant l'écart de points de l'équipe en tête par rapport à la moyenne. Ainsi, lors de la première donne, l'équipe qui prend plus de 57 points (57 étant la moitié du total) note son écart par rapport à 57. Lors de la donne suivante, l'équipe perdante commence par compter les cartes jusqu'au nombre dont l'équipe gagnante était en tête. Elle a alors besoin de 57 points de plus pour revenir à égalité : le montant au-dessus ou en dessous de ce chiffre indique quelle équipe est maintenant en tête et de combien.
 
-**Example:**
+**Exemple :**
 
-- First deal: North-South 65; East-West 49. Result N-S are 8 points ahead of the average.
+- Première donne : Nord-Sud 65 ; Est-Ouest 49. Résultat : N-S est en avance de 8 points sur la moyenne.
 
-- Second deal: North-South 59; East-West 55. After counting their 8-point deficit, E-W have 47 points left, so N-S now have +10.
+- Deuxième donne : Nord-Sud 59 ; Est-Ouest 55. Après comptage de leur déficit de 8 points, E-O a 47 points restants, donc N-S est maintenant à +10.
 
-- Third deal: North-South 36; East-West 78. E-W need 10 points to cancel the previous score, after which they have 68 points left, which is enough to put them 11 points ahead of the average.
+- Troisième donne : Nord-Sud 36 ; Est-Ouest 78. E-O a besoin de 10 points pour annuler le score précédent, après quoi il leur reste 68 points, ce qui suffit pour les placer à 11 points au-dessus de la moyenne.
 
-- Fourth deal: North-South 67; East-West 47. N-S count their 11-point defecit, after which they have only 56 left, so East-West are still +1 point and win the game.
+- Quatrième donne : Nord-Sud 67 ; Est-Ouest 47. N-S compte leur déficit de 11 points, après quoi il ne leur reste que 56 points, donc Est-Ouest est toujours à +1 point et remporte la partie.
 
-If the result is a tie, two more deals are played to decide the result.
+En cas d'égalité, deux donnes supplémentaires sont jouées pour départager.
 
-If one team wins all the tricks (*vola*) they get all the cards for 114 points (increasing their lead by 57). A team that takes no tricks has to surrender the fool (if they played it) and the two discarded cards (if they are the dealing team) to the opponents. Note that if at the end of the third deal one team has a lead of more than 57 points, they are certain to win the game even if the other team makes a *vola* (wins every trick) on the fourth deal. Therefore in this case the game ends after three deals and the leading team are the winners.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tarocchi in Piedicavallo
+Si une équipe gagne toutes les levées (*vola*), elle obtient toutes les cartes pour 114 points (augmentant son avance de 57). Une équipe qui ne prend aucune levée doit céder le fou (si elle l'a joué) et les deux cartes écartées (si elle est l'équipe distributrice) aux adversaires. Notez que si à la fin de la troisième donne une équipe a une avance de plus de 57 points, elle est certaine de gagner la partie même si l'autre équipe fait une *vola* (gagne toutes les levées) lors de la quatrième donne. Dans ce cas, la partie se termine après trois donnes et l'équipe en tête est déclarée gagnante.

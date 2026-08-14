@@ -2,225 +2,222 @@
 
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** How to play the streamlined version of the 4-player Tarock game Königrufen from the Salzburger Lungau in central Austria.
+**But :** Version simplifiée du Königrufen, jeu de Tarock à 4 joueurs, pratiquée dans le Lungau salzbourgeois en Autriche centrale.
 **Autres noms :** Tarocks, Fahren
 
 ---
 
-![Tarock game in Peter Lüftenegger's house in Thomatal.](../images/tarot/lungau.jpg)
+![Partie de Tarock dans la maison de Peter Lüftenegger à Thomatal.](../images/tarot/lungau.jpg)
 
 ## Introduction
 
-This streamlined version of 4-player Austrian Tarock is played in the Salzburger Lungau, where there are regular tournaments. The reduced choice of contracts and the simplified card counting lead to a sharper game than the traditional forms of Königrufen played in other parts of Austria. The valuable cards are more important relative to the empty cards, and players are under more pressure to choose between playing a contract and risking an expensive Trischaken (locally known as Fahren).
+Cette version simplifiée du Tarock autrichien à 4 joueurs est pratiquée dans le Lungau salzbourgeois, où se tiennent des tournois réguliers. Le choix réduit de contrats et le comptage simplifié des cartes conduisent à un jeu plus tranchant que les formes traditionnelles de Königrufen pratiquées dans d'autres régions d'Autriche. Les cartes à valeur sont relativement plus importantes par rapport aux cartes vides, et les joueurs sont sous plus de pression pour choisir entre jouer un contrat et risquer un Trischaken coûteux (localement appelé Fahren).
 
-As usual in Tarock games, the basic aim is to win tricks containing valuable cards, and there are also bonuses for particular feats, which can be announced in advance. Depending on the bidding, one player (the bidder) may play against a team of three, or there may be two teams of two, the bidder's partner being chosen by calling a King. Exceptionally in Fahren, which occurs when all players pass, everyone plays for themselves and tries to avoid taking valuable cards.
+Comme d'habitude dans les jeux de Tarock, le but de base est de gagner des levées contenant des cartes à valeur, et il y a aussi des bonus pour certains exploits, qui peuvent être annoncés à l'avance. Selon les enchères, un joueur (l'enchérisseur) peut jouer contre une équipe de trois, ou il peut y avoir deux équipes de deux, le partenaire du preneur étant choisi en appelant un Roi. Exceptionnellement dans le Fahren, qui se produit quand tous les joueurs passent, chacun joue pour soi et essaie d'éviter de prendre des cartes à valeur.
 
-In outline, each hand proceeds as follows. The dealer deals 12 cards to each player and 6 to the talon, which is face down on the table. Each player in turn may bid, undertaking to play a contract with or without a partner. Depending on the contract the final bidder may then take 3 or all 6 cards from the talon and discard cards in exchange. There is then a round of announcements, in which players may announce additional bonuses they intend to make or say kontra to double the score for the game or any bonuses announced by opponents. The cards are played out in 12 tricks, after which each team counts the total value of cards in their tricks to determine which side won the game, and check which bonuses were won or lost. 
+En résumé, chaque main se déroule comme suit. Le donneur distribue 12 cartes à chaque joueur et 6 au talon, face contre table. Chaque joueur à son tour peut enchérir, s'engageant à jouer un contrat avec ou sans partenaire. Selon le contrat, le dernier enchérisseur peut alors prendre 3 ou les 6 cartes du talon et échanger des cartes. Il y a ensuite un tour d'annonces, pendant lequel les joueurs peuvent annoncer des bonus supplémentaires ou dire kontra pour doubler le score du jeu ou de tout bonus annoncé par les adversaires. Les cartes sont jouées en 12 levées, après quoi chaque équipe compte la valeur totale des cartes dans ses levées pour déterminer quel côté a gagné, et vérifie quels bonus ont été gagnés ou perdus.
 
-The net score in game points for the game and bonuses is calculated to determine the amount to be paid by the losers to the winners. The stake per game point should be agreed in advance: a stake of 10 cents per game point would be typical.
+Le score net en points de jeu pour le jeu et les bonus est calculé pour déterminer le montant à payer par les perdants aux gagnants. La mise par point de jeu doit être convenue à l'avance : une mise de 10 centimes par point de jeu serait typique.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four active players. It is possible for five people to take part, with the dealer sitting out of each hand.
+Il y a quatre joueurs actifs. Il est possible que cinq personnes participent, le donneur ne jouant pas lors de chaque main.
 
-A standard Austrian 54-card Tarock pack is used. This consists of 
+Un jeu standard de Tarock autrichien de 54 cartes est utilisé. Il se compose de
 
-- 22 trumps, also known as Tarocks. The unnumbered Sküs is highest, followed by the XXI (Mond), XX, XIX and so on down to the I, known as the Pagat or the Spatz (sparrow), which is lowest.
+- 22 atouts, aussi appelés Tarocks. Le Sküs non numéroté est le plus élevé, suivi du XXI (Mond), XX, XIX et ainsi de suite jusqu'au I, appelé Pagat ou Spatz (moineau), qui est le plus bas.
 
-- 8 cards in each black suit, ranking from high to low King, Queen, Knight, Jack, 10, 9, 8, 7.
+- 8 cartes dans chaque couleur noire, classées du plus fort au plus faible : Roi, Dame, Cavalier, Valet, 10, 9, 8, 7.
 
-- 8 cards in each red suit ranking from high to low King, Queen, Knight, Jack, Ace, 2, 3, 4.
+- 8 cartes dans chaque couleur rouge, classées du plus fort au plus faible : Roi, Dame, Cavalier, Valet, As, 2, 3, 4.
 
-Cards are counted individually, not in groups, and their values are as follows:
+Les cartes sont comptées individuellement, et leurs valeurs sont les suivantes :
 
-| Cards | Value |
-| Sküs, XXI, I, Kings | 5 points each |
-| Queens | 4 points each |
-| Knights | 3 points each |
-| Jacks | 2 points each |
+| Cartes | Valeur |
+| Sküs, XXI, I, Rois | 5 points chacun |
+| Dames | 4 points chacun |
+| Cavaliers | 3 points chacun |
+| Valets | 2 points chacun |
 
-All other cards are worthless. The total value of the cards in the pack is 71 points, so 36 or more card points are needed to win the basic game.
+Toutes les autres cartes n'ont pas de valeur. La valeur totale des cartes du jeu est de 71 points, donc 36 points de cartes ou plus sont nécessaires pour gagner le jeu de base.
 
-Deal, bidding and play are anticlockwise.
+La donne, les enchères et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-## Contracts and Bonuses
+## Contrats et bonus
 
-The possible contracts and the basic scores for them in game points are as follows. See the following sections on bidding, play and scoring for further explanation.
+Les contrats possibles et les scores de base en points de jeu sont les suivants. Voir les sections suivantes sur les enchères, le jeu et le marquage pour plus d'explications.
 
-| Contract Name | Score | Notes |
-| Fahren (or Trischaken) | 2 | Only played when all pass. Players who take more card points pay those who take fewer. |
-| Sechserdreier | +2/-4* | Can only be bid by first player, who takes the whole talon and plays alone. |
-| Rufer mit Spatz | 1+2** | Call a King, take 3 cards from the talon, and announce Pagat Ultimo. |
-| Rufer mit Uhu | 1+2** | Call a King, take 3 cards from the talon, and announce Uhu. |
-| Dreier (or Einischauer) | 2 | Take 3 cards from the talon and play alone. |
+| Nom du contrat | Score | Notes |
+| Fahren (ou Trischaken) | 2 | Se joue uniquement quand tous passent. Les joueurs qui prennent plus de points de cartes paient ceux qui en prennent moins. |
+| Sechserdreier | +2/-4* | Ne peut être enchéri que par le premier joueur, qui prend tout le talon et joue seul. |
+| Rufer mit Spatz | 1+2** | Appeler un Roi, prendre 3 cartes du talon, et annoncer le Pagat Ultimo. |
+| Rufer mit Uhu | 1+2** | Appeler un Roi, prendre 3 cartes du talon, et annoncer l'Uhu. |
+| Dreier (ou Einischauer) | 2 | Prendre 3 cartes du talon et jouer seul. |
 
-* Sechserdreier is worth 2 game points if the bidder wins, but costs 4 game points if the bidder loses.
+* Le Sechserdreier vaut 2 points de jeu si l'enchérisseur gagne, mais coûte 4 points de jeu s'il perd.
 
-** Rufer mit Pagat and Rufer mit Uhu are each worth 1 game point for the 'game' (majority of card points) and 2 game points for the Spatz or Uhu. The game and the Pagat or Uhu can be won or lost independently. 
+** Rufer mit Pagat et Rufer mit Uhu valent chacun 1 point de jeu pour le « jeu » (majorité des points de cartes) et 2 points de jeu pour le Spatz ou l'Uhu. Le jeu et le Pagat ou l'Uhu peuvent être gagnés ou perdus indépendamment.
 
-The rules of play and scoring in Fahren are somewhat different from the other contracts and are explained at the end of each section below.
+Les règles de jeu et de marquage au Fahren sont quelque peu différentes des autres contrats et sont expliquées à la fin de chaque section ci-dessous.
 
-Additional game points may be scored for various feats achieved during the play, as follows.
+Des points de jeu supplémentaires peuvent être marqués pour divers exploits réalisés pendant le jeu, comme suit.
 
-| Bonus name | Score | Notes |
-| silent | announced |
-| Trull | 1 | 2 | Win Sküs, XXI and I in tricks |
-| Four Kings | 1 | 2 | Win all 4 Kings in tricks |
-| Pagat Ultimo | 1 | 2 | Win the last trick with trump I |
-| Uhu | 1 | 2 | Win the penultimate trick with trump II |
-| King Ultimo | 1 | 2 | Win the called King in the last trick |
-| Called King captured | 1 | -- | Bidder's opponents win the called King |
-| Valat | ×6 | ×12 | Win all the tricks |
+| Nom du bonus | Score | Notes |
+| silencieux | annoncé |
+| Trull | 1 | 2 | Gagner le Sküs, le XXI et le I dans les levées |
+| Quatre Rois | 1 | 2 | Gagner les 4 Rois dans les levées |
+| Pagat Ultimo | 1 | 2 | Gagner la dernière levée avec l'atout I |
+| Uhu | 1 | 2 | Gagner l'avant-dernière levée avec l'atout II |
+| Roi Ultimo | 1 | 2 | Gagner le Roi appelé à la dernière levée |
+| Roi appelé capturé | 1 | -- | Les adversaires du preneur gagnent le Roi appelé |
+| Valat | x6 | x12 | Gagner toutes les levées |
 
-These bonuses can be won or lost independently of each other and of the basic game, with the exception of Valat. If a team wins all the tricks they score for Valat and nothing else counts except for announced Spatz and/or Uhu in a Rufer, which are also subject to the multiplier. 
+Ces bonus peuvent être gagnés ou perdus indépendamment les uns des autres et du jeu de base, à l'exception du Valat. Si une équipe gagne toutes les levées, elle marque pour le Valat et rien d'autre ne compte sauf les Spatz et/ou Uhu annoncés dans un Rufer, qui sont aussi soumis au multiplicateur.
 
-**In Sechserdreier and Dreier all bonus scores except the score for Valat are doubled.**
+**Au Sechserdreier et au Dreier, tous les scores de bonus sauf le score du Valat sont doublés.**
 
-When a Fahren is played, there are no bonuses.
+Quand un Fahren est joué, il n'y a pas de bonus.
 
-## Deal
+## Donne
 
-The first dealer may be chosen by any convenient random method. The turn to deal passes to the right after each hand.
+Le premier donneur peut être choisi par n'importe quelle méthode aléatoire. Le tour de donne passe à droite après chaque main.
 
-The dealer shuffles the cards and offers them to the player to the left to cut. The dealer then deals 12 cards to each player in batches of 6 in anticlockwise order, starting with the player to dealer's right. Either at the start of the deal or between the two rounds, the dealer places two packets of 3 cards face down in the middle of the table to form the talon.
+Le donneur bat les cartes et les offre au joueur à sa gauche pour couper. Le donneur distribue ensuite 12 cartes à chaque joueur en paquets de 6 dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à sa droite. Au début de la donne ou entre les deux tours, le donneur place deux paquets de 3 cartes face contre table au milieu de la table pour former le talon.
 
-## Bidding
+## Enchères
 
-The player to dealer's right begins the bidding, and may bid any of the positive contracts: Sechserdreier, Rufer mit Spatz, Rufer mit Uhu or Dreier. Alternatively, if not wishing to play a contract, the player simply says 'Erster' (first). 
+Le joueur à la droite du donneur commence les enchères, et peut enchérir n'importe quel contrat positif : Sechserdreier, Rufer mit Spatz, Rufer mit Uhu ou Dreier. Alternativement, s'il ne souhaite pas jouer un contrat, le joueur dit simplement « Erster » (premier).
 
-If the first player says 'Erster', the bidding continues anticlockwise around the table. Each player in turn may pass or bid a contract which must be higher than the previous bid. It is unusual for more than one player to bid, but if it happens the possible bids in ascending order are Rufer mit Spatz, Rufer mit Uhu and Dreier.
+Si le premier joueur dit « Erster », les enchères continuent dans le sens inverse des aiguilles d'une montre. Chaque joueur à son tour peut passer ou enchérir un contrat qui doit être supérieur au précédent. Il est rare que plus d'un joueur enchérisse, mais si c'est le cas, les enchères possibles par ordre croissant sont Rufer mit Spatz, Rufer mit Uhu et Dreier.
 
-Rufer mit Spatz can only be bid by the player who holds the Pagat (Tarock I) and Rufer mit Uhu can only be bid by the holder of the Uhu (Tarock II).
+Le Rufer mit Spatz ne peut être enchéri que par le joueur qui détient le Pagat (Tarock I) et le Rufer mit Uhu ne peut être enchéri que par le détenteur de l'Uhu (Tarock II).
 
-No one other than the first player is allowed to bid Sechserdreier, and if the first player bids Sechserdreier that ends the auction - it cannot be overcalled. The auction also ends if any player bids Dreier, since it is the highest bid. 
+Personne d'autre que le premier joueur n'est autorisé à enchérir le Sechserdreier, et si le premier joueur enchérit le Sechserdreier, cela met fin aux enchères. Les enchères se terminent aussi si un joueur enchérit le Dreier, car c'est l'enchère la plus élevée.
 
-If the first player begins with a Rufer, the other players in turn have a chance to overcall by bidding a higher contract.
+Si le premier joueur commence par un Rufer, les autres joueurs ont à tour de rôle la possibilité de surclader en enchérissant un contrat supérieur.
 
-If the first player says 'Erster' and the other three players all pass, then a Fahren must be played. 
+Si le premier joueur dit « Erster » et que les trois autres passent tous, un Fahren doit être joué.
 
-## Calling and Talon Exchange
+## Appel et échange au talon
 
-If the final bid was a Rufer, the bidder now names a King, and the holder of that King will be the bidder's partner for the hand. The holder of the King must not say or do anything to reveal their identity. The partnerships will become clear during the play of the hand, for example when the called King is played. If it turns out that the called King is in the talon, or the bidder has called a King that is in their own hand, the bidder plays alone against the other three players.
+Si l'enchère finale est un Rufer, l'enchérisseur nomme maintenant un Roi, et le détenteur de ce Roi sera le partenaire de l'enchérisseur pour cette main. Le détenteur du Roi ne doit rien dire ou faire pour révéler son identité. Les équipes deviennent claires pendant le jeu, par exemple quand le Roi appelé est joué. S'il s'avère que le Roi appelé est dans le talon, ou que l'enchérisseur a appelé un Roi qui est dans sa propre main, l'enchérisseur joue seul contre les trois autres joueurs.
 
-If the bid was Sechserdreier, the bidder picks up all 6 talon cards without showing them, and discards 6 cards face down. 
+Si l'enchère est un Sechserdreier, l'enchérisseur ramasse les 6 cartes du talon sans les montrer, et écarte 6 cartes face contre table.
 
-If the final bid was Rufer or Dreier, the bidder turns the talon face up for all to see, keeping its two 3-card packets separate. The bidder chooses one of the packets, adds the three cards to their hand and discards three cards face down. In a Rufer, if the called King is found in the talon, the bidder has two options:
+Si l'enchère finale est un Rufer ou un Dreier, l'enchérisseur retourne le talon face visible pour tous, en gardant les deux paquets de 3 cartes séparés. L'enchérisseur choisit un des paquets, ajoute les trois cartes à sa main et écarte trois cartes face contre table. Dans un Rufer, si le Roi appelé se trouve dans le talon, l'enchérisseur a deux options :
 
-- to take half of the Talon (not necessarily the half containing the King) and play on. In this case the bidder will play alone against a team of three;
+- prendre la moitié du talon (pas nécessairement celle contenant le Roi) et continuer à jouer. Dans ce cas, l'enchérisseur jouera seul contre une équipe de trois ;
 
-- to surrender (*schleifen*). In this case there is no play. The cards are thrown in and the bidder pays a fixed penalty (3 game points) to each opponent. 
+- abandonner (*schleifen*). Dans ce cas, il n'y a pas de jeu. Les cartes sont jetées et l'enchérisseur paie une pénalité fixe (3 points de jeu) à chaque adversaire.
 
-**Discard Rules.** 5-point cards (Kings, Sküs, Bond (XXI) and Pagat (I)) can **never** be discarded. Trumps II-XX can only be discarded if there is no alternative - i.e. if the player is thereby left with a hand consisting entirely of trumps and Kings. Any trumps discarded by the bidder must be placed face up (so that everyone can keep count of trumps). All other discards are face down.
+**Règles d'écart.** Les cartes à 5 points (Rois, Sküs, Mond (XXI) et Pagat (I)) ne peuvent **jamais** être écartées. Les atouts II-XX ne peuvent être écartés que s'il n'y a pas d'alternative — c'est-à-dire si le joueur se retrouve avec une main composée uniquement d'atouts et de Rois. Tous les atouts écartés par l'enchérisseur doivent être placés face visible (pour que chacun puisse suivre le compte des atouts). Tous les autres écarts sont face contre table.
 
-Cards discarded by the bidder count for the bidder's team. In contracts where the bidder takes 3 cards from the talon, the other packet of three cards is out of play, and cards that are in it count for the bidder's opponents. Traditionally this unused half of the talon remains face up until the end of the first trick and is then turned face down.
+Les cartes écartées par l'enchérisseur comptent pour l'équipe de l'enchérisseur. Dans les contrats où l'enchérisseur prend 3 cartes du talon, l'autre paquet de trois cartes est hors jeu, et les cartes qui s'y trouvent comptent pour les adversaires de l'enchérisseur. Traditionnellement, cette moitié inutilisée du talon reste face visible jusqu'à la fin de la première levée puis est retournée face contre table.
 
-**In a Fahren** (Trischaken) the talon is not used.
+**Dans un Fahren** (Trischaken), le talon n'est pas utilisé.
 
-## Bonus Announcements and Kontras
+## Annonces de bonus et Kontras
 
-After the bidder has discarded, each player in turn, starting with the bidder, has an opportunity to announce bonuses. The game (the object of which is to take more than half the card points - 36 or more - in tricks) and all bonuses can be won or lost independently. The effect of announcing a bonus is to double the score for it if made, but the announcing team have to pay an equal amount if the bonus fails. The possible bonuses are:
+Après que l'enchérisseur a écarté, chaque joueur à tour de rôle, en commençant par l'enchérisseur, a l'occasion d'annoncer des bonus. Le jeu (dont l'objectif est de prendre plus de la moitié des points de cartes — 36 ou plus — en levées) et tous les bonus peuvent être gagnés ou perdus indépendamment. L'effet de l'annonce d'un bonus est de doubler son score s'il est réussi, mais l'équipe qui l'annonce doit payer un montant égal si le bonus échoue. Les bonus possibles sont :
 
-Trull 
-This bonus is won by a team that has all three counting trumps - Sküs, Mond (XXI) and Pagat (I) -in their tricks together with their part of the talon.
-Four Kings 
-This bonus is won by a team that has all four Kings in their tricks together with their part of the talon.
-Spatz, or Pagat Ultimo
-If a player wins the last trick with the Pagat (Tarock I), that player's team wins the Spatz bonus. If a player plays the Pagat in the last trick but the Pagat does not win because there is a higher trump in the trick, that player's team has to pay for a lost Spatz, even if the trick is won by the partner of the player of the Pagat.
-Uhu
-If a player wins the last trick but one (11th trick) with Tarock II, that player's team wins the Uhu bonus. If a player plays the II in the last but one trick but it is beaten by a higher trump, that player's team has to pay for a lost Uhu, even if the trick is won by the partner of the player of the II.
-King Ultimo
-If the called King is played in the last trick and the bidder's team wins the trick, they win the King Ultimo bonus, but if the opponents win the trick, the bidder's team has to play for a lost King Ultimo. Note that unlike the Spatz and Uhu bonuses, it does not have to be the King itself that wins the trick: it is good enough for the player's partner (the bidder) to win the trick with the called King in it.
-Captured called King
-The called King is captured by the opponents. This also applies if the bidder finds the called King in the talon but chooses to play on taking the half that does not contain the King. This cannot be announced.
-Valat
-If one team wins all the tricks they score for Valat and none of the other bonuses count, except for announced Spatz/Pagat and/or Uhu which count and are subject to the Valat multiplier in a Rufer Valat but not in a Dreier Valat.
+**Trull** — Ce bonus est gagné par une équipe qui a les trois atouts à valeur — Sküs, Mond (XXI) et Pagat (I) — dans ses levées avec sa part du talon.
 
-If any of these bonuses is announced in advance, the announcing team scores double for it is it succeeds (as shown in the table above) but if fails the opponents score its value. 
+**Quatre Rois** — Ce bonus est gagné par une équipe qui a les quatre Rois dans ses levées avec sa part du talon.
 
-Spatz, Uhu and King Ultimo can only be announced by a player who holds the relevant card. 
+**Spatz, ou Pagat Ultimo** — Si un joueur gagne la dernière levée avec le Pagat (Tarock I), l'équipe de ce joueur gagne le bonus Spatz. Si un joueur joue le Pagat à la dernière levée mais que le Pagat ne gagne pas parce qu'il y a un atout supérieur dans la levée, l'équipe de ce joueur doit payer pour un Spatz perdu, même si la levée est gagnée par le partenaire du joueur du Pagat.
 
-If the bid was Rufer mit Spatz or Rufer mit Uhu, the bidder is obliged to announce Spatz or Uhu respectively in the round of announcements. The bidder may choose to announce both Pagat and Uhu if they hold both those cards, as well as any other bonuses they wish to. A Spatz or Uhu announcement fails if the I or II is beaten by a higher trump in the relevant trick, or if the announcer fails to play the card to the relevant trick. A King Ultimo announcement is lost if the holder is forced to play the King before the last trick or if the opponents win the last trick.
+**Uhu** — Si un joueur gagne l'avant-dernière levée (11e levée) avec le Tarock II, l'équipe de ce joueur gagne le bonus Uhu. Si un joueur joue le II à l'avant-dernière levée mais qu'il est battu par un atout supérieur, l'équipe de ce joueur doit payer pour un Uhu perdu, même si la levée est gagnée par le partenaire du joueur du II.
 
-At their turn to speak during the round of announcements, an opponent of the bidder can say Kontra to the game, doubling the score for the contract. Also a player may say Kontra to any bonus announced by the opposing team, doubling its score. An opponent of a player who has said Kontra can reply at their turn to speak by saying Rekontra for quadruple score, and an opponent of a player who said Rekontra can reply with Subkontra, so the the original score is multiplied by 8. 
+**Roi Ultimo** — Si le Roi appelé est joué à la dernière levée et que l'équipe de l'enchérisseur gagne la levée, ils gagnent le bonus Roi Ultimo, mais si les adversaires gagnent la levée, l'équipe de l'enchérisseur doit payer pour un Roi Ultimo perdu. Notez que contrairement aux bonus Spatz et Uhu, ce n'est pas nécessairement le Roi lui-même qui doit gagner la levée : il suffit que le partenaire du joueur (l'enchérisseur) gagne la levée avec le Roi appelé dedans.
 
-Kontras of the game and various bonuses are independent, so a player saying Kontra must specify which element(s) they are saying Kontra to. For example the bidder of a 'Rufer mit Spatz' must announce Spatz, the next player might Kontra the Spatz, the third player might Kontra the game and the fourth player, holding the called King and a good hand might Rekontra the game but not the Spatz. Now the game is worth 4 game points (1×4) and the announced Spatz also 4 (2×2). If the bidder's team wins the game but loses the Spatz and no other bonuses are made, the net result will be zero score.
+**Roi appelé capturé** — Le Roi appelé est capturé par les adversaires. Cela s'applique aussi si l'enchérisseur trouve le Roi appelé dans le talon mais choisit de continuer en prenant la moitié qui ne contient pas le Roi. Cela ne peut pas être annoncé.
 
-Formally, the announcements continue around the table in anticlockwise order until there is no more to be said. Players who don't wish to announce or Kontra anything should say *gut* (pass) at their turn. Bonuses can only be announced at a player's first turn to speak, and a player can only Kontra the game or a bonus at their first opportunity to do so.
+**Valat** — Si une équipe gagne toutes les levées, elle marque pour le Valat et aucun des autres bonus ne compte, sauf les Spatz/Pagat et/ou Uhu annoncés qui comptent et sont soumis au multiplicateur du Valat dans un Rufer Valat mais pas dans un Dreier Valat.
 
-**In a Fahren** (Trischaken) there are no bonus announcements but it is still possible to Kontra. In this case each player, starting to dealer's right and going around anticlockwise, has one chance to speak, and they must either Kontra or pass. There are no teams and each player says Kontra (or not) on their own behalf.
+Si l'un de ces bonus est annoncé à l'avance, l'équipe qui l'annonce marque le double s'il réussit (comme indiqué dans le tableau ci-dessus) mais s'il échoue, les adversaires marquent sa valeur.
 
-## Play
+Le Spatz, l'Uhu et le Roi Ultimo ne peuvent être annoncés que par un joueur qui détient la carte concernée.
 
-No matter what happened in the bidding, it is always the player to dealer's right who leads to the first trick. Each trick is won by the highest Tarock (trump) in it, or if no Tarocks were played by the highest card of the suit that was led. The player who wins the trick stores the four cards face down in front of them in their trick pile and leads to the next trick.
+Si l'enchère est un Rufer mit Spatz ou un Rufer mit Uhu, l'enchérisseur est obligé d'annoncer le Spatz ou l'Uhu respectivement dans le tour d'annonces. L'enchérisseur peut choisir d'annoncer le Pagat et l'Uhu s'il détient les deux, ainsi que tout autre bonus qu'il souhaite. Une annonce de Spatz ou d'Uhu échoue si le I ou le II est battu par un atout supérieur à la levée concernée, ou si l'annonceur ne parvient pas à jouer la carte à la levée concernée. Une annonce de Roi Ultimo est perdue si le détenteur est forcé de jouer le Roi avant la dernière levée ou si les adversaires gagnent la dernière levée.
 
-In most contracts any card may be led (exceptions - see below) and the other players must follow suit if they can. A player who has no card of the suit that was led **must** trump by playing a Tarock if they have any. A player who has no cards of the suit led and no Tarocks may play any card, but cannot win the trick.
+À son tour de parole pendant le tour d'annonces, un adversaire de l'enchérisseur peut dire Kontra au jeu, doublant le score du contrat. Un joueur peut aussi dire Kontra à tout bonus annoncé par l'équipe adverse, doublant son score. Un adversaire d'un joueur qui a dit Kontra peut répondre à son tour en disant Rekontra pour un score quadruple, et un adversaire d'un joueur qui a dit Rekontra peut répondre avec Subkontra, de sorte que le score original est multiplié par 8.
 
-Any player who has announced Spatz (Pagat Ultimo), Uhu or King Ultimo must keep the card until the scheduled trick and play it then, unless the rules of play force it to be played earlier, or in the case of Uhu prevent it from being played on the penultimate trick (if the holder has to follow suit to another player's lead). If a player has announced Uhu and Spatz and is forced to play one of the cards early, the II must be played before the I.
+Les kontras au jeu et aux divers bonus sont indépendants, donc un joueur disant Kontra doit préciser à quel(s) élément(s) il dit Kontra. Par exemple, l'enchérisseur d'un « Rufer mit Spatz » doit annoncer le Spatz, le joueur suivant peut contrer le Spatz, le troisième peut contrer le jeu et le quatrième, détenant le Roi appelé et une bonne main, peut recontrer le jeu mais pas le Spatz. Le jeu vaut alors 4 points de jeu (1×4) et le Spatz annoncé aussi 4 (2×2). Si l'équipe de l'enchérisseur gagne le jeu mais perd le Spatz et qu'aucun autre bonus n'est réalisé, le résultat net sera un score nul.
 
-**In a Fahren** (Trischaken) there are extra restrictions. When playing to a trick each player must play a card that beats the highest card so far played to the trick if possible. (If a plain suit has been led and trumped, a subsequent player who can follow suit can play any card of the suit led, since none of these cards can beat the trump; a subsequent player who has no card of the suit led must play a higher trump if possible, and failing that a lower trump.) The holder of the Pagat (Tarock I) is not allowed to play it or lead it to a trick until it is their only remaining Tarock.
+Formellement, les annonces continuent dans le sens inverse des aiguilles d'une montre jusqu'à ce qu'il n'y ait plus rien à dire. Les joueurs qui ne souhaitent rien annoncer ou contrer doivent dire *gut* (passe) à leur tour. Les bonus ne peuvent être annoncés qu'au premier tour de parole d'un joueur, et un joueur ne peut contrer le jeu ou un bonus qu'à sa première occasion de le faire.
 
-## Scoring
+**Dans un Fahren** (Trischaken) il n'y a pas d'annonces de bonus mais il est toujours possible de contrer. Dans ce cas, chaque joueur, en commençant par le joueur à la droite du donneur et dans le sens inverse des aiguilles d'une montre, a une chance de parler, et doit soit contrer soit passer. Il n'y a pas d'équipes et chaque joueur dit Kontra (ou non) en son propre nom.
 
-It is usual to play for small stakes, the loser(s) paying the winner(s) in cash after each deal. A typical stake would be 10 cents per point. It would be possible to keep score on paper instead, with a column for each player recording their cumulative net loss or gain, and settle up at the end of the session.
+## Jeu
 
-At the end of the play, each team combines the cards they have one in tricks with their part of the talon if any and adds up the value of the counting cards they have. The total should be 71 and the team with the majority of card points (36 or more) wins the game points for the contract or 'game', as given in the contract table above. Note that Sechserdreier is worth 2 points if it is won by the bidder but 4 game points if it is won by the bidder's opponents.
+Quelle que soit l'issue des enchères, c'est toujours le joueur à la droite du donneur qui mène la première levée. Chaque levée est gagnée par le Tarock (atout) le plus élevé s'il y en a, ou par la carte la plus élevée de la couleur menée s'il n'y a pas de Tarock. Le joueur qui gagne la levée range les quatre cartes face contre table devant lui dans son tas de levées et mène la levée suivante.
 
-Each team also checks to see whether they have won any of the bonuses, and whether any announced bonuses were won or lost. The bonus scores are listed in the bonus table above. With the exception of Valat these gains and losses are independent of each other and of the game. 
+Dans la plupart des contrats, n'importe quelle carte peut être menée (exceptions — voir ci-dessous) et les autres joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur menée **doit** couper en jouant un Tarock s'il en a. Un joueur qui n'a pas de carte de la couleur menée et pas de Tarock peut jouer n'importe quelle carte, mais ne peut pas gagner la levée.
 
-If a team wins all the tricks, they score 6× the price of the contract, or 12× the price of the contract if the Valat was announced in the round of announcements. If a team announces Valat and loses a trick, they pay 12× the price of the contract. No other bonuses count except for Spatz and Uhu if the contract was a Rufer.
+Tout joueur qui a annoncé le Spatz (Pagat Ultimo), l'Uhu ou le Roi Ultimo doit garder la carte jusqu'à la levée prévue et la jouer alors, sauf si les règles du jeu l'obligent à la jouer plus tôt, ou dans le cas de l'Uhu l'empêchent de la jouer à l'avant-dernière levée (si le détenteur doit suivre la couleur d'une carte menée par un autre joueur). Si un joueur a annoncé l'Uhu et le Spatz et est forcé de jouer une des cartes plus tôt, le II doit être joué avant le I.
 
-If the contract was Rufer mit Pagat (or Rufer mit Uhu) the bidder's team win 18 game points =6×(1+2) if they take all the tricks. If both Pagat and Uhu are announced then taking all the tricks is worth 30 game points =6×(1+2+2). If the Valat was announced these payments are doubled to 12× the contract value. If the bidder's team announces Valat in a Rufer with Spatz or Uhu but lose a trick, they pay 12× the contract value even if the Spatz or Uhu succeeds.
+**Dans un Fahren** (Trischaken) il y a des restrictions supplémentaires. En jouant à une levée, chaque joueur doit jouer une carte qui bat la carte la plus forte jouée jusqu'ici si possible. (Si une couleur a été menée et coupée, un joueur ultérieur qui peut suivre la couleur peut jouer n'importe quelle carte de la couleur menée, puisque aucune de ces cartes ne peut battre l'atout ; un joueur ultérieur qui n'a pas de carte de la couleur menée doit jouer un atout supérieur si possible, ou à défaut un atout inférieur.) Le détenteur du Pagat (Tarock I) n'est pas autorisé à le jouer ou à le mener à une levée tant que ce n'est pas son dernier Tarock.
 
-When the net gain or loss for each team has been calculated, if there were two teams of two (the bidder having called a King), each player in the losing team pays the net amount to one member of the winning team. If there was a lone player against a team of three, then each member of the team pays or receives the net amount to or form the lone player, whose gain or loss is therefore three times the net score.
+## Marquage des points
 
-**Examples.** 
+Il est d'usage de jouer pour de petites mises, les perdants payant les gagnants en argent après chaque donne. Une mise typique serait de 10 centimes par point. Il serait possible de tenir le score sur papier, avec une colonne pour chaque joueur enregistrant sa perte ou son gain cumulé net, et de régler à la fin de la session.
 
-- A player bids Rufer mit Spatz, and the holder of the called King manages to save it for the last trick, which is won by the Pagat. The bidding team manage to win the other three Kings as well. The score is 1 for game, 2 for the announced Spatz, 1 for King ultimo, 1 for Four Kings, total 5. The bidder and the called partner receive 5 game points each and the other players lose 5 each.
+À la fin du jeu, chaque équipe combine les cartes qu'elle a prises en levées avec sa part du talon et additionne la valeur de ses cartes à valeur. Le total devrait être de 71 et l'équipe ayant la majorité des points de cartes (36 ou plus) gagne les points de jeu pour le contrat ou le « jeu », comme indiqué dans le tableau des contrats ci-dessus. Notez que le Sechserdreier vaut 2 points s'il est gagné par l'enchérisseur mais 4 points de jeu s'il est gagné par les adversaires de l'enchérisseur.
 
-- A player bids Rufer mit Uhu and manages to win the penultimate trick with the II and also the game, but the opponents win all three cards of the Trull (Sküs, XXI, I). The bidder and called partner in 1 for the game and 2 for the Uhu but lose 1 for the Trull. They each win 2 game points and their opponents each lose 2.
+Chaque équipe vérifie aussi si elle a gagné des bonus, et si les bonus annoncés ont été gagnés ou perdus. Les scores des bonus sont listés dans le tableau des bonus ci-dessus. À l'exception du Valat, ces gains et pertes sont indépendants les uns des autres et du jeu.
 
-- The first player bids Sechserdreier and announces Valat, but fails to win all the tricks. The cost is 4×12=48 game points paid to each opponent (total 144).
+Si une équipe gagne toutes les levées, elle marque 6× la valeur du contrat, ou 12× si le Valat a été annoncé dans le tour d'annonces. Si une équipe annonce le Valat et perd une levée, elle paie 12× la valeur du contrat. Aucun autre bonus ne compte sauf le Spatz et l'Uhu si le contrat était un Rufer.
 
-**In a Fahren** (Trischaken) there are no teams. Each player counts the value of the cards in their own tricks, and the cards in the talon count for no one. Each pair of players compares the number of card points they have taken, and if neither of them said Kontra the player with more card points pays 2 game points to the player with fewer. If one of them said Kontra the payment between them is doubled to 4 game points and if both said Kontra it is doubled again to 8 game points. If two players tie there is no payment between them.
+Si le contrat est un Rufer mit Pagat (ou Rufer mit Uhu), l'équipe de l'enchérisseur gagne 18 points de jeu = 6×(1+2) si elle gagne toutes les levées. Si le Pagat et l'Uhu sont tous deux annoncés, gagner toutes les levées vaut 30 points de jeu = 6×(1+2+2). Si le Valat a été annoncé, ces paiements sont doublés à 12× la valeur du contrat. Si l'équipe de l'enchérisseur annonce le Valat dans un Rufer avec Spatz ou Uhu mais perd une levée, elle paie 12× la valeur du contrat même si le Spatz ou l'Uhu réussit.
 
-**Example.**
+Quand le gain ou la perte net de chaque équipe a été calculé, s'il y avait deux équipes de deux (l'enchérisseur ayant appelé un Roi), chaque joueur de l'équipe perdante paie le montant net à un membre de l'équipe gagnante. S'il y avait un joueur seul contre une équipe de trois, chaque membre de l'équipe paie ou reçoit le montant net du joueur seul, dont le gain ou la perte est donc trois fois le score net.
 
-In a Fahren players A and C said Kontra but B and D did not. The card points taken were A: 9, B: 27, C: 16, D: 14. The result: 
+**Exemples.**
 
-- A wins 4 from B, 8 from C and 4 from D.
+- Un joueur enchérit au Rufer mit Spatz, et le détenteur du Roi appelé parvient à le garder pour la dernière levée, qui est gagnée par le Pagat. L'équipe de l'enchérisseur parvient aussi à gagner les trois autres Rois. Le score est de 1 pour le jeu, 2 pour le Spatz annoncé, 1 pour le Roi ultimo, 1 pour les Quatre Rois, soit 5 au total. L'enchérisseur et le partenaire appelé reçoivent chacun 5 points de jeu et les autres joueurs perdent 5 chacun.
 
-- D wins 2 from B and 4 from C. 
+- Un joueur enchérit au Rufer mit Uhu et parvient à gagner l'avant-dernière levée avec le II ainsi que le jeu, mais les adversaires gagnent les trois cartes du Trull (Sküs, XXI, I). L'enchérisseur et le partenaire appelé gagnent 1 pour le jeu et 2 pour l'Uhu mais perdent 1 pour le Trull. Ils gagnent chacun 2 points de jeu et leurs adversaires perdent chacun 2.
 
-- C wins 4 from B. 
+- Le premier joueur enchérit au Sechserdreier et annonce le Valat, mais échoue à gagner toutes les levées. Le coût est de 4×12 = 48 points de jeu payés à chaque adversaire (144 au total).
 
-- So the net result is A +16, B -10, C -8, D +2.
+**Dans un Fahren** (Trischaken) il n'y a pas d'équipes. Chaque joueur compte la valeur des cartes dans ses propres levées, et les cartes du talon ne comptent pour personne. Chaque paire de joueurs compare le nombre de points de cartes qu'ils ont pris, et si aucun des deux n'a dit Kontra, le joueur avec le plus de points paie 2 points de jeu au joueur qui en a le moins. Si l'un d'eux a dit Kontra, le paiement entre eux est doublé à 4 points de jeu, et si les deux ont dit Kontra, il est doublé à 8 points de jeu. Si deux joueurs sont à égalité, il n'y a pas de paiement entre eux.
 
-After a Fahren, the next four deals are played for double stakes. If another Fahren occurs during this set of four deals, the stakes for it are not doubled, and it does not count towards the number of hands due to be played for double stakes, but a further four hands for double stakes are added to those scheduled to be played.
+**Exemple.**
 
-There is no fixed end to the session. The players may agree in advance to play a certain number of deals (a multiple of 4 so that each player deals an equal number of times) or to play until a certain time. Alternatively they may use the traditional method by which a player who wishes to end soon declares a 'Sküs round'. In the next deal they note who held the Sküs (or in the deal after that if the Sküs was in the talon and not picked up by any player). The session continues until the Sküs holder's next turn to deal, which begins the last 'round' - i.e. set of four deals - and then the session ends.
+Dans un Fahren, les joueurs A et C ont dit Kontra mais B et D ne l'ont pas dit. Les points de cartes pris étaient A : 9, B : 27, C : 16, D : 14. Le résultat :
 
-**Note on Valat**
+- A gagne 4 de B, 8 de C et 4 de D.
 
-In the hypothetical case of a Rufer bid in which the bidder's team wins all the tricks without announcing Valat but an the announced bird (Spatz or Uhu) fails (because the bird could not be played on the scheduled trick or because it was beaten by the player's partner) the bidder's team ought to score (+1-2)×6 (game won and announced bird lost, with the Valat multiplier) which is -6 points, each paying 6 to one of the opponents. This seems to be an anomaly in the scoring system in that the team could have done better by deliberately giving away a trick, thus avoiding the Valat multiplier and losing only 1 point instead of 6. It is doubtful whether this situation has ever arisen in a real game or would ever arise with sensible play, but players who are worried about this remote possibility can avoid the anomaly by instead adopting a fixed score for Valat and counting nothing for any bonuses, even for announced birds in a Rufer. If this solution is used, note that Rufer with all bonuses could score as much as 11 points without winning all the tricks, so a higher Valat multiple should be used to make sure that Valat is always rewarded. For example in the Ramingstein variant (see link below) has Valat multiples of ×16 and ×32 applied to the game only (no bonuses count) so that a Rufer with Spatz or Uhu and silent Valat is worth 16, Rufer with announced Valat is worth 32, and the corresponding scores for Dreier are 32 and 64.
+- D gagne 2 de B et 4 de C.
 
-## Variations
+- C gagne 4 de B.
 
-### Five Players
+- Le résultat net est donc A +16, B -10, C -8, D +2.
 
-It is possible for five people to play. In this case the dealer deals cards as usual to the other four players and the talon cards are face down in front of the dealer. The dealer takes no part in the bidding, announcements and play and does not win or lose anything **except** in the case of a Fahren.
+Après un Fahren, les quatre donnes suivantes se jouent avec des mises doublées. Si un autre Fahren se produit pendant cette série de quatre donnes, les mises pour celui-ci ne sont pas doublées, et il ne compte pas dans le nombre de mains à jouer en mises doublées, mais quatre mains supplémentaires en mises doublées sont ajoutées à celles prévues.
 
-If the player to dealer's right says 'Erster' and the others all pass, a Fahren is played and in this case the dealer picks up the 6 talon cards and joins the game. In the round of announcements the dealer can Kontra in the same way as the other players. The dealer takes part in the first six tricks only, playing last to the first trick since the player to dealer's right leads as usual. If the dealer wins the sixth trick with their last card, the turn to lead to the seventh trick passes to the player to dealer's right. The dealer counts the card points taken in tricks and pays or receives from each of the other players in the usual way.
+Il n'y a pas de fin fixe à la session. Les joueurs peuvent convenir à l'avance de jouer un certain nombre de donnes (un multiple de 4 pour que chaque joueur donne un nombre égal de fois) ou de jouer jusqu'à une certaine heure. Alternativement, ils peuvent utiliser la méthode traditionnelle par laquelle un joueur qui souhaite bientôt terminer déclare un « tour du Sküs ». À la donne suivante, ils notent qui tenait le Sküs (ou à la donne suivante si le Sküs était dans le talon et n'a été ramassé par aucun joueur). La session continue jusqu'au prochain tour de donne du détenteur du Sküs, qui commence le dernier « tour » — c'est-à-dire une série de quatre donnes — puis la session se termine.
+
+**Note sur le Valat**
+
+Dans le cas hypothétique d'une enchère de Rufer où l'équipe de l'enchérisseur gagne toutes les levées sans annoncer le Valat mais où l'oiseau annoncé (Spatz ou Uhu) échoue (parce que l'oiseau ne pouvait pas être joué à la levée prévue ou parce qu'il a été battu par le partenaire du joueur), l'équipe de l'enchérisseur devrait marquer (+1-2)×6 (jeu gagné et oiseau annoncé perdu, avec le multiplicateur du Valat), soit -6 points, chacun payant 6 à l'un des adversaires. Cela semble être une anomalie dans le système de marquage en ce que l'équipe aurait pu mieux faire en cédant volontairement une levée, évitant ainsi le multiplicateur du Valat et ne perdant que 1 point au lieu de 6. Il est douteux que cette situation se soit jamais produite dans un vrai jeu ou qu'elle se produise avec un jeu sensé, mais les joueurs inquiets de cette possibilité lointaine peuvent éviter l'anomalie en adoptant à la place un score fixe pour le Valat et ne comptant rien pour les bonus, même pour les oiseaux annoncés dans un Rufer. Si cette solution est utilisée, notez qu'un Rufer avec tous les bonus pourrait marquer jusqu'à 11 points sans gagner toutes les levées, donc un multiplicateur de Valat plus élevé devrait être utilisé pour s'assurer que le Valat est toujours récompensé. Par exemple, la variante de Ramingstein (voir lien ci-dessous) a des multiplicateurs de Valat de ×16 et ×32 appliqués au jeu uniquement (aucun bonus ne compte) de sorte qu'un Rufer avec Spatz ou Uhu et Valat silencieux vaut 16, un Rufer avec Valat annoncé vaut 32, et les scores correspondants pour le Dreier sont 32 et 64.
+
+## Variantes
+
+### Cinq joueurs
+
+Il est possible de jouer à cinq. Dans ce cas, le donneur distribue les cartes comme d'habitude aux quatre autres joueurs et les cartes du talon sont face contre table devant le donneur. Le donneur ne participe pas aux enchères, annonces et jeu et ne gagne ni ne perd quoi que ce soit **sauf** dans le cas d'un Fahren.
+
+Si le joueur à la droite du donneur dit « Erster » et que les autres passent tous, un Fahren est joué et dans ce cas le donneur ramasse les 6 cartes du talon et rejoint le jeu. Dans le tour d'annonces, le donneur peut contrer de la même manière que les autres joueurs. Le donneur ne participe qu'aux six premières levées, jouant en dernier à la première levée puisque le joueur à la droite du donneur mène comme d'habitude. Si le donneur gagne la sixième levée avec sa dernière carte, le tour de mener à la septième levée passe au joueur à la droite du donneur. Le donneur compte les points de cartes pris en levées et paie ou reçoit de chaque autre joueur de la manière habituelle.
 
 ### Solorufer, Solodreier
 
-In private games, some groups recognise **Solorufer** as an additional contract that can be bid. This makes it possible for a player without the I or II to call a partner: without it the only options are to play alone or risk a Fahren. In Solorufer the bidder calls a King but takes no cards from the talon. The talon is not exposed until after the play, when all six cards are added to the opponents' tricks unless it turns out that the called King is in the talon. If the called King is in the talon the bidder plays alone against a team of three, though none of the players will initially know this, and the half of the talon that contains the called King belongs to the declarer while the other half belongs to the opponents. In Solorufer the game is worth 2 points and bonuses score double (as in Dreier).
+Dans les parties privées, certains groupes reconnaissent **Solorufer** comme un contrat supplémentaire qui peut être enchéri. Cela permet à un joueur sans le I ou le II d'appeler un partenaire : sans cela, les seules options sont de jouer seul ou de risquer un Fahren. Au Solorufer, l'enchérisseur appelle un Roi mais ne prend aucune carte du talon. Le talon n'est pas exposé jusqu'à après le jeu, quand les six cartes sont ajoutées aux levées des adversaires sauf s'il s'avère que le Roi appelé est dans le talon. Si le Roi appelé est dans le talon, l'enchérisseur joue seul contre une équipe de trois, bien qu'aucun des joueurs ne le sache initialement, et la moitié du talon contenant le Roi appelé appartient au preneur tandis que l'autre moitié appartient aux adversaires. Au Solorufer, le jeu vaut 2 points et les bonus marquent le double (comme au Dreier).
 
-If Solorufer is allowed, players should agree where it ranks in the bidding. Some rank Solorufer above Rufer mit Pagat and Rufer mit Uhu but below Dreier. Others play that it is the lowest bid, and some only allow it to be bid by the first player (instead of saying 'Erster') to avoid having to play Fahren if all the others pass.
+Si le Solorufer est autorisé, les joueurs doivent s'accorder sur son rang dans les enchères. Certains le classent au-dessus du Rufer mit Pagat et du Rufer mit Uhu mais en dessous du Dreier. D'autres jouent que c'est l'enchère la plus basse, et certains ne l'autorisent qu'au premier joueur (au lieu de dire « Erster ») pour éviter d'avoir à jouer un Fahren si tous les autres passent.
 
-In some places **Solodreier** is allowed as the highest bid, scoring 4 game points. The bidder plays alone, the talon is not exposed and is added to the opponents' tricks, and bonuses score double (as in Dreier).
+Dans certains endroits, **Solodreier** est autorisé comme l'enchère la plus élevée, marquant 4 points de jeu. L'enchérisseur joue seul, le talon n'est pas exposé et est ajouté aux levées des adversaires, et les bonus marquent le double (comme au Dreier).
 
-### Tournament Rules
+### Règles de tournoi
 
-On this [archive page from tarockspiele.com](https://web.archive.org/web/20030423145315/http://www.tarockspiele.com/lungauer.html) is a version of the rules used in a tournament in Ramingstein. It features a higher score for Valat, but in case of Valat the bonuses for announced Spatz or Uhu in a Rufer are not counted.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Königrufen > Lungau
+Sur cette [page d'archive de tarockspiele.com](https://web.archive.org/web/20030423145315/http://www.tarockspiele.com/lungauer.html) se trouve une version des règles utilisées dans un tournoi à Ramingstein. Elle présente un score plus élevé pour le Valat, mais en cas de Valat, les bonus pour le Spatz ou l'Uhu annoncés dans un Rufer ne sont pas comptés.

@@ -3,272 +3,256 @@
 **Nombre de cartes :** 54
 **Difficulté :** —
 **Type :** Tarot, Tarot
-**But :** Which was introduced from Austria in the 19th century and has survived in Bukovina.
+**But :** Introduit d'Autriche au XIXe siècle et qui a survécu en Bucovine.
 
 ---
 
-- Introduction
-
-- The Cards
-
-- Players, Cards and Preparation
-
-- The Deal
-
-- The Bidding
-
 ## Introduction
 
-Tarok is played in several Romanian cities, and especially in the region around Suceava, which is now in the province of Moldavia. In the nineteenth century this territory was under Austrian rule: it formed the southern part of Bukovina, the most easterly province of the Habsburg empire. Tarok was certainly introduced to Romania from Austria in the 19th century, and the Romanian game preserves some older features of Austrian Tarok which have been abandoned elsewhere, especially the system of drawing the talon cards in stages.
+Le Tarok se joue dans plusieurs villes roumaines, et particulièrement dans la région autour de Suceava, qui se trouve maintenant dans la province de Moldavie. Au XIXe siècle, ce territoire était sous domination autrichienne : il formait la partie sud de la Bucovine, la province la plus orientale de l'empire des Habsbourg. Le Tarok a certainement été introduit en Roumanie depuis l'Autriche au XIXe siècle, et le jeu roumain conserve certaines caractéristiques anciennes du Tarok autrichien qui ont été abandonnées ailleurs, en particulier le système de prise des cartes du talon par étapes.
 
-The main description on this page is based on version of the game learned by John McLeod and Sally Prime game at Suceava between 14th and 17th September 2001 from Silviu Mara, Brenduşa Mara, Dr Eugen Popescu and Dr Lucia Popescu. Similar forms of Tarok are played in other parts of Romania, and in Chernovtsy (formerly Czernowitz), which is now in Ukraine but was in Romania in the first part of the 20th century and was the capital of the Austrian province of Bukovina. I am grateful to Teodor Totolici and Oleg Panchuk for information on these versions of the game.
+La description principale de cette page est basée sur la version du jeu apprise par John McLeod et Sally Prime à Suceava entre le 14 et le 17 septembre 2001 auprès de Silviu Mara, Brenduşa Mara, du Dr Eugen Popescu et du Dr Lucia Popescu. Des formes similaires de Tarok se jouent dans d'autres parties de la Roumanie, et à Tchernivtsi (anciennement Czernowitz), qui se trouve maintenant en Ukraine mais était en Roumanie dans la première partie du XXe siècle et était la capitale de la province autrichienne de Bucovine. Je suis reconnaissant envers Teodor Totolici et Oleg Panchuk pour les informations sur ces versions du jeu.
 
-## The Cards
+## Les cartes
 
-A standard 54-card Austrian tarok pack is used. This consists of 22 trumps, which in Romanian are called taroace (plural of tarok), and 8 cards in each of the four suits: hearts (inimă), diamonds (caro), clubs (treflă or cruce) and spades (pică). The highest trump is the skiz, which is unnumbered and looks a little like a joker. The remaining trumps are identified by large Roman numbers: the second highest is the XXI, which is called luna (moon), and the remaining trumps rank in numerical order, the lowest being the pagat (I). Each suit has four court cards: the king (rege or popa), queen (dama), horse (kabal) and jack (valet) below which are four pip cards: 10 - 7 in the black suits and ace - 4 in the red suits. The rank of the suit cards from high to low is:
+On utilise un jeu standard de 54 cartes de tarok autrichien. Celui-ci comprend 22 atouts, appelés taroace en roumain (pluriel de tarok), et 8 cartes dans chacune des quatre couleurs : cœurs (inimă), carreaux (caro), trèfles (treflă ou cruce) et piques (pică). L'atout le plus élevé est le skiz, qui n'est pas numéroté et ressemble un peu à un joker. Les autres atouts sont identifiés par de grands chiffres romains : le deuxième plus élevé est le XXI, appelé luna (lune), et les atouts restants se classent par ordre numérique, le plus bas étant le pagat (I). Chaque couleur comporte quatre figures : le roi (rege ou popa), la dame (dama), le cavalier (kabal) et le valet (valet) en dessous desquelles se trouvent quatre cartes numériques : 10 - 7 dans les couleurs noires et as - 4 dans les couleurs rouges. Le rang des cartes de couleur du plus élevé au plus bas est :
 
-- black suits: king, queen, horse, jack, 10, 9, 8, 7.
+- couleurs noires : roi, dame, cavalier, valet, 10, 9, 8, 7.
 
-- red suits: king, queen, horse, jack, ace, 2, 3, 4.
+- couleurs rouges : roi, dame, cavalier, valet, as, 2, 3, 4.
 
-As in nearly all tarot games, one of the main aims is to win tricks containing valuable cards. The cards have their normal point values as follows:
+Comme dans presque tous les jeux de tarot, l'un des objectifs principaux est de gagner des levées contenant des cartes précieuses. Les cartes ont leurs valeurs de points habituelles comme suit :
 
-| skiz, luna, pagat |   . . . . .   | 5 points each |
-| kings |   . . . . .   | 5 points each |
-| queens |   . . . . .   | 4 points each |
-| horses |   . . . . .   | 3 points each |
-| jacks |   . . . . .   | 2 points each |
-| all other cards |   . . . . .   | 1 point each |
+| skiz, luna, pagat | | 5 points chacun |
+| rois | | 5 points chacun |
+| dames | | 4 points chacun |
+| cavaliers | | 3 points chacun |
+| valets | | 2 points chacun |
+| toutes les autres cartes | | 1 point chacune |
 
-When counting up the cards won by each team at the end of the play, the cards are counted in groups of three, and two points subtracted from the total of each group. For example: [heart queen + tarok XII + spade 7] is worth 4 points (4 + 1 + 1 - 2); [spade king + spade jack + pagat] is worth 10 points (5 + 2 + 5 - 2); a group of three 1-point cards is worth one point (1 + 1 + 1 - 2). When counting a pile of cards, if one or two cards are left over at the end, just one point is subtracted from their value. For example a horse and a pip card left over are worth 3 points (3 + 1 - 1) while a horse alone is worth only 2 points (3 - 1). However the cards are divided between the teams, there are always 70 points in the pack altogether. Further discussion of this method of counting can be found on the page about counting points in tarot games.
+Lors du décompte des cartes gagnées par chaque équipe à la fin du jeu, les cartes sont comptées par groupes de trois, et deux points sont soustraits du total de chaque groupe. Par exemple : [dame de cœur + tarok XII + 7 de pique] vaut 4 points (4 + 1 + 1 - 2) ; [roi de pique + valet de pique + pagat] vaut 10 points (5 + 2 + 5 - 2) ; un groupe de trois cartes à un point vaut un point (1 + 1 + 1 - 2). Lors du comptage d'un tas de cartes, s'il reste une ou deux cartes à la fin, on ne soustrait qu'un seul point de leur valeur. Par exemple, un cavalier et une carte numérique restants valent 3 points (3 + 1 - 1) tandis qu'un cavalier seul ne vaut que 2 points (3 - 1). Cependant les cartes sont réparties entre les équipes, il y a toujours 70 points dans le jeu au total.
 
-## Players and preparation
+## Joueurs et préparation
 
-The principal form of the game is for four players. This will be described first, followed by the three-player form, which is played when a fourth person is not available. The main description is of the game played at Suceava; the few variations we know of are mentioned at the end.
+La forme principale du jeu est pour quatre joueurs. Celle-ci sera décrite en premier, suivie de la forme à trois joueurs, qui se joue lorsqu'un quatrième joueur n'est pas disponible. La description principale concerne le jeu pratiqué à Suceava ; les quelques variantes que nous connaissons sont mentionnées à la fin.
 
-The first dealer can be determined by taking from the pack four cards including one tarok, and dealing them to the players. The one who receives the tarok deals first, and the turn to deal passes to the right after each hand. Deal and play are anticlockwise.
+Le premier donneur peut être déterminé en tirant du jeu quatre cartes dont un tarok, et en les distribuant aux joueurs. Celui qui reçoit le tarok distribue en premier, et le tour de distribuer passe à droite après chaque main. La distribution et le jeu se font dans le sens antihoraire.
 
-The players settle up in cash after each hand. The scores on which the payments are based will be called game points, to distinguish them from the card points that determine which team has won the game. In 2001, typical stakes varied from 500 lei to 5,000 lei per game point (at that time, one US dollar was equivalent to about 30,000 lei). There is a pool, to which all the players contribute, which is won by a successful announced pagat ultimo (see below). The traditional name for this pool is jidan, which is an insulting word for a Jew, but the players were embarrassed about this and did not like to use the term. At the start of the game, and whenever the pool is empty, everyone contributes 1 game point to it. In addition, at the start of each hand the dealer puts in 1 game point before dealing (so the pool for the first hand contains 5 game points - 2 contributed by the dealer and 1 by each other player).
+Les joueurs règlent en espèces après chaque main. Les scores sur lesquels les paiements sont basés seront appelés points de jeu, pour les distinguer des points de carte qui déterminent quelle équipe a remporté le jeu. En 2001, les enjeux typiques variaient de 500 lei à 5 000 lei par point de jeu (à cette époque, un dollar américain équivalait à environ 30 000 lei). Il y a un pot, auquel tous les joueurs contribuent, qui est remporté par un pagat ultimo annoncé réussi (voir ci-dessous). Le nom traditionnel de ce pot est jidan, qui est un mot injurieux pour un Juif, mais les joueurs en étaient gênés et n'aimaient pas utiliser ce terme. Au début du jeu, et chaque fois que le pot est vide, chacun contribue 1 point de jeu. De plus, au début de chaque main, le donneur y met 1 point de jeu avant de distribuer (le pot pour la première main contient donc 5 points de jeu — 2 du donneur et 1 de chaque autre joueur).
 
-## Deal
+## Distribution
 
-The dealer shuffles and offers the cards to the player opposite to cut. When the cards are cut at least 5 cards must remain in each portion of the pack. When the cards have been cut the dealer puts the first 6 cards face down in the centre of the table to form the talon (in a single batch, without disturbing their order) and deals out the remaining cards in batches of 6 so that each player has 12 cards.
+Le donneur bat et offre les cartes au joueur opposé pour couper. Lors de la coupe, au moins 5 cartes doivent rester dans chaque portion du jeu. Après la coupe, le donneur pose les 6 premières cartes face cachée au centre de la table pour former le talon (en un seul lot, sans en perturber l'ordre) et distribue les cartes restantes par paquets de 6 de sorte que chaque joueur ait 12 cartes.
 
-The player opposite the dealer can knock on the cards instead of cutting them, in which case the player to dealer's right has four options: to ask for the cards to be dealt 6 at a time as usual; or 12 at a time; or by a method called abeles; or 1-2-3-3-2-1. In all cases, the top six cards are dealt to the talon. 
+Le joueur opposé au donneur peut taper sur les cartes au lieu de les couper, auquel cas le joueur à la droite du donneur a quatre options : demander que les cartes soient distribuées par 6 comme d'habitude ; ou par 12 ; ou par une méthode appelée abeles ; ou 1-2-3-3-2-1. Dans tous les cas, les six cartes du dessus sont distribuées au talon.
 
-- If the cards are to be dealt in batches of 12, the player to dealer's right chooses whether to receive the first, second, third or fourth batch, and the next two players in turn choose one of the remaining batches, and the dealer takes the unclaimed batch. 
+- Si les cartes sont distribuées par paquets de 12, le joueur à la droite du donneur choisit s'il reçoit le premier, deuxième, troisième ou quatrième paquet, et les deux joueurs suivants à tour de rôle choisissent l'un des paquets restants, et le donneur prend le paquet non réclamé.
 
-- In abeles, the first batch of 6 cards is dealt to the talon, the next 6 to the player to dealer's right, then a batch of 12 cards to each of the other three players in rotation, and the final 6 cards to the player to dealer's right. 
+- En abeles, le premier paquet de 6 cartes est distribué au talon, les 6 suivantes au joueur à la droite du donneur, puis un paquet de 12 cartes à chacun des trois autres joueurs à tour de rôle, et les 6 dernières au joueur à la droite du donneur.
 
-- In 1-2-3-3-2-1, after the talon, the dealer deals a single card to each player, then two to each, then three to each, then three, two, one.
+- En 1-2-3-3-2-1, après le talon, le donneur distribue une carte à chaque joueur, puis deux à chacun, puis trois à chacun, puis trois, deux, un.
 
-A player whose 12 cards include no tarok and no king may (but is not obliged to) demand that the hand be abandoned. In this case there is no bidding or play. The cards are thrown in and the next dealer deals, after contributing one point to the pool as usual.
+Un joueur dont les 12 cartes ne comprennent aucun tarok ni aucun roi peut (mais n'est pas obligé de) demander que la main soit abandonnée. Dans ce cas, il n'y a ni enchères ni jeu. Les cartes sont jetées et le donneur suivant distribue, après avoir contribué un point au pot comme d'habitude.
 
-## Bidding
+## Enchères
 
-There are three possible contracts: doi, unu and solo, in which the declarer takes respectively two, one or no cards from the talon. The contracts of doi and unu can be played at various levels, depending on the order in which the talon cards are inspected, on how much of the talon the declarer sees before taking cards and on which cards are taken. Playing at a higher level increases the amount to be paid if the game is lost but usually does not affect the amount won if it is successful. Bidding always starts at the first level of the contract in question: the higher levels are used only when another player wants to overcall the first bidder. In practice, by far the commonest contract is doi; a player with a strong hand will usually play solo, and unu is rarely bid.
+Il y a trois contrats possibles : doi, unu et solo, dans lesquels le déclarant prend respectivement deux, une ou zéro carte du talon. Les contrats doi et unu peuvent être joués à divers niveaux, selon l'ordre dans lequel les cartes du talon sont inspectées, la quantité de talon que le déclarant voit avant de prendre des cartes et les cartes prises. Jouer à un niveau plus élevé augmente le montant à payer en cas de perte mais n'affecte généralement pas le montant gagné en cas de réussite. Les enchères commencent toujours au premier niveau du contrat concerné : les niveaux supérieurs ne sont utilisés que lorsqu'un autre joueur veut surclasser le premier enchérisseur. En pratique, le contrat de loin le plus courant est doi ; un joueur avec une main forte jouera généralement solo, et unu est rarement enchéri.
 
-The player to dealer's right speaks first; the possible bids are unul de doi (first two), unul de unu (first one) or solo. A player who does not wish to bid can pass, in which case the next player in turn has the same options. If all four players pass, a game of michi-michi is played. If someone bids, the bidding continues in rotation for as many circuits as necessary until three players have passed. A player who has passed cannot bid again.
+Le joueur à la droite du donneur parle en premier ; les enchères possibles sont unul de doi (deux premiers), unul de unu (un premier) ou solo. Un joueur qui ne souhaite pas enchérir peut passer, auquel cas le joueur suivant a les mêmes options. Si les quatre joueurs passent, un michi-michi est joué. Si quelqu'un enchérit, les enchères se poursuivent en rotation autant de tours que nécessaire jusqu'à ce que trois joueurs aient passé. Un joueur qui a passé ne peut plus enchérir.
 
-A later player can overcall a bid of unul de doi by bidding al doilea de doi (second two), which in turn can be overcalled by al treilea de doi (third two). Any of these can be overcalled by unul de unu or solo. In the same way, unul de unu can in theory be overcalled by successively higher levels of one (al doilea de unu, al treilea de unu) or by solo. A bid of solo cannot be overcalled by a later player. If a player whose first turn to bid was earlier has been overcalled by a later player, and wishes to stay in the bidding, the earlier player says 'la mine' (to me), meaning that he or she is prepared to play the same contract that the overcaller named. The earlier bidder takes priority and plays the contract unless the later bidder makes an overcall which the earlier bidder is unwilling to equal.
+Un joueur ultérieur peut surclasser une enchère de unul de doi par al doilea de doi (deuxième deux), qui peut à son tour être surclassée par al treilea de doi (troisième deux). N'importe laquelle peut être surclassée par unul de unu ou solo. De la même manière, unul de unu peut en théorie être surclassée par des niveaux successifs d'un (al doilea de unu, al treilea de unu) ou par solo. Une enchère de solo ne peut pas être surclassée. Si un joueur dont le premier tour d'enchère était antérieur a été surclassé par un joueur ultérieur et souhaite rester dans les enchères, le joueur antérieur dit « la mine » (à moi), signifiant qu'il est prêt à jouer le même contrat que le surclassant. Le premier enchérisseur a la priorité et joue le contrat à moins que le surclassant ne fasse une surenchère que le premier n'est pas disposé à égaler.
 
-## Calling a king and using the talon
+## Appel d'un roi et utilisation du talon
 
-The remaining bidder when all the other players have passed is the declarer. The declarer must call a king, and whoever holds the called king is the declarer's partner for the hand. The partner must not reveal his or her identity, but will become known during the play (for example when the king is played), or in certain cases during the round of announcements. It is legal to call a king that you hold yourself, and in that case you will play alone against the other three players in partnership; you also play alone if the called king happens to be in the talon. These are the only methods of playing alone - if all the kings are in the hands of the other three players then you have to play with a partner.
+L'enchérisseur restant lorsque tous les autres joueurs ont passé est le déclarant. Le déclarant doit appeler un roi, et celui qui détient le roi appelé est le partenaire du déclarant pour la main. Le partenaire ne doit pas révéler son identité, mais elle deviendra connue pendant le jeu (par exemple lorsque le roi est joué), ou dans certains cas lors du tour des annonces. Il est légal d'appeler un roi que vous détenez vous-même, et dans ce cas vous jouerez seul contre les trois autres joueurs en partenariat ; vous jouez aussi seul si le roi appelé se trouve par hasard dans le talon. Ce sont les seules méthodes de jeu en solo — si tous les rois sont dans les mains des trois autres joueurs, vous devez jouer avec un partenaire.
 
-After calling a king, if the contract is doi, the declarer takes two cards from the talon and discards two; if it is unu the declarer takes one talon card and discards one, and if it is solo, the talon remains unseen until the end of the play. The kings, skiz, luna and pagat cannot be discarded. Other trumps can be discarded only if the declarer has no other choice, and is thereby left with nothing but kings and trumps. If any trumps are discarded they must be placed face up; other cards are discarded face down.
+Après avoir appelé un roi, si le contrat est doi, le déclarant prend deux cartes du talon et en écarte deux ; si c'est unu, le déclarant prend une carte du talon et en écarte une ; si c'est solo, le talon reste non vu jusqu'à la fin du jeu. Les rois, le skiz, la luna et le pagat ne peuvent pas être écartés. Les autres atouts ne peuvent être écartés que si le déclarant n'a pas d'autre choix et se retrouve avec seulement des rois et des atouts. Si des atouts sont écartés, ils doivent être posés face visible ; les autres cartes sont écartées face cachée.
 
-By far the commonest contract is unul de doi, for which the procedure is as follows. After calling a king, you look at the top two cards of the talon, keeping them separate from your hand. If you like these cards you can add them to your hand and discard two; the remaining four talon cards are placed face down to dealer's right; they will not be seen until the end of the play. In this case you are playing at the first level. Alternatively you can place the first two talon cards face up on the table for all to see, and look at the next two talon cards, again keeping them separate from your hand. If you decide to add these two cards to your hand and discard two you are playing at the second level; the two cards you rejected and the two unseen cards are placed to dealer's right, the rejected cards remaining face up. If you reject the second two talon cards, placing them face up on the table, you then draw the last two, and if you add them to your hand and discard two you are playing at the third level; the four rejected cards are placed face up to dealer's right. Having looked at the last two talon cards you may choose to place these face up on the table as well; you can then go back and take either the first two cards, playing at the fourth level, or the second two, playing at the fifth level. In either case the other four cards are placed face up to the dealer's right and you discard two cards as usual.
+De loin, le contrat le plus courant est unul de doi, pour lequel la procédure est la suivante. Après avoir appelé un roi, vous regardez les deux premières cartes du talon, en les gardant séparées de votre main. Si ces cartes vous conviennent, vous pouvez les ajouter à votre main et en écarter deux ; les quatre cartes restantes du talon sont posées face cachée à la droite du donneur ; elles ne seront pas vues avant la fin du jeu. Dans ce cas, vous jouez au premier niveau. Alternativement, vous pouvez poser les deux premières cartes du talon face visible sur la table pour que tous les voient, et regarder les deux cartes suivantes, en les gardant séparées de votre main. Si vous décidez d'ajouter ces deux cartes à votre main et d'en écarter deux, vous jouez au deuxième niveau ; les deux cartes que vous avez refusées et les deux non vues sont posées à la droite du donneur, les cartes refusées restant face visible. Si vous refusez les secondes deux cartes du talon, en les posant face visible sur la table, vous tirez alors les deux dernières, et si vous les ajoutez à votre main et en écartez deux, vous jouez au troisième niveau ; les quatre cartes refusées sont posées face visible à la droite du donneur. Ayant regardé les deux dernières cartes du talon, vous pouvez choisir de les poser également face visible sur la table ; vous pouvez alors revenir et prendre soit les deux premières cartes (quatrième niveau), soit les deux secondes (cinquième niveau). Dans les deux cas, les quatre autres cartes sont posées face visible à la droite du donneur et vous écartez deux cartes comme d'habitude.
 
-If the contract is al doilea de doi (second two), the procedure is similar, except that the talon is arranged in three pairs of cards and you look first at the second pair (playing at the second level if you take them), then at the last pair and finally at the pair that was originally on top of the talon. Having exposed all these you can go back to the second or third pair. The level increases by one at each stage, so that for example, by the time you look at the top pair you are at the fourth level, and if having done that you go back to the bottom pair you are at the sixth level. In al treilea de doi (third two) you look first at the bottom two cards of the talon (level three), then the top two (level four), then the second two (level five), and having exposed them all you can go back to the bottom two (level six) or top two (level seven).
+Si le contrat est al doilea de doi (deuxième deux), la procédure est similaire, sauf que le talon est arrangé en trois paires de cartes et vous regardez d'abord la deuxième paire, puis la dernière paire et enfin la paire qui était à l'origine au-dessus du talon. Ayant exposé toutes celles-ci, vous pouvez revenir à la deuxième ou troisième paire.
 
-The method of taking a card from the talon in unu is similar: in unul de unu (first one) you can play at the first level if you just take the top card, or get as high as the eleventh level by going through the whole talon one card at a time and then returning to the fifth card. If you play al treilea de unu (third one) you could in theory get as high as the thirteenth level, where you look at the whole talon, starting with the third card, and finally return to the top card. However, it is inconceivable that the bidding would reach this level in a real game. Whatever type of unu is played, the declarer discards one card and the remaining five cards of the talon are placed to dealer's right, any that declarer exposed remaining face up.
+La méthode de prise d'une carte du talon en unu est similaire : en unul de unu, vous pouvez jouer au premier niveau si vous prenez simplement la carte du dessus, ou atteindre jusqu'au onzième niveau en parcourant tout le talon une carte à la fois puis en revenant à la cinquième carte.
 
-If the bid is solo, the talon is simply placed face down to dealer's right.
+Si l'enchère est solo, le talon est simplement posé face cachée à la droite du donneur.
 
-If the declarer finds the called king in the talon, the declarer has the option of giving up without play, and paying the other three players for a lost game.
+Si le déclarant trouve le roi appelé dans le talon, il a la possibilité d'abandonner sans jouer et de payer les trois autres joueurs pour un jeu perdu.
 
-## The Play
+## Le jeu
 
-After the declarer has called a king and (if the contract requires it) drawn cards from the talon and discarded, there is a round of announcements, which will be explained later, and then the play begins.
+Après que le déclarant a appelé un roi et (si le contrat l'exige) tiré des cartes du talon et écarté, il y a un tour d'annonces, qui sera expliqué plus tard, puis le jeu commence.
 
-No matter who is declarer, the player to dealer's right leads to the first trick. If a suit is led, players must follow with a card of the same suit if they can. A player who has no card of the suit led must play a tarok if possible. A player who has no cards of the suit led and no tarok may play any card. When a tarok is led the other players must play a tarok if they can, if not they may play anything.
+Peu importe qui est le déclarant, le joueur à la droite du donneur entame la première levée. Si une couleur est demandée, les joueurs doivent suivre avec une carte de la même couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur demandée doit jouer un tarok s'il en a. Un joueur qui n'a pas de carte de la couleur demandée ni de tarok peut jouer n'importe quelle carte. Lorsqu'un tarok est entamé, les autres joueurs doivent jouer un tarok s'ils le peuvent, sinon ils peuvent jouer n'importe quoi.
 
-A trick is won by the highest tarok played to it, or if it contains no tarok, by the highest card of the suit led. The winner of a trick leads to the next. The players keep the tricks they have won face down in front of themselves.
+Une levée est gagnée par le tarok le plus élevé joué, ou si elle ne contient pas de tarok, par la carte la plus élevée de la couleur demandée. Le gagnant d'une levée entame la suivante. Les joueurs gardent les levées gagnées face cachée devant eux.
 
-One convention is in general use during the play, especially by the declarer's team. To lead a small tarok - lower than X - indicates to your partner that you hold one of the highest trumps - skiz or luna. To lead a larger tarok - X or above - normally indicates that you hold neither of the top two and are playing your highest tarok. This convention is not an invariable rule, and can sometimes be used deceptively by an opponent pretending to be declarer's partner.
+Une convention est généralement utilisée pendant le jeu, surtout par l'équipe du déclarant. Entamer un petit tarok — inférieur à X — indique à votre partenaire que vous détenez l'un des atouts les plus élevés — le skiz ou la luna. Entamer un tarok plus grand — X ou supérieur — indique normalement que vous ne détenez aucun des deux plus élevés et jouez votre tarok le plus élevé. Cette convention n'est pas une règle absolue et peut parfois être utilisée de manière trompeuse par un adversaire se faisant passer pour le partenaire du déclarant.
 
-When all twelve tricks have been played, it will be clear who were the partners. The declarer and the holder of the called king combine the cards they have won with those discarded by the declarer. The two or three players of the opposing team combine their tricks with the unused talon cards to the right of the dealer. Each team counts the value of the cards in the tricks they have won - there are 70 points altogether as explained above. The declarer's team needs at least 36 points to win the 'game'. (The minimum needed to win is sometimes described as '35 points plus two cards', since two low cards left over after counting in threes are worth one point). The opponents win if they have 35 or more points.
+Lorsque les douze levées ont été jouées, les partenaires seront clairs. Le déclarant et le détenteur du roi appelé combinent les cartes qu'ils ont gagnées avec celles écartées par le déclarant. Les deux ou trois joueurs de l'équipe adverse combinent leurs levées avec les cartes du talon non utilisées à la droite du donneur. Chaque équipe compte la valeur des cartes dans les levées gagnées — il y a 70 points au total comme expliqué ci-dessus. L'équipe du déclarant doit avoir au moins 36 points pour gagner le « jeu ». (Le minimum requis pour gagner est parfois décrit comme « 35 points plus deux cartes », puisque deux cartes basses restantes après le comptage par trois valent un point.) Les adversaires gagnent s'ils ont 35 points ou plus.
 
-## Bonuses
+## Bonus
 
-Irrespective of who wins the game, it is possible to achieve various bonuses which may be worth more than the game itself, and the value of these bonuses can be increased by announcing them before the play starts. The possible bonuses are:
+Indépendamment de qui gagne le jeu, il est possible de réaliser divers bonus qui peuvent valoir plus que le jeu lui-même, et la valeur de ces bonus peut être augmentée en les annonçant avant le début du jeu. Les bonus possibles sont :
 
-- Trula: a team has all three of the skiz, luna and pagat in their tricks.
+- Trula : une équipe a les trois cartes skiz, luna et pagat dans ses levées.
 
-- Toţi regii: a team has all four kings in their tricks.
+- Toţi regii : une équipe a les quatre rois dans ses levées.
 
-- Regele prins: the king called by the declarer is taken by the opponents in their tricks, or is in a part of the talon exposed and rejected by the declarer. The declarer's team has to pay a penalty.
+- Regele prins : le roi appelé par le déclarant est pris par les adversaires dans leurs levées, ou se trouve dans une partie du talon exposée et refusée par le déclarant. L'équipe du déclarant doit payer une pénalité.
 
-- Luna prinsă: the luna (XXI) is captured by the other team's skiz. The team that played the XXI has to pay a penalty.
+- Luna prinsă : la luna (XXI) est capturée par le skiz de l'autre équipe. L'équipe qui a joué la XXI doit payer une pénalité.
 
-- Pagat ultimo (or pagat la fine): the pagat (the smallest trump) wins the last trick. If the pagat is played to the last trick but does not win, the team that played the pagat has to pay a penalty for lost pagat ultimo, even if the trick is won by a partner of the player of the pagat.
+- Pagat ultimo (ou pagat la fine) : le pagat (le plus petit atout) gagne la dernière levée. Si le pagat est joué à la dernière levée mais ne la gagne pas, l'équipe qui a joué le pagat doit payer une pénalité pour pagat ultimo perdu, même si la levée est gagnée par le partenaire du joueur du pagat.
 
-- Rege ultimo (or popa la fine): the declarer's team wins the last trick, with the called king in it. Note that in this case the king does not itself have to win the trick - the bonus is also won if the declarer wins the last trick with the called king in it. If the called king is played to the last trick but the trick is won by the opponents, the declarer's team has to pay for lost rege ultimo as well as for the capture of the king.
+- Rege ultimo (ou popa la fine) : l'équipe du déclarant gagne la dernière levée avec le roi appelé dedans. Notez que dans ce cas, le roi n'a pas besoin de gagner la levée lui-même — le bonus est aussi gagné si le déclarant gagne la dernière levée avec le roi appelé dedans. Si le roi appelé est joué à la dernière levée mais que la levée est gagnée par les adversaires, l'équipe du déclarant doit payer pour le rege ultimo perdu ainsi que pour la capture du roi.
 
-- Valat: the team wins all the tricks.
+- Valat : l'équipe gagne toutes les levées.
 
-## Declarations and Announcements
+## Déclarations et annonces
 
-Immediately before the play begins, there is a round of announcements, which is begun by the declarer and continues anticlockwise around the table. Players have the opportunity to declare that they hold a number of trumps, to announce that their team will attempt one or more bonuses, and to double the score for any undertaking by the other team that they think they can defeat.
+Immédiatement avant le début du jeu, il y a un tour d'annonces, commencé par le déclarant et continuant dans le sens antihoraire. Les joueurs ont l'opportunité de déclarer qu'ils détiennent un certain nombre d'atouts, d'annoncer que leur équipe tentera un ou plusieurs bonus, et de doubler le score pour toute entreprise de l'autre équipe qu'ils pensent pouvoir battre.
 
-The possible declarations of trumps are:
+Les déclarations d'atouts possibles sont :
 
-- 8 taroace: the player holds exactly 8 trumps
+- 8 taroace : le joueur détient exactement 8 atouts
 
-- 9 taroace: the player holds exactly 9 trumps
+- 9 taroace : le joueur détient exactement 9 atouts
 
-- 10 taroace: the player holds 10 or more trumps
+- 10 taroace : le joueur détient 10 atouts ou plus
 
-A player who cannot or does not wish to declare trumps says 'merge', which means 'go' or 'carry on'.
+Un joueur qui ne peut pas ou ne souhaite pas déclarer d'atouts dit « merge », qui signifie « vas-y » ou « continue ».
 
-Each team only scores for the largest number of trumps declared by any member of that team, and it is illegal to declare a number of trumps when someone you know to be a member of your team has already declared an equal or larger number. Therefore, if the declarer declares '9 taroace' and another player declares '8 taroace', it is certain that the other player does not hold the called king. But if the declarer declares '9 taroace' and another player declares '10 taroace', the second player could be an opponent, or could be the declarer's partner increasing the declaration.
+Chaque équipe ne marque que pour le plus grand nombre d'atouts déclaré par l'un de ses membres, et il est interdit de déclarer un nombre d'atouts lorsqu'un joueur que vous savez être membre de votre équipe a déjà déclaré un nombre égal ou supérieur.
 
-Any player may announce trula or toţi regii, but if you are an opponent of the declarer and wish to make such an announcement, you must identify yourself as an opponent if it is not already clear, for example by saying contra to the game (see below).
+Tout joueur peut annoncer la trula ou toţi regii, mais si vous êtes un adversaire du déclarant et souhaitez faire une telle annonce, vous devez vous identifier comme adversaire si ce n'est pas déjà clair, par exemple en disant contra au jeu (voir ci-dessous).
 
-Although any player may achieve the pagat ultimo bonus without prior announcement, only the declarer is allowed to announce pagat ultimo. This is an undertaking to win the last trick with the pagat, and fails if the pagat is forced out before the end, or if it is beaten in the last trick, or if, through some oversight, the declarer turns out not to hold the pagat. If you announce pagat ultimo or say contra to a pagat ultimo, you are obliged to declare your trumps if you hold eight or more - if you say merge instead, you cannot have more than seven trumps in your hand. If pagat ultimo is announced, it should be the declarer's last announcement: the declarer would say something like: 'zece taroace, trula, pagat ultimo'.
+Bien que tout joueur puisse réaliser le bonus pagat ultimo sans annonce préalable, seul le déclarant est autorisé à l'annoncer.
 
-Only the holder of the called king is allowed to announce rege ultimo (or popa la fine). This is an undertaking that the declarer's team will win the called king in the last trick, and it fails if the called king is forced out before the end, or is captured by the opponents in the last trick.
+Seul le détenteur du roi appelé est autorisé à annoncer le rege ultimo (ou popa la fine).
 
-Any player may, in theory, announce that their team will capture the luna from the other team, but in practice it is extremely rare to be in a position to make this announcement.
+Tout adversaire du déclarant peut dire contra au jeu, ce qui double le score du jeu, gagné ou perdu. Ensuite, un membre de l'équipe du déclarant peut dire recontra, les adversaires peuvent dire supra, l'équipe du déclarant peut dire hirş et les adversaires peuvent dire mord, chacun appliquant un double supplémentaire au score.
 
-Any player may announce valat, undertaking that their team will win every trick.
+Toute déclaration ou annonce de bonus doit être faite au premier tour de parole d'un joueur. Ensuite, les joueurs continuent à parler en rotation pour dire s'ils souhaitent faire contra, recontra et ainsi de suite, mais il ne peut y avoir de nouvelles déclarations ou annonces, et après trois passes consécutives le jeu commence.
 
-Any opponent of the declarer may say contra to the game, which doubles the score for the game, won or lost. After this, a member of the declarer's team may say recontra, the opponents may then say supra, the declarer's team may say hirş and the opponents may say mord, each applying a further double to the score. In the same way, if a bonus is announced, a member of the other team may say contra to the announcement, a member of the announcing team may recontra, and so on. The game and all bonuses and announcements are scored independently of each other and can be contra'd independently, so if for example the declarer has announced pagat ultimo and you want to contra, you must make clear whether you are saying contra to the game, to the pagat ultimo or to both.
+## Paiements
 
-Any declarations or announcements of bonuses must be made at a player's first turn to speak. After this, the players continue to speak in rotation to say whether they wish to contra, recontra and so on, but there can be no new declarations or announcements, and after three consecutive passes the play begins.
+Les partenaires partagent équitablement tous les paiements, y compris ceux pour les atouts déclarés par l'un d'eux. Dans le cas normal où deux joueurs jouent contre deux, un membre de l'équipe perdante paie le montant spécifié à un membre de l'équipe gagnante et l'autre perdant paie le même montant à l'autre gagnant. Lorsque le déclarant est seul contre trois adversaires, le déclarant paie le montant spécifié à chaque adversaire ou le reçoit de chaque adversaire, gagnant ou perdant donc trois fois plus que dans un jeu normal.
 
-## Payments
+Les paiements pour le jeu, les déclarations et les annonces sont donnés dans le tableau suivant. Les scores pour les déclarations d'atouts sont toujours payés à l'équipe qui a fait la déclaration, et le score du jeu est payé à l'équipe qui a gagné le jeu. Pour chaque bonus annoncé, l'équipe qui l'annonce est payée du montant correspondant si elle réussit, mais doit payer le même montant si elle échoue.
 
-Partners share equally in all payments, including those for trumps declared by one of them. In the normal case in which two players play against two, one member of the losing team pays the specified amount to one member of the winning team and the other loser pays the same amount to the other winner. When the declarer is alone against three opponents, the declarer pays the specified amount to each opponent or receives it from each opponent, so winning or losing three times as much as in a normal game.
-
-The payments for the game, declarations and announcements are given in the following table. The scores for declarations of trumps are always paid to the team that made the declaration, and the score for the game is paid to the team that won the game. For each announced bonus, the announcing team is paid the relevant amount if it succeeds, but has to pay an equal amount if it fails.
-
-| Contract: | doi | unu | solo |
-| Game won by declarer's team a,c | 2 | 3 | 8 |
-| Game lost by declarer's team a,c | 2×level | 3×level | 8 |
-| Declarations: d | 8 taroace | 1 | 1 | 1 |
+| Contrat : | doi | unu | solo |
+| Jeu gagné par l'équipe du déclarant a,c | 2 | 3 | 8 |
+| Jeu perdu par l'équipe du déclarant a,c | 2×niveau | 3×niveau | 8 |
+| Déclarations : d | 8 taroace | 1 | 1 | 1 |
 | 9 taroace | 2 | 2 | 2 |
 | 10 taroace | 3 | 3 | 3 |
 
-| Bonuses: | Announced bonus b | Silent bonus |
-| (contract) | doi | unu | solo | doi | unu | solo |
+| Bonus : | Bonus annoncé b | Bonus silencieux |
+| (contrat) | doi | unu | solo | doi | unu | solo |
 | trula | 2 | 2 | 4 | 1 | 1 | 2 |
 | toţi regii | 2 | 2 | 4 | 1 | 1 | 2 |
 | regele prins | - | - | - | 1 | 1 | 2 |
 | luna prinsă | 2 | 2 | 4 | 1 | 1 | 2 |
-| pagat ultimo |    7  f |    7  f |   9  f | 1 | 1 | 2 |
+| pagat ultimo | 7 f | 7 f | 9 f | 1 | 1 | 2 |
 | rege ultimo | 2 | 2 | 4 | 1 | 1 | 2 |
 | valat e | 16 | 16 | 64 | 8 | 8 | 32 |
 
-### Notes on the scoring
+### Notes sur le décompte
 
-- Playing at a higher level in doi or unu normally multiplies your loss if unsuccessful but not your gain if you win. For example, if you play in doi at the fourth level you win 2 or lose 8.
+- Jouer à un niveau plus élevé en doi ou unu multiplie normalement votre perte en cas d'échec mais non votre gain en cas de réussite. Par exemple, si vous jouez en doi au quatrième niveau, vous gagnez 2 ou perdez 8.
 
-- Contra, recontra, supra, hirş and mord of an announced bonus multiply the relevant score by 2, 4, 8, 16 or 32 respectively. 
+- Contra, recontra, supra, hirş et mord d'un bonus annoncé multiplient le score pertinent par 2, 4, 8, 16 ou 32 respectivement.
 
-- If an opponent says contra to the game, the score is doubled and the level multiplier now applies irrespective of whether the declarer wins or loses. So in a fourth level doi with contra you would win or lose 16 for the game. If you said recontra you would win or lose 32.
+- Si un adversaire dit contra au jeu, le score est doublé et le multiplicateur de niveau s'applique indépendamment de la victoire ou la défaite du déclarant. Ainsi, dans un doi de quatrième niveau avec contra, vous gagneriez ou perdriez 16 pour le jeu. Si vous disiez recontra, vous gagneriez ou perdriez 32.
 
-- It is possible for both teams to score for declarations of taroace, but each scores only for the highest number of taroace declared by a member of that team. If both teams make equal declarations, it is possible for these scores to cancel.
+- Il est possible que les deux équipes marquent pour des déclarations de taroace, mais chacune ne marque que pour le nombre le plus élevé de taroace déclaré par un membre de cette équipe.
 
-- When a team wins all the tricks, or announces valat, the score for valat replaces the normal score for the game.
+- Lorsqu'une équipe gagne toutes les levées ou annonce le valat, le score du valat remplace le score normal du jeu.
 
-- When pagat ultimo is announced, in addition to the payments in the above table there are payments to or from the pool. If the announcement is successful the declarer's team take the all money in the pool, dividing it equally between them. If the pagat ultimo fails they must double the money in the pool, contributing half each. If the amount in the pool is uneven, the declarer pays or receives the odd point. If contra was said to the pagat ultimo and the pagat ultimo fails then the declarer's opponents take the pool and the declarer's team must replenish it with twice as much money as it previously contained, contributing equally. If the pagat ultimo succeeds despite the contra, the declarer's team takes the pool and the opponents replenish it with twice its previous contents. In case of recontra, the successful team divides the pool between them and the other team pays in four times the amount that it contained before; supra would require the losing side to create a pool eight times as big as before, and so on. If playing alone, the declarer wins the whole pool or pays the appropriate amount alone, while the opponents, in case of a contra, recontra, etc. either win one third of the pool each, or each pay one third of the new pool. If the amount involved is not divisible by three, the player who said contra pays or receives an extra game point or two.
+- Lorsque le pagat ultimo est annoncé, en plus des paiements dans le tableau ci-dessus, il y a des paiements à ou du pot. Si l'annonce réussit, l'équipe du déclarant prend tout l'argent du pot, le partageant équitablement. Si le pagat ultimo échoue, ils doivent doubler l'argent du pot, contribuant chacun pour moitié.
 
-The slightly strange looking scores of 7 and 9 for an announced pagat ultimo might perhaps have arisen if at some time in the past an extra 5 was added to the scores of 2 and 4 prevailing for most other bonuses.
+Les scores de 7 et 9 pour un pagat ultimo annoncé pourraient provenir de l'ajout d'un 5 supplémentaire aux scores de 2 et 4 prévalant pour la plupart des autres bonus.
 
-## Called king in the talon
+## Roi appelé dans le talon
 
-If as declarer you find the king you called in the talon and choose to surrender, then you must pay each of your three opponents for the loss of the game at the level you had reached. In addition, you must pay an extra point for a lost silent trula, unless you hold at least one of the three cards. For example if your contract is al doilea de doi and you find the called king in the bottom two cards of the talon, the payment for a surrender is 6 game points to each opponent, provided that you can show the skiz, luna or pagat. Holding none of these, you would pay 7 points to each opponent.
+Si en tant que déclarant vous trouvez le roi que vous avez appelé dans le talon et choisissez d'abandonner, vous devez payer chacun de vos trois adversaires pour la perte du jeu au niveau que vous aviez atteint. De plus, vous devez payer un point supplémentaire pour une trula silencieuse perdue, à moins que vous ne déteniez au moins une des trois cartes.
 
-If the declarer chooses to play on, but does not take the part of the talon that contains the called king, the king counts as captured, and the declarer incurs a double penalty of 2 game points for abandoning the king in this way. (If the declarer took the king from the talon and lost it in the play, the penalty for losing the king would only be 1 game point).
+Si le déclarant choisit de continuer à jouer mais ne prend pas la partie du talon contenant le roi appelé, le roi est considéré comme capturé, et le déclarant encourt une double pénalité de 2 points de jeu pour avoir ainsi abandonné le roi.
 
-If after the play the called king is found in a part of the talon that the declarer did not looked at, there is no penalty for captured called king. In this case, if the contract was doi or unu, the declarer takes the called king from the previously unseen part of the talon and gives a low card from his or her tricks in exchange for it. If the contract was solo, the declarer is not entitled to take the king.
+Si après le jeu le roi appelé se trouve dans une partie du talon que le déclarant n'a pas regardée, il n'y a pas de pénalité pour roi appelé capturé. Dans ce cas, si le contrat était doi ou unu, le déclarant prend le roi appelé de la partie non vue du talon et donne une carte basse de ses levées en échange.
 
 ## Michi-michi
 
-If all four players pass, a game of michi-michi is played. The talon is set aside and twelve tricks are played under the usual rules, the objective being to avoid winning tricks. There are no card points, declarations, bonuses or announcements. Each player must pay one game point to the pool for each trick that they win.
+Si les quatre joueurs passent, un michi-michi est joué. Le talon est mis de côté et douze levées sont jouées selon les règles habituelles, l'objectif étant d'éviter de gagner des levées. Il n'y a ni points de carte, ni déclarations, ni bonus, ni annonces. Chaque joueur doit payer un point de jeu au pot pour chaque levée qu'il gagne.
 
-After a michi-michi, the next four hands are played for double stakes - all payments are doubled except those to and from the pool. This set of four hands is known as a radler. If another michi-michi occurs during a radler, then the players pay two game points to the pool for each trick taken, and a further radler of four hands for double stakes must be played at the end of the already scheduled double stake hands.
+Après un michi-michi, les quatre mains suivantes sont jouées à double mise — tous les paiements sont doublés sauf ceux à et du pot. Cet ensemble de quatre mains est appelé un radler. Si un autre michi-michi se produit pendant un radler, les joueurs paient deux points de jeu au pot pour chaque levée prise, et un autre radler de quatre mains à double mise doit être joué à la fin des mains à double mise déjà programmées.
 
-Note that in michi-michi (unlike negative tarok games in some other countries) there is no obligation to overtake the highest card so far played to the trick.
+Notez que dans le michi-michi (contrairement aux jeux de tarot négatifs dans d'autres pays), il n'y a pas d'obligation de surmonter la carte la plus élevée jouée dans la levée.
 
-## Revokes
+## Renonces
 
-The penalty for an accidental revoke is rather mild. Play continues, and the offending team cannot win, but must pay any losses if they lose, the offender paying for partner. A common example of a revoke is to forget to call a king before you start looking at the talon.
+La pénalité pour une renonce accidentelle est plutôt légère. Le jeu continue, et l'équipe fautive ne peut pas gagner, mais doit payer les pertes le cas échéant, le contrevenant payant pour le partenaire. Un exemple courant de renonce est d'oublier d'appeler un roi avant de commencer à regarder le talon.
 
-## Taper: Tarok for three players
+## Taper : Tarok pour trois joueurs
 
-The three-player form of Romanian Tarok is known as 'Taper'. This name is derived from the German word Tapper, which was the original name of the lowest bid in the earliest Austrian form of this game.
+La forme à trois joueurs du Tarok roumain est appelée « Taper ». Ce nom dérive du mot allemand Tapper, qui était le nom original de l'enchère la plus basse dans la forme autrichienne la plus ancienne de ce jeu.
 
-Most of the rules for Taper are the same as for four-player Romanian Tarok. Only the differences will be explained.
+La plupart des règles du Taper sont les mêmes que pour le Tarok roumain à quatre joueurs. Seules les différences seront expliquées.
 
-A 42 card pack is used, formed by removing the lowest three cards of each suit. So in the red suits only the court cards and the ace remain and in the black suits the court cards and the ten. The cards are counted in the usual way, but the 12 one-point cards that have been removed reduce the total number of points in the pack to 66. 34 points are required for declarer to win the game, and the opponents win with 33 or more. No king is called: the declarer always plays alone against two opponents in partnership.
+Un jeu de 42 cartes est utilisé, formé en retirant les trois cartes les plus basses de chaque couleur. Ainsi, dans les couleurs rouges seuls les figures et l'as restent, et dans les couleurs noires les figures et le dix. Les cartes sont comptées de la manière habituelle, mais les 12 cartes à un point retirées réduisent le nombre total de points dans le jeu à 66. 34 points sont requis pour que le déclarant gagne le jeu, et les adversaires gagnent avec 33 ou plus. Aucun roi n'est appelé : le déclarant joue toujours seul contre deux adversaires en partenariat.
 
-The pool is constituted as with four players, each player putting in a game point when it is empty and the dealer putting in an extra game point, so that it contains with 4 points for the first hand.
+Le pot est constitué comme avec quatre joueurs, chaque joueur y mettant un point de jeu lorsqu'il est vide et le donneur mettant un point supplémentaire, de sorte qu'il contient 4 points pour la première main.
 
-The cards are cut by the player to dealer's left. Six cards are dealt to the talon and 12 cards to each player, six at a time unless the cutter knocks the cards. After a knock, the player to dealer's right can choose among the same options as in the four-player game.
+Les cartes sont coupées par le joueur à la gauche du donneur. Six cartes sont distribuées au talon et 12 à chaque joueur, par six sauf si le coupeur tape sur les cartes.
 
-The lowest bid is unul de trei (first three), which can be overcalled by al doilea de trei (second three) or by unul de doi, unul de unu or solo. The doi, unu and solo contracts are exactly the same as in the four-player game (except that no king is called).
+L'enchère la plus basse est unul de trei (trois premiers), qui peut être surclassée par al doilea de trei (troisième deux) ou par unul de doi, unul de unu ou solo.
 
-If the contract is unul de trei, the declarer looks at the top three cards of the talon and either takes them (first level) or exposes them and looks at the bottom three cards. The declarer can then either take the bottom cards without showing them (second level) or expose these too and return to the top cards (third level). In al doilea de trei, the declarer looks at the bottom three talon cards first, then the top three, and may return to the bottom three, so playing at the second, third or fourth level. Al doilea de trei can be overcalled by al treilea de trei (third three), in which the declarer looks at the top three cards first (level three), then the bottom three (level four) and can return to the top three (level five). The score for the game is 1 game point if won, or a number of game points equal to the level if lost. If contra is said to the game, then the score is 2 times the level, won or lost, 4 times the level if the declarer says recontra and so on.
+Si le contrat est unul de trei, le déclarant regarde les trois premières cartes du talon et soit les prend (premier niveau) soit les expose et regarde les trois cartes du bas. Le déclarant peut alors soit prendre les cartes du bas sans les montrer (deuxième niveau) soit les exposer également et revenir aux cartes du haut (troisième niveau).
 
-It is possible to declare 10, 11 or 12 taroace, for 1, 2 or 3 game points respectively, and the declaration is compulsory for a player announcing pagat ultimo or saying contra to the declarer's pagat ultimo announcement. There is of course no rege ultimo announcement and the penalties relating to capture of the called king are not relevant. All other bonuses, announcements and scores are the same as in the four-player game.
+Il est possible de déclarer 10, 11 ou 12 taroace, pour 1, 2 ou 3 points de jeu respectivement, et la déclaration est obligatoire pour un joueur annonçant un pagat ultimo ou disant contra à l'annonce de pagat ultimo du déclarant. Il n'y a bien sûr pas d'annonce de rege ultimo et les pénalités liées à la capture du roi appelé ne sont pas pertinentes. Tous les autres bonus, annonces et scores sont les mêmes que dans le jeu à quatre joueurs.
 
-There is no michi-michi: if all three players pass, the cards are thrown in and beginning with the next dealer, a radler of three hands for double stakes is played.
+Il n'y a pas de michi-michi : si les trois joueurs passent, les cartes sont jetées et à partir du donneur suivant, un radler de trois mains à double mise est joué.
 
-## Variations of four-player Tarok
+## Variantes du Tarok à quatre joueurs
 
-Dr Eugen Popescu told us that originally, the trei bids were admitted in the four-player game, but were abandoned because they were too easy. Unul de doi is now the lowest bid admitted throughout Romania and in Chernovtsy.
+Le Dr Eugen Popescu nous a dit qu'à l'origine, les enchères trei étaient admises dans le jeu à quatre joueurs, mais ont été abandonnées car elles étaient trop faciles. Unul de doi est maintenant l'enchère la plus basse admise dans toute la Roumanie et à Tchernivtsi.
 
-Teodor Totolici tells me that in most parts of Romania, the Unu bids are not recognised - only the three levels of Doi and Solo can be bid. Also, the game is played without a Pagat Ultimo pot.
+Teodor Totolici me dit que dans la plupart des régions de Roumanie, les enchères Unu ne sont pas reconnues — seuls les trois niveaux de Doi et Solo peuvent être enchéris. Le jeu se joue aussi sans pot de Pagat Ultimo.
 
-The game Michi-Michi, played in the Suceava version of four-handed Tarok when no one wishes to bid, seems to be characteristic of Southern Bukovina only. In Chernovtsy and in other parts of Romania, if all pass the cards are thrown in and four hands are played for double stakes. Some play that four double stake hands are also played after a hand in which the scores exactly cancel out: these zero scoring hands are known as hep-hep.
+Le jeu Michi-Michi, joué dans la version de Suceava du Tarok à quatre mains lorsque personne ne souhaite enchérir, semble caractéristique uniquement du sud de la Bucovine. À Tchernivtsi et dans d'autres parties de la Roumanie, si tous passent, les cartes sont jetées et quatre mains sont jouées à double mise. Certains jouent que quatre mains à double mise sont aussi jouées après une main où les scores s'annulent exactement : ces mains à score nul sont appelées hep-hep.
 
-There are a number of minor variations between groups of players. For example, some allow the player cutting the cards to take one card unseen from the pack while cutting, in which case this player only receives five cards in the first round of the deal.
+Il y a un certain nombre de variations mineures entre groupes de joueurs. Par exemple, certains permettent au joueur qui coupe les cartes de prendre une carte non vue du jeu pendant la coupe, auquel cas ce joueur ne reçoit que cinq cartes lors du premier tour de distribution.
 
-There are a few differences in bonuses and scoring. 
+Il y a quelques différences dans les bonus et le décompte.
 
-- In some places toţi regii is worth 4 points if announced and 2 points if made silently, though the scores for the other bonuses are as given above. 
+- Dans certains endroits, toţi regii vaut 4 points si annoncé et 2 points si réalisé silencieusement, bien que les scores des autres bonus soient ceux donnés ci-dessus.
 
-- In many places in Romania the bonuses in Solo are worth the same as in Doi. 
+- Dans de nombreux endroits en Roumanie, les bonus en Solo valent autant qu'en Doi.
 
-- In Czernowitz, the opponents of the declarer are permitted to announce regele prins (capture of the called king), doubling the score for it if it is achieved and of course paying the same if they fail to catch the king.
+- À Czernowitz, les adversaires du déclarant sont autorisés à annoncer le regele prins (capture du roi appelé), doublant le score si cela est réalisé et bien sûr en payant le même s'ils échouent à capturer le roi.
 
-Teodor Totolici also passed on the following laws of ethical behaviour, which he learned from his Tarok teacher Miss Radu Aluna:
+Teodor Totolici a également transmis les lois suivantes de comportement éthique, qu'il a apprises de son professeur de Tarok, Mlle Radu Aluna :
 
-- Historically, since Tarok is a noble and very challenging game, Tarok players consider themselves above other card-players, but they should always maintain the noble image of Tarok by never insulting or offending a non-Tarok player and maintaining a chivalrous attitude at any game.
+- Historiquement, puisque le Tarok est un jeu noble et très exigeant, les joueurs de Tarok se considèrent supérieurs aux autres joueurs de cartes, mais ils doivent toujours maintenir l'image noble du Tarok en n'insultant ni n'offensant jamais un joueur non-Tarok et en maintenant une attitude chevaleresque à tout jeu.
 
-- The game of Tarok is a game of chivalry, and all players should act accordingly. Their comportment should not be offensive or insulting, regardless the reason or person.
+- Le jeu de Tarok est un jeu de chevalerie, et tous les joueurs doivent agir en conséquence. Leur comportement ne doit pas être offensant ou insultant, quelle que soit la raison ou la personne.
 
-- Fair play is vital for the game of Tarok. Playing fair is the point of Tarok.
+- Le fair-play est vital pour le jeu de Tarok. Jouer avec fair-play, c'est l'essence même du Tarok.
 
-- A player who abandons his hand at a certain point in the game and concedes that his side has lost cannot be forced to play by anybody, but can be advised to continue by his partner.
+- Un joueur qui abandonne sa main à un certain point du jeu et concède que son côté a perdu ne peut être forcé de continuer par personne, mais peut être conseillé de continuer par son partenaire.
 
-- A player can look at the last trick only if no other card has been played since then. Nobody can see the rest of the cards until the end of the game and doing so can be considered cheating by any of the other players.
+- Un joueur peut regarder la dernière levée seulement si aucune autre carte n'a été jouée depuis. Personne ne peut voir le reste des cartes avant la fin du jeu, et le faire peut être considéré comme de la triche par n'importe quel autre joueur.
 
-- A player can ask to be reminded the called king, declarations, announcements and any of the players can answer. This should be done in a manner that assures that the partner / adversaries remain secret. This should not be used to irritate any of the players.
+- Un joueur peut demander à être rappelé le roi appelé, les déclarations, les annonces, et n'importe quel joueur peut répondre. Cela doit être fait d'une manière qui assure que le partenaire et les adversaires restent secrets. Cela ne doit pas être utilisé pour irriter les joueurs.
 
-- The dealer is forced to remind other players of the called king, the declarations and announcements if asked. If the dealer is unable to do so and no other player is willing to, the dealer's team loses the game. The dealer can refuse his duty if already he has reminded twice. In this case the team of the player asking to be reminded loses the game. A player who reveals that he is declarer's partner using any other means except declarations, announcements and play of the cards can be considered cheating by any of the other players.
+- Le donneur est tenu de rappeler aux autres joueurs le roi appelé, les déclarations et les annonces s'il est interrogé. Si le donneur n'est pas capable de le faire et qu'aucun autre joueur ne le souhaite, l'équipe du donneur perd le jeu. Le donneur peut refuser son devoir s'il a déjà rappelé deux fois.
 
-- Talking is allowed so long as it is not used to communicate to one's partner information concerning the game. In most cases players trust each other that the information contained in communications does not contain instructions on how to play or reveal cards in their possession.
+- Il est permis de parler tant que cela n'est pas utilisé pour communiquer à son partenaire des informations concernant le jeu. Dans la plupart des cas, les joueurs se font confiance pour que les informations contenues dans les communications ne contiennent pas d'instructions sur la façon de jouer ou ne révèlent pas les cartes en leur possession.
 
-- Taunting is however allowed as long as the words are not offensive. Since Tarok is a strategic game, many players use taunts to cause a mistake or to alter the psychological state of another player.
+- Les taunts sont cependant autorisés tant que les mots ne sont pas offensants. Puisque le Tarok est un jeu stratégique, beaucoup de joueurs utilisent des taunts pour provoquer une erreur ou pour altérer l'état psychologique d'un autre joueur.
 
-- At any point of the game a player can call for a silent game (mortul pe masa - "a corpse on the table") forbidding talking. The call is accepted if at least one other player agrees. The call is automatically accepted (no agreement needed) if the caller has no partner, if the declaration is solo or if an announcement of valat has been made. Such a call is made as an indication of distrust to the other players and they have the moral obligation to reconsider the manner of communication at the table.
+- À tout moment du jeu, un joueur peut demander un jeu silencieux (mortul pe masa — « un cadavre sur la table ») interdisant de parler. La demande est acceptée si au moins un autre joueur est d'accord. La demande est automatiquement acceptée (pas d'accord nécessaire) si le demandeur n'a pas de partenaire, si la déclaration est solo ou si une annonce de valat a été faite. Un tel appel est fait comme une indication de méfiance envers les autres joueurs.
 
-- Silent games are usually tiresome so all players should consider carefully the accusations made by any other player.
+- Les jeux silencieux sont généralement fastidieux, tous les joueurs devraient donc examiner attentivement les accusations faites par tout autre joueur.
 
-- A player can withdraw from the game without conidering that he has lost if he has made four calls for silent games. If the game is being played for money, his points are multiplied by the stake and the remaining three players pay him accordingly. If his points are negative in value, his points will be zeroed.
-
-Home Page > Classified Index > Trick Taking Games > Tarot Games > Tarok (Romanian)
+- Un joueur peut se retirer du jeu sans considérer qu'il a perdu s'il a fait quatre appels de jeu silencieux. Si le jeu est joué pour de l'argent, ses points sont multipliés par la mise et les trois autres joueurs le paient en conséquence. Si ses points sont négatifs, ses points sont ramenés à zéro.
