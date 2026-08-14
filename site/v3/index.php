@@ -63,6 +63,7 @@ class Vault {
     self::$pdo = $pdo;
      self::seed();
      self::importClm();
+     self::importPagat();
      self::importMistigri();
      self::syncCatalog();
      return $pdo;
@@ -189,6 +190,49 @@ class Vault {
       $update->execute($values);
       if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', '', $goal, 'mistigri', '#a6e3a1', $excerpt, $min, $max, $sort++, 0, 1, $image]);
       $gn->execute([$slug, $title]);
+      self::write('/games/' . $slug . '.md', $md, 'text/markdown');
+    }
+  }
+
+  /** Importe les règles pagat (pagat.com) en excluant les doublons locaux. */
+  static function importPagat(): void {
+    $dir = __DIR__ . '/../../assets/rules/rules_pagat';
+    if (!is_dir($dir)) return;
+    $skipFile = $dir . '/_skip.json';
+    $skip = is_file($skipFile) ? (json_decode((string)file_get_contents($skipFile), true) ?: []) : [];
+    $db = self::$pdo;
+    $insert = $db->prepare('INSERT OR IGNORE INTO games
+      (slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $update = $db->prepare('UPDATE games SET title=?,players=?,cards=?,difficulty=?,type=?,category=?,color=?,excerpt=?,playerMin=?,playerMax=?,is_clm=0 WHERE slug=?');
+    $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
+    $retired = self::retiredSlugs();
+    $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
+    foreach (glob($dir . '/*.md') ?: [] as $file) {
+      $slug = pathinfo($file, PATHINFO_FILENAME);
+      if ($slug[0] === '_') continue;
+      if (isset($retired[$slug]) || isset($skip[$slug])) continue;
+      $md = file_get_contents($file) ?: '';
+      if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
+      $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
+      $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
+      preg_match('/\*\*[^*]*joueurs?\s*:\s*\*\*\s*(.+)/iu', $md, $playersMatch);
+      preg_match('/\*\*[^*]*cartes?\s*:\s*\*\*\s*(.+)/iu', $md, $cardsMatch);
+      preg_match('/\*\*[^*]*autres?\s+noms?\s*:\s*\*\*\s*(.+)/iu', $md, $aliasesMatch);
+      $players = trim($playersMatch[1] ?? '');
+      $cards = trim($cardsMatch[1] ?? '');
+      preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
+      $min = (int)($range[1] ?? 0); $max = (int)($range[2] ?? 0);
+      if (!$min && preg_match('/^(\d+)\s*joueurs?/iu', $players, $single)) $min = $max = (int)$single[1];
+      $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
+      $excerpt = mb_strimwidth($plain, 0, 160, '…', 'UTF-8');
+      $values = [$title, $players, $cards, '', 'pagat', 'pagat', '#7eaafb', $excerpt, $min, $max, $slug];
+      $update->execute($values);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'pagat', '', 'pagat', '#7eaafb', $excerpt, $min, $max, $sort++, 0]);
+      foreach (array_filter(array_merge([$title], preg_split('/[,\/]/u', $aliasesMatch[1] ?? ''))) as $name) {
+        $name = trim($name);
+        if ($name !== '' && $name !== '—' && mb_strtolower($name) !== 'aucun') $gn->execute([$slug, $name]);
+      }
       self::write('/games/' . $slug . '.md', $md, 'text/markdown');
     }
   }

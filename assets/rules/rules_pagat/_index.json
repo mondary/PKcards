@@ -1,0 +1,3811 @@
+{
+ "100": {
+  "title": "Da Bai Fen",
+  "aliases": [],
+  "players": "",
+  "family": "kt5",
+  "url": "https://www.pagat.com/kt5/100.html"
+ },
+ "1000": {
+  "title": "1000",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/1000.html"
+ },
+ "15wu": {
+  "title": "Sap Ng Wu",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/15wu.html"
+ },
+ "200": {
+  "title": "200",
+  "aliases": [],
+  "players": "",
+  "family": "kt5",
+  "url": "https://www.pagat.com/kt5/200.html"
+ },
+ "22": {
+  "title": "Twenty-Two",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/22.html"
+ },
+ "24": {
+  "title": "Twenty-Four",
+  "aliases": [],
+  "players": "",
+  "family": "adders",
+  "url": "https://www.pagat.com/adders/24.html"
+ },
+ "25": {
+  "title": "25, 55, 110, 220",
+  "aliases": [],
+  "players": "",
+  "family": "spoil5",
+  "url": "https://www.pagat.com/spoil5/25.html"
+ },
+ "28": {
+  "title": "Twenty-Eight",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/28.html"
+ },
+ "29": {
+  "title": "Twenty-Nine",
+  "aliases": [],
+  "players": "4",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/29.html"
+ },
+ "3-13": {
+  "title": "Three Thirteen",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/3-13.html"
+ },
+ "3-2-5": {
+  "title": "3-2-5",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/3-2-5.html"
+ },
+ "304": {
+  "title": "304",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/304.html"
+ },
+ "31": {
+  "title": "31",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/31.html"
+ },
+ "3cardpoker": {
+  "title": "Three Card Poker",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/3cardpoker.html"
+ },
+ "3in1": {
+  "title": "3In1",
+  "aliases": [
+   "Michigan Rummy"
+  ],
+  "players": "",
+  "family": "stops",
+  "url": "https://www.pagat.com/stops/3in1.html"
+ },
+ "41": {
+  "title": "Forty-One",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/41.html"
+ },
+ "45": {
+  "title": "Forty-Fives",
+  "aliases": [],
+  "players": "",
+  "family": "spoil5",
+  "url": "https://www.pagat.com/spoil5/45.html"
+ },
+ "4anderle": {
+  "title": "4Anderle",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/4anderle.html"
+ },
+ "4ofakind": {
+  "title": "Four of a Kind",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/4ofakind.html"
+ },
+ "500": {
+  "title": "500",
+  "aliases": [],
+  "players": "4",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/500.html"
+ },
+ "5000rummy": {
+  "title": "5000 Rummy",
+  "aliases": [
+   "George"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/5000rummy.html"
+ },
+ "500rum": {
+  "title": "500Rum",
+  "aliases": [],
+  "players": "2–8",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/500rum.html"
+ },
+ "501": {
+  "title": "501",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/501.html"
+ },
+ "51": {
+  "title": "51",
+  "aliases": [],
+  "players": "",
+  "family": "commerce",
+  "url": "https://www.pagat.com/commerce/51.html"
+ },
+ "52pickup": {
+  "title": "52Pickup",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/52pickup.html"
+ },
+ "56": {
+  "title": "Fifty Six",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/56.html"
+ },
+ "66": {
+  "title": "66",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/66.html"
+ },
+ "7-27": {
+  "title": "Seven Twenty-Seven",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/7-27.html"
+ },
+ "7-8": {
+  "title": "Sath-Aath",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/7-8.html"
+ },
+ "7bridge": {
+  "title": "Seven Bridge",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/7bridge.html"
+ },
+ "88": {
+  "title": "88",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/88.html"
+ },
+ "99": {
+  "title": "Ninety-Nine",
+  "aliases": [],
+  "players": "3",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/99.html"
+ },
+ "agram": {
+  "title": "Agram",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/agram.html"
+ },
+ "albastini": {
+  "title": "Albastini",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/albastini.html"
+ },
+ "alcalde": {
+  "title": "Alcalde",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/alcalde.html"
+ },
+ "alkort": {
+  "title": "Alkort",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/alkort.html"
+ },
+ "allfives": {
+  "title": "All Fives - link to",
+  "aliases": [],
+  "players": "",
+  "family": "allfours",
+  "url": "https://www.pagat.com/allfours/allfives.html"
+ },
+ "allfours": {
+  "title": "All Fours",
+  "aliases": [],
+  "players": "",
+  "family": "allfours",
+  "url": "https://www.pagat.com/allfours/allfours.html"
+ },
+ "alsos": {
+  "title": "Alsós",
+  "aliases": [],
+  "players": "2–4",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/alsos.html"
+ },
+ "altbaumer": {
+  "title": "Altbaumer",
+  "aliases": [],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/altbaumer.html"
+ },
+ "aluette": {
+  "title": "Aluette",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/aluette.html"
+ },
+ "amerikaner": {
+  "title": "Amerikaner",
+  "aliases": [
+   "Kani"
+  ],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/amerikaner.html"
+ },
+ "arlington": {
+  "title": "Arlington",
+  "aliases": [
+   "Oklahoma Rummy"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/arlington.html"
+ },
+ "asszorti": {
+  "title": "Asszorti",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/asszorti.html"
+ },
+ "austpref": {
+  "title": "Austrian Preference",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/austpref.html"
+ },
+ "australian": {
+  "title": "Australian Patience",
+  "aliases": [],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/australian.html"
+ },
+ "avinas": {
+  "title": "Avinas",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/avinas.html"
+ },
+ "baccarat": {
+  "title": "Baccarat",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/baccarat.html"
+ },
+ "backalley": {
+  "title": "Back Alley",
+  "aliases": [
+   "Blooper"
+  ],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/backalley.html"
+ },
+ "baloot": {
+  "title": "Baloot",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/baloot.html"
+ },
+ "banakil": {
+  "title": "Banakil",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/banakil.html"
+ },
+ "baohuang": {
+  "title": "Bao Huang",
+  "aliases": [],
+  "players": "5",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/baohuang.html"
+ },
+ "barbu": {
+  "title": "Barbu",
+  "aliases": [
+   "Fantan"
+  ],
+  "players": "4",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/barbu.html"
+ },
+ "bartog": {
+  "title": "Bartok",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/bartog.html"
+ },
+ "basra": {
+  "title": "Basra",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/basra.html"
+ },
+ "bauernschnapsen": {
+  "title": "Bauernschnapsen",
+  "aliases": [
+   "Jodler or Aufsteher"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/bauernschnapsen.html"
+ },
+ "bauernstoss": {
+  "title": "Bauernstoss",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/bauernstoss.html"
+ },
+ "bavarian": {
+  "title": "Bavarian Schafkopf",
+  "aliases": [
+   "Wenz"
+  ],
+  "players": "4",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/bavarian.html"
+ },
+ "beccaccino": {
+  "title": "Beccaccino",
+  "aliases": [
+   "Marafon",
+   "Beccaccino near Faenza"
+  ],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/beccaccino.html"
+ },
+ "bela": {
+  "title": "Clobyosh / Bela",
+  "aliases": [
+   "Bela",
+   "Clobyosh"
+  ],
+  "players": "2–4",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/bela.html"
+ },
+ "belote": {
+  "title": "Belote",
+  "aliases": [
+   "Bela"
+  ],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/belote.html"
+ },
+ "bestia": {
+  "title": "Bestia",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/bestia.html"
+ },
+ "bezique": {
+  "title": "Bezique",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/bezique.html"
+ },
+ "bideuch": {
+  "title": "Bid Euchre",
+  "aliases": [],
+  "players": "",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/bideuch.html"
+ },
+ "bidwhist": {
+  "title": "Bidwhist",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/bidwhist.html"
+ },
+ "bieten": {
+  "title": "Bieten",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/bieten.html"
+ },
+ "bigthree": {
+  "title": "Bigthree",
+  "aliases": [
+   "Dig a Hole"
+  ],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/bigthree.html"
+ },
+ "bigtwo": {
+  "title": "Big Two",
+  "aliases": [
+   "Da Lao Er or Choh Dai Di which"
+  ],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/bigtwo.html"
+ },
+ "bingo": {
+  "title": "Bingo",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/bingo.html"
+ },
+ "binokel": {
+  "title": "Binokel",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/binokel.html"
+ },
+ "biriba": {
+  "title": "Biriba",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/biriba.html"
+ },
+ "biritch": {
+  "title": "Biritch, or Russian Whist",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/biritch.html"
+ },
+ "bisca": {
+  "title": "Bisca",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/bisca.html"
+ },
+ "bismarck": {
+  "title": "Bismarck",
+  "aliases": [
+   "Trumf"
+  ],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/bismarck.html"
+ },
+ "blackjack": {
+  "title": "Blackjack",
+  "aliases": [
+   "Late Surrender"
+  ],
+  "players": "2–8",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/blackjack.html"
+ },
+ "boneace": {
+  "title": "Bone Ace and 31",
+  "aliases": [],
+  "players": "",
+  "family": "showdown",
+  "url": "https://www.pagat.com/showdown/boneace.html"
+ },
+ "boomke-wies": {
+  "title": "Boomke Wies",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/boomke-wies.html"
+ },
+ "boonaken": {
+  "title": "Boonaken",
+  "aliases": [
+   "Roem",
+   "Stuk"
+  ],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/boonaken.html"
+ },
+ "botifar": {
+  "title": "Botifarra",
+  "aliases": [],
+  "players": "4",
+  "family": "manille",
+  "url": "https://www.pagat.com/manille/botifar.html"
+ },
+ "bouillotte": {
+  "title": "Bouillotte",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/bouillotte.html"
+ },
+ "boure": {
+  "title": "Bourré (Boo-Ray)",
+  "aliases": [
+   "Booray"
+  ],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/boure.html"
+ },
+ "brag": {
+  "title": "Brag",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/brag.html"
+ },
+ "braus": {
+  "title": "Bräus",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/braus.html"
+ },
+ "bridge": {
+  "title": "Bridge",
+  "aliases": [
+   "Honeymoon Bridge",
+   "Kurnik"
+  ],
+  "players": "4",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/bridge.html"
+ },
+ "brisca": {
+  "title": "Brisca",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/brisca.html"
+ },
+ "briscola": {
+  "title": "Briscola",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/briscola.html"
+ },
+ "brouc": {
+  "title": "Le Brouc",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/brouc.html"
+ },
+ "brus": {
+  "title": "Brus",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/brus.html"
+ },
+ "bruus": {
+  "title": "Bruus",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/bruus.html"
+ },
+ "buck": {
+  "title": "Buck Euchre",
+  "aliases": [],
+  "players": "",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/buck.html"
+ },
+ "bundle": {
+  "title": "Bundle",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/bundle.html"
+ },
+ "bura": {
+  "title": "Bura and Kozel",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/bura.html"
+ },
+ "buraco": {
+  "title": "Buraco",
+  "aliases": [
+   "Canastra"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/buraco.html"
+ },
+ "burako": {
+  "title": "Burako",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/burako.html"
+ },
+ "burraco": {
+  "title": "Burraco",
+  "aliases": [],
+  "players": "4",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/burraco.html"
+ },
+ "calabresella": {
+  "title": "Calabresella",
+  "aliases": [
+   "Terziglio"
+  ],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/calabresella.html"
+ },
+ "calypso": {
+  "title": "Calypso",
+  "aliases": [],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/calypso.html"
+ },
+ "camicia": {
+  "title": "Camicia",
+  "aliases": [],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/camicia.html"
+ },
+ "canasta": {
+  "title": "Canasta",
+  "aliases": [
+   "Canasta Five",
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/canasta.html"
+ },
+ "canastone": {
+  "title": "Canastone",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/canastone.html"
+ },
+ "candyman": {
+  "title": "Candyman / Drug Dealer",
+  "aliases": [
+   "Drug Dealer"
+  ],
+  "players": "",
+  "family": "role",
+  "url": "https://www.pagat.com/role/candyman.html"
+ },
+ "cangkul": {
+  "title": "Cangkul",
+  "aliases": [
+   "Burro"
+  ],
+  "players": "",
+  "family": "inflation",
+  "url": "https://www.pagat.com/inflation/cangkul.html"
+ },
+ "card": {
+  "title": "Card",
+  "aliases": [
+   "Patience Games"
+  ],
+  "players": "",
+  "family": "solitaire",
+  "url": "https://www.pagat.com/solitaire/card.html"
+ },
+ "caribbean": {
+  "title": "Caribbean Stud Poker",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/caribbean.html"
+ },
+ "carioca": {
+  "title": "Carioca",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/carioca.html"
+ },
+ "casino": {
+  "title": "Casino",
+  "aliases": [
+   "Royal Casino"
+  ],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/casino.html"
+ },
+ "cau": {
+  "title": "Cau Robat",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/cau.html"
+ },
+ "cego": {
+  "title": "Cego",
+  "aliases": [
+   "Cego cards"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/cego.html"
+ },
+ "chambery": {
+  "title": "Chambéry Tarot",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/chambery.html"
+ },
+ "charlemagne": {
+  "title": "Charlemagne",
+  "aliases": [],
+  "players": "",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/charlemagne.html"
+ },
+ "cheat": {
+  "title": "Cheat",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/cheat.html"
+ },
+ "checkmate": {
+  "title": "Checkmate",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/checkmate.html"
+ },
+ "chicago": {
+  "title": "Chicago",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/chicago.html"
+ },
+ "chinese": {
+  "title": "Chinese Patience",
+  "aliases": [],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/chinese.html"
+ },
+ "chinten": {
+  "title": "Chinese Ten",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/chinten.html"
+ },
+ "chorizo": {
+  "title": "Chorizo",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/chorizo.html"
+ },
+ "chouine": {
+  "title": "Chouine",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/chouine.html"
+ },
+ "ciapano": {
+  "title": "Ciapano/Traversone",
+  "aliases": [],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/ciapano.html"
+ },
+ "cicera": {
+  "title": "Cicera",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/cicera.html"
+ },
+ "cirulla": {
+  "title": "Cirulla",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/cirulla.html"
+ },
+ "clabber": {
+  "title": "Clabber",
+  "aliases": [
+   "Dad",
+   "Klob"
+  ],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/clabber.html"
+ },
+ "clag": {
+  "title": "Clag",
+  "aliases": [
+   "Clag or Nominations"
+  ],
+  "players": "",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/clag.html"
+ },
+ "clubs": {
+  "title": "Clubs",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/clubs.html"
+ },
+ "coiffeur": {
+  "title": "Coiffeur-Schieber Jass",
+  "aliases": [
+   "Zick-Zack"
+  ],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/coiffeur.html"
+ },
+ "coinche": {
+  "title": "La Coinche",
+  "aliases": [
+   "La Belote Coinchée or La Belote"
+  ],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/coinche.html"
+ },
+ "conquian": {
+  "title": "Conquian",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/conquian.html"
+ },
+ "costly": {
+  "title": "Costly Colours",
+  "aliases": [],
+  "players": "",
+  "family": "adders",
+  "url": "https://www.pagat.com/adders/costly.html"
+ },
+ "coteccio": {
+  "title": "Coteccio",
+  "aliases": [],
+  "players": "",
+  "family": "trappola",
+  "url": "https://www.pagat.com/trappola/coteccio.html"
+ },
+ "couillon": {
+  "title": "Couillon",
+  "aliases": [],
+  "players": "",
+  "family": "couillon",
+  "url": "https://www.pagat.com/couillon/couillon.html"
+ },
+ "crapette": {
+  "title": "Russian Bank",
+  "aliases": [
+   "Crapette"
+  ],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/crapette.html"
+ },
+ "crash": {
+  "title": "Crash and 6-, 7- and 9-card Brag",
+  "aliases": [
+   "Yogi"
+  ],
+  "players": "4",
+  "family": "partition",
+  "url": "https://www.pagat.com/partition/crash.html"
+ },
+ "crates": {
+  "title": "Crates",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/crates.html"
+ },
+ "crazy": {
+  "title": "Crazy",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/crazy.html"
+ },
+ "crazy8s": {
+  "title": "Crazy Eights",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "2–8",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/crazy8s.html"
+ },
+ "crib6": {
+  "title": "Six-card cribbage",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "adders",
+  "url": "https://www.pagat.com/adders/crib6.html"
+ },
+ "cribbage": {
+  "title": "Five card cribbage",
+  "aliases": [],
+  "players": "",
+  "family": "adders",
+  "url": "https://www.pagat.com/adders/cribbage.html"
+ },
+ "cricket": {
+  "title": "Cricket",
+  "aliases": [],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/cricket.html"
+ },
+ "cropref": {
+  "title": "Cropref",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/cropref.html"
+ },
+ "ctrummy": {
+  "title": "Contract Rummy",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/ctrummy.html"
+ },
+ "cuajo": {
+  "title": "Cuajo",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/cuajo.html"
+ },
+ "cuarenta": {
+  "title": "Cuarenta",
+  "aliases": [],
+  "players": "4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/cuarenta.html"
+ },
+ "cucco": {
+  "title": "Cöch",
+  "aliases": [
+   "Brescia because this city is ca"
+  ],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/cucco.html"
+ },
+ "cuckoo": {
+  "title": "Cuckoo",
+  "aliases": [],
+  "players": "",
+  "family": "cuckoo",
+  "url": "https://www.pagat.com/cuckoo/cuckoo.html"
+ },
+ "cucu": {
+  "title": "Cucù",
+  "aliases": [
+   "Lu Stù played at Montorio al Vo"
+  ],
+  "players": "",
+  "family": "cuckoo",
+  "url": "https://www.pagat.com/cuckoo/cucu.html"
+ },
+ "cucumber": {
+  "title": "Cucumber",
+  "aliases": [],
+  "players": "2–9",
+  "family": "last",
+  "url": "https://www.pagat.com/last/cucumber.html"
+ },
+ "cuttle": {
+  "title": "Cuttle",
+  "aliases": [],
+  "players": "2",
+  "family": "combat",
+  "url": "https://www.pagat.com/combat/cuttle.html"
+ },
+ "daifugo": {
+  "title": "Daifugo",
+  "aliases": [
+   "Dai Hinmin"
+  ],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/daifugo.html"
+ },
+ "dantarok": {
+  "title": "Tarok (Danish)",
+  "aliases": [
+   "Grosstarok"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/dantarok.html"
+ },
+ "dappen": {
+  "title": "Dappen",
+  "aliases": [],
+  "players": "6–8",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/dappen.html"
+ },
+ "dehlapakad": {
+  "title": "Dehla Pakad",
+  "aliases": [],
+  "players": "4",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/dehlapakad.html"
+ },
+ "democracy": {
+  "title": "Democracy",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/democracy.html"
+ },
+ "derda": {
+  "title": "Derda",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/derda.html"
+ },
+ "diamond7": {
+  "title": "Sab’at Al-Deemin",
+  "aliases": [],
+  "players": "",
+  "family": "layout",
+  "url": "https://www.pagat.com/layout/diamond7.html"
+ },
+ "differenzler": {
+  "title": "Differenzler",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/differenzler.html"
+ },
+ "diloti": {
+  "title": "Diloti",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/diloti.html"
+ },
+ "dingo": {
+  "title": "Dingo",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/dingo.html"
+ },
+ "doko": {
+  "title": "Doppelkopf",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/doko.html"
+ },
+ "double": {
+  "title": "Double Solitaire",
+  "aliases": [],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/double.html"
+ },
+ "doubt": {
+  "title": "I Doubt It",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/doubt.html"
+ },
+ "doudizhu": {
+  "title": "Dou Dizhu",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/doudizhu.html"
+ },
+ "dreeg": {
+  "title": "Dreeg",
+  "aliases": [
+   "Nürnberger Dreck",
+   "Deutsch"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/dreeg.html"
+ },
+ "dreierles": {
+  "title": "Dreierles",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/dreierles.html"
+ },
+ "dudak": {
+  "title": "Dudák",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/dudak.html"
+ },
+ "durak": {
+  "title": "Durak",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/durak.html"
+ },
+ "duren5": {
+  "title": "Duren5",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/duren5.html"
+ },
+ "ecarte": {
+  "title": "Écarté",
+  "aliases": [],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/ecarte.html"
+ },
+ "egyptrat": {
+  "title": "Egyptrat",
+  "aliases": [
+   "ERS"
+  ],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/egyptrat.html"
+ },
+ "eleusis": {
+  "title": "Eleusis",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/eleusis.html"
+ },
+ "elewenjewe": {
+  "title": "Elewenjewe",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/elewenjewe.html"
+ },
+ "encaje": {
+  "title": "Encaje",
+  "aliases": [
+   "Mus Francés"
+  ],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/encaje.html"
+ },
+ "escoba": {
+  "title": "Escoba",
+  "aliases": [],
+  "players": "2–4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/escoba.html"
+ },
+ "etori": {
+  "title": "Etori / Kakeya Toranpu",
+  "aliases": [
+   "Kakeya Toranpu"
+  ],
+  "players": "",
+  "family": "picture",
+  "url": "https://www.pagat.com/picture/etori.html"
+ },
+ "euchre": {
+  "title": "Euchre",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/euchre.html"
+ },
+ "faro": {
+  "title": "Faro",
+  "aliases": [
+   "Pharaon"
+  ],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/faro.html"
+ },
+ "ferbli": {
+  "title": "Ferbli",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/ferbli.html"
+ },
+ "filicau": {
+  "title": "Filicău",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/filicau.html"
+ },
+ "fipsen": {
+  "title": "Fipsen",
+  "aliases": [],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/fipsen.html"
+ },
+ "frtarot": {
+  "title": "French Tarot",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/frtarot.html"
+ },
+ "gaigel": {
+  "title": "Gaigel",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/gaigel.html"
+ },
+ "gandengyan": {
+  "title": "Gan Deng Yan",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/gandengyan.html"
+ },
+ "garbage": {
+  "title": "Hollywood Garbage",
+  "aliases": [],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/garbage.html"
+ },
+ "generala": {
+  "title": "Generala",
+  "aliases": [],
+  "players": "",
+  "family": "inflation",
+  "url": "https://www.pagat.com/inflation/generala.html"
+ },
+ "getaway": {
+  "title": "Getaway",
+  "aliases": [
+   "Bhabhi",
+   "Donkey"
+  ],
+  "players": "3–8",
+  "family": "inflation",
+  "url": "https://www.pagat.com/inflation/getaway.html"
+ },
+ "gharat": {
+  "title": "Ghârat",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/gharat.html"
+ },
+ "giltspiel": {
+  "title": "Giltspiel",
+  "aliases": [],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/giltspiel.html"
+ },
+ "ging": {
+  "title": "Ging",
+  "aliases": [],
+  "players": "",
+  "family": "showdown",
+  "url": "https://www.pagat.com/showdown/ging.html"
+ },
+ "ginrummy": {
+  "title": "Ginrummy",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "2",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/ginrummy.html"
+ },
+ "giog": {
+  "title": "Giog",
+  "aliases": [],
+  "players": "",
+  "family": "multitrk",
+  "url": "https://www.pagat.com/multitrk/giog.html"
+ },
+ "gleek": {
+  "title": "Gleek",
+  "aliases": [],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/gleek.html"
+ },
+ "gnav": {
+  "title": "Gnav",
+  "aliases": [],
+  "players": "",
+  "family": "cuckoo",
+  "url": "https://www.pagat.com/cuckoo/gnav.html"
+ },
+ "gofish": {
+  "title": "Gofish",
+  "aliases": [],
+  "players": "",
+  "family": "quartet",
+  "url": "https://www.pagat.com/quartet/gofish.html"
+ },
+ "goita": {
+  "title": "Goita",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/goita.html"
+ },
+ "golden10": {
+  "title": "Golden Ten",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/golden10.html"
+ },
+ "golf": {
+  "title": "Golf",
+  "aliases": [],
+  "players": "2–8",
+  "family": "draw",
+  "url": "https://www.pagat.com/draw/golf.html"
+ },
+ "gongzhu": {
+  "title": "Gong Zhu",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/gongzhu.html"
+ },
+ "gops": {
+  "title": "Gops",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/gops.html"
+ },
+ "gostop": {
+  "title": "Go Stop",
+  "aliases": [
+   "VIP"
+  ],
+  "players": "2–7",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/gostop.html"
+ },
+ "gouji": {
+  "title": "Gou Ji",
+  "aliases": [
+   "Jie Feng"
+  ],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/gouji.html"
+ },
+ "grasobern": {
+  "title": "Grasobern / Grünobern",
+  "aliases": [
+   "Grasober Races",
+   "Grünobern"
+  ],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/grasobern.html"
+ },
+ "hand": {
+  "title": "Hand",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/hand.html"
+ },
+ "handfoot": {
+  "title": "Handfoot",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/handfoot.html"
+ },
+ "handjass": {
+  "title": "Handjass",
+  "aliases": [
+   "Sackjass"
+  ],
+  "players": "2–4",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/handjass.html"
+ },
+ "hazari": {
+  "title": "Hazari",
+  "aliases": [],
+  "players": "",
+  "family": "partition",
+  "url": "https://www.pagat.com/partition/hazari.html"
+ },
+ "hearts": {
+  "title": "Hearts",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/hearts.html"
+ },
+ "hindersche": {
+  "title": "Hindersche",
+  "aliases": [],
+  "players": "4",
+  "family": "reunion",
+  "url": "https://www.pagat.com/reunion/hindersche.html"
+ },
+ "hockey": {
+  "title": "Hockey",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/hockey.html"
+ },
+ "hokm": {
+  "title": "Hokm",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/hokm.html"
+ },
+ "hola": {
+  "title": "Hola",
+  "aliases": [],
+  "players": "",
+  "family": "sedma",
+  "url": "https://www.pagat.com/sedma/hola.html"
+ },
+ "honeymoon": {
+  "title": "Honeymoon",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/honeymoon.html"
+ },
+ "hoola": {
+  "title": "Hoola",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/hoola.html"
+ },
+ "hoskin": {
+  "title": "Xoşkîn",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/hoskin.html"
+ },
+ "humbug": {
+  "title": "Humbug",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/humbug.html"
+ },
+ "huutopussi": {
+  "title": "Huutopussi",
+  "aliases": [],
+  "players": "4",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/huutopussi.html"
+ },
+ "illusztr": {
+  "title": "Illustrated Hungarian Tarokk",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/illusztr.html"
+ },
+ "in-between": {
+  "title": "In Between",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/in-between.html"
+ },
+ "indian": {
+  "title": "Indian",
+  "aliases": [
+   "Paplu"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/indian.html"
+ },
+ "jack": {
+  "title": "Jack",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/jack.html"
+ },
+ "jamesbond": {
+  "title": "James Bond",
+  "aliases": [],
+  "players": "2",
+  "family": "commerce",
+  "url": "https://www.pagat.com/commerce/jamesbond.html"
+ },
+ "jojotte": {
+  "title": "Jo-Jotte",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/jojotte.html"
+ },
+ "joker": {
+  "title": "Joker",
+  "aliases": [],
+  "players": "",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/joker.html"
+ },
+ "jukha": {
+  "title": "Jukha",
+  "aliases": [],
+  "players": "",
+  "family": "passing",
+  "url": "https://www.pagat.com/passing/jukha.html"
+ },
+ "juse": {
+  "title": "Juse",
+  "aliases": [],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/juse.html"
+ },
+ "kaiser": {
+  "title": "Kaiser",
+  "aliases": [
+   "Les Rois"
+  ],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/kaiser.html"
+ },
+ "kaiserjass": {
+  "title": "Kaiserjass",
+  "aliases": [
+   "Kaiserspiel"
+  ],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/kaiserjass.html"
+ },
+ "kaluki1": {
+  "title": "Kaluki1",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/kaluki1.html"
+ },
+ "kaluki2": {
+  "title": "Caribbean Kalooki",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/kaluki2.html"
+ },
+ "kaluki3": {
+  "title": "South African Kaluki",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/kaluki3.html"
+ },
+ "kan": {
+  "title": "Kan",
+  "aliases": [
+   "Etori"
+  ],
+  "players": "",
+  "family": "picture",
+  "url": "https://www.pagat.com/picture/kan.html"
+ },
+ "kapaga": {
+  "title": "Kapaga",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/kapaga.html"
+ },
+ "karnoeffel": {
+  "title": "Karnoeffel",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/karnoeffel.html"
+ },
+ "kemps": {
+  "title": "Kemps",
+  "aliases": [],
+  "players": "",
+  "family": "commerce",
+  "url": "https://www.pagat.com/commerce/kemps.html"
+ },
+ "kierki": {
+  "title": "Kierki",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/kierki.html"
+ },
+ "king": {
+  "title": "King",
+  "aliases": [],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/king.html"
+ },
+ "kingen": {
+  "title": "Kingen",
+  "aliases": [],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/kingen.html"
+ },
+ "kingscorners": {
+  "title": "Kingscorners",
+  "aliases": [],
+  "players": "",
+  "family": "layout",
+  "url": "https://www.pagat.com/layout/kingscorners.html"
+ },
+ "klabberjass": {
+  "title": "Klabberjass",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/klabberjass.html"
+ },
+ "klaber": {
+  "title": "Kláber",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/klaber.html"
+ },
+ "klaverjassen": {
+  "title": "Klaverjassen",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/klaverjassen.html"
+ },
+ "kleurenwiezen": {
+  "title": "Kleurenwiezen",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/kleurenwiezen.html"
+ },
+ "kloepper": {
+  "title": "Kloepper",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/kloepper.html"
+ },
+ "knaves": {
+  "title": "Polignac & Knaves",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/knaves.html"
+ },
+ "knock-poker": {
+  "title": "Knock Poker / Dompe-",
+  "aliases": [],
+  "players": "",
+  "family": "draw",
+  "url": "https://www.pagat.com/draw/knock-poker.html"
+ },
+ "knock": {
+  "title": "Knock Rummy",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/knock.html"
+ },
+ "knorri": {
+  "title": "Knorri",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/knorri.html"
+ },
+ "knueffeln": {
+  "title": "Knüffeln",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/knueffeln.html"
+ },
+ "koenig": {
+  "title": "Königrufen",
+  "aliases": [
+   "Bürgermeister"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/koenig.html"
+ },
+ "kontsina": {
+  "title": "Kontsina",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/kontsina.html"
+ },
+ "kop": {
+  "title": "Kop and Baśka",
+  "aliases": [],
+  "players": "4",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/kop.html"
+ },
+ "kowhist": {
+  "title": "Knock-Out Whist",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/kowhist.html"
+ },
+ "kruisjassen": {
+  "title": "Kruisjassen",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/kruisjassen.html"
+ },
+ "krypkasino": {
+  "title": "Krypkasino",
+  "aliases": [],
+  "players": "2–6",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/krypkasino.html"
+ },
+ "krypkille": {
+  "title": "Krypkille",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/krypkille.html"
+ },
+ "kryt-navalivat": {
+  "title": "Kryt'-navalivat'",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/kryt-navalivat.html"
+ },
+ "kung-och-adel": {
+  "title": "Kung och Adel",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/kung-och-adel.html"
+ },
+ "lansquenet": {
+  "title": "Lansquenet",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/lansquenet.html"
+ },
+ "laugh": {
+  "title": "Laugh and Lie Down",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/laugh.html"
+ },
+ "laus": {
+  "title": "Laus",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/laus.html"
+ },
+ "letitride": {
+  "title": "Let It Ride",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/letitride.html"
+ },
+ "lhombre": {
+  "title": "L'Hombre",
+  "aliases": [],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/lhombre.html"
+ },
+ "literature": {
+  "title": "Literature",
+  "aliases": [],
+  "players": "6",
+  "family": "quartet",
+  "url": "https://www.pagat.com/quartet/literature.html"
+ },
+ "liukfu": {
+  "title": "Luk Fu",
+  "aliases": [],
+  "players": "",
+  "family": "multitrk",
+  "url": "https://www.pagat.com/multitrk/liukfu.html"
+ },
+ "loba": {
+  "title": "Loba",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/loba.html"
+ },
+ "logic": {
+  "title": "Logic",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/logic.html"
+ },
+ "loo": {
+  "title": "Loo",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/loo.html"
+ },
+ "lora": {
+  "title": "Lora",
+  "aliases": [
+   "Lórum is described on",
+   "Hassan Murteza"
+  ],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/lora.html"
+ },
+ "lorum": {
+  "title": "Lorum",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/lorum.html"
+ },
+ "losing-loadum": {
+  "title": "Losing Loadum",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/losing-loadum.html"
+ },
+ "lungau": {
+  "title": "Lungau Königrufen",
+  "aliases": [
+   "Tarocks",
+   "Fahren"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/lungau.html"
+ },
+ "lupfen": {
+  "title": "Lupfen",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/lupfen.html"
+ },
+ "madrasso": {
+  "title": "Madrasso",
+  "aliases": [
+   "Trevigiane"
+  ],
+  "players": "4",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/madrasso.html"
+ },
+ "mahjong": {
+  "title": "Mahjong",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/mahjong.html"
+ },
+ "malilla": {
+  "title": "Malilla",
+  "aliases": [
+   "Manilla",
+   "Malillas"
+  ],
+  "players": "",
+  "family": "manille",
+  "url": "https://www.pagat.com/manille/malilla.html"
+ },
+ "manillen": {
+  "title": "Manillen",
+  "aliases": [],
+  "players": "",
+  "family": "manille",
+  "url": "https://www.pagat.com/manille/manillen.html"
+ },
+ "manni": {
+  "title": "Manni",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/manni.html"
+ },
+ "mao": {
+  "title": "Mao",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/mao.html"
+ },
+ "marianna": {
+  "title": "Marianna",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/marianna.html"
+ },
+ "marias": {
+  "title": "Marias",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/marias.html"
+ },
+ "mariglia": {
+  "title": "Mariglia",
+  "aliases": [],
+  "players": "",
+  "family": "manille",
+  "url": "https://www.pagat.com/manille/mariglia.html"
+ },
+ "marjapussi": {
+  "title": "Marjapussi",
+  "aliases": [
+   "Huutopussi"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/marjapussi.html"
+ },
+ "marjolet": {
+  "title": "Marjolet",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/marjolet.html"
+ },
+ "marolles": {
+  "title": "Abbé de Marolles Tarot",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/marolles.html"
+ },
+ "marriage": {
+  "title": "Marriage",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/marriage.html"
+ },
+ "matching": {
+  "title": "Matching",
+  "aliases": [],
+  "players": "",
+  "family": "tile",
+  "url": "https://www.pagat.com/tile/matching.html"
+ },
+ "mate": {
+  "title": "Mate",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/mate.html"
+ },
+ "maw": {
+  "title": "Maw",
+  "aliases": [],
+  "players": "",
+  "family": "spoil5",
+  "url": "https://www.pagat.com/spoil5/maw.html"
+ },
+ "mediatore": {
+  "title": "Mediatore",
+  "aliases": [],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/mediatore.html"
+ },
+ "meksiko": {
+  "title": "Meksiko",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/meksiko.html"
+ },
+ "mendikot": {
+  "title": "Mendikot",
+  "aliases": [],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/mendikot.html"
+ },
+ "mensch": {
+  "title": "Mensch",
+  "aliases": [],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/mensch.html"
+ },
+ "michigan": {
+  "title": "Michigan",
+  "aliases": [
+   "Newmarket or Boodle a card game"
+  ],
+  "players": "",
+  "family": "stops",
+  "url": "https://www.pagat.com/stops/michigan.html"
+ },
+ "mighty": {
+  "title": "Mighty",
+  "aliases": [],
+  "players": "5",
+  "family": "picture",
+  "url": "https://www.pagat.com/picture/mighty.html"
+ },
+ "mille": {
+  "title": "Mille",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/mille.html"
+ },
+ "minchiate": {
+  "title": "Minchiate",
+  "aliases": [
+   "Germini"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/minchiate.html"
+ },
+ "minwhist": {
+  "title": "Minnesota Whist",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/minwhist.html"
+ },
+ "mitaines": {
+  "title": "Mitaines",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/mitaines.html"
+ },
+ "mittlere": {
+  "title": "Mittlere Jass",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/mittlere.html"
+ },
+ "mizerka": {
+  "title": "Mizerka",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/mizerka.html"
+ },
+ "money": {
+  "title": "Money",
+  "aliases": [
+   "Buying-Selling"
+  ],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/money.html"
+ },
+ "monte": {
+  "title": "Three Card Monte",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/monte.html"
+ },
+ "moska": {
+  "title": "Moska",
+  "aliases": [
+   "Turamoska"
+  ],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/moska.html"
+ },
+ "mpourloto": {
+  "title": "Mpourloto",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/mpourloto.html"
+ },
+ "mura": {
+  "title": "Mura",
+  "aliases": [],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/mura.html"
+ },
+ "mus": {
+  "title": "Mus",
+  "aliases": [],
+  "players": "4",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/mus.html"
+ },
+ "mustamaija": {
+  "title": "Mustamaija",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/mustamaija.html"
+ },
+ "nap": {
+  "title": "Nap",
+  "aliases": [
+   "Napoleon - details can be found",
+   "Napoleon"
+  ],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/nap.html"
+ },
+ "napoleon": {
+  "title": "Napoleon",
+  "aliases": [],
+  "players": "",
+  "family": "picture",
+  "url": "https://www.pagat.com/picture/napoleon.html"
+ },
+ "nebraska": {
+  "title": "Nebraska Taroky",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/nebraska.html"
+ },
+ "neighbor": {
+  "title": "Neighbor games",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/neighbor.html"
+ },
+ "nerts": {
+  "title": "Nertz",
+  "aliases": [
+   "Racing Demon or Pounce"
+  ],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/nerts.html"
+ },
+ "neuf": {
+  "title": "Neuf (Nines)",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/neuf.html"
+ },
+ "nice": {
+  "title": "Tarot Niçoise (Mitigatti)",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/nice.html"
+ },
+ "nlk": {
+  "title": "NLK",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/nlk.html"
+ },
+ "noddy": {
+  "title": "Noddy",
+  "aliases": [],
+  "players": "",
+  "family": "adders",
+  "url": "https://www.pagat.com/adders/noddy.html"
+ },
+ "nomination": {
+  "title": "Nomination",
+  "aliases": [
+   "Clag"
+  ],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/nomination.html"
+ },
+ "noms": {
+  "title": "Noms",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/noms.html"
+ },
+ "ohhell": {
+  "title": "Ohhell",
+  "aliases": [
+   "Blackout",
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/ohhell.html"
+ },
+ "okey": {
+  "title": "Okey",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/okey.html"
+ },
+ "okey101": {
+  "title": "Okey101",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/okey101.html"
+ },
+ "oldmaid": {
+  "title": "Old Maid",
+  "aliases": [],
+  "players": "",
+  "family": "passing",
+  "url": "https://www.pagat.com/passing/oldmaid.html"
+ },
+ "omi": {
+  "title": "Omi",
+  "aliases": [
+   "Oombi"
+  ],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/omi.html"
+ },
+ "open": {
+  "title": "Open Rummy",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/open.html"
+ },
+ "openface": {
+  "title": "Open Face Chinese Poker",
+  "aliases": [],
+  "players": "2–4",
+  "family": "partition",
+  "url": "https://www.pagat.com/partition/openface.html"
+ },
+ "ottocento": {
+  "title": "Tarocchi Bolognesi: Ottocento",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/ottocento.html"
+ },
+ "paigowp": {
+  "title": "Pai Gow Poker",
+  "aliases": [],
+  "players": "",
+  "family": "partition",
+  "url": "https://www.pagat.com/partition/paigowp.html"
+ },
+ "paiute": {
+  "title": "Paiute",
+  "aliases": [],
+  "players": "",
+  "family": "draw",
+  "url": "https://www.pagat.com/draw/paiute.html"
+ },
+ "palatinate": {
+  "title": "Palatinate",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/palatinate.html"
+ },
+ "pan": {
+  "title": "Pan",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/pan.html"
+ },
+ "pandoer": {
+  "title": "Pandoer",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/pandoer.html"
+ },
+ "panguingue": {
+  "title": "Panguingue",
+  "aliases": [
+   "Pan for short"
+  ],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/panguingue.html"
+ },
+ "panjpar": {
+  "title": "Panjpar",
+  "aliases": [],
+  "players": "2",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/panjpar.html"
+ },
+ "paskahousu": {
+  "title": "Paskahousu",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/paskahousu.html"
+ },
+ "paston": {
+  "title": "Paston",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/paston.html"
+ },
+ "pasur": {
+  "title": "Pâsur",
+  "aliases": [
+   "Châr barg"
+  ],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/pasur.html"
+ },
+ "paublillo": {
+  "title": "Paublillo",
+  "aliases": [],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/paublillo.html"
+ },
+ "pedro": {
+  "title": "Pedro",
+  "aliases": [
+   "Cinch or High Five and its many"
+  ],
+  "players": "",
+  "family": "allfours",
+  "url": "https://www.pagat.com/allfours/pedro.html"
+ },
+ "pegsandjokers": {
+  "title": "Pegs and Jokers",
+  "aliases": [],
+  "players": "",
+  "family": "race",
+  "url": "https://www.pagat.com/race/pegsandjokers.html"
+ },
+ "pelmanism": {
+  "title": "Pelmanism",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/pelmanism.html"
+ },
+ "pengyou": {
+  "title": "Zhao Pengyou",
+  "aliases": [],
+  "players": "5–12",
+  "family": "kt5",
+  "url": "https://www.pagat.com/kt5/pengyou.html"
+ },
+ "penneech": {
+  "title": "Penneech",
+  "aliases": [],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/penneech.html"
+ },
+ "pennies": {
+  "title": "Pennies",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/pennies.html"
+ },
+ "pepper": {
+  "title": "Pepper",
+  "aliases": [],
+  "players": "",
+  "family": "euchre",
+  "url": "https://www.pagat.com/euchre/pepper.html"
+ },
+ "perlaggen": {
+  "title": "Perlaggen",
+  "aliases": [
+   "Strafperlaggen"
+  ],
+  "players": "",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/perlaggen.html"
+ },
+ "petrangola": {
+  "title": "Petrangola",
+  "aliases": [],
+  "players": "",
+  "family": "commerce",
+  "url": "https://www.pagat.com/commerce/petrangola.html"
+ },
+ "piedicavallo": {
+  "title": "Piedicavallo",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/piedicavallo.html"
+ },
+ "pig": {
+  "title": "Pig, Spoons",
+  "aliases": [
+   "Donkey"
+  ],
+  "players": "",
+  "family": "passing",
+  "url": "https://www.pagat.com/passing/pig.html"
+ },
+ "pilotta": {
+  "title": "Pilotta",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/pilotta.html"
+ },
+ "pin2hand": {
+  "title": "Two-player Pinochle",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/pin2hand.html"
+ },
+ "pin3": {
+  "title": "Three player Pinochle",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/pin3.html"
+ },
+ "pindd": {
+  "title": "Double deck Pinochle",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/pindd.html"
+ },
+ "pinmain": {
+  "title": "Single Deck Pinochle",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/pinmain.html"
+ },
+ "pip-pip": {
+  "title": "Pip Pip",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/pip-pip.html"
+ },
+ "piquet": {
+  "title": "Piquet",
+  "aliases": [],
+  "players": "2",
+  "family": "notrump",
+  "url": "https://www.pagat.com/notrump/piquet.html"
+ },
+ "pishti": {
+  "title": "Pishti",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/pishti.html"
+ },
+ "pitch": {
+  "title": "Setback / Pitch",
+  "aliases": [],
+  "players": "",
+  "family": "allfours",
+  "url": "https://www.pagat.com/allfours/pitch.html"
+ },
+ "pittypat": {
+  "title": "Pittypat",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/pittypat.html"
+ },
+ "poch": {
+  "title": "Pochspiel",
+  "aliases": [],
+  "players": "3–6",
+  "family": "stops",
+  "url": "https://www.pagat.com/stops/poch.html"
+ },
+ "podrida": {
+  "title": "La Podrida",
+  "aliases": [],
+  "players": "",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/podrida.html"
+ },
+ "pokerato": {
+  "title": "Pokerato",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/pokerato.html"
+ },
+ "pokment": {
+  "title": "Poker Menteur",
+  "aliases": [],
+  "players": "",
+  "family": "passing",
+  "url": "https://www.pagat.com/passing/pokment.html"
+ },
+ "pontoon": {
+  "title": "Pontoon",
+  "aliases": [],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/pontoon.html"
+ },
+ "porrazo": {
+  "title": "Porrazo",
+  "aliases": [
+   "Parosso or Parear"
+  ],
+  "players": "2–4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/porrazo.html"
+ },
+ "prefa": {
+  "title": "Prefa",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/prefa.html"
+ },
+ "preferansz": {
+  "title": "Preferánsz",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/preferansz.html"
+ },
+ "president": {
+  "title": "President",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/president.html"
+ },
+ "primero": {
+  "title": "Primero",
+  "aliases": [],
+  "players": "",
+  "family": "vying",
+  "url": "https://www.pagat.com/vying/primero.html"
+ },
+ "proter": {
+  "title": "Proter",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/proter.html"
+ },
+ "pukk": {
+  "title": "Púkk",
+  "aliases": [],
+  "players": "",
+  "family": "stops",
+  "url": "https://www.pagat.com/stops/pukk.html"
+ },
+ "push": {
+  "title": "Push",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/push.html"
+ },
+ "pusoy": {
+  "title": "Chinese Poker",
+  "aliases": [],
+  "players": "",
+  "family": "partition",
+  "url": "https://www.pagat.com/partition/pusoy.html"
+ },
+ "put": {
+  "title": "Put",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/put.html"
+ },
+ "quadrille": {
+  "title": "Quadrille",
+  "aliases": [],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/quadrille.html"
+ },
+ "quatresept": {
+  "title": "Le Quatre Sept",
+  "aliases": [
+   "La Politaine or La Poule"
+  ],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/quatresept.html"
+ },
+ "quitlok": {
+  "title": "Quitlok",
+  "aliases": [
+   "Quitli or Kvitlech were traditi"
+  ],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/quitlok.html"
+ },
+ "ramsli": {
+  "title": "Ramsli",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/ramsli.html"
+ },
+ "rang-milanti": {
+  "title": "Rang Milanti",
+  "aliases": [],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/rang-milanti.html"
+ },
+ "rang": {
+  "title": "Court Piece and Double Sir",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/rang.html"
+ },
+ "raub": {
+  "title": "Raub",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/raub.html"
+ },
+ "reddog": {
+  "title": "Red Dog",
+  "aliases": [
+   "High Card pool"
+  ],
+  "players": "",
+  "family": "banking",
+  "url": "https://www.pagat.com/banking/reddog.html"
+ },
+ "reversis": {
+  "title": "Reversis",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/reversis.html"
+ },
+ "ribs": {
+  "title": "Ribs",
+  "aliases": [],
+  "players": "4–10",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/ribs.html"
+ },
+ "rifki": {
+  "title": "Rifki",
+  "aliases": [],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/rifki.html"
+ },
+ "rik": {
+  "title": "Rikken",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/rik.html"
+ },
+ "ristikontra": {
+  "title": "Ristikontra",
+  "aliases": [],
+  "players": "",
+  "family": "sedma",
+  "url": "https://www.pagat.com/sedma/ristikontra.html"
+ },
+ "romtarok": {
+  "title": "Romanian Tarok",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/romtarok.html"
+ },
+ "romtile": {
+  "title": "Romtile",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/romtile.html"
+ },
+ "romwhist": {
+  "title": "Romwhist",
+  "aliases": [],
+  "players": "",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/romwhist.html"
+ },
+ "ronda": {
+  "title": "Ronda",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/ronda.html"
+ },
+ "rook": {
+  "title": "Rook",
+  "aliases": [],
+  "players": "",
+  "family": "kt5",
+  "url": "https://www.pagat.com/kt5/rook.html"
+ },
+ "ruff": {
+  "title": "Ruff and Honours",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/ruff.html"
+ },
+ "rummikub": {
+  "title": "Rummikub",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/rummikub.html"
+ },
+ "rummy": {
+  "title": "Rummy",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/rummy.html"
+ },
+ "ruspref": {
+  "title": "Russian Preferans",
+  "aliases": [],
+  "players": "",
+  "family": "preference",
+  "url": "https://www.pagat.com/preference/ruspref.html"
+ },
+ "russi": {
+  "title": "Russi",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/russi.html"
+ },
+ "samba": {
+  "title": "Samba",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/samba.html"
+ },
+ "sancagna": {
+  "title": "Sancagna",
+  "aliases": [],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/sancagna.html"
+ },
+ "sasaki": {
+  "title": "Sasaki",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/sasaki.html"
+ },
+ "saskop": {
+  "title": "Saskop",
+  "aliases": [
+   "Sasku or Lambapea"
+  ],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/saskop.html"
+ },
+ "satat": {
+  "title": "Satat",
+  "aliases": [
+   "Court Piece"
+  ],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/satat.html"
+ },
+ "scala40": {
+  "title": "Scala40",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/scala40.html"
+ },
+ "scat": {
+  "title": "Scat",
+  "aliases": [],
+  "players": "",
+  "family": "draw",
+  "url": "https://www.pagat.com/draw/scat.html"
+ },
+ "schieber": {
+  "title": "Schieber Jass",
+  "aliases": [],
+  "players": "4",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/schieber.html"
+ },
+ "schlag": {
+  "title": "Kalter Schlag",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/schlag.html"
+ },
+ "schmier": {
+  "title": "Schmier",
+  "aliases": [],
+  "players": "",
+  "family": "allfours",
+  "url": "https://www.pagat.com/allfours/schmier.html"
+ },
+ "schnaps": {
+  "title": "Schnapsen",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "2",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/schnaps.html"
+ },
+ "schwimmen": {
+  "title": "Schwimmen (31)",
+  "aliases": [],
+  "players": "",
+  "family": "commerce",
+  "url": "https://www.pagat.com/commerce/schwimmen.html"
+ },
+ "scopa": {
+  "title": "Scopa",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/scopa.html"
+ },
+ "scopone": {
+  "title": "Scopone",
+  "aliases": [],
+  "players": "4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/scopone.html"
+ },
+ "sedma": {
+  "title": "Sedma",
+  "aliases": [],
+  "players": "",
+  "family": "sedma",
+  "url": "https://www.pagat.com/sedma/sedma.html"
+ },
+ "sedmice": {
+  "title": "Sedmice",
+  "aliases": [],
+  "players": "",
+  "family": "sedma",
+  "url": "https://www.pagat.com/sedma/sedmice.html"
+ },
+ "seep": {
+  "title": "Seep",
+  "aliases": [],
+  "players": "4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/seep.html"
+ },
+ "sergeant": {
+  "title": "Sergeant Major",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/sergeant.html"
+ },
+ "sevens": {
+  "title": "Fan Tan / Sevens",
+  "aliases": [
+   "Sevens"
+  ],
+  "players": "",
+  "family": "layout",
+  "url": "https://www.pagat.com/layout/sevens.html"
+ },
+ "shangyou": {
+  "title": "Zheng Shangyou",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/shangyou.html"
+ },
+ "shep": {
+  "title": "Sheepshead",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/shep.html"
+ },
+ "shichinarabe": {
+  "title": "Shichi Narabe",
+  "aliases": [],
+  "players": "",
+  "family": "layout",
+  "url": "https://www.pagat.com/layout/shichinarabe.html"
+ },
+ "shithead": {
+  "title": "Shithead",
+  "aliases": [
+   "Smeghead"
+  ],
+  "players": "3–5",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/shithead.html"
+ },
+ "shllaat": {
+  "title": "Shlla'at",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/shllaat.html"
+ },
+ "sicilian": {
+  "title": "Sicilian",
+  "aliases": [
+   "Piccoli Gallerini",
+   "Vanto"
+  ],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/sicilian.html"
+ },
+ "sjavs": {
+  "title": "Sjavs",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/sjavs.html"
+ },
+ "skat": {
+  "title": "Skat",
+  "aliases": [
+   "Kurnik"
+  ],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/skat.html"
+ },
+ "skitgubbe": {
+  "title": "Skitgubbe",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/skitgubbe.html"
+ },
+ "skruuvi": {
+  "title": "Skruuvi",
+  "aliases": [
+   "Skruv-Whist in Swedish and Skru"
+  ],
+  "players": "4",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/skruuvi.html"
+ },
+ "slapjack": {
+  "title": "Slapjack",
+  "aliases": [
+   "Irish Snap"
+  ],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/slapjack.html"
+ },
+ "sltarok": {
+  "title": "Slovenian Tarok",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/sltarok.html"
+ },
+ "snap": {
+  "title": "Snap",
+  "aliases": [],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/snap.html"
+ },
+ "snipsnapsnorum": {
+  "title": "Snip Snap Snorum",
+  "aliases": [],
+  "players": "4–8",
+  "family": "stops",
+  "url": "https://www.pagat.com/stops/snipsnapsnorum.html"
+ },
+ "snitchems": {
+  "title": "Snitchems",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/snitchems.html"
+ },
+ "solo": {
+  "title": "German Solo",
+  "aliases": [],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/solo.html"
+ },
+ "solowhist": {
+  "title": "Solo Whist",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/solowhist.html"
+ },
+ "spades": {
+  "title": "Spades",
+  "aliases": [
+   "Naught",
+   "Double Nil Passing",
+   "Kurnik"
+  ],
+  "players": "4",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/spades.html"
+ },
+ "spar": {
+  "title": "Spar",
+  "aliases": [],
+  "players": "",
+  "family": "last",
+  "url": "https://www.pagat.com/last/spar.html"
+ },
+ "speculation": {
+  "title": "Speculation",
+  "aliases": [],
+  "players": "",
+  "family": "misc",
+  "url": "https://www.pagat.com/misc/speculation.html"
+ },
+ "spit": {
+  "title": "Spit",
+  "aliases": [
+   "Speed"
+  ],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/spit.html"
+ },
+ "spitemal": {
+  "title": "Spite and Malice",
+  "aliases": [],
+  "players": "2",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/spitemal.html"
+ },
+ "spitzer": {
+  "title": "Spitzer",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/spitzer.html"
+ },
+ "spizzichino": {
+  "title": "Tressette in Due",
+  "aliases": [],
+  "players": "",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/spizzichino.html"
+ },
+ "spoons": {
+  "title": "Spoons",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/spoons.html"
+ },
+ "spot": {
+  "title": "Spot",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/spot.html"
+ },
+ "sramsch": {
+  "title": "Schieberamsch",
+  "aliases": [
+   "Forehand"
+  ],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/sramsch.html"
+ },
+ "stortok": {
+  "title": "Stortok",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/stortok.html"
+ },
+ "stovkahra": {
+  "title": "Stovkahra",
+  "aliases": [],
+  "players": "",
+  "family": "trappola",
+  "url": "https://www.pagat.com/trappola/stovkahra.html"
+ },
+ "stubtar": {
+  "title": "Droggn",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/stubtar.html"
+ },
+ "styrivolt": {
+  "title": "Stýrivolt",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/styrivolt.html"
+ },
+ "sueca": {
+  "title": "Sueca",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/sueca.html"
+ },
+ "swjass": {
+  "title": "Swjass",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/swjass.html"
+ },
+ "swoop": {
+  "title": "Swoop",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/swoop.html"
+ },
+ "tablic": {
+  "title": "Tablić",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/tablic.html"
+ },
+ "taihe-a-bao": {
+  "title": "Taihe A Bao",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/taihe-a-bao.html"
+ },
+ "tapptarock": {
+  "title": "Tapp Tarock",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/tapptarock.html"
+ },
+ "tarneeb": {
+  "title": "Tarneeb",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/tarneeb.html"
+ },
+ "taroky": {
+  "title": "Taroky",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/taroky.html"
+ },
+ "tartli": {
+  "title": "Tartli",
+  "aliases": [
+   "Felsős"
+  ],
+  "players": "2",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/tartli.html"
+ },
+ "tattare": {
+  "title": "Tjuv",
+  "aliases": [
+   "Tjuva"
+  ],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/tattare.html"
+ },
+ "teka": {
+  "title": "Teka",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/teka.html"
+ },
+ "telefunken": {
+  "title": "Telefunken",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/telefunken.html"
+ },
+ "thirteen": {
+  "title": "Tien Len",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/thirteen.html"
+ },
+ "thunee": {
+  "title": "Thunee",
+  "aliases": [],
+  "players": "",
+  "family": "jass",
+  "url": "https://www.pagat.com/jass/thunee.html"
+ },
+ "toepen": {
+  "title": "Toepen",
+  "aliases": [
+   "Tuppen",
+   "Siwweschrööm"
+  ],
+  "players": "3–8",
+  "family": "last",
+  "url": "https://www.pagat.com/last/toepen.html"
+ },
+ "tong-its": {
+  "title": "Tong Its",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/tong-its.html"
+ },
+ "tonk": {
+  "title": "Tonk",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/tonk.html"
+ },
+ "tooner": {
+  "title": "Toonerville Rook",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/tooner.html"
+ },
+ "toppm": {
+  "title": "Dobbm",
+  "aliases": [],
+  "players": "",
+  "family": "aceten",
+  "url": "https://www.pagat.com/aceten/toppm.html"
+ },
+ "toruro": {
+  "title": "Toruro",
+  "aliases": [],
+  "players": "",
+  "family": "rams",
+  "url": "https://www.pagat.com/rams/toruro.html"
+ },
+ "tractor": {
+  "title": "Tractor",
+  "aliases": [],
+  "players": "",
+  "family": "kt5",
+  "url": "https://www.pagat.com/kt5/tractor.html"
+ },
+ "trash": {
+  "title": "Trash",
+  "aliases": [
+   "Garbage or Ten"
+  ],
+  "players": "",
+  "family": "patience",
+  "url": "https://www.pagat.com/patience/trash.html"
+ },
+ "treikort": {
+  "title": "Treikort",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/treikort.html"
+ },
+ "tresillo": {
+  "title": "Tresillo",
+  "aliases": [
+   "Hombre",
+   "Voltarete"
+  ],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/tresillo.html"
+ },
+ "tressette": {
+  "title": "Tressette",
+  "aliases": [],
+  "players": "4",
+  "family": "tressette",
+  "url": "https://www.pagat.com/tressette/tressette.html"
+ },
+ "tresydos": {
+  "title": "Tresydos",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/tresydos.html"
+ },
+ "trex": {
+  "title": "Trix",
+  "aliases": [],
+  "players": "",
+  "family": "compendium",
+  "url": "https://www.pagat.com/compendium/trex.html"
+ },
+ "tribello": {
+  "title": "Tribello",
+  "aliases": [],
+  "players": "",
+  "family": "quotawhist",
+  "url": "https://www.pagat.com/quotawhist/tribello.html"
+ },
+ "trijumf": {
+  "title": "Trijumf",
+  "aliases": [
+   "Croatian Triumph"
+  ],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/trijumf.html"
+ },
+ "trionfetti": {
+  "title": "Trionfetti",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/trionfetti.html"
+ },
+ "troccas": {
+  "title": "Troccas",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/troccas.html"
+ },
+ "troefcall": {
+  "title": "Troefcall",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/troefcall.html"
+ },
+ "troggu": {
+  "title": "Troggu",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/troggu.html"
+ },
+ "truc": {
+  "title": "Truc",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/truc.html"
+ },
+ "truco": {
+  "title": "Truco",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/truco.html"
+ },
+ "truf": {
+  "title": "Truf",
+  "aliases": [],
+  "players": "4",
+  "family": "exact",
+  "url": "https://www.pagat.com/exact/truf.html"
+ },
+ "ttcrib": {
+  "title": "Table Top Cribbage",
+  "aliases": [],
+  "players": "",
+  "family": "layout",
+  "url": "https://www.pagat.com/layout/ttcrib.html"
+ },
+ "tuebingen": {
+  "title": "Tübingen Tarock",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/tuebingen.html"
+ },
+ "tute": {
+  "title": "Tute",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/tute.html"
+ },
+ "twoplayer": {
+  "title": "Two Player Whist",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/twoplayer.html"
+ },
+ "ugly": {
+  "title": "Ugly",
+  "aliases": [],
+  "players": "",
+  "family": "reverse",
+  "url": "https://www.pagat.com/reverse/ugly.html"
+ },
+ "ulti": {
+  "title": "Ulti",
+  "aliases": [],
+  "players": "",
+  "family": "marriage",
+  "url": "https://www.pagat.com/marriage/ulti.html"
+ },
+ "umtali": {
+  "title": "Umtali",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/umtali.html"
+ },
+ "valepaska": {
+  "title": "Valepaska",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/valepaska.html"
+ },
+ "vandatta": {
+  "title": "Vandatta",
+  "aliases": [],
+  "players": "",
+  "family": "eights",
+  "url": "https://www.pagat.com/eights/vandatta.html"
+ },
+ "vandtia": {
+  "title": "Vändtia",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/vandtia.html"
+ },
+ "verish": {
+  "title": "Verish",
+  "aliases": [],
+  "players": "",
+  "family": "beating",
+  "url": "https://www.pagat.com/beating/verish.html"
+ },
+ "viersche": {
+  "title": "Viersche",
+  "aliases": [],
+  "players": "4",
+  "family": "reunion",
+  "url": "https://www.pagat.com/reunion/viersche.html"
+ },
+ "vint": {
+  "title": "Vint",
+  "aliases": [],
+  "players": "",
+  "family": "auctionwhist",
+  "url": "https://www.pagat.com/auctionwhist/vint.html"
+ },
+ "vira": {
+  "title": "Vira",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/vira.html"
+ },
+ "vitou": {
+  "title": "Vitou",
+  "aliases": [],
+  "players": "",
+  "family": "put",
+  "url": "https://www.pagat.com/put/vitou.html"
+ },
+ "vorms": {
+  "title": "Vorms",
+  "aliases": [],
+  "players": "",
+  "family": "karnoeffel",
+  "url": "https://www.pagat.com/karnoeffel/vorms.html"
+ },
+ "war": {
+  "title": "War",
+  "aliases": [],
+  "players": "",
+  "family": "war",
+  "url": "https://www.pagat.com/war/war.html"
+ },
+ "watten": {
+  "title": "Watten",
+  "aliases": [],
+  "players": "4",
+  "family": "trumps",
+  "url": "https://www.pagat.com/trumps/watten.html"
+ },
+ "whist": {
+  "title": "Whist",
+  "aliases": [],
+  "players": "",
+  "family": "whist",
+  "url": "https://www.pagat.com/whist/whist.html"
+ },
+ "whot": {
+  "title": "Whot!",
+  "aliases": [],
+  "players": "",
+  "family": "com",
+  "url": "https://www.pagat.com/com/whot.html"
+ },
+ "wiezen": {
+  "title": "Wiezen",
+  "aliases": [],
+  "players": "",
+  "family": "boston",
+  "url": "https://www.pagat.com/boston/wiezen.html"
+ },
+ "wipe": {
+  "title": "Vazhushal",
+  "aliases": [],
+  "players": "",
+  "family": "rummy",
+  "url": "https://www.pagat.com/rummy/wipe.html"
+ },
+ "xeri": {
+  "title": "Xeri",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/xeri.html"
+ },
+ "xx-hivas": {
+  "title": "Hungarian Tarokk",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/xx-hivas.html"
+ },
+ "yaniv": {
+  "title": "Yaniv",
+  "aliases": [
+   "Yusef"
+  ],
+  "players": "2–5",
+  "family": "draw",
+  "url": "https://www.pagat.com/draw/yaniv.html"
+ },
+ "yukon": {
+  "title": "Yukon, Gold-digger",
+  "aliases": [
+   "Yukons"
+  ],
+  "players": "",
+  "family": "pointtrk",
+  "url": "https://www.pagat.com/pointtrk/yukon.html"
+ },
+ "zandari": {
+  "title": "Žandari",
+  "aliases": [],
+  "players": "",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/zandari.html"
+ },
+ "zanga": {
+  "title": "Zanga",
+  "aliases": [],
+  "players": "",
+  "family": "lhombre",
+  "url": "https://www.pagat.com/lhombre/zanga.html"
+ },
+ "zhengfen": {
+  "title": "Zheng Fen",
+  "aliases": [],
+  "players": "",
+  "family": "climbing",
+  "url": "https://www.pagat.com/climbing/zhengfen.html"
+ },
+ "zole": {
+  "title": "Zole",
+  "aliases": [],
+  "players": "",
+  "family": "schafkopf",
+  "url": "https://www.pagat.com/schafkopf/zole.html"
+ },
+ "zsirozas": {
+  "title": "Zsírozás",
+  "aliases": [],
+  "players": "",
+  "family": "sedma",
+  "url": "https://www.pagat.com/sedma/zsirozas.html"
+ },
+ "zwanzig": {
+  "title": "Zwanzigerrufen",
+  "aliases": [],
+  "players": "",
+  "family": "tarot",
+  "url": "https://www.pagat.com/tarot/zwanzig.html"
+ },
+ "zwicker": {
+  "title": "Zwicker",
+  "aliases": [],
+  "players": "4",
+  "family": "fishing",
+  "url": "https://www.pagat.com/fishing/zwicker.html"
+ }
+}
