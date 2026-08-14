@@ -1,120 +1,121 @@
-# Kaluki1
+# Kaluki
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A form of 13-card Rummy normally played for stakes.
+**Type :** Rami
+**But :** Une forme de Rami à 13 cartes normalement jouée pour de l'argent.
+**Autres noms :** Kalooki, Kaluki, Kalookie
 
 ---
 
-Note: Jamaican Kalooki and South African Kalookie are covered on other pages.
+Note : le Kalooki jamaïcain et le Kalookie sud-africain sont traités sur d'autres pages.
 
-## Kalookie in Britain
+## Kalookie en Grande-Bretagne
 
-Kalookie is popular in Britain both in clubs and private games; there seems to be a preponderance of Jewish players. In putting together the corresponding description, I have referred to rules issued by the Victoria Sporting Club in London and the Tiberius Sporting Club in Portsmouth, kindly sent to me by David Stratful and Bob Ekins respectively, and to information from and Andrew Williamson and Spencer Pearson.
+Le Kalookie est populaire en Grande-Bretagne à la fois dans les clubs et dans les jeux privés ; il semble y avoir une prépondérance de joueurs juifs. Pour assembler la description correspondante, je me suis référé aux règles publiées par le Victoria Sporting Club à Londres et le Tiberius Sporting Club à Portsmouth, aimablement envoyées par David Stratful et Bob Ekins respectivement, ainsi qu'aux informations d'Andrew Williamson et de Spencer Pearson.
 
-### Players, cards and objective
+### Joueurs, cartes et objectif
 
-Kalookie is a rummy game which can be played by from two to five players. Two standard packs of cards plus two jokers are used - 106 cards in all. The cards have point values as follows:
+Le Kalookie est un jeu de rami qui peut se jouer de deux à cinq joueurs. Deux jeux standard de cartes plus deux jokers sont utilisés — 106 cartes au total. Les cartes ont les valeurs en points suivantes :
 
-| Ace |    . . .    | 11 points |
-| King, Queen, Jack, Ten |    . . .    | 10 points |
-| 2 to 9 |    . . .    | face value |
-| Joker |    . . .    | 15 points (*) |
+| As | .. . . .. | 11 points |
+| Roi, Dame, Valet, Dix | .. . . .. | 10 points |
+| 2 à 9 | .. . . .. | valeur nominale |
+| Joker | .. . . .. | 15 points (*) |
 
-(*) When used in a meld to substitute for another card, the joker takes on the point value of the card it represents. It counts 15 penalty points when in the hand of a player at the end of play.
+(*) Quand il est utilisé dans une combinaison pour remplacer une autre carte, le joker prend la valeur en points de la carte qu'il représente. Il compte 15 points de pénalité quand il est en main chez un joueur à la fin du jeu.
 
-Through drawing and discarding, the players try to meld (lay down) their 13 cards by forming them into sets of equal ranked cards and runs of consecutive cards of a suit. The hand is won by the first player who melds all their cards in this way - this is known as calling up. All the other players score penalty points for the cards remaining in their hands. Anyone who accumulates more than 150 penalty points over a series of hands is eliminated from the game, unless they buy themselves back in by paying a new stake into the pool. When all players but one have been eliminated, the last surviving player wins the game and takes the money in the pool.
+En piochant et en défaussant, les joueurs essaient de poser (meld) leurs 13 cartes en les formant en groupes de cartes de même rang et en suites de cartes consécutives d'une même couleur. La main est gagnée par le premier joueur qui pose ainsi toutes ses cartes — cela s'appelle « caller » (annoncer). Tous les autres joueurs marquent des points de pénalité pour les cartes restant dans leurs mains. Quiconque accumule plus de 150 points de pénalité sur une série de mains est éliminé du jeu, à moins de se racheter en payant une nouvelle mise dans le pot. Quand tous les joueurs sauf un ont été éliminés, le dernier survivant gagne la partie et prend l'argent du pot.
 
-### The stakes and the deal
+### Les enjeux et la donne
 
-Before playing it is necessary to agree on the following stakes:
+Avant de jouer, il est nécessaire de convenir des enjeux suivants :
 
-- call up - the amount to be paid to the winner of each hand by the other players
+- call up — le montant à payer au vainqueur de chaque main par les autres joueurs
 
-- kalookie - the amount paid to a player who wins a hand by putting down all 13 cards at once 
+- kalookie — le montant payé à un joueur qui gagne une main en posant les 13 cartes d'un coup
 
-- initial stake - the amount paid to the pool by all players at the start of the game
+- mise initiale — le montant payé au pot par tous les joueurs au début de la partie
 
-- buy-in stake - the additional amount paid to the pool to re-enter the game by a player whose score exceeds the target
+- mise de rachat — le montant supplémentaire payé au pot pour rentrer dans le jeu par un joueur dont le score dépasse la cible
 
-Various schemes are possible, with different relative sizes of the four stakes. The two sets of casino rules suggest 1 unit for a call up, 2 units for a kalookie, 5 units for the initial stake and 5 units to buy in. (For example, if a call-up pays 10p, a kalookie will be 20p, and the initial stake and buy-in will be 50p.) Andrew Williamson gives a different scheme, in which the initial stake is 3 units, 1 unit is paid for a call up, 2 for a kalookie and 2 for buying in. 
+Diverses combinaisons sont possibles, avec des tailles relatives différentes des quatre enjeux. Les deux ensembles de règles de casino suggèrent 1 unité pour un call up, 2 unités pour un kalookie, 5 unités pour la mise initiale et 5 unités pour le rachat. (Par exemple, si un call up paie 10p, un kalookie sera 20p, et la mise initiale et le rachat seront 50p.) Andrew Williamson donne un autre système, dans lequel la mise initiale est de 3 unités, 1 unité est payée pour un call up, 2 pour un kalookie et 2 pour le rachat.
 
-If there are five players, the seats and the right to deal first are determined by shuffling together five cards - an ace, two, three four and five - and dealing them to the players. Whoever gets the ace has choice of seat and deals first; the holders of the 2, 3, 4 and 5 sit around the table in clockwise order from the dealer. (With fewer than five players, use the same procedure with cards from ace to the number of players.) The turn to deal passes to the left after each hand.
+S'il y a cinq joueurs, les sièges et le droit de donner en premier sont déterminés en mélangeant ensemble cinq cartes — un as, un deux, un trois, un quatre et un cinq — et en les distribuant aux joueurs. Celui qui reçoit l'as a le choix du siège et donne en premier ; les détenteurs du 2, du 3, du 4 et du 5 s'assoient autour de la table dans l'ordre des aiguilles d'une montre à partir du donneur. (Avec moins de cinq joueurs, utilisez la même procédure avec des cartes allant de l'as au nombre de joueurs.) La donne passe à la gauche après chaque main.
 
-The dealer shuffles and the player to dealer's right must cut the cards. The dealer deals out the cards singly until each player has 13. The next card is placed face up in the centre of the table to start the discard pile and the remaining undealt cards are stacked face down beside it to form the stock.
+Le donneur mélange et le joueur à la droite du donneur doit couper. Le donneur distribue les cartes une à une jusqu'à ce que chaque joueur en ait 13. La carte suivante est placée face visible au centre de la table pour commencer la défausse et les cartes restantes non distribuées sont empilées face cachée à côté pour former le talon.
 
-### Melding
+### Les combinaisons (melds)
 
-A meld is a combination of cards from a player's hand which is placed face up on the table and left there. This is how players progressively eliminate cards from their hands, the aim being to meld all of one's cards. In order to understand the rules of play, it is first necessary to know what constitutes a legal meld. There are two types of meld.
+Une combinaison est une réunion de cartes de la main d'un joueur placée face visible sur la table et laissée là. C'est ainsi que les joueurs éliminent progressivement des cartes de leurs mains, le but étant de poser toutes ses cartes. Pour comprendre les règles du jeu, il faut d'abord savoir ce qui constitue une combinaison légale. Il y a deux types de combinaisons.
 
-- A set consists of three or four cards of the same rank, which must all be of different suits (no duplicate cards). So for example ![heart](../images/internat/heart.gif)Q-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q and ![heart](../images/internat/heart.gif)9-![diamond](../images/internat/diamond.gif)9-![club](../images/internat/club.gif)9-![spade](../images/internat/spade.gif)9 are valid sets, but ![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)4-![club](../images/internat/club.gif)4 is not.
-- A run consists of three or more consecutive cards in a single suit. For this purpose the order of cards is A-K-Q-J-10-9-8-7-6-5-4-3-2 - that is aces rank high only. So ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)K-![heart](../images/internat/heart.gif)Q and ![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)8 are valid runs but ![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)A and ![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K are not. When melding six or more consecutive cards in a suit, the player has the choice of putting them down as a single run or dividing them into two (or more) runs. Normally it is better to meld them as a single run, because this gives the other players fewer chances to build (see below).
+- Un groupe consiste en trois ou quatre cartes du même rang, qui doivent toutes être de couleurs différentes (pas de cartes en double). Ainsi par exemple ![cœur](../images/internat/heart.gif)D-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D et ![cœur](../images/internat/heart.gif)9-![carreau](../images/internat/diamond.gif)9-![trèfle](../images/internat/club.gif)9-![pique](../images/internat/spade.gif)9 sont des groupes valides, mais ![carreau](../images/internat/diamond.gif)4-![carreau](../images/internat/diamond.gif)4-![trèfle](../images/internat/club.gif)4 ne l'est pas.
+- Une suite consiste en trois cartes consécutives ou plus dans une seule couleur. Pour cela, l'ordre des cartes est A-R-D-V-10-9-8-7-6-5-4-3-2 — c'est-à-dire que les as ne comptent qu'en haut. Ainsi ![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)R-![cœur](../images/internat/heart.gif)D et ![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)V-![pique](../images/internat/spade.gif)10-![pique](../images/internat/spade.gif)9-![pique](../images/internat/spade.gif)8 sont des suites valides, mais ![carreau](../images/internat/diamond.gif)3-![carreau](../images/internat/diamond.gif)2-![carreau](../images/internat/diamond.gif)A et ![trèfle](../images/internat/club.gif)2-![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)R n'en sont pas. En posant six cartes consécutives ou plus d'une même couleur, le joueur a le choix de les poser comme une seule suite ou de les diviser en deux suites (ou plus). Normalement, il vaut mieux les poser comme une seule suite, parce que cela donne aux autres joueurs moins de possibilités de construire (voir ci-dessous).
 
-Jokers may be used in any set or run to substitute for any missing card or cards. If you use a joker at one end of a run - such as ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)5-joker - you must make it clear when you meld the run which card the joker is intended to represent, and this cannot be altered later. If you put down a three-card combination consisting of a natural card and two jokers, you must say whether it is a set or a run, and if it is a run you must say what two cards the jokers represent. However, you do not specify the suit represented by a joker used in a set.
+Les jokers peuvent être utilisés dans tout groupe ou suite pour remplacer toute carte manquante. Si vous utilisez un joker à l'une des extrémités d'une suite — comme ![pique](../images/internat/spade.gif)6-![pique](../images/internat/spade.gif)5-joker — vous devez préciser quand vous posez la suite quelle carte le joker est censé représenter, et cela ne peut plus être modifié par la suite. Si vous posez une combinaison de trois cartes consistant en une carte naturelle et deux jokers, vous devez dire s'il s'agit d'un groupe ou d'une suite, et s'il s'agit d'une suite, vous devez dire quelles deux cartes les jokers représentent. Cependant, vous ne précisez pas la couleur représentée par un joker utilisé dans un groupe.
 
-Initial meld. The first meld put down buy a player, which may consist of more than one set or run, must consist of cards to a total value of at least 40 points. If the intial meld contains jokers, they take on the point values of the cards they represent. A player who has made an intial meld of 40 or more points can on later turns lay down further melds of any value, however small.
+Première combinaison. La première combinaison posée par un joueur, qui peut consister en plus d'un groupe ou d'une suite, doit consister en cartes d'une valeur totale d'au moins 40 points. Si la première combinaison contient des jokers, ils prennent les valeurs en points des cartes qu'ils représentent. Un joueur qui a fait une première combinaison de 40 points ou plus peut, aux tours suivants, poser d'autres combinaisons de n'importe quelle valeur, si petite soit-elle.
 
-Building rules. After you have laid down your intial meld you can in the same or later turns add cards from your hand to any meld on the table - your own or other people's - to make a larger valid meld. This is called building. You can add the corresponding card of the fourth suit to a three-card set (if it contains a joker there will be a choice of suits that can be added), or you can add further consecutive cards to either end of a run. However, you cannot add more than two cards to the same end of a run in a single turn - when putting down three or more consecutive cards of a suit, they must be melded as a new run rather than a build. In builds, as in original melds, a joker can be used as a substitute for any card.
+Règles de construction. Après avoir posé votre première combinaison, vous pouvez, au même tour ou aux tours suivants, ajouter des cartes de votre main à toute combinaison de la table — les vôtres ou celles des autres — pour en faire une combinaison valide plus grande. Cela s'appelle construire (building). Vous pouvez ajouter la carte correspondante de la quatrième couleur à un groupe de trois cartes (s'il contient un joker, il y aura un choix de couleurs qui peuvent être ajoutées), ou vous pouvez ajouter d'autres cartes consécutives à l'une ou l'autre extrémité d'une suite. Cependant, vous ne pouvez pas ajouter plus de deux cartes à la même extrémité d'une suite en un seul tour — en posant trois cartes consécutives ou plus d'une même couleur, elles doivent être posées comme une nouvelle suite plutôt que comme une construction. Dans les constructions comme dans les combinaisons d'origine, un joker peut être utilisé comme substitut de n'importe quelle carte.
 
-Although it is possible to build in the same turn when you lay down your initial meld, the values of cards that you build cannot be counted towards the 40 points needed to make your initial meld valid.
+Bien qu'il soit possible de construire au même tour où vous posez votre première combinaison, les valeurs des cartes que vous construisez ne peuvent pas être comptées dans les 40 points nécessaires pour rendre votre première combinaison valide.
 
-Re-use of jokers. You can in certain circumstances reuse a joker previously melded by yourself or another player. This can only be done by a player who has already laid down an intial meld of at least 40 points, and the released joker must immediately be used in a new meld or build; a joker that has been melded can never be taken into the hand of a player. 
+Réutilisation des jokers. Vous pouvez dans certaines circonstances réutiliser un joker précédemment posé par vous-même ou un autre joueur. Cela ne peut se faire que par un joueur qui a déjà posé une première combinaison d'au moins 40 points, et le joker libéré doit immédiatement être utilisé dans une nouvelle combinaison ou construction ; un joker posé ne peut jamais être repris en main par un joueur.
 
-- If a set of three cards contains a joker, the joker can be released in exchange for equal ranking cards of both missing suits from the player's hand. For example, if ![spade](../images/internat/spade.gif)10-![diamond](../images/internat/diamond.gif)10-joker has been melded, a player who has a ![heart](../images/internat/heart.gif)10 and a ![club](../images/internat/club.gif)10 can add both of these cards to the set, taking the joker in exchange and using it elsewhere. If you just build one of these 10's onto the set, you form a closed four-card set of 10-10-10-joker, from which the joker can never be taken. To a three-card set with two jokers you could add any two of the three missing suits, releasing one of the jokers and forming a closed four-card set.
+- Si un groupe de trois cartes contient un joker, le joker peut être libéré en échange de cartes de même rang des deux couleurs manquantes depuis la main du joueur. Par exemple, si ![pique](../images/internat/spade.gif)10-![carreau](../images/internat/diamond.gif)10-joker a été posé, un joueur qui a un ![cœur](../images/internat/heart.gif)10 et un ![trèfle](../images/internat/club.gif)10 peut ajouter ces deux cartes au groupe, prenant le joker en échange et l'utilisant ailleurs. Si vous construisez un seul de ces 10 sur le groupe, vous formez un groupe fermé de quatre cartes 10-10-10-joker, duquel le joker ne peut jamais être retiré. À un groupe de trois cartes avec deux jokers, vous pourriez ajouter deux des trois couleurs manquantes, libérant un des jokers et formant un groupe fermé de quatre cartes.
 
-- If a run contains a joker, a player who holds the card that the joker represents can place it in the run, in place of the joker, and reuse the joker elsewhere.
+- Si une suite contient un joker, un joueur qui détient la carte que le joker représente peut la placer dans la suite, à la place du joker, et réutiliser le joker ailleurs.
 
-Except in the cases where a joker can be reused as described above, melds and runs once placed on the table can never be rearranged - they can only be added to.
+Sauf dans les cas où un joker peut être réutilisé comme décrit ci-dessus, les combinaisons et les suites une fois posées sur la table ne peuvent jamais être réarrangées — on ne peut que leur ajouter des cartes.
 
-### The play
+### Le jeu
 
-The player to the left of the dealer plays first, and thereafter players take turns in clockwise order round the table. A player's turn consists of three parts: 
+Le joueur à la gauche du donneur joue en premier, puis les joueurs prennent tour à tour dans le sens des aiguilles d'une montre autour de la table. Le tour d'un joueur consiste en trois parties :
 
-- drawing one card, either from the top of the face-down stock or from the top of the discard pile;
+- piocher une carte, soit du dessus du talon face cachée, soit du dessus de la défausse ;
 
-- if able and willing, melding some cards, to form new sets and runs and/or build on existing melds;
+- si possible et si souhaité, poser des cartes en combinaisons, pour former de nouveaux groupes et suites et/ou construire sur des combinaisons existantes ;
 
-- discarding one card from your hand face up on top of the discard pile.
+- défausser une carte de votre main face visible sur le dessus de la défausse.
 
-Drawing at the start of your turn and and discarding are compulsory. Melding is optional, and cards that could have been melded can be kept in your hand for a future opportunity if you prefer. 
+Piocher au début de votre tour et défausser sont obligatoires. Poser des combinaisons est facultatif, et les cartes qui auraient pu être posées peuvent être gardées en main pour une opportunité future si vous préférez.
 
-The very first play of a new deal is exceptional. The player to the left of the dealer is free to draw either the face-up card or the top card of the stock and add it to their hand, may make an intial meld if able and willing to, and must then discard.
+Le tout premier coup d'une nouvelle donne est exceptionnel. Le joueur à la gauche du donneur est libre de piocher soit la carte face visible, soit la carte du dessus du talon et de l'ajouter à sa main, peut faire une première combinaison s'il le peut et le souhaite, et doit ensuite défausser.
 
-Subsequently, players are not allowed to take the top card of the discard pile (the previous player's discard) until they are ready to lay down their intitial meld of 40 points or more. If unable or unwilling to make their initial meld, they can only draw from the stock. The initial meld can include the card taken from the top of the discard pile, or a player may make their initial meld on a turn when they drew from the stock.
+Ensuite, les joueurs ne sont pas autorisés à prendre la carte du dessus de la défausse (la défausse du joueur précédent) avant d'être prêts à poser leur première combinaison de 40 points ou plus. S'ils ne peuvent ou ne veulent pas faire leur première combinaison, ils ne peuvent piocher qu'au talon. La première combinaison peut inclure la carte prise du dessus de la défausse, ou un joueur peut faire sa première combinaison à un tour où il a pioché au talon.
 
-After you have made your initial meld, on subsequent turns you are free to take the previous player's discard from the top of the pile instead of drawing from the stock. The discard you take does not have to be melded immediately, but can be kept in your hand for later use.
+Après avoir fait votre première combinaison, aux tours suivants, vous êtes libre de prendre la défausse du joueur précédent du dessus de la défausse au lieu de piocher au talon. La défausse que vous prenez n'a pas à être posée immédiatement, mais peut être gardée en main pour un usage ultérieur.
 
-The play ends when a player wins by drawing from the stock or discard pile, melding all but one of their cards, and discarding their last card. This is known as calling up. Note that even when calling up you must end your turn with a discard - it is not legal to draw, meld all your cards and discard nothing.
+Le jeu se termine quand un joueur gagne en piochant au talon ou à la défausse, posant en combinaisons toutes ses cartes sauf une, et défaussant sa dernière carte. Cela s'appelle « caller » (annoncer). Notez que même en annonçant, vous devez terminer votre tour par une défausse — il n'est pas légal de piocher, poser toutes vos cartes et ne rien défausser.
 
-Note that there is no "laying off", as in some other rummy games. When a player calls up, the play ends immediately and the other players have no opportunity to dispose of any cards they are holding, even if they could have been melded or built onto other melds. 
+Notez qu'il n'y a pas de « délestage » (laying off), comme dans certains autres jeux de rami. Quand un joueur annonce, le jeu se termine immédiatement et les autres joueurs n'ont aucune occasion de se débarrasser des cartes qu'ils tiennent, même si elles auraient pu être posées en combinaisons ou construites sur d'autres combinaisons.
 
-Winning by melding 13 cards on the same turn (having previously melded nothing) is known as a kalookie, and is rewarded with a higher payment than calling up. If other players have already melded, a kalookie can be achieved by a combination of new melds and builds, but as usual you must meld new combinations to a value of at least 40 points from your hand before you are allowed to build on other players' melds.
+Gagner en posant 13 cartes au même tour (sans avoir rien posé auparavant) s'appelle un kalookie, et est récompensé par un paiement plus élevé qu'un call up. Si d'autres joueurs ont déjà posé des combinaisons, un kalookie peut être réalisé par une combinaison de nouvelles poses et de constructions, mais comme d'habitude, vous devez poser de nouvelles combinaisons d'une valeur d'au moins 40 points depuis votre main avant d'être autorisé à construire sur les combinaisons d'autres joueurs.
 
-If after discarding you end your turn with one, two or three cards you must warn the other players by announcing the number of cards that you hold. A player who fails to do this is barred from winning on their next turn.
+Si après avoir défaussé vous terminez votre tour avec une, deux ou trois cartes, vous devez avertir les autres joueurs en annonçant le nombre de cartes que vous tenez. Un joueur qui ne le fait pas est privé de gagner à son tour suivant.
 
-If the stock runs out, the discard pile is shuffled and placed face down to form a new stock. The card discarded by the player who drew the last card of the old stock is placed face up beside the new stock to start the new discard pile. In the rare case when the stock runs out a second time, there is no second reshuffle. Instead the game is declared void (no score or payment) and the same dealer shuffles and deals a new hand.
+Si le talon s'épuise, la défausse est battue et placée face cachée pour former un nouveau talon. La carte défaussée par le joueur qui a pioché la dernière carte de l'ancien talon est placée face visible à côté du nouveau talon pour commencer la nouvelle défausse. Dans le cas rare où le talon s'épuise une seconde fois, il n'y a pas de second rebattage. À la place, la partie est déclarée nulle (aucun score ni paiement) et le même donneur bat et distribue une nouvelle main.
 
-### The scoring
+### Le score
 
-There are three parts to this: the immediate payments between the players at the end of each hand, the payments to the pool, and the recording of penalty points to determine when players are eliminated, and who will eventually win the pool. The size of the payments for initial stake, call-up, kalookie and buy-in will have been agreed in advance (see above).
+Il y a trois volets : les paiements immédiats entre les joueurs à la fin de chaque main, les paiements au pot, et l'enregistrement des points de pénalité pour déterminer quand les joueurs sont éliminés, et qui gagnera finalement le pot. Les montants des paiements pour la mise initiale, le call up, le kalookie et le rachat auront été convenus à l'avance (voir ci-dessus).
 
-At the start of the game, each player must pay the initial stake to the pool.
+Au début de la partie, chaque joueur doit payer la mise initiale au pot.
 
-The winner of a hand is paid the stake for a call up or a kalookie as appropriate by each of the other players who played in that hand. (Players who have been finally eliminated from the game do not pay). Also, the total point value of the cards held in the hands of each of the other players is reckoned (counting jokers as 15) and recorded as penalty points. A cumulative total of penalty points for each player is kept on a score sheet.
+Le vainqueur d'une main reçoit la mise pour un call up ou un kalookie, selon le cas, de chacun des autres joueurs qui ont joué dans cette main. (Les joueurs qui ont été définitivement éliminés du jeu ne paient pas.) Aussi, la valeur totale en points des cartes tenues en main par chacun des autres joueurs est calculée (comptant les jokers à 15) et enregistrée comme points de pénalité. Un total cumulé de points de pénalité pour chaque joueur est tenu sur une feuille de score.
 
-Players whose total of penalty points is more then 150 are eliminated from the game unless they choose to buy in, paying the agreed buy-in stake to the pool and having their penalty point score reduced to the highest score of any of the players who have 150 or less. Buying in is subject to the following restrictions.
+Les joueurs dont le total de points de pénalité est supérieur à 150 sont éliminés du jeu à moins de choisir de se racheter, en payant la mise de rachat convenue au pot et en voyant leur score de points de pénalité ramené au plus haut score de l'un des joueurs qui en ont 150 ou moins. Le rachat est soumis aux restrictions suivantes.
 
-- Each player can buy in only twice during a game. When they go above 150 for the third time they are eliminated.
+- Chaque joueur ne peut se racheter que deux fois pendant une partie. Quand il dépasse 150 pour la troisième fois, il est éliminé.
 
-- Buying in is only possible if there are at least two players in the game with a score of 150 or less. If the scoring of a hand takes all the players except one over 150, that player has won and the others have no possibility of buying in.
+- Le rachat n'est possible que s'il y a au moins deux joueurs dans la partie avec un score de 150 ou moins. Si le score d'une main fait passer tous les joueurs sauf un au-dessus de 150, ce joueur a gagné et les autres n'ont aucune possibilité de se racheter.
 
-When the scores of all the players have been calculated at the end of a hand, it can happen that several players are over 150 and have the option of buying in. In this case they must decide in turn whether to do so, starting to the left of the player who won the hand that just ended, and going round the table clockwise.
+Quand les scores de tous les joueurs ont été calculés à la fin d'une main, il peut arriver que plusieurs joueurs soient au-dessus de 150 et aient l'option de se racheter. Dans ce cas, ils doivent décider à tour de rôle s'ils le font, en commençant à la gauche du joueur qui a gagné la main qui vient de se terminer, et en faisant le tour de la table dans le sens des aiguilles d'une montre.
 
-When there is only one player left with a score of 150 or less, that player is the overall winner and takes the pool, which consists of all the initial stakes and buy-in payments that have accumulated during the game.
+Quand il ne reste qu'un seul joueur avec un score de 150 ou moins, ce joueur est le vainqueur d'ensemble et prend le pot, qui consiste en toutes les mises initiales et les paiements de rachat accumulés pendant la partie.
 
-Rather than using cash for the initial stakes and buy-ins and for settling after each hand, it is possible to record the whole thing on paper and settle up at the end. In this case you keep two accounts - one for the penalty points and another for the hand payments. This might appear as follows:
+Plutôt que d'utiliser de l'argent pour les mises initiales et les rachats et pour régler après chaque main, il est possible de tout enregistrer sur papier et de régler à la fin. Dans ce cas, vous tenez deux comptes — un pour les points de pénalité et un autre pour les paiements de main. Cela peut se présenter comme suit :
 
-| Penalty points | | Payments |
+| Points de pénalité | | Paiements |
 | Andy | Mark | John | Frank |
 | 85 | 42 | * | 62 |
 | * | 92 | 45 | 84 |
@@ -129,85 +130,83 @@ Rather than using cash for the initial stakes and buy-ins and for settling after
 | -1 | -5 | +7 | -1 |
 | -2 | -6 | +10 | -2 |
 
-Pool including buy-ins:
-Total:
+Pot y compris les rachats :
+Total :
 | -5 | -10 | +20 | -5 |
 | -7 | -16 | +30 | -7 |
 
-In the left table "*" marks the winner of the hand by an ordinary call up, "*K" denotes a win by kalookie. Brackets indicate a buy-in: on the fourth hand Mark went over 150 and bought in, bringing his acore down to 127.
+Dans le tableau de gauche, « * » marque le vainqueur de la main par un call up ordinaire, « *K » désigne une victoire par kalookie. Les parenthèses indiquent un rachat : à la quatrième main, Mark est passé au-dessus de 150 et s'est racheté, ramenant son score à 127.
 
-In the right table the payments must always balance. After the fifth hand only John had a score of 150 or less, so no further buy-ins were possible: the game ended and John took the pool. In the last rows the pool payments and buy-ins are added.
+Dans le tableau de droite, les paiements doivent toujours s'équilibrer. Après la cinquième main, seul John avait un score de 150 ou moins, donc plus aucun rachat n'était possible : la partie s'est terminée et John a pris le pot. Dans les dernières rangées, les paiements du pot et les rachats sont ajoutés.
 
-### Variations
+### Variantes
 
-Some play that a player who wins by Kalookie does not need to meet the 40 point minimum for laying down.
+Certains jouent avec un vainqueur par Kalookie n'ayant pas à satisfaire le minimum de 40 points pour poser.
 
-Some play that only two cards in total can be added to a run in any one turn.
+Certains jouent avec seulement deux cartes au total pouvant être ajoutées à une suite en un tour donné.
 
-Some allow a joker to be taken only from the interior of a run, not from the end.
+Certains permettent de retirer un joker seulement de l'intérieur d'une suite, pas de l'extrémité.
 
-Some allow aces to be used as either high or low, so that A-2-3 is a valid run. An ace used as low counts 1 point when laid down, but an ace remaining in a player's hand always counts 11 penalty points.
+Certains permettent aux as d'être utilisés en haut ou en bas, de sorte que A-2-3 soit une suite valide. Un as utilisé en bas compte 1 point quand il est posé, mais un as restant dans la main d'un joueur compte toujours 11 points de pénalité.
 
-Some set the maximum score you can have as 151 rather than 150; some play to 301 or 501.
+Certains fixent le score maximum que vous pouvez avoir à 151 plutôt que 150 ; certains jouent jusqu'à 301 ou 501.
 
-Neil Darbyshire reports that in Blackpool the minimum count required for an initial meld is 51 points, and the maximum score is 100: with a score of 101 or more you must buy back in and leave the game. This game is sometimes played in a tournament format with four players per table (where possible) and around 16 to 24 players. Players whose scores go over 100 can buy in but move to form a new table, where play is started when four players have bought into it. Buying in is allowed until a total of eight tables (including the original tables) have been formed. The winners of these eight games play a semi-final at two tables with two winners at each table, and these four winners play at the final table to determine the overall winner.
+Neil Darbyshire rapporte qu'à Blackpool, le compte minimum requis pour une première combinaison est de 51 points, et le score maximum de 100 : avec un score de 101 ou plus, vous devez vous racheter et quitter le jeu. Ce jeu est parfois joué en format tournoi avec quatre joueurs par table (quand c'est possible) et environ 16 à 24 joueurs. Les joueurs dont les scores dépassent 100 peuvent se racheter mais se déplacent pour former une nouvelle table, où le jeu commence quand quatre joueurs s'y sont rachetés. Le rachat est autorisé jusqu'à ce qu'un total de huit tables (y compris les tables d'origine) ait été formé. Les vainqueurs de ces huit parties jouent une demi-finale sur deux tables avec deux vainqueurs à chaque table, et ces quatre vainqueurs jouent à la table finale pour déterminer le vainqueur d'ensemble.
 
-Some play that when a kalookie occurs, double penalties are charged for all cards remaining in players' hands.
+Certains jouent avec des pénalités doublées pour toutes les cartes restant dans les mains des joueurs quand un kalookie survient.
 
-Some play that there is no reshuffle of the discard pile in the event that the stock runs out. Instead the game is void (no score or payment) and the same dealer deals again.
+Certains jouent sans rebattage de la défausse dans le cas où le talon s'épuise. À la place, la partie est nulle (aucun score ni paiement) et le même donneur redistribue.
 
-Damian Griffin describes a variant played with three decks of cards including three jokers, so 159 cards. Jokers in hand cost 25 penalty points; other card values as above. It is possible to meld a set of three identical cards, such as ![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)K and to use jokers as substitutes for one or more of these cards, but not two idental and one of a different suit, so for example ![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)K-![spade](../images/internat/spade.gif)K is **not** a valid meld. The game is played to 301 with two buy-ins allowed. 
+Damian Griffin décrit une variante jouée avec trois jeux de cartes incluant trois jokers, soit 159 cartes. Les jokers en main coûtent 25 points de pénalité ; les autres valeurs de cartes comme ci-dessus. Il est possible de poser un groupe de trois cartes identiques, comme ![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)R, et d'utiliser des jokers comme substituts d'une ou plusieurs de ces cartes, mais pas deux identiques et une d'une couleur différente, ainsi par exemple ![carreau](../images/internat/diamond.gif)R-![carreau](../images/internat/diamond.gif)R-![pique](../images/internat/spade.gif)R n'est **pas** une combinaison valide. Le jeu se joue jusqu'à 301 avec deux rachats autorisés.
 
-### Software and Onliene Games
+### Logiciels et jeux en ligne
 
-[Kalooki Kaluki Kalookie](https://apps.apple.com/gb/app/kalooki-kaluki-kalookie/id6497948571) by Antonio Ferraioli is an iPhone and iPad app for playing British Kalookie against computer opponents or online with friends. The rules can be configured for several common variations. The app is free with advertisements, with an optional purchase to remove them.
+[Kalooki Kaluki Kalookie](https://apps.apple.com/gb/app/kalooki-kaluki-kalookie/id6497948571) d'Antonio Ferraioli est une application iPhone et iPad pour jouer au Kalookie britannique contre des adversaires informatiques ou en ligne avec des amis. Les règles peuvent être configurées pour plusieurs variantes courantes. L'application est gratuite avec des publicités, avec un achat optionnel pour les retirer.
 
-## Swedish Kalooki
+## Kalooki suédois
 
-A Swedish version of Kalooki is described in Dan Glimne's Kortspels Guiden (Wahlströms, 2000). It is similar to the British version described above, but with a target score of 100 (with 101 or more you must retire or buy in). The ratio of stakes is 1 for call-out, 3 for Kalooki, 5 for initial stake or buy-in.
+Une version suédoise du Kalooki est décrite dans le Kortspels Guiden de Dan Glimne (Wahlströms, 2000). Elle est similaire à la version britannique décrite ci-dessus, mais avec un score cible de 100 (avec 101 ou plus, vous devez vous retirer ou vous racheter). Le ratio des enjeux est de 1 pour le call-out, 3 pour le Kalooki, 5 pour la mise initiale ou le rachat.
 
-## North American Kaluki
+## Kaluki nord-américain
 
-Many American card game books contain rules for Kaluki - for example there are rules for Kaluki in the [USPCC Official Rules of Cards Games](https://amzn.to/3HRniHz). If these brief descriptions are to be trusted, it seems that North American Kaluki is rather different from the European game. The major differences are as follows:
+Beaucoup de livres américains de jeux de cartes contiennent des règles du Kaluki — par exemple, il y a des règles du Kaluki dans les [USPCC Official Rules of Card Games](https://amzn.to/3HRniHz). Si ces brèves descriptions sont dignes de confiance, il semble que le Kaluki nord-américain soit assez différent du jeu européen. Les principales différences sont les suivantes :
 
-- The pack includes four jokers - 108 cards in all.
+- Le jeu inclut quatre jokers — 108 cartes au total.
 
-- 15 cards are dealt to each player when two, three or four play; five players are dealt 13 cards each; six receive 11 cards each.
+- 15 cartes sont distribuées à chaque joueur quand deux, trois ou quatre jouent ; cinq joueurs reçoivent 13 cartes chacun ; six en reçoivent 11 chacun.
 
-- The requirement for an initial meld is 51 points, but cards built on other players' melds can be counted towards this requirement, provided that the player makes at least one new meld of his own.
+- L'exigence pour une première combinaison est de 51 points, mais les cartes construites sur les combinaisons d'autres joueurs peuvent être comptées vers cette exigence, à condition que le joueur fasse au moins une nouvelle combinaison de son cru.
 
-- Cards cannot be taken from the discard pile before have put down your initial meld. You can, however, take the top discard to use as part of your initial meld.
+- Les cartes ne peuvent pas être prises de la défausse avant d'avoir posé votre première combinaison. Vous pouvez, cependant, prendre la défausse du dessus pour l'utiliser comme partie de votre première combinaison.
 
-- Aces can be counted as high or low (but not both at once), so A-K-Q and A-2-3 are valid runs, though 2-A-K is not. 
+- Les as peuvent être comptés en haut ou en bas (mais pas les deux à la fois), donc A-R-D et A-2-3 sont des suites valides, bien que 2-A-R ne le soit pas.
 
-- Aces count 15 points. A joker in the hand of a player at the end counts 25 points.
+- Les as comptent 15 points. Un joker dans la main d'un joueur à la fin compte 25 points.
 
-- Having made your initial meld you can reuse a melded joker by substituting a valid natural card for it - only one card is needed to take a joker from a set.
+- Après avoir fait votre première combinaison, vous pouvez réutiliser un joker posé en substituant une carte naturelle valide — une seule carte est nécessaire pour retirer un joker d'un groupe.
 
-- There is no pool or buying in. At the end of each hand the winner scores the total value of all the cards remaining in the hands of the other players.
+- Il n'y a pas de pot ni de rachat. À la fin de chaque main, le vainqueur marque la valeur totale de toutes les cartes restant dans les mains des autres joueurs.
 
-- Apparently there is no special score for Kaluki (melding all your cards in one turn).
+- Apparemment, il n'y a pas de score spécial pour le Kaluki (poser toutes ses cartes en un tour).
 
-In his Encyclopedia of Games, John Scarne describes a slightly different version of Kaluki played on the East Coast of the USA, with the following differences from the above game:
+Dans son Encyclopedia of Games, John Scarne décrit une version légèrement différente du Kaluki jouée sur la côte Est des États-Unis, avec les différences suivantes par rapport au jeu ci-dessus :
 
-- Aces count 11. 
+- Les as comptent 11.
 
-- It is possible to meld a set of three or four jokers, counting them as worth 15 each, though it is usually unwise to waste jokers in this way.
+- Il est possible de poser un groupe de trois ou quatre jokers, les comptant comme valant 15 chacun, bien qu'il soit généralement imprudent de gaspiller ainsi des jokers.
 
-- When the cards are cut, the bottom card is shown; if it is a joker, the player cutting takes it and receives 14 cards in the deal to make a hand of 15.
+- Quand les cartes sont coupées, la carte du dessous est montrée ; si c'est un joker, le joueur qui coupe le prend et reçoit 14 cartes dans la donne pour faire une main de 15.
 
-- Immediately after the deal, the dealer may take the face-up card and discard another in its place (but may not draw from the stock instead). Play then starts with the player to dealer's left.
+- Immédiatement après la donne, le donneur peut prendre la carte face visible et en défausser une autre à sa place (mais ne peut pas piocher au talon à la place). Le jeu commence ensuite avec le joueur à la gauche du donneur.
 
-- Throughout the play, the previous discard can only be taken if it is used immediately in a meld.
+- Tout au long du jeu, la défausse précédente ne peut être prise que si elle est utilisée immédiatement dans une combinaison.
 
-- Each hand is a separate event. The losers each pay the winner one cent for each card in their hands, except jokers, for which they have to pay two cents. These payments are doubled if the winner went Kaluki.
+- Chaque main est un événement séparé. Les perdants paient chacun au vainqueur un cent par carte de leurs mains, sauf les jokers, pour lesquels ils doivent payer deux cents. Ces paiements sont doublés si le vainqueur est sorti en Kaluki.
 
-## Other pages on European and North American Kaluki
+## Autres pages sur le Kaluki européen et nord-américain
 
-[Rummy.ch](https://web.archive.org/web/20220802155937/http://www.rummy.ch/pages/de/home.php) (archive copy) was a German language site offering rules for Kalooki and many other rummy games, plus strategy articles and reviews of online rummy sites and a forum.
+[Rummy.ch](https://web.archive.org/web/20220802155937/http://www.rummy.ch/pages/de/home.php) (copie d'archive) était un site en langue allemande offrant des règles pour le Kalooki et beaucoup d'autres jeux de rami, plus des articles de stratégie et des critiques de sites de rami en ligne et un forum.
 
-## Kaluki Software and Online Games
+## Logiciels et jeux en ligne Kaluki
 
-The Rummy program from [Special K Software](https://www.specialksoftware.com) supports ten Rummy variants, including Kaluki, which you can play against computer opponents.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Kaluki > European
+Le programme Rummy de [Special K Software](https://www.specialksoftware.com) supporte dix variantes de Rami, y compris le Kaluki, que vous pouvez jouer contre des adversaires informatiques.

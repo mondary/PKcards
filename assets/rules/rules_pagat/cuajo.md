@@ -1,138 +1,137 @@
 # Cuajo
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A card game of the Rummy family played in the Philippines with a special deck of 112 cards with Spanish suits.
+**Type :** Rami
+**But :** Un jeu de cartes de la famille du rami joué aux Philippines avec un jeu spécial de 112 cartes à couleurs espagnoles.
 
 ---
 
-This page is based on information from Crisanta Ruisz, kindly passed on to me by Angela Ruisz and Adam Courtney.
+Cette page est basée sur des informations de Crisanta Ruisz, aimablement transmises par Angela Ruisz et Adam Courtney.
 
 ## Introduction
 
-Cuajo is a game of the rummy family played in the Philippines. Although the cards used are of Spanish design, the game shows signs of being of Asian origin - the likely relationship to Chinese cards and games is discussed below.
+Le Cuajo est un jeu de la famille du rami joué aux Philippines. Bien que les cartes utilisées soient de conception espagnole, le jeu montre des signes d'origine asiatique — le lien probable avec les cartes et jeux chinois est discuté ci-dessous.
 
-## Players and cards
+## Joueurs et cartes
 
-Cuajo is usually played by 4 players: the players sitting opposite each other are partners.
+Le Cuajo se joue habituellement à 4 joueurs : les joueurs assis en face l'un de l'autre sont partenaires.
 
-A special 112 card Spanish suited pack is used. The suits are cups, coins, swords and batons, and each suit contains seven different cards: ace, 3, 4, 5, jack, horse, king. There are four identical copies of each card, so 28 cards of each suit altogether.
+Un jeu spécial de 112 cartes à couleurs espagnoles est utilisé. Les couleurs sont les coupes, les pièces, les épées et les bâtons, et chaque couleur contient sept cartes différentes : as, 3, 4, 5, valet, cheval, roi. Il y a quatre copies identiques de chaque carte, soit 28 cartes de chaque couleur au total.
 
-![ace of coins](../images/cuajo/or1.gif) ![3 of swords](../images/cuajo/es3.gif) ![4 of coins](../images/cuajo/or4.gif) ![5 of cups](../images/cuajo/co5.gif) ![jack of swords](../images/cuajo/ess.gif) ![horse of cups](../images/cuajo/coc.gif) ![king of clubs](../images/cuajo/bar.gif)
+![as de pièces](../images/cuajo/or1.gif) ![3 d'épées](../images/cuajo/es3.gif) ![4 de pièces](../images/cuajo/or4.gif) ![5 de coupes](../images/cuajo/co5.gif) ![valet d'épées](../images/cuajo/ess.gif) ![cheval de coupes](../images/cuajo/coc.gif) ![roi de bâtons](../images/cuajo/bar.gif)
 
-Packs of this type are made by the Spanish playing-card company [Fournier](https://www.nhfournier.es/) and sold under the name "Cuajo Filipino".
+Les jeux de ce type sont fabriqués par la société espagnole de cartes à jouer [Fournier](https://www.nhfournier.es/) et vendus sous le nom de « Cuajo Filipino ».
 
-## Objective
+## Objectif
 
-The aim is to form all the cards in your hand into valid combinations. There are four types of combination that can be used:
+Le but est de former toutes les cartes de votre main en combinaisons valides. Il y a quatre types de combinaison utilisables :
 
-- A set of three or four cards of the same rank in different suits.
+- Un ensemble de trois ou quatre cartes de même valeur dans des couleurs différentes.
 
-- A sequence of 3 cards, consisting of either 3-4-5 or jack-horse-king in one suit. Note that these are the only possible types of sequence. Aces cannot be used in sequences.
+- Une séquence de 3 cartes, consistant soit en 3-4-5 soit en valet-cheval-roi dans une couleur. Notez que ce sont les seuls types de séquences possibles. Les as ne peuvent pas être utilisés dans les séquences.
 
-- A set of four identical cards, known as a secret.
+- Un ensemble de quatre cartes identiques, connu sous le nom de secret.
 
-- A king by itself is a valid combination (though it can alternatively be used as part of a set, sequence or secret). This means that you can have any number of kings in any suits in your final hand.
+- Un roi seul est une combinaison valide (bien qu'il puisse aussi être utilisé comme partie d'un ensemble, d'une séquence ou d'un secret). Cela signifie que vous pouvez avoir n'importe quel nombre de rois dans n'importe quelle couleur dans votre main finale.
 
-## Deal
+## Donne
 
-Deal and play are anticlockwise. Any player can deal first; thereafter the winner of each hand deals the next. The dealer shuffles and the player to dealer's left cuts. The cards are dealt as follows: a batch of 5 cards to each of the other players and 6 cards to the dealer, followed by two more rounds of 5 cards to each player. So the dealer has 16 cards and the other three players have 15 cards each. The next card is placed face up on the table - it is called the sowee; it is not used in the play of the game but it has an effect on the scoring. The remaining undealt cards are placed face down on the table to form a stock; they are placed on top of the sowee but at right-angles to it, so that its value can be seen during the game.
+La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre. N'importe quel joueur peut donner en premier ; ensuite, le vainqueur de chaque manche donne la suivante. Le donneur bat les cartes et le joueur à sa gauche coupe. Les cartes sont distribuées comme suit : un lot de 5 cartes à chacun des autres joueurs et 6 cartes au donneur, suivi de deux autres tours de 5 cartes à chaque joueur. Le donneur a donc 16 cartes et les trois autres joueurs 15 cartes chacun. La carte suivante est placée face visible sur la table — elle s'appelle le sowee ; elle n'est pas utilisée pendant le jeu mais a un effet sur le score. Les cartes restantes non distribuées sont placées face cachée sur la table pour former un talon ; elles sont placées sur le sowee mais perpendiculairement, afin que sa valeur puisse être vue pendant le jeu.
 
-## Play
+## Jeu
 
-The dealer begins by discarding one unwanted card - not a king - face up beside the stock, so that the dealer then has 15 cards, like the other players. This is the start of the discard pile.
+Le donneur commence en défaussant une carte indésirable — pas un roi — face visible à côté du talon, de sorte que le donneur a alors 15 cartes, comme les autres joueurs. C'est le début de la défausse.
 
-The turn to play passes to the right. At your turn you take either the top card of the face-down stock or the previous player's discard and add it to your hand. You then discard any card except a king from your hand face up on top of the discard pile.
+Le tour de jouer passe à la droite. À votre tour, vous prenez soit la carte du dessus du talon face cachée soit la défausse du joueur précédent et l'ajoutez à votre main. Vous défaussez ensuite toute carte sauf un roi de votre main, face visible, sur le dessus de la défausse.
 
 ## Secret
 
-If you manage to collect all four identical copies of one card in your hand, at your turn you can place them face down on the table in front of you before discarding. This set of four cards is known as a secret, because the other players do not know the identity of this card of which you have a monopoly. For putting down a secret, you are immediately paid 50 cents by each opponent (your partner neither pays nor receives anything). Cards forming a secret for which you have been paid cannot later be discarded or used as part of any other combination.
+Si vous parvenez à collecter les quatre copies identiques d'une carte dans votre main, à votre tour vous pouvez les placer face cachée sur la table devant vous avant de défausser. Cet ensemble de quatre cartes est connu sous le nom de secret, parce que les autres joueurs ne connaissent pas l'identité de cette carte dont vous avez le monopole. Pour avoir posé un secret, vous êtes immédiatement payé 50 cents par chaque adversaire (votre partenaire ne paie ni ne reçoit rien). Les cartes formant un secret pour lequel vous avez été payé ne peuvent ensuite être ni défaussées ni utilisées comme partie d'une autre combinaison.
 
-The three cards that are identical to the sowee can also form a secret: to claim payment you lay these three cards face down in front of you together with any fourth card from your hand. This fourth card will need to be incorporated into some valid combination if you are later to win the hand, but as part of your secret it cannot be discarded or looked at again until the end of the play. Since kings cannot be discarded in any case, a king is a good choice for the fourth card when you have a secret of the sowee.
+Les trois cartes identiques au sowee peuvent aussi former un secret : pour réclamer le paiement, vous posez ces trois cartes face cachée devant vous avec n'importe quelle quatrième carte de votre main. Cette quatrième carte devra être incorporée à une combinaison valide si vous voulez gagner la manche plus tard, mais comme partie de votre secret, elle ne peut être ni défaussée ni regardée à nouveau avant la fin du jeu. Comme les rois ne peuvent de toute façon pas être défaussés, un roi est un bon choix pour la quatrième carte quand vous avez un secret du sowee.
 
 ## Purro
 
-The aim of the game is to have 16 cards formed into valid combinations - see objective. These combinations must be separate from each other - each card can only be used in one of the combinations in your final hand. Since your hand normally consists of only 15 cards, in order to complete it you need to acquire a sixteenth card, which would either be drawn from the stock or the top of the discard pile at the start of your turn, or taken from another player as described below.
+Le but du jeu est d'avoir 16 cartes formées en combinaisons valides — voir l'objectif. Ces combinaisons doivent être séparées les unes des autres — chaque carte ne peut être utilisée que dans une des combinaisons de votre main finale. Comme votre main consiste normalement en seulement 15 cartes, pour la compléter vous devez acquérir une seizième carte, qui serait soit piochée au talon ou du dessus de la défausse au début de votre tour, soit prise à un autre joueur comme décrit ci-dessous.
 
-When at the end of a turn you reach a position when you need only one card to complete your hand, you should say "purro" immediately after discarding. You also place a king from your hand face up on the table as a reminder that you need only one more card; if you have no king, you can place some other token in front of you, such as a coin.
+Quand à la fin d'un tour vous atteignez une position où il ne vous faut plus qu'une carte pour compléter votre main, vous devez dire « purro » immédiatement après avoir défaussé. Vous placez aussi un roi de votre main face visible sur la table comme rappel que vous n'avez besoin que d'une carte de plus ; si vous n'avez pas de roi, vous pouvez placer un autre jeton devant vous, comme une pièce.
 
-From this point on, each of the other players, when drawing from the stock, must show the card they draw to all the other players. If it completes the hand of the player who said purro, then that player says "time", claims it and wins. After you have said "purro", it is also possible to win at your own turn by drawing the card you need from the stock or by taking the card discarded by the player to your left. The winning hand must be exposed for all players to see, to show that the win is valid.
+À partir de ce moment, chacun des autres joueurs, en piochant au talon, doit montrer la carte piochée à tous les autres joueurs. Si elle complète la main du joueur qui a dit purro, ce joueur dit « time », la réclame et gagne. Après avoir dit « purro », il est aussi possible de gagner à votre propre tour en piochant au talon la carte qu'il vous faut ou en prenant la carte défaussée par le joueur à votre gauche. La main gagnante doit être exposée à la vue de tous les joueurs, pour montrer que la victoire est valide.
 
-Note that if a player other than the player immediately to your left discards the card you need to complete your hand, you are not allowed to take this card, since it is not your turn to play next. Even if the next player in turn picks up this discard, you are not allowed to take it, since you can only win when it is not your turn by taking a card that was drawn from the stock.
+Notez que si un joueur autre que le joueur immédiatement à votre gauche défausse la carte qu'il vous faut pour compléter votre main, vous n'êtes pas autorisé à prendre cette carte, puisque ce n'est pas à votre tour de jouer ensuite. Même si le joueur suivant ramasse cette défausse, vous n'êtes pas autorisé à la prendre, car vous ne pouvez gagner hors de votre tour qu'en prenant une carte piochée au talon.
 
-If two or more people have said purro, and a card is drawn that completes more than one hand, if the card completes the hand of the player who actually drew the it then that player wins; otherwise the winner is the next player in anticlockwise order around the table in the direction of play whose hand is completed - i.e. the player whose next turn would have come soonest.
+Si deux personnes ou plus ont dit purro, et qu'une carte est piochée qui complète plus d'une main, si la carte complète la main du joueur qui l'a réellement piochée, ce joueur gagne ; sinon, le vainqueur est le joueur suivant dans l'ordre inverse des aiguilles d'une montre autour de la table dans le sens du jeu dont la main est complétée — c'est-à-dire le joueur dont le tour suivant serait arrivé le plus tôt.
 
-It can happen that after you have said purro, on a later turn you draw a king which does not complete your hand. In that case you have to discard some other card, and if your hand can no longer be completed with one card you must announce that you are no longer purro and take back the king or token that you placed on the table. If no one else is purro, the other players no longer have to show the cards they draw until someone becomes purro once more. However, for the next two turns after you stopped being purro, you must show the card you draw to the other players, and on these two turns you are not allowed to announce purro again (or to win). At your third turn after your purro was destroyed, you revert to playing normally - you do not have to show the card you draw and you can announce purro again if you need only one card.
+Il peut arriver qu'après avoir dit purro, à un tour ultérieur vous piochiez un roi qui ne complète pas votre main. Dans ce cas, vous devez défausser une autre carte, et si votre main ne peut plus être complétée avec une carte, vous devez annoncer que vous n'êtes plus purro et reprendre le roi ou le jeton que vous aviez placé sur la table. Si personne d'autre n'est purro, les autres joueurs n'ont plus à montrer les cartes qu'ils piochent jusqu'à ce que quelqu'un redevienne purro. Cependant, pendant les deux tours suivants après avoir cessé d'être purro, vous devez montrer la carte que vous piochez aux autres joueurs, et à ces deux tours vous n'êtes pas autorisé à annoncer purro à nouveau (ni à gagner). À votre troisième tour après que votre purro a été détruit, vous revenez à un jeu normal — vous n'avez pas à montrer la carte piochée et vous pouvez annoncer purro à nouveau si vous n'avez besoin que d'une carte.
 
-Given the large number of cards in the pack, it is very rare for the stock would run out before anyone has collected a winning hand, but if it happens, the hand is a draw and there are no payments (except for the payments that have already been made for any secrets that the players put down). The same player deals again in this case.
+Étant donné le grand nombre de cartes du jeu, il est très rare que le talon s'épuise avant que quelqu'un ait collecté une main gagnante, mais si cela arrive, la manche est nulle et il n'y a aucun paiement (sauf les paiements déjà faits pour les secrets que les joueurs ont posés). Le même joueur redonne dans ce cas.
 
-## End of the game, scoring
+## Fin du jeu, score
 
-In all cases, the winner (the player who has succeeded in collecting 16 cards in valid combinations) is paid by each opponent: the winner's partner neither pays nor receives anything.
+Dans tous les cas, le vainqueur (le joueur qui a réussi à collecter 16 cartes en combinaisons valides) est payé par chaque adversaire : le partenaire du vainqueur ne paie ni ne reçoit rien.
 
-The amount of the payment is partly based on the kings that the winner has. The value of the kings is:
+Le montant du paiement est en partie basé sur les rois que le vainqueur possède. La valeur des rois est :
 
-- 50 cents for each king of coins;
+- 50 cents pour chaque roi de pièces ;
 
-- 20 cents for each other king.
+- 20 cents pour chaque autre roi.
 
-The final card with which you win the hand is called the bounit. If you draw this winning card from the stock yourself, you are paid $1.10 plus the value of your kings by each opponent.
+La carte finale avec laquelle vous gagnez la manche s'appelle le bounit. Si vous piochez vous-même cette carte gagnante au talon, vous êtes payé 1,10 $ plus la valeur de vos rois par chaque adversaire.
 
-If you win by claiming your bounit from some other player as they draw it (as you are entitled to do if you are purro) or if you take your bounit from the discard pile, the previous player having discarded it, then in order to win the full $1.10 plus kings you have to satisfy two further conditions.
+Si vous gagnez en réclamant votre bounit à un autre joueur au moment où il le pioche (comme vous y avez droit si vous êtes purro) ou si vous prenez votre bounit de la défausse, le joueur précédent l'ayant défaussé, alors pour gagner le 1,10 $ complet plus les rois, vous devez satisfaire deux conditions supplémentaires.
 
-- You must have two cards that "go with" your bounit.
+- Vous devez avoir deux cartes qui « vont avec » votre bounit.
 
-- You must have a card identical to the sowee plus two cards that "go with" it.
+- Vous devez avoir une carte identique au sowee plus deux cartes qui « vont avec ».
 
-To "go with" an ace, you need two other aces of different suits (different from each other and from the first ace). To "go with" any other card you need the two cards of the same suit that would form a run with that card - for example you would need a horse and a king of cups to go with a jack of cups.
+Pour « aller avec » un as, il vous faut deux autres as de couleurs différentes (différentes les unes des autres et du premier as). Pour « aller avec » toute autre carte, il vous faut les deux cartes de même couleur qui formeraient une suite avec cette carte — par exemple il vous faudrait un cheval et un roi de coupes pour aller avec un valet de coupes.
 
-To satisfy these conditions, the cards that go with your bounit and sowee do not have to be used in the same combination with it. For example if your hand is:
+Pour satisfaire ces conditions, les cartes qui vont avec votre bounit et votre sowee n'ont pas à être utilisées dans la même combinaison que lui. Par exemple si votre main est :
 
-coins: 1 3 4 5 jack ;    
-cups: 1 3 4 jack ;    
-swords: 3 5 jack ;    
-batons: 1 4 5 king
-and the sowee is the 4 of coins, then you have the 3 and 5 of coins to go with your sowee, even though in order to win with this hand the cards have to be arranged as a set of threes, a set of fours and a set of fives, not a run in coins.
+pièces : 1 3 4 5 valet ;    
+coupes : 1 3 4 valet ;    
+épées : 3 5 valet ;    
+bâtons : 1 4 5 roi
 
-If you cannot satisfy the conditions from your winning hand, you are allowed to draw up to 15 extra cards from the top of the stock, looking for the cards you need. These extra cards from the stock do not have to be incorporated in combinations - they are only used to help satisfy the two conditions, and if they do you are paid $1.10 plus the value of the kings in your hand (kings drawn from the stock among the extra 15 cards do not entitle you to any extra payment). 
+et que le sowee est le 4 de pièces, alors vous avez le 3 et le 5 de pièces pour aller avec votre sowee, même si pour gagner avec cette main, les cartes doivent être arrangées en un ensemble de trois, un ensemble de quatre et un ensemble de cinq, pas une suite en pièces.
 
-If, having drawn 15 cards from the stock, you still cannot meet both comnditions, your payment is reduced as follows:
+Si vous ne pouvez pas satisfaire les conditions de votre main gagnante, vous êtes autorisé à piocher jusqu'à 15 cartes supplémentaires du dessus du talon, cherchant les cartes qu'il vous faut. Ces cartes supplémentaires du talon n'ont pas à être incorporées à des combinaisons — elles ne servent qu'à aider à satisfaire les deux conditions, et si elles y parviennent, vous êtes payé 1,10 $ plus la valeur des rois de votre main (les rois piochés au talon parmi les 15 cartes supplémentaires ne vous donnent droit à aucun paiement supplémentaire).
 
-- If you satisfy only condition 1 - i.e. you have the two cards to go with your bounit, but you are either missing either the sowee, or do not have two cards to go with the sowee, you are paid only 60 cents plus the value of your kings by each opponent.
+Si, après avoir pioché 15 cartes au talon, vous ne pouvez toujours pas satisfaire les deux conditions, votre paiement est réduit comme suit :
 
-- If you satisfy only condition 2 - i.e. you have the sowee and the two cards that go with it, but do not have two cards to go with your bounit, you are paid only 70 cents plus the value of your kings by each opponent.
+- Si vous ne satisfaites que la condition 1 — c'est-à-dire que vous avez les deux cartes pour aller avec votre bounit, mais qu'il vous manque soit le sowee, soit les deux cartes pour aller avec le sowee — vous n'êtes payé que 60 cents plus la valeur de vos rois par chaque adversaire.
 
-- If you satisfy neither condition you are paid only 20 cents plus the value of your kings by each opponent.
+- Si vous ne satisfaites que la condition 2 — c'est-à-dire que vous avez le sowee et les deux cartes qui vont avec, mais pas les deux cartes pour aller avec votre bounit — vous n'êtes payé que 70 cents plus la valeur de vos rois par chaque adversaire.
 
-A winning hand that contains no kings at all, or just one king used in a jack-horse-king run is known as "porbis". For winning with a porbis hand you are paid $3.00 by each opponent, irrespective of whether you draw the winning card or claim it from another player, and irrespective of the sowee, bounit and cards that go with them. Because it is illegal to discard kings, porbis hands are rather rare.
+- Si vous ne satisfaites aucune condition, vous n'êtes payé que 20 cents plus la valeur de vos rois par chaque adversaire.
 
-## Remarks on etymology and relationships to other games
+Une main gagnante qui ne contient aucun roi du tout, ou seulement un roi utilisé dans une suite valet-cheval-roi, est connue sous le nom de « porbis ». Pour gagner avec une main porbis, vous êtes payé 3,00 $ par chaque adversaire, que vous piochiez la carte gagnante ou la réclamiez à un autre joueur, et sans égard au sowee, au bounit et aux cartes qui vont avec eux. Parce qu'il est illégal de défausser des rois, les mains porbis sont plutôt rares.
 
-It was Anthony Smith who first observed, during some correspondence on the playing-cards mailing list, a possible connection with Chinese chess cards. C.T.Dobree, in his book Gambling Games of Malaya, listed Kua Oh as one of the games played with the 112-card four colour chess pack. Anthony Smith suggested that the name Cuajo might have been derived from this.
+## Remarques sur l'étymologie et les relations avec d'autres jeux
 
-The rules of Cuajo given above provide support for this theory. Unfortunately, Dobree's book does not include rules for Kua Oh, but rules for a rummy game played with four colour chess cards can be found from a link on the Si Se Pai page of this web site. There is a strong family resemblance between Cuajo and Si Se Pai: the aces in Cuajo correspond to the pawns, the 3-4-5 are the field group horse-chariot-cannon, and the Cuajo picture cards are the command group elephant-advisor-general. The king corresponds to the general, and it is striking that both games allow this card to be melded by itself. The four suits in Cuajo correspond to the four colours of the chess cards.
+C'est Anthony Smith qui a le premier observé, lors d'une correspondance sur la liste de diffusion des cartes à jouer, un lien possible avec les cartes d'échecs chinoises. C.T. Dobree, dans son livre Gambling Games of Malaya, a répertorié le Kua Oh parmi les jeux joués avec le jeu de cartes d'échecs quatre couleurs de 112 cartes. Anthony Smith a suggéré que le nom Cuajo pourrait en être dérivé.
 
-So it seems quite likely that Cuajo is a direct adaptation of a game formerly played with chess cards - possibly Dobree's Kua Oh - in which the original Chinese cards have been replaced by appropriate cards from a quadrupled Spanish pack.
+Les règles du Cuajo données ci-dessus appuient cette théorie. Malheureusement, le livre de Dobree n'inclut pas les règles du Kua Oh, mais les règles d'un jeu de rami joué avec des cartes d'échecs quatre couleurs peuvent être trouvées via un lien sur la page Si Se Pai de ce site. Il y a une forte ressemblance familiale entre le Cuajo et le Si Se Pai : les as du Cuajo correspondent aux pions, les 3-4-5 sont le groupe de campagne cheval-chariot-canon, et les figures du Cuajo sont le groupe de commandement éléphant-conseiller-général. Le roi correspond au général, et il est frappant que les deux jeux permettent que cette carte soit étalée seule. Les quatre couleurs du Cuajo correspondent aux quatre couleurs des cartes d'échecs.
 
-Anthony Smith also pointed out that the Chinese characters given by Dobree for Kua Oh are 看湖. In Mandarin this would be read as "kan hu", which is strongly reminiscent of Kanhoo, the name of a Chinese rummy game popularised in the West by W.H.Wilkinson in 1891. Kanhoo used money cards rather than chess cards, and the detailed rules are somewhat different. Possibly the name 看湖 has been used in China to refer to several different rummy games, just as the English word "rummy" can refer to a number of different but related games.
+Il semble donc tout à fait probable que le Cuajo soit une adaptation directe d'un jeu autrefois joué avec des cartes d'échecs — peut-être le Kua Oh de Dobree — dans lequel les cartes chinoises d'origine ont été remplacées par des cartes appropriées d'un jeu espagnol quadruplé.
 
-Thierry Depaulis writes:
+Anthony Smith a aussi fait remarquer que les caractères chinois donnés par Dobree pour le Kua Oh sont 看湖. En mandarin, cela se lirait « kan hu », ce qui rappelle fortement le Kanhoo, le nom d'un jeu de rami chinois popularisé en Occident par W.H. Wilkinson en 1891. Le Kanhoo utilisait des cartes-monnaie plutôt que des cartes d'échecs, et les règles détaillées sont quelque peu différentes. Peut-être que le nom 看湖 a été utilisé en Chine pour désigner plusieurs jeux de rami différents, tout comme le mot anglais « rummy » peut désigner un certain nombre de jeux différents mais apparentés.
 
-"I came across two interesting references:
+Thierry Depaulis écrit :
 
-Manuel, E. Arsenio. Chinese elements in the Tagalog language. Manila : Filipiniana Publications, 1948
-"Kuwaho. [khoàn (to see) - o (a particle expressing the end of a game), a Ch. game of cards for four players; FF. huaho, a game of cards.] A game of cards played by four persons only. Magkuwaho, to play the game; magpakuwaho, to hold the game under a management; magkukuwaho, a player." (p. 33) [FF. = Formosan Fukienese]
+« Je suis tombé sur deux références intéressantes :
+
+Manuel, E. Arsenio. Chinese elements in the Tagalog language. Manille : Filipiniana Publications, 1948
+"Kuwaho. [khoàn (voir) - o (une particule exprimant la fin d'une partie), un jeu ch. de cartes pour quatre joueurs ; FF. huaho, un jeu de cartes.] Un jeu de cartes joué par seulement quatre personnes. Magkuwaho, jouer au jeu ; magpakuwaho, tenir le jeu sous une gestion ; magkukuwaho, un joueur." (p. 33) [FF. = Fukien formosan]
 Yap, Gloria Chan. Hokkien Chinese borrowing in Tagalog. Canberra : The Australian National University, 1980
 
-Kuwaho. khuã + ó* "a kind of card game" kwaho "gambling game using playing cards"
-* no Mandarin correlate (Although Yap often gives the Chinese characters, for Kuwaho she does not.)
-So khoàn is indeed Mandarin kan, "to look at"; but o seems a bit more difficult to explain. Kuwaho appears to be a game of Hokkien origin which cannot surprise us. The Spanish spelling 'cuajo' is regular. Panganiban's Diksyunaryo-tesauro pilipino-ingles (1972) has this:
+Kuwaho. khuã + ó* "une sorte de jeu de cartes" kwaho "jeu d'argent utilisant des cartes à jouer"
+* aucun équivalent mandarin (Bien que Yap donne souvent les caractères chinois, pour Kuwaho elle ne les donne pas.)
+Ainsi khoàn est bien le kan mandarin, "regarder" ; mais o semble un peu plus difficile à expliquer. Le Kuwaho semble être un jeu d'origine hokkien, ce qui ne peut pas nous surprendre. L'orthographe espagnole 'cuajo' est régulière. Le Diksyunaryo-tesauro pilipino-ingles de Panganiban (1972) a ceci :
 
-kuwaho1 Ch. n. a gambling game using playing cards
-kuwaho2 Sp. (cuajo) n. rennet.
+kuwaho1 Ch. n. un jeu d'argent utilisant des cartes à jouer
+kuwaho2 Esp. (cuajo) n. présure.
 
-Dobree's 'kua oh' is certainly the same game! But the Chinese characters he gives ("watch the lake") are not the same as Wilkinson's. I have unearthed a late Wilkinson writing, printed for the Mah-Jongg Sales Company in 1925. In this "Memorandum" Wilkinson tries to help prove "Mah Jongg" has nothing to do with a Chinese name and therefore is "registrable". He speaks of 'kan hu' and gives the Chinese characters: kan (watch) + hu (pot, wine jug) (看壺). He explains the meaning as "look out for the pot".
+Le 'kua oh' de Dobree est certainement le même jeu ! Mais les caractères chinois qu'il donne ("regarder le lac") ne sont pas les mêmes que ceux de Wilkinson. J'ai déterré un écrit tardif de Wilkinson, imprimé pour la Mah-Jongg Sales Company en 1925. Dans ce "Memorandum", Wilkinson tente de prouver que "Mah Jongg" n'a rien à voir avec un nom chinois et est donc "enregistrable". Il parle de 'kan hu' et donne les caractères chinois : kan (regarder) + hu (pot, cruche à vin) (看壺). Il explique le sens comme "surveille le pot".
 
-Kuwaho is also used in Kapampangan, a language spoken in the Phillipine province of Pampanga."
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Cuajo
+Le Kuwaho est aussi utilisé en kapampangan, une langue parlée dans la province philippine de Pampanga. »

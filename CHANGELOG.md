@@ -38,6 +38,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Détection de doublons multilingue (FR/EN/ES/alias) — `_skip.json`
 - [x] Importeur v3 : `importPagat()` (catégorie `pagat`, couleurs, skip-list)
 - [x] 10 fiches FR de jeux de pêche : Diloti, Pişti, Escoba, Scopone, Cuarenta, Ronda, Seep, Tablić, Chinese Ten, Cirulla
+- [x] Batch Rami (1/2) : 20 fiches FR — Arlington, Banakil, Biriba, Burako, Burraco, Canastone, Caribbean, Carioca, Conquian, Crazy, Cuajo, Hand, Hand and Foot, Hoola, Indian, Kaluki, Loba, Mahjong, Okey, Okey 101
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---
@@ -46,6 +47,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 
 ### [1.2026.9] - 2026-08-14
 #### Added
+- Batch Rami (1/2) : 20 règles traduites en FR (corps + méta, noms et variantes conservés en « Autres noms »)
 - Import intégral de pagat.com : **512 fiches anglaises** converties automatiquement au format du repo (méta FR parsable, corps markdown anglais, source citée)
 - **394 nouveaux jeux** importés dans la base v3 après dédoublonnage (118 doublons détectés → enrichis comme alias sans créer de fiche supplémentaire)
 - Outil de dédoublonnage : normalisation FR/EN/ES/DE/IT + `difflib` ratio ≥ 0.87 → rapport `assets/rules/pagat-duplicates.md` + skip-list `_skip.json`

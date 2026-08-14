@@ -1,127 +1,124 @@
 # Okey
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A popular Turkish rummy game using a set of 106 numbered and coloured tiles instead of playing-cards.
+**Type :** Rami
+**But :** Un jeu de rami turc populaire utilisant un jeu de 106 tuiles numérotées et colorées au lieu de cartes à jouer.
+**Autres noms :** Okey Rummy, Düz Okey
 
 ---
 
-This page is based mostly on information from Turgay Unalan.
+Cette page est basée principalement sur des informations de Turgay Unalan.
 
-- Introduction - Equipment, Players and Objective
+## Introduction — équipement et joueurs
 
-## Introduction - Equipment and Players
+L'Okey est un jeu turc populaire de la famille du rami, joué avec un jeu de 106 tuiles en bois. Les faces des tuiles sont numérotées de 1 à 13, les nombres étant imprimés en différentes couleurs. Il y a huit tuiles de chaque nombre : deux rouges, deux jaunes, deux vertes et deux noires. En outre, il y a deux tuiles spéciales sans numéro — connues dans ce jeu sous le nom de « faux jokers » (en turc « sahte okey »). Les dos des tuiles sont unis, de sorte que les tuiles face cachée sur la table ou tenues par un autre joueur ont toutes la même apparence.
 
-Okey is a popular Turkish game of the Rummy family, played with a set of 106 wooden tiles. The faces of the tiles are numbered from 1 to 13, with the numbers printed in various colours. There are eight tiles of each number: two red, two yellow, two green and two black. In addition there are two special tiles without numbers - these are known in this game as "false jokers" (in Turkish "sahte okey"). The backs of the tiles are plain, so tiles that are face down on the table or held by another player all look the same.
+Un dé à 6 faces est utilisé pendant la distribution des tuiles.
 
-One 6-sided die is used during the distribution of tiles.
+L'Okey se joue presque toujours à quatre joueurs, bien qu'il soit possible pour deux ou trois personnes de jouer.
 
-Okey is almost always played by four players, although it is possible for two or three people to play.
+Tout le jeu se déroule dans le sens inverse des aiguilles d'une montre.
 
-The whole game is played anticlockwise.
+Pendant le jeu, chaque joueur a une main de 14 tuiles. L'objectif est, en piochant et en défaussant des tuiles, d'être le premier à former une main consistant entièrement en groupes de tuiles de même numéro et en suites de tuiles consécutives de la même couleur.
 
-During the game each player has a hand of 14 tiles. The object is, by drawing and discarding tiles, to be the first to form a hand that consists entirely of sets of equal numbered tiles, and runs of consecutive tiles of the same colour. 
+## Distribution des tuiles et détermination du joker
 
-## Distribution of Tiles and Determination of Joker
+Le premier donneur est choisi au hasard. Après que les mains ont été jouées et scorées, la donne passe à la droite.
 
-The first dealer is chosen at random. After the hands have been played and scored, the turn to deal passes to the right.
+Les 106 tuiles sont placées face cachée sur la table et soigneusement mélangées. Ensuite, les joueurs les disposent en 21 tas de cinq tuiles, les tuiles de chaque tas étant face cachée. Une tuile reste de côté — elle est temporairement gardée par le donneur. Les tas sont alignés devant les joueurs, à peu près comme ceci :
 
-The 106 tiles are placed face down on the table and thoroughly mixed. Then the players set them up into 21 stacks of five tiles, the tiles in each pile being face down. One tile is left over - this is temporarily kept by the dealer. The stacks are lined up in front of the players, something like this:
+![préparation des tas](../images/rummy/okey1.gif)
 
-![preparation of stacks](../images/rummy/okey1.gif)
+Il n'y a pas de règle précise sur le nombre de tas qui doivent se trouver devant chaque joueur. Il est commode d'en avoir au moins six devant le donneur, mais cela ne fait aucune vraie différence dans le jeu.
 
-There is no specific rule about how many stacks should be in front of each player. It is convenient to have at least six in front of the dealer, but this makes no real difference to the game.
+Le donneur lance maintenant le dé deux fois. Le résultat du premier lancer sélectionne un des tas de tuiles devant le donneur, en comptant de gauche à droite. Le donneur place l'unique tuile restante sur le dessus de ce tas sélectionné. Si le nombre obtenu est supérieur au nombre de tas devant le donneur, alors le compte continue avec les tas devant le joueur à la droite du donneur, et l'un de ceux-ci sera sélectionné. Le tas sélectionné a maintenant six tuiles.
 
-The dealer now throws the die twice. The result of the first throw selects one of the tile stacks in front of the dealer, counting from left to right. The dealer places the single remaining tile on top of this selected stack. If the number thrown is greater than the number of stacks in front of the dealer, then the count will continue using the stacks in front of the player to dealer's right, and one of these will be selected. The selected stack now has six tiles.
+Le deuxième lancer du dé sélectionne une des tuiles du tas sélectionné, en comptant vers le haut depuis le bas du tas. La tuile sélectionnée est extraite du tas et placée face visible sur son dessus. Si la tuile sélectionnée est un faux joker, elle est rendue au tas sélectionné et le deuxième lancer du dé est répété jusqu'à ce qu'une tuile numérotée soit sélectionnée.
 
-The second throw of the die selects one of the tiles in the selected stack, counting upwards from the bottom of the stack. The selected tile is extracted from the stack and placed face up on top of it. If the selected tile is a false joker, it is returned to the selected stack and the second throw of the die is repeated until a numbered tile is selected.
+Cette tuile face visible détermine le « joker » (okey) de la partie — une tuile sauvage qui peut être utilisée pour représenter d'autres tuiles afin de compléter une combinaison. Le joker est la tuile de la **même couleur** et **d'un numéro supérieur** à la tuile face visible. Par exemple, si la tuile face visible est le 10 vert, les 11 verts sont les jokers. Les **faux jokers** ne sont pas sauvages — ils servent seulement à représenter les tuiles qui sont devenues jokers. Ainsi, par exemple, quand les 11 verts sont jokers, les faux jokers sont joués comme des 11 verts (et ne peuvent représenter aucune autre tuile). Si la tuile face visible est un 13, les 1 de la même couleur sont les jokers.
 
-This face up tile determines the "joker" (okey) for the game - a wild tile that can be used to represent other tiles to complete a combination. The joker is the tile of the **same colour** and **one number greater** than the face up tile. For example if the face up tile is the green 10, the green 11's are jokers. The **false jokers** are not wild - they are used only to represent the tiles that have become jokers. So for example when the green 11s are jokers, the false jokers are played as green 11s (and cannot represent any other tile). If the face up tile is a 13, the 1's of the same colour are jokers.
+Maintenant, les tas de tuiles sont distribués aux joueurs. Le joueur à la droite du donneur recevra 15 tuiles et les autres 14 chacun. Le joueur à la droite du donneur prend le tas suivant après (à la droite de) le tas sélectionné avec la tuile face visible sur son dessus, puis le joueur en face du donneur prend le tas suivant, et ainsi de suite dans le sens inverse des aiguilles d'une montre autour de la table, jusqu'à ce que chaque joueur ait deux tas (10 tuiles). Maintenant, le joueur à la droite du donneur reçoit tout le tas suivant, mais le joueur assis en face du donneur ne reçoit que les 4 tuiles du dessus du tas suivant. Le joueur à la gauche du donneur reçoit la dernière tuile de ce tas et 3 tuiles du dessus du tas suivant, et enfin le donneur prend les 2 dernières tuiles de ce tas et 2 du tas suivant.
 
-Now the stacks of tiles are distributed to the players. The player to dealer's right will receive 15 tiles and the others 14 each. The player to the right of the dealer takes the next stack after (to the right of) the selected stack with the face up tile on top of it, then the player opposite the dealer takes the following stack, and so on anticlockwise around the table, until each player has two stacks (10 tiles). Now the player to the dealer's right receives the whole of the next stack, but the player sitting opposite the dealer is given only the top 4 tiles of the following stack. The player to the dealer's left receives the last tile of this stack and 3 tiles from the top of the next stack, and finally the dealer takes the last 2 tiles from this stack and 2 from the next stack.
+![distribution des tuiles okey](../images/rummy/okey2.gif)
 
-![okey tile distribution](../images/rummy/okey2.gif)
+Dans le schéma ci-dessus, le donneur a jeté un 5, plaçant la tuile de rechange sur le dessus du 5e tas à partir de sa gauche. Il a ensuite jeté un 2 et a pris la deuxième tuile en partant du bas du tas sélectionné et l'a placée sur son dessus. C'est un 4 rouge, donc les 5 rouges seront jokers pour cette donne. Maintenant, le joueur 2 doit prendre le tas « a », le joueur 3 le tas « b », le joueur 4 « c », le joueur 1 « d », le joueur 2 « e », le joueur 3 « f », le joueur 4 « g », le joueur 1 « h » et le joueur 2 « i ». Ensuite, le joueur 3 prend les 4 tuiles du dessus du tas « j », le joueur 4 la dernière tuile de « j » et trois de « k », et le joueur 1 deux de « k » et deux de « l ».
 
-In the above diagram the dealer threw a 5, placed the spare tile on to of the 5th stack from her left. She then threw a 2, and took the second tile from the bottom of the selected stack and placed it on top. It is a red 4, so red 5's will be jokers for this deal. Now player 2 must take stack 'a', player 3 stack 'b', player 4 'c', player 1 'd', player 2 'e', player 3 'f', player 4 'g', player 1 'h' and player 2 'i'. Next player 3 takes the top 4 tiles of stack 'j', player 4 the last tile of 'j' and three from 'k', and player 1 two from 'k' and two from 'l'.
+Tous les joueurs doivent arranger leurs tuiles de sorte qu'ils puissent voir leurs faces mais pas les autres joueurs. Des râteliers en bois sont souvent utilisés pour cela. Les tuiles restantes sont laissées pour que les joueurs piochent pendant le jeu. Elles sont déplacées au milieu de la table, sans les regarder ni perturber leur ordre.
 
-All the players should arrange their tiles so that they can see their faces but the other players cannot. Wooden racks are often used for this. The remaining tiles are left for the players to draw from during the game. They are moved to the middle of the table, without looking at them or disturbing their order.
+![prêt à jouer](../images/rummy/okey3.gif)
 
-![ready to play](../images/rummy/okey3.gif)
+## Jeu
 
-## Play
+Avant que le jeu commence, si un joueur détient la tuile qui correspond à la tuile face visible sur le dessus du dernier tas de six tuiles, le joueur peut montrer cette tuile et marquer un point.
 
-Before the play begins, if any player holds the tile that matches the face up tile on top of the last stack of six tiles, the player may show that tile, and score one point.
+Maintenant, le joueur à la droite du donneur commence le jeu en défaussant une tuile, face visible. Après cela, chaque joueur à son tour peut soit prendre la tuile juste défaussée par le joueur précédent, soit piocher la tuile suivante de la réserve au centre de la table, et doit ensuite défausser une tuile indésirable. Cela continue en rotation dans le sens inverse des aiguilles d'une montre jusqu'à ce qu'un joueur forme une main gagnante et l'expose, mettant fin au jeu.
 
-Now the player to the dealer's right begins the play by discarding one tile, face up. After this, each player in turn may either take the tile just discarded by the previous player, or draw the next tile from the supply in the centre of the table, and must then discard one unwanted tile. This continues in anticlockwise rotation until a player forms a winning hand and exposes it, ending the play.
+Les tuiles défaussées sont placées à la droite du joueur qui les a défaussées, en tas, de sorte que seule la défausse la plus récente du tas soit visible.
 
-Discarded tiles are placed to the right of the player who discarded them, in a stack, so that only the most recent discard in the stack is visible.
+![position des défausses](../images/rummy/okey4.gif)
 
-![position of discards](../images/rummy/okey4.gif)
+La règle habituelle est que vous êtes autorisé à regarder à travers toutes les tuiles des tas de défausse à votre droite (les tuiles que vous avez défaussées) et à votre gauche (les tuiles que vous avez eu l'occasion de prendre), mais vous ne pouvez voir que les tuiles exposées du dessus des deux tas de défausse de l'autre côté de la table.
 
-The usual rule is that you are allowed to look through all the tiles in the discard stacks to your right (the tiles you discarded) and to your left (the tiles you had an opportunity to take), but you can only see the exposed top tiles of the two discard stacks on the other side of the table.
+L'objectif du jeu est de collecter des groupes et des suites.
 
-The object of the game is to collect sets and runs.
+- Un groupe consiste en trois tuiles (üçlü) ou quatre tuiles (dörtlü) du même numéro et de couleurs différentes. (Ainsi, par exemple, un 7 noir plus deux 7 rouges ne formeraient pas un groupe valide.)
 
-- A set consists of three tiles (üçlü) or four tiles (dörtlü) of the same number and different colours. (So for example a black 7 plus two red 7's would not form a valid set.)
+- Une suite (el) consiste en trois tuiles consécutives ou plus de la même couleur. Le 1 peut être utilisé comme la tuile la plus basse, au-dessous du 2, ou comme la tuile la plus haute, au-dessus du 13, mais pas les deux à la fois. Ainsi, les 1-2-3 verts ou les 12-13-1 jaunes seraient des suites valides, mais les 13-1-2 noirs ne seraient pas valides.
 
-- A run (el) consists of three or more consecutive tiles of the same colour. The 1 can be used as the lowest tile, below the 2, or as the highest tile, above the 13, but not both at once. So green 1-2-3 or yellow 12-13-1 would be valid runs, but black 13-1-2 would not be valid.
+Une main gagnante consiste en 14 tuiles formées entièrement en groupes et suites — par exemple deux groupes de 3 et deux suites de 4, ou une suite de 6 plus une suite de 3 plus un groupe de 4. Aucune tuile ne peut être utilisée comme partie de plus d'une combinaison (groupe ou suite) en même temps.
 
-A winning hand consists of 14 tiles formed entirely into sets and runs - for example two sets of 3 and two runs of 4, or a run of 6 plus a run of 3 plus a set of 4. No tile can be used as part of more than one combination (set or run) at the same time.
+Un autre type de main gagnante consiste en sept paires. Chaque paire doit consister en deux tuiles identiques (par exemple deux 9 noirs). Deux tuiles du même numéro et de couleurs différentes ne font pas une paire — les couleurs doivent être les mêmes aussi.
 
-Another type of winning hand consists seven pairs. Each pair must consist of two identical tiles (for example two black 9's). Two tiles of the same number and different colours do not make a pair - the colours must be the same as well.
+Si vous avez une main gagnante, vous pouvez mettre fin au jeu en exposant toutes vos 14 tuiles après avoir défaussé. À part les défausses et la tuile face visible sur le dessus du tas de six tuiles, aucune tuile n'est exposée jusqu'à ce qu'un joueur montre une main gagnante : aucun groupe ou suite n'est exposé pendant le jeu.
 
-If you have a winning hand, then you can end the play by exposing all 14 of your tiles after discarding. Apart from the discards and the face up tile on top of the six-tile stack, no tiles are exposed until a player shows a winning hand: no sets or runs are exposed during the game.
+Les tuiles sont toujours piochées du dessus du tas disponible suivant. Quand il ne reste que le dernier tas de 6 tuiles, la tuile exposée est retirée du dessus de ce tas et les cinq autres tuiles sont piochées dans l'ordre. La tuile exposée (le 4 rouge dans les schémas d'exemple) ne peut jamais être piochée. Quand il ne reste plus de tuiles au centre, à part l'unique tuile exposée, si le prochain joueur à jouer ne veut pas prendre la défausse du joueur précédent, le jeu se termine parce qu'il n'y a plus de cartes à piocher.
 
-Tiles are always drawn from the top of the next available stack. When only the final stack of 6 tiles remains, the exposed tile is removed from the top of this stack and the other five tiles are drawn in order. The exposed tile (the red 4 in the example diagrams) can never be drawn. When there are no tiles left in the centre except the single exposed tile, if the next player to play does not want to take the previous player's discard, the play ends because there are no cards left to draw.
+Comme déjà expliqué, les deux tuiles qui sont de la même couleur que la tuile face visible et d'un numéro supérieur sont les jokers. Ces tuiles peuvent être utilisées pour représenter n'importe quelle tuile que le détenteur désire, afin de compléter un groupe ou une suite. Par exemple, si le 4 rouge est face visible, les 5 rouges sont jokers. {6 vert, 5 rouge, 5 rouge, 9 vert} compterait comme une suite, utilisant les jokers pour les 7 et 8 verts. Alternativement, {10 jaune, 10 noir, 5 rouge} serait un groupe, utilisant le 5 rouge pour représenter le 10 rouge ou vert.
 
-As already explained, the two tiles that are the same colour as the face up tile and one greater in number are the jokers. These tiles can be used to represent any tile the holder desires, in order to complete a set or run. For example, if the red 4 is face up, the red 5's are jokers. {Green 6, red 5, red 5, green 9} would count as a run, using jokers for the green 7 and 8. Alternatively, {yellow 10, black 10, red 5} would be a set, using the red 5 to represent the red or green 10. 
+En collectant une main de sept paires, un joker peut être utilisé avec n'importe quelle tuile pour former une paire.
 
-When collecting a hand of seven pairs, a joker can be used with any tile to form a pair.
+Les deux faux jokers — les tuiles sans numéro — ne servent qu'à représenter les tuiles jokers. Ainsi, par exemple, quand les 5 rouges sont jokers, les faux jokers sont joués comme des 5 rouges : par exemple {4 rouge, faux joker, 6 rouge} est une suite, et {5 noir, 5 vert, 5 jaune, faux joker} est un groupe.
 
-The two false jokers - the tiles without numbers - are used only to represent the joker tiles. So for example when red 5's are jokers, the false jokers are played as red 5's: for example {red 4, false joker, red 6} is a run, and {black 5, green 5, yellow 5, false joker} is a set.
+[Les nouveaux joueurs peuvent se demander quel est le but d'utiliser une tuile différente comme joker à chaque partie. Il semblerait logiquement équivalent d'utiliser les faux jokers comme jokers et que chaque tuile soit ce qu'elle semble être. Une raison possible est que si, par un défaut des tuiles, certains joueurs apprenaient à reconnaître les faux jokers de dos, cela leur donnerait un avantage injuste. Si une tuile différente est utilisée comme joker à chaque partie, reconnaître un joker de dos devient beaucoup plus difficile.]
 
-[New players may wonder what is the purpose of using a different tile as the joker for each game. It would seem to be logically equivalent to use the false jokers as jokers and every tile to be what it appears to be. A possible reason may be that if through any defect in the tiles, some players learn to recognise the false jokers from the back, that would give them an unfair advantage. If a different tile is used as the joker in each game, recognising a joker from the back becomes much more difficult.]
+Si vous avez une main gagnante de groupes et de suites utilisant au moins un joker, vous n'avez pas à l'exposer immédiatement. Si vous le souhaitez, vous pouvez continuer à jouer dans l'espoir de former une main gagnante plus un joker. Si vous parvenez à mettre fin au jeu en défaussant un joker et en exposant vos 14 tuiles restantes comme main gagnante, votre victoire vaut le double d'une victoire ordinaire. Notez qu'en continuant à jouer au lieu d'exposer votre victoire ordinaire, vous courez le risque qu'un autre joueur complète une main gagnante et l'expose avant que vous puissiez réaliser votre double victoire, auquel cas vous ne gagnez rien pour votre main gagnante cachée.
 
-If you have a winning hand of groups and runs using at least one joker, you do not have to expose it immediately. If you wish, you can continue playing in the hope of forming a winning hand plus a joker. If you are able to end the game by discarding a joker and exposing your remaining 14 tiles as a winning hand, your win is worth twice as much as an ordinary win. Note that by continuing to play instead of exposing your ordinary win, you run the risk that another player may complete a winning hand and expose it before you can achieve your double win, in which case you gain nothing for your concealed winning hand.
+## Score
 
-## Scoring
+Chaque joueur commence la partie avec 20 points et perd des points chaque fois qu'un autre joueur gagne une partie, comme suit :
 
-Each player begins the game with 20 points and loses points each time another player wins a game, as follows:
+- Quand un joueur gagne une partie ordinaire, chacun des autres joueurs perd 2 points.
 
-- When a player wins an ordinary game, each of the other players loses 2 points.
+- Quand un joueur gagne en défaussant un joker, chaque autre joueur perd 4 points.
 
-- When a player wins by discarding a joker, each other player loses 4 points.
+- Quand un joueur gagne avec sept paires, chaque autre joueur perd 4 points.
 
-- When a player wins with seven pairs, each other player loses 4 points.
+Aussi, si au début du jeu un joueur montre la tuile qui correspond à la tuile face visible du tas de six tuiles, chacun des autres joueurs perd 1 point. Cela s'appelle gösterme (montrer), et ne peut être réclamé qu'avant que le détenteur de la tuile correspondante pioche sa première tuile.
 
-Also, if at the start of the play, a player shows the tile that matches the face up tile on the six-tile stack, each of the other players loses 1 point. This is known as gösterme (to show), and can only be claimed before the holder of the matching tile first draws a tile.
+Si la partie se termine sans qu'aucun joueur expose une main gagnante (parce qu'il n'y a plus de tuiles à piocher, et que le joueur dont c'est le tour ne peut pas gagner en prenant la défausse précédente), alors il n'y a pas de score.
 
-If the game ends without any player exposing a winning hand (because there are no tiles left to draw, and the player whose turn it is cannot win by taking the previous discard), then there is no score.
+Le jeu continue jusqu'à ce que le score de n'importe quel joueur atteigne zéro ou moins. Les deux joueurs avec les scores les plus élevés à ce moment sont les vainqueurs et les deux avec les scores les plus bas sont les perdants.
 
-Play continues until any player's score reaches zero or less. The two players with the highest scores at that time are the winners and the two with the lowest scores are the losers.
+## Variantes
 
-## Variations
+Certains jouent avec tout joueur dont le score atteint zéro ou moins qui quitte la partie, les autres joueurs continuant à jouer.
 
-Some play that any player whose score reaches zero or less leaves the game, but the other players continue to play.
+Certains jouent avec les joueurs assis en face l'un de l'autre comme partenaires. En pratique, les partenaires ne peuvent pas beaucoup s'aider, sauf en trichant (!) [Dans le jeu en équipes, chaque équipe commence probablement avec 20 points, et quand un joueur expose une main gagnante, l'équipe adverse perd 2 ou 4 points selon le cas. Si un joueur montre la tuile correspondant à la tuile exposée au début, l'autre équipe perd 1 point.]
 
-Some play that the players sitting opposite each other are partners. In practice partners cannot help each other much, except by cheating(!) [In the partnership game, presumably each team starts with 20 points, and when a player exposes a winning hand, the opposing team loses 2 or 4 points as appropriate. If a player shows the tile matching the exposed tile at the start, the other team loses 1 point.]
+Certains joueurs utilisent la tuile exposée comme dernière tuile à piocher au centre, quand toutes les autres tuiles ont été prises.
 
-Some players use the exposed tile as the last tile to be drawn from the centre, when all the other tiles have been taken.
+Certains joueurs omettent la procédure formelle pour choisir le joker et distribuer les tuiles. Après avoir mélangé les tuiles face cachée sur la table, chaque joueur prend simplement 14 tuiles quelconques de la table (le joueur choisi pour jouer en premier en prenant 15) et une tuile est retournée pour être le joker. En piochant des tuiles pendant le jeu, n'importe quelle tuile face cachée peut être prise du talon sur la table.
 
-Some players omit the formal procedure for choosing the joker and distributing the tiles. Having shuffled the tiles face down on the table, each player simply takes any 14 tiles from the table (the player chosen to play first taking 15) and a tile is turned up to be the joker. When drawing tiles during the play, any face down tile can be taken from the stock on the table.
+Certains jouent avec le score doublé pour un joueur qui gagne une partie avec des tuiles d'une seule couleur : les autres joueurs perdent 4 points si le vainqueur a défaussé une tuile ordinaire, 8 points si la défausse finale du vainqueur était un joker. Certains n'accordent ce score double que pour une main consistant entièrement en tuiles rouges ou noires.
 
-Some play that a player who wins a game with tiles of one colour only, the score is doubled: the other players lose 4 pints if the winner discarded an ordinary tile, 8 points if the winner's final discard was a joker. Some only award this double score for a hand consisting entirely of red tiles or black tiles.
+L'Okey 101 est décrit sur une page séparée. Les joueurs prennent 21 tuiles chacun (22 pour le donneur) et les tuiles peuvent être posées en combinaisons pendant le jeu. La première combinaison d'un joueur doit valoir au moins 101 points.
 
-Okey 101 is described on a spearate page. The players take 21 tiles each (22 for the dealer) and tiles can be melded during play. A player's first meld must be worth at least 101 points.
+## Autres sites Okey WWW, logiciels et jeux en ligne
 
-## Other Okey WWW sites and software and online games
+Le site d'Antonin Jaun [rummy.ch](https://web.archive.org/web/20200803205332/http://www.rummy.ch/pages/de/rummy-spielregeln.php) (copie d'archive) avait des règles pour l'Okey en allemand.
 
-Antonin Jaun's site [rummy.ch](https://web.archive.org/web/20200803205332/http://www.rummy.ch/pages/de/rummy-spielregeln.php) (archive copy) had rules for Okey in German.
+[OkeyOnline](https://apps.apple.com/us/app/okey-online/id347838454) est un jeu d'Okey multijoueur en ligne pour iPhone.
 
-[OkeyOnline](https://apps.apple.com/us/app/okey-online/id347838454) is a multiplayer online Okey game for the iPhone.
+[Okey Extra](https://play.google.com/store/apps/details?id=com.digitoygames.okeyextra) pour Android est disponible chez Digitoy Games.
 
-[Okey Extra](https://play.google.com/store/apps/details?id=com.digitoygames.okeyextra) for Android is available from Digitoy Games
-
-The [Game Cabinet](http://www.gamecabinet.com/) has published a page of [Rules of Okey](http://www.gamecabinet.com/rules/Okey.html) by Enric Capo. However, the description there is not of the Turkish game Okey, but of a game similar to the Sabra version of Rummikub®, which is played with essentially the same equipment. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Okey
+Le [Game Cabinet](http://www.gamecabinet.com/) a publié une page de [règles de l'Okey](http://www.gamecabinet.com/rules/Okey.html) par Enric Capo. Cependant, la description qui s'y trouve n'est pas celle du jeu turc Okey, mais d'un jeu similaire à la version Sabra du Rummikub®, qui se joue avec essentiellement le même équipement.

@@ -2,132 +2,133 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A rummy game from Jordan, in which Twos are wild, the only legal sets are Threes and Aces, and sequences run only from 3 up to Ace.
+**Type :** Rami
+**But :** Un jeu de rami originaire de Jordanie dans lequel les deux sont sauvages, les seules combinaisons autorisées sont les trios et les as, et les séquences vont uniquement du 3 à l'as.
+**Autres noms :** Banakil, Bankal, Bankaleh, Taras, Qsoos
 
 ---
 
-*This page is based on information provided by Sultan Ratrout.*
+*Cette page est basée sur des informations fournies par Sultan Ratrout.*
 
 ## Introduction
 
-Banakil is a Rummy game played in Jordan, Palestine, Syria and Lebanon. *Banakil* is the plural form of *bankal* / *bankaleh*, which is the Arabic word for the wild Two, Twos and Jokers being the wild cards in this game. 
+Le Banakil est un jeu de rami pratiqué en Jordanie, en Palestine, en Syrie et au Liban. *Banakil* est la forme plurielle de *bankal* / *bankaleh*, le mot arabe désignant le deux sauvage, les deux et les jokers étant les cartes sauvages de ce jeu.
 
-## Players and Cards
+## Joueurs et cartes
 
-Banakil can be played by 2, 3 or 4 players. If there are 4 players they can play as partners, two against two, partners sitting opposite each other. Otherwise, all players play as individuals.
+Le Banakil se joue à 2, 3 ou 4 joueurs. S'il y a 4 joueurs, ils peuvent jouer en équipes de deux, deux contre deux, les partenaires étant assis en face l'un de l'autre. Sinon, tous les joueurs jouent individuellement.
 
-A pack of 106 cards is used, made up of two standard international 52-card packs plus two jokers. Twos and Jokers are **wild cards**; all other cards from 3 up to Ace are **natural cards**.
+Un paquet de 106 cartes est utilisé, composé de deux jeux internationaux standard de 52 cartes plus deux jokers. Les deux et les jokers sont des **cartes sauvages** ; toutes les autres cartes, du 3 à l'as, sont des **cartes naturelles**.
 
-The deal and play are counter-clockwise.
+La donne et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-## Deal
+## Donne
 
-The cards are shuffled by the dealer and cut by the player to dealer's left. Each player is dealt a hand of 18 cards, normally either in batches of 2, going 9 times around the table, or in batches of 3, going 6 times around the table. The next card is dealt face up to the table (also known as the ground) to start the discard pile. The rest of the cards are stacked face-down in the center of the table next to the face-up card to form the stock pile. 
+Les cartes sont battues par le donneur et coupées par le joueur à sa gauche. Chaque joueur reçoit une main de 18 cartes, normalement soit par lots de 2, en faisant 9 tours de table, soit par lots de 3, en faisant 6 tours de table. La carte suivante est retournée face visible sur la table (appelée aussi le sol) pour commencer la défausse. Le reste des cartes est empilé face cachée au centre de la table à côté de la carte visible pour former le talon.
 
-## Play
+## Jeu
 
-The player to dealer's right begins, and the turn to play passes to the right. 
+Le joueur à la droite du donneur commence, et le tour de jeu passe vers la droite.
 
-A turn consists of picking up a card from the stock pile or one or more cards from the discard pile, optionally melding some cards from your hand by placing them face up on the table, and finally discarding a card.
+Un tour consiste à prendre une carte du talon ou une ou plusieurs cartes de la défausse, éventuellement à étaler des combinaisons de sa main en les posant face visible sur la table, puis enfin à défausser une carte.
 
-### Draw and discard
+### Pioche et défausse
 
-To begin your turn you must either 
+Pour commencer votre tour, vous devez soit
 
-- draw the top card from the stock, and put it in your hand without showing it to the other players, or
+- piocher la carte du dessus du talon et la mettre dans votre main sans la montrer aux autres joueurs, soit
 
-- take one or more face up cards from the top of the discard pile. The cards in the discard pile are overlapped and spread out so that players can see all the available cards. You may take as many cards as you wish but if you take a card from lower down in the discard pile you must also take all the cards above it - i.e. all cards that were discarded after it.
+- prendre une ou plusieurs cartes visibles du haut de la défausse. Les cartes de la défausse sont disposées en éventail superposé afin que les joueurs puissent voir toutes les cartes disponibles. Vous pouvez prendre autant de cartes que vous voulez, mais si vous prenez une carte située plus bas dans la défausse, vous devez aussi prendre toutes les cartes au-dessus d'elle — c'est-à-dire toutes les cartes défaussées après elle.
 
-It is always permissible to take a card or cards from the discard pile, even if the player has not previously melded. For example the first player may take the face up card that was dealt to the ground, even if it is a wild card (Two or Joker). There is no obligation to meld any card that is taken. You may take cards from the discard pile and keep them in your hand for later use if you wish.
+Il est toujours permis de prendre une ou plusieurs cartes de la défausse, même si le joueur n'a pas encore étalé. Par exemple, le premier joueur peut prendre la carte visible posée sur le sol, même si c'est une carte sauvage (deux ou joker). Il n'y a aucune obligation d'étaler une carte prise. Vous pouvez prendre des cartes de la défausse et les garder dans votre main pour une utilisation ultérieure si vous le souhaitez.
 
-After drawing, you may meld cards if you are able to and wish to - see below. If you have any cards left in your hand after melding you must discard one card face up on top of the discard pile to end your turn. 
+Après avoir pioché, vous pouvez étaler des combinaisons si vous le pouvez et le souhaitez — voir ci-dessous. S'il vous reste des cartes en main après l'étalage, vous devez en défausser une face visible sur la défausse pour terminer votre tour.
 
-A player who takes the top card only from the discard pile is not allowed to discard the same card. Apart from this, there is no restriction on what can be discarded. Wild cards can be discarded if not needed. It is also legal to take two or more cards from the top of the discard pile and discard the card that was originally on top, so that the top card of the pile is the same as it was before you turn, even a card or cards that were immediately below it have been removed. 
+Un joueur qui ne prend que la carte du dessus de la défausse n'a pas le droit de défausser la même carte. À part cela, aucune restriction ne pèse sur ce que l'on peut défausser. Les cartes sauvages peuvent être défaussées si elles ne sont pas nécessaires. Il est aussi légal de prendre deux cartes ou plus du haut de la défausse et de défausser la carte qui était à l'origine sur le dessus, de sorte que la carte du dessus du talon de défausse reste la même qu'avant votre tour, même si une ou plusieurs cartes situées immédiatement en dessous ont été retirées.
 
-### Melding
+### Combinaisons (étalage)
 
-Melding (*nzool*) is placing a valid combination (meld) of three or more cards from your hand face up on the table. There are two types of meld: the **sequence** (*siri*) and the **set** or **group** (*majmoo’a* / *groop*). Each player has a specific area in front of him for melding his cards. 
+L'étalage (*nzool*) consiste à placer face visible sur la table une combinaison valide (meld) de trois cartes ou plus de votre main. Il existe deux types de combinaisons : la **séquence** (*siri*) et le **groupe** ou **ensemble** (*majmoo'a* / *groop*). Chaque joueur dispose d'une zone spécifique devant lui pour étaler ses cartes.
 
-During your turn, after drawing from the stock pile or discard pile, you may meld any number of valid combinations, placing them face up in your own meld area. Provided that you already have at least one combination in your own meld area (which could have been placed in the current turn or a previous turn) you have two additional possibilities.
+Pendant votre tour, après avoir pioché du talon ou de la défausse, vous pouvez étaler autant de combinaisons valides que vous voulez, en les plaçant face visible dans votre propre zone d'étalage. À condition d'avoir déjà au moins une combinaison dans votre zone d'étalage (posée au cours du tour actuel ou d'un tour précédent), vous disposez de deux possibilités supplémentaires.
 
-- You may expand a meld belonging to yourself or your partner by adding one or more cards to it.
+- Vous pouvez agrandir une combinaison vous appartenant ou appartenant à votre partenaire en y ajoutant une ou plusieurs cartes.
 
-- If a **meld** belonging to yourself or your partner contains a Joker and you have in your hand the natural card that the Joker represents, you may place the natural card in the meld in exchange for the Joker, which you take into your hand.
+- Si une **combinaison** vous appartenant ou appartenant à votre partenaire contient un joker et que vous avez en main la carte naturelle que le joker représente, vous pouvez placer la carte naturelle dans la combinaison en échange du joker, que vous prenez dans votre main.
 
-These two options are explained in more detail below.
+Ces deux options sont expliquées plus en détail ci-dessous.
 
-Please note that:
+Veuillez noter que :
 
-- You are never allowed to meld in your opponents' meld areas, or to add or exchange cards in your opponents' melds.
+- Vous n'avez jamais le droit d'étaler dans les zones d'étalage de vos adversaires, ni d'ajouter ou d'échanger des cartes dans les combinaisons de vos adversaires.
 
-- You cannot start a **new** meld in your partner's meld area - you can only add to melds that your partner has put down. You are not allowed to add cards to your partner's meld or exchange a real card for a Joker melded by your partner before you have melded at least one valid combination of your own in your own meld area.
+- Vous ne pouvez pas commencer une **nouvelle** combinaison dans la zone d'étalage de votre partenaire — vous ne pouvez qu'ajouter aux combinaisons que votre partenaire a posées. Vous n'êtes pas autorisé à ajouter des cartes à la combinaison de votre partenaire ni à échanger une carte réelle contre un joker étalé par votre partenaire avant d'avoir vous-même étalé au moins une combinaison valide dans votre propre zone.
 
-- Partners' melds are kept separate. Any cards that you add to your partner's melds are placed in your partner's meld area and are scored exactly as though your partner had melded them. 
+- Les combinaisons des partenaires restent séparées. Toute carte que vous ajoutez aux combinaisons de votre partenaire est placée dans sa zone d'étalage et compte exactement comme si votre partenaire l'avait étalée.
 
-### Sequences
+### Séquences
 
-A **sequence** consists of three or more consecutive cards in the same suit. For this purpose the cards rank in order 3-4-5-6-7-8-9-T-J-Q-K-A, Three being the lowest card allowed in a sequence and Ace the highest. The cards of a sequence are laid out in ascending order from left to right from the point of view of the player who owns the sequence.
+Une **séquence** consiste en trois cartes consécutives ou plus de la même couleur. Pour cela, les cartes se classent dans l'ordre 3-4-5-6-7-8-9-10-V-D-R-A, le trois étant la carte la plus basse autorisée dans une séquence et l'as la plus haute. Les cartes d'une séquence sont disposées par ordre croissant de gauche à droite du point de vue du joueur qui possède la séquence.
 
-Twos and Jokers are wild. A Two or a Joker or one of each can be used as substitutes for any cards of a sequence, but not more than one Two and not more than one Joker in any given sequence.
+Les deux et les jokers sont sauvages. Un deux, un joker ou un de chacun peuvent être utilisés comme substituts de n'importe quelle carte d'une séquence, mais pas plus d'un deux ni plus d'un joker dans une séquence donnée.
 
-A player who has melded may add a natural card to his own or his partner's sequence. For this purpose any Two or Joker in the sequence may be freely moved to another position in the sequence, provided that the sequence remains valid, consisting of consecutive cards.
+Un joueur qui a étalé peut ajouter une carte naturelle à sa propre séquence ou à celle de son partenaire. Pour cela, tout deux ou joker de la séquence peut être librement déplacé vers une autre position de la séquence, à condition que la séquence reste valide, c'est-à-dire composée de cartes consécutives.
 
-A player may substitute the appropriate natural card from hand for a Joker in his own or his partner's sequence, provided that the cards in the sequence remain consecutive. The Joker can be used in another meld immediately of it can be taken into the player's hand and kept for later use. A Two cannot be removed from a sequence, it can only moved to a new position in the sequence.
+Un joueur peut substituer la carte naturelle appropriée de sa main à un joker de sa propre séquence ou de celle de son partenaire, à condition que les cartes de la séquence restent consécutives. Le joker peut être utilisé immédiatement dans une autre combinaison ou être pris dans la main du joueur pour un usage ultérieur. Un deux ne peut pas être retiré d'une séquence, il peut seulement être déplacé vers une nouvelle position dans la séquence.
 
-A sequence that has been melded can grow to any length, up to 12 cards, but cannot be split apart into smaller sequences. If a sequence consists of 11 natural cards and a Two, the final natural card of the suit can be added and the Two remains attached to the sequence, making a 13-card sequence.
+Une séquence étalée peut grandir jusqu'à 12 cartes, mais ne peut pas être scindée en séquences plus petites. Si une séquence se compose de 11 cartes naturelles et d'un deux, la dernière carte naturelle de la couleur peut être ajoutée et le deux reste attaché à la séquence, formant une séquence de 13 cartes.
 
-**Examples**
+**Exemples**
 
-The following are valid sequences that could be melded:
+Voici des séquences valides qui pourraient être étalées :
 
 - ![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9
 
-- ![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A
+- ![spade](../images/internat/spade.gif)V-![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)A
 
-- ![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6 - the 2 represents the ![diamond](../images/internat/diamond.gif)4
+- ![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6 — le 2 représente le ![diamond](../images/internat/diamond.gif)4
 
-- ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2 - the joker represents the ![club](../images/internat/club.gif)J and the 2 represents the ![club](../images/internat/club.gif)Q
+- ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2 — le joker représente le ![club](../images/internat/club.gif)V et le 2 représente le ![club](../images/internat/club.gif)D
 
-The following are **not** valid sequences, for the reasons specified:
+Les séquences suivantes **ne sont pas** valides, pour les raisons indiquées :
 
-- ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3 - sequences can only run from 3 at the lower end as far as Ace at the upper end. A Two cannot be used as a natural card in a sequence.
+- ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3 — les séquences ne peuvent aller que du 3 à l'as. Un deux ne peut pas être utilisé comme carte naturelle dans une séquence.
 
-- ![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2 - technically invalid as placed, but if the 2 is moved to the left hand end these cards form a valid sequence with the 2 representing the ![spade](../images/internat/spade.gif)Q.
+- ![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2 — invalide telle quelle, mais si le 2 est déplacé à l'extrémité gauche, ces cartes forment une séquence valide avec le 2 représentant le ![spade](../images/internat/spade.gif)D.
 
-- ![diamond](../images/internat/diamond.gif)7-![spade](../images/internat/spade.gif)2-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)J - it is illegal to use more than one 2 in a sequence. If one of the twos were replaced by a Joker this would be OK.
+- ![diamond](../images/internat/diamond.gif)7-![spade](../images/internat/spade.gif)2-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)V — il est illégal d'utiliser plus d'un 2 dans une séquence. Si l'un des deux était remplacé par un joker, ce serait correct.
 
-- Joker-![club](../images/internat/club.gif)J-![heart](../images/internat/heart.gif)2-Joker-![club](../images/internat/club.gif)A - it is illegal to use more than one Joker in a sequence, but without the left-hand Joker the sequence would be valid.
+- Joker-![club](../images/internat/club.gif)V-![heart](../images/internat/heart.gif)2-Joker-![club](../images/internat/club.gif)A — il est illégal d'utiliser plus d'un joker dans une séquence, mais sans le joker de gauche, la séquence serait valide.
 
-Adding cards to a sequence:
+Ajouter des cartes à une séquence :
 
-- To ![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9 it is possible to add a 2 or a Joker at either end or the ![heart](../images/internat/heart.gif)6 on the left or the ![heart](../images/internat/heart.gif)10 on the right.
+- À ![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9, il est possible d'ajouter un 2 ou un joker à chaque extrémité, ou le ![heart](../images/internat/heart.gif)6 à gauche ou le ![heart](../images/internat/heart.gif)10 à droite.
 
-- To ![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6 it is possible to add a Joker at either end or the ![diamond](../images/internat/diamond.gif)3 or the ![diamond](../images/internat/diamond.gif)7. The ![diamond](../images/internat/diamond.gif)4 can be added, displacing the ![club](../images/internat/club.gif)2 to either end, or the ![diamond](../images/internat/diamond.gif)8 can be added by moving the ![club](../images/internat/club.gif)2 so that it represents the ![diamond](../images/internat/diamond.gif)7.
+- À ![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6, il est possible d'ajouter un joker à chaque extrémité ou le ![diamond](../images/internat/diamond.gif)3 ou le ![diamond](../images/internat/diamond.gif)7. Le ![diamond](../images/internat/diamond.gif)4 peut être ajouté, déplaçant le ![club](../images/internat/club.gif)2 à une extrémité, ou le ![diamond](../images/internat/diamond.gif)8 peut être ajouté en déplaçant le ![club](../images/internat/club.gif)2 pour qu'il représente le ![diamond](../images/internat/diamond.gif)7.
 
-- To ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2 no further wild card can be added, since it already has a 2 and a Joker, but ![club](../images/internat/club.gif)9 or ![club](../images/internat/club.gif)K could be added. Also the ![club](../images/internat/club.gif)J could be added by moving the Joker to either end, or the ![club](../images/internat/club.gif)Q by moving the 2 to either end. The ![club](../images/internat/club.gif)8 could be added by first moving the ![heart](../images/internat/heart.gif)2 to the left-hand end to represent the ![club](../images/internat/club.gif)9. The ![club](../images/internat/club.gif)7 could be added by moving both wild cards to the left end to represent the ![club](../images/internat/club.gif)8 and ![club](../images/internat/club.gif)9.
+- À ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2 aucune autre carte sauvage ne peut être ajoutée, car il contient déjà un 2 et un joker, mais ![club](../images/internat/club.gif)9 ou ![club](../images/internat/club.gif)R pourraient être ajoutés. Le ![club](../images/internat/club.gif)V peut aussi être ajouté en déplaçant le joker à une extrémité, ou le ![club](../images/internat/club.gif)D en déplaçant le 2 à une extrémité. Le ![club](../images/internat/club.gif)8 pourrait être ajouté en déplaçant d'abord le ![heart](../images/internat/heart.gif)2 à l'extrémité gauche pour représenter le ![club](../images/internat/club.gif)9. Le ![club](../images/internat/club.gif)7 pourrait être ajouté en déplaçant les deux cartes sauvages à l'extrémité gauche pour représenter le ![club](../images/internat/club.gif)8 et le ![club](../images/internat/club.gif)9.
 
-Exchanging a card for a Joker in a melded sequence:
+Échanger une carte contre un joker dans une séquence étalée :
 
-- In the sequence ![heart](../images/internat/heart.gif)4-![spade](../images/internat/spade.gif)2-![heart](../images/internat/heart.gif)6-Joker-![heart](../images/internat/heart.gif)8 it is possible to take the Joker in exchange for the ![heart](../images/internat/heart.gif)7 from hand, or to take the Joker in exchange for the ![heart](../images/internat/heart.gif)5 by first interchanging the two wild cards.
+- Dans la séquence ![heart](../images/internat/heart.gif)4-![spade](../images/internat/spade.gif)2-![heart](../images/internat/heart.gif)6-Joker-![heart](../images/internat/heart.gif)8, il est possible de prendre le joker en échange du ![heart](../images/internat/heart.gif)7 de la main, ou de prendre le joker en échange du ![heart](../images/internat/heart.gif)5 en intervertissant d'abord les deux cartes sauvages.
 
-- In the sequence ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2 it is possible to take the Joker in exchange for the ![club](../images/internat/club.gif)8, ![club](../images/internat/club.gif)9, ![club](../images/internat/club.gif)J or ![club](../images/internat/club.gif)Q by adjusting the position of the ![heart](../images/internat/heart.gif)2 as necessary to make the resulting sequence valid. 
+- Dans la séquence ![club](../images/internat/club.gif)10-Joker-![heart](../images/internat/heart.gif)2, il est possible de prendre le joker en échange du ![club](../images/internat/club.gif)8, ![club](../images/internat/club.gif)9, ![club](../images/internat/club.gif)V ou ![club](../images/internat/club.gif)D en ajustant la position du ![heart](../images/internat/heart.gif)2 si nécessaire pour que la séquence résultante soit valide.
 
-### Sets / Groups
+### Groupes / ensembles
 
-There are just two types of group / set:
+Il n'existe que deux types de groupes / ensembles :
 
-- **Threes** (*Taras*): a set of three or four Threes of different suits.
+- **Les trois** (*Taras*) : un ensemble de trois ou quatre trois de couleurs différentes.
 
-- **Aces** (*Qsoos* / *Gsoos* / *’Asoos*): a set of three or four Aces of different suits.
+- **Les as** (*Qsoos* / *Gsoos* / *'Asoos*) : un ensemble de trois ou quatre as de couleurs différentes.
 
-Sets of other ranks are not valid.
+Les ensembles d'autres valeurs ne sont pas valides.
 
-One Joker can be used as a substitute for one of the cards in a set. A set cannot contain more than one Joker, and Twos cannot be used as wild cards in sets at all. A Joker melded as part of a set can be reclaimed by the owner of the set or their partner in exchange for a matching card of a different suit from those in the set.
+Un joker peut être utilisé comme substitut d'une des cartes d'un ensemble. Un ensemble ne peut pas contenir plus d'un joker, et les deux ne peuvent jamais être utilisés comme cartes sauvages dans les ensembles. Un joker étalé dans un ensemble peut être récupéré par le propriétaire de l'ensemble ou son partenaire en échange d'une carte correspondante d'une couleur différente de celles de l'ensemble.
 
-**Examples**
+**Exemples**
 
-The following are valid groups (sets) that could be melded:
+Voici des groupes (ensembles) valides qui pourraient être étalés :
 
 - ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)3
 
@@ -135,134 +136,132 @@ The following are valid groups (sets) that could be melded:
 
 - ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-Joker
 
-The following are **not** valid groups (sets), for the reasons specified:
+Les groupes (ensembles) suivants **ne sont pas** valides, pour les raisons indiquées :
 
-- ![club](../images/internat/club.gif)K-![heart](../images/internat/heart.gif)K-![spade](../images/internat/spade.gif)K - sets can only be made with Threes or Aces.
+- ![club](../images/internat/club.gif)R-![heart](../images/internat/heart.gif)R-![spade](../images/internat/spade.gif)R — les ensembles ne peuvent être faits qu'avec des trois ou des as.
 
-- ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)3 - a set cannot contain two identical cards.
+- ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)3 — un ensemble ne peut pas contenir deux cartes identiques.
 
-- ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)2 - a Two cannot be used as a set, not even as a wild card.
+- ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)2 — un deux ne peut pas être utilisé dans un ensemble, même comme carte sauvage.
 
-- ![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)3-Joker-Joker - only one Joker can be used in a set.
+- ![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)3-Joker-Joker — un seul joker peut être utilisé dans un ensemble.
 
-- ![club](../images/internat/club.gif)A-![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)A-Joker - a set cannot contain more than four cards.
+- ![club](../images/internat/club.gif)A-![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)A-Joker — un ensemble ne peut pas contenir plus de quatre cartes.
 
-Adding cards to a group (set) and exchanging for a Joker: 
+Ajouter des cartes à un groupe (ensemble) et échanger contre un joker :
 
-- To the set ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)3 a ![diamond](../images/internat/diamond.gif)3 or a Joker can be added.
+- À l'ensemble ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)3, un ![diamond](../images/internat/diamond.gif)3 ou un joker peut être ajouté.
 
-- To the set ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-Joker a ![diamond](../images/internat/diamond.gif)A or ![club](../images/internat/club.gif)A can be exchanged for the Joker.
+- À l'ensemble ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)A-Joker, un ![diamond](../images/internat/diamond.gif)A ou un ![club](../images/internat/club.gif)A peut être échangé contre le joker.
 
-- To the set ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![diamond](../images/internat/diamond.gif)3-Joker nothing can be added but the Joker can be reclaimed in exchange for the ![spade](../images/internat/spade.gif)3.
+- À l'ensemble ![club](../images/internat/club.gif)3-![heart](../images/internat/heart.gif)3-![diamond](../images/internat/diamond.gif)3-Joker rien ne peut être ajouté, mais le joker peut être récupéré en échange du ![spade](../images/internat/spade.gif)3.
 
-### End of the play
+### Fin de la partie
 
-When a player manages to dispose of all the cards in his or her hand, the play ends and scores are calculated. The play can end in on of three ways:
+Lorsqu'un joueur réussit à se débarrasser de toutes les cartes de sa main, la partie s'arrête et les scores sont calculés. La partie peut se terminer de trois façons :
 
-- A player draws a card, melds all but one card from hand, and discards the last remaining card.
+- Un joueur pioche une carte, étale toutes ses cartes sauf une, et défausse la dernière carte restante.
 
-- A player draws a card and melds all cards remaining in hand, leaving nothing to discard. This is the only case in which a player's turn can end without a discard.
+- Un joueur pioche une carte et étale toutes les cartes restantes de sa main, sans rien laisser à défausser. C'est le seul cas où un tour peut se terminer sans défausse.
 
-- The last card of the stock pile is drawn, but after the discard at the end of that turn all players still have at least one card in their hands. In this case no one scores.
+- La dernière carte du talon est piochée, mais après la défausse de ce tour, tous les joueurs ont encore au moins une carte en main. Dans ce cas, personne ne marque de points.
 
-It is customary for a player who holds only one or two cards to warn the other players, saying 'one card' or 'two cards'. A player holding one card could end the game at the next turn by drawing a card that can be used to expand a meld. A player holding two cards could end the game if the drawn cards fits with those two to make a new meld. Of course it is also possible for a player with three or more cards to end the game by melding, especially if the player has chosen to hold back some valid melds, keeping them in hand for tactical purposes. 
+Il est de coutume qu'un joueur qui ne détient qu'une ou deux cartes avertisse les autres joueurs en disant « une carte » ou « deux cartes ». Un joueur qui détient une carte pourrait terminer la partie au tour suivant en piochant une carte pouvant servir à agrandir une combinaison. Un joueur qui détient deux cartes pourrait terminer la partie si la carte piochée forme une nouvelle combinaison avec ces deux cartes. Bien sûr, un joueur ayant trois cartes ou plus peut aussi terminer la partie en étalant, surtout s'il a choisi de garder en main des combinaisons valides par tactique.
 
-There is a special score for a player who ends the game by melding his or her entire hand in one turn, with or without a discard, when neither this player nor the player's partner in team game has previously anything. Melding all at once in this way is called '*dhamoon*' or *'hand'*.
+Il existe un score spécial pour le joueur qui termine la partie en étalant toute sa main en un seul tour, avec ou sans défausse, alors que ni ce joueur ni son partenaire en jeu d'équipe n'a précédemment étalé quoi que ce soit. Étaler toutes ses cartes d'un coup s'appelle *'dhamoon'* ou *'hand'*.
 
-## Scoring
+## Score
 
-Before the game the players should agree on a target score. Each player or team keeps a cumulative score, and the first team to reach or pass the target wins. When four players play in partnership the target is usually 303 points. When two players play as individuals the target is usually 150. When three people play the usual target is 203 points.
+Avant la partie, les joueurs doivent se mettre d'accord sur un objectif de score. Chaque joueur ou équipe tient un score cumulé, et la première équipe à atteindre ou dépasser l'objectif gagne. Quand quatre joueurs jouent en équipes, l'objectif est généralement de 303 points. Quand deux joueurs jouent individuellement, l'objectif est généralement de 150. À trois joueurs, l'objectif habituel est de 203 points.
 
-At the end of the play scores are calculated on the basis of the cards in each player's meld area and the cards remaining in the player's hands. The card values are:
+À la fin de la partie, les scores sont calculés sur la base des cartes dans la zone d'étalage de chaque joueur et des cartes restant dans les mains. Les valeurs des cartes sont :
 
-| 3, 4, 5, 6: | ½ point each |
-| 7, 8, 9, 10, J, Q, K: | 1 point each |
-| Aces: | 1½ points each |
-| Deuces: | 2 points each |
-| Jokers: | 4 points each |
+| 3, 4, 5, 6 : | ½ point chacune |
+| 7, 8, 9, 10, V, D, R : | 1 point chacune |
+| As : | 1½ point chacun |
+| Deux : | 2 points chacun |
+| Jokers : | 4 points chacun |
 
-The basic score for each individual player is the total value of the cards in the player's meld area **minus** the total value of the cards remaining in the player's hand. This can result in a negative score.
+Le score de base de chaque joueur est la valeur totale des cartes dans sa zone d'étalage **moins** la valeur totale des cartes restant dans sa main. Ceci peut donner un score négatif.
 
-The player who ended the play with no cards in hand has a bonus of 20 points added to his or her basic score. 
+Le joueur qui a terminé la partie sans cartes en main reçoit un bonus de 20 points ajouté à son score de base.
 
-A player who has melded nothing at all does not count the value of cards in hand but instead receives a fixed score of **minus** 20.
+Un joueur qui n'a rien étalé du tout ne compte pas la valeur des cartes en main mais reçoit à la place un score fixe de **moins** 20.
 
-In an individual game a player who melds his or her whole hand at once, putting down cards and ending the play in a single turn without previously having melded anything, receives a fixed score of 40 points. There is no score for melded cards in this case. It is as though the player scores a fixed 20 points for the melded hand plus 20 points for going out.
+Dans une partie individuelle, un joueur qui étale toute sa main d'un coup, posant ses cartes et terminant la partie en un seul tour sans avoir précédemment étalé quoi que ce soit, reçoit un score fixe de 40 points. Dans ce cas, il n'y a pas de score pour les cartes étalées. C'est comme si le joueur marquait 20 points fixes pour la main étalée plus 20 points pour être sorti.
 
-In a partnership game, the fixed score of 40 points for melding cards all at once only applies if none of the other three players has melded. If the player's partner of any opponent has melded there is no special score for melding all cards at once: the player will score the value of the actual cards melded plus a bonus of 20.
+Dans une partie en équipe, le score fixe de 40 points pour étaler toutes ses cartes d'un coup ne s'applique que si aucun des trois autres joueurs n'a étalé. Si le partenaire du joueur ou un adversaire a étalé, il n'y a pas de score spécial pour étaler toutes ses cartes d'un coup : le joueur marque la valeur des cartes réellement étalées plus un bonus de 20.
 
-In an individual game the scores of each player are added to their cumulative totals. A player's cumulative total score can thus be negative.
+Dans une partie individuelle, les scores de chaque joueur s'ajoutent à son total cumulé. Le score cumulé d'un joueur peut donc être négatif.
 
-In a partnership game the team of the winning player scores the winning player's score. The opposing team adds together their individual scores and subtracts the score of the winner's partner.
+Dans une partie en équipe, l'équipe du joueur gagnant marque le score du joueur gagnant. L'équipe adverse additionne ses scores individuels et soustrait le score du partenaire du gagnant.
 
-Fractional total scores are rounded to the next whole number to the benefit of the player or team: a positive score is rounded up but in a negative score the odd half-point is ignored.
+Les scores fractionnaires sont arrondis au nombre entier suivant en faveur du joueur ou de l'équipe : un score positif est arrondi au-dessus, mais dans un score négatif, le demi-point impair est ignoré.
 
-### Examples
+### Exemples
 
-- **Two-player game.** Player A melded all his cards and the total value of the melded cards is 24½ points. Player B melded some cards for a score of 6 points but the cards remaining in B's hand have a value of 11½ points. Result: 
+- **Partie à deux joueurs.** Le joueur A a étalé toutes ses cartes et la valeur totale des cartes étalées est de 24½ points. Le joueur B a étalé des combinaisons pour un score de 6 points, mais les cartes restantes dans la main de B valent 11½ points. Résultat :
 
-- **A scores +45**, made up of 24½ plus for melds plus a bonus of 20 for getting rid of all his hand cards: total 44½ rounded in A's favour to 45.
+- **A marque +45**, composé de 24½ pour les combinaisons plus un bonus de 20 pour s'être débarrassé de toutes ses cartes : total 44½ arrondi en faveur de A à 45.
 
-- **B scores -5**. B scores +6 for melds but -11½ for cards in hand for a total of **minus** 5½ rounded in B's favour to -5.
+- **B marque -5**. B marque +6 pour ses combinaisons mais -11½ pour les cartes en main, soit un total de **moins** 5½ arrondi en faveur de B à -5.
 
-- **Two-player game.** Player B melded his entire hand in one turn with a value of 21 points. Player A did not meld any cards. Result:
+- **Partie à deux joueurs.** Le joueur B a étalé toute sa main en un seul tour, d'une valeur de 21 points. Le joueur A n'a étalé aucune carte. Résultat :
 
-- **A scores -20**, because he melded no cards. The value of the cards in A's hand is not counted.
+- **A marque -20**, car il n'a étalé aucune carte. La valeur des cartes de la main de A n'est pas comptée.
 
-- **B scores +40**, the fixed score for going out all at once.
+- **B marque +40**, le score fixe pour être sorti d'un seul coup.
 
-- **Two-player game.** Player A melded his entire hand in one turn with a value of 22 points. Player B has melds worth 12 points and 9 points in hand. Result:
+- **Partie à deux joueurs.** Le joueur A a étalé toute sa main en un seul tour, d'une valeur de 22 points. Le joueur B a des combinaisons valant 12 points et 9 points en main. Résultat :
 
-- **A scores +40**, the fixed score for going out all at once.
+- **A marque +40**, le score fixe pour être sorti d'un seul coup.
 
-- **B scores +3**, this is 12 points for melds minus 9 points for cards in hand.
+- **B marque +3**, soit 12 points pour les combinaisons moins 9 points pour les cartes en main.
 
-- **Four-player partnership game.** North and South play against East and West. West melded all his cards for 26½ points. East has melds worth 14 points and the remaining cards in East's hand are worth 6½ points. North has melds worth 17 points and just 2 points remaining in hand. South has not melded any cards. Result:
+- **Partie à quatre joueurs en équipes.** Nord et Sud jouent contre Est et Ouest. Ouest a étalé toutes ses cartes pour 26½ points. Est a des combinaisons valant 14 points et les cartes restantes de sa main valent 6½ points. Nord a des combinaisons valant 17 points et seulement 2 points restants en main. Sud n'a étalé aucune carte. Résultat :
 
-- **East and West score +47 points**: 26½ for West's melds plus the 20-point bonus for going out, rounded up.
+- **Est et Ouest marquent +47 points** : 26½ pour les combinaisons d'Ouest plus le bonus de 20 pour être sorti, arrondi au-dessus.
 
-- **North and South score -13 points**. North has 15 points: 17 for meld less 2 in hand. South scores the standard -20 for a player who has not melded. East scores 14 for melds less 6½ for hand cards, and the resulting 8½ points will be subtracted from opponents' total. 15 + (-20) - 8½ = -13½ rounded to -13.
+- **Nord et Sud marquent -13 points**. Nord a 15 points : 17 pour les combinaisons moins 2 en main. Sud marque le score standard de -20 pour un joueur qui n'a pas étalé. Est marque 14 pour ses combinaisons moins 6½ pour les cartes en main, et les 8½ points résultants seront soustraits du total des adversaires. 15 + (-20) - 8½ = -13½ arrondi à -13.
 
-- **Four-player partnership game**. South melded all her cards at once with a value of 25 points. North has not melded. East has just 3½ points for melds and 16 points in hand. West has 10½ points for melds and 9 points remaining in hand. 
+- **Partie à quatre joueurs en équipes.** Sud a étalé toutes ses cartes d'un coup, d'une valeur de 25 points. Nord n'a rien étalé. Est n'a que 3½ points de combinaisons et 16 points en main. Ouest a 10½ points de combinaisons et 9 points restant en main.
 
-- **North and South score +45 points**: 25 for melded cards plus 20 for going out.
+- **Nord et Sud marquent +45 points** : 25 pour les cartes étalées plus 20 pour être sortie.
 
-- **East and West score +9 points**. East's individual score is -12½ (3½ minus 16), West's score is +1½. North's score of -20 for not having melded becomes a positive score for the opponents. -12½ + 1½ + 20 = 9. No rounding needed.
+- **Est et Ouest marquent +9 points**. Le score individuel d'Est est de -12½ (3½ moins 16), celui d'Ouest de +1½. Le score de -20 de Nord pour ne pas avoir étalé devient un score positif pour les adversaires. -12½ + 1½ + 20 = 9. Aucun arrondi nécessaire.
 
-- **Four-player partnership game.** East melded all his cards at once. No one else has melded anything.
+- **Partie à quatre joueurs en équipes.** Est a étalé toutes ses cartes d'un coup. Personne d'autre n'a étalé quoi que ce soit.
 
-- **East and West score +40 points**: fixed score.
+- **Est et Ouest marquent +40 points** : score fixe.
 
-- **North and South score -20 points**: (-20) + (-20) - (-20). 
+- **Nord et Sud marquent -20 points** : (-20) + (-20) - (-20).
 
-## Variants
+## Variantes
 
-In a partnership game some play that each team adds together the individual scores of its members, and scores the rounded total. That is, the score of the partner of the player who went out is counted for that team's score rather than against the opponents. Using this method, the last three examples would be scored as follows.
+Dans une partie en équipe, certains jouent que chaque équipe additionne les scores individuels de ses membres et marque le total arrondi. Autrement dit, le score du partenaire du joueur sorti compte pour le score de cette équipe plutôt que contre les adversaires. Avec cette méthode, les trois derniers exemples seraient comptés comme suit.
 
-- **Example 4.** East and West score +55 (=26½+8½+20). North and South score -5 (=15-20).
+- **Exemple 4.** Est et Ouest marquent +55 (=26½+8½+20). Nord et Sud marquent -5 (=15-20).
 
-- **Example 5.** North and South score +25 (=25+20-20). East and West score -11 (=-12½+1½) 
+- **Exemple 5.** Nord et Sud marquent +25 (=25+20-20). Est et Ouest marquent -11 (=-12½+1½).
 
-- **Example 6**. East and West score +20 (=40+[-20]). North and South score -40 (=[-20]+[-20])
+- **Exemple 6.** Est et Ouest marquent +20 (=40+[-20]). Nord et Sud marquent -40 (=[-20]+[-20]).
 
-Some play that when the cards are cut, the player to the left of the dealer, when performing the cut, looks at the cut card - the bottom card of the section that is lifted from the top of the pack. If this is a wild card - Two or Joker - the cutter takes it and looks at the next card, takes that too if it is another wild card, and continues taking wild cards until the exposed card on the bottom of the cut section is a natural card. The cut is then completed and there will be a natural card on the bottom of the drawing deck. When dealing the cards the dealer skips the cutter for as many rounds as the number of wild cards taken, so that the cutter will begin with a hand of 18 cards, like the other players. For example if the cutter took two wild cards the dealer will skip the cutter twice and deal only 16 cards to this player to make a hand of 18 cards.
+Certains jouent qu'à la coupe, le joueur à la gauche du donneur regarde la carte coupée — la carte du bas de la section soulevée du haut du paquet. Si c'est une carte sauvage (deux ou joker), le coupeur la prend et regarde la carte suivante, la prend aussi si c'est une autre carte sauvage, et continue de prendre les cartes sauvages jusqu'à ce que la carte visible au bas de la section coupée soit une carte naturelle. La coupe est ensuite achevée et il y aura une carte naturelle au bas du paquet de pioche. En distribuant les cartes, le donneur saute le coupeur autant de fois qu'il y a de cartes sauvages prises, afin que le coupeur commence avec une main de 18 cartes comme les autres joueurs. Par exemple, si le coupeur a pris deux cartes sauvages, le donneur saute le coupeur deux fois et ne distribue que 16 cartes à ce joueur pour constituer une main de 18 cartes.
 
-In a few groups, if a player melds all his cards at his first turn to play, before some players have had their first turn, any players who have not had an opportunity to play score zero points rather than -20. So for example if the player to dealer's right melds all his cards at the very start of the game, his team scores +40 and the dealer's team scores 0. 
+Dans quelques groupes, si un joueur étale toutes ses cartes à son premier tour, avant que certains joueurs n'aient eu leur premier tour, les joueurs qui n'ont pas eu l'occasion de jouer marquent zéro point plutôt que -20. Par exemple, si le joueur à la droite du donneur étale toutes ses cartes au tout début de la partie, son équipe marque +40 et l'équipe du donneur marque 0.
 
-### Jawaker rules
+### Règles de Jawaker
 
-At jawaker.com an [online Banakil game](https://www.jawaker.com/en/games/banakil) for four players is available. Below is a list of some differences that have been observed in the past between the rules of the online game and its documentation and the version described above. The Jawaker implementation is periodically updated so users may find that some of the items below may no longer apply.
+Sur jawaker.com, un [jeu de Banakil en ligne](https://www.jawaker.com/en/games/banakil) pour quatre joueurs est disponible. Voici une liste de quelques différences observées par le passé entre les règles du jeu en ligne, sa documentation et la version décrite ci-dessus. L'implémentation de Jawaker est mise à jour régulièrement, il se peut donc que certains points ci-dessous ne s'appliquent plus.
 
-- No card is dealt face up to start the discard pile. Instead the first player, to the dealer's right, is dealt an extra card. In the very first turn of the game, the first player, who already has 19 cards, does not draw a card, but simply melds if he can and wishes to, and then ends his turn by discarding one card face up to the floor to begin the discard pile.
+- Aucune carte n'est retournée face visible pour commencer la défausse. À la place, le premier joueur, à la droite du donneur, reçoit une carte supplémentaire. Au tout premier tour de la partie, le premier joueur, qui a déjà 19 cartes, ne pioche pas de carte, mais étale simplement s'il le peut et le souhaite, puis termine son tour en défaussant une carte face visible pour commencer la défausse.
 
-- When melding a sequence that includes a wild card, the player determines what the wild card represents by its position in the sequence. This is the only card that can later be substituted for the wild card. It is not possible to change the value of the wild card in order to add or substitute a different card. For example in the sequence ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-Joker the ![spade](../images/internat/spade.gif)9 can be added or the ![spade](../images/internat/spade.gif)8 can be exchanged for the Joker. It is not possible to move the Joker to represent the 5 instead of the 8, so the ![spade](../images/internat/spade.gif)4 cannot be added to the sequence. The ![spade](../images/internat/spade.gif)5 can be added but the player does not take the Joker in exchange.
+- En étalant une séquence contenant une carte sauvage, le joueur détermine ce que représente la carte sauvage par sa position dans la séquence. C'est la seule carte qui pourra ensuite être substituée à la carte sauvage. Il n'est pas possible de changer la valeur de la carte sauvage pour ajouter ou substituer une autre carte. Par exemple, dans la séquence ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-Joker, le ![spade](../images/internat/spade.gif)9 peut être ajouté ou le ![spade](../images/internat/spade.gif)8 peut être échangé contre le joker. Il n'est pas possible de déplacer le joker pour représenter le 5 au lieu du 8, donc le ![spade](../images/internat/spade.gif)4 ne peut pas être ajouté à la séquence. Le ![spade](../images/internat/spade.gif)5 peut être ajouté, mais le joueur ne prend pas le joker en échange.
 
-- When the real card represented by a wild card is inserted in a sequence, the player of the real card chooses to which end of the sequence the wild card should be moved, thus determining how the sequence can be extended in future.
+- Quand la carte réelle représentée par une carte sauvage est insérée dans une séquence, le joueur de la carte réelle choisit à quelle extrémité de la séquence la carte sauvage doit être déplacée, déterminant ainsi comment la séquence pourra être étendue à l'avenir.
 
-- Aces are only worth 1 point instead of 1½.
+- Les as ne valent que 1 point au lieu de 1½.
 
-- If a player melds all his or her cards at once, having not previously melded, the player's team scores 51 points if the other team has melded or 102 points if the other team has not melded. The opposing team scores nothing.
+- Si un joueur étale toutes ses cartes d'un coup, sans avoir étalé auparavant, son équipe marque 51 points si l'autre équipe a étalé, ou 102 points si l'autre équipe n'a pas étalé. L'équipe adverse ne marque rien.
 
-- The target score to win the game is 222 points. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Banakil
+- L'objectif de score pour gagner la partie est de 222 points.

@@ -2,125 +2,125 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Also known as Paplu, a card game for up to 10 players who try to arrnage their 13 cards into runs and sets.
+**Type :** Rami
+**But :** Aussi connu sous le nom de Paplu, un jeu de cartes pour jusqu'à 10 joueurs qui tentent d'arranger leurs 13 cartes en suites et en groupes.
 **Autres noms :** Paplu
 
 ---
 
-This page is mainly based on information from Vasant Mali.
+Cette page est principalement basée sur des informations de Vasant Mali.
 
 ## Introduction
 
-This version of Rummy, also known as **Paplu**, is a very popular in India in general and in Maharashtra State in particular. It is a pastime enjoyed by persons of all walks of life, be it the commuters in crowded trains in Mumbai, housewives gathering together for kitty parties, retired persons meeting in clubs, or acquaintances who meet regularly to play. People's obsession with this game is so great that commuters will spend over an hour or two daily in each direction playing Rummy on trains and buses; some even begin by travelling in the opposite direction to the train's starting point to occupy be sure to claim their "regular" seats. Housewives take turns to gather their friends for whole afternoon of Rummy at home, eating and gossiping. Many groups go out on weekends / holidays to a nearby resort just to get long undisturbed hours for playing Rummy. There are clubs in big cities as well as in small places where while some elite groups indulge in playing Bridge, which is considered more respectable, a large number prefer to play Rummy.
+Cette version du Rami, aussi connue sous le nom de **Paplu**, est très populaire en Inde en général et dans l'État du Maharashtra en particulier. C'est un passe-temps apprécié par des personnes de toutes les couches de la société, qu'il s'agisse des voyageurs dans les trains bondés de Mumbai, des ménagères se réunissant pour des « kitty parties », des retraités se rencontrant dans des clubs, ou des connaissances qui se retrouvent régulièrement pour jouer. La passion des gens pour ce jeu est si grande que les voyageurs passeront plus d'une heure ou deux chaque jour dans chaque direction à jouer au Rami dans les trains et les bus ; certains commencent même par voyager dans la direction opposée au point de départ du train pour être sûrs de s'assurer leurs sièges « habituels ». Les ménagères se relaient pour rassembler leurs amies pour tout un après-midi de Rami à la maison, en mangeant et en bavardant. Beaucoup de groupes sortent le week-end ou les jours fériés vers une station balnéaire proche juste pour avoir de longues heures ininterrompues pour jouer au Rami. Il y a des clubs dans les grandes villes comme dans les petites localités où, tandis que certains groupes élitistes s'adonnent au Bridge, considéré comme plus respectable, un grand nombre préfère jouer au Rami.
 
-Usually Rummy is played for small stakes. This is a mild form of gambling, but in practice harmless. Players enjoy the game and do not mind losing an affordable amount of money. Since gambling is technically illegal, players are discreet, playing with friends in private or using tokens instead of money or writing the scores on paper.
+Habituellement, le Rami se joue pour de petits enjeux. C'est une forme douce de jeu d'argent, mais en pratique inoffensive. Les joueurs apprécient le jeu et ne se soucient pas de perdre une somme abordable d'argent. Comme le jeu d'argent est techniquement illégal, les joueurs sont discrets, jouant avec des amis en privé ou utilisant des jetons au lieu d'argent, ou écrivant les scores sur du papier.
 
-## Players and Cards
+## Joueurs et cartes
 
-As many as 10 people can play this game: beyond this number it is perhaps not practical for all the players to sit around a table. Up to 6 players use two decks of cards. 3 decks are used for more players. Each deck consists of the standard 52 cards plus one wild card, with "joker" printed on it. Thus there are 53x2=106 cards for 2 to 6 players, and 53x3= 159 cards for 7 or more players.
+Jusqu'à 10 personnes peuvent jouer à ce jeu : au-delà de ce nombre, il n'est sans doute pas pratique pour tous les joueurs de s'asseoir autour d'une table. Jusqu'à 6 joueurs utilisent deux jeux de cartes. 3 jeux sont utilisés pour plus de joueurs. Chaque jeu consiste en les 52 cartes standard plus une carte sauvage, avec « joker » imprimé dessus. Il y a donc 53×2=106 cartes pour 2 à 6 joueurs, et 53×3=159 cartes pour 7 joueurs ou plus.
 
-## Deal
+## Donne
 
-To begin the session, each player picks a card at random from the shuffled deck. Seating is as per card value: whoever draws the highest card chooses his seat, to his right the next highest and so on. The lowest, thus, sits to the left of the highest. The lowest deals first and shuffles the cards.
+Pour commencer la session, chaque joueur tire une carte au hasard du jeu mélangé. Les places s'attribuent selon la valeur de la carte : celui qui tire la carte la plus haute choisit son siège, à sa droite le suivant plus haut, et ainsi de suite. Le plus bas, donc, s'assoit à la gauche du plus haut. Le plus bas donne en premier et mélange les cartes.
 
-![example](../images/rummy/indian.gif)
+![exemple](../images/rummy/indian.gif)
 
-The player to the left of the dealer draws a card unseen from the shuffled deck and places it on the table face up, visible to all. This card is known as the 'joker': all cards of same rank as this turned up card as well as the printed jokers are used as wild cards, and all these cards are referred to as 'jokers'. If the card turned up is a printed joker then there is just one wild card available for use: the other printed joker.
+Le joueur à la gauche du donneur tire une carte sans la voir du jeu mélangé et la place sur la table face visible, visible par tous. Cette carte est appelée le « joker » : toutes les cartes de même rang que cette carte retournée ainsi que les jokers imprimés sont utilisés comme cartes sauvages, et toutes ces cartes sont appelées « jokers ». Si la carte retournée est un joker imprimé, alors il n'y a qu'une seule carte sauvage disponible : l'autre joker imprimé.
 
-The player to dealer's left then cuts the remaining cards and the dealer distributes them anti-clockwise one at a time, the player to dealer's right getting the first card. 13 cards are dealt to each player. One card is dealt face up to begin the discard pile and the remaining stack is placed face down in the centre crosswise on top of the turned up joker, so that the rank of the joker remains visible - see diagram.
+Le joueur à la gauche du donneur coupe ensuite les cartes restantes et le donneur les distribue dans le sens inverse des aiguilles d'une montre, une à la fois, le joueur à la droite du donneur recevant la première carte. 13 cartes sont distribuées à chaque joueur. Une carte est distribuée face visible pour commencer la défausse et le reste de la pile est placé face cachée au centre, en travers, sur le joker retourné, de sorte que le rang du joker reste visible — voir le schéma.
 
-For the next hand the turn to deal passes to the right, and this continues until everyone has dealt once, completing a "round". After playing one or two rounds, the seating is changed again following the same start procedure. Normally a player should quit the play only at the end of a round. Anyone wanting to join in between the rounds occupies the seat to the left of the player dealing next.
+Pour la main suivante, la donne passe à la droite, et cela continue jusqu'à ce que chacun ait donné une fois, complétant un « tour de table ». Après avoir joué un ou deux tours de table, les places sont à nouveau changées en suivant la même procédure de départ. Normalement, un joueur ne devrait quitter la partie qu'à la fin d'un tour de table. Toute personne voulant se joindre entre les tours de table occupe le siège à la gauche du joueur qui donne ensuite.
 
-## Runs and sets
+## Suites et groupes
 
-The objective is to form one's 13 cards into sequences (runs) and sets (also known as trails or trios).
+L'objectif est de former avec ses 13 cartes des séquences (suites) et des groupes (aussi connus sous les noms de trails ou trios).
 
-A run (or sequence) consists of three or more consecutive cards of the same suit, the order being A-2-3-4-5-6-7-8-9-10-J-Q-K-A. The ace can be next to the two (in A-2-3) or next to the king (in Q-K-A), but not both at once, so K-A-2 is not a legal run.
+Une suite (ou séquence) consiste en trois cartes consécutives ou plus de la même couleur, l'ordre étant A-2-3-4-5-6-7-8-9-10-V-D-R-A. L'as peut être à côté du deux (dans A-2-3) ou à côté du roi (dans D-R-A), mais pas les deux à la fois, donc R-A-2 n'est pas une suite légale.
 
-A set (trail, trio) consists of three cards of the same rank in different suits: ![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)5-![diamond](../images/internat/diamond.gif)5 is a valid set but ![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)7-![heart](../images/internat/heart.gif)7 is not.
+Un groupe (trail, trio) consiste en trois cartes du même rang dans des couleurs différentes : ![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)5-![carreau](../images/internat/diamond.gif)5 est un groupe valide, mais ![trèfle](../images/internat/club.gif)7-![trèfle](../images/internat/club.gif)7-![cœur](../images/internat/heart.gif)7 ne l'est pas.
 
-Combinations must not overlap - for example ![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![heart](../images/internat/heart.gif)9-![spade](../images/internat/spade.gif)9 is either a run of diamonds with two spare 9's or a set of 9's with two spare diamonds. If a second ![diamond](../images/internat/diamond.gif)9 or a ![club](../images/internat/club.gif)9 or a ![diamond](../images/internat/diamond.gif)6 is added, the six cards form a run and a set.
+Les combinaisons ne doivent pas se chevaucher — par exemple ![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)8-![carreau](../images/internat/diamond.gif)9-![cœur](../images/internat/heart.gif)9-![pique](../images/internat/spade.gif)9 est soit une suite de carreaux avec deux 9 de rechange, soit un groupe de 9 avec deux carreaux de rechange. Si un second ![carreau](../images/internat/diamond.gif)9, un ![trèfle](../images/internat/club.gif)9 ou un ![carreau](../images/internat/diamond.gif)6 est ajouté, les six cartes forment une suite et un groupe.
 
-Wild cards can be used to substitute for any desired card in a set or run. For example if the turned up card is a ![club](../images/internat/club.gif)8 then ![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)8-![heart](../images/internat/heart.gif)5 is a valid run, and ![spade](../images/internat/spade.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)8 is a valid set since all 8's are wild.
+Les cartes sauvages peuvent être utilisées pour remplacer n'importe quelle carte désirée dans un groupe ou une suite. Par exemple, si la carte retournée est un ![trèfle](../images/internat/club.gif)8, alors ![cœur](../images/internat/heart.gif)3-![pique](../images/internat/spade.gif)8-![cœur](../images/internat/heart.gif)5 est une suite valide, et ![pique](../images/internat/spade.gif)V-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)8 est un groupe valide puisque tous les 8 sont sauvages.
 
-A straight run is a run formed without the use of wild cards as substitutes for other cards. At least one straight run is required in one's hand in order for any combinations to become valid. Note that if 8's are wild, ![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9 counts as a straight run, since the ![heart](../images/internat/heart.gif)8 is used as itself, not as a wild card, but ![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)8 is not a straight run - just an ordinary run.
+Une suite franche est une suite formée sans utiliser de cartes sauvages comme substituts d'autres cartes. Au moins une suite franche est requise dans sa main pour que des combinaisons deviennent valides. Notez que si les 8 sont sauvages, ![cœur](../images/internat/heart.gif)7-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9 compte comme une suite franche, puisque le ![cœur](../images/internat/heart.gif)8 est utilisé comme lui-même, pas comme une carte sauvage, mais ![cœur](../images/internat/heart.gif)V-![cœur](../images/internat/heart.gif)D-![cœur](../images/internat/heart.gif)8 n'est pas une suite franche — juste une suite ordinaire.
 
-When three decks are used it is customary also to allow an additional type of combination consisting of three identical cards - such as ![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)10. This is known as a tanala, and is treated as equivalent to a straight run.
+Quand trois jeux sont utilisés, il est d'usage d'autoriser aussi un type supplémentaire de combinaison consistant en trois cartes identiques — comme ![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)10. Cela s'appelle un tanala, et est traité comme l'équivalent d'une suite franche.
 
-In order to declare Rummy and win it is necessary to hold at least two runs, and at least one of these runs must be straight. The remainder of one's 13 cards must also be formed into combinations, which may be runs or sets, with or without wild cards. The first "straight" run (or tanala) is sometimes known as the "original life" and the second run as the "second life".
+Pour déclarer Rummy et gagner, il est nécessaire de tenir au moins deux suites, et au moins une de ces suites doit être franche. Le reste de ses 13 cartes doit aussi être formé en combinaisons, qui peuvent être des suites ou des groupes, avec ou sans cartes sauvages. La première suite « franche » (ou tanala) est parfois connue comme la « vie originale » et la deuxième suite comme la « seconde vie ».
 
-Usually a winning hand consists of four combinations: one of four cards and three of three cards, but it is also possible to win with just three combinations of 5, 4 and 4 or 5, 5 and 3 cards, always provided that they include at least two runs, one of which must be straight.
+Habituellement, une main gagnante consiste en quatre combinaisons : une de quatre cartes et trois de trois cartes, mais il est aussi possible de gagner avec seulement trois combinaisons de 5, 4 et 4 ou de 5, 5 et 3 cartes, toujours à condition qu'elles incluent au moins deux suites, dont une franche.
 
-## The play
+## Le jeu
 
-The player to dealer's right plays first, and play continues counter-clockwise. Each player's turn consists of picking up either the top card of the face up discard pile or the top card of the face down stack. Having taken this card into hand the player must discard one card from hand face up on top of the discard pile.
+Le joueur à la droite du donneur joue en premier, et le jeu continue dans le sens inverse des aiguilles d'une montre. Le tour de chaque joueur consiste à ramasser soit la carte du dessus de la défausse face visible, soit la carte du dessus du talon face cachée. Après avoir pris cette carte en main, le joueur doit défausser une carte de sa main face visible sur le dessus de la défausse.
 
-If the player chooses to take the top card of the discard pile, that card cannot be discarded in the same turn - the player must discard a different card.
+Si le joueur choisit de prendre la carte du dessus de la défausse, cette carte ne peut pas être défaussée au même tour — le joueur doit défausser une carte différente.
 
-It sometimes happens that the card turned up by the dealer to start the discard pile is a joker, which can then be picked up by the first player in the normal way. Since this clearly gives the first player an advantage, it may encourage several other players to pack (see below).
+Il arrive parfois que la carte retournée par le donneur pour commencer la défausse soit un joker, qui peut alors être ramassé par le premier joueur de la manière normale. Comme cela donne clairement un avantage au premier joueur, cela peut encourager plusieurs autres joueurs à abandonner (voir ci-dessous).
 
-The play continues until a player, after picking up a card, has 13 cards that form valid combinations (including at least one straight run and at least one other run as explained above). In this case the player discards the 14th card and declares 'Rummy', placing the 13 cards face up to show that they form the required runs and sets, and winning the game.
+Le jeu continue jusqu'à ce qu'un joueur, après avoir ramassé une carte, ait 13 cartes formant des combinaisons valides (incluant au moins une suite franche et au moins une autre suite, comme expliqué ci-dessus). Dans ce cas, le joueur défausse la 14e carte et déclare « Rummy », plaçant les 13 cartes face visible pour montrer qu'elles forment les suites et groupes requis, et gagne la partie.
 
-Note that no runs or sets are laid out during the play. In this form of Rummy players keep all their cards concealed from the other players until a player is able to win.
+Notez qu'aucune suite ou groupe n'est posé pendant le jeu. Dans cette forme de Rami, les joueurs gardent toutes leurs cartes cachées des autres joueurs jusqu'à ce qu'un joueur soit en mesure de gagner.
 
-If there are no face down cards remaining in the stack and no one has declared Rummy by the end of the turn in which the last stock card was taken, the game is void and no one wins.
+S'il ne reste aucune carte face cachée dans le talon et que personne n'a déclaré Rummy à la fin du tour où la dernière carte du talon a été prise, la partie est nulle et personne ne gagne.
 
-## Packing
+## Abandonner (packing)
 
-A player whose hand is unpromising may prefer to withdraw from the game to limit the amount lost. This is called packing or dropping. It can only be done at the start of a player's turn, instead of picking up a card.
+Un joueur dont la main n'est pas prometteuse peut préférer se retirer du jeu pour limiter le montant perdu. Cela s'appelle abandonner ou se retirer. Cela ne peut se faire qu'au début du tour d'un joueur, au lieu de ramasser une carte.
 
-A player who packs at the start of his first turn, before before drawing any card from the stack or discard pile, pays 10 points to the eventual winner. The player's 13 cards are shuffled and placed at the bottom of the face down stack, so that they are eventually available for drawing by the other players if the game continues that long. The remaining players continue to play.
+Un joueur qui abandonne au début de son premier tour, avant de piocher une carte du talon ou de la défausse, paie 10 points au vainqueur éventuel. Les 13 cartes du joueur sont mélangées et placées en bas du talon face cachée, de sorte qu'elles soient éventuellement disponibles pour être piochées par les autres joueurs si le jeu dure jusque-là. Les joueurs restants continuent à jouer.
 
-A player who packs at a later turn must pay 40 points to the eventual winner, if any. This player's cards are not added to the stack - they are set aside face down out of the game.
+Un joueur qui abandonne à un tour ultérieur doit payer 40 points au vainqueur éventuel, s'il y en a un. Les cartes de ce joueur ne sont pas ajoutées au talon — elles sont mises de côté face cachée, hors du jeu.
 
-If all players except one have packed, the last remaining player automatically wins, and immediately collects the appropriate amounts from the players who packed.
+Si tous les joueurs sauf un ont abandonné, le dernier joueur restant gagne automatiquement et collecte immédiatement les montants appropriés auprès des joueurs qui ont abandonné.
 
-If the game is void because the stack is used up and no one is able to declare Rummy, the packed players do not pay.
+Si la partie est nulle parce que le talon est épuisé et que personne ne peut déclarer Rummy, les joueurs qui ont abandonné ne paient pas.
 
-## Scoring
+## Score
 
-After the winner declares rummy, all other players who have not packed count their hands for pay-off. The values of the cards are as follows:
+Après que le vainqueur déclare Rummy, tous les autres joueurs qui n'ont pas abandonné comptent leurs mains pour le règlement. Les valeurs des cartes sont les suivantes :
 
-- A, K, Q, J, 10 count 10 points each 
+- A, R, D, V, 10 comptent 10 points chacun
 
-- 9, 8, 7, 6, 5, 4, 3, 2 count face value
+- 9, 8, 7, 6, 5, 4, 3, 2 comptent leur valeur nominale
 
-- all jokers - both the printed jokers and the cards of the same rank as the turned up joker - have a value of zero
+- tous les jokers — à la fois les jokers imprimés et les cartes du même rang que le joker retourné — ont une valeur de zéro
 
-If a hand contains a straight run (original life), the cards of this run are not counted.
+Si une main contient une suite franche (vie originale), les cartes de cette suite ne sont pas comptées.
 
-If the hand contains a second run (second life) as well as a straight run, cards in these runs and any additional runs and trails (sets) are not counted.
+Si la main contient une seconde suite (seconde vie) en plus d'une suite franche, les cartes de ces suites et tout autre suite et groupe (trail) supplémentaire ne sont pas comptées.
 
-The values of all remaining cards are totalled and the points are paid to the winner. Packed players pay the winner either 10 or 40 points, depending on when they packed.
+Les valeurs de toutes les cartes restantes sont totalisées et les points sont payés au vainqueur. Les joueurs qui ont abandonné paient au vainqueur soit 10, soit 40 points, selon le moment où ils ont abandonné.
 
-Example: five is the joker (wild card) and a player holds ![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)K-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)8-![diamond](../images/internat/diamond.gif)8-![club](../images/internat/club.gif)4-![diamond](../images/internat/diamond.gif)4-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)2 when another player wins. This player has an original life (straight run in hearts) but no second life, so must pay 43 points. If the player had a wild card in place of the ![diamond](../images/internat/diamond.gif)8, the payment would be only 8 points for a ![spade](../images/internat/spade.gif)4 and the two ![diamond](../images/internat/diamond.gif)2's, since the spade run would be a second life, making the trail of 4's also valid.
+Exemple : cinq est le joker (carte sauvage) et un joueur tient ![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)V-![cœur](../images/internat/heart.gif)D-![cœur](../images/internat/heart.gif)R-![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8-![carreau](../images/internat/diamond.gif)8-![trèfle](../images/internat/club.gif)4-![carreau](../images/internat/diamond.gif)4-![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)4-![carreau](../images/internat/diamond.gif)2-![carreau](../images/internat/diamond.gif)2 quand un autre joueur gagne. Ce joueur a une vie originale (suite franche à cœur) mais pas de seconde vie, donc il doit payer 43 points. Si le joueur avait une carte sauvage à la place du ![carreau](../images/internat/diamond.gif)8, le paiement serait seulement de 8 points pour un ![pique](../images/internat/spade.gif)4 et les deux ![carreau](../images/internat/diamond.gif)2, puisque la suite de pique serait une seconde vie, rendant aussi le groupe de 4 valide.
 
-If a player declares Rummy after picking a card for his first turn, any other players who have not yet had an opportunity to pack or pick a card pay for their unmatched cards at half rate - that is the total value of their cards that are not in valid combinations is divided by two.
+Si un joueur déclare Rummy après avoir pioché une carte pour son premier tour, tout autre joueur qui n'a pas encore eu l'occasion d'abandonner ou de piocher une carte paie pour ses cartes non appariées au demi-tarif — c'est-à-dire que la valeur totale de leurs cartes qui ne sont pas dans des combinaisons valides est divisée par deux.
 
-In the rare event that a player is dealt a hand of 13 cards that are all connected in compliance with the rules, the player can declare *'Hand-Rummy'*. Hand-Rummy is declared at the player's first turn, instead of picking a card. Any players who have already taken their turns and have chosen to play must pay twice the total value of their unmatched cards. Those who have already packed pay 10 points as usual, and any players who have not yet had a turn pay for their unmatched cards at the normal (single) rate.
+Dans le cas rare où un joueur reçoit une main de 13 cartes toutes connectées en conformité avec les règles, le joueur peut déclarer un *« Hand-Rummy »*. Le Hand-Rummy est déclaré au premier tour du joueur, au lieu de piocher une carte. Tout joueur qui a déjà joué son tour et a choisi de jouer doit payer le double de la valeur totale de ses cartes non appariées. Ceux qui ont déjà abandonné paient 10 points comme d'habitude, et tout joueur qui n'a pas encore eu de tour paie pour ses cartes non appariées au tarif normal (simple).
 
-## Variations
+## Variantes
 
-Sometimes it is agreed that the stakes are doubled when the turned up wild card happens to be a printed joker. In this case in the 2-deck game there is just one joker available for use as a wild card. Whoever is dealt this card or picks it up in the course of the game has a strong hand, though not a sure win.
+Parfois, il est convenu que les enjeux sont doublés quand la carte sauvage retournée se trouve être un joker imprimé. Dans ce cas, dans le jeu à deux jeux, il n'y a qu'un seul joker disponible pour être utilisé comme carte sauvage. Quiconque reçoit cette carte ou la ramasse au cours du jeu a une main forte, bien que pas une victoire assurée.
 
-Alternatively, some play that when a printed joker is turned up, all Aces are treated as jokers (wild cards) and the stakes are not raised.
+Alternativement, certains jouent avec tous les as traités comme des jokers (cartes sauvages) quand un joker imprimé est retourné, et les enjeux ne sont pas augmentés.
 
-Some do not award a double score for hand rummy.
+Certains n'accordent pas un score double pour le hand rummy.
 
-Some groups play 21-card Rummy, a relative of the Nepali game Marriage with varying stake rules, bonuses, penalties, etc.
+Certains groupes jouent au Rami à 21 cartes, un proche parent du jeu népalais Marriage, avec des règles d'enjeux, bonus, pénalités, etc. variables.
 
-## Tactics: Skill or Luck
+## Tactique : compétence ou chance
 
-Luck plays a big role in winning high value games, while skill can be used to limit one's losses and improve one's probability of winning. The decision whether enter the game or to pack depends upon what cards one gets. With the possibility of declaring Rummy in 2 or 3 picks, it is a safe bet to play. Choosing what card to discard a card is also an important skill. While one can stall others from declaring Rummy, cunning discards may also induce an opponent to give you the card you need.
+La chance joue un grand rôle pour gagner les parties à forte valeur, tandis que la compétence peut être utilisée pour limiter ses pertes et améliorer sa probabilité de gagner. La décision d'entrer dans le jeu ou d'abandonner dépend des cartes que l'on reçoit. Avec la possibilité de déclarer Rummy en 2 ou 3 pioches, c'est un pari sûr de jouer. Choisir quelle carte défausser est aussi une compétence importante. Tout en pouvant retarder les autres dans leur déclaration de Rummy, des défausses rusées peuvent aussi inciter un adversaire à vous donner la carte dont vous avez besoin.
 
-The combination of luck and skill makes the game entertaining. It can becomes an addiction in that one spends a good lot of time and sometimes money, but enjoys it so much that one only wants to play more frequently.
+La combinaison de la chance et de la compétence rend le jeu divertissant. Il peut devenir une addiction en ce sens que l'on passe beaucoup de temps et parfois de l'argent, mais on l'apprécie tellement qu'on ne veut que jouer plus souvent.
 
-## Other Indian Rummy sites, software and online games
+## Autres sites, logiciels et jeux en ligne Indian Rummy
 
-In recent years many web sites have opened at which Indian Rummy can be played online against live opponents for fun or money, sometimes for cash prizes. Here are some of the sites that offer this service.
+Ces dernières années, de nombreux sites web ont ouvert sur lesquels le Rami indien peut être joué en ligne contre des adversaires en direct pour le plaisir ou l'argent, parfois pour des prix en espèces. Voici quelques-uns des sites qui offrent ce service.
 
-- [A23.com](https://www.a23.com) (formerly ace2three.com)
+- [A23.com](https://www.a23.com) (anciennement ace2three.com)
 
 - [RummyCircle](https://www.rummycircle.com)
 
@@ -128,8 +128,6 @@ In recent years many web sites have opened at which Indian Rummy can be played o
 
 - [PlayRummy](https://www.playrummy.com/download.php)
 
-The Rummy program from [Special K Software](https://www.specialksoftware.com) supports ten Rummy variants, including Indian Rummy, which you can play against computer opponents.
+Le programme Rummy de [Special K Software](https://www.specialksoftware.com) supporte dix variantes de Rami, y compris le Rami indien, que vous pouvez jouer contre des adversaires informatiques.
 
-Games4All have published an [Indian Rummy game for Android](https://play.google.com/store/apps/details?id=org.games4all.android.games.indianrummy.prod). 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Indian Rummy
+Games4All a publié un [jeu de Rami indien pour Android](https://play.google.com/store/apps/details?id=org.games4all.android.games.indianrummy.prod).

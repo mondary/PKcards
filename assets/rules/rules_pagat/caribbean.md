@@ -1,57 +1,55 @@
-# Caribbean Stud Poker
+# Stud Poker des Caraïbes
 
 **Difficulté :** —
-**Type :** Banque, Banque
-**But :** A casino gambling game where each player bets on whether their five-card poker hand will beat the dealer's hand.
+**Type :** Banque
+**But :** Un jeu d'argent de casino dans lequel chaque joueur mise sur le fait que sa main de poker de cinq cartes battra la main du croupier.
 
 ---
 
-This American casino game, also known as **Caribbean Poker** or **Cyberstud Poker**, is not really a poker game since players play against the bank rather than against each other. The adjective "stud" is also misleading, since players receive all five cards before betting, not one card at a time with a betting round after each as in real stud poker.
+Ce jeu de casino américain, aussi connu sous le nom de **Caribbean Poker** (Poker des Caraïbes) ou **Cyberstud Poker**, n'est pas vraiment un jeu de poker puisque les joueurs jouent contre la banque plutôt que les uns contre les autres. L'adjectif « stud » est aussi trompeur, puisque les joueurs reçoivent les cinq cartes avant de miser, et non une carte à la fois avec une phase de mises après chacune comme dans le vrai stud poker.
 
-**Note.** Gambling can be dangerously addictive. You can find information and advice on our Responsible Gambling page.
+**Note.** Le jeu d'argent peut créer une dépendance dangereuse. Vous trouverez des informations et des conseils sur notre page Jeu Responsable.
 
-The players each place an ante and the players and the bank are dealt five cards each from a standardc international 52-card pack. One of the banker's cards is dealt face up. After players have seen their own cards and the banker's face up card, each player in turn must either 
+Chaque joueur place une mise initiale (ante) et les joueurs ainsi que la banque reçoivent chacun cinq cartes d'un jeu international standard de 52 cartes. Une des cartes du banquier est distribuée face visible. Après avoir vu leurs propres cartes et la carte face visible du banquier, chaque joueur à son tour doit soit
 
-- make a **call bet**, increasing their stake by an amount equal to **twice** their original ante, or 
+- faire une **mise d'appel**, augmentant sa mise d'un montant égal à **deux fois** sa mise initiale, soit
 
-- surrender, in which case the bank wins the ante.
+- se coucher, auquel cas la banque gagne la mise initiale.
 
-There is then a showdown. 
+Il y a ensuite un abattage (showdown).
 
-- If the bank does not have **A-K** or better the player's ante and call bet are returned, plus an amount equal to the ante.
+- Si la banque n'a pas au moins **A-R** (as-roi), la mise initiale et la mise d'appel du joueur sont rendues, plus un montant égal à la mise initiale.
 
-- If the bank **qualifies** by having **A-K** or better, a player wins if the player's hand beats the bank's (see poker hand ranks). The bank pays out even money on the ante plus fixed odds on the call bet as follows:
+- Si la banque **se qualifie** en ayant **A-R** ou mieux, un joueur gagne si sa main bat celle de la banque (voir les rangs des mains de poker). La banque paie à la cote du pair (même argent) sur la mise initiale plus des cotes fixes sur la mise d'appel comme suit :
 
-- evens for a pair or high card
+- pair (même argent) pour une paire ou une carte haute
 
-- 2-1 for two pairs
+- 2 contre 1 pour deux paires
 
-- 3-1 for three of a kind
+- 3 contre 1 pour un brelan
 
-- 4-1 for a straight
+- 4 contre 1 pour une quinte
 
-- 5-1 for a flush
+- 5 contre 1 pour une couleur
 
-- 7-1 for a full house
+- 7 contre 1 pour un full
 
-- 20-1 for a four of a kind
+- 20 contre 1 pour un carré
 
-- 50-1 for a straight flush
+- 50 contre 1 pour une quinte flush
 
-- 100-1 for a royal flush
+- 100 contre 1 pour une quinte flush royale
 
-- If the bank has **A-K** or better and the player's hand is worse than the bank's the ante and call bet are both lost.
+- Si la banque a **A-R** ou mieux et que la main du joueur est moins bonne que celle de la banque, la mise initiale et la mise d'appel sont toutes deux perdues.
 
-- If the player ties with the bank it is a "push": the ante and call bet are simply returned to the player.
+- Si le joueur fait égalité avec la banque, c'est une « annulation » (push) : la mise initiale et la mise d'appel sont simplement rendues au joueur.
 
-In addition there is usually a progressive jackpot into which a player can pay a fixed stake on each deal. Part of all of the jackpot is paid out to any player who is dealt a flush or better.
+De plus, il y a généralement un jackpot progressif dans lequel un joueur peut payer une mise fixe à chaque donne. Une partie ou la totalité du jackpot est versée à tout joueur à qui est distribuée une couleur ou mieux.
 
-Optimal strategy for Caribbean Stud Poker is complex and difficult to apply without using a calculator tool to deduce the correct decision. When applied, fully optimal strategy results in a House Edge of 2.56%. A simplified strategy would see the player Call with any hand of AKJ83 or stronger. While not entirely optimal this will result in a House Edge within 0.1% of the optimal strategy. To save time the hands that are worth checking are any AK high hand.
+La stratégie optimale du Stud Poker des Caraïbes est complexe et difficile à appliquer sans utiliser un outil de calcul pour déduire la bonne décision. Lorsqu'elle est appliquée, la stratégie entièrement optimale donne un avantage de la maison de 2,56 %. Une stratégie simplifiée consisterait pour le joueur à appeler avec toute main d'ARV83 (as-roi-valet) ou plus forte. Sans être entièrement optimale, cela donnera un avantage de la maison à moins de 0,1 % de la stratégie optimale. Pour gagner du temps, les mains qu'il vaut la peine de vérifier sont toutes les mains à haut as-roi.
 
-The Pogg provided a comprehensive guide to [Caribbean Stud Poker rules, variants and strategies](https://web.archive.org/web/20230928170054/https://thepogg.com/guides/caribbean-stud-poker/) (archive copy).
+Le Pogg a fourni un guide complet du [Stud Poker des Caraïbes : règles, variantes et stratégies](https://web.archive.org/web/20230928170054/https://thepogg.com/guides/caribbean-stud-poker/) (copie d'archive).
 
-The [Caribbean Stud Poker](https://www.beatingbonuses.com/stud.htm) page of beatingbonuses.com has a good summary of strategy and how it varies according to the payouts offered.
+La page [Caribbean Stud Poker](https://www.beatingbonuses.com/stud.htm) de beatingbonuses.com contient un bon résumé de la stratégie et de la façon dont elle varie selon les paiements proposés.
 
-The [Carribean Stud section of Casino Advisor](https://archive.casinoadvisor.com/caribbean-stud-lessons) has rules and information. The advice on this site is relevant mainly to land-based casino rules and should be used with caution, especially if playing online where payout tables may vary widely between operators. 
-
-Home Page > Classified Index > Banking Games > Caribbean Poker
+La [section Stud des Caraïbes du Casino Advisor](https://archive.casinoadvisor.com/caribbean-stud-lessons) contient des règles et des informations. Les conseils de ce site concernent surtout les règles des casinos terrestres et doivent être utilisés avec prudence, surtout en jouant en ligne où les tables de paiement peuvent varier considérablement d'un opérateur à l'autre.

@@ -2,189 +2,177 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Two Rummy games from Argentina played with a double deck of 108 cards including Jokers.
+**Type :** Rami
+**But :** Deux jeux de rami d'Argentine joués avec un double jeu de 108 cartes incluant des jokers.
+**Autres noms :** Loba de Menos, Loba de Mas
 
 ---
 
-This page is based on contributions by Eduardo Valcarcel and Juan Orgeira.
-
-- Introduction
-
-- Loba de Menos
-
-- Players and Cards - Deal - Piernas and Escaleras - Play - Jokers - Scoring - Variations
-
-- Loba de Mas
-
-- Players, Cards and Deal - Piernas and Escaleras - Play - Scoring
+Cette page est basée sur des contributions d'Eduardo Valcarcel et Juan Orgeira.
 
 ## Introduction
 
-Loba is a version of Rummy played in Latin America. In fact the name Loba is used for more than one Rummy variation. This page describes the game Loba as played in Argentina. In Central America, Loba is a different game, a kind of Contract Rummy, similar to the game known in Argentina as Carioca.
+La Loba est une version du Rami jouée en Amérique latine. En fait, le nom Loba est utilisé pour plus d'une variante du Rami. Cette page décrit le jeu Loba tel qu'il est joué en Argentine. En Amérique centrale, la Loba est un jeu différent, une sorte de Rami à contrat, similaire au jeu connu en Argentine sous le nom de Carioca.
 
-There are two forms of Argentinean Loba:
+Il y a deux formes de Loba argentine :
 
-- Loba de Menos (negative Loba), in which points are scored for cards remaining in plyers' hands when the play ends, and the object is to score as few points as possible, and
+- la Loba de Menos (Loba négative), dans laquelle des points sont marqués pour les cartes restant dans les mains des joueurs quand le jeu se termine, l'objectif étant de marquer le moins de points possible, et
 
-- Loba de Mas (positive Loba), in which points are scored for combinations laid down and lost for cards reamining in a player's hand at the end of play, and the object is to score as many points as possible.
+- la Loba de Mas (Loba positive), dans laquelle des points sont marqués pour les combinaisons posées et perdus pour les cartes restant dans la main d'un joueur à la fin du jeu, l'objectif étant de marquer le plus de points possible.
 
 ## Loba de Menos
 
-### Players and Cards
+### Joueurs et cartes
 
-Loba de Menos can be played by from 2 to 5 players, using two ordinary 52 card decks plus 4 jokers, making 108 cards in all.
+La Loba de Menos peut se jouer de 2 à 5 joueurs, en utilisant deux jeux ordinaires de 52 cartes plus 4 jokers, soit 108 cartes au total.
 
-If playing for money, each player contributes an equal stake to a pot, which will be taken by the winner.
+Si on joue pour de l'argent, chaque joueur contribue d'un enjeu égal à un pot, qui sera pris par le vainqueur.
 
-### The Deal
+### La donne
 
-Players draw cards to decide who deals first: highest deals. The turn to deal passes to the left after each hand.
+Les joueurs tirent des cartes pour décider qui donne en premier : le plus haut donne. La donne passe à la gauche après chaque main.
 
-The deal and play are clockwise. Each player is dealt nine cards, one at a time. The next card is placed face up to start the discard pile and the remainder of the deck is stacked face down beside it to form the stock.
+La donne et le jeu se déroulent dans le sens des aiguilles d'une montre. Chaque joueur reçoit neuf cartes, une à la fois. La carte suivante est placée face visible pour commencer la défausse et le reste du jeu est empilé face cachée à côté pour former le talon.
 
-### Piernas and Escaleras
+### Piernas et escaleras
 
-The players' aim is to get rid of cards from their hands, by forming them into combinations which can be put face up on the table. The allowable combinations are: 
+L'objectif des joueurs est de se débarrasser des cartes de leurs mains, en les formant en combinaisons qui peuvent être posées face visible sur la table. Les combinaisons autorisées sont :
 
 **Piernas**
-A pierna consists of three cards of the same rank from different suits - for example **![spade](../images/internat/spade.gif)4**, 
-**![heart](../images/internat/heart.gif)4**, **![club](../images/internat/club.gif)4**. A pierna can contain additional cards of the same rank in the same three suits, but not of the fourth suit. So for example **![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4-![heart](../images/internat/heart.gif)4-![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)4** is a valid pierna, but a **![diamond](../images/internat/diamond.gif)4** cannot be added to it.
+Une pierna consiste en trois cartes du même rang de couleurs différentes — par exemple **![pique](../images/internat/spade.gif)4**, **![cœur](../images/internat/heart.gif)4**, **![trèfle](../images/internat/club.gif)4**. Une pierna peut contenir des cartes supplémentaires du même rang dans les trois mêmes couleurs, mais pas de la quatrième couleur. Ainsi par exemple **![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)4-![cœur](../images/internat/heart.gif)4-![trèfle](../images/internat/club.gif)4-![trèfle](../images/internat/club.gif)4** est une pierna valide, mais un **![carreau](../images/internat/diamond.gif)4** ne peut pas y être ajouté.
 **Escaleras**
-An escalera consists of three or more cards of the same suit in sequence - such as **![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7**. The ace can be counted high or low, at the player's choice - so **![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A** and **![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4** are both valid escaleras. Ace cannot be both high and low at once, so **![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3** is not valid.
+Une escalera consiste en trois cartes ou plus de la même couleur en séquence — comme **![carreau](../images/internat/diamond.gif)5-![carreau](../images/internat/diamond.gif)6-![carreau](../images/internat/diamond.gif)7**. L'as peut être compté en haut ou en bas, au choix du joueur — donc **![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)V-![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A** et **![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)2-![cœur](../images/internat/heart.gif)3-![cœur](../images/internat/heart.gif)4** sont toutes deux des escaleras valides. L'as ne peut pas être à la fois en haut et en bas, donc **![pique](../images/internat/spade.gif)R-![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)2-![pique](../images/internat/spade.gif)3** n'est pas valide.
 
-### The Play
+### Le jeu
 
-The player to dealer's left begins and play continues clockwise. A player's turn consists of three parts:
+Le joueur à la gauche du donneur commence et le jeu continue dans le sens des aiguilles d'une montre. Le tour d'un joueur consiste en trois parties :
 
-- Drawing a card: to start your turn you must draw either the top card from the face up discard pile or the top card from the face down draw pile; 
+- Piocher une carte : pour commencer votre tour, vous devez piocher soit la carte du dessus de la défausse face visible, soit la carte du dessus du talon de pioche face cachée ;
 
-- Putting down cards: this is optional. 
+- Poser des cartes : c'est facultatif.
 
-- If you hold cards that form a valid Pierna or Escalera, these can be played face up on the table. 
+- Si vous tenez des cartes qui forment une pierna ou une escalera valide, elles peuvent être jouées face visible sur la table.
 
-- If you have already put down at least one pierna or escalera of your own, you can be add a card or cards to any pierna or escalera that is already on the table - your own and other players' - provided that the added cards still obey the above rules for forming valid combinations.
+- Si vous avez déjà posé au moins une pierna ou une escalera de votre cru, vous pouvez ajouter une ou des cartes à toute pierna ou escalera déjà posée sur la table — les vôtres et celles des autres joueurs — à condition que les cartes ajoutées obéissent toujours aux règles ci-dessus pour former des combinaisons valides.
 
-- To end your turn you must discard one card from your hand face up to the discard pile.
+- Pour terminer votre tour, vous devez défausser une carte de votre main face visible sur la défausse.
 
-It is only possible to draw a card from the discard pile if that card is immediately played to the table as part of a pierna or escalera (either to make a new one with cards from your hand, or to add to an existing one on the table). You cannot take the discard and keep it in your hand.
+Il n'est possible de piocher une carte de la défausse que si cette carte est immédiatement jouée sur la table comme partie d'une pierna ou d'une escalera (soit pour en faire une nouvelle avec des cartes de votre main, soit pour l'ajouter à une existante sur la table). Vous ne pouvez pas prendre la défausse et la garder en main.
 
-Piernas and escaleras on the table cannot be broken up to reuse the cards to form new combinations - they can only be added to.
+Les piernas et escaleras posées sur la table ne peuvent pas être démantelées pour réutiliser les cartes afin de former de nouvelles combinaisons — on ne peut que leur ajouter des cartes.
 
-You cannot add to another player's piena or escalera until you have put down a pierna or escalera of your own.
+Vous ne pouvez pas ajouter à la pierna ou l'escalera d'un autre joueur tant que vous n'avez pas posé une pierna ou une escalera de votre cru.
 
-If the stock pile is exhausted, the cards in the discard pile (apart from its top card, which is left in place), are shuffled and stacked face down to form a new stock pile.
+Si le talon est épuisé, les cartes de la défausse (à part sa carte du dessus, qui reste en place) sont battues et empilées face cachée pour former un nouveau talon.
 
 ### Jokers
 
-Jokers may only be put down in escaleras, not in piernas. Not more than one Joker can be included in one escalera. 
+Les jokers ne peuvent être posés que dans des escaleras, pas dans des piernas. Pas plus d'un joker ne peut être inclus dans une escalera.
 
-Jokers cannot normally be discarded. The only exception is when you have put down all your other cards in combinations. When it is time to discard and the only card left in your hand is a Joker, you are allowed to discard it, thus ending the game. Thus, drawing a Joker from the stock, especially towards the end of the round, may be a serious inconvenience if no escaleras have been put down or if all the escaleras on the table already contain Jokers.
+Les jokers ne peuvent normalement pas être défaussés. La seule exception est quand vous avez posé toutes vos autres cartes en combinaisons. Quand il est temps de défausser et que la seule carte restante en main est un joker, vous êtes autorisé à le défausser, mettant ainsi fin au jeu. Ainsi, piocher un joker au talon, surtout vers la fin de la manche, peut être un sérieux inconvénient si aucune escalera n'a été posée ou si toutes les escaleras de la table contiennent déjà des jokers.
 
-When adding to an escalera, you are allowed to move a Joker from one end of the escalera to the other end. For example, if an escalera is made up of the **8-9-10-Joker**, you may add the **J** to one end and move the Joker to represent a **7** or a **Q**. When the Joker is in the middle of an escalera (as in **8-Joker-10-J**) its position may not be changed, so if **8-Joker-10-J** is on the table, you are not allowed to add a **9** to it. 
+Quand vous ajoutez à une escalera, vous êtes autorisé à déplacer un joker d'une extrémité de l'escalera à l'autre extrémité. Par exemple, si une escalera est composée du **8-9-10-joker**, vous pouvez ajouter le **V** à une extrémité et déplacer le joker pour représenter un **7** ou une **D**. Quand le joker est au milieu d'une escalera (comme dans **8-joker-10-V**), sa position ne peut pas être changée, donc si **8-joker-10-V** est sur la table, vous n'êtes pas autorisé à y ajouter un **9**.
 
-### Scoring
+### Score
 
-The play ends when one player gets rid of all their cards. This player normally scores nothing, and each of the other players scores penalty points for the cards remaining in their hands.
+Le jeu se termine quand un joueur se débarrasse de toutes ses cartes. Ce joueur ne marque normalement rien, et chacun des autres joueurs marque des points de pénalité pour les cartes restant dans leurs mains.
 
-Each numeral card is worth its face value in points. The Jokers, Kings, Queens, Jacks and Aces are valued at 10 points. Each player adds up the point values of the cards they have left, and then adds this total value to their previous cumulative score. 
+Chaque carte numérale vaut sa valeur nominale en points. Les jokers, rois, dames, valets et as valent 10 points. Chaque joueur additionne les valeurs en points des cartes qu'il lui reste, puis ajoute cette valeur totale à son score cumulé précédent.
 
-If you win a round by putting down all of your cards at the same time (forming your own piernas or escaleras or adding to those of other players), without having previously put down any cards in that round, your cumulative score is **reduced** by 10 points. 
+Si vous gagnez une manche en posant toutes vos cartes en même temps (formant vos propres piernas ou escaleras ou en ajoutant à celles des autres joueurs), sans avoir auparavant posé aucune carte dans cette manche, votre score cumulé est **réduit** de 10 points.
 
-When the score of an individual player reaches 101 points or more, that player is out of the game, but he can be reincorporated *("reengancharse")* with the score of the player with the highest number of points at that moment. For each "reenganche" he must pay a predetermined amount to the pot. Each player is allowed a maximum of two "reenganches". After that, if the player goes over 100 again, they are eliminated and the game continues with the other players.
+Quand le score d'un joueur individuel atteint 101 points ou plus, ce joueur est éliminé de la partie, mais il peut se réintégrer *« reengancharse »* avec le score du joueur qui a le plus grand nombre de points à ce moment. Pour chaque « reenganche », il doit payer un montant prédéterminé au pot. Chaque joueur a droit à un maximum de deux « reenganches ». Après cela, si le joueur repasse au-dessus de 100, il est éliminé et le jeu continue avec les autres joueurs.
 
-The game ends when all players except one have been eliminated from the game. The last remaining player is the winner and collects all the players' initial stakes, plus the payments for any reenganches.
+La partie se termine quand tous les joueurs sauf un ont été éliminés du jeu. Le dernier joueur restant est le vainqueur et collecte toutes les mises initiales des joueurs, plus les paiements pour les reenganches.
 
-The game also ends if at the end of a round, all players except one have a cumulative score of more than 100. In that circumstance the player who has 100 or less is the winner; the other players have no opportunity for "reenganche" in this case.
+La partie se termine aussi si, à la fin d'une manche, tous les joueurs sauf un ont un score cumulé de plus de 100. Dans ce cas, le joueur qui en a 100 ou moins est le vainqueur ; les autres joueurs n'ont aucune occasion de « reenganche » dans ce cas.
 
-### Variations
+### Variantes
 
-Some players allow up to two jokers in each escalera. Also it is possible that some players require an escalera to contain at least four cards.
+Certains joueurs permettent jusqu'à deux jokers dans chaque escalera. Il est aussi possible que certains joueurs exigent qu'une escalera contienne au moins quatre cartes.
 
-Some allow a player to buy in (reengancharse) any number of times, but the cost increases each time. For example, if the initial stake is one unit for each player, then the first reenganche for each player costs 1. If a player gets knocked out a second time, and wants to reengancharse again, that costs 2 units, the third time costs 3, and so on. The count is kept separately for each player - after one player has bought in (say) the fourth time for 4, another player who is knocked out for the first time can still buy in for 1.
+Certains permettent à un joueur de se racheter (reengancharse) un nombre illimité de fois, mais le coût augmente à chaque fois. Par exemple, si la mise initiale est d'une unité par joueur, alors le premier reenganche de chaque joueur coûte 1. Si un joueur est éliminé une seconde fois et veut se reengancharse à nouveau, cela coûte 2 unités, la troisième fois coûte 3, et ainsi de suite. Le compte est tenu séparément pour chaque joueur — après qu'un joueur s'est racheté (disons) une quatrième fois pour 4, un autre joueur éliminé pour la première fois peut toujours se racheter pour 1.
 
-Some play that when the stock runs out, the cards in the discard pile, apart from its top card, are turned face down without shuffling to make a new stock. So from that point onwards, players with good memories will know what cards to expect from the stock.
+Certains jouent avec le talon épuisé : les cartes de la défausse, à part sa carte du dessus, sont retournées face cachée sans battre pour faire un nouveau talon. Ainsi, à partir de ce moment, les joueurs dotés d'une bonne mémoire sauront quelles cartes attendre du talon.
 
 ## Loba de Mas
 
-### Players, Cards and Deal
+### Joueurs, cartes et donne
 
-Loba de Mas can be played by from two to five players. Two standard 52-card packs plus four jokers are used - 108 cards in all.
+La Loba de Mas peut se jouer de deux à cinq joueurs. Deux jeux standard de 52 cartes plus quatre jokers sont utilisés — 108 cartes au total.
 
-Any player can deal first, and the turn to deal passes clockwise. 11 cards are dealt to each player. The remaine=der are stacked face down to form a stock pile.
+N'importe quel joueur peut donner en premier, et la donne passe dans le sens des aiguilles d'une montre. 11 cartes sont distribuées à chaque joueur. Le reste est empilé face cachée pour former un talon.
 
-### Piernas and Escaleras
+### Piernas et escaleras
 
-As in Loba de Menos, players try to put down Piernas and Escaleras, but in this game you score points for the combinations you put down. The rules about what cards are needed to form valid Piernas and Escaleras are similar to those in Loba de Menos, except for the use of jokers and wild cards. In Loba de Mas the jokers are wild, and the twos can be used either as natural twos or as wild cards.
+Comme dans la Loba de Menos, les joueurs essaient de poser des piernas et des escaleras, mais dans ce jeu, vous marquez des points pour les combinaisons que vous posez. Les règles sur les cartes nécessaires pour former des piernas et escaleras valides sont similaires à celles de la Loba de Menos, sauf pour l'usage des jokers et des cartes sauvages. Dans la Loba de Mas, les jokers sont sauvages, et les deux peuvent être utilisés soit comme deux naturels, soit comme cartes sauvages.
 
-Piernas consist of from 3 to 6 cards of the same rank in three different suits. They cannot include jokers or wild twos, but it is possible to make a Pierna consisting entirely of twos of three suits.
+Les piernas consistent en 3 à 6 cartes du même rang dans trois couleurs différentes. Elles ne peuvent pas inclure de jokers ni de deux sauvages, mais il est possible de faire une pierna consistant entièrement en deux de trois couleurs.
 
-Escaleras are sequences of from 3 to 13 cards in suit. They can contain any number of wild cards but cannot consist entirely of jokers. An escalera consisting of twos and jokers is OK, because one of the twos can be treated as natural, and the remaining wild cards form a sequence in that suit. Aces can be used as high (Q-K-A) or low (A-2-3).
+Les escaleras sont des séquences de 3 à 13 cartes en couleur. Elles peuvent contenir n'importe quel nombre de cartes sauvages mais ne peuvent pas consister entièrement en jokers. Une escalera consistant en deux et jokers est acceptable, parce que l'un des deux peut être traité comme naturel, et les cartes sauvages restantes forment une séquence dans cette couleur. Les as peuvent être utilisés en haut (D-R-A) ou en bas (A-2-3).
 
-### Play
+### Le jeu
 
-The play begins with the player to the dealer's left and continues clockwise. A player's turn consists of three parts:
+Le jeu commence avec le joueur à la gauche du donneur et continue dans le sens des aiguilles d'une montre. Le tour d'un joueur consiste en trois parties :
 
-- Either draw the top card of the face down stock or take the whole of the discard pile. In this game, the cards of the discard pile (which is known as the "pozo") are overlapped so that all their values are visible.
+- Soit piocher la carte du dessus du talon face cachée, soit prendre toute la défausse. Dans ce jeu, les cartes de la défausse (appelée le « pozo ») sont superposées de sorte que toutes leurs valeurs soient visibles.
 
-- Optionally play piernas and/or escaleras from your hand to the table, and/or add cards to combinations that you have put down in previous turns.
+- En option, jouer des piernas et/ou des escaleras de votre main sur la table, et/ou ajouter des cartes aux combinaisons que vous avez posées aux tours précédents.
 
-- Discard one card face up to the discard pile (pozo).
+- Défausser une carte face visible sur la défausse (pozo).
 
-Note that when taking the pozo, there is no requirement to put down or add to any combinations. You can simply take the pozo and discard a card. However, if the pozo consists of only one card, you cannot just take this card and discard it again. It would, however, be legal to take this card and discard the other card of the same suit and rank if you happened to hold it.
+Notez qu'en prenant le pozo, il n'y a aucune obligation de poser ou d'ajouter des combinaisons. Vous pouvez simplement prendre le pozo et défausser une carte. Cependant, si le pozo ne consiste qu'en une seule carte, vous ne pouvez pas simplement prendre cette carte et la défausser à nouveau. Il serait, en revanche, légal de prendre cette carte et de défausser l'autre carte de la même couleur et du même rang si vous vous trouviez la tenir.
 
-In Loba de Mas, cards cannot be added to other players' combinations, only to your own. As in Loba de Menos, when adding to an escalera, a wild card can be moved from one end to the other, but a wild card that is not at the end of an escalera cannot be moved.
+Dans la Loba de Mas, les cartes ne peuvent pas être ajoutées aux combinaisons d'autres joueurs, seulement aux vôtres. Comme dans la Loba de Menos, quand vous ajoutez à une escalera, une carte sauvage peut être déplacée d'une extrémité à l'autre, mais une carte sauvage qui n'est pas à l'extrémité d'une escalera ne peut pas être déplacée.
 
-The play continues until a player ends it by putting down all his cards in valid combinations, or by putting down all his cards but one and discarding his last card.
+Le jeu continue jusqu'à ce qu'un joueur y mette fin en posant toutes ses cartes en combinaisons valides, ou en posant toutes ses cartes sauf une et défaussant sa dernière carte.
 
-If the stock runs out, the play ends when the player who took the last stock card discards.
+Si le talon s'épuise, le jeu se termine quand le joueur qui a pris la dernière carte du talon défausse.
 
-### Scoring
+### Score
 
-The scores are based on the following card values.
+Les scores sont basés sur les valeurs de cartes suivantes.
 
-| Card | Positive value in combinations on the table | Negative value in hand |
-| Ace | 3 points in A-K-Q or A-A-A; 1 point in A-2-3 | 3 points each |
-| K, Q, J, 10, 9, 8 | 2 points each | 2 points each |
-| 7, 6, 5, 4, 3 | 1 point each | 1 point each |
-| Joker, 2 | 3 points used as A (high), K, Q, J, 10, 9, 81 point used as 7, 6, 5, 4, 3, 2, A (low) | 3 points each |
+| Carte | Valeur positive en combinaisons sur la table | Valeur négative en main |
+| As | 3 points en A-R-D ou A-A-A ; 1 point en A-2-3 | 3 points chacun |
+| R, D, V, 10, 9, 8 | 2 points chacun | 2 points chacun |
+| 7, 6, 5, 4, 3 | 1 point chacun | 1 point chacun |
+| Joker, 2 | 3 points utilisés comme A (haut), R, D, V, 10, 9, 8 ; 1 point utilisés comme 7, 6, 5, 4, 3, 2, A (bas) | 3 points chacun |
 
-Examples of positive scores for combinations:
+Exemples de scores positifs pour des combinaisons :
 
-- A-K-Q = 7 points
+- A-R-D = 7 points
 
-- A-2-Q = 8 points (using the 2 as a K)
+- A-2-D = 8 points (en utilisant le 2 comme R)
 
 - A-2-2 = 9 points
 
 - 2-2-2 = 3 points
 
-- 2-2-2-2-2-2-2 = 9 points (this is best scored as an escalera 2-3-4-5-6-7-8 so that the last 2 is worth 3 points)
+- 2-2-2-2-2-2-2 = 9 points (il vaut mieux compter ceci comme une escalera 2-3-4-5-6-7-8 pour que le dernier 2 vaille 3 points)
 
-- A-2-2-J = 11 points
+- A-2-2-V = 11 points
 
 - A-2-2-4 = 4 points
 
-- K-Q-2 = 7 points
+- R-D-2 = 7 points
 
-- K-2-2 = 8 points
+- R-2-2 = 8 points
 
-The player who goes out, getting rid of all his cards, scores all the combinations he has on the table a bonus of 5 points. If the stock runs out and no one has gone out, no one gets this 5-point bonus. The players who did not go out score for the combinations they have on the table less the cards in their hands (which may result in a negative score). Each player's score for the hand is added to their cumulative score.
+Le joueur qui sort, en se débarrassant de toutes ses cartes, marque un bonus de 5 points pour toutes les combinaisons qu'il a sur la table. Si le talon s'épuise et que personne n'est sorti, personne n'obtient ce bonus de 5 points. Les joueurs qui ne sont pas sortis marquent pour les combinaisons qu'ils ont sur la table moins les cartes de leurs mains (ce qui peut donner un score négatif). Le score de chaque joueur pour la main est ajouté à son score cumulé.
 
-A player who goes out by putting down all his cards (or all but one, plus a discard) at the same time, without having previously put down any combinations, scores a larger bonus of 5 points per player in the game - for example 15 points in a 3-player game or 20 points in a 4-player game.
+Un joueur qui sort en posant toutes ses cartes (ou toutes sauf une, plus une défausse) en même temps, sans avoir auparavant posé aucune combinaison, marque un bonus plus grand de 5 points par joueur dans la partie — par exemple 15 points dans une partie à 3 joueurs ou 20 points dans une partie à 4 joueurs.
 
-The game ends when one or more players have scored at least 150 points. If playing for money, each pair of players then settles up according to the difference between their scores.
+La partie se termine quand un ou plusieurs joueurs ont marqué au moins 150 points. Si on joue pour de l'argent, chaque paire de joueurs règle alors selon la différence entre leurs scores.
 
-Example with 4 players:
+Exemple avec 4 joueurs :
 
-- Player 1 has +160 points (wins 30 + 140 + 180, so wins 350 overall)
+- Joueur 1 a +160 points (gagne 30 + 140 + 180, donc gagne 350 au total)
 
-- Player 2 has +130 points (loses 30, wins 110 + 150, so wins 230 overall)
+- Joueur 2 a +130 points (perd 30, gagne 110 + 150, donc gagne 230 au total)
 
-- Player 3 has +20 points (loses 140 + 110, wins 40, so loses 210 overall) 
+- Joueur 3 a +20 points (perd 140 + 110, gagne 40, donc perd 210 au total)
 
-- Player 4 has -20 points (loses 180 + 150 + 40, so loses 370 overall)
+- Joueur 4 a -20 points (perd 180 + 150 + 40, donc perd 370 au total)
 
-Note that wins and losses should always balance.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Loba
+Notez que les gains et les pertes doivent toujours s'équilibrer.

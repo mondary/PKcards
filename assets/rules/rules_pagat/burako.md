@@ -1,102 +1,100 @@
 # Burako
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Rules for Burako, a four-player partnership game played in Argentina using a set of numbered tiles.
+**Type :** Rami
+**But :** Règles du Burako, un jeu d'équipes à quatre joueurs pratiqué en Argentine avec un jeu de tuiles numérotées.
 
 ---
 
 ## Introduction
 
-This page is about **Burako**, a Canasta-like game played in Argentina using a set of numbered tiles. Similar games are played with cards in other countries, and there are separate pages about:
+Cette page concerne le **Burako**, un jeu de type Canasta pratiqué en Argentine avec un jeu de tuiles numérotées. Des jeux similaires se jouent avec des cartes dans d'autres pays, et des pages séparées existent pour :
 
-- the card game Buraco played in Brazil
+- le jeu de cartes Buraco joué au Brésil
 
-- the card game Burraco played in Italy
+- le jeu de cartes Burraco joué en Italie
 
-**Buraco** originated in South America, probably in the 1940's. The game is in some ways similar to Samba, in that the aim is to meld combinations of seven or more cards that can be either **sets** of equal rank or **sequences** in a suit. Like several of the newer games of the Canasta family it also features a second hand of cards which is picked up by the first member of a partnership who disposes of all the cards from their first hand.
+**Buraco** est originaire d'Amérique du Sud, probablement des années 1940. Le jeu est par certains côtés semblable à la Samba, en ce que le but est d'étaler des combinaisons de sept cartes ou plus qui peuvent être des **ensembles** de même valeur ou des **séquences** dans une couleur. Comme plusieurs des jeux récents de la famille de la Canasta, il comporte aussi une seconde main de cartes qui est ramassée par le premier membre d'une équipe qui se débarrasse de toutes les cartes de sa première main.
 
-In Argentina, a version known as **Burako** is played with a set of tiles which are essentially the same type that are used in south-east Europe for rummy games, and in Turkey for Okey, and which have become available worldwide for Rummikub®. 
+En Argentine, une version connue sous le nom de **Burako** se joue avec un jeu de tuiles du même type que celles utilisées en Europe du Sud-Est pour les jeux de rami, et en Turquie pour l'Okey, et qui sont devenues disponibles dans le monde entier pour le Rummikub®.
 
-## Players and Tiles
+## Joueurs et tuiles
 
-Burako is played with a set of 106 **tiles**, consisting of two of each number from 1 to 13 in four colours: black, blue, red and yellow and two jokers (*comodín*). 
+Le Burako se joue avec un jeu de 106 **tuiles**, composé de deux de chaque nombre de 1 à 13 en quatre couleurs : noir, bleu, rouge et jaune, et deux jokers (*comodín*).
 
-There are four players in fixed partnerships, partners sitting opposite. The values of the tiles are as follows:
+Il y a quatre joueurs en équipes fixes, les partenaires assis en face l'un de l'autre. Les valeurs des tuiles sont les suivantes :
 
-| each comodín | 50 points |
-| each 2 | 20 points |
-| each 1 | 15 points |
-| each 8 to 13 | 10 points |
-| each 3 to 7 | 5 points |
+| chaque comodín | 50 points |
+| chaque 2 | 20 points |
+| chaque 1 | 15 points |
+| chaque 8 à 13 | 10 points |
+| chaque 3 à 7 | 5 points |
 
-## Deal
+## Donne
 
-The tiles are mixed face down on the table. Each player draws 11 tiles: these are placed on racks positioned so that players can see the faces of their own tiles but not those of other players. Two face-down stacks of 11 tiles *(muertos)* are put aside for the use of the first player from each team who runs out of tiles. The remaining 40 tiles are stacked face down in four piles of 10: these form the stock from which tiles will be drawn.
+Les tuiles sont mélangées face cachée sur la table. Chaque joueur pioche 11 tuiles : elles sont placées sur des râteaux positionnés de sorte que les joueurs voient les faces de leurs propres tuiles mais pas celles des autres joueurs. Deux piles face cachée de 11 tuiles *(muertos)* sont mises de côté à l'usage du premier joueur de chaque équipe qui épuise ses tuiles. Les 40 tuiles restantes sont empilées face cachée en quatre piles de 10 : elles forment le talon duquel les tuiles seront piochées.
 
-## Melds
+## Combinaisons
 
-The object is to score points by putting down tiles in valid melds. Each team keeps its melds face up in a single collection, and players may add tiles to extend melds made by either memeber of their team. There are two types of valid meld:
+Le but est de marquer des points en posant des tuiles dans des combinaisons valides. Chaque équipe garde ses combinaisons face visible en une seule collection, et les joueurs peuvent ajouter des tuiles pour étendre des combinaisons faites par l'un ou l'autre membre de leur équipe. Il y a deux types de combinaisons valides :
 
-- **Escalera**: a sequence of three of more consecutive numbers of the same colour, such as **8-9-10** or **2-3-4-5-6**. A one can be used as a low tile next to the 2 or a high tile next to the 13, but not in the middle of a sequence. 
+- **Escalera** : une séquence de trois nombres consécutifs ou plus de la même couleur, comme **8-9-10** ou **2-3-4-5-6**. Un 1 peut être utilisé comme tuile basse à côté du 2 ou comme tuile haute à côté du 13, mais pas au milieu d'une séquence.
 
-- **Pierna**: a set of three or more tiles of the same number, irrespective of colour, such as **12-12-12**.
+- **Pierna** : un ensemble de trois tuiles ou plus de même nombre, sans considération de couleur, comme **12-12-12**.
 
-A comodín or a two of any can be used as a wild tile to substitute for any tile in a meld. A meld cannot have more than one wild tile, but a sequence that has a two of the correct colour in its place can have also have a wild tile, which may be a comodín or another two. A meld without wild tiles is **pure** (*pura*): one that includes a wild tile is **impure** (*impura*). A meld of seven or more tiles is called a **canasta**.
+Un comodín ou un deux de n'importe quelle couleur peut être utilisé comme tuile sauvage pour remplacer n'importe quelle tuile d'une combinaison. Une combinaison ne peut pas avoir plus d'une tuile sauvage, mais une séquence qui a un deux de la bonne couleur à sa place peut aussi avoir une tuile sauvage, qui peut être un comodín ou un autre deux. Une combinaison sans tuile sauvage est **pure** (*pura*) ; une combinaison qui inclut une tuile sauvage est **impure** (*impura*). Une combinaison de sept tuiles ou plus s'appelle une **canasta**.
 
-## Play
+## Jeu
 
-Play is clockwise. The first player in the first game of a session is chosen at random. Thereafter the right to play first passes to the left after each hand.
+Le jeu se déroule dans le sens des aiguilles d'une montre. Le premier joueur de la première partie d'une séance est choisi au hasard. Ensuite, le droit de jouer en premier passe à la gauche après chaque manche.
 
-The first player draws a tile from the stock and may either 
+Le premier joueur pioche une tuile du talon et peut soit
 
-- keep this first tile, possibly put down some melds, and discard a different tile, or 
+- garder cette première tuile, éventuellement poser des combinaisons, et défausser une autre tuile, soit
 
-- discard this first tile, draw a second tile, possibly put down some melds, and discard a tile.
+- défausser cette première tuile, piocher une deuxième tuile, éventuellement poser des combinaisons, et défausser une tuile.
 
-Discarded tiles are placed face up on the table, near the stock piles. This special procedure applies only to the first player. All subsequent players must:
+Les tuiles défaussées sont placées face visible sur la table, près des piles de talon. Cette procédure spéciale ne s'applique qu'au premier joueur. Tous les joueurs suivants doivent :
 
-- either take a face-down tile from the stock or take **all** the face up discarded tiles from the table;
+- soit prendre une tuile face cachée du talon soit prendre **toutes** les tuiles défaussées face visible de la table ;
 
-- optionally put down some melds and/or add to melds already put down by the player's team;
+- éventuellement poser des combinaisons et/ou ajouter aux combinaisons déjà posées par leur équipe ;
 
-- discard one tile face up.
+- défausser une tuile face visible.
 
-The first player of each team who runs out of tiles picks up one of the *muertos* to make a new 11-tile hand. This can be done in the middle of a turn (*compra directa*), by melding all one's tiles, in which case the turn continues, or by discarding one's last tile (*compra indirecta*), in which case the *muerto* is picked up at the start of the player's next turn.
+Le premier joueur de chaque équipe qui épuise ses tuiles ramasse l'un des *muertos* pour former une nouvelle main de 11 tuiles. Cela peut se faire au milieu d'un tour (*compra directa*), en étalant toutes ses tuiles, auquel cas le tour continue, ou en défaussant sa dernière tuile (*compra indirecta*), auquel cas le *muerto* est ramassé au début du tour suivant du joueur.
 
-The play can end in two ways:
+Le jeu peut se terminer de deux façons :
 
-- a player whose team has taken its muerto and has melded at least one canasta goes out by running out of tiles;
+- un joueur dont l'équipe a pris son muerto et a étalé au moins une canasta sort en épuisant ses tuiles ;
 
-- the drawing stock is exhausted.
+- le talon de pioche est épuisé.
 
-The rules I have seen are not explicit about whether a final discard is required when going out, nor about exactly when the game ends if the stock runs out - for example whether the next player can take the tile discarded by the player who drew the last tile of the stock. If any players of burako can clarify these points, I hope they will let me know.
+Les règles que j'ai vues ne précisent pas si une défausse finale est requise pour sortir, ni exactement quand le jeu se termine si le talon s'épuise — par exemple si le joueur suivant peut prendre la tuile défaussée par le joueur qui a pioché la dernière tuile du talon. Si des joueurs de burako peuvent clarifier ces points, j'espère qu'ils me le feront savoir.
 
-## Scoring
+## Score
 
-When the play ends, both teams score as follows:
+Quand le jeu se termine, les deux équipes marquent comme suit :
 
-| tiles in melds on the table | plus tile value |
-| tiles in players' hands | minus tile value |
-| canasta pura (clean meld of 7+ tiles) | 200 points extra |
-| canasta impura (7+ card meld including wild tile) | 100 points extra |
-| for going out (closing) | 100 points extra |
-| if one team has not taken its muerto, that team scores | minus 100 points |
+| tuiles dans les combinaisons sur la table | plus la valeur des tuiles |
+| tuiles dans les mains des joueurs | moins la valeur des tuiles |
+| canasta pura (combinaison propre de 7 tuiles ou plus) | 200 points supplémentaires |
+| canasta impura (combinaison de 7 tuiles ou plus incluant une tuile sauvage) | 100 points supplémentaires |
+| pour être sorti (clôture) | 100 points supplémentaires |
+| si une équipe n'a pas pris son muerto, cette équipe marque | moins 100 points |
 
-If no one goes out, and the stock piles are exhausted before anyone has made a canasta, there is no score. If at least one canasta has been made, the hand is scored as above, without the 100-point going out bonus.
+Si personne ne sort et que les piles du talon sont épuisées avant que quiconque ait fait une canasta, il n'y a pas de score. Si au moins une canasta a été faite, la manche est comptée comme ci-dessus, sans le bonus de 100 points pour être sorti.
 
-When a team reaches a score of 3000 points or more, the game ends and the team with the higher score wins.
+Quand une équipe atteint un score de 3000 points ou plus, la partie se termine et l'équipe avec le score le plus élevé gagne.
 
-## Variations
+## Variantes
 
-Some score 500 points for a pure canasta and 300 for an impure one.
+Certains marquent 500 points pour une canasta pure et 300 pour une impure.
 
-It is possible, though less interesting, for two people to play using the same rules. In this case each player begins with 12 or 15 tiles, according to agreement.
+Il est possible, quoique moins intéressant, que deux personnes jouent avec les mêmes règles. Dans ce cas, chaque joueur commence avec 12 ou 15 tuiles, selon l'accord.
 
-## Other Argentine Burako pages
+## Autres pages sur le Burako argentin
 
-Rules of Burako in Spanish can be found on the [Reglas y Reglamentos](https://www.reglasdel.com/2011/03/burako.html) site and on the [Anacomas](https://web.archive.org/web/20250208121244/http://www.acanomas.com/Reglamentos-Juegos-de-Tablero/059/Burako.htm) site (archive copy). 
+Les règles du Burako en espagnol se trouvent sur le site [Reglas y Reglamentos](https://www.reglasdel.com/2011/03/burako.html) et sur le site [Anacomas](https://web.archive.org/web/20250208121244/http://www.acanomas.com/Reglamentos-Juegos-de-Tablero/059/Burako.htm) (copie d'archive).
 
-You can play Burako online at [Conecta Games](https://burako.conectagames.com/games/burako).
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Burako
+Vous pouvez jouer au Burako en ligne sur [Conecta Games](https://burako.conectagames.com/games/burako).

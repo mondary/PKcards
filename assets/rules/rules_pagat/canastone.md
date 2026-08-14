@@ -2,222 +2,220 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Also known as Canastone.
+**Type :** Rami
+**But :** Aussi connue sous le nom de Canastone.
+**Autres noms :** Canastone, Canasta italienne
 
 ---
 
 ## Introduction
 
-**Canastone** (meaning 'Large Canasta') is a three-pack version of Canasta played in Italy, and sometimes known in English as **Italian Canasta**. It differs from classic Canasta in several ways. For example in each turn a player draws either two cards from the stock or the whole discard pile plus one card from the stock. At the start of the game the discard pile contains a number of extra cards determined by the turned up card. There are special bonuses for completing canastas of wild cards and canastas of Aces. 
+La **Canastone** (ce qui signifie « Grande Canasta ») est une version à trois jeux de la Canasta pratiquée en Italie, parfois connue en anglais sous le nom d'**Italian Canasta** (Canasta italienne). Elle diffère de la Canasta classique de plusieurs façons. Par exemple, à chaque tour, un joueur pioche soit deux cartes au talon soit toute la défausse plus une carte au talon. Au début du jeu, la défausse contient un certain nombre de cartes supplémentaires déterminé par la carte retournée. Des bonus spéciaux sont attribués pour compléter des canastas de cartes sauvages et des canastas d'as.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite each other. Deal and play are clockwise.
+Il y a quatre joueurs en équipes fixes, les partenaires assis en face l'un de l'autre. La donne et le jeu se déroulent dans le sens des aiguilles d'une montre.
 
-A pack of 162 cards is used, made up of three standard 52-card packs plus six Jokers. Because it is only the colours of the cards, red or black, that are significant and not the actual suits, it is sometimes played with [special cards](https://www.cartaepiu.it/gioco-passatempo/11168-carte-gioco-dal-negro-canasta-lusso-8001097900275.html) that show red discs instead of hearts and diamonds and black discs instead of spades and clubs.
+Un paquet de 162 cartes est utilisé, composé de trois jeux standard de 52 cartes plus six jokers. Comme seules les couleurs des cartes, rouge ou noir, importent et non les couleurs réelles, on joue parfois avec des [cartes spéciales](https://www.cartaepiu.it/gioco-passatempo/11168-carte-gioco-dal-negro-canasta-lusso-8001097900275.html) qui montrent des disques rouges à la place des cœurs et des carreaux et des disques noirs à la place des piques et des trèfles.
 
-- All Jokers (known as *mattoni*) and Twos (known as *pinelle*) are **wild cards**. 
+- Tous les jokers (connus sous le nom de *mattoni*) et tous les deux (connus sous le nom de *pinelle*) sont des **cartes sauvages**.
 
-- **Threes** have special functions - see below.
+- Les **trois** ont des fonctions spéciales — voir ci-dessous.
 
-- The other cards A, K, Q, J, 10, 9, 8, 7, 6, 5, 4 are **natural cards**.
+- Les autres cartes A, R, D, V, 10, 9, 8, 7, 6, 5, 4 sont des **cartes naturelles**.
 
-The individual cards have values as follows:
+Les cartes individuelles ont des valeurs comme suit :
 
 | Joker | 50 |
-| Two, Ace | 20 |
-| K, Q, J, 10, 9, 8 | 10 |
+| Deux, As | 20 |
+| R, D, V, 10, 9, 8 | 10 |
 | 7, 6, 5, 4 | 5 |
-| Black 3 | 5 |
-| Red 3 | see scoring |
+| 3 noir | 5 |
+| 3 rouge | voir le score |
 
-## Melds
+## Combinaisons
 
-As in all forms of Canasta, the aim of each team is to score points by putting down 'melds' consisting of sets of 3 or more cards of equal rank, laid out face up on the table. The melds, also known as columns since the cards of each meld are normally stored in an overlapping column, are the property of a team, not an individual player. Once a meld has been begun, either partner can add further cards of the same rank to it, but a player can never add cards to a meld belonging to the opposing team. 
+Comme dans toutes les formes de Canasta, le but de chaque équipe est de marquer des points en posant des « combinaisons » consistant en des ensembles de 3 cartes ou plus de même valeur, disposés face visible sur la table. Les combinaisons, aussi appelées colonnes puisque les cartes de chaque combinaison sont normalement rangées en colonne superposée, sont la propriété d'une équipe, pas d'un joueur individuel. Une fois qu'une combinaison a été commencée, chaque partenaire peut y ajouter d'autres cartes de même valeur, mais un joueur ne peut jamais ajouter de cartes à une combinaison appartenant à l'équipe adverse.
 
-In meld of **natural** cards, wild cards can be included as substitutes for the required rank. However there must always be more natural cards than wild cards, and a meld of a natural rank can never contain more than two wild cards. So a 3-card or 4-card meld natural meld can include one wild card (for example 7-7-2) and a natural meld of 5 or more cards can include one or two wild cards (for example K-K-K-2-Joker). A meld without wild cards is known as pure or **clean** (*pulito*), while a meld containing natural and wild cards is impure, mixed or **dirty** (*sporco*).
+Dans une combinaison de cartes **naturelles**, des cartes sauvages peuvent être incluses comme substituts de la valeur requise. Cependant, il doit toujours y avoir plus de cartes naturelles que de cartes sauvages, et une combinaison d'une valeur naturelle ne peut jamais contenir plus de deux cartes sauvages. Ainsi, une combinaison naturelle de 3 ou 4 cartes peut inclure une carte sauvage (par exemple 7-7-2) et une combinaison naturelle de 5 cartes ou plus peut inclure une ou deux cartes sauvages (par exemple R-R-R-2-Joker). Une combinaison sans carte sauvage est connue comme pure ou **propre** (*pulito*), tandis qu'une combinaison contenant des cartes naturelles et sauvages est impure, mixte ou **sale** (*sporco*).
 
-A meld of seven (or more) cards is known as a **canasta** and scores a bonus for the team. The cards are squared up with a red card on top of the pile if it is clean or a (natural) black card if it is dirty. The owners of the canasta can add further natural cards of the same rank by placing them under the pile, but wild cards cannot be added to a canasta.
+Une combinaison de sept cartes (ou plus) est connue comme une **canasta** et rapporte un bonus à l'équipe. Les cartes sont rangées en carré, une carte rouge sur le dessus de la pile si elle est propre ou une carte (naturelle) noire si elle est sale. Les propriétaires de la canasta peuvent ajouter d'autres cartes naturelles de même valeur en les plaçant sous la pile, mais les cartes sauvages ne peuvent pas être ajoutées à une canasta.
 
-It is also possible to put down a meld consisting entirely of **wild** cards (Twos and Jokers), but this commits the team to try to complete a canasta of (at least) seven wild cards. A team that has a meld of fewer than 7 wild cards on the table is not allowed to go out, and cannot use wild cards for any other purpose except to add to this meld. They cannot add a wild card to any other meld or discard a wild card to freeze the pile (see below). A wild card canasta that either consists entirely of Twos or all contains all six Jokers (with one Two) is considered clean. A wild card canasta that contains from 1 to 5 Jokers is considered dirty. A smaller meld of wild cards is clean only if it can be extended to a make a clean canasta. So a wild card meld is dirty if it contains two or more Twos and one or more Jokers.
+Il est aussi possible de poser une combinaison consistant entièrement en cartes **sauvages** (deux et jokers), mais cela engage l'équipe à tenter de compléter une canasta d'(au moins) sept cartes sauvages. Une équipe qui a une combinaison de moins de 7 cartes sauvages sur la table n'est pas autorisée à sortir et ne peut utiliser les cartes sauvages à aucune autre fin qu'ajouter à cette combinaison. Elle ne peut ni ajouter une carte sauvage à une autre combinaison ni défausser une carte sauvage pour geler la pile (voir ci-dessous). Une canasta de cartes sauvages qui consiste entièrement en deux ou qui contient tous les six jokers (avec un deux) est considérée comme propre. Une canasta de cartes sauvages contenant de 1 à 5 jokers est considérée comme sale. Une plus petite combinaison de cartes sauvages n'est propre que si elle peut être étendue pour faire une canasta propre. Ainsi, une combinaison de cartes sauvages est sale si elle contient deux deux ou plus et un joker ou plus.
 
-A team cannot have more than one meld of the same rank. Once a meld of a particular rank has been started, any further cards of that rank laid down by that team must be added to that same meld. (So for example a team that has a dirty meld of 9-9-2 cannot subsequently begin a separate clean meld of Nines in the hope of completing a clean canasta - the two Nines melds would be combined into a single dirty meld).
+Une équipe ne peut pas avoir plus d'une combinaison de même valeur. Une fois qu'une combinaison d'une valeur particulière a été commencée, toutes les cartes de cette valeur posées ensuite par cette équipe doivent être ajoutées à cette même combinaison. (Ainsi, par exemple, une équipe qui a une combinaison sale 9-9-2 ne peut pas commencer ensuite une combinaison propre séparée de Neufs dans l'espoir de compléter une canasta propre — les deux combinaisons de Neufs seraient réunies en une seule combinaison sale).
 
-A card, whether natural or wild, that has been placed in a meld can never be moved to a different meld or taken back into a player's hand.
+Une carte, qu'elle soit naturelle ou sauvage, une fois placée dans une combinaison ne peut jamais être déplacée vers une autre combinaison ni reprise dans la main d'un joueur.
 
-**Threes** cannot be melded in sets in the usual way. Individual red Threes are laid out alongside a team's melds and affect the score. Black Threes can never be melded: they can only be disposed of by discarding them. 
+Les **trois** ne peuvent pas être étalés en ensembles de la manière habituelle. Les trois rouges individuels sont posés à côté des combinaisons d'une équipe et affectent le score. Les trois noirs ne peuvent jamais être étalés : ils ne peuvent être éliminés qu'en les défaussant.
 
-## Deal
+## Donne
 
-If not arranged in advance the partnerships are decided by drawing cards from the shuffled deck - the two players drawing highest cards playing against the two who draw the lowest. The player who draws the highest card will play first, and the player to this player's right is the first dealer. Subsequently, the turn to deal passes to the left after each hand.
+Si elles ne sont pas arrangées à l'avance, les équipes sont décidées en tirant des cartes du paquet mélangé — les deux joueurs tirant les cartes les plus hautes jouant contre les deux qui tirent les plus basses. Le joueur qui tire la carte la plus haute jouera en premier, et le joueur à la droite de ce joueur est le premier donneur. Ensuite, le tour de donner passe à la gauche après chaque manche.
 
-The dealer shuffles the deck, gives the cards to the right-hand opponent to cut, and then deals the cards one at a time, giving each player a hand of 15 cards. The dealer places the next card face up on the table to begin the **discard pile **(*pozzo*). If it is a Three or wild card, a second and if necessary a third card is placed face up on top of it until a natural card is found. If the first three cards are all wild cards or Threes, the deal is annulled: the cards are gathered up, shuffled, cut and dealt again by the same dealer. The dealer then deals a packet of extra cards face down and adds them to the discard pile, sliding them underneath the face up card(s). The number of cards in this face down packet is determined by the rank of the natural face up card: 14 cards for an Ace, 13 for a King, 12 for a Queen, 11 for a Jack, 10 for a Ten, and so on down to 4 cards for a Four. These unknown extra cards will be acquired by the first player who takes the discard pile. If any of the face up cards dealt to the initial discard pile is a Two or Joker, it is turned sideways, protruding from the pile, to indicate that the pile is frozen.
+Le donneur bat le paquet, le donne à couper à l'adversaire de droite, puis distribue les cartes une à une, donnant à chaque joueur une main de 15 cartes. Le donneur place la carte suivante face visible sur la table pour commencer la **défausse** (*pozzo*). Si c'est un trois ou une carte sauvage, une deuxième et si nécessaire une troisième carte est placée face visible par-dessus jusqu'à ce qu'une carte naturelle soit trouvée. Si les trois premières cartes sont toutes des cartes sauvages ou des trois, la donne est annulée : les cartes sont ramassées, battues, coupées et redistribuées par le même donneur. Le donneur distribue ensuite un paquet de cartes supplémentaires face cachée et les ajoute à la défausse, en les glissant sous la/les carte(s) face visible. Le nombre de cartes de ce paquet face cachée est déterminé par la valeur de la carte naturelle face visible : 14 cartes pour un as, 13 pour un roi, 12 pour une dame, 11 pour un valet, 10 pour un dix, et ainsi de suite jusqu'à 4 cartes pour un quatre. Ces cartes supplémentaires inconnues seront acquises par le premier joueur qui prendra la défausse. Si l'une des cartes face visible données à la défausse initiale est un deux ou un joker, elle est tournée sur le côté, dépassant de la pile, pour indiquer que la pile est gelée.
 
-The remainder of the pack is stacked face down beside the discard pile. This is the **stock pile** (*tallone*), from which cards will be drawn during the play.
+Le reste du paquet est empilé face cachée à côté de la défausse. C'est le **talon** (*tallone*), duquel les cartes seront piochées pendant le jeu.
 
-Before the play begins, any players who have been dealt any red Threes must place them face up in their teams' meld area, and the dealer gives them an equal number of replacement cards so that everyone begins with a hand of 15 cards without red Threes. This is done in clockwise order around the table, beginning with the player to dealer's left. 
+Avant que le jeu commence, les joueurs ayant reçu des trois rouges doivent les placer face visible dans la zone de combinaisons de leur équipe, et le donneur leur donne un nombre égal de cartes de remplacement afin que chacun commence avec une main de 15 cartes sans trois rouges. Cela se fait dans le sens des aiguilles d'une montre autour de la table, en commençant par le joueur à la gauche du donneur.
 
-## Play
+## Jeu
 
-The players take turns to play in clockwise order, beginning with the player to dealer's left.
+Les joueurs jouent à tour de rôle dans le sens des aiguilles d'une montre, en commençant par le joueur à la gauche du donneur.
 
-A player whose team has not yet put down its opening meld has two possibilities.
+Un joueur dont l'équipe n'a pas encore posé sa combinaison d'ouverture a deux possibilités.
 
-- A player who has the necessary cards in hand to form an opening meld may **open** for the team by putting down this meld and then continue by taking a normal turn.
+- Un joueur qui a en main les cartes nécessaires pour former une combinaison d'ouverture peut **ouvrir** pour l'équipe en posant cette combinaison, puis continuer en prenant un tour normal.
 
-- A player who cannot or does not wish to open must draw the top **two** cards from the stock, add them to hand, put down any red Threes drawn and replace them with new cards from the stock, and finally end their turn by discarding any one card from hand face up on top of the discard pile.
+- Un joueur qui ne peut pas ou ne souhaite pas ouvrir doit piocher les **deux** cartes du dessus du talon, les ajouter à sa main, poser les trois rouges piochés et les remplacer par de nouvelles cartes du talon, et enfin terminer son tour en défaussant une carte quelconque de la main, face visible, sur le dessus de la défausse.
 
-Note that in this version of Canasta, a team's opening meld can only put down as the **first** action of a player's turn, before any cards are taken from the stock or discard pile. If it is only after drawing from the stock that the player is able to satisfy the opening meld requirements, the player must wait until their next turn to put down the meld.
+Notez que dans cette version de la Canasta, la combinaison d'ouverture d'une équipe ne peut être posée que comme **première** action d'un tour de joueur, avant que des cartes soient prises au talon ou à la défausse. Si ce n'est qu'après avoir pioché au talon que le joueur peut satisfaire aux exigences de la combinaison d'ouverture, le joueur doit attendre son tour suivant pour poser la combinaison.
 
-Once a team has meld on the table then further options are available. The opening meld could have been put down by the current player at the start of this turn or on a previous turn, or by the player's partner. Note that red Threes do not count as meld for this purpose. The turn of a player whose team has opened consists of the following steps.
+Une fois qu'une équipe a une combinaison sur la table, d'autres options sont disponibles. La combinaison d'ouverture peut avoir été posée par le joueur actuel au début de ce tour ou à un tour précédent, ou par le partenaire du joueur. Notez que les trois rouges ne comptent pas comme combinaison à cet effet. Le tour d'un joueur dont l'équipe a ouvert consiste en les étapes suivantes.
 
-- Either 
+- Soit
 
-- draw the top **two** cards from the stock, or
+- piocher les **deux** cartes du dessus du talon, ou
 
-- lay down two natural cards that match the rank of the top card of the discard pile (three natural cards are required if the discard pile is frozen - see below), add this top discard to these matching cards to form a new meld or add these cards to an existing meld of the same rank, take the whole of the rest of the discard pile into hand, and **in addition** draw **one** card from the top of the stock. (If this card is a red Three it must be laid out and replaced by another card drawn from stock.)
+- poser deux cartes naturelles qui correspondent à la valeur de la carte du dessus de la défausse (trois cartes naturelles sont requises si la défausse est gelée — voir ci-dessous), ajouter cette carte du dessus de la défausse à ces cartes correspondantes pour former une nouvelle combinaison ou ajouter ces cartes à une combinaison existante de même valeur, prendre toute la reste de la défausse en main, et **de plus** piocher **une** carte du dessus du talon. (Si cette carte est un trois rouge, il doit être posé et remplacé par une autre carte piochée au talon.)
 
-- Optionally, put down new melds for the team or add cards to the team's existing melds, in accordance with the melding rules above.
+- Éventuellement, poser de nouvelles combinaisons pour l'équipe ou ajouter des cartes aux combinaisons existantes de l'équipe, conformément aux règles d'étalage ci-dessus.
 
-- Discard one card face up on top of the discard pile.
+- Défausser une carte face visible sur le dessus de la défausse.
 
-The first player who takes the discard pile will acquire as part of it the packet of 4 to 14 face down cards that was placed there during the deal. Any red Threes in this packed must immediately be laid out alongside the team's meld, but in this case only the red Threes are **not** replaced with cards from the talon. 
+Le premier joueur qui prend la défausse acquerra avec elle le paquet de 4 à 14 cartes face cachée placé là pendant la donne. Les trois rouges de ce paquet doivent immédiatement être posés à côté des combinaisons de l'équipe, mais dans ce cas seulement, les trois rouges ne sont **pas** remplacés par des cartes du talon.
 
-## Opening Meld
+## Combinaison d'ouverture
 
-A team's first meld must be put down by one member of the team as the first action of their turn, before drawing any cards. It will consist of one or more valid melds of three or more cards, and the total value of the cards in these melds must meet a minimum point requirement which depends on the team's cumulative score at the start of play as follows.
+La première combinaison d'une équipe doit être posée par un membre de l'équipe comme première action de son tour, avant de piocher des cartes. Elle consistera en une ou plusieurs combinaisons valides de trois cartes ou plus, et la valeur totale des cartes de ces combinaisons doit satisfaire à une exigence minimale en points qui dépend du score cumulé de l'équipe au début du jeu comme suit.
 
-| Team score | Minimum Opening
-Meld Value |
-| less than 3000 | 50 |
+| Score de l'équipe | Valeur minimale de la combinaison d'ouverture |
+| moins de 3000 | 50 |
 | 3000-4995 | 90 |
 | 5000-6995 | 120 |
 | 7000-9995 | 160 |
 | 10000-11995 | 180 |
-| 12000 or more * | 200 |
+| 12000 ou plus * | 200 |
 
-* The last row of the table is of course relevant only if the game is played to a target of more than 12000 points.
+* La dernière ligne du tableau n'est bien sûr pertinente que si le jeu se joue jusqu'à un objectif de plus de 12000 points.
 
-When the minimum is 50 there is an additional requirement that opening meld must consist only of pure melds - for example Q-Q-Q, 5-5-5-5 gives a value of 50 points. When the requirement is 90 or higher, dirty melds can be included - for example A-A-Joker for an opening meld of 90.
+Quand le minimum est 50, il y a une exigence supplémentaire : la combinaison d'ouverture doit consister uniquement en combinaisons pures — par exemple D-D-D, 5-5-5-5 donne une valeur de 50 points. Quand l'exigence est de 90 ou plus, des combinaisons sales peuvent être incluses — par exemple A-A-Joker pour une ouverture de 90.
 
-It is only the values of the individual cards in the opening meld that are added to satisfy the opening meld requirement. Canasta bonuses do not count towards the requirement even if the opening meld includes a complete canasta: neither do the values of red Threes that the team may already have laid out.
+Seules les valeurs des cartes individuelles de la combinaison d'ouverture sont additionnées pour satisfaire à l'exigence d'ouverture. Les bonus de canasta ne comptent pas pour l'exigence, même si la combinaison d'ouverture inclut une canasta complète ; pas plus que les valeurs des trois rouges que l'équipe a pu déjà poser.
 
-It is possible within a single turn for a player to put down an opening meld and then in addition expose two or three natural cards which enable the player also to take the discard pile and draw a card from the stock. The player may then use these newly acquired cards to extend the opening melds and add new melds. However, in this case neither the cards laid down to claim the discard pile nor any of the extra cards thereby obtained can be counted towards the opening meld requirement. The minimum value must be reached using complete melds from the player's hand at the start of the turn. 
+Il est possible, en un seul tour, qu'un joueur pose une combinaison d'ouverture puis expose en plus deux ou trois cartes naturelles qui lui permettent aussi de prendre la défausse et de piocher une carte au talon. Le joueur peut ensuite utiliser ces cartes nouvellement acquises pour étendre les combinaisons d'ouverture et ajouter de nouvelles combinaisons. Cependant, dans ce cas, ni les cartes posées pour réclamer la défausse ni aucune des cartes supplémentaires ainsi obtenues ne peuvent compter pour l'exigence d'ouverture. La valeur minimale doit être atteinte en utilisant des combinaisons complètes de la main du joueur au début du tour.
 
-## Threes
+## Trois
 
-**Black Threes** cannot be melded. When a black Three is on top of the discard pile the pile cannot be taken, and for this reason black Threes are sometimes called "stop cards". However, this stop effect only lasts for one turn. When the black Three is covered by the next player's discard, it no longer has any influence. Black Threes in players' hands at the end of the play count 5 points each against the team holding them.
+Les **trois noirs** ne peuvent pas être étalés. Quand un trois noir est sur le dessus de la défausse, la pile ne peut pas être prise, et pour cette raison les trois noirs sont parfois appelés « cartes stop ». Cependant, cet effet stop ne dure qu'un tour. Quand le trois noir est recouvert par la défausse du joueur suivant, il n'a plus aucune influence. Les trois noirs dans les mains des joueurs à la fin du jeu comptent 5 points chacun contre l'équipe qui les détient.
 
-**Red Threes** must be placed on the table in the team's meld area as soon as they are acquired. They give the team a bonus or a penalty, depending what canastas the team manages to complete before the end of the play. They are not regarded as meld, and do not count for or against the points required for a team's opening meld. Red Threes obtained in the deal or drawn from the stock pile are immediately replaced by drawing new cards from the stock. Red Threes obtained from the discard pile (only possible for the first player who takes the pile since they cannot be discarded) are laid out as usual but not replaced. 
+Les **trois rouges** doivent être placés sur la table dans la zone de combinaisons de l'équipe dès qu'ils sont acquis. Ils donnent à l'équipe un bonus ou une pénalité, selon les canastas que l'équipe parvient à compléter avant la fin du jeu. Ils ne sont pas considérés comme des combinaisons et ne comptent ni pour ni contre les points requis pour la combinaison d'ouverture d'une équipe. Les trois rouges obtenus à la donne ou piochés au talon sont immédiatement remplacés en piochant de nouvelles cartes au talon. Les trois rouges obtenus de la défausse (seulement possible pour le premier joueur qui prend la pile puisqu'ils ne peuvent pas être défaussés) sont posés comme d'habitude mais pas remplacés.
 
-## Frozen Discard Pile
+## Défausse gelée
 
-If the discard pile contains a face up Two or Joker it is said to be **frozen** (*gelato*). This effect continues even after other cards are discarded on top of the wild card. Wild cards are placed sideways in the discard pile, so that players can see that the pile is frozen even when the wild card is buried within the pile. 
+Si la défausse contient un deux ou un joker face visible, elle est dite **gelée** (*gelato*). Cet effet continue même après que d'autres cartes sont défaussées par-dessus la carte sauvage. Les cartes sauvages sont placées de côté dans la défausse, afin que les joueurs puissent voir que la pile est gelée même quand la carte sauvage est enfouie dans la pile.
 
-When the pile is frozen, **three** (instead of two) natural cards matching the top card are needed to take it. As usual the player places the three cards face up, adds the top card of the discard pile to them to make a meld, and then takes the rest of the discard pile into hand (including the wild card(s) in it, and **also** draws the top card from the stock pile. The player may then meld further cards, and finally discards a card to end their turn.
+Quand la pile est gelée, **trois** (au lieu de deux) cartes naturelles correspondant à la carte du dessus sont nécessaires pour la prendre. Comme d'habitude, le joueur pose les trois cartes face visible, ajoute la carte du dessus de la défausse pour faire une combinaison, puis prend le reste de la défausse en main (y compris la/les carte(s) sauvage(s) qu'elle contient) et **aussi** pioche la carte du dessus du talon. Le joueur peut alors étaler d'autres cartes et défausse finalement une carte pour terminer son tour.
 
-If a player discards a wild card, this stops the next player from taking the pile (since the pile can only be taking by matching a natural card that is on top of the pile), and also freezes the pile for all subsequent players. The discard pile may also be frozen at the start of the game if when forming the discard pile the dealer turned up a wild card before finding a natural card. Obviously wild cards in the face down packet of cards placed under the discard pile at the start of the game do **not** freeze the pile, since no one knows what cards are in this packet until a player takes the pile. 
+Si un joueur défausse une carte sauvage, cela empêche le joueur suivant de prendre la pile (car la pile ne peut être prise qu'en assortissant une carte naturelle qui est sur le dessus de la pile) et gèle aussi la pile pour tous les joueurs suivants. La défausse peut aussi être gelée au début du jeu si, en formant la défausse, le donneur a retourné une carte sauvage avant de trouver une carte naturelle. Évidemment, les cartes sauvages dans le paquet face cachée placé sous la défausse au début du jeu ne **gèlent** pas la pile, puisque personne ne sait quelles cartes se trouvent dans ce paquet avant qu'un joueur ne prenne la pile.
 
-## End of the Play
+## Fin du jeu
 
-The play ends when a player completes their turn by discarding the only remaining card from their hand, leaving them with no cards. This is known as **closing** (*chiusura*). A player is only allowed to close the play if the following conditions are met:
+Le jeu se termine quand un joueur achève son tour en défaussant la seule carte restante de sa main, se retrouvant sans cartes. Cela s'appelle la **clôture** (*chiusura*). Un joueur n'est autorisé à clôturer le jeu que si les conditions suivantes sont remplies :
 
-- The closing player's team must have completed at least one clean and one dirty canasta.
+- L'équipe du joueur qui clôture doit avoir complété au moins une canasta propre et une canasta sale.
 
-- The closing player's team cannot have a wild card meld with fewer than seven cards.
+- L'équipe du joueur qui clôture ne peut pas avoir une combinaison de cartes sauvages de moins de sept cartes.
 
-- The closing player's final discard cannot be a wild card or a Three.
+- La défausse finale du joueur qui clôture ne peut pas être une carte sauvage ou un trois.
 
-A player who is able to close the play is permitted (but not required) to ask partner's permission before doing so. In this case, the partner's response is binding. If a player asks for permission to close and partner says yes the player must close, but if partner says no the player is not allowed to close on this turn. On a future turn the same player is free to ask again, or to close without asking.
+Un joueur capable de clôturer le jeu a le droit (mais pas l'obligation) de demander la permission de son partenaire avant de le faire. Dans ce cas, la réponse du partenaire est contraignante. Si un joueur demande la permission de clôturer et que le partenaire dit oui, le joueur doit clôturer, mais si le partenaire dit non, le joueur n'est pas autorisé à clôturer à ce tour. À un tour futur, le même joueur est libre de redemander ou de clôturer sans demander.
 
-A player who cannot satisfy the conditions above is not allowed to close, and must therefore keep at least two cards in hand after melding, one to discard and at least one to continue play. 
+Un joueur qui ne peut pas satisfaire aux conditions ci-dessus n'est pas autorisé à clôturer et doit donc garder au moins deux cartes en main après avoir étalé, une à défausser et au moins une pour continuer à jouer.
 
-Note that a discard is required at the end of every turn, including the turn on which a player closes. A player is not permitted to close by melding all their cards: they must always keep a card to discard, and when closing this final card must be a natural card.
+Notez qu'une défausse est requise à la fin de chaque tour, y compris au tour où un joueur clôture. Un joueur n'est pas autorisé à clôturer en étalant toutes ses cartes : il doit toujours garder une carte à défausser, et en clôturant, cette dernière carte doit être une carte naturelle.
 
-The play also ends if the stock is exhausted - specifically if it contains only one card or no cards at all at the start of a player's turn, since the player would then be unable to draw two cards.
+Le jeu se termine aussi si le talon est épuisé — précisément s'il ne contient qu'une seule carte ou plus aucune au début du tour d'un joueur, puisque le joueur serait alors incapable de piocher deux cartes.
 
-In the rare case where a player draws the last two cards of the stock and one of these cards is a red Three, the red Three is placed face up as usual and then, since there is no replacement card that can be drawn from the stock, the play immediately ends. The player who drew the red Three is not allowed to meld nor discard. 
+Dans le cas rare où un joueur pioche les deux dernières cartes du talon et que l'une d'elles est un trois rouge, le trois rouge est placé face visible comme d'habitude puis, comme aucune carte de remplacement ne peut être piochée au talon, le jeu se termine immédiatement. Le joueur qui a pioché le trois rouge n'est autorisé ni à étaler ni à défausser.
 
-## Scoring
+## Score
 
-When the play ends, each team scores positive **points for the cards** they have melded and negative points for any cards remaining in their hands. The values were given above in the section Players and Cards. If a team has not made their opening meld before the play ends the values of the cards in their hands are doubled and scored as negative points. 
+Quand le jeu se termine, chaque équipe marque des points **positifs pour les cartes** qu'elle a étalées et des points négatifs pour les cartes restant dans ses mains. Les valeurs ont été données ci-dessus dans la section Joueurs et cartes. Si une équipe n'a pas fait sa combinaison d'ouverture avant la fin du jeu, les valeurs des cartes de ses mains sont doublées et marquées en points négatifs.
 
-In addition, **bonus points** are scored for complete canastas and by the team that closed the game. The bonus scores are as follows:
+De plus, des **points de bonus** sont marqués pour les canastas complètes et par l'équipe qui a clôturé le jeu. Les scores de bonus sont les suivants :
 
-| For the team that closed the play | 300 |
-| For each dirty canasta (4 to King) | 300 |
-| For each clean canasta (4 to King) | 500 |
-| For a dirty canasta of Aces | 500 |
-| For a clean canasta of Aces | 1000 |
-| For a dirty wild canasta (1 to 5 Jokers with Twos) | 2000 |
-| For a clean canasta of seven Twos | 3000 |
-| For a clean canasta of 6 Jokers and 1 Two | 5000 |
-| Extra bonus for completing 5 canastas (clean and dirty) | 1000 |
-| Or: extra bonus for completing 5 clean + 1 dirty canasta | 2000 |
+| Pour l'équipe qui a clôturé le jeu | 300 |
+| Pour chaque canasta sale (4 au Roi) | 300 |
+| Pour chaque canasta propre (4 au Roi) | 500 |
+| Pour une canasta sale d'as | 500 |
+| Pour une canasta propre d'as | 1000 |
+| Pour une canasta sauvage sale (1 à 5 jokers avec des deux) | 2000 |
+| Pour une canasta propre de sept deux | 3000 |
+| Pour une canasta propre de 6 jokers et 1 deux | 5000 |
+| Bonus supplémentaire pour avoir complété 5 canastas (propres et sales) | 1000 |
+| Ou : bonus supplémentaire pour avoir complété 5 canastas propres + 1 sale | 2000 |
 
-Notes:
+Notes :
 
-- If the play ends because the stock is exhausted, neither team scores the 300 points for closing.
+- Si le jeu se termine parce que le talon est épuisé, aucune équipe ne marque les 300 points pour la clôture.
 
-- All canasta bonuses are in addition to the scores for the individual cards that make up the canasta. 
+- Tous les bonus de canasta s'ajoutent aux scores des cartes individuelles qui composent la canasta.
 
-- The extra bonuses for 5 or more canastas are additional to the bonuses for the individual canastas. A team with at least 5 canastas including at least one clean and one dirty scores 1000 points. A team with at least 5 clean canastas **plus** at least one dirty canasta scores 2000 points **instead of** 1000.
+- Les bonus supplémentaires pour 5 canastas ou plus s'ajoutent aux bonus des canastas individuelles. Une équipe avec au moins 5 canastas incluant au moins une propre et une sale marque 1000 points. Une équipe avec au moins 5 canastas propres **plus** au moins une canasta sale marque 2000 points **au lieu de** 1000.
 
-**Red Threes** may score positive or negative points depending on the canastas completed by the team. The basic score for each red Three laid out is 100 points. This is affected by the number of red Threes that the team has, and their canastas as follows.
+Les **trois rouges** peuvent marquer des points positifs ou négatifs selon les canastas complétées par l'équipe. Le score de base pour chaque trois rouge posé est de 100 points. Ce score est affecté par le nombre de trois rouges que l'équipe possède et ses canastas comme suit.
 
-- If the team has completed at least one clean and one dirty canasta their score for any red Threes is **positive**.
+- Si l'équipe a complété au moins une canasta propre et une canasta sale, son score pour les trois rouges est **positif**.
 
-- If the team has completed at least one clean canasta but no dirty canasta they **do not score** for red Threes.
+- Si l'équipe a complété au moins une canasta propre mais aucune canasta sale, elle **ne marque pas** pour les trois rouges.
 
-- If the team has completed at least one dirty canasta but no clean canasta their score for any red Threes is **negative**.
+- Si l'équipe a complété au moins une canasta sale mais aucune canasta propre, son score pour les trois rouges est **négatif**.
 
-- If the team has not completed any canastas at all, their score for any red Threes is **negative and doubled**.
+- Si l'équipe n'a complété aucune canasta du tout, son score pour les trois rouges est **négatif et doublé**.
 
-- If a team has laid out four or more red Threes, their score for them, positive or negative, is **doubled**.
+- Si une équipe a posé quatre trois rouges ou plus, son score pour eux, positif ou négatif, est **doublé**.
 
-So for example a team that has a clean and a dirty canasta scores +300 for three red Threes. For four red Threes they would score +800. A team with no canastas scores -600 for three red Threes. For four red Threes they would score -1600.
+Ainsi, par exemple, une équipe qui a une canasta propre et une canasta sale marque +300 pour trois trois rouges. Pour quatre trois rouges, elle marquerait +800. Une équipe sans canastas marque -600 pour trois trois rouges. Pour quatre trois rouges, elle marquerait -1600.
 
-It is not possible to avoid a penalty score for red Threes by keeping them in hand - they must be laid out as soon as they are received. For any red Three found in a player's hand when the play ends, the team scores -500 points.
+Il n'est pas possible d'éviter une pénalité pour les trois rouges en les gardant en main — ils doivent être posés dès qu'ils sont reçus. Pour chaque trois rouge trouvé dans la main d'un joueur à la fin du jeu, l'équipe marque -500 points.
 
-The total score for the deal is added to the team's cumulative score. In some cases a team's score for a deal can be negative, and this can result in a negative cumulative score.
+Le score total de la donne est ajouté au score cumulé de l'équipe. Dans certains cas, le score d'une équipe pour une donne peut être négatif, ce qui peut résulter en un score cumulé négatif.
 
-The game ends when one or both teams have a cumulative score of 12000 or more. At that point the team with the higher score wins the game, and the margin of victory is the difference between the scores. 
+Le jeu se termine quand l'une ou les deux équipes ont un score cumulé de 12000 ou plus. À ce moment, l'équipe avec le score le plus élevé gagne la partie, et la marge de victoire est la différence entre les scores.
 
-## Variations
+## Variantes
 
-Canastone can be played by 6 people using the same rules as above. There are two teams of three players, each player sitting between two opponents.
+La Canastone peut se jouer à 6 personnes avec les mêmes règles que ci-dessus. Il y a deux équipes de trois joueurs, chaque joueur étant assis entre deux adversaires.
 
-The rules above are typical, so far as we know, but there are numerous variations. For example:
+Les règles ci-dessus sont typiques, pour autant que nous le sachions, mais il existe de nombreuses variantes. Par exemple :
 
-- Some play that the opening meld must consist always entirely of clean melds, even when the requirement is higher than 50 points.
+- Certains jouent que la combinaison d'ouverture doit toujours consister entièrement en combinaisons propres, même quand l'exigence est supérieure à 50 points.
 
-- Some play that a team that has a negative cumulative score has no minimum opening meld requirement - or equivalently that the minimum is 15, since this is the lowest possible value of a meld.
+- Certains jouent qu'une équipe avec un score cumulé négatif n'a pas d'exigence minimale de combinaison d'ouverture — ou, de façon équivalente, que le minimum est 15, puisque c'est la valeur la plus basse possible d'une combinaison.
 
-- Some play that an opening meld that includes a pure Joker meld (for example 2-Joker-Joker or Joker-Joker-Joker), called an *apertura di mattoni*, imposes a constraint on the opposing team. The sources are not completely clear, but it seems for one round (i.e. until the opener's next turn) the opponents are not allowed to open with a pure Joker meld and take the discard pile. Presumably they can take the discard pile if they open using other combinations, and they can open with a pure Joker meld provided that they do not take the pile.
+- Certains jouent qu'une combinaison d'ouverture qui inclut une combinaison de jokers purs (par exemple 2-Joker-Joker ou Joker-Joker-Joker), appelée *apertura di mattoni*, impose une contrainte à l'équipe adverse. Les sources ne sont pas entièrement claires, mais il semble que pendant un tour (c'est-à-dire jusqu'au tour suivant de l'ouvreur) les adversaires ne sont pas autorisés à ouvrir avec une combinaison de jokers purs et à prendre la défausse. Vraisemblablement, ils peuvent prendre la défausse s'ils ouvrent avec d'autres combinaisons, et ils peuvent ouvrir avec une combinaison de jokers purs à condition de ne pas prendre la pile.
 
-- Some allow the value of the top card of the discard pile and the cards used to take it to be counted towards a team's opening meld requirement.
+- Certains permettent que la valeur de la carte du dessus de la défausse et des cartes utilisées pour la prendre compte pour l'exigence de combinaison d'ouverture d'une équipe.
 
-- Some play that you cannot take the discard pile if its top card matches the value of one of your team's canastas. So cards that match your opponents' canastas act essentially like black Threes if you discard them. Of course the opponents will be able to add them to their canastas if they eventually take the pile containing these cards.
+- Certains jouent qu'on ne peut pas prendre la défausse si sa carte du dessus correspond à la valeur d'une des canastas de son équipe. Ainsi, les cartes qui correspondent aux canastas des adversaires agissent essentiellement comme des trois noirs si vous les défaussez. Bien sûr, les adversaires pourront les ajouter à leurs canastas s'ils finissent par prendre la pile contenant ces cartes.
 
-- Some play to a target score of 15000 instead of 12000.
+- Certains jouent avec un objectif de score de 15000 au lieu de 12000.
 
-- Some allow players to hold red Threes in their hand, and to discard them instead of laying them out. A discarded red Three blocks the pile for one turn in the same way as a black Three. As mentioned above, any red Threes found in a player's hand when the play ends count -500 points for the team.
+- Certains autorisent les joueurs à garder les trois rouges en main et à les défausser au lieu de les poser. Un trois rouge défaussé bloque la pile pendant un tour de la même manière qu'un trois noir. Comme mentionné ci-dessus, les trois rouges trouvés dans la main d'un joueur à la fin du jeu comptent -500 points pour l'équipe.
 
-- Some allow a player to close the play by melding all their cards, with no final discard.
+- Certains autorisent un joueur à clôturer le jeu en étalant toutes ses cartes, sans défausse finale.
 
-- Some play that a team must have two clean canastas in order to be allowed to close the play.
+- Certains jouent qu'une équipe doit avoir deux canastas propres pour être autorisée à clôturer le jeu.
 
-- Some do not allow a player to consult partner about whether to close the play.
+- Certains n'autorisent pas un joueur à consulter son partenaire sur la décision de clôturer le jeu.
 
-- Some do not recognise the extra bonuses for having 5 canastas.
+- Certains ne reconnaissent pas les bonus supplémentaires pour avoir 5 canastas.
 
-## References
+## Références
 
-E. Fantini & C.E. Santelia:* [I Giochi di Carte](https://amzn.to/2LcdWD5)* (Rizzoli, Milano, 1997)
+E. Fantini & C.E. Santelia :* [I Giochi di Carte](https://amzn.to/2LcdWD5)* (Rizzoli, Milano, 1997)
 
-Benito Carobene:* Il Grande Libro dei Giochi con le Carte* (Da Vecche, Milano, 2006)
+Benito Carobene :* Il Grande Libro dei Giochi con le Carte* (Da Vecche, Milano, 2006)
 
-G. Farina & A. Lamberto: *Enciclopedia delle Carte* (Ulrico Hoepli, Milano, 2006)
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Canasta > Canastone
+G. Farina & A. Lamberto : *Enciclopedia delle Carte* (Ulrico Hoepli, Milano, 2006)

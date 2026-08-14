@@ -2,278 +2,277 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A popular rummy card game played in Arab countries of the Middle East.
+**Type :** Rami
+**But :** Un jeu de rami populaire joué dans les pays arabes du Moyen-Orient.
+**Autres noms :** Hand Rummy, هاند ريمي
 
 ---
 
-*This page is based on information from Sultan Ratrout*.
+*Cette page est basée sur des informations de Sultan Ratrout*.
 
 ## Introduction
 
-Hand is a popular Rummy game played in Arab countries in the Middle East. This page describes the form played in Jordan, Lebanon and Palestine, with notes at the end on other known variants. 
+Le Hand est un jeu de rami populaire joué dans les pays arabes du Moyen-Orient. Cette page décrit la forme jouée en Jordanie, au Liban et en Palestine, avec des remarques à la fin sur d'autres variantes connues.
 
-As in all Rummy games the objective is, by drawing and discarding, to collect groups and sequences of cards. These combinations can be placed on the table as "melds". The round ends when a player wins by disposing of all the cards from their hand by placing them in melds and discarding their final card. The term "hand", which gives its name to the game, refers to the case where a player melds all their cards in one turn.
+Comme dans tous les jeux de rami, l'objectif est, en piochant et en défaussant, de collecter des groupes et des séquences de cartes. Ces combinaisons peuvent être posées sur la table sous forme de « melds » (poses). La manche se termine lorsqu'un joueur gagne en se débarrassant de toutes les cartes de sa main en les posant en combinaisons et en défaussant sa dernière carte. Le terme « hand » (main), qui donne son nom au jeu, désigne le cas où un joueur pose toutes ses cartes en une seule fois.
 
-The game is played for penalty points. At the end of a round the winner's opponents add penalty points for the cards remaining in their hands, while the winner is rewarded by subtracting some points from their score. The objective is to have the lowest score at the end of seven rounds.
+Le jeu se joue avec des points de pénalité. À la fin d'une manche, les adversaires du vainqueur ajoutent des points de pénalité pour les cartes restant dans leurs mains, tandis que le vainqueur est récompensé en soustrayant quelques points de son score. L'objectif est d'avoir le score le plus bas à la fin de sept manches.
 
-## Players and Cards
+## Joueurs et cartes
 
-Hand can be played by 2, 3 or 4 players playing as individuals, or by 4 players in fixed partnerships with partners sitting opposite each other. 
+Le Hand peut se jouer à 2, 3 ou 4 joueurs en individuel, ou à 4 joueurs en équipes fixes avec les partenaires assis en face l'un de l'autre.
 
-It is played with 2 standard international 52-card packs and 2 jokers (106 cards in total). The two Jokers or two of the Aces are used as wild cards, as explained below. 
+Il se joue avec 2 jeux internationaux standard de 52 cartes et 2 jokers (106 cartes au total). Les deux jokers ou deux des as servent de cartes sauvages, comme expliqué ci-dessous.
 
-The cards have point values, which are used to check that a player's first meld meets the minimum requirement of 51 points, and count as penalty points for cards remaining in a player's hand at the end of the play. The values of the natural cards are A=11, K=10, Q=10, J=10, pip cards (10 to 2) face value. The value of wild cards varies and is explained below.
+Les cartes ont des valeurs en points, qui servent à vérifier que la première combinaison d'un joueur atteint le minimum requis de 51 points, et comptent comme points de pénalité pour les cartes restant dans la main d'un joueur à la fin du jeu. Les valeurs des cartes naturelles sont A=11, R=10, D=10, V=10, cartes à points (10 à 2) valeur nominale. La valeur des cartes sauvages varie et est expliquée ci-dessous.
 
-Deal and play are counter-clockwise.
+La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre.
 
-## Melds
+## Combinaisons
 
-Each player has an area in front of them in the table for melding cards. During their turn, players may meld valid combinations of three or more cards from their hand by placing them face up in their own area. After they have put down their first meld they can also add cards to any melds on the table, in their own area or other players' areas. 
+Chaque joueur dispose d'une zone de table devant lui pour poser des combinaisons. Pendant leur tour, les joueurs peuvent poser des combinaisons valides de trois cartes ou plus depuis leur main en les plaçant face visible dans leur propre zone. Après avoir posé leur première combinaison, ils peuvent aussi ajouter des cartes à toute combinaison de la table, dans leur propre zone ou dans celles des autres joueurs.
 
-There are two types of meld: sequences (runs) and groups (sets).
+Il existe deux types de combinaisons : les séquences (suites) et les groupes.
 
-A **sequence** (or run) consists of three or more consecutive cards of the same suit. The Ace can be either the highest or the lowest card of a suit, but not both in the same sequence. So an Ace can be at the top end of a run next to the King or at the bottom end next to the Two, but an Ace cannot be in the interior of a sequence (K-A-2) and it is not possible to have a sequence of more than 13 cards. Examples of valid sequences are ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)3, ![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J, and ![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A. It is customary to arrange the cards of a melded sequence in ascending order in a row from left to right as seen by the player and some players insist on this.
+Une **séquence** (ou suite) consiste en trois cartes consécutives ou plus de la même couleur. L'as peut être la carte la plus haute ou la plus basse d'une couleur, mais pas les deux dans la même séquence. Ainsi, un as peut se trouver en haut d'une suite à côté du roi, ou en bas à côté du deux, mais un as ne peut pas être à l'intérieur d'une séquence (R-A-2) et il est impossible d'avoir une séquence de plus de 13 cartes. Des exemples de séquences valides sont ![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)2-![trèfle](../images/internat/club.gif)3, ![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)V, et ![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)R-![pique](../images/internat/spade.gif)A. Il est d'usage d'arranger les cartes d'une séquence posée en ordre croissant sur une rangée de gauche à droite comme les voit le joueur, et certains joueurs insistent pour cela.
 
-A **group** (or set) consists of three or four cards of the same rank and different suits. Valid examples would be ![diamond](../images/internat/diamond.gif)5-![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)5 or ![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![club](../images/internat/club.gif)Q-![diamond](../images/internat/diamond.gif)Q. A set cannot contain two identical cards - for example ![heart](../images/internat/heart.gif)9-![spade](../images/internat/spade.gif)9-![heart](../images/internat/heart.gif)9 would not be valid. 
+Un **groupe** consiste en trois ou quatre cartes de même rang et de couleurs différentes. Des exemples valides seraient ![carreau](../images/internat/diamond.gif)5-![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)5 ou ![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![trèfle](../images/internat/club.gif)D-![carreau](../images/internat/diamond.gif)D. Un groupe ne peut pas contenir deux cartes identiques — par exemple ![cœur](../images/internat/heart.gif)9-![pique](../images/internat/spade.gif)9-![cœur](../images/internat/heart.gif)9 ne serait pas valide.
 
-### Initial Meld
+### Première combinaison
 
-Each player's first meld in each round must consist of valid sequences and groups whose cards have a total value of **at least 51 points**. For this purpose Aces count 11, kings, Queens and Jacks 10 each, and cards from 10 to 2 face value. Note that an Ace is always worth 11 even when used in the sequence A-2-3. So for example the following is a valid initial meld: ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5, ![heart](../images/internat/heart.gif)9-![spade](../images/internat/spade.gif)9-![diamond](../images/internat/diamond.gif)9 (11+2+3+4+5+9+9+9=52).
+La première combinaison de chaque joueur à chaque manche doit consister en séquences et groupes valides dont les cartes ont une valeur totale d'au moins **51 points**. Pour cela, les as comptent 11, les rois, dames et valets 10 chacun, et les cartes de 10 à 2 leur valeur nominale. Notez qu'un as vaut toujours 11, même utilisé dans la séquence A-2-3. Ainsi par exemple, la première combinaison suivante est valide : ![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)2-![carreau](../images/internat/diamond.gif)3-![carreau](../images/internat/diamond.gif)4-![carreau](../images/internat/diamond.gif)5, ![cœur](../images/internat/heart.gif)9-![pique](../images/internat/spade.gif)9-![carreau](../images/internat/diamond.gif)9 (11+2+3+4+5+9+9+9=52).
 
-After a player has laid down their initial meld they can in the same or a later turn add cards to their own meld and to melds belonging to other players (their opponents' melds and their partner's melds) in such a way that each meld remains valid. The next consecutive card of the same suit can be added to either end of a sequence or the fourth card can be added to a group of three. They can also put down additional melds of their own irrespective of point value. 
+Après avoir posé sa première combinaison, un joueur peut, au même tour ou à un tour ultérieur, ajouter des cartes à sa propre combinaison et aux combinaisons appartenant à d'autres joueurs (celles de leurs adversaires et celles de leur partenaire) de telle sorte que chaque combinaison reste valide. La carte consécutive suivante de la même couleur peut être ajoutée à l'une ou l'autre extrémité d'une séquence, ou la quatrième carte peut être ajoutée à un groupe de trois. Ils peuvent aussi poser d'autres combinaisons de leur cru, sans égard à la valeur en points.
 
-**Exception**. If a player who has not yet melded is able to get rid all their cards **in a single turn** by forming melds and possibly adding some cards to other players' melds, they are allowed to do so even if the value of the melds they put down is less than 51.
+**Exception.** Si un joueur qui n'a pas encore posé de combinaison parvient à se débarrasser de toutes ses cartes **en un seul tour** en formant des combinaisons et éventuellement en ajoutant des cartes aux combinaisons d'autres joueurs, il y est autorisé même si la valeur des combinaisons qu'il pose est inférieure à 51.
 
-## Wild Cards
+## Cartes sauvages
 
-The wild cards are determined during the deal by an indicator card placed face up on the table. The wild card indicator cannot be a Joker. If the card initially revealed as the indicator card is a Joker, it is buried in the middle of the stock pile and the top card of the stock is turned up is a new indicator card.
+Les cartes sauvages sont déterminées pendant la donne par une carte indicateur placée face visible sur la table. L'indicateur de carte sauvage ne peut pas être un joker. Si la carte révélée initialement comme indicateur est un joker, elle est enfouie au milieu du talon et la carte du dessus du talon est retournée comme nouvel indicateur.
 
-- If the wild card indicator is not an Ace, the two Aces of the same suit as the indicator are the wild cards. In this case the two Jokers are used as the natural Aces of the indicator suit. For example if the wild card indicator is the ![club](../images/internat/club.gif)8 then the Aces of clubs are wild and the Jokers are used exactly as though they were natural Aces of clubs.
+- Si l'indicateur de carte sauvage n'est pas un as, les deux as de la même couleur que l'indicateur sont les cartes sauvages. Dans ce cas, les deux jokers servent d'as naturels de la couleur de l'indicateur. Par exemple, si l'indicateur de carte sauvage est le ![trèfle](../images/internat/club.gif)8, alors les as de trèfle sont sauvages et les jokers sont utilisés exactement comme s'ils étaient des as naturels de trèfle.
 
-- If the wild card indicator is an Ace, then the two Jokers are the wild cards, and all the Aces are natural cards, including the Ace of the same suit as the indicator.
+- Si l'indicateur de carte sauvage est un as, alors les deux jokers sont les cartes sauvages, et tous les as sont des cartes naturelles, y compris l'as de la même couleur que l'indicateur.
 
-A player may use one wild card in any meld to replace any natural card. It is not possible to use both wild cards in the same meld.
+Un joueur peut utiliser une carte sauvage dans n'importe quelle combinaison pour remplacer une carte naturelle. Il n'est pas possible d'utiliser les deux cartes sauvages dans la même combinaison.
 
-**Examples**, with ![club](../images/internat/club.gif)7 as the indicator card, so that the ![club](../images/internat/club.gif)A is wild;
+**Exemples**, avec ![trèfle](../images/internat/club.gif)7 comme carte indicateur, de sorte que le ![trèfle](../images/internat/club.gif)A est sauvage ;
 
-- ![diamond](../images/internat/diamond.gif)7-![club](../images/internat/club.gif)A-![diamond](../images/internat/diamond.gif)9 is then a valid sequence, with the ![club](../images/internat/club.gif)A representing the missing ![diamond](../images/internat/diamond.gif)8.
+- ![carreau](../images/internat/diamond.gif)7-![trèfle](../images/internat/club.gif)A-![carreau](../images/internat/diamond.gif)9 est alors une séquence valide, le ![trèfle](../images/internat/club.gif)A représentant le ![carreau](../images/internat/diamond.gif)8 manquant.
 
-- ![spade](../images/internat/spade.gif)5-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)A is a valid group with the wild ![club](../images/internat/club.gif)A representing the two missing fives. 
+- ![pique](../images/internat/spade.gif)5-![trèfle](../images/internat/club.gif)5-![trèfle](../images/internat/club.gif)A est un groupe valide, avec le ![trèfle](../images/internat/club.gif)A sauvage représentant les deux cinq manquants.
 
-- ![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-Joker is a valid sequence. Here the wild ![club](../images/internat/club.gif)A represents the ![club](../images/internat/club.gif)Q and the Joker functions as a natural ![club](../images/internat/club.gif)A.
+- ![trèfle](../images/internat/club.gif)V-![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)R-joker est une séquence valide. Ici, le ![trèfle](../images/internat/club.gif)A sauvage représente la ![trèfle](../images/internat/club.gif)D et le joker fonctionne comme un ![trèfle](../images/internat/club.gif)A naturel.
 
-- ![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A is also valid, using the ![club](../images/internat/club.gif)A as a wild card representing the ![club](../images/internat/club.gif)A.
+- ![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A est aussi valide, utilisant le ![trèfle](../images/internat/club.gif)A comme carte sauvage représentant le ![trèfle](../images/internat/club.gif)A.
 
-- However, ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A is **not** a valid sequence, because a combination cannot contain more than one wild card and the ![club](../images/internat/club.gif)A is wild.
+- Cependant, ![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A n'est **pas** une séquence valide, parce qu'une combinaison ne peut pas contenir plus d'une carte sauvage et le ![trèfle](../images/internat/club.gif)A est sauvage.
 
-- ![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)A-![heart](../images/internat/heart.gif)A-Joker is a valid natural set of four Aces.
+- ![pique](../images/internat/spade.gif)A-![carreau](../images/internat/diamond.gif)A-![cœur](../images/internat/heart.gif)A-joker est un groupe naturel valide de quatre as.
 
-- ![club](../images/internat/club.gif)A-![heart](../images/internat/heart.gif)A-Joker is also valid. Here the natural club Ace is already present in the form of a Joker, so the wild club Ace represents the other Aces, the ![diamond](../images/internat/diamond.gif)A and the ![spade](../images/internat/spade.gif)A, and the natural versions of either of these can be added to the group later.
+- ![trèfle](../images/internat/club.gif)A-![cœur](../images/internat/heart.gif)A-joker est aussi valide. Ici, l'as naturel de trèfle est déjà présent sous la forme d'un joker, donc l'as de trèfle sauvage représente les autres as, le ![carreau](../images/internat/diamond.gif)A et le ![pique](../images/internat/spade.gif)A, et les versions naturelles de l'un ou l'autre peuvent être ajoutées au groupe plus tard.
 
-**Examples**, with the ![club](../images/internat/club.gif)A as the indicator card. This is easier: both Jokers are now wild and the other cards are all natural.
+**Exemples**, avec le ![trèfle](../images/internat/club.gif)A comme carte indicateur. C'est plus simple : les deux jokers sont maintenant sauvages et les autres cartes sont toutes naturelles.
 
-- ![diamond](../images/internat/diamond.gif)7-Joker-![diamond](../images/internat/diamond.gif)9 is a valid sequence.
+- ![carreau](../images/internat/diamond.gif)7-joker-![carreau](../images/internat/diamond.gif)9 est une séquence valide.
 
-- ![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)5-Joker is a valid group, with the Joker representing the two missing fives. 
+- ![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)5-joker est un groupe valide, le joker représentant les deux cinq manquants.
 
-- ![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)5-![club](../images/internat/club.gif)A is not valid now, because the club Ace is just a natural Ace, not a wild card.
+- ![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)5-![trèfle](../images/internat/club.gif)A n'est pas valide maintenant, parce que l'as de trèfle est juste un as naturel, pas une carte sauvage.
 
-### Value of Wild Cards
+### Valeur des cartes sauvages
 
-When a wild card is used in a player's initial meld the value of the wild card is equal to the value of the natural card it represents. So for example if ![spade](../images/internat/spade.gif)Q is the wild card indicator, ![heart](../images/internat/heart.gif)5-![spade](../images/internat/spade.gif)A-![heart](../images/internat/heart.gif)7 is worth just 18 points, counting 6 for the wild Ace in this case.
+Quand une carte sauvage est utilisée dans la première combinaison d'un joueur, sa valeur est égale à la valeur de la carte naturelle qu'elle représente. Ainsi par exemple si la ![pique](../images/internat/spade.gif)D est l'indicateur de carte sauvage, ![cœur](../images/internat/heart.gif)5-![pique](../images/internat/spade.gif)A-![cœur](../images/internat/heart.gif)7 vaut seulement 18 points, comptant 6 pour l'as sauvage dans ce cas.
 
-If a wild card is placed at one end of a sequence, its position determines what card it represents and therefore its value. Still with ![spade](../images/internat/spade.gif)Q as the wild card indicator, the sequence ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![spade](../images/internat/spade.gif)A counts as 29 for the purpose of an initial meld, whereas ![spade](../images/internat/spade.gif)A-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10 is worth only 27.
+Si une carte sauvage est placée à l'une des extrémités d'une séquence, sa position détermine la carte qu'elle représente et donc sa valeur. Toujours avec la ![pique](../images/internat/spade.gif)D comme indicateur de carte sauvage, la séquence ![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10-![pique](../images/internat/spade.gif)A compte pour 29 pour une première combinaison, alors que ![pique](../images/internat/spade.gif)A-![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10 ne vaut que 27.
 
-A wild card in a three-card group has a value equal to one natural card of that group. So for example with ![spade](../images/internat/spade.gif)Q as the wild card indicator, the group ![spade](../images/internat/spade.gif)7-![diamond](../images/internat/diamond.gif)7-![spade](../images/internat/spade.gif)A is worth 21 points, the same as a natural group of three sevens. The wild ![spade](../images/internat/spade.gif)A is worth 7 points (not 14) here, even though it may be thought of as replacing both missing sevens.
+Une carte sauvage dans un groupe de trois cartes a une valeur égale à une carte naturelle de ce groupe. Ainsi, par exemple, avec la ![pique](../images/internat/spade.gif)D comme indicateur de carte sauvage, le groupe ![pique](../images/internat/spade.gif)7-![carreau](../images/internat/diamond.gif)7-![pique](../images/internat/spade.gif)A vaut 21 points, comme un groupe naturel de trois sept. L'as sauvage ![pique](../images/internat/spade.gif)A vaut 7 points ici (pas 14), même s'il peut être considéré comme remplaçant les deux sept manquants.
 
-A wild card remaining in a player's hand at the end of the play has a value of 15 points.
+Une carte sauvage restant dans la main d'un joueur à la fin du jeu a une valeur de 15 points.
 
-### Replacing Wild Cards
+### Remplacer les cartes sauvages
 
-A player who has already put down their initial meld and who holds the natural card(s) represented by a wild card in their own meld or another player's meld can replace the wild card with the corresponding natural card(s) from their hand during their turn.
+Un joueur qui a déjà posé sa première combinaison et qui détient la ou les cartes naturelles représentées par une carte sauvage dans sa propre combinaison ou dans celle d'un autre joueur peut remplacer la carte sauvage par la ou les cartes naturelles correspondantes de sa main pendant son tour.
 
-- A wild card in a **sequence** can be replaced by the natural card corresponding to its position. For example if the sequence ![diamond](../images/internat/diamond.gif)7-wild-![diamond](../images/internat/diamond.gif)9 is on the table a player who holds a ![diamond](../images/internat/diamond.gif)8 can place it in the sequence and take the wild card in exchange. 
+- Une carte sauvage dans une **séquence** peut être remplacée par la carte naturelle correspondant à sa position. Par exemple, si la séquence ![carreau](../images/internat/diamond.gif)7-sauvage-![carreau](../images/internat/diamond.gif)9 est sur la table, un joueur qui détient un ![carreau](../images/internat/diamond.gif)8 peut le placer dans la séquence et récupérer la carte sauvage en échange.
 
-- In a **group** consisting of two equal cards and a wild card, the wild card can be replaced by the **two** natural cards of the same rank in the missing suits, creating a four-card group. For example if the group ![spade](../images/internat/spade.gif)5-![club](../images/internat/club.gif)5-wild is on the table, a player who holds **both** a ![heart](../images/internat/heart.gif)5 **and** a ![diamond](../images/internat/diamond.gif)5 can place these **two** cards in the group and take the wild card in exchange.
+- Dans un **groupe** consistant en deux cartes égales et une carte sauvage, la carte sauvage peut être remplacée par les **deux** cartes naturelles du même rang dans les couleurs manquantes, créant un groupe de quatre cartes. Par exemple, si le groupe ![pique](../images/internat/spade.gif)5-![trèfle](../images/internat/club.gif)5-sauvage est sur la table, un joueur qui détient **à la fois** un ![cœur](../images/internat/heart.gif)5 **et** un ![carreau](../images/internat/diamond.gif)5 peut placer ces **deux** cartes dans le groupe et récupérer la carte sauvage en échange.
 
-- In a **group** consisting of three equal cards and a wild card, the wild card can be replaced by the natural card of the missing suit. For example if the group ![spade](../images/internat/spade.gif)K-![heart](../images/internat/heart.gif)K-![diamond](../images/internat/diamond.gif)K-wild is on the table, the holder of a ![club](../images/internat/club.gif)K can place it in the group and take the wild card in exchange.
+- Dans un **groupe** consistant en trois cartes égales et une carte sauvage, la carte sauvage peut être remplacée par la carte naturelle de la couleur manquante. Par exemple, si le groupe ![pique](../images/internat/spade.gif)R-![cœur](../images/internat/heart.gif)R-![carreau](../images/internat/diamond.gif)R-sauvage est sur la table, le détenteur d'un ![trèfle](../images/internat/club.gif)R peut le placer dans le groupe et récupérer la carte sauvage en échange.
 
-The player who takes the wild card can reuse it as part of an existing meld on the table or in a new meld with cards from hand, or can keep the wild card in their hand for later use.
+Le joueur qui récupère la carte sauvage peut la réutiliser comme partie d'une combinaison existante sur la table ou dans une nouvelle combinaison avec des cartes de la main, ou peut garder la carte sauvage dans sa main pour un usage ultérieur.
 
-Note that melds on the table cannot be manipulated or rearranged. In particular it is not possible to move a wild card from one place to another unless the player first replaces the wild card with the appropriate natural card(s) from hand. For example if the sequence ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-wild is on the table, a player who holds a ![club](../images/internat/club.gif)7 is not allowed to add it to the sequence, treating the wild card as a ![club](../images/internat/club.gif)8. Since the wild card was originally placed as a ![club](../images/internat/club.gif)J it must remain in that position unless and until it is replaced by a real ![club](../images/internat/club.gif)J. However, a player who holds **both** a ![club](../images/internat/club.gif)J **and** a ![club](../images/internat/club.gif)7 could first exchange the ![club](../images/internat/club.gif)J for the wild card and then add the wild card and the ![club](../images/internat/club.gif)7 to the lower end of the sequence. 
+Notez que les combinaisons de la table ne peuvent pas être manipulées ou réarrangées. En particulier, il n'est pas possible de déplacer une carte sauvage d'un endroit à un autre à moins que le joueur ne remplace d'abord la carte sauvage par la ou les cartes naturelles appropriées de sa main. Par exemple, si la séquence ![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10-sauvage est sur la table, un joueur qui détient un ![trèfle](../images/internat/club.gif)7 n'est pas autorisé à l'ajouter à la séquence, en traitant la carte sauvage comme un ![trèfle](../images/internat/club.gif)8. Comme la carte sauvage a été placée à l'origine comme un ![trèfle](../images/internat/club.gif)V, elle doit rester dans cette position à moins et jusqu'à ce qu'elle soit remplacée par un vrai ![trèfle](../images/internat/club.gif)V. Cependant, un joueur qui détient **à la fois** un ![trèfle](../images/internat/club.gif)V **et** un ![trèfle](../images/internat/club.gif)7 pourrait d'abord échanger le ![trèfle](../images/internat/club.gif)V contre la carte sauvage, puis ajouter la carte sauvage et le ![trèfle](../images/internat/club.gif)7 à l'extrémité inférieure de la séquence.
 
-### More on Groups with Wild Cards
+### Compléments sur les groupes avec cartes sauvages
 
-It is legal to meld from hand three equal cards of different suit plus a wild card as a group (for example ![diamond](../images/internat/diamond.gif)Q-![heart](../images/internat/heart.gif)Q-![spade](../images/internat/spade.gif)Q-wild), provided that the player has already melded or can meld at least 51 points on this turn. This type of meld is, however, unusual since the three equal natural cards (![diamond](../images/internat/diamond.gif)Q-![heart](../images/internat/heart.gif)Q-![spade](../images/internat/spade.gif)Q) form a legal meld by themselves, and a player would normally prefer to keep the wild card for some other purpose. Nevertheless such a meld is sometimes useful, for example as a way to achieve the 51 points needed for an initial meld or to avoid having a wild card in hand when another player goes out. In such a group, the wild card can later be replaced by an equal card of the fourth suit (the ![club](../images/internat/club.gif)Q in the example).
+Il est légal de poser depuis la main trois cartes égales de couleurs différentes plus une carte sauvage en groupe (par exemple ![carreau](../images/internat/diamond.gif)D-![cœur](../images/internat/heart.gif)D-![pique](../images/internat/spade.gif)D-sauvage), à condition que le joueur ait déjà posé ou puisse poser au moins 51 points à ce tour. Ce type de combinaison est cependant inhabituel puisque les trois cartes naturelles égales (![carreau](../images/internat/diamond.gif)D-![cœur](../images/internat/heart.gif)D-![pique](../images/internat/spade.gif)D) forment une combinaison légale à elles seules, et un joueur préférerait normalement garder la carte sauvage pour un autre usage. Néanmoins, une telle combinaison est parfois utile, par exemple comme moyen d'atteindre les 51 points nécessaires à une première combinaison ou pour éviter d'avoir une carte sauvage en main quand un autre joueur sort. Dans un tel groupe, la carte sauvage peut être remplacée plus tard par une carte égale de la quatrième couleur (la ![trèfle](../images/internat/club.gif)D dans l'exemple).
 
-However, if a group is melded as two equal cards plus a wild card (such as ![club](../images/internat/club.gif)8-![heart](../images/internat/heart.gif)8-wild), normally the **only** option to modify this group is to replace the wild card by **both** missing equal cards (a ![spade](../images/internat/spade.gif)8 and a ![diamond](../images/internat/diamond.gif)8). It is **not** normally legal to add just one of the two missing natural cards to make a group of 8-8-8-wild. There are two exceptions to this:
+Cependant, si un groupe est posé comme deux cartes égales plus une carte sauvage (telles que ![trèfle](../images/internat/club.gif)8-![cœur](../images/internat/heart.gif)8-sauvage), normalement la **seule** option pour modifier ce groupe est de remplacer la carte sauvage par **les deux** cartes égales manquantes (un ![pique](../images/internat/spade.gif)8 et un ![carreau](../images/internat/diamond.gif)8). Il n'est normalement **pas** légal d'ajouter une seule des deux cartes naturelles manquantes pour faire un groupe de 8-8-8-sauvage. Il y a deux exceptions :
 
-- The player melds all their remaining cards except one on this turn and discards their final card, ending the play.
+- Le joueur pose toutes ses cartes restantes sauf une à ce tour et défausse sa dernière carte, mettant fin au jeu.
 
-- At the the end of the player's turn, after they have discarded, there will be at least one player in the game with only one card remaining in their hand. This case can arise in two ways. Either
+- À la fin du tour du joueur, après qu'il a défaussé, il y aura au moins un joueur dans la partie avec seulement une carte restante en main. Ce cas peut survenir de deux manières. Soit
 
-- some other player has already announced 'one card', or 
+- un autre joueur a déjà annoncé « une carte », soit
 
-- after melding, the player has only two cards left, discards one of them and then announces 'one card'.
+- après avoir posé des combinaisons, le joueur n'a plus que deux cartes, défausse l'une d'elles puis annonce « une carte ».
 
-In these cases, the addition of just one card (![spade](../images/internat/spade.gif)8 or ![diamond](../images/internat/diamond.gif)8) to the group ![club](../images/internat/club.gif)8-![heart](../images/internat/heart.gif)8-wild to make a four-card group is allowed.
+Dans ces cas, l'ajout d'une seule carte (![pique](../images/internat/spade.gif)8 ou ![carreau](../images/internat/diamond.gif)8) au groupe ![trèfle](../images/internat/club.gif)8-![cœur](../images/internat/heart.gif)8-sauvage pour faire un groupe de quatre cartes est autorisé.
 
-## Deal
+## Donne
 
-The first dealer is chosen by any convenient method. Usually the cards are spread face down, each player draws one card, and the player who draws the lowest card deals first. Subsequently the the player with the highest (worst) score for the previous round is the dealer for the next round. In case of a tie for highest score, if the dealer is involved in the tie, the same player will deal again. If not, the new dealer will be the first player involved in the tie in counterclockwise order from the previous dealer. In a round that ends with no score, the same dealer deals again.
+Le premier donneur est choisi par n'importe quelle méthode commode. Habituellement, les cartes sont étalées face cachée, chaque joueur en tire une, et le joueur qui tire la carte la plus basse donne en premier. Par la suite, le joueur avec le score le plus élevé (le pire) de la manche précédente est le donneur de la manche suivante. En cas d'égalité pour le score le plus élevé, si le donneur est impliqué dans l'égalité, le même joueur redonne. Sinon, le nouveau donneur sera le premier joueur impliqué dans l'égalité dans l'ordre inverse des aiguilles d'une montre à partir du donneur précédent. Dans une manche qui se termine sans score, le même donneur redonne.
 
-The cards are shuffled by the dealer and cut by the player to dealer's left. The dealer then deals 14 cards to each player, two cards at a time, and then a single extra card to the player to dealer's right, so that this player begins with 15 cards. The remainder of the deck is stacked face down at one side of the table to form a stock pile from which cards will be drawn during the game.
+Les cartes sont battues par le donneur et coupées par le joueur à la gauche du donneur. Le donneur distribue ensuite 14 cartes à chaque joueur, deux cartes à la fois, puis une carte supplémentaire au joueur à la droite du donneur, de sorte que ce joueur commence avec 15 cartes. Le reste du jeu est empilé face cachée sur un côté de la table pour former un talon duquel les cartes seront piochées pendant la partie.
 
-Next the dealer takes the top card from the stock pile and places it face up on the table next to the stock. This is the wild card indicator. 
+Ensuite, le donneur prend la carte du dessus du talon et la place face visible sur la table à côté du talon. C'est l'indicateur de carte sauvage.
 
-- If it is a Joker, the dealer must insert it back into the stock pile and draw another card to be the wild card indicator.
+- Si c'est un joker, le donneur doit le réinsérer dans le talon et tirer une autre carte pour servir d'indicateur de carte sauvage.
 
-- If it is an Ace, it indicates that the Jokers will be the two wild cards for this deal.
+- Si c'est un as, il indique que les jokers seront les deux cartes sauvages de cette donne.
 
-- If it is a suit card other than an Ace, it indicates that the Aces of that suit will be the two wild cards for this deal, and that the printed Jokers will act as the natural Aces of that suit.
+- Si c'est une carte de couleur autre qu'un as, elle indique que les as de cette couleur seront les deux cartes sauvages de cette donne, et que les jokers imprimés serviront d'as naturels de cette couleur.
 
-The players look at their cards. Any player who has four pairs of identical cards (for example ![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)5-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)J-Joker-Joker) may show them and demand a redeal. In this case the dealer must collect all the cards and they are shuffled, cut and dealt again. A hand with pairs of identical cards is normally bad because identical cards cannot be used together in any group or sequence, and the duplication reduces the chance of collecting cards that form a valid meld. However, a player with four identical pairs is not obliged to ask for a redeal. The player has the option not to show them and to let the play continue as usual.
+Les joueurs regardent leurs cartes. Tout joueur qui a quatre paires de cartes identiques (par exemple ![trèfle](../images/internat/club.gif)5-![trèfle](../images/internat/club.gif)5-![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)V-joker-joker) peut les montrer et demander une nouvelle donne. Dans ce cas, le donneur doit ramasser toutes les cartes et elles sont battues, coupées et redistribuées. Une main avec des paires de cartes identiques est normalement mauvaise parce que des cartes identiques ne peuvent pas être utilisées ensemble dans un groupe ou une séquence, et la duplication réduit les chances de collecter des cartes formant une combinaison valide. Cependant, un joueur avec quatre paires identiques n'est pas obligé de demander une nouvelle donne. Le joueur a l'option de ne pas les montrer et de laisser le jeu continuer normalement.
 
-A player who has three pairs of identical cards and a wild card is also entitled to demand a redeal. This is not so bad as four pairs of identical cards, but the logic here is presumably that the player can use the wild card to represent a card identical to some other natural card from their hand, and thus claim the privilege of demanding a redeal if they wish. In the same way, a redeal can be demanded by a player with two pairs of identical cards and two jokers.
+Un joueur qui a trois paires de cartes identiques et une carte sauvage est aussi en droit de demander une nouvelle donne. Ce n'est pas aussi mauvais que quatre paires de cartes identiques, mais la logique est probablement que le joueur peut utiliser la carte sauvage pour représenter une carte identique à une autre carte naturelle de sa main, et réclamer ainsi le privilège de demander une nouvelle donne s'il le souhaite. De même, une nouvelle donne peut être demandée par un joueur avec deux paires de cartes identiques et deux jokers.
 
-## Play
+## Jeu
 
-The player to dealer's right, who has 15 cards, starts the play by discarding any one card from hand face up to start a "discard pile" in the middle of the table. The turn then passes anti-clockwise.
+Le joueur à la droite du donneur, qui a 15 cartes, commence le jeu en défaussant une carte quelconque de sa main face visible pour amorcer une « défausse » au milieu de la table. Le tour passe ensuite dans le sens inverse des aiguilles d'une montre.
 
-A player's turn consists of the following actions:
+Le tour d'un joueur consiste en les actions suivantes :
 
-- Draw one card, either from the top of the face down stock pile or from the top of the face up discard pile.
+- Piocher une carte, soit du dessus du talon face cachée, soit du dessus de la défausse face visible.
 
-- Optionally, place some cards from hand face up on the table as meld.
+- En option, poser face visible sur la table des cartes de la main en combinaisons.
 
-- Discard one card from hand face up on top of the discard pile.
+- Défausser une carte de la main face visible sur le dessus de la défausse.
 
-There are some restrictions, as follows.
+Il y a quelques restrictions, comme suit.
 
-- A player who takes the top card from the discard pile in step 1 must place it on the table in step 2 together with at least two cards from hand to form a new meld. If this is not possible, either because the card does not fit with any meld the player can make or because the player has not yet melded and cannot satisfy the minimum meld requirement, the player must draw from the stock pile.
+- Un joueur qui prend la carte du dessus de la défausse à l'étape 1 doit la poser sur la table à l'étape 2 avec au moins deux cartes de sa main pour former une nouvelle combinaison. Si ce n'est pas possible, soit parce que la carte ne va avec aucune combinaison que le joueur peut faire, soit parce que le joueur n'a pas encore posé de combinaison et ne peut pas satisfaire l'exigence de minimum, le joueur doit piocher au talon.
 
-- A player's first meld laid down during a round must have a value of at least 51 points. This can be made up of one or more groups or sequences of three or more cards. The cards must come from the player's own hand, optionally including the card just drawn from the stock or discard pile. A player who has not yet laid down their first meld is not allowed to add cards to other players' melds nor to take a wild card from the table in exchange for a natural card. These options of adding to meld and reclaiming wild cards become available as soon as a player has satisfied the initial meld requirement, even during the same turn that the initial meld was laid down.
+- La première combinaison posée par un joueur pendant une manche doit avoir une valeur d'au moins 51 points. Elle peut être composée d'un ou plusieurs groupes ou séquences de trois cartes ou plus. Les cartes doivent venir de la main du joueur, incluant éventuellement la carte qui vient d'être piochée au talon ou à la défausse. Un joueur qui n'a pas encore posé sa première combinaison n'est pas autorisé à ajouter des cartes aux combinaisons d'autres joueurs ni à prendre une carte sauvage de la table en échange d'une carte naturelle. Ces options d'ajouter aux combinaisons et de récupérer les cartes sauvages deviennent disponibles dès qu'un joueur a satisfait l'exigence de première combinaison, même pendant le même tour où la première combinaison a été posée.
 
-- A player's turn must always be ended by discarding a card. Therefore a player must always keep one card in hand after melding, so as to be able to discard. A player with only two cards in hand who draws a third card that forms a group or sequence with those two is not allowed to put down the three cards as a meld, because that would leave the player with nothing to discard.
+- Le tour d'un joueur doit toujours se terminer par une défausse. Par conséquent, un joueur doit toujours garder une carte en main après avoir posé des combinaisons, afin de pouvoir défausser. Un joueur qui n'a que deux cartes en main et qui pioche une troisième carte formant un groupe ou une séquence avec ces deux n'est pas autorisé à poser les trois cartes en combinaison, parce que cela le laisserait sans rien à défausser.
 
-**Note**. It is unusual, but not illegal, to discard a wild card or a natural card that could have been melded. When this does happen, because of restriction #1 above, the next player is not allowed to take the discarded card and add it to a meld on the table. If the card is taken from the discard pile it must be used immediately with cards from the player's hand to form **new** meld. Discarded wild cards are subject to an additional restriction:
+**Note.** Il est inhabituel, mais pas illégal, de défausser une carte sauvage ou une carte naturelle qui aurait pu être posée en combinaison. Quand cela arrive, à cause de la restriction n° 1 ci-dessus, le joueur suivant n'est pas autorisé à prendre la carte défaussée et à l'ajouter à une combinaison de la table. Si la carte est prise à la défausse, elle doit être utilisée immédiatement avec des cartes de la main du joueur pour former une **nouvelle** combinaison. Les cartes sauvages défaussées sont soumises à une restriction supplémentaire :
 
-- If a wild Ace is discarded, the player taking it can only use it as a natural Ace of the suit printed on it. If a wild Joker is discarded, the player taking it can use it as an Ace of any suit, but not as any other card. 
+- Si un as sauvage est défaussé, le joueur qui le prend ne peut l'utiliser que comme un as naturel de la couleur imprimée dessus. Si un joker sauvage est défaussé, le joueur qui le prend peut l'utiliser comme un as de n'importe quelle couleur, mais pas comme n'importe quelle autre carte.
 
-## End of the Play and Scoring
+## Fin du jeu et score
 
-The round ends in one of two ways:
+La manche se termine de l'une des deux manières suivantes :
 
-1. A player wins
-If a player melds all but one of their remaining cards and discards their last card, so that they have no cards in their hand, the play ends immediately, and the player with no cards is the winner. The scores are then calculated as explained below.
+1. Un joueur gagne
+Si un joueur pose en combinaisons toutes ses cartes sauf une et défausse sa dernière carte, de sorte qu'il n'a plus de carte en main, le jeu se termine immédiatement et le joueur sans carte est le vainqueur. Les scores sont ensuite calculés comme expliqué ci-dessous.
 
-A player who has three cards or fewer remaining in hand after discarding **must** warn the other players by saying "one card", "two cards" or "three cards" as appropriate. A player who has three or fewer cards and has not announced this is not allowed to end the play on their next turn. Instead, on their next turn they must keep at least one card after discarding, announce the number of cards held, and wait until their following turn before they can end the play.
-2. The stock is exhausted
-For the play to continue, there must be more cards in the stock than there are players in the game. If at the end of a player's turn the number of cards remaining in the stock is equal to the number of players, the round ends. In this case there is no score and no winner. The same player deals again.
+Un joueur qui n'a plus que trois cartes ou moins en main après avoir défaussé **doit** avertir les autres joueurs en disant « une carte », « deux cartes » ou « trois cartes » selon le cas. Un joueur qui a trois cartes ou moins et ne l'a pas annoncé n'est pas autorisé à mettre fin au jeu à son tour suivant. À la place, à son tour suivant, il doit garder au moins une carte après avoir défaussé, annoncer le nombre de cartes qu'il détient, et attendre son tour d'après avant de pouvoir mettre fin au jeu.
+2. Le talon est épuisé
+Pour que le jeu continue, il doit y avoir plus de cartes dans le talon qu'il n'y a de joueurs dans la partie. Si à la fin du tour d'un joueur le nombre de cartes restant dans le talon est égal au nombre de joueurs, la manche se termine. Dans ce cas, il n'y a ni score ni vainqueur. Le même joueur redonne.
 
-A player is not allowed to meld all their cards and win on their first turn to play: they must wait until everyone has completed one turn and can then end the play by melding all their cards on their second turn.
+Un joueur n'est pas autorisé à poser toutes ses cartes en combinaisons et à gagner à son premier tour de jeu : il doit attendre que tout le monde ait effectué un tour, puis peut mettre fin au jeu en posant toutes ses cartes à son deuxième tour.
 
-When a player wins by melding their cards over the course of more than one turn, this is known as a **"partial hand"** or **"dhamoon"**. The winner scores **-30 points**, and the winner's opponents calculate their penalty points as follows:
+Quand un joueur gagne en posant ses cartes en combinaisons sur plusieurs tours, cela s'appelle une **« main partielle »** ou **« dhamoon »**. Le vainqueur marque **-30 points**, et les adversaires du vainqueur calculent leurs points de pénalité comme suit :
 
-- A hand of 14 cards, belonging to a player who has not melded, has a fixed value of 100. 
+- Une main de 14 cartes, appartenant à un joueur qui n'a pas posé de combinaison, a une valeur fixe de 100.
 
-- Players who have melded add up the values of the cards remaining in their hands. For this purpose wild cards count 15 points and other cards have their usual values: natural Aces count 11, court cards (K, Q, J) count 10, and pip cards (10-2) count as face value. 
+- Les joueurs qui ont posé des combinaisons additionnent les valeurs des cartes restant dans leurs mains. Pour cela, les cartes sauvages comptent 15 points et les autres cartes ont leurs valeurs habituelles : les as naturels comptent 11, les figures (R, D, V) comptent 10, et les cartes à points (10-2) comptent pour leur valeur nominale.
 
-If the winner ends the play by melding their entire hand of 14 cards in one turn, without adding any cards to other players' melds, and having previously melded nothing, this is known as a **"hand"** or a **"full hand"** and the winner scores **-60 points**. In this case the opponents' calculate their penalty points as above and double them. So an opponent who has not melded scores 200 penalty points and those who have melded score twice the value of the cards in their hands.
+Si le vainqueur met fin au jeu en posant en combinaisons toute sa main de 14 cartes en un seul tour, sans ajouter de cartes aux combinaisons d'autres joueurs, et sans avoir rien posé auparavant, cela s'appelle une **« main »** ou **« main complète »** et le vainqueur marque **-60 points**. Dans ce cas, les adversaires calculent leurs points de pénalité comme ci-dessus et les doublent. Ainsi, un adversaire qui n'a pas posé de combinaison marque 200 points de pénalité et ceux qui ont posé des combinaisons marquent le double de la valeur des cartes de leurs mains.
 
-If the winner, without having previously melded, melds some of their cards in combinations from their hand, and then disposes of the remainder of their cards in the same turn by adding them to other player's melds, this counts as a partial hand. The winner scores only -30 and the opponents' penalties are not doubled. 
+Si le vainqueur, sans avoir rien posé auparavant, pose une partie de ses cartes en combinaisons depuis sa main, puis se débarrasse du reste de ses cartes dans le même tour en les ajoutant aux combinaisons d'autres joueurs, cela compte comme une main partielle. Le vainqueur marque seulement -30 et les pénalités des adversaires ne sont pas doublées.
 
-As mentioned above, the 51-point minimum for the initial meld does not apply to a player who melds all their 14 cards in a single turn. In this case the player's meld can be worth less than 51 points, irrespective of whether it is a full hand (no cards added to other player's melds) or a partial hand (at least one card added to other players' melds).
+Comme mentionné ci-dessus, le minimum de 51 points pour la première combinaison ne s'applique pas à un joueur qui pose ses 14 cartes en un seul tour. Dans ce cas, la combinaison du joueur peut valoir moins de 51 points, qu'il s'agisse d'une main complète (aucune carte ajoutée aux combinaisons d'autres joueurs) ou d'une main partielle (au moins une carte ajoutée aux combinaisons d'autres joueurs).
 
-In an individual game, a cumulative score is kept for each player, and the player with the lowest score at the end of seven rounds is the winner. Cumulative scores can be negative.
+Dans un jeu individuel, un score cumulé est tenu pour chaque joueur, et le joueur avec le score le plus bas à la fin de sept manches est le vainqueur. Les scores cumulés peuvent être négatifs.
 
-In a partnership game, a cumulative score is kept for each team. At the end of a round the winner's team subtracts 30 or 60 points for a partial or full hand. The the opposing team add the values of both players' hand to their score. (So in the case of a full hand where neither opponent has melded, the losing team will score 400 penalty points - that is 200 for each player.) The winner's partner's cards are not counted and have no effect on the score. The team with the lower score at the end of seven rounds wins.
+Dans un jeu par équipes, un score cumulé est tenu pour chaque équipe. À la fin d'une manche, l'équipe du vainqueur soustrait 30 ou 60 points pour une main partielle ou complète. L'équipe adverse ajoute les valeurs des mains des deux joueurs à son score. (Ainsi, dans le cas d'une main complète où aucun adversaire n'a posé de combinaison, l'équipe perdante marquera 400 points de pénalité — c'est-à-dire 200 pour chaque joueur.) Les cartes du partenaire du vainqueur ne sont pas comptées et n'ont aucun effet sur le score. L'équipe avec le score le plus bas à la fin de sept manches gagne.
 
-Rounds which are not scored, either because the cards are thrown in by a player with identical pairs or because the stock is exhausted, do not count towards the seven rounds that make up a game. However, if the **final** round cannot be dealt more than three times. That is, if six rounds have been scored, and two attempts have been made to play the seventh round but ended with no score, then the third deal of the seventh round must be the last deal of the game. If this ends with no score the seventh round is abandoned and the winner is the player who had the lowest score after six rounds.
+Les manches qui ne sont pas scorées, soit parce que les cartes sont jetées par un joueur ayant des paires identiques, soit parce que le talon est épuisé, ne comptent pas dans les sept manches qui composent une partie. Cependant, si la **dernière** manche ne peut pas être donnée plus de trois fois. C'est-à-dire que si six manches ont été scorées et que deux tentatives ont été faites pour jouer la septième manche mais se sont terminées sans score, alors la troisième donne de la septième manche doit être la dernière donne de la partie. Si elle se termine sans score, la septième manche est abandonnée et le vainqueur est le joueur qui avait le score le plus bas après six manches.
 
-If there is a tie for lowest total score at the end of the game, in order to determine the winner further rounds are played until there is a single player or team with the lowest score.
+En cas d'égalité pour le score total le plus bas à la fin de la partie, pour déterminer le vainqueur, des manches supplémentaires sont jouées jusqu'à ce qu'il y ait un seul joueur ou une seule équipe avec le score le plus bas.
 
-## Variations
+## Variantes
 
-### Dealing
+### Donne
 
-Some play that the players take turns to deal. After each round that ends with a score, the turn to deal passes to the right.
+Certains jouent en faisant tourner la donne entre les joueurs. Après chaque manche qui se termine avec un score, la donne passe à la droite.
 
-### Wild card selection
+### Choix des cartes sauvages
 
-Some people play Hand with Jokers as the only wild cards. In that case, Aces are natural cards and no wild card indicator is revealed in the beginning. This arrangement is much more straightforward than the normal game and makes no significant difference to the play. The motive for the usual more complicated arrangement where the wild card can be either a Joker or an Ace is presumably to reduce the temptation for a dishonest player to try to recognise the wild cards from their backs. If the wild card changes from round to round, this kind of cheating becomes significantly more difficult.
+Certaines personnes jouent au Hand avec les jokers comme seules cartes sauvages. Dans ce cas, les as sont des cartes naturelles et aucun indicateur de carte sauvage n'est révélé au début. Cet arrangement est beaucoup plus simple que le jeu normal et ne fait aucune différence significative dans le jeu. La motivation de l'arrangement habituel plus compliqué, où la carte sauvage peut être soit un joker soit un as, est probablement de réduire la tentation pour un joueur malhonnête d'essayer de reconnaître les cartes sauvages à leurs dos. Si la carte sauvage change d'une manche à l'autre, ce genre de tricherie devient nettement plus difficile.
 
-Some people play with a deck of 104 cards without Jokers. In this case the wild cards are always the Aces of the suit shown by the wild card indicator and there are no natural Aces of this suit. If the indicator card is an Ace there are two possibilities:
+Certaines personnes jouent avec un jeu de 104 cartes sans jokers. Dans ce cas, les cartes sauvages sont toujours les as de la couleur indiquée par l'indicateur de carte sauvage et il n'y a pas d'as naturels de cette couleur. Si la carte indicateur est un as, il y a deux possibilités :
 
-- The Ace is replaced in the stock and a new indicator card is displayed.
+- L'as est remis dans le talon et une nouvelle carte indicateur est affichée.
 
-- The other identical Ace of the same suit is the only wild card in the game.
+- L'autre as identique de la même couleur est la seule carte sauvage de la partie.
 
-### Value of Aces
+### Valeur des as
 
-- Some play that an Ace in the hand of a player at the end of a round counts 10 points rather than 11.
+- Certains jouent avec un as dans la main d'un joueur à la fin d'une manche comptant 10 points plutôt que 11.
 
-- Some play that an Ace used in a sequence A-2-3 counts as only 1 point rather than 11 for the purpose of valuing a player's initial meld.
+- Certains jouent avec un as utilisé dans une séquence A-2-3 comptant seulement 1 point plutôt que 11 pour l'évaluation de la première combinaison d'un joueur.
 
-- Some play that an Ace used in a sequence Q-K-A counts as 10 points rather than 11 for the purpose of valuing a player's initial meld.
+- Certains jouent avec un as utilisé dans une séquence D-R-A comptant 10 points plutôt que 11 pour l'évaluation de la première combinaison d'un joueur.
 
-### Initial Meld Requirement
+### Exigence de la première combinaison
 
-Some set a higher miniumum point value for the initial meld, for example 61, 71 or even 91. 
+Certains fixent une valeur de points minimum plus élevée pour la première combinaison, par exemple 61, 71 ou même 91.
 
-Some play that each successive player's initial meld must be greater in value that the previous initial meld. For example if the minimum is initially set at 51 and the first player who melds puts down 56 points, the next player will need at least 57 points for their initial meld.
+Certains jouent avec la première combinaison de chaque joueur successif devant être supérieure en valeur à la première combinaison précédente. Par exemple, si le minimum est initialement fixé à 51 et que le premier joueur qui pose une combinaison met 56 points, le joueur suivant aura besoin d'au moins 57 points pour sa première combinaison.
 
-### Taking a discarded card
+### Prendre une carte défaussée
 
-Some players allow a card taken from the discard pile to be added to an existing meld on the table, either alone or together with a card or cards from the player's hand, provided that the player who discarded the card already has meld on the table and also the player who takes it has already melded or can satisfy the initial meld requirement.
+Certains joueurs permettent qu'une carte prise à la défausse soit ajoutée à une combinaison existante de la table, seule ou avec une ou des cartes de la main du joueur, à condition que le joueur qui a défaussé la carte ait déjà une combinaison sur la table et que le joueur qui la prend ait déjà posé une combinaison ou puisse satisfaire l'exigence de première combinaison.
 
-If a wild card is discarded, some players allow it to be taken by the next player only if it is melded in a group of Aces, not in a sequence A-2-3 or J-Q-K.
+Si une carte sauvage est défaussée, certains joueurs permettent qu'elle soit prise par le joueur suivant seulement si elle est posée dans un groupe d'as, pas dans une séquence A-2-3 ou V-D-R.
 
-Some players do not allow a discarded wild card to be taken by the next player in any circumstances.
+Certains joueurs ne permettent pas qu'une carte sauvage défaussée soit prise par le joueur suivant en aucune circonstance.
 
-On the other hand, some allow the next player to take the discarded wild card and use it in any meld where a wild card could normally be used (always provided that they already have meld or can satisfy the initial requirement). 
+D'un autre côté, certains permettent au joueur suivant de prendre la carte sauvage défaussée et de l'utiliser dans toute combinaison où une carte sauvage pourrait normalement être utilisée (toujours à condition qu'ils aient déjà une combinaison ou puissent satisfaire l'exigence de première combinaison).
 
-### Replacing wild cards
+### Remplacer les cartes sauvages
 
-When replacing a wild card with a card or cards from hand, some require the wild card to be reused immediately on the table, either in a new meld or by adding it to an existing meld. The player is not allowed to keep the wild card in their hand for later use.
+En remplaçant une carte sauvage par une ou des cartes de la main, certains exigent que la carte sauvage soit réutilisée immédiatement sur la table, soit dans une nouvelle combinaison, soit en l'ajoutant à une combinaison existante. Le joueur n'est pas autorisé à garder la carte sauvage en main pour un usage ultérieur.
 
-### Adding to a group of two equal cards and a wild card
+### Ajout à un groupe de deux cartes égales et une carte sauvage
 
-Some allow a third equal card to be added to group of two equal cards and a wild card by any player who has already melded or can meet the initial meld requirement. For example if ![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)Q-wild has been melded, the ![spade](../images/internat/spade.gif)Q or ![diamond](../images/internat/diamond.gif)Q can be added to it. The restriction that this can only be done when a player is going out or when at least one player is reduced to one card is not enforced.
+Certains permettent qu'une troisième carte égale soit ajoutée à un groupe de deux cartes égales et une carte sauvage par tout joueur qui a déjà posé une combinaison ou peut satisfaire l'exigence de première combinaison. Par exemple, si ![trèfle](../images/internat/club.gif)D-![cœur](../images/internat/heart.gif)D-sauvage a été posé, la ![pique](../images/internat/spade.gif)D ou ![carreau](../images/internat/diamond.gif)D peut y être ajoutée. La restriction selon laquelle cela ne peut se faire que quand un joueur sort ou quand au moins un joueur est réduit à une carte n'est pas appliquée.
 
-### Exhausted stock
+### Talon épuisé
 
-Some allow the play continue until the face down stock is completely empty. In this variant, if the player who draws the last card of the stock does not meld all their cards and win, the round ends without a score and the same dealer deals again.
+Certains permettent au jeu de continuer jusqu'à ce que le talon face cachée soit complètement vide. Dans cette variante, si le joueur qui pioche la dernière carte du talon ne pose pas toutes ses cartes en combinaisons et ne gagne pas, la manche se termine sans score et le même donneur redonne.
 
-Some do not end the play when the stock is exhausted. Instead, when the stock pile is empty, they create a new stock pile by shuffling all the cards of the discard pile apart from its top card, which remains in place.
+Certains ne mettent pas fin au jeu quand le talon est épuisé. À la place, quand le talon est vide, ils créent un nouveau talon en battant toutes les cartes de la défausse à l'exception de sa carte du dessus, qui reste en place.
 
-### Winning on the first draw
+### Gagner au premier tirage
 
-Some allow a player to win by melding all their cards on their first turn to play.
+Certains permettent à un joueur de gagner en posant toutes ses cartes en combinaisons à son premier tour de jeu.
 
-### Bonus Scores
+### Scores bonus
 
-In Egypt, and maybe in some countries of the Arabian Peninsula, scores are doubled for winning with certain special types of hand.
+En Égypte, et peut-être dans certains pays de la péninsule arabique, les scores sont doublés pour gagner avec certains types spéciaux de mains.
 
-If a player goes out with a Full Hand of 14 cards by discarding a wild card as their 15th card, the scores are twice those for a Full Hand - that is -120 for the winner, 4× the value of their cards for players who have melded, and +400 points for those who have not melded and still hold 14 cards.
+Si un joueur sort avec une main complète de 14 cartes en défaussant une carte sauvage comme sa 15e carte, les scores sont le double de ceux d'une main complète — c'est-à-dire -120 pour le vainqueur, 4× la valeur de leurs cartes pour les joueurs qui ont posé des combinaisons, et +400 points pour ceux qui n'ont pas posé de combinaison et détiennent toujours 14 cartes.
 
-Some play that if a player goes out with a Full Hand of 14 cards of one colour (all red or all black), the Full Hand score is doubled (-120 for the winner, 4× the card value for players who have melded, and +400 points for players who have not melded). Such a hand may include one or two wild cards, whose colour is irrelevant.
+Certains jouent avec le score d'une main complète doublé si un joueur sort avec une main complète de 14 cartes d'une seule couleur (toutes rouges ou toutes noires) (-120 pour le vainqueur, 4× la valeur des cartes pour les joueurs qui ont posé des combinaisons, et +400 points pour les joueurs qui n'ont pas posé de combinaison). Une telle main peut inclure une ou deux cartes sauvages, dont la couleur est sans importance.
 
-Some play that a Full Hand of a single suit (all hearts or all diamonds or all clubs or all spades, possibly with wild cards) scores twice as much as a Full Hand of one colour (-240, 8×, +800).
+Certains jouent avec une main complète d'une seule couleur (tous cœurs, tous carreaux, tous trèfles ou tous piques, éventuellement avec des cartes sauvages) valant le double d'une main complète d'une seule couleur (-240, 8×, +800).
 
-Some play that a player who goes out with 13 natural cards that form valid combinations plus two wild cards that are not needed can discard the two wild cards and score twice as much as for a full hand discarding one wild card (-240, 8×, +800).
+Certains jouent avec un joueur qui sort avec 13 cartes naturelles formant des combinaisons valides plus deux cartes sauvages qui ne sont pas nécessaires, qui peut défausser les deux cartes sauvages et marquer le double du score d'une main complète avec une carte sauvage défaussée (-240, 8×, +800).
 
-These doubles for ending with wild card discards, single colour and single suit can be combined. For example a single colour Full Hand with a wild card discarded would score four times as much as an ordinary Full hand (-240, 8×, +800). The maximum score would be for a single suit Full Hand with two wild cards discarded: -960 for the winner, and 32× card values or +3200 for the losers.
+Ces doubles pour finir avec des cartes sauvages défaussées, une seule couleur et une seule couleur de cartes peuvent être combinés. Par exemple, une main complète d'une seule couleur avec une carte sauvage défaussée marquerait quatre fois plus qu'une main complète ordinaire (-240, 8×, +800). Le score maximum serait une main complète d'une seule couleur de cartes avec deux cartes sauvages défaussées : -960 pour le vainqueur, et 32× la valeur des cartes ou +3200 pour les perdants.
 
-## Other Websites, Software and Online Games
+## Autres sites web, logiciels et jeux en ligne
 
-The Jawaker website has [rules in English](https://blog.jawaker.com/en/hand-rules-en). Hand can be played online [on their website](https://www.jawaker.com/ar/games/handgame) or using their Hand app for [Android](https://play.google.com/store/apps/details?id=com.jawaker.hand&hl=en). Hand is also available within their games bundle for [Android](https://play.google.com/store/apps/details?id=com.boundless.jawaker&hl=en) or [iOS](https://apps.apple.com/us/app/jawaker-games-friends/id870092728).
+Le site Jawaker a des [règles en anglais](https://blog.jawaker.com/en/hand-rules-en). Le Hand peut être joué en ligne [sur leur site](https://www.jawaker.com/ar/games/handgame) ou avec leur application Hand pour [Android](https://play.google.com/store/apps/details?id=com.jawaker.hand&hl=en). Le Hand est aussi disponible dans leur pack de jeux pour [Android](https://play.google.com/store/apps/details?id=com.boundless.jawaker&hl=en) ou [iOS](https://apps.apple.com/us/app/jawaker-games-friends/id870092728).
 
-The former Kuwaiti website Koutbo6 had [rules in English](https://web.archive.org/web/20200811045215/https://koutbo6.com/en/games/hand/) (archive copy).
+L'ancien site koweïtien Koutbo6 avait des [règles en anglais](https://web.archive.org/web/20200811045215/https://koutbo6.com/en/games/hand/) (copie d'archive).
 
-There is a [Hand Wikipedia page](https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%86%D8%AF_%D8%B1%D9%8A%D9%85%D9%8A) in Arabic.
+Il existe une [page Wikipedia sur le Hand](https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%86%D8%AF_%D8%B1%D9%8A%D9%85%D9%8A) en arabe.
 
-Bojacob offer a [Hand app for iOS](https://apps.apple.com/us/app/hand-rummy/id465105135).
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Hand
+Bojacob propose une [application Hand pour iOS](https://apps.apple.com/us/app/hand-rummy/id465105135).

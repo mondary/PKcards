@@ -2,264 +2,249 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A rummy game from Korea in which sevens can be melded alone.
+**Type :** Rami
+**But :** Un jeu de rami coréen dans lequel les sept peuvent être posés seuls en combinaison.
+**Autres noms :** Hulla, Battle Hoola, Hoola Rummy
 
 ---
 
-*This page is based on information from Yishin Cho (Xavier), ufm, Glenn and Hertzog.*
+*Cette page est basée sur des informations de Yishin Cho (Xavier), ufm, Glenn et Hertzog.*
 
 ## Introduction
 
-Hoola (or Hulla) is a Korean rummy game related to, and probably based on the Japanese game Seven Bridge.
+Le Hoola (ou Hulla) est un jeu de rami coréen apparenté au jeu japonais Seven Bridge, et probablement basé sur lui.
 
-Like many traditional games it has evolved over time and has developed many variations. The situation is complicated by the existence of several online implementations of the game which work slightly differently from the traditional live game. I will first describe 'Battle Hoola', which has become the most popular version of the game for live play. After this is a collection of variations that may be encountered.
+Comme beaucoup de jeux traditionnels, il a évolué au fil du temps et a développé de nombreuses variantes. La situation est compliquée par l'existence de plusieurs implémentations en ligne du jeu, qui fonctionnent légèrement différemment du jeu traditionnel en direct. Je décrirai d'abord le « Battle Hoola », qui est devenu la version la plus populaire du jeu pour le jeu en direct. Vient ensuite une collection de variantes qui peuvent être rencontrées.
 
-## Players and Cards
+## Joueurs et cartes
 
-A standard international 52-card pack is used. In each suit the cards rank cyclically ...-A-2-3-4-5-6-7-8-9-10-J-Q-K-A-2-3-....
+Un jeu international standard de 52 cartes est utilisé. Dans chaque couleur, les cartes sont classées cycliquement ...-A-2-3-4-5-6-7-8-9-10-V-D-R-A-2-3-....
 
-Aces are worth 1 point, 2-6 and 8-10 are worth face value, jacks 11 points, queens 12 points and kings 13 points each. Sevens are special cards which are worth 7 points when going out with a 'blast' (see below) but 14 points when they remain in a player's hand at the end of the play.
+Les as valent 1 point, les 2-6 et 8-10 valent leur valeur nominale, les valets 11 points, les dames 12 points et les rois 13 points chacun. Les sept sont des cartes spéciales qui valent 7 points quand on sort avec un « blast » (voir ci-dessous) mais 14 points quand ils restent dans la main d'un joueur à la fin du jeu.
 
-The game is normally played by from 2 to 5 people, but it is possible for 6 or 7 players, in which case one or two of them have to drop out for each deal. Deal and play are anticlockwise.
+Le jeu se joue normalement de 2 à 5 personnes, mais il est possible d'y jouer à 6 ou 7, auquel cas un ou deux d'entre eux doivent se retirer à chaque donne. La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre.
 
-## Melds
+## Combinaisons
 
-As in all rummy games the objective is to form melds - combinations of cards from a player's hand which are laid face up on the table. These may be sets of equal cards or sequences of consecutive cards in a suit. Sequences can 'turn the corner', counting an Ace as next to both the King and the Two. 
+Comme dans tous les jeux de rami, l'objectif est de former des combinaisons (melds) — des combinaisons de cartes de la main d'un joueur posées face visible sur la table. Ce peut être des groupes de cartes égales ou des séquences de cartes consécutives d'une même couleur. Les séquences peuvent « tourner le coin », comptant un as comme voisin à la fois du roi et du deux.
 
-A normal meld initially consists of three equal cards or three consecutive cards of a suit, such as **![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3** or **![spade](../images/internat/spade.gif)Q-![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)Q** or **![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9** or **![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A****-![club](../images/internat/club.gif)2**. 
+Une combinaison normale consiste initialement en trois cartes égales ou trois cartes consécutives d'une même couleur, comme **![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)2-![carreau](../images/internat/diamond.gif)3** ou **![pique](../images/internat/spade.gif)D-![trèfle](../images/internat/club.gif)D-![cœur](../images/internat/heart.gif)D** ou **![cœur](../images/internat/heart.gif)7-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9** ou **![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)2**.
 
-It is also possible to meld a **Seven** by itself, as a single card, for example **![spade](../images/internat/spade.gif)7**.
+Il est aussi possible de poser un **sept** seul, comme carte unique, par exemple **![pique](../images/internat/spade.gif)7**.
 
-During the game players may add cards from their hand to a meld that is already on the table. 
+Pendant le jeu, les joueurs peuvent ajouter des cartes de leur main à une combinaison déjà posée sur la table.
 
-- The fourth card may be added to a set of equal cards to make a quad such as **![spade](../images/internat/spade.gif)Q-![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)Q****-![diamond](../images/internat/diamond.gif)Q**.
+- La quatrième carte peut être ajoutée à un groupe de cartes égales pour faire un carré, comme **![pique](../images/internat/spade.gif)D-![trèfle](../images/internat/club.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D**.
 
-- A three-card sequence may be extended at either end to make a sequence of 4, 5 or more cards. For example **![club](../images/internat/club.gif)Q-****![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A****-![club](../images/internat/club.gif)2** or **![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10**.
+- Une séquence de trois cartes peut être étendue à l'une ou l'autre extrémité pour faire une séquence de 4, 5 cartes ou plus. Par exemple **![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)2** ou **![cœur](../images/internat/heart.gif)6-![cœur](../images/internat/heart.gif)7-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10**.
 
-- Adjacent cards of the same suit can be added to a Seven to build a sequence of 2, 3 or more cards. For example **![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7** or **![spade](../images/internat/spade.gif)7-****![spade](../images/internat/spade.gif)8**.
+- Des cartes adjacentes de la même couleur peuvent être ajoutées à un sept pour construire une séquence de 2, 3 cartes ou plus. Par exemple **![trèfle](../images/internat/club.gif)6-![trèfle](../images/internat/club.gif)7** ou **![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8**.
 
-**Note.** A card cannot be used in more than one meld at the same time. If you have **![club](../images/internat/club.gif)**3-**![club](../images/internat/club.gif)**4-**![club](../images/internat/club.gif)**5-**![heart](../images/internat/heart.gif)**4-**![spade](../images/internat/spade.gif)**4 you can form either a sequence meld 3-4-5 or a set of fours, but not both. 
+**Note.** Une carte ne peut pas être utilisée dans plus d'une combinaison à la fois. Si vous avez **![trèfle](../images/internat/club.gif)3-![trèfle](../images/internat/club.gif)4-![trèfle](../images/internat/club.gif)5-![cœur](../images/internat/heart.gif)4-![pique](../images/internat/spade.gif)4**, vous pouvez former soit une séquence 3-4-5, soit un groupe de quatre, mais pas les deux.
 
-## The Deal
+## La donne
 
-Any player may deal first. Subsequently the winner of each game deals the next.
+N'importe quel joueur peut donner en premier. Par la suite, le vainqueur de chaque partie donne la suivante.
 
-Seven cards are dealt to each player, one at a time. The next card is placed face up on the table to begin the discard pile, and the remaining undealt cards are stacked face down beside it to form a drawing stock.
+Sept cartes sont distribuées à chaque joueur, une à la fois. La carte suivante est placée face visible sur la table pour commencer la défausse, et les cartes restantes non distribuées sont empilées face cachée à côté pour former un talon de pioche.
 
-## The Play
+## Le jeu
 
-The dealer begins, and the turn to play passes anticlockwise.
+Le donneur commence, et le tour de jouer passe dans le sens inverse des aiguilles d'une montre.
 
-A normal turn consists of 
+Un tour normal consiste en
 
-- drawing one card from the top of the stock pile or discard pile
+- piocher une carte du dessus du talon ou de la défausse
 
-- optionally placing one or more melds from hand face up on the table (according to some reports, melding is sometimes known in this game as "dropping a trick" or "registering")
+- en option, poser face visible sur la table une ou plusieurs combinaisons de la main (selon certains témoignages, poser une combinaison est parfois appelé dans ce jeu « déposer un tour » ou « enregistrer »)
 
-- optionally extending melds that are already on the table by adding cards to them to make larger melds ("adding to a trick")
+- en option, étendre les combinaisons déjà posées sur la table en y ajoutant des cartes pour faire de plus grandes combinaisons (« ajouter à un tour »)
 
-- discarding one card face up on the discard pile. 
+- défausser une carte face visible sur la défausse.
 
-Step 1 is compulsory - every turn begins by drawing a card. Step 4 is also compulsory unless the player ends the play by melding all their cards and thereby going out.
+L'étape 1 est obligatoire — chaque tour commence par piocher une carte. L'étape 4 est aussi obligatoire à moins que le joueur ne termine le jeu en posant toutes ses cartes en combinaisons et sortant ainsi.
 
-The following restrictions apply:
+Les restrictions suivantes s'appliquent :
 
-- The discard can only be taken if it is immediately used to lay down a **new meld of three cards from the player's hand**. It is not possible to take the discard to add it to an existing meld on the table, or to keep in hand for future use. 
+- La défausse ne peut être prise que si elle est immédiatement utilisée pour poser une **nouvelle combinaison de trois cartes de la main du joueur**. Il n'est pas possible de prendre la défausse pour l'ajouter à une combinaison existante de la table, ni pour la garder en main pour un usage futur.
 
-- Cards can only be added to melds that are on the table if the player has already, in the same turn or a previous turn, played a complete new meld - either a seven or a three-card meld - from hand.
+- Des cartes ne peuvent être ajoutées aux combinaisons de la table que si le joueur a déjà, au même tour ou à un tour précédent, posé une nouvelle combinaison complète — soit un sept, soit une combinaison de trois cartes — depuis sa main.
 
-**Note.** It is not possible to take an 8 or 6 from the discard pile to meld with a 7 of the same suit from your hand unless you have another adjacent card of the suit to make a 3-card meld. For example you could take **![club](../images/internat/club.gif)6** form the discard pile to meld with your **![club](../images/internat/club.gif)7** and **![club](../images/internat/club.gif)5** or with your **![club](../images/internat/club.gif)7** and **![club](../images/internat/club.gif)8** but not if you only have the **![club](../images/internat/club.gif)7**. Also, if you have already melded the **![club](../images/internat/club.gif)7** you cannot take the **![club](../images/internat/club.gif)6** from the discard pile unless you also have the **![club](../images/internat/club.gif)5** and **![club](../images/internat/club.gif)4** in your hand to make a new three-card meld. In the unlikely event that a player discards the **![club](../images/internat/club.gif)7**, it can only be taken from the pile by another player if they hold the 5-6 or 6-8 or 8-9 of clubs to make a three-card sequence or two other sevens to make a set of 7-7-7.
+**Note.** Il n'est pas possible de prendre un 8 ou un 6 de la défausse pour le combiner avec un 7 de la même couleur de votre main à moins d'avoir une autre carte adjacente de la couleur pour faire une combinaison de 3 cartes. Par exemple, vous pourriez prendre le ![trèfle](../images/internat/club.gif)6 de la défausse pour le combiner avec votre ![trèfle](../images/internat/club.gif)7 et votre ![trèfle](../images/internat/club.gif)5 ou avec votre ![trèfle](../images/internat/club.gif)7 et votre ![trèfle](../images/internat/club.gif)8, mais pas si vous n'avez que le ![trèfle](../images/internat/club.gif)7. Aussi, si vous avez déjà posé le ![trèfle](../images/internat/club.gif)7, vous ne pouvez pas prendre le ![trèfle](../images/internat/club.gif)6 de la défausse à moins d'avoir aussi le ![trèfle](../images/internat/club.gif)5 et le ![trèfle](../images/internat/club.gif)4 en main pour faire une nouvelle combinaison de trois cartes. Dans le cas peu probable où un joueur défausse le ![trèfle](../images/internat/club.gif)7, il ne peut être pris de la défausse par un autre joueur que s'il détient le 5-6 ou 6-8 ou 8-9 de trèfle pour faire une séquence de trois cartes, ou deux autres sept pour faire un groupe de 7-7-7.
 
-### Taking the Discard Out of Turn
+### Prendre la défausse hors de son tour
 
-This is a feature of 'Battle Hoola' which has largely superseded the older version of the game in which players could only play in turn.
+C'est une particularité du « Battle Hoola » qui a en grande partie supplanté l'ancienne version du jeu dans laquelle les joueurs ne pouvaient jouer qu'à leur tour.
 
-If a card is discarded which another player can use to form a new meld, the player can claim the discard, even if it would normally be another player's turn to play. This is done by calling *"Kam sa hap nida!"* (Thank you!), taking the card, and putting it on the table together with cards from hand to make a valid meld. They then complete their turn, possibly melding further cards and finally discarding (or going out). 
+Si une carte est défaussée qu'un autre joueur peut utiliser pour former une nouvelle combinaison, ce joueur peut réclamer la défausse, même s'il serait normalement au tour d'un autre joueur de jouer. Cela se fait en criant *« Kam sa hap nida ! »* (Merci !), en prenant la carte et en la posant sur la table avec des cartes de la main pour faire une combinaison valide. Ils terminent ensuite leur tour, posant éventuellement d'autres cartes en combinaisons et finissant par défausser (ou sortir).
 
-The turns of any players between the discarder and the player who took the discard out of turn are skipped, and the play continues from the player to the right of the one who took the discard. 
+Les tours de tout joueur entre le défausseur et le joueur qui a pris la défausse hors de son tour sont sautés, et le jeu continue avec le joueur à la droite de celui qui a pris la défausse.
 
-If two or more players want the same discard it goes to the player who claimed it first. Players normally slap the discard to claim it, so that when more than one player does this it is clear from the position of the hands who was first.
+Si deux joueurs ou plus veulent la même défausse, elle revient au joueur qui l'a réclamée en premier. Les joueurs tapent normalement la défausse pour la réclamer, de sorte que quand plus d'un joueur le fait, la position des mains indique clairement qui a été le premier.
 
-## End of the Play
+## Fin du jeu
 
-There are five ways that the play can end.
+Il y a cinq façons que le jeu se termine.
 
-1. The Blast
-If at the **start** of any turn you have not yet melded any cards, and the total value of the seven cards in your hand is 15 points or less or 83 points or more, you may stop the game and win. For this purpose Sevens count 7 points. Stopping in this way with 83 or more points is called a **Daepang** (major blast) and stopping with 15 or fewer points is a **Sopang** (minor blast).
-2. The Knock (or Stop)
-If at the **start** of your turn you have not more than 10 points in your hand then you may stop the game. Everyone immediately shows their cards. If you have the fewest points in hand you win, but if any other player has the same number or fewer than you, you lose. For this purpose sevens count as 14 points. (Note that when a player knocks it is not possible for the knocker or any other player to dispose of any cards by melding. All cards held in the hand at that point are counted.)
-3. Going Out
-If during your turn you meld all your remaining cards, either by making new melds or adding them to melds, or if you meld all but one of your remaining cards and discard your last card, the play ends and you win.
-4. Four sevens (the big luck)
-A player who has four sevens in hand can stop the game and win. Note that the sevens all have to be in the player's hand - if any sevens have been melded this type of win is not possible. This win can be played as soon as the fourth Seven is acquired - for example immediately after drawing it from the stock. The player does not have to wait until their next turn.
-5. End of Stock
-If a player draws the last card of the stock, that player completes their turn in the normal way. If they do not go out, then after they discard the play ends. No one can meld any further cards. The players show the cards remaining in their hands and count their points (7's count 14 points). The player with the lowest value of unmelded cards wins.**
+1. Le blast (l'explosion)
+Si au **début** d'un tour quelconque vous n'avez pas encore posé de carte en combinaison, et que la valeur totale des sept cartes de votre main est de 15 points ou moins, ou de 83 points ou plus, vous pouvez arrêter le jeu et gagner. Pour cela, les sept comptent 7 points. S'arrêter ainsi avec 83 points ou plus s'appelle un **Daepang** (grand blast) et s'arrêter avec 15 points ou moins est un **Sopang** (petit blast).
+2. Le knock (le toc)
+Si au **début** de votre tour vous n'avez pas plus de 10 points en main, vous pouvez arrêter le jeu. Tout le monde montre immédiatement ses cartes. Si vous avez le moins de points en main, vous gagnez, mais si un autre joueur a le même nombre ou moins que vous, vous perdez. Pour cela, les sept comptent 14 points. (Notez que quand un joueur knock, il n'est pas possible pour le knockeur ou pour tout autre joueur de se débarrasser de cartes en posant des combinaisons. Toutes les cartes tenues en main à ce moment sont comptées.)
+3. Sortir
+Si pendant votre tour vous posez en combinaisons toutes vos cartes restantes, soit en faisant de nouvelles combinaisons, soit en les ajoutant à des combinaisons, ou si vous posez en combinaisons toutes vos cartes sauf une et défaussez votre dernière carte, le jeu se termine et vous gagnez.
+4. Quatre sept (la grande chance)
+Un joueur qui a quatre sept en main peut arrêter le jeu et gagner. Notez que les sept doivent tous être en main — si des sept ont été posés en combinaison, ce type de victoire est impossible. Cette victoire peut être jouée dès que le quatrième sept est acquis — par exemple immédiatement après l'avoir pioché au talon. Le joueur n'a pas à attendre son tour suivant.
+5. Fin du talon
+Si un joueur pioche la dernière carte du talon, il termine son tour de la manière normale. S'il ne sort pas, alors après sa défausse le jeu se termine. Personne ne peut plus poser de cartes en combinaison. Les joueurs montrent les cartes restant dans leurs mains et comptent leurs points (les sept comptent 14 points). Le joueur avec la plus petite valeur de cartes non posées gagne.
 
-## Scoring
+## Score
 
-At the end of the play, the players are ranked in order according to the number of points remaining in their hands, counting 14 points for each seven. Then the winner is paid by each of the other players according to their rank. The loser with the fewest points pays 1 stake to the winner, the loser with next fewest pays 2 stakes, and so on. So if there are 5 players the lowest ranked loser will pay 4 stakes and the winner will collect 10 stakes in total (1+2+3+4) if there are no ties, doubles or other special circumstances.
+À la fin du jeu, les joueurs sont classés selon le nombre de points restant dans leurs mains, comptant 14 points pour chaque sept. Ensuite, le vainqueur est payé par chacun des autres joueurs selon son rang. Le perdant avec le moins de points paie 1 mise au vainqueur, le perdant suivant paie 2 mises, et ainsi de suite. Ainsi, s'il y a 5 joueurs, le perdant le plus bas classé paiera 4 mises et le vainqueur collectera 10 mises au total (1+2+3+4) s'il n'y a pas d'égalités, de doubles ou d'autres circonstances spéciales.
 
-In case of a tie between losers, both or all tieing players pay the higher amount. For example in a 5-player game if the final point scores are A: 11, B: 3, C: 34, D: 34, E: 11, both C and D pay 4 stakes and both A and E pay 2 stakes, so that the winner B collects 12 stakes in this case.
+En cas d'égalité entre perdants, les joueurs ex æquo paient tous le montant le plus élevé. Par exemple, dans une partie à 5 joueurs, si les scores de points finaux sont A : 11, B : 3, C : 34, D : 34, E : 11, C et D paient tous deux 4 mises et A et E paient tous deux 2 mises, si bien que le vainqueur B collecte 12 mises dans ce cas.
 
-When game ends because the stock runs out it is possible that there will be a tie between winners. In this case the other players pay according to their rank - the nth ranked player will pay (n-1) stakes - and the winners share the proceeds equally. For example in a four-player game where the stock runs out and the players' point totals are A:9, B:9, C:15, D:25, C will pay 2 stakes, D will pay 3 stakes and A and B will collect 2.5 stakes each.
+Quand le jeu se termine parce que le talon s'épuise, il est possible qu'il y ait une égalité entre vainqueurs. Dans ce cas, les autres joueurs paient selon leur rang — le joueur au n-ième rang paiera (n-1) mises — et les vainqueurs se partagent les gains à parts égales. Par exemple, dans une partie à quatre joueurs où le talon s'épuise et les totaux de points des joueurs sont A : 9, B : 9, C : 15, D : 25, C paiera 2 mises, D paiera 3 mises et A et B collecteront 2,5 mises chacun.
 
-### Automatic Lowest Rank
+### Rang automatiquement dernier
 
-There are some situations in which a player automatically ranks last, irrespective of the cards held. If several players rank last, for the same or different reasons, they all rank last equal and pay the appropriate amount.
+Il y a certaines situations dans lesquelles un joueur est automatiquement classé dernier, quelles que soient les cartes tenues. Si plusieurs joueurs sont classés derniers, pour les mêmes raisons ou des raisons différentes, ils sont tous classés derniers ex æquo et paient le montant approprié.
 
-- **No Melded Cards. **A player automatically ranks last if they still have seven cards in hand at the end of the play having not melded anything when another player wins.
+- **Aucune carte posée.** Un joueur est automatiquement classé dernier s'il a encore sept cartes en main à la fin du jeu, n'ayant rien posé quand un autre joueur gagne.
 
-- **Undercut. **If a player knocks, but some other player undercuts by having a lower or equal point count, the other player wins and the knocker who was undercut automatically ranks last.
+- **Sous-coupe (undercut).** Si un joueur knock, mais qu'un autre joueur le sous-coupe en ayant un compte de points inférieur ou égal, l'autre joueur gagne et le knockeur sous-coupé est automatiquement classé dernier.
 
-- **Discard Claimed to Go Out.** If a player's discard is claimed by another player who then melds all their cards and goes out on that turn, the player who discarded the card claimed by the winner automatically ranks last.
+- **Défausse réclamée pour sortir.** Si la défausse d'un joueur est réclamée par un autre joueur qui pose ensuite toutes ses cartes en combinaisons et sort à ce tour, le joueur qui a défaussé la carte réclamée par le vainqueur est automatiquement classé dernier.
 
-### Doubled and Quadrupled Payments
+### Paiements doublés et quadruplés
 
-There are several cases in which some or all payments are doubled or quadrupled. If two or more of these conditions arise at the same time then all the relevant multiples apply, causing the basic payment to be multiplied by 4, 8, 16, etc.
+Il y a plusieurs cas où certains ou tous les paiements sont doublés ou quadruplés. Si deux ou plus de ces conditions surviennent en même temps, tous les multiples pertinents s'appliquent, faisant que le paiement de base est multiplié par 4, 8, 16, etc.
 
-- **Holding a Seven. **A player who has had at least one turn but still has a Seven in hand at the end of the play must pay double. With more than one Seven, the payment is doubled for each Seven held by the player.
+- **Tenir un sept.** Un joueur qui a eu au moins un tour mais qui a encore un sept en main à la fin du jeu doit payer le double. Avec plus d'un sept, le paiement est doublé pour chaque sept tenu par le joueur.
 
-- **No melded cards.** A player who has had at least one turn to play but still has seven cards in their hand when another player wins, having melded nothing, must pay double. 
+- **Aucune carte posée.** Un joueur qui a eu au moins un tour pour jouer mais qui a encore sept cartes en main quand un autre joueur gagne, n'ayant rien posé, doit payer le double.
 
-- **Perfect** or **Hoola**.** **If the winner goes out by melding all seven cards at once, without previously having melded any cards, all the payments are multiplied by four. This is known as a 'Perfect' or 'Hoola'. This multiplier applies even to payments from players who have not yet had a turn to play.
+- **Parfait** ou **Hoola.** Si le vainqueur sort en posant les sept cartes d'un coup, sans avoir auparavant posé aucune carte, tous les paiements sont multipliés par quatre. Cela s'appelle un « Perfect » (Parfait) ou « Hoola ». Ce multiplicateur s'applique même aux paiements des joueurs qui n'ont pas encore eu de tour pour jouer.
 
-For example in a four-player game where you have already had at least one turn, another player goes out by melding all seven cards at once. You have not melded any cards and your hand contains a Seven. In this case you automatically rank lowest since you have not melded and your 3-stake loss is subject to a quadruple and two doubles, so you must pay 48 stakes (4×2×2×3) to the winner.
+Par exemple, dans une partie à quatre joueurs où vous avez déjà eu au moins un tour, un autre joueur sort en posant les sept cartes d'un coup. Vous n'avez posé aucune carte et votre main contient un sept. Dans ce cas, vous êtes automatiquement classé dernier puisque vous n'avez rien posé, et votre perte de 3 mises est soumise à un quadruple et à deux doubles, de sorte que vous devez payer 48 mises (4×2×2×3) au vainqueur.
 
-### One Player Pays All Losses
+### Un joueur paie toutes les pertes
 
-- **Discard Claimed to Go Out.** If a player's discard is claimed by another player who then melds all their cards and goes out on that turn, the player who discarded the card claimed by the winner must pay the losses of all the players to the winner. 
+- **Défausse réclamée pour sortir.** Si la défausse d'un joueur est réclamée par un autre joueur qui pose ensuite toutes ses cartes en combinaisons et sort à ce tour, le joueur qui a défaussé la carte réclamée par le vainqueur doit payer au vainqueur les pertes de tous les joueurs.
 
-- **Undercut**. If the player who knocks is undercut - that is, some other player has an equal or lower number of points - the player who knocked has to pay all players' losses to the winner while the other players pay nothing. 
+- **Sous-coupe (undercut).** Si le joueur qui knock est sous-coupé — c'est-à-dire qu'un autre joueur a un nombre de points égal ou inférieur — le joueur qui a knocké doit payer au vainqueur toutes les pertes des joueurs, tandis que les autres joueurs ne paient rien.
 
-- If there are only **two players**, then in these two cases (undercut and discard claimed to go out) the penalty of playing all players' losses would have no effect (since there is only one loser), so instead the losing player pays double.
+- S'il n'y a que **deux joueurs**, alors dans ces deux cas (sous-coupe et défausse réclamée pour sortir), la pénalité de payer les pertes de tous les joueurs n'aurait aucun effet (puisqu'il n'y a qu'un seul perdant), donc à la place le joueur perdant paie le double.
 
-**Example.** In a four-player game, player A discards a card which player C claims to meld and go out. Player B has melded no cards. Player D has 25 points in cards, including an unmelded 7 (worth 14 points). Players A and B automatically rank equal last and would owe 3 stakes each. Player D ranks second and would owe 2 stakes (2×1) because of the 7 in hand. But player A has to pay all the losers' debts because A's discard enabled C to win, so A pays 8 stakes to C (2+3+3) and B and D have nothing to pay.
+**Exemple.** Dans une partie à quatre joueurs, le joueur A défausse une carte que le joueur C réclame pour poser et sortir. Le joueur B n'a posé aucune carte. Le joueur D a 25 points en cartes, y compris un 7 non posé (valant 14 points). Les joueurs A et B sont automatiquement classés derniers ex æquo et devraient 3 mises chacun. Le joueur D est classé deuxième et devrait 2 mises (2×1) à cause du 7 en main. Mais le joueur A doit payer toutes les dettes des perdants parce que sa défausse a permis à C de gagner, donc A paie 8 mises à C (2+3+3) et B et D n'ont rien à payer.
 
-## Variations
+## Variantes
 
-**Hoola without Battles**. "Battle Hoola", described above, is the most usual way to play nowadays, but if you dislike the race to claim the discard, you could use the alternative rule is that if more than one person wants the discard, the person whose next turn to play is earlier gets the card. Or another possibility is to play the older, "non-battle" version of Hoola in which the top card of the discard pile can only be taken when it is your turn to play. In non-battle Hoola there is no chance to take a card discarded by anyone other then the player immediately to your left. 
+**Hoola sans batailles.** Le « Battle Hoola », décrit ci-dessus, est la façon la plus courante de jouer de nos jours, mais si vous n'aimez pas la course pour réclamer la défausse, vous pouvez utiliser la règle alternative selon laquelle si plus d'une personne veut la défausse, la personne dont le prochain tour de jouer est le plus proche reçoit la carte. Ou une autre possibilité est de jouer à l'ancienne version « sans bataille » du Hoola, dans laquelle la carte du dessus de la défausse ne peut être prise que quand c'est votre tour de jouer. Dans le Hoola sans bataille, il n'y a aucune chance de prendre une carte défaussée par quelqu'un d'autre que le joueur immédiatement à votre gauche.
 
-**Six or Seven Players. **When 6 or 7 play, one or two players must drop out after the deal, leaving exactly five players in the game. The dealer is not allowed to drop out, so the player to dealer's right (assuming anticlockwise play) is the first to decide whether to play or drop out, followed by the others in turn. If four players in addition to the dealer have chosen to play, any remaining players must drop out. On the other hand, once one player has dropped out of a 6-player game or two players have dropped out of a 7-player game, the remaining players must play. Players who are **forced** to drop out (because there are already five players in the game) can claim compensation for any sevens, sets of three cards or suited sequences they have in their hands. Payments can vary according to prior agreement: Yishin Cho suggests a payment of ¼ stake for each seven, set or sequence, from each of the four players (other than the dealer) who chose to play, so that a player forced to drop out receives a total of 1 unit for each seven, set or sequence. Players who choose to drop out when they could have played cannot claim compensation. After the compensation payments if any have been made, the hands of the players who dropped out are given to the dealer and shuffled into the stock.
+**Six ou sept joueurs.** Quand 6 ou 7 joueurs jouent, un ou deux joueurs doivent se retirer après la donne, laissant exactement cinq joueurs dans le jeu. Le donneur n'est pas autorisé à se retirer, donc le joueur à la droite du donneur (en supposant un jeu dans le sens inverse des aiguilles d'une montre) est le premier à décider s'il joue ou se retire, suivi des autres à tour de rôle. Si quatre joueurs en plus du donneur ont choisi de jouer, tous les joueurs restants doivent se retirer. D'un autre côté, une fois qu'un joueur s'est retiré dans une partie à 6 ou que deux joueurs se sont retirés dans une partie à 7, les joueurs restants doivent jouer. Les joueurs qui sont **forcés** de se retirer (parce qu'il y a déjà cinq joueurs dans le jeu) peuvent réclamer une compensation pour tout sept, groupe de trois cartes ou séquence de même couleur qu'ils ont en main. Les paiements peuvent varier selon accord préalable : Yishin Cho suggère un paiement de ¼ de mise pour chaque sept, groupe ou séquence, de chacun des quatre joueurs (autres que le donneur) qui ont choisi de jouer, de sorte qu'un joueur forcé de se retirer reçoit un total de 1 unité pour chaque sept, groupe ou séquence. Les joueurs qui choisissent de se retirer alors qu'ils auraient pu jouer ne peuvent pas réclamer de compensation. Après les paiements de compensation s'il y en a eu, les mains des joueurs qui se sont retirés sont données au donneur et mélangées dans le talon.
 
-**Hoola Multiplier.** Some play that the multiplier for going out with a **Perfect** hand or **Hoola** (melding 7 cards at once) is only double, not quadruple.
+**Multiplicateur Hoola.** Certains jouent avec le multiplicateur pour sortir avec une main **Parfaite** ou **Hoola** (posant 7 cartes d'un coup) seulement doublé, pas quadruplé.
 
-**Double Stake Hand after Hoola.** Some play that if a player goes out with a **Perfect** (or **Hoola**) the next deal is played for double stakes. If that is also won with a Perfect hand, the stakes for the following hand are doubled again (four times the original stake) and so on.
+**Mise double après un Hoola.** Certains jouent avec la donne suivante jouée pour des mises doubles si un joueur sort avec un **Parfait** (ou **Hoola**). Si celle-ci est aussi gagnée avec une main parfaite, les mises de la main suivante sont à nouveau doublées (quatre fois la mise originale), et ainsi de suite.
 
-**No Meld Penalty. **Some play that a player automatically ranks last if they have 7 cards in hand when another player wins, even if this happens before they have had a turn to play.
+**Pénalité de non-posé.** Certains jouent avec un joueur automatiquement classé dernier s'il a 7 cartes en main quand un autre joueur gagne, même si cela arrive avant qu'il ait eu un tour pour jouer.
 
-**Value of Sevens.** Some play that 7's always count as 7 points, both for making blasts and when counting the points remaining in hand at the end of the play. 
+**Valeur des sept.** Certains jouent avec les 7 comptant toujours 7 points, à la fois pour faire des blasts et quand on compte les points restant en main à la fin du jeu.
 
-The following traditional rules involving Sevens are now rarely played.
+Les règles traditionnelles suivantes impliquant les sept sont maintenant rarement jouées.
 
-- **Waiting to claim Four Sevens.** The original rules was that a claim of four Sevens in hand, like a blast or a knock, was only allowed at the start of a player's turn. So on drawing a fourth Seven, the player would need to hold the four Sevens in hand, risking a loss in last place with a multiplier of 32 (four doubles for the Sevens and one for No Meld) if the game ended before their next turn. This is seldom worth the risk, so nowadays a claim of four Sevens in hand is normally allowed as soon as the fourth Seven is obtained.
+- **Attendre pour réclamer quatre sept.** La règle originale était qu'une réclamation de quatre sept en main, comme un blast ou un knock, n'était autorisée qu'au début du tour d'un joueur. Ainsi, en piochant un quatrième sept, le joueur devait garder les quatre sept en main, risquant une perte en dernière place avec un multiplicateur de 32 (quatre doubles pour les sept et un pour la non-posé) si le jeu se terminait avant son tour suivant. Cela vaut rarement le risque, donc de nos jours, une réclamation de quatre sept en main est normalement autorisée dès que le quatrième sept est obtenu.
 
-- **Grouping Sevens.** Some play that if there is a lone melded Seven on the table, a player who has two Sevens in hand can take the Seven from the table and meld it with the Sevens from hand as a set of three Sevens. Mostly this did not qualify as a normal meld, in that it would not entitle the player to add cards to melds
+- **Grouper les sept.** Certains jouent avec un joueur qui a deux sept en main pouvant prendre un sept posé seul sur la table et le combiner avec les sept de sa main en un groupe de trois sept, s'il y a un sept solitaire posé. Le plus souvent, cela ne comptait pas comme une combinaison normale, en ce sens que cela ne donnait pas droit au joueur d'ajouter des cartes aux combinaisons.
 
-- **Winning with Four Melded Sevens.** Some play that if a player melds all four Sevens, either single or in sets or runs, they win in the same way as if they had all four Sevens in hand.
+- **Gagner avec quatre sept posés.** Certains jouent avec un joueur qui pose les quatre sept, seuls ou en groupes ou en séquences, gagnant de la même manière que s'il avait les quatre sept en main.
 
-**Two Players without Knocks, Blasts, etc. **Some play the two-player game without blasts, four sevens or knocking. The play can only end when a player goes out by melding all their cards or the stock runs out. Some only allow going out with Hoola (all 7 cards melded at once).
+**Deux joueurs sans knocks, blasts, etc.** Certains jouent au jeu à deux sans blasts, sans quatre sept et sans knocking. Le jeu ne peut se terminer que quand un joueur sort en posant toutes ses cartes en combinaisons ou quand le talon s'épuise. Certains n'autorisent la sortie qu'avec un Hoola (les 7 cartes posées d'un coup).
 
-**Point Limit for Knock.** The maximum number of points with which you can knock varies from place to place and with the number of players. Some options are:
+**Limite de points pour le knock.** Le nombre maximum de points avec lesquels vous pouvez knocker varie d'un endroit à l'autre et avec le nombre de joueurs. Quelques options :
 
-- 7 points for 2 people, 10 points for 3 people, 15 points for 4 people 
+- 7 points pour 2 personnes, 10 points pour 3 personnes, 15 points pour 4 personnes
 
-- 5 points for 2 people, 15 points for 3 people, 21 points for 4 people 
+- 5 points pour 2 personnes, 15 points pour 3 personnes, 21 points pour 4 personnes
 
-- 5 points for 2 people, 10 points for 3 people, 15 points for 4 people, 21 points for 5 people 
+- 5 points pour 2 personnes, 10 points pour 3 personnes, 15 points pour 4 personnes, 21 points pour 5 personnes
 
-- 5 points regardless the number of players 
+- 5 points quel que soit le nombre de joueurs
 
-- 4 points regardless of the number of players
+- 4 points quel que soit le nombre de joueurs
 
-**Jokers.** Hoola is sometimes played with one or two Jokers, which are used as wild cards - in other words they can be used as a substitute for any needed card when putting down a meld. However a player is not allowed to use more than one Joker in a single meld, and a Joker cannot be melded alone as a Seven, only as part of a run or set. If a Joker is discarded, no other player may pick it up. There are various alternative ways to count jokers remaining in a player's hand when the play ends. The multipliers generally apply only if the player has had at least one turn to play. Possibilities are:
+**Jokers.** Le Hoola est parfois joué avec un ou deux jokers, qui sont utilisés comme cartes sauvages — en d'autres termes, ils peuvent être utilisés comme substitut de n'importe quelle carte nécessaire en posant une combinaison. Cependant, un joueur n'est pas autorisé à utiliser plus d'un joker dans une même combinaison, et un joker ne peut pas être posé seul comme un sept, seulement comme partie d'une séquence ou d'un groupe. Si un joker est défaussé, aucun autre joueur ne peut le ramasser. Il y a différentes manières alternatives de compter les jokers restant dans la main d'un joueur quand le jeu se termine. Les multiplicateurs ne s'appliquent généralement que si le joueur a eu au moins un tour pour jouer. Possibilités :
 
-- A joker counts 0 points, but doubles the points for the remainder of the hand. Two jokers multiply the points by 4. (recommended) 
+- Un joker compte 0 point, mais double les points pour le reste de la main. Deux jokers multiplient les points par 4. (recommandé)
 
-- A joker counts 0 points, but quintuples penalty points for the rest of the hand (as in 7-Bridge) 
+- Un joker compte 0 point, mais quintuple les points de pénalité pour le reste de la main (comme au 7-Bridge)
 
-- A joker counts 0 points, and has no effect on other points. 
+- Un joker compte 0 point et n'a aucun effet sur les autres points.
 
-- A joker counts 14 points, and triples points in the rest of the hand. Two jokers would count 28 points total and multiply the rest of the hand by 9 
+- Un joker compte 14 points et triple les points du reste de la main. Deux jokers compteraient 28 points au total et multiplieraient le reste de la main par 9
 
-- A joker counts 20 points, and has no effect on other points.
+- Un joker compte 20 points et n'a aucun effet sur les autres points.
 
-- A joker counts 30 points, and has no effect on other points.
+- Un joker compte 30 points et n'a aucun effet sur les autres points.
 
-**Direction of Play. **Occasionally the game is played clockwise, rather than anticlockwise. 
+**Sens du jeu.** Occasionnellement, le jeu se joue dans le sens des aiguilles d'une montre plutôt que dans le sens inverse.
 
-### Online Hoola
+### Hoola en ligne
 
-There are several popular online platforms for playing Hoola, notably Hangame, Pmang and Winjoy, and these often use rather different rules from the traditional game.
+Il y a plusieurs plateformes en ligne populaires pour jouer au Hoola, notamment Hangame, Pmang et Winjoy, et celles-ci utilisent souvent des règles assez différentes du jeu traditionnel.
 
-- Some online games allow a player to claim another player's discard to complete a blast or a set of four Sevens in hand. In this case the play ends immediately after the player has taken the discard (if claiming a blast the player will use only 7 of their 8 cards to make the required total). The discarder has to pay the losses of all other players, in the same way as when a player claims a discard to go out. However a player who makes the required point total for a blast by drawing a card from the stock has to wait until the start of their next turn to declare it, as in the normal offline game.
+- Certains jeux en ligne permettent à un joueur de réclamer la défausse d'un autre joueur pour compléter un blast ou un ensemble de quatre sept en main. Dans ce cas, le jeu se termine immédiatement après que le joueur a pris la défausse (en réclamant un blast, le joueur n'utilisera que 7 de ses 8 cartes pour atteindre le total requis). Le défausseur doit payer les pertes de tous les autres joueurs, de la même manière que quand un joueur réclame une défausse pour sortir. Cependant, un joueur qui atteint le total de points requis pour un blast en piochant une carte au talon doit attendre le début de son tour suivant pour le déclarer, comme dans le jeu hors ligne normal.
 
-- In online games, if a player knocks and is undercut, or if a player's discard is claimed by another player to go out, not only is the knocker or discarder ranked last and has to pay for all the losers, but this total payment is doubled even if there are more than two players.
+- Dans les jeux en ligne, si un joueur knock et est sous-coupé, ou si la défausse d'un joueur est réclamée par un autre joueur pour sortir, non seulement le knockeur ou le défausseur est classé dernier et doit payer tous les perdants, mais ce paiement total est doublé même s'il y a plus de deux joueurs.
 
-- In online games, multipliers for Sevens and Jokers held at the end of play and for a player who has melded no cards generally apply even if the player had no turn to play before the game ended.
+- Dans les jeux en ligne, les multiplicateurs pour les sept et les jokers tenus à la fin du jeu et pour un joueur qui n'a posé aucune carte s'appliquent généralement même si le joueur n'a eu aucun tour pour jouer avant la fin du jeu.
 
-- Online games with Jokers generally allow one Joker (but not two) to be used as a Seven to win with four Sevens.
+- Les jeux en ligne avec jokers permettent généralement d'utiliser un joker (mais pas deux) comme un sept pour gagner avec quatre sept.
 
-- In online games, if a player wins by a blast a multiplier is applied to the payments - usually ×7 or ×8.
+- Dans les jeux en ligne, si un joueur gagne par un blast, un multiplicateur est appliqué aux paiements — habituellement ×7 ou ×8.
 
-- In online games, if a player wins by 'big luck' (four Sevens in hand), a multiplier is applied to the payments - usually between ×7 and ×10.
+- Dans les jeux en ligne, si un joueur gagne par la « grande chance » (quatre sept en main), un multiplicateur est appliqué aux paiements — habituellement entre ×7 et ×10.
 
-- As in Go-Stop, online games generally offer 'missions' which give an extra random multiplier for a winner who performs particular feats during the game.
+- Comme au Go-Stop, les jeux en ligne offrent généralement des « missions » qui donnent un multiplicateur aléatoire supplémentaire à un vainqueur qui accomplit des exploits particuliers pendant le jeu.
 
-- On Winjoy 7's count as 14 points when making blasts as well as at the end of the game.
+- Sur Winjoy, les 7 comptent 14 points pour faire des blasts aussi bien qu'à la fin du jeu.
 
-- On Hangame, a major blast requires only 80 or more points (rather than 83 or more).
+- Sur Hangame, un grand blast ne requiert que 80 points ou plus (plutôt que 83 ou plus).
 
-### Doubtful Variants
+### Variantes douteuses
 
-**The following variants mentioned by one or more of my informants have problematic or unusual rules, and it is possible that they may be based on misunderstandings. I would be interested to know if any of the versions of the game described below are commonly played in Korea.**
+**Les variantes suivantes, mentionnées par un ou plusieurs de mes informateurs, ont des règles problématiques ou inhabituelles, et il est possible qu'elles soient basées sur des malentendus. Je serais intéressé de savoir si l'une des versions du jeu décrites ci-dessous est couramment pratiquée en Corée.**
 
-- Yishin Cho reports that some players count all picture cards (king, queen, jack) as 10 points. In this case, either the method of stopping the game by means of a blast is not used, or the requirement for a major blast could be to have a hand consisting entirely of kings, queens and jacks.
+- Yishin Cho rapporte que certains joueurs comptent toutes les cartes à figures (roi, dame, valet) comme 10 points. Dans ce cas, soit la méthode d'arrêt du jeu par un blast n'est pas utilisée, soit l'exigence d'un grand blast pourrait être d'avoir une main consistant entièrement en rois, dames et valets.
 
-- Hertzog gives the following alternative system of payments:
+- Hertzog donne le système de paiements alternatif suivant :
 
-- The loser who has most points in hand pays 3 stakes.
+- Le perdant qui a le plus de points en main paie 3 mises.
 
-- The loser with second most points in hand pays 2 stakes
+- Le perdant avec le deuxième plus de points en main paie 2 mises.
 
-- Any other losers pay one stake each
+- Tous les autres perdants paient une mise chacun.
 
-- **But:** players who have not melded any cards pay nothing at all.
+- **Mais :** les joueurs qui n'ont posé aucune carte ne paient rien du tout.
 
-This seems to have the curious effect that if you never meld any cards you cannot lose. To discourage this strategy, Hertzog recommends modifying the above system so that a player who has not melded any cards pays one half stake to the winner. 
+Cela semble avoir l'effet curieux que si vous ne posez jamais aucune carte, vous ne pouvez pas perdre. Pour décourager cette stratégie, Hertzog recommande de modifier le système ci-dessus pour qu'un joueur qui n'a posé aucune carte paie une demi-mise au vainqueur.
 
-According to Hertzog, only the dealer is allowed to stop the play without going out, and only if he has reduced his hand to one card. 
+Selon Hertzog, seul le donneur est autorisé à arrêter le jeu sans sortir, et seulement s'il a réduit sa main à une carte.
 
-- Glenn gives a rather different system for melding and adding to melds:
+- Glenn donne un système assez différent pour poser et ajouter aux combinaisons :
 
-- a set or run cannot have more than four cards
+- un groupe ou une séquence ne peut pas avoir plus de quatre cartes
 
-- when a meld reaches a size of four cards it is "killed" and the cards are shuffled into the deck
+- quand une combinaison atteint une taille de quatre cartes, elle est « tuée » et les cartes sont mélangées dans le jeu
 
-- when adding to melds it is possible to build a set on a run or a run on a set. The cards must be laid down in a specific order. For example: John drops a trick consisting of: the 9 of diamonds on 
-the bottom, the 9 of hearts in the middle and the 9 of spades on the 
-top. On her turn, Sally (who has already dropped a trick) can place the 
-10 of spades on John's 9 of spades, beginning a 9-10 straight flush. If Sally also has the Jack of spades she can add this card as well. When 
-Sally, or another player, finally add the Q to the trick (e.g. 9-10-J-Q) 
-those four cards are "killed" and placed in the discard pile. This 
-opens up John's original middle card - the 9 of hearts - for people to 
-add to.
+- en ajoutant aux combinaisons, il est possible de construire un groupe sur une séquence ou une séquence sur un groupe. Les cartes doivent être posées dans un ordre spécifique. Par exemple : Jean pose un tour consistant en : le 9 de carreau en bas, le 9 de cœur au milieu et le 9 de pique en haut. À son tour, Sally (qui a déjà posé un tour) peut placer le 10 de pique sur le 9 de pique de Jean, commençant une quinte 9-10. Si Sally a aussi le valet de pique, elle peut ajouter cette carte aussi. Quand Sally, ou un autre joueur, ajoute finalement la D au tour (par exemple 9-10-V-D), ces quatre cartes sont « tuées » et placées dans la défausse. Cela libère la carte du milieu d'origine de Jean — le 9 de cœur — pour que les gens y ajoutent.
 
-- On a 3 card Straight Flush you can add the next (ascending) card 
-in the series. (e.g. on a 3,4,5 of hearts, you can add the 6 of hearts.) 
-This kills the trick and the cards are discarded.
+- Sur une quinte de 3 cartes, vous pouvez ajouter la carte suivante (ascendante) de la série. (par exemple sur un 3,4,5 de cœur, vous pouvez ajouter le 6 de cœur.) Cela tue le tour et les cartes sont défaussées.
 
-- On a single seven you may start either an ascending straight 
-flush or a descending straight flush. Once started, the direction of 
-the straight cannot be changed. (e.g. on a seven of spades, you can add 
-the 6 of spades. Once this is done it is a descending straight. To 
-continue adding to the straight you can add a 5 and a 4, but you cannot 
-add an 8.)
+- Sur un sept unique, vous pouvez commencer soit une quinte ascendante, soit une quinte descendante. Une fois commencée, la direction de la quinte ne peut pas être changée. (par exemple sur un sept de pique, vous pouvez ajouter le 6 de pique. Une fois cela fait, c'est une quinte descendante. Pour continuer à ajouter à la quinte, vous pouvez ajouter un 5 et un 4, mais vous ne pouvez pas ajouter un 8.)
 
-- According to Yishin Cho, some play that when counting the value of cards remaining in player's hands, cards in an unmelded quad (four equal cards) are not counted.
+- Selon Yishin Cho, certains jouent avec les cartes d'un carré non posé (quatre cartes égales) non comptées quand on compte la valeur des cartes restant dans les mains des joueurs.
 
-- Some play that if a player stops the game and is "undercut", another player having the same number of points or fewer, the player who stopped the game must pay an agreed fixed penalty to each opponent - for example 5 stakes - and there are no other payments. 
+- Certains jouent avec un joueur qui arrête le jeu et est « sous-coupé » — un autre joueur ayant le même nombre de points ou moins — devant payer à chaque adversaire une pénalité fixe convenue — par exemple 5 mises — et aucun autre paiement n'est fait.
 
-I would be interested to hear from anyone else who plays the above variants 1-5. For example none of my correspondents so far other than Glenn has mentioned the killing of melds, or building a run on a set, or the idea that runs can only be extended in one direction. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Hoola
+Je serais intéressé d'avoir des nouvelles de toute autre personne qui joue aux variantes 1-5 ci-dessus. Par exemple, aucun de mes correspondants jusqu'à présent, à part Glenn, n'a mentionné le fait de tuer les combinaisons, ou de construire une séquence sur un groupe, ou l'idée que les séquences ne peuvent être étendues que dans une seule direction.

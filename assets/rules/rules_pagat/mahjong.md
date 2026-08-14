@@ -1,53 +1,52 @@
-# Mahjong
+# Mah Jong
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** The game of Mah Jong: introduction, sources of rules, information and equipment, and places to play online.
+**Type :** Rami
+**But :** Le jeu de Mah Jong : introduction, sources de règles, informations et matériel, et endroits pour jouer en ligne.
+**Autres noms :** Mahjong, Mah-Jongg, Mahjongg
 
 ---
 
 ## Introduction
 
-Mah Jong originated in China in the 19th century, and has become one of the most popular games in China and Japan. It is usually played with tiles, though it can also be played with cards of equivalent design.
+Le Mah Jong est né en Chine au XIXe siècle et est devenu l'un des jeux les plus populaires de Chine et du Japon. Il se joue habituellement avec des tuiles, bien qu'il puisse aussi se jouer avec des cartes de conception équivalente.
 
-Sets traditionally consist of 144 cards or tiles as follows:
+Les jeux se composent traditionnellement de 144 cartes ou tuiles comme suit :
 
-- Three suits with tiles numbered 1 to 9. The usual English names for the suits are circles, bamboos and characters. There are four identical copies of each suit tile - 108 suit tiles in all.
+- Trois couleurs avec des tuiles numérotées de 1 à 9. Les noms anglais habituels des couleurs sont cercles, bambous et caractères. Il y a quatre copies identiques de chaque tuile de couleur — 108 tuiles de couleur au total.
 
-- The four directions or "winds" (east, north, west, south) - four copies of each (16 tiles)
+- Les quatre directions ou « vents » (est, nord, ouest, sud) — quatre copies de chacun (16 tuiles)
 
-- Three colours or "dragons" (red, green, white) - again four copies of each, so 12 tiles.
+- Trois couleurs ou « dragons » (rouge, vert, blanc) — encore quatre copies de chacun, soit 12 tuiles.
 
-- Bonus tiles: four different "flower" tiles and four different "season" tiles - so 8 bonus tiles in all, though some sets may have more.
+- Tuiles bonus : quatre tuiles « fleur » différentes et quatre tuiles « saison » différentes — donc 8 tuiles bonus au total, bien que certains jeux puissent en avoir plus.
 
-In the traditional game, 13 tiles are dealt to each player, and the object is, by a draw and discard mechanism, to form a winning hand of 14 tiles. This normally consists of four sets of three and a pair. A set of three can be three identical tiles or three tiles of the same suit in numerical sequence. Depending on the variation played, the game can also be won with various special hands containing other combinations of tiles. There are numerous extra bonuses for feats such as winning with a single suit, or with a hand consisting entirely of winds and dragons.
+Dans le jeu traditionnel, 13 tuiles sont distribuées à chaque joueur, et l'objectif est, par un mécanisme de pioche et de défausse, de former une main gagnante de 14 tuiles. Cela consiste normalement en quatre combinaisons de trois et une paire. Une combinaison de trois peut être trois tuiles identiques ou trois tuiles de la même couleur en séquence numérique. Selon la variante jouée, le jeu peut aussi être gagné avec diverses mains spéciales contenant d'autres combinaisons de tuiles. Il existe de nombreux bonus supplémentaires pour des exploits comme gagner avec une seule couleur, ou avec une main consistant entièrement en vents et dragons.
 
-There are several versions of the rules. Mah Jong is played differently in China, Taiwan and Japan, and when the game was brought to the USA yet more variations were invented there. 
+Il y a plusieurs versions des règles. Le Mah Jong se joue différemment en Chine, à Taïwan et au Japon, et quand le jeu a été importé aux États-Unis, d'autres variantes encore y ont été inventées.
 
-## Sites for Mah Jong information
+## Sites d'information sur le Mah Jong
 
-Probably the best starting point for exploration is Tom Slopers's [Mah Jong FAQ](https://www.sloperama.com/mjfaq.html), which is the FAQ of the newsgroup rec.games.mahjong
+Probablement le meilleur point de départ pour explorer est la [FAQ Mah Jong](https://www.sloperama.com/mjfaq.html) de Tom Sloper, qui est la FAQ du groupe de discussion rec.games.mahjong.
 
-The [Mahjong Wiki](http://mahjong.wikidot.com/) provides rules and information on several versions of Mah Jong: Chinees, Japanese, Korean and others.
+Le [Mahjong Wiki](http://mahjong.wikidot.com/) fournit des règles et des informations sur plusieurs versions du Mah Jong : chinoises, japonaises, coréennes et autres.
 
-Here are a few other useful links for Mahjong information:
+Voici quelques autres liens utiles pour l'information sur le Mahjong :
 
-- Alan Kwan's page on his [Zung Jung Mah Jong](https://www.zj-mahjong.info/) scoring system.
+- La page d'Alan Kwan sur son système de score [Zung Jung Mah Jong](https://www.zj-mahjong.info/).
 
-- Wei-Hwa Huang's page on [Japanese Mah Jong](https://web.archive.org/web/20160611164821/http://ofb.net/~whuang/ugcs/gp/mahjong/mahjong.html) (archive copy).
+- La page de Wei-Hwa Huang sur le [Mah Jong japonais](https://web.archive.org/web/20160611164821/http://ofb.net/~whuang/ugcs/gp/mahjong/mahjong.html) (copie d'archive).
 
-- Steve Willoghby's page on [Taiwan 16-tile Mahjong](https://web.archive.org/web/20180227055906/http://www.rag.com:80/~steve/mahjong) (archive copy).
+- La page de Steve Willoghby sur le [Mahjong taïwanais à 16 tuiles](https://web.archive.org/web/20180227055906/http://www.rag.com:80/~steve/mahjong) (copie d'archive).
 
-Readers interested in solitaire tile matching games using Mah Jong or other tiles should visit the Tile Matching page of this web site.
+Les lecteurs intéressés par les jeux de solitaire d'appariement de tuiles utilisant le Mah Jong ou d'autres tuiles devraient visiter la page Tile Matching de ce site web.
 
-## Online Mah Jong
+## Mah Jong en ligne
 
-Some places to play Mah Jong on line: 
+Quelques endroits pour jouer au Mah Jong en ligne :
 
-- At [MahjongTime.com](https://mahjongtime.com) you can play Mahjong against live opponents, and win money and prizes. Registration is free and no download is required. 
+- Sur [MahjongTime.com](https://mahjongtime.com), vous pouvez jouer au Mahjong contre des adversaires en direct, et gagner de l'argent et des prix. L'inscription est gratuite et aucun téléchargement n'est requis.
 
-## Mah Jong Equipment
+## Matériel de Mah Jong
 
-[Where the Winds Blow](https://wherethewindsblow.com/) specialises in selling Mah Jong sets, books and accessories.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Mah Jong
+[Where the Winds Blow](https://wherethewindsblow.com/) se spécialise dans la vente de jeux de Mah Jong, de livres et d'accessoires.

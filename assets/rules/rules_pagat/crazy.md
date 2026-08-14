@@ -2,234 +2,232 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A card game with many variants and names, played with 7-card hands with a wild card that changes from deal to deal.
+**Type :** Rami
+**But :** Un jeu de cartes à nombreuses variantes et noms, joué avec des mains de 7 cartes et une carte sauvage qui change à chaque donne.
 
 ---
 
 ## Introduction
 
-This Rummy game consists of series of deals each using a different wild card. In the first deal Aces are wild, then Twos, Threes and so on, usually ending with the 13th deal in which Kings are wild. Unlike 3-13 Rummy, in this game every deal is played with 7-card hands, and during the play the players can meld part of their hand and lay off cards on other players' melds.
+Ce jeu de rami consiste en une série de donnes utilisant chacune une carte sauvage différente. À la première donne, les as sont sauvages, puis les deux, les trois et ainsi de suite, se terminant généralement par la 13e donne où les rois sont sauvages. Contrairement au 3-13 Rummy, dans ce jeu chaque donne se joue avec des mains de 7 cartes, et pendant le jeu les joueurs peuvent étaler une partie de leur main et déposer des cartes sur les étalages des autres joueurs.
 
-This game goes by a large number of different names, and the rules differ from place to place. Most of the descriptions I have seen come from North America, but it is also played in South Wales and Dorset in the UK and probably in other places. Alternative names for the game include **Lamsees**, **Lambz**, **Dummy Rummy**, **Dumb Dumb**, **Biddies**, **Beanie**, **Mexican Rummy**, **Cleveland Rummy**, **Canadian Gin**, **Crazy Gin**, **Ace to Ace**, **Montana 13**, **13 Brasses**, **Nokomis** and several others.
+Ce jeu porte un grand nombre de noms différents, et les règles diffèrent d'un endroit à l'autre. La plupart des descriptions que j'ai vues viennent d'Amérique du Nord, mais il est aussi joué dans le sud du Pays de Galles et le Dorset au Royaume-Uni et probablement ailleurs. Les autres noms du jeu incluent **Lamsees**, **Lambz**, **Dummy Rummy**, **Dumb Dumb**, **Biddies**, **Beanie**, **Mexican Rummy**, **Cleveland Rummy**, **Canadian Gin**, **Crazy Gin**, **Ace to Ace**, **Montana 13**, **13 Brasses**, **Nokomis** et plusieurs autres.
 
-I am grateful to the many people who have sent descriptions of different versions this game. They include Paul Eaton, Jennifer Gregorio, John Greer, Michael Jones, Shayne Lewis, Dave McManus, Rammy Meyerowitz, William Mihalic and Michael Oxner.
+Je suis reconnaissant aux nombreuses personnes qui ont envoyé des descriptions de différentes versions de ce jeu. Elles incluent Paul Eaton, Jennifer Gregorio, John Greer, Michael Jones, Shayne Lewis, Dave McManus, Rammy Meyerowitz, William Mihalic et Michael Oxner.
 
-The basic rules common to most or all of these versions of the game will be given first, followed by a survey of the variants that I have come across.
+Les règles de base communes à la plupart ou à la totalité de ces versions du jeu seront données d'abord, suivies d'un survol des variantes que j'ai rencontrées.
 
-## Players and Cards
+## Joueurs et cartes
 
-From 3 to 6 people can play, using a standard international 52-card pack. The cards of each suit rank from high to low K-Q-J-10-9-8-7-6-5-4-3-2-A. Deal and play are clockwise.
+De 3 à 6 personnes peuvent jouer, en utilisant un jeu international standard de 52 cartes. Les cartes de chaque couleur se classent de la plus haute à la plus basse R-D-V-10-9-8-7-6-5-4-3-2-A. La donne et le jeu se déroulent dans le sens des aiguilles d'une montre.
 
-## Objective and Melds
+## Objectif et combinaisons
 
-A complete game consists of 13 deals. In each deal, the players aim to get rid of all their cards by melding them, that is laying them down in valid combinations (or melds) face up on the table.
+Une partie complète consiste en 13 donnes. À chaque donne, les joueurs visent à se débarrasser de toutes leurs cartes en les étalant, c'est-à-dire en les posant dans des combinaisons valides (ou étalages) face visible sur la table.
 
-There are two types of melds: sets and runs. 
+Il y a deux types d'étalages : les brelans et les séquences.
 
-- A **set** consists of three or four cards of equal rank - for example ![diamond](../images/internat/diamond.gif)8-![spade](../images/internat/spade.gif)8-![heart](../images/internat/heart.gif)8 or ![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)Q-![spade](../images/internat/spade.gif)Q-![diamond](../images/internat/diamond.gif)Q.
+- Un **brelan** (ensemble) consiste en trois ou quatre cartes de même valeur — par exemple ![diamond](../images/internat/diamond.gif)8-![spade](../images/internat/spade.gif)8-![heart](../images/internat/heart.gif)8 ou ![club](../images/internat/club.gif)D-![heart](../images/internat/heart.gif)D-![spade](../images/internat/spade.gif)D-![diamond](../images/internat/diamond.gif)D.
 
-- A **run** consists of three or more consecutive cards of the same suit - for example ![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3-![spade](../images/internat/spade.gif)4 or ![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)K or ![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)8.
+- Une **séquence** consiste en trois cartes consécutives ou plus de la même couleur — par exemple ![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3-![spade](../images/internat/spade.gif)4 ou ![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)V-![diamond](../images/internat/diamond.gif)D-![diamond](../images/internat/diamond.gif)R ou ![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)8.
 
-Note that Aces are always low in runs. A-2-3 of a suit is a run but Q-K-A or K-A-2 of a suit are not valid runs.
+Notez que les as sont toujours bas dans les séquences. A-2-3 d'une couleur est une séquence mais D-R-A ou R-A-2 d'une couleur ne sont pas des séquences valides.
 
-In each deal the cards of one rank are wild. In the first deal all Aces are wild, in the second deal all Twos, then Threes, Fours and so on upwards until the thirteenth and final deal when all Kings are wild. A wild card can be used as a substitute for any card in a combination. For example in the seventh deal ![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)10-![heart](../images/internat/heart.gif)10 is a valid set and ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)7 is a valid run. 
+À chaque donne, les cartes d'une valeur sont sauvages. À la première donne, tous les as sont sauvages, à la deuxième donne tous les deux, puis les trois, les quatre et ainsi de suite vers le haut jusqu'à la treizième et dernière donne où tous les rois sont sauvages. Une carte sauvage peut être utilisée comme substitut de n'importe quelle carte d'une combinaison. Par exemple, à la septième donne, ![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)10-![heart](../images/internat/heart.gif)10 est un brelan valide et ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)7 est une séquence valide.
 
-When a wild card is used in a run, the arrangement of the cards indicates which card it represents. A player holding ![heart](../images/internat/heart.gif)5, ![heart](../images/internat/heart.gif)6 and ![club](../images/internat/club.gif)9 in the ninth deal could lay them down as ![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![club](../images/internat/club.gif)9 in which case the 9 represents the ![heart](../images/internat/heart.gif)7. This run could later be extended by adding the ![heart](../images/internat/heart.gif)8 but not the ![heart](../images/internat/heart.gif)3. Alternatively the same three cards could be laid down as ![club](../images/internat/club.gif)9-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6 with the 9 representing the ![heart](../images/internat/heart.gif)4, so that the run can be extended by the ![heart](../images/internat/heart.gif)3 but not by the ![heart](../images/internat/heart.gif)8.
+Quand une carte sauvage est utilisée dans une séquence, la disposition des cartes indique quelle carte elle représente. Un joueur tenant ![heart](../images/internat/heart.gif)5, ![heart](../images/internat/heart.gif)6 et ![club](../images/internat/club.gif)9 à la neuvième donne pourrait les poser comme ![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![club](../images/internat/club.gif)9, auquel cas le 9 représente le ![heart](../images/internat/heart.gif)7. Cette séquence pourrait ensuite être étendue en ajoutant le ![heart](../images/internat/heart.gif)8 mais pas le ![heart](../images/internat/heart.gif)3. Alternativement, les trois mêmes cartes pourraient être posées comme ![club](../images/internat/club.gif)9-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6 avec le 9 représentant le ![heart](../images/internat/heart.gif)4, de sorte que la séquence puisse être étendue par le ![heart](../images/internat/heart.gif)3 mais pas par le ![heart](../images/internat/heart.gif)8.
 
-In a set, a wild card can represent any missing suit. In the ninth deal a player who puts down ![heart](../images/internat/heart.gif)Q-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)9 does not need to specify whether the 9 represents the club or the diamond Queen. 
+Dans un brelan, une carte sauvage peut représenter n'importe quelle couleur manquante. À la neuvième donne, un joueur qui pose ![heart](../images/internat/heart.gif)D-![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)9 n'a pas besoin de préciser si le 9 représente la dame de trèfle ou de carreau.
 
-There is no limit to the number of wild cards that can be used as substitutes to make up a set or run. When two or more wild cards are used, the player putting down the combination must state, if there is any ambiguity, whether it is meant to be a set or a run and what the wild cards represent. For example in the third deal ![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)3 could be a set of three Jacks, or J-Q-K of diamonds, or 9-10-J of diamonds if seen from the other side. The player must say which it is when putting it down and it must be treated as such in the subsequent play if it is extended or wild cards reclaimed.
+Il n'y a pas de limite au nombre de cartes sauvages pouvant être utilisées comme substituts pour composer un brelan ou une séquence. Quand deux cartes sauvages ou plus sont utilisées, le joueur qui pose la combinaison doit déclarer, s'il y a une ambiguïté, s'il s'agit d'un brelan ou d'une séquence et ce que représentent les cartes sauvages. Par exemple, à la troisième donne, ![diamond](../images/internat/diamond.gif)V-![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)3 pourrait être un brelan de trois valets, ou V-D-R de carreaux, ou 9-10-V de carreaux vus de l'autre côté. Le joueur doit dire ce que c'est en le posant et cela doit être traité ainsi dans le jeu ultérieur si c'est étendu ou si des cartes sauvages sont récupérées.
 
-Note that a set can never contain more than four cards. In the eleventh deal ![club](../images/internat/club.gif)K-![heart](../images/internat/heart.gif)K-![club](../images/internat/club.gif)J-![diamond](../images/internat/diamond.gif)J is a set of four Kings, with the Jacks representing the Kings of diamonds and spades, but it is impossible to add another wild Jack to this set, as there is no fifth King that it could represent.
+Notez qu'un brelan ne peut jamais contenir plus de quatre cartes. À la onzième donne, ![club](../images/internat/club.gif)R-![heart](../images/internat/heart.gif)R-![club](../images/internat/club.gif)V-![diamond](../images/internat/diamond.gif)V est un brelan de quatre rois, les valets représentant les rois de carreau et de pique, mais il est impossible d'ajouter un autre valet sauvage à ce brelan, car il n'y a pas de cinquième roi qu'il pourrait représenter.
 
-## Deal
+## Donne
 
-The first dealer is chosen by any convenient random method. For example players may draw cards from the shuffled deck and the player who draws the lowest card deals first (in case of a tie for lowest the tied players draw again).
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Par exemple, les joueurs peuvent tirer des cartes du paquet mélangé et le joueur qui tire la carte la plus basse donne en premier (en cas d'égalité pour la plus basse, les joueurs ex æquo retirent).
 
-The dealer deals seven cards to each player, one at a time, and ends by dealing an eighth card to the player to their left, who has the first turn. The remaining cards are stacked face down to form a drawing stock.
+Le donneur distribue sept cartes à chaque joueur, une par une, et termine en distribuant une huitième carte au joueur à sa gauche, qui a le premier tour. Les cartes restantes sont empilées face cachée pour former un talon de pioche.
 
-## Play
+## Jeu
 
-The first player begins by (optionally) putting down any melds that can be formed from their hand of eight cards, and then discarding one card face up beside the stock pile to start the discard pile. The turn to play then passes to the left and each turn consists of: 
+Le premier joueur commence en posant (éventuellement) les étalages qui peuvent être formés de sa main de huit cartes, puis en défaussant une carte face visible à côté du talon pour commencer la défausse. Le tour de jouer passe ensuite à la gauche et chaque tour consiste à :
 
-- drawing either the top card of the face down stock or the top card of the discard pile, then
+- piocher soit la carte du dessus du talon face cachée soit la carte du dessus de la défausse, puis
 
-- optionally putting down valid melds, and finally
+- éventuellement poser des étalages valides, et enfin
 
-- discarding one card face up on top of the discard pile.
+- défausser une carte face visible sur le dessus de la défausse.
 
-The first meld a player lays down must be a new set of 3 or 4 cards or run of 3 or more cards. Players who have done this may, in the same or in later turns, add further cards from their hand to extend any sets or runs already on the table, both their own and those originally laid down by other players, as well as laying down new melds.
+Le premier étalage qu'un joueur pose doit être un nouveau brelan de 3 ou 4 cartes ou une séquence de 3 cartes ou plus. Les joueurs qui ont fait cela peuvent, au même tour ou aux tours suivants, ajouter d'autres cartes de leur main pour étendre tout brelan ou toute séquence déjà sur la table, les leurs et ceux posés à l'origine par d'autres joueurs, ainsi que poser de nouveaux étalages.
 
-A player who has already laid down a set or run may take a wild card from the table if they hold the real card that it represents. This can only be done in stage 2 of their turn after drawing. The wild card that is taken can be used as the player wishes - it can be put down as part of the same or another meld, or they may risk keeping it in their hand for later use. For example if in the second deal (Twos wild) there is a run ![heart](../images/internat/heart.gif)7-![club](../images/internat/club.gif)2-![heart](../images/internat/heart.gif)9 on the table, a player holding ![heart](../images/internat/heart.gif)5 and ![heart](../images/internat/heart.gif)8 could - provided that they had already laid down a set or run of their own, replace the ![club](../images/internat/club.gif)2 by the real ![heart](../images/internat/heart.gif)8 and move the ![club](../images/internat/club.gif)2 to represent the ![heart](../images/internat/heart.gif)6 so that the ![heart](../images/internat/heart.gif)5 could be added, making ![heart](../images/internat/heart.gif)5-![club](../images/internat/club.gif)2-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9. Since a wild card in a set can represent any missing suit, in the second deal the wild Two in the set ![club](../images/internat/club.gif)K-![diamond](../images/internat/diamond.gif)K-![spade](../images/internat/spade.gif)2 can be claimed in exchange for either the ![spade](../images/internat/spade.gif)K or the ![heart](../images/internat/heart.gif)K.
+Un joueur qui a déjà posé un brelan ou une séquence peut prendre une carte sauvage de la table s'il détient la carte réelle qu'elle représente. Cela ne peut être fait qu'à l'étape 2 de son tour, après la pioche. La carte sauvage prise peut être utilisée comme le joueur le souhaite — elle peut être posée comme partie du même étalage ou d'un autre, ou il peut risquer de la garder en main pour un usage ultérieur. Par exemple, si à la deuxième donne (deux sauvages) il y a une séquence ![heart](../images/internat/heart.gif)7-![club](../images/internat/club.gif)2-![heart](../images/internat/heart.gif)9 sur la table, un joueur tenant ![heart](../images/internat/heart.gif)5 et ![heart](../images/internat/heart.gif)8 pourrait — à condition d'avoir déjà posé son propre brelan ou séquence — remplacer le ![club](../images/internat/club.gif)2 par le vrai ![heart](../images/internat/heart.gif)8 et déplacer le ![club](../images/internat/club.gif)2 pour représenter le ![heart](../images/internat/heart.gif)6 afin que le ![heart](../images/internat/heart.gif)5 puisse être ajouté, donnant ![heart](../images/internat/heart.gif)5-![club](../images/internat/club.gif)2-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9. Comme une carte sauvage dans un brelan peut représenter n'importe quelle couleur manquante, à la deuxième donne le deux sauvage du brelan ![club](../images/internat/club.gif)R-![diamond](../images/internat/diamond.gif)R-![spade](../images/internat/spade.gif)2 peut être réclamé en échange du ![spade](../images/internat/spade.gif)R ou du ![heart](../images/internat/heart.gif)R.
 
-A player who is able to lay down all their cards but one in step 2 of their turn can discard their last card and "go out", ending the play. A final discard is always required. A player who has two cards in hand and draws a third that completes a set or run cannot lay down this combination, because that would leave them with no card to discard.
+Un joueur qui peut poser toutes ses cartes sauf une à l'étape 2 de son tour peut défausser sa dernière carte et « sortir », mettant fin au jeu. Une défausse finale est toujours requise. Un joueur qui a deux cartes en main et pioche une troisième qui complète un brelan ou une séquence ne peut pas poser cette combinaison, car cela le laisserait sans carte à défausser.
 
-It may happen that the whole stock is exhausted before anyone has gone out. This may happen, for example, if all the melds on the table are sets of four, which cannot be extended. When the player who drew the last card of the stock discards without going out the play ends immediately and the hand is scored: everyone gets penalty points for the cards they have left.
+Il peut arriver que tout le talon soit épuisé avant que quelqu'un ne sorte. Cela peut arriver, par exemple, si tous les étalages sur la table sont des brelans de quatre, qui ne peuvent pas être étendus. Quand le joueur qui a pioché la dernière carte du talon défausse sans sortir, le jeu se termine immédiatement et la manche est comptée : tout le monde reçoit des points de pénalité pour les cartes qui lui restent.
 
-Any player who has only one card left in their hand is subject to extra restrictions:
+Tout joueur qui n'a plus qu'une seule carte en main est soumis à des restrictions supplémentaires :
 
-- They must start their turn by drawing from the stock, not from the discard pile.
+- Il doit commencer son tour en piochant au talon, pas à la défausse.
 
-- If they can get rid of one of their cards by adding it to a meld on the table, they may do so and discard the other card to go out.
+- S'il peut se débarrasser d'une de ses cartes en l'ajoutant à un étalage sur la table, il peut le faire et défausser l'autre carte pour sortir.
 
-- If they do not go out, they must keep the card they drew and discard the card that was previously in their hand.
+- S'il ne sort pas, il doit garder la carte qu'il a piochée et défausser la carte qui était précédemment dans sa main.
 
-One purpose of these restrictions is to prevent a player with one card from minimising their loss by drawing a low card such as an Ace and then hanging onto it until the end while drawing and discarding other cards. They must keep replacing their card and thereby risk having a 10 in hand when some other player goes out. 
+Un but de ces restrictions est d'empêcher un joueur à une carte de minimiser sa perte en piochant une carte basse comme un as puis en s'y accrochant jusqu'à la fin pendant qu'il pioche et défausse d'autres cartes. Il doit continuellement remplacer sa carte et risque ainsi d'avoir un 10 en main quand un autre joueur sort.
 
-It is never compulsory for a player to lay down cards just because they are able to. It is legitimate to keep playable cards or even entire melds in your hand, and it is sometimes good tactics to do so. Of course cards held in this way will count for penalty points as usual if some other player goes out. 
+Il n'est jamais obligatoire pour un joueur de poser des cartes simplement parce qu'il le peut. Il est légitime de garder des cartes jouables ou même des étalages entiers en main, et c'est parfois une bonne tactique. Bien sûr, les cartes ainsi gardées compteront pour des points de pénalité comme d'habitude si un autre joueur sort.
 
-## Scoring
+## Score
 
-A cumulative score is kept for each player. A player who goes out scores no points and the others score penalty points for the cards remaining in their hands.
+Un score cumulé est tenu pour chaque joueur. Un joueur qui sort ne marque aucun point et les autres marquent des points de pénalité pour les cartes restant dans leurs mains.
 
-Wild cards count 25 points each, and non-wild cards score as follows:
+Les cartes sauvages comptent 25 points chacune, et les cartes non sauvages marquent comme suit :
 
-| Aces: | 1 point each |
-| Number cards 2 to 10: | face value |
-| Jack, Queen, King: | 10 points each |
+| As : | 1 point chacun |
+| Cartes numérotées de 2 à 10 : | valeur faciale |
+| Valet, Dame, Roi : | 10 points chacun |
 
-The player with the lowest penalty point total at the end of the game is the winner. 
+Le joueur avec le plus petit total de points de pénalité à la fin de la partie est le vainqueur.
 
-## Variations
+## Variantes
 
-Some deal 10 cards each when 2 or 3 play.
+Certains distribuent 10 cartes à chacun quand il y a 2 ou 3 joueurs.
 
-Some use a double deck of 104 cards when there are more than four players. In this double deck game a set can include duplicate cards - for example ![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)Q-![diamond](../images/internat/diamond.gif)Q is a valid set, and a set can therefore contain as many as eight cards. Some allow a set that includes wild cards to have more than eight cards even though there is no real card in the pack that the excess wild cards could represent.
+Certains utilisent un double jeu de 104 cartes quand il y a plus de quatre joueurs. Dans ce jeu à double jeu, un brelan peut inclure des cartes dupliquées — par exemple ![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)D-![diamond](../images/internat/diamond.gif)D est un brelan valide, et un brelan peut donc contenir jusqu'à huit cartes. Certains autorisent un brelan incluant des cartes sauvages à avoir plus de huit cartes même s'il n'y a pas de carte réelle dans le jeu que les cartes sauvages en excès pourraient représenter.
 
-In some groups it is the dealer, rather than the player to dealer's left, who is dealt eight cards and plays first.
+Dans certains groupes, c'est le donneur, plutôt que le joueur à sa gauche, qui reçoit huit cartes et joue en premier.
 
-Some do not allow the first player to meld in their first turn - this player must just discard one of their eight cards and wait for their second turn to put down any sets or runs they may be holding.
+Certains n'autorisent pas le premier joueur à étaler à son premier tour — ce joueur doit juste défausser une de ses huit cartes et attendre son second tour pour poser les brelans ou séquences qu'il détient peut-être.
 
-When a player claims a wild card from the table in exchange for the card that it represents, some do not allow the player to store the wild card in their hand but insist that it be reused immediately to extend an existing meld on the table or as part of a new meld.
+Quand un joueur réclame une carte sauvage de la table en échange de la carte qu'elle représente, certains n'autorisent pas le joueur à la garder en main mais insistent pour qu'elle soit immédiatement réutilisée pour étendre un étalage existant sur la table ou comme partie d'un nouvel étalage.
 
-Some descriptions do not mention the special restrictions for a player who is down to one card. This maybe an oversight, but probably there are many groups who play without these restrictions.
+Certaines descriptions ne mentionnent pas les restrictions spéciales pour un joueur réduit à une carte. C'est peut-être un oubli, mais il y a probablement beaucoup de groupes qui jouent sans ces restrictions.
 
-Some play that when the last card of the stock pile is drawn the discard pile is shuffled and stacked face down to form a new stock pile, the discard of the player who drew the last card from the stock starts the new discard pile, and play continues.
+Certains jouent que quand la dernière carte du talon est piochée, la défausse est battue et empilée face cachée pour former un nouveau talon, la défausse du joueur qui a pioché la dernière carte du talon commence la nouvelle défausse, et le jeu continue.
 
-Some count wild cards as 15 or 20 points rather than 25. 
+Certains comptent les cartes sauvages à 15 ou 20 points plutôt que 25.
 
-Some groups score 11 points for Jacks, 12 for Queens and 13 for Kings.
+Certains groupes marquent 11 points pour les valets, 12 pour les dames et 13 pour les rois.
 
-Some play that when the the wild card is 7 or King, all penalty points for that hand are doubled. 
+Certains jouent que quand la carte sauvage est le 7 ou le roi, tous les points de pénalité de cette manche sont doublés.
 
-Some give a bonus (say 15 points) to the player who went out rather than just letting them score zero. If you write penalty points as positive numbers, that would mean that the player who goes out subtracts 15 from their cumulative score while the other players add the value of the cards remaining in their hands.
+Certains donnent un bonus (disons 15 points) au joueur qui est sorti plutôt que de simplement le laisser marquer zéro. Si vous écrivez les points de pénalité comme des nombres positifs, cela signifierait que le joueur qui sort soustrait 15 de son score cumulé tandis que les autres joueurs ajoutent la valeur des cartes restant dans leurs mains.
 
-Some play for money, typically at a rate of 1 cent per point, rounded to the nearest 5 cents. There are two ways to manage this: 
+Certains jouent pour de l'argent, typiquement à un taux de 1 centime par point, arrondi aux 5 centimes les plus proches. Il y a deux façons de gérer cela :
 
-- **Every player pays to or receives from every other player** according to the difference between their scores. 
+- **Chaque joueur paie ou reçoit de chaque autre joueur** selon la différence entre leurs scores.
 
-**Example:** player A ends with 184 points, player B with 137, player C with 250, player D with 241. 
+**Exemple :** le joueur A termine avec 184 points, le joueur B avec 137, le joueur C avec 250, le joueur D avec 241.
 
-Player A pays $0.45 to B, receives $0.65 from C and receives $0.55 from D: total gain $0.75.
+Le joueur A paie 0,45 $ à B, reçoit 0,65 $ de C et reçoit 0,55 $ de D : gain total 0,75 $.
 
-Player B receives $0.45 from A, 
-$1.15 from C and $1.05 from D: total gain $2.65. 
+Le joueur B reçoit 0,45 $ de A,
+1,15 $ de C et 1,05 $ de D : gain total 2,65 $.
 
-Player C pays $0.65 to A, $1.15 to B and $0.10 to D: total loss $1.90.
+Le joueur C paie 0,65 $ à A, 1,15 $ à B et 0,10 $ à D : perte totale 1,90 $.
 
-Player D pays $0.55 to A and $1.05 to B and receives $0.10 from C: total loss $1.50.
+Le joueur D paie 0,55 $ à A et 1,05 $ à B et reçoit 0,10 $ de C : perte totale 1,50 $.
 
-- **Only the winner receives the difference in score from each other player.**
+- **Seul le vainqueur reçoit la différence de score de chaque autre joueur.**
 
-**Example:** with the same scores as above player B wins $2.65 as before but A loses $0.45, C loses just $1.15 and D loses just $1.05.
+**Exemple :** avec les mêmes scores que ci-dessus, le joueur B gagne 2,65 $ comme avant mais A perd 0,45 $, C ne perd que 1,15 $ et D ne perd que 1,05 $.
 
-Some play that in addition to the above, the winner of each deal is paid 5 cents by each other player.
+Certains jouent qu'en plus de ce qui précède, le vainqueur de chaque donne est payé 5 centimes par chaque autre joueur.
 
-Some begin with Deuces (Twos) wild and play only twelve deals, ending with Kings wild, or sometimes carry on with a thirteenth deal with Aces wild. Some play 14 deals, beginning and ending with Ace wild.
+Certains commencent avec les deux sauvages et ne jouent que douze donnes, se terminant avec les rois sauvages, ou continuent parfois avec une treizième donne avec les as sauvages. Certains jouent 14 donnes, commençant et se terminant avec les as sauvages.
 
-John Greer has provided detailed rules of a variant called Forth Worth Gin.
+John Greer a fourni des règles détaillées d'une variante appelée Forth Worth Gin.
 
-### Press, Wild Card Choice, Joker
+### Press, choix de la carte sauvage, joker
 
-Michael Oxner describes a number of variants of the basic game.
+Michael Oxner décrit un certain nombre de variantes du jeu de base.
 
-- "The Press" is a rule whereby if one player is 50 or more points behind their nearest rival at the end of a hand (i.e. their score is 50 or more greater than that of any other player), all the card scores are doubled in the next hand. When playing this variant, a player may voluntarily add extra penalty points to their score at the end of a hand in order to put The Press into effect. For example if you trailing by 48 points you might choose to take 2 more penalty points so as to have the scores doubled in the next deal and improve you chance of catching up.
+- « The Press » est une règle selon laquelle si un joueur a 50 points ou plus de retard sur son rival le plus proche à la fin d'une manche (c'est-à-dire que son score est supérieur de 50 ou plus à celui de tout autre joueur), tous les scores de cartes sont doublés à la manche suivante. Quand on joue cette variante, un joueur peut volontairement ajouter des points de pénalité supplémentaires à son score à la fin d'une manche afin de mettre « The Press » en vigueur. Par exemple, si vous avez 48 points de retard, vous pourriez choisir de prendre 2 points de pénalité de plus pour que les scores soient doublés à la donne suivante et améliorer vos chances de rattraper.
 
-- The "Auto-Press" is a further development in which the player with the highest hand value after play of the first hand in a game with 4 or more players automatically takes a score 50 points above the next highest player to put "The Press" on. If two or more players tie for the high score after the first hand, they all go to the new value.
+- L'« Auto-Press » est un développement supplémentaire dans lequel le joueur avec la valeur de main la plus élevée après la première manche d'une partie à 4 joueurs ou plus prend automatiquement un score de 50 points au-dessus du joueur suivant le plus haut pour activer « The Press ». Si deux joueurs ou plus sont à égalité pour le score le plus élevé après la première manche, ils vont tous à la nouvelle valeur.
 
-- Another variant is to allow the dealer, after looking at their hand, to choose and announce the wild card for each deal before the first player takes their first turn. Each rank can be called only once, so the choice becomes more limited as the game progresses and for the last deal the dealer has no option but to call the last remaining rank as wild. This may see to give the dealer a large advantage, but in fact the dealer runs a greater risk than the other players of being caught with a wild card when another player goes out, and for that reason some dealers may even choose to call as wild a card that they do not hold.
+- Une autre variante est d'autoriser le donneur, après avoir regardé sa main, à choisir et annoncer la carte sauvage de chaque donne avant que le premier joueur prenne son premier tour. Chaque valeur ne peut être annoncée qu'une fois, donc le choix devient plus limité au fil de la partie et pour la dernière donne le donneur n'a pas d'autre option que d'annoncer sauvage la dernière valeur restante. Cela peut sembler donner un grand avantage au donneur, mais en fait le donneur court un plus grand risque que les autres joueurs de se retrouver avec une carte sauvage quand un autre joueur sort, et pour cette raison certains donneurs peuvent même choisir d'annoncer sauvage une carte qu'ils ne détiennent pas.
 
-- Another variant is to add one Joker to the deck which is always wild and counts 50 penalty points if found in a player's hand at the end of the play. In this variant a 14th deal can be played in which the Joker is the only wild card.
+- Une autre variante est d'ajouter un joker au jeu, qui est toujours sauvage et compte 50 points de pénalité s'il se trouve dans la main d'un joueur à la fin du jeu. Dans cette variante, une 14e donne peut être jouée dans laquelle le joker est la seule carte sauvage.
 
 ### Biddies
 
-Shayne describes the variant **Biddies** played in South Wales. In this game for 3 or 4 players the wild cards are called "biddies", the melds are called "downers" and a player who goes out is said to be "up". The first dealer is found by dealing cards face up around the table until a Jack appears. Aces can be used as high or low in runs, but not in the interior of a run (K-A-2 is not valid). A player who after discarding has nothing but a 2 in their hand, if the 2 is not a beanie, can go "up for 2" and end the play, scoring just 2 penalty points. When scoring, Aces count 10 points rather than 1. At the end of the thirteenth deal the player with the lowest score is the winner and is paid the difference in scores by each of the other players.
+Shayne décrit la variante **Biddies** jouée dans le sud du Pays de Galles. Dans ce jeu pour 3 ou 4 joueurs, les cartes sauvages s'appellent des « biddies », les étalages des « downers » et un joueur qui sort est dit « up ». Le premier donneur est trouvé en distribuant des cartes face visible autour de la table jusqu'à ce qu'un valet apparaisse. Les as peuvent être utilisés hauts ou bas dans les séquences, mais pas à l'intérieur d'une séquence (R-A-2 n'est pas valide). Un joueur qui après avoir défaussé n'a plus qu'un 2 en main, si le 2 n'est pas un beanie, peut aller « up for 2 » et terminer le jeu, marquant seulement 2 points de pénalité. Au score, les as comptent 10 points plutôt que 1. À la fin de la treizième donne, le joueur avec le score le plus bas est le vainqueur et reçoit la différence de scores de chacun des autres joueurs.
 
 ### Treize Brasses
 
-Several websites (for example [cribbage.ca](https://www.cribbage.ca/jeux_de_cartes/treize_brasses.htm)) give a short description of a French Canadian version called **Treize Brasses** (13 deals or shuffles) for two or more players, in which 13 cards rather than 7 are dealt to each player. It is played with a double deck of 104 cards, but sets consist of a maximum of 4 equal cards. A player who draws the top card of the discard pile must immediately use it in a meld. When scoring Aces are worth 1, 2 to 10 face value, Jack 11, Queen 12, King 13 and wild cards 25. 
+Plusieurs sites web (par exemple [cribbage.ca](https://www.cribbage.ca/jeux_de_cartes/treize_brasses.htm)) donnent une courte description d'une version canadienne-française appelée **Treize Brasses** (13 donnes ou battages) pour deux joueurs ou plus, dans laquelle 13 cartes plutôt que 7 sont distribuées à chaque joueur. Elle se joue avec un double jeu de 104 cartes, mais les brelans consistent en un maximum de 4 cartes égales. Un joueur qui pioche la carte du dessus de la défausse doit immédiatement l'utiliser dans un étalage. Au score, les as valent 1, de 2 à 10 la valeur faciale, valet 11, dame 12, roi 13 et les cartes sauvages 25.
 
 ### Beanie
 
-The game **Beanie**, played mostly in Canada, mostly follows the basic rules given on this page. The wild cards are called "beanies", and the verb "to beanie" also means to go out. Some descriptions give a few special rules:
+Le jeu **Beanie**, joué surtout au Canada, suit pour l'essentiel les règles de base données sur cette page. Les cartes sauvages s'appellent des « beanies », et le verbe « to beanie » signifie aussi sortir. Certaines descriptions donnent quelques règles spéciales :
 
-- Some play that no player is allowed to meld until everyone has had one turn and the play returns to the first player.
+- Certains jouent qu'aucun joueur n'est autorisé à étaler avant que tout le monde ait eu un tour et que le jeu revienne au premier joueur.
 
-- Some play that it is possible to go out at your first turn, but in that case any players who have not had a turn get one opportunity to reduce their hand value by putting down any melds they can make from the cards they were dealt, including playing on previous players' melds.
+- Certains jouent qu'il est possible de sortir à son premier tour, mais dans ce cas, tout joueur qui n'a pas eu son tour a une occasion de réduire la valeur de sa main en posant les étalages qu'il peut faire avec les cartes qu'on lui a distribuées, y compris en jouant sur les étalages des joueurs précédents.
 
-- Some start with the King as the wild card and work downwards to Ave wild for the last deal.
+- Certains commencent avec le roi comme carte sauvage et descendent vers l'as sauvage pour la dernière donne.
 
-- Some use simplified card values for easier calculation of the scores: Ace to 8 are 5 points, 9 to King are 10 points, wild cards 25.
+- Certains utilisent des valeurs de cartes simplifiées pour faciliter le calcul des scores : de l'as au 8, 5 points, de 9 au roi, 10 points, cartes sauvages 25.
 
-- Some play that when the draw pile is empty play can continue so long as the next player wishes to take the top card from the discard pile, but as soon as a player refuses to do that, the play ends and the hands are scored.
+- Certains jouent que quand le talon est vide, le jeu peut continuer tant que le joueur suivant souhaite prendre la carte du dessus de la défausse, mais dès qu'un joueur refuse de le faire, le jeu se termine et les mains sont comptées.
 
 ### Benny
 
-Paul Eaton describes this variant played by Geoff Dale of Corfe Mullen, Dorset, England who learned it from his Dorset grandparents in the 1970s. Up to 12 people can play: if there are 7 or more players a double deck (104 cards) is used.
+Paul Eaton décrit cette variante jouée par Geoff Dale de Corfe Mullen, Dorset, Angleterre, qui l'a apprise de ses grands-parents du Dorset dans les années 1970. Jusqu'à 12 personnes peuvent jouer : s'il y a 7 joueurs ou plus, un double jeu (104 cartes) est utilisé.
 
-As usual there are 13 deals each with different wild cards, known as "Bennies". In the first deal Aces are wild, the Twos, Threes and so on up to Aces in the final deal. In runs Aces can be used as high or low but not both at once: A-2-3 and Q-K-A are valid runs but K-A-2 is not valid.
+Comme d'habitude, il y a 13 donnes avec des cartes sauvages différentes, connues sous le nom de « Bennies ». À la première donne, les as sont sauvages, puis les deux, les trois et ainsi de suite jusqu'aux as à la donne finale. Dans les séquences, les as peuvent être utilisés hauts ou bas mais pas les deux à la fois : A-2-3 et D-R-A sont des séquences valides mais R-A-2 n'est pas valide.
 
-A meld can include any number of Bennies to represent missing cards. If it unclear, the player who puts down the meld must specify whether it is a set or a run, and in the case of a run the player who puts it down or extends it must define which card(s) any newly played Bennies represent. This cannot subsequently be changed. However in a set, the suit represented by a Benny need not be specified.
+Un étalage peut inclure n'importe quel nombre de Bennies pour représenter les cartes manquantes. Si ce n'est pas clair, le joueur qui pose l'étalage doit préciser s'il s'agit d'un brelan ou d'une séquence, et dans le cas d'une séquence, le joueur qui la pose ou l'étend doit définir quelle(s) carte(s) les Bennies nouvellement jouées représentent. Cela ne peut ensuite pas être changé. Cependant, dans un brelan, la couleur représentée par un Benny n'a pas besoin d'être précisée.
 
-Any player who has all four Bennies in their hand at any stage of the game must declare this to the other players.
+Tout joueur qui a les quatre Bennies en main à n'importe quel moment du jeu doit le déclarer aux autres joueurs.
 
-The dealer shuffles, there is no cut, and the cards are dealt singly, 7 to each player and then an 8th card to the player to dealer's left. The undealt cards are stacked face down to form a drawing stock. The player to dealer's left begins by optionally melding cards and then discarding an unwanted card face up next to the stock to start the discard pile. Play continues clockwise, each player drawing either the top card of the stock or the most recent discard, optionally melding and then discarding a card face up on the discard pile. There is no restriction on discarding the same card that you picked up, either from the stock or from the discard pile, and no special rule when a player has only one card in hand at the start of their turn. 
+Le donneur bat les cartes, il n'y a pas de coupe, et les cartes sont distribuées une à une, 7 à chaque joueur puis une 8e carte au joueur à la gauche du donneur. Les cartes non distribuées sont empilées face cachée pour former un talon de pioche. Le joueur à la gauche du donneur commence en étalant éventuellement des cartes puis en défaussant une carte indésirable face visible à côté du talon pour commencer la défausse. Le jeu continue dans le sens horaire, chaque joueur piochant soit la carte du dessus du talon soit la défausse la plus récente, étalant éventuellement puis défaussant une carte face visible sur la défausse. Il n'y a aucune restriction pour défausser la même carte qu'on a ramassée, que ce soit du talon ou de la défausse, et aucune règle spéciale quand un joueur n'a qu'une seule carte en main au début de son tour.
 
-As usual a player's first meld must be a set or run from their hand. Having melded a player can lay off cards to extend their own or other players' sets or runs. Also if a player who has already melded holds any cards that are represented by Bennies in melds on the table they can substitute the real card and take the Benny, either adding it to their hand or using it to represent some other card needed to create or extend a meld.
+Comme d'habitude, le premier étalage d'un joueur doit être un brelan ou une séquence de sa main. Après avoir étalé, un joueur peut déposer des cartes pour étendre ses propres brelans ou séquences ou ceux des autres joueurs. De plus, si un joueur qui a déjà étalé détient des cartes représentées par des Bennies dans des étalages sur la table, il peut substituer la carte réelle et prendre le Benny, soit en l'ajoutant à sa main, soit en l'utilisant pour représenter une autre carte nécessaire pour créer ou étendre un étalage.
 
-If the drawing stock is exhausted it is turned over without shuffling to make a new stock pile. This happens mid-turn immediately after a player draws the last stock card and the player's discard begins a new discard pile. 
+Si le talon est épuisé, il est retourné sans être battu pour faire un nouveau talon. Cela arrive au milieu d'un tour, immédiatement après qu'un joueur a pioché la dernière carte du talon, et la défausse du joueur commence une nouvelle défausse.
 
-A player wins the hand by "going out", that is, by melding all their remaining cards except for one, which they discard. A final discard is required - a player is not allowed after drawing to meld all their cards, leaving nothing to discard. When a player goes out, if everyone has had at least one turn the play ends immediately. If a player goes out on their first turn of a deal, players who have not had a turn to play each take one turn in clockwise order, drawing, melding and laying off cards and discarding according to the usual rules, after which the play ends.
+Un joueur gagne la manche en « sortant », c'est-à-dire en étalant toutes ses cartes restantes sauf une, qu'il défausse. Une défausse finale est requise — un joueur n'est pas autorisé après avoir pioché à étaler toutes ses cartes, ne laissant rien à défausser. Quand un joueur sort, si tout le monde a eu au moins un tour, le jeu se termine immédiatement. Si un joueur sort à son premier tour d'une donne, les joueurs qui n'ont pas eu de tour de jeu prennent chacun un tour dans le sens horaire, piochant, étalant et déposant des cartes et défaussant selon les règles habituelles, après quoi le jeu se termine.
 
-When the play ends, players who have cards remaining in their hands add the total value of these unplayed cards to their cumulative score. Pip cards count face value, Aces and courts 10 each and Bennies 25 each. The game ends after 13 deals and the player with the lowest cumulative score is the winner. Note that the Aces in this game score 10 points, not 1 as in basic Crazy Rummy.
+Quand le jeu se termine, les joueurs qui ont des cartes restant dans leurs mains ajoutent la valeur totale de ces cartes non jouées à leur score cumulé. Les cartes numérotées comptent la valeur faciale, les as et les figures 10 chacun et les Bennies 25 chacun. La partie se termine après 13 donnes et le joueur avec le score cumulé le plus bas est le vainqueur. Notez que les as de ce jeu marquent 10 points, pas 1 comme dans le Crazy Rummy de base.
 
-There are a couple of special cases.
+Il y a quelques cas spéciaux.
 
-- If a player goes out by melding a 7-card run consisting entirely of cards from their own hand, their cumulative score is reset to zero. There is no bonus for a 7-card run that includes cards added by other players.
+- Si un joueur sort en étalant une séquence de 7 cartes consistant entièrement en cartes de sa propre main, son score cumulé est remis à zéro. Il n'y a pas de bonus pour une séquence de 7 cartes qui inclut des cartes ajoutées par d'autres joueurs.
 
-- It is possible for a stalemate to occur where no one has gone out and no further progress can be made. Either players keep drawing from the discard pile and discarding without melding or drawing any new cards from the stock, or they repeatedly play through the whole stock, drawing and discarding without melding or laying off any cards. In these cases, players can agree a stalemate. There is no score for the hand, the cards are thrown in and the next hand is dealt.
+- Il est possible qu'une impasse survienne où personne n'est sorti et aucun progrès supplémentaire n'est possible. Soit les joueurs continuent de piocher à la défausse et de défausser sans étaler ni piocher de nouvelles cartes au talon, soit ils rejouent tout le talon à plusieurs reprises, piochant et défaussant sans étaler ni déposer de cartes. Dans ces cas, les joueurs peuvent convenir d'une impasse. Il n'y a pas de score pour la manche, les cartes sont jetées et la manche suivante est distribuée.
 
-If playing for money, the payments are calculated as follows. The last digit is removed from each player's total, players other than the winner pay in pence ½ x (own total – winner’s total) and the winner collects these payments. Example: A, B, C and D score 163, 25, 118 and 95 respectively. B is the winner and is paid ½ x (16-2) = 7p by A, ½ x (11-2) = 4p by C and ½ x (9-2) = 3p by D. In case of a tie for lowest score the winners share the money paid by the losers. 
+Si on joue pour de l'argent, les paiements sont calculés comme suit. Le dernier chiffre est retiré du total de chaque joueur, les joueurs autres que le vainqueur paient en pence ½ x (total du joueur — total du vainqueur) et le vainqueur collecte ces paiements. Exemple : A, B, C et D marquent 163, 25, 118 et 95 respectivement. B est le vainqueur et est payé ½ x (16-2) = 7p par A, ½ x (11-2) = 4p par C et ½ x (9-2) = 3p par D. En cas d'égalité pour le score le plus bas, les vainqueurs se partagent l'argent payé par les perdants.
 
 ### Ace to Ace
 
-Rammy Meyerowitz describes **Ace to Ace** a 14-deal game for 2 to 4 players that incorporates some features of Rummy 500. It is possible to take more than one card from the discard pile, and players score positive points for melded cards as well as negative points for cards remaining in their hands. Here is a summary of the rules.
+Rammy Meyerowitz décrit **Ace to Ace**, un jeu de 14 donnes pour 2 à 4 joueurs qui incorpore certains traits du Rummy 500. Il est possible de prendre plus d'une carte de la défausse, et les joueurs marquent des points positifs pour les cartes étalées ainsi que des points négatifs pour les cartes restant dans leurs mains. Voici un résumé des règles.
 
-- The game begins and ends with Ace wild. Aces used in a run can be either low cards (A-2-3) or high cards (Q-K-A) but not both at once (K-A-2 of a suit is not a valid run).
+- Le jeu commence et se termine avec l'as sauvage. Les as utilisés dans une séquence peuvent être soit des cartes basses (A-2-3) soit des cartes hautes (D-R-A) mais pas les deux à la fois (R-A-2 d'une couleur n'est pas une séquence valide).
 
-- Seven cards each are dealt as usual plus an eighth card to the person to dealer's left, who plays first. 
+- Sept cartes chacun sont distribuées comme d'habitude plus une huitième carte à la personne à la gauche du donneur, qui joue en premier.
 
-- When drawing, a player who has not yet put down their first meld can draw **the top card only **of the discard pile, but **only** if they immediately meld it as part of a set or run. Otherwise they must start their turn by drawing the top card of the stock pile.
+- En piochant, un joueur qui n'a pas encore posé son premier étalage peut piocher **seulement la carte du dessus** de la défausse, mais **seulement** s'il l'étale immédiatement comme partie d'un brelan ou d'une séquence. Sinon, il doit commencer son tour en piochant la carte du dessus du talon.
 
-- A player who already has melded may either draw the top card of the stock pile or **any number of cards** from the top of the discard pile. However a player who takes cards from the discard pile is **not allowed** to meld any of them in the same turn. They may meld cards from their hand in that turn, but cards taken from the discard pile cannot be melded until the player's following turn. 
+- Un joueur qui a déjà étalé peut soit piocher la carte du dessus du talon soit **n'importe quel nombre de cartes** du dessus de la défausse. Cependant, un joueur qui prend des cartes de la défausse n'est **pas autorisé** à en étaler aucune au même tour. Il peut étaler des cartes de sa main à ce tour, mais les cartes prises de la défausse ne peuvent pas être étalées avant le tour suivant du joueur.
 
-- To end a player's turn any card may be discarded, including a card that the player has just taken from the discard pile. The cards in the discard pile are overlapped so that players can see what is in it.
+- Pour terminer le tour d'un joueur, n'importe quelle carte peut être défaussée, y compris une carte que le joueur vient de prendre de la défausse. Les cartes de la défausse sont superposées en éventail pour que les joueurs puissent voir ce qu'elle contient.
 
-- Because cards are scored for the player who melded them, any cards that are melded, whether a new combination or an addition to a combination that is already on the table, are placed in front of the person who melded them, and not on the combination they are added to if that belongs to another player. A wild card can be taken from a run in exchange for the natural card it represents, and that natural card is placed in front of and scores for the player making the exchange. A wild card can be taken from a set of equal cards in exchange for a natural card of the same rank. If a set consisting entirely of wild cards is melded, no cards can be taken from it.
+- Comme les cartes sont comptées pour le joueur qui les a étalées, toutes les cartes étalées, qu'il s'agisse d'une nouvelle combinaison ou d'un ajout à une combinaison déjà sur la table, sont placées devant la personne qui les a étalées, et non sur la combinaison à laquelle elles sont ajoutées si celle-ci appartient à un autre joueur. Une carte sauvage peut être prise d'une séquence en échange de la carte naturelle qu'elle représente, et cette carte naturelle est placée devant le joueur qui fait l'échange et compte pour lui. Une carte sauvage peut être prise d'un brelan de cartes égales en échange d'une carte naturelle de même valeur. Si un brelan consistant entièrement en cartes sauvages est étalé, aucune carte ne peut en être prise.
 
-- When a player goes out, each player scores **plus** the value of melded cards in front of them **minus** the value of cards remaining in their hand. Wild cards score 25 points, Aces 15, pictures 10 and number cards 2 to 10 face value. The player with the **highest** score at the end of 14 hands is the winner.
+- Quand un joueur sort, chaque joueur marque **plus** la valeur des cartes étalées devant lui **moins** la valeur des cartes restant dans sa main. Les cartes sauvages marquent 25 points, les as 15, les figures 10 et les cartes numérotées de 2 à 10 la valeur faciale. Le joueur avec le score le **plus élevé** à la fin des 14 manches est le vainqueur.
 
-## Tactics
+## Tactique
 
-Michael Oxner and others have contributed some ideas on skilful play.
+Michael Oxner et d'autres ont contribué quelques idées sur le jeu habile.
 
-It is sometimes a good idea to hold onto playable combinations rather than lay them down at the first opportunity. This gives other players fewer combinations to play on and therefore fewer chances to go out. The risk is that if another player does go out a player who has held onto cards will score more penalty points than if they had been laid down. This risk is greater in five- and six-handed games where you may get only one or two turns before a player goes out. 
+Il est parfois bon de garder des combinaisons jouables plutôt que de les poser à la première occasion. Cela donne aux autres joueurs moins de combinaisons sur lesquelles jouer et donc moins de chances de sortir. Le risque est que si un autre joueur sort, un joueur qui a gardé des cartes marquera plus de points de pénalité que s'il les avait posées. Ce risque est plus grand dans les parties à cinq et six mains où vous n'aurez peut-être qu'un ou deux tours avant qu'un joueur ne sorte.
 
-Often people will discard the highest cards in their hand if they can't play them, so as to reduce the penalty point value of their hand. Other players can take advantage of this by holding onto high cards that can potentially be combined with a discarded high card to make a set or run. 
+Souvent, les gens défaussent les cartes les plus hautes de leur main s'ils ne peuvent pas les jouer, afin de réduire la valeur en points de pénalité de leur main. Les autres joueurs peuvent en profiter en gardant des cartes hautes qui peuvent potentiellement être combinées avec une carte haute défaussée pour faire un brelan ou une séquence.
 
-Several people have suggested the tactic of putting down a combination including a wild card while holding a card that will enable it to be retrieved later. For example with Nines wild, holding ![club](../images/internat/club.gif)5, ![club](../images/internat/club.gif)6, ![club](../images/internat/club.gif)7, ![diamond](../images/internat/diamond.gif)9 in your hand you put down ![diamond](../images/internat/diamond.gif)9-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7 as a run and keep the ![club](../images/internat/club.gif)5 in your hand, planning to use it to release the wild card later when you can use it to go out. This gives you the flexibility of the wild card without risking the penalty for being caught with it should another player go out before you.
+Plusieurs personnes ont suggéré la tactique de poser une combinaison incluant une carte sauvage tout en gardant une carte qui permettra de la récupérer plus tard. Par exemple, avec les neuf sauvages, en tenant ![club](../images/internat/club.gif)5, ![club](../images/internat/club.gif)6, ![club](../images/internat/club.gif)7, ![diamond](../images/internat/diamond.gif)9 en main, vous posez ![diamond](../images/internat/diamond.gif)9-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7 comme séquence et gardez le ![club](../images/internat/club.gif)5 en main, prévoyant de l'utiliser plus tard pour libérer la carte sauvage quand vous pourrez l'utiliser pour sortir. Cela vous donne la flexibilité de la carte sauvage sans risquer la pénalité d'être pris avec elle si un autre joueur sort avant vous.
 
-A player with a low score may play low card combinations in the hope that they may help another player who has kept low cards to go out by adding to or robbing from these combinations, thereby catching a third player with a lot of cards.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Crazy
+Un joueur avec un score bas peut jouer des combinaisons de cartes basses dans l'espoir qu'elles aident un autre joueur qui a gardé des cartes basses à sortir en ajoutant à ou en volant ces combinaisons, prenant ainsi un troisième joueur avec beaucoup de cartes.

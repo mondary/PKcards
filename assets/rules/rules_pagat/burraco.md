@@ -3,161 +3,158 @@
 **Nombre de joueurs :** 4
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
-**Type :** Rami, Rami
-**But :** Rules for the popular Italian card game Burraco, a Canasta-like partnership game for four players.
+**Type :** Rami
+**But :** Règles du jeu de cartes italien très populaire, le Burraco, un jeu de rami en équipes pour quatre joueurs apparenté à la Canasta.
 
 ---
 
 ## Introduction
 
-This page is about the card game Burraco as played in Italy. There are separate pages about similar games played in South America:
+Cette page concerne le jeu de cartes Burraco tel qu'il est pratiqué en Italie. Des pages séparées existent pour des jeux similaires pratiqués en Amérique du Sud :
 
-- the card game Buraco, as played in Brazil
+- le jeu de cartes Buraco, tel qu'il est joué au Brésil
 
-- the tile game Burako, as played in Argentina
+- le jeu de tuiles Burako, tel qu'il est joué en Argentine
 
-Burraco is related to Canasta, and in some ways similar to Samba, in that the aim is to meld combinations of seven or more cards that can be either **sets** of equal rank or **sequences** in a suit. Like several of the newer games of this family it also features a second hand of cards which is picked up by the first member of a partnership who disposes of all the cards from their first hand. It originated in South America, probably in the 1940's, and is still widely played there. Since the 1990's a version of the game has become extremely popular in Italy, and thanks to an active tournament scene and the establishment of a national organisation, the [Federazione Italiano Burraco](https://www.fibur.it/), the Italian rules have become more or less standardised.
+Le Burraco est apparenté à la Canasta, et par certains côtés semblable à la Samba, en ce que le but est d'étaler des combinaisons de sept cartes ou plus qui peuvent être des **ensembles** de même valeur ou des **séquences** dans une couleur. Comme plusieurs des jeux récents de cette famille, il comporte aussi une seconde main de cartes qui est ramassée par le premier membre d'une équipe qui se débarrasse de toutes les cartes de sa première main. Il est originaire d'Amérique du Sud, probablement des années 1940, et y est encore très pratiqué. Depuis les années 1990, une version du jeu est devenue extrêmement populaire en Italie, et grâce à un circuit de tournois actif et à la création d'une organisation nationale, la [Federazione Italiano Burraco](https://www.fibur.it/), les règles italiennes se sont plus ou moins standardisées.
 
-## Players and Cards
+## Joueurs et cartes
 
-The usual game is four players in fixed partnerships: North and South play against East and West. There are less interesting versions for 2 to 5 players, playing as individuals. Deal and play are clockwise.
+Le jeu habituel se joue à quatre joueurs en équipes fixes : Nord et Sud jouent contre Est et Ouest. Il existe des versions moins intéressantes pour 2 à 5 joueurs, jouant individuellement. La donne et le jeu se déroulent dans le sens des aiguilles d'une montre.
 
-Two standard international 52-card packs with 4 jokers are used – 108 cards in all. The Jokers, known as in Italian as “*jolly”*, are wild cards. The twos, known as *“pinelle”* can be used either as wild cards or (within a sequence) as the natural two of their suit. 
+Deux jeux internationaux standard de 52 cartes avec 4 jokers sont utilisés — 108 cartes au total. Les jokers, connus en italien sous le nom de « *jolly* », sont des cartes sauvages. Les deux, connus sous le nom de *« pinelle »*, peuvent être utilisés soit comme cartes sauvages soit (dans une séquence) comme le deux naturel de leur couleur.
 
-The cards have point values:
+Les cartes ont des valeurs en points :
 
-- Each joker: 30 points
+- Chaque joker : 30 points
 
-- Each two: 20 points
+- Chaque deux : 20 points
 
-- Each ace: 15 points
+- Chaque as : 15 points
 
-- Each K, Q, J, 10, 9 or 8: 10 points
+- Chaque R, D, V, 10, 9 ou 8 : 10 points
 
-- Each 7, 6, 5, 4 or 3: 5 points.
+- Chaque 7, 6, 5, 4 ou 3 : 5 points.
 
-## Deal
+## Donne
 
-The first dealer is chosen by drawing cards from the shuffled pack: the player who draws the lowest card deals first. For this purpose the cards rank from high to low: joker, 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3. Among equal cards, the suits rank in bridge order spades (high), hearts, diamonds, clubs (low). If more than one player draws a joker, those players draw again to break the tie. The draw can also be used to determine the partnerships and seats if not decided in advance: the two highest play against the two lowest, and the player who drew the highest card sits to the dealer’s left and therefore plays first. The turn to deal passes to the left after each hand.
+Le premier donneur est choisi en tirant des cartes du paquet mélangé : le joueur qui tire la carte la plus basse donne en premier. Pour cela, les cartes se classent de la plus haute à la plus basse : joker, 2, A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3. Entre cartes égales, les couleurs se classent dans l'ordre du bridge : pique (haute), cœur, carreau, trèfle (basse). Si plus d'un joueur tire un joker, ces joueurs retirent pour départager. Le tirage peut aussi servir à déterminer les équipes et les places si elles n'ont pas été décidées à l'avance : les deux plus hautes jouent contre les deux plus basses, et le joueur qui a tiré la carte la plus haute s'assoit à la gauche du donneur et joue donc en premier. Le tour de donner passe à la gauche après chaque manche.
 
-The dealer shuffles the cards thoroughly and offers them face down to his right-hand opponent to cut. This player lifts approximately the top third of the pack – for the deal to work smoothly he needs to take at least 22 cards and leave at least 45 behind. The dealer takes the remainder of the pack – the part that was originally at the bottom – and from the top of it deals the cards one at a time face down clockwise to the players until each has 11 cards. Meanwhile the player who cut deals cards from the **bottom** of the section of the pack that he lifted, to form two face-down piles called *pozzetti*. The cards are dealt one at a time alternately to the piles until each has 11 cards. The cutter then places these piles one on top of the other in a cross formation towards one corner of the table, and puts the remaining cards of this part of the pack face down in the middle of the table. Having dealt the four hands, the dealer places the next (45th) card face-up in the middle of the table and stacks the remaining cards next to it on top of the stack placed there by the cutter, thereby completing the cut. So now each player has a hand of 11 cards, there are two face-down 11-card stacks in a corner of the table, and in the middle is a face-down draw pile of 41 cards, with a single face-up card beside it.
+Le donneur bat les cartes soigneusement et les offre face cachée à son adversaire de droite pour couper. Ce joueur lève environ le tiers supérieur du paquet — pour que la donne fonctionne bien, il doit prendre au moins 22 cartes et en laisser au moins 45 derrière. Le donneur prend le reste du paquet — la partie qui était à l'origine en bas — et distribue du haut de celui-ci les cartes une à une, face cachée, dans le sens des aiguilles d'une montre, jusqu'à ce que chacun ait 11 cartes. Pendant ce temps, le joueur qui a coupé distribue les cartes du **bas** de la section du paquet qu'il a levée, pour former deux piles face cachée appelées *pozzetti*. Les cartes sont distribuées une à une en alternance sur les piles jusqu'à ce que chacune ait 11 cartes. Le coupeur place ensuite ces piles l'une sur l'autre en formation croisée vers un coin de la table, et met les cartes restantes de cette partie du paquet face cachée au milieu de la table. Après avoir distribué les quatre mains, le donneur place la carte suivante (la 45e) face visible au milieu de la table et empile les cartes restantes à côté, sur la pile placée là par le coupeur, achevant ainsi la coupe. Chaque joueur a donc une main de 11 cartes, il y a deux piles face cachée de 11 cartes dans un coin de la table, et au milieu un talon de pioche face cachée de 41 cartes, avec une seule carte face visible à côté.
 
-## Melds
+## Combinaisons
 
-The objective is to form melds which may be **sets** of equal cards (*combinazione*) or **sequences** of consecutive cards in a suit (*sequenze*), and place them face up on the table. Each team keeps its melds together, each meld or sequence in a column as shown below. Each meld (set or sequence) must contain at least three cards. You may extend your own team’s melds, whether begun by yourself or by your partner, by adding cards to them, but you can never add cards to the opponents’ melds.
+L'objectif est de former des combinaisons qui peuvent être des **ensembles** de cartes égales (*combinazione*) ou des **séquences** de cartes consécutives dans une couleur (*sequenze*), et de les placer face visible sur la table. Chaque équipe conserve ses combinaisons ensemble, chaque ensemble ou séquence en colonne comme montré ci-dessous. Chaque combinaison (ensemble ou séquence) doit contenir au moins trois cartes. Vous pouvez étendre les combinaisons de votre propre équipe, qu'elles aient été commencées par vous ou par votre partenaire, en y ajoutant des cartes, mais vous ne pouvez jamais ajouter de cartes aux combinaisons des adversaires.
 
-A **set** consists of three or more cards of the same rank: A, K, Q, J, 10, 9, 8, 7, 6, 5, 4 or 3. At most **one** wild card (two or joker) may be included in a set, so the maximum number of cards in a set is nine. Sets consisting entirely of twos and/or jokers are not allowed. It is not legal for one team to have more than one set of the same rank. Examples of valid sets:
+Un **ensemble** consiste en trois cartes ou plus de même valeur : A, R, D, V, 10, 9, 8, 7, 6, 5, 4 ou 3. Au plus **une** carte sauvage (deux ou joker) peut être incluse dans un ensemble, donc le nombre maximum de cartes d'un ensemble est neuf. Les ensembles composés entièrement de deux et/ou de jokers ne sont pas autorisés. Il n'est pas légal pour une équipe d'avoir plus d'un ensemble de la même valeur. Exemples d'ensembles valides :
 
-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)10-![spade](../images/internat/spade.gif)10 ; ![spade](../images/internat/spade.gif)4-![diamond](../images/internat/diamond.gif)4-![heart](../images/internat/heart.gif)4-![club](../images/internat/club.gif)4-![spade](../images/internat/spade.gif)2 ; ![spade](../images/internat/spade.gif)K-![diamond](../images/internat/diamond.gif)K-joker.
+![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)10-![spade](../images/internat/spade.gif)10 ; ![spade](../images/internat/spade.gif)4-![diamond](../images/internat/diamond.gif)4-![heart](../images/internat/heart.gif)4-![club](../images/internat/club.gif)4-![spade](../images/internat/spade.gif)2 ; ![spade](../images/internat/spade.gif)R-![diamond](../images/internat/diamond.gif)R-joker.
 
-A **sequence** consists of three or more consecutive cards of the same suit, the order of the cards being (A)-2-3-4-5-6-7-8-9-10-J-Q-K-(A). At most **one** wild card (two or joker) may be included in a sequence and may be used as a substitute for a missing card. However, a two of the correct suit may also serve as a natural card (next below the three), in which case it is possible for a sequence to contain two twos or a two and a joker. An ace can be placed at either end of a sequence, above the king or below the two, but it is not legal to place two aces in a sequence, one at each end. However a sequence can contain a wild card in addition to 13 different natural cards. It is possible for one team to have two separate sequence melds in the same suit, but sequences once placed on the table cannot be joined together or split. Examples of valid sequences:
+Une **séquence** consiste en trois cartes consécutives ou plus de la même couleur, l'ordre des cartes étant (A)-2-3-4-5-6-7-8-9-10-V-D-R-(A). Au plus **une** carte sauvage (deux ou joker) peut être incluse dans une séquence et peut servir de substitut à une carte manquante. Cependant, un deux de la bonne couleur peut aussi servir de carte naturelle (juste en dessous du trois), auquel cas il est possible qu'une séquence contienne deux deux ou un deux et un joker. Un as peut être placé à l'une ou l'autre extrémité d'une séquence, au-dessus du roi ou sous le deux, mais il n'est pas légal de placer deux as dans une séquence, un à chaque extrémité. Cependant, une séquence peut contenir une carte sauvage en plus de 13 cartes naturelles différentes. Il est possible pour une équipe d'avoir deux séquences séparées dans la même couleur, mais les séquences une fois posées sur la table ne peuvent être ni réunies ni scindées. Exemples de séquences valides :
 
-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9 ; ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)5 ; ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)J ; joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6.
+![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9 ; ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)5 ; ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)V ; joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6.
 
-A meld that consists entirely of natural cards is clean (*pulito*) and a meld that contains a wild card is dirty (*sporco*). A meld of seven or more cards is called a ***burraco***, and earns a bonus for the team that owns it: a clean *burraco* scores more than a dirty one. A sequence that contains a two of the correct suit in its place is of course clean. A *burraco* is usually indicated by placing its last card crosswise if it is dirty, or its last two cards crosswise if it is clean, as shown below.
+Une combinaison composée entièrement de cartes naturelles est propre (*pulito*) et une combinaison contenant une carte sauvage est sale (*sporco*). Une combinaison de sept cartes ou plus s'appelle un ***burraco*** et rapporte un bonus à l'équipe qui la possède : un *burraco* propre rapporte plus qu'un *burraco* sale. Une séquence qui contient un deux de la bonne couleur à sa place est bien sûr propre. Un *burraco* est généralement indiqué en plaçant sa dernière carte en travers s'il est sale, ou ses deux dernières cartes en travers s'il est propre, comme montré ci-dessous.
 
-![sets and sequences](../images/internat/burraco.png)
+![ensembles et séquences](../images/internat/burraco.png)
 
-## The Play
+## Le jeu
 
-The player to dealer's left begins. Players take turns to play, in clockwise order around the table, until someone goes out or the play ends because the stock is exhausted.
+Le joueur à la gauche du donneur commence. Les joueurs jouent à tour de rôle, dans le sens des aiguilles d'une montre autour de la table, jusqu'à ce que quelqu'un sorte ou que le jeu se termine parce que le talon est épuisé.
 
-A turn consists of:
+Un tour consiste à :
 
-- either drawing the top card of the face-down draw pile, or taking the whole of the face-up discard pile, and adding it to one's hand;
+- soit piocher la carte du dessus du talon face cachée, soit prendre toute la défausse face visible, et l'ajouter à sa main ;
 
-- optionally laying down any number of valid sets or sequences, or adding cards to sets or sequences already melded by one's own team, or both;
+- éventuellement poser un certain nombre de séries ou de séquences valides, ou ajouter des cartes aux séries ou séquences déjà étalées par sa propre équipe, ou les deux ;
 
-- discarding one card from hand face up on top of the discard pile.
+- défausser une carte de la main, face visible, sur le dessus de la défausse.
 
-The first player who gets rid of the last card from his or her hand picks up takes the first *pozzetto* of 11 cards to use as a new hand. The second *pozzetto* is taken by the first player of the other team who runs out of cards. There are two ways to take a *pozzetto*.
+Le premier joueur qui se débarrasse de la dernière carte de sa main ramasse le premier *pozzetto* de 11 cartes pour l'utiliser comme nouvelle main. Le deuxième *pozzetto* est pris par le premier joueur de l'autre équipe qui épuise ses cartes. Il y a deux façons de prendre un *pozzetto*.
 
-- **Taking a *pozzetto* directly.** A player whose team has not yet taken a *pozzetto* draws, melds all the cards in his or her hand, picks up a pozzetto and continues playing. Often it will be possible to meld some cards from the pozzetto immediately, either as new sets or sequences or by adding to the team's existing melds. When the player does not wish to meld any more cards, a card is discarded to end the turn as usual.
+- **Prendre un *pozzetto* directement.** Un joueur dont l'équipe n'a pas encore pris de *pozzetto* pioche, étale toutes les cartes de sa main, ramasse un pozzetto et continue à jouer. Souvent, il sera possible d'étaler immédiatement certaines cartes du pozzetto, soit comme nouvelles séries ou séquences, soit en les ajoutant aux combinaisons existantes de l'équipe. Quand le joueur ne souhaite plus étaler de cartes, une carte est défaussée pour terminer le tour comme d'habitude.
 
-- **Taking a *pozzetto* on the discard**. A player whose team has not yet taken a *pozzetto* draws, melds all but one of his or her cards and discards the final card. Having no cards in hand, the player takes a *pozzetto* and keeps it face down, while the opponent to the left and the player's partner take their turns. After the partner has discarded, the player picks up the *pozzetto* to use as his or her hand for the next turn. This delay in looking at the *pozzetto* is to avoid any temptation for the player to influence partner's play on the basis of the cards in the *pozzetto*.
+- **Prendre un *pozzetto* sur la défausse.** Un joueur dont l'équipe n'a pas encore pris de *pozzetto* pioche, étale toutes ses cartes sauf une et défausse la dernière carte. N'ayant plus de cartes en main, le joueur prend un *pozzetto* et le garde face cachée, pendant que l'adversaire à sa gauche et son partenaire jouent à tour de rôle. Après que le partenaire a défaussé, le joueur ramasse le *pozzetto* pour l'utiliser comme main pour son tour suivant. Ce délai avant de regarder le *pozzetto* vise à éviter toute tentation pour le joueur d'influencer le jeu de son partenaire sur la base des cartes du *pozzetto*.
 
-The play can end in one of three ways.
+Le jeu peut se terminer de trois façons.
 
-- **A player goes out**: this is known as *chiusura* (closing). In order to close, the following conditions must be satisfied:
+- **Un joueur sort** : cela s'appelle *chiusura* (la clôture). Pour clôturer, les conditions suivantes doivent être remplies :
 
-- the team has taken its *pozzetto*;
+- l'équipe a pris son *pozzetto* ;
 
-- the team has melded at least one *burraco* - a set or sequence of 7 or more cards;
+- l'équipe a étalé au moins un *burraco* — un ensemble ou une séquence de 7 cartes ou plus ;
 
-- a member of the team melds all but one card from hand and discards this final card, which **cannot** be a wild card.
+- un membre de l'équipe étale toutes ses cartes sauf une et défausse cette dernière carte, qui ne peut **pas** être une carte sauvage.
 
-Note that it is not legal to go out by melding all one's cards. A final discard is always required. Also, it is not legal to go out if one's team does not have a *burraco*. If your team has taken a *pozzetto* but you do not have and are unable to make a *burraco*, then you must keep at least two cards in your hand after melding: one to discard and another to hold in your hand to continue playing.
+Notez qu'il n'est pas légal de sortir en étalant toutes ses cartes. Une défausse finale est toujours requise. De plus, il n'est pas légal de sortir si son équipe n'a pas de *burraco*. Si votre équipe a pris un *pozzetto* mais que vous n'avez pas de *burraco* et n'êtes pas en mesure d'en faire un, vous devez alors garder au moins deux cartes en main après avoir étalé : une à défausser et une autre à tenir en main pour continuer à jouer.
 
-- 
-**There are only two cards left in the draw pile.** When a player draws the third last card of the draw pile, the play automatically ends at the end of that player's turn. After that player has discarded, the discard cannot be taken and no further cards can be melded by any player.
+- **Il ne reste que deux cartes dans le talon.** Quand un joueur pioche l'avant-avant-dernière carte du talon, le jeu se termine automatiquement à la fin du tour de ce joueur. Après que ce joueur a défaussé, la défausse ne peut plus être prise et aucun joueur ne peut plus étaler de cartes.
 
-- **Stalemate**. If the discard pile contains just one card and all four players choose to take the discard and discard another card, the players may simply be exchanging unwanted cards between them, and if no one wishes to draw from the draw pile no progress can be made. When this happens the play ends and the hand is scored.
+- **Impasse.** Si la défausse ne contient qu'une seule carte et que les quatre joueurs choisissent de prendre la défausse et de défausser une autre carte, les joueurs peuvent simplement s'échanger des cartes dont ils ne veulent pas, et si personne ne souhaite piocher au talon, aucun progrès n'est possible. Quand cela arrive, le jeu se termine et la manche est comptée.
 
-Please note the following.
+Veuillez noter ce qui suit.
 
-- It is always legal to take the whole discard pile, instead of drawing from the stock. Unlike some forms of Rummy and Canasta, there is no requirement to be able to meld when taking the pile, and no card that freezes the pile. When taking the discard pile, the entire pile must be added to the player's hand: it is not possible to take a part of the pile or just its top card.
+- Il est toujours légal de prendre toute la défausse, au lieu de piocher au talon. Contrairement à certaines formes de rami et de canasta, il n'est pas nécessaire d'être en mesure d'étaler pour prendre la pile, et aucune carte ne gèle la pile. En prenant la défausse, toute la pile doit être ajoutée à la main du joueur : il n'est pas possible d'en prendre une partie ni seulement sa carte du dessus.
 
-- There is no minimum requirement to lay down a team's first meld. Any valid set or sequence of three or more cards can be melded.
+- Il n'y a aucune exigence minimale pour poser la première combinaison d'une équipe. N'importe quel ensemble ou séquence valide de trois cartes ou plus peut être étalé.
 
-- When a sequence is melded with a wild card at the end, it must always be placed at the lower end - for example ![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7 and not ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-![heart](../images/internat/heart.gif)2. It can nevertheless be extended in either direction, in this case by the ![spade](../images/internat/spade.gif)4, ![spade](../images/internat/spade.gif)5, ![spade](../images/internat/spade.gif)8 or ![spade](../images/internat/spade.gif)9. This custom is followed to prevent a player suggesting to partner by the placement of cards in which direction the sequence should preferably be extended. For example a player who also held the ![spade](../images/internat/spade.gif)10 would like partner to add the ![spade](../images/internat/spade.gif)8 or ![spade](../images/internat/spade.gif)9 and definitely not the ![spade](../images/internat/spade.gif)4, but is not allowed to indicate this.
+- Quand une séquence est étalée avec une carte sauvage à l'extrémité, elle doit toujours être placée à l'extrémité basse — par exemple ![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7 et non ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-![heart](../images/internat/heart.gif)2. Elle peut néanmoins être étendue dans les deux directions, dans ce cas par le ![spade](../images/internat/spade.gif)4, le ![spade](../images/internat/spade.gif)5, le ![spade](../images/internat/spade.gif)8 ou le ![spade](../images/internat/spade.gif)9. Cette coutume vise à empêcher un joueur de suggérer à son partenaire, par la disposition des cartes, dans quelle direction la séquence devrait de préférence être étendue. Par exemple, un joueur qui détient aussi le ![spade](../images/internat/spade.gif)10 aimerait que son partenaire ajoute le ![spade](../images/internat/spade.gif)8 ou le ![spade](../images/internat/spade.gif)9 et surtout pas le ![spade](../images/internat/spade.gif)4, mais il n'a pas le droit de l'indiquer.
 
-- When a sequence contains a wild card, it is possible for a member of the owning team to add to the sequence by melding the real card that the wild card represents. The wild card is then moved to the lower end of the sequence, but can be used to represent the card at either end when the sequence is further extended. **Example:** a team has melded ![diamond](../images/internat/diamond.gif)8-joker-![diamond](../images/internat/diamond.gif)10 and a member of the team holds the ![diamond](../images/internat/diamond.gif)9. This player can add the ![diamond](../images/internat/diamond.gif)9, making joker-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10. The sequence can then be further extended by adding the ![diamond](../images/internat/diamond.gif)6, ![diamond](../images/internat/diamond.gif)7, ![diamond](../images/internat/diamond.gif)J or ![diamond](../images/internat/diamond.gif)Q. If the Q is added, it becomes ![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-joker-![diamond](../images/internat/diamond.gif)Q; in the other cases the joker would remain at the lower end of the sequence.
+- Quand une séquence contient une carte sauvage, un membre de l'équipe qui la possède peut ajouter à la séquence en étalant la carte réelle que représente la carte sauvage. La carte sauvage est alors déplacée à l'extrémité basse de la séquence, mais peut être utilisée pour représenter la carte de l'une ou l'autre extrémité quand la séquence est encore étendue. **Exemple :** une équipe a étalé ![diamond](../images/internat/diamond.gif)8-joker-![diamond](../images/internat/diamond.gif)10 et un membre de l'équipe détient le ![diamond](../images/internat/diamond.gif)9. Ce joueur peut ajouter le ![diamond](../images/internat/diamond.gif)9, donnant joker-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10. La séquence peut ensuite être encore étendue en ajoutant le ![diamond](../images/internat/diamond.gif)6, le ![diamond](../images/internat/diamond.gif)7, le ![diamond](../images/internat/diamond.gif)V ou le ![diamond](../images/internat/diamond.gif)D. Si la D est ajoutée, cela devient ![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-joker-![diamond](../images/internat/diamond.gif)D ; dans les autres cas, le joker resterait à l'extrémité basse de la séquence.
 
-- A wild card can only be replaced in a sequence by the real card it represents. It is not possible to exchange a wild card for a different wild card. **Example.** If your team has melded ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6 and you hold ![heart](../images/internat/heart.gif)A and a joker, you might like to substitute the joker for the ![heart](../images/internat/heart.gif)2, move the ![heart](../images/internat/heart.gif)2 to its natural position and add your ![heart](../images/internat/heart.gif)A. Although the resulting sequence looks valid, the move is illegal, because the only card that can replace the ![heart](../images/internat/heart.gif)2 in this sequence is the ![heart](../images/internat/heart.gif)5. If you have the ![heart](../images/internat/heart.gif)5 you can put it in the sequence and move the ![heart](../images/internat/heart.gif)2 to its natural place, and then add the ![heart](../images/internat/heart.gif)A as well if you have it. Since the ![heart](../images/internat/heart.gif)2 has now become natural, you could also add a joker or another two to make a *burraco*.
+- Une carte sauvage ne peut être remplacée dans une séquence que par la carte réelle qu'elle représente. Il n'est pas possible d'échanger une carte sauvage contre une autre carte sauvage. **Exemple.** Si votre équipe a étalé ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6 et que vous détenez un ![heart](../images/internat/heart.gif)A et un joker, vous pourriez vouloir substituer le joker au ![heart](../images/internat/heart.gif)2, déplacer le ![heart](../images/internat/heart.gif)2 à sa position naturelle et ajouter votre ![heart](../images/internat/heart.gif)A. Bien que la séquence résultante semble valide, ce mouvement est illégal, car la seule carte qui peut remplacer le ![heart](../images/internat/heart.gif)2 dans cette séquence est le ![heart](../images/internat/heart.gif)5. Si vous avez le ![heart](../images/internat/heart.gif)5, vous pouvez le mettre dans la séquence et déplacer le ![heart](../images/internat/heart.gif)2 à sa place naturelle, puis ajouter aussi le ![heart](../images/internat/heart.gif)A si vous l'avez. Comme le ![heart](../images/internat/heart.gif)2 est maintenant devenu naturel, vous pourriez aussi ajouter un joker ou un autre deux pour faire un *burraco*.
 
-- A natural two at the lower end of a sequence can be used as a wild card if necessary, in order to add a card at the top of the sequence. For example with ![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7 on the table, a ![diamond](../images/internat/diamond.gif)9 can be added from hand to make a dirty *burraco* ![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)9. The *burraco* can become clean again if the ![diamond](../images/internat/diamond.gif)8 is substituted for the ![diamond](../images/internat/diamond.gif)2, which then returns to its place at the bottom of the sequence.
+- Un deux naturel à l'extrémité basse d'une séquence peut être utilisé comme carte sauvage si nécessaire, afin d'ajouter une carte au sommet de la séquence. Par exemple avec ![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7 sur la table, un ![diamond](../images/internat/diamond.gif)9 peut être ajouté depuis la main pour faire un *burraco* sale ![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)9. Le *burraco* peut redevenir propre si le ![diamond](../images/internat/diamond.gif)8 est substitué au ![diamond](../images/internat/diamond.gif)2, qui retourne alors à sa place en bas de la séquence.
 
-- In a 13-card sequence including a wild card such as ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)3-![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-Joker-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K it is possible to replace the wild card by the natural card it represents (in this case the ![club](../images/internat/club.gif)6). In this case the wild card remains attached to the sequence, which now has 14 cards, even though there is no natural card for the wild card to represent.
+- Dans une séquence de 13 cartes incluant une carte sauvage, comme ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)3-![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-Joker-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)V-![club](../images/internat/club.gif)D-![club](../images/internat/club.gif)R, il est possible de remplacer la carte sauvage par la carte naturelle qu'elle représente (dans ce cas le ![club](../images/internat/club.gif)6). Dans ce cas, la carte sauvage reste attachée à la séquence, qui a maintenant 14 cartes, même s'il n'y a pas de carte naturelle pour la carte sauvage à représenter.
 
-- If there is only one card in the discard pile, it is illegal to pick up that one card and discard the same card. However, when a pile of more than one card is picked up, it is legal to discard any of those cards, even the one that was on top of the pile. Also, if the discard pile has just one card, say the ![club](../images/internat/club.gif)5, and a player holds the other ![club](../images/internat/club.gif)5 in hand, it is legal to pick up the ![club](../images/internat/club.gif)5 from the pile and discard the other ![club](../images/internat/club.gif)5 - it is not the same card, even though it looks the same!
+- S'il n'y a qu'une seule carte dans la défausse, il est illégal de ramasser cette carte et de défausser la même carte. Cependant, quand une pile de plus d'une carte est ramassée, il est légal de défausser n'importe laquelle de ces cartes, même celle qui était sur le dessus de la pile. De plus, si la défausse n'a qu'une seule carte, disons le ![club](../images/internat/club.gif)5, et qu'un joueur détient l'autre ![club](../images/internat/club.gif)5 en main, il est légal de ramasser le ![club](../images/internat/club.gif)5 de la pile et de défausser l'autre ![club](../images/internat/club.gif)5 — ce n'est pas la même carte, même si elle a la même apparence !
 
-- It is legal to discard a wild card, except as the very last card in one's hand when going out. In fact, discarding wild cards may be the only way to dispose of them if one has too many, since not more than one wild card can be used in each set or sequence. Although it is illegal to go out by discarding a wild card, a player whose team has not yet taken a *pozzetto* can discard a wild card as his or her final card to take a *pozzetto*.
+- Il est légal de défausser une carte sauvage, sauf comme toute dernière carte de sa main pour sortir. En fait, défausser des cartes sauvages peut être le seul moyen de s'en débarrasser si on en a trop, car pas plus d'une carte sauvage ne peut être utilisée dans chaque ensemble ou séquence. Bien qu'il soit illégal de sortir en défaussant une carte sauvage, un joueur dont l'équipe n'a pas encore pris de *pozzetto* peut défausser une carte sauvage comme dernière carte pour prendre un *pozzetto*.
 
-## Scoring
+## Score
 
-When the play ends, both teams score as follows, and add their scores to their cumulative totals.
+Quand le jeu se termine, les deux équipes marquent comme suit et ajoutent leurs scores à leurs totaux cumulés.
 
-| cards in melds on the table | plus card value |
-| cards in players' hands | minus card value |
-| burraco pulito (clean meld of 7+ cards) | 200 points extra |
-| burraco sporco (7+ card meld including wild card) | 100 points extra |
-| for going out (closing) | 100 points extra |
-| a team that has not taken its pozzetto | minus 100 points |
+| cartes dans les combinaisons sur la table | plus la valeur des cartes |
+| cartes dans les mains des joueurs | moins la valeur des cartes |
+| burraco pulito (combinaison propre de 7 cartes ou plus) | 200 points supplémentaires |
+| burraco sporco (combinaison de 7 cartes ou plus incluant une carte sauvage) | 100 points supplémentaires |
+| pour être sorti (clôture) | 100 points supplémentaires |
+| une équipe qui n'a pas pris son pozzetto | moins 100 points |
 
-Notes on scoring:
+Notes sur le score :
 
-- If the play ends because the draw pile is reduced to two cards, no one having gone out, or because of a stalemate, neither team scores the 100-point bonus for going out.
+- Si le jeu se termine parce que le talon est réduit à deux cartes, sans que personne ne soit sorti, ou à cause d'une impasse, aucune équipe ne marque le bonus de 100 points pour être sortie.
 
-- If a player goes out while an opponent (or even the player's partner) has taken a *pozzetto* but not yet looked at it, the owner of the *pozzetto* subtracts the actual value of the cards in it, as though they were already in hand, rather than 100 points.
+- Si un joueur sort alors qu'un adversaire (ou même son partenaire) a pris un *pozzetto* mais ne l'a pas encore regardé, le propriétaire du *pozzetto* soustrait la valeur réelle des cartes qu'il contient, comme s'il les avait déjà en main, plutôt que 100 points.
 
-- It is possible for a team's score for a hand to be negative (if the cards in their hands are worth more than those they have melded), and a team's cumulative score can also be negative.
+- Il est possible que le score d'une équipe pour une manche soit négatif (si les cartes en main valent plus que celles étalées), et le score cumulé d'une équipe peut aussi être négatif.
 
-The game ends when either team has a score of more than 2000 points, and the team with the higher score wins.
+Le jeu se termine quand l'une ou l'autre équipe a un score supérieur à 2000 points, et l'équipe avec le score le plus élevé gagne.
 
-## Variations
+## Variantes
 
-Some play that a burraco of 8 or more cards that contains a sequence of 7 **consecutive** natural cards and a wild card or consists of at least 7 equal cards with a wild card, is "semi-clean" *(semipulito)* and is worth 150 points. This is indicated by placing the second to last card crosswise.
+Certains jouent qu'un burraco de 8 cartes ou plus qui contient une séquence de 7 cartes naturelles **consécutives** et une carte sauvage, ou qui consiste en au moins 7 cartes égales avec une carte sauvage, est « semi-propre » *(semipulito)* et vaut 150 points. Cela est indiqué en plaçant l'avant-dernière carte en travers.
 
-Some play that in case of a stalemate, after all four players in turn have done nothing but take a single card from the discard pile and discard, the play does not end. Instead, the next player in turn must end the stalemate by drawing a card from the draw pile.
+Certains jouent qu'en cas d'impasse, après que les quatre joueurs n'aient fait que prendre une seule carte de la défausse et défausser, le jeu ne se termine pas. À la place, le joueur suivant doit mettre fin à l'impasse en piochant une carte du talon.
 
-**Burraco for three players.** Each player is dealt 11 cards and there are two *pozzetti*: one of 18 cards and one of 11. The first player who melds all his or her cards takes the 18-card *pozzetto* and plays alone. The other two play as partners and the first of them to meld all their cards takes the second *pozzetto*. The play and scoring are the same as in the four-player game, the partners dividing their total score between them. Note that in this game there is no point in melding cards before the partnerships are determined, until you are able to put down your whole hand and take the first *pozzetto* (a possible exception is if you have a complete *burraco* in your hand). 
+**Burraco à trois joueurs.** Chaque joueur reçoit 11 cartes et il y a deux *pozzetti* : un de 18 cartes et un de 11. Le premier joueur qui étale toutes ses cartes prend le *pozzetto* de 18 cartes et joue seul. Les deux autres jouent en partenaires et le premier d'entre eux à étaler toutes ses cartes prend le second *pozzetto*. Le jeu et le score sont les mêmes que dans le jeu à quatre joueurs, les partenaires se partageant leur score total. Notez que dans ce jeu, il est inutile d'étaler des cartes avant que les équipes soient déterminées, jusqu'à ce que vous puissiez poser toute votre main et prendre le premier *pozzetto* (une exception possible est si vous avez un *burraco* complet en main).
 
-**Burraco for two players.** Each player is dealt 11 cards and there are two *pozzetti* of 11 cards each. The play and scoring are exactly as in the four-player game, but since you have no partner there is no advantage in putting down melds unless you are able to take your *pozzetto* or fear that your opponent will go out before your next turn.
+**Burraco à deux joueurs.** Chaque joueur reçoit 11 cartes et il y a deux *pozzetti* de 11 cartes chacun. Le jeu et le score sont exactement comme dans le jeu à quatre joueurs, mais comme vous n'avez pas de partenaire, il n'y a aucun avantage à poser des combinaisons à moins de pouvoir prendre votre *pozzetto* ou de craindre que votre adversaire ne sorte avant votre prochain tour.
 
-On other pages of this web site there are details of Brazilian Buraco and Argentinean Burako.
+Sur d'autres pages de ce site, il y a des détails sur le Buraco brésilien et le Burako argentin.
 
-## Other Italian Burraco pages
+## Autres pages italiennes sur le Burraco
 
-Antonin Jaun's German language site [canasta.ch](https://web.archive.org/web/20220802234056/http://www.canasta.ch/pages/de/home.php) (archive copy) has rules and information for Burraco.
+Le site en langue allemande d'Antonin Jaun [canasta.ch](https://web.archive.org/web/20220802234056/http://www.canasta.ch/pages/de/home.php) (copie d'archive) contient des règles et des informations sur le Burraco.
 
-## Italian Burraco Software and Online Games
+## Logiciels et jeux en ligne italiens de Burraco
 
-- the [Ludopoli](https://www.ludopoli.it/) site
+- le site [Ludopoli](https://www.ludopoli.it/)
 
 - [Burraconline.com](https://www.burraconline.com/)
 
-- [Burraco online at biska.com](http://www.biska.com/)
+- [Burraco en ligne sur biska.com](http://www.biska.com/)
 
-- Antonio Ferraioli's iPhone/iPad apps for [Italian Burraco](https://www.onmadesoft.com/burraco-italiano/app-burraco.html) and [International Burraco](https://www.onmadesoft.com/burraco-internazionale/app-burraco-internazionale.html). 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Burraco
+- les applications iPhone/iPad d'Antonio Ferraioli pour le [Burraco italien](https://www.onmadesoft.com/burraco-italiano/app-burraco.html) et le [Burraco international](https://www.onmadesoft.com/burraco-internazionale/app-burraco-internazionale.html).

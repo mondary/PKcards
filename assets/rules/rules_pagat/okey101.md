@@ -1,178 +1,173 @@
-# Okey101
+# Okey 101
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A variant of Okey played with hands of 21 tiles in which tile combinations can be melded during the game.
+**Type :** Rami
+**But :** Une variante de l'Okey jouée avec des mains de 21 tuiles dans laquelle les combinaisons de tuiles peuvent être posées pendant le jeu.
+**Autres noms :** 101 Okey
 
 ---
 
-*This page is based mainly on information from Erol Karataş.*
+*Cette page est basée principalement sur des informations d'Erol Karataş.*
 
 ## Introduction
 
-Okey 101 is a four-player Turkish game played with rummy tiles. It is a rummy game, closely related to ordinary Okey *(Düz Okey)*, the main differences being that players begin with hands of 21 tiles instead of 15, that that tiles can be melded during the game and laid off on other players' melds. A player's first meld must have a value of at least 101, hence the name of the game.
+L'Okey 101 est un jeu turc à quatre joueurs joué avec des tuiles de rami. C'est un jeu de rami étroitement lié à l'Okey ordinaire *(Düz Okey)*, les principales différences étant que les joueurs commencent avec des mains de 21 tuiles au lieu de 15, et que les tuiles peuvent être posées en combinaisons pendant le jeu et délestées sur les combinaisons d'autres joueurs. La première combinaison d'un joueur doit avoir une valeur d'au moins 101, d'où le nom du jeu.
 
-A game consists of a fixed number of deals as agreed in advance between the players.* *In each deal penalty points are scored according to the unplayed tiles in the players' hands and the aim is to have as few penalty points as possible at the end of the game.
+Une partie consiste en un nombre fixe de donnes, convenu à l'avance entre les joueurs. À chaque donne, des points de pénalité sont marqués selon les tuiles non jouées dans les mains des joueurs, et le but est d'avoir le moins de points de pénalité possible à la fin de la partie.
 
-## Players and Equipment
+## Joueurs et équipement
 
-A set of 106 tiles is used. The faces of the tiles are numbered from 1 to 13, with the numbers printed in four colours. The colours vary from set to set: for example they may be red/yellow/blue/black, red/green/blue/black or red/green/blue/black. For each number, there are two tiles of each colour, so eight tiles of each number in all. In addition there are two special tiles without numbers - these are known in this game as "false jokers" (in Turkish "sahte okey"). The design of the joker tiles varies from set to set. The backs of the all tiles are plain, so tiles that are face down on the table or held by another player all look the same. 
+Un jeu de 106 tuiles est utilisé. Les faces des tuiles sont numérotées de 1 à 13, les nombres étant imprimés en quatre couleurs. Les couleurs varient d'un jeu à l'autre : par exemple, elles peuvent être rouge/jaune/bleu/noir, rouge/vert/bleu/noir ou rouge/vert/jaune/noir. Pour chaque numéro, il y a deux tuiles de chaque couleur, soit huit tuiles de chaque numéro au total. En outre, il y a deux tuiles spéciales sans numéro — connues dans ce jeu sous le nom de « faux jokers » (en turc « sahte okey »). Le dessin des tuiles joker varie d'un jeu à l'autre. Les dos de toutes les tuiles sont unis, de sorte que les tuiles face cachée sur la table ou tenues par un autre joueur ont toutes la même apparence.
 
-There are normally four players, though it is possible for two or three to play. The direction of play is anticlockwise.
+Il y a normalement quatre joueurs, bien qu'il soit possible d'y jouer à deux ou trois. Le sens du jeu est inverse des aiguilles d'une montre.
 
-## Distributing the Tiles and Determining the Joker
+## Distribution des tuiles et détermination du joker
 
-The first dealer is chosen at random. After the hands have been played and scored, the turn to deal passes to the right.
+Le premier donneur est choisi au hasard. Après que les mains ont été jouées et scorées, la donne passe à la droite.
 
-The 106 tiles are placed face down on the table and thoroughly mixed. Then the players set them up into 15 stacks of seven tiles, the tiles in each pile being face down. One tile is left over - this is temporarily kept by the dealer. The stacks are lined up in front of the players, something like this:
+Les 106 tuiles sont placées face cachée sur la table et soigneusement mélangées. Ensuite, les joueurs les disposent en 15 tas de sept tuiles, les tuiles de chaque tas étant face cachée. Une tuile reste de côté — elle est temporairement gardée par le donneur. Les tas sont alignés devant les joueurs, à peu près comme ceci :
 
-![preparation of stacks](../images/rummy/okey101.gif)
+![préparation des tas](../images/rummy/okey101.gif)
 
-The dealer now throws the die twice. The result of the first throw selects one of the tile stacks starting from the left-hand stack in front of the dealer and counting to the right, continuing anticlockwise to player 2 if necessary. The selected stack now has eight tiles. The second throw of the die selects one of the tiles in the selected stack, counting upwards from the bottom of the stack. The selected tile is extracted from the stack and placed face up on top of it. If the selected tile is a false joker, it is returned to the selected stack and the second throw of the die is repeated until a numbered tile is selected.
+Le donneur lance maintenant le dé deux fois. Le résultat du premier lancer sélectionne un des tas de tuiles en partant du tas le plus à gauche devant le donneur et en comptant vers la droite, continuant dans le sens inverse des aiguilles d'une montre vers le joueur 2 si nécessaire. Le tas sélectionné a maintenant huit tuiles. Le deuxième lancer du dé sélectionne une des tuiles du tas sélectionné, en comptant vers le haut depuis le bas du tas. La tuile sélectionnée est extraite du tas et placée face visible sur son dessus. Si la tuile sélectionnée est un faux joker, elle est rendue au tas sélectionné et le deuxième lancer du dé est répété jusqu'à ce qu'une tuile numérotée soit sélectionnée.
 
-This face up tile determines the "joker" (okey) for the game - a wild tile that can be used to represent other tiles to complete a combination. The joker is the tile of the **same colour** and **one number greater** than the face up tile. For example if the face up tile is the black 5, the black 6's are jokers. The **false jokers** are not wild - they are used only to represent the tiles that have become jokers. So for example when the green 11s are jokers, the false jokers are played as green 11s (and cannot represent any other tile). If the face up tile is a 13, the 1's of the same colour are jokers.
+Cette tuile face visible détermine le « joker » (okey) de la partie — une tuile sauvage qui peut être utilisée pour représenter d'autres tuiles afin de compléter une combinaison. Le joker est la tuile de la **même couleur** et **d'un numéro supérieur** à la tuile face visible. Par exemple, si la tuile face visible est le 5 noir, les 6 noirs sont les jokers. Les **faux jokers** ne sont pas sauvages — ils servent seulement à représenter les tuiles qui sont devenues jokers. Ainsi, par exemple, quand les 11 verts sont jokers, les faux jokers sont joués comme des 11 verts (et ne peuvent représenter aucune autre tuile). Si la tuile face visible est un 13, les 1 de la même couleur sont les jokers.
 
-Now the stacks of tiles are distributed to the players. The player to dealer's right will receive 22 tiles and the others 21 each. The player to the right of the dealer takes the next stack after (to the right of) the selected stack with the face up tile on top of it, then the player opposite the dealer takes the following stack, and so on anticlockwise around the table, until each player has three stacks (21 tiles), and the player to dealer's right takes the top tile of the next stack for a total of 22 tiles. 
+Maintenant, les tas de tuiles sont distribués aux joueurs. Le joueur à la droite du donneur recevra 22 tuiles et les autres 21 chacun. Le joueur à la droite du donneur prend le tas suivant après (à la droite de) le tas sélectionné avec la tuile face visible sur son dessus, puis le joueur en face du donneur prend le tas suivant, et ainsi de suite dans le sens inverse des aiguilles d'une montre autour de la table, jusqu'à ce que chaque joueur ait trois tas (21 tuiles), et le joueur à la droite du donneur prend la tuile du dessus du tas suivant pour un total de 22 tuiles.
 
-All the players should arrange their tiles so that they can see their faces but the other players cannot. Wooden racks are often used for this. The remaining stacks of tiles are left for the players to draw from during the game. They are moved to the middle of the table, without looking at them or disturbing their order.
+Tous les joueurs doivent arranger leurs tuiles de sorte qu'ils puissent voir leurs faces mais pas les autres joueurs. Des râteliers en bois sont souvent utilisés pour cela. Les tas de tuiles restants sont laissés pour que les joueurs piochent pendant le jeu. Ils sont déplacés au milieu de la table, sans les regarder ni perturber leur ordre.
 
-## Melds and Opening Requirement
+## Combinaisons et exigence d'ouverture
 
-During the game, players may meld combinations of tiles, placing them face up on the table, and the object is to be the first player to lay down all one's tiles. There are two ways to lay down tiles:
+Pendant le jeu, les joueurs peuvent poser des combinaisons de tuiles, en les plaçant face visible sur la table, et l'objectif est d'être le premier joueur à poser toutes ses tuiles. Il y a deux façons de poser des tuiles :
 
-- A player can lay down sets and runs.
+- Un joueur peut poser des groupes et des suites.
 
-- A set consists of three tiles (üçlü) or four tiles (dörtlü) of the same number and different colours. (So for example a black 7 plus two red 7's would not form a valid set.) 
+- Un groupe consiste en trois tuiles (üçlü) ou quatre tuiles (dörtlü) du même numéro et de couleurs différentes. (Ainsi, par exemple, un 7 noir plus deux 7 rouges ne formeraient pas un groupe valide.)
 
-- A run (el) consists of three or more consecutive tiles of the same colour. In Okey 101 (unlike ordinary Okey) the 1 can **only** be used as the **lowest** tile, below the 2. So **1-2-3** is a valid run, but **12****-13-1** is not allowed. 
+- Une suite (el) consiste en trois tuiles consécutives ou plus de la même couleur. Dans l'Okey 101 (contrairement à l'Okey ordinaire), le 1 ne peut **que** être utilisé comme la tuile la **plus basse**, au-dessous du 2. Ainsi, **1-2-3** est une suite valide, mais **12-13-1** n'est pas autorisé.
 
-- A set of three equal tiles can be expanded to four by adding a tile of the same number in the fourth colour. A run can be extended by adding more tiles of the same colour in sequence at either end.
+- Un groupe de trois tuiles égales peut être étendu à quatre en ajoutant une tuile du même numéro dans la quatrième couleur. Une suite peut être étendue en ajoutant d'autres tuiles de la même couleur en séquence à l'une ou l'autre extrémité.
 
-- 
+- Un joueur peut poser des **paires** de tuiles identiques (même numéro et même couleur) — par exemple les deux 5 noirs. Une paire ne peut pas être étendue.
 
-- A player can lay down **pairs** of identical tiles (same number and same colour). - for example both black 5's. A pair cannot be extended.
+Ces deux méthodes ne peuvent pas être mélangées.
 
-- 
+- Un joueur qui commence à poser des groupes et des suites doit continuer avec des groupes et des suites, et ne peut pas poser de paires identiques dans cette main.
 
-These two methods cannot be mixed. 
+- Un joueur qui commence avec des paires doit continuer avec des paires. Ce joueur ne peut pas poser de nouveaux groupes ou suites, mais est autorisé à étendre les groupes et suites commencés par d'autres joueurs.
 
-- A player who begins laying down sets and runs must continue with sets and runs, and cannot meld identical pairs in that hand. 
+**Jokers** (les tuiles de la même couleur et d'un numéro supérieur à la tuile retournée dans la donne) peuvent être utilisés comme substituts de n'importe quelle tuile nécessaire pour faire un groupe, une suite ou une paire. Les jokers qui ont été joués restent où ils sont placés jusqu'à la fin — il n'est pas possible dans ce jeu de déplacer un joker ou de le récupérer en échange de la tuile qu'il représente.
 
-- A player who begins with pairs must continue with pairs. This player cannot lay down new sets or runs, but is allowed to extend sets and runs begun by other players.
+## Jeu
 
-**Jokers** (the tiles of the same colour and one number greater than the tile turned up in the deal) can be used as substitutes for any tile needed to make a set, run or pair. Jokers that have been played remain where they are placed until the end - it is not possible in this game to move a joker or to reclaim it in exchange for the tile it represents.
+Le joueur à la droite du donneur commence le jeu en posant éventuellement quelques tuiles en combinaisons, s'il peut satisfaire les exigences d'une première combinaison (voir ci-dessous), puis en défaussant une tuile face visible. Le jeu continue dans le sens inverse des aiguilles d'une montre, et le tour de chaque joueur consiste en :
 
-## Play
+- Piocher la tuile suivante des tas face cachée du milieu, ou prendre la tuile face visible défaussée par le joueur précédent. **Note.** La défausse du joueur précédent ne peut être prise que si elle est **immédiatement** utilisée dans une combinaison. Elle ne peut pas être prise en main et gardée pour un usage ultérieur.
 
-The player to dealer's right begins the play by optionally melding some tiles, if able to meet the requirements for a first meld (see below) and then discarding one tile face up. Play continues anticlockwise, and each player's turn consists of:
+- En option, poser quelques tuiles en combinaisons, et/ou ajouter aux combinaisons déjà posées par n'importe quel joueur. **Note** les restrictions sur la pose expliquées ci-dessous.
 
-- Drawing the next tile from the face down stacks in the middle, or taking the face up tile discarded by the previous player. **Note.** The previous player's discard can only be taken if it is **immediately** used in a meld. It cannot be taken into the player's hand and kept for later use.
+- Défausser une tuile face visible. Notez que défausser une tuile qui aurait pu être utilisée pour étendre un groupe ou une suite sur la table entraîne une pénalité de 101 points.
 
-- Optionally melding some tiles, and/or adding to melds already put down by any player. **Note** the restrictions on melding explained below.
+Cela continue jusqu'à ce qu'un joueur termine le jeu. Il y a trois façons que le jeu se termine :
 
-- Discarding one tile face up. Note that discarding a tile that could have been used to extend a set or run on the table incurs a penalty of 101 points. 
+- L'un des joueurs pose en combinaisons toutes ses tuiles restantes sauf une, et défausse la dernière tuile, ne laissant rien. Le joueur qui a joué toutes ses tuiles est le vainqueur et les trois autres joueurs reçoivent des points de pénalité — voir le score.
 
-This continues until a player finishes the game. There are three ways that the play can end:
+- Il ne reste plus de tuiles face cachée dans les tas de pioche : seule la tuile exposée qui détermine le joker reste au milieu. Si le prochain joueur à jouer ne veut pas prendre la défausse du joueur précédent, le jeu se termine parce qu'il n'y a plus de tuiles à piocher. Dans ce cas, il n'y a pas de score, **sauf** que tout joueur tenant un joker en main marque 101 points de pénalité. Le même joueur redonne.
 
-- One of the players melds all their remaining tiles except one, and discards the last tile, leaving none. The player who played all his or her tiles is the winner and the other three players receive penalty points - see scoring.
+- Si les quatre joueurs posent des paires, il est impossible pour quiconque de gagner. Avec une main de 21 tuiles, vous pouvez faire au plus 10 paires, donc pour gagner, vous devez vous débarrasser d'au moins une tuile en étendant les groupes ou suites faits par d'autres joueurs. Si tout le monde pose des paires, cela n'est pas possible, donc le jeu s'arrête et il n'y a pas de score, **sauf** que tout joueur tenant un joker en main marque 101 points de pénalité. Le même donneur redonne.
 
-- There are no face down tiles left in the drawing stacks: only the exposed tile that determines the joker is left in the middle. If the next player to play does not want to take the previous player's discard, the play ends because there are no tiles left to draw. In this case there is no score, **except** that any player holding a joker in hand scores 101 penalty points. The same player deals again.
+### Exigences de la première combinaison
 
-- If all four players meld pairs, it is impossible for anyone to win. From a hand of 21 tiles you can make at most 10 pairs, so in order to win you have to get rid of at least one tile by extending sets or runs made by other players. If everyone puts down pairs this is not possible, so the play stops and there is no score, **except** that any player holding a joker in hand scores 101 penalty points. The same dealer deals again.
+La première combinaison d'un joueur doit satisfaire certaines exigences minimales.
 
-### Initial Meld Requirements
+- **En posant des groupes et des suites**, un joueur doit commencer par poser des groupes et des suites de la main d'une valeur totale **d'au moins 101** en un seul tour. Pour cela, les tuiles ont leur valeur nominale — par exemple un sept rouge vaut 7 points et un trois vert vaut 3 points. Un joker a la valeur de la tuile qu'il représente.
 
-A player's first meld must meet certain minimum requirements.
+- Pour faciliter le calcul, il est utile de noter qu'une combinaison de 3 tuiles vaut trois fois la valeur de la tuile du milieu. Ainsi, par exemple, un joueur souhaitant poser **7-8-9**, **11-11-11**, **4-5-6**, **11-12-13** additionnerait les nombres du milieu 8+11+5+12, soit 36. La valeur totale est donc 108 (=3×36) et c'est une première combinaison valide. En raccourci, on peut simplement vérifier que les nombres du milieu s'additionnent pour au moins 34. Pour les combinaisons de quatre, la valeur de la tuile d'extrémité doit être ajoutée au total. Par exemple, 5-6-7-8, 13-13-13, 9-10-11, 2-2-2 donne 6+13+10+2, soit seulement 31 points pour un total de 93, mais en ajoutant la quatrième tuile (8) de la première suite, le total atteint 101, ce qui est juste suffisant.
+**Après** qu'un joueur a posé des groupes ou suites d'une valeur de 101 ou plus, ce joueur peut, au même tour et aux tours futurs, poser des groupes et suites supplémentaires, quelle que soit leur valeur, et ajouter des tuiles aux groupes et suites posés par d'autres joueurs.
 
-- **If laying down sets and runs**, a player must begin by putting down sets and runs from hand with a total value of **at least 101** in a single turn. For this purpose, tiles have their face value - for example a red seven is worth 7 points and a green three is worth 3 points. A joker has the value of the tile it represents. 
+- **En posant des paires**, un joueur doit commencer par poser au moins **cinq paires** de la main en un seul tour. Dans ce cas, les valeurs des tuiles n'ont pas d'importance. **Après** qu'un joueur a posé cinq paires, ce joueur peut, au même tour et aux tours futurs, poser des paires supplémentaires, et ajouter des tuiles aux groupes et suites posés par d'autres joueurs.
 
-- For ease of calculation, it is worth noting that a 3-tile combination is worth three times the value of the middle tile. So for example a player wishing to put down **7-8-9**, **11-11-11**, **4****-5-6**, **11****-12-13** would add the middle numbers 8+11+5+12 making 36. The total value is therefore 108 (=3×36) and this is a valid initial meld. As a shortcut, one can just check that the middle numbers add up to at least 34. For melds of four, the value of the end tile must be added to the total. For example 5-6-7-8, 13-13-13, 9-10-11, 2-2-2 gives 6+13+10+2 which is only 31 points for a total of 93, but adding the fourth tile (8) of the first run brings the total to 101 which is just sufficient.
-**After** a player has melded sets or runs to the value of 101 or more, that player can, in the same and future turns, lay down additional sets and runs irrespective of value, and add tiles to sets and runs laid down by other players.
+Notez qu'un joueur n'est pas autorisé à ajouter des tuiles aux groupes ou suites de la table avant d'avoir posé sa propre première combinaison. Après avoir fait une première combinaison, des tuiles peuvent être ajoutées à d'autres combinaisons au même tour, mais la valeur de ces tuiles ne compte pas vers les 101 requis pour la première combinaison de groupes et suites.
 
-- **If laying down pairs**, a player must begin by putting down at least **five pairs** from hand in a single turn. In this case the values of the tiles do not matter. **After** a player has melded five pairs, that player can, in the same and future turns, lay down additional pairs, and add tiles to sets and runs laid down by other players.
+Si un joueur qui n'a encore posé aucune tuile souhaite prendre la défausse du joueur précédent, cette défausse doit être utilisée comme partie de sa première combinaison d'au moins 101 points ou de cinq paires, et sa valeur compte vers la première combinaison.
 
-Note that a player is not allowed to add tiles to sets or runs on the table before putting down his or her own initial meld. Having made an initial meld, tiles can be added to other melds in the same turn, but the value of those tiles does not count towards the 101 required for the initial meld of sets and runs.
+Notez que chaque tour, même le dernier de la partie, doit se terminer par une défausse. Par conséquent, il n'est pas légal de poser en combinaisons **toutes** les tuiles de votre main, vous laissant sans rien à défausser. Par exemple, si vous n'avez que deux tuiles en main : **7-8** et que vous piochez un **9**, vous ne pouvez pas poser ces trois cartes comme une suite. Vous devrez défausser l'une d'elles et trouver un autre moyen de vous débarrasser des deux autres.
 
-If a player who has not yet laid down any tiles wishes to take the previous player's discard, that discard must be used as part of the player's initial meld of at least 101 points or five pairs, and its value counts towards the initial meld.
+Si un joueur est capable de poser 21 tuiles d'un coup en groupes et suites, toutes créées de la main, sans ajouter aux groupes ou suites d'autres joueurs, alors ce joueur est autorisé à poser ces tuiles, à défausser la dernière tuile et à finir le jeu, même si la valeur totale des tuiles est inférieure à 101 points.
 
-Note every turn, even the last of the game, must end with a discard. Therefore it is not legal to meld **all** the tiles in your hand, leaving yourself with nothing to discard. For example if you have only two tiles in hand: **7-8** and you draw a **9**, you cannot put these three down as a run. You will have to discard one of them and find another way to dispose of the other two.
+## Score
 
-If a player is able to put down 21 tiles at once in sets and runs, all created from hand, without adding to any other players' sets or runs, then the player is allowed to put down these tiles, discard the last tile and finish the game, even if the total value of the tiles is less than 101 points.
+À chaque donne, le vainqueur obtient un score négatif et les trois autres joueurs marquent des points de pénalité basés sur les tuiles restant dans leurs mains. Les tuiles ordinaires ont leur valeur nominale, et les jokers non joués ont une valeur de 101 points de pénalité chacun.
 
-## Scoring
+Dans une partie normale où le vainqueur a posé des groupes et des suites et a fini en défaussant une tuile qui n'était pas un joker :
 
-In each deal, the winner gets a negative score and the other three players score penalty points based on the tiles remaining in their hands. Ordinary tiles have their face value, and unplayed jokers have a value of 101 penalty points each.
+- Le vainqueur marque moins 101 points.
 
-In a normal game in which the winner melded sets and runs and finished by discarding a tile that was not a joker:
+- Les autres joueurs qui ont posé des groupes et/ou des suites marquent la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- The winner scores minus 101 points.
+- Les joueurs qui ont posé des paires marquent **deux fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- Other players who have melded sets and/or runs score the total value of the tiles remaining in their hands as penalty points. 
+- Les joueurs qui n'ont pas ouvert, et qui ont encore 21 tuiles en main, marquent 202 points de pénalité.
 
-- Players who have melded pairs score **twice** the total value of the tiles remaining in their hands as penalty points.
+Si le vainqueur a posé des groupes et des suites, et a fini en défaussant un joker :
 
-- Players who have not opened, and still have 21 tiles in their hands, score 202 penalty points.
+- Le vainqueur marque moins 202 points.
 
-If the winner melded sets and runs, and finished by discarding a joker:
+- Les autres joueurs qui ont posé des groupes et/ou des suites marquent **deux fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- The winner scores minus 202 points.
+- Les joueurs qui ont posé des paires marquent **quatre fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- Other layers who have melded sets and/or runs score **twice** the total value of the tiles remaining in their hands as penalty points (unplayed jokers .
+- Les joueurs qui n'ont pas ouvert, et qui ont encore 21 tuiles en main, marquent 404 points de pénalité.
 
-- Players who have melded pairs score **four times** the total value of the tiles remaining in their hands as penalty points.
+Si le vainqueur a posé des paires et a fini en défaussant une tuile qui n'était pas un joker :
 
-- Players who have not opened, and still have 21 tiles in their hands, score 404 penalty points.
+- Le vainqueur marque moins 202 points.
 
-If the winner melded pairs and finished by discarding a tile that was not a joker:
+- Les joueurs qui ont posé des groupes et/ou des suites marquent **deux fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- The winner scores minus 202 points.
+- Les autres joueurs qui ont posé des paires marquent **quatre fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- Players who have melded sets and/or runs score **twice** the total value of the tiles remaining in their hands as penalty points.
+- Les joueurs qui n'ont pas ouvert, et qui ont encore 21 tuiles en main, marquent 404 points de pénalité.
 
-- Other players who have melded pairs score **four times** the total value of the tiles remaining in their hands as penalty points.
+Si le vainqueur a posé des paires et a fini en défaussant un joker :
 
-- Players who have not opened, and still have 21 tiles in their hands, score 404 penalty points.
+- Le vainqueur marque moins 404 points.
 
-If the winner melded pairs and finished by discarding a joker:
+- Les joueurs qui ont posé des groupes et/ou des suites marquent **quatre fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- The winner scores minus 404 points.
+- Les autres joueurs qui ont posé des paires marquent **huit fois** la valeur totale des tuiles restant dans leurs mains comme points de pénalité.
 
-- Players who have melded sets and/or runs score **four times **the total value of the tiles remaining in their hands as penalty points.
+- Les joueurs qui n'ont pas ouvert, et qui ont encore 21 tuiles en main, marquent 404 points de pénalité.
 
-- Other players who have melded pairs score **eight times** the total value of the tiles remaining in their hands as penalty points.
+Si un joueur pose les 21 tuiles d'un coup, avant que tout autre joueur ait posé la moindre tuile, et défausse une tuile qui n'est pas un joker :
 
-- Players who have not opened, and still have 21 tiles in their hands, score 404 penalty points.
+- Le vainqueur marque moins 202 points.
 
-If a player puts down all 21 tiles in one turn, before any other player has put down any tiles at all, and discards a tile that is not a joker:
+- Les autres joueurs marquent chacun 404 points de pénalité.
 
-- The winner scores minus 202 points.
+Si un joueur pose les 21 tuiles d'un coup, avant que tout autre joueur ait posé la moindre tuile, et défausse un joker :
 
-- The other players each score 404 penalty points.
+- Le vainqueur marque moins 404 points.
 
-If a player puts down all 21 tiles in one turn, before any other player has put down any tiles at all, and discards a joker:
+- Les autres joueurs marquent chacun 808 points de pénalité.
 
-- The winner scores minus 404 points.
+Quand le nombre convenu de donnes a été joué, les scores de toutes les donnes sont additionnés et le joueur avec le score le plus bas est le vainqueur.
 
-- The other players each score 808 penalty points.
+### Pénalités
 
-When the agreed number of deals has been played, the scores for all the deals are added together and the player with the lowest score is the winner.
+Les joueurs reçoivent une pénalité supplémentaire de 101 pour les actions suivantes. Ces pénalités sont ajoutées au total des points de cette donne.
 
-### Penalties
+- Un joueur qui défausse un joker reçoit 101 points de pénalité.
 
-Players receive an additional penalty of 101 for the following actions. These penalties are added to the total points for that deal.
+- Si un joueur jette une tuile qui peut être ajoutée à un groupe ou une suite déjà sur la table, il reçoit une pénalité de 101. Cela arrive même si le joueur n'a pas encore ouvert. Cependant, le joueur ne reçoit pas de pénalité si c'est la dernière tuile qu'il défausse en finissant sa main.
 
-- A player who discards a joker receives 101 penalty points.
+- Si un joueur essaie d'ouvrir, mais n'a pas les 101 points ou les cinq paires requis et doit reprendre ses tuiles, il reçoit 101 points de pénalité.
 
-- If a player throws away a tile that can be added to a set or run that is already on the table they receive a 101 penalty. This happens even if the player hasn't opened yet. However, the player does not receive a penalty if it is the last tile they discard when finishing their hand.
+- Si un joueur ajoute plusieurs tuiles sur la table et les reprend, il reçoit une pénalité de 101. Le joueur n'est autorisé à reprendre sans pénalité que la dernière tuile qu'il a posée.
 
-- If a player tries to open, but does not have the required 101 points or five pairs and they have to take back their tiles, they receive 101 penalty points.
+Notez que les deux premières de ces pénalités peuvent être inévitables dans certains cas. Il se peut que toutes vos tuiles puissent être utilisées pour étendre des groupes ou suites de la table, mais que vous n'ayez pas une valeur suffisante de combinaisons en main pour pouvoir poser la moindre tuile.
 
-- If a player adds multiple tiles on the table and takes them back they receive a 101 penalty. The player is only allowed to take back the last tile they put down without a penalty.
+## Autres sites Okey 101
 
-Note that the firat two of these penalties may be unavoidable in certain cases. It may be that all your tiles could be used to extend sets or runs on the table, yet you do not have sufficient value of melds in your hand to be able to put down any tiles. 
-
-## Other Okey 101 websites
-
-Okey 101 can be played online at [allinstar.com](https://www.altinstar.com/). 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Okey > Okey 101
+L'Okey 101 peut être joué en ligne sur [allinstar.com](https://www.altinstar.com/).

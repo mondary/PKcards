@@ -2,106 +2,103 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** How to play the Argentinean contract rummy game Carioca and the similar Central American game Loba.
+**Type :** Rami
+**But :** Comment jouer au Carioca, jeu de rami à contrats argentin, et au Loba, jeu similaire d'Amérique centrale.
 
 ---
 
 ## Introduction
 
-This page is based on a description from Belinda G. Lehmkuhle of **Loba** as played in Central America, which is a version of Contract Rummy.
+Cette page est basée sur une description de Belinda G. Lehmkuhle du **Loba** tel qu'il est joué en Amérique centrale, une version du Rami à contrats.
 
-Eduardo Valcarcel writes that in Argentina a similar game called Carioca is played. The differences between Carioca and Central American Loba are described at the end of this page. There is also a somewhat different game called Loba which is played in Argentina. This is described on a separate page.
+Eduardo Valcarcel écrit qu'en Argentine on joue à un jeu similaire appelé Carioca. Les différences entre le Carioca et le Loba d'Amérique centrale sont décrites à la fin de cette page. Il existe aussi un jeu un peu différent appelé Loba qui se joue en Argentine. Il est décrit sur une page séparée.
 
-## Players and Cards
+## Joueurs et cartes
 
-**Central American Loba** requires two ordinary 52 card decks plus 4 jokers, making 108 cards in all. It is usually played with from 2 to 4 players, but can be played with as many as 5.
+Le **Loba d'Amérique centrale** requiert deux jeux ordinaires de 52 cartes plus 4 jokers, soit 108 cartes au total. Il se joue habituellement de 2 à 4 joueurs, mais peut se jouer jusqu'à 5.
 
-## Terms
+## Termes
 
 **Trio**
-Three of a kind - that is, three cards of the same rank, such as three eights. The three cards do not need to be of different suits, so for example **![spade](../images/internat/spade.gif)9-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)9** is a valid Trio.
+Brelan de trois cartes de même valeur, comme trois huit. Les trois cartes n'ont pas besoin d'être de couleurs différentes, ainsi par exemple **![spade](../images/internat/spade.gif)9-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)9** est un trio valide.
 **Escalera**
-Four cards of the same suit in sequence - such as **![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7** - like a Straight Flush in Poker, but with four cards, not five. The ace can be counted high or low, at the player's choice - so **![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A** and **![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4** are both valid escaleras. Ace cannot be both high and low at once, so **![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3** is not valid.
+Quatre cartes de la même couleur en séquence — comme **![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7** — comme une quinte flush au poker, mais avec quatre cartes, pas cinq. L'as peut être compté haut ou bas, au choix du joueur — ainsi **![club](../images/internat/club.gif)V-![club](../images/internat/club.gif)D-![club](../images/internat/club.gif)R-![club](../images/internat/club.gif)A** et **![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4** sont toutes deux des escaleras valides. L'as ne peut pas être à la fois haut et bas, donc **![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3** n'est pas valide.
 
-## Summary
+## Résumé
 
-Loba is a series of six rounds. In each round, the players strive to get rid of all their cards, and when one any player manages this, the round is over. The other players receive a penalty based on adding up the point values of the cards left in their hands. The player with the fewest points at the end of the six rounds is the overall winner. 
+Le Loba est une série de six manches. Dans chaque manche, les joueurs s'efforcent de se débarrasser de toutes leurs cartes, et quand un joueur y parvient, la manche est terminée. Les autres joueurs reçoivent une pénalité basée sur la somme des valeurs en points des cartes restant dans leurs mains. Le joueur avec le moins de points à la fin des six manches est le vainqueur global.
 
-## How to play a round
+## Comment jouer une manche
 
-The first dealer is chosen at random. The deal and play are counter-clockwise, so the next round will be dealt by the player to the right of the dealer for the current round. 
+Le premier donneur est choisi au hasard. La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre, donc la manche suivante sera donnée par le joueur à la droite du donneur de la manche courante.
 
-Each player is dealt eleven cards. The next card is placed face up on the table, to start the discard pile, and the remaining stock of undealt cards is placed face down beside it. This is the draw pile.
+Chaque joueur reçoit onze cartes. La carte suivante est placée face visible sur la table, pour commencer la défausse, et le talon restant de cartes non distribuées est placé face cachée à côté. C'est le talon de pioche.
 
-Play begins with the player to the right of the dealer, and players take turns in counter-clockwise order. A player's turn consists of three parts:
+Le jeu commence avec le joueur à la droite du donneur, et les joueurs jouent à tour de rôle dans le sens inverse des aiguilles d'une montre. Le tour d'un joueur consiste en trois parties :
 
-- Drawing a card: a player must draw either the top card on the discard pile or the top card on the draw pile; 
+- Piocher une carte : un joueur doit piocher soit la carte du dessus de la défausse soit la carte du dessus du talon ;
 
-- Putting down cards: this is optional, and is described below;
+- Poser des cartes : c'est facultatif et décrit ci-dessous ;
 
-- Discarding one card from his hand to the discard pile.
+- Défausser une carte de sa main à la défausse.
 
-### Putting down cards
+### Poser des cartes
 
-The object is to get rid of all the cards from your hand, and this can only be achieved by putting down cards (sometimes called *melding*). In order to be allowed to put down any cards at all you must first collect in your hand the combination required for the round being played. This is called the *contract*, and it becomes more difficult on each successive round. The contracts are:
+Le but est de se débarrasser de toutes les cartes de sa main, et cela ne peut être réalisé qu'en posant des cartes (parfois appelé *étaler*). Pour être autorisé à poser des cartes, vous devez d'abord avoir collecté dans votre main la combinaison requise pour la manche en cours. Cela s'appelle le *contrat*, et il devient plus difficile à chaque manche successive. Les contrats sont :
 
-| Round 1 | - dos (two) trios | (6 cards) |
-| Round 2 | - un (one) escalera, un trio | (7 cards) |
-| Round 3 | - dos escaleras | (8 cards) |
-| Round 4 | - tres (three) trios | (9 cards) |
-| Round 5 | - dos trios un escalera | (10 cards) |
-| Round 6 | - dos escaleras un trio | (11 cards) |
+| Manche 1 | - dos (deux) trios | (6 cartes) |
+| Manche 2 | - un (une) escalera, un trio | (7 cartes) |
+| Manche 3 | - dos escaleras | (8 cartes) |
+| Manche 4 | - tres (trois) trios | (9 cartes) |
+| Manche 5 | - dos trios, un escalera | (10 cartes) |
+| Manche 6 | - dos escaleras, un trio | (11 cartes) |
 
-When a player has the complete combination of cards required for that round, he may put them down, face up on the table, in front of himself. Note that he is not required to put down as soon as he is able to do so - he can wait until a later turn if he wishes. Also, he must have the complete set of cards before he can put down. For example, in the first round, he may not put down just one trio - he must put down two at once. When putting down the combination required for the round, the player may not put down any additional cards with them on this turn - the set **must** be exactly as determined by the round. Extra cards can be added in later turns.
+Quand un joueur a la combinaison complète de cartes requise pour cette manche, il peut la poser, face visible sur la table, devant lui. Notez qu'il n'est pas tenu de poser dès qu'il le peut — il peut attendre un tour ultérieur s'il le souhaite. De plus, il doit avoir l'ensemble complet de cartes avant de pouvoir poser. Par exemple, à la première manche, il ne peut pas poser juste un trio — il doit poser les deux à la fois. En posant la combinaison requise pour la manche, le joueur ne peut pas poser de cartes supplémentaires avec elles à ce tour — l'ensemble **doit** être exactement celui déterminé par la manche. Des cartes supplémentaires peuvent être ajoutées aux tours suivants.
 
-In all but the very last round, after a player has put down his initial contract, the play continues as usual to the right. (In the final round however, the first player to put down gets rid of **all** of the cards in his hand, thus ending that round.)
+Dans toutes les manches sauf la toute dernière, après qu'un joueur a posé son contrat initial, le jeu continue comme d'habitude vers la droite. (À la manche finale en revanche, le premier joueur à poser se débarrasse de **toutes** les cartes de sa main, mettant ainsi fin à la manche.)
 
-Once a player has put down the initial contract for the round, he is allowed in subsequent turns to put down cards from his hand to extend any trios or escaleras which are already on the table - his own or other people's. A trio can be extended by playing further cards of the same rank, and an escalera can be extended by adding cards to either end of the sequence. An ace can count as high or low, but not both at once. It is theoretically possible to have a sequence with aces at both ends: **A-2-3-4-5-6-7-8-9-10-J-Q-K-A**, the first ace being low and the second high.
+Une fois qu'un joueur a posé le contrat initial de la manche, il est autorisé aux tours suivants à poser des cartes de sa main pour étendre les trios ou escaleras déjà sur la table — les siens ou ceux des autres. Un trio peut être étendu en jouant d'autres cartes de même valeur, et une escalera peut être étendue en ajoutant des cartes à l'une ou l'autre extrémité de la séquence. Un as peut compter haut ou bas, mais pas les deux à la fois. Il est théoriquement possible d'avoir une séquence avec des as aux deux extrémités : **A-2-3-4-5-6-7-8-9-10-V-D-R-A**, le premier as étant bas et le second haut.
 
-For example, if a trio of **![spade](../images/internat/spade.gif)4-![heart](../images/internat/heart.gif)4-![diamond](../images/internat/diamond.gif)4** is on the table, a player may add one or more fours to that stack. Or, if someone has put down the escalera **![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, he may add either a **![diamond](../images/internat/diamond.gif)2** or a **![diamond](../images/internat/diamond.gif)7** to the escalera. 
+Par exemple, si un trio de **![spade](../images/internat/spade.gif)4-![heart](../images/internat/heart.gif)4-![diamond](../images/internat/diamond.gif)4** est sur la table, un joueur peut ajouter un ou plusieurs quatre à cette pile. Ou, si quelqu'un a posé l'escalera **![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, il peut ajouter soit un **![diamond](../images/internat/diamond.gif)2** soit un **![diamond](../images/internat/diamond.gif)7** à l'escalera.
 
-A player who has put down his initial contract for the round is not allowed to put down any new trios or escaleras on subsequent turns. After the initial contract, further cards can only be put down by adding to existing trios and escaleras. He may add as many such cards as he wishes on his turn, but is not forced to play cards just because they fit. Remember, in each turn he still must begin by drawing one new card from either pile and end his turn by discarding a card.
+Un joueur qui a posé son contrat initial pour la manche n'est pas autorisé à poser de nouveaux trios ou escaleras aux tours suivants. Après le contrat initial, d'autres cartes ne peuvent être posées qu'en les ajoutant aux trios et escaleras existants. Il peut ajouter autant de ces cartes qu'il le souhaite à son tour, mais il n'est pas obligé de jouer des cartes simplement parce qu'elles s'adaptent. Rappelez-vous qu'à chaque tour, il doit encore commencer par piocher une nouvelle carte de l'une ou l'autre pile et terminer son tour en défaussant une carte.
 
-## Scoring
+## Score
 
-Once any player has gotten rid of all his cards, the round is ended. Each of the other players must add up the values of all the cards remaining in their hands. Each player's total is his score for that hand, and is added to his previous cumulative score.
+Dès qu'un joueur s'est débarrassé de toutes ses cartes, la manche est terminée. Chacun des autres joueurs doit additionner les valeurs de toutes les cartes restant dans leurs mains. Le total de chaque joueur est son score pour cette manche et est ajouté à son score cumulé précédent.
 
-Cards are counted as follows:
-Number cards are worth their face value in points.
-Jack = 11 points
-Queen = 12 points
-King = 13 points
-Ace = 14 points
+Les cartes sont comptées comme suit :
+Les cartes numérotées valent leur valeur faciale en points.
+Valet = 11 points
+Dame = 12 points
+Roi = 13 points
+As = 14 points
 Joker = 25 points
 
-## The Jokers
+## Les jokers
 
-Jokers are wild! However, you may only use one Joker per escalera or trio in putting down your initial contract. That is, in round two, you could put down **Joker-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6** and **Joker-![heart](../images/internat/heart.gif)7-![spade](../images/internat/spade.gif)7**, but, you cannot put down **Joker-Joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6** and **![heart](../images/internat/heart.gif)7-![spade](../images/internat/spade.gif)7-![club](../images/internat/club.gif)7**. In later play (that is after putting down the inital contract), you may put down as many Jokers on a single escalera or trio as you want. 
+Les jokers sont sauvages ! Cependant, vous ne pouvez utiliser qu'un seul joker par escalera ou trio en posant votre contrat initial. C'est-à-dire qu'à la manche deux, vous pourriez poser **Joker-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6** et **Joker-![heart](../images/internat/heart.gif)7-![spade](../images/internat/spade.gif)7**, mais vous ne pouvez pas poser **Joker-Joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6** et **![heart](../images/internat/heart.gif)7-![spade](../images/internat/spade.gif)7-![club](../images/internat/club.gif)7**. Plus tard dans le jeu (c'est-à-dire après avoir posé le contrat initial), vous pouvez poser autant de jokers sur une seule escalera ou un seul trio que vous voulez.
 
-A Joker at the end of an escalera may be changed in value. That is, if the escalera has **Joker-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, you could tuck a **![diamond](../images/internat/diamond.gif)3** between the Joker and the **![diamond](../images/internat/diamond.gif)4**, making the Joker take on a value of **![diamond](../images/internat/diamond.gif)2**, or you could add a real **![diamond](../images/internat/diamond.gif)2**, leaving the joker to represent the **![diamond](../images/internat/diamond.gif)3**. 
+Un joker à l'extrémité d'une escalera peut changer de valeur. C'est-à-dire que si l'escalera est **Joker-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, vous pourriez glisser un **![diamond](../images/internat/diamond.gif)3** entre le joker et le **![diamond](../images/internat/diamond.gif)4**, faisant prendre au joker la valeur du **![diamond](../images/internat/diamond.gif)2**, ou vous pourriez ajouter un vrai **![diamond](../images/internat/diamond.gif)2**, laissant le joker représenter le **![diamond](../images/internat/diamond.gif)3**.
 
-You may not change the value of a Joker that is in the middle of an escalera. That is, if the escalera is **![diamond](../images/internat/diamond.gif)3-Joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, you cannot tuck a card in; as that joker is not on the end of the escalera, you cannot change its value. Also you cannot move a joker from one end of an escalera to the other; if a player puts down **![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)J-Joker**, you cannot add a **![spade](../images/internat/spade.gif)7**, counting the Joker as a **![spade](../images/internat/spade.gif)8**, because the Joker was originally played at the top end of the sequence. It would, however, be legal to add a **![spade](../images/internat/spade.gif)8**, a **![spade](../images/internat/spade.gif)Q** or a **![spade](../images/internat/spade.gif)K**
+Vous ne pouvez pas changer la valeur d'un joker qui est au milieu d'une escalera. C'est-à-dire que si l'escalera est **![diamond](../images/internat/diamond.gif)3-Joker-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)6**, vous ne pouvez pas glisser une carte dedans ; comme ce joker n'est pas à l'extrémité de l'escalera, vous ne pouvez pas changer sa valeur. Vous ne pouvez pas non plus déplacer un joker d'une extrémité d'une escalera à l'autre ; si un joueur pose **![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)V-Joker**, vous ne pouvez pas ajouter un **![spade](../images/internat/spade.gif)7**, en comptant le joker comme un **![spade](../images/internat/spade.gif)8**, parce que le joker a été joué à l'origine à l'extrémité haute de la séquence. Il serait en revanche légal d'ajouter un **![spade](../images/internat/spade.gif)8**, un **![spade](../images/internat/spade.gif)D** ou un **![spade](../images/internat/spade.gif)R**.
 
-## Variations
+## Variantes
 
-Players may agree before the game begins that the jokers will be worth 50 points rather than 25.
+Les joueurs peuvent convenir avant le début du jeu que les jokers vaudront 50 points plutôt que 25.
 
-Players may agree to value the jacks, queens, kings and aces at ten points each; this makes the count faster.
+Les joueurs peuvent convenir de valoriser les valets, dames, rois et as à dix points chacun ; cela rend le décompte plus rapide.
 
 ## Carioca
 
-The game Carioca played in Argentina is similar to Central American Loba. The main difference is that Carioca has seven rounds instead of six. The contract in the seventh round is **three escaleras**. As you need twelve cards for three escaleras, for that round each player is dealt twelve cards. In this last round the first player to put down must get rid of all their cards.
+Le jeu Carioca joué en Argentine est similaire au Loba d'Amérique centrale. La principale différence est que le Carioca a sept manches au lieu de six. Le contrat de la septième manche est **trois escaleras**. Comme vous avez besoin de douze cartes pour trois escaleras, pour cette manche chaque joueur reçoit douze cartes. À cette dernière manche, le premier joueur à poser doit se débarrasser de toutes ses cartes.
 
-A Joker included in any place within an escalera may be replaced and moved to 
-another place in the same escalera. For example, in an escalera made up of **2-3-Joker-5**, the **Joker** may be replaced by a **4** and moved to either end.
+Un joker inclus à n'importe quel endroit d'une escalera peut être remplacé et déplacé vers un autre endroit de la même escalera. Par exemple, dans une escalera composée de **2-3-Joker-5**, le **joker** peut être remplacé par un **4** et déplacé à l'une ou l'autre extrémité.
 
-Another difference is the points assigned to the cards. In Carioca jokers are valued at 50 points, aces are worth 20 and jacks, queens and kings are 10. The rest of the cards are worth their face value in points.
+Une autre différence concerne les points attribués aux cartes. Dans le Carioca, les jokers valent 50 points, les as 20 et les valets, dames et rois 10. Le reste des cartes vaut sa valeur faciale en points.
 
-Carioca is also played in Chile. Alonso Tapia tells me of the following two variations played there:
+Le Carioca est aussi joué au Chili. Alonso Tapia m'a fait part des deux variantes suivantes jouées là-bas :
 
-- The final round can be played for an "Escalera Real" (Royal Stairway). That means that the player must gather all 13 cards of a suit instead the 3 escaleras. Of course, to complete this, there should be not more than 4 players in the game, or it will be endless.
+- La manche finale peut se jouer pour une « Escalera Real » (escalier royal). Cela signifie que le joueur doit rassembler les 13 cartes d'une couleur au lieu des 3 escaleras. Bien sûr, pour compléter cela, il ne devrait pas y avoir plus de 4 joueurs dans le jeu, sinon cela n'en finirait pas.
 
-- The possibility of replacing a joker in a middle of an escalera is an optional rule. It can be included or not in the game.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Loba / Carioca
+- La possibilité de remplacer un joker au milieu d'une escalera est une règle optionnelle. Elle peut être incluse ou non dans le jeu.

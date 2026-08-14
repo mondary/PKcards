@@ -1,14 +1,12 @@
 # Arlington
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Also known as Oklahoma Rummy, and Fortune Rummy, in which the queen of spades is a high scoring card.
-**Autres noms :** Oklahoma Rummy
+**Type :** Rami
+**But :** Aussi connu sous les noms d'Oklahoma Rummy et Fortune Rummy, des jeux de rami dans lesquels la dame de pique est une carte à forte valeur.
+**Autres noms :** Oklahoma Rummy, Fortune Rummy
 
 ---
 
-Also known as **Oklahoma Rummy** (not to be confused with Oklahoma Gin), this is a meld scoring rummy game in which a player has the choice of drawing the top card of the stock or taking the whole discard pile if its top card can be used with two cards from hand to make a new meld. It features wild deuces and a special high score for the Queen of Spades. Rules for Arlington can be found on this archive page by Howard Fosdick.
+Aussi connu sous le nom d'**Oklahoma Rummy** (à ne pas confondre avec le Gin Oklahoma), c'est un jeu de rami à combinaisons étalées dans lequel le joueur a le choix de piocher la carte du dessus du talon ou de prendre toute la défausse si sa carte du dessus peut être utilisée avec deux cartes de la main pour former une nouvelle combinaison. Il comporte des deux comme cartes sauvages et un score particulier pour la dame de pique. Les règles de l'Arlington figurent sur cette page d'archive d'Howard Fosdick.
 
-On the same page, Howard Fosdick has also published rules of Fortune Rummy, a similar game described by John Scarne as having been popular in the American midwest in the 1940's.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Arlington
+Sur la même page, Howard Fosdick a également publié les règles du Fortune Rummy, un jeu similaire décrit par John Scarne comme ayant été populaire dans le Midwest américain dans les années 1940.

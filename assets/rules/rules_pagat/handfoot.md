@@ -1,354 +1,329 @@
-# Handfoot
+# Hand and Foot
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** An American game in which each player has both a hand of cards and a foot, which is picked up when all the cards from the hand have been played.
+**Type :** Rami
+**But :** Un jeu américain dans lequel chaque joueur a à la fois une main de cartes et un pied (foot), qui est ramassé lorsque toutes les cartes de la main ont été jouées.
+**Autres noms :** Handfoot, Hand 'n Foot, Hand & Foot
 
 ---
 
-Canasta equipment 
-from amazon.com.
-
-[![BICYCLE CANASTA GAMES](../images/com/uncles_13323.jpg)
-Bicycle Canasta Playing Cards](https://www.amazon.com/gp/product/B005LTPQCC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005LTPQCC&linkCode=as2&tag=cardgames)
-
-[![CANASTA CARD GAME](../images/com/canasta3.jpg)
-Piatnik Canasta Cards](https://www.amazon.com/gp/product/B0006HNPHC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0006HNPHC&linkCode=as2&tag=cardgames)
-
-Two or more 108-card sets of Canasta 
-
-cards 
-will be needed for Hand and 
-
-Foot 
-games that require larger decks. 
-
-[![ROTATING CARD TRAY](../images/com/cardtray.jpg)](https://amzn.to/44Uk26K)
-
-A range of [Card Trays](https://amzn.to/44Uk26K) is also available.
-
 ## Introduction
 
-Hand and Foot is a North American game related to Canasta, in which each player is dealt two sets of cards - the **hand**, which is played first, and the **foot**, which is played when the hand has been used up. There are numerous variations of this game and no standard rules. The most usual version is for four players in partnership, and this will be described first; these rules were contributed by Bill Whitnack. A number of variations are then given - I would like to thank Barbara Bain, Dave Petrie, Brian Brouillette and Steve Simpson for providing information about these. 
+Le Hand and Foot est un jeu nord-américain apparenté à la Canasta, dans lequel chaque joueur reçoit deux jeux de cartes — la **main** (hand), qui est jouée d'abord, et le **pied** (foot), qui est joué quand la main a été épuisée. Il existe de nombreuses variantes de ce jeu et aucune règle standard. La version la plus courante est à quatre joueurs en équipes, et c'est elle qui sera décrite en premier ; ces règles ont été contribuées par Bill Whitnack. Un certain nombre de variantes sont ensuite données — je remercie Barbara Bain, Dave Petrie, Brian Brouillette et Steve Simpson pour les informations qu'ils ont fournies à leur sujet.
 
-Although most people say that Hand and Foot is best played by four people in partnerships, it can also be played by six in two teams of three, or by any number of people playing as individuals.
+Bien que la plupart des gens disent que le Hand and Foot se joue de préférence à quatre en équipes, il peut aussi se jouer à six en deux équipes de trois, ou avec n'importe quel nombre de joueurs en individuel.
 
-## Partnership Hand and Foot for Four Players
+## Hand and Foot en équipes pour quatre joueurs
 
-*(based on a contribution from Bill Whitnack)*
+*(basé sur une contribution de Bill Whitnack)*
 
-### Players, Cards, Deal
+### Joueurs, cartes, donne
 
-Partners sit opposite each other. Five decks of cards are used, including two jokers per deck (270 cards in all).
+Les partenaires s'assoient en face l'un de l'autre. Cinq jeux de cartes sont utilisés, y compris deux jokers par jeu (270 cartes au total).
 
-Choose which partnership will deal first. After the cards have been thoroughly mixed, one partner takes part of the deck, deals four face-down stacks of 13 cards and passes them around the table in a clockwise direction until each player has a stack - the **hand**. Meanwhile the partner of the hand dealer takes another part of the deck and deals another four stacks of 13 cards each and passes them also in a clockwise direction until each player has a second stack - the **foot**. 
+On choisit quelle équipe donnera en premier. Après que les cartes ont été soigneusement mélangées, un partenaire prend une partie du jeu, distribue quatre tas face cachée de 13 cartes et les fait passer autour de la table dans le sens des aiguilles d'une montre jusqu'à ce que chaque joueur ait un tas — la **main** (hand). Pendant ce temps, le partenaire du donneur des mains prend une autre partie du jeu et distribue quatre autres tas de 13 cartes chacun, qu'il fait passer aussi dans le sens des aiguilles d'une montre jusqu'à ce que chaque joueur ait un second tas — le **pied** (foot).
 
-The remainder of the undealt cards are put in a face-down pile in the middle of the table to form a **stock**. The top card of the stock is turned face-up and placed next to it to start a discard pile. If this is a red three or wild card (two or joker) it is buried in the stock and a new card turned up.
+Le reste des cartes non distribuées est mis en tas face cachée au milieu de la table pour former le **talon** (stock). La carte du dessus du talon est retournée face visible et placée à côté pour amorcer une défausse. Si c'est un trois rouge ou une carte sauvage (deux ou joker), elle est enfouie dans le talon et une nouvelle carte est retournée.
 
-The players' "foot" stacks are placed face down around the stock and discard piles - the players are not allowed to look at them until they have played all the cards in their hands. Each player picks up their "hand" stack, and play begins with the player to the left of the one who dealt the hands.
+Les tas « foot » des joueurs sont placés face cachée autour du talon et de la défausse — les joueurs n'ont pas le droit de les regarder avant d'avoir joué toutes les cartes de leurs mains. Chaque joueur ramasse son tas « main », et le jeu commence avec le joueur à la gauche de celui qui a distribué les mains.
 
-After the end of the play, the turn to deal passes to the left. A complete game consists of four deals.
+Après la fin du jeu, la donne passe à la gauche. Une partie complète consiste en quatre donnes.
 
-### The Object of the Game: Melds
+### L'objectif du jeu : les combinaisons (melds)
 
-The aim is to get rid of cards from your hand, and then from your foot, by **melding** them. A meld is a set of from three to seven cards of equal rank placed face up on the table. A meld cannot have fewer than three cards or more than seven. Melds belong to a partnership, not to an individual player. After a meld of three or more cards has been started, either player of the partnership can add further cards to it until there are seven. You can make a meld of cards of any rank from A, K, Q, ... down to 4. Threes have special uses and cannot be melded in the normal way. Twos and jokers are "wild cards" and can be used as substitutes in melds, as long as there at least twice as many real cards of the rank of the meld as wild cards. Thus a meld of 3, 4 or 5 cards can contain at most one wild card and a meld of 6 or 7 can contain at most two. You can also make a meld consisting **entirely** of wild cards - twos and jokers. In fact you **must** make such a meld to be allowed to go out and win the deal. There are three types of meld:
+Le but est de se débarrasser des cartes de votre main, puis de votre pied, en les **posant en combinaisons** (melding). Une combinaison est un ensemble de trois à sept cartes de même rang posé face visible sur la table. Une combinaison ne peut avoir moins de trois cartes ni plus de sept. Les combinaisons appartiennent à une équipe, pas à un joueur individuel. Après qu'une combinaison de trois cartes ou plus a été commencée, l'un ou l'autre joueur de l'équipe peut y ajouter d'autres cartes jusqu'à ce qu'il y en ait sept. Vous pouvez faire une combinaison de cartes de n'importe quel rang, de A, R, D, ... jusqu'à 4. Les trois ont des usages spéciaux et ne peuvent pas être posés de la manière normale. Les deux et les jokers sont des « cartes sauvages » et peuvent être utilisés comme substituts dans les combinaisons, à condition qu'il y ait au moins deux fois plus de vraies cartes du rang de la combinaison que de cartes sauvages. Ainsi, une combinaison de 3, 4 ou 5 cartes peut contenir au plus une carte sauvage et une combinaison de 6 ou 7 peut en contenir au plus deux. Vous pouvez aussi faire une combinaison consistant **entièrement** en cartes sauvages — deux et jokers. En fait, vous **devez** faire une telle combinaison pour être autorisé à sortir et gagner la donne. Il y a trois types de combinaisons :
 
-- a **clean meld** has no wild cards
+- une **combinaison propre** (clean) n'a pas de carte sauvage
 
-- a **dirty meld** has one or two wild cards (but not more than one unless there are at least 6 cards in the meld)
+- une **combinaison sale** (dirty) a une ou deux cartes sauvages (mais pas plus d'une à moins qu'il n'y ait au moins 6 cartes dans la combinaison)
 
-- a **wild meld** consists entirely of wild cards. 
+- une **combinaison sauvage** (wild) consiste entièrement en cartes sauvages.
 
-A meld of seven cards is complete and is called a **pile**. While melds are fanned out face up, complete piles are squared up and the cards placed on top shows the type - a red card for a clean pile, a black card for a dirty pile, and a joker for a wild pile (or a two if it contains no joker). Usually the complete piles of seven cards are kept in front of one member of a partnership (along with red threes), while the other partner keeps the incomplete melds of three to six cards.
+Une combinaison de sept cartes est complète et s'appelle une **pile**. Tandis que les combinaisons sont étalées en éventail face visible, les piles complètes sont rangées en tas et la carte placée sur le dessus indique le type — une carte rouge pour une pile propre, une carte noire pour une pile sale, et un joker pour une pile sauvage (ou un deux si elle ne contient pas de joker). Habituellement, les piles complètes de sept cartes sont gardées devant un des membres de l'équipe (avec les trois rouges), tandis que l'autre partenaire garde les combinaisons incomplètes de trois à six cartes.
 
-You score points for cards you have melded, and lose points for any cards left in your hand at the end of the play. The play ends when someone gets rid of all the cards in their "hand" and "foot", by melding or discarding them; this is known as "going out". In order to be allowed to go out, you must satisfy all of the following conditions:
+Vous marquez des points pour les cartes que vous avez posées en combinaisons, et vous perdez des points pour toute carte restant dans votre main à la fin du jeu. Le jeu se termine quand quelqu'un se débarrasse de toutes les cartes de sa « main » et de son « pied », en les posant en combinaisons ou en les défaussant ; cela s'appelle « sortir » (going out). Pour être autorisé à sortir, vous devez satisfaire toutes les conditions suivantes :
 
-- your partnership must have completed at least two dirty piles, two clean piles and one wild pile (exactly seven cards in each);
+- votre équipe doit avoir complété au moins deux piles sales, deux piles propres et une pile sauvage (exactement sept cartes dans chacune) ;
 
-- your partner must have picked up their "foot" and played at least part of one turn from it;
+- votre partenaire doit avoir ramassé son « pied » et joué au moins une partie d'un tour à partir de celui-ci ;
 
-- you must ask partner's permission to go out. If partner agrees you must meld all of your remaining cards, or meld all but one of your remaining cards and discard your last card. If partner says no, you are not allowed to go out on that turn.
+- vous devez demander à votre partenaire la permission de sortir. Si le partenaire est d'accord, vous devez poser en combinaisons toutes vos cartes restantes, ou poser toutes vos cartes sauf une et défausser votre dernière carte. Si le partenaire dit non, vous n'êtes pas autorisé à sortir à ce tour.
 
-See also the section End of the Play.
+Voir aussi la section Fin du jeu.
 
-### Card Values
+### Valeur des cartes
 
-Individual cards have values as follows. They count for you if you have melded them, but against you if they are left in your hand or foot at the end of the play:
+Les cartes individuelles ont les valeurs suivantes. Elles comptent pour vous si vous les avez posées en combinaison, mais contre vous si elles restent dans votre main ou votre pied à la fin du jeu :
 
-| Jokers | .......... | 50 points each |
-| Twos & Aces | .......... | 20 points each |
-| Eight through King | .......... | 10 points each |
-| Four through Seven | .......... | 5 points each |
-| Black Threes | .......... | 5 points each |
+| Jokers | .......... | 50 points chacun |
+| Deux et As | .......... | 20 points chacun |
+| Huit à Roi | .......... | 10 points chacun |
+| Quatre à Sept | .......... | 5 points chacun |
+| Trois noirs | .......... | 5 points chacun |
 
-### Bonus Points
+### Points bonus
 
-There are also the following Bonus Points. Both teams score points for any complete piles they have made, in addition to the scores for the cards within the pile. Only the team that goes out scores the bonus for going out, obviously. The red threes count plus 100 points if they have been placed face up on the table with your melds, but minus 100 points if not (for example if you do not manage to pick up your foot before an opponent goes out, any red threes in it will score minus 100 points). 
+Il y a aussi les points bonus suivants. Les deux équipes marquent des points pour toute pile complète qu'elles ont faite, en plus des scores des cartes de la pile. Seule l'équipe qui sort marque le bonus pour être sortie, évidemment. Les trois rouges comptent plus 100 points s'ils ont été placés face visible sur la table avec vos combinaisons, mais moins 100 points sinon (par exemple si vous ne parvenez pas à ramasser votre pied avant qu'un adversaire ne sorte, les trois rouges qu'il contient marqueront moins 100 points).
 
-| Each complete "Clean" Pile of 7 cards | .......... | 500 points |
-| Each complete "Dirty" Pile of 7 cards | .......... | 300 points |
-| Each complete "Wild" Pile of 7 cards | .......... | 1500 points |
-| For "Going Out" | .......... | 100 Points |
-| Each Red Three | .......... | 100 points |
+| Chaque « Pile » propre complète de 7 cartes | .......... | 500 points |
+| Chaque « Pile » sale complète de 7 cartes | .......... | 300 points |
+| Chaque « Pile » sauvage complète de 7 cartes | .......... | 1500 points |
+| Pour « Sortir » | .......... | 100 points |
+| Chaque Trois rouge | .......... | 100 points |
 
-### Minimum Initial Meld Requirements
+### Minimum pour la première combinaison
 
-In each deal, there is a minimum requirement for the total value of the cards making up the first meld put down by each partnership. 
+À chaque donne, il y a une exigence minimale pour la valeur totale des cartes composant la première combinaison posée par chaque équipe.
 
-| Round 1 | .......... | 50 points |
-| Round 2 | .......... | 90 points |
-| Round 3 | .......... | 120 points |
-| Round 4 | .......... | 150 points |
+| Manche 1 | .......... | 50 points |
+| Manche 2 | .......... | 90 points |
+| Manche 3 | .......... | 120 points |
+| Manche 4 | .......... | 150 points |
 
-Red threes do not count towards this minimum; nor does the bonus for a seven card pile, so for example seven sixes count only 35 points and are not sufficient for an initial meld. 
+Les trois rouges ne comptent pas pour ce minimum ; pas plus que le bonus d'une pile de sept cartes, de sorte que, par exemple, sept six comptent seulement 35 points et ne suffisent pas pour une première combinaison.
 
-### The Play
+### Le jeu
 
-The player to the left of the person who dealt the "hands" then starts the play, and the turn to play passes clockwise around the table until someone goes out. Each player, immediately before taking their first turn, must place any red threes they hold face up on the table and draw an equal number of cards from the stock pile to replace them. They then proceed to draw cards for their first turn. A turn normally consists of:
+Le joueur à la gauche de celui qui a distribué les « mains » commence alors le jeu, et le tour de jouer passe dans le sens des aiguilles d'une montre autour de la table jusqu'à ce que quelqu'un sorte. Chaque joueur, immédiatement avant de prendre son premier tour, doit placer face visible sur la table les trois rouges qu'il détient et piocher au talon un nombre égal de cartes pour les remplacer. Ils procèdent ensuite au tirage pour leur premier tour. Un tour consiste normalement en :
 
-- taking the top two cards from the stock;
+- prendre les deux cartes du dessus du talon ;
 
-- optionally melding some cards or adding to your partnership's melds;
+- en option, poser des cartes en combinaisons ou ajouter aux combinaisons de votre équipe ;
 
-- discarding one card on top of the discard pile.
+- défausser une carte sur le dessus de la défausse.
 
-If you draw a red three from the stock you should immediately place it face up on the table with your melds and draw a new card from the stock to replace it. 
+Si vous piochez un trois rouge au talon, vous devez immédiatement le placer face visible sur la table avec vos combinaisons et piocher une nouvelle carte au talon pour le remplacer.
 
-As an alternative to drawing two cards from the stock, you may take the top **seven** cards from the discard pile. If the pile contains fewer than seven cards, you may take the whole pile, but you may never take more than seven cards from the pile at one time. In order to pick up from the discard pile you must fulfill all of the following conditions:
+En alternative à la prise de deux cartes au talon, vous pouvez prendre les **sept** premières cartes de la défausse. Si la défausse contient moins de sept cartes, vous pouvez prendre toute la défausse, mais vous ne pouvez jamais en prendre plus de sept cartes à la fois. Pour ramasser la défausse, vous devez remplir toutes les conditions suivantes :
 
-- the top card of the discard pile must **not** be a three;
+- la carte du dessus de la défausse ne doit **pas** être un trois ;
 
-- you must hold two cards which are the same rank as this top card;
+- vous devez tenir deux cartes du même rang que cette carte du dessus ;
 
-- you must immediately meld these three cards (the two you are holding and the top discard), possibly along with other cards that you are holding.
+- vous devez immédiatement poser ces trois cartes en combinaison (les deux que vous tenez et la défausse du dessus), éventuellement avec d'autres cartes que vous tenez.
 
-After picking up from the discard pile and melding, you complete your turn by discarding one card as usual. 
+Après avoir ramassé la défausse et posé des combinaisons, vous terminez votre tour en défaussant une carte comme d'habitude.
 
-If your side has not yet melded (putting down red threes does not count as melding), then the first time that you meld you must put down cards whose individual values add up to at least the minimum meld requirement. You can put down several melds at once to achieve this if you wish. If you are picking up the pile, you can meld additional cards from your hand along with the the top discard and the two that match it to help make up your minimum count, and some of these additional cards could be wild. However, you cannot count any of the other 6 cards you are about to pick up from the discard pile towards this minimum. 
-**Example:** It is the first round (minimum 50 points). A nine is discarded by the player to your right and in your hand you hold two nines and a two. You can use your two nines to take the top 7 cards of the discard pile and make a dirty meld of three nines and a two for 50 points. You would **not** be allowed to do this if the two was buried in the discard pile rather than held in your hand.
+Si votre camp n'a pas encore posé de combinaison (mettre des trois rouges ne compte pas comme une combinaison), alors la première fois que vous posez, vous devez poser des cartes dont les valeurs individuelles s'additionnent pour atteindre au moins l'exigence minimale. Vous pouvez poser plusieurs combinaisons à la fois pour y parvenir si vous le souhaitez. Si vous ramassez la défausse, vous pouvez poser des cartes supplémentaires de votre main avec la défausse du dessus et les deux cartes qui lui correspondent pour aider à atteindre votre compte minimum, et certaines de ces cartes supplémentaires peuvent être des cartes sauvages. Cependant, vous ne pouvez pas compter les 6 autres cartes que vous vous apprêtez à ramasser de la défausse vers ce minimum.
+**Exemple :** C'est la première manche (minimum 50 points). Un neuf est défaussé par le joueur à votre droite et vous tenez en main deux neuf et un deux. Vous pouvez utiliser vos deux neuf pour prendre les 7 cartes du dessus de la défausse et faire une combinaison sale de trois neuf et un deux pour 50 points. Vous ne seriez **pas** autorisé à le faire si le deux était enfoui dans la défausse plutôt que tenu en main.
 
-A meld cannot contain more than seven cards, and a partnership is not allowed to have two incomplete melds of the same rank, but if you complete a pile, you can then start another meld of the same rank. Therefore if you have an incomplete meld of five or six cards on the table, you will not be able to pick up a card of that rank from the discard pile unless you have enough cards of that rank to finish the first seven card pile and make a new three card meld of the same rank. These cards must all come from your holding and the top card of the pile - again you are not allowed to make use of other cards you are about to pick up from the discard pile to satisfy the requirement. 
+Une combinaison ne peut contenir plus de sept cartes, et une équipe n'a pas le droit d'avoir deux combinaisons incomplètes du même rang, mais si vous complétez une pile, vous pouvez alors commencer une autre combinaison du même rang. Par conséquent, si vous avez une combinaison incomplète de cinq ou six cartes sur la table, vous ne pourrez pas ramasser une carte de ce rang à la défausse à moins d'avoir assez de cartes de ce rang pour finir la première pile de sept cartes et faire une nouvelle combinaison de trois cartes du même rang. Ces cartes doivent toutes venir de vos cartes et de la carte du dessus de la défausse — là encore, vous n'êtes pas autorisé à utiliser les autres cartes que vous vous apprêtez à ramasser de la défausse pour satisfaire l'exigence.
 
-**Example:** The top card of the discard pile is an eight, and there is another eight buried three cards deep. You have two eights and a two in your hand and a meld of five eights on the table. You are **not** allowed to pick up from the discard pile, because having completed your pile of eights, you will only have two cards with which to start your new meld of eights (the buried eight cannot be included until you have made a legal meld). If you had three eights and a two in your hand, you could use the top eight from the discard pile and one of your eights to complete your eight pile, and start a new meld with two eights and a two. You could then pick up the next 6 cards of the discard pile and add the buried eight to your new meld as well. 
+**Exemple :** La carte du dessus de la défausse est un huit, et il y a un autre huit enfoui à trois cartes de profondeur. Vous avez deux huit et un deux en main et une combinaison de cinq huit sur la table. Vous n'êtes **pas** autorisé à ramasser la défausse, parce qu'ayant complété votre pile de huit, vous n'aurez que deux cartes avec lesquelles commencer votre nouvelle combinaison de huit (le huit enfoui ne peut être inclus qu'une fois que vous avez fait une combinaison légale). Si vous aviez trois huit et un deux en main, vous pourriez utiliser le huit du dessus de la défausse et un de vos huit pour compléter votre pile de huit, et commencer une nouvelle combinaison avec deux huit et un deux. Vous pourriez alors ramasser les 6 cartes suivantes de la défausse et ajouter le huit enfoui à votre nouvelle combinaison également.
 
-If you discard a black three, this blocks the next player from picking up from the discard pile.
+Si vous défaussez un trois noir, cela bloque le joueur suivant, qui ne peut pas ramasser la défausse.
 
-You may discard a wild card (though in practice it is unusual to do so). In this case the next player could only pick up the pile with two matching wild cards (two twos to pick up a two, or two jokers to pick up a joker).
+Vous pouvez défausser une carte sauvage (bien qu'en pratique ce soit inhabituel). Dans ce cas, le joueur suivant ne pourrait ramasser la défausse qu'avec deux cartes sauvages correspondantes (deux deux pour ramasser un deux, ou deux jokers pour ramasser un joker).
 
-### Picking up the Foot
+### Ramasser le « foot »
 
-When you get rid of all the cards in your "hand", you then pick up your "foot" and continue to
-play from that. There are two slightly different ways this can happen. If you manage to meld **all** the cards from your "hand", you can immediately pick up your "foot" and continue your turn, discarding one card from it at the end. Alternatively, if you meld all the cards from your "hand" but one, and then discard this last card, you can pick up your "foot" and begin playing with it at the start of your next turn.
+Quand vous vous débarrassez de toutes les cartes de votre « main », vous ramassez alors votre « pied » et continuez à jouer avec. Il y a deux façons légèrement différentes que cela arrive. Si vous parvenez à poser **toutes** les cartes de votre « main » en combinaisons, vous pouvez immédiatement ramasser votre « pied » et continuer votre tour, en défaussant une carte de celui-ci à la fin. Alternativement, si vous posez en combinaisons toutes les cartes de votre « main » sauf une, puis défaussez cette dernière carte, vous pouvez ramasser votre « pied » et commencer à jouer avec au début de votre tour suivant.
 
-### The red and black threes
+### Les trois rouges et noirs
 
-Red and black threes cannot be used in melds.
+Les trois rouges et noirs ne peuvent pas être utilisés dans les combinaisons.
 
-Red threes count **for** the players if they are laid down on the table with their melds and **against** if not. Whenever you find that you are holding a red three you should immediately place it face up on the table with your melds and draw a replacement card from the stock. This can happen because you find it in your hand, or pick it up in your foot, or draw it from the stock. If your opponents "go out" before you have picked up your "foot" cards, any red threes in your "foot" will count against you, along with all the other cards it contains.
+Les trois rouges comptent **pour** les joueurs s'ils sont posés sur la table avec leurs combinaisons et **contre** eux sinon. Chaque fois que vous constatez que vous tenez un trois rouge, vous devez immédiatement le placer face visible sur la table avec vos combinaisons et piocher une carte de remplacement au talon. Cela peut arriver parce que vous le trouvez dans votre main, que vous le ramassez dans votre pied, ou que vous le piochez au talon. Si vos adversaires « sortent » avant que vous ayez ramassé les cartes de votre « pied », les trois rouges de votre « pied » compteront contre vous, avec toutes les autres cartes qu'il contient.
 
-Black threes have no use except to block the next player from picking up from the discard pile when you discard them. Any black threes that you are left with at the end count 5 points against you. There is no way to get rid of them other than by discarding them one at a time onto the discard pile.
+Les trois noirs ne servent à rien sinon à bloquer le joueur suivant, qui ne peut pas ramasser la défausse quand vous les défaussez. Tous les trois noirs qui vous restent à la fin comptent 5 points contre vous. Il n'y a aucun moyen de s'en débarrasser sinon en les défaussant un à un sur la défausse.
 
-## End of the play
+## Fin du jeu
 
-The play ends when either 
+Le jeu se termine quand soit
 
-- a player goes out, having asked and received permission, by melding all of his or her remaining foot cards, or by melding all but one card and discarding the last card, or 
+- un joueur sort, après avoir demandé et reçu la permission, en posant en combinaisons toutes ses cartes restantes de son pied, ou en posant toutes ses cartes sauf une et en défaussant la dernière carte, soit
 
-- when the stockpile is depleted and a player wishes to draw from it.
+- quand le talon est épuisé et qu'un joueur souhaite en piocher.
 
-As already explained, you cannot go out until your team has completed the required piles (two dirty, two clean and one wild), and your partner has picked up their foot and played at least part of one turn from it. If you have not satisfied these conditions, or if you have satisfied them but your partner refuses permission for you to go out, then you are not allowed to leave yourself without any cards. That means that if you are playing from your foot, you must keep at least two cards in your hand after melding - one to discard and at least one to hold in your hand so that the game can continue.
+Comme déjà expliqué, vous ne pouvez pas sortir tant que votre équipe n'a pas complété les piles requises (deux sales, deux propres et une sauvage), et que votre partenaire n'a pas ramassé son pied et joué au moins une partie d'un tour avec. Si vous n'avez pas satisfait ces conditions, ou si vous les avez satisfaites mais que votre partenaire refuse la permission de sortir, alors vous n'êtes pas autorisé à vous retrouver sans aucune carte. Cela signifie que si vous jouez à partir de votre pied, vous devez garder au moins deux cartes en main après avoir posé des combinaisons — une à défausser et au moins une à tenir en main pour que le jeu puisse continuer.
 
-If the stock is depleted, the play will end as soon as someone wishes to draw from the stock and there are insufficient cards there. Both sides score for the melds they have put down, less the points for the cards remaining in their hands and feet, and no one gets the bonus for going out. It may be possible to continue playing for a few turns without a stock, as long as each player is able and willing to take and meld the previous player's discard, but as soon as someone wants to draw and is unable to, the hand is over.
+Si le talon est épuisé, le jeu se terminera dès que quelqu'un voudra piocher au talon et qu'il n'y aura pas assez de cartes. Les deux camps marquent leurs combinaisons posées, moins les points des cartes restant dans leurs mains et pieds, et personne n'obtient le bonus pour être sorti. Il peut être possible de continuer à jouer quelques tours sans talon, tant que chaque joueur est capable et disposé à prendre et poser la défausse du joueur précédent, mais dès que quelqu'un veut piocher et ne le peut pas, la main est finie.
 
-### Advice on Tactics
+### Conseils de tactique
 
-*(contributed by Bill Whitnack)*
+*(contribués par Bill Whitnack)*
 
-As with most card games, one learns from experience what works best; different players adopt different kinds of strategies. It is important to observe your partner's discards and melds and co-operate with what your partner is trying to do. If you get into your foot before your partner, you should avoid completing melds as this may make it difficult for your partner to get into his / her foot. There are two exceptions to this:
+Comme dans la plupart des jeux de cartes, on apprend par l'expérience ce qui marche le mieux ; différents joueurs adoptent différents types de stratégies. Il est important d'observer les défausses et les combinaisons de votre partenaire et de coopérer avec ce que votre partenaire essaie de faire. Si vous entrez dans votre pied avant votre partenaire, vous devriez éviter de compléter des combinaisons, car cela peut rendre difficile pour votre partenaire d'entrer dans son propre pied. Il y a deux exceptions :
 
-- when the opposition are down to very few cards, it may be wise to complete as many melds as possible, so as to collect the bonuses for them if the opposition "goes out";
+- quand l'adversaire est réduit à très peu de cartes, il peut être sage de compléter autant de combinaisons que possible, afin de collecter les bonus correspondants si l'adversaire « sort » ;
 
-- it is generally worth completing your "wild card" pile as soon as possible because of its
+- il vaut généralement la peine de compléter votre pile « sauvage » dès que possible à cause de sa
 
-- high point value.
+- valeur en points élevée.
 
-Try for higher "card count" melds (such as aces) if possible and if the cards are running for you. 
+Tentez les combinaisons à « valeur en cartes » plus élevée (comme les as) si possible et si les cartes vous sont favorables.
 
-Try to keep a few pairs in hand of the ranks that you think the opposition may discard, so that you can perhaps pick up from the discard pile. This is especially useful while you are waiting for your partner to get into his / her foot. Often, however, you cannot take the discard pile because you are blocked by a black three discarded by your right hand opponent.
+Essayez de garder quelques paires en main des rangs que vous pensez que l'adversaire pourrait défausser, afin de pouvoir éventuellement ramasser la défausse. C'est particulièrement utile pendant que vous attendez que votre partenaire entre dans son pied. Souvent, cependant, vous ne pouvez pas prendre la défausse parce que vous êtes bloqué par un trois noir défaussé par votre adversaire de droite.
 
-Try not "burn" any more wild cards than you must (by making dirty melds), unless you have
-the wild meld well in hand, or unless you need to dirty a meld to get into your foot. It's a good idea always to save one wild card for just that purpose, and hope to pick up a few more wild cards in your foot. Wild cards are often the key to completing melds and "going out", although there are times when you may find you have too many of them.
+Essayez de ne pas « brûler » plus de cartes sauvages que nécessaire (en faisant des combinaisons sales), à moins d'avoir la combinaison sauvage bien en main, ou d'avoir besoin de salir une combinaison pour entrer dans votre pied. C'est une bonne idée de toujours économiser une carte sauvage pour exactement ce but, et d'espérer ramasser quelques cartes sauvages de plus dans votre pied. Les cartes sauvages sont souvent la clé pour compléter des combinaisons et « sortir », bien qu'il y ait des moments où vous pourriez en trouver trop.
 
-### Variations
+### Variantes
 
-#### Wild card or red three turned up
+#### Carte sauvage ou trois rouge retournée
 
-By agreement, if the card turned up to start the discard pile happens to be a wild card or a red three, it may be left in place where it can be drawn along with the cards discarded on top of it by the first player who takes the discard pile.
+Par accord, si la carte retournée pour amorcer la défausse se trouve être une carte sauvage ou un trois rouge, elle peut être laissée en place, où elle pourra être piochée avec les cartes défaussées par-dessus par le premier joueur qui prend la défausse.
 
-### Other numbers of players
+### Autres nombres de joueurs
 
-Any number of people from two to six can play, using one more deck of cards than the number of players. Four or six can play as partners; with two three or five, everyone must play for themselves. The game for four players in partnerships is said to be best.
+N'importe quel nombre de personnes, de deux à six, peut jouer, en utilisant un jeu de cartes de plus que le nombre de joueurs. Quatre ou six peuvent jouer en équipes ; à deux, trois ou cinq, tout le monde joue pour soi. Le jeu à quatre joueurs en équipes est réputé être le meilleur.
 
-## Saskatchewan Hand and Foot
+## Hand and Foot Saskatchewan
 
-*This variation was contributed by Dave Petrie.*
+*Cette variante a été contribuée par Dave Petrie.*
 
-The main differences from the version described above are as follows:
+Les principales différences avec la version décrite ci-dessus sont les suivantes :
 
-- Each player is dealt 11 cards as a hand and 13 as a foot.
+- Chaque joueur reçoit 11 cartes en main et 13 en pied.
 
-- Completed melds of seven cards are called canastas.
+- Les combinaisons complètes de sept cartes sont appelées des canastas.
 
-- In melds (other than wild melds) you must have more normal cards than wild cards - so there can be up to 3 wild cards in a dirty canasta, and up to two wild cards in a dirty meld of five or six cards.
+- Dans les combinaisons (autres que les combinaisons sauvages), vous devez avoir plus de cartes normales que de cartes sauvages — il peut donc y avoir jusqu'à 3 cartes sauvages dans une canasta sale, et jusqu'à deux cartes sauvages dans une combinaison sale de cinq ou six cartes.
 
-- Melds are not limited to seven cards; you can add further cards of the same rank to a canasta.
+- Les combinaisons ne sont pas limitées à sept cartes ; vous pouvez ajouter d'autres cartes du même rang à une canasta.
 
-- Initial meld requirements are as described above, except that in the fourth round you need a hidden canasta (i.e. a complete meld of seven cards collected in your hand without using the discard pile).
+- Les exigences de première combinaison sont comme décrit ci-dessus, sauf qu'au quatrième tour, vous avez besoin d'une canasta cachée (c'est-à-dire une combinaison complète de sept cartes collectée en main sans utiliser la défausse).
 
-- When picking up the discard pile, you take the whole thing, not just the top seven cards.
+- En ramassant la défausse, vous prenez le tout, pas seulement les sept premières cartes.
 
-- To "go out" you need at least one clean canasta, one dirty canasta and one wild card canasta.
+- Pour « sortir », vous avez besoin d'au moins une canasta propre, une canasta sale et une canasta de cartes sauvages.
 
-## Bain Hand and Foot
+## Hand and Foot Bain
 
-This version has much in common with Pennies from Heaven and has therefore been moved to that page.
+Cette version a beaucoup en commun avec le Pennies from Heaven et a donc été déplacée vers cette page.
 
-## Steve Simpson's Hand and Foot Rules
+## Règles de Steve Simpson
 
-This is a version of Hand and Foot without partners, and was the first form of the game to be included on this page. The rules given below are more or less a copy of Steve Simpson's Hand and Foot page, which was last seen at http://people.ne.mediaone.net/ssimpson/handfoot.html - here is an [archive copy](https://web.archive.org/web/20010629220742/http://people.ne.mediaone.net/ssimpson/handfoot.html). Steve Simpson reports that he learned this version from Rob Groz.
+C'est une version du Hand and Foot sans équipes, et ce fut la première forme du jeu à être incluse dans cette page. Les règles données ci-dessous sont plus ou moins une copie de la page Hand and Foot de Steve Simpson, qui a été vue pour la dernière fois à http://people.ne.mediaone.net/ssimpson/handfoot.html — voici une [copie d'archive](https://web.archive.org/web/20010629220742/http://people.ne.mediaone.net/ssimpson/handfoot.html). Steve Simpson rapporte qu'il a appris cette version de Rob Groz.
 
-### Players
+### Joueurs
 
-Two or more players, playing as individuals.
+Deux joueurs ou plus, jouant en individuel.
 
-### Cards
+### Cartes
 
-Normal playing cards including the jokers. One more deck than the number of people playing - i.e. three decks of cards for two people, five decks for four people, etc.
+Des cartes à jouer normales, y compris les jokers. Un jeu de plus que le nombre de joueurs — c'est-à-dire trois jeux pour deux personnes, cinq jeux pour quatre personnes, etc.
 
-### The Shuffle
+### Le mélange
 
-All the cards are shuffled together and placed in the middle of the table in TWO piles. A gap is placed between the two piles for the discard pile.
+Toutes les cartes sont mélangées ensemble et placées au milieu de la table en DEUX tas. Un espace est laissé entre les deux tas pour la défausse.
 
-### The Deal
+### La donne
 
-Each player deals his own cards to himself. Each player picks up a small pile of roughly 22 cards from either of the two piles. Each player then deals his cards in front of him into two piles of eleven cards each. If the player picked up **exactly** 22 cards on the first try then he gets 100 bonus points added to his score. If he has less than 22 cards he picks up more, as needed, from either of the two main decks. If he has more than 22 cards then the extra cards are returned to the main piles.
+Chaque joueur distribue ses propres cartes. Chaque joueur ramasse un petit tas d'environ 22 cartes dans l'un des deux tas. Chaque joueur distribue ensuite ses cartes devant lui en deux tas de onze cartes chacun. Si le joueur a ramassé **exactement** 22 cartes du premier coup, il reçoit 100 points bonus ajoutés à son score. S'il a moins de 22 cartes, il en ramasse plus, si nécessaire, dans l'un ou l'autre des deux jeux principaux. S'il a plus de 22 cartes, les cartes en trop sont rendues aux tas principaux.
 
-Each player now has two piles of cards in front of himself. The left hand pile is the player's **hand** and the player picks up this pile. The right hand pile of cards is passed to the player on his right. This pile becomes the other player's **foot**. The **foot** piles stay face down until later in the game.
+Chaque joueur a maintenant deux tas de cartes devant lui. Le tas de gauche est la **main** du joueur, et le joueur ramasse ce tas. Le tas de droite est passé au joueur à sa droite. Ce tas devient le **pied** de l'autre joueur. Les tas « pied » restent face cachée jusqu'à plus tard dans la partie.
 
-### Game Object
+### Objectif du jeu
 
-The object of the game is to get the most points. There are four rounds to the game and on each round each player tries to get rid of all his cards while putting the most points he can on the table.
+L'objectif du jeu est d'obtenir le plus de points. Il y a quatre tours dans la partie et à chaque tour chaque joueur essaie de se débarrasser de toutes ses cartes tout en posant le plus de points possible sur la table.
 
-**Points for cards**
+**Points pour les cartes**
 
-| Red Threes | 500 points | (these always count against you - read on.) |
-| Joker | 50 points |   |
-| Twos and Aces | 20 points |   |
-| Eight through King | 10 points |   |
-| Four through Seven | 5 points |   |
-| Black Threes | 5 points |   |
+| Trois rouges | 500 points | (ils comptent toujours contre vous — lisez la suite.) |
+| Joker | 50 points | |
+| Deux et As | 20 points | |
+| Huit à Roi | 10 points | |
+| Quatre à Sept | 5 points | |
+| Trois noirs | 5 points | |
 
-**Other Points**
+**Autres points**
 
-| Picking up 22 | 100 points |
-| For "Going out" | 100 points |
-| Each "Clean" pile | 300 points |
-| Each "Dirty" pile | 100 points |
+| Ramasser 22 | 100 points |
+| Pour « Sortir » | 100 points |
+| Chaque pile « propre » | 300 points |
+| Chaque pile « sale » | 100 points |
 
-### The Cards
+### Les cartes
 
-Jokers and Twos are wild cards. In the game you make "sets" of cards which are three or more of the same card - three kings, five eights, etc. The suit of cards makes no difference. You cannot make a set of Jokers or Twos - these can only be used as wild cards. **You cannot make a set of threes, regardless of the colour.** Cards "down" on the table count for you and are added to your score. Cards left in your hand or in your Foot count against you and are subtracted from your score.
+Les jokers et les deux sont des cartes sauvages. Dans le jeu, vous faites des « séries » de cartes qui sont trois cartes identiques ou plus — trois rois, cinq huit, etc. La couleur des cartes n'a pas d'importance. Vous ne pouvez pas faire de série de jokers ou de deux — ils ne peuvent être utilisés que comme cartes sauvages. **Vous ne pouvez pas faire de série de trois, quelle que soit leur couleur.** Les cartes « posées » sur la table comptent pour vous et sont ajoutées à votre score. Les cartes restant dans votre main ou dans votre pied comptent contre vous et sont soustraites de votre score.
 
-Since you cannot make sets of Threes, a Three can only count against you. Discard red threes immediately.
+Comme vous ne pouvez pas faire de séries de trois, un trois ne peut que compter contre vous. Défaussez les trois rouges immédiatement.
 
-### Minimum Points to "Put Down" for Each Round
+### Minimum de points à « poser » pour chaque manche
 
-On each round you have to have a number of points the first time you "put down" points onto the table. Once a player has the minimum points down, the player has no minimum for the rest of the round.
+À chaque manche, vous devez avoir un certain nombre de points la première fois que vous « posez » des points sur la table. Une fois qu'un joueur a posé le minimum de points, il n'a plus de minimum pour le reste de la manche.
 
-| Round 1 | 50 points |
-| Round 2 | 90 points |
-| Round 3 | 120 points |
-| Round 4 | 150 points |
+| Manche 1 | 50 points |
+| Manche 2 | 90 points |
+| Manche 3 | 120 points |
+| Manche 4 | 150 points |
 
-### Picking Up and Discarding
+### Piocher et défausser
 
-On each player's turn he picks up cards, optionally puts cards down on the table for points, and then discards. On each turn a player picks up TWO cards from the main piles. He can pick up both cards from the same pile or one card from each pile. He plays his turn and then discards one card. Instead of picking up two cards a player may pick up the top card on the discard pile but he must pick up the TOP SEVEN cards in the discard pile. The player can only pick up from the discard pile if 
+À chaque tour, le joueur pioche des cartes, pose éventuellement des cartes sur la table pour des points, puis défausse. À chaque tour, un joueur pioche DEUX cartes des tas principaux. Il peut piocher les deux cartes du même tas ou une carte de chaque tas. Il joue son tour puis défausse une carte. Au lieu de piocher deux cartes, un joueur peut ramasser la carte du dessus de la défausse, mais il doit alors ramasser les SEPT PREMIÈRES cartes de la défausse. Le joueur ne peut ramasser la défausse que si
 
-- there are at least seven cards in the discard pile, 
+- il y a au moins sept cartes dans la défausse,
 
-- the player has at least two other cards of the same type IN HIS HAND, and
+- le joueur a au moins deux autres cartes du même type EN MAIN, et
 
-- the player must put the top card and the other two cards from his hand down as points on the table.
+- le joueur doit poser la carte du dessus et les deux autres cartes de sa main comme points sur la table.
 
-Wild cards cannot count for the two cards in his hand. You cannot pick up a top discard of twos, threes or jokers because you cannot make a "set" from those cards. Remember that if this is the first time the player is "putting down" cards for that round he has to have a minimum to put down the first time.
+Les cartes sauvages ne peuvent pas compter pour les deux cartes en main. Vous ne pouvez pas ramasser une défausse du dessus de deux, trois ou jokers parce que vous ne pouvez pas faire de « série » avec ces cartes. Rappelez-vous que si c'est la première fois que le joueur « pose » des cartes pour cette manche, il doit avoir le minimum pour poser la première fois.
 
-### Picking up the Foot
+### Ramasser le pied
 
-When a player gets rid of all his cards from his hand, he picks up his Foot and continues to play from there. If someone "goes out" before a player gets into his Foot, all the points in his Foot count against him (including any dreaded red threes). There are two ways to "get into your foot". One is to put down all your cards except one discard card (which you discard). Your turn ends, you have no cards, you pick up your Foot. You can begin using your Foot on your next turn. The other way to get into your Foot is to completely use up all the cards in your Hand (by putting them down as points on the table). If you can put down all your cards without discarding then you can immediately pick up your Foot and begin using the cards during the same turn.
+Quand un joueur se débarrasse de toutes les cartes de sa main, il ramasse son pied et continue de jouer avec. Si quelqu'un « sort » avant qu'un joueur entre dans son pied, tous les points de son pied comptent contre lui (y compris les trois rouges redoutés). Il y a deux façons de « rentrer dans son pied ». L'une est de poser toutes vos cartes sauf une carte à défausser (que vous défaussez). Votre tour se termine, vous n'avez plus de cartes, vous ramassez votre pied. Vous pouvez commencer à utiliser votre pied à votre tour suivant. L'autre façon de rentrer dans votre pied est d'utiliser complètement toutes les cartes de votre main (en les posant comme points sur la table). Si vous pouvez poser toutes vos cartes sans défausser, vous pouvez immédiatement ramasser votre pied et commencer à utiliser ses cartes pendant le même tour.
 
-### Clean and Dirty Piles
+### Piles propres et piles sales
 
-During the game you attempt to get piles of seven or more of the same card. If a pile has seven or more cards and there are **no wild cards** in the pile then the pile is called a Clean Pile. If there are seven or more cards in the pile and there **are wild cards** in the pile, then the pile is called a Dirty Pile. By convention, once a pile reaches seven cards they are pulled together into a neat stack and either a red or black card from the pile is moved to the top of the pile. A red card on top signifies that the pile is a Clean Pile. A black card on top signifies a Dirty Pile. A Clean Pile is worth 300 points and a Dirty Pile is worth 100 points. These points are in addition to the points from the cards themselves (each King is worth 10 points for example).
+Pendant le jeu, vous tentez d'obtenir des piles de sept cartes identiques ou plus. Si une pile a sept cartes ou plus et qu'il n'y a **pas de cartes sauvages** dans la pile, la pile s'appelle une Pile Propre. S'il y a sept cartes ou plus dans la pile et qu'il **y a des cartes sauvages** dans la pile, la pile s'appelle une Pile Sale. Par convention, dès qu'une pile atteint sept cartes, elles sont rassemblées en un tas propre et une carte rouge ou noire de la pile est déplacée sur le dessus. Une carte rouge sur le dessus signifie que la pile est une Pile Propre. Une carte noire sur le dessus signifie une Pile Sale. Une Pile Propre vaut 300 points et une Pile Sale vaut 100 points. Ces points s'ajoutent aux points des cartes elles-mêmes (chaque roi vaut 10 points par exemple).
 
-### Limits on Wild Cards
+### Limites sur les cartes sauvages
 
-In any set of cards you must have at least one more normal card than wild cards. For example, if you have three fives you can add up to two wild cards to the set. You can't add a third wild card until there are four fives down. Note that any wild card in a set makes the entire set dirty. You cannot have more than one set of the same card. For example, you cant have a pile of two fives and a wild card and then start a new pile of fives.
+Dans toute série de cartes, vous devez avoir au moins une carte normale de plus que de cartes sauvages. Par exemple, si vous avez trois cinq, vous pouvez ajouter jusqu'à deux cartes sauvages à la série. Vous ne pouvez pas ajouter une troisième carte sauvage avant qu'il n'y ait quatre cinq posés. Notez que toute carte sauvage dans une série rend la série entière sale. Vous ne pouvez pas avoir plus d'une série de la même carte. Par exemple, vous ne pouvez pas avoir une pile de deux cinq et une carte sauvage puis commencer une nouvelle pile de cinq.
 
-### Going Out
+### Sortir
 
-In order to "go out" you must get rid of all the cards in your Hand and your Foot and have at least one Clean and one Dirty pile. You must also have a discard card. You can have as many clean and dirty piles as you want but you must have at least one of each in order to "go out". Players get points for clean and dirty piles even if they are not the player that goes out. Once a player "goes out", play ends for that round. The points on the table are added to your score. Points in your hand or your Foot are counted against you and are subtracted from your score.
+Pour « sortir », vous devez vous débarrasser de toutes les cartes de votre main et de votre pied et avoir au moins une pile propre et une pile sale. Vous devez aussi avoir une carte à défausser. Vous pouvez avoir autant de piles propres et sales que vous voulez, mais vous devez en avoir au moins une de chaque pour « sortir ». Les joueurs obtiennent des points pour les piles propres et sales même s'ils ne sont pas le joueur qui sort. Une fois qu'un joueur « sort », le jeu se termine pour cette manche. Les points de la table sont ajoutés à votre score. Les points de votre main ou de votre pied comptent contre vous et sont soustraits de votre score.
 
-## Brian Brouillette's Hand and Foot Rules
+## Règles de Brian Brouillette
 
-*These variations of Steve Simpson's version above were contributed by Brian Brouillette.*
+*Ces variantes de la version de Steve Simpson ci-dessus ont été contribuées par Brian Brouillette.*
 
-In this game there are two versions of the bonus scores. In the **lower scoring version**, the bonus scores are as in Steve Simpson's rules above. In the **higher scoring version** of the game, a clean (also called "natural") meld scores 500 points while a dirty (also called "unnatural") meld scores 300 points. This allows a player caught with one or more red threes during a round a chance to recover (since the red threes always count as minus 500 points each). 
+Dans ce jeu, il y a deux versions des scores bonus. Dans la **version à scores inférieurs**, les bonus sont comme dans les règles de Steve Simpson ci-dessus. Dans la **version à scores supérieurs** du jeu, une combinaison propre (aussi appelée « naturelle ») marque 500 points tandis qu'une combinaison sale (aussi appelée « non naturelle ») marque 300 points. Cela donne à un joueur pris avec un ou plusieurs trois rouges pendant une manche une chance de se refaire (puisque les trois rouges comptent toujours comme moins 500 points chacun).
 
-In round four, a player must possess **two** clean and **two** dirty melds in order to be eligible to go out.
+Au quatrième tour, un joueur doit posséder **deux** combinaisons propres et **deux** combinaisons sales pour être éligible à sortir.
 
-When going out, you may if you wish meld all your cards; you are not obliged to end by discarding a card.
+En sortant, vous pouvez si vous le souhaitez poser toutes vos cartes en combinaisons ; vous n'êtes pas obligé de terminer en défaussant une carte.
 
-If a wild card is discarded, the discard pile is "frozen" and removed from the playing surface of the table. These cards may be thoroughly shuffled and placed under the draw piles if more cards are needed to complete a round.
+Si une carte sauvage est défaussée, la défausse est « gelée » et retirée de la surface de jeu de la table. Ces cartes peuvent être soigneusement mélangées et placées sous les tas de pioche si plus de cartes sont nécessaires pour compléter une manche.
 
-Black threes can be used to create a clean meld that only scores 300 points in the higher scoring version of the game or 100 points in the lower scoring version of the game (minus five points for each card in the meld since black threes **always** count as **minus** five points each, even if melded). Wild cards may **not** be used in creating a meld of threes! The discard pile may **not** be picked up with a pair of black threes!
+Les trois noirs peuvent être utilisés pour créer une combinaison propre qui ne marque que 300 points dans la version à scores supérieurs du jeu ou 100 points dans la version à scores inférieurs (moins cinq points pour chaque carte de la combinaison puisque les trois noirs comptent **toujours** comme **moins** cinq points chacun, même posés en combinaison). Les cartes sauvages ne peuvent **pas** être utilisées pour créer une combinaison de trois ! La défausse ne peut **pas** être ramassée avec une paire de trois noirs !
 
-### Partner version
+### Version en équipes
 
-This form of Hand and Foot can also be played as a partnership game. The rules are exactly the same as the basic version, except that players work in pairs, facing across the table from one another. One partner is chosen to keep all of the partial melds under construction that are put down on the table, while the other partner looks after the completed melds. Once one partner has put down, the other partner's minimum is immediately satisfied, since there is only one set of melds under construction per partnership. As with most partnership games, there can be no "talking across the table" to discuss the cards in play or strategies. The only game related discussion allowed is that when one person wishes to go out, that person must ask the partner, "May I go out?" If the partner says, "No," the play
-continues. To go out on rounds one through three, the requirement is to possess two clean melds and two dirty melds. To go out on round four, the requirement is for a partnership to possess four clean and four dirty melds. 
+Cette forme de Hand and Foot peut aussi se jouer en équipes. Les règles sont exactement les mêmes que la version de base, sauf que les joueurs travaillent en paires, assis en face l'un de l'autre. Un partenaire est choisi pour garder toutes les combinaisons partielles en cours de construction posées sur la table, tandis que l'autre partenaire s'occupe des combinaisons complétées. Une fois qu'un partenaire a posé, le minimum de l'autre partenaire est immédiatement satisfait, puisqu'il n'y a qu'un seul ensemble de combinaisons en construction par équipe. Comme dans la plupart des jeux en équipes, il ne peut y avoir de « discussion à travers la table » pour parler des cartes en jeu ou des stratégies. La seule discussion liée au jeu autorisée est que quand une personne souhaite sortir, cette personne doit demander au partenaire : « Puis-je sortir ? » Si le partenaire dit « Non », le jeu continue. Pour sortir aux tours un à trois, l'exigence est de posséder deux combinaisons propres et deux combinaisons sales. Pour sortir au quatrième tour, l'exigence pour une équipe est de posséder quatre combinaisons propres et quatre combinaisons sales.
 
-## Other Hand and Foot versions and pages
+## Autres versions et pages Hand and Foot
 
-Roger DeMeritt's rules can be found on this archive copy of his [Hand and Foot page](https://web.archive.org/web/20061106112442/mypage.ewol.com/red/). He also collected numerous variations with the aim of producing an improved uniform set of rules for the game that could be adopted by players everywhere.
+Les règles de Roger DeMeritt peuvent être trouvées sur cette copie d'archive de sa [page Hand and Foot](https://web.archive.org/web/20061106112442/mypage.ewol.com/red/). Il a aussi collecté de nombreuses variantes dans le but de produire un ensemble de règles uniformes amélioré pour le jeu, qui pourrait être adopté par les joueurs partout.
 
-A variant for 5 to 7 players is described on the New Canasta page.
+Une variante pour 5 à 7 joueurs est décrite sur la page New Canasta.
 
-Here is an archive copy of Bill Whitnack's [Hand and Foot page](https://web.archive.org/web/20130530015123/http://www.members.shaw.ca/bvwhit/hand.html).
+Voici une copie d'archive de la [page Hand and Foot](https://web.archive.org/web/20130530015123/http://www.members.shaw.ca/bvwhit/hand.html) de Bill Whitnack.
 
-Here are Gary Grady's California Rules for Hand and Foot (Microsoft Word document).
+Voici les California Rules for Hand and Foot de Gary Grady (document Microsoft Word).
 
-Another description can be found on the [Hand and Foot](http://www.rummy-games.com/rules/hand-and-foot-canasta.html) page of Randy Rasa's Rummy-Games.com site.
+Une autre description peut être trouvée sur la page [Hand and Foot](http://www.rummy-games.com/rules/hand-and-foot-canasta.html) du site Rummy-Games.com de Randy Rasa.
 
-## Hand and Foot Software and On Line Games
+## Logiciels et jeux en ligne Hand and Foot
 
-You can use Len Palmeri's Caardclub app to play [Hand and Foot online](https://www.caardcluub.com) against human opponents using a web browser.
+Vous pouvez utiliser l'application Caardclub de Len Palmeri pour jouer au [Hand and Foot en ligne](https://www.caardcluub.com) contre des adversaires humains en utilisant un navigateur web.
 
-You can play Hand and Foot online against human opponents at [Conecta Games](https://games7.conectagames.com/games/handandfoot).
+Vous pouvez jouer au Hand and Foot en ligne contre des adversaires humains sur [Conecta Games](https://games7.conectagames.com/games/handandfoot).
 
-Aaron Pike's [Hand and Foot Frenzy](https://www.handandfootfrenzy.com/) offers a browser-based online Hand and Foot game, and includes a [rules page](https://www.handandfootfrenzy.com/rules) describing the variant used.
+Le [Hand and Foot Frenzy](https://www.handandfootfrenzy.com/) d'Aaron Pike propose un jeu de Hand and Foot en ligne basé sur un navigateur, et inclut une [page de règles](https://www.handandfootfrenzy.com/rules) décrivant la variante utilisée.
 
-You can play [Bill's Hand and Foot Game](https://handandfoot.northwestpages.com) online at northwestpages.com - no download required. Bill's game supports multiple variations.
+Vous pouvez jouer au [Bill's Hand and Foot Game](https://handandfoot.northwestpages.com) en ligne sur northwestpages.com — aucun téléchargement requis. Le jeu de Bill supporte de multiples variantes.
 
-With Walter Carl's [Hand & Foot Friends & Family Edition](https://www.hffe.fun/) you can play Hand and Foot online against human or computer opponents.
+Avec le [Hand & Foot Friends & Family Edition](https://www.hffe.fun/) de Walter Carl, vous pouvez jouer au Hand and Foot en ligne contre des adversaires humains ou informatiques.
 
-Hand and Foot can be played online at [Tabletopia](https://tabletopia.com/games/hand-and-foot-card-game).
+Le Hand and Foot peut se jouer en ligne sur [Tabletopia](https://tabletopia.com/games/hand-and-foot-card-game).
 
-Ian Richards runs a browser based [online Hand and Foot ](https://playhandandfoot.com/)game between human players with built in video chat. A free trial is available after which a subscription is payable.
+Ian Richards gère un [Hand and Foot en ligne](https://playhandandfoot.com/) basé sur un navigateur entre joueurs humains avec chat vidéo intégré. Un essai gratuit est disponible, après quoi un abonnement est payable.
 
-## Special Hand and Foot Cards
+## Cartes spéciales Hand and Foot
 
-Hand 'n Foot, manufactured by JD Ventures, can be ordered from their web site [HANDnFOOTgame.com](https://handnfootgame.com/). This deck has 262 cards: the 4 to king of a normal deck are replaced by cards numbered 1 to 12 (16 of each), there are 20 lords, which correspond to aces, 20 jesters, corresponding to twos but worth 25 points instead of 20, 10 jokers, 10 villains (black threes), and 10 ladies, corresponding roughly to red threes, but they can be discarded to block the next player or added to a clean pile for a bonus.
+Le Hand 'n Foot, fabriqué par JD Ventures, peut être commandé sur leur site web [HANDnFOOTgame.com](https://handnfootgame.com/). Ce jeu a 262 cartes : les cartes de 4 à roi d'un jeu normal sont remplacées par des cartes numérotées de 1 à 12 (16 de chaque), il y a 20 lords, qui correspondent aux as, 20 bouffons, correspondant aux deux mais valant 25 points au lieu de 20, 10 jokers, 10 méchants (trois noirs) et 10 dames, correspondant approximativement aux trois rouges, mais elles peuvent être défaussées pour bloquer le joueur suivant ou ajoutées à une pile propre pour un bonus.
 
-From [Hand and Foot Remastered](https://www.graydoggames.com) you can obtain special cards suitable for all versions of Hand and Foot. The cards have no suits but are marked with their point values, and feature red and black threes and dedicated wild cards in place of twos and jokers. The decks have different coloured backs for ease of adjusting to different numbers of players, and scorepads that accommodate up to 8 players are provided. A large print edition is also available.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Hand and Foot
+À partir du [Hand and Foot Remastered](https://www.graydoggames.com), vous pouvez obtenir des cartes spéciales adaptées à toutes les versions du Hand and Foot. Les cartes n'ont pas de couleurs mais sont marquées de leurs valeurs en points, et comportent des trois rouges et noirs et des cartes sauvages dédiées à la place des deux et des jokers. Les jeux ont des dos de couleurs différentes pour faciliter l'adaptation à différents nombres de joueurs, et des blocs de score pouvant accueillir jusqu'à 8 joueurs sont fournis. Une édition en gros caractères est aussi disponible.

@@ -2,271 +2,268 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A popular Greek card game related to Burraco and Canasta in which players try to build melds of at least 7 cards.
+**Type :** Rami
+**But :** Un jeu de cartes grec très populaire, apparenté au Burraco et à la Canasta, dans lequel les joueurs tentent de former des combinaisons d'au moins 7 cartes.
 
 ---
 
-*This page is based on contributions from Alexandros Kouridakis, Tracey Skagias, Ömer Furtun, Marie Kinneary and Thanos Tsakonas.*
+*Cette page est basée sur des contributions d'Alexandros Kouridakis, Tracey Skagias, Ömer Furtun, Marie Kinneary et Thanos Tsakonas.*
 
 ## Introduction
 
-**Biriba **(Greek: «**Μπιρίμπα**») is one of the best known card games in Greece, and is also played in Cyprus. It is a member of the rummy family, somewhat similar to Italian Burraco and more distantly related to Canasta. The most usual and probably the optimal form of Biriba is for 4 players playing in two fixed partnerships, but it can be played by any number from 2 to 6 or even more. The four-player partnership game will be described first.
+La **Biriba** (en grec : «**Μπιρίμπα**») est l'un des jeux de cartes les plus connus de Grèce, également pratiqué à Chypre. C'est un membre de la famille du rami, assez proche du Burraco italien et plus lointainement apparenté à la Canasta. La forme la plus courante et probablement la plus optimale de la Biriba se joue à 4 joueurs en deux équipes fixes, mais on peut y jouer de 2 à 6 joueurs ou plus. Le jeu à quatre joueurs en équipes sera décrit en premier.
 
-There are numerous variations of Biriba, some well-known and some obscure. Therefore when players meet for the first time it is common for each to be familiar with a different version and a discussion of the rules is needed before play begins. We try to present the most usual rules first, followed by a selection of alternatives that may be encountered.
+Il existe de nombreuses variantes de la Biriba, certaines connues et d'autres obscures. Aussi, quand des joueurs se rencontrent pour la première fois, il est fréquent que chacun connaisse une version différente et qu'une discussion sur les règles soit nécessaire avant de commencer. Nous présentons d'abord les règles les plus courantes, suivies d'une sélection d'alternatives possibles.
 
-## Players and Cards
+## Joueurs et cartes
 
-A deck of 108 cards is used, consisting of two standard international 52-card packs plus four Jokers.
+Un paquet de 108 cartes est utilisé, composé de deux jeux internationaux standard de 52 cartes plus quatre jokers.
 
-Four players play in two fixed partnerships, each player sitting opposite their partner. The direction of play is anticlockwise.
+Quatre joueurs jouent en deux équipes fixes, chaque joueur étant assis en face de son partenaire. Le jeu se déroule dans le sens inverse des aiguilles d'une montre.
 
-## Objective and Melds
+## Objectif et combinaisons
 
-The aim is to score points by *melding* **sets** of cards of equal rank and **runs** of consecutive cards in a suit. Cards are melded by laying them face up on the table where they remain until the end of the play. Sets and runs are laid down as columns of cards, with each card except the bottom one partially covered by the one below it. Each team has their own area where they keep their melds. Players can add further cards to their own team's melds, but not to those of their opponents.
+Le but est de marquer des points en *étalant* des **brelans** (ensembles) de cartes de même valeur et des **séquences** de cartes consécutives de la même couleur. Les cartes sont étalées face visible sur la table où elles restent jusqu'à la fin de la partie. Les brelans et les séquences sont posés en colonnes, chaque carte étant partiellement recouverte par celle du dessous, sauf la dernière. Chaque équipe dispose de sa propre zone où sont conservées ses combinaisons. Les joueurs peuvent ajouter des cartes aux combinaisons de leur propre équipe, mais pas à celles des adversaires.
 
-- A **set** consists of at least three cards of the same rank (for example three Nines). Duplicate cards are allowed, so a set can contain as many as 8 natural cards.
+- Un **brelan** (ensemble) consiste en au moins trois cartes de même valeur (par exemple trois Neufs). Les cartes dupliquées sont autorisées, un ensemble peut donc contenir jusqu'à 8 cartes naturelles.
 
-- A **run** consists of at least three cards of the same suit and of consecutive ranks (e.g. ![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)K). For the purposes of a run, Aces may count either as lower than 2’s (e.g. ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3) or above Kings (e.g. ![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A) but never both at the same time (![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3  is not a valid run). Each run may only contain one Ace (that is to say, a run cannot have both one Ace below a 2 and another Ace above a King). 
+- Une **séquence** consiste en au moins trois cartes de la même couleur et de valeurs consécutives (par ex. ![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)V-![heart](../images/internat/heart.gif)D-![heart](../images/internat/heart.gif)R). Pour une séquence, les as peuvent être comptés soit sous le 2 (par ex. ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2-![diamond](../images/internat/diamond.gif)3) soit au-dessus du Roi (par ex. ![spade](../images/internat/spade.gif)V-![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)A), mais jamais les deux à la fois (![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3 n'est pas une séquence valide). Chaque séquence ne peut contenir qu'un seul as (c'est-à-dire qu'une séquence ne peut pas avoir à la fois un as sous un 2 et un autre as au-dessus d'un Roi).
 
-Jokers (*μπαλαντερ*) and Twos are **wild cards**. They can be used to represent any card needed to complete a set or run. Twos can also be used as natural cards ranking between the Ace and Three of their own suit. For example:
+Les jokers (*μπαλαντερ*) et les deux sont des **cartes sauvages**. Ils peuvent remplacer n'importe quelle carte nécessaire pour compléter un brelan ou une séquence. Les deux peuvent aussi être utilisés comme cartes naturelles se classant entre l'as et le trois de leur propre couleur. Par exemple :
 
-- ![spade](../images/internat/spade.gif)A-![club](../images/internat/club.gif)A-Joker is a valid set containing a wild card
+- ![spade](../images/internat/spade.gif)A-![club](../images/internat/club.gif)A-Joker est un brelan valide contenant une carte sauvage
 
-- ![heart](../images/internat/heart.gif)6-![spade](../images/internat/spade.gif)2-![heart](../images/internat/heart.gif)8 is a valid run containing a wild card
+- ![heart](../images/internat/heart.gif)6-![spade](../images/internat/spade.gif)2-![heart](../images/internat/heart.gif)8 est une séquence valide contenant une carte sauvage
 
-- ![diamond](../images/internat/diamond.gif)A-![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)3 is a valid run containing a wild card
+- ![diamond](../images/internat/diamond.gif)A-![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)3 est une séquence valide contenant une carte sauvage
 
-- ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3 is a valid run **without** a wild card
+- ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3 est une séquence valide **sans** carte sauvage
 
-A set or run cannot contain more than **one** wild card. For example:
+Un brelan ou une séquence ne peut pas contenir plus d'**une** carte sauvage. Par exemple :
 
-- ![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q-Joker-![heart](../images/internat/heart.gif)A is **not** a valid run as it contains two wild cards
+- ![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)V-![heart](../images/internat/heart.gif)D-Joker-![heart](../images/internat/heart.gif)A n'est **pas** une séquence valide car elle contient deux cartes sauvages
 
-- ![club](../images/internat/club.gif)A-Joker-![club](../images/internat/club.gif)3-Joker-![club](../images/internat/club.gif)5 is also **not** valid
+- ![club](../images/internat/club.gif)A-Joker-![club](../images/internat/club.gif)3-Joker-![club](../images/internat/club.gif)5 n'est pas non plus **valide**
 
-- ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)3-![spade](../images/internat/spade.gif)2-![club](../images/internat/club.gif)5 **is** a valid run, since the ![club](../images/internat/club.gif)2 does not function as a wild card in this case.
+- ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)3-![spade](../images/internat/spade.gif)2-![club](../images/internat/club.gif)5 **est** une séquence valide, car le ![club](../images/internat/club.gif)2 ne fonctionne pas comme carte sauvage dans ce cas.
 
-Once a card has been laid down as part of a run or set, it may not be moved to another run or set, nor may it be returned to the player’s hand. However, wild cards may freely be moved within a run of which they are a part. For example, if a team has a ![diamond](../images/internat/diamond.gif)6-Joker-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9 run on the table and a member of the team acquires ![diamond](../images/internat/diamond.gif)7, they may insert the ![diamond](../images/internat/diamond.gif)7 into the run and move the Joker to form ![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-Joker. If a member of the team later draws a ![diamond](../images/internat/diamond.gif)4, they are allowed to form ![diamond](../images/internat/diamond.gif)4-Joker-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9. Twos can also be moved, and in this case a wild Two can become natural or vice versa. For example, the run ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, which contains a wild card, can be extended by adding a ![heart](../images/internat/heart.gif)5 and moving the ![heart](../images/internat/heart.gif)2 to make ![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, which does **not** contain a wild card. This run can then be further extended to ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7 (which does not contain a wild card) or to ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)9 (in which the Two is now wild again).
+Une fois posée comme partie d'une séquence ou d'un brelan, une carte ne peut être ni déplacée vers une autre séquence ou un autre brelan, ni reprise dans la main du joueur. Cependant, les cartes sauvages peuvent être librement déplacées au sein d'une séquence dont elles font partie. Par exemple, si une équipe a une séquence ![diamond](../images/internat/diamond.gif)6-Joker-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9 sur la table et qu'un membre de l'équipe acquiert un ![diamond](../images/internat/diamond.gif)7, il peut insérer le ![diamond](../images/internat/diamond.gif)7 dans la séquence et déplacer le joker pour former ![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-Joker. Si un membre de l'équipe pioche ensuite un ![diamond](../images/internat/diamond.gif)4, il est autorisé à former ![diamond](../images/internat/diamond.gif)4-Joker-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9. Les deux peuvent aussi être déplacés, et dans ce cas un deux sauvage peut devenir naturel ou vice versa. Par exemple, la séquence ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, qui contient une carte sauvage, peut être étendue en ajoutant un ![heart](../images/internat/heart.gif)5 et en déplaçant le ![heart](../images/internat/heart.gif)2 pour obtenir ![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, qui ne contient **pas** de carte sauvage. Cette séquence peut ensuite être encore étendue en ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, ou en plaçant le ![heart](../images/internat/heart.gif)2 à l'autre extrémité : ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)2, où le deux reste une carte sauvage, pour que d'autres cartes sauvages puissent être utilisées dans d'autres combinaisons.
 
-Note however, that it is not legal to replace a wild card in a run by another wild card, even if the first wild card could thereby be moved to a position where it became natural. For example, in the run ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7 it would be **illegal** to replace the ![heart](../images/internat/heart.gif)2 by a Joker or the ![club](../images/internat/club.gif)2, moving the ![heart](../images/internat/heart.gif)2 below the ![heart](../images/internat/heart.gif)3. The rationale is that although the final result would appear valid, the process for creating it is not valid, because at the moment of replacing the ![heart](../images/internat/heart.gif)2 by a different wild card there would be two wild cards involved in the run and this is not permitted.
+Notez cependant qu'il n'est pas légal de remplacer une carte sauvage d'une séquence par une autre carte sauvage, même si la première carte sauvage pourrait ainsi être déplacée vers une position où elle deviendrait naturelle. Par exemple, dans la séquence ![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7, il serait **illégal** de remplacer le ![heart](../images/internat/heart.gif)2 par un joker ou un ![club](../images/internat/club.gif)2, en déplaçant le ![heart](../images/internat/heart.gif)2 sous le ![heart](../images/internat/heart.gif)3. La raison est que même si le résultat final semblerait valide, le processus pour le créer ne l'est pas, car au moment du remplacement du ![heart](../images/internat/heart.gif)2 par une autre carte sauvage, il y aurait deux cartes sauvages impliquées dans la séquence, ce qui n'est pas permis.
 
-A run or set consisting of at least 7 cards is called a “**biriba**” (Greek: «*μπιρίμπα*», plural: “biribas” / «*μπιρίμπες*»). “Biribas” score extra points, and are also required for a player to “go out” and end the round. To indicate that a set or run on the table is a “biriba”, its bottom card is usually turned sideways. A “biriba” containing no wild cards is called “**clean**”, while one containing a wild card is called “**unclean**” or “**dirty**”. A “biriba” run of 13 cards, the maximum length, is called a “**full biriba**”. 
+Une séquence ou un brelan d'au moins 7 cartes s'appelle une « **biriba** » (en grec : «*μπιρίμπα*», pluriel : « biribas » / «*μπιρίμπες*»). Les « biribas » rapportent des points supplémentaires et sont aussi nécessaires pour qu'un joueur « sorte » et termine la manche. Pour indiquer qu'un brelan ou une séquence posée sur la table est une « biriba », sa carte du bas est généralement tournée sur le côté. Une « biriba » sans carte sauvage est dite « **propre** », tandis qu'une biriba contenant une carte sauvage est dite « **impure** » ou « **sale** ». Une « biriba » de 13 cartes, la longueur maximale, est appelée « **biriba pleine** ».
 
-## Deal
+## Donne
 
-The first dealer can be chosen by any convenient method. The dealer shuffles and the player to dealer's left cuts the deck. The dealer then deals 11 cards to each player, one at a time anticlockwise, starting to dealer's right. The player who cut then prepares two packets of 11 cards from the top of the remaining deck and sets them aside face-down, one on top of the other crosswise. These packets are called the “**biribakia**” (Greek: «*μπιριμπάκια*», singular: “biribaki” / «*μπιριμπάκι*»). The rest of the deck is placed face-down in the middle of the table to form the draw pile. 
+Le premier donneur peut être choisi par n'importe quelle méthode pratique. Le donneur bat les cartes et le joueur à sa gauche coupe. Le donneur distribue ensuite 11 cartes à chaque joueur, une par une, dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à sa droite. Le joueur qui a coupé prépare ensuite deux paquets de 11 cartes pris sur le dessus du talon restant et les met de côté face cachée, l'un sur l'autre en croix. Ces paquets s'appellent les « **biribakia** » (en grec : «*μπιριμπάκια*», singulier : « biribaki » / «*μπιριμπάκι*»). Le reste du paquet est placé face cachée au milieu de la table pour former le talon de pioche.
 
-The top card of the draw pile is flipped face-up next to it to begin the discard pile. The suit of this card is known in Greek as ***κόζι*** (**kózi**) which is normally translated as "trump" although this is not a trump suit in the normal sense of the word. Biriba is not a trick-taking game and there is no question of cards of this "kózi" suit beating or capturing cards of other suits. Its significance is only that a *biriba* in this suit scores more than in the other suits, so "bonus suit" would perhaps be a better translation.
+La carte du dessus du talon est retournée face visible à côté pour commencer la défausse. La couleur de cette carte est connue en grec sous le nom de ***κόζι*** (**kózi**), habituellement traduit par « atout » bien qu'il ne s'agisse pas d'une couleur d'atout au sens habituel du terme. La Biriba n'est pas un jeu de levées et il n'est pas question que les cartes de cette couleur « kózi » battent ou capturent des cartes d'autres couleurs. Sa signification est seulement qu'une *biriba* dans cette couleur rapporte plus que dans les autres couleurs ; « couleur bonus » serait donc peut-être une meilleure traduction.
 
-The turn to deal passes to the right after each hand. 
+Le tour de donner passe à la droite après chaque manche.
 
-## Play
+## Jeu
 
-The player to dealer's right plays first and the turn to play passes anticlockwise. Each turn consists of the following three steps, which must take place in the order listed below.
+Le joueur à la droite du donneur commence, et le tour de jeu passe dans le sens inverse des aiguilles d'une montre. Chaque tour consiste en trois étapes, qui doivent se dérouler dans l'ordre indiqué ci-dessous.
 
-1. Draw cards
-The player must **either** draw one card from the top of the draw pile **or** pick up the **entire** discard pile and add it to their hand. Players are allowed to examine the contents of the discard pile whenever they need to during the game.
-2. Lay down cards
-This is the only optional step of the turn. The player may lay down any number of cards from their hand by placing them face-up on the table to form valid melds (sets or runs) as described above. One member of each team has an area in front of them where the team's melds are kept. A player may add a new meld or melds to their own team's area and/or extend melds that are already there by adding cards to make a larger valid meld.
+1. Piocher
+Le joueur doit **soit** piocher une carte du dessus du talon **soit** ramasser la **totalité** de la défausse et l'ajouter à sa main. Les joueurs sont autorisés à examiner le contenu de la défausse quand ils en ont besoin pendant la partie.
+2. Poser des cartes
+C'est la seule étape facultative du tour. Le joueur peut poser autant de cartes de sa main qu'il veut, face visible sur la table, pour former des combinaisons valides (brelans ou séquences) comme décrit ci-dessus. Un membre de chaque équipe a une zone devant lui où sont conservées les combinaisons de l'équipe. Un joueur peut ajouter une ou plusieurs nouvelles combinaisons dans la zone de sa propre équipe et/ou étendre des combinaisons déjà posées en ajoutant des cartes pour former une combinaison valide plus grande.
 
-A player may never take cards from a meld nor move cards from one meld to another. Players are never allowed to add cards to the meld area of the opposing team.
+Un joueur ne peut jamais prendre de cartes d'une combinaison ni déplacer des cartes d'une combinaison à une autre. Les joueurs ne sont jamais autorisés à ajouter des cartes à la zone de combinaisons de l'équipe adverse.
 
-If a player holds the natural card that is represented by a wild card in a run in their own team's area can add the natural card in place of the wild card and move the wild card to one end of the run.
-3. Discard a card
-The final step of every turn is to discard one card from hand and place it face up on top of the discard pile. Note that if a player picked up a single card from the discard pile during the first step of their turn, they may not discard the same card (or an identical card ) during this third step. They may, however, discard a card they drew from the draw pile the first step of the same turn. Discarding a card marks the end of the player’s turn, and the next player to their right begins their turn.
+Si un joueur détient la carte naturelle représentée par une carte sauvage dans une séquence de la zone de sa propre équipe, il peut ajouter la carte naturelle à la place de la carte sauvage et déplacer la carte sauvage à une extrémité de la séquence.
+3. Défausser une carte
+La dernière étape de chaque tour consiste à défausser une carte de la main, face visible, sur le dessus de la défausse. Notez que si un joueur a ramassé une seule carte de la défausse à la première étape de son tour, il ne peut pas défausser la même carte (ni une carte identique) à cette troisième étape. Il peut toutefois défausser une carte piochée au talon à la première étape du même tour. Défausser une carte marque la fin du tour du joueur, et le joueur suivant à sa droite commence son tour.
 
-In general, a player must always keep at least two cards in their hand at the end of step 2, one to discard at the third step of their turn and one to continue play. The only exceptions are:
+En règle générale, un joueur doit toujours garder au moins deux cartes en main à la fin de l'étape 2 : une à défausser à la troisième étape de son tour et une pour continuer le jeu. Les seules exceptions sont :
 
-- When the player's team has completed at least one *biriba* and has not yet taken a *biribaki*. In that case the player may lay down their last card in a meld during the second step and immediately take a *biribaki*, or may keep just one card at the end of step 2, discard it as step 3 and then take a *biribaki* - see below.
+- Quand l'équipe du joueur a complété au moins une *biriba* et n'a pas encore pris de *biribaki*. Dans ce cas, le joueur peut poser sa dernière carte dans une combinaison à la deuxième étape et prendre immédiatement un *biribaki*, ou garder une seule carte à la fin de l'étape 2, la défausser à l'étape 3 puis prendre un *biribaki* — voir ci-dessous.
 
-- When the player's team has already taken their *biribaki*, the player may keep just one card at the end of step 2 and discard that card to go out, ending the play - see below.
+- Quand l'équipe du joueur a déjà pris son *biribaki*, le joueur peut garder une seule carte à la fin de l'étape 2 et la défausser pour sortir, mettant fin au jeu — voir ci-dessous.
 
-### Taking a biribaki
+### Prendre un biribaki
 
-On the first occasion that a player whose team has formed at least one *biriba* gets rid of their last card in hand, either by laying it down in a meld (in step 2) or by discarding it (in step 3), the player picks up the top *biribaki* of 11 cards and this forms the player's new hand. 
+La première fois qu'un joueur dont l'équipe a formé au moins une *biriba* se débarrasse de sa dernière carte en main, soit en la posant dans une combinaison (à l'étape 2) soit en la défaussant (à l'étape 3), le joueur ramasse le *biribaki* de 11 cartes posé sur le dessus et ces cartes forment sa nouvelle main.
 
-- If the *biribaki* was picked up during step 2 the player may continue laying down cards until they end their turn by discarding a card (step 3).
+- Si le *biribaki* a été ramassé pendant l'étape 2, le joueur peut continuer à poser des cartes jusqu'à ce qu'il termine son tour en défaussant une carte (étape 3).
 
-- If the *biribaki* was picked up because the player discarded their last card in step 3, the player must wait for their next turn when they will be able to lay down cards in step 2 **after** drawing from the draw pile or taking the discard pile.
+- Si le *biribaki* a été ramassé parce que le joueur a défaussé sa dernière carte à l'étape 3, le joueur doit attendre son tour suivant, où il pourra poser des cartes à l'étape 2 **après** avoir pioché au talon ou pris la défausse.
 
-After the first *biribaki* has been taken, the second *biribaki* belongs to the opposing team. If they have completed at least one *biriba*, a player of that team may get rid of the last card of their hand, either by laying it down in step 2 or discarding it in step 3, and take the second *biribaki* as above.
+Après que le premier *biribaki* a été pris, le deuxième *biribaki* appartient à l'équipe adverse. Si elle a complété au moins une *biriba*, un joueur de cette équipe peut se débarrasser de la dernière carte de sa main, soit en la posant à l'étape 2 soit en la défaussant à l'étape 3, et prendre le deuxième *biribaki* comme ci-dessus.
 
-Play continues normally after a *biribaki* has been picked up.
+Le jeu continue normalement après qu'un *biribaki* a été ramassé.
 
-### End of the play
+### Fin de la partie
 
-There are two ways that the play can end.
+Il y a deux façons pour le jeu de se terminer.
 
-- Most of the time, the play ends when a player “goes out”. This happens when a player whose team has picked up their *biribaki* discards their last card from their hand to end their turn. Note that such a player is not allowed to lay down their last card in a meld in step 2 of their turn. They must keep a card to discard at the end of each turn. When a player goes out, the play immediately ends.
+- La plupart du temps, le jeu se termine quand un joueur « sort ». Cela arrive quand un joueur dont l'équipe a pris son *biribaki* défausse sa dernière carte de la main pour terminer son tour. Notez qu'un tel joueur n'est pas autorisé à poser sa dernière carte dans une combinaison à l'étape 2 de son tour. Il doit garder une carte à défausser à la fin de chaque tour. Quand un joueur sort, le jeu se termine immédiatement.
 
-- Rarely, the play may end before any player goes out. If the draw pile becomes empty, play continues as long as each player in turn wishes to pick up the discard pile. If a the player whose turn it is does not want the discard pile and the draw pile is empty they may declare “pass” and their turn is skipped. If all players pass consecutively, the play ends immediately, without anyone going out. 
+- Rarement, le jeu peut se terminer avant qu'un joueur ne sorte. Si le talon devient vide, le jeu continue tant que chaque joueur à son tour souhaite ramasser la défausse. Si le joueur dont c'est le tour ne veut pas de la défausse et que le talon est vide, il peut déclarer « passe » et son tour est sauté. Si tous les joueurs passent consécutivement, le jeu se termine immédiatement, sans que personne ne sorte.
 
-## Scoring
+## Score
 
-At the end of the play, each team scores positive points for the cards in their meld area, and negative points for the cards remaining in the players' hands. Each individual card has a value as follows.
+À la fin du jeu, chaque équipe marque des points positifs pour les cartes de sa zone de combinaisons et des points négatifs pour les cartes restant dans les mains des joueurs. Chaque carte a une valeur comme suit.
 
-| Rank | Value |
+| Valeur | Points |
 | Joker | 20 |
-| Ace | 15 |
+| As | 15 |
 | 2 | 10 |
-| 8, 9, 10, J, Q, K | 10 |
+| 8, 9, 10, V, D, R | 10 |
 | 3, 4, 5, 6, 7 | 5 |
 
-In addition, bonuses and penalties are scored as follows.
+De plus, des bonus et des pénalités sont marqués comme suit.
 
-- If a player went out, that player's team adds a bonus of 100 points.
+- Si un joueur est sorti, l'équipe de ce joueur ajoute un bonus de 100 points.
 
-- A team that did not pick up their *biribaki* incurs a penalty of 100 points subtracted from their score and the cards in their *biribaki* do not count against the team.
+- Une équipe qui n'a pas pris son *biribaki* subit une pénalité de 100 points soustraits de son score, et les cartes de son *biribaki* ne comptent pas contre l'équipe.
 
-- If a player picks up their team's biribaki at the end of a turn (after their last card) but the play ends before their next turn, their team incurs a 100-point penalty but the cards in their unplayed *biribaki* do not count against the team.
+- Si un joueur ramasse le biribaki de son équipe à la fin d'un tour (après sa dernière carte) mais que le jeu se termine avant son tour suivant, son équipe subit une pénalité de 100 points mais les cartes de son *biribaki* non joué ne comptent pas contre l'équipe.
 
-- Bonuses are scored for all melded *biribas* as follows:
+- Des bonus sont marqués pour toutes les *biribas* étalées comme suit :
 
-| Type of biriba | clean | dirty |
-| run of 7-12 cards in plain suit | 200 | 100 |
-| set of 7 or more equal cards | 300 | 150 |
-| run of 7-12 cards in the bonus ("trump") suit | 400 | 200 |
-| full biriba (run of 13) in plain suit | 1000 | 500 |
-| full biriba (run of 13) in bonus ("trump") suit | 2000 | 1000 |
+| Type de biriba | propre | sale |
+| séquence de 7 à 12 cartes en couleur simple | 200 | 100 |
+| brelan de 7 cartes égales ou plus | 300 | 150 |
+| séquence de 7 à 12 cartes dans la couleur bonus (« atout ») | 400 | 200 |
+| biriba pleine (séquence de 13) en couleur simple | 1000 | 500 |
+| biriba pleine (séquence de 13) dans la couleur bonus (« atout ») | 2000 | 1000 |
 
-Further deals are played until at least one team's exceeds 5000 (or whatever target score is agreed before the game - see variations). Note that is necessary to have **more than** the target score to end the game, so if the target is 5000 a team will need at least 5005 points to end the game.
+De nouvelles donnes sont jouées jusqu'à ce qu'au moins une équipe dépasse 5000 points (ou tout autre objectif convenu avant la partie — voir les variantes). Notez qu'il faut avoir **plus que** l'objectif pour terminer la partie ; si l'objectif est 5000, une équipe devra avoir au moins 5005 points pour terminer la partie.
 
-The team with the higher score wins the game. If the scores are equal another hand is played to break the tie.
+L'équipe avec le score le plus élevé gagne la partie. En cas d'égalité, une autre manche est jouée pour départager.
 
-## Six players
+## Six joueurs
 
-Three decks of cards are used including 6 jokers - total 162 cards. The players form three teams of two players, partners sitting opposite, so that if the teams are A, B and C the players will sit around the table in the order A, B, C, A, B, C.
+Trois jeux de cartes sont utilisés, dont 6 jokers — 162 cartes au total. Les joueurs forment trois équipes de deux, les partenaires assis en face, de sorte que si les équipes sont A, B et C, les joueurs s'assoient autour de la table dans l'ordre A, B, C, A, B, C.
 
-The dealer deals 11 cards to each player as usual and the player to dealer's left creates three *biribakia* of 11 cards, one for each team.
+Le donneur distribue 11 cartes à chaque joueur comme d'habitude et le joueur à sa gauche crée trois *biribakia* de 11 cartes, un pour chaque équipe.
 
-The rules of play and the scoring are exactly as in the four-player game.
+Les règles du jeu et du score sont exactement les mêmes que dans le jeu à quatre joueurs.
 
-## Five players
+## Cinq joueurs
 
-Three decks of cards are used including 6 jokers - total 162 cards. The player to dealer's left creates three *biribakia*: the first contains 18 cards and the second and third 11 cards each.
+Trois jeux de cartes sont utilisés, dont 6 jokers — 162 cartes au total. Le joueur à la gauche du donneur crée trois *biribakia* : le premier contient 18 cartes et les deuxième et troisième 11 cartes chacun.
 
-Each hand begins with the players playing as individuals. This continues until one player is able to take the first *biribaki* of 18 cards. From this moment onwards, the player who took the first *biribaki* plays alone and the other four form two teams of two, opponents sitting alternately. In other words, if the players in order around the table are A, B, C, D and E and player A is the first to take a *biribaki*, then for that hand B and D play together as a team and C and E play together. As usual the second and third biribakia go to the first player on each team who is able to meld all the cards in their hand, the team having made at least one *biriba*.
+Chaque manche commence avec les joueurs jouant individuellement. Cela continue jusqu'à ce qu'un joueur puisse prendre le premier *biribaki* de 18 cartes. À partir de ce moment, le joueur qui a pris le premier *biribaki* joue seul et les quatre autres forment deux équipes de deux, les adversaires assis en alternance. Autrement dit, si les joueurs dans l'ordre autour de la table sont A, B, C, D et E et que le joueur A est le premier à prendre un *biribaki*, alors pour cette manche B et D jouent ensemble en équipe et C et E jouent ensemble. Comme d'habitude, les deuxième et troisième biribakia vont au premier joueur de chaque équipe capable d'étaler toutes les cartes de sa main, l'équipe ayant fait au moins une *biriba*.
 
-In the first phase of the game, until a player is able to take the first *biribaki* and thereby determine the partnerships, no melds are put down. Each player's turn consists of drawing the top card from the draw pile or taking the discard pile and then discarding one card. After the first *biribaki* has been taken, players draw, meld and discard as in the four-player game. There would in any case be no advantage in putting down meld before the partnerships are known, because this would simply give away information about what the player was collecting.
+Dans la première phase du jeu, jusqu'à ce qu'un joueur puisse prendre le premier *biribaki* et déterminer ainsi les équipes, aucune combinaison n'est posée. Le tour de chaque joueur consiste à piocher la carte du dessus du talon ou à prendre la défausse puis à défausser une carte. Après que le premier *biribaki* a été pris, les joueurs piochent, étalent et défaussent comme dans le jeu à quatre joueurs. Il n'y aurait de toute façon aucun avantage à poser des combinaisons avant de connaître les équipes, car cela ne ferait que révéler ce que le joueur collectionnait.
 
-When the hand is scored, the lone player scores their points as usual, while each of the teams calculates its point score and divides it equally between the team members, each team member scoring half the team score.
+Quand la manche est comptée, le joueur seul marque ses points comme d'habitude, tandis que chacune des équipes calcule son score et le divise également entre ses membres, chaque membre marquant la moitié du score de l'équipe.
 
-## Three players with partnerships
+## Trois joueurs en équipes
 
-Two decks are used (108 cards). The player to dealer's left creates two *biribakia*: the first containing 18 cards and the second 11 cards.
+Deux jeux sont utilisés (108 cartes). Le joueur à la gauche du donneur crée deux *biribakia* : le premier de 18 cartes et le second de 11 cartes.
 
-The players play initially as individuals and do not meld. A turn consists of drawing the top card of the draw pile or taking the discard pile and then discarding one card. This continues until a player is able to meld their whole hand (except possibly for a discard) and take the 18-card *biribaki*. From this point onward the other two players become partners, and all players can meld as usual. The 11-card *biribaki* is taken by the first of the partners who is able to meld all the cards in their hand, the team having made at least one *biriba*.
+Les joueurs jouent d'abord individuellement et n'étalent pas. Un tour consiste à piocher la carte du dessus du talon ou à prendre la défausse puis à défausser une carte. Cela continue jusqu'à ce qu'un joueur puisse étaler toute sa main (éventuellement moins une carte défaussée) et prendre le *biribaki* de 18 cartes. À partir de ce moment, les deux autres joueurs deviennent partenaires, et tous les joueurs peuvent étaler comme d'habitude. Le *biribaki* de 11 cartes est pris par le premier des partenaires capable d'étaler toutes les cartes de sa main, l'équipe ayant fait au moins une *biriba*.
 
-When the hand is scored, the lone player scores normally while each of the partners scores half the amount scored by their team.
+Quand la manche est comptée, le joueur seul marque normalement tandis que chacun des partenaires marque la moitié du score de leur équipe.
 
-## Two players
+## Deux joueurs
 
-The rules are the same as in the four-player game, but the players play as individuals. Two decks (108 cards) are used, with two *biribakia* of 11-cards each.
+Les règles sont les mêmes que dans le jeu à quatre joueurs, mais les joueurs jouent individuellement. Deux jeux (108 cartes) sont utilisés, avec deux *biribakia* de 11 cartes chacun.
 
-In this game there is no advantage in putting down melds until either you are able to take your *biribaki* or you fear your opponent is about to go out and you want to score points for cards on the table rather than a penalty for cards in your hand. Therefore players tend to hoard cards. Some players consider this undesirable, so in the two-player game it is common to play the rule variation described below in which the discard pile can only be taken if at least one of the cards in it is immediately put down on the table as part of a meld.
+Dans ce jeu, il n'y a aucun avantage à poser des combinaisons avant d'être capable de prendre son *biribaki* ou de craindre que l'adversaire ne sorte et vouloir marquer des points pour les cartes sur la table plutôt qu'une pénalité pour les cartes en main. Les joueurs ont donc tendance à accumuler les cartes. Certains joueurs considèrent cela indésirable, aussi dans le jeu à deux joueurs on joue souvent la variante décrite ci-dessous dans laquelle la défausse ne peut être prise que si au moins une de ses cartes est immédiatement posée sur la table comme partie d'une combinaison.
 
-Other rules and scoring are as in the four-player game.
+Les autres règles et le score sont comme dans le jeu à quatre joueurs.
 
-## Three players as individuals
+## Trois joueurs individuellement
 
-The rules are the same as in the four-player game, but the players play as individuals throughout. Three decks (162 cards) are used, with three *biribakia* of 11-cards each.
+Les règles sont les mêmes que dans le jeu à quatre joueurs, mais les joueurs jouent individuellement tout au long. Trois jeux (162 cartes) sont utilisés, avec trois *biribakia* de 11 cartes chacun.
 
-Like the two-player game, this game is often played with the rule variation that the discard pile can only be taken if at least one of its card is immediately melded. This is to avoid the tendency of players to hoard cards.
+Comme le jeu à deux joueurs, ce jeu se joue souvent avec la variante selon laquelle la défausse ne peut être prise que si au moins une de ses cartes est immédiatement étalée. C'est pour éviter la tendance des joueurs à accumuler les cartes.
 
-## Variations
+## Variantes
 
-No sets allowed
-A common variation is only to allow runs of consecutive cards in a suit to be melded. Sets of equal cards are not valid melds. The reasoning behind this is that the inclusion of sets makes the creation of runs much harder without using wild cards. A player who holds both copies of a card can use them together in a set and thereby hinder the formation of a run in that suit. The game without sets rewards players who correctly judge which suit runs to build and makes full *biribas* more likely. Allowing sets results in a more aggressive game in which players can use these melds to destroy the opponents' chances to acquire the cards they need for their runs.
-Meld required to take discard pile
-Some play the variation that a player can only take the discard pile if they immediately put at least one card from it on the table in a meld, either in a new set or run or added to an existing meld on the table. 
+Pas de brelans
+Une variante courante consiste à n'autoriser que les séquences de cartes consécutives de la même couleur. Les brelans de cartes égales ne sont pas des combinaisons valides. La raison en est que l'inclusion des brelans rend la création de séquences beaucoup plus difficile sans utiliser de cartes sauvages. Un joueur qui détient les deux copies d'une carte peut les utiliser ensemble dans un brelan et entraver ainsi la formation d'une séquence dans cette couleur. Le jeu sans brelans récompense les joueurs qui jugent correctement quelles séquences construire et rend les *biribas* pleines plus probables. Autoriser les brelans aboutit à un jeu plus agressif dans lequel les joueurs peuvent utiliser ces combinaisons pour détruire les chances des adversaires d'acquérir les cartes nécessaires à leurs séquences.
+Combinaison requise pour prendre la défausse
+Certains jouent la variante selon laquelle un joueur ne peut prendre la défausse que s'il pose immédiatement au moins une de ses cartes sur la table dans une combinaison, soit dans un nouveau brelan ou une nouvelle séquence, soit en l'ajoutant à une combinaison déjà sur la table.
 
-This variation is often used in the two-player game and when three players play as individuals, since otherwise players would be reluctant to put down meld, resulting in a less interesting game with little interaction between the players. This is not an issue in partnership games where partners share their meld. If a player has a partner it is in their interest to put down meld so that their partner can add to it, and they can coordinate their efforts to complete *biribas*. 
-*Biriba* not required to take *biribaki*
-Some allow a player to take a *biribaki* as soon as they are able to meld all or all but one of their cards. The player (or their team) does not need to have melded a *biriba* in order to do this. At least one *biriba* is still required before a player can go out.
-Target Score
-Different targets can be agreed depending on the length of game desired. 5000 or 3000 are the most usual targets, but the game is sometimes played with other targets such as 2000, 2500 or 3500.
-Minimum initial meld
-Some require that the first meld put down by a team must contain cards whose total value is greater than a certain minimum amount. The player putting down the first meld for the team can use more than one set or run to achieve this value. The minimum value depends on the team's current cumulative score. There are many different schedules in use by different groups, depending also on the target score for the game. For example:
+Cette variante est souvent utilisée dans le jeu à deux joueurs et quand trois joueurs jouent individuellement, car autrement les joueurs hésiteraient à poser des combinaisons, ce qui donnerait un jeu moins intéressant avec peu d'interactions. Ce n'est pas un problème dans les jeux en équipes où les partenaires partagent leurs combinaisons. Si un joueur a un partenaire, il a intérêt à poser des combinaisons pour que son partenaire puisse y ajouter, et ils peuvent coordonner leurs efforts pour compléter des *biribas*.
+*Biriba* non requise pour prendre un *biribaki*
+Certains autorisent un joueur à prendre un *biribaki* dès qu'il peut étaler toutes ses cartes ou toutes ses cartes sauf une. Le joueur (ou son équipe) n'a pas besoin d'avoir étalé une *biriba* pour cela. Au moins une *biriba* reste toutefois requise avant qu'un joueur puisse sortir.
+Objectif de score
+Différents objectifs peuvent être convenus selon la durée de partie souhaitée. 5000 ou 3000 sont les objectifs les plus courants, mais la partie est parfois jouée avec d'autres objectifs comme 2000, 2500 ou 3500.
+Combinaison initiale minimale
+Certains exigent que la première combinaison posée par une équipe contienne des cartes dont la valeur totale dépasse un certain minimum. Le joueur posant la première combinaison de l'équipe peut utiliser plus d'un brelan ou d'une séquence pour atteindre cette valeur. La valeur minimale dépend du score cumulé actuel de l'équipe. De nombreux barèmes différents sont utilisés par différents groupes, selon aussi l'objectif de score de la partie. Par exemple :
 
-| Target 5000 points |
-| Cumulative score | Minimum initial meld |
-| up to 1495 | 0 |
+| Objectif 5000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 1495 | 0 |
 | 1500 - 2995 | 75 |
 | 3000 - 3995 | 100 |
-| 4000 or more | 120 |
+| 4000 ou plus | 120 |
 
-| Target 3000 points |
-| Cumulative score | Minimum initial meld |
-| up to 495 | 0 |
+| Objectif 3000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 495 | 0 |
 | 500 - 995 | 75 |
 | 1000 - 1995 | 100 |
-| 2000 or more | 120 |
+| 2000 ou plus | 120 |
 
-| Target 2000 points |
-| Cumulative score | Minimum initial meld |
-| up to 1245 | 0 |
+| Objectif 2000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 1245 | 0 |
 | 1250 - 1745 | 75 |
-| 1750 or more | 150 |
+| 1750 ou plus | 150 |
 
-| Target 5000 points |
-| Cumulative score | Minimum initial meld |
-| up to 1995 | 0 |
+| Objectif 5000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 1995 | 0 |
 | 2000 - 2995 | 75 |
-| 3000or more | 90 |
+| 3000 ou plus | 90 |
 
-| Target 3000 points |
-| Cumulative score | Minimum initial meld |
-| up to 995 | 0 |
+| Objectif 3000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 995 | 0 |
 | 1000 - 1495 | 75 |
-| 1500 or more | 90 |
+| 1500 ou plus | 90 |
 
-| Target 3030 points |
-| Cumulative score | Minimum initial meld |
-| up to 1025 | 0 |
-| 1030 or more | 75 |
+| Objectif 3030 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 1025 | 0 |
+| 1030 ou plus | 75 |
 
-| Target 5000 points |
-| Cumulative score | Minimum initial meld |
-| up to 1495 | 55 |
+| Objectif 5000 points |
+| Score cumulé | Combinaison initiale minimale |
+| jusqu'à 1495 | 55 |
 | 1500 - 2995 | 75 |
-| 3000 or more | 95 |
+| 3000 ou plus | 95 |
 
-Joker turned up
-Some play that when a Joker is turned up to start the discard pile there is no bonus ("trump") suit. Some play that in this case the first player may either choose a bonus suit or elect to play without one. Some play that the first player takes the Joker, a second card is turned face up to determine the bonus suit, and the first player discards on top of this card at the end of their first turn.
-Biriba without "trumps"
-Some do not attach any significance or extra score to the suit of the card turned up to start the discard pile after the deal. Some play that no card is turned up after the deal. Instead, at the start of the play the first player draws the top card of the draw pile and may either keep it and continue the turn as normal or immediately discard it, draw a second card from the draw pile and then meld and discard as usual. This special process only applies in the very first turn after the deal.
-Card values
-Some players count Jokers as 25 points each rather than 20. Some count Twos as worth 20 points each rather than 10.
-Biriba bonuses
-There are many variations in the scores awarded for *biribas* of various types. 
+Joker retourné
+Certains jouent que lorsqu'un joker est retourné pour commencer la défausse, il n'y a pas de couleur bonus (« atout »). Certains jouent que dans ce cas, le premier joueur peut soit choisir une couleur bonus soit décider de jouer sans. Certains jouent que le premier joueur prend le joker, qu'une deuxième carte est retournée face visible pour déterminer la couleur bonus, et que le premier joueur défausse par-dessus cette carte à la fin de son premier tour.
+Biriba sans « atouts »
+Certains n'attachent aucune signification ni score supplémentaire à la couleur de la carte retournée pour commencer la défausse après la donne. Certains jouent qu'aucune carte n'est retournée après la donne. À la place, au début du jeu, le premier joueur pioche la carte du dessus du talon et peut soit la garder et continuer le tour normalement, soit la défausser immédiatement, piocher une deuxième carte au talon puis étaler et défausser comme d'habitude. Ce processus spécial ne s'applique qu'au tout premier tour après la donne.
+Valeurs des cartes
+Certains joueurs comptent les jokers à 25 points chacun plutôt que 20. Certains comptent les deux à 20 points chacun plutôt que 10.
+Bonus des biribas
+Il existe de nombreuses variations dans les scores attribués aux *biribas* de différents types.
 
-- All agree that a basic *biriba* consisting of a run of 7-12 cards in a plain suit counts 200 if it is clean or 100 if it includes a wild card.
+- Tous s'accordent sur le fait qu'une *biriba* de base consistant en une séquence de 7 à 12 cartes en couleur simple compte 200 si elle est propre ou 100 si elle inclut une carte sauvage.
 
-- Some count a *biriba* of equal cards as the same value: 200 clean / 100 dirty. Others increase these values to 300 / 100 or to 300 / 150 for a *biriba* of equal cards.
+- Certains comptent une *biriba* de cartes égales à la même valeur : 200 propre / 100 sale. D'autres augmentent ces valeurs à 300 / 100 ou à 300 / 150 pour une *biriba* de cartes égales.
 
-- In variants with no *kózi* (bonus, trump) suit there are of course no extra points for *biribas* in such a suit.
+- Dans les variantes sans couleur *kózi* (bonus, atout), il n'y a bien sûr pas de points supplémentaires pour les *biribas* dans une telle couleur.
 
-- The score for a clean / dirty 7-12 card *biriba* in the *kózi* (bonus, trump) suit may be 400 / 200 or 600 / 300.
+- Le score d'une *biriba* de 7 à 12 cartes propre / sale dans la couleur *kózi* (bonus, atout) peut être de 400 / 200 ou 600 / 300.
 
-- The score for a full (13-card) *biriba* in a plain suit in different variants ranges from 500 to 1000 if clean and from 100 (i.e. no extra score) to 500 if dirty.
+- Le score d'une *biriba* pleine (13 cartes) en couleur simple dans différentes variantes varie de 500 à 1000 si elle est propre et de 100 (c'est-à-dire aucun score supplémentaire) à 500 si elle est sale.
 
-- The score for a full (13-card) *biriba* in the *kózi* (bonus, trump) suit in different variants ranges from 1000 to 2000 if clean and from 200 (no extra score) to 1000 if dirty. 
+- Le score d'une *biriba* pleine (13 cartes) dans la couleur *kózi* (bonus, atout) dans différentes variantes varie de 1000 à 2000 si elle est propre et de 200 (aucun score supplémentaire) à 1000 si elle est sale.
 
-- Some score 1000 points for a full set of 8 equal cards when using two decks.
+- Certains marquent 1000 points pour un brelan complet de 8 cartes égales quand on utilise deux jeux.
 
-- A rare variation is to award a special score for a *biriba* of Twos: 2000 points if clean or 1000 if dirty.
+- Une variante rare consiste à attribuer un score spécial à une *biriba* de deux : 2000 points si elle est propre ou 1000 si elle est sale.
 
-- Another rare variation has no *kózi* (bonus, trump) suit and no extra points for full *biribas*.
+- Une autre variante rare n'a pas de couleur *kózi* (bonus, atout) et pas de points supplémentaires pour les *biribas* pleines.
 
-Penalty for no *biribas* or no melds
-Some penalize a partnership that does not form any *biribas* during a hand with an additional 100 points.
+Pénalité pour absence de biribas ou de combinaisons
+Certains pénalisent une équipe qui ne forme aucune *biriba* pendant une manche de 100 points supplémentaires.
 
-Some impose a penalty of 300 points 
-in total for a team that has not melded any cards at all when play ends (in place of the penalties for not taking a *biribaki* and for no *biribas*).
-Discard restriction in 3-player partnership game
-The three-player partnership format is unique in that one partner plays immediately after the other. Some do not allow the first of these partners to discard a wild card so that the second partner can pick it up.
+Certains imposent une pénalité de 300 points au total à une équipe qui n'a étalé aucune carte quand le jeu se termine (à la place des pénalités pour ne pas avoir pris de *biribaki* et pour absence de *biribas*).
+Restriction de défausse dans le jeu à trois joueurs en équipes
+Le format à trois joueurs en équipes est unique en ce qu'un partenaire joue immédiatement après l'autre. Certains n'autorisent pas le premier de ces partenaires à défausser une carte sauvage pour que le second puisse la ramasser.
 
-Alexandros Kouridakis recommends the variant where no sets allowed, the discard pile can only be taken if at least one card from it is melded, and full biribas in the bonus/trump suit count 1000 if clean and 500 if dirty. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Biriba
+Alexandros Kouridakis recommande la variante sans brelans, où la défausse ne peut être prise que si au moins une de ses cartes est étalée, et où les biribas pleines dans la couleur bonus / atout comptent 1000 si propres et 500 si sales.

@@ -2,322 +2,320 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A Mexican Rummy game which spread to North America and is the ancestor of most Rummy games in the western world.
+**Type :** Rami
+**But :** Un jeu de rami mexicain qui s'est répandu en Amérique du Nord et qui est l'ancêtre de la plupart des jeux de rami du monde occidental.
 
 ---
 
 ## Introduction
 
-Conquian is a Mexican card game for two or three players. The first known reference to it is from Mexico City in 1857. In the following decades it spread to English speaking North America where it gave rise to the whole family of western Rummy games. 
+Le Conquian est un jeu de cartes mexicain pour deux ou trois joueurs. La première référence connue date de Mexico en 1857. Au cours des décennies suivantes, il s'est répandu dans l'Amérique du Nord anglophone où il a donné naissance à toute la famille des ramis occidentaux.
 
-In Mexico it is usually played with the standard Spanish suited 40-card pack with suits of cups, coins, swords and batons. In the USA it was adapted to be played with a standard Anglo-American 52-card pack from which the 8's, 9's and 10's were removed.
+Au Mexique, il se joue généralement avec le jeu espagnol standard de 40 cartes à couleurs espagnoles : coupes, pièces, épées et bâtons. Aux États-Unis, il a été adapté pour être joué avec un jeu anglo-américain standard de 52 cartes duquel les 8, 9 et 10 étaient retirés.
 
-On this page we first describe the modern Mexican game, and its popular gambling variant Paco. Then we explain the two-player variant played in Anglo-America, and finally a double deck variant known as Navajo Tens, or in the Navajo language as **Neeznáá Dah Yíjihí**.
+Sur cette page, nous décrivons d'abord le jeu mexicain moderne et sa variante de pari populaire, le Paco. Puis nous expliquons la variante à deux joueurs pratiquée en Amérique anglo-saxonne, et enfin une variante à double jeu connue sous le nom de Navajo Tens, ou en langue navajo **Neeznáá Dah Yíjihí**.
 
-*This page is based on contributions from Elías Urizábel, David Kuznick, Enrique Acevedo, Clark Williams, Paul Eaton and Alexey Lobashev.*
+*Cette page est basée sur des contributions d'Elías Urizábel, David Kuznick, Enrique Acevedo, Clark Williams, Paul Eaton et Alexey Lobashev.*
 
-## Mexican Conquian
+## Conquian mexicain
 
-### Players, Cards and Deal
+### Joueurs, cartes et donne
 
-There can be two to three players, some people call the 3-player game ***tercerilla ***in Spanish. 
+Il peut y avoir de deux à trois joueurs ; certains appellent le jeu à 3 joueurs ***tercerilla*** en espagnol.
 
-The Spanish 40 card deck is used. It consists of the cards 1-2-3-4-5-6-7-10 (***sota*** {jack}) -11 (***caballo*** {horseman}) -12 (***rey*** {king}) in the suits swords (***espadas***), clubs (***bastos***), cups (***copas***) and coins (***oros***). 
+Le jeu espagnol de 40 cartes est utilisé. Il se compose des cartes 1-2-3-4-5-6-7-10 (***sota*** {valet}) -11 (***caballo*** {cavalier}) -12 (***rey*** {roi}) dans les couleurs épées (***espadas***), bâtons (***bastos***), coupes (***copas***) et pièces (***oros***).
 
-Deal and play are anticlockwise. The first dealer is chosen by any convenient random method. Thereafter the turn to deal passes to the right after each hand.
+La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre. Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Ensuite, le tour de donner passe à la droite après chaque manche.
 
-The dealer deals 8 cards to each player, one at a time. The remainder of the cards are placed face down on the table to form a stock pile from which cards will be drawn during the game. 
+Le donneur distribue 8 cartes à chaque joueur, une par une. Le reste des cartes est placé face cachée sur la table pour former un talon duquel les cartes seront piochées pendant le jeu.
 
-### Objective and Meld
+### Objectif et étalage
 
-The objective is to be the first to "go out" by melding 9 cards. Cards are melded by placing them face up on the table in front of the owner to form valid combinations. The combinations allowed are: 
+L'objectif est d'être le premier à « sortir » en étalant 9 cartes. Les cartes sont étalées en les plaçant face visible sur la table devant leur propriétaire pour former des combinaisons valides. Les combinaisons autorisées sont :
 
-- a **set** (or group) of three or four cards of the same rank. A ***tercia *** is a set of 3 equal cards such as baton-7, cup-7, sword-7. A ***cuarteto*** is a 4-card group, such as cups-4, clubs-4, swords-4, coins-4. 
+- un **ensemble** (ou groupe) de trois ou quatre cartes de même valeur. Une ***tercia*** est un ensemble de 3 cartes égales, comme bâton-7, coupe-7, épée-7. Un ***cuarteto*** est un groupe de 4 cartes, comme coupe-4, trèfle-4, épée-4, pièce-4.
 
-- a **sequence** (or run) of at least three cards of the same suit in consecutive order, such as club-4, club-5, club-6. This is known In Spanish as an ***escalera. *** Note in this game the ace (1) is always low (next to the 2) and the 7 is next to the jack (10), so that 1-2-3 and 6-7-10 are valid sequences but 11-12-1 is not.
+- une **séquence** (ou suite) d'au moins trois cartes de la même couleur dans l'ordre consécutif, comme trèfle-4, trèfle-5, trèfle-6. Cela s'appelle en espagnol une ***escalera***. Notez que dans ce jeu, l'as (1) est toujours bas (à côté du 2) et que le 7 est à côté du valet (10), de sorte que 1-2-3 et 6-7-10 sont des séquences valides mais que 11-12-1 ne l'est pas.
 
-![7 de bastos](../images/spanish/ba07.gif)![7 de copas](../images/spanish/co07.gif)![7 de espadas](../images/spanish/es07.gif)![4 de bastos](../images/spanish/ba04.gif)![5 de bastos](../images/spanish/ba05.gif)![6 de bastos](../images/spanish/ba06.gif)![6 de oros](../images/spanish/or06.gif)![7 de oros](../images/spanish/or07.gif)![sota de oros](../images/spanish/or10.gif)
+![7 de bâtons](../images/spanish/ba07.gif)![7 de coupes](../images/spanish/co07.gif)![7 d'épées](../images/spanish/es07.gif)![4 de bâtons](../images/spanish/ba04.gif)![5 de bâtons](../images/spanish/ba05.gif)![6 de bâtons](../images/spanish/ba06.gif)![6 de pièces](../images/spanish/or06.gif)![7 de pièces](../images/spanish/or07.gif)![sota de pièces](../images/spanish/or10.gif)
 
-At all times, the meld you have on the table must consist of one or more separate valid combinations. Cards can be moved from one of your combinations to another as needed but no card can ever be part of more than one combination at the same time. 
+À tout moment, l'étalage que vous avez sur la table doit consister en une ou plusieurs combinaisons valides séparées. Les cartes peuvent être déplacées d'une de vos combinaisons à une autre selon les besoins, mais aucune carte ne peut jamais faire partie de plus d'une combinaison à la fois.
 
-### The Play
+### Le jeu
 
-#### The Exchange
+#### L'échange
 
-Each player looks at their hand, selects one unwanted card and passes it face down to the player to their right, who picks it up and adds it to their hand. This is known in Spanish as the ***cambio*** (exchange). All players pass their card simultaneously: each player must decide which card to pass and place it face down on the table **before** looking at the card they receive from the player to their left.
+Chaque joueur regarde sa main, choisit une carte indésirable et la passe face cachée au joueur à sa droite, qui la ramasse et l'ajoute à sa main. Cela s'appelle en espagnol le ***cambio*** (échange). Tous les joueurs passent leur carte simultanément : chaque joueur doit décider quelle carte passer et la poser face cachée sur la table **avant** de regarder la carte qu'il reçoit du joueur à sa gauche.
 
-#### The First Turn
+#### Le premier tour
 
-The player to dealer's right turns the top card of the stock face up, and has two options: 
+Le joueur à la droite du donneur retourne la carte du dessus du talon face visible et a deux options :
 
-- To take this face up card and meld it along with cards from hand. At least two hand cards will be needed to make up a valid combination along with the turned-up card, and further cards from hand can be laid down at the same time if desired provided that the player's meld or melds remain valid. Unless they have melded all nine of their cards, the player must end their turn by discarding one unwanted card face up from hand.
+- Prendre cette carte face visible et l'étaler avec des cartes de la main. Au moins deux cartes de la main seront nécessaires pour former une combinaison valide avec la carte retournée, et d'autres cartes de la main peuvent être posées en même temps si souhaité, pourvu que l'étalage ou les étalages du joueur restent valides. Sauf s'il a étalé ses neuf cartes, le joueur doit terminer son tour en défaussant une carte indésirable face visible de la main.
 
-- To pass, not melding any cards and leaving the turned-up card to be used by the next player. 
+- Passer, sans étaler de cartes et en laissant la carte retournée à l'usage du joueur suivant.
 
-If the player to dealer's right passes, the player to dealer's left has the same two options. If the player to dealer's left also passes, the dealer's options are:
+Si le joueur à la droite du donneur passe, le joueur à la gauche du donneur a les mêmes deux options. Si le joueur à la gauche du donneur passe aussi, les options du donneur sont :
 
-- To take the face up card, meld it along with cards from hand and discard one unwanted card. 
+- Prendre la carte face visible, l'étaler avec des cartes de la main et défausser une carte indésirable.
 
-- To reject this first face up card and turn over a new card from the stock. In this case the dealer either:
+- Rejeter cette première carte face visible et retourner une nouvelle carte du talon. Dans ce cas, le donneur soit :
 
-- picks up this new card, melds it with cards from hand and discards an unwanted card (unless they have melded all 9) face up on top of the initial rejected card, or
+- ramasse cette nouvelle carte, l'étale avec des cartes de la main et défausse une carte indésirable (sauf s'il a étalé les 9) face visible sur la première carte rejetée, soit
 
-- does not use this new card but places it face up on top of the first rejected card to be used by the next player (to dealer's right). 
+- n'utilise pas cette nouvelle carte mais la place face visible sur la première carte rejetée, à l'usage du joueur suivant (à la droite du donneur).
 
-#### Subsequent Turns
+#### Tours suivants
 
-The next turn is taken by the player to the right of the player who melded the initial face up card, or by the player to the right of the dealer if all three players rejected the initial face up card and the dealer then either melded or rejected the next card. The play continues anticlockwise until either a player goes out by melding all 9 cards or the stock pile is exhausted.
+Le tour suivant est pris par le joueur à la droite du joueur qui a étalé la première carte face visible, ou par le joueur à la droite du donneur si les trois joueurs ont rejeté la première carte face visible et que le donneur a alors soit étalé soit rejeté la carte suivante. Le jeu continue dans le sens inverse des aiguilles d'une montre jusqu'à ce qu'un joueur sorte en étalant les 9 cartes ou que le talon soit épuisé.
 
-At the start of a player's turn they will always have 8 cards, some of which may be in melds on the table, and there will be a face up discard pile, the top card of which will either be the card discarded by the previous player or the card turned up and rejected by the previous player. The player has the following options:
+Au début du tour d'un joueur, il aura toujours 8 cartes, dont certaines peuvent être dans des étalages sur la table, et il y aura une défausse face visible dont la carte du dessus sera soit la carte défaussée par le joueur précédent soit la carte retournée et rejetée par le joueur précédent. Le joueur a les options suivantes :
 
-- To take the top card of the discard pile and add it to their melds on the table, for which purpose the player may also put on the table any number of cards from their hand, rearranging their melds if necessary so that they are all valid. If they manage to meld all 9 of their cards the play ends. Otherwise the player discards one unwanted card on top of the discard pile and it is the next player's turn.
+- Prendre la carte du dessus de la défausse et l'ajouter à ses étalages sur la table, ce pour quoi le joueur peut aussi poser sur la table autant de cartes de sa main qu'il veut, en réarrangeant ses étalages si nécessaire pour qu'ils soient tous valides. S'il parvient à étaler ses 9 cartes, le jeu se termine. Sinon, le joueur défausse une carte indésirable sur la défausse et c'est au tour du joueur suivant.
 
-- To reject the top card of the discard pile and turn up a new card from the stock. In this case the player may either take that new card and meld it as above or reject it as well, in which case the turn passes to the next player.
+- Rejeter la carte du dessus de la défausse et retourner une nouvelle carte du talon. Dans ce cas, le joueur peut soit prendre cette nouvelle carte et l'étaler comme ci-dessus, soit la rejeter aussi, auquel cas le tour passe au joueur suivant.
 
-#### Forcing
+#### Forcer
 
-In addition to the above possibilities there are two ways in which a player may be forced to meld a card.
+En plus des possibilités ci-dessus, il y a deux façons dont un joueur peut être forcé d'étaler une carte.
 
-- If the centre card - either the card left by the previous player or a new card turned over by the current player - can be added to an opponent's meld on the table without requiring any extra cards from that opponent's hand, the current player can give the face up player to that opponent and require them to meld it. Having melded, the recipient of the card discards a card from their hand onto the discard pile and the play continues anticlockwise from that point.
+- Si la carte du centre — soit la carte laissée par le joueur précédent, soit une nouvelle carte retournée par le joueur actuel — peut être ajoutée à l'étalage d'un adversaire sur la table sans requérir de cartes supplémentaires de la main de cet adversaire, le joueur actuel peut donner la carte face visible à cet adversaire et lui demander de l'étaler. Après avoir étalé, le destinataire de la carte défausse une carte de sa main sur la défausse et le jeu continue dans le sens inverse des aiguilles d'une montre à partir de là.
 
-- During a player's turn, if the face up centre card - either the card left by the previous player or a new card turned over by the current player - can be added to the current player's meld on the table without requiring any extra cards from the player's hand, either of the opponents can force the current player to meld that card.
+- Pendant le tour d'un joueur, si la carte face visible du centre — soit la carte laissée par le joueur précédent, soit une nouvelle carte retournée par le joueur actuel — peut être ajoutée à l'étalage du joueur actuel sur la table sans requérir de cartes supplémentaires de la main de ce joueur, chacun des adversaires peut forcer le joueur actuel à étaler cette carte.
 
-If there is more than one player with meld on the table to which the card can be added, the player whose turn it is has priority in deciding where it should be placed. The opponents can only force the card on the current player if the current player cannot or does not wish to force it on another player.
+S'il y a plus d'un joueur avec un étalage sur la table auquel la carte peut être ajoutée, le joueur dont c'est le tour a la priorité pour décider où elle doit être placée. Les adversaires ne peuvent forcer la carte sur le joueur actuel que si le joueur actuel ne peut pas ou ne souhaite pas la forcer sur un autre joueur.
 
-#### Notes on Play
+#### Notes sur le jeu
 
-Forcing can be a powerful technique for destroying a player's position. Suppose that you have on the table a set of 3's (clubs-swords-cups) and a sequence of cups (7-10-11) and in your hand two aces (coins-swords). All you need to win is another ace, but if the 12 of cups is turned up or discarded an opponent can force you to meld it, adding it to your cup sequence. You then have no option but to discard one of your aces, and the only way you can now win is to acquire the 5 and 6 of cups. If either of these is already out of the game, it has become impossible for you to win. 
+Forcer peut être une technique puissante pour détruire la position d'un joueur. Supposons que vous ayez sur la table un ensemble de 3 (trèfles-épées-coupes) et une séquence de coupes (7-10-11) et en main deux as (pièces-épées). Tout ce qu'il vous faut pour gagner est un autre as, mais si le 12 de coupes est retourné ou défaussé, un adversaire peut vous forcer à l'étaler, l'ajoutant à votre séquence de coupes. Vous n'avez alors d'autre choix que de défausser un de vos as, et la seule façon de gagner maintenant est d'acquérir le 5 et le 6 de coupes. Si l'un de ceux-ci est déjà hors du jeu, il vous est devenu impossible de gagner.
 
-When melding, you can rearrange your table cards in any way you wish, provided that the cards you have on the table at the end of your turn form separate valid combinations. For example, if you have a sequence 3-4-5-6 of clubs on the table, the 6 of cups in your hand, and you turn up the 6 of coins, you can meld three sixes, taking the six from your club sequence, leaving a valid sequence 3-4-5. The operation is called ***corte*** (cutout) is Spanish. However if a four had turned up and you had a four in your hand, you would not be able to meld fours, because stealing the 4 of clubs would not leave a valid sequence.
+En étalant, vous pouvez réarranger vos cartes de table comme vous le souhaitez, pourvu que les cartes que vous avez sur la table à la fin de votre tour forment des combinaisons valides séparées. Par exemple, si vous avez une séquence 3-4-5-6 de trèfles sur la table, le 6 de coupes en main, et que vous retournez le 6 de pièces, vous pouvez étaler trois six, en prenant le six de votre séquence de trèfles, laissant une séquence valide 3-4-5. Cette opération s'appelle en espagnol le ***corte*** (découpe). Cependant, si un quatre avait été retourné et que vous aviez un quatre en main, vous ne pourriez pas étaler de quatre, parce que voler le 4 de trèfles ne laisserait pas une séquence valide.
 
-Please note that:
+Veuillez noter que :
 
-- It is **never** possible to take the centre card (turned up from the stock or discarded or rejected by your opponent) into your hand for later use. 
+- Il n'est **jamais** possible de prendre la carte du centre (retournée du talon ou défaussée ou rejetée par votre adversaire) dans votre main pour un usage ultérieur.
 
-- The melds of the three players are entirely separate - you are never allowed to get rid of cards by "laying them off" on other players' melds. 
+- Les étalages des trois joueurs sont entièrement séparés — vous n'êtes jamais autorisé à vous débarrasser de cartes en les « déposant » sur les étalages des autres joueurs.
 
-- You can only meld combinations from your hand when taking the centre card and incorporating it in your melds. You cannot meld hand cards at any other time. 
+- Vous ne pouvez étaler des combinaisons de votre main que lorsque vous prenez la carte du centre et l'incorporez à vos étalages. Vous ne pouvez pas étaler des cartes de la main à tout autre moment.
 
-### End of the Game
+### Fin de la partie
 
-Play continues in this way until either someone goes out or the stock runs out.** **
+Le jeu continue de cette façon jusqu'à ce que quelqu'un sorte ou que le talon s'épuise.
 
-You **go out** by melding the face up card from the center of the table (whether discarded or rejected by your left hand opponent or newly turned up by you) along with all the remaining cards in your hand (if any). Your meld on the table will then consist of nine cards. In this case you have won and your opponents each pay you a fixed stake. 
+Vous **sortez** en étalant la carte face visible du centre de la table (qu'elle soit défaussée ou rejetée par votre adversaire de gauche ou nouvellement retournée par vous) avec toutes les cartes restantes de votre main (s'il y en a). Votre étalage sur la table consistera alors en neuf cartes. Dans ce cas, vous avez gagné et vos adversaires vous paient chacun un enjeu fixe.
 
-If there are no cards remaining in the stock and you do not use the card your opponent discarded or rejected, you are unable to turn up a new card because there are none left. In this case the game is a draw, and some play that the next game is played for a double stake. In Spanish, this kind of draw is known as ***tablas***.** **
+S'il ne reste plus de cartes dans le talon et que vous n'utilisez pas la carte que votre adversaire a défaussée ou rejetée, vous êtes incapable de retourner une nouvelle carte parce qu'il n'en reste plus. Dans ce cas, la partie est nulle (remise), et certains jouent que la partie suivante se joue pour un enjeu double. En espagnol, ce type de remise s'appelle ***tablas***.
 
-Note that melding 8 cards and discarding your last card does **not** win the game or end the play. If you do this, you must continue playing until you get a ninth card which you can add to your meld. This ninth card would have to be a centre card either discarded or passed on to you by the previous player or a card turned up by you after rejecting that card.
+Notez qu'étaler 8 cartes et défausser votre dernière carte ne **gagne** pas la partie et ne termine pas le jeu. Si vous faites cela, vous devez continuer à jouer jusqu'à obtenir une neuvième carte que vous pouvez ajouter à votre étalage. Cette neuvième carte devrait être une carte du centre, soit défaussée ou passée par le joueur précédent, soit une carte retournée par vous après avoir rejeté cette carte.
 
-### Two-player Game
+### Jeu à deux joueurs
 
-Conquian can be played by just two players. The rules are essentially the same as above: deal 9 cards each, each player passes a card to their opponent, non-dealer turns up the top card of the stock and either melds it with cards from their hand or passes it on to their opponent, who draws from the stock if they cannot use it either. Play continues as above until a player wins by melding all their cards or there is a draw because the stock runs out.
+Le Conquian peut se jouer à seulement deux joueurs. Les règles sont essentiellement les mêmes que ci-dessus : distribuer 9 cartes à chacun, chaque joueur passe une carte à son adversaire, le non-donneur retourne la carte du dessus du talon et soit l'étale avec des cartes de sa main, soit la passe à son adversaire, qui pioche au talon s'il ne peut pas l'utiliser non plus. Le jeu continue comme ci-dessus jusqu'à ce qu'un joueur gagne en étalant toutes ses cartes ou qu'il y ait une remise parce que le talon s'épuise.
 
-### Variations
+### Variantes
 
-In the three-player game, many people play that throughout the game the top card of the discard pile can be used by either opponent of the player who discarded it or who turned and rejected it, not just by the player whose turn it is to play next. The player in turn has the first right to take the card if able to meld it. If this player rejects this card and goes to the stock to draw another card the third player may grab the discard saying "***me sirve***" (I can use it), take the card, meld it and discard another card just as usual. You must be quick in this variation, because if you want a card but another player puts another discarded card on top of it you lose the opportunity to use that card. 
+Dans le jeu à trois joueurs, beaucoup jouent que pendant toute la partie, la carte du dessus de la défausse peut être utilisée par l'un ou l'autre des adversaires du joueur qui l'a défaussée ou retournée et rejetée, pas seulement par le joueur dont c'est le tour de jouer ensuite. Le joueur de tour a le premier droit de prendre la carte s'il peut l'étaler. Si ce joueur rejette cette carte et va au talon pour piocher une autre carte, le troisième joueur peut s'emparer de la défausse en disant « ***me sirve*** » (elle me sert), prendre la carte, l'étaler et défausser une autre carte comme d'habitude. Vous devez être rapide dans cette variante, car si vous voulez une carte mais qu'un autre joueur pose une autre carte défaussée par-dessus, vous perdez l'occasion d'utiliser cette carte.
 
-Some people do not deal the cards singly but in packets of 4, or a packet of 3 each followed by a packet of 5 each.
+Certains ne distribuent pas les cartes une à une mais par paquets de 4, ou un paquet de 3 à chacun suivi d'un paquet de 5 à chacun.
 
-Some play that the winner of each deal is the first player in the next. So the new dealer is the player to the left of the winner (or the opponent of the winner if there are only two players).
+Certains jouent que le vainqueur de chaque donne est le premier joueur de la suivante. Le nouveau donneur est donc le joueur à la gauche du vainqueur (ou l'adversaire du vainqueur s'il n'y a que deux joueurs).
 
-Conquian is sometimes played with a French suited (international) deck. In this case the 8's 9's, 10's and jokers are thrown out to make the required 40-card deck. Aces are still low and the 7 is adjacent to the Jack, so when making sequences A-2-3 and 6-7-J are legal but Q-K-A is not allowed. ***   ***
+Le Conquian se joue parfois avec un jeu à couleurs françaises (international). Dans ce cas, les 8, 9, 10 et jokers sont retirés pour obtenir le jeu de 40 cartes requis. Les as restent bas et le 7 est adjacent au valet, donc pour faire des séquences, A-2-3 et 6-7-V sont légaux mais D-R-A n'est pas autorisé.
 
-Some play Conquian with larger hands of 9 or 10 cards each instead of 8. If the players are dealt 9 cards each a player needs to meld 10 cards to win; if 10 cards each are dealt, 11 cards in melds are needed to win.
+Certains jouent au Conquian avec des mains plus grandes de 9 ou 10 cartes chacun au lieu de 8. Si les joueurs reçoivent 9 cartes chacun, un joueur doit étaler 10 cartes pour gagner ; si 10 cartes chacun sont distribuées, 11 cartes en étalages sont nécessaires pour gagner.
 
-A few people use the two of coins as a wild card (called ***yuca*** in Spanish). In this version the *yuca* can be used as a substitute for any card needed in a meld.
+Quelques personnes utilisent le deux de pièces comme carte sauvage (appelé ***yuca*** en espagnol). Dans cette version, la *yuca* peut être utilisée comme substitut de n'importe quelle carte nécessaire à un étalage.
 
-Conquian is sometimes played with a full international (Amercian) pack of 52 cards, with the 8, 9 and 10 coming between the 7 and the Jack. This is however very unusual. Most players play only with the traditional 40-card Spanish deck, especially in the centre and south of Mexico, or with 40 cards of an international deck if playing with French suits.
+Le Conquian se joue parfois avec un jeu international (américain) complet de 52 cartes, avec les 8, 9 et 10 entre le 7 et le valet. C'est cependant très inhabituel. La plupart des joueurs ne jouent qu'avec le jeu espagnol traditionnel de 40 cartes, surtout dans le centre et le sud du Mexique, ou avec 40 cartes d'un jeu international si on joue avec des couleurs françaises.
 
-Elías Urizábel has one report of a version of two-player Conquian played in four deals: in the first deal the players get 8 cards each and end with 9, in the second deal 9 cards each ending with 10, in the third deal 10 cards each ending with 11, and for the last dealt 11 cards each ending with 12. This game is probably played with an international (American) 52-card pack or perhaps with two 40-card packs shuffled together.
+Elías Urizábel a un rapport d'une version du Conquian à deux joueurs jouée en quatre donnes : à la première donne, les joueurs reçoivent 8 cartes chacun et terminent avec 9, à la deuxième donne 9 cartes chacun terminant avec 10, à la troisième donne 10 cartes chacun terminant avec 11, et pour la dernière donne 11 cartes chacun terminant avec 12. Ce jeu est probablement joué avec un jeu international (américain) de 52 cartes ou peut-être avec deux jeux de 40 cartes mélangés ensemble.
 
-A few people play that a player at their turn can take the centre face up card and keep it in their hand for later use without melding and discard a different card, but with this rule they are really no longer playing Conquian but some other kind of Rummy.
+Quelques personnes jouent qu'un joueur à son tour peut prendre la carte du centre face visible et la garder dans sa main pour un usage ultérieur sans l'étaler et défausser une carte différente, mais avec cette règle, ils ne jouent plus vraiment au Conquian mais à une autre sorte de rami.
 
 ## Paco
 
-Paco is a well-known Mexican game closely related to Conquian, played mostly by the older generation. There can be from 2 up to as many as 12 players. A deck of 200 cards is used, made from five identical Spanish 40-card packs shuffled together. More decks can be added if the number of players is large.
+Le Paco est un jeu mexicain bien connu, étroitement apparenté au Conquian, joué surtout par l'ancienne génération. Il peut y avoir de 2 jusqu'à 12 joueurs. Un jeu de 200 cartes est utilisé, composé de cinq jeux espagnols identiques de 40 cartes mélangés ensemble. D'autres jeux peuvent être ajoutés si le nombre de joueurs est grand.
 
-The large number of cards used and the payment based on pay cards in melds are reminiscent of the American game Panguingue, which may be a distant relative.
+Le grand nombre de cartes utilisées et le paiement basé sur les cartes payantes dans les étalages rappellent le jeu américain Panguingue, qui pourrait être un parent lointain.
 
-### Pay cards and melds
+### Cartes payantes et étalages
 
-Paco is normally played for money. The winner of each deal is paid by the other players based on the **pay cards** that winner has melded. There are six pay cards in each suit: the 1, 3, 5, 7, 10 and 12. The value of each pay card depends on the suit: 1 peso for coins, 2 pesos for cups, 3 pesos for swords and 4 pesos for batons.
+Le Paco se joue normalement pour de l'argent. Le vainqueur de chaque donne est payé par les autres joueurs sur la base des **cartes payantes** que le vainqueur a étalées. Il y a six cartes payantes dans chaque couleur : le 1, le 3, le 5, le 7, le 10 et le 12. La valeur de chaque carte payante dépend de la couleur : 1 peso pour les pièces, 2 pesos pour les coupes, 3 pesos pour les épées et 4 pesos pour les bâtons.
 
-In this game the valid melds are:
+Dans ce jeu, les étalages valides sont :
 
-- 3 or more consecutive cards of the same suit (7 being adjacent to 10), or
+- 3 cartes consécutives ou plus de la même couleur (le 7 étant adjacent au 10), ou
 
-- 3 or more identical cards
+- 3 cartes identiques ou plus
 
-Note that in Paco, unlike Conquian, a set of equal cards in different suits is not a valid combination.
+Notez que dans le Paco, contrairement au Conquian, un ensemble de cartes égales de différentes couleurs n'est pas une combinaison valide.
 
-### Deal and passing
+### Donne et passage
 
-As usual the deal and play are anticlockwise. Ten cards are dealt to each player, one at a time, and the remainder are stacked face down as a stock from which cards are drawn during the game. 
+Comme d'habitude, la donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre. Dix cartes sont distribuées à chaque joueur, une par une, et le reste est empilé face cachée en un talon duquel les cartes sont piochées pendant le jeu.
 
-As in Conquian, immediately after the deal each player passes one card face down to the player to their right: players must put down the card they intend to pass before looking at the card passed to them by their left-hand neighbour.
+Comme dans le Conquian, immédiatement après la donne, chaque joueur passe une carte face cachée au joueur à sa droite : les joueurs doivent poser la carte qu'ils ont l'intention de passer avant de regarder la carte passée par leur voisin de gauche.
 
-### Play and Forcing
+### Jeu et forçage
 
-The play mechanism is similar to Conquian and the player who manages to lay down 11 cards in valid melds is the winner. 
+Le mécanisme de jeu est similaire au Conquian et le joueur qui parvient à poser 11 cartes en étalages valides est le vainqueur.
 
-The player to dealer's right then begins the play by turning the top card face up. The player must either 
+Le joueur à la droite du donneur commence ensuite le jeu en retournant la carte du dessus face visible. Le joueur doit soit
 
-- take this card to incorporate in a valid combination which they meld by placing it face up on the table and then discard one card from their hand face up, or
+- prendre cette carte pour l'incorporer à une combinaison valide qu'il étale en la plaçant face visible sur la table puis défausser une carte de sa main face visible, soit
 
-- reject the card and leave it on the table for the next player to take if they wish to use it.
+- rejeter la carte et la laisser sur la table pour que le joueur suivant la prenne s'il souhaite l'utiliser.
 
-Note that in Capo unlike Conquian the first turn is not special. The first card from the stock, like the later cards, can only be used by the player who drew it or by the player to their right; the other players have no opportunity to take that card.
+Notez que dans le Paco, contrairement au Conquian, le premier tour n'est pas spécial. La première carte du talon, comme les cartes suivantes, ne peut être utilisée que par le joueur qui l'a piochée ou par le joueur à sa droite ; les autres joueurs n'ont aucune occasion de prendre cette carte.
 
-In subsequent turns a player must either
+Aux tours suivants, un joueur doit soit
 
-- take the card left by the previous player, meld it, usually along with other cards from their hand, and discard one card face up, or
+- prendre la carte laissée par le joueur précédent, l'étaler, généralement avec d'autres cartes de sa main, et défausser une carte face visible, soit
 
-- turn up a new card from the top of the stock and either
+- retourner une nouvelle carte du dessus du talon et soit
 
-- meld this new card, usually with other cards from their hand and discard one card face up, or
+- étaler cette nouvelle carte, généralement avec d'autres cartes de sa main, et défausser une carte face visible, soit
 
-- reject the new card, leaving it on the table for the next player to use.
+- rejeter la nouvelle carte, la laissant sur la table à l'usage du joueur suivant.
 
-When melding cards, a player may rearrange their melds on the table as necessary so long as all the player's face up cards are incorporated in valid melds. The scope for this is much more limited than in Conquian since a combination cannot contain cards of more then one suit.
+En étalant des cartes, un joueur peut réarranger ses étalages sur la table selon les besoins tant que toutes les cartes face visible du joueur sont incorporées dans des étalages valides. La marge pour cela est beaucoup plus limitée que dans le Conquian puisqu'une combinaison ne peut pas contenir de cartes de plus d'une couleur.
 
-Forcing is allowed. Any player may force the player on turn to meld the card received from the previous player or the new card turned up if it can be incorporated into the melds the player already has on the table, and the player on turn can force the card they receive or turn up onto any other player if it can be added to their melds on the table. The player who was forced to take card must then discard and the turn passes to the player to their right.
+Le forçage est autorisé. N'importe quel joueur peut forcer le joueur de tour à étaler la carte reçue du joueur précédent ou la nouvelle carte retournée si elle peut être incorporée aux étalages qu'il a déjà sur la table, et le joueur de tour peut forcer la carte qu'il reçoit ou retourne sur n'importe quel autre joueur si elle peut être ajoutée à ses étalages sur la table. Le joueur qui a été forcé de prendre la carte doit alors défausser et le tour passe au joueur à sa droite.
 
-### Winning and payment
+### Victoire et paiement
 
-At the start and end of each turn players always have 10 cards, which may be in their hands, on the table, or some of each. When a player melds an 11th card, leaving themselves with no card to discard, the play ends: that player is the winner and collects money from all the other players according to the pay cards they have melded as described above. 
+Au début et à la fin de chaque tour, les joueurs ont toujours 10 cartes, qui peuvent être dans leurs mains, sur la table, ou certaines de chacune. Quand un joueur étale une 11e carte, se retrouvant sans carte à défausser, le jeu se termine : ce joueur est le vainqueur et collecte de l'argent auprès de tous les autres joueurs selon les cartes payantes qu'il a étalées comme décrit ci-dessus.
 
-**Example:**
+**Exemple :**
 
-![3 de espadas](../images/spanish/es03.gif)![3 de espadas](../images/spanish/es03.gif)![3 de espadas](../images/spanish/es03.gif)![4 de bastos](../images/spanish/ba04.gif)![5 de bastos](../images/spanish/ba05.gif)![6 de bastos](../images/spanish/ba06.gif)
-![7 de bastos](../images/spanish/ba07.gif)![sota de bastos](../images/spanish/ba10.gif)![6 de oros](../images/spanish/or06.gif)![7 de oros](../images/spanish/or07.gif)![sota de oros](../images/spanish/or10.gif)
+![3 d'épées](../images/spanish/es03.gif)![3 d'épées](../images/spanish/es03.gif)![3 d'épées](../images/spanish/es03.gif)![4 de bâtons](../images/spanish/ba04.gif)![5 de bâtons](../images/spanish/ba05.gif)![6 de bâtons](../images/spanish/ba06.gif)
+![7 de bâtons](../images/spanish/ba07.gif)![sota de bâtons](../images/spanish/ba10.gif)![6 de pièces](../images/spanish/or06.gif)![7 de pièces](../images/spanish/or07.gif)![sota de pièces](../images/spanish/or10.gif)
 
-A player who wins with these 11 cards is paid 23 pesos by each opponent: 9 pesos for the swords, 12 pesos for the 2, 7 and 10 of batons and 2 pesos for the 7 and 10 of coins.
+Un joueur qui gagne avec ces 11 cartes est payé 23 pesos par chaque adversaire : 9 pesos pour les épées, 12 pesos pour les 2, 7 et 10 de bâtons et 2 pesos pour les 7 et 10 de pièces.
 
-Note that it does not matter what cards the other players have melded. Only the winner is paid and the other players get no benefit for any pay cards they have laid down.
+Notez que peu importe les cartes que les autres joueurs ont étalées. Seul le vainqueur est payé et les autres joueurs ne tirent aucun bénéfice des cartes payantes qu'ils ont posées.
 
-### Video
+### Vidéo
 
-A You Tube video (in Spanish) with an explanation of the game has been published at [https://www.youtube.com/watch?v=Yn6ivOaAnME](https://www.youtube.com/watch?v=Yn6ivOaAnME)
+Une vidéo YouTube (en espagnol) avec une explication du jeu a été publiée à [https://www.youtube.com/watch?v=Yn6ivOaAnME](https://www.youtube.com/watch?v=Yn6ivOaAnME)
 
-### Team variant
+### Variante en équipes
 
-If the number of players is even (4, 6, 8, etc.) they can form two teams, each player sitting between two opponents. The rules of play are exactly the same, but when a player wins, each member of the losing team pays the value of the winner's hand and the proceeds are shared equally between the members of the winner's team. Often each team has a banker who deals with all payments and receipts. Each banker is funded equally by the members of their team at the start of the session, and shares the contents of the bank equally among their team at the end of the session.
+Si le nombre de joueurs est pair (4, 6, 8, etc.), ils peuvent former deux équipes, chaque joueur assis entre deux adversaires. Les règles du jeu sont exactement les mêmes, mais quand un joueur gagne, chaque membre de l'équipe perdante paie la valeur de la main du vainqueur et les gains sont partagés également entre les membres de l'équipe du vainqueur. Souvent, chaque équipe a un banquier qui gère tous les paiements et encaissements. Chaque banquier est financé également par les membres de son équipe au début de la séance et partage le contenu de la banque également entre son équipe à la fin de la séance.
 
-## Anglo-American Conquian
+## Conquian anglo-américain
 
-Conquian reached Texas by the 1860's and by the end of the century had become popular there and in other states bordering Mexico. This is according to R.F. Foster who published what he claimed to be the first complete description of the game in his ['Complete Hoyle' of 1897](https://www.google.co.uk/books/edition/Foster_s_Complete_Hoyle/bE8MAAAAYAAJ?hl=en&gbpv=1&pg=PA448&printsec=frontcover). There are several differences from the modern Mexican game:
+Le Conquian atteignit le Texas vers les années 1860 et, à la fin du siècle, était devenu populaire là et dans d'autres États bordant le Mexique. C'est selon R.F. Foster, qui publia ce qu'il prétendait être la première description complète du jeu dans son ['Complete Hoyle' de 1897](https://www.google.co.uk/books/edition/Foster_s_Complete_Hoyle/bE8MAAAAYAAJ?hl=en&gbpv=1&pg=PA448&printsec=frontcover). Il y a plusieurs différences avec le jeu mexicain moderne :
 
-- The game is for two players only. Foster says that if there are three players at the table, one should sit out while the other two play.
+- Le jeu est réservé à deux joueurs. Foster dit que s'il y a trois joueurs à la table, l'un devrait rester hors du jeu pendant que les deux autres jouent.
 
-- 10 cards are dealt to each player and a thus a player needs to meld 11 cards to go out. This makes it impossible to go out with a single complete suit, which Foster considers makes the game more interesting.
+- 10 cartes sont distribuées à chaque joueur et un joueur doit donc étaler 11 cartes pour sortir. Cela rend impossible de sortir avec une seule couleur complète, ce que Foster considère comme rendant le jeu plus intéressant.
 
-- It is played with French suited cards, normally a standard 52-card pack from which the 8's, 9's and 10's have been removed. Foster says that it is also common to play with only the 40 numeral cards A to 10, throwing out the picture cards, making the sequences easier to recognise (e.g. 7-8-9 rather than 7-J-Q) but this practice seems not to have continued and later descriptions do not mention it.
+- Il se joue avec des cartes à couleurs françaises, normalement un jeu standard de 52 cartes duquel les 8, 9 et 10 ont été retirés. Foster dit qu'il est aussi courant de jouer avec seulement les 40 cartes numérales A à 10, en retirant les figures, rendant les séquences plus faciles à reconnaître (par ex. 7-8-9 plutôt que 7-V-D) mais cette pratique ne semble pas avoir continué et les descriptions ultérieures ne la mentionnent pas.
 
-- There is no passing of cards between players at the start of the game: it is played with the hands as originally dealt.
+- Il n'y a pas de passage de cartes entre les joueurs au début du jeu : on joue avec les mains telles que distribuées.
 
-Unfortunately we have no description of the version of the game played in Mexico in the 19th century. It was certainly played with Spanish-suited cards but apart from that it is unclear which of these differences were introduced when the game entered the USA and which are due to subsequent evolution of the Mexican game.
+Malheureusement, nous n'avons pas de description de la version du jeu jouée au Mexique au XIXe siècle. Il était certainement joué avec des cartes à couleurs espagnoles, mais à part cela, il n'est pas clair lesquelles de ces différences ont été introduites quand le jeu est entré aux États-Unis et lesquelles sont dues à l'évolution ultérieure du jeu mexicain.
 
-The following description is of a version that Clark Williams tells me is played in Philadelphia, Pennsylvania.
+La description suivante est d'une version que Clark Williams me dit être jouée à Philadelphie, en Pennsylvanie.
 
-### Players, Cards and Deal
+### Joueurs, cartes et donne
 
-There are two players.
+Il y a deux joueurs.
 
-The deck consists of the cards **A-2-3-4-5-6-7-J-Q-K** in the usual suits hearts, diamonds, clubs and spades. It can be made by throwing the 8s, 9s, and 10s out of a standard 52 card pack. 
+Le jeu consiste en les cartes **A-2-3-4-5-6-7-V-D-R** dans les couleurs habituelles cœurs, carreaux, trèfles et piques. Il peut être fabriqué en retirant les 8, 9 et 10 d'un jeu standard de 52 cartes.
 
-The first dealer is chosen by any convenient random method. Thereafter the players take turns to deal.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Ensuite, les joueurs donnent à tour de rôle.
 
-The dealer deals ten cards to each player, one at a time. The remainder of the cards are placed face down on the table to form a stock. No cards are passed between players at the start of the game.
+Le donneur distribue dix cartes à chaque joueur, une par une. Le reste des cartes est placé face cachée sur la table pour former un talon. Aucune carte n'est passée entre les joueurs au début du jeu.
 
-### Objective and Meld
+### Objectif et étalage
 
-The objective is to be the first to "go out" by melding 11 cards. **Melding** is placing a valid combination of cards face up on the table in front of you. These face up cards are your **meld**. The combinations allowed are:
+L'objectif est d'être le premier à « sortir » en étalant 11 cartes. **Étaler**, c'est placer une combinaison valide de cartes face visible sur la table devant soi. Ces cartes face visible constituent votre **étalage**. Les combinaisons autorisées sont :
 
-- a **group** or **short** of three or four cards of the same rank, such as **![diamond](../images/internat/diamond.gif)7, ![heart](../images/internat/heart.gif)7, ![spade](../images/internat/spade.gif)7.**
+- un **groupe** ou **brelan** de trois ou quatre cartes de même valeur, comme **![diamond](../images/internat/diamond.gif)7, ![heart](../images/internat/heart.gif)7, ![spade](../images/internat/spade.gif)7.**
 
-- a **sequence** or **straight** of from three to eight cards of the same suit in consecutive order, such as **![club](../images/internat/club.gif)4, ![club](../images/internat/club.gif)5, ![club](../images/internat/club.gif)6**. Note that in this game the ace is always low and the 7 is next to the jack. So when making sequences **A-2-3** and **6-7-J** are legal but **Q-K-A** is not allowed. 
+- une **séquence** ou **suite** de trois à huit cartes de la même couleur dans l'ordre consécutif, comme **![club](../images/internat/club.gif)4, ![club](../images/internat/club.gif)5, ![club](../images/internat/club.gif)6**. Notez que dans ce jeu, l'as est toujours bas et que le 7 est à côté du valet. Donc pour faire des séquences, **A-2-3** et **6-7-V** sont légaux mais **D-R-A** n'est pas autorisé.
 
-At all times, the meld you have on the table must consist one or more separate valid combinations. A card can never be part of more than one combination at the same time.
+À tout moment, l'étalage que vous avez sur la table doit consister en une ou plusieurs combinaisons valides séparées. Une carte ne peut jamais faire partie de plus d'une combinaison à la fois.
 
-Note that a sequence cannot contain more than eight cards. This maximum length is set because you have to meld exactly eleven cards to win. For this you must have at least two combinations. If one of them has the minimum size of three cards, the other cannot have more than eight.
+Notez qu'une séquence ne peut pas contenir plus de huit cartes. Cette longueur maximale est fixée parce que vous devez étaler exactement onze cartes pour gagner. Pour cela, vous devez avoir au moins deux combinaisons. Si l'une d'elles a la taille minimale de trois cartes, l'autre ne peut pas avoir plus de huit.
 
-### The Play
+### Le jeu
 
-The non-dealer begins the play by turning the top card of the stock face up, and has two options:
+Le non-donneur commence le jeu en retournant la carte du dessus du talon face visible et a deux options :
 
-- To meld this card along with cards from hand. At least two hand cards will be needed to make up a valid combination along with the turned up card, and further cards from hand can be laid down at the same time if desired, provided that the meld is valid. Having melded, the non-dealer must discard one card face up from hand, which may be used by the dealer.
-- To pass, not melding any cards and leaving the turned up card to be used by the dealer.
+- Étaler cette carte avec des cartes de la main. Au moins deux cartes de la main seront nécessaires pour former une combinaison valide avec la carte retournée, et d'autres cartes de la main peuvent être posées en même temps si souhaité, pourvu que l'étalage soit valide. Après avoir étalé, le non-donneur doit défausser une carte face visible de la main, qui peut être utilisée par le donneur.
+- Passer, sans étaler de cartes et en laissant la carte retournée à l'usage du donneur.
 
-It is then the dealer's turn to play.
+C'est alors au tour du donneur de jouer.
 
-The turn to play alternates. Apart from the non-dealer's first turn, you always begin your turn with the opportunity to use the card discarded by your opponent or the card which your opponent turned up and did not use. Your options are:
+Le tour de jouer alterne. Mis à part le premier tour du non-donneur, vous commencez toujours votre tour avec l'occasion d'utiliser la carte défaussée par votre adversaire ou la carte que votre adversaire a retournée et n'a pas utilisée. Vos options sont :
 
-- To use this card as part of your meld on the table, for which purpose you may also put down on the table any number of cards from your hand. You then discard one card from your hand, reducing the number of cards in your hand plus those in your meld to ten. Your discard is placed pace up in the centre of the table and it is your opponent's turn.
-- To reject the card, placing it in a face down waste pile. If you reject the card, you then turn up the next card from the top of the stock. In this case you again have two options:
+- Utiliser cette carte comme partie de votre étalage sur la table, ce pour quoi vous pouvez aussi poser sur la table autant de cartes de votre main que vous voulez. Vous défaussez ensuite une carte de votre main, réduisant le nombre de cartes dans votre main plus celles de votre étalage à dix. Votre défausse est placée face visible au centre de la table et c'est au tour de votre adversaire.
+- Rejeter la carte, la plaçant dans une pile d'écart face cachée. Si vous rejetez la carte, vous retournez ensuite la carte suivante du dessus du talon. Dans ce cas, vous avez de nouveau deux options :
 
-- To use this newly turned up card as part of your meld on the table, for which purpose you may also put down on the table any number of cards from your hand. You then discard one card face up in its place and it is your opponent's turn.
+- Utiliser cette carte nouvellement retournée comme partie de votre étalage sur la table, ce pour quoi vous pouvez aussi poser sur la table autant de cartes de votre main que vous voulez. Vous défaussez ensuite une carte face visible à sa place et c'est au tour de votre adversaire.
 
-- To pass, not melding any cards and leaving the turned up card to be used by your opponent.
+- Passer, sans étaler de cartes et en laissant la carte retournée à l'usage de votre adversaire.
 
-When melding, you can rearrange your table cards in any way you wish, as long as the cards you have on the table at the end of your turn form separate valid combinations. For example, if you have a meld of **![club](../images/internat/club.gif)3-![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)6** on the table, **![heart](../images/internat/heart.gif)6** in your hand, and you turn up **![diamond](../images/internat/diamond.gif)6**, you can meld three sixes, taking the six from your club sequence, leaving a valid sequence **3-4-5**. If a four had turned up and you had a four in your hand, you would not be able to meld fours, because stealing the **![club](../images/internat/club.gif)4** would not leave a valid sequence.
+En étalant, vous pouvez réarranger vos cartes de table comme vous le souhaitez, tant que les cartes que vous avez sur la table à la fin de votre tour forment des combinaisons valides séparées. Par exemple, si vous avez un étalage de **![club](../images/internat/club.gif)3-![club](../images/internat/club.gif)4-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)6** sur la table, un **![heart](../images/internat/heart.gif)6** en main, et que vous retournez un **![diamond](../images/internat/diamond.gif)6**, vous pouvez étaler trois six, en prenant le six de votre séquence de trèfles, laissant une séquence valide **3-4-5**. Si un quatre avait été retourné et que vous aviez un quatre en main, vous ne pourriez pas étaler de quatre, parce que voler le **![club](../images/internat/club.gif)4** ne laisserait pas une séquence valide.
 
-There is one further important rule. If during your turn the face-up centre card can be added to the meld that you already have on the table, without using extra cards from your hand, your opponent can **force** you to meld the centre card, and you cannot refuse. This can be a powerful technique for destroying a player's position. Suppose that you have **![club](../images/internat/club.gif)3-![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)3-![diamond](../images/internat/diamond.gif)3 ![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q** on the table and **![diamond](../images/internat/diamond.gif)A-![spade](../images/internat/spade.gif)A** in your hand. All you need to win is an ace, but you opponent might discard the **![heart](../images/internat/heart.gif)K** and force you to meld it. You then have no option but to discard one of your aces, and the only way you can now win is to acquire the **![heart](../images/internat/heart.gif)5 and ![heart](../images/internat/heart.gif)4**. If either of these is already out of the game, it has become impossible for you to win.
+Il y a une règle importante supplémentaire. Si pendant votre tour, la carte du centre face visible peut être ajoutée à l'étalage que vous avez déjà sur la table, sans utiliser de cartes supplémentaires de votre main, votre adversaire peut vous **forcer** à étaler la carte du centre, et vous ne pouvez pas refuser. Cela peut être une technique puissante pour détruire la position d'un joueur. Supposons que vous ayez **![club](../images/internat/club.gif)3-![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)3-![diamond](../images/internat/diamond.gif)3 ![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)V-![heart](../images/internat/heart.gif)D** sur la table et **![diamond](../images/internat/diamond.gif)A-![spade](../images/internat/spade.gif)A** en main. Tout ce qu'il vous faut pour gagner est un as, mais votre adversaire pourrait défausser le **![heart](../images/internat/heart.gif)R** et vous forcer à l'étaler. Vous n'avez alors d'autre choix que de défausser un de vos as, et la seule façon de gagner maintenant est d'acquérir le **![heart](../images/internat/heart.gif)5 et le ![heart](../images/internat/heart.gif)4**. Si l'un de ceux-ci est déjà hors du jeu, il vous est devenu impossible de gagner.
 
-When forcing a card on a player you are allowed to rearrange the player's melds to incorporate that card - for example stealing a card from the end of a run to include it in a set - provided all the combinations on the table at the end of the move remain valid.
+En forçant une carte sur un joueur, vous êtes autorisé à réarranger les étalages du joueur pour incorporer cette carte — par exemple en volant une carte à l'extrémité d'une suite pour l'inclure dans un ensemble — à condition que toutes les combinaisons sur la table à la fin du mouvement restent valides.
 
-Please note that
+Veuillez noter que
 
-- It is **never** possible to take the centre card (turned up from the stock or discarded or rejected by your opponent) into your hand for later use.
+- Il n'est **jamais** possible de prendre la carte du centre (retournée du talon ou défaussée ou rejetée par votre adversaire) dans votre main pour un usage ultérieur.
 
-- The melds of the two players are entirely separate - you are never allowed to get rid of cards by "laying them off" on the other player's melds.
+- Les étalages des deux joueurs sont entièrement séparés — vous n'êtes jamais autorisé à vous débarrasser de cartes en les « déposant » sur les étalages de l'autre joueur.
 
-- You can meld combinations from your hand, but only at the same time that you take the centre card and use it in your meld. You cannot meld hand cards at any other time.
+- Vous pouvez étaler des combinaisons de votre main, mais seulement en même temps que vous prenez la carte du centre et l'utilisez dans votre étalage. Vous ne pouvez pas étaler des cartes de la main à tout autre moment.
 
-### End of the Game
+### Fin de la partie
 
-Play continues in this way until either someone goes out or the stock runs out.
+Le jeu continue de cette façon jusqu'à ce que quelqu'un sorte ou que le talon s'épuise.
 
-You **go out** by melding the face up card from the centre of the table (whether discarded or rejected by your opponent or newly turned up by you) along with all the remaining cards in your hand (if any). Your meld on the table will then consist of eleven cards. In this case **you have won** and your opponent pays you a fixed stake.
+Vous **sortez** en étalant la carte face visible du centre de la table (qu'elle soit défaussée ou rejetée par votre adversaire ou nouvellement retournée par vous) avec toutes les cartes restantes de votre main (s'il y en a). Votre étalage sur la table consistera alors en onze cartes. Dans ce cas, **vous avez gagné** et votre adversaire vous paie un enjeu fixe.
 
-If there are no cards remaining in the stock and you do not use the card your opponent discarded or rejected, you are unable to turn up a new card because there are none left. In this case **the game is a draw**, and some play that the next game is played for a double stake.
+S'il ne reste plus de cartes dans le talon et que vous n'utilisez pas la carte que votre adversaire a défaussée ou rejetée, vous êtes incapable de retourner une nouvelle carte parce qu'il n'en reste plus. Dans ce cas, **la partie est nulle**, et certains jouent que la partie suivante se joue pour un enjeu double.
 
-Note that although you may meld ten cards and discard your last card, this does not win the game or end the play. If you do this you have to continue playing until you get an eleventh card which you can add to your meld. This eleventh card would have to be either discarded or passed to you by your opponent or turned up by you after rejecting the card from your opponent.
+Notez que bien que vous puissiez étaler dix cartes et défausser votre dernière carte, cela ne gagne pas la partie et ne termine pas le jeu. Si vous faites cela, vous devez continuer à jouer jusqu'à obtenir une onzième carte que vous pouvez ajouter à votre étalage. Cette onzième carte devrait être soit défaussée ou passée par votre adversaire, soit retournée par vous après avoir rejeté la carte de votre adversaire.
 
-### Tactics
+### Tactique
 
-Clark Williams has provided the following advice:
+Clark Williams a fourni les conseils suivants :
 
-All cards must be played on the table. This is often a very intense money game and strict attention to prevent the appearance of cheating is very important
+Toutes les cartes doivent être jouées sur la table. C'est souvent un jeu d'argent très intense et une attention stricte pour empêcher l'apparence de tricherie est très importante.
 
-Defensive Play.
-If you are dealt a hand with more than 5 or 6 cards which cannot be included in any series or grouping, it is possible to simply fold your hand and let the opponent attempt to play alone by continuing to draw and discard. The effect is equivalent to always rejecting the face-up card that is passed to you. The likelihood is that you possess the cards your opponent would need to win, in which case the hand will be tied. In such a case, you can only lose by playing and indeed, may win the next hand. There are times when five or six hands in a row may be tied in such a manner.
+Jeu défensif.
+Si vous recevez une main avec plus de 5 ou 6 cartes qui ne peuvent être incluses dans aucune suite ou aucun groupe, il est possible de simplement abandonner votre main et laisser l'adversaire tenter de jouer seul en continuant de piocher et défausser. L'effet équivaut à toujours rejeter la carte face visible qui vous est passée. Il est probable que vous possédiez les cartes dont l'adversaire aurait besoin pour gagner, auquel cas la main sera nulle. Dans un tel cas, vous ne pouvez perdre qu'en jouant, et vous pouvez en effet gagner la main suivante. Il arrive que cinq ou six mains d'affilée soient nulles de cette manière.
 
-Offensive Play.
-Players with an excellent memory often count cards - they keep track of all cards played by both players and predict those needed to complete the opponent's hand, deliberately playing a grouping which reduces the opponent's chances of winning. In any case, it is vital to keep track of the cards played, to some extent. The better this is done, the higher the probability of winning. Usually, winning or losing eventually depends on the fall of one or two cards, in the end.
+Jeu offensif.
+Les joueurs dotés d'une excellente mémoire comptent souvent les cartes — ils suivent toutes les cartes jouées par les deux joueurs et prédisent celles nécessaires pour compléter la main de l'adversaire, jouant délibérément un groupe qui réduit les chances de l'adversaire de gagner. De toute façon, il est vital de suivre les cartes jouées, dans une certaine mesure. Mieux cela est fait, plus la probabilité de gagner est élevée. Habituellement, gagner ou perdre finit par dépendre de la chute d'une ou deux cartes, à la fin.
 
-In play, you must be careful to avoid the dreaded Ten Card Hole. In the highly improbable event that you may be able to collect all the Clubs, for instance, it would be impossible to win, because there are only ten cards in any suit.
+En jouant, vous devez être prudent pour éviter le redoutable Trou de dix cartes. Dans l'éventualité hautement improbable où vous pourriez rassembler tous les trèfles, par exemple, il serait impossible de gagner, parce qu'il n'y a que dix cartes dans chaque couleur.
 
 ## Navajo Tens
 
-This game is described in a the YouTube video [How to Play Navajo Tens](https://www.youtube.com/watch?v=0mxNl2Cq8OE). In the Navajo language it is called **Neeznáá Dah Yíjihí **or sometimes **Da'aka'**, which is just the general Navajo word for any card game.
+Ce jeu est décrit dans la vidéo YouTube [How to Play Navajo Tens](https://www.youtube.com/watch?v=0mxNl2Cq8OE). En langue navajo, il s'appelle **Neeznáá Dah Yíjihí** ou parfois **Da'aka'**, qui est simplement le mot navajo général pour tout jeu de cartes.
 
-A double deck is used - two identical 52-card decks mixed together with all 8's, 9's and 10's removed leaving 80 cards. The video shows a game between three players. It is stated that it can be played by any number of people from 2 to 7, but with more than 4 players it probably becomes somewhat unwieldy. The direction of play is clockwise.
+Un double jeu est utilisé — deux jeux identiques de 52 cartes mélangés ensemble avec tous les 8, 9 et 10 retirés, laissant 80 cartes. La vidéo montre un jeu entre trois joueurs. Il est déclaré qu'il peut être joué par n'importe quel nombre de personnes de 2 à 7, mais avec plus de 4 joueurs, il devient probablement assez encombrant. Le sens du jeu est horaire.
 
-10 cards are dealt to each player and 11 cards must be melded to win. No cards are passed at the start of the game.
+10 cartes sont distribuées à chaque joueur et 11 cartes doivent être étalées pour gagner. Aucune carte n'est passée au début du jeu.
 
-As usual the valid combinations are **runs** of consecutive cards in a suit and **sets** of equal cards. The cards in a set must all be of different suits so the maximum number of cards in a set is four.
+Comme d'habitude, les combinaisons valides sont les **suites** de cartes consécutives dans une couleur et les **ensembles** de cartes égales. Les cartes d'un ensemble doivent toutes être de couleurs différentes, donc le nombre maximum de cartes d'un ensemble est quatre.
 
-The play mechanism is the same as in Mexican Conquian, except that if the player in turn cannot use the face up card discarded or passed on by the previous player, **any other player** who can use it to form a combination can take it and meld it together with other cards from their hand or the table. When a player takes a card out of turn, the turns of the players in between the one who discarded or rejected the card and the one who took it are skipped. If more than one player can use the same card the player in turn or the earliest in clockwise order from that player has priority.
+Le mécanisme de jeu est le même que dans le Conquian mexicain, sauf que si le joueur de tour ne peut pas utiliser la carte face visible défaussée ou passée par le joueur précédent, **n'importe quel autre joueur** qui peut l'utiliser pour former une combinaison peut la prendre et l'étaler avec d'autres cartes de sa main ou de la table. Quand un joueur prend une carte hors de son tour, les tours des joueurs entre celui qui a défaussé ou rejeté la carte et celui qui l'a prise sont sautés. Si plus d'un joueur peut utiliser la même carte, le joueur de tour ou le plus proche de lui dans le sens horaire a la priorité.
 
-As in all versions of Conquian, a card can only be taken from the stock or discard pile if it can immediately be melded - a card cannot be taken and kept in hand for later use. Only one card at a time is available for use - the card that was most recently drawn or discarded. As soon as a new card is drawn or discarded that previous card is out of play.
+Comme dans toutes les versions du Conquian, une carte ne peut être prise du talon ou de la défausse que si elle peut être immédiatement étalée — une carte ne peut pas être prise et gardée en main pour un usage ultérieur. Une seule carte à la fois est disponible — la carte la plus récemment piochée ou défaussée. Dès qu'une nouvelle carte est piochée ou défaussée, cette carte précédente est hors du jeu.
 
-The player who melds a card must then discard, so that each player at the end of their turn always has a total of 10 cards, some of which may be in their hand and some on the table. This continues until a player wins the game by melding an 11th card, leaving no discard, or until the stock runs out.
+Le joueur qui étale une carte doit ensuite défausser, de sorte que chaque joueur à la fin de son tour ait toujours un total de 10 cartes, dont certaines peuvent être dans sa main et certaines sur la table. Cela continue jusqu'à ce qu'un joueur gagne la partie en étalant une 11e carte, sans laisser de défausse, ou jusqu'à ce que le talon s'épuise.
 
-## Other Web Pages and Apps
+## Autres pages web et applications
 
-Rummy-games.com also has rules of [two-player Conquian](http://www.rummy-games.com/rules/conquian.html) as well as the full text of R.F. Foster's book *[Cooncan (Conquian) A Game of Cards also called "Rum"](http://www.rummy-games.com/rules/cooncan)* (1913) which describes a form of basic Rummy with one or two 52-card packs for 3-5 players but gives Conquian with 40 cards as the recommended game for 2 players.
+Rummy-games.com a aussi les règles du [Conquian à deux joueurs](http://www.rummy-games.com/rules/conquian.html) ainsi que le texte complet du livre de R.F. Foster *[Cooncan (Conquian) A Game of Cards also called "Rum"](http://www.rummy-games.com/rules/cooncan)* (1913) qui décrit une forme de rami de base avec un ou deux jeux de 52 cartes pour 3-5 joueurs mais donne le Conquian avec 40 cartes comme le jeu recommandé pour 2 joueurs.
 
-You can play 2-player Mexican Conquian against a live or AI opponent using Alex Garcia's [Conquian 333](https://play.google.com/store/apps/details?id=com.alexga.Conquian333) Android app.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Conquian
+Vous pouvez jouer au Conquian mexicain à deux joueurs contre un adversaire réel ou IA en utilisant l'application Android [Conquian 333](https://play.google.com/store/apps/details?id=com.alexga.Conquian333) d'Alex Garcia.
