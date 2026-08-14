@@ -39,6 +39,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Importeur v3 : `importPagat()` (catégorie `pagat`, couleurs, skip-list)
 - [x] 10 fiches FR de jeux de pêche : Diloti, Pişti, Escoba, Scopone, Cuarenta, Ronda, Seep, Tablić, Chinese Ten, Cirulla
 - [x] Batch Rami (1/2) : 20 fiches FR — Arlington, Banakil, Biriba, Burako, Burraco, Canastone, Caribbean, Carioca, Conquian, Crazy, Cuajo, Hand, Hand and Foot, Hoola, Indian, Kaluki, Loba, Mahjong, Okey, Okey 101
+- [x] Batch Rami (2/2) : 21 fiches FR — Three Thirteen, Seven Bridge, Panguingue, Pitty Pat, Proter, Umtali, Caribbean Kalooki, South African Kaluki, Open Rummy, Pennies, Pokerato, Push, Romtile, Rummikub, Scala40, Spot, Telefunken, Tong Its, Tonk, Toonerville Rook, Vazhushal
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---
