@@ -2,12 +2,10 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A card game of the Jass family that is popular in Cyprus - link to rules.
+**But :** Un jeu de cartes de la famille Jass populaire à Chypre — lien vers les règles.
 
 ---
 
-Pilotta is a Greek point-trick game of the Jass family, similar to the French game Belote. I have been told that it is particularly popular in Cyprus.
+Le Pilotta est un jeu grec de plis à points de la famille Jass, similaire au jeu français la Belote. On m'a dit qu'il est particulièrement populaire à Chypre.
 
-Ioannis K. Zapitis published [Rules in English](https://web.archive.org/web/20250125192646/http://agrino.org/izapitis/rules.html) (archive copy) and wrote an online version WebPilotta which can be played online at [gamesfair.com](https://gamesfair.com/games)
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Pilotta
+Ioannis K. Zapitis a publié des [règles en anglais](https://web.archive.org/web/20250125192646/http://agrino.org/izapitis/rules.html) (copie d'archive) et a écrit une version en ligne WebPilotta qui peut être jouée en ligne sur [gamesfair.com](https://gamesfair.com/games)

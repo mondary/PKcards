@@ -2,99 +2,98 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** The national card game of the Netherlands, including the Amsterdam and Rotterdam versions and the variant Kraken.
+**But :** Le jeu de cartes national des Pays-Bas, incluant les versions d'Amsterdam et Rotterdam et la variante Kraken.
 
 ---
 
 ## Introduction
 
-Klaverjassen is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs, as well as at home. The game is for 4 players who play in pairs, sitting opposite each other. The game has a number of variants, named after the cities where they originated: **Amsterdam**, **Rotterdam** and **Utrecht**. This description is of the **Amsterdam** version, with some notes describing the variations. Another variation of Klaverjas is known as **Kraken** or **Wilde Boom**; this is described near the end of this page.
+Le Klaverjassen est l'un des jeux de cartes les plus populaires aux Pays-Bas, traditionnellement joué dans les cafés et les clubs sociaux, ainsi qu'à la maison. Le jeu se joue à 4 joueurs en équipes de deux, assis en face l'un de l'autre. Le jeu compte plusieurs variantes, nommées d'après les villes où elles ont vu le jour : **Amsterdam**, **Rotterdam** et **Utrecht**. Cette description concerne la version **Amsterdam**, avec quelques notes sur les variantes. Une autre variante du Klaverjas est connue sous le nom de **Kraken** ou **Wilde Boom** ; elle est décrite vers la fin de cette page.
 
-*This page is partly based on a contribution from Clive Whitear*
+*Cette page est partiellement basée sur une contribution de Clive Whitear*
 
-## The Pack
+## Le jeu de cartes
 
-A 32 card pack is used, consisting of the cards A, K, Q, J, 10, 9, 8, 7 in each of the usual four suits - spades, clubs, hearts and diamonds. Note that on Dutch cards the corner indices are usually **A** (Aas) for the ace, **H** (Heer) for the king, **V** (Vrouw) for the queen and **B** (Boer) for the jack.
+On utilise un jeu de 32 cartes, composé des cartes A, R, D, V, 10, 9, 8, 7 dans chacune des quatre enseignes habituelles — pique, trèfle, cœur et carreau. Notez que sur les cartes néerlandaises, les indices de coin sont généralement **A** (Aas) pour l'as, **H** (Heer) pour le roi, **V** (Vrouw) pour la dame et **B** (Boer) pour le valet.
 
-## The Object of the Game
+## But du jeu
 
-The object of the game is to score as many points as possible in 16 hands. In competition games the players on one table will rotate so as to have had each of the other three as a partner, so playing 3 sets of 16 hands.
+Le but du jeu est de marquer le plus de points possible en 16 donnes. Dans les jeux de compétition, les joueurs à une table tournent pour avoir eu chacun des trois autres comme partenaire, jouant ainsi 3 séries de 16 donnes.
 
-In each hand the object of the game is for the player (and partner) who chooses trumps to collect more than half of the available points. If they fail to do this then they score nothing at all and the opposing pair receives all of the points.
+À chaque donne, le but pour le joueur (et son partenaire) qui choisit l'atout est de collecter plus de la moitié des points disponibles. S'ils n'y parviennent pas, ils ne marquent aucun point et la paire adverse reçoit tous les points.
 
-Points are collected by taking tricks containing valuable cards, and also as bonus points during the play.
+Les points se collectent en prenant des plis contenant des cartes précieuses, ainsi que sous forme de points bonus pendant le jeu.
 
-Deal and play are clockwise and the turn to deal passes to the left fo the previous dealer after each hand.
+La distribution et le jeu sont dans le sens horaire et le tour de distribuer passe à la gauche du donneur précédent après chaque donne.
 
-## The Deal
+## La distribution
 
-The cards are shuffled and dealt, not as single cards, but in 3 groups, first three cards to each player, then two cards, then three cards. Sometimes the cards are dealt in two groups of four cards. The player to the left of the dealer chooses trumps.
+Les cartes sont mélangées et distribuées, non pas une par une, mais en 3 groupes : d'abord trois cartes à chaque joueur, puis deux cartes, puis trois cartes. Parfois les cartes sont distribuées en deux groupes de quatre cartes. Le joueur à la gauche du donneur choisit l'atout.
 
-## The Ranking and Values of the Cards
+## Ordre et valeur des cartes
 
-In each hand one suit will be trumps. The ranking of the cards and their values are different in the suit chosen as trumps from the other suits. The ranking, from high to low, and the card values are as follows:
+Dans chaque donne, une enseigne sera l'atout. L'ordre des cartes et leurs valeurs sont différents dans l'enseigne choisie comme atout par rapport aux autres enseignes. L'ordre, du plus haut au plus bas, et les valeurs des cartes sont les suivants :
 
-|   | high | . . . . . | . . . . . | . . . . . | . . . . . | . . . . . | . . . . . | low |
-| Trump suit rank: | Jack | Nine | Ace | Ten | King | Queen | Eight | Seven |
-| card values: | 20 | 14 | 11 | 10 | 4 | 3 | 0 | 0 |
-| Other suits rank: | Ace | Ten | King | Queen | Jack | Nine | Eight | Seven |
-| card values: | 11 | 10 | 4 | 3 | 2 | 0 | 0 | 0 |
+|   | haut | . . . . . | . . . . . | . . . . . | . . . . . | . . . . . | . . . . . | bas |
+| Ordre atout : | Valet | Neuf | As | Dix | Roi | Dame | Huit | Sept |
+| valeurs : | 20 | 14 | 11 | 10 | 4 | 3 | 0 | 0 |
+| Autres enseignes : | As | Dix | Roi | Dame | Valet | Neuf | Huit | Sept |
+| valeurs : | 11 | 10 | 4 | 3 | 2 | 0 | 0 | 0 |
 
-This gives 152 card points in the pack in total. There are 10 extra points for the last trick, bringing the total to 162, in addition to which bonus points may be scored.
+Cela donne 152 points de cartes au total dans le jeu. Il y a 10 points supplémentaires pour le dernier pli, portant le total à 162, en plus desquels des points bonus peuvent être marqués.
 
-## Choosing Trumps
+## Choisir l'atout
 
-There are a number of ways of deciding trumps. The players must agree before beginning to play which system will be used:
+Il y a plusieurs façons de déterminer l'atout. Les joueurs doivent s'accorder avant de commencer à jouer sur le système utilisé :
 
-**Free choice.**
-The player to dealer's left, having looked at his hand, can choose any suit as trumps or pass. If he passes, the next player has the same options, and so on clockwise around the table. If all four players pass, the player to dealer's left **must** choose trumps.
-**Variation.** Some play that the **dealer** has first chance to play, followed by the other players in clockwise order. If all pass the dealer must play.
-**Utrecht** (compulsory play)
-The player to the left of the dealer must play. He chooses a trump suit after seeing his hand.
-**Random trump.**
-A second pack of cards is shuffled and the top card turned over to determine trumps. The player to the left of the dealer has the choice of playing with the given trump or passing. If he passes then the player to his left is given the same choice. If all four players pass then another trump is chosen according to one of the following methods (to be agreed in advance):
+**Choix libre.**
+Le joueur à la gauche du donneur, après avoir regardé sa main, peut choisir n'importe quelle enseigne comme atout ou passer. S'il passe, le joueur suivant a les mêmes options, et ainsi de suite dans le sens horaire. Si les quatre joueurs passent, le joueur à la gauche du donneur **doit** choisir l'atout.
+**Variante.** Certains jouent que le **donneur** a la première chance de jouer, suivi des autres joueurs dans le sens horaire. Si tous passent, le donneur doit jouer.
+**Utrecht** (jeu obligatoire)
+Le joueur à la gauche du donneur doit jouer. Il choisit une enseigne d'atout après avoir vu sa main.
+**Atout aléatoire.**
+Un second jeu de cartes est mélangé et la carte du dessus est retournée pour déterminer l'atout. Le joueur à la gauche du donneur a le choix de jouer avec l'atout donné ou de passer. S'il passe, le joueur à sa gauche a le même choix. Si les quatre joueurs passent, un autre atout est choisi selon l'une des méthodes suivantes (à convenir à l'avance) :
 
-- Another card from the second pack is turned over; the player to the left of the dealer must play using this trump.
+- Une autre carte du second jeu est retournée ; le joueur à la gauche du donneur doit jouer avec cet atout.
 
-- The player to the left of the dealer elects trump. This must not be the same suit as has already been passed by everyone.
+- Le joueur à la gauche du donneur choisit l'atout. Il ne doit pas s'agir de la même enseigne que celle qui a déjà été passée par tout le monde.
 
-## The Play
+## Le jeu
 
-Irrespective of who chose trumps, the player to the left of the dealer leads to the first trick. The other three players must follow suit if possible. If no trumps are played, the highest card of the suit led, according to the ranking order listed above, takes the trick. If the trick contains trumps, the highest trump wins. The player taking the trick leads the next trick and so on.
+Indépendamment de qui a choisi l'atout, le joueur à la gauche du donneur mène le premier pli. Les trois autres joueurs doivent suivre l'enseigne si possible. Si aucun atout n'est joué, la carte la plus haute de l'enseigne demandée, selon l'ordre ci-dessus, remporte le pli. Si le pli contient des atouts, le plus haut atout l'emporte. Le joueur qui prend le pli mène le suivant et ainsi de suite.
 
-There are two versions of the rules governing the playing of trumps:
+Il existe deux versions des règles régissant le jeu des atouts :
 
-**Amsterdam Rules**
-1. If you cannot follow suit and the card which is winning the trick so far has been played by the opposing team then you must beat this card with a trump if you can. If they are winning with a trump, you must play a higher trump if you can. If you have no higher trump you must throw away a card of another (non-trump) suit. You are not allowed to undertrump (play a lower trump) unless your hand consists entirely of lower trumps;
-2. If you cannot follow suit and the card which is winning the trick so far is your partner's, then you may play any card of any suit, except that if your partner's winning card is a trump, you are not allowed to undertrump unless your hand consists entirely of lower trumps;
-3. If trumps are led then subsequent players must beat the highest trump so far played to the trick if they can, even if this highest trump was played by their partner. If they cannot beat the highest trump so far played, they must play a lower trump. If they have no trumps at all, they can play any card.
-**Rotterdam Rules**
-1. If you cannot follow suit, you must always play a trump if you can;
-2. When playing a trump, you must beat any trumps already played to the trick if you can (this applies when trumps are led, and also when a non-trump card was led which another player has already trumped);
-3. If you have no card of the suit led and no trumps you may play any card.
+**Règles d'Amsterdam**
+1. Si vous ne pouvez pas suivre et que la carte qui gagne le pli jusqu'ici a été jouée par l'équipe adverse, vous devez la battre avec un atout si vous le pouvez. S'ils gagnent avec un atout, vous devez jouer un atout supérieur si possible. Si vous n'avez pas d'atout supérieur, vous devez défausser une carte d'une autre enseigne (non atout). Vous n'êtes pas autorisé à sous-couper (jouer un atout inférieur) sauf si votre main se compose entièrement d'atouts inférieurs.
+2. Si vous ne pouvez pas suivre et que la carte qui gagne le pli est celle de votre partenaire, vous pouvez jouer n'importe quelle carte de n'importe quelle enseigne, sauf que si la carte gagnante de votre partenaire est un atout, vous n'êtes pas autorisé à sous-couper sauf si votre main se compose entièrement d'atouts inférieurs.
+3. Si un atout est mené, les joueurs suivants doivent battre le plus haut atout joué jusqu'ici s'ils le peuvent, même si ce plus haut atout a été joué par leur partenaire. S'ils ne peuvent pas battre le plus haut atout, ils doivent jouer un atout inférieur. S'ils n'ont aucun atout, ils peuvent jouer n'importe quelle carte.
+**Règles de Rotterdam**
+1. Si vous ne pouvez pas suivre, vous devez toujours jouer atout si vous le pouvez.
+2. En jouant atout, vous devez battre tout atout déjà joué au pli si vous le pouvez (cela s'applique quand l'atout est mené, et aussi quand une carte non atout a été menée qu'un autre joueur a déjà coupée).
+3. Si vous n'avez pas de carte de l'enseigne demandée et pas d'atout, vous pouvez jouer n'importe quelle carte.
 
-## Bonus Points
+## Points bonus
 
-The bonus points for taking a combination of cards in a trick are called **roem**. The commonest type of roem is a run, or unbroken sequence of cards in a suit. For sequences, the order of cards in each suit is **ace, king, queen, jack, ten, nine, eight, seven**. Note that this applies equally to trumps and to other suits, and is different from the ranking order of the cards for trick taking purposes. The possible roem are as follows:
+Les points bonus pour avoir pris une combinaison de cartes dans un pli sont appelés **roem**. Le type le plus courant de roem est une suite, ou séquence ininterrompue de cartes d'une enseigne. Pour les séquences, l'ordre des cartes dans chaque enseigne est **as, roi, dame, valet, dix, neuf, huit, sept**. Notez que cela s'applique aussi bien aux atouts qu'aux autres enseignes, et est différent de l'ordre de classement des cartes pour la prise de plis. Les roem possibles sont les suivants :
 
-- Run of three cards of the same suit - 20 bonus points
+- Suite de trois cartes de la même enseigne — 20 points bonus
 
-- Run of four cards of the same suit - 50 bonus points
+- Suite de quatre cartes de la même enseigne — 50 points bonus
 
-- Run of three cards of the same suit, including the king and queen of trumps - 40 bonus points
+- Suite de trois cartes de la même enseigne, incluant le roi et la dame d'atout — 40 points bonus
 
-- Run of four cards of the same suit, including the king and queen of 
-trumps - 70 bonus points
+- Suite de quatre cartes de la même enseigne, incluant le roi et la dame d'atout — 70 points bonus
 
-- Four kings, queens aces or tens - 100 bonus points
+- Quatre rois, dames, as ou dix — 100 points bonus
 
-- Four jacks - 200 bonus points
+- Quatre valets — 200 points bonus
 
-- King and queen of trumps (stuk) - 20 bonus points
+- Roi et dame d'atout (stuk) — 20 points bonus
 
-There is also a bonus of 10 points for the team who took the last trick and an additional 100 bonus points if one team takes all the tricks. 
+Il y a aussi un bonus de 10 points pour l'équipe qui a pris le dernier pli et un bonus supplémentaire de 100 points si une équipe prend tous les plis.
 
-Bonus points are noted on the score sheet as follows:
+Les points bonus sont notés sur la feuille de score comme suit :
 
 I - 20 points
 
@@ -108,116 +107,113 @@ O - 100 points
 
 OO - 200 points
 
-Players use their skill to collect bonus points in the tricks that they or their partners take, and avoid giving bonus points to the opposing pair. When bonus points are made they must be claimed by the pair who win the trick in order for them to be counted. It is sometimes correct deliberately not to claim bonus points; this happens if your team chose trumps, but you expect to lose the hand (in which case the bonus would go to the opposing team).
+Les joueurs utilisent leur habileté pour collecter des points bonus dans les plis qu'ils ou leurs partenaires prennent, et éviter d'en donner à la paire adverse. Quand des points bonus sont obtenus, ils doivent être réclamés par la paire qui gagne le pli pour être comptés. Il est parfois correct de ne pas réclamer sciemment des points bonus ; cela se produit si votre équipe a choisi l'atout mais que vous pensez perdre la donne (auquel cas le bonus irait à l'équipe adverse).
 
-## Scoring
+## Comptage des points
 
-At the end of each hand the points in the tricks of both teams are counted. Each team then adds the bonus points collected. If the team of the player who made trumps has more points than their opponents, then each team is credited with the points they obtained. If the team of the player who made trumps fail to take more points than their opponents, then the team which made trumps score no points at all, and all the points for the hand, including bonus points collected by both sides, are credited to the opposing team. 
+À la fin de chaque donne, les points dans les plis des deux équipes sont comptés. Chaque équipe ajoute ensuite les points bonus collectés. Si l'équipe du joueur qui a fait l'atout a plus de points que ses adversaires, chaque équipe est créditée des points qu'elle a obtenus. Si l'équipe du joueur qui a fait l'atout ne parvient pas à prendre plus de points que ses adversaires, l'équipe qui a fait l'atout ne marque aucun point, et tous les points de la donne, y compris les bonus collectés par les deux camps, sont crédités à l'équipe adverse.
 
-If no extra bonus points are obtained then the points in one hand add up to 162 (152 for the cards and 10 for the last trick). The team which chooses trumps must therefore obtain at least 82 points in order to score.
+S'il n'y a pas de points bonus supplémentaires, les points d'une donne s'élèvent à 162 (152 pour les cartes et 10 pour le dernier pli). L'équipe qui choisit l'atout doit donc obtenir au moins 82 points pour marquer.
 
-## Signalling
+## Signaux
 
-Signalling to your partner is an accepted part of the game, and is necessary to skilful play. The most important signals are discards to indicate to partner which is your own strong suit, and leads to indicate the strength of your trumps. There are many ways of doing this, the most common being:
+Faire des signaux à son partenaire fait partie intégrante du jeu et est nécessaire à un jeu habile. Les signaux les plus importants sont les défausses pour indiquer à son partenaire votre enseigne forte, et les menées pour indiquer la force de vos atouts. Il existe de nombreuses façons de le faire, les plus courantes étant :
 
-**Same suit signals.**
-Here you discard a low card (7, 8 or 9) of a particular suit to indicate that you have the ace (the highest card) of the same suit. Discarding a picture card of a suit warns your partner not to lead that suit.
-**Opposite suit signals.**
-Here you play any card of a red or black suit to indicate that you are strong in the other suit of the same colour. For example, playing the queen of hearts indicates to your partner that you have a strong diamonds. This method of signalling allows you to preserve a long suit and discard unwanted single cards.
-**Lead signal.**
-The player who chooses trumps and leads the first card can indicate that he has a weak trump hand. If he has the jack of trumps (the highest trump) but little else, he leads a low card of another suit. If he does not have the jack, then he should lead the ace of another suit. His partner then knows if it is safe to lead trumps or not.
+**Signaux même enseigne.**
+Ici vous défaussez une carte basse (7, 8 ou 9) d'une enseigne pour indiquer que vous avez l'as (la carte la plus haute) de la même enseigne. Défausser une figure d'une enseigne avertit votre partenaire de ne pas mener cette enseigne.
+**Signaux enseigne opposée.**
+Ici vous jouez n'importe quelle carte d'une enseigne rouge ou noire pour indiquer que vous êtes fort dans l'autre enseigne de la même couleur. Par exemple, jouer la dame de cœur indique à votre partenaire que vous avez des carreaux forts. Cette méthode de signalement vous permet de préserver une longue enseigne et de défausser des cartes unitaires indésirables.
+**Signal de menée.**
+Le joueur qui choisit l'atout et mène la première carte peut indiquer qu'il a une main faible en atout. S'il a le valet d'atout (le plus haut atout) mais peu d'autre chose, il mène une carte basse d'une autre enseigne. S'il n'a pas le valet, il devrait mener l'as d'une autre enseigne. Son partenaire sait alors s'il est sûr ou non de mener des atouts.
 
-The signalling systems to be used between partners should be discussed (and announced to the opponents) before commencing play, to avoid confusion. 
+Les systèmes de signaux à utiliser entre partenaires doivent être discutés (et annoncés aux adversaires) avant de commencer le jeu, pour éviter toute confusion.
 
-## Three Player Variation
+## Variante à trois joueurs
 
-If there are only three players then each player receives 10 cards, in batches of 4, 3 and 3. After the first batch of 3 cards to each player, two cards are placed face down in the middle of the table. 
+S'il n'y a que trois joueurs, chacun reçoit 10 cartes, par lots de 4, 3 et 3. Après le premier lot de 3 cartes à chaque joueur, deux cartes sont placées face cachée au milieu de la table.
 
-The player to the left of the dealer can elect to play with a trump suit of his choice or pass. If he passes then the player to his left can play or pass. If he passes too then the dealer can play or pass. If all 3 players pass then the dealer shuffles and deals again. Once a player has elected to play he adds the two spare cards to his hand without showing them, and then discards two cards face down to one side. Normal play now takes place, except that there are 10 tricks. The player who takes the last trick also takes the two spare cards. 
+Le joueur à la gauche du donneur peut choisir de jouer avec une enseigne d'atout de son choix ou passer. S'il passe, le joueur à sa gauche peut jouer ou passer. S'il passe aussi, le donneur peut jouer ou passer. Si les 3 joueurs passent, le donneur mélange et redistribue. Une fois qu'un joueur a choisi de jouer, il ajoute les deux cartes supplémentaires à sa main sans les montrer, puis défausse deux cartes face cachée sur le côté. Le jeu normal a alors lieu, sauf qu'il y a 10 plis. Le joueur qui prend le dernier pli prend aussi les deux cartes supplémentaires.
 
-Each player plays for his own points, but tries also to prevent the player who made trumps from obtaining more than half the points. If the trump maker succeeds in taking more than half the points, each of the three players scores the points he has taken. If the trump maker takes half the points or less, he scores nothing, and **both** of his opponents score the total points in the hand, including any bonus points.
+Chaque joueur joue pour ses propres points, mais essaie aussi d'empêcher le joueur qui a fait l'atout d'obtenir plus de la moitié des points. Si le faiseur d'atout réussit à prendre plus de la moitié des points, chacun des trois joueurs marque les points qu'il a pris. Si le faiseur d'atout prend la moitié des points ou moins, il ne marque rien, et **ses deux** adversaires marquent le total des points de la donne, y compris tous les bonus.
 
-## Other Variations
+## Autres variantes
 
-Rather than playing 16 deals, some play up to an agreed target score, for example 1500.
+Plutôt que de jouer 16 donnes, certains jouent jusqu'à un score cible convenu, par exemple 1500.
 
 ## Kraken
 
-This version is also known as **Wilde Boom** (wild tree). After the trump maker has chosen trumps, each of his opponents in turn (first the player to the left of the trump maker and then the player to the right) has the opportunity to challenge this, saying **"ik kraak"** or **"contra"**. An opponent will challenge if they think that the player choosing trumps will not get more than half the points. This challenge automatically doubles the final scores. If there is a challenge, the trump maker or his partner can challenge back (**herkraken** or **rekraken** or **ré**), again doubling the points (so they are multiplied by 4 altogether). The opponents can then challenge again (**superkraken**) so that the points are multiplied by eight.
+Cette version est aussi connue sous le nom de **Wilde Boom** (arbre sauvage). Après que le faiseur d'atout a choisi l'atout, chacun de ses adversaires à tour de rôle (d'abord le joueur à la gauche du faiseur d'atout, puis le joueur à sa droite) a l'opportunité de le contester en disant **« ik kraak »** ou **« contra »**. Un adversaire contester s'il pense que le joueur qui a choisi l'atout n'obtiendra pas plus de la moitié des points. Ce contestation double automatiquement les scores finaux. S'il y a une contestation, le faiseur d'atout ou son partenaire peut contester en retour (**herkraken** ou **rekraken** ou **ré**), doublant à nouveau les points (de sorte qu'ils sont multipliés par 4 au total). Les adversaires peuvent alors contester à nouveau (**superkraken**) de sorte que les points sont multipliés par huit.
 
-As well as scoring for card combinations (roem) in tricks, the players can also claim before playing to the first trick for any scoring combinations they have in their hands. As in normal Klaverjassen four jacks are worth 200, four aces, kings, queens or tens are worth 100, a run of three is worth 20, and a run of four is worth 50. In addition, a run of five or more cards of a suit in hand scores 100 points. The team with the highest scoring single combination scores all its combinations and the other team scores nothing for theirs. Between two equal valued combinations the one containing the highest card wins. A player who holds the king and queen of trumps (**stuk**) can always score for them irrespective of which team has the best instance of roem in hand. Stuk is not claimed at the start: the 20 points for stuk can be claimed during the play when playing either card, irrespective of which team had the highest combination. 
+En plus de marquer pour les combinaisons de cartes (roem) dans les plis, les joueurs peuvent aussi réclamer avant de jouer au premier pli pour toute combinaison à points qu'ils ont dans leur main. Comme dans le Klaverjassen normal, quatre valets valent 200, quatre as, rois, dames ou dix valent 100, une suite de trois vaut 20, et une suite de quatre vaut 50. De plus, une suite de cinq cartes ou plus d'une enseigne en main marque 100 points. L'équipe avec la combinaison la plus élevée marque toutes ses combinaisons et l'autre équipe ne marque rien. Entre deux combinaisons de même valeur, celle contenant la carte la plus haute gagne. Un joueur qui détient le roi et la dame d'atout (**stuk**) peut toujours les marquer indépendamment de l'équipe qui a le meilleur roem en main. Le stuk n'est pas réclamé au début : les 20 points pour le stuk peuvent être réclamés pendant le jeu en jouant l'une ou l'autre carte, indépendamment de l'équipe qui avait la meilleure combinaison.
 
-The play follows the rules of normal Klaverjassen. If there has been one or more **kraak**, the side which announced the last kraak needs more points than their opponents to win, and whichever team wins scores all the points in the game, the other team scoring nothing. These points are doubled, redoubled etc according to the kraaks before the beginning of play. 
+Le jeu suit les règles du Klaverjassen normal. S'il y a eu un ou plusieurs **kraak**, le camp qui a annoncé le dernier kraak doit avoir plus de points que ses adversaires pour gagner, et l'équipe qui gagne marque tous les points de la donne, l'autre équipe ne marquant rien. Ces points sont doublés, surdoublés etc. selon les kraaks avant le début du jeu.
 
-If spades are trumps then an extra double is automatically applied to the final scores.
+Si pique est l'atout, un double supplémentaire est automatiquement appliqué aux scores finaux.
 
-The web page [Leuke kaartspelen](https://www.ronaldkoster.net/kaartspelen.html) describes a version of Kraken where the final score is in *kruizen* (crosses). 16 deals are played (each player deals four times) and object is to avoid getting crosses. In this version:
+La page web [Leuke kaartspelen](https://www.ronaldkoster.net/kaartspelen.html) décrit une version du Kraken où le score final est en *kruizen* (croix). 16 donnes sont jouées (chaque joueur distribue quatre fois) et le but est d'éviter d'obtenir des croix. Dans cette version :
 
-- The first player, to the left of the dealer, must choose trumps (Utrecht rules).
+- Le premier joueur, à la gauche du donneur, doit choisir l'atout (règles d'Utrecht).
 
-- The play of the cards is according to Amsterdam rules.
+- Le jeu des cartes se fait selon les règles d'Amsterdam.
 
-- If one side wins all the tricks (pit) they score an extra 100 roem.
+- Si un camp gagne tous les plis (pit), il marque 100 roem supplémentaires.
 
-- Kraak, rekraak, etc. and the double when spades are trumps only affect the 162 points for cards and the last trick, not the points for roem.
+- Kraak, rekraak, etc. et le double quand pique est atout n'affectent que les 162 points pour les cartes et le dernier pli, pas les points de roem.
 
-- If the trump making team (without kraak) or the team that announced the final kraak fails to get more than half the points, then their opponents score the whole 162 for cards and last trick, but each side scores its own roem.
+- Si l'équipe qui a fait l'atout (sans kraak) ou l'équipe qui a annoncé le dernier kraak n'obtient pas plus de la moitié des points, ses adversaires marquent les 162 complets pour les cartes et le dernier pli, mais chaque camp marque son propre roem.
 
-- When scoring the hand, each team's card point score is divided by 10 and rounded to the nearest whole number (it is not clear, but 0.5 is probably rounded down) before applying any doubles.
+- Lors du comptage de la donne, le score de points de cartes de chaque équipe est divisé par 10 et arrondi au nombre entier le plus proche (ce n'est pas clair, mais 0,5 est probablement arrondi vers le bas) avant d'appliquer les éventuels doubles.
 
-- Each team must say kraak to the opponents' trump choice at least four times during the 16 deals.
+- Chaque équipe doit dire kraak au choix d'atout de ses adversaires au moins quatre fois pendant les 16 donnes.
 
-- Crosses are scored as follows.
+- Les croix sont comptées comme suit.
 
-- The team with the lower total point score after 16 hands gets 4 crosses.
+- L'équipe avec le score total le plus bas après 16 donnes obtient 4 croix.
 
-- If a team wins all the tricks (pit) in any deal their opponents get 1 cross, or 2 if spades are trumps.
+- Si une équipe gagne tous les plis (pit) lors d'une donne, ses adversaires obtiennent 1 croix, ou 2 si pique est l'atout.
 
-- If there is a kraak the losing team gets 2 crosses for a simple kraak, or 4 crosses for a rekraak, or 8 crosses for a superkraak: if spades are trumps the number of crosses is doubled: 4 for kraak, 8 for rekraak, 16 for superkraak.
+- S'il y a un kraak, l'équipe perdante obtient 2 croix pour un simple kraak, 4 croix pour un rekraak, ou 8 croix pour un superkraak : si pique est l'atout, le nombre de croix est doublé : 4 pour kraak, 8 pour rekraak, 16 pour superkraak.
 
-- At the end of the 16 deals the crosses scored by the two teams are compared and the team with more crosses has to pay according to the difference, an agreed amount per cross.
+- À la fin des 16 donnes, les croix comptées par les deux équipes sont comparées et l'équipe avec le plus de croix doit payer selon la différence, un montant convenu par croix.
 
-## Dutch Terminology
+## Terminologie néerlandaise
 
-**Nel** - the nine of trumps
+**Nel** — le neuf d'atout
 
-**Roem** - bonus points for sets and sequences
+**Roem** — points bonus pour les carrés et séquences
 
-**Stuk** - the king and queen of trumps
+**Stuk** — le roi et la dame d'atout
 
-**Nat** or **beet** - not getting more that half of the points
+**Nat** ou **beet** — ne pas obtenir plus de la moitié des points
 
-**Pit** or **mars** - when one team wins all the tricks
+**Pit** ou **mars** — quand une équipe gagne tous les plis
 
-**Boom** (tree) - the set of 16 deals which make up a game (or however many deals it takes before the winning team reaches 1500, if you play that way)
+**Boom** (arbre) — la série de 16 donnes qui composent une partie (ou autant de donnes que nécessaire pour que l'équipe gagnante atteigne 1500, si vous jouez ainsi)
 
-**Kleur seinen** - same suit signalling
+**Kleur seinen** — signaux même enseigne
 
-**Tegenkleur seinen** - opposite suit signalling
+**Tegenkleur ihren** — signaux enseigne opposée
 
-## Other Klaverjas WWW pages
+## Autres pages Klaverjas sur le web
 
-There were rules in French on Jean-François Bustarret's [Klaverjas](https://web.archive.org/web/20241120075100/https://www.jeuxdecartes.net/jeux-cartes/klaverjas/) page (archive copy).
+Il existait des règles en français sur la page [Klaverjas](https://web.archive.org/web/20241120075100/https://www.jeuxdecartes.net/jeux-cartes/klaverjas/) de Jean-François Bustarret (copie d'archive).
 
-The [Klaverjas page at startkabel.nl](https://klaverjas.startkabel.nl/) has a large collection of links to clubs, tournaments and other information.
+La [page Klaverjas sur startkabel.nl](https://klaverjas.startkabel.nl/) propose une grande collection de liens vers des clubs, des tournois et d'autres informations.
 
-## Klaverjassen Software and Online Klaverjassen
+## Logiciel Klaverjassen et Klaverjassen en ligne
 
-From the site [klaverjassen-op-de-pc.nl](https://www.klaverjassen-op-de-pc.nl/) you can download a shareware Klaverjassen game for Windows.
+Sur le site [klaverjassen-op-de-pc.nl](https://www.klaverjassen-op-de-pc.nl/) vous pouvez télécharger un jeu Klaverjassen shareware pour Windows.
 
-Games4All has released a [Klaverjas game](https://play.google.com/store/apps/details?id=org.games4all.android.games.klaverjas.light) for the Android platform.
+Games4All a publié un [jeu Klaverjas](https://play.google.com/store/apps/details?id=org.games4all.android.games.klaverjas.light) pour la plateforme Android.
 
-You can play Klaverjassen online at [cardzmania](https://www.cardzmania.com/).
+Vous pouvez jouer au Klaverjassen en ligne sur [cardzmania](https://www.cardzmania.com/).
 
-You can play Klaverjassen online at [VIP Klaverjas](https://vipklaverjas.nl/).
+Vous pouvez jouer au Klaverjassen en ligne sur [VIP Klaverjas](https://vipklaverjas.nl/).
 
-At GameDuell you can play [Klaverjassen online](https://www.jdoqocy.com/click-4373756-11124915)
-for fun or real money.
+Sur GameDuell vous pouvez jouer au [Klaverjassen en ligne](https://www.jdoqocy.com/click-4373756-11124915) pour le fun ou pour de l'argent réel.
 
-[Knipsoft](https://knippie.com/) has produced a Klaverjas app for Android or iOS.
+[Knipsoft](https://knippie.com/) a produit une application Klaverjas pour Android ou iOS.
 
-On the [Kaartspellen online](https://www.kaartspellen-online.nl) site, you can play Klaverjas on line against three computer opponents.
+Sur le site [Kaartspellen online](https://www.kaartspellen-online.nl), vous pouvez jouer au Klaverjas en ligne contre trois adversaires informatiques.
 
-At patiencespelen.nl you can [Klaverjassen](https://www.patiencespelen.nl/Klaverjassen) (three versions) or [Kraken](https://www.patiencespelen.nl/Klaverjassen) online against computer opponents. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Klaverjassen
+Sur patiencespelen.nl vous pouvez jouer au [Klaverjassen](https://www.patiencespelen.nl/Klaverjassen) (trois versions) ou au [Kraken](https://www.patiencespelen.nl/Klaverjassen) en ligne contre des adversaires informatiques.

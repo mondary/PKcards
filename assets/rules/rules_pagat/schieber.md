@@ -4,169 +4,167 @@
 **Nombre de cartes :** 36
 **Difficulté :** ⭐⭐⭐
 **Type :** Jass/Piquet, Plis
-**But :** A partnership game for 4 or 6 players.
+**But :** Un jeu de partenariat pour 4 ou 6 joueurs.
 
 ---
 
 - Introduction
 
-- The Slate
+- L'ardoise
 
-- The Bidding
+- Les enchères
 
-- The Rules of Play
+- Les règles du jeu
 
-- The Weis and Stöck
+- Le Weis et le Stöck
 
-- The Scoring
+- Le comptage des points
 
 ## Introduction
 
-Schieber Jass is a partnership game for four players, played with a Jass pack. The players sit opposite to their partners. Please refer to the Swiss Jass page for general rules of Jass.
+Le Schieber Jass est un jeu de partenariat pour quatre joueurs, joué avec un jeu de Jass. Les joueurs sont assis en face de leur partenaire. Veuillez vous référer à la page du Jass suisse pour les règles générales du Jass.
 
-The pack has 36 cards. There are four suits: acorns, shields, flowers, and bells. In each suit, there are nine cards: ace, king, ober, under, banner, 9, 8, 7, 6. If you cannot obtain such a pack, you can play it with a bridge or poker pack, using queens for obers, jacks for unders, 10s for banners, and discarding cards smaller than 6s. 
+Le jeu comprend 36 cartes. Il y a quatre couleurs : glands, boucliers, fleurs et cloches. Dans chaque couleur, il y a neuf cartes : as, roi, ober, under, bannière, 9, 8, 7, 6. Si vous ne pouvez pas obtenir un tel jeu, vous pouvez y jouer avec un jeu de bridge ou de poker, en utilisant les dames pour les obers, les valets pour les unders, les 10 pour les bannières, et en écartant les cartes inférieures au 6.
 
-The rank of the cards (followed by their normal point values in brackets) within each suit is: Ace(11), King(4), Ober(3), Under(2), Banner(10), 9(0), 8(0), 7(0), 6(0). However, when there is a trump suit, the rank within the it is: Under(20), 9(14), ace(11), King(4), Ober(3), Banner(10), 8(0), 7(0), 6(0). If there is no trump suit the Eights count 8 points each instead of zero, so that the total value of all the cards in the pack is always the same. These card points count for the team winning the trick containing the card. There is also a bonus of 5 points for the team which wins the last trick. Thus there is a total of 157 points in the pack.
+L'ordre des cartes (suivi de leurs valeurs normales en points entre parenthèses) dans chaque couleur est : As(11), Roi(4), Ober(3), Under(2), Bannière(10), 9(0), 8(0), 7(0), 6(0). Cependant, lorsqu'il y a une couleur d'atout, l'ordre dans celle-ci est : Under(20), 9(14), As(11), Roi(4), Ober(3), Bannière(10), 8(0), 7(0), 6(0). S'il n'y a pas de couleur d'atout, les 8 comptent 8 points chacun au lieu de zéro, pour que la valeur totale de toutes les cartes du jeu soit toujours la même. Ces points de cartes comptent pour l'équipe qui remporte le pli contenant la carte. Il y a aussi un bonus de 5 points pour l'équipe qui remporte le dernier pli. Il y a donc un total de 157 points dans le jeu.
 
-The deal and the play are anticlockwise. The dealer deals all the cards out, in threes, starting with the player on her right. Any player can deal the first hand, and the player who holds the seven of flowers is *forehand* and begins the bidding, leads to the first trick, and deals the second hand. On the second and subsequent hands the player to dealer's right is forehand, and the deal rotates to the right after each hand. A session continues until one side has scored at least 3000 points: typically this will take about twelve hands.
+La donne et le jeu se font dans le sens inverse des aiguilles d'une montre. Le donneur distribue toutes les cartes, par trois, en commençant par le joueur à sa droite. N'importe quel joueur peut donner la première main, et le joueur qui détient le 7 de fleurs est le *joueur de tête* et commence les enchères, entame le premier pli, et donne la deuxième main. À partir de la deuxième main et suivantes, le joueur à la droite du donneur est le joueur de tête, et la donne passe à droite après chaque main. Une session se poursuit jusqu'à ce qu'un camp ait marqué au moins 3000 points : cela prend généralement environ douze mains.
 
-*This page was contributed by Nick Wedd, and edited by John McLeod. *
+*Cette page a été contribuée par Nick Wedd et éditée par John McLeod.*
 
-## The Slate
+## L'ardoise
 
-To score, a slate marked as shown is traditionally used. In Switzerland, where Schieber Jass is usually played, it is possible to buy slates painted like this. If you cannot obtain such a slate, you can draw your own Zs, either on a slate or on a piece of paper, or manage without the Zs altogether.
+Pour compter, on utilise traditionnellement une ardoise marquée comme montré. En Suisse, où le Schieber Jass est généralement joué, il est possible d'acheter des ardoises peintes ainsi. Si vous ne pouvez pas obtenir une telle ardoise, vous pouvez dessiner vos propres Z, soit sur une ardoise soit sur un papier, ou vous passer des Z.
 
-Each partnership appoints a scorer. The slate is placed between the two scorers, and each uses the Z nearer to herself to record her team's score.
+Chaque partenariat désigne un compteur. L'ardoise est placée entre les deux compteurs, et chacun utilise le Z le plus proche de lui pour enregistrer le score de son équipe.
 
-Hundreds are marked on the top line of the Z. They are grouped into fives. Fifties are marked on the sloping line of the Z, and grouped in pairs. Twenties are marked on the lower line of the Z, and grouped in fives. Smaller numbers are simply written on the slate. The details of how to record a score are left to the individual scorer's discretion. For example, a score of 257 might be recorded by marking two 100s on the top line and a 50 on the middle line, and writing down "7"; or by marking two 100s on the top line, three 20s on the lower line, and erasing a "3" previously written; or by marking two 100s on the top line, three 20s on the lower line, and writing down "-3". 
+Les centaines sont marquées sur la ligne supérieure du Z. Elles sont groupées par cinq. Les cinquantes sont marquées sur la ligne oblique du Z, et groupées par paires. Les vingtaines sont marquées sur la ligne inférieure du Z, et groupées par cinq. Les nombres plus petits sont simplement écrits sur l'ardoise. Les détails de la façon d'enregistrer un score sont laissés à la discrétion du compteur. Par exemple, un score de 257 pourrait être enregistré en marquant deux 100 sur la ligne supérieure et un 50 sur la ligne du milieu, et en écrivant « 7 » ; ou en marquant deux 100 sur la ligne supérieure, trois 20 sur la ligne inférieure, et en effaçant un « 3 » écrit précédemment ; ou en marquant deux 100 sur la ligne supérieure, trois 20 sur la ligne inférieure, et en écrivant « -3 ».
 
-This shows a slate in use. The team which is scoring on the near end has 19 100s, 5 50s, 18 20s, and 8 in odd digits, for a total of 2518. The other team has 8 100s, 6 50s, 12 20s, and an odd 7, for a total of 1347. Note that as the slate is between the two scorers, they are writing opposite ways up.
+Ceci montre une ardoise en cours d'utilisation. L'équipe qui compte du côté le plus proche a 19 centaines, 5 cinquantes, 18 vingtaines, et 8 en chiffres impairs, pour un total de 2518. L'autre équipe a 8 centaines, 6 cinquantes, 12 vingtaines, et un 7 impair, pour un total de 1347. Notez que comme l'ardoise est entre les deux compteurs, ils écrivent dans des sens opposés.
 
-The same method of scoring can be used on a blank slate, without Zs. The 100s, 50s and 20s are marked in three rows, in roughly the same relative positions as if the Zs were there.
+La même méthode de comptage peut être utilisée sur une ardoise vierge, sans Z. Les 100, 50 et 20 sont marqués sur trois lignes, dans à peu près les mêmes positions relatives que si les Z étaient présents.
 
-If you don't want to bother with all this, you can instead score by adding up the numbers on a piece of paper. In doing so, you will lose nothing but authenticity.
+Si vous ne voulez pas vous embêter avec tout cela, vous pouvez plutôt compter en additionnant les nombres sur un papier. Ce faisant, vous ne perdrez que l'authenticité.
 
-## Bidding
+## Les enchères
 
-After the deal, forehand (normally the player on dealer's right, but in the first deal the holder of the seven of flowers) chooses a contract, or "shoves" - the word *schieben* means to shove. If she shoves, her partner *must* then choose a contract. Possible contracts are:
+Après la donne, le joueur de tête (normalement le joueur à la droite du donneur, mais à la première donne le détenteur du 7 de fleurs) choisit un contrat, ou « pousse » — le mot *schieben* signifie pousser. S'il pousse, son partenaire *doit* alors choisir un contrat. Les contrats possibles sont :
 
-Acorns scores single
+Les glands comptent simple
 
-Flowers scores single
+Les fleurs comptent simple
 
-Shields scores double
+Les boucliers comptent double
 
-Bells scores double
+Les cloches comptent double
 
-Obenabe scores treble
+Obenabe compte triple
 
-Undenufe scores quadruple
+Undenufe compte quadruple
 
-- **Acorns, Shields, Bells, Flowers**: play with the specified suit as trumps. If your cards have Hearts, Diamonds, Clubs and Spades instead of the Swiss suits then the black suits score single and the red suits score double.
+- **Glands, Boucliers, Cloches, Fleurs** : on joue avec la couleur spécifiée comme atout. Si vos cartes ont des Cœurs, Carreaux, Trèfles et Piques au lieu des couleurs suisses, alors les couleurs noires comptent simple et les couleurs rouges comptent double.
 
-- **Obenabe**: Play with no trumps. So that the pack will add up to the usual 157 points, the 8s also count eight points each.
+- **Obenabe** : On joue sans atout. Pour que le jeu totalise les 157 points habituels, les 8 comptent également 8 points chacun.
 
-- **Undenufe**: Play with no trumps, and the suits inverted. The suit order is thus 6 (highest), 7, 8, 9, Banner, Under, Ober, King, Ace (lowest). As in Obenabe, the 8s count eight points each. Undenufe is pronounced with the d and the f silent.
+- **Undenufe** : On joue sans atout, avec l'ordre des couleurs inversé. L'ordre des couleurs est donc 6 (le plus haut), 7, 8, 9, Bannière, Under, Ober, Roi, As (le plus bas). Comme à l'Obenabe, les 8 comptent 8 points chacun. Undenufe se prononce avec le d et le f muets.
 
-The single, double, treble, and quadruple apply to *all* scores made on the hand: tricks, Weis, and Stöck.
+Le simple, double, triple et quadruple s'appliquent à *tous* les scores réalisés lors de la main : plis, Weis et Stöck.
 
-## Rules of Play
+## Règles du jeu
 
-The play is in tricks. Forehand leads to the first trick (on the first hand this is the holder of the seven of flowers; on subsequent hands it is the player to dealer's right). The winner of each trick leads to the next. 
+Le jeu se fait en plis. Le joueur de tête entame le premier pli (à la première main, c'est le détenteur du 7 de fleurs ; aux mains suivantes, c'est le joueur à la droite du donneur). Le gagnant de chaque pli entame le suivant.
 
-If there is no trump suit, the other players are obliged to follow suit when they can do so; those who cannot follow suit may play any card. A trick is won by the highest card of the suit led.
+S'il n'y a pas de couleur d'atout, les autres joueurs sont tenus de suivre la couleur lorsqu'ils le peuvent ; ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Un pli est remporté par la plus haute carte de la couleur demandée.
 
-If there is a trump suit, a player who is able to follow suit must *either* do so *or* play a trump; a player who cannot follow suit may play any card subject to the restrictions on undertrumping explained below. A trick is won by the highest trump in it; or if there were no trumps, by the highest card of the suit led.
+S'il y a une couleur d'atout, un joueur capable de suivre doit *soit* le faire *soit* jouer un atout ; un joueur qui ne peut pas suivre peut jouer n'importe quelle carte sous réserve des restrictions de sous-coupe expliquées ci-dessous. Un pli est remporté par le plus haut atout qu'il contient ; ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée.
 
-If a non-trump is led, and someone has already played a trump on it, subsequent players are not allowed to undertrump unless they have nothing but trumps in their hand. If you hold cards other than trumps and can follow suit, you must either follow suit or play a trump which is larger than the highest trump played to the trick so far; if you hold cards other than trumps but cannot follow suit, you may play any card except a trump which does not beat the highest so far played to the trick.
+Si une couleur non-atout est demandée et que quelqu'un a déjà joué un atout, les joueurs suivants ne sont pas autorisés à sous-couper sauf s'ils n'ont que des atouts dans leur main. Si vous détenez des cartes autres que des atouts et pouvez suivre, vous devez soit suivre soit jouer un atout supérieur au plus haut atout joué dans le pli jusqu'ici ; si vous détenez des cartes autres que des atouts mais ne pouvez pas suivre, vous pouvez jouer n'importe quelle carte sauf un atout qui ne bat pas le plus haut joué jusqu'ici.
 
-A player is *never* compelled to play the Under of trumps (known as the *Puur*). If trumps are led, and a player holds no trump other than the Puur, she need not play it but may play any other card.
+Un joueur n'est *jamais* obligé de jouer l'Under d'atout (connu comme le *Puur*). Si l'atout est demandé et qu'un joueur ne détient pas d'autre atout que le Puur, il n'est pas tenu de le jouer et peut jouer n'importe quelle autre carte.
 
-## Weis and Stöck
+## Weis et Stöck
 
-As the first trick is being played, players announce their Weis. For an explanation of Weis, see the General Rules of Jass. The partnership with the best single instance of Weis scores points for all their Weis; the other partnership do not score for any Weis they may hold. Weis are scored on the slate immediately, remembering to multiply by the factor for the contract. E.G. the contract is obenabe, a player announces four obers, and her partner announces a sequence of three. Obenabe is worth treble, so 3 times (100 plus 20) is 360. This might be scored as three strokes on the top line of the slate and three on the lower line. 
+Pendant que le premier pli est joué, les joueurs annoncent leur Weis. Pour une explication du Weis, voir les règles générales du Jass. Le partenariat ayant la meilleure instance unique de Weis marque des points pour tous ses Weis ; l'autre partenariat ne marque aucun point pour les Weis qu'il pourrait détenir. Les Weis sont marqués sur l'ardoise immédiatement, en n'oubliant pas de multiplier par le facteur du contrat. Par exemple, le contrat est obenabe, un joueur annonce quatre obers, et son partenaire annonce une séquence de trois. L'Obenabe vaut triple, donc 3 fois (100 plus 20) fait 360. Cela pourrait être marqué par trois traits sur la ligne supérieure de l'ardoise et trois sur la ligne inférieure.
 
-A player who holds both the king and ober of trumps may announce "stöck" as she plays the second of them, for 20 points. This 20 is multiplied by the factor for the contract, and scored on the slate when it is announced.
+Un joueur qui détient à la fois le roi et l'ober d'atout peut annoncer « stöck » lorsqu'il joue le deuxième, pour 20 points. Ces 20 sont multipliés par le facteur du contrat, et marqués sur l'ardoise lorsqu'ils sont annoncés.
 
-## Scoring
+## Comptage des points
 
-At the end of each hand, each side adds up the trick points they have taken, remembering to include 5 points for the last trick. The two totals should add up to 157. If either side took all nine tricks, they add a bonus of 100 for "match" to their score of 157, making 257. Each side then multiplies its total card points for tricks by the factor for the hand, and scores it on the slate.
+À la fin de chaque main, chaque camp additionne les points de plis qu'il a pris, en n'oubliant pas d'inclure 5 points pour le dernier pli. Les deux totaux doivent s'élever à 157. Si l'un des camps a remporté les neuf plis, il ajoute un bonus de 100 pour le « match » à son score de 157, faisant 257. Chaque camp multiplie ensuite son total de points de cartes pour les plis par le facteur de la main, et le marque sur l'ardoise.
 
-## Winning the Game
+## Gagner la partie
 
-The first team to achieve a total of 3000 points wins the game. This may happen in the middle of a hand. If the losing partnership have not by then reached 1500 points, they are said to be *Schneider*, and the winners win two games.
+La première équipe à atteindre un total de 3000 points gagne la partie. Cela peut arriver au milieu d'une main. Si le partenariat perdant n'a pas encore atteint 1500 points à ce moment, on dit qu'il est *Schneider*, et les vainqueurs gagnent deux parties.
 
-Because of the scoring method, and because players may count the values of tricks already made in the course of a hand (without being able to turn them over and look at them), it may not be obvious when this total has been achieved. So any player may at any time claim to have won the game. When such a claim is made, play ceases, a player who held the king and ober of trumps at the start of the hand may announce stöck and score it, and the tricks made by the claiming partnership are counted and scored. Then the total recorded on the slate for that partnership is added up. If it is then at least 3000, the claiming partnership has won. Otherwise they have lost.
+En raison de la méthode de comptage, et parce que les joueurs peuvent compter la valeur des plis déjà réalisés au cours d'une main (sans pouvoir les retourner et les regarder), il peut ne pas être évident quand ce total a été atteint. Ainsi, n'importe quel joueur peut à tout moment prétendre avoir gagné la partie. Lorsqu'une telle réclamation est faite, le jeu cesse, un joueur qui détenait le roi et l'ober d'atout en début de main peut annoncer le stöck et le marquer, et les plis réalisés par le partenariat revendiquateur sont comptés et marqués. Le total enregistré sur l'ardoise pour ce partenariat est alors additionné. S'il atteint au moins 3000, le partenariat revendiquateur a gagné. Sinon, il a perdu.
 
-If one partnership claims to have won in the first trick of a hand, the other partnership may itself claim to have won. The question is then, who won first? In cases in which both partnerships claim, the question is resolved by using the rule **Stöck-Weis-Stich**. First of all, **Stöck** is scored (the hand has ended, so it may be announced by anyone who held it). If this takes the partnership scoring it to 3000 or over, then they win. Then **Weis** is scored. Again, if this takes the partnership scoring it to 3000 or over, then they win. Finally, **Stich** is scored, by adding up the points in the trick that has been played, and seeing if the partnership winning it has achieved 3000.
+Si un partenariat revendique avoir gagné au premier pli d'une main, l'autre partenariat peut lui-même revendiquer avoir gagné. La question est alors : qui a gagné en premier ? Dans les cas où les deux partenariats revendiquent, la question est résolue en utilisant la règle **Stöck-Weis-Stich**. D'abord, le **Stöck** est marqué (la main est terminée, il peut donc être annoncé par quiconque le détenait). Si cela porte le partenariat qui le marque à 3000 ou plus, alors il gagne. Ensuite, le **Weis** est marqué. Encore une fois, si cela porte le partenariat qui le marque à 3000 ou plus, alors il gagne. Enfin, le **Stich** est marqué, en additionnant les points dans le pli qui a été joué, et en vérifiant si le partenariat qui le remporte a atteint 3000.
 
-## Variations
+## Variantes
 
-The **Stöck-Weis-Stich** rule is variable. Sometimes the house rule is **Stöck-Stich-Weis**, or another permutation. In some Swiss cafés, you will see a notice saying "Stöck-Weis-Stich" or whatever: this is the local house rule, hung up by the management to avoid disputes among customers.
+La règle **Stöck-Weis-Stich** est variable. Parfois, la règle de la maison est **Stöck-Stich-Weis**, ou une autre permutation. Dans certains cafés suisses, vous verrez un avis indiquant « Stöck-Weis-Stich » ou autre chose : c'est la règle locale de la maison, affichée par la direction pour éviter les litiges entre clients.
 
-Some do not allow Obenabe and Undenufe.
+Certains ne permettent pas l'Obenabe et l'Undenufe.
 
-The object of the game is to be the first to achieve 3000 points. Some players regard being the first to achieve 1500 points as a subsidiary object. This is known as the Bergpreis: the partnership that first gets to 1500 is first to the summit of the mountain (Berg, in German), while the primary object is to get down the other side of the mountain again. This is thought to have something to do with bicycle races.
+Le but du jeu est d'être le premier à atteindre 3000 points. Certains joueurs considèrent être le premier à atteindre 1500 points comme un objectif secondaire. C'est le Bergpreis : le partenariat qui arrive en premier à 1500 est le premier au sommet de la montagne (Berg, en allemand), tandis que l'objectif principal est de redescendre de l'autre côté. On pense que cela a quelque chose à voir avec les courses cyclistes.
 
-Schieber Jass can be played by **six players**, in two partnerships of three, sitting alternately. Forehand can shove to the partner sitting two places to her right, who can shove to the third partner. Using a normal Jass pack everyone gets 6 cards, but it is also possible to play with a double pack from which the cards below 9 are removed, so that there are 48 cards and everyone gets 8. When playing with a double pack the second played of two equal cards beats the first.
+Le Schieber Jass peut être joué à **six joueurs**, en deux partenariats de trois, assis en alternance. Le joueur de tête peut pousser au partenaire assis deux places à sa droite, qui peut pousser au troisième partenaire. Avec un jeu de Jass normal, chacun reçoit 6 cartes, mais il est aussi possible de jouer avec un double jeu dont les cartes inférieures au 9 sont retirées, soit 48 cartes et chacun reçoit 8. En jouant avec un double jeu, la deuxième carte jouée de deux cartes égales bat la première.
 
-Most people nowadays play that in Undenufe, the Aces are worth 0 points and the 6s are worth 11 points. In our opinion this is a pity, as it makes the play less interesting. Some people (usually the same ones) allow four 6s as a Weis when playing undenufe. This then replaces four aces.
+De nos jours, la plupart des gens jouent qu'à l'Undenufe, les as valent 0 point et les 6 valent 11 points. À notre avis, c'est dommage, car cela rend le jeu moins intéressant. Certains (généralement les mêmes) autorisent quatre 6 comme Weis en jouant à l'undenufe. Cela remplace alors quatre as.
 
-Some allow four 9s as a Weis, worth 150. Most do not.
+Certains autorisent quatre 9 comme Weis, pour 150. La plupart non.
 
-Some players now allow a Weis of four of any rank, scoring 100 (except for four unders which are worth 200, and four nines which may by agreement score 150).
+Certains joueurs autorisent désormais un Weis de quatre de n'importe quel rang, pour 100 (sauf pour quatre unders qui valent 200, et quatre 9 qui peuvent par accord valoir 150).
 
-Some people now play the "large weis", in which sequences of more than five cards score extra (20 or 50 more per card), and a card can be used simultaneously as part of a four of a kind and a sequence.
+Certains jouent désormais le « grand weis », dans lequel les séquences de plus de cinq cartes rapportent des points supplémentaires (20 ou 50 supplémentaires par carte), et une carte peut être utilisée simultanément comme partie d'un carré et d'une séquence.
 
-Some people allow zurückschieben (shoving back), whereby after forehand has shoved, her partner can shove back, forcing forehand to choose the contract after all.
+Certains autorisent le zurückschieben (repousser), par lequel après que le joueur de tête a poussé, son partenaire peut repousser, forçant le joueur de tête à choisir le contrat finalement.
 
-There are many variations on the multiples applied to the various suits, obenabe and undenuffe. Some people play all contracts scoring single, in which case the total needed for game is reduced to 1000, and the target for the Bergpreis, and the amount the losers need to score to avoid Schneider, is 500.
+Il existe de nombreuses variantes sur les multiplicateurs appliqués aux différentes couleurs, obenabe et undenufe. Certains jouent tous les contrats comptant simple, auquel cas le total nécessaire pour la partie est réduit à 1000, et l'objectif pour le Bergpreis, ainsi que le montant que les perdants doivent marquer pour éviter le Schneider, est de 500.
 
-Coiffeur Schieber is a modern variation in which each contract must be played by each team (or player) once during the session - see the Coiffeur Schieber page. The additional contracts Slalom, Gusti and TUO found in Coiffeur Schieber can also be introduced into normal Schieber.
+Le Coiffeur Schieber est une variante moderne dans laquelle chaque contrat doit être joué par chaque équipe (ou joueur) une fois pendant la session — voir la page du Coiffeur Schieber. Les contrats supplémentaires Slalom, Gusti et TUO du Coiffeur Schieber peuvent également être introduits dans le Schieber normal.
 
-## Advice on Skilful Play
+## Conseils pour un jeu habile
 
-Forehand should not make a "vegetable" suit (acorns or flowers) trumps unless there is a hope of being able to make match. By choosing to play in a low-valued contract, she might be preventing her partner from nominating a very profitable contract.
+Le joueur de tête ne devrait pas faire d'une couleur « végétale » (glands ou fleurs) l'atout, sauf s'il y a un espoir de faire le match. En choisissant de jouer dans un contrat de faible valeur, il pourrait empêcher son partenaire de nommer un contrat très rentable.
 
-If your partner shoves to you, and your hand is no use for anything, choose a low-valued contract so that you will not lose too badly.
+Si votre partenaire vous pousse et que votre main ne sert à rien, choisissez un contrat de faible valeur pour ne pas perdre trop.
 
-If you shove, and your partner calls a trump suit, lead a trump.
+Si vous poussez et que votre partenaire nomme une couleur d'atout, entamez un atout.
 
-If you have five cards in the same suit, or four cards including the Under in the same suit, it may be good to play a contract with that suit as trumps.
+Si vous avez cinq cartes de la même couleur, ou quatre cartes dont l'Under dans la même couleur, il peut être bon de jouer un contrat avec cette couleur comme atout.
 
-If you have a chance of making match, play in a way which might let you do so, even if it is more likely to result in the unnecessary loss of one trick.
+Si vous avez une chance de faire le match, jouez d'une façon qui pourrait vous y permettre, même si cela risque de résulter en la perte inutile d'un pli.
 
-Try never to choose a contract in which you cannot guarantee a single trick: your opponents might make match against you.
+Essayez de ne jamais choisir un contrat dans lequel vous ne pouvez pas garantir un seul pli : vos adversaires pourraient faire le match contre vous.
 
-In choosing a contract, remember the weis. E.G. if you are dealt:
+En choisissant un contrat, n'oubliez pas le weis. Par exemple, si on vous donne :
 
-| acorns | U 6 |
-| shields | U 9 7 |
-| flowers | A U |
-| bells | U 8 |
+| glands | U 6 |
+| boucliers | U 9 7 |
+| fleurs | A U |
+| cloches | U 8 |
 
-consider bidding undenufe. You probably won't do very well in the play (shields would play better). But you are guaranteed one trick so you won't have match made against you, and the 200 Weis for four unders will be multiplied by four. So you will score at least 800 points. Of course, you should consider how many points each partnership needs before deciding whether to do this. 
+envisagez d'enchérir undenufe. Vous ne ferez probablement pas très bien dans le jeu (les boucliers joueraient mieux). Mais vous êtes assuré d'un pli donc vous n'aurez pas le match contre vous, et les 200 Weis pour quatre unders seront multipliés par quatre. Vous marquerez donc au moins 800 points. Bien sûr, vous devriez considérer de combien de points chaque partenariat a besoin avant de décider si vous le faites.
 
-In choosing a contract, consider the score. If you are well behind, you should be more inclined to take risks and choose high-valued contracts, in the hope of catching up. 
+En choisissant un contrat, considérez le score. Si vous êtes bien en retard, vous devriez être plus enclin à prendre des risques et à choisir des contrats de forte valeur, en espérant de rattraper.
 
-The score may also affect the way that you play. The validity of any of the above items of advice may be affected by the score.
+Le score peut aussi affecter la façon dont vous jouez. La validité de n'importe lequel des conseils ci-dessus peut être affectée par le score.
 
-If you are playing a suit contract, and an opponent leads the Ace of a side suit in which you hold the King, you can trump the Ace and then lead the King to win another trick. This is possible in Jass games because of the trumping rule, which is different from that in whist or bridge.
+Si vous jouez un contrat à l'atout et qu'un adversaire entame l'As d'une couleur secondaire dans laquelle vous détenez le Roi, vous pouvez couper l'As puis entamer le Roi pour gagner un autre pli. C'est possible dans les jeux de Jass en raison de la règle de coupe, qui est différente de celle du whist ou du bridge.
 
-## Other Sites and Software
+## Autres sites et logiciels
 
-At the French language site [Chibre.ch](https://www.chibre.ch) you can play Chibre (Schieber) online against live opponents.
+Sur le site francophone [Chibre.ch](https://www.chibre.ch) vous pouvez jouer au Chibre (Schieber) en ligne contre des adversaires en direct.
 
-The website [jasse.ch](http://jasse.ch/) offers a free online Schieber Jass game.
+Le site [jasse.ch](http://jasse.ch/) propose un jeu de Schieber Jass en ligne gratuit.
 
-At Jürg von Burg's [Jass site](http://jass.e-act.ch/) you can play online against computer opponents: informal games and 'championship' games.
+Sur le [site Jass](http://jass.e-act.ch/) de Jürg von Burg, vous pouvez jouer en ligne contre des adversaires informatiques : des parties informelles et des « championnats ».
 
-Michael Gasser's [Jass!! program](https://www.swissjass.ch) plays Schieber Jass and several other Swiss Jass games.
+Le programme [Jass!! de Michael Gasser](https://www.swissjass.ch) permet de jouer au Schieber Jass et à plusieurs autres jeux de Jass suisse.
 
-With the [Cyberjass](https://www.cyberjass.com) program, you can play against the computer, or against live opponents over a network.
+Avec le programme [Cyberjass](https://www.cyberjass.com), vous pouvez jouer contre l'ordinateur ou contre des adversaires en direct sur un réseau.
 
-A very smartly produced Schieber Jass program, called **Stöck Wyys Stich**, is available on CD from [Optobyte AG](https://www.optobyte.ch). It runs under Windows or on a Macintosh and includes numerous options to select the variation you prefer - even down to which Swiss dialect each computer player should speak. The game can also be played over a network.
+Un programme de Schieber Jass très soigneusement réalisé, appelé **Stöck Wyys Stich**, est disponible sur CD auprès d'[Optobyte AG](https://www.optobyte.ch). Il fonctionne sous Windows ou sur Macintosh et comprend de nombreuses options pour sélectionner la variante que vous préférez — jusqu'au choix du dialecte suisse que chaque joueur informatique doit parler. Le jeu peut également être joué sur un réseau.
 
-Yves Kirschmann has developed the software [jassMaster2k](https://www.kirschmann.ch/jassmaster2k) for organising and scoring Jass tournaments.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Swiss Jass > Schieber Jass
+Yves Kirschmann a développé le logiciel [jassMaster2k](https://www.kirschmann.ch/jassmaster2k) pour organiser et compter les tournois de Jass.

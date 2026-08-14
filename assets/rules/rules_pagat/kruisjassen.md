@@ -2,97 +2,95 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A straightforward Jass game for four players in fixed partnerships.
+**But :** Un jeu de Jass simple à quatre joueurs en partenariates fixes.
 
 ---
 
 ## Introduction
 
-Kruisjassen is a Dutch jass game played by four players in fixed partnerships, two against two. This format gives the game its name, which means cross-jass. As played in the east of the Netherlands it is one of the most straightforward forms of jass, simpler than the better known game Klaverjassen. There is no bidding, trumps are chosen simply by turning a card at the end of the deal, and the result is determined by the value of cards taken in tricks - there are no extra points for card combinations. 
+Le Kruisjassen est un jeu de Jass néerlandais joué par quatre joueurs en partenariates fixes, deux contre deux. Ce format donne son nom au jeu, qui signifie Jass en croix. Tel qu'il est joué dans l'est des Pays-Bas, c'est l'une des formes les plus simples de Jass, plus simple que le Klaverjassen mieux connu. Il n'y a pas d'enchères, l'atout est choisi simplement en retournant une carte à la fin de la distribution, et le résultat est déterminé par la valeur des cartes prises en plis — il n'y a pas de points supplémentaires pour les combinaisons de cartes.
 
-*This page is based on a contribution from Edon van Asseldonk, supplemented by information on other variants from various books and websites.*
+*Cette page est basée sur une contribution d'Edon van Asseldonk, complétée par des informations sur d'autres variantes issues de divers livres et sites web.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, two against two, each player sitting opposite their partner and between the two opponents.
+Il y a quatre joueurs en partenariates fixes, deux contre deux, chaque joueur assis en face de son partenaire et entre les deux adversaires.
 
-A 32-card French suited pack is used. As is usual in jass games the ranking of cards in the trump suit is different from the ranking in non-trump suits, the jack and nine of trumps being the most powerful cards. The card ranks from high to low and their values are as follows:
+On utilise un jeu de 32 cartes aux enseignes françaises. Comme c'est habituel dans les jeux Jass, l'ordre des cartes dans l'enseigne d'atout est différent de celui des enseignes non atout, le valet et le neuf d'atout étant les cartes les plus puissantes. L'ordre des cartes du plus haut au plus bas et leurs valeurs sont les suivants :
 
-| trump suit | value | | other suits | value |
-| jack | 20 | ace | 11 |
-| nine | 14 | king | 3 |
-| ace | 11 | queen | 2 |
-| king | 3 | jack | 1 |
-| queen | 2 | ten | 10 |
-| ten | 10 | nine | 0 |
-| eight | 0 | eight | 0 |
-| seven | 0 | seven | 0 |
+| enseigne d'atout | valeur | | autres enseignes | valeur |
+| valet | 20 | as | 11 |
+| neuf | 14 | roi | 3 |
+| as | 11 | dame | 2 |
+| roi | 3 | valet | 1 |
+| dame | 2 | dix | 10 |
+| dix | 10 | neuf | 0 |
+| huit | 0 | huit | 0 |
+| sept | 0 | sept | 0 |
 
-In addition the last trick is worth 5 points so that the total number of points available in each deal is 146.
+De plus, le dernier pli vaut 5 points, soit un total de 146 points disponibles à chaque donne.
 
-Deal and play are clockwise and the turn to deal passes to the left after each hand.
+La distribution et le jeu sont dans le sens horaire et le tour de distribuer passe à la gauche après chaque donne.
 
-## Deal
+## Distribution
 
-The dealer shuffles the pack and offers it to the player to the left to cut. The dealer than deals a packet of three cards to each player, then a packet of two to each, then another packet of three to each. The last packet of three thus belongs to the dealer, but the last card of this packet, the bottom card of the pack, is placed face cup on the table for all to see and determines the trump suit for the hand. When everyone has seen this trump indicator card it is taken into the dealer's hand so that each player has a hand of 8 cards.
+Le donneur mélange le jeu et l'offre au joueur à sa gauche pour couper. Le donneur distribue ensuite un paquet de trois cartes à chaque joueur, puis un paquet de deux, puis un autre paquet de trois. Le dernier paquet de trois appartient ainsi au donneur, mais la dernière carte de ce paquet, la carte du bas du jeu, est placée face visible sur la table pour que tous la voient et détermine l'enseigne d'atout de la donne. Quand tout le monde a vu cette carte indicatrice d'atout, elle est reprise dans la main du donneur de sorte que chaque joueur a une main de 8 cartes.
 
-## Play
+## Le jeu
 
-The player to dealer's left leads to the first trick and thereafter the winner of each trick leads to the next. Any card may be led to a trick.
+Le joueur à la gauche du donneur mène le premier pli et ensuite le vainqueur de chaque pli mène le suivant. N'importe quelle carte peut être menée.
 
-If a non-trump is led then players who hold a card or cards of this suit must either follow suit or play a trump. A non-trump card of a different suit can only be played if the player has no cards of the suit led. When playing a trump on a non-trump lead, it must be higher than any trumps previously played to the trick. A lower trump can only be played if the player has no option - i.e. a hand consisting entirely of lower trumps.
+Si une carte non atout est menée, les joueurs qui détiennent une ou plusieurs cartes de cette enseigne doivent soit suivre soit jouer atout. Une carte non atout d'une enseigne différente ne peut être jouée que si le joueur n'a pas de carte de l'enseigne demandée. En jouant atout sur une demande non atout, l'atout doit être plus élevé que tout atout déjà joué au pli. Un atout inférieur ne peut être joué que si le joueur n'a pas d'autre option — c'est-à-dire une main composée entièrement d'atouts inférieurs.
 
-If a trump is led then the other players must play trumps if they have them. Any trump may be played - when a trump has been played there is no requirement to play higher. A player who has no trumps may play any card.
+Si un atout est mené, les autres joueurs doivent jouer atout s'ils en ont. N'importe quel atout peut être joué — quand un atout a été joué, il n'y a aucune obligation de jouer plus haut. Un joueur qui n'a pas d'atout peut jouer n'importe quelle carte.
 
-The trick is won by the highest trump in it or, if it contains no trumps, by the highest card of the suit that was led.
+Le pli est gagné par le plus haut atout qu'il contient ou, s'il n'y en a pas, par la plus haute carte de l'enseigne demandée.
 
-## Scoring
+## Comptage des points
 
-When all eight tricks have been played, each team adds up the total value of the cards in the tricks they have won, the winners of the last trick adding 5 more card points for that. If one team has 100 or more of the 146 available card points they score 2 game points. If one team wins all the tricks they score 5 game points instead of 2. If neither team has as many as 100 card points then no game points are scored. 
+Quand les huit plis ont été joués, chaque équipe additionne la valeur totale des cartes dans les plis qu'elle a gagnés, les vainqueurs du dernier pli ajoutant 5 points de cartes supplémentaires. Si une équipe a 100 points ou plus sur les 146 points de cartes disponibles, elle marque 2 points de partie. Si une équipe gagne tous les plis, elle marque 5 points de partie au lieu de 2. Si aucune équipe n'a au moins 100 points de cartes, aucun point de partie n'est marqué.
 
-The first team to reach a cumulative score of 11 or more game points over as many deals as it takes wins the game.
+La première équipe à atteindre un score cumulé de 11 points de partie ou plus sur autant de donnes que nécessaire gagne la partie.
 
-## Variations
+## Variantes
 
-### Fixed length game
+### Partie à durée fixe
 
-Instead of playing to a target, some instead agree to play a fixed number of deals, for example 8, and add up their card points over those 8 deals, the team with the higher grand total being the winners.
+Au lieu de jouer jusqu'à un seuil, certains conviennent de jouer un nombre fixe de donnes, par exemple 8, et d'additionner leurs points de cartes sur ces 8 donnes, l'équipe ayant le total le plus élevé étant gagnante.
 
-On the [Kruisjassen page](https://cardgameshub.com/knowledge-center/kruisjassen-card-game-rules/) of his Cash Game Strategy site, Edon van Asseldonk includes a score sheet for a session of a cafe tournament played in Vragende in the province of Gelderland. This session consisted of 16 deals. In this tournament any team that took all 8 tricks in a deal scored an extra bonus of 100 card points (total 246). Winning all the counting cards and the last trick but losing a trick containing only worthless cards but not all the tricks would score just 146.
+Sur la [page Kruisjassen](https://cardgameshub.com/knowledge-center/kruisjassen-card-game-rules/) de son site Cash Game Strategy, Edon van Asseldonk inclut une feuille de score pour une session d'un tournoi de café joué à Vragende dans la province de Gueldre. Cette session consistait en 16 donnes. Dans ce tournoi, toute équipe qui prenait les 8 plis lors d'une donne marquait un bonus supplémentaire de 100 points de cartes (total 246). Gagner toutes les cartes comptantes et le dernier pli mais perdre un pli ne contenant que des cartes sans valeur sans gagner tous les plis ne marquait que 146.
 
-### Kruisjassen with Tik
+### Kruisjassen avec Tik
 
-This variant is included in the description on the [Twentse Volkscultuur](https://www.scholieren.com/verslag/praktische-opdracht-geschiedenis-twente) page of the scholieren.com website (in the appendix "Bijlage B Spelregels bij Twentse spelen" near the bottom of the page). 
+Cette variante est incluse dans la description sur la page [Twentse Volkscultuur](https://www.scholieren.com/verslag/praktische-opdracht-geschiedenis-twente) du site scholieren.com (dans l'annexe « Bijlage B Spelregels bij Twentse spelen » vers le bas de la page).
 
-In this variant, if a team reaches 50 card points during the play, either member of the team may tap the table. They then score just 1 game point for the deal. If both teams reach 50 it is the first team that taps who wins the point. 
+Dans cette variante, si une équipe atteint 50 points de cartes pendant le jeu, n'importe quel membre de l'équipe peut taper sur la table. L'équipe marque alors seulement 1 point de partie pour la donne. Si les deux équipes atteignent 50, c'est la première équipe qui tape qui gagne le point.
 
-After a tap there is no extra score for taking 100 or more card points, but if a team that taps goes on to win every trick they score 6 game points.
+Après un tap, il n'y a pas de score supplémentaire pour avoir pris 100 points de cartes ou plus, mais si une équipe qui a tapé continue à gagner tous les plis, elle marque 6 points de partie.
 
-Note that 50 card points is enough to guarantee that the opposing team cannot take as many as100 card points in that deal. The usual reason for tapping is that although your opponents cannot win the deal, you think your team will probably not reach 100 card points, so you forgo the chance to score 2 game points and instead claim 1 game point for the tap, which is better for you than scoring 0-0 for a draw when neither team reaches 100. Another possible reason for tapping is as a way to score 6 game points rather than 5 if you think your team will win all the tricks.
+Notez que 50 points de cartes suffisent pour garantir que l'équipe adverse ne peut pas atteindre 100 points de cartes lors de cette donne. La raison habituelle de taper est que bien que vos adversaires ne puissent pas gagner la donne, vous pensez que votre équipe n'atteindra probablement pas 100 points de cartes, vous renoncez donc à la chance de marquer 2 points de partie et réclamez plutôt 1 point de partie pour le tap, ce qui est mieux pour vous que de marquer 0-0 pour un match nul quand aucune équipe n'atteint 100. Une autre raison possible de taper est comme moyen de marquer 6 points de partie plutôt que 5 si vous pensez que votre équipe va gagner tous les plis.
 
-### Kruisjassen with Roem
+### Kruisjassen avec Roem
 
-Descriptions of Kruisjassen are to be found in many 20th century Dutch card game books, and all of them feature extra points for card combinations held in a player's hand, known as *roem* and *stuk*. It may be that this version is not longer played, or possibly it is still found in some other regions of the Netherlands.
+On trouve des descriptions du Kruisjassen dans de nombreux livres néerlandais de jeux de cartes du 20e siècle, et toutes comportent des points supplémentaires pour les combinaisons de cartes détenues en main, appelées *roem* et *stuk*. Il se peut que cette version ne soit plus jouée, ou qu'on la trouve encore dans d'autres régions des Pays-Bas.
 
-There are two types of *roem*: **sequences** of 3 or more cards in a suit and **sets** of four aces, kings, queens, jacks or tens. For the purpose of forming sequences, all suits rank in the non-trump order A-K-Q-J-10-9-8-7. The scores for these combinations are as follows:
+Il y a deux types de *roem* : les **séquences** de 3 cartes ou plus d'une enseigne et les **carrés** de quatre as, rois, dames, valets ou dix. Pour former des séquences, toutes les enseignes sont classées dans l'ordre non atout A-R-D-V-10-9-8-7. Les scores de ces combinaisons sont les suivants :
 
-| four jacks | 200 |
-| sequence of 5 or more | 100 |
-| four aces | 100 |
-| four kings | 100 |
-| four queens | 100 |
-| four tens | 100 |
-| sequence of 4 | 50 |
-| sequence of 3 | 20 |
+| quatre valets | 200 |
+| séquence de 5 ou plus | 100 |
+| quatre as | 100 |
+| quatre rois | 100 |
+| quatre dames | 100 |
+| quatre dix | 100 |
+| séquence de 4 | 50 |
+| séquence de 3 | 20 |
 
-Each player, just before playing to the first trick, declares their best instance of *roem* (if any) unless a higher combination has already been declared. Only one team can score for *roem*: the team that had the best instance of *roem* scores for all the *roem* in both their hands while the other team's *roem* scores nothing.
+Chaque joueur, juste avant de jouer au premier pli, déclare sa meilleure instance de *roem* (s'il y en a) sauf si une combinaison supérieure a déjà été déclarée. Une seule équipe peut marquer pour le *roem* : l'équipe qui a eu la meilleure instance de *roem* marque pour tout le *roem* dans les deux mains de l'équipe tandis que le *roem* de l'autre équipe ne marque rien.
 
-The types of *roem* are listed above in descending order. Between two sequences of equal length the sequence with the higher top card in non-trump order is better, if the top cards are equal the trump sequence** is better, and if neither is in trumps the one declared by the player who played earlier to the first trick is better. The team who score their *roem* must show all the combinations they will score for at the end of the first trick. 
+Les types de *roem* sont listés ci-dessus par ordre décroissant. Entre deux séquences de même longueur, la séquence avec la carte la plus haute dans l'ordre non atout est meilleure, si les cartes hautes sont égales la séquence à l'atout est meilleure, et si aucune n'est à l'atout, celle du joueur qui a joué en premier au premier pli est meilleure. L'équipe qui marque son *roem* doit montrer toutes les combinaisons qu'elle va compter à la fin du premier pli.
 
-If a player holds the king and queen of trumps, their team scores 20 for *stuk*. This always scores, irrespective of any *roem* held by any player, and does not need to be declared before the cards are played.
+Si un joueur détient le roi et la dame d'atout, son équipe marque 20 pour le *stuk*. Cela marque toujours, indépendamment de tout *roem* détenu par n'importe quel joueur, et n'a pas besoin d'être déclaré avant que les cartes soient jouées.
 
-Because of these extra points, it is possible for both teams to reach 100 points in the same deal. Immediately after winning a trick, a member of a team who thinks that their team has at least 100 card points in tricks already won plus *roem* and *stuk* if any can claim to have won, saying '*ik dek*' (I cover). If they are right they win the game, which is worth 2 game points if the opponents have less than 50 card points but only 1 game point if the opponents have 50 or more. If the team that claimed in fact has less than 100 cards points they lose and their opponents score 2 game points. A team that wins all the tricks scores 3 game points.
+Grâce à ces points supplémentaires, il est possible que les deux équipes atteignent 100 points lors de la même donne. Immédiatement après avoir gagné un pli, un membre d'une équipe qui pense que son équipe a au moins 100 points de cartes dans les plis déjà gagnés plus le *roem* et le *stuk* éventuels peut réclamer la victoire en disant « *ik dek* » (je couvre). S'il a raison, il gagne la donne, qui vaut 2 points de partie si les adversaires ont moins de 50 points de cartes mais seulement 1 point de partie si les adversaires ont 50 ou plus. Si l'équipe qui a réclamé a en fait moins de 100 points de cartes, elle perd et ses adversaires marquent 2 points de partie. Une équipe qui gagne tous les plis marque 3 points de partie.
 
-Points for *roem* and *stuk* cannot be claimed by a team that has not yet won any tricks. This means that a team that scores 100 in *roem* cannot claim to win until they have also won a trick. However, in the special case when one team wins all the tricks but their opponents had the best *roem*, the opponents are allowed to keep their *roem* points and score them in the following deal.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Kruisjassen
+Les points de *roem* et *stuk* ne peuvent être réclamés par une équipe qui n'a pas encore gagné de pli. Cela signifie qu'une équipe qui a 100 en *roem* ne peut réclamer la victoire tant qu'elle n'a pas aussi gagné un pli. Cependant, dans le cas particulier où une équipe gagne tous les plis mais que ses adversaires avaient le meilleur *roem*, les adversaires sont autorisés à conserver leurs points de *roem* et à les marquer lors de la donne suivante.

@@ -2,80 +2,77 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A relative of French Belote played in Greece.
+**But :** Un parent de la Belote française joué en Grèce.
 
 ---
 
-This page is based on information from Paul Nomikos with help from Panagiotis Seferlis.
+Cette page est basée sur des informations de Paul Nomikos avec l'aide de Panagiotis Seferlis.
 
 ## Introduction
 
-The Greek card game mpourloto (μπουρλότο) or bourloto is very closely related to, and no doubt derived from the French game Belote. However, there are several differences in scoring and other details.
+Le jeu de cartes grec mpourloto (μπουρλότο) ou bourloto est très étroitement lié, et sans doute dérivé, du jeu français la Belote. Cependant, il y a plusieurs différences dans le comptage des points et d'autres détails.
 
-## Players and Cards
+## Joueurs et cartes
 
-The four players are divided into two teams of 2 players, partners sitting across from each other. 
+Les quatre joueurs sont divisés en deux équipes de 2 joueurs, les partenaires étant assis en face l'un de l'autre.
 
-There are 32 cards (8 cards in each of the 4 suits hearts, diamonds, clubs, spades).
-The ranking of the cards within each suit and the point values of cards when taken in tricks are as follows:
+Il y a 32 cartes (8 cartes dans chacune des 4 couleurs : cœurs, carreaux, trèfles, piques). L'ordre des cartes dans chaque couleur et la valeur en points des cartes lorsqu'elles sont prises dans les plis sont les suivants :
 
-| Trump suit | Other suits |
-| Jack | 20 points | Ace | 11 points |
-| Nine | 14 points | Ten | 10 points |
-| Ace | 11 points | King | 4 points |
-| Ten | 10 points | Queen | 3 points |
-| King | 4 points | Jack | 2 points |
-| Queen | 3 points | Nine | 0 points |
-| Eight | 0 points | Eight | 0 points |
-| Seven | 0 points | Seven | 0 points |
+| Couleur d'atout | Autres couleurs |
+| Valet | 20 points | As | 11 points |
+| 9 | 14 points | 10 | 10 points |
+| As | 11 points | Roi | 4 points |
+| 10 | 10 points | Dame | 3 points |
+| Roi | 4 points | Valet | 2 points |
+| Dame | 3 points | 9 | 0 point |
+| 8 | 0 point | 8 | 0 point |
+| 7 | 0 point | 7 | 0 point |
 
-## Deal and selecting trumps
+## Donnée et choix de l'atout
 
-Deal and play are clockwise and the turn to deal passes to the left after each hand. The dealer shuffles and the player to dealer's right cuts.
+La donne et le jeu se font dans le sens des aiguilles d'une montre et le tour de donner passe à gauche après chaque main. Le donneur bat les cartes et le joueur à sa droite coupe.
 
-The dealer deals five cards to each player, one at a time, and turns the next card face up to show the proposed trump suit. The player left to the dealer may accept this suit as trumps on behalf of his team or pass. If he passes, the dealer's partner has the same options, then the player to dealer's right and finally the dealer. If all four pass, there is another round in which each player in turn can name any suit of his choice as trumps. (In the second round any of the four suits can be chosen - even the suit of the face up card, which was rejected the first time. This is one of the differences from French Belote.) If all four players pass again, the cards are thrown in and the deal passes to the next player
+Le donneur distribue cinq cartes à chaque joueur, une à la fois, et retourne la carte suivante face visible pour montrer la couleur d'atout proposée. Le joueur à gauche du donneur peut accepter cette couleur comme atout au nom de son équipe ou passer. S'il passe, le partenaire du donneur a les mêmes options, puis le joueur à la droite du donneur, et enfin le donneur. Si les quatre passent, il y a un autre tour où chaque joueur à son tour peut nommer n'importe quelle couleur de son choix comme atout. (Au deuxième tour, n'importe laquelle des quatre couleurs peut être choisie — même la couleur de la carte face visible qui a été rejetée au premier tour. C'est l'une des différences avec la Belote française.) Si les quatre joueurs passent à nouveau, les cartes sont jetées et la donne passe au joueur suivant.
 
-When a trump suit has been chosen, if anyone holds the seven of the same suit as the face up card, they may take the face up card in exchange for the seven. The deal is then completed: the dealer gives a further three cards to each player, one at a time, taking the face up card as the final card that he deals to himself. 
+Lorsqu'une couleur d'atout a été choisie, si quelqu'un détient le 7 de la même couleur que la carte face visible, il peut prendre la carte face visible en échange du 7. La donne est alors complétée : le donneur donne trois cartes supplémentaires à chaque joueur, une à la fois, en prenant la carte face visible comme dernière carte qu'il se distribue.
 
-## Melds
+## Annonces
 
-Before play begins, each player in turn, starting to the left of the dealer, may declare and show any melds (scoring card combinations) that he has in his hand. The possible melds are as follws:
+Avant que le jeu ne commence, chaque joueur à son tour, en commençant par la gauche du donneur, peut déclarer et montrer ses annonces (combinaisons de cartes qui rapportent des points) qu'il a dans sa main. Les annonces possibles sont les suivantes :
 
-| Meld | Score | Notes |
-| Sequence of 3 cards | 20 points | Sequences must consist of consecutive cards of a suit. For this purpose cards rank in the order A-K-Q-J-10-9-8-7 in all suits. So for example Q-J-10-9 is a valid 4-card sequence, even in trumps, but A-10-K is not a valid sequence. |
-| Sequence of 4 cards | 50 points |
-| Sequence of 5 cards | 100 points |
-| Four of a kind | 100 points | Four cards of the same rank, such as Q-Q-Q-Q or 7-7-7-7 |
-| King and Queen of trumps | 20 points | This is known as "mpourlotto" |
+| Annonce | Score | Notes |
+| Séquence de 3 cartes | 20 points | Les séquences doivent être composées de cartes consécutives d'une même couleur. Pour cela, les cartes sont classées dans l'ordre A-R-D-V-10-9-8-7 dans toutes les couleurs. Ainsi par exemple D-V-10-9 est une séquence valide de 4 cartes, même à l'atout, mais A-10-R n'est pas une séquence valide. |
+| Séquence de 4 cartes | 50 points |
+| Séquence de 5 cartes | 100 points |
+| Carré | 100 points | Quatre cartes de même rang, comme D-D-D-D ou 7-7-7-7 |
+| Roi et Dame d'atout | 20 points | C'est ce qu'on appelle le « mpourlotto » |
 
-Note that there are several differences here from French Belote. All melds belonging to both teams are counted: it does not matter which team has the best meld, only which has more points overall including those taken in the play. All fours of a kind score 100, even eights and sevens, and there is no special score for four jacks or four nines.
+Notez qu'il y a plusieurs différences ici avec la Belote française. Toutes les annonces appartenant aux deux équipes sont comptées : cela n'a pas d'importance de savoir quelle équipe a la meilleure annonce, seule compte celle qui a le plus de points au total, y compris ceux pris en jeu. Tous les carrés rapportent 100, même les 8 et les 7, et il n'y a pas de score spécial pour quatre valets ou quatre 9.
 
-## Play
+## Jeu
 
-Play starts with the player to the left from the dealer and proceeds clockwise. The starting player leads any card from his hand. Other players must follow suit if possible. If unable to follow suit they must play a trump. A player who has no cards of the suit led and no trumps may play any card.
+Le jeu commence avec le joueur à gauche du donneur et se poursuit dans le sens des aiguilles d'une montre. Le joueur de départ joue n'importe quelle carte de sa main. Les autres joueurs doivent suivre la couleur si possible. S'ils ne peuvent pas suivre, ils doivent jouer un atout. Un joueur qui n'a pas de carte de la couleur demandée et pas d'atout peut jouer n'importe quelle carte.
 
-Subject to the above rules, each player must if possible play a card that beats the best card so far played to the trick.That is, if able to follow suit you must beat the highest card of the suit so far played, unless someone has already trumped. If you have no sufficiently high card or the trick is trumped you must still follow suit and may play any card of the suit. When trumping you must beat all the trumps already played if possible; if unable to play a winning trump you may play any trump. But see variations. 
+Sous réserve des règles ci-dessus, chaque joueur doit si possible jouer une carte qui bat la meilleure carte jouée jusqu'ici dans le pli. C'est-à-dire, si on peut suivre, on doit battre la plus haute carte de la couleur jouée jusqu'ici, à moins que quelqu'un n'ait déjà coupé. Si vous n'avez pas de carte suffisamment haute ou si le pli a été coupé, vous devez quand même suivre et pouvez jouer n'importe quelle carte de la couleur. En coupant, vous devez battre tous les atouts déjà joués si possible ; si vous ne pouvez pas jouer un atout gagnant, vous pouvez jouer n'importe quel atout. Voir variantes.
 
-The player of the highest ranking trump, or if no trumps are played the highest card of the suit that was led, wins the trick and leads any card to the next trick. This process continues until all cards have been played. 
+Le joueur de l'atout le plus élevé, ou si aucun atout n'a été joué, de la plus haute carte de la couleur demandée, remporte le pli et entame n'importe quelle carte au pli suivant. Ce processus continue jusqu'à ce que toutes les cartes aient été jouées.
 
-## Scoring
+## Comptage des points
 
-Each team counts the points that it has won:
+Chaque équipe compte les points qu'elle a gagnés :
 
-- all the melds that they declared before the play
+- toutes les annonces qu'elles ont déclarées avant le jeu
 
-- the value of all the cards in the tricks that they won
+- la valeur de toutes les cartes dans les plis qu'elles ont remportés
 
-- the winners of the last trick score 10 points extra, or 90 points if the other team took no tricks at all ("capo").
+- les vainqueurs du dernier pli marquent 10 points supplémentaires, ou 90 points si l'autre équipe n'a remporté aucun pli (« capo »).
 
-To check the calculation it is useful to know that the total number of points in the game excluding melds is 152 points, provided that each team wins at least one trick. Winning all the tricks is worth 232 points plus any melds.
+Pour vérifier le calcul, il est utile de savoir que le nombre total de points dans le jeu, hors annonces, est de 152 points, à condition que chaque équipe remporte au moins un pli. Remporter tous les plis vaut 232 points plus les annonces éventuelles.
 
-If the team that chose trumps scores more points than their opponents, then each team adds the points that they took to their cumulative score. If the points are equal, or the trump makers' opponents have more, all the points are scored by their opponents. That is, the opponents of the trump makers score 152 points plus the value of all the melds declared by both teams. This is known as "mesa".
+Si l'équipe qui a choisi l'atout marque plus de points que ses adversaires, chaque équipe ajoute les points qu'elle a pris à son score cumulé. Si les points sont égaux, ou si les adversaires des choisisseurs d'atout ont plus de points, tous les points vont aux adversaires. C'est-à-dire, les adversaires des choisisseurs d'atout marquent 152 points plus la valeur de toutes les annonces déclarées par les deux équipes. C'est ce qu'on appelle le « mesa ».
 
-The team that first reaches a cumulative total of 1000 points wins the game. If both teams reach 1000 points in the same deal, the team with more points wins. If the scores are equal and more than 1000, two more deals are played to decide the winners.
+L'équipe qui atteint en premier un total cumulé de 1000 points gagne la partie. Si les deux équipes atteignent 1000 points lors de la même donne, l'équipe avec le plus de points gagne. Si les scores sont égaux et supérieurs à 1000, deux donnes supplémentaires sont jouées pour départager les vainqueurs.
 
-## Variations
+## Variantes
 
-Some play that if your partner is currently winning the trick, you are not obliged to beat his card, though you must still follow suit if able to. This less strict rule is common in café games.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Mpourloto
+Certains jouent que si votre partenaire gagne actuellement le pli, vous n'êtes pas obligé de battre sa carte, bien que vous deviez toujours suivre si vous le pouvez. Cette règle moins stricte est courante dans les jeux de café.

@@ -3,482 +3,275 @@
 **Nombre de cartes :** 32
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** Ely Culbertson's two-player card game based on Clobyosh and Belote with elements of Bridge scoring added.
+**But :** Jeu de cartes à deux joueurs d'Ely Culbertson, basé sur le Clobyosh et la Belote avec des éléments de comptage de type Bridge.
 
 ---
 
 ## Introduction
 
-Jo-Jotte is a two-player Jass game based on Clobyosh and Belote, but incorporating Bridge-like scoring. It was invented in 1937 by [Ely Culbertson](https://en.wikipedia.org/wiki/Ely_Culbertson), the man who single-handedly popularized
-Contract Bridge in the late 1920’s and early 1930's, and dedicated to and named after his wife Josephine. Jo-Jotte has never achieved wide popularity, but it continues to be played regularly by a number of devotees.
+Le Jo-Jotte est un jeu de Jass à deux joueurs basé sur le Clobyosh et la Belote, mais intégrant un comptage de type Bridge. Il a été inventé en 1937 par [Ely Culbertson](https://en.wikipedia.org/wiki/Ely_Culbertson), l'homme qui a à lui seul popularisé le Contract Bridge à la fin des années 1920 et au début des années 1930, et dédié à sa femme Josephine, dont il porte le nom. Le Jo-Jotte n'a jamais connu une grande popularité, mais continue d'être joué régulièrement par un certain nombre de passionnés.
 
-This page is largely based, with the author's permission, on the description written by Howard Fosdick for his former website cardsanddominoes.com. 
+Cette page est largement basée, avec la permission de l'auteur, sur la description rédigée par Howard Fosdick pour son ancien site cardsanddominoes.com.
 
-## Goal of the Game
+## But du jeu
 
-To win a Hand by winning the most points in tricks. Note that
-tricks, in themselves, are worth nothing. Only specific cards
-captured in tricks score points.
+Gagner une Donne en remportant le plus de points en plis. Les plis en eux-mêmes ne valent rien. Seules les cartes spécifiques capturées dans les plis marquent des points.
 
-To win a Game across hands, by being the first player to attain
-80 points.
+Gagner une Partie à travers les donnes, en étant le premier joueur à atteindre 80 points.
 
-To win a Rubber across games, by being the first player to win
-two games.
+Gagner une Manche à travers les parties, en étant le premier joueur à gagner deux parties.
 
-To win the most Rubbers in a sitting, as may be previously
-agreed upon by the players.
+Gagner le plus de Manches dans une session, comme peuvent le convenir les joueurs à l'avance.
 
-## The Deck
+## Le jeu de cartes
 
-Jo-Jotte is played with a standard 32-card deck (a 52-card pack
-with everything below 7's stripped out). The ranks of cards
-depends on the context in which they are used— 
+Le Jo-Jotte se joue avec un jeu standard de 32 cartes (un jeu de 52 cartes auquel on a retiré tout ce qui est inférieur au 7). L'ordre des cartes dépend du contexte dans lequel elles sont utilisées —
 
-|   | high. . .
-             
-            . . . low |
-| Trump suit in
-tricks | J | 9 | A | 10 | K | Q | 8 | 7 |
-| Non-trump suit
-in tricks | A | 10 | K | Q | J | 9 | 8 | 7 |
-| For honor melds | A | K | Q | J | 10 | 9 | 8 | 7 |
+|   | haut . . .
+. . . bas |
+| Enseigne d'atout
+en plis | V | 9 | A | 10 | R | D | 8 | 7 |
+| Enseigne non atout
+en plis | A | 10 | R | D | V | 9 | 8 | 7 |
+| Pour les mariages d'honneur | A | R | D | V | 10 | 9 | 8 | 7 |
 
-To play Jo-Jotte it is indispensable to
-learning these 
-card rankings which may seem unusual, though to those who have played Clobyosh, Belote, Klaverjassen or other Jass games they will be entirely familiar. 
+Pour jouer au Jo-Jotte, il est indispensable d'apprendre ces ordres de cartes qui peuvent sembler inhabituels, bien que pour ceux qui ont joué au Clobyosh, à la Belote, au Klaverjassen ou à d'autres jeux Jass, ils seront entièrement familiers.
 
-## The Deal
+## La distribution
 
-The Dealer in the first hand is determined by a single
-cut of the deck, with the low card being the first
-Dealer.  Thereafter, the deal alternates between
-the two players.
+Le Donneur de la première donne est déterminé par une seule coupe du jeu, la carte la plus basse étant le premier Donneur. Ensuite, la distribution alterne entre les deux joueurs.
 
-Dealer deals 6 cards to each player (3 plus 3).The 13th
-card is turned face up and placed next to the remainder
-of the deck.
+Le donneur distribue 6 cartes à chaque joueur (3 plus 3). La 13e carte est retournée face visible et placée à côté du reste du jeu.
 
-## Bidding
+## Enchères
 
-Bidding now commences. The player who "wins" the Bid
-dictates the trump suit. In return, he is bound to win
-the bid by scoring the most points in the hand (or else
-suffer a penalty).
+Les enchères commencent maintenant. Le joueur qui « gagne » l'enchère détermine l'enseigne d'atout. En retour, il s'engage à gagner l'enchère en marquant le plus de points dans la donne (sinon il subit une pénalité).
 
-Bidding proceeds as follows until a
-suit is nominated as trump:
+Les enchères se déroulent ainsi jusqu'à ce qu'une enseigne soit nommée comme atout :
 
-- Non-dealer may accept the suit of the
-turned-up card as the Trump.  Or, he
-may pass.
+- Le non-donneur peut accepter l'enseigne de la carte retournée comme atout. Ou il peut passer.
 
-- Dealer may accept the turned-up card
-as the Trump Suit. Or, he may pass.
-
-- Non-dealer may name any other suit as
-Trump. Or, he may name No-trump.
-Or, or he may pass.
-
-- Dealer may name any other suit as
-Trump. Or, he may name No-trump.
-Or, he may pass.
-
-- If neither player names a suit or No-trump, the
-deal is thrown in and the next deal goes to
-the non-dealer.
-
-A bid to win at "No-trump"
-means that there will be no trump suit. The
-hand will be played without any trumps.
-
-A trump suit once named may be overcalled subsequently
-by a bid of "No-trump" by the opposing player.
-
-The player who named the trump suit or No-trump is known as the *Declarer* and his opponent is the *Defender*. The Declarer's bid (called the contract) can be
-*Doubled* by the Defender, and any Double may be *Redoubled* by the Declarer. These calls
-double or quadruple (respectively) the final score of
-the hand.
-
-## The Draw
-
-Once the trump suit (or no-trump) has been selected and
-doubled or passed, the Dealer deals three more cards to
-each player. Each player now has a hand of nine cards.
-
-The Dealer then turns up the bottom card in the deck
-face-up and places it on top of the deck. This card is
-the Information Card. Like the card turned-up
-previously as a possible trump, this card takes no part
-in the play of the hand. These two face-up cards
-together provide both players with information as to
-what cards are not in either players' hand.
-
-After the draw, the Defender may bid
-*Nullo* if he did not double the bid. This supersedes the Declarer's trump or No-trump bid. If Nullo is played there are no trumps and the objective is to win as few tricks as possible, ideally no tricks at all. The Nullo bidder becomes the Declarer and scores a bonus if he succeeds in losing every trick. If not, the Nullo bidder's opponent scores a bonus for each trick won by the Nullo bidder.
-
-The original bidder's opponent next declares his Honor Meld if any, or passes if he has no meld he wishes to declare. 
-
-After the his opponent has spoken, the original bidder has the option to bid a *Slam*, if desired. A Slam is a contract to
-win every trick with the trump suit (or No-trump) named in the original bid. The Slam bidder is the Declarer and scores a bonus if he succeeds, but loses the contract if he fails. Should the Defender bid Nullo and the
-Declarer bid Slam, the Slam bid overrides the Nullo bid.
-
-The original bidder now declares his Honor Meld or passes if he has no meld he wishes to declare.
-
-Nullo and Slam bids are not common as they require
-unusual hands to be successful, but their existence in
-Jo-Jotte provides plenty of excitement when a player
-does make one of these special bids. A Nullo bid may be made not with the expectation of losing every trick, but because the penalty for winning a small number of tricks may be preferable to allowing the bidder to proceed with the contract.
-
-### Honor Melds
-
-Honor Melds are special combinations of cards
-that give points to the person who shows them to his
-opponent. Honor Melds are declared and scored after the
-Draw but prior to the play of the hand to tricks.
-
-There are two classes of Honor Melds:
-
-Class A: Four of a Kind - scores 100 points
-(Card
-rank for Trump Contracts:  J, 
-9,  A, 10, K, Q)
-
-(Card
-Rank for No-Trump Contracts: A, 10, K,  Q,
-J)
-Class B: Sequences
-
-Run of three (in same suit) **20 points**
-
-Run of four (in same suit)  ** 40
-points**
-
-Run of five (in same suit)    **50
-points**
-
-(Card rank for Sequences is: A, K, Q, J, 10, 9,
-8, 7)
-In a particular hand, only one player may
-score for Honor Meld(s) in each Class. The player who
-has the higher meld in that Class gets to score. For
-Class A melds, if both players claim this, the player
-who states the higher cards (as per the above rank) is
-the one who gets to score. For Sequences, the player who
-has the longer run gets to score. If both players have
-the same length of run, the player whose highest card is
-higher gets to score. If two sequences are of
-equal length and both have the same high card, the trump
-sequence, if any, wins. To determine who gets to score
-for melds, the players interrogate each other concerning
-the details of their melds in the order described in
-this paragraph, until it is clear who wins the
-declaration in each Class. The winner then must display
-the cards constituting the meld(s) to his opponent.
-
-Although only one player gets to declare in each Class,
-he may display and score for more than one meld in that
-Class. For example, if a player has more than one
-Sequence he could display and score for both of them in
-the hand.
-
-It is not required that players display and score their
-melds. Melding has the advantage of scoring points, but
-the disadvantage of providing information to the
-opponent. There may be times when a player decides he
-would rather not show cards to his opponent and
-therefore passes up the opportunity to score honors.
-
-### The Seven of Trumps
-
-If the suit of the turn-up card was accepted as Trump by
-either player, the player who holds the 7 of trump (sometimes known as the "Dix") in
-his hand has the option of exchanging it for the turn-up
-card. He may do this any time after The Draw but before
-the play of the hand to tricks. He can only do this if
-he has not used the 7 of trump in an Honors Meld
-declaration.
-
-Since the 7 is the lowest trump, this rule allows the
-player holding this card to improve his hand by
-exchanging it for a known trump. Where the turn-up is a
-high-ranking trump (like the Jack or the 9), holding the
-dix can be significant.
-
-## The Play
-
-After melds have been declared (if any), and the special
-bids Nullo and Slam have been declared (or passed),
-trick play begins.
-
-The Defender (the player who did not win the bid) leads
-a card to the first trick. The other player then plays a
-card. The winner of one trick always leads to the next.
-
-The rules of following a card to a lead are as follows:
-
-- The
-non-leader must follow suit, if possible
-
-- If he
-cannot follow suit, he must trump, if able
-
-- A
-trump lead must be beaten by a higher trump, if possible
-
-The rules of winning a trick are as follows:
-
-- For
-two non-trump cards, the higher card of the suit
-led wins
-
-- For
-two trump cards, the higher trump wins
-
-- For a
-non-trump card and a trump card, the trump card
-wins
-
-See the section on "The Deck" above for the
-relative rankings of cards in trump and
-non-trump suits.
-
-## Scoring
-
-Jo-Jotte features a Bridge-like scoring system.
-
-All points are recorded
-as scored either above the line or below the line. Only
-points scored Below the Line count towards the Game
-Score.
-
-Each player's points for Honor Melds (if any) are scored
-in his own column Above the Line.
-
-After all nine tricks have been played, each player adds
-his Trick Score and Honor Meld Score together. The Trick
-Score and the Honor Meld in Score added together are
-referred to as the player's Total Score.
-
-You determine the Trick Score from cards won tricks,
-according to their point value in the chart below.
-
-If the Declarer has the higher Total Score, he scores
-his Trick Score Below the Line (towards the Game total),
-and the Defender writes his Trick Score Above the Line.
-If the Defender has the higher Total Score, he adds
-Declarer's Trick Score to his own, and scores the total
-Below the Line.  Only one player will score points
-Below The Line after any given hand.
-
-On any Doubled contract, the player with the higher
-Total Score receives the two players' combined Trick
-Score, at twice their regular value, Below the Line. On
-any contract that was Redoubled, this same procedure is
-followed, but the combined Trick Score is rated at four
-times its regular value.
-
-### Trick-Score Count
-
-Cards taken in tricks have these values--
-
-|   | --Points-- |
-| Jack of trumps | 20 |
-| 9 of trumps | 15 |
-| Any Ace | 10 |
-| Any 10 | 10 |
-| Any
-King | 5 |
-| Any
-Queen | 5 |
-| Winning
-the last trick (except at Nullo) | 10 |
+- Le donneur peut accepter la carte retournée comme atout. Ou il peut passer.
+
+- Le non-donneur peut nommer n'importe quelle autre enseigne comme atout. Ou il peut nommer Sans-atout. Ou il peut passer.
+
+- Le donneur peut nommer n'importe quelle autre enseigne comme atout. Ou il peut nommer Sans-atout. Ou il peut passer.
+
+- Si aucun joueur ne nomme une enseigne ou Sans-atout, la donne est annulée et la donne suivante va au non-donneur.
+
+Une enchère de gain à « Sans-atout » signifie qu'il n'y aura pas d'enseigne d'atout. La donne se jouera sans aucun atout.
+
+Une enseigne d'atout une fois nommée peut être surclassée par une enchère de « Sans-atout » par le joueur adverse.
+
+Le joueur qui a nommé l'enseigne d'atout ou Sans-atout est appelé le *Déclarant* et son adversaire le *Défenseur*. L'enchère du Déclarant (appelée le contrat) peut être *Doublée* par le Défenseur, et tout Double peut être *Surdoublé* par le Déclarant. Ces annonces doublent ou quadruplent (respectivement) le score final de la donne.
+
+## La pioche
+
+Une fois l'enseigne d'atout (ou Sans-atout) sélectionnée et doublée ou passée, le donneur distribue trois cartes supplémentaires à chaque joueur. Chaque joueur a maintenant une main de neuf cartes.
+
+Le donneur retourne ensuite la carte du bas du jeu face visible et la place sur le dessus du jeu. C'est la Carte d'Information. Comme la carte retournée précédemment comme atout possible, cette carte ne participe pas au jeu de la donne. Ces deux cartes face visible ensemble fournissent aux deux joueurs des informations sur les cartes qui ne sont dans la main d'aucun joueur.
+
+Après la pioche, le Défenseur peut enchérir *Nullo* s'il n'a pas doublé l'enchère. Cela remplace l'enchère d'atout ou Sans-atout du Déclarant. Si Nullo est joué, il n'y a pas d'atout et l'objectif est de gagner le moins de plis possible, idéalement aucun pli. L'enchérisseur Nullo devient le Déclarant et marque un bonus s'il réussit à perdre tous les plis. Sinon, l'adversaire de l'enchérisseur Nullo marque un bonus pour chaque pli gagné par l'enchérisseur Nullo.
+
+L'adversaire de l'enchérisseur original déclare ensuite son Mariage d'Honneur s'il en a un, ou passe s'il n'a pas de mariage à déclarer.
+
+Après que son adversaire a parlé, l'enchérisseur original a la possibilité d'enchérir un *Chelem*, s'il le souhaite. Un Chelem est un contrat pour gagner tous les plis avec l'enseigne d'atout (ou Sans-atout) nommée dans l'enchère originale. L'enchérisseur du Chelem est le Déclarant et marque un bonus s'il réussit, mais perd le contrat s'il échoue. Si le Défenseur enchérit Nullo et le Déclarant enchérit Chelem, l'enchère de Chelem prime sur l'enchère Nullo.
+
+L'enchérisseur original déclare maintenant son Mariage d'Honneur ou passe s'il n'a pas de mariage à déclarer.
+
+Les enchères Nullo et Chelem ne sont pas courantes car elles nécessitent des mains inhabituelles pour réussir, mais leur existence dans le Jo-Jotte apporte beaucoup d'excitation lorsqu'un joueur fait l'une de ces enchères spéciales. Une enchère Nullo peut être faite non pas dans l'attente de perdre tous les plis, mais parce que la pénalité pour gagner un petit nombre de plis peut être préférable à laisser l'enchérisseur procéder avec le contrat.
+
+### Mariages d'Honneur
+
+Les Mariages d'Honneur sont des combinaisons spéciales de cartes qui donnent des points à la personne qui les montre à son adversaire. Ils sont déclarés et marqués après la Pioche mais avant le jeu de la donne en plis.
+
+Il y a deux classes de Mariages d'Honneur :
+
+Classe A : Carré — marque 100 points
+(Rang des cartes pour les contrats d'atout : V, 9, A, 10, R, D)
+(Rang des cartes pour les contrats Sans-atout : A, 10, R, D, V)
+Classe B : Séquences
+
+Séquence de trois (même enseigne) **20 points**
+
+Séquence de quatre (même enseigne) **40 points**
+
+Séquence de cinq (même enseigne) **50 points**
+
+(Rang des cartes pour les séquences : A, R, D, V, 10, 9, 8, 7)
+
+Dans une donne particulière, un seul joueur peut marquer pour les Mariages d'Honneur dans chaque classe. Le joueur qui a le meilleur mariage dans cette classe marque. Pour les mariages de classe A, si les deux joueurs le réclament, le joueur qui annonce les cartes les plus hautes (selon le rang ci-dessus) est celui qui marque. Pour les séquences, le joueur qui a la plus longue séquence marque. Si les deux joueurs ont la même longueur, le joueur dont la carte la plus haute est la plus forte marque. Si deux séquences ont la même longueur et la même carte haute, la séquence à l'atout, s'il y en a une, gagne. Pour déterminer qui marque pour les mariages, les joueurs s'interrogent mutuellement sur les détails de leurs mariages dans l'ordre décrit dans ce paragraphe, jusqu'à ce qu'il soit clair qui gagne la déclaration dans chaque classe. Le gagnant doit alors montrer les cartes constituant le(s) mariage(s) à son adversaire.
+
+Bien qu'un seul joueur puisse déclarer dans chaque classe, il peut montrer et marquer pour plus d'un mariage dans cette classe. Par exemple, si un joueur a plus d'une séquence, il peut montrer et marquer pour les deux.
+
+Il n'est pas obligatoire pour les joueurs de montrer et marquer leurs mariages. Déclarer a l'avantage de marquer des points, mais le désavantage de donner des informations à l'adversaire. Il peut arriver qu'un joueur décide de ne pas montrer ses cartes et passe donc l'opportunité de marquer des honneurs.
+
+### Le Sept d'atout
+
+Si l'enseigne de la carte retournée a été acceptée comme atout par l'un des joueurs, le joueur qui détient le 7 d'atout (parfois appelé le « Dix ») a la possibilité de l'échanger contre la carte retournée. Il peut le faire à tout moment après la Pioche mais avant le jeu de la donne en plis. Il ne peut le faire que s'il n'a pas utilisé le 7 d'atout dans une déclaration de Mariage d'Honneur.
+
+Comme le 7 est le plus bas atout, cette règle permet au joueur détenant cette carte d'améliorer sa main en l'échangeant contre un atout connu. Lorsque la carte retournée est un atout élevé (comme le Valet ou le 9), détenir le Dix peut être significatif.
+
+## Le jeu
+
+Après que les mariages ont été déclarés (s'il y en a), et que les enchères spéciales Nullo et Chelem ont été déclarées (ou passées), le jeu en plis commence.
+
+Le Défenseur (le joueur qui n'a pas gagné l'enchère) mène une carte au premier pli. L'autre joueur joue ensuite une carte. Le vainqueur d'un pli mène toujours le suivant.
+
+Les règles pour suivre une carte menée sont les suivantes :
+
+- Le non-meneur doit suivre l'enseigne, si possible
+
+- S'il ne peut pas suivre, il doit couper, s'il le peut
+
+- Une demande d'atout doit être surcoupée par un atout plus élevé, si possible
+
+Les règles pour gagner un pli sont les suivantes :
+
+- Pour deux cartes non atout, la carte la plus haute de l'enseigne demandée gagne
+
+- Pour deux cartes atout, l'atout le plus élevé gagne
+
+- Pour une carte non atout et une carte atout, l'atout gagne
+
+Voir la section « Le jeu de cartes » ci-dessus pour l'ordre relatif des cartes en atout et non atout.
+
+## Comptage des points
+
+Le Jo-Jotte utilise un système de comptage de type Bridge.
+
+Tous les points sont enregistrés au-dessus ou en dessous de la ligne. Seuls les points marqués en dessous de la ligne comptent pour le score de Partie.
+
+Les points de Mariage d'Honneur de chaque joueur (s'il y en a) sont marqués dans sa propre colonne au-dessus de la ligne.
+
+Après que les neuf plis ont été joués, chaque joueur additionne son Score de Pli et son Score de Mariage d'Honneur. Le Score de Pli et le Score de Mariage d'Honneur additionnés forment le Score Total du joueur.
+
+On détermine le Score de Pli à partir des cartes gagnées en plis, selon leur valeur en points dans le tableau ci-dessous.
+
+Si le Déclarant a le Score Total le plus élevé, il marque son Score de Pli en dessous de la ligne (vers le total de Partie), et le Défenseur écrit son Score de Pli au-dessus de la ligne. Si le Défenseur a le Score Total le plus élevé, il ajoute le Score de Pli du Déclarant au sien, et marque le total en dessous de la ligne. Un seul joueur marquera des points en dessous de la ligne après chaque donne.
+
+Sur tout contrat Doublé, le joueur avec le Score Total le plus élevé reçoit le Score de Pli combiné des deux joueurs, au double de leur valeur normale, en dessous de la ligne. Sur tout contrat Surdoublé, la même procédure est suivie, mais le Score de Pli combiné est compté à quatre fois sa valeur normale.
+
+### Valeur des plis
+
+Les cartes prises en plis ont ces valeurs —
+
+|   | --Points-- |
+| Valet d'atout | 20 |
+| 9 d'atout | 15 |
+| N'importe quel As | 10 |
+| N'importe quel 10 | 10 |
+| N'importe quel Roi | 5 |
+| N'importe quelle Dame | 5 |
+| Gagner
+le dernier pli (sauf à Nullo) | 10 |
 | Jo-Jotte
+(voir ci-dessous) | 20 |
 
-(see below) | 20 |
+Ces valeurs sont doublées dans le cas d'un contrat Doublé, ou quadruplées dans le cas d'un contrat Surdoublé.
 
-These values are
-doubled in the cased of a Doubled Contract, or
-quadrupled in the case of a Redoubled Contract.
+### Comptage de Jo-Jotte
 
-### Scoring for
-Jo-Jotte
+La déclaration de comptage appelée Jo-Jotte est le Roi et la Dame d'atout. Elle est marquée comme partie du Score de Pli. Cela se produit uniquement si —
 
-The scoring declaration called Jo-Jotte is the King and
-Queen of Trumps. It is scored as part of the Trick
-Score.  This only happens if--
+- Un joueur a ces deux cartes
 
-- One player has
-both these cards
+- Il y a une enseigne d'atout
 
-- There is a
-trump suit
+- Ces deux cartes appartiennent toutes deux à l'enseigne d'atout
 
-- These two
-cards are both members of the trump suit
+- L'annonce « Jo » — « Jotte » est correctement faite
 
-- The
-announcement of "Jo" - "Jotte" is properly made
+Le joueur qui détient le Roi et la Dame d'atout doit faire ce qui suit pour recevoir les 20 points. Il doit jouer le Roi avant de jouer la Dame. En jouant le Roi, il doit annoncer « Jo ». En jouant la Dame, il doit dire « Jotte ». Si ces annonces ne sont pas faites, aucun point n'est attribué. Le joueur n'a pas besoin de gagner les plis dans lesquels ces cartes sont jouées pour marquer les 20 points.
 
-The player who holds the King and Queen of trump must do
-the following to receive the 20 points for them. He must
-play the King before he plays the Queen. When playing
-the King, he must announce "Jo." When playing the Queen,
-he must say "Jotte." If these announcements are not
-made, no points are awarded. The player does not have to
-win the tricks to which these cards are made in order to
-score the 20 points.
+### Rôle des Mariages d'Honneur dans le comptage
 
-### The Role of Honor
-Melds in Scoring
+Quel rôle jouent les Mariages d'Honneur dans le comptage ? D'abord, quand un joueur gagne le droit de montrer un mariage à son adversaire, les points de ce(s) mariage(s) sont immédiatement marqués au-dessus de la ligne. Indépendamment de qui gagne la donne, ces points restent dans sa colonne au-dessus de la ligne et ne peuvent être perdus.
 
-What role do Honors Melds play in scoring? First, when a
-player wins the right to display a meld to his opponent,
-the points for those meld(s) are immediately scored to
-him Above the Line. Regardless of who wins the hand,
-these points remain in his column Above the Line and
-cannot be lost.
+Ensuite, il faut se rappeler que le Score Total d'un joueur comprend son Score de Pli ajouté à tous les points marqués en Mariage d'Honneur avant le jeu en plis. Les mariages jouent donc un rôle clé pour déterminer qui a le Score Total le plus élevé et donc qui gagne la donne.
 
-Second, remember that a player's Total Score consists of
-his Trick Score added to any points he scored as a
-result of Honor Melds prior to trick play. So melds play
-a key role in determining who has the higher Total Score
-and thus who wins the hand.
+### Comptage des enchères Nullo et Chelem
 
-### Scoring for Nullo and
-Slam Bids
+Nullo et Chelem sont des enchères spéciales avec leur propre comptage. Nullo est une enchère pour perdre tous les plis à Sans-atout. Chelem est une enchère pour gagner tous les plis en utilisant une enseigne nommée par le Déclarant. Si Nullo et Chelem sont tous deux enchéris, le contrat Chelem prime.
 
-Nullo and Slam are special bids with their own unique
-scoring. Nullo is a bid to lose every trick at no-trump.
-Slam is a bid to win every trick using a suit nominated
-by the Declarer. If both Nullo and Slam are bid, the
-Slam contract takes precedence.
+Un comptage spécial s'applique au cas d'un contrat Nullo. Toutes les cartes jouées sont comptées à leur valeur Sans-atout (et les 10 points normalement attribués pour gagner le dernier pli ne sont pas comptés). Ces points sont alors mis en prison (typiquement désignés en les écrivant sur le carnet de score dans un cercle). Les points mis en prison sont gagnés par celui qui gagne la donne suivante. Ce joueur doit les marquer au-dessus de la ligne.
 
-Special scoring applies to the case of a Nullo contract.
-All cards used in play are counted at their no-trump
-value (and the 10 points otherwise awarded for winning
-the last trick is not counted). These points are then
-put in prison (typically designated by writing them on
-the scoring pad in a circle). Points put in prison are
-won by whoever wins the next hand. This player must
-score them Above the Line.
+La même procédure est suivie en cas d'égalité des Scores Totaux lors d'une enchère normale. Les points sont mis en prison et gagnés par le vainqueur de la donne suivante, qui les marque au-dessus de la ligne.
 
-The exact same procedure is followed in the event of a
-tie Total Score when a regular bid is made. Points are
-put in prison and won by the winner of the next hand,
-who scores them Above the Line.
+Des bonus sont également marqués suite à un contrat Nullo. Si le Déclarant réussit et parvient à perdre tous les plis, il marque un bonus de 200 points. Cela va dans sa colonne au-dessus de la ligne. S'il échoue, son adversaire marque 200 points au-dessus de la ligne pour le premier pli qu'il force le Déclarant à gagner, et un bonus supplémentaire de 100 points au-dessus de la ligne pour chaque pli additionnel gagné par le Déclarant.
 
-Bonus(es) are also scored as a result of a Nullo
-contract. If the Declarer is successful and manages to
-lose every trick, he scores a bonus of 200 points. This
-goes in his column Above the Line. If he is unsuccessful
-in his bid, his opponent scores 200 points Above the
-Line for the first trick he forces the Declarer to win,
-and a further Above the Line bonus of 100 points for
-each additional trick won by the Declarer.
+Quand un joueur gagne un Chelem (tous les plis) sans l'avoir enchéri, il marque un bonus supplémentaire de 100 points. Quand un joueur enchérit un Chelem et gagne tous les plis, il marque un bonus de 500 points. Si un joueur enchérit un Chelem et perd un pli (ou plus), il a perdu son enchère indépendamment des Scores Totaux réels. Dans ce cas, le Défenseur marque le Score de Pli combiné des deux joueurs au-dessus de la ligne. Le Défenseur ne peut marquer des points en dessous de la ligne que s'il a effectivement obtenu un Score Total plus élevé que le Déclarant (très rare quand le Déclarant a enchéri Chelem).
 
-When a player wins a Slam (all tricks) but has not bid
-it, he scores an extra 100 point bonus. When a player
-bids a Slam and wins all tricks, he scores a 500 point
-bonus. If a player bids a Slam and loses one trick (or
-more), he has lost his bid regardless of the actual
-Total Scores. In this case, the Defender scores the
-combined Trick Scores of both players Above The Line.
-The Defender can only score points Below the Line if he
-actually attained a higher Total Score than the Declarer
-(very rare when the Declarer has bid a Slam).
+Les points bonus pour les Chelems annoncés ou non annoncés sont marqués au-dessus de la ligne.
 
-Bonus points for both unbid and bid Slams are scored
-Above the Line.
+### Comptage de Partie et Manche
 
-### Scoring Game and
-Rubber
+Le premier joueur à atteindre 80 points en dessous de la ligne à travers les donnes gagne la Partie. Le premier joueur à gagner deux Parties gagne la Manche. Le vainqueur de la Manche marque un bonus de 300 points.
 
-The first player to achieve 80 points below the line across hand(s)
-wins Game. The first player to win two Games wins the
-Rubber. The winner of the Rubber scores a 300 point
-bonus.
+Les joueurs jouent généralement jusqu'à ce que l'un d'eux gagne un certain nombre de Manches convenu à l'avance.
 
-Players typically play until one of them wins some
-previously-agreed-upon number of Rubbers.
+## Plus d'informations
 
-## More Information
+Contrairement au succès considérable de M. Culbertson dans la popularisation du Contract Bridge, le Jo-Jotte est mort-né. Le jeu est sophistiqué et très amusant, mais son créateur n'a pas mis le même effort à le populariser qu'il l'a fait pour le Contract Bridge.
 
-In contrast to Mr. Culbertson's tremendous success in
-popularizing Contract Bridge, Jo-Jotte died stillborn. The game is sophisticated and great fun, but its
-creator did not put the same effort into popularizing it
-as he did Contract Bridge.
+Culbertson a mené une vie fascinante, englobant tout de la participation à la Révolution russe, à la popularisation du Contract Bridge à lui seul, jusqu'au témoignage devant le Congrès avec un plan de paix mondiale.
 
-Culbertson led a fascinating life, encompassing
-everything from participation in the Russian Revolution,
-to single-handedly popularizing Contract Bridge, to
-testifying before Congress with a world peace plan.
+Le Jo-Jotte est rarement inclus dans les anthologies de jeux de cartes. Cela vous oblige à aller à la source originale pour plus d'informations — *Jo-Jotte* par Ely Culbertson (Winston : Chicago, 1937). Ce livre de 160 pages contient une description générale du jeu, des chapitres sur la stratégie et les enchères spéciales, un tutoriel incluant des exemples de donnes, et les Règles Officielles du jeu. On peut souvent trouver un exemplaire original à très bas prix dans n'importe quelle librairie d'occasion en ligne.
 
-Jo-Jotte is rarely included in card game anthologies. This forces you to go
-to the original source for further information-- Jo-Jotte
-by Ely Culbertson (Winston: Chicago, 1937). This
-160-page book contains a general description of the
-game, chapters on strategy and special bids, a tutorial
-including sample hands, and the Official Rules to the
-game. You can often find an original copy very
-inexpensively at any used bookstore on the web. 
+Bien que le Jo-Jotte ait été conçu comme un jeu à deux joueurs, le livre de Culbertson inclut également des chapitres décrivant des adaptations du jeu pour trois ou quatre joueurs.
 
-Although Jo-Jotte was designed as a two-player game, Culbertson's book also includes chapters describing adaptations of the game for three or four players.
+## Jeu à trois joueurs
 
-## Three-Player Game
+Deux versions sont données dans le livre de Culbertson.
 
-Two versions are given in Culbertson's book. 
+Dans la version recommandée, les trois joueurs participent à la distribution, la pioche et les enchères, mais seuls deux joueurs, le *Déclarant* et le *Défenseur Actif*, jouent leur main tandis que la main du troisième joueur est mise de côté.
 
-In the recommended version all three players take part in the deal, draw and bidding and scoring but only two players, the *Declarer* and the *Active Defender* play their hands while the third player's hand is set aside.
+La distribution, le jeu et les enchères se déroulent dans le sens horaire. Comme dans le Jo-Jotte normal, six cartes sont distribuées à chacun et il y a deux tours d'enchères : un dans lequel les joueurs peuvent accepter la carte retournée comme atout, et si tous passent au premier tour, un second dans lequel une autre enseigne peut être nommée. Sans-atout peut être nommé et prime sur une enchère d'enseigne. Quand le Déclarant a été déterminé, les deux autres joueurs ont à tour de rôle la possibilité de doubler. Si l'un d'eux double, le doubleur devient le Défenseur et le troisième joueur doit décider s'il se range du côté du Déclarant ou du Défenseur. Le Déclarant décide ensuite s'il surdouble.
 
-Deal, play and bidding proceed clockwise. As in normal Jo-Jotte six cards each are dealt and there are two rounds of bidding, one in which players can accept the turned up card as trump and if all pass in the first round, a second in which another suit can be named. No-trump can be named and outranks a suit bid. When the Declarer has been determined, the other two players in turn have the opportunity to double. If one of them doubles the doubler becomes the Defender and the third player must decide whether to side with the Declarer or the Defender. The declarer then decides whether to redouble.
+Après cela, comme d'habitude, trois cartes supplémentaires sont distribuées à chaque joueur. Puis il y a un processus pour déterminer qui sera le Défenseur Actif.
 
-After this, as usual three more cards are dealt to each player. Then there is a process to determine who will be the Active Defender.
+Quand tous les joueurs ont neuf cartes, s'il n'y a pas eu de double, le joueur à la gauche du Déclarant décide s'il défend contre le contrat du Déclarant, enchérit Nullo, ou *se retire*.
 
-When all players have nine cards, if there was no double the player to the left of the Declarer decides whether to defend against the Declarer’s contract, bid Nullo, or *withdraw*. 
+- Si le joueur à la gauche du Déclarant se retire, le joueur à la droite du Déclarant doit défendre ou enchérir Nullo.
 
-- If the player to Declarer's left withdraws, the player to Declarer's right must either defend or bid Nullo.
+- Si le joueur à la gauche du Déclarant défend, le joueur à la droite du Déclarant doit se retirer ou enchérir Nullo.
 
-- If the player to Declarer's left defends, the player to Declarer's right must either withdraw or bid Nullo.
+S'il y a eu un double, le joueur qui a doublé devient automatiquement le Défenseur Actif et l'autre adversaire du Déclarant peut enchérir Nullo s'il se range du côté du Déclarant, mais pas s'il se range du côté du Défenseur qui a doublé.
 
-If there was a double, the player who doubled automatically becomes the Active Defender and the Declarer's other opponent is allowed to bid Nullo if siding with the Declarer, but not if siding with the Defender who doubled.
+Quoi que fassent les autres joueurs, l'enchérisseur original peut enchérir un Chelem, qui prime sur une enchère Nullo s'il y en a une.
 
-Whatever the other players do, the original bidder may bid a Slam, which outranks a bid of Nullo if there was one. 
+Si un joueur a enchéri Nullo et qu'il n'y a pas d'enchère Chelem, le joueur à la gauche de l'enchérisseur Nullo doit choisir de défendre ou de se retirer. Si ce joueur se retire, l'autre adversaire de l'enchérisseur Nullo doit défendre.
 
-If a player bid Nullo and there was no Slam bid, the player to the left of the Nullo bidder must choose whether to defend or withdraw. If this player withdraws, the Nullo bidder's other opponent must defend. 
+Si l'enchérisseur original enchérit un Chelem et qu'il n'y a pas eu de double avant la pioche, il y a un processus similaire pour décider qui sera le Défenseur Actif contre le Chelem. Chaque joueur peut défendre contre le Chelem même s'il s'est retiré avant. S'il y a eu un double avant la pioche, le doubleur devient automatiquement le Défenseur Actif contre le Chelem.
 
-If the original bidder bids a Slam and there was no double before the draw there is a similar process to decide who will be the Active Defender against the Slam. Either player may defend against the Slam even if that player withdrew before. If there was a double before the draw the doubler automatically becomes the Active Defender against the Slam.
+Aucun joueur n'est autorisé à montrer de mariage avant que le Défenseur Actif ait été déterminé.
 
-No player is allowed to show any meld until the Active Defender has been determined.
+La donne se joue ensuite entre le Déclarant et le Défenseur Actif de la même manière que le Jo-Jotte à deux joueurs.
 
-The hand is then played out between the Declarer and the Active Defender in the same way as two-player Jo-Jotte.
+Sur une donne non doublée, le Déclarant marque les points de pli en dessous de la ligne s'il gagne. Si le Défenseur gagne, **les deux** défenseurs marquent les points de pli combinés **au-dessus** de la ligne.
 
-On an undoubled hand, the Declarer scores trick points below the line if she wins. If the Defender wins, **both** defenders score the combined trick points **above** the line.
+Sur un contrat doublé, les points de pli doublés (ou surdoublés) sont marqués en dessous de la ligne par le joueur actif gagnant. Le joueur inactif, s'il se range du côté du joueur gagnant, marque le même nombre de points **au-dessus** de la ligne.
 
-In a doubled contract, the doubled (or redoubled) trick points are scored below the line by the winning active player. The inactive player, if siding with the winning player, scores the same number of points **above** the line.
+Les mariages d'honneur, les bonus de Chelem, les bonus de Manche, etc. sont marqués au-dessus de la ligne de la même manière que dans le jeu à deux, le joueur inactif marquant de la même manière que le Défenseur Actif sauf s'il se range du côté du Déclarant dans un contrat doublé. Il y a une exception : le score pour un Nullo **perdu** est de 100 points pour le premier pli plus 50 pour chaque pli suivant à **chaque** adversaire.
 
-Honor melds, Slam bonuses, rubber bonuses, etc. are scored the same above the line in the same way as in the two-player game, the inactive player scoring the same as the Active Defender unless siding with the Declarer in a doubled contract. There is one exception: the score for a **lost** Nullo is 100 points for the first trick plus 50 for each subsequent trick to **each** opponent.
+La seconde version du jeu à trois joueurs, qui n'est pas recommandée par Culbertson, est organisée de manière similaire à la [Chouette de Backgammon](https://en.wikibooks.org/wiki/Backgammon/Chouette), avec un joueur dans la boîte jouant contre un capitaine qui joue les cartes et un partenaire qui conseille et compte avec le capitaine.
 
-The second version of the three-player game, which is not recommended by Culbertson, is organised in a similar way to [Backgammon Chouette](https://en.wikibooks.org/wiki/Backgammon/Chouette), with one player in the box playing against a captain who plays the cards and a partner who advises and scores with the captain. 
+## Jeu à quatre joueurs
 
-## Four-Player Game
+Il y a là aussi deux versions : en partenariat et en chacun pour soi.
 
-Again there are two versions: partnership and cutthroat.
+En jouant avec des partenaires, les partenaires sont assis face à face. Six cartes sont distribuées à chacun et la carte du bas de la pile (au lieu du dessus) est montrée comme atout possible.
 
-When playing with partners, partners sit facing each other. Six cards each are dealt and the bottom card from the stack (as opposed to the top) is shown as a potential trump. 
+Les joueurs enchérissent comme dans la version à deux dans le sens horaire, en commençant par le joueur à la gauche du donneur. Un joueur peut surclasser l'enchère d'atout de son partenaire ou de son adversaire par Sans-atout. Chaque adversaire de l'enchérisseur peut doubler et le Déclarant ou le partenaire du Déclarant peut surdoubler. Les enchères se terminent lorsque trois joueurs de suite ont passé une enchère, un double ou un surdouble.
 
-Players bid as in the two-player version in clockwise order, starting with the player to the dealer’s left. A player may overcall partner's or opponent's trump bid with No-trump. Either opponent of the bidder may double and the Declarer or Declarer's partner may redouble. The bidding ends when three players in succession have passed a bid, double or redouble.
+Les cartes restantes sont distribuées, le donneur recevant l'atout retourné. Après cela, chaque défenseur peut enchérir Nullo, et chaque membre de l'équipe déclarante peut enchérir un Chelem. Le Déclarant original est le « déclarant officiel » en cas de Chelem, que ce soit lui ou son partenaire qui ait enchéri le Chelem. Les enchères de Chelem et Nullo s'appliquent aux **deux** partenaires de l'équipe collectivement. Par exemple, une enchère Nullo par un joueur signifie que leurs adversaires marqueront pour tous les plis gagnés par l'un ou l'autre membre du partenariat.
 
-The remaining cards are dealt, with the dealer receiving the turned-up trump. After this, either defender can bid Nullo, and either member of the declaring team can bid a Slam. The original Declarer is the "official declarer" in the event of a Slam, regardless of whether he or his partner bid the Slam. Slam and Nullo bids apply to **both** partners on the team collectively. For example, a Nullo bid by one player means that their opponents will score for all tricks won by either member of the partnership.
+Les joueurs déclarent leur mariage à tour de rôle, en commençant par le joueur à la gauche du Déclarant. L'équipe du joueur détenant le meilleur Mariage d'Honneur dans chaque classe marque tous ses mariages dans cette classe.
 
-Players declare their meld in turn, beginning with the player to Declarer's left. The team of the player holding the highest Honor Meld in each class scores all their meld in that class.
+Le joueur à la gauche du donneur mène le premier pli. Comme dans le jeu à deux, les joueurs doivent suivre l'enseigne quand ils le peuvent, couper quand ils n'ont pas de la couleur demandée, et quand un atout est mené, surcouper le plus haut atout déjà joué au pli s'ils le peuvent. Ainsi par exemple si deux partenaires n'ont pas de la couleur demandée, ils doivent tous deux couper s'ils le peuvent, bien que le second ne soit pas obligé de surcouper le premier.
 
-The player to dealer's left leads to the first trick. As in the two-player game, players must follow suit when able, trump when void of the suit led, and when a trump is led, beat the highest trump previously played to the trick if they can. So for example if two partners are void of a plain suit that is led, they must both trump if able to, though the second is not forced to overtrump the first.
+Si l'enseigne retournée est l'atout, le détenteur du 7 d'atout peut l'échanger contre l'atout retourné du donneur à tout moment avant que le deuxième joueur ne joue au premier pli, à condition que le 7 d'atout n'ait pas été utilisé dans un mariage.
 
-If the face up suit is trump, the holder of the 7 of trumps may exchange it for the dealer's face up trump at any time before the second player plays to the first trick, provided that the 7 of trumps was not used in a meld.
+Le comptage est le même que dans le jeu à deux, sauf que le nombre de points en dessous de la ligne requis pour la partie est de 125 plutôt que 80.
 
-Scoring is the same as in the two-player game except that the number of points below the line required for game is 125 rather than 80.
-
-In the four-player cutthroat game, the dealer deals to the other three players who play the recommended three-player game described above. In an undoubled contract the dealer scores the same as the two defenders. In a doubled contract the dealer scores the same as the player who chose to side with the Declarer or Defender.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Jo-Jotte
+Dans le jeu à quatre en chacun pour soi, le donneur distribue aux trois autres joueurs qui jouent le jeu à trois recommandé décrit ci-dessus. Sur un contrat non doublé, le donneur marque de la même manière que les deux défenseurs. Sur un contrat doublé, le donneur marque de la même manière que le joueur qui a choisi de se ranger du côté du Déclarant ou du Défenseur.

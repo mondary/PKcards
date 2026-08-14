@@ -2,63 +2,61 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A popular Swiss card game featured in the weekly Samschtig-Jass TV programme, in which players try to predict their card point scores.
+**But :** Jeu de cartes suisse populaire, diffusé dans l'émission télévisée hebdomadaire Samschtig-Jass, dans lequel les joueurs essaient de prédire leurs scores en points de cartes.
 
 ---
 
 ## Introduction
 
-This is a popular Swiss Jass game in which the players must predict in advance how many points they will take in tricks. For many years it has been featured in the weekly [Samschtig Jass](https://www.srf.ch/play/tv/sendung/samschtig-jass?id=58d32b9d-59fc-4026-9f7e-6ae7e841131e) programme on Swiss television (SRF).
+C'est un jeu de Jass suisse populaire dans lequel les joueurs doivent prédire à l'avance combien de points ils prendront en plis. Depuis de nombreuses années, il est présenté dans l'émission hebdomadaire [Samschtig Jass](https://www.srf.ch/play/tv/sendung/samschtig-jass?id=58d32b9d-59fc-4026-9f7e-6ae7e841131e) de la télévision suisse (SRF).
 
-## Players, Cards and Deal
+## Joueurs, cartes et distribution
 
-Three or four players use a Swiss 36-card pack with the usual ranks and values as explained on the Swiss Jass page. In the traditional form of this game there is no extra score for Stöck, Weis or Match: only the basic 157 points (including the 5 for the last trick) are counted.
+Trois ou quatre joueurs utilisent un jeu suisse de 36 cartes avec les rangs et valeurs habituels, comme expliqué sur la page du Jass suisse. Dans la forme traditionnelle de ce jeu, il n'y a pas de score supplémentaire pour Stöck, Weis ou Match : seuls les 157 points de base (y compris les 5 pour le dernier pli) sont comptés.
 
-Deal and play are anticlockwise, and the turn to deal passes to the right after each hand. The dealer shuffles and the player to dealer's left cuts. The suit of the card on the bottom of the section of the pack that the cutter lifts, which will become the bottom card of the pack, determines the trump suit.
+La distribution et le jeu se font dans le sens antihoraire, et le tour de distribuer passe à droite après chaque donne. Le donneur mélange et le joueur à sa gauche coupe. La couleur de la carte au bas de la partie du jeu que le coupeur soulève, qui deviendra la carte du bas du jeu, détermine la couleur d'atout.
 
-The dealer deals out all the cards in batches of three, so that in a four-player game each has a hand of 9 cards and in a three-player game each has 12 cards. The bottom card, which belongs to the dealer's hand, is exposed for all to see until the play begins, and its suit is trumps. 
+Le donneur distribue toutes les cartes par paquets de trois, de sorte que dans un jeu à quatre joueurs chacun a une main de 9 cartes et dans un jeu à trois joueurs chacun a 12 cartes. La carte du bas, qui appartient à la main du donneur, est exposée pour que tous la voient jusqu'au début du jeu, et sa couleur est l'atout.
 
-In Differenzler, unlike some other Jass games, there is **no** opportunity for the holder of the 6 of trumps to exchange it for the trump indocator card.
+Au Differenzler, contrairement à d'autres jeux de Jass, il n'y a **aucune** possibilité pour le détenteur du 6 d'atout de l'échanger contre la carte indicatrice d'atout.
 
-## Predictions
+## Prédictions
 
-Beginning with the player to dealer's right and continuing clockwise, each player must state the number of card points (minimum 0, maximum 157) that they intend to take in the play. The dealer is the last to speak.
+En commençant par le joueur à la droite du donneur et en continuant dans le sens horaire, chaque joueur doit annoncer le nombre de points de cartes (minimum 0, maximum 157) qu'il prévoit prendre en jeu. Le donneur parle en dernier.
 
-## Play
+## Jeu
 
-The player to dealer's right leads to the first trick. The usual rules of play apply. Players able to follow suit may either do so or trump; those unable to follow suit may play any card. A player whose only remaining trump is the Puur (Unter/Jack) does not have to play it when trumps are led.
+Le joueur à la droite du donneur mène au premier pli. Les règles habituelles du jeu s'appliquent. Les joueurs qui peuvent suivre peuvent le faire ou atouter ; ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Un joueur dont le seul atout restant est le Puur (Under/Valet) n'est pas obligé de le jouer lorsque les atouts sont menés.
 
-In Differenzler, when a non-trump suit has been led and trumped, a subsequent player is allowed to undertrump only if they have no card of the suit led.
+Au Differenzler, lorsqu'une couleur non-atout a été menée et atoutée, un joueur ultérieur n'est autorisé à sous-atouter que s'il n'a pas de carte de la couleur menée.
 
-## Scoring
+## Décompte
 
-The scoring is in penalty points. Each player's penalty point score is the absolute difference (always positive or zero) between the number of card points they declared and the number they took in their tricks. A player whose prediction is exactly correct scores zero.
+Le décompte se fait en points de pénalité. Le score de pénalité de chaque joueur est la différence absolue (toujours positive ou zéro) entre le nombre de points de cartes qu'il a déclarés et le nombre qu'il a pris dans ses plis. Un joueur dont la prédiction est exactement correcte marque zéro.
 
-The game continues for a number of deals that is divisible by the number of players, so that each player has dealt an equal number of times. Then the average cumulative score of the four players is calculated, and players pay or receive in proportion to how much their score is above or below the average.
+Le jeu continue pendant un nombre de donnes divisible par le nombre de joueurs, de sorte que chaque joueur a distribué un nombre égal de fois. Ensuite, on calcule la moyenne cumulative des quatre joueurs, et les joueurs paient ou reçoivent en proportion de l'écart de leur score par rapport à la moyenne.
 
-## Variations
+## Variantes
 
-There are many common variants of this game.
+Il existe de nombreuses variantes courantes de ce jeu.
 
-Secret predictions
-Instead of declaring the number of card points they will aim for, each player writes down their prediction on a piece of paper, which they keep concealed until the end of the play.
-Bonus for correct prediction
-Many play that a player who takes exactly the number of card points they predicted can deduct 10 points from their score rather than scoring zero. However a player who predicted 0 points must win at least one trick worth 0 card points to earn the 10-point bonus. A player who predicts 0 and takes no tricks just scores zero.
-Score for Stöck
-Some allow a player who holds the King and the Ober/Queen of trumps to declare 'Stöck' when playing the second of those cards, for which they may choose to score either +20 or -20 card points. They must choose whether to add or subtract the 20 when making the declaration. A player is not obliged to declare Stöck when entitled to, but if they do not declare it when playing the second card of the Stöck and before the next card is played, they score no points for it. 
-Incentive for the Dealer
-In Differenzler with open predictions, some give the dealer an incentive not to make the predictions of the players add up to 157. That ensures that at least one player will score some penalty points. A typical incentive would be to deduct 1 point from the dealer's score for every complete 5 card points difference of the total of the predictions from 157 (for example 5 points if the predictions added up to 130). For a stronger incentive some suggest deducting 1 point for every 2 points difference from 157, so that if the total predicted was 130 the dealer would deduct 13 points from their score. 
-Trump Suit
-Some play that after cutting for trumps the cards are reshuffled and cut again. In this case the dealer does not automatically have a trump card that is known to the other players.
+Prédictions secrètes
+Au lieu de déclarer le nombre de points de cartes visés, chaque joueur écrit sa prédiction sur un papier, qu'il garde caché jusqu'à la fin du jeu.
+Bonus pour prédiction correcte
+Beaucoup jouent qu'un joueur qui prend exactement le nombre de points de cartes prédit peut déduire 10 points de son score au lieu de marquer zéro. Cependant, un joueur qui a prédit 0 points doit gagner au moins un pli valant 0 point en cartes pour obtenir le bonus de 10 points. Un joueur qui prédit 0 et ne prend aucun pli marque simplement zéro.
+Score pour Stöck
+Certains autorisent un joueur qui détient le Roi et l'Ober/Dame d'atout à déclarer « Stöck » en jouant la deuxième de ces cartes, pour laquelle il peut choisir de marquer soit +20 soit -20 points de cartes. Il doit choisir d'ajouter ou de soustraire les 20 au moment de la déclaration. Un joueur n'est pas obligé de déclarer Stöck lorsqu'il y est en droit, mais s'il ne le fait pas en jouant la deuxième carte du Stöck et avant que la carte suivante ne soit jouée, il ne marque aucun point pour celui-ci.
+Incitation pour le donneur
+Au Differenzler avec prédictions ouvertes, certains donnent au donneur une incitation à ne pas faire en sorte que les prédictions des joueurs s'additionnent à 157. Cela garantit qu'au moins un joueur marquera des points de pénalité. Une incitation typique serait de déduire 1 point du score du donneur pour chaque tranche complète de 5 points de carte d'écart entre le total des prédictions et 157 (par exemple 5 points si les prédictions s'additionnent à 130). Pour une incitation plus forte, certains suggèrent de déduire 1 point pour chaque 2 points d'écart par rapport à 157, de sorte que si le total prédit était 130, le donneur déduirait 13 points de son score.
+Couleur d'atout
+Certains jouent qu'après avoir coupé pour les atouts, les cartes sont remélangées et coupées à nouveau. Dans ce cas, le donneur n'a pas automatiquement une carte d'atout connue des autres joueurs.
 
-## Other Sites and Software
+## Autres sites et logiciels
 
-With Kaspar Luethi's [Samschtig Jass](https://www.srf.ch/sendungen/samschtig-jass) program, you can play against the server or against other live players on line.
+Avec le programme [Samschtig Jass](https://www.srf.ch/sendungen/samschtig-jass) de Kaspar Luethi, vous pouvez jouer contre le serveur ou contre d'autres joueurs en direct en ligne.
 
-Philippe Maurer has also developed a [Differenzler Jass computer program](https://www.daph.com/). 
+Philippe Maurer a également développé un [programme informatique de Differenzler Jass](https://www.daph.com/).
 
-[Michael Gasser's Jass!! program](https://www.swissjass.ch) plays Differenzler and other variations. You can play against the computer or over the Internet.
+Le programme [Jass!! de Michael Gasser](https://www.swissjass.ch) joue au Differenzler et à d'autres variantes. Vous pouvez jouer contre l'ordinateur ou sur Internet.
 
-A version of Differenzler Jass (Samschtig Jass) can be played online at Jürg von Burg's [Jass site](http://jass.e-act.ch/).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Swiss Jass > Differenzler Jass
+Une version de Differenzler Jass (Samschtig Jass) peut être jouée en ligne sur le [site de Jass](http://jass.e-act.ch/) de Jürg von Burg.

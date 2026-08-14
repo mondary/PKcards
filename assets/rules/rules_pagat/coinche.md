@@ -2,210 +2,208 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** Rules for the popular French four-player card game 'La Coinche', a version of Belote with bidding, also known as La Belote Coinchée or La Belote aux Enchères.
-**Autres noms :** La Belote Coinchée or La Belote
+**But :** Règles du populaire jeu de cartes français à quatre joueurs « La Coinche », une version de la Belote avec enchères, aussi connue sous le nom de La Belote Coinchée ou La Belote aux Enchères.
+**Autres noms :** La Belote Coinchée, La Belote
 
 ---
 
 ## Introduction
 
-**La Coinche**, also known as **La Coinchée** or **La Belote Coinchée** or **La Belote aux Enchères**, or sometimes **La Belote Contrée** is a version of the French game Belote for four players in fixed partnerships with an auction, in which the team that undertakes to win the higher number of card points chooses the trump suit. There is a huge number of variations of this game, differing between regions of France and between groups of players. These variations affect every part of the game: the deal, the bidding, the play and the scoring. On this page a basic form of the La Coinche will be described first, followed by a selection of common variations, and some references to sources where further variations can be found.
+**La Coinche**, aussi connue sous le nom de **La Coinchée** ou **La Belote Coinchée** ou **La Belote aux Enchères**, ou parfois **La Belote Contrée**, est une version du jeu français de Belote pour quatre joueurs en partenariats fixes avec une enchère, dans laquelle l'équipe qui s'engage à gagner le plus grand nombre de points en cartes choisit la couleur d'atout. Il existe un très grand nombre de variantes de ce jeu, différant selon les régions de France et les groupes de joueurs. Ces variantes affectent toutes les parties du jeu : la distribution, les enchères, le jeu et le décompte. Sur cette page, une forme de base de La Coinche sera d'abord décrite, suivie d'une sélection de variantes courantes, et de références vers des sources où d'autres variantes peuvent être trouvées.
 
-Belote belongs to the Jass family of games, which originated in the Netherlands in the early 18th century or earlier. They spread across Europe, reaching Switzerland by the late 18th century, but surprisingly did not reach France until the First World War. In Jass games and other games where the King and Queen of trumps is a scoring combination, the King-Queen pair was often known as *"belle"*, *"bela"* or a similar term, and this is probably the origin of the French name Belote. The name "La Coinche" comes from *"coincher"*, which is a form of *"contrer", *meaning to contra or double, an action open to player who believes that the opponents' latest bid will fail, and therefore decides to double the score. The basic game of Belote in which a card is turned during the deal to propose a trump suit is still popular, especially in some rural areas of France. It is sometimes known as **"La Tourne"**, to distinguish it from La Coinche, in which trumps are chosen by bidding. Since the Second World War, versions of La Coinche have become increasingly popular and have supplanted the original game in many places.
+La Belote appartient à la famille de jeux du Jass, qui est originaire des Pays-Bas au début du 18e siècle ou plus tôt. Ces jeux se sont répandus en Europe, atteignant la Suisse vers la fin du 18e siècle, mais n'ont étonnamment atteint la France que pendant la Première Guerre mondiale. Dans les jeux de Jass et d'autres jeux où le Roi et la Dame d'atout forment une combinaison de points, la paire Roi-Dame était souvent appelée « *belle* », « *bela* » ou un terme similaire, ce qui est probablement l'origine du nom français Belote. Le nom « La Coinche » vient de « *coincher* », qui est une forme de « *contrer* », signifiant contrer ou doubler, une action ouverte à un joueur qui croit que la dernière enchère des adversaires échouera, et qui décide donc de doubler le score. Le jeu de Belote de base dans lequel une carte est retournée pendant la distribution pour proposer une couleur d'atout est toujours populaire, surtout dans certaines zones rurales de France. Il est parfois appelé **« La Tourne »**, pour le distinguer de La Coinche, dans laquelle les atouts sont choisis par enchères. Depuis la Seconde Guerre mondiale, les versions de La Coinche sont devenues de plus en plus populaires et ont supplanté le jeu original dans de nombreux endroits.
 
-## Players and Cards
+## Joueurs et cartes
 
-La Coinche is played between two teams of two players (North/South versus East/West) using a 32-card pack. Deal and play are anticlockwise. The first team that reaches a score of 2000 points or more wins the match. 
+La Coinche se joue entre deux équipes de deux joueurs (Nord/Sud contre Est/Ouest) avec un jeu de 32 cartes. La distribution et le jeu se font dans le sens antihoraire. La première équipe qui atteint un score de 2000 points ou plus gagne la manche.
 
-The suits are *cœur* (hearts), *carreau* (diamonds), *trèfle* (clubs) and *pique* (spades). In a French pack the aces and picture have indices: 1 = *As* (Ace), R = *Roi* (King), D = *Dame* (Queen), V = *Valet* (Jack). The ranks and point values of the cards are different in the trump suit from the other suits. In descending order, they are:
+Les couleurs sont *cœur*, *carreau*, *trèfle* et *pique*. Dans un jeu français, les as et les figures ont des indices : 1 = *As* (As), R = *Roi*, D = *Dame*, V = *Valet*. Les rangs et valeurs en points des cartes sont différents dans la couleur d'atout par rapport aux autres couleurs. Dans l'ordre décroissant :
 
-| TRUMPS | Point value | OTHER SUITS | Point value |
+| ATOUTS | Valeur en points | AUTRES COULEURS | Valeur en points |
 | Valet | 20 | As | 11 |
 | 9 | 14 | 10 | 10 |
-| As | 11 | Roi |  4 |
-| 10 | 10 | Dame |  3 |
-| Roi |  4 | Valet |  2 |
-| Dame |  3 | 9 |  0 |
-| 8 |  0 | 8 |  0 |
-| 7 |  0 | 7 |  0 |
+| As | 11 | Roi |  4 |
+| 10 | 10 | Dame |  3 |
+| Roi |  4 | Valet |  2 |
+| Dame |  3 | 9 |  0 |
+| 8 |  0 | 8 |  0 |
+| 7 |  0 | 7 |  0 |
 
-The objective is to win tricks containing valuable cards. Additional points are available for winning the last trick (10 points for *dix de der*) and for holding the king and queen of trumps together in hand (20 points for *belote*). In each deal there is a total of 152 for the cards, plus 10 for the last trick, plus a possible 20 if a *Belote* is declared, for a grand total of 162 or 182 points.
+L'objectif est de gagner des plis contenant des cartes de valeur. Des points supplémentaires sont disponibles pour le gain du dernier pli (10 points pour le *dix de der*) et pour la détention du roi et de la dame d'atout ensemble en main (20 points pour la *belote*). À chaque donne, il y a un total de 152 pour les cartes, plus 10 pour le dernier pli, plus un possible 20 si une *Belote* est déclarée, pour un grand total de 162 ou 182 points.
 
-## The Deal
+## La distribution
 
-At the start of a match the dealer is chosen by lot: thereafter the turn to deal passes to the right after each hand. The dealer may shuffle the cards (they must be shuffled before the first deal) and the player to dealer’s left cuts.  The dealer deals all the cards: a batch of 3 cards to each player beginning with the player to his right, then two cards each, then three again (or the cards can be dealt 3-3-2 or 2-3-3). 
+Au début d'une manche, le donneur est choisi par tirage au sort ; ensuite, le tour de distribuer passe à droite après chaque donne. Le donneur peut mélanger les cartes (elles doivent être mélangées avant la première distribution) et le joueur à la gauche du donneur coupe. Le donneur distribue toutes les cartes : une série de 3 cartes à chaque joueur en commençant par le joueur à sa droite, puis deux cartes chacun, puis trois à nouveau (ou les cartes peuvent être distribuées 3-3-2 ou 2-3-3).
 
-## The Bidding
+## Les enchères
 
-The players speak in turn, beginning with the player to dealer’s right. Each player may: 
+Les joueurs parlent à tour de rôle, en commençant par le joueur à la droite du donneur. Chaque joueur peut :
 
-- **Pass**, which does not prevent the player from bidding in future if some other player has bid meanwhile. If all four players pass, the cards are thrown in and the next dealer deals a new hand. 
+- **Passer**, ce qui n'empêche pas le joueur d'enchérir ultérieurement si un autre joueur a entre-temps enchéri. Si les quatre joueurs passent, les cartes sont jetées et le donneur suivant distribue une nouvelle donne.
 
-- **Bid**, by announcing the number of points his team will try to take in tricks, and the suit he would like as trumps. The bid must be for at least 82 points (by convention, 82 is bid by saying “80”), must be a multiple of 10 and must be higher than the previous bid. *(Example of a bid: *“90 pique”* = “90 spades”).*
+- **Enchérir**, en annonçant le nombre de points que son équipe essaiera de prendre en plis, et la couleur qu'il souhaite comme atout. L'enchère doit être d'au moins 82 points (par convention, 82 est enchéri en disant « 80 »), doit être un multiple de 10 et doit être supérieure à l'enchère précédente. *(Exemple d'enchère : « 90 pique » = « 90 piques »).*
 
-- **Double** the opponent’s bid if he thinks the contract will fail: the word for this is *“coincher”*. In reply, the opponents can redouble *(“surcoincher”)* if confident of succeeding. It is not necessary to wait for your turn to say *coinche*, but you can only double if the most recent bid was by an opponent. A *coinche* ends the bidding, except that either the bidder or his partner can *surcoincher*. 
+- **Doubler** l'enchère de l'adversaire s'il pense que le contrat échouera : le mot pour cela est « *coincher* ». En réponse, les adversaires peuvent redoubler (« *surcoincher* ») s'ils sont confiants de réussir. Il n'est pas nécessaire d'attendre son tour pour dire *coinche*, mais on ne peut doubler que si l'enchère la plus récente vient d'un adversaire. Une *coinche* termine les enchères, sauf que soit l'enchérisseur soit son partenaire peut *surcoincher*.
 
-- **Bid a *“capot” *(slam)**, that is, undertake to win all the tricks, which earns a bonus. A *capot* bid ends the bidding and cannot be doubled. 
+- **Enchérir un « *capot* » (chelem)**, c'est-à-dire s'engager à gagner tous les plis, ce qui rapporte un bonus. Une enchère de *capot* termine les enchères et ne peut pas être doublée.
 
-### End of the Bidding
+### Fin des enchères
 
-The bidding ends if all four players pass, or if the other three players pass after a bid, or if there is a *capot* bid or a *coinche*.   
+Les enchères se terminent si les quatre joueurs passent, ou si les trois autres joueurs passent après une enchère, ou s'il y a une enchère de *capot* ou une *coinche*.
 
-The bidding is won by the team that bid last and highest, and their **contract** is to take at least as many points in tricks as they bid (exception: at least 82 if they bid 80), with the named suit as trumps.
+Les enchères sont gagnées par l'équipe qui a enchéri en dernier et le plus haut, et leur **contrat** est de prendre au moins autant de points en plis qu'ils ont enchéri (exception : au moins 82 s'ils ont enchéri 80), avec la couleur nommée comme atout.
 
-## The Play
+## Le jeu
 
-The team that won the bidding now try to make their contract. The cards are played out in eight tricks, and the object is to win tricks containing valuable cards.
+L'équipe qui a gagné les enchères essaie maintenant de réaliser son contrat. Les cartes se jouent en huit plis, et le but est de gagner des plis contenant des cartes de valeur.
 
-The player to dealer’s right leads any card of his choice to the first trick. The suit of the first card played to a trick card fixes the suit to be followed. The other players, in anticlockwise, order must each play a card in turn.
+Le joueur à la droite du donneur mène n'importe quelle carte de son choix au premier pli. La couleur de la première carte jouée à un pli fixe la couleur à suivre. Les autres joueurs, dans l'ordre antihoraire, doivent chacun jouer une carte à tour de rôle.
 
-- **Players must follow suit if they can.** If the card led is not a trump, they may play any card of the suit led, without any obligation to beat the previous cards. However, if a trump is led each player must if possible beat the highest trump in the trick, even if that card was played by their partner. 
+- **Les joueurs doivent suivre la couleur s'ils le peuvent.** Si la carte menée n'est pas un atout, ils peuvent jouer n'importe quelle carte de la couleur menée, sans obligation de battre les cartes précédentes. Cependant, si un atout est mené, chaque joueur doit si possible battre le plus haut atout du pli, même si cette carte a été jouée par son partenaire.
 
-- **If a player is unable to follow suit**, and if the highest card in the trick was played by an opponent, he must play a trump. If an opponent is already winning the trick with a trump, he must play a higher trump if possible; if he does not have a higher trump he must play a lower trump.  However, if the highest card in the trick so far was played by his partner, he is allowed to discard even if he has a trump.  A player who has no card of the suit led and no trumps may discard any card.
+- **Si un joueur ne peut pas suivre la couleur**, et si la carte la plus haute du pli a été jouée par un adversaire, il doit jouer un atout. Si un adversaire gagne déjà le pli avec un atout, il doit jouer un atout supérieur si possible ; s'il n'a pas d'atout supérieur, il doit jouer un atout inférieur. Cependant, si la carte la plus haute du pli jusqu'à présent a été jouée par son partenaire, il est autorisé à se défausser même s'il a un atout. Un joueur qui n'a pas de carte de la couleur menée et pas d'atout peut défausser n'importe quelle carte.
 
-Whoever played the highest trump, or, if no trumps were played, the highest card of the suit that was led wins the trick, and leads a card of his choice to the next trick. Each team stores the tricks it has won in a pile face down in front of one of the players. 
+Celui qui a joué le plus haut atout, ou, s'il n'y a pas eu d'atout, la plus haute carte de la couleur menée remporte le pli, et mène une carte de son choix au pli suivant. Chaque équipe range les plis qu'elle a gagnés dans un tas face cachée devant l'un des joueurs.
 
 ### *Dix de Der*
 
-**The last trick** is worth 10 points to the team that wins it, known as *“dix de der” *(“ten for last”). 
+**Le dernier pli** vaut 10 points pour l'équipe qui le gagne, appelé *« dix de der »* (« dix de dernier »).
 
-### ***Belote***
+### *Belote*
 
-If a player in the team that won the bidding holds the king and queen of trumps, he may declare them for 20 points by saying *“belote”* as he plays the first of the two cards and *“rebelote”* as he plays the second card. The 20 points for *Belote* count towards making the contract and are scored by the bidding team, even if the contract fails. 
+Si un joueur de l'équipe qui a gagné les enchères détient le roi et la dame d'atout, il peut les déclarer pour 20 points en disant *« belote »* lorsqu'il joue la première des deux cartes et *« rebelote »* lorsqu'il joue la deuxième carte. Les 20 points pour la *Belote* comptent pour la réalisation du contrat et sont marqués par l'équipe des enchérisseurs, même si le contrat échoue.
 
-## The Scoring
+## Le décompte
 
-When all eight tricks have been played, each team counts the points it has won: the cards in its tricks, the last trick and the *Belote* if declared.
+Lorsque les huit plis ont été joués, chaque équipe compte les points qu'elle a gagnés : les cartes de ses plis, le dernier pli et la *Belote* si elle a été déclarée.
 
-**In order to succeed, the team that bid the contract must take at least as many points as they bid** (at least 82 if they bid 80). (They do not need to take more points than their opponents.) 
+**Pour réussir, l'équipe qui a fait le contrat doit prendre au moins autant de points qu'elle a enchéri** (au moins 82 si elle a enchéri 80). (Elle n'a pas besoin de prendre plus de points que ses adversaires.)
 
-Successful contract 
-If the contract succeeds, the bidding team scores the number of points they took plus the number they bid, and their opponents score the points they took. Scores are rounded to the nearest 10, with scores ending in 5 rounded upwards. If the bidding team wins all the tricks *(capot)* they score 250 points plus the amount of the bid. If they bid and make *capot* they score 500, plus 20 for *Belote* if declared.
-Failed contract 
-If the contract fails, the bidding team scores nothing (except 20 points for *Belote* if they declared it). Their opponents score 160 plus the amount of the bid*.* If a bid of capot is lost, the opponents score 500.
-Coinche and surcoinche 
-A *coinche* doubles the score for the bid **only**, and a *surcoinche* doubles it again. *For example if we bid 100, they say coinche, we declare a *Belote*, and the contract fails, we score 20 and our opponents score 160 + (**100 **× 2) = 360.*
+Contrat réussi
+Si le contrat réussit, l'équipe des enchérisseurs marque le nombre de points qu'elle a pris plus le nombre qu'elle a enchéri, et ses adversaires marquent les points qu'ils ont pris. Les scores sont arrondis à la dizaine la plus proche, les scores se terminant par 5 étant arrondis au supérieur. Si l'équipe des enchérisseurs gagne tous les plis (*capot*), elle marque 250 points plus le montant de l'enchère. Si elle a enchéri et réalisé le *capot*, elle marque 500, plus 20 pour la *Belote* si elle a été déclarée.
+Contrat échoué
+Si le contrat échoue, l'équipe des enchérisseurs ne marque rien (sauf 20 points pour la *Belote* si elle a été déclarée). Leurs adversaires marquent 160 plus le montant de l'enchère. Si une enchère de capot est perdue, les adversaires marquent 500.
+Coinche et surcoinche
+Une *coinche* double le score de l'enchère **uniquement**, et une *surcoinche* le double à nouveau. *Par exemple, si nous enchérissons 100, ils disent coinche, nous déclarons une Belote, et le contrat échoue, nous marquons 20 et nos adversaires marquent 160 + (100 × 2) = 360.*
 
-The game ends when one or both teams achieve a score of 2000 points or more, and the team with the higher score wins. In case of a tie, the winners of the latest deal win the game.
+Le jeu se termine lorsqu'une ou les deux équipes atteignent un score de 2000 points ou plus, et l'équipe avec le score le plus élevé gagne. En cas d'égalité, les gagnants de la dernière donne gagnent la partie.
 
-## Notes on Bidding
+## Notes sur les enchères
 
-As a rough guide one can reckon on about 20 points for each trick won, plus an extra 20 if holding a Belote, so for example one can bid 100 if confident of winning at least 5 tricks. As a refinement, a trick taken with the valet (jack) of trumps is clearly more valuable on average, since the valet is worth 20 points in itself, while tricks in non-trump suits are on average worth less.
+Comme guide approximatif, on peut compter environ 20 points pour chaque pli gagné, plus 20 supplémentaires si l'on détient une Belote, donc par exemple on peut enchérir 100 si l'on est sûr de gagner au moins 5 plis. Plus précisément, un pli pris avec le valet d'atout est clairement plus précieux en moyenne, puisque le valet vaut lui-même 20 points, tandis que les plis en couleurs non-atout valent en moyenne moins.
 
-Regular players develop bidding systems, through which they can convey more precise information to their partner. For example an opening bid of 80 may show the jack or nine of trumps, 90 may show both, and 100 the top three trumps V-9-A. There are many possible systems, but note that the opponents can end the auction at any time with a *coinche*, so in contrast to Bridge, it is unwise to bid a contract that one is not prepared to play.
+Les joueurs réguliers développent des systèmes d'enchères, grâce auxquels ils peuvent transmettre des informations plus précises à leur partenaire. Par exemple, une enchère d'ouverture de 80 peut montrer le valet ou le neuf d'atout, 90 peut montrer les deux, et 100 les trois meilleurs atouts V-9-A. Il existe de nombreux systèmes possibles, mais notez que les adversaires peuvent terminer les enchères à tout moment avec une *coinche*, donc contrairement au Bridge, il est déconseillé d'enchérir un contrat que l'on n'est pas prêt à jouer.
 
-## Variations
+## Variantes
 
-### Deal
+### Distribution
 
-Practice varies as to whether the cards are shuffled before each deal. Some require the dealer to shuffle; in other groups it is optional or even discouraged. In any case it is obligatory for the dealer's left-hand opponent to cut the cards. If the cards are not shuffled, players may use their observation of the order in which cards were played in the previous deal and the way the cards were gathered to estimate the likely distribution of cards in the current deal.
+La pratique varie quant à savoir si les cartes sont mélangées avant chaque distribution. Certains exigent que le donneur mélange ; dans d'autres groupes c'est facultatif voire découragé. Dans tous les cas, il est obligatoire pour l'adversaire à la gauche du donneur de couper les cartes. Si les cartes ne sont pas mélangées, les joueurs peuvent utiliser leur observation de l'ordre dans lequel les cartes ont été jouées lors de la donne précédente et la façon dont les cartes ont été ramassées pour estimer la distribution probable des cartes dans la donne en cours.
 
-Some allow or require the cards to be dealt in batches of four, instead of in threes and twos.
+Certains autorisent ou exigent que les cartes soient distribuées par paquets de quatre, au lieu de par trois et deux.
 
-Some use a two-stage deal, as in Belote without bidding. Initially just six cards are dealt to each player, in batches of three; then the bidding takes place. After the bidding the dealer deals the last batch of two cards to each player.
+Certains utilisent une distribution en deux étapes, comme dans la Belote sans enchères. Initialement, seulement six cartes sont distribuées à chaque joueur, par paquets de trois ; puis les enchères ont lieu. Après les enchères, le donneur distribue la dernière série de deux cartes à chaque joueur.
 
-### Bidding
+### Enchères
 
-Some play that a player may only say *"coinche"* in turn. In this version, if for example South bids "110 Diamonds" and West believes this will fail, West is not allowed to say anything or give any indication that he or she wishes to *coincher* until East and North have had their turns to speak. If East decides, for example, to compete with 120 Clubs, then it is no longer possible for West to double South's bid.
+Certains jouent qu'un joueur ne peut dire « *coinche* » qu'à son tour. Dans cette version, si par exemple le Sud enchérit « 110 Carreau » et que l'Ouest pense que cela échouera, l'Ouest n'est pas autorisé à dire quoi que ce soit ni à donner quelque indication de son intention de *coincher* jusqu'à ce que l'Est et le Nord aient eu leur tour de parler. Si l'Est décide, par exemple, de concurrencer avec 110 Trèfle, il n'est alors plus possible pour l'Ouest de doubler l'enchère du Sud.
 
-Some play that a *coinche* can only be said in turn **and does not end the bidding**. So if South bids 100 Hearts and East says *"coinche"*, North can escape by bidding a different suit - say 110 Spades, or West may bid, or South may try a different bid, for example 110 Clubs, at his next turn. The bidding will only end after three consecutive passes. This makes the game more Bridge-like, and opens up the possibility of artificial bids whose purpose is just to convey information.
+Certains jouent qu'une *coinche* ne peut être dite qu'à son tour **et ne termine pas les enchères**. Ainsi, si le Sud enchérit 100 Cœur et que l'Est dit « *coinche* », le Nord peut s'échapper en enchérissant une couleur différente — par exemple 110 Pique, ou l'Ouest peut enchérir, ou le Sud peut essayer une enchère différente, par exemple 110 Trèfle, à son prochain tour. Les enchères ne se termineront qu'après trois passes consécutives. Cela rend le jeu plus semblable au Bridge et ouvre la possibilité d'enchères artificielles dont le seul but est de transmettre de l'information.
 
-Some allow a *capot* bid to be doubled and redoubled.
+Certains autorisent qu'une enchère de *capot* puisse être doublée et redoublée.
 
-Another Bridge-like modification is the no trump *(sans atout*) bid, which proposes a contract in which there is no trump suit and all suits rank from high to low A-10-K-Q-J-9-8-7. When this is used, there is also usually an "all trump" *(tout atout)* bid in which every suit ranks like the trumps is a normal game: J-9-A-10-K-Q-8-7. Bids still name a number of points, and each must be higher than the last: for example if the previous player said 90 Hearts, this can be outbid by 100 of anything, for example 100 Tout Atout. Usually some adjustments are made to ensure that the number of points in the pack remains 162 including the *dix de der*. There are various systems, none of them particularly elegant. For example in *sans atout* the value of an ace may be increased to 19, while in *tout atout* the card values are reduced to J=14, 9=9, A=6, 10=5, K=3, Q=1. In *sans atout* there is no *belote* and no obligation to overtake in the play. In *tout atout* a *belote* can be declared in any suit, and players must always beat the highest card in the trick when able to. In both *sans atout* and *tout atout*, a player who is unable to follow suit is free to play any card.
+Une autre modification de type Bridge est l'enchère sans atout (*sans atout*), qui propose un contrat sans couleur d'atout et où toutes les couleurs se classent de haut en bas A-10-R-D-V-9-8-7. Lorsqu'elle est utilisée, il y a aussi généralement une enchère « tout atout » (*tout atout*) dans laquelle chaque couleur se classe comme l'atout dans un jeu normal : V-9-A-10-R-D-8-7. Les enchères nomment toujours un nombre de points, et chaque enchère doit être supérieure à la précédente : par exemple si le joueur précédent a dit 90 Cœur, cela peut être surenchéri par 100 de n'importe quoi, par exemple 100 Tout Atout. Généralement, certains ajustements sont faits pour s'assurer que le nombre de points dans le jeu reste de 162 en incluant le *dix de der*. Il existe divers systèmes, aucun particulièrement élégant. Par exemple en *sans atout* la valeur d'un as peut être augmentée à 19, tandis qu'en *tout atout* les valeurs des cartes sont réduites à V=14, 9=9, A=6, 10=5, R=3, D=1. En *sans atout* il n'y a pas de *belote* et pas d'obligation de surmonter dans le jeu. En *tout atout* une *belote* peut être déclarée dans n'importe quelle couleur, et les joueurs doivent toujours battre la carte la plus haute du pli quand ils le peuvent. Dans le *sans atout* et le *tout atout*, un joueur qui ne peut pas suivre est libre de jouer n'importe quelle carte.
 
-Some introduce a ranking order of suits (and *sans atout* and *tout atout* if played) - from lowest to highest: clubs, diamonds, hearts, spades, *sans atout*, *tout atout*. A bid can be overcalled by an **equal** bid in a higher denomination, or a higher number in any denomination. For example 100 clubs is higher than 90 *sans atout*, which is higher than 90 hearts. This variant leads to lengthier auctions and potentially more elaborate bidding systems by which partners can exchange information.
+Certains introduisent un ordre de classement des couleurs (et du *sans atout* et *tout atout* si joués) — du plus bas au plus haut : trèfle, carreau, cœur, pique, *sans atout*, *tout atout*. Une enchère peut être surenchérie par une enchère **égale** dans une dénomination supérieure, ou un nombre supérieur dans n'importe quelle dénomination. Par exemple, 100 trèfle est supérieur à 90 *sans atout*, qui est supérieur à 90 cœur. Cette variante conduit à des enchères plus longues et potentiellement à des systèmes d'enchères plus élaborés par lesquels les partenaires peuvent échanger des informations.
 
-Some allow an additional (highest) bid of *générale*, in which the bidder has to win all eight tricks alone, without help from partner. The bidder of a *générale* may have the right to lead to the first trick.
+Certains autorisent une enchère (la plus élevée) supplémentaire de *générale*, dans laquelle l'enchérisseur doit gagner les huit plis seul, sans l'aide de son partenaire. L'enchérisseur d'une *générale* peut avoir le droit de mener au premier pli.
 
-### Play of the cards
+### Jeu des cartes
 
-In the rules given above, if a non-trump is led and trumped, a subsequent player who is an opponent of the player whose trump is currently winning the trick, and who also has no card of the suit led, is obliged to trump, even if unable to beat the winning trump. For example, if hearts are trumps, my partner leads the ![club](../images/internat/club.gif)10, the next player plays the ![heart](../images/internat/heart.gif)9, and I have no clubs and my only trump is the ![heart](../images/internat/heart.gif)10, I am forced to play it, even though the opponents are certain to win the trick. Undertrumping like this is called "*pisser*". However, some players, especially in the south of France, do not require this. If a non-trump lead is trumped, then a subsequent player who cannot follow suit is obliged to overtrump if an opponent is currently winning the trick, but is not obliged to play a trump if unable to beat the winning trump. So in the example, if I have no clubs and do not have the ![heart](../images/internat/heart.gif)V to beat the 9, I am not obliged to play a trump at all, but may discard any card I wish.
+Dans les règles données ci-dessus, si une non-atout est menée et atoutée, un joueur ultérieur qui est un adversaire du joueur dont l'atout gagne actuellement le pli, et qui n'a pas non plus de carte de la couleur menée, est obligé d'atouter, même s'il est incapable de battre l'atout gagnant. Par exemple, si les cœurs sont atout, mon partenaire mène le ![trèfle](../images/internat/club.gif)10, le joueur suivant joue le ![cœur](../images/internat/heart.gif)9, et je n'ai pas de trèfle et mon seul atout est le ![cœur](../images/internat/heart.gif)10, je suis forcé de le jouer, même si les adversaires gagneront certainement le pli. Ce sous-coupage s'appelle « *pisser* ». Cependant, certains joueurs, surtout dans le sud de la France, ne l'exigent pas. Si un pli non-atout est atouté, un joueur ultérieur qui ne peut pas suivre est obligé de suratouter si un adversaire gagne actuellement le pli, mais n'est pas obligé de jouer un atout s'il est incapable de battre l'atout gagnant. Ainsi dans l'exemple, si je n'ai pas de trèfle et que je n'ai pas le ![cœur](../images/internat/heart.gif)V pour battre le 9, je ne suis pas obligé de jouer un atout du tout, mais je peux défausser n'importe quelle carte.
 
-Some also relax the rules when a trump is led, and allow a player whose partner is winning the trick to follow suit with any trump. So under this rule, if I lead the nine of trumps and my partner has the jack (valet), he is not obliged to play it, but can follow with a low trump instead if he has one.
+Certains assouplissent aussi les règles lorsqu'un atout est mené, et autorisent un joueur dont le partenaire gagne le pli à suivre avec n'importe quel atout. Ainsi, selon cette règle, si je mène le neuf d'atout et que mon partenaire a le valet, il n'est pas obligé de le jouer, mais peut suivre avec un atout bas s'il en a un.
 
-### Announcements
+### Annonces
 
-Many allow *belote* to be announced by any player, not only by a member of the team that won the bidding.
+Beaucoup autorisent la *belote* à être annoncée par n'importe quel joueur, pas seulement par un membre de l'équipe qui a gagné les enchères.
 
-Traditionally, further announcements are allowed, as in ordinary Belote. These are as follows.
+Traditionnellement, d'autres annonces sont permises, comme dans la Belote ordinaire. Ce sont les suivantes :
 
-- 4 cards of the same rank *("carré")* 
+- 4 cartes de même rang (*« carré »*)
 
-- 4 jacks: 200 points 
+- 4 valets : 200 points
 
-- 4 nines: 150 points 
+- 4 neufs : 150 points
 
-- 4 Aces, 4 tens, 4 Ks, 4 Qs: 100 points 
+- 4 as, 4 dix, 4 rois, 4 dames : 100 points
 
-- Sequences from 3 to 5 consecutive cards of the same suit. For this purpose the cards of all suits rank in the order: **A, K, Q, J, 10, 9, 8, 7** 
+- Séquences de 3 à 5 cartes consécutives de la même couleur. Dans ce but, les cartes de toutes les couleurs se classent dans l'ordre : **A, R, D, V, 10, 9, 8, 7**
 
-- 5 cards: 100 points 
+- 5 cartes : 100 points
 
-- 4 cards: 50 points 
+- 4 cartes : 50 points
 
-- 3 cards: 20 points
+- 3 cartes : 20 points
 
-Combinations of 4 eights or 4 sevens have no value, and sequences longer than 5 cards are declared and counted as any of the 5-card sequences which they include.
+Les combinaisons de 4 huit ou 4 sept n'ont aucune valeur, et les séquences de plus de 5 cartes sont déclarées et comptées comme l'une des séquences de 5 cartes qu'elles incluent.
 
-Any player who holds any of these combinations in hand may announce them just before playing to the first trick. However, only one team can score for announcements: the team that announced the highest single combination scores for all its announcements, and the other team scores none of theirs. The highest announcement is determined as follows:
+Tout joueur détenant l'une de ces combinaisons en main peut les annoncer juste avant de jouer au premier pli. Cependant, une seule équipe peut marquer pour les annonces : l'équipe qui a annoncé la combinaison la plus élevée marque pour toutes ses annonces, et l'autre équipe ne marque aucune des siennes. L'annonce la plus élevée est déterminée comme suit :
 
-- Any *carré* beats any sequence
+- N'importe quel *carré* bat n'importe quelle séquence
 
-- A higher scoring combination beats a lower scoring one
+- Une combinaison à score plus élevé bat une combinaison à score moins élevé
 
-- Among equal scoring combinations of the same type, one with higher cards beats one with lower cards
+- Parmi les combinaisons de même score et de même type, celle avec les cartes les plus hautes bat celle avec les cartes les plus basses
 
-- Among equal sequences consisting of the same cards in different suits, a trump sequence is better than a non-trump one
+- Parmi les séquences égales composées des mêmes cartes dans différentes couleurs, une séquence d'atout est meilleure qu'une non-atout
 
-- Among equal non-trump sequences, some play that the first to be announced is best; others play that they annul each other and neither team scores.
+- Parmi les séquences non-atout égales, certains jouent que la première annoncée est la meilleure ; d'autres jouent qu'elles s'annulent mutuellement et qu'aucune équipe ne marque.
 
-Note that sequences longer than 5 cards have no special significance. So for example K-Q-J-10-9 is better than Q-J-10-9-8-7, since both count as 5-card sequences and the king is higher than the queen.
+Notez que les séquences de plus de 5 cartes n'ont pas de signification spéciale. Ainsi par exemple R-D-V-10-9 est meilleure que D-V-10-9-8-7, puisque les deux comptent comme des séquences de 5 cartes et que le roi est supérieur à la dame.
 
-Some allow players to announce combinations even if it is clear that they cannot be scored because the opponents have the best announcement. Others allow announcements only of combinations that are potentially the best, in which case the team with the best announcement can announce and score additional combinations at the end of the first trick.
+Certains autorisent les joueurs à annoncer des combinaisons même s'il est clair qu'elles ne peuvent pas être marquées car les adversaires ont la meilleure annonce. D'autres n'autorisent que les annonces de combinaisons potentiellement les meilleures, auquel cas l'équipe avec la meilleure annonce peut annoncer et marquer des combinaisons supplémentaires à la fin du premier pli.
 
-The declaration of *belote* is separate from this process. It is declared by saying *"belote"* and *"rebelote"* as the two cards are played, and is always scored if declared, irrespective of any other announcements by either team.
+La déclaration de *belote* est séparée de ce processus. Elle est déclarée en disant « *belote* » et « *rebelote* » lorsque les deux cartes sont jouées, et est toujours marquée si elle est déclarée, indépendamment de toute autre annonce de l'une ou l'autre équipe.
 
-Playing with announcements makes it possible to bid much higher than in the game without announcements. For example a player who has four jacks can clearly make at least 220 with any suit as trumps. 
+Jouer avec des annonces permet d'enchérir beaucoup plus haut que dans le jeu sans annonces. Par exemple, un joueur qui a quatre valets peut clairement réaliser au moins 220 avec n'importe quelle couleur comme atout.
 
-Some players, on the other hand, do not allow any announcements at all, not even *belote*, so that there are always just 162 points in the game. Since the late 20th century, versions without announcements have become more popular, as this is thought to reduce the element of luck. Some reserve the name Belote Contrée for variants with few or no announcements, in which a *coinche* (or *contre*) is only annouced in turn and does not end the auction.
+Certains joueurs, en revanche, n'autorisent aucune annonce, pas même la *belote*, de sorte qu'il y a toujours exactement 162 points dans le jeu. Depuis la fin du 20e siècle, les versions sans annonces sont devenues plus populaires, car cela est censé réduire la part de chance. Certains réservent le nom Belote Contrée aux variantes avec peu ou pas d'annonces, dans lesquelles une *coinche* (ou *contre*) n'est annoncée qu'à son tour et ne termine pas les enchères.
 
-### Scoring
+### Décompte
 
-Some play the game without announcements to a target of 1000 or 1500 rather than 2000. When playing with announcements, it is usual to set a higher target score for winning the game, for example 3000.
+Certains jouent sans annonces jusqu'à un objectif de 1000 ou 1500 au lieu de 2000. Lorsqu'on joue avec des annonces, il est courant de fixer un objectif de score plus élevé pour gagner, par exemple 3000.
 
-Some play that for a contract to be successful, the bidding team must not only take at least the number of points that they bid: they must also take more points than the opponents. (It is a vestige of this rule that requres a score of at least 82 to win a bid of 80, since at least 82 points are needed to have more than the opponents.) On the other hand, some play that it is only necessary to take as many points as were bid, even in the case of a bid of 80. A few groups require an extra 2 points for every bid - for example at least 112 poionts to win a bid of 110.
+Certains jouent que pour qu'un contrat soit réussi, l'équipe des enchérisseurs ne doit pas seulement prendre au moins le nombre de points qu'elle a enchéri : elle doit aussi prendre plus de points que les adversaires. (C'est un vestige de cette règle qui exige un score d'au moins 82 pour gagner une enchère de 80, car il faut au moins 82 points pour en avoir plus que les adversaires.) D'un autre côté, certains jouent qu'il suffit de prendre autant de points qu'enchéri, même dans le cas d'une enchère de 80. Quelques groupes exigent 2 points supplémentaires pour chaque enchère — par exemple au moins 112 points pour gagner une enchère de 110.
 
-When a contract fails, the opponents score not only the bid and the card points, but also the points for announcements if any. Many also award the points for *belote* to the opponents in this case, even if it was declared by the bidding team. In this case it can be in the bidding team's interest to suppress the *belote* announcement when their contract is likely to fail. They can do this by **not** saying *"rebelote"* when playing the second card, in which case the 20 points are not scored.
+Lorsqu'un contrat échoue, les adversaires marquent non seulement l'enchère et les points des cartes, mais aussi les points des annonces s'il y en a. Beaucoup accordent aussi les points de la *belote* aux adversaires dans ce cas, même si elle a été déclarée par l'équipe des enchérisseurs. Dans ce cas, il peut être dans l'intérêt de l'équipe des enchérisseurs de supprimer l'annonce de *belote* lorsque leur contrat risque d'échouer. Ils peuvent le faire en **ne** disant pas « *rebelote* » en jouant la deuxième carte, auquel cas les 20 points ne sont pas marqués.
 
-There are various different ways to score *capot*. Some score it only if it is bid. Some give only 410 points (160+250) to the opponents if it is bid and fails. If a bid of *générale* is allowed, the score for it must be agreed - for example 1000.
+Il existe diverses façons de compter le *capot*. Certains ne le comptent que s'il a été enchéri. Certains ne donnent que 410 points (160+250) aux adversaires s'il a été enchéri et échoue. Si une enchère de *générale* est autorisée, le score de celle-ci doit être convenu — par exemple 1000.
 
-Some score only the points for the bid, not for the cards taken in play. For example if the bid is 100, then either the bidders or their opponents score just 100 (or 200 in case of a *coinche*) depending only on whether the bidders succeeded in their contract.
+Certains ne comptent que les points de l'enchère, pas les cartes prises en jeu. Par exemple, si l'enchère est 100, alors soit les enchérisseurs, soit leurs adversaires marquent juste 100 (ou 200 en cas de *coinche*) selon uniquement si les enchérisseurs ont réussi leur contrat.
 
-When *coinche* is said, some apply the double not just to the bid but to the entire score, so that for example whena team loses a 100 bid with *coinche* and there are no announcements, the opponent score 520 = 2 × (100 + 160).
+Lorsqu'une *coinche* est dite, certains appliquent le double non seulement à l'enchère mais à l'ensemble du score, de sorte que par exemple lorsqu'une équipe perd une enchère de 100 avec *coinche* et qu'il n'y a pas d'annonces, les adversaires marquent 520 = 2 × (100 + 160).
 
-Some play that a *surcoinche* does not double the score again, but only increases the multiplier from 2× to 3×.
+Certains jouent qu'une *surcoinche* ne double pas le score à nouveau, mais augmente seulement le multiplicateur de 2× à 3×.
 
-## References and Other Coinche Web Sites
+## Références et autres sites sur la Coinche
 
-Rules in French can be found on Jean-François Bustarret's [Coinche page](https://web.archive.org/web/20250114072912/https://www.jeuxdecartes.net/jeux-cartes/coinche/). 
+Des règles en français peuvent être trouvées sur la [page Coinche](https://web.archive.org/web/20250114072912/https://www.jeuxdecartes.net/jeux-cartes/coinche/) de Jean-François Bustarret.
 
-The [French Wikipedia page on La Coinche](https://fr.wikipedia.org/wiki/Coinche) has a large collection of variants.
+La [page Wikipedia française sur La Coinche](https://fr.wikipedia.org/wiki/Coinche) contient une grande collection de variantes.
 
-Dominique Hazael-Massieux's site has [rules and examples of Contrée in French](https://www.nimbustier.net/contree/) and also [in English](https://www.nimbustier.net/contree/index-en.html). 
+Le site de Dominique Hazael-Massieux propose des [règles et exemples de Contrée en français](https://www.nimbustier.net/contree/) ainsi qu'[en anglais](https://www.nimbustier.net/contree/index-en.html).
 
-## Coinche Online Servers and Software
+## Serveurs en ligne et logiciels de Coinche
 
-You can download Laurent Pellenc's [Belote Bridgée program](http://www.pellencsoftware.com/bbridgee.htm) from his page. There is also an English version of this program, which he has called [32 Card Bridge](http://www.pellencsoftware.com/32bridge.htm). 
+Vous pouvez télécharger le [programme Belote Bridgée](http://www.pellencsoftware.com/bbridgee.htm) de Laurent Pellenc depuis sa page. Il existe aussi une version anglaise de ce programme, qu'il a appelée [32 Card Bridge](http://www.pellencsoftware.com/32bridge.htm).
 
-At the [Ludiclub](https://www.ludi.com/jeux/jeux-de-cartes.aspx) site you can play Belote and Coinche on line. 
+Sur le site [Ludiclub](https://www.ludi.com/jeux/jeux-de-cartes.aspx) vous pouvez jouer à la Belote et à la Coinche en ligne.
 
-At Pierre-Marie Petit's [Jeubelote](https://www.jeubelote.com) site you can play Belote tournament deals on line. 
+Sur le site [Jeubelote](https://www.jeubelote.com) de Pierre-Marie Petit, vous pouvez jouer des donnes de tournoi de Belote en ligne.
 
-Sylvain Labbe's [Free Card Games](https://labbe.pagat.com/) includes Net.Belote, an online Belote program for play against live opponents whose options include Coinche. It can be used both on desktop computers and on mobile devices of several types.
+Les [Free Card Games](https://labbe.pagat.com/) de Sylvain Labbe incluent Net.Belote, un programme de Belote en ligne pour jouer contre des adversaires en direct, dont les options incluent la Coinche. Il peut être utilisé sur ordinateurs de bureau et sur plusieurs types d'appareils mobiles.
 
-At Baptiste Marchand's [Re-Belote](https://www.re-belote.fr/) site you can play several Belote variants including Coinche on line in any browser that supports HTML5. 
+Sur le site [Re-Belote](https://www.re-belote.fr/) de Baptiste Marchand, vous pouvez jouer à plusieurs variantes de Belote, y compris la Coinche, en ligne dans n'importe quel navigateur supportant HTML5.
 
-At iBelote.com you can play [Coinche](https://ibelote.com) with variants Sans Atout and Tout Atout with the highest bid of Générale. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Belote > La Coinche
+Sur iBelote.com vous pouvez jouer à la [Coinche](https://ibelote.com) avec les variantes Sans Atout et Tout Atout avec l'enchère la plus élevée de Générale.

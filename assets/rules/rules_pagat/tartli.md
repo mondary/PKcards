@@ -4,259 +4,257 @@
 **Nombre de cartes :** 32
 **Difficulté :** ⭐⭐⭐
 **Type :** Jass/Piquet, Plis
-**But :** Also known as Felsős, a two-player trick and draw card game from Hungary and Austria in which sets and sequences can be collected and declared during the play.
+**But :** Aussi connu sous le nom de Felsős, un jeu de cartes à deux joueurs de type plis et pioche originaire de Hongrie et d'Autriche, dans lequel des combinaisons et des séquences peuvent être collectées et déclarées au cours de la partie.
 **Autres noms :** Felsős
 
 ---
 
 ## Introduction
 
-**Tartli** is a two-player card game that was popular around the turn of the 19th and 20th century in Hungary. Sándor Bródy, a Hungarian author from that era, was so fond of it that he would even pay players to join him for a game or two after lunch. By the mid 1920s, the game was on the decline, a situation described as „agonizing” by the prolific writer and card game enthusiast István Szomaházy.
+Le **Tartli** est un jeu de cartes à deux joueurs qui était populaire autour du tournant des XIXe et XXe siècles en Hongrie. Sándor Bródy, un écrivain hongrois de cette époque, l'appréciait tellement qu'il allait jusqu'à payer des joueurs pour le rejoindre pour une ou deux parties après le déjeuner. Au milieu des années 1920, le jeu était en déclin, situation décrite comme « agonisante » par le prolifique écrivain et passionné de jeux de cartes István Szomaházy.
 
-Tartli is a trick and draw game of the Jass family played with a 32-card German suited pack, in which combinations can be declared not only at the start but during the game, as and when the necessary cards are collected. In Tartli, unlike most Jass games, it is the Over-Knave rather than the Under-Knave that is the highest trump. In Hungarian this card is called *Felső* (roughly translated as "Upper"), and the game is sometimes known as **Felsős** in contrast to Alsós in which the top trump is the Under-Knave (*Alsó*). 
+Le Tartli est un jeu de plis et pioche de la famille Jass joué avec un jeu de 32 cartes à enseignes allemandes, dans lequel des combinaisons peuvent être déclarées non seulement au début mais au cours de la partie, au fur et à mesure que les cartes nécessaires sont collectées. Au Tartli, contrairement à la plupart des jeux de Jass, c'est l'Over-Knave (le valet de dessus) plutôt que l'Under-Knave (le valet de dessous) qui est le plus haut atout. En hongrois, cette carte est appelée *Felső* (traduit approximativement par « Supérieur »), et le jeu est parfois connu sous le nom de **Felsős** par opposition à Alsós où le plus haut atout est l'Under-Knave (*Alsó*).
 
-A version of Tartli is also played in Austria under the name **Tartl**, although there too it has declined in popularity. The Hungarian form of the game will be described first, and then the differences in the Austrian version will be listed.
+Une version du Tartli se joue aussi en Autriche sous le nom de **Tartl**, bien qu'elle y ait également décliné en popularité. La forme hongroise du jeu sera décrite en premier, puis les différences de la version autrichienne seront listées.
 
-*This page is based on a contribution from Róbert Kovács.*
+*Cette page est basée sur une contribution de Róbert Kovács.*
 
-## Players and Equipment
+## Joueurs et matériel
 
-Tartli is traditionally played with a 32 card Hungarian deck of cards, which has German suits of Acorns (*makk*), Leaves (*zöld*), Hearts (*piros*) and Gourds (*tök*) and depicts the four seasons on the Aces and characters from Friedrich Schiller’s William Tell play on the Over Knaves and Under Knaves. 
+Le Tartli se joue traditionnellement avec un jeu de 32 cartes hongrois, qui comporte les enseignes allemandes Glands (*makk*), Feuilles (*zöld*), Cœurs (*piros*) et Gourdes (*tök*) et représente les quatre saisons sur les As et des personnages de la pièce *Guillaume Tell* de Friedrich Schiller sur les Overs et les Unders.
 
-Since the cards have no index letters, here is a list of the cards in each suit and how to recognise them.
+Les cartes n'ayant pas de lettres d'index, voici la liste des cartes de chaque couleur et comment les reconnaître.
 
-- The **Ace** (*ász*) is also known in Hungary (as in Austria and Southern Germany) as the Pig (*disznó*). The suit symbols in the four corners of the Aces are rotated and they show scenes depicting the four seasons of the year.
+- L'**As** (*ász*) est aussi connu en Hongrie (comme en Autriche et en Allemagne du Sud) sous le nom de Cochon (*disznó*). Les symboles d'enseigne aux quatre coins des As sont pivotés et représentent des scènes des quatre saisons de l'année.
 
-- The **King** (*király*) is mounted on a horse and has upright suit symbols. It is also known as the Foal (*csikó*), probably because of the horse.
+- Le **Roi** (*király*) est monté à cheval avec des symboles d'enseigne dressés. Il est aussi appelé le Poulain (*csikó*), probablement à cause du cheval.
 
-- The **Over Knave** (*felső*) has no horse, and a suit symbol at the top left corner of the card. It is also known as *filkó*.
+- L'**Over Knave** (*felső*) n'a pas de cheval et un symbole d'enseigne dans le coin supérieur gauche de la carte. Il est aussi appelé *filkó*.
 
-- The **Under Knave** (*alsó*) is distinguished from the Over by having its suit symbol lower down the left hand side of the card.
+- L'**Under Knave** (*alsó*) se distingue de l'Over par son symbole d'enseigne placé plus bas sur le côté gauche de la carte.
 
-- The **Ten** (*tízes*), **Nine** (*kilences*), **Eight** (*nyolcas*) and **Seven** (*hetes*) have the appropriate number of suit symbols at each end of the card and the corresponding Roman numbers X, IX, VIII, VII. 
+- Le **Dix** (*tízes*), le **Neuf** (*kilences*), le **Huit** (*nyolcas*) et le **Sept** (*hetes*) comportent le nombre correspondant de symboles d'enseigne à chaque extrémité de la carte et les chiffres romains correspondants X, IX, VIII, VII.
 
-Here for example are all the acorns in the order Ace, King, Over, Under, Ten, Nine, Eight, Seven. 
+Voici par exemple tous les glands dans l'ordre As, Roi, Over, Under, Dix, Neuf, Huit, Sept.
 
-![ace](../images/tell/ea.gif)![king](../images/tell/ek.gif)![over](../images/tell/eo.gif)![under](../images/tell/eu.gif)![ten](../images/tell/ez.gif)![nine](../images/tell/e9.gif)![eight](../images/tell/e8.gif)![seven](../images/tell/e7.gif)
+![as](../images/tell/ea.gif)![roi](../images/tell/ek.gif)![over](../images/tell/eo.gif)![under](../images/tell/eu.gif)![dix](../images/tell/ez.gif)![neuf](../images/tell/e9.gif)![huit](../images/tell/e8.gif)![sept](../images/tell/e7.gif)
 
-If no William Tell cards are available, in an emergency it would be possible to play with international cards, using Queens for Over Knaves and Jacks for Under Knaves. 
+Si aucune carte Guillaume Tell n'est disponible, il serait possible en urgence de jouer avec des cartes internationales, en utilisant les Dames pour les Overs et les Valets pour les Unders.
 
-Tartli is a point-trick game with trumps. Points are scored for winning valuable cards in tricks and for melding combinations (sequences and sets). The values of the individual cards are given in brackets in the lists below. The cards within each suit have three different ranking orders.
+Le Tartli est un jeu de plis comptabilisés avec atouts. Les points sont marqués pour les cartes de valeur gagnées en plis et pour les combinaisons déclarées (séquences et ensembles). Les valeurs des cartes individuelles sont indiquées entre parenthèses dans les listes ci-dessous. Les cartes de chaque couleur ont trois ordres de hiérarchie différents.
 
-- The order used for **making sequences** is as above from high to low: 
+- L'ordre utilisé pour **former des séquences** est le suivant, du plus haut au plus bas :
 
-**Ace, King, Over, Under, Ten, Nine, Eight, Seven.**
+**As, Roi, Over, Under, Dix, Neuf, Huit, Sept.**
 
-- The trick-taking order in **trumps** from high to low is: 
+- L'ordre des plis en **atout**, du plus haut au plus bas :
 
-**Over (20), Nine (14), Ace (11), Ten (10), King (4), Under (2), Eight (0), Seven (0).**
+**Over (20), Neuf (14), As (11), Dix (10), Roi (4), Under (2), Huit (0), Sept (0).**
 
-- The trick-taking order in **non-trump suits** from high to low is:
+- L'ordre des plis en **couleur non atout**, du plus haut au plus bas :
 
-**Ace (11), Ten (10), King (4), Over (3), Under (2), Nine (0), Eight (0), Seven (0).**
+**As (11), Dix (10), Roi (4), Over (3), Under (2), Neuf (0), Huit (0), Sept (0).**
 
-There are a total of 61 card points in the trump suit and 30 card points in each other suit. In addition the last trick is worth an extra 10 card points to the player who wins it, so the total number of card points in the deck is 161. 
+Il y a un total de 61 points de carte dans la couleur d'atout et 30 points dans chaque autre couleur. De plus, le dernier pli rapporte 10 points de carte supplémentaires au joueur qui le gagne, soit un total de 161 points de carte dans le jeu.
 
-For maximum authenticity the score should be kept using slate and chalk (and a sponge to erase marks as needed). However in the absence of this equipment a pen and paper is adequate. 
+Pour un maximum d'authenticité, le score devrait être tenu avec une ardoise et de la craie (et une éponge pour effacer les marques au besoin). Cependant, en l'absence de ce matériel, un papier et un stylo suffisent.
 
-## Melds
+## Combinaisons
 
-There are three types of combination that can be melded: sequences, sets and the 'béla'.
+Il existe trois types de combinaisons qui peuvent être déclarées : les séquences, les ensembles et le « béla ».
 
-A **sequence** consists of at least three consecutive cards of a suit, using the order A-K-O-U-X-IX-VIII-VII. The names and values of the sequences are as follows. 
+Une **séquence** se compose d'au moins trois cartes consécutives de la même couleur, dans l'ordre A-R-O-U-X-IX-VIII-VII. Les noms et valeurs des séquences sont les suivants.
 
-| Terc (3 cards): | 20 points |
-| Kvart (4 cards): | 50 points |
-| Kvint (5 cards): | 100 points |
-| Szext (6 cards): | 100 points |
-| Szept (7 cards): | 100 points |
-| Okt (8 cards): | 100 points |
+| Terc (3 cartes) : | 20 points |
+| Kvart (4 cartes) : | 50 points |
+| Kvint (5 cartes) : | 100 points |
+| Szext (6 cartes) : | 100 points |
+| Szept (7 cartes) : | 100 points |
+| Okt (8 cartes) : | 100 points |
 
-A **set** consists of four equal cards, but not VIII's or VII's. A set of four is sometimes called a *'vannak'*, which is just a part of the Hungarian verb 'to be' meaning 'they are'. The values are:
+Un **ensemble** se compose de quatre cartes identiques, mais pas de VIII ni de VII. Un ensemble de quatre est parfois appelé *'vannak'*, qui est simplement une partie du verbe hongrois « être » signifiant « ils sont ». Les valeurs sont :
 
-| Four Unders, Kings, Tens or Aces: | 100 points |
-| Four Nines: | 150 points |
-| Four Overs: | 200 points |
+| Quatre Unders, Rois, Dix ou As : | 100 points |
+| Quatre Neufs : | 150 points |
+| Quatre Overs : | 200 points |
 
-During each trick only one of the players can score for a sequence and/or a set of four. If both players declare meld, only the owner of the highest declared combination will score. For this purpose:
+Au cours de chaque pli, un seul des deux joueurs peut marquer pour une séquence et/ou un ensemble de quatre. Si les deux joueurs déclarent des combinaisons, seul le propriétaire de la combinaison déclarée la plus élevée marque. Pour cela :
 
-- Any set of four equal cards (*vannak*) beats any sequence
+- Tout ensemble de quatre cartes identiques (*vannak*) bat toute séquence
 
-- Sets of four rank in trump order from high to low: Overs, Nines, Aces, Tens, Kings, Unders.
+- Les ensembles de quatre se classent dans l'ordre des atouts du plus haut au plus bas : Overs, Neufs, As, Dix, Rois, Unders.
 
-- Any longer sequence beats any shorter sequence, irrespective of the suit or the rank of the cards.
+- Toute séquence plus longue bat toute séquence plus courte, quelle que soit la couleur ou la valeur des cartes.
 
-- Between two sequences of equal length, the one with the higher top card wins, the cards ranking for this purpose in the sequence order from high to low Ace, King, Over, Under, Ten, Nine, Eight, Seven.
+- Entre deux séquences de même longueur, celle dont la carte la plus haute est la plus forte l'emporte, les cartes se classant dans l'ordre des séquences du plus haut au plus bas : As, Roi, Over, Under, Dix, Neuf, Huit, Sept.
 
-- Between two sequences of equal length and equal top cards, a sequence in the trump suit wins.
+- Entre deux séquences de même longueur et même carte la plus haute, une séquence dans la couleur d'atout l'emporte.
 
-- Between two equal non-trump sequences the one declared first (by the player who led to the trick) wins.
+- Entre deux séquences non atout égales, celle déclarée en premier (par le joueur qui a mené le pli) l'emporte.
 
-The **béla** is a special meld consisting of the King and Over of trumps, which scores 40 points and neither beats nor is beaten by any other meld. A player who holds these two cards can meld them and score for them independently of anything else declared by either player.
+Le **béla** est une combinaison spéciale composée du Roi et de l'Over d'atout, qui rapporte 40 points et ne bat ni n'est battue par aucune autre combinaison. Un joueur qui détient ces deux cartes peut les déclarer et marquer pour elles indépendamment de toute autre chose déclarée par l'un ou l'autre joueur.
 
-## Deal
+## Distribution
 
-The first dealer is chosen by any convenient random method. For example each player draws a card from the shuffled deck and the player who draws the lower ranked card deals first. After the first hand, the turn to deal alternates between the players.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Par exemple, chaque joueur tire une carte du jeu mélangé et le joueur qui tire la carte la moins forte distribue en premier. Après la première main, le tour de distribution alterne entre les joueurs.
 
-The dealer shuffles, the non-dealer cuts and the dealer deals 9 cards to each player in packets of 3 at a time. The dealer turns up the next card, which will indicate the trump suit for the hand, and then stacks rest of the deck face down, crosswise on top of the trump indicator, so that trump indicator card remains partially visible. These 14 undealt cards are called the **talon**, from which players will draw cards during the first phase of the play.
+Le donneur mélange, le non-donneur coupe et le donneur distribue 9 cartes à chaque joueur par paquets de 3 à la fois. Le donneur retourne la carte suivante, qui indiquera la couleur d'atout pour la main, puis pose le reste du jeu face cachée, en croix sur l'indicateur d'atout, de sorte que la carte indicatrice reste partiellement visible. Ces 14 cartes non distribuées sont appelées le **talon**, duquel les joueurs piocheront des cartes pendant la première phase du jeu.
 
-## Play
+## Jeu
 
-The non-dealer leads to the first trick and the winner of each trick leads to the next. Any card from hand may be led. Each trick is won by the highest trump card in it, or if no trump was played to the trick it is won by the highest card in the suit of the card that was led. 
+Le non-donneur mène au premier pli et le gagnant de chaque pli mène au suivant. N'importe quelle carte de la main peut être menée. Chaque pli est gagné par la plus forte carte d'atout, ou si aucun atout n'a été joué, par la plus forte carte de la couleur demandée.
 
-After each of the first 7 tricks, whoever wins trick draws the top card of the talon and adds it to their hand without showing it, and then the loser of the trick does the same, so that after drawing each player's hand again contains 9 cards. During this period the second player to a trick may play any card - there is no requirement to follow suit or to trump.
+Après chacun des 7 premiers plis, le gagnant du pli pioche la carte supérieure du talon et l'ajoute à sa main sans la montrer, puis le perdant fait de même, de sorte qu'après la pioche chaque joueur a à nouveau 9 cartes. Pendant cette période, le deuxième joueur d'un pli peut jouer n'importe quelle carte — il n'y a aucune obligation de suivre la couleur ou de couper.
 
-Immediately before any of the first 7 tricks, if the player due to lead to the trick holds the VII of trumps, they may exchange it with the trump indicator card before leading to the trick. This exchange is not compulsory - the player may prefer to keep the trump VII in hand, for example if it forms part of a meld the player wants to declare, or to keep it concealed from the opponent. The trump indicator card - either the one originally dealt or the VII if it has been exchanged - will be drawn by the loser of the 7th trick.
+Immédiatement avant chacun des 7 premiers plis, si le joueur qui doit mener détient le VII d'atout, il peut l'échanger avec la carte indicatrice d'atout avant de mener le pli. Cet échange n'est pas obligatoire — le joueur peut préférer garder le VII d'atout en main, par exemple s'il fait partie d'une combinaison que le joueur veut déclarer, ou pour le dissimuler à l'adversaire. La carte indicatrice d'atout — soit celle distribuée à l'origine, soit le VII si elle a été échangée — sera piochée par le perdant du 7e pli.
 
-Starting from the 8th trick, when the talon has become empty, the rules of play change. From this point onwards the second player to each trick is obliged to follow suit. If holding no card of the suit that was led, the second player is obliged to play a trump if possible. With no cards of the suit led and no trumps in hand, the second player may play any card, but of course cannot win the trick. When following suit there is no obligation to beat the leader's card - the second player is free to play a higher or a lower card of the same suit at will. 
+À partir du 8e pli, lorsque le talon est épuisé, les règles du jeu changent. À partir de ce moment, le deuxième joueur de chaque pli est tenu de suivre la couleur. S'il n'a pas de carte de la couleur demandée, il est tenu de jouer un atout s'il en a. Sans carte de la couleur demandée et sans atout en main, le deuxième joueur peut jouer n'importe quelle carte, mais ne peut évidemment pas gagner le pli. Lorsqu'on suit la couleur, il n'y a aucune obligation de battre la carte du meneur — le deuxième joueur est libre de jouer une carte plus haute ou plus basse de la même couleur à sa guise.
 
-### Declaration of Melds
+### Déclaration des combinaisons
 
-During the first 8 tricks, players may declare sequences, sets and béla that they hold in their hand. These combinations are described in the meld section above. In each trick a player may declare at most **one set** and **one sequence**. These may have a card in common - for example an Under-Vannak and a Heart-Over-Terc can be declared together, using the Under of Hearts twice. Each player declares their sets and sequences before playing their card to a trick. The order of actions during a trick is as follows.
+Pendant les 8 premiers plis, les joueurs peuvent déclarer des séquences, des ensembles et le béla qu'ils tiennent en main. Ces combinaisons sont décrites dans la section ci-dessus. Dans chaque pli, un joueur peut déclarer au plus **un ensemble** et **une séquence**. Ceux-ci peuvent avoir une carte en commun — par exemple un Under-Vannak et un Cœur-Over-Terc peuvent être déclarés ensemble, en utilisant l'Under de Cœur deux fois. Chaque joueur déclare ses ensembles et séquences avant de jouer sa carte dans un pli. L'ordre des actions au cours d'un pli est le suivant.
 
-- (optional, first 7 tricks only) If holding the trump VII, the leader to the trick may take the trump indicator card and replace it with the VII.
+- (facultatif, 7 premiers plis uniquement) S'il détient le VII d'atout, le meneur du pli peut prendre la carte indicatrice d'atout et la remplacer par le VII.
 
-- (optional, first 8 tricks only) The leader to the trick may declare one set and/or one sequence of cards held in hand.
+- (facultatif, 8 premiers plis uniquement) Le meneur du pli peut déclarer un ensemble et/ou une séquence de cartes tenues en main.
 
-- The leader plays the first card to the trick.
+- Le meneur joue la première carte du pli.
 
-- (optional, first 8 tricks only) The second player may declare one set and/or one sequence of cards held in hand if the highest combination declared can potentially beat the highest declared by the leader.
+- (facultatif, 8 premiers plis uniquement) Le deuxième joueur peut déclarer un ensemble et/ou une séquence de cartes tenues en main si la combinaison déclarée la plus élevée peut potentiellement battre la plus élevée déclarée par le meneur.
 
-- If both players have declared meld, further details are given to establish who has declared the highest combination.
+- Si les deux joueurs ont déclaré des combinaisons, des détails supplémentaires sont donnés pour établir qui a déclaré la meilleure.
 
-- The second player plays a card to the trick.
+- Le deuxième joueur joue une carte au pli.
 
-- If either player has declared meld the player with the best item of declared meld specifies and scores for all the meld they declared.
+- Si l'un ou l'autre joueur a déclaré des combinaisons, le joueur avec la meilleure combinaison déclarée les spécifie et marque pour toutes les combinaisons déclarées.
 
-- The winner of the trick is determined, and the winner stores the two played cards in their trick pile.
+- Le gagnant du pli est déterminé, et le gagnant range les deux cartes jouées dans son tas de plis.
 
-- (first 7 tricks only) The winner of the trick draws the top card of the talon and the loser draws the next card.
+- (7 premiers plis uniquement) Le gagnant du pli pioche la carte supérieure du talon et le perdant pioche la carte suivante.
 
-In steps 2 and 4, a set is declared by saying *'vannak'* and a sequence by stating its length, for example *'kvart'* for a 4-card sequence. If the leader declares meld in step 2 the second player can only declare meld in step 4 if it could potentially score. So for example if the first player's declaration included a *vannak*, the second player could only declare meld if the declaration also included a *vannak* - it would not be possible, for example, just to announce a *kvint*. If the first player declares only a sequence, the second player needs to declare an equal or longer sequence or a *vannak*. For example if the first player declared a *kvart*, the second player could declare a *kvart* or a *kvint* or a *vannak* with a *terc*, but not a *terc* alone. A set or sequence that is not declared at the appropriate time (step 2 or 4) during a trick cannot be scored (step 6) in that trick.
+Aux étapes 2 et 4, un ensemble est déclaré en disant *'vannak'* et une séquence en indiquant sa longueur, par exemple *'kvart'* pour une séquence de 4 cartes. Si le meneur déclare des combinaisons à l'étape 2, le deuxième joueur ne peut déclarer à l'étape 4 que si cela pourrait potentiellement marquer. Par exemple, si la déclaration du premier joueur incluait un *vannak*, le deuxième joueur ne pourrait déclarer que si sa déclaration incluait également un *vannak* — il ne serait pas possible, par exemple, d'annoncer simplement un *kvint*. Si le premier joueur ne déclare qu'une séquence, le deuxième joueur doit déclarer une séquence égale ou plus longue ou un *vannak*. Par exemple, si le premier joueur déclare un *kvart*, le deuxième joueur peut déclarer un *kvart* ou un *kvint* ou un *vannak* avec un *terc*, mais pas un *terc* seul. Un ensemble ou une séquence non déclaré au moment approprié (étape 2 ou 4) d'un pli ne peut pas être marqué (étape 6) dans ce pli.
 
-In step 5 the players exchange minimal information to determine who has declared the best meld. If neither player or only one player has declared, or if the second player's meld is already known to be better, this step is skipped. If both players declared a *vannak*, the first player states the rank (for example ''King-Vannak") and the second player replies "Good" if the first player's Vannak is better or "Higher here" if not. If the contest is between equal length sequences, the first player states the rank of the top card and now the second player will reply "Higher here" if holding a higher sequence or an equally high sequence in trumps, and "Good" otherwise.
+À l'étape 5, les joueurs échangent des informations minimales pour déterminer qui a déclaré la meilleure combinaison. Si aucun joueur ou un seul a déclaré, ou si la combinaison du deuxième joueur est déjà connue comme meilleure, cette étape est sautée. Si les deux joueurs ont déclaré un *vannak*, le premier joueur indique le rang (par exemple « Roi-Vannak ») et le deuxième répond « Bon » si le Vannak du premier est meilleur, ou « Plus haut ici » sinon. Si la compétition porte sur des séquences de même longueur, le premier joueur indique le rang de la carte la plus haute et le deuxième répondra « Plus haut ici » s'il détient une séquence plus haute ou une séquence également haute à l'atout, et « Bon » sinon.
 
-In step 7 the player scoring melds (if any were declared) specifies them by stating the rank of a vannak and the top rank and suit of a sequence - for example "Under-Vannak" or "Acorn-Over-Kvart" (meaning O-U-X-IX of acorns) - and records the score.
+À l'étape 7, le joueur marquant des combinaisons (s'il y en a eu) les spécifie en indiquant le rang d'un vannak et le rang supérieur et la couleur d'une séquence — par exemple « Under-Vannak » ou « Gland-Over-Kvart » (signifiant O-U-X-IX de glands) — et enregistre le score.
 
-Melds that were declared but not scored because the opponent won a contest of melds can be redeclared and scored in a later trick so long as the cards are still in the player’s hand and there is an opportunity. It is possible to play to a trick one of the cards of a meld that is being declared in that trick, but if the player loses the meld contest, the opportunity to redeclare that particular meld later is lost since the card is no longer held.
+Les combinaisons déclarées mais non marquées parce que l'adversaire a gagné le concours de combinaisons peuvent être redéclarées et marquées dans un pli ultérieur tant que les cartes sont encore en main du joueur et qu'il y a une opportunité. Il est possible de jouer dans un pli l'une des cartes d'une combinaison qui est en cours de déclaration dans ce pli, mais si le joueur perd le concours de combinaisons, l'opportunité de redéclarer cette combinaison particulière ultérieurement est perdue puisque la carte n'est plus tenue.
 
-After scoring a sequence it is possible for the same player to declare another sequence in the same suit in a subsequent trick, and even to reuse cards of the sequence that has already been scored, but only if the following conditions are met. Either
+Après avoir marqué une séquence, il est possible pour le même joueur de déclarer une autre séquence de la même couleur dans un pli ultérieur, et même de réutiliser des cartes de la séquence déjà marquée, mais seulement si les conditions suivantes sont remplies. Soit
 
-- the top card of the new sequence must be higher, or
+- la carte la plus haute de la nouvelle séquence doit être plus haute, ou
 
-- if the top card of the new meld is the same the new meld must be longer, or
+- si la carte la plus haute de la nouvelle combinaison est la même, la nouvelle combinaison doit être plus longue, ou
 
-- the new meld must be separated from any previous meld in that suit by at least one missing card.
+- la nouvelle combinaison doit être séparée de toute combinaison précédente dans cette couleur par au moins une carte manquante.
 
-So a player who has previously scored a Heart-King-Kvart but no other heart sequences can subsequently declare a Heart-Ace-Terc (case "a") or a Heart-King-Kvint (case "b") but not a Heart-King-Terc (too short) nor a Heart-Over-Kvint (too low). A player who has previously scored a Heart-Ace-Kvart but no other sequences can declare a Heart-Nine-Terc (the missing Heart-Ten makes a gap between the two sequences) but not a Heart-Ten-Terc (because the sequences are adjacent and form one long sequence). This last case is academic because in practice the player would no doubt prefer declare the Heart-Ace-Kvint, then the *szext* and then the *szept* for 100 points each in the next three tricks.
+Ainsi un joueur qui a précédemment marqué un Cœur-Roi-Kvart mais aucune autre séquence de cœurs peut ultérieurement déclarer un Cœur-As-Terc (cas « a ») ou un Cœur-Roi-Kvint (cas « b ») mais pas un Cœur-Roi-Terc (trop court) ni un Cœur-Over-Kvint (trop bas). Un joueur qui a précédemment marqué un Cœur-As-Kvart mais aucune autre séquence peut déclarer un Cœur-Neuf-Terc (le Cœur-Dix manquant crée un écart entre les deux séquences) mais pas un Cœur-Dix-Terc (car les séquences sont adjacentes et forment une seule longue séquence). Ce dernier cas est académique car en pratique le joueur préférera sans doute déclarer le Cœur-As-Kvint, puis le *szext* puis le *szept* pour 100 points chacun lors des trois plis suivants.
 
-It is possible to score a long sequence in multiple segments during several tricks. For example a *kvint* can be scored as 3 *terces*, 2 *kvarts* and a *kvint* during 6 tricks, so long as the cards are still in the player’s hand and the opponent does not interfere by declaring better meld. Care must be taken, however, to declare the sequences in the right order. For example the sequences within an an Over-Kvint could only be declared in the order Ten-Terc, Under-Terc, Under-Kvart, Over-Terc, Over-Kvart, Over-Kvint. If the opponent can delay this process by declaring higher sequences in some tricks there might not be time to declare all of them within the first eight tricks, and in that case the player would do better to skip some of the lower value sequences to be sure to score at least the *kvarts* and the *kvint*. 
+Il est possible de marquer une longue séquence en plusieurs segments lors de plusieurs plis. Par exemple, un *kvint* peut être marqué comme 3 *terces*, 2 *kvarts* et un *kvint* lors de 6 plis, tant que les cartes sont encore en main et que l'adversaire ne s'y oppose pas en déclarant une meilleure combinaison. Il faut toutefois veiller à déclarer les séquences dans le bon ordre. Par exemple, les séquences dans un Over-Kvint ne pourraient être déclarées que dans l'ordre Dix-Terc, Under-Terc, Under-Kvart, Over-Terc, Over-Kvart, Over-Kvint. Si l'adversaire peut retarder ce processus en déclarant des séquences plus hautes dans certains plis, il se peut qu'il n'y ait pas assez de temps pour toutes les déclarer dans les huit premiers plis, et dans ce cas le joueur ferait mieux de sauter certaines des séquences de moindre valeur pour s'assurer de marquer au moins les *kvarts* et le *kvint*.
 
-The **Béla** is entirely independent of this process. It can be declared and scored at any time during the first 8 tricks if the player has the two cards in hand. If the points are enough to win the game the holder will of course declare it immediately. If not, it may be better to delay declaring it so as not to reveal prematurely that one holds those two cards.
+Le **Béla** est entièrement indépendant de ce processus. Il peut être déclaré et marqué à tout moment pendant les 8 premiers plis si le joueur a les deux cartes en main. Si les points suffisent pour gagner la partie, le détenteur le déclarera bien sûr immédiatement. Sinon, il peut être préférable de retarder la déclaration afin de ne pas révéler prématurément que l'on détient ces deux cartes.
 
-## Scoring
+## Décompte des points
 
-At the end of the play each player totals the value of the cards won in tricks, the winner of the last trick adds 10 card points, and each player adds the result to their cumulative score. The scores of the two players for tricks should always add up to 161 card points.
+À la fin du jeu, chaque joueur totalise la valeur des cartes gagnées en plis, le gagnant du dernier pli ajoute 10 points, et chaque joueur ajoute le résultat à son score cumulé. Les scores des deux joueurs pour les plis doivent toujours totaliser 161 points.
 
-If one player wins all of the last 9 tricks - that is all the tricks played after the talon is exhausted - the opponent's tricks are forfeited. The winner of the last 9 tricks scores 161 for tricks while the opponent scores nothing. This situation is sometimes known as **stichmatsch**.
+Si un joueur gagne tous les 9 derniers plis — c'est-à-dire tous les plis joués après l'épuisement du talon — les plis de l'adversaire sont forfeités. Le gagnant des 9 derniers plis marque 161 pour les plis tandis que l'adversaire ne marque rien. Cette situation est parfois appelée **stichmatsch**.
 
-The first player to reach 501 or more points scores one **buli** point (victory point) if the opponent has 251 or more points at the time. This normally takes several deals. If the winner's opponent has 250 points or less, the winner scores two *buli* points - this is known as a **maccs**. When a *buli* point is won, both players' card point scores are erased and begin again from zero.
+Le premier joueur à atteindre 501 points ou plus marque un point **buli** (point de victoire) si l'adversaire a 251 points ou plus à ce moment. Cela prend normalement plusieurs donnes. Si l'adversaire du gagnant a 250 points ou moins, le gagnant marque deux points *buli* — c'est ce qu'on appelle un **maccs**. Lorsqu'un point *buli* est gagné, les scores de points de carte des deux joueurs sont effacés et reprennent à zéro.
 
-Normally a session lasts until someone reaches 5 or 10 *buli* points, after which if playing for money the players settle at an agreed stake per *buli* point difference. This would be a nominal amount - say 10 cents per *buli* point in today's money.
+Normalement, une session dure jusqu'à ce que quelqu'un atteigne 5 ou 10 points *buli*, après quoi les joueurs règlent à un enjeu convenu par point *buli* d'écart s'ils jouent pour de l'argent. Ce serait un montant symbolique — disons 10 centimes par point *buli* en monnaie actuelle.
 
-A player whose score including the value of completed tricks is 501 card points or more can stop the play and claim to have won. This is known as "going out", and it can happen at any time, even in the middle of playing a trick. For this reason it is good practice to keep a mental count of card points if either player is near 501. The player who went out shows the tricks they have won so far, and if the card points in these together with the other points the player has scored are sufficient the player wins one *buli* point (or two if the opponent has not reached 251). For example a player who has just won a meld contest can go out and include the meld value in their score, and in this case the card points for the current trick do not count for either player. Or a player who has reached 461 or more and has just drawn the second card of a *béla* can declare it immediately for 40 card points and go out before the following trick begins.
+Un joueur dont le score incluant la valeur des plis terminés est de 501 points de carte ou plus peut arrêter le jeu et réclamer la victoire. C'est ce qu'on appelle « sortir », et cela peut se produire à tout moment, même en plein milieu d'un pli. Pour cette raison, il est bon de garder un compte mental des points de carte si l'un des joueurs est proche de 501. Le joueur qui est sorti montre les plis qu'il a gagnés jusqu'à présent, et si les points de carte dans ceux-ci, additionnés aux autres points marqués, sont suffisants, le joueur gagne un point *buli* (ou deux si l'adversaire n'a pas atteint 251). Par exemple, un joueur qui vient de gagner un concours de combinaisons peut sortir et inclure la valeur des combinaisons dans son score, et dans ce cas les points de carte du pli en cours ne comptent pour aucun des deux joueurs. Ou un joueur qui a atteint 461 points ou plus et vient de piocher la deuxième carte d'un *béla* peut la déclarer immédiatement pour 40 points et sortir avant que le pli suivant ne commence.
 
-If a player makes an incorrect claim, going out with less than 501 points, the play still ends and their opponent wins the *buli* point irrespective of their card point total. If both players have 501 points or more, the player who goes out first wins even if the opponent in fact had more card points at the time. If at the end of a hand when the card points are added up it turns out that both players have reached 501 card points or more but neither has claimed, the player with more card points wins the *buli* point. If they are equal, the first player who scores any card points in the next hand wins the *buli*.
+Si un joueur fait une réclamation incorrecte, en sortant avec moins de 501 points, le jeu s'arrête quand même et son adversaire gagne le point *buli* quel que soit son total de points. Si les deux joueurs ont 501 points ou plus, le joueur qui sort en premier gagne même si l'adversaire avait en fait plus de points à ce moment. Si à la fin d'une main, lors de l'addition des points, il s'avère que les deux joueurs ont atteint 501 points ou plus mais qu'aucun n'a réclamé, le joueur avec le plus de points gagne le point *buli*. En cas d'égalité, le premier joueur qui marque des points dans la main suivante gagne le *buli*.
 
-Note that if a player goes out during a hand, both players count the points in the tricks they have won up to that point, even if one of them could have won the last 9 tricks causing the other to forfeit their tricks. So a player whose card point score is 501 or more but who is in danger of losing the last 9 tricks should go out before the end of play if the transfer of their tricks to the opponent would leave them with less than 501. On the other hand, a player who has 501 card points and a good prospect of winning the last 9 tricks may prefer not to go out but to play the hand to the end if taking the opponent's tricks would leave the opponent with less than 251 card points.
+Notez que si un joueur sort en cours de main, les deux joueurs comptent les points dans les plis gagnés jusqu'à ce point, même si l'un d'eux aurait pu gagner les 9 derniers plis causant le forfeiture des plis de l'autre. Ainsi, un joueur dont le score est de 501 points ou plus mais qui risque de perdre les 9 derniers plis devrait sortir avant la fin du jeu si le transfert de ses plis à l'adversaire le ferait passer sous les 501. D'un autre côté, un joueur qui a 501 points et de bonnes chances de gagner les 9 derniers plis peut préférer ne pas sortir mais jouer la main jusqu'au bout si prendre les plis de l'adversaire laisserait celui-ci avec moins de 251 points.
 
-The card point score is traditionally recorded using chalk marks on a slate. There are special signs for 20, 30, 50, 80 and 100 as follows. 
+Le score en points de carte est traditionnellement enregistré avec des marques de craie sur une ardoise. Il existe des signes spéciaux pour 20, 30, 50, 80 et 100 comme suit.
 
-![tartli scoring](../images/jass/tartli2.png)
+![score tartli](../images/jass/tartli2.png)
 
-As you can see, it is easy to convert a 30 to a 50 or an 80 to 100 by adding a stroke when an additional 20 is scored. Odd card points (usually 10 or less) are written as negative or positive numbers on the slate. This way of scoring allows meld to be scored during the play by adding just a stroke or two and allows a quick check of the total, which becomes important when someone is near 501 points. At the end of each hand the current card point total of each player should be announced for both players to hear.
+Comme on peut le voir, il est facile de convertir un 30 en 50 ou un 80 en 100 en ajoutant un trait lorsqu'on marque 20 points supplémentaires. Les points impairs (généralement 10 ou moins) sont écrits comme nombres négatifs ou positifs sur l'ardoise. Ce mode de notation permet de marquer des combinaisons pendant le jeu en ajoutant simplement un ou deux traits et permet un contrôle rapide du total, ce qui devient important quand quelqu'un est proche de 501 points. À la fin de chaque main, le total actuel de chaque joueur devrait être annoncé pour que les deux joueurs l'entendent.
 
-## Advice on play
+## Conseils de jeu
 
-During the first half of the play, the aim should normally be to collect valuable melds, which may entail sacrificing some high value cards. The exception is when someone is close to winning, in which case taking high value tricks can be more important.
+Pendant la première moitié du jeu, le but devrait normalement être de collecter des combinaisons précieuses, ce qui peut impliquer de sacrifier certaines cartes de forte valeur. L'exception est lorsque quelqu'un est proche de la victoire, auquel case prendre des plis de forte valeur peut être plus important.
 
-When waiting for meld, a potential sequence that is open at both ends so that there are two cards that will complete or extend it, is better than a sequence that ends in Ace or VII or is missing an interior card, when there is only one card that will help. For example X-IX is a better prospect than A-K or U-IX.
+En attendant une combinaison, une séquence potentielle ouverte aux deux extrémités, de sorte qu'il y a deux cartes qui peuvent la compléter ou l'étendre, est préférable à une séquence qui se termine à l'As ou au VII ou qui manque une carte intérieure, lorsqu'il n'y a qu'une seule carte utile. Par exemple X-IX est une meilleure perspective que A-R ou U-IX.
 
-A long Sequence should be announced in one go if there are not enough tricks left to split it up, or if it gives you enough points to win or get out of *maccs*.
+Une longue séquence devrait être annoncée en une seule fois s'il n'y a pas assez de plis pour la diviser, ou si elle vous donne assez de points pour gagner ou sortir d'un *maccs*.
 
-It is essential to keep track of cards that have been played, to avoid a futile wait to complete a meld with a card that has already gone.
+Il est essentiel de suivre les cartes qui ont été jouées, pour éviter d'attendre en vain une carte déjà partie pour compléter une combinaison.
 
-It is worth keeping a sequence, especially a *kvart*, for a while after scoring it if there is a chance of extending it to a more valuable sequence.
+Il vaut la peine de garder une séquence, surtout un *kvart*, un certain temps après l'avoir marquée s'il y a une chance de l'étendre en une séquence plus précieuse.
 
-Overs and IX's are very important. Not only they can form high value *vannaks* and are valuable trumps, but having the IX and Over of a suit prevents the opponent from making any sequence in that suit. 
+Les Overs et les IX sont très importants. Non seulement ils peuvent former des *vannaks* de forte valeur et sont des atouts précieux, mais avoir le IX et l'Over d'une couleur empêche l'adversaire de former une séquence dans cette couleur.
 
-In the second phase of the play when melds are no longer possible, taking high value tricks is the priority. In the first phase trumps should be collected rather than played to prepare for this.
+Dans la deuxième phase du jeu, lorsque les combinaisons ne sont plus possibles, prendre des plis de forte valeur est la priorité. Dans la première phase, les atouts devraient être collectés plutôt que joués pour s'y préparer.
 
-Try to keep a card that guarantees you can win at least one of the last 9 tricks, to avoid the risk of having to surrender your tricks.
+Essayez de garder une carte qui vous garantit de gagner au moins un des 9 derniers plis, pour éviter le risque de devoir vous rendre vos plis.
 
-There are further tactical notes and tips in József Pais’ book *Ulti, Tarokk és néhány kis játék* (in Hungarian) and Fritz Beck's book *Tartl und Zensa* (in German). 
+On trouve d'autres notes tactiques et conseils dans le livre *Ulti, Tarokk és néhány kis játék* de József Pais (en hongrois) et le livre *Tartl und Zensa* de Fritz Beck (en allemand).
 
-## Austrian Tartl
+## Tartl autrichien
 
-The Austrian Perlen Reihe book *Tartl und Zensa* by Fritz Beck gives another version of Tartl. The cards used are the same as in Hungary, except that the inscriptions on the Aces, Overs and Unders are in German. The differences from the Hungarian game described above are as follows.
+Le livre de la Perlen Reihe *Tartl und Zensa* de Fritz Beck donne une autre version du Tartl. Les cartes utilisées sont les mêmes qu'en Hongrie, sauf que les inscriptions sur les As, les Overs et les Unders sont en allemand. Les différences par rapport au jeu hongrois décrit ci-dessus sont les suivantes.
 
-- The card turned up as the trump indicator can be the next card after any of the packets of three that are dealt, that is the 4th, 7th, 10th, 13th, 16th or 19th card. The non-dealer can specify which. If the non-dealer says nothing the dealer must turn the 19th card, after completing the deal of the players' 9-card hands.
+- La carte retournée comme indicatrice d'atout peut être la carte suivante après n'importe quel paquet de trois distribué, c'est-à-dire la 4e, 7e, 10e, 13e, 16e ou 19e carte. Le non-donneur peut le spécifier. Si le non-donneur ne dit rien, le donneur doit retourner la 19e carte, après avoir terminé la distribution des mains de 9 cartes.
 
-- The turn to deal does not alternate. Instead, the winner of each hand deals the next.
+- Le tour de distribution n'alterne pas. Au lieu de cela, le gagnant de chaque main distribue la suivante.
 
-- There is no declaration of four Nines. The only sets of four (Vierlings) that can be declared are Overs (200), Aces (100), Tens (100), Kings (100) and Unders (100).
+- Il n'y a pas de déclaration de quatre Neufs. Les seuls ensembles de quatre (Vierlings) qui peuvent être déclarés sont les Overs (200), les As (100), les Dix (100), les Rois (100) et les Unders (100).
 
-- Some play that a set of four Tens ranks below a set of four Unders, not above a set of four Kings. The players must agree before the start of the game which rule to play.
+- Certains jouent qu'un ensemble de quatre Dix se classe sous un ensemble de quatre Unders, et non au-dessus d'un ensemble de quatre Rois. Les joueurs doivent se mettre d'accord avant le début de la partie sur la règle à appliquer.
 
-- The rules on declaring sequences (Terz, Quart, Quint, Sext, Siebt, Acht) are less restrictive than in the Hungarian game.
+- Les règles sur la déclaration des séquences (Terz, Quart, Quint, Sext, Siebt, Acht) sont moins restrictives que dans le jeu hongrois.
 
-- A player can declare more than one sequence in the same trick, provided that each declared sequence is in a different suit.
+- Un joueur peut déclarer plus d'une séquence dans le même pli, à condition que chaque séquence déclarée soit dans une couleur différente.
 
-- The only restriction on declaring a new sequence in the same suit in which the player has already scored a sequence is that the new sequence must not be entirely contained within a longer sequence that has previously been scored. So for example after scoring a Heart-King-Quart the same player cannot declare a Heart-Over-Terz but **is** allowed to declare a Heart-Unter-Terz since it contains a card, the IX, that was not in the Quart.
+- La seule restriction pour déclarer une nouvelle séquence dans la même couleur où le joueur a déjà marqué une séquence est que la nouvelle séquence ne doit pas être entièrement contenue dans une séquence plus longue déjà marquée. Ainsi, par exemple, après avoir marqué un Cœur-Roi-Quart, le même joueur ne peut pas déclarer un Cœur-Over-Terz mais **est** autorisé à déclarer un Cœur-Unter-Terz car il contient une carte, le IX, qui n'était pas dans le Quart.
 
-- Any meld combinations that are scored must be shown at the at the end of the trick if the opponent asks to see them.
+- Toutes les combinaisons marquées doivent être montrées à la fin du pli si l'adversaire demande à les voir.
 
-- The holder of the trump VII can exchange it for the original trump indicator card at any time - it is not necessary to be on lead to a trick to do this. However, if the trump VII is exchanged it cannot be used as part of a sequence meld in the same trick. 
+- Le détenteur du VII d'atout peut l'échanger contre la carte indicatrice d'atout originale à tout moment — il n'est pas nécessaire d'être le meneur d'un pli pour le faire. Cependant, si le VII d'atout est échangé, il ne peut pas être utilisé comme partie d'une séquence dans le même pli.
 
-- **Example.** Suppose that after your opponent wins the 6th trick the score is 495-440 against you. The trump indicator is the Acorn Over. You have Acorn IX and VIII in your hand and after the 6th trick you draw the Acorn VII. Your opponent leads the Leaf Ace to the 7th trick without declaring anything. You need to trump this trick to stop your opponent from scoring 11 points for the trick and winning, but if you allow your opponent to draw the trump indicator card she will use that card to win. So you need to swap the trump VII for the Over and you would also like to declare your Terz for 20 - then you would have an immediate 11 points for this trick, 20 for the Terz, and 34 for the trump Over and IX on the next two tricks - enough to win. But you cannot do all these things because if you use the VII take the trump indicator in this trick you cannot also declare your Terz. The best you can do is to exchange the trump-VII, win the trick with the trump-VIII and then lead the trump Over and IX, bringing your score to 485 plus whatever your opponent contributes to these two tricks, and then try to win the remaining card points you need before your opponent can take 6 more points.
+- **Exemple.** Supposons qu'après que votre adversaire a gagné le 6e pli, le score soit de 495-440 contre vous. L'indicateur d'atout est l'Over de Glands. Vous avez le IX et le VIII de Glands en main et après le 6e pli vous piochez le VII de Glands. Votre adversaire mène l'As de Feuilles au 7e pli sans rien déclarer. Vous devez couper ce pli pour empêcher votre adversaire de marquer 11 points pour le pli et gagner, mais si vous laissez votre adversaire piocher la carte indicatrice d'atout, il utilisera cette carte pour gagner. Vous devez donc échanger le VII d'atout contre l'Over et vous aimeriez aussi déclarer votre Terz pour 20 — vous auriez alors immédiatement 11 points pour ce pli, 20 pour le Terz, et 34 pour l'Over et le IX d'atout lors des deux plis suivants — assez pour gagner. Mais vous ne pouvez pas faire tout cela car si vous utilisez le VII pour prendre la carte indicatrice d'atout dans ce pli, vous ne pouvez pas non plus déclarer votre Terz. Le mieux que vous puissiez faire est d'échanger le VII d'atout, gagner le pli avec le VIII d'atout puis mener l'Over et le IX d'atout, portant votre score à 485 plus ce que votre adversaire contribue à ces deux plis, puis essayer de gagner les points restants dont vous avez besoin avant que votre adversaire ne prenne 6 points de plus.
 
-- The winner of the 7th trick must show the second to last card of the talon before taking it. 
+- Le gagnant du 7e pli doit montrer l'avant-dernière carte du talon avant de la prendre.
 
-- Once the talon is used up, players must follow suit but In Austrian Tartl, unlike Hungarian Tartli, there is no requirement to trump if unable to follow. As in Tartli, there is no compulsion to head the trick. [This interpretation is based on the following sentence in Beck: "*Ist aber der Talon zur Gänze abegehoben, dann besteht rigoroser Farbzwang aber ohne Stichzwang.*" Beck says nothing either way about whether a player who is unable to follow suit in the last 9 tricks has to trump. We have taken this to mean that there is no such requirement, but this might be an oversight by Beck, or it is possible that *'rigorose Farbzwang'* might have been intended to include a requirement to trump when unable to follow suit (*Trumpfzwang*), as in other well-known Austrian games such as Tarock and Preference. Some earlier descriptions of closely related games by other authors included a requirement to trump and it could well be that some or all players in fact followed the same rule as in Hungarian Tartli.] 
+- Une fois le talon épuisé, les joueurs doivent suivre la couleur, mais dans le Tartl autrichien, contrairement au Tartli hongrois, il n'y a aucune obligation de couper si on ne peut pas suivre. Comme au Tartli, il n'y a aucune obligation de battre le pli. [Cette interprétation est basée sur la phrase suivante de Beck : « *Ist aber der Talon zur Gänze abegehoben, dann besteht rigoroser Farbzwang aber ohne Stichzwang.* » Beck ne dit rien dans un sens ou dans l'autre sur la question de savoir si un joueur incapable de suivre la couleur dans les 9 derniers plis doit couper. Nous avons considéré que c'est le cas, mais cela pourrait être un oubli de Beck, ou il est possible que *'rigorose Farbzwang'* devait inclure une obligation de couper quand on ne peut pas suivre (*Trumpfzwang*), comme dans d'autres jeux autrichiens bien connus comme le Tarock et la Préférence. Certaines descriptions antérieures de jeux apparentés par d'autres auteurs incluaient une obligation de couper et il se peut très bien que certains ou tous les joueurs suivaient en fait la même règle qu'au Tartli hongrois.]
 
-- There is no special reward for winning the last 9 tricks. Players keep all the tricks they have won in the first part of the play even if their opponent wins every trick after the talon is exhausted.
+- Il n'y a pas de récompense spéciale pour gagner les 9 derniers plis. Les joueurs conservent tous les plis gagnés dans la première partie du jeu même si leur adversaire gagne tous les plis après l'épuisement du talon.
 
-- Each game to 501 card points is a separate event. There is no accumulation of *'buli'* points up to a target score. The winner is paid the agreed stake by the loser. If the loser has less than 250 card points the game is a Double (the Austrian equivalent of *maccs*) and the loser pays two stakes instead of one. With 250 card points exactly the loser is out of Double. 
+- Chaque partie à 501 points est un événement indépendant. Il n'y a pas d'accumulation de points *'buli'* jusqu'à un score cible. Le gagnant est payé de l'enjeu convenu par le perdant. Si le perdant a moins de 250 points, la partie est un Double (l'équivalent autrichien du *maccs*) et le perdant paie deux enjeux au lieu d'un. Avec exactement 250 points, le perdant est sorti du Double.
 
-- Beck gives several additional symbols for scoring. 
+- Beck donne plusieurs symboles supplémentaires pour la notation.
 
-- Single strokes representing 20 points can be built into groups of five representing 100 like this.
+- Les traits simples représentant 20 points peuvent être regroupés par cinq représentant 100 comme ceci.
 
-![tartl scores](../images/jass/tartli3.png)
+![scores tartl](../images/jass/tartli3.png)
 
-- If a player has a 'V' symbol representing 50 and scores another 50, the 'V' can be closed into a triangle representing 100.
+- Si un joueur a un symbole « V » représentant 50 et marque 50 points supplémentaires, le « V » peut être fermé en un triangle représentant 100.
 
-- Negative numbers are written with a bar above the number. Two-digit positive numbers can be underlined to make a clear distinction between one two-digit number and two single-digit numbers.
-![tartl scores](../images/jass/tartli4.png)
-So the signs below show a score of 319 - that is 100+80+50+80-3+12.
+- Les nombres négatifs sont écrits avec une barre au-dessus. Les nombres positifs à deux chiffres peuvent être soulignés pour distinguer clairement un nombre à deux chiffres de deux nombres à un chiffre.
+![scores tartl](../images/jass/tartli4.png)
+Ainsi les signes ci-dessous montrent un score de 319 — soit 100+80+50+80-3+12.
 ![score 319](../images/jass/tartli5.png)
 
-## Variations and References
+## Variantes et références
 
-The descriptions above are based on the rules given in the books by Pais (Hungarian) and Beck (Austrian) listed below with one exception. Unlike all other sources, Pais does not allow *béla* to be scored at any time but only during a trick at the same time that other meld is scored (at step 7). Since the *béla* is always scored regardless of the result of the meld contest, this can create a situation where both players reach or pass 501 simultaneously and both go out. In this case the player with more points wins the *buli*, or in case of a tie the play has to go on to the end of the trick or beyond until the tie is broken.
+Les descriptions ci-dessus sont basées sur les règles données dans les livres de Pais (hongrois) et Beck (autrichien) listés ci-dessous, avec une exception. Contrairement à toutes les autres sources, Pais n'autorise pas le *béla* à être marqué à tout moment, mais seulement pendant un pli en même temps que d'autres combinaisons sont marquées (à l'étape 7). Puisque le *béla* est toujours marqué indépendamment du résultat du concours de combinaisons, cela peut créer une situation où les deux joueurs atteignent ou dépassent 501 simultanément et sortent tous les deux. Dans ce cas, le joueur avec le plus de points gagne le *buli*, ou en cas d'égalité le jeu doit continuer jusqu'à la fin du pli ou au-delà jusqu'à ce que l'égalité soit résolue.
 
-Shorter descriptions in other Hungarian books indicate that there were a number of other variants, and in practice players probably used various mixtures of the rules given above.
+De brèves descriptions dans d'autres livres hongrois indiquent qu'il existait un certain nombre d'autres variantes, et en pratique les joueurs utilisaient probablement divers mélanges des règles données ci-dessus.
 
-József Pais: *Ulti, Tarokk és néhány kis játék* (Hungaria Sport, Budapest, 1990)
+József Pais : *Ulti, Tarokk és néhány kis játék* (Hungaria Sport, Budapest, 1990)
 
-István Szomaházy: *Kártya-Codex* (Athaneum, Budapest 1898, reprinted by Szkarabeusz Kiadó, Budapest, 1999)
+István Szomaházy : *Kártya-Codex* (Athaneum, Budapest 1898, réimprimé par Szkarabeusz Kiadó, Budapest, 1999)
 
-István Szomaházy: *Kártyajátékok élete és halála* from the *Pesti Hírlap *(1926) 
+István Szomaházy : *Kártyajátékok élete és halála* du *Pesti Hírlap* (1926)
 
-Gyula Zsigri: *21 válogatott kártyajáték *(Szukits Könyvkiadó, Szeged, 1993)
+Gyula Zsigri : *21 válogatott kártyajáték* (Szukits Könyvkiadó, Szeged, 1993)
 
-Fritz Beck: *Tartl und Zensa* (Perlen Reihe volume 660, Vienna, 1960) 
+Fritz Beck : *Tartl und Zensa* (Perlen Reihe volume 660, Vienne, 1960)
 
-The illustration at the top of the page is by Leó Kóber.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Tartli
+L'illustration en haut de la page est de Leó Kóber.

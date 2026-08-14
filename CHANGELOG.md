@@ -42,6 +42,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Batch Rami (2/2) : 21 fiches FR — Three Thirteen, Seven Bridge, Panguingue, Pitty Pat, Proter, Umtali, Caribbean Kalooki, South African Kaluki, Open Rummy, Pennies, Pokerato, Push, Romtile, Rummikub, Scala40, Spot, Telefunken, Tong Its, Tonk, Toonerville Rook, Vazhushal
 - [x] Batch Tarot : 25 fiches FR — Cego, Chambéry Tarot, Tarok danois, Dappen, Dreierles, Illustrated Hungarian Tarokk, Königrufen, Lungau, Abbé de Marolles, Minchiate, Nebraska Taroky, Tarot Niçoise, Ottocento, Piedicavallo, Romanian Tarok, Sicilian, Slovenian Tarok, Droggn, Taroky, Troccas, Troggu, Tübingen Tarock, Hungarian Tarokk, Zwanzigerrufen
 - [x] Batch Mariage/Pinochle/Schnapsen : 23 fiches FR
+- [x] Batch Jass : 24 fiches FR
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---

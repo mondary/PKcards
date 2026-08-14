@@ -4,582 +4,578 @@
 **Nombre de cartes :** 32
 **Difficulté :** ⭐⭐⭐
 **Type :** Jass/Piquet, Plis
-**But :** An elaborate Hungarian trick-taking card game for three, four or two players which was very popular in the early twentieth century.
+**But :** Jeu de cartes hongrois élaboré de prise de plis pour trois, quatre ou deux joueurs, qui était très populaire au début du XXe siècle.
 
 ---
 
 ## Introduction
 
-Alsós is an elaborate three-player card game that was fashionable in Hungary from the end of the 19th until the middle of the 20th century. The basic structure, card values and combinations are those typical of Jass games , but what gives Alsós its unique character are the *figurák* (figures), which are extra feats that players can announce in advance, and may succeed or fail independently of the basic game. The idea of *figurák* was borrowed from Tarokk, and some of the announcements have the same names and meaning, while others are specific to Alsós.
+L'Alsós est un jeu de cartes élaboré à trois joueurs qui était en vogue en Hongrie de la fin du XIXe jusqu'au milieu du XXe siècle. La structure de base, les valeurs des cartes et les combinaisons sont celles typiques des jeux de Jass, mais ce qui donne à l'Alsós son caractère unique sont les *figurák* (figures), qui sont des exploits supplémentaires que les joueurs peuvent annoncer à l'avance, et qui peuvent réussir ou échouer indépendamment du jeu de base. L'idée des *figurák* a été empruntée au Tarokk, et certaines des annonces ont les mêmes noms et significations, tandis que d'autres sont spécifiques à l'Alsós.
 
-The name of the game is derived from the Hungarian word *'alsó'* (under). The standard Hungarian 32-card pack used for the game has three pictures in each suit: King, the Over Knave (*felső*) and the Under Knave (*alsó*), which correspond to the King, Queen and Jack in the international pack. In Hungarian Jass games, generally known as *kaláber, *the highest trump was either the Over Knave or the Under Knave, followed by the 9, and these two types of game were distinguished by the names *alsós kaláber *and *felsős kaláber*, or *alsós *and *felsős* for short.
+Le nom du jeu est dérivé du mot hongrois *'alsó'* (dessous). Le jeu standard hongrois de 32 cartes utilisé pour le jeu comporte trois figures dans chaque couleur : Roi, le Valet Supérieur (*felső*) et le Valet Inférieur (*alsó*), qui correspondent au Roi, à la Dame et au Valet dans le jeu international. Dans les jeux de Jass hongrois, généralement connus sous le nom de *kaláber*, le plus haut atout était soit le Valet Supérieur, soit le Valet Inférieur, suivi du 9, et ces deux types de jeu étaient distingués par les noms *alsós kaláber* et *felsős kaláber*, ou *alsós* et *felsős* pour faire court.
 
-Early in the 20th century Alsós was also played in Austria, where it was known as **Vannak**, which in Hungarian just means "here they are", and is the word by which a player declares a set of four equal cards.
+Au début du XXe siècle, l'Alsós se jouait aussi en Autriche, où il était connu sous le nom de **Vannak**, qui en hongrois signifie simplement « les voici », et est le mot par lequel un joueur déclare un ensemble de quatre cartes égales.
 
-Alsós evolved over time and there were many variants. The main description on this page is mostly based on the rules published by G. J. Potter in *A kártyajáték művészete* (Budapest, 1930) and reprinted by Gyula Zsigri in his* 21 válogatott kártyajáték* (Szeged, 1993), which I am told gives a reliable account of the way the game was generally played in the years before World War II. 
+L'Alsós a évolué au fil du temps et il y avait de nombreuses variantes. La description principale de cette page est principalement basée sur les règles publiées par G. J. Potter dans *A kártyajáték művészete* (Budapest, 1930) et réimprimées par Gyula Zsigri dans son *21 válogatott kártyajáték* (Szeged, 1993), qui m'a dit donner un compte rendu fiable de la façon dont le jeu était généralement joué dans les années précédant la Seconde Guerre mondiale.
 
-*With thanks to Gyula Zsigri for his help and advice.*
+*Avec nos remerciements à Gyula Zsigri pour son aide et ses conseils.*
 
-## Outline of Procedure
+## Aperçu de la procédure
 
-Because Alsós is quite complex, it may be useful to start with an outline of the game procedure, taking the three-player game as a model. In each hand the cards are played out in tricks, but before this happens the players bid to determine the trump suit if any, and which player will play alone against the other two in alliance. It is also possible for the players to announce in advance that they will attempt various extra feats known as '*figurák*' (figures) which will be paid for independently and to contest figures announced by opponents, doubling the cost by saying *kontra*. At the start of play players can declare certain combinations of cards (sequences or sets of 4) held in hand. Only the holder of the best combination of each type will be able to score for these. Then the cards are played, the result is determined and scores calculated, and the cards are gathered in and the deal passes to the next player.
+Parce que l'Alsós est assez complexe, il peut être utile de commencer par un aperçu de la procédure du jeu, en prenant le jeu à trois joueurs comme modèle. À chaque main, les cartes sont jouées en plis, mais avant cela, les joueurs enchérissent pour déterminer la couleur d'atout le cas échéant, et quel joueur jouera seul contre les deux autres en alliance. Il est aussi possible pour les joueurs d'annoncer à l'avance qu'ils tenteront divers exploits supplémentaires connus sous le nom de « *figurák* » (figures), qui seront payés indépendamment, et de contester les figures annoncées par les adversaires, en doublant le coût en disant *kontra*. Au début du jeu, les joueurs peuvent déclarer certaines combinaisons de cartes (suites ou ensembles de 4) tenues en main. Seul le détenteur de la meilleure combinaison de chaque type pourra marquer pour celles-ci. Ensuite, les cartes sont jouées, le résultat est déterminé et les scores calculés, et les cartes sont ramassées et la distribution passe au joueur suivant.
 
-The stages of the game are as follows.
+Les étapes du jeu sont les suivantes.
 
-- **First part of the deal. **The cards are shuffled and cut. The dealer deals six cards to each player and turns up the next card to show the proposed trump suit, known as the original suit, deals three more cards each, which the players are not allowed to see until step 5, and displays the bottom card of the pack.
+- **Première partie de la distribution.** Les cartes sont battues et coupées. Le donneur distribue six cartes à chaque joueur et retourne la carte suivante pour montrer la couleur d'atout proposée, appelée couleur originale, distribue trois cartes supplémentaires à chacun, que les joueurs ne sont pas autorisés à regarder avant l'étape 5, et expose la carte du bas du jeu.
 
-- **First round of bidding.** Players may either pass or undertake to play alone, accepting the original suit as trumps.
+- **Premier tour d'enchères.** Les joueurs peuvent soit passer soit s'engager à jouer seul, en acceptant la couleur originale comme atout.
 
-- **Second round of bidding.** Only if all pass in the first round, players may now bid to play alone with a different suit as trumps or with no trumps.
+- **Deuxième tour d'enchères.** Uniquement si tous passent au premier tour, les joueurs peuvent maintenant enchérir pour jouer seul avec une couleur différente comme atout ou sans atout.
 
-- **First round of announcements.** Players may announce figures and say kontra to opponents.
+- **Premier tour d'annonces.** Les joueurs peuvent annoncer des figures et dire kontra aux adversaires.
 
-- **Second part of deal.** The players pick up their last three cards and add them to their hands, so that each player has nine cards. 
+- **Deuxième partie de la distribution.** Les joueurs ramassent leurs trois dernières cartes et les ajoutent à leur main, de sorte que chaque joueur a neuf cartes.
 
-- **Third round of bidding.** Only if all passed in the first and second rounds, players may now bid Betli, undertaking to lose every trick.
+- **Troisième tour d'enchères.** Uniquement si tous ont passé aux premier et deuxième tours, les joueurs peuvent maintenant enchérir Betli, s'engageant à perdre chaque pli.
 
-- ***Síber***. If the original suit was accepted as trump in the first round of bidding and the other exposed card is an Ace or another trump, the holder of the lowest trump can take the undealt cards in exchange for this lowest trump and further cards from their hand.
+- ***Síber***. Si la couleur originale a été acceptée comme atout au premier tour d'enchères et que l'autre carte exposée est un As ou un autre atout, le détenteur du plus bas atout peut prendre les cartes non distribuées en échange de ce plus bas atout et d'autres cartes de sa main.
 
-- **Play to first trick, with further announcements and declarations.** At their turn to play in the first trick, players may declare combinations of cards (melds) held in hand, announce further figures, and kontra opponents' announcements. Also, if the original suit is trumps and there was no *síber*, the holder of the 7 of trumps can exchange it for the trump indicator card at their turn to play.
+- **Jeu du premier pli, avec annonces et déclarations supplémentaires.** À leur tour de jouer au premier pli, les joueurs peuvent déclarer des combinaisons de cartes (melds) tenues en main, annoncer des figures supplémentaires, et kontra les annonces des adversaires. De plus, si la couleur originale est l'atout et qu'il n'y a pas eu de *síber*, le détenteur du 7 d'atout peut l'échanger contre la carte indicatrice d'atout à son tour de jouer.
 
-- ** Final announcements and validation of melds.** At the end of the first trick, there is a final opportunity to increase the score for the game or an opponent's announced figures by saying kontra. Also, if more than one player has declared combinations, these are now compared to decide which is valid. 
+- **Annonces finales et validation des melds.** À la fin du premier pli, il y a une dernière opportunité d'augmenter le score du jeu ou d'une figure annoncée par un adversaire en disant kontra. De plus, si plus d'un joueur a déclaré des combinaisons, celles-ci sont maintenant comparées pour décider laquelle est valide.
 
-- **Play to the second trick.** If up to now there have been no announcements of figures players may say '*gyerünk*' ("let's go") at their turn to play to the second trick, to give opponents the option of giving up or playing on for double score.
+- **Jeu du deuxième pli.** Si jusqu'à présent il n'y a eu aucune annonce de figures, les joueurs peuvent dire « *gyerünk* » (« on y va ») à leur tour de jouer au deuxième pli, pour donner aux adversaires l'option d'abandonner ou de continuer pour un score double.
 
-- **Play of the remaining tricks.** The remaining seven tricks are played, the winner of each trick leading to the next.
+- **Jeu des plis restants.** Les sept plis restants sont joués, le gagnant de chaque pli entamant le suivant.
 
-- **Scoring.** Each player separately counts the card points in the tricks they have won. Players check whether the game and figures were won or lost and calculate the scores, which are either converted to money and paid or written down.
+- **Comptage des points.** Chaque joueur compte séparément les points de cartes dans les plis qu'il a gagnés. Les joueurs vérifient si le jeu et les figures ont été gagnés ou perdus et calculent les scores, qui sont soit convertis en argent et payés, soit écrits.
 
-## Players and Cards
+## Joueurs et cartes
 
-Although Alsós is essentially a three-player game, it is possible for four to take part in a game, taking turns to deal to the other three players and sit out of the hand. The three-player game will be described in detail first. There is also a two-player version, which has a different character but is quite playable if no third player can be found.
+Bien que l'Alsós soit essentiellement un jeu à trois joueurs, il est possible que quatre y participent, distribuant à tour de rôle aux trois autres joueurs et se retirant de la main. Le jeu à trois joueurs sera décrit en détail en premier. Il existe aussi une version à deux joueurs, qui a un caractère différent mais est tout à fait jouable si aucun troisième joueur ne peut être trouvé.
 
-The whole game is played counter-clockwise.
+Le jeu entier se déroule dans le sens inverse des aiguilles d'une montre.
 
-A 32-card pack of German suited cards (William Tell pattern) is used. These are locally known as *magyar* *kártya* (Hungarian cards) though the characters on the picture cards are Swiss and Austrian. The suits, from highest to lowest, are acorns (*makk*), hearts (*piros*), gourds (*tök*) and leaves (*zöld*).
+Un jeu de 32 cartes aux couleurs allemandes (motif Guillaume Tell) est utilisé. Elles sont localement connues sous le nom de *magyar kártya* (cartes hongroises) bien que les personnages sur les figures soient suisses et autrichiens. Les couleurs, de la plus haute à la plus basse, sont glands (*makk*), cœurs (*piros*), coloquintes (*tök*) et feuilles (*zöld*).
 
-Since the cards have no index letters, here is a list of the cards in each suit and how to recognise them.
+Puisque les cartes n'ont pas de lettres d'indice, voici une liste des cartes de chaque couleur et comment les reconnaître.
 
-- The **Ace** (*ász*) is also known in Hungary (as in Austria and Southern Germany) as the Pig (*disznó*). The suit symbols in the four corners of the Aces are rotated and they show scenes depicting the four seasons of the year.
+- L'**As** (*ász*) est aussi connu en Hongrie (comme en Autriche et en Allemagne du Sud) sous le nom de Cochon (*disznó*). Les symboles de couleur dans les quatre coins des As sont tournés et montrent des scènes représentant les quatre saisons de l'année.
 
-- The **King** (*király*) is mounted on a horse and has upright suit symbols.
+- Le **Roi** (*király*) est monté à cheval et a des symboles de couleur dressés.
 
-- The **Over Knave** (*felső*) has no horse, and a suit symbol at the top left corner of the card.
+- Le **Valet Supérieur** (*felső*) n'a pas de cheval, et un symbole de couleur dans le coin supérieur gauche de la carte.
 
-- The **Under Knave** (*alsó*) is distinguished from the Over by having its suit symbol lower down the left hand side of the card.
+- Le **Valet Inférieur** (*alsó*) se distingue du Valet Supérieur par son symbole de couleur placé plus bas sur le côté gauche de la carte.
 
-- The **Ten** (*tízes*), **Nine** (*kilences*), **Eight** (*nyolcas*) and **Seven** (*hetes*) have the appropriate number of suit symbols at each end of the card and the corresponding Roman numbers X, IX, VIII, VII. 
+- Le **Dix** (*tízes*), le **Neuf** (*kilences*), le **Huit** (*nyolcas*) et le **Sept** (*hetes*) ont le nombre approprié de symboles de couleur à chaque extrémité de la carte et les chiffres romains correspondants X, IX, VIII, VII.
 
-Here for example are all the acorns in the order Ace, King, Over, Under, Ten, Nine, Eight , Seven. 
+Voici par exemple tous les glands dans l'ordre As, Roi, Valet Supérieur, Valet Inférieur, Dix, Neuf, Huit, Sept.
 
-![ace](../images/tell/ea.gif)![king](../images/tell/ek.gif)![over](../images/tell/eo.gif)![under](../images/tell/eu.gif)![ten](../images/tell/ez.gif)![nine](../images/tell/e9.gif)![eight](../images/tell/e8.gif)![seven](../images/tell/e7.gif)
+![as](../images/tell/ea.gif)![roi](../images/tell/ek.gif)![valet-supérieur](../images/tell/eo.gif)![valet-inférieur](../images/tell/eu.gif)![dix](../images/tell/ez.gif)![neuf](../images/tell/e9.gif)![huit](../images/tell/e8.gif)![sept](../images/tell/e7.gif)
 
-In an emergency, if no William Tell cards were available, it would be possible to play with international cards, using Queens and Jacks for Over Knaves and Under Knaves. 
+En cas d'urgence, si aucune carte Guillaume Tell n'était disponible, il serait possible de jouer avec des cartes internationales, en utilisant les Dames et les Valets pour les Valets Supérieurs et les Valets Inférieurs.
 
-The cards within each suit have three different ranking orders: 
+Les cartes de chaque couleur ont trois ordres de classement différents :
 
-- The order used for **making sequences** is as above from high to low: 
+- L'ordre utilisé pour **former des suites** est comme ci-dessus du plus haut au plus bas :
 
-**Ace, King, Over, Under, Ten, Nine, Eight, Seven.**
+**As, Roi, Valet Supérieur, Valet Inférieur, Dix, Neuf, Huit, Sept.**
 
-- The trick-taking order in **trumps** from high to low is: 
+- L'ordre de prise de plis en **atout** du plus haut au plus bas est :
 
-**Under (20), Nine (14), Ace (11), Ten (10), King (4), Over (3), Eight (0), Seven (0).**
+**Valet Inférieur (20), Neuf (14), As (11), Dix (10), Roi (4), Valet Supérieur (3), Huit (0), Sept (0).**
 
-- The trick-taking order in **non-trump suits** from high to low is:
+- L'ordre de prise de plis en **couleurs non-atout** du plus haut au plus bas est :
 
-**Ace (11), Ten (10), King (4), Over (3), Under (2), Nine (0), Eight (0), Seven (0).**
+**As (11), Dix (10), Roi (4), Valet Supérieur (3), Valet Inférieur (2), Neuf (0), Huit (0), Sept (0).**
 
-Alsós is a point-trick game: the aim (or at least one aim) is to win tricks containing valuable cards. The numbers in brackets in the above lists are the card values. There are a total of 62 card points in the trump suit and 30 card points in each other suit. In addition the last trick is worth an extra 10 card points to the player who wins it. So when there is a trump suit the total number of card points in the deck is 162. If there are no trumps the total is only 130. 
+L'Alsós est un jeu de prise de plis à points : le but (ou au moins l'un des buts) est de gagner des plis contenant des cartes de valeur. Les nombres entre parenthèses dans les listes ci-dessus sont les valeurs des cartes. Il y a un total de 62 points de cartes dans la couleur d'atout et 30 points de cartes dans chaque autre couleur. De plus, le dernier pli vaut 10 points de cartes supplémentaires pour le joueur qui le gagne. Ainsi, quand il y a une couleur d'atout, le nombre total de points de cartes dans le jeu est de 162. S'il n'y a pas d'atout, le total est seulement de 130.
 
 ## Melds
 
-There are three types of card combination (meld) in a player's hand which can score points if declared at the appropriate time and not outranked by another player's meld: sequences in a suit, sets of 4 equal cards and the *béla*, which consists of the King and Over of trumps.
+Il y a trois types de combinaison de cartes (meld) dans la main d'un joueur qui peuvent marquer des points si elles sont déclarées au moment approprié et non dépassées par le meld d'un autre joueur : les suites dans une couleur, les ensembles de 4 cartes égales, et le *béla*, qui consiste en le Roi et le Valet Supérieur d'atout.
 
-### Sequences
+### Suites
 
-A sequence (*sorozat*) consists of at least three consecutive cards of a suit. The cards have to be consecutive in the **sequence order** irrespective of whether the suit is trump or not. A sequence of 3 cards (*terc*) is worth 20 cards points, a sequence of 4 cards (*kvart*) is worth 50, and a sequence of 5 or more is worth 100. They are called *kvint* (5 cards), *szext* (6), *szept* (7) and *okt* (8). A hand can contain more than one sequence but they cannot abut or overlap, so a complete suit of eight cards of a suit cannot be declared as a *kvint* (100) plus a *terc* (20), but only as an *okt* for 100 points.
+Une suite (*sorozat*) consiste en au moins trois cartes consécutives d'une même couleur. Les cartes doivent être consécutives dans l'**ordre de suite** indépendamment de si la couleur est atout ou non. Une suite de 3 cartes (*terc*) vaut 20 points de cartes, une suite de 4 cartes (*kvart*) vaut 50, et une suite de 5 ou plus vaut 100. Elles sont appelées *kvint* (5 cartes), *szext* (6), *szept* (7) et *okt* (8). Une main peut contenir plus d'une suite, mais elles ne peuvent pas se toucher ou se chevaucher, donc une couleur complète de huit cartes ne peut pas être déclarée comme un *kvint* (100) plus un *terc* (20), mais seulement comme un *okt* pour 100 points.
 
-Only one player can score for sequences. If two players have declared sequences, the player with the best single sequence scores for all his or her sequences. A longer sequence beats a shorter sequence. If two sequences are the same length the one with the higher top card (in sequence order) is better. Between two equal length sequences with equally high cards the trump sequence is better. If neither is in trumps they are equal, and if two players tie for best sequence with equal non-trump sequences neither of them scores.
+Un seul joueur peut marquer pour les suites. Si deux joueurs ont déclaré des suites, le joueur avec la meilleure suite unique marque pour toutes ses suites. Une suite plus longue bat une suite plus courte. Si deux suites ont la même longueur, celle dont la carte la plus haute (dans l'ordre de suite) est la meilleure. Entre deux suites de même longueur et de même carte haute, la suite d'atout est meilleure. Si aucune n'est à l'atout, elles sont égales, et si deux joueurs sont à égalité pour la meilleure suite avec des suites non-atout égales, aucun des deux ne marque.
 
-### Sets (*vannak*)
+### Ensembles (*vannak*)
 
-A set of four equal ranked cards in a player's hand is declared by saying '*vannak*' which is just a part of the Hungarian verb 'to be' meaning 'they are' or perhaps 'here they are'. A *vannak* is worth 80 card points, irrespective of the rank of the cards. If more than one player declares *vannak*, only the player with the higher ranking *vannak* scores. In trump games they rank in trump suit order. If there are no trumps they rank in the non-trump order. If the player with the highest *vannak* also has a second *vannak* (or in the two-player game conceivably even three of them), they are all scored.
+Un ensemble de quatre cartes de même rang dans la main d'un joueur est déclaré en disant « *vannak* », qui est une partie du verbe hongrois « être » signifiant « ils sont » ou peut-être « les voici ». Un *vannak* vaut 80 points de cartes, indépendamment du rang des cartes. Si plus d'un joueur déclare *vannak*, seul le joueur avec le *vannak* de rang le plus élevé marque. Dans les jeux à atout, ils sont classés dans l'ordre de la couleur d'atout. S'il n'y a pas d'atout, ils sont classés dans l'ordre non-atout. Si le joueur avec le plus haut *vannak* a aussi un deuxième *vannak* (ou dans le jeu à deux joueurs, éventuellement même trois), ils sont tous comptés.
 
 ### *Béla*
 
-A player who holds the King and Over of trumps scores 20 card points for it. This is not declared at the start of the play like other combinations, and cannot be beaten by any other combination. The player simply claims it at the end of the play when adding up the points. Of course the players may know about it earlier, for example if a player declares a *terc* from the Ace or from the King in trumps, which automatically includes a *béla*. 
+Un joueur qui tient le Roi et le Valet Supérieur d'atout marque 20 points de cartes pour cela. Cela n'est pas déclaré au début du jeu comme les autres combinaisons, et ne peut être battu par aucune autre combinaison. Le joueur le réclame simplement à la fin du jeu en additionnant les points. Bien sûr, les joueurs peuvent le savoir plus tôt, par exemple si un joueur déclare un *terc* à partir de l'As ou à partir du Roi à l'atout, ce qui inclut automatiquement un *béla*.
 
-## Deal
+## Distribution
 
-The first dealer may be chosen by drawing cards from the shuffled deck: whoever draws the lowest card deals first. The turn to deal will then pass to the right after each hand.
+Le premier donneur peut être choisi en tirant des cartes du jeu battu : celui qui tire la carte la plus basse distribue en premier. Le tour de distribution passe ensuite à droite après chaque main.
 
-The cards are dealt counter-clockwise in batches of three at a time. The first part of the deal goes around the table twice, starting to dealer's right and ending with the dealer, so that each player has a hand of 6 cards, which they pick up and look at. The next card - the 19th - is placed face up in the centre of the table. This is the trump indicator card. Its suit is the proposed (original) trump suit, which can be accepted or not in the first round of bidding. 
+Les cartes sont distribuées dans le sens inverse des aiguilles d'une montre par lots de trois à la fois. La première partie de la distribution fait deux fois le tour de la table, en commençant par le joueur à la droite du donneur et en terminant par le donneur, de sorte que chaque joueur a une main de 6 cartes, qu'il ramasse et regarde. La carte suivante — la 19e — est placée face visible au centre de la table. C'est la carte indicatrice d'atout. Sa couleur est la couleur d'atout proposée (originale), qui peut être acceptée ou non au premier tour d'enchères.
 
-The dealer deals another batch of 3 cards face down to each player, which they must **not** look at yet. That should leave 4 undealt cards in the deck. The dealer stacks the top 3 of these cards face down crosswise on top of the trump indicator card, so that its suit and rank can be seen. Then the last card of the deck is placed face up on top of the centre stack, which is known as the **talon**. 
+Le donneur distribue un autre lot de 3 cartes face cachée à chaque joueur, qu'ils ne doivent **pas** encore regarder. Cela devrait laisser 4 cartes non distribuées dans le jeu. Le donneur empile les 3 premières de ces cartes face cachée en croix sur la carte indicatrice d'atout, de sorte que sa couleur et son rang soient visibles. Ensuite, la dernière carte du jeu est placée face visible au-dessus de la pile centrale, appelée le **talon**.
 
-During the initial rounds of bidding and announcements the players have 6 cards in hand and can see two cards in the centre: the trump indicator card and the card that was originally on the bottom of the pack and is now on top of the talon. 
+Pendant les tours initiaux d'enchères et d'annonces, les joueurs ont 6 cartes en main et peuvent voir deux cartes au centre : la carte indicatrice d'atout et la carte qui était à l'origine en bas du jeu et est maintenant au-dessus du talon.
 
-## Types of Game and Bidding
+## Types de jeu et enchères
 
-The bidding determines what type of game will be played, and which player will play alone against the other two in alliance. This lone player is known as the **declarer** (*felvevő*). There are four types of game.
+Les enchères déterminent quel type de jeu sera joué, et quel joueur jouera seul contre les deux autres en alliance. Ce joueur solo est appelé le **déclarant** (*felvevő*). Il y a quatre types de jeu.
 
-- **Trump game** (*adus játék*). One of the suits is trumps. The declarer plays alone and tries to take more points for cards won in tricks plus declared combinations than either of the other two players. The score is **1 game point**.
+- **Jeu à atout** (*adus játék*). Une des couleurs est l'atout. Le déclarant joue seul et essaie de prendre plus de points pour les cartes gagnées en plis plus les combinaisons déclarées que chacun des deux autres joueurs. Le score est de **1 point de manche**.
 
-- **No trump game** (*adu nélküli játék*). There is no trump suit. The declarer plays alone and tries to take more points for cards won in tricks plus declared combinations than either of the other two players. The score is **2 game points**.
+- **Jeu sans atout** (*adu nélküli játék*). Il n'y a pas de couleur d'atout. Le déclarant joue seul et essaie de prendre plus de points pour les cartes gagnées en plis plus les combinaisons déclarées que chacun des deux autres joueurs. Le score est de **2 points de manche**.
 
-- **Betli**. There is no trump suit. The declarer plays alone and tries to lose every trick. If the declarer wins a trick the play ends and the declarer has lost. The score is **5 game points**.
+- **Betli**. Il n'y a pas de couleur d'atout. Le déclarant joue seul et essaie de perdre chaque pli. Si le déclarant gagne un pli, le jeu s'arrête et le déclarant a perdu. Le score est de **5 points de manche**.
 
-- **Klopitzky**. There is no trump suit and everyone plays for themselves. The player who wins most tricks (not points) pays **3 game points** to each opponent. It is not clear from the sources how ties are handled. We suggest that if two players tie with 4 tricks each, they each pay 3 game points to the player with one trick and if all three players tie with 3 tricks each there is no score.
+- **Klopitzky**. Il n'y a pas de couleur d'atout et chacun joue pour soi. Le joueur qui gagne le plus de plis (pas de points) paie **3 points de manche** à chaque adversaire. Les sources ne précisent pas comment les égalités sont traitées. Nous suggérons que si deux joueurs sont à égalité avec 4 plis chacun, ils paient chacun 3 points de manche au joueur avec un pli, et si les trois joueurs sont à égalité avec 3 plis chacun, il n'y a pas de score.
 
-Note that in trump and no trump games the opponents of the declarer do **not** combine their tricks or their points. If either opponent individually has as many or more points than the declarer, the declarer has lost and pays **both** opponents for the game. Therefore the opponents cooperate to defeat the declarer's game by ensuring that one of them can equal or beat the declarer's total.
+Notez que dans les jeux à atout et sans atout, les adversaires du déclarant ne combinent **pas** leurs plis ni leurs points. Si l'un ou l'autre adversaire individuellement a autant ou plus de points que le déclarant, le déclarant a perdu et paie les **deux** adversaires pour la manche. Par conséquent, les adversaires coopèrent pour battre le jeu du déclarant en s'assurant que l'un d'eux puisse égaler ou dépasser le total du déclarant.
 
-The **first round of bidding** takes place when each player has 6 cards and there are two cards face up on the table: the trump indicator card and the card on top of the talon, which was previously the bottom card of the pack. The player to dealer's right has only two options: to accept the original suit (the suit of the trump indicator) as trumps or to pass. If this player passes the player to dealer's left has the same options, and if this player also passes the dealer has the same options. A player who accepts the original suit becomes the declarer in a trump game with that suit as trumps. In this case the second and third rounds of bidding are skipped - players proceed immediately to the first round of announcements.
+Le **premier tour d'enchères** a lieu quand chaque joueur a 6 cartes et qu'il y a deux cartes face visible sur la table : la carte indicatrice d'atout et la carte au-dessus du talon, qui était précédemment la carte du bas du jeu. Le joueur à la droite du donneur n'a que deux options : accepter la couleur originale (la couleur de la carte indicatrice) comme atout, ou passer. Si ce joueur passe, le joueur à la gauche du donneur a les mêmes options, et si ce joueur passe aussi, le donneur a les mêmes options. Un joueur qui accepte la couleur originale devient le déclarant dans un jeu à atout avec cette couleur comme atout. Dans ce cas, les deuxième et troisième tours d'enchères sont sautés — les joueurs passent immédiatement au premier tour d'annonces.
 
-The **second round of bidding** takes place immediately after the first round, only if all three players passed in the first round. In this round the players have one turn to speak, in turn around the table starting to dealer's right and ending with the dealer. The ranking of the bids from lowest to highest is **leaves, gourds, hearts, acorns, no trumps**. Each bid must be higher than the last. A player who does not wish to bid can pass. The original suit cannot be bid in this round - a player who wants to play with the original suit as trumps must say so in the first round of bidding. For example if the trump indicator is a heart, all pass in the first round, and the first player in the second round bids "gourds", the next player can only bid "acorns" or "no trumps" or pass. If a player bids no trumps no higher bids are possible so the second round of bidding ends at that point. The final bidder in the second round will be the declarer, playing a trump game against the other two with the final bid suit as trumps, or a no trump game if the final bid was no trumps. The game proceeds to the first round of announcements and there will be no third round of bidding after the second part of the deal.
+Le **deuxième tour d'enchères** a lieu immédiatement après le premier tour, uniquement si les trois joueurs ont passé au premier tour. Dans ce tour, les joueurs ont un tour de parole, dans l'ordre autour de la table en commençant par le joueur à la droite du donneur et en terminant par le donneur. L'ordre des enchères de la plus basse à la plus haute est **feuilles, coloquintes, cœurs, glands, sans atout**. Chaque enchère doit être plus haute que la précédente. Un joueur qui ne souhaite pas enchérir peut passer. La couleur originale ne peut pas être enchérie dans ce tour — un joueur qui veut jouer avec la couleur originale comme atout doit le dire au premier tour d'enchères. Par exemple, si la carte indicatrice est un cœur, tous passent au premier tour, et le premier joueur du deuxième tour enchérit « coloquintes », le joueur suivant ne peut enchérir que « glands » ou « sans atout » ou passer. Si un joueur enchérit sans atout, aucune enchère plus haute n'est possible, donc le deuxième tour d'enchères s'arrête à ce moment. Le dernier enchérisseur du deuxième tour sera le déclarant, jouant un jeu à atout contre les deux autres avec la couleur de la dernière enchère comme atout, ou un jeu sans atout si la dernière enchère était sans atout. Le jeu passe au premier tour d'annonces et il n'y aura pas de troisième tour d'enchères après la deuxième partie de la distribution.
 
-If all pass in the second round of bidding, the first round of announcements is skipped, the players pick up their last three cards and when everyone has nine cards there is a **third round of bidding**, again beginning with the player to dealer's right. In this third round the only possible bid is Betli; players who do not want to play Betli say "pass". A bid of Betli ends the third round and the declarer plays alone and tries to lose every trick. If all three players pass in the third round, Klopitzky is played. 
+Si tous passent au deuxième tour d'enchères, le premier tour d'annonces est sauté, les joueurs ramassent leurs trois dernières cartes et quand tout le monde a neuf cartes, il y a un **troisième tour d'enchères**, commençant à nouveau par le joueur à la droite du donneur. Dans ce troisième tour, la seule enchère possible est Betli ; les joueurs qui ne veulent pas jouer Betli disent « passe ». Une enchère de Betli termine le troisième tour et le déclarant joue seul et essaie de perdre chaque pli. Si les trois joueurs passent au troisième tour, le Klopitzky est joué.
 
-## Announcements and Kontras
+## Annonces et Kontras
 
 ### Figures
 
-***Figurák*** ('figures') are extra obligations that can be announced by any player in a trump or no trump game, but not in Betli or Klopitzky. They may be won or lost independently of the game. If the declarer announces a figure, the declarer scores for it if it succeeds, but if it fails both opponents score for it. If an opponent of the declarer announces a figure and succeeds, both opponents will score for it. If it fails only the declarer will score it. Therefore if an opponent of the declarer announces a figure, the other opponent should help him or her to make it.
+Les ***figurák*** (« figures ») sont des obligations supplémentaires qui peuvent être annoncées par n'importe quel joueur dans un jeu à atout ou sans atout, mais pas dans le Betli ou le Klopitzky. Elles peuvent être gagnées ou perdues indépendamment du jeu. Si le déclarant annonce une figure, il marque pour elle si elle réussit, mais si elle échoue, les deux adversaires marquent pour elle. Si un adversaire du déclarant annonce une figure et réussit, les deux adversaires marquent pour elle. Si elle échoue, seul le déclarant la marque. Par conséquent, si un adversaire du déclarant annonce une figure, l'autre adversaire devrait l'aider à la réussir.
 
-There are 10 figures that were commonly allowed. Some people played with additional figures, and these will be mentioned in the Variations section.
+Il y a 10 figures couramment autorisées. Certains jouaient avec des figures supplémentaires, qui seront mentionnées dans la section des variantes.
 
-- **Kassza**. The declarer can announce this if holding the King and Over of trumps (béla), and it succeeds if the declarer wins the game - i.e. takes more points in cards, melds and last trick than either opponent. If announced by either opponent it means that one opponent holds the King and Over of trumps (*béla*) and that the declarer will not win the game. Score: **1 game point**.
+- **Kassza**. Le déclarant peut annoncer cela s'il tient le Roi et le Valet Supérieur d'atout (béla), et cela réussit si le déclarant gagne le jeu — c'est-à-dire prend plus de points en cartes, melds et dernier pli que chaque adversaire. Si annoncé par l'un ou l'autre adversaire, cela signifie qu'un adversaire tient le Roi et le Valet Supérieur d'atout (*béla*) et que le déclarant ne gagnera pas le jeu. Score : **1 point de manche**.
 
-- **Abszolút**. The player who announces this in a trump game has to take at least 82 points counting **only** the cards taken in tricks and the last trick score, and **not** including meld points for sequences, *vannak* or *béla*. (There are 162 points in the pack so the announcement is to take more than half of these points.) In a no trump game, a player who announces Abszolút has to take at least 66 points in cards and the last trick to succeed (i.e. more than half of the available total of 130). Score: **1 game point**.
+- **Abszolút**. Le joueur qui annonce cela dans un jeu à atout doit prendre au moins 82 points en comptant **uniquement** les cartes prises en plis et le score du dernier pli, et **non** les points de meld pour les suites, *vannak* ou *béla*. (Il y a 162 points dans le jeu, donc l'annonce est de prendre plus de la moitié de ces points.) Dans un jeu sans atout, un joueur qui annonce Abszolút doit prendre au moins 66 points en cartes et le dernier pli pour réussir (c'est-à-dire plus de la moitié du total disponible de 130). Score : **1 point de manche**.
 
-- **Százas** (100). The player who announces this in a trump game has to take at least 100 points counting **only** the cards taken in tricks and the last trick score, and **not** including meld points for sequences, *vannak* or *béla*. In a no trump game the equivalent announcement requires only 80 points in tricks to succeed, and is therefore sometimes announced as **Nyolcvanas** (80) instead. Score: **2 game points**.
+- **Százas** (100). Le joueur qui annonce cela dans un jeu à atout doit prendre au moins 100 points en comptant **uniquement** les cartes prises en plis et le score du dernier pli, et **non** les points de meld pour les suites, *vannak* ou *béla*. Dans un jeu sans atout, l'annonce équivalente nécessite seulement 80 points en plis pour réussir, et est donc parfois annoncée comme **Nyolcvanas** (80) à la place. Score : **2 points de manche**.
 
-- **Kétszázas** (200). The player who announces this in a trump game has to take at least 200 points in tricks and melds for the announcement to succeed. In a no trump game the announcer needs at least 180 points in tricks plus melds, so the announcement is really **Száznyolcvanas** (180). Because meld points can be included, this announcement is easier to make than 100, and the score for it is only **1 game point**.
+- **Kétszázas** (200). Le joueur qui annonce cela dans un jeu à atout doit prendre au moins 200 points en plis et melds pour que l'annonce réussisse. Dans un jeu sans atout, l'annonceur a besoin d'au moins 180 points en plis plus melds, donc l'annonce est en réalité **Száznyolcvanas** (180). Parce que les points de meld peuvent être inclus, cette annonce est plus facile à réaliser que 100, et le score n'est que de **1 point de manche**.
 
-- **Negyvennégyes** (44). The player undertakes to win all four Aces in tricks. The announcement is called 44 because that happens to be the total card point value of the Aces, but the score for it is **1 game point**.
+- **Negyvennégyes** (44). Le joueur s'engage à gagner les quatre As en plis. L'annonce est appelée 44 parce que c'est la valeur totale en points de cartes des As, mais le score est de **1 point de manche**.
 
-- **Tulétroá** (tous les trois). The player undertakes to win the Under, 9 and 7 of trumps in tricks - that is the top two trumps and the lowest trump. Score: **1 game point**.
+- **Tulétroá** (tous les trois). Le joueur s'engage à gagner le Valet Inférieur, le 9 et le 7 d'atout en plis — c'est-à-dire les deux plus hauts atouts et le plus bas. Score : **1 point de manche**.
 
-- **Ultimó**. The player undertakes to win the last trick with the 7 of trumps. Score: **2 game points**.
+- **Ultimó**. Le joueur s'engage à gagner le dernier pli avec le 7 d'atout. Score : **2 points de manche**.
 
-- **Család** (family). The player undertakes to win the Ace, King and Over of trumps in tricks. Score: **1 game point**.
+- **Család** (famille). Le joueur s'engage à gagner l'As, le Roi et le Valet Supérieur d'atout en plis. Score : **1 point de manche**.
 
-- **Összes adu** (all trumps). The player undertakes to win the top six trumps in tricks - that is the Under, 9, Ace, 10, King and Over. Score: **2 game points**.
+- **Összes adu** (tous les atouts). Le joueur s'engage à gagner les six plus hauts atouts en plis — c'est-à-dire le Valet Inférieur, le 9, l'As, le 10, le Roi et le Valet Supérieur. Score : **2 points de manche**.
 
-- **Volát**. The player undertakes to win all nine tricks. Score: **5 game points**.
+- **Volát**. Le joueur s'engage à gagner les neuf plis. Score : **5 points de manche**.
 
-There are two opportunities to announce figures: "from the front" (*elölről*) in the first round of announcements, when players have 6 cards each, and "from the back" (*hátulról*), in the course of the first trick, when the players have seen all 9 of their cards. The scores given above are for figures announced from the back. For figures announced from the front, with only 6 cards in hand, all these scores are doubled.
+Il y a deux occasions d'annoncer des figures : « par devant » (*elölről*) dans le premier tour d'annonces, quand les joueurs ont 6 cartes chacun, et « par derrière » (*hátulról*), au cours du premier pli, quand les joueurs ont vu leurs 9 cartes. Les scores ci-dessus sont pour les figures annoncées par derrière. Pour les figures annoncées par devant, avec seulement 6 cartes en main, tous ces scores sont doublés.
 
-Note that figures can only be scored if they are announced, either from the front or from the back. Unlike Tarokk, Alsós has no scores for unannounced (silent) figures.
+Notez que les figures ne peuvent être marquées que si elles sont annoncées, soit par devant soit par derrière. Contrairement au Tarokk, l'Alsós n'a pas de scores pour les figures non annoncées (silencieuses).
 
-Any of the above figures can be announced in trump games. In no trump games only abszolút, 100 (80), 200 (180), 44 (4 Aces) and Volát can be announced.
+N'importe laquelle des figures ci-dessus peut être annoncée dans les jeux à atout. Dans les jeux sans atout, seules l'abszolút, le 100 (80), le 200 (180), le 44 (4 As) et le Volát peuvent être annoncés.
 
-Any player may announce a figure. In most cases if a figure is announced by an opponent of the declarer, that opponent has to satisfy the requirements in his or her own tricks for the figure to succeed. For example an opponent who announces *tulétroá* must take all three cards: it is not sufficient for the three cards to be split between the two opponents. The only exception to this principle is an announcement of *kassza* by an opponent. For this to succeed it does not matter which opponent equals or exceeds the declarer's card point total, or which opponent holds the *béla* so long as the trump King and Over are both in the same opponent's hand. 
+N'importe quel joueur peut annoncer une figure. Dans la plupart des cas, si une figure est annoncée par un adversaire du déclarant, cet adversaire doit satisfaire les conditions dans ses propres plis pour que la figure réussisse. Par exemple, un adversaire qui annonce *tulétroá* doit prendre les trois cartes : il n'est pas suffisant que les trois cartes soient réparties entre les deux adversaires. La seule exception à ce principe est une annonce de *kassza* par un adversaire. Pour que cela réussisse, peu importe quel adversaire égale ou dépasse le total de points de cartes du déclarant, ou quel adversaire tient le *béla*, tant que le Roi et le Valet Supérieur d'atout sont tous les deux dans la main du même adversaire.
 
-A player is not allowed to announce both *abszolút* and 100 (or 80) in the same round of announcements. Also a player who has announced 100 (80) cannot subsequently announce *abszolút*. It follows that 100 should never be announced from the front. In theory this would score 4 points, but it will always be better to announce *abszolút* with 6 cards for 2 points, and then 100 (80) from the back for another 2 points, achieving the same score with less risk.
+Un joueur n'est pas autorisé à annoncer à la fois *abszolút* et 100 (ou 80) dans le même tour d'annonces. De plus, un joueur qui a annoncé 100 (80) ne peut pas ensuite annoncer *abszolút*. Il s'ensuit que 100 ne devrait jamais être annoncé par devant. En théorie, cela marquerait 4 points, mais il vaut toujours mieux annoncer *abszolút* avec 6 cartes pour 2 points, puis 100 (80) par derrière pour 2 points supplémentaires, obtenant le même score avec moins de risque.
 
-*Volát* can only be announced from the back for 5 points. To announce *volát* from the front would make no sense, because there is always the likelihood of picking up one or more losing cards in the second part of the deal.
+Le *Volát* ne peut être annoncé que par derrière pour 5 points. L'annoncer par devant n'aurait aucun sens, car il y a toujours la probabilité de ramasser une ou plusieurs cartes perdantes dans la deuxième partie de la distribution.
 
-To win an *ultimó* the player who announced it must win the last trick with the 7 of trumps. It fails if either the player is forced to play the 7 earlier, or if any player (even the partner of the announcer) plays a higher trump in the last trick. A player who has announced *ultimó* is not allowed to play the 7 prematurely unless forced to by the rules of play (following suit and trumping when void). Even if it becomes clear that the *ultimó* is impossible, the holder of the 7 is not allowed to play it earlier than necessary, for example in order to make an announced *tulétroá*.
+Pour gagner un *ultimó*, le joueur qui l'a annoncé doit gagner le dernier pli avec le 7 d'atout. Cela échoue si le joueur est forcé de jouer le 7 plus tôt, ou si n'importe quel joueur (même le partenaire de l'annonceur) joue un atout plus haut au dernier pli. Un joueur qui a annoncé *ultimó* n'est pas autorisé à jouer le 7 prématurément sauf s'il y est forcé par les règles du jeu (suivre la couleur et couper quand on n'a pas la couleur). Même s'il devient clair que l'*ultimó* est impossible, le détenteur du 7 n'est pas autorisé à le jouer plus tôt que nécessaire, par exemple pour réaliser un *tulétroá* annoncé.
 
 ### Kontras
 
-An opponent of the declarer can increase the score for the game by saying **kontra** to the game, and in the same way an opponent of a player who has announced a figure can increase the score of it by saying kontra to that figure. An opponent of a player who has said kontra to the game or a figure can reply to it with a **rekontra**, increasing the score again. An opponent of a player who has said rekontra can reply with **szubkontra** and an opponent of a player who has said szubkontra can reply with **hirskontra**, each time further increasing the score.
+Un adversaire du déclarant peut augmenter le score du jeu en disant **kontra** au jeu, et de la même façon, un adversaire d'un joueur qui a annoncé une figure peut augmenter le score de celle-ci en disant kontra à cette figure. Un adversaire d'un joueur qui a dit kontra au jeu ou à une figure peut répondre par une **rekontra**, augmentant à nouveau le score. Un adversaire d'un joueur qui a dit rekontra peut répondre par une **szubkontra** et un adversaire d'un joueur qui a dit szubkontra peut répondre par une **hirskontra**, augmentant le score à chaque fois.
 
-The game and figures are each scored independently, and kontra, rekontra, etc. can be said separately to each. Therefore any player saying kontra, rekontra, etc. must specify exactly what the kontra, rekontra, etc. applies to, saying for example 'kontra the game and the abszolút', 'rekontra the család', and so on. 
+Le jeu et les figures sont chacun marqués indépendamment, et kontra, rekontra, etc. peuvent être dits séparément pour chacun. Par conséquent, tout joueur disant kontra, rekontra, etc. doit spécifier exactement à quoi cela s'applique, en disant par exemple « kontra le jeu et l'abszolút », « rekontra la család », et ainsi de suite.
 
-Kontra, rekontra, szubkontra and hirskontra can be said from the front (with 6 cards) or from the back (with 9 cards). From the front they each multiply the score by 4; from the back they only double the score. If a figure is announced from the front, an opponent can kontra it from the front, or wait for the last 3 cards and kontra it from the back. A figure that has been kontra'd from the front can be rekontra'd from the front or later from the back, and so on.
+Kontra, rekontra, szubkontra et hirskontra peuvent être dits par devant (avec 6 cartes) ou par derrière (avec 9 cartes). Par devant, ils multiplient chacun le score par 4 ; par derrière, ils ne font que doubler le score. Si une figure est annoncée par devant, un adversaire peut la kontra par devant, ou attendre les 3 dernières cartes et la kontra par derrière. Une figure kontra'd par devant peut être rekontra'd par devant ou plus tard par derrière, et ainsi de suite.
 
-It should be clear that for the game and each figure, these increases are announced alternately by the two opposing sides. For example if an opponent of the declarer announces a figure, only the declarer can say kontra and szubkontra, and only the declarer's opponents can say rekontra and hirskontra to that figure. Also it is not possible to say rekontra unless the other side has said kontra, szubkontra can only be said in reply to rekontra, and so on. If an opponent announces a figure and the declarer says kontra to it, it is possible for either opponent to reply with rekontra on behalf of the announcer, not only the player who announced the figure.
+Il devrait être clair que pour le jeu et chaque figure, ces augmentations sont annoncées alternativement par les deux camps adverses. Par exemple, si un adversaire du déclarant annonce une figure, seul le déclarant peut dire kontra et szubkontra, et seuls les adversaires du déclarant peuvent dire rekontra et hirskontra à cette figure. De plus, il n'est pas possible de dire rekontra sauf si l'autre camp a dit kontra, szubkontra ne peut être dit qu'en réponse à rekontra, et ainsi de suite. Si un adversaire annonce une figure et que le déclarant dit kontra, il est possible pour l'un ou l'autre adversaire de répondre par rekontra au nom de l'annonceur, pas seulement le joueur qui a annoncé la figure.
 
-### Announcement procedure
+### Procédure d'annonce
 
-In the first round of announcements the declarer speaks first, and may announce any figures he or she wishes to. Following this the other players speak in turn, in counter-clockwise order around the table. They may kontra anything said by the declarer and also announce figures of their own. A player who has nothing more to say says 'pass': this does not prevent them from acting if the turn to speak comes round to them again. If either of the declarer's opponents says anything, then declarer gets another turn to speak and may say kontra to figures announced by the opponents, respond to any kontra with a rekontra or announce additional figures. The round of announcements continues like this until two consecutive players say pass, at which point the players receive their last 3 cards from the dealer.
+Dans le premier tour d'annonces, le déclarant parle en premier, et peut annoncer les figures qu'il souhaite. Ensuite, les autres joueurs parlent à tour de rôle, dans le sens inverse des aiguilles d'une montre autour de la table. Ils peuvent kontra tout ce que le déclarant a dit et aussi annoncer leurs propres figures. Un joueur qui n'a plus rien à dire dit « passe » : cela ne l'empêche pas d'agir si le tour de parole revient jusqu'à lui. Si l'un des adversaires du déclarant dit quelque chose, le déclarant a un autre tour de parole et peut dire kontra aux figures annoncées par les adversaires, répondre à toute kontra par une rekontra ou annoncer des figures supplémentaires. Le tour d'annonces continue ainsi jusqu'à ce que deux joueurs consécutifs disent passe, à ce moment les joueurs reçoivent leurs 3 dernières cartes du donneur.
 
-The second round of announcements is similar except that it is begun by the player to dealer's right, and is combined with the play of the first trick. During this trick, before playing their card, each player may not only announce additional figures, kontras, rekontras and so on, but also declare combinations (sequence or vannak) held in hand. If there are announcements of figures or kontras, this second round of announcements continues after the end of the first trick going counterclockwise around the table until there are two consecutive passes. Only then can the second trick begin.
+Le deuxième tour d'annonces est similaire sauf qu'il est commencé par le joueur à la droite du donneur, et est combiné avec le jeu du premier pli. Pendant ce pli, avant de jouer leur carte, chaque joueur peut non seulement annoncer des figures supplémentaires, kontras, rekontras et ainsi de suite, mais aussi déclarer des combinaisons (suite ou vannak) tenues en main. S'il y a des annonces de figures ou de kontras, ce deuxième tour d'annonces continue après la fin du premier pli dans le sens inverse des aiguilles d'une montre autour de la table jusqu'à ce qu'il y ait deux passes consécutives. Ce n'est qu'alors que le deuxième pli peut commencer.
 
-Note that it is possible for two players to announce the same figure. For example player A, the declarer in a trump game, announces "abszolút" from the front with a promising 6-card hand. Player B picks up three good cards in the second part of the deal, and announces from the back "kontra the abszolút, abszolút". That is, player B not only doubts that A can take 82 points, but undertakes to take at least 82 points herself. So there are now three items: the game is worth 1 point, A's abszolút announced from the front and kontra'd from the back is worth 4 points and B's abszolút, announced from the back, is worth 1 point. These will each be resolved and paid for independently. It is impossible for both abszolúts to succeed as there are not enough card points in the pack, but either might succeed or both might fail, especially if there are a lot of card points buried in the talon. Independently of this the game might be won or lost, maybe with the help of a sequence or vannak declared by some player. 
+Notez qu'il est possible pour deux joueurs d'annoncer la même figure. Par exemple, le joueur A, déclarant dans un jeu à atout, annonce « abszolút » par devant avec une main prometteuse de 6 cartes. Le joueur B ramasse trois bonnes cartes dans la deuxième partie de la distribution, et annonce par derrière « kontra l'abszolút, abszolút ». C'est-à-dire que le joueur B non seulement doute que A puisse prendre 82 points, mais s'engage à prendre au moins 82 points lui-même. Il y a donc maintenant trois éléments : le jeu vaut 1 point, l'abszolút de A annoncé par devant et kontra'd par derrière vaut 4 points, et l'abszolút de B, annoncé par derrière, vaut 1 point. Ceux-ci seront chacun résolus et payés indépendamment. Il est impossible que les deux abszolúts réussissent car il n'y a pas assez de points de cartes dans le jeu, mais l'un ou l'autre pourrait réussir, ou les deux pourraient échouer, surtout s'il y a beaucoup de points de cartes enfouis dans le talon. Indépendamment de cela, le jeu pourrait être gagné ou perdu, peut-être avec l'aide d'une suite ou d'un vannak déclaré par un joueur.
 
-## Trump Exchange
+## Échange d'atout
 
-Trump exchange is **only** possible if the **original suit** was accepted as trump in the first round of bidding. 
+L'échange d'atout n'est possible **que** si la **couleur originale** a été acceptée comme atout au premier tour d'enchères.
 
-As in many games of this type, a player who holds the 7 of trumps can exchange it for the trump indicator card when it is their turn to play to the first trick. Immediately before playing to this trick the player takes the trump from under the talon into their hand and slides their trump 7 under the talon in its place. 
+Comme dans de nombreux jeux de ce type, un joueur qui tient le 7 d'atout peut l'échanger contre la carte indicatrice d'atout quand c'est son tour de jouer au premier pli. Juste avant de jouer à ce pli, le joueur prend l'atout de sous le talon dans sa main et glisse son 7 d'atout sous le talon à sa place.
 
-In Alsós there is an additional possibility known as ***síber*** or ***síbelés***, a term derived from the criminal slang verb *síbol* meaning 'to smuggle', and not as some people have assumed from *sí* meaning 'ski'. 
+Dans l'Alsós, il y a une possibilité supplémentaire appelée ***síber*** ou ***síbelés***, un terme dérivé du verbe d'argot criminel *síbol* signifiant « contrebander », et non comme certains l'ont supposé de *sí* signifiant « ski ».
 
-*Síbelés* is allowed only when the original suit is accepted as trump **and** the exposed card on top of the talon is **another trump** or an **Ace**, and only before the lead to the first trick. It can be performed by the holder of the 7 of trumps, or if the trump 7 is either of the exposed cards by the holder of the 8 of trumps. The player puts the 7 (or 8) of trumps face up on the table, takes both the exposed cards into their hand and also adds the other 3 talon cards to their hand without showing them to the other players. The player will then be holding 13 cards and must discard four of them face down on top of the face up 7 or 8 and at right angles to it, forming a new talon. Trumps cannot be discarded. Discarded cards cannot be used in melds and their values do not count for any player.
+Le *síbelés* n'est autorisé que quand la couleur originale est acceptée comme atout **et** que la carte exposée au-dessus du talon est **un autre atout** ou un **As**, et seulement avant l'entame du premier pli. Il peut être effectué par le détenteur du 7 d'atout, ou si le 7 d'atout est l'une des cartes exposées, par le détenteur du 8 d'atout. Le joueur pose le 7 (ou 8) d'atout face visible sur la table, prend les deux cartes exposées dans sa main et ajoute aussi les 3 autres cartes du talon sans les montrer aux autres joueurs. Le joueur aura alors 13 cartes et doit défausser quatre d'entre elles face cachée au-dessus du 7 ou du 8 face visible et à angle droit avec celui-ci, formant un nouveau talon. Les atouts ne peuvent pas être défaussés. Les cartes défaussées ne peuvent pas être utilisées dans les melds et leurs valeurs ne comptent pour aucun joueur.
 
-Neither exchanging the 7 of trumps nor *síbelés* is compulsory, and of course a player who wants to announce *ultimó* or *tulétroá* will need to keep the 7 rather than exchange it, otherwise the announcement will fail. On the other hand an opponent of the declarer, by exchanging the 7, can prevent the declarer from capturing this card to make *tulétroá*. 
+L'échange du 7 d'atout ni le *síbelés* ne sont obligatoires, et bien sûr un joueur qui veut annoncer *ultimó* ou *tulétroá* aura besoin de garder le 7 plutôt que de l'échanger, sinon l'annonce échouera. D'autre part, un adversaire du déclarant, en échangeant le 7, peut empêcher le déclarant de capturer cette carte pour réaliser le *tulétroá*.
 
-When *síbelés* is possible, it is legal for the holder of the 7 of trumps not to perform *síbelés* but instead to wait until it is their turn to play to the first trick and then exchange just the 7. It may sometimes be worthwhile for an opponent whose turn to play is after the declarer to do this in order to mislead the declarer, who might be lured into announcing a figure relying on the assumption that the 7 of trumps was in the concealed part of the talon.
+Quand le *síbelés* est possible, il est légal pour le détenteur du 7 d'atout de ne pas effectuer le *síbelés* mais d'attendre jusqu'à son tour de jouer au premier pli et d'échanger uniquement le 7. Il peut parfois valoir la peine pour un adversaire dont le tour de jeu est après le déclarant de le faire pour tromper le déclarant, qui pourrait être tenté d'annoncer une figure en supposant que le 7 d'atout était dans la partie cachée du talon.
 
-## Play
+## Jeu
 
-### General rules of play
+### Règles générales du jeu
 
-The cards are played out in nine tricks. Play is counter-clockwise. Any card may be led, and the other two players must follow suit if they can. In trump games a player who has no card of the suit led must play a trump if possible. A player who has no card of the suit led and no trumps may play any card. If any trumps are played the highest trump wins the trick; otherwise it is won by the highest card of the suit led. The winner of the trick leads to the next trick. 
+Les cartes sont jouées en neuf plis. Le jeu se déroule dans le sens inverse des aiguilles d'une montre. N'importe quelle carte peut être entamée, et les deux autres joueurs doivent suivre la couleur s'ils le peuvent. Dans les jeux à atout, un joueur qui n'a pas de carte de la couleur demandée doit jouer un atout si possible. Un joueur qui n'a pas de carte de la couleur demandée et pas d'atout peut jouer n'importe quelle carte. Si des atouts sont joués, le plus haut atout gagne le pli ; sinon, c'est la plus haute carte de la couleur demandée qui l'emporte. Le gagnant du pli entame le pli suivant.
 
-Subject always to the rules of following suit and trumping if void, there is no obligation to beat cards previously played to the trick. A player is free to follow suit with a higher or a lower card, and when playing a trump to a trick that already contains one, to play a higher or a lower trump.
+Sous réserve des règles de suivi de couleur et de coupe quand on n'a pas la couleur, il n'y a aucune obligation de battre les cartes précédemment jouées au pli. Un joueur est libre de suivre avec une carte plus haute ou plus basse, et en jouant un atout à un pli qui en contient déjà un, de jouer un atout plus haut ou plus bas.
 
-### First Trick
+### Premier pli
 
-- In trump games, Betli and Klopitzky, the player to **dealer's right** leads to the first trick, no matter which player is the declarer.
+- Dans les jeux à atout, Betli et Klopitzky, le joueur à la **droite du donneur** entame le premier pli, quel que soit le déclarant.
 
-- In no trump games, the player to **declarer's left** leads to the first trick, so that the declarer plays second to the trick.
+- Dans les jeux sans atout, le joueur à la **gauche du déclarant** entame le premier pli, de sorte que le déclarant joue en deuxième au pli.
 
-In a trump game or no trump game, each player, immediately before playing a card to the first trick, has the opportunity to declare melds, announce figures, and say kontra, rekontra, etc. to the game and previously announced figures. In a Betli there are no melds or figures, but it is still possible to say kontra, etc. to the game. In Klopitzky no declarations or announcements are possible.
+Dans un jeu à atout ou sans atout, chaque joueur, immédiatement avant de jouer une carte au premier pli, a l'opportunité de déclarer des melds, annoncer des figures, et dire kontra, rekontra, etc. au jeu et aux figures précédemment annoncées. Dans un Betli, il n'y a pas de melds ni de figures, mais il est toujours possible de dire kontra, etc. au jeu. Dans un Klopitzky, aucune déclaration ni annonce n'est possible.
 
-When declaring sequences a player only mentions his or her longest sequence, and does not at this stage name the suit or say how high it is. So the declaration is simply *'terc'*, *'kvart'*, *'kvint'*, *'szext'*, *'szept'* or *'okt'*. To declare a *vannak* the player simply says *'vannak'* without mentioning the rank. It is not compulsory to declare a sequence or *vannak* when able to - one might prefer not to mention it for tactical reasons. However a player who does declare a sequence must state its full length: it is **not** legal to conceal part of a sequence, for example by announcing A-K-O-U as a *terc* when one really has a *kvart*. 
+En déclarant des suites, un joueur mentionne seulement sa suite la plus longue, et ne nomme pas la couleur ni ne dit à quel point elle est haute à ce stade. La déclaration est donc simplement *'terc'*, *'kvart'*, *'kvint'*, *'szext'*, *'szept'* ou *'okt'*. Pour déclarer un *vannak*, le joueur dit simplement *'vannak'* sans mentionner le rang. Il n'est pas obligatoire de déclarer une suite ou un *vannak* quand on le peut — on peut préférer ne pas le mentionner pour des raisons tactiques. Cependant, un joueur qui déclare une suite doit en indiquer la longueur totale : il n'est **pas** légal de dissimuler une partie d'une suite, par exemple en annonçant A-R-VS-VI comme un *terc* alors qu'on a en réalité un *kvart*.
 
-### After the First Trick: Completion of Announcements
+### Après le premier pli : achèvement des annonces
 
-Immediately after the first trick the second round of announcements must be completed if necessary. Like the first round it continues until two players pass in succession. So if either the second or third player to the first trick announced any figures or said kontra, rekontra, etc. to anything, the other players must have a chance to react, so the players continue to speak in strict counter-clockwise order around the table until two players pass in succession.
+Immédiatement après le premier pli, le deuxième tour d'annonces doit être achevé si nécessaire. Comme le premier tour, il continue jusqu'à ce que deux joueurs passent consécutivement. Ainsi, si le deuxième ou troisième joueur au premier pli a annoncé des figures ou dit kontra, rekontra, etc., les autres joueurs doivent avoir une chance de réagir, donc les joueurs continuent à parler dans l'ordre strict du sens inverse des aiguilles d'une montre autour de la table jusqu'à ce que deux joueurs passent consécutivement.
 
-**Example**. The players in order around the table are A, B, C. Player C is the dealer. Player B is playing a trump game in acorns, and has announced *abszolút* and *tulétroá* from the front. The last three cards are dealt. Player A says 'kontra the* tulétroá*' and leads a card. Player B, the declarer, announces '100' and plays a card. Player C has a 5-card sequence and says *'kvint*, kontra the game, kontra the 100' and plays a card, ending the first trick. The round of announcements continues. A passes, B says 'rekontra the 100', C passes, A passes. That ends the second round of announcements. The game is now worth 2 game points, the *tulétroá* 4, the *abszolút* 2 and the 100 is worth 8 game points.
+**Exemple**. Les joueurs dans l'ordre autour de la table sont A, B, C. Le joueur C est le donneur. Le joueur B joue un jeu à atout en glands, et a annoncé *abszolút* et *tulétroá* par devant. Les trois dernières cartes sont distribuées. Le joueur A dit « kontra le *tulétroá* » et entame une carte. Le joueur B, le déclarant, annonce « 100 » et joue une carte. Le joueur C a une suite de 5 cartes et dit *'kvint', kontra le jeu, kontra le 100'* et joue une carte, terminant le premier pli. Le tour d'annonces continue. A passe, B dit « rekontra le 100 », C passe, A passe. Cela termine le deuxième tour d'annonces. Le jeu vaut maintenant 2 points de manche, le *tulétroá* 4, l'*abszolút* 2 et le 100 vaut 8 points de manche.
 
-### Validation of Meld
+### Validation des melds
 
-When the announcements are finished, the meld declarations are validated. To do this, it must be established who has the best sequence and who has the best *vannak*.
+Quand les annonces sont terminées, les déclarations de melds sont validées. Pour cela, il faut établir qui a la meilleure suite et qui a le meilleur *vannak*.
 
-First, if more than one player has declared the same length of sequence, then in the order in which they declared, they now say what is the highest card of this sequence (using sequence ranking A K O U 10 9 8 7). Alternatively a player who can see that their sequence is outranked or decides that they do not want to compete can simply concede by saying "*kicsi*" (small) without revealing any further information. If there is a tie for highest rank, then if either of the tied sequences is in trumps the holder can say so. In this way it is established whose declaration is valid - namely the player who declared the longest sequence, the highest in case of a tie for longest and the trump sequence in case of a tie for length and rank. This player then declares all their sequences, stating the length, suit and rank of the top card. For example *"kvart* to the Over in leaves and *terc* to the King in hearts" (70 card points).
+D'abord, si plus d'un joueur a déclaré une suite de même longueur, ils disent dans l'ordre de leur déclaration quelle est la carte la plus haute de cette suite (en utilisant le classement de suite A R VS VI 10 9 8 7). Alternativement, un joueur qui voit que sa suite est dépassée ou qui décide qu'il ne veut pas concourir peut simplement concéder en disant « *kicsi* » (petit) sans révéler d'information supplémentaire. S'il y a égalité pour le rang le plus haut, alors si l'une des suites à égalité est à l'atout, le détenteur peut le dire. Ainsi, on établit dont la déclaration est valide — c'est-à-dire le joueur qui a déclaré la suite la plus longue, la plus haute en cas d'égalité de longueur et la suite d'atout en cas d'égalité de longueur et de rang. Ce joueur déclare alors toutes ses suites, indiquant la longueur, la couleur et le rang de la carte du haut. Par exemple « *kvart* au Valet Supérieur en feuilles et *terc* au Roi en cœurs » (70 points de cartes).
 
-Naturally if only one player declared a sequence, that is valid, and that player now declares all their sequences and count their card points towards game. If there is a tie between two players declaring non-trump sequences of equal length and rank, neither player scores for sequences.
+Naturellement, si un seul joueur a déclaré une suite, elle est valide, et ce joueur déclare toutes ses suites et compte ses points de cartes vers le jeu. S'il y a égalité entre deux joueurs déclarant des suites non-atout de même longueur et de même rang, aucun des deux ne marque pour les suites.
 
-Next, if two or more players have declared *vannak* there is a similar process. In the order they declared them they now either state the rank of their *vannak* or concede. Note that the ranking order for comparing *vannak* is U 9 A 10 K O 8 7 in trump games but A 10 K O U 9 8 7 in no trump games. No tie is possible. The player who declared the best (or only) *vannak* states its rank and counts 80 card points towards game. In the rare case where this player also has a second, lower *vannak* this can also be declared for another 80 points.
+Ensuite, si deux joueurs ou plus ont déclaré *vannak*, il y a un processus similaire. Dans l'ordre de leur déclaration, ils indiquent soit le rang de leur *vannak* soit concèdent. Notez que l'ordre de classement pour comparer les *vannak* est VI 9 A 10 R VS 8 7 dans les jeux à atout mais A 10 R VS VI 9 8 7 dans les jeux sans atout. Aucune égalité n'est possible. Le joueur qui a déclaré le meilleur (ou seul) *vannak* indique son rang et compte 80 points de cartes vers le jeu. Dans le rare cas où ce joueur a aussi un deuxième *vannak* plus bas, celui-ci peut aussi être déclaré pour 80 points supplémentaires.
 
-A player is allowed to concede even if they know that their meld ranks higher than that of another player. This commonly happens when both opponents of the declarer have meld. If one of them believes that the other has a better chance to take more card points than the declarer, the opponent with the weaker hand but higher meld may concede the meld to give the opponent with the stronger hand a better chance to defeat the game with the help of the meld points.
+Un joueur est autorisé à concéder même s'il sait que son meld a un rang plus élevé que celui d'un autre joueur. Cela arrive couramment quand les deux adversaires du déclarant ont des melds. Si l'un d'eux pense que l'autre a une meilleure chance de prendre plus de points de cartes que le déclarant, l'adversaire avec la main plus faible mais le meld plus élevé peut concéder le meld pour donner à l'adversaire avec la main plus forte une meilleure chance de battre le jeu avec l'aide des points du meld.
 
-### Calling
+### Appel
 
-in a game other than Klopitzky, if no figures have been announced or only *kassza*, there is a final opportunity during the second trick to try to increase the stake for the game (and also the *kassza* if announced). Any player at their turn to play a card can call "*gyerünk*", which means "let's go!" and is an invitation to the opponent(s) to concede the game. If the opponent(s) refuse, the game will be played for double score.
+Dans un jeu autre que le Klopitzky, si aucune figure n'a été annoncée ou seulement *kassza*, il y a une dernière opportunité pendant le deuxième pli d'essayer d'augmenter la mise du jeu (et aussi le *kassza* si annoncé). N'importe quel joueur à son tour de jouer une carte peut dire « *gyerünk* », qui signifie « on y va ! » et est une invitation aux adversaires à abandonner le jeu. Si les adversaires refusent, le jeu se jouera pour un score double.
 
-When *gyerünk* is called the play is paused and the opponent(s) of the player who called must choose of of three opeions.
+Quand *gyerünk* est appelé, le jeu est en pause et les adversaires du joueur qui a appelé doivent choisir parmi trois options.
 
-- Concede the game (they agree to go). The remaining cards are not played and the side that called *gyerünk* scores as though they had won the game.
+- Abandonner le jeu (ils acceptent d'y aller). Les cartes restantes ne sont pas jouées et le côté qui a appelé *gyerünk* marque comme s'il avait gagné le jeu.
 
-- Refuse to concede. The caller plays to the trick, play continues and the score for the game (including *kassza* if announced and any kontras) is doubled.
+- Refuser d'abandonner. L'appelant joue au pli, le jeu continue et le score du jeu (y compris *kassza* si annoncé et tout kontra) est doublé.
 
-- Kontra the *gyerünk*. The opponents refuse to concede and instead invite the caller's team to concede. Now the side that called *gyerünk* has to decide whether to concede for double score, or accept and play for quadruple score, or rekontra the *gyerünk*.
+- Kontra le *gyerünk*. Les adversaires refusent d'abandonner et invitent à la place l'équipe de l'appelant à abandonner. Maintenant, le côté qui a appelé *gyerünk* doit décider s'il abandonne pour un score double, s'il accepte et joue pour un score quadruple, ou s'il rekontra le *gyerünk*.
 
-Doubling can continue with szubkontra and hirskontra. At each stage the side responding to the kontra can give up for the previous stake, play on for the new stake, or try to double back. 
+Le doublage peut continuer avec szubkontra et hirskontra. À chaque étape, le côté répondant au kontra peut abandonner pour la mise précédente, continuer pour la nouvelle mise, ou essayer de doubler à nouveau.
 
-The literature is not clear about the procedure to be followed by the declarer's opponents when replying to a *gyerünk* or to a kontra. We suggest that they should speak in turn without consultation, beginning with the opponent to the right of the declarer. If they say different things, the more aggressive response prevails - so the game is only conceded if both opponents concede, and if the first opponent refuses to concede, the second opponent's only options are to continue play or to kontra the *gyerünk*.
+La littérature n'est pas claire sur la procédure à suivre par les adversaires du déclarant lors d'une réponse à un *gyerünk* ou à un kontra. Nous suggérons qu'ils devraient parler à tour de rôle sans consultation, en commençant par l'adversaire à la droite du déclarant. S'ils disent des choses différentes, la réponse la plus agressive prévaut — donc le jeu n'est abandonné que si les deux adversaires abandonnent, et si le premier adversaire refuse d'abandonner, les seules options du deuxième adversaire sont de continuer le jeu ou de kontra le *gyerünk*.
 
-It is possible to call *"gyerünk" *even if the game has already been kontra'd. For example a no trump game, originally worth 2, is kontra'd from the front, increasing the score to 8. After picking up good cards in the second part of the deal, the declarer says rekontra from the back, increasing the score to 16. Before playing to the second trick the declarer could also call "*gyerünk*", requiring the opponents to choose whether to give up the game for 16 or continue for 32. If the players were sufficiently reckless this could even continue with a battle in which an opponent says kontra to the *gyerünk*, potentially propelling the score into the stratosphere. If the declarer replies with rekontra, an opponent with szubkontra and the declarer with hirskontra, the opponents would now have to choose whether to give up for 256 (game: 2, kontra with 6 cards: 8, rekontra with 9 cards:16, *gyerünk*: 32, kontra *gyerünk:* 64, rekontra *gyerünk*: 128, szubkontra *gyerünk*: 256) or to accept the hirskontra and play on for 512.
+Il est possible d'appeler « *gyerünk* » même si le jeu a déjà été kontra'd. Par exemple, un jeu sans atout, valant initialement 2, est kontra'd par devant, portant le score à 8. Après avoir ramassé de bonnes cartes dans la deuxième partie de la distribution, le déclarant dit rekontra par derrière, portant le score à 16. Avant de jouer au deuxième pli, le déclarant pourrait aussi appeler « *gyerünk* », demandant aux adversaires de choisir entre abandonner le jeu pour 16 ou continuer pour 32. Si les joueurs étaient suffisamment téméraires, cela pourrait même continuer avec une bataille dans laquelle un adversaire dit kontra au *gyerünk*, propulsant potentiellement le score dans les stratosphères. Si le déclarant répond par rekontra, un adversaire par szubkontra et le déclarant par hirskontra, les adversaires devraient maintenant choisir entre abandonner pour 256 (jeu : 2, kontra avec 6 cartes : 8, rekontra avec 9 cartes : 16, *gyerünk* : 32, kontra *gyerünk* : 64, rekontra *gyerünk* : 128, szubkontra *gyerünk* : 256) ou accepter le hirskontra et continuer pour 512.
 
-### Subsequent Tricks
+### Plis suivants
 
-After the above steps have been completed, and if neither team has given up as a result of a call, the second trick is completed and play continues according to the general rules until all nine tricks have been played. Each of the three players keeps the tricks they have won in a separate face down pile in front of them. 
+Après les étapes ci-dessus achevées, et si aucune équipe n'a abandonné suite à un appel, le deuxième pli est complété et le jeu continue selon les règles générales jusqu'à ce que les neuf plis aient été joués. Chacun des trois joueurs conserve les plis qu'il a gagnés dans une pile face cachée séparée devant lui.
 
-## Scoring
+## Comptage des points
 
-In a **trump** or **no trump** game, each of the players adds up the point values of the cards in their tricks and the winner of the last trick adds 10 points for that. Any player who has announced *abszolút* or *százas* (100) checks to see whether the announcement was successful.
+Dans un jeu **à atout** ou **sans atout**, chacun des joueurs additionne la valeur des cartes dans ses plis et le gagnant du dernier pli ajoute 10 points pour celui-ci. Tout joueur qui a annoncé *abszolút* ou *százas* (100) vérifie si l'annonce a réussi.
 
-If there was a valid sequence or *vannak* declaration, the players who declared those melds add their value to their card points. Any player who had *béla* in their hand declares it now and adds 20 points for that. Any player who announced *kétszázas* (200) checks to see whether that announcement was successful.
+S'il y a eu une déclaration de suite ou *vannak* valide, les joueurs qui ont déclaré ces melds ajoutent leur valeur à leurs points de cartes. Tout joueur qui avait un *béla* dans sa main le déclare maintenant et ajoute 20 points. Tout joueur qui a annoncé *kétszázas* (200) vérifie si cette annonce a réussi.
 
-The declarer's points are compared with those of each of the opponents. If the declarer has more points than either opponent separately, the game succeeded. If any other player has an equal or greater number of points than the declarer, the game failed.
+Les points du déclarant sont comparés à ceux de chacun des adversaires. Si le déclarant a plus de points que chaque adversaire séparément, le jeu a réussi. Si n'importe quel autre joueur a un nombre de points égal ou supérieur à celui du déclarant, le jeu a échoué.
 
-The payments for the game and each of the announcements can be made immediately in cash. The stake should be agreed in advance. 
+Les paiements pour le jeu et chacune des annonces peuvent être faits immédiatement en espèces. La mise devrait être convenue à l'avance.
 
-- For the declarer's successful game or announcement, each opponent pays the appropriate number of points. For a failed game or announcement the declarer pays that amount to each opponent. 
+- Pour le jeu ou l'annonce réussi du déclarant, chaque adversaire paie le nombre approprié de points. Pour un jeu ou une annonce échoué, le déclarant paie ce montant à chaque adversaire.
 
-- For a successful announcement by an opponent the declarer pays the value of the announcement to each opponent. For a failed announcement by an opponent, both opponent have to pay the declarer the value of the announcement.
+- Pour une annonce réussie par un adversaire, le déclarant paie la valeur de l'annonce à chaque adversaire. Pour une annonce échouée par un adversaire, les deux adversaires doivent payer au déclarant la valeur de l'annonce.
 
-So the declarer's opponents always pay or receive the same amount as each other. If one opponent announces something, both opponents benefit if it succeeds and both pay if it fails. If the declarer loses the game it does not matter which opponent took more points: both are paid equally. 
+Ainsi, les adversaires du déclarant paient ou reçoivent toujours le même montant l'un que l'autre. Si un adversaire annonce quelque chose, les deux adversaires en bénéficient si cela réussit et paient tous les deux si cela échoue. Si le déclarant perd le jeu, peu importe quel adversaire a pris plus de points : les deux sont payés également.
 
-It is also possible to keep score on paper or on a slate. In this case it is traditional not to net off the wins and losses against each other, but to score the game and all announcements as positive numbers, either for the declarer or for both opponents, depending whether they are won or lost. For example if a declarer in a trump game announces *tulétroá* from the front and *ultimó* from the back, wins both announcements but loses the game with kontra from the back, the declarer scores 4 points while the opponents score 2 points each.
+Il est aussi possible de tenir le score sur papier ou sur une ardoise. Dans ce cas, il est traditionnel de ne pas compenser les gains et pertes entre eux, mais de marquer le jeu et toutes les annonces comme nombres positifs, soit pour le déclarant soit pour les deux adversaires, selon qu'ils sont gagnés ou perdus. Par exemple, si un déclarant dans un jeu à atout annonce *tulétroá* par devant et *ultimó* par derrière, gagne les deux annonces mais perd le jeu avec kontra par derrière, le déclarant marque 4 points tandis que les adversaires marquent 2 points chacun.
 
-When the scores are written down like this, the game is often played in rubbers. The first player who reaches a score of 20 or more points has a rubber bonus of 2 points (known as a *renner* or *rádli*) added to his or her score and the rubber ends. If two or all three players reach 20 or more points on the same deal, the rubber continues to 40 points with a bonus of 4 for the winner. If more than one player reaches 40 it goes on to 60 with a bonus of 6 and so on. When the rubber ends a new rubber is started with all players on zero. At the end of a session all scores are totalled and each pair of players settles up in proportion to the difference between their scores.
+Quand les scores sont écrits de cette façon, le jeu est souvent joué en manches. Le premier joueur qui atteint un score de 20 points ou plus a un bonus de manche de 2 points (connu sous le nom de *renner* ou *rádli*) ajouté à son score et la manche se termine. Si deux ou les trois joueurs atteignent 20 points ou plus sur la même donne, la manche continue à 40 points avec un bonus de 4 pour le gagnant. Si plus d'un joueur atteint 40, cela continue à 60 avec un bonus de 6 et ainsi de suite. Quand la manche se termine, une nouvelle manche commence avec tous les joueurs à zéro. À la fin d'une session, tous les scores sont totalisés et chaque paire de joueurs règle en proportion de la différence entre leurs scores.
 
-In a ***betli*** the game succeeds if the declarer wins no tricks at all. If the declarer wins any trick the game fails and the play can be ended at that point, since there are no figures. The cost is 5 game points so if a betli without kontra succeeds the declarer scores 5 game points and if it fails each opponent scores 5.
+Dans un ***betli***, le jeu réussit si le déclarant ne gagne aucun pli. Si le déclarant gagne ne serait-ce qu'un pli, le jeu échoue et le jeu peut s'arrêter à ce moment, puisqu'il n'y a pas de figures. Le coût est de 5 points de manche, donc si un betli sans kontra réussit, le déclarant marque 5 points de manche et si cela échoue, chaque adversaire marque 5.
 
-In a ***klopitzky*** the player with most tricks pays 3 game points to each opponent. If writing down the score each of the other players therefore scores 3 game points. We suggest that if the tricks split 4-4-1 the player with 1 trick should receive 3 game points from each opponent or score 3 game points if writing the score. If the players win three tricks each there is no score.
+Dans un ***klopitzky***, le joueur avec le plus de plis paie 3 points de manche à chaque adversaire. En écrivant le score, chacun des autres joueurs marque donc 3 points de manche. Nous suggérons que si les plis se répartissent 4-4-1, le joueur avec 1 pli devrait recevoir 3 points de manche de chaque adversaire ou marquer 3 points de manche si le score est écrit. Si les joueurs gagnent trois plis chacun, il n'y a pas de score.
 
-## Variations
+## Variantes
 
-There were numerous variants of Alsós, and many different figures, scoring schedules and procedures for making announcements were tried out. All forms of Alsós provide opportunities for brilliant deceptive play and the literature contains tales of various remarkable deals. Some players valued the opportunities for bluff and counter bluff, were excited by the possibility of astronomical scores that could be achieved by luring the other players into a series of kontras, and enjoyed devising new figures and variants that added yet more possibilities. Others players considered that some of the more exotic options introduced too much luck and threatened to undermine the skill of the game. They found that a more conservative and traditional rule set already provided ample variety and colour and opportunities for players to exercise their individual playing styles and talents.
+Il y avait de nombreuses variantes de l'Alsós, et de nombreuses figures, barèmes de points et procédures d'annonces ont été expérimentés. Toutes les formes de l'Alsós offrent des opportunités pour un jeu trompeur brillant et la littérature contient des récits de diverses mains remarquables. Certains joueurs appréciaient les opportunités de bluff et de contre-bluff, étaient excités par la possibilité de scores astronomiques pouvant être atteints en attirant les autres joueurs dans une série de kontras, et aimaient inventer de nouvelles figures et variantes ajoutant encore plus de possibilités. D'autres joueurs considéraient que certaines des options plus exotiques introduisaient trop de chance et menaçaient de saper l'habileté du jeu. Ils trouvaient qu'un ensemble de règles plus conservateur et traditionnel offrait déjà une variété et une couleur amples et des opportunités pour les joueurs d'exercer leurs styles de jeu et talents individuels.
 
-Below I will summarise some of the variants found in the literature.
+Ci-dessous, je résumerai certaines des variantes trouvées dans la littérature.
 
-### Scoring schedules
+### Barèmes de points
 
-There have been many different scoring schedules for the contracts and figures over the history of the game. Until the early years of the 20th century the contract score usually depended on the trump suit, sometimes with an enhanced score for choosing the original suit, while the scores for the figures were usually independent of the trump suit. 
+Il y a eu de nombreux barèmes de points différents pour les contrats et les figures au cours de l'histoire du jeu. Jusqu'au début du XXe siècle, le score du contrat dépendait généralement de la couleur d'atout, parfois avec un score amélioré pour le choix de la couleur originale, tandis que les scores des figures étaient généralement indépendants de la couleur d'atout.
 
-Even after the the score for a trump game was made independent of the suit, it was often set at 4, 5, 8 or 10 rather than 1, and the scores for the figures and the rubber bonus were correspondingly higher. For example in a version where a trump game was worth 4, the rubber bonus was set at 20 points for the first player to reach 80 - equivalent to a bonus of 5 for a rubber of 20 when a trump game is worth 1.
+Même après que le score d'un jeu à atout a été rendu indépendant de la couleur, il était souvent fixé à 4, 5, 8 ou 10 plutôt qu'à 1, et les scores des figures et le bonus de manche étaient proportionnellement plus élevés. Par exemple, dans une version où un jeu à atout valait 4, le bonus de manche était fixé à 20 points pour le premier joueur atteignant 80 — équivalent à un bonus de 5 pour une manche de 20 quand un jeu à atout vaut 1.
 
 ### Figures
 
-Sometimes there were extra rules about abszolút. Some only allowed it to be announced from the front (with 6 cards). Some required a player of a trump game in the original suit who took more than one card from the talon in exchange for the trump 7 or 8 to announce abszolút.
+Il y avait parfois des règles supplémentaires concernant l'abszolút. Certains n'autorisaient son annonce que par devant (avec 6 cartes). Certains exigeaient qu'un joueur d'un jeu à atout dans la couleur originale qui prenait plus d'une carte du talon en échange du 7 ou du 8 d'atout annonce l'abszolút.
 
-Some players allowed additional figures, believing that they added to the beauty of the game. One author writes that in the old days new figures would appear periodically 'like annual flowers'. 
+Certains joueurs autorisaient des figures supplémentaires, estimant qu'elles ajoutaient à la beauté du jeu. Un auteur écrit qu'autrefois, de nouvelles figures apparaissaient périodiquement « comme des fleurs annuelles ».
 
-Some played with figures of 111 and 120 which were similar to 100, requiring the player to take at least that number of points in cards plus last trick. When 111 and 120 were included a player could only announce, abszolút, 100, 111 and 120 in ascending order: a smaller figure in this group could not be announced after a larger one. On the scale where *abszolút* scored 1 game points and 100 scored 2, 111 would typically score 3 and 120 would score 4. Note that announcing 200 would not prevent a player from later announcing abszolút, 100, etc., since 200 is a different kind of figure, in which meld points can be counted. In a no trump game, because of the lower points total, the 111 figure becomes 91 and 120 becomes 100.
+Certains jouaient avec des figures de 111 et 120 qui étaient similaires à 100, exigeant que le joueur prenne au moins ce nombre de points en cartes plus le dernier pli. Quand 111 et 120 étaient inclus, un joueur ne pouvait annoncer, abszolút, 100, 111 et 120 que dans l'ordre croissant : une figure plus petite de ce groupe ne pouvait pas être annoncée après une plus grande. Sur l'échelle où *abszolút* valait 1 point de manche et 100 valait 2, 111 valait typiquement 3 et 120 valait 4. Notez que l'annonce de 200 n'empêchait pas un joueur d'annoncer plus tard abszolút, 100, etc., puisque 200 est un type de figure différent, dans lequel les points de meld peuvent être comptés. Dans un jeu sans atout, en raison du total de points plus bas, la figure 111 devient 91 et 120 devient 100.
 
-Early in the 20th century, an additional figure *uhu* was often played. This was an undertaking to win the penultimate trick with the Ace of gourds if gourds were not trumps, or with the Ace of hearts if gourds were trumps. It was only allowed in trump games and the score for it was the same as for an *ultimó*. 
+Au début du XXe siècle, une figure supplémentaire *uhu* était souvent jouée. C'était un engagement à gagner l'avant-dernier pli avec l'As de coloquinte si les coloquintes n'étaient pas l'atout, ou avec l'As de cœur si les coloquintes étaient l'atout. Elle n'était autorisée que dans les jeux à atout et le score était le même que pour un *ultimó*.
 
-### Bidding and Announcements
+### Enchères et annonces
 
-Some players combine the beginning of the first round of announcements with the second round of bidding. When bidding a suit a player can at the same time announce figures from the front (with the exception of *Kassza*, which cannot be announced until the trump suit has been definitely established). In this variant a lower suit can overcall a higher one (or no trump) if the total score including announced figures is greater. For example if the turned up suit is hearts, all pass in the first round of bidding, and the first player then bids 'gourd abszolút', this can be overcalled by 'acorn abszolút' or by 'no trump abszolút' but also by for example 'leaves 100'.
+Certains joueurs combinent le début du premier tour d'annonces avec le deuxième tour d'enchères. Lors de l'enchère d'une couleur, un joueur peut en même temps annoncer des figures par devant (à l'exception de *Kassza*, qui ne peut être annoncée qu'après que la couleur d'atout a été définitivement établie). Dans cette variante, une couleur plus basse peut surclasser une couleur plus haute (ou sans atout) si le score total incluant les figures annoncées est plus élevé. Par exemple, si la carte retournée est un cœur, tous passent au premier tour d'enchères, et le premier joueur enchérit ensuite « coloquinte abszolút », cela peut être surclassé par « glands abszolút » ou par « sans atout abszolút » mais aussi par exemple « feuilles 100 ».
 
-Any figure announcements associated with a bid that is overcalled are of course cancelled. Only the announcements of the player who wins the bidding and becomes declarer remain in place, and the round of announcements then continues as usual until there are two consecutive passes.
+Les annonces de figures associées à une enchère surclassée sont bien sûr annulées. Seules les annonces du joueur qui gagne les enchères et devient déclarant restent en place, et le tour d'annonces continue ensuite comme d'habitude jusqu'à ce qu'il y ait deux passes consécutives.
 
 ### Kontras
 
-There was some variation in the number of levels of kontra permitted. For example some allowed an addition double 'mordkontra' in reply to hirskontra.
+Il y avait une certaine variation dans le nombre de niveaux de kontra autorisés. Par exemple, certains autorisaient un double supplémentaire « mordkontra » en réponse à hirskontra.
 
-### Card Ranking in Betli and Klopitzky
+### Classement des cartes au Betli et au Klopitzky
 
-Most sources say nothing explicit about the card ranking in these games, the implication being that it was the same as in other games without trumps: A-10-K-O-U-9-8-7. This is a little surprising, given that the card order for Betli in the game of Preferansz, from which it was transferred to Alsós, and also in the newer game Ulti the card ranking in Betli was like the Alsós sequence order: A-K-O-U-10-9-8-7. However, if this sequence order was really used for Betli in Alsós, we might expect it to be mentioned for example by Potter (1930), whose description is otherwise quite careful. Gyula Zsigri has found just one book *Bevezetés az alsósjáték rejtelmeibe* by 'Alsósjátékos' (Budapest, 1942) which explicitly confirms the order A-10-K-O-U-9-8-7. However, there are also a couple of later books that give the sequence order: one is the *Kártya-kézikönyv* by MIKLÓS István (Budapest 1957) and the other is *A Kártya Kéznél Van* by CSIBOR Zoltán (Szeged, 2001). Csibor's description is a modern reconstruction of the game combining several historic versions with some innovations by the author, of which this could be one. However, the description by Miklós indicates that the sequence order probably was used for Betli (and presumably also for Klopitzky) at least by some players in the 1950's, maybe by analogy with Ulti. 
+La plupart des sources ne disent rien d'explicite sur le classement des cartes dans ces jeux, l'implication étant qu'il était le même que dans les autres jeux sans atout : A-10-R-VS-VI-9-8-7. C'est un peu surprenant, étant donné que l'ordre des cartes pour le Betli dans le jeu du Preferansz, dont il a été transféré à l'Alsós, et aussi dans le jeu plus récent de l'Ulti, le classement des cartes au Betli était comme l'ordre de suite de l'Alsós : A-R-VS-VI-10-9-8-7. Cependant, si cet ordre de suite était vraiment utilisé pour le Betli dans l'Alsós, on s'attendrait à ce qu'il soit mentionné par exemple par Potter (1930), dont la description est par ailleurs très soigneuse. Gyula Zsigri a trouvé un seul livre *Bevezetés az alsósjáték rejtelmeibe* de « Alsósjátékos » (Budapest, 1942) qui confirme explicitement l'ordre A-10-R-VS-VI-9-8-7. Cependant, il y a aussi un couple de livres ultérieurs qui donnent l'ordre de suite : l'un est le *Kártya-kézikönyv* de MIKLÓS István (Budapest 1957) et l'autre est *A Kártya Kéznél Van* de CSIBOR Zoltán (Szeged, 2001). La description de Csibor est une reconstruction moderne du jeu combinant plusieurs versions historiques avec quelques innovations de l'auteur, dont celle-ci pourrait faire partie. Cependant, la description de Miklós indique que l'ordre de suite était probablement utilisé pour le Betli (et vraisemblablement aussi pour le Klopitzky) au moins par certains joueurs dans les années 1950, peut-être par analogie avec l'Ulti.
 
-### Trump exchange (*síbelés*)
+### Échange d'atout (*síbelés*)
 
-There were many options and players needed to agree before playing which version to use. There was a perception by more conservative players that the more liberal versions gave too much advantage to the exchanger and thereby upset the balance of the game. Some only allowed the 7 to be exchanged with the trump indicator. Some allowed the 8 to be exchanged if the 7 was the trump indicator or on top of the talon. A few allowed the 9 to be exchanged if the 7 and 8 were both visible. Some allowed the top card to be taken along with the trump indicator if it was a trump or ace. Some allowed a player taking the top card as well as the trump indicator to expose the top unknown card of the talon and then take that too if it was a trump or ace, repeating this until a card that was neither a trump nor an Ace was found. Some allowed the same procedure starting with the bottom unknown card. Some allowed both - *síbelés* from the top and from the bottom. Ultimately in the three-player game, since there were only three concealed cards anyway, a player who could exchange both face up cards was allowed to look at the whole talon and extract any further trumps and aces.
+Il y avait de nombreuses options et les joueurs devaient s'accorder avant de jouer sur la version à utiliser. Les joueurs plus conservateurs avaient le sentiment que les versions plus libérales donnaient trop d'avantage à l'échangeur et perturbaient l'équilibre du jeu. Certains n'autorisaient que l'échange du 7 avec la carte indicatrice d'atout. Certains autorisaient l'échange du 8 si le 7 était la carte indicatrice ou au-dessus du talon. Quelques-uns autorisaient l'échange du 9 si le 7 et le 8 étaient tous les deux visibles. Certains autorisaient à prendre la carte du haut en même temps que la carte indicatrice si c'était un atout ou un as. Certains autorisaient le joueur prenant la carte du haut ainsi que la carte indicatrice à exposer la carte inconnue du talon et à la prendre aussi si c'était un atout ou un as, en répétant cela jusqu'à trouver une carte qui n'était ni un atout ni un As. Certains autorisaient la même procédure en commençant par la carte inconnue du bas. Certains autorisaient les deux — *síbelés* par le haut et par le bas. En fin de compte, dans le jeu à trois joueurs, puisqu'il n'y avait que trois cartes cachées de toute façon, un joueur qui pouvait échanger les deux cartes face visibles était autorisé à regarder tout le talon et en extraire tout atout et as supplémentaire.
 
-When more than one card was taken from the talon, so that the declarer had more than 9 cards and needed to discard the excess, some allowed any cards to be discarded, while others did not allow the player to discard trumps.
+Quand plus d'une carte était prise du talon, de sorte que le déclarant avait plus de 9 cartes et devait défausser l'excédent, certains autorisaient la défausse de n'importe quelles cartes, tandis que d'autres n'autorisaient pas le joueur à défausser des atouts.
 
-### Calling
+### Appel
 
-Some did not allow calling (*gyerünk*) at all.
+Certains n'autorisaient pas l'appel (*gyerünk*) du tout.
 
-On the other hand some allowed a player to call the game or any announced figure. When an announcement was called and conceded, the announcer was released from all obligations related to that figure, which was scored as if won. For example if a player announced and then called an *ultimó* would no longer be obliged to try to keep the 7 until the end if the *ultimó* was conceded. This flexibility might enable more announcements to be made. For example a player who had announced both *ultimó* and *család* could call the *ultimó*, and if the opponents conceded it the extra flexibility in the play might enable the *család* to succeed. 
+D'autre part, certains autorisaient un joueur à appeler le jeu ou n'importe quelle figure annoncée. Quand une annonce était appelée et concédée, l'annonceur était libéré de toutes les obligations liées à cette figure, qui était marquée comme si elle était gagnée. Par exemple, si un joueur annonçait puis appelait un *ultimó*, il ne serait plus obligé d'essayer de garder le 7 jusqu'à la fin si l'*ultimó* était concédé. Cette flexibilité pourrait permettre davantage d'annonces. Par exemple, un joueur qui avait annoncé à la fois *ultimó* et *család* pouvait appeler le *ultimó*, et si les adversaires concédaient, la flexibilité supplémentaire dans le jeu pourrait permettre au *család* de réussir.
 
-Some players allowed 'calling back' (*visszahivás*), which could result in even more inflated scores. When responding to a call, a player could concede, accept or kontra, but the kontra was not a proposal, it simply doubled the stake again. A player on the team that had kontra'd the call could then 'call back' which was a proposal to double the stake **again** unless the original caller conceded. So in this variant if the game is worth 2 and you call it, the opponents might give you your 2, or they might play on for 4, or they might kontra the call for 8. Moreover, having said kontra to your call they could then call back, giving you the choice of conceding or playing on for 16 - or of course saying kontra to the call back for 32, and then potentially even calling back again, proposing to raise the stake to 64.
+Certains joueurs autorisaient le « rappel » (*visszahivás*), qui pouvait entraîner des scores encore plus gonflés. En répondant à un appel, un joueur pouvait concéder, accepter ou kontra, mais le kontra n'était pas une proposition, cela doublait simplement la mise à nouveau. Un joueur de l'équipe qui avait kontra'd l'appel pouvait alors « rappeler », qui était une proposition de doubler la mise **encore** à moins que l'appelateur original ne concède. Ainsi dans cette variante, si le jeu vaut 2 et que vous l'appelez, les adversaires pourraient vous donner vos 2, ou ils pourraient continuer pour 4, ou ils pourraient kontra l'appel pour 8. De plus, ayant dit kontra à votre appel, ils pourraient ensuite rappeler, vous donnant le choix de concéder ou de continuer pour 16 — ou bien sûr de dire kontra au rappel pour 32, et potentiellement même rappeler à nouveau, proposant de porter la mise à 64.
 
-## Alsós with four players
+## Alsós à quatre joueurs
 
-The rules are just the same as for three-player Alsós except that the dealer deals cards to the other players and takes no part in the bidding, announcements and play. The dealer always scores as a third member of the team playing against the declarer. So the declarer pays to or receives from three players, or if the score is written down, anything scored by the declarer's opponents is scored by the dealer as well. In the case of a Klopitzky, the dealer will score 3 points along with the player(s) who took fewer tricks, except in the case where all three players tie and there is no score.
+Les règles sont exactement les mêmes que pour l'Alsós à trois joueurs, sauf que le donneur distribue les cartes aux autres joueurs et ne participe pas aux enchères, annonces et jeu. Le donneur marque toujours comme troisième membre de l'équipe jouant contre le déclarant. Le déclarant paie à ou reçoit de trois joueurs, ou si le score est écrit, tout ce qui est marqué par les adversaires du déclarant est aussi marqué par le donneur. Dans le cas d'un Klopitzky, le donneur marquera 3 points en même temps que le(s) joueur(s) ayant pris le moins de plis, sauf dans le cas où les trois joueurs sont à égalité et qu'il n'y a pas de score.
 
-As usual the turn to deal passes to the right after each hand, so that the players take turns to sit out.
+Comme d'habitude, le tour de distribution passe à droite après chaque main, de sorte que les joueurs prennent tour à tour leur tour de repos.
 
-## Two-Player Game
+## Jeu à deux joueurs
 
-Although the three-player (or four-player) game was mostly preferred, the two-player version is also worth playing and some authors pay quite a lot of attention to it. The rules are the same as for three players with the following exceptions.
+Bien que le jeu à trois (ou quatre) joueurs était généralement préféré, la version à deux joueurs mérite aussi d'être jouée et certains auteurs y accordent beaucoup d'attention. Les règles sont les mêmes que pour trois joueurs avec les exceptions suivantes.
 
-The deal is in packets of four cards, 8 cards each, then the trump indicator, then 4 more cards each to be kept face down until after the bidding, then the bottom card displayed on top of the talon, so that 6 cards remain unknown.
+La distribution se fait par lots de quatre cartes, 8 cartes chacun, puis la carte indicatrice d'atout, puis 4 cartes supplémentaires à garder face cachée jusqu'après les enchères, puis la carte du bas exposée au-dessus du talon, de sorte que 6 cartes restent inconnues.
 
-When performing an extended trump exchange (*síbelés*), the exchanger is not allowed to look at the whole talon, but normally only to take additional cards from the bottom. So in a trump game with the original suit as trump, if the card on top of the talon is also a trump or an Ace, the holder of the 7 of trumps, or the 8 if the 7 is on display, takes both cards, replacing the trump indicator by the 7 or 8 and the top card by the bottom card of the unknown part of the talon, turned face up. If this is also a trump or Ace, the exchanger takes this too and repeats the process until a card that is neither a trump nor an Ace is face up on top (or the whole talon is taken).
+Lors d'un échange d'atout étendu (*síbelés*), l'échangeur n'est pas autorisé à regarder tout le talon, mais normalement à prendre des cartes supplémentaires uniquement par le bas. Ainsi, dans un jeu à atout avec la couleur originale comme atout, si la carte au-dessus du talon est aussi un atout ou un As, le détenteur du 7 d'atout, ou le 8 si le 7 est exposé, prend les deux cartes, remplaçant la carte indicatrice par le 7 ou 8 et la carte du haut par la carte du bas de la partie inconnue du talon, retournée face visible. Si celle-ci est aussi un atout ou un As, l'échangeur la prend aussi et répète le processus jusqu'à ce qu'une carte qui n'est ni un atout ni un As soit face visible au-dessus (ou que le talon entier soit pris).
 
-In a trump game the non-dealer leads to the first trick. In a no trump game the declarer's opponent leads.
+Dans un jeu à atout, le non-donneur entame le premier pli. Dans un jeu sans atout, l'adversaire du déclarant entame.
 
-*Abszolút* becomes much easier to make when there are only two players rather than three, since it only requires the player to take more than half the card points. Since announcing it from the back would be almost trivial, in the two-player game *abszolút* can only be announced from the front, when the players have just 8 cards in their hands.
+L'*abszolút* devient beaucoup plus facile à réaliser quand il n'y a que deux joueurs plutôt que trois, puisqu'il suffit au joueur de prendre plus de la moitié des points de cartes. Puisque l'annoncer par derrière serait presque trivial, dans le jeu à deux joueurs, *abszolút* ne peut être annoncé que par devant, quand les joueurs n'ont que 8 cartes en main.
 
-Like the three-player game, two-player Alsós had many variants. Below is a set of rules of a particular version compiled by Martin Tompa, whose family brought it to the USA and the UK when they emigrated from Hungary shortly before World War II. This is a rather conservative form of the game: the main differences from the version described above are:
+Comme le jeu à trois joueurs, l'Alsós à deux joueurs avait de nombreuses variantes. Ci-dessous se trouve un ensemble de règles d'une version particulière compilée par Martin Tompa, dont la famille l'a apporté aux États-Unis et au Royaume-Uni lorsqu'ils ont émigré de Hongrie peu avant la Seconde Guerre mondiale. C'est une forme plutôt conservatrice du jeu : les principales différences avec la version décrite ci-dessus sont :
 
-- Only trump games are allowed.
+- Seuls les jeux à atout sont autorisés.
 
-- Doubles can only go as high as rekontra, not further.
+- Les doubles ne peuvent aller que jusqu'à rekontra, pas plus loin.
 
-- 'Calling' (*hivás* / *gyerünk*) to make the opponent choose whether to concede or play on for double score is not allowed.
+- L'« appel » (*hivás* / *gyerünk*) pour faire choisir à l'adversaire entre abandonner ou continuer pour un score double n'est pas autorisé.
 
-- There is no *volát* announcement.
+- Il n'y a pas d'annonce *volát*.
 
-- Announcements, kontra and rekontra must all be completed before the lead to the first trick.
+- Les annonces, kontra et rekontra doivent toutes être complétées avant l'entame du premier pli.
 
-- Surprisingly, the declarer leads to the first trick, irrespective of which player dealt.
+- Fait surprenant, le déclarant entame le premier pli, quel que soit le joueur qui a distribué.
 
-### Rules of Alsós
+### Règles de l'Alsós
 
-* Compiled by Martin Tompa and John Tompa, September 18, 2011*
+*Compilées par Martin Tompa et John Tompa, 18 septembre 2011*
 
-**A. General**
+**A. Généralités**
 
-Alsós is a Hungarian game for 2 players, although sometimes it can be played by 3 players. The 2 player game is described here. It is similar to Belote, Bela, and Clobyosh.
+L'Alsós est un jeu hongrois pour 2 joueurs, bien qu'il puisse parfois se jouer à 3. Le jeu à 2 joueurs est décrit ici. Il est similaire à la Belote, la Bela et le Clobyosh.
 
-**B. The cards** 
+**B. Les cartes**
 
-- A deck of 32 Doppeldeutsche (Preference) cards is used. A normal bridge deck can be used, removing the 2 through 6 in each suit.  These rules refer to cards by their bridge deck names, i.e., Queen (Upper) and Jack (Lower).
+- Un jeu de 32 cartes Doppeldeutsche (Préférence) est utilisé. Un jeu de bridge normal peut être utilisé, en retirant les 2 à 6 de chaque couleur. Ces règles se réfèrent aux cartes par leurs noms de bridge, c'est-à-dire Dame (Valet Supérieur) et Valet (Valet Inférieur).
 
-- The (descending) order of suits is Acorns, Hearts, Bells, Leaves.  (If using a bridge deck, it is Clubs, Hearts, Diamonds, Spades.)
+- L'ordre (décroissant) des couleurs est Glands, Cœurs, Cloches, Feuilles. (Si on utilise un jeu de bridge, c'est Trèfle, Cœur, Carreau, Pique.)
 
-- The (descending) order of cards in a nontrump suit is Ace, 10, King, Queen, Jack, 9, 8, 7.
+- L'ordre (décroissant) des cartes dans une couleur non-atout est As, 10, Roi, Dame, Valet, 9, 8, 7.
 
-- The (descending) order of cards in a trump suit is Jack, 9, Ace, 10, King, Queen, 8, 7.
+- L'ordre (décroissant) des cartes dans une couleur d'atout est Valet, 9, As, 10, Roi, Dame, 8, 7.
 
-**C. The deal**
+**C. La distribution**
 
-- The deal alternates between players.
+- La distribution alterne entre les joueurs.
 
-- The cards are shuffled by dealer, cut by opponent, and then dealt by dealer.
+- Les cartes sont battues par le donneur, coupées par l'adversaire, puis distribuées par le donneur.
 
-- 4 cards are dealt to opponent, to dealer, to opponent, and again to dealer. 
+- 4 cartes sont distribuées à l'adversaire, au donneur, à l'adversaire, et de nouveau au donneur.
 
-- 1 card is dealt face up in the middle (“Talon”).
+- 1 carte est distribuée face visible au milieu (« Talon »).
 
-- 4 more cards are dealt to opponent and dealer, separately from the first 8.       
+- 4 cartes supplémentaires sont distribuées à l'adversaire et au donneur, séparément des 8 premières.
 
-- The next 6 cards are placed face down across the card in the Talon.
+- Les 6 cartes suivantes sont placées face cachée en travers de la carte du Talon.
 
-- The final card is placed face up on top of the Talon.
+- La carte finale est placée face visible au-dessus du Talon.
 
-**D. The bidding**
+**D. Les enchères**
 
-- Nondealer says if he wants to play with the bottom face-up card as trumps.  If yes, the trump suit is decided and he is declarer.
+- Le non-donneur dit s'il veut jouer avec la carte face visible du bas comme atout. Si oui, la couleur d'atout est décidée et il est le déclarant.
 
-- Otherwise, dealer says if he wants to play with the bottom face-up card as trumps.  If yes, the trump suit is decided and he is declarer.
+- Sinon, le donneur dit s'il veut jouer avec la carte face visible du bas comme atout. Si oui, la couleur d'atout est décidée et il est le déclarant.
 
-- Otherwise, if nondealer wants to play, he declares the suit that he wants as trumps.  The players may now alternate bidding higher trump suits (see suit order in B2 above) until either player passes. 
+- Sinon, si le non-donneur veut jouer, il déclare la couleur qu'il souhaite comme atout. Les joueurs peuvent alors enchérir alternativement des couleurs d'atout plus hautes (voir l'ordre des couleurs en B2 ci-dessus) jusqu'à ce qu'un joueur passe.
 
-- If nondealer does not want to play, dealer can select a trump suit, or pass.  If neither player selects a trump suit, the hands are thrown in.**
+- Si le non-donneur ne veut pas jouer, le donneur peut sélectionner une couleur d'atout, ou passer. Si aucun joueur ne sélectionne une couleur d'atout, les mains sont jetées.
 
-** 
+**E. Comptage des points**
 
-**E. Scoring **
+1. Points de cartes
 
-1. Card-points
+Les points de cartes sont additionnés dans les plis à la fin de la main. Ils sont :
 
-Card points are added up in tricks at the end of the hand. They are:
-
-| 20 | Jack of trumps |
-| 14 | 9 of trumps |
-| 11 | Ace |
+| 20 | Valet d'atout |
+| 14 | 9 d'atout |
+| 11 | As |
 | 10 | 10 |
-| 4 | King |
-| 3 | Queen |
-| 2 | Other Jacks |
-| 10 | Utolsó ütés (last trick) |
+| 4 | Roi |
+| 3 | Dame |
+| 2 | Autres Valets |
+| 10 | Utolsó ütés (dernier pli) |
 
-There is a total of 162 card points.
+Il y a un total de 162 points de cartes.
 
-2. Extra points
+2. Points supplémentaires
 
-Extra points refer to what is held in the player’s final hand at the time when the first lead to a trick occurs, not what is held in tricks.  All runs in this section must be within a single suit, and the descending order for runs is A, K, Q, J, 10, 9, 8, 7 in all suits.
+Les points supplémentaires se réfèrent à ce qui est tenu dans la main finale du joueur au moment où la première entame d'un pli a lieu, non à ce qui est tenu dans les plis. Toutes les suites dans cette section doivent être dans une seule couleur, et l'ordre décroissant pour les suites est A, R, D, V, 10, 9, 8, 7 dans toutes les couleurs.
 
-The possible extra point categories, and their values, are as follows:
+Les catégories possibles de points supplémentaires et leurs valeurs sont les suivantes :
 
-- Terc. A run of three. 20 points. 
+- Terc. Une suite de trois. 20 points.
 
-- Kvart.  A run of four. Beats any Terc. 50 points.
+- Kvart. Une suite de quatre. Bat tout Terc. 50 points.
 
-- Kvint, Szekszt, Szept, and Okt are similarly runs of 5, 6, 7, and 8, the longest beating all others and all worth 100 points. 
+- Kvint, Szekszt, Szept et Okt sont de même des suites de 5, 6, 7 et 8, la plus longue battant toutes les autres et toutes valant 100 points.
 
-- Vannak. Four of a kind (except that four 7s or four 8s do not qualify). The order for deciding the winning Vannak is that of the cards in trumps. 80 points.
+- Vannak. Carré (sauf que quatre 7 ou quatre 8 ne comptent pas). L'ordre pour décider du Vannak gagnant est celui des cartes à l'atout. 80 points.
 
-- Béla. King and Queen of trumps. Need not be announced at all, except implicitly in Kassza (see F5 below).  20 points.
+- Béla. Roi et Dame d'atout. N'a pas besoin d'être annoncé, sauf implicitement dans Kassza (voir F5 ci-dessous). 20 points.
 
-Extra points are announced at the first possible opportunity as cards are played (see G below),  giving away as little information about the particular holding as possible. For example, the lead player might announce a Kvart (always announcing only the longest run at first) while leading his first card. Opponent at his first play might say, “I also have a Kvart” or “That’s good” (if opponent has no better than a Terc) or “No good, I have a Kvint”. If both have the same length run, on the next trick, the lead would say, “Mine's to the x.” Opponent at his play would say, “Mine's to the y” (if higher than x) or “That’s good” if his is lower or “Mine’s also to the x”.  In the latter case, on the next trick the lead might say, “Mine’s in Bells”.  Opponent at his play would say “Mine’s in z” (if a higher suit than Bells) or “That’s good” if lower. The person winning the announcements then defines all runs of shorter length (for instance, “I also have a Terc”).  Only one run of each length can be announced. Vannaks are also announced at the first trick (together with announcing the longest run), and argued in the same way as runs.  Vannaks do not compete with runs; for example, one player might have a Vannak and the other a Terc.  Runs and Vannaks must describe what is in the hand at the point of playing to trick 1, that is, after exchanging the trump 7 and discarding (see G4 below).
+Les points supplémentaires sont annoncés à la première opportunité possible au fur et à mesure que les cartes sont jouées (voir G ci-dessous), en révélant le moins possible d'information sur la détention particulière. Par exemple, le joueur de tête pourrait annoncer un Kvart (en annonçant toujours d'abord la suite la plus longue) tout en entamant sa première carte. L'adversaire à sa première jeu pourrait dire « J'ai aussi un Kvart » ou « C'est bon » (si l'adversaire n'a rien de mieux qu'un Terc) ou « Pas bon, j'ai un Kvint ». Si les deux ont une suite de même longueur, au pli suivant, le joueur de tête dirait « La mienne va jusqu'au x. » L'adversaire à son jeu dirait « La mienne va jusqu'au y » (si plus haut que x) ou « C'est bon » si la sienne est plus basse ou « La mienne va aussi jusqu'au x ». Dans ce dernier cas, au pli suivant le joueur de tête pourrait dire « La mienne est en Cloches ». L'adversaire à son jeu dirait « La mienne est en z » (si une couleur plus haute que les Cloches) ou « C'est bon » si plus basse. La personne gagnant les annonces définit alors toutes les suites de longueur inférieure (par exemple, « J'ai aussi un Terc »). Une seule suite de chaque longueur peut être annoncée. Les Vannaks sont aussi annoncés au premier pli (en même temps que l'annonce de la suite la plus longue), et discutés de la même façon que les suites. Les Vannaks ne sont pas en compétition avec les suites ; par exemple, un joueur peut avoir un Vannak et l'autre un Terc. Les suites et Vannaks doivent décrire ce qui est dans la main au moment de jouer le pli 1, c'est-à-dire après l'échange du 7 d'atout et la défausse (voir G4 ci-dessous).
 
-**F. The announcements**
+**F. Les annonces**
 
-There are two different sorts of points.  The points in this section refer to what is recorded on the score sheet at the end of the hand.  The card and extra points in Section E above are used to determine some of the scoring points in this section.
+Il y a deux sortes différentes de points. Les points de cette section se réfèrent à ce qui est enregistré sur la feuille de score à la fin de la main. Les points de cartes et supplémentaires de la section E ci-dessus sont utilisés pour déterminer certains des points de score de cette section.
 
-- The declared game (“Parti”) is worth 1 point. This point is won by the player with the most number of card-points in tricks plus extra points announced (see E above).
+- Le jeu déclaré (« Parti ») vaut 1 point. Ce point est gagné par le joueur ayant le plus grand nombre de points de cartes en plis plus les points supplémentaires annoncés (voir E ci-dessus).
 
-- There is a series of other announcements (see F5 below), worth 1 or 2 points.  Any that are bid before picking up the last 4 cards are doubled in worth. 
+- Il y a une série d'autres annonces (voir F5 ci-dessous), valant 1 ou 2 points. Toutes celles qui sont annoncées avant de ramasser les 4 dernières cartes voient leur valeur doublée.
 
-- Game or the other announcements may be doubled by opponent and redoubled by declarer.  A double before picking up the last 4 cards quadruples what the announcement was otherwise worth, since a double after picking up these cards doubles its worth.
+- Le jeu ou les autres annonces peuvent être doublés par l'adversaire et redoublés par le déclarant. Un double avant de ramasser les 4 dernières cartes quadruple la valeur de l'annonce, puisque un double après avoir ramassé ces cartes double sa valeur.
 
-- Both before and after picking up their last 4 cards, starting with declarer, players alternate making announcements, doubling, and redoubling, each at their earliest opportunity.  This all occurs before leading to the first trick.
+- Avant et après avoir ramassé leurs 4 dernières cartes, en commençant par le déclarant, les joueurs alternent annonces, doubles et redoubles, chacun à la première opportunité. Tout cela se déroule avant l'entame du premier pli.
 
-- Announcements.
+- Annonces.
 
-- Abszolút.   Will have strictly more than 81 (50%) card-points in tricks. Must be announced before picking up last 4 cards. 1 point.
+- Abszolút. Aura strictement plus de 81 (50 %) points de cartes en plis. Doit être annoncé avant de ramasser les 4 dernières cartes. 1 point.
 
-- 100 (Száz). Will have more than 100 card-points in tricks. 2 points.
+- 100 (Száz). Aura plus de 100 points de cartes en plis. 2 points.
 
-- 200 (Kétszáz). Will have more than 200 points by adding card-points in tricks (E1) and extra points announced (E2). 1 point.
+- 200 (Kétszáz). Aura plus de 200 points en additionnant les points de cartes en plis (E1) et les points supplémentaires annoncés (E2). 1 point.
 
-- Tous les trois. Will have Jack, 9, and 7 of trumps in tricks. 1 point.
+- Tous les trois. Aura le Valet, le 9 et le 7 d'atout en plis. 1 point.
 
-- Ultimó. Will take last trick with 7 of trumps. 2 points.
+- Ultimó. Gagnera le dernier pli avec le 7 d'atout. 2 points.
 
-- Család (Family). Will have Ace, King, and Queen of trumps in tricks. 1 point.
+- Család (Famille). Aura l'As, le Roi et la Dame d'atout en plis. 1 point.
 
-- Összes adout (All trumps). Will have all trumps (7 & 8 not necessary) in tricks. 2 points.
+- Tous les atouts (Összes adu). Aura tous les atouts (7 et 8 non nécessaires) en plis. 2 points.
 
-- Kassza. Has Béla in hand and will make game. 1 point.
+- Kassza. A le Béla en main et réalisera le jeu. 1 point.
 
-- 44 (Negyvennégy).  Will have all four aces in tricks.  2 points. 
+- 44 (Negyvennégy). Aura les quatre As en plis. 2 points.
 
-**Note:** Abszolút is an exception to the double value of early announcements. Even though it can only be announced before picking up the last 4 cards, when announced then Abszolút scores only 1 point, not 2.
+**Note :** Abszolút est une exception à la valeur double des annonces précoces. Bien qu'il ne puisse être annoncé qu'avant de ramasser les 4 dernières cartes, quand il est alors annoncé, il ne vaut que 1 point, et non 2.
 
-**G. The play**
+**G. Le jeu**
 
-- After completing all the announcements, doubles, and redoubles of  Section F above, and having each picked up their additional 4 cards, declarer leads to the first trick, announcing runs and Vannaks as in Section E.2 above.
+- Après avoir complété toutes les annonces, doubles et redoubles de la section F ci-dessus, et après que chacun a ramassé ses 4 cartes supplémentaires, le déclarant entame le premier pli, annonçant les suites et Vannaks comme en E.2 ci-dessus.
 
-- Thereafter, the player who wins a trick leads to the next.
+- Ensuite, le joueur qui gagne un pli entame le suivant.
 
-- Players must follow suit if possible. If not they must trump if possible. If they cannot do either, they may discard.
+- Les joueurs doivent suivre la couleur si possible. S'ils ne le peuvent pas, ils doivent couper si possible. S'ils ne peuvent faire ni l'un ni l'autre, ils peuvent défausser.
 
-- If the trumps declared are those of the bottom displayed card in the Talon, before playing to the first trick the player with the 7 of trumps may replace the displayed trump card with the 7 of trumps (or if the displayed trump is the 7, it may be replaced with the 8 of trumps). If the top card is a trump or an Ace he may take it also. If he has done both, the lowest hidden card in the Talon is turned face up on top of the Talon. If it is a trump or an Ace he may take it and display the next lowest, continuing until no more cards are picked. When he has picked up all those cards, he must discard cards to bring his hand back down to 12 cards, without showing them to his opponent. His final hand is that for extra point announcements of E.2.
+- Si l'atout déclaré est celui de la carte face visible en bas du Talon, avant de jouer au premier pli, le joueur avec le 7 d'atout peut remplacer la carte d'atout exposée par le 7 d'atout (ou si la carte d'atout exposée est le 7, elle peut être remplacée par le 8 d'atout). Si la carte du haut est un atout ou un As, il peut la prendre aussi. S'il a fait les deux, la carte cachée la plus basse du Talon est retournée face visible au-dessus du Talon. Si c'est un atout ou un As, il la prend et expose la suivante la plus basse, en continuant jusqu'à ce qu'aucune carte ne soit plus ramassée. Quand il a ramassé toutes ces cartes, il doit défausser des cartes pour ramener sa main à 12 cartes, sans les montrer à son adversaire. Sa main finale est celle pour les annonces de points supplémentaires de E.2.
 
-**H. Summary of the order of events **
+**H. Résumé de l'ordre des événements**
 
-- Trump auction (see D).
+- Enchères d'atout (voir D).
 
-- Announcements, doubles, and redoubles (see F).
+- Annonces, doubles et redoubles (voir F).
 
-- Pick up 4 additional cards.
+- Ramasser 4 cartes supplémentaires.
 
-- Announcements, doubles, and redoubles (see F).
+- Annonces, doubles et redoubles (voir F).
 
-- On trick 1:
+- Au pli 1 :
 
-- Exchange trump 7 or trump 8, if applicable (see G4).
+- Échanger le 7 d'atout ou le 8 d'atout, le cas échéant (voir G4).
 
-- Announce highest run and Vannak (see E2).
+- Annoncer la suite la plus haute et le Vannak (voir E2).
 
-- Play to trick 1.
+- Jouer au pli 1.
 
-- On subsequent tricks:
+- Aux plis suivants :
 
-- Contest runs and Vannaks (see E2).
+- Contestation des suites et Vannaks (voir E2).
 
-- Play to trick.
+- Jouer au pli.
 
-**I. Appendix: Other Hungarian Alsós words**
+**I. Annexe : Autres mots hongrois de l'Alsós**
 
-| ász | ace | makk | acorns |
-| király | king | piros | red (i.e., hearts) |
-| felső | upper (i.e., queen) | tök | bells |
-| alsó | lower (i.e., jack) | zöld | leaves |
+| ász | as | makk | glands |
+| király | roi | piros | rouge (c'est-à-dire cœurs) |
+| felső | supérieur (c'est-à-dire dame) | tök | cloches |
+| alsó | inférieur (c'est-à-dire valet) | zöld | feuilles |
 | tíz | 10 |   |   |
 | kilenc | 9 |   |   |
 | nyolc | 8 |   |   |
 | hét | 7 |   |   |
 
-**J. Appendix: Guide to Hungarian pronunciation**
+**J. Annexe : Guide de prononciation hongroise**
 
-- All words in Hungarian are accented on the first syllable, always.  
+- Tous les mots hongrois sont accentués sur la première syllabe, toujours.
 
-- a is pronounced something like the short o in god.
+- a se prononce à peu près comme le o court dans « god ».
 
-- e is pronounced something like the short a in ant.
+- e se prononce à peu près comme le a court dans « ant ».
 
-- é is pronounced something like ai in pail.  So béla is something like bai'-lo (short o as in god).
+- é se prononce à peu près comme ai dans « pail ». Ainsi béla se prononce à peu près « bai'-lo » (o court comme dans « god »).
 
-- i is pronounced like ee in seed.
+- i se prononce comme ee dans « seed ».
 
-- o is pronounced like oa in toad.
+- o se prononce comme oa dans « toad ».
 
-- u is pronounced like oo in fool.
+- u se prononce comme oo dans « fool ».
 
-- s is pronounced like the English sh.  So alsós is something like oll'-shoash.
+- s se prononce comme le ch anglais. Ainsi alsós se prononce à peu près « oll'-choache ».
 
-- sz and ssz are pronounced like the English ss.  So kassza is something like koss'-o (short o's).
+- sz et ssz se prononcent comme ss anglais. Ainsi kassza se prononce à peu près « koss'-o » (o courts).
 
-- cs is pronounced like the English ch.  So család is something like cho'-lod (short o's).  
+- cs se prononce comme ch anglais. Ainsi család se prononce à peu près « tcho'-lod » (o courts).
 
-- c is pronounced ts.  So terc is something like tairts, kilenc is something like kee'-lants.
+- c se prononce ts. Ainsi terc se prononce à peu près « taïrts », kilenc se prononce à peu près « ki'-lants ».
 
-- z is pronounced like the English z.  So tíz is something like teez.
+- z se prononce comme z anglais. Ainsi tíz se prononce à peu près « tiiz ».
 
-- ö and ü are pronounced as in German.  So utolsó ütés is something like oo'-toal-shoa ü'-taish, and összes adout is something like öss'-ash adoo. 
+- ö et ü se prononcent comme en allemand. Ainsi utolsó ütés se prononce à peu près « ou'-toal-choa ü'-taïch », et összes adout se prononce à peu près « oss'-ache adou ».
 
-## References
+## Références
 
-**Szomahazy**, István: *Kártya Codex* (Budapest, 1898) pp 71-77
+**Szomahazy**, István : *Kártya Codex* (Budapest, 1898) pp 71-77
 
-**Ulmann**, Sigmund *Illustriertes Wiener Vannakbuch* (Vienna, 1905) pp 1-69
+**Ulmann**, Sigmund : *Illustriertes Wiener Vannakbuch* (Vienne, 1905) pp 1-69
 
-'**Egy játékos, aki nyer**': *Kártyajátékok Kézikönyve* (Budapest, ?1907) pp 17-41
+**« Egy játékos, aki nyer »** : *Kártyajáték Kézikönyve* (Budapest, ?1907) pp 17-41
 
-**Potter**, G. J.: *A kártyajáték művészete* (Budapest, 1930), reprinted by **Zsigri** Gyula in *21 válogatott kártyajáték* (Szeged, 1993) pp 44-59
+**Potter**, G. J. : *A kártyajáték művészete* (Budapest, 1930), réimprimé par **Zsigri** Gyula dans *21 válogatott kártyajáték* (Szeged, 1993) pp 44-59
 
-**Widder**, Lajos: *Az ultitól a bridzsig* (Budapest, 1957) pp 28-46
+**Widder**, Lajos : *Az ultitól a bridzsig* (Budapest, 1957) pp 28-46
 
-**Kovács**, Endre in *Kártyások könyve* (Budapest, 1984) pp 82-91 
+**Kovács**, Endre dans *Kártyások könyve* (Budapest, 1984) pp 82-91
 
-**Csibor** Zoltán in *A kártya kéznél van* (Szeged, 2001) pp 59-93. This describes a new variant constructed by the author in the 1990's by combining rules from various sources together with some of the author's own innovations. Csibor's variant is the basis of the Hungarian [Wikipedia page on Alsós](https://hu.wikipedia.org/wiki/Als%C3%B3s).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Alsós
+**Csibor** Zoltán dans *A kártya kéznél van* (Szeged, 2001) pp 59-93. Ceci décrit une nouvelle variante construite par l'auteur dans les années 1990 en combinant des règles de diverses sources avec certaines innovations de l'auteur. La variante de Csibor est la base de la [page Wikipedia hongroise sur l'Alsós](https://hu.wikipedia.org/wiki/Als%C3%B3s).

@@ -3,208 +3,206 @@
 **Nombre de cartes :** 32
 **Difficulté :** ⭐⭐⭐
 **Type :** Jass/Piquet, Plis
-**But :** A Dutch Jass game for 4-6 players. A player who wins twice is safe; a player who loses twice pays for the drinks.
+**But :** Jeu de Jass néerlandais pour 4 à 6 joueurs. Un joueur qui gagne deux fois est sauvé ; un joueur qui perd deux fois paye la tournée.
 **Autres noms :** Roem, Stuk
 
 ---
 
 ## Introduction
 
-The Dutch game Boonaken, sometimes spelled Bonaken, Boonaaken, Boonhaaken, etc., belongs to the Jass family. It is related to Pandoeren, but is a faster, less complex and less serious game, usually played for rounds of drinks. It probably gets its name from the beginnings of the words for the top three trumps, which are the Jack, Nine and Ace - in Dutch: Boer, Nel, Aas. The game played at Hazerswoude-Rijndijk is described first, followed by some variations played in other places.
+Le jeu néerlandais Boonaken, parfois orthographié Bonaken, Boonaaken, Boonhaaken, etc., appartient à la famille du Jass. Il est apparenté au Pandoeren, mais c'est un jeu plus rapide, moins complexe et moins sérieux, généralement joué pour des tournées de boissons. Il tient probablement son nom des débuts des mots désignant les trois meilleurs atouts, qui sont le Valet, le Neuf et l'As — en néerlandais : Boer, Nel, Aas. La variante jouée à Hazerswoude-Rijndijk est décrite en premier, suivie de quelques variantes jouées ailleurs.
 
-This page is based on games with Co van Bennekom and friends in Hazerswoude-Rijndijk and discussions with Sjaak Keyser at the Café Keyser in Leimuiden. My thanks to Gejus van Diggele for introducing me to these players.
+Cette page est basée sur des parties avec Co van Bennekom et ses amis à Hazerswoude-Rijndijk et des discussions avec Sjaak Keyser au Café Keyser à Leimuiden. Mes remerciements à Gejus van Diggele pour m'avoir présenté ces joueurs.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is probably best for four or five players; and it is possible to play with as many as six or seven (see variations). The game is played to find a loser, who will pay for a round of drinks. During the game, the number of active players reduces as the winners drop out.
+Le jeu convient probablement mieux à quatre ou cinq joueurs ; il est possible de jouer avec jusqu'à six ou sept joueurs (voir variantes). Le jeu est joué pour trouver un perdant, qui paiera une tournée de boissons. Au cours de la partie, le nombre de joueurs actifs diminue au fur et à mesure que les gagnants se retirent.
 
-A 32 card pack is used, consisting of ace, king, queen, jack, 10, 9, 8, 7 in each of the four suits hearts, diamonds, clubs and spades. This is a point trick game with trumps. The ranking of the cards from high to low and their point values are shown in the following table.
+On utilise un jeu de 32 cartes, comprenant as, roi, dame, valet, 10, 9, 8, 7 dans chacune des quatre couleurs : cœurs, carreaux, trèfles et piques. C'est un jeu de plis avec atouts. L'ordre des cartes, du plus fort au plus faible, et leurs valeurs en points sont indiqués dans le tableau suivant.
 
-| Trump suit | Non-trump suits |
-| Card | Value |
-| Jack (Boer) | 20 points |
+| Atout | |
+| Carte | Valeur |
+| Valet (Boer) | 20 points |
 | 9 (Nel) | 14 points |
-| Ace (Aas) | 11 points |
-| King (Heer) | 3 points |
-| Queen (Vrouw) | 2 points |
+| As (Aas) | 11 points |
+| Roi (Heer) | 3 points |
+| Dame (Vrouw) | 2 points |
 | 10 | 10 points |
-| 8 | 0 points |
-| 7 | 0 points |
+| 8 | 0 point |
+| 7 | 0 point |
 
-| Card | Value |
-| Ace (Aas) | 11 points |
-| King (Heer) | 3 points |
-| Queen (Vrouw) | 2 points |
-| Jack (Boer) | 1 point |
+| Carte | Valeur |
+| As (Aas) | 11 points |
+| Roi (Heer) | 3 points |
+| Dame (Vrouw) | 2 points |
+| Valet (Boer) | 1 point |
 | 10 | 10 points |
-| 9 | 0 points |
-| 8 | 0 points |
-| 7 | 0 points |
+| 9 | 0 point |
+| 8 | 0 point |
+| 7 | 0 point |
 
-There are 141 points in the pack altogether. In contrast to other Jass games, in this game there are no extra points for winning the last trick.
+Le paquet contient 141 points au total. Contrairement aux autres jeux de Jass, il n'y a pas de points supplémentaires pour le gain du dernier pli dans ce jeu.
 
-## Roem and Stuk
+## Roem et Stuk
 
-Certain combinations of cards in a player's hand are known as Roem, and have a point value. A sequence consists of three or more consecutive cards of the same suit, and for this purpose the cards are always considered to be in the order A-K-Q-J-10-9-8-7, so Q-J-10-9 of trumps is a four card sequence, but J-9-A-K is not a sequence, even though these are the top four trumps. The combinations and their values are:
+Certaines combinaisons de cartes dans la main d'un joueur sont appelées Roem et ont une valeur en points. Une séquence se compose de trois cartes consécutives ou plus de la même couleur ; dans ce but, les cartes sont toujours considérées dans l'ordre A-R-D-V-10-9-8-7, de sorte que D-V-10-9 d'atout est une séquence de quatre cartes, mais V-9-A-R n'est pas une séquence, bien que ce soient les quatre meilleurs atouts. Les combinaisons et leurs valeurs sont :
 
-| Sequence of three cards in a suit | 20 points |
-| Sequence of four cards in a suit | 50 points |
-| Sequence of five cards in a suit | 100 points |
-| Sequence of six cards in a suit | 200 points |
-| Four jacks | 200 points |
-| Four queens | 100 points |
-| Four kings | 100 points |
-| Four aces | 100 points |
-| King and queen of trumps (known as Stuk)    | 20 points |
+| Séquence de trois cartes d'une même couleur | 20 points |
+| Séquence de quatre cartes d'une même couleur | 50 points |
+| Séquence de cinq cartes d'une même couleur | 100 points |
+| Séquence de six cartes d'une même couleur | 200 points |
+| Quatre valets | 200 points |
+| Quatre dames | 100 points |
+| Quatre rois | 100 points |
+| Quatre as | 100 points |
+| Roi et dame d'atout (appelé Stuk) | 20 points |
 
-A single card cannot be used in more than one sequence, but the same card can be used simultaneously in a sequence, a four of a kind and Stuk. For example K-Q-J-10 of trumps is worth 70 points - 50 for the sequence and 20 for the stuk. Four aces with the king and queen of trumps are worth a total of 140.
+Une seule carte ne peut être utilisée dans plus d'une séquence, mais la même carte peut être utilisée simultanément dans une séquence, un carré et un Stuk. Par exemple, R-D-V-10 d'atout vaut 70 points — 50 pour la séquence et 20 pour le stuk. Quatre as avec le roi et la dame d'atout valent un total de 140.
 
-## Deal
+## Distribution
 
-The dealer shuffles and the player to the dealer's right cuts. Deal and play are clockwise, and the turn to deal passes to the left after each hand. The dealer deals six cards to each player, three at a time. 
+Le donneur mélange et le joueur à la droite du donneur coupe. La distribution et le jeu se font dans le sens horaire, et le tour de distribuer passe à gauche après chaque donne. Le donneur distribue six cartes à chaque joueur, trois par trois.
 
-- If there are five players, two cards are placed face up in the centre of the table, one after each round of three cards to each player has been dealt.
+- S'il y a cinq joueurs, deux cartes sont placées face visible au centre de la table, une après chaque tour de trois cartes distribuées à chaque joueur.
 
-- If there are four players, then after the first three cards to each player two cards are placed face down in the centre and after the second round of three cards each, two cards are placed face up in the centre. The four cards that are left over at the end of the deal are set aside until the end of the hand.
+- S'il y a quatre joueurs, après les trois premières cartes de chaque joueur, deux cartes sont placées face cachée au centre, puis après le second tour de trois cartes, deux cartes sont placées face visible au centre. Les quatre cartes restantes à la fin de la distribution sont mises de côté jusqu'à la fin de la donne.
 
-- If there are two or three players, the deal is the same as with four players, but the number of cards set aside is of course greater: 10 cards with three players and 16 cards with two players.
+- S'il y a deux ou trois joueurs, la distribution est la même qu'à quatre joueurs, mais le nombre de cartes mises de côté est bien sûr plus élevé : 10 cartes à trois joueurs et 16 cartes à deux joueurs.
 
-The exact point in the deal at which the two or four centre cards are dealt is not critical, and different dealers use different methods, but the cards given to the players are always dealt three at a time. 
+Le moment exact de la distribution où les deux ou quatre cartes centrales sont posées n'est pas critique, et différents donneurs utilisent différentes méthodes, mais les cartes données aux joueurs sont toujours distribuées trois par trois.
 
-The eventual winner of the bidding can use the centre cards to improve his or her hand, so when deciding what to bid, you can reckon on having the face-up centre cards in your hand, and you may also speculate on getting some further help from the face-down centre cards, which may sometimes be useful.
+Le futur gagnant des enchères peut utiliser les cartes du centre pour améliorer sa main ; lors de la décision de l'enchère, on peut donc compter sur avoir les cartes face visible du centre dans sa main, et on peut aussi spéculer sur l'aide supplémentaire des cartes face cachée, qui peuvent parfois être utiles.
 
-## Bidding
+## Enchères
 
-The player to the left of the dealer bids first. There are four types of bid:
+Le joueur à la gauche du donneur enchérit le premier. Il y a quatre types d'enchères :
 
-- A number bid, which must be a multiple of 5, is an undertaking to win at least that many points in tricks plus roem, with a trump suit of your choice.
+- Une enchère chiffrée, qui doit être un multiple de 5, est un engagement à gagner au moins ce nombre de points en plis et roem, avec une couleur d'atout de son choix.
 
-- Misère is an undertaking to lose every trick, with no trumps. It ranks between the number bids 70 and 75.
+- Misère est un engagement de perdre tous les plis, sans atout. Elle se situe entre les enchères chiffrées 70 et 75.
 
-- Zwabber is an undertaking to win every trick, with no trumps. It ranks between the number bids 100 and 105.
+- Zwabber est un engagement de gagner tous les plis, sans atout. Elle se situe entre les enchères chiffrées 100 et 105.
 
-- Boonaak is an undertaking to win every trick, with a trump suit of your choice. It is the highest type of bid.
+- Boonaak est un engagement de gagner tous les plis, avec une couleur d'atout de son choix. C'est le type d'enchère le plus élevé.
 
-Players bid in clockwise rotation, each player passing or bidding higher than the previous bidder (with the exception of Misère). A player who has passed cannot re-enter the bidding. When all players but one have passed, the last remaining player is the declarer and the final bid is played.
+Les joueurs enchérissent dans le sens horaire, chaque joueur passant ou enchérissant plus haut que le précédent enchérisseur (sauf pour Misère). Un joueur qui a passé ne peut pas revenir aux enchères. Lorsque tous les joueurs sauf un ont passé, le dernier joueur restant est le déclarant et l'enchère finale est jouée.
 
-If all players were to pass initially, there would be a redeal, but in practice this never happens, because if all players but one were to pass, the final player could easily bid and make a cheap number contract.
+Si tous les joueurs devaient passer initialement, il y aurait une redistribution, mais en pratique cela n'arrive jamais, car si tous les joueurs sauf un passent, le dernier joueur pourrait facilement enchérir et faire un contrat chiffré à bas prix.
 
-If the highest bid so far is Misère, it is possible for other players also to bid Misère. Once there have been two Misère bids, no higher bids are allowed, but all the players who have not yet passed decide in turn whether they will pass or also bid a Misère. All the players who bid Misère then simultaneously try to take no tricks.
+Si l'enchère la plus élevée jusqu'à présent est Misère, il est possible pour d'autres joueurs d'enchérir également Misère. Une fois qu'il y a eu deux enchères Misère, aucune enchère plus élevée n'est autorisée, mais tous les joueurs qui n'ont pas encore passé décident à leur tour s'ils vont passer ou enchérir Misère. Tous les joueurs ayant enchéri Misère essaient alors simultanément de ne prendre aucun pli.
 
-When there has been only one Misère bid, it can be overcalled in the usual way by a number bid of 75 or more or a Zwabber or Boonaak. The higher bid cancels the Misère and no further Misères can be bid. Players who want to bid a number sometimes begin the bidding at 75 so as to prevent later players from shutting them out by bidding Misère.
+Lorsqu'il n'y a eu qu'une seule enchère Misère, elle peut être surenchérie de la manière habituelle par une enchère chiffrée de 75 ou plus, ou par un Zwabber ou Boonaak. L'enchère plus élevée annule la Misère et aucune autre Misère ne peut être enchérie. Les joueurs qui veulent faire une enchère chiffrée commencent parfois à 75 pour empêcher les joueurs suivants de les bloquer en enchérissant Misère.
 
-A Boonaak bid can include a quantity of Roem. For example "Boonaak 50" is an undertaking that one will take all the tricks and will have at least 50 Roem. Boonaak with Roem outbids Boonaak without Roem, and can in turn be outbid by Boonaak with more Roem. The highest bid of all is Boonaak 220; to make this you would need A-K-Q-J-10-9 in one suit (200 for the sequence plus 20 for stuk).
+Une enchère Boonaak peut inclure une quantité de Roem. Par exemple, « Boonaak 50 » est un engagement de prendre tous les plis et d'avoir au moins 50 de Roem. Le Boonaak avec Roem surpasse le Boonaak sans Roem, et peut à son tour être surenchéri par un Boonaak avec plus de Roem. L'enchère la plus élevée de toutes est Boonaak 220 ; pour réussir, il faudrait avoir A-R-D-V-10-9 dans une seule couleur (200 pour la séquence plus 20 pour le stuk).
 
-## Exchanging the centre cards
+## Échange des cartes du centre
 
-The declarer takes the two or four cards from the centre of the table and discards an equal number of cards face down in their place, possibly including some or all of the same cards. Points in discarded cards to not count towards fulfilling the declarer's bid, and discarded cards cannot be used in announced Roem.
+Le déclarant prend les deux ou quatre cartes du centre de la table et défausse un nombre égal de cartes face cachée à leur place, éventuellement en incluant certaines ou toutes les mêmes cartes. Les points des cartes défaussées ne comptent pas pour la réalisation de l'enchère du déclarant, et les cartes défaussées ne peuvent pas être utilisées dans le Roem annoncé.
 
-If the contract is Misère, the first player who bid Misère takes the centre cards and discards the same number of cards face down. If more than one player bid Misère, the second Misère bidder picks up the cards discarded by the first and discards an equal number of cards, to be picked up by the third Misère bidder, and so on, until all Misère bidders have had an opportunity to exchange some cards.
+Si le contrat est Misère, le premier joueur ayant enchéri Misère prend les cartes du centre et défausse le même nombre de cartes face cachée. Si plusieurs joueurs ont enchéri Misère, le deuxième enchérisseur Misère ramasse les cartes défaussées par le premier et défausse un nombre égal de cartes, qui seront ramassées par le troisième enchérisseur Misère, et ainsi de suite, jusqu'à ce que tous les enchérisseurs Misère aient eu l'occasion d'échanger des cartes.
 
-## Play
+## Jeu
 
-The declarer always leads to the first trick. If several Misères were bid, the first Misère bidder leads.
+Le déclarant mène toujours au premier pli. Si plusieurs Misères ont été enchéries, le premier enchérisseur Misère mène.
 
-If the bid is a number or a Boonaak, the declarer chooses the trump suit. If the declarer leads to the first trick without saying anything, the suit of this first lead becomes trumps. It is usual to begin by leading a trump, but it is also possible for the declarer to announce the trump suit aloud and lead a different suit.
+Si l'enchère est chiffrée ou un Boonaak, le déclarant choisit la couleur d'atout. Si le déclarant mène au premier pli sans rien dire, la couleur de cette première carte devient l'atout. Il est habituel de commencer par jouer un atout, mais il est aussi possible pour le déclarant d'annoncer la couleur d'atout à voix haute et de jouer une autre couleur.
 
-When a trump is led, the other players must follow suit with a trump, unless their only trump is the jack. A player who has no trumps or only the jack of trumps may play any card. The trick is won by the highest trump played.
+Lorsqu'un atout est mené, les autres joueurs doivent suivre de la même couleur avec un atout, sauf si leur seul atout est le valet. Un joueur qui n'a pas d'atout ou qui n'a que le valet d'atout peut jouer n'importe quelle carte. Le pli est remporté par le plus haut atout joué.
 
-When a non-trump is led, players who have a card of the suit led must either follow suit or play a trump. (It is legal to trump even if you could have followed suit.) Players who have no card of the suit led may play any card. The trick is won by the highest trump in it, or if no trumps were played, by the highest card of the suit led.
+Lorsqu'une non-atout est mené, les joueurs qui ont une carte de la couleur menée doivent soit suivre soit jouer un atout. (Il est autorisé d'atouter même si l'on pouvait suivre.) Les joueurs qui n'ont pas de carte de la couleur menée peuvent jouer n'importe quelle carte. Le pli est remporté par le plus haut atout, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur menée.
 
-The winner of each trick leads any card to the next trick.
+Le gagnant de chaque pli mène n'importe quelle carte au pli suivant.
 
-If the bid is Misère or Zwabber, there is no trump suit. Players must follow suit; each trick is won by the highest card of the suit led; and as usual the winner of each trick leads to the next.
+Si l'enchère est Misère ou Zwabber, il n'y a pas de couleur d'atout. Les joueurs doivent suivre ; chaque pli est remporté par la plus haute carte de la couleur menée ; et comme d'habitude, le gagnant de chaque pli mène au suivant.
 
-If the bid is a number, the declarer may announce Roem when leading to the first trick. Only the total value of the Roem is announced - for example 70 if you have K-Q-J-10 of trumps. Only cards in the declarer's hand count towards the declarer's Roem - discarded cards cannot be included.
+Si l'enchère est chiffrée, le déclarant peut annoncer le Roem en menant au premier pli. Seule la valeur totale du Roem est annoncée — par exemple 70 si l'on a R-D-V-10 d'atout. Seules les cartes dans la main du déclarant comptent pour son Roem — les cartes défaussées ne peuvent pas être incluses.
 
-It is illegal to announce an amount of Roem equal to or greater than your final number bid. For example, if you have bid 95 and find that after discarding you have Q-J-10-9-8 of trumps, you can only announce 50 Roem for a four-card sequence. If you had four aces, you would not be allowed to announce them if your bid was 100 or less.
+Il est interdit d'annoncer un montant de Roem égal ou supérieur à son enchère chiffrée finale. Par exemple, si vous avez enchéri 95 et qu'après défausse vous avez D-V-10-9-8 d'atout, vous ne pouvez annoncer que 50 de Roem pour une séquence de quatre cartes. Si vous aviez quatre as, il ne vous serait pas permis de les annoncer si votre enchère était de 100 ou moins.
 
-If the bid is a number, and an opponent has Roem in hand worth at least as much as the Roem announced by the declarer, that opponent can also announce Roem. If the opponent's Roem is worth more than the declarer's, the declarer's Roem is cancelled and does not count towards fulfilling the bid. If an opponent's Roem is equal in value to the declarer's, both players must say how high their Roem is - i.e. what the highest card of it is. If the highest card of the opponent's Roem is equal or higher, the declarer's Roem is canceled. If the highest card of the declarer's Roem is higher, the declarer's Roem remains valid.
+Si l'enchère est chiffrée et qu'un adversaire a en main un Roem d'une valeur au moins égale à celle annoncée par le déclarant, cet adversaire peut également annoncer du Roem. Si le Roem de l'adversaire vaut plus que celui du déclarant, le Roem du déclarant est annulé et ne compte pas pour la réalisation de l'enchère. Si le Roem de l'adversaire est de valeur égale à celui du déclarant, les deux joueurs doivent dire quelle est la hauteur de leur Roem — c'est-à-dire leur carte la plus haute. Si la carte la plus haute du Roem de l'adversaire est égale ou supérieure, le Roem du déclarant est annulé. Si la carte la plus haute du Roem du déclarant est supérieure, le Roem du déclarant reste valide.
 
-If the bid is a Boonaak with Roem, the declarer must have at least the amount of Roem claimed in the bid, otherwise the bid is lost. The declarer's Roem cannot be cancelled, even if an opponent has more Roem.
+Si l'enchère est un Boonaak avec Roem, le déclarant doit avoir au moins le montant de Roem revendiqué dans l'enchère, sinon l'enchère est perdue. Le Roem du déclarant ne peut pas être annulé, même si un adversaire a plus de Roem.
 
-Roem may only be announced when playing one's card to the first trick. Any Roem not announced at this time does not count.
+Le Roem ne peut être annoncé que lors de la joue de sa carte au premier pli. Tout Roem non annoncé à ce moment ne compte pas.
 
-Opponents of the declarer are not allowed to announce Roem if the declarer has not announced Roem, or if their Roem is worth less than that announced by the declarer.
+Les adversaires du déclarant ne sont pas autorisés à annoncer du Roem si le déclarant n'a pas annoncé de Roem, ou si leur Roem vaut moins que celui annoncé par le déclarant.
 
-## Scoring
+## Comptage des points
 
-If the bid was a number, then add up
+Si l'enchère était chiffrée, on additionne :
 
-- the total value of the cards in the declarer's tricks, plus
+- la valeur totale des cartes dans les plis du déclarant, plus
 
-- the value of Roem announced by the declarer, provided that it was not cancelled.
+- la valeur du Roem annoncé par le déclarant, à condition qu'il n'ait pas été annulé.
 
-If this is greater than or equal to the bid, the declarer has won. If not, the declarer has lost. 
+Si ce total est supérieur ou égal à l'enchère, le déclarant a gagné. Sinon, le déclarant a perdu.
 
-If the bid was Misère, then 
+Si l'enchère était Misère :
 
-- anyone who bid Misère and managed to avoid taking any tricks wins, and 
+- tout joueur ayant enchéri Misère et ayant réussi à éviter de prendre un pli gagne, et
 
-- anyone who bid Misère and took one or more tricks loses.
+- tout joueur ayant enchéri Misère et ayant pris un ou plusieurs plis perd.
 
-If the bid was Zwabber or Boonaak and the declarer won every trick, the declarer wins. Otherwise the declarer loses.
+Si l'enchère était Zwabber ou Boonaak et que le déclarant a gagné tous les plis, le déclarant gagne. Sinon, le déclarant perd.
 
-The score sheet has a column for each player. A win is recorded by a plus sign (+) in that player's column. A loss is recorded by a minus sign (-). Only the declarer gets a "+" or "-"; nothing is written in the other players' columns. When several people bid Misère, each of them gets a "+" or "-", depending whether they won or lost.
+La feuille de score comporte une colonne pour chaque joueur. Un gain est enregistré par un signe plus (+) dans la colonne du joueur. Une perte est enregistrée par un signe moins (-). Seul le déclarant reçoit un « + » ou « - » ; rien n'est écrit dans les colonnes des autres joueurs. Lorsque plusieurs personnes enchérissent Misère, chacun d'eux reçoit un « + » ou « - », selon qu'ils ont gagné ou perdu.
 
-The game is played to find a loser, who will buy a round of drinks. This is decided as follows.
+Le jeu se joue pour trouver un perdant, qui achètera une tournée de boissons. Cela se décide comme suit.
 
-- Any player who has two pluses is a winner, and drops out of the game until the loser has been found. This player is said to be "out" (eruit). (If it was this player's turn to deal next, the deal passes another place to the left.)
+- Tout joueur ayant deux plus est gagnant et se retire du jeu jusqu'à ce que le perdant soit trouvé. On dit que ce joueur est « sorti » (*eruit*). (Si c'était le tour de ce joueur de distribuer ensuite, la distribution passe un cran de plus à gauche.)
 
-- Any player who has two minuses is the loser of the game, and must buy the drinks. This player is said to be "in" (erin). The two minus signs can be converted to a representation of a drinking glass: ![drink](../images/jass/drink.gif).
+- Tout joueur ayant deux moins est le perdant de la partie et doit payer les boissons. On dit que ce joueur est « dedans » (*erin*). Les deux signes moins peuvent être convertis en représentation d'un verre à boire : ![drink](../images/jass/drink.gif).
 
-- As long as no one has two minuses, the players who have not won by getting two pluses continue playing hands. If all the players except one have two pluses, the last remaining player is the loser and buys the drinks.
+- Tant que personne n'a deux moins, les joueurs qui n'ont pas encore gagné en obtenant deux plus continuent à jouer des donnes. Si tous les joueurs sauf un ont deux plus, le dernier joueur restant est le perdant et paie les boissons.
 
-Note that pluses and minuses do not cancel each other. A player who has a plus and a minus is said to be in wip (a seesaw). The next time this player is declarer, he or she will either drop out by scoring a second plus or become the overall loser by scoring a second minus.
+Notez que les plus et les moins ne s'annulent pas mutuellement. Un joueur qui a un plus et un moins est dit en *wip* (une balançoire). La prochaine fois que ce joueur sera déclarant, il se retirera soit en marquant un deuxième plus, soit deviendra le perdant final en marquant un deuxième moins.
 
-If a new game is to be played by the same group, the player to the right of loser of the previous game will deal the first hand, so that the previous loser will bid first.
+Si une nouvelle partie est jouée par le même groupe, le joueur à la droite du perdant de la partie précédente distribuera la première donne, afin que le perdant précédent enchérisse en premier.
 
-## Variations
+## Variantes
 
-### Players and deal
+### Joueurs et distribution
 
-Some play that each hand after the first is dealt by the player who was the declarer in the previous hand (by the first declarer if several played Misère).
+Certains jouent que chaque donne après la première est distribuée par le joueur qui a été le déclarant lors de la donne précédente (par le premier déclarant si plusieurs ont joué Misère).
 
-When there are two, three or four players, some play that only one card is dealt face down to the centre, with two face up.
+Avec deux, trois ou quatre joueurs, certains jouent qu'une seule carte est distribuée face cachée au centre, avec deux face visible.
 
-It is possible to start a game with 6 players, dealing only 5 cards each, and two face up to the centre, or even with 7 players, dealing just 4 cards each, with two cards face up and two face down in the centre. With seven players, some play that everyone is obliged to bid Misère on the first hand.
+Il est possible de commencer une partie avec 6 joueurs, en ne distribuant que 5 cartes à chacun et deux face visible au centre, ou même avec 7 joueurs, en ne distribuant que 4 cartes à chacun, avec deux cartes face visible et deux face cachée au centre. Avec sept joueurs, certains jouent que tout le monde est obligé d'enchérir Misère à la première donne.
 
-### Bidding
+### Enchères
 
-Some play that the minimum number bid allowed is 25.
+Certains jouent que l'enchère chiffrée minimale autorisée est 25.
 
-Some play that the Misère bid ranks between 100 and 105 and Zwabber between 125 and 130 when there are four or more players in the game.
+Certains jouent que l'enchère Misère se situe entre 100 et 105 et Zwabber entre 125 et 130 lorsqu'il y a quatre joueurs ou plus dans la partie.
 
-Some players allow bids of Zwabber with Roem, ranking immediately above Zwabber without Roem.
+Certains joueurs autorisent des enchères Zwabber avec Roem, se classant immédiatement au-dessus du Zwabber sans Roem.
 
-### Play
+### Jeu
 
-Some do not allow undertrumping, unless the player has nothing but trumps. That is, if a non-trump suit is led and has already been trumped, you not allowed to play a lower trump unless your hand consists entirely of trumps.
+Certains n'autorisent pas le sous-coupage, sauf si le joueur n'a que des atouts. C'est-à-dire que si une couleur non-atout est menée et a déjà été atoutée, on n'est pas autorisé à jouer un atout inférieur sauf si sa main ne se compose que d'atouts.
 
-Some play that in Misère with a single declarer, the declarer must choose a trump suit when leading to the first trick. When there is more than one declarer, Misère is played without trumps as usual.
+Certains jouent qu'en Misère avec un seul déclarant, le déclarant doit choisir une couleur d'atout en menant au premier pli. Lorsqu'il y a plus d'un déclarant, Misère se joue sans atout comme d'habitude.
 
-### Scoring
+### Comptage des points
 
-Some award only 100 points rather than 200 for a six-card sequence.
+Certains n'accordent que 100 points au lieu de 200 pour une séquence de six cartes.
 
-Some play with point scoring rather than pluses and minuses. In one version, each player begins with 5 points, and the aim is to get to zero. A successful declarer deducts one point for a bid of less than 50, 2 points for a bid of at least 50 but less than 75, and 3 points for a bid of 75 or more. An unsuccessful declarer adds the relevant number of points. A player who reaches or passes zero has won and drops out of the game; a player who reaches or passes 11 is the loser; if no one gets to 11, the last player left in when everyone else has reached or passed zero is the loser.
+Certains jouent avec un score en points plutôt qu'avec des plus et des moins. Dans une version, chaque joueur commence avec 5 points, et le but est d'arriver à zéro. Un déclarant qui réussit déduit 1 point pour une enchère inférieure à 50, 2 points pour une enchère d'au moins 50 mais inférieure à 75, et 3 points pour une enchère de 75 ou plus. Un déclarant qui échoue ajoute le nombre de points correspondant. Un joueur qui atteint ou dépasse zéro a gagné et se retire de la partie ; un joueur qui atteint ou dépasse 11 est le perdant ; si personne n'atteint 11, le dernier joueur restant lorsque tous les autres ont atteint ou dépassé zéro est le perdant.
 
-Another version, briefly described to me by Eefje Limpt-Bogmans, is played as follows:
+Une autre version, brièvement décrite par Eefje Limpt-Bogmans, se joue comme suit :
 
-- Only 5 cards are dealt to each player, with two [face up?] in the centre.
+- Seules 5 cartes sont distribuées à chaque joueur, avec deux [face visible ?] au centre.
 
-- There are no Misère or Zwabber bids - only numbers, Boonhaak, Boonhaak with Roem and Open Boonhaak, which is highest.
+- Il n'y a pas d'enchères Misère ou Zwabber — uniquement des enchères chiffrées, Boonhaak, Boonhaak avec Roem et Open Boonhaak, qui est le plus élevé.
 
-- The minimum number bid is 25. If you have bid a number you cannot increase your bid to a Boonhaak of any sort.
+- L'enchère chiffrée minimale est 25. Si vous avez enchéri un nombre, vous ne pouvez pas augmenter votre enchère vers un Boonhaak de quelque sorte que ce soit.
 
-- Everyone starts with 5 points; a player who has less than 1 is out (i.e. drops out of the game and cannot lose); a player who has 10 or more points [or the last player left in if no one reaches 10] is the loser.
+- Tout le monde commence avec 5 points ; un joueur qui a moins de 1 est sorti (c'est-à-dire qu'il se retire de la partie et ne peut pas perdre) ; un joueur qui a 10 points ou plus [ou le dernier joueur restant si personne n'atteint 10] est le perdant.
 
-- Bids 25-45 score 1 point; 50-70 score 2 points; 75-95 score 3 points; 100-120 score 5 points; 125 or more score 6 points; Boonhaak scores 5 points; Open Boonhaak scores 10 points (i.e. results in winning or losing the game).
+- Enchères 25-45 : 1 point ; 50-70 : 2 points ; 75-95 : 3 points ; 100-120 : 5 points ; 125 ou plus : 6 points ; Boonhaak : 5 points ; Open Boonhaak : 10 points (c'est-à-dire que cela aboutit à gagner ou perdre la partie).
 
-- In Boonhaak and Open Boonhaak, the declarer is not allowed to take the centre cards. [Open Boonhaak is presumably a bid in which declarer must win all five tricks with exposed cards.]
+- Au Boonhaak et Open Boonhaak, le déclarant n'est pas autorisé à prendre les cartes du centre. [Open Boonhaak est probablement une enchère dans laquelle le déclarant doit gagner les cinq plis avec des cartes exposées.]
 
-## Other Boonaken Web Sites
+## Autres sites Boonaken
 
-The [Netherlands Open Bonaken Championship](https://bonaken.nl) is held annually at the Café Keizer in Leimuiden.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Boonaken
+Les [Championnats ouverts des Pays-Bas de Bonaken](https://bonaken.nl) se tiennent annuellement au Café Keizer à Leimuiden.

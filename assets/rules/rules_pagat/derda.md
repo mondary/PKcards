@@ -2,198 +2,196 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A two-player Polish card game similar to Clobyosh that was popular during the communist era.
+**But :** Jeu de cartes polonais à deux joueurs, similaire au Clobyosh, qui était populaire pendant l'ère communiste.
 
 ---
 
 ## Introduction
 
-Derda is a two-player jass game which was once popular in Poland, particularly among *cinkciarze* (illicit currency traders), gamblers and other denizens of the underworld, and as such it was generally played for money. Its peak popularity was during the communist era of Poland. At first it was mostly played in Łódź and Warsaw, but by 1960 it had spread to the whole of Poland. It was featured in the movie *Sztos* (1997), and Zienkiewicz’s book is a story revolving around derda as a game of the underworld. It is closely related to Clobyosh.
+Derda est un jeu de Jass à deux joueurs autrefois populaire en Pologne, particulièrement parmi les *cinkciarze* (changeurs de devises illicites), les joueurs et autres fréquentateurs du milieu, et était donc généralement joué pour de l'argent. Sa popularité maximale s'est située pendant l'ère communiste en Pologne. Au début, il était surtout joué à Łódź et Varsovie, mais vers 1960 il s'était répandu dans toute la Pologne. Il est apparu dans le film *Sztos* (1997), et le livre de Zienkiewicz est une histoire centrée sur derda comme jeu du milieu. Il est étroitement apparenté au Clobyosh.
 
-Nowadays Derda is largely forgotten and only a handful of enthusiasts keep it alive (or at least remember the rules), including notably Ryszard Zienkiewicz. This page is based on information from Ryszard Zienkiewicz’s book „Derda” (Gorzów Wielkopolski 2020) and a 1994 article from Gazeta Stołeczna, “Derda dla Dwojga”, the author of the aforementioned book, contributed by Jakub "JayJay" Kowalski.
+De nos jours, Derda est largement oublié et seul une poignée de passionnés le maintient en vie (ou du moins s'en souviennent des règles), dont notamment Ryszard Zienkiewicz. Cette page est basée sur les informations du livre « Derda » de Ryszard Zienkiewicz (Gorzów Wielkopolski 2020) et un article de 1994 de Gazeta Stołeczna, « Derda dla Dwojga », de l'auteur du livre susmentionné, contribué par Jakub « JayJay » Kowalski.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Two play using a 32-card French suited pack, the cards being A K Q J 10 9 8 7 in each of the four suits. The dealer's opponent has priority, being the first to receive cards in the deal, the first to bid and the first to play in the first trick of the deal.
+Deux joueurs jouent avec un jeu de 32 cartes aux enseignes françaises, les cartes étant A R D V 10 9 8 7 dans chacune des quatre couleurs. L'adversaire du donneur a la priorité, étant le premier à recevoir des cartes lors de la distribution, le premier à enchérir et le premier à jouer au premier pli de la donne.
 
-The card rankings are typical for a jass game:
+L'ordre des cartes est typique d'un jeu de Jass :
 
-- **Trumps **rank from high to low: Jack, 9 (called *minela*), A, 10, K, Q, 8, 7.
+- Les **atouts** se classent du plus haut au plus bas : Valet, 9 (appelé *minela*), A, 10, R, D, 8, 7.
 
-- **Plain suits** rank from high to low: A, 10, K, Q, J, 9, 8, 7.
+- Les **couleurs simples** se classent du plus haut au plus bas : A, 10, R, D, V, 9, 8, 7.
 
-- For the purpose of forming **sequences** the cards rank from high to low: A, K, Q, J, 10, 9, 8, 7. This ranking is also called the “derda ranking”.
+- Pour la formation des **séquences**, les cartes se classent du plus haut au plus bas : A, R, D, V, 10, 9, 8, 7. Cet ordre est aussi appelé « ordre derda ».
 
-The cards also have point values:
+Les cartes ont aussi des valeurs en points :
 
-- **Ace** – 11 points
+- **As** – 11 points
 
 - **10** – 10 points
 
-- **King** – 4 points
+- **Roi** – 4 points
 
-- **Queen** – 3 points
+- **Dame** – 3 points
 
-- **Jack** – 2 points
+- **Valet** – 2 points
 
-the remaining cards (9s 8s and 7s) are worth no points at all.
+Les cartes restantes (9, 8 et 7) ne valent aucun point.
 
-The objective is to be the first to achieve a cumulative score of 500 points over as many deals as it takes. Points are scored for cards taken in tricks and also for bonuses - see below. Score is kept by one of the two players and using a special notation, described below.
+L'objectif est d'être le premier à atteindre un score cumulé de 500 points sur autant de donnes que nécessaire. Les points sont marqués pour les cartes prises dans les plis et aussi pour les bonus — voir ci-dessous. Le score est tenu par l'un des deux joueurs en utilisant une notation spéciale, décrite ci-dessous.
 
-## Bonuses
+## Bonus
 
-Bonuses are also called “**words**” (*słowa*), because most of them have an associated jargon word to describe them. These points are counted when tallying up points for the hand at the end of the play.
+Les bonus sont aussi appelés « **mots** » (*słowa*), car la plupart ont un mot d'argot associé pour les décrire. Ces points sont comptés lors du décompte des points de la donne à la fin du jeu.
 
-- ** Trump Jack **– 20 points
+- **Valet d'atout** – 20 points
 
-- ** Minela – **trump 9 – 14 points
+- **Minela** – neuf d'atout – 14 points
 
-- **Derda** – holding and declaring a sequence of three consecutive cards in one suit – 20 points
+- **Derda** – détenir et déclarer une séquence de trois cartes consécutives dans une même couleur – 20 points
 
-- ** 50** or fuf – as derda, except with four consecutive cards – 50 points
+- **50** ou fuf – comme derda, mais avec quatre cartes consécutives – 50 points
 
-- **Belo** or bello – holding and declaring the King and Queen of trumps – 20 points
+- **Belo** ou bello – détenir et déclarer le Roi et la Dame d'atout – 20 points
 
-- **Sztoch** – winning the last trick – 10 points
+- **Sztoch** – gagner le dernier pli – 10 points
 
-The trump jack and *minela* are scored by the player who took the trick containing them and *sztoch* is scored by the winner of the last trick. Note that, unusually for a jass game, the trump jack scores both as a regular jack (2 points) and as a word (20 points), meaning that it scores twice for a total of 22 points.
+Le valet d'atout et la *minela* sont marqués par le joueur qui a pris le pli les contenant, et le *sztoch* est marqué par le gagnant du dernier pli. Notez que, de manière inhabituelle pour un jeu de Jass, le valet d'atout compte à la fois comme un valet normal (2 points) et comme un mot (20 points), ce qui signifie qu'il compte deux fois pour un total de 22 points.
 
-Derda and 50 are scored only by the player that has the best sequence (see: Play).
+Derda et 50 ne sont marqués que par le joueur qui a la meilleure séquence (voir : Jeu).
 
-## Deal and Bidding
+## Distribution et enchères
 
-The first dealer is normally chosen by drawing cards. The pack is shuffled and whoever draws the higher card in trump order is the first dealer (if equal ranked cards are drawn the draw is repeated). Players may agree to use a different ranking order if they prefer, for example it was also common to use the sequence order when choosing the first dealer.
+Le premier donneur est normalement choisi par tirage de cartes. Le jeu est mélangé et celui qui tire la carte la plus haute dans l'ordre d'atout est le premier donneur (si des cartes de même rang sont tirées, on tire à nouveau). Les joueurs peuvent convenir d'utiliser un ordre différent s'ils préfèrent ; par exemple, il était aussi courant d'utiliser l'ordre des séquences pour choisir le premier donneur.
 
-Normally the winner of each hand deals the next hand. If there is no winner, either because the hand is passed out or because there is a *sztajnbajt* (tie), the deal passes to the previous dealer's opponent. Sometimes the deal may stay with the previous dealer as a result of a “commercial offer”, as described later.
+Normalement, le gagnant de chaque donne distribue la suivante. S'il n'y a pas de gagnant, soit parce que la donne a été passée, soit parce qu'il y a un *sztajnbajt* (égalité), la distribution passe à l'adversaire du donneur précédent. Parfois, la distribution peut rester au donneur précédent à la suite d'une « offre commerciale », comme décrit plus loin.
 
-The deal is in two parts, between which there are one or two rounds of bidding to choose the trump suit. The player who chooses trumps commits themselves to score more points for the hand than their opponent. As soon as a player chooses trumps the bidding ends.
+La distribution se fait en deux parties, entre lesquelles il y a un ou deux tours d'enchères pour choisir la couleur d'atout. Le joueur qui choisit les atouts s'engage à marquer plus de points pour la donne que son adversaire. Dès qu'un joueur choisit les atouts, les enchères se terminent.
 
-### First part of the deal
+### Première partie de la distribution
 
-The dealer deals six cards to each player in packets of three, starting with non-dealer. The 13th card is turned up for the suggested trump suit, and the remaining cards are stacked crosswise on top of the the turned-up card so that half of the turn-up is visible.
+Le donneur distribue six cartes à chaque joueur par paquets de trois, en commençant par le non-donneur. La 13e carte est retournée pour proposer la couleur d'atout, et les cartes restantes sont empilées en croix sur la carte retournée de sorte que la moitié de la carte retournée soit visible.
 
-### First round of bidding
+### Premier tour d'enchères
 
-In the first round of bidding only the suggested trump suit can be chosen. The non-dealer must say either "play" to choose the suggested suit as trumps or "pass". If the non-dealer passes the dealer has three options:
+Au premier tour d'enchères, seule la couleur d'atout proposée peut être choisie. Le non-donneur doit dire soit « je joue » pour choisir la couleur proposée comme atout, soit « je passe ». Si le non-donneur passe, le donneur a trois options :
 
-- to say "**I play**", choosing the suggested suit as trumps,
+- dire « **je joue** », en choisissant la couleur proposée comme atout,
 
-- to say "**pass**", rejecting the suggested suit as trumps, in which case there will be a second round of bidding,
+- dire « **je passe** », en rejetant la couleur proposée comme atout, auquel cas il y aura un deuxième tour d'enchères,
 
-- to ask the non-dealer "**how many times?**" (are you passing), offering to choose the selected trump suit if the dealer passes a second time. The dealer must respond either "**once**" or "**twice**". If the answer is "once" the dealer must play with the suggested trump suit. If the answer is "twice" the cards are thrown in for no score and a new hand is dealt by the previous non-dealer.
+- demander au non-donneur « **combien de fois ?** », en offrant de choisir la couleur d'atout sélectionnée si le donneur passe une deuxième fois. Le donneur doit répondre soit « **une fois** » soit « **deux fois** ». Si la réponse est « une fois », le donneur doit jouer avec la couleur d'atout proposée. Si la réponse est « deux fois », les cartes sont jetées sans score et une nouvelle donne est distribuée par le précédent non-donneur.
 
-Option 3 is equivalent to the "Schmeiss" option in Clobyosh.
+L'option 3 est équivalente à l'option « Schmeiss » au Clobyosh.
 
-### Second round of bidding
+### Deuxième tour d'enchères
 
-If both players pass in the first round of bidding, there is a second round in which only a trump suit different from the suggested suit can be chosen.
+Si les deux joueurs passent au premier tour d'enchères, il y a un deuxième tour dans lequel seule une couleur d'atout différente de la couleur proposée peut être choisie.
 
-The non-dealer begins and may either choose and name a trump suit that is not the suit of the turned up card or pass or make a "commercial offer".
+Le non-donneur commence et peut soit choisir et nommer une couleur d'atout qui n'est pas la couleur de la carte retournée, soit passer, soit faire une « offre commerciale ».
 
-If the non-dealer passes the dealer must either pass or choose a trump suit different from the suit of the turned up card.
+Si le non-donneur passe, le donneur doit soit passer soit choisir une couleur d'atout différente de la couleur de la carte retournée.
 
-If both players pass, the cards are thrown in for no score and a new hand is dealt by the previous non-dealer.
+Si les deux joueurs passent, les cartes sont jetées sans score et une nouvelle donne est distribuée par le précédent non-donneur.
 
-A "commercial offer" by the non-dealer is an offer to throw in the hand in exchange for some form of advantage, consisting normally of a number of points scored and/or "cards" which means that the same player must deal again. The dealer may accept the offer, refuse it or negotiate by making a counter-proposal. If the dealer accepts, the terms of the offer are implemented, the cards are thrown in and there is a new deal; if the dealer refuses or the players fail to reach an agreement the non dealer must choose a trump suit different from the turned up card and play. For example the non-dealer might offer "20 and cards" to which the dealer might reply "15 and cards". If the non-dealer accepts this, the cards are thrown in, the non-dealer scores 15 points and there is a new deal in which the same player deals again. If the agreed terms were just a number of points without "cards" the non-dealer would score these points and become the dealer for the next hand.
+Une « offre commerciale » du non-donneur est une offre de jeter la donne en échange d'un certain avantage, consistant normalement en un nombre de points marqués et/ou « cartes », ce qui signifie que le même joueur doit redistribuer. Le donneur peut accepter l'offre, la refuser ou négocier en faisant une contre-proposition. Si le donneur accepte, les termes de l'offre sont appliqués, les cartes sont jetées et il y a une nouvelle distribution ; si le donneur refuse ou si les joueurs n'arrivent pas à un accord, le non-donneur doit choisir une couleur d'atout différente de la carte retournée et jouer. Par exemple, le non-donneur pourrait offrir « 20 et cartes » auquel le donneur pourrait répondre « 15 et cartes ». Si le non-donneur accepte, les cartes sont jetées, le non-donneur marque 15 points et il y a une nouvelle distribution dans laquelle le même joueur donne à nouveau. Si les termes convenus étaient juste un nombre de points sans « cartes », le non-donneur marquerait ces points et deviendrait le donneur pour la donne suivante.
 
-### Second part of the deal
+### Deuxième partie de la distribution
 
-If a trump suit has been chosen, the dealer completes the deal by giving each player another packet of 3 cards from the undealt portion of the pack, and again laying the remainder of the cards crosswise on top of the turned up card. The top card of the remainder is turned face up and placed on top of the stack of cards. This card takes no part in the play - it just provides information to the players that this card is not in play.
+Si une couleur d'atout a été choisie, le donneur complète la distribution en donnant à chaque joueur une autre série de 3 cartes de la partie non distribuée du jeu, et en posant à nouveau le reste des cartes en croix sur la carte retournée. La carte du dessus du reste est retournée face visible et placée sur la pile de cartes. Cette carte ne participe pas au jeu — elle fournit simplement l'information aux joueurs que cette carte n'est pas en jeu.
 
-So the players now have 9 cards each and in the centre of the table there is a face up card on top of which is a stack of 13 cards laying across it with its top card face up.
+Les joueurs ont maintenant 9 cartes chacun et au centre de la table se trouve une carte face visible sur laquelle est posée une pile de 13 cartes en travers, avec sa carte du dessus face visible.
 
-## Play
+## Jeu
 
-Before the lead to the first trick, if the suggested suit was chosen as trumps and a player holds the 7 of trumps, they may exchange this 7 for the face up trump indicator card, taking the original indicator card into their hand and leaving the 7 on the table in its place. A player may choose not to exchange the 7 of trumps, for example if that 7 can be used to complete a sequence (derda or 50).
+Avant la première carte du premier pli, si la couleur proposée a été choisie comme atout et qu'un joueur détient le 7 d'atout, il peut échanger ce 7 contre la carte indicatrice d'atout face visible, en prenant la carte indicatrice originale dans sa main et en laissant le 7 sur la table à sa place. Un joueur peut choisir de ne pas échanger le 7 d'atout, par exemple si ce 7 peut être utilisé pour compléter une séquence (derda ou 50).
 
-The non-dealer leads to the first trick and thereafter the winner of each trick leads to the next.
+Le non-donneur mène au premier pli et ensuite le gagnant de chaque pli mène au suivant.
 
-- **If a trump is led** the opponent must play a higher trump if they have one. If unable to beat the trump led they must play a lower trump if possible. If they have no trumps at all they may play any non-trump card.
+- **Si un atout est mené**, l'adversaire doit jouer un atout supérieur s'il en a un. S'il est incapable de battre l'atout mené, il doit jouer un atout inférieur si possible. S'il n'a pas d'atout du tout, il peut jouer n'importe quelle carte non-atout.
 
-- **If a non-trump is led** the opponent must follow suit if possible, but is not obliged to beat the card that was led. If the opponent has no card of the suit that was led they must play a trump. Having no trumps and no cards of the suit led they may play any card.
+- **Si une non-atout est menée**, l'adversaire doit suivre s'il le peut, mais n'est pas obligé de battre la carte qui a été menée. Si l'adversaire n'a pas de carte de la couleur menée, il doit jouer un atout. N'ayant ni atout ni carte de la couleur menée, il peut jouer n'importe quelle carte.
 
-In either case, the trick is taken by the highest trump played, or the highest card of the suit led if no trumps have been played to the trick.
+Dans les deux cas, le pli est remporté par le plus haut atout joué, ou par la carte la plus haute de la couleur menée si aucun atout n'a été joué.
 
-In order to score the bonus for a sequence of 3 or 4 cards the player must declare it** **when they play their card to the first trick. The principle is that the player with the highest sequence scores for all their sequences and the opponent scores nothing for any sequence they hold. The highest sequence is determined as follows:
+Pour marquer le bonus d'une séquence de 3 ou 4 cartes, le joueur doit la déclarer lorsqu'il joue sa carte au premier pli. Le principe est que le joueur avec la séquence la plus haute marque pour toutes ses séquences et l'adversaire ne marque rien pour les séquences qu'il détient. La séquence la plus haute est déterminée comme suit :
 
-- a 50 beats a derda.
+- un 50 bat un derda.
 
-- If both players have a meld of the same length, the meld with the higher ranking highest card wins. 
+- Si les deux joueurs ont une combinaison de même longueur, celle avec la carte la plus haute gagne.
 
-- If the highest card doesn’t break the tie, the non-dealer's meld wins. 
+- Si la carte la plus haute ne départage pas, la combinaison du non-donneur gagne.
 
-Note that in Derda, unlike Clobyosh, a trump sequence does **not** beat a non-trump sequence of the same rank and length. If the dealer has J-10-9 of trumps and the non-dealer has J-10-9 of another suit, the non-dealer's derda wins.
+Notez qu'au Derda, contrairement au Clobyosh, une séquence d'atout ne bat **pas** une séquence non-atout de même rang et même longueur. Si le donneur a V-10-9 d'atout et que le non-donneur a V-10-9 d'une autre couleur, le derda du non-donneur gagne.
 
-To declare a sequence, the player simply says “derda” or “50”. If they hold more than one sequence, they only name the highest sequence they hold (e.g. if a player holds a 50 and a derda, they declare “50”). 
+Pour déclarer une séquence, le joueur dit simplement « derda » ou « 50 ». S'il détient plus d'une séquence, il ne nomme que la séquence la plus haute qu'il détient (par exemple, si un joueur détient un 50 et un derda, il déclare « 50 »).
 
-If the non-dealer declares a sequence, the dealer responds “good” if they don’t want to declare a sequence of their own that could be better than the one that was declared, or "not good" if they want to declare a sequence that is definitely better (a 50 against non-dealer's derda). 
+Si le non-donneur déclare une séquence, le donneur répond « bon » s'il ne veut pas déclarer une séquence qui pourrait être meilleure, ou « pas bon » s'il veut déclarer une séquence qui est définitivement meilleure (un 50 contre le derda du non-donneur).
 
-If the dealer wants to declare the same type of sequence is the non-dealer, the dealer asks “how high?” and non-dealer names the highest card in their sequence. For example an AKQ derda wins against the opponent's KQJ as its highest card (A) is higher than the opponent's highest card (K). 
+Si le donneur veut déclarer le même type de séquence que le non-donneur, le donneur demande « jusqu'où ? » et le non-donneur nomme la carte la plus haute de sa séquence. Par exemple, un derda ARD gagne contre l'ARDV de l'adversaire car sa carte la plus haute (A) est supérieure à la carte la plus haute de l'adversaire (R).
 
-Once the holder of the best sequence has been determined, this player can also declare any other sequences they hold. Their opponent may require this player to show all their declared sequences immediately or before the lead to the second trick. 
+Une fois le détenteur de la meilleure séquence déterminé, ce joueur peut aussi déclarer toute autre séquence qu'il détient. Son adversaire peut exiger que ce joueur montre toutes ses séquences déclarées immédiatement ou avant de mener au deuxième pli.
 
-**Belo** is declared and scored during the play of cards, when showing the declared melds or when playing cards to the last trick. When a player shows a derda/50 that contains a belo (e.g. KQJ), plays either card of the belo to a trick, or plays their final card having held a belo, they say “belo”.
+**Belo** est déclaré et marqué pendant le jeu des cartes, lors de la présentation des combinaisons déclarées ou lors de la joue des cartes au dernier pli. Lorsqu'un joueur montre un derda/50 qui contient un belo (par exemple R-D-V), joue l'une ou l'autre carte du belo à un pli, ou joue sa dernière carte en ayant détenu un belo, il dit « belo ».
 
-The player who takes the last trick automatically gets 10 points for *sztoch*.
+Le joueur qui prend le dernier pli reçoit automatiquement 10 points pour le *sztoch*.
 
-## Scoring
+## Décompte
 
-Once all nine tricks have been played, both players count their points, starting with “words” (bonus points for declared sequences and bello, top trumps and the last trick), then card points. Remember that the trump jack is counted twice: once as a word and once as a 2-point card.
+Une fois les neuf plis joués, les deux joueurs comptent leurs points, en commençant par les « mots » (points bonus pour les séquences et le belo, les atouts supérieurs et le dernier pli), puis les points des cartes. Rappelez-vous que le valet d'atout est compté deux fois : une fois comme un mot et une fois comme une carte de 2 points.
 
-- If the declarer got more points than the opponent, both players score what they took and the declarer becomes the next dealer.
+- Si le déclarant a obtenu plus de points que l'adversaire, les deux joueurs marquent ce qu'ils ont pris et le déclarant devient le prochain donneur.
 
-- If the defender got more points than the declarer, that’s called a *bajt* (pronounced like English “bite”; equivalent to bate, bête). In that case, the defender scores all the points - both the points they took and all points made by the declarer - while the declarer scores nothing. The defender becomes the next dealer.
+- Si le défenseur a obtenu plus de points que le déclarant, cela s'appelle un *bajt* (prononcé comme l'anglais « bite » ; équivalent à bate, bête). Dans ce cas, le défenseur marque tous les points — les points qu'il a pris et tous les points réalisés par le déclarant — tandis que le déclarant ne marque rien. Le défenseur devient le prochain donneur.
 
-- If the players tie with equal numbers or points, that’s called a *sztajnbajt* (pronounced “shtine-bite”). In that case the defender scores the points they made but the declarer’s points are held in abeyance, and are awarded to the winner of the next played-out deal. The defender becomes the next dealer.
+- Si les joueurs sont à égalité, cela s'appelle un *sztajnbajt* (prononcé « shtine-bite »). Dans ce cas, le défenseur marque les points qu'il a réalisés mais les points du déclarant sont mis en attente, et sont attribués au gagnant de la prochaine donne jouée. Le défenseur devient le prochain donneur.
 
-The game is won by the first player whose score reaches a total of 500 or more points over as many deals as it takes. If at the end of a deal it turns out that both players have 500 or more points the declarer of the final hand wins the game, regardless of who ended with more points above the target score. 
+Le jeu est gagné par le premier joueur dont le score atteint un total de 500 points ou plus sur autant de donnes que nécessaire. Si à la fin d'une donne il s'avère que les deux joueurs ont 500 points ou plus, le déclarant de la dernière donne gagne la partie, indépendamment de celui qui a fini avec le plus de points au-dessus du score cible.
 
-A player who, counting points in their head, believes they have reached the target score of 500 after winning a trick may say “enough” and end the game early. They can count all the cards in tricks they have won so far, and also their successfully declared sequences and *belo* if held. If they are right in thinking that they have at least 500 they win the game - even in the case of a declarer who would have lost their points in a *bajt* or *sztajnbajt* had the play continued to the end. If a player says "enough" when they do not have as many as 500 points, their opponent wins the game irrespective of the scores.
+Un joueur qui, en comptant les points dans sa tête, croit avoir atteint le score cible de 500 après avoir gagné un pli peut dire « assez » et terminer la partie prématurément. Il peut compter toutes les cartes dans les plis qu'il a gagnés jusqu'à présent, et aussi ses séquences déclarées et son *belo* s'il en détient un. S'il a raison de penser qu'il a au moins 500, il gagne la partie — même dans le cas d'un déclarant qui aurait perdu ses points dans un *bajt* ou *sztajnbajt* si le jeu avait continué jusqu'à la fin. Si un joueur dit « assez » alors qu'il n'a pas au moins 500 points, son adversaire gagne la partie indépendamment des scores.
 
-A player is only allowed to say "enough" after winning a trick. A player cannot win the game on a deal in which they took no tricks at all, even if they successfully declared sequences with enough value to take them over 500. If a player who takes no tricks achieves a total score of more than 500 by means of words alone (sequences and/or belo) and the other player, who won all the tricks, does not reach 500, there is no score and the deal must be replayed. This also applies in the case where the defender's words alone were enough to make the declarer *bajt* and the declarer did not say "enough" before the last trick. 
+Un joueur n'est autorisé à dire « assez » qu'après avoir gagné un pli. Un joueur ne peut pas gagner la partie lors d'une donne où il n'a pris aucun pli, même s'il a déclaré des séquences d'une valeur suffisante pour le faire dépasser 500. Si un joueur qui ne prend aucun pli atteint un score total de plus de 500 uniquement par ses mots (séquences et/ou belo) et que l'autre joueur, qui a gagné tous les plis, n'atteint pas 500, il n'y a pas de score et la donne doit être rejouée. Cela s'applique aussi au cas où les mots du défenseur seuls suffisaient à faire un *bajt* au déclarant et que le déclarant n'a pas dit « assez » avant le dernier pli.
 
-### Derda Notation
+### Notation derda
 
-The score is kept by one player, using a system of digits and tallies, similar to those used at Tartli or Klaverjassen:
+Le score est tenu par un joueur, en utilisant un système de chiffres et de marques, similaires à ceux utilisés au Tartli ou au Klaverjassen :
 
-- 10 is a horizontal line along the baseline “_”.
+- 10 est une ligne horizontale le long de la ligne de base « _ ».
 
-- 20 is a vertical line “|”.
+- 20 est une ligne verticale « | ».
 
-- 30 is written as a combination of 10 and 20, which results in an “L” shape.
+- 30 s'écrit comme une combinaison de 10 et 20, ce qui donne une forme « L ».
 
-- 50 is written as a shape with an open top – V-shaped if written in one go, or as a square-bottomed U if constructed from previous 20s and/or 10s.
+- 50 s'écrit comme une forme ouverte en haut — en V si écrit d'un trait, ou en U à fond carré si construit à partir de 20 et/ou 10 précédents.
 
-- 80 is written as a shape with an open bottom, same as 50 but flipped upside down.
+- 80 s'écrit comme une forme ouverte en bas, identique à 50 mais retournée.
 
-- 100 is written as a full shape – O-shaped if written in one go, triangular if constructed from a 50 or 80, or square if constructed from a square shape or from previous 20s and/or 10s.
+- 100 s'écrit comme une forme fermée — en O si écrit d'un trait, triangulaire si construit à partir d'un 50 ou 80, ou carrée si construite à partir d'une forme carrée ou de 20 et/ou 10 précédents.
 
-![derda scoring symbols](../images/jass/derda scoring 1.png)
+![notation derda](../images/jass/derda scoring 1.png)
 
-Units are written with Arabic numerals under the shapes.
+Les unités s'écrivent avec des chiffres arabes sous les formes.
 
-The units will accumulate over the course of the game, so it’s convenient to convert them into shapes every few hands. For example, let’s say that across three deals one player got 5, 7 and 9 units under their shapes. The sum of these numbers is 21 – the scorekeeper might want to simplify the notation by writing the 20 as a vertical line and the remaining 1 as a number under the shapes.
+Les unités s'accumulent au cours de la partie, il est donc pratique de les convertir en formes toutes les quelques donnes. Par exemple, disons que sur trois donnes un joueur a obtenu 5, 7 et 9 unités sous ses formes. La somme de ces nombres est 21 — le compteur pourrait vouloir simplifier la notation en écrivant le 20 comme une ligne verticale et le 1 restant comme un chiffre sous les formes.
 
-Sometimes it might also be more convenient to use negative numbers for the units. For example, in the first hand one player got only 18 points. The scorekeeper might consider writing it as a horizontal line (10) with an 8 below to be awkward notation, so they might opt to write it as a vertical line (20) and -2 below. But in the end, the exact manner in which these shapes and tallies are used is up to the scorekeeper.
+Parfois, il peut aussi être plus pratique d'utiliser des nombres négatifs pour les unités. Par exemple, dans la première donne un joueur n'a obtenu que 18 points. Le compteur pourrait trouver malaisant d'écrire cela comme une ligne horizontale (10) avec un 8 dessous, et pourrait opter pour l'écrire comme une ligne verticale (20) avec -2 dessous. Mais au final, la manière exacte dont ces formes et marques sont utilisées est laissée à l'appréciation du compteur.
 
-Example of the notation in a finished game of derda: 
+Exemple de la notation dans une partie de derda terminée :
 
-![derda scoring example](../images/jass/derda scoring 2.png)
+![exemple de notation derda](../images/jass/derda scoring 2.png)
 
-The player on the left has five full shapes, meaning 500 points, and the 5 underneath denotes 5 units, total of 505 points. Player on the right only has three full shapes, three vertical lines and a total of 7 units underneath, totalling at 367 points.
+Le joueur de gauche a cinq formes complètes, soit 500 points, et le 5 en dessous indique 5 unités, pour un total de 505 points. Le joueur de droite n'a que trois formes complètes, trois lignes verticales et un total de 7 unités en dessous, pour un total de 367 points.
 
-## Variations
+## Variantes
 
-The target score, confusingly sometimes called “derda”, which is also the name of the 3-card sequence and of the whole game, is usually set at 500 points. However players may agree on a lower or or higher target for a shorter or longer game.
+Le score cible, confusingment parfois appelé « derda » — qui est aussi le nom de la séquence de 3 cartes et du jeu entier — est généralement fixé à 500 points. Cependant, les joueurs peuvent convenir d'un objectif plus bas ou plus élevé pour une partie plus courte ou plus longue.
 
-## Comments and Uncertainties
+## Commentaires et incertitudes
 
-Zienkiewicz’s rule about the case in which a player achieves 500 points by words alone is a little hard to understand. He writes (in translation):
+La règle de Zienkiewicz concernant le cas où un joueur atteint 500 points uniquement par ses mots est un peu difficile à comprendre. Il écrit (en traduction) :
 
-"Points for declaring a *derda*, 50 or *belo*, which are enough to finish the *derda* *[collecting 500 points.]* require having taken a trick in order to count. Without taking a trick, one cannot win the game, even if the amount of points for words is enough to *bajt* the opponent. In that case the deal must be redone."
+« Les points pour la déclaration d'un *derda*, 50 ou *belo*, qui sont suffisants pour terminer le *derda* [atteindre 500 points], nécessitent d'avoir pris un pli pour compter. Sans prendre un pli, on ne peut pas gagner la partie, même si le nombre de points pour les mots suffit à faire un *bajt* à l'adversaire. Dans ce cas, la donne doit être rejouée. »
 
-We have interpreted this to imply that it *is* possible to score points for words without taking a trick provided that they do not take the player above 500. It is only in endgame situations where scoring in the normal way would cause a player to win the whole game despite winning no tricks in the final deal that the cards have to be redealt. 
+Nous avons interprété cela comme impliquant qu'il est possible de marquer des points pour les mots sans prendre un pli, à condition que cela ne fasse pas passer le joueur au-dessus de 500. Ce n'est que dans les situations de fin de partie, où le décompte normal ferait gagner à un joueur toute la partie malgré l'absence de pli gagné dans la dernière donne, que les cartes doivent être redistribuées.
 
-An alternative interepretation could be that words can *never* be scored by a player who takes no trick. This would be a viable rule, and it is found in some other jass games, but if this were the rule there would seem to be no justification for replaying the deal if the trickless defender had enough in words to *bajt* the declarer - it would be more natural to say that since word points do not count without a trick, the declarer simply wins in this case, scoring for all the cards taken.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Derda
+Une interprétation alternative pourrait être que les mots ne peuvent **jamais** être marqués par un joueur qui ne prend aucun pli. Ce serait une règle viable, et on la trouve dans d'autres jeux de Jass, mais si c'était la règle, il n'y aurait pas de justification pour rejouer la donne si le défenseur sans pli avait assez en mots pour faire un *bajt* au déclarant — il serait plus naturel de dire que puisque les points des mots ne comptent pas sans pli, le déclarant gagne simplement dans ce cas, en marquant pour toutes les cartes prises.

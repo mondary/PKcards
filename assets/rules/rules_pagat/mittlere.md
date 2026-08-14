@@ -2,111 +2,109 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** Molotow and Plus-Minus Jass, Swiss card games in which the aim is to avoid taking more than 100 points, and to avoid having the middle score.
+**But :** Jeux de cartes suisses (Molotow et Plus-Minus Jass) dont le but est d'éviter de prendre plus de 100 points et d'éviter le score intermédiaire.
 
 ---
 
-*The description of Mittlere Jass was contributed by Nick Wedd*
+*La description du Mittlere Jass a été contribuée par Nick Wedd*
 
 ## Mittlere Jass
 
-Mittlere is an unusual Swiss Jass game for three players. It is a point trick game, with the basic object of each hand being to avoid ending up with the middle score.
+Le Mittlere est un jeu de Jass suisse inhabituel pour trois joueurs. C'est un jeu de plis à points, dont le but de chaque main est d'éviter de se retrouver avec le score intermédiaire.
 
-### Players and Cards
+### Joueurs et cartes
 
-Mittlere is played with a 36-card jass pack. There are four suits: acorns, shields, flowers, and bells. In each suit, there are nine cards: ace (or sow), king, ober, under, banner, 9, 8, 7, 6. If you cannot obtain such a pack, you can play it with a bridge or poker pack, using queens for obers, jacks for unders, 10s for banners, and discarding cards smaller than 6s. 
+Le Mittlere se joue avec un jeu de Jass de 36 cartes. Il y a quatre couleurs : glands, boucliers, fleurs et cloches. Dans chaque couleur, il y a neuf cartes : as (ou gerbe), roi, ober, under, bannière, 9, 8, 7, 6. Si vous ne pouvez pas obtenir un tel jeu, vous pouvez y jouer avec un jeu de bridge ou de poker, en utilisant les dames pour les obers, les valets pour les unders, les 10 pour les bannières, et en écartant les cartes inférieures au 6.
 
-The rank of the cards (followed by their point values in brackets) within each suit is:
-**Ace**(11), **King**(4), **Ober**(3), **Under**(2), **Banner**(10), **9**(0), **8**(0), **7**(0), **6**(0).
+L'ordre des cartes (suivi de leur valeur en points entre parenthèses) dans chaque couleur est :
+**As**(11), **Roi**(4), **Ober**(3), **Under**(2), **Bannière**(10), **9**(0), **8**(0), **7**(0), **6**(0).
 
-However the rank within the trump suit is: 
-**Under**(20), **9**(14), **Ace**(11), **King**(4), **Ober**(3), **Banner**(10), **8**(0), **7**(0), **6**(0).
-These points count to the player winning the trick containing the card. There is also a bonus of 5 points to the player winning the last trick. Thus there is a total of 157 points in the pack.
+Cependant, l'ordre dans la couleur d'atout est :
+**Under**(20), **9**(14), **As**(11), **Roi**(4), **Ober**(3), **Bannière**(10), **8**(0), **7**(0), **6**(0).
+Ces points comptent pour le joueur qui remporte le pli contenant la carte. Il y a aussi un bonus de 5 points pour le joueur qui remporte le dernier pli. Il y a donc un total de 157 points dans le jeu.
 
-### The Deal and Play
+### La donne et le jeu
 
-The deal, and the play, are anticlockwise. The dealer deals all the cards out, in threes, starting with the player on his right. After each hand the deal rotates to the right. A game consists of twelve hands, so each player eventually deals four times.
+La donne et le jeu se font dans le sens inverse des aiguilles d'une montre. Le donneur distribue toutes les cartes, par trois, en commençant par le joueur à sa droite. Après chaque main, la donne passe à droite. Une partie consiste en douze mains, donc chaque joueur donne quatre fois.
 
-The play is in tricks. The player to dealer's right leads to the first trick, and thereafter the winner of each trick leads to the next. The other players are obliged to follow suit. Eventually, a player will be unable to follow suit, having no cards in the suit led: then, that player may play any card, and the suit of that card becomes trumps for that trick and for the rest of the hand. When the trump suit has been determined, a player who is able to follow suit must either do so or play a trump *[in Swiss Jass games you are allowed to trump even if you have cards in the led suit]*; while a player who cannot follow suit may play any card that she holds. A trick is won by the highest trump in it; or if there were no trumps, by the highest card of the suit led.
+Le jeu se fait en plis. Le joueur à la droite du donneur entame le premier pli, et ensuite le gagnant de chaque pli entame le suivant. Les autres joueurs sont tenus de suivre la couleur demandée. Eventuellement, un joueur sera incapable de suivre la couleur, n'ayant aucune carte de la couleur demandée : dans ce cas, il peut jouer n'importe quelle carte, et la couleur de cette carte devient l'atout pour ce pli et pour le reste de la main. Lorsque la couleur d'atout a été déterminée, un joueur capable de suivre la couleur doit soit le faire, soit jouer un atout *[dans les jeux de Jass suisse, on est autorisé à couper même si on a des cartes de la couleur demandée]* ; tandis qu'un joueur qui ne peut pas suivre la couleur peut jouer n'importe quelle carte qu'il détient. Un pli est remporté par le plus haut atout qu'il contient ; ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée.
 
-If a non-trump is led, and the second player plays a trump, the third player may only player a smaller trump if void in the suit led. If she is not void, she must either follow suit or play a higher trump.
+Si une couleur non-atout est demandée et que le deuxième joueur joue un atout, le troisième joueur ne peut jouer un atout inférieur que s'il n'a pas de carte de la couleur demandée. S'il en a, il doit soit suivre la couleur, soit jouer un atout supérieur.
 
-A player is never compelled to play the Under of trumps (also known as the Puur). If trumps are led, and a player holds no trump other than the Puur, she need not play it but may play any other card.
+Un joueur n'est jamais obligé de jouer l'Under d'atout (aussi appelé le Puur). Si l'atout est demandé et qu'un joueur ne détient pas d'autre atout que le Puur, il n'est pas tenu de le jouer et peut jouer n'importe quelle autre carte.
 
-If all the suits split evenly, there will be no trump suit. In this unlikely case, so that the pack will still add up to 157 points, the 8s are counted as 8 points each.
+Si toutes les couleurs se répartissent équitablement, il n'y aura pas de couleur d'atout. Dans ce cas improbable, pour que le jeu totalise toujours 157 points, les 8 comptent chacun 8 points.
 
-### Scoring
+### Comptage des points
 
-Scoring is by means of sticks (which one tries to win) and potatoes (which one tries to avoid). At the end of a hand, it is scored as follows:
+Le comptage des points se fait au moyen de bâtons (qu'on essaie de gagner) et de pommes de terre (qu'on essaie d'éviter). À la fin d'une main, on compte ainsi :
 
-- If a player wins all the tricks, she receives two sticks and the other two players receive a potato each; otherwise,
+- Si un joueur remporte tous les plis, il reçoit deux bâtons et les deux autres joueurs reçoivent une pomme de terre chacun ; sinon,
 
-- If a player wins no tricks, she receives two potatoes and the other two players receive a stick each; otherwise,
+- Si un joueur ne remporte aucun pli, il reçoit deux pommes de terre et les deux autres joueurs reçoivent un bâton chacun ; sinon,
 
-- If a player wins 100 or more points, she receives two potatoes and the other two players receive a stick each; otherwise,
+- Si un joueur remporte 100 points ou plus, il reçoit deux pommes de terre et les deux autres joueurs reçoivent un bâton chacun ; sinon,
 
-- If two players make the same score, they receive a potato each and the third player receives two sticks; otherwise,
+- Si deux joueurs ont le même score, ils reçoivent une pomme de terre chacun et le troisième joueur reçoit deux bâtons ; sinon,
 
-- The player with the intermediate score receives two potatoes and the other two players receive a stick each.
+- Le joueur avec le score intermédiaire reçoit deux pommes de terre et les deux autres joueurs reçoivent un bâton chacun.
 
-On each hand, look down the list until you find something that has happened, and score only for that, not for subsequently listed things. Thus if player A takes 121 points, player B takes 36 points, and player C takes no tricks, then item 2 specifies that player C receives two potatoes and the others receive a stick each. Player A does not get potatoes for taking 100 points. 
+À chaque main, on parcourt la liste jusqu'à trouver quelque chose qui s'est produit, et on ne compte que cela, pas les éléments listés ensuite. Ainsi, si le joueur A prend 121 points, le joueur B prend 36 points et le joueur C ne remporte aucun pli, l'élément 2 spécifie que le joueur C reçoit deux pommes de terre et les autres un bâton chacun. Le joueur A ne reçoit pas de pommes de terre pour avoir pris 100 points.
 
-This shows a scoring slate after four hands have been played. Note that when a player has both sticks and potatoes, they are drawn through one another so as to cancel out. Player A has three sticks and two potatoes for a total of one stick, B has four sticks, and C has six potatoes and one stick for a total of five potatoes.
+Ceci montre une ardoise de score après quatre mains jouées. Notez que lorsqu'un joueur a à la fois des bâtons et des pommes de terre, ils sont barrés l'un par l'autre pour s'annuler. Le joueur A a trois bâtons et deux pommes de terre pour un total d'un bâton, B a quatre bâtons, et C a six pommes de terre et un bâton pour un total de cinq pommes de terre.
 
-## Advice on Play
+## Conseils de jeu
 
-A player who takes from 79 to 99 points is guaranteed a stick, as both the others will have taken fewer points. A player who takes a trick but fewer than 29 points is guaranteed a stick as either an opponent has taken 100 points, or both opponents have taken more points. Thus a player who can ensure his score ending up in one of these ranges should do so.
+Un joueur qui prend entre 79 et 99 points est assuré d'avoir un bâton, car les deux autres auront pris moins de points. Un joueur qui remporte un pli mais moins de 29 points est assuré d'avoir un bâton, car soit un adversaire a pris 100 points, soit les deux adversaires ont pris plus de points. Ainsi, un joueur qui peut s'assurer que son score se situe dans l'une de ces fourchettes devrait le faire.
 
-It is usually good to be the player who chooses trumps. To make this more likely, it is a good idea to start by leading short suits.
+Il est généralement bon d'être le joueur qui choisit l'atout. Pour rendre cela plus probable, il est conseillé de commencer par jouer des couleurs courtes.
 
-Among beginners, the idea of taking a fairly small number of points often looks more attractive than the idea of taking a large number which does not exceed 100. An effect of this is often that two players struggle over which of them is to take fewer points, while the third takes around 80 in comfort.
+Parmi les débutants, l'idée de prendre un nombre relativement faible de points semble souvent plus attractive que de prendre un grand nombre qui ne dépasse pas 100. Un effet fréquent est que deux joueurs luttent pour savoir lequel d'entre eux prendra le moins de points, tandis que le troisième prend environ 80 points tranquillement.
 
-A player who takes no tricks will receive a potato. You should therefore ensure winning a trick on every hand. With a weak hand, it is better to win the trick early; otherwise the other two players may start cooperating to prevent you from winning one.
+Un joueur qui ne remporte aucun pli recevra une pomme de terre. Vous devez donc vous assurer de remporter un pli à chaque main. Avec une main faible, il vaut mieux gagner un pli tôt ; sinon les deux autres joueurs peuvent commencer à coopérer pour vous en empêcher.
 
-The most useful cards to hold are 6s, as they are guaranteed exits (so long as you are sure that there is another card in the suit). Aces are also valuable. Kings and Obers are rather a nuisance. So in leading at the start of a hand, Aces and 6s should be preserved, preferably with another card in the same suit to guard them. A singleton King is often a good lead.
+Les cartes les plus utiles à conserver sont les 6, car ce sont des sorties garanties (tant que vous êtes sûr qu'il y a une autre carte dans la couleur). Les as sont également précieux. Les rois et les obers sont plutôt gênants. Ainsi, en entamant au début d'une main, les as et les 6 devraient être conservés, de préférence avec une autre carte de la même couleur pour les protéger. Un roi singleton est souvent une bonne entame.
 
-The most useful thing to count is trumps; then the points that one has taken; then the cards in the other suits; then the points that the other players have taken. It may seem difficult to count trumps, when you don't know what suit they are; but there is an easy way of doing this. Start by remembering the shape of your hand, 5-4-2-1 say. Then when the first trump appears, compare the cards left in your hand with this initial distribution, and as everyone has followed suit up till now, you will be able to work out how many cards remain in each suit.
+La chose la plus utile à compter est les atouts ; puis les points qu'on a pris ; puis les cartes dans les autres couleurs ; puis les points que les autres joueurs ont pris. Il peut sembler difficile de compter les atouts quand on ne sait pas quelle couleur ils sont, mais il y a un moyen simple de le faire. Commencez par mémoriser la forme de votre main, par exemple 5-4-2-1. Ensuite, lorsque le premier atout apparaît, comparez les cartes restantes dans votre main avec cette distribution initiale, et comme tout le monde a suivi jusque-là, vous pourrez déterminer combien de cartes restent dans chaque couleur.
 
-An early trick may contain an Unter, a 9, or both. If you win such a trick, bear in mind that if that suit becomes trumps, the trick will be worth more than otherwise.
+Un pli précoce peut contenir un Under, un 9, ou les deux. Si vous remportez un tel pli, gardez à l'esprit que si cette couleur devient atout, le pli vaudra plus que d'ordinaire.
 
-It is generally good to win early tricks (even ones containing Unters and 9s) as they allow you to choose the lead. Leading early in the hand is good, as you can preserve your useful cards and get rid of your doubtful ones. Leading late in the hand is generally bad, as your opponents will know what they are trying to do by then, and will trump the tricks that you wanted to win, or duck the ones that you wanted to lose.
+Il est généralement bon de gagner les plis précoces (même ceux contenant des Unters et des 9) car ils vous permettent de choisir l'entame. Entamer tôt dans la main est bon, car vous pouvez conserver vos cartes utiles et vous débarrasser de vos cartes douteuses. Entamer tard dans la main est généralement mauvais, car vos adversaires sauront ce qu'ils essaient de faire à ce moment-là, et ils couperont les plis que vous vouliez gagner, ou se défausseront de ceux que vous vouliez perdre.
 
-The chance that the suits will all split evenly and there will be no trump suit, is so remote that it should be ignored. Do not bother noticing who wins the 8s.
+La probabilité que toutes les couleurs se répartissent équitablement et qu'il n'y ait pas de couleur d'atout est si faible qu'elle peut être ignorée. Ne prenez pas la peine de noter qui gagne les 8.
 
 ## Molotow Jass
 
-This is a game for 4 players, from which Mittlere was derived. Nine cards are dealt to each player and the rules of play are exactly as in Mittlere.
+C'est un jeu pour 4 joueurs, dont le Mittlere est dérivé. Neuf cartes sont distribuées à chaque joueur et les règles de jeu sont exactement les mêmes qu'au Mittlere.
 
-If all four players take different numbers of points all less than 100, the middle two players get a potato each and the players with most and least points score a stick each. There is no penalty for taking no tricks. If the middle two players tie, the result is the same.
+Si les quatre joueurs prennent tous un nombre de points différent et tous inférieurs à 100, les deux joueurs du milieu reçoivent une pomme de terre chacun et les joueurs avec le plus et le moins de points marquent un bâton chacun. Il n'y a pas de pénalité pour ne remporter aucun pli. Si les deux joueurs du milieu sont à égalité, le résultat est le même.
 
-A player who takes at least 100 but less than 157 points scores three potatoes and the other three players get a stick each. 
+Un joueur qui prend au moins 100 mais moins de 157 points marque trois pommes de terre et les trois autres joueurs reçoivent un bâton chacun.
 
-A player who takes 157 points score three sticks and the other three get a potato each. This can conceivably be done without winning all the tricks, if one of the other players wins a trick other than the last with no points in it.
+Un joueur qui prend 157 points marque trois bâtons et les trois autres reçoivent une pomme de terre chacun. Cela peut théoriquement se faire sans remporter tous les plis, si l'un des autres joueurs remporte un pli autre que le dernier sans aucun point.
 
-If all players take less than 100 points and there is a tie between two players, the result is as follows:
+Si tous les joueurs prennent moins de 100 points et qu'il y a une égalité entre deux joueurs, le résultat est le suivant :
 
-- If the tie is for most points, the tieing players do not score, the third player gets a potato, and the player with the lowest score gets a stick.
+- Si l'égalité est pour le plus grand nombre de points, les joueurs à égalité ne marquent pas, le troisième joueur reçoit une pomme de terre, et le joueur avec le score le plus bas reçoit un bâton.
 
-- If the tie is between the middle players they each get a potato and the highest and lowest players get a stick as usual.
+- Si l'égalité est entre les joueurs intermédiaires, ils reçoivent chacun une pomme de terre et les joueurs les plus haut et les plus bas reçoivent un bâton comme d'habitude.
 
-- If the tie is for least points, the player with most points gets a stick, the second player gets a potato, and the tieing players do not score.
+- Si l'égalité est pour le moins de points, le joueur avec le plus de points reçoit un bâton, le deuxième joueur reçoit une pomme de terre, et les joueurs à égalité ne marquent pas.
 
-If all players take less than 100 points and there is a three-way tie, then the player with the odd score scores a stick. The other three players cut cards and whoever draws the highest card gets the potato; the other two players do not score.
+Si tous les joueurs prennent moins de 100 points et qu'il y a une égalité à trois, le joueur avec le score différent marque un bâton. Les trois autres joueurs coupent les cartes et celui qui tire la plus haute reçoit la pomme de terre ; les deux autres ne marquent pas.
 
 ## Plus-Minus Jass
 
-This can be played by 3 or 4 people. The cards are dealt equally and are played as in Mittlere or Molotow. It is played for sticks only - there are no potatoes. The winner is the first player to score 7 sticks. If several players reach 7 in the same hand, the game is continued until there is a clear leader.
+Ce jeu peut se jouer à 3 ou 4 personnes. Les cartes sont distribuées équitablement et se jouent comme au Mittlere ou au Molotow. On ne joue que pour les bâtons — il n'y a pas de pommes de terre. Le gagnant est le premier joueur à marquer 7 bâtons. Si plusieurs joueurs atteignent 7 lors de la même main, le jeu continue jusqu'à ce qu'il y ait un leader clair.
 
-If all the players except one tie for card points, the tieing players do not score, and the player who has a different card point total scores two sticks.
+Si tous les joueurs sauf un sont à égalité pour les points de cartes, les joueurs à égalité ne marquent pas, et le joueur qui a un total de points de cartes différent marque deux bâtons.
 
-Otherwise, if everyone scores less than 100 points, the player who has least card points and the player who has most card points score a stick each. A player who takes 100 points or more does not score, and in that case it is only the player who has least points who gets a stick.
+Sinon, si tout le monde marque moins de 100 points, le joueur qui a le moins de points de cartes et le joueur qui en a le plus marquent un bâton chacun. Un joueur qui prend 100 points ou plus ne marque pas, et dans ce cas, seul le joueur qui a le moins de points reçoit un bâton.
 
-If in the four player game there is a tie between two players for most or for least card points, neither of these players scores, but one stick is held in abeyance between these two tieing players until the next hand on which only one of them scores a stick or sticks, and is then given to the scoring player.
+Si dans le jeu à quatre joueurs il y a une égalité entre deux joueurs pour le plus ou le moins de points de cartes, aucun de ces joueurs ne marque, mais un bâton est mis en suspens entre ces deux joueurs à égalité jusqu'à la prochaine main où l'un d'eux seulement marque un ou des bâtons, et il est alors attribué au joueur qui a marqué.
 
-## Software
+## Logiciel
 
-[Michael Gasser's Jass!! program](https://www.swissjass.ch) plays Plus-Minus and two other Jass variations. You can play against the computer or over the Internet.
+Le programme [Jass!! de Michael Gasser](https://www.swissjass.ch) permet de jouer au Plus-Minus et à deux autres variantes de Jass. Vous pouvez jouer contre l'ordinateur ou sur Internet.
 
-The website [jasse.ch](http://jasse.ch/) offers a free online Molotow Jass game.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Swiss Jass > Mittlere / Molotow / Plus-Minus
+Le site [jasse.ch](http://jasse.ch/) propose un jeu de Molotow Jass en ligne gratuit.

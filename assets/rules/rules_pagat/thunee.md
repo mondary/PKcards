@@ -3,322 +3,328 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A card game for four players played by the Indian community in Durban, South Africa.
+**But :** Un jeu de cartes pour quatre joueurs joué par la communauté indienne de Durban, en Afrique du Sud.
 
 ---
 
-*This page is based on information from Kerry Allemann, Suvendi Chinnappen, Ugen Govender, David Haworth, Vikeer Jaichand, Patrick J. Kobly and Abaeze Ikeewuku*.
+*Cette page est basée sur des informations de Kerry Allemann, Suvendi Chinnappen, Ugen Govender, David Haworth, Vikeer Jaichand, Patrick J. Kobly et Abaeze Ikeewuku.*
 
 ## Introduction
 
-**Thunee**, sometimes spelled **Thuni**, is a card game played by the Indian community in South Africa, especially in Durban, and also by Indian South African emigrants in North America and Australia. 
+Le **Thunee**, parfois orthographié **Thuni**, est un jeu de cartes joué par la communauté indienne d'Afrique du Sud, surtout à Durban, et aussi par les émigrants sud-africains indiens en Amérique du Nord et en Australie.
 
-Thunee is a trick-taking game with a 24-card pack, normally played by four players in fixed partnerships. The unusual card ranking J-9-A-10-K-Q together with the card values clearly identify it as a member of the Jass group of card games and the use of these ranks and values in all four suits, not only in trumps, places it in the Indian subgroup of that family. In fact it is quite closely related to the game 304 now played in Sri Lanka.
+Le Thunee est un jeu de plis avec un jeu de 24 cartes, normalement joué par quatre joueurs en partenariats fixes. La hiérarchie inhabituelle des cartes V-9-A-10-R-D ainsi que les valeurs des cartes l'identifient clairement comme un membre du groupe de jeux de Jass, et l'utilisation de ces rangs et valeurs dans les quatre couleurs, pas seulement dans les atouts, le place dans le sous-groupe indien de cette famille. En fait, il est assez étroitement apparenté au jeu 304 aujourd'hui joué au Sri Lanka.
 
-Jass games originated in the Netherlands and have arrived in South Africa by two entirely separate routes. While Afrikaners play **Klawerjas**, which was brought directly from the Netherlands and has remained close to its Dutch roots, Indian South Africans play **Thunee**, which was probably brought to South Africa by indentured labourers from India in the 19th century, having been introduced to India by Dutch colonists there. There is very little social interchange between the two communities in South Africa and most players of each game are probably unaware of the other.
+Les jeux de Jass trouvent leur origine aux Pays-Bas et sont arrivés en Afrique du Sud par deux routes entièrement séparées. Alors que les Afrikaners jouent au **Klawerjas**, qui a été apporté directement des Pays-Bas et est resté proche de ses racines néerlandaises, les Sud-Africains indiens jouent au **Thunee**, qui a probablement été apporté en Afrique du Sud par des travailleurs sous contrat en provenance d'Inde au XIXe siècle, le jeu ayant été introduit en Inde par les colons néerlandais. Il y a très peu d'échanges sociaux entre les deux communautés en Afrique du Sud et la plupart des joueurs de chaque jeu ignorent probablement l'existence de l'autre.
 
-A version of **Thuni** is played in Nigeria with 32 cards. Although Nigerian Thuni is very different from the South African game, there is clearly a relationship, since as well as the name the two games share the same unusual ranking of the top cards. In Nigeria the cards rank J-9-A-10-K-Q-8-7 but there are no card values: only the number of tricks won by each player is counted.
+Une version du **Thuni** se joue au Nigeria avec 32 cartes. Bien que le Thuni nigérian soit très différent du jeu sud-africain, il y a clairement une relation, car outre le nom, les deux jeux partagent la même hiérarchie inhabituelle des cartes supérieures. Au Nigeria, les cartes se classent V-9-A-10-R-D-8-7 mais il n'y a pas de valeurs de carte : seul le nombre de plis gagnés par chaque joueur est compté.
 
-## South African Thunee
+## Thunee sud-africain
 
-### Players, Cards and Summary
+### Joueurs, cartes et résumé
 
-It is generally agreed that Thunee is best for four players, and this version will be described first. There is also a six-player version of the game and a less interesting variant for two players.
+Il est généralement admis que le Thunee se joue idéalement à quatre joueurs, et cette version sera décrite en premier. Il existe aussi une version à six joueurs et une variante moins intéressante pour deux joueurs.
 
-The four players are in fixed partnerships, partners sitting opposite so that each player sits between two opponents. The deal and play are counterclockwise.
+Les quatre joueurs forment des partenariats fixes, les partenaires étant assis en face de sorte que chaque joueur est assis entre deux adversaires. La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-The game is played with 24 cards from a standard international 52-card pack. In addition, the four Sixes from the pack are used to keep track of the score. The other 24 cards (2, 3, 4, 5, 7, 8) and the jokers are not used. 
+Le jeu se joue avec 24 cartes d'un jeu international standard de 52 cartes. De plus, les quatre Six du jeu sont utilisés pour suivre le score. Les 24 autres cartes (2, 3, 4, 5, 7, 8) et les jokers ne sont pas utilisés.
 
-The ranks of the cards in each suit and their point values are as follows:
+La hiérarchie des cartes dans chaque couleur et leurs valeurs en points sont les suivantes :
 
-| Jack | 30 points |
-| Nine | 20 points |
-| Ace | 11 points |
-| Ten | 10 points |
-| King | 3 points |
-| Queen | 2 points |
+| Valet | 30 points |
+| Neuf | 20 points |
+| As | 11 points |
+| Dix | 10 points |
+| Roi | 3 points |
+| Dame | 2 points |
 
-Teams score for cards in the tricks that they win; card points can also be gained or lost by calls before and during the game, and the team that loses the last trick must give 10 points to the team that wins it. The total number of card points in the pack is 304. 
+Les équipes marquent pour les cartes dans les plis qu'elles gagnent ; des points de carte peuvent aussi être gagnés ou perdus par des annonces avant et pendant le jeu, et l'équipe qui perd le dernier pli doit donner 10 points à l'équipe qui le gagne. Le nombre total de points de carte dans le jeu est de 304.
 
-After the first four cards have been dealt to each player, players can 'call' in increments of 10: 10, 20, 30 and so on. The highest caller chooses the trump suit, but must give the called number of card points to the other team as compensation. If no one calls to make trumps, the trump suit is chosen by the dealer's right hand opponent and there is no compensation. After this, two more cards are dealt to each player and the cards are played. 
+Après que les quatre premières cartes ont été distribuées à chaque joueur, les joueurs peuvent « annoncer » par incréments de 10 : 10, 20, 30 et ainsi de suite. L'annonceur le plus élevé choisit la couleur d'atout, mais doit donner le nombre de points de carte annoncé à l'autre équipe en compensation. Si personne n'annonce pour faire les atouts, la couleur d'atout est choisie par l'adversaire à droite du donneur et il n'y a pas de compensation. Après cela, deux cartes supplémentaires sont distribuées à chaque joueur et les cartes sont jouées.
 
-The opponents of the team that chooses the trump suit is known as the **counting team**. After all adjustments for calls before and during the game and the last trick, the counting team's objective in normal play is to take **at least 105 card points**. If they have 104 or fewer the trump makers win. 
+L'équipe adverse à celle qui choisit la couleur d'atout est appelée l'**équipe comptée**. Après tous les ajustements pour les annonces avant et pendant le jeu et pour le dernier pli, l'objectif de l'équipe comptée en jeu normal est de prendre **au moins 105 points de carte**. Si elle en a 104 ou moins, les faiseurs d'atout gagnent.
 
-The Sixes are known as **ball cards**: they are used to keep score. One team uses the Sixes of clubs and hearts and the other team the Sixes of spades and diamonds. The number of suit symbols (balls) exposed shows the team's score, 12 being the number required to win the game. At the start each team places one of their ball cards face up on the table and the other face down on top of it, representing a score of zero. At the end of the play, the winning team moves their top ball card aside to reveal ('open') the appropriate number of balls - see scoring. When the team's score reaches six the top card is turned face up and placed to cover the other card, and then moved aside again as more points are scored.
+Les Six sont appelés **cartes à billes** : elles servent à noter le score. Une équipe utilise les Six de trèfles et de cœurs, et l'autre équipe les Six de piques et de carreaux. Le nombre de symboles d'enseigne (billes) exposés indique le score de l'équipe, 12 étant le nombre requis pour gagner la partie. Au début, chaque équipe place une de ses cartes à billes face visible sur la table et l'autre face cachée par-dessus, représentant un score de zéro. À la fin du jeu, l'équipe gagnante écarte sa carte supérieure pour révéler (« ouvrir ») le nombre approprié de billes — voir le décompte. Lorsque le score de l'équipe atteint six, la carte supérieure est retournée face visible et placée pour couvrir l'autre carte, puis écartée à nouveau à mesure que plus de points sont marqués.
 
-### Dealing, Calling and Making Trumps
+### Distribution, annonces et choix des atouts
 
-The first dealer is chosen by any convenient method. For example, cards may be dealt face-up from the shuffled deck, one card to each player in turn until someone receives a black jack: this player becomes the first dealer. The same player will continue to deal so long as the dealing team is behind in points (balls). If after scoring a hand the score of the dealer's team is greater than or equal to the other team's score, the turn to deal passes to the right.
+Le premier donneur est choisi par n'importe quelle méthode pratique. Par exemple, des cartes peuvent être distribuées face visible du jeu mélangé, une carte à chaque joueur à tour de rôle jusqu'à ce que quelqu'un reçoive un valet noir : ce joueur devient le premier donneur. Le même joueur continuera à distribuer tant que l'équipe de distribution est en retard de points (billes). Si après le décompte d'une main le score de l'équipe du donneur est supérieur ou égal au score de l'autre équipe, le tour de distribution passe à droite.
 
-The dealer shuffles and the player to dealer's left may either cut the cards or refuse to cut and have the cards dealt as they are. The dealer deals a single batch of four cards to each player, starting with the player to dealer's right and continuing counterclockwise. 
+Le donneur mélange et le joueur à sa gauche peut couper ou refuser de couper et laisser les cartes telles qu'elles sont. Le donneur distribue un seul lot de quatre cartes à chaque joueur, en commençant par le joueur à sa droite et en continuant dans le sens inverse des aiguilles d'une montre.
 
-The player to dealer's right chooses the suit that will be trumps unless some other player 'calls'. Trumps are normally chosen by placing one card of the desired suit from hand face down on the table. However, if the player to dealer's right does not wish to make a choice on the basis of four cards, for example because he or she has one card of each suit, there is the option to call 'last card' instead. In this case, when the dealer deals the remaining cards the last card dealt to this player will determine the trump suit.
+Le joueur à la droite du donneur choisit la couleur qui sera l'atout à moins qu'un autre joueur n'« annonce ». Les atouts sont normalement choisis en plaçant une carte de la couleur souhaitée en main face cachée sur la table. Cependant, si le joueur à la droite du donneur ne souhaite pas faire un choix sur la base de quatre cartes, par exemple parce qu'il a une carte de chaque couleur, il a l'option d'annoncer « dernière carte ». Dans ce cas, lorsque le donneur distribue les cartes restantes, la dernière carte distribuée à ce joueur déterminera la couleur d'atout.
 
-If the first four cards dealt to the player to dealer's right are sufficiently bad, this player has the right to throw in the cards and demand a re-deal instead of choosing a trump suit. A re-deal can be demanded only if the four cards are all of different suits with a total value of not more than 10 points - so they must all be Kings or Queens with not more than two Kings. In this case the same dealer gathers the cards, shuffles, offers them to be cut and begins the deal again.
+Si les quatre premières cartes distribuées au joueur à la droite du donneur sont suffisamment mauvaises, ce joueur a le droit de jeter les cartes et de demander une redistribution au lieu de choisir une couleur d'atout. Une redistribution ne peut être demandée que si les quatre cartes sont toutes de couleurs différentes avec une valeur totale ne dépassant pas 10 points — elles doivent donc toutes être des Rois ou des Dames avec pas plus de deux Rois. Dans ce cas, le même donneur rassemble les cartes, mélange, propose de couper et recommence la distribution.
 
-After the player to dealer's right has placed a card face down or called 'last card', if a member of the dealer's team wishes to make trumps that player can 'call'. The first call is '10'. If an opponent of the most recent caller wishes to make trumps, that player can call higher. Each subsequent call is 10 more than the last, up to 100. After 100 the next and final call is 104. The player who makes the last and highest call will choose the trump suit, and the calling team will give the number of points called to the opponents. For example if a player calls 40 and no one calls 50, the player who called 40 makes trumps and the counting team already has 40 card points towards the 105 they need to win: only 65 more are needed. 
+Après que le joueur à la droite du donneur a placé une carte face cachée ou annoncé « dernière carte », si un membre de l'équipe du donneur souhaite faire les atouts, ce joueur peut « annoncer ». La première annonce est « 10 ». Si un adversaire de l'annonceur le plus récent souhaite faire les atouts, ce joueur peut annoncer plus haut. Chaque annonce ultérieure est de 10 points supérieure à la précédente, jusqu'à 100. Après 100, la prochaine et dernière annonce est 104. Le joueur qui fait l'annonce la plus haute et la dernière choisira la couleur d'atout, et l'équipe annonciante donnera le nombre de points annoncé aux adversaires. Par exemple, si un joueur annonce 40 et que personne n'annonce 50, le joueur qui a annoncé 40 fait les atouts et l'équipe comptée a déjà 40 points de carte sur les 105 nécessaires pour gagner : il n'en manque plus que 65.
 
-Players do not take turns to call: either opponent of the previous caller may make the next call, and calling continues until no one has any more to say. It may sometimes happen that the two opponents of the previous caller both call at the same time. In that case the call is increased by 20 and the other team decides which of them must make trumps. For example if the dealer's partner calls 10 and then both members of the non-dealing team try to call 20, the call will count as 30 and if there are no more calls the dealer's team will decide which of their opponents has to choose trumps.
+Les joueurs n'annoncent pas à tour de rôle : n'importe quel adversaire de l'annonceur précédent peut faire l'annonce suivante, et les annonces continuent jusqu'à ce que plus personne n'ait rien à dire. Il peut arriver que les deux adversaires de l'annonceur précédent annoncent en même temps. Dans ce cas, l'annonce est augmentée de 20 et l'autre équipe décide lequel d'entre eux doit faire les atouts. Par exemple, si le partenaire du donneur annonce 10 puis que les deux membres de l'équipe non distributrice essaient d'annoncer 20, l'annonce comptera comme 30 et s'il n'y a plus d'annonces, l'équipe du donneur décidera lequel de ses adversaires doit choisir les atouts.
 
-If any numbers have been called, the player to dealer's right takes back the trump card from the table, and instead the final caller places a card face down whose suit will be trumps. The caller cannot ask for the 'last card' to be the trump card but must use one of the four cards from hand.
+Si des nombres ont été annoncés, le joueur à la droite du donneur reprend la carte d'atout de la table, et à la place, l'annonceur final place une carte face cachée dont la couleur sera l'atout. L'annonceur ne peut pas demander que la « dernière carte » soit la carte d'atout mais doit utiliser l'une des quatre cartes en main.
 
-The dealer now deals a final batch of two cards to each player so that everyone has six cards. 
+Le donneur distribue alors un dernier lot de deux cartes à chaque joueur pour que tout le monde ait six cartes.
 
-### Calling Thunee
+### Annonce de Thunee
 
-After the last cards have been dealt any player may call **'Thunee'** which is an undertaking to choose the trump suit and win **all six tricks**. This supersedes all previous calls. A player who holds a complete suit of six cards is not allowed to call Thunee: the hand must include at least one non-trump card. 
+Après que les dernières cartes ont été distribuées, n'importe quel joueur peut annoncer **« Thunee »**, ce qui est un engagement à choisir la couleur d'atout et à gagner **les six plis**. Cela supplante toutes les annonces précédentes. Un joueur qui détient une couleur complète de six cartes n'est pas autorisé à annoncer Thunee : la main doit inclure au moins une carte non atout.
 
-If there is no Thunee call the player to the right of the trump maker will lead to the first trick. To prevent this player from playing his first card prematurely, any other player who is considering calling Thunee should call out "wait for me", "hold the game" or similar as soon as he has his six cards. The player who is due to lead must then wait until all players who have asked for the game to be held have decided whether or not to call Thunee. If two players on opposite teams wish to play Thunee the trump maker's team has priority. If two players on the same team wish to play Thunee, one of them must voluntary withdraw and allow the other to call it. No discussion between the partners is allowed in this case - normally the less experienced player or the player who believes he has the weaker hand will withdraw spontaneously. If none of the other players asks the leader to wait, the player to the right of the trump maker can simultaneously lead a card and call Thunee.
+S'il n'y a pas d'annonce de Thunee, le joueur à la droite du faiseur d'atout mène au premier pli. Pour empêcher ce joueur de jouer sa première carte prématurément, tout autre joueur envisageant d'annoncer Thunee devrait dire « attendez-moi », « retenez le jeu » ou similaire dès qu'il a ses six cartes. Le joueur qui doit mener doit alors attendre que tous les joueurs ayant demandé de retenir le jeu aient décidé s'ils annoncent ou non Thunee. Si deux joueurs d'équipes opposées souhaitent jouer Thunee, l'équipe des faiseurs d'atout a la priorité. Si deux joueurs de la même équipe souhaitent jouer Thunee, l'un d'eux doit se retirer volontairement et laisser l'autre l'annoncer. Aucune discussion entre partenaires n'est autorisée dans ce cas — normalement le joueur le moins expérimenté ou celui qui pense avoir la main la plus faible se retirera spontanément. Si aucun des autres joueurs ne demande au meneur d'attendre, le joueur à la droite du faiseur d'atout peut simultanément mener une carte et annoncer Thunee.
 
-If a player does not ask the leader to wait but calls Thunee at the same time as or after the first card has been played, then the opponents should call 'marials on X' where X is the suit of the card that was led. In this case the Thunee will not be allowed if suit X is a potential 'catch' for the Thunee - in other words if the Thunee caller has a card in suit X that could potentially lose a trick if they are allowed to play Thunee. For example if a spade was led, a late call of Thunee would not be allowed by a player with J-9-10 of spades because another player might have three spades including the Ace. If the player who wants to call Thunee is safe in suit X (he has only top cards or no cards at all in that suit), he can decide to go ahead with his Thunee. In that case the original leader takes back his card and the Thunee player leads instead. If the Thunee player decides to withdraw his call, the original lead stands and play continues normally.
+Si un joueur ne demande pas au meneur d'attendre mais annonce Thunee en même temps ou après que la première carte a été jouée, les adversaires devraient appeler « marials sur X » où X est la couleur de la carte menée. Dans ce cas, le Thunee ne sera pas autorisé si la couleur X est un « piège » potentiel pour le Thunee — c'est-à-dire si l'annonceur du Thunee a une carte dans la couleur X qui pourrait potentiellement perdre un pli s'il est autorisé à jouer son Thunee. Par exemple, si un pique a été mené, une annonce tardive de Thunee ne serait pas autorisée pour un joueur avec V-9-10 de pique car un autre joueur pourrait avoir trois piques incluant l'As. Si le joueur qui veut annoncer Thunee est sûr dans la couleur X (il n'a que des cartes supérieures ou aucune carte dans cette couleur), il peut décider de poursuivre son Thunee. Dans ce cas, le meneur initial reprend sa carte et le joueur de Thunee mène à la place. Si le joueur de Thunee décide de retirer son annonce, la première mène est maintenue et le jeu continue normalement.
 
-To avoid the situation where the leader and an opponent both call Thunee as the first card is led, and the opponent accepts the marials on the suit led and insists on playing his Thunee as a member of the trump maker's team, the leader may ask the opponents whether they wish to call Thunee before leading a card. If they answer no then the leader can play the first card calling Thunee, and the other players can no longer call Thunee against him.
+Pour éviter la situation où le meneur et un adversaire annoncent tous les deux Thunee alors que la première carte est menée, et que l'adversaire accepte les marials sur la couleur menée et insiste pour jouer son Thunee en tant que membre de l'équipe des faiseurs d'atout, le meneur peut demander aux adversaires s'ils souhaitent annoncer Thunee avant de mener une carte. S'ils répondent non, le meneur peut jouer la première carte en annonçant Thunee, et les autres joueurs ne peuvent plus annoncer Thunee contre lui.
 
-### The Play
+### Le jeu
 
-If no one called 'Thunee', the player to the right of the player who made trumps leads to the first trick. That will be the dealer's partner if there were no calls, or the player to the right of the final caller. Any card may be led. The trump suit is not known by the leader at this point. Immediately after the first lead the card that indicates the trump suit is exposed, so that all players know what suit is trumps. 
+Si personne n'a annoncé « Thunee », le joueur à la droite du faiseur d'atout mène au premier pli. Ce sera le partenaire du donneur s'il n'y a pas eu d'annonces, ou le joueur à la droite de l'annonceur final. N'importe quelle carte peut être menée. La couleur d'atout n'est pas connue du meneur à ce moment. Immédiatement après la première mène, la carte qui indique la couleur d'atout est exposée, pour que tous les joueurs sachent quelle couleur est l'atout.
 
-When playing to a trick, all players must follow suit if able to. A player who has no card of the suit that was led may play any card. If any trumps are played the highest trump wins the trick; a trick with no trumps is won by the highest card of the suit that was led. The winner of each trick leads to the next trick.
+Lors du jeu d'un pli, tous les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. Si des atouts sont joués, le plus haut atout gagne le pli ; un pli sans atout est gagné par la plus haute carte de la couleur demandée. Le gagnant de chaque pli mène au pli suivant.
 
-If a non-trump is led, a player with no card of that suit plays a trump, and after that a second player with no card of the suit led players a lower trump, this is known as 'undercutting'. Undercutting is only allowed if the player of the second trump has nothing but trumps in hand. So if a non-trump card is led and trumped ('cut'), any subsequent player who has no cards of the suit led but holds a non-trump must either play a higher trump or discard a non-trump card.
+Si une couleur non atout est menée, qu'un joueur sans carte de cette couleur joue un atout, et qu'ensuite un deuxième joueur sans carte de la couleur demandée joue un atout inférieur, cela s'appelle « sous-couper ». La sous-coupe n'est autorisée que si le joueur du deuxième atout n'a que des atouts en main. Ainsi, si une carte non atout est menée et coupée, tout joueur ultérieur sans carte de la couleur demandée mais détenant une carte non atout doit soit jouer un atout supérieur, soit se défausser d'une carte non atout.
 
-If it turns out that neither opponent of the trump making team has any trumps at all, the deal is cancelled. There is no score, the cards are gathered up and the same dealer shuffles and deals again. This always applies, even if Thunee was called.
+S'il s'avère qu'aucun adversaire de l'équipe faiseuse d'atout n'a d'atout du tout, la donne est annulée. Il n'y a pas de score, les cartes sont rassemblées et le même donneur mélange et redistribue. Cela s'applique toujours, même si Thunee a été annoncé.
 
-If Thunee was called, the player who called Thunee leads to the first trick and the card led determines the trump suit. The usual rules of play apply. The Thunee caller must win every trick to succeed: if any other player, even the Thunee player's partner, wins a trick, the Thunee is lost. The caller's partner will therefore try to cooperate by getting rid of any high cards that might win an unwanted trick.
+Si Thunee a été annoncé, l'annonceur de Thunee mène au premier pli et la carte menée détermine la couleur d'atout. Les règles habituelles du jeu s'appliquent. L'annonceur de Thunee doit gagner chaque pli pour réussir : si n'importe quel autre joueur, même le partenaire de l'annonceur, gagne un pli, le Thunee est perdu. Le partenaire de l'annonceur essaiera donc de coopérer en se débarrassant de toute carte forte qui pourrait gagner un pli indésirable.
 
-### Calls during the play
+### Annonces pendant le jeu
 
 #### Jodie / Jorie / Chorie
 
-If a player holds the King and Queen of a suit, or the King, Queen and Jack, this is known as a **Jodie**, or alternatively as **Jodhi** or **Jorie** or **Chorie**, and can be called at certain times during the play for extra card points. The value depends on whether the suit is trumps and whether the Jack is included:
+Si un joueur détient le Roi et la Dame d'une couleur, ou le Roi, la Dame et le Valet, cela s'appelle un **Jodie**, ou alternatively **Jodhi**, **Jorie** ou **Chorie**, et peut être annoncé à certains moments du jeu pour des points de carte supplémentaires. La valeur dépend de la couleur et de l'inclusion du Valet :
 
-- King, Queen and Jack of trumps: **50 points**
+- Roi, Dame et Valet d'atout : **50 points**
 
-- King and Queen of trumps: **40 points**
+- Roi et Dame d'atout : **40 points**
 
-- King, Queen and Jack of a non-trump suit: **30 points**
+- Roi, Dame et Valet d'une couleur non atout : **30 points**
 
-- King and Queen of a non-trump suit: **20 points**
+- Roi et Dame d'une couleur non atout : **20 points**
 
-The only times when player may call a Jodie are immediately after the **first** or **third** trick won by that player's team. When a team wins its first or third trick, either or both members of that team may call a Jodie, or two Jodies if two are held. The player calls the value, e.g. "40 Jodie". The caller of a 20 Jodie may also name the suit. In the case of a 30 Jodie, however, the caller **must not** reveal the suit of the Jodie.
+Les seuls moments où un joueur peut annoncer un Jodie sont immédiatement après le **premier** ou le **troisième** pli gagné par l'équipe de ce joueur. Lorsqu'une équipe gagne son premier ou troisième pli, l'un ou les deux membres de cette équipe peuvent annoncer un Jodie, ou deux Jodies s'ils en détiennent deux. Le joueur annonce la valeur, par exemple « 40 Jodie ». L'annonceur d'un 20 Jodie peut aussi nommer la couleur. Dans le cas d'un 30 Jodie cependant, l'annonceur **ne doit pas** révéler la couleur du Jodie.
 
-At the end of the play, the value of any Jodies called is paid in card points to the team that called the Jodie by their opponents. Therefore the counting team will add the value of any Jodies called by their team and subtract any announced by the trump making team.
+À la fin du jeu, la valeur de tous les Jodies annoncés est payée en points de carte à l'équipe qui a annoncé le Jodie par ses adversaires. Par conséquent, l'équipe comptée ajoutera la valeur de tous les Jodies annoncés par son équipe et soustraira ceux annoncés par l'équipe faiseuse d'atout.
 
 #### Double
 
-A call of 'double' is a claim that the caller's team will win all six tricks and the caller will win the last trick. It is called just before the caller plays a card to the last trick. 
+Une annonce de « double » est une déclaration que l'équipe de l'annonceur gagnera les six plis et que l'annonceur gagnera le dernier pli. Elle est annoncée juste avant que l'annonceur ne joue une carte au dernier pli.
 
-Most often, 'double' is called by a member of the trump makers' team, usually by the winner of the fifth trick before leading a winning card to the sixth trick. However, it is also possible for a member of the counting team to call 'double' if they are able to win all the tricks. In the rare case where a member of the counting team calls 'double' against a team that has called 10 or more to make trumps, this is known as a 'backward double'. 
+Le plus souvent, « double » est annoncé par un membre de l'équipe faiseuse d'atout, généralement par le gagnant du cinquième pli avant de mener une carte gagnante au sixième pli. Cependant, il est aussi possible pour un membre de l'équipe comptée d'annoncer « double » s'il est capable de gagner tous les plis. Dans le rare cas où un membre de l'équipe comptée annonce « double » contre une équipe qui a annoncé 10 ou plus pour faire les atouts, cela s'appelle un « double à l'envers ».
 
 #### Khanaak / Kunuck
 
-This call, which can only be made by a team that has called a Jodie, is sometimes also spelled **Khanuck**. It is a claim that the opponents' final card point count, including the adjustments for Jodie and the last trick, will be less than zero. In this calculation there is no allowance is made for the amount called to make trumps. In addition, for a Khanaak call to succeed, the opponents must have won at least one trick and the Khanaak caller must win the last trick. Khanaak is called just before the caller plays to the last trick. 
+Cette annonce, qui ne peut être faite que par une équipe qui a annoncé un Jodie, est parfois aussi orthographiée **Khanuck**. C'est une déclaration que le décompte final de points de carte des adversaires, y compris les ajustements pour les Jodies et le dernier pli, sera inférieur à zéro. Dans ce calcul, le montant annoncé pour faire les atouts n'est pas pris en compte. De plus, pour qu'une annonce de Khanaak réussisse, les adversaires doivent avoir gagné au moins un pli et l'annonceur de Khanaak doit gagner le dernier pli. Le Khanaak est annoncé juste avant que l'annonceur ne joue au dernier pli.
 
-If the Khanaak calling team loses the last trick, or if a player inadvertently calls Khanaak when their team wins all six tricks, then the Khanaak is lost irrespective of the number of points taken by the other team.
+Si l'équipe annonciatrice de Khanaak perd le dernier pli, ou si un joueur annonce par inadvertance Khanaak alors que son équipe gagne les six plis, le Khanaak est perdu indépendamment du nombre de points pris par l'autre équipe.
 
-So a call of 'Khanaak' by a member of the trump makers' team succeeds if and only if the calling team has lost at least one trick, the caller wins the last trick, and the value of the calling team's Jodies plus the 10 for the last trick is greater than the value of the actual cards won by the other team plus any Jodie calls by the opponents.
+Ainsi, une annonce de « Khanaak » par un membre de l'équipe faiseuse d'atout réussit si et seulement si l'équipe annonciatrice a perdu au moins un pli, l'annonceur gagne le dernier pli, et la valeur des Jodies de l'équipe annonciatrice plus les 10 pour le dernier pli est supérieure à la valeur des cartes réelles gagnées par l'autre équipe plus les éventuelles annonces de Jodie des adversaires.
 
-**Example**. Suppose the trump making team has called 50 Jodie, while the counting team has called 20 Jodie. In this case a Khanaak call succeeds if the trump makers win the last trick and the counting team takes less than 40 points in cards. (If the counting team took exactly 40 card points the counting team would have 20 for Jodie plus 40 for cards minus 50 for the trump makers' Jodie minus 10 for the last trick, which amounts to zero). It makes no difference if the trump makers have called to make trumps: in this example even if the trump makers have called 60 to make trumps, a 'khanaak' call still succeeds if the cards in the counting teams's tricks are worth less than 40 points. 
+**Exemple.** Supposons que l'équipe faiseuse d'atout ait annoncé 50 Jodie, tandis que l'équipe comptée a annoncé 20 Jodie. Dans ce cas, une annonce de Khanaak réussit si les faiseurs d'atout gagnent le dernier pli et que l'équipe comptée prend moins de 40 points en cartes. (Si l'équipe comptée prenait exactement 40 points, elle aurait 20 pour le Jodie plus 40 pour les cartes moins 50 pour le Jodie des faiseurs d'atout moins 10 pour le dernier pli, soit zéro). Cela ne fait aucune différence si les faiseurs d'atout ont annoncé pour faire les atouts : dans cet exemple même s'ils ont annoncé 60 pour faire les atouts, une annonce de « khanaak » réussit toujours si les cartes dans les plis de l'équipe comptée valent moins de 40 points.
 
-Occasionally it may be possible for the counting team to call 'khanaak' against a team that has called to make trumps: this is known as a 'backward khanaak'. 
+Il peut occasionnellement être possible pour l'équipe comptée d'annoncer « khanaak » contre une équipe qui a annoncé pour faire les atouts : c'est ce qu'on appelle un « khanaak à l'envers ».
 
-### Scoring
+### Décompte
 
-When the play has finished, if there has been no call of Thunee, Double or Khanaak, the opponents of the trump maker add up the values of all the cards in their tricks. This team, known as the **counting team**, needs 105 card points to win the game.
+Lorsque le jeu est terminé, s'il n'y a pas eu d'annonce de Thunee, Double ou Khanaak, les adversaires du faiseur d'atout additionnent les valeurs de toutes les cartes dans leurs plis. Cette équipe, appelée **équipe comptée**, a besoin de 105 points de carte pour gagner la partie.
 
-But before the counting begins, the losers of the **last trick** must give 10 extra card points to the team that won it. Formerly this was sometimes done by the losers of the last trick physically giving a card (or cards) worth 10 points to the winners, but it is simpler just to allow for these 10 points in the counting. So if the counting team lost the last trick they begin counting from '10 out' (meaning 'minus 10') and in fact require 115 points in cards to reach 105, whereas if they won the last trick they begin counting from '10 up' and only 95 more points are needed from cards.
+Mais avant le décompte, les perdants du **dernier pli** doivent donner 10 points de carte supplémentaires à l'équipe qui l'a gagné. Autrefois, cela se faisait parfois en donnant physiquement une (ou des) carte(s) d'une valeur de 10 points aux gagnants, mais il est plus simple de tenir compte de ces 10 points dans le décompte. Ainsi, si l'équipe comptée a perdu le dernier pli, elle commence à compter à « 10 de retard » (signifiant « moins 10 ») et nécessite en fait 115 points en cartes pour atteindre 105, tandis que si elle a gagné le dernier pli, elle commence à compter à « 10 d'avance » et seuls 95 points supplémentaires en cartes sont nécessaires.
 
-In addition, before the counting begins, if a player called in order to make trumps, the amount of the call has to be paid to the counting team before the cards are counted, and all Jodies that have been called have to be paid for. So for example if the call was 30 but the trump makers called 40 Jodie and won the last trick, the counting team will gain 30 from the call but lose 10 for the last trick and 40 for the Jodies. They will begin counting from '20 out' and will need 125 points in cards to win.
+De plus, avant le décompte, si un joueur a annoncé pour faire les atouts, le montant de l'annonce doit être payé à l'équipe comptée avant que les cartes ne soient comptées, et tous les Jodies annoncés doivent être payés. Ainsi, par exemple, si l'annonce était de 30 mais que les faiseurs d'atout ont annoncé 40 Jodie et gagné le dernier pli, l'équipe comptée gagnera 30 de l'annonce mais perdra 10 pour le dernier pli et 40 pour les Jodies. Elle commencera à compter à « 20 de retard » et aura besoin de 125 points en cartes pour gagner.
 
-In a normal game the winning team records their score by opening balls (revealing additional pips on their ball cards) as follows:
+Dans un jeu normal, l'équipe gagnante enregistre son score en ouvrant des billes (révélant des points supplémentaires sur leurs cartes à billes) comme suit :
 
-|   | Trump makers win | Counting team wins |
-| No call to make trumps | 1 ball | 1 ball |
-| 10 of more called to make trumps | 1 ball | 2 balls |
+|   | Faiseurs d'atout gagnent | Équipe comptée gagne |
+| Pas d'annonce pour faire les atouts | 1 bille | 1 bille |
+| 10 ou plus annoncé pour faire les atouts | 1 bille | 2 billes |
 
-When a call of Thunee, Double or Khanaak succeeds, the calling team opens balls as shown in the table below. If it fails the caller's opponents open some balls. 
+Lorsqu'une annonce de Thunee, Double ou Khanaak réussit, l'équipe annonciatrice ouvre des billes comme indiqué dans le tableau ci-dessous. Si elle échoue, les adversaires de l'annonceur ouvrent des billes.
 
-- When Thunee is called, a 'partner catch' occurs when a card led by the caller is beaten by the caller's partner. The play ends immediately if any of the caller's cards is beaten: if the card that beats it is played by an opponent it is an ordinary catch, if it is played by the caller's partner it is a partner catch. 
+- Lorsqu'un Thunee est annoncé, une « prise par le partenaire » se produit lorsqu'une carte menée par l'annonceur est battue par le partenaire de l'annonceur. Le jeu s'arrête immédiatement si l'une des cartes de l'annonceur est battue : si la carte qui la bat est jouée par un adversaire c'est une prise ordinaire, si elle est jouée par le partenaire de l'annonceur c'est une prise par le partenaire.
 
-- A Double or Khanaak call automatically fails if the card played to the last trick by the caller is beaten by another player. If the player who beats the caller's card is the caller's partner this is a partner catch, but in this case the score is the same as for an ordinary failure of the call. 
+- Une annonce de Double ou Khanaak échoue automatiquement si la carte jouée au dernier pli par l'annonceur est battue par un autre joueur. Si le joueur qui bat la carte de l'annonceur est son partenaire, c'est une prise par le partenaire, mais dans ce cas le score est le même que pour un échec ordinaire de l'annonce.
 
-|   | Call succeeds | Call fails | Partner catch |
-| Thunee | 4 balls | 4 balls | 8 balls |
-| Double | 2 balls | 4 balls | 4 balls |
-| Backward Double | 4 balls | 4 balls | 4 balls |
-| Khanaak | 3 balls | 4 balls | 4 balls |
-| Backward Khanaak | 6 balls | 4 balls | 4 balls |
+|   | Annonce réussie | Annonce échouée | Prise par le partenaire |
+| Thunee | 4 billes | 4 billes | 8 billes |
+| Double | 2 billes | 4 billes | 4 billes |
+| Double à l'envers | 4 billes | 4 billes | 4 billes |
+| Khanaak | 3 billes | 4 billes | 4 billes |
+| Khanaak à l'envers | 6 billes | 4 billes | 4 billes |
 
-A team that manages to open 12 or more balls wins the game.
+Une équipe qui parvient à ouvrir 12 billes ou plus gagne la partie.
 
-If neither team has as many as 12 balls open another deal is played. If the team that has just dealt has fewer balls, the same dealer will deal again. If the balls are equal or the team that just dealt is ahead, the duty of dealing passes to the next player to the right.
+Si aucune équipe n'a au moins 12 billes ouvertes, une autre donne est jouée. Si l'équipe qui vient de distribuer a moins de billes, le même donneur redistribue. Si les billes sont égales ou si l'équipe qui vient de distribuer est en tête, le tour de distribution passe au joueur suivant à droite.
 
-A team that has exactly 11 balls open is said to be sitting on 'corner house'. A team on corner house is not allowed to call Double, and in fact there would be no point in doing so because only 1 ball is needed to win. If a player whose team is on corner house does inadvertently call Double, the opponents open 4 balls and there is no other score for the deal. 
+Une équipe qui a exactement 11 billes ouvertes est dite assise sur « corner house ». Une équipe en corner house n'est pas autorisée à annoncer Double, et de toute façon il n'y aurait aucun intérêt à le faire car il ne manque qu'une seule bille pour gagner. Si un joueur dont l'équipe est en corner house annonce par inadvertance Double, les adversaires ouvrent 4 billes et il n'y a pas d'autre score pour la donne.
 
-However, a player whose team is on corner house **is **allowed to call Thunee or Khanaak.
+Cependant, un joueur dont l'équipe est en corner house **est** autorisé à annoncer Thunee ou Khanaak.
 
-### Penalties
+### Pénalités
 
-The standard penalty when the rules are broken is that the offender's opponents open four balls and there is no other score for the deal. If the 4 balls are not enough for the offender's opponents to win the game, the cards are shuffled and there is a new deal. The 4-ball penalty applies for example in the following cases.
+La pénalité standard en cas de rupture des règles est que les adversaires de l'auteur de la faute ouvrent quatre billes et il n'y a pas d'autre score pour la donne. Si les 4 billes ne suffisent pas pour que les adversaires de l'auteur de la faute gagnent la partie, les cartes sont mélangées et il y a une nouvelle donne. La pénalité de 4 billes s'applique par exemple dans les cas suivants.
 
-- A player fails to follow suit even though holding a card of the suit that was led. This is known as 'colour cutting'.
+- Un joueur ne suit pas la couleur bien qu'il détienne une carte de la couleur demandée. Cela s'appelle « coupe de couleur ».
 
-- A player plays a card out of turn.
+- Un joueur joue une carte hors tour.
 
-- Partners communicate illegally by talking or sign language.
+- Les partenaires communiquent illégalement par la parole ou le langage des signes.
 
-- Jodie called by a player who does not hold the required cards.
+- Jodie annoncé par un joueur qui ne détient pas les cartes requises.
 
-Of course it is up to the playing group how strictly these penalties are enforced. In a friendly game occasional accidental errors could be forgiven.
+Bien sûr, c'est au groupe de joueurs de décider de la rigueur de ces pénalités. Dans un jeu amical, des erreurs accidentelles occasionnelles peuvent être pardonnées.
 
-One member of each team is in charge of that team's ball cards, and must open the correct number of balls to show the new score before the cards are cut for the next deal. If this player forgets to open the balls that the team is entitled to before the cards are cut for the next deal, those points are forfeited. Under strict rules, the other member of the team is not allowed to remind partner to open ball cards, and the penalty for doing so is 4 balls to the opponents.
+Un membre de chaque équipe est responsable des cartes à billes de son équipe et doit ouvrir le nombre correct de billes pour montrer le nouveau score avant que les cartes ne soient coupées pour la donne suivante. Si ce joueur oublie d'ouvrir les billes avant la coupe, ces points sont perdus. Selon les règles strictes, l'autre membre de l'équipe n'est pas autorisé à rappeler à son partenaire d'ouvrir les cartes à billes, et la pénalité pour le faire est de 4 billes pour les adversaires.
 
-If a Jodie call is made at the wrong time, that is not after the the first or third trick won by the team, the opponents may call 'marials' and that Jodie call cannot be made in that deal.
+Si une annonce de Jodie est faite au mauvais moment, c'est-à-dire pas après le premier ou le troisième pli gagné par l'équipe, les adversaires peuvent appeler « marials » et cette annonce de Jodie ne peut pas être faite dans cette donne.
 
-### Variants
+### Variantes
 
-As with most traditional games, the rules of Thunee vary from place to place, and there is no universally accepted standard. Here are some of the variants I have been told about.
+Comme pour la plupart des jeux traditionnels, les règles du Thunee varient d'un endroit à l'autre, et il n'y a pas de standard universellement accepté. Voici quelques-unes des variantes dont j'ai eu connaissance.
 
-Rotation of Deal
-Some play that if the dealer's team loses the same player deals again, but if the dealer's team wins the turn to deal passes to the right. This is irrespective of the scores of the teams.
-Methods of Cutting
-It is generally agreed that the player cutting the deck is not allowed to count the cards in order to cut in a particular place. However, several different methods of cutting may be allowed.
+Rotation de la donne
+Certains jouent que si l'équipe du donneur perd, le même joueur redistribue, mais si l'équipe du donneur gagne, le tour passe à droite. Cela indépendamment des scores des équipes.
 
-**'Normal cut'.** The cutter removes a block of cards from the bottom of the deck to the top. In friendly games the cutter may be permitted to look at the bottom card of the deck before cutting. However, no one is allowed to look at the bottom card after the cut.
+Méthodes de coupe
+Il est généralement admis que le joueur coupant le jeu n'est pas autorisé à compter les cartes pour couper à un endroit précis. Cependant, plusieurs méthodes de coupe différentes peuvent être autorisées.
 
-**'Table Cut'. **(This is what more like what most Western card players would recognise as a 'normal cut'.) The dealer places the pack of cards face down on the table and says 'table cut'.
-The cutter removes a block of cards from the top of the pack and places it alongside. The dealer completes the cut by placing the remainder of the original pack on top of the block moved by the cutter.
+**« Coupe normale ».** Le coupeur prélève un bloc de cartes du bas du jeu pour les mettre sur le dessus. Dans les parties amicales, le coupeur peut être autorisé à regarder la carte du bas du jeu avant de couper. Cependant, personne n'est autorisé à regarder la carte du bas après la coupe.
 
-**'Ball Cut Three'. **The dealer places the pack on the table saying 'Ball Cut Three'. The cutter divides it into three blocks and the dealer reassembles them in reverse order.
-Calling to make trumps
-In some places, when both members of a team call at the same time, the an extra 10 is not added. for example if both members of the dealer's team call '10', the call counts as 10 not 20. The opponents still designate which of them must choose trumps. 
-Thunee Partner Catch
-Some play that if a Thunee fails because the caller's partner wins a trick, the opponents open only six balls rather than 8. Some play that the opponents open four balls, so that a partner catch costs the same as the opponents winning a trick. 
+**« Coupe sur table ».** (C'est ce qui ressemble le plus à ce que la plupart des joueurs de cartes occidentaux reconnaîtraient comme une « coupe normale ».) Le donneur pose le jeu face cachée sur la table et dit « coupe sur table ». Le coupeur prélève un bloc de cartes du dessus du jeu et le place à côté. Le donneur termine la coupe en posant le reste du jeu d'origine sur le bloc déplacé par le coupeur.
+
+**« Coupe bille trois ».** Le donneur pose le jeu sur la table en disant « Coupe bille trois ». Le coupeur le divise en trois blocs et le donneur les rassemble dans l'ordre inverse.
+
+Annonces pour faire les atouts
+Dans certains endroits, lorsque les deux membres d'une équipe annoncent en même temps, 10 points supplémentaires ne sont pas ajoutés. Par exemple, si les deux membres de l'équipe du donneur annoncent « 10 », l'annonce compte comme 10 et non 20. Les adversaires désignent toujours lequel d'entre eux doit choisir les atouts.
+
+Prise par le partenaire au Thunee
+Certains jouent que si un Thunee échoue parce que le partenaire de l'annonceur gagne un pli, les adversaires n'ouvrent que six billes au lieu de 8. Certains jouent que les adversaires ouvrent quatre billes, de sorte qu'une prise par le partenaire coûte autant que si les adversaires gagnaient un pli.
+
 Khanaak
-The seem to be several different interpretations of this call. Some players include the adjustment for the call to make trumps, so the Khanaak call only succeeds if the opponents have less in card points than the caller's Jodie plus 10 for the last trick minus their own Jodie minus the amount of the call. Some count neither the call to make trumps nor the Jodie of the Khanaak caller's opponent, so the card point condition for the Khanaak to succeed is simply that the total value of the cards won by caller's opponents is less than the Khanaak caller's Jodie plus 10.
+Il semble y avoir plusieurs interprétations différentes de cette annonce. Certains joueurs incluent l'ajustement pour l'annonce de fabrication des atouts, de sorte que l'annonce de Khanaak ne réussit que si les adversaires ont moins en points de carte que le Jodie de l'annonceur plus 10 pour le dernier pli moins leur propre Jodie moins le montant de l'annonce. Certains ne comptent ni l'annonce de fabrication des atouts ni le Jodie de l'adversaire de l'annonceur de Khanaak, de sorte que la condition en points de carte pour que le Khanaak réussisse est simplement que la valeur totale des cartes gagnées par les adversaires de l'annonceur soit inférieure au Jodie de l'annonceur de Khanaak plus 10.
 
-Normally Khanaak can only be called by a team that has called a Jodie, but a few players allow a Khanaak call without a Jodie, which can only succeed in the rare case that the other team has taken less than 10 points in cards - that would have to be a trick consisting of four Queens or three Queens and one King.
-13-point Game
-Some play that if anyone calls Khanaak during a game, the number of balls required to win that game is increased from 12 to 13. A winning score of 13 balls is represented by closing the two ball cards up again to show zero. Some require 13 points to win irrespective of whether Khanaak has been called or not. In a 13-point game, corner house is 12 points rather than 11.
-Two to Clear
-Some play that if a game reaches a score of 11-11 in a 12-point game or 12-12 in a 13-point game, a team must achieve a lead of at least two balls over the opponents to win the game. The situation is similar to a 'deuce' in lawn tennis: both teams close their ball cards as at the start of the game and begin scoring again from zero. The game will end as soon as a team has a lead of two or more balls. Note however that it is possible to bypass the 'deuce' score to win by just one point. For example if the score is 11-8 and the team with 8 points scores 4 for a Thunee, that team will win. In this variant, calls of Double or Khanaak are allowed if needed to achieve a two ball lead. Some play 'Two to Clear' only when it is a 13-point (Khanaak) game.
-Blind Call
-Some allow a member of dealer's team to call 10 before seeing any of their cards. Opponents may call higher as usual, provided that the callers have not looked at their cards. Blind calling normally begin before the cards are dealt and if there is a blind call the calling of numbers should in any case be completed before any players pick up their cards. The final caller then looks at their first four cards and places one of them face down as usual to set the trump suit. A blind caller is not allowed to ask for the 'last card' to be trump. Thunee can be called as usual after the remaining cards are dealt. If there is no Thunee, the calling team score double what they would have scored for a non-blind call: 2 balls for a normal win, 4 balls for calling Double or 6 for calling Khanaak. A failed Double or Khanaak costs 4 balls as usual. If the counting team win they score as usual: 2 balls for a normal win, 4 balls for a backward Double or 6 for a backward Khanaak.
-Blind Thunee
-Some allow a player to call a 'Blind Thunee' having seen only four cards. The remaining cards are then dealt but the caller is not allowed to look at his last two cards until he has played his first four cards and won four tricks. The caller then picks up his last two cards and these must win as well. and the caller has to win all six tricks to win. Blind Thunee is worth six balls if successful: the opponents open six balls if it fails. Normally in case of a partner catch, the opponents open either balls instead of six. Since the chance of success is quite small, making this bid is a sign of extreme bravery, foolishness or desperation. Some players value Blind Thunee at eight balls won or lost, rather than six.
+Normalement, le Khanaak ne peut être annoncé que par une équipe qui a annoncé un Jodie, mais quelques joueurs autorisent une annonce de Khanaak sans Jodie, qui ne peut réussir que dans le rare cas où l'autre équipe a pris moins de 10 points en cartes — il s'agirait d'un pli composé de quatre Dames ou de trois Dames et un Roi.
+
+Jeu à 13 points
+Certains jouent que si quelqu'un annonce Khanaak pendant une partie, le nombre de billes nécessaires pour gagner cette partie est augmenté de 12 à 13. Un score gagnant de 13 billes est représenté en fermant à nouveau les deux cartes à billes pour montrer zéro. Certains exigent 13 points pour gagner indépendamment de l'annonce de Khanaak ou non. Dans un jeu à 13 points, le corner house est à 12 points plutôt que 11.
+
+Deux d'avance
+Certains jouent que si une partie atteint un score de 11-11 dans un jeu à 12 points ou 12-12 dans un jeu à 13 points, une équipe doit avoir une avance d'au moins deux billes sur les adversaires pour gagner. La situation est similaire à un « deuce » au tennis : les deux équipes ferment leurs cartes à billes comme au début du jeu et recommencent à marquer à partir de zéro. La partie se termine dès qu'une équipe a une avance de deux billes ou plus. Notez cependant qu'il est possible de contourner le score de « deuce » pour gagner par un seul point. Par exemple, si le score est de 11-8 et que l'équipe à 8 points marque 4 pour un Thunee, cette équipe gagne. Dans cette variante, des annonces de Double ou Khanaak sont autorisées si nécessaire pour atteindre une avance de deux billes. Certains ne jouent « Deux d'avance » que lorsqu'il s'agit d'un jeu à 13 points (Khanaak).
+
+Annonce à l'aveugle
+Certains autorisent un membre de l'équipe du donneur à annoncer 10 avant de voir aucune de ses cartes. Les adversaires peuvent annoncer plus haut comme d'habitude, à condition que les annonceurs n'aient pas regardé leurs cartes. L'annonce à l'aveugle commence normalement avant la distribution des cartes et s'il y a une annonce à l'aveugle, les annonces de nombres doivent de toute façon être terminées avant que les joueurs ne ramassent leurs cartes. L'annonceur final regarde alors ses quatre premières cartes et en place une face cachée comme d'habitude pour fixer la couleur d'atout. Un annonceur à l'aveugle n'est pas autorisé à demander que la « dernière carte » soit l'atout. Thunee peut être annoncé comme d'habitude après que les cartes restantes ont été distribuées. S'il n'y a pas de Thunee, l'équipe annonciatrice marque le double de ce qu'elle aurait marqué pour une annonce non à l'aveugle : 2 billes pour une victoire normale, 4 billes pour un Double ou 6 pour un Khanaak. Un Double ou Khanaak échoué coûte 4 billes comme d'habitude. Si l'équipe comptée gagne, elle marque comme d'habitude : 2 billes pour une victoire normale, 4 billes pour un Double à l'envers ou 6 pour un Khanaak à l'envers.
+
+Thunee à l'aveugle
+Certains autorisent un joueur à annoncer un « Thunee à l'aveugle » n'ayant vu que quatre cartes. Les cartes restantes sont alors distribuées mais l'annonceur n'est pas autorisé à regarder ses deux dernières cartes avant d'avoir joué ses quatre premières cartes et gagné quatre plis. L'annonceur ramasse alors ses deux dernières cartes et celles-ci doivent aussi gagner. L'annonceur doit gagner les six plis pour réussir. Le Thunee à l'aveugle vaut six billes s'il réussit : les adversaires ouvrent six billes s'il échoue. Normalement, en cas de prise par le partenaire, les adversaires ouvrent six billes au lieu de huit. Étant donné la probabilité de réussite assez faible, faire cette enchère est un signe d'un courage extrême, de folie ou de désespoir. Certains joueurs évaluent le Thunee à l'aveugle à huit billes gagnées ou perdues, plutôt que six.
+
 Royals
-Some allow a player to call 'Royals' after the last two cards have been dealt. This is similar to Thunee, but with the ranking of the cards reversed, so that in each suit the Queen is highest, followed by King, Ten, Ace, Nine, Jack (lowest). As in Thunee, the caller leads to the first trick, the suit of the first card led is trumps, and the caller must win all six tricks to succeed. The scores are the same as for Thunee. Some also allow a call of 'Blind Royals', similar to 'Blind Thunee' but with the card ranks reversed.
+Certains autorisent un joueur à annoncer « Royals » après que les deux dernières cartes ont été distribuées. C'est similaire au Thunee, mais avec la hiérarchie des cartes inversée, de sorte que dans chaque couleur la Dame est la plus forte, suivie du Roi, du Dix, de l'As, du Neuf et du Valet (le plus bas). Comme au Thunee, l'annonceur mène au premier pli, la couleur de la première carte menée est l'atout, et l'annonceur doit gagner les six plis pour réussir. Les scores sont les mêmes qu'au Thunee. Certains autorisent aussi une annonce de « Royals à l'aveugle », similaire au « Thunee à l'aveugle » mais avec la hiérarchie inversée.
 
-### Six-player Thunee
+### Thunee à six joueurs
 
-Six players play in two teams of three, each player sitting between two opponents. The scoring is the same as in the four-player game.
+Six joueurs jouent en deux équipes de trois, chaque joueur assis entre deux adversaires. Le décompte est le même que dans le jeu à quatre joueurs.
 
-The initial deal is three cards to each player. After calling and making trumps, one more card each is dealt so that everyone has four cards.
+La distribution initiale est de trois cartes par joueur. Après les annonces et le choix des atouts, une carte supplémentaire est distribuée à chacun pour que tout le monde ait quatre cartes.
 
-Blind Thunee, if allowed, may be called on the basis of a player's first three cards. After playing these three cards the player turns over the fourth card and hopes that it will also be a winner.
+Le Thunee à l'aveugle, s'il est autorisé, peut être annoncé sur la base des trois premières cartes du joueur. Après avoir joué ces trois cartes, le joueur retourne sa quatrième carte et espère qu'elle sera aussi gagnante.
 
-There are two special calls in the six-player game.
+Il y a deux annonces spéciales dans le jeu à six joueurs.
 
 Trips
-A player who is dealt three equal cards in the first round of dealing can call 'trips'. There are no trumps and in the first three tricks the three equal cards count as the highest cards of their suits, above the Jack. The caller leads the equal cards to the first three tricks and the other players must follow suit if they can. Players who cannot follow suit may discard any card. For the last trick the cards return to their normal ranking (Jack high). The caller leads his fourth and last card, which has remained face down on the table up to that point. If this card wins the trick the Trips caller succeeds and opens three balls. If any other player wins the last trick the opponents open three balls. (Some play that in the case of a partner catch, where one the Trips caller's partners wins the last trick, the opponents open six balls.)
+Un joueur qui reçoit trois cartes identiques lors du premier tour de distribution peut annoncer « trips ». Il n'y a pas d'atout et dans les trois premiers plis les trois cartes identiques comptent comme les cartes les plus fortes de leur couleur, au-dessus du Valet. L'annonceur mène les cartes identiques lors des trois premiers plis et les autres joueurs doivent suivre s'ils le peuvent. Les joueurs qui ne peuvent pas suivre peuvent se défausser de n'importe quelle carte. Pour le dernier pli, les cartes reprennent leur hiérarchie normale (Valet le plus haut). L'annonceur mène sa quatrième et dernière carte, qui est restée face cachée sur la table jusque-là. Si cette carte gagne le pli, l'annonceur de Trips réussit et ouvre trois billes. Si un autre joueur gagne le dernier pli, les adversaires ouvrent trois billes. (Certains jouent qu'en cas de prise par le partenaire, où l'un des partenaires de l'annonceur de Trips gagne le dernier pli, les adversaires ouvrent six billes.)
+
 Moenie
-After the fourth card is dealt a player with four cards of the same suit headed by the Jack may call 'Moenie'. The caller leads to the first trick and must win all four tricks. If the caller wins all the tricks the caller's team opens four balls. If the caller's opponents win a trick the opponents open four balls. in case of a 'partner catch' where one of the caller's partners wins a trick the opponents open eight balls. (A partner catch will only occur in the unlucky case where the caller's suit is J-10-K-Q and one partner holds both the Nine and the Ace of this suit.) 
+Après la distribution de la quatrième carte, un joueur avec quatre cartes de la même couleur menées par le Valet peut annoncer « Moenie ». L'annonceur mène au premier pli et doit gagner les quatre plis. Si l'annonceur gagne tous les plis, l'équipe de l'annonceur ouvre quatre billes. Si les adversaires de l'annonceur gagnent un pli, les adversaires ouvrent quatre billes. En cas de « prise par le partenaire » où l'un des partenaires de l'annonceur gagne un pli, les adversaires ouvrent huit billes. (Une prise par le partenaire ne se produira que dans le cas malchanceux où la couleur de l'annonceur est V-10-R-D et qu'un partenaire détient à la fois le Neuf et l'As de cette couleur.)
 
-### Two-player Thunee
+### Thunee à deux joueurs
 
-There is general agreement that Thunee is best for four or six players, but if only two players are available, a two-player game is possible though less interesting. There are two different ways to play.
+Il est généralement admis que le Thunee se joue idéalement à quatre ou six joueurs, mais si seulement deux joueurs sont disponibles, un jeu à deux est possible bien que moins intéressant. Il y a deux façons différentes de jouer.
 
-Two deal game
-The dealer deals 4 cards to each player and the non-dealer chooses trumps by placing one card face down. The dealer can call 10 to make trumps, and then the players can call alternately, the call increasing each time by 10 as in the 4-player game. Then the dealer deals another 2 cards each and either player can call Thunee based on their six cards. If Thunee is called the caller chooses trumps and leads, and must win all 6 tricks to succeed: the 12 undealt cards are ignored in this case. If there is no Thunee, the opponent of the trump maker leads and 6 tricks are played. After this the dealer deals the remainder of the cards - another 4+2 cards each, and the last 6 tricks are played keeping the same trump suit as before. The winner of the twelfth trick (the last trick of the second deal) receives an extra 10 points from the other player as usual. Jodies can be called in the first deal and in the second deal when a player wins his or her first or third trick in that 6-card deal. The counting player needs at least 125 card points to win. As usual the points for the last trick, any call to make trumps and any Jodies must be allowed for, so for example if the opponent called 10 to make trumps, called a 20-Jodie and won the last trick, the other played will in fact require 145 points in cards to win (125-10+20+10). Double and Khanaak are rare, but can be called by a player playing the winning card to the 12th trick if the conditions are met. The ball scores are the same as in the 4-player game. 
-Open face game
-The dealer deals a row of six face down cards in front of each player, and then deals each player a 4-card hand. The non-dealer places a card face down to designate trumps and players can call to make trumps in increments of 10 as usual. Then the dealer deals another 2 cards each and either player can call Thunee based on their six cards. If Thunee is called the caller chooses trumps and leads, and must win all 6 tricks to succeed: the 12 face down cards are ignored in this case. If there is no Thunee, the opponent of the trump maker leads, and after the first trick each of the players places their remaining 5 hand cards face up on top of 5 their face down cards, making 5 stacks of two cards, and turns their 6th face-down card face up. The remaining tricks are played from the players' face up cards. When a card is played that has a face down card under it, the face-down card is turned face up at the end of the trick and becomes available for play in the next trick. If a Jodie combination appears within the face up cards belonging to a player, the player can call it the next time that he or she wins a trick, provided that the cards making up the Jodie are still in place. However a 20-Jodie or a 40-Jodie cannot later be increased to a 30 or 50 if the Jack of the same suit subsequently appears. The counting player needs at least 125 card points to win. As usual the points for the last trick, any call to make trumps and any Jodies must be allowed for as well as the actual cards won. Double or Khanaak can be called when playing the winning card to the last trick if the conditions are met. The ball scores are the same as in the 4-player game.
+Jeu à deux donnes
+Le donneur distribue 4 cartes à chaque joueur et le non-donneur choisit les atouts en plaçant une carte face cachée. Le donneur peut annoncer 10 pour faire les atouts, puis les joueurs peuvent annoncer alternativement, l'annonce augmentant chaque fois de 10 comme dans le jeu à 4 joueurs. Puis le donneur distribue 2 cartes supplémentaires à chacun et l'un ou l'autre peut annoncer Thunee sur la base de ses six cartes. Si Thunee est annoncé, l'annonceur choisit les atouts et mène, et doit gagner les 6 plis pour réussir : les 12 cartes non distribuées sont ignorées dans ce cas. S'il n'y a pas de Thunee, l'adversaire du faiseur d'atout mène et 6 plis sont joués. Après cela, le donneur distribue le reste des cartes — encore 4+2 cartes chacun — et les 6 derniers plis sont joués en gardant la même couleur d'atout. Le gagnant du douzième pli (le dernier pli de la deuxième donne) reçoit 10 points supplémentaires de l'autre joueur comme d'habitude. Les Jodies peuvent être annoncés dans la première donne et dans la deuxième donne lorsqu'un joueur gagne son premier ou troisième pli dans cette donne de 6 cartes. Le joueur compté a besoin d'au moins 125 points de carte pour gagner. Comme d'habitude, les points pour le dernier pli, toute annonce pour faire les atouts et tous les Jodies doivent être pris en compte, de sorte que par exemple si l'adversaire a annoncé 10 pour faire les atouts, annoncé un 20-Jodie et gagné le dernier pli, l'autre joueur aura en fait besoin de 145 points en cartes pour gagner (125-10+20+10). Les annonces de Double et Khanaak sont rares, mais peuvent être faites par un joueur jouant la carte gagnante au 12e pli si les conditions sont remplies. Les scores en billes sont les mêmes que dans le jeu à 4 joueurs.
 
-### Other Thunee web pages and software
+Jeu à cartes ouvertes
+Le donneur distribue une rangée de six cartes face cachée devant chaque joueur, puis distribue à chaque joueur une main de 4 cartes. Le non-donneur place une carte face cachée pour désigner les atouts et les joueurs peuvent annoncer pour faire les atouts par incréments de 10 comme d'habitude. Puis le donneur distribue 2 cartes supplémentaires à chacun et l'un ou l'autre peut annoncer Thunee sur la base de ses six cartes. Si Thunee est annoncé, l'annonceur choisit les atouts et mène, et doit gagner les 6 plis pour réussir : les 12 cartes face cachée sont ignorées dans ce cas. S'il n'y a pas de Thunee, l'adversaire du faiseur d'atout mène, et après le premier pli chaque joueur pose ses 5 cartes de main restantes face visible sur 5 de ses cartes face cachées, formant 5 tas de deux cartes, et retourne sa 6e carte face cachée face visible. Les plis restants sont joués avec les cartes face visibles des joueurs. Lorsqu'une carte jouée a une carte face cachée en dessous, la carte cachée est retournée face visible à la fin du pli et devient disponible pour le pli suivant. Si une combinaison de Jodie apparaît dans les cartes face visibles appartenant à un joueur, celui-ci peut l'annoncer la prochaine fois qu'il gagne un pli, à condition que les cartes composant le Jodie soient encore en place. Cependant, un 20-Jodie ou un 40-Jodie ne peut pas ensuite être augmenté à 30 ou 50 si le Valet de la même couleur apparaît ultérieurement. Le joueur compté a besoin d'au moins 125 points de carte pour gagner. Comme d'habitude, les points pour le dernier pli, toute annonce pour faire les atouts et tous les Jodies doivent être pris en compte ainsi que les cartes réellement gagnées. Le Double ou le Khanaak peuvent être annoncés en jouant la carte gagnante au dernier pli si les conditions sont remplies. Les scores en billes sont les mêmes que dans le jeu à 4 joueurs.
 
-The [Wikipedia page on Thunee](https://en.wikipedia.org/wiki/Thunee) describes a selection of variants.
+### Autres pages web et logiciels sur le Thunee
 
-Ugen Govender has developed a [Thunee app for Android](https://play.google.com/store/apps/details?id=ugen.co.za.thunee&hl=en).
+La [page Wikipédia sur le Thunee](https://en.wikipedia.org/wiki/Thunee) décrit une sélection de variantes.
 
-An online Thunee game is available at [Playthunee.com](https://playthunee.com/).
+Ugen Govender a développé une [application Thunee pour Android](https://play.google.com/store/apps/details?id=ugen.co.za.thunee&hl=en).
 
-A summary of the rules of Thunee was published at [www.thunee.com](https://web.archive.org/web/20230304020027/http://www.thunee.com/) (archive copy) where a computer version of the game was also available.
+Un jeu de Thunee en ligne est disponible sur [Playthunee.com](https://playthunee.com/).
 
-### Terminology
+Un résumé des règles du Thunee a été publié sur [www.thunee.com](https://web.archive.org/web/20230304020027/http://www.thunee.com/) (copie d'archive) où une version informatisée du jeu était également disponible.
 
-The English terms used by players of Thunee to describe various parts of the game differ from the standard terms normally used in English language card game literature. For the benefit of readers familiar with other card games and new to Thunee, this page mostly uses standard terminology rather than Thunee specific terminology. To aid understanding of descriptions of Thunee written by players of the game, some of the differences are listed below.
+### Terminologie
 
-Thunee is a trick-taking game, but Thunee players mostly use the word **'hand'** instead of **'trick'** to describe the process of each player in turn playing a card, and the best card played winning that set of cards. They will say that the highest trump wins the 'hand', that the winners of the last 'hand' are paid 10 points, and so on. This can be confusing, because the same word 'hand' can have two other meanings: the set of cards held by one player, and the period of play from the beginning of one deal to the beginning of the next deal. Therefore on this page we have used the word 'trick' rather than 'hand' for a set of cards, one played by each player.
+Les termes anglais utilisés par les joueurs de Thunee pour décrire diverses parties du jeu diffèrent des termes standard normalement utilisés dans la littérature de jeux de cartes en anglais. Pour les lecteurs familiers avec d'autres jeux de cartes et nouveaux au Thunee, cette page utilise principalement la terminologie standard plutôt que la terminologie spécifique au Thunee. Pour aider à la compréhension des descriptions du Thunee écrites par les joueurs, certaines des différences sont listées ci-dessous.
 
-After the first part of the deal there is a process that in most card games would be called 'bidding', whereby different players can bid to be allowed to choose the trump suit in exchange for giving away a certain number of points. Also, during the play players are allowed to make certain declarations of cards held and announcements of feats such as winning all the tricks or holding the opponents' score below a certain total. All these bids, announcements and declarations by players are known in this game as **'calls'**.
+Le Thunee est un jeu de plis, mais les joueurs de Thunee utilisent surtout le mot **« main »** au lieu de **« pli »** pour décrire le processus par lequel chaque joueur joue à tour de rôle une carte, et la meilleure carte jouée gagnant cet ensemble de cartes. Ils diront que le plus haut atout gagne la « main », que les gagnants de la dernière « main » reçoivent 10 points, et ainsi de suite. Cela peut prêter à confusion, car le même mot « main » peut avoir deux autres sens : l'ensemble de cartes détenu par un joueur, et la période de jeu du début d'une donne au début de la suivante. Par conséquent, sur cette page nous avons utilisé le mot « pli » plutôt que « main » pour un ensemble de cartes, une jouée par chaque joueur.
 
-In English card game literature 'to trump' normally means to play a trump on a trick to which a non-trump was led, which in many games such as this one is only allowed if the player has no card of the suit led. But Thunee players generally use the word **'cut'** rather than 'trump' for playing a trump on a non-trump trick. For Thunee players, **'to trump'** means to choose the trump suit before the start of the play, normally by placing a card face down. On this page, we have called this 'making trumps'.
+Après la première partie de la distribution, il y a un processus qui dans la plupart des jeux de cartes serait appelé « enchères », par lequel différents joueurs peuvent enchérir pour avoir le droit de choisir la couleur d'atout en échange de donner un certain nombre de points. De plus, pendant le jeu, les joueurs sont autorisés à faire certaines déclarations de cartes détenues et annonces d'exploits comme gagner tous les plis ou maintenir le score des adversaires en dessous d'un certain total. Toutes ces enchères, annonces et déclarations sont connues dans ce jeu sous le nom d'**« annonces »**.
 
-## Nigerian Thuni
+Dans la littérature des jeux de cartes en anglais, « trump » (couper) signifie normalement jouer un atout sur un pli où une couleur non atout a été menée, ce qui dans beaucoup de jeux comme celui-ci n'est autorisé que si le joueur n'a pas de carte de la couleur demandée. Mais les joueurs de Thunee utilisent généralement le mot **« cut »** (coupe) plutôt que « trump » pour jouer un atout sur un pli non atout. Pour les joueurs de Thunee, **« trump »** signifie choisir la couleur d'atout avant le début du jeu, normalement en plaçant une carte face cachée. Sur cette page, nous avons appelé cela « faire les atouts ».
 
-Abaeze Ikeewuku has provided information about this version of Thuni, which is played in Abuja, Lagos, Ibadan and Jos.
+## Thuni nigérian
 
-### Players and Cards
+Abaeze Ikeewuku a fourni des informations sur cette version du Thuni, qui se joue à Abuja, Lagos, Ibadan et Jos.
 
-There are four players in fixed partnerships, partners facing each other. 32 cards from a standard international pack are used, the cards of each suit ranking from high to low J-9-A-10-K-Q-8-7.
+### Joueurs et cartes
 
-Deal, bidding and play are clockwise.
+Il y a quatre joueurs en partenariats fixes, les partenaires se faisant face. 32 cartes d'un jeu international standard sont utilisées, les cartes de chaque couleur se classant de la plus forte à la plus faible V-9-A-10-R-D-8-7.
 
-### The Deal and Bidding
+La distribution, les enchères et le jeu se font dans le sens des aiguilles d'une montre.
 
-The first dealer is chosen by a random process, such as drawing cards from the shuffled pack. 
+### La distribution et les enchères
 
-For subsequent hands the dealer is the player who won most tricks in the hand just played. In case of a tie between opponents the player belonging to the team with the higher cumulative score deals. If this does not break the tie, the contenders draw cards to decide which of them should deal next.
+Le premier donneur est choisi par un processus aléatoire, comme tirer des cartes du jeu mélangé.
 
-The dealer shuffles the cards and deals them one at a time until everyone has five cards.
+Pour les mains suivantes, le donneur est le joueur qui a gagné le plus de plis dans la main qui vient d'être jouée. En cas d'égalité entre adversaires, le joueur appartenant à l'équipe avec le score cumulé le plus élevé distribue. Si cela ne casse pas l'égalité, les concurrents tirent des cartes pour décider lequel d'entre eux distribuera ensuite.
 
-The players look at their cards, and if either team decides that their cards are too bad, they can concede the hand. The cards are thrown in and their opponents score 3 points. As soon as the bidding has begun, it is too late to concede.
+Le donneur mélange les cartes et les distribue une à une jusqu'à ce que chacun ait cinq cartes.
 
-The player to dealer's left begins the bidding and the players speak in clockwise order around the table. Each player in turn either bids a number or passes. The numbers represent the number of tricks which a team undertakes to win in the play.
+Les joueurs regardent leurs cartes, et si l'une des équipes décide que ses cartes sont trop mauvaises, elle peut concéder la main. Les cartes sont jetées et les adversaires marquent 3 points. Dès que les enchères ont commencé, il est trop tard pour concéder.
 
-The minimum bid is 1, and each player in turn must either bid a higher number than the previous bid or pass. The bidding continues for as many circuits as necessary until three players have passed. A player who has passed cannot bid again, but a player who has been outbid can bid higher at his or her next turn.
+Le joueur à la gauche du donneur commence les enchères et les joueurs parlent dans le sens des aiguilles d'une montre autour de la table. Chaque joueur à tour de rôle enchérit un nombre ou passe. Les nombres représentent le nombre de plis qu'une équipe s'engage à gagner.
 
-The last and highest bidder chooses the trumps on the basis of his or her five-card hand, and must announce the trump suit before the remaining cards are dealt. *(In the unlikely event that the first three players all pass, the dealer bids 1 and chooses the trump suit.)*
+L'enchère minimum est de 1, et chaque joueur à tour de rôle doit soit enchérir un nombre supérieur à l'enchère précédente, soit passer. Les enchères continuent autant de tours que nécessaire jusqu'à ce que trois joueurs aient passé. Un joueur qui a passé ne peut plus enchérir, mais un joueur qui a été surenchérit peut enchérir plus haut à son prochain tour.
 
-The dealer then deals the remaining cards one at a time: each player receives three cards in this second part of the deal so that everyone has a hand of eight cards.
+Le dernier et plus haut enchérisseur choisit les atouts sur la base de sa main de cinq cartes, et doit annoncer la couleur d'atout avant que les cartes restantes ne soient distribuées. *(Dans le cas improbable où les trois premiers joueurs passent tous, le donneur enchérit 1 et choisit la couleur d'atout.)*
 
-### The Play
+Le donneur distribue alors les cartes restantes une à une : chaque joueur reçoit trois cartes dans cette deuxième partie de la distribution de sorte que chacun a une main de huit cartes.
 
-The highest bidder leads to the first trick and is **not allowed to lead a trump**. Players must follow suit if they are able to. A player who has no card of the suit led may play any card. A trick that contains trumps is won by the highest trump in it; if no one plays a trump the trick is won by the highest card of the suit led.
+### Le jeu
 
-The trick is gathered up and stacked face down in front of the winner, who then leads to the next trick. From the second trick onwards, players are free to lead any card: they may lead a trump if they wish.
+Le plus haut enchérisseur mène au premier pli et **n'est pas autorisé à mener un atout**. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. Un pli contenant des atouts est gagné par le plus haut atout ; si personne ne joue d'atout, le pli est gagné par la plus haute carte de la couleur demandée.
 
-### Scoring
+Le pli est ramassé et empilé face cachée devant le gagnant, qui mène ensuite au pli suivant. À partir du deuxième pli, les joueurs sont libres de mener n'importe quelle carte : ils peuvent mener un atout s'ils le souhaitent.
 
-Each team has a contract, which is the highest number bid by either member of the team. If both members of a team only passed, their contract is zero.
+### Décompte
 
-Each player counts the number of tricks won. However, **a player who only passed without bidding cannot score more than one trick.** Players who have bid a number can count all the tricks they win. 
+Chaque équipe a un contrat, qui est le nombre le plus élevé enchéri par l'un ou l'autre de ses membres. Si les deux membres d'une équipe n'ont fait que passer, leur contrat est zéro.
 
-Each team totals the tricks won by its players. If this is greater than or equal to their contract, they score the number of tricks they won. If the number of tricks won by a team is less than their contract, then the tricks won by players on that team who have bid numbers do not count at all. However, a team whose contract has failed can still score one point if a member of that team won a trick having only passed.
+Chaque joueur compte le nombre de plis gagnés. Cependant, **un joueur qui n'a fait que passer sans enchérir ne peut pas marquer plus d'un pli.** Les joueurs qui ont enchéri un nombre peuvent compter tous les plis qu'ils gagnent.
 
-**Example 1.** 
+Chaque équipe totalise les plis gagnés par ses joueurs. Si ce total est supérieur ou égal à leur contrat, ils marquent le nombre de plis gagnés. Si le nombre de plis gagnés par une équipe est inférieur à leur contrat, les plis gagnés par les joueurs de cette équipe qui ont enchéri ne comptent pas du tout. Cependant, une équipe dont le contrat a échoué peut encore marquer un point si un membre de cette équipe a gagné un pli en n'ayant fait que passer.
 
-South deals. West bids 1, North 2, East 3, South pass, West pass, North 4, East pass. 
+**Exemple 1.**
 
-North calls trumps and in the play each of the players wins 2 tricks..
+Sud distribue. Ouest enchérit 1, Nord 2, Est 3, Sud passe, Ouest passe, Nord 4, Est passe.
 
-East+West won 4 tricks and their contract was 3, so they score 4 points.
+Nord annonce les atouts et lors du jeu chaque joueur gagne 2 plis.
 
-Since South only passed, only his first trick counts. North+South 
-therefore only have 3 scoring tricks, so their contract of 4 fails. So North's tricks do not count, but since South passed, North+South still score 1 point for South's trick.
+Est+Ouest ont gagné 4 plis et leur contrat était de 3, donc ils marquent 4 points.
 
-**Example 2.**
+Puisque Sud n'a fait que passer, seul son premier pli compte. Nord+Sud n'ont donc que 3 plis comptabilisés, donc leur contrat de 4 échoue. Les plis de Nord ne comptent pas, mais puisque Sud a passé, Nord+Sud marquent quand même 1 point pour le pli de Sud.
 
-South deals. West bids 1, North pass, East 3, South pass, West pass.
+**Exemple 2.**
 
-East calls trumps and in the play West wins 3 tricks, North 2, 
-East 2 and South 1.
+Sud distribue. Ouest enchérit 1, Nord passe, Est 3, Sud passe, Ouest passe.
 
-East+West make their contract of 3, and since both of them bid they score all their tricks for 5 points.
+Est annonce les atouts et lors du jeu Ouest gagne 3 plis, Nord 2, Est 2 et Sud 1.
 
-North+South both passed, but they can score 1 trick each for a total of 2 points.
+Est+Ouest remplissent leur contrat de 3, et puisque les deux ont enchéri ils marquent tous leurs plis pour 5 points.
 
-If one team wins all eight tricks they score 10 points, irrespective of the bidding, while the other team scores nothing. This is known as 'capture'.
+Nord+Sud ont tous les deux passé, mais ils peuvent marquer 1 pli chacun pour un total de 2 points.
 
-A cumulative score is kept for each team. If one team has a score of 16 points or more, that team wins the game. If both teams have 16 or more points, the team with the higher score wins. If their scores are equal, another deal is played.
+Si une équipe gagne les huit plis, elle marque 10 points, indépendamment des enchères, tandis que l'autre équipe ne marque rien. C'est ce qu'on appelle « capture ».
 
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Thunee
+Un score cumulé est conservé pour chaque équipe. Si une équipe a un score de 16 points ou plus, cette équipe gagne la partie. Si les deux équipes ont 16 points ou plus, l'équipe avec le score le plus élevé gagne. Si les scores sont égaux, une autre donne est jouée.

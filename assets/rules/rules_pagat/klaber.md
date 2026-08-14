@@ -2,278 +2,274 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A four-player card game of the Jass group played in the North Serbian town Doroszló.
+**But :** Jeu de cartes à quatre joueurs du groupe Jass joué dans la ville nord-serbe de Doroszló.
 
 ---
 
 ## Introduction
 
-The game of Kláber is also known throughout Hungary as Kaláber, Kalabriász or Felsős Kaláber, and is closely related to Klabberjass and other games of the Jass group. In Doroszló, this small town in Northern Serbia, populated mostly by ethnic Hungarians, Kláber comes with the mother’s milk for many, and is still the most popular card game today. This is the version presented on this page. Similar games are played in other parts of Hungary by a small minority, but in this age, Kláber from Doroszló is most likely the Jass game that has the largest following among the Ulti-dominated serious card player community of ethnic Hungarians. 
+Le jeu de Kláber est aussi connu dans toute la Hongrie sous les noms de Kaláber, Kalabriász ou Felsős Kaláber, et est étroitement lié au Klabberjass et à d'autres jeux du groupe Jass. À Doroszló, cette petite ville du nord de la Serbie peuplée principalement de Hongrois de souche, le Kláber vient avec le lait maternel pour beaucoup, et reste aujourd'hui le jeu de cartes le plus populaire. C'est la version présentée sur cette page. Des jeux similaires sont pratiqués dans d'autres parties de la Hongrie par une petite minorité, mais à notre époque, le Kláber de Doroszló est très probablement le jeu Jass qui a le plus grand nombre d'adeptes parmi la communauté de joueurs de cartes sérieux dominée par l'Ulti au sein des Hongrois de souche.
 
-*This page is based on a contribution from Róbert Kovács.*
+*Cette page est basée sur une contribution de Róbert Kovács.*
 
-## Players and Equipment
+## Joueurs et matériel
 
-The game of Kláber is played by four people with a deck of Hungarian Cards (*Magyar Kártya)*, better known abroad as Seasons Pattern or William Tell deck, see also here. The game also needs equipment for scoring, which in Doroszló is always done with slate and chalk, not on a mobile phone, and not even using pen and paper. They play at custom made tables with built in slabs of slate. It is a bit unrealistic to expect anyone in the world who would like to try this game to acquire such a table, but chalk and suitable slates are readily available online and in hobby stores.
+Le Kláber se joue à quatre personnes avec un jeu de Cartes Hongroises (*Magyar Kártya*), mieux connu à l'étranger sous le nom de jeu Motifs des Saisons ou jeu Guillaume Tell. Le jeu nécessite aussi du matériel de comptage, qui à Doroszló se fait toujours avec une ardoise et de la craie, non sur un téléphone portable, et même sans utiliser papier et crayon. Ils jouent sur des tables sur mesure avec des dalles d'ardoise intégrées. Il est peu réaliste de s'attendre à ce que quiconque dans le monde souhaitant essayer ce jeu s procure une telle table, mais la craie et des ardoises appropriées sont facilement disponibles en ligne et dans les magasins de loisirs.
 
-Whenever a random decision is needed about some element of the game, or even some other issue such as whose duty it will be to go out to get more wine, all the players cut the deck and reveal the bottom card of their cut portion. 
+Chaque fois qu'une décision aléatoire est nécessaire sur un élément du jeu, ou même sur une autre question comme à qui le tour d'aller chercher du vin, tous les joueurs coupent le jeu et révèlent la carte du bas de leur portion coupée.
 
-Since Kláber is a team game of fixed partnerships, where teammates are sitting across each other, at the beginning of a session, all four players cut the deck and the two players revealing the lower cards play against the team of the other two players with the higher cards.
+Puisque le Kláber est un jeu d'équipe en partenariates fixes, où les coéquipiers sont assis en face l'un de l'autre, au début d'une session, les quatre joueurs coupent le jeu et les deux joueurs révélant les cartes les plus basses jouent contre l'équipe des deux autres joueurs avec les cartes les plus hautes.
 
-The whole direction of play is anti-clockwise, as in most Hungarian card games. 
+Le sens global du jeu est antihoraire, comme dans la plupart des jeux de cartes hongrois.
 
-## Cards and their Values
+## Cartes et leurs valeurs
 
-Kláber is played with a 32 card Hungarian deck of cards, which has German suits of Acorns (*makk*), Leaves (*zöld*), Hearts (*piros*) and Gourds (*tök*) and depicts the four seasons on the Aces and characters from Friedrich Schiller’s William Tell play on the Upper and Lower Knaves. 
+Le Kláber se joue avec un jeu hongrois de 32 cartes, qui comporte des enseignes allemandes de Glands (*makk*), Feuilles (*zöld*), Cœurs (*piros*) et Gourdes (*tök*) et représente les quatre saisons sur les As et des personnages de la pièce Guillaume Tell de Friedrich Schiller sur les Hauts et Bas Valets.
 
-Since the cards in these William Tell decks cards have no index letters, here is a list of the cards in each suit and how to recognise them.
+Puisque les cartes de ces jeux Guillaume Tell n'ont pas de lettres d'indice, voici une liste des cartes dans chaque enseigne et comment les reconnaître.
 
-- The **Ace** (*ász*) is also known in Hungarian as the Pig (*disznó*). The suit symbols in the four corners of the Aces are rotated and they show scenes depicting the four seasons of the year.
+- L'**As** (*ász*) est aussi connu en hongrois sous le nom de Cochon (*disznó*). Les symboles d'enseigne dans les quatre coins des As sont rotatés et montrent des scènes représentant les quatre saisons de l'année.
 
-- The **King** (*király*) is mounted on a horse and has upright suit symbols. It is also known as the Foal (*csikó*), probably because of the horse.
+- Le **Roi** (*király*) est monté à cheval et a des symboles d'enseigne dressés. Il est aussi connu sous le nom de Poulain (*csikó*), probablement à cause du cheval.
 
-- The **Over Knave** (*felső*) or Over has no horse, and a suit symbol at the top left corner of the card. 
+- Le **Haut Valet** (*felső*) ou Ober n'a pas de cheval et un symbole d'enseigne dans le coin supérieur gauche de la carte.
 
-- The **Under Knave** (*alsó*) is or Under distinguished from the Over by having its suit symbol lower down the left hand side of the card.
+- Le **Bas Valet** (*alsó*) ou Unter se distingue de l'Ober par son symbole d'enseigne placé plus bas sur le côté gauche de la carte.
 
-- The **Ten** (*tízes*), **Nine** (*kilences*), **Eight** (*nyolcas*) and **Seven** (*hetes*) have the appropriate number of suit symbols at each end of the card and the corresponding Roman numbers X, IX, VIII, VII. 
+- Le **Dix** (*tízes*), **Neuf** (*kilences*), **Huit** (*nyolcas*) et **Sept** (*hetes*) ont le nombre approprié de symboles d'enseigne à chaque extrémité de la carte et les chiffres romains correspondants X, IX, VIII, VII.
 
-Here for example are all the leaves in the order Ace, King, Over, Under, Ten, Nine, Eight, Seven. 
+Voici par exemple toutes les feuilles dans l'ordre As, Roi, Ober, Unter, Dix, Neuf, Huit, Sept.
 
 ![ace](../images/tell/ga.gif)![king](../images/tell/gk.gif)![over](../images/tell/go.gif)![under](../images/tell/gu.gif)![ten](../images/tell/gz.gif)![nine](../images/tell/g9.gif)![eight](../images/tell/g8.gif)![seven](../images/tell/g7.gif)
 
-Kláber is a point-trick game with trumps. Points are scored for winning valuable cards in tricks and for melding combinations (sequences and sets). The values of the individual cards are given in brackets in the lists below. The cards within each suit have three different ranking orders.
+Le Kláber est un jeu de plis à points avec atout. Les points se marquent en gagnant des cartes précieuses en plis et par combinaisons (séquences et carrés). Les valeurs des cartes individuelles sont données entre parenthèses dans les listes ci-dessous. Les cartes dans chaque enseigne ont trois ordres de classement différents.
 
-- The order used for **making sequences** is as above from high to low: 
+- L'ordre utilisé pour **former des séquences** est le suivant du plus haut au plus bas :
 
-**Ace, King, Over, Under, Ten, Nine, Eight, Seven.**
+**As, Roi, Ober, Unter, Dix, Neuf, Huit, Sept.**
 
-- The trick-taking order in **trumps** from high to low is: 
+- L'ordre de prise de plis en **atout** du plus haut au plus bas est :
 
-**Over (20), Nine (14), Ace (11), Ten (10), King (4), Under (2), Eight (0), Seven (0).**
+**Ober (20), Neuf (14), As (11), Dix (10), Roi (4), Unter (2), Huit (0), Sept (0).**
 
-- The trick-taking order in **non-trump suits** from high to low is:
+- L'ordre de prise de plis en **enseignes non atout** du plus haut au plus bas est :
 
-**Ace (11), Ten (10), King (4), Over (3), Under (2), Nine (0), Eight (0), Seven (0).**
+**As (11), Dix (10), Roi (4), Ober (3), Unter (2), Neuf (0), Huit (0), Sept (0).**
 
-There are a total of 61 card points in the trump suit and 30 card points in each other suit. In addition the last trick is worth an extra 10 card points to the player who wins it, so the total number of card points in the deck is 161. 
+Il y a un total de 61 points de cartes dans l'enseigne d'atout et 30 points de cartes dans chaque autre enseigne. De plus, le dernier pli vaut 10 points de cartes supplémentaires pour le joueur qui le gagne, soit un total de 161 points de cartes dans le jeu.
 
-## Melds
+## Combinaisons
 
-Points can also be won from melds: combinations of cards held by a player that are declared at the beginning of the play. In Kláber there are three types of meld: **sequences** of consecutive cards of a suit (*sorozatok*) and **sets** of four equal cards (*négy egyforma*) and the **bella** (King and Over of trumps. In ascending order, the melds and their scores are as follows.
+Des points peuvent aussi être gagnés par les combinaisons : ensembles de cartes détenues par un joueur et déclarés au début du jeu. Au Kláber il y a trois types de combinaison : les **séquences** de cartes consécutives d'une enseigne (*sorozatok*), les **carrés** de quatre cartes égales (*négy egyforma*) et la **bella** (Roi et Ober d'atout). Par ordre croissant, les combinaisons et leurs scores sont les suivants.
 
-### Sequences:
+### Séquences :
 
-| Name | Definition | Points |
-| Terc | 3 consecutive cards in a suit | 20 |
-| Bella | King and Over of trumps | 40 |
-| Kvart | 4 consecutive cards in a suit | 50 |
-| Kvint | 5 consecutive cards in a suit | 100 |
-| Szext | 6 consecutive cards in a suit | 100 |
-| Szept | 7 consecutive cards in a suit | 100 |
-| Okt | 8 consecutive cards in a suit | 100 |
+| Nom | Définition | Points |
+| Terc | 3 cartes consécutives d'une enseigne | 20 |
+| Bella | Roi et Ober d'atout | 40 |
+| Kvart | 4 cartes consécutives d'une enseigne | 50 |
+| Kvint | 5 cartes consécutives d'une enseigne | 100 |
+| Szext | 6 cartes consécutives d'une enseigne | 100 |
+| Szept | 7 cartes consécutives d'une enseigne | 100 |
+| Okt | 8 cartes consécutives d'une enseigne | 100 |
 
-### Sets:
+### Carrés :
 
-| Definition | Points |
-| Four Unders | 100 |
-| Four Kings | 100 |
-| Four Tens | 100 |
-| Four Aces | 100 |
-| Four Nines | 150 |
-| Four Overs | 200 |
+| Définition | Points |
+| Quatre Unters | 100 |
+| Quatre Rois | 100 |
+| Quatre Dix | 100 |
+| Quatre As | 100 |
+| Quatre Neuf | 150 |
+| Quatre Obers | 200 |
 
-Note: there is no score for 4 Eights or 4 Sevens and they cannot be declared as a meld. Players joke that “*You need five of these!”*
+Note : il n'y a pas de score pour quatre Huit ou quatre Sept et ils ne peuvent pas être déclarés comme combinaison. Les joueurs plaisangent en disant : « *Il en faut cinq !* »
 
-### Bella:
+### Bella :
 
-| Definition | Points |
-| King and Over of trumps | 40 |
+| Définition | Points |
+| Roi et Ober d'atout | 40 |
 
-Bella is unusual in that it (nearly) always scores, independently of other meld, unlike other combinations which can be annulled if the opposing team has better meld.
+La Bella est inhabituelle en ce qu'elle (presque) marque toujours, indépendamment des autres combinaisons, contrairement aux autres combinaisons qui peuvent être annulées si l'équipe adverse a une meilleure combinaison.
 
-## The Deal
+## La distribution
 
-The first dealer is one of the players on the team who cut the low cards at the beginning when teams were chosen. After thorough shuffling, the dealer offers the deck to the left-hand opponent, who either cuts it normally or knocks on the deck. 
+Le premier donneur est l'un des joueurs de l'équipe qui a coupé les cartes basses au début lors du choix des équipes. Après un mélange soigneux, le donneur offre le jeu à l'adversaire de gauche, qui coupe normalement ou frappe le jeu.
 
-If the cards were cut the dealer deals all the cards anticlockwise in batches of not more than three cards at a time. In each round of the deal the dealer must give the same number of cards to each player, and the last three cards dealt to each player must be kept separate from the first five. For example the dealer could deal 3 each, then 2 each, then 3 each separated from the other 5 cards. If there was a knock, the dealer must deal the cards in a single round of eight at a time, giving five cards and then a separate three cards to each player in turn.
+Si les cartes ont été coupées, le donneur distribue toutes les cartes dans le sens antihoraire par paquets de trois au maximum. À chaque tour de distribution, le donneur doit donner le même nombre de cartes à chaque joueur, et les trois dernières cartes distribuées à chaque joueur doivent être séparées des cinq premières. Par exemple, le donneur pourrait distribuer 3 à chacun, puis 2 à chacun, puis 3 à chacun séparément des 5 autres cartes. S'il y a eu un frappe sur le jeu, le donneur doit distribuer les cartes en un seul tour de huit à la fois, donnant cinq cartes puis trois cartes séparées à chaque joueur à tour de rôle.
 
-Players pick up their first five cards **only** and look at them. The other three cards remain face down on the table until after the bidding.
+Les joueurs ramassent leurs cinq premières cartes **uniquement** et les regardent. Les trois autres cartes restent face cachée sur la table jusqu'après les enchères.
 
-## The Bidding
+## Les enchères
 
-The bidding is used to decide two things: what the trump suit will be for the hand, and which team are the contractors. The team that chooses trumps is bound by a contract to take more card points in tricks and melds than the other team: in Hungarian the word *kötő* (binding) is used for this obligation.
+Les enchères servent à décider deux choses : quelle sera l'enseigne d'atout de la donne, et quelle équipe sera l'équipe contractante. L'équipe qui choisit l'atout est liée par un contrat pour prendre plus de points de cartes en plis et combinaisons que l'autre équipe : en hongrois, le mot *kötő* (lié) est utilisé pour cette obligation.
 
-Players bid using numbers. No suit is mentioned at this point, although the numbers ultimately correspond to suits. The possible bids in ascending order are:
+Les joueurs enchérissent avec des numéros. Aucune enseigne n'est mentionnée à ce stade, bien que les numéros correspondent ultimement aux enseignes. Les enchères possibles par ordre croissant sont :
 
-- **1 **(*egy*) corresponds to** acorns**
+- **1** (*egy*) correspond aux **glands**
 
-- **2 **(*kettő*) corresponds to** leaves**
+- **2** (*kettő*) correspond aux **feuilles**
 
-- **3 **(*három*) corresponds to **gourds**
+- **3** (*három*) correspond aux **gourdes**
 
-- **4 **(*négy*) corresponds to **hearts**
+- **4** (*négy*) correspond aux **cœurs**
 
-At the end of the auction, the final bidder chooses the trump suit, which must be higher than or equal to the final bid.
+À la fin des enchères, le dernier enchérisseur choisit l'enseigne d'atout, qui doit être supérieure ou égale à la dernière enchère.
 
-To start the bidding, the player to dealer's right **must** bid '1' - there is no option and this player is therefore known as the *kényszeres* (compulsory) player. The next player (dealer's partner) must either pass (*passz* or *mehet*) or bid a higher number: 2, 3 or 4. If dealer's partner passes the third player, to dealer's left, must bid or pass, and if this player also passes the dealer must bid or pass.
+Pour commencer les enchères, le joueur à la droite du donneur **doit** enchérir « 1 » — il n'y a pas d'option et ce joueur est donc appelé le joueur *kényszeres* (obligatoire). Le joueur suivant (partenaire du donneur) doit soit passer (*passz* ou *mehet*) soit enchérir un numéro plus élevé : 2, 3 ou 4. Si le partenaire du donneur passe, le troisième joueur, à la gauche du donneur, doit enchérir ou passer, et si ce joueur passe aussi, le donneur doit enchérir ou passer.
 
-As soon as two different players have bid, the competition between them must be resolved before the next player can speak. The earlier bidder always has priority. When a later player bids the earlier player must respond either by saying 'here' (*itt*) to equal the later player's bid and retain the right to choose the trump suit, or yield the right to the later player by saying 'go on', 'pass' or 'take it' (*passz, * *mehet*, *vigyed*). If the earlier player says 'here', the later player must either pass or raise their bid to a higher number, and the earlier player responds again, either equalling the bid or passing. This continues until one of them passes or until the earlier player has responded to a bid of 4 (the highest bid).
+Dès que deux joueurs différents ont enchéri, la compétition entre eux doit être résolue avant que le joueur suivant ne puisse parler. L'enchérisseur antérieur a toujours la priorité. Quand un joueur ultérieur enchérit, le joueur antérieur doit répondre soit en disant « ici » (*itt*) pour égaliser l'enchère du joueur ultérieur et conserver le droit de choisir l'enseigne d'atout, soit céder le droit au joueur ultérieur en disant « continue », « passe » ou « prends-le » (*passz*, *mehet*, *vigyed*). Si le joueur antérieur dit « ici », le joueur ultérieur doit soit passer soit monter son enchère à un numéro plus élevé, et le joueur antérieur répond à nouveau, soit en égalisant l'enchère soit en passant. Cela continue jusqu'à ce que l'un d'eux passe ou que le joueur antérieur ait répondu à une enchère de 4 (l'enchère la plus haute).
 
-After a competition between two bidders is resolved, if the bidding level is below 4 and there are any players who have not yet had a chance to speak, the bidding continues with the next player in anticlockwise rotation either passing or bidding a higher number than the highest bid so far.
+Après qu'une compétition entre deux enchérisseurs est résolue, si le niveau d'enchère est inférieur à 4 et qu'il y a des joueurs qui n'ont pas encore eu la parole, les enchères continuent avec le joueur suivant dans la rotation antihoraire, soit en passant soit en enchérissant un numéro plus élevé que l'enchère la plus haute à ce jour.
 
-When all four players have spoken and three of them have passed, or when a competition is resolved at level 4 so that no higher bids are possible, the final bidder becomes the contractor and must name the trump suit, which must correspond to at least the level of the final bid.
+Quand les quatre joueurs ont parlé et que trois d'entre eux ont passé, ou quand une compétition est résolue au niveau 4 de sorte qu'aucune enchère plus élevée n'est possible, le dernier enchérisseur devient le contractant et doit nommer l'enseigne d'atout, qui doit correspondre au moins au niveau de la dernière enchère.
 
-**Example of bidding:** the players in anticlockwise order are **A** (compulsory), **B**, **C** and **D** (dealer).
+**Exemple d'enchères :** les joueurs dans l'ordre antihoraire sont **A** (obligatoire), **B**, **C** et **D** (donneur).
 
-| A | B | C | D |   | notes |
-| 1 | 2 |   |   |   |   |
-| pass |   | 3 |   |   | B won the competition between A and B; now C must speak. |
-|   | here | pass | pass |   | B is the final bidder and the level is 3. |
+| A | B | C | D |   | notes |
+| 1 | 2 |   |   |   |   |
+| passe |   | 3 |   |   | B a gagné la compétition entre A et B ; maintenant C doit parler. |
+|   | ici | passe | passe |   | B est le dernier enchérisseur et le niveau est 3. |
 
-B must now choose the trump suit, which must be gourds or hearts - acorns (1) and leaves (2) are not possible because the final bid was 3.
+B doit maintenant choisir l'enseigne d'atout, qui doit être gourdes ou cœurs — glands (1) et feuilles (2) ne sont pas possibles car la dernière enchère était 3.
 
-After the trump suit has been chosen, all players pick up their last three cards, so that everyone has a hand of 8 cards.
+Après le choix de l'enseigne d'atout, tous les joueurs ramassent leurs trois dernières cartes, de sorte que chacun a une main de 8 cartes.
 
-**Notes on bidding.**
+**Notes sur les enchères.**
 
-- While the compulsory player must start with 1 and can only say 'here' or 'pass' to other players' bids, other players are allowed to jump if there is space. For example the second player, wishing to play with gourds trump, could bid 2 and then raise to 3 if the compulsory player said 'here', or could jump to 3 immediately without first bidding 2.
+- Le joueur obligatoire doit commencer par 1 et ne peut dire « ici » ou « passe » qu'aux enchères des autres joueurs, les autres joueurs sont autorisés à sauter s'il y a de la place. Par exemple, le deuxième joueur, souhaitant jouer avec les gourdes comme atout, pourrait enchérir 2 puis monter à 3 si le joueur obligatoire a dit « ici », ou pourrait sauter directement à 3 sans d'abord enchérir 2.
 
-- If the other three players all pass, the compulsory player becomes the contractor and is forced to choose a trump suit, even with an unsuitable hand.
+- Si les trois autres joueurs passent tous, le joueur obligatoire devient le contractant et est forcé de choisir une enseigne d'atout, même avec une main inappropriée.
 
-- It is possible and often wise to overcall your partner if you wish to choose a particular suit as trump.
+- Il est possible et souvent judicieux de surenchérir sur son partenaire si vous souhaitez choisir une enseigne particulière comme atout.
 
-- It is legal for anyone **except** the compulsory player to pick up their last three cards any time after they have been dealt. However, anyone who has picked up their last three cards is not allowed to take part in the bidding - when their turn comes they must pass. In fact the gesture of picking up your last three cards can be used as a way to indicate that you are passing.
+- Il est permis à quiconque **sauf** au joueur obligatoire de ramasser ses trois dernières cartes à tout moment après qu'elles ont été distribuées. Cependant, quiconque a ramassé ses trois dernières cartes n'est pas autorisé à participer aux enchères — quand son tour vient, il doit passer. En fait, le geste de ramasser ses trois dernières cartes peut être utilisé comme une façon d'indiquer que vous passez.
 
-## Throw-in melds and the Kontra round
+## Combinaisons d'abandon et tour de Kontra
 
-After the bidding, when the contractor has announced the trump suit and everyone has 8 cards, the first player to the dealer’s right asks “Ready?” (*Mehet?*). 
+Après les enchères, quand le contractant a annoncé l'enseigne d'atout et que tout le monde a 8 cartes, le premier joueur à la droite du donneur demande « Prêt ? » (*Mehet ?*).
 
-### Throw-In melds
+### Combinaisons d'abandon
 
-At this point, if any player has a single meld that is worth 100 points or more - either four of a kind (not 8's or 7's) or a sequence of five or more cards in a suit (in sequence order) - they **must** declare it. In this case the cards are thrown in and the hand is not played. If a player keeps quiet about such a meld and the opposing team discovers before the scores are written down at the end of the hand, the opposing team scores 161 points and the offending team that concealed the meld scores nothing for the hand.
+À ce moment, si un joueur a une seule combinaison valant 100 points ou plus — soit un carré (pas de 8 ni de 7) soit une séquence de cinq cartes ou plus d'une enseigne (dans l'ordre des séquences) — il **doit** la déclarer. Dans ce cas, les cartes sont jetées et la donne n'est pas jouée. Si un joueur se tait sur une telle combinaison et que l'équipe adverse la découvre avant que les scores ne soient notés à la fin de la donne, l'équipe adverse marque 161 points et l'équipe fautive qui a dissimulé la combinaison ne marque rien pour la donne.
 
-If only the contractor's team has a meld worth 100+ points then both teams score for all their meld (including any 'small' melds of less than 100). If only the contractor's opponents have a 100+meld then they score all their meld and the contractor's team scores nothing except for bella if they have it.
+Si seule l'équipe du contractant a une combinaison valant 100+ points, les deux équipes marquent pour toutes leurs combinaisons (y compris les « petites » combinaisons de moins de 100). Si seuls les adversaires du contractant ont une combinaison 100+, ils marquent toutes leurs combinaisons et l'équipe du contractant ne marque rien sauf la bella s'ils l'ont.
 
-If players from both teams have a 100+ meld then these are compared to find out which player has the best combination. The team with the better combination scores all their meld and the other team scores nothing except for bella if they have it.
+Si des joueurs des deux équipes ont une combinaison 100+, elles sont comparées pour déterminer quel joueur a la meilleure combinaison. L'équipe avec la meilleure combinaison marque toutes ses combinaisons et l'autre équipe ne marque rien sauf la bella si elle l'a.
 
-When comparing 100+ melds:
+Lors de la comparaison des combinaisons 100+ :
 
-- a single hand containing two fours of a kind beats all other combinations
+- une seule main contenant deux carrés bat toutes les autres combinaisons
 
-- a higher scoring combination beats a lower scoring one
+- une combinaison à score plus élevé bat une combinaison à score plus faible
 
-- any set of 4 of a kind beats any sequence
+- n'importe quel carré bat n'importe quelle séquence
 
-- between equal scoring sets of 4 of a kind, Aces are highest, then Tens, then Kings, then Unders
+- entre les carrés de même score, les As sont les plus hauts, puis les Dix, puis les Rois, puis les Unters
 
-- a longer sequence beats a shorter sequence
+- une séquence plus longue bat une séquence plus courte
 
-- between sequences of equal length the winner is the one with the highest top card in sequence order (A>K>O>U>10>9>8>7) 
+- entre les séquences de même longueur, le gagnant est celui qui a la carte la plus haute dans l'ordre des séquences (A>R>O>U>10>9>8>7)
 
-There is no priority among suits. If two opponents have equal sequences of 5 or more cards in different suits it is a tie and neither team scores anything except for bella if they have it. 
+Il n'y a pas de priorité entre les enseignes. Si deux adversaires ont des séquences égales de 5 cartes ou plus dans des enseignes différentes, c'est une égalité et aucune équipe ne marque rien sauf la bella si elle l'a.
 
 ### Kontra
 
-In answer to the first player's question "Ready?" and before the play begins, either of the contractor's opponents (including the first player if the dealer's team are the contractor) may say kontra to double the score for the hand. If kontra has been said, either member of the contractors team can double the score again by saying rekontra, and either opponent of the contractor can reply to the rekontra by saying szubkontra, doubling the score again so that everything is worth 8 times as much as in a hand with no kontra.
+En réponse à la question « Prêt ? » du premier joueur et avant le début du jeu, l'un ou l'autre des adversaires du contractant (y compris le premier joueur si l'équipe du donneur est le contractant) peut dire kontra pour doubler le score de la donne. Si kontra a été dit, un membre de l'équipe du contractant peut doubler à nouveau en disant rekontra, et un adversaire du contractant peut répondre à la rekontra en disant szubkontra, doublant à nouveau le score de sorte que tout vaut 8 fois plus que dans une donne sans kontra.
 
-Kontras do not affect the score in case of a Throw-In. Players do not need to wait to find out whether there is a Throw-In before saying kontra, and if a throw-in meld is declared after a player has said kontra, the kontra is simply ignored.
+Les kontras n'affectent pas le score en cas d'abandon. Les joueurs n'ont pas besoin d'attendre de savoir s'il y a un abandon avant de dire kontra, et si une combinaison d'abandon est déclarée après qu'un joueur a dit kontra, la kontra est simplement ignorée.
 
-## The Play
+## Le jeu
 
-Having asked "Ready?" and given players the opportunity to declare a throw-in or to kontra, the player to dealer's right leads to the first trick. 
+Après avoir demandé « Prêt ? » et donné aux joueurs l'opportunité de déclarer un abandon ou de dire kontra, le joueur à la droite du donneur mène le premier pli.
 
-The objective in the play to take the majority of the card points, which consist of the value of the cards a team takes in tricks that they win, plus the 10 card points for the winners of the last trick, plus the value of any small meld that a team is allowed to count. 
+L'objectif du jeu est de prendre la majorité des points de cartes, qui se composent de la valeur des cartes qu'une équipe prend dans les plis gagnés, plus les 10 points de cartes pour les vainqueurs du dernier pli, plus la valeur des petites combinaisons qu'une équipe est autorisée à compter.
 
-### Small melds
+### Petites combinaisons
 
-During the first trick, small melds worth less than 100 (kvart, terc, bella) can be announced. Just before playing their first card, each player may announce any small meld they have. At this stage they state the type of meld - for example 'I have a kvart', 'I have a terc and bella', 'I have two terces' - and they may but need not also state the rank - for example 'I have an ace-terc'. Any meld that a player does not announce before playing their card to the first trick cannot be scored.
+Pendant le premier pli, les petites combinaisons valant moins de 100 (kvart, terc, bella) peuvent être annoncées. Juste avant de jouer leur première carte, chaque joueur peut annoncer toute petite combinaison qu'il possède. À ce stade, ils annoncent le type de combinaison — par exemple « j'ai un kvart », « j'ai un terc et la bella », « j'ai deux terces » — et peuvent mais ne sont pas obligés d'annoncer aussi le rang — par exemple « j'ai un terc d'as ». Toute combinaison qu'un joueur n'annonce pas avant de jouer sa carte au premier pli ne peut pas être marquée.
 
-At the end of the first trick, if both teams have announced meld, the team that has announced the highest single instance of meld (excluding bella) can count all their meld and the other team count nothing for meld, except for bella if they have it. When comparing small meld:
+À la fin du premier pli, si les deux équipes ont annoncé des combinaisons, l'équipe qui a annoncé la meilleure instance de combinaison (hors bella) peut compter toutes ses combinaisons et l'autre équipe ne compte rien pour les combinaisons, sauf la bella si elle l'a. Lors de la comparaison des petites combinaisons :
 
-- any kvart beats any terc;
+- n'importe quel kvart bat n'importe quel terc ;
 
-- between two kvarts or two terces, the one with the higher top card in sequence order wins;
+- entre deux kvarts ou deux terces, celui qui a la carte la plus haute dans l'ordre des séquences gagne ;
 
-- between kvarts or terces of equal height in different suits, a trump sequence beats a non-trump sequence;
+- entre kvarts ou terces de même hauteur dans des enseignes différentes, une séquence à l'atout bat une séquence non atout ;
 
-- if there is a tie for highest meld between equal sequences in two non-trump suits there is no winner and neither team can count points for kvarts or terces.
+- s'il y a égalité pour la meilleure combinaison entre des séquences égales dans deux enseignes non atout, il n'y a pas de gagnant et aucune équipe ne peut compter de points pour les kvarts ou terces.
 
-If there is a competition between kvarts or between terces held by opposing teams, the players reveal as only as much information as needed to determine which team has the highest meld. First they announce the top card of the meld (king-terc, under-terc, etc.), then in case of equality the player whose meld is in trumps will declare this.
+S'il y a une compétition entre kvarts ou entre terces détenus par des équipes adverses, les joueurs ne révèlent que les informations nécessaires pour déterminer quelle équipe a la meilleure combinaison. D'abord ils annoncent la carte la plus haute de la combinaison (terc de roi, terc d'unter, etc.), puis en cas d'égalité le joueur dont la combinaison est à l'atout le déclare.
 
-After the meld competition (if any) has been resolved, the winning team specifies exactly what the combinations are that they announced during the first trick (e.g. over-kvart in bells, ten-terc in acorns) and can count these towards their card point score.
+Après que la compétition de combinaisons (s'il y en a une) a été résolue, l'équipe gagnante spécifie exactement quelles sont les combinaisons qu'elle a annoncées pendant le premier pli (ex. : kvart d'ober aux cloches, terc de dix aux glands) et peut les compter dans son score de points de cartes.
 
-Bella is independent of this process: a team that announces bella can always count it irrespective of who wins the contest for highest kvart or terc.
+La bella est indépendante de ce processus : une équipe qui annonce la bella peut toujours la compter indépendamment de qui gagne le concours du meilleur kvart ou terc.
 
-### Rules of Play
+### Règles du jeu
 
-Any card can be led. The other players in anticlockwise order must follow suit if possible. A player who cannot follow suit must play a trump (even if their partner has already trumped and even if their trump is too low to beat a trump previously played to the trick). A player who has no card of the suit led and no trumps may play any card in their hand. There is never any obligation to beat cards previously played to the trick.
+N'importe quelle carte peut être menée. Les autres joueurs dans l'ordre antihoraire doivent suivre l'enseigne si possible. Un joueur qui ne peut pas suivre doit jouer atout (même si son partenaire a déjà coupé et même si son atout est trop bas pour battre un atout déjà joué au pli). Un joueur qui n'a pas de carte de l'enseigne demandée et pas d'atout peut jouer n'importe quelle carte de sa main. Il n'y a jamais d'obligation de surcouper les cartes précédemment jouées au pli.
 
-Each trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led. Whoever wins the trick takes the four cards, stores them face down in their team's trick pile, and leads to the next trick.
+Chaque pli est gagné par le plus haut atout, ou s'il n'y en a pas par la plus haute carte de l'enseigne demandée. Celui qui gagne le pli prend les quatre cartes, les range face cachée dans la pile de plis de son équipe, et mène le pli suivant.
 
-Players are not allowed to look back at previous tricks until the end of the play. 
+Les joueurs ne sont pas autorisés à regarder les plis précédents avant la fin du jeu.
 
-## Scoring
+## Comptage des points
 
-After all eight tricks have been played the scores are determined. 
+Après que les huit plis ont été joués, les scores sont déterminés.
 
-- Each team adds up the card points in their tricks, plus 10 points for the team that won the last trick. 
+- Chaque équipe additionne les points de cartes dans ses plis, plus 10 points pour l'équipe qui a gagné le dernier pli.
 
-- A team that announced small melds and did not lose them in a meld competition adds their value to their trick points.
+- Une équipe qui a annoncé des petites combinaisons et ne les a pas perdues lors d'une compétition ajoute leur valeur à ses points de pli.
 
-- If either team announced bella, they add the 40 points for that.
+- Si l'une ou l'autre équipe a annoncé la bella, elle ajoute les 40 points correspondants.
 
-The team with the higher point total are the winners of the hand. There can never be a tie because the total number of card points is odd and all the other possible scores are even numbers.
+L'équipe avec le total de points le plus élevé gagne la donne. Il ne peut jamais y avoir d'égalité car le nombre total de points de cartes est impair et tous les autres scores possibles sont des nombres pairs.
 
-- If there was no kontra and the contractor's team wins, both teams score the number of points they counted.
+- S'il n'y a pas eu de kontra et que l'équipe du contractant gagne, les deux équipes marquent le nombre de points qu'elles ont compté.
 
-- If there was no kontra and the contractor's team loses, the contractor's team score nothing and their opponents score the points they counted.
+- S'il n'y a pas eu de kontra et que l'équipe du contractant perd, l'équipe du contractant ne marque rien et ses adversaires marquent les points qu'ils ont compté.
 
-- If there was a kontra, then only the winning team scores the points they counted multiplied by 2, 4 or 8 depending whether the final kontra level was kontra, rekontra or szubkontra.
+- S'il y a eu kontra, seule l'équipe gagnante marque les points comptés multipliés par 2, 4 ou 8 selon que le niveau final de kontra était kontra, rekontra ou szubkontra.
 
-For completeness, here again are the other possibilities, which occur when any player has a meld worth 100 or more. In these cases kontras have no effect.
+Pour être complets, voici à nouveau les autres possibilités, qui interviennent quand un joueur a une combinaison valant 100 points ou plus. Dans ces cas, les kontras n'ont aucun effet.
 
-- If there was an uncontested throw-in meld by the contractor's team, both teams score all their meld points: the 100+meld that caused the throw-in plus any kvarts and terces and the bella.
+- S'il y a eu une combinaison d'abandon sans contestation par l'équipe du contractant, les deux équipes marquent tous leurs points de combinaison : la combinaison 100+ qui a causé l'abandon plus les kvarts et terces éventuels et la bella.
 
-- If there was an uncontested throw-in meld by the contractor's opponents, they score score all their meld points but the contractor's team cannot score anything except the bella.
+- S'il y a eu une combinaison d'abandon sans contestation par les adversaires du contractant, ils marquent tous leurs points de combinaison mais l'équipe du contractant ne peut rien marquer sauf la bella.
 
-- If both teams had a throw-in meld, the team that won the contest scores all their meld and their opponents score nothing except for the bella if they held it. If the contest was a tie, there is no score for either team except for the bella.
+- Si les deux équipes ont eu une combinaison d'abandon, l'équipe qui a gagné le concours marque toutes ses combinaisons et ses adversaires ne marquent rien sauf la bella si elle l'ont. Si le concours est une égalité, il n'y a pas de score pour aucune équipe sauf la bella.
 
-- If a player is discovered to have a 100+ meld that they failed to declare, their team scores nothing and their opponents score 161 points.
+- Si un joueur est découvert avec une combinaison 100+ qu'il a omis de déclarer, son équipe ne marque rien et ses adversaires marquent 161 points.
 
-After the scores has been settled and written down, the role of the dealer shifts to the right and a new deal begins. 
+Après que les scores ont été réglés et notés, le rôle de donneur passe à droite et une nouvelle donne commence.
 
-A session consists of a series of games. Each game (*parti*) lasts until one of the teams reaches 501 or more points. If both teams reach 501 or more points after a hand, the contractor's team wins even if the other team has more points than them. If a team reaches 501 points and wins the parti when the opponents have less than 251 points, the winners score a double game (*maccs*).
+Une session consiste en une série de parties. Chaque partie (*parti*) dure jusqu'à ce qu'une des équipes atteigne 501 points ou plus. Si les deux équipes atteignent 501 points ou plus après une donne, l'équipe du contractant gagne même si l'autre équipe a plus de points qu'elle. Si une équipe atteint 501 points et gagne le *parti* quand les adversaires ont moins de 251 points, les vainqueurs marquent une double partie (*maccs*).
 
-The score is recorded on the slate at the end of each hand. There are special signs for 20, 30, 50, 80 and 100 as follows. 
+Le score est noté sur l'ardoise à la fin de chaque donne. Il y a des signes spéciaux pour 20, 30, 50, 80 et 100 comme suit.
 
 ![tartli scoring](../images/jass/tartli2.png)
 
-It is easy to convert a 30 to a 50 or an 80 to 100 by adding a stroke when an additional 20 is scored. Odd card points (usually 10 or less) are written as negative or positive numbers on the slate. The separate strokes for 20 points are usually grouped into fives as they accumulate, so that each group will represent 100 points. 
+Il est facile de convertir un 30 en 50 ou un 80 en 100 en ajoutant un trait lorsqu'un 20 supplémentaire est marqué. Les points de cartes impairs (généralement 10 ou moins) sont écrits comme nombres négatifs ou positifs sur l'ardoise. Les traits séparés de 20 points sont généralement regroupés par cinq au fur et à mesure qu'ils s'accumulent, de sorte que chaque groupe représente 100 points.
 
-The number of games won by each team is recorded on a separate part of the slate. At the end of each game the points scored during the game are erased and the winners of the game mark 
-**|** for winning an ordinary *parti* or 
-**X** for winning a maccs. 
+Le nombre de parties gagnées par chaque équipe est noté dans une partie séparée de l'ardoise. À la fin de chaque partie, les points marqués pendant la partie sont effacés et les vainqueurs marquent **|** pour avoir gagné un *parti* ordinaire ou **X** pour avoir gagné un maccs.
 
-## Customs and Expressions
+## Coutumes et expressions
 
-Zoltán Tőzsér has provided some examples of expressions used during the game, and some customs that in other card games might be considered unethical.
+Zoltán Tőzsér a fourni quelques exemples d'expressions utilisées pendant le jeu, et quelques coutumes qui dans d'autres jeux de cartes pourraient être considérées comme contraires à l'éthique.
 
-- The trump IX is sometimes called the "fourteen" (*tizennégyes*), and the Trump Over is sometimes the "twenty" (*huszas*).
+- Le IX d'atout est parfois appelé le « quatorze » (*tizennégyes*), et l'Ober d'atout est parfois le « vingt » (*huszas*).
 
-- A player who cannot decide what card to play sometimes says "*Gond ez Ilus!*" ("This is a problem Ilus!", Ilus being a nickname for Ilona, a female name) - roughly equivalent to "Houston, we have a problem."
+- Un joueur qui ne peut pas décider quelle carte jouer dit parfois « *Gond ez Ilus !* » (« C'est un problème, Ilus ! », Ilus étant un surnom pour Ilona, un prénom féminin) — grossièrement équivalent à « Houston, on a un problème. »
 
-- "*No, akinek egy van, egy se legyen!*" means something like "A player who has only one should not have any!" This is sometimes said by the trump maker leading the top trump (the twenty / Over) to a trick, suggesting an intention to lead another trump, probably the fourteen / IX to the next trick.
+- « *No, akinek egy van, egy se legyen !* » signifie quelque chose comme « Un joueur qui n'en a qu'un ne devrait en avoir aucun ! » C'est parfois dit par le joueur qui a choisi l'atout en menant le plus haut atout (le vingt/Ober) à un pli, suggérant l'intention de mener un autre atout, probablement le quatorze/IX au pli suivant.
 
-- When player A is leads to a trick and the next player B hesitates over what card to play, B's partner D may tug on a card with which D intends to win the trick, to urge B to contribute a valuable card to the trick.
+- Quand le joueur A mène un pli et que le joueur suivant B hésite sur la carte à jouer, le partenaire de B, D, peut tirer sur une carte avec laquelle D a l'intention de gagner le pli, pour inciter B à contribuer une carte précieuse au pli.
 
-- Sometimes a player leading to a trick names a suit other than the one they actually played, trying to confuse the next player into playing the wrong suit so that they can claim 161 for a revoke (renonce). This is most effective when the game is played at a fast tempo.
+- Parfois un joueur menant un pli nomme une enseigne autre que celle qu'il a réellement jouée, essayant de confondre le joueur suivant pour qu'il joue la mauvaise enseigne afin de pouvoir réclamer 161 pour une renonce. C'est plus efficace quand le jeu est joué à un tempo rapide.
 
-- *"Két frisset kérünk!"* ("We want two fresh ones!"). This may be said out loud by the team that wins a game (501 points), asking for a different pair of opponents. The losing team then stand up and a new pair takes their place.
+- « *Két frisset kérünk !* » (« Nous en voulons deux neufs ! »). Cela peut être dit à voix haute par l'équipe qui gagne une partie (501 points), demandant une paire d'adversaires différente. L'équipe perdante se lève alors et une nouvelle paire prend sa place.
 
-## References
+## Références
 
-Lajos Pusztai, Zoltán Tőzsér: 
+Lajos Pusztai, Zoltán Tőzsér :
 [A Kláber története és szabályai a doroszlói hagyományok szerint](http://klaber.wikidot.com/) (2009)
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Kláber

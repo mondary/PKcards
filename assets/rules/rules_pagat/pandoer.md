@@ -2,135 +2,133 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** A 4-player Jass game with variable partnerships and a wide choice of contracts that can be bid.
+**But :** Un jeu de Jass à 4 joueurs avec des partenariats variables et un large choix de contrats pouvant être enchéris.
 
 ---
 
-*This description was written by Nick Wedd and edited by John McLeod.*
+*Cette description a été rédigée par Nick Wedd et éditée par John McLeod.*
 
-## Introduction: players, cards and deal
+## Introduction : joueurs, cartes et donne
 
-Pandoeren is a trick-taking card game for four players which used to be popular in the Netherlands. I have recently been told that it is still much played in Heerlen in the south, but I have not yet been able to check how closely that game corresponds to the older version described here. 
+Le Pandoeren est un jeu de cartes de plis pour quatre joueurs qui était populaire aux Pays-Bas. On m'a récemment dit qu'il est encore beaucoup joué à Heerlen dans le sud, mais je n'ai pas encore pu vérifier à quel point ce jeu correspond à la version plus ancienne décrite ici.
 
-A 33-card pack is used, consisting of A K Q J 10 9 8 7 in four suits, with the 33rd card being the 6 of hearts.
+On utilise un jeu de 33 cartes, composé de A R D V 10 9 8 7 dans quatre couleurs, la 33e carte étant le 6 de cœur.
 
-The cards are dealt clockwise, with four to each player, then one face-up in the middle of the table, then four to each player. On subsequent hands, the deal will rotate around the table.
+Les cartes sont distribuées dans le sens des aiguilles d'une montre : quatre à chaque joueur, puis une face visible au milieu de la table, puis quatre à chaque joueur. Aux mains suivantes, la donne tourne autour de la table.
 
-## The bidding
+## Les enchères
 
-After the deal the bidding begins. Starting with forehand, each player may make any of the bids listed below, or may pass. Some of the contracts are "number" contracts, in which the object tis to take at least the number of card points bid; others have different objectives such as winning or losing all the tricks. After a bid has been made, only higher bids are available. A higher bid is either a similar bid with more points (e.g. 180 outbids 170) or a bid from further down the list. Note that bids lower down the list are not always more difficult to make, and are not always worth more. If all four players pass, the cards are thrown in and the next player deals. If someone bids, the bidding continues round the table for as many circuits as necessary until there have been three consecutive passes, when the final bidder becomes declarer.
+Après la donne, les enchères commencent. En commençant par le joueur de tête, chaque joueur peut faire l'une des enchères listées ci-dessous, ou passer. Certains contrats sont des contrats « à chiffre », dont le but est de prendre au moins le nombre de points de cartes enchéri ; d'autres ont des objectifs différents comme gagner ou perdre tous les plis. Après une enchère, seules les enchères supérieures sont disponibles. Une enchère supérieure est soit une enchère similaire avec plus de points (par ex. 180 surenchérit 170), soit une enchère plus bas dans la liste. Notez que les enchères plus bas dans la liste ne sont pas toujours plus difficiles à réaliser, et ne valent pas toujours plus. Si les quatre joueurs passent, les cartes sont jetées et le joueur suivant donne. Si quelqu'un enchérit, les enchères continuent autour de la table pendant autant de tours que nécessaire jusqu'à ce qu'il y ait trois passes consécutives, le dernier enchérisseur devenant alors le déclarant.
 
-The declarer must play the contract named in her last bid. She picks up the card in the middle of the table, puts it in her hand, and discards a card (maybe the same one) from her hand face-down. She then names the trump suit (if any), calls a partner (if appropriate to the contract), and leads to the first trick.
+Le déclarant doit jouer le contrat nommé dans sa dernière enchère. Il ramasse la carte au milieu de la table, la met dans sa main, et défausse une carte (peut-être la même) de sa main face cachée. Il nomme ensuite la couleur d'atout (s'il y en a une), appelle un partenaire (si approprié pour le contrat), et entame le premier pli.
 
-## The rules of play
+## Les règles du jeu
 
-The declarer leads to the first trick. The winner of a trick leads to the next one.
+Le déclarant entame le premier pli. Le gagnant d'un pli entame le suivant.
 
-If there is no trump suit, a player must follow suit if possible. Otherwise she may play any card.
+S'il n'y a pas de couleur d'atout, un joueur doit suivre la couleur si possible. Sinon, il peut jouer n'importe quelle carte.
 
-If there is a trump suit, a player who can follow suit must *either* follow suit *or* play a trump if possible. A player who cannot follow suit may trump or discard from another suit, but if a non-trump suit has been led and trumped, it is illegal for a later player to undertrump, unless there is no alternative. The play of the jack of trumps, known as the *jas*, is never forced: a player who holds this card can always play as if she did not hold it (except on the last trick, of course).
+S'il y a une couleur d'atout, un joueur qui peut suivre doit *soit* suivre *soit* jouer un atout si possible. Un joueur qui ne peut pas suivre peut couper ou se défausser d'une autre couleur, mais si une couleur non-atout a été demandée et coupée, il est interdit à un joueur ultérieur de sous-couper, sauf s'il n'y a pas d'alternative. Le jeu du valet d'atout, appelé le *jas*, n'est jamais forcé : un joueur qui détient cette carte peut toujours jouer comme s'il ne la détenait pas (sauf au dernier pli, bien sûr).
 
-For trick-taking purposes, cards in non-trump suits rank from high to low: A-K-Q-J-10-9-8-7-(6). When there is a trump suit, the trump jack and nine are promoted to be the best cards: the rank of the trump suit from high to low is J-9-A-K-Q-10-8-7-(6).
+Pour la prise de plis, les cartes des couleurs non-atout sont classées de haut en bas : A-R-D-V-10-9-8-7-(6). Lorsqu'il y a une couleur d'atout, le valet et le 9 d'atout sont promus comme les meilleures cartes : l'ordre de la couleur d'atout de haut en bas est V-9-A-R-D-10-8-7-(6).
 
-A trick is won by the highest trump in it; or if there is no trump, by the highest card in the suit led. The ranking of the cards is given in the next section.
+Un pli est remporté par le plus haut atout qu'il contient ; ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée. L'ordre des cartes est donné dans la section suivante.
 
-## Counting points
+## Comptage des points
 
-In the number contracts, there are three ways of scoring card-points: tricks, roem, and stuk. These are described in order.
+Dans les contrats à chiffre, il y a trois façons de compter les points de cartes : les plis, le roem et le stuk. Elles sont décrites dans l'ordre.
 
-### Tricks
+### Les plis
 
-In the trump suit, if there is one, the cards rank in this order (followed by their card-point values):
+Dans la couleur d'atout, s'il y en a une, les cartes sont classées dans cet ordre (suivi de leur valeur en points) :
 
-**J**(20), **9**(14), **A**(11), **K**(3), **Q**(2), **10**(10), **8**(0), **7**(0), **6**(0).
+**V**(20), **9**(14), **A**(11), **R**(3), **D**(2), **10**(10), **8**(0), **7**(0), **6**(0).
 
-In other suits, they rank (and score):
+Dans les autres couleurs, elles sont classées (et rapportent) :
 
-**A**(11), **K**(3), **Q**(2), **J**(1), **10**(10), **9**(0), **8**(0), **7**(0), **6**(0).
+**A**(11), **R**(3), **D**(2), **V**(1), **10**(10), **9**(0), **8**(0), **7**(0), **6**(0).
 
-Declarer counts up the card-points in the tricks which she has won. She does not count the value of the card which she discarded. In addition, there are 5 card-points for winning the last trick. Thus there are 146 card-points to be won in the play of the hand.
+Le déclarant compte les points de cartes dans les plis qu'il a remportés. Il ne compte pas la valeur de la carte qu'il a défaussée. De plus, il y a 5 points de cartes pour remporter le dernier pli. Il y a donc 146 points de cartes à gagner lors du jeu de la main.
 
 ### Roem
 
-Another source of points is *roem*: certain combinations of cards held in a player's hand. In ascending order, the roem are:
+Une autre source de points est le *roem* : certaines combinaisons de cartes détenues dans la main d'un joueur. Par ordre croissant, les roem sont :
 
-| Sequence of 3 cards in suit |   .....   | 20 card-points |
-| Sequence of 4 cards in suit |   .....   | 50 |
-| Sequence of 5 cards in suit |   .....   | 100 |
-| 4 queens |   .....   | 100 |
-| 4 kings |   .....   | 100 |
-| 4 aces |   .....   | 100 |
-| Sequence of 6 cards in suit |   .....   | 120 |
-| Sequence of 7 cards in suit |   .....   | 140 |
-| Sequence of 8 cards in suit |   .....   | 160 |
-| 4 jacks |   .....   | 200 |
+| Séquence de 3 cartes dans une couleur |   .....   | 20 points de cartes |
+| Séquence de 4 cartes dans une couleur |   .....   | 50 |
+| Séquence de 5 cartes dans une couleur |   .....   | 100 |
+| 4 dames |   .....   | 100 |
+| 4 rois |   .....   | 100 |
+| 4 as |   .....   | 100 |
+| Séquence de 6 cartes dans une couleur |   .....   | 120 |
+| Séquence de 7 cartes dans une couleur |   .....   | 140 |
+| Séquence de 8 cartes dans une couleur |   .....   | 160 |
+| 4 valets |   .....   | 200 |
 
-For the purpose of forming and comparing sequences, the cards rank from high to low in the order A-K-Q-J-10-9-8-7-6 whether or not the suit is trumps. Roem is better if it is further down the above list. To resolve ties between sequences of the same length, the sequence containing the higher card (in the order given here) is better. If this does not break the tie, the sequence in the higher suit wins, the suits ranking spades (highest), hearts, diamonds, clubs.
+Pour former et comparer les séquences, les cartes sont classées de haut en bas dans l'ordre A-R-D-V-10-9-8-7-6 que la couleur soit atout ou non. Un roem est meilleur s'il est plus bas dans la liste ci-dessus. Pour départager les séquences de même longueur, la séquence contenant la carte la plus haute (dans l'ordre donné ici) est meilleure. Si cela ne suffit pas, la séquence dans la couleur la plus haute gagne, les couleurs étant classées pique (le plus haut), cœur, carreau, trèfle.
 
-Immediately after leading to the first trick, if the contract being played is one involving points, the declarer may announce the total value of roem (if any) in her hand. These points, plus the value of any roem in declarer's partner's hand, will be added to the total card points won by the declarer's team unless it is successfully denied by an opponent. Any opponent of the declarer who has taken part in the bidding - that is, not just said pass at every opportunity - and who has roem, can attempt to deny the declarer's roem. This is done by asking declarer to specify her highest single instance of roem - the answer might be "four from the queen" (i.e. Q-J-10-9) or "four queens". If the opponent has a higher instance of roem, she announces what it is, so denying the declarer's roem; the declarer's team does not score any points for roem in this case. If the declarer's roem is not successfully denied, the declarer's team will add the points for it to the card points they win in tricks.
+Immédiatement après avoir entamé le premier pli, si le contrat joué implique des points, le déclarant peut annoncer la valeur totale du roem (s'il y en a) dans sa main. Ces points, plus la valeur de tout roem dans la main du partenaire du déclarant, seront ajoutés au total des points de cartes gagnés par l'équipe du déclarant, sauf s'ils sont déniés avec succès par un adversaire. Tout adversaire du déclarant qui a participé aux enchères — c'est-à-dire qui n'a pas simplement passé à chaque occasion — et qui a un roem, peut tenter de dénier le roem du déclarant. Cela se fait en demandant au déclarant de spécifier sa meilleure instance unique de roem — la réponse pourrait être « quatre à partir de la dame » (c'est-à-dire D-V-10-9) ou « quatre dames ». Si l'adversaire a une meilleure instance de roem, il l'annonce, déniant ainsi le roem du déclarant ; dans ce cas, l'équipe du déclarant ne marque aucun point pour le roem. Si le roem du déclarant n'est pas dénié avec succès, l'équipe du déclarant ajoutera les points à ses points de cartes gagnés en plis.
 
-The declarer's partner can also announce roem; this is done as soon as it becomes clear who the partner is. If the declarer has already announced roem and it was not denied, the partner's announced roem is added to declarer's team's points. If the declarer did not announce roem, partner can still announce roem when the partnerships become clear, and this announcement can be denied by any opponent who has taken part in the bidding who has a higher single instance of roem than the partner. If not denied, the roem is added to the declarer's team's points.
+Le partenaire du déclarant peut également annoncer du roem ; cela se fait dès que le partenaire est identifié. Si le déclarant a déjà annoncé du roem et qu'il n'a pas été dénié, le roem annoncé par le partenaire est ajouté aux points de l'équipe du déclarant. Si le déclarant n'a pas annoncé de roem, le partenaire peut quand même annoncer du roem lorsque les partenariats sont clairs, et cette annonce peut être déniée par tout adversaire ayant participé aux enchères qui a une meilleure instance unique de roem que le partenaire. Si non dénié, le roem est ajouté aux points de l'équipe du déclarant.
 
-It is also possible, though unusual, that the declarer's roem was denied, but that declarer's partner has a better instance of roem. In that case the partner announces it when the partnerships are clarified, and if the opponents who have bid cannot deny it, both the declarer's and the partner's roem become valid and are added to declarer's team's point score.
+Il est aussi possible, bien qu'inhabituel, que le roem du déclarant ait été dénié, mais que le partenaire du déclarant ait une meilleure instance de roem. Dans ce cas, le partenaire l'annonce lorsque les partenariats sont clarifiés, et si les adversaires ayant enchéri ne peuvent pas la dénier, le roem du déclarant et du partenaire deviennent tous deux valides et sont ajoutés au score de points de l'équipe du déclarant.
 
 ### Stuk
 
-Independent of roem is *stuk*, which may be announced by the declarer or the declarer's partner holding the king and queen of trumps, at any time before the second of these cards are played. It cannot be denied, and is worth 20 card-points. 
+Indépendamment du roem est le *stuk*, qui peut être annoncé par le déclarant ou le partenaire du déclarant détenant le roi et la dame d'atout, à tout moment avant que la deuxième de ces cartes ne soit jouée. Il ne peut pas être dénié, et vaut 20 points de cartes.
 
-## Contracts
+## Contrats
 
-The possible bids are as follows:
+Les enchères possibles sont les suivantes :
 
-| Score | Contract | Comment | partner? | trumps? |
-| 1 | 120, 130, 140 | Call an ace | Yes | Yes |
-| 3 | Piccolo | Win first trick only | No | Yes |
-| 3 | Misère | Lose all tricks | No | Yes |
-| 2 | 150, 160 | Call an ace | Yes | Yes |
-| 2 | Kereltje | Call the Jas. Win all tricks | Yes | Yes |
-| 2 | Zwabber | Call an ace. Win 4+all tricks | Yes | No |
-| 3 | 170, 180, 190 | Call an ace | Yes | Yes |
-| 5 | Solo-zwabber | Win all tricks | No | No |
-| 6 | Piccolo Ouvert | Win first trick, lose the others, exposed | No | Yes |
-| 4 | 200, 210, 220, etc. | Call an ace | Yes | Yes |
-| 6 | Misère Ouvert | Lose all tricks, exposed | No | Yes |
-| 9 | Stil Praatje | Lose all tricks, all exposed | No | Yes |
-| 5 | Pandoer | Call an ace. Win all tricks | Yes | Yes |
-| 5 | Pandoer+20, 40, etc. | as Pandoer, with roem/stuk | Yes | Yes |
-| 9 | Praatje | as Stil Praatje with talking | No | Yes |
-| 10 | Privé | Win all tricks | No | Yes |
+| Score | Contrat | Commentaire | partenaire ? | atout ? |
+| 1 | 120, 130, 140 | Appeler un as | Oui | Oui |
+| 3 | Piccolo | Ne gagner que le premier pli | Non | Oui |
+| 3 | Misère | Perdre tous les plis | Non | Oui |
+| 2 | 150, 160 | Appeler un as | Oui | Oui |
+| 2 | Kereltje | Appeler le Jas. Gagner tous les plis | Oui | Oui |
+| 2 | Zwabber | Appeler un as. Gagner 4+ tous les plis | Oui | Non |
+| 3 | 170, 180, 190 | Appeler un as | Oui | Oui |
+| 5 | Solo-zwabber | Gagner tous les plis | Non | Non |
+| 6 | Piccolo Ouvert | Gagner le premier pli, perdre les autres, exposé | Non | Oui |
+| 4 | 200, 210, 220, etc. | Appeler un as | Oui | Oui |
+| 6 | Misère Ouvert | Perdre tous les plis, exposé | Non | Oui |
+| 9 | Stil Praatje | Perdre tous les plis, tous exposés | Non | Oui |
+| 5 | Pandoer | Appeler un as. Gagner tous les plis | Oui | Oui |
+| 5 | Pandoer+20, 40, etc. | comme Pandoer, avec roem/stuk | Oui | Oui |
+| 9 | Praatje | comme Stil Praatje avec discussion | Non | Oui |
+| 10 | Privé | Gagner tous les plis | Non | Oui |
 
-In the number contracts, **120**, **130**,.. **220**, etc., declarer names trumps and calls the ace of a suit (for example she might say "diamonds are trumps and the ace of spades goes along"). It is permissible to call the ace of trumps. If the declarer holds all four aces (or holds 3 and discarded the fourth) she calls a king instead. The holder of the called card is the declarer's partner. The partner does not reveal her identity immediately, but stacks the tricks for declarer's side. Therefore the partnerships are known as soon as the declarer wins a trick and her partner picks it up, or when the called card is played if this is sooner. If declarer and her partner make at least the bid number of card-points, in tricks, roem and stuk, they have succeeded, otherwise they have failed.
+Dans les contrats à chiffre, **120**, **130**, ... **220**, etc., le déclarant nomme l'atout et appelle l'as d'une couleur (par exemple il pourrait dire « les carreaux sont atout et l'as de pique s'y joint »). Il est permis d'appeler l'as d'atout. Si le déclarant détient les quatre as (ou en détient 3 et a défaussé le quatrième), il appelle un roi à la place. Le détenteur de la carte appelée est le partenaire du déclarant. Le partenaire ne révèle pas immédiatement son identité, mais empile les plis pour le côté du déclarant. Les partenariats sont donc connus dès que le déclarant gagne un pli et que son partenaire le ramasse, ou lorsque la carte appelée est jouée si cela se produit plus tôt. Si le déclarant et son partenaire réalisent au moins le nombre de points de cartes de l'enchère, en plis, roem et stuk, ils ont réussi, sinon ils ont échoué.
 
-**Piccolo** is a contract to win the first trick and lose all the others, playing alone. **Piccolo Ouvert** is the same, but declarer's hand is exposed as she plays to the **second** trick. Some people play the object of Piccolo and Piccolo Ouvert as being to win **any** one trick, but this makes these contracts very easy; a wide range of hands containing a jack will then stand a good chance of making Piccolo.
+Le **Piccolo** est un contrat pour gagner le premier pli et perdre tous les autres, en jouant seul. Le **Piccolo Ouvert** est identique, mais la main du déclarant est exposée lorsqu'il joue au **deuxième** pli. Certains jouent que le but du Piccolo et du Piccolo Ouvert est de gagner **n'importe quel** pli, mais cela rend ces contrats très faciles ; une grande variété de mains contenant un valet auront alors de bonnes chances de réussir un Piccolo.
 
-**Misère** is a contract to win no trick. **Misère Ouvert** is the same, but declarer's hand is exposed as she plays to the **second** trick.
+La **Misère** est un contrat pour ne remporter aucun pli. La **Misère Ouvert** est identique, mais la main du déclarant est exposée lorsqu'il joue au **deuxième** pli.
 
-In **Kereltje**, the declarer names trumps and the holder of the jas is declarer's partner. The partner does not admit to this immediately, but reveals her identity by keeping the tricks for declarer's side. They must win all the tricks between them.
+Au **Kereltje**, le déclarant nomme l'atout et le détenteur du jas est le partenaire du déclarant. Le partenaire ne l'admet pas immédiatement, mais révèle son identité en conservant les plis pour le côté du déclarant. Ils doivent gagner tous les plis ensemble.
 
-In **Zwabber** there are no trumps. Declarer calls an ace, or if holding 4 aces a king, as in the number contracts. The holder of called card is her partner. The partner does not admit to this immediately, but reveals her identity by keeping the tricks for declarer's side. Declarer must win the first four tricks herself. She and her partner must win all the tricks between them. If the declarer fails to win the first four tricks, the contract is lost even if the declarer's team can win all 8 tricks - both the declarer and the partner lose.
+Au **Zwabber**, il n'y a pas d'atout. Le déclarant appelle un as, ou s'il détient 4 as, un roi, comme dans les contrats à chiffre. Le détenteur de la carte appelée est son partenaire. Le partenaire ne l'admet pas immédiatement, mais révèle son identité en conservant les plis pour le côté du déclarant. Le déclarant doit gagner les quatre premiers plis lui-même. Lui et son partenaire doivent gagner tous les plis ensemble. Si le déclarant échoue à gagner les quatre premiers plis, le contrat est perdu même si l'équipe du déclarant peut gagner les 8 plis — le déclarant et le partenaire perdent tous les deux.
 
-In **Solo-zwabber** there are no trumps. Declarer must win all the tricks. 
+Au **Solo-zwabber**, il n'y a pas d'atout. Le déclarant doit gagner tous les plis.
 
-In **Stil Praatje**, the declarer names trumps and all the hands are exposed as declarer leads to the first trick. She must lose all the tricks.
+Au **Stil Praatje**, le déclarant nomme l'atout et toutes les mains sont exposées lorsque le déclarant entame le premier pli. Il doit perdre tous les plis.
 
-In **Pandoer**, declarer names trumps and calls an ace, or if holding 4 aces a king, as in the number contracts. The holder of called card is her partner. The partner does not admit to this immediately, but reveals her identity by keeping the tricks for declarer's side. Declarer and her partner must win all the tricks between them.
+Au **Pandoer**, le déclarant nomme l'atout et appelle un as, ou s'il détient 4 as, un roi, comme dans les contrats à chiffre. Le détenteur de la carte appelée est son partenaire. Le partenaire ne l'admet pas immédiatement, mais révèle son identité en conservant les plis pour le côté du déclarant. Le déclarant et son partenaire doivent gagner tous les plis ensemble.
 
-**Pandoer + *n*** is the same as Pandoer, except that Declarer and her partner must achieve an additional *n* points from roem and stuk, which is announced and denied in the usual way.
+**Pandoer + *n*** est identique à Pandoer, sauf que le déclarant et son partenaire doivent réaliser *n* points supplémentaires provenant du roem et du stuk, qui sont annoncés et déniés de la manière habituelle.
 
-**Praatje** is similar to Stil Praatje, but is not Stil (silent). The declarer names trumps and leads to the first trick and then all the cards of the four players are exposed. Declarer's aim is to lose every trick and from this pioint on, discussion is allowed. The defenders can talk about how they plan to make declarer win a trick, and tell each other which cards to play. They are not allowed to touch the cards except to cards from their own hand, nor to make notes, just to talk (*praatje* means talk or chat). It is sometimes surprisingly difficult to agree on the best defence in a praatje - the ability to trump while able to follow suit opens up many possibilities - and so the discussion can go on for some time.
+Le **Praatje** est similaire au Stil Praatje, mais il n'est pas Stil (silencieux). Le déclarant nomme l'atout et entame le premier pli, puis toutes les cartes des quatre joueurs sont exposées. Le but du déclarant est de perdre chaque pli et à partir de ce moment, la discussion est autorisée. Les défenseurs peuvent parler de la façon dont ils planifient de faire gagner un pli au déclarant, et se dire quelles cartes jouer. Ils ne sont pas autorisés à toucher les cartes sauf celles de leur propre main, ni à prendre des notes, juste à parler (*praatje* signifie discussion). Il est parfois étonnamment difficile de se mettre d'accord sur la meilleure défense dans un praatje — la possibilité de couper tout en pouvant suivre ouvre de nombreuses possibilités — et la discussion peut durer un certain temps.
 
-In **Priv&eacute** declarer plays alone, with a trump suit, and must win all the tricks.
+Au **Privé**, le déclarant joue seul, avec une couleur d'atout, et doit gagner tous les plis.
 
-## The Scoring
+## Le comptage des points
 
-In partnership contracts, if declarer and her partner succeed in their contract, they each add the score for that contract (as given in the left hand column of the table) to their scores; if they fail, they each subtract the score for the contract from their scores. In non-partnership contracts, declarer alone has the score for the contract added to or subtracted from her score. 
+Dans les contrats en partenariat, si le déclarant et son partenaire réussissent leur contrat, chacun ajoute le score de ce contrat (tel que donné dans la colonne de gauche du tableau) à son score ; s'ils échouent, chacun soustrait le score du contrat de son score. Dans les contrats sans partenariat, seul le déclarant a le score du contrat ajouté ou soustrait de son score.
 
-## Other Pandoeren WWW Sites
+## Autres sites Pandoeren
 
-A description of another version of Pandoeren played in West Friesland with different bids and scoring can be found on these archive copies of Arnaud Vink's pages giving [rules of play](https://web.archive.org/web/20140703215838/http://www.pandoeren.nl:80/spelregels.htm) and [contracts](https://web.archive.org/web/www.pandoeren.nl/spelletjes.htm) (in Dutch) and this English translation by Lukas Borst.
+Une description d'une autre version du Pandoeren jouée en Frise-Occidentale avec des enchères et un comptage différents peut être trouvée sur ces copies d'archives des pages d'Arnaud Vink donnant les [règles de jeu](https://web.archive.org/web/20140703215838/http://www.pandoeren.nl:80/spelregels.htm) et les [contrats](https://web.archive.org/web/www.pandoeren.nl/spelletjes.htm) (en néerlandais) et cette traduction anglaise de Lukas Borst.
 
-Here is an archive copy of a description in Dutch of [Tachtigen](https://web.archive.org/web/20070813115130/www.langen.dds.nl/tachtig1.htm), a variant of Pandoeren played at the University of Amsterdam. An [English translation](https://web.archive.org/web/20070812204301/www.langen.dds.nl/tachtig2.htm) is also available.
+Voici une copie d'archive d'une description en néerlandais du [Tachtigen](https://web.archive.org/web/20070813115130/www.langen.dds.nl/tachtig1.htm), une variante du Pandoeren jouée à l'Université d'Amsterdam. Une [traduction anglaise](https://web.archive.org/web/20070812204301/www.langen.dds.nl/tachtig2.htm) est également disponible.
 
-Here is another page, describing a three-player version of [Tachtigen](http://www.beukie.org/duurt/tachtigen.htm).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Pandoeren
+Voici une autre page décrivant une version à trois joueurs du [Tachtigen](http://www.beukie.org/duurt/tachtigen.htm).

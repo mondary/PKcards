@@ -3,140 +3,138 @@
 **Nombre de cartes :** 36
 **Difficulté :** ⭐⭐⭐
 **Type :** Jass/Piquet, Plis
-**But :** A Swiss card game for three or four players in which each player or team must undertake each of a series of contracts.
+**But :** Jeu de cartes suisse pour trois ou quatre joueurs dans lequel chaque joueur ou équipe doit accomplir une série de contrats.
 **Autres noms :** Zick-Zack
 
 ---
 
 ## Introduction
 
-**Coiffeur-Schieber** is a game of the Swiss Jass group. Nick Wedd here describes an excellent version for three players, which appeared in the book *Vom Zweier-Sidi zum Dräck-Jass: V mal X Jassideen* by *Peter Hammer, Orlando Eisenmann* and *Max Ruh (Verlag M & T-Helvetica 1988)*. 
+**Coiffeur-Schieber** est un jeu du groupe suisse du Jass. Nick Wedd décrit ici une excellente version pour trois joueurs, parue dans le livre *Vom Zweier-Sidi zum Dräck-Jass: V mal X Jassideen* de *Peter Hammer, Orlando Eisenmann* et *Max Ruh (Verlag M & T-Helvetica 1988)*.
 
-Coiffeur-Schieber is better known in Switzerland as a game for four players, either in fixed partnerships or all against all. The details are given later.
+Coiffeur-Schieber est plus connu en Suisse comme un jeu à quatre joueurs, soit en partenariats fixes, soit chacun contre tous. Les détails sont donnés plus loin.
 
-## Coiffeur-Schieber for 3 players
+## Coiffeur-Schieber pour 3 joueurs
 
-Each player has to play each of a number of different contracts in the course of the session, which consists of thirty hands.
+Chaque joueur doit jouer chacun d'un certain nombre de contrats différents au cours de la session, qui se compose de trente donnes.
 
-It is played with a 36-card jass pack. There are four suits: acorns, shields, flowers, and bells. In each suit, there are nine cards: ace (or sow), king, ober, under, banner, 9, 8, 7, 6. If you cannot obtain such a pack, you can play it with a bridge or poker pack, using queens for obers, jacks for unders, 10s for banners, and discarding cards smaller than 6s. 
+On joue avec un jeu de Jass de 36 cartes. Il y a quatre couleurs : gland, bouclier, fleur et cloche. Dans chaque couleur, il y a neuf cartes : as (ou cochon), roi, ober, under, bannière, 9, 8, 7, 6. Si vous ne pouvez pas obtenir un tel jeu, vous pouvez y jouer avec un jeu de bridge ou de poker, en utilisant les dames pour les obers, les valets pour les unders, les 10 pour les bannières, et en écartant les cartes inférieures au 6.
 
-The rank of the cards (followed by their point values in brackets) within each suit is: Ace(11), King(4), Ober(3), Under(2), Banner(10), 9(0), 8(0), 7(0), 6(0). However, when there is a trump suit, the rank within the it is: Under(20), 9(14), Ace(11), King(4), Ober(3), Banner(10), 8(0), 7(0), 6(0). These points count to the player winning the trick containing the card. There is also a bonus of 5 points to the player winning the last trick. Thus there is a total of 157 points in the pack.
+L'ordre des cartes (suivi de leurs valeurs en points entre parenthèses) dans chaque couleur est : As(11), Roi(4), Ober(3), Under(2), Bannière(10), 9(0), 8(0), 7(0), 6(0). Cependant, lorsqu'il y a une couleur d'atout, l'ordre dans celle-ci est : Under(20), 9(14), As(11), Roi(4), Ober(3), Bannière(10), 8(0), 7(0), 6(0). Ces points comptent pour le joueur qui remporte le pli contenant la carte. Il y a aussi un bonus de 5 points pour le joueur qui remporte le dernier pli. Ainsi, il y a un total de 157 points dans le jeu.
 
-In contracts without a trump suit, the eights count 8 points instead of 0, to compensate for the lack of a trump under and nine.
+Dans les contrats sans couleur d'atout, les huit comptent 8 points au lieu de 0, pour compenser l'absence d'un under et d'un neuf d'atout.
 
-The deal, and the play, are anticlockwise. The dealer deals all the cards out, in threes, staring with the player on her right. After each hand the deal rotates to the right. A session consists of thirty hands, so each player eventually deals ten times.
+La distribution et le jeu se font dans le sens antihoraire. Le donneur distribue toutes les cartes, par trois, en commençant par le joueur à sa droite. Après chaque donne, la distribution tourne vers la droite. Une session se compose de trente donnes, donc chaque joueur distribue finalement dix fois.
 
-## The Slate
+## Le tableau
 
-At the start of play, a slate is marked as shown. 
+Au début du jeu, un tableau est marqué comme indiqué.
 
-The columns are headed with the players' names and initials. The possible contracts are listed down the left margin. There are ten of these, in three sections: the four suits; Obenabe, Undenufe and Slalom; and Gustav and two Jokers.
+Les colonnes sont en-titrées avec les noms et initiales des joueurs. Les contrats possibles sont listés dans la marge gauche. Il y en a dix, en trois sections : les quatre couleurs ; Obenabe, Undenufe et Slalom ; et Gustav et deux Jokers.
 
-The grouping of the contracts, and the thicker horizontal lines on the slate, are to indicate the values of the contracts. The four suit contracts are each worth one point; the next three are each worth two points; Gustav and the two jokers are each worth three points.
+Le regroupement des contrats, et les lignes horizontales plus épaisses sur le tableau, indiquent les valeurs des contrats. Les quatre contrats de couleur valent chacun un point ; les trois suivants valent chacun deux points ; Gustav et les deux jokers valent chacun trois points.
 
-## Rules of Play
+## Règles du jeu
 
-The play is in tricks. The declarer leads to the first trick and thereafter the winner of each trick leads to the next. 
+Le jeu se fait en plis. Le déclarant mène au premier pli et ensuite le gagnant de chaque pli mène au suivant.
 
-**If there is no trump suit**, the other players are obliged to follow suit when they can do so; those who cannot follow suit may play any card. A trick is won by the highest card of the suit led.
+**S'il n'y a pas d'atout**, les autres joueurs sont obligés de suivre la couleur quand ils le peuvent ; ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Le pli est remporté par la carte la plus haute de la couleur menée.
 
-**If there is a trump suit**, a player who is able to follow suit must either do so or play a trump - you are allowed to trump even if you can follow to the suit led; a player who cannot follow suit may play any card that she holds. A trick is won by the highest trump in it; or if there were no trumps, by the highest card of the suit led.
+**S'il y a une couleur d'atout**, un joueur qui peut suivre doit soit le faire soit jouer un atout — il est autorisé d'atouter même si l'on peut suivre la couleur menée ; un joueur qui ne peut pas suivre peut jouer n'importe quelle carte qu'il détient. Le pli est remporté par le plus haut atout ; ou s'il n'y a pas d'atout, par la carte la plus haute de la couleur menée.
 
-If a non-trump is led, and the second player plays a trump, the third player may only player a smaller trump if she has nothing but trumps in her hand. If she holds cards other than trumps and could follow suit, she must either follow suit or play a larger trump; while if she holds cards other than trumps but cannot follow suit, she may play any card except a smaller trump.
+Si une non-atout est menée et que le deuxième joueur joue un atout, le troisième joueur ne peut jouer un atout inférieur que s'il n'a que des atouts dans sa main. S'il détient des cartes autres que des atouts et peut suivre, il doit soit suivre soit jouer un atout supérieur ; tandis que s'il détient des cartes autres que des atouts mais ne peut pas suivre, il peut jouer n'importe quelle carte sauf un atout inférieur.
 
-A player is never compelled to play the Under of trumps (known as the *Puur*). If trumps are led, and a player holds no trump other than the Puur, she need not play it but may play any other card.
+Un joueur n'est jamais obligé de jouer l'Under d'atout (appelé *Puur*). Si un atout est mené et qu'un joueur n'a pas d'autre atout que le Puur, il n'est pas tenu de le jouer et peut jouer n'importe quelle autre carte.
 
-## The Bidding
+## Les enchères
 
-After the deal, forehand (the player on dealer's right) chooses an available contract, or passes. Available contracts are those which she has not already done, so initially all ten contracts are available. When a player does a contract, her result is written into the appropriate cell of the slate, which indicates that that contract is no longer available to her.
+Après la distribution, le joueur en premier (le joueur à la droite du donneur) choisit un contrat disponible, ou passe. Les contrats disponibles sont ceux qu'il n'a pas encore joués ; initialement, les dix contrats sont donc disponibles. Lorsqu'un joueur joue un contrat, son résultat est inscrit dans la case appropriée du tableau, ce qui indique que ce contrat n'est plus disponible pour lui.
 
-The possible contracts are as follows:
+Les contrats possibles sont les suivants :
 
-**Acorns, Shields, Bells, Flowers**: play with the specified suit as trumps.
-**Obenabe**: Play with no trumps. So that the pack will add up to the usual 157 points, the 8s also count eight points each.
-**Undenufe**: Play with no trumps, and the suits inverted. The suit order is thus 6 (highest), 7, 8, 9, Banner, Under, Ober, King, Ace (lowest). As in Obenabe, the 8s count eight points each. Undenufe is pronounced with the d and the f silent.
-**Slalom** (sometimes called Zick-Zack): Play with no trumps. The tricks are played alternately with the Obenabe and Undenufe rankings of the suits. The declarer decides whether to start the sequence with an Obenabe trick or an Undenufe trick. As in Obenabe, the 8s count eight points each.
-**Gustav** (alternative names: Mittendurch, Gusti, Marie, Tutti): Play with no trumps. Either the first six tricks are played with the suits in Obenabe order and the next six tricks in Undenufe order, or the first six tricks are played Undenufe and the next six Obenabe. The declarer chooses which. As in Obenabe, the 8s count eight points each.
-**Joker, Joker**: A Joker may be used to play any of the above-listed contracts, as declarer chooses. The decision to play a hand as a Joker must be made before play begins, and the declarer must specify whether it is to be scored in the first joker row or the second.
+**Gland, Bouclier, Cloche, Fleur** : jouer avec la couleur spécifiée comme atout.
+**Obenabe** : jouer sans atout. Pour que le jeu totalise les 157 points habituels, les 8 comptent également 8 points chacun.
+**Undenufe** : jouer sans atout, avec les couleurs inversées. L'ordre des couleurs est donc 6 (le plus haut), 7, 8, 9, Bannière, Under, Ober, Roi, As (le plus bas). Comme pour Obenabe, les 8 comptent 8 points chacun. Undenufe se prononce avec le d et le f muets.
+**Slalom** (parfois appelé Zick-Zack) : jouer sans atout. Les plis se jouent alternativement avec les ordres Obenabe et Undenufe des couleurs. Le déclarant décide s'il commence la séquence par un pli Obenabe ou un pli Undenufe. Comme pour Obenabe, les 8 comptent 8 points chacun.
+**Gustav** (noms alternatifs : Mittendurch, Gusti, Marie, Tutti) : jouer sans atout. Soit les six premiers plis se jouent avec l'ordre Obenabe et les six suivants avec l'ordre Undenufe, soit les six premiers se jouent Undenufe et les six suivants Obenabe. Le déclarant choisit. Comme pour Obenabe, les 8 comptent 8 points chacun.
+**Joker, Joker** : un Joker peut être utilisé pour jouer l'un des contrats listés ci-dessus, au choix du déclarant. La décision de jouer une donne comme Joker doit être prise avant le début du jeu, et le déclarant doit préciser si elle doit être comptabilisée dans la première ligne de Joker ou la deuxième.
 
-If the first player passes, the next player on her right either chooses a contract available to her, or passes. If she also passes, the third player has the same choice. If all three players pass, then the first player is obliged to choose a contract. This is called being *in the barrel*.
+Si le premier joueur passe, le joueur suivant à sa droite choisit un contrat qui lui est disponible, ou passe. S'il passe aussi, le troisième joueur a le même choix. Si les trois joueurs passent, le premier joueur est obligé de choisir un contrat. On appelle cela être *dans le tonneau*.
 
-Towards the end of a session, one of the three columns will become full. That player is then obviously obliged to pass on her turn to bid, as she has no contracts available. If this player is first to speak (and of course passes), and the second player passes as well, the third player is *in the barrel* and must choose a contract. The third player cannot pass back to the first player if she has done all her contracts. When two players have finished, the third player cannot pass but has to choose a contract on every deal until she finishes her contracts.
+Vers la fin d'une session, l'une des trois colonnes sera pleine. Ce joueur est alors évidemment obligé de passer à son tour d'enchérir, car il n'a plus de contrats disponibles. Si ce joueur est le premier à parler (et passe bien sûr), et que le deuxième joueur passe aussi, le troisième joueur est *dans le tonneau* et doit choisir un contrat. Le troisième joueur ne peut pas repasser au premier joueur s'il a terminé tous ses contrats. Lorsque deux joueurs ont terminé, le troisième joueur ne peut pas passer et doit choisir un contrat à chaque donne jusqu'à ce qu'il ait terminé ses contrats.
 
-## Scoring
+## Comptage des points
 
-At the end of each hand, declarer counts up her score by adding up the card points that she has won in her tricks, and adding 5 if she also won the last trick. This number is written into her cell for that contract. As a check on her addition, her opponents will generally count up their total, and check that the two totals sum to 157.
+À la fin de chaque donne, le déclarant compte son score en additionnant les points des cartes qu'il a gagnés dans ses plis, et en ajoutant 5 s'il a également gagné le dernier pli. Ce nombre est inscrit dans sa case pour ce contrat. Comme vérification, ses adversaires additionnent généralement leur total, et vérifient que les deux totaux font 157.
 
-If a declarer makes all the tricks, it is known as "match". She receives a bonus of 100, and so writes 257 into the cell. As a further reward, she gets two sticks in the row on the slate labelled "Match", where her opponents get a potato each. To make match, it is not enough to win all 157 points: you must win all twelve tricks.
+Si un déclarant gagne tous les plis, cela s'appelle « match ». Il reçoit un bonus de 100, et inscrit donc 257 dans la case. Comme récompense supplémentaire, il obtient deux bâtons dans la ligne du tableau intitulée « Match », où ses adversaires obtiennent chacun une pomme de terre. Pour faire match, il ne suffit pas de gagner les 157 points : il faut gagner les douze plis.
 
-On the other hand, if a declarer makes no tricks, it is a match against her. She writes 0 into the cell; and as a penalty, she gets two potatoes in the row on the slate labelled "Match", where her opponents get a stick each.
+Réciproquement, si un déclarant ne gagne aucun pli, c'est un match contre lui. Il inscrit 0 dans la case ; et en pénalité, il reçoit deux pommes de terre dans la ligne « Match », où ses adversaires obtiennent chacun un bâton.
 
-This shows the slate part of the way through a session, after 18 hands have been played. Some points to note are:
+Cela montre le tableau en cours de session, après 18 donnes jouées. Quelques points à noter :
 
-- All three players have now done their Shields and Obenabe contracts. The scoring for these contracts has been completed.
+- Les trois joueurs ont maintenant joué leurs contrats Bouclier et Obenabe. Le décompte de ces contrats est terminé.
 
-- Ann has made a match. This has been scored by writing 257 in the appropriate cell (the contract was acorns, but she knew she was going to get a high score and so chose to pay it as a Joker), and in the Match row.
+- Ann a fait un match. Cela a été comptabilisé en écrivant 257 dans la case appropriée (le contrat était gland, mais elle savait qu'elle allait obtenir un score élevé et a donc choisi de le payer comme Joker), et dans la ligne Match.
 
-When all thirty hands have been played, there will be a number in each of the thirty cells. These numbers are then used to deduce the sticks (good) and potatoes (bad) won by each player. For each of the four suit contracts, the player with the highest score receives a stick, and the one with the lowest score receives a potato. For each of the next three contracts, Obenabe, Undenufe and Slalom, the player with the highest score receives two sticks, and the one with the lowest score receives two potatoes. For each of the last three contracts, Gustav and the two Jokers, the player with the highest score receives three sticks, and the one with the lowest score receives three potatoes. If there is a tie for highest or lowest score in any row, it is resolved at random by cutting cards.
+Lorsque les trente donnes ont été jouées, il y aura un nombre dans chacune des trente cases. Ces nombres servent ensuite à déterminer les bâtons (bons) et les pommes de terre (mauvaises) gagnés par chaque joueur. Pour chacun des quatre contrats de couleur, le joueur avec le score le plus élevé reçoit un bâton, et celui avec le score le plus bas reçoit une pomme de terre. Pour chacun des trois contrats suivants, Obenabe, Undenufe et Slalom, le joueur avec le score le plus élevé reçoit deux bâtons, et celui avec le score le plus bas reçoit deux pommes de terre. Pour chacun des trois derniers contrats, Gustav et les deux Jokers, le joueur avec le score le plus élevé reçoit trois bâtons, et celui avec le score le plus bas reçoit trois pommes de terre. En cas d'égalité pour le score le plus haut ou le plus bas dans une ligne, le tie-break se fait au hasard en coupant les cartes.
 
-This shows the slate at the end of the session. The scoring has now been completed. Another match has been made and scored, this time against Beth. In Cath's Match cell, the stick has been drawn through the potato, cancelling it.
+Cela montre le tableau en fin de session. Le décompte est maintenant terminé. Un autre match a été réalisé et comptabilisé, cette fois contre Beth. Dans la case Match de Cath, le bâton a été barré sur la pomme de terre, l'annulant.
 
-The totals appear at the lower right corner of the slate. If the agreed stake was one franc a point, Beth would pay nine francs and Cath would pay four francs, Ann winning thirteen francs.
+Les totaux apparaissent dans le coin inférieur droit du tableau. Si la mise convenue était d'un franc par point, Beth paierait neuf francs et Cath paierait quatre francs, Ann gagnant treize francs.
 
-## Advice on Skilful Play
+## Conseils pour un jeu habile
 
-It is rarely correct for forehand to pass. By passing, you are giving a free option to your opponents, who can pass the contract back to you if they do not have a contract that they particularly want to play.
+Il est rarement correct pour le premier joueur de passer. En passant, vous offrez une option gratuite à vos adversaires, qui peuvent vous renvoyer le contrat s'ils n'ont pas un contrat qu'ils veulent particulièrement jouer.
 
-If you have five cards in the same suit, or four cards including the Under in the same suit, it is often good to play a contract with that suit as trumps.
+Si vous avez cinq cartes de la même couleur, ou quatre cartes dont l'Under dans la même couleur, il est souvent bon de jouer un contrat avec cette couleur comme atout.
 
-Early in the session, a typical suit contract will score about 75 points. If you have a hand which you expect to score 100 or more points, you should play it as a Joker, in the hope of winning three sticks with it instead of one.
+En début de session, un contrat de couleur typique rapporte environ 75 points. Si vous avez une main dont vous attendez un score de 100 points ou plus, vous devriez la jouer comme Joker, dans l'espoir de gagner trois bâtons au lieu d'un.
 
-If you are playing a suit contract, and an opponent leads the Ace of a side suit in which you hold the King, you can trump the Ace and then lead the King to win another trick. This is possible in jass games because of the trumping rule, which is different from that in whist or bridge.
+Si vous jouez un contrat de couleur et qu'un adversaire mène l'As d'une couleur secondaire dans laquelle vous détenez le Roi, vous pouvez atouter l'As puis mener le Roi pour gagner un autre pli. C'est possible dans les jeux de Jass en raison de la règle d'atout, qui est différente de celle du whist ou du bridge.
 
-Slalom tends to be a high-scoring contract. It allows "squeezes" of a form not seen in other games. For example, if you hold A, K, 9, 6 of a suit, and a 6 in another suit, you can guarantee winning six tricks even if your opponents' cards in your four card suit split 4-1. (Lead out A,6,K. Then your opponents have only one card left in the suit. This is either bigger or smaller than the 9, so the 9 will now win if led at the right time.)
+Slalom tend à être un contrat à haut score. Il permet des « squeezes » d'une forme non vue dans d'autres jeux. Par exemple, si vous détenez A, R, 9, 6 d'une couleur et un 6 dans une autre, vous pouvez garantir de gagner six plis même si les cartes de vos adversaires dans votre couleur de quatre cartes se répartissent 4-1. (Jouez A, 6, R. Ensuite vos adversaires n'ont plus qu'une carte dans la couleur. Elle est soit supérieure, soit inférieure au 9, donc le 9 gagnera s'il est joué au bon moment.)
 
-Gustav may seem similar to Slalom, but is harder to play.
+Gustav peut sembler similaire à Slalom, mais il est plus difficile à jouer.
 
-In choosing a contract, the scores already made by the other players should be considered. For example, look at the partly-played session shown above. In the Undenufe row, Ann has not yet played, Beth has 104, and Cath has 28. Ann is pleased about this, as it gives her an easy choice for a poor hand. She does not expect to beat 104 here (and if she did, she would prefer to play it as a Joker), and it should be easy to beat 28 even with a poor hand. Later, Ann was dealt a poor hand, and played it as an Undenufe, scoring 38. This was just as good for her as a score of 100 would have been.
+En choisissant un contrat, les scores déjà réalisés par les autres joueurs doivent être pris en compte. Par exemple, regardez la session partiellement jouée montrée ci-dessus. Dans la ligne Undenufe, Ann n'a pas encore joué, Beth a 104, et Cath a 28. Ann est ravie, car cela lui donne un choix facile pour une mauvaise main. Elle ne s'attend pas à battre 104 ici (et si elle le faisait, elle préférerait la jouer comme Joker), et il devrait être facile de battre 28 même avec une mauvaise main. Plus tard, Ann a reçu une mauvaise main et l'a jouée en Undenufe, marquant 38. Cela était tout aussi bon pour elle qu'un score de 100 l'aurait été.
 
-## Coiffeur Schieber for 4 players
+## Coiffeur-Schieber pour 4 joueurs
 
-This is normally played with fixed partnerships, but can be played all against all.
+Cela se joue normalement avec des partenariats fixes, mais peut aussi se jouer chacun contre tous.
 
-In the standard fixed partnership version (as described in *Göpf Egg: Puur Näll As - AG Müller 1989*), each team has 8 contracts to play, so there are sixteen deals in all. There are no sticks and potatoes - in each hand the team which chose the contract count the points they have won. These points are divided by ten (ignoring units), multiplied by the appropriate number from the following table, and then written down.
+Dans la version standard à partenariats fixes (telle que décrite dans *Göpf Egg: Puur Näll As - AG Müller 1989*), chaque équipe a 8 contrats à jouer, donc il y a seize donnes au total. Il n'y a pas de bâtons ni de pommes de terre — à chaque donne, l'équipe qui a choisi le contrat compte les points qu'elle a gagnés. Ces points sont divisés par dix (unités ignorées), multipliés par le nombre approprié du tableau suivant, puis inscrits.
 
-| Contract | Multiplier |
-| acorns / spades | 1x |
-| flowers / clubs | 2x |
-| shields / diamonds | 3x |
-| bells / hearts | 4x |
+| Contrat | Multiplicateur |
+| gland / pique | 1x |
+| fleur / trèfle | 2x |
+| bouclier / carreau | 3x |
+| cloche / cœur | 4x |
 | obenabe | 5x |
 | undenufe | 6x |
 | joker | 7x |
 | joker | 8x |
 
-For example, if a team chooses bells as trumps and takes 129 points, they score 12 x 4 = 48 points. If the other team make match in bells (257 points) they score 25 x 4 = 100 points. 
+Par exemple, si une équipe choisit cloche comme atout et prend 129 points, elle marque 12 × 4 = 48 points. Si l'autre équipe fait match en cloche (257 points), elle marque 25 × 4 = 100 points.
 
-The player to dealer's right has first choice of contract. If she passes, the turn to choose passes anticlockwise. If all four players pass the player to dealer's right is *in the barrel* and must choose. When one team have done all their contracts they pass thoughout the bidding. At the end all the points won are added up, to determine which team has won and by how much.
+Le joueur à la droite du donneur a le premier choix de contrat. S'il passe, le tour de choisir passe dans le sens antihoraire. Si les quatre joueurs passent, le joueur à la droite du donneur est *dans le tonneau* et doit choisir. Lorsqu'une équipe a terminé tous ses contrats, elle passe pendant toutes les enchères. À la fin, tous les points gagnés sont additionnés pour déterminer quelle équipe a gagné et de combien.
 
-The game played all against all is the same, except that each of the four players has to go through all the contracts, so there are 32 deals in all.
+Le jeu chacun contre tous est le même, sauf que chacun des quatre joueurs doit passer par tous les contrats, soit donc 32 donnes au total.
 
-It is possible to include Slalom and Gustav in the four player game, with appropriate multipliers. This makes the game that much longer.
+Il est possible d'inclure Slalom et Gustav dans le jeu à quatre joueurs, avec des multiplicateurs appropriés. Cela rend le jeu d'autant plus long.
 
-## Variations
+## Variantes
 
-Some people play that in Undenufe, the Aces are worth 0 points and the 6s are worth 11 points. This makes the play less interesting.
+Certains jouent qu'en Undenufe, les As valent 0 point et les 6 valent 11 points. Cela rend le jeu moins intéressant.
 
-It is possible to introduce further types of contract. TUO is one common addition. With four players the first three tricks are played in a trump suit of declarer's choice, the next three in Undenufe, and the last three in Obenabe.
+Il est possible d'introduire d'autres types de contrats. TUO est un ajout courant. Avec quatre joueurs, les trois premiers plis se jouent avec une couleur d'atout au choix du déclarant, les trois suivants en Undenufe, et les trois derniers en Obenabe.
 
-## The Name Coiffeur
+## Le nom Coiffeur
 
-This game was originally invented in the French part of Switzerland, although the more elaborate version described here was developed in the German part. Probably the original game was influenced by Barbu. The name "coiffeur" (French for hair-dresser) is a pun on the phrase "quoi faire" (French for "what to do", "what shall I do"), said by a player who is trying to choose a contract.
+Ce jeu a été inventé à l'origine dans la partie francophone de la Suisse, bien que la version plus élaborée décrite ici ait été développée dans la partie germanophone. Le jeu original a probablement été influencé par le Barbu. Le nom « coiffeur » est un jeu de mots sur l'expression « quoi faire », dit par un joueur qui essaie de choisir un contrat.
 
-## Software and Online Games
+## Logiciel et jeux en ligne
 
-You can play 3-player Coiffeur Schieber Jass online against live opponents on Joe Elleson's [Online Card Games](https://onlinecardgames.co.uk/) site. The user interface is in English. It's free to use but a login is required.
+Vous pouvez jouer au Coiffeur-Schieber Jass à 3 joueurs en ligne contre des adversaires en direct sur le site [Online Card Games](https://onlinecardgames.co.uk/) de Joe Elleson. L'interface est en anglais. C'est gratuit mais une connexion est requise.
 
-The website [jasse.ch](http://jasse.ch/) offers a free online Coiffeur-Schieber Jass game.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Swiss Jass > Coiffeur-Schieber Jass
+Le site [jasse.ch](http://jasse.ch/) propose un jeu gratuit de Coiffeur-Schieber Jass en ligne.
