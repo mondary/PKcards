@@ -2,109 +2,107 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A Croatian card game for 2 or 4 players using a 40-card Triestine deck.
+**But :** Jeu de cartes croate pour 2 ou 4 joueurs utilisant un jeu de 40 cartes triestines.
 **Autres noms :** Croatian Triumph
 
 ---
 
 ## Introduction
 
-Trijumf, also known as Croatian Triumph, is a card game popular on the Croatian coast and islands. Although the name is similar to Italian *trionfo*, the Croatian version of triumph is more similar to the Venetian game *madrasso*, with some elements of *marianna*.
+Trijumf, aussi connu sous le nom de Croatian Triumph, est un jeu de cartes populaire sur la côte et les îles croates. Bien que le nom soit similaire au *trionfo* italien, la version croate du triomphe ressemble davantage au jeu vénitien *madrasso*, avec des éléments de *marianna*.
 
-*This page is based on a contribution from Roman Radeka.*
+*Cette page est basée sur une contribution de Roman Radeka.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Trijumf can be played by two players or by four players in teams of two, each player sitting opposite their partner. 
+Trijumf peut être joué par deux joueurs ou par quatre joueurs en équipes de deux, chaque joueur étant assis en face de son partenaire.
 
-It is most often played with a 40-card Trieste pattern deck (Italian: *Carte Triestine*). There are four suits: cups (*coppe*, *kupe*), clubs (*bastoni, baštoni*), swords (*spade, špade*) and coins (*danari*, *dinari*). The ranking and point values of cards is same as in Briscola / Briškula. The table below shows the counting cards.
+Il se joue le plus souvent avec un jeu de 40 cartes au motif de Trieste (italien : *Carte Triestine*). Il y a quatre enseignes : coupes (*coppe*, *kupe*), bâtons (*bastoni*, *baštoni*), épées (*spade*, *špade*) et deniers (*danari*, *dinari*). La hiérarchie et la valeur en points des cartes sont les mêmes qu'à la Briscola / Briškula. Le tableau ci-dessous montre les cartes comptantes.
 
-| card: | ace | three | king | horse | jack |
-| value: | 11 points | 10 points | 4 points | 3 points | 2 points |
+| carte : | as | trois | roi | cavalier | valet |
+| valeur : | 11 points | 10 points | 4 points | 3 points | 2 points |
 | danari
-(coins) | | | | | |
+(deniers) | | | | | |
 | spade
-(swords) | | | | | |
+(épées) | | | | | |
 | bastoni
-(batons) | | | | | |
+(bâtons) | | | | | |
 | coppe
-(cups) | | | | | |
+(coupes) | | | | | |
 
-The ranking of the cards in tricks corresponds to their scoring value. As in Briscola, the highest-ranking card is the Ace (*Asso, Aš*) (worth 11 points), followed by the Three (10 points), King (*Re, Kralj*) (4 points), Horse (*Cavallo, Kaval*) (3 points), Jack (*Fante, Fanat*) (2 points), and continuing with the 7, 6, 5, 4 and 2 (all worth 0 points). There is a total of 30 points in each suit and 120 points in the pack.
+La hiérarchie des cartes dans les plis correspond à leur valeur de score. Comme à la Briscola, la carte la plus forte est l'As (*Asso*, *Aš*) (11 points), suivi du Trois (10 points), du Roi (*Re*, *Kralj*) (4 points), du Cavalier (*Cavallo*, *Kaval*) (3 points), du Valet (*Fante*, *Fanat*) (2 points), puis le 7, 6, 5, 4 et 2 (tous valant 0 point). Il y a un total de 30 points dans chaque enseigne et 120 points dans le jeu.
 
-Older players and Croatian Italians frequently use the Italian names of the cards, other Dalmatians use the Croatian names, and some players of the younger generation call the King, Horse and Jack 13 (*trinaestica*), 12 (*dvanaestica*) and 11 (*jedanaestica*) respectively, corresponding to the numbers printed on the cards.
+Les joueurs plus âgés et les Italiens croates utilisent fréquemment les noms italiens des cartes, les autres Dalmates utilisent les noms croates, et certains joueurs de la jeune génération appellent le Roi, le Cavalier et le Valet respectivement 13 (*trinaestica*), 12 (*dvanaestica*) et 11 (*jedanaestica*), correspondant aux numéros imprimés sur les cartes.
 
-Unlike in Italy, the direction of deal and play is clockwise.
+Contrairement à l'Italie, le sens de la donne et du jeu est horaire.
 
-## Cutting and Dealing
+## Coupe et donne
 
-The first dealer can be chosen by any convenient random method. The turn to deal passes to the left hand opponent after each hand.
+Le premier donneur peut être choisi par n'importe quelle méthode aléatoire pratique. Le tour de donner passe à l'adversaire de gauche après chaque main.
 
-The dealer shuffles and offers the deck of cards face down to the right-hand opponent (the previous dealer) to cut. This player has three options:
+Le donneur mélange et offre le jeu de cartes face cachée à l'adversaire de droite (le donneur précédent) pour qu'il coupe. Ce joueur a trois options :
 
-- **Normal cut** (*Predizanje*) - the player splits the deck into 2 or 3 smaller portions and reassembles them in reversed order.
+- **Coupe normale** (*Predizanje*) — le joueur sépare le jeu en 2 ou 3 tas plus petits et les réassemble dans l'ordre inverse.
 
-- **Knock** (*Tući mac*) - the player puts his fist on the deck or knocks on them, leaving their order unchanged.
+- **Frappe** (*Tući mac*) — le joueur pose son poing sur le jeu ou frappe dessus, laissant leur ordre inchangé.
 
-- **Flip** - the player turns the top card of the deck face up and puts it on the table. The suit of the flipped card becomes the trump suit for the current deal; the remainder of the deck remains as it was.
+- **Retournement** — le joueur retourne la carte supérieure du jeu face visible et la pose sur la table. L'enseigne de la carte retournée devient l'atout pour la donne en cours ; le reste du jeu reste tel qu'il était.
 
-The method of dealing and determining trumps depends on the option chosen as follows.
+La méthode de donne et la détermination des atouts dépendent de l'option choisie, comme suit.
 
-Normal cut
-The cards are dealt in packets of 5 and a card is turned up to determine the trump suit after the first round of the deal as follows.
+Coupe normale
+Les cartes sont distribuées par paquets de 5 et une carte est retournée pour déterminer l'atout après le premier tour de donne, comme suit.
 
-- If there are two players, the dealer deals 5 cards to the non-dealer, 5 cards to the dealer, places the 11th card face up on the table, then dealer another 5 cards to the dealer, 5 to the dealer and stacks the last 9 cards face down crosswise on top of the trump indicator card.
+- S'il y a deux joueurs, le donneur donne 5 cartes au non-donneur, 5 cartes au donneur, pose la 11e carte face visible sur la table, puis distribue encore 5 cartes au non-donneur, 5 au donneur et empile les 9 dernières cartes face cachée en croix sur la carte indicatrice d'atout.
 
-- If there are four players the dealer deals a packet of 5 cards each in clockwise order beginning with the player to the left, turns the next (21st) card face up for all to see (this is the trump suit indicator) and gives it to the player to the left, then gives this player 4 more cards and then another packet of 5 to each of the other players in clockwise order.
+- S'il y a quatre joueurs, le donneur distribue un paquet de 5 cartes à chacun dans le sens horaire en commençant par le joueur à gauche, retourne la carte suivante (la 21e) face visible pour que tous la voient (c'est l'indicateur d'atout) et la donne au joueur à gauche, puis donne 4 cartes supplémentaires à ce joueur et enfin un autre paquet de 5 à chacun des autres joueurs dans le sens horaire.
 
-Knock
-The cards are dealt in packets of 10, as follows.
+Frappe
+Les cartes sont distribuées par paquets de 10, comme suit.
 
-- If there are two players the dealer gives a packet of 10 cards to the non-dealer, then 10 cards to the dealer, then places the 21st card face up on the table to indicate the trump suit and stacks the last 9 cards face down crosswise on top of it.
+- S'il y a deux joueurs, le donneur donne un paquet de 10 cartes au non-donneur, puis 10 cartes au donneur, puis pose la 21e carte face visible sur la table pour indiquer l'atout et empile les 9 dernières cartes face cachée en croix dessus.
 
-- If there are four players the dealer deals a packet of 10 cards to each player in clockwise order beginning with the player to the left. In this case there is no trump indicator card and no trump suit unless there is a declaration (see below).
+- S'il y a quatre joueurs, le donneur distribue un paquet de 10 cartes à chaque joueur dans le sens horaire en commençant par le joueur à gauche. Dans ce cas, il n'y a pas de carte indicatrice d'atout ni d'atout, sauf s'il y a une déclaration (voir ci-dessous).
 
-Flip
-The cards are dealt in packets of 5 as follows.
+Retournement
+Les cartes sont distribuées par paquets de 5, comme suit.
 
-- If there are two players, the dealer deals 5 cards to the non-dealer, 5 cards to the dealer, then another packet of 5 each, then stacks the last 9 cards face down crosswise on top of the flipped trump indicator card.
+- S'il y a deux joueurs, le donneur donne 5 cartes au non-donneur, 5 au donneur, puis un autre paquet de 5 à chacun, puis empile les 9 dernières cartes face cachée en croix sur la carte indicatrice d'atout retournée.
 
-- If there are four players the flipped trump indicator card belongs to the player to dealer's left. The dealer gives a packet of 4 cards to this player and then deals the remaining cards in packets of 5.
+- S'il y a quatre joueurs, la carte indicatrice d'atout retournée appartient au joueur à gauche du donneur. Le donneur donne un paquet de 4 cartes à ce joueur puis distribue les cartes restantes par paquets de 5.
 
-After the deal, each player should have 10 cards in their hand. 
+Après la donne, chaque joueur doit avoir 10 cartes en main.
 
-- If there are two players there will be a face up trump indicator in the middle of the table with the undealt cards stacked on top of it in such a way that the trump suit is visible.
+- S'il y a deux joueurs, il y aura un indicateur d'atout face visible au milieu de la table avec les cartes non distribuées empilées dessus de manière à ce que l'atout soit visible.
 
-- If there are four player and the cards were not knocked, the trump indicator card is held by the player to dealer's left and is known to all the players.
+- S'il y a quatre joueurs et que les cartes n'ont pas été frappées, la carte indicatrice d'atout est détenue par le joueur à gauche du donneur et est connue de tous les joueurs.
 
-## Play
+## Jeu
 
-The player to the left of the dealer leads to the first trick, and the other players in turn must each play a card. Each trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led. The winner of each trick leads to the next.
+Le joueur à gauche du donneur mène au premier pli, et les autres joueurs doivent chacun jouer une carte à leur tour. Chaque pli est gagné par le plus fort atout qu'il contient, ou s'il n'y a pas d'atout, par la carte la plus forte de l'enseigne demandée. Le gagnant de chaque pli mène au suivant.
 
-Any card may be led to a trick. Suit must be followed - in each trick the other players must play cards of the same suit as the card led to the trick if they can. There is no compulsion to beat the previous cards played to the trick. A player who has no card of the suit led is **required** to play a trump card. A player who has neither a card of the suit that was led nor a trump card can play any card (but since this card is neither a trump nor a card of the suit led it cannot win the trick).
+N'importe quelle carte peut être menée. On doit suivre l'enseigne — à chaque pli, les autres joueurs doivent jouer des cartes de la même enseigne que la carte menée s'ils le peuvent. Il n'y a aucune obligation de battre les cartes précédemment jouées au pli. Un joueur qui n'a pas de carte de l'enseigne demandée est **tenu** de jouer un atout. Un joueur qui n'a ni carte de l'enseigne demandée ni atout peut jouer n'importe quelle carte (mais puisque cette carte n'est ni un atout ni une carte de l'enseigne demandée, elle ne peut pas gagner le pli).
 
-The winners of the last trick (known as *ultima)* score an extra 10 card points.
+Les gagnants du dernier pli (connu sous le nom d'*ultima*) marquent 10 points de carte supplémentaires.
 
-In contrast to Briscola and Tressette, no physical signals or conversation of any kind are permitted.
+Contrairement à la Briscola et au Tressette, aucun signal physique ni aucune conversation d'aucune sorte ne sont autorisés.
 
-**In the two-player game,** after each trick, each player draws a card from the pile of undealt cards and shows the card to the opposing player. The winner of the trick draws first, followed by the loser. The player who won the trick then leads to the next one. Eventually the undealt cards will be used up, and at this point the loser of the trick just played will draw the face up trump card. The game then continues without drawing cards until all the cards have been played. 
+**Dans le jeu à deux joueurs,** après chaque pli, chaque joueur pioche une carte du tas de cartes non distribuées et la montre à l'adversaire. Le gagnant du pli pioche en premier, suivi du perdant. Le joueur qui a gagné le pli mène ensuite au suivant. Finalement, les cartes non distribuées seront épuisées, et à ce moment le perdant du pli qui vient d'être joué piochera la carte d'atout face visible. Le jeu continue ensuite sans piocher de cartes jusqu'à ce que toutes les cartes aient été jouées.
 
-### Declarations
+### Déclarations
 
-Extra card points can be scored by a player who holds the King and Horse of the same suit together in their hand and declares them (showing them face up) at their turn immediately before playing a card to the first trick. Declaring a King-Horse combination is known in Croatian as *akužanje *or* zvanje*, and scores card 40 points if the cards are in the trump suit, or 20 card points in any other suit.
+Des points de carte supplémentaires peuvent être marqués par un joueur qui détient le Roi et le Cavalier de la même enseigne ensemble dans sa main et les déclare (en les montrant face visible) à son tour, immédiatement avant de jouer une carte au premier pli. Déclarer une combinaison Roi-Cavalier est appelé en croate *akužanje* ou *zvanje*, et rapporte 40 points de carte si les cartes sont à l'atout, ou 20 points de carte dans toute autre enseigne.
 
-**In the two-player game** a player can only declare one King-Horse combination. Even if the player holds a King-Horse pair in more than one suit, only one of them can be declared and scored. It is however possible that both players to declare a King-Horse combination in which case both score. Since a declaration is only possible before playing to the first trick, it is not possible to score for a King-Horse pair that uses a card drawn from the deck during the play.
+**Dans le jeu à deux joueurs** un joueur ne peut déclarer qu'une seule combinaison Roi-Cavalier. Même si le joueur détient une paire Roi-Cavalier dans plus d'une enseigne, une seule peut être déclarée et comptée. Il est toutefois possible que les deux joueurs déclarent une combinaison Roi-Cavalier, auquel cas les deux marquent. Puisqu'une déclaration n'est possible que avant de jouer au premier pli, il n'est pas possible de compter pour une paire Roi-Cavalier qui utilise une carte piochée du jeu pendant le jeu.
 
-**In the four-player game** a player is allowed to declare and score for more than one King-Horse pair before playing to the first trick, so for example a player who was dealt all four Horses and all four Kings could claim as many as 100 card points (40+20+20+20) by declaring all of them.
+**Dans le jeu à quatre joueurs** un joueur est autorisé à déclarer et compter plus d'une paire Roi-Cavalier avant de jouer au premier pli. Ainsi, par exemple, un joueur qui aurait reçu les quatre Cavaliers et les quatre Rois pourrait réclamer jusqu'à 100 points de carte (40+20+20+20) en les déclarant tous.
 
-**In the four-player game when the cards are knocked** (not cut or flipped) the first trick is played without trumps (the highest card of the suit led wins the trick). If any King-Horse pairs are declared, the first pair declared scores 40 and its suit becomes trumps from the second trick onwards. Any other King-Horse pairs that are declared score 20 points and do not affect the trump suit. 
+**Dans le jeu à quatre joueurs lorsque les cartes sont frappées** (ni coupées ni retournées), le premier pli se joue sans atout (la carte la plus forte de l'enseigne demandée gagne le pli). Si des paires Roi-Cavalier sont déclarées, la première paire déclarée compte 40 et son enseigne devient l'atout à partir du deuxième pli. Toute autre paire Roi-Cavalier déclarée compte 20 points et n'affecte pas l'atout.
 
-## Scoring and Winning
+## Marquage et victoire
 
-When all tricks have been played each side counts the value of cards it has won in tricks. The side that won the last trick adds 10 card points for *ultima,* and 40 or 20 points are scored for for each King-Horse pair that was declared in the first trick. In the four-player game the players of a partnership combine the value of the cards in their tricks and their other scores into a single total.
+Lorsque tous les plis ont été joués, chaque camp compte la valeur des cartes qu'il a gagnées en plis. Le camp qui a gagné le dernier pli ajoute 10 points de carte pour *l'ultima*, et 40 ou 20 points sont comptés pour chaque paire Roi-Cavalier qui a été déclarée au premier pli. Dans le jeu à quatre joueurs, les joueurs d'une équipe combinent la valeur des cartes de leurs plis et leurs autres scores en un seul total.
 
-The object of the game is for the player (if there are two players) or team (if there are 4 players) to score a total of at least 401 card points over as many deals as it takes. A player can stop the play at any time and claim that their side has reached a total of 401 or more points counting only the cards in tricks they have already won up to that point and the value of any declarations they have made. The card points are then counted and if the claim is correct that side wins the game (irrespective of the other side's total). If the claim is incorrect their opposing side wins the game (irrespective of their points total). 
+Le but du jeu est pour le joueur (s'il y a deux joueurs) ou l'équipe (s'il y a 4 joueurs) d'atteindre un total d'au moins 401 points de carte en autant de donnes que nécessaire. Un joueur peut arrêter le jeu à tout moment et affirmer que son camp a atteint un total de 401 points ou plus en ne comptant que les cartes des plis déjà gagnés jusqu'à ce point et la valeur de ses éventuelles déclarations. Les points de carte sont alors comptés et si l'affirmation est correcte, ce camp gagne la partie (indépendamment du total de l'autre camp). Si l'affirmation est incorrecte, le camp adverse gagne la partie (indépendamment de son propre total de points).
 
-If player breaks the rules of play, for example by failing to follow suit when holding a card of the suit led, or by failing to play a trump when able to, the play of that hand ends immediately and the opponents of the side that broke the rules score 130 points, as though they had won every trick.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Trijumf
+Si un joueur enfreint les règles du jeu, par exemple en ne suivant pas l'enseigne alors qu'il détient une carte de l'enseigne demandée, ou en ne jouant pas un atout alors qu'il le peut, le jeu de cette main s'arrête immédiatement et les adversaires du camp qui a enfreint les règles marquent 130 points, comme s'ils avaient gagné tous les plis.

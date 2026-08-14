@@ -4,250 +4,196 @@
 **Nombre de cartes :** 20
 **Difficulté :** ⭐⭐⭐
 **Type :** Mariage, Mariage
-**But :** How to playSchnapsen, the popular Austrian variant of the two-player card game 66.
+**But :** Comment jouer au Schnapsen, la variante autrichienne populaire du jeu de cartes à deux joueurs 66.
 **Autres noms :** Kurnik
 
 ---
 
-Schnapsen (or Schnapser) is a popular Austrian two-hander. It is essentially a tightened-up version of the classic German game Sechsundsechzig. Other closely related games include Tausendeins (Austria), Tute (Spain), Tyziacha (Russia, Ukraine and Poland) and Snapszli (Hungary), but anyone familiar with any member of the Ace-Ten family (such as Pinochle) will grasp the essentials quickly. Schnapsen is an inherently tense game that requires a lot of concentration and so isn't good for socializing, but it's a challenging game whose interest never wavers.
+Le Schnapsen (ou Schnapser) est un jeu autrichien populaire à deux joueurs. C'est essentiellement une version resserrée du jeu classique allemand Sechsundsechzig. D'autres jeux étroitement apparentés incluent le Tausendeins (Autriche), le Tute (Espagne), le Tyziacha (Russie, Ukraine et Pologne) et le Snapszli (Hongrie), mais quiconque connaît un membre de la famille As-Dix (comme le Pinochle) en saisira rapidement l'essentiel. Le Schnapsen est un jeu intrinsèquement tendu qui exige beaucoup de concentration et n'est donc pas idéal pour la sociabilité, mais c'est un jeu stimulant dont l'intérêt ne faiblit jamais.
 
-*This page is based on a description contributed by [Keith Waclena](https://www2.lib.uchicago.edu/keith/keith.html), maintainer of the [Austrian Beer Guide](https://www2.lib.uchicago.edu/keith/austrian-beer.html), and revised by John McLeod.*
+*Cette page est basée sur une description contribuée par [Keith Waclena](https://www2.lib.uchicago.edu/keith/keith.html), responsable du [Austrian Beer Guide](https://www2.lib.uchicago.edu/keith/austrian-beer.html), et révisée par John McLeod.*
 
-## The Idea of the Game
+## Principe du jeu
 
-[](https://www.amazon.com/Winning-Schnapsen-Basics-Expert-Strategy/dp/1515377369/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=cardgames&linkId=b45d17a012a1317a7dea7ed9f60bebce)
+Vous pouvez commander le livre de Martin Tompa *[Winning Schnapsen](https://psellos.com/schnapsen/blog/2015/09/book.html)*, excellent ouvrage sur la stratégie au Schnapsen, sur psellos.com.
 
-You can order [
+Le Schnapsen est un jeu de plis à points de la famille du mariage, et l'idée de base est de gagner des points en capturant des cartes précieuses dans les plis, et de gagner des bonus en déclarant des mariages (paires assorties de rois et de dames). Cependant, quelques particularités distinguent le Schnapsen. La première est que le jeu se joue en pli-et-pioche sans obligation de fournir jusqu'à ce que le *talon* de cartes non distribuées soit épuisé ou fermé, auquel point les plis restants en main sont joués strictement, avec fourniture, atout et montée. La deuxième est que pour gagner une donne il faut 66 points de cartes, et les joueurs sont tenus de suivre leur score de tête — l'utilisation d'une feuille de score n'est pas autorisée. Si votre score atteint 66 et que vous omettez de l'annoncer, votre adversaire peut revendiquer la victoire lorsqu'il atteint 66, indépendamment de votre score ; de même, si un joueur annonce 66 alors qu'il ne l'a pas atteint, il paie une pénalité. Une partie se joue en 7 points de partie, et peut être atteinte assez rapidement quand les pénalités et les bonus entrent en jeu. Enfin, le jeu est si court qu'il n'y a pratiquement pas de cartes inutiles : pratiquement chaque carte compte et cela peut être une agonie de décider comment jouer chacune d'entre elles. Le jeu court permet aussi une compréhension assez complète de la situation des cartes de s'établir rapidement, et la fermeture s'avère être l'élément clé de la stratégie. Très peu de donnes sont jouées jusqu'à la fin du jeu, et la décision de quand fermer peut servir de coup pour écraser votre adversaire ou de pari pour l'empêcher de vous infliger le même sort.
 
-Winning Schnapsen](https://www.amazon.com/Winning-Schnapsen-Basics-Expert-Strategy/dp/1515377369/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=cardgames&linkId=b45d17a012a1317a7dea7ed9f60bebce),
+Une partie typique se déroule comme suit. Les mains sont distribuées et une des cartes non distribuées est retournée comme atout. Les mains sont jouées en pli-et-pioche tandis que les joueurs rivalisent pour se constituer de la force (généralement en atouts) qui leur permette de fermer le talon. Ils surveillent également les melds précieux (mariages et le valet d'atout, qui peut être échangé contre la précieuse carte d'atout retournée) qui peuvent mener à une fermeture rapide. Pendant tout ce temps, les joueurs gardent le compte de leur propre score et de celui de leur adversaire. À un moment donné, l'un des joueurs peut retourner la carte d'atout, signalant que le jeu est fermé et que les cartes restantes en main sont jouées sans remplacement du talon, en fournissant strictement, coupant et montant quand requis. Habituellement, un joueur tire les atouts et annonce 66 avant que la donne ne soit entièrement jouée. Mais s'il se trompe dans son annonce, son adversaire gagne un gros bonus.
 
-Martin Tompa's excellent 
+## Les cartes
 
-book 
-on Schnapsen strategy,
+Le Schnapsen se joue avec un jeu de 20 cartes aux enseignes françaises ou allemandes. Les jeux de Schnapsen autrichiens comportent 24 cartes, comme pour le Sechsundsechzig ; il faut retirer les neufs avant de jouer. Pour jouer avec un jeu international standard de 52 cartes, retirez les cartes du Deux au Neuf inclus.
 
-from amazon.com.
+Les rangs et les valeurs des cartes, du plus élevé au plus bas, suivent le modèle habituel d'Europe centrale :
 
-Schnapsen is a point-trick game of the Marriage group, and so the basic idea is to win points by capturing valuable cards in tricks, and to make bonuses by melding marriages (matched pairs of kings and queens). However, there are a few ideas that set Schnapsen apart. The first is that the game is played at trick-and-draw with no requirement to follow suit until the *talon* of undealt cards is exhausted or closed, at which point the tricks remaining in hand are played out strictly, F,t,r. The second is that to win a hand you need 66 card points, and the players are required to keep track of their score in their heads -- the use of a scoresheet is not allowed. If your score reaches 66 and you neglect to announce the fact, then your opponent can claim a win when they reach 66, irrespective of your score; also, if a player claims 66 when they have not in fact made it, they pay a penalty. A game is seven game points, and can be reached pretty quickly when penalties and bonuses come into play. Finally, the pack is so short that there's no dead wood: virtually every card counts and it can be agony trying to decide how to play each one. The short pack also allows a pretty complete understanding of the lay of the cards to build up quickly, and closing turns out to be the key element of strategy. Very few games are played out to the end of the pack, and the decision of when to close can be used as a blow to crush your opponent or as a gamble to prevent her from presenting you with the same fate.
+| Carte à enseigne française | Carte à enseigne allemande | Valeur en points |
+| As (Ass) | Deux / Truie (Daus / Sau) | 11 |
+| Dix (Zehner) | Dix (Zehner) | 10 |
+| Roi (König) | Roi (König) | 4 |
+| Dame (Dame) | Ober | 3 |
+| Valet (Bube) | Unter | 2 |
 
-A typical game proceeds as follows. The hands are dealt and one of the undealt cards is turned up as trump. The hands are played out at trick-and-draw as the players vie to build up strength (usually in trumps) to allow them to close the talon. They also watch for valuable melds (marriages and the trump Jack, which can be swapped for the valuable turn-up trump) that can swing the hand
-to a rapid close. All the while the players are keeping track of their own scores and their opponent's. At some point one of the players may flip over the turn-up, signalling that the deck is closed and the cards remaining in hand are played out, with no replacement from the talon, following suit strictly, trumping and heading the trick when required. Usually one player draws trumps and announces 66 before the hand is played out. But if she calls it incorrectly, her opponent wins a big bonus.
+Avec les cartes allemandes, la carte la plus forte est en fait le deux (*Daus*), bien qu'elle soit parfois appelée l'as (*Ass*) et souvent la Truie (*Sau*), car c'est une carte grasse, qui vaut beaucoup de points. Notez également qu'en l'absence de dame, les mariages de même sexe se font entre le König et l'Ober. En fait, les Obers sont parfois appelées Dames (*Damen*) et les Unters des Valets (*Buben*).
 
-## The Cards
+## La distribution
 
-Schnapsen is played with a 20-card French- or German-suited pack. Austrian Schnapsen packs come with 24 cards, as for Sechsundsechzig; you should strip out the Nines before playing. To play with a standard 52-card international pack, remove the cards from Two to Nine inclusive. 
+Déterminez le donneur par le moyen de votre choix ; ensuite, la distribution alterne entre les joueurs. Après le mélange et la coupe, distribuez trois cartes à chaque joueur. La carte suivante est posée face ouverte sur la table pour déterminer la couleur d'atout. Puis deux autres cartes sont distribuées à chaque joueur, de sorte que les joueurs ont chacun cinq cartes. Enfin, les cartes non distribuées restantes sont empilées face cachée en croix sur l'atout, de sorte que la valeur de la carte d'atout reste visible. Ces dix cartes forment le **talon**, dans lequel les joueurs piochent après chaque pli.
 
-The ranks and values of the cards, from high to low, follow the usual Central European model:
+## Le jeu
 
-| French suited card | German suited card | Point value |
-| Ace (Ass) | Deuce / Sow (Daus / Sau) | 11 |
-| Ten (Zehner) | Ten (Zehner) | 10 |
-| King (König) | King (König) | 4 |
-| Queen (Dame) | Over (Ober) | 3 |
-| Jack (Bube) | Under (Unter) | 2 |
+Le non-donneur mène au premier pli. Dans la première partie de la donne, un pli est gagné par la carte la plus forte de la couleur menée, ou par l'atout le plus fort si un atout a été joué. Il n'y a pas d'obligation de fournir ou de couper. Le pli est emporté par le gagnant, qui comptera la valeur en points des deux cartes du pli, selon le tableau ci-dessus, vers le total de 66 nécessaire pour gagner la donne. Après que le pli est joué, le gagnant du pli prend la carte supérieure du talon pour reconstituer sa main, puis le perdant fait de même. Le gagnant du pli mène au suivant.
 
-With German cards, the highest card is in fact the two (*Daus*), although
-it is sometimes called the ace (*Ass*), and often the Sow (*Sau*), since it is a fat card, worth many points. Note also that, in the absence of a
-queen, same-sex marriages are between the König and Ober. In fact Obers are sometimes referred to as Queens (*Damen*) and Unters as Jacks (*Buben*).
+Dans les parties informelles (« douces »), il est autorisé pour un joueur de regarder les cartes dans les plis qu'il a gagnés. Cependant, lorsqu'un pli est gagné par un adversaire, vous n'êtes autorisé à le voir que jusqu'à ce que la première carte soit jouée au pli suivant.
 
-## The Deal
+## Le valet d'atout
 
-Determine the dealer by any acceptable means; thereafter, the deal alternates between the players.
-After the shuffle and cut, deal a batch of three cards to each player. The next card is placed face up on the table to determine the trump suit. Then another batch of two cards is dealt to each player, so that the players have five cards each. Finally the remaining undealt cards are stacked face down crosswise on top of the trump, so that the value of the trump card can still be seen. These ten cards form the **talon**, from which the players draw after each trick.
+Comme dans de nombreux jeux d'Europe centrale de la famille As-Dix, le détenteur de la carte d'atout la plus basse (dans ce cas le valet) peut l'échanger contre la carte d'atout retournée. Cela ne peut être fait que par le joueur dont c'est le tour de mener, juste avant qu'il ne mène au pli. L'échange n'a pas besoin d'être fait à la première opportunité possible — le détenteur du valet d'atout peut attendre et échanger après n'importe quel pli qu'il gagne, tant qu'il reste des cartes dans le talon et que le talon n'a pas été fermé. Une fois le talon fermé ou épuisé, le valet d'atout ne peut plus être échangé.
 
-## The Play
+## Mariages / Paires
 
-Non-dealer leads to the first trick. In the first part of the hand, a trick is taken by the
-highest card of the suit led, or by the highest trump if any is played. There
-is no obligation to follow suit or to trump. The trick is taken by the winner, who will count the point value of the two cards in the trick, as per the
-table above, towards the total of 66 needed to win the hand. After the trick is played, the winner of the trick takes the top card of the talon to replenish her hand, after which the loser does the same. The winner of the trick leads to the next. 
+Un « mariage » ou « paire » (le Roi et la Dame assortis, ou Roi et Ober, de n'importe quelle couleur) peut être déclaré au début de n'importe quel pli par le joueur dont c'est le tour de mener. Cela rapporte 20 points (pour un mariage ordinaire) ou 40 points (pour un mariage royal, c'est-à-dire un mariage d'atout). Le joueur déclare « 20 » ou « 40 » et doit mener l'une des deux cartes au pli et montrer l'autre carte. Bien qu'un mariage puisse être déclaré à tout moment où un joueur a la main, le score ne compte que lorsque le déclarant a gagné un pli. Ainsi, par exemple, un joueur peut déclarer 40 pour le Roi-Dame d'atout à l'ouverture, mais s'il ne gagne aucun pli d'ici la fin de la donne, son score est zéro.
 
-In informal ("soft") games, it is legal for a player to look through the cards in the tricks that she has taken. However, when a trick is won by an opponent, you are only allowed to see it until the first card is played to the next trick.
+## Épuisement du talon
 
-## The Trump Jack
+Si personne ne ferme, éventuellement les deux dernières cartes du talon sont piochées — la dernière carte face cachée va au gagnant de ce pli et la carte d'atout face ouverte au perdant. Après cela, les règles de jeu changent et deviennent plus strictes. Les joueurs doivent fournir ; de plus, sous réserve de l'obligation de fournir, le deuxième joueur doit battre la carte menée si possible. Cela signifie que si votre adversaire mène un non-atout :
 
-As in many Central European Ace-Ten games, the holder of the lowest trump card
-(in this case the Jack) may exchange it for the trump turn-up. This can only be
-done by the player whose turn it is to lead, just before he leads to the trick. The exchange does not have to be made at the first possible opportunity - the holder of the trump jack can wait and exchange after any trick that he wins, as long as cards still remain in the talon, and the talon has not been closed. Once the talon has been closed or exhausted, the trump jack cannot be exchanged. 
+- vous devez jouer une carte supérieure de la même couleur si vous le pouvez ;
 
-## Marriages / Pairs
+- à défaut, vous devez jouer une carte inférieure de la même couleur ;
 
-A "marriage" or "pair" (the matched King and Queen, or King and Ober, of any suit) may be melded at the start of any trick by the player whose turn it is to lead. This scores 20 points (for a plain marriage) or 40 points (for a royal marriage, i.e., a marriage in trumps). The player declares "20" or "40" and must lead one of the two cards to the trick and show the other card. Although a marriage can be melded any time that a player has the lead, the score does not count until the melder has taken a trick. So for example, a player may declare 40 for the King-Queen of trumps on the opening lead, but if she doesn't take a trick by the end of the hand her score is zero. 
+- si vous n'avez pas de carte de la couleur menée, vous devez jouer un atout ;
 
-## Exhausting the Talon
+- si vous n'avez pas d'atout non plus, vous pouvez jouer n'importe quoi.
 
-If no one closes, eventually the last two cards of the talon are drawn - the last face-down card goes to the winner of this trick and the face-up trump to the loser. After this the rules of play change and become more strict. Players must follow suit; also, subject to the requirement to follow suit the second player must beat the led card if possible. This means that if your opponent leads a non-trump: 
+Si votre adversaire mène un atout :
 
-- you must play a higher card of the same suit if you can;
+- vous devez jouer un atout supérieur si possible ;
 
-- failing this you must play a lower card of the same suit;
+- si vous n'avez pas d'atout supérieur, vous devez jouer un atout inférieur ;
 
-- if you have no card of the suit that was led you must play a trump;
+- si vous n'avez aucun atout, vous pouvez jouer n'importe quoi.
 
-- if you have no trumps either you may play anything.
+## Fermeture
 
-If your opponent leads a trump: 
+À tout moment, lorsque c'est son tour de mener, l'un ou l'autre joueur peut fermer le talon en retournant la carte d'atout et en la posant face cachée sur le dessus du talon. C'est un engagement à atteindre au moins 66 points de cartes en utilisant uniquement les cartes en main. Après la fermeture du talon, plus aucune carte ne peut être piochée, et les cartes restantes sont jouées selon les mêmes règles que lorsque le talon est épuisé : fournir et monter si possible, sinon couper.
 
-- you must play a higher trump if possible;
+Le talon ne peut être fermé qu'**après** avoir pioché une carte de remplacement, lorsque les joueurs ont chacun une main de cinq cartes. Il est possible d'échanger le valet d'atout contre la carte indicatrice d'atout puis aussi de fermer le talon avant de mener au pli suivant.
 
-- if you have no higher trump you must play a lower trump;
+Notez qu'au Schnapsen, contrairement au jeu allemand 66, il est encore possible de déclarer un mariage en menant à un pli, même après que le talon a été fermé. Par conséquent, un non-donneur qui a reçu l'As, le Roi et la Dame d'atout peut faire ce qui suit : fermer le talon, mener l'As, puis déclarer 40 et mener le Roi suivi de la Dame. L'adversaire ne peut pas avoir plus d'un atout (un est dans le talon), donc cela gagnera à moins que l'adversaire ne puisse mettre moins de 8 points de cartes sur ces trois plis, puis gagner les deux plis restants.
 
-- if you have no trumps at all you may play anything.
+## Sortie
 
-## Closing
+Un joueur qui croit avoir 66 points ou plus peut le déclarer, revendiquant avoir gagné la donne. Le jeu cesse immédiatement. Une revendication peut être faite juste après avoir gagné un pli ou juste après avoir déclaré un mariage, mais à aucun autre moment.
 
-At any point, when it is her turn to lead, either player may close the
-talon, by flipping over the trump turn-up and placing it face-down on the top
-of the talon. This is an undertaking to reach at least 66 card points using only the cards in one's hand. After the talon is closed, no more cards can be drawn from it, and the remaining cards are played according to the same rules as when the talon is exhausted:
-follow suit and head the trick if possible, otherwise trump.
+À ce stade, il y a deux possibilités : le joueur revendiquant la sortie a raison, ou il a tort. S'il a raison, il marque des points de partie comme suit :
 
-The
-talon can only be closed **after** drawing a replacement card, when the players have hands of five cards each. It is possible to exchange the trump Jack for the trump indicator card and then also close the talon before leading to the next trick.
+- un point de partie, si l'adversaire a marqué au moins 33 points ;
 
-Note that in Schnapsen, unlike the German game 66, it is still possible to meld a marriage when leading to a trick, even after the talon has been closed. Therefore a non-dealer who is dealt the Ace, King and Queen of trumps can do the following: close the talon, lead the Ace, then declare 40 and lead the King followed by the Queen. The opponent cannot have more than one trump (one is in the talon), so this will win unless the opponent is able to put fewer than 8 card points on these three tricks, and then win the remaining two tricks.
+- deux points de partie, si l'adversaire a marqué moins de 33 points, mais a gagné au moins un pli (l'adversaire est dit Schneider) ;
 
-## Going Out
+- trois points de partie, si l'adversaire n'a gagné aucun pli (l'adversaire est dit Schwarz).
 
-A player who believes she has 66 or more points can declare this fact, claiming to have won the hand. Play ceases immediately. A claim may be made just after winning a trick or just after declaring a marriage, but not at any other time. 
+S'il a tort, l'adversaire marque 2 points de partie, ou 3 points de partie si la fausse revendication est faite avant que l'adversaire n'ait gagné un pli.
 
-At this point there are two possibilities: the player claiming to be out is
-right, or she is wrong. If she is right, she scores points toward game as
-follows:
+Lorsqu'un joueur ferme le talon, atteint 66 points et sort, le score est basé sur les plis et les points que l'adversaire avait **au moment où le talon a été fermé** : 1 point de partie si l'adversaire avait 33 points de cartes ou plus, 2 si l'adversaire avait au moins un pli mais moins de 33 points, et 3 si le talon a été fermé avant que l'adversaire n'ait gagné un pli. (Cette méthode de décompte est appelée la fermeture viennoise (*Wienerisch Zudrehen*) ou fermeture noire (*Zudrehen finster*).)
 
-- one game point, if the opponent has made at least 33 points;
+Si un joueur ferme puis échoue à atteindre 66 et à sortir, la pénalité est de 2 points pour l'adversaire, ou 3 si l'adversaire n'avait aucun pli lorsque le talon a été fermé. Ces scores s'appliquent quel que soit le nombre de points de cartes que l'adversaire a pris. Notez qu'il n'est pas possible de sortir après avoir perdu un pli. Par conséquent, si un joueur ferme et joue jusqu'à la dernière carte, mais perd le dernier pli, son adversaire gagne automatiquement car le joueur qui a fermé ne peut pas sortir à ce moment, même s'il s'avère qu'il avait en fait 66 points ou plus.
 
-- two game points, if the opponent has made fewer than 33 points, but has
-won at least one trick (opponent is said to be Schneider);
+Les mêmes scores de 2 ou 3 points de partie s'appliquent dans le cas inhabituel où l'**adversaire** du joueur qui a fermé atteint 66 et gagne en revendiquant en premier, avant que le joueur ayant fermé ne soit sorti.
 
-- three game points, if the opponent has won no tricks (opponent is
-said to be Schwarz).
+Si aucun des deux joueurs n'a fermé le talon et qu'aucun n'est sorti, c'est-à-dire que le jeu s'est poursuivi jusqu'au tout dernier pli avec le talon épuisé, le joueur qui gagne le dernier pli gagne la donne, marquant un point de partie, indépendamment du nombre de points de cartes que les joueurs ont pris.
 
-If she is wrong, the opponent scores 2 game points, or 3 game points if the false claim is made before the opponent has taken a trick.
+Pour vérifier l'exactitude d'une revendication, les points des deux joueurs sont comptés en passant en revue les cartes gagnées dans les plis et en ajoutant les 20 et les 40 des mariages déclarés, bien que si les deux joueurs sont d'accord sur les scores de l'autre, cette étape peut être sautée. (Ce n'est pas une insulte de demander que les points soient comptés.)
 
-When a player closes the talon, reaches 66 points and goes out, the score is based on the tricks and points that the opponent had **at the moment when the talon was closed**: 1 game point if the opponent had 33 or more card points, 2 if the opponent had at least one trick but fewer than 33 points, and 3 if the talon was closed before the opponent won a trick. (This method of scoring is called Viennese closing (*Wienerisch Zudrehen*) or dark closing (*Zudrehen finster*).)
+Lors de la vérification d'une revendication, il peut s'avérer que le joueur qui n'a **pas** revendiqué avait en fait 66 points ou plus. Cela n'affecte pas le score — tant que la revendication était correcte, le joueur qui a revendiqué gagne, quel que soit le nombre de points de l'adversaire. L'adversaire aurait dû mieux suivre le score et revendiquer plus tôt.
 
-If a player closes and subsequently fails to
-reach 66 and go out, the penalty is 2 points to the opponent, or 3 if the opponent had no tricks when the talon was closed. These scores apply however few card points the opponent has taken. Note that it is not possible to go out after losing a trick. Therefore, if a player closes and plays on to the last card, but loses the last trick, his opponent automatically wins because the closing player cannot go out at this point, even if it turns out that he actually had 66 or more points. 
+## Décompte
 
-The same scores of 2 or 3 game points apply in the unusual case where the **opponent** of the player who closed reaches 66 and wins by claiming first, before the closing player has gone out. 
+Les deux joueurs commencent avec 7 points de partie, et soustraient les points de partie qu'ils gagnent. Le vainqueur global est le premier joueur dont le score atteint ou dépasse zéro.
 
-If neither player closed the talon and neither went out, i.e., play continued to the very last trick with the talon exhausted, the
-player who takes the last trick wins the hand, scoring one game point, irrespective of the number of card points the players have taken.
+## Commentaires sur la stratégie
 
-To determine the correctness of a claim, both players' points are counted up
-by going through the cards won in tricks and adding 20's and 40's for declared marriages,
-though if both players agree on each other's scores this step can be
-skipped. (It's no insult to ask for the points to be counted.)
+Presque chaque carte au Schnapsen compte. Il n'y a presque pas de cartes inutiles, il faut donc réfléchir soigneusement à ce que vous voulez faire de chaque carte. Les as et les dix valent beaucoup de points, mais vous ne pouvez pas les mener en toute sécurité dans la première moitié car votre adversaire risque de les couper. Vous voulez conserver les rois et les dames en raison du potentiel de mariages, mais bien sûr votre adversaire tient probablement les cartes assorties et vous devrez donc les défausser éventuellement. Cela ne laisse que trois valets que vous pouvez défausser sans douleur dans les plis (le valet d'atout, vous voulez probablement le garder pour l'échange). Bien sûr, vous serez parfois forcé de briser ces règles. Vous pouvez tirer des atouts avec des as ou des dix lorsque vous tenez une longue suite non atout. Il peut être avantageux de ne pas avoir la main dans la première moitié, pour pouvoir gagner des plis avec des dix et des as afin de gagner des points, mais vous devez pouvoir reprendre la main pour pouvoir déclarer des mariages. Mais il y a si peu de cartes dans votre main, et le talon s'épuise si vite, que vous ne pouvez généralement pas faire fonctionner ce genre de plans.
 
-When settling a claim, it may sometimes turn out that the player who did **not** claim actually had 66 or more points. This does not affect the score - so long as the claim was correct, the claiming player wins, however many points the opponent had. The opponent should have kept better track of the score and claimed earlier.
+Fermer au bon moment est la tactique clé du jeu. Vous devez compter vos points, et toujours garder le compte des points sûrs que vous pourriez gagner si vous fermiez, ainsi que des points moyens que vous tireriez de votre adversaire. Dès que vous avez un 66 sûr (ou probable), vous devriez fermer et empocher vos points de partie. Vous devez aussi compter les points de votre adversaire, pour pouvoir changer votre stratégie quand vous pensez qu'il est sur le point de fermer (utiliser rapidement votre atout pour être sûr de franchir le Rubicon des 33 points, par exemple). Une fermeture risquée peut être indiquée si votre adversaire peut être fait Schneider ou Schwarz.
 
-## Scoring
+Ne vous découragez pas après quelques mauvaises mains ; le Schnapsen permet des retours victorieux spectaculaires. Rien ne vaut le sentiment de gagner la partie alors que votre adversaire mène 7-1 !
 
-Both players start with 7 game points, and subtract the game points they win. The overall winner is the first player whose score reaches or passes zero. 
+Martin Tompa a publié deux pages de stratégie Schnapsen : le [Schnapsen Log](https://psellos.com/schnapsen/blog/) et [Winning Strategy for Schnapsen or Sixty-Six](https://psellos.com/schnapsen/strategy.html) ainsi qu'un livre [Winning Schnapsen](https://psellos.com/schnapsen/blog/2015/09/book.html).
 
-## Comments on Strategy
+## Variantes
 
-Nearly every card in Schnapsen counts. There's almost no deadwood, so you
-have to think carefully about what you want to do with each card. Aces and
-Tens are worth a lot of points, but you can't safely lead them in the first
-half because your opponent is likely to trump them. You want to hold on to
-Kings and Queens because of the potential for marriages, but of course your
-opponent is probably holding the mates so you will need to discard them
-eventually. This leaves only three Jacks that you can throw off to tricks
-without pain (the trump Jack you probably want to keep for the exchange). Of
-course you'll be forced to break these rules on occasion. You might pull
-trump with Aces or Tens when holding a long non-trump suit. It can be
-advantageous to not have the lead in the first half, so that you can win
-tricks with Tens and Aces to gain points, but you need to be able to get the
-lead back in order to meld marriages. But there are so few cards in your
-hand, and the talon runs out so quickly, that you usually can't manage to make
-plans like these work. 
+Le jeu décrit ci-dessus est parfois connu sous le nom de « Schnapsen doux » (*weiches Schnapsen*). Il existe une version plus stricte, appelée « Schnapsen dur » (*scharfes Schnapsen*) dans laquelle les règles diffèrent comme suit :
 
-Closing at the right time is the key tactic of the game. You need to count your points, and always keep a count of the sure points that you could win if you closed, along with the average points you'd gain from your opponent. The minute you have a sure (or likely) 66, you should close and rake in your game points. You also need to count your opponent's points, so that you can change your strategy when you think she's about to close (quickly using your trump to be sure to cross the Rubicon of 33 points, for example). A risky close might be indicated if your opponent can be made Schneider or Schwarz. 
+- Le gagnant de chaque pli le retourne face cachée et il ne peut plus être regardé jusqu'à la fin du jeu. Il est donc important que les joueurs se souviennent du nombre de points de cartes qu'ils ont pris : ces scores ne peuvent pas être notés ou enregistrés de quelque façon que ce soit.
 
-Don't be put off your stride by a few bad hands; Schnapsen allows exciting
-come-from-behind wins. There's nothing like winning the game after your
-opponent is ahead 1-7!
+- Le talon ne peut pas être fermé lorsqu'il ne reste que deux cartes (l'atout face ouverte et une carte face cachée).
 
-Martin Tompa has published two Schnapsen strategy pages: the [Schnapsen Log](https://psellos.com/schnapsen/blog/) and [Winning Strategy for Schnapsen or Sixty-Six](https://psellos.com/schnapsen/strategy.html) and a book [Winning Schnapsen](https://psellos.com/schnapsen/blog/2015/09/book.html).
+- Lorsqu'on déclare 20 ou 40, le joueur doit mener le Roi, non la Dame (Ober).
 
-## Variants
+- Le valet (Unter) d'atout ne peut pas être échangé par un joueur qui n'a pas encore gagné de pli, et il ne peut pas non plus être échangé lorsqu'il ne reste que deux cartes dans le talon. Avec cette règle stricte, l'atout ne peut être échangé que juste avant de mener au deuxième, troisième ou quatrième pli.
 
-The game described above is sometimes known as "soft Schnapsen" (*weiches Schnapsen*). There is a stricter version, known as "sharp Schnapsen" (*scharfes Schnapsen*) in which the rules differ as follows:
+- Un mariage ou une paire ne peut pas être déclaré avant que le joueur ait gagné un pli. Par conséquent, le non-donneur ne peut pas en déclarer un en menant au premier pli.
 
-- The winner of each trick turns it face down and it cannot be looked at again until the end of the play. It is therefore important for players to remember how many card points they have taken: these scores may not be written down or otherwise recorded.
+Dans certains tournois, lorsqu'un joueur ferme le talon et gagne, le score est basé sur les plis et points **totaux** de l'adversaire, y compris les plis gagnés après la fermeture du talon. Ce n'est que lorsque le joueur qui ferme le talon perd que le score est basé sur l'état du jeu au moment où le talon a été fermé.
 
-- The talon cannot be closed when only two cards remain in it (the face up trump and one face down card). 
+De nombreuses sources indiquent que si un joueur fait une fausse revendication d'avoir atteint 66, l'adversaire marque autant de points de partie que le joueur sortant aurait marqués, si la revendication avait été correcte : 3 si l'adversaire du joueur ayant revendiqué n'avait aucun pli, 2 points si l'adversaire avait au moins un pli mais moins de 33 points de cartes, ou simplement 1 si l'adversaire avait plus de 33 points de cartes. Cette règle a le défaut qu'un joueur peut éviter le Schneider en faisant délibérément une fausse revendication. Supposons que votre adversaire a environ 50 à 60 points de cartes lorsque vous gagnez votre premier pli, et que vous ne vous attendez pas à atteindre 33 avant que votre adversaire ne gagne, vous pouvez limiter le score de votre adversaire à 1 point en revendiquant vous-même la victoire : puisque votre revendication, si elle était correcte, ne vous rapporterait que 1 point, la revendication incorrecte ne donne que 1 point à votre adversaire. Cette tactique n'est pas dans l'esprit du jeu, et pour l'éviter il vaut mieux donner au moins 2 points pour toute revendication incorrecte, comme dans le compte principal.
 
-- When declaring 20 or 40, the player must lead the King, not the Queen (Ober).
-
-- The Jack (Unter) of trumps cannot be exchanged by a player who has not yet won a trick, not can it be exchanged when only two cards remain in the talon. With this strict rule, the trump can only be exchanged just before leading to the second, third or fourth trick.
-
-- A marriage or pair cannnot be declared until the player has won a trick. Therefore the non-dealer cannot declare one when leading to the first trick.
-
-In some tournaments, when a player closes the talon and wins, the score is based on the opponent's **total** card points and tricks, including tricks taken after the talon was closed. It is only when the player who closes the talon loses that the score is based on the state of the game at the moment when the talon was closed.
-
-Many sources state that if a player makes a false claim to have reached 66, the opponent scores as many game points as the player who went out would have scored, had the claim been correct: 3 if the opponent of the player who claimed had no tricks, 2 points if the opponent had at least one trick but less than 33 card points, or just 1 if the opponent had more than 33 card points. This rule has the defect that a player can avoid Schneider by deliberately making a false claim. Suppose your opponent has about 50-60 card points when you win your first trick, and you do not expect to reach 33 before your opponent wins, you can limit your opponent's score to 1 point by claiming to have won yourself: since your claim if correct would score you only 1 point. the incorrect claim gives only 1 point to your opponent. This tactic is not in the spirit of the game, and to avoid it it is better to give at least 2 points for any incorrect claim as in the main account.
-
-Bauernschnapsen (Farmer's Schnapsen) - an elaborated four-handed partnership version of Schnapsen - and Talon-Schnapsen - a version of Schnapsen for three players - are described on a separate page.
+Le Bauernschnapsen (le Schnapsen des paysans) — une version élaborée à quatre joueurs en partenariat du Schnapsen — et le Talon-Schnapsen — une version à trois joueurs — sont décrits sur une page séparée.
 
 ### Sechsundsechzig
 
-The German progenitor of Schnapsen, Sechsundsechzig ("Sixty-Six"), is similar, but differs in several important details, and is described on a separate page. Here is a summary of the differences.
+Le progéniteur allemand du Schnapsen, le Sechsundsechzig (« Soixante-Six »), est similaire, mais diffère sur plusieurs détails importants, et est décrit sur une page séparée. Voici un résumé des différences.
 
-- 66 is played with 24 cards, including the nines. 6 cards are dealt to each player. The 9 can be exchanged for the face up trump card. (Schnapsen is played with only 20 cards and the Jack/Unter can be exchanged for the face up trump.)
+- Le 66 se joue avec 24 cartes, y compris les neufs. 6 cartes sont distribuées à chaque joueur. Le 9 peut être échangé contre la carte d'atout face ouverte. (Le Schnapsen se joue avec seulement 20 cartes et le valet/Unter peut être échangé contre la carte d'atout face ouverte.)
 
-- In 66, from the moment that the talon is exhausted or the trump is turned down, no further 20's or 40's can be declared. (In Schnapsen 20's and 40's can be declared in any trick.)
+- Au 66, à partir du moment où le talon est épuisé ou l'atout est retourné, aucun autre 20 ou 40 ne peut être déclaré. (Au Schnapsen, les 20 et 40 peuvent être déclarés dans n'importe quel pli.)
 
-- In 66, if the talon is not closed and no one goes out, the last trick is worth 10 card points if the talon is exhausted, and the player with the higher card point total scores 1, 2 or 3 game points. It is possible for a deal to be drawn. (In Schnapsen the winner of the last trick always wins just 1 game point in this situation.)
+- Au 66, si le talon n'est pas fermé et que personne ne sort, le dernier pli vaut 10 points de cartes si le talon est épuisé, et le joueur ayant le total de points de cartes le plus élevé marque 1, 2 ou 3 points de partie. Une donne peut être nulle. (Au Schnapsen, le gagnant du dernier pli gagne toujours seulement 1 point de partie dans cette situation.)
 
-- In 66, when the talon is closed, all the opponent's tricks, including those taken after the talon is closed, are counted when determining the score. (In Schnapsen the score is normally determined by the tricks the opponent had at the moment of closing.)
+- Au 66, lorsque le talon est fermé, tous les plis de l'adversaire, y compris ceux gagnés après la fermeture du talon, sont comptés pour déterminer le score. (Au Schnapsen, le score est normalement déterminé par les plis que l'adversaire avait au moment de la fermeture.)
 
-- In 66 the talon can be closed either before or after drawing from the talon. (In Schnapsen it can only be closed after drawing.)
+- Au 66, le talon peut être fermé soit avant soit après avoir pioché au talon. (Au Schnapsen, il ne peut être fermé qu'après avoir pioché.)
 
-- In 66, the opponent of a player who closes may at the moment of closing exchange the 9 for the face up trump, even having won no tricks. (In Schnapsen this is not allowed.)
+- Au 66, l'adversaire d'un joueur qui ferme peut, au moment de la fermeture, échanger le 9 contre la carte d'atout face ouverte, même sans avoir gagné de pli. (Au Schnapsen, cela n'est pas autorisé.)
 
-- In 66 the winner of each hand deals the next. (In Schnapsen the players deal alternately.)
+- Au 66, le gagnant de chaque donne distribue la suivante. (Au Schnapsen, les joueurs distribuent à tour de rôle.)
 
-- The game of 66 is scored from zero upwards. The first player to 7 wins. (Schnapsen is scored downwards from 7 to zero.)
+- Le jeu de 66 est compté de zéro vers le haut. Le premier joueur à 7 gagne. (Le Schnapsen est compté à rebours de 7 à zéro.)
 
-A comparative analysis of the 66 variants described in various sources can be found on Martin Tompa's page [Schnapsen and Sixty-Six Rules Variants](https://psellos.com/schnapsen/rules-background.html). 
+Une analyse comparative des variantes de 66 décrites dans diverses sources se trouve sur la page de Martin Tompa [Schnapsen and Sixty-Six Rules Variants](https://psellos.com/schnapsen/rules-background.html).
 
 ### Gaigel
 
-Gaigel is a four handed partnership version of Sechsundsechzig, played with a double 24-card pack. It's a fun game but lacks the strategic element of closing.
+Le Gaigel est une version à quatre joueurs en partenariat du Sechsundsechzig, jouée avec un double jeu de 24 cartes. C'est un jeu amusant mais il lui manque l'élément stratégique de la fermeture.
 
-## References
+## Références
 
-- Helmuth Gugl. Meister Schnapsen. Vienna: Ferd. Piatnik and
-Sons, 1971.
+- Helmuth Gugl. Meister Schnapsen. Vienne : Ferd. Piatnik and Sons, 1971.
 
-- David Parlett. The Oxford Guide to Card Games. Oxford: The
-University Press, 1990.
+- David Parlett. The Oxford Guide to Card Games. Oxford : The University Press, 1990.
 
-- David Parlett. Card Games for Two. Teach Yourself Books.
-Sevenoaks, Kent, UK: Hodder and Stoughton, 1978.
+- David Parlett. Card Games for Two. Teach Yourself Books. Sevenoaks, Kent, UK : Hodder and Stoughton, 1978.
 
-- Johannes Bamberger. *Sechsundsechzig*. Perlen-Reihe Band 639, Franz Deuticke Verlag, Wien, Austria, 1998. 
+- Johannes Bamberger. *Sechsundsechzig*. Perlen-Reihe Band 639, Franz Deuticke Verlag, Vienne, Autriche, 1998.
 
-- Martin Tompa. [*Winning Schnapsen*](https://psellos.com/schnapsen/blog/2015/09/book.html)**, 2015.
+- Martin Tompa. [*Winning Schnapsen*](https://psellos.com/schnapsen/blog/2015/09/book.html), 2015.
 
-## Schnapsen Software
+## Logiciels Schnapsen
 
-You can download a freeware Schnapsen / 66 program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un gratuiciel Schnapsen / 66 depuis [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-A 66 game which can be played locally against the computer or on line is included in the [Favorite Games](https://www.favorite-games.com/htmlen/downloads.php?id=42) Ltd. package.
+Un jeu de 66 qui peut être joué localement contre l'ordinateur ou en ligne est inclus dans le forfait [Favorite Games](https://www.favorite-games.com/htmlen/downloads.php?id=42) Ltd.
 
-## Schnapsen Online
+## Schnapsen en ligne
 
-You can play Austrian Schnapsen online against live opponents at [Schnapsen für Freunde - Bummerl](https://www.bummerl.at).
+Vous pouvez jouer au Schnapsen autrichien en ligne contre des adversaires en direct sur [Schnapsen für Freunde - Bummerl](https://www.bummerl.at).
 
-You can also play Schnapsen on line against live opponents at the [Gametwist](https://www.gametwist.com/en/skill-games/schnapsen/) site.
+Vous pouvez aussi jouer au Schnapsen en ligne contre des adversaires en direct sur le site [Gametwist](https://www.gametwist.com/en/skill-games/schnapsen/).
 
-[Schnopsn](https://schnopsn.com) is an app for iOS, Android or Facebook with which you can play Schnapsen against the computer or against live opponents.
+[Schnopsn](https://schnopsn.com) est une application pour iOS, Android ou Facebook avec laquelle vous pouvez jouer au Schnapsen contre l'ordinateur ou contre des adversaires en direct.
 
-[PlayOK](https://www.playok.com/en/66-schnapsen/) (formerly known as Kurnik) offers 66 and Schnapsen. 
+[PlayOK](https://www.playok.com/en/66-schnapsen/) (anciennement connu sous le nom de Kurnik) propose le 66 et le Schnapsen.
 
-At [Tabletopia](https://tabletopia.com/games/sixty-six) you can play Austrian Schnapsen or German 66 online.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Schnapsen
+Sur [Tabletopia](https://tabletopia.com/games/sixty-six) vous pouvez jouer au Schnapsen autrichien ou au 66 allemand en ligne.

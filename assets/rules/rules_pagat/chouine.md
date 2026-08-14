@@ -2,154 +2,152 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A 2-player card game using 32 cardsfrom the Loire valley in France.
+**But :** Jeu de cartes à 2 joueurs avec 32 cartes, originaire de la vallée de la Loire en France.
 
 ---
 
 ## Introduction
 
-Chouine is a card game played mainly in and around the Loire Valley in France. It is primarily a two-player game though adaptations for 3 or 4 players also exist.
+La Chouine est un jeu de cartes pratiqué principalement dans et autour de la vallée de la Loire en France. C'est essentiellement un jeu à deux joueurs, bien qu'il existe aussi des adaptations pour 3 ou 4 joueurs.
 
-Its origins are said to date from the 16th century, but in recent years it has enjoyed a revival, and an annual Chouine World Championship is now held in Lavardin.
+Ses origines remonteraient au XVIe siècle, mais ces dernières années il a connu un renouveau, et un championnat du monde annuel de Chouine se tient désormais à Lavardin.
 
-The information on this page is based on Jaques Proust's [Règle du jeu de la Chouine](https://www.vendomois.fr/societeArcheologique/ressources/livres/chouine.pdf), with thanks to Jean-Paul Brillard of Lavardin for clarifying some details during the game session at the IPCS convention in Blois in September 2023.
+Les informations de cette page sont basées sur la [Règle du jeu de la Chouine](https://www.vendomois.fr/societeArcheologique/ressources/livres/chouine.pdf) de Jacques Proust, avec remerciements à Jean-Paul Brillard de Lavardin pour avoir précisé certains détails lors de la session de jeu à la convention de l'IPCS à Blois en septembre 2023.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Chouine is played with a French-suited 32-card pack, the cards of each suit ranking from high to low: **Ace, Ten, King, Queen, Jack, 9,8,7**.
+La Chouine se joue avec un jeu de 32 cartes aux enseignes françaises, les cartes de chaque couleur se classant du plus haut au plus bas : **As, 10, Roi, Dame, Valet, 9, 8, 7**.
 
-It is a trick-taking game for two players, in which the object is to score card points by two methods:
+C'est un jeu de levées à deux joueurs, dans lequel le but est de marquer des points de carte par deux méthodes :
 
-- by winning tricks containing valuable cards, and 
+- en remportant des levées contenant des cartes de valeur, et
 
-- by declaring combinations of cards held in the hand of a player.
+- en déclarant des combinaisons de cartes tenues en main.
 
-Each deal is known as a *partie* or *point*. *Point* is the usual term among players but we use *partie* on this page to avoid confusion with the card points that determine who wins the *partie*. A *manche* consists of a series of *parties*, as agreed by the players in advance. For example they may agree that each *manche* will be the best of five *parties *(*"cinq points [parties] de Chouine*"), in which case the first player to win three *parties* wins the *manche*. A complete game may consist of the best of three *manches*: if the same player wins the first two *manches* they win the game; if the players win one *manche* each a third *manche*, called *la belle*, is played to decide the game.
+Chaque donne est appelée une *partie* ou un *point*. *Point* est le terme usuel parmi les joueurs, mais nous utilisons *partie* sur cette page pour éviter la confusion avec les points de carte qui déterminent le gagnant de la *partie*. Une *manche* se compose d'une série de *parties*, selon un accord préalable entre les joueurs. Par exemple, ils peuvent convenir que chaque *manche* sera en cinq manches gagnantes (« cinq points [parties] de Chouine »), auquel cas le premier joueur à gagner trois *parties* remporte la *manche*. Une partie complète peut consister en deux ou trois *manches* gagnantes : si le même joueur gagne les deux premières *manches*, il remporte la partie ; si les joueurs gagnent une *manche* chacun, une troisième *manche*, appelée *la belle*, est jouée pour départager.
 
-The card values are
+Les valeurs des cartes sont
 
-| Each Ace: | 11 points |
-| Each Ten: | 10 points |
-| Each King: | 4 points |
-| Each Queen: | 3 points |
-| Each Jack: | 2 points |
-| Each 9, 8 or 7: | 0 points |
+| Chaque As : | 11 points |
+| Chaque 10 : | 10 points |
+| Chaque Roi : | 4 points |
+| Chaque Dame : | 3 points |
+| Chaque Valet : | 2 points |
+| Chaque 9, 8 ou 7 : | 0 points |
 
-The winner of the last trick scores an extra 10 points (*dix de der*), so the total card points available in each deal (excluding points for combinations) are 130.
+Le gagnant de la dernière levée marque 10 points supplémentaires (*dix de der*), soit un total de 130 points de cartes disponibles à chaque donne (hors points de combinaisons).
 
-## Card Combinations
+## Combinaisons de cartes
 
-The following combinations held in the hand of one player can be declared to score extra card points.
+Les combinaisons suivantes, tenues dans la main d'un joueur, peuvent être déclarées pour marquer des points de carte supplémentaires.
 
-| Name | Description | Value |
-| Mariage | King and Queen of the same suit | 40 in trumps, 20 in any other suit |
-| Tierce | King, Queen and Jack of a suit | 60 in trumps, 30 in any other suit |
-| Quateron | Ace, King, Queen, Jack of a suit | 80 in trumps, 40 in any other suit |
-| Quinte | Any five Brisques (Aces or Tens) | 100 |
-| Chouine | Ace, Ten, King, Queen, Jack of a suit | wins the partie |
+| Nom | Description | Valeur |
+| Mariage | Roi et Dame de la même couleur | 40 à l'atout, 20 dans toute autre couleur |
+| Tierce | Roi, Dame et Valet d'une même couleur | 60 à l'atout, 30 dans toute autre couleur |
+| Quateron | As, Roi, Dame, Valet d'une même couleur | 80 à l'atout, 40 dans toute autre couleur |
+| Quinte | Cinq Brisques (As ou 10) | 100 |
+| Chouine | As, 10, Roi, Dame, Valet d'une même couleur | remporte la partie |
 
-## Deal
+## Distribution
 
-At the start of the game each player draws one card from the shuffled deck, which is spread face down. The player who draws the lower ranked card is the first dealer - if the cards are of equal rank the players draw again. 
+Au début de la partie, chaque joueur tire une carte du jeu mélangé, étalé face cachée. Le joueur qui tire la carte la plus basse est le premier donneur — si les cartes sont de même rang, les joueurs tirent à nouveau.
 
-In the course of a *manche*, the turn to deal alternates between the players: the non-dealer in each *partie* becomes the dealer in the next. For the first *partie* of the second *manche*, the dealer is the opponent of the player who dealt first in the first *manche*. For the third *manche* (if needed) the players draw cards as at the start to decide who will deal first.
+Au cours d'une *manche*, le tour de distribution alterne entre les joueurs : le non-donneur de chaque *partie* devient le donneur de la suivante. Pour la première *partie* de la deuxième *manche*, le donneur est l'adversaire du joueur qui a distribué en premier dans la première *manche*. Pour la troisième *manche* (si nécessaire), les joueurs tirent des cartes comme au début pour décider de qui distribuera en premier.
 
-The dealer shuffles, the non-dealer cuts, and the dealer deals 5 cards face down to each player, one at a time. The next card (the 11th) is placed face up on the table and its suit is trumps for the *partie*. The remaining 21 undealt cards are stacked face down on top of the trump indicator card and at right angles to it, so the the rank and value of the trump indicator remain visible. These cards form a drawing stock or *talon*.
+Le donneur mélange, le non-donneur coupe, et le donneur distribue 5 cartes face cachée à chaque joueur, une à la fois. La carte suivante (la 11e) est placée face visible sur la table et sa couleur est l'atout pour la *partie*. Les 21 cartes non distribuées restantes sont empilées face cachée sur la carte indicatrice d'atout et perpendiculairement à celle-ci, de sorte que la valeur et le rang de l'indicateur d'atout restent visibles. Ces cartes forment un talon de pioche ou *talon*.
 
-The players pick up their cards and look at them. Each player has a hand of five cards, held so that the opponent cannot see their faces.
+Les joueurs ramassent leurs cartes et les regardent. Chaque joueur a une main de cinq cartes, tenues de manière que l'adversaire ne puisse pas voir leurs faces.
 
-## Play
+## Jeu
 
-The non-dealer leads to the first trick, and subsequently the winner of each trick leads to the next. Each trick consists of two cards. If they are the same suit the higher ranking card wins. If they are different suits and one is a trump, the trump wins irrespective of rank. If they are different suits and neither is a trump the first card (played by the leader to the trick) wins irrespective of rank.
+Le non-donneur entame la première levée, et ensuite le gagnant de chaque levée mène la suivante. Chaque levée se compose de deux cartes. Si elles sont de la même couleur, la carte de rang le plus élevé l'emporte. Si elles sont de couleurs différentes et que l'une est un atout, l'atout l'emporte quel que soit le rang. Si elles sont de couleurs différentes et qu'aucune n'est un atout, la première carte (jouée par le meneur de la levée) l'emporte quel que soit le rang.
 
-So long as there are cards in the talon, there is no restriction on what cards may be played - the first player may lead any card and the other player may respond with any card of the same or a different suit from their hand as they wish. At the end of the trick, the winner stores the played cards in front of them in their trick pile and then draws the top card from the talon and adds it to their hand without showing it to their opponent. The loser of the trick then draws the next card from the talon in the same way, so that each player again has a hand of five cards.
+Tant qu'il y a des cartes dans le talon, il n'y a aucune restriction sur les cartes qui peuvent être jouées — le premier joueur peut mener n'importe quelle carte et l'autre joueur peut répondre avec n'importe quelle carte de la même couleur ou d'une couleur différente de sa main à sa guise. À la fin de la levée, le gagnant range les cartes jouées devant lui dans son tas de levées, puis pioche la carte supérieure du talon et l'ajoute à sa main sans la montrer à son adversaire. Le perdant de la levée pioche ensuite la carte suivante du talon de la même manière, de sorte que chaque joueur a à nouveau une main de cinq cartes.
 
-The winner of the 11th trick draws the last face-down card of the talon and the loser of this trick draws the trump indicator card into their hand. Now that the talon is empty the rules of play change for the last five tricks. The leader to a trick may still lead any card, but when the talon is empty the second player must follow suit, must trump if possible when holding no card of the suit led, and must beat the first player's card if possible when a trump is led. In other words when the talon is empty the second player to each trick has the following obligations:
+Le gagnant de la 11e levée pioche la dernière carte face cachée du talon et le perdant de cette levée prend la carte indicatrice d'atout dans sa main. Le talon étant maintenant vide, les règles de jeu changent pour les cinq dernières levées. Le meneur d'une levée peut toujours mener n'importe quelle carte, mais lorsque le talon est vide, le second joueur doit suivre la couleur, doit atouter si possible lorsqu'il n'a pas de carte de la couleur menée, et doit battre la carte du premier joueur si possible lorsqu'un atout est mené. En d'autres termes, lorsque le talon est vide, le second joueur de chaque levée a les obligations suivantes :
 
-- to play a card of the same suit that was led if possible;
+- jouer une carte de la même couleur que celle qui a été menée, si possible ;
 
-- if the card led was a trump, to win the trick if possible by playing a higher trump, otherwise to play a lower trump;
+- si la carte menée est un atout, remporter la levée si possible en jouant un atout supérieur, sinon jouer un atout inférieur ;
 
-- if the card led was not a trump and the second player holds no card of the suit that was led, to play a trump if possible, thereby winning the trick;
+- si la carte menée n'est pas un atout et que le second joueur n'a pas de carte de la couleur menée, jouer un atout si possible, remportant ainsi la levée ;
 
-- if the second player holds no card of the suit led and no trumps, to play any card (losing the trick).
+- si le second joueur n'a pas de carte de la couleur menée et pas d'atout, jouer n'importe quelle carte (perdant la levée).
 
-### Exchanging the seven of trumps
+### Échange du sept d'atout
 
-A player who is dealt or acquires the 7 of trumps may exchange it for the trump indicator card - taking the trump indicator into their hand and putting the seven in its place. This exchange may be carried out at any time before the lead to 11th trick (the trick at the end of which the last two cards are drawn from the talon). At the start of the the 11th trick, if the 7 of trumps is neither face up on the table nor in the hand of the player leading to the trick, it is customary for the leader to say "*au sept*" (to the seven) as a reminder to the opponent to take this last opportunity to exchange it if they have it. If the 7 of trumps is not exchanged it is likely to be the last face down card, lying directly on top of the trump indicator: in this case it cannot be exchanged since by the time it is drawn it is too late to do so.
+Un joueur qui reçoit ou acquiert le 7 d'atout peut l'échanger contre la carte indicatrice d'atout — en prenant l'indicateur dans sa main et en posant le sept à sa place. Cet échange peut être effectué à tout moment avant la première carte de la 11e levée (la levée à la fin de laquelle les deux dernières cartes sont piochées dans le talon). Au début de la 11e levée, si le 7 d'atout n'est ni face visible sur la table ni dans la main du joueur qui mène la levée, il est de coutume que le meneur dise « *au sept* » comme rappel à l'adversaire de profiter de cette dernière opportunité de l'échanger s'il l'a. Si le 7 d'atout n'est pas échangé, il sera probablement la dernière carte face cachée, posée directement sur l'indicateur d'atout : dans ce cas il ne peut pas être échangé car au moment où il est pioché, il est trop tard pour le faire.
 
-### Declaring combinations
+### Déclaration des combinaisons
 
-A player who holds one of the scoring combinations in their hand can declare it (saying for example "*j'ai un tierce de carreau*" - "I have a *tierce* in diamonds") when playing one of its cards to a trick. At the end of the trick the player shows the other cards of the combination and is entitled to score the points for it.
+Un joueur tenant l'une des combinaisons à points en main peut la déclarer (en disant par exemple « *j'ai un tierce de carreau* ») lors de la pose d'une de ses cartes dans une levée. À la fin de la levée, le joueur montre les autres cartes de la combinaison et a droit aux points correspondants.
 
-During a *partie* there can only be at most one declaration of a combination in each of the four suits and at most one declaration of a *quinte*. Therefore, for example:
+Au cours d'une *partie*, il ne peut y avoir au plus qu'une seule déclaration de combinaison dans chacune des quatre couleurs et au plus une déclaration de *quinte*. Par conséquent, par exemple :
 
-- a player who holds K-Q-J of a suit and declares a *tierce* when playing the jack cannot subsequently declare a mariage in the same suit, even though they still hold the king and queen.
+- un joueur tenant R-D-V d'une couleur et qui déclare un *tierce* en jouant le valet ne peut pas ensuite déclarer un mariage dans la même couleur, même s'il tient encore le roi et la dame.
 
-- a player who declares a *quinte*, plays one of the *brisques* and draws another *brisque* from the talon at the end of the trick cannot declare another *quinte*, even though they once again hold five *brisques*.
+- un joueur qui déclare une *quinte*, joue une des *brisques* et pioche une autre *brisque* du talon à la fin de la levée ne peut pas déclarer une autre *quinte*, même s'il tient à nouveau cinq *brisques*.
 
-However, it is possible to use the same ace in a *quateron* and in a *quinte* (and even the same ten in a *quinte* and later a *chouine*) within one *partie*. For example a player holds ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)J-![club](../images/internat/club.gif)10 and declares the *quateron* in diamonds, playing the jack. In the next two tricks, the player plays the king and queen. In exchange for these three cards the player is lucky enough to draw three *brisques* from the talon. In the next trick the player can declare a *quinte*, making use again of the ace of diamonds that was previously part of the *quateron*.
+Cependant, il est possible d'utiliser le même as dans un *quateron* et dans une *quinte* (et même le même 10 dans une *quinte* et ultérieurement dans une *chouine*) au cours d'une même *partie*. Par exemple, un joueur tient ![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)R-![carreau](../images/internat/diamond.gif)D-![carreau](../images/internat/diamond.gif)V-![trèfle](../images/internat/club.gif)10 et déclare le *quateron* à carreau en jouant le valet. Dans les deux levées suivantes, le joueur joue le roi et la dame. En échange de ces trois cartes, le joueur a la chance de piocher trois *brisques* du talon. À la levée suivante, le joueur peut déclarer une *quinte*, réutilisant l'as de carreau qui faisait partie du *quateron*.
 
-If the combination declared is a *chouine* (A-10-K-Q-J of a suit) the play ends when the *chouine* is shown and the holder of the chouine wins the *partie*. If both players declare a *chouine* in the same trick and one of them is in trumps, the trump *chouine* wins. If neither of them is in trumps, the player who led to the trick, and was therefore first to declare their *chouine*, wins the *partie*.
+Si la combinaison déclarée est une *chouine* (A-10-R-D-V d'une couleur), le jeu s'arrête lorsque la *chouine* est montrée et le détenteur de la chouine remporte la *partie*. Si les deux joueurs déclarent une *chouine* dans la même levée et que l'une est à l'atout, la *chouine* à l'atout l'emporte. Si aucune n'est à l'atout, le joueur qui a mené la levée, et a donc été le premier à déclarer sa *chouine*, remporte la *partie*.
 
-Note that it is not necessary to be on lead to a trick to declare a combination: in any trick either the first or the second player or both can declare and score for a combination that they hold.
+Notez qu'il n'est pas nécessaire d'être le meneur d'une levée pour déclarer une combinaison : dans n'importe quelle levée, le premier ou le second joueur, ou les deux, peuvent déclarer et marquer pour une combinaison qu'ils tiennent.
 
-There is no limit to when a combination can be declared so long as the cards are still in the player's hand. In this game, unlike some other related games, players are allowed to declare combinations even when the talon is empty. A *mariage* can even be kept until these are the player's only two remaining cards and declared when playing one of them to the penultimate trick.
+Il n'y a pas de limite quant au moment où une combinaison peut être déclarée, tant que les cartes sont encore dans la main du joueur. Dans ce jeu, contrairement à d'autres jeux apparentés, les joueurs sont autorisés à déclarer des combinaisons même lorsque le talon est vide. Un *mariage* peut même être conservé jusqu'à ce que ce soient les deux seules cartes restantes du joueur et être déclaré lors de la pose de l'une d'elles à l'avant-dernière levée.
 
-Note that the rule when declaring a combination the player must dismantle (*démonter*) it by playing one of its cards does not really restrict a player's freedom of action. There would be no purpose in declaring a combination while keeping all its cards in hand - this would simply disclose information unnecessarily to the opponent. The combination can always be declared later, sometimes after improving it, so even without this rule a good player would always delay the declaration until they decided to play one of the cards from the combination. This rule also has the effect that a player holding two combinations - for example *mariages* in two different suits - never declares both at the same time. Each is kept secret until the player chooses to play one of the cards from it.
+Notez que la règle selon laquelle un joueur doit démonter (*démonter*) la combinaison en jouant l'une de ses cartes lors de la déclaration ne restreint pas vraiment la liberté d'action du joueur. Il n'y aurait aucun intérêt à déclarer une combinaison tout en gardant toutes ses cartes en main — cela révélerait inutilement des informations à l'adversaire. La combinaison peut toujours être déclarée plus tard, parfois après l'avoir améliorée, de sorte que même sans cette règle, un bon joueur retarderait toujours la déclaration jusqu'à ce qu'il décide de jouer une des cartes de la combinaison. Cette règle a aussi pour effet qu'un joueur tenant deux combinaisons — par exemple des *mariages* dans deux couleurs différentes — ne les déclare jamais toutes les deux en même temps. Chacune est gardée secrète jusqu'à ce que le joueur choisisse d'en jouer une des cartes.
 
-## Scoring
+## Décompte
 
-At the end of the play, each player counts the total number of card points in their tricks, the winner of the last trick adds 10 points for dix de der, and each player adds the value of any combinations they declared during the play. The player with most points wins the *partie*. In case of a tie the *partie* is annulled: neither player wins it and the same dealer deals again. 
+À la fin du jeu, chaque joueur compte le nombre total de points de carte dans ses levées, le gagnant de la dernière levée ajoute 10 points pour le dix de der, et chaque joueur ajoute la valeur de toute combinaison déclarée pendant le jeu. Le joueur avec le plus de points remporte la *partie*. En cas d'égalité, la *partie* est annulée : aucun des deux joueurs ne la remporte et le même donneur redistribue.
 
-In practice, in many deals it is only necessary to consider the scores for declarations, the number of *brisques* taken by each player and the *dix de der*, from which it will be clear who has won the partie. The kings, queens and jacks have a total value of only 36 points compared to 94 for the *brisques* plus *dix de der*, so only in the case of a fairly close result is it necessary to compute the exact card point scores including the value of the individual picture cards to determine the winner.
+En pratique, dans de nombreuses donnes, il suffit de considérer les scores des déclarations, le nombre de *brisques* prises par chaque joueur et le *dix de der*, ce qui permet de déterminer clairement qui a remporté la partie. Les rois, dames et valets ont une valeur totale de seulement 36 points contre 94 pour les *brisques* plus le *dix de der*, si bien que ce n'est que dans le cas d'un résultat serré qu'il est nécessaire de calculer les scores exacts en incluant la valeur des cartes habillées pour déterminer le gagnant.
 
-Further deals are played, the turn to deal alternating between the players, until one player has won the enough *parties* to win the *manche* (for example a *manche* of five *parties* will end as soon as one player has won three *parties*). After this, if a complete game is being played, there is a second *manche*, followed if necessary by a third *manche* (*la belle*) as a decider if the players have won one *manche* each.
+Les donnes suivantes sont jouées, le tour de distribution alternant entre les joueurs, jusqu'à ce qu'un joueur ait remporté assez de *parties* pour gagner la *manche* (par exemple une *manche* de cinq *parties* se termine dès qu'un joueur en a gagné trois). Après cela, si une partie complète est en cours, une deuxième *manche* est jouée, suivie si nécessaire d'une troisième *manche* (*la belle*) comme manche décisive si les joueurs ont gagné une *manche* chacun.
 
-## Tactics
+## Tactique
 
-Points are scored mainly for taking *brisques* in tricks and for connecting and declaring combinations. Since both players are allowed to declare combinations in any trick, there is no particular incentive to win tricks unless they contain valuable cards - the only exception being the very last trick of the *partie* which is worth an extra 10 points. Therefore in the opening tricks of a *partie* players normally get rid of useless cards, especially the 7, 8 and 9 or any non-trump suit, and aim to collect combinations.
+Les points sont marqués principalement pour les *brisques* prises dans les levées et pour les combinaisons formées et déclarées. Puisque les deux joueurs sont autorisés à déclarer des combinaisons dans n'importe quelle levée, il n'y a pas d'incitation particulière à gagner des levées sauf si elles contiennent des cartes de valeur — la seule exception étant la toute dernière levée de la *partie*, qui vaut 10 points supplémentaires. Par conséquent, dans les levées d'ouverture d'une *partie*, les joueurs se débarrassent généralement des cartes inutiles, surtout le 7, le 8 et le 9 ou toute couleur non atout, et cherchent à collecter des combinaisons.
 
-When a player's hand consists only of potentially 'useful' cards - *brisques*, kings, queens and to some extent jacks and low trumps, the player will have to choose between:
+Lorsqu'une main du joueur ne contient que des cartes potentiellement « utiles » — *brisques*, rois, dames et dans une certaine mesure valets et atouts bas — le joueur doit choisir entre :
 
-- keeping picture cards, particularly kings and queens, in the hope of collecting a scoring combination in that suit,
+- conserver les cartes habillées, en particulier les rois et les dames, dans l'espoir de former une combinaison à points dans cette couleur,
 
-- keeping aces and tens in the hope of collecting a quinte,
+- conserver les as et les 10 dans l'espoir de former une quinte,
 
-- winning tricks that contain aces and tens to acquire the points that they contain,
+- gagner les levées contenant des as et des 10 pour acquérir les points qu'elles contiennent,
 
-- keeping trumps for the endgame in order to win the last trick,
+- conserver des atouts pour la fin de partie afin de remporter la dernière levée,
 
-- not revealing too much information to their opponent - for example keeping hidden a card that the opponent may be waiting for to complete a combination.
+- ne pas révéler trop d'informations à l'adversaire — par exemple, cacher une carte que l'adversaire attend peut-être pour compléter une combinaison.
 
-The choice is often difficult and depends on the likelihood of success of each option bearing in mind the number of cards still to be acquired from the talon.
+Le choix est souvent difficile et dépend de la probabilité de réussite de chaque option, compte tenu du nombre de cartes restant à piocher dans le talon.
 
-The holder of the 7 of trumps should always exchange it, but it is best to wait to do so until the player is ready to use the trump indicator card, either to play it or to incorporate it in a declared combination.
+Le détenteur du 7 d'atout doit toujours l'échanger, mais il vaut mieux attendre pour le faire jusqu'à ce que le joueur soit prêt à utiliser la carte indicatrice d'atout, soit pour la jouer, soit pour l'intégrer dans une combinaison déclarée.
 
-As in most card games it is important to remember the cards that have been played. In particular, once a king or queen has been played no further combinations are possible in that suit, and the king, queen and jack of that suit become useless cards.
+Comme dans la plupart des jeux de cartes, il est important de mémoriser les cartes qui ont été jouées. En particulier, une fois qu'un roi ou une dame a été joué, aucune autre combinaison n'est possible dans cette couleur, et le roi, la dame et le valet de cette couleur deviennent des cartes inutiles.
 
-## Variations
+## Variantes
 
-### Three or Four Players
+### Trois ou quatre joueurs
 
-Although Chouine is primarily a two-player game it can be adapted to be played by three or four players. In the 3- and 4-player games only three cards are dealt to each player and only three kinds of combination can be declared.
+Bien que la Chouine soit principalement un jeu à deux joueurs, elle peut être adaptée pour trois ou quatre joueurs. Dans les versions à 3 et 4 joueurs, seules trois cartes sont distribuées à chaque joueur et seuls trois types de combinaison peuvent être déclarés.
 
-- *Mariage* (king-queen of a suit) scores 20 points in a plain suit or 40 in trumps.
+- *Mariage* (roi-dame d'une couleur) vaut 20 points dans une couleur ordinaire ou 40 à l'atout.
 
-- *Trente* (a hand of three *brisques*) scores 30 points.
+- *Trente* (une main de trois *brisques*) vaut 30 points.
 
-- *Chouine* (king-queen-jack of a suit) immediately wins the *partie*.
+- *Chouine* (roi-dame-valet d'une couleur) remporte immédiatement la *partie*.
 
-The last trick is worth 10 points as usual, and the player who takes most points wins the *partie*.
+La dernière levée vaut 10 points comme d'habitude, et le joueur qui totalise le plus de points remporte la *partie*.
 
-In the three-player game the last two cards of the talon (the trump indicator and the face-down card on top of it) are never drawn and count for neither player. The rules of play change as soon as there are only these two cards in the talon. 
+Dans le jeu à trois joueurs, les deux dernières cartes du talon (l'indicateur d'atout et la carte face cachée posée dessus) ne sont jamais piochées et ne comptent pour aucun joueur. Les règles de jeu changent dès qu'il ne reste que ces deux cartes dans le talon.
 
-### Mondoubleau Variant
+### Variante de Mondoubleau
 
-This is played mainly in the Perche Vendômois region. 
+Cette variante se joue principalement dans la région du Perche Vendômois.
 
-The main difference is that no card is turned up as a trump indicator, and there is no trump suit at the start of the game.
+La différence principale est qu'aucune carte n'est retournée comme indicatrice d'atout, et qu'il n'y a pas de couleur d'atout au début du jeu.
 
-A trump suit is created when the player leading to a trick declares a *mariage*, *tierce* or *quateron*, and the suit of this declaration becomes trumps from that point onwards. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Chouine
+Une couleur d'atout est créée lorsque le joueur menant une levée déclare un *mariage*, une *tierce* ou un *quateron*, et la couleur de cette déclaration devient l'atout à partir de ce moment.

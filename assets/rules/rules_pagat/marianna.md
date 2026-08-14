@@ -2,124 +2,122 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A relative of Briscola featuring declarations of the king and queen (or horse) of a suit.
+**But :** Parent de la Briscola avec déclarations du roi et de la dame (ou du cavalier) d'une couleur.
 
 ---
 
 ## Introduction
 
-This Italian game is related to the popular game Briscola. The order and value of the cards is the same, but in Marianna there are extra scores for marriages, which are also used to set the trump suit. 
+Ce jeu italien est apparenté au populaire jeu de Briscola. L'ordre et la valeur des cartes sont identiques, mais au Marianna, il y a des scores supplémentaires pour les mariages, qui servent également à déterminer l'atout.
 
-This page is based mainly on information provided by Paolo Ronzoni.
+Cette page est principalement basée sur des informations fournies par Paolo Ronzoni.
 
-## Players and Cards
+## Joueurs et cartes
 
-Marianna is a four-player game with fixed partnerships. Players sit opposite their partners. Deal and play are anticlockwise.
+Le Marianna se joue à quatre joueurs en équipes fixes. Les partenaires sont assis en face. La donne et le jeu se font dans le sens antihoraire.
 
-A 40-card pack is used, usually a French suited pack without 8's, 9's and 10's with suits of hearts, diamonds, clubs and spades. The rank of the cards in each suit from high to low and their values are as follows:
+On utilise un jeu de 40 cartes, généralement un jeu à enseignes françaises sans les 8, 9 et 10, avec les couleurs cœurs, carreaux, trèfles et piques. Le rang des cartes dans chaque couleur, de la plus forte à la plus faible, et leurs valeurs sont les suivants :
 
-| Ace |   | 11 points |
-| Three |   | 10 points |
-| King |   | 4 points |
-| Queen |   | 3 points |
-| Jack |   | 2 points |
-| Seven |   | 0 points |
-| Six |   | 0 points |
-| Five |   | 0 points |
-| Four |   | 0 points |
-| Two |   | 0 points |
+| As |   | 11 points |
+| Trois |   | 10 points |
+| Roi |   | 4 points |
+| Dame |   | 3 points |
+| Valet |   | 2 points |
+| Sept |   | 0 points |
+| Six |   | 0 points |
+| Cinq |   | 0 points |
+| Quatre |   | 0 points |
+| Deux |   | 0 points |
 
-Additional points are available for declaring a *marianna*, consisting of the king and queen of a suit held in hand. It is possible to play with Italian suited cards, in which case the horse (*cavallo*) replaces the queen and a *marianna* consists of the king and horse of a suit.
+Des points supplémentaires peuvent être obtenus en déclarant une *marianna*, constituée du roi et de la dame d'une même couleur tenus en main. Il est possible de jouer avec des cartes à enseignes italiennes, auquel cas le cavalier (*cavallo*) remplace la dame et une *marianna* est constituée du roi et du cavalier d'une couleur.
 
-## The Deal
+## La donne
 
-Any player may deal first. The dealer shuffles and the player to dealer's left cuts the cards. The dealer then deals five cards face down to each player and places the remainder in a face down stack on the table.
+N'importe quel joueur peut distribuer en premier. Le donneur bat et le joueur à sa gauche coupe les cartes. Le donneur distribue ensuite cinq cartes face cachée à chaque joueur et place le reste en pile face cachée sur la table.
 
-## The Play
+## Le jeu
 
-The player to dealer's right leads to the first trick. Initially there are no trumps. There is no obligation to follow suit: players may play any card to any trick, but a trick can only be won by a card of the suit that was led. Whoever plays the highest card of the suit that was led wins the trick. Beginning with the winner of the trick, each player in turn draws the top card from the stack of undealt cards so that everyone has five cards again. The winner of the trick now leads to the next trick.
+Le joueur à la droite du donneur mène la première levée. Initialement, il n'y a pas d'atout. Il n'y a aucune obligation de suivre la couleur : les joueurs peuvent jouer n'importe quelle carte, mais une levée ne peut être remportée que par une carte de la couleur demandée. Celui qui joue la carte la plus forte de la couleur demandée remporte la levée. En commençant par le gagnant de la levée, chaque joueur à son tour pioche la carte supérieure de la pile de cartes non distribuées pour que chacun ait à nouveau cinq cartes. Le gagnant de la levée mène ensuite la levée suivante.
 
-At your turn to play to any trick if you hold the king and queen of a suit in your hand, you can declare *"marianna"* and show them. The first marianna declared scores 40 points for the team. The suit of the *marianna* becomes trumps from this trick until the end of the play or until another *marianna* is declared. If another *marianna* is declared, the trump suit is changed to the suit of the latest *marianna*. The second *marianna* scores 60 points, the third 80 points and the fourth 100 points.
+À votre tour de jouer, si vous tenez le roi et la dame d'une couleur en main, vous pouvez déclarer « *marianna* » et les montrer. La première marianna déclarée rapporte 40 points à l'équipe. La couleur de la *marianna* devient atout à partir de cette levée jusqu'à la fin de la partie ou jusqu'à ce qu'une autre *marianna* soit déclarée. Si une autre *marianna* est déclarée, l'atout change pour la couleur de la dernière *marianna*. La deuxième *marianna* rapporte 60 points, la troisième 80 et la quatrième 100.
 
-After a *marianna* has been declared, there is still no obligation to follow suit. Players may play any card, but if there is a trump suit and any trumps were played, the trick is won by the highest trump in it. For this purpose, only the suit that is trumps at the **end** of the trick counts.
+Après qu'une *marianna* a été déclarée, il n'y a toujours aucune obligation de suivre. Les joueurs peuvent jouer n'importe quelle carte, mais s'il y a un atout et que des atouts ont été joués, la levée est remportée par le plus fort atout. À cet effet, seule la couleur qui est atout à la **fin** de la levée compte.
 
-A player is not allowed to declare more than one *marianna* in the same trick, but it may happen that during a single trick two or more different players each declare a *marianna*. In this case, it is whichever of these players played latest to the trick whose *marianna* determines the trump suit for this and subsequent tricks.
+Un joueur ne peut déclarer plus d'une *marianna* dans la même levée, mais il peut arriver que lors d'une seule levée, deux joueurs différents déclarent chacun une *marianna*. Dans ce cas, c'est celui de ces joueurs qui a joué en dernier dont la *marianna* détermine l'atout pour cette levée et les suivantes.
 
-After the last card has been drawn from the stock it is no longer possible to declare a *marianna*. The last five trick are played using the cards the players then have in their hands, under the same rules of play but without drawing new cards. 
+Après que la dernière carte a été piochée de la pile, il n'est plus possible de déclarer une *marianna*. Les cinq dernières levées se jouent avec les cartes que les joueurs ont alors en main, selon les mêmes règles mais sans piocher de nouvelles cartes.
 
-Two other combinations can be declared, if a player is lucky enough to hold one of them.
+Deux autres combinaisons peuvent être déclarées, si un joueur a la chance de les détenir.
 
-- A player who has four queens and a king can declare a *mariannino* for 250 points. The suit of the king becomes trumps.
+- Un joueur qui a quatre dames et un roi peut déclarer un *mariannino* pour 250 points. La couleur du roi devient atout.
 
-- A player who holds four kings and a queen can declare a *mariannone* for 500 points, winning the whole game.
+- Un joueur qui détient quatre rois et une dame peut déclarer un *mariannone* pour 500 points, remportant la partie entière.
 
-It is not legal to play a *marianna* and a *mariannino* in the same trick, but if you declare a marianna, keep the cards and later acquire all the other queens as well you could then declare a *mariannino* Alternatively, if you have four queens and pick up a king, you can declare *mariannino* immediately and then, if you keep the king and queen of the same suit, also declare a *marianna* in the next trick.
+Il n'est pas possible de jouer une *marianna* et un *mariannino* dans la même levée, mais si vous déclarez une marianna, conservez les cartes et acquérez ensuite toutes les autres dames, vous pourrez ensuite déclarer un *mariannino*. Alternativement, si vous avez quatre dames et piochez un roi, vous pouvez déclarer un *mariannino* immédiatement puis, si vous conservez le roi et la dame de la même couleur, déclarer aussi une *marianna* à la levée suivante.
 
-## Scoring
+## Comptage
 
-Each team keeps a cumulative score, starting from zero. At the end of the play, each team counts the points they have won in tricks (total of 120 in the pack) plus any *marianne* etc. that they have declared and add them to their score. If either team has 501 or more points, the game ends and the team with the higher score wins.
+Chaque équipe conserve un score cumulé, à partir de zéro. À la fin de la partie, chaque équipe compte les points gagnés dans les levées (120 au total dans le jeu) plus les *marianna* etc. déclarées et les ajoute à son score. Si l'une des équipes a 501 points ou plus, la partie se termine et l'équipe avec le score le plus élevé gagne.
 
-## Variations
+## Variantes
 
-Some play that *marianne* are declared at the start of the trick, even by a player who is not the leader to the trick. Before the start of each trick, the player leading to the trick must pause for a few seconds to give anyone who wishes to the chance to declare a *marianna*. Once a card has been led, no more *marianne* can be declared until the start of the next trick. If more than one player declares a *marianna* at the start of the same trick, they are considered to be declared in the order in which cards will be played to the trick, the last of them determining trumps. This creates a kind of tension as a player who holds a *marianna* will pause to find out whether another player also wishes to announce one. There is also the tactic of *"fare morire in mano una marianna"*, in which you try to discourage another player from declaring their *marianna* by acting as though you have a *marianna* of your own which you will declare later, even though in fact you don't have one.
+Certains jouent que les *marianna* sont déclarées au début de la levée, même par un joueur qui n'est pas le meneur. Avant le début de chaque levée, le meneur doit marquer une pause de quelques secondes pour donner à quiconque le souhaite la possibilité de déclarer une *marianna*. Une fois une carte menée, aucune *marianna* ne peut plus être déclarée avant la levée suivante. Si plusieurs joueurs déclarent une *marianna* au début de la même levée, elles sont considérées comme déclarées dans l'ordre de jeu des cartes, la dernière déterminant l'atout. Cela crée une tension particulière : un joueur tenant une *marianna* s'arrête pour savoir si un autre souhaite aussi en déclarer une. Il existe aussi la tactique de « *fare morire in mano una marianna* », qui consiste à décourager un autre joueur de déclarer sa *marianna* en feignant d'en avoir une soi-même que l'on déclarerait plus tard, bien qu'on n'en ait pas.
 
-Some play with lower scores for declaring a *marianna*: 20 for the first, 40 for the second, 60 for the third, 80 for the fourth.
+Certains jouent avec des scores réduits pour la déclaration d'une *marianna* : 20 pour la première, 40 pour la deuxième, 60 pour la troisième, 80 pour la quatrième.
 
-Some play that a *marianna* can only be declared by the player who leads to the trick. Therefore, in order to declare a *marianna* you either have to be the player to dealer's right in the first trick, or to win a trick in order to acquire the lead.
+Certains jouent qu'une *marianna* ne peut être déclarée que par le joueur qui mène la levée. Il faut donc soit être le joueur à la droite du donneur lors de la première levée, soit remporter une levée pour obtenir la main.
 
-Some play that the trump suit is set by the first *marianna*. Later *marianna* declarations score points but do not change the trump suit.
+Certains jouent que l'atout est fixé par la première *marianna*. Les déclarations ultérieures de *marianna* rapportent des points mais ne changent pas l'atout.
 
-Some allow *marianne* to be declared in the fifth from last trick, just after the last cards have been drawn from the talon, but not later than this. 
+Certains autorisent les *marianna* à être déclarées à la cinquième levée avant la fin, juste après que les dernières cartes ont été piochées du talon, mais pas au-delà.
 
 ### 500 (Cinquecento)
 
-This is a variant of Marianna played in Sicily.
-The rules are the same as for Marianna, except for the following differences:
+Il s'agit d'une variante du Marianna jouée en Sicile.
+Les règles sont les mêmes que pour le Marianna, à l'exception des différences suivantes :
 
-- Italian suited (Sicilian) cards are used.
+- On utilise des cartes à enseignes italiennes (siciliennes).
 
-- The first *marianna* (Re and Cavallo of the same suit) has a value of 40 points and it determines the trump suit.
+- La première *marianna* (Roi et Cavalier de la même couleur) vaut 40 points et détermine l'atout.
 
-- After trumps have been set, other *marianna* declarations score only 20 points and they don’t change the trump suit.
+- Après que l'atout a été fixé, les autres déclarations de *marianna* ne rapportent que 20 points et ne changent pas l'atout.
 
-- The combinations of *mariannino* and *mariannone* don’t exist.
+- Les combinaisons de *mariannino* et *mariannone* n'existent pas.
 
-- Declaring a *marianna* is called *“cantare”* (to sing). A player can declare a *marianna* whenever he wants, even in the middle of a trick. If it is the first one declared, it establishes the trump suit for the current trick and all later tricks.
+- Déclarer une *marianna* s'appelle *« cantare »* (chanter). Un joueur peut déclarer une *marianna* quand il le souhaite, même au milieu d'une levée. Si c'est la première déclarée, elle établit l'atout pour la levée en cours et toutes les suivantes.
 
-- The game ends when a team's score reaches 500 of more points.
+- La partie se termine lorsque le score d'une équipe atteint 500 points ou plus.
 
-### Covering
+### Couverture
 
-This variant can be played in Marianna or in Cinquecento.
+Cette variante peut être jouée au Marianna ou au Cinquecento.
 
-If there are no trumps yet and the leader to a trick has a queen (horse) or a king in his hand, before leading the trick, he can ask his  partner: *“Mi copri a ..."* ("can you cover me in...") and name the suit of the king or queen/horse - for example "Can you cover me in diamonds?" 
+S'il n'y a pas encore d'atout et que le meneur d'une levée a une dame (cavalier) ou un roi en main, avant de mener la levée, il peut demander à son partenaire : *« Mi copri a ... »* (« peux-tu me couvrir à... ») en nommant la couleur du roi ou de la dame/cavalier — par exemple « peux-tu me couvrir à carreau ? »
 
-If the player's partner has the other card needed to complete a *marianna* in that suit he may answer "yes". In this case the first player must lead the king or queen/horse and the partner must play the other card of the *marianna* to the trick. **If they win the trick**, then they score 20 points (instead of the usual 40 for a *marianna* in one hand) and the suit is established as trumps. If they don't win the trick, because an opponent plays the ace or three of the suit, they don't score and there are still no trumps.
+Si le partenaire a l'autre carte nécessaire pour compléter une *marianna* dans cette couleur, il peut répondre « oui ». Dans ce cas, le premier joueur doit mener le roi ou la dame/cavalier et le partenaire doit jouer l'autre carte de la *marianna* dans la levée. **S'ils remportent la levée**, ils marquent 20 points (au lieu des 40 habituels pour une *marianna* en une seule main) et la couleur est établie comme atout. S'ils ne remportent pas la levée, parce qu'un adversaire a joué l'as ou le trois de la couleur, ils ne marquent pas et il n'y a toujours pas d'atout.
 
-Once trumps have been set, it is no longer possible to declare a marriage split between two partners.
+Une fois l'atout fixé, il n'est plus possible de déclarer un mariage partagé entre deux partenaires.
 
 ### Briscola 151
 
-This two-player variant with Italian suited cards was described on the [Briscola Variations](https://web.archive.org/web/20250118080921/https://www.solitariconlecarte.it/variantibriscola.htm) page of solitariconlecarte.it (archive copy). After 5 cards each have been dealt, the next card is turned face up and placed at right angles under the stack of undealt cards (*tallone*) to indicate the trump suit, which is fixed for the deal.
+Cette variante à deux joueurs avec des cartes à enseignes italiennes a été décrite sur la page [Briscola Variations](https://web.archive.org/web/20250118080921/https://www.solitariconlecarte.it/variantibriscola.htm) de solitariconlecarte.it (copie d'archive). Après que cinq cartes ont été distribuées à chaque joueur, la carte suivante est retournée et placée perpendiculairement sous la pile de cartes non distribuées (*tallone*) pour indiquer l'atout, qui est fixe pour la donne.
 
-The king and horse of a suit together in one hand is a *matrimonio*, scoring 40 points if the suit is trumps or 20 if it is not trumps. However a matrimonio cannot be declared and scored during the first trick or when the last cards have been drawn from the *tallone*.
+Le roi et le cavalier d'une même couleur ensemble dans une seule main forment un *matrimonio*, rapportant 40 points si la couleur est l'atout ou 20 si ce n'est pas l'atout. Cependant, un matrimonio ne peut être déclaré et marqué lors de la première levée ni lorsque les dernières cartes ont été piochées du *tallone*.
 
-The card values are as usual, and the winner is the first player whose score reaches 151 points.
+Les valeurs des cartes sont habituelles, et le vainqueur est le premier joueur dont le score atteint 151 points.
 
-Some play that if the trump indicator is a king or horse, the holder of the ace of trumps may exchange it for the trump indicator at their turn to play in order to complete a trump *matrimonio* for 40 points.
+Certains jouent que si la carte indiquant l'atout est un roi ou un cavalier, le détenteur de l'as d'atout peut l'échanger contre la carte indiquant l'atout à son tour de jouer, afin de compléter un *matrimonio* d'atout pour 40 points.
 
 ### Mariaccio
 
-This two-player variant was described to me by Paolo Ronzoni. It is played with a 40-card Italo-Spanish pack (i.e. Latin suits with the swords and clubs separate, not interlaced, as in the Neapolitan and other South Italian patterns). It is also sometimes known as *Mariaggia* or *Mariaccia*.
+Cette variante à deux joueurs m'a été décrite par Paolo Ronzoni. Elle se joue avec un jeu de 40 cartes italo-espagnol (c'est-à-dire des enseignes latines avec épées et bâtons séparés, non entrelacés, comme dans les jeux napolitains et autres modèles du sud de l'Italie). Elle est aussi parfois appelée *Mariaggia* ou *Mariaccia*.
 
-Five cards are dealt to each player, and the eleventh card is placed face up on the table to determine the trump suit. The remaining stock is placed face down across the face-up trump. There is no possibility to exchange a card from and for the face-up trump in this game. The non-dealer leads to the first trick. 
+Cinq cartes sont distribuées à chaque joueur, et la onzième carte est placée face visible sur la table pour déterminer l'atout. Le reste de la pile est placé face cachée sur l'atout visible. Il n'y a pas de possibilité d'échanger une carte avec l'atout visible dans ce jeu. Le non-donneur mène la première levée.
 
-Until the stock is exhausted, there is no requirement to follow suit, overtake or trump - the second player to a trick may play any card. The winner of the trick draws the top card of the stock without showing it, the other player draws the next card, and the winner of the trick then leads to the next. The face up trump will be taken as the last card of the stock. When there are no stock cards left, the play continues as before except that the second player to each trick is obliged to follow suit and to beat the led card if possible, and if holding no card of the suit led to play a trump if possible. 
+Tant que la pile n'est pas épuisée, il n'y a aucune obligation de suivre, de surmonter ou d'atouter — le second joueur d'une levée peut jouer n'importe quelle carte. Le gagnant de la levée pioche la carte supérieure de la pile sans la montrer, l'autre joueur pioche la suivante, et le gagnant mène ensuite la levée suivante. La carte visible de l'atout sera prise comme dernière carte de la pile. Quand il ne reste plus de cartes dans la pile, le jeu continue comme précédemment, sauf que le second joueur de chaque levée est obligé de suivre et de battre la carte menée si possible, et s'il n'a pas de carte de la couleur demandée, d'atouter si possible.
 
-A player who has just won a trick can declare 40 if holding the king and horse of trumps, or 20 if holding the king and horse of another suit, scoring that number of points. 
+Un joueur qui vient de remporter une levée peut déclarer 40 s'il tient le roi et le cavalier d'atout, ou 20 s'il tient le roi et le cavalier d'une autre couleur, marquant ce nombre de points.
 
-After all the cards have been played each player counts the points won for cards in tricks and declarations. The aim is to be the first to reach or exceed a target score agreed in advance, normally 200 or 250 points, over as many deals as it takes. At the end of the play, if neither player has reached the target a new deal is played, dealt by the opponent of the previous dealer. 
+Après que toutes les cartes ont été jouées, chaque joueur compte les points gagnés pour les cartes dans les levées et les déclarations. Le but est d'être le premier à atteindre ou dépasser un score cible convenu à l'avance, généralement 200 ou 250 points, en autant de donnes que nécessaire. À la fin de la partie, si aucun joueur n'a atteint le cible, une nouvelle donne est jouée, distribuée par l'adversaire du donneur précédent.
 
-As soon as a player believes they have reached or passed the agreed target, they can claim to have won and stop the play. If the claim is correct the player wins (irrespective of how many points their opponent has). If a a player claims to have won but turns out not to have reached the target score, they lose and the opponent wins irrespective of their score. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Marianna
+Dès qu'un joueur pense avoir atteint ou dépassé le score convenu, il peut déclarer avoir gagné et arrêter le jeu. Si la déclaration est correcte, le joueur gagne (quel que soit le score de son adversaire). Si un joueur déclare avoir gagné mais s'avère ne pas avoir atteint le score cible, il perd et son adversaire gagne quel que soit son score.

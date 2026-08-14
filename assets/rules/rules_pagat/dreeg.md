@@ -2,334 +2,339 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** Also known as Nürnberger Dreck (Nuremberg Junk). Four players play a series of different extended versions of the classic German card game 66.
+**But :** Quatre joueurs jouent une série de versions étendues du classique jeu de cartes allemand 66.
 **Autres noms :** Nürnberger Dreck, Deutsch
 
 ---
 
 ## Introduction
 
-**Dreeg** is a card game for four or three players which is primarily played in and around Nuremberg in Germany (in Franconia and the neighbouring Upper Palatinate). Its name is a dialect form of '*Dreck*' which means 'trash' or 'muck' and it is sometimes more formally known as 'Nürnberger Dreck'. It is a composite of several different games, all based on the well-known German card game Sechsundsechzig (66).
+**Dreeg** est un jeu de cartes pour quatre ou trois joueurs, principalement pratiqué dans et autour de Nuremberg en Allemagne (en Franconie et dans le Haut-Palatinat voisin). Son nom est une forme dialectale de *Dreck* qui signifie « déchets » ou « muck », et il est parfois plus formellement appelé « Nürnberger Dreck ». C'est un assemblage de plusieurs jeux différents, tous basés sur le jeu de cartes allemand bien connu Sechsundsechzig (66).
 
-The description on this page is based on information from Jens Meder, who learned Dreeg as a child from his grandfather, who was born in Gunzenhausen, married in Nuremberg, and moved after the Second World War to live in Neumarkt in the Upper Palatinate where he would play regularly with his friends at the [Stammtisch](https://en.wikipedia.org/wiki/Stammtisch). We have also referred to the book *Die Kartl-Akademie Weinzierlein* (see references), which gives slightly different rules, and is the main source of previously published information about this game.
+La description de cette page est basée sur les informations de Jens Meder, qui a appris Dreeg dans son enfance auprès de son grand-père, né à Gunzenhausen, marié à Nuremberg, et installé après la Seconde Guerre mondiale à Neumarkt dans le Haut-Palatinat où il jouait régulièrement avec ses amis au [Stammtisch](https://en.wikipedia.org/wiki/Stammtisch). Nous avons également consulté le livre *Die Kartl-Akademie Weinzierlein* (voir références), qui donne des règles légèrement différentes et est la principale source d'informations publiées antérieurement sur ce jeu.
 
-## Players and Equipment
+## Joueurs et matériel
 
-We will describe the game for four players. It consists of eight phases or sub-games, in each of which players progressively drop out until the loser of the phase is determined. If there are only three players, each phase is simply begun with the three-player version of the game, which is included in the rules below. Deal and play are clockwise throughout.
+Nous décrirons le jeu pour quatre joueurs. Il comporte huit phases ou sous-jeux, dans chacun desquels les joueurs abandonnent progressivement jusqu'à ce que le perdant de la phase soit déterminé. S'il n'y a que trois joueurs, chaque phase commence simplement avec la version à trois joueurs du jeu, incluse dans les règles ci-dessous. La distribution et le jeu se font dans le sens des aiguilles d'une montre.
 
-A German-suited 24-card pack is used, ideally either the Bavarian or the Franconian pattern. Each player should have a slate, and a piece of chalk is needed to mark up the slates at the start of each sub-game. One piece of chalk shared between all the players is sufficient, because during each sub-game the players update their score by erasing marks, and no new marks are needed until the end of the sub-game.
+On utilise un jeu de 24 cartes aux enseignes allemandes, idéalement de type bavarois ou franconien. Chaque joueur doit avoir une ardoise, et un morceau de craie est nécessaire pour marquer les ardoises au début de chaque sous-jeu. Un morceau de craie partagé entre tous les joueurs suffit, car pendant chaque sous-jeu les joueurs mettent à jour leur score en effaçant des traits, et aucun nouveau trait n'est nécessaire avant la fin du sous-jeu.
 
-The suits are acorns, leaves, hearts and bells, and the cards in each suit in descending order and their point values are as follows:
+Les couleurs sont glands, feuilles, cœurs et cloches, et les cartes de chaque couleur par ordre descendant et leur valeur en points sont les suivantes :
 
-| Ace | 11 |
-| Ten | 10 |
-| King | 4 |
-| Over | 3 |
-| Under | 2 |
-| Nine | 0 |
+| As | 11 |
+| 10 | 10 |
+| Roi | 4 |
+| Ober | 3 |
+| Unter | 2 |
+| 9 | 0 |
 
-The total value of the cards in the pack is 120. In addition, a player who holds the King and Over of a suit in hand can score extra card points by declaring them and leading one of the cards: 40 points for the King and Over of trumps or 20 points for the King and Over of any other suit. Note that in this game, unlike the North German form of 66, there are no extra points for the last trick, but it is used when necessary as a tie-breaker.
+La valeur totale des cartes du jeu est de 120. De plus, un joueur tenant le Roi et l'Ober d'une couleur en main peut marquer des points de carte supplémentaires en les déclarant et en menant l'une des cartes : 40 points pour le Roi et l'Ober d'atout ou 20 points pour le Roi et l'Ober de toute autre couleur. Notez que dans ce jeu, contrairement à la forme nord-allemande du 66, il n'y a pas de points supplémentaires pour la dernière levée, mais elle est utilisée si nécessaire comme départageur.
 
-If the correct cards are not available, other German suited cards could be used. Some people economise by using half of a Gaigel or a Doppelkopf pack. In an emergency you could even use a standard international pack, throwing out all the cards 2-8 inclusive from a 52-card pack. 
+Si les bonnes cartes ne sont pas disponibles, d'autres cartes aux enseignes allemandes peuvent être utilisées. Certains économisent en utilisant la moitié d'un jeu de Gaigel ou de Doppelkopf. En cas de nécessité, on pourrait même utiliser un jeu international standard, en retirant toutes les cartes du 2 au 8 inclus d'un jeu de 52 cartes.
 
-## Format of the Game
+## Format du jeu
 
-The game consists of eight sub-games or phases, each of which lasts for several deals until the loser of the phase is determined. At the end of the whole game players settle up according to how many phases each player has lost.
+Le jeu se compose de huit sous-jeux ou phases, chacun durant plusieurs donnes jusqu'à ce que le perdant de la phase soit déterminé. À la fin du jeu, les joueurs règlent leurs comptes en fonction du nombre de phases perdues par chacun.
 
-Traditionally the score is kept on chalk slates, one slate for each player. Each player begins each phase with 7 strokes and strokes are erased after each hand according to the result. In phases 1-3 and 6-8 players with no strokes drop out until only one player remains and that player is the loser of that phase. In phases 4 and 5 the first player who erases all their strokes is the loser. 
+Traditionnellement, le score est conservé sur des ardoises à la craie, une ardoise par joueur. Chaque joueur commence chaque phase avec 7 traits et des traits sont effacés après chaque main selon le résultat. Dans les phases 1-3 et 6-8, les joueurs sans traits abandonnent jusqu'à ce qu'il ne reste qu'un joueur, et ce joueur est le perdant de la phase. Dans les phases 4 et 5, le premier joueur à effacer tous ses traits est le perdant.
 
-Here is a brief summary of the phases - specific rules for each phase will be given later.
+Voici un bref résumé des phases — les règles spécifiques de chaque phase seront données plus tard.
 
-**Phases 1 and 8: Sechsundsechzig (66), also known as Deutsch.** A card is turned up to determine the trump suit. There are no partnerships, the cards are played out in tricks and the aim is to take most card points in tricks. When there are four or three players all the cards are dealt and the players who take most points erase strokes. When only two players remain the game is played just like normal 66. The players are dealt 6 cards each, cards are drawn from the talon after each trick, and the aim is to take 66 or more card points.
+**Phases 1 et 8 : Sechsundsechzig (66), également appelé Deutsch.** Une carte est retournée pour déterminer la couleur d'atout. Il n'y a pas de partenariats, les cartes sont jouées en levées et le but est de prendre le plus de points de cartes. Avec quatre ou trois joueurs, toutes les cartes sont distribuées et les joueurs qui prennent le plus de points effacent des traits. Lorsqu'il ne reste que deux joueurs, le jeu se joue exactement comme le 66 normal. Les joueurs reçoivent 6 cartes chacun, des cartes sont piochées dans le talon après chaque levée, et le but est de prendre 66 points de carte ou plus.
 
-**Phases 2 and 7: Rot-Assen (Ace of Hearts).** The trump suit is chosen by the holder of the Ace of Hearts who must play alone against the other players as a team. The side that is the first to take 66 or more card points wins and the member(s) of the winning team erase 1, 2 or 3 strokes. In the four- and three-player games all the cards are dealt. Two players play with a talon and there are no trumps until a player obtains the Ace of hearts and chooses the trump suit.
+**Phases 2 et 7 : Rot-Assen (As de cœur).** La couleur d'atout est choisie par le détenteur de l'As de cœur, qui doit jouer seul contre les autres joueurs formant une équipe. Le côté qui prend en premier 66 points de carte ou plus gagne et le(s) membre(s) de l'équipe gagnante effacent 1, 2 ou 3 traits. Dans les jeux à quatre et trois joueurs, toutes les cartes sont distribuées. À deux joueurs, on joue avec un talon et il n'y a pas d'atout jusqu'à ce qu'un joueur obtienne l'As de cœur et choisisse la couleur d'atout.
 
-**Phases 3 and 6: Rufen (Calling).** When there are four or three players, the player to dealer's left (forehand) is dealt three cards and must call a card. The suit of this card will be trumps and its holder will be forehand's partner. The deal is then completed and tricks are played, the aim of each team being to be the first to take 66 or more card points. When there are two players there is no calling, and the non-dealer simply chooses a trump suit after seeing three cards. The players have hands of 6 cards each and draw from the talon after each trick.
+**Phases 3 et 6 : Rufen (Appel).** Avec quatre ou trois joueurs, le joueur à la gauche du donneur (premier en main) reçoit trois cartes et doit appeler une carte. La couleur de cette carte sera l'atout et son détenteur sera le partenaire du premier en main. La distribution est ensuite complétée et les levées sont jouées, chaque équipe cherchant à être la première à prendre 66 points de carte ou plus. À deux joueurs, il n'y a pas d'appel, et le non-donneur choisit simplement une couleur d'atout après avoir vu trois cartes. Les joueurs ont des mains de 6 cartes chacun et piochent dans le talon après chaque levée.
 
-**Phases 4 and 5: Kamerun.** There are no trumps, all the cards are dealt and the aim is to take as few card points as possible. The players who take most card points erase strokes, but in these phases erasing stokes is bad, because the first player to erase all their strokes is the loser.
+**Phases 4 et 5 : Kamerun.** Il n'y a pas d'atout, toutes les cartes sont distribuées et le but est de prendre le moins de points de cartes possible. Les joueurs qui prennent le plus de points de carte effacent des traits, mais dans ces phases effacer des traits est mauvais, car le premier joueur à effacer tous ses traits est le perdant.
 
-## General Rules of Play
+## Règles générales du jeu
 
-The basic rules of shuffling, dealing and trick-play are the same for all the phases. 
+Les règles de base de mélange, distribution et jeu des levées sont les mêmes pour toutes les phases.
 
-### Deal
+### Distribution
 
-For the first phase, the first dealer is chosen by any convenient random method. In phases 2-8 the loser of the previous phase decides who should deal first in the new phase. Often, the loser of the previous phase will ask the player to their right to deal first, so that they will have the advantage of being forehand in the first deal of the new phase, or will chose to deal themselves, so as to play last to the first trick. 
+Pour la première phase, le premier donneur est choisi par la méthode aléatoire la plus pratique. Dans les phases 2-8, le perdant de la phase précédente décide qui distribuera en premier dans la nouvelle phase. Souvent, le perdant de la phase précédente demandera au joueur à sa droite de distribuer en premier, afin d'avoir l'avantage d'être premier en main lors de la première donne de la nouvelle phase, ou choisira de distribuer lui-même, afin de jouer en dernier lors de la première levée.
 
-Within each phase the turn to deal passes to the the next active player to the left after each hand. When a player erases their last stroke from the slate they drop out for the remainder of the phase, but if it was their turn to deal next they must deal the cards to the remaining players for the next hand of the phase before temporarily leaving the game.
+Au sein de chaque phase, le tour de distribution passe au prochain joueur actif à gauche après chaque main. Quand un joueur efface son dernier trait de l'ardoise, il abandonne pour le reste de la phase, mais si c'était son tour de distribuer ensuite, il doit distribuer les cartes aux joueurs restants pour la main suivante de la phase avant de quitter temporairement le jeu.
 
-The dealer shuffles the cards thoroughly and the player to dealer's right cuts. Then the cards are dealt as follows:
+Le donneur mélange soigneusement les cartes et le joueur à la droite du donneur coupe. Ensuite, les cartes sont distribuées comme suit :
 
-- 4 players: 6 cards each in batches of three;
+- 4 joueurs : 6 cartes chacun par paquets de trois ;
 
-- 3 players: 8 cards each in batches of three, then two, then three;
+- 3 joueurs : 8 cartes chacun par paquets de trois, puis deux, puis trois ;
 
-- 2 players: 6 cards each in batches of three. The remaining 12 cards are stacked face down to form the talon.
+- 2 joueurs : 6 cartes chacun par paquets de trois. Les 12 cartes restantes sont empilées face cachée pour former le talon.
 
-There are some small modifications to this to enable trumps and partnerships to be determined. These are different for each phase and are explained in the section for that phase.
+Il existe quelques petites modifications pour permettre de déterminer les atouts et les partenariats. Elles diffèrent pour chaque phase et sont expliquées dans la section correspondante.
 
-### Play
+### Jeu
 
-The player to dealer's left (known as **forehand**) leads to the first trick and the winner of each trick leads to the next. If any trumps are played, the highest trump wins the trick. A trick with no trumps in it is won by the highest card of the suit that was led. The winner of each trick turns the played cards face down, stores them, and leads to the next trick.
+Le joueur à la gauche du donneur (connu comme **premier en main**) mène la première levée et le gagnant de chaque levée mène la suivante. Si des atouts sont joués, le plus haut atout remporte la levée. Une levée sans atout est remportée par la plus haute carte de la couleur menée. Le gagnant de chaque levée retourne les cartes jouées face en bas, les range, et mène la levée suivante.
 
-When there is a talon from which cards can be drawn
-- which happens only during the first part of a two-player game - there is no requirement to follow suit nor to play a trump. No matter what card is led, the other player may play any card to the trick. The winner of the trick draws the top card of the talon (without showing it to their opponent) and the loser similarly draws the next card. 
-If there is no talon or the talon is closed
+Lorsqu'il y a un talon où piocher des cartes
+- ce qui se produit uniquement pendant la première partie d'un jeu à deux joueurs — il n'y a aucune obligation de suivre la couleur ni de jouer un atout. Quelle que soit la carte menée, l'autre joueur peut jouer n'importe quelle carte à la levée. Le gagnant de la levée pioche la carte supérieure du talon (sans la montrer à son adversaire) et le perdant pioche de même la carte suivante.
+S'il n'y a pas de talon ou que le talon est fermé
 
-- either because no talon was dealt (3 or 4 players) or because all the talon cards have been drawn or a player has closed the talon (2 players) - then players are obliged to follow suit, playing a card of the same suit as the card that was led if they have one. A player who has no card of the suit led must play a trump if they have one. Subject to those rules, players must beat the highest card so far played to the trick if they can (even if that card was played by their partner). A player who has no card of the suit led and no trumps may play any card. In other words:
+- soit parce qu'aucun talon n'a été distribué (3 ou 4 joueurs) soit parce que toutes les cartes du talon ont été piochées ou qu'un joueur a fermé le talon (2 joueurs) — les joueurs sont tenus de suivre la couleur, en jouant une carte de la même couleur que la carte menée s'ils en ont une. Un joueur n'ayant pas de carte de la couleur menée doit jouer un atout s'il en a un. Sous réserve de ces règles, les joueurs doivent battre la plus haute carte jouée jusqu'à présent dans la levée s'ils le peuvent (même si cette carte a été jouée par leur partenaire). Un joueur n'ayant pas de carte de la couleur menée et pas d'atout peut jouer n'importe quelle carte. En d'autres termes :
 
-- If a non-trump was led and no trump has yet been played to the trick, the next player must play a higher card of the led suit if they have one, failing that a lower card, failing that a trump, and failing that any other card. 
+- Si une non-atout a été menée et qu'aucun atout n'a encore été joué dans la levée, le joueur suivant doit jouer une carte supérieure de la couleur menée s'il en a une, à défaut une carte inférieure, à défaut un atout, et à défaut toute autre carte.
 
-- If a non-trump was led and a previous player has trumped the trick, the next player must play a card of the suit led if possible, and since such a card cannot beat the trump, any card of the suit led, high or low, can be played. Having no card of the suit led, the next player must play a higher trump than the highest trump so far played to the trick if possible, failing that any other trump, and failing that any other card.
+- Si une non-atout a été menée et qu'un joueur précédent a atouté la levée, le joueur suivant doit jouer une carte de la couleur menée si possible, et comme une telle carte ne peut pas battre l'atout, n'importe quelle carte de la couleur menée, haute ou basse, peut être jouée. N'ayant pas de carte de la couleur menée, le joueur suivant doit jouer un atout supérieur au plus haut atout joué jusqu'à présent dans la levée si possible, à défaut tout autre atout, et à défaut toute autre carte.
 
-- If a trump was led, subsequent players must play a higher trump than the highest trump so far played to the trick if possible, failing that any other trump, and failing that any other card.
+- Si un atout a été mené, les joueurs suivants doivent jouer un atout supérieur au plus haut atout joué jusqu'à présent dans la levée si possible, à défaut tout autre atout, et à défaut toute autre carte.
 
-Any player is allowed to look at the immediately previous trick to check what cards were played or how many points it contained. Apart from the trick currently being played and the immediately previous trick, all other played cards are stored face down in a pile by the player or team that won them and cannot be looked at by any player until the end of the play. 
+Tout joueur est autorisé à regarder la levée immédiatement précédente pour vérifier quelles cartes ont été jouées ou combien de points elle contenait. Outre la levée en cours et la levée immédiatement précédente, toutes les autres cartes jouées sont rangées face en bas dans un tas par le joueur ou l'équipe qui les a remportées et ne peuvent être regardées par aucun joueur jusqu'à la fin du jeu.
 
-### 20 and 40
+### 20 et 40
 
-If the player whose turn it is to lead holds both King and Over of a suit, they may show the two cards, say "40" if the suit is trumps or "20" if it is a non-trump suit, and then lead one of them to the trick. For this declaration the player or their team adds 40 or 20 as appropriate to their card point total. Note that since one of the cards has to be led, only one King-Over combination can be declared in one trick. A player who holds two King-Over pairs and wants to score both pairs needs to win a trick after declaring the first, while keeping the second King-Over in hand to show when leading to another trick and making the second declaration. The only case in which a player can declare a 20 or 40 without having won a trick is when forehand is dealt a King-Over and declares it when leading one of them to the first trick. In this case the 20 or 40 only counts if forehand's team wins at least one trick. If they don't win any tricks their card point total is zero despite the declaration. 
+Si c'est au tour de mener d'un joueur qui tient à la fois le Roi et l'Ober d'une couleur, il peut montrer les deux cartes, dire « 40 » si la couleur est l'atout ou « 20 » si c'est une couleur non atout, puis mener l'une d'elles. Pour cette déclaration, le joueur ou son équipe ajoute 40 ou 20 selon le cas à son total de points de carte. Notez que puisque l'une des cartes doit être menée, une seule combinaison Roi-Ober peut être déclarée par levée. Un joueur tenant deux paires Roi-Ober et souhaitant marquer les deux doit gagner une levée après avoir déclaré la première, tout en conservant la seconde paire Roi-Ober en main pour la montrer en menant une autre levée et faire la deuxième déclaration. Le seul cas où un joueur peut déclarer un 20 ou un 40 sans avoir gagné de levée est lorsque le premier en main a reçu un Roi-Ober et le déclare en menant l'une des cartes à la première levée. Dans ce cas, le 20 ou 40 ne compte que si l'équipe du premier en main gagne au moins une levée. Si elle ne gagne aucune levée, son total de points de carte est de zéro malgré la déclaration.
 
-### Use of the Slates
+### Utilisation des ardoises
 
-Each player has their own chalk slate where they record their score for the current phase and also the number of phases that they have lost. The signs used to keep score are regarded by the players as an important part of the tradition of the game. 
+Chaque joueur a sa propre ardoise à la craie où il enregistre son score pour la phase en cours et le nombre de phases qu'il a perdues. Les signes utilisés pour tenir le score sont considérés par les joueurs comme une partie importante de la tradition du jeu.
 
-At the start of every phase each player has seven strokes, some of which may be erased at the end of each hand. If a player is due to erase more strokes than they have on the slate they simply erase all their remaining strokes. 
+Au début de chaque phase, chaque joueur a sept traits, dont certains peuvent être effacés à la fin de chaque main. Si un joueur doit effacer plus de traits qu'il n'en a sur l'ardoise, il efface simplement tous ses traits restants.
 
-The commonest way to represent the seven strokes is by drawing what looks like a Roman number XII. From this the player first erases the centre of the X, leaving its four arms and the two I's as the six remaining strokes to be erased. So with this method seven strokes and six strokes look like this:
+La façon la plus courante de représenter les sept traits est de dessiner ce qui ressemble au chiffre romain XII. À partir de là, le joueur efface d'abord le centre du X, laissant ses quatre branches et les deux I comme les six traits restants à effacer. Ainsi, avec cette méthode, sept traits et six traits ressemblent à ceci :
 
-![seven strokes](../images/marriage/XII.jpg) ![six strokes](../images/marriage/XII_6.jpg)
+![sept traits](../images/marriage/XII.jpg) ![six traits](../images/marriage/XII_6.jpg)
 
-A lost phase is marked by a blob, known as a *Bollern* or *Knobbern* or *Knäblein* (little boy) in the corner of the loser's slate, like this:
+Une phase perdue est marquée d'une tache, appelée *Bollern* ou *Knobbern* ou *Knäblein* (petit garçon) dans le coin de l'ardoise du perdant, comme ceci :
 
 ![bollern](../images/marriage/bollern.jpg)
 
-### Scoring
+### Décompte
 
-When **four players play as individuals**, after all the cards have been played each player counts the card points in their tricks plus the 20 or 40 for any King-Over pairs they have declared. The player with most card points erases three strokes from their slate, the player with next most erases two strokes and the player with the third most erases one.
+Quand **quatre joueurs jouent en individuels**, après que toutes les cartes ont été jouées, chaque joueur compte les points de carte dans ses levées plus le 20 ou 40 pour toute paire Roi-Ober déclarée. Le joueur avec le plus de points efface trois traits de son ardoise, le joueur avec le deuxième plus en efface deux et le troisième un.
 
-The scoring is similar when **three players play as individuals**, but in this case the strokes erased are 2 by the player with most card points, 1 by the player with the second most card points, and none by the third player. 
+Le décompte est similaire quand **trois joueurs jouent en individuels**, mais dans ce cas les traits effacés sont de 2 pour le joueur avec le plus de points, de 1 pour le deuxième, et aucun pour le troisième.
 
-When there are **two players or two teams**, the aim is to be the first to reach 66 or more card points in tricks plus declarations. Players must keep a careful count of the value of cards they or their team has won, since looking back at tricks before the previous trick is not allowed. A player whose team has just won a trick or has just declared a 20 or 40 and who believes that their team now has at least 66 card points can "go out" (*ausmelden*) by saying "*aus*" (out / done). This ends the play and the card points in each team's tricks are counted. If the team that went out has 66 or more card points, all members of the team erase strokes as follows:
+Quand il y a **deux joueurs ou deux équipes**, le but est d'être le premier à atteindre 66 points de carte ou plus dans les levées plus les déclarations. Les joueurs doivent compter attentivement la valeur des cartes qu'ils ou leur équipe ont remportées, car il n'est pas permis de regarder les levées antérieures à la précédente. Un joueur dont l'équipe vient de gagner une levée ou vient de déclarer un 20 ou un 40 et qui pense que son équipe a maintenant au moins 66 points de carte peut « sortir » (*ausmelden*) en disant « *aus* » (fini). Cela termine le jeu et les points de carte dans les levées de chaque équipe sont comptés. Si l'équipe qui est sortie a 66 points ou plus, tous les membres de l'équipe effacent des traits comme suit :
 
-- **1 stroke** if the opponents have at least 33 points;
+- **1 trait** si les adversaires ont au moins 33 points ;
 
-- **2 strokes** if the opponents have at least one trick but less than 33 points (they are '*schneider*');
+- **2 traits** si les adversaires ont au moins une levée mais moins de 33 points (ils sont *schneider*) ;
 
-- **3 strokes** if the opponents have no tricks at all (they are '*schwarz*').
+- **3 traits** si les adversaires n'ont aucune levée (ils sont *schwarz*).
 
-A team that goes out with 66 or more points always wins the hand however many points the opposing team has, even if the opponents turn out to have more card points than the team that went out. 
+Une équipe qui sort avec 66 points ou plus gagne toujours la main, quel que soit le nombre de points de l'équipe adverse, même si les adversaires se révèlent avoir plus de points de carte que l'équipe qui est sortie.
 
-If a player goes out but it turns out that their team has fewer than 66 points, then the side that went out loses and each member of the **opposing** team erases at least **2 strokes** if the team that went out has at least 33 points, but **3 strokes** if they have fewer than 33 points.
+Si un joueur sort mais qu'il s'avère que son équipe a moins de 66 points, le côté qui est sorti perd et chaque membre de l'équipe **adverse** efface au moins **2 traits** si l'équipe qui est sortie a au moins 33 points, mais **3 traits** si elle a moins de 33 points.
 
-A player can **only** go out just after their team has won a trick or has won at least one trick and has just made a declaration. Once the next card has been played it is too late. If they then realise that they have enough points they have to wait until they win another trick or make another declaration for their next opportunity to go out, and they may lose if the opponents meanwhile reach 66 and go out.
+Un joueur peut **seulement** sortir juste après que son équipe a gagné une levée ou a gagné au moins une levée et vient de faire une déclaration. Une fois la carte suivante jouée, il est trop tard. S'il se rend compte alors qu'il a assez de points, il doit attendre de gagner une autre levée ou de faire une autre déclaration pour sa prochaine opportunité de sortir, et il peut perdre si les adversaires atteignent entre-temps 66 et sortent.
 
-A player can go out before the lead to the second to last trick or immediately after declaring 40 or 20 for a King-Over pair when leading to the second to last trick, but not later than that. Once the second to last trick has been played and the players have only one card left in their hands, going out is no longer possible and the final trick must be played. The card points are then counted. 
+Un joueur peut sortir avant la première carte de l'avant-dernière levée ou immédiatement après avoir déclaré 40 ou 20 pour une paire Roi-Ober en menant l'avant-dernière levée, mais pas plus tard. Une fois l'avant-dernière levée jouée et que les joueurs n'ont plus qu'une carte en main, il n'est plus possible de sortir et la dernière levée doit être jouée. Les points de carte sont alors comptés.
 
-- If one side has 66 or more points and the other does not, the side with 66 or more wins and erases 1, 2 or 3 strokes depending on the tricks and points taken by the other side as above. 
+- Si un côté a 66 points ou plus et l'autre non, le côté à 66 ou plus gagne et efface 1, 2 ou 3 traits selon les levées et points pris par l'autre côté comme ci-dessus.
 
-- If both sides have 66 or more points, the side that won the last trick wins and erases one stroke (irrespective of which side has more points).
+- Si les deux côtés ont 66 points ou plus, le côté qui a gagné la dernière levée gagne et efface un trait (indépendamment de celui qui a le plus de points).
 
-- If both sides have less than 66 points, the side that won the last trick wins and erases one stroke (irrespective of which side has more points).
+- Si les deux côtés ont moins de 66 points, le côté qui a gagné la dernière levée gagne et efface un trait (indépendamment de celui qui a le plus de points).
 
-*Note that the rule from North German 66 that the last trick is worth 10 card points does not apply in this game. Instead the last trick is used to break ties and to determine who wins in cases when no one went out and there is not a clear winner.*
+*Notez que la règle du 66 nord-allemand selon laquelle la dernière levée vaut 10 points de carte ne s'applique pas dans ce jeu. À la place, la dernière levée sert à départager et à déterminer le gagnant dans les cas où personne n'est sorti et qu'il n'y a pas de gagnant clair.*
 
-### Closing
+### Fermeture
 
-In the two-player game with a talon, so long as there are at least four cards in the talon, the player whose turn it will be to lead to the next trick can **close** the talon (*decken*). This is a commitment to take at least 66 points without drawing further cards. The purpose of closing is to deny the opponent the chance of drawing good cards from the talon and thereby perhaps avoiding *schneider* or *schwarz* (or even catching up and winning).
+Dans le jeu à deux avec un talon, tant qu'il reste au moins quatre cartes dans le talon, le joueur qui doit mener la levée suivante peut **fermer** le talon (*decken*). C'est un engagement à prendre au moins 66 points sans piocher d'autres cartes. Le but de la fermeture est de priver l'adversaire de la chance de piocher de bonnes cartes du talon et ainsi peut-être d'éviter *schneider* ou *schwarz* (ou même de rattraper et gagner).
 
-The non-dealer can even close before leading the first card if they consider their initial hand good enough to take 66 card points without further help - for example the A-10-K-O of trumps are worth 28 points, which together with the 40 for declaring the K-O is clearly enough. Subsequently the winner of any of the first four tricks can close either before drawing from the talon (holding five cards) or after both players have drawn from the talon (holding six cards). The winner of the fifth trick can close the talon holding five cards or can draw a card. If the winner of the fifth trick draws from the talon, the talon can no longer be closed. 
+Le non-donneur peut même fermer avant de mener la première carte s'il estime que sa main initiale est suffisante pour prendre 66 points de carte sans aide supplémentaire — par exemple, l'A-10-R-O d'atout vaut 28 points, ce qui avec les 40 de la déclaration du R-O est clairement suffisant. Ensuite, le gagnant de l'une des quatre premières levées peut fermer soit avant de piocher dans le talon (avec cinq cartes), soit après que les deux joueurs ont pioché dans le talon (avec six cartes). Le gagnant de la cinquième levée peut fermer le talon avec cinq cartes ou piocher une carte. Si le gagnant de la cinquième levée pioche dans le talon, le talon ne peut plus être fermé.
 
-After a player has closed, play continues as though the talon were exhausted: no further cards are drawn from the talon and in these last five or six tricks the second player to the trick must follow suit and beat the card led if able to. 
+Après qu'un joueur a fermé, le jeu continue comme si le talon était épuisé : aucune carte n'est piochée et dans ces cinq ou six dernières levées, le second joueur de la levée doit suivre la couleur et battre la carte menée s'il le peut.
 
-As usual the player who closed can go out on reaching 66 or more points, and erases 1, 2 or 3 strokes depending on whether their opponent has won any tricks, and if so whether they have at least 33 points **at the moment when the closing player goes out**. 
+Comme d'habitude, le joueur qui a fermé peut sortir en atteignant 66 points ou plus, et efface 1, 2 ou 3 traits selon que son adversaire a gagné des levées, et si oui s'il a au moins 33 points **au moment où le joueur qui a fermé sort**.
 
-As usual, when both players are reduced to one card the last trick must be played, and if the player who closed wins this trick and has at least 66 points, they win 1, 2 or 3 strokes according to the opponent's tricks **at the end of the play**.
+Comme d'habitude, lorsque les deux joueurs sont réduits à une carte, la dernière levée doit être jouée, et si le joueur qui a fermé gagne cette levée et a au moins 66 points, il gagne 1, 2 ou 3 traits selon les levées de l'adversaire **à la fin du jeu**.
 
-If the player who closed fails to reach 66 points, the opponent wins and the number of strokes they erase depends on the state of the points and tricks **at the moment when the talon was closed**. 
+Si le joueur qui a fermé n'atteint pas 66 points, l'adversaire gagne et le nombre de traits effacés dépend de l'état des points et des levées **au moment où le talon a été fermé**.
 
-- If both players had at least 33 points when the talon was closed, the opponent of the player who closed erases **1 stroke**.
+- Si les deux joueurs avaient au moins 33 points au moment de la fermeture, l'adversaire du joueur qui a fermé efface **1 trait**.
 
-- If one or both players had less than 33 points, but both players had at least one trick, the opponent of the player who closed erases **2 strokes**.
+- Si un ou les deux joueurs avaient moins de 33 points, mais que les deux joueurs avaient au moins une levée, l'adversaire du joueur qui a fermé efface **2 traits**.
 
-- If one or both players had no tricks, the opponent of the player who closed erases **3 strokes**.
+- Si un ou les deux joueurs n'avaient aucune levée, l'adversaire du joueur qui a fermé efface **3 traits**.
 
-The same number of strokes are erased in the unusual case where the opponent of the closer goes out with 66 or more points.
+Le même nombre de traits est effacé dans le cas inhabituel où l'adversaire du fermeur sort avec 66 points ou plus.
 
-If neither player goes out before the last trick, the opponent of the closer wins the last trick and both players have 66 or more card points, then the opponent of the closer erases **1, 2 or 3 strokes** depending on the state of points and tricks at the moment **when the talon was closed**.
+Si aucun des deux joueurs ne sort avant la dernière levée, que l'adversaire du fermeur gagne la dernière levée et que les deux joueurs ont 66 points de carte ou plus, l'adversaire du fermeur efface **1, 2 ou 3 traits** selon l'état des points et des levées au moment **où le talon a été fermé**.
 
-As usual, if a player goes out but turns out to have fewer than 66 card points, their opponent erases at least **2 strokes**. However, if a player closes when their opponent has no tricks, and then goes out with fewer than 66 points, the opponent erases 3 strokes rather than 2. (This rule is necessary to prevent the closer from deliberately going out with too few points in order to save a stroke.)
+Comme d'habitude, si un joueur sort mais s'avère avoir moins de 66 points de carte, son adversaire efface au moins **2 traits**. Cependant, si un joueur ferme alors que son adversaire n'a aucune levée, puis sort avec moins de 66 points, l'adversaire efface 3 traits au lieu de 2. (Cette règle est nécessaire pour empêcher le fermeur de sortir délibérément avec trop peu de points pour économiser un trait.)
 
-### End of Phase and Final Settlement
+### Fin de phase et règlement final
 
-At the end of each deal any players who have erased all their strokes drop out of the play. With the exception of the Kamerun phases (4 and 5), the phase continues with the remaining players until just one player remains. Sometimes the three-player or two-player stage may be skipped more than one player erases all their remaining strokes on the same deal. However, in every deal there is at least one player who erases no strokes, so it is not possible for all the remaining players to drop out at the same time.
+À la fin de chaque donne, les joueurs ayant effacé tous leurs traits abandonnent le jeu. À l'exception des phases Kamerun (4 et 5), la phase continue avec les joueurs restants jusqu'à ce qu'il ne reste qu'un seul joueur. Parfois, la phase à trois ou deux joueurs peut être sautée si plus d'un joueur efface tous ses traits restants lors de la même donne. Cependant, à chaque donne, il y a au moins un joueur qui n'efface aucun trait, il n'est donc pas possible que tous les joueurs restants abandonnent en même temps.
 
-When all the other players have dropped out, the last remaining player with strokes is the loser of the phase and marks a *Bollern* on their slate to record this. The loser then cleans their slate (leaving any *Bollern* in place), everyone draws seven new strokes on their slate to start the next phase, and the loser of the phase just ended chooses who will be the next dealer.
+Lorsque tous les autres joueurs ont abandonné, le dernier joueur restant avec des traits est le perdant de la phase et marque un *Bollern* sur son ardoise pour l'enregistrer. Le perdant nettoie ensuite son ardoise (en laissant les *Bollern* en place), tous les joueurs dessinent sept nouveaux traits sur leur ardoise pour commencer la phase suivante, et le perdant de la phase qui vient de se terminer choisit le prochain donneur.
 
-Phases 4 and 5 (Kamerun) end as soon as the first player erases the last stroke from their slate and this player is the loser. In exceptional cases there can be more than one loser and then each of them records a *Bollern*. Everyone who still has strokes erases them (leaving any *Bollern* in place), and all players draw seven new strokes to start the next phase.
+Les phases 4 et 5 (Kamerun) se terminent dès que le premier joueur efface le dernier trait de son ardoise, et ce joueur est le perdant. Dans des cas exceptionnels, il peut y avoir plus d'un perdant et chacun marque un *Bollern*. Tous ceux qui ont encore des traits les effacent (en laissant les *Bollern* en place), et tous les joueurs dessinent sept nouveaux traits pour commencer la phase suivante.
 
-At the end of phase 8 the players settle up. Typically each player must buy a litre of beer or a shot of schnaps for each *Bollern* on their slate, and the drinks are shared between all the players.
+À la fin de la phase 8, les joueurs règlent leurs comptes. Typiquement, chaque joueur doit offrir un litre de bière ou un schnaps pour chaque *Bollern* sur son ardoise, et les boissons sont partagées entre tous les joueurs.
 
-## The Eight Phases
+## Les huit phases
 
-The specific rules for the eight phases of the game will now be described. The general rules given above apply to all phases unless specified otherwise.
+Les règles spécifiques des huit phases du jeu seront maintenant décrites. Les règles générales ci-dessus s'appliquent à toutes les phases sauf indication contraire.
 
-### Phase 1: Sechsundsechzig (66)
+### Phase 1 : Sechsundsechzig (66)
 
-This phase, which is also known as "Deutsch", is closest to the classic game of 66 - in fact the two-player final is identical to 66.
+Cette phase, également appelée « Deutsch », est la plus proche du jeu classique du 66 — en fait, la finale à deux joueurs est identique au 66.
 
-In the **four-player game**, the dealer turns the last card of the pack face up. This card belongs to the dealer and its suit is trumps. Forehand (the player to dealer's left) leads to the first trick, the six tricks are played (players must follow suit, trump when void, overtake when possible) and when all the cards have been played the card points taken by each player are counted. The player with most points erases 3 strokes, the second placed player 2, the third 1 and the player with fewest points erases nothing. In the event of a tie between two or three players, if one of them won the last trick that player is considered to have taken more points than the others (it is as though the last trick were worth 0.5 card points in this case). If there is a tie between players none of whom took the last trick, they both (all) erase the smaller (smallest) number of strokes. So the strokes erased will be 2-2-1-0 in the event of a tie for first place or 3-1-1-0 if there is a tie for second place or 3-2-0-0 if there is a tie for third. If one player takes most points and the last trick while the other three are all equal, the strokes erased are 3-0-0-0.
+Dans le **jeu à quatre joueurs**, le donneur retourne la dernière carte du jeu face visible. Cette carte appartient au donneur et sa couleur est l'atout. Le premier en main (le joueur à la gauche du donneur) mène la première levée, les six levées sont jouées (les joueurs doivent suivre la couleur, atouter s'ils n'ont pas de la couleur, et surmonter si possible) et lorsque toutes les cartes ont été jouées, les points de carte pris par chaque joueur sont comptés. Le joueur avec le plus de points efface 3 traits, le deuxième 2, le troisième 1 et le joueur avec le moins de points n'efface rien. En cas d'égalité entre deux ou trois joueurs, si l'un d'eux a gagné la dernière levée, il est considéré comme ayant pris plus de points que les autres (comme si la dernière levée valait 0,5 points dans ce cas). S'il y a une égalité entre des joueurs dont aucun n'a pris la dernière levée, ils effacent tous le plus petit nombre de traits. Ainsi, les traits effacés seront de 2-2-1-0 en cas d'égalité pour la première place, ou 3-1-1-0 en cas d'égalité pour la deuxième place, ou 3-2-0-0 en cas d'égalité pour la troisième. Si un joueur prend le plus de points et la dernière levée alors que les trois autres sont à égalité, les traits effacés sont de 3-0-0-0.
 
-The **three-player game** is similar. The players with most, second most and fewest points erase 2, 1 and 0 strokes respectively. In the event of a tie with neither tied player having won the last trick, the strokes erased are 2-0-0 or 1-1-0.
+Le **jeu à trois joueurs** est similaire. Les joueurs avec le plus, le deuxième plus et le moins de points effacent respectivement 2, 1 et 0 traits. En cas d'égalité où aucun des joueurs à égalité n'a gagné la dernière levée, les traits effacés sont de 2-0-0 ou 1-1-0.
 
-In the **two-player game** the dealer deals a batch of three cards to each player, then one card face up to the table to indicate the trump suit, then another batch of three cards each, and stacks the remaining 11 cards face down on top of and at right angles to the trump indicator so that its rank and suit can be seen. These 12 cards from the talon from which cards are drawn after each trick. Since the winner of each trick draws first, the trump indicator is drawn as the last card of the talon by the loser of the 6th trick.
+Dans le **jeu à deux joueurs**, le donneur distribue un paquet de trois cartes à chaque joueur, puis une carte face visible sur la table pour indiquer la couleur d'atout, puis un autre paquet de trois cartes chacun, et empile les 11 cartes restantes face cachée sur et perpendiculairement à la carte indicatrice d'atout pour que sa valeur et sa couleur soient visibles. Ces 12 cartes forment le talon d'où les cartes sont piochées après chaque levée. Puisque le gagnant de chaque levée pioche en premier, la carte indicatrice d'atout est piochée comme dernière carte du talon par le perdant de la 6e levée.
 
-In the two-player game, the player who is dealt or draws the Nine of trumps is allowed to exchange it for the trump indicator card after winning a trick and before leading to the next trick, before or after drawing a card from the talon. The player takes the trump indicator from under the talon, adds it to their hand, and places the Nine of trumps face up under the talon in its place, where it will be drawn by the loser of the sixth trick. The following particular cases should be noted.
+Dans le jeu à deux joueurs, le joueur qui reçoit ou pioche le 9 d'atout est autorisé à l'échanger contre la carte indicatrice d'atout après avoir gagné une levée et avant de mener la levée suivante, avant ou après avoir pioché une carte du talon. Le joueur prend la carte indicatrice d'atout de sous le talon, l'ajoute à sa main, et place le 9 d'atout face visible sous le talon à sa place, où il sera pioché par le perdant de la sixième levée. Les cas particuliers suivants doivent être notés.
 
-- The non-dealer cannot exchange the Nine of trumps before leading to the first trick, because they have not yet won a trick.
+- Le non-donneur ne peut pas échanger le 9 d'atout avant de mener la première levée, car il n'a pas encore gagné de levée.
 
-- When the loser of a trick draws the Nine of trumps from the face-down talon, they cannot exchange it immediately. They must first win (another) trick, as it can only be exchanged after winning a trick and before leading to the next. 
+- Lorsque le perdant d'une levée pioche le 9 d'atout du talon face cachée, il ne peut pas l'échanger immédiatement. Il doit d'abord gagner une (autre) levée, car il ne peut être échangé qu'après avoir gagné une levée et avant de mener la suivante.
 
-- The winner of the sixth trick can exchange the Nine of trumps for the trump indicator before drawing the second to last card from the talon. This is the last moment at which the Nine of trumps can be exchanged. 
+- Le gagnant de la sixième levée peut échanger le 9 d'atout contre la carte indicatrice avant de piocher l'avant-dernière carte du talon. C'est le dernier moment où le 9 d'atout peut être échangé.
 
-- If the Nine of trumps happens to be the second to last card of the talon, drawn by the winner of the sixth trick, it cannot be exchanged for the trump indicator, which is taken by the loser of the trick.
+- Si le 9 d'atout se trouve être l'avant-dernière carte du talon, piochée par le gagnant de la sixième levée, il ne peut pas être échangé contre la carte indicatrice d'atout, qui est prise par le perdant de la levée.
 
-Note that in the four-player and three-player games the Nine of trumps cannot be exchanged for the trump indicator, which belongs to the dealer and cannot be stolen.
+Notez que dans les jeux à quatre et trois joueurs, le 9 d'atout ne peut pas être échangé contre la carte indicatrice d'atout, qui appartient au donneur et ne peut pas être volée.
 
-In the two-player game a player can close the talon having just won a trick (holding five cards) or when about to lead to a trick (holding six cards) provided that at least four cards remain in the talon. This is done by taking the trump indicator card from under the talon and placing it face down on top of the talon.
+Dans le jeu à deux joueurs, un joueur peut fermer le talon juste après avoir gagné une levée (avec cinq cartes) ou au moment de mener une levée (avec six cartes), à condition qu'il reste au moins quatre cartes dans le talon. Cela se fait en prenant la carte indicatrice d'atout de sous le talon et en la posant face cachée sur le talon.
 
-### Phase 2: Rot-Assen (Ace of Hearts)
+### Phase 2 : Rot-Assen (As de cœur)
 
-The general principle is that the holder of the Ace of hearts chooses the trump suit and plays alone against the other players as a team, the aim being to take 66 or more card points.
+Le principe général est que le détenteur de l'As de cœur choisit la couleur d'atout et joue seul contre les autres joueurs en équipe, le but étant de prendre 66 points de carte ou plus.
 
-In the **four-player and three-player games**, the player who is dealt the Ace of hearts declares it and chooses the trump suit for the deal. After trumps are announced, forehand leads to the first trick irrespective of which player holds the Ace of hearts. Players must follow suit, trump when void, and overtake the highest card in the trick when possible, even when this entails trumping or overtaking their partner's winning card.
+Dans les **jeux à quatre et trois joueurs**, le joueur qui reçoit l'As de cœur le déclare et choisit la couleur d'atout pour la donne. Après l'annonce de l'atout, le premier en main mène la première levée indépendamment du joueur qui tient l'As de cœur. Les joueurs doivent suivre la couleur, atouter s'ils n'ont pas de la couleur, et surmonter la plus haute carte de la levée si possible, même si cela implique d'atouter ou de surmonter la carte gagnante de leur partenaire.
 
-As usual, a player whose side has just won a trick or declared a 20 or 40 can go out if they believe that their side has achieved the required 66 or more points. The play ends and the card points are counted. If player who went out was right, each member of their team erases 1, 2 or 3 strokes (see scoring). If they were wrong each member of the opposing team erases (at least) 2 strokes.
+Comme d'habitude, un joueur dont le côté vient de gagner une levée ou a déclaré un 20 ou un 40 peut sortir s'il pense que son côté a atteint les 66 points ou plus requis. Le jeu s'arrête et les points de carte sont comptés. Si le joueur qui est sorti avait raison, chaque membre de son équipe efface 1, 2 ou 3 traits (voir décompte). S'il s'est trompé, chaque membre de l'équipe adverse efface (au moins) 2 traits.
 
-It may happen that the holder of the Ace of hearts has extremely poor cards, sees little or no chance of taking as many as 33 card points and is in some danger of taking no tricks before the opponents reach 66. In this case the player may surrender instead of announcing a trump suit to avoid the risk of *schwarz*. If the holder of the Ace of hearts surrenders there is no play. Each of the other players erases two strokes, the cards are thrown in and the next player deals.
+Il peut arriver que le détenteur de l'As de cœur ait des cartes extrêmement mauvaises, voit peu ou pas de chance de prendre 33 points de carte et risque de ne gagner aucune levée avant que les adversaires n'atteignent 66. Dans ce cas, le joueur peut se rendre au lieu d'annoncer une couleur d'atout pour éviter le risque de *schwarz*. Si le détenteur de l'As de cœur se rend, il n'y a pas de jeu. Chacun des autres joueurs efface deux traits, les cartes sont jetées et le joueur suivant distribue.
 
-In the **two-player game**, each player is dealt six cards and there is a face-down talon of 12 cards. There is no trump indicator card because the trump suit will be chosen by the player who has or who later draws the Ace of hearts. The holder of the Ace of hearts should declare it and set the trump suit as soon as they obtain it. If the Ace of hearts has been dealt to either player, this should happen before the first lead. If the Ace of hearts is in the talon the game is played without trumps until it is drawn and declared. While there are no trumps the led card can only be beaten by a higher card of the same suit. As usual there is no requirement to follow suit until the talon is exhausted or closed.
+Dans le **jeu à deux joueurs**, chaque joueur reçoit six cartes et il y a un talon face cachée de 12 cartes. Il n'y a pas de carte indicatrice d'atout car la couleur d'atout sera choisie par le joueur qui a ou qui piochera plus tard l'As de cœur. Le détenteur de l'As de cœur doit le déclarer et fixer la couleur d'atout dès qu'il l'obtient. Si l'As de cœur a été distribué à l'un ou l'autre joueur, cela doit se produire avant la première carte menée. Si l'As de cœur est dans le talon, le jeu se joue sans atout jusqu'à ce qu'il soit pioché et déclaré. Sans atout, la carte menée ne peut être battue que par une carte supérieure de la même couleur. Comme d'habitude, il n'y a pas d'obligation de suivre la couleur jusqu'à ce que le talon soit épuisé ou fermé.
 
-If there are no trumps yet, then before playing a card the player due to lead to a trick should ask "*Hast' das'?*" (Have you got it?) to give the opponent an opportunity to declare the Ace of hearts if held. If the opponent replies "*Nein*" (No) the trick is played without trumps.
+S'il n'y a pas encore d'atout, alors avant de jouer une carte, le joueur devant mener une levée devrait demander « *Hast' das ?* » (Tu l'as ?) pour donner à l'adversaire l'opportunité de déclarer l'As de cœur s'il le tient. Si l'adversaire répond « *Nein* » (Non), la levée est jouée sans atout.
 
-While there are no trumps, declaring any King-Over pair is of course worth only 20 points. The value of a previously declared King-Over does not change if its suit is later made trumps. A King-Over declaration is only worth 40 points if the suit is made trumps **before** the King-Over is declared.
+Sans atout, déclarer une paire Roi-Ober ne vaut bien sûr que 20 points. La valeur d'une paire Roi-Ober préalablement déclarée ne change pas si sa couleur devient ensuite l'atout. Une déclaration Roi-Ober ne vaut 40 points que si la couleur est devenue atout **avant** que la paire Roi-Ober soit déclarée.
 
-At the end of the third trick, after both players have drawn from the talon, if the talon has not been closed and no one has yet declared the Ace of hearts, then the remaining 6 cards of the talon are turned over as a block and stacked face up with just the top card (which was originally the bottom card of the deck) showing. Play continues and the winner of each trick draws the top card from this face-up talon and the loser draws the next card. Both players see each card before it is drawn. As soon as the Ace of hearts has been drawn and both players have six cards in their hand again, the talon is once more turned face down. The player who drew the face up Ace of hearts must now choose and announce the trump suit. Play then continues with players drawing from the face-down talon after each trick until it is exhausted. In this case both players will know the bottom card of the talon, which will be taken by the loser of the sixth trick, because they will have seen it just before the talon was turned face down.
+À la fin de la troisième levée, après que les deux joueurs ont pioché dans le talon, si le talon n'a pas été fermé et que personne n'a encore déclaré l'As de cœur, les 6 cartes restantes du talon sont retournées en bloc et empilées face visible avec seulement la carte supérieure (qui était à l'origine la carte du bas du jeu) visible. Le jeu continue et le gagnant de chaque levée pioche la carte supérieure de ce talon face visible et le perdant pioche la carte suivante. Les deux joueurs voient chaque carte avant qu'elle soit piochée. Dès que l'As de cœur a été pioché et que les deux joueurs ont à nouveau six cartes en main, le talon est de nouveau retourné face cachée. Le joueur qui a pioché l'As de cœur face visible doit maintenant choisir et annoncer la couleur d'atout. Le jeu continue ensuite avec les joueurs piochant dans le talon face cachée après chaque levée jusqu'à son épuisement. Dans ce cas, les deux joueurs connaîtront la carte du bas du talon, qui sera prise par le perdant de la sixième levée, car ils l'auront vue juste avant que le talon ne soit retourné face cachée.
 
-As usual in the two-player game, a player can close the talon when they are due to lead to the next trick provided that it contains at least four cards. This can be done either immediately after winning a trick (holding five cards) or immediately before leading to a trick (holding six cards). A player closes by briefly placing their hand palm down on top of the talon and saying "*deckt is*" (it's closed). If the talon is closed before trumps have been set then the remainder of the hand is played without trumps, but with the usual requirement to follow suit and beat the led card if possible. If the talon is closed while the talon is face up (because the Ace of hearts had not yet been declared), then it is turned face down when it is closed. 
+Comme d'habitude dans le jeu à deux joueurs, un joueur peut fermer le talon lorsqu'il doit mener la levée suivante, à condition qu'il contienne au moins quatre cartes. Cela peut être fait soit immédiatement après avoir gagné une levée (avec cinq cartes), soit juste avant de mener une levée (avec six cartes). Un joueur ferme en posant brièvement sa main paume vers le bas sur le talon et en disant « *deckt is* » (c'est fermé). Si le talon est fermé avant que les atouts ne soient fixés, le reste de la main se joue sans atout, mais avec l'obligation habituelle de suivre la couleur et de battre la carte menée si possible. Si le talon est fermé alors qu'il est face visible (parce que l'As de cœur n'a pas encore été déclaré), il est retourné face cachée lors de la fermeture.
 
-It is possible, but slightly risky, for a player who is dealt the Ace of hearts or draws it after one of the first two tricks to delay declaring it and making trumps. In any case the Ace of hearts can only be declared before the first lead or after drawing from the talon and before the lead to the next trick. When the Ace of hearts is declared after drawing a card, there is no way for the opponent to know whether it has just been drawn or was already in the player's hand. But if it is discovered that a player has been holding an undeclared Ace of hearts, then the play ends immediately and the other player erases 3 strokes. One way that a concealed Ace of hearts could be discovered is if the talon is turned face up but the Ace of hearts never appears in it. Therefore the holder of the Ace of hearts must definitely declare it at the latest at the end of the third trick before the talon is turned face up. Another way that a concealed Ace of hearts might be discovered is if the opponent of the holder closes the talon early in the play, denying the holder the opportunity to hide the offence by drawing further cards from the talon.
+Il est possible, mais légèrement risqué, pour un joueur qui reçoit l'As de cœur ou le pioche après l'une des deux premières levées de retarder sa déclaration et la fixation de l'atout. Quoi qu'il en soit, l'As de cœur ne peut être déclaré que avant la première carte menée ou après avoir pioché dans le talon et avant la première carte de la levée suivante. Lorsque l'As de cœur est déclaré après avoir pioché une carte, il n'y a aucun moyen pour l'adversaire de savoir s'il vient d'être pioché ou s'il était déjà dans la main du joueur. Mais s'il est découvert qu'un joueur tenait un As de cœur non déclaré, le jeu s'arrête immédiatement et l'autre joueur efface 3 traits. Une façon dont un As de cœur dissimulé pourrait être découvert est si le talon est retourné face visible mais que l'As de cœur n'y apparaît jamais. Par conséquent, le détenteur de l'As de cœur doit impérativement le déclarer au plus tard à la fin de la troisième levée avant que le talon ne soit retourné face visible. Une autre façon dont un As de cœur dissimulé pourrait être découvert est si l'adversaire du détenteur ferme le talon tôt dans le jeu, privant le détenteur de l'opportunité de dissimuler l'infraction en piochant d'autres cartes.
 
-### Phase 3: Rufen (Calling)
+### Phase 3 : Rufen (Appel)
 
-When there are **four or three players**, forehand must choose trumps and select a partner by calling a card, naming its rank and suit. This creates two teams and the aim is to be the first team to take 66 card points. 
+Quand il y a **quatre ou trois joueurs**, le premier en main doit choisir l'atout et sélectionner un partenaire en appelant une carte, en nommant son rang et sa couleur. Cela crée deux équipes et le but est d'être la première équipe à prendre 66 points de carte.
 
-Forehand picks up the first batch of three cards that are dealt and must not look at any more cards before calling a card. It is good practice for all other players to leave their cards face down on the table until forehand has called. Forehand must hold at least one card in the suit of the called card. The holder of the card is forehand's partner for the deal and the suit of the called card becomes trumps. For example if forehand says "Ace of bells", then bells are trumps and whoever holds the Ace of bells is forehand's partner. To make this announcement, forehand's first three cards must include at least one bell. After forehand has called a card all players may pick up their cards and look at them. 
+Le premier en main ramasse le premier paquet de trois cartes distribuées et ne doit regarder aucune autre carte avant d'appeler. Il est de bonne pratique que tous les autres joueurs laissent leurs cartes face cachée sur la table jusqu'à ce que le premier en main ait appelé. Le premier en main doit tenir au moins une carte de la couleur de la carte appelée. Le détenteur de la carte est le partenaire du premier en main pour la donne et la couleur de la carte appelée devient l'atout. Par exemple, si le premier en main dit « As de cloches », les cloches sont l'atout et quiconque tient l'As de cloches est le partenaire du premier en main. Pour faire cette annonce, les trois premières cartes du premier en main doivent inclure au moins une cloche. Après que le premier en main a appelé une carte, tous les joueurs peuvent ramasser leurs cartes et les regarder.
 
-Forehand must lead a trump to the first trick and the called card must be played to that trick. The usual rules of play apply - players must follow suit, trump if void and overtake when possible - with one exception. It makes sense to call the highest outstanding card of the trump suit (for example with A-9 of a suit you should call the 10, with K-O you should call the Ace, turning your 20 into a 40, and with A-10-O you should call the King), but if forehand perversely chooses to call a lower trump, then the holder of the called trump is still obliged to play it to the first trick even if this contravenes the usual overtaking rule.
+Le premier en main doit mener un atout à la première levée et la carte appelée doit être jouée à cette levée. Les règles habituelles de jeu s'appliquent — les joueurs doivent suivre la couleur, atouter s'ils n'ont pas de la couleur et surmonter si possible — avec une exception. Il est logique d'appeler la plus haute carte disponible de la couleur d'atout (par exemple avec A-9 d'une couleur on devrait appeler le 10, avec R-O on devrait appeler l'As, transformant son 20 en 40, et avec A-10-O on devrait appeler le Roi), mais si le premier en main choisit perversement d'appeler un atout inférieur, le détenteur de l'atout appelé est quand même obligé de le jouer à la première levée même si cela contrevient à la règle habituelle de surmonter.
 
-It is possible that forehand holds the called card, in which case forehand must lead the called card to the first trick and play alone against the other players as a team. This happens if forehand deliberately called one of the first three cards dealt in order to play alone, and more often when the called card turns out to be one of the remaining cards of forehand's hand.
+Il est possible que le premier en main tienne la carte appelée, auquel cas il doit mener la carte appelée à la première levée et jouer seul contre les autres joueurs en équipe. Cela se produit si le premier en main a délibérément appelé l'une des trois premières cartes distribuées pour jouer seul, et plus souvent lorsque la carte appelée s'avère être l'une des cartes restantes de la main du premier en main.
 
-In the four-player game the teams are two players against two if the called card is held by a player other than forehand, or one against three if forehand has the called card. In the three-player game the teams are always one against two, forehand either playing alone or with a partner against the third player. In Rufen, unlike Rot-Assen, there is no opportunity to surrender if playing alone, even in the three-player game when forehand calls a partner and the unlucky third player has neither a partner nor the choice of trump suit.
+Dans le jeu à quatre joueurs, les équipes sont de deux contre deux si la carte appelée est tenue par un joueur autre que le premier en main, ou de un contre trois si le premier en main a la carte appelée. Dans le jeu à trois joueurs, les équipes sont toujours de un contre deux, le premier en main jouant seul ou avec un partenaire contre le troisième joueur. Au Rufen, contrairement au Rot-Assen, il n'y a pas d'opportunité de se rendre si on joue seul, même dans le jeu à trois joueurs lorsque le premier en main appelle un partenaire et que le malheureux troisième joueur n'a ni partenaire ni le choix de la couleur d'atout.
 
-As usual a player whose team has reached 66 points can go out, and all members of the winning team erase 1, 2 or 3 strokes as described under scoring.
+Comme d'habitude, un joueur dont l'équipe a atteint 66 points peut sortir, et tous les membres de l'équipe gagnante effacent 1, 2 ou 3 traits comme décrit au décompte.
 
-When only **two players** remain, they are dealt six cards each in batches of three and there is a 12-card face-down talon. There is of course no calling of a partner. Forehand simply picks up the first batch of three cards and names the trump suit. The remainder of the dealt cards are then picked up and play proceeds as usual, with no requirement to follow suit or trump until the talon is exhausted or closed. A player who reaches 66 or more card points can go out as usual and erase 1, 2 or 3 strokes depending on the opponent's tricks and points.
+Lorsqu'il ne reste que **deux joueurs**, ils reçoivent six cartes chacun par paquets de trois et il y a un talon face cachée de 12 cartes. Il n'y a bien sûr pas d'appel de partenaire. Le premier en main ramasse simplement le premier paquet de trois cartes et nomme la couleur d'atout. Le reste des cartes distribuées est alors ramassé et le jeu se déroule comme d'habitude, sans obligation de suivre la couleur ou d'atouter jusqu'à ce que le talon soit épuisé ou fermé. Un joueur qui atteint 66 points de carte ou plus peut sortir comme d'habitude et effacer 1, 2 ou 3 traits selon les levées et points de l'adversaire.
 
-Since forehand has chosen trumps there is no face up trump indicator and no exchange of the trump Nine. As usual either player may close the talon by briefly placing their hand palm down on top of it and saying "*deckt is*" (it's closed). No further cards can be drawn and players must follow suit, trump and overtake when possible. 
+Puisque le premier en main a choisi l'atout, il n'y a pas d'indicateur d'atout face visible ni d'échange du 9 d'atout. Comme d'habitude, chaque joueur peut fermer le talon en posant brièvement sa main paume vers le bas sur le talon et en disant « *deckt is* » (c'est fermé). Aucune carte ne peut être piochée et les joueurs doivent suivre la couleur, atouter et surmonter si possible.
 
-### Phase 4: Kamerun
+### Phase 4 : Kamerun
 
-In this game there are no trumps and the objective is to avoid taking card points, and thereby avoid erasing strokes, since in this phase, in contrast to the others, it is the **first** player to erase all their strokes who loses. Jens Meder cites the expression "*In Kamerum(n) geht anders rum*" (in Cameroon it's the other way round). 
+Dans ce jeu il n'y a pas d'atout et l'objectif est d'éviter de prendre des points de carte, et donc d'éviter d'effacer des traits, car dans cette phase, contrairement aux autres, c'est le **premier** joueur à effacer tous ses traits qui perd. Jens Meder cite l'expression « *In Kamerum(n) geht anders rum* » (au Cameroun, c'est dans l'autre sens).
 
-Forehand leads to the first trick and as usual players must follow suit and beat the highest card in the trick if possible (even though beating the highest card is often to the player's disadvantage). 
+Le premier en main mène la première levée et comme d'habitude les joueurs doivent suivre la couleur et battre la plus haute carte de la levée si possible (même si battre la plus haute carte est souvent au désavantage du joueur).
 
-There is one alternative for a player whose cards are very strong - to announce a **Durchmarsch**, which is an undertaking to win all the tricks. Durchmarsch can only be announced before a card is led to the second trick. Normally a player would wait until they had won the first trick to make this announcement. It is legal to announce it earlier though there seems te no advantage in doing so.
+Il y a une alternative pour un joueur dont les cartes sont très fortes — annoncer un **Durchmarsch**, qui est l'engagement de gagner toutes les levées. Le Durchmarsch ne peut être annoncé que avant la première carte de la deuxième levée. Normalement, un joueur attendrait d'avoir gagné la première levée pour faire cette annonce. Il est légal de l'annoncer plus tôt bien qu'il ne semble y avoir aucun avantage à le faire.
 
-If no Durchmarsch is announced everyone plays for themselves and there is an additional restriction in the play. The winner of a trick is **not allowed to lead the same suit** that was led to the previous trick, unless the player has no cards of any other suit, in which case it is conventional to say ' have to', meaning that they have no other suit.. There is no going out: all the tricks must be played. There are no declarations of 20 or 40: there would be no point in such declarations since the players do not want card points.
+Si aucun Durchmarsch n'est annoncé, chacun joue pour soi et il y a une restriction supplémentaire au jeu. Le gagnant d'une levée **n'a pas le droit de mener la même couleur** que celle qui a été menée à la levée précédente, sauf si le joueur n'a pas de carte d'une autre couleur, auquel cas il est de coutume de dire « je suis obligé », signifiant qu'il n'a pas d'autre couleur. Il n'y a pas de sortie : toutes les levées doivent être jouées. Il n'y a pas de déclaration de 20 ou 40 : cela n'aurait aucun intérêt puisque les joueurs ne veulent pas de points de carte.
 
-In the **four-player game** if no Durchmarsch is announced the player who takes most card points erases 3 strokes, the player who takes second most erases 2 strokes, the player who takes third most erases 1 stroke and the player who takes fewest erases nothing. There are a few special cases and exceptions.
+Dans le **jeu à quatre joueurs**, si aucun Durchmarsch n'est annoncé, le joueur qui prend le plus de points de carte efface 3 traits, le deuxième plus en efface 2, le troisième en efface 1 et le joueur qui en prend le moins n'en efface pas. Il y a quelques cas particuliers et exceptions.
 
-- If there is a tie and one of the player in the tie took the last trick, that player is considered to have more card points than the others - it is as though the last trick were worth 0.5 points in this case. 
+- S'il y a une égalité et que l'un des joueurs à égalité a pris la dernière levée, ce joueur est considéré comme ayant plus de points de carte que les autres — comme si la dernière levée valait 0,5 points dans ce cas.
 
-- If there is a tie between players neither (none) of whom took the last trick but both (all) of whom took at least one trick they both (all) erase the larger (largest) number of strokes. For example if player A takes most points and the last trick while B and C tie for second most points and D has fewest then the strokes erased are A:3-B:2-C:2-D:0.
+- S'il y a une égalité entre des joueurs dont aucun n'a pris la dernière levée mais qui ont tous pris au moins une levée, ils effacent tous le nombre de traits le plus élevé. Par exemple, si le joueur A prend le plus de points et la dernière levée tandis que B et C sont à égalité pour le deuxième plus de points et D en a le moins, les traits effacés sont A:3-B:2-C:2-D:0.
 
-- Any player who takes no tricks at all erases no strokes. So for example if A takes most points, B second most and C and D take none, the strokes erased are A:3-B:2-C:0-D:0.
+- Tout joueur qui ne prend aucune levée n'efface aucun trait. Par exemple, si A prend le plus de points, B le deuxième plus et C et D aucun, les traits effacés sont A:3-B:2-C:0-D:0.
 
-If a player announces Durchmarsch and succeeds in winning all the tricks, each of the other players must erase 3 strokes. If the player who announced Durchmarsch loses a trick the play ends and the Durchmarsch player erases 3 strokes. A player who wins all the tricks **without** having announced Durchmarsch gets no benefit - they would have to erase 3 strokes while the other players erase nothing.
+Si un joueur annonce un Durchmarsch et réussit à gagner toutes les levées, chacun des autres joueurs doit effacer 3 traits. Si le joueur qui a annoncé le Durchmarsch perd une levée, le jeu s'arrête et le joueur du Durchmarsch efface 3 traits. Un joueur qui gagne toutes les levées **sans** avoir annoncé de Durchmarsch n'en tire aucun bénéfice — il devrait effacer 3 traits tandis que les autres joueurs n'en effacent pas.
 
-When erasing strokes the rule **3 before 2 before 1** applies. That is, the player(s) who have to erase 3 strokes do this first, and if any of them thereby erase their last stroke they have lost and the phase has ended. If erasing 3 strokes does not eliminate anyone then those who have 2 strokes erase strokes next, and if that does not produce a loser then those with just 1 stroke to erase must do so.
+Lors de l'effacement des traits, la règle **3 avant 2 avant 1** s'applique. C'est-à-dire, le(s) joueur(s) qui doivent effacer 3 traits le font en premier, et si l'un d'eux efface ainsi son dernier trait, il a perdu et la phase est terminée. Si l'effacement de 3 traits n'élimine personne, ceux qui ont 2 traits effacent ensuite, et si cela ne produit pas de perdant, ceux qui n'ont qu'un trait à effacer doivent le faire.
 
-In the event of a tie or a successful Durchmarsch it can happen that more than one player has the same number of strokes to erase, and in that case more than one player may erase their last stroke at the same time. In this case there can be more than one loser of this phase and each of the losers will mark a *Bollern* on their slate.
+En cas d'égalité ou d'un Durchmarsch réussi, il peut arriver que plusieurs joueurs aient le même nombre de traits à effacer, et dans ce cas, plusieurs joueurs peuvent effacer leur dernier trait en même temps. Dans ce cas, il peut y avoir plus d'un perdant de cette phase et chacun des perdants marquera un *Bollern* sur son ardoise.
 
-**Example.** Suppose that player A has 1 stroke, player B 2 strokes, player C 3 strokes, player D 4 strokes, Here are some possible results:
+**Exemple.** Supposons que le joueur A a 1 trait, le joueur B 2 traits, le joueur C 3 traits, le joueur D 4 traits. Voici quelques résultats possibles :
 
-- Player A erases 2, player B 0, player C 3, player D 1. Result: player C erases first and is the loser.
+- Le joueur A efface 2, le joueur B 0, le joueur C 3, le joueur D 1. Résultat : le joueur C efface en premier et est le perdant.
 
-- Player D erases 3 strokes, players A and B 2 strokes each, player C 0. Result: there are two losers A and B. Player D has 1 stroke left after erasing 3, so player A and B erase next and are both out.
+- Le joueur D efface 3 traits, les joueurs A et B 2 traits chacun, le joueur C 0. Résultat : il y a deux perdants A et B. Le joueur D a 1 trait restant après avoir effacé 3, donc A et B effacent ensuite et sont tous les deux éliminés.
 
-- Player D plays a successful Durchmarsch. Result: A, B and C erase 3 strokes each and all three of them lose.
+- Le joueur D réussit un Durchmarsch. Résultat : A, B et C effacent 3 traits chacun et les trois perdent.
 
-Because the Kamerun phase ends as soon as any player is eliminated, there is no three-player or two-player Kamerun game in four-player Dreeg. However in a **three-player game** of Dreeg, the Kamerun phase is also played with three players. The game is the same with four players except that eight cards are dealt to each player (3+2+3) and the number of strokes erased by the players with most, second most and fewest points are 2, 1 and 0. The rules on ties are the same as with four players. If an announced Durchmarsch succeeds each opponent of the Durchmarsch player erases 3 strokes: if it fails the Durchmarsch player alone erases 3 strokes.
+Parce que la phase Kamerun se termine dès qu'un joueur est éliminé, il n'y a pas de jeu Kamerun à trois ou deux joueurs dans le Dreeg à quatre joueurs. Cependant, dans un **jeu à trois joueurs** de Dreeg, la phase Kamerun est aussi jouée à trois joueurs. Le jeu est le même qu'à quatre joueurs, sauf que huit cartes sont distribuées à chaque joueur (3+2+3) et le nombre de traits effacés par les joueurs avec le plus, le deuxième plus et le moins de points sont de 2, 1 et 0. Les règles sur les égalités sont les mêmes qu'à quatre joueurs. Si un Durchmarsch annoncé réussit, chaque adversaire du joueur du Durchmarsch efface 3 traits ; s'il échoue, le joueur du Durchmarsch seul efface 3 traits.
 
-### Phases 5 to 8
+### Phases 5 à 8
 
-The remaining phases are the same as the first four phases but played in reverse order. Phase 5 is Kamerun again, Phase 6 Rufen (Calling), Phase 7 Rot-Assen (Ace of hearts) and the final phase 8 is Sechsundsechzig (66). When phase 8 ends players count their *Bollern* and buy that many litres of beer.
+Les phases restantes sont les mêmes que les quatre premières phases mais jouées dans l'ordre inverse. La phase 5 est Kamerun à nouveau, la phase 6 Rufen (Appel), la phase 7 Rot-Assen (As de cœur) et la phase finale 8 est Sechsundsechzig (66). Quand la phase 8 se termine, les joueurs comptent leurs *Bollern* et paient ce nombre de litres de bière.
 
-As usual the loser of each phase chooses the first dealer for the next phase. In phases 4 and 5 there may occasionally be more than one loser, and in this case so far as we know there is no established rule for choosing the first dealer in the phase that follows. Jens Meder suggests that in this case the losers should agree between themselves who should deal next, and that if they are unable to reach an agreement they should abandon the whole game and look for more reasonable opponents to play with in future! I would suggest a less radical solution: that the losers of the phase should draw cards from the shuffled pack and whoever draws the higher card should choose the next dealer.
+Comme d'habitude, le perdant de chaque phase choisit le premier donneur de la phase suivante. Dans les phases 4 et 5, il peut y avoir exceptionnellement plus d'un perdant, et dans ce cas, autant que nous sachions, il n'y a pas de règle établie pour choisir le premier donneur de la phase suivante. Jens Meder suggère que dans ce cas, les perdants devraient se mettre d'accord entre eux sur qui distribuera ensuite, et que s'ils ne parviennent pas à un accord, ils devraient abandonner la partie et chercher des adversaires plus raisonnables ! Je suggérerais une solution moins radicale : que les perdants de la phase tirent des cartes du jeu mélangé et que celui qui tire la plus haute carte choisisse le prochain donneur.
 
-## Penalties
+## Pénalités
 
-The standard penalty of any breach of the rules, such as failing to follow suit or failing to beat the highest card in the trick when required to, is that the play of that deal ends immediately and the offender is penalised 3 strokes. In phase 4 or 5 the offender must erase three strokes. In the other phases 1-3 and 6-8, all players other than the offender erase 3 strokes.
+La pénalité standard pour toute infraction aux règles, comme le fait de ne pas suivre la couleur ou de ne pas battre la plus haute carte de la levée quand c'est requis, est que le jeu de la donne s'arrête immédiatement et le contrevenant est pénalisé de 3 traits. Dans les phases 4 ou 5, le contrevenant doit effacer trois traits. Dans les autres phases 1-3 et 6-8, tous les joueurs autres que le contrevenant effacent 3 traits.
 
-## Variations
+## Variantes
 
-As in most traditional card games, the rules of Dreeg vary slightly from place to place. Many of the variations below are known to us only from the limited literature about the game, and it is possible that some of them are idiosyncracies of one particular group, or maybe just misunderstandings by some writers.
+Comme dans la plupart des jeux de cartes traditionnels, les règles du Dreeg varient légèrement d'un endroit à l'autre. Beaucoup des variantes ci-dessous ne nous sont connues que par la littérature limitée sur le jeu, et il est possible que certaines soient des particularités d'un groupe spécifique, ou peut-être simplement des malentendus de certains auteurs.
 
-Scoring
-Some players use a Roman III instead of XII to represent the seven strokes at the start of a phase. In this case the first stroke is scored by erasing across the middle to leave six separate stokes. With this method seven strokes and six strokes look like this:
-![seven strokes](../images/marriage/III.jpg) ![six strokes](../images/marriage/III_6.jpg)
+#### Décompte
+Certains joueurs utilisent un chiffre romain III au lieu de XII pour représenter les sept traits au début d'une phase. Dans ce cas, le premier trait est marqué en effaçant le milieu pour laisser six traits séparés. Avec cette méthode, sept traits et six traits ressemblent à ceci :
+![sept traits](../images/marriage/III.jpg) ![six traits](../images/marriage/III_6.jpg)
 
-Yes another method is to begin with a continental-style crossed seven. Erase first the top right corner and then the crossing to leave five separate strokes. Seven, six and five look like this:
+Une autre méthode est de commencer avec un sept barré continental. On efface d'abord le coin supérieur droit puis la barre pour laisser cinq traits séparés. Sept, six et cinq ressemblent à ceci :
 
-![seven strokes](../images/marriage/7.jpg) ![six strokes](../images/marriage/7_6.jpg) ![five strokes](../images/marriage/7_5.jpg)
+![sept traits](../images/marriage/7.jpg) ![six traits](../images/marriage/7_6.jpg) ![cinq traits](../images/marriage/7_5.jpg)
 
-In the version described in the *Kartl-Akademie Weinzierlein* each player begins each phase with 10 strokes rather than 7, drawn on the slate as XX instead of XII. The centres of the two X's are erased first leaving 8 strokes to be erased separately. 
-Two-player 66 / Deutsch
-In two-player 66 / Deutsch there are some different ideas about which card to use as the trump indicator. Some deal six cards each (3+3), turn up the next (13th) card as the trump indicator, and place the remainder of the talon on top of it. Some use the bottom card of the pack as the trump indicator, turning it face up and sliding it under the remainder of the talon.
+Dans la version décrite dans la *Kartl-Akademie Weinzierlein*, chaque joueur commence chaque phase avec 10 traits au lieu de 7, dessinés sur l'ardoise comme XX au lieu de XII. Les centres des deux X sont d'abord effacés, laissant 8 traits à effacer séparément.
 
-Some play that in two-player 66 / Deutsch the second player to a trick can exchange the trump Nine for the trump indicator even if the player has not yet won a trick, provided that the trump indicator card is played immediately to win the current trick. If the trump King or Over is obtained in this way it cannot be used to declare and score a 40 because it is no longer in the player's hand when they lead to the next trick.
+#### 66 à deux / Deutsch
+Dans le 66 à deux / Deutsch, il y a des idées différentes sur la carte à utiliser comme indicatrice d'atout. Certains distribuent six cartes chacun (3+3), retournent la suivante (13e) comme indicatrice d'atout, et posent le reste du talon dessus. Certains utilisent la carte du bas du jeu comme indicatrice d'atout, la retournant face visible et la glissant sous le reste du talon.
 
-Some play that in two-player 66 / Deutsch, the opponent of a player who closes the talon can at that moment exchange the trump Nine for the trump indicator card even if they have not yet won a trick. ??
-Two-player games
-Many play that when a player closes and loses, their opponent always erases at least 2 strokes, never just 1.
+Certains jouent qu'au 66 à deux / Deutsch, le second joueur d'une levée peut échanger le 9 d'atout contre la carte indicatrice même s'il n'a pas encore gagné de levée, à condition que la carte indicatrice d'atout soit jouée immédiatement pour gagner la levée en cours. Si le Roi ou l'Ober d'atout est obtenu de cette façon, il ne peut pas être utilisé pour déclarer et marquer un 40 car il n'est plus dans la main du joueur lorsqu'il mène la levée suivante.
 
-If a player has closed when one or both players had no trick and a player subsequently goes out but has fewer than 66 points, their opponent should erase 3 strokes rather than 2. This is to prevent a player who realises that they will lose from deliberately going out prematurely to deprive their opponent of their third stroke.
+Certains jouent qu'au 66 à deux / Deutsch, l'adversaire d'un joueur qui ferme le talon peut à ce moment échanger le 9 d'atout contre la carte indicatrice même s'il n'a pas encore gagné de levée.
 
-Rot-Assen
-In *Schnapsen - die schönsten Varianten*, J Bamberger gives a different way of scoring Rot-Assen for four or three players in which the lone player always erases 3 strokes if successful, irrespective of the opponents' card points. If the opponents win they erase 1, 2 or 3 strokes as usual. In this Bamberger differs from the *Kartl-Akademie Weinzierlein*, which he cites as a source, and this may be an example of a misunderstanding rather than a widely played variant. Nevertheless it has some merit in that it encourages the lone player to play rather than give up if there is any chance of winning.
-Kamerun
-The appendix to the *Kartl-Akademie Weinzierlein* mentions a variant in which the overtaking rule applies in the first Kamerun phase but not in the second. In phase 5 players only need to follow suit, not to beat the highest card so far played. This information is attributed to Loni Etzelmaier, but we have not found anyone who has played by this rule so it may only have been a speciality of his group.
-Three further variants are mentioned in the *Kartl-Akademie Weinzierlein*. These could be played as additional or alternative phases within a game of Dreeg. The detailed rules of Dreeg, like those of most traditional card games, vary from place to place, and there are no doubt many other games and variants that are sometimes incorporated as sub-games of Dreeg according to the tastes of the players.
+#### Jeux à deux joueurs
+Beaucoup jouent que lorsqu'un joueur ferme et perd, son adversaire efface toujours au moins 2 traits, jamais seulement 1.
 
-Kamerun bei Nacht
-This is Kamerun in which players hold their cards facing away from them, so that each player can see all the cards in their opponents' hands but not their own. As usual the highest card of the suit led wins the trick, but since players do not know what card they are playing until they place it on the table, there is no restriction on what card can be led and no requirement to follow suit. The result is a game of pure luck.
-Schweige-Maß 
-This is a variant of 66 in which the players are not allowed to speak during a hand. From the moment that the cards are cut until the players have erased their strokes all communication is by gesture only. Anyone who speaks immediately loses the sub-game, scores a *Bollern*, and in addition must buy a litre of beer for the table.
-66/Deutsch for 3 or 4 with just two active players
-This is a way for 3 or 4 players to play 66 with just two active players in each deal. It can be played as a game in its own right or used as one of the phases in Dreeg. Each player begins with 7 strokes on their slate. The dealer deals only to the player to their left and the next player after that, 6 cards each, and these two play 66 (Deutsch) according to the normal rules, the player to dealer's left leading to the first trick. After each hand the winner erases 1, 2 or 3 strokes as usual, and those who were not playing erase the same number of strokes as the winner, except that a player cannot erase their last stroke for a hand in which they were not playing. 
+Si un joueur a fermé alors qu'un ou les deux joueurs n'avaient aucune levée et qu'un joueur sort ensuite avec moins de 66 points, son adversaire devrait effacer 3 traits au lieu de 2. Cela empêche un joueur qui se rend compte qu'il va perdre de sortir prématurément pour priver son adversaire de son troisième trait.
 
-**Scoring example.** In a 4-player game it is B's turn to deal and the stroke scores are A:4, B:2, C:3, D:2. C plays against D, C reaches 66 points before D takes a trick so C erases 3 strokes and goes out of the game. A also erases 3 strokes but B's last stroke cannot be erased since B was not an active player, so the new scores are A:1, B:1, C:0, D:2. C will deal next and D will play against A.
-Weglöscher
-This is a variant of 66 for five or more players, also played between two players at a time like the above variant. After each hand the winner erases 1, 2 or 3 strokes as usual, and those who were not playing erase the same number of strokes as the winner. Players who have erased all their strokes drop out and the last remaining player is the loser.
-In this game it is possible for a player to erase their last stroke go out even when they were not an active player. Each player begins the game with 3×(n+1) strokes on their slate, where n is the number of playeers - so 18 strokes each for 5 players, 21 each for six, etc. This ensures that no player can go out of the game during the first n deals, so everyone has been an active player at least twice before the first deal in which it is possible for any player to go out. 
+#### Rot-Assen
+Dans *Schnapsen - die schönsten Varianten*, J. Bamberger donne une façon différente de compter le Rot-Assen pour quatre ou trois joueurs dans laquelle le joueur solitaire efface toujours 3 traits en cas de réussite, indépendamment des points de carte des adversaires. Si les adversaires gagnent, ils effacent 1, 2 ou 3 traits comme d'habitude. Sur ce point, Bamberger diffère de la *Kartl-Akademie Weinzierlein*, qu'il cite comme source, et cela pourrait être un exemple de malentendu plutôt qu'une variante largement jouée. Néanmoins, cela a du mérite en ce qu'il encourage le joueur solitaire à jouer plutôt qu'à abandonner s'il y a une chance de gagner.
 
-## References
+#### Kamerun
+L'annexe de la *Kartl-Akademie Weinzierlein* mentionne une variante dans laquelle la règle de surmonter s'applique dans la première phase Kamerun mais pas dans la seconde. Dans la phase 5, les joueurs n'ont besoin que de suivre la couleur, pas de battre la plus haute carte jouée jusqu'à présent. Cette information est attribuée à Loni Etzelmaier, mais nous n'avons trouvé personne qui ait joué selon cette règle, il se peut donc que ce soit une spécialité de son groupe.
 
-Rudolf J. Weickmann: *[Die Kartl-Akademie Weinzierlein](https://www.amazon.de/dp/3871910635/)* (Verlag Albert Hofmann; Nuremberg; 2nd edition, 1982). This is the most comprehensive published description of the game that we know of.
+Trois variantes supplémentaires sont mentionnées dans la *Kartl-Akademie Weinzierlein*. Elles pourraient être jouées comme phases additionnelles ou alternatives au sein d'une partie de Dreeg. Les règles détaillées du Dreeg, comme celles de la plupart des jeux de cartes traditionnels, varient d'un endroit à l'autre, et il n'y a sans doute de nombreux autres jeux et variantes qui sont parfois incorporés comme sous-jeux du Dreeg selon les goûts des joueurs.
 
-Johannes Bamberger: *Schnapsen - die schönsten Varianten* (Perlen-Reihe Volume 639; 11th edition; Vienna)
+#### Kamerun bei Nacht
+C'est le Kamerun dans lequel les joueurs tiennent leurs cartes face vers l'extérieur, de sorte que chaque joueur peut voir toutes les cartes dans les mains de ses adversaires mais pas les siennes. Comme d'habitude, la plus haute carte de la couleur menée remporte la levée, mais puisque les joueurs ne savent pas quelle carte ils jouent jusqu'à ce qu'ils la posent sur la table, il n'y a pas de restriction sur la carte qui peut être menée et aucune obligation de suivre la couleur. Le résultat est un jeu de pure chance.
 
-At the time of writing (April 2026) the German [Nürnberger Dreck](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Dreck) Wikipedia page gives just a brief overview of the game. 
+#### Schweige-Maß
+C'est une variante du 66 dans laquelle les joueurs ne sont pas autorisés à parler pendant une main. Du moment où les cartes sont coupées jusqu'à ce que les joueurs aient effacé leurs traits, toute communication se fait uniquement par gestes. Quiconque parle perd immédiatement le sous-jeu, marque un *Bollern*, et doit en plus offrir un litre de bière à la table.
 
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Dreeg
+#### 66/Deutsch pour 3 ou 4 avec seulement deux joueurs actifs
+C'est une façon pour 3 ou 4 joueurs de jouer au 66 avec seulement deux joueurs actifs à chaque donne. Cela peut être joué comme un jeu à part entière ou utilisé comme l'une des phases du Dreeg. Chaque joueur commence avec 7 traits sur son ardoise. Le donneur ne distribue qu'au joueur à sa gauche et au suivant, 6 cartes chacun, et ces deux jouent au 66 (Deutsch) selon les règles normales, le joueur à la gauche du donneur menant la première levée. Après chaque main, le gagnant efface 1, 2 ou 3 traits comme d'habitude, et ceux qui ne jouaient pas effacent le même nombre de traits que le gagnant, sauf qu'un joueur ne peut pas effacer son dernier trait pour une main à laquelle il ne jouait pas.
+
+**Exemple de décompte.** Dans un jeu à 4 joueurs, c'est le tour de B de distribuer et les scores de traits sont A:4, B:2, C:3, D:2. C joue contre D, C atteint 66 points avant que D ne prenne une levée donc C efface 3 traits et sort du jeu. A efface aussi 3 traits mais le dernier trait de B ne peut pas être effacé puisque B n'était pas un joueur actif, donc les nouveaux scores sont A:1, B:1, C:0, D:2. C distribuera ensuite et D jouera contre A.
+
+#### Weglöscher
+C'est une variante du 66 pour cinq joueurs ou plus, jouée aussi entre deux joueurs à la fois comme la variante ci-dessus. Après chaque main, le gagnant efface 1, 2 ou 3 traits comme d'habitude, et ceux qui ne jouaient pas effacent le même nombre de traits que le gagnant. Les joueurs ayant effacé tous leurs traits abandonnent et le dernier joueur restant est le perdant.
+Dans ce jeu, il est possible pour un joueur d'effacer son dernier trait et de sortir même lorsqu'il n'était pas un joueur actif. Chaque joueur commence le jeu avec 3×(n+1) traits sur son ardoise, où n est le nombre de joueurs — donc 18 traits chacun pour 5 joueurs, 21 chacun pour six, etc. Cela garantit qu'aucun joueur ne peut sortir du jeu pendant les n premières donnes, de sorte que chacun a été un joueur actif au moins deux fois avant la première donne où il est possible pour un joueur de sortir.
+
+## Références
+
+Rudolf J. Weickmann : *[Die Kartl-Akademie Weinzierlein](https://www.amazon.de/dp/3871910635/)* (Verlag Albert Hofmann ; Nuremberg ; 2e édition, 1982). C'est la description publiée la plus complète du jeu que nous connaissions.
+
+Johannes Bamberger : *Schnapsen - die schönsten Varianten* (Perlen-Reihe Volume 639 ; 11e édition ; Vienne)
+
+Au moment de la rédaction (avril 2026), la page Wikipedia allemande [Nürnberger Dreck](https://de.wikipedia.org/wiki/N%C3%BCrnberger_Dreck) ne donne qu'un bref aperçu du jeu.

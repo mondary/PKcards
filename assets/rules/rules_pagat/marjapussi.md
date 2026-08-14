@@ -2,84 +2,81 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A four-player card game from southern Finland in which trumps are set by declaring the king and queen of a suit.
+**But :** Jeu de cartes finlandais à quatre joueurs du sud de la Finlande, où l'atout est déterminé par la déclaration du roi et de la dame d'une couleur.
 **Autres noms :** Huutopussi
 
 ---
 
-This page is based on information from Tuomas Korppi, Esko Heimonen and Mikko Saari.
+Cette page est basée sur des informations de Tuomas Korppi, Esko Heimonen et Mikko Saari.
 
 ## Introduction
 
-Marjapussi is a four-player point-trick game played in southern Finland. The name means "bag of berries", but it is clearly derived from the French word "mariage" (marriage - the combination of a king and queen in hand and the name of the ancestor game) by the route marias -> marjassi -> marjapussi. The variant with bidding, previously described on this web site under the name Marjapussi, is properly known as Huutopussi ("bidding bag") and is now described on a separate Huutopussi page. This page describes the simpler game Marjapussi, in which there is no bidding and no contract. Each team simply scores according to the points it makes in play.
+Le Marjapussi est un jeu de levées comptées à quatre joueurs pratiqué dans le sud de la Finlande. Le nom signifie « sac de baies », mais il dérive clairement du mot français « mariage » (la combinaison d'un roi et d'une dame en main et le nom du jeu ancêtre) par la voie marias -> marjassi -> marjapussi. La variante avec enchères, précédemment décrite sur ce site sous le nom de Marjapussi, est proprement appelée Huutopussi (« sac d'enchères ») et est maintenant décrite sur une page Huutopussi séparée. Cette page décrit le jeu plus simple du Marjapussi, sans enchères ni contrat. Chaque équipe marque simplement selon les points réalisés en jeu.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in two fixed partnerships, partners sitting opposite each other.
+Quatre joueurs forment deux équipes fixes, les partenaires étant assis en face.
 
-A 36-card pack is used, the cards ranking from highest to lowest A, 10, K, Q, J, 9, 8, 7, 6 in each of the four suits hearts, diamonds, clubs and spades. It is also possible to play with a smaller pack of 32 or 28 cards, omitting the lowest cards (sixes and sevens). It should be agreed in advance whether card values will be counted according to the original or the simplified system:
+On utilise un jeu de 36 cartes, classées de la plus forte à la plus faible A, 10, R, D, V, 9, 8, 7, 6 dans chacune des quatre couleurs cœurs, carreaux, trèfles et piques. Il est aussi possible de jouer avec un jeu plus petit de 32 ou 28 cartes, en omettant les cartes les plus basses (six et sept). Il faut convenir à l'avance si les valeurs des cartes seront comptées selon le système original ou simplifié :
 
-| Card | Simplified value | Original value |
-| Ace | 10 card points | 11 card points |
-| Ten | 10 card points | 10 card points |
-| King | 5 card points | 4 card points |
-| Queen | 5 card points | 3 card points |
-| Jack | 5 card points | 2 card points |
-| 9,8,7,6 | 0 card points | 0 card points |
+| Carte | Valeur simplifiée | Valeur originale |
+| As | 10 points | 11 points |
+| Dix | 10 points | 10 points |
+| Roi | 5 points | 4 points |
+| Dame | 5 points | 3 points |
+| Valet | 5 points | 2 points |
+| 9,8,7,6 | 0 points | 0 points |
 
-So the total value of cards in the pack is 140 if the simplified system is used, but only 120 using the original system.
+La valeur totale des cartes est donc de 140 avec le système simplifié, mais seulement 120 avec le système original.
 
-## Deal and Play
+## Donne et jeu
 
-Deal and play are clockwise. The first dealer is chosen at random. The dealer shuffles the cards and the player to dealer's right cuts. All the cards are dealt out one at a time - nine to each player from a 36-card pack, eight or seven cards each if you play with only 32 or 28 cards. The turn to deal passes to the left after each hand.
+La donne et le jeu se font dans le sens horaire. Le premier donneur est choisi au hasard. Le donneur bat les cartes et le joueur à sa droite coupe. Toutes les cartes sont distribuées une par une — neuf à chaque joueur pour un jeu de 36 cartes, huit ou sept si on ne joue qu'avec 32 ou 28 cartes. Le tour de donne passe à gauche après chaque main.
 
-There are no trumps to begin with but a trump suit may be declared during the play as described below.
+Il n'y a pas d'atout au début, mais un atout peut être déclaré en cours de jeu comme décrit ci-dessous.
 
-The player to dealer's left leads to the first trick. Players must follow suit if able to. If there are trumps, a player who does not have any cards of the suit that was led must play a trump. Subject always to the requirement to follow suit, a player who is able to beat the highest card already played to the trick must do so (even if the card to be beaten belongs to the player's partner). A player who does not have the led suit nor any trumps can play any card. The trick is won by the highest trump in it, or if no trumps were played, by the highest card of the suit that was led. The winner of the trick leads to the next trick.
+Le joueur à la gauche du donneur mène la première levée. Les joueurs doivent suivre la couleur s'ils le peuvent. S'il y a un atout, un joueur qui n'a aucune carte de la couleur demandée doit jouer un atout. Sous réserve de l'obligation de suivre, un joueur capable de battre la carte la plus forte déjà jouée dans la levée doit le faire (même si la carte à battre appartient à son partenaire). Un joueur qui n'a ni la couleur demandée ni d'atout peut jouer n'importe quelle carte. La levée est remportée par le plus fort atout, ou à défaut par la carte la plus forte de la couleur demandée. Le gagnant de la levée mène la suivante.
 
-## Declaring Trumps and Marriages
+## Déclaration de l'atout et des mariages
 
-A player who wins a trick is allowed to try to declare trumps before leading to the next trick. Only one attempt to declare trumps can be made after each trick won. There are three ways to declare trumps:
+Un joueur qui remporte une levée peut tenter de déclarer l'atout avant de mener la levée suivante. On ne peut tenter qu'une seule déclaration d'atout après chaque levée remportée. Il y a trois façons de déclarer l'atout :
 
-- If you have a marriage - the king and queen of the same suit - in your hand, you may declare that suit as trumps. 
+- Si vous avez un mariage — le roi et la dame de la même couleur — en main, vous pouvez déclarer cette couleur comme atout.
 
-- You may ask your partner for a marriage. If your partner has a marriage, he or she must announce what suit it is in (if there are more than one eligible suits, partner chooses one), and that suit becomes trumps. Any undeclared marriages in your own hand are now "broken": you no longer can declare them as trumps nor can your partner ask you for a marriage (but your partner can still declare and you can still ask your partner for subsequent marriages, and both can ask for any "half marriage").
+- Vous pouvez demander un mariage à votre partenaire. Si votre partenaire a un mariage, il doit annoncer de quelle couleur il s'agit (s'il y en a plusieurs, il en choisit une), et cette couleur devient atout. Tous les mariages non déclarés dans votre main sont alors « cassés » : vous ne pouvez plus les déclarer comme atout, et votre partenaire ne peut plus vous demander de mariage (mais votre partenaire peut toujours déclarer et vous pouvez toujours demander à votre partenaire des mariages ultérieurs, et chacun peut demander un « demi-mariage »).
 
-- If you have a "half marriage" (a king or a queen) in some suit, you may ask your partner for the other half (e.g. "do you have a half marriage in clubs?"). If partner has the other card (responding "yes" is 
-sufficient proof), that suit becomes trumps. Any undeclared marriages in your hand and your partner's hand are now "broken": neither of you can declare any marriages as trumps nor ask each other for a marriage (but both of you can ask for subsequent "half marriages").
+- Si vous avez un « demi-mariage » (un roi ou une dame) dans une couleur, vous pouvez demander à votre partenaire l'autre moitié (par exemple « avez-vous un demi-mariage à trèfle ? »). Si votre partenaire a l'autre carte (répondre « oui » suffit comme preuve), cette couleur devient atout. Tous les mariages non déclarés dans votre main et celle de votre partenaire sont alors « cassés » : aucun de vous ne peut déclarer de mariage comme atout ni se demander de mariage mutuellement (mais chacun peut demander des « demi-mariages » ultérieurs).
 
-The first declared marriage determines trumps, and that suit remains trumps until the next deal.
+Le premier mariage déclaré détermine l'atout, et cette couleur reste l'atout jusqu'à la donne suivante.
 
-After trumps have been declared, any player who wins a trick may try to declare a further marriage before leading to the following trick. This will score for the team if successful but will not affect the trump suit. Any of the above three methods may be used, and only one marriage declaration can be attempted for each trick won.
+Après que l'atout a été déclaré, tout joueur qui remporte une levée peut tenter de déclarer un mariage supplémentaire avant de mener la levée suivante. Cela rapporte des points à l'équipe si réussi mais ne change pas l'atout. L'une des trois méthodes ci-dessus peut être utilisée, et une seule déclaration de mariage peut être tentée pour chaque levée remportée.
 
-Note that marriages can never include cards that have already been played - the cards must be in the players' hands at the time of the declaration.
+Les mariages ne peuvent jamais inclure des cartes déjà jouées — les cartes doivent être dans la main des joueurs au moment de la déclaration.
 
-## Scoring
+## Comptage
 
-The scoring is in game points, which are not to be confused with the card points described above. After all the cards have been played, each team counts the value of the cards they have taken in tricks. The team with more card points (at least 75 using the simplified system or at least 61 using the original system) scores 1 game points for "cards". Game points are also scored for successful marriage declarations and for winning the last trick, as follows:
+Le comptage est en points de jeu, à ne pas confondre avec les points de cartes décrits ci-dessus. Après que toutes les cartes ont été jouées, chaque équipe compte la valeur des cartes prises dans les levées. L'équipe ayant le plus de points de cartes (au moins 75 avec le système simplifié ou au moins 61 avec le système original) marque 1 point de jeu pour les « cartes ». Des points de jeu sont aussi marqués pour les déclarations de mariages réussies et pour la dernière levée, comme suit :
 
-- 2 game points for successfully declaring trumps
+- 2 points de jeu pour la déclaration réussie de l'atout
 
-- 1 game point for declaring a non-trump marriage
+- 1 point de jeu pour la déclaration d'un mariage non atout
 
-- 1 game point for winning the last trick
+- 1 point de jeu pour la dernière levée
 
-- 1 game point for taking the majority of card points (in case of a tie this point is not awarded)
+- 1 point de jeu pour la majorité des points de cartes (en cas d'égalité, ce point n'est pas accordé)
 
-A partnership wins the game by collecting exactly 10 game points over a number of deals. If they get more than 10, their total score is reduced to 7 game points. If your partnership wins no tricks at all in a hand, your total score is reduced to 0 game points.
+Une équipe gagne la partie en atteignant exactement 10 points de jeu sur plusieurs donnes. Si elle dépasse 10, son score total est réduit à 7 points de jeu. Si votre équipe ne remporte aucune levée lors d'une main, votre score total est réduit à 0.
 
-(If both partnerships reach exactly 10 game points on the same deal, presumably the game is a tie - neither side wins.)
+(Si les deux équipes atteignent exactement 10 points de jeu lors de la même donne, la partie est probablement nulle — aucun camp ne gagne.)
 
-## Variations
+## Variantes
 
-Some play that if the game point for taking the majority of card points is not awarded because of a tie (60 points each in the original system or 70 each in the simplified system), it is carried over to the next deal - so in the next deal after a tie taking the majority of card points scores 2 game points.
+Certains jouent que si le point de jeu pour la majorité des points de cartes n'est pas accordé en raison d'une égalité (60 points chacun dans le système original ou 70 chacun dans le simplifié), il est reporté à la donne suivante — de sorte qu'après une égalité, la majorité des points de cartes à la donne suivante rapporte 2 points de jeu.
 
-Some play that in the first deal of a session, the holder of the ace of clubs leads to the first trick. This player also becomes the second dealer after which the turn to deal rotates clockwise as usual.
+Certains jouent que lors de la première donne d'une session, le détenteur de l'as de trèfle mène la première levée. Ce joueur devient aussi le deuxième donneur, après quoi le tour de donne tourne dans le sens horaire comme d'habitude.
 
-Some play without the requirement to beat the highest card so far played to the trick. It is still compulsory to trump if one has no cards of the suit led. It may be that this was the original rule.
+Certains jouent sans l'obligation de battre la carte la plus forte déjà jouée dans la levée. Il reste obligatoire d'atouter si l'on n'a pas de carte de la couleur demandée. Il se peut que ce soit la règle d'origine.
 
-Some play that the player who leads to the first trick must lead an ace if possible. If no ace is held, a spade must be led if possible. In the second and subsequent tricks, any card may be led as usual.
+Certains jouent que le joueur menant la première levée doit mener un as si possible. Si aucun as n'est détenu, un pique doit être mené si possible. Aux levées suivantes, n'importe quelle carte peut être menée comme d'habitude.
 
-Some play a variation with bidding - this is described separately on the Huutopussi page.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Marjapussi
+Certains jouent une variante avec enchères — décrite séparément sur la page Huutopussi.

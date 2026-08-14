@@ -4,141 +4,138 @@
 **Nombre de cartes :** 36
 **Difficulté :** ⭐⭐⭐
 **Type :** Mariage, Mariage
-**But :** A 4-player Finnish card game with bidding in which marriages are used to set the trump suit.
+**But :** Jeu finlandais à 4 joueurs avec enchères, où les mariages servent à déterminer l'atout.
 
 ---
 
 ## Introduction
 
-Huutopussi is a four-player point-trick game played in southern Finland. It is based on Marjapussi, but with the extra feature that the players bid for the right to exchange some cards with their partner. Huutopussi means something like "bidding bag", while Marjapussi means "bag of berries". The main description on this page is of a version played by maths students at the University of Helsinki, as recorded by Tuomas Korppi. This is followed by other variations, including one which was described under the name Marjapussi in an anonymous account from the mathematics department at Erlangen, Germany, which was passed on to me by Frank Sven Nestel.
+Le Huutopussi est un jeu de levées comptées à quatre joueurs pratiqué dans le sud de la Finlande. Il dérive du Marjapussi, avec en plus la possibilité pour les joueurs d'enchérir pour obtenir le droit d'échanger des cartes avec leur partenaire. Huutopussi signifie à peu près « sac d'enchères », tandis que Marjapussi signifie « sac de baies ». La description principale de cette page correspond à une version jouée par des étudiants en mathématiques à l'Université d'Helsinki, telle qu'enregistrée par Tuomas Korppi. Suivent d'autres variantes, dont l'une décrite sous le nom de Marjapussi dans un témoignage anonyme du département de mathématiques d'Erlangen, en Allemagne, transmis par Frank Sven Nestel.
 
-This page is based on information from Tuomas Korppi, Mikko Saari, Esko Heimonen and Frank Sven Nestel.
+Cette page est basée sur des informations de Tuomas Korppi, Mikko Saari, Esko Heimonen et Frank Sven Nestel.
 
-## Players, cards and deal
+## Joueurs, cartes et donne
 
-There are four players in two fixed partnerships, partners sitting opposite each other.
+Quatre joueurs forment deux équipes fixes, les partenaires étant assis en face.
 
-A 36-card pack is used, the cards ranking from highest to lowest A, 10, K, Q, J, 9, 8, 7, 6 in each of the four suits hearts, diamonds, clubs and spades. The values of the cards are as follows:
+On utilise un jeu de 36 cartes, classées de la plus forte à la plus faible : A, 10, R, D, V, 9, 8, 7, 6 dans chacune des quatre couleurs cœurs, carreaux, trèfles et piques. La valeur des cartes est la suivante :
 
-- Aces and tens: 10 points each
+- As et dix : 10 points chacun
 
-- Kings, queens and jacks: 5 points each
+- Rois, dames et valets : 5 points chacun
 
-- 9, 8, 7, 6: no value
+- 9, 8, 7, 6 : sans valeur
 
-In addition, winning the last trick is worth an extra 20 points, for a total of 160 points in the pack. Extra points are awarded for declaring marriages - see below.
+De plus, remporter la dernière levée rapporte 20 points supplémentaires, soit un total de 160 points dans le jeu. Des points supplémentaires sont accordés pour la déclaration de mariages (voir ci-dessous).
 
-Deal, bidding and play are clockwise. The first dealer is chosen at random. The dealer shuffles the cards and the player to dealer's right cuts. The cards are dealt one at a time, nine cards to each player. The turn to deal passes to the left after each hand.
+La donne, les enchères et le jeu se font dans le sens horaire. Le premier donneur est choisi au hasard. Le donneur bat les cartes et le joueur situé à sa droite coupe. Les cartes sont distribuées une par une, neuf à chaque joueur. Le tour de donne passe à gauche après chaque main.
 
-## Bidding
+## Enchères
 
-All bids are numbers that are multiples of five. The first player (the one left to the dealer) must bid at least 50. After that players in turn can either bid or pass. Each bid must be higher than the preceding one. A player who has passed cannot bid at a later turn. The bidding continues for as many circuits of the table as necessary until three players have passed. The person who made the final bid becomes the declarer.
+Toutes les enchères sont des multiples de cinq. Le premier joueur (celui à gauche du donneur) doit enchérir au moins 50. Ensuite, les joueurs à tour de rôle peuvent enchérir ou passer. Chaque enchère doit être supérieure à la précédente. Un joueur qui a passé ne peut plus enchérir par la suite. Les enchères continuent autant de tours de table que nécessaire jusqu'à ce que trois joueurs aient passé. Celui qui a fait la dernière enchère devient le déclarant.
 
-A player who has at least three sixes, or who has no card higher than a jack is allowed to (but is not required to) demand a redeal. This demand can only be made at the player's first opportunity to bid. In this case the hand is not played. The cards are thrown in and there is a new deal by the next dealer. 
+Un joueur ayant au moins trois six, ou n'ayant aucune carte supérieure au valet, est autorisé (mais non tenu) de demander une redonne. Cette demande ne peut être faite qu'au premier tour d'enchère du joueur. Dans ce cas, la main n'est pas jouée. Les cartes sont jetées et le donneur suivant redistribue.
 
-The highest bid allowed is 440, since this is the highest attainable score (160 + 40 + 60 + 80 + 100 as explained below).
+L'enchère maximale autorisée est 440, car c'est le score le plus élevé possible (160 + 40 + 60 + 80 + 100, comme expliqué ci-dessous).
 
-## Card Exchange and Setting the Contract
+## Échange de cartes et fixation du contrat
 
-The partner of the declarer chooses three cards and passes them face down across the table to the declarer. The declarer adds these cards to his or her hand, and then sets the contract by announcing a number which must be at least as high as the declarer's final bid (and must be a multiple of 5). This commits the declarer's team to try to take at least this number of points. Then the declarer passes three cards face down to partner, which may include some of the cards the partner originally passed. These are added to partner's hand so that everyone has nine cards again. 
+Le partenaire du déclarant choisit trois cartes et les passe face cachée à travers la table au déclarant. Le déclarant les ajoute à sa main, puis fixe le contrat en annonçant un nombre qui doit être au moins égal à sa dernière enchère (et doit être un multiple de 5). Cela engage l'équipe du déclarant à essayer de remporter au moins ce nombre de points. Puis le déclarant passe trois cartes face cachée à son partenaire, qui peuvent inclure certaines des cartes que le partenaire avait initialement passées. Celles-ci sont ajoutées à la main du partenaire pour que chacun ait à nouveau neuf cartes.
 
-## Play
+## Jeu
 
-The declarer leads to the first trick. At the start of the play there are no trumps, but a trump suit may be declared (or changed) during the course of play.
+Le déclarant mène la première levée. Au début du jeu, il n'y a pas d'atout, mais un atout peut être déclaré (ou modifié) en cours de partie.
 
-Players must always follow suit if able to. If there are trumps, a player who does not have any cards of the suit that was led must play a trump. Subject always to the requirement to follow suit, a player who is able to beat the highest card already played to the trick must do so (even if the card to be beaten belongs to the player's partner). A player who does not have the led suit nor any trumps can play any card. The trick is won by the highest trump in it, or if no trumps were played, by the highest card of the suit that was led. The winner of the trick leads to the next trick.
+Les joueurs doivent toujours suivre la couleur s'ils le peuvent. S'il y a un atout, un joueur qui n'a aucune carte de la couleur demandée doit jouer un atout. Sous réserve de l'obligation de suivre, un joueur capable de battre la carte la plus forte déjà jouée dans la levée doit le faire (même si la carte à battre appartient à son partenaire). Un joueur qui n'a ni la couleur demandée ni d'atout peut jouer n'importe quelle carte. La levée est remportée par le plus fort atout, ou à défaut par la carte la plus forte de la couleur demandée. Le gagnant de la levée mène la suivante.
 
-## Declaring trumps
+## Déclaration de l'atout
 
-A player who leads to a trick and wins it (no one beats the card that was led) is allowed to try to declare trumps before leading to the next trick. The declarer can therefore attempt a trump declaration if he or she wins the first trick. Other players need to win two successive tricks - one trick to obtain the lead and the following trick to qualify for a trump declaration. Only one attempt to declare trumps can be made after each trick won. There are three ways to declare trumps:
+Un joueur qui mène une levée et la remporte (personne ne bat la carte jouée) peut tenter de déclarer l'atout avant de mener la levée suivante. Le déclarant peut donc tenter une déclaration d'atout s'il remporte la première levée. Les autres joueurs doivent remporter deux levées consécutives — une pour obtenir la main, puis une autre pour être qualifié pour une déclaration d'atout. On ne peut tenter qu'une seule déclaration d'atout après chaque levée remportée. Il y a trois façons de déclarer l'atout :
 
-- If you have a marriage - the king and queen of the same suit - in your hand, you may declare that suit as trumps. 
+- Si vous avez un mariage — le roi et la dame de la même couleur — en main, vous pouvez déclarer cette couleur comme atout.
 
-- You may ask your partner for a marriage. If your partner has a marriage, he or she must announce what suit it is in (if there are more than one eligible suits, partner chooses one), and that suit becomes trumps. Any undeclared marriages in your own hand are now "broken": you no longer can declare them as trumps nor can your partner ask you for a marriage (but your partner can still declare and you can still ask your partner for subsequent marriages, and both can ask for any "half marriage").
+- Vous pouvez demander un mariage à votre partenaire. Si votre partenaire a un mariage, il doit annoncer de quelle couleur il s'agit (s'il y en a plusieurs, il en choisit une), et cette couleur devient atout. Tous les mariages non déclarés dans votre main sont alors « cassés » : vous ne pouvez plus les déclarer comme atout, et votre partenaire ne peut plus vous demander de mariage (mais votre partenaire peut toujours déclarer et vous pouvez toujours demander à votre partenaire des mariages ultérieurs, et chacun peut demander un « demi-mariage »).
 
-- If you have a "half marriage" (a king or a queen) in some suit, you may ask your partner for the other half (e.g. "do you have a half marriage in clubs?"). If partner has the other card (responding "yes" is 
-sufficient proof), that suit becomes trumps. Any undeclared marriages in your hand and your partner's hand are now "broken": neither of you can declare any marriages as trumps nor ask each other for a marriage (but both of you can ask for subsequent "half marriages").
+- Si vous avez un « demi-mariage » (un roi ou une dame) dans une couleur, vous pouvez demander à votre partenaire l'autre moitié (par exemple « avez-vous un demi-mariage à trèfle ? »). Si votre partenaire a l'autre carte (répondre « oui » suffit comme preuve), cette couleur devient atout. Tous les mariages non déclarés dans votre main et celle de votre partenaire sont alors « cassés » : aucun de vous ne peut déclarer de mariage comme atout ni se demander de mariage mutuellement (mais chacun peut demander des « demi-mariages » ultérieurs).
 
-Note that marriages can never include cards that have already been played - the cards must be in the players' hands at the time of the declaration.
+Les mariages ne peuvent jamais inclure des cartes déjà jouées — les cartes doivent être dans la main des joueurs au moment de la déclaration.
 
-It is possible for several trump declarations to occur in the course of one hand. The conditions for subsequent declarations are the same as for the first one: you must win a trick to which you yourself have led. You can then attempt a declaration by any of the three methods above. If the declaration is successful the newly declared suit becomes trumps and the previous trump suit is cancelled and reverts to being just an ordinary non-trump suit for the rest of the hand.
+Plusieurs déclarations d'atout peuvent intervenir au cours d'une même main. Les conditions sont les mêmes que pour la première : vous devez remporter une levée à laquelle vous avez vous-même mené. Vous pouvez alors tenter une déclaration par l'une des trois méthodes ci-dessus. Si la déclaration réussit, la nouvelle couleur devient l'atout et l'ancien atout est annulé et redevient une couleur ordinaire pour le reste de la main.
 
-Each suit can be declared trumps only once during a hand - it is not possible to redeclare a marriage that was declared previously in order to restore an old trump suit.
+Chaque couleur ne peut être déclarée atout qu'une seule fois par main — il n'est pas possible de redéclarer un mariage déjà déclaré pour restaurer un ancien atout.
 
-## Scoring
+## Comptage
 
-At the end of the hand, each side counts the value of the cards it took in tricks, and the winners of the last trick add 20 points. The two sides' totals should add up to 160. To this amount each side adds further points for any trump declarations they made during the hand as follows:
+À la fin de la main, chaque équipe compte la valeur des cartes prises dans les levées, et les gagnants de la dernière levée ajoutent 20 points. Les deux totaux doivent s'élever à 160. À ce montant, chaque équipe ajoute les points des déclarations d'atout effectuées au cours de la main, comme suit :
 
-- Marriage in spades: 40 points
+- Mariage à pique : 40 points
 
-- Marriage in clubs: 60 points
+- Mariage à trèfle : 60 points
 
-- Marriage in diamonds: 80 points
+- Mariage à carreau : 80 points
 
-- Marriage in hearts: 100 points
+- Mariage à cœur : 100 points
 
-If the declarer's team's total is at least as high as the contract, then they score the amount of the contract. Otherwise they score minus the amount of the contract. In either case the opposing team scores however many points they took for cards and declarations.
+Si le total de l'équipe du déclarant est au moins égal au contrat, elle marque la valeur du contrat. Sinon, elle marque moins la valeur du contrat. Dans les deux cas, l'équipe adverse marque les points pris pour les cartes et les déclarations.
 
-Note that the declarer's team cannot score more than the contract value that the declarer set - points taken in excess of the contract are not scored.
+L'équipe du déclarant ne peut pas marquer plus que la valeur du contrat fixée — les points excédentaires ne sont pas comptés.
 
-If the declarer's opponents take no tricks at all, then instead of scoring zero they score minus the amount of the final bid. This is known as "läpäri".
+Si les adversaires du déclarant ne remportent aucune levée, au lieu de marquer zéro, ils marquent moins le montant de la dernière enchère. C'est ce qu'on appelle « läpäri ».
 
-A team whose cumulative score reaches 500 or more points wins the game. If both teams reach 500 or more on the same hand, the team with the higher score wins. [If both teams have over 500 and the scores are equal, the game could be considered a draw or a further hand could be played to decide the result.]
+Une équipe dont le score cumulé atteint 500 points ou plus gagne la partie. Si les deux équipes atteignent 500 ou plus lors de la même main, l'équipe ayant le score le plus élevé gagne. [Si les deux équipes dépassent 500 avec des scores égaux, la partie peut être considérée comme nulle ou une main supplémentaire peut être jouée pour départager.]
 
-A team that has a negative score of -500 points or worse is not allowed to bid, except for the compulsory initial bid of 50 if a member of that team is first to bid. This situation is known as "huutokielto".
+Une équipe ayant un score négatif de -500 points ou moins n'est pas autorisée à enchérir, sauf pour l'enchère initiale obligatoire de 50 si un membre de cette équipe parle en premier. Cette situation est appelée « huutokielto ».
 
-## Notes on Tactics
+## Notes tactiques
 
-Since the declarer's partnership scores only for points contracted and made, and nothing for points in excess of the contract, after receiving cards the declarer should set the contract as high as is safely possible.
+Puisque l'équipe du déclarant ne marque que les points contractés et réalisés, et rien au-delà, après la réception des cartes, le déclarant devrait fixer le contrat aussi haut que possible en toute sécurité.
 
-The basic strategy is to collect good cards in the declarer's hand. If you're the declarer's partner, it's often best to give the declarer your best three cards (aces, tens, kings, queens).
+La stratégie de base consiste à rassembler les meilleures cartes dans la main du déclarant. Si vous êtes le partenaire du déclarant, il est souvent préférable de lui donner vos trois meilleures cartes (as, dix, rois, dames).
 
-Usually the declarer's side is in a very advantageous position because their hands are improved hands by the exchange of cards, and also because of the control of the game given by the right to lead to the first trick.
+En général, le camp du déclarant est en position très avantageuse car leurs mains sont améliorées par l'échange de cartes, et aussi grâce au contrôle du jeu donné par le droit de mener la première levée.
 
-Normally the game is played simply to win. The margin of victory makes no difference. This often leads to special strategies when either side is close to the 500 point target. The losing side may desperately try for läpäri. Note that in case of läpäri, the amount lost by the opponents is only the amount of the final bid, not the amount of the contract. Sometimes it becomes clear only after the exchange of cards that a high contract with läpäri is possible, but raising the contract at this stage only increases the amount the declaring side can win: it does not cause the opponents to lose more if the läpäri succeeds. The partnership close to 500 may bid very conservatively and try to pass the 500 target with the points collected while defending against the opponents' contract.
+Normalement, on joue simplement pour gagner. La marge de victoire n'a pas d'importance. Cela conduit souvent à des stratégies spéciales lorsque l'un des camps est proche des 500 points. Le camp perdant peut tenter désespérément un läpäri. Notez qu'en cas de läpäri, la perte infligée aux adversaires n'est que le montant de la dernière enchère, pas celui du contrat. Parfois, il n'apparaît qu'après l'échange de cartes qu'un contrat élevé avec läpäri est possible, mais augmenter le contrat à ce stade ne fait qu'accroître ce que le camp déclarant peut gagner : cela ne fait pas perdre plus aux adversaires si le läpäri réussit. Le camp proche de 500 peut enchérir très prudemment et essayer de dépasser le seuil de 500 avec les points collectés tout en défendant contre le contrat des adversaires.
 
-Bidding conventions are normally not used. When they are used, however, players do not reveal their conventions to their opponents.
+Les conventions d'enchères ne sont généralement pas utilisées. Quand elles le sont, les joueurs ne les révèlent pas à leurs adversaires.
 
-High contracts (210 points or more) are made by declaring red trumps and/or declaring trumps several times during the same hand. However, because of the "läpäri"-rule, a partnership with the possibility of winning all the tricks may deliberately bid a contract that they cannot make, and hope that both sides get a score of minus the contract value (the declarer's team wins every trick but do not have enough points for the contract).
+Les contrats élevés (210 points ou plus) sont réalisés en déclarant un atout rouge et/ou en déclarant l'atout plusieurs fois au cours de la même main. Cependant, en raison de la règle du « läpäri », un camp ayant la possibilité de remporter toutes les levées peut enchérir sciemment un contrat qu'il ne peut pas réaliser, en espérant que les deux camps obtiennent un score négatif égal à la valeur du contrat (le camp du déclarant gagne toutes les levées mais n'a pas assez de points pour le contrat).
 
-## Variations
+## Variantes
 
-Some play with the original card values: ace=11, ten=10, king=4, queen=3, jack=2, other cards zero. Some value the last trick at 10 points rather than 20. Both variations of course change the total number of points available without marriages.
+Certains jouent avec les valeurs de cartes d'origine : as=11, dix=10, roi=4, dame=3, valet=2, autres cartes sans valeur. Certains valorisent la dernière levée à 10 points au lieu de 20. Ces variantes modifient bien sûr le nombre total de points disponibles hors mariages.
 
-The values of marriages vary. Nowadays some players rank the suits in Bridge order - spades: 100, hearts: 80, diamonds: 60 and clubs: 40.
+La valeur des mariages varie. De nos jours, certains joueurs classent les couleurs dans l'ordre du bridge : pique 100, cœur 80, carreau 60 et trèfle 40.
 
-Instead of the "läpäri rule, some play that a side that takes no tricks is "sent to Porvoo" and loses the amount of the contract. If the contract fails, and the opponents take no tricks, they score nothing.
+Au lieu de la règle du « läpäri », certains jouent qu'un camp qui ne remporte aucune levée est « envoyé à Porvoo » et perd le montant du contrat. Si le contrat échoue et que les adversaires ne remportent aucune levée, ils ne marquent rien.
 
-There are probably many different versions of Huutopussi. An anonymous text left by a Finnish visitor to the maths department at Erlangen, Germany, describes a variant which differs from the above game as follows.
+Il existe probablement de nombreuses versions différentes du Huutopussi. Un texte anonyme laissé par un visiteur finlandais au département de mathématiques d'Erlangen décrit une variante qui diffère du jeu ci-dessus comme suit.
 
-- The values of the cards are: ace=11, ten=10, king=4, queen=3, jack=2, other cards zero. The last trick is still worth 20 for a total of 140 points without marriages. This is almost certainly the original schedule: it is found in many other European card games.
+- Les valeurs des cartes sont : as=11, dix=10, roi=4, dame=3, valet=2, autres cartes sans valeur. La dernière levée vaut toujours 20, soit un total de 140 points sans mariage. C'est presque certainement le barème d'origine, que l'on retrouve dans de nombreux autres jeux de cartes européens.
 
-- The minimum bid is 120. The player to dealer's left is not obliged to bid. If all four players pass, the game is played without a contract: there is no card exchange, the player to dealer's left leads to the first trick, and each team scores whatever points it makes.
+- L'enchère minimale est 120. Le joueur à la gauche du donneur n'est pas tenu d'enchérir. Si les quatre joueurs passent, le jeu se joue sans contrat : pas d'échange de cartes, le joueur à gauche du donneur mène la première levée, et chaque équipe marque les points qu'elle réalise.
 
-- The declarer's partner passes four cards, not three, to the declarer, and the declarer returns four cards.
+- Le partenaire du déclarant passe quatre cartes (et non trois) au déclarant, et le déclarant en retourne quatre.
 
-- There are some restrictions on the play applying to the first trick only. An ace must be led if possible, and if the leader has no ace a spade must be led if possible. If an ace is not led, the holder of the ace of the suit led must play it. Despite these restrictions, there is no obligation on the declarer to keep aces or spades to lead to the first trick - these can be passed to partner if the declarer so wishes.
+- Certaines restrictions s'appliquent à la première levée uniquement. Un as doit être mené si possible, et si le meneur n'a pas d'as, un pique doit être mené si possible. Si un as n'est pas mené, le détenteur de l'as de la couleur demandée doit le jouer. Malgré ces restrictions, le déclarant n'a aucune obligation de conserver des as ou des piques pour mener la première levée — ceux-ci peuvent être passés au partenaire si le déclarant le souhaite.
 
-- In order to attempt to declare trumps it is only necessary to win a trick. It does not matter who led to the trick.
+- Pour tenter de déclarer l'atout, il suffit de remporter une levée. Peu importe qui a mené la levée.
 
-- It is legal to ask for a half-marriage in a suit where you hold neither the king nor the queen. If your partner has a half or whole marriage in this suit, the answer will be "yes", but then you have to admit that you do not have a half yourself and the suit is not made trumps (even if partner in fact had a whole marriage). The purpose of this manoeuvre is to deceive the opponents: if the answer is "no", they may believe that you hold the king or queen and fail to declare their own marriage in that suit.
+- Il est autorisé de demander un demi-mariage dans une couleur où l'on ne détient ni le roi ni la dame. Si votre partenaire a un demi ou un mariage complet dans cette couleur, la réponse sera « oui », mais vous devrez alors admettre que vous n'avez pas vous-même de demi, et la couleur ne devient pas atout (même si le partenaire a en fait un mariage complet). Le but de cette manœuvre est de tromper les adversaires : si la réponse est « non », ils peuvent croire que vous détenez le roi ou la dame et ne pas déclarer leur propre mariage dans cette couleur.
 
-- When scoring points at the end of the hand, the points taken by the opponents are rounded to the nearest 5 (for example 112 becomes 110; 113 becomes 115). The declarer's side does not round their point total - for example if they set the contract at 150 and take only 149 points, the contract is lost.
+- Lors du comptage des points en fin de main, les points pris par les adversaires sont arrondis au multiple de 5 le plus proche (par exemple 112 devient 110 ; 113 devient 115). Le camp du déclarant n'arrondit pas son total — par exemple, si le contrat est fixé à 150 et qu'ils ne prennent que 149 points, le contrat est perdu.
 
-- A side that makes no tricks is "sent to Porvoo". It is traditional to tease them by asking them how much a kilo of salted herrings costs in Porvoo market. A side that is sent to Porvoo normally loses twice the amount of the contract. However, if the declarer's side wins every trick but does not have enough points for their contract, they lose the value of the contract while the opponents lose nothing. If all four players passed, there is no contract and therefore no Porvoo penalty.
+- Un camp qui ne remporte aucune levée est « envoyé à Porvoo ». Il est de tradition de se moquer d'eux en leur demandant combien coûte un kilo de harengs saurés au marché de Porvoo. Un camp envoyé à Porvoo perd généralement deux fois la valeur du contrat. Cependant, si le camp du déclarant remporte toutes les levées mais n'a pas assez de points pour son contrat, il perd la valeur du contrat tandis que les adversaires ne perdent rien. Si les quatre joueurs ont passé, il n'y a pas de contrat et donc pas de pénalité de Porvoo.
 
-- An opponent of the declarer who thinks that the contract will fail can say "Kontra", which doubles the declarer's side's score for that hand, whether they win or lose. You can only say the first Kontra while you have nine cards in your hand - once you have played a card it is too late. If an opponent has said Kontra, then either member of the declarer's side may say "Re", doubling their score for the hand again. To say Re you must have at least eight cards in your hand. If that happens, an opponent can say Kontra again, provided they still have at least seven cards, and further Kontras and Res are allowed, each with one card fewer than the previous one, up to a theoretical maximum of nine. It is only the declarer's side's score that is affected by Kontras and Res: the opponents just score what they make as usual. The Porvoo penalty is not affected by Kontras. If the declarer's side wins all the tricks but fails in their contract, then the first Kontra by the opponents does not count. If all four players passed, then no one can say Kontra. This system of Kontras and Res may not be an original Finnish feature but could well have been added in Germany - it is slightly reminiscent of the system of announcements in popular German game Doppelkopf.
+- Un adversaire du déclarant qui pense que le contrat échouera peut dire « Kontra », ce qui double le score du camp du déclarant pour cette main, qu'il gagne ou perde. On ne peut dire le premier Kontra que tant qu'on a encore neuf cartes en main — une fois une carte jouée, il est trop tard. Si un adversaire a dit Kontra, n'importe quel membre du camp du déclarant peut dire « Re », doublant à nouveau leur score. Pour dire Re, il faut avoir au moins huit cartes en main. Ensuite, un adversaire peut redire Kontra, à condition d'avoir encore au moins sept cartes, et d'autres Kontras et Res sont possibles, chacun avec une carte de moins que le précédent, jusqu'à un maximum théorique de neuf. Seul le score du camp du déclarant est affecté par les Kontras et Res : les adversaires marquent simplement ce qu'ils prennent comme d'habitude. La pénalité de Porvoo n'est pas affectée par les Kontras. Si le camp du déclarant gagne toutes les levées mais échoue à son contrat, le premier Kontra des adversaires ne compte pas. Si les quatre joueurs ont passé, personne ne peut dire Kontra. Ce système de Kontras et Res n'est probablement pas une caractéristique finlandaise originale mais a pu être ajouté en Allemagne — il rappelle légèrement le système d'annonces du jeu allemand populaire Doppelkopf.
 
-## Three-player Huutopussi
+## Huutopussi à trois joueurs
 
-When played by three people, Huutopussi becomes strikingly similar to the Russian, Polish and Baltic game 1000. Indeed it is possible that Huutopussi was originally derived from 1000, and that the three-player form was the earlier version, which was later expanded to four players. In three-player Huutopussi each player is dealt 11 cards and there are three undealt cards known as the "devils pack". The highest bidder takes these three cards and discards any three. I am told that the remaining rules are the same as in 4-player Huutopussi, which I take to mean that:
+À trois joueurs, le Huutopussi ressemble de façon frappante au jeu russe, polonais et balte 1000. Il est possible que le Huutopussi dérive à l'origine de 1000, et que la version à trois joueurs soit la plus ancienne, ultérieurement étendue à quatre. Au Huutopussi à trois, chaque joueur reçoit 11 cartes et il reste trois cartes non distribuées appelées le « paquet du diable ». Le plus haut enchérisseur prend ces trois cartes et en écarte trois. On m'a dit que les règles restantes sont les mêmes qu'au Huutopussi à quatre, ce que j'interprète comme signifiant que :
 
-- The bidding starts with the player to dealer's left, who is required to bid at least 50.
+- Les enchères commencent avec le joueur à la gauche du donneur, qui doit enchérir au moins 50.
 
-- The highest bidder, after taking the "devil's pack" and discarding three cards, sets the level of the contract and leads to the first trick and plays alone against the other two players, who form a temporary partnership.
+- Le plus haut enchérisseur, après avoir pris le « paquet du diable » et écarté trois cartes, fixe le niveau du contrat et mène la première levée, jouant seul contre les deux autres joueurs qui forment une équipe temporaire.
 
-- If the contract is fulfilled, the bidder scores plus the amount of the contract, otherwise minus that amount. The other two players keep their tricks separately and each scores the number of points taken in tricks, whether the contract succeeds or not. A player who takes no tricks is "sent to Porvoo" and loses the amount of the final bid, if it succeeds. If the contract fails, an opponent of the bidder with no tricks just scores zero.
+- Si le contrat est rempli, l'enchérisseur marque plus la valeur du contrat, sinon moins ce montant. Les deux autres joueurs conservent leurs levées séparément et marquent chacun les points pris dans les levées, que le contrat réussisse ou non. Un joueur qui ne remporte aucune levée est « envoyé à Porvoo » et perd le montant de la dernière enchère, si celle-ci réussit. Si le contrat échoue, un adversaire de l'enchérisseur sans levée marque simplement zéro.
 
-- The game ends when one or more players reach a score of 500 or more and the player with the highest score wins. If there is a tie for most points a further deal is played to decide the winner.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Huutopussi
+- La partie se termine lorsqu'un ou plusieurs joueurs atteignent un score de 500 ou plus, et le joueur ayant le score le plus élevé gagne. En cas d'égalité, une donne supplémentaire est jouée pour départager.

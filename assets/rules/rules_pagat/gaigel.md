@@ -2,151 +2,149 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A four-player card game from Swabia in Southwest Germany, a relative of 66 played with a special 48-card pack.
+**But :** Jeu de cartes à quatre joueurs de Souabe, dans le sud-ouest de l'Allemagne, un parent du 66 joué avec un jeu spécial de 48 cartes.
 
 ---
 
 ## Introduction
 
-Gaigel is a relative of 66 played in Swabia in Southwest Germany with a special pack of 48 cards. It is normally played by four people in teams, two against two, but it is also possible for six people to play. The aim of the play is to take tricks containing valuable cards, and the first team that reaches 101 or more points wins. Since there are 240 points in the pack, this will usually happen before the end of the play, at which point the winning team must stop the play to claim their win.
+Le Gaigel est un parent du 66 joué en Souabe, dans le sud-ouest de l'Allemagne, avec un jeu spécial de 48 cartes. Il se joue normalement à quatre personnes en équipes, deux contre deux, mais il est aussi possible d'y jouer à six. Le but du jeu est de remporter des levées contenant des cartes de valeur, et la première équipe qui atteint 101 points ou plus gagne. Puisqu'il y a 240 points dans le jeu, cela se produit généralement avant la fin du jeu, moment auquel l'équipe gagnante doit arrêter le jeu pour réclamer sa victoire.
 
-I would like to thank Richard Pfeiffer, Gerd Wieler, Erhard Steegmüller, Rolf Mögle and Manfred Alber for the Gaigel session at the [IPCS](https://www.i-p-c-s.org/wp/home-2/) Convention in Leinfelden in September 2018. This enabled me to revise and correct this page, which was originally based mainly on the description by Claus D Grupp in his book [Doppelkopf, Schafkopf](https://amzn.to/34avVWk). 
+Je tiens à remercier Richard Pfeiffer, Gerd Wieler, Erhard Steegmüller, Rolf Mögle et Manfred Alber pour la session de Gaigel à la convention de l'[IPCS](https://www.i-p-c-s.org/wp/home-2/) à Leinfelden en septembre 2018. Cela m'a permis de réviser et corriger cette page, qui était à l'origine principalement basée sur la description de Claus D. Grupp dans son livre [Doppelkopf, Schafkopf](https://amzn.to/34avVWk).
 
-## Players and Cards
+## Joueurs et cartes
 
-Gaigel is normally played by four players in fixed partnerships, partners sitting opposite. Deal and play are counter-clockwise.
+Le Gaigel se joue normalement à quatre joueurs en partenariats fixes, les partenaires étant assis en face. La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-A 48-card pack is used. Traditionally this is a German suited pack of the Württemberg pattern with suits of hearts, bells, acorns and leaves. The cards in each suit, in rank order from high to low, are **Ace, 10, King, Ober, Unter, 7**, with two copies of each card. Packs of this composition are sold as 'Gaigel / Binokel' decks because they can also be used for **Binokel**, a Southwest German relative of the well-known American game Pinochle.
+On utilise un jeu de 48 cartes. Traditionnellement, c'est un jeu allemand du type Württemberg avec des couleurs de cœurs, cloches, glands et feuilles. Les cartes de chaque couleur, par ordre de rang du plus haut au plus bas, sont **As, 10, Roi, Ober, Unter, 7**, avec deux exemplaires de chaque carte. Les jeux de cette composition sont vendus sous le nom de jeux « Gaigel / Binokel » car ils peuvent aussi servir au **Binokel**, un parent sud-allemand du célèbre jeu américain Pinochle.
 
-If the authentic cards are not available it is of course possible to construct a substitute deck by putting together two 32-card or two 52-card decks and removing the 9's, 8's and if necessary also 6's, 5's, 4's, 3's and 2's, or even a 48-card Doppelkopf or Pinochle pack if you don't mind using 9's to represent the 7's.
+Si les cartes authentiques ne sont pas disponibles, il est bien sûr possible de constituer un jeu de remplacement en assemblant deux jeux de 32 ou 52 cartes et en retirant les 9, les 8 et si nécessaire aussi les 6, 5, 4, 3 et 2, ou même un jeu de 48 cartes de Doppelkopf ou Pinochle si on n'accepte pas d'utiliser les 9 pour représenter les 7.
 
-The cards have point values as follows:
+Les cartes ont les valeurs suivantes :
 
-| Ace (Ass / Daus / Alte / Sau) | 11 points |
-| Ten (Zehner) | 10 points |
-| King (König) | 4 points |
+| As (Ass / Daus / Alte / Sau) | 11 points |
+| 10 (Zehner) | 10 points |
+| Roi (König) | 4 points |
 | Ober | 3 points |
 | Unter | 2 points |
-| Seven (Siebener, Nixer, Dissle) | 0 points |
+| 7 (Siebener, Nixer, Dissle) | 0 points |
 
-Since the pack contains eight cards of each rank, there are 240 points in the pack altogether. Additional card points can be scored by a player who has the King and Ober of a suit in hand and declares them. The King-Ober of trumps is worth 40 points while the King-Ober of a non-trump suit scores 20 points.
+Puisque le jeu contient huit cartes de chaque rang, il y a 240 points dans le jeu au total. Des points de carte supplémentaires peuvent être marqués par un joueur qui a le Roi et l'Ober d'une couleur en main et les déclare. Le Roi-Ober d'atout vaut 40 points tandis que le Roi-Ober d'une couleur non atout vaut 20 points.
 
-## Deal
+## Distribution
 
-The partnerships and first dealer may be chosen by dealing cards to the players from the shuffled pack one at a time face up until an Ace appears. The player who receives the first ace will be the first dealer. Then further cards are dealt to the other three players until a second Ace appears, and the player who receives it is the partner of the first dealer. The turn to deal passes to the right after each hand.
+Les partenariats et le premier donneur peuvent être choisis en distribuant des cartes aux joueurs à partir du jeu mélangé, une à la fois face visible, jusqu'à ce qu'un As apparaisse. Le joueur qui reçoit le premier As sera le premier donneur. Ensuite, d'autres cartes sont distribuées aux trois autres joueurs jusqu'à ce qu'un second As apparaisse, et le joueur qui le reçoit est le partenaire du premier donneur. Le tour de distribution passe à droite après chaque main.
 
-The dealer shuffles, the player to dealer's left cuts and the dealer deals counter-clockwise a hand of five cards to each player and a card face up in the centre to indicate the trump suit. The remaining 27 cards are stacked face down crosswise on top of the trump indicator card so that its value remains visible. This stack of cards is known as the **talon**.
+Le donneur mélange, le joueur à sa gauche coupe, et le donneur distribue dans le sens inverse des aiguilles d'une montre une main de cinq cartes à chaque joueur et une carte face visible au centre pour indiquer la couleur d'atout. Les 27 cartes restantes sont empilées face cachée en croix sur la carte indicatrice d'atout pour que sa valeur reste visible. Ce tas de cartes est appelé le **talon**.
 
-The cards are dealt to the players in packets of three and two, but the exact method varies from place to place: three each, two each, then the trump indicator or three each, then the trump indicator, then two each. The player to dealer's left has the option to knock on the pack of cards instead of cutting. In this case the cards must be dealt in a single round of batches of 5 instead of in 3's and 2's.
+Les cartes sont distribuées aux joueurs par paquets de trois et deux, mais la méthode exacte varie d'un endroit à l'autre : trois chacun, puis deux chacun, puis la carte indicatrice d'atout, ou trois chacun, puis la carte indicatrice d'atout, puis deux chacun. Le joueur à la gauche du donneur a la possibilité de taper le paquet de cartes au lieu de couper. Dans ce cas, les cartes doivent être distribuées en un seul tour de paquets de 5 au lieu de 3 et 2.
 
-## Play
+## Jeu
 
-### First Trick
+### Première levée
 
-The first trick is played according to special rules. The player to dealer's right (Vorhand) leads the first card and normally has three possibilities.
+La première levée se joue selon des règles spéciales. Le joueur à la droite du donneur (Vorhand) mène la première carte et a normalement trois possibilités.
 
-- **Ge-Elfen** (eleven). Vorhand leads a non-trump Ace face up. Each of the other players in turn plays a card face up. No matter what cards they play, Vorhand wins the trick.
+- **Ge-Elfen** (onze). Vorhand mène un As non-atout face visible. Chacun des autres joueurs joue à son tour une carte face visible. Quelles que soient les cartes jouées, Vorhand remporte la levée.
 
-- **Tauchen** (diving). Vorhand leads a card face down, announcing '*Höher hat*' (higher has). The led card cannot be a trump or an Ace. Each of the other players in turn plays a card face down. All the cards are then exposed and whoever has played the highest card of the suit that was led wins the trick (in case of a tie the first played of the equal cards wins).
+- **Tauchen** (plongée). Vorhand mène une carte face cachée en annonçant « *Höher hat* » (le plus haut a). La carte menée ne peut pas être un atout ni un As. Chacun des autres joueurs joue à son tour une carte face cachée. Toutes les cartes sont alors révélées et celui qui a joué la plus haute carte de la couleur menée remporte la levée (en cas d'égalité, la première des cartes égales jouées l'emporte).
 
-- **Zweite Alte** (second Ace). Vorhand leads a non-trump Ace face down announcing '*Zweite Alte*'. Each of the other players in turn plays a card face down. If anyone has played the same Ace as Vorhand, that second Ace wins the trick. If not, Vorhand wins the trick.
+- **Zweite Alte** (deuxième As). Vorhand mène un As non-atout face cachée en annonçant « *Zweite Alte* ». Chacun des autres joueurs joue à son tour une carte face cachée. Si quelqu'un a joué le même As que Vorhand, ce deuxième As remporte la levée. Sinon, Vorhand remporte la levée.
 
-In the first trick no one is allowed to play a trump unless their hand consists entirely of trumps. If anyone is forced to play a trump, having nothing else, the trump has no effect and cannot win the trick. 
+Dans la première levée, personne n'est autorisé à jouer un atout sauf si sa main se compose entièrement d'atouts. Si quelqu'un est forcé de jouer un atout, n'ayant rien d'autre, l'atout n'a pas d'effet et ne peut pas gagner la levée.
 
-If Vorhand has 5 trumps, none of the normal opening plays is possible. In this case Vorhand leads a trump face up, and since none of the other players is allowed to play a trump Vorhand will win the trick in the same way as in 'Ge-Elfen'. The only exception would be in the extremely rare case where Vorhand and another player were dealt five trumps each: in that case the higher trump would win.
+Si Vorhand a 5 atouts, aucune des ouvertures normales n'est possible. Dans ce cas, Vorhand mène un atout face visible, et puisque aucun des autres joueurs n'est autorisé à jouer un atout, Vorhand gagnera la levée de la même manière qu'au « Ge-Elfen ». La seule exception serait dans le cas extrêmement rare où Vorhand et un autre joueur auraient reçu cinq atouts chacun : dans ce cas, l'atout le plus haut gagnerait.
 
-Anyone who plays a trump to the first trick must briefly show their hand on request to prove that they had no other option. 
+Toute personne qui joue un atout à la première levée doit brièvement montrer sa main sur demande pour prouver qu'elle n'avait pas d'autre option.
 
-### Subsequent Tricks
+### Levées suivantes
 
-After each trick, each of the players in turn, beginning with the player who won the trick, draws a card from the top of the talon and adds it to their hand so that they have 5 cards again. Then the winner of the trick leads any card (face up) to the next trick, and each of the other players plays a card face up. 
+Après chaque levée, chacun des joueurs à son tour, en commençant par le gagnant de la levée, pioche une carte du sommet du talon et l'ajoute à sa main pour avoir à nouveau 5 cartes. Ensuite, le gagnant de la levée mène n'importe quelle carte (face visible) à la levée suivante, et chacun des autres joueurs joue une carte face visible.
 
-So long as there are cards in the talon, any card may be played to a trick: there is no obligation to follow suit or to trump. If any trumps are played, the trick is won by the highest trump. If no trumps are played it is won by the highest card of the suit led. If two equally high cards are played, the card played earlier wins.
+Tant qu'il y a des cartes dans le talon, n'importe quelle carte peut être jouée à une levée : il n'y a aucune obligation de suivre la couleur ou d'atouter. Si des atouts sont joués, la levée est remportée par le plus haut atout. Si aucun atout n'est joué, elle est remportée par la plus haute carte de la couleur menée. Si deux cartes de même valeur sont jouées, la carte jouée en premier l'emporte.
 
-When there are only four cards left in the talon, these are drawn as usual, the last being the face up trump indicator card which is drawn by the left hand opponent of the trick winner. After this the rules of play change. When there are no cards in the talon players must follow suit if possible. If they have no card of the suit led they must trump. Subject to those rules they must beat the highest card so far played to the trick if possible. 
+Lorsqu'il ne reste que quatre cartes dans le talon, elles sont piochées comme d'habitude, la dernière étant la carte indicatrice d'atout face visible, piochée par l'adversaire de gauche du gagnant de la levée. Après cela, les règles de jeu changent. Lorsqu'il n'y a plus de cartes dans le talon, les joueurs doivent suivre la couleur si possible. S'ils n'ont pas de carte de la couleur menée, ils doivent atouter. Sous réserve de ces règles, ils doivent battre la plus haute carte jouée jusqu'à présent dans la levée si possible.
 
-### Declaring King-Ober Pairs
+### Déclaration des paires Roi-Ober
 
-A player who holds the King and Ober of the same suit in hand may declare them for 40 points if they are trumps, or 20 points if they are a non-trump suit, **provided that** the holder's team has won at least one trick. The holder of the King-Ober combination says "20" or "40" and shows the cards. A King or Ober cannot be reused for a second declaration in the same suit: to score a second pair the player would need to show the second King and the second Ober.
+Un joueur tenant le Roi et l'Ober de la même couleur en main peut les déclarer pour 40 points s'ils sont à l'atout, ou 20 points s'ils sont dans une couleur non atout, **à condition que** l'équipe du détenteur ait remporté au moins une levée. Le détenteur de la combinaison Roi-Ober dit « 20 » ou « 40 » et montre les cartes. Un Roi ou un Ober ne peut pas être réutilisé pour une seconde déclaration dans la même couleur : pour marquer une seconde paire, le joueur devrait montrer le second Roi et le second Ober.
 
-If two K-O pairs are held they can be declared at the same time. 
+Si deux paires Roi-Ober sont tenues, elles peuvent être déclarées en même temps.
 
-A King or Ober that has been played cannot be used in a declaration. So for example if your team has won no tricks so far and you hold the King and Ober of trumps, you cannot use one of these to win the trick and then also declare them as a pair. On the other hand if your partner plays an unbeatable card, guaranteeing that your team will win the trick, you can declare your pair immediately even if this is your team's first trick and you subsequently play a card of your pair to the trick.
+Un Roi ou un Ober qui a été joué ne peut pas être utilisé dans une déclaration. Ainsi, par exemple, si votre équipe n'a encore gagné aucune levée et que vous tenez le Roi et l'Ober d'atout, vous ne pouvez pas utiliser l'un d'eux pour gagner la levée puis les déclarer aussi comme paire. En revanche, si votre partenaire joue une carte imbattable, garantissant que votre équipe gagnera la levée, vous pouvez déclarer votre paire immédiatement même si c'est la première levée de votre équipe et que vous jouez ensuite une carte de votre paire à la levée.
 
-After declaring a pair, it is customary for a team to turn one card of that suit in their trick pile face up as a reminder.
+Après avoir déclaré une paire, il est de coutume qu'une équipe retourne une carte de cette couleur dans son tas de levées face visible comme rappel.
 
-### Exchanging the Seven of Trumps
+### Échange du 7 d'atout
 
-A player who is dealt or acquires a Seven of trumps (Diß) and whose team has won at least one trick can place the Seven face up under the talon, claiming the right to take trump indicator card in exchange. If the second Seven of trumps has not yet been played, the player normally leaves the trump indicator under the talon alongside the Seven rather than taking it into hand immediately. This prevents an opponent from exchanging a Seven of trumps, but if the player's partner subsequently acquires the second Seven of trumps, the first player can take back the first Seven and allow the partner to take the trump indicator. This procedure can be useful if the indicator card is a King or Ober and the partner with the second Seven can use it to declare a trump pair.
+Un joueur qui reçoit ou acquiert un 7 d'atout (Diß) et dont l'équipe a gagné au moins une levée peut placer le 7 face visible sous le talon, réclamant le droit de prendre la carte indicatrice d'atout en échange. Si le second 7 d'atout n'a pas encore été joué, le joueur laisse normalement l'indicateur d'atout sous le talon à côté du 7 plutôt que de le prendre immédiatement en main. Cela empêche un adversaire d'échanger un 7 d'atout, mais si le partenaire du joueur acquiert ensuite le second 7 d'atout, le premier joueur peut reprendre le premier 7 et permettre au partenaire de prendre l'indicateur d'atout. Cette procédure peut être utile si la carte indicatrice est un Roi ou un Ober et que le partenaire avec le second 7 peut l'utiliser pour déclarer une paire d'atout.
 
-If two opponents draw Sevens of trumps after the same trick, priority goes to the player who drew first - i.e. the one whose turn to play to the next trick comes earlier. 
+Si deux adversaires piochent des 7 d'atout après la même levée, la priorité va au joueur qui a pioché en premier — c'est-à-dire celui dont le tour de jouer à la levée suivante vient en premier.
 
-A Seven that is picked up as one of the last four cards of the talon cannot be exchanged.
+Un 7 qui est pioché comme l'une des quatre dernières cartes du talon ne peut pas être échangé.
 
-### End of the Play
+### Fin du jeu
 
-Each team tries to be the first to collect 101 or more points, counting cards taken in tricks plus points for declared King-Ober pairs. A team that reaches this total - either by winning a trick or by declaring a pair - announces "*Aus!*" (out) to end the play. If their declaration is correct they win a single game if their opponents have taken at least one trick, or a double game (*Gigackel*) if the opponents have taken no tricks. Usually one player from each team takes responsibility for collecting all tricks won by the team and keeping count of their value. 
+Chaque équipe essaie d'être la première à collecter 101 points ou plus, en comptant les cartes prises dans les levées plus les points des paires Roi-Ober déclarées. Une équipe atteignant ce total — soit en gagnant une levée, soit en déclarant une paire — annonce « *Aus !* » (fini) pour terminer le jeu. Si sa déclaration est correcte, elle gagne une partie simple si les adversaires ont pris au moins une levée, ou une partie double (*Gigackel*) si les adversaires n'ont pris aucune levée. Habituellement, un joueur de chaque équipe prend la responsabilité de collecter toutes les levées gagnées par l'équipe et de tenir le compte de leur valeur.
 
-If a team declares "*Aus!*" and it turns out that they have fewer than 101 points, play still ends and the opponents win a double game. This is called "*untergaigeln*" (undergaigling).
+Si une équipe annonce « *Aus !* » et qu'il s'avère qu'elle a moins de 101 points, le jeu s'arrête quand même et les adversaires gagnent une partie double. Cela s'appelle « *untergaigeln* » (sous-gaigeler).
 
-If a team has 101 or more points and fails to declare "*Aus!*" but instead plays a card to the next trick, they are guilty of "*übergaigeln*" (overgaigling). If the opponents notice this and correctly accuse them of it, the overgaiglers lose a double game.
+Si une équipe a 101 points ou plus et omet de déclarer « *Aus !* » mais joue une carte à la levée suivante, elle se rend coupable de « *übergaigeln* » (sur-gaigeler). Si les adversaires s'en aperçoivent et les accusent correctement, les sur-gaigleurs perdent une partie double.
 
-Note that since there are 240 points in the pack, plus possible points for King-Ober pairs, one team or the other will always reach 101. 
+Notez que puisque le jeu contient 240 points, plus les points possibles pour les paires Roi-Ober, une équipe ou l'autre atteindra toujours 101.
 
-## Scoring
+## Décompte
 
-The score can be kept using tokens, such as beer mats, which begin in a central pool. The number of tokens, for example 10, will determine the length of the game. In each deal, the losing team is given a token, or two tokens for a double game. When all the tokens have been distributed, the winners of each subsequent game put a token back into the pool, or two tokens for a double game. The first team to get rid of all its tokens in this second part of the session is the overall winner.
+Le score peut être conservé avec des jetons, comme des sous-bocks, qui commencent dans un tas central. Le nombre de jetons, par exemple 10, détermine la durée de la partie. À chaque donne, l'équipe perdante reçoit un jeton, ou deux jetons pour une partie double. Quand tous les jetons ont été distribués, les gagnants de chaque partie suivante remettent un jeton dans le tas, ou deux jetons pour une partie double. La première équipe à se débarrasser de tous ses jetons dans cette seconde partie de la session est la gagnante globale.
 
-Alternatively, the score can be kept on a slate or on paper. Two lines are drawn, one for each team, extending outward from a central circle. The losers of each game draw a short stroke **I** across their scoring line, or a **V** for a double loss (*Gigackel*). Then, after the agreed number of losses have been recorded, the winners of each game erase one stroke or one arm of a **V**, or erase two strokes for a double game, until one team wins by clearing their scoring line. On paper strokes are 'erased' by adding a further small mark across them. In the diagram below, played to 10 strokes, the left team has erased 3 of its strokes and the right team 4. The left team needs only one more game to win the match.
+Alternativement, le score peut être conservé sur une ardoise ou sur papier. Deux lignes sont tracées, une pour chaque équipe, s'étendant vers l'extérieur depuis un cercle central. Les perdants de chaque partie tracent un court trait **I** sur leur ligne de score, ou un **V** pour une double défaite (*Gigackel*). Ensuite, après que le nombre convenu de défaites a été enregistré, les gagnants de chaque partie effacent un trait ou une branche d'un **V**, ou effacent deux traits pour une partie double, jusqu'à ce qu'une équipe gagne en nettoyant sa ligne de score. Sur papier, les traits sont « effacés » en ajoutant une petite marque supplémentaire par-dessus. Sur le diagramme ci-dessous, joué en 10 traits, l'équipe de gauche a effacé 3 de ses traits et l'équipe de droite 4. L'équipe de gauche n'a besoin que d'une partie de plus pour gagner la manche.
 
-![score sheet](../images/marriage/gaigel.png)
+![feuille de score](../images/marriage/gaigel.png)
 
-Note that if 9 tokens have been given or 9 strokes marked, the next deal cannot be a double game. The losers will only be given one token or stroke for this game even if they take no tricks.
+Notez que si 9 jetons ont été donnés ou 9 traits marqués, la donne suivante ne peut pas être une partie double. Les perdants ne recevront qu'un jeton ou trait pour cette partie même s'ils ne prennent aucune levée.
 
-## Signals
+## Signaux
 
-Traditionally, players may be allowed to use visual signals to communicate with their partner, for example to indicate which suit they would like partner to lead. These vary from place to place. Typical signals are:
+Traditionnellement, les joueurs peuvent être autorisés à utiliser des signaux visuels pour communiquer avec leur partenaire, par exemple pour indiquer quelle couleur ils aimeraient que le partenaire mène. Ils varient d'un endroit à l'autre. Les signaux typiques sont :
 
-- **Bells**: tongue in cheek
+- **Cloches** : langue sur la joue
 
-- **Acorns**: scratch shoulder
+- **Glands** : gratter l'épaule
 
-- **Hearts**: hand on heart
+- **Cœurs** : main sur le cœur
 
-- **Leaves**: show tongue between lips
+- **Feuilles** : montrer la langue entre les lèvres
 
-- **Ace of trumps**: blink
+- **As d'atout** : cligner des yeux
 
-These signals are best used sparingly and discreetly, when the opponents are not paying attention. For example Vorhand's partner, if holding an Ace, might signal its suit so that Vorhand could lead it face down. This will of course go badly wrong if the second player to the trick has the other Ace of that suit and manages to intercept the signal.
+Ces signaux sont mieux utilisés avec parcimonie et discrétion, lorsque les adversaires ne font pas attention. Par exemple, le partenaire de Vorhand, s'il tient un As, pourrait signaler sa couleur pour que Vorhand puisse la mener face cachée. Cela tournera évidemment mal si le second joueur de la levée a l'autre As de cette couleur et parvient à intercepter le signal.
 
-## Six Players
+## Six joueurs
 
-There are two teams of three players, each player sitting between two opponents. The rules are exactly the same as with four players, but the play feels very different and it is quite possible for a team to win just by taking the first two tricks. Since there are only 18 cards in the talon, the talon is exhausted after the third trick. With only three opportunities to draw, it is rarely worth hanging onto a King or Ober of trumps in the hope of completing a 40-point pair: it is more generally profitable to use it to win a trick if the opportunity arises.
+Il y a deux équipes de trois joueurs, chaque joueur étant assis entre deux adversaires. Les règles sont exactement les mêmes qu'à quatre joueurs, mais le jeu est très différent et il est tout à fait possible pour une équipe de gagner simplement en prenant les deux premières levées. Puisqu'il n'y a que 18 cartes dans le talon, le talon est épuisé après la troisième levée. Avec seulement trois opportunités de piocher, il est rarement utile de conserver un Roi ou un Ober d'atout dans l'espoir de compléter une paire à 40 points : il est généralement plus rentable de l'utiliser pour gagner une levée si l'occasion se présente.
 
-## Variations
+## Variantes
 
-### Scoring
+### Décompte
 
-Other options are available for a shorter game. For example it may be agreed that the first team to give 5 tokens or strokes will win the game, or that the players will start removing tokens or strokes as soon as a team has reached 5.
+D'autres options sont disponibles pour une partie plus courte. Par exemple, il peut être convenu que la première équipe à donner 5 jetons ou traits gagnera la partie, ou que les joueurs commenceront à retirer des jetons ou traits dès qu'une équipe aura atteint 5.
 
-### Five Sevens
+### Cinq sept
 
-Some allow a player who is dealt a hand of five Sevens to show them and claim an immediate win. The cards are not played. The player's team scores a single game and the turn to deal passes to the next player.
+Certains permettent à un joueur qui reçoit une main de cinq 7 de les montrer et de réclamer une victoire immédiate. Les cartes ne sont pas jouées. L'équipe du joueur marque une partie simple et le tour de distribution passe au joueur suivant.
 
-Some allow a player who is dealt four Sevens to announce "*auf Siebener*" and hope to draw a fifth Seven before the opponents win the game with 101 points. The player plays his or her fifth card (the card that is not a Seven) to each trick. The Sevens player cannot win a trick: this player's cards have no trick-taking power even if they are trumps. 
+Certains permettent à un joueur qui reçoit quatre 7 d'annoncer « *auf Siebener* » et d'espérer piocher un cinquième 7 avant que les adversaires ne gagnent la partie avec 101 points. Le joueur joue sa cinquième carte (celle qui n'est pas un 7) à chaque levée. Le joueur aux 7 ne peut pas gagner de levée : ses cartes n'ont aucun pouvoir de prise de levée même si ce sont des atouts.
 
-Some allow a player to try to collect five Sevens without previous announcement. In this variant the Sevens player may win tricks if the card that they play happens to beat the other played cards. This version of the rule is easy to understand: the rule is just that any player who at any stage in the game has a hand of five Sevens can stop the game and win.
+Certains permettent à un joueur d'essayer de collecter cinq 7 sans annonce préalable. Dans cette variante, le joueur aux 7 peut gagner des levées si la carte qu'il joue bat les autres cartes jouées. Cette version de la règle est facile à comprendre : la règle est simplement que tout joueur qui, à n'importe quel stade du jeu, a une main de cinq 7 peut arrêter le jeu et gagner.
 
-The [Wikipedia Gaigel page](https://de.wikipedia.org/wiki/Gaigel) gives a five Sevens (*fünf Siebener*) rule as in the main description above, but also another version called "*Auf Dissle*" which is listed as though it were only an option for Vorhand, though there seems to be no reason why other players should not attempt it. The player who announces "*Auf Dissle!*" has four Sevens, plays the fifth card to each trick and this card has its normal power, but the player must not win any tricks. So if the *Auf Dissle* player unluckily draws a high trump and wins a trick with it, his or her team has immediately lost the game. Although the Wikipedia page does not say so, presumably *fünf Siebener* and *auf Dissle* are alternative variants - it would make little sense to have both options in the same game.
+La [page Wikipedia du Gaigel](https://de.wikipedia.org/wiki/Gaigel) donne une règle des cinq 7 (*fünf Siebener*) comme dans la description principale ci-dessus, mais aussi une autre version appelée « *Auf Dissle* » qui est listée comme si elle n'était une option que pour Vorhand, bien qu'il ne semble y avoir aucune raison pour que les autres joueurs ne puissent pas la tenter. Le joueur qui annonce « *Auf Dissle !* » a quatre 7, joue la cinquième carte à chaque levée et cette carte a son pouvoir normal, mais le joueur ne doit gagner aucune levée. Ainsi, si le joueur *Auf Dissle* tire malencontreusement un atout élevé et gagne une levée avec, son équipe a immédiatement perdu la partie. Bien que la page Wikipedia ne le dise pas, *fünf Siebener* et *auf Dissle* sont probablement des variantes alternatives — il aurait peu de sens d'avoir les deux options dans la même partie.
 
-### Five of a Suit
+### Cinq d'une couleur
 
-Grupp mentions a variant in which a player can announce "*Auf Farbe!*" and try to collect five cards of the same suit, winning a single game for the team if successful. The suit does not need to be announced. My impression is that this would be too easy to do: there are 12 cards in each suit as compared to just 8 Sevens, and moreover four suits to choose from. It would however solve the five trumps problem in that the player who was dealt five trumps could claim an immediate win for *auf Farbe*.
+Grupp mentionne une variante dans laquelle un joueur peut annoncer « *Auf Farbe !* » et essayer de collecter cinq cartes de la même couleur, gagnant une partie simple pour l'équipe en cas de réussite. La couleur n'a pas besoin d'être annoncée. Mon impression est que ce serait trop facile à faire : il y a 12 cartes dans chaque couleur contre seulement 8 sept, et de plus quatre couleurs au choix. Cela résoudrait cependant le problème des cinq atouts, car le joueur qui aurait reçu cinq atouts pourrait réclamer une victoire immédiate pour *auf Farbe*.
 
-### Three players
+### Trois joueurs
 
-Many sources indicate that a three-player game is possible, but it is not completely clear how to score. One idea would be that in the first part of the match if one player is "*Aus*" the other two each get a stroke on their scoring line (or two if they have no tricks) while in the second part only the winner erases a stroke. Note that it is possible that in some hands none of the players will reach 101 points. 
+De nombreuses sources indiquent qu'un jeu à trois joueurs est possible, mais il n'est pas complètement clair comment compter. Une idée serait que dans la première partie de la manche, si un joueur est « *Aus* », les deux autres obtiennent chacun un trait sur leur ligne de score (ou deux s'ils n'ont aucune levée) tandis que dans la seconde partie seul le gagnant efface un trait. Notez qu'il est possible que dans certaines mains, aucun des joueurs n'atteigne 101 points.
 
-This archive page from the [SKV Rutesheim](https://web.archive.org/web/20180527023305/https://www.skv-rutesheim.de/fussballabteilung/gaigel2.html) gives a summary of rules for a tournament with three-player tables. In this case a three-player format with everyone playing for themselves is preferred so that the tournament can have a single winner. The alternative of four-player tables with changing partnerships would be unsatisfactory because of a possible conflict of interest for the partner of a player who was in contention for the first prize. In the SKV Rutesheim tournament three sessions of 10 deals are played. 9 game points are awarded in each deal, shared between the players according to the number of card points taken by each. Normally the winner of the deal scores 5 game points, the second player 3 game points and the player with fewest card points scores 1 game point. A player who takes no tricks or overgaigels scores 0 game points while the others score 6 and 3. If two players score 0 the third player is awarded all 9 game points for the deal. In case of a tie for card points, the players involved in the tie cut cards to decide their positions. Presumably if no player reaches 101 points the cards are played to the end and the game point scores are as usual, the player with most card points being the winner.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Gaigel
+Cette page d'archive du [SKV Rutesheim](https://web.archive.org/web/20180527023305/https://www.skv-rutesheim.de/fussballabteilung/gaigel2.html) donne un résumé des règles pour un tournoi avec des tables à trois joueurs. Dans ce cas, un format à trois joueurs avec chacun jouant pour soi est préféré pour que le tournoi puisse avoir un gagnant unique. L'alternative de tables à quatre avec partenariats changeants serait insatisfaisante en raison d'un possible conflit d'intérêts pour le partenaire d'un joueur en lice pour le premier prix. Au tournoi du SKV Rutesheim, trois sessions de 10 donnes sont jouées. 9 points de partie sont attribués à chaque donne, partagés entre les joueurs selon le nombre de points de carte pris par chacun. Normalement, le gagnant de la donne marque 5 points de partie, le deuxième joueur 3 points et le joueur avec le moins de points de carte marque 1 point. Un joueur qui ne prend aucune levée ou sur-gaigèle marque 0 point de partie tandis que les autres marquent 6 et 3. Si deux joueurs marquent 0, le troisième joueur reçoit les 9 points de la donne. En cas d'égalité pour les points de carte, les joueurs concernés par l'égalité tirent des cartes pour déterminer leurs positions. Presque, si aucun joueur n'atteint 101 points, les cartes sont jouées jusqu'à la fin et les scores de points de partie sont comme d'habitude, le joueur avec le plus de points de carte étant le gagnant.

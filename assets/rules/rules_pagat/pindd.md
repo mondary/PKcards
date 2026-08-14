@@ -2,257 +2,211 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A popular North American card game with 80 cards, and some of its variants.
+**But :** Un jeu de cartes nord-américain populaire avec 80 cartes, et certaines de ses variantes.
 **Autres noms :** Kurnik
 
 ---
 
-*This page has been put together from various sources, including information collected by John Hay, and contributions from Toby Thomas and Jim Davis.*
+*Cette page a été constituée à partir de diverses sources, y compris des informations collectées par John Hay, et des contributions de Toby Thomas et Jim Davis.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players; partners sit across from each other.
+Il y a quatre joueurs ; les partenaires sont assis en face l'un de l'autre.
 
-The deck consists of 80 cards, containing **A 10 K Q J** in each of the four suits, and with four identical copies of each card. This deck can be formed by mixing together two normal Pinochle decks, having thrown out the nines, or from four regular 52 card decks from which you throw out all the numerals 2 to 9.
+Le jeu se compose de 80 cartes, contenant **A 10 R D V** dans chacune des quatre couleurs, avec quatre exemplaires identiques de chaque carte. Ce jeu peut être formé en mélangeant deux jeux de Pinochle normaux dont on a retiré les neufs, ou à partir de quatre jeux standards de 52 cartes dont on retire tous les chiffres du 2 au 9.
 
-## Idea of the Game
+## Principe du jeu
 
-After the deal there is an auction in which players bid the number of points their team will try to win. Whoever bids highest has the privilege of choosing trumps and leading to the first trick. The object of the high bidder's team is to win at least as many points as the amount they bid. Points can be scored in two ways: 
+Après la distribution, il y a un appel d'offres dans lequel les joueurs enchérissent le nombre de points que leur équipe essaiera de gagner. Celui qui enchérit le plus haut a le privilège de choisir l'atout et de mener au premier pli. L'objectif de l'équipe du plus haut enchérisseur est de gagner au moins autant de points que le montant de son enchère. Les points peuvent être marqués de deux façons :
 
-- by declaring and showing *(melding)* combinations of cards held in a players hand;
+- en déclarant et montrant *(meld)* des combinaisons de cartes détenues dans la main d'un joueur ;
 
-- by winning aces, tens and kings in tricks
+- en gagnant des as, des dix et des rois dans les plis
 
-The game is won by the first partnership to achieve a score of 500 or more. If both sides reach 500 on the same hand, the bidding side wins.
+La partie est gagnée par le premier partenariat à atteindre un score de 500 ou plus. Si les deux côtés atteignent 500 sur la même donne, le côté ayant fait l'enchère gagne.
 
-## Deal
+## Distribution
 
-Deal and play are clockwise. All the cards are dealt to the players, so that everyone has 20. Dealing practice varies; common methods are 4 cards at a time, 5 cards at a time, or 2 cards to each player, and the remainder 3 at a time.
+La distribution et le jeu se font dans le sens horaire. Toutes les cartes sont distribuées aux joueurs, de sorte que chacun en a 20. Les pratiques de distribution varient ; les méthodes courantes sont 4 cartes à la fois, 5 cartes à la fois, ou 2 cartes à chaque joueur puis le reste 3 à la fois.
 
-## Rank and Value of Cards
+## Rang et valeur des cartes
 
-In each suit the cards rank, from highest to lowest, Ace, Ten, King, Queen, Jack. At the end of the play, each side counts the points they have taken in tricks. Each Ace, Ten and King is worth one point, and the team who win the last trick get an extra 2 points. Hence there are a total of 50 points available for tricks.
+Dans chaque couleur, les cartes se classent, du plus haut au plus bas : As, Dix, Roi, Dame, Valet. À la fin du jeu, chaque côté compte les points pris dans les plis. Chaque As, Dix et Roi vaut un point, et l'équipe qui gagne le dernier pli obtient 2 points supplémentaires. Il y a donc un total de 50 points disponibles pour les plis.
 
-## Meld
+## Meld (combinaisons)
 
-Points can be scored for certain combinations of cards in hand of one player. These combinations are called meld; they are displayed to the other players before the start of the trick play. Any meld can be single (just one of each card), double (two identical copies of each card), triple (three of each card) or quadruple (all four of each card). 
+Des points peuvent être marqués pour certaines combinaisons de cartes dans la main d'un joueur. Ces combinaisons sont appelées meld ; elles sont montrées aux autres joueurs avant le début du jeu de plis. Tout meld peut être simple (un exemplaire de chaque carte), double (deux exemplaires identiques), triple (trois de chaque carte) ou quadruple (les quatre de chaque carte).
 
-There are three types of meld. Any particular card can only belong to one meld of each type. The point scores for meld are given in the following table:
+Il y a trois types de meld. Une carte donnée ne peut appartenir qu'à un seul meld de chaque type. Les scores de points pour le meld sont donnés dans le tableau suivant :
 
-| Type | Combination | Single | Double | Triple | Quadruple |
-| Type I Runs and Marriages | Run - Ace, Ten, King, Queen, Jack of trumps | 15 | 150 | 225 | 300 |
-| Royal Marriage - King and Queen of trumps | 4 | 8 | 12 | 16 |
-| Marriage - Kings and Queen of the same suit, not trumps | 2 | 4 | 6 | 8 |
-| Note: A run in a suit other than trumps is not worth anything more than the marriage score for the king and queen. |
-| Type II - Pinochles | Pinochle - Jack of diamonds & Queen of spades | 4 | 30 | 60 | 90 |
-| Type III Arounds | Aces around - An Ace in each suit | 10 | 100 | 150 | 200 |
-| Kings around - A King in each suit | 8 | 80 | 120 | 160 |
-| Queens around - A Queen in each suit | 6 | 60 | 90 | 120 |
-| Jacks around - A Jack in each suit | 4 | 40 | 60 | 80 |
-| Note: A set of tens is not worth anything in meld. |
+| Type | Combinaison | Simple | Double | Triple | Quadruple |
+| Type I Suites et mariages | Suite - As, Dix, Roi, Dame, Valet d'atout | 15 | 150 | 225 | 300 |
+| Mariage royal - Roi et Dame d'atout | 4 | 8 | 12 | 16 |
+| Mariage - Roi et Dame de la même couleur, non atout | 2 | 4 | 6 | 8 |
+| Note : Une suite dans une couleur autre que l'atout ne vaut rien de plus que le score du mariage pour le roi et la dame. |
+| Type II - Pinochles | Pinochle - Valet de carreau & Dame de pique | 4 | 30 | 60 | 90 |
+| Type III Carrés | As - Un As dans chaque couleur | 10 | 100 | 150 | 200 |
+| Rois - Un Roi dans chaque couleur | 8 | 80 | 120 | 160 |
+| Dames - Une Dame dans chaque couleur | 6 | 60 | 90 | 120 |
+| Valets - Un Valet dans chaque couleur | 4 | 40 | 60 | 80 |
+| Note : Un ensemble de dix ne vaut rien en meld. |
 
-**Example:** with hearts as trump, the following hand: 
+**Exemple :** avec les cœurs comme atout, la main suivante :
 
-**![heart](../images/internat/heart.gif)A 10 K K K Q Q J
+**![cœur](../images/internat/heart.gif)A 10 R R R D D V
 
-![diamond](../images/internat/diamond.gif)Q Q J
+![carreau](../images/internat/diamond.gif)D D V
 
-![club](../images/internat/club.gif)Q Q
+![trèfle](../images/internat/club.gif)D D
 
-![spade](../images/internat/spade.gif)A K K Q Q J J**
-scores 87 for meld: a run (15), a royal marriage (4), a double marriage in spades (4), a pinochle (4) and double queens around (60). There is only one royal marriage as one king and one queen of hearts are already used for the run, and the remaining queen can only marry one of the remaining kings. Notice, however, that one of the queens of spades is simultaneously used in the spade marriage, the pinochle and the around - this is allowed because these melds are all of different types. 
+![pique](../images/internat/spade.gif)A R R D D V V**
+marque 87 en meld : une suite (15), un mariage royal (4), un mariage double à pique (4), un pinochle (4) et des dames doubles (60). Il n'y a qu'un seul mariage royal car un roi et une dame de cœurs sont déjà utilisés pour la suite, et la dame restante ne peut se marier qu'avec un des rois restants. Remarquez cependant que l'une des dames de pique est utilisée simultanément dans le mariage à pique, le pinochle et le carré — c'est autorisé car ces melds sont tous de types différents.
 
-## The Bidding
+## Les enchères
 
-The person to the left of the dealer bids first. The opening bid must be at least 50, but may be higher. You may bid by ones until you reach 60; bids above 60 must be multiples of 5 (65, 70, 75 etc.). Turn to bid proceeds clockwise. Each bid must be higher than the previous one, but a player who does not wish to bid can pass. If the first three players all pass, the dealer is forced to bid 50. Once you pass you cannot re-enter the bidding on a later turn. The bidding continues for as many rounds as necessary until three players have passed. Whoever wins the bid (bids highest) has the right to call trump and lead.
+La personne à la gauche du donneur enchérit en premier. L'enchère d'ouverture doit être d'au moins 50, mais peut être plus élevée. On peut enchérir de 1 en 1 jusqu'à 60 ; les enchères supérieures à 60 doivent être des multiples de 5 (65, 70, 75, etc.). Le tour d'enchère se poursuit dans le sens horaire. Chaque enchère doit être supérieure à la précédente, mais un joueur qui ne souhaite pas enchérir peut passer. Si les trois premiers joueurs passent tous, le donneur est obligé d'enchérir 50. Une fois que vous avez passé, vous ne pouvez pas revenir dans l'appel d'offres à un tour ultérieur. Les enchères continuent autant de tours que nécessaire jusqu'à ce que trois joueurs aient passé. Celui qui remporte l'enchère (le plus haut enchérisseur) a le droit de nommer l'atout et de mener.
 
-## Calling Trump and Melding
+## Nommer l'atout et le meld
 
-The bidder now chooses the trump suit and announces what it is. It must be a suit in which the bidder holds at least a marriage. If the bidder does not have a marriage, the hand is not played; in this case the bidding side automatically lose the amount of their bid and neither side counts anything for meld.
+L'enchérisseur choisit maintenant la couleur d'atout et l'annonce. Ce doit être une couleur dans laquelle l'enchérisseur détient au moins un mariage. Si l'enchérisseur n'a pas de mariage, la donne n'est pas jouée ; dans ce cas, le côté ayant fait l'enchère perd automatiquement le montant de son enchère et aucun côté ne compte de meld.
 
-Once trump is called all of the players lay their meld face up on the table. A combination must be entirely within one player's hand to count. Note also that you can count the same card in melds of different types (for example a queen of spades could be part of a marriage, a pinochle and a set of queens), but not in more than one meld of the same type (so a king and two queens does not count as two marriages). Partners add together the scores for their meld and this is written down on the score sheet.
+Une fois l'atout nommé, tous les joueurs étalent leur meld face ouverte sur la table. Une combinaison doit être entièrement dans la main d'un seul joueur pour compter. Notez également que vous pouvez utiliser la même carte dans des melds de types différents (par exemple une dame de pique peut faire partie d'un mariage, d'un pinochle et d'un carré de dames), mais pas dans plus d'un meld du même type (donc un roi et deux dames ne comptent pas comme deux mariages). Les partenaires additionnent les scores de leur meld, qui est inscrit sur la feuille de score.
 
-## The Play
+## Le jeu
 
-The person who won the bid begins the play by leading to the first trick, and the others play in turn, clockwise. A trick consists of one card from each player and if it contains no trumps it is won by the highest card played of the suit led. If any trumps are played to the trick, then the highest trump wins, irrespective of any other cards in the trick. If there are two or more identical cards in a trick, the first of these cards which was played beats the others. The winner of a trick leads to the next.
+La personne qui a remporté l'enchère commence le jeu en menant au premier pli, et les autres jouent à leur tour, dans le sens horaire. Un pli se compose d'une carte de chaque joueur et, s'il ne contient pas d'atout, il est gagné par la carte la plus forte de la couleur menée. Si des atouts sont joués sur le pli, l'atout le plus fort gagne, indépendamment des autres cartes du pli. S'il y a deux cartes identiques ou plus dans un pli, la première de ces cartes jouée bat les autres. Le gagnant d'un pli mène au suivant.
 
-When leading to a trick any card may be played. Each subsequent players must follow suit if they can and must **crawl** (this means that each player must play a card which is higher in rank than the winning card that has been played to the trick so far). A player who cannot crawl (i.e. does not have a high enough card of the suit led to beat the highest so far played to the trick) must follow suit in any case, with a card that will not win the trick. 
+Lorsqu'on mène à un pli, n'importe quelle carte peut être jouée. Chaque joueur suivant doit fournir s'il le peut et doit **monter** (cela signifie que chaque joueur doit jouer une carte de rang supérieur à la carte gagnante jouée sur le pli jusqu'à présent). Un joueur qui ne peut pas monter (c'est-à-dire qui n'a pas une carte assez forte de la couleur menée pour battre la plus forte jouée jusqu'à présent) doit quand même fournir, avec une carte qui ne gagnera pas le pli.
 
-Any player who does not have any cards of the suit that was led must trump. If someone has already trumped then later players who can follow suit may play **any** card of the suit led (no card of the led suit can beat a trump). If a trick has been trumped, subsequent players who do not have the led suit either must crawl in trump, that is beat the highest trump so far played. A player who cannot follow suit and cannot beat the highest trump so far played must still play a trump, even though this trump will not be high enough to win the trick.
+Tout joueur qui n'a aucune carte de la couleur menée doit jouer atout. Si quelqu'un a déjà joué atout, les joueurs suivants qui peuvent fournir peuvent jouer **n'importe quelle** carte de la couleur menée (aucune carte de la couleur menée ne peut battre un atout). Si un pli a été coupé à l'atout, les joueurs suivants qui n'ont pas la couleur menée doivent monter à l'atout, c'est-à-dire battre l'atout le plus fort joué jusqu'à présent. Un joueur qui ne peut pas fournir et ne peut pas battre l'atout le plus fort joué jusqu'à présent doit quand même jouer un atout, même si cet atout ne sera pas assez fort pour gagner le pli.
 
-A player who has no card of the suit led and no trumps may play any card.
+Un joueur qui n'a pas de carte de la couleur menée et pas d'atout peut jouer n'importe quelle carte.
 
-## Scoring
+## Décompte des points
 
-When all the cards have been played, each team counts the points in the tricks they have won. If the bidding side took in meld and tricks at least as many points as they bid, then both teams add the points they made to their cumulative score.
+Une fois toutes les cartes jouées, chaque équipe compte les points dans les plis qu'elle a gagnés. Si le côté ayant fait l'enchère a obtenu en meld et en plis au moins autant de points que son enchère, les deux équipes ajoutent les points obtenus à leur score cumulatif.
 
-If the bidding partnership does not "make" the bid (i.e. their meld and trick points do not equal or surpass their bid), they have been "set". In this case they score nothing for their meld and tricks, and instead the amount of their bid is subtracted from their score. The non-bidding partners get to keep their meld and trick points. 
+Si le partenariat ayant fait l'enchère ne « réalise » pas l'enchère (c'est-à-dire que ses points de meld et de plis n'égale ou ne dépasse pas son enchère), il a été « chuté ». Dans ce cas, l'équipe ne marque rien pour son meld et ses plis, et le montant de son enchère est soustrait de son score. Les partenaires n'ayant pas fait l'enchère conservent leurs points de meld et de plis.
 
-If the bidding partners know that they cannot make the bid before play begins, they may call trump and throw in their hand. In this case they score nothing for their meld and their bid is subtracted from their score. The non-bidding partners add their meld points to their score. This allows the bidding partners to avoid losing the trick points to their opponents.
+Si les partenaires ayant fait l'enchère savent qu'ils ne peuvent pas réaliser l'enchère avant le début du jeu, ils peuvent nommer l'atout et jeter leur donne. Dans ce cas, ils ne marquent rien pour leur meld et leur enchère est soustraite de leur score. Les partenaires n'ayant pas fait l'enchère ajoutent leurs points de meld à leur score. Cela permet aux partenaires ayant fait l'enchère d'éviter de perdre les points de plis au profit de leurs adversaires.
 
-## Bidding Systems
+## Systèmes d'enchères
 
-It is sensible to use the bids to convey information about what melds are held. In variations with card passing, bids can also be used to indicate what cards you would like your partner to pass. Details of bidding systems vary greatly, and there is no standard that I know of, so the systems below should be taken only as examples. If anyone would like to let me know about their preferred bidding systems, or systems that they regard as standard in some way, I would be happy to add them to this page.
+Il est judicieux d'utiliser les enchères pour transmettre des informations sur les melds détenus. Dans les variantes avec échange de cartes, les enchères peuvent aussi servir à indiquer quelles cartes vous aimeriez que votre partenaire vous passe. Les détails des systèmes d'enchères varient considérablement, et il n'y a pas de standard que je connaisse, les systèmes ci-dessous ne doivent donc être pris que comme des exemples.
 
-The systems that are possible or sensible are clearly affected by the version of the rules that is in operation. For example some groups do not require the bids to be in multiples of 5 above 60. Some allow extra information to be given with the bid, not just a number. Some play with with exchanging of cards between partners (see below).
+Les systèmes possibles ou judicieux sont clairement influencés par la version des règles en vigueur. Par exemple, certains groupes n'exigent pas que les enchères soient en multiples de 5 au-dessus de 60. Certains autorisent des informations supplémentaires avec l'enchère, pas seulement un nombre. Certains jouent avec un échange de cartes entre partenaires (voir ci-dessous).
 
-A common system, at least for bids up to 60, is to use skip bids to indicate meld and encourage your partner to make trumps. An opening bid of 50 shows a desire to make trumps. Opening 51 indicates that some aces are held in other suits. Opening 52 or more shows meld: 10 points for each point over 50 - so 52 shows 20 meld, 53 shows 30 meld, etc. Subsequent bidders can show meld by the number of points they skip. Bidding just 1 more than the previous bidder indicates that you want to make trump. Increasing the bid by 2 or more shows 10 meld for each point of increase. So if a player opens 52 (indicating 20 meld), the next player might bid 55 - 3 more than 52 showing 30 meld - and so on.
+Un système courant, du moins pour les enchères jusqu'à 60, est d'utiliser des enchères sautées pour indiquer le meld et encourager son partenaire à faire l'atout. Une enchère d'ouverture de 50 montre le désir de faire l'atout. L'ouverture de 51 indique que des as sont détenus dans d'autres couleurs. L'ouverture de 52 ou plus montre le meld : 10 points pour chaque point au-dessus de 50 — donc 52 montre 20 de meld, 53 montre 30 de meld, etc. Les enchérisseurs suivants peuvent montrer le meld par le nombre de points qu'ils sautent. Enchérir d'un seul point de plus que l'enchérisseur précédent indique que vous voulez faire l'atout. Augmenter l'enchère de 2 ou plus montre 10 points de meld pour chaque point d'augmentation. Ainsi, si un joueur ouvre à 52 (indiquant 20 de meld), le joueur suivant pourrait enchérir à 55 — 3 de plus que 52, montrant 30 de meld — et ainsi de suite.
 
-Here is another system, contributed by Jim Davis. This is for use in a game where any number from 50 up can be bid, and in which four cards are passed:
+Voici un autre système, contribué par Jim Davis. Il est destiné à être utilisé dans un jeu où n'importe quel nombre à partir de 50 peut être enchéri, et dans lequel quatre cartes sont échangées :
 
-| 50 | ... | Opening Bid |
-| 51 | ... | Not yet ready to "Pass" |
-| 52 | ... | I have some meld |
-| 53 | ... | I have several parts of Pinochle (J's or Q's) |
-| 55 | ... | I need Jacks of all suits |
-| 54, 64, 74, etc. | ... | I need a Jack |
-| 56, 66, 76, etc. | ... | I need a Queen |
-| 58, 68, 78, etc. | ... | I need a King |
-| 59, 69, 79, etc. | ... | I need a Ten |
-| 60, 70, 80, etc. | ... | I need an Ace |
-| Jump ahead to 66 | ... | I need Queens of all suits |
-| Jump ahead to 80 or 88 | ... | I need Kings of all suits |
-| Jump ahead to 100 | ... | I need Aces of all suits |
+| 50 | ... | Enchère d'ouverture |
+| 51 | ... | Pas encore prêt à « passer » |
+| 52 | ... | J'ai du meld |
+| 53 | ... | J'ai plusieurs parties d'un Pinochle (V ou D) |
+| 55 | ... | J'ai besoin de valets de toutes les couleurs |
+| 54, 64, 74, etc. | ... | J'ai besoin d'un valet |
+| 56, 66, 76, etc. | ... | J'ai besoin d'une dame |
+| 58, 68, 78, etc. | ... | J'ai besoin d'un roi |
+| 59, 69, 79, etc. | ... | J'ai besoin d'un dix |
+| 60, 70, 80, etc. | ... | J'ai besoin d'un as |
+| Sauter à 66 | ... | J'ai besoin de dames de toutes les couleurs |
+| Sauter à 80 ou 88 | ... | J'ai besoin de rois de toutes les couleurs |
+| Sauter à 100 | ... | J'ai besoin d'as de toutes les couleurs |
 
-During the bidding process jump ahead to the next appropriate number that will give your partner a necessary clue as to what to pass if you were to win the bid. Notice that you have to be careful about the possible confusion between (say) 80 asking for an ace and 80 asking for all kings. If the bidding is in the low 70's and you want to ask for all kings, you should jump to 88 to make this clear. In this case 80, being the next available bid ending in '0', would be a request for an ace. 
+Pendant le processus d'enchères, sautez au prochain nombre approprié qui donnera à votre partenaire un indice nécessaire sur ce qu'il doit vous passer si vous deviez remporter l'enchère. Notez qu'il faut faire attention à la confusion possible entre (par exemple) 80 demandant un as et 80 demandant tous les rois. Si l'appel d'offres est dans les 70 et que vous voulez demander tous les rois, vous devriez sauter à 88 pour que ce soit clair. Dans ce cas, 80, étant la prochaine enchère disponible se terminant par « 0 », serait une demande d'as.
 
-## Variations
+## Variantes
 
-Double Deck Pinochle has apparently been played since the 1940's. Many different versions have developed, and there is no universally accepted standard. Here are some fairly widespread variations.
+Le Pinochle à double jeu est apparemment joué depuis les années 1940. De nombreuses versions différentes se sont développées, et il n'y a pas de standard universellement accepté. Voici quelques variantes assez répandues.
 
-### Variations in Bidding Procedure
+### Variantes dans la procédure d'enchères
 
-Some players allow any number to be bid from 50 up. Some play that bids above 100 must be in multiples of 10.
+Certains joueurs autorisent n'importe quel nombre à enchérir à partir de 50. Certains jouent que les enchères supérieures à 100 doivent être en multiples de 10.
 
-Some play that the bidding goes around once only - each player has just one chance to speak. Some play that it goes around twice only (but if you pass the first time you cannot bid the second time).
+Certains jouent que les enchères ne font qu'un tour — chaque joueur n'a qu'une seule chance de parler. Certains jouent que l'appel d'offres fait deux tours seulement (mais si vous passez la première fois, vous ne pouvez pas enchérir la deuxième fois).
 
-Some players allow extra information to be given during the bidding - not just the numbers. This normally takes the form of information about meld held. It is generally agreed that it is illegal to direct attention to any particular suit.
+Certains joueurs autorisent des informations supplémentaires pendant les enchères — pas seulement des nombres. Cela prend généralement la forme d'informations sur le meld détenu. Il est généralement admis qu'il est interdit d'attirer l'attention sur une couleur en particulier.
 
-### Exchanging Cards and Choosing Trumps
+### Échange de cartes et choix de l'atout
 
-A common variation allows cards to be exchanged between the partners on the bidding side. This usually happens immediately after the dealer has chosen trumps. It has the general effect of leading to higher melds and therefore higher bidding.
-The high bidder and partner must simultaneously pass three cards to each other face down across the table. They are not allowed to look at the cards passed to them before they have chosen and placed on the table the cards they are going to pass.
+Une variante courante autorise l'échange de cartes entre les partenaires du côté ayant fait l'enchère. Cela se produit généralement immédiatement après que le donneur a choisi l'atout. Cela a pour effet général de conduire à des melds plus élevés et donc à des enchères plus hautes.
+Le plus haut enchérisseur et son partenaire doivent passer simultanément trois cartes face cachée à travers la table. Ils n'ont pas le droit de regarder les cartes qu'ils reçoivent avant d'avoir choisi et posé sur la table les cartes qu'ils vont passer.
 
-The rule requiring the bidder to have at least a marriage in the trump suit is not always followed. Some do not require a trump marriage at all. Some play that it is sufficient for the bidder to have a marriage after the exchange of cards.
+La règle exigeant que l'enchérisseur ait au moins un mariage dans la couleur d'atout n'est pas toujours suivie. Certains n'exigent pas de mariage d'atout du tout. Certains jouent qu'il suffit que l'enchérisseur ait un mariage après l'échange de cartes.
 
-Some play that other numbers of cards are passed - the number ranging from one to four depending on the variation. 
+Certains jouent qu'un autre nombre de cartes est passé — le nombre allant de un à quatre selon la variante.
 
-Some play that the bidder's partner passes cards first. The bidder looks at these and then passes back an equal number of cards (possibly including some of the cards just received).
+Certains jouent que c'est le partenaire de l'enchérisseur qui passe ses cartes en premier. L'enchérisseur les regarde puis repasse le même nombre de cartes (éventuellement y compris certaines des cartes qu'il vient de recevoir).
 
-Some play that the exchange of cards occurs before the trump suit is announced. In that case the bidder may be allowed to suggest a suit in which she would like to receive cards (possibly different from the eventual trump suit).
+Certains jouent que l'échange de cartes a lieu avant que la couleur d'atout ne soit annoncée. Dans ce cas, l'enchérisseur peut être autorisé à suggérer une couleur dans laquelle il aimerait recevoir des cartes (éventuellement différente de l'atout final).
 
-### Variations in scoring
+### Variantes de décompte
 
-**Multiple meld scores**
-These vary quite a lot. Many books give a lower score of 45 for triple pinochle but a higher score of 300 for quadruple pinochle (instead of 60 and 90). I have been told that some of the on-line Pinochle servers, such as Yahoo, also follow this system. Book versions also tend to give no bonus for a multiple run, so that a double run counts 30, a triple run 45, and a quadruple run 60.
-On the other hand some players increase the scores for all triple and quadruple melds. Toby Thomas's variation (below) is an example of this.
+**Scores de melds multiples**
+Ceux-ci varient considérablement. De nombreux livres donnent un score plus bas de 45 pour le pinochle triple mais un score plus élevé de 300 pour le pinochle quadruple (au lieu de 60 et 90). On m'a dit que certains serveurs de Pinochle en ligne, comme Yahoo, suivaient également ce système. Les versions imprimées ont également tendance à ne pas donner de bonus pour une suite multiple, de sorte qu'une suite double compte 30, une suite triple 45 et une suite quadruple 60.
+D'un autre côté, certains joueurs augmentent les scores pour tous les melds triples et quadruples. La variante de Toby Thomas (ci-dessous) en est un exemple.
 **Pinochle 14**
-Some players score 14 instead of 4 for a single Pinochle. Double, triple and quadruple pinochle are still 30, 60 and 90 (information posted by Kit McCormick to rec.games.playing-cards)
-**Roundhouse**
-This consists of a king and a queen of each suit. It normally scores 24: royal marriage + 3 marriages + kings around + queens around. However some players give a roundhouse a higher score of 32. Some score a roundhouse with a run as 39 (24 + 15, allowing the royal marriage to contribute to the roundhouse as well as being part of the run). Some score a double roundhouse as 240 (it should normally be 160 = 8 + 3*4 + 80 + 60). 
-NPA meld scores
+Certains joueurs marquent 14 au lieu de 4 pour un Pinochle simple. Les pinochles double, triple et quadruple restent à 30, 60 et 90 (information publiée par Kit McCormick sur rec.games.playing-cards)
+**Tour du céleste (Roundhouse)**
+Il se compose d'un roi et d'une dame de chaque couleur. Il compte normalement 24 : mariage royal + 3 mariages + rois + dames. Cependant, certains joueurs donnent à un tour du céleste un score plus élevé de 32. Certains comptent un tour du céleste avec une suite à 39 (24 + 15, permettant au mariage royal de contribuer au tour du céleste en plus de faire partie de la suite). Certains comptent un tour du céleste double à 240 (il devrait normalement être de 160 = 8 + 3×4 + 80 + 60).
+Scores de meld NPA
 
-The National Pinochle Association (NPA) adopted higher scores for certain melds - notably 25 instead of 15 for a run and 15 instead of 4 for a single Pinochle. Details can be found in their [Tournament Rules](https://web.archive.org/web/20170204012228/www.npapinochle.org/Conf_Docs/Tournament_Rules.pdf) (archive copy).
-**Minimum 20 to score**
-Some play that meld can only be scored by a side whose meld is worth at least 20 points. Before laying down their meld each player announces its value, and if the total for a team is less than 20, they cannot lay down or score any meld for that hand. Furthermore, a team that does not take at least 20 points **in the play** cannot score anything for the hand - their meld is disregarded. 
-If the bidding side fails to reach 20 in meld they automatically lose the bid without playing, but the bidder must still name a trump suit and in this case the opposing team score their meld provided that it is worth at least 20, without the requirement to take at least 20 in tricks. If the bidding team takes less than 20 points in tricks, the bid automatically fails (however much meld they had) and their bid is subtracted from their score. 
-Opponents' score when bidder surrenders
-If it is evident before play begins that the bidding side cannot make their bid, either because the bidder does not have a marriage and so cannot make trumps, or because having made trumps, the bidding side has less than 20 meld (if playing that at least 20 is needed to score), or because their meld is more than 50 short of their bid. The bidding side just subtracts the value bid from their score, but their are several variations on what the opponents score:
+La National Pinochle Association (NPA) a adopté des scores plus élevés pour certains melds — notamment 25 au lieu de 15 pour une suite et 15 au lieu de 4 pour un Pinochle simple. Les détails se trouvent dans leurs [Règles de tournoi](https://web.archive.org/web/20170204012228/www.npapinochle.org/Conf_Docs/Tournament_Rules.pdf) (copie d'archive).
+**Minimum de 20 pour marquer**
+Certains jouent que le meld ne peut être marqué que par un côté dont le meld vaut au moins 20 points. Avant de poser leur meld, chaque joueur annonce sa valeur, et si le total pour une équipe est inférieur à 20, l'équipe ne peut pas poser ou marquer de meld pour cette donne. De plus, une équipe qui ne prend pas au moins 20 points **dans le jeu** ne peut rien marquer pour la donne — son meld est ignoré.
+Si le côté ayant fait l'enchère n'atteint pas 20 en meld, il perd automatiquement l'enchère sans jouer, mais l'enchérisseur doit toujours nommer une couleur d'atout et dans ce cas, l'équipe adverse marque son meld à condition qu'il vaille au moins 20, sans l'obligation de prendre au moins 20 en plis. Si l'équipe ayant fait l'enchère prend moins de 20 points en plis, l'enchère échoue automatiquement (quel que soit son meld) et son enchère est soustraite de son score.
+Score des adversaires quand l'enchérisseur abandonne
+S'il est évident avant le début du jeu que le côté ayant fait l'enchère ne peut pas réaliser son enchère, soit parce que l'enchérisseur n'a pas de mariage et ne peut donc pas nommer l'atout, soit parce qu'après avoir nommé l'atout, l'équipe a moins de 20 de meld (si on joue qu'il faut au moins 20 pour marquer), ou parce que son meld est plus de 50 points inférieur à son enchère. L'équipe ayant fait l'enchère soustrait simplement le montant de l'enchère de son score, mais il y a plusieurs variantes sur ce que marquent les adversaires :
 
-- The cards are not played and the opponents score nothing.
+- Les cartes ne sont pas jouées et les adversaires ne marquent rien.
 
-- The cards are not played and the opponents score their meld (if it is at least 20).
+- Les cartes ne sont pas jouées et les adversaires marquent leur meld (s'il est d'au moins 20).
 
-- The cards are not played and the opponents score 25 for cards, plus their meld (if at least 20).
+- Les cartes ne sont pas jouées et les adversaires marquent 25 pour les cartes, plus leur meld (si au moins 20).
 
-- The cards are not played and the opponents score 50 for cards, plus their meld (if at least 20).
+- Les cartes ne sont pas jouées et les adversaires marquent 50 pour les cartes, plus leur meld (si au moins 20).
 
-- If trumps have been made, the cards are played and the opponents score as usual according to the tricks they win.
+- Si l'atout a été nommé, les cartes sont jouées et les adversaires marquent comme d'habitude selon les plis gagnés.
 
-**100 aces**
-Some players multiply all the scores given above by 10 (so single aces around is worth 100). This is in fact the older way of scoring, but most people now use the lower scores given above. According to a post to rec.games.playing-cards by Mike Kelly, 100 aces scoring is found East of the Hudson River, and 10 aces elsewhere.
+**100 as**
+Certains joueurs multiplient tous les scores ci-dessus par 10 (de sorte que les as simples valent 100). C'est en fait l'ancienne façon de compter, mais la plupart des gens utilisent maintenant les scores plus bas donnés ci-dessus. Selon un message sur rec.games.playing-cards de Mike Kelly, le comptage à 100 as se trouve à l'est du fleuve Hudson, et à 10 as ailleurs.
 
-### Variation contributed by Toby Thomas
+### Variante contributée par Toby Thomas
 
-Toby Thomas writes: *"My father-in-law, Clare Masek is 81 (Oct 96) and has played pinochle for over 70 years. It seems that he lives for pinochle and as of late we have been playing his brand of double partnership pinochle."*
+Toby Thomas écrit : « Mon beau-père, Clare Masek, a 81 ans (oct. 96) et joue au pinochle depuis plus de 70 ans. On dirait qu'il vit pour le pinochle et dernièrement nous jouons à sa variante du pinochle en partenariat à double jeu. »
 
-The differences from the versions described above are as follows:
+Les différences par rapport aux versions décrites ci-dessus sont les suivantes :
 
 **Meld**
-Values for certain double, triple and quadruple melds are increased as follows:
+Les valeurs de certains melds doubles, triples et quadruples sont augmentées comme suit :
 
-| Combination | Single | Double | Triple | Quadruple |
-| Type I - runs and marriages |
-| Run in trumps | 15 | 150 | 500 | --- |
-| Royal Marriage | 4 | 30 | 60 | 240 |
-| Ordinary Marriage | 2 | 4 | 6 | 8 |
+| Combinaison | Simple | Double | Triple | Quadruple |
+| Type I - suites et mariages |
+| Suite d'atout | 15 | 150 | 500 | --- |
+| Mariage royal | 4 | 30 | 60 | 240 |
+| Mariage ordinaire | 2 | 4 | 6 | 8 |
 | Type II - pinochles |
 | Pinochle | 4 | 30 | 90 | 360 |
-| Type III - arounds |
-| Aces around | 10 | 100 | 500 | --- |
-| Kings around | 8 | 80 | 400 | --- |
-| Queens around | 6 | 60 | 300 | --- |
-| Jacks around | 4 | 40 | 200 | --- |
+| Type III - carrés |
+| As | 10 | 100 | 500 | --- |
+| Rois | 8 | 80 | 400 | --- |
+| Dames | 6 | 60 | 300 | --- |
+| Valets | 4 | 40 | 200 | --- |
 
-The treatment of Royal Marriages is a little unusual. If you have an extra Royal Marriage alongside a trump run, you are allowed to count the multiple marriage in addition to the run. For example:
+Le traitement des mariages royaux est un peu inhabituel. Si vous avez un mariage royal supplémentaire en plus d'une suite d'atout, vous êtes autorisé à compter le mariage multiple en plus de la suite. Par exemple :
 
-- A-10-K-K-Q-Q-J is worth 45 points (15 + 30)
+- A-10-R-R-D-D-V vaut 45 points (15 + 30)
 
-- A-10-K-K-K-Q-Q-Q-J is worth 75 points (15 + 60)
+- A-10-R-R-R-D-D-D-V vaut 75 points (15 + 60)
 
-- A-A-10-10-K-K-K-Q-Q-Q-J-J is worth 210 points (150 + 60)
+- A-A-10-10-R-R-R-D-D-D-V-V vaut 210 points (150 + 60)
 
-**Bidding**
-The opening bid must be at least 25. You may bid by ones until you reach 50; bids above 50 must be multiples of 5 (55, 60, 65 etc.). 
-**Card Exchange**
-Before choosing the trump suit, the high bidder receives three cards from his partner. The bidder must name a suit he would like to receive and his partner must give him 3 cards of that suit if he has them. If the partner has fewer than 3 cards of the suit requested, he must pass any cards he has in the requested suit, plus other card(s) of his choice to complete the 3 card pass. The partner passes the three cards face down to the bidder, who looks at them, adds them to his hand, and then passes any three cards back to his partner, also face down.
+**Enchères**
+L'enchère d'ouverture doit être d'au moins 25. On peut enchérir de 1 en 1 jusqu'à 50 ; les enchères supérieures à 50 doivent être des multiples de 5 (55, 60, 65, etc.).
+**Échange de cartes**
+Avant de choisir la couleur d'atout, le plus haut enchérisseur reçoit trois cartes de son partenaire. L'enchérisseur doit nommer une couleur dans laquelle il aimerait recevoir des cartes et son partenaire doit lui donner 3 cartes de cette couleur s'il les a. Si le partenaire a moins de 3 cartes de la couleur demandée, il doit passer toutes les cartes qu'il a dans la couleur demandée, plus d'autre(s) carte(s) de son choix pour compléter la passe de 3 cartes. Le partenaire passe les trois cartes face cachée à l'enchérisseur, qui les regarde, les ajoute à sa main, puis repasse trois cartes à son partenaire, également face cachée.
 
-When choosing trumps, the bidder will often name the suit he asked to be passed, but it does not have to be the same - for example the bidder may have requested a suit he needed to complete a combination, such as double aces, but intend to have a different suit as trump. 
-**Bidding System**
-Bids between 25 and 49 are used to suggest what cards should be passed. A bid ending in 6 means you would like queens, a bid ending in 8 asks for kings, a bid ending in 0 asks for tens, and a bid ending in 1 asks for aces. Other bids suggest that you want a standard book (set of cards passed) - such as a marriage and an ace. Therefore if you want the standard book you can begin by bidding 50 and shut else everyone out. 
-
-## Other Double Deck Pinochle Web Sites
-
-John Hay's [Double Pinochle](https://web.archive.org/web/20091020232507/http://geocities.com/TimesSquare/2767/double.html) page contains rules and variations, and provided a lot of the source information for this page.
-
-The [Power Pinochle](https://web.archive.org/web/20240423090706/https://www.powerpinochle.com/) site (archive copy) had some useful resources for learning the game and a forum where bidding and playing strategy are discussed. The site was down when I last checked but there is also a [Power Pinochle facebook page](https://www.facebook.com/PowerPinochle/).
-
-Here is an archive copy of Brad Wilson's former [Double Pinochle](https://web.archive.org/web/20010629224938/http://www.quality.nu/bradw/games/pinochle.html) page.
-
-Pinochle rules from an archive copy of [Chris Chapman's site](https://web.archive.org/web/20080726083148/http://members.aol.com/cnchapman/rules.htm).
-
-## Double Deck Pinochle Software and On Line Games
-
-Free [Canasis.com](http://canasis.com/pinochle/) is an online pinochle site that offers the most variations of pinochle including both single deck and double deck styles, many of the variations described above, and the ability to customize rules. With a pleasing wooden theme and many other features, it is recommended you give Canasis a try.
-
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes a Double Deck Pinochle program, along with many other popular card games.
-
-The following sites offer on-line double deck Pinochle games:
-
-- [Mystic Island](http://www.mysticisland.net) organises tournaments, including duplicate tournaments, leagues and ladders.
-
-- [CardzMania](https://www.cardzmania.com/Pinochle)
-
-- [Canasis.com](http://canasis.com/pinochle/)
-- [PlayOK Online Games](https://www.playok.com/) (formerly known as Kurnik)
-
-- [Safe Harbor Games](https://www.safeharborgames.net/)
-
-- Marya's [World of Card Games](https://worldofcardgames.com/double-deck-pinochle)
-
-- [Nidink](https://www.nidink.com/)
-
-- [Bill's Pinochle Game](https://pinochle.northwestpages.com) at northwestpages.com
-
-## WWW pages for other types of Pinochle
-
-There are separate pages on this site for:
-
-- Single Deck Partnership Pinochle
-
-- Three-handed Pinochle
-
-- Two-handed Pinochle
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Pinochle - Double Deck Partnership
+Au moment de choisir l'atout, l'enchérisseur nommera souvent la couleur qu'il a demandé de recevoir, mais cela n'a pas besoin d'être la même — par exemple, l'enchérisseur peut avoir demandé une couleur dont il avait besoin pour compléter une combinaison, comme des as doubles, mais avoir l'intention de faire d'une couleur différente l'atout.
+**Système d'enchères**
+Les enchères entre 25 et 49 servent à suggérer quelles cartes doivent être passées. Une enchère se terminant par 6 signifie que vous aimeriez des dames, une enchère se terminant par 8 demande des rois, une enchère se terminant par 0 demande des dix, et une enchère se terminant par 1 demande des as. Les autres enchères suggèrent que vous voulez un lot standard (ensemble de cartes passé) — comme un mariage et un as. Donc, si vous voulez le lot standard, vous pouvez commencer par enchérir 50 et fermer la porte à tout le monde.

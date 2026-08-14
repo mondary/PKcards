@@ -2,16 +2,14 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** Which is similar to three-player double deck Pinochle. Link to rules.
+**But :** Jeu de levées kurde avec enchères, similaire au Pinochle à double jeu à trois joueurs.
 
 ---
 
-This Kurdish trick-taking game with bidding is played in the eastern and south-eastern parts of Turkey, unofficially known as northern Kurdistan. In this area it is also known as **Nezere** or **Pinîkêr**. In Turkish, which lacks the [voiceless velar fricative](https://en.wikipedia.org/wiki/Voiceless_velar_fricative) sound /x/, the name is written as '**Hoşkin**'.
+Ce jeu de levées kurde avec enchères se joue dans les régions orientales et sud-orientales de la Turquie, officieusement appelées Kurdistan du Nord. Dans cette région, il est aussi connu sous le nom de **Nezere** ou **Pinîkêr**. En turc, qui ne possède pas la consonne fricative vélaire sourde /x/, le nom s'écrit « **Hoşkin** ».
 
-In fact Xoşkîn is almost identical to the American game of three-handed double deck Pinochle, which no doubt is the source of the alternative name 'Pinîkêr'. Since the American game is also known as 'Auction Pinochle', it seems very likely, as Levent Suberk has suggested, that the name 'Xoşkîn' is derived from the English 'Auction', probably via 'Okşin'. 
+En fait, Xoşkîn est presque identique au jeu américain de Pinochle à double jeu à trois joueurs (*three-handed double deck Pinochle*), qui est sans doute la source du nom alternatif « Pinîkêr ». Puisque le jeu américain est aussi connu sous le nom de « Auction Pinochle », il semble très probable, comme Levent Suberk l'a suggéré, que le nom « Xoşkîn » soit dérivé de l'anglais « Auction », probablement via « Okşin ».
 
-Thomas Beil has provided a description in German and English of a version of this game played by Turkish workers in Düsseldorf - you can download it here.
+Thomas Beil a fourni une description en allemand et en anglais d'une version de ce jeu jouée par des travailleurs turcs à Düsseldorf — vous pouvez la télécharger ici.
 
-For comparison, you can find a description of [3-player double deck Pinochle](https://web.archive.org/web/20151204221135/www.bicyclecards.ca/game-rules/three-hand-double-pack-pinochle/44.php?page_id=32) on this archive copy of the Bicycle (USPCC) web site.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Xoşkîn
+Pour comparaison, vous trouverez une description du [Pinochle à double jeu à 3 joueurs](https://web.archive.org/web/20151204221135/www.bicyclecards.ca/game-rules/three-hand-double-pack-pinochle/44.php?page_id=32) sur cette copie d'archive du site de Bicycle (USPCC).

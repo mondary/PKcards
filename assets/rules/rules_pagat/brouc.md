@@ -2,121 +2,119 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A French Swiss card game for 4 players using 32 cards, with extra points for combinations of K-Q or K-Q-J in a suit.
+**But :** Jeu de cartes suisse romand pour 4 joueurs avec 32 cartes, points supplémentaires pour les combinaisons R-D ou R-D-V d'une même couleur.
 
 ---
 
 - Introduction
 
-- Players and Cards
+- Joueurs et cartes
 
-cape* (all tricks)
+- cape* (toutes les levées)
 
-- Historical Rules
+- Règles historiques
 
 ## Introduction
 
-*Le Brouc* is a point-trick game for four players played in l’Etivaz
-in the Swiss canton Vaud. It belongs to the marriage group of card games, in which points are scored not only for individual cards, but also the combination of the King and Queen in a suit. Brouc differs from other games of the group in the following ways.
+*Le Brouc* est un jeu de levées comptées pour quatre joueurs pratiqué à l'Etivaz, dans le canton de Vaud en Suisse. Il appartient à la famille des jeux de mariage, dans lesquels des points sont marqués non seulement pour les cartes individuelles, mais aussi pour la combinaison du Roi et de la Dame d'une même couleur. Le Brouc se distingue des autres jeux de la famille de la manière suivante.
 
-- Extra points can scored for an "extended marriage" consisting of the King, Queen and Jack of a suit.
+- Des points supplémentaires peuvent être marqués pour un « mariage étendu » composé du Roi, de la Dame et du Valet d'une même couleur.
 
-- Marriages and extended marriages score not only when held in a player's hand but also when the cards are played to the same trick.
+- Les mariages et mariages étendus rapportent des points non seulement lorsqu'ils sont tenus en main, mais aussi lorsque les cartes sont jouées dans la même levée.
 
-The first known description of Le Brouc dates from 1802, and the game has not changed substantially since then. The authentic rules of Le Brouc as now played in l'Etivaz are published in French by the club [l'Homme de Brouc](https://brouc.ch/). The English description below represents our current understanding of these rules: any mistakes in it are our own responsibility and we will be happy to correct any errors that are pointed out to us. 
+La première description connue du Brouc date de 1802, et le jeu n'a pas substantiellement changé depuis. Les règles authentiques du Brouc, telles que pratiquées actuellement à l'Etivaz, sont publiées en français par le club [l'Homme de Brouc](https://brouc.ch/). La description ci-dessous représente notre compréhension actuelle de ces règles : toute erreur nous incombre et nous serons heureux de corriger toute erreur qui nous serait signalée.
 
-## Players, Cards and Equipment
+## Joueurs, cartes et matériel
 
-The game is for four players in two fixed partnerships, partners sitting opposite. A 32-card pack is used, obtained by throwing out the sixes from a standard Swiss French-suited pack. In each of the suits hearts, diamonds, clubs and spades, the rank of the cards from high to low and their point values are as follows:
+Le jeu se joue à quatre joueurs en deux équipes fixes, les partenaires étant assis en face. On utilise un jeu de 32 cartes, obtenu en retirant les six d'un jeu suisse standard aux enseignes françaises. Dans chacune des couleurs cœurs, carreaux, trèfles et piques, le rang des cartes, du plus haut au plus bas, et leur valeur en points sont les suivants :
 
-| Rank | Ace | 10 | King | Queen | Jack | 9 | 8 | 7 |
+| Rang | As | 10 | Roi | Dame | Valet | 9 | 8 | 7 |
 | Points | 11 | 10 | 4 | 3 | 2 | 0 | 0 | 0 |
 
-As in the national game Jass, the running score is recorded on a chalk slate.
+Comme dans le jeu national Jass, le score cumulé est enregistré sur une ardoise à la craie.
 
-Deal and play are anticlockwise.
+La distribution et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-## Marriages
+## Mariages
 
-The King-Queen of a suit is a simple marriage and the King-Queen-Jack of a suit is an extended marriage. Marriages in non-trump suits are worth 10 points per card and in trumps 20 points per card. So the point values are:
+Le Roi-Dame d'une couleur constitue un mariage simple, et le Roi-Dame-Valet d'une couleur un mariage étendu. Les mariages dans les couleurs non atout valent 10 points par carte et dans l'atout 20 points par carte. Les valeurs en points sont donc :
 
-| Marriage | non-trump | trump |
+| Mariage | non-atout | atout |
 | simple | 20 | 40 |
-| extended | 30 | 60 |
+| étendu | 30 | 60 |
 
-There are two ways to score points for a marriage.
+Il y a deux façons de marquer des points pour un mariage.
 
-- A player whose team has won at least one trick can declare a marriage (simple or extended) at any time provided that they still hold both (or all) the cards of the marriage in their hand. The score for the marriage is noted at the bottom of the slate.
+- Un joueur dont l'équipe a remporté au moins une levée peut déclarer un mariage (simple ou étendu) à tout moment, à condition de conserver les deux (ou toutes) cartes du mariage en main. Le score du mariage est noté au bas de l'ardoise.
 
-- If a trick contains cards that form a marriage, the team that wins of the trick will score for the marriage and the losers of the trick will lose an equal amount when the card points are counted. To indicate this the trick should be stored with the Queen of a simple marriage or the Jack of an extended marriage face up.
+- Si une levée contient des cartes formant un mariage, l'équipe qui remporte la levée marque les points du mariage et les perdants de la levée perdent un montant égal lors du décompte des points de cartes. Pour l'indiquer, la levée doit être conservée avec la Dame d'un mariage simple ou le Valet d'un mariage étendu face visible.
 
-Since marriages in tricks are scored positively for the winners of the trick *and* negatively for the losers, they are effectively worth twice as much as an equivalent marriage in hand, which just scores positively for the holder if declared.
+Puisque les mariages dans les levées sont comptés positivement pour les gagnants de la levée *et* négativement pour les perdants, ils valent effectivement deux fois plus qu'un mariage équivalent en main, qui ne compte que positivement pour le détenteur s'il est déclaré.
 
-Marriages in hand that are not declared and recorded on the slate and marriages in tricks that are not indicated by storing a card face up have no value and are not scored.
+Les mariages en main qui ne sont pas déclarés et enregistrés sur l'ardoise, ainsi que les mariages dans les levées qui ne sont pas indiqués par une carte face visible, n'ont aucune valeur et ne sont pas comptés.
 
-## Deal and Trumps
+## Distribution et atouts
 
-The first dealer is chosen by any convenient random method, and the turn to deal passes to the right after each hand.
+Le premier donneur est choisi par la méthode aléatoire la plus pratique, et le tour de distribution passe à droite après chaque main.
 
-The dealer shuffles, the player to dealer's left cuts the cards, and the dealer deals anticlockwise, first 1 card each, then a packet of 3 cards each, and finally a packet of 4 cards each, so that everyone has a hand of 8 cards.
+Le donneur mélange, le joueur à la gauche du donneur coupe, et le donneur distribue dans le sens inverse des aiguilles d'une montre, d'abord une carte à chacun, puis un paquet de trois cartes à chacun, et enfin un paquet de quatre cartes à chacun, de sorte que chacun a une main de 8 cartes.
 
-The trump suit is determined by the last card of the deck, which belongs to the dealer. This trump indicator card is placed face up on the table for all to see.
+La couleur d'atout est déterminée par la dernière carte du paquet, qui appartient au donneur. Cette carte indicatrice d'atout est placée face visible sur la table pour que tout le monde la voie.
 
-## Play of the Cards
+## Jeu des cartes
 
-The player to dealer's right leads to the first trick. Any card may be led and players must follow suit if possible. A trick that contains no trumps is won by the highest card of the suit led. If any trumps are played the highest trump wins. The winner of each trick leads to the next.
+Le joueur à la droite du donneur entame la première levée. N'importe quelle carte peut être menée et les joueurs doivent suivre la couleur si possible. Une levée sans atout est remportée par la plus haute carte de la couleur menée. Si des atouts sont joués, le plus haut atout l'emporte. Le gagnant de chaque levée mène la suivante.
 
-There is a general rule that when playing a trump you must if possible beat the highest trump that is already in the trick, with the exception that you are always allowed to play the King, Queen or Jack of trumps if it creates a marriage or extended marriage in the trick. The consequences of this rule are as follows.
+Il y a une règle générale selon laquelle lorsqu'on joue un atout, on doit si possible battre le plus haut atout déjà présent dans la levée, à l'exception qu'on est toujours autorisé à jouer le Roi, la Dame ou le Valet d'atout si cela crée un mariage ou un mariage étendu dans la levée. Les conséquences de cette règle sont les suivantes.
 
-- If a trump is led, the other players must follow with trumps if they have them, and must beat the highest trump in the trick if possible (unless completing a marriage). A player who is unable to beat the highest trump in the trick must play a lower trump if they have one.
+- Si un atout est mené, les autres joueurs doivent suivre avec des atouts s'ils en ont, et doivent battre le plus haut atout de la levée si possible (sauf pour compléter un mariage). Un joueur incapable de battre le plus haut atout de la levée doit jouer un atout inférieur s'il en a un.
 
-- If a non-trump is led, a player with no cards of that suit is free to trump or to discard from another suit. If the trick has already been trumped, a later player with no card of the suit may overtrump with a higher trump or play a trump that completes a marriage. If unable to do either they must play a non-trump unless they have nothing but trumps left in their hand.
+- Si une non-atout est menée, un joueur n'ayant pas de carte de cette couleur est libre d'atouter ou de défausser d'une autre couleur. Si la levée a déjà été atoutée, un joueur ultérieur n'ayant pas de carte de la couleur peut suratouter avec un atout supérieur ou jouer un atout qui complète un mariage. S'il ne peut faire ni l'un ni l'autre, il doit jouer une non-atout, sauf s'il n'a plus que des atouts en main.
 
-Examples, with hearts as trump.
+Exemples, avec cœurs comme atout.
 
-- East leads ![club](../images/internat/club.gif)A, North trumps with ![heart](../images/internat/heart.gif)K, West plays ![club](../images/internat/club.gif)8. Holding the ![heart](../images/internat/heart.gif)A and ![heart](../images/internat/heart.gif)8 and no clubs, South must either discard a card of a different suit, for example ![diamond](../images/internat/diamond.gif)J, or overtrump partner's ![heart](../images/internat/heart.gif)K with the ![heart](../images/internat/heart.gif)A, but holding ![heart](../images/internat/heart.gif)A and ![heart](../images/internat/heart.gif)Q South is allowed to undertrump with the ![heart](../images/internat/heart.gif)Q, making a marriage.
+- Est mène ![trèfle](../images/internat/club.gif)A, Nord atoute avec ![cœur](../images/internat/heart.gif)R, Ouest joue ![trèfle](../images/internat/club.gif)8. Ayant le ![cœur](../images/internat/heart.gif)A et le ![cœur](../images/internat/heart.gif)8 et aucun trèfle, Sud doit soit défausser une carte d'une autre couleur, par exemple ![carreau](../images/internat/diamond.gif)V, soit suratouter le ![cœur](../images/internat/heart.gif)R de son partenaire avec le ![cœur](../images/internat/heart.gif)A. Mais s'il a le ![cœur](../images/internat/heart.gif)A et le ![cœur](../images/internat/heart.gif)D, Sud est autorisé à sous-atouter avec le ![cœur](../images/internat/heart.gif)D, formant un mariage.
 
-- East leads ![heart](../images/internat/heart.gif)Q, North beats it with ![heart](../images/internat/heart.gif)10, West plays ![heart](../images/internat/heart.gif)7. Holding the ![heart](../images/internat/heart.gif)A and ![heart](../images/internat/heart.gif)8, South must beat partner's 10 with the ![heart](../images/internat/heart.gif)A, but holding ![heart](../images/internat/heart.gif)A and ![heart](../images/internat/heart.gif)K South is allowed to play the ![heart](../images/internat/heart.gif)K under the 10, making a marriage.
+- Est mène ![cœur](../images/internat/heart.gif)D, Nord bat avec ![cœur](../images/internat/heart.gif)10, Ouest joue ![cœur](../images/internat/heart.gif)7. Ayant le ![cœur](../images/internat/heart.gif)A et le ![cœur](../images/internat/heart.gif)8, Sud doit battre le 10 de son partenaire avec le ![cœur](../images/internat/heart.gif)A. Mais s'il a le ![cœur](../images/internat/heart.gif)A et le ![cœur](../images/internat/heart.gif)R, Sud est autorisé à jouer le ![cœur](../images/internat/heart.gif)R sous le 10, formant un mariage.
 
-## Scoring
+## Décompte des points
 
-At the end of the play each team counts its points for cards in tricks and rounds the total to the nearest 10 points: numbers with a units digit of 5 or more are rounded up, while those with units of 4 or less are rounded down. The total card points for the two teams, excluding declared marriages, is 120. However if the scores end in 5's (for example 75 vs 45) the rounded scores add up to 130 (80+50). To these totals each team adds the points for declared marriages recorded at the bottom of the slate and for marriages in tricks indicated by face up cards in their trick pile, and subtracts the value of marriages in the opponents' tricks indicated by face up cards. The total is rounded It is possible for a team that has lost a trick containing a marriage to have a negative point total after subtracting the score for this marriage.
+À la fin du jeu, chaque équipe compte ses points pour les cartes des levées et arrondit le total à la dizaine la plus proche : les chiffres des unités de 5 ou plus sont arrondis au supérieur, ceux de 4 ou moins à l'inférieur. Le total des points de cartes pour les deux équipes, hors mariages déclarés, est de 120. Cependant si les scores se terminent par des 5 (par exemple 75 contre 45), les scores arrondis totalisent 130 (80+50). À ces totaux, chaque équipe ajoute les points des mariages déclarés enregistrés au bas de l'ardoise et des mariages dans les levées indiqués par les cartes face visible dans son tas de levées, et soustrait la valeur des mariages dans les levées des adversaires indiqués par des cartes face visible. Le total est arrondi. Il est possible qu'une équipe ayant perdu une levée contenant un mariage ait un total de points négatif après soustraction du score de ce mariage.
 
-Cumulative scores for each team are recorded on the slate without the final zero - i.e. divided by 10 - as illustrated on the [L'homme de Brouc site](https://brouc.ch/ardoise).
+Les scores cumulés de chaque équipe sont enregistrés sur l'ardoise sans le zéro final — c'est-à-dire divisés par 10 — comme illustré sur le [site de L'homme de Brouc](https://brouc.ch/ardoise).
 
-To win the game a team needs a score of 'more' than 300 points, described by the players as 30 and 1. That means that the teams unrounded score for the current hand added to the rounded score on the slate must be at least 301. A team that has enough points to win (including marriages declared and in tricks) can announce this during the play, by saying *'dehors'* (out). This immediately stops the play and the points are counted. For example if a team has a score of 23 (representing 230) on the slate, and their card point score in the current hand for cards won so far in tricks plus marriages is 71 or more, either member of the team can call 'out' and win the game. 
+Pour gagner la partie, une équipe doit avoir un score de « plus de » 300 points, décrit par les joueurs comme 30 et 1. Cela signifie que le score non arrondi de l'équipe pour la main en cours, ajouté au score arrondi sur l'ardoise, doit être au moins de 301. Une équipe ayant suffisamment de points pour gagner (y compris les mariages déclarés et dans les levées) peut l'annoncer pendant le jeu en disant *« dehors »*. Cela arrête immédiatement le jeu et les points sont comptés. Par exemple, si une équipe a un score de 23 (représentant 230) sur l'ardoise, et que son score de points de cartes dans la main en cours pour les cartes remportées dans les levées plus les mariages est de 71 ou plus, n'importe quel membre de l'équipe peut annoncer « dehors » et gagner la partie.
 
-The winners game scores a *'coche'* - a short diagonal line marked on the losers' side of the slate - see examples on the [L'homme de Brouc site](https://brouc.ch/ardoise). If the losing team has less than 15 points on the slate, the winners score two *'coches'*.
+L'équipe gagnante marque une *coche* — une petite ligne diagonale marquée du côté des perdants sur l'ardoise — voir les exemples sur le [site de L'homme de Brouc](https://brouc.ch/ardoise). Si l'équipe perdante a moins de 15 points sur l'ardoise, les gagnants marquent deux *coches*.
 
-Note that a team that calls 'out' with at least '30 and 1' points wins irrespective of the point total of the other team - even if their opponents actually had more points than they did but failed to call 'out'. Also if a team calls 'out' but does not have enough points to win, their opponents automatically score as many *coches* as the winners would have scored if the call had been correct.
+Notez qu'une équipe qui annonce « dehors » avec au moins « 30 et 1 » points gagne indépendamment du total de points de l'autre équipe — même si ses adversaires ont en fait plus de points qu'elle mais n'ont pas annoncé « dehors ». De même, si une équipe annonce « dehors » mais n'a pas assez de points pour gagner, ses adversaires marquent automatiquement autant de *coches* que les gagnants auraient marqué si l'annonce avait été correcte.
 
-### *La cape* (winning all the tricks)
+### *La cape* (remporter toutes les levées)
 
-If a team wins all 8 tricks this is known as a *cape* and they score two *coches*, but the cumulative scores for the game in progress are unaffected unless they announce *'cape et dehors'* - see below. No card points are scored for the deal and any scores for declared marriages remain on the slate and count for the next deal. Scores for marriages in tricks in the *cape* deal are ignored.
+Si une équipe remporte les 8 levées, cela s'appelle une *cape* et elle marque deux *coches*, mais les scores cumulés de la partie en cours ne sont pas affectés sauf si elle annonce *« cape et dehors »* — voir ci-dessous. Aucun point de carte n'est compté pour la donne et les scores des mariages déclarés restent sur l'ardoise et comptent pour la donne suivante. Les scores des mariages dans les levées lors de la donne de *cape* sont ignorés.
 
-La cape et dehors
-A team that has a score of 19 or more on the slate at the start of a hand has the possibility by winning all the tricks to win both a *cape* and the current game for a total of three *coches*. The cape and game can only be scored together if announced in advance. A member of the team needs to announce '*Je demande la cape et dehors!*' (i.e. all tricks and out) at some point during the play while they still have at least two cards in their hand. If they succeed they score 3 *coches* (1 for the game and 2 for the *cape*, marked in the losers' column of the slate), the game is over and the scores for any marriages at the bottom of the slate are erased. If they fail to win all the tricks, their opponents score 3 *coches* (marked in the announcers' column), both teams keep their previous scores and the game continues. If there is no announcement of '*cape et dehors*', the winners of all the tricks just score 2 *coches*, both teams keep their scores and the current game continues.
-La cape, dehors et pas dédoublé
-If a team has 19 or more points on the slate and their opponents have 14 or fewer, they have the possibility of winning a double game along with the cape if they can take all the tricks, for which they score 4 *coches* (2 for the game plus 2 for the *cape*). The announcement in this case is '*Je demande la cape, dehors
-et pas dédoublé!*' - (literally 'I announce *cape* and out, not undoubled') by a player who still holds at least two cards. As with an ordinary *cape et dehors* if it succeeds the winners score 4 *coches* ending the game, but if they lose a trick their opponents score the 4 *coches* and the game continues.
+#### La cape et dehors
 
-### Championship Scoring
+Une équipe ayant un score de 19 ou plus sur l'ardoise au début d'une main a la possibilité, en remportant toutes les levées, de gagner à la fois une *cape* et la partie en cours, pour un total de trois *coches*. La cape et la partie ne peuvent être comptées ensemble que si elles sont annoncées à l'avance. Un membre de l'équipe doit annoncer *« Je demande la cape et dehors ! »* (c'est-à-dire toutes les levées et dehors) à un moment donné pendant le jeu alors qu'il a encore au moins deux cartes en main. En cas de succès, il marque 3 *coches* (1 pour la partie et 2 pour la *cape*, marquées dans la colonne des perdants de l'ardoise), la partie est terminée et les scores des mariages au bas de l'ardoise sont effacés. En cas d'échec (si l'équipe ne remporte pas toutes les levées), ses adversaires marquent 3 *coches* (marquées dans la colonne de l'annonceur), les deux équipes conservent leurs scores précédents et la partie continue. S'il n'y a pas d'annonce de *« cape et dehors »*, les gagnants de toutes les levées marquent simplement 2 *coches*, les deux équipes conservent leurs scores et la partie en cours continue.
 
-In the *Championnat suisse de Brouc*,
-held on the last Sunday in November in the *Maison de l’Etivaz*, matches are played consisting of a series of games in which the first pair that scores at least 5 *coches* are the winners.
+#### La cape, dehors et pas dédoublé
 
-## Historical Rules
+Si une équipe a 19 points ou plus sur l'ardoise et que ses adversaires en ont 14 ou moins, elle a la possibilité de gagner une double partie en plus de la cape si elle remporte toutes les levées, ce qui lui rapporte 4 *coches* (2 pour la partie plus 2 pour la *cape*). L'annonce dans ce cas est *« Je demande la cape, dehors et pas dédoublé ! »* — par un joueur qui conserve encore au moins deux cartes. Comme pour une *cape et dehors* ordinaire, en cas de succès les gagnants marquent 4 *coches* et terminent la partie, mais s'ils perdent une levée, leurs adversaires marquent les 4 *coches* et la partie continue.
 
-Philippe Lalanne's Salon des Jeux gives details of [L'Homme de Brou](https://salondesjeux.fr/hommedebrou.htm), an ancestor of Le Brouc, based on the *Académie universelle des jeux* (Lyon 1802). At that time it was played in French-speaking areas of Switzerland and in neighbouring regions of France extending as far as Lyons. It differs from the modern game of Le Brouc as follows:
+### Championnat — Décompte
 
-- According to Lalanne, a player who could not follow suit could play any card: no restriction on undertrumping is mentioned. The *Académie* says nothing about the rules of play.
+Lors du *Championnat suisse de Brouc*, organisé le dernier dimanche de novembre à la *Maison de l'Etivaz*, les parties se déroulent en une série de manches dans lesquelles la première paire à marquer au moins 5 *coches* remporte la partie.
 
-- A combination of K-Q or K-Q-J of a suit in a trick scores twice as much as the equivalent combination in the hand of a player, and this double amount is added to the card point total of the winners of the trick and subtracted from the card point totals of their opponents, so is effectively worth four times as much as a marriage in the hand of a player. 
+## Règles historiques
 
-- The scores were rounded but not divided by 10. The first team to reach 301 or more scored 1 *partie* if their opponents had 150 or more, 2 *parties* if their opponents had 0-149 points, or 4 *parties* if their opponents had a negative score.
+Le Salon des Jeux de Philippe Lalanne donne des détails sur [L'Homme de Brou](https://salondesjeux.fr/hommedebrou.htm), un ancêtre du Brouc, d'après l'*Académie universelle des jeux* (Lyon 1802). À cette époque, il était pratiqué dans les régions francophones de Suisse et dans les régions françaises voisines allant jusqu'à Lyon. Il diffère du jeu moderne du Brouc des manières suivantes :
 
-- An extra 3 *parties* were scored by a team that won all 8 tricks in a deal, known at that time as *la vole*. To score for both the game and the *vole* the winning team must announce '*partie et vole*' before the lead to the fifth trick.
+- Selon Lalanne, un joueur qui ne pouvait pas suivre pouvait jouer n'importe quelle carte : aucune restriction sur le sous-atout n'est mentionnée. L'*Académie* ne dit rien sur les règles de jeu.
 
-- The match was won by the first team to reach a pre-agreed target of (say) 10, 12 or 14 *parties*.
+- Une combinaison de R-D ou R-D-V d'une couleur dans une levée vaut deux fois plus que la combinaison équivalente dans la main d'un joueur, et ce double montant est ajouté au total de points de cartes des gagnants de la levée et soustrait de celui de leurs adversaires, ce qui vaut effectivement quatre fois plus qu'un mariage dans la main d'un joueur.
 
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Brouc
+- Les scores étaient arrondis mais non divisés par 10. La première équipe à atteindre 301 points ou plus marquait 1 *partie* si les adversaires avaient 150 points ou plus, 2 *parties* s'ils avaient 0-149 points, ou 4 *parties* si les adversaires avaient un score négatif.
+
+- 3 *parties* supplémentaires étaient marquées par une équipe remportant les 8 levées d'une donne, appelée à l'époque *la vole*. Pour marquer à la fois la partie et la *vole*, l'équipe gagnante devait annoncer *« partie et vole »* avant la première carte de la cinquième levée.
+
+- La partie était remportée par la première équipe à atteindre un objectif convenu à l'avance de (par exemple) 10, 12 ou 14 *parties*.

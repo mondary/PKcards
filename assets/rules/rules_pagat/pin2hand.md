@@ -1,153 +1,98 @@
-# Two-player Pinochle
+# Pinochle à deux joueurs
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A trick and draw game with 48 cards, with points for marriages, sets of 4 and the spade Queen with the diamond Jack (Pinochle).
+**But :** Jeu de levées et de pioche à 48 cartes, avec des points pour les mariages, les carrés et la dame de pique avec le valet de carreau (Pinochle).
 
 ---
 
 ## Introduction
 
-The following description was rescued from John Hay's Rule Book, formerly at Geocities. An [archive copy of the original page](https://web.archive.org/web/20090805014901/http://geocities.com/TimesSquare/2767/twohand.html) is also available at reocities.com. I have unfortunately lost touch with John Hay. If anyone knows how to contact him, or what became of his rule book, please let me know.
+La description suivante a été sauvée du recueil de règles de John Hay, anciennement sur Geocities. Une [copie d'archive de la page originale](https://web.archive.org/web/20090805014901/http://geocities.com/TimesSquare/2767/twohand.html) est également disponible sur reocities.com. J'ai malheureusement perdu contact avec John Hay. Si quelqu'un sait comment le contacter ou ce qu'est devenu son recueil, merci de me le faire savoir.
 
-John Hay wrote: I put the rules in the form below from information provided by George Klemic and Andrew Lipscomb, to whom I owe a huge thank you.
+John Hay a écrit : j'ai mis les règles sous la forme ci-dessous à partir d'informations fournies par George Klemic et Andrew Lipscomb, à qui je dois un immense merci.
 
-## Players, cards and deal
+## Joueurs, cartes et donne
 
-**Number of Players:** 2
+**Nombre de joueurs :** 2
 
-**Deck:** Standard Pinochle deck of 48 cards consisting of 2 each of all cards 9 and above (including aces).
+**Jeu :** Jeu standard de Pinochle de 48 cartes composé de 2 exemplaires de chaque carte de 9 et au-dessus (y compris les as).
 
-**Deal:** Each player is dealt 12 cards, the next card is turned up to determine trump for the hand and the remainder of the deck (the stock) is placed crosswise on this upturned card. Deal alternates between players.
+**Donne :** Chaque joueur reçoit 12 cartes, la carte suivante est retournée pour déterminer l'atout de la main et le reste du jeu (la pioche) est placé en croix sur cette carte retournée. La donne alterne entre les joueurs.
 
-**Bidding:** There is no bidding in this game.
+**Enchères :** Il n'y a pas d'enchères dans ce jeu.
 
-The game is played in two phases, described separately below.
+Le jeu se joue en deux phases, décrites séparément ci-dessous.
 
-## Play
+## Jeu
 
-**Phase 1: ** As long as cards remain in the stock, the
-game is in Phase 1. The non-dealer leads to the first trick, the dealer
-then plays any card from their hand to the trick (not required to
-follow suit or trump). The winner of the trick takes the top card of
-the stock and puts it in their hand, the loser of the trick then takes
-the next card from the stock and places it in their hand. The winner of
-the trick is now allowed to meld if they wish. (See section on melding
-below.) 
+**Phase 1 :** Tant qu'il reste des cartes dans la pioche, le jeu est en phase 1. Le non-donneur mène la première levée, le donneur joue ensuite n'importe quelle carte de sa main (pas obligé de suivre ni d'atouter). Le gagnant de la levée prend la carte supérieure de la pioche et la met dans sa main, le perdant prend ensuite la carte suivante de la pioche et la place dans sa main. Le gagnant de la levée peut alors faire un affichage (*meld*) s'il le souhaite. (Voir section sur l'affichage ci-dessous.)
 
-***Editor's Note.** In this detail John Hay's description differs from the standard rules given in most American card game books. In the book version, the trick winner melds **before** drawing a new card from the deck. So if the newly drawn card completes a meld the player will need to win another trick before they are allowed to show and score it.*
+***Note de l'éditeur.** Sur ce point, la description de John Hay diffère des règles standard données dans la plupart des livres américains de jeux de cartes. Dans la version livresque, le gagnant de la levée fait l'affichage **avant** de piocher une nouvelle carte. Ainsi, si la carte nouvellement piochée complète un affichage, le joueur devra gagner une autre levée avant de pouvoir le montrer et le marquer.*
 
-The winner of the trick then leads a card to the next trick
-(the card led can be in their hand or on the table as part of a meld).
-Play continues as above until there are no cards left in the stock.
-When the stock is down to one face down card and the remaining trump
-card, the winner of the trick may choose which card to take. After
-picking up these last two cards the winner of that trick may still meld.
+Le gagnant de la levée mène ensuite une carte à la levée suivante (la carte menée peut être dans sa main ou sur la table comme partie d'un affichage). Le jeu continue ainsi jusqu'à ce qu'il n'y ait plus de cartes dans la pioche.
+Quand la pioche est réduite à une carte face cachée et la carte d'atout restante, le gagnant de la levée peut choisir quelle carte prendre. Après avoir ramassé ces deux dernières cartes, le gagnant de cette levée peut encore faire un affichage.
 
-**Phase 2:** Once there are no cards left in the stock,
-the rules change. There is no longer any melding. Each player picks up
-any meld they have and place it in their hand. The winner of the last
-trick from Phase 1 leads to the next trick. The second player must
-follow suit if able. If not, they must trump if possible. The second
-player must win the trick if they are able to. The winner of the trick
-leads to the next trick. Play continues in this manner until all cards
-have been played.
+**Phase 2 :** Une fois qu'il n'y a plus de cartes dans la pioche, les règles changent. Il n'y a plus d'affichage. Chaque joueur ramasse ses affichages et les met dans sa main. Le gagnant de la dernière levée de la phase 1 mène la levée suivante. Le second joueur doit suivre la couleur si possible. Sinon, il doit atouter si possible. Le second joueur doit gagner la levée s'il en est capable. Le gagnant de la levée mène la suivante. Le jeu continue ainsi jusqu'à ce que toutes les cartes aient été jouées.
 
-## Melding
+## Affichage (*Melding*)
 
-In Phase 1, when a player wins a trick they
-may place any meld they have face up in front of them and receive
-points for it. The various combinations that may be melded and the
-points they receive are listed below. When a player melds, it is
-written down on the scoresheet immediately.
+En phase 1, quand un joueur gagne une levée, il peut placer un affichage face visible devant lui et marquer des points. Les différentes combinaisons possibles et leurs points sont listées ci-dessous. Lorsqu'un joueur fait un affichage, celui-ci est immédiatement noté sur la feuille de score.
 
-Run - A 10 K Q J in trumps - 150 points
+Suite - A 10 R D V à l'atout - 150 points
 
-Marriage - K Q in same suit - 20 points
+Mariage - R D de la même couleur - 20 points
 
-Royal Marriage - K Q in trumps - 40 points
+Mariage royal - R D à l'atout - 40 points
 
-Aces around - A in each suit - 100 points
+As autour - A dans chaque couleur - 100 points
 
-Kings around - K in each suit - 80 points
+Rois autour - R dans chaque couleur - 80 points
 
-Queens around - Q in each suit - 60 points
+Dames autour - D dans chaque couleur - 60 points
 
-Jacks around - J in each suit - 40 points
+Valets autour - V dans chaque couleur - 40 points
 
-Pinochle - J of Diamonds and Q of Spades, - 40 points
+Pinochle - V de carreau et D de pique - 40 points
 
-Double Pinochle - 2 pinochles - 300 points (Note: A Double Pinochle is
-the only meld which gives a bonus for having more than one, all other
-melds simply count twice. e.g. Double aces around count 200 points.)
+Double Pinochle - 2 pinochles - 300 points (Note : le Double Pinochle est le seul affichage qui donne un bonus pour en avoir plus d'un ; tous les autres comptent simplement deux fois. Par exemple, les as autour doubles comptent 200 points.)
 
-9 of Trumps (Dix) - 10 points
+9 d'atout (Dix) - 10 points
 
-Special rule concerning Dix: The first Dix to be melded is done so by
-exchanging it for the face-up trump card at the bottom of the stock
-(even if it is the other Dix). The card taken from the bottom may be
-used immediately in meld if desired.
+Règle spéciale concernant le Dix : le premier Dix affiché se fait en l'échangeant contre la carte d'atout visible en bas de la pioche (même si c'est l'autre Dix). La carte prise en bas peut être utilisée immédiatement dans un affichage si souhaité.
 
-**Special notes concerning melding: **
+**Notes spéciales concernant l'affichage :**
 
-A player may
-use a card in more than one meld provided it is used to make a
-different type of meld. (e.g. A player melds a marriage in spades. If
-both cards are still on the table on a later turn, the player may add
-the other 3 kings for kings around, the other 3 queens for queens
-around, or the Jack of Diamonds for a Pinochle. They may not add
-another single King of Spades for a second marriage.)
+Un joueur peut utiliser une carte dans plus d'un affichage à condition qu'elle serve à faire un type d'affichage différent. (Par exemple, un joueur affiche un mariage à pique. Si les deux cartes sont encore sur la table à un tour ultérieur, le joueur peut ajouter les 3 autres rois pour les rois autour, les 3 autres dames pour les dames autour, ou le valet de carreau pour un Pinochle. Il ne peut pas ajouter un autre roi de pique seul pour un second mariage.)
 
-If a
-player has melded a Royal Marriage and they later add the A, 10, and J
-or trumps for a run, they only score an additional 110 points instead
-of 150.
+Si un joueur a affiché un mariage royal et ajoute ensuite l'A, le 10 et le V d'atout pour une suite, il ne marque que 110 points supplémentaires au lieu de 150.
 
-If a player has melded a Pinochle and they later add
-another Pinocle for a Double Pinochle (while the original Pinochle is
-still down), they only score an additional 260 points instead of 300.
-(If the first Pinochle had already been broken up, they would only
-score 40 points for the second one.)
+Si un joueur a affiché un Pinochle et ajoute ensuite un autre Pinochle pour un Double Pinochle (tant que le Pinochle original est encore posé), il ne marque que 260 points supplémentaires au lieu de 300. (Si le premier Pinochle avait déjà été décomposé, il ne marquerait que 40 points pour le second.)
 
-## Scoring
+## Comptage
 
-In addition to any meld a player scored
-during the hand they also receive 11 points for each ace, 10 points for
-each ten, 4 points for each king, 3 points for each queen, and 2 points
-for each jack they captured in play. The player who captures the last
-trick also gets ten points. (Total of 250 points to be taken in play.)
-The first player to get a total of 1200 points wins the game.
+En plus de tout affichage marqué pendant la main, chaque joueur reçoit aussi 11 points pour chaque as, 10 points pour chaque dix, 4 points pour chaque roi, 3 points pour chaque dame, et 2 points pour chaque valet capturé en jeu. Le joueur qui capture la dernière levée reçoit aussi dix points. (Total de 250 points à prendre en jeu.) Le premier joueur à atteindre un total de 1200 points gagne la partie.
 
-## Variations
+## Variantes
 
-Game may be played to 1500 or 1000 points instead of 1200.
+La partie peut être jouée à 1500 ou 1000 points au lieu de 1200.
 
-An optional scoring method for cards taken in play is to count each Ace
-and ten 10 points, and count each king and queen 5 points.
+Une méthode de comptage optionnelle pour les cartes prises en jeu est de compter chaque as et dix 10 points, et chaque roi et dame 5 points.
 
-Another scoring method is to simply count each ace, ten, and king 10
-points. If this scoring method is used, then all scores in the game
-will end in a zero. Since this is the case, the zeroes can be dropped
-off the end of the score, effectively dividing all possible scores by
-10.
+Une autre méthode de comptage est de simplement compter chaque as, dix et roi 10 points. Avec cette méthode, tous les scores se terminent par zéro. Dans ce cas, les zéros peuvent être supprimés, divisant effectivement tous les scores possibles par 10.
 
-In phase 2 the second player is only required to take the trick if possible if trumps were led.
+En phase 2, le second joueur n'est tenu de gagner la levée que si possible et uniquement si l'atout a été mené.
 
-Any of the "Special notes concerning melding" could be ignored, except
-for the rule that a player can use a card that has already been melded
-in additional meld.
+N'importe laquelle des « notes spéciales concernant l'affichage » peut être ignorée, sauf la règle selon laquelle un joueur peut utiliser une carte déjà affichée dans un affichage supplémentaire.
 
-As mentioned above, in the standard version described in card games books, the winner of a trick must meld **before** drawing a new card from the stock, so the drawn card cannot be used in a meld until the player has won another trick.
+Comme mentionné ci-dessus, dans la version standard décrite dans les livres de jeux de cartes, le gagnant d'une levée doit faire l'affichage **avant** de piocher une nouvelle carte de la pioche, de sorte que la carte piochée ne peut être utilisée dans un affichage avant que le joueur ait gagné une autre levée.
 
-According to some books, a player may only score one meld per trick, even if they have no common card - for example it is not possible to meld two marriages in different suits at the same time. Dix counts as a meld so this rule also implies that the face-up trump taken in exchange for the 9 cannot be used in a meld immediately. 
+Selon certains livres, un joueur ne peut marquer qu'un seul affichage par levée, même sans carte commune — par exemple, il n'est pas possible d'afficher deux mariages dans des couleurs différentes en même temps. Le Dix compte comme un affichage, donc cette règle implique aussi que la carte d'atout visible prise en échange du 9 ne peut pas être utilisée immédiatement dans un affichage.
 
-According to some books, each meld scored must incorporate at least one card newly laid down from the player's hand - it is not possible to score a meld made simply by rearranging cards that are already on the table.
+Selon certains livres, chaque affichage marqué doit incorporer au moins une carte nouvellement posée de la main du joueur — il n'est pas possible de marquer un affichage fait simplement en réarrangeant des cartes déjà sur la table.
 
-'Mouse' has contributed rules for an interesting variant played by his family which features larger hands, more melds, and 'glups' which are scored for losing several consecutive tricks by following suit.
+« Mouse » a contribué des règles pour une variante intéressante jouée par sa famille, comportant des mains plus grandes, plus d'affichages et des « glups » marqués pour avoir perdu plusieurs levées consécutives en suivant la couleur.
 
-## Software
+## Logiciel
 
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes a Two-Player Pinochle program, along with many other popular card games.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Pinochle - Two-Player
+La collection HOYLE Card Games pour Windows ou Mac OS X inclut un programme de Pinochle à deux joueurs, ainsi que de nombreux autres jeux de cartes populaires.

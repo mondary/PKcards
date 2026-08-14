@@ -3,204 +3,188 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A version played to a target score in which all three players meld.
+**But :** Une version jouée jusqu'à un score cible dans laquelle les trois joueurs marquent des combinaisons.
 
 ---
 
-*This page is mostly based on a contribution from Sion Hanson.* 
-
-- Introduction
-
-- Cards, Deal, Objective
+*Cette page est principalement basée sur une contribution de Sion Hanson.*
 
 ## Introduction
 
-The main game described on this page is a version of three player single deck Auction Pinochle played in Bison, South Dakota. This is a version played for points, up to a target score. All three players can meld and the game features special scores for double melds. Several variations of this game are also described. 
+Le jeu principal décrit sur cette page est une variante du Pinochle à enchères à un seul jeu pour trois joueurs, pratiqué à Bison, Dakota du Sud. C'est une version jouée en points, jusqu'à un score cible. Les trois joueurs peuvent marquer des combinaisons et le jeu comporte des scores spéciaux pour les combinaisons doubles. Plusieurs variantes de ce jeu sont également décrites.
 
-Elsewhere on this website there is a separate Auction Pinochle page describing the classic 3-player game for money in which the players settle up after each hand. In that version only the high bidder can meld and the bidder either wins or loses. Versions of Pinochle for other numbers of players are covered on other pages of this web site.
+Ailleurs sur ce site, une page séparée dédiée au Pinochle à enchères décrit le jeu classique à 3 joueurs pour de l'argent dans lequel les joueurs règlent leurs comptes après chaque donne. Dans cette version, seul le plus haut enchérisseur peut marquer des combinaisons, et l'enchérisseur gagne ou perd. Les versions de Pinochle pour d'autres nombres de joueurs sont traitées sur d'autres pages de ce site.
 
-## Cards, deal, objective
+## Cartes, donne, objectif
 
-The game is played with a single 48 card pinochle deck. This can be made, if necessary, from two standard 52 card decks by throwing out all the cards 2-8. For the purposes of trick taking, the cards in each suit rank from high to low: 
-**ace, ten, king, queen, jack, nine.**
+Le jeu se joue avec un seul jeu de Pinochle de 48 cartes. On peut le constituer, si nécessaire, à partir de deux jeux standards de 52 cartes en retirant toutes les cartes du 2 au 8. Pour la prise de plis, les cartes de chaque couleur se classent du plus haut au plus bas :
+**as, dix, roi, dame, valet, neuf.**
 
-The aces, tens and kings are called **counters**. Queens, jacks and nines are called **losers** (though they can occasionally win a trick). Counters are valued at 10 points apiece, while losers are worth nothing. One aim of the game is to win as many counters as possible in your tricks. The last trick is worth an additional 10 points, so the total number of points available to be won in each hand is 250.
+Les as, les dix et les rois sont appelés **compteurs**. Les dames, les valets et les neufs sont appelés **non-compteurs** (bien qu'ils puissent occasionnellement gagner un pli). Les compteurs valent 10 points chacun, tandis que les non-compteurs ne valent rien. L'un des buts du jeu est de gagner le plus de compteurs possible dans vos plis. Le dernier pli vaut 10 points supplémentaires, soit un total de 250 points disponibles à gagner à chaque donne.
 
-The cards are shuffled, cut, and dealt, usually three at a time, but this is not imperative. Each player receives 15 cards and 3 cards are placed in the kitty, or cat, as it is sometimes called. These 3 cards can be placed in the cat at any point during the dealing, with the exception that the last card in the deck can not be put in the cat. If the cards are misdealt in any way, they must be shuffled, cut and dealt again. Any fair means can be used to determine the dealer for the first hand; after that the deal passes to the left after each hand. 
+Les cartes sont mélangées, coupées et distribuées, généralement trois par trois, mais ce n'est pas obligatoire. Chaque joueur reçoit 15 cartes et 3 cartes sont placées au talon (ou « chat », comme on l'appelle parfois). Ces 3 cartes peuvent être placées dans le chat à n'importe quel moment de la distribution, à l'exception que la dernière carte du jeu ne peut pas être mise au chat. Si les cartes sont mal distribuées de quelque manière que ce soit, elles doivent être remélangées, coupées et redistribuées. Tout moyen équitable peut être utilisé pour déterminer le donneur de la première donne ; ensuite, la donne passe à gauche après chaque donne.
 
-There are two ways of scoring points: by melding combinations and by winning scoring cards in tricks. The object of the game is to be the first player to score 1500 points. After the first complete game is finished, the winner is the first dealer of the second game.
+Il y a deux façons de marquer des points : en déclarant des combinaisons et en gagnant des cartes à points dans les plis. Le but du jeu est d'être le premier joueur à atteindre 1500 points. Une fois la première partie terminée, le gagnant est le premier donneur de la deuxième partie.
 
-## Meld
+## Combinaisons (Meld)
 
-In each hand, one player - the high bidder - will name trumps, take the cards in the cat, and play against the other two, aiming to score at least the number of points mentioned in the bid. The first way of scoring points is the meld, or display of scoring combinations held in the hand. Therefore, after the deal, each player looks at his 15-card hand and assesses what scoring combinations of cards he holds in his hand, and what value of meld he might therefore score if he could choose trumps. The cat cards are at this stage unknown; they might increase a player's meld but this cannot be relied on.
+À chaque donne, un joueur — le plus haut enchérisseur — nommera l'atout, prendra les cartes du chat et jouera contre les deux autres, en cherchant à marquer au moins le nombre de points mentionné dans l'enchère. La première façon de marquer des points est le meld, c'est-à-dire la présentation des combinaisons de points détenues dans la main. Ainsi, après la distribution, chaque joueur examine sa main de 15 cartes et évalue quelles combinaisons il détient, et quelle valeur de meld il pourrait marquer s'il pouvait choisir l'atout. Les cartes du chat sont à ce stade inconnues ; elles pourraient augmenter le meld d'un joueur mais on ne peut pas s'y fier.
 
-The scoring combinations and their values are listed below. Each combination exists in a single and a double version. A double combination is one that contains two copies of each card - for example a double rope consists of A-A-10-10-K-K-Q-Q-J-J of trumps, and a double pinochle is two spade queens and two diamond jacks. In some cases the double combination is worth exactly as much as two singles; in other cases it is worth more.
+Les combinaisons et leurs valeurs sont listées ci-dessous. Chaque combinaison existe en version simple et double. Une combinaison double contient deux exemplaires de chaque carte — par exemple, une suite double consiste en A-A-10-10-R-R-D-D-V-V d'atout, et un pinochle double est deux dames de pique et deux valets de carreau. Dans certains cas, la combinaison double vaut exactement deux fois la simple ; dans d'autres cas, elle vaut plus.
 
-| Type | Name | Cards | Single | Double |
-| Type I:Ropes, marriagesand deece | A rope | A 10 K Q J of trumps | 150 | 1500 |
-| A marriage | K Q of the same (non-trump) suit | 20 | 40 |
-| A marriage in trump | K Q of trumps | 40 | 80 |
-| A deece | the 9 of the trump suit | 10 | 20 |
-| Type II:Pinochles | A pinochle | J of diamonds & Q of spades | 40 | 300 |
-| Type III:Arounds | 100 aces | an ace in each of the four suits | 100 | 1000 |
-| 80 kings | a king in each of the four suits | 80 | 800 |
-| 60 queens | a queen in each of the four suits | 60 | 600 |
-| 40 jacks | a jack in each of the four suits | 40 | 400 |
+| Type | Nom | Cartes | Simple | Double |
+| Type I : Suites, mariages et deece | Une suite | A 10 R D V d'atout | 150 | 1500 |
+| Un mariage | R D de la même couleur (non atout) | 20 | 40 |
+| Un mariage d'atout | R D d'atout | 40 | 80 |
+| Un deece | le 9 de la couleur d'atout | 10 | 20 |
+| Type II : Pinochles | Un pinochle | V de carreau & D de pique | 40 | 300 |
+| Type III : Carrés | 100 as | un as dans chacune des quatre couleurs | 100 | 1000 |
+| 80 rois | un roi dans chacune des quatre couleurs | 80 | 800 |
+| 60 dames | une dame dans chacune des quatre couleurs | 60 | 600 |
+| 40 valets | un valet dans chacune des quatre couleurs | 40 | 400 |
 
-These combinations of cards can be intermingled to a certain degree. They are divided into three types, and a single card can be used in simultaneously combinations of different types, but cannot be used in more than one combination of the same type. For example, if a player had 60 queens, and a jack of diamonds, he could score both 60 queens and a pinochle for a total of 100 (using the **![spade](../images/internat/spade.gif)Q** in a type II and a type III combination simultaneously). Another example would be to meld a rope and 100 aces: the trump ace from the (type I) rope could be used at the same time as the fourth ace in the (type III) 100 aces to score a total of 250. As far as marriages are concerned, 2 kings and 1 queen of the same suit are not scored as 2 marriages (the queen cannot be used twice in a type I combination) and the same holds true for 2 queens and 1 king. If you score 150 for a rope, you cannot at the same time score 40 for the trump marriage contained in it - to score 190 you would need an additional king and queen of trumps. Tens have no value in the meld portion of the hand, except when making up a rope.
+Ces combinaisons peuvent être mêlées dans une certaine mesure. Elles sont divisées en trois types, et une même carte peut être utilisée simultanément dans des combinaisons de types différents, mais ne peut pas être utilisée dans plus d'une combinaison du même type. Par exemple, si un joueur a 60 dames et un valet de carreau, il peut marquer à la fois 60 dames et un pinochle pour un total de 100 (en utilisant la **![pique](../images/internat/spade.gif)D** dans une combinaison de type II et de type III simultanément). Un autre exemple serait de déclarer une suite et 100 as : l'as d'atout de la suite (type I) pourrait être utilisé en même temps que le quatrième as dans les 100 as (type III) pour marquer un total de 250. En ce qui concerne les mariages, 2 rois et 1 dame de la même couleur ne comptent pas comme 2 mariages (la dame ne peut pas être utilisée deux fois dans une combinaison de type I) et il en va de même pour 2 dames et 1 roi. Si vous marquez 150 pour une suite, vous ne pouvez pas en même temps marquer 40 pour le mariage d'atout qu'elle contient — pour marquer 190 il vous faudrait un roi et une dame d'atout supplémentaires. Les dix n'ont aucune valeur dans la partie meld de la donne, sauf pour composer une suite.
 
-A combination consisting of a king and a queen of each suit is sometimes known as a roundhouse. Its total value is 240 points consisting of 80 for kings around, 60 for queens around, 40 for the trump marriage and 20 each for the other three marriages. Note that the total value of a roundhouse and a rope is only 350 points if they share the same king and queen of trumps - not 390 as the trump marriage cannot be counted in addition to the rope.
+Une combinaison composée d'un roi et d'une dame de chaque couleur est parfois appelée un tour du céleste (roundhouse). Sa valeur totale est de 240 points, composée de 80 pour les rois, 60 pour les dames, 40 pour le mariage d'atout et 20 pour chacun des trois autres mariages. Notez que la valeur totale d'un tour du céleste et d'une suite n'est que de 350 points s'ils partagent le même roi et la même dame d'atout — et non 390, car le mariage d'atout ne peut pas être compté en plus de la suite.
 
-## Bidding
+## Enchères
 
-By calculating his potential meld, each player determines whether or not there is enough score in his hand to justify bidding. A bid is a promise to score at least a certain number of points in exchange for two privileges: the bidder gets the cards from the kitty and chooses the trump suit. 
+En calculant son meld potentiel, chaque joueur détermine s'il y a suffisamment de points dans sa main pour justifier une enchère. Une enchère est une promesse de marquer au moins un certain nombre de points en échange de deux privilèges : l'enchérisseur reçoit les cartes du talon et choisit la couleur d'atout.
 
-The player to the left of the dealer begins the bidding process, by passing or making a bid of at least 250. The turn to bid passes clockwise around the table. All bids must be multiples of 10 (250, 260, 270, 280 etc.) At your turn you can either pass or bid higher than the previous bid if any. A player who has once passed cannot bid again in the auction. If all three players pass, the cards are thrown in and the next player in turn deals. If more than one player bids in the first round, the auction continues for as many rounds as necessary until two players have passed. The third player, who is the highest bidder, has won the bidding. At this point, the score keeper should make a note of the amount of the final bid - this has saved many arguments. 
+Le joueur à la gauche du donneur commence le processus d'enchères, en passant ou en faisant une enchère d'au moins 250. Le tour d'enchère passe dans le sens horaire. Toutes les enchères doivent être des multiples de 10 (250, 260, 270, 280, etc.). À votre tour, vous pouvez soit passer, soit enchérir plus haut que l'enchère précédente s'il y en a une. Un joueur qui a passé une fois ne peut plus enchérir durant cet appel d'offres. Si les trois joueurs passent, les cartes sont jetées et le joueur suivant distribue. Si plus d'un joueur enchérit au premier tour, l'appel d'offres continue autant de tours que nécessaire jusqu'à ce que deux joueurs aient passé. Le troisième joueur, le plus haut enchérisseur, a gagné les enchères. À ce stade, le marqueur devrait noter le montant de l'enchère finale — cela a évité bien des disputes.
 
-Note that although it is legal to begin the auction with a bid of more than 250, or to "jump the bid", increasing it by more than the minimum 10 above the previous bid, it is normal and prudent to start at 250 and increase the bid by just 10 at a time.
+Notez que bien qu'il soit légal de commencer l'appel d'offres avec une enchère supérieure à 250, ou de « sauter » l'enchère en l'augmentant de plus de 10 au-dessus de l'enchère précédente, il est normal et prudent de commencer à 250 et d'augmenter l'enchère de 10 à la fois.
 
-The player who won the bid exposes the 3 cat cards for all to see and then places them in his hand. He then discards any 3 of his 18 cards face down into what will become his trick pile. The other players are not entitled to see the discards until after the play. Note that cards that are discarded cannot be used as part of your meld; nevertheless it is sometimes to the bidders advantage to discard meld to improve the playing strength of his hand. 
+Le joueur qui a remporté les enchères expose les 3 cartes du chat pour que tous les voient, puis les place dans sa main. Il défausse ensuite 3 de ses 18 cartes, face cachée, dans ce qui deviendra son tas de plis. Les autres joueurs n'ont pas le droit de voir les cartes défaussées avant le jeu. Notez que les cartes défaussées ne peuvent pas être utilisées comme partie de votre meld ; néanmoins, il est parfois avantageux pour l'enchérisseur de défausser du meld pour améliorer la force de jeu de sa main.
 
-## The Play
+## Le Jeu
 
-After discarding, the bidder announces the trump suit and claims his meld, laying out his meld combinations on the table for all to see. Only the cards that form part of his meld are exposed; the rest of his hand remains concealed from the other players. The other two players in turn then expose their meld in the same way.
+Après la défausse, l'enchérisseur annonce la couleur d'atout et réclame son meld, en étalant ses combinaisons sur la table pour que tous les voient. Seules les cartes qui font partie de son meld sont exposées ; le reste de sa main reste caché aux autres joueurs. Les deux autres joueurs exposent ensuite leur meld à leur tour de la même manière.
 
-At this point the bidder has to decide whether it is possible to "make the bid". To make, the total of the declarer's meld points and the cards he takes in tricks must be at least as much as the bid. If the bidder decides that he cannot score enough points to make his bid, he announces that he is giving up. In this case the amount of the bid is subtracted from the bidder's score, and the other two players score for their meld. The hand is then "thrown in", and the deal passes to the next dealer.
+À ce stade, l'enchérisseur doit décider s'il est possible de « réaliser l'enchère ». Pour réaliser, le total des points de meld du déclarant et des cartes qu'il prend dans les plis doit être au moins égal à l'enchère. Si l'enchérisseur décide qu'il ne peut pas marquer assez de points pour réaliser son enchère, il annonce qu'il abandonne. Dans ce cas, le montant de l'enchère est soustrait du score de l'enchérisseur, et les deux autres joueurs marquent pour leur meld. La donne est alors « jetée » et la donne passe au donneur suivant.
 
-If the bidder decides that the bid can be made, and so elects to play on, the scores for the three players' melds are noted, and the players return all their cards to their hands, with the exception of the 3 discard cards in the bidder's trick pile. The play of the hand then begins.
+Si l'enchérisseur décide que l'enchère peut être réalisée et choisit de continuer à jouer, les scores des meld des trois joueurs sont notés, et les joueurs reprennent toutes leurs cartes dans leur main, à l'exception des 3 cartes défaussées dans le tas de plis de l'enchérisseur. Le jeu de la donne commence alors.
 
-The person with the bid begins by "leading" any one card from his hand. The other two players in turn each play a card, and who ever plays the highest ranking card of the suit that was led wins that trick, unless it was trumped. Cards of the trump suit which was chosen by the bidder beat all cards of any other suit. If any trumps were played to the trick, whoever played the highest-ranking trump card wins the trick. In all suits, the rank of the cards from high to low is **A, 10, K, Q, J, 9**. Whoever wins the trick collects the three cards, stores them face down, and leads any card to the next trick.
+Le joueur ayant l'enchère commence en « menant » n'importe quelle carte de sa main. Les deux autres joueurs jouent chacun une carte à leur tour, et celui qui joue la carte la plus forte de la couleur menée gagne le pli, sauf si un atout a été joué. Les cartes de la couleur d'atout choisie par l'enchérisseur battent toutes les cartes de n'importe quelle autre couleur. Si des atouts ont été joués sur le pli, celui qui a joué l'atout le plus fort gagne le pli. Dans toutes les couleurs, l'ordre des cartes du plus fort au plus faible est **A, 10, R, D, V, 9**. Le gagnant du pli ramasse les trois cartes, les pose face cachée, et mène n'importe quelle carte au pli suivant.
 
-- When playing to a trick, you have to **follow suit**. This means that whichever suit is led, the other players also have to play that suit whenever it is possible to do so. 
+- Lorsqu'on joue à un pli, vous devez **fournir** (suivre la couleur). Cela signifie que quelle que soit la couleur menée, les autres joueurs doivent aussi jouer cette couleur chaque fois qu'ils le peuvent.
 
-- You also have to **kill**. This means that if you can, you must play a higher-ranking card on the trick than any of the other 1 or 2 previously played cards. If you cannot kill, you still have to follow suit.
+- Vous devez aussi **monter** (battre). Cela signifie que si vous le pouvez, vous devez jouer une carte de rang supérieur aux autres cartes jouées sur le pli. Si vous ne pouvez pas monter, vous devez quand même fournir.
 
-- If you cannot follow suit you are required to play **trump**, even if your trump cards are all of a lesser rank than trump cards already played on the trick.
+- Si vous ne pouvez pas fournir, vous êtes tenu de jouer de **l'atout**, même si vos cartes d'atout sont toutes de rang inférieur aux atouts déjà joués sur le pli.
 
-- If you have no cards of the suit that was led, and you have no trump in your hand, you are allowed to **slough** any card of your choosing, but slough cards have no power when it comes to taking tricks. A trick can only be won by a card of the suit led or a trump.
+- Si vous n'avez aucune carte de la couleur menée et que vous n'avez pas d'atout en main, vous êtes autorisé à **défausser** n'importe quelle carte de votre choix, mais les cartes défaussées n'ont aucun pouvoir pour gagner un pli. Un pli ne peut être gagné que par une carte de la couleur menée ou un atout.
 
-Because the deck contains two identical copies of each card, it can happen that two identical cards are played on the same trick. In this case the first of these cards played ranks higher then the second. The player of the first identical card therefore wins the trick if that card is the highest ranking card in the trick.
+Comme le jeu contient deux exemplaires identiques de chaque carte, il peut arriver que deux cartes identiques soient jouées sur le même pli. Dans ce cas, la première de ces cartes jouée est de rang supérieur à la seconde. Le joueur de la première carte identique gagne donc le pli si cette carte est la carte de rang le plus élevé du pli.
 
-## Scoring
+## Décompte des points
 
-After all 15 tricks are played out, each player counts the number of **counters** (aces, tens and kings) that they have managed to accumulate in their trick pile. These counters are valued at 10 points each, and the winner of the last trick can count an additional 10 points for that. If the three cards discarded by the bidder before play include any counters, the values of these are included in the bidder's total. There is a total of 250 points to be won in the play. 
+Une fois les 15 plis joués, chaque joueur compte le nombre de **compteurs** (as, dix et rois) qu'il a accumulés dans son tas de plis. Ces compteurs valent 10 points chacun, et le gagnant du dernier pli peut compter 10 points supplémentaires. Si les trois cartes défaussées par l'enchérisseur avant le jeu comprennent des compteurs, leur valeur est incluse dans le total de l'enchérisseur. Il y a un total de 250 points à gagner dans le jeu.
 
-It is now determined whether or not the bidder has **made** his bid. If the total of his meld and the points he won in play adds up to at least the amount of his bid, he has successfully made his bid. In this case the bidder scores all the points he won in melds and play. Each of the other two players also score for their meld and whatever they won in the play, provided that they won at least one counter. Any player that fails to capture a counter in the play of the hand scores nothing for any meld they may have had on the hand (this is called "losing your meld").
+On détermine alors si l'enchérisseur a **réalisé** son enchère. Si le total de son meld et des points gagnés au jeu atteint au moins le montant de son enchère, il a réalisé avec succès son enchère. Dans ce cas, l'enchérisseur marque tous les points gagnés en meld et en jeu. Chacun des deux autres joueurs marque également pour son meld et pour ce qu'il a gagné au jeu, à condition d'avoir gagné au moins un compteur. Tout joueur qui ne capture pas de compteur pendant le jeu ne marque rien pour son meld (c'est ce qu'on appelle « perdre son meld »).
 
-If the total of the bidder's meld and points won in play adds up to less than the bid, the bidder **goes set**. He does not score anything for his meld nor for points won in play; instead the amount that was bid is subtracted from his score. The two opposing players still add their meld and whatever they won in play to their total score. 
+Si le total du meld de l'enchérisseur et des points gagnés au jeu est inférieur à l'enchère, l'enchérisseur **chute**. Il ne marque rien pour son meld ni pour les points gagnés au jeu ; le montant de l'enchère est soustrait de son score. Les deux joueurs opposés ajoutent toujours leur meld et ce qu'ils ont gagné au jeu à leur score total.
 
-The first player to reach a score of 1500 or more points wins the game. In the event that more than one person reaches the 1500 point mark during the same hand, the person with the bid (assuming he is one of those to score over 1500) is declared the winner ("the bidder goes out"). If two players score over 1500 points and neither of these players has the bid, the one with the higher score wins the game. In the unusual event that the two players without the bid should have a tie score over 1500, another hand is played to decide the winner.
+Le premier joueur à atteindre un score de 1500 points ou plus gagne la partie. Dans le cas où plusieurs personnes atteignent le seuil de 1500 points au cours de la même donne, le joueur ayant l'enchère (s'il est parmi ceux ayant dépassé 1500) est déclaré gagnant (« l'enchérisseur sort »). Si deux joueurs dépassent 1500 points et qu'aucun des deux n'a l'enchère, celui ayant le score le plus élevé gagne. Dans le cas inhabituel où les deux joueurs sans l'enchère auraient un score ex æquo supérieur à 1500, une autre donne est jouée pour déterminer le gagnant.
 
-## Playing for money
+## Jouer pour de l'argent
 
-When playing for money, a stake is agreed for the **game** and for the **set** - for example $2 a game and $2 a set, or 50 cents a game and 25 cents a set. A set occurs when the bidder loses. If the hand is thrown in without play it is a single set, but if the bidder chooses to play out the hand and then loses it counts as a double set. The final winner of the game wins the game stake from each opponent, and in addition each opponent has to pay the winner a set stake for each time they were set (two set stakes for a double set). 
+Quand on joue pour de l'argent, une mise est convenue pour la **partie** et pour la **chute** — par exemple 2 $ la partie et 2 $ la chute, ou 50 cents la partie et 25 cents la chute. Une chute se produit lorsque l'enchérisseur perd. Si la donne est jetée sans être jouée, c'est une chute simple, mais si l'enchérisseur choisit de jouer la donne puis perd, cela compte comme une double chute. Le gagnant final de la partie remporte la mise de partie de chaque adversaire, et en outre chaque adversaire doit payer au gagnant une mise de chute pour chaque fois où il a chuté (deux mises de chute pour une double chute).
 
-Another way to achieve the same result is to use a pot. At the start of the game, each player puts a game stake into the pot. Every time you are set you must add a set stake to the pot - or two set stakes for a double set. The eventual winner takes the whole pot.
+Une autre façon d'obtenir le même résultat est d'utiliser un pot. Au début de la partie, chaque joueur met une mise de partie dans le pot. Chaque fois que vous chutez, vous devez ajouter une mise de chute au pot — ou deux mises de chute pour une double chute. Le gagnant final emporte tout le pot.
 
-It is important to get the balance of the game and set stakes right. The purpose of the set stake is to discourage frivolous sacrifice bids. However if the set stake is too high in relation to the game stake, players will only bid on a certainty, making the game a little dull. Sacrifice bidding to prevent another player from going out is a very much accepted and oft-used tactic and may have a variety of results. For example:
+Il est important d'équilibrer correctement les mises de partie et de chute. Le but de la mise de chute est de décourager les enchères de sacrifice frivoles. Cependant, si la mise de chute est trop élevée par rapport à la mise de partie, les joueurs n'enchériront qu'en cas de certitude, rendant le jeu un peu ennuyeux. L'enchère de sacrifice pour empêcher un autre joueur de sortir est une tactique très acceptée et souvent utilisée, qui peut avoir divers résultats. Par exemple :
 
-- A player may sometimes gets good enough cards in the cat to convert a sacrifice bid into a winning bid.
+- Un joueur peut parfois obtenir de bonnes cartes au chat qui transforment une enchère de sacrifice en enchère gagnante.
 
-- Sometimes, a player will make a sacrifice bid and the leader will "meld out" anyway.
+- Parfois, un joueur fera une enchère de sacrifice et le meneur « sortira au meld » quand même.
 
-- Sometimes a player who is on the verge of going out will bid 250 in the hope of coercing another player to bid against him to try to drive the bid up and and set the leader. But then the leader will pass the bid and set the opposing player. We call this trick "dropping the bid on him". 
+- Parfois, un joueur sur le point de sortir enchérira 250 dans l'espoir d'amener un autre joueur à enchérir contre lui pour tenter de faire monter l'enchère et de faire chuter le meneur. Mais alors le meneur laissera l'enchère et fera chuter le joueur adverse. Nous appelons ce stratagème « lui laisser l'enchère ».
 
-- A player may have a good hand dealt to him, and the person that is near to going out will try to "drop the bid on him", thinking the bidder will go set, but the bidder ends up winning the game.
+- Un joueur peut avoir reçu une bonne main, et le joueur proche de la sortie essaiera de « lui laisser l'enchère », pensant que l'enchérisseur va chuter, mais l'enchérisseur finit par gagner la partie.
 
-## Variations
+## Variantes
 
-### Bidding
+### Enchères
 
-The minimum bid allowed has gradually increased over time. Books from the beginning of the 20th century do not specify any minimum. Some people still play with a minimum of 100 or 200. On the other hand, more recently some people have begun to play with a minimum bid of 300 rather than 250. 
+L'enchère minimum autorisée a progressivement augmenté au fil du temps. Les livres du début du 20e siècle ne spécifient pas de minimum. Certaines personnes jouent encore avec un minimum de 100 ou 200. D'un autre côté, plus récemment, certains ont commencé à jouer avec un minimum de 300 plutôt que 250.
 
-Some players require player to the left of the dealer always to begin with the minimum bid. Others require the dealer to make the minimum bid if the first two players pass. 
+Certains joueurs exigent que le joueur à la gauche du donneur commence toujours avec l'enchère minimum. D'autres exigent que le donneur fasse l'enchère minimum si les deux premiers joueurs passent.
 
-### Throwing in the Hand
+### Jeter la donne
 
-Some play that if you have five nines in your hand and you have no meld (except perhaps deeces), the hand is thrown in ('bunched') and redealt.
+Certains jouent que si vous avez cinq neufs dans votre main et que vous n'avez pas de meld (sauf peut-être des deeces), la donne est jetée (« bunchée » et redistribuée.
 
-These requirements vary from place to place. Some require six nines without meld or seven nines irrespective of meld for a throw-in. Some require five nines and no aces, or six nines with at most one ace.
+Ces exigences varient d'un endroit à l'autre. Certains exigent six neufs sans meld ou sept neufs indépendamment du meld pour un jet. Certains exigent cinq neufs et pas d'as, ou six neufs avec au plus un as.
 
-Some allow any hand to be thrown in if all three players agree, though such an agreement is rare. 
+Certains permettent de jeter n'importe quelle donne si les trois joueurs sont d'accord, bien qu'un tel accord soit rare.
 
-Some, on the other hand, require every deal to be played.
+D'autres, au contraire, exigent que chaque donne soit jouée.
 
-### Melds
+### Meld
 
-There are also a few variations in the values of the various melds, though the values given above are fairly standard. 
+Il y a aussi quelques variantes dans les valeurs des différents melds, bien que les valeurs données ci-dessus soient assez standard.
 
-Some play with no special score for some or all of the double melds, so that for example a double rope may be worth only 300. On the other hand some add special scores for double marriages. Gilbert Ohlson reports that in St Joseph Missouri a double marriage in trumps scores 240; if it is combined with rope (sequence) the total score is 390. 
+Certains ne jouent pas de score spécial pour certains ou tous les melds doubles, de sorte que, par exemple, une suite double peut ne valoir que 300. D'autres ajoutent des scores spéciaux pour les mariages doubles. Gilbert Ohlson rapporte qu'à St. Joseph, dans le Missouri, un mariage double d'atout vaut 240 ; s'il est combiné avec une suite, le score total est 390.
 
-Some treat a 'Roundhouse', which consists of a King and Queen in each suit, as a meld in its own right scoring 240. This 240 replaces the separate scores for the Kings around, Queens around and marriages contained within it, which scored separately would produce the same total. Difficulties arise when a player has a Roundhouse along with an overlapping meld such as a Rope or Double Queens around. Some score 390 for Roundhouse plus Rope, but others argue that this effectively counts the Royal Marriage twice and the total should be only 350. If you treat a Roundhouse as a meld, these details should be agreed before the game.
+Certains traitent un « Tour du céleste », composé d'un roi et d'une dame de chaque couleur, comme un meld en soi valant 240. Ce 240 remplace les scores séparés des rois, des dames et des mariages qu'il contient, qui, s'ils étaient comptés séparément, produiraient le même total. Des difficultés surviennent lorsqu'un joueur a un tour du céleste avec un meld chevauchant comme une suite ou des dames doubles. Certains comptent 390 pour le tour du céleste plus la suite, mais d'autres estiment que cela compte effectivement le mariage d'atout deux fois et que le total ne devrait être que de 350. Si vous traitez le tour du céleste comme un meld, ces détails doivent être convenus avant le jeu.
 
-### Rules of Play
+### Règles de jeu
 
-The newer rule of play, given in almost all card game books since 1945, is that a player is only obliged to beat the highest card so far played to a trick is a trump was led. Players are, however, still obliged to trump if they have no card of the suit led. So if a non-trump is led, players may follow suit with a lower card, and if the second player trumps and the third player also lacks that suit, the third player is free to play a higher or lower trump than the second player. However, many groups continue to follow the older rule that you must always head the trick when possible, as given in the play section on this page.
+La règle de jeu la plus récente, donnée dans presque tous les livres de jeux de cartes depuis 1945, est qu'un joueur n'est obligé de battre la carte la plus forte jouée à un pli que si un atout a été mené. Les joueurs restent toutefois obligés de jouer atout s'ils n'ont pas de carte de la couleur menée. Ainsi, si un non-atout est mené, les joueurs peuvent fournir avec une carte inférieure, et si le deuxième joueur joue atout et que le troisième joueur n'a pas non plus cette couleur, le troisième joueur est libre de jouer un atout supérieur ou inférieur à celui du deuxième joueur. Cependant, de nombreux groupes continuent de suivre l'ancienne règle selon laquelle vous devez toujours monter au pli quand c'est possible, comme indiqué dans la section du jeu de cette page.
 
-### Scoring and Winning the Game
+### Décompte et victoire
 
-Other targets scores are of course possible, for example 1000 or 2500, leading to a shorter or longer game.
+D'autres scores cibles sont bien sûr possibles, par exemple 1000 ou 2500, pour une partie plus courte ou plus longue.
 
-Some play that if any player's negative score goes beyond some agreed value, for example -1000, while at least one player has a positive score, the game ends and the player with the most positive points is the winner. If all players are negative, play continues until someone has a positive score. This discourages a player who is losing badly from bidding recklessly in a vain attempt to catch up.
+Certains jouent que si le score négatif d'un joueur dépasse une valeur convenue, par exemple -1000, alors qu'au moins un joueur a un score positif, la partie se termine et le joueur ayant le plus de points positifs gagne. Si tous les joueurs sont négatifs, le jeu continue jusqu'à ce que quelqu'un ait un score positif. Cela décourage un joueur qui perd nettement d'enchérisir inconsidérément pour essayer de rattraper.
 
-Some play a fixed number of deals, rather than to a target score.
+Certains jouent un nombre fixe de donnes plutôt que jusqu'à un score cible.
 
-Some divide all the scores by 10, so that counters and the last trick are worth 1 point, a rope scores 15, and so on. In this case a target score of 1500 to win the game would become 150.
+Certains divisent tous les scores par 10, de sorte que les compteurs et le dernier pli valent 1 point, une suite compte 15, etc. Dans ce cas, un score cible de 1500 pour gagner la partie deviendrait 150.
 
-## Tips and ethics
+## Conseils et éthique
 
-A game game can last from 5 minutes to 2 hours or more, but the average game lasts from 45 minutes to an hour. The game can be won with one hand, but an average game requires 10-12 hands, depending on the number of sets. 
+Une partie peut durer de 5 minutes à 2 heures ou plus, mais la partie moyenne dure de 45 minutes à une heure. La partie peut être gagnée en une seule donne, mais une partie moyenne nécessite 10 à 12 donnes, selon le nombre de chutes.
 
-- It is to the bidder's advantage to discard counters into his trick pile prior to the hand being played out.
+- Il est avantageux pour l'enchérisseur de défausser des compteurs dans son tas de plis avant que la donne ne soit jouée.
 
-- It is advantageous for the 2 non-bidders to "smear" to each other. This means that they should try to give each other counters in their tricks in an attempt to set the bidder. 
+- Il est avantageux pour les 2 non-enchérisseurs de se « servir » mutuellement. Cela signifie qu'ils devraient essayer de se donner des compteurs dans leurs plis pour tenter de faire chuter l'enchérisseur.
 
-- Being the dealer allows a person to be the last bidder. This is sometimes to the dealer's benefit.
+- Être le donneur permet d'être le dernier enchérisseur. C'est parfois à l'avantage du donneur.
 
-- Having the ability to determine how the trump is "played out" in a hand can make the difference between making a bid and going set.
+- Savoir comment l'atout est « épuisé » dans une donne peut faire la différence entre réaliser une enchère et chuter.
 
-- "Talking across the table" is forbidden. This means that you cannot tell any of the players in the game which cards they should play.
+- « Parler à travers la table » est interdit. Cela signifie que vous ne pouvez dire à aucun des joueurs du jeu quelles cartes ils devraient jouer.
 
-- Remembering which cards your opponents expose during the meld portion of the game is essential to being a successful player. Also memorizing which cards have been played out and which cards remain in their hands during the play portion of the game is important.
+- Se souvenir des cartes que vos adversaires exposent pendant la phase de meld est essentiel pour être un joueur accompli. Mémoriser également quelles cartes ont été jouées et lesquelles restent dans leur main pendant la phase de jeu est important.
 
-- Like all card games, gloating is frowned upon.
+- Comme dans tous les jeux de cartes, la vantardise est mal vue.
 
-- Any cards accidentally exposed during the dealing process are grounds for a misdeal. Any inaccuracies during the deal will void the hand and cause a misdeal.
+- Toute carte exposée accidentellement pendant la distribution constitue un motif de redistribution. Toute inexactitude lors de la donne annule la donne et entraîne une redistribution.
 
-- "A card laid is a card played". In the play portion of the game, once a card leaves a persons hand and is played on the table, it cannot be picked up and placed back in the hand. Sometimes this is cause for a renege. This rule applies no matter how long the card lays on the table. If either of the other players can describe the card in question it is considered a "played" card.
+- « Carte posée, carte jouée ». Dans la phase de jeu, une fois qu'une carte a quitté la main d'un joueur et a été posée sur la table, elle ne peut plus être ramassée et remise dans la main. Cela peut parfois constituer une faute. Cette règle s'applique quelle que soit la durée pendant laquelle la carte est restée sur la table. Si l'un des deux autres joueurs peut décrire la carte en question, elle est considérée comme « jouée ».
 
-## Renege
+## Faute (renege)
 
-Any time a player accidentally misplays during the play portion of the hand, it is called a renege. There are various forms of misplay:
+Chaque fois qu'un joueur joue incorrectement pendant la phase de jeu de la donne, cela s'appelle une faute. Il y a plusieurs formes d'erreur de jeu :
 
-- playing out of suit 
+- jouer hors couleur
 
-- sloughing on a trick when you hold trump in your hand 
+- défausser sur un pli alors que vous avez de l'atout en main
 
-- playing out of turn
+- jouer hors tour
 
-- failure to discard 3 cards prior to the play portion of the hand - this constitutes a renege if bidder has led to the first trick
+- ne pas avoir défaussé 3 cartes avant le jeu — cela constitue une faute si l'enchérisseur a mené au premier pli
 
-- purposely exposing any portion of your hand to another player (during the play portion of the game for all players and also during the meld portion of the hand for non-bidders with the exception of meld cards)
+- exposer sciemment une partie de sa main à un autre joueur (pendant le jeu pour tous les joueurs, et aussi pendant la phase de meld pour les non-enchérisseurs, à l'exception des cartes de meld)
 
-- failure to kill
+- ne pas monter
 
-- any other action that disrupts the harmony of the game.
+- toute autre action qui perturbe le bon déroulement du jeu.
 
-These are all grounds for a renege. 
+Tous ces cas constituent une faute.
 
-If the bidder reneges, he automatically takes a double set and the amount of his bid is subtracted from his score. The 2-opposing players get to count their meld points and the remainder of the hand is thrown in. 
+Si l'enchérisseur commet une faute, il prend automatiquement une double chute et le montant de son enchère est soustrait de son score. Les deux joueurs adverses marquent leurs points de meld et le reste de la donne est jeté.
 
-If either of the 2 non-bidders accidentally misplay, the bidder automatically makes his bid. The bidder gets to score the amount of his bid and his meld, the player that misplayed loses all meld and takes a single set, and the third player scores only his meld.
-
-## Other Pinochle WWW pages
-
-There are separate pages on this site for:
-
-- Single Deck Partnership Pinochle
-
-- Double Deck Partnership Pinochle
-
-- Two-handed Pinochle
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Pinochle - Three-player
+Si l'un des deux non-enchérisseurs commet une erreur de jeu par inadvertance, l'enchérisseur réalise automatiquement son enchère. L'enchérisseur marque le montant de son enchère et son meld, le joueur ayant commis la faute perd tout son meld et prend une chute simple, et le troisième joueur ne marque que son meld.

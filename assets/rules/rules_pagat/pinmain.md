@@ -2,280 +2,227 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** A popular North American card game, and some of its variants.
+**But :** Un jeu de cartes nord-américain populaire, et certaines de ses variantes.
 
 ---
 
-*This page is based on David Dailey's rules, entitled* **Pinochle is for Fun!**
+*Cette page est basée sur les règles de David Dailey, intitulées* **Pinochle is for Fun!**
 
-**Note:** There are other pages on this site for Double Deck Pinochle , Three Player Auction Pinochle and Two Handed Pinochle. 
+**Note :** Il y a d'autres pages sur ce site pour le Double Deck Pinochle, le Pinochle à enchères à trois joueurs et le Pinochle à deux joueurs.
 
-## Contents
+## Sommaire
 
 ## Introduction
 
-David Dailey writes:
+David Dailey écrit :
 
-My parents taught me to play Pinochle the summer before my sixth birthday. I have been playing for many years since, and I greatly enjoy this opportunity to share my version of Pinochle with you all.
+Mes parents m'ont appris à jouer au Pinochle l'été précédant mon sixième anniversaire. Je joue depuis de nombreuses années depuis, et je apprécie beaucoup cette opportunité de partager ma version du Pinochle avec vous tous.
 
-There are many variations of this game. In fact, nearly every aspect of the game is played differently by somebody, somewhere. I call this version "My Family's Pinochle," or MFP for short. I have found Pinochle to be a wonderful game for playing in large groups, and it can be an excellent vehicle for social interaction if you play, as I do, not necessarily to win, but to have fun. I hope you also enjoy playing Pinochle.
+Il existe de nombreuses variantes de ce jeu. En fait, presque chaque aspect du jeu est pratiqué différemment par quelqu'un, quelque part. J'appelle cette version « Le Pinochle de ma famille », ou MFP pour faire court. J'ai trouvé que le Pinochle est un jeu merveilleux pour jouer en grands groupes, et il peut être un excellent vecteur d'interaction sociale si vous jouez, comme moi, pas nécessairement pour gagner, mais pour vous amuser. J'espère que vous apprécierez aussi de jouer au Pinochle.
 
-Please write me with any comments, questions, or suggestions regarding this document. Additionally, I am working on a paper version of these rules (complete with illustrations!) that will be available for sale. Please send e-mail if you are interested in purchasing a copy. I can be reached at Pinochle@CompassRoseEnterprises.com.
+Veuillez m'écrire avec vos commentaires, questions ou suggestions concernant ce document. De plus, je prépare une version papier de ces règles (complète avec illustrations !) qui sera disponible à la vente. Envoyez un courriel si vous êtes intéressé par l'achat d'une copie. Je peux être contacté à Pinochle@CompassRoseEnterprises.com.
 
-## Overview
+## Vue d'ensemble
 
-Pinochle is a trick-taking game, like Euchre, Bridge, Hearts,
-Spades, and even the children's game War. Under Taking Tricks, I'll cover how you decide who leads each trick, how you decide
-who wins each trick, and what that all means. But before we get to the trick-taking phase of the game, I'll talk about the deck, how it's dealt, how bidding takes place, and all the other pieces of the game.
+Le Pinochle est un jeu de plis, comme l'Euchre, le Bridge, les Cœurs, le Spades, et même le jeu d'enfants Bataille. Sous la section Prise de plis, je couvrirai comment on décide qui mène chaque pli, comment on décide qui gagne chaque pli, et ce que tout cela signifie. Mais avant d'arriver à la phase de prise de plis du jeu, je parlerai du jeu, de la distribution, de la façon dont se déroulent les enchères, et de toutes les autres pièces du jeu.
 
-For those familiar with Pinochle terminology, My Family's Pinochle (MFP) is single-deck, four-handed, partnership, auction, racehorse Pinochle. For those not familiar with these terms, check out the list below:
+Pour ceux qui sont familiers avec la terminologie du Pinochle, le Pinochle de ma famille (MFP) est un Pinochle à un seul jeu, à quatre joueurs, en partenariat, à enchères, avec échange de cartes. Pour ceux qui ne connaissent pas ces termes, consultez la liste ci-dessous :
 
-- **Single-deck** means we use only one deck of Pinochle cards. There are variations on the game that use two or more decks, especially to accommodate more than four players. 
+- **Un seul jeu** signifie que nous n'utilisons qu'un seul jeu de cartes de Pinochle. Il existe des variantes du jeu qui utilisent deux jeux ou plus, surtout pour accommoder plus de quatre joueurs.
 
-- **Four-handed** means that four people play at a time. I also play three-handed pinochle, and I've worked on developing a special deck for playing five-handed pinochle. Two-handed and six-handed pinochle also exist, and I'm sure there are others (eight-handed comes to mind).
+- **À quatre joueurs** signifie que quatre personnes jouent à la fois. Je joue aussi au Pinochle à trois joueurs, et j'ai travaillé au développement d'un jeu spécial pour jouer au Pinochle à cinq joueurs. Le Pinochle à deux et à six joueurs existe également, et je suis sûr qu'il y en a d'autres (le Pinochle à huit vient à l'esprit).
 
-- **Partnership **means that the four people are grouped in two teams of two. There are variations (notably in three-handed) where each player plays independently, and other variations where the player taking the bid has a partner based on which other player is holding a particular card.
+- **En partenariat** signifie que les quatre personnes sont regroupées en deux équipes de deux. Il existe des variantes (notamment à trois joueurs) où chaque joueur joue de manière indépendante, et d'autres variantes où le joueur prenant l'enchère a un partenaire basé sur quel autre joueur détient une carte particulière.
 
-- **Auction **means that the privilege of naming trump is bid for amongst the players. The player winning the bid gets the right to name trump, but also has the responsibility to make sure the team earns the number of points bid. One variation is that trump is determined by the final card dealt from the deck.
+- **À enchères** signifie que le privilège de nommer l'atout est mis aux enchères entre les joueurs. Le joueur gagnant les enchères obtient le droit de nommer l'atout, mais a aussi la responsabilité de s'assurer que l'équipe gagne le nombre de points enchéris. Une variante est que l'atout est déterminé par la dernière carte distribuée du jeu.
 
-- **Racehorse **means that, after the winning bidder has named trump, that player's partner passes cards across the table. The bidder incorporates those into the hand, then passes the same number of cards back. A common variation is to play cutthroat, where such passing of cards does not take place.
+- **Avec échange** signifie que, après que le gagnant de l'enchère a nommé l'atout, le partenaire de ce joueur passe des cartes à travers la table. L'enchérisseur les incorpore dans sa main, puis repasse le même nombre de cartes. Une variante courante est de jouer en chacun pour soi, où cet échange de cartes n'a pas lieu.
 
-Back to contents
+Retour au sommaire
 
-## The Deck
+## Le jeu
 
-My Family's Pinochle is played with a 48-card deck (there are variations). The deck consists of twelve cards in each of four suits - two in each of the ranks Ace, Ten, King, Queen, Jack, and Nine. Note that the rank of cards differs from standard usage: the Ten outranks everything (within its suit) except the Ace. This is likely to be a stumbling block for many people; however, if you are familiar with the bowers in Euchre or the strange role played by the Queen of Spades in Hearts, you should have no trouble with the transition.
+Le Pinochle de ma famille se joue avec un jeu de 48 cartes (il existe des variantes). Le jeu se compose de douze cartes dans chacune des quatre couleurs — deux de chaque rang : As, Dix, Roi, Dame, Valet et Neuf. Notez que le rang des cartes diffère de l'usage standard : le Dix surpasse tout (dans sa couleur) sauf l'As. C'est probablement un obstacle pour beaucoup de gens ; cependant, si vous êtes familier avec les forts dans l'Euchre ou le rôle étrange joué par la Dame de Pique dans les Cœurs, vous ne devriez avoir aucune difficulté avec la transition.
 
-In the trick-taking phase of the game, the Aces, Tens, and Kings are worth points, and thus are called "counters." Queens, Jacks, and Nines are not worth points (although they can win tricks [and influence people]), so they are called "non-counters."
+Dans la phase de prise de plis du jeu, les As, les Dix et les Rois valent des points, et sont donc appelés « compteurs ». Les Dames, les Valets et les Neufs ne valent pas de points (bien qu'ils puissent gagner des plis [et influencer les gens]), ils sont donc appelés « non-compteurs ».
 
-The (at first) unusual order of ranks can be remembered by chanting "Ace, Ten, King" over and over, much as a beginning or infrequent dancer (such as myself) chants "one, two, three" while learning to waltz. "Ace, Ten, King" has become something of a mantra at our pinochle parties.
+L'ordre de rang inhabituel (au début) peut être mémorisé en répétant « As, Dix, Roi » encore et encore, un peu comme un danseur débutant ou occasionnel (comme moi) répète « un, deux, trois » en apprenant la valse. « As, Dix, Roi » est devenu une sorte de mantra lors de nos soirées Pinochle.
 
-Back to contents
+Retour au sommaire
 
-## The Deal
+## La distribution
 
-For the first round of a game, the players select a dealer in
-whatever manner they choose. At our house, it's generally whoever happens to pick up the cards first. (Throughout this document, a "round" will refer to the entire sequence from one deal to the next; the set of cards dealt to an individual player will be called a "hand.")
+Pour le premier tour d'une partie, les joueurs choisissent un donneur de la manière qui leur convient. Chez nous, c'est généralement celui qui se trouve à ramasser les cartes en premier. (Dans tout ce document, un « tour » fera référence à la séquence complète d'une distribution à la suivante ; l'ensemble des cartes distribuées à un joueur individuel sera appelé une « main ».)
 
-The dealer shuffles the cards in whatever manner is convenient to mix them thoroughly. (It is considered good form to offer to shuffle and/or deal for somebody whose hands don't work so well.) The shuffled deck is placed on the table to the dealer's right; the player to that side cuts the deck, preferably toward
-the dealer.
+Le donneur mélange les cartes de la manière qui convient pour les bien mélanger. (Il est considéré comme poli d'offrir de mélanger et/ou distribuer pour quelqu'un dont les mains ne fonctionnent pas très bien.) Le jeu mélangé est posé sur la table à la droite du donneur ; le joueur de ce côté coupe le jeu, de préférence vers le donneur.
 
-The dealer picks up the deck (cut portion last) and deals the cards evenly to each players, beginning with dealer's left. Some players insist that the cards be dealt one at a time. I was taught to deal the cards three at a time, and continue to do so. Truth be told, it doesn't matter as long as each player receives twelve cards, the dealer receiving the final card(s). All 48 cards will have been dealt.
+Le donneur ramasse le jeu (la partie coupée en dernier) et distribue les cartes équitablement à chaque joueur, en commençant par la gauche du donneur. Certains joueurs insistent pour que les cartes soient distribuées une par une. On m'a appris à distribuer les cartes trois par trois, et je continue de le faire. Pour être franc, cela n'importe pas tant que chaque joueur reçoit douze cartes, le donneur recevant la ou les dernières cartes. Les 48 cartes auront toutes été distribuées.
 
-It is generally courteous to wait until all the cards have been dealt before picking up your hand. This way, if one player does not have enough cards, they can be re-distributed without having to re-shuffle and re-deal the whole deck.
+Il est généralement poli d'attendre que toutes les cartes soient distribuées avant de ramasser votre main. Ainsi, si un joueur n'a pas assez de cartes, elles peuvent être redistribuées sans avoir à remélanger et redistribuer tout le jeu.
 
-Once the cards have been dealt, the players pick up, sort, and examine their hands. The next phase is bidding.
+Une fois les cartes distribuées, les joueurs ramassent, trient et examinent leurs mains. La phase suivante est les enchères.
 
-Back to contents
+Retour au sommaire
 
-## The Bid
+## Les enchères
 
-The winner of the bid (hereafter called the "declarer") acquires three rights: 
+Le gagnant de l'enchère (ci-après appelé le « déclarant ») acquiert trois droits :
 
-- the right to name trump, 
+- le droit de nommer l'atout,
 
-- the right to receive cards from his/her partner, and 
+- le droit de recevoir des cartes de son/sa partenaire, et
 
-- the right to lead the first trick.
+- le droit de mener au premier pli.
 
-The minimum opening bid is 250 points, and the player to the dealer's left has the first opportunity to bid. Bids are made in increments of 10 (or multiples of 10) points. Unlike Bridge, no suit is named along with the point value - the bid consists of a number only. 
+L'enchère d'ouverture minimum est de 250 points, et le joueur à la gauche du donneur a la première opportunité d'enchérir. Les enchères se font par incréments de 10 (ou multiples de 10) points. Contrairement au Bridge, aucune couleur n'est nommée avec la valeur en points — l'enchère se compose d'un nombre uniquement.
 
-Bid passes to the left, and when the bid reaches you, you have four options:
+L'enchère passe à gauche, et lorsqu'elle arrive jusqu'à vous, vous avez quatre options :
 
-- Give a normal bid by announcing a number 10 points higher
-than the last bid.
+- Faire une enchère normale en annonçant un nombre 10 points plus élevé que la dernière enchère.
 
-- Give a "jump" bid by saying a number at least 20 points higher than the last bid.
+- Faire une enchère « sautée » en disant un nombre d'au moins 20 points plus élevé que la dernière enchère.
 
-- Say "Pass," thereby removing yourself from the bidding for this round. (If it looks as though the other players will be bidding for a while, go get a cup of tea.)
+- Dire « Passe », vous retirant ainsi des enchères pour ce tour. (S'il semble que les autres joueurs vont enchérir pendant un moment, allez vous chercher une tasse de thé.)
 
-- Say "Pass with help." This phrase removes you from the bidding for the round, but can be used to convey extra information to your partner. Note that some people do not allow the use of "Pass with help"; always inquire locally before starting play.
+- Dire « Passe avec aide ». Cette phrase vous retire des enchères pour le tour, mais peut être utilisée pour transmettre des informations supplémentaires à votre partenaire. Notez que certaines personnes n'autorisent pas l'utilisation de « Passe avec aide » ; renseignez-vous toujours localement avant de commencer à jouer.
 
-When only one person has not said "pass" (or "pass with help"), that person has won the bid and becomes the declarer. The amount bid is recorded on a piece of paper which is being used as a score pad.
+Lorsqu'une seule personne n'a pas dit « passe » (ou « passe avec aide »), cette personne a remporté les enchères et devient le déclarant. Le montant enchéri est enregistré sur un morceau de papier servant de feuille de score.
 
-In My Family's Pinochle, the dealer is "under": this means that if the other three players pass, the dealer has taken the bid at 250 points. 
+Dans le Pinochle de ma famille, le donneur est « sous » : cela signifie que si les trois autres joueurs passent, le donneur a pris l'enchère à 250 points.
 
-The winner of the bidding names the trump suit. 
+Le gagnant des enchères nomme la couleur d'atout.
 
-Go to bidding tactics
+Retour au sommaire
 
-Go to tactics of choosing trumps
+## Échange de cartes
 
-Back to contents
+Lorsque l'enchérisseur a nommé l'atout, le partenaire de l'enchérisseur sélectionne quatre cartes à passer à travers la table. Exactement quatre cartes doivent être envoyées ; pas plus, pas moins. Une fois que vous avez sélectionné vos quatre cartes, posez-les en un tas face cachée sur la table devant vous, et faites-les glisser vers votre partenaire.
 
-## Passing Cards
+L'enchérisseur ramasse ces quatre cartes, les trie dans sa main et choisit quatre cartes à renvoyer à travers la table de la même manière. Celles-ci peuvent inclure certaines des cartes qu'il vient de recevoir.
 
-When the bidder has named trump, the bidder's partner selects four cards to pass across the table. Exactly four cards must be sent; no more and no fewer. Once you've selected your four cards, place them in one stack face down on the table in front of you, and slide them across to your partner.
+Retour au sommaire
 
-The bidder picks up these four cards and sorts them into his or her hand and chooses four cards to send back across the table in the same way. These may include some of the cards just received. 
+## Poser le meld
 
-Go to tactics for passing cards
+Maintenant que les cartes ont été échangées à travers la table, les quatre joueurs posent leur meld. Mon dictionnaire définit le meld comme « une combinaison de cartes déclarée, notamment en les posant face ouverte sur la table », et cette définition est appropriée. Chaque combinaison est appelée un morceau de meld, et chaque morceau vaut un nombre particulier de points.
 
-Back to contents
+Il y a trois types de meld, et une carte individuelle peut appartenir à plusieurs morceaux de meld différents tant qu'ils sont de types différents. Chaque joueur pose face ouverte sur la table uniquement les cartes nécessaires pour montrer la valeur de son meld.
 
-## Laying Down Meld
-
-Now that the cards have been passed back and forth across the table, all four players lay down their meld. My dictionary calls meld "a combination of cards declared, especially by putting them face up on the table," and that definition is appropriate. Each combination is called a piece of meld, and each piece is worth a particular number of points. 
-
-There are three types of meld, and an individual card may belong to several different pieces of meld as long as they are of different types. Each player places face-up on the table only those cards necessary to show the value of their meld.
-
-In My Family's Pinochle, the various pieces of meld are worth the following numbers of points:
+Dans le Pinochle de ma famille, les différents morceaux de meld valent les nombres de points suivants :
 
 ### TYPE I
 
-**Runs** (all cards must be in trump-- non-trump runs do not count)
-Bare Run (A, T, K, Q, J) ............................. 150
-Run with Extra King (A, T, K, K, Q, J) ............... 190
-Run with Extra Queen (A, T, K, Q, Q, J) .............. 190
-Run with Extra Marriage (A, T, K, K, Q, Q, J) ........ 230 
-Double Run (A, A, T, T, K, K, Q, Q, J, J) ............ 1500
+**Suites** (toutes les cartes doivent être en atout — les suites non-atout ne comptent pas)
+Suite simple (A, 10, R, D, V) ............................. 150
+Suite avec Roi supplémentaire (A, 10, R, R, D, V) ............... 190
+Suite avec Dame supplémentaire (A, 10, R, D, D, V) .............. 190
+Suite avec Mariage supplémentaire (A, 10, R, R, D, D, V) ........ 230
+Suite double (A, A, 10, 10, R, R, D, D, V, V) ............ 1500
 
-**Nine of Trump** (called the deece) ...................... 10
+**Neuf d'atout** (appelé le deece) ...................... 10
 
-**Marriages** (King and Queen of the Same Suit)
-Royal Marriage (in Trump) ........................... 40
-Common Marriage (non-Trump) ......................... 20
+**Mariages** (Roi et Dame de la même couleur)
+Mariage royal (en atout) ........................... 40
+Mariage ordinaire (non atout) ......................... 20
 
 ### TYPE II
 
 **Pinochle**
-Single (one Jack of Diamonds and one Queen of Spades) ....... 40
-Double (both Jacks of Diamonds and both Queens of Spades) ... 300
+Simple (un Valet de Carreau et une Dame de Pique) ....... 40
+Double (les deux Valets de Carreau et les deux Dames de Pique) ... 300
 
 ### TYPE III
 
-**Arounds** One of Each Suit Both of Each Suit
-Aces ............... 100 ................. 1000
-Kings .............. 80 ................. 800
-Queens ............. 60 ................. 600
-Jacks .............. 40 ................. 400
+**Carrés** Un de chaque couleur Deux de chaque couleur
+As ............... 100 ................. 1000
+Rois .............. 80 ................. 800
+Dames ............. 60 ................. 600
+Valets .............. 40 ................. 400
 
-Although it seems arbitrary, Tens Around is worth nothing. Nines
-Around, if you really want to meld it, is (facetiously) worth
-10 points, because you automatically have the deece.
+Bien que cela semble arbitraire, les Dix carrés ne valent rien. Les Neufs carrés, si vous voulez vraiment les déclarer, valent (facétieusement) 10 points, car vous avez automatiquement le deece.
 
-When all four players have laid down their meld, both teams count their points and record them on the score pad. Here's where it starts to get interesting: There are only a total of 250 points available during the trick-taking phase of the game. If the amount that was bid is more than 250 points above the amount melded by the declarer's team, there is no way that team can make their bid. They are not "on the board," and they will "go set" for this hand. (See the Taking Tricks section for what happens when you've "gone set.")
+Lorsque les quatre joueurs ont posé leur meld, les deux équipes comptent leurs points et les enregistrent sur la feuille de score. C'est là que ça devient intéressant : il n'y a qu'un total de 250 points disponibles pendant la phase de prise de plis du jeu. Si le montant enchéri est supérieur de plus de 250 points au montant du meld de l'équipe du déclarant, il n'y a aucun moyen pour cette équipe de réaliser son enchère. L'équipe n'est pas « sur la feuille », et elle « chutera » pour cette donne. (Voir la section Prise de plis pour ce qui se passe quand on a « chuté ».)
 
-If the difference between the amount bid and the amount the declarer's team has melded is 250 points or less, the hand can be played out. However, if the declarer feels there is absolutely no chance of making the required points, he or she can "throw in the hand" and the consequences are the same as if that team had not been "on the board". General courtesy calls for all players to wait until the declarer picks up his or her own meld; then they may pick up theirs. This gives the declarer a fair chance to see what he or she is up against.
+Si la différence entre le montant enchéri et le montant que l'équipe du déclarant a meldé est de 250 points ou moins, la donne peut être jouée. Cependant, si le déclarant estime qu'il n'y a absolument aucune chance de réaliser les points requis, il peut « jeter la donne » et les conséquences sont les mêmes que si l'équipe n'avait pas été « sur la feuille ». La courtoisie générale veut que tous les joueurs attendent que le déclarant ramasse son propre meld ; ensuite ils peuvent ramasser le leur. Cela donne au déclarant une chance équitable de voir à quoi il est confronté.
 
-Back to contents
+Retour au sommaire
 
-## Taking Tricks
+## Prise de plis
 
-Once all players have picked up their melded cards, the declarer leads to the first trick. Proceeding to the left, each player plays a card on the trick (following the rules outlined below). When four cards have been played to the trick, the highest-ranking card of trump - or, if there is no trump in the trick, the highest-ranking card of the suit led - wins the trick. If there is a tie for highest-ranking card, the trick is won by whichever of the equal cards was played first. The player who played the winning card leads to the next trick, and so on until twelve tricks have been played.
+Une fois que tous les joueurs ont ramassé leurs cartes de meld, le déclarant mène au premier pli. En procédant vers la gauche, chaque joueur joue une carte sur le pli (en suivant les règles décrites ci-dessous). Lorsque quatre cartes ont été jouées sur le pli, la carte de rang le plus élevé d'atout — ou, s'il n'y a pas d'atout dans le pli, la carte de rang le plus élevé de la couleur menée — gagne le pli. S'il y a une égalité pour la carte de rang le plus élevé, le pli est gagné par la carte égale qui a été jouée en premier. Le joueur qui a joué la carte gagnante mène au pli suivant, et ainsi de suite jusqu'à ce que douze plis aient été joués.
 
-There are some rules about what must be played on the trick. The first, or lead, card, may be anything in the leader's hand (although some plays are smarter than others). The basic rules of engagement are as follows:
+Il y a quelques règles sur ce qui doit être joué sur le pli. La première carte, ou carte menée, peut être n'importe quoi dans la main du meneur (bien que certains jeux soient plus malins que d'autres). Les règles de base d'engagement sont les suivantes :
 
-- If you have a card of the same suit as the lead card, you must play it. If possible, you must play a card that beats the card that currently controls the trick.
+- Si vous avez une carte de la même couleur que la carte menée, vous devez la jouer. Si possible, vous devez jouer une carte qui bat la carte qui contrôle actuellement le pli.
 
-- If you do not have any cards in the suit led, but you have a card in trump, you must play it, thereby "trumping the trick". If you have no card of the suit led and the trick already contains trump, you must beat it with a higher trump card if you can; even if you can't win the trick you must in any case play a trump if you have one.
+- Si vous n'avez pas de carte dans la couleur menée, mais que vous avez un atout, vous devez le jouer, coupant ainsi le pli. Si vous n'avez pas de carte de la couleur menée et que le pli contient déjà un atout, vous devez le battre avec un atout supérieur si vous le pouvez ; même si vous ne pouvez pas gagner le pli, vous devez de toute façon jouer un atout si vous en avez un.
 
-- If you cannot follow suit and you cannot trump the trick, you may "slough", that is, play any other card. 
+- Si vous ne pouvez pas fournir et que vous ne pouvez pas couper le pli, vous pouvez « défausser », c'est-à-dire jouer n'importe quelle autre carte.
 
-Notes: 
+Notes :
 
-- The first played of two identical cards beats the second.
+- La première jouée de deux cartes identiques bat la seconde.
 
-- The rule obliging you to beat the card currently winning the trick applies even if the card you are obliged to beat is your partner's.
+- La règle obligeant à battre la carte gagnant actuellement le pli s'applique même si la carte que vous êtes obligé de battre est celle de votre partenaire.
 
-- If you have no card of the suit led, you must play a trump if you can, even if someone before you has already played a higher trump than yours. The only case in which you are allowed to throw a card of a non-trump suit different from the led suit is when you have no cards of the suit led and no trumps.
+- Si vous n'avez pas de carte de la couleur menée, vous devez jouer un atout si vous le pouvez, même si quelqu'un avant vous a déjà joué un atout supérieur au vôtre. Le seul cas où vous êtes autorisé à défausser une carte d'une couleur non-atout différente de la couleur menée est lorsque vous n'avez pas de carte de la couleur menée et pas d'atout.
 
-- The obligation to play higher only applies if you are able to beat the card that is currently winning the trick. If you are unable to do this you may play any card, subject always to the necessity to follow suit and to play a trump if you have no card of the suit led. For example, if the non-trump lead has already been trumped, and you have cards in the suit led, you cannot beat the trump that is currently winning the trick (since you have to follow suit), so you may play any card of the suit that was led.
+- L'obligation de jouer plus fort ne s'applique que si vous êtes capable de battre la carte qui gagne actuellement le pli. Si vous n'y arrivez pas, vous pouvez jouer n'importe quelle carte, sous réserve toujours de l'obligation de fournir et de jouer un atout si vous n'avez pas de carte de la couleur menée. Par exemple, si le pli non-atout a déjà été coupé, et que vous avez des cartes dans la couleur menée, vous ne pouvez pas battre l'atout qui gagne actuellement le pli (puisque vous devez fournir), vous pouvez donc jouer n'importe quelle carte de la couleur menée.
 
-Once all four cards have been played to a trick, it should be clear which player has won the trick. Each team should designate one partner to "pull" the tricks, or gather them from the center of the table. For the declaring team, this is usually
-the non-declarer (giving the declarer time to concentrate on what to lead next). The puller collects the cards, turns them face-down, and places them in a stack in front of him or her on the table. As a courtesy, the puller shows the cards to the other players (especially the declarer) before they are turned face-down.
+Une fois que les quatre cartes ont été jouées sur un pli, il devrait être clair quel joueur a gagné le pli. Chaque équipe devrait désigner un partenaire pour « ramasser » les plis, ou les rassembler au centre de la table. Pour l'équipe du déclarant, c'est généralement le non-déclarant (donnant au déclarant le temps de se concentrer sur ce qu'il va mener ensuite). Le ramasseur collecte les cartes, les retourne face cachée et les pose en tas devant lui sur la table. Par courtoisie, le ramasseur montre les cartes aux autres joueurs (surtout au déclarant) avant de les retourner face cachée.
 
-Go to tactics of playing tricks
+Retour au sommaire
 
-Back to contents
+## Comptage des points
 
-## Counting Points
+Une fois les douze plis joués, les deux équipes ramassent leurs tas de cartes et comptent les As, les Dix et les Rois (les « compteurs ») collectés pendant le tour. Chaque compteur vaut 10 points. Le dernier pli, en lui-même, vaut 10 points supplémentaires. Cela fait 250 points au total : 240 pour les vingt-quatre compteurs du jeu, plus 10 pour le dernier pli.
 
-Once all twelve tricks have been played, both teams collect their stacks of pulled cards and count the Aces, Tens, and Kings (the "counters") collected during the round. Each counter is worth 10 points. The final trick, in and of itself, is worth an additional 10 points. This make 250 points total: 240 for the twenty-four counters in the deck, plus 10 for the final trick.
+Les scores obtenus par chaque côté sont enregistrés sur la feuille de score.
 
-The scores obtained by each side are recorded on the score pad.
+Si l'équipe du déclarant « réalise l'enchère » (gagne assez de points, par la combinaison du meld et de la prise de plis, pour atteindre ou dépasser le montant enchéri), tous les points gagnés sont ajoutés au score précédent de l'équipe. Si ce n'est pas le cas, l'équipe « chute ». Cela signifie qu'elle ne marque aucun point de meld, aucun point pris dans les plis, et que son score précédent est réduit du montant de l'enchère.
 
-If the declaring team "makes the bid" (earns enough points, through melding and trick-taking combined, to meet or exceed the amount bid), all the earned points are added to the team's previous score. If they do not, they "go set". This means that they do not score any points melded, they score no points taken in the tricks, and their previous score is reduced by the amount bid.
+Si l'équipe non déclarante ne gagne pas de points pendant la prise de plis (c'est-à-dire qu'elle n'a pris aucun compteur et n'a pas capturé le dernier pli), l'équipe ne marque aucun point de meld. (On dit que l'équipe n'a pas « sauvé son meld ».) L'exception est que si son seul meld était un ou les deux deeces, les points sont comptés. Les neufs d'atout sont réputés « se sauver eux-mêmes ». Si l'équipe non déclarante capture des points dans les plis, le meld est ajouté à son score précédent, ainsi que les points gagnés dans les plis.
 
-If the non-declaring team fails to earn points while taking tricks (that is, they pulled no counters and failed to capture the final trick), they do not score any points that were melded. (It is said that they failed to "save their meld.") The exception is that if their only meld was one or both deeces, the points are scored. Nines of trump are said to "save themselves". If the non-declaring team does capture points in tricks, the meld is added to their previous score, along with any points earned in tricks.
+Si l'équipe déclarante n'était pas « sur la feuille » (son meld était inférieur à son enchère de plus de 250 points) ou si elle a décidé de jeter la donne sans jouer, l'équipe perd le montant de son enchère et les adversaires marquent leur propre meld. Les cartes ne sont pas jouées, il n'y a donc pas de score pour les cartes gagnées dans les plis. Notez que si l'équipe déclarante n'a aucune chance de réaliser son enchère, il est avantageux pour elle de jeter la donne, car cela empêche les adversaires de marquer pour les cartes prises dans le jeu.
 
-If the declaring team were not "on the board" (their meld fell short of their bid by more than 250 points) or they decided to throw in the hand without play, they lose the amount of their bid, and the opponents score their own meld. The cards are not played, so there is no score for cards won in tricks. Note that if the declaring side have no chance of making their bid, it is advantageous for them to throw in the hand, as this prevents the opponents from scoring for cards taken in the play.
+C'est un grand coup pour l'équipe déclarante de prendre les 250 points pendant la phase de prise de plis du jeu. C'est aussi un grand coup pour l'équipe non déclarante de voler assez de points pour que l'équipe déclarante ne puisse pas réaliser son enchère. Cette tension, et l'attente de voir comment elle se résoudra, font partie du grand plaisir du Pinochle.
 
-It is a great coup for the declaring team to take all 250 points during the trick-taking phase of the game. It is also a great coup for the non-declaring team to steal enough points that the declaring team cannot make their bid. This tension, and waiting to see how it will be resolved, is part of the great fun of Pinochle.
+Le Pinochle de ma famille se joue généralement jusqu'à 1500 points lorsqu'il n'y a que quatre personnes qui jouent (et si les deux équipes dépassent 1500 sur le même tour, l'équipe déclarante gagne indépendamment du score réel). Si nous avons plusieurs personnes supplémentaires, nous comptons quatre tours pour une partie et nous changeons de partenaires et/ou de tables. Le Pinochle est très amusant quand on peut jouer avec quatre ou cinq personnes différentes au cours d'une soirée — plus on accumule beaucoup d'histoires sur « le gros qui a échappé ».
 
-My Family's Pinochle is generally played to 1500 points when there are only four people playing (and if both teams exceed 1500 on the same round, the declaring team wins regardless of the actual score). If we have several more people, however, we call four rounds a game and switch partners and/or tables. Pinochle is a lot of fun when you can play with four or five different people during the course of an evening - plus, you build up a lot of stories about "the big one that got away".
+Retour au sommaire
 
-Back to contents
+## Variantes
 
-## Variations
+Certains jouent qu'aucun point supplémentaire n'est marqué pour un roi ou une dame supplémentaire ajouté à une suite. C'est probablement plus courant que la façon de compter le meld décrite dans le récit principal. A-10-R-R-D-D-V d'atout marquerait 190 pour une suite plus un mariage d'atout.
 
-Some play that no extra points are scored for a single extra king or queen added to a run. This is probably more usual than the way of scoring meld described in the main account. A-T-K-K-Q-Q-J of trumps would score 190 for a run plus a marriage in trumps.
+Les règles de jeu données dans la plupart des livres de jeux de cartes publiés depuis 1945 sont quelque peu différentes de celles données dans la section prise de plis de cette page. Selon ces règles :
 
-The rules of play given in most card game books published since 1945 are somewhat different from those give in the taking tricks section of this page. According to these rules:
+- Si un atout est mené, les autres joueurs doivent jouer atout s'ils le peuvent, et si possible ils doivent battre l'atout le plus fort joué jusqu'à présent sur le pli.
 
-- If a trump is led, the other players must play trumps if they can, and if possible they must beat the highest trump so far played to the trick. 
+- Si un non-atout est mené, les autres joueurs doivent fournir s'ils le peuvent, et doivent couper s'ils ne peuvent pas fournir, mais il n'y a pas d'obligation de battre la carte la plus forte du pli. Il n'est ni nécessaire de surmonter en fournissant, ni de battre l'atout le plus fort joué jusqu'à présent en coupant.
 
-- If a non-trump is led, the other players must follow suit if they can, and must trump if unable to follow suit, but there is no obligation to beat the highest card in the trick. It is neither necessary to overtake when following suit, nor is it necessary to beat the highest trump so far played when trumping.
+Les règles plus anciennes, données sur cette page, obligent les joueurs à battre la carte la plus forte du pli chaque fois que c'est possible, même si un non-atout a été mené, et de nombreux joueurs, peut-être la majorité, continuent d'observer ces règles plus anciennes.
 
-The older rules, as given on this page, require players to beat the highest card in the trick whenever possible, even if a non-trump was led, and many players, perhaps the majority, still observe these older rules.
+De nombreux joueurs divisent tous les scores par 10 — de sorte qu'un pinochle vaut 4, une suite vaut 15, chaque compteur (A, 10, R) pris dans un pli vaut 1, et ainsi de suite.
 
-Many players divide all the scores by 10 - so a pinochle is worth 4, a run is worth 15, each counter (A, T, K) taken in a trick is worth 1, and so on.
+Robert J. Gauen rapporte une méthode de décompte différente fréquemment utilisée dans le nord-ouest des États-Unis. Celle-ci utilise des jetons. Chaque équipe se voit attribuer 14 jetons colorés (une équipe rouge, les adversaires bleus) représentant 100 points chacun et 10 jetons blancs représentant 10 points chacun. Un joueur de chaque équipe est chargé de tenir les jetons au début et de les passer à son partenaire au fur et à mesure que les points sont marqués. À la fin de chaque donne, un jeton coloré pour chaque centaine de points gagnés et un jeton blanc pour chaque dizaine de points gagnés est passé au partenaire. Le premier côté à passer tous les jetons de l'autre côté de la table gagne. Il y a une différence notable dans le décompte. Lorsque le partenariat ayant fait l'enchère « chute » sur une donne (n'atteint pas les points de son enchère), il ne perd pas de points ; au lieu de cela, l'autre équipe marque l'enchère échouée en plus des points qu'elle a obtenus en meld et des compteurs pris dans ses plis. Cette méthode de décompte produit une partie beaucoup plus rapide.
 
-Robert J Gauen reports a different method of scoring frequently used in the Pacific northwest of the USA. This uses chips. Each team is allotted 14 colored chips (one team red, the opponents blue) representing 100 points each and 10 white chips representing 10 points each. One player from each team is assigned to hold the chips at the start and pass them to partner as points are scored. At the conclusion of each hand one colored chip for each hundred points won and one white chip for each ten points won is passed across to the partner. The first side to pass all chips to the opposite side of the table wins. There is one notable difference in scoring. When the bidding partnership "goes set" on a hand (fails to make the points for their bid), they do not lose points; instead, the other team scores the failed bid in addition to the points which they made on meld, and the counters they took in their tricks. This method of scoring makes for a much faster game. 
+## Autres pages Pinochle
 
-## Further Pinochle WWW Pages
+Pour d'autres formes de Pinochle en partenariat à un seul jeu, voir la page [Pinochle](https://web.archive.org/web/20091021004652/http://geocities.com/TimesSquare/2767/pinochle.html) de John Hay.
 
-For other forms of Single Deck Partnership Pinochle, see John Hay's [Pinochle](https://web.archive.org/web/20091021004652/http://geocities.com/TimesSquare/2767/pinochle.html) page.
+Le site [Stonebridge Pinochle](https://sbirnbaum.hnccorp.com/pinochle/) de Steve Birnbaum décrit une version différente du Pinochle en partenariat à un seul jeu, avec beaucoup d'informations utiles sur la stratégie et le sens des enchères. Quelques différences clés dans les règles :
 
-Steve Birnbaum's [Stonebridge Pinochle](https://sbirnbaum.hnccorp.com/pinochle/) site describes a different version of Single Deck Partnership Pinochle, with plenty of useful information on strategy and the meanings of bids. Some key differences in the rules there are:
+- L'enchère minimum est de 190.
 
-- The minimum bid is 190.
+- Il n'y a pas d'échange de cartes entre partenaires.
 
-- There is no passing of cards between partners.
+- Il n'y a pas de scores spéciaux pour les melds doubles. Une suite double compte comme deux suites simples, un pinochle double comme deux pinochles et un carré double comme deux carrés.
 
-- There are no special scores for double melds. A double run just scores a two single runs, a double pinochle as two pinochles and a double around as two arounds.
+- Lorsqu'un non-atout est mené, vous devez couper si vous n'avez pas la couleur, mais vous n'avez pas besoin de battre la carte la plus forte du pli.
 
-- When a non-trump is led, you must trump if void, but you do not need to beat the highest card in the trick.
+- Dans le jeu, les Rois ne valent que 5 points, pas 10 ; les Dames valent aussi 5 points pour que le total soit toujours de 250.
 
-- In the play, Kings are worth just 5 points, not 10; Queens are also worth 5 points so the total is still 250.
+Associé à cette page se trouve une page séparée sur la tactique au Pinochle (pour le jeu en partenariat à un seul jeu) et un glossaire du Pinochle. Le matériel pour ces deux pages a également été contribué par David Dailey.
 
-Associated with this page is a separate page on Pinochle Tactics (for the single deck partnership game) and a Pinochle Glossary. The material for both of these was also contributed by David Dailey.
-
-B.J. Herbison's [Playing Pinochle](https://herbison.com/herbison/Pinochle.html) page describes a variation of Single Deck Pinochle, and a detailed set of suggested bidding conventions.
-
-## Other Types of Pinochle
-
-There are separate pages on this site for:
-
-- Double Deck Pinochle
-
-- Three-handed Pinochle
-
-- Two-handed Pinochle
-
-Eventually, more types will be covered.
-
-## Pinochle Software and On-Line Games
-
-Free [Canasis.com](http://canasis.com/pinochle/) is an online pinochle site that offers the most variations of pinochle including both single deck and double deck styles, both the old and new rules, and most of the variations described above. With a pleasing wooden theme and many other features, Canasis is definitely worth a long look.
-
-You can play Single Deck Partnership Pinochle online at 
-
-- [CardzMania](https://www.cardzmania.com/Pinochle)
-
-- [AOL games](https://www.aol.com/games/play/masque-publishing/pinochle/) (formerly games.com / Masque publishing)
-
-- [Nidink](https://www.nidink.com/)
-
-- [Tabletopia](https://tabletopia.com/games/pinochle-card-game)
-
-- [World of Card Games](https://worldofcardgames.com/pinochle)
-
-- [Len Palmeri's CaardCluub](https://www.caardcluub.com).
-
-- [Bill's Pinochle Game](https://pinochle.northwestpages.com) at northwestpages.com
-
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes a partnership single deck Pinochle program, along with many other popular card games.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Pinochle - Single Deck Partnership
+La page [Playing Pinochle](https://herbison.com/herbison/Pinochle.html) de B.J. Herbison décrit une variante du Pinochle à un seul jeu, et un ensemble détaillé de conventions d'enchères suggérées.

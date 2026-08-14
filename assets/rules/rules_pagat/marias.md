@@ -2,309 +2,306 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** Rules for Mariáš, the most popular card game in the Czech Republic and Slovakia.
+**But :** Règles du Mariáš, le jeu de cartes le plus populaire en République tchèque et en Slovaquie.
 
 ---
 
-*This page is mostly based on information from Tomáš Němec, Jiří Soukup and Tomáš Svoboda.*
+*Cette page est principalement basée sur des informations de Tomáš Němec, Jiří Soukup et Tomáš Svoboda.*
 
-| Play Mariáš online at
+| Jouez au Mariáš en ligne sur
 talon.cz |
 | |
 
 - Introduction
-- Mariáš for three players
+- Mariáš à trois joueurs
 
 ## Introduction
 
-**Mariáš** is the most popular card game in the Czech Republic and in Slovakia. It is a point trick game of the marriage group played with the Czech 32-card German suited pack. The name is a phonetic transcription of the French *'mariage'*. As in all games of this group, there is a bonus for holding the king and over-knave of a suit in hand, the over-knave corresponding to the queen in French suited packs, where the king-queen combination is known as a marriage. 
+Le **Mariáš** est le jeu de cartes le plus populaire en République tchèque et en Slovaquie. C'est un jeu de levées comptées du groupe des mariages, joué avec le jeu allemand tchèque de 32 cartes. Le nom est une transcription phonétique du français « *mariage* ». Comme dans tous les jeux de ce groupe, il y a un bonus pour avoir le roi et l'over-knave d'une même couleur en main, l'over-knave correspondant à la dame dans les jeux à enseignes françaises, où la combinaison roi-dame est appelée mariage.
 
-The basic and most popular version of is for three players, but it can also be played by four or (as a last resort) by two. In the three-player game, in each hand one player plays alone against the other two in partnership. Normally the lone player's objective is to win more card points than the other two players together; card points are obtained for winning aces and tens in tricks, for winning the last trick, and for holding the above mentioned combination of king and over-knave of a suit. There are bonuses for winning the last trick with the trump seven and for taking 100 or more card points, and the value of these bonuses can be increased by announcing in advance in advance that you are playing for them. As an alternative to playing to win card points, it is possible for a player to undertake a contract whose objective is to win all the tricks or to lose all the tricks. 
+La version de base et la plus populaire se joue à trois joueurs, mais il peut aussi se jouer à quatre ou (en dernier recours) à deux. Dans le jeu à trois, à chaque main, un joueur joue seul contre les deux autres en équipe. L'objectif du joueur seul est normalement de remporter plus de points de cartes que les deux autres ensemble ; les points de cartes s'obtiennent en gagnant des as et des dix dans les levées, en remportant la dernière levée, et en détenant la combinaison susmentionnée de roi et d'over-knave d'une couleur. Il y a des bonus pour remporter la dernière levée avec le sept d'atout et pour prendre 100 points de cartes ou plus, et la valeur de ces bonus peut être augmentée en les annonçant à l'avance. Alternativement à jouer pour gagner des points de cartes, un joueur peut s'engager dans un contrat dont l'objectif est de gagner toutes les levées ou de perdre toutes les levées.
 
-## Mariáš for Three Players
+## Mariáš à trois joueurs
 
-### The Cards
+### Les cartes
 
-The 32 card pack consists of four suits: hearts or red (*červené*), bells or balls (*kule*), acorns (*žaludy*) and leaves or green (*zelené*), each with eight cards: ace (*eso*), king (*král*), over-knave (*svršek* or *filek*), under-knave (*spodek*), 10 (*deset*), 9 (*devět*), 8 (*osm*), 7 (*sedm*). Two designs of these cards are in use. The cards generally used in Bohemia have seated kings and are single headed. In Moravia and Slovakia Mariáš is often played using double headed cards of the William Tell pattern, pattern similar to that used in Austria and Hungary, with mounted kings. In either case, the cards have no indices. The over-knaves and under-knaves are distinguished by the position of the suit mark, which are at the top of the over, and lower down on the under of each suit.
+Le jeu de 32 cartes se compose de quatre couleurs : cœurs ou rouge (*červené*), cloches ou boules (*kule*), glands (*žaludy*) et feuilles ou vert (*zelené*), chacune avec huit cartes : as (*eso*), roi (*král*), over-knave (*svršek* ou *filek*), under-knave (*spodek*), 10 (*deset*), 9 (*devět*), 8 (*osm*), 7 (*sedm*). Deux designs de ces cartes sont en usage. Les cartes généralement utilisées en Bohême ont des rois assis et sont à une seule tête. En Moravie et en Slovaquie, le Mariáš se joue souvent avec des cartes à double tête du motif Guillaume Tell, similaire à celui utilisé en Autriche et en Hongrie, avec des rois montés. Dans les deux cas, les cartes n'ont pas d'indices. Les over-knaves et under-knaves se distinguent par la position du signe de couleur, en haut sur l'over et plus bas sur l'under de chaque couleur.
 
-| Bohemian cards |
+| Cartes bohèmes |
+| | | | | | | | | |
+| as de cœur | roi de cloche | over de feuille | under de gland | dix de cœur | neuf de cloche | huit de feuille | sept de gland |
 | | | | | | | | |
-| heart ace | bell king | leaf over | acorn under | heart ten | bell nine | leaf eight | acorn seven |
-| | | | | | | | |
-| William Tell cards |
+| Cartes Guillaume Tell |
 
-When there is a trump suit, the cards of every suit rank from high to low: **ace, ten, king, over, under, nine, eight, seven**. The aces and tens are called **sharp cards** and are worth 10 points each. A further 10 points are awarded for winning the last trick, making 90 points in all. The king and over of trumps held together in one hand are worth an extra 40 points if declared when playing the first of the cards to a trick, and the king and over of a non-trump suit are worth 20. A king-over combination is called a *mariáš* or *hláška*.
+Quand il y a un atout, les cartes de chaque couleur se classent de la plus forte à la plus faible : **as, dix, roi, over, under, neuf, huit, sept**. Les as et les dix sont appelés **cartes pointues** et valent 10 points chacun. 10 points supplémentaires sont accordés pour remporter la dernière levée, soit 90 points au total. Le roi et l'over d'atout détenus ensemble en main valent 40 points supplémentaires s'ils sont déclarés en jouant la première des deux cartes dans une levée, et le roi et l'over d'une couleur non atout valent 20. Une combinaison roi-over est appelée *mariáš* ou *hláška*.
 
-In contracts that have no trumps (Betl and Durch), the cards of each suit rank from high to low: **ace, king, over, under, ten, nine, eight, seven**.
+Dans les contrats sans atout (Betl et Durch), les cartes de chaque couleur se classent de la plus forte à la plus faible : **as, roi, over, under, dix, neuf, huit, sept**.
 
-If Czech cards are not available it is possible to play Mariáš with 32 cards from a standard international pack, removing the jokers and cards from 2 to 6 in each suit. The cards and suits correspond as follows: queen=over, jack=under, clubs=acorns, spades=leaves, hearts=hearts, diamonds=balls/bells.
+Si les cartes tchèques ne sont pas disponibles, il est possible de jouer au Mariáš avec 32 cartes d'un jeu international standard, en retirant les jokers et les cartes de 2 à 6 de chaque couleur. Les cartes et couleurs correspondent ainsi : dame=over, valet=under, trèfle=glands, pique=feuilles, cœur=cœurs, carreau=cloches/boules.
 
-### The deal
+### La donne
 
-The game is played clockwise. The first dealer is chosen at random and after each hand the turn to deal passes to the left. The cards are not normally shuffled between hands - they are just gathered together, cut and dealt. This enables experienced players to judge the likely positions of the cards from the order in which they were played in the previous hand. Traditionally, the cards are shuffled at the start of the game, at midnight, and every two hours after that.
+Le jeu se joue dans le sens horaire. Le premier donneur est choisi au hasard et après chaque main, le tour de donne passe à gauche. Les cartes ne sont normalement pas battues entre les mains — elles sont simplement ramassées, coupées et distribuées. Cela permet aux joueurs expérimentés de juger les positions probables des cartes d'après l'ordre dans lequel elles ont été jouées lors de la main précédente. Traditionnellement, les cartes sont battues au début de la partie, à minuit, puis toutes les deux heures.
 
-The player to the dealer's left is known as **forehand** *(forhont)*. Forehand receives extra cards in the deal, chooses the trump suit, and is the lone player in the event that a trump contract is played.
+Le joueur à la gauche du donneur est appelé **forehand** *(forhont)*. Le forehand reçoit des cartes supplémentaires lors de la donne, choisit la couleur d'atout, et est le joueur seul en cas de contrat à l'atout.
 
-Before the deal, the player to the dealer's right must cut the cards. The dealer then gives a packet of seven cards face-down to forehand, and continues dealing clockwise in packets of five, so that after two rounds of dealing forehand has 12 cards and the other two players each have 10. At this stage forehand is only allowed to pick up and look at the first seven cards dealt; forehand's other five cards are left face down on the table until trumps have been chosen. The other players may look at all 10 of their cards.
+Avant la donne, le joueur à la droite du donneur doit couper les cartes. Le donneur donne ensuite un paquet de sept cartes face cachée au forehand, et continue la distribution dans le sens horaire par paquets de cinq, de sorte qu'après deux tours de donne, le forehand a 12 cartes et les deux autres joueurs en ont 10 chacun. À ce stade, le forehand n'est autorisé à prendre et regarder que les sept premières cartes distribuées ; les cinq autres cartes du forehand restent face cachée sur la table jusqu'à ce que l'atout ait été choisi. Les autres joueurs peuvent regarder leurs 10 cartes.
 
-### Selecting trumps
+### Choix de l'atout
 
-Forehand selects a trump suit on the basis of the first seven cards dealt, by placing a card of that suit face down on the table. If unwilling to choose a suit from the first seven cards, forehand can "choose from the people" instead, which is done by selecting an unseen card from the five cards that at this stage are still lying face down in front of forehand. Either way, after selecting trumps, forehand picks up his or her remaining cards, for a total of 11 cards in hand and one face down on the table. If the trump card was chosen from the people forehand is allowed to look at it, without yet showing it to the other players.
+Le forehand choisit un atout sur la base des sept premières cartes distribuées, en plaçant une carte de cette couleur face cachée sur la table. S'il ne souhaite pas choisir une couleur d'après les sept premières cartes, le forehand peut « choisir parmi les gens » en sélectionnant une carte non vue parmi les cinq cartes encore face cachée devant lui. Dans les deux cas, après avoir choisi l'atout, le forehand ramasse ses cartes restantes, pour un total de 11 cartes en main et une face cachée sur la table. Si la carte d'atout a été choisie parmi les gens, le forehand est autorisé à la regarder, sans encore la montrer aux autres joueurs.
 
-### Selecting the contract
+### Choix du contrat
 
-In basic Mariáš, there are five different contracts that can be played. Whoever is willing to undertake the highest contract will play alone against the other two players. In ascending order, the possible contracts are:
+Au Mariáš de base, il y a cinq contrats différents. Celui qui est prêt à s'engager dans le contrat le plus élevé jouera seul contre les deux autres. Dans l'ordre croissant, les contrats possibles sont :
 
-**1. Suit**
-This is an ordinary game with trumps, and can only be played by forehand, using the trump suit selected during the deal. The aim is to take the majority of the points, by winning tricks containing aces and tens, winning the last trick, and when possible declaring one or more Mariáš combinations. To win the game, forehand has to take more points than the other two players together. In addition to the basic game, it is possible to win various bonuses, explained below.**2. Betl**
-There are no trumps, and the lone player has to lose every trick in order to win the game. The opponents win if they force the lone player to win a trick. The word Betl is adapted from the German *"Bettler"* (beggar).
-**3. Durch**
-There are no trumps, and the lone player has to win every trick to win the game. If the opponents win any tricks at all, the lone player loses. The name is also from the German: in Austrian games this type of contract is often called *"Durchmarsch"* (march-through) or *"Durch"* for short.**4. Open Betl**
-This is like Betl, but after the first trick, the lone player's cards are placed face up on the table. At this point **all** of the lone player's remaining 9 cards must be the lowest outstanding cards in their suits. If either opponent has any card that could be beaten by one of the lone player's cards, the lone player has lost.**5. Open Durch**
-This is like Durch, but after the first trick, the lone player's cards are placed face up on the table. At this point **all** of the lone player's remaining 9 cards must be the highest outstanding cards in their suits. If either opponent has any card that could beat any one of the lone player's cards, the lone player has lost. **Example:** if your cards are 
+**1. Couleur**
+C'est un jeu ordinaire avec atout, qui ne peut être joué que par le forehand, en utilisant l'atout choisi lors de la donne. Le but est de prendre la majorité des points en remportant des levées contenant des as et des dix, en remportant la dernière levée, et en déclarant si possible une ou plusieurs combinaisons de Mariáš. Pour gagner, le forehand doit prendre plus de points que les deux autres ensemble. En plus du jeu de base, divers bonus peuvent être gagnés (voir ci-dessous).**2. Betl**
+Il n'y a pas d'atout, et le joueur seul doit perdre chaque levée pour gagner. Les adversaires gagnent s'ils forcent le joueur seul à remporter une levée. Le mot Betl est adapté de l'allemand « *Bettler* » (mendiant).**3. Durch**
+Il n'y a pas d'atout, et le joueur seul doit gagner chaque levée. Si les adversaires gagnent ne serait-ce qu'une levée, le joueur seul perd. Le nom vient aussi de l'allemand : dans les jeux autrichiens, ce type de contrat est souvent appelé « *Durchmarsch* » (marche à travers) ou « *Durch* » en abrégé.**4. Betl ouvert**
+C'est comme le Betl, mais après la première levée, les cartes du joueur seul sont placées face visible sur la table. À ce moment, **toutes** les 9 cartes restantes du joueur seul doivent être les plus basses cartes encore en jeu dans leurs couleurs. Si l'un des adversaires a une carte qui pourrait être battue par l'une des cartes du joueur seul, celui-ci a perdu.**5. Durch ouvert**
+C'est comme le Durch, mais après la première levée, les cartes du joueur seul sont placées face visible sur la table. À ce moment, **toutes** les 9 cartes restantes du joueur seul doivent être les plus hautes cartes encore en jeu dans leurs couleurs. Si l'un des adversaires a une carte qui pourrait battre l'une quelconque des cartes du joueur seul, celui-ci a perdu. **Exemple :** si vos cartes sont
 
-- Hearts: A-K
+- Cœurs : A-R
 
-- Bells: A-K-O-9-8
+- Cloches : A-R-O-9-8
 
-- Leaves: -
+- Feuilles : -
 
-- Acorns: A-K-O
+- Glands : A-R-O
 
-you would be sure to win all the tricks in an ordinary Durch, but if you play an Open Durch you will lose because after you have led your ace of bells, one opponent will still have the under or ten, which beats your nine and eight.
+vous seriez sûr de gagner toutes les levées dans un Durch ordinaire, mais si vous jouez un Durch ouvert, vous perdrez car après avoir mené votre as de cloches, un adversaire aura encore l'under ou le dix, qui battent votre neuf et votre huit.
 
-The procedure for selecting the contract to be played is as follows. First forehand chooses and announces one of the five contracts. Forehand is not allowed to "pass", but must always play alone if no one else is willing to. If wishing not to play "suit", but one of the higher contracts without trumps, forehand takes the selected trump card back into hand. Whatever the contract, forehand must now throw away two cards face down to form the talon. If the chosen contract is "suit", forehand is not allowed to discard sharp cards; in other contracts any card may be discarded.
+La procédure de sélection du contrat est la suivante. D'abord, le forehand choisit et annonce l'un des cinq contrats. Le forehand n'a pas le droit de « passer », mais doit toujours jouer seul si personne d'autre ne le souhaite. S'il ne veut pas jouer « couleur », mais l'un des contrats supérieurs sans atout, le forehand reprend la carte d'atout sélectionnée dans sa main. Quel que soit le contrat, le forehand doit alors défausser deux cartes face cachée pour former le talon. Si le contrat choisi est « couleur », le forehand n'est pas autorisé à défausser des cartes pointues ; dans les autres contrats, n'importe quelle carte peut être défaussée.
 
-Forehand now asks each of the other players in turn - first the player to dealer's right and then the dealer - whether they would like to play a higher contract. The answer is either
+Le forehand demande ensuite à chaque autre joueur à tour de rôle — d'abord le joueur à la droite du donneur, puis le donneur — s'ils souhaitent jouer un contrat plus élevé. La réponse est soit :
 
-- "good", which means that the player is content to allow the announced contract to proceed, or
+- « bon », ce qui signifie que le joueur est satisfait de laisser le contrat annoncé se dérouler, ou
 
-- "bad", which means that the player wants to take over the right to play alone, and commits to play a higher contract.
+- « mauvais », ce qui signifie que le joueur souhaite reprendre le droit de jouer seul et s'engage à jouer un contrat plus élevé.
 
-If both players answer "good", the contract announced by forehand goes ahead. If it was a suit contract, forehand now turns the trump card face up and may announce bonuses (see below).
+Si les deux joueurs répondent « bon », le contrat annoncé par le forehand est joué. S'il s'agit d'un contrat à l'atout, le forehand retourne alors la carte d'atout face visible et peut annoncer des bonus (voir ci-dessous).
 
-A player who answers "bad" immediately picks up the two talon cards discarded by forehand, discards two cards face down (which could be the same cards or others), and announces a higher contract. This player then asks the other two players in turn whether this new contract is "good" or "bad". If both say "good" the new contract goes ahead; if not, the player who answers "bad" takes the talon, discards and names a higher contract still. This process continues until a proposed contract is called "good" by both opponents.
+Un joueur qui répond « mauvais » ramasse immédiatement les deux cartes du talon défaussées par le forehand, en défausse deux face cachée (qui peuvent être les mêmes ou d'autres), et annonce un contrat plus élevé. Ce joueur demande ensuite aux deux autres joueurs à tour de rôle si ce nouveau contrat est « bon » ou « mauvais ». Si les deux disent « bon », le nouveau contrat est joué ; sinon, le joueur qui répond « mauvais » prend le talon, défausse et nomme un contrat encore plus élevé. Ce processus continue jusqu'à ce qu'un contrat proposé soit jugé « bon » par les deux adversaires.
 
-### Bonuses
+### Bonus
 
-If the contract is "suit" - an ordinary game with a trump suit - there are several bonuses and penalties that can apply. There are bonuses for winning the last trick with the trump seven and for taking 100 or more card points, and a penalty for having your trump seven captured in the last trick.
+Si le contrat est « couleur » — un jeu ordinaire avec atout — plusieurs bonus et pénalités peuvent s'appliquer. Il y a des bonus pour remporter la dernière levée avec le sept d'atout et pour prendre 100 points de cartes ou plus, et une pénalité si votre sept d'atout est capturé dans la dernière levée.
 
-It is possible to announce in advance that you are trying for a bonus, thereby increasing the score for it. If both opponents say "good" to forehand's suit contract, forehand has the opportunity to announce "seven" or "100", or "100 and seven" if playing for both. After forehand has finished, each of the other players in turn has an opportunity to announce bonuses for the opponents' team ("7 against", "100 against") or to double the score for the game or any bonus announced by forehand by saying "flek" (see below).
+Il est possible d'annoncer à l'avance qu'on vise un bonus, augmentant ainsi le score correspondant. Si les deux adversaires disent « bon » au contrat à l'atout du forehand, celui-ci a la possibilité d'annoncer « sept » ou « 100 », ou « 100 et sept » s'il vise les deux. Après le forehand, chacun des autres joueurs a tour à rôle la possibilité d'annoncer des bonus pour l'équipe adverse (« 7 contre », « 100 contre ») ou de doubler le score du jeu ou de tout bonus annoncé par le forehand en disant « flek » (voir ci-dessous).
 
-The details of the possible bonuses and penalties are as follows:
+Les détails des bonus et pénalités possibles sont les suivants :
 
-**Seven** *(sedma)*
+**Sept** *(sedma)*
 
-This bonus is for winning the last trick with the lowest trump - the seven. It is possible to announce in advance that you will play for this bonus, but if you announce seven and then fail to win the bonus - because your trump seven is forced out early or another player has a higher trump at the end - you suffer a penalty equal to what you would have won. If the trump seven is played to the last trick and is beaten by a higher trump, the team that played the seven has to pay for a lost seven, even if seven was not announced.
-**Seven against**
-This is just the same as "seven", but if it is one of the opponents of the lone player who wins the last trick with the trump seven, it is called "seven against". "Seven against" can be announced or killed in the same way as a seven by the lone player. Note that if one opponent plays the trump seven to the last trick and the other opponent also has a trump, the seven is killed, and the opponents have to pay the penalty to the lone player.
+Ce bonus est pour remporter la dernière levée avec le plus petit atout — le sept. Il est possible de l'annoncer à l'avance, mais si vous l'annoncez et échouez — parce que votre sept d'atout est forcé tôt ou qu'un autre joueur a un atout supérieur à la fin — vous subissez une pénalité égale à ce que vous auriez gagné. Si le sept d'atout est joué à la dernière levée et battu par un atout supérieur, l'équipe qui a joué le sept doit payer un sept perdu, même s'il n'a pas été annoncé.
+**Sept contre**
+C'est la même chose que « sept », mais si c'est l'un des adversaires du joueur seul qui remporte la dernière levée avec le sept d'atout, cela s'appelle « sept contre ». « Sept contre » peut être annoncé ou « tué » de la même façon qu'un sept par le joueur seul. Notez que si un adversaire joue le sept d'atout à la dernière levée et que l'autre adversaire a aussi un atout, le sept est tué, et les adversaires doivent payer la pénalité au joueur seul.
 **100** *(sto)*
 
-This is a bonus for winning 100 or more points including one Mariáš. Since the sharp cards and last trick total only 90 card points, you cannot reach 100 points without a Mariáš. If you have declared more than one Mariáš, you are only allowed to include one of them when qualifying for the 100 bonus. Therefore you will need at least 60 points in tricks if it is a 40-Mariáš and at least 80 if it is a 20-Mariáš. Having taken sufficient card points in tricks to qualify for the bonus, you can increase the size of the bonus by adding in the points for other Mariáš combinations you have declared. The 100 bonus can be increased by announcing it in advance, but if you announce it and then fail to make it, you have to pay a penalty.
-**100 against**
-This is exactly like 100, but won by the opponents rather than by the lone player. It can also be announced in advance, which increases its value but risks a penalty if it fails.
+C'est un bonus pour remporter 100 points ou plus, y compris un Mariáš. Puisque les cartes pointues et la dernière levée ne totalisent que 90 points, on ne peut atteindre 100 sans un Mariáš. Si vous avez déclaré plus d'un Mariáš, vous n'êtes autorisé à en inclure qu'un seul pour le bonus de 100. Il faut donc au moins 60 points en levées pour un Mariáš de 40 et au moins 80 pour un Mariáš de 20. Ayant pris suffisamment de points pour qualifier le bonus, vous pouvez augmenter sa valeur en ajoutant les points d'autres combinaisons de Mariáš déclarées. Le bonus de 100 peut être augmenté en l'annonçant à l'avance, mais si vous l'annoncez et échouez, vous payez une pénalité.
+**100 contre**
+C'est exactement comme 100, mais gagné par les adversaires plutôt que par le joueur seul. Il peut aussi être annoncé à l'avance, ce qui augmente sa valeur mais risque une pénalité en cas d'échec.
 
 ### Flek
 
-An opponent who does not think that the lone player will win the contract can double the payment for it by saying *"flek"* (meaning "stain", "smudge", from the German "Fleck") . After *"flek"* has been said, a confident lone player can double the payment again by saying *"re"*. An opponent can then double again by saying *"tutti"*, and in theory the lone player and opponents can continue doubling without limit. In some circles the next few doubles are announced by saying "shoes" (*boty*), "pants" (*kalhoty*), *"kaiser"* and after that further doubles are expressed simply by saying "higher" or "one more time".
+Un adversaire qui pense que le joueur seul ne réalisera pas le contrat peut doubler le paiement en disant « *flek* » (signifiant « tache », de l'allemand « Fleck »). Après « *flek* », un joueur seul confiant peut redoubler en disant « *re* ». Un adversaire peut alors redoubler en disant « *tutti* », et en théorie, le joueur seul et les adversaires peuvent continuer à doubler sans limite. Dans certains cercles, les quelques doubles suivants sont annoncés en disant « chaussures » (*boty*), « pantalons » (*kalhoty*), « *kaiser* » et ensuite les doubles supplémentaires sont exprimés simplement en disant « plus haut » ou « encore une fois ».
 
-If a no-trump contract was announced, the saying of flek is combined with the selection of the contract. So if a player announces a Betl or Durch and asks the others if it is good there are three possible answers: "good" means the game can be played; "bad" means that the game cannot be played, because the player saying "bad" will player a higher contract; "flek" means that the contract can be played but the payment for it is doubled.
+Si un contrat sans atout est annoncé, le flek est combiné à la sélection du contrat. Ainsi, si un joueur annonce un Betl ou Durch et demande aux autres si c'est bon, il y a trois réponses possibles : « bon » signifie que le jeu peut être joué ; « mauvais » signifie que le jeu ne peut pas être joué, car le joueur qui dit « mauvais » jouera un contrat plus élevé ; « flek » signifie que le contrat peut être joué mais que le paiement est doublé.
 
-In a suit contract, the payment for the game and for any announced bonuses are independent and can all be separately doubled. Therefore, if forehand proposes to play a suit contract, the opponents simply answer "good" or "bad". If both say "good", forehand turns over the trump and may announce bonuses. Forehand then asks the opponents in turn again, and this time they have the opportunity to say "flek" to the game or any bonus announced by forehand and to announce bonuses of their own. An opponent who does not want to flek or announce anything just says "good". After both opponents have spoken, forehand has the chance to say "re" to any "flek" and to say "flek" to any bonus announced by the opponents, and if forehand does this the opponents can speak again, and so on until one team expresses their satisfaction by saying "good".
+Dans un contrat à l'atout, le paiement du jeu et de tout bonus annoncé sont indépendants et peuvent chacun être doublés séparément. Ainsi, si le forehand propose un contrat à l'atout, les adversaires répondent simplement « bon » ou « mauvais ». Si les deux disent « bon », le forehand retourne l'atout et peut annoncer des bonus. Le forehand demande ensuite aux adversaires à tour de rôle, et cette fois-ci ils peuvent dire « flek » au jeu ou à tout bonus annoncé par le forehand et annoncer des bonus propres. Un adversaire qui ne veut ni fleker ni annoncer quoi que ce soit dit simplement « bon ». Après que les deux adversaires ont parlé, le forehand peut dire « re » à tout « flek » et « flek » à tout bonus annoncé par les adversaires, et si le forehand le fait, les adversaires peuvent reparler, et ainsi de suite jusqu'à ce qu'une équipe exprime sa satisfaction en disant « bon ».
 
-When seven is announced, a flek to both the game or 100 and the seven is called an "ambo". 
+Quand le sept est annoncé, un flek au jeu et au 100 ainsi qu'au sept est appelé « ambo ».
 
-Flek is often given by means of the non-verbal gesture of hitting your cards with the fingers of your free hand. Making the gesture away from your body, hitting your cards with the fingernails of your free hand indicates a flek to the game or 100; the gesture towards yourself, hitting your cards with the pads of your fingertips indicates a flek to the seven. A combination of both in one fluent gesture announces an "ambo". Old tavern patrons often prefer this method since they only comment on the game when necessary or cool enough. They may comment on an "ambo" though since it doesn't occur too often.
+Le flek est souvent donné par le geste non verbal de frapper vos cartes avec les doigts de la main libre. Un geste vers l'extérieur, en frappant vos cartes avec les ongles, indique un flek au jeu ou au 100 ; un geste vers soi, en frappant avec le bout des doigts, indique un flek au sept. Une combinaison des deux en un geste fluide annonce un « ambo ». Les vieux habitués des tavernes préfèrent souvent cette méthode car ils ne commentent le jeu que lorsque c'est nécessaire ou assez cool. Ils peuvent toutefois commenter un « ambo » car celui-ci n'arrive pas trop souvent.
 
-### The Play
+### Le jeu
 
-The lone player leads to the first trick. Each trick is won by the highest trump in it, or if it contains no trumps, by the highest card of the suit led. Any card can be led to a trick, but the other players are forced to follow suit, to trump if unable to follow, and to head the trick whenever possible subject to those rules. In more detail:
+Le joueur seul mène la première levée. Chaque levée est remportée par le plus fort atout, ou à défaut par la carte la plus forte de la couleur menée. N'importe quelle carte peut être menée, mais les autres joueurs sont tenus de suivre la couleur, d'atouter s'ils ne peuvent pas suivre, et de battre la carte la plus forte possible dans le cadre de ces règles. En détail :
 
-- You must play a card of the suit that was led if you have one, and if possible you must play a card of the suit led which beats the card currently winning the trick (even if the trick is currently being won by your partner).
+- Vous devez jouer une carte de la couleur demandée si vous en avez une, et si possible vous devez jouer une carte qui bat la carte gagnant actuellement la levée (même si la levée est actuellement gagnée par votre partenaire).
 
-- If you have a card or cards of the suit led, but none of them beat the card currently winning the trick (either because you do not have a high enough card in the suit, or because a non-trump was led and the trick has already been trumped), you may play any card of the led suit.
+- Si vous avez une ou plusieurs cartes de la couleur demandée, mais qu'aucune ne bat la carte gagnant actuellement (soit parce que vous n'avez pas assez de cartes hautes dans la couleur, soit parce qu'une carte non atout a été menée et la levée a déjà été atoutée), vous pouvez jouer n'importe quelle carte de la couleur demandée.
 
-- If you have no card of the suit led you must play a trump if you can. If there are already trumps in the trick, you must if possible play a trump that beats the highest trump so far played to the trick (even if that trump was played by your partner).
+- Si vous n'avez pas de carte de la couleur demandée, vous devez jouer un atout si possible. S'il y a déjà des atouts dans la levée, vous devez si possible jouer un atout qui bat le plus fort atout déjà joué (même s'il a été joué par votre partenaire).
 
-- If you have no card of the suit led, and the trick is currently being won by a trump that you cannot beat, you must still play a trump if you have one.
+- Si vous n'avez pas de carte de la couleur demandée et que la levée est gagnée par un atout que vous ne pouvez pas battre, vous devez quand même jouer un atout si vous en avez un.
 
-- If you have no cards of the suit led and no trumps, you may play any card you wish.
+- Si vous n'avez ni carte de la couleur demandée ni atout, vous pouvez jouer la carte de votre choix.
 
-The obligation to follow suit and to beat cards already played to the trick when possible also applies in no-trump contracts.
+L'obligation de suivre et de battre les cartes déjà jouées s'applique aussi dans les contrats sans atout.
 
-In a suit contract, a player who wishes to score for a mariáš (the king and the over-knave of a suit held in hand) must play the over before the king and must announce "20" or "40" as appropriate when playing the over. No matter who wins the trick, the over is left face up in front of the player until the end of the play as a reminder of the score.
+Dans un contrat à l'atout, un joueur qui souhaite marquer pour un mariáš (le roi et l'over-knave d'une couleur tenus en main) doit jouer l'over avant le roi et doit annoncer « 20 » ou « 40 » selon le cas en jouant l'over. Quel que soit le gagnant de la levée, l'over est laissé face visible devant le joueur jusqu'à la fin du jeu comme rappel du score.
 
-A player who has announced "seven" or "seven against" is not allowed to play the seven of trumps until there is no legal alternative.
+Un joueur qui a annoncé « sept » ou « sept contre » n'est pas autorisé à jouer le sept d'atout tant qu'il n'y a pas d'alternative légale.
 
-### The Scoring
+### Le comptage
 
-When the play is finished, payment is made for the contract and any bonuses. The payments are expressed below in "units"; the value of a unit should be agreed between the players at the start of the session. Payments are collected by the lone player from both opponents, or paid by the lone player to both opponents. The opponents of the lone player are a team, and always win or lose the same amount. For example, if one opponent wins the last trick with the trump seven, both opponents are paid the bonus; if one opponent says "flek", both opponents are affected by the double payment.
+Une fois le jeu terminé, les paiements sont faits pour le contrat et les bonus. Les paiements sont exprimés ci-dessous en « unités » ; la valeur d'une unité doit être convenue entre les joueurs en début de session. Les paiements sont collectés par le joueur seul auprès des deux adversaires, ou payés par le joueur seul aux deux adversaires. Les adversaires du joueur seul forment une équipe et gagnent ou perdent toujours le même montant. Par exemple, si un adversaire remporte la dernière levée avec le sept d'atout, les deux adversaires perçoivent le bonus ; si un adversaire dit « flek », les deux adversaires sont affectés par le double paiement.
 
-The payments are as follows:
+Les paiements sont les suivants :
 
-| | Item | Payment in units | Notes |
-| Game | Suit contract | 1 | |
+| | Objet | Paiement en unités | Notes |
+| Jeu | Contrat à l'atout | 1 | |
 | Betl | 5 | |
 | Durch | 10 | |
-| Open Betl | 10 | |
-| Open Durch | 20 | |
-| Unannounced ("quiet") bonuses(paid only in a suit contract) | Quiet seven | 1 | Paid whenever the seven of trumps wins the last trick, without announcement. |
-| Killed quiet seven | 1 | Paid whenever the trump seven is beaten in the last trick, without announcement. |
-| Quiet hundred | 2 | The payment is 2 units for 100, 4 units for 110, 8 units for 120, 16 units for 130, etc - doubling for each extra 10 points. |
-| Each extra 10 | x2 |
-| Announced bonuses(paid only in a suit contract) | Seven | 2 | A team that announces seven has to pay 2 units if the seven is forced out before the last trick or is beaten by a higher trump in the last trick. |
-| Seven against | 2 |
-| Hundred | 4 | The payment is 4 units for 100, 8 units for 110, 16 units for 120, etc - doubling for each extra 10 points. If the announced 100 fails, the announcing side can count just one Mariáš. The cost is 4 units if the total is 90 points, 8 for 80 points, 16 for 70 points, and so on. |
-| Hundred against | 4 |
-| Each extra 10 | x2 |
-| Penalty for a revoke (renonc) - i.e. when the rules of play are broken. | 10 or more | This is paid by the offending player to both of the others. The cost is 10 units or the value of the contract and bonuses being played, whichever is more. |
+| Betl ouvert | 10 | |
+| Durch ouvert | 20 | |
+| Bonus non annoncés (« silencieux »)payés uniquement dans un contrat à l'atout | Sept silencieux | 1 | Payé chaque fois que le sept d'atout remporte la dernière levée, sans annonce. |
+| Sept silencieux tué | 1 | Payé chaque fois que le sept d'atout est battu dans la dernière levée, sans annonce. |
+| Cent silencieux | 2 | Le paiement est de 2 unités pour 100, 4 pour 110, 8 pour 120, 16 pour 130, etc. — doublé pour chaque 10 points supplémentaires. |
+| Chaque 10 supplémentaire | x2 |
+| Bonus annoncéspayés uniquement dans un contrat à l'atout | Sept | 2 | Une équipe qui annonce le sept doit payer 2 unités si le sept est forcé avant la dernière levée ou battu par un atout supérieur dans la dernière levée. |
+| Sept contre | 2 |
+| Cent | 4 | Le paiement est de 4 unités pour 100, 8 pour 110, 16 pour 120, etc. — doublé pour chaque 10 points supplémentaires. Si le cent annoncé échoue, le côté annonçant ne peut compter qu'un seul Mariáš. Le coût est de 4 unités pour un total de 90 points, 8 pour 80, 16 pour 70, etc. |
+| Cent contre | 4 |
+| Chaque 10 supplémentaire | x2 |
+| Pénalité pour un renonci.e. quand les règles du jeu sont enfreintes. | 10 ou plus | Payé par le joueur en faute aux deux autres. Le coût est de 10 unités ou la valeur du contrat et des bonus en cours, le plus élevé des deux. |
 
-**In a suit contract with hearts are trumps, all payments for the game and bonuses are doubled.**
+**Dans un contrat à l'atout avec cœurs comme atout, tous les paiements pour le jeu et les bonus sont doublés.**
 
-The game and bonuses are paid independently - for example it is possible to win the basic game but lose a seven. An exception to this is that the score for a "hundred", whether quiet or announced, **replaces** the score for "game". If the game was doubled and silent 100 is made, then the score for the 100 is doubled - so a game with flek in which forehand takes 100 card points in worth 4 units.
+Le jeu et les bonus sont payés indépendamment — par exemple, il est possible de gagner le jeu de base mais de perdre un sept. Une exception est que le score d'un « cent », silencieux ou annoncé, **remplace** le score du « jeu ». Si le jeu a été doublé et qu'un cent silencieux est réalisé, le score du cent est doublé — donc un jeu avec flek dans lequel le forehand prend 100 points vaut 4 unités.
 
-### The unplayed game
+### Le jeu non joué
 
-There are two cases in which the cards are not played out.
+Il y a deux cas où les cartes ne sont pas jouées.
 
-- If forehand plays a suit game without announcements and there is no "flek", it is assumed that forehand will win. The cards are not played, and forehand can claim 1 unit from each opponent for the game (or 2 units if hearts were trumps).
-- If forehand plays a suit game with seven announced, and there is a "flek" to the game but no other announcements or doubles. Then it is assumed that forehand will win the seven but lose the game. The cards are not played and there is no payment, because the payments for announced seven and double lost game are equal and opposite.
+- Si le forehand joue un jeu à l'atout sans annonce et sans « flek », il est supposé gagner. Les cartes ne sont pas jouées, et le forehand peut réclamer 1 unité à chaque adversaire pour le jeu (ou 2 unités si cœurs étaient l'atout).
+- Si le forehand joue un jeu à l'atout avec le sept annoncé, et qu'il y a un « flek » au jeu mais pas d'autres annonces ni doubles. Il est alors supposé que le forehand gagnera le sept mais perdra le jeu. Les cartes ne sont pas jouées et il n'y a aucun paiement, car les paiements pour le sept annoncé et le jeu perdu doublé sont égaux et opposés.
 
-### Variations
+### Variantes
 
-Some players do not recognise the "Open Betl" and "Open Durch" contracts. However, there is a custom that a player who has a perfect Betl or Durch will lay down his or her cards and claim a win after the opponents have had the opportunity to "flek": there is no "re" of a Betl or Durch with a perfect hand.
+Certains joueurs ne reconnaissent pas les contrats « Betl ouvert » et « Durch ouvert ». Cependant, il existe une coutume selon laquelle un joueur ayant un Betl ou Durch parfait pose ses cartes et réclame la victoire après que les adversaires ont eu l'occasion de « fleker » : il n'y a pas de « re » pour un Betl ou Durch avec une main parfaite.
 
-The "official" rules of the Czech Mariáš Association *([Český svaz mariáše](https://www.facebook.com/CeskyMarias))* specify higher scores of 15 units for Betl and 30 units for Durch, but in informal games it seems that most players use the traditional scores of 5 and 10. Also the "official" rules do not recognise the "Open Betl" and "Open Durch" contracts.
+Les règles « officielles » de l'Association tchèque de Mariáš (*[Český svaz mariáše](https://www.facebook.com/CeskyMarias)*) spécifient des scores plus élevés de 15 unités pour le Betl et 30 pour le Durch, mais dans les jeux informels, la plupart des joueurs semblent utiliser les scores traditionnels de 5 et 10. Les règles « officielles » ne reconnaissent pas non plus les contrats « Betl ouvert » et « Durch ouvert ».
 
-Some play that for each extra 10 points above 100 (or for each extra 10 points by which an announced 100 fails) an amount equal to the value of the 100 is added, rather than a double being applied. So an announced 100 with 130 points made is worth 16 units (4+4+4+4) rather than 32 units (4*2*2*2). Some play that the additional amount for each extra 10 is only half the value of the 100, so 100 announced with 130 made would be worth only 10 units (4+2+2+2).
+Certains jouent que pour chaque 10 points supplémentaires au-dessus de 100 (ou pour chaque 10 points supplémentaires par lesquels un cent annoncé échoue), un montant égal à la valeur du cent est ajouté, plutôt qu'un doublé. Ainsi, un cent annoncé avec 130 points réalisé vaut 16 unités (4+4+4+4) plutôt que 32 (4×2×2×2). Certains jouent que le montant supplémentaire pour chaque 10 en plus n'est que la moitié de la valeur du cent, donc un cent annoncé avec 130 réalisé ne vaudrait que 10 unités (4+2+2+2).
 
-Some allow sharp cards in the talon when playing a suit contract. In this case, forehand must announce when discarding that a sharp card has been discarded. If the suit contract is played, the point value of any discarded sharp cards counts for the opponents.
+Certains autorisent les cartes pointues dans le talon lors d'un contrat à l'atout. Dans ce cas, le forehand doit annoncer en défaussant qu'une carte pointue a été défaussée. Si le contrat à l'atout est joué, la valeur en points des cartes pointues défaussées compte pour les adversaires.
 
-Some play that if "seven" or "seven against" has been announced, and the trump seven is beaten by a higher trump in the last trick, the announcing team has to pay an extra penalty for "killed seven": 3 units instead of 2 in an ordinary suit without "flek". A flek of the seven doubles the payments to 4 (won or lost) and 6 (if killed in the last trick).
+Certains jouent que si le « sept » ou « sept contre » a été annoncé et que le sept d'atout est battu par un atout supérieur dans la dernière levée, l'équipe annonçant doit payer une pénalité supplémentaire pour « sept tué » : 3 unités au lieu de 2 dans un jeu à l'atout ordinaire sans « flek ». Un flek au sept double les paiements à 4 (gagné ou perdu) et 6 (si tué dans la dernière levée).
 
-Some play 
+Certains jouent
 
-that "seven against" and "100 against" can only be announced by an opponent if "flek" has been said to the game, and that they score twice as much as 7 and 100 announcements by the lone player: 4 units for 7 against and 8 units for 100 against.
+que « sept contre » et « 100 contre » ne peuvent être annoncés par un adversaire que si « flek » a été dit au jeu, et qu'ils valent deux fois plus que les annonces de 7 et 100 du joueur seul : 4 unités pour 7 contre et 8 pour 100 contre.
 
-Some play that the trump card placed face down by forehand **must** be led to the first trick. Forehand cannot take back this card and lead a different card.
+Certains jouent que la carte d'atout placée face cachée par le forehand **doit** être menée à la première levée. Le forehand ne peut pas reprendre cette carte et en mener une autre.
 
-Some allow an announcement of **two sevens**. This is an undertaking to win the last two traicks with sevens. The trump seven must win the last trick, and the last but one trick must be won with the seven of another suit. The suit of the other seven must be declared when making the announcement. The player who announces two sevens must keep the two sevens for the last two tricks if possible, and play them in the correct order. The score for this is announcement 20 points, or 40 if hearts are trumps. It fails if the announcer is forecd to play either of the sevens early, or in the wrong order (the trump seven being forced out in the last trick but one), or either seven is beaten. There is no bonus for winning the last two tricks with sevens if they are not announced.
+Certains autorisent l'annonce de **deux septs**. C'est l'engagement de gagner les deux dernières levées avec des septs. Le sept d'atout doit gagner la dernière levée, et l'avant-dernière doit être gagnée avec le sept d'une autre couleur. La couleur de l'autre sept doit être déclarée lors de l'annonce. Le joueur qui annonce deux septs doit conserver les deux septs pour les deux dernières levées si possible, et les jouer dans le bon ordre. Le score de cette annonce est de 20 points, ou 40 si cœurs sont l'atout. Elle échoue si l'annonceur est forcé de jouer l'un des septs trop tôt, ou dans le mauvais ordre (le sept d'atout forcé dans l'avant-dernière levée), ou si l'un des septs est battu. Il n'y a pas de bonus pour gagner les deux dernières levées avec des septs sans les avoir annoncés.
 
-## Four-Player Mariáš
+## Mariáš à quatre joueurs
 
-It is possible for four people to play three-player mariáš in which the dealer sits out of each hand. This game is known as *"pauzírovaný mariáš"* (paused mariáš) or *"pauzírák"* for short. The dealer counts as an extra defender when settling up, so the lone player collects or pays 3× the cost of the contract, winning from or losing to the two opponents and the dealer. 
+Il est possible à quatre personnes de jouer au mariáš à trois dans lequel le donneur ne joue pas chaque main. Ce jeu est appelé « *pauzírovaný mariáš* » (mariáš en pause) ou « *pauzírák* » en abrégé. Le donneur compte comme défenseur supplémentaire lors du règlement, de sorte que le joueur seul collecte ou paie 3× le coût du contrat, gagnant auprès de ou perdant auprès des deux adversaires et du donneur.
 
-There is also the following version, in which all four players are active. Rules are the same as for three-player mariáš unless otherwise stated.
+Il existe aussi la version suivante, dans laquelle les quatre joueurs sont actifs. Les règles sont les mêmes que pour le mariáš à trois sauf indication contraire.
 
-The dealer deals a batch of four cards to each player. Forehand looks at the first four cards, and places one card face down on the table to determine the trump suit. Forehand also names (by rank) a card of the trump suit whose holder will become forehand's partner and the other two players will form a team against them. The dealer then completes the deal with another batch of four cards to each player. The player who holds the called trump must not do or say anything to indicate who they are - if a suit contract is played the partnerships will become clear in the course of play, when the called trump appears, or perhaps during the announcements of bonuses and doubles. If forehand has the called trump and a suit contract is played, forehand will play alone against the other three in partnership. (This happens when the called trump is dealt in forehand's second batch of four cards).
+Le donneur distribue un paquet de quatre cartes à chaque joueur. Le forehand regarde les quatre premières cartes et place une carte face cachée sur la table pour déterminer l'atout. Le forehand nomme aussi (par rang) une carte de l'atout dont le détenteur deviendra le partenaire du forehand, les deux autres joueurs formant une équipe contre eux. Le donneur complète ensuite la donne avec un autre paquet de quatre cartes à chaque joueur. Le joueur qui détient la carte appelée ne doit rien faire ou dire pour indiquer qui il est — si un contrat à l'atout est joué, les équipes deviendront claires au cours du jeu, quand la carte appelée apparaîtra, ou peut-être lors des annonces de bonus et doubles. Si le forehand détient la carte appelée et qu'un contrat à l'atout est joué, le forehand jouera seul contre les trois autres en équipe. (Cela arrive lorsque la carte appelée est distribuée dans le second paquet de quatre cartes du forehand.)
 
-Forehand can reveal the face-down card and stay with the suit contract or can announce a higher contract (Betl, Durch, Open Betl or Open Durch), in which the bidder plays alone against the other three players. The others in turn either say "good" or bid higher, exactly as in the three-player game, except that there is no talon. If everyone says the suit is good, all have the opportunity to announce seven or hundred on behalf of their team, forehand's opponents can say flek to the game, and anyone can say flek to bonuses announced by the other team.
+Le forehand peut révéler la carte face cachée et rester avec le contrat à l'atout ou annoncer un contrat plus élevé (Betl, Durch, Betl ouvert ou Durch ouvert), dans lequel l'enchérisseur joue seul contre les trois autres. Les autres à tour de rôle disent « bon » ou enchérissent plus haut, exactement comme dans le jeu à trois, sauf qu'il n'y a pas de talon. Si tous disent que la couleur est bonne, tous ont l'occasion d'annoncer sept ou cent pour leur équipe, les adversaires du forehand peuvent dire flek au jeu, et n'importe qui peut dire flek aux bonus annoncés par l'autre équipe.
 
-The scores for the contracts are as in the three-player game. In games played two against two, each player pays or receives from one opponent; in games played one against three the lone player pays or receives from all three opponents.
+Les scores des contrats sont les mêmes que dans le jeu à trois. Dans les jeux à deux contre deux, chaque joueur paie ou reçoit d'un adversaire ; dans les jeux à un contre trois, le joueur seul paie ou reçoit des trois adversaires.
 
-### Variations
+### Variantes
 
-In the four-player game, some play with two partnership Durch games, which rank below Betl in the bidding - so the possible games in ascending order are: suit, durch with partner, durch with the wise one, betl, durch alone, open betl, open durch.
+Dans le jeu à quatre, certains jouent avec deux types de Durch en équipe, classés en dessous du Betl dans les enchères — les jeux possibles dans l'ordre croissant sont donc : couleur, durch avec partenaire, durch avec le sage, betl, durch seul, betl ouvert, durch ouvert.
 
-- If a **"durch with partner"** is called good by the other players, the bidder names a card whose holder becomes declarer's partner. Between them they must win all the tricks. If they fail and the bidder has won fewer than 6 tricks, the declarer pays double and the partner pays nothing.
+- Si un **« durch avec partenaire »** est jugé bon par les autres joueurs, l'enchérisseur nomme une carte dont le détenteur devient le partenaire du déclarant. Ensemble, ils doivent gagner toutes les levées. S'ils échouent et que l'enchérisseur a remporté moins de 6 levées, le déclarant paie double et le partenaire ne paie rien.
 
-- In **"durch with the wise one"**, the bidder undertakes to win the first seven tricks. If this fails, the declarer has to pay the cost of a durch to the other three players. If it succeeds, the winner of the eighth trick (the wise one) becomes the bidder's partner, and the bidder and the wise one are paid by the opponents. If the bidder is wise enough to win the last trick as well as the other seven, the bidder is paid by all three opponents.
+- Dans le **« durch avec le sage »**, l'enchérisseur s'engage à gagner les sept premières levées. S'il échoue, le déclarant doit payer le coût d'un durch aux trois autres joueurs. S'il réussit, le gagnant de la huitième levée (le sage) devient le partenaire de l'enchérisseur, et l'enchérisseur et le sage sont payés par les adversaires. Si l'enchérisseur est assez sage pour gagner aussi la dernière levée en plus des sept autres, il est payé par les trois adversaires.
 
-A common rule in the four-player game is that an opponent of forehand in a suit contract who holds the king or the over-knave of trumps is obliged to say flek to the game. Some also play that an opponent of forehand who has a trump mariáš must flek and announce 100 against.
+Une règle courante dans le jeu à quatre est qu'un adversaire du forehand dans un contrat à l'atout qui détient le roi ou l'over-knave d'atout est obligé de dire flek au jeu. Certains jouent aussi qu'un adversaire du forehand qui a un mariáš d'atout doit fleker et annoncer 100 contre.
 
-## Two-Player Mariáš
+## Mariáš à deux joueurs
 
-This two-player game, known as **lízaný mariáš** (draw mariáš), is simpler and far less interesting than the three- or four-player versions. It is played by Mariáš players who cannot find a third player or by children. 
+Ce jeu à deux joueurs, appelé **lízaný mariáš** (mariáš pioché), est plus simple et bien moins intéressant que les versions à trois ou quatre. Il est joué par des joueurs de Mariáš qui ne trouvent pas de troisième joueur ou par des enfants.
 
-The card ranks and point values and the scores for a *hláška* or *mariáš* are the same as in the three-player game.
+Les rangs des cartes, les valeurs des points et les scores pour une *hláška* ou *mariáš* sont les mêmes que dans le jeu à trois.
 
-The dealer gives four cards to each player (in a single batch), the non-dealer chooses and announces a trump suit, and then the dealer deals another batch of four cards each, so that each player has eight. The remaining 16 cards are stacked face down on the table to form the **talon**.
+Le donneur donne quatre cartes à chaque joueur (en un seul paquet), le non-donneur choisit et annonce un atout, puis le donneur distribue un autre paquet de quatre cartes, de sorte que chaque joueur en a huit. Les 16 cartes restantes sont empilées face cachée sur la table pour former le **talon**.
 
-There is no possibility of betl or durch, but bonuses are scored as in the three-player game. Before the first lead, either player can announce 100 or seven or both. The dealer can say flek to the game, and either player can say flek to bonuses announced by the other. Further doubles (re, tutti, boty, kalhoty, kaiser, etc) are possible.
+Il n'y a pas de possibilité de betl ou durch, mais les bonus sont comptés comme dans le jeu à trois. Avant la première levée, n'importe quel joueur peut annoncer 100 ou sept ou les deux. Le donneur peut dire flek au jeu, et n'importe quel joueur peut dire flek aux bonus annoncés par l'autre. Des doubles supplémentaires (re, tutti, boty, kalhoty, kaiser, etc.) sont possibles.
 
-The non-dealer leads to the first trick. While there are cards in the talon, there is no obligation to follow suit or win the trick - the second player to the trick can play any card. After each trick the winner draws the top card of the talon (without showing it) and the loser draws the next card, so that both have eight cards again. The winner of the trick then leads to the next.
+Le non-donneur mène la première levée. Tant qu'il y a des cartes dans le talon, il n'y a aucune obligation de suivre ou de gagner la levée — le second joueur peut jouer n'importe quelle carte. Après chaque levée, le gagnant pioche la carte supérieure du talon (sans la montrer) et le perdant pioche la suivante, de sorte que les deux ont à nouveau huit cartes. Le gagnant mène ensuite la levée suivante.
 
-When all the cards from the talon have been taken, play continues with the cards remaining in the players' hands. It is now compulsory for the second player to a trick follow suit and to beat the led card whenever possible.
+Quand toutes les cartes du talon ont été piochées, le jeu continue avec les cartes restant en main. Le second joueur de chaque levée est désormais tenu de suivre et de battre la carte menée quand c'est possible.
 
-A player who has the king and over-knave of a suit in hand at any stage declares 20 or 40 as appropriate when playing the over to a trick. No matter who wins the trick, the over is left face up in front of the player until the end of the play as a reminder of the score.
+Un joueur qui a le roi et l'over-knave d'une couleur en main à n'importe quel stade déclare 20 ou 40 selon le cas en jouant l'over dans une levée. Quel que soit le gagnant de la levée, l'over est laissé face visible devant le joueur jusqu'à la fin du jeu comme rappel du score.
 
-The payments for the game, 7 and 100 are the same as in the three-player game.
+Les paiements pour le jeu, le 7 et le 100 sont les mêmes que dans le jeu à trois.
 
-### Variations
+### Variantes
 
-I have been shown an even simpler version of two-player mariáš. Six cards each are dealt, the thirteenth card is turned up to determine the eventual trump suit, and the remaining stock is placed crosswise on top of it. There is no choice of trump suit, no announcements and no doubling. Non-dealer leads and the mechanics of play are as in the two-player game described above, but the trump suit does not take effect until the talon is exhausted. Each trick is won by the highest card of the suit led. If a mariáš is declared in this first phase it is only worth 20, even if it is in the turned up suit. While there are cards in the talon, either player who holds the 7 of the turned up suit can exchange it for the turned up card. The face-up card will be drawn by the loser of the 10th trick. After this, the turned up suit becomes trumps, and it is compulsory to follow suit and win the trick when possible. Whoever has the majority of card points at the end of the play wins a stake.
+On m'a montré une version encore plus simple du mariáš à deux. Six cartes sont distribuées à chacun, la treizième est retournée pour déterminer l'atout, et le reste de la pile est placé en croix sur celle-ci. Il n'y a pas de choix de l'atout, pas d'annonces et pas de doubles. Le non-donneur mène et le mécanisme du jeu est comme dans le jeu à deux décrit ci-dessus, mais l'atout ne prend effet que lorsque le talon est épuisé. Chaque levée est remportée par la carte la plus forte de la couleur menée. Si un mariáš est déclaré dans cette première phase, il ne vaut que 20, même s'il est dans la couleur retournée. Tant qu'il y a des cartes dans le talon, n'importe quel joueur qui détient le 7 de la couleur retournée peut l'échanger contre la carte retournée. La carte visible sera piochée par le perdant de la 10e levée. Après cela, la couleur retournée devient atout, et il est obligatoire de suivre et de gagner la levée quand c'est possible. Celui qui a la majorité des points de cartes à la fin du jeu gagne la mise.
 
-## Auction Mariáš
+## Mariáš aux enchères
 
-**Licitovaný mariáš** (auction mariáš) is a more complex version of the three-player game. The basic rules of mariáš apply with the following differences.
+Le **Licitovaný mariáš** (mariáš aux enchères) est une version plus complexe du jeu à trois. Les règles de base du mariáš s'appliquent avec les différences suivantes.
 
-The dealer offers the pack to the player to the right, who may either cut or just tap the cards if not wishing to cut. The dealer deals a batch of five cards to each player, then two cards face down to the centre of the table to form the talon, and finally another batch of five cards to each player.
+Le donneur offre le jeu au joueur à droite, qui peut couper ou simplement taper les cartes s'il ne souhaite pas couper. Le donneur distribue un paquet de cinq cartes à chaque joueur, puis deux cartes face cachée au centre de la table pour former le talon, et enfin un autre paquet de cinq cartes à chaque joueur.
 
-There is now an auction. Whoever is prepared to undertake the highest contract will play alone against the other two players. The possible contracts are listed below in ascending order, with their traditional scores. Note that higher ranking contracts, although more difficult, do not necessarily score more. 
+Il y a alors une enchère. Celui qui est prêt à s'engager dans le contrat le plus élevé jouera seul contre les deux autres. Les contrats possibles sont listés ci-dessous dans l'ordre croissant, avec leurs scores traditionnels. Les contrats mieux classés, bien que plus difficiles, ne rapportent pas nécessairement plus.
 
-"Two sevens" is an undertaking to win the last trick with the trump seven **and** to win the trick before that with another seven. The two sevens have to win the last two tricks in the correct order for that component of the contract to succeed. If either seven is beaten or played early, or if they are played in the wrong order, the two sevens component of the contract is lost.
+« Deux septs » est l'engagement de gagner la dernière levée avec le sept d'atout **et** la levée précédente avec un autre sept. Les deux septs doivent gagner les deux dernières levées dans le bon ordre pour que cette partie du contrat réussisse. Si l'un des septs est battu ou joué trop tôt, ou s'ils sont joués dans le mauvais ordre, la composante « deux septs » du contrat est perdue.
 
-The player to dealer's **right** speaks first, bidding against forehand. When one of them has passed, the dealer bids against the survivor. If two players want to play the same game, forehand has priority over the player to dealer's right, who has priority over the dealer. If the other two players both pass, forehand can pick up the talon and play any contract or can also pass. If all pass, the cards are thrown in without play and the next dealer deals.
+Le joueur à la **droite** du donneur parle en premier, enchérissant contre le forehand. Quand l'un d'eux a passé, le donneur enchérit contre le survivant. Si deux joueurs veulent jouer le même jeu, le forehand a priorité sur le joueur à la droite du donneur, qui a priorité sur le donneur. Si les deux autres joueurs passent, le forehand peut ramasser le talon et jouer n'importe quel contrat ou aussi passer. Si tous passent, les cartes sont jetées sans jeu et le donneur suivant distribue.
 
-The winner of the bidding picks up the talon, discards two cards and announces any contract that is equal to **or higher than** the final bid, and the trump suit if any. Before the bidder leads to the first trick, players may say "flek" or announce "100 against", etc. as in the normal three-player game. There is of course no announcement of "good" or "bad" since the lone player has already been chosen by the bidding process.
+Le gagnant de l'enchère ramasse le talon, défausse deux cartes et annonce tout contrat égal **ou supérieur à** la dernière enchère, ainsi que l'atout le cas échéant. Avant que l'enchérisseur ne mène la première levée, les joueurs peuvent dire « flek » ou annoncer « 100 contre », etc. comme dans le jeu à trois normal. Il n'y a bien sûr pas d'annonce de « bon » ou « mauvais » puisque le joueur seul a déjà été choisi par le processus d'enchères.
 
-A player who has bid no higher than the lowest bid ("seven") may give up after looking at the talon, paying a penalty of 6 to each opponent without play.
+Un joueur dont l'enchère n'a pas dépassé la plus basse (« sept » peut abandonner après avoir regardé le talon, en payant une pénalité de 6 à chaque adversaire sans jouer.
 
-Since the winner of the auction is allowed to play any contract that is at least as high as the final bid, it is usual for players to bid through all the contracts in order, in order to win the auction as cheaply as possible without giving away their intentions. For example if forehand (A) wants to play 7, the second player (B) wants to play 100 in hearts, and the dealer (C) wants to play Betl, the auction will go like this: 
+Puisque le gagnant de l'enchère est autorisé à jouer tout contrat au moins aussi élevé que la dernière enchère, il est courant que les joueurs enchérissent à travers tous les contrats dans l'ordre, pour gagner l'enchère aussi bon marché que possible sans révéler leurs intentions. Par exemple, si le forehand (A) veut jouer 7, le deuxième joueur (B) veut jouer 100 à cœurs, et le donneur (C) veut jouer Betl, l'enchère se déroulera ainsi :
 
-- B: "seven", A: "seven"
+- B : « sept », A : « sept »
 
-- B: "seven in hearts", A: "pass"
+- B : « sept à cœurs », A : « passe »
 
-- C: "hundred", B:"hundred"
+- C : « cent », B : « cent »
 
-- C: "hundred and seven", B: "hundred and seven"
+- C : « cent et sept », B : « cent et sept »
 
-- C: "hundred in hearts", B: "hundred in hearts",
+- C : « cent à cœurs », B : « cent à cœurs »,
 
-- C: "hundred and seven in hearts", B: "pass".
+- C : « cent et sept à cœurs », B : « passe ».
 
-The scoring is similar to that in ordinary three-player Mariáš. There is a score of 1 unit for the game in all suit contracts where 100 is neither announced nor made. A quiet 7 scores 1 unit and a quiet 100 scores 2 units, doubled for each extra 10 points. In contracts that involve a seven or sevens, the score for the seven(s) is independent of the score for game or 100, and the opponents can say flek to either or both. All scores are doubled when hearts are trumps. There is no Open Betl or Open Durch contract.
+Le comptage est similaire à celui du Mariáš à trois ordinaire. Il y a un score de 1 unité pour le jeu dans tous les contrats à l'atout où 100 n'est ni annoncé ni réalisé. Un 7 silencieux vaut 1 unité et un 100 silencieux vaut 2 unités, doublé pour chaque 10 points supplémentaires. Dans les contrats impliquant un ou des septs, le score du ou des septs est indépendant du score du jeu ou du 100, et les adversaires peuvent dire flek à l'un ou l'autre ou aux deux. Tous les scores sont doublés quand cœurs sont l'atout. Il n'y a pas de contrat Betl ouvert ou Durch ouvert.
 
-### Variation
+### Variante
 
-The Czech Mariáš Association has published a revised schedule of contracts in which the scores for Betl, Durch and Two Sevens are increased so that higher ranking contracts always score more than lower ones. In this schedule, shown below, the score for "two sevens" does not double when hearts are trumps, but increases only from 40 to 60.
+L'Association tchèque de Mariáš a publié un barème révisé des contrats dans lequel les scores pour le Betl, le Durch et les Deux septs sont augmentés pour que les contrats mieux classés rapportent toujours plus que les inférieurs. Dans ce barème, ci-dessous, le score des « deux septs » ne double pas quand cœurs sont l'atout, mais augmente seulement de 40 à 60.
 
-- Seven (2) 
+- Sept (2)
 
-- Seven in hearts (4) 
+- Sept à cœurs (4)
 
-- Hundred (4) 
+- Cent (4)
 
-- Hundred and seven (4+2) 
+- Cent et sept (4+2)
 
-- Hundred in hearts (8) 
+- Cent à cœurs (8)
 
-- Hundred and seven in hearts (8+4) 
+- Cent et sept à cœurs (8+4)
 
-- Betl (15) 
+- Betl (15)
 
-- Durch (30) 
+- Durch (30)
 
-- Two sevens (40) 
+- Deux septs (40)
 
-- Two sevens and hundred (40+4) 
+- Deux septs et cent (40+4)
 
-- Two sevens, hearts trump (60) 
+- Deux septs, cœurs atout (60)
 
-- Two sevens and hundred, hearts trump (60+8)
+- Deux septs et cent, cœurs atout (60+8)
 
-## Other Mariáš WWW Pages
+## Autres pages Mariáš sur le web
 
-One Mariáš site in Czech: [https://www.zetlog.com/marias](https://www.zetlog.com/marias)
+Un site en tchèque : [https://www.zetlog.com/marias](https://www.zetlog.com/marias)
 
-| Mariáš online - 
+| Mariáš en ligne -
 
 talon.cz |
 | |
 
-You can play Mariáš on line at the [talon.cz](https://talon.cz/) web site which has interfaces in Czech and English. In the box to the right you can check how many players are currently on line.
+Vous pouvez jouer au Mariáš en ligne sur le site [talon.cz](https://talon.cz/) qui propose des interfaces en tchèque et en anglais. Dans la case de droite, vous pouvez vérifier combien de joueurs sont actuellement en ligne.
 
-Tomáš Němec has written a Mariáš game for [IOS](https://apps.apple.com/cz/app/mari%C3%A1%C5%A1ek/id1326617658) and [Android](https://play.google.com/store/apps/details?id=com.tnemec.mariasek.android).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Mariáš
+Tomáš Němec a programmé un jeu de Mariáš pour [iOS](https://apps.apple.com/cz/app/mari%C3%A1%C5%A1ek/id1326617658) et [Android](https://play.google.com/store/apps/details?id=com.tnemec.mariasek.android).
