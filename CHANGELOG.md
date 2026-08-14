@@ -29,8 +29,8 @@ Statut : `1.2026.8` (outil compteur de scores)
 - [x] Vue « Meilleurs jeux » (classement par votes)
 - [x] Favoris liés à un email (sans mot de passe), stockés côté serveur
 
-### Phase 4 — Outils (`site/tools/`)
-- [x] Compteur de scores générique (`site/tools/score/`) : joueurs rapides, manches, totaux auto, historique éditable, photos, palmarès
+### Phase 4 — Outils (`tools/`)
+- [x] Compteur de scores générique (`tools/score/`) : joueurs rapides, manches, totaux auto, historique éditable, photos, palmarès
 
 ---
 
@@ -38,7 +38,7 @@ Statut : `1.2026.8` (outil compteur de scores)
 
 ### [1.2026.8] - 2026-08-14
 #### Added
-- `site/tools/score/` : compteur de scores mobile-first pour remplacer papier-crayon (fichier unique `index.html`, zéro dépendance, déployable FTP tel quel)
+- `tools/score/` : compteur de scores mobile-first pour remplacer papier-crayon (fichier unique `index.html`, zéro dépendance, déployable FTP tel quel)
 - Liste de joueurs prête à l'emploi (Joueur 1, 2, 3 — renommables), ajout/suppression de joueurs à la volée en cours de partie
 - Photo par joueur : tap sur l'avatar ouvre l'appareil photo (mobile), recadrage carré 112 px via canvas, thumbnail stocké dans la sauvegarde
 - Pavé numérique permanent en bas d'écran (jamais le clavier OS) : ±, ⌫, scores négatifs ; Valider enchaîne au joueur suivant ; changer de joueur valide la saisie en cours
@@ -46,7 +46,7 @@ Statut : `1.2026.8` (outil compteur de scores)
 - Bouton undo ↩ (annule la dernière saisie, avec historique d'actions), manches scellées automatiquement quand tous ont joué
 - 🏁 Fin de partie : podium + archivage ; 🏆 Palmarès : compteur de victoires cumulées par joueur (killer feature, persisté)
 - Rejouer (mêmes joueurs, scores à zéro, photos conservées), layout qui tient compte du pavé permanent (pas de clavier virtuel pendant le jeu)
-- Storage entièrement blindé (fonctionne en `file://` Safari, repli mémoire), specs dans `site/tools/score/SPEC.md`
+- Storage entièrement blindé (fonctionne en `file://` Safari, repli mémoire), specs dans `tools/score/SPEC.md`
 
 ### [1.2026.7] - 2026-07-30
 #### Added

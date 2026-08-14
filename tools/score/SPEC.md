@@ -1,4 +1,4 @@
-# SPEC — Compteur de scores (`site/tools/score/`)
+# SPEC — Compteur de scores (`tools/score/`)
 
 Outil web générique de notation de scores pour jeux de cartes/société, destiné à
 remplacer papier-crayon. Fichier unique `index.html` (HTML+CSS+JS vanilla, zéro
