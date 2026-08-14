@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.8` (outil compteur de scores)
+Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -32,9 +32,28 @@ Statut : `1.2026.8` (outil compteur de scores)
 ### Phase 4 — Outils (`tools/`)
 - [x] Compteur de scores générique (`tools/score/`) : joueurs rapides, manches, totaux auto, historique éditable, photos, palmarès
 
+### Phase 5 — Import pagat.com (en cours)
+- [x] Scraping de l'index alpha (512 pages)
+- [x] Conversion automatique au format fiche (méta FR, corps EN)
+- [x] Détection de doublons multilingue (FR/EN/ES/alias) — `_skip.json`
+- [x] Importeur v3 : `importPagat()` (catégorie `pagat`, couleurs, skip-list)
+- [x] 10 fiches FR de jeux de pêche : Diloti, Pişti, Escoba, Scopone, Cuarenta, Ronda, Seep, Tablić, Chinese Ten, Cirulla
+- [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
+
 ---
 
 ## Releases
+
+### [1.2026.9] - 2026-08-14
+#### Added
+- Import intégral de pagat.com : **512 fiches anglaises** converties automatiquement au format du repo (méta FR parsable, corps markdown anglais, source citée)
+- **394 nouveaux jeux** importés dans la base v3 après dédoublonnage (118 doublons détectés → enrichis comme alias sans créer de fiche supplémentaire)
+- Outil de dédoublonnage : normalisation FR/EN/ES/DE/IT + `difflib` ratio ≥ 0.87 → rapport `assets/rules/pagat-duplicates.md` + skip-list `_skip.json`
+-10 fiches FR complètes (règle courte + version longue + variantes + sources) pour les jeux de pêche : Le Diloti, Le Pişti, L'Escoba, Le Scopone, La Cuarenta, La Ronda, Le Seep, Le Tablić, Le Chinese Ten, La Cirulla
+- `importPagat()` dans `site/v3/index.php` : catégorie `pagat`, couleur `#7eaafb`, import paramétré avec skip-list JSON
+
+#### Fixed
+- `site/v3/vault.sqlite` : 654 jeux en base (252 + 393 pagat + 10 clm), is_clm=1 correctement préservé
 
 ### [1.2026.8] - 2026-08-14
 #### Added
