@@ -2,132 +2,130 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A contract rummy game in seven rounds.
+**Type :** Rami
+**But :** Un jeu de rami à contrat en sept tours.
 
 ---
 
-Note: European and North American Kaluki and Jamaican Kalooki are covered on other pages.
+Note : Le Kalooki européen et nord-américain ainsi que le Kalooki jamaïcain sont traités sur d'autres pages.
 
 ## Introduction
 
-South Africa is one of the countries where a rummy game called Kalookie is popular, and there as in Jamaica, Kalookie is a version of Contract Rummy. The following description is based on information received from Lorraine Kruger.
+L'Afrique du Sud est l'un des pays où un jeu de rami appelé Kalookie est populaire, et là comme en Jamaïque, le Kalookie est une variante de Rami à contrat. La description suivante est basée sur des informations reçues de Lorraine Kruger.
 
-As in any rummy game, the aim is to form your cards into combinations which can be melded (placed face up on the table). There is a series of seven rounds, each with different minimum requirements that must be satisfied before a player is allowed to meld. The aim is to go out by laying down all your cards, at which point the other players are penalised for the cards they have left.
+Comme dans tout jeu de rami, le but est de former ses cartes en combinaisons qui peuvent être posées (placées face ouverte sur la table). Il y a une série de sept tours, chacun avec des exigences minimales différentes qui doivent être satisfaites avant qu'un joueur soit autorisé à poser. Le but est de se déclarer en posant toutes ses cartes, moment auquel les autres joueurs sont pénalisés pour les cartes qu'ils leur restent.
 
-## Players, cards, stake and deal
+## Joueurs, cartes, mise et distribution
 
-There can be from three to five players. Two standard 52 card packs are used with four jokers - 108 cards in all. The point values of the cards, used when calculating the penalty for the cards that each player has left at the end of the play, are as follows:
+Il peut y avoir de trois à cinq joueurs. Deux jeux standard de 52 cartes sont utilisés avec quatre jokers — 108 cartes au total. Les valeurs en points des cartes, utilisées pour calculer la pénalité des cartes restant dans la main de chaque joueur à la fin de la partie, sont les suivantes :
 
 | Joker |    . . .    | 25 points |
-| Ace |    . . .    | 11 points |
-| King, Queen, Jack, Ten |    . . .    | 10 points |
-| 2 to 9 |    . . .    | face value |
+| As |    . . .    | 11 points |
+| Roi, Dame, Valet, Dix |    . . .    | 10 points |
+| 2 à 9 |    . . .    | valeur faciale |
 
-At the start of a session, the seating and the first dealer are chosen as follows: if there are four players, an ace, a king, a queen and a jack are taken from the pack (with three players just A, K, Q; with five players A, K, Q, J, 10). These cards are shuffled them and one card is dealt to each player. Whoever receives the ace is the first dealer; the player with the king sits to that player's left, then the queen and so on down, in clockwise order.
+Au début d'une session, les places et le premier donneur sont choisis comme suit : s'il y a quatre joueurs, un as, un roi, une dame et un valet sont tirés du jeu (avec trois joueurs seulement A, R, D ; avec cinq joueurs A, R, D, V, 10). Ces cartes sont mélangées et une carte est distribuée à chaque joueur. Celui qui reçoit l'as est le premier donneur ; le joueur avec le roi s'assied à la gauche de ce joueur, puis la dame et ainsi de suite, dans le sens horaire.
 
-Before the first round, each player puts a stake (say R1.00) into a kitty. Further money is added to the kitty in the course of the game, and after all seven rounds have been played, the whole kitty is collected by the overall winner - the player with the lowest total number of points.
+Avant le premier tour, chaque joueur verse une mise (par exemple R1,00) dans une cagnotte. De l'argent supplémentaire est ajouté à la cagnotte au cours du jeu, et après que les sept tours ont été joués, l'ensemble de la cagnotte est collecté par le vainqueur général — le joueur ayant le total de points le plus bas.
 
-At the start of each round the dealer shuffles all the cards and the player to dealer's left cuts. The person who cuts the pack must check to see whether the cut card, which will become the bottom card of the deck, is a joker. If it is, the player who cuts keeps the joker and is paid R1.00 by each of the other players.
+Au début de chaque tour, le donneur mélange toutes les cartes et le joueur à la gauche du donneur coupe. La personne qui coupe doit vérifier si la carte coupée, qui deviendra la carte du bas du talon, est un joker. Si c'est le cas, le joueur qui a coupé garde le joker et reçoit R1,00 de chacun des autres joueurs.
 
-The dealer then deals 13 cards to each player (but if the player who cut found a joker that player gets only 12 more cards). The next card is turned up to start the discard pile, and the remaining cards are placed face down to form the stock. If at this point any player has three (or more) jokers they show them and are paid R1.00 by each of the other players. 
+Le donneur distribue ensuite 13 cartes à chaque joueur (mais si le joueur qui a coupé a trouvé un joker, ce joueur ne reçoit que 12 cartes supplémentaires). La carte suivante est retournée pour commencer la pile de défausse, et les cartes restantes sont placées face cachée pour former la pioche. Si à ce moment un joueur a trois jokers (ou plus), il les montre et reçoit R1,00 de chacun des autres joueurs.
 
-After each round is scored, the turn to deal passes to the left.
+Après chaque tour marqué, le tour de distribution passe à gauche.
 
-## The play
+## Le jeu
 
-The player to the dealer's left begins, and the turn to play passes clockwise. A player's turn consists of drawing the top card of the stock or the discard pile, optionally laying down (melding) some cards, and discarding one card face up on the discard pile. Note that in this game (unlike versions of Kaluki played in other countries), you have the choice of drawing either the top card of the stock or the previous player's discard, even you have not yet melded.
+Le joueur à la gauche du donneur commence, et le tour passe dans le sens horaire. Le tour d'un joueur consiste à piocher la carte du dessus de la pioche ou de la pile de défausse, éventuellement poser des cartes, et défausser une carte face ouverte sur la pile de défausse. Notez que dans ce jeu (contrairement aux versions de Kaluki jouées dans d'autres pays), vous avez le choix de piocher soit la carte du dessus de la pioche soit la défausse du joueur précédent, même si vous n'avez pas encore posé de combinaison.
 
-The valid melds are:
+Les poses valides sont :
 
-- a group of three or four cards of the same rank and in different suits;
+- un groupe de trois ou quatre cartes de même rang et de couleurs différentes ;
 
-- a run of three or more consecutive cards of the same suit. Aces can be at either end of a run (A-2-3 or A-K-Q), but not in the interior (2-A-K is invalid).
+- une suite de trois cartes consécutives ou plus de la même couleur. Les as peuvent être à l'une ou l'autre extrémité d'une suite (A-2-3 ou A-R-D), mais pas à l'intérieur (2-A-R est invalide).
 
-Jokers can be used to as substitutes for missing cards, subject to some restrictions. A player's first meld in each round must conform to the requirement for the round, as set out below. When laying down your first meld of the round, you can only put down exactly what is required. In later turns, you can put down additional meld (groups and runs), and add cards to your own or other players' existing meld. Consecutive cards can be added to either end of a run (for example if ![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)5-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7 is on the table, ![spade](../images/internat/spade.gif)3 or ![spade](../images/internat/spade.gif)8 can be added to it), and the fourth suit can be added to a group of three of a kind. A four of a kind is closed, and can no longer be extended, and the same would apply in theory to a run of 14 cards with an ace at each end.
+Les jokers peuvent être utilisés comme substituts pour les cartes manquantes, sous certaines restrictions. La première pose de chaque joueur à chaque tour doit correspondre à l'exigence du tour, comme indiqué ci-dessous. Lors de votre première pose du tour, vous ne pouvez poser exactement que ce qui est requis. Aux tours suivants, vous pouvez poser des combinaisons supplémentaires (groupes et suites), et ajouter des cartes à vos propres combinaisons ou à celles des autres joueurs. Des cartes consécutives peuvent être ajoutées à l'une ou l'autre extrémité d'une suite (par exemple si ![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)5-![pique](../images/internat/spade.gif)6-![pique](../images/internat/spade.gif)7 est sur la table, ![pique](../images/internat/spade.gif)3 ou ![pique](../images/internat/spade.gif)8 peuvent y être ajoutés), et la quatrième couleur peut être ajoutée à un groupe de trois de même rang. Un groupe de quatre de même rang est fermé et ne peut plus être étendu, et il en irait de même en théorie pour une suite de 14 cartes avec un as à chaque extrémité.
 
-There is a penalty for discarding a card which could be played on the table - either to extend a run or to complete four of a kind or in exchange for a Joker that represents that card. The player who discarded must pay 10 cents (R0.10) to the kitty, and the card cannot be picked up from the discard pile by the next player nor bought by any other player.
+Il y a une pénalité pour avoir défaussé une carte qui aurait pu être jouée sur la table — soit pour étendre une suite, soit pour compléter un groupe de quatre, soit en échange d'un joker représentant cette carte. Le joueur qui a défaussé doit verser 10 cents (R0,10) à la cagnotte, et la carte ne peut être reprise de la pile de défausse par le joueur suivant ni être achetée par un autre joueur.
 
-The play continues until one player is able to get rid of all their cards, either by melding them all or by melding all but one and discarding. Play then ends and the other players count the points for the cards they have left in their hands.
+Le jeu continue jusqu'à ce qu'un joueur parvienne à se débarrasser de toutes ses cartes, soit en les posant toutes, soit en posant toutes sauf une et en défaussant. Le jeu s'arrête alors et les autres joueurs comptent les points des cartes qu'ils ont en main.
 
-If the the face-down stock of cards from which players draw is exhausted, the discard pile is shuffled and placed face-down to form a new stock, and play continues as before.
+Si la pioche face cachée est épuisée, la pile de défausse est remélangée et placée face cachée pour former une nouvelle pioche, et le jeu continue comme avant.
 
-### Initial meld requirements
+### Exigences de la première pose
 
-There is a different requirement for each round, as shown in the following table.
+Il y a une exigence différente pour chaque tour, comme indiqué dans le tableau suivant.
 
-| Round | Requirement |
-| 1 | Blitz. You must meld all of your cards at once. When going out in this round, you are not obliged to discard: you can either meld all of your cards in groups and runs, or meld all but one card, which you discard to end your turn. You are free to use any combination of groups and runs, and jokers can be used freely - they do not have to be "half safe". When a person has "blitzed" (melded all their cards) each of the other players lays down any groups and runs they can make from their hands; no laying off on other players' melds is allowed. Whatever cards they have left count against them as penalty points. |
-| 2 | A group of three of a kind |
-| 3 | A run of three cards in a suit |
-| 4 | A run of three cards in a suit plus a group of three of a kind |
-| 5 | A run of four cards in a suit |
-| 6 | A group of four of a kind. (This round is sometimes known as "penalties", because the initial meld requirement is hard to satisfy.) |
-| 7 | A run of five cards in a suit |
+| Tour | Exigence |
+| 1 | Blitz. Vous devez poser toutes vos cartes d'un coup. Lors d'un blitz dans ce tour, vous n'êtes pas obligé de défausser : vous pouvez soit poser toutes vos cartes en groupes et suites, soit poser toutes sauf une carte, que vous défaussez pour terminer votre tour. Vous êtes libre d'utiliser n'importe quelle combinaison de groupes et suites, et les jokers peuvent être utilisés librement — ils n'ont pas besoin d'être « à demi sûrs ». Quand une personne a fait un « blitz » (posé toutes ses cartes), chacun des autres joueurs pose tous les groupes et suites qu'il peut former de sa main ; aucun écart sur les combinaisons des autres joueurs n'est autorisé. Les cartes qui leur restent comptent comme points de pénalité. |
+| 2 | Un groupe de trois de même rang |
+| 3 | Une suite de trois cartes d'une même couleur |
+| 4 | Une suite de trois cartes d'une même couleur plus un groupe de trois de même rang |
+| 5 | Une suite de quatre cartes d'une même couleur |
+| 6 | Un groupe de quatre de même rang. (Ce tour est parfois appelé « pénalités », car l'exigence de la première pose est difficile à satisfaire.) |
+| 7 | Une suite de cinq cartes d'une même couleur |
 
 ### Jokers
 
-A joker can be used to substitute for a missing card in a group or run, but in all cases the player must state exactly which card the joker represents. For example, if playing ![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)5-Joker as a group, you must say whether the joker represents the ![diamond](../images/internat/diamond.gif)5 or the ![club](../images/internat/club.gif)5.
+Un joker peut être utilisé pour remplacer une carte manquante dans un groupe ou une suite, mais dans tous les cas le joueur doit indiquer précisément quelle carte le joker représente. Par exemple, en jouant ![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)5-Joker comme groupe, vous devez dire si le joker représente le ![carreau](../images/internat/diamond.gif)5 ou le ![trèfle](../images/internat/club.gif)5.
 
-A joker can be used in your initial meld of a round, but other than in the Blitz round (1), only one joker can be used in the initial meld. Also, in all rounds except Four of a Kind (round 6) and Blitz (1) the card the joker represents must be at least "half safe". "Half safe" means that there is only one card outstanding that could be used to reclaim the joker; in other words, at least one of the two copies of the card that it represents must already have been played (either discarded or used by some player in another meld).
+Un joker peut être utilisé dans votre première pose d'un tour, mais sauf au tour Blitz (1), un seul joker peut être utilisé dans la première pose. De plus, dans tous les tours sauf Quatre de même rang (tour 6) et Blitz (1), la carte représentée par le joker doit être au moins « à demi sûre ». « À demi sûre » signifie qu'il ne reste qu'une seule carte en jeu qui pourrait être utilisée pour récupérer le joker ; autrement dit, au moins l'une des deux copies de la carte représentée doit déjà avoir été jouée (soit défaussée, soit utilisée par un joueur dans une autre combinaison).
 
-In later melds and when laying off cards on existing melds, jokers can be used freely to substitute for any card. You must still specify exactly what card each joker stands for, but you can use more than one joker in a meld and it does not matter if both copies of a card represented by your joker are still at large.
+Dans les poses ultérieures et lors de l'écart de cartes sur des combinaisons existantes, les jokers peuvent être utilisés librement pour remplacer n'importe quelle carte. Vous devez toujours préciser quelle carte chaque joker représente, mais vous pouvez utiliser plusieurs jokers dans une combinaison et il n'importe pas si les deux copies d'une carte représentée par votre joker sont encore en jeu.
 
-If you hold the real card that a joker melded in a group of three or a run represents, you can take the joker from the meld into your hand in exchange for the real card, but only at your turn, and only if you have already put down your initial meld in a previous turn. A group of four cards of a kind is "closed" and can no longer be touched. If it contains a joker, the joker cannot be reclaimed. The same would apply to a 14-card run.
+Si vous détenez la vraie carte qu'un joker dans un groupe de trois ou une suite représente, vous pouvez prendre le joker de la combinaison dans votre main en échange de la vraie carte, mais uniquement à votre tour, et seulement si vous avez déjà posé votre première pose lors d'un tour précédent. Un groupe de quatre de même rang est « fermé » et ne peut plus être modifié. S'il contient un joker, le joker ne peut pas être récupéré. Il en irait de même pour une suite de 14 cartes.
 
-### Buying cards
+### Acheter des cartes
 
-If you want a card that has been discarded, but it is not your turn to play next, you may be able to buy the card. If several people want the same discard, the player in turn always has prior right to it, and if this player does not want it, it goes to the first player in clockwise order after the player in turn who wishes to buy it. The player in turn can take the discard without payment, but if another player buys the discard the procedure is:
+Si vous souhaitez une carte qui a été défaussée, mais que ce n'est pas votre tour suivant, vous pouvez éventuellement acheter la carte. Si plusieurs personnes veulent la même défausse, le joueur dont c'est le tour a toujours la priorité, et si ce joueur ne la veut pas, elle revient au premier joueur dans le sens horaire après le joueur dont c'est le tour qui souhaite l'acheter. Le joueur dont c'est le tour peut prendre la défausse sans paiement, mais si un autre joueur achète la défausse, la procédure est :
 
-- the player whose turn it was draws the top card of the stock;
+- le joueur dont c'était le tour pioche la carte du dessus de la pioche ;
 
-- the buyer adds 10 cents (R0.10) to the kitty;
+- l'acheteur ajoute 10 cents (R0,10) à la cagnotte ;
 
-- the buyer takes the top discard and also draws the top card from the face down stock;
+- l'acheteur prend la défausse du dessus et pioche également la carte du dessus de la pioche face cachée ;
 
-- the buyer cannot meld or discard at this point, so will now have two extra cards;
+- l'acheteur ne peut pas poser ni défausser à ce moment, il aura donc deux cartes supplémentaires ;
 
-- the player whose turn it was continues their turn.
+- le joueur dont c'était le tour continue son tour.
 
-Each player can buy a maximum of four cards in each round, which would increase the size of their hands by eight cards. These extra cards can obviously be useful in forming combinations, but can also be expensive if you are caught with them when someone else goes out.
+Chaque joueur peut acheter au maximum quatre cartes à chaque tour, ce qui augmenterait la taille de sa main de huit cartes. Ces cartes supplémentaires peuvent évidemment être utiles pour former des combinaisons, mais peuvent aussi coûter cher si vous vous faites surprendre avec elles quand quelqu'un d'autre se déclare.
 
-### Scoring
+### Comptage des points
 
-When a player goes out, each of the other players adds up the point values of the cards left in their hands. These points are recorded on the score sheet under the player's name and added to their points from previous rounds. Also there are some immediate payments:
+Quand un joueur se déclare, chacun des autres joueurs additionne les valeurs en points des cartes restant dans sa main. Ces points sont enregistrés sur la feuille de score sous le nom du joueur et ajoutés à ses points des tours précédents. Il y a également des paiements immédiats :
 
-- Each of the other players pays to the player who went out ten cents for each 10 points or part of 10 points in their hand - for example a player who has 71 points would pay 80 cents to the one who went out; with 36 points you would pay 40 cents.
+- Chacun des autres joueurs verse au joueur qui s'est déclaré dix cents pour chaque 10 points ou fraction de 10 points dans sa main — par exemple un joueur qui a 71 points paierait 80 cents à celui qui s'est déclaré ; avec 36 points vous paieriez 40 cents.
 
-- If the same player goes out in three successive rounds, everyone pays them an extra R1.00, in addition to the normal payment for winning the hand.
+- Si le même joueur se déclare lors de trois tours consécutifs, tout le monde lui verse R1,00 supplémentaires, en plus du paiement normal pour avoir gagné la donne.
 
-- In round 5 (Blitz), everyone pays R1.00 to the player who goes out in addition to the money for the cards left in their hand after they have formed whatever groups and runs they can.
+- Au tour 5 (Blitz), tout le monde verse R1,00 au joueur qui se déclare en plus de l'argent pour les cartes restant dans sa main après avoir formé tous les groupes et suites possibles.
 
-At the end of the seventh round, the winner is the player with the lowest total number of points from the seven rounds, as recorded on the score sheet. This winner takes the kitty, which consists of the R1.00 that everyone put in at the start of the game, plus all the 10 cent payments that have been added by players buying cards during the game.
+À la fin du septième tour, le vainqueur est le joueur ayant le total de points le plus bas sur les sept tours, tel qu'enregistré sur la feuille de score. Ce vainqueur remporte la cagnotte, qui comprend les R1,00 que chacun a versés au début du jeu, plus tous les paiements de 10 cents ajoutés par les joueurs ayant acheté des cartes pendant le jeu.
 
-## Variations
+## Variantes
 
-Some play that throughout the game, all jokers played (not only those used in initial melds) must be "half safe" - i.e. at least one of the two cards of that suit and rank must be out of play. Others ignore the "half safe" rule altogether and allow a joker to represent any card at any time.
+Certains jouent que pendant tout le jeu, tous les jokers posés (pas seulement ceux utilisés dans les premières poses) doivent être « à demi sûrs » — c'est-à-dire qu'au moins l'une des deux cartes de cette couleur et ce rang doit être hors jeu. D'autres ignorent complètement la règle du « à demi sûr » et autorisent un joker à représenter n'importe quelle carte à tout moment.
 
-Some require a discard from the player going out in the Blitz round.
+Certains exigent une défausse de la part du joueur qui se déclare au tour Blitz.
 
-Some play that if a player goes out in the Blitz round without using any jokers, they are paid double - that is R2.00 plus 20 cents per ten points or part of ten points left in their hands.
+Certains jouent que si un joueur se déclare au tour Blitz sans utiliser de jokers, il reçoit le double — soit R2,00 plus 20 cents par dix points ou fraction de dix points restant dans sa main.
 
-Some play that a player is allowed to go out in a single turn in any round, not only the Blitz round. To do this, they would first need to lay down the initial qualifying meld for the current round, and then lay down all the rest of their cards as well (except for their final discard), by making new melds and/or adding cards to melds on the table. This is sometimes known as a Kaluki.
+Certains jouent qu'un joueur est autorisé à se déclarer en un seul tour dans n'importe quel tour, pas seulement au tour Blitz. Pour ce faire, il devrait d'abord poser la première combinaison qualificative du tour en cours, puis poser toutes les autres cartes de sa main (à l'exception de sa défausse finale), en créant de nouvelles combinaisons et/ou en ajoutant des cartes aux combinaisons sur la table. Cela s'appelle parfois un Kaluki.
 
-Some allow up to five cards to be bought in each round, rather than four.
+Certains autorisent jusqu'à cinq cartes à acheter à chaque tour, au lieu de quatre.
 
-Some allow the run of five required for the last round to contain two jokers, provided that both are "half safe".
+Certains autorisent la suite de cinq requise pour le dernier tour à contenir deux jokers, à condition que les deux soient « à demi sûrs ».
 
-Some play that a player who receives four pairs of identical cards in the initial deal shows them and is paid R1.00 by each of the other players.
+Certains jouent qu'un joueur qui reçoit quatre paires de cartes identiques lors de la distribution initiale les montre et reçoit R1,00 de chacun des autres joueurs.
 
-Some people play the rounds in a different order. For example, the first version explained to me by Lorraine Kruger had the following sequence of rounds:
+Certains jouent les tours dans un ordre différent. Par exemple, la première version expliquée par Lorraine Kruger avait la séquence de tours suivante :
 
-| Round | Requirement |
-| 1 | A group of three cards of the same rank |
-| 2 | A run of three cards in a suit |
-| 3 | A group of four of a kind |
-| 4 | A run of four cards in a suit |
-| 5 | Blitz (meld all your cards at once: other players may then lay down any complete runs or groups in their hands) |
-| 6 | A run of three cards in a suit plus a group of three of a kind |
-| 7 | A run of five cards in a suit |
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Kaluki (South African)
+| Tour | Exigence |
+| 1 | Un groupe de trois cartes de même rang |
+| 2 | Une suite de trois cartes d'une même couleur |
+| 3 | Un groupe de quatre de même rang |
+| 4 | Une suite de quatre cartes d'une même couleur |
+| 5 | Blitz (poser toutes vos cartes d'un coup : les autres joueurs peuvent alors poser toutes les suites ou groupes complets dans leur main) |
+| 6 | Une suite de trois cartes d'une même couleur plus un groupe de trois de même rang |
+| 7 | Une suite de cinq cartes d'une même couleur |

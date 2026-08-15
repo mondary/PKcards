@@ -1,151 +1,149 @@
 # Romtile
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A game for two to four players played with 106 coloured and numbered tiles.
+**Type :** Rami
+**But :** Un jeu pour deux à quatre joueurs joué avec 106 tuiles colorées et numérotées.
+**Autres noms :** Remi Etalat
 
 ---
 
-- Introduction: Players and Objective
+- Introduction : Joueurs et but
 
-## Introduction: Equipment, Players and Objective
+## Introduction : Équipement, joueurs et but
 
-This page is based on the instructions in Romanian and Hungarian supplied with a tile rummy set bought near Bistriţa in Romania, and on information from Hilary Howarth, who learned the game from her Romanian husband and his family, and from Vlad Diaconu. I would be very pleased to 
-hear from anyone who can give me more information about tile rummy games played in Romania and other south-east European countries.
+Cette page est basée sur les instructions en roumain et en hongrois fournies avec un jeu de rami en tuiles acheté près de Bistriţa en Roumanie, et sur des informations de Hilary Howarth, qui a appris le jeu de son mari roumain et de sa famille, ainsi que de Vlad Diaconu. Je serais très heureux de recevoir des informations de toute personne pouvant m'en dire plus sur les jeux de rami en tuiles joués en Roumanie et dans d'autres pays d'Europe du Sud-Est.
 
-The set consists of 106 wooden tiles. 104 of them have coloured numbers. There are four colours: red, yellow, blue and black, and in each colour there are two of each number from 1 to 13. The remaining two tiles have no numbers, but usually a picture of a smiling face. There are also four wooden racks on which the players store their tiles during the game, so that each player can see only his or her own tiles.
+Le jeu comprend 106 tuiles en bois. 104 d'entre elles portent des numéros colorés. Il y a quatre couleurs : rouge, jaune, bleu et noir, et dans chaque couleur il y a deux exemplaires de chaque numéro de 1 à 13. Les deux tuiles restantes n'ont pas de numéro, mais généralement une image d'un visage souriant. Il y a aussi quatre chevalets en bois sur lesquels les joueurs rangent leurs tuiles pendant la partie, afin que chaque joueur ne puisse voir que ses propres tuiles.
 
 ![Rummy tiles](../images/rummy/rummy-tiles.jpg)
 
-The game can be played by two, three or four players. At each turn you draw one tile and discard one. The object of the game is to get rid of all your tiles by laying them down in sets of the same number and runs of consecutive numbered tiles of the same colour.
+Le jeu peut se jouer à deux, trois ou quatre joueurs. À chaque tour, vous piochez une tuile et en défaussez une. Le but du jeu est de se débarrasser de toutes vos tuiles en les posant en séries de même numéro et en suites de tuiles numérotées consécutives de même couleur.
 
-The whole game is played anticlockwise.
+L'ensemble du jeu se joue dans le sens antihoraire.
 
-## Preparation and Distribution of Tiles
+## Préparation et distribution des tuiles
 
-The tiles are mixed thoroughly face down on the table, and then built into a wall of 15 face-down stacks of seven tiles (there will be one tile left over). The wall is straightened by squeezing it between two of the racks, held parallel and on either side of the wall.
+Les tuiles sont mélangées soigneusement face cachée sur la table, puis disposées en un mur de 15 tas face cachée de sept tuiles (il restera une tuile en surplus). Le mur est aligné en le serrant entre deux chevalets, tenus parallèlement et de chaque côté du mur.
 
-The dealer of the first game is chosen at random. For subsequent games the turn to deal passes to the right. The dealer turns the extra tile face up and counts out the number on the tile starting at one end of the wall. On the stack represented by the exposed tile, the dealer replaces the top tile with the exposed tile and moves this new spare tile to the top of the next stack, which will then have 8 tiles. For example if the original spare tile was an 8, the modified wall will look like this:
+Le donneur de la première partie est choisi au hasard. Pour les parties suivantes, le tour de donner passe à droite. Le donneur retourne la tuile supplémentaire face visible et compte le numéro de la tuile à partir d'une extrémité du mur. Sur le tas représenté par la tuile exposée, le donneur remplace la tuile du dessus par la tuile exposée et déplace cette nouvelle tuile supplémentaire sur le tas suivant, qui aura alors 8 tuiles. Par exemple, si la tuile supplémentaire originale était un 8, le mur modifié ressemblera à ceci :
 
 ![wall](../images/rummy/romtile.gif)
 
-The stack with the extra tile goes to the player to the dealer's right, and the dealer continues aroung the table counter-clockwise, giving one of the following stacks to each player in turn (working along the wall to the right if the wall as seen in the above diagram), continuing until each player has two stacks. If the end of the wall is reached the dealer continues from the beginning.
+Le tas avec la tuile supplémentaire va au joueur à la droite du donneur, et le donneur continue autour de la table dans le sens antihoraire, donnant un des tas suivants à chaque joueur à tour de rôle (en suivant le mur vers la droite si le mur est vu comme dans le diagramme ci-dessus), jusqu'à ce que chaque joueur ait deux tas. Si la fin du mur est atteinte, le donneur reprend au début.
 
-The players arrange the tiles on their racks - each player has 14 tiles except the player to dealer's right, who starts with 15. The remaining stacks stay face down in the centre of the table as a drawing stock. The first stack to be drawn from is the next stack in the order in which stacks were taken for the deal. It is customary to place this on top of the following stack, to indicate where the next tile is to be drawn from. As this drawing stack diminishes in size, periodically its tiles are added on top of the next following stack, to make the current drawing stack taller than the others.
+Les joueurs arrangent les tuiles sur leurs chevalets — chaque joueur a 14 tuiles sauf le joueur à la droite du donneur, qui commence avec 15. Les tas restants restent face cachée au centre de la table comme pioche. Le premier tas à piocher est le tas suivant dans l'ordre dans lequel les tas ont été pris pour la donne. Il est d'usage de le placer sur le tas suivant, pour indiquer où piocher la tuile suivante. À mesure que cette pioche diminue, ses tuiles sont périodiquement ajoutées sur le tas suivant, pour rendre la pioche actuelle plus haute que les autres.
 
-If a low numbered tile is exposed initially, then the deal will leave the wall in two separate sections. In this case, during tiles are of course first drawn from the section after the dealt tiles, and then from the other sections, working towards the stack with the exposed tile.
+Si une tuile à faible numéro est initialement exposée, la donner laissera le mur en deux sections séparées. Dans ce cas, les tuiles sont bien entendu d'abord piochées dans la section après les tuiles distribuées, puis dans les autres sections, en allant vers le tas avec la tuile exposée.
 
-The exposed tile itself is never drawn. When the other stacks are exhausted the exposed tile is removed from the top of its stack so that the six tiles that were under it can be drawn in turn.
+La tuile exposée elle-même n'est jamais piochée. Lorsque les autres tas sont épuisés, la tuile exposée est retirée du dessus de son tas afin que les six tuiles qui se trouvaient en dessous puissent être piochées à leur tour.
 
-Before the play begins, any player who has a pair of identical tiles (the same colour and number) can announce "doubla". Any two players who have doublas may agree to exchange them, each player passing the pair of tiles in question face-down to the other player. Players are not allowed to give exact information about the rank and colour of the tiles they want to exchange - they may only (if they wish) announce their doubla as "high" or "low".
+Avant que le jeu ne commence, tout joueur ayant une paire de tuiles identiques (même couleur et même numéro) peut annoncer « doubla ». Deux joueurs ayant des doublas peuvent s'accorder pour les échanger, chaque joueur passant la paire de tuiles en question face cachée à l'autre joueur. Les joueurs ne sont pas autorisés à donner des informations précises sur le rang et la couleur des tuiles qu'ils souhaitent échanger — ils peuvent seulement (s'ils le souhaitent) annoncer leur doubla comme « haute » ou « basse ».
 
-If you are dealt the tile that is identical to the exposed tile, you may announce it before your first turn to play, and you will then score a bonus of 25 points at the end of the play.
+Si vous recevez la tuile identique à la tuile exposée, vous pouvez l'annoncer avant votre premier tour de jeu, et vous marquerez alors un bonus de 25 points à la fin de la partie.
 
-## The Play
+## Le jeu
 
-The first player (who has 15 tiles) begins the game by throwing an unwanted tile face up on the table. This tile cannot be used at any time during the game. Thereafter, the turn to play passes counterclockwise around the table.
+Le premier joueur (qui a 15 tuiles) commence la partie en jetant une tuile indésirable face visible sur la table. Cette tuile ne peut être utilisée à aucun moment pendant la partie. Ensuite, le tour de jouer passe dans le sens antihoraire autour de la table.
 
-The object of the game is to collect tiles that form valid sets and runs, which can then be melded (placed face up on the table in front of you). Until you have succeeded in melding some tiles, you must begin each turn by taking the next available tile from the wall. Then if you have combinations of sufficient value, you may meld some tiles from your rack. To end your turn you must discard one tile from your hand face up. The discarded tiles are placed near the centre of the table in a row, in the order they were discarded. The tile thrown by the first player is placed at a right angle to the others to show that this is the start of the line.
+Le but du jeu est de collecter des tuiles formant des séries et des suites valides, qui peuvent ensuite être posées (placées face visible sur la table devant vous). Jusqu'à ce que vous ayez réussi à poser des tuiles, vous devez commencer chaque tour en prenant la prochaine tuile disponible du mur. Ensuite, si vous avez des combinaisons de valeur suffisante, vous pouvez poser des tuiles de votre chevalet. Pour terminer votre tour, vous devez défausser une tuile de votre main face visible. Les tuiles défaussées sont placées près du centre de la table en ligne, dans l'ordre où elles ont été défaussées. La tuile jetée par le premier joueur est placée à angle droit par rapport aux autres pour montrer que c'est le début de la ligne.
 
 ![discard row](../images/rummy/romtile2.gif)
 
-There are two types of valid combination.
+Il y a deux types de combinaisons valides.
 
-- A run (suita) consists of at least three consecutive numbers of the same colour. A 1 may used to make a run of 1-2-3, or may be counted as following the 13 to make a run of 12-13-1. A 1 cannot be placed in the middle of a run: 13-1-2 is not valid.
+- Une suite (suita) consiste en au moins trois numéros consécutifs de la même couleur. Un 1 peut être utilisé pour faire une suite 1-2-3, ou peut être compté comme suivant le 13 pour faire une suite 12-13-1. Un 1 ne peut pas être placé au milieu d'une suite : 13-1-2 n'est pas valide.
 
-- A set (terta) consists of three or four tiles of the same number in different colours.
+- Une série (terta) consiste en trois ou quatre tuiles du même numéro dans des couleurs différentes.
 
-The two unnumbered tiles are known as Joly. A Joly can be used to substitute for any tile you need to make a set or run.
+Les deux tuiles sans numéro sont appelées Joly. Un Joly peut être utilisé pour remplacer n'importe quelle tuile nécessaire pour former une série ou une suite.
 
-When using a Joly at the end of a run, you must make it clear which tile the Joly is intended to represent. For example the run [blue 9] - [blue 10] - [***Joly***] with the Joly representing the 11 can later be extended by adding a blue 12, but it's not possible to reassign the Joly to be a blue 8 so that a blue 7 can be added.
+Lors de l'utilisation d'un Joly à l'extrémité d'une suite, vous devez préciser quelle tuile le Joly est censé représenter. Par exemple, la suite [bleu 9] - [bleu 10] - [***Joly***] avec le Joly représentant le 11 peut être étendue ultérieurement en ajoutant un bleu 12, mais il n'est pas possible de réaffecter le Joly pour qu'il soit un bleu 8 afin qu'un bleu 7 puisse être ajouté.
 
-A combination must always contain at least twice as many real tiles as Jolys. Therefore you cannot use both Jolys in a single set, or in a run of fewer than 6 tiles. For example [yellow 3] - [Joly] - [yellow 5] - [Joly] - [yellow 7] is not allowed, but if you added the yellow 8 to it, it would be a legal run.
+Une combinaison doit toujours contenir au moins deux fois plus de tuiles réelles que de Jolys. Par conséquent, vous ne pouvez pas utiliser les deux Jolys dans une seule série, ni dans une suite de moins de 6 tuiles. Par exemple [jaune 3] - [Joly] - [jaune 5] - [Joly] - [jaune 7] n'est pas autorisé, mais si vous ajoutiez le jaune 8, ce serait une suite légale.
 
-For your first meld, you must put down combinations from your rack with the following constraints:
+Pour votre première pose, vous devez poser des combinaisons de votre chevalet avec les contraintes suivantes :
 
-- the tiles you meld must include at least one run;
+- les tuiles que vous posez doivent inclure au moins une suite ;
 
-- the total value of the melded tiles must be at least 50 points.
+- la valeur totale des tuiles posées doit être d'au moins 50 points.
 
-For this purpose the tiles have point values as follows:
+Pour cela, les tuiles ont les valeurs de points suivantes :
 
-| 2 to 9 | 5 points each |
-| 10 to 13 | 10 points each |
-| 1 in a run of 1-2-3-... | 5 points |
-| 1 in a run of ...-12-13-1 | 10 points |
-| 1's in a set of three 1's | 25 points each |
-| A Joly has the value of the tile it represents |
+| 2 à 9 | 5 points chacune |
+| 10 à 13 | 10 points chacune |
+| 1 dans une suite 1-2-3-... | 5 points |
+| 1 dans une suite ...-12-13-1 | 10 points |
+| 1 dans une série de trois 1 | 25 points chacun |
+| Un Joly a la valeur de la tuile qu'il représente |
 
-In order to be allowed to meld any tiles at all, you must first meld from your hand sets and runs to a total value of at least 50 points. After you have done that, then in this and subsequent turns, after drawing and before discarding, you may meld further sets and runs, and add tiles to sets and runs that you or other players have previously melded. However, no tile may form part of two combinations (sets or runs) at the same time.
+Pour être autorisé à poser des tuiles, vous devez d'abord poser de votre main des séries et des suites d'une valeur totale d'au moins 50 points. Après cela, dans ce tour et les suivants, après avoir pioché et avant de défausser, vous pouvez poser d'autres séries et suites, et ajouter des tuiles à des séries et suites déjà posées par vous ou d'autres joueurs. Cependant, aucune tuile ne peut faire partie de deux combinaisons (séries ou suites) en même temps.
 
-There is no obligation to meld tiles just because you can: you may keep them on your rack for later use if you prefer, though by doing so you risk a a bad score if another player ends the game meanwhile.
+Il n'y a aucune obligation de poser des tuiles simplement parce que vous le pouvez : vous pouvez les conserver sur votre chevalet pour un usage ultérieur si vous préférez, mais en faisant ainsi vous risquez un mauvais score si un autre joueur termine la partie entre-temps.
 
-After you have melded some tiles as above, you have additional options on subsequent turns.
+Après avoir posé des tuiles comme décrit ci-dessus, vous avez des options supplémentaires lors des tours suivants.
 
-- You may put down additional runs and sets, irrespective of their point value.
+- Vous pouvez poser des suites et séries supplémentaires, quelle que soit leur valeur en points.
 
-- You may add tiles to extend your own or other players' existing melds.
+- Vous pouvez ajouter des tuiles pour étendre vos propres combinaisons ou celles d'autres joueurs.
 
-- You may begin your turn by picking up the previous player's discard instead of drawing a new tile from the centre: there is no obligation to include this tile in a meld immediately.
+- Vous pouvez commencer votre tour en récupérant la défausse du joueur précédent au lieu de piocher une nouvelle tuile du centre : il n'y a aucune obligation d'inclure cette tuile immédiatement dans une combinaison.
 
-- If you have two tiles on your rack that can form a set or run with any one tile of the discard row you may take this tile, meld the combination, and you must then pick up all the tiles discarded after the tile that you melded and add them to your rack. (You may then meld additional tiles or add them to existing melds).
+- Si vous avez deux tuiles sur votre chevalet qui peuvent former une série ou une suite avec une tuile quelconque de la ligne de défausse, vous pouvez prendre cette tuile, poser la combinaison, et vous devez ensuite récupérer toutes les tuiles défaussées après la tuile que vous avez posée et les ajouter à votre chevalet. (Vous pouvez ensuite poser des tuiles supplémentaires ou les ajouter à des combinaisons existantes).
 
-- If you have the exact tile represented by a Joly in your own or another player's run, you may take the Joly, replacing it with the tile it represented, provided that you immediately meld the Joly with two tiles from your rack to make a new set or run.
+- Si vous avez la tuile exacte représentée par un Joly dans votre propre suite ou celle d'un autre joueur, vous pouvez prendre le Joly, en le remplaçant par la tuile qu'il représentait, à condition de poser immédiatement le Joly avec deux tuiles de votre chevalet pour former une nouvelle série ou suite.
 
-- If you or another player have melded a pair of equal numbered tiles with a Joly as a set of three, and you hold tiles of the same rank in both missing colours, you may take the Joly, replacing it with these two tiles (completing four of a kind), provided that you immediately meld the Joly with two tiles from your rack to make a new set or run.
+- Si vous ou un autre joueur avez posé une paire de tuiles de même numéro avec un Joly comme série de trois, et que vous détenez des tuiles du même rang dans les deux couleurs manquantes, vous pouvez prendre le Joly, en le remplaçant par ces deux tuiles (complétant un carré), à condition de poser immédiatement le Joly avec deux tuiles de votre chevalet pour former une nouvelle série ou suite.
 
-- If there is a set of two equal numbered tiles and a Joly on the table, and you have just one of the missing colours, you can add this tile to the set to make four of a kind, but you cannot take the Joly. Later, a player who has the same numbered tile of the fourth colour can use it to replace the Joly, provided that this player immediately melds the Joly with two tiles from his or her rack to make a new set or run.
+- S'il y a une série de deux tuiles de même numéro et un Joly sur la table, et que vous n'avez qu'une seule des couleurs manquantes, vous pouvez ajouter cette tuile à la série pour former un carré, mais vous ne pouvez pas prendre le Joly. Plus tard, un joueur qui a la tuile du même numéro de la quatrième couleur peut l'utiliser pour remplacer le Joly, à condition que ce joueur pose immédiatement le Joly avec deux tuiles de son chevalet pour former une nouvelle série ou suite.
 
-Note that you are not allowed to take a discard to help make your initial meld of at least 50 points. Nor are you allowed, in the same turn as your initial meld, to add tile to other players' melds or to substitute the real tile for another player's Joly. The actions only become available to you in the turn after your initial meld.
+Notez que vous n'êtes pas autorisé à récupérer une défausse pour aider à constituer votre combinaison initiale d'au moins 50 points. Vous n'êtes pas non plus autorisé, pendant le même tour que votre combinaison initiale, à ajouter des tuiles aux combinaisons d'autres joueurs ou à substituer une vraie tuile au Joly d'un autre joueur. Ces actions ne deviennent possibles qu'au tour suivant votre combinaison initiale.
 
-If you have only one or two tiles left in your hand, you are not allowed to pick up any tiles from the discard pile. You must begin each turn by taking the next tile from the wall.
+Si vous n'avez qu'une ou deux tuiles restantes en main, vous n'êtes pas autorisé à récupérer des tuiles de la défausse. Vous devez commencer chaque tour en prenant la tuile suivante du mur.
 
-To win the game you must meld all your remaining tiles but one, discarding your last tile. On this final turn only, you may take the initial exposed tile from the end of the wall to complete your hand, instead of drawing an unknown tile from the wall or taking a tile from the discard pile.
+Pour gagner la partie, vous devez poser toutes vos tuiles restantes sauf une, et défausser votre dernière tuile. Lors de ce dernier tour uniquement, vous pouvez prendre la tuile exposée initiale de l'extrémité du mur pour compléter votre main, au lieu de piocher une tuile inconnue du mur ou de prendre une tuile de la défausse.
 
-A player who has three or fewer tiles left must announce this to the other players. Note that a player who has only one or two tiles left can only get rid of these by adding them to existing melds - if you have two tiles and pick up a third that forms a set or run with them, you can't meld this new set or run, as it would leave you with no tile to discard.
+Un joueur qui a trois tuiles ou moins restantes doit l'annoncer aux autres joueurs. Notez qu'un joueur qui n'a qu'une ou deux tuiles restantes ne peut s'en débarrasser qu'en les ajoutant à des combinaisons existantes — si vous avez deux tuiles et que vous récupérez une troisième qui forme une série ou une suite avec elles, vous ne pouvez pas poser cette nouvelle série ou suite, car cela vous laisserait sans tuile à défausser.
 
-A player may choose to not to meld any tiles during the game, but keep them all concealed on his or her rack, hoping to win by melding them all at once. The player gets an extra bonus for this if successful, but of course risks incurring a large loss if another player wins.
+Un joueur peut choisir de ne poser aucune tuile pendant la partie, et de les conserver toutes cachées sur son chevalet, en espérant gagner en les posant toutes d'un coup. Le joueur reçoit un bonus supplémentaire s'il y parvient, mais risque bien sûr d'encourir une grande perte si un autre joueur gagne.
 
-It sometimes happens that all the face down tiles from the centre are drawn before any player ends the game by melding all their tiles. In this case the tile of the discard line are turned face down, except for the first tile at right angles, which remains exposed in place. These face down tiles from the old discard line are thoroughly mixed and used to build a new wall from which tiles can be drawn, so that the game can continue. The turning and shuffling of the old discards and rebuilding of the wall happens when a player wishes to draw a tile from the centre (rather than take a tile or tiles from the discard line) and there are no further face down tiles to draw.
+Il arrive parfois que toutes les tuiles face cachée du centre soient piochées avant qu'aucun joueur ne termine la partie en posant toutes ses tuiles. Dans ce cas, les tuiles de la ligne de défausse sont retournées face cachée, à l'exception de la première tuile à angle droit, qui reste exposée en place. Ces tuiles face cachée de l'ancienne ligne de défausse sont soigneusement mélangées et utilisées pour construire un nouveau mur à partir duquel on peut piocher, afin que le jeu puisse continuer. Le retournement et le mélange des anciennes défausses et la reconstruction du mur se produisent lorsqu'un joueur souhaite piocher une tuile du centre (plutôt que de prendre une ou plusieurs tuiles de la ligne de défausse) et qu'il n'y a plus de tuiles face cachée à piocher.
 
-## Scoring
+## Score
 
-The winner scores 100 points plus the value of the tiles he or she has melded. The other players score the value of tiles they have played minus the value of the tiles left in their racks. For this purpose the values of the tiles are the same as in the initial meld, except for the Joly, which counts +50 points for the player who first melds it, but 25 points against a player who has it on their rack at the end of the play.
+Le gagnant marque 100 points plus la valeur des tuiles qu'il a posées. Les autres joueurs marquent la valeur des tuiles qu'ils ont posées moins la valeur des tuiles restantes sur leurs chevalets. Pour cela, les valeurs des tuiles sont les mêmes que pour la combinaison initiale, sauf pour le Joly, qui compte +50 points pour le joueur qui le pose en premier, mais 25 points contre un joueur qui l'a sur son chevalet à la fin de la partie.
 
-Note that if a player claims a melded Joly in exchange for the tile or tiles that it represents, the person who originally melded it still scores the 50 points for it, while any players who subsequently took it score only the value of the tile(s) that they provided as a replacement for it. To keep track of this, tiles used to replace a Joly are placed in the meld upside down. At the end of the play, the Joly is passed back from its final position through all the places where it was previously melded, ending in the meld in which it was first used, while the upside down tiles that replaced it are returned in each case to the player who supplied them, so that they can be scored for that player.
+Notez que si un joueur récupère un Joly posé en échange de la ou les tuiles qu'il représentait, la personne qui l'a posé à l'origine marque toujours les 50 points pour celui-ci, tandis que les joueurs qui l'ont ensuite récupéré ne marquent que la valeur de la ou des tuiles qu'ils ont fournies en remplacement. Pour suivre cela, les tuiles utilisées pour remplacer un Joly sont placées dans la combinaison à l'envers. À la fin de la partie, le Joly est renvoyé de sa position finale à travers tous les endroits où il a été posé précédemment, pour terminer dans la combinaison où il a été utilisé en premier, tandis que les tuiles à l'envers qui l'ont remplacé sont retournées dans chaque cas au joueur qui les a fournies, afin qu'elles puissent être comptées pour ce joueur.
 
-Anyone who did not meld any tiles at all loses 200 points irrespective of the values of the tiles on their rack.
+Toute personne qui n'a posé aucune tuile perd 200 points, indépendamment de la valeur des tuiles sur son chevalet.
 
-If you win by melding all your 14 tiles at once (without having previously melded any tiles), you score an additional 100 bonus - that is a total of 200 plus the value of the tiles you meld.
+Si vous gagnez en posant toutes vos 14 tuiles d'un coup (sans avoir précédemment posé de tuiles), vous marquez un bonus supplémentaire de 100 — soit un total de 200 plus la valeur des tuiles posées.
 
-If anyone was dealt the tile identical to the initial exposed tile and declared it, tthat player scores an extra 25 points.
+Si quelqu'un a reçu la tuile identique à la tuile exposée initiale et l'a déclarée, ce joueur marque 25 points supplémentaires.
 
-It can happen that a game ends with no winner, if all the spare tiles have been drawn from the centre and no one has managed to compete their hand. In this case everyone scores for the tiles they have put down less the tiles they have left, and no one gets the 100 point bonus for winning.
+Il peut arriver qu'une partie se termine sans gagnant, si toutes les tuiles disponibles ont été piochées du centre et que personne n'a réussi à terminer sa main. Dans ce cas, chacun marque pour les tuiles posées moins les tuiles restantes, et personne ne reçoit le bonus de 100 points pour la victoire.
 
-A series of games is played, the deal passing to the right after each game and the scores are totalled. The players can choose whether the game should end after a fixed number of games or when someone reached an agreed target score.
+Une série de parties est jouée, la donne passant à droite après chaque partie et les scores sont totalisés. Les joueurs peuvent choisir si la partie doit se terminer après un nombre fixe de parties ou lorsque quelqu'un atteint un score cible convenu.
 
-Hilary Howarth recommends the following methods to keep the scoring clear during play: 
+Hilary Howarth recommande les méthodes suivantes pour garder le score clair pendant la partie :
 
-- If a player supplies the fourth tile of a set, that set is removed from the player's meld area and each player keeps in a stack the number of tiles they contributed to the set. 
+- Si un joueur fournit la quatrième tuile d'une série, cette série est retirée de la zone de pose du joueur et chaque joueur conserve dans une pile le nombre de tuiles qu'il a contribuées à la série.
 
-- If a player adds tile(s) to another player's run, that player takes tiles worth the equivalent number of points from the middle of the run, leaving the ends of the run clearly identified. E.g. Player "A" adds 9 and 10 (worth 15 points) to Player "B's" run of 6-7-8. Player "A" moves the 7, 8, and 9 tiles to her stack as she is entitled to 15 points. Remaining on the in "B's" melding area is 7-10, indicating the end numbers of the run for future add-ons. 
+- Si un joueur ajoute des tuiles à la suite d'un autre joueur, ce joueur prend des tuiles d'une valeur équivalente en points au milieu de la suite, en laissant les extrémités de la suite clairement identifiées. Par exemple, le joueur « A » ajoute 9 et 10 (valeur 15 points) à la suite 6-7-8 du joueur « B ». Le joueur « A » déplace les tuiles 7, 8 et 9 vers sa pile car il a droit à 15 points. Restant dans la zone de pose de « B » : 7-10, indiquant les numéros d'extrémité de la suite pour de futurs ajouts.
 
-Each player keeps by them a stack of these tiles representing points for melds that can no longer be added to, for easy score counting at the end of the game
+Chaque joueur conserve près de lui une pile de ces tuiles représentant les points des combinaisons qui ne peuvent plus être étendues, pour un comptage facile des scores à la fin de la partie.
 
-Note that it is possible to a player who has melded a lot of tiles to score more points than the "winner" who ends the game.
+Notez qu'il est possible qu'un joueur qui a posé beaucoup de tuiles marque plus de points que le « gagnant » qui termine la partie.
 
-## Variations
+## Variantes
 
-According to some printed rules, a player who has melded no tiles loses 100 plus the value of the tiles on their rack, rather than a fixed 200 points.
+Selon certaines règles imprimées, un joueur qui n'a posé aucune tuile perd 100 plus la valeur des tuiles sur son chevalet, au lieu d'une pénalité fixe de 200 points.
 
-Some players require only 45 points (not 50) for the first meld.
+Certains joueurs exigent seulement 45 points (et non 50) pour la première pose.
 
-Some players allow the previous player's discard (one tile only) to be taken if it is immediately used as part of your initial meld.
+Certains joueurs autorisent à récupérer la défausse du joueur précédent (une seule tuile) si elle est immédiatement utilisée comme partie de votre combinaison initiale.
 
-Some play that if you win by discarding a Joly, having melded all your other tiles, your score for that hand is doubled.
+Certains jouent que si vous gagnez en défaussant un Joly, ayant posé toutes vos autres tuiles, votre score pour cette main est doublé.
 
-## Online Game
+## Jeu en ligne
 
-You can play Romanian Tile Rummy (*Remi Etalat*) online at [vipremi](https://vipremi.ro) - versions for computer, Android and iPhone are available.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Romanian Tile Rummy
+Vous pouvez jouer au rami en tuiles roumain (*Remi Etalat*) en ligne sur [vipremi](https://vipremi.ro) — des versions pour ordinateur, Android et iPhone sont disponibles.

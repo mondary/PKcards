@@ -166,7 +166,7 @@ def unique(values: list[str]) -> list[str]:
 
 
 def markdown_names(slug: str) -> list[str]:
-    for file in (ROOT / f"assets/rules/{slug}.md", ROOT / f"assets/rules/rules_clm/{slug}.md"):
+    for file in (ROOT / f"assets/rules/rules_original/{slug}.md", ROOT / f"assets/rules/rules_clm/{slug}.md"):
         if not file.exists():
             continue
         markdown = file.read_text()

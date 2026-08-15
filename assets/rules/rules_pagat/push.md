@@ -1,101 +1,100 @@
 # Push
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A four-player partnership version of Contract Rummy in which unwanted cards from the discard pile are 'pushed' to the next player in turn.
+**Type :** Rami
+**But :** Une variante en partenariat de quatre joueurs du Rami à contrats dans laquelle les cartes indésirables de la défausse sont « poussées » au joueur suivant dans le tour.
 
 ---
 
-*This page is based on a contribution from Paul Welty.*
+*Cette page est basée sur une contribution de Paul Welty.*
 
-Push is related to Contract Rummy, but there are some important differences: Push is a partnership game, and the draw and discard mechanism is different.
+Push est apparenté au Rami à contrats, mais présente quelques différences importantes : Push se joue en partenariat, et le mécanisme de pioche et défausse est différent.
 
-## Players and Cards
+## Joueurs et cartes
 
-Push is for four players, two against two in fixed partnerships; as usual, partners sit facing each other. Two standard packs of cards are used, including 4 jokers, making 108 cards in all. The **jokers** and **twos** are **wild cards**.
+Push se joue à quatre joueurs, deux contre deux en partenariques fixes ; comme d'habitude, les partenaires se font face. On utilise deux jeux de cartes standard, dont 4 jokers, soit 108 cartes au total. Les **jokers** et les **deux** sont des **cartes wild** (jokers).
 
-## Outline of the Game
+## Vue d'ensemble du jeu
 
-There are 5 deals. The first deal is 6 cards to each player, the second 7, the third 8, the fourth 9, and the fifth 10 cards. During each hand, the object is to get rid of as many cards as possible from your hand by playing them to the table as **melds**. When one player gets rid of all their cards, the cards remaining in the other team's hands score penalty points. The team with the lower total of penalty points after the fifth hand wins.
+Il y a 5 donnes. La première donne distribue 6 cartes à chaque joueur, la deuxième 7, la troisième 8, la quatrième 9, et la cinquième 10 cartes. Pendant chaque main, le but est de se débarrasser du maximum de cartes de sa main en les posant sur la table sous forme de **combinaisons**. Lorsqu'un joueur se débarrasse de toutes ses cartes, les cartes restantes dans les mains de l'équipe adverse comptent comme points de pénalité. L'équipe ayant le total de points de pénalité le plus bas après la cinquième main gagne.
 
-## Melds
+## Combinaisons
 
-As in most rummy games, the possible melds are **sets** of equal cards and **runs** of consecutive cards in the same suit. Wild cards can be used as substitute for any number of cards in a set or run. The minimum size of sets and runs is three cards, but a longer run is required for the initial meld in some deals.
+Comme dans la plupart des jeux de rami, les combinaisons possibles sont des **séries** de cartes de même rang et des **suites** de cartes consécutives de la même couleur. Les cartes wild peuvent remplacer n'importe quel nombre de cartes dans une série ou une suite. La taille minimale des séries et des suites est de trois cartes, mais une suite plus longue est requise pour la combinaison initiale dans certaines donnes.
 
-Sets
-A set consists of three or more cards of equal rank - for example three sevens or four queens. Since a double pack of cards is used there are two of each card, but a set cannot contain two cards of the same suit. Therefore a set cannot contain more than four cards. However, a player can meld two separate sets of the same rank, for example **![club](../images/internat/club.gif)8-![heart](../images/internat/heart.gif)8-![spade](../images/internat/spade.gif)8** and **![heart](../images/internat/heart.gif)8-![spade](../images/internat/spade.gif)8-![diamond](../images/internat/diamond.gif)8** Runs
-A run consists of three or more cards of the same suit in sequence, such as **3-4-5-6** of spades, or **9-10-J** of diamonds. Ace can count as high (as in **J-Q-K-A**) or low (as in **A-2-3-4**), but not both (**K-A-2-3** is not allowed). A player can meld two separate runs in the same suit, for example **4-5-6-7** and **8-9-10-J**, or these eight cards could be melded as a single run: **4-5-6-7-8-9-10-J**, but once melded, runs cannot be split up or joined together, only extended.
-Wild cards
-**Twos and jokers are wild** and can be used in any set or run to represent any desired card. If a meld consists entirely of wild cards or has just one natural card and the remainder wild, the player must specify whether it is meant to be a set or a run. In the case of a run, the player must specify exactly what any wild card represents; in the case of a set it is only necessary to specify the rank of the set. 
+Séries
+Une série consiste en trois cartes ou plus de même rang — par exemple trois sept ou quatre dames. Comme on utilise un double jeu, il y a deux exemplaires de chaque carte, mais une série ne peut pas contenir deux cartes de la même couleur. Par conséquent, une série ne peut pas dépasser quatre cartes. Cependant, un joueur peut poser deux séries séparées du même rang, par exemple **![trèfle](../images/internat/club.gif)8-![cœur](../images/internat/heart.gif)8-![pique](../images/internat/spade.gif)8** et **![cœur](../images/internat/heart.gif)8-![pique](../images/internat/spade.gif)8-![carreau](../images/internat/diamond.gif)8**
+Suites
+Une suite consiste en trois cartes ou plus de la même couleur en séquence, comme **3-4-5-6** de pique, ou **9-10-V** de carreau. L'As peut compter comme haut (comme dans **V-D-R-A**) ou comme bas (comme dans **A-2-3-4**), mais pas les deux (**R-A-2-3** n'est pas autorisé). Un joueur peut poser deux suites séparées de la même couleur, par exemple **4-5-6-7** et **8-9-10-V**, ou ces huit cartes peuvent être posées en une seule suite : **4-5-6-7-8-9-10-V**, mais une fois posées, les suites ne peuvent ni être séparées ni être fusionnées, uniquement étendues.
+Cartes wild
+**Les deux et les jokers sont wild** et peuvent être utilisés dans toute série ou suite pour représenter n'importe quelle carte souhaitée. Si une combinaison est entièrement composée de cartes wild ou ne contient qu'une seule carte naturelle et le reste en cartes wild, le joueur doit préciser s'il s'agit d'une série ou d'une suite. Dans le cas d'une suite, le joueur doit préciser exactement ce que chaque carte wild représente ; dans le cas d'une série, il suffit de préciser le rang de la série.
 
-For example, if you put down **![diamond](../images/internat/diamond.gif)6-![spade](../images/internat/spade.gif)2-joker** you must say whether it is a set of sixes or a run in diamonds, and if it is a run you must specify whether it is **4-5-6**, **5-6-7** or **6-7-8**.
+Par exemple, si vous posez **![carreau](../images/internat/diamond.gif)6-![pique](../images/internat/spade.gif)2-joker**, vous devez dire s'il s'agit d'une série de six ou d'une suite à carreau, et si c'est une suite vous devez préciser s'il s'agit de **4-5-6**, **5-6-7** ou **6-7-8**.
 
-A two can also be used as a natural card (i.e. representing itself) in a run such as **A-2-3-4**.
+Un deux peut également être utilisé comme carte naturelle (c'est-à-dire se représentant lui-même) dans une suite telle que **A-2-3-4**.
 
-## Initial Meld Requirements
+## Exigences de combinaison initiale
 
-In each deal, there is a minimum requirement for each player's initial meld, as follows:
+À chaque donne, il y a une exigence minimale pour la combinaison initiale de chaque joueur, comme suit :
 
-| Deal No. | Cards dealt | Initial meld |
-| 1 | 6 | 2 sets of three |
-| 2 | 7 | 1 set of three, 1 run of four |
-| 3 | 8 | 2 runs of four |
-| 4 | 9 | 3 sets of three |
-| 5 | 10 | 2 runs of five |
+| Donne n° | Cartes distribuées | Combinaison initiale |
+| 1 | 6 | 2 séries de trois |
+| 2 | 7 | 1 série de trois, 1 suite de quatre |
+| 3 | 8 | 2 suites de quatre |
+| 4 | 9 | 3 séries de trois |
+| 5 | 10 | 2 suites de cinq |
 
-## The deal
+## La donne
 
-The first dealer is chosen at random and the turn to deal passes clockwise. The dealer deals the appropriate number of cards (see above table) to each player, one at a time. The next card is placed face up to start the discard pile, and the remaining undealt cards are placed face down beside it to form the stock. The first face-up card is not allowed to be a wild card; if the card turned up is a two or joker, the dealer buries it in the stock and turns up a new card to start the discard pile. 
+Le premier donneur est choisi au hasard et le tour de donner passe dans le sens horaire. Le donneur distribue le nombre approprié de cartes (voir tableau ci-dessus) à chaque joueur, une à la fois. La carte suivante est placée face visible pour commencer la défausse, et les cartes non distribuées restantes sont placées face cachée à côté pour former la pioche. La première carte face visible ne doit pas être une carte wild ; si la carte retournée est un deux ou un joker, le donneur l'enfouit dans la pioche et en retourne une nouvelle pour commencer la défausse.
 
-## The play
+## Le jeu
 
-The player to dealer's left begins, and the turn to play continues clockwise. A turn consists of drawing, melding and discarding.
+Le joueur à la gauche du donneur commence, et le tour de jouer continue dans le sens horaire. Un tour consiste à piocher, poser des combinaisons et défausser.
 
-Drawing
-There are two options:
+Pioche
+Il y a deux options :
 
-- If you want the top card of the discard pile, take it and add it to your hand.
+- Si vous souhaitez la carte du dessus de la défausse, prenez-la et ajoutez-la à votre main.
 
-- If you do not want the top card of the discard pile, take a face-down card off the top of the undealt stock cards, put it on top of the card from the discard pile, and **push** these two cards to the opponent on your left (hence the name of the game). The opponent must add these two cards to their hand, and you then draw the next card from the stock and add it to your own hand. Because of the pushing, players can sometimes accumulate quite a large number of cards in their hands.
+- Si vous ne souhaitez pas la carte du dessus de la défausse, prenez une carte face cachée du dessus de la pioche, posez-la sur la carte de la défausse, et **poussez** ces deux cartes à l'adversaire à votre gauche (d'où le nom du jeu). L'adversaire doit ajouter ces deux cartes à sa main, et vous piochez ensuite la carte suivante de la pioche et l'ajoutez à votre propre main. En raison du poussage, les joueurs peuvent parfois accumuler un nombre assez élevé de cartes dans leur main.
 
-Melding
-Having drawn, you may if you wish meld cards from by placing them face up on the table. Your first meld of each deal must meet the initial meld requirements for that deal. Each player must meet these requirements before they are allowed to do any other melding. If your partner has already melded, this does **not** entitle you to meld, until you have met the initial meld requirements yourself.
-Having met the initial requirements you can, in the same or subsequent turns, put down any further melds you wish to, or add ("lay off") cards onto any melds that are already on the table. You can lay off cards on your own melds, and on those of your partner and opponents.
+Poser des combinaisons
+Après avoir pioché, vous pouvez si vous le souhaitez poser des combinaisons en les plaçant face visible sur la table. Votre première combinaison de chaque donne doit satisfaire aux exigences de combinaison initiale pour cette donne. Chaque joueur doit satisfaire à ces exigences avant d'être autorisé à poser d'autres combinaisons. Si votre partenaire a déjà posé, cela ne vous **donne pas** le droit de poser, tant que vous n'avez pas vous-même satisfait aux exigences de combinaison initiale.
+Une fois les exigences initiales satisfaites, vous pouvez, dans le même tour ou les tours suivants, poser d'autres combinaisons de votre choix, ou ajouter (« poser ») des cartes à des combinaisons déjà sur la table. Vous pouvez poser des cartes sur vos propres combinaisons, ainsi que sur celles de votre partenaire et de vos adversaires.
 
-While melding, if you have in your hand the natural card that is represented by some wild card on the table, you can substitute the natural card from your hand for the wild card, and then use the wild card as part of a meld you are making. Note that the wild card you replace must be used immediately in a meld - you cannot take it into your hand. Note also that a two used as a natural card in a run such as A-2-3-4 cannot be claimed and reused in this way.
-Discarding
-The final part of each player's turn is to discard one card from hand face up onto the discard pile 
+En posant des combinaisons, si vous avez en main la carte naturelle représentée par une carte wild sur la table, vous pouvez substituer la carte naturelle de votre main à la carte wild, puis utiliser la carte wild comme partie d'une combinaison que vous êtes en train de former. Notez que la carte wild que vous remplacez doit être utilisée immédiatement dans une combinaison — vous ne pouvez pas la conserver en main. Notez également qu'un deux utilisé comme carte naturelle dans une suite telle que A-2-3-4 ne peut pas être récupéré et réutilisé de cette façon.
+Défausse
+La dernière partie du tour de chaque joueur est de défausser une carte de sa main face visible sur la défausse.
 
-The objective is to meld or discard all of one's cards, and the play continues until one of the players manages to "go out" by getting rid of all the cards from their hand. It is possible to go out in the melding part of a turn, by melding all of your cards, or to meld all but one of your cards, and go out by discarding your last card.
+Le but est de poser en combinaison ou de défausser toutes ses cartes, et le jeu continue jusqu'à ce qu'un joueur parvienne à « sortir » en se débarrassant de toutes les cartes de sa main. Il est possible de sortir pendant la phase de combinaison d'un tour, en posant toutes vos cartes en combinaison, ou de poser toutes vos cartes sauf une et de sortir en défaussant votre dernière carte.
 
-In the unlikely event that the stock runs out, then as soon as a player wishes to draw from the stock and there is no card available the play ends.
+Dans l'éventualité peu probable où la pioche s'épuise, dès qu'un joueur souhaite piocher de la pioche et qu'aucune carte n'est disponible, le jeu s'arrête.
 
-## The scoring
+## Le score
 
-As soon as a player goes out, the hand is scored. The team of the player who went out counts nothing for this hand (the cards belonging to the partner of the player who went out do not count). The two opponents count the total value of cards remaining in their hands. If the stock ran out before any player could go out, both teams score the penalty points in their hands. The values of the individual cards is as follows:
+Dès qu'un joueur sort, la main est comptée. L'équipe du joueur qui est sorti ne compte rien pour cette main (les cartes appartenant au partenaire du joueur qui est sorti ne comptent pas). Les deux adversaires additionnent la valeur totale des cartes restantes dans leurs mains. Si la pioche s'est épuisée avant qu'aucun joueur ne puisse sortir, les deux équipes comptent les points de pénalité de leurs mains. La valeur des cartes individuelles est la suivante :
 
-| each 3, 4, 5, 6, 7, 8, 9 | 5 points |
-| each 10, J, Q. K | 10 points |
-| each ace | 15 points |
-| each two or joker | 20 points |
+| chaque 3, 4, 5, 6, 7, 8, 9 | 5 points |
+| chaque 10, V, D, R | 10 points |
+| chaque as | 15 points |
+| chaque deux ou joker | 20 points |
 
-The value of the losing team's cards is added to their running total. The score is kept like this:
+La valeur des cartes de l'équipe perdante est ajoutée à son cumul. Le score se présente ainsi :
 
-| | WE | THEY |
+| | NOUS | EUX |
 | 6 | --- | 40 |
 | 7 | 120 | 40 |
 | 8 | 120 | 100 |
 | 9 | 300 | 100 |
 | 10 | 300 | 280 |
 
-In this example, **"THEY"** win after the last round.
+Dans cet exemple, **« EUX »** gagnent après le dernier tour.
 
-## Variation: Cap-It
+## Variante : Cap-It
 
-Wayne Ostrowski describes a variation known as **Cap-It** in which 10 cards are dealt in each of the 5 rounds. The contracts are the same as in Push, except for the fifth round, in which a run of 3 and a run of 7 are needed. 
+Wayne Ostrowski décrit une variante appelée **Cap-It** dans laquelle 10 cartes sont distribuées à chacun des 5 tours. Les contrats sont les mêmes que dans Push, sauf pour le cinquième tour, où une suite de 3 et une suite de 7 sont nécessaires.
 
-There are no partnerships, and it is possible for 5 or 6 to play, in which case a third deck of cards with its two jokers is added.
+Il n'y a pas de partenariats, et il est possible de jouer à 5 ou 6, auquel cas un troisième jeu de cartes avec ses deux jokers est ajouté.
 
-All contribute equally to a pot at the beginning. The winner of each round takes an agreed amount from the pot and the remainder is collected by the overall winner - the player with the lowest cumulative score after round 5.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Push
+Tous contribuent équitablement à un pot au début. Le gagnant de chaque tour prélève un montant convenu du pot et le reste est collecté par le gagnant final — le joueur ayant le score cumulé le plus bas après le tour 5.

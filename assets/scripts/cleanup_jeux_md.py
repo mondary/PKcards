@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Post-process rules2/*.md (jeux already-built files) to apply the same
+Post-process rules_garraud/*.md (jeux already-built files) to apply the same
 OCR-cleanup regexes as the reussite builder. Operates in-place.
 """
 from __future__ import annotations
@@ -10,7 +10,7 @@ import re
 import sys
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parents[1] / "assets" / "rules" / "rules2"
+OUT = Path(__file__).resolve().parents[1] / "assets" / "rules" / "rules_garraud"
 
 # Same OCR rules as build_rules2_reussites.py
 OCR = [

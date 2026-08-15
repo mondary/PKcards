@@ -1,133 +1,131 @@
 # Spot
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A Rummy game from the west of Ireland with 8-card gands..
+**Type :** Rami
+**But :** Un jeu de rami de l'ouest de l'Irlande avec des mains de 8 cartes.
 
 ---
 
 ## Introduction
 
-Spot is a 8-card rummy game played for small stakes in pubs and private houses in the west of Ireland. Its name refers to the fact that the payments at the end of each hand are based on the number of "spots" each player has on their remaining cards.
+Spot est un jeu de rami à 8 cartes joué pour de petites mises dans les pubs et les maisons privées de l'ouest de l'Irlande. Son nom fait référence au fait que les paiements à la fin de chaque main sont basés sur le nombre de « points » (spots) que chaque joueur a sur ses cartes restantes.
 
-As usual in rummy games the aim is to get rid of all one's cards by laying them down ('dropping' them) in groups of 3 or more equal cards or sequences of 3 or more cards in a suit. An unusual feature of this game is that a player is not allowed to drop more than four cards in one turn.
+Comme d'habitude dans les jeux de rami, le but est de se débarrasser de toutes ses cartes en les posant (« les déposant ») en groupes de 3 cartes identiques ou plus ou en suites de 3 cartes consécutives ou plus dans la même couleur. Une caractéristique inhabituelle de ce jeu est qu'un joueur n'est pas autorisé à déposer plus de quatre cartes en un seul tour.
 
-*This page is based on information from Enda Joyce.*
+*Cette page est basée sur des informations de Enda Joyce.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Spot is usually played by 4 people, though it is possible for more or fewer people to play using the same rules. 
+Spot se joue généralement à 4 personnes, bien qu'il soit possible de jouer à plus ou moins de personnes avec les mêmes règles.
 
-A standard international pack of 52 card without Jokers is used, the cards in each suit being K-Q-J-10-9-8-7-6-5-4-3-2-A. Aces are always low in this game, ranking below the 2 not above the King.
+On utilise un jeu international standard de 52 cartes sans jokers, les cartes dans chaque couleur étant R-D-V-10-9-8-7-6-5-4-3-2-A. Les As sont toujours bas dans ce jeu, classés sous le 2 et non au-dessus du Roi.
 
-Before beginning the players should agree on the stake. Traditionally (before the introduction of the Euro) this was a penny per spot with an ante of 5 pence. In the description the payments are expressed in 'units', each spot being worth one unit.
+Avant de commencer, les joueurs doivent se mettre d'accord sur la mise. Traditionnellement (avant l'introduction de l'euro) c'était un penny par point avec une ante de 5 pence. Dans la description, les paiements sont exprimés en « unités », chaque point valant une unité.
 
-The deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## Donne
 
-The first dealer is chosen by any convenient random method. Thereafter the turn to deal passes to the right after each hand.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire appropriée. Ensuite, le tour de donner passe à droite après chaque main.
 
-Before each deal each player places an agreed ante (normally 5 units) into the pot. The dealer shuffles, the player to dealer's right may cut. The dealer deals the cards one at a time until each player has a hand of 8 cards, and then deals a 9th card to the player to the left, who will begin the game.
+Avant chaque donne, chaque joueur place une ante convenue (normalement 5 unités) dans le pot. Le donneur mélange, le joueur à la droite du donneur peut couper. Le donneur distribue les cartes une à une jusqu'à ce que chaque joueur ait une main de 8 cartes, puis distribue une 9ème carte au joueur de la gauche, qui commencera la partie.
 
-The remainder of the cards are stacked face-down on the table as a stock from which cards are drawn during the game.
+Le reste des cartes est empilé face cachée sur la table comme pioche à partir de laquelle les cartes sont piochées pendant la partie.
 
-## Play
+## Jeu
 
-The first player, to dealer's left, may 'drop' three or four cards (see below) and must then discard one card, placing it face up on the table next to the stock to begin the discard pile.
+Le premier joueur, à la gauche du donneur, peut « déposer » trois ou quatre cartes (voir ci-dessous) et doit ensuite défausser une carte, en la plaçant face visible sur la table à côté de la pioche pour commencer la défausse.
 
-From then on each player's turn consists of 
+À partir de là, le tour de chaque joueur consiste en
 
-- drawing one card - either the unknown top card of the stock or the card that was discarded by the previous player, which is face up on top of the discard pile,
+- piocher une carte — soit la carte inconnue du dessus de la pioche, soit la carte qui a été défaussée par le joueur précédent, face visible sur le dessus de la défausse,
 
-- optionally 'dropping' up to four cards - see below,
+- éventuellement « déposer » jusqu'à quatre cartes — voir ci-dessous,
 
-- discarding one card face up on top of the discard pile.
+- défausser une carte face visible sur le dessus de la défausse.
 
-### Dropping cards
+### Déposer des cartes
 
-Cards that are dropped are placed face up on the table. They must form either 
+Les cartes déposées sont placées face visible sur la table. Elles doivent former soit
 
-- a **group** of 3 or 4 equal ranked cards such as ![club](../images/internat/club.gif)7-![diamond](../images/internat/diamond.gif)7-![spade](../images/internat/spade.gif)7 or ![heart](../images/internat/heart.gif)K-![club](../images/internat/club.gif)K-![diamond](../images/internat/diamond.gif)K-![spade](../images/internat/spade.gif)K, or
+- un **groupe** de 3 ou 4 cartes de même rang, comme ![trèfle](../images/internat/club.gif)7-![carreau](../images/internat/diamond.gif)7-![pique](../images/internat/spade.gif)7 ou ![cœur](../images/internat/heart.gif)R-![trèfle](../images/internat/club.gif)R-![carreau](../images/internat/diamond.gif)R-![pique](../images/internat/spade.gif)R, ou
 
-- a **run** of 3 or more consecutive cards of a suit, such as ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3 or ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)Q.
+- une **suite** de 3 cartes consécutives ou plus d'une même couleur, comme ![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)2-![cœur](../images/internat/heart.gif)3 ou ![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)V-![trèfle](../images/internat/club.gif)D.
 
-When a new group or run is dropped it is placed face-up on the table in front of the player who created it. Subsequently, players can add cards to an existing group or run that is already on the table, dropping the fourth card of the same rank of a group of three or dropping an adjacent card of the same suit to extend a run at either end.
+Lorsqu'un nouveau groupe ou une nouvelle suite est déposé, il est placé face visible sur la table devant le joueur qui l'a créé. Par la suite, les joueurs peuvent ajouter des cartes à un groupe ou une suite existant déjà sur la table, en déposant la quatrième carte du même rang d'un groupe de trois ou en déposant une carte adjacente de la même couleur pour étendre une suite à l'une ou l'autre extrémité.
 
-No player is allowed to drop more than four cards in one turn. Some consequences are as follows.
+Aucun joueur n'est autorisé à déposer plus de quatre cartes en un seul tour. Quelques conséquences :
 
-- A run can grow to any length as cards are added to it, but when initially dropped it can only consist of 3 or 4 cards. If you are lucky enough to have a run of 5 cards in your hand - say 4-5-6-7-8 of a suit, you cannot drop the whole of it in one turn. You could for example drop the 5-6-7 on one turn and then drop the 4 and 8 on the following turn.
+- Une suite peut s'allonger à n'importe quelle longueur à mesure que des cartes y sont ajoutées, mais lors du dépôt initial elle ne peut consister qu'en 3 ou 4 cartes. Si vous avez la chance d'avoir une suite de 5 cartes en main — par exemple 4-5-6-7-8 d'une couleur — vous ne pouvez pas déposer le tout en un seul tour. Vous pourriez par exemple déposer le 5-6-7 à un tour, puis déposer le 4 et le 8 au tour suivant.
 
-- It is not possible to drop more than one new group or run in a turn. 
+- Il n'est pas possible de déposer plus d'un nouveau groupe ou suite dans un tour.
 
-- A player who drops a new group or run of 3 cards can in the same turn add one card to an existing group or run but not more.
+- Un joueur qui dépose un nouveau groupe ou suite de 3 cartes peut dans le même tour ajouter une carte à un groupe ou une suite existant, mais pas plus.
 
-- A player who holds more than four cards at the start of their turn cannot 'go out' (see below) in that turn.
+- Un joueur qui a plus de quatre cartes au début de son tour ne peut pas « sortir » (voir ci-dessous) dans ce tour.
 
-Note that Aces are always low. Q-K-A is not a valid run in this game and a if run ends in a King or an Ace no further cards can be added to that end.
+Notez que les As sont toujours bas. D-R-A n'est pas une suite valide dans ce jeu et si une suite se termine par un Roi ou un As, aucune autre carte ne peut être ajoutée à cette extrémité.
 
-### End of the Play
+### Fin du jeu
 
-The play ends when a player **'goes out'** by dropping all their cards but one and discarding their final card. This ends the play and the hand is scored and paid for as described below. 
+Le jeu se termine lorsqu'un joueur **« sort »** en déposant toutes ses cartes sauf une et en défaussant sa dernière carte. Cela met fin au jeu et la main est comptée et payée comme décrit ci-dessous.
 
-A player who goes out **must** end their turn with a final discard. Therefore a player who begins their turn with two cards and draws a card that together with these makes a new group or run of three cards is not allowed to drop those three cards, because then they would be left with nothing to discard. The player must discard one of their three cards. Therefore a player whose hand is reduced to two cards can only go out by adding cards to existing groups or runs on the table.
+Un joueur qui sort **doit** terminer son tour par une défausse finale. Par conséquent, un joueur qui commence son tour avec deux cartes et pioche une carte qui, avec celles-ci, forme un nouveau groupe ou suite de trois cartes, n'est pas autorisé à déposer ces trois cartes, car il ne lui resterait alors rien à défausser. Le joueur doit défausser l'une de ses trois cartes. Par conséquent, un joueur dont la main est réduite à deux cartes ne peut sortir qu'en ajoutant des cartes à des groupes ou suites existants sur la table.
 
-If there are no cards left to draw from the stock and no one has gone out, the play ends and the hand is scored. 
+S'il n'y a plus de cartes à piocher de la pioche et que personne n'est sorti, le jeu s'arrête et la main est comptée.
 
-## Scoring
+## Score
 
-At the end of the play each player counts the spot value of the cards remaining in their hands. For this purpose Aces count 1 spot, 2 to 10 face value, and all picture cards (Jack, Queen, King) count 10 spots each.
+À la fin du jeu, chaque joueur compte la valeur en points des cartes restantes dans sa main. Pour cela, les As comptent 1 point, les 2 à 10 à leur valeur nominale, et toutes les figures (Valet, Dame, Roi) comptent 10 points chacune.
 
-If a player went out, the player takes the pot and in addition is paid by each of the other players one unit for each spot in that player's hand.
+Si un joueur est sorti, il prend le pot et en outre est payé par chacun des autres joueurs une unité pour chaque point dans la main de ce joueur.
 
-If no one went out, the player with the lowest spot total in hand is the winner, and each other player the number spots in their hand to the winner. The pot remains and is added to by the antes for the next deal.
+Si personne n'est sorti, le joueur ayant le total de points le plus bas en main est le gagnant, et chaque autre joueur paie au gagnant le nombre de points dans sa main. Le pot reste et est augmenté par les antes pour la donne suivante.
 
-*[In case of a tie for least spots when no one goes out, the players with the least spots are joint winners. Each of the other players pays according to the spots in their hands, and this money is shared between the winners.]*
+*[En cas d'égalité pour le moins de points lorsque personne ne sort, les joueurs ayant le moins de points sont gagnants ex æquo. Chacun des autres joueurs paie selon les points dans sa main, et cet argent est partagé entre les gagnants.]*
 
-**Example**:
+**Exemple** :
 
-In the first hand of a 4-player game with a 5-unit ante no one goes out and the cards remaining in the players' hands at the end are:
+Dans la première main d'un jeu à 4 joueurs avec une ante de 5 unités, personne ne sort et les cartes restantes dans les mains des joueurs à la fin sont :
 
-- Enda: J-10   Total 20
+- Enda : V-10   Total 20
 
-- John: A-3   Total 4
+- John : A-3   Total 4
 
-- Rex  2-9   Total 11
+- Rex : 2-9   Total 11
 
-- Finn Q-K   Total 20
+- Finn : D-R   Total 20
 
-As John has the lowest count, he wins. He does not collect the 20-unit pot but takes payment from the other players for their "spots": 20 units from Enda, 11 units from Rex and 20 units from Finn.
+Comme John a le total le plus bas, il gagne. Il ne collecte pas le pot de 20 unités mais prend paiement des autres joueurs pour leurs « points » : 20 unités d'Enda, 11 unités de Rex et 20 unités de Finn.
 
-Everyone adds another 5-unit ante to the pot, and in the second hand Enda drops all 8 cards and goes out. The other players are holding cards as follows:
+Chacun ajoute une autre ante de 5 unités au pot, et dans la deuxième main Enda dépose ses 8 cartes et sort. Les autres joueurs ont les cartes suivantes :
 
-- John: 5-5-6   Total 16
+- John : 5-5-6   Total 16
 
-- Rex: K   Total 10
+- Rex : R   Total 10
 
-- Finn: 3-5   Total 8
+- Finn : 3-5   Total 8
 
-Enda collects the 40 units from the pot plus 16 from John, 10 from Rex and 8 from Finn.
+Enda collecte les 40 unités du pot plus 16 de John, 10 de Rex et 8 de Finn.
 
-## Tactics
+## Tactique
 
-When dropping cards, players must be mindful that the cards they drop may help another player by allowing them to add cards and potentially go out. For example, to drop 3-3-3 when the fourth 3 has not previously been discarded or used in a run is considered very poor play, as is dropping a run 7-8-9-10 with the J and 6 of that suit still in play.
+Lors du dépôt de cartes, les joueurs doivent garder à l'esprit que les cartes qu'ils déposent peuvent aider un autre joueur en lui permettant d'ajouter des cartes et potentiellement de sortir. Par exemple, déposer 3-3-3 alors que le quatrième 3 n'a pas encore été défaussé ou utilisé dans une suite est considéré comme un très mauvais jeu, tout comme déposer une suite 7-8-9-10 alors que le V et le 6 de cette couleur sont encore en jeu.
 
-**Example. **We are playing 2 handed and it's your turn. You have noticed that no kings have been yet discarded 
+**Exemple.** Nous jouons à deux et c'est votre tour. Vous avez remarqué qu'aucun roi n'a encore été défaussé.
 
-I have already dropped a run A-2-3-4 hearts, you have dropped 5-5-5-5 effectively killing my run (i.e. it cannot be filled in any more as you have used the 5 of hearts in your 5's)
+J'ai déjà déposé une suite A-2-3-4 de cœurs, vous avez déposé 5-5-5-5, tuant effectivement ma suite (c'est-à-dire qu'elle ne peut plus être complétée car vous avez utilisé le 5 de cœurs dans vos 5).
 
-You now pick the K of spades from the pack, you are holding 7-8-9 of diamonds and the A of clubs. Although the K is worth 10 spots and the A only 1 you suspect I may need the king. If you throw it and I pick it I might drop the 4 kings and be out, so you elect to hold onto it and throw the A instead. 
+Vous piochez maintenant le R de pique du paquet, vous tenez 7-8-9 de carreaux et l'A de trèfle. Bien que le R vaille 10 points et l'A seulement 1, vous soupçonnez que j'ai peut-être besoin du roi. Si vous le défaussez et que je le pioche, je pourrais déposer les quatre rois et sortir, alors vous décidez de le conserver et de défausser l'A à la place.
 
-Play now continues. There are only 2 cards left unturned I am holding K-K-K and the 6 of diamonds. I have previously noted you picking the 7 of diamonds that  I discarded and have seen the 7 of clubs and 7 of spades discarded so I believe you need the 7 to complete your run.
+Le jeu continue. Il ne reste que 2 cartes non retournées. Je tiens R-R-R et le 6 de carreaux. J'ai précédemment noté que vous aviez pioché le 7 de carreaux que j'avais défaussé et j'ai vu le 7 de trèfle et le 7 de pique défaussés, donc je crois que vous avez besoin du 7 pour compléter votre suite.
 
-I pick the second last unturned card and it a J. As it's irrelevant my hand I can not go out at this point. Now I have two options: 
+Je pioche l'avant-dernière carte non retournée et c'est un V. Comme il est sans rapport avec ma main, je ne peux pas sortir à ce stade. J'ai maintenant deux options :
 
-- I drop the K-K-K run and discard my jack leaving me with only a 6 of diamonds that you require but this leaves the pot open for you should you have the last K. If I play this way, the hand would play out as follows: you pick the last unturned card (the 2 of clubs), drop your run of diamonds fill my Kings and discard the 2 of clubs and you are out, winning the pot and 6 and units from me.
+- Je dépose le groupe R-R-R et défausse mon valet, ce qui ne me laisse qu'un 6 de carreaux que vous recherchez, mais cela laisse le pot ouvert pour vous si vous avez le dernier R. Si je joue ainsi, la main se déroulerait comme suit : vous piochez la dernière carte non retournée (le 2 de trèfle), déposez votre suite de carreaux, complétez mes rois et défaussez le 2 de trèfle et vous êtes sorti, gagnant le pot et 6 unités de moi.
 
-- I hold my 3 kings in my hand and discard the jack leaving me with 36 spots in my hand. You then pick the last unturned card (the 2 of clubs), drop the 7-8-9 of diamonds and discard the K as this is the last play of the hand, leaving you with just 2 spots and I pay you 36 units for K-K-K-6.
+- Je conserve mes trois rois en main et défausse le valet, ce qui me laisse 36 points en main. Vous piochez alors la dernière carte non retournée (le 2 de trèfle), déposez le 7-8-9 de carreaux et défaussez le R car c'est le dernier jeu de la main, ce qui vous laisse avec seulement 2 points et je vous paie 36 unités pour R-R-R-6.
 
-Option 2 is the much preferred option here if the pot is large: it must be guarded at all costs. Although it has cost me 36 units the pot is still in play. It's a case of pay the 36 units, chin up and on to the next hand!
+L'option 2 est de loin préférable ici si le pot est important : il doit être gardé à tout prix. Bien que cela m'ait coûté 36 unités, le pot est toujours en jeu. C'est un cas où l'on paie les 36 unités, on garde le menton haut et on passe à la main suivante !
 
-Spot its a very social game and part of the sport of the game would in the case of the above example for you to me the king i needed to go out and the ribbing that would go along with it as you had blocked me from winning. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Spot
+Spot est un jeu très social et une partie du sport du jeu serait, dans le cas de l'exemple ci-dessus, pour vous de me passer le roi dont j'avais besoin pour sortir et les taquineries qui l'accompagneraient alors que vous m'aviez bloqué la victoire.

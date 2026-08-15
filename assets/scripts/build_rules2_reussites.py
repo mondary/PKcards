@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Build rules2/reussite/*.md for the 223 pending "réussites" (patiences/solitaires)
-from Garraud 1984. Reads the queue in rules2/reussite/_QUEUE_REUSSITES.json and the
+Build rules_garraud/reussite/*.md for the 223 pending "réussites" (patiences/solitaires)
+from Garraud 1984. Reads the queue in rules_garraud/reussite/_QUEUE_REUSSITES.json and the
 raw OCR text in /tmp/garraud_sections/{slug}.txt, applies cleanup, and
 writes one markdown file per réussite following the same template as the
 jeux builder. Images are linked only if a png is already present in
-rules2/images/.
+rules_garraud/images/.
 """
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ from collections import OrderedDict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "assets" / "rules" / "rules2" / "reussite"
+OUT = ROOT / "assets" / "rules" / "rules_garraud" / "reussite"
 IMG = OUT / "images"
 SECTIONS = Path("/tmp/garraud_sections")
 QUEUE_PATH = OUT / "_QUEUE_REUSSITES.json"

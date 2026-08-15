@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = path.join(__dirname, '..', 'assets', 'rules');
+const dir = path.join(__dirname, '..', 'rules', 'rules_original');
 const files = fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort();
 
 const CATEGORY_COLORS = {
@@ -86,7 +86,7 @@ const games = files.map(f => parseGame(f, fs.readFileSync(path.join(dir, f), 'ut
 
 const counts = games.reduce((acc, g) => { acc[g.category] = (acc[g.category]||0)+1; return acc; }, {});
 
-  const output = `// Auto-generated from assets/rules/*.md — do not edit manually
+  const output = `// Auto-generated from assets/rules/rules_original/*.md — do not edit manually
 // ${games.length} games — run 'node build.js' to regenerate
 const GAMES = ${JSON.stringify(games, null, 2)};
 const CATEGORY_INFO = ${JSON.stringify({
@@ -96,6 +96,6 @@ const CATEGORY_INFO = ${JSON.stringify({
   'grand-groupe': { label: '5 joueurs +',    color: CATEGORY_COLORS['grand-groupe'], count: counts['grand-groupe']||0 },
 }, null, 2)};`;
 
-fs.writeFileSync(path.join(__dirname, '..', 'site', 'v1', 'data.js'), output);
+fs.writeFileSync(path.join(__dirname, '..', '..', 'site', 'v1', 'data.js'), output);
 console.log(`✓ Generated data.js — ${games.length} games`);
 console.log(`  Solo: ${counts.solo||0} | Duo: ${counts.duo||0} | 3-4: ${counts['petit-groupe']||0} | 5+: ${counts['grand-groupe']||0}`);

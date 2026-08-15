@@ -2,150 +2,149 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A form of Contract Rummy played in Trinidad, Tobago and Jamaica.
+**Type :** Rami
+**But :** Une variante de Rami à contrat jouée à Trinidad, Tobago et en Jamaïque.
+**Autres noms :** Kalooki (le jeu est appelé « Kalooki » en Jamaïque, « Kalookie » en Afrique du Sud)
 
 ---
 
-Note: European and North American Kaluki and South African Kaluki are covered on other pages.
+Note : Le Kalooki européen et nord-américain ainsi que le Kalooki sud-africain sont traités sur d'autres pages.
 
 ## Introduction
 
-Kalooki is very popular in Jamaica, and is also played to some extent in Trinidad and Tobago. But apart from the fact that they are both types of rummy, Caribbean Kalooki has nothing in common with the European and North American games of the same name - it is in fact a form of Contract Rummy. A version called "Super Kalooki" is often played in Jamaican tournaments. 
+Le Kalooki est très populaire en Jamaïque, et se joue aussi dans une certaine mesure à Trinidad et Tobago. Mais mis à part le fait qu'il s'agisse dans les deux cas d'une forme de rami, le Kalooki des Caraïbes n'a rien de commun avec les jeux européens et nord-américains du même nom — c'est en fait une variante de Rami à contrat. Une version appelée « Super Kalooki » est souvent jouée lors de tournois jamaïcains.
 
-This page begins with a description of Jamaican Kalooki, based on information received from Robert Ebanks, Jason Chang and Mary Sorum. This is followed by details of the somewhat different version played in Trinidad and Tobago.
+Cette page commence par une description du Kalooki jamaïcain, basée sur des informations reçues de Robert Ebanks, Jason Chang et Mary Sorum. Elle est suivie des détails de la version quelque peu différente jouée à Trinidad et Tobago.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are usually from three to six players; tournaments are played with four players at each table. A pack of 108 cards is used, consisting of two standard 52 card packs plus four jokers.
+Il y a généralement de trois à six joueurs ; les tournois se jouent à quatre joueurs par table. On utilise un jeu de 108 cartes, composé de deux jeux standard de 52 cartes plus quatre jokers.
 
-As in most rummy games, the object is to go out by laying down all of your cards. The penalty values of the cards, if left in a player's hand when someone goes out, are:
+Comme dans la plupart des jeux de rami, le but est de se défausser de toutes ses cartes. Les valeurs de pénalité des cartes, si elles restent dans la main d'un joueur quand quelqu'un se déclare, sont :
 
 | Joker |    . . .    | 50 points |
-| Black Ace |    . . .    | 15 points |
-| King, Queen, Jack, Ten |    . . .    | 10 points |
-| 2 to 9 |    . . .    | face value |
-| Red Ace |    . . .    | 1 point |
+| As noir |    . . .    | 15 points |
+| Roi, Dame, Valet, Dix |    . . .    | 10 points |
+| 2 à 9 |    . . .    | valeur faciale |
+| As rouge |    . . .    | 1 point |
 
-## Threes and fours
+## Ternes et carres
 
-A "three" is a set of three or more cards of the same rank, such as 5-5-5 or K-K-K-K-K. The suits of the cards do not matter and duplicates can be included.
+Une « terne » est un ensemble de trois cartes ou plus de même rang, par exemple 5-5-5 ou R-R-R-R-R. Les couleurs n'ont pas d'importance et les doublons peuvent être inclus.
 
-A "four" is a run of four or more consecutive cards in the same suit, such as ![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q. Aces can be high or low but can only be used at the end of a run, not in the interior, so A-2-3-4 and J-Q-K-A are valid, but K-A-2-3 is not.
+Un « carre » est une suite de quatre cartes consécutives ou plus de la même couleur, par exemple ![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)V-![cœur](../images/internat/heart.gif)D. Les as peuvent être hauts ou bas mais ne peuvent être utilisés qu'aux extrémités d'une suite, pas à l'intérieur : A-2-3-4 et V-D-R-A sont valides, mais R-A-2-3 ne l'est pas.
 
-Jokers can be used wild cards to substitute for any card in a three or four, with the following restrictions:
+Les jokers peuvent être utilisés comme cartes Joker pour remplacer n'importe quelle carte dans une terne ou un carre, avec les restrictions suivantes :
 
-- In a "four", jokers cannot be used for consecutive cards - so ![heart](../images/internat/heart.gif)5-Joker-![heart](../images/internat/heart.gif)7-Joker is OK but ![heart](../images/internat/heart.gif)5-Joker-Joker-![heart](../images/internat/heart.gif)8 is not allowed.
+- Dans un « carre », les jokers ne peuvent pas être utilisés pour des cartes consécutives — ainsi ![cœur](../images/internat/heart.gif)5-Joker-![cœur](../images/internat/heart.gif)7-Joker est correct, mais ![cœur](../images/internat/heart.gif)5-Joker-Joker-![cœur](../images/internat/heart.gif)8 n'est pas autorisé.
 
-- In a "three" there must be at least two genuine (non-joker) cards, so in a minimum "three" of three cards you can only include one joker. K-K-Joker and Q-Q-Joker-Joker are OK, but 9-Joker-Joker is not allowed.
+- Dans une « terne », il doit y avoir au moins deux cartes véritables (non joker), donc dans une terne minimale de trois cartes on ne peut inclure qu'un seul joker. R-R-Joker et D-D-Joker-Joker sont corrects, mais 9-Joker-Joker n'est pas autorisé.
 
-Jokers that have been used in a three or four can never been removed from that combination. A joker used in a three cannot be moved at all. When a joker used in a four, it can in certain circumstances be moved to the end of the sequence by the holder of the real card that it represents (see tacking on below), but never moved to a different three or four - there is no possibility for the holder of the real card that the joker represents to play it and take the joker in exchange, as in some other rummy games.
+Les jokers utilisés dans une terne ou un carre ne peuvent jamais être retirés de cette combinaison. Un joker utilisé dans une terne ne peut pas être déplacé du tout. Quand un joker est utilisé dans un carre, il peut dans certaines circonstances être déplacé à l'extrémité de la séquence par le détenteur de la vraie carte qu'il représente (voir « prolonger » ci-dessous), mais ne peut jamais être déplacé vers une autre terne ou carre — il n'est pas possible pour le détenteur de la vraie carte représentée par le joker de la jouer et de prendre le joker en échange, comme dans certains autres jeux de rami.
 
-## Deal and contracts
+## Distribution et contrats
 
-Players take turns to deal (or "share") the cards, the first dealer being chosen at random. Nine deals (or "games") make up a "set", and the winner is the player who has the lowest cumulative score at the end of the set. The cards are dealt out one at a time, the number of cards dealt to each player depends on the game being played as shown in the table below. The next card is turned face up to start the discards pile, and the remaining undealt cards are stacked face down beside it, to form the stock.
+Les joueurs distribuent à tour de rôle (ou « partagent ») les cartes, le premier donneur étant choisi au hasard. Neuf distributions (ou « parties ») composent une « manche », et le gagnant est le joueur qui a le score cumulé le plus bas à la fin de la manche. Les cartes sont distribuées une par une, le nombre de cartes distribuées à chaque joueur dépend de la partie jouée, comme indiqué dans le tableau ci-dessous. La carte suivante est retournée face ouverte pour commencer la pile de défausse, et les cartes non distribuées restantes sont empilées face cachée à côté pour former la pioche.
 
-In each game, there is a minimum contract or quota of threes and fours that a player can lay down; this is also shown in the table.
+Dans chaque partie, il y a un contrat minimum ou un quota de ternes et carres qu'un joueur doit poser ; c'est également indiqué dans le tableau.
 
-| Game No. | Cards dealt | Contract |
-| 1 | 9 | three threes |
-| 2 | 10 | two threes, one four |
-| 3 | 11 | two fours, one three |
-| 4 | 12 | three fours |
-| 5 | 12 | four threes |
-| 6 | 13 |  three threes, one four  |
-| 7 | 14 | two threes, two fours |
-| 8 | 15 | one three, three fours |
-| 9 | 16 | four fours |
+| Partie n° | Cartes distribuées | Contrat |
+| 1 | 9 | trois ternes |
+| 2 | 10 | deux ternes, un carre |
+| 3 | 11 | deux carres, une terne |
+| 4 | 12 | trois carres |
+| 5 | 12 | quatre ternes |
+| 6 | 13 |  trois ternes, un carre |
+| 7 | 14 | deux ternes, deux carres |
+| 8 | 15 | une terne, trois carres |
+| 9 | 16 | quatre carres |
 
-When more than one four is put down by one player, they must be of different suits, and when more than one three is put down by one player, they must be of different ranks.
+Quand plus d'un carre est posé par un même joueur, ils doivent être de couleurs différentes, et quand plus d'une terne est posée par un même joueur, elles doivent être de rangs différents.
 
-## The play
+## Le jeu
 
-The player to the dealer's left begins and the turn to play passes clockwise. A player's turn consists of:
+Le joueur à la gauche du donneur commence et le tour passe dans le sens horaire. Le tour d'un joueur consiste à :
 
-- drawing one card from the top card of the face-down stock or the top of the discard pile;
+- piocher une carte du dessus de la pioche face cachée ou du dessus de la pile de défausse ;
 
-- optionally laying down some cards;
+- éventuellement poser certaines cartes ;
 
-- discarding any one card (other than a joker) face up on the discard pile.
+- défausser une carte (autre qu'un joker) face ouverte sur la pile de défausse.
 
-Calling 
-If you have not yet laid down any cards, and you want to take a card discarded by another player when it is not your turn to play next, you can call the card. The player whose turn it is to play has two options:
+Appel
+Si vous n'avez pas encore posé de cartes, et que vous souhaitez prendre une carte défaussée par un autre joueur alors que ce n'est pas votre tour suivant, vous pouvez l'appeler. Le joueur dont c'est le tour a deux options :
 
-- Allow the call. The player whose turn it is gives the top discard to the player who called it. The calling player takes the discard and must also draw one extra card from the stock, but cannot lay down any cards or discard at this time. The caller will from now on have two extra cards in their hand. The play then reverts to the player whose turn was interrupted by the call, who must draw from the stock, and continue the turn in the usual way.
+- Accepter l'appel. Le joueur dont c'est le tour donne la défausse du dessus au joueur qui l'a appelée. Le joueur appelant prend la défausse et doit également piocher une carte supplémentaire de la pioche, mais ne peut poser ni défausser de carte à ce moment. L'appelant aura désormais deux cartes supplémentaires dans sa main. Le jeu revient ensuite au joueur dont le tour a été interrompu par l'appel, qui doit piocher de la pioche et continuer son tour normalement.
 
-- Refuse the call. If the player whose turn it is has not yet laid down, they have the right to take the discard for themselves, rather than giving it to the caller and drawing from the stock; the call then has no effect.
+- Refuser l'appel. Si le joueur dont c'est le tour n'a pas encore posé de cartes, il a le droit de prendre la défausse pour lui-même plutôt que de la donner à l'appelant et de piocher ; l'appel n'a alors aucun effet.
 
-Calling is subject to the following rules.
+L'appel est soumis aux règles suivantes.
 
-- If several people try to call the same card, the person who calls first gets the card, assuming that the person whose turn it is allows the call. No one can call a card before it reaches the table.
+- Si plusieurs personnes essaient d'appeler la même carte, la personne qui appelle en premier l'obtient, à condition que le joueur dont c'est le tour accepte l'appel. Personne ne peut appeler une carte avant qu'elle n'atteigne la table.
 
-- There can only be one call per turn: the card underneath the called card cannot be called - anyone who wanted it should have called it when it was first discarded.
+- Il ne peut y avoir qu'un seul appel par tour : la carte située sous la carte appelée ne peut pas être appelée — quiconque la voulait aurait dû l'appeler au moment où elle a été défaussée.
 
-- Each player is allowed a maximum of three calls per game (deal). Since each call adds two cards to a player's hand, you can check how many calls you have made by counting the cards in your hand. Calls that were not allowed by the player whose turn it was or which were unsuccessful because another player called first do not count towards the three.
+- Chaque joueur est autorisé à un maximum de trois appels par partie (distribution). Comme chaque appel ajoute deux cartes à la main d'un joueur, vous pouvez vérifier combien d'appels vous avez faits en comptant les cartes dans votre main. Les appels qui n'ont pas été autorisés par le joueur dont c'était le tour ou qui ont échoué car un autre joueur a appelé en premier ne comptent pas dans les trois.
 
-- A player who has laid down cards can no longer call.
+- Un joueur qui a posé des cartes ne peut plus appeler.
 
-Laying down
-The first cards you lay down must satisfy the contract for the game being played. You place these cards face up in front of you, where they stay for the rest of the game, and then discard as usual. For example, in game 3, you must lay down a group of three or more equal ranked cards, plus sequences of four or more cards in two different suits. If you are not able to do this, you cannot lay any down any cards yet.
-A player who has laid down is no longer allowed to take cards from the discard pile. When you have laid down you can no longer call for a discard, and in your turn you must draw from the stock. If another player calls in your turn, you must allow the call.
-After laying down the required threes and/or fours, you are allowed to lay down additional threes or fours in the same or a later turn if you have collected the appropriate cards, provided that you respect the rule that you cannot put down two fours in the same suit.
-Tacking on
-After you have laid down cards you can in the same turn, or in later turns of the same game, add cards to your own or other players' threes and fours. This is called tacking on or laying off. Further cards of the same rank can be tacked onto a three. A four can be extended by tacking on the next higher card in sequence only. When the sequence reaches the ace, so that no further tacking onto the high end is possible, then and only then is it permissible for cards be tacked on to the low end of the sequence. Example: if the sequence ![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)Q has been laid down, it is possible to tack on the ![diamond](../images/internat/diamond.gif)K but not the ![diamond](../images/internat/diamond.gif)8. After the ![diamond](../images/internat/diamond.gif)K and ![diamond](../images/internat/diamond.gif)A have both been tacked on, it is then possible to tack on the ![diamond](../images/internat/diamond.gif)8, followed by the ![diamond](../images/internat/diamond.gif)7 and so on.
-Jokers can always be tacked onto a three. They can be tacked onto a four provided that the rule prohibiting two adjacent jokers in a four is respected. Also, if a joker has been used in a four, the holder of the real card that the joker represents can tack on by placing the real card in the four in place of the joker, and moving the joker to the high end, provided that this has not already reached ace, in which case it is moved to the low end. However, this cannot be done if there is already a joker at the end where the displaced joker would have to be put, since it is not permissible to have two jokers next to each other in a four.
-No player may tack cards onto a three or four until they have laid their contract.
+Poser les cartes
+Les premières cartes que vous posez doivent satisfaire au contrat de la partie en cours. Vous placez ces cartes face ouverte devant vous, où elles restent pour le reste de la partie, puis vous défaussez normalement. Par exemple, dans la partie 3, vous devez poser un groupe de trois cartes ou plus de même rang, plus des séquences de quatre cartes ou plus dans deux couleurs différentes. Si vous n'y parvenez pas, vous ne pouvez encore poser aucune carte.
+Un joueur qui a posé n'est plus autorisé à prendre des cartes de la pile de défausse. Une fois que vous avez posé, vous ne pouvez plus appeler de défausse et, à votre tour, vous devez piocher de la pioche. Si un autre joueur appelle pendant votre tour, vous devez accepter l'appel.
+Après avoir posé les ternes et/ou carres requis, vous êtes autorisé à poser des ternes ou carres supplémentaires au même tour ou à un tour ultérieur si vous avez collecté les cartes appropriées, à condition de respecter la règle selon laquelle vous ne pouvez pas poser deux carres de la même couleur.
+Prolonger
+Après avoir posé des cartes, vous pouvez au même tour, ou lors de tours ultérieurs de la même partie, ajouter des cartes à vos propres ternes et carres ou à ceux des autres joueurs. C'est ce qu'on appelle prolonger ou écarter. Des cartes supplémentaires du même rang peuvent être ajoutées à une terne. Un carre peut être étendu en ajoutant uniquement la carte suivante la plus haute dans la séquence. Quand la séquence atteint l'as, de sorte qu'aucun prolongement par le haut n'est plus possible, alors et alors seulement il est permis d'ajouter des cartes à l'extrémité basse de la séquence. Exemple : si la séquence ![carreau](../images/internat/diamond.gif)9-![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)D a été posée, il est possible de prolonger avec le ![carreau](../images/internat/diamond.gif)R mais pas le ![carreau](../images/internat/diamond.gif)8. Après que le ![carreau](../images/internat/diamond.gif)R et le ![carreau](../images/internat/diamond.gif)A ont été ajoutés, il est alors possible de prolonger avec le ![carreau](../images/internat/diamond.gif)8, puis le ![carreau](../images/internat/diamond.gif)7 et ainsi de suite.
+Les jokers peuvent toujours être ajoutés à une terne. Ils peuvent être ajoutés à un carre à condition que la règle interdisant deux jokers adjacents dans un carre soit respectée. De plus, si un joker a été utilisé dans un carre, le détenteur de la vraie carte que le joker représente peut prolonger en plaçant la vraie carte dans le carre à la place du joker et en déplaçant le joker à l'extrémité haute, à condition que celle-ci n'ait pas déjà atteint l'as, auquel cas il est déplacé à l'extrémité basse. Cependant, cela ne peut pas être fait s'il y a déjà un joker à l'extrémité où le joker déplacé devrait être placé, car il n'est pas permis d'avoir deux jokers côte à côte dans un carre.
+Aucun joueur ne peut prolonger des cartes sur une terne ou un carre avant d'avoir posé son contrat.
 
-Jokers cannot be discarded, but apart from that there is no restriction on what card you may discard from your hand at the end of your turn. It is legal to discard a card that could be tacked onto a three or four on the table, and it is legal to discard the same card that you just picked up, if you find it is in your interest to do so.
+Les jokers ne peuvent pas être défaussés, mais à part cela il n'y a aucune restriction sur la carte que vous pouvez défausser de votre main à la fin de votre tour. Il est autorisé de défausser une carte qui pourrait être ajoutée à une terne ou un carre sur la table, et il est autorisé de défausser la même carte que vous venez de piocher, si cela vous convient.
 
-Running out of stock cards. It sometimes happens that the entire stock is used up before any player has gone out. If this happens, the discard pile, except for its top card, is reshuffled and placed face down to form a new stock. Play continues as before. If the stock runs out a second time, which may happen if players are holding back the key cards needed by others to lay down their contracts, the play ends with no score. All the cards are thrown in, shuffled and dealt again by the same dealer and the play is restarted (playing for the same contract).
+Épuisement de la pioche. Il arrive parfois que toute la pioche soit épuisée avant qu'aucun joueur ne se déclare. Si cela se produit, la pile de défausse, à l'exception de sa carte du dessus, est remélangée et placée face cachée pour former une nouvelle pioche. Le jeu continue comme avant. Si la pioche s'épuise une deuxième fois, ce qui peut arriver si les joueurs conservent les cartes clés nécessaires aux autres pour poser leurs contrats, le jeu s'arrête sans score. Toutes les cartes sont jetées, remélangées et redistribuées par le même donneur et le jeu reprend (pour le même contrat).
 
-## End of the play and scoring
+## Fin de partie et comptage des points
 
-As soon as a player goes out by getting rid of all their cards, the play ends. The other players count the total value of the cards they have in their hands (see above) and add the result to their cumulative total of penalty points.
+Dès qu'un joueur se déclare en se débarrassant de toutes ses cartes, le jeu s'arrête. Les autres joueurs comptent la valeur totale des cartes qu'ils ont en main (voir ci-dessus) et ajoutent le résultat à leur total cumulé de points de pénalité.
 
-If a player manages to go out on the same turn that they first lay down cards, this is known as bending the table or down and out, and the other players score double penalty points for that game. When bending the table you can tack cards onto other players' threes and fours and discard a card at the end of your turn as usual, but you must of course begin by putting down from your hand the appropriate threes and fours for the game being played.
+Si un joueur parvient à se déclarer lors du même tour où il pose des cartes pour la première fois, cela s'appelle « retourner la table » (bending the table) ou « posé et sorti » (down and out), et les autres joueurs marquent le double des points de pénalité pour cette partie. Lors du « retournement de table », vous pouvez prolonger des cartes sur les ternes et carres des autres joueurs et défausser une carte à la fin de votre tour comme d'habitude, mais vous devez bien sûr commencer par poser de votre main les ternes et carres appropriés pour la partie en cours.
 
-At the end of the set of nine games, the player who has the lowest cumulative score is the winner.
+À la fin de la série de neuf parties, le joueur qui a le score cumulé le plus bas est le gagnant.
 
-## Variations
+## Variantes
 
-Some players deal 12 cards cards each in the first three games, rather than 9, 10 and 11.
+Certains joueurs distribuent 12 cartes à chacun lors des trois premières parties, au lieu de 9, 10 et 11.
 
-Some players only allow one joker in a minimum four - so three genuine cards are required, but further jokers can be tacked on later.
+Certains joueurs n'autorisent qu'un seul joker dans un carre minimal — trois cartes véritables sont donc nécessaires, mais d'autres jokers peuvent être ajoutés ultérieurement.
 
-It sometimes happens that a player will carelessly call more than three times in one game. This can be verified by counting that the player is holding too many cards - for example in game 4 or 5 no one should ever have more than 18 cards. If this happens, the player in question is penalised (the penalty ranges from 50 to 500 points according to prior agreement) and is not allowed to bend the table in that game. A similar penalty can be applied to a player who lays down cards but is found not to have the required threes and fours for the current game.
+Il arrive qu'un joueur appelle par inadvertance plus de trois fois lors d'une même partie. Cela peut être vérifié en comptant que le joueur a trop de cartes — par exemple aux parties 4 ou 5 personne ne devrait jamais avoir plus de 18 cartes. Si cela se produit, le joueur concerné est pénalisé (la pénalité va de 50 à 500 points selon accord préalable) et n'est pas autorisé à « retourner la table » dans cette partie. Une pénalité similaire peut être appliquée à un joueur qui pose des cartes mais qui n'a pas les ternes et carres requis pour la partie en cours.
 
-It is possible to vary the number of jokers used - for example some groups use two packs with 6 jokers - 110 cards in all. It is also possible to play with more than six people by adding more packs.
+Il est possible de varier le nombre de jokers utilisés — par exemple certains groupes utilisent deux jeux avec 6 jokers — 110 cartes au total. Il est aussi possible de jouer avec plus de six personnes en ajoutant davantage de jeux.
 
-## Kalooki in Trinidad and Tobago
+## Kalooki à Trinidad et Tobago
 
-The following version of Kalooki played in Trinidad and Tobago was described to me by Samuel Alexander. At least two packs with four jokers (108 cards) are used, but with a larger group more packs and extra jokers can be added as desired. For example Samuel Alexander refers to a recent eleven-player game with five packs and 15 jokers (275 cards).
+La version suivante du Kalooki jouée à Trinidad et Tobago m'a été décrite par Samuel Alexander. On utilise au moins deux jeux avec quatre jokers (108 cartes), mais avec un groupe plus grand, on peut ajouter davantage de jeux et de jokers au choix. Par exemple, Samuel Alexander mentionne une partie récente à onze joueurs avec cinq jeux et 15 jokers (275 cartes).
 
-The deal is always 12 cards to each player. As in Jamaica, sets consist of at least three equal cards and runs of at least four consecutive cards of a suit. In Trinidad there are seven rounds and the contracts are as follows:
+La distribution est toujours de 12 cartes à chaque joueur. Comme en Jamaïque, les ensembles sont constitués d'au moins trois cartes égales et de suites d'au moins quatre cartes consécutives de la même couleur. À Trinidad, il y a sept tours et les contrats sont les suivants :
 
-- 2 sets
+- 2 ensembles
 
-- 1 set and 1 run
+- 1 ensemble et 1 suite
 
-- 2 runs
+- 2 suites
 
-- 3 sets
+- 3 ensembles
 
-- 1 run and 2 sets
+- 1 suite et 2 ensembles
 
-- 2 runs and 1 set
+- 2 suites et 1 ensemble
 
-- 3 runs
+- 3 suites
 
-Players who have put down their contract can tack onto a set or onto either end of a run.
+Les joueurs qui ont posé leur contrat peuvent prolonger un ensemble ou l'une ou l'autre extrémité d'une suite.
 
-Jokers can be substituted for any cards needed to make up a set or run. There is no restriction, except that each set or run must contain at least one genuine card. A player who holds a real card that is represented by a joker in a run can (at his turn) place the real card in the run and take the joker in exchange. If you replace a joker by a real card in **your own** run, you may may reuse the joker immediately in the same or another run or set that you own or store it in your hand for later use. If you replace a joker with a real card in **another player's** run, you must move the joker to one or the other end of the same run - you cannot move it to a different run or set or take it into your hand.
+Les jokers peuvent remplacer n'importe quelle carte nécessaire pour former un ensemble ou une suite. Il n'y a pas de restriction, sauf que chaque ensemble ou suite doit contenir au moins une carte véritable. Un joueur qui détient une vraie carte représentée par un joker dans une suite peut (à son tour) placer la vraie carte dans la suite et prendre le joker en échange. Si vous remplacez un joker par une vraie carte dans **votre propre** suite, vous pouvez réutiliser le joker immédiatement dans la même suite ou dans une autre suite ou ensemble qui vous appartient, ou le conserver en main pour une utilisation ultérieure. Si vous remplacez un joker par une vraie carte dans la suite d'un **autre joueur**, vous devez déplacer le joker à l'une ou l'autre extrémité de la même suite — vous ne pouvez pas le déplacer vers une autre suite ou ensemble ni le prendre dans votre main.
 
-Each person has 3 'calls' per round, to take the top discard out of turn, but players can call on any turn, even after they have laid down their contract. As usual, if a call is allowed, the player receives an extra card from the face-down deck along with the face-up card. You can 'challenge' a player if you think he/she has made more than 3 successful calls thus having more than 18 cards in his/her hand. If the challenge is wrong (player does not have more than 18 cards), the challenger counts the value all his cards and adds an extra 50 points: this is his score for the round. His cards are stacked on the bottom of the discard pile and he drops out of the play until the next round is dealt. If the challenger is right, the player with more than 18 cards is punished in the same way. 
+Chaque personne a 3 « appels » par tour, pour prendre la défausse du dessus hors tour, mais les joueurs peuvent appeler à n'importe quel tour, même après avoir posé leur contrat. Comme d'habitude, si un appel est autorisé, le joueur reçoit une carte supplémentaire de la pioche face cachée en plus de la carte face ouverte. Vous pouvez « contester » un joueur si vous pensez qu'il a fait plus de 3 appels réussis et a donc plus de 18 cartes en main. Si la contestation est erronée (le joueur n'a pas plus de 18 cartes), le contestataire compte la valeur de toutes ses cartes et ajoute 50 points supplémentaires : c'est son score pour le tour. Ses cartes sont empilées au fond de la pile de défausse et il quitte le jeu jusqu'à ce que le tour suivant soit distribué. Si le contestataire a raison, le joueur ayant plus de 18 cartes est puni de la même manière.
 
-When when the first player shouts "kalooki" indicate that he has played his last card, the others add up the point value of the cards in their hands, and add these to their scores. The values are: Jokers 50 each, King, Queen and Jack 10 each, Black Ace 15, Red Ace 1, 2-10 face value.
+Quand le premier joueur crie « kalooki » pour indiquer qu'il a joué sa dernière carte, les autres additionnent la valeur en points des cartes dans leur main et l'ajoutent à leur score. Les valeurs sont : jokers 50 chacun, Roi, Dame et Valet 10 chacun, As noir 15, As rouge 1, 2-10 valeur faciale.
 
-The player with the fewest points after the seven rounds wins the game. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Kalooki (Caribbean)
+Le joueur ayant le moins de points après les sept tours gagne la partie.

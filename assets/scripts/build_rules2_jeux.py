@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Build rules2 for multiplayer card games from Garraud 1984.
+Build rules_garraud for multiplayer card games from Garraud 1984.
 - Real games only (réussites deferred, Type will be "Réussite" later)
-- One page illustration per game in rules2/images/
+- One page illustration per game in rules_garraud/images/
 """
 from __future__ import annotations
 
@@ -20,8 +20,8 @@ SECTIONS = Path("/tmp/garraud_sections")
 JEUX_PATH = Path("/tmp/garraud_jeux.json")
 REUSSITES_PATH = Path("/tmp/garraud_reussites.json")
 PDF_PATH = ROOT / "benchmark" / "isbn_2724225910 (Unknown) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-# Output: assets/rules/rules2/jeux/ (and assets/rules/rules2/jeux/images/)
-RULES2 = ROOT / "assets" / "rules" / "rules2"
+# Output: assets/rules/rules_garraud/jeux/ (and assets/rules/rules_garraud/jeux/images/)
+RULES2 = ROOT / "assets" / "rules" / "rules_garraud"
 OUT = RULES2 / "jeux"
 IMG = OUT / "images"
 

@@ -1,30 +1,26 @@
 # Panguingue
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Panguingue, known as Pan for short, is a Rummy game played in the SouthWest USA using a deck of up to 320 cards - 8 standard decks from which the 8's, 9's and 10's have been removed.
-**Autres noms :** Pan for short
+**Type :** Rami
+**But :** Le Panguingue, appelé Pan en abrégé, est un jeu de rami joué dans le sud-ouest des États-Unis utilisant un jeu de jusqu'à 320 cartes — 8 jeux standards desquels les 8, 9 et 10 ont été retirés.
+**Autres noms :** Pan, Panggi
 
 ---
 
-Panguingue, also known as Pan for short, is a gambling Rummy game which is popular in the southwest USA. From four to eight players can take part in one game. It is played with eight decks of standard cards from which the 8's, 9's and 10's have been removed - 320 cards altogether. Often the odds are changed by removing one complete set of spades, leaving 310 cards. Sometimes the 3, 5 and 7 and occasionally the 2 and queen from a second set of spades are also removed, leaving a pack of 307 or 305 cards.
+Le Panguingue, aussi connu sous le nom de Pan en abrégé, est un jeu de rami d'argent populaire dans le sud-ouest des États-Unis. De quatre à huit joueurs peuvent participer à une partie. Il se joue avec huit jeux de cartes standards desquels les 8, 9 et 10 ont été retirés — 320 cartes au total. Souvent, les probabilités sont modifiées en retirant un jeu complet de piques, laissant 310 cartes. Parfois, le 3, le 5 et le 7 et occasionnellement le 2 et la dame d'un deuxième jeu de piques sont aussi retirés, laissant un jeu de 307 ou 305 cartes.
 
-Rules will eventually be given on this page. A [description of Panguingue](http://www.rummy-games.com/rules/panguingue.html) is available on Randy Rasa's Rummy-Games.com site.
+Les règles seront éventuellement données sur cette page. Une [description du Panguingue](http://www.rummy-games.com/rules/panguingue.html) est disponible sur le site Rummy-Games.com de Randy Rasa.
 
-[The Pan Club](https://web.archive.org/web/20190127052136/http://www.thepanclub.com) [archive copy] used to offer an on line Pan game. Prize tournaments were held periodically, and there was a [Pan blog](https://panguingue.blogspot.com) for Pan news and discussion. On line Pan lessons were also available - contact
+Le [Pan Club](https://web.archive.org/web/20190127052136/http://www.thepanclub.com) [copie d'archive] offrait autrefois un jeu de Pan en ligne. Des tournois avec prix étaient organisés périodiquement, et il y avait un [blog Pan](https://panguingue.blogspot.com) pour les nouvelles et discussions sur le Pan. Des leçons de Pan en ligne étaient aussi disponibles — contactez pour les détails.
 
-for details.
+Copie d'archive du site web [Pan Player](https://web.archive.org/web/20131129164400/panplayer.com/) qui vendait des cartes de Pan, du matériel et des informations.
 
-Archive copy of the [Pan Player](https://web.archive.org/web/20131129164400/panplayer.com/) web site which offered Pan cards, supplies and information.
+Le jeu de Panguingue et son nom pourraient bien avoir vu le jour aux Philippines. Thierry Depaulis écrit :
 
-The game of Panguingue and its name may well have originated in the Philippines. Thierry Depaulis writes:
+Je l'ai trouvé dans l'énorme Diksyunaryo-tesauro pilipino-ingles de José Villa Panganiban (Lungsod Quezon, 1972) :
 
-I've found it in José Villa Panganiban's huge Diksyunaryo-tesauro pilipino-ingles (Lungsod Quezon, 1972):
+pangginggi n. Ilk. [Iloko] Tg. jeu de cartes d'autrefois utilisant des naipes de cartes de l'époque espagnole.
 
-pangginggi n. Ilk. [Iloko] Tg. old-time card game using naipes cards of the Spanish era.
+En fait, cela est confirmé aussi par la version en ligne de l'OED (ajouts de 1993) :
 
-In fact this is confirmed too by the OED on-line version (1993 additions):
-
-"panguingue, n. [ad. Tagalog pangguinggui.]"
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Panguingue
+« panguingue, n. [ad. Tagalog pangguinggui.] »

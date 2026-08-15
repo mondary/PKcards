@@ -1,152 +1,150 @@
 # Scala40
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Rules for the popular Italian rummy game Scala Quaranta in which at least 40 points are needed to open.
+**Type :** Rami
+**But :** Règles du jeu de rami italien populaire Scala Quaranta, dans lequel au moins 40 points sont nécessaires pour ouvrir.
+**Autres noms :** Scala Quaranta
 
 ---
 
 ## Introduction
 
-**Scala Quaranta** (Scala 40) is a popular Italian rummy game with some similarities to North European Kalookie. 
+**Scala Quaranta** (Scala 40) est un jeu de rami italien populaire avec quelques similitudes avec le Kalookie d'Europe du Nord.
 
-## Players, Cards and Objective
+## Joueurs, cartes et but
 
-Scala Quaranta is played by 2 to 6 players using a double deck of standard (International) cards including four jokers (52 cards plus 2 jokers in each deck, for a total of 108 cards). Deal and play are clockwise.
+Scala Quaranta se joue à 2 à 6 joueurs avec un double jeu de cartes standard (international) comprenant quatre jokers (52 cartes plus 2 jokers dans chaque jeu, soit 108 cartes au total). La donne et le jeu se font dans le sens horaire.
 
-As in all rummy games the objective is, by drawing and discarding, to collect sets of three or more equal cards and sequences of three or more cards in suit. Such combinations can be laid down as melds. The winner is the player who manages to 'close' the game by melding all his or her cards but one, and discarding the final card.
+Comme dans tous les jeux de rami, le but est, en piochant et en défaussant, de collecter des séries de trois cartes identiques ou plus et des suites de trois cartes consécutives ou plus dans la même couleur. Ces combinaisons peuvent être posées. Le gagnant est le joueur qui parvient à « fermer » la partie en posant toutes ses cartes sauf une, et en défaussant la dernière carte.
 
-For the purpose of melding and scoring the cards have point values as follows:
+Pour la pose et le score, les cartes ont les valeurs de points suivantes :
 
-- **2 - 10**: face value
+- **2 - 10** : valeur nominale
 
-- **J, Q, K**: 10 points each
+- **V, D, R** : 10 points chacun
 
-- **Ace**: 11 points in a set of Aces or a high sequence (QKA) or in a player's hand, but only 1 point in a low sequence (A23).
+- **As** : 11 points dans une série d'As ou une suite haute (RDA) ou dans la main d'un joueur, mais seulement 1 point dans une suite basse (A23).
 
-- **Joker**: 25 points in a player's hand, but when used as a wild card in a meld it takes the point value of the card it represents.
+- **Joker** : 25 points dans la main d'un joueur, mais lorsqu'il est utilisé comme carte wild dans une combinaison, il prend la valeur de points de la carte qu'il représente.
 
-## Melds
+## Combinaisons
 
-Sequences
-A sequence consists of three or more consecutive cards of the **same suit**. For this purpose the order of cards in a suit is **(A-)2-3-4-5-6-7-8-9-10-J-Q-K(-A). **An Ace can be either at the top of a sequence, next to the King or at the bottom of a sequence next to the Two, but not in the middle: **K-A-2** is not valid. It is not possible to use two Aces of the same suit in a sequence, but a 14-card sequence meld consisting of an entire suit plus a Joker is allowed. It is possible to meld two or more sequences in the same suit and these may overlap or may even be identical.
-Sets
-A set consists of three or four cards of the same rank and **different suits**. For example **![diamond](../images/internat/diamond.gif)3-![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)3** and **![club](../images/internat/club.gif)K-![diamond](../images/internat/diamond.gif)K-![heart](../images/internat/heart.gif)K-![spade](../images/internat/spade.gif)K** are valid sets but **![heart](../images/internat/heart.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9** is not valid. It is possible to meld more than one set of the same rank.
-Melds cannot intersect
-The same card cannot belong to more than one meld (a set and a sequence) at the same time. For example **![club](../images/internat/club.gif)9-![diamond](../images/internat/diamond.gif)9-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)7** is not a legal meld, but **![club](../images/internat/club.gif)9-![diamond](../images/internat/diamond.gif)9-![heart](../images/internat/heart.gif)9; ![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)7** could be melded together as a set and a sequence.
+Suites
+Une suite consiste en trois cartes consécutives ou plus de la **même couleur**. Pour cela, l'ordre des cartes dans une couleur est **(A-)2-3-4-5-6-7-8-9-10-V-D-R(-A)**. Un As peut être soit en haut d'une suite, à côté du Roi, soit en bas d'une suite à côté du Deux, mais pas au milieu : **R-A-2** n'est pas valide. Il n'est pas possible d'utiliser deux As de la même couleur dans une suite, mais une combinaison de suite de 14 cartes composée d'une couleur entière plus un Joker est autorisée. Il est possible de poser deux suites ou plus dans la même couleur et celles-ci peuvent se chevaucher ou même être identiques.
+Séries
+Une série consiste en trois ou quatre cartes du même rang et de **couleurs différentes**. Par exemple **![carreau](../images/internat/diamond.gif)3-![cœur](../images/internat/heart.gif)3-![pique](../images/internat/spade.gif)3** et **![trèfle](../images/internat/club.gif)R-![carreau](../images/internat/diamond.gif)R-![cœur](../images/internat/heart.gif)R-![pique](../images/internat/spade.gif)R** sont des séries valides mais **![cœur](../images/internat/heart.gif)9-![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)9** n'est pas valide. Il est possible de poser plus d'une série du même rang.
+Les combinaisons ne peuvent pas s'intersecter
+La même carte ne peut pas appartenir à plus d'une combinaison (une série et une suite) en même temps. Par exemple **![trèfle](../images/internat/club.gif)9-![carreau](../images/internat/diamond.gif)9-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)7** n'est pas une combinaison légale, mais **![trèfle](../images/internat/club.gif)9-![carreau](../images/internat/diamond.gif)9-![cœur](../images/internat/heart.gif)9 ; ![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)7** pourrait être posé ensemble comme une série et une suite.
 Jokers
-A set or sequence can include **one** Joker, used as a substitute for one of its cards. A single meld is not allowed to include more than one Joker.
+Une série ou suite peut inclure **un** Joker, utilisé comme substitut d'une de ses cartes. Une seule combinaison ne peut pas inclure plus d'un Joker.
 
-When putting down a meld including a Joker or adding a Joker to a meld the player must specify exactly which card the Joker represents. In a sequence this is clear from the position of the Joker - for example in **Joker-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)8** the Joker represents the **![spade](../images/internat/spade.gif)6** and not the **![spade](../images/internat/spade.gif)9**. This sequence can be extended by adding the **![spade](../images/internat/spade.gif)5** or the **![spade](../images/internat/spade.gif)9** but not the **![spade](../images/internat/spade.gif)6** or **![spade](../images/internat/spade.gif)10**. 
+Lors de la pose d'une combinaison incluant un Joker ou de l'ajout d'un Joker à une combinaison, le joueur doit préciser exactement quelle carte le Joker représente. Dans une suite, cela est clair d'après la position du Joker — par exemple dans **Joker-![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8** le Joker représente le **![pique](../images/internat/spade.gif)6** et non le **![pique](../images/internat/spade.gif)9**. Cette suite peut être étendue en ajoutant le **![pique](../images/internat/spade.gif)5** ou le **![pique](../images/internat/spade.gif)9** mais pas le **![pique](../images/internat/spade.gif)6** ou le **![pique](../images/internat/spade.gif)10**.
 
-A player who puts down a three-card set including a Joker must announce which of the two missing suits the Joker represents. Some players use the position of the Joker to indicate its suit as follows. If the two real cards are different colours, the Joker represents the other suit of the same colour as the card next to it. If the two real cards are the same colour then a Joker next to a spade represents a heart and vice versa, and a Joker next to a club represents a diamond and vice versa. So in **![heart](../images/internat/heart.gif)10-![spade](../images/internat/spade.gif)10-Joker** the Joker stands for the 10 of clubs, and in **Joker-![heart](../images/internat/heart.gif)7-![diamond](../images/internat/diamond.gif)7** the Joker stands for the 7 of Spades.
+Un joueur qui pose une série de trois cartes incluant un Joker doit annoncer laquelle des deux couleurs manquantes le Joker représente. Certains joueurs utilisent la position du Joker pour indiquer sa couleur comme suit. Si les deux vraies cartes sont de couleurs différentes, le Joker représente l'autre couleur de même couleur que la carte à côté de lui. Si les deux vraies cartes sont de la même couleur, alors un Joker à côté d'un pique représente un cœur et vice versa, et un Joker à côté d'un trèfle représente un carreau et vice versa. Ainsi dans **![cœur](../images/internat/heart.gif)10-![pique](../images/internat/spade.gif)10-Joker** le Joker représente le 10 de trèfle, et dans **Joker-![cœur](../images/internat/heart.gif)7-![carreau](../images/internat/diamond.gif)7** le Joker représente le 7 de pique.
 
-## Deal
+## Donne
 
-The first dealer is chosen by lot and the turn to deal passes to the left after each hand.
+Le premier donneur est choisi par tirage au sort et le tour de donner passe à gauche après chaque main.
 
-The dealer shuffles the pack and the player to dealer's right cuts. The dealer than deals out the cards one at a time, starting with the player to dealer's left and continuing clockwise until everyone has 13 cards. The remaining cards are stacked face down on the table to form a drawing stock, and the top card of this stack is turned face up and placed alongside it to start the discard pile. 
+Le donneur mélange le jeu et le joueur à la droite du donneur coupe. Le donneur distribue ensuite les cartes une à une, en commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire jusqu'à ce que chacun ait 13 cartes. Les cartes restantes sont empilées face cachée sur la table pour former une pioche, et la carte du dessus de cette pile est retournée face visible et placée à côté pour commencer la défausse.
 
-## Play
+## Jeu
 
-The player to dealer's left plays first, and the players take turns in clockwise order around the table. A turn consists of:
+Le joueur à la gauche du donneur joue en premier, et les joueurs jouent à tour de rôle dans le sens horaire. Un tour consiste en :
 
-- drawing one card and adding it to one's hand;
+- piocher une carte et l'ajouter à sa main ;
 
-- optionally laying down some meld or adding to meld that is already on the table;
+- éventuellement poser une combinaison ou ajouter à une combinaison déjà sur la table ;
 
-- discarding one card face up on the discard pile, which ends the player's turn.
+- défausser une carte face visible sur la défausse, ce qui termine le tour du joueur.
 
-### Drawing
+### Pioche
 
-A 
-player may draw the top card from the stock pile. For a player who has not yet opened (laid down meld), this is the only option.
+Un joueur peut piocher la carte du dessus de la pioche. Pour un joueur qui n'a pas encore ouvert (posé une combinaison), c'est la seule option.
 
-A player who has melded (opened) may instead take the top card of the discard pile, **provided that** this card is immediately melded, either as part of a new set or sequence or to extend an existing set or sequence. A player is **never** allowed to take the top card of the discard pile and keep it in hand or discard it. 
+Un joueur qui a posé (ouvert) peut à la place prendre la carte du dessus de la défausse, **à condition que** cette carte soit immédiatement posée, soit comme partie d'une nouvelle série ou suite, soit pour étendre une série ou suite existante. Un joueur n'est **jamais** autorisé à prendre la carte du dessus de la défausse et la conserver en main ou la défausser.
 
-### Melding
+### Poser des combinaisons
 
-Taking one or more sets and sequences from your hand and placing them face up on the table is known as **melding**. If you have not previously melded, then in order to meld for the first time (known as **opening**) you must put down new sets and/or sequences from your hand with a total value of at least 40 points. (The name of the game - Scala 40 - refers to this minimum.) You cannot add cards to melds that are already on the table until after you have opened. 
+Prendre une ou plusieurs séries et suites de sa main et les placer face visible sur la table est appelé **poser**. Si vous n'avez pas précédemment posé, alors pour poser pour la première fois (appelé **ouvrir**) vous devez poser de nouvelles séries et/ou suites de votre main d'une valeur totale d'au moins 40 points. (Le nom du jeu — Scala 40 — fait référence à ce minimum.) Vous ne pouvez pas ajouter de cartes à des combinaisons déjà sur la table avant d'avoir ouvert.
 
-**Example:** **Joker-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)8, ![diamond](../images/internat/diamond.gif)5-![heart](../images/internat/heart.gif)5-![spade](../images/internat/spade.gif)5** is a valid opening meld provided that the Joker is used to stand for the 10 of clubs and not the 7: 10+9+8+5+5+5=42. 
+**Exemple :** **Joker-![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)8, ![carreau](../images/internat/diamond.gif)5-![cœur](../images/internat/heart.gif)5-![pique](../images/internat/spade.gif)5** est une combinaison initiale valide à condition que le Joker soit utilisé pour représenter le 10 de trèfle et non le 7 : 10+9+8+5+5+5=42.
 
-A player who has opened can, in the same or subsequent turns: 
+Un joueur qui a ouvert peut, dans le même tour ou les suivants :
 
-- lay down further new melds;
+- poser d'autres combinaisons nouvelles ;
 
-- add cards to existing melds on the table, extending a sequence at either end or extending a set of three by adding an equal card of the fourth suit;
+- ajouter des cartes à des combinaisons existantes sur la table, en étendant une suite à l'une ou l'autre extrémité ou en étendant une série de trois en ajoutant une carte identique de la quatrième couleur ;
 
-- replace a Joker on the table by the real card that it represents, and take the Joker either to use in another meld or to keep in hand for future use.
+- remplacer un Joker sur la table par la vraie carte qu'il représente, et prendre le Joker soit pour l'utiliser dans une autre combinaison, soit pour le conserver en main pour un usage ultérieur.
 
-Melds on the table do not belong to any particular player. Players may add valid cards to any set or sequence on the table, irrespective of who originally melded it.
+Les combinaisons sur la table n'appartiennent à aucun joueur en particulier. Les joueurs peuvent ajouter des cartes valides à n'importe quelle série ou suite sur la table, indépendamment de qui les a posées à l'origine.
 
-### Discarding
+### Défausse
 
-At the end of every turn you must discard one card from your hand face up on the discard pile. If you have not yet opened, it is illegal to discard a Joker or any card which could be used to extend a meld on the table. 
+À la fin de chaque tour, vous devez défausser une carte de votre main face visible sur la défausse. Si vous n'avez pas encore ouvert, il est interdit de défausser un Joker ou toute carte qui pourrait être utilisée pour étendre une combinaison sur la table.
 
-You may discard the card that you just picked up from the stock. You cannot discard the card you just picked up from the discard pile, since a card picked up from the discard pile must immediately be used in a meld.
+Vous pouvez défausser la carte que vous venez de piocher de la pioche. Vous ne pouvez pas défausser la carte que vous venez de prendre de la défausse, car une carte prise de la défausse doit être immédiatement utilisée dans une combinaison.
 
-Discarding your last card is known as **closing**, and this ends the play. You are not allowed to meld all the cards in your hand, leaving yourself with no discard. For example if the only cards you have left are two different sixes and you draw a six of a third suit, you are not allowed to put down a meld of three sixes, leaving yourself with no card to discard.
+Défausser sa dernière carte est appelé **fermer**, et cela met fin au jeu. Vous n'êtes pas autorisé à poser toutes les cartes de votre main, vous laissant sans défausse. Par exemple, si les seules cartes qu'il vous reste sont deux six différents et que vous piochez un six d'une troisième couleur, vous n'êtes pas autorisé à poser une série de trois six, vous laissant sans carte à défausser.
 
-Players are not allowed to close during their first turn to play. Everyone must have one complete turn before anyone is allowed to close.
+Les joueurs ne sont pas autorisés à fermer pendant leur premier tour de jeu. Chacun doit avoir un tour complet avant que quiconque soit autorisé à fermer.
 
-### Depleted Stock
+### Pioche épuisée
 
-If a player draws the last card of the stock pile, all the cards in the discard pile are shuffled and stacked face down to make a new stock pile. The discard of the player who took the last card from the stock begins a new discard pile.
+Si un joueur pioche la dernière carte de la pioche, toutes les cartes de la défausse sont mélangées et empilées face cachée pour former une nouvelle pioche. La défausse du joueur qui a pris la dernière carte de la pioche commence une nouvelle défausse.
 
-## Scoring
+## Score
 
-When the play ends, all players count and score the total value of the cards remaining in their hands (Jokers 25, Aces 11, pictures 10, other cards face value).
+Lorsque le jeu se termine, tous les joueurs comptent et marquent la valeur totale des cartes restantes dans leurs mains (Jokers 25, As 11, figures 10, autres cartes à leur valeur nominale).
 
-The player who closed the game has no cards and therefore scores zero. Each of the other players adds the value of their remaining cards to their cumulative total.
+Le joueur qui a fermé la partie n'a pas de cartes et marque donc zéro. Chacun des autres joueurs ajoute la valeur de ses cartes restantes à son cumul.
 
-Any player whose score equals or exceeds 101 retires from the game, and the others continue to play. The last surviving player when all others have been eliminated is the winner.
+Tout joueur dont le score est égal ou supérieur à 101 se retire du jeu, et les autres continuent à jouer. Le dernier joueur survivant lorsque tous les autres ont été éliminés est le gagnant.
 
-## Variations
+## Variantes
 
-Scala Quaranta has many variants, some of which are listed below.
+Scala Quaranta a de nombreuses variantes, dont certaines sont listées ci-dessous.
 
-Single Game
-Some play that each deal is a separate event. The player who closes simply wins. In this case there is no need for the other players to count the value of their remaining cards.
-Higher Target Score
-Some play that the score at which a player is eliminated from the game is 151 or 201 rather than 101. This target score should be agreed before beginning the game.
-Re-entering the Game
-Many people play that a player who reaches or exceeds the target score is not eliminated if there is more than one player still in the game. Instead, the scores of all players who have reached or passed the target are reset equal to the highest score of any player who is below the target.
-No elimination
-Instead of eliminating players from the game when they reach a certain score, some play until the player with the highest score reaches or passes a certain total. At that point the game stops and the player with the lowest score is the winner. Apparently the game may be played to 1000, 1500 or even 2000, though this would be a rather long game.
-Card Values
-Some count the Jack as 11, Queen 12, King 13 and Ace 14 when in a set or at the top of a sequence. In this case a set of three Aces is sufficient to open. In addition, for a Joker remaining in a player's hand, some charge only the same as an Ace, in this variant 14 instead of 25.
-Earlier use of the Discard Pile
-Some allow a player who has not yet opened to draw the top card of the discard pile, provided that this card is immediately used as part of the player's opening meld.
-Open and Close in the same Turn
-Sometimes a player who still holds 13 cards (having not yet opened) manages after drawing to meld 13 cards and discards the last card, thus opening and closing in the same turn. Some play that in this case all the other players score **twice** the values of the cards remaining in their hands.
-Close on the first turn
-Some allow a player to close at his or her first turn to play. In this case, players who have not had a chance to play score all their cards as penalty points, even if their hand already contains the cards needed for an initial meld of 40 or more points.
-Penalty for not having opened
-It may happen that a player closes when some other players have not yet opened. Some play that such players score a fixed penalty of 100 points instead of counting the value of the 13 cards in their hands.
-Discarding Playable Cards
-There are apparently several versions of the rule against discarding a card which could be added to a set or sequence on the table. Discarding a playable card may or may not be allowed in three situations: for a player who has not yet opened, for a player who has opened but not closed, and as the last discard when closing. Banning playable discards creates a problem that in rare cases a player may have no legal discard. This can be largely but not completely avoided by allowing playable discards for a player who is closing.
-First player may take the turned up card
-Some play that the first player - the player to dealer's left - may start the game by taking the card turned up by the dealer instead of the top card of the stock, even if the player is unable to meld this card. This is the only case in which a card from the face up pile can be drawn and kept in the player's hand.
-No discard required when closing
-Some allow a player to close by melding all his or her cards after drawing, so that the player has no card to discard at the end of this last turn.
-Four of a kind is discarded
-Some play that when a a player has a meld of four equal cards of different suits (without Jokers), this is placed on the discard pile, so that the cards will be recycled into the new stock in the event that the stock runs out and is reconstituted from the discard pile. This is done during a player's turn, so that it is covered by the player's discard. Since the four of a kind cannot be extended and none of its cards can be taken from the discard pile, this rule has no effect on the game unless the stock pile runs out.
-Splitting sequences
-Rules for Scala Quaranta in 20th century card game books specify that no sequence can be longer than five cards. Anyone who creates a longer sequence, either from hand or by adding cards to an existing sequence on the table, must break the sequence into shorter sequences of 3-5 cards each. However, at the time of writing (2014) the official rules of the *Federazione Italiana Scala 40* and other rules published on the web do not mention this restriction on the length of a sequence, or the possibility of splitting a sequence. So presumably most people now allow longer sequences and do not allow sequences to be split. This makes a difference where for example there is a sequence **![spade](../images/internat/spade.gif)5-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)9** on the table and you have **![spade](../images/internat/spade.gif)4 **and **![spade](../images/internat/spade.gif)6** in your hand. Under the old rule you could add the 4 to the sequence, split it and then add the 6 creating **![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)5-****![spade](../images/internat/spade.gif)6**, **![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)9**. Under the new rule you can add the 4 but not insert the 6 because the sequence cannot be split.
-Jokers in sets and sequences
-Some allow a set or sequence to contain more than one Joker.
+Partie unique
+Certains jouent que chaque donne est un événement séparé. Le joueur qui ferme gagne simplement. Dans ce cas, il n'est pas nécessaire que les autres joueurs comptent la valeur de leurs cartes restantes.
+Score cible plus élevé
+Certains jouent que le score auquel un joueur est éliminé du jeu est 151 ou 201 plutôt que 101. Ce score cible doit être convenu avant de commencer la partie.
+Retour dans le jeu
+Beaucoup jouent qu'un joueur qui atteint ou dépasse le score cible n'est pas éliminé s'il y a plus d'un joueur encore dans le jeu. Au lieu de cela, les scores de tous les joueurs qui ont atteint ou dépassé le score cible sont réinitialisés au score le plus élevé de tout joueur en dessous du seuil.
+Pas d'élimination
+Au lieu d'éliminer les joueurs du jeu lorsqu'ils atteignent un certain score, certains jouent jusqu'à ce que le joueur ayant le score le plus élevé atteigne ou dépasse un certain total. À ce point, le jeu s'arrête et le joueur ayant le score le plus bas est le gagnant. Apparemment, le jeu peut se jouer jusqu'à 1000, 1500 ou même 2000, bien que ce soit une partie assez longue.
+Valeur des cartes
+Certains comptent le Valet comme 11, la Dame 12, le Roi 13 et l'As 14 lorsqu'ils sont dans une série ou en haut d'une suite. Dans ce cas, une série de trois As suffit pour ouvrir. De plus, pour un Joker restant dans la main d'un joueur, certains ne comptent que la même valeur qu'un As, dans cette variante 14 au lieu de 25.
+Utilisation anticipée de la défausse
+Certains autorisent un joueur qui n'a pas encore ouvert à prendre la carte du dessus de la défausse, à condition que cette carte soit immédiatement utilisée comme partie de la combinaison initiale du joueur.
+Ouvrir et fermer dans le même tour
+Parfois, un joueur qui a encore 13 cartes (n'ayant pas encore ouvert) parvient après avoir pioché à poser 13 cartes et à défausser la dernière carte, ouvrant et fermant ainsi dans le même tour. Certains jouent que dans ce cas, tous les autres joueurs marquent **deux fois** la valeur des cartes restantes dans leurs mains.
+Fermer au premier tour
+Certains autorisent un joueur à fermer à son premier tour de jeu. Dans ce cas, les joueurs qui n'ont pas eu l'occasion de jouer marquent toutes leurs cartes comme points de pénalité, même si leur main contient déjà les cartes nécessaires pour une combinaison initiale de 40 points ou plus.
+Pénalité pour ne pas avoir ouvert
+Il peut arriver qu'un joueur ferme alors que d'autres joueurs n'ont pas encore ouvert. Certains jouent que ces joueurs marquent une pénalité fixe de 100 points au lieu de compter la valeur des 13 cartes dans leur main.
+Défausser des cartes jouables
+Il existe apparemment plusieurs versions de la règle contre le fait de défausser une carte qui pourrait être ajoutée à une série ou une suite sur la table. Défausser une carte jouable peut ou non être autorisé dans trois situations : pour un joueur qui n'a pas encore ouvert, pour un joueur qui a ouvert mais n'a pas fermé, et comme défausse finale lors de la fermeture. Interdire les défausses jouables crée un problème car dans de rares cas un joueur peut n'avoir aucune défausse légale. Cela peut être en grande partie mais pas complètement évité en autorisant les défausses jouables pour un joueur qui ferme.
+Le premier joueur peut prendre la carte retournée
+Certains jouent que le premier joueur — le joueur à la gauche du donneur — peut commencer la partie en prenant la carte retournée par le donneur au lieu de la carte du dessus de la pioche, même si le joueur ne peut pas poser cette carte. C'est le seul cas où une carte de la pile face visible peut être piochée et conservée dans la main du joueur.
+Pas de défausse requise lors de la fermeture
+Certains autorisent un joueur à fermer en posant toutes ses cartes après avoir pioché, de sorte que le joueur n'a pas de carte à défausser à la fin de ce dernier tour.
+Un carré est défaussé
+Certains jouent que lorsqu'un joueur a une combinaison de quatre cartes identiques de couleurs différentes (sans Jokers), celle-ci est placée sur la défausse, afin que les cartes soient recyclées dans la nouvelle pioche dans le cas où la pioche s'épuise et est reconstituée à partir de la défausse. Cela se fait pendant le tour d'un joueur, de sorte qu'elle est couverte par la défausse du joueur. Puisqu'un carré ne peut pas être étendu et qu'aucune de ses cartes ne peut être prise de la défausse, cette règle n'a aucun effet sur le jeu sauf si la pioche s'épuise.
+Séparer les suites
+Les règles de Scala Quaranta dans les livres de jeux de cartes du 20ème siècle stipulent qu'aucune suite ne peut dépasser cinq cartes. Quiconque crée une suite plus longue, soit de sa main soit en ajoutant des cartes à une suite existante sur la table, doit séparer la suite en suites plus courtes de 3 à 5 cartes chacune. Cependant, au moment de la rédaction (2014), les règles officielles de la *Federazione Italiana Scala 40* et d'autres règles publiées sur le web ne mentionnent pas cette restriction sur la longueur d'une suite, ni la possibilité de séparer une suite. Il est donc probable que la plupart des gens autorisent désormais les suites plus longues et ne permettent pas de séparer les suites. Cela fait une différence lorsque, par exemple, il y a une suite **![pique](../images/internat/spade.gif)5-![pique](../images/internat/spade.gif)6-![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8-![pique](../images/internat/spade.gif)9** sur la table et que vous avez **![pique](../images/internat/spade.gif)4** et **![pique](../images/internat/spade.gif)6** en main. Sous l'ancienne règle vous pouviez ajouter le 4 à la suite, la séparer puis ajouter le 6 créant **![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)5-![pique](../images/internat/spade.gif)6**, **![pique](../images/internat/spade.gif)6-![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8-![pique](../images/internat/spade.gif)9**. Sous la nouvelle règle vous pouvez ajouter le 4 mais pas insérer le 6 car la suite ne peut pas être séparée.
+Jokers dans les séries et suites
+Certains autorisent une série ou une suite à contenir plus d'un Joker.
 
-## Other Scala 40 web pages
+## Autres pages web sur Scala 40
 
-The [Federazione Italiana Scala 40](https://www.fisca.it) publishes 'official' rules of this game.
+La [Federazione Italiana Scala 40](https://www.fisca.it) publie les règles « officielles » de ce jeu.
 
-The Wikipedia page [Scala 40](https://it.wikipedia.org/wiki/Scala_40) has rules of the game and a collection of variations.
+La page Wikipedia [Scala 40](https://it.wikipedia.org/wiki/Scala_40) contient les règles du jeu et un recueil de variantes.
 
-## Software and Online Games
+## Logiciels et jeux en ligne
 
-You can play Scala Quaranta online at [Ludopoli](https://www.ludopoli.it/).
+Vous pouvez jouer à Scala Quaranta en ligne sur [Ludopoli](https://www.ludopoli.it/).
 
-Antonio Ferraioli has written a [Scala Quaranta app](https://www.onmadesoft.com/scala-40/scala-40.html) for iPhone or iPad. 
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Scala Quaranta
+Antonio Ferraioli a écrit une [application Scala Quaranta](https://www.onmadesoft.com/scala-40/scala-40.html) pour iPhone ou iPad.

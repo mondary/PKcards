@@ -1,14 +1,13 @@
-# Pittypat
+# Pitty Pat
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Sources of rules and software for playing Pitty-Pat, a rummy-like card game from Belize in which the object is to make three pairs.
+**Type :** Rami
+**But :** Sources de règles et logiciels pour jouer au Pitty Pat, un jeu de cartes proche du rami du Bélize dont l'objectif est de faire trois paires.
+**Autres noms :** Pitty-Pat, Pitty Pat
 
 ---
 
-Pitty Pat is the national card game of Belize. It is played by from two to four players with a standard 52 card pack. Though it may not be apparent at first sight, Pitty Pat is essentially a rummy game with a similar mechanism to conquian, in which the objective is to make three pairs starting from a five card hand. Details can be found on the Pitty Pat page of the Belizeans.com web site.
+Le Pitty Pat est le jeu de cartes national du Bélize. Il se joue de deux à quatre joueurs avec un jeu standard de 52 cartes. Bien que cela ne paraisse pas au premier abord, le Pitty Pat est essentiellement un jeu de rami avec un mécanisme similaire au conquian, dans lequel l'objectif est de faire trois paires à partir d'une main de cinq cartes. Les détails se trouvent sur la page Pitty Pat du site web Belizeans.com.
 
-A Pitty Pat computer program is available from [Unique Games](https://www.agcrump.com/).
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Pitty Pat
+Un programme informatique de Pitty Pat est disponible chez [Unique Games](https://www.agcrump.com/).

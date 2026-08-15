@@ -1,222 +1,221 @@
 # Pennies
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A North American card game related to Hand and Foor Canasta, featuring special bonuses for Wilds Canastas and Canastas of Sevens.
+**Type :** Rami
+**But :** Un jeu de cartes nord-américain apparenté au Hand and Foot Canasta, comportant des bonus spéciaux pour les Canastas Joker et les Canastas de Sept.
+**Autres noms :** Pennies from Heaven
 
 ---
 
-*This page is partly based on contributions from Barbara Bain and from Gorgon.*
+*Cette page est en partie basée sur des contributions de Barbara Bain et de Gorgon.*
 
 ## Introduction
 
-The games described on this page belong to a distinctive North American variety of Canasta or Hand and Foot with the following special features:
+Les jeux décrits sur cette page appartiennent à une variante nord-américaine distinctive de Canasta ou de Hand and Foot avec les caractéristiques spéciales suivantes :
 
-- As in **Hand and Foot**, each player is dealt a second hand of cards, which can be picked up only when when the player has completed a canasta.
+- Comme au **Hand and Foot**, chaque joueur reçoit une seconde main de cartes, qui ne peut être ramassée que lorsque le joueur a complété un canasta.
 
-- There are four types of canasta: **natural** (red), **mixed** (black), **wild** (twos and jokers only) and **sevens**. A team needs one of each type to go out.
+- Il y a quatre types de canasta : **naturel** (rouge), **mixte** (noir), **joker** (deux et jokers uniquement) et **sept**. Une équipe a besoin d'un de chaque type pour se déclarer.
 
-In the card game literature this type of game is generally known as **Pennies from Heaven**. Gorgon has contributed a version called **Railroad Canasta**, and Barbara Bain's version of **Hand and Foot** is another game of this type.
+Dans la littérature des jeux de cartes, ce type de jeu est généralement connu sous le nom de **Pennies from Heaven**. Gorgon a contribué une version appelée **Railroad Canasta**, et la version de Barbara Bain de **Hand and Foot** est un autre jeu de ce type.
 
 ## Pennies from Heaven
 
-Almost identical descriptions of this game appears in the US Playing Card Company's publication "Official Rules of Card Games" and in John Scarne's "Encyclopedia of Games". The rules of ordinary Canasta apply, except for the differences explained below.
+Des descriptions presque identiques de ce jeu apparaissent dans la publication « Official Rules of Card Games » de la US Playing Card Company et dans l'« Encyclopedia of Games » de John Scarne. Les règles du Canasta ordinaire s'appliquent, à l'exception des différences expliquées ci-dessous.
 
-### Players and Cards
+### Joueurs et cartes
 
-There are 6 players in two teams, sitting alternately. 4 packs of cards are used, including 2 jokers for each pack - a total of 216 cards. All twos and jokers are wild. Red and black threes have special properties as in regular canasta. The values of the individual cards, as in Canasta, are:
+Il y a 6 joueurs en deux équipes, assis en alternance. On utilise 4 jeux de cartes, dont 2 jokers par jeu — soit 216 cartes au total. Tous les deux et tous les jokers sont Joker. Les trois rouges et les trois noirs ont des propriétés spéciales comme au canasta ordinaire. Les valeurs des cartes individuelles, comme au Canasta, sont :
 
-| Joker | ..... | 50 points each |
-| Two, Ace | ..... | 20 points each |
-| K, Q, J, 10, 9, 8 | ..... | 10 points each |
-| 7, 6, 5, 4, black 3 | ..... | 5 points each |
+| Joker | ..... | 50 points chacun |
+| Deux, As | ..... | 20 points chacun |
+| R, D, V, 10, 9, 8 | ..... | 10 points chacun |
+| 7, 6, 5, 4, 3 noir | ..... | 5 points chacun |
 
-### Deal
+### Distribution
 
-The dealer deals 13 cards to each player, one at a time, which the players may look at, followed by a further 11 cards to each, which must not be looked at and are kept in a face-down pile until the player has completed a canasta. The remaining stock of 72 cards is placed face down and its top card is turned face up beside it to start the discard pile. 
+Le donneur distribue 13 cartes à chaque joueur, une à la fois, que les joueurs peuvent regarder, puis 11 cartes supplémentaires à chacun, qui ne doivent pas être regardées et sont conservées en pile face cachée jusqu'à ce que le joueur ait complété un canasta. Le stock restant de 72 cartes est placé face cachée et sa carte du dessus est retournée à côté pour commencer la pile de défausse.
 
-### Play
+### Jeu
 
-A turn consists of the following stages:
+Un tour consiste en les étapes suivantes :
 
-- Drawing the top **two cards** from the stock or taking the entire discard pile.
+- Piocher les **deux cartes** du dessus du stock ou prendre toute la pile de défausse.
 
-- Possibly starting a new meld or adding one or more cards to your own side's melds.
+- Éventuellement commencer une nouvelle pose ou ajouter une ou plusieurs cartes aux poses de votre équipe.
 
-- Discarding one card from your hand face up on the discard pile.
+- Défausser une carte de votre main face ouverte sur la pile de défausse.
 
-### Melds and Canastas
+### Poses et canastas
 
-A canasta is a meld of seven cards. Four types of canasta are possible.
+Un canasta est une pose de sept cartes. Quatre types de canasta sont possibles.
 
 | Type | Description | Bonus |
-| Natural (red) canasta | Seven cards of the same rank with no wild cards. | 500 points |
-| Mixed (black) canasta | Contains one, two or three wild cards. The remaining cards are all of the same rank (not threes or sevens). | 300 points |
-| Wild canasta | Any seven wild cards. | 1000 points |
-| Sevens canasta | Seven sevens (no wild cards) | 1500 points |
+| Canasta naturel (rouge) | Sept cartes de même rang sans carte Joker. | 500 points |
+| Canasta mixte (noir) | Contient une, deux ou trois cartes Joker. Les cartes restantes sont toutes du même rang (pas de trois ni de sept). | 300 points |
+| Canasta Joker | Sept cartes Joker quelconques. | 1000 points |
+| Canasta de sept | Sept sept (sans carte Joker) | 1500 points |
 
-A meld can be started with three or more cards and built up to a canasta by adding cards on later turns. **No meld may ever contain more than seven cards.** If you have completed a canasta, it is permissible for your team to start another separate meld of the same rank.
+Une pose peut commencer avec trois cartes ou plus et être complétée en canasta en ajoutant des cartes aux tours suivants. **Aucune pose ne peut jamais contenir plus de sept cartes.** Si vous avez complété un canasta, il est permis à votre équipe de commencer une autre pose séparée du même rang.
 
-A mixed meld in course of construction must contain at least two natural (non-wild) cards and cannot contain more than three wild cards. A natural meld can be turned into a mixed meld by adding wild cards to it.
+Une pose mixte en cours de construction doit contenir au moins deux cartes naturelles (non Joker) et ne peut pas contenir plus de trois cartes Joker. Une pose naturelle peut être transformée en pose mixte en ajoutant des cartes Joker.
 
-The minimum requirements for a team's initial meld are as follows:
+Les exigences minimales pour la première pose d'une équipe sont les suivantes :
 
-| Team's cumulative score | | Minimum initial meld |
-| Any minus score | ..... | 15 points |
+| Score cumulé de l'équipe | | Première pose minimale |
+| Tout score négatif | ..... | 15 points |
 | 0 - 4995 | ..... | 50 points |
 | 5000 - 9995 | ..... | 90 points |
 | 10000 - 14995 | ..... | 120 points |
-| 15000 or more | ..... | 150 points |
+| 15000 ou plus | ..... | 150 points |
 
-Bonuses for red threes and canastas do not count towards this minimum - it must be achieved from the value of the cards in the meld. 
+Les bonus pour les trois rouges et les canastas ne comptent pas dans ce minimum — il doit être atteint avec la valeur des cartes de la pose.
 
-NOTE: Few books include this game. Two that do are Scarne's Encyclopedia of Games (1973) and the Bicycle Official Rules of Card Games (1994, 1999). Both give the score ranges for the different initial meld requirements as 0 - 495; 500 - 995; 1000 - 1495; 1500+. Comparing these with the typical amount that can be scored in a hand and the target score for the game, it seems certain that this must be a misprint, and the ranges should be increased by a factor of 10, as in the table above. My thanks to Jonny Groves for pointing out this error.
+NOTE : Peu de livres incluent ce jeu. Deux qui le font sont l'Encyclopedia of Games de Scarne (1973) et le Bicycle Official Rules of Card Games (1994, 1999). Les deux donnent les fourchettes de score pour les différentes exigences de première pose comme 0 - 495 ; 500 - 995 ; 1000 - 1495 ; 1500+. En comparant celles-ci avec le montant typique qui peut être marqué dans une donne et le score cible du jeu, il semble certain que cela doit être une erreur d'impression, et les fourchettes devraient être multipliées par 10, comme dans le tableau ci-dessus. Merci à Jonny Groves d'avoir signalé cette erreur.
 
-### Discarding, freezing and taking the pile
+### Défausse, gel et prise de la pile
 
-Sevens cannot be discarded unless **both** teams have completed a canasta of sevens. Any other card, including a wild card, can be discarded.
+Les sept ne peuvent pas être défaussés à moins que les **deux** équipes aient complété un canasta de sept. Toute autre carte, y compris une carte Joker, peut être défaussée.
 
-You can never take the pile if the top card is a wild card or a three.
+Vous ne pouvez jamais prendre la pile si la carte du dessus est une carte Joker ou un trois.
 
-If the top card of the pile is a natural card and you have two matching **natural** cards in your hand, you can always take the pile, provided that:
+Si la carte du dessus de la pile est une carte naturelle et que vous avez deux cartes **naturelles** correspondantes dans votre main, vous pouvez toujours prendre la pile, à condition que :
 
-- You immediately meld its top card together with the two cards from your hand;
+- Vous posiez immédiatement sa carte du dessus avec les deux cartes de votre main ;
 
-- If your side has not melded before, you must at the same time put down sufficient cards **from your hand**, in this and possibly other melds, to satisfy the minimum meld requirement. Only after meeting this requirement are you allowed to take the rest of the pile.
+- Si votre équipe n'a pas encore posé de combinaison, vous devez en même temps poser suffisamment de cartes **de votre main**, dans cette pose et éventuellement d'autres, pour satisfaire à l'exigence minimale de pose. Ce n'est qu'après avoir satisfait à cette exigence que vous êtes autorisé à prendre le reste de la pile.
 
-If a wild card is discarded, it is placed sideways in the pile, which is then **frozen**. If the pile is **not frozen** (i.e. does not contain a wild card buried in it), you can also take the pile if its top card matches one of your team's existing (pure or mixed) melds of fewer than 7 cards, and you must then add the card to the meld. However, if a card is discarded that matches one of your completed 7-card canastas, you cannot take the pile unless you have two matching natural cards of that rank **in your hand**, and you use these three cards to start a new meld of that rank.
+Si une carte Joker est défaussée, elle est placée en travers dans la pile, qui est alors **gelée**. Si la pile n'est **pas gelée** (c'est-à-dire ne contient pas de carte Joker enfouie), vous pouvez aussi prendre la pile si sa carte du dessus correspond à l'une des poses existantes (pures ou mixtes) de moins de 7 cartes de votre équipe, et vous devez alors ajouter la carte à la pose. Cependant, si une carte correspondant à l'un de vos canastas de 7 cartes est défaussée, vous ne pouvez pas prendre la pile à moins d'avoir deux cartes naturelles correspondantes de ce rang **dans votre main**, et d'utiliser ces trois cartes pour commencer une nouvelle pose de ce rang.
 
-### Picking up the Foot
+### Ramasser le pied (Foot)
 
-You are not allowed to look at your face down cand of 11 cards until you have personally completed a canasta - i.e. contributed the seventh and last card to a canasta for your team. When you first complete a canasta in this way, after discarding at the end of that turn, you pick up your 11 face down cards and add them to the cards in your hand.
+Vous n'êtes pas autorisé à regarder votre pile face cachée de 11 cartes tant que vous n'avez pas personnellement complété un canasta — c'est-à-dire contribué la septième et dernière carte à un canasta pour votre équipe. Lorsque vous complétez un canasta de cette façon pour la première fois, après avoir défaussé à la fin de ce tour, vous ramassez vos 11 cartes face cachée et les ajoutez aux cartes de votre main.
 
-### Red and Black Threes
+### Trois rouges et trois noirs
 
-Anyone who is dealt or draws a red three must immediately place it face up with their team's melds and draw a replacement card from the stock. Red threes do not count towards a team's minimum meld. If a red three is turned up as the first card of the pile after the deal, it freezes the pile, and the first player to take the pile must immediately lay out the red three. At the end, if you have completed your canasta of sevens, each red three you have laid out counts for 100 points bonus. A team which has all eight red threes counts 1000 points instead of 800. If a player has not yet completed a cansta and picked up their 11 card packet (foot), any red threes in the 11 cards count minus 100. If a team has not completed a canasta of sevens by the time the game ends (either because the other team goes out or because the stock is exhausted), all their red threes count minus 100 each (minus 1000 if they have all eight).
+Quiconque reçoit ou pioche un trois rouge doit immédiatement le placer face ouverte avec les poses de son équipe et piocher une carte de remplacement du stock. Les trois rouges ne comptent pas dans la pose minimale d'une équipe. Si un trois rouge est retourné comme première carte de la pile après la distribution, il gèle la pile, et le premier joueur à prendre la pile doit immédiatement étaler le trois rouge. À la fin, si vous avez complété votre canasta de sept, chaque trois rouge que vous avez étalé compte pour un bonus de 100 points. Une équipe qui a les huit trois rouges compte 1000 points au lieu de 800. Si un joueur n'a pas encore complété un canasta et ramassé son paquet de 11 cartes (pied), tous les trois rouges dans les 11 cartes comptent moins 100. Si une équipe n'a pas complété un canasta de sept au moment où le jeu se termine (soit parce que l'autre équipe se déclare, soit parce que le stock est épuisé), tous leurs trois rouges comptent moins 100 chacun (moins 1000 s'ils ont les huit).
 
-Black threes cannot be melded except by a player going out, who can at that point put down three or more of them as a meld (no wild cards are allowed in a meld of black threes). If a black three is discarded, the next player in turn is not allowed to pick up the pile, but as soon as the black three is covered it ceases to have an effect.
+Les trois noirs ne peuvent être posés que par un joueur qui se déclare, qui peut alors poser trois d'entre eux ou plus comme pose (aucune carte Joker n'est autorisée dans une pose de trois noirs). Si un trois noir est défaussé, le joueur suivant n'est pas autorisé à ramasser la pile, mais dès que le trois noir est recouvert il cesse d'avoir un effet.
 
-### Going out and winning
+### Se déclarer et gagner
 
-You can only go out when your team has completed all four types of canasta. You must have at least one example of each type - natural, mixed, wild and sevens - completed with 7 cards in each, and you may also have additional canastas or smaller melds of any types. If your team has not satisfied these conditions you are not allowed to play in such a way as to leave yourself with no cards. You may (but need not) ask permission to go out from **one** of your partners, and if you choose to ask you must do as the partner says. To go out you meld all of your cards, or all except one, which you discard. Your final discard cannot be a seven.
+Vous ne pouvez vous déclarer que lorsque votre équipe a complété les quatre types de canasta. Vous devez avoir au moins un exemplaire de chaque type — naturel, mixte, Joker et sept — complété avec 7 cartes chacun, et vous pouvez également avoir des canastas supplémentaires ou des poses plus petites de tout type. Si votre équipe n'a pas satisfait à ces conditions, vous n'êtes pas autorisé à jouer de manière à ne plus avoir de cartes. Vous pouvez (mais n'êtes pas obligé de) demander la permission de vous déclarer à **un** de vos partenaires, et si vous choisissez de demander, vous devez faire ce que le partenaire dit. Pour vous déclarer, vous posez toutes vos cartes, ou toutes sauf une, que vous défaussez. Votre défausse finale ne peut pas être un sept.
 
-After a player goes out both teams score for all the cards in their melds, plus any bonuses for canastas, and the team that went out scores 100 bonus for this. They subtract the value of all the cards left in their hands, including the 11-card packets (feet) of any players who have not yet picked theirs up. Scores for red threes are added or subtracted as appropriate.
+Après qu'un joueur s'est déclaré, les deux équipes marquent pour toutes les cartes dans leurs poses, plus les bonus pour les canastas, et l'équipe qui s'est déclarée marque un bonus de 100 points pour cela. Ils soustraient la valeur de toutes les cartes restant dans leurs mains, y compris les paquets de 11 cartes (pieds) des joueurs qui n'ont pas encore ramassé les leurs. Les scores des trois rouges sont ajoutés ou soustraits selon le cas.
 
-It can happen that no one succeeds in going out before the stock runs out. In that case the play ends at the moment someone wishes to draw cards from the stock, but there are no cards left there. However the game can continue without a stock as long as each player is able and willing to take the previous player's discard. If the game ends because the stock has run out, the hand is scored in the usual way, except that of course that neither team gets the 100-point bonus.
+Il peut arriver que personne ne parvienne à se déclarer avant que le stock soit épuisé. Dans ce cas, le jeu s'arrête au moment où quelqu'un souhaite piocher des cartes du stock, mais il n'y a plus de cartes. Cependant, le jeu peut continuer sans stock tant que chaque joueur est capable et disposé à prendre la défausse du joueur précédent. Si le jeu se termine parce que le stock est épuisé, la donne est comptée de la manière habituelle, sauf bien sûr qu'aucune équipe ne reçoit le bonus de 100 points.
 
-The play can also end if one player has a hand consisting entirely of sevens, but at least one team has not completed its sevens canasta. If possible, you must play to avoid this situation: you are not allowed to meld all your other cards, leaving yourself only with sevens; you must keep at least one legal discard. However, if you discarded your last non-seven on your previous turn, and you then draw two more sevens from the stock pile, you have no way to discard. In this situation you may meld all but one of your sevens (if legal) and then because you have no discard the play ends. Both teams score in the usual way and no one gets the 100-point bonus for going out.
+Le jeu peut aussi se terminer si un joueur a une main composée uniquement de sept, alors qu'au moins une équipe n'a pas complété son canasta de sept. Si possible, vous devez jouer pour éviter cette situation : vous n'êtes pas autorisé à poser toutes vos autres cartes, ne vous laissant que des sept ; vous devez conserver au moins une défausse légale. Cependant, si vous avez défaussé votre dernier non-sept lors de votre tour précédent, et que vous piochez ensuite deux sept supplémentaires du stock, vous n'avez aucun moyen de défausser. Dans cette situation, vous pouvez poser tous vos sept sauf un (si légal) et, comme vous n'avez pas de défausse, le jeu s'arrête. Les deux équipes marquent de la manière habituelle et personne ne reçoit le bonus de 100 points pour s'être déclaré.
 
-When either team reaches 20,000 points or more at the end of a hand, the team with more points wins. In case of equality, another hand is played.
+Quand l'une des équipes atteint 20 000 points ou plus à la fin d'une donne, l'équipe ayant le plus de points gagne. En cas d'égalité, une autre donne est jouée.
 
 ## Railroad Canasta
 
-*This section is based on a contribution from Gorgon.*
+*Cette section est basée sur une contribution de Gorgon.*
 
-As in Pennies from Heaven, most of the basic rules of Canasta apply. The exceptions are as follows:
+Comme pour Pennies from Heaven, la plupart des règles de base du Canasta s'appliquent. Les exceptions sont les suivantes :
 
-**Players and Cards**
-Two or more people can play and two decks of cards are used **per person**, including the jokers, of which there may be two or more per deck.
-Deal and Play
+**Joueurs et cartes**
+Deux personnes ou plus peuvent jouer et deux jeux de cartes sont utilisés **par personne**, y compris les jokers, dont il peut y avoir deux ou plus par jeu.
+Distribution et jeu
 
-As in some versions of Hand and Foot, everyone deals their own cards. All the cards are put in a big pile on the table and each player counts out the nember of cards they need: 13 cards for their hand and 11 for their kitty.
-For convenience, the stock is arranged into several piles. When you draw from the stock you take **two** cards. These can be taken from the top of any stock pile(s).
+Comme dans certaines versions de Hand and Foot, chacun distribue ses propres cartes. Toutes les cartes sont mises en gros tas sur la table et chaque joueur compte le nombre de cartes dont il a besoin : 13 pour sa main et 11 pour son pied.
+Pour la commodité, le stock est disposé en plusieurs tas. Lorsque vous piochez du stock, vous prenez **deux** cartes. Celles-ci peuvent être prises du dessus de n'importe quel(s) tas.
 
-CanastasOnce a meld contains 7 cards, it is a closed canasta, and no more cards can be added to it. If you have three more cards of that rank, you can meld them as a new set.
-There are four kinds of canasta: 
+Canastas : une fois qu'une pose contient 7 cartes, c'est un canasta fermé, et aucune carte supplémentaire ne peut y être ajoutée. Si vous avez trois cartes supplémentaires de ce rang, vous pouvez les poser comme un nouvel ensemble.
+Il y a quatre sortes de canasta :
 
-- **red**, consisting of 7 natural cards of the same rank; 
+- **rouge**, composé de 7 cartes naturelles de même rang ;
 
-- **black**, consisting of at least 4 natural cards of the same rank and the remainder wild;
+- **noir**, composé d'au moins 4 cartes naturelles de même rang et le reste de cartes Joker ;
 
-- **wild**, consisting of 7 wild cards; 
+- **Joker**, composé de 7 cartes Joker ;
 
-- **seven canasta**, which is just that - a canasta of seven sevens.
+- **canasta de sept**, c'est-à-dire un canasta de sept sept.
 
-A closed red or black canasta is indicated by squaring up the cards with a red or black natural card on top.
-Picking up the Kitty
-You are not allowed to look at your 11 card kitty until after you have discarded for the turn
-in which you complete your first non-black canasta. At that point you pick up your kitty and add it to your hand.
-**Red Threes**
-****Red threes never count against a player, always in favour. There is no extra bonus for having all of them - they just count +100 each. 
+Un canasta rouge ou noir fermé est indiqué en alignant les cartes avec une carte naturelle rouge ou noire sur le dessus.
+Ramasser le pied
+Vous n'êtes pas autorisé à regarder votre pied de 11 cartes tant que vous n'avez pas défaussé lors du tour
+où vous complétez votre premier canasta non noir. À ce moment, vous ramassez votre pied et l'ajoutez à votre main.
+**Trois rouges**
+Les trois rouges ne comptent jamais contre un joueur, toujours en sa faveur. Il n'y a pas de bonus supplémentaire pour les avoir tous — ils comptent simplement +100 chacun.
 
-Black Threes
-Black threes stop the next player from taking the pile as usual. When going out, and making a meld of black threes, you can have as many as you want - this is the only meld that is not limited to seven cards. You do not count a canasta bonus for a meld of black threes, however.
-Going out
-To go out, you must have completed at least one 7 card canasta of each of the four types.
-You go out by melding all your cards except one, and discarding the last card. You are not allowed to meld everything and leave yourself with no discard. When a player goes out the play ends and the hand is scored.
-Scoring
-The bonuses are:
+Trois noirs
+Les trois noirs empêchent le joueur suivant de prendre la pile comme d'habitude. Lorsqu'on se déclare et qu'on fait une pose de trois noirs, vous pouvez en avoir autant que vous voulez — c'est la seule pose qui n'est pas limitée à sept cartes. Cependant, on ne compte pas de bonus de canasta pour une pose de trois noirs.
+Se déclarer
+Pour vous déclarer, vous devez avoir complété au moins un canasta de 7 cartes de chacun des quatre types.
+Vous vous déclarez en posant toutes vos cartes sauf une et en défaussant la dernière carte. Vous n'êtes pas autorisé à tout poser et à ne rien avoir à défausser. Quand un joueur se déclare, le jeu s'arrête et la donne est comptée.
+Comptage des points
+Les bonus sont :
 
-- 100 for each red three
+- 100 pour chaque trois rouge
 
-- 100 for going out
+- 100 pour s'être déclaré
 
-- 300 for each black canasta
+- 300 pour chaque canasta noir
 
-- 500 for each red canasta
+- 500 pour chaque canasta rouge
 
-- 1000 for each wild canasta
+- 1000 pour chaque canasta Joker
 
-- 1500 for each 7 canasta
+- 1500 pour chaque canasta de 7
 
-The cards you have melded also score their usual values (50, 20, 10, 5) and you subtract points for any cards left in your hand, or in your kitty if you have not picked it up.
+Les cartes que vous avez posées marquent aussi leurs valeurs habituelles (50, 20, 10, 5) et vous soustrayez des points pour les cartes restant dans votre main, ou dans votre pied si vous ne l'avez pas encore ramassé.
 
-## Bain Hand and Foot
+## Hand and Foot de Bain
 
-*This version was contributed by Barbara Bain*
+*Cette version a été contribué par Barbara Bain*
 
-This game is included here because it has more in common with Pennies from Heaven than with the games described on the Hand and Foot page. It is for 4 players in fixed partnerships using 4 decks of cards complete with two jokers per deck.
+Ce jeu est inclus ici parce qu'il a plus en commun avec Pennies from Heaven qu'avec les jeux décrits sur la page Hand and Foot. Il se joue à 4 joueurs en partenariats fixes en utilisant 4 jeux de cartes complets avec deux jokers par jeu.
 
-Each player is dealt a hand of 15 cards and a foot of 13 cards. Before play begins, you may take one look at your foot of 13 cards, and it must then be set aside face down for later use.
+Chaque joueur reçoit une main de 15 cartes et un pied de 13 cartes. Avant que le jeu ne commence, vous pouvez jeter un coup d'œil à votre pied de 13 cartes, qui doit ensuite être mis de côté face cachée pour une utilisation ultérieure.
 
-The game continues until one team wins by having a cumulative score of 20,000 or more points. The minimum initial meld requirement depends on your team's score: 
+Le jeu continue jusqu'à ce qu'une équipe gagne en ayant un score cumulé de 20 000 points ou plus. L'exigence minimale de première pose dépend du score de votre équipe :
 
-| Your score | | Minimum meld |
-| negative | ...... | no minimum |
-| 0 to 4,999 | ...... | 50 |
-| 5,000 to 9,999 | ...... | 90 |
-| 10,000 to 14,999 | ...... | 120 |
-| 15,000 to 20,000 | ...... | 150 |
+| Votre score | | Pose minimale |
+| négatif | ...... | aucun minimum |
+| 0 à 4 999 | ...... | 50 |
+| 5 000 à 9 999 | ...... | 90 |
+| 10 000 à 14 999 | ...... | 120 |
+| 15 000 à 20 000 | ...... | 150 |
 
-In melds you must have more normal cards than wild cards - so there can be up to 3 wild cards in a dirty canasta, and up to two wild cards in a dirty meld of five or six cards.
+Dans les poses, vous devez avoir plus de cartes normales que de cartes Joker — donc il peut y avoir jusqu'à 3 cartes Joker dans un canasta mixte, et jusqu'à deux cartes Joker dans une pose mixte de cinq ou six cartes.
 
-*[It is not stated, but probably, as in other versions of Hand and Foot, a player draws two cards from the stock pile on each turn. We may also assume that the discard pile can only be taken by a player who has two natural cards matching the top card of the pile.]*
+*[Il n'est pas précisé, mais probablement, comme dans d'autres versions de Hand and Foot, un joueur pioche deux cartes du stock à chaque tour. On peut aussi supposer que la pile de défausse ne peut être prise que par un joueur ayant deux cartes naturelles correspondant à la carte du dessus de la pile.]*
 
-If a joker or deuce is discarded, it is placed crosswise on the discard pile so that it remains visible when other cards are discarded on top of it. When taking the discard, a player takes all the cards down to and including the next discarded joker or deuce. If there are none, the whole pile is taken.
+Si un joker ou un deux est défaussé, il est placé en travers sur la pile de défausse de sorte qu'il reste visible quand d'autres cartes sont défaussées par-dessus. Lors de la prise de la pile, un joueur prend toutes les cartes jusqu'à et y compris le prochain joker ou deux défaussé. S'il n'y en a pas, toute la pile est prise.
 
-If you make the initial meld for your team, you are not allowed to complete a canasta until your partner has completed a canasta. Having made a canasta, your partner immediately picks up her 13 foot cards and adds them to her hand cards. You may now complete a canasta and as soon as you have done so you may also pick up your 13 card 'foot' and add it to your hand. Once both partners have made canastas and picked up their foot, both are free to complete further canastas when they wish to, and to go out when they satisfy the conditions.
+Si vous faites la première pose pour votre équipe, vous n'êtes pas autorisé à compléter un canasta tant que votre partenaire n'a pas complété un canasta. Ayant fait un canasta, votre partenaire ramasse immédiatement ses 13 cartes de pied et les ajoute à sa main. Vous pouvez maintenant compléter un canasta et dès que vous l'avez fait, vous pouvez aussi ramasser votre « pied » de 13 cartes et l'ajouter à votre main. Une fois que les deux partenaires ont fait des canastas et ramassé leur pied, les deux sont libres de compléter d'autres canastas quand ils le souhaitent, et de se déclarer quand ils satisfont aux conditions.
 
-In order to go out you must have at least: 
+Pour vous déclarer, vous devez avoir au moins :
 
-- one canasta of seven sevens (no wild cards)
+- un canasta de sept sept (sans carte Joker)
 
-- one canasta of seven wild cards
+- un canasta de sept cartes Joker
 
-- one 'black' canasta (that is one which contains 1-3 wild cards)
+- un canasta « noir » (c'est-à-dire un contenant 1 à 3 cartes Joker)
 
-- one 'red' canasta (that is a canasta without any wild cards)
+- un canasta « rouge » (c'est-à-dire un canasta sans carte Joker)
 
-In addition, you cannot go out until all eight red threes are face up on the table. 
+De plus, vous ne pouvez pas vous déclarer tant que les huit trois rouges ne sont pas face ouverte sur la table.
 
-To go out, you must be able to meld all your cards except one and discard your last card. You may then (if you wish) ask your partner for permission to go out and must follow partner's decision, *[or presumably if you wish to you can just go out without consulting partner]*.
+Pour vous déclarer, vous devez être capable de poser toutes vos cartes sauf une et de défausser votre dernière carte. Vous pouvez alors (si vous le souhaitez) demander à votre partenaire la permission de vous déclarer et devez suivre la décision du partenaire, *[ou vraisemblablement, si vous le souhaitez, vous pouvez simplement vous déclarer sans consulter le partenaire]*.
 
-The bonus scores are:
+Les bonus sont :
 
-| Canasta of sevens | ........ | 1500 |
-| Canasta of Wild Cards | ........ | 1000 |
-| Red Canasta | ........ | 500 |
-| Black Canasta | ........ | 300 |
-| Bonus for going out | ........ | 200 |
-| Red Threes | ........ | 100 each |
+| Canasta de sept | ........ | 1500 |
+| Canasta de cartes Joker | ........ | 1000 |
+| Canasta rouge | ........ | 500 |
+| Canasta noir | ........ | 300 |
+| Bonus pour s'être déclaré | ........ | 200 |
+| Trois rouges | ........ | 100 chacun |
 
-In order for your red threes to count plus 100, you must have a complete canasta of sevens when the play is finished. If you do not, the red threes your side has put on the table will count 100 points each against you.
+Pour que vos trois rouges comptent +100, vous devez avoir un canasta de sept complet lorsque le jeu est terminé. Si ce n'est pas le cas, les trois rouges que votre équipe a posés sur la table compteront 100 points chacun contre vous.
 
-Once you have your canasta of seven sevens on the table, you may start a "garbage pile" on your side of the table. In the garbage pile you can meld any cards of ranks for which you already have a complete canasta. The values of the cards in your garbage pile will be included in your final score.
+Une fois que vous avez votre canasta de sept sept sur la table, vous pouvez commencer une « poubelle » de votre côté de la table. Dans la poubelle, vous pouvez poser n'importe quelles cartes de rangs pour lesquels vous avez déjà un canasta complet. La valeur des cartes dans votre poubelle sera incluse dans votre score final.
 
-Sevens may **never** be discarded or placed in the garbage pile. If after completing your canasta of sevens you draw another one you must hold onto it, and it will prevent you from going out, even if you have met all the other requirements. However, if you manage to collect three sevens you may start a second meld of sevens and get rid of them that way. If you reduce your hand to just one seven and you then draw two sevens from the stock, the game automatically ends.
+Les sept ne peuvent **jamais** être défaussés ni placés dans la poubelle. Si après avoir complété votre canasta de sept vous piochez un autre sept, vous devez le conserver, et il vous empêchera de vous déclarer, même si vous avez satisfait à toutes les autres exigences. Cependant, si vous parvenez à collecter trois sept, vous pouvez commencer une seconde pose de sept et vous en débarrasser ainsi. Si vous réduisez votre main à un seul sept et que vous piochez ensuite deux sept du stock, le jeu s'arrête automatiquement.
 
-## Other Pennies from Heaven Web Pages
+## Autres pages web sur Pennies from Heaven
 
-Randy Rasa's Rummy-Games.com site includes pages on [Pennies from Heaven](http://www.rummy-games.com/rules/pennies-from-heaven.html) and the similar game [Mexicana](http://www.rummy-games.com/rules/mexicana.html).
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Hand and Foot > Pennies from Heaven
+Le site Rummy-Games.com de Randy Rasa inclut des pages sur [Pennies from Heaven](http://www.rummy-games.com/rules/pennies-from-heaven.html) et le jeu similaire [Mexicana](http://www.rummy-games.com/rules/mexicana.html).

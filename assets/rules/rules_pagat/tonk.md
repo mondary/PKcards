@@ -2,220 +2,221 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A popular American form of five-card Rummy that is often played for stakes.
+**Type :** Rami
+**But :** Une forme américaine populaire de rami à cinq cartes, souvent joué pour de l'argent.
+**Autres noms :** Tunk
 
 ---
 
-This page was written by John McLeod and is based on various sources, including articles posted in rec.games.playing-cards, and information on variations from many correspondents.
+Cette page a été écrite par John McLeod et repose sur diverses sources, notamment des articles publiés dans rec.games.playing-cards, et des informations sur les variantes de nombreux correspondants.
 
 ## Introduction
 
-Tonk, also known as Tunk is a kind of knock rummy played in the USA. It was a favourite with jazz players in the 1930's and 1940's, as attested by at least two members of Duke Ellington's orchestra (see references), and may have given its name to one of Billy Strayhorn's piano compositions, written in 1940. The Duke recorded Tonk, with Strayhorn, in 1946. Some say that it originated in the Philippines, which is plausible since the related 12-card game Tong-Its is currently played there.
+Tonk, aussi connu sous le nom de Tunk, est une sorte de rami par annonce joué aux États-Unis. C'était un favori des musiciens de jazz dans les années 1930 et 1940, comme en témoignent au moins deux membres de l'orchestre de Duke Ellington (voir références), et il a peut-être donné son nom à l'une des compositions pour piano de Billy Strayhorn, écrite en 1940. Le Duke a enregistré Tonk, avec Strayhorn, en 1946. Certains disent qu'il trouve son origine aux Philippines, ce qui est plausible puisque le jeu apparenté à 12 cartes Tong-Its y est actuellement joué.
 
-Tonk has since become more widespread, and there are numerous variations. Nevertheless, many players seem certain that their own way of playing is the only correct one. Therefore, before starting a game, it is wise to agree what house rules are in force. I have tried to give a typical version of the game first, followed by a selection of the alternative rules that may be encountered.
+Tonk est depuis devenu plus répandu, et il existe de nombreuses variantes. Néanmoins, de nombreux joueurs semblent convaincus que leur façon de jouer est la seule correcte. Par conséquent, avant de commencer une partie, il est judicieux de s'accorder sur les règles de maison en vigueur. J'ai essayé de donner d'abord une version typique du jeu, suivie d'une sélection des règles alternatives qui peuvent être rencontrées.
 
-## Players, Cards and Stakes
+## Joueurs, cartes et mises
 
-In theory any number can play, but it is widely agreed that Tonk is best for two or three players, maybe four. Since there is some scope for hustling collusion when more than two people play, some prefer to play with two players only. 
+En théorie, n'importe quel nombre peut jouer, mais il est généralement admis que Tonk est meilleur à deux ou trois joueurs, voire quatre. Comme il y a une certaine possibilité de collusion lorsqu'il y a plus de deux joueurs, certains préfèrent jouer à deux joueurs uniquement.
 
-A standard 52 card deck is used, without jokers. The cards have values as follows: picture cards count 10 points, aces count 1 point and other cards count face value.
+Un jeu standard de 52 cartes est utilisé, sans joker. Les cartes ont les valeurs suivantes : les figures comptent 10 points, les as comptent 1 point et les autres cartes comptent leur valeur nominale.
 
-Tonk is usually played for money. Before beginning, the players should agree on the basic stake (the amount which the winner of each hand will normally be paid by each of the other players). In certain cases the winner can win a double stake - this is generally known as a **tonk**.
+Tonk est généralement joué pour de l'argent. Avant de commencer, les joueurs doivent s'accorder sur la mise de base (le montant que le gagnant de chaque main recevra normalement de chaque autre joueur). Dans certains cas, le gagnant peut gagner une double mise — on appelle généralement cela un **tonk**.
 
-The cards are cut to decide who should deal first. The highest card deals; if there are more than two players the player who cut the next highest card sits to the dealer's left, and so on around. If a new player joins a game that is underway, the new player sits to the dealer's right.
+Les cartes sont coupées pour décider qui distribue en premier. La carte la plus haute donne ; s'il y a plus de deux joueurs, le joueur qui a coupé la prochaine carte la plus haute s'assoit à la gauche du donneur, et ainsi de suite. Si un nouveau joueur rejoint une partie en cours, le nouveau joueur s'assoit à la droite du donneur.
 
-## The Deal
+## La donne
 
-Five cards are dealt to each player, clockwise, one at a time. The next card is placed face up on the table to start the **discard pile**, and the remaining undealt cards are placed face down in a stack beside the discard pile to form the **stock**.
+Cinq cartes sont distribuées à chaque joueur, dans le sens des aiguilles d'une montre, une à la fois. La carte suivante est placée face en haut sur la table pour commencer la **pile de défausse**, et les cartes non distribuées restantes sont placées face en bas dans une pile à côté de la pile de défausse pour former la **pioche**.
 
-Any player whose initial hand contains 49 or 50 points must declare this immediately and show their cards: this is sometimes known as a "tonk". In this case the hand is not played and the player with 49 or 50 is paid **twice** the basic stake by each of the other players. If more than one player has 49 or 50, the hand is a draw - there are no payments, the cards are thrown in and the next player deals. 
+Tout joueur dont la main initiale contient 49 ou 50 points doit le déclarer immédiatement et montrer ses cartes : cela est parfois appelé un « tonk ». Dans ce cas, la main n'est pas jouée et le joueur ayant 49 ou 50 est payé **deux fois** la mise de base par chacun des autres joueurs. Si plus d'un joueur a 49 ou 50, la main est nulle — il n'y a aucun paiement, les cartes sont jetées et le joueur suivant distribue.
 
-## The Play
+## Le jeu
 
-If no one claims an immediate win based on the points in their hand the play begins. The aim is, by drawing and discarding, to form your cards into **spreads**, which can be **books** of 3 or 4 equal ranked cards or **runs** of 3 or more cards in suit, or to dispose of your cards by adding them to existing spreads. You win if you manage to get rid of all of your cards, or if you have the lowest value of unmatched cards when someone stops the play. Note that once the play has begun, it is no longer any use to collect 49 or more points; this only wins in your original hand, before the play starts.
+Si personne ne réclame une victoire immédiate basée sur les points de sa main, le jeu commence. Le but est, en piochant et en défaussant, de former vos cartes en **posées**, qui peuvent être des **carrés** de 3 ou 4 cartes de même rang ou des **suites** de 3 cartes ou plus d'une même couleur, ou de se débarrasser de vos cartes en les ajoutant à des posées existantes. Vous gagnez si vous réussissez à vous débarrasser de toutes vos cartes, ou si vous avez la valeur la plus basse de cartes non posées quand quelqu'un arrête le jeu. Notez qu'une fois le jeu commencé, il n'est plus utile de collecter 49 points ou plus ; cela ne gagne qu'avec votre main initiale, avant le début du jeu.
 
-The person to the left of the dealer plays first and the turn to play passes clockwise. At your turn, you have two options.
+Le joueur à la gauche du donneur joue en premier et le tour passe dans le sens des aiguilles d'une montre. À votre tour, vous avez deux options.
 
-- If you wish, you can end the play at the **start** of your turn by placing all your cards face up on the table. This is called **dropping** (or **going out low**, or sometimes **knocking**). By doing this you are claiming to have a lower point count total in your hand than any other player.
+- Si vous le souhaitez, vous pouvez arrêter le jeu au **début** de votre tour en posant toutes vos cartes face en haut sur la table. C'est ce qu'on appelle **se coucher** (ou **sortir bas**, ou parfois **frapper**). En faisant cela, vous prétendez avoir un total de points inférieur à celui de tout autre joueur.
 
-- If you choose not to drop, you must either draw ("pluck") the top card from the face down stock, or take the top card of the discard pile into your hand. You may then be able to reduce your hand by putting a spread face up on the table, or by adding to a spread already on the table. You end your turn by discarding a card face up on top of the discard pile.
+- Si vous choisissez de ne pas vous coucher, vous devez soit piocher (« prendre ») la carte du dessus de la pioche face en bas, soit prendre la carte du dessus de la pile de défausse dans votre main. Vous pouvez alors réduire votre main en posant une posée face en haut sur la table, ou en ajoutant à une posée déjà sur la table. Vous terminez votre tour en défaussant une carte face en haut sur la pile de défausse.
 
-During the game only the top card of the discard pile should be visible. Players are not allowed to look through the pile to find out what cards were discarded earlier.
+Pendant le jeu, seule la carte du dessus de la pile de défausse doit être visible. Les joueurs ne sont pas autorisés à fouiller la pile pour voir quelles cartes ont été défaussées.
 
-If after drawing from the stock or discard pile you have a **spread** of three or more cards, you may place them face up on the table. These cards then no longer count towards the total in your hand. There are two types of spread:
+Si après avoir pioché de la pioche ou de la pile de défausse vous avez une **posée** de trois cartes ou plus, vous pouvez les placer face en haut sur la table. Ces cartes ne comptent plus dans le total de votre main. Il y a deux types de posées :
 
-- 
-A **book** consists of three or four cards of the same rank, such as **![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q** or **![heart](../images/internat/heart.gif)4-![club](../images/internat/club.gif)4-![diamond](../images/internat/diamond.gif)4-![spade](../images/internat/spade.gif)4**.
+-
+Un **carré** se compose de trois ou quatre cartes de même rang, comme **![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D** ou **![cœur](../images/internat/heart.gif)4-![trèfle](../images/internat/club.gif)4-![carreau](../images/internat/diamond.gif)4-![pique](../images/internat/spade.gif)4**.
 
-- 
-A **run** consists of three or more consecutive cards of the same suit, such as **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3** or **![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J**. The ace counts as low, next to the two not the king.
+-
+Une **suite** se compose de trois cartes consécutives ou plus de la même couleur, comme **![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)2-![pique](../images/internat/spade.gif)3** ou **![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)V**. L'as compte comme bas, à côté du deux et non du roi.
 
-Another possibility to reduce the cards in your hand is to extend a spread previously put down by yourself or another player. Putting down a card to extend a spread is sometimes called **hitting**. For example if there is **![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)7** on the table and you have **![club](../images/internat/club.gif)4** or **![club](../images/internat/club.gif)8** in your hand you can put it on the table, adding it to the run. Cards can only be put down like this in your own turn, after drawing and before discarding.
+Une autre possibilité pour réduire les cartes dans votre main est d'étendre une posée précédemment posée par vous-même ou un autre joueur. Poser une carte pour étendre une posée est parfois appelé **frapper**. Par exemple, s'il y a **![trèfle](../images/internat/club.gif)5-![trèfle](../images/internat/club.gif)6-![trèfle](../images/internat/club.gif)7** sur la table et que vous avez **![trèfle](../images/internat/club.gif)4** ou **![trèfle](../images/internat/club.gif)8** dans votre main, vous pouvez la poser sur la table en l'ajoutant à la suite. Les cartes ne peuvent être posées de cette façon qu'à votre propre tour, après avoir pioché et avant de défausser.
 
-If by putting down cards, you get rid of all the cards in your hand (by making a second spread or using all your cards to hit existing spreads), the play ends and you win the hand (see below). Otherwise, you complete your turn by discarding one card face up on top of the discard pile. If this leaves you with no cards you win; otherwise the turn passes to the next player to your left and play continues.
+En posant des cartes, si vous vous débarrassez de toutes les cartes de votre main (en faisant une seconde posée ou en utilisant toutes vos cartes pour frapper des posées existantes), le jeu s'arrête et vous gagnez la main (voir ci-dessous). Sinon, vous terminez votre tour en défaussant une carte face en haut sur la pile de défausse. Si cela ne vous laisse plus aucune carte, vous gagnez ; sinon, le tour passe au joueur suivant à votre gauche et le jeu continue.
 
-If no one ends the play by dropping (going out low) or playing all their cards, eventually the stock runs out. After a player draws the last card of the stock, play can continue so long as each player is prepared to take the previous player's discard. However, as soon as a player wishes to draw a card from the stock when it is empty, the play ends. 
+Si personne ne met fin au jeu en se couchant (sortant bas) ou en jouant toutes ses cartes, la pioche finit par s'épuiser. Après qu'un joueur a pioché la dernière carte de la pioche, le jeu peut continuer tant que chaque joueur est prêt à prendre la défausse du joueur précédent. Cependant, dès qu'un joueur souhaite piocher une carte de la pioche alors qu'elle est vide, le jeu s'arrête.
 
-## End of the play - payments
+## Fin du jeu — paiements
 
-Assuming that no one claims 49 or 50 points immediately after the deal, the play can end in four ways.
+En supposant que personne ne réclame 49 ou 50 points immédiatement après la donne, le jeu peut se terminer de quatre façons.
 
-Someone gets rid of all their cards without a final discard
-This may happen as a result of a player putting down a second spread or hitting existing spreads on three occasions. This is usually called a **tonk**, or the player is said to **"tonk out"**. The winner is paid a double stake by each other player.
-Someone runs out of cards by discarding their last card
-The player with no cards wins and each of the other players pays the agreed basic stake to the winner.
-Someone drops or goes down or knocks at the start of their turn. 
-In this case everyone exposes the cards that remain in their hands and adds up the values of the cards they held. 
+Quelqu'un se débarrasse de toutes ses cartes sans défausse finale
+Cela peut se produire lorsqu'un joueur pose une seconde posée ou frappe des posées existantes. Cela s'appelle généralement un **tonk**, ou on dit que le joueur **« sort en tonk »**. Le gagnant reçoit une double mise de chaque autre joueur.
+Quelqu'un n'a plus de cartes en défaussant sa dernière carte
+Le joueur sans cartes gagne et chaque autre joueur paie la mise de base convenue au gagnant.
+Quelqu'un se couche ou sort bas ou frappe au début de son tour.
+Dans ce cas, tout le monde expose les cartes restantes dans sa main et additionne les valeurs des cartes détenues.
 
-- If the player who dropped has the lowest point count, that player wins and is paid the basic stake by each of the other players. 
+- Si le joueur qui s'est couché a le total de points le plus bas, ce joueur gagne et reçoit la mise de base de chaque autre joueur.
 
-- If the player who dropped does not have the lowest count, the player who dropped must pay **twice** the basic stake to everyone who has an equal or lower count. The player who actually had the lowest count, as well as receiving the double stake from the dropper, also receives the basic stake from everyone else. In the case of a tie for lowest between two players other than the one who dropped, both are paid a double stake by the dropper and a single stake by everyone else. This is sometimes known as a catch.
+- Si le joueur qui s'est couché n'a pas le total le plus bas, le joueur qui s'est couché doit payer **deux fois** la mise de base à toute personne ayant un total égal ou inférieur. Le joueur qui avait effectivement le total le plus bas, en plus de recevoir la double mise de celui qui s'est couché, reçoit aussi la mise de base de tous les autres. En cas d'égalité pour le total le plus bas entre deux joueurs autres que celui qui s'est couché, tous deux reçoivent une double mise de celui qui s'est couché et une mise simple de tous les autres. C'est parfois appelé une interception.
 
-The stock runs out.
-The player with the lowest count receives the basic stake from each other player.
+La pioche est épuisée.
+Le joueur avec le total le plus bas reçoit la mise de base de chaque autre joueur.
 
-## Variations
+## Variantes
 
-Some play that after the deal, no card is turned up to begin the discard pile. The first player must draw from the stock and the discard pile begins with the first player's discard.
+Certains jouent qu'après la donne, aucune carte n'est retournée pour commencer la pile de défausse. Le premier joueur doit piocher de la pioche et la pile de défausse commence avec la défausse du premier joueur.
 
-Many people play that it is illegal to hold a spread in your hand. As soon as you have a three-card spread you must put it down. This is a strange rule, as in many cases it would impossible for an opponent to detect that the rule had been broken. Some play this rule with the exception that a spread of three aces can be held.
+Beaucoup de gens jouent qu'il est interdit de conserver une posée dans sa main. Dès que vous avez une posée de trois cartes, vous devez la poser. C'est une règle étrange, car dans de nombreux cas il serait impossible pour un adversaire de détecter que la règle a été enfreinte. Certains jouent avec cette règle à l'exception qu'une posée de trois as peut être conservée.
 
-Some play that a player wins a double stake for making a second spread, thus getting rid of all cards without a final discard, but only a single stake for running out of cards by hitting spreads, even if there is no final discard. Others play that you only ever win a single stake for getting rid of all your cards, even if you do it by putting down a second spread.
+Certains jouent qu'un joueur gagne une double mise pour faire une seconde posée, se débarrassant ainsi de toutes les cartes sans défausse finale, mais seulement une mise simple pour vider ses cartes en frappant des posées, même s'il n'y a pas de défausse finale. D'autres jouent que vous ne gagnez jamais qu'une mise simple pour vous débarrasser de toutes vos cartes, même en posant une seconde posée.
 
-Here are five alternative ways of paying if the lowest scoring player is not the player who dropped:
+Voici cinq autres façons de payer si le joueur avec le score le plus bas n'est pas celui qui s'est couché :
 
-- The low scorer collects the basic stake from every other player and double from the player who dropped (so the player who dropped only has to pay one person even if several people beat the dropper's score). 
+- Le joueur avec le score le plus bas perçoit la mise de base de chaque autre joueur et le double de la part du joueur qui s'est couché (donc le joueur qui s'est couché ne paie qu'une seule personne même si plusieurs joueurs battent son score).
 
-- If the player who drops is not the low scorer, the dropper pays everyone's stake to the low scorer.
+- Si le joueur qui s'est couché n'a pas le score le plus bas, celui qui s'est couché paie la mise de tous les joueurs au joueur avec le score le plus bas.
 
-- The dropper pays the basic stake to everyone who has the same or a lower score, and in addition the player with the lowest score collects a basic stake from each other player. This is equivalent to saying that the dropper pays a double stake to the winner, plus a single stake to the winner for everyone who had an equal or better score, and the winner collects a single stake from everyone who had a worse score than the dropper.
+- Celui qui s'est couché paie la mise de base à chaque joueur ayant le même score ou un score inférieur, et en plus le joueur avec le score le plus bas perçoit la mise de base de chaque autre joueur. Cela équivaut à dire que celui qui s'est couché paie une double mise au gagnant, plus une mise simple au gagnant pour chaque joueur ayant un score égal ou meilleur, et le gagnant perçoit une mise simple de chaque joueur ayant un score pire que celui qui s'est couché.
 
-- The player who dropped simply pays a double stake to each other player.
+- Le joueur qui s'est couché paie simplement une double mise à chaque autre joueur.
 
-- The player who dropped pays 5 times the stake to the player with the lowest count and there are no other payments. The player who dropped loses ties as usual; if two other players tie for lowest count, the one nearest to the left of the dealer is paid.
+- Le joueur qui s'est couché paie 5 fois la mise au joueur avec le score le plus bas et il n'y a pas d'autres paiements. Le joueur qui s'est couché perd les égalités comme d'habitude ; si deux autres joueurs sont à égalité pour le score le plus bas, celui le plus proche à la gauche du donneur est payé.
 
-Some play that if the stock runs out, the hand is dead and there are no payments.
+Certains jouent que si la pioche est épuisée, la main est morte et il n'y a aucun paiement.
 
-Many people play with **waiting**. This works as follows:
+Beaucoup de gens jouent avec de l'**attente**. Cela fonctionne comme suit :
 
-- If you put down a new spread, you cannot drop on any of your next three turns; you must wait until the start of your fourth turn after putting down your book or run before you are allowed to drop. This is to make it less easy for the first person who puts down, reducing their hand to two cards, to win simply by dropping at their next turn when the other player(s) still have five cards.
+- Si vous posez une nouvelle posée, vous ne pouvez pas vous coucher pendant vos trois prochains tours ; vous devez attendre le début de votre quatrième tour après avoir posé votre carré ou votre suite avant d'être autorisé à vous coucher. C'est pour rendre moins facile la tâche de la première personne qui pose, réduisant sa main à deux cartes, de gagner simplement en se couchant à son prochain tour alors que les autres joueurs ont encore cinq cartes.
 
-- If you "hit" someone by adding a card to their spread, they cannot drop in their next turn; they must wait until the start of their second turn after you hit them before they are allowed to drop. This provides a way of delaying someone you think is about to drop until you can improve your own hand. Also, if you hit your own spread, then you yourself cannot drop at your next turn, but must wait another turn.
+- Si vous « frappez » quelqu'un en ajoutant une carte à sa posée, il ne peut pas se coucher à son prochain tour ; il doit attendre le début de son deuxième tour après que vous l'ayez frappé avant d'être autorisé à se coucher. Cela fournit un moyen de retarder quelqu'un que vous pensez sur le point de se coucher jusqu'à ce que vous puissiez améliorer votre propre main. Aussi, si vous frappez votre propre posée, vous-même ne pouvez pas vous coucher à votre prochain tour, mais devez attendre un tour supplémentaire.
 
-- Waiting is cumulative; if you put down a spread and are then hit, or if you are hit twice, you add together the number of rounds you have to wait.
+- L'attente est cumulative ; si vous posez une posée et êtes ensuite frappé, ou si vous êtes frappé deux fois, vous additionnez le nombre de tours que vous devez attendre.
 
-- Waiting does not stop you from winning by getting rid of all your cards - any time that you have no cards in your hand, you automatically win without needing to drop.
+- L'attente ne vous empêche pas de gagner en vous débarrassant de toutes vos cartes — à tout moment où vous n'avez plus de cartes dans votre main, vous gagnez automatiquement sans avoir à vous coucher.
 
-Some play that if you are hit more than once in the same round of play, you only have to wait one turn. 
+Certains jouent que si vous êtes frappé plus d'une fois dans le même tour, vous n'avez à attendre qu'un seul tour.
 
-There are variations on the number of rounds you have to wait. For example, some play that if you are hit you must wait three extra rounds, not one. Some play that being hit not only stops you going out low, but also prevents you from winning by getting rid of all your cards
-on your next turn.
+Il existe des variantes sur le nombre de tours d'attente. Par exemple, certains jouent que si vous êtes frappé, vous devez attendre trois tours supplémentaires, pas un. Certains jouent qu'être frappé vous empêche non seulement de sortir bas, mais aussi de gagner en vous débarrassant de toutes vos cartes
+à votre prochain tour.
 
-Some play that if you are dealt 50 points at the start you are paid a double stake, but if you have 49 points you are only paid a single stake. If one player has 50 and another 49, only the player with 50 points is paid.
+Certains jouent que si vous recevez 50 points au début, vous êtes payé d'une double mise, mais si vous avez 49 points, vous n'êtes payé que d'une mise simple. Si un joueur a 50 et un autre 49, seul le joueur avec 50 points est payé.
 
-Some play that if you are dealt a hand containing 15 points or fewer, you must immediately declare it (as with 49 or 50) and you are immediately paid a double stake by each other player (unless someone else also has an automatic win (with 49, 50 or 15 or fewer) in which case the hand is thrown in without payment. Others play that if you are dealt a hand containing **9** points or fewer, you are automatically paid a **triple** stake by each of the other players.
+Certains jouent que si vous recevez une main contenant 15 points ou moins, vous devez la déclarer immédiatement (comme pour 49 ou 50) et vous êtes immédiatement payé d'une double mise par chaque autre joueur (sauf si quelqu'un d'autre a aussi une victoire automatique (49, 50 ou 15 ou moins) auquel cas la main est jetée sans paiement). D'autres jouent que si vous recevez une main contenant **9** points ou moins, vous êtes automatiquement payé d'une **triple** mise par chaque autre joueur.
 
-One correspondent reports a version in which a double stake is played for 9 or fewer points in one's initial hand, but not for more than 9, nor for 49 or 50. Another writes that an initial hand with 13 or fewer points is an automatic win.
-Scott Sauri, who plays in Washington DC, reports that an initial tonk is possible with 49 or 50 points or with 11 or fewer. If more than one player tonks with different totals, the best tonk is paid: 50 beats 49, 11 beats 50, and apart from that the lowest number is best.
+Un correspondant rapporte une version dans laquelle une double mise est jouée pour 9 points ou moins dans la main initiale, mais pas pour plus de 9, ni pour 49 ou 50. Un autre écrit qu'une main initiale avec 13 points ou moins est une victoire automatique.
 
-Sean from Newark, New Jersey plays that an initial hand of 50, 49 or 13 or fewer points wins double. 50 beats 49, which beats 13 or below. If more than one player is under 13 the lowest count wins. In case of a tie, the nearest to the left of the dealer wins. In this game there is also a special payment for going out with two spreads of your own on your first turn: this earns a quadruple payment. This special payment does not apply to a player who goes out with just one spread and gets rid of his remaining cards by hitting another player's spread and discarding.
+Scott Sauri, qui joue à Washington DC, rapporte qu'un tonk initial est possible avec 49 ou 50 points ou avec 11 ou moins. Si plus d'un joueur fait un tonk avec des totaux différents, le meilleur tonk est payé : 50 bat 49, 11 bat 50, et à part cela le nombre le plus bas est le meilleur.
 
-Phil, from Baton Rouge, Louisiana, tells me that there, Tonk is played with a 40 card pack, lacking 8's, 9's and 10's. In runs the seven is next to the jack, so 6-7-J or 7-J-Q would be valid. At the start of the game, you can tonk with 47 or 50, but not with any other number. (48 and 49 are impossible in any case). This 40 card version of the game also used to be played in the US Army. 
+Sean de Newark, New Jersey, joue qu'une main initiale de 50, 49 ou 13 points ou moins gagne double. 50 bat 49, qui bat 13 ou moins. Si plus d'un joueur est en dessous de 13, le score le plus bas gagne. En cas d'égalité, le plus proche à la gauche du donneur gagne. Dans ce jeu, il y a aussi un paiement spécial pour sortir avec deux posées de son cru à son premier tour : cela rapporte un quadruple paiement. Ce paiement spécial ne s'applique pas à un joueur qui sort avec une seule posée et se débarrasse de ses cartes restantes en frappant la posée d'un autre joueur et en défaussant.
 
-Hank T Hebhoe describes the version of Tonk played in Rushville, Indiana. There are the following differences:
+Phil, de Baton Rouge, Louisiane, me dit que là-bas, Tonk se joue avec un jeu de 40 cartes, sans les 8, 9 et 10. Dans les suites, le sept est à côté du valet, donc 6-7-V ou 7-V-D seraient valides. Au début du jeu, vous pouvez faire un tonk avec 47 ou 50, mais pas avec un autre nombre. (48 et 49 sont impossibles de toute façon). Cette version à 40 cartes du jeu était aussi jouée dans l'armée américaine.
 
-- The terms "drop" and "knock" are not used. To stop the game claiming to have the lowest point count in hand is to "tonk".
+Hank T Hebhoe décrit la version de Tonk jouée à Rushville, Indiana. Voici les différences :
 
-- On the deal (and only on the deal), a hand with five face cards is an **automatic rummy** (this is not called a "tonk" in this version). Tens cannot be used in this situation, and counts of 49 or 15 or fewer do not give an automatic win. 
+- Les termes « se coucher » et « frapper » ne sont pas utilisés. Arrêter le jeu en prétendant avoir le total de points le plus bas en main, c'est faire un « tonk ».
 
-- To set someone on a tonk - i.e. to have an equal or lower score - is called to "bump his head".
+- Lors de la donne (et seulement lors de la donne), une main de cinq figures est un **rami automatique** (ce n'est pas appelé un « tonk » dans cette version). Les 10 ne peuvent pas être utilisés dans cette situation, et les totaux de 49 ou 15 ou moins ne donnent pas de victoire automatique.
 
-- The payoff is a nickel from every player for a successful tonk, a dime for a rum (rummy), where a player gets rid of all their cards. The stakes can be set higher: two bits / four bits, even a dollar / two dollars. 
+- Mettre quelqu'un en échec à un tonk — c'est-à-dire avoir un score égal ou inférieur — s'appelle « lui cogner la tête ».
 
-- If you get your head bumped, you pay double rum (e.g., 20 cents in a nickel/dime game) **only to the player or players who bump your head**, and no other payoffs are made. A player with a higher count than yours does not pay you or anyone else, and you do not pay him or anyone else; he's simply out of the money.
+- Le paiement est de 5 centimes (nickel) de chaque joueur pour un tonk réussi, de 10 centimes (dime) pour un rami (*rummy*), lorsqu'un joueur se débarrasse de toutes ses cartes. Les mises peuvent être plus élevées : deux bits / quatre bits, même un dollar / deux dollars.
 
-- When the deck is down to the same or fewer number of cards as players in the game, it is said to be "boobed." When the deck is "boobed," no player can rummy; you can only tonk. So, for example, if you should happen to rum out when the deck is boobed, your count is down to zero, of course; but after rumming out, you must wait your turn again to tonk your zero hand, by which time another player also may have rummed out. If no one rums out or tonks before the deck is exhausted, the hand with the lowest count wins a tonk when the deck is exhausted. 
+- Si on vous cogne la tête, vous payez un double rami (par ex. 20 cents dans un jeu à 5/10 centimes) **uniquement au joueur ou aux joueurs qui vous ont cogné la tête**, et aucun autre paiement n'est effectué. Un joueur avec un score supérieur au vôtre ne vous paie ni vous ni personne d'autre, et vous ne le payez pas non plus ; il est simplement hors du jeu.
 
-- In case of ties when the deck is exhausted, there is no payoff at all; it's simply a dead hand.
+- Quand le jeu est réduit au même nombre de cartes ou moins que les joueurs en jeu, on dit qu'il est « à sec ». Quand le jeu est « à sec », aucun joueur ne peut faire un rami ; vous ne pouvez que faire un tonk. Donc, par exemple, si vous deviez faire un rami quand le jeu est à sec, votre compte tombe à zéro, bien sûr ; mais après avoir fait un rami, vous devez attendre votre tour à nouveau pour annoncer un tonk avec votre main à zéro, auquel moment un autre joueur a peut-être aussi fait un rami. Si personne ne fait de rami ni de tonk avant que le jeu soit épuisé, la main avec le score le plus bas gagne un tonk quand le jeu est épuisé.
 
-Mike Foulds describes a version of Tonk played by cab drivers in Chicago:
+- En cas d'égalité quand le jeu est épuisé, il n'y a aucun paiement ; c'est simplement une main morte.
 
-- There are **six** wildcards: the four Deuces and the two Jokers.
+Mike Foulds décrit une version de Tonk jouée par les chauffeurs de taxi à Chicago :
 
-- "Big 50" - 50 points dealt to a player - is an automatic win for a double stake. If more than one player has "Big 50" there is usually no payment and the hand is dead (though some play that in this case the player in earliest position from the dealer wins a double-stake and any others win nothing). 
+- Il y a **six** cartes joker : les quatre deux et les deux jokers.
 
-- If any player has 13 or fewer points in their initial hand, the player with the lowest count in hand wins a double-stake and any others with 13 or fewer win nothing. In case of a tie there is no payment.
+- « Big 50 » — 50 points distribués à un joueur — est une victoire automatique pour une double mise. Si plus d'un joueur a « Big 50 », il n'y a généralement aucun paiement et la main est morte (bien que certains jouent que dans ce cas, le joueur en position la plus proche du donneur gagne une double mise et les autres ne gagnent rien).
 
-- If you are dealt 49 points you can claim a single win, but not until immediately before your first turn, and only if no player has spread. Some award a double rather than a single payment for "49 in turn".
+- Si un joueur a 13 points ou moins dans sa main initiale, le joueur avec le total le plus bas gagne une double mise et les autres avec 13 ou moins ne gagnent rien. En cas d'égalité, il n'y a aucun paiement.
 
-- Play begins without an upcard.  If you "break your hand up", that is, discard onto a spread, you can't subsequently "Tonk out", that is, win the double stake: you can only collect a single stake.  
+- Si vous recevez 49 points, vous pouvez réclamer une victoire simple, mais pas avant immédiatement votre premier tour, et seulement si aucun joueur n'a posé. Certains accordent une double mise plutôt qu'une mise simple pour « 49 au tour ».
 
-- If you "get caught", that is, try to "go down (for low)" and one of your opponents has an equal or lower count, you pay that player a double stake.
+- Le jeu commence sans carte retournée. Si vous « cassez votre main », c'est-à-dire défaussez sur une posée, vous ne pouvez ensuite pas « sortir en tonk », c'est-à-dire gagner la double mise : vous ne pouvez percevoir qu'une mise simple.
 
-- If you "Tonk out off (or 'on') the deal", that is, pick up an upcard or draw off the deck on your first turn which allows you to make two spreads, this earns a double stake.  On subsequent turns, you may still win with a "double spread", but you can only collect a single-stake.
+- Si vous vous faites « prendre », c'est-à-dire tentez de « sortir bas » et qu'un de vos adversaires a un score égal ou inférieur, vous payez à ce joueur une double mise.
 
-- Holding spreads in your hand rather than laying them down is perfectly acceptable.
+- Si vous « sortez en tonk sur la donne », c'est-à-dire prenez une carte retournée ou piochez du jeu à votre premier tour ce qui vous permet de faire deux posées, cela rapporte une double mise. Aux tours suivants, vous pouvez toujours gagner avec une « double posée », mais vous ne pouvez percevoir qu'une mise simple.
 
-Lenie Lepape describes a version of Tonk played in Washington State USA by 2 to 6 players, with 4 the recommended number. 
+- Conserver des posées dans sa main plutôt que de les poser est parfaitement acceptable.
 
-- Rather than settling in cash after each hand the scores are recorded on paper, plus for winners and minus for losers. So for example the winner in a 4-player games scores +3 while the others all score -1. Scores should always add up to zero and the players settle up at the end, paying or receiving according to their final score. 
+Lenie Lepape décrit une version de Tonk jouée dans l'État de Washington (USA) par 2 à 6 joueurs, 4 étant le nombre recommandé.
 
-- A player who is dealt 50, 49 or 14 or fewer points can claim an immediate win known here as a 'double tonk', winning 2 points from each opponent (e.g. +6/-2/-2/-2 in a 4-player game). If two or more players have a double tonk all are paid. 
+- Plutôt que de régler en espèces après chaque main, les scores sont enregistrés sur papier, plus pour les gagnants et moins pour les perdants. Ainsi, par exemple, le gagnant dans un jeu à 4 joueurs marque +3 tandis que les autres marquent tous -1. Les scores doivent toujours s'additionner à zéro et les joueurs règlent à la fin, en payant ou en recevant selon leur score final.
 
-- A player who is hit by another player has to wait one turn before going out low, but you do not have to wait after putting down a spread. 
+- Un joueur qui reçoit 50, 49 ou 14 points ou moins peut réclamer une victoire immédiate appelée ici « double tonk », gagnant 2 points de chaque adversaire (par ex. +6/-2/-2/-2 dans un jeu à 4 joueurs). Si deux joueurs ou plus ont un double tonk, tous sont payés.
 
-- If a player goes out low and is "caught" by another player with an equal or lower score, the player who is caught loses 2 points for each player in the game and the other player gains an equal amount, while the other players neither win nor lose. If a player is caught by two players tieing for lowest score, the caught player pays both of them.
+- Un joueur qui a été frappé par un autre joueur doit attendre un tour avant de sortir bas, mais vous n'avez pas à attendre après avoir posé une posée.
 
-Tony Jacobs describes another version played for points known as "push-ups". All of the normal rules apply for winning, but the losers' scores are pushed up by the value of cards remaining in their hands. In case of a double win, either by making two spreads or having 49 or 50 in one's initial hand, the other players are "pushed up" by twice the value of cards in their hands. The objective in this game is to score as few points as possible.
+- Si un joueur sort bas et est « pris » par un autre joueur avec un score égal ou inférieur, le joueur pris perd 2 points pour chaque joueur dans le jeu et l'autre joueur gagne le même montant, tandis que les autres joueurs ne gagnent ni ne perdent. Si un joueur est pris par deux joueurs à égalité pour le score le plus bas, le joueur pris paie les deux.
 
-Some people add two or more jokers to the deck. These are worth 0 points and cannot be used in spreads.
+Tony Jacobs décrit une autre version jouée pour des points appelée « pompes ». Toutes les règles normales s'appliquent pour gagner, mais les scores des perdants sont augmentés de la valeur des cartes restantes dans leur main. En cas de double victoire, soit en faisant deux posées soit en ayant 49 ou 50 dans sa main initiale, les autres joueurs sont « augmentés » du double de la valeur des cartes dans leur main. L'objectif dans ce jeu est de marquer le moins de points possible.
 
-Some people count Jack as 11, Queen as 12, King as 13. In this case the automatic win with 49 or 50 would become too frequent and is not allowed.
+Certaines personnes ajoutent deux jokers ou plus au jeu. Ils valent 0 point et ne peuvent pas être utilisés dans les posées.
 
-Eric Dee reports that in Seattle, USA, Tonk is a popular union card game, played by the longshoremen and labourers. The main difference is that seven cards are dealt to each player, not five. One correspondent reports playing Tonk with seven card hands with sailors while serving in Vietnam, in this case using a 40-card deck without 8's, 9's or 10's. 
-Several American books give a version of 52-card Tonk in which seven cards are dealt, but the version with five cards seems to be far more widespread. 
+Certaines personnes comptent le Valet comme 11, la Dame comme 12, le Roi comme 13. Dans ce cas, la victoire automatique avec 49 ou 50 serait trop fréquente et n'est pas autorisée.
 
-Here are some other variations found in books, which seem to be rare in real life:
+Eric Dee rapporte qu'à Seattle (USA), Tonk est un jeu de cartes populaire dans les syndicats, joué par les docker et les ouvriers. La principale différence est que sept cartes sont distribuées à chaque joueur, et non cinq. Un correspondant rapporte jouer à Tonk avec des mains de sept cartes avec des marins pendant son service au Vietnam, dans ce cas avec un jeu de 40 cartes sans 8, 9 ni 10.
 
-- Some say that you cannot add the fourth card to a three card book on the table, though you can extend a run.
+Plusieurs livres américains donnent une version de Tonk à 52 cartes dans laquelle sept cartes sont distribuées, mais la version à cinq cartes semble beaucoup plus répandue.
 
-- Some say that you can only play one card in a turn to extend an existing spread. 
+Voici d'autres variantes trouvées dans les livres, qui semblent rares dans la vie réelle :
 
-- Some say that if you put down a card to hit an existing spread, you do **not** discard a card to the discard pile.
+- Certains disent que vous ne pouvez pas ajouter la quatrième carte à un carré de trois cartes sur la table, bien que vous puissiez étendre une suite.
 
-- Some say that if you take the top card of the discard pile, you must not put it in your hand, but must immediately use it as part of a book or run.
+- Certains disent que vous ne pouvez jouer qu'une seule carte dans un tour pour étendre une posée existante.
 
-Some people play that if you touch the stock when it is your turn, you must draw the top card from the stock. You are no longer permitted to take the face-up discard having touched the stock.
+- Certains disent que si vous posez une carte pour frapper une posée existante, vous ne défaussez **pas** de carte sur la pile de défausse.
 
-Some people play that when a player discards a card that can be played on a book or run currently on the table, the first player to "slap" the deck, can play that card on the appropriate **book** or **run, **and then immediately discard an extra card from their hand. If the person slapping the deck is the player who discarded the card, the discard is placed on the appropriate book or run, but the player does not have the option of discarding an extra card. Afterwards, play continues as normal. For example, if **Bill**, **Joe**, and **Tom** are playing in that order, and **Bill** discards a playable card:
+- Certains disent que si vous prenez la carte du dessus de la pile de défausse, vous ne devez pas la mettre dans votre main, mais devez l'utiliser immédiatement comme partie d'un carré ou d'une suite.
 
-- If **Bill** slaps his own card: He may play it on the **book** or **run**, but does not get to discard an additional card. Regular play continues with **Joe**'s turn. 
+Certains jouent que si vous touchez la pioche à votre tour, vous devez piocher la carte du dessus de la pioche. Vous n'êtes plus autorisé à prendre la défausse face en haut après avoir touché la pioche.
 
-- If **Joe** slaps the card: He plays the card on the **book** or **run**, discards a card, then continues with his regular turn.
+Certains jouent que lorsqu'un joueur défausse une carte qui peut être jouée sur un carré ou une suite actuellement sur la table, le premier joueur à « claquer » le jeu peut jouer cette carte sur le **carré** ou la **suite** approprié, puis défausser immédiatement une carte supplémentaire de sa main. Si la personne qui claque le jeu est le joueur qui a défaussé la carte, la défausse est placée sur le carré ou la suite approprié, mais le joueur n'a pas l'option de défausser une carte supplémentaire. Ensuite, le jeu continue normalement. Par exemple, si **Bill**, **Joe** et **Tom** jouent dans cet ordre, et que **Bill** défausse une carte jouable :
 
-- If **Tom** slaps the card: He plays the card on the **book** or **run**, discards a card, and regular play continues with **Joe**'s turn.
+- Si **Bill** claque sa propre carte : il peut la jouer sur le **carré** ou la **suite**, mais n'obtient pas de défausse supplémentaire. Le jeu continue normalement avec le tour de **Joe**.
 
-- If nobody slaps the deck before **Joe** begins his turn (i.e. draws a card from the pile, or picks up the discard and places it in his hand) the card is considered "dead" and cannot be slapped at this point. If **Joe** picked up the card without first slapping it, he may play the card on the **book** or **run** as normal, but does not get an *additional *discard for the turn.
+- Si **Joe** claque la carte : il joue la carte sur le **carré** ou la **suite**, défausse une carte, puis continue avec son tour normal.
 
-Some play a variation of this in which the player whose turn it is to play next has priority and always wins the race if able to spread the top discard, but does not get an extra turn after doing so.
+- Si **Tom** claque la carte : il joue la carte sur le **carré** ou la **suite**, défausse une carte, et le jeu continue normalement avec le tour de **Joe**.
 
-Some play the last few deals of a session for double stakes. The dealer announces this by calling "The Big One".
+- Si personne ne claque le jeu avant que **Joe** ne commence son tour (c'est-à-dire pioche une carte de la pile ou prend la défausse et la place dans sa main), la carte est considérée comme « morte » et ne peut plus être claquée. Si **Joe** a pris la carte sans l'avoir d'abord claquée, il peut jouer la carte sur le **carré** ou la **suite** normalement, mais n'obtient pas de défausse *supplémentaire* pour le tour.
 
-Some play with side bets. For example the dealer calls a suit before the deal and players can bet on who will be dealt the highest card of this suit. Those who wish to bet pay a fixed stake to a pot, and put aside the highest card of this suit (if any) that is dealt to them. This card remains part of their hand: it is kept face down until used and can be played or discarded in the usual way. The owner of the highest card of the called suit takes the pot. Another possible bet is "naturals", on the first to spread three of a kind. Participating players must add a stake at each deal until the pot is won.
+Certains jouent une variante de cela dans laquelle le joueur dont c'est le tour a la priorité et gagne toujours la course s'il est capable de poser la défausse du dessus, mais n'obtient pas de tour supplémentaire après l'avoir fait.
 
-## Online Servers, Software and Other Tonk Pages
+Certains jouent les dernières donnes d'une session pour une double mise. Le donneur l'annonce en appelant « La Grande ».
 
-You can play Tonk online against live opponents with the Net4UOnline Tonk App, available for [Android](https://play.google.com/store/apps/details?id=com.net4uonline.tonk&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/tonk-classic-card-game/id1217014270).
+Certains jouent avec des paris annexes. Par exemple, le donneur appelle une couleur avant la donne et les joueurs peuvent parier sur qui recevra la plus haute carte de cette couleur. Ceux qui souhaitent parier paient une mise fixe à un pot, et mettent de côté la plus haute carte de cette couleur (s'il y en a une) qui leur a été distribuée. Cette carte reste partie de leur main : elle est gardée face en bas jusqu'à son utilisation et peut être jouée ou défaussée de la façon habituelle. Le propriétaire de la plus haute carte de la couleur appelée remporte le pot. Un autre pari possible est les « naturels », sur le premier à poser un brelan. Les joueurs participants doivent ajouter une mise à chaque donne jusqu'à ce que le pot soit gagné.
 
-A Tonk computer program is available from [Unique Games](https://www.agcrump.com/).
+## Serveurs en ligne, logiciels et autres pages sur Tonk
 
-The [Game Cabinet](http://www.gamecabinet.com/) has a [Tonk page](http://www.gamecabinet.com/rules/Tonk.html), with a brief account of the rules.
+Vous pouvez jouer à Tonk en ligne contre des adversaires en direct avec l'application Net4UOnline Tonk, disponible pour [Android](https://play.google.com/store/apps/details?id=com.net4uonline.tonk&hl=en&gl=US) et [iOS](https://apps.apple.com/us/app/tonk-classic-card-game/id1217014270).
 
-### References:
+Un programme informatique Tonk est disponible chez [Unique Games](https://www.agcrump.com/).
 
-- In Penniless Blues (New York, Putnam, 1955) Mel Heimer wrote: "Will used to be the best tonk player - that's a card game that's real popular with the Negro musicians - in Duke Ellington's band". 
+Le [Game Cabinet](http://www.gamecabinet.com/) a une [page Tonk](http://www.gamecabinet.com/rules/Tonk.html), avec un bref aperçu des règles.
 
-- Trumpet player Rex Stewart (1907-1967), who joined Duke Ellington's orchestra in 1934, remembered in his Jazz Masters of the Thirties (Da Capo Press, 1972): "Ellington's group was no exception, and we played lots of tonk (a fast form of gin rummy)."
+### Références :
 
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Tonk
+- Dans *Penniless Blues* (New York, Putnam, 1955), Mel Heimer a écrit : « Will était le meilleur joueur de tonk — c'est un jeu de cartes vraiment populaire parmi les musiciens noirs — dans l'orchestre de Duke Ellington. »
+
+- Le trompettiste Rex Stewart (1907-1967), qui a rejoint l'orchestre de Duke Ellington en 1934, se souvient dans son *Jazz Masters of the Thirties* (Da Capo Press, 1972) : « Le groupe d'Ellington ne faisait pas exception, et nous jouions beaucoup de tonk (une forme rapide de rami gin). »

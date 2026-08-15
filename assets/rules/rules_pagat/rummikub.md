@@ -1,239 +1,227 @@
 # Rummikub
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** How to play Rummikub - rules and variants of the popular tile rummy game.
+**Type :** Rami
+**But :** Comment jouer au Rummikub — règles et variantes du populaire jeu de rami en tuiles.
 
 ---
 
-From amazon.com
+- Introduction ; Équipement
 
-you can order:
-[![ORIGINAL RUMMIKUB](../images/com/rummikub.jpg)
-ORIGINAL RUMMIKUB®](https://amzn.to/2dV83PP)
-or
-[![RUMMIKUB - LARGE NUMBERS EDITION](../images/com/uncles_12836.jpg)
+- Rummikub® Sabra — Variantes
 
-RUMMIKUB® LARGE NUMBERS EDITION](https://amzn.to/2dV8nxL)
+- Rummikub® Américain
 
-- Introduction; Equipment
+- Rummikub® International
+- Logiciels et jeux en ligne
 
-- Sabra Rummikub® - Variations
+## Introduction ; Équipement
 
-- American Rummikub®
+Rummikub® est un ensemble de jeux de rami en tuiles, joué avec un jeu de 106 tuiles colorées et numérotées. Ils ont été introduits en Europe occidentale et en Amérique par l'inventeur de jeux israélien Ephraim Hertzano. Un article d'[Israel21c](https://archive.israel21c.org/rummikub-is-the-chairman-of-the-board/) (septembre 2003) raconte l'histoire de la genèse de l'idée dans la Roumanie des années 1940 où Hertzano a grandi et son succès international ultérieur. D'autres sources placent la conception originale plus tôt, dans les années 1930. Le « Livre officiel du Rummikub® » de Hertzano, publié en 1978, décrit trois jeux différents avec les tuiles : Américain, Sabra et International. Par la suite, Sabra est devenu de loin le plus connu en Occident, et les jeux Rummikub® modernes n'incluent que les règles Sabra, sans mention des autres versions. Puisque « Sabra » est le mot pour un Israélien de naissance, il se peut que la version à laquelle Hertzano a donné ce nom ait été inventée en Israël, tandis que le jeu « Américain » est plus étroitement apparenté aux jeux de rami traditionnels joués dans sa Roumanie natale.
 
-- International Rummikub®
-- Software and Online Games
+Dans le jeu Rummikub®, 104 des tuiles ont des numéros, allant de 1 à 13, et il y a quatre couleurs : noir, rouge, bleu et orange. Il y a deux tuiles de chaque numéro et couleur. Les deux autres tuiles sont des jokers, qui montrent des visages souriants au lieu de numéros. Dans la plupart des jeux, les deux jokers sont de couleurs différentes, mais dans les jeux ils sont identiques, comme s'ils n'avaient pas de couleur.
 
-## Introduction; Equipment
+## Rummikub® Sabra
 
-Rummikub® is a group of tile rummy games, played with a set of 106 coloured and numbered tiles. They were introduced to Western Europe and America by the Israeli games inventor Ephraim Hertzano. An article in [Israel21c](https://archive.israel21c.org/rummikub-is-the-chairman-of-the-board/) (September 2003) tells the story of the genesis of the idea in 1940's Romania where Hertzano grew up and its subsequent international success. Some other sources place the original conecption earlier, in the 1930's. Hertzano's "Official Rummikub® Book", published in 1978, describes three different games with the tiles: American, Sabra and International. Subsequently, Sabra has become by far the best known in the West, and modern Rummikub® sets include only the Sabra rules, with no mention of the other versions. Since "Sabra" is the word for a native-born Israeli, it may be that the version to which Hertzano gave this name was invented in Israel, while the "American" game is more closely related to the traditional rummy games played in his native Romania.
+Cette version du Rami Manipulation est le seul jeu dont les règles sont incluses avec les jeux Rummikub® récents. Étonnamment, les règles fournies avec les différentes éditions diffèrent entre elles et des règles du livre de 1978 sur plusieurs points.
 
-In the Rummikub® set, 104 of the tiles have numbers, running from 1 to 13, and there are four colours: black, red, blue and orange. There are two tiles of each number and colour. The other two tiles are jokers, which show smiling faces instead of numbers. In most sets the two jokers are different colours, but in the games they are identical, as though they had no colour.
+Il y a deux, trois ou quatre joueurs, et le jeu se joue dans le sens horaire. Les tuiles sont mélangées face cachée sur la table et chaque joueur prend 14 tuiles, conservées sur un chevalet pour que les autres joueurs ne puissent pas les voir. Les tuiles restantes restent face cachée sur la table pour former la pioche.
 
-## Sabra Rummikub®
+Le but est d'être le premier à se débarrasser de toutes ses tuiles en les posant en combinaisons sur la table. Les combinaisons possibles sont :
 
-This version of Manipulation Rummy is the only game whose rules are included with recent Rummikub® sets. Surprisingly, the rules supplied with different editions differ from each other and from the rules in the 1978 book in several details.
+- des séries, composées de trois ou quatre tuiles du même numéro et de couleurs différentes ;
 
-There are two, three or four players, and the game is played clockwise. The tiles are shuffled face down on the table and each player takes 14 tiles, which are kept on a rack so that the other players cannot see them. The remaining tiles stay face-down on the table to form the pool.
+- des suites, composées de trois numéros consécutifs ou plus de la même couleur. (Notez que contrairement à d'autres jeux, dans Sabra les tuiles « 1 » sont toujours basses dans les suites : 1-2-3 est une suite valide ; 12-13-1 ne l'est pas.)
 
-The object is to be the first to get rid of all of your tiles by melding them in combinations on the table. The possible combinations are:
+Aucune tuile ne peut appartenir à plus d'une combinaison à la fois.
 
-- groups, consisting of three or four tiles of the same number and different colours
+Les jokers peuvent être utilisés comme substituts à n'importe quelle tuile numérotée de n'importe quelle couleur pour former une combinaison valide.
 
-- runs, consisting of three or more consecutive numbers of the same colour. (Note that unlike some other games, in Sabra the '1' tiles are always low in runs: 1-2-3 is a valid run; 12-13-1 is not.)
+Un tour consiste soit à piocher une tuile de la pioche, soit à poser une ou plusieurs tuiles de sa main en les plaçant face visible sur la table.
 
-No tile may belong to more than one combination at the same time.
+La première combinaison faite par chaque joueur doit consister en une ou plusieurs combinaisons formées entièrement de la main de ce joueur, où le total des numéros des tuiles utilisées s'élève à 30 ou plus. Si un joker est utilisé, il compte comme le numéro de la tuile qu'il représente.
 
-Jokers can be used as substitutes for any numbered tile of any colour to make up a valid combination.
+Après avoir posé une combinaison initiale, dans le même tour ou les tours suivants, un joueur peut poser en plaçant une ou plusieurs tuiles de sa main face visible sur la table, et si nécessaire réarranger les tuiles sur la table pour former de nouvelles combinaisons. À la fin du tour du joueur, au moins une tuile doit avoir été ajoutée de la main, et toutes les combinaisons sur la table doivent être des séries et suites valides.
 
-A turn consists of either drawing one tile from the pool or melding one or more tiles from hand by placing them face up on the table.
+Une combinaison contenant un joker peut recevoir des tuiles supplémentaires, mais rien ne peut en être retiré, et elle ne peut pas être réarrangée de quelque façon que ce soit tant qu'il y a un joker dedans. Par exemple, si une suite a un joker à une extrémité, le joker ne peut pas être déplacé à l'autre extrémité pour ajouter une tuile. Cependant, un joueur qui a en main la tuile représentée par un joker sur la table peut substituer la vraie tuile au joker puis réutiliser le joker dans une combinaison sur la table. Un joker libéré de cette façon ne peut pas être conservé en main pour un usage ultérieur. Dans le cas d'une série composée de deux tuiles identiques et d'un joker, le joker peut être remplacé par une tuile correspondante de l'une ou l'autre des couleurs manquantes.
 
-The first meld made by each player must consist of one or more combinations formed entirely from that player's hand, where the total numbers of the tiles used add up to 30 or more. If a joker is used, it counts as the number of the tile it represents.
+En raison de la complexité des réarrangements possibles, il est d'usage de fixer une limite de temps pour un tour, par exemple deux minutes. Lorsque vous avez terminé votre tour, vous dites « passe », et la personne suivante peut jouer.
 
-Having placed an initial meld, in the same or subsequent turns a player can meld by placing one or more tiles from hand face up on the table, and if necessary rearranging the tiles on the table to form new combinations. At the end of the player's turn at least one tile must have been added from hand, and all the combinations on the table must be valid groups and runs.
+Si vous commencez à manipuler les tuiles sur la table, mais lorsque la limite de temps est atteinte vous n'avez pas réussi à arranger toutes les tuiles face visible en combinaisons valides, vous devez remettre les tuiles sur la table dans la configuration où elles étaient au début de votre tour, reprendre les tuiles que vous avez jouées de votre main, et piocher trois tuiles de la pioche comme pénalité. Pour faciliter le retour des tuiles à leur position initiale si nécessaire, lors du début d'un mouvement complexe vous devriez placer les tuiles que vous jouez de votre main en travers et les garder ainsi jusqu'à ce que vous ayez conclu votre tour avec succès.
 
-A combination which contains a joker can have further tiles added to it, but nothing can be taken from it, nor can it be rearranged in any way while there is a joker in it. For example if a run has a joker at one end the joker cannot be moved to the other end in order to add a tile. However, a player who has in hand the tile which is represented by a joker on the table, the player can substitute the real tile for the joker and then re-use the joker in some combination on the table. A joker released in this way cannot be taken into the player's hand for later use. In the case of group consisting of two equal tiles and a joker, the joker can be replaced by a matching tile of either of the missing colors.
+Le premier joueur qui parvient à jouer toutes ses tuiles gagne. Les autres joueurs additionnent les numéros sur les tuiles restantes dans leurs chevalets, en comptant les jokers comme 30. Ils marquent chacun moins le total de leurs tuiles restantes, et le gagnant marque plus le total de toutes les tuiles des perdants.
 
-Because of the complexity of the possible rearrangements, it is usual to set a time limit for a turn, for example two minutes. When you have finished your turn, you say "pass", and the next person can play. 
+Rarement, une situation peut être atteinte où la pioche est vide, personne n'est sorti, et le joueur suivant ne peut pas ou ne souhaite pas poser de tuiles. Puisque ce joueur ne peut pas piocher de la pioche, le jeu s'arrête et les joueurs comptent la valeur totale des tuiles dans leurs chevalets. Le joueur ayant le total le plus bas gagne. Chacun des autres joueurs calcule la différence entre son total et celui du gagnant, et perd ce montant. Le gagnant remporte la somme de ces différences, de sorte que les scores des joueurs pour la donne s'additionnent à zéro comme d'habitude.
 
-If you begin manipulating the tiles on the table, but when the time limit is reached you have not managed to arrange all the face up tiles on the table into valid combinations, you must return the tiles on the table to the configuration they were in when you started your turn, take back any tiles you played from your hand, and draw three tiles from the pool as a penalty. To facilitate the returning of the tiles to their original positions if necessary, when starting a complex move you should place any tiles you play from your hand crosswise and keep them that way until you have concluded your turn successfully.
+### Variantes
 
-The first player who manages to play all their tiles wins. The other players add up the numbers on the tiles remaining in their racks, counting jokers as 30. They each score minus the total of their remaining tiles, and the winner scores plus the total of all the losers' tiles.
+Le Livre officiel du Rummikub® stipulait que le jeu devait se jouer dans le sens antihoraire. Les règles récentes fournies avec les jeux Rummikub® stipulent toutes un jeu dans le sens horaire.
 
-Rarely, a situation may be reached in which the pool of tiles is empty, no one has gone out, and the next player in turn cannot or does not wish to lay down any tiles. Since this player cannot draw from the pool, the play ends and players count the total value of tiles in their racks. The player with the lowest tile count wins. Each of the other players calculates the difference between their tile count and that of the winner, and loses that amount. The winner wins the sum of these differences, so that the players' scores for the deal add up to zero as usual.
+Selon le Livre officiel du Rummikub®, certains jouent que si un joker est posé comme partie d'une série de trois tuiles identiques, les tuiles des deux couleurs manquantes doivent être ajoutées à la série pour récupérer le joker. Cette variante n'est pas mentionnée dans les règles fournies avec les jeux récents, mais l'édition 1980 de Pressman Toy Corp. incluait cette règle.
 
-### Variations
+La plupart des jeux de règles ne précisent pas explicitement si deux jokers peuvent être utilisés dans la même combinaison. Il serait inhabituel de vouloir engager les deux jokers de cette façon, mais puisqu'il n'y a pas de règle contre cela, il est raisonnable de supposer que c'est autorisé. En effet, l'édition actuelle des règles en ligne de Lemada Light Industries Ltd. l'autorise explicitement. Un joueur qui pose une combinaison de trois tuiles dont deux sont des jokers doit indiquer clairement s'il s'agit d'une série de tuiles identiques ou d'une suite, et cela déterminera les tuiles nécessaires si un joueur souhaite ultérieurement récupérer un joker de cette combinaison.
 
-The Official Rummikub® Book specified that the game should be played counter-clockwise. Recent rules supplied with Rummikub® sets all specify clockwise play.
+Beaucoup de confusion a été causée par la règle du « Livre officiel du Rummikub® » qui dit que lorsqu'un joker posé est remplacé, il doit être immédiatement utilisé dans une « nouvelle » combinaison. Quelle restriction, le cas échéant, cela impose-t-il à la façon dont le joker récupéré doit être utilisé ? Les règles fournies avec diverses éditions de jeux Rummikub® ont interprété cette règle de différentes manières.
 
-According to the Official Rummikub® Book, some play that if a joker is melded as part of a set of three equal tiles, tiles of both missing colours must be added to the set in order to retrieve the joker. This variation is not mentioned in the rules provided with recent sets, but the 1980 Pressman Toy Corp. edition of the game did include this rule.
+- L'interprétation la plus libérale est que le joker peut être réutilisé dans n'importe quelle combinaison. La seule restriction est que vous ne pouvez pas ramasser le joker et le conserver sur votre chevalet pour un usage futur — vous devez l'incorporer dans une combinaison sur la table. Cette version se trouve dans les règles de l'édition Goliath Games (1994), où la seule condition est : « Cependant, vous devez utiliser le joker immédiatement, dans le même tour. » Les règles de Pressman Toy Corp. (1980) disent simplement : *« Il [le joker] ne peut pas être remis sur le chevalet, mais doit être utilisé dans le même tour. »* Les règles actuelles de Lemada Light Industries Ltd. semblent favoriser cette interprétation — elles disent simplement : *« Une fois qu'un joueur remplace un joker, il doit l'utiliser dans le même tour comme partie d'une série. »*
 
-Most rule sets do not explicitly state whether two jokers can be used in the same combination. It would be unusual to want to commit both jokers in this way, but since there is no rule against it, it is reasonable to assume that it is allowed. Indeed the current edition of the online rules from Lemada Light Industries Ltd. does explicitly allow it. A player who puts down a combination of a three tiles of which two are jokers must clearly state whether it is meant to be a set of equal tiles or a sequence, and this will determine the tiles that are needed if a player later wants to reclaim a joker from this combination.
+- Une interprétation plus stricte est que la combinaison à laquelle le joker est déplacé doit être une qui n'existait pas sur la table auparavant. Les tuiles pour cette nouvelle combinaison ne doivent pas nécessairement venir de votre main — elles pourraient être prises d'autres combinaisons qui existaient précédemment sur la table. Cela semble être l'interprétation favorisée par les règles plus anciennes (1999) de Lemada Light Industries Ltd. : « Un joker qui a été remplacé doit être utilisé dans le même tour du joueur, comme partie d'une nouvelle série. »
 
-A lot of confusion has been caused by the rule from the "Official Rummikub® Book" that says that when a melded joker is replaced it must immediately be used in a "new" meld. What restriction, if any, does this place on the way the retrieved joker has to be used? The rules supplied with various editions of Rummikub® sets have interpreted this rule in different ways.
+- Une interprétation encore plus stricte, qui semble être préférée par beaucoup de joueurs, est que le joker doit être réutilisé dans une nouvelle combinaison formée en le combinant avec deux tuiles de votre main. J'ai vu deux jeux de règles qui soutiennent cette vue. Les règles de J W Spear & Sons (1988) disent : « Un joker qui a été récupéré de cette manière doit être utilisé dans le même tour du joueur, comme partie d'une nouvelle série, avec des tuiles de son chevalet. » Les règles de Pressman Toy Corp. (1987, 1998) disent encore plus explicitement : « Un joker qui a été remplacé doit être utilisé dans le même tour du joueur avec 2 tuiles ou plus de son chevalet pour former une nouvelle série. » Mais même cela est ambigu : il n'est pas clair si la nouvelle série peut aussi contenir des tuiles de la table. Certains joueurs l'autorisent. Par exemple : sur la table se trouve une série de quatre 4 et une suite de bleu 8-7-joker ; dans votre main vous avez deux six bleus et un trois bleu ; vous pouvez substituer un six bleu au joker et former une nouvelle suite bleue 6-joker-4-3, en volant le quatre bleu de la série de quatre. La nouvelle suite utilise deux tuiles de votre main, avec le joker et une autre tuile de la table.
 
-- The most liberal interpretation is that the joker can be reused in any meld. The only restriction is that you cannot pick up the joker and store it on your rack for future use - you have to incorporate it in some meld on the table. This version is found in the rules with the Goliath Games edition (1994), where the only condition is: "However, you must use the joker immediately, as part of that same go." Also the 1980 Pressman Toy Corp. rules just say: *"It [the joker] may not be placed back on the rack, but must be used in the same turn." *The current Lemada Light Industries Ltd. rules seem to favour this interpretation - they simply say: *"Once a player replaces a joker, they must use it in the same turn as part of a set."*
+- Certains préfèrent l'interprétation qu'un joker remplacé doit être utilisé pour former une nouvelle série composée uniquement du joker plus deux tuiles ou plus de la main. Des tuiles peuvent être ajoutées à la série depuis la table plus tard dans le même tour par manipulation supplémentaire, mais la nouvelle série avec le joker remplacé doit d'abord être formée sans elles. Sous cette version la plus stricte de la règle, l'exemple de jeu de la version 3 ci-dessus ne serait pas autorisé, car la nouvelle suite ne peut pas être formée sans utiliser une autre tuile de la table en plus du joker.
 
-- A stricter interpretation is that the meld to which the joker is moved must be one that did not exist on the table before. The tiles for this new meld do not have to come from your hand - they could be taken from other melds that previously existed on the table. This seems to be the interpretation favoured by the older (1999) Lemada Light Industries Ltd. rules: "A joker that has been replaced must be used in the player's same turn, as part of a new set."
+Les règles de Goliath (1994), Pressman (1998) et Lemada (1999) s'écartent des règles du livre officiel sur un autre point cependant. Ces règles autorisent la manipulation, l'ajout ou la séparation d'une série ou suite contenant un joker. Chacune inclut la même phrase : « Une série contenant un joker peut recevoir des tuiles et peut être séparée ou avoir des tuiles retirées. » Les règles actuelles en ligne de Lemada précisent cela : *« Les séries contenant des jokers peuvent être séparées et manipulées comme les séries normales. »* Cela implique qu'il est permis de retirer le joker de la série et de le placer ailleurs, ou même de détruire complètement la série en déplaçant chacune de ses tuiles vers une série différente, **à condition que** le joker continue à représenter la même tuile, et bien sûr que toutes les séries résultantes soient valides. Il faut veiller à ne pas changer la tuile représentée par le joker lors de cette opération. La seule façon de faire en sorte que le joker représente une tuile **différente** est si le joueur fournit de sa main la tuile que le joker représentait à l'origine, et ce remplacement du joker peut être soumis à des restrictions supplémentaires comme discuté ci-dessus.
 
-- A still stricter interpretation, which seems to be preferred by many players, is that the joker must be reused in a new meld formed by combining it with two tiles from your hand. I have seen two sets of rules which support this view. The J W Spear & Sons rules (1988) say: "A joker that has been picked up in this manner must be used in that player's same turn, as part of a new set, along with tiles from his rack." The Pressman Toy Corp rules (1987, 1998) say even more explicitly: "A joker that has been replaced must be used in the player's same turn with 2 or more tiles from his rack to make a new set." But even this is ambiguous: it is not clear whether the new set can also contain tiles from the table. Some players allow this. For example: on the table is a set of four 4's and a run of blue 8-7-joker; in your hand you have two blue sixes and a blue three; you may substitute one blue 6 for the joker and make a new blue run of 6-joker-4-3, stealing the blue 4 from the set of 4's. The new run uses two tiles from your hand, along with the joker and one other tile from the table.
+La traduction néerlandaise du Livre officiel, Spelregelboek Voor het originele Rummikub (Goliath, 1985) inclut la version où les séries contenant un joker peuvent être manipulées comme une variante, connue sous le nom de Sabra Néerlandais. D'autre part, l'édition 1987 des règles Pressman est en accord avec le Livre officiel : « Vous pouvez ajouter une tuile à une combinaison contenant un Joker » mais « Vous ne pouvez pas retirer une tuile d'une combinaison qui inclut un Joker. »
 
-- Some prefer the interpretation that a replaced joker has to be used to make a new set consisting only of the joker plus two or more tiles from hand. Tiles can be added to the set from elsewhere on the table later in the same turn by further manipulation, but the new set with the replaced joker must first be formed without them. Under this strictest version of the rule the example play in version 3 above would not be allowed, because the new run cannot be made without using another tile from the table as well as the joker. 
+Les règles actuelles (2014) de Lemada Light Industries Ltd. en ligne n'exigent pas que la tuile utilisée pour remplacer un joker vienne de la main d'un joueur. Elles disent explicitement : *« La tuile utilisée pour remplacer le joker peut être prise **de la table** ou du chevalet du joueur. »*
 
-The Goliath (1994), Pressman (1998) and Lemada (1999) rules depart from the rules from the official book in another respect however. These rules allow a set or run containing a joker to be manipulated, added to or split apart. Each includes the same sentence: "A set containing a joker can have tiles added to it and can be split apart or have tiles removed from it." The current online Lemada rules clarify this further, saying: *"Sets containing jokers can be split and manipulated like regular sets."* This implies that it is permissible to remove the joker from the set and place it elsewhere, or even to destroy the set completely by moving each of its tiles to a different set, **provided that** the joker continues to represent the same tile, and of course that all the resulting sets are valid. Care must be taken not to change the tile represented by the joker when doing this. The only way the joker can be made to represent a **different** tile is if the player supplies from hand the tile that the joker originally represented, and this replacement of the joker may be subject to additional restrictions as discussed above.
+Une autre variante concerne le moment où la manipulation peut commencer. La plupart des jeux de règles s'accordent à dire que dès que vous avez posé vos séries et suites initiales pour une valeur de 30 points ou plus, vous pouvez dans le même tour commencer à manipuler les séries et suites sur la table et y ajouter d'autres tuiles. Selon le Spelregelboek néerlandais cependant, la manipulation ne peut commencer qu'à votre tour suivant après le tour où vous avez posé votre combinaison initiale. La manipulation dans le même tour que la pose de votre combinaison initiale est cependant autorisée dans la variante « Sabra Néerlandais » de ce livre. Les règles Lemada (1999) semblent également ne pas autoriser la manipulation lors du tour où vous faites votre combinaison initiale. Les règles Spears (1988) l'autorisent explicitement (« une fois que les joueurs sont entrés dans le jeu ils peuvent dans le même tour "jouer la table"... »). Les règles Pressman (1987 et 1998) et Goliath (1994) sont quelque peu ambiguës, mais semblent autoriser la manipulation à commencer dans le même tour que la combinaison initiale.
 
-The Dutch translation of the Official Book, Spelregelboek Voor het originele Rummikub (Goliath, 1985) includes the version where sets containing a joker can be manipulated as a variation, known as Dutch Sabra. On the other hand, the 1987 edition of the Pressman rules agrees with the Official Book: "You can add a tile to a meld containing a Joker" but "You may not take a tile away from a meld which includes a Joker."
+Certains jouent que la valeur totale des tuiles dans la combinaison initiale d'un joueur doit être d'au moins 50 points, plutôt qu'au moins 30. Cette version est donnée dans l'édition 1987 des règles Pressman, bien que dans l'édition 1998 l'exigence soit réduite à 30, comme dans la plupart des autres jeux de règles, y compris le Livre officiel du Rummikub.
 
-The current (2014) Lemada Light Industries Ltd. online rules do not require the tile used to replace a joker to come from a player's hand. They explicitly say:* "The tile used to replace the joker can be taken **from the table** or from the player's rack."*
+Certains comptent un joker restant dans la main d'un joueur à la fin de la partie comme 25 points plutôt que 30. La valeur de 25 est donnée par exemple dans l'édition néerlandaise du livre officiel du Rummikub® de Hertzano (6ème édition, 1985).
 
-Another variation concerns the point at which manipulation can begin. Most sets of rules agree that as soon as you have laid down your initial sets and runs to a value of 30 or more points, you can in the same turn start manipulating the sets and runs on the table and adding further tiles to them. According to the Dutch Spelregelboek, however, manipulation can only begin on your next turn after the turn in which you laid down your initial meld. Manipulation on the same turn that you lay down your initial meld is, however, allowed in the "Dutch Sabra" variation in that book. The Lemada (1999) rules also appear not to allow manipulation on the turn in which you make your initial meld. The Spears (1988) rules explicitly do allow it ("once players have entered the game they can on the same turn 'play the table'..."). The Pressman (1987 and 1998) and Goliath (1994) rules are somewhat ambiguous, but seem to allow manipulation to begin on the same turn as the initial meld.
+Les règles actuelles de [M&M Ventures / Lemada Rummikub®](https://rummikub.com/wp-content/uploads/2019/12/2600-English-1.pdf) sont disponibles en ligne.
 
-Some play that the total value of tiles in a player's initial meld must be at least 50 points, rather than at least 30. This version is given in the 1987 edition of the Pressman rules, though in the 1998 edition the requirement is reduced to 30, as it is in most other rules sets, including the Official Rummikub Book.
+## Rummikub® Américain
 
-Some count a joker remaining in a player's hand at the end of play as 25 points rather than 30. The value of 25 is given for example in the Dutch edition of Hertzano's Official Rummikub® book (6th edition, 1985).
+Ce jeu est placé en premier dans le livre de 1978 de Hertzano, mais n'est plus inclus dans les règles distribuées avec les jeux Rummikub®.
 
-The current [M&M Ventures / Lemada Rummikub® Rules](https://rummikub.com/wp-content/uploads/2019/12/2600-English-1.pdf) are available on line.
+Deux, trois ou quatre personnes peuvent jouer. Les tuiles sont mélangées et disposées en 15 tas de 7 tuiles face cachée, avec une tuile en surplus. Chaque joueur prend deux tas et arrange les 14 tuiles sur son chevalet. La tuile restante est placée face visible au centre de la table. Le livre l'appelle « l'atout », bien qu'il ne s'agisse pas d'un atout au sens habituel du terme.
 
-## American Rummikub®
+Le joueur de départ de la première partie est choisi au hasard (en piochant des tuiles avant la donne), et le tour de jouer passe dans le sens antihoraire. Le tour de départ passe à droite après chaque partie.
 
-This game was placed first in Hertzano's 1978 book, but is no longer included in the rules distributed with Rummikub® sets. 
+Initialement, un tour consiste en
 
-Two, three or four people can play. The tiles are shuffled and built into 15 stacks of 7 face-down tiles, with one tile left over. Each player takes two stacks and arranges the 14 tiles on his or her rack. The left over tile is placed face up in the centre of the table. The book calls it the "trump", though it is not a trump an any usual sense of the word.
+- piocher une tuile des tas face cachée au centre de la table ;
 
-The starting player for the first game is chosen at random (by drawing tiles before the deal), and the turn to play passes counter-clockwise. The turn to start passes to the right after each game.
+- éventuellement poser des séries et suites valides, en plaçant les tuiles face visible sur la table ;
 
-Initially, a turn consists of 
+- défausser une tuile face visible à votre droite.
 
-- drawing one tile from the face-down stacks in the centre of the table;
+Les défausses sont empilées de sorte que seule la défausse la plus récente de chaque joueur soit visible.
 
-- optionally melding valid groups and runs, placing the tiles face up on the table;
+Comme dans Sabra,
 
-- discarding one tile face up to your right.
+- une série consiste en trois ou quatre tuiles du même numéro et de couleurs différentes ;
 
-Discards are stacked so that only the most recent discard of each player is visible.
+- une suite consiste en trois numéros consécutifs ou plus de la même couleur. Dans le Rummikub® Américain, les tuiles « 1 » peuvent être utilisées comme hautes ou basses, mais pas les deux à la fois. Ainsi 1-2-3 et 12-13-1 sont toutes deux des suites valides, mais 13-1-2 ne l'est pas.
 
-As in Sabra,
+Aucune tuile ne peut appartenir à plus d'une combinaison à la fois.
 
-- a group, consists of three or four tiles of the same number and different colours;
+Les jokers peuvent être utilisés comme substituts à n'importe quelle tuile numérotée de n'importe quelle couleur pour former une combinaison valide.
 
-- a run, consists of three or more consecutive numbers of the same colour. In American Rummikub® '1' tiles can be used as high or low, but not both at once. So 1-2-3 and 12-13-1 are both valid runs, but 13-1-2 is not.
+Pour être autorisé à poser, vous devez jouer une ou plusieurs séries et suites de votre main d'une valeur totale de 21 points ou plus, en comptant les tuiles numérotées à leur valeur nominale. Si vous utilisez des jokers, ils comptent pour la valeur de la tuile qu'ils représentent. Après avoir posé votre combinaison initiale conformément à ces exigences, des options supplémentaires s'offrent à vous.
 
-No tile may belong to more than one combination at the same time.
+- Vous pouvez poser des séries ou suites supplémentaires de votre main, quelle que soit leur valeur.
 
-Jokers can be used as substitutes for any numbered tile of any colour to make up a valid combination.
+- Vous pouvez étendre vos propres séries ou suites posées ou celles d'autres joueurs en y ajoutant des tuiles.
 
-In order to be allowed to meld, you must play one or more groups and runs from your hand with a total value of 21 points or more, counting number tiles at face value. If you use jokers, they count as having the value of the tile they represent. After you have laid down your initial meld, according to these requirements, additional options are available to you.
+- Si vous détenez la tuile représentée par un joker posé, vous pouvez remplacer le joker par cette tuile, à condition d'utiliser immédiatement le joker dans une « nouvelle » combinaison de votre cru. [Il n'est pas tout à fait clair d'après le livre si la combinaison doit être entièrement nouvelle — le joker avec deux tuiles ou plus de votre chevalet — ou si le joker peut être réutilisé pour aider à étendre une combinaison existante.]
 
-- You may meld additional groups or runs from your hand, irrespective of value.
+- À partir de votre tour suivant, vous pouvez prendre la tuile venant d'être défaussée par le joueur précédent au lieu de piocher une tuile face cachée du centre.
 
-- You may extend your own or other players' melded groups or runs by adding tiles to them.
+Le jeu se termine lorsqu'un joueur parvient à poser toutes les tuiles restantes de sa main sauf une, qui est la défausse finale. Ce joueur est le gagnant. Notez que vous n'êtes pas autorisé à piocher une tuile puis à poser toutes vos tuiles, vous laissant sans défausse.
 
-- If you hold the tile represented by a melded joker, you may replace the joker by this tile, provided that you immediately use the joker in a "new" meld of your own. [It is not quite clear from the book whether the meld has to be completely new - the joker with two or more tiles from your rack - or whether the joker can be reused to help extend an existing meld.]
+La tuile « atout » face visible au centre de la table peut être piochée au lieu d'une tuile face cachée ou de la défausse du joueur précédent si le joueur qui la pioche peut ainsi gagner la partie.
 
-- From your next turn onwards, you may take the tile just discarded by the previous player instead of drawing a face down tile from the centre.
+Lorsque le jeu se termine, chacun des joueurs autres que le gagnant totalise la valeur des tuiles restantes dans ses mains. Chacun de ces joueurs marque moins la valeur de ses tuiles restantes, et le gagnant marque plus la valeur totale de toutes ces tuiles. Ainsi les scores des joueurs s'additionnent toujours à zéro. Un joker restant dans la main d'un joueur compte pour 30 points, et les tuiles « 1 » comptent pour 1 point.
 
-The play ends when a player manages to meld all the remaining tiles in his hand except for one, which is the final discard. This player is the winner. Note that you are not allowed to draw a tile and then meld all your tiles, leaving yourself with no discard.
+Le livre ne dit pas ce qui se passe si personne ne gagne avant que les tas face cachée ne soient épuisés. Je suggère d'utiliser la même règle que dans le Rummikub® Sabra : tous les joueurs comptent la valeur totale des tuiles dans leur chevalet et le joueur ayant le total le plus bas gagne. Chacun des autres joueurs calcule la différence entre son total et celui du gagnant, et perd ce montant. Le gagnant remporte la somme de ces différences, de sorte que les scores des joueurs pour la donne s'additionnent à zéro comme d'habitude.
 
-The face-up "trump" tile in the centre of the table can be drawn instead of a face-down tile or the previous player's discard if the player who draws it can thereby win the game.
+### Variante
 
-When the play ends, each of the players other than the winner totals the value of the tiles remaining in their hands. Each of these players scores minus the value of their remaining tiles, and the winner scores plus the total value of all these tiles. Thus the scores of the players always add up to zero. A joker remaining in a player's hand counts 30 points, and '1' tiles count 1 point.
+Comme dans Sabra, certains joueurs comptent un joker dans la main d'un joueur à la fin comme 25 points plutôt que 30.
 
-The book does not say what happens if no one wins before the face down stacks are exhausted. I suggest that the same rule is used as in Sabra Rummikub®: all players count the total value of tiles in their rack and the player with the lowest tile count wins. Each of the other players calculates the difference between their tile count and that of the winner, and loses that amount. The winner wins the sum of these differences, so that the players' scores for the deal add up to zero as usual.
+## Rummikub® International
 
-### Variation
+On peut le considérer comme une forme plus compliquée du jeu américain décrit ci-dessus. Il est possible de gagner en posant toutes vos tuiles, comme dans le jeu américain, ou en construisant diverses mains spéciales, rappelant somewhat les mains spéciales du Mah-Jong.
 
-As in Sabra, some players count a joker in a player's hand at the end as 25 points rather than 30.
+Deux tas de sept tuiles sont distribués à chaque joueur, et la tuile impaire est donnée au joueur de départ, de sorte que ce joueur commence avec 15 tuiles. La tuile du dessus d'un des tas restants de 7 tuiles est retournée face visible et constitue « l'atout ».
 
-## International Rummikub®
+Le mécanisme de jeu est le même que dans le jeu américain, sauf que les joueurs sont toujours autorisés à piocher la défausse du joueur précédent, au lieu de piocher de la pioche.
 
-This can be thought of as a more complicated form of the American game described above. It is possible to win by melding all your tiles, as in American, or by constructing various special hands, somewhat reminiscent of the special hands in Mah Jong.
+Il y a trois façons de gagner.
 
-Two stacks of seven tiles are dealt to each player, and the odd tile is given to the starting player, so that this player begins with 15 tiles. The top tile of one of the remaining 7-tile stacks is turned face up and is the "trump".
+Ouvert
+C'est une victoire normale en se débarrassant de toutes vos tuiles sauf une défausse finale, en les posant par étapes, comme dans le jeu américain. Vous avez besoin d'au moins 50 points pour votre combinaison initiale, en comptant comme d'habitude tout joker utilisé pour la valeur de la tuile qu'il représente. Lorsque vous avez trois tuiles ou moins sur votre chevalet, vous devez l'annoncer. Vous n'êtes pas autorisé à prendre « l'atout » comme pioche finale.
+Pied
+C'est une victoire où vous posez 14 tuiles d'un coup et défaussez votre 15ème tuile. Certaines de vos 14 tuiles seront posées comme vos propres séries et suites ; d'autres seront ajoutées aux combinaisons d'autres joueurs. Vos 14 tuiles doivent s'élever à au moins 50. Si vous pouvez poser toutes vos tuiles sans ajouter aux combinaisons d'autres joueurs, vous avez une victoire fermée plus précieuse (voir ci-dessous), donc une victoire Pied ne se produit en pratique que lorsqu'un autre joueur vise une victoire Ouverte.
+Fermé
+C'est une victoire où vous posez toutes les 14 tuiles d'un coup, sans rien ajouter à aucune combinaison d'un autre joueur. Celles-ci ont diverses valeurs, selon le type de main.
 
-The mechanism of play is the same as in American, except that players are always permitted to draw the previous player's discard, instead of drawing from the pool.
+Si personne n'a revendiqué la victoire à la fin du tour où la dernière tuile face cachée est piochée des tas, le jeu se termine sans gagnant.
 
-There are three ways of winning.
+Le score fonctionne comme suit.
 
-Open
-This is a normal win by getting rid of all your tiles except for a final discard, having melded them in stages, as in American. You need at least 50 points for your initial meld, as usual counting any joker used as the value of the tile it represents. When you have three or fewer tiles left on your rack, you must announce this. You are not allowed to take the "trump" as your final draw.
-Foot
-This is a win in which you meld 14 tiles at once and discard your 15th tile. Some of your 14 tiles will be melded as your own groups and runs; others will be added to other players' melds. Your 14 tiles must add up to at least 50. If you can meld all your tiles without adding to other players' melds then you have a more valuable closed win (see below), so a Foot win in practice only occurs when another player is going for an Open win.
-Closed
-This is a win in which you meld all 14 tiles at once, without adding anything to any other player's meld. These have various values, according to the type of hand.
+- Le gagnant (s'il y en a un) remporte un certain nombre de points basé sur le type de main gagnante.
 
-If no one has claimed a win by the end of the turn in which the last face down tile is drawn from the stacks, the play ends with no winner.
+- Chacun des autres joueurs qui a posé perd la valeur totale de ses tuiles non posées. Pour cela uniquement, les tuiles 2-9 comptent à leur valeur nominale mais les tuiles 10, 11, 12, 13 et 1 comptent 10 points chacune.
 
-The scoring works as follows.
+- Chacun des autres joueurs qui n'a pas posé perd 100 si la main s'est terminée par une victoire Ouverte ou Pied ou sans gagnant, mais perd le même montant que le gagnant a remporté si la main s'est terminée par une victoire Fermée.
 
-- The winner (if any) wins a number of points based on the type of winning hand.
+Si le joueur qui gagne la main par l'une des trois méthodes défausse un joker comme défausse finale, tous les scores de cette main sont doublés.
 
-- Each of the other players who has melded loses the total value of their unmelded tiles. For this purpose only, tiles 2-9 as face value but tiles 10, 11, 12, 13 and 1 as 10 points each.
+Le gagnant d'une main Ouverte marque 100 points, ou 200 si aucun autre joueur n'a posé.
 
-- Each of the other players who has not melded loses 100 if the hand ended in an Open or Foot win or without a winner, but loses the same amount that the winner won if the hand ended in a Closed win.
+Le gagnant d'un Pied marque 200.
 
-If the player who wins the hand by any of the three methods discards a joker as his final discard, all scores for that hand are doubled.
+Les descriptions et scores des divers types de main fermée sont les suivants. La plupart varient selon le nombre de jokers inclus. Lorsqu'une main appartient à plusieurs types possibles, elle ne compte que comme le type le plus précieux. Pour les types de main impliquant la valeur totale des tuiles, les 1 comptent pour 1 point.
 
-The winner of an Open hand scores 100 points, or 200 if no other player has melded.
+| Type de main | Sans joker | Un joker | Deux jokers |
+| 1. Basique. 14 tuiles en séries et/ou suites | 500 | 400 | 300 |
+| 2. Main mineure. Séries et/ou suites sans tuile supérieure à un 9. | 800 | 700 | 600 |
+| 3. Mineure 51. Séries et/ou suites sans tuile supérieure à 9 et les tuiles totalisent 51 ou moins. | 1000 | 900 | 800 |
+| 4. Mineure 51 séries. Séries uniquement ; total 51 ou moins. | 1600 | 1400 | 1200 |
+| 5. Mineure 51 suites. Suites uniquement ; total 51 ou moins. | 1600 | 1400 | 1200 |
+| 6. Piccolo 41 impair. 14 tuiles quelconques d'une valeur totale de 41 ou moins. | 800 | 700 | 600 |
+| 7. Piccolo 41 séries. Séries et/ou suites d'une valeur totale de 41 ou moins. | 1400 | 1200 | 1000 |
+| 8. Piccolo 41 suites. Suites uniquement d'une valeur totale de 41 ou moins. | 1600 | 1400 | 1200 |
+| 9. Piccolo 41 séries. Séries uniquement d'une valeur totale de 41 ou moins. | 1600 | 1400 | 1200 |
+| 10. Grand impair. 14 tuiles quelconques ; aucune tuile inférieure à 10 (1 compte comme haut) | 700 | 600 | 500 |
+| 11. Grands ensembles. Séries et/ou suites sans tuile inférieure à 10 (1 compte comme haut) | 1400 | 1200 | 1000 |
+| 12. Grand carré. Huit tuiles du même numéro — les six autres peuvent être n'importe quoi. | 1600 | 1400 | 1200 |
+| 13. Quatre couleurs. Quatre suites de couleurs différentes. | 900 | 800 | 700 |
+| 14. Quatre couleurs mineure. Quatre suites de couleurs différentes sans tuile supérieure à un 9. | 1000 | 900 | 800 |
+| 15. Quatre couleurs majeure. Quatre suites de couleurs différentes sans tuile inférieure à 10 (1 compte comme haut). | 1000 | 900 | 800 |
+| 16. Trois couleurs. Trois suites, chacune d'une couleur différente. | 700 | 600 | 500 |
+| 17. Trois couleurs mineure. Trois suites, chacune d'une couleur différente sans tuile supérieure à un 9. | 900 | 800 | 700 |
+| 18. Trois couleurs majeure. Trois suites, chacune d'une couleur différente sans tuile inférieure à 10 (1 compte comme haut). | 900 | 800 | 700 |
+| 19. Deux couleurs. Deux, trois ou quatre suites, n'utilisant que deux couleurs. | 1000 | 900 | 800 |
+| 20. Deux couleurs mineure. Deux, trois ou quatre suites, n'utilisant que deux couleurs, sans tuile supérieure à un 9. | 1400 | 1200 | 1000 |
+| 21. Deux couleurs majeure. Deux, trois ou quatre suites, n'utilisant que deux couleurs, sans tuile inférieure à 10 (1 haut). | 1400 | 1200 | 1000 |
+| 22. Couleur unique impair. 14 tuiles quelconques d'une seule couleur. | 1600 | 1400 | 1200 |
+| 23. Couleur unique suites. Deux, trois ou quatre suites de la même couleur. | 2000 | 1800 | 1600 |
+| 24. Royal. Une suite unique de 14 tuiles de 1 (bas) à 1 (haut). | 2400 | 2200 | 2000 |
+| 25. Bâtons. Quatre séries. | 1000 | 900 | 800 |
+| 26. Bâtons mineure. Quatre séries sans tuile supérieure à un 9. | 1400 | 1200 | 1000 |
+| 27. Bâtons majeure. Quatre séries sans tuile inférieure à 10 (1 haut). | 1400 | 1200 | 1000 |
+| 28. Mosaïque. Suite unique de couleurs mélangées, 1 (bas) à 1 (haut) sans deux tuiles consécutives de même couleur. | 1000 | 900 | 800 |
+| 29. Petite vague. Deux suites de couleurs mélangées de 1 à 7, chacune sans deux tuiles consécutives de même couleur. | 1200 | 1000 | 900 |
+| 30. Grande vague. Deux suites de couleurs mélangées de 8 à 1 (haut), chacune sans deux tuiles consécutives de même couleur. | 1200 | 1000 | 900 |
+| 31. Petite vague couleur unique. Deux suites de 1 à 7, de la même couleur. | 2600 | 2400 | 2200 |
+| 32. Grande vague couleur unique. Deux suites de 8 à 1 (haut), de la même couleur. | 2600 | 2400 | 2200 |
+| 33. Petite vague deux couleurs. Deux suites de 1 à 7, chacune d'une couleur différente. | 2200 | 2000 | 1800 |
+| 34. Grande vague deux couleurs. Deux suites de 8 à 1 (haut), chacune d'une couleur différente. | 2200 | 2000 | 1800 |
+| 35. Sept paires. Sept paires de tuiles identiques. | 1700 | 1500 | 1300 |
+| 36. Sept paires mineure. Sept paires de tuiles identiques sans tuile supérieure à un 9. | 2000 | 1800 | 1600 |
+| 37. Sept paires majeure. Sept paires de tuiles identiques sans tuile inférieure à 10 (1 haut). | 2000 | 1800 | 1600 |
+| 38. Sept paires couleur unique. Sept paires de tuiles identiques, toutes de la même couleur. | 2200 | 2000 | 1800 |
+| 39. Petite Blitz. 14 tuiles en séries et/ou suites dès le premier tour. | 1600 | 1400 | 1200 |
+| 40. Grande Blitz. 14 tuiles en séries et/ou suites dans votre main originale (non disponible pour le premier joueur). | 2000 | 1800 | 1600 |
 
-The winner of a Foot scores 200.
+Certains jouent que si vous avez la tuile identique à l'atout, soit dans votre main originale soit en la piochant ultérieurement, vous marquez 50 points supplémentaires.
 
-The descriptions of and scores for the various types of closed hand are as follows. Most of them vary according to the number of jokers included. When a hand belongs to several possible types, it counts only as the most valuable type. For hand types involving total value of tiles, 1's count as 1 point.
+À la fin de la session, chaque joueur paie chaque autre joueur en proportion de la différence entre leurs scores.
 
-| Hand Type | No jokers | One joker | Two jokers |
-| 1. Basic. 14 tiles in groups and/or runs | 500 | 400 | 300 |
-| 2. Hand minor Groups and/or runs with no tile higher than a 9. | 800 | 700 | 600 |
-| 3. Hand minor 51. Groups and/or runs with no tile higher than 9 and tiles add up to 51 or less. | 1000 | 900 | 800 |
-| 4. Minor 51 groups. Groups only; total 51 or less. | 1600 | 1400 | 1200 |
-| 5. Minor 51 runs. Runs only; total 51 or less. | 1600 | 1400 | 1200 |
-| 6. Piccolo 41 odd. Any 14 tiles with total value 41 or less. | 800 | 700 | 600 |
-| 7. Piccolo 41 sets. Groups and/or runs with total value 41 or less. | 1400 | 1200 | 1000 |
-| 8. Piccolo 41 runs. Runs only with total value 41 or less. | 1600 | 1400 | 1200 |
-| 9. Piccolo 41 groups. Groups only with total value 41 or less. | 1600 | 1400 | 1200 |
-| 10. Grand odd. Any 14 tiles; no tile lower than 10 (1 counts as high) | 700 | 600 | 500 |
-| 11. Grand sets. Groups and/or runs with no tile lower than 10 (1 counts as high) | 1400 | 1200 | 1000 |
-| 12. Grand square. Eight tiles of the same number - the other six can be anything. | 1600 | 1400 | 1200 |
-| 13. Four colours. Four runs of different colours. | 900 | 800 | 700 |
-| 14. Four colours minor. Four runs of different colours with no tile higher than a 9. | 1000 | 900 | 800 |
-| 15. Four colours major. Four runs of different colours with no tile lower than 10 (1 counts as high). | 1000 | 900 | 800 |
-| 16. Three colours. Three runs, each a different colour. | 700 | 600 | 500 |
-| 17. Three colours minor. Three runs, each a different colour with no tile higher than a 9. | 900 | 800 | 700 |
-| 18. Three colours major. Three runs, each a different colour with no tile lower than 10 (1 counts as high). | 900 | 800 | 700 |
-| 19. Two colours. Two, three or four runs, using only two colours. | 1000 | 900 | 800 |
-| 20.Two colours minor. Two, three or four runs, using only two colours, with no tile higher than a 9. | 1400 | 1200 | 1000 |
-| 21. Two colours major. Two, three or four runs, using only two colours, with no tile lower than 10 (1 high). | 1400 | 1200 | 1000 |
-| 22. Single colour odd. Any 14 tiles of one colour. | 1600 | 1400 | 1200 |
-| 23. Single colour runs. Two, three or four runs of the same colour. | 2000 | 1800 | 1600 |
-| 24. Royal. A single 14-card run from 1 (low) to 1 (high). | 2400 | 2200 | 2000 |
-| 25. Sticks. Four groups. | 1000 | 900 | 800 |
-| 26. Sticks minor. Four groups with no tile higher than a 9. | 1400 | 1200 | 1000 |
-| 27. Sticks major. Four groups with no tile lower than 10 (1 high). | 1400 | 1200 | 1000 |
-| 28. Mosaic. Single run of mixed colours, 1 (low) to 1 (high) with no two consecutive tiles of same colour. | 1000 | 900 | 800 |
-| 29. Little Wave. Two mixed colour runs 1 to 7, each with no two consecutive tiles of same colour. | 1200 | 1000 | 900 |
-| 30. Big Wave. Two mixed colour runs 8 to 1 (high), each with no two consecutive tiles of same colour. | 1200 | 1000 | 900 |
-| 31. Little wave single colour. Two runs 1 to 7, both the same colour. | 2600 | 2400 | 2200 |
-| 32. Big wave single colour. Two runs 8 to 1 (high), both the same colour. | 2600 | 2400 | 2200 |
-| 33. Little wave two colours. Two runs 1 to 7, each in a different colour. | 2200 | 2000 | 1800 |
-| 34. Big wave two colours. Two runs 8 to 1 (high), each in a different colour. | 2200 | 2000 | 1800 |
-| 35. Seven pairs. Seven pairs of identical tiles. | 1700 | 1500 | 1300 |
-| 36. Seven pairs minor. Seven pairs of identical tiles with no tile higher than a 9. | 2000 | 1800 | 1600 |
-| 37. Seven pairs major. Seven pairs of identical tiles with no tile lower than 10 (1 high). | 2000 | 1800 | 1600 |
-| 38. Seven pairs single colour. Seven pairs of identical tiles, all the same colour. | 2200 | 2000 | 1800 |
-| 39. Little Blitz. 14 tiles in groups and/or runs on your first turn. | 1600 | 1400 | 1200 |
-| 40. Grand Blitz. 14 tiles in groups and/or runs in your original hand (not available for first player). | 2000 | 1800 | 1600 |
+## Logiciels et jeux en ligne
 
-Some play that if you have the identical tile to the trump, either in your original hand or by drawing it later, you score an extra 50 points.
+[Rummikub.com](https://rummikub.com/), le site officiel publié par Lemada Light Industries Ltd, le distributeur original de Rummikub®, fournit désormais une version en ligne du Rummikub® Sabra.
 
-At the end of the session, each player pays each other player in proportion to the difference between their scores.
+Un jeu similaire au Rummikub® Sabra peut être joué en ligne sous le nom de Rummy sur le serveur par tours [Brettspielnetz.de](https://www.brettspielnetz.de).
 
-## Software and Online Games
+[Rummi](https://www.cardgame.com/game/Rummi), une version à deux joueurs du Rummikub® Sabra contre l'ordinateur, peut être jouée sur cardgame.com.
 
-[Rummikub.com](https://rummikub.com/), the official site published by Lemada Light Industries Ltd, the original distributors of Rummikub®, now provides an online version of Sabra Rummikub.
-
-A game similar to Sabra Rummikub can be played online under the name Rummy at the turn-based server [Brettspielnetz.de](https://www.brettspielnetz.de).
-
-[Rummi](https://www.cardgame.com/game/Rummi), a two-player version of Sabra Rummikub against the computer, can be played at cardgame.com
-
-The [Rummikub® pages](http://www.rummy-games.com/rules/rummikub.html) of Rany Rasa's Rummy-Games.com site include a description of Sabra Rummikub and reviews of several Rummikub and tile rummy packages.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Rummikub
+Les [pages Rummikub®](http://www.rummy-games.com/rules/rummikub.html) du site Rummy-Games.com de Rany Rasa incluent une description du Rummikub® Sabra et des critiques de plusieurs jeux Rummikub et de rami en tuiles.

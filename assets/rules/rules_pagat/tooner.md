@@ -1,102 +1,99 @@
 # Toonerville Rook
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A version of Contract Rummy played with several Rook decks.
+**Type :** Rami
+**But :** Une variante du rami à contrat jouée avec plusieurs jeux de Rook.
 
 ---
 
-This is a version of Contract Rummy played with several Rook decks. See also Rook Shanghai - another Contract Rummy game played with Rook cards.
+Il s'agit d'une variante du rami à contrat jouée avec plusieurs jeux de Rook. Voir aussi Rook Shanghai — un autre jeu de rami à contrat joué avec des cartes Rook.
 
-The information below is more or less a copy of Steve Simpson's former Toonerville Rook page, last seen at http://people.ne.mediaone.net/ssimpson/tooner.html.
+Les informations ci-dessous sont plus ou moins une copie de l'ancienne page Toonerville Rook de Steve Simpson, vue pour la dernière fois à http://people.ne.mediaone.net/ssimpson/tooner.html.
 
-## Toonerville Rook Card Game Directions
+## Règles du jeu de cartes Toonerville Rook
 
-### Object
+### Objectif
 
-To have the lowest score at the end of the game. This is achieved by discarding your cards onto the play field and as few points against you as possible (which are left in your hand when someone wins the round).
+Avoir le score le plus bas à la fin du jeu. Cela est réalisé en posant vos cartes sur l'aire de jeu et en accumulant le moins de points possible contre vous (qui restent dans votre main lorsque quelqu'un gagne la manche).
 
-### Number of players
+### Nombre de joueurs
 
-Three to five players per table. You can play tournament style in groups of three to five people. At the end of each round, move to another seat. Keep a master score sheet to record everyone's score as in single table Toonerville Rook.
+Trois à cinq joueurs par table. Vous pouvez jouer en style tournoi en groupes de trois à cinq personnes. À la fin de chaque manche, changez de place. Gardez une feuille de score principale pour enregistrer le score de chacun comme au Toonerville Rook à table unique.
 
-### Materials
+### Matériel
 
-One deck of Rook cards per person at the table. All decks are shuffled together so if you are sharing decks, it is helpful to have different backs for easy separation. Usually, the host provides a set of cards; four or five decks that can be used for play by everyone at the table.
+Un jeu de cartes Rook par personne à la table. Tous les jeux sont mélangés ensemble, donc si vous partagez les jeux, il est utile d'avoir des dos différents pour une séparation facile. Habituellement, l'hôte fournit un ensemble de cartes ; quatre ou cinq jeux utilisables par tous à la table.
 
-### Runs
+### Suites
 
-A run is four or more cards of the same color (suit) in sequential order. "Wrap around" (13, 14, 1, 2, for example) is not allowed.
+Une suite est quatre cartes ou plus de la même couleur dans l'ordre séquentiel. Le « bouclage » (13, 14, 1, 2, par exemple) n'est pas autorisé.
 
-### Sets
+### Ensembles
 
-A set is three or more cards of the same number (and can be any combination of colors).
+Un ensemble est trois cartes ou plus du même numéro (et peut être n'importe quelle combinaison de couleurs).
 
-### The Rook Card
+### La carte Rook
 
-The Rook card is a wild card. If the Rook is in a run on the play field, a player, during his turn may substitute the card that the Rook card represents, taking the Rook card and using it to play in his own hand. However, whenever a Rook card is taken in this fashion, it must be played during the player's turn. **Note:** Only Rook cards that are in runs may be substituted. Rook cards in sets may not be substituted.
+La carte Rook est un joker. Si le Rook se trouve dans une suite sur l'aire de jeu, un joueur peut, pendant son tour, substituer la carte que le Rook représente, en prenant la carte Rook et en l'utilisant pour jouer dans sa propre main. Cependant, chaque fois qu'une carte Rook est prise de cette façon, elle doit être jouée pendant le tour du joueur. **Note :** Seules les cartes Rook qui se trouvent dans des suites peuvent être substituées. Les cartes Rook dans des ensembles ne peuvent pas être substituées.
 
-### A Player's Turn
+### Le tour d'un joueur
 
-At the beginning of a player's turn, a player must draw one card from either the deck or the discard pile. At the end of a player's turn a player must discard one card onto the discard pile, except when ending a round. (At the end of Round 11, a player must not discard when ending the round.) A player may not pick up from the discard pile and discard that same card.
+Au début du tour d'un joueur, celui-ci doit piocher une carte soit du jeu soit de la pile de défausse. À la fin du tour d'un joueur, celui-ci doit défausser une carte sur la pile de défausse, sauf en fin de manche. (À la fin de la manche 11, un joueur ne doit pas défausser en fin de manche.) Un joueur ne peut pas prendre de la pile de défausse et défausser cette même carte.
 
-At the beginning of a player's turn, if the player does not want the top card of the discard pile, the other players have the option to buy that card before the player draws a card from the deck.
+Au début du tour d'un joueur, si le joueur ne veut pas de la carte du dessus de la pile de défausse, les autres joueurs ont la possibilité d'acheter cette carte avant que le joueur ne pioche une carte du jeu.
 
-### Buying a Card
+### Acheter une carte
 
-An opponent states that he wants the card on top of the discard pile by saying "I'll buy that!" If more than one opponent wants to buy the card, the buyer closest to the player's left receives the card. The player buying the card draws an additional card from the deck (two cards total). Then play resumes with the player whose turn it is drawing his card from the deck. After a card is bought in a turn, the player whose turn it is may not then draw from the discard pile and must draw from the deck.
+Un adversaire indique qu'il veut la carte du dessus de la pile de défausse en disant « Je l'achète ! ». Si plus d'un adversaire veut acheter la carte, l'acheteur le plus proche de la gauche du joueur reçoit la carte. Le joueur qui achète la carte pioche une carte supplémentaire du jeu (deux cartes au total). Ensuite, le jeu reprend avec le joueur dont c'est le tour qui pioche sa carte du jeu. Après qu'une carte a été achetée pendant un tour, le joueur dont c'est le tour ne peut ensuite pas piocher de la pile de défausse et doit piocher du jeu.
 
-### Playing a Round
+### Jouer une manche
 
-A player must obtain the specified number of runs and sets for any given round and play them on their field. When to play your cards is a matter of strategy.
+Un joueur doit obtenir le nombre spécifié de suites et ensembles pour une manche donnée et les jouer sur son aire de Le moment de jouer vos cartes est une question de stratégie.
 
-A player may play cards on an opponent's play field if
+Un joueur peut jouer des cartes sur l'aire de jeu d'un adversaire si
 
-- the player has played on his own play field with the required number of runs and sets for that round and
+- le joueur a joué sur sa propre aire de jeu avec le nombre requis de suites et ensembles pour cette manche et
 
-- the card played on an opponent's play field follows the rules for runs and sets.
+- la carte jouée sur l'aire de jeu de l'adversaire respecte les règles des suites et ensembles.
 
-Since play field points are not awarded, playing cards on an opponent's play field is simply a way of ridding your hand of extra cards.
+Les points de l'aire de jeu n'étant pas attribués, jouer des cartes sur l'aire de jeu d'un adversaire est simplement un moyen de se débarrasser de cartes supplémentaires.
 
-When a player plays his last card on the field or discards his last card on the discard pile the round is over. Cards left in opponent's hands are tallied up and recorded. The player who plays his last card receives zero points.
+Quand un joueur joue sa dernière carte sur l'aire de jeu ou défausse sa dernière carte sur la pile de défausse, la manche est terminée. Les cartes restantes dans les mains des adversaires sont comptées et enregistrées. Le joueur qui joue sa dernière carte reçoit zéro point.
 
-Round 11 differs from the other rounds in that you must not discard at the end of the round. In other words, the card that you draw at the beginning of your turn must fit into the two runs and two sets you have been gathering so that you can lay your whole hand down at once. So take care in the amount of buying you do in Round 11.
+La manche 11 diffère des autres manches en ce que vous ne devez pas défausser en fin de manche. En d'autres termes, la carte que vous piochez au début de votre tour doit s'insérer dans les deux suites et deux ensembles que vous avez rassemblés pour que vous puissiez poser toute votre main d'un coup. Faites donc attention à la quantité d'achats que vous faites lors de la manche 11.
 
-### Rounds
+### Manches
 
-- Two sets (deal 12 cards)
+- Deux ensembles (donne de 12 cartes)
 
-- One run and one set (deal 12 cards)
+- Une suite et un ensemble (donne de 12 cartes)
 
-- Two runs (deal 12 cards)
+- Deux suites (donne de 12 cartes)
 
-- Three sets (deal 12 cards)
+- Trois ensembles (donne de 12 cartes)
 
-- One run and two sets (deal 12 cards)
+- Une suite et deux ensembles (donne de 12 cartes)
 
-- Two runs and one set (deal 12 cards)
+- Deux suites et un ensemble (donne de 12 cartes)
 
-- Four sets (deal 12 cards)
+- Quatre ensembles (donne de 12 cartes)
 
-- Three runs (dea1 12 cards)
+- Trois suites (donne de 12 cartes)
 
-- Five sets (deal 15 cards)
+- Cinq ensembles (donne de 15 cartes)
 
-- Four runs (deal 16 cards)
+- Quatre suites (donne de 16 cartes)
 
-- Two runs and two sets (no discard at the end of the round) (deal 12 cards)
+- Deux suites et deux ensembles (pas de défausse en fin de manche) (donne de 12 cartes)
 
-### Scoring
+### Comptage des points
 
-- Cards 1 through 9 are 5 points each
+- Les cartes 1 à 9 comptent 5 points chacune
 
-- Cards 10 through 14 are 10 points each
+- Les cartes 10 à 14 comptent 10 points chacune
 
-- Rook cards are 25 points each
+- Les cartes Rook comptent 25 points chacune
 
-*Rook rules were transcribed by Mark Metcalfe 
-*
+*Règles de Rook transcrites par Mark Metcalfe*
 
-*Originally posted on the Web by Steve Simpson. This copy maintained by John McLeod.*
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Toonerville Rook
+*Publié à l'origine sur le Web par Steve Simpson. Cette copie est maintenue par John McLeod.*

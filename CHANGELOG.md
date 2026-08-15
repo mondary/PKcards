@@ -33,6 +33,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Compteur de scores générique (`tools/score/`) : joueurs rapides, manches, totaux auto, historique éditable, photos, palmarès
 
 ### Phase 5 — Import pagat.com (en cours)
+- [x] Réorganisation des dossiers règles : `rules_original/` (188 fiches racine + rules3 fusionné), `rules_garraud/` (ex-rules2), scripts/README mis à jour
 - [x] Scraping de l'index alpha (512 pages)
 - [x] Conversion automatique au format fiche (méta FR, corps EN)
 - [x] Détection de doublons multilingue (FR/EN/ES/alias) — `_skip.json`

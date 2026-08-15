@@ -32,12 +32,12 @@ Découvrez plus de 160 jeux de cartes en swipant : parcourez, apprenez les règl
 ## 🧾 Commandes
 
 ```bash
-node scripts/build.js       # génère site/v1/data.js depuis assets/rules/*.md
+node assets/scripts/build.js       # génère site/v1/data.js depuis assets/rules/rules_original/*.md
 ```
 
 ## 📦 Build & Package
 
-Le catalogue est généré depuis les fichiers Markdown de `rules/`. Après toute modification des règles, régénérez les données :
+Le catalogue est généré depuis les fichiers Markdown de `assets/rules/rules_original/`. Après toute modification des règles, régénérez les données :
 
 ```bash
 node scripts/build.js

@@ -32,12 +32,12 @@ Discover 160+ card games by swiping: browse, learn the rules and save your favor
 ## 🧾 Commands
 
 ```bash
-node scripts/build.js       # generates site/v1/data.js from assets/rules/*.md
+node assets/scripts/build.js       # generates site/v1/data.js from assets/rules/rules_original/*.md
 ```
 
 ## 📦 Build & Package
 
-The catalog is generated from the Markdown files in `rules/`. After editing any rule, regenerate the data:
+The catalog is generated from the Markdown files in `assets/rules/rules_original/`. After editing any rule, regenerate the data:
 
 ```bash
 node scripts/build.js

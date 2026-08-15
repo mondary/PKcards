@@ -1,268 +1,269 @@
 # Pokerato
 
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** Which are hybrids of Poker and Rummy.
+**Type :** Rami
+**But :** Des hybrides de Poker et de Rami.
+**Autres noms :** Ramino Pokerato, Carioca
 
 ---
 
 - Introduction
 
-- Version 1 - *con Rilancio* with Jokers
+- Version 1 - *con Rilancio* avec Jokers
 
 - Version 2 - *con Jolly immaginario*
 
-- Version 3 - *carioca* - a contract game with 8 deals
+- Version 3 - *carioca* - un jeu à contrat en 8 donnes
 
 ## Introduction
 
-The idea of combining Poker and Rummy must be especially attractive to Italian card players, since ***Ramino Pokerato*** ('Pokerised Rummy') is a name given to at least three different Italian Rummy games. 
+L'idée de combiner le Poker et le Rami doit être particulièrement attrayante pour les joueurs de cartes italiens, puisque le ***Ramino Pokerato*** (« Rami pokerisé ») est un nom donné à au moins trois jeux de rami italiens différents.
 
-The first two versions described on this page feature poker-like betting and are also sometimes known as ***Ramino con Rilancio*** - '*rilancio*' is a raise in poker. Version 1 is played with a double deck and four Jokers. In version 2 (***con Jolly immaginario***) there are no printed Jokers but a player can use any one card as a wild card (an 'imaginary joker') to complete a hand. There are probably many local versions of these games featuring various selections of the variants listed and no doubt there are other variants as well.
+Les deux premières versions décrites sur cette page comportent des mises de type poker et sont aussi parfois connues sous le nom de ***Ramino con Rilancio*** — *rilancio* est une relance au poker. La version 1 se joue avec un double jeu et quatre Jokers. Dans la version 2 (***con Jolly immaginario***) il n'y a pas de Jokers imprimés, mais un joueur peut utiliser n'importe quelle carte comme Joker pour compléter une main. Il existe probablement de nombreuses versions locales de ces jeux avec diverses sélections des variantes listées et sans doute d'autres variantes également.
 
-In the third version, sometimes known as ***Carioca*** there is no poker-like escalation of stakes. It is a kind of Contract Rummy that is 'pokerised' in the sense that many of the contracts require poker-like combinations as the player's initial meld.
+Dans la troisième version, parfois appelée ***Carioca***, il n'y a pas d'escalade de mises de type poker. C'est une sorte de Rami à contrat qui est « pokerisé » en ce sens que de nombreux contrats exigent des combinaisons de type poker comme première pose du joueur.
 
-*With thanks to Antonio de Sebastiano for descriptions of the first two versions and Byron Ioannou for the Cypriot variant Pokerize. The imaginary Joker version is also described in the book *I Giochi di Carte* by Fantini and Santelia (Rizzoli, Milan, 1985).** The contract version appears in an Italian Wikipedia page, which also describes a variant of the imaginary Joker version. *
+*Avec nos remerciements à Antonio de Sebastiano pour les descriptions des deux premières versions et à Byron Ioannou pour la variante chypriote Pokerize. La version du Joker imaginaire est aussi décrite dans le livre I Giochi di Carte de Fantini et Santelia (Rizzoli, Milan, 1985).* La version à contrat apparaît dans une page Wikipédia italienne, qui décrit aussi une variante de la version du Joker imaginaire.
 
-## Version 1 - with Jokers and betting
+## Version 1 - avec Jokers et mises
 
-### Players and Cards
+### Joueurs et cartes
 
-This game is best for 3 to 5 players. A double deck of standard international playing cards with 4 Jokers is used, so there are 108 cards (2×52 + 4). Deal and play are clockwise, and the turn to deal passes to the left after each hand.
+Ce jeu convient le mieux à 3 à 5 joueurs. Un double jeu de cartes internationales standard avec 4 Jokers est utilisé, soit 108 cartes (2×52 + 4). La distribution et le jeu se font dans le sens horaire, et le tour de distribution passe à gauche après chaque donne.
 
-The amount of the basic fixed stake (blind) should be agreed before beginning the session.
+Le montant de la mise de base fixe (blind) doit être convenu avant le début de la session.
 
-### Card Combinations: Sets and Runs
+### Combinaisons de cartes : ensembles et suites
 
-As in all Rummy games the players aim to collect cards in their hands that form sets and runs. 
+Comme dans tous les jeux de Rami, les joueurs cherchent à collecter des cartes en main formant des ensembles et des suites.
 
-A **set** consists of three or more cards of the same rank, and may include two identical cards, for example **![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)2-![club](../images/internat/club.gif)2**.
+Un **ensemble** consiste en trois cartes ou plus de même rang, et peut inclure deux cartes identiques, par exemple **![cœur](../images/internat/heart.gif)2-![cœur](../images/internat/heart.gif)2-![trèfle](../images/internat/club.gif)2**.
 
-A **run** or **sequence** consists of three or more cards consecutive cards of the same suit. In this game runs are allowed to 'turn the corner': the Ace is adjacent to both the King and the Two, so for example **![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A**, **![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)2** and **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2-![spade](../images/internat/spade.gif)3** are all legal runs.
+Une **suite** ou **séquence** consiste en trois cartes consécutives ou plus de la même couleur. Dans ce jeu, les suites sont autorisées à « tourner le coin » : l'As est adjacent au Roi et au Deux, par exemple **![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A**, **![carreau](../images/internat/diamond.gif)R-![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)2** et **![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)2-![pique](../images/internat/spade.gif)3** sont toutes des suites légales.
 
-Jokers are wild. When making sets or runs, they can be used to represent any desired card.
+Les Jokers sont Joker. Lors de la formation d'ensembles ou de suites, ils peuvent être utilisés pour représenter n'importe quelle carte souhaitée.
 
-### Deal and Betting
+### Distribution et mises
 
-After the cards have been shuffled by the dealer and cut by the player to dealer's right, each player receives a hand of 10 cards, dealt one at a time. The rest of the pack is stacked face down to form a stock from which cards are drawn during the play.
+Après que les cartes ont été mélangées par le donneur et coupées par le joueur à sa droite, chaque joueur reçoit une main de 10 cartes, distribuées une à une. Le reste du jeu est empilé face cachée pour former la pioche.
 
-The first player to dealer's left has to open the betting by paying a fixed stake to the pool - this is called *"fare il buio". *This is similar to the 'blind' bet in some poker games, and should be placed before the first player looks at their hand. The other players, after seeing their cards, may call, fold or raise this bet as in a normal poker game - see poker betting for details of how this works. If all players except one fold the last remaining player collects the pool, there is no play and the turn to deal passes to the next dealer.
+Le premier joueur à la gauche du donneur doit ouvrir les mises en payant une mise fixe au pot — c'est ce qu'on appelle *fare il buio*. C'est similaire à la mise « blind » dans certains jeux de poker, et doit être placée avant que le premier joueur ne regarde sa main. Les autres joueurs, après avoir vu leurs cartes, peuvent suivre, se coucher ou relancer comme dans un jeu de poker normal. Si tous les joueurs sauf un se couchent, le dernier joueur restant remporte le pot, il n'y a pas de jeu et le tour de distribution passe au donneur suivant.
 
-When the betting round ends with two or more players still in the game, the play begins with the player to dealer's left, or if this player has folded with the next player in clockwise order who has not folded. The first player draws the top card of the stock, adds it to their hand, and discards one card face up next to the stock to begin the discard pile. Subsequent active players in turn must first draw either the top card of the face down stock or the top card of the face up discard pile, add it to their hand, and then discard any one of their 11 cards face up on top of the discard pile.
+Quand le tour de mises se termine avec deux joueurs ou plus encore en lice, le jeu commence avec le joueur à la gauche du donneur, ou si ce joueur s'est couché, avec le prochain joueur dans le sens horaire qui ne s'est pas couché. Le premier joueur pioche la carte du dessus de la pioche, l'ajoute à sa main, et défausse une carte face ouverte à côté pour commencer la pile de défausse. Les joueurs actifs suivants à tour de rôle doivent d'abord piocher soit la carte du dessus de la pioche, soit la carte du dessus de la pile de défausse, l'ajouter à leur main, puis défausser l'une de leurs 11 cartes face ouverte sur la pile de défausse.
 
-This continues until a player ends the game after drawing by laying down 10 of their hand cards arranged into valid combinations and discarding their 11th card. This is known as **closing** (or going out). This player collects the whole contents of the pool, and the other players do not have to show their cards. The following should be noted.
+Cela continue jusqu'à ce qu'un joueur termine le jeu après avoir pioché en posant 10 de ses cartes disposées en combinaisons valides et en défaussant sa 11e carte. C'est ce qu'on appelle **fermer** (ou se déclarer). Ce joueur remporte tout le contenu du pot, et les autres joueurs n'ont pas à montrer leurs cartes. Les points suivants sont à noter.
 
-- No combinations are shown during the play. A player places sets and runs face up on the table only when going out and ending the play.
+- Aucune combinaison n'est montrée pendant le jeu. Un joueur ne pose des ensembles et des suites face ouverte sur la table qu'au moment de se déclarer et de terminer le jeu.
 
-- A player who can use 10 cards in sets and runs can go out on any turn. The first player can even go out on the very first turn of the game if holding 10 cards that can be arranged into combinations after drawing the top card of the stock.
+- Un joueur qui peut utiliser 10 cartes en ensembles et suites peut se déclarer à n'importe quel tour. Le premier joueur peut même se déclarer dès le tout premier tour du jeu s'il tient 10 cartes pouvant être disposées en combinaisons après avoir pioché la carte du dessus de la pioche.
 
-- When going out, no card can belong to two combinations at the same time. For example ![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)8-![diamond](../images/internat/diamond.gif)8-![club](../images/internat/club.gif)8 can make a run of hearts or a set of eights but not both. To make all these cards into combinations the player would need to add either a ![heart](../images/internat/heart.gif)5 to the run or another 8 to the set.
+- Lors de la déclaration, aucune carte ne peut appartenir à deux combinaisons en même temps. Par exemple ![cœur](../images/internat/heart.gif)6-![cœur](../images/internat/heart.gif)7-![cœur](../images/internat/heart.gif)8-![carreau](../images/internat/diamond.gif)8-![trèfle](../images/internat/club.gif)8 peut faire une suite de cœurs ou un ensemble de huit, mais pas les deux. Pour faire de toutes ces cartes des combinaisons, le joueur devrait ajouter soit un ![cœur](../images/internat/heart.gif)5 à la suite, soit un autre 8 à l'ensemble.
 
-- There is no limit to the number of Jokers that can be used as wild cards in a combination. 
+- Il n'y a pas de limite au nombre de Jokers pouvant être utilisés comme Joker dans une combinaison.
 
-- A discard is needed when going out: a player is not allowed to use all 11 cards in combinations. *(This is not really a restriction: in an 11-card hand at least one of the combinations must have more than 3 cards, so a card can be discarded from it.)*
+- Une défausse est nécessaire lorsqu'on se déclare : un joueur n'est pas autorisé à utiliser ses 11 cartes dans des combinaisons. *(Ce n'est pas vraiment une restriction : dans une main de 11 cartes, au moins une des combinaisons doit avoir plus de 3 cartes, donc une carte peut en être défaussée.)*
 
-- A player who is able to go out is not obliged to do so but can continue playing, in the hope of collecting an extra payment (see below).
+- Un joueur capable de se déclarer n'est pas obligé de le faire et peut continuer à jouer, dans l'espoir de récolter un paiement supplémentaire (voir ci-dessous).
 
-Usually a number of additional payments are agreed for particular types of hand. If a player closes with one of these special hands, all other active players (those who have not folded) must make an extra payment to the winner. The extra payment is a multiple of the total amount that they have already bet on the hand.
+Généralement, un certain nombre de paiements supplémentaires sont convenus pour des types de mains particuliers. Si un joueur ferme avec l'une de ces mains spéciales, tous les autres joueurs actifs (ceux qui ne se sont pas couchés) doivent verser un paiement supplémentaire au gagnant. Le paiement supplémentaire est un multiple du montant total qu'ils ont déjà misé sur la donne.
 
-- If the winner has only two combinations - for example a run of 7 and a set of 3 or a run of 4 and a set of 6 - all active players must pay **one** extra stake, this doubling the amount of their bet.
+- Si le gagnant n'a que deux combinaisons — par exemple une suite de 7 et un ensemble de 3, ou une suite de 4 et un ensemble de 6 — tous les joueurs actifs doivent payer **une** mise supplémentaire, doublant ainsi le montant de leur mise.
 
-- If the winner has just one 10-card combination (it could be a long run or a set with Jokers), all active players must pay **three** extra stakes to the winner, thus quadrupling their bet.
+- Si le gagnant n'a qu'une seule combinaison de 10 cartes (ce peut être une longue suite ou un ensemble avec des Jokers), tous les joueurs actifs doivent payer **trois** mises supplémentaires au gagnant, quadruplant ainsi leur mise.
 
-- If the winner has just one 10-card run without Jokers, all active players must pay **four** extra stakes to the winner, thus quintupling their bet.
+- Si le gagnant n'a qu'une seule suite de 10 cartes sans Joker, tous les joueurs actifs doivent payer **quatre** mises supplémentaires au gagnant, quintuplant ainsi leur mise.
 
-### Variant: Pokerize
+### Variante : Pokerize
 
-In the name of this variant, which is played in Cyprus, the final e is pronounced: *'pokerizé'*. It is played with only two Jokers, so 106 cards in all, and there are 5-8 players. 10 cards each are dealt, as in Ramino Pokerato.
+Dans le nom de cette variante, jouée à Chypre, le e final est prononcé : « pokerizé ». Elle se joue avec seulement deux Jokers, soit 106 cartes au total, et compte 5 à 8 joueurs. On distribue 10 cartes à chacun, comme au Ramino Pokerato.
 
-The special hands that entitle the winner to receive one extra stake from each active player are known as **pokerize.** They are:
+Les mains spéciales qui donnent droit au gagnant de recevoir une mise supplémentaire de chaque joueur actif sont appelées **pokerize**. Elles sont :
 
-- A run of 7 with a set of 3
+- Une suite de 7 avec un ensemble de 3
 
-- A run of 10
+- Une suite de 10
 
-- Five pairs of identical cards: the cards in each pair must be the same rank **and** the same suit.
+- Cinq paires de cartes identiques : les cartes de chaque paire doivent être du même rang **et** de la même couleur.
 
-## Version 2 - with an imaginary Joker
+## Version 2 - avec un Joker imaginaire
 
-In the version described by Antonio de Sebastiano the rules are the same as for Ramino Pokerato with Jokers and betting (above), but it is played with a double deck without Jokers. 
+Dans la version décrite par Antonio de Sebastiano, les règles sont les mêmes que pour le Ramino Pokerato avec Jokers et mises (ci-dessus), mais elle se joue avec un double jeu sans Jokers.
 
-Each player is dealt ten cards. When closing (going out) a player can nominate any one of the 10 cards in card in their hand as a wild card to complete a combination.
+Chaque joueur reçoit dix cartes. Lors de la fermeture (déclaration), un joueur peut désigner n'importe laquelle des 10 cartes de sa main comme Joker pour compléter une combinaison.
 
-### Variant: *fare il buio* (blind bet)
+### Variante : *fare il buio* (mise à l'aveugle)
 
-Fantini and Santelia describe a similar game but with a version of blind betting reminiscent of that used in Italian Poker. Before each deal the dealer places a basic stake (ante) in the pool and the player to dealer's right has the option to bet twice the amount of the ante before the deal - this is known as *'fare il buio'* (blind betting). The cards are then dealt. If the first player placed a blind bet, the other players in turn (including the dealer) have the option after seeing their cards either to play by equalling the blind bet or to fold, but they cannot raise the stake. 
+Fantini et Santelia décrivent un jeu similaire mais avec une version de mise à l'aveugle rappelant celle du Poker italien. Avant chaque donne, le donneur place une mise de base (ante) dans le pot et le joueur à la droite du donneur a la possibilité de miser le double de l'ante avant la donne — c'est ce qu'on appelle *fare il buio* (mise à l'aveugle). Les cartes sont ensuite distribuées. Si le premier joueur a placé une mise à l'aveugle, les autres joueurs à tour de rôle (y compris le donneur) ont l'option, après avoir vu leurs cartes, soit de jouer en égalisant la mise à l'aveugle, soit de se coucher, mais ils ne peuvent pas relancer.
 
-If all fold the first player collects the pool, winning the ante. If any of the other players play, the blind bettor cannot fold at this stage (the bets are already equalised), but has the option to raise the stake or just to play. If the blind bettor raises, a normal poker-style betting round ensues in which players can call, raise or fold. If the blind-bettor just plays, the game begins and none of the other players has the opportunity to raise the stake.
+Si tous se couchent, le premier joueur remporte le pot, gagnant l'ante. Si l'un des autres joueurs joue, le parieur à l'aveugle ne peut pas se coucher à ce stade (les mises sont déjà égalisées), mais a l'option de relancer ou simplement de jouer. Si le parieur à l'aveugle relance, un tour de mises de type poker s'ensuit dans lequel les joueurs peuvent suivre, relancer ou se coucher. Si le parieur à l'aveugle joue simplement, le jeu commence et aucun des autres joueurs n'a l'opportunité de relancer.
 
-If the first player chooses not to bet blind, the cards are dealt and there is a normal poker-style betting round beginning with the first player, who chooses whether or not to bet after seeing their cards. 
+Si le premier joueur choisit de ne pas miser à l'aveugle, les cartes sont distribuées et il y a un tour de mises de type poker commençant avec le premier joueur, qui choisit de miser ou non après avoir vu ses cartes.
 
-The advantage of betting blind is that the first player then acts last in the betting round and can prevent any other player from raising the stake. The disadvantage is that if anyone calls, the first player will have to play even if dealt bad cards.
+L'avantage de miser à l'aveugle est que le premier joueur agit alors en dernier dans le tour de mises et peut empêcher tout autre joueur de relancer. L'inconvénient est que si quelqu'un suit, le premier joueur devra jouer même s'il a reçu de mauvaises cartes.
 
-### Variant: special hands
+### Variante : mains spéciales
 
-Fantini and Santelia give a different set of special closing hands, for which the winner receives an extra payment from each active player which is a multiple of the total amount they have bet on the hand (excluding the dealer's ante). There are probably many local variants of this.
+Fantini et Santelia donnent un ensemble différent de mains de fermeture spéciales, pour lesquelles le gagnant reçoit un paiement supplémentaire de chaque joueur actif, qui est un multiple du montant total misé sur la donne (à l'exclusion de l'ante du donneur). Il y a probablement de nombreuses variantes locales de ceci.
 
-| Special hand | Payment |
-| Two sets of three of a kind plus a four of a kind of pictures (4 Kings, 4 Queens or 4 Jacks) | One extra stake |
-| Three sequences in the same suit | One extra stake |
-| Only two combinations (for example 4 of a kind and a sequence of 6) | One extra stake |
-| Five pairs each consisting of two identical cards | Two extra stakes |
-| A single sequence of ten cards in a suit | Four extra stakes |
-| Five pairs of two identical cards, all in the same suit | Five extra stakes |
+| Main spéciale | Paiement |
+| Deux ensembles de trois de même rang plus un carré de figures (4 Rois, 4 Dames ou 4 Valets) | Une mise supplémentaire |
+| Trois suites de la même couleur | Une mise supplémentaire |
+| Seulement deux combinaisons (par exemple un carré et une suite de 6) | Une mise supplémentaire |
+| Cinq paires composées chacune de deux cartes identiques | Deux mises supplémentaires |
+| Une seule suite de dix cartes d'une même couleur | Quatre mises supplémentaires |
+| Cinq paires de deux cartes identiques, toutes de la même couleur | Cinq mises supplémentaires |
 
-### Variant: Ace high or low in sequence
+### Variante : As haut ou bas dans une suite
 
-Some players do not allow an Ace to be used in the interior of a sequence. It can be either a low card, next to the 2, or a high card, next to the King, but not both at once.
+Certains joueurs n'autorisent pas un As à être utilisé à l'intérieur d'une suite. Il peut être soit une carte basse, à côté du 2, soit une carte haute, à côté du Roi, mais pas les deux à la fois.
 
-### Variant: game with 9-card hands and fixed bets and raises
+### Variante : jeu avec mains de 9 cartes et mises et relances fixes
 
-Italian Wikipedia describes a variant in which only 9 cards are dealt to each player rather than 10, but when going out a player can add an imaginary wild card (*jolly immaginario*) to their 9 real cards to complete a combination. According to this description it is usual to play alternate rounds (a round consisting of as many deals as there are players, each player dealing once) clockwise and anticlockwise, so that each time the turn to deal comes back to the first dealer the direction of play reverses.
+Le Wikipédia italien décrit une variante dans laquelle seulement 9 cartes sont distribuées à chaque joueur au lieu de 10, mais lors de la fermeture un joueur peut ajouter un Joker imaginaire (*jolly immaginario*) à ses 9 cartes réelles pour compléter une combinaison. Selon cette description, il est habituel de jouer des tours alternés (un tour consistant en autant de donnes qu'il y a de joueurs, chaque joueur distribuant une fois) dans le sens horaire et antihoraire, de sorte qu'à chaque fois que le tour de distribution revient au premier donneur, le sens du jeu s'inverse.
 
-As in any gambling game the players should agree on the stake, the basic stake to play a hand being 5 units.
+Comme dans tout jeu d'argent, les joueurs doivent se mettre d'accord sur la mise, la mise de base pour jouer une donne étant de 5 unités.
 
-When the cards have been dealt and the payers have looked at their cards, the first player decides whether to open the game by paying an initial bet of 5 units to the pool, or to pass and wait for the other players' decisions. If the first player passes the other players in turn have the same options until all have passed or someone decides to open the game.
+Après la distribution des cartes et que les joueurs ont regardé leurs cartes, le premier joueur décide s'il ouvre le jeu en payant une mise initiale de 5 unités au pot, ou s'il passe et attend les décisions des autres joueurs. Si le premier joueur passe, les autres joueurs à tour de rôle ont les mêmes options jusqu'à ce que tous aient passé ou que quelqu'un décide d'ouvrir le jeu.
 
-If a player opens the game, there is a poker-style betting round in which players in turn can call, fold or raise. A player who calls must pay the pool so that their total contribution to the pool is equal of the last player who bet or raised. 
+Si un joueur ouvre le jeu, il y a un tour de mises de type poker dans lequel les joueurs à tour de rôle peuvent suivre, se coucher ou relancer. Un joueur qui suit doit payer le pot pour que sa contribution totale soit égale à celle du dernier joueur qui a misé ou relancé.
 
-The bet can be raised up to four times by fixed amounts. The first raise *"per tre"* raises the stake from 5 units to 15, the second *"per sei"* from 15 to 30, the third *"per nove"* from 30 to 45 and the final raise *"per dieci"* from 45 to 50. A player who raises must add enough to the pool so that their total contribution is equal to the new bet.
+La mise peut être relancée jusqu'à quatre fois par montants fixes. La première relance *per tre* fait passer la mise de 5 unités à 15, la seconde *per sei* de 15 à 30, la troisième *per nove* de 30 à 45 et la relance finale *per dieci* de 45 à 50. Un joueur qui relance doit ajouter suffisamment au pot pour que sa contribution totale soit égale à la nouvelle mise.
 
-A player who folds discards their cards face down and takes no further part in the play of that hand. If they have only passed and not called any bets or raises they must pay 1 unit to the pool. If they have already paid the pool to call or raise, they simply lose what they have paid to the pool.
+Un joueur qui se couche défausse ses cartes face cachée et ne participe plus au jeu de cette donne. S'il a seulement passé et n'a suivi aucune mise ni relance, il doit payer 1 unité au pot. S'il a déjà payé le pot pour suivre ou relancer, il perd simplement ce qu'il a payé.
 
-If all players pass and no one opens the game, the stakes for the next hand are doubled: it will cost 10 units to open and the raises are to 30, 60, 90 and 100. If all pass again the cost to open in the next hand will increase to 20 units, then to 30 units if all pass again, and then to the maximum 40 if four consecutive deals have been passed out. The raises* *increase in proportion, so that when the initial stake is 40 units the final raise will be to 400. *(Presumably the cost of folding in response to the opening bet rises in proportion, reaching 8 units when it costs 40 to open.)*
+Si tous les joueurs passent et que personne n'ouvre le jeu, les mises pour la donne suivante sont doublées : il en coûtera 10 unités pour ouvrir et les relances sont à 30, 60, 90 et 100. Si tous passent à nouveau, le coût pour ouvrir à la donne suivante augmentera à 20 unités, puis à 30 unités si tous passent encore, puis au maximum de 40 si quatre donnes consécutives ont été passées. Les relances augmentent en proportion, de sorte que lorsque la mise initiale est de 40 unités, la relance finale sera de 400. *(On suppose que le coût de se coucher en réponse à la mise d'ouverture augmente en proportion, atteignant 8 unités quand il en coûte 40 pour ouvrir.)*
 
-Some play that double stakes are the limit, so the opening bet after any number of passed hands remains at 10 units without further increase, and reverts to 5 after a deal in which the betting is opened.
+Certains jouent que les mises doublées sont la limite, de sorte que la mise d'ouverture après un nombre quelconque de donnes passées reste à 10 unités sans augmentation supplémentaire, et revient à 5 après une donne dans laquelle les mises ont été ouvertes.
 
-If the betting is opened but in the ensuing betting round all but one players fold the last surviving player collects the pool.
+Si les mises sont ouvertes mais que dans le tour de mises suivant tous les joueurs sauf un se couchent, le dernier joueur survivant remporte le pot.
 
-If there is more than one player still in the game at the end of the betting round the play begins with the first surviving player after the dealer in the direction of play. This player draws the top card of the stock and discards one face up to start the discard pile. Subsequent players in turn draw the top card of either the stock or the discard pile and discard a card face up on the discard pile. Thus players always have 9 cards at the end of each turn.
+S'il y a plus d'un joueur encore en lice à la fin du tour de mises, le jeu commence avec le premier joueur survivant après le donneur dans le sens du jeu. Ce joueur pioche la carte du dessus de la pioche et défausse une carte face ouverte pour commencer la pile de défausse. Les joueurs suivants à tour de rôle piochent la carte du dessus soit de la pioche, soit de la pile de défausse, et défaussent une carte face ouverte sur la pile. Ainsi, les joueurs ont toujours 9 cartes à la fin de chaque tour.
 
-The play continues until a player closes the game and collects the pool. This can be done at the end of any turn, even the very first of the game, by discarding a card and exposing a hand consisting entirely of valid combinations: sets of three or more equal cards and/or sequences of three consecutive cards in suit as above. However in this game it is possible to use one imaginary Joker - a non-existent wild card - to represent a card needed to complete one combination. Therefore a player could close the game for example with **![club](../images/internat/club.gif)****3-![club](../images/internat/club.gif)3-****![diamond](../images/internat/diamond.gif)3**, **![spade](../images/internat/spade.gif)7-****![spade](../images/internat/spade.gif)8****-![spade](../images/internat/spade.gif)9** and **![diamond](../images/internat/diamond.gif)****10-![diamond](../images/internat/diamond.gif)Q****-![diamond](../images/internat/diamond.gif)K** with the imaginary Joker representing a **![diamond](../images/internat/diamond.gif)J**. 
+Le jeu continue jusqu'à ce qu'un joueur ferme le jeu et remporte le pot. Cela peut être fait à la fin de n'importe quel tour, même le tout premier du jeu, en défaussant une carte et en exposant une main composée entièrement de combinaisons valides : ensembles de trois cartes égales ou plus et/ou suites de trois cartes consécutives de même couleur comme ci-dessus. Cependant, dans ce jeu il est possible d'utiliser un Joker imaginaire — un Joker inexistant — pour représenter une carte nécessaire pour compléter une combinaison. Un joueur pourrait donc fermer le jeu par exemple avec **![trèfle](../images/internat/club.gif)3-![trèfle](../images/internat/club.gif)3-![carreau](../images/internat/diamond.gif)3**, **![pique](../images/internat/spade.gif)7-![pique](../images/internat/spade.gif)8-![pique](../images/internat/spade.gif)9** et **![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)D-![carreau](../images/internat/diamond.gif)R** avec le Joker imaginaire représentant un ![carreau](../images/internat/diamond.gif)V.
 
-There are also some special hands which entitle a player to close the game and receive an extra payment from the losing players based on the amount they bet on the hand.
+Il y a aussi des mains spéciales qui donnent droit à un joueur de fermer le jeu et de recevoir un paiement supplémentaire des joueurs perdants basé sur le montant qu'ils ont misé sur la donne.
 
-- If a player closes with 9 cards of the same suit ('*colore*'), all active losing players pay one extra stake (their bet is doubled).
+- Si un joueur ferme avec 9 cartes de la même couleur (*colore*), tous les joueurs perdants actifs paient une mise supplémentaire (leur mise est doublée).
 
-- If a player closes with 9 *consecutive* cards of the same suit ('*scala colore*'), all active losing players pay three extra stakes (they lose four times their bet).
+- Si un joueur ferme avec 9 cartes *consécutives* de la même couleur (*scala colore*), tous les joueurs perdants actifs paient trois mises supplémentaires (ils perdent quatre fois leur mise).
 
-- A player closes with a '*scala reale'* - a 9 card sequence in suit from 5 to King, all active losing players pay five extra stakes (they lose 6 times their bet). 
+- Un joueur ferme avec une *scala reale* — une suite de 9 cartes d'une même couleur du 5 au Roi, tous les joueurs perdants actifs paient cinq mises supplémentaires (ils perdent 6 fois leur mise).
 
-## Version 3 - contract game with 8 deals
+## Version 3 - jeu à contrat en 8 donnes
 
-This version of Contract Rummy, sometimes known as **Carioca**, is for 3-5 players using a double deck of cards with 4 Jokers (108 cards). It can be adapted for a greater number of players by adding extra packs of cards. Deal and play are anticlockwise. The following rules are based on a [description in Italian Wikipedia](https://it.wikipedia.org/wiki/Ramino_pokerato).
+Cette version de Rami à contrat, parfois appelée **Carioca**, se joue à 3-5 joueurs avec un double jeu de cartes avec 4 Jokers (108 cartes). Elle peut être adaptée pour un plus grand nombre de joueurs en ajoutant des jeux supplémentaires. La distribution et le jeu se font dans le sens antihoraire. Les règles suivantes sont basées sur une [description du Wikipédia italien](https://it.wikipedia.org/wiki/Ramino_pokerato).
 
-The game consists of a series of eight deals (hands). The Wikipedia page does not clearly explain this, but it seems that there must be two types of pool (*piatti*), one for the winner of each hand which I will call the **hand pool**, and one for the winner of the overall game, which I will call the **game pool**. 
+Le jeu consiste en une série de huit donnes. La page Wikipédia ne l'explique pas clairement, mais il semble qu'il doive y avoir deux types de pots (*piatti*), un pour le gagnant de chaque donne que j'appellerai le **pot de donne**, et un pour le gagnant du jeu global, que j'appellerai le **pot de jeu**.
 
-### Preparation
+### Préparation
 
-Before beginning the players should agree the stakes maximum score with which a player can stay in the game. *[The editor's suggestions are in square brackets.]*
+Avant de commencer, les joueurs doivent se mettre d'accord sur les mises et le score maximum avec lequel un joueur peut rester dans le jeu. *[Les suggestions de l'éditeur sont entre crochets.]*
 
-- the stake to be paid to the game pool by each player at the start of the game *[10 units]*,
+- la mise à verser au pot de jeu par chaque joueur au début du jeu *[10 unités]*,
 
-- the stake to be paid to the hand pool by each player at the start of each hand *[2 units]*,
+- la mise à verser au pot de donne par chaque joueur au début de chaque donne *[2 unités]*,
 
-- the cost of buying a discard out of turn (paid to the pool for the current hand) *[1 unit]*,
+- le coût d'achat d'une défausse hors tour (versé au pot de la donne en cours) *[1 unité]*,
 
-- the exit score: a player whose score reaches or exceeds this amount is eliminated from the game unless they pay to re-enter *[100 points]*,
+- le score de sortie : un joueur dont le score atteint ou dépasse ce montant est éliminé du jeu à moins de payer pour rentrer *[100 points]*,
 
-- the cost of re-entering the game, paid to the game pool *[5 units]*.
+- le coût de rentrée dans le jeu, versé au pot de jeu *[5 unités]*.
 
-### Combinations and Opening Melds
+### Combinaisons et premières poses
 
-The possible combinations are:
+Les combinaisons possibles sont :
 
-- **Pair** (only allowed as part of an opening meld in deals 1, 2 and 4): two cards of the same rank but different suits.
+- **Paire** (uniquement autorisée comme partie d'une première pose aux donnes 1, 2 et 4) : deux cartes de même rang mais de couleurs différentes.
 
-- **Three of a kind**: three cards of the same rank, all of different suits.
+- **Brelan** : trois cartes de même rang, toutes de couleurs différentes.
 
-- **Four of a kind** (known as a "*poker*"): four cards of the same rank, one of each suit.
+- **Carré** (appelé *poker*) : quatre cartes de même rang, une de chaque couleur.
 
-- **Sequence**: at least three consecutive cards of the same suit. Aces can be low (next to the Two) or high (next to the King) but cannot be used in the interior of a sequence. The maximum length of a sequence is 14 cards, with an Ace at each end.
+- **Suite** : au moins trois cartes consécutives de la même couleur. Les As peuvent être bas (à côté du Deux) ou hauts (à côté du Roi) mais ne peuvent pas être utilisés à l'intérieur d'une suite. La longueur maximale d'une suite est de 14 cartes, avec un As à chaque extrémité.
 
-Jokers are wild and can be used as a substitute for any needed card, but **cannot** be used in a player's opening meld (except in deal 8).
+Les Jokers sont Joker et peuvent être utilisés comme substitut pour n'importe quelle carte nécessaire, mais **ne peuvent pas** être utilisés dans la première pose d'un joueur (sauf à la donne 8).
 
-Each deal has a different requirement for each player's opening meld, as follows:
+Chaque donne a une exigence différente pour la première pose de chaque joueur, comme suit :
 
-- **One Pair**: a pair of Aces, Kings, Queens or Jacks of different suits.
+- **Une paire** : une paire d'As, de Rois, de Dames ou de Valets de couleurs différentes.
 
-- **Two pairs**: a pair of Aces, Kings, Queens or Jacks, plus another pair of any rank.
+- **Deux paires** : une paire d'As, de Rois, de Dames ou de Valets, plus une autre paire de n'importe quel rang.
 
-- **Three of a kind**: three cards of the same rank and different suits
+- **Brelan** : trois cartes de même rang et de couleurs différentes.
 
-- **Full house**: a three of a kind plus a pair
+- **Full** : un brelan plus une paire.
 
-- **Scala quaranta**: one or more valid combinations (sets of at least three of a kind and/or sequences) in which the cards have a total value of exactly 40 points, the card values being as follows:
+- **Scala quaranta** : une ou plusieurs combinaisons valides (ensembles d'au moins trois de même rang et/ou suites) dans lesquelles les cartes ont une valeur totale d'exactement 40 points, les valeurs des cartes étant les suivantes :
 
-- each Ace: 11 points
+- chaque As : 11 points
 
-- each K, Q, J: 10 points
+- chaque R, D, V : 10 points
 
-- each pip card (10-2): face value
+- chaque carte numérotée (10-2) : valeur faciale
 
-- **Poker**: four cards of the same rank and different suits.
+- **Poker** : quatre cartes de même rang et de couleurs différentes.
 
-- **Straight flush**: A sequence of exactly five consecutive cards of the same suit.
+- **Quinte flush** : une suite d'exactement cinq cartes consécutives de la même couleur.
 
-- **Closing in hand**: after drawing the player melds all their cards in valid sets of three or four of a kind and/or sequences, with no card discarded at the end of the turn. This is the only opening meld that can include one or more Jokers.
+- **Fermeture en main** : après avoir pioché, le joueur pose toutes ses cartes en ensembles valides de brelans et/ou suites, sans défausse à la fin du tour. C'est la seule première pose qui peut inclure un ou plusieurs Jokers.
 
-### Deal and Play
+### Distribution et jeu
 
-The first dealer is chosen by any convenient random method and the turn to deal passes anticlockwise after each hand. The dealer shuffles and the player to the dealer's left cuts. After all players have contributed the agreed amount to the hand pool, the dealer gives each player a hand of 13 cards, dealing them one at a time face down. The next card is placed face up on the table to begin the discard pile and the remainder of the pack is stacked face down beside it to form a drawing stock. The players then pick up their hands and look at them.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique et le tour de distribution passe dans le sens antihoraire après chaque donne. Le donneur mélange et le joueur à sa gauche coupe. Après que tous les joueurs ont contribué le montant convenu au pot de donne, le donneur distribue à chaque joueur une main de 13 cartes, une à la fois face cachée. La carte suivante est placée face ouverte sur la table pour commencer la pile de défausse et le reste du jeu est empilé face cachée à côté pour former la pioche. Les joueurs ramassent alors leur main et la regardent.
 
-The player to dealer's right plays first. Each turn consists of the following steps:
+Le joueur à la droite du donneur joue en premier. Chaque tour consiste en les étapes suivantes :
 
-1. Drawing a card (compulsory)
-The player may either take the top card of the stock pile or the top card of the discard pile and add it to their hand. On their first turn only, each player may choose to draw two cards instead of one from the stock pile.
+1. Piocher une carte (obligatoire)
+Le joueur peut soit prendre la carte du dessus de la pioche soit la carte du dessus de la pile de défausse et l'ajouter à sa main. À son premier tour uniquement, chaque joueur peut choisir de piocher deux cartes au lieu d'une de la pioche.
 
-If the player chooses to draw from the stock pile, any other player may at this point take the top card of the discard pile by paying the agreed amount to the hand pool. This does not count as a turn for them: they simply add this extra card to their hand after which the player drawing from the stock continues with their turn. Only one card can be taken from the discard pile in each turn: if more than one player wants to buy the card the player nearest in anticlockwise rotation to the player whose turn it is buys the card. If the player whose turn it is wants to draw the top card of the discard pile no other player can buy it.
-2. Melding (optional)
-A player who has not yet melded can **open** by placing face up on the table in front of them **exactly** the cards that are required for the opening meld in this particular deal. The player cannot meld any further cards on this turn.
+Si le joueur choisit de piocher de la pioche, tout autre joueur peut à ce moment prendre la carte du dessus de la pile de défausse en payant le montant convenu au pot de donne. Cela ne compte pas comme un tour pour lui : il ajoute simplement cette carte supplémentaire à sa main, après quoi le joueur qui pioche de la pioche continue son tour. Une seule carte peut être prise de la pile de défausse à chaque tour : si plusieurs joueurs souhaitent acheter la carte, c'est le joueur le plus proche dans le sens antihoraire du joueur dont c'est le tour qui l'achète. Si le joueur dont c'est le tour souhaite piocher la carte du dessus de la pile de défausse, aucun autre joueur ne peut l'acheter.
 
-A player who has already opened on a previous turn may lay down new sets of 3 or 4 of a kind or new sequences of 3 or more cards, and can also add cards from their hand to combinations melded by themselves or other players, extending a pair or set of 3 to a set of 3 or 4 cards or extending a sequence to make a longer sequence. When laying down new combinations or extending sequences Jokers can be used as substitutes of any missing cards.
+2. Poser (facultatif)
+Un joueur qui n'a pas encore posé peut **ouvrir** en plaçant face ouverte sur la table devant lui **exactement** les cartes requises pour la première pose de cette donne particulière. Le joueur ne peut pas poser d'autres cartes à ce tour.
 
-**Exception**. A player cannot add cards to any combination that was part of their own opening meld. 
-3. Discarding (compulsory except when closing in deal 8)
-A player ends their turn by discarding one card from hand face up on top of the discard pile. 
+Un joueur qui a déjà ouvert lors d'un tour précédent peut poser de nouveaux ensembles de 3 ou 4 de même rang ou de nouvelles suites de 3 cartes ou plus, et peut aussi ajouter des cartes de sa main à des combinaisons posées par lui-même ou d'autres joueurs, étendant une paire ou un ensemble de 3 à un ensemble de 3 ou 4 cartes, ou étendant une suite pour la rendre plus longue. Lors de la pose de nouvelles combinaisons ou de l'extension de suites, les Jokers peuvent être utilisés comme substituts de n'importe quelle carte manquante.
 
-In deals 1, 2 and 7 there are certain 'key cards' that cannot be discarded until all players have opened, unless the player is forced to do so, having nothing but key cards in their hand.
+**Exception**. Un joueur ne peut pas ajouter de cartes à une combinaison qui faisait partie de sa propre première pose.
 
-- In deals 1 and 2, Aces, Kings, Queens or Jacks are key cards that cannot be discarded, since a pair of one of these is needed for the opening meld.
+3. Défausser (obligatoire sauf lors de la fermeture à la donne 8)
+Un joueur termine son tour en défaussant une carte de sa main face ouverte sur la pile de défausse.
 
-- In deal 7, Fives and Tens are key cards that cannot be discarded, since every straight flush must include a 5 or a 10.
+Aux donnes 1, 2 et 7, il y a certaines « cartes clés » qui ne peuvent pas être défaussées tant que tous les joueurs n'ont pas ouvert, à moins que le joueur ne soit forcé de le faire, n'ayant que des cartes clés en main.
 
-A player who chose to draw two cards from the stock in their first turn still discards only one card.
+- Aux donnes 1 et 2, les As, Rois, Dames ou Valets sont des cartes clés qui ne peuvent pas être défaussées, puisqu'une paire de l'une d'entre elles est nécessaire pour la première pose.
 
-If a player has no cards in their hand after discarding, the play ends immediately and the hand is scored. This is known as **'closing'**. No player is allowed to close in their first or second turn to play. Until their third turn a player must keep at least two cards in their hand after melding - one to discard and one or more to keep in hand. 
+- À la donne 7, les Cinq et les Dix sont des cartes clés qui ne peuvent pas être défaussées, puisque chaque quinte flush doit inclure un 5 ou un 10.
 
-Except in deal 8, where a player closes by melding all their cards at once with no discard, a player must always end their turn with a discard even when closing. So in deals 1-7 a player is not allowed to meld all their cards as they would then have nothing to discard.
+Un joueur qui a choisi de piocher deux cartes de la pioche à son premier tour ne défausse toujours qu'une seule carte.
 
-If the player still has at least one card in their hand after discarding, play continues with the next player in anticlockwise order, who now begins their turn by drawing a card.
+Si un joueur n'a plus de cartes en main après avoir défaussé, le jeu s'arrête immédiatement et la donne est comptée. C'est ce qu'on appelle **fermer**. Aucun joueur n'est autorisé à fermer lors de son premier ou deuxième tour de jeu. Jusqu'à son troisième tour, un joueur doit conserver au moins deux cartes en main après avoir posé — une à défausser et une ou plusieurs à conserver.
 
-### Scoring
+Sauf à la donne 8, où un joueur ferme en posant toutes ses cartes d'un coup sans défausse, un joueur doit toujours terminer son tour par une défausse même lors de la fermeture. Ainsi, aux donnes 1-7, un joueur n'est pas autorisé à poser toutes ses cartes car il n'aurait alors rien à défausser.
 
-The player who closed collects the hand pool for the current hand, and the score for the hand is calculated and recorded. 
+Si le joueur a encore au moins une carte en main après avoir défaussé, le jeu continue avec le joueur suivant dans le sens antihoraire, qui commence alors son tour en piochant une carte.
 
-The player who closed scores **-20 points**, and all other players score for cards remaining their hands as follows.
+### Comptage des points
 
-- Each Ace: 11 points. **Exception**: a player who has only one Ace in their hand and nothing else scores 1 point instead of 11.
+Le joueur qui a fermé remporte le pot de la donne en cours, et le score de la donne est calculé et enregistré.
 
-- Each K, Q, J: 10 points.
+Le joueur qui a fermé marque **-20 points**, et tous les autres joueurs marquent pour les cartes restant dans leur main comme suit.
 
-- Each pip card (10-2): face value.
+- Chaque As : 11 points. **Exception** : un joueur qui n'a qu'un seul As en main et rien d'autre marque 1 point au lieu de 11.
 
-- Each Joker: 25 points.
+- Chaque R, D, V : 10 points.
 
-A cumulative score is kept for each player. This may be negative, because of the negative score for going out.
+- Chaque carte numérotée (10-2) : valeur faciale.
 
-If any player's score is equal to or greater than the limit agreed at the start of the game, they must either retire from the game or pay to the game pool the agreed cost of re-entry. The score of a player who chooses to pay to re-enter the game is set equal to that of the player who currently has the highest score below the limit.
+- Chaque Joker : 25 points.
 
-At the end of the eighth hand, the winner of the hand takes the hand pool as usual, and the player whose total score is lowest after this final hand has been scored wins the game and collects the whole game pool. In the event of a tie for lowest, the tied players divide the game pool equally between them.
+Un score cumulé est tenu pour chaque joueur. Il peut être négatif, en raison du score négatif pour s'être déclaré.
 
-### Variation: Carioca Pazza
+Si le score d'un joueur est égal ou supérieur à la limite convenue au début du jeu, il doit soit se retirer du jeu, soit payer au pot de jeu le coût convenu de réentrée. Le score d'un joueur qui choisit de payer pour rentrer dans le jeu est fixé à celui du joueur ayant actuellement le score le plus élevé en dessous de la limite.
 
-The Wikipedia page describes a variant called *Carioca Pazza* ('Crazy Carioca') in which the different deals can be played in any order. In each deal, after the players have looked at their hands, the dealer decides which of the remaining deals should be played next. Presumably each of the eight opening contracts is played only once, so there are eight deals in total and the dealer cannot opt for an opening contract that has already been played.
+À la fin de la huitième donne, le gagnant de la donne remporte le pot de donne comme d'habitude, et le joueur dont le score total est le plus bas après cette dernière donne comptée gagne le jeu et remporte l'ensemble du pot de jeu. En cas d'égalité pour le score le plus bas, les joueurs ex æquo se partagent le pot de jeu à parts égales.
 
-In recognition of the dealer's advantage, in this version the score for closing is only -10 points if the dealer closes, but -30 if any other player closes.
+### Variante : Carioca Pazza
 
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Ramino Pokerato
+La page Wikipédia décrit une variante appelée *Carioca Pazza* (« Carioca Folle ») dans laquelle les différentes donnes peuvent être jouées dans n'importe quel ordre. À chaque donne, après que les joueurs ont regardé leur main, le donneur décide laquelle des donnes restantes doit être jouée ensuite. On suppose que chacun des huit contrats d'ouverture n'est joué qu'une seule fois, de sorte qu'il y a huit donnes au total et que le donneur ne peut pas choisir un contrat d'ouverture qui a déjà été joué.
+
+En reconnaissance de l'avantage du donneur, dans cette version le score pour la fermeture n'est que de -10 points si le donneur ferme, mais de -30 si un autre joueur ferme.

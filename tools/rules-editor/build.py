@@ -11,9 +11,8 @@ SOURCES = {
     'bycicle':   'rules_bycicle',
     'edimag100': 'rules_edimag100',
     'fetjain32': 'rules_fetjain32',
-    'rules2':    'rules2/jeux',
-    'rules3':    'rules3',
-    'original':  '.',
+    'garraud':   'rules_garraud/jeux',
+    'original':  'rules_original',
 }
 
 def extract_title(md):

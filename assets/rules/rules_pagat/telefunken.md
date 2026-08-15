@@ -2,335 +2,333 @@
 
 **Nombre de cartes :** 52
 **Difficulté :** —
-**Type :** Rami, Rami
-**But :** A version of Contract Rummy played in several South American countries.
+**Type :** Rami
+**But :** Une variante du rami à contrat jouée dans plusieurs pays d'Amérique du Sud.
 
 ---
 
-This page is based partly on information contributed by: Cindy Basaure, Lee Beiermann, Oscar Carillo, Laura Noritz de Carrera, Maria Luisa Hernandez Ron, T.D.Mullikin, Bill Smead and George Wittig.
+Cette page repose en partie sur des informations fournies par : Cindy Basaure, Lee Beiermann, Oscar Carillo, Laura Noritz de Carrera, Maria Luisa Hernandez Ron, T.D. Mullikin, Bill Smead et George Wittig.
 
 ## Introduction
 
-Telefunken is a contract rummy game played in certain South American countries, especially in Venezuela, Ecuador, Peru and Bolivia, and also to some extent in Colombia. I'm told that it owes its German name to the fact that it was brought to South America around the time of World War II, at which time many German Jews and Nazis fled to South America. In German funken means "to broadcast", and Telefunken was the name of a German radio and television company. There is no obvious connection to broadcasting, but perhaps the people who brought this game to South America had some connection with the firm Telefunken. So far as I know, Telefunken is not played in Germany nowadays, though other forms of contract rummy are known there.
+Telefunken est un jeu de rami à contrat joué dans certains pays d'Amérique du Sud, notamment au Venezuela, en Équateur, au Pérou et en Bolivie, ainsi que dans une certaine mesure en Colombie. On m'a dit que son nom allemand venait du fait qu'il a été apporté en Amérique du Sud vers l'époque de la Seconde Guerre mondiale, période où de nombreux Juifs allemands et nazis ont fui vers l'Amérique du Sud. En allemand, *funken* signifie « diffuser », et Telefunken était le nom d'une entreprise allemande de radio et de télévision. Il n'y a pas de lien évident avec la diffusion, mais il se peut que les personnes qui ont apporté ce jeu en Amérique du Sud aient eu un lien avec l'entreprise Telefunken. Autant que je sache, Telefunken n'est plus joué en Allemagne de nos jours, bien que d'autres formes de rami à contrat y soient connues.
 
-On this page I first describe a form of Telefunken that is played in **Venezuela**. In the variations section there are details of different versions played in Ecuador, Peru (two versions) and Bolivia, and a North American variation known as "Farmer's Rummy".
+Sur cette page, je décris d'abord une forme de Telefunken jouée au **Venezuela**. Dans la section des variantes, on trouvera les détails de différentes versions jouées en Équateur, au Pérou (deux versions) et en Bolivie, ainsi qu'une variante nord-américaine connue sous le nom de « Rami du fermier ».
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Telefunken is normally played by four people, using a double pack of cards with four jokers - 108 cards in all. A supply of chips or tokens, 7 per player, is also needed.
+Telefunken se joue normalement à quatre personnes, avec un double jeu de cartes comprenant quatre jokers — 108 cartes au total. On a aussi besoin d'un stock de jetons, 7 par joueur.
 
-As in all rummy games, the object is, by drawing and discarding, to collect sets of equal ranked cards and runs of consecutive cards of a suit, which can then be melded (laid down). Since it is a contract rummy game, your first meld in each deal must consist of specific combinations (the contract). After that you can get rid of further cards by adding them to your own or other players' combinations or even (in this game) meld fresh combinations with the ultimate aim of getting rid of all your cards. The other players then score penalty points for any cards left in their hands.
+Comme dans tous les jeux de rami, le but est, en piochant et en défaussant, de collecter des ensembles de cartes de même rang et des séquences de cartes consécutives de la même couleur, qui peuvent ensuite être posées (étalées). Puisqu'il s'agit d'un rami à contrat, votre première pose de chaque donne doit consister en des combinaisons spécifiques (le contrat). Ensuite, vous pouvez vous débarrasser de cartes supplémentaires en les ajoutant à vos propres combinaisons ou à celles des autres joueurs, ou même (dans ce jeu) en posant de nouvelles combinaisons, dans le but final de vous débarrasser de toutes vos cartes. Les autres joueurs marquent alors des points de pénalité pour les cartes restantes dans leur main.
 
-## Melds and Contracts
+## Poses et contrats
 
-There are two types of combination that can be melded:
+Il y a deux types de combinaisons qui peuvent être posées :
 
-- A set of three or more cards of the same rank. A set of 3 equal cards is known as a trío, a set of 4 equal cards is a cuarteto, and a set of 5 equal cards is a quinteto.
+- Un ensemble de trois cartes ou plus de même rang. Un ensemble de 3 cartes identiques est appelé *trío*, un ensemble de 4 cartes identiques est un *cuarteto*, et un ensemble de 5 cartes identiques est un *quinteto*.
 
-- A **run** of three or more consecutive cards of the same suit, known as a sequidilla. In a run, an ace can be high (...-Q-K-A) or low (A-2-3-...) but cannot be used in the middle of a run (K-A-2 is not valid).
+- Une **suite** de trois cartes consécutives ou plus de la même couleur, appelée *seguidilla*. Dans une suite, l'as peut être haut (...-D-R-A) ou bas (A-2-3-...) mais ne peut pas être utilisé au milieu d'une suite (R-A-2 n'est pas valide).
 
-A joker may be used as a substitute for any card, but not more than one joker can be used in any set or run.
+Un joker peut être utilisé comme substitut pour n'importe quelle carte, mais on ne peut pas utiliser plus d'un joker dans un même ensemble ou suite.
 
-A game of Telefunken consists of seven deals, and the contract for each deal is as follows:
+Une partie de Telefunken comporte sept donnes, et le contrat de chaque donne est le suivant :
 
-- Deal 1: one set of equal 3 cards (trío), which must be pure (limpio) - no joker can be used and the cards must be of three different suits.
+- Donne 1 : un ensemble de 3 cartes identiques (*trío*), qui doit être pur (*limpio*) — aucun joker ne peut être utilisé et les cartes doivent être de trois couleurs différentes.
 
-- Deal 2: two sets of 3 (2 tríos)
+- Donne 2 : deux ensembles de 3 (2 *tríos*)
 
-- Deal 3: one set of 4 (cuarteto)
+- Donne 3 : un ensemble de 4 (*cuarteto*)
 
-- Deal 4: two sets of 4 (2 cuartetos)
+- Donne 4 : deux ensembles de 4 (2 *cuartetos*)
 
-- Deal 5: one set of 5 (quinteto)
+- Donne 5 : un ensemble de 5 (*quinteto*)
 
-- Deal 6: two sets of 5 (2 quintetos) - all players discard before the play begins
+- Donne 6 : deux ensembles de 5 (2 *quintetos*) — tous les joueurs défaussent avant le début de la partie
 
-- Deal 7: one set of 3 (trío) and one run (seguidilla) of 7 or more cards and the player must go out on that turn.
+- Donne 7 : un ensemble de 3 (*trío*) et une suite (*seguidilla*) de 7 cartes ou plus, et le joueur doit sortir à ce tour.
 
-Note: It is only in the first deal that the set of 3 required for the contract must be pure. In later deals, identical cards and a joker can be used to complete a set.
+Note : C'est seulement lors de la première donne que l'ensemble de 3 requis pour le contrat doit être pur. Dans les donnes suivantes, des cartes identiques et un joker peuvent être utilisés pour compléter un ensemble.
 
-## Deal
+## La donne
 
-Before the first deal, each player is given seven chips, which are used to "buy" cards.
+Avant la première donne, chaque joueur reçoit sept jetons, qui servent à « acheter » des cartes.
 
-Deal and play are counterclockwise. The first dealer is chosen at random and the turn to deal passes to the right after each hand. The dealer shuffles and places the cards face down on the table. The player to his left cuts by lifting a block of cards from the top of the pack: for clarity I will call these cards the *top portion* of the pack, and the block left behind on the table the *bottom portion*. The cutter looks at the bottom three cards of the top portion, and if any of these are jokers, he takes them, shows them and keeps them as part of his hand. He then places the remainder of the top portion of the pack face down on the table alongside the bottom portion.
+La donne et le jeu se font dans le sens inverse des aiguilles d'une montre. Le premier donneur est choisi au hasard et le tour de donner passe à droite après chaque main. Le donneur mélange et pose les cartes face en bas sur la table. Le joueur à sa gauche coupe en soulevant un bloc de cartes du dessus du tas : pour plus de clarté, j'appellerai ces cartes la *partie supérieure* du tas, et le bloc resté sur la table la *partie inférieure*. Le coupeur regarde les trois cartes du bas de la partie supérieure, et si l'une d'elles est un joker, il la prend, l'expose et la conserve dans sa main. Il pose ensuite le reste de la partie supérieure face en bas sur la table, à côté de la partie inférieure.
 
-The dealer takes the bottom portion of the pack and deals from it one card at a time around the table until each player has 11 cards. (If the player to dealer's left has taken any jokers, this player must be given correspondingly fewer cards in the deal.) The dealer then turns the next card face up and puts it on the table to start the discard pile. 
+Le donneur prend la partie inférieure du tas et distribue une carte à la fois autour de la table jusqu'à ce que chaque joueur ait 11 cartes. (Si le joueur à la gauche du donneur a pris des jokers, ce joueur doit recevoir proportionnellement moins de cartes lors de la donne.) Le donneur retourne ensuite la carte suivante face en haut et la pose sur la table pour commencer la pile de défausse.
 
-If the dealer is able to complete the deal and turn up a card without exhausting the bottom portion of the pack, and has some cards left over, these remaining cards are place face down on top of the top portion. The stack thus formed is the drawing stock, from which players will draw cards during the game. If the dealer runs out of cards in the bottom portion, he picks up the top portion and continues the deal using that, and whatever remains is returned to the table face down alongside the face up card. If the player to dealer's left managed to leave a bottom portion containing the *exact* number of cards required for the deal (45 for four players if no jokers were taken by the cutter), the cutter is rewarded with an extra chip (which can be used later to buy a card from the discard pile - see below).
+Si le donneur réussit à terminer la donne et à retourner une carte sans épuiser la partie inférieure du tas, et qu'il lui reste des cartes, ces cartes restantes sont posées face en bas sur la partie supérieure. La pile ainsi formée est la pioche, à partir de laquelle les joueurs piocheront des cartes pendant la partie. Si le donneur épuise les cartes de la partie inférieure, il prend la partie supérieure et continue la donne avec celle-ci, et le reste est replacé face en bas à côté de la carte face en haut. Si le joueur à la gauche du donneur a réussi à laisser une partie inférieure contenant le *nombre exact* de cartes nécessaires pour la donne (45 pour quatre joueurs si aucun joker n'a été pris par le coupeur), le coupeur est récompensé d'un jeton supplémentaire (qui pourra être utilisé plus tard pour acheter une carte de la pile de défausse — voir ci-dessous).
 
-### Discard before play
+### Défausse avant le jeu
 
-In deal 6, when the deal is complete, everyone may discard any number of cards from their hands face down. The dealer gathers these discards together, shuffles them, and deals them out to the players, giving each player as many cards as he discarded.
+À la donne 6, lorsque la donne est terminée, tout le monde peut défausser un nombre quelconque de cartes de sa main, face en bas. Le donneur rassemble ces défausses, les mélange et les redistribue aux joueurs, en donnant à chaque joueur autant de cartes qu'il en a défaussées.
 
-## Play
+## Le jeu
 
-The player to dealer's right begins, and play continues counterclockwise around the table. A normal turn consists of
+Le joueur à la droite du donneur commence, et le jeu continue dans le sens inverse des aiguilles d'une montre. Un tour normal consiste à :
 
-- drawing a card from the face down stock;
+- piocher une carte de la pioche face en bas ;
 
-- optionally melding some cards by placing them face up in front of you (or adding cards to your own or other players' melds);
+- éventuellement poser des cartes en les plaçant face en haut devant vous (ou ajouter des cartes à vos propres poses ou à celles d'autres joueurs) ;
 
-- discarding one card face up on top of the discard pile.
+- défausser une carte face en haut sur la pile de défausse.
 
-### Drawing
+### Pioche
 
-In the first turn of the deal only, the player to dealer's right is allowed to take the face up card turned up by the dealer instead of drawing from the stock, without paying a chip and without taking any extra cards.
+Au premier tour de la donne uniquement, le joueur à la droite du donneur est autorisé à prendre la carte face en haut retournée par le donneur au lieu de piocher de la pioche, sans payer de jeton et sans prendre de carte supplémentaire.
 
-For the remainder of the hand, every player's turn begins by drawing the top card of the stock. A player who wishes to take the top card of the discard pile has to "buy" this card, which costs one chip and one extra card drawn from the stock - see "buying" below.
+Pour le reste de la main, le tour de chaque joueur commence par piocher la carte du dessus de la pioche. Un joueur qui souhaite prendre la carte du dessus de la pile de défausse doit « acheter » cette carte, ce qui coûte un jeton et une carte supplémentaire piochée de la pioche — voir « achat » ci-dessous.
 
-### Melding
+### Pose
 
-After drawing, you may meld sets and sequences from your hand, playing them face up on the table.
+Après avoir pioché, vous pouvez poser des ensembles et des suites de votre main, en les plaçant face en haut sur la table.
 
-If you have not previously melded, then on the first turn on which you meld, you must put the exact cards required by the contract for the current deal. At the same time you may if you wish put down additional sets of three or more equal ranked cards, and you may put down runs of three or more consecutive cards in a suit. You may also extend sets and runs put down by other players, by adding cards to them. However, you cannot extend the sets that are part of your contract until your next turn.
+Si vous n'avez pas encore posé, alors au premier tour où vous posez, vous devez étaler exactement les cartes requises par le contrat de la donne en cours. En même temps, vous pouvez si vous le souhaitez poser des ensembles supplémentaires de trois cartes identiques ou plus, et vous pouvez poser des suites de trois cartes consécutives ou plus d'une même couleur. Vous pouvez également étendre des ensembles et des suites posées par d'autres joueurs en y ajoutant des cartes. Cependant, vous ne pouvez pas étendre les ensembles qui font partie de votre contrat avant votre prochain tour.
 
-If you have already melded in a previous turn:
+Si vous avez déjà posé lors d'un tour précédent :
 
-- You may extend your own or other players' sets and runs. 
+- Vous pouvez étendre vos propres ensembles et suites ou ceux des autres joueurs.
 
-- You may also put down additional sets of three or more equal cards or runs of three or more consecutive cards of a suit.
+- Vous pouvez également poser des ensembles supplémentaires de trois cartes identiques ou plus ou des suites de trois cartes consécutives ou plus d'une même couleur.
 
-- You may take a joker from a set melded by yourself or another player if you add in its place two cards from your hand of the same rank as the rest of the set.
+- Vous pouvez prendre un joker d'un ensemble posé par vous-même ou un autre joueur si vous le remplacez par deux cartes de votre main de même rang que le reste de l'ensemble.
 
-- You may not take a joker from a run, but if a joker is at one end of a run, and you have the card that it represents, you may replace the joker by the real card and move the joker to either end of the extended run. For example, if there is a run of joker-![diamond](../images/internat/diamond.gif)6-![diamond](../images/internat/diamond.gif)7 on the table and you have the ![diamond](../images/internat/diamond.gif)5 and the ![diamond](../images/internat/diamond.gif)9, you can replace the joker by the ![diamond](../images/internat/diamond.gif)5, move the joker to represent the ![diamond](../images/internat/diamond.gif)8 and add the ![diamond](../images/internat/diamond.gif)9 from your hand. The joker is no longer at the end of the run, so cannot be moved again, even by a player who holds the ![diamond](../images/internat/diamond.gif)8.
+- Vous ne pouvez pas prendre un joker d'une suite, mais si un joker se trouve à une extrémité d'une suite et que vous avez la carte qu'il représente, vous pouvez remplacer le joker par la vraie carte et déplacer le joker à l'une ou l'autre extrémité de la suite étendue. Par exemple, s'il y a une suite joker-![carreau](../images/internat/diamond.gif)6-![carreau](../images/internat/diamond.gif)7 sur la table et que vous avez le ![carreau](../images/internat/diamond.gif)5 et le ![carreau](../images/internat/diamond.gif)9, vous pouvez remplacer le joker par le ![carreau](../images/internat/diamond.gif)5, déplacer le joker pour qu'il représente le ![carreau](../images/internat/diamond.gif)8 et ajouter le ![carreau](../images/internat/diamond.gif)9 de votre main. Le joker n'est plus à l'extrémité de la suite, il ne peut donc plus être déplacé, même par un joueur qui détient le ![carreau](../images/internat/diamond.gif)8.
 
-Note on deal 1: The pure trio required for the first deal contract is distinguished from other combinations that may be laid down by placing one card of the pure trio crosswise. This trio can be extended to four cards by adding an equal card of the fourth suit. It is then complete and cannot be added to.
+Note sur la donne 1 : Le trío pur requis pour le contrat de la première donne se distingue des autres combinaisons posées en plaçant une carte du trío pur en travers. Ce trío peut être étendu à quatre cartes en ajoutant une carte identique de la quatrième couleur. Il est alors complet et ne peut plus être étendu.
 
-### Discarding
+### Défausse
 
-To end your turn, you discard one card from your hand face up on top of the discard pile.
+Pour terminer votre tour, vous défaussez une carte de votre main face en haut sur la pile de défausse.
 
-### Buying Cards
+### Acheter des cartes
 
-Any player who has not yet melded in the current deal can buy the card discarded at the end of a player's turn. If two or more players want to buy the same discard, the player to the right of the discarder, whose turn is next, has highest priority, then the following player, and so on counter-clockwise round the table.
+Tout joueur qui n'a pas encore posé dans la donne en cours peut acheter la carte défaussée à la fin du tour d'un joueur. Si deux joueurs ou plus veulent acheter la même défausse, le joueur à la droite du défosseur, dont c'est le prochain tour, a la plus haute priorité, puis le joueur suivant, et ainsi de suite dans le sens inverse des aiguilles d'une montre.
 
-Buying a card costs one chip. You take the discard and draw one card from the top of the stock, adding both cards to your hand. Then the player whose turn it was to play draws as usual. If you buy the discard when it is your turn to play, you draw two cards from the stock - one for buying the discard and another to begin your ordinary turn.
+Acheter une carte coûte un jeton. Vous prenez la défausse et piochez une carte du dessus de la pioche, en ajoutant les deux cartes à votre main. Ensuite, le joueur dont c'était le tour pioche normalement. Si vous achetez la défausse lorsque c'est votre tour, vous piochez deux cartes de la pioche — une pour l'achat de la défausse et une autre pour commencer votre tour ordinaire.
 
-After you have melded, you are no longer allowed to buy cards from the discard pile.
+Après avoir posé, vous n'êtes plus autorisé à acheter des cartes de la pile de défausse.
 
-Tip: You only have seven chips for the whole game. Once you have used them all you can no longer buy. It is wise to save several of these chips for deal seven, which is the most difficult.
+Conseil : Vous n'avez que sept jetons pour toute la partie. Une fois que vous les avez tous utilisés, vous ne pouvez plus acheter. Il est judicieux de conserver plusieurs de ces jetons pour la donne sept, qui est la plus difficile.
 
-### End of play
+### Fin du jeu
 
-Play continues until one of the players "goes out" by emptying his hand. This can be done either by melding all one's cards, or by melding all except one card and discarding the final card. At the point the play stops and the hand is scored.
+Le jeu continue jusqu'à ce qu'un joueur « sorte » en vidant sa main. Cela peut se faire soit en posant toutes ses cartes, soit en posant toutes sauf une et en défaussant la dernière carte. À ce moment, le jeu s'arrête et la main est comptée.
 
-It may sometimes happen that the stock pile is exhausted before the play ends. In this case the discard pile is turned face down and shuffled to form a new stock, and play continues.
+Il peut arriver que la pioche soit épuisée avant la fin du jeu. Dans ce cas, la pile de défausse est retournée face en bas et mélangée pour former une nouvelle pioche, et le jeu continue.
 
-Note on deal 7: In this deal, you are not allowed to lay down any cards until you are able to go out in the same turn. You need to lay down one set of exactly three cards, one run of seven cards or more, plus as many extra sets and/or runs as are needed to use all your cards, or all but one, which you discard. It follows that in this deal, only one player will be able to lay down cards, and no laying off is possible.
+Note sur la donne 7 : Dans cette donne, vous n'êtes pas autorisé à poser des cartes tant que vous n'êtes pas capable de sortir au même tour. Vous devez poser un ensemble d'exactement trois cartes, une suite de sept cartes ou plus, ainsi que d'autres ensembles et/ou suites supplémentaires nécessaires pour utiliser toutes vos cartes, ou toutes sauf une, que vous défaussez. Il s'ensuit que dans cette donne, un seul joueur pourra poser des cartes, et aucun écart n'est possible.
 
-## Scoring
+## Comptage des points
 
-A cumulative score in penalty points is kept for each player. At the end of each deal, each of the players score the value of the cards remaining in their hands, according to the following schedule.
+Un score cumulé en points de pénalité est tenu pour chaque joueur. À la fin de chaque donne, chaque joueur marque la valeur des cartes restantes dans sa main, selon le barème suivant.
 
-| 2 - 9 | . . . | face value |
-| 10 - K | . . . | 10 points |
-| Ace | . . . | 11 points |
+| 2 - 9 | . . . | valeur nominale |
+| 10 - R | . . . | 10 points |
+| As | . . . | 11 points |
 | Joker | . . . | 15 points |
 
-The player who went out, having no cards, scores zero for the deal.
+Le joueur qui est sorti, n'ayant plus de cartes, marque zéro pour la donne.
 
-The winner of each of the seven deals wins a small stake, and the player who has the lowest cumulative score at the end of the 7th deal wins a larger stake.
+Le gagnant de chacune des sept donnes remporte un petit enjeu, et le joueur qui a le score cumulé le plus bas à la fin de la 7e donne remporte un enjeu plus important.
 
-## Variations
+## Variantes
 
-There are many local variations of this game. For example:
+Il existe de nombreuses variantes locales de ce jeu. Par exemple :
 
-The number of chips given to each player at the start can be varied. Some give 12 or 13 chips to each player.
+Le nombre de jetons donné à chaque joueur au départ peut varier. Certains donnent 12 ou 13 jetons à chaque joueur.
 
-Some reward a player who cuts the exact number of cards required for the deal by deducting a number of points (25 or 50) from his score, rather than by giving him an extra chip.
+Certains récompensent un joueur qui coupe le nombre exact de cartes nécessaires pour la donne en déduisant un certain nombre de points (25 ou 50) de son score, plutôt qu'en lui donnant un jeton supplémentaire.
 
-Some play without the "discard" at the start of the 6th deal.
+Certains jouent sans la « défausse » au début de la 6e donne.
 
-On the other hand, some play that there is a discard at the start of the fourth deal, and two discards at the start of the 6th deal: everyone can discard any number of cards; the dealer shuffles these and distributes them to the players; then the players can discard a second time, as many cards as they like, and the dealer shuffles these and distributes them again so that everyone has 11 cards.
+D'un autre côté, certains jouent qu'il y a une défausse au début de la quatrième donne, et deux défausses au début de la 6e donne : tout le monde peut défausser un nombre quelconque de cartes ; le donneur mélange ces cartes et les distribue aux joueurs ; puis les joueurs peuvent défausser une deuxième fois, autant de cartes qu'ils le souhaitent, et le donneur les mélange et les redistribue pour que tout le monde ait 11 cartes.
 
-### Telefunken in Ecuador
+### Telefunken en Équateur
 
-In Ecuador, a different sequence of contracts is normally used:
+En Équateur, une séquence différente de contrats est généralement utilisée :
 
-- 1 pure set of 3; no buying
+- 1 ensemble pur de 3 ; pas d'achat
 
-- 2 sets of 3, one of them pure
+- 2 ensembles de 3, dont un pur
 
-Each player starts with 12 chips for buying. A player buying a card must draw two cards from the stock - if you buy at the at the start of your own turn you must therefore take 3 cards from the stock altogether.
+Chaque joueur commence avec 12 jetons pour les achats. Un joueur qui achète une carte doit piocher deux cartes de la pioche — si vous achetez au début de votre propre tour, vous devez donc prendre 3 cartes de la pioche au total.
 
-Only one joker can be used as part of the contract in deals 2, 4 and 7, and no jokers in deals 1, 3, 5 and 6. A joker can be taken in exchange for the card it represents only if it is taken from the melds placed by another player to fulfil their contract and only if you immediately use it as part of your own contract.
+On ne peut utiliser qu'un seul joker comme partie du contrat dans les donnes 2, 4 et 7, et aucun joker dans les donnes 1, 3, 5 et 6. Un joker ne peut être repris en échange de la carte qu'il représente que s'il est pris dans les poses effectuées par un autre joueur pour remplir son contrat, et seulement si vous l'utilisez immédiatement comme partie de votre propre contrat.
 
-Card values are as follows:
+Les valeurs des cartes sont les suivantes :
 
 | 2 - 9 | . . . | 5 points |
-| 10 - K | . . . | 10 points |
-| Ace | . . . | 15 points |
+| 10 - R | . . . | 10 points |
+| As | . . . | 15 points |
 | Joker | . . . | 50 points |
 
-David Dawson describes a variation of this in which the contracts are not played in sequence, but the each dealer announces, having looked at his cards, which contract will be played that time. Each contract can only be played once, so the choice narrows as the game progresses.
+David Dawson décrit une variante dans laquelle les contrats ne sont pas joués en séquence, mais chaque donneur annonce, après avoir regardé ses cartes, quel contrat sera joué ce tour. Chaque contrat ne peut être joué qu'une seule fois, de sorte que le choix se réduit au fil de la partie.
 
-### Telefunken in Peru - version 1
+### Telefunken au Pérou — version 1
 
-Lee Beiermann describes a version of Telefunken from Peru. The contracts are:
+Lee Beiermann décrit une version de Telefunken du Pérou. Les contrats sont :
 
-Instead of dealing a card face up to begin the discard pile, the dealer receive an extra (12th) card in the deal and begins the play by discarding one card.
+Au lieu de retourner une carte face en haut pour commencer la pile de défausse, le donneur reçoit une carte supplémentaire (12e) lors de la donne et commence le jeu en défaussant une carte.
 
-To go out, a final discard is required. It is not legal to meld all your cards, leaving yourself with no discard, but it is OK to discard a card that could have been melded.
+Pour sortir, une défausse finale est requise. Il n'est pas autorisé de poser toutes vos cartes en ne vous laissant aucune défausse, mais il est acceptable de défausser une carte qui aurait pu être posée.
 
-Each player starts with only 6 chips for buying. If you have unused chips left over at the end of the game, there is a bonus: you subtract 10 points from your score for each remaining chip.
+Chaque joueur commence avec seulement 6 jetons pour les achats. S'il vous reste des jetons inutilisés à la fin de la partie, il y a un bonus : vous soustrayez 10 points de votre score pour chaque jeton restant.
 
-Card values are as follows:
+Les valeurs des cartes sont les suivantes :
 
-| 3 - 9 | . . . | face value |
-| 10 - K | . . . | 10 points |
-| Ace | . . . | 15 points |
-| Twos and Jokers | . . . | 20 points |
+| 3 - 9 | . . . | valeur nominale |
+| 10 - R | . . . | 10 points |
+| As | . . . | 15 points |
+| Deux et Jokers | . . . | 20 points |
 
-There can be no wild cards in sets, only in runs. The number of wild cards in a run cannot exceed the number of natural cards in the run. If you have the natural card that a wild card represents, you may take the wild card in exchange for the natural card and reuse the wild card in you own new run, but it must be used immediately. This may be done at any time, including in the turn when you initially lay down your contract.
+Il ne peut y avoir aucun joker dans les ensembles, uniquement dans les suites. Le nombre de jokers dans une suite ne peut excéder le nombre de cartes naturelles dans la suite. Si vous avez la carte naturelle qu'un joker représente, vous pouvez reprendre le joker en échange de la carte naturelle et réutiliser le joker dans votre propre nouvelle suite, mais il doit être utilisé immédiatement. Cela peut être fait à tout moment, y compris lors du tour où vous posez initialement votre contrat.
 
-If the drawing stock runs out the discard pile is not reused. Instead, the play ends and everyone scores penalty points for the cards remaining in their hands.
+Si la pioche est épuisée, la pile de défausse n'est pas réutilisée. Au lieu de cela, le jeu s'arrête et tout le monde marque des points de pénalité pour les cartes restantes dans sa main.
 
-When a set of equal ranked cards becomes large, the owner may, for convenience, store some cards of the set under the discard pile, keeping the minimum number of required cards to represent the set.
+Quand un ensemble de cartes de même rang devient grand, le propriétaire peut, pour plus de commodité, ranger certaines cartes de l'ensemble sous la pile de défausse, en conservant le nombre minimum de cartes nécessaires pour représenter l'ensemble.
 
-In runs, not only can the ace count as high or low, but can also be in the middle of a run, such as K-A-2.
+Dans les suites, non seulement l'as peut compter comme haut ou bas, mais il peut aussi être au milieu d'une suite, comme R-A-2.
 
-George Wittig describes a variation of this using 3 decks (6 jokers) which can be played by 6 players. In this version, twos and jokers are wild and an unlimited number of wild cards can be used in a set. A melded wild card can be exchanged by the holder of just one natural card of the rank represented, if he has already laid down his contract.
+George Wittig décrit une variante de celle-ci utilisant 3 jeux (6 jokers) qui peut être jouée par 6 joueurs. Dans cette version, les deux et les jokers sont jokers et un nombre illimité de jokers peut être utilisé dans un ensemble. Un joker posé peut être échangé par le détenteur d'une seule carte naturelle du rang représenté, s'il a déjà posé son contrat.
 
-Another report describes a similar game with the name Delifante (which is presumably a modification of the name Telefunken) for 2 - 6 players, using 1/2 a deck per player, but with 13 cards each dealt rather than 11. In this version aces cannot be used in runs. In an extended version called Super Deli the number of cards in the deck is doubled, 18 cards are dealt per player, each player has up to 10 buys, and there are 12 deals: after 1 to 6 as above the game continues with 2 sets of 6, 1 set of 7, 2 sets of 7, 1 set of 8, 2 sets of 8, 1 set of 9.
+Un autre rapport décrit un jeu similaire appelé Delifante (qui est vraisemblablement une modification du nom Telefunken) pour 2 à 6 joueurs, utilisant un demi jeu par joueur, mais avec 13 cartes distribuées au lieu de 11. Dans cette version, les as ne peuvent pas être utilisés dans les suites. Dans une version étendue appelée Super Deli, le nombre de cartes dans le jeu est doublé, 18 cartes sont distribuées par joueur, chaque joueur a jusqu'à 10 achats, et il y a 12 donnes : après 1 à 6 comme ci-dessus, le jeu continue avec 2 ensembles de 6, 1 ensemble de 7, 2 ensembles de 7, 1 ensemble de 8, 2 ensembles de 8, 1 ensemble de 9.
 
-### Telefunken in Peru - version 2
+### Telefunken au Pérou — version 2
 
-Oscar Carillo describes a different version of Telefunken played in Peru. There are seven deals of 12 cards each, and the contracts involve both sets of 3 equal cards (*trios*) runs of 4 consecutive cards (*escaleras* - literally 'ladders'). There are no chips and there is no option to buy a card from discard pile when it is not your turn: you can only take the card discarded by the player immediately before you.
+Oscar Carillo décrit une version différente de Telefunken jouée au Pérou. Il y a sept donnes de 12 cartes chacune, et les contrats impliquent des ensembles de 3 cartes identiques (*trios*) et des suites de 4 cartes consécutives (*escaleras* — littéralement « échelles »). Il n'y a pas de jetons et il n'y a pas d'option pour acheter une carte de la pile de défausse quand ce n'est pas votre tour : vous ne pouvez prendre que la carte défaussée par le joueur immédiatement avant vous.
 
-The contracts are as follows:
+Les contrats sont les suivants :
 
-| Deal 1: | 2 sets of 3 cards | (6 cards) | The two sets can be of the same rank |
-| Deal 2: | 1 set of 3 + 1 run of 4 | (7 cards) |   |
-| Deal 3: | 2 runs of 4 | (8 cards) |   |
-| Deal 4: | 3 sets of 3 | (9 cards) |   |
-| Deal 5: | 2 sets of 3 + 1 run of 4 | (10 cards) | The two sets can be of the same rank |
-| Deal 6: | 2 runs of 4 + 1 set of 3 | (11 cards) | The runs can be in the same suit |
-| Deal 7 | 4 sets of 3 cards or
-3 runs of 4 cards or
-a Royal Run of 12 cards or
-a Colour Run of 12 cards | (12 cards) | A Royal Run is 12 consecutive cards of a suit, 
-which may include Jokers.
-A Colour Run consists of alternate red and black 
-cards and cannot include Jokers. |
+| Donne 1 : | 2 ensembles de 3 cartes | (6 cartes) | Les deux ensembles peuvent être du même rang |
+| Donne 2 : | 1 ensemble de 3 + 1 suite de 4 | (7 cartes) |  |
+| Donne 3 : | 2 suites de 4 | (8 cartes) |  |
+| Donne 4 : | 3 ensembles de 3 | (9 cartes) |  |
+| Donne 5 : | 2 ensembles de 3 + 1 suite de 4 | (10 cartes) | Les deux ensembles peuvent être du même rang |
+| Donne 6 : | 2 suites de 4 + 1 ensemble de 3 | (11 cartes) | Les suites peuvent être de la même couleur |
+| Donne 7 | 4 ensembles de 3 cartes ou
+3 suites de 4 cartes ou
+une Suite Royale de 12 cartes ou
+une Suite Couleur de 12 cartes | (12 cartes) | Une Suite Royale est 12 cartes consécutives d'une couleur,
+qui peut inclure des Jokers.
+Une Suite Couleur se compose de cartes rouges et noires
+alternées et ne peut pas inclure de Jokers. |
 
-As usual a pack of 108 cards is used, composed of two standard international 52-card packs plus 4 Jokers. The number of players is not fixed - there can be as many as eight.
+Comme d'habitude, un jeu de 108 cartes est utilisé, composé de deux jeux internationaux standard de 52 cartes plus 4 jokers. Le nombre de joueurs n'est pas fixe — il peut y en avoir jusqu'à huit.
 
-A set of 3 cards (*trio*) can be of any rank, and further cards of that rank can be added later. A set of three Jokers is a valid *trio*, to which the fourth Joker may be added later. Jokers cannot be combined with other cards in a trio or added to a set other than a set of Jokers. Therefore in deals 1 and 4, Jokers can **only** be used in a *trio* of Jokers.
+Un ensemble de 3 cartes (*trio*) peut être de n'importe quel rang, et d'autres cartes de ce rang peuvent être ajoutées ultérieurement. Un ensemble de trois jokers est un *trio* valide, auquel le quatrième joker peut être ajouté plus tard. Les jokers ne peuvent pas être combinés avec d'autres cartes dans un trio ni ajoutés à un ensemble autre qu'un ensemble de jokers. Par conséquent, dans les donnes 1 et 4, les jokers ne peuvent être utilisés **que** dans un *trio* de jokers.
 
-A run (*escalera*) consists of 4 or more consecutive cards of the same suit. In a run, Jokers can be used as wild cards as a substitute for missing cards. A run cannot consist entirely of Jokers, but a natural card with three Jokers is a valid run of 4. Aces count as both high and low and runs can 'turn the corner' - for example K-A-2-3 of a suit is a valid run. Further consecutive cards can be added to a run later and Jokers can be moved up and down within a run as needed. For example in a run of Joker-Joker-4-5 of clubs, the two Jokers could be moved so as to add the 7 and 9 of clubs making 4-5-Joker-7-Joker-9.
+Une suite (*escalera*) se compose de 4 cartes consécutives ou plus de la même couleur. Dans une suite, les jokers peuvent être utilisés comme jokers en substitution de cartes manquantes. Une suite ne peut pas se composer entièrement de jokers, mais une carte naturelle avec trois jokers est une suite valide de 4. Les as comptent à la fois comme haut et bas et les suites peuvent « tourner le coin » — par exemple R-A-2-3 d'une couleur est une suite valide. Des cartes consécutives supplémentaires peuvent être ajoutées à une suite ultérieurement et les jokers peuvent être déplacés dans une suite selon les besoins. Par exemple, dans une suite Joker-Joker-4-5 de trèfles, les deux jokers pourraient être déplacés pour ajouter le 7 et le 9 de trèfles, donnant 4-5-Joker-7-Joker-9.
 
-The first dealer is chosen at random, and the turn to deal passes to the right after each hand. The dealer shuffles and the player to dealer’s left cuts, lifting a block of cards from the top of the pile. The dealer takes the remaining cards and deals 12 to each player one at a time and then the next card face up to begin the discard pile. If this uses exactly the pile of cards left by the cutter, then as a reward the cutter can erase all his or her penalty points (if any) from the previous deal. If this is the first deal of the game, or if the cutter went out in the previous deal and thus scored no penalty points, there is no bonus for an exact cut. If the cutter did not leave enough cards, the dealer continues dealing from the block of cards lifted by the cutter. The undealt cards are stacked face down next to the discard pile to form the stock pile - any remaining cards from the pile left by the cutter are placed on top of the part of the pack that the cutter lifted.
+Le premier donneur est choisi au hasard, et le tour de donner passe à droite après chaque main. Le donneur mélange et le joueur à la gauche du donneur coupe, en soulevant un bloc de cartes du dessus du tas. Le donneur prend les cartes restantes et distribue 12 à chaque joueur une à la fois, puis la carte suivante face en haut pour commencer la pile de défausse. Si cela utilise exactement la pile de cartes laissée par le coupeur, alors en récompense le coupeur peut effacer tous ses points de pénalité (s'il en a) de la donne précédente. S'il s'agit de la première donne de la partie, ou si le coupeur est sorti lors de la donne précédente et n'a donc marqué aucun point de pénalité, il n'y a pas de bonus pour une coupe exacte. Si le coupeur n'a pas laissé assez de cartes, le donneur continue la distribution à partir du bloc de cartes soulevé par le coupeur. Les cartes non distribuées sont empilées face en bas à côté de la pile de défausse pour former la pioche — les cartes restantes de la pile laissée par le coupeur sont placées sur la partie du tas que le coupeur a soulevée.
 
-There is no taking of Jokers by the cutter before the deal, and any card including a Joker can begin the discard pile.
+Il n'y a pas de prise de jokers par le coupeur avant la donne, et n'importe quelle carte, y compris un joker, peut commencer la pile de défausse.
 
-The player to dealer's right plays first, and the turn to play passes anticlockwise. Each turn consists of 
+Le joueur à la droite du donneur joue en premier, et le tour de jouer passe dans le sens inverse des aiguilles d'une montre. Chaque tour consiste à :
 
-- drawing the top card either from the stock pile or the discard pile
+- piocher la carte du dessus soit de la pioche soit de la pile de défausse
 
-- optionally melding cards (placing cards from hand in valid sets or runs face up on the table) or adding cards to existing melds on the table
+- éventuellement poser des cartes (placer des cartes de la main dans des ensembles ou suites valides face en haut sur la table) ou ajouter des cartes aux poses existantes sur la table
 
-- discarding any one card face up on top of the discard pile.
+- défausser une carte face en haut sur la pile de défausse.
 
-In step 2, a player cannot meld until able to lay down the complete contract for the deal in progress. The player is not allowed to lay down any further cards until their next turn.
+À l'étape 2, un joueur ne peut pas poser tant qu'il n'est pas capable d'étaler le contrat complet de la donne en cours. Le joueur n'est pas autorisé à poser d'autres cartes avant son prochain tour.
 
-A player who has already laid down their contract in a previous turn may use step 2 to add further cards to sets and runs anywhere on the table, their own and their opponents'. No new runs or sets can be laid down that are not part of the contract prescribed for the deal.
+Un joueur qui a déjà posé son contrat lors d'un tour précédent peut utiliser l'étape 2 pour ajouter d'autres cartes aux ensembles et suites n'importe où sur la table, les siens et ceux de ses adversaires. Aucune nouvelle suite ou ensemble ne peut être posé qui ne fasse pas partie du contrat prescrit pour la donne.
 
-If the stock pile runs out before the play has ended, the dealer takes all the cards of the discard pile except for its top card, which remains in place, shuffles them and stacks them face down to form a new stock pile.
+Si la pioche est épuisée avant la fin du jeu, le donneur prend toutes les cartes de la pile de défausse sauf celle du dessus, qui reste en place, les mélange et les empile face en bas pour former une nouvelle pioche.
 
-When a player disposes of the last card in their hand, either by adding it to a meld on the table or by discarding it, the play immediately ends. The player who ended the play scores zero and all the other players score penalty points for the cards remaining in their hands as follows:
+Quand un joueur se débarrasse de la dernière carte de sa main, soit en l'ajoutant à une pose sur la table, soit en la défaussant, le jeu s'arrête immédiatement. Le joueur qui a terminé le jeu marque zéro et tous les autres joueurs marquent des points de pénalité pour les cartes restantes dans leur main comme suit :
 
-| 2 – 9 | face value |
-| 10 – K | 10 points |
+| 2 – 9 | valeur nominale |
+| 10 – R | 10 points |
 | A | 15 points |
 | Joker | 20 points |
 
-Note that in deal 12 the contract consists of 12 cards, so the first player who lays down their contract, which may be 4 trios of 3 cards, 3 escaleras of 4 cards, a Royal Run or a Colour Run at the choice of the player, then discards their last card and ends the play. All other players will score penalty points for all the cards in their hands.
+Notez que dans la donne 12 le contrat se compose de 12 cartes, donc le premier joueur qui pose son contrat — qui peut être 4 trios de 3 cartes, 3 escaleras de 4 cartes, une Suite Royale ou une Suite Couleur au choix du joueur — défausse ensuite sa dernière carte et termine le jeu. Tous les autres joueurs marqueront des points de pénalité pour toutes les cartes de leur main.
 
-The player with the smallest total of penalty points from the 7 deals wins the game.
+Le joueur ayant le plus petit total de points de pénalité sur les 7 donnes remporte la partie.
 
-### Telefunken in Bolivia
+### Telefunken en Bolivie
 
-Cindy Basaure has described Bolivian Telefunken, which differs from the Venezuelan game as follows.
+Cindy Basaure a décrit le Telefunken bolivien, qui diffère du jeu vénézuélien comme suit.
 
-Four or five people use a double pack of cards with four jokers - 108 cards in all. If more than five playing, a third deck with two jokers is added, for a total of 162 cards. In Bolivia, rather than playing with actual chips, the scorekeeper keeps track of "buys" used during the game. The usual limit is 7 buys.
+Quatre ou cinq personnes utilisent un double jeu de cartes avec quatre jokers — 108 cartes au total. S'il y a plus de cinq joueurs, un troisième jeu avec deux jokers est ajouté, pour un total de 162 cartes. En Bolivie, plutôt que de jouer avec de vrais jetons, le compteur de points suit les « achats » utilisés pendant la partie. La limite habituelle est de 7 achats.
 
-Although the game is traditionally played counter-clockwise, some groups now play clockwise.
+Bien que le jeu soit traditionnellement joué dans le sens inverse des aiguilles d'une montre, certains groupes jouent désormais dans le sens des aiguilles d'une montre.
 
-A player who cuts either the exact number of cards for the deal, or enough for the deal plus the initial face up card (for example 44 or 45 cards with 4 players) is rewarded with an extra buy.
+Un joueur qui coupe soit le nombre exact de cartes pour la donne, soit assez pour la donne plus la carte face en haut initiale (par exemple 44 ou 45 cartes avec 4 joueurs) est récompensé d'un achat supplémentaire.
 
-There is no special privilege for the first player to take the face up card without buying it: if the first player wants this card it costs one buy and an extra card must be taken from the stock, as at any other time.
+Il n'y a pas de privilège spécial pour le premier joueur qui prend la carte face en haut sans l'acheter : si le premier joueur veut cette carte, cela coûte un achat et une carte supplémentaire doit être prise de la pioche, comme à tout autre moment.
 
-In Bolivia a set of 3 equal cards is called a "*trica*", 4 of a kind is a "*cuadra*", 5 of a kind is a "*quina*" and 6 of a kind is a "*sena*". A run of three or more consecutive cards of the same suit is called an "*escalera*".
+En Bolivie, un ensemble de 3 cartes identiques est appelé *trica*, 4 cartes identiques est une *cuadra*, 5 cartes identiques est une *quina* et 6 cartes identiques est une *sena*. Une suite de trois cartes consécutives ou plus de la même couleur est appelée *escalera*.
 
-The contracts are:
+Les contrats sont :
 
-- one pure set of equal 3 cards (trica limpia)
+- un ensemble pur de 3 cartes identiques (trica limpia)
 
-- two sets of 3
+- deux ensembles de 3
 
-- one set of 4 (quadra)
+- un ensemble de 4 (quadra)
 
-- two sets of 4
+- deux ensembles de 4
 
-- one set of 5 (quina)
+- un ensemble de 5 (quina)
 
-- two sets of 5
+- deux ensembles de 5
 
-- one run (escalera) of 7 or more cards, of which only one card can be a joker
+- une suite (escalera) de 7 cartes ou plus, dont une seule carte peut être un joker
 
-Unlike the Venezuelan game, in Bolivia, there is no discard in deal 6 and in deal 7 there is no requirement that the player who lays down must go out at the same time, he/she can continue to hold cards and meld as opportunity arises.
+Contrairement au jeu vénézuélien, en Bolivie, il n'y a pas de défausse dans la donne 6 et dans la donne 7, il n'y a pas d'obligation que le joueur qui pose sorte en même temps ; il/elle peut continuer à conserver des cartes et poser selon les opportunités.
 
-When putting down a contract, you first show the cards needed for the contract, and can then in the same turn lay down additional combinations and add cards to any sets and runs on the table, including your own.
+En posant un contrat, vous montrez d'abord les cartes nécessaires pour le contrat, puis vous pouvez dans le même tour poser des combinaisons supplémentaires et ajouter des cartes à tous les ensembles et suites sur la table, y compris les vôtres.
 
-In the first deal, equal cards of any suit can be added to a trica limpia: the requirement that the suits be different applies only to the first three cards.
+Dans la première donne, des cartes identiques de n'importe quelle couleur peuvent être ajoutées à une trica limpia : l'exigence que les couleurs soient différentes s'applique uniquement aux trois premières cartes.
 
-When a large number of people play - say six or more - there is a rule that no one can meld at their first turn to play. Players must wait until everyone has had an opportunity to draw at least once.
+Quand un grand nombre de personnes jouent — six ou plus — il y a une règle selon laquelle personne ne peut poser lors de son premier tour. Les joueurs doivent attendre que tout le monde ait eu l'opportunité de piocher au moins une fois.
 
-You may never take a joker from any of your own melds. When taking a joker from another player's set, most require only one matching card to be substituted, though some play that two cards are required as in Venezuela.
+Vous ne pouvez jamais prendre un joker de l'une de vos propres poses. En prenant un joker de l'ensemble d'un autre joueur, la plupart exigent seulement une carte correspondante en substitution, bien que certains jouent que deux cartes sont requises comme au Venezuela.
 
-In Bolivia, buying is allowed even after a player has melded, though buying after you have melded is considered foolish. If more than one person is wants to buy the card, the one who shouts "*Compro!*" (I buy) first gets it. If there is any dispute about who was first, the card goes to the person whose turn comes sooner - the person nearest to the right of the discarder if playing counter-clockwise. Players are chided and risk getting their hands slapped if they draw too fast on their turn, and don't give the rest of the players time to see what was discarded, in case they want to buy it (it is too late to buy once the next player has drawn).
+En Bolivie, l'achat est autorisé même après qu'un joueur a posé, bien que l'achat après avoir posé soit considéré comme imprudent. Si plus d'une personne veut acheter la carte, celle qui crie « *Compro !* » (j'achète) en premier l'obtient. En cas de litige sur qui a été le premier, la carte va à la personne dont le tour vient en premier — la personne la plus proche à la droite du défosseur si on joue dans le sens inverse des aiguilles d'une montre. Les joueurs sont réprimandés et risquent de se faire gifler la main s'ils piochent trop vite à leur tour, sans donner aux autres joueurs le temps de voir ce qui a été défaussé, au cas où ils voudraient l'acheter (il est trop tard pour acheter une fois que le joueur suivant a pioché).
 
-When scoring, aces and jokers have a higher value than in Venezuela. Aces count 15 points and jokers count 30. Some play that if the same player wins two hands in a row, the other players' points are doubled for the second hand. For the third win in a row the points are tripled, and so on.
+Lors du comptage, les as et les jokers ont une valeur plus élevée qu'au Venezuela. Les as comptent 15 points et les jokers 30. Certains jouent que si le même joueur gagne deux mains de suite, les points des autres joueurs sont doublés pour la deuxième main. Pour la troisième victoire consécutive, les points sont triplés, et ainsi de suite.
 
-Variant: Carla and Fernanda Basaure have developed a variant called Telefunken Desordenada ("disorganised" Telefunken).
+Variante : Carla et Fernanda Basaure ont développé une variante appelée Telefunken Desordenada (Telefunken « désorganisé »).
 
-### Farmers' Rummy
+### Rami du fermier
 
-T.D.Mullikin sent a description of this American game, which is strikingly similar to Telefunken, but with a few notable differences. Two decks are used for 4 players, 3 for 5 players and 4 for 6-8 players. Two jokers are included with each deck. 11 cards are dealt to each player. The contracts are as follows:
+T.D. Mullikin a envoyé une description de ce jeu américain, qui est remarquablement similaire à Telefunken, mais avec quelques différences notables. Deux jeux sont utilisés pour 4 joueurs, 3 pour 5 joueurs et 4 pour 6 à 8 joueurs. Deux jokers sont inclus avec chaque jeu. 11 cartes sont distribuées à chaque joueur. Les contrats sont les suivants :
 
-- 1 set of 3 - no wild cards
+- 1 ensemble de 3 — pas de joker
 
-- 2 sets of 3
+- 2 ensembles de 3
 
-- 1 set of 4
+- 1 ensemble de 4
 
-- 2 sets of 4
+- 2 ensembles de 4
 
-- 1 set of 5
+- 1 ensemble de 5
 
-- 2 sets of 5
+- 2 ensembles de 5
 
-- 1 set of 6
+- 1 ensemble de 6
 
-- 2 sets of 6
+- 2 ensembles de 6
 
-No runs can be played. After you have put down your contract, card may be added to your own or other players' sets.
+Aucune suite ne peut être jouée. Après avoir posé votre contrat, des cartes peuvent être ajoutées à vos propres ensembles ou à ceux des autres joueurs.
 
-Twos and jokers are wild. Wild cards can be used in all sets except the first set of 3 on deal 1, but natural cards must always outnumber wild cards in each set. Wild cards cannot be added to a set that is already on the table - neither your own nor an opponent's. However, wild cards can be discarded.
+Les deux et les jokers sont jokers. Les jokers peuvent être utilisés dans tous les ensembles sauf le premier ensemble de 3 de la donne 1, mais les cartes naturelles doivent toujours être en plus grand nombre que les jokers dans chaque ensemble. Les jokers ne peuvent pas être ajoutés à un ensemble déjà sur la table — ni le vôtre ni celui d'un adversaire. Cependant, les jokers peuvent être défaussés.
 
-Each player begins the game with 10 coins. Buying the discard out of turn costs one coin and you must draw two additional cards. When buying in turn you pay a coin and get the discard plus three cards (the third being the draw to start your turn).
+Chaque joueur commence la partie avec 10 pièces. Acheter la défausse hors tour coûte une pièce et vous devez piocher deux cartes supplémentaires. En achetant à votre tour, vous payez une pièce et obtenez la défausse plus trois cartes (la troisième étant la pioche pour commencer votre tour).
 
-A final discard is required when going out.
+Une défausse finale est requise pour sortir.
 
-The cards values at the end of the play are:
+Les valeurs des cartes en fin de jeu sont :
 
-- Jokers: 50 points each
+- Jokers : 50 points chacun
 
-- Twos and Aces: 20 points each
+- Deux et As : 20 points chacun
 
-- Cards from King down to Eight: 10 points each
+- Cartes du Roi au 8 : 10 points chacun
 
-- Cards from Seven down to Three: 5 points each
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Contract Rummy > Telefunken
+- Cartes du 7 au 3 : 5 points chacun
