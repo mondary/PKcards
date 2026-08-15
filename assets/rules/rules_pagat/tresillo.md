@@ -3,499 +3,499 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** How to pay Tresillo, a modern form of the classic game three-player game Hombre played in Spain with the Spanish 40-card pack.
+**But :** Comment jouer au Tresillo, une forme moderne du jeu classique à trois joueurs Hombre, joué en Espagne avec le jeu espagnol de 40 cartes.
 **Autres noms :** Hombre, Voltarete
 
 ---
 
 ## Introduction
 
-**El Tresillo** is a trick-taking card game for three players. It originated in Spain at the beginning of the 17th century, when it was also known as **El Hombre** ("The Man"). This name was lost in Spain, where the game is nowadays known only as El Tresillo (this name simply refers to "three" - the number of active players in the game). In the rest of Europe the game was generally known as Hombre (or variations of this name such as l'Hombre, Ombre, Lomber and Lumbur). In South America it is called Rocambor, and in Portugal it was known as Voltarete. 
+**El Tresillo** est un jeu de levées à cartes pour trois joueurs. Il est originaire d'Espagne au début du XVIIe siècle, époque à laquelle il était également connu sous le nom de **El Hombre** (« L'Homme »). Ce nom a disparu en Espagne, où le jeu est désormais connu uniquement sous le nom de El Tresillo (ce nom fait simplement référence à « trois » — le nombre de joueurs actifs dans le jeu). Dans le reste de l'Europe, le jeu était généralement connu sous le nom de Hombre (ou des variations de ce nom telles que l'Hombre, Ombre, Lomber et Lumbur). En Amérique du Sud, il est appelé Rocambor, et au Portugal il était connu sous le nom de Voltarete.
 
-El Tresillo or Hombre spread rapidly across Europe during the 17th and 18th centuries and became a very famous and fashionable game, enjoying a position of prestige similar to Bridge today. During the 18th and 19th century, Hombre was progressively displaced in most of Europe by other games - first by the four-player variation Quadrille and later by Whist. Although it has by now died out in most parts of Europe, El Tresillo is still played in Spain, though unfortunately it is far less widespread than formerly. The game also survives in Denmark as l'Hombre, in the Faroes and Iceland as **Lomber**, and in Peru and Bolivia as **Rocambor**.
+El Tresillo ou Hombre s'est rapidement répandu en Europe aux XVIIe et XVIIIe siècles et est devenu un jeu très célèbre et à la mode, jouissant d'une position de prestige similaire au Bridge d'aujourd'hui. Au cours des XVIIIe et XIXe siècles, le Hombre a été progressivement détrôné dans la majeure partie de l'Europe par d'autres jeux — d'abord par la variante à quatre joueurs Quadrille, puis par le Whist. Bien qu'il ait maintenant pratiquement disparu dans la plupart des régions d'Europe, El Tresillo se joue toujours en Espagne, bien que malheureusement il soit beaucoup moins répandu qu'autrefois. Le jeu survit également au Danemark sous le nom de l'Hombre, aux Féroé et en Islande sous le nom de **Lomber**, et au Pérou et en Bolivie sous le nom de **Rocambor**.
 
-An excellent account of the early history of Hombre can be found in a series of three articles by *Thierry Depaulis* in *[The Playing-Card](https://www.i-p-c-s.org/wp/publications) (Journal of the International Playing-Card Society)*. They are entitled *"Ombre et Lumière. Un Peu de Lumière sur L'Hombre"* and appeared in *Vol XV, No 4, pp 101-110*, *Vol XVI, No 1, pp 10-18*, and *Vol XVI, No 2, pp 44-53*.
+Un excellent aperçu de l'histoire ancienne du Hombre se trouve dans une série de trois articles de *Thierry Depaulis* dans *[The Playing-Card](https://www.i-p-c-s.org/wp/publications) (Journal de la Société Internationale des Cartes à Jouer)*. Ils sont intitulés *"Ombre et Lumière. Un Peu de Lumière sur L'Hombre"* et sont parus dans *Vol XV, No 4, pp 101-110*, *Vol XVI, No 1, pp 10-18*, et *Vol XVI, No 2, pp 44-53*.
 
-This page describes how El Tresillo is currently played in Spain.
+Cette page décrit comment El Tresillo est actuellement joué en Espagne.
 
-*This page is mostly based on information contributed by Joan C de Gispert*
+*Cette page est principalement basée sur des informations fournies par Joan C de Gispert*
 
-## General description
+## Description générale
 
-El Tresillo is a plain-trick game, which is basically for three players. It is very common for four people to take part, but there are only three active players in each hand. A deck of 40 spanish cards is used. Each active player is dealt 9 cards and the remaining 13 are placed in a face down heap, which the players can later use to try to improve their hands.
+El Tresillo est un jeu de levées ordinaires, fondamentalement pour trois joueurs. Il est très courant que quatre personnes participent, mais il n'y a que trois joueurs actifs dans chaque main. Un jeu de 40 cartes espagnoles est utilisé. Chaque joueur actif reçoit 9 cartes et les 13 restantes sont placées en tas face cachée, que les joueurs pourront utiliser ultérieurement pour tenter d'améliorer leur main.
 
-After the deal there is an auction (the bidding is known as **"cantar"** - singing). The purpose of this is to decide who will be the declarer - known as **"el hombre"** (the man) or **"el jugador"** (the player) - and what will be the contract. In all contracts, the declarer plays against the other two players, who are known as **"los contrarios"** ("the opponents").
+Après la donne, il y a une vente (les enchères sont appelées **« cantar »** — chanter). Le but est de décider qui sera le preneur — connu sous le nom de **« el hombre »** (l'homme) ou **« el jugador »** (le joueur) — et quel sera le contrat. Dans tous les contrats, le preneur joue contre les deux autres joueurs, appelés **« los contrarios »** (les adversaires).
 
-The declarer has the privilege of choosing the trump suit (*"cantar un triunfo"*), and must take more tricks than either opponent in order to succeed in the contract. The declarer also has the first chance to discard some cards in the hope of drawing better cards from the heap, if the contract allows this. The opponents cooperate against the declarer, and will decide between themselves which is to be **"el primer contrario"** ("the first opponent"), who will try to defeat the declarer by taking at least as many tricks, and which is **"el segundo contrario"** ("the second opponent"), who will play to help the first opponent. The first opponent has the chance to discard and draw replacement cards from the heap after the declarer has done so, and finally the second opponent can do the same.
+Le preneur a le privilège de choisir la couleur d'atout (*« cantar un triunfo »*), et doit prendre plus de levées que l'un ou l'autre adversaire pour réussir le contrat. Le preneur a également la première possibilité de se défausser de certaines cartes dans l'espoir de tirer de meilleures cartes du tas, si le contrat le permet. Les adversaires coopèrent contre le preneur, et décident entre eux lequel sera **« el primer contrario »** (le premier adversaire), qui tentera de battre le preneur en prenant au moins autant de levées, et lequel sera **« el segundo contrario »** (le deuxième adversaire), qui jouera pour aider le premier adversaire. Le premier adversaire a la possibilité de se défausser et de tirer des cartes de remplacement du tas après que le preneur l'a fait, et enfin le deuxième adversaire peut faire de même.
 
-The cards are played out in nine tricks. After the play, payments are made in tokens (*"fichas"*), acccording to whether the contract was successful. The main payments are made to and from a pool (*"el plato"*). There are other payments between the players, which increase with the rank of the contract.
+Les cartes sont jouées en neuf levées. Après le jeu, des paiements sont effectués en jetons (*« fichas »*), selon que le contrat a été réussi. Les paiements principaux sont effectués vers et depuis une cagnotte (*« el plato »*). Il existe d'autres paiements entre les joueurs, qui augmentent avec le rang du contrat.
 
-The whole game - the deal, the bidding and the tricks - is played anticlockwise.
+L'ensemble du jeu — la donne, les enchères et les levées — se joue dans le sens antihoraire.
 
-## The Cards
+## Les Cartes
 
-El Tresillo is played with a deck of 40 Spanish cards. Many Spanish packs are sold with 48 cards - in this case the eights and nines are not used. The standard Spanish suits are swords *(espadas)*, batons *(bastos)*, cups *(copas)* and coins *(oros)*, and the cards in each suit are 
+El Tresillo se joue avec un jeu de 40 cartes espagnoles. Beaucoup de jeux espagnols sont vendus avec 48 cartes — dans ce cas les huit et les neuf ne sont pas utilisés. Les couleurs espagnoles standard sont les épées *(espadas)*, les bâtons *(bastos)*, les coupes *(copas)* et les pièces *(oros)*, et les cartes de chaque couleur sont
 
-- the king (**El Rey**), with index **12**
+- le roi (**El Rey**), d'indice **12**
 
-- the horse (**El Caballo**), with index **11**
+- le cavalier (**El Caballo**), d'indice **11**
 
-- the jack (**La Sota**), with index **10**
+- le valet (**La Sota**), d'indice **10**
 
-- the numeral cards **7, 6, 5, 4, 3, 2**
+- les cartes numériques **7, 6, 5, 4, 3, 2**
 
-- the ace (**El Uno**), with index **1**.
+- l'as (**El Uno**), d'indice **1**.
 
-In El Tresillo, as in many of the oldest card games, the numeral cards in the round suits (cups and coins) rank in the reverse order from the numeral cards in the long suits (swords and batons). When these suits are **not trumps**, the ranking order of the cards from high to low is:
+Au Tresillo, comme dans beaucoup des plus anciens jeux de cartes, les cartes numériques dans les couleurs rondes (coupes et pièces) se classent dans l'ordre inverse de celles des couleurs longues (épées et bâtons). Lorsque ces couleurs **ne sont pas l'atout**, l'ordre de classement des cartes du plus haut au plus bas est :
 
-- in **swords** and **batons**: **12, 11, 10, 7, 6, 5, 4, 3, 2**
+- en **épées** et **bâtons** : **12, 11, 10, 7, 6, 5, 4, 3, 2**
 
-- in **cups** and **coins**: **12, 11, 10, 1, 2, 3, 4, 5, 6, 7**.
+- en **coupes** et **pièces** : **12, 11, 10, 1, 2, 3, 4, 5, 6, 7**.
 
-In El Tresillo, there is **always** a trump suit. The ace of swords and the ace of batons are permanent trumps (which is why the 1 of these suits is missing from the non-trump ranking above). 
+Au Tresillo, il y a **toujours** une couleur d'atout. L'as d'épées et l'as de bâtons sont des atouts permanents (c'est pourquoi le 1 de ces couleurs est absent du classement non-atout ci-dessus).
 
-- The **ace of swords**, which is the **highest trump**, is called **"la espada"** (abbreviated **S**).
+- L'**as d'épées**, qui est le **plus haut atout**, est appelé **« la espada »** (abréviation **S**).
 
-- The **ace of batons**, which is the **third highest trump**, is called **"el basto"** (abbreviated **B**). 
+- L'**as de bâtons**, qui est le **troisième plus haut atout**, est appelé **« el basto »** (abréviation **B**).
 
-- The **second highest trump** is **"la mala"** (sometimes abbreviated **M**). It is the card which would have been the **lowest** in the suit if it had not been chosen as trumps - i.e. the 2 of a long suit or the 7 of a round suit.
+- Le **deuxième plus haut atout** est **« la mala »** (parfois abrégé **M**). C'est la carte qui aurait été la **plus basse** de la couleur si elle n'avait pas été choisie comme atout — c'est-à-dire le 2 d'une couleur longue ou le 7 d'une couleur ronde.
 
-- There is one other complication in the order of trumps. If cups or coins are trumps, the ace of the suit - called **"el punto"** - becomes the **fourth highest trump**, ranking above the king instead of below the jack.
+- Il y a une autre complication dans l'ordre des atouts. Si les coupes ou les pièces sont l'atout, l'as de la couleur — appelé **« el punto »** — devient le **quatrième plus haut atout**, se classant au-dessus du roi au lieu d'en dessous du valet.
 
-In summary , the ranking of the trump suit from high to low is: 
+En résumé, le classement de la couleur d'atout du plus haut au plus bas est :
 
-- in **swords** and **batons**: **S, 2, B, 12, 11, 10, 7, 6, 5, 4, 3**
+- en **épées** et **bâtons** : **S, 2, B, 12, 11, 10, 7, 6, 5, 4, 3**
 
-- in **cups** and **coins**: **S, 7, B, 1, 12, 11, 10, 2, 3, 4, 5, 6**.
+- en **coupes** et **pièces** : **S, 7, B, 1, 12, 11, 10, 2, 3, 4, 5, 6**.
 
-The highest three trumps (espada, mala, basto) are collectively known as **estuche**.
+Les trois plus hauts atouts (espada, mala, basto) sont collectivement appelés **estuche**.
 
-## The scoring equipment
+## Le matériel de notation
 
-The scoring equipment for Tresillo may seem elaborate, but in practice, when the players are familiar with it, the scoring process works smoothly and efficiently. All scores and payments are in units known as **tantos**. Tresillo is normally played for stakes, and at the start the players should agree the monetary value of a tanto. A moderate value could be 1 tanto = 5 pesetas. Normal values could be: 1 tanto = 10 pesetas or 1 tanto = 25 pesetas.
+Le matériel de notation du Tresillo peut sembler élaboré, mais en pratique, lorsque les joueurs sont habitués, le processus de notation fonctionne de manière fluide et efficace. Tous les scores et paiements sont en unités appelées **tantos**. Le Tresillo se joue normalement pour des mises, et au début les joueurs doivent s'accorder sur la valeur monétaire d'un tanto. Une valeur modérée pourrait être 1 tanto = 5 pesetas. Les valeurs normales pourraient être : 1 tanto = 10 pesetas ou 1 tanto = 25 pesetas.
 
-The equipment required is as follows.
+Le matériel requis est le suivant.
 
-**Fichas** (tokens)
+**Fichas** (jetons)
 
-Each player has a supply of tokens in their own colour. If there are four players the usual colours are blue, green, yellow and red. There are normally 30 tokens of each colour, in shapes representing different values as follows:
+Chaque joueur dispose d'un stock de jetons de sa propre couleur. S'il y a quatre joueurs, les couleurs habituelles sont bleu, vert, jaune et rouge. Il y a normalement 30 jetons de chaque couleur, de formes représentant différentes valeurs comme suit :
 
-- 10 rectangular tokens, each token representing 1 *tanto*
+- 10 jetons rectangulaires, chaque jeton représentant 1 *tanto*
 
-- 10 round tokens, each representing 5 *tantos*
+- 10 jetons ronds, chacun représentant 5 *tantos*
 
-- 10 square tokens, each representing 10 *tantos*
+- 10 jetons carrés, chacun représentant 10 *tantos*
 
-**Bowls**
-****Each player has a bowl to hold their tokens. These bowls are kept to their owners' right. Initially they contain the 30 tokens of the owning player's colour, but during the game the players may win or lose tokens from other players. Because each player's original tokens were a different colour, it is easy to see how much each player has won or lost, and to settle up at the end. Also it does not matter if some players begin with a few tokens more or less than the standard amount.
+**Bols**
+Chaque joueur a un bol pour contenir ses jetons. Ces bols sont gardés à la droite de leur propriétaire. Au départ ils contiennent les 30 jetons de la couleur du joueur, mais pendant le jeu les joueurs peuvent gagner ou perdre des jetons d'autres joueurs. Comme les jetons originaux de chaque joueur étaient de couleurs différentes, il est facile de voir combien chaque joueur a gagné ou perdu, et de régler à la fin. Il n'importe pas non plus que certains joueurs commencent avec quelques jetons de plus ou de moins que la quantité standard.
 
-**El plato** (the dish or saucer)
-This dish is used to hold the pool of tokens that are being played for at any particular time. It is kept to the current dealer's right - i.e. next to the dealer's bowl. After each hand it is passed to the next dealer.
-**El plato para los pajaritos** (the dish for the initial stakes)
-This second dish is kept in a convenient fixed place on the table throughout the session. It is used to store the **pajaritos** (initial stakes) of the players while they are waiting to be transferred to the *plato*.
-**El papel** (the paper)
-In addition to the tokens, bowls and dishes described above, a paper and pen is needed for recording certain debts that occur during the game, which are not immediately settled in tokens. These are debts to the common pool, and are also known as *puestas reservadas* (reserved puestas). The players' names are written on the left side of the paper, one under the other. Each player has a row, to the right of their name, and their debts are listed in the player's row. As soon as a reserved puesta is won, the player whose debt it was pays the amount in tokens to the player who won it, and the corresponding figure on the scoresheet is crossed out. This system will be explained in more detail in the scoring section.
+**El plato** (l'assiette ou la coupelle)
+Cette assiette sert à contenir la cagnotte de jetons mise en jeu à un moment donné. Elle est gardée à la droite du donneur actuel — c'est-à-dire à côté du bol du donneur. Après chaque main, elle est passée au donneur suivant.
+**El plato para los pajaritos** (l'assiette pour les mises initiales)
+Cette deuxième assiette est gardée à un endroit fixe pratique sur la table pendant toute la session. Elle sert à stocker les **pajaritos** (mises initiales) des joueurs en attendant qu'ils soient transférés au *plato*.
+**El papel** (le papier)
+En plus des jetons, bols et assiettes décrits ci-dessus, un papier et un stylo sont nécessaires pour enregistrer certaines dettes qui surviennent pendant le jeu et qui ne sont pas immédiatement réglées en jetons. Ce sont des dettes envers la cagnotte commune, également appelées *puestas reservadas* (puestas réservées). Les noms des joueurs sont écrits sur le côté gauche du papier, les uns sous les autres. Chaque joueur a une ligne, à droite de son nom, et ses dettes sont listées dans la ligne du joueur. Dès qu'une puesta réservée est gagnée, le joueur dont c'était la dette paie le montant en jetons au joueur qui l'a gagnée, et le chiffre correspondant sur la feuille de marque est barré. Ce système sera expliqué plus en détail dans la section notation.
 
-At the start of the session, each player must put one *pajarito* into the *plato para los pajaritos*. One pajarito is just one round token, that is, 5 tantos. These pajaritos will gradually be used during the game. If at any stage the *plato para los pajaritos* becomes empty, it must be replenished by each player once again putting in one *pajarito* (5 tantos).
+Au début de la session, chaque joueur doit mettre un *pajarito* dans le *plato para los pajaritos*. Un pajarito représente un jeton rond, soit 5 tantos. Ces pajaritos seront progressivement utilisés pendant le jeu. Si à un moment donné le *plato para los pajaritos* devient vide, il doit être reconstitué par chaque joueur remettant un *pajarito* (5 tantos).
 
-## The deal
+## La donne
 
-The first dealer is chosen at random. Before dealing, the dealer should check that the pack of cards is complete. The cards are shuffled by the dealer and cut by the player to the dealer's left.
+Le premier donneur est choisi au hasard. Avant de distribuer, le donneur doit vérifier que le jeu est complet. Les cartes sont mélangées par le donneur et coupées par le joueur à la droite du donneur.
 
-If the *plato* is empty, and there are no outstanding debts recorded on the scoresheet, the dealer takes one of the *pajaritos* from the *plato para los pajaritos* and transfers it to the *plato*. The dealer then adds one *tanto* from his own bowl to the *plato* and places it to his right. It will then contain 6 tantos.
+Si le *plato* est vide et qu'il n'y a pas de dettes enregistrées sur la feuille de marque, le donneur prend un des *pajaritos* du *plato para los pajaritos* et le transfère au *plato*. Le donneur ajoute ensuite un *tanto* de son propre bol au *plato* et le place à sa droite. Il contiendra alors 6 tantos.
 
-If the *plato* already contains some tokens left over from the previous hand, or if there is a debt on the scoresheet to be played for, the dealer simply adds one *tanto* to the *plato* from his own bowl and places it to his right.
+Si le *plato* contient déjà des jetons restants de la main précédente, ou s'il y a une dette sur la feuille de marque à jouer, le donneur ajoute simplement un *tanto* au *plato* depuis son propre bol et le place à sa droite.
 
-The dealer now deals out the cards face down, anticlockwise, in batches of three cards to the active players, until each of them has nine cards. If there are four players at the table, the dealer is inactive and deals only to the other three players. The remaining 13 cards are placed face down in the centre of the table. They are the sleeping cards *("las cartas que duermen")*, also known as the heap *("el montón")*.
+Le donneur distribue ensuite les cartes face cachée, dans le sens antihoraire, par paquets de trois cartes aux joueurs actifs, jusqu'à ce que chacun ait neuf cartes. S'il y a quatre joueurs à la table, le donneur est inactif et ne distribue qu'aux trois autres joueurs. Les 13 cartes restantes sont placées face cachée au centre de la table. Ce sont les cartes dormantes *« las cartas que duermen »*, également appelées le tas *« el montón »*.
 
-The turn to deal passes to the right after each hand.
+Le tour de donne passe à droite après chaque main.
 
-## The auction
+## La vente
 
-The player to dealer's right speaks first, followed by the other active players in anticlockwise order. Speaking in the auction is actually called *"cantar"* (singing). It continues around the table, for several circuits if necessary, until a declarer is determined, the other players having passed.
+Le joueur à la droite du donneur parle en premier, suivi des autres joueurs actifs dans l'ordre antihoraire. Parler lors de la vente est en fait appelé *« cantar »* (chanter). Cela continue autour de la table, pendant plusieurs tours si nécessaire, jusqu'à ce qu'un preneur soit déterminé, les autres joueurs ayant passé.
 
-There are just three possible contracts. In all cases, the declarer has to take more tricks than either opponent, but there are different conditions concerning how trumps are chosen and whether new cards can be drawn from the heap. In ascending order, the contracts are:
+Il n'y a que trois contrats possibles. Dans tous les cas, le preneur doit prendre plus de levées que l'un ou l'autre adversaire, mais il y a des conditions différentes concernant le choix des atouts et la possibilité de tirer de nouvelles cartes du tas. Par ordre croissant, les contrats sont :
 
-**Entrada** or **Juego simple**
-An ordinary game in which the declarer chooses trumps and can exchange cards with the heap.
+**Entrada** ou **Juego simple**
+Un jeu ordinaire dans lequel le preneur choisit l'atout et peut échanger des cartes avec le tas.
+
 **Vuelta**
-The top card of the heap is turned face up; the suit of this card is trump. When declarer exchanges with the heap, he gets the face up trump card as the first card drawn from the heap.
+La carte supérieure du tas est retournée face visible ; la couleur de cette carte est l'atout. Lorsque le preneur échange avec le tas, il reçoit la carte d'atout face visible comme première carte tirée du tas.
+
 **Solo**
-The declarer chooses trumps, but does not exchange cards with the heap, though the opponents exchange in the normal way.
+Le preneur choisit l'atout, mais n'échange pas de cartes avec le tas, bien que les adversaires échangent de la manière habituelle.
 
-In the auction, there is a priority order among the players. The player to dealer's right (*el mano*) has highest priority, the player opposite the dealer (*el medio*) is second, and the player to the dealer's left (*el postre*) has lowest priority - assuming that there are four players at the table. When there are only three, the player to dealer's right is still *el mano* and has priority over the others, the player to dealer's left is *el medio*, and the dealer is *el postre*, and has lowest priority.
+Lors de la vente, il y a un ordre de priorité entre les joueurs. Le joueur à la droite du donneur (*el mano*) a la plus haute priorité, le joueur en face du donneur (*el medio*) est deuxième, et le joueur à la gauche du donneur (*el postre*) a la plus basse priorité — en supposant qu'il y a quatre joueurs à la table. Lorsqu'il n'y en a que trois, le joueur à la droite du donneur est toujours *el mano* et a priorité sur les autres, le joueur à la gauche du donneur est *el medio*, et le donneur est *el postre*, avec la plus basse priorité.
 
-The declarer (*"el hombre"*) will be the player who is willing to play the highest contract. If two players want to play the same contract, the player who has higher priority will be the declarer.
+Le preneur (*« el hombre »*) sera le joueur disposé à jouer le contrat le plus élevé. Si deux joueurs veulent jouer le même contrat, le joueur ayant la priorité la plus élevée sera le preneur.
 
-When bidding, the players do not normally state the contract they wish to play, but instead use the following expressions:
+Lors des enchères, les joueurs ne précisent généralement pas le contrat qu'ils souhaitent jouer, mais utilisent plutôt les expressions suivantes :
 
-- **Paso** ("I pass"): The player does not want to be declarer, and takes no further part in the auction.
+- **Paso** (« Je passe ») : Le joueur ne veut pas être preneur et ne prend plus part à la vente.
 
-- **Juego** ("I play"): The player wants to be declarer. The contract can be chosen later, depending on the other player's bids.
+- **Juego** (« Je joue ») : Le joueur veut être preneur. Le contrat peut être choisi ultérieurement, en fonction des enchères des autres joueurs.
 
-- **Juego más** ("I play more"): If a previous player has already bid, a later player who is prepared to compete in the auction can say *"juego más"*. Since the first player was prepared to play at least an *entrada*, the player who competes against this with *"juego más"* must be ready to play at least a *vuelta*.
+- **Juego más** (« Je joue plus ») : Si un joueur précédent a déjà enchéri, un joueur ultérieur prêt à concourir aux enchères peut dire *« juego más »*. Puisque le premier joueur était prêt à jouer au moins une *entrada*, le joueur qui concourt avec *« juego más »* doit être prêt à jouer au moins une *vuelta*.
 
-- **Va bien** ("It's good"): A player, having previously bid, says this to drop out of the auction, allowing another player's bid to stand.
+- **Va bien** (« C'est bon ») : Un joueur, ayant précédemment enchéri, dit cela pour se retirer de la vente, permettant à l'enchère d'un autre joueur de subsister.
 
-Here are some examples of possible auctions.
+Voici quelques exemples de ventes possibles.
 
-Example No. 1
-Player A: "Paso" (I pass)
-Player B: "Juego" (I play)
-Player C: "Paso" (I pass)
-Player B: "Juego a oros y robo 4 cartas" (I play *[an ordinary game]* in coins *[as trumps]* and exchange 4 cards *[with the heap]*)
-Example No. 2
-Player A: "Juego" (I play)
-Player B: "Paso" (I pass)
-Player C: "Juego más" (I play more)
-Player A: "Va bien" (OK)
-Player C: "Vuelta" *[At this point, player C, having offered to play a higher game than A's, had a choice between vuelta and solo]*
-Example No. 3
-Player A: "Juego" (I play)
-Player B: "Juego más" (I play more)
-Player C: "Paso" (I pass)
-Player A: "Juego más, solo a bastos" ("I play more, solo batons") *[A has priority, and therefore can always play a solo - the highest bid, even if B was also intending to play a solo]*
-Example No. 4
-Player A: "Juego"
-Player B: "Juego más" *[Player B has the option of playing vuelta or solo]*
-Player C: "Paso"
-Player A: "Juego más, vuelta"
-Player B: "Juego más" *[Player B bids more than A's vuelta, and will therefore have to play solo if player A passes]*
-Player A: "Paso" *[At this point, player A could theoretically call solo, but this is very unlikely to happen in an actual game]*
-Player B: "Solo a copas" (solo in cups)
+Exemple n° 1
+Joueur A : « Paso » (Je passe)
+Joueur B : « Juego » (Je joue)
+Joueur C : « Paso » (Je passe)
+Joueur B : « Juego a oros y robo 4 cartas » (Je joue *[un jeu ordinaire]* en pièces *[comme atout]* et j'échange 4 cartes *[avec le tas]*)
+Exemple n° 2
+Joueur A : « Juego » (Je joue)
+Joueur B : « Paso » (Je passe)
+Joueur C : « Juego más » (Je joue plus)
+Joueur A : « Va bien » (OK)
+Joueur C : « Vuelta » *[À ce stade, le joueur C, ayant proposé de jouer un contrat plus élevé que celui de A, avait le choix entre vuelta et solo]*
+Exemple n° 3
+Joueur A : « Juego » (Je joue)
+Joueur B : « Juego más » (Je joue plus)
+Joueur C : « Paso » (Je passe)
+Joueur A : « Juego más, solo a bastos » (« Je joue plus, solo aux bâtons ») *[A a la priorité, et peut donc toujours jouer un solo — l'enchère la plus élevée, même si B avait aussi l'intention de jouer un solo]*
+Exemple n° 4
+Joueur A : « Juego »
+Joueur B : « Juego más » *[Le joueur B a le choix de jouer vuelta ou solo]*
+Joueur C : « Paso »
+Joueur A : « Juego más, vuelta »
+Joueur B : « Juego más » *[Le joueur B enchérit plus que la vuelta de A, et devra donc jouer solo si le joueur A passe]*
+Joueur A : « Paso » *[À ce stade, le joueur A pourrait théoriquement enchérir solo, mais c'est très peu probable dans une partie réelle]*
+Joueur B : « Solo a copas » (solo aux coupes)
 
-### When everyone passes: espada forzada and penetro
+### Quand tout le monde passe : espada forzada et penetro
 
-If all three players pass, the player who has the *espada* (the ace of swords, which is the highest trump) must play as declarer in an ordinary game. This is called "**espada forzada**" (forced *espada*).
+Si les trois joueurs passent, le joueur qui a l'*espada* (l'as d'épées, qui est le plus haut atout) doit jouer en tant que preneur dans un jeu ordinaire. C'est ce qu'on appelle l'**« espada forzada »** (espada forcée).
 
-In a four-player game, if all three active players passed and no one has the *espada* (because it is in the heap) then the fourth player (the dealer) **must** say "**Yo penetro**" ("I enter"). The dealer now plays the equivalent of an ordinary game, taking 10 cards from the heap and discarding one. One of the other three players will drop out, so that the dealer has two opponents. The details of this are explained later.
+Dans un jeu à quatre joueurs, si les trois joueurs actifs passent et que personne n'a l'*espada* (parce qu'elle est dans le tas), le quatrième joueur (le donneur) **doit** dire **« Yo penetro »** (« J'entre »). Le donneur joue alors l'équivalent d'un jeu ordinaire, en prenant 10 cartes du tas et en se défaussant d'une. L'un des trois autres joueurs se retire, de sorte que le donneur a deux adversaires. Les détails de cette procédure sont expliqués plus loin.
 
-In a three-player game, if all three active players passed and no one has the *espada* (because it is in the heap), then the deal is cancelled, and the turn passes to the next dealer, who must place one more *tanto* in the *plato* as usual.
+Dans un jeu à trois joueurs, si les trois joueurs actifs passent et que personne n'a l'*espada* (parce qu'elle est dans le tas), la donne est annulée et le tour passe au donneur suivant, qui doit placer un *tanto* supplémentaire dans le *plato* comme d'habitude.
 
-## Exchanging cards with the heap
+## Échanger des cartes avec le tas
 
-After the declarer has determined the trump suit, by simply announcing it in the case of an *entrada* or a *solo*, or by turning the top card of the heap face up in a *vuelta*, the players can try to improve their hands by exchanging some cards with the heap.
+Après que le preneur a déterminé la couleur d'atout, en l'annonçant simplement dans le cas d'une *entrada* ou d'un *solo*, ou en retournant la carte supérieure du tas face visible dans une *vuelta*, les joueurs peuvent tenter d'améliorer leur main en échangeant certaines cartes avec le tas.
 
-If the contract is *entrada* or *vuelta* the declarer can discard any number of cards face down, announcing the number of cards discarded. The declarer then draws an equal number of cards from the top of the heap, including the face-up trump card if the contract is *vuelta*. So the declarer has nine cards again. If the contract is *solo*, the declarer is not allowed to exchange any cards.
+Si le contrat est *entrada* ou *vuelta*, le preneur peut se défausser d'un nombre quelconque de cartes face cachée, en annonçant le nombre de cartes défaussées. Le preneur tire alors un nombre égal de cartes du sommet du tas, y compris la carte d'atout face visible si le contrat est *vuelta*. Le preneur a donc à nouveau neuf cartes. Si le contrat est *solo*, le preneur n'est pas autorisé à échanger des cartes.
 
-Next, the two opponents decide between themselves which will have the first chance to exchange cards for any that have been left in the heap by the declarer. It is an advantage for the opponent with the stronger hand to exchange first, so as to become even stronger and have the best chance of defeating the declarer. The opponent who exchanges first is called *"el primer contrario"* (the first opponent) and the other is *"el segundo contrario"* (the second opponent). The agreement is achieved by means of a formalised conversation in which the two opponents speak alternately. The opponent to the right of the declarer speaks first. The only statements allowed are:
+Ensuite, les deux adversaires décident entre eux qui aura la première chance d'échanger des cartes avec celles qui ont été laissées dans le tas par le preneur. Il est avantageux pour l'adversaire ayant la main la plus forte d'échanger en premier, afin de devenir encore plus fort et d'avoir les meilleures chances de battre le preneur. L'adversaire qui échange en premier est appelé *« el primer contrario »* (le premier adversaire) et l'autre est *« el segundo contrario »* (le deuxième adversaire). L'accord est obtenu au moyen d'une conversation formalisée dans laquelle les deux adversaires parlent alternativement. L'adversaire à la droite du preneur parle en premier. Les seules déclarations autorisées sont :
 
-- **"Vienen"** or **"Puedo ir"** or equivalent, which means "I would like to be the first opponent" and indicates that the player has a good hand
+- **« Vienen »** ou **« Puedo ir »** ou équivalent, ce qui signifie « Je voudrais être le premier adversaire » et indique que le joueur a une bonne main
 
-- **"Van y vienen"** or **"Como quiera"** or equivalent, which means "I am not sure, it depends on you" and indicates that the player has an average hand
+- **« Van y vienen »** ou **« Como quiera »** ou équivalent, ce qui signifie « Je ne suis pas sûr, ça dépend de vous » et indique que le joueur a une main moyenne
 
-- **"Van"** or **"Usted"** or equivalent, which means "You should be the first opponent" and indicates that the player has a poor hand.
+- **« Van »** ou **« Usted »** ou équivalent, ce qui signifie « Vous devriez être le premier adversaire » et indique que le joueur a une mauvaise main.
 
-If one opponent says *"vienen"* and the other says *"van"*, then the conversation is over. Quite often, however, both will begin by saying *"van"*, or both say *"vienen"*, or one or both are not sure. In that case they continue speaking alternately until an agreement is reached. Through this conversation the opponents get an impression of the strengths of their hands, but the declarer of course also gets this information, which can be useful during the play.
+Si un adversaire dit *« vienen »* et l'autre dit *« van »*, la conversation est terminée. Très souvent cependant, les deux commencent par dire *« van »*, ou les deux disent *« vienen »*, ou l'un ou les deux ne sont pas sûrs. Dans ce cas, ils continuent à parler alternativement jusqu'à ce qu'un accord soit trouvé. Par cette conversation, les adversaires se font une idée de la force de leurs mains, mais le preneur obtient bien sûr aussi cette information, qui peut lui être utile pendant le jeu.
 
-The first opponent can now discard any number of cards face down, from none up to the number of cards that remain in the heap. For example if the declarer exchanged 6 cards, the first opponent can discard as many as 7 cards. If the declarer is playing solo there are 13 cards in the heap, and the first defender could in theory discard all nine cards, though in practice this is unlikely. Having discarded, the first opponent draws an equal number of cards from the top of the heap, so as to have a hand of nine cards again.
+Le premier adversaire peut alors se défausser d'un nombre quelconque de cartes face cachée, de zéro jusqu'au nombre de cartes restantes dans le tas. Par exemple, si le preneur a échangé 6 cartes, le premier adversaire peut se défausser de jusqu'à 7 cartes. Si le preneur joue solo, il y a 13 cartes dans le tas et le premier défenseur pourrait théoriquement se défausser de ses neuf cartes, bien qu'en pratique cela soit peu probable. Après s'être défaussé, le premier adversaire tire un nombre égal de cartes du sommet du tas, de manière à avoir à nouveau une main de neuf cartes.
 
-If any cards are left in the heap, the second opponent can now discard face down any number of cards up to this number, and draw an equal number of replacements from the heap. If any cards remain in the heap after the second opponent has exchanged, these remain face down and unknown until the end of the play. They are "permanently sleeping cards".
+S'il reste des cartes dans le tas, le deuxième adversaire peut alors se défausser face cachée d'un nombre quelconque de cartes jusqu'à ce nombre, et tirer un nombre égal de cartes de remplacement du tas. S'il reste des cartes dans le tas après que le deuxième adversaire a échangé, elles restent face cachée et inconnues jusqu'à la fin du jeu. Ce sont des « cartes définitivement dormantes ».
 
-The cards that have been discarded by the players also remain face down until the end of the play. The players are not allowed to look again at the cards they discarded - they are supposed to remember what they were.
+Les cartes qui ont été défaussées par les joueurs restent également face cachée jusqu'à la fin du jeu. Les joueurs ne sont pas autorisés à regarder à nouveau les cartes qu'ils ont défaussées — ils sont censés s'en souvenir.
 
-### The procedure in case of *penetro*
+### La procédure en cas de *penetro*
 
-In the four-player game, when the three active players pass and none of them has the espada, the procedure is as follows.
+Dans le jeu à quatre joueurs, lorsque les trois joueurs actifs passent et qu'aucun d'eux n'a l'espada, la procédure est la suivante.
 
-The dealer must say *"Yo penetro"* (I enter) and become the declarer. The dealer takes 10 cards from the heap - either the top 10 or the bottom 10 cards - but is not allowed to look at the heap cards before deciding which 10 to take.
+Le donneur doit dire *« Yo penetro »* (J'entre) et devient le preneur. Le donneur prend 10 cartes du tas — soit les 10 du dessus, soit les 10 du dessous — mais n'est pas autorisé à regarder les cartes du tas avant de décider lesquelles prendre.
 
-The dealer then looks at the 10 cards, and is at this point allowed to surrender, and pay as though the result was *puesta* (see scoring below), thus avoiding a possible *codillo*. If the dealer wants to surrender, the other players cannot prevent this. If the dealer decides to play on, the next step is for the dealer to choose and announce a trump suit, and to discard any one of the ten cards face down.
+Le donneur regarde alors les 10 cartes, et à ce stade il est autorisé à se rendre, en payant comme si le résultat était *puesta* (voir notation ci-dessous), évitant ainsi un éventuel *codillo*. Si le donneur veut se rendre, les autres joueurs ne peuvent l'en empêcher. Si le donneur décide de continuer, l'étape suivante est de choisir et d'annoncer une couleur d'atout, et de se défausser d'une des dix cartes face cachée.
 
-Next, the other three players must decide which of them will be the first opponent, which will be the second and which will drop out. First, the player who will drop out is decided by a formal conversation, beginning with the player to the right of the dealer and continuing anticlockwise. The possible statements are: 
+Ensuite, les trois autres joueurs doivent décider lequel sera le premier adversaire, lequel sera le deuxième et lequel se retirera. D'abord, le joueur qui se retirera est décidé par une conversation formalisée, commençant par le joueur à la droite du donneur et continuant dans le sens antihoraire. Les déclarations possibles sont :
 
-- **"Me quedo"**, which means "I stay" and indicates that the player has a good hand.
+- **« Me quedo »**, qui signifie « Je reste » et indique que le joueur a une bonne main.
 
-- **"Puedo quedarme"**, which means "I could stay" and indicates that the player has an above average hand
+- **« Puedo quedarme »**, qui signifie « Je pourrais rester » et indique que le joueur a une main au-dessus de la moyenne
 
-- **"Puedo irme"**, which means "I could drop out" and indicates that the player has a below average hand
+- **« Puedo irme »**, qui signifie « Je pourrais me retirer » et indique que le joueur a une main en dessous de la moyenne
 
-- **"Me voy"**, which means "I drop out" and is said when the player's hand is so bad that he definitely wants to drop out 
+- **« Me voy »**, qui signifie « Je me retire » et se dit lorsque la main du joueur est si mauvaise qu'il veut définitivement se retirer
 
-As soon as one of the players says *"Me voy"*, that player drops out. The other two players then agree between them as above which is the first opponent. There are only three cards left in the heap after the declarer has taken 10, so the first opponent can discard up to three cards, replacing them from the heap, and if any are then left the second opponent can discard up to the number remaining.
+Dès qu'un des joueurs dit *« Me voy »*, ce joueur se retire. Les deux autres joueurs s'accordent entre eux comme ci-dessus pour savoir qui est le premier adversaire. Il ne reste que trois cartes dans le tas après que le preneur a pris 10, donc le premier adversaire peut se défausser de jusqu'à trois cartes, en les remplaçant par des cartes du tas, et s'il en reste alors, le deuxième adversaire peut se défausser du nombre restant.
 
-## The play
+## Le jeu
 
-The play is anticlockwise. The player to the right of the dealer leads to the first trick. (In a *penetro*, if this player has dropped out, the next player in turn leads, i.e. the player opposite the dealer). A trick is won by the highest card of the suit led, unless it contains a trump, in which case highest trump wins it. The winner of a trick leads to the next.
+Le jeu se fait dans le sens antihoraire. Le joueur à la droite du donneur mène la première levée. (Dans un *penetro*, si ce joueur s'est retiré, le joueur suivant en turns mène, c'est-à-dire le joueur en face du donneur). Une levée est gagnée par la carte la plus haute de la couleur menée, sauf si elle contient un atout, auquel cas le plus haut atout l'emporte. Le gagnant d'une levée mène la suivante.
 
-Players must follow suit if they can, playing any card they wish from the suit led. A player with no card of the suit led may play any card, including a trump.
+Les joueurs doivent suivre la couleur s'ils le peuvent, en jouant n'importe quelle carte qu'ils souhaitent de la couleur menée. Un joueur n'ayant pas de carte de la couleur menée peut jouer n'importe quelle carte, y compris un atout.
 
-The obligation to follow suit does not apply fully to the *estuche* (the highest three trumps: *espada*, *mala* and *basto*). When a trump is led, the holder of an *estuche* need not play it unless a higher *estuche* has been **led**, and the player has no other trumps. It follows that the *espada* can never be forced out. The *mala* is forced out when the espada is led and the holder of the *mala *has no other trumps. The *basto* is forced out if the *espada* or the *mala* is led and the holder of the *basto* has no other trumps.
+L'obligation de suivre la couleur ne s'applique pas pleinement à l'*estuche* (les trois plus hauts atouts : *espada*, *mala* et *basto*). Lorsqu'un atout est mené, le détenteur d'un *estuche* n'est pas obligé de le jouer à moins qu'un *estuche* supérieur n'ait été **mené**, et que le joueur n'ait pas d'autres atouts. Il s'ensuit que l'*espada* ne peut jamais être forcée de sortir. La *mala* est forcée de sortir lorsque l'espada est menée et que le détenteur de la *mala* n'a pas d'autres atouts. Le *basto* est forcé de sortir si l'*espada* ou la *mala* est menée et que le détenteur du *basto* n'a pas d'autres atouts.
 
-Only the highest three trumps enjoy this privilege - all other trumps can be forced out by the lead of a lower trump. Note also that if the first player to a trick leads a small trump, the second player plays the *espada* and the third player's only trump is the *basto*, then the third player need not play the *basto*, because the *espada* was not **led** to the trick.
+Seuls les trois plus hauts atouts bénéficient de ce privilège — tous les autres atouts peuvent être forcés de sortir par la menace d'un atout inférieur. Notez également que si le premier joueur d'une levée mène un petit atout, que le deuxième joueur joue l'*espada* et que le seul atout du troisième joueur est le *basto*, alors le troisième joueur n'est pas obligé de jouer le *basto*, car l'*espada* n'a pas été **menée** dans la levée.
 
-Although players are not allowed to look at the discards, they **are** allowed to inspect the cards played to previous tricks - for example to check what trumps have been played - irrespective of who won the tricks.
+Bien que les joueurs ne soient pas autorisés à regarder les défausses, ils **sont** autorisés à inspecter les cartes jouées lors des levées précédentes — par exemple pour vérifier quels atouts ont été joués — indépendamment de qui a gagné les levées.
 
-The declarer tries to take more tricks than either opponent, and the opponents cooperate to arrange that one of them takes at least as many tricks as the declarer. Note, however, that this cooperation takes place in silence - there is no conversation or signals between the players other than the formal discussion to decide who is the first opponent, that was described above.
+Le preneur tente de prendre plus de levées que l'un ou l'autre adversaire, et les adversaires coopèrent pour s'assurer que l'un d'eux prend au moins autant de levées que le preneur. Notez cependant que cette coopération se fait en silence — il n'y a ni conversation ni signaux entre les joueurs, à part la discussion formalisée pour décider qui est le premier adversaire, décrite ci-dessus.
 
-There are three basic possible outcomes of the play.
+Il y a trois résultats possibles fondamentaux du jeu.
 
 Juego sacado
-The decaler wins, taking more tricks than either defender. This happens as soon as the declarer has 5 (or more) tricks, or if the declarer takes 4 tricks and the other 5 tricks are divided 3-2 between the opponents.
+Le preneur gagne, en prenant plus de levées que l'un ou l'autre défenseur. Cela se produit dès que le preneur a 5 levées (ou plus), ou si le preneur prend 4 levées et que les 5 autres levées sont partagées 3-2 entre les adversaires.
 Puesta
-There is a tie for most tricks. Most often this happens when the declarer and one opponent win 4 tricks each, the other opponent winning one trick. There are however, two other possibilities. When everyone takes three tricks, it is called a **puesta sabia** ("wise puesta"). If declarer takes just one trick, but cleverly arranges for the opponents to win 4 tricks each, it is called a **puesta real** ("royal puesta").
+Il y a égalité pour le plus grand nombre de levées. Le plus souvent, cela se produit lorsque le preneur et un adversaire gagnent 4 levées chacun, l'autre adversaire en gagnant une. Cependant, il y a deux autres possibilités. Quand tout le monde prend trois levées, cela s'appelle une **puesta sabia** (« puesta sage »). Si le preneur ne prend qu'une levée, mais arrange habilement que les adversaires en gagnent 4 chacun, cela s'appelle une **puesta real** (« puesta royale »).
 Codillo
-The declarer fails, and one of the oppopnents wins, by taking more tricks than the declarer and more than the other opponent. The winning opponent takes 5 tricks, or takes 4 tricks with the remaining tricks divided 3-2 between the other players. It is said that the defender *"ha hecho codillo al Jugador"* ("The defender made *codillo* to the declarer").
+Le preneur échoue, et l'un des adversaires gagne, en prenant plus de levées que le preneur et plus que l'autre adversaire. L'adversaire gagnant prend 5 levées, ou en prend 4 avec les levées restantes partagées 3-2 entre les autres joueurs. On dit que le défenseur *« ha hecho codillo al Jugador »* (« Le défenseur a fait un codillo au preneur »).
 
-The declarer's best result is to win a *juego sacado*, next best is *puesta*, and worst is to lose *codillo*. Note that the *"puesta real"* in which the tricks are divided 1-4-4 is not *codillo*, so it is better for the declarer to win one trick with the possibility of *puesta real* than two tricks, which inevitably leads to *codillo*.
+Le meilleur résultat du preneur est de gagner un *juego sacado*, le deuxième meilleur est la *puesta*, et le pire est de perdre le *codillo*. Notez que la *« puesta real »* dans laquelle les levées sont partagées 1-4-4 n'est pas un *codillo*, il est donc préférable pour le preneur de gagner une levée avec la possibilité d'une *puesta real* que deux levées, ce qui mènera inévitablement à un *codillo*.
 
-An opponent's best result is to make *codillo*, second best is *puesta*, third best is for the other opponent to make *codillo*, and worst is for the declarer to win *juego sacada*.
+Le meilleur résultat d'un adversaire est de faire un *codillo*, le deuxième meilleur est la *puesta*, le troisième meilleur est que l'autre adversaire fasse un *codillo*, et le pire est que le preneur gagne un *juego sacado*.
 
-It is normal not to play out the cards to the bitter end when the result is inevitable. If you can demonstrate that you are certain to take at least five tricks, it is polite to show your cards and claim a win, to save time.
+Il est normal de ne pas jouer les cartes jusqu'au bout quand le résultat est inévitable. Si vous pouvez démontrer que vous êtes certain de prendre au moins cinq levées, il est poli de montrer vos cartes et de réclamer la victoire, pour gagner du temps.
 
-### The surrender
+### L'abandon
 
-If the contract is *entrada* (*juego simple*) or *vuelta*, the declarer can propose to surrender, just before playing to the fourth trick. The declarer will choose this option when the risk of *codillo* outweighs the chances of winning. If the opponents accept the surrender, the result is a *puesta*. But either opponent has the right not to accept the surrender, but to say *"yo sigo"* ("I continue" or "I follow"). In this case the play continues, and the opponent who demanded the continuation takes over the role of declarer, while the original declarer becomes an opponent.
+Si le contrat est *entrada* (*juego simple*) ou *vuelta*, le preneur peut proposer d'abandonner, juste avant de jouer la quatrième levée. Le preneur choisira cette option lorsque le risque de *codillo* l'emporte sur les chances de gagner. Si les adversaires acceptent l'abandon, le résultat est une *puesta*. Mais l'un ou l'autre adversaire a le droit de ne pas accepter l'abandon, mais de dire *« yo sigo »* (« Je continue »). Dans ce cas, le jeu continue et l'adversaire qui a exigé la continuation prend le rôle de preneur, tandis que le preneur original devient un adversaire.
 
-A *solo* contract cannot be surrendered, and a *penetro* can only be surrendered at the start, not at the fourth trick.
+Un contrat *solo* ne peut pas être abandonné, et un *penetro* ne peut être abandonné qu'au début, pas à la quatrième levée.
 
-### The bola
+### La bola
 
-Winning all nine tricks is called **bola** and is rewarded with an extra payment. If you win the first five tricks you must decide whether to claim a win or to play on. If you lead to the sixth trick rather than claiming, you are considered to be trying for *bola*. If you succeed you get the additional payment for *bola*, but if you lose a trick you have to pay the others for your failed *bola*, though you are still paid for the basic contract.
+Gagner les neuf levées s'appelle **bola** et est récompensé par un paiement supplémentaire. Si vous gagnez les cinq premières levées, vous devez décider si vous réclamez la victoire ou si vous continuez à jouer. Si vous menez la sixième levée au lieu de réclamer, vous êtes considéré comme tentant la *bola*. Si vous réussissez, vous obtenez le paiement supplémentaire pour la *bola*, mais si vous perdez une levée, vous devez payer les autres pour votre *bola* échouée, bien que vous soyez toujours payé pour le contrat de base.
 
-## Scoring
+## Notation
 
-When the outcome of the contract is known, payment is made in tokens. There are two parts to this:
+Lorsque le résultat du contrat est connu, le paiement est effectué en jetons. Il comporte deux parties :
 
-- **The puesta system.** On each deal there is an **"amount in play"**. This is the amount that the declarer will win from the common pool of tokens in the *"plato"* if successful, or pay to the *plato* if the result is *puesta*, or pay to the *plato* **and** the winning opponent in case of *codillo*.
+- **Le système de puesta.** À chaque donne, il y a un **« montant en jeu »**. C'est le montant que le preneur gagnera de la cagnotte commune de jetons dans le *« plato »* en cas de réussite, ou paiera au *plato* si le résultat est *puesta*, ou paiera au *plato* **et** à l'adversaire gagnant en cas de *codillo*.
 
-- **Las condiciones** (the conditional payments). These are direct payments between the declarer and the other players, depending on the contract undertaken, and certain other events.
+- **Las condiciones** (les paiements conditionnels). Ce sont des paiements directs entre le preneur et les autres joueurs, selon le contrat entrepris et certains autres événements.
 
-### The puesta system
+### Le système de puesta
 
-The amount in play depends on the value of tokens in the *plato*, the amounts (if any) recorded on the paper, and whether the *plato* already contains an amount paid in by a previous losing declarer. There are three main possible cases:
+Le montant en jeu dépend de la valeur des jetons dans le *plato*, des montants (le cas échéant) enregistrés sur le papier, et de la question de savoir si le *plato* contient déjà un montant payé par un preneur précédent ayant échoué. Il y a trois cas principaux possibles :
 
-The first puesta
-This is the case when there are no outstanding debts on the paper scoresheet, and the *plato* contains only a *pajarito* and the amount added by the dealer - i.e. it does not contain an amount paid in by a losing declarer. In this case the amount in play is whatever is in the *plato* **plus** one *tanto* for each player at the table. For example, in the first hand of a session with four players there will be 6 *tantos* in the *plato* - a *pajarito* plus the *tanto* that the dealer put in, and so the amount in play is 10 *tantos*. According to the result of the play, the payments are handled as follws:
+La première puesta
+C'est le cas lorsqu'il n'y a pas de dettes en suspens sur la feuille de marque, et que le *plato* ne contient qu'un *pajarito* et le montant ajouté par le donneur — c'est-à-dire qu'il ne contient pas un montant payé par un preneur ayant échoué. Dans ce cas, le montant en jeu est ce qui se trouve dans le *plato* **plus** un *tanto* pour chaque joueur à la table. Par exemple, dans la première main d'une session avec quatre joueurs, il y aura 6 *tantos* dans le *plato* — un *pajarito* plus le *tanto* que le donneur a mis, donc le montant en jeu est de 10 *tantos*. Selon le résultat du jeu, les paiements sont traités comme suit :
 
-- **Juego sacado:** the declarer wins the contents of the *plato*, plus one *tanto* from each of the other players (including the inactive player in a four-player game).
+- **Juego sacado :** le preneur gagne le contenu du *plato*, plus un *tanto* de chacun des autres joueurs (y compris le joueur inactif dans un jeu à quatre).
 
-- **Puesta:** the declarer pays the amount in play to the *plato*.
+- **Puesta :** le preneur paie le montant en jeu au *plato*.
 
-- **Codillo:** the declarer plays the amount in play to the *plato*, and pays the same amount to the winning opponent.
-Puesta in the plato
-This is the case where the *plato* contains an amount paid in by an unsuccessful declarer. As with the first puesta, the amount in play is whatever is in the *plato* **plus** one *tanto* for each player at the table. For example, in the second hand of a session with four players, if the result of the first hand was puesta, there will be 17 *tantos* in the *plato* - the 6 that were there during the first deal, plus the 10 paid in by the previous declarer, plus the *tanto* added by the second dealer - so the amount in play is 21 *tantos* (17+4). The payments are handled similarly to the first puesta, except that no further tokens are put in the plato. Instead, any further puestas are recorded on the scoresheet as debts; these *"puestas reservadas"* (reserved puestas) are played for after the contents of the *plato* have been won.
+- **Codillo :** le preneur paie le montant en jeu au *plato*, et paie le même montant à l'adversaire gagnant.
 
-- **Juego sacado:** the declarer wins the contents of the *plato*, plus one *tanto* from each of the other players (including the inactive player in a four-player game).
+Puesta dans le plato
+C'est le cas où le *plato* contient un montant payé par un preneur ayant échoué. Comme pour la première puesta, le montant en jeu est ce qui se trouve dans le *plato* **plus** un *tanto* pour chaque joueur à la table. Par exemple, dans la deuxième main d'une session avec quatre joueurs, si le résultat de la première main était puesta, il y aura 17 *tantos* dans le *plato* — les 6 qui s'y trouvaient lors de la première donne, plus les 10 payés par le preneur précédent, plus le *tanto* ajouté par le deuxième donneur — donc le montant en jeu est de 21 *tantos* (17+4). Les paiements sont traités de manière similaire à la première puesta, sauf qu'aucun jeton supplémentaire n'est mis dans le plato. Au lieu de cela, les puestas ultérieures sont enregistrées sur la feuille de marque comme dettes ; ces *« puestas reservadas »* (puestas réservées) sont jouées après que le contenu du *plato* a été gagné.
 
-- **Puesta:** the amount in play is written on the scoresheet in the row belonging to the declarer. This is a debt that the declarer will have to pay later.
+- **Juego sacado :** le preneur gagne le contenu du *plato*, plus un *tanto* de chacun des autres joueurs (y compris le joueur inactif dans un jeu à quatre).
 
-- **Codillo:** the amount in play is written on the scoresheet in the row belonging to the declarer, and the declarer pays the same amount to the winning opponent.
+- **Puesta :** le montant en jeu est écrit sur la feuille de marque dans la ligne correspondant au preneur. C'est une dette que le preneur devra payer ultérieurement.
 
-Reserved puesta 
-This is the case where there the scoresheet has one or more debts on it that have not been cancelled, but the *plato* does not contain the amount paid in by a previous unsuccessful declarer. In this case the *plato* will only contain the single tantos put in by the players who have dealt since the contents of the *plato* were last won. The amount in play is the largest debt (reserved puesta) recorded on the scoresheet, plus the amount of *tantos* in the *plato*. The payments are handled as follows:
+- **Codillo :** le montant en jeu est écrit sur la feuille de marque dans la ligne correspondant au preneur, et le preneur paie le même montant à l'adversaire gagnant.
 
-- **Juego sacado:** the declarer wins the contents of the *plato* and the reserved *puesta* that was being played for. Therefore, the player against whom the reserved *puesta* was written has to pay that amount to the successful declarer, and the corresponding number on the scoresheet is crossed out, because the debt has been paid. If the successful declarer is the the same player whose reserved puesta is being played for, then the declarer simply wins the contents of the *plato* and the debt is crossed out.
+Puesta réservée
+C'est le cas où la feuille de marque comporte une ou plusieurs dettes qui n'ont pas été annulées, mais le *plato* ne contient pas le montant payé par un preneur précédent ayant échoué. Dans ce cas, le *plato* ne contiendra que les tantos mis par les joueurs ayant distribué depuis que le contenu du *plato* a été gagné pour la dernière fois. Le montant en jeu est la plus grande dette (puesta réservée) enregistrée sur la feuille de marque, plus le montant de *tantos* dans le *plato*. Les paiements sont traités comme suit :
 
-- **Puesta:** the amount in play is written on the scoresheet in the row belonging to the declarer. This is a debt that the declarer will have to pay later.
+- **Juego sacado :** le preneur gagne le contenu du *plato* et la *puesta réservée* qui était en jeu. Par conséquent, le joueur contre lequel la *puesta réservée* a été inscrite doit payer ce montant au preneur gagnant, et le chiffre correspondant sur la feuille de marque est barré, car la dette a été payée. Si le preneur gagnant est le même joueur dont la puesta réservée était en jeu, alors le preneur gagne simplement le contenu du *plato* et la dette est barrée.
 
-- **Codillo:** the amount in play is written on the scoresheet in the row belonging to the declarer, and the declarer pays the same amount to the winning opponent.
+- **Puesta :** le montant en jeu est écrit sur la feuille de marque dans la ligne correspondant au preneur. C'est une dette que le preneur devra payer ultérieurement.
 
-Extra complications can arise when the original declarer tries to give up (before playing to the fourth trick), but one of the opponents insists on continuing and becomes the new declarer. There are now several possible results, which are handled as follows.
+- **Codillo :** le montant en jeu est écrit sur la feuille de marque dans la ligne correspondant au preneur, et le preneur paie le même montant à l'adversaire gagnant.
 
-| Event | Scoring Description |
-| Original declarer gives up; an opponent becomes the new declarer and wins. | The original declarer pays the amount in play to the new declarer. The plato and scoresheet are left as they are. |
-| Declarer abandons and a defender becomes declarer, but the result is puesta. | Two new puestas are generated. One by old declarer and another by new declarer. |
-| Declarer abandons and a defender becomes declarer, but the new declarer loses codillo. | Old declarer generates a puesta. New declarer generates a puesta and pays the amount in play to the winner. |
+Des complications supplémentaires peuvent survenir lorsque le preneur original tente d'abandonner (avant de jouer la quatrième levée), mais qu'un des adversaires insiste pour continuer et devient le nouveau preneur. Il y a alors plusieurs résultats possibles, qui sont traités comme suit.
 
-Twin puestas.
-When the original and new declarers are both unsuccessful, both have to pay the amount in play to the pool. 
-If this is the first *puesta*, in that the scoresheet has no outstanding debts (*puestas reservadas*) and the plato does not contain any previous declarer's losses, then **both** declarers pay the amount in play into the *plato*, which will make the amount in play in the next hand larger than usual.
-If it is not the first *puesta*, but there is already a *puesta* in the plato or a *puesta reservada* on the scoresheet, then two new *puestas reservadas* are generated: each of the declarers has a new debt equal to the amount in play written in their row on the scoresheet. When the time comes, these two equal *puestas reservadas* will be played for separately - the order does not matter.
+| Événement | Description de la notation |
+| Le preneur original abandonne ; un adversaire devient le nouveau preneur et gagne. | Le preneur original paie le montant en jeu au nouveau preneur. Le plato et la feuille de marque restent en l'état. |
+| Le preneur abandonne et un défenseur devient preneur, mais le résultat est puesta. | Deux nouvelles puestas sont générées. Une par l'ancien preneur et une autre par le nouveau preneur. |
+| Le preneur abandonne et un défenseur devient preneur, mais le nouveau preneur perd par codillo. | L'ancien preneur génère une puesta. Le nouveau preneur génère une puesta et paie le montant en jeu au gagnant. |
 
-In general, when a Tresillo game session finishes, there may be tokens remaining in the *plato* and in the *plato para los pajaritos*, and *puestas reservadas* reamining on the paper. Normally the tokens in the dishes would be distributed equally among the players, so that they can settle up in money corresponding to the quantity of *tantos* they have won or lost in the session. This paper with the *puestas reservadas* will be kept to use in next Tresillo session between the same players. At the start of this new session, the dealer will put one *tanto* in the *plato*, but no *pajarito*, and the first hand will be played for the largest *puesta reservada* on the paper. If the same group of players are not expecting to play again in the near future, then each of the players should pay the money equivalent of their debt recorded on the paper into a common fund, which is then distributed equally among the players.
+Puestas jumelles.
+Lorsque le preneur original et le nouveau sont tous deux en échec, tous deux doivent payer le montant en jeu à la cagnotte.
+S'il s'agit de la première *puesta*, c'est-à-dire que la feuille de marque n'a pas de dettes en suspens (*puestas reservadas*) et que le plato ne contient pas les pertes d'un preneur précédent, alors **les deux** preneurs paient le montant en jeu dans le *plato*, ce qui rendra le montant en jeu de la main suivante plus élevé que d'habitude.
+S'il ne s'agit pas de la première *puesta*, mais qu'il y a déjà une *puesta* dans le plato ou une *puesta reservada* sur la feuille de marque, alors deux nouvelles *puestas reservadas* sont générées : chaque preneur a une nouvelle dette égale au montant en jeu inscrite dans sa ligne sur la feuille de marque. Le moment venu, ces deux *puestas reservadas* égales seront jouées séparément — l'ordre n'a pas d'importance.
+
+En général, lorsqu'une session de Tresillo se termine, il peut rester des jetons dans le *plato* et dans le *plato para los pajaritos*, et des *puestas reservadas* sur le papier. Normalement, les jetons dans les assiettes seraient répartis équitablement entre les joueurs, afin qu'ils puissent régler en argent correspondant à la quantité de *tantos* gagnés ou perdus lors de la session. Ce papier avec les *puestas reservadas* sera conservé pour être utilisé lors de la prochaine session de Tresillo entre les mêmes joueurs. Au début de cette nouvelle session, le donneur mettra un *tanto* dans le *plato*, mais pas de *pajarito*, et la première main sera jouée pour la plus grande *puesta reservada* sur le papier. Si le même groupe de joueurs ne s'attend pas à rejouer dans un avenir proche, alors chaque joueur doit payer en argent l'équivalent de sa dette enregistrée sur le papier dans un fonds commun, qui est ensuite réparti équitablement entre les joueurs.
 
 ### Las condiciones
 
-*Conditiones* are additional payments, paid either to the declarer from each of the other players or from the declarer to each of the other players. They are in addition to payments due as part of the *puesta* system, which was explained above. If there are four players, the inactive player also takes part in these additional payments.
+Les *condiciones* sont des paiements supplémentaires, payés soit au preneur par chacun des autres joueurs, soit du preneur à chacun des autres joueurs. Ils s'ajoutent aux paiements dus dans le cadre du système de *puesta*, expliqué ci-dessus. S'il y a quatre joueurs, le joueur inactif participe également à ces paiements supplémentaires.
 
-| Event | Payment | Comment or explanation |
-| Juego simple (entrada) | none | These extra payments for the higher contracts are paid to the declarer for a juego sacada. If the declarer loses (either puesta or codillo) the declarer has to pay the equivalent amount. In an ordinary game there is no extra payment for the contract - just the payments under the puesta system and any other condiciones that apply. |
+| Événement | Paiement | Commentaire ou explication |
+| Juego simple (entrada) | aucun | Ces paiements supplémentaires pour les contrats supérieurs sont payés au preneur pour un juego sacado. Si le preneur perd (puesta ou codillo), il doit payer le montant équivalent. Dans un jeu ordinaire, il n'y a pas de paiement supplémentaire pour le contrat — uniquement les paiements du système de puesta et les autres condiciones applicables. |
 | Vuelta | 1 tanto |
 | Solo | 2 tantos |
 | Penetro | 1 tanto |
-| Estuche | 1 tanto | If the declarer has the highest three trumps (espada, mala, basta) and wins, everyone pays the declarer one extra tanto for estuche. There is no payment for estuche if the result is puesta or codillo. |
-| Primeras | 1 tanto | A declarer who wins the first five tricks and stops there gets one extra tanto from each player for primeras. |
-| Bola | 8 tantos | A declarer who wins all nine tricks gets 8 extra tantos from each player. If you continue after winning five tricks and fail to win all the tricks you have to pay everyone 8 tantos for a failed bola, though you are still paid for winning the contract and any other applicable condiciones. There is no payment for primeras if bola is attempted. |
+| Estuche | 1 tanto | Si le preneur a les trois plus hauts atouts (espada, mala, basta) et gagne, tout le monde paie au preneur un tanto supplémentaire pour l'estuche. Il n'y a pas de paiement pour l'estuche si le résultat est puesta ou codillo. |
+| Primeras | 1 tanto | Un preneur qui gagne les cinq premières levées et s'arrête là reçoit un tanto supplémentaire de chaque joueur pour las primeras. |
+| Bola | 8 tantos | Un preneur qui gagne les neuf levées reçoit 8 tantos supplémentaires de chaque joueur. Si vous continuez après avoir gagné cinq levées et échouez à gagner toutes les levées, vous devez payer 8 tantos à tout le monde pour une bola échouée, bien que vous soyez toujours payé pour le contrat gagné et les autres conditions applicables. Il n'y a pas de paiement pour las primeras si la bola est tentée. |
 
-**Notes:**
+**Notes :**
 
-- Opponents cannot score for *estuche* or *primeras*.
+- Les adversaires ne peuvent pas marquer pour *l'estuche* ou *las primeras*.
 
-- In the event that the declarer gives up, the declarer still has to pay *condiciones* as though the result were *puesta*. This is not affected if another player takes over as declarer - the original declarer has to pay, and *condiciones* do not apply to the new declarer.
+- Dans le cas où le preneur abandonne, il doit quand même payer les *condiciones* comme si le résultat était une *puesta*. Cela n'est pas affecté si un autre joueur prend le rôle de preneur — le preneur original doit payer, et les *condiciones* ne s'appliquent pas au nouveau preneur.
 
-### Example of scoring
+### Exemple de notation
 
-Since the scoring system is rather complex at first sight, it may help to give a specific example. The table below represents a sample game between four players, North, West, South and East. The events are listed in order, with the resulting number of *tantos* in the bowls of the four players, the two dishes and on the paper.
+Puisque le système de notation est assez complexe à première vue, un exemple concret peut aider. Le tableau ci-dessous représente une partie d'exemple entre quatre joueurs, Nord, Ouest, Sud et Est. Les événements sont listés dans l'ordre, avec le nombre résultant de *tantos* dans les bols des quatre joueurs, les deux assiettes et sur le papier.
 
-| Event | North | West | South | East | Plato | Plato para lospajaritos | Paper | Comment or explanation |
-| Start of session | 155 | 155 | 155 | 155 | 0 | 20 | empty | Everyone starts with 160 tantos, of which they place 5 in the plato para los pajaritos. |
-| North is chosen as the first dealer | 154 | 155 | 155 | 155 | 6 | 15 | empty | North transfers a pajarito (5 tantos) to the plato and adds one tanto. |
-| South wins a vuelta with estuche | 151 | 152 | 170 | 152 | 0 | 15 | empty | South takes the pool plus 3 tantos from each player - one as part of the puestas system, one for the vuelta and one for the estuche. |
-| West deals | 151 | 151 | 170 | 152 | 6 | 10 | empty | West transfers a pajarito (5 tantos) to the plato (because it is empty and there is nothing on the paper) and adds one tanto. |
-| North plays a simple game and the result is puesta. | 141 | 151 | 170 | 152 | 16 | 10 | empty | North has to pay the amount in play to the plato. The amount in play is the amount in the plato plus one for each player: 6+4=10. |
-| South deals | 141 | 151 | 169 | 152 | 17 | 10 | empty | South adds one tanto to the plato. |
-| All pass and no one has the espada. South says "Yo penetro", looks at the top 10 cards of the heap and surrenders. | 142 | 152 | 166 | 153 | 17 | 10 | South: 21 | South must pay 1 tanto to each player (the condición for penetro) and a debt of 21 (the amount in play is 17+4) is written against South on the paper. |
-| East deals | 142 | 152 | 166 | 152 | 18 | 10 | South: 21 | East adds one tanto to the plato. |
-| West plays a simple game but the result is codillo; North is the winner. | 164 | 130 | 166 | 152 | 18 | 10 | West: 22South: 21 | The value of the game is now 22 (18+4). West pays this to North (the winner) and also has it recorded as a debt. |
-| North deals | 163 | 130 | 166 | 152 | 19 | 10 | West: 22South: 21 | North adds one tanto to the plato. |
-| East plays a solo with estuche, tries for bola but loses the last trick. | 167 | 134 | 170 | 159 | 0 | 10 | West: 22South: 21 | East wins the plato and 1 tanto from each player as part of the puestas system, plus 2 from each for solo and 1 for estuche, but has to pay them each 8 for the bola. |
-| West deals | 167 | 133 | 170 | 159 | 1 | 10 | West: 22South: 21 | West adds one tanto to the plato. This hand will be played for the largest puesta reservada. |
-| All pass; South has the espada and is compelled to play; South tries to give up at the fourth trick but East insists on continuing; South and East win 4 tricks each (puesta). | 167 | 133 | 170 | 159 | 1 | 10 | West: 22South: 21 23East: 23 | The amount in play is 23 (the largest number on the paper plus the 1 in the plato) so South and East each get a debt of this amount. |
-| South deals | 167 | 133 | 169 | 159 | 2 | 10 | West: 22South: 21 23East: 23 | South adds one tanto to the plato, so the amount in play is now 25 (that is 23 on the paper plus 2 in the plato). |
-| West plays a simple game and wins. | 167 | 158 | 169 | 136 | 0 | 10 | West: 22South: 21 23 | West collects the plato and 23 tantos from East; East's debt is erased. West could equally well have collected from South - South's debt will be played for next. |
-| East deals | 167 | 158 | 169 | 135 | 1 | 10 | West: 22South: 21 23 | East adds one tanto to the plato; the amount in play is now 24. |
-| South plays a vuelta and wins. | 166 | 157 | 173 | 134 | 0 | 10 | West: 22South: 21 | South's largest debt is erased and South collects the plato and an extra tanto from each of the others for vuelta. |
+| Événement | Nord | Ouest | Sud | Est | Plato | Plato para los pajaritos | Papier | Commentaire ou explication |
+| Début de session | 155 | 155 | 155 | 155 | 0 | 20 | vide | Tout le monde commence avec 160 tantos, dont ils placent 5 dans le plato para los pajaritos. |
+| Nord est choisi comme premier donneur | 154 | 155 | 155 | 155 | 6 | 15 | vide | Nord transfère un pajarito (5 tantos) au plato et ajoute un tanto. |
+| Sud gagne une vuelta avec estuche | 151 | 152 | 170 | 152 | 0 | 15 | vide | Sud prend la cagnotte plus 3 tantos de chaque joueur — un dans le cadre du système de puestas, un pour la vuelta et un pour l'estuche. |
+| Ouest donne | 151 | 151 | 170 | 152 | 6 | 10 | vide | Ouest transfère un pajarito (5 tantos) au plato (parce qu'il est vide et qu'il n'y a rien sur le papier) et ajoute un tanto. |
+| Nord joue un jeu simple et le résultat est puesta. | 141 | 151 | 170 | 152 | 16 | 10 | vide | Nord doit payer le montant en jeu au plato. Le montant en jeu est le montant dans le plato plus un pour chaque joueur : 6+4=10. |
+| Sud donne | 141 | 151 | 169 | 152 | 17 | 10 | vide | Sud ajoute un tanto au plato. |
+| Tous passent et personne n'a l'espada. Sud dit « Yo penetro », regarde les 10 cartes du dessus du tas et se rend. | 142 | 152 | 166 | 153 | 17 | 10 | Sud : 21 | Sud doit payer 1 tanto à chaque joueur (la condición pour le penetro) et une dette de 21 (le montant en jeu est 17+4) est inscrite contre Sud sur le papier. |
+| Est donne | 142 | 152 | 166 | 152 | 18 | 10 | Sud : 21 | Est ajoute un tanto au plato. |
+| Ouest joue un jeu simple mais le résultat est codillo ; Nord est le gagnant. | 164 | 130 | 166 | 152 | 18 | 10 | Ouest : 22Sud : 21 | La valeur du jeu est maintenant 22 (18+4). Ouest paie ceci à Nord (le gagnant) et l'inscrit également comme dette. |
+| Nord donne | 163 | 130 | 166 | 152 | 19 | 10 | Ouest : 22Sud : 21 | Nord ajoute un tanto au plato. |
+| Est joue un solo avec estuche, tente la bola mais perd la dernière levée. | 167 | 134 | 170 | 159 | 0 | 10 | Ouest : 22Sud : 21 | Est gagne le plato et 1 tanto de chaque joueur dans le cadre du système de puestas, plus 2 de chacun pour le solo et 1 pour l'estuche, mais doit leur payer 8 chacun pour la bola. |
+| Ouest donne | 167 | 133 | 170 | 159 | 1 | 10 | Ouest : 22Sud : 21 | Ouest ajoute un tanto au plato. Cette main sera jouée pour la plus grande puesta reservada. |
+| Tous passent ; Sud a l'espada et est contraint de jouer ; Sud tente d'abandonner à la quatrième levée mais Est insiste pour continuer ; Sud et Est gagnent 4 levées chacun (puesta). | 167 | 133 | 170 | 159 | 1 | 10 | Ouest : 22Sud : 21 23Est : 23 | Le montant en jeu est 23 (le plus grand nombre sur le papier plus le 1 dans le plato) donc Sud et Est obtiennent chacun une dette de ce montant. |
+| Sud donne | 167 | 133 | 169 | 159 | 2 | 10 | Ouest : 22Sud : 21 23Est : 23 | Sud ajoute un tanto au plato, donc le montant en jeu est maintenant 25 (c'est-à-dire 23 sur le papier plus 2 dans le plato). |
+| Ouest joue un jeu simple et gagne. | 167 | 158 | 169 | 136 | 0 | 10 | Ouest : 22Sud : 21 23 | Ouest collecte le plato et 23 tantos d'Est ; la dette d'Est est effacée. Ouest aurait tout aussi bien pu collecter auprès de Sud — la dette de Sud sera jouée au tour suivant. |
+| Est donne | 167 | 158 | 169 | 135 | 1 | 10 | Ouest : 22Sud : 21 23 | Est ajoute un tanto au plato ; le montant en jeu est maintenant 24. |
+| Sud joue une vuelta et gagne. | 166 | 157 | 173 | 134 | 0 | 10 | Ouest : 22Sud : 21 | La plus grande dette de Sud est effacée et Sud collecte le plato et un tanto supplémentaire de chacun des autres pour la vuelta. |
 
-The game could continue, but if it were to stop at that point, there would be 53 *tantos* to be shared among the players: these represent the two unused *pajaritos* and the two remaining *puestas reservadas*. Giving 13 each and the odd one to the loser (East) the players end with North:179, West:148, South:165, East:148. So if a *tanto* is worth 10 pesetas the final result is that North wins 190 pesetas, West loses 120, South wins 50 and East loses 120.
+Le jeu pourrait continuer, mais s'il devait s'arrêter à ce moment, il y aurait 53 *tantos* à répartir entre les joueurs : ils représentent les deux *pajaritos* inutilisés et les deux *puestas reservadas* restantes. En donnant 13 à chacun et le reste au perdant (Est), les joueurs terminent avec Nord : 179, Ouest : 148, Sud : 165, Est : 148. Donc si un *tanto* vaut 10 pesetas, le résultat final est que Nord gagne 190 pesetas, Ouest perd 120, Sud gagne 50 et Est perd 120.
 
-## Etiquette and conventions
+## Étiquette et conventions
 
-In addition to the actual rules of the game, there are a number of rules of etiquette and other conventions that have evolved over time. These are not indispensable to play, but they are strictly observed in many circles of players. Here is a list of those observed in the family of Joan C de Gispert, who provided most of the information for this page.
+Outre les règles proprement dites du jeu, il existe un certain nombre de règles d'étiquette et d'autres conventions qui ont évolué au fil du temps. Elles ne sont pas indispensables pour jouer, mais elles sont strictement observées dans de nombreux cercles de joueurs. Voici une liste de celles observées dans la famille de Joan C de Gispert, qui a fourni la plupart des informations pour cette page.
 
-- A currency value equivalent to tokens must be agreed before play begins. It is important that all players feel comfortable with the level of the stakes.
+- Une valeur monétaire équivalente aux jetons doit être convenue avant le début du jeu. Il est important que tous les joueurs se sentent à l'aise avec le niveau des mises.
 
-- Before starting, the players agree a time at which the session will end. The ending time can be changed later if all the players agree to a new ending time. 
+- Avant de commencer, les joueurs conviennent d'une heure à laquelle la session se terminera. L'heure de fin peut être modifiée ultérieurement si tous les joueurs acceptent une nouvelle heure.
 
-- The first time that each player deals, the dealer should say to each other player *"Que vaya bien"* ("Have good luck"). Each other player will answer *"Gracias"* ("Thank you").
+- La première fois que chaque joueur distribue, le donneur doit dire à chaque autre joueur *« Que vaya bien »* (« Bonne chance »). Chaque autre joueur répondra *« Gracias »* (« Merci »).
 
-- Fair play must be assumed. For example, it is considered impolite for a player to pass having a very good hand, particularly if that player has previously bid but prefers to see another player fail. It also is considered impolite to intentionally play badly or play to favour a particular player.
+- Le fair-play doit être présumé. Par exemple, il est considéré comme impoli pour un joueur de passer alors qu'il a une très bonne main, en particulier si ce joueur a déjà enchéri mais préfère voir un autre joueur échouer. Il est également considéré comme impoli de jouer intentionnellement mal ou de jouer pour favoriser un joueur particulier.
 
-- The opponents cooperate to make sure the declarer does not win, but as soon as they are sure of *puesta*, their cooperation ends. Once it is clear that the declarer cannot win a *juego sacado*, the weaker opponent should cooperate with the declarer to stop the stronger opponent making the declarer *codillo*.
+- Les adversaires coopèrent pour s'assurer que le preneur ne gagne pas, mais dès qu'ils sont certains de la *puesta*, leur coopération prend fin. Une fois qu'il est clair que le preneur ne peut pas gagner un *juego sacado*, l'adversaire le plus faible devrait coopérer avec le preneur pour empêcher l'adversaire le plus fort de faire un *codillo* au preneur.
 
-- As soon as the outcome of the contract is clear, declarer should face his cards and say *"extiendo"* ("I face"). If all agree, play ceases and payment is made. Of course, if an opponent disagrees, considering that the outcome is not clear, then that opponent can compel the declarer to continue playing.
+- Dès que le résultat du contrat est clair, le preneur doit exposer ses cartes et dire *« extiendo »* (« J'expose »). Si tout le monde est d'accord, le jeu cesse et les paiements sont effectués. Bien sûr, si un adversaire est en désaccord, estimant que le résultat n'est pas clair, cet adversaire peut contraindre le preneur à continuer à jouer.
 
-## Variations
+## Variantes
 
-The above account is based on the version of Tresillo played in in the family of Joan C de Gispert. It is clear from the Spanish literature on this game that there were and probably still are many variations played in different parts of Spain and among different circles of players. Here are some examples of variations. I would be interested to hear from any Tresillo players who play these or other variations of the game.
+Le compte ci-dessus est basé sur la version du Tresillo jouée dans la famille de Joan C de Gispert. Il ressort de la littérature espagnole sur ce jeu qu'il y avait et qu'il y a probablement encore de nombreuses variantes jouées dans différentes régions d'Espagne et dans différents cercles de joueurs. Voici quelques exemples de variantes. Je serais intéressé d'avoir des nouvelles de tout joueur de Tresillo qui joue ces variantes ou d'autres du jeu.
 
 **Palo de favor**
-Many play with a *palo de favor* - a preferred suit, which is selected at the start of the game. In the auction, a bid with the palo de favor as the trump suit outranks a bid at the same level with another suit as trumps. So when a player says "juego más", it is sufficient that they are able to play an ordinary game with the preferred suit as trumps.
-In this variation the possible contracts in ascending order are: *entrada sencilla, entrada a palo de favor, vuelta, solo sencillo, solo a palo de favor*. In *vuelta*, of course you cannot control what suit will be trumps, so you cannot bid a *"vuelta a palo de favor"*. but if the turned trump happens to be in the *palo de favor*, the score is adjusted accordingly.
-If the *palo de favor* is trumps, all the *condiciones* are doubled. Also, when playing the first *puesta* or for a *puesta* in the *plato*, the amount in play becomes the conents of the *plato* plus **two** *tantos* for each player, rather than one. If the declarer wins, the other players will pay two *tantos* in addition to the *condiciones*. When playing for a *puesta reservada*, the amount in play is not affected by the trump suit.
-**Penetro with four active players**
-Some play that no one drops out of a *penetro* - all four players take part. The results and scoring are the same, except that other configurations of tricks are possible. It is even possible to win with three tricks, if the other players are careless enough to win two tricks each.
-**Scoring variations**
-From the literature, it looks as though there were many slightly different scoring systems. It was traditional, and may still be common to work with scores which are 5 times the scores given on this page. In that case you should agree a smaller stake per *tanto* and the different shapes of *fichas* are worth 5, 25 and 100 *tantos*. The dealer puts 5 *tantos* in the *plato*, the *pajaritos* (also known as *enchiladas*) are 25 *tantos*, and so on.
-In this scoring system the *condiciones* are somewhat different. A typical scale of *condiciones* in this scoring system would be:
+Beaucoup jouent avec un *palo de favor* — une couleur préférée, qui est choisie au début du jeu. Lors de la vente, une enchère avec le palo de favor comme couleur d'atout l'emporte sur une enchère au même niveau avec une autre couleur comme atout. Ainsi, lorsqu'un joueur dit « juego más », il suffit qu'il soit capable de jouer un jeu ordinaire avec la couleur préférée comme atout.
+Dans cette variante, les contrats possibles par ordre croissant sont : *entrada sencilla, entrada a palo de favor, vuelta, solo sencillo, solo a palo de favor*. À la *vuelta*, bien sûr, on ne peut pas contrôler quelle couleur sera l'atout, donc on ne peut pas enchérir une *« vuelta a palo de favor »*. Mais si l'atout retourné se trouve être dans le *palo de favor*, le score est ajusté en conséquence.
+Si le *palo de favor* est l'atout, toutes les *condiciones* sont doublées. De plus, lors du jeu de la première *puesta* ou d'une *puesta* dans le *plato*, le montant en jeu devient le contenu du *plato* plus **deux** *tantos* pour chaque joueur, plutôt qu'un. Si le preneur gagne, les autres joueurs paieront deux *tantos* en plus des *condiciones*. Lors du jeu d'une *puesta reservada*, le montant en jeu n'est pas affecté par la couleur d'atout.
+**Penetro avec quatre joueurs actifs**
+Certains jouent que personne ne se retire d'un *penetro* — les quatre joueurs participent. Les résultats et la notation sont les mêmes, sauf que d'autres configurations de levées sont possibles. Il est même possible de gagner avec trois levées, si les autres joueurs sont assez négligents pour en gagner deux chacun.
+**Variantes de notation**
+D'après la littérature, il semble qu'il y ait eu de nombreux systèmes de notation légèrement différents. Il était traditionnel, et peut-être encore courant, de travailler avec des scores qui sont 5 fois les scores donnés sur cette page. Dans ce cas, vous devriez convenir d'une mise plus petite par *tanto* et les différentes formes de *fichas* valent 5, 25 et 100 *tantos*. Le donneur met 5 *tantos* dans le *plato*, les *pajaritos* (aussi appelés *enchiladas*) sont de 25 *tantos*, etc.
+Dans ce système de notation, les *condiciones* sont quelque peu différentes. Une échelle typique de *condiciones* dans ce système serait :
 
-- **Entrada** - 0 *tantos*
+- **Entrada** — 0 *tantos*
 
-- **Vuelta** - 2 *tantos*
+- **Vuelta** — 2 *tantos*
 
-- **Solo** - 20 *tantos*
+- **Solo** — 20 *tantos*
 
-- **Bola** - 100 *tantos*
+- **Bola** — 100 *tantos*
 
-- **Estuches** - 3 *tantos* for the first three top trumps. If you have any more top trumps in sequence with these, there is one more *tanto* for each extra card, up to a maximum of five *tantos* for the top five trumps. If you make *bola*, the maximum of five does not apply: you can then score one *tanto* for each top trump in sequence, up to a possible nine *tantos*. Only trumps in unbroken sequnce count and you must have the top three to score anything at all for *estuche*.
+- **Estuches** — 3 *tantos* pour les trois premiers atouts les plus hauts. Si vous avez d'autres atouts supérieurs en séquence avec ceux-ci, il y a un *tanto* supplémentaire pour chaque carte supplémentaire, jusqu'à un maximum de cinq *tantos* pour les cinq plus hauts atouts. Si vous faites *bola*, le maximum de cinq ne s'applique pas : vous pouvez alors marquer un *tanto* pour chaque atout supérieur en séquence, jusqu'à neuf *tantos* possibles. Seuls les atouts en séquence ininterrompue comptent et vous devez avoir les trois plus hauts pour marquer quoi que ce soit pour l'*estuche*.
 
-- **Contraestuche** - 3 *tantos* for three, plus 1 *tanto* for each additional, up to a maximum of five. *Contraestuche* are top trumps that are held by the opponents. If the declarer wins and the opponents had the top three (or more) trumps between them, the declarer is paid for *contraestuche*.
+- **Contraestuche** — 3 *tantos* pour trois, plus 1 *tanto* pour chaque supplémentaire, jusqu'à un maximum de cinq. Les *Contraestuche* sont des atouts supérieurs détenus par les adversaires. Si le preneur gagne et que les adversaires avaient les trois (ou plus) plus hauts atouts entre eux, le preneur est payé pour le *contraestuche*.
 
-- **Primeras** - 1 *tanto*
+- **Primeras** — 1 *tanto*
 
-Since the smallest kind of token is worth 5 *tantos*, all payments are rounded up to the next higher multiple of five.
-**Payment for codillo**
-In earlier versions of Tresillo (and Hombre), a declarer who lost by *codillo* paid the amount in play only to the opponent who won. Nothing was paid to the *plato* or recorded as a debt in this case. 
-With this rule it remains true that it is worse for the declarer to lose *codillo* than *puesta*, as you would prefer to pay your loss to a common pool, where for the moment you still own a share of it, than to an opponent, wherby you lose it completely. This version also makes it clear that an opponent should cooperate with the declarer to prevent a *codillo*: as the weaker opponent you would prefer the declarer to increase the pool than to pay your rival.
-From the literature it seems that the rule changed in Spain in the early 19th century to the version given in the main account where *codillo* causes the declarer to pay a *puesta* **and** pay the winner.
+Puisque le plus petit type de jeton vaut 5 *tantos*, tous les paiements sont arrondis au multiple de cinq supérieur.
+**Paiement pour codillo**
+Dans les versions antérieures du Tresillo (et du Hombre), un preneur qui perdait par *codillo* ne payait le montant en jeu qu'à l'adversaire qui gagnait. Rien n'était payé au *plato* ni enregistré comme dette dans ce cas.
+Avec cette règle, il reste vrai qu'il est pire pour le preneur de perdre par *codillo* que par *puesta*, car on préfère payer sa perte à une cagnotte commune, dont on possède encore une part, qu'à un adversaire, dont on perd tout. Cette version rend également clair qu'un adversaire devrait coopérer avec le preneur pour empêcher un *codillo* : en tant qu'adversaire le plus faible, on préfère que le preneur augmente la cagnotte plutôt que de payer son rival.
+D'après la littérature, il semble que la règle ait changé en Espagne au début du XIXe siècle pour la version donnée dans le compte principal où le *codillo* oblige le preneur à payer une *puesta* **et** à payer le gagnant.
 
-## Books, proverbs and legends
+## Livres, proverbes et légendes
 
-*This section was contributed by Joan C de Gispert*
+*Cette section a été contributed par Joan C de Gispert*
 
-### Some books and publications with rules of Tresillo
+### Quelques livres et publications avec des règles du Tresillo
 
-- **El Tresillo** - Barcelona 1817 (the anonymous author is "a lover of Tresillo")
+- **El Tresillo** — Barcelone 1817 (l'auteur anonyme est « un amateur de Tresillo »)
 
-- Circasiano Dorilovo: **Reglas del Tresillo** - Madrid, 1890 
+- Circasiano Dorilovo : **Reglas del Tresillo** — Madrid, 1890
 
-- Pedro de Veciana: **El Tresillo** - Barcelona 1886
+- Pedro de Veciana : **El Tresillo** — Barcelone 1886
 
-- Luis Jaramillo Lara: **¿Quiere Usted Jugar al Tresillo?** - Barcelona (no date)
+- Luis Jaramillo Lara : **¿Quiere Usted Jugar al Tresillo?** — Barcelone (sans date)
 
-- Arturo Hermosilla: **Quiere Usted Apprender a Jugar al Tresillo** - Barcelona (no date).
+- Arturo Hermosilla : **Quiere Usted Apprender a Jugar al Tresillo** — Barcelone (sans date).
 
-- Carmiña Verdejo: **Juegos de Cartas** - Salvat, 1995
+- Carmiña Verdejo : **Juegos de Cartas** — Salvat, 1995
 
-- Colección por fascículos **Juegos de Cartas**, Editorial Altaya, Barcelona 1997
+- Colección por fascículos **Juegos de Cartas**, Editorial Altaya, Barcelone 1997
 
-### Proverbs
+### Proverbes
 
-El Tresillo was a game deeply embedded throughout a wide spectrum of old Spanish society. It was played in cities, towns and villages all around Spain, and it inspired some interesting writing. References are found in the works of some of the most important Spanish writers, such as Lope de Vega, who wrote in the 16th century. A range of amusing and interesting proverbs also shows how firmly El Tresillo was established as a part of Spanish life.
+Le Tresillo était un jeu profondément ancré dans un large éventail de l'ancienne société espagnole. Il se jouait dans les villes, les bourgs et les villages de toute l'Espagne, et il a inspiré des écrits intéressants. On trouve des références dans les œuvres de certains des écrivains espagnols les plus importants, comme Lope de Vega, qui écrivait au XVIe siècle. Une série de proverbes amusants et intéressants montre également à quel point le Tresillo était solidement établi comme faisant partie de la vie espagnole.
 
-There are many proverbs referring to El Tresillo. In general, they give specific advice about how to play in particular situations. It is difficult to give satisfactory translations into English, because they are often involve word play and rhyming. In any case, a free translation is included. As well as being amusing, they can be useful for players, especially beginners. Here are some examples:
+Il existe de nombreux proverbes se référant au Tresillo. En général, ils donnent des conseils spécifiques sur la façon de jouer dans des situations particulières. Il est difficile de donner des traductions satisfaisantes en français, car ils impliquent souvent des jeux de mots et des rimes. Dans tous les cas, une traduction libre est incluse. En plus d'être amusants, ils peuvent être utiles pour les joueurs, surtout les débutants. Voici quelques exemples :
 
-- "Más juega el que mucho pasa que el que mucho juega"
+- « Más juega el que mucho pasa que el que mucho juega »
 
-- "Juego con poco, juego de loco"
+- « Juego con poco, juego de loco »
 
-- "El que bien pasa, bien gana"
+- « El que bien pasa, bien gana »
 
-- "Juega y paga como un bobo, quien todo lo fia al robo"
+- « Juega y paga como un bobo, quien todo lo fia al robo »
 
-- "Si ligero entras, harás muchas puestas"
+- « Si ligero entras, harás muchas puestas »
 
-- "Saber pasar es saber jugar"
+- « Saber pasar es saber jugar »
 
-- "Jugar sin juego es jugar con fuego"
+- « Jugar sin juego es jugar con fuego »
 
-All these first seven proverbs convey tha same idea: be prudent. Perhaps the sixth is the best: "To know when to pass is to know how to play", in other words, "a good player passes often".
+Tous ces sept premiers proverbes transmettent la même idée : être prudent. Le sixième est peut-être le meilleur : « Savoir quand passer, c'est savoir jouer », en d'autres termes, « un bon joueur passe souvent ».
 
-- "Fuerza al basto la malilla y a ambos fuerza la espadilla"
+- « Fuerza al basto la malilla y a ambos fuerza la espadilla »
 
-It explains exactly the privileges of withholding an estuche when a lower trump is led.
+Il explique exactement les privilèges de conserver un estuche lorsqu'un atout inférieur est mené.
 
-- "Quien con dos bazas se arriesga, poco sabe o mucho juega"
+- « Quien con dos bazas se arriesga, poco sabe o mucho juega »
 
-Two sure tricks do not justify a bid, because is not very likely that exchanging cards will give you 5 tricks (or 4).
+Deux levées assurées ne justifient pas une enchère, car il n'est pas très probable que l'échange de cartes vous donnera 5 levées (ou 4).
 
-- "Rey muy acompañado tiene cerca el fallo"
+- « Rey muy acompañado tiene cerca el fallo »
 
-If you have the king with many cards of the same suit, someone is almost sure to be void of the suit.
+Si vous avez le roi avec beaucoup de cartes de la même couleur, quelqu'un est presque sûr d'être vide de cette couleur.
 
-- "Mira cómo y quién va al robo y lo verás claro todo"
+- « Mira cómo y quién va al robo y lo verás claro todo »
 
-Look who and how exchanges cards with the heap, and all will be clear"
+Regardez qui et comment échange des cartes avec le tas, et tout sera clair.
 
-- "Solo sin fallo, dejallo"
+- « Solo sin fallo, dejallo »
 
-A solo with out a void - don't play it.
+Un solo sans coupure — ne le jouez pas.
 
-- "Con la espadilla y dos reyes, ir a Vuelta debes"
+- « Con la espadilla y dos reyes, ir a Vuelta debes »
 
-With the espada and two kings, you have to bid vuelta
+Avec l'espada et deux rois, vous devez enchérir vuelta.
 
-- "Más vale mala Entrada que buena Vuelta"
+- « Más vale mala Entrada que buena Vuelta »
 
-A poor entrada is better than a good vuelta
+Une mauvaise entrada vaut mieux qu'une bonne vuelta.
 
-- "Solo con fallo y rey, adelante con el"
+- « Solo con fallo y rey, adelante con el »
 
-Solo with void and king - OK, play it.
+Solo avec coupure et roi — allez-y, jouez-le.
 
-- "Más vale peueño solo que grande Entrada"
+- « Más vale pequeño solo que grande Entrada »
 
-A poor solo is better than a good Entrada
+Un mauvais solo vaut mieux qu'une bonne Entrada.
 
-### Legends
+### Légendes
 
-El Tresillo has created its own historical legends. One of them is found in an old spanish book entitled "Quiere usted aprender a jugar al Tresillo?" ("Do you want to learn to play Tresillo?") by Arturo Hermosilla, published in Barcelona (no date sepecified, but probabily 100 years ago). Legends do not supply scientific information, but often indicate the historical and sociological context of a subject. Here is a summary of this legend.
+Le Tresillo a créé ses propres légendes historiques. L'une d'elles se trouve dans un vieux livre espagnol intitulé « Quiere usted aprender a jugar al Tresillo ? » (« Voulez-vous apprendre à jouer au Tresillo ? ») par Arturo Hermosilla, publié à Barcelone (date non spécifiée, mais probablement il y a environ 100 ans). Les légendes n'apportent pas d'informations scientifiques, mais indiquent souvent le contexte historique et sociologique d'un sujet. Voici un résumé de cette légende.
 
-| Original | Translation / commentary |
-| "Una casita alegre y coquetona circundada de frondosa alameda, alzábase como blanca paloma sobre la extensa pradera de un pueblecito de nuestros Pirineos ...." | This sounds like old Spanish. Note the location: a nice little house in the Pyrenees Mountains. |
-| "Un venerable anciano que vestía el honroso uniforme militar ... su esposa ... y sus dos hijos eran sus moradores ..." | "A retired military gentleman ... his wife ... and two sons living in the house ...." |
-| "... Corría a la sazón el año 1778. ... El anciano militar, recordando lo pasado, sentía entonces renacer su espíritu juvenil y su ardiente imaginación guerrera le hacía ver que la densa neblina era el humo intenso que esparcían los cañones en el campo de batalla ... Crecía su entusiasmo y, aumentando su ilusión, divisaba a lo lejos la vanguardia de su ejército, que en formidable choque luchaba cuerpo a cuerpo con el enemigo ...." | The date is surprising: as late as 1778! ... The old soldier remembers old times. When he looks at the landscape around the house, his intense imagination confuses fog with cannon smoke ... and he sees his soldiers fighting hand to hand the with enemy ... (remembering Don Quijote!)... |
-| " ... Pasaba la mayor parte de las veladas jugando al solitario y haciendo mil combinaciones. Un dia, estando de sobremesa, anuncia a los suyos que había hallado la manera de pasar las veladas lo más amenas y agradables que pudieran imaginarse por medio de los naipes. Pasaron al saloncito él con su esposa e hijos, les invitó a que tomaran las cartas y jugaran según las indicaciones que él les hiciera ...." | ... He spent his evenings playing patience ... and one day announced to his family that he had discovered a way to have the most enjoyable evenings imaginable ... |
-| " ... Cierto día nuestro anciano recibió la visita de un hijo de su antiguo amigo y compañero de armas, a quien invitó a pasar una temporada, pues deseaba enseñarle un juego desconocido para él que con seguridad podría proporcionarle agradable pasatiempo si tenía cordura, o bien serios disgustos si lo tomaba como medio especulativo para hacerse rico. Después que se lo enseñó le dijo: - Ahí tienes ese juego, pero no quiero que en modo alguno se sepa mi nombre ...- Pues bien mi general, si acaso me preguntara alguien quién fue su inventor, diré que un Hombre ...- | ... One day our old man is visited by a friend's son. He teaches the new card game to the boy and urges him to conceal his name. The boy replys saying: "If somebody asks me 'Who invented this game?', I will simply answer: 'A Man' ..." |
+| Original | Traduction / commentaire |
+| « Una casita alegre y coquetona circundada de frondosa alameda, alzábase como blanca paloma sobre la extensa pradera de un pueblecito de nuestros Pirineos .... » | Cela ressemble à de l'ancien espagnol. Notez le lieu : une jolie petite maison dans les Pyrénées. |
+| « Un venerable anciano que vestía el honroso uniforme militar ... su esposa ... y sus dos hijos eran sus moradores ... » | « Un vieux militaire à la retraite ... son épouse ... et ses deux fils vivant dans la maison .... » |
+| « ... Corría a la sazón el año 1778. ... El anciano militar, recordando lo pasado, sentía entonces renacer su espíritu juvenil y su ardiente imaginación guerrera le hacía ver que la densa neblina era el humo intenso que esparcían los cañones en el campo de batalla ... Crecía su entusiasmo y, aumentando su ilusión, divisaba a lo lejos la vanguardia de su ejército, que en formidable choque luchaba cuerpo a cuerpo con el enemigo .... » | La date est surprenante : aussi tard que 1778 ! ... Le vieux soldat se souvient des temps passés. Quand il regarde le paysage autour de la maison, son imagination intense confond le brouillard avec la fumée des canons ... et il voit ses soldats combattre au corps à corps avec l'ennemi ... (rappelant Don Quichotte !)... |
+| « ... Pasaba la mayor parte de las veladas jugando al solitario y haciendo mil combinaciones. Un dia, estando de sobremesa, anuncia a los suyos que había hallado la manera de pasar las veladas lo más amenas y agradables que pudieran imaginarse por medio de les naipes. Pasaron al saloncito él con su esposa e hijos, les invitó a que tomaran las cartas y jugaran según las indicaciones que él les hiciera .... » | ... Il passait la plupart de ses soirées à jouer au solitaire ... et un jour, il annonça à sa famille qu'il avait découvert le moyen de passer les soirées les plus agréables qu'on puisse imaginer ... |
 
-Well, this amusing legend relates Tresillo's origin to a happy family living in a nice house in the Pyrenees Mountains in 1778. It also suggests a military connection, converting hand to hand fighting to a card game. It also reveals the risks of the new game, recommending that it be played prudently, avoiding speculation. Finally, this history attributes the origin of the game's name to its inventor, "A Man" *(El Hombre)* who wants to conceal his name.
+Cette légende amusante relie l'origine du Tresillo à une famille heureuse vivant dans une jolie maison dans les Pyrénées en 1778. Elle suggère également un lien militaire, transformant le combat au corps à corps en jeu de cartes. Elle révèle aussi les risques du nouveau jeu, recommandant de le jouer avec prudence, en évitant la spéculation. Enfin, cette histoire attribue l'origine du nom du jeu à son inventeur, « Un Homme » *(El Hombre)* qui souhaite dissimuler son nom.
 
-In more recent times it has been said that "Tresillo is played in our inner country, on Saturday and Sunday evenings in winter, when wind, snow and darkness encourages families to stay near the chimney around a table, and time passes slowly ...". Another saying goes: "Tresillo is a game of lawyers, doctors and priests ..." (Just three people!) This "rural" image of Tresillo in Spain fits well with the way of life in towns and villages in old times. But it is well known that El Tresillo was also played in cities - for example it was played in two of the most prestigious societies in Barcelona ("Cercle del Liceu" and "Círculo Ecuestre").
+Plus récemment, on a dit que « Le Tresillo se joue dans notre intérieur, les samedi et dimanche soirs en hiver, quand le vent, la neige et l'obscurité encouragent les familles à rester près de la cheminée autour d'une table, et le temps passe lentement... ». Un autre dicton dit : « Le Tresillo est un jeu d'avocats, de médecins et de prêtres... » (Juste trois personnes !) Cette image « rurale » du Tresillo en Espagne correspond bien au mode de vie dans les villes et villages d'autrefois. Mais il est bien connu que le Tresillo se jouait aussi en ville — par exemple, il était joué dans deux des sociétés les plus prestigieuses de Barcelone (« Cercle del Liceu » et « Círculo Ecuestre »).
 
-## Other WWW pages
+## Autres pages web
 
-[Rules of Tresillo in Spanish](https://www.nhfournier.es/como-jugar/tresillo) are available from the web site of the playing-card maker Fournier.
+Les [règles du Tresillo en espagnol](https://www.nhfournier.es/como-jugar/tresillo) sont disponibles sur le site du fabricant de cartes à jouer Fournier.
 
-Here is a link to a page to Carlos de la Riva about [Tridge](https://www.tridge.net/legacy/), which is his English adaptation of the Bolivian game Rocambor. Rocambor is similar to Tresillo in its basic structure, though there are several notable differences.
-
-Home Page > Classified Index > Trick Taking Games > Hombre Group > Tresillo
+Voici un lien vers une page de Carlos de la Riva consacrée à [Tridge](https://www.tridge.net/legacy/), qui est son adaptation anglaise du jeu bolivien Rocambor. Le Rocambor est similaire au Tresillo dans sa structure de base, bien qu'il y ait plusieurs différences notables.

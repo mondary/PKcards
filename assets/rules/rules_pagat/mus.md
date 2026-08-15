@@ -4,323 +4,320 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** Now known throughout Spain, a four player partnership betting game without money.
+**But :** Désormais connu dans toute l'Espagne, un jeu de paris en équipe à quatre joueurs, sans argent.
 
 ---
 
 ## Introduction
 
-Mus is a popular Spanish game, of Basque origin. It is unusual in that although its mechanics - drawing cards and then betting on who has the best hand - are reminscent of gambling games like Poker, Mus is a partnership game which does not need to be (and usually is not) played for money. 
+Le Mus est un jeu espagnol populaire, d'origine basque. Il est inhabituel en ce que, bien que sa mécanique — tirer des cartes puis parier sur qui a la meilleure main — rappelle les jeux d'argent comme le Poker, le Mus est un jeu d'équipe qui n'a pas besoin d'être (et n'est généralement pas) joué pour de l'argent.
 
-Mus is actually quite quick and straightforward to play, with a lot of scope for bluff and jokes. Please don't be put off by the fact that the description below may look rather long and complicated. This is mainly because the betting procedure, though quite simple in practice, is a little tricky to explain accurately in words. 
+Le Mus est en réalité assez rapide et simple à jouer, avec beaucoup de possibilités de bluff et de plaisanteries. Ne soyez pas rebutés par le fait que la description ci-dessous puisse paraître longue et compliquée. Cela tient principalement au fait que la procédure de paris, bien que assez simple en pratique, est un peu délicate à expliquer avec précision.
 
-*This description was written by John McLeod, and revised to incorporate corrections and extra material from Fernando Hernandez Morondo, Stephan Ocker and Joseph Jaureguy.*
+*Cette description a été rédigée par John McLeod, et révisée pour intégrer des corrections et du matériel supplémentaire de Fernando Hernandez Morondo, Stephan Ocker et Joseph Jaureguy.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Mus is a game for 4 players in fixed partnerships; as usual you sit opposite your partner. It is played anticlockwise.
+Le Mus se joue à 4 joueurs en équipes fixes ; comme d'habitude, vous vous asseyez en face de votre partenaire. On joue dans le sens antihoraire.
 
-The standard 40 card Spanish pack is used. The suits are swords, batons, cups and coins, and each suit consisting of Rey (R), Caballo (C), Sota (S), 7, 6, 5, 4, 3, 2, Ace (A). The Rey (or King) has a crown and is numbered 12 on the card, the Caballo (Horse) is numbered 11, and the Sota is numbered 10.
+On utilise le jeu espagnol standard de 40 cartes. Les enseignes sont épées, bâtons, coupes et pièces, et chaque enseigne se compose du Rey (R), Caballo (C), Sota (S), 7, 6, 5, 4, 3, 2, As (A). Le Rey (ou Roi) a une couronne et est numéroté 12 sur la carte, le Caballo (Cavalier) est numéroté 11, et la Sota est numérotée 10.
 
-In the game of Mus the suits have no significance. Also the 3's are equivalent to kings and the 2's are equivalent to aces. So for the purposes of Mus the pack effectively consists of eight kings (Rey), four each of Caballo, Sota, 7, 6, 5 and 4, and eight aces. The ranking order of the cards is:
+Au Mus, les enseignes n'ont aucune importance. De plus, les 3 sont équivalents aux rois et les 2 sont équivalents aux as. Ainsi, pour le Mus, le jeu se compose effectivement de huit rois (Rey), quatre de chaque Caballo, Sota, 7, 6, 5 et 4, et huit as. L'ordre de valeur des cartes est :
 
-| R or 3(highest) | C | S | 7 | 6 | 5 | 4 | A or 2(lowest) |
+| R ou 3 (le plus haut) | C | S | 7 | 6 | 5 | 4 | A ou 2 (le plus bas) |
 | | | | | | | | |
 | 10 points | 10 points | 10 points | 7 points | 6 points | 5 points | 4 points | 1 point |
 
-The cards also have point values, shown above, which are used only in the fourth and final stage of each deal, the juego.
+Les cartes ont aussi des valeurs en points, indiquées ci-dessus, qui ne sont utilisées que lors de la quatrième et dernière étape de chaque donne, le juego.
 
-## Object of the Game
+## But du jeu
 
-Each game is won by the first team to reach 40 points (this will usually take several hands). Normally the best of three games is played, so the overall winners are the first team to win two games. The points are counted using small stones (*piedras*). Points are scored for having the best hand of cards in each of four categories: *Grande* (high), *Chica* (low), *Pares* (pairs) and *Juego* (game). Players can try to increase the points scored for any category by betting. The betting on each category is taken in strict order, and only after all four betting rounds are complete is there a showdown where the hands of the players are compared and the points calculated.
+Chaque partie est remportée par la première équipe à atteindre 40 points (cela nécessitera généralement plusieurs donnes). Normalement, on joue au meilleur des trois parties, de sorte que les vainqueurs globaux sont la première équipe à gagner deux parties. Les points sont comptés avec de petites pierres (*piedras*). Des points sont marqués pour avoir la meilleure main dans chacune des quatre catégories : *Grande* (haut), *Chica* (bas), *Pares* (paires) et *Juego* (jeu). Les joueurs peuvent essayer d'augmenter les points marqués pour chaque catégorie en pariant. Les paris pour chaque catégorie se font dans un ordre strict, et ce n'est qu'une fois les quatre tours de paris terminés qu'il y a une confrontation où les mains des joueurs sont comparées et les points calculés.
 
-In this account I shall use the word **round** to mean a round of betting on one of the four categories. A **hand** is the period of play from the deal, through the four rounds of betting and the showdown to the final scoring. A **game** consists of however many hands it takes until one team reaches 40 points, and the **match** consists of two or three games, the side which wins two games winning the match.
+Dans ce compte-rendu, j'utiliserai le mot **tour** pour désigner un tour de paris sur l'une des quatre catégories. Une **donne** est la période de jeu depuis la distribution, à travers les quatre tours de paris et la confrontation jusqu'au score final. Une **partie** se compose d'autant de donnes qu'il faut jusqu'à ce qu'une équipe atteigne 40 points, et le **match** se compose de deux ou trois parties, le côté qui gagne deux parties remportant le match.
 
-## Deal and Mus
+## Distribution et Mus
 
-The dealer shuffles, the player to dealer's left cuts, and the dealer deals the cards (anticlockwise) one at a time until each player has four. The player to dealer's right, who speaks first in each round of betting, is known as the **mano**.
+Le donneur mélange, le joueur à sa gauche coupe, et le donneur distribue les cartes (dans le sens antihoraire) une par une jusqu'à ce que chaque joueur en ait quatre. Le joueur à la droite du donneur, qui parle en premier à chaque tour de paris, est appelé le **mano**.
 
-**Mus** is a proposal that all four players should have a chance to improve their hands by discarding one or more cards. This can only happen if all four players agree. The players speak in turn starting with the *mano*. If all four agree to change cards by saying *"Mus"* the discard takes place as described below, but if any player disagrees by saying *"No hay mus"* there is no opportunity to discard and the game proceeds immediately to the first round of betting.
+Le **Mus** est une proposition pour que les quatre joueurs aient la chance d'améliorer leur main en se défaussant d'une ou plusieurs cartes. Cela ne peut se produire que si les quatre joueurs sont d'accord. Les joueurs parlent à tour de rôle, en commençant par le *mano*. Si les quatre acceptent de changer de cartes en disant « *Mus* », la défausse a lieu comme décrit ci-dessous, mais si un joueur refuse en disant « *No hay mus* », il n'y a pas d'occasion de se défausser et le jeu passe immédiatement au premier tour de paris.
 
-If everyone said *"Mus"*, then each player in turn, starting with the *mano*, discards from one to four cards face down and is dealt an equal number of new cards. The players look at their new hands and there is another opportunity to propose *"Mus"* as before.
+Si tout le monde a dit « *Mus* », alors chaque joueur à son tour, en commençant par le *mano*, se défausse de une à quatre cartes face contre le bas et reçoit le même nombre de nouvelles cartes. Les joueurs examinent leurs nouvelles mains et il y a une nouvelle occasion de proposer « *Mus* » comme précédemment.
 
-If the players keep on agreeing to *Mus*, eventually the dealer will run out of cards. If this happens while more than one player requires cards, all the discards are shuffled to form a new stock to deal from. If the cards run out while only one player is short, then the cards excluding that player's discard are shuffled to make a new stock.
+Si les joueurs continuent d'accepter le *Mus*, le donneur finira par manquer de cartes. Si cela se produit alors que plus d'un joueur a besoin de cartes, toutes les défausses sont mélangées pour former un nouveau tas à distribuer. Si les cartes s'épuisent alors qu'un seul joueur en manque, les cartes à l'exclusion de la défausse de ce joueur sont mélangées pour former un nouveau tas.
 
-## The four ways of comparing hands
+## Les quatre façons de comparer les mains
 
-The players compete to establish who has the best cards in each of four different categories, *Grande*, *Chica*, *Pares* and *Juego*, which will now be explained. 
+Les joueurs s'affrontent pour établir qui a les meilleures cartes dans chacune des quatre catégories différentes, *Grande*, *Chica*, *Pares* et *Juego*, qui vont maintenant être expliquées.
 
-**Note:** In all cases, if two hands are otherwise equal the winner is the *mano*, or the earlier player after the *mano* in anticlockwise order. In the diagram, in case of equality, A beats B who beats C who beats D.
+**Note :** Dans tous les cas, si deux mains sont autrement égales, le gagnant est le *mano*, ou le joueur le plus tôt après le *mano* dans l'ordre antihoraire. Dans le schéma, en cas d'égalité, A bat B qui bat C qui bat D.
 
-### Grande (High)
+### Grande (Haut)
 
-This is won by the hand with the highest cards. In comparing two hands the cards in each are arranged in descending order. The hand with the higher first card wins, or if these are equal the hand with the higher second card, or if these are equal too, the higher third card, or if the first three cards are tied the higher fourth card.
+Cela est remporté par la main ayant les cartes les plus hautes. Pour comparer deux mains, les cartes de chaque main sont disposées dans l'ordre décroissant. La main dont la première carte est la plus haute gagne, ou si elles sont égales, la main dont la deuxième carte est la plus haute, ou si elles sont aussi égales, la troisième carte la plus haute, ou si les trois premières cartes sont à égalité, la quatrième carte la plus haute.
 
-For example, R-3-4-4 beats R-C-C-C for the *Grande*, because the 3, being equivalent to a king, beats the first Caballo. 
+Par exemple, R-3-4-4 bat R-C-C-C pour la *Grande*, car le 3, étant équivalent à un roi, bat le premier Caballo.
 
-In the absence of betting on the *Grande*, the side with the best *Grande* wins one stone.
+En l'absence de paris sur la *Grande*, le côté avec la meilleure *Grande* gagne une pierre.
 
-### Chica (Low)
+### Chica (Bas)
 
-This is won by the lowest hand. The cards are arranged in ascending order and the hand with the lower first card wins, or if these are equal the lower second card, and so on.
+Cela est remporté par la main la plus basse. Les cartes sont disposées dans l'ordre croissant et la main dont la première carte est la plus basse gagne, ou si elles sont égales, la deuxième carte la plus basse, et ainsi de suite.
 
-For example, R-3-4-4 beats R-C-C-C for the *Chica* as well as the *Grande*, because the 4 is smaller than the Caballo.
+Par exemple, R-3-4-4 bat R-C-C-C pour la *Chica* ainsi que pour la *Grande*, car le 4 est plus petit que le Caballo.
 
-In the absence of betting on the *Chica*, the side with the best *Chica* wins one stone.
+En l'absence de paris sur la *Chica*, le côté avec la meilleure *Chica* gagne une pierre.
 
-### Pares (Pairs)
+### Pares (Paires)
 
-These are sets of two or more cards of equal rank. There are three types. In ascending order they are:
+Ce sont des ensembles de deux cartes ou plus de même rang. Il y a trois types. Par ordre croissant :
 
 **Par Simple**
-Two cards of equal rank and two of different ranks - such as R-S-S-5 or 7-6-2-A (because twos and aces are equal). The hand with the higher pair wins, and the other two cards are irrelevant even if the pairs are equal. Therefore between 7-7-4-3 and R-C-7-7, the winner is the *mano* or the earliest player after the *mano* in anticlockwise order.
+Deux cartes de même rang et deux de rangs différents — comme R-S-S-5 ou 7-6-2-A (car les deux et les as sont égaux). La main avec la paire la plus haute gagne, et les deux autres cartes sont sans importance même si les paires sont égales. Par conséquent, entre 7-7-4-3 et R-C-7-7, le gagnant est le *mano* ou le joueur le plus tôt après le *mano* dans l'ordre antihoraire.
 
 **Medias**
-Three cards of equal rank and one card of a different rank, such as R-R-3-6. The hand with the higher set of three cards wins, and the rank of the fourth card is irrelevant.
+Trois cartes de même rang et une carte de rang différent, comme R-R-3-6. La main dont le brelan est le plus haut gagne, et le rang de la quatrième carte est sans importance.
 
 **Duples**
-Two pairs of cards of equal rank, such as C-C-5-5. There is no special significance if all four cards are of the same rank - this just counts as two equal pairs. If more than one player has *duples*, the higher pair is compared first, then the lower pair. So C-C-5-5 beats S-S-S-S because the Caballo is higher than the Sota, and C-C-5-5 beats C-C-4-4 becaause the 5 beats the 4.
+Deux paires de cartes de même rang, comme C-C-5-5. Il n'y a pas de signification particulière si les quatre cartes sont du même rang — cela compte simplement comme deux paires égales. Si plus d'un joueur a des *duples*, on compare d'abord la paire la plus haute, puis la paire la plus basse. Ainsi C-C-5-5 bat S-S-S-S car le Caballo est plus haut que la Sota, et C-C-5-5 bat C-C-4-4 car le 5 bat le 4.
 
-Any *duples* beats any *medias*, and any *medias* beats any *par simple*, irrespective of the ranks of the cards.
+Tous les *duples* battent toutes les *medias*, et toutes les *medias* battent tous les *par simple*, indépendamment des rangs des cartes.
 
-If there is no betting on the *pares*, whoever has the best hand scores for her own and her partner's hand as follows:
+S'il n'y a pas de paris sur les *pares*, celui qui a la meilleure main marque pour sa propre main et celle de son partenaire comme suit :
 
-| Par Simple | 1 stone |
-| Medias | 2 stones |
-| Duples | 3 stones |
+| Par Simple | 1 pierre |
+| Medias | 2 pierres |
+| Duples | 3 pierres |
 
-and the other side score nothing for any *pares* they may hold.
+et l'autre côté ne marque rien pour les *pares* qu'il pourrait détenir.
 
-### Juego (Game)
+### Juego (Jeu)
 
-For the purposes of the *Juego*, the cards have point values as follows:
+Pour les besoins du *Juego*, les cartes ont les valeurs en points suivantes :
 
-| R or 3, C, S: | 10 points |
-| 7: | 7 points |
-| 6: | 6 points |
-| 5: | 5 points |
-| 4: | 4 points |
-| A or 2: | 1 point |
+| R ou 3, C, S : | 10 points |
+| 7 : | 7 points |
+| 6 : | 6 points |
+| 5 : | 5 points |
+| 4 : | 4 points |
+| A ou 2 : | 1 point |
 
-In other words pictures are worth 10 (including threes, which are really kings), and other cards are face value (bearing in mind that twos are really aces and so are worth 1).
+En d'autres termes, les figures valent 10 (y compris les trois, qui sont en réalité des rois), et les autres cartes valent leur valeur nominale (en gardant à l'esprit que les deux sont en réalité des as et valent donc 1).
 
-For the *Juego*, you simply add up the point values of the cards in your hand. To have a *Juego* you must have at least 31 points.
+Pour le *Juego*, il suffit d'additionner les valeurs en points des cartes de votre main. Pour avoir un *Juego*, vous devez avoir au moins 31 points.
 
-**The best Juego is a hand of exactly 31 points.** The next best is 32. Then come in descending order 40, 37, 36, 35, 34 and 33, which is the lowest *Juego*. Totals of 39 and 38 are not possible, and if your cards total 30 or less you don't have a *Juego*. Note that a 31 point *Juego* held by the *Mano* is unbeatable, unless you play the variation Juego Real.
+**Le meilleur Juego est une main d'exactement 31 points.** Le suivant est 32. Puis viennent par ordre décroissant 40, 37, 36, 35, 34 et 33, qui est le *Juego* le plus bas. Les totaux de 39 et 38 ne sont pas possibles, et si vos cartes totalisent 30 ou moins, vous n'avez pas de *Juego*. Notez qu'un *Juego* de 31 points détenu par le *Mano* est imbattable, sauf si vous jouez la variante Juego Real.
 
-If there is no betting on the *Juego*, then the side with the best *Juego* score for both their hands: 3 stones for a *Juego* of 31 and 2 stones for any other *Juego*. The other side score nothing.
+S'il n'y a pas de paris sur le *Juego*, le côté avec le meilleur *Juego* marque pour leurs deux mains : 3 pierres pour un *Juego* de 31 et 2 pierres pour tout autre *Juego*. L'autre côté ne marque rien.
 
-If no one has a *Juego*, then you compete instead for the best **Punto**, which is a hand totalling 30 or fewer points. The highest *Punto* is a hand with 30 points, then 29, 28 and so on, down to 4, which is the worst. If no one bets, the player with the best *Punto* gets 1 stone.
+Si personne n'a de *Juego*, on joue plutôt pour le meilleur **Punto**, qui est une main totalisant 30 points ou moins. Le *Punto* le plus haut est une main avec 30 points, puis 29, 28 et ainsi de suite, jusqu'à 4, qui est le pire. Si personne ne parie, le joueur avec le meilleur *Punto* obtient 1 pierre.
 
-## The Betting
+## Les paris
 
-There is a round of betting for each category of hand: *Grande*, *Chica*, *Pares*, *Juego*, and they must be taken in strict order. Each round is begun by the *mano* (the player to dealer's right). The *mano* may announce each round so that the players know what they are currently betting on, but this is not really necessary if the players are awake because the four rounds always occur in sequence.
+Il y a un tour de paris pour chaque catégorie de main : *Grande*, *Chica*, *Pares*, *Juego*, et ils doivent se faire dans un ordre strict. Chaque tour est commencé par le *mano* (le joueur à la droite du donneur). Le *mano* peut annoncer chaque tour pour que les joueurs sachent sur quoi ils parient actuellement, mais ce n'est pas vraiment nécessaire si les joueurs sont attentifs car les quatre tours se déroulent toujours en séquence.
 
-### Betting on the Grande and the Chica
+### Paris sur la Grande et la Chica
 
-Each round of betting is begun by the *Mano* , who may either **pass** (*paso*) or **bet** (*envido*). If the *mano* passes, the next player in anticlockwise order may pass or bet, and so on round the table. If all four players pass, there is no betting in that category, and the *mano* begins the round of betting for the next category.
+Chaque tour de paris est commencé par le *Mano*, qui peut soit **passer** (*paso*) soit **parier** (*envido*). Si le *mano* passe, le joueur suivant dans l'ordre antihoraire peut passer ou parier, et ainsi de suite autour de la table. Si les quatre joueurs passent, il n'y a pas de paris dans cette catégorie, et le *mano* commence le tour de paris pour la catégorie suivante.
 
-A bet is a proposal to stake some number of stones, at least 2, on the outcome of the category. If no number is mentioned, 2 is assumed, so if the *mano* starts the first round of betting by just saying "I bet", it is a proposal to stake 2 stones on the *Grande*. It is also possible to bet a higher number by saying for example "I bet 5", or "I bet 20".
+Un pari est une proposition de miser un certain nombre de pierres, au moins 2, sur l'issue de la catégorie. Si aucun nombre n'est mentionné, 2 est supposé, donc si le *mano* commence le premier tour de paris en disant simplement « je parie », c'est une proposition de miser 2 pierres sur la *Grande*. Il est aussi possible de parier un nombre plus élevé en disant par exemple « je parie 5 » ou « je parie 20 ».
 
-If someone bets, the opposing team have three options. They must decide whether to:
+Si quelqu'un parie, l'équipe adverse a trois options. Elle doit décider de :
 
-**fold** (*no quiero*) - conceding that the betting side wins that category, irrespective of who has the best cards, but losing only one stone;
+**se coucher** (*no quiero*) — concédant que le côté qui parie gagne cette catégorie, indépendamment de qui a les meilleures cartes, mais ne perdant qu'une seule pierre ;
 
-**see** (*quiero*) - agreeing that the side with the best cards will win the amount bet; or 
+**voir** (*quiero*) — acceptant que le côté avec les meilleures cartes gagnera le montant parié ; ou
 
-**raise** (*reenvido*) - proposing to raise the stake further.
+**relancer** (*reenvido*) — proposant d'augmenter encore la mise.
 
-Either partner may speak; if they disagree, in general the more aggressive action prevails (raise rather than see, see rather than fold). However, it is possible for a player to overrule partner by using the plural: "we fold" or "we see". If the opponents fold in response to the first bet of a round, the side that bet immediately win one stone for "no". If the opponents see the bet, the scoring is deferred to the showdown at the end of the hand. Raising is a proposal to increase the stake further, by at least 2. If no number is stated, 2 is assumed, but it is possible to raise by any higher amount. It is helpful to state the amount of the raise and the new total - e.g. "I bet 3", "I raise 5, making 8". After a raise, the other side now has to decide whether to fold, see or raise further, and so on. 
+Chaque partenaire peut parler ; s'ils ne sont pas d'accord, en général l'action la plus agressive prévaut (relancer plutôt que voir, voir plutôt que se coucher). Cependant, il est possible pour un joueur de passer outre son partenaire en utilisant le pluriel : « on se couche » ou « on voit ». Si les adversaires se couchent en réponse au premier pari d'un tour, le côté qui a parié gagne immédiatement une pierre pour « non ». Si les adversaires voient le pari, le score est différé jusqu'à la confrontation à la fin de la donne. Relancer est une proposition d'augmenter encore la mise, d'au moins 2. Si aucun nombre n'est indiqué, 2 est supposé, mais il est possible de relancer de n'importe quel montant supérieur. Il est utile de préciser le montant de la relance et le nouveau total — par exemple « je parie 3 », « je relance de 5, ça fait 8 ». Après une relance, l'autre côté doit maintenant décider de se coucher, voir ou relancer à nouveau, et ainsi de suite.
 
-The round of betting continues until one side or the other either folds or sees the last bet or raise. If one side folds, the other side immediately takes the number of stones previously staked (**example:** A says "I bet"; B says "I raise, making 4"; A says "I raise 16, making 20"; B says "We fold". A and C immediately take 4 stones.) If the last bet or raise is seen, then in the showdown, the side with the best cards in that category will win the agreed stake.
+Le tour de paris continue jusqu'à ce qu'un côté ou l'autre se couche ou voie le dernier pari ou relance. Si un côté se couche, l'autre côté prend immédiatement le nombre de pierres précédemment misées (**exemple :** A dit « je parie » ; B dit « je relance, ça fait 4 » ; A dit « je relance de 16, ça fait 20 » ; B dit « On se couche ». A et C prennent immédiatement 4 pierres.) Si le dernier pari ou relance est vu, alors lors de la confrontation, le côté avec les meilleures cartes dans cette catégorie gagnera la mise convenue.
 
-### Betting on the Pares and the Juego
+### Paris sur les Pares et le Juego
 
-The betting procedure described above applies to the first two rounds, the *Grande* and the *Chica*. The procedure for the *Pares* and the *Juego* is slightly different.
+La procédure de paris décrite ci-dessus s'applique aux deux premiers tours, la *Grande* et la *Chica*. La procédure pour les *Pares* et le *Juego* est légèrement différente.
 
-**Pares** Before any betting on the *Pares* can begin, each of the four players must announce in turn (truthfully) whether they actually have *Pares* by saying "yes" or "no". 
+**Pares** Avant tout pari sur les *Pares*, chacun des quatre joueurs doit annoncer à tour de rôle (vérifiablement) s'il a effectivement des *Pares* en disant « oui » ou « non ».
 
-If at least one player from each partnership says "yes", then there follows a round of betting on the *Pares*, using the same procedure as for the *Grande* and the *Chica*.
+Si au moins un joueur de chaque équipe dit « oui », il s'ensuit un tour de paris sur les *Pares*, en utilisant la même procédure que pour la *Grande* et la *Chica*.
 
-If both players of one partnership say "no", but one or both of the other partnership say "yes", then the side with *Pares* will score for them at the end, but there is no betting. 
+Si les deux joueurs d'une équipe disent « non », mais qu'un ou les deux joueurs de l'autre équipe disent « oui », le côté avec des *Pares* marquera pour eux à la fin, mais il n'y a pas de paris.
 
-If all four players say "no", then there will be no score for *Pares* at all on that hand, and of course no betting. 
+Si les quatre joueurs disent « non », il n'y aura aucun score pour les *Pares* sur cette donne, et bien sûr aucun pari.
 
-**Juego** Before any betting on the *Juego* can begin, each of the four players in turn must say whether they have a *Juego* - that is whether their cards total at least 31 points.
+**Juego** Avant tout pari sur le *Juego*, chacun des quatre joueurs à tour de rôle doit dire s'il a un *Juego* — c'est-à-dire si ses cartes totalisent au moins 31 points.
 
-If at least one player from each partnership says "yes", then there follows a round of betting on the *Juego*, using the same procedure as for the *Grande* and the *Chica*.
+Si au moins un joueur de chaque équipe dit « oui », il s'ensuit un tour de paris sur le *Juego*, en utilisant la même procédure que pour la *Grande* et la *Chica*.
 
-If both players of one partnership say "no", but one or both of the other partnership say "yes", then the side with *Juego* will score for them at the end, but there is no betting.
+Si les deux joueurs d'une équipe disent « non », mais qu'un ou les deux joueurs de l'autre équipe disent « oui », le côté avec un *Juego* marquera pour eux à la fin, mais il n'y a pas de paris.
 
-If all four players say "no", then there will be no score for *Juego*, but instead, there is a competiton for the *Punto* (also known as *Juego No*). So in this case there is a round of betting on who has the best *Punto*, using the same procedure as for *Grande* and *Chica*.
+Si les quatre joueurs disent « non », il n'y aura pas de score pour le *Juego*, mais à la place, il y a une compétition pour le *Punto* (aussi appelé *Juego No*). Dans ce cas, il y a un tour de paris pour le meilleur *Punto*, en utilisant la même procédure que pour la *Grande* et la *Chica*.
 
 ### Órdago
 
-*Órdago* is a special bet - a proposal for an immediate showdown, staking the outcome of the whole game on the current category. During any of the four rounds, a player instead of betting or raising in the normal way may say *órdago*. The opponents must then either fold - conceding the loss of that category, or see it, in which case there the cards are shown and the game is decided. The word comes from the Basque *hor dago* (meaning 'here it is').
+L'*Órdago* est un pari spécial — une proposition de confrontation immédiate, engageant l'issue de toute la partie sur la catégorie en cours. Pendant l'un des quatre tours, un joueur, au lieu de parier ou de relancer de manière normale, peut dire *órdago*. Les adversaires doivent alors soit se coucher — concédant la perte de cette catégorie — soit voir, auquel cas les cartes sont révélées et la partie est décidée. Le mot vient du basque *hor dago* (signifiant « le voici »).
 
-Here is an example. In the first round of betting A, B and C pass, D says "I bet 5" and A says "I'll see it". So the Grande will be worth 5 stones. Second round of betting (*Chica*): A says "I bet"; B says "I raise 4, making 6"; C says "*órdago*". B and D must now either fold or see. If they fold, A and C take 6 stones. If they see it case whichever side has the best *Chica* wins the game immediately (and the 5 stones for the Grande become irrelevant, even if they would have been enough to decide the game).
+Voici un exemple. Au premier tour de paris, A, B et C passent, D dit « je parie 5 » et A dit « je vois ». Donc la Grande vaudra 5 pierres. Deuxième tour de paris (*Chica*) : A dit « je parie » ; B dit « je relance de 4, ça fait 6 » ; C dit « *órdago* ». B et D doivent maintenant soit se coucher soit voir. S'ils se couchent, A et C prennent 6 pierres. S'ils voient, le côté qui a la meilleure *Chica* gagne la partie immédiatement (et les 5 pierres pour la Grande deviennent sans importance, même si elles auraient suffi à décider de la partie).
 
-It is of course, possible to say *órdago* instead of the first bet of a round. If you do this and the opponents fold, you get just one stone, for "no".
+Il est bien sûr possible de dire *órdago* à la place du premier pari d'un tour. Si vous faites cela et que les adversaires se couchent, vous n'obtenez qu'une seule pierre, pour « non ».
 
-## The Showdown and Scoring
+## Confrontation et score
 
-After the end of the last round of betting (on the *Juego* or the *Punto*), all four players show their cards, and the hand is scored. Again this is done in the order *Grande*, *Chica*, *Pares*, *Juego*. The order of scoring is important because it is possible for the game to be won by one side reaching 40 points part way through the scoring process.
+Après la fin du dernier tour de paris (sur le *Juego* ou le *Punto*), les quatre joueurs révèlent leurs cartes, et la donne est comptée. Cela se fait à nouveau dans l'ordre *Grande*, *Chica*, *Pares*, *Juego*. L'ordre du décompte est important car il est possible que la partie soit gagnée par un côté atteignant 40 points en cours de processus de score.
 
-### Scoring the Grande and the Chica
+### Comptage de la Grande et de la Chica
 
-If either side folded during the corresponding betting round there is no further score - the winners have already had their stones. If for example A and C bet on the *Chica* and B and D folded, then even if B or D actually turns out to have the best *Chica *there is no score for this, as they have given up their right to win the *Chica *by folding (A and C have bluffed successfully).
+Si l'un des côtés s'est couché pendant le tour de paris correspondant, il n'y a pas de score supplémentaire — les gagnants ont déjà eu leurs pierres. Si par exemple A et C parient sur la *Chica* et que B et D se couchent, même si B ou D s'avère avoir la meilleure *Chica*, il n'y a pas de score pour cela, car ils ont abandonné leur droit de gagner la *Chica* en se couchant (A et C ont bluffé avec succès).
 
-If the betting round ended with one side seeing the other, or if everyone passed, then the hands are compared to see which individual player has the best combination of that type, and that player's team wins the agreed amount of stones (or one stone if everyone passed).
+Si le tour de paris s'est terminé par un côté voyant l'autre, ou si tout le monde a passé, les mains sont comparées pour voir quel joueur individuel a la meilleure combinaison de ce type, et l'équipe de ce joueur gagne le montant convenu de pierres (ou une pierre si tout le monde a passé).
 
-**Example** (for the *Grande*): **A** (*mano*) has 7-7-2-A; **B** has 3-3-S-2; **C** has R-R-S-A; **D** has C-C-C-6. Then B's hand is best (B and C have equal cards but B is earlier in the order of play), so B and D win the stake for the *Grande*.
+**Exemple** (pour la *Grande*) : **A** (*mano*) a 7-7-2-A ; **B** a 3-3-S-2 ; **C** a R-R-S-A ; **D** a C-C-C-6. La main de B est la meilleure (B et C ont des cartes égales mais B est plus tôt dans l'ordre de jeu), donc B et D gagnent la mise pour la *Grande*.
 
-### Scoring the Pares
+### Comptage des Pares
 
-If one side folded in the betting round, then the side which made the final bet or raise automatically wins, even if their actual Pares are not as good as the side that folded.
-The winning side will already have won one or more stones for this in the betting round, but now in addition they score the appropriate amount of stones for the *Pares* in their hands, that is: 1 for *par simple*; 2 for *medias*; 3 for *duples*. They must have at least one example of *Pares* between them or they were not allowed to have bet. If both partners have *Pares* then both score.
+Si un côté s'est couché pendant le tour de paris, le côté qui a fait le dernier pari ou relance gagne automatiquement, même si ses Pares réelles ne sont pas aussi bonnes que le côté qui s'est couché.
+Le côté gagnant aura déjà gagné une ou plusieurs pierres pour cela dans le tour de paris, mais maintenant en plus ils marquent le nombre approprié de pierres pour les *Pares* dans leurs mains, c'est-à-dire : 1 pour un *par simple* ; 2 pour des *medias* ; 3 pour des *duples*. Ils doivent avoir au moins un exemple de *Pares* entre eux, sinon ils n'auraient pas été autorisés à parier. Si les deux partenaires ont des *Pares*, les deux marquent.
 
-If the betting round ended with one side seeing the other, then the hands are compared to see which individual player has the best *Pares*, and that player's team wins the agreed stake for the *Pares*, **plus** the value of the *Pares* in both their hands.
+Si le tour de paris s'est terminé par un côté voyant l'autre, les mains sont comparées pour voir quel joueur individuel a les meilleurs *Pares*, et l'équipe de ce joueur gagne la mise convenue pour les *Pares*, **plus** la valeur des *Pares* dans leurs deux mains.
 
-If there was no betting, the hands are compared as above, and the winning player's team just score for the *Pares* in both their hands. Of course if no one has *Pares* at all then no one scores.
+S'il n'y a pas eu de paris, les mains sont comparées comme ci-dessus, et l'équipe du joueur gagnant marque uniquement pour les *Pares* dans leurs deux mains. Bien sûr, si personne n'a de *Pares* du tout, personne ne marque.
 
-Using the same **example** as before: **A** (*mano*) has 7-7-2-A; **B** has 3-3-S-2; **C** has R-R-S-A; **D** has C-C-C-6. A's hand is best (*duples*), so A and C score for A's *duples* and C's *par simple*. Assuming that A and C have bet 4 and B and D have seen it then A and C win a total of 8 stones (3 + 1 + 4). Alternatively if A and C bet 4, B and D raised by 6 making 10, and A and C then folded, B and D would now win 3 stones (for B's *par simple* and D's *medias*) in addition to the 4 they won during the betting round when A and C folded.
+En utilisant le même **exemple** que précédemment : **A** (*mano*) a 7-7-2-A ; **B** a 3-3-S-2 ; **C** a R-R-S-A ; **D** a C-C-C-6. La main de A est la meilleure (*duples*), donc A et C marquent pour les *duples* de A et le *par simple* de C. En supposant que A et C ont parié 4 et que B et D ont vu, alors A et C gagnent un total de 8 pierres (3 + 1 + 4). Alternativement, si A et C parient 4, que B et D relancent de 6 pour faire 10, et que A et C se couchent ensuite, B et D gagneraient maintenant 3 pierres (pour le *par simple* de B et les *medias* de D) en plus des 4 qu'ils ont gagnées pendant le tour de paris quand A et C se sont couchés.
 
-### Scoring the Juego or Punto
+### Comptage du Juego ou Punto
 
-The principle is similar to scoring the *Pares*. If one side folded during the betting, then the other side has already won, and has already taken some stones. In addition to this, if the betting was on the *Juego*, both members of the winning team score the appropriate amount of stones for the *Juegos* in their hands (3 for 31, 2 for any other *Juego*). If the betting was on the *Punto*, they just take one additional stone for winning the *Punto*.
+Le principe est similaire au comptage des *Pares*. Si un côté s'est couché pendant les paris, l'autre côté a déjà gagné, et a déjà pris quelques pierres. De plus, si les paris portaient sur le *Juego*, les deux membres de l'équipe gagnante marquent le nombre approprié de pierres pour les *Juegos* dans leurs mains (3 pour 31, 2 pour tout autre *Juego*). Si les paris portaient sur le *Punto*, ils prennent simplement une pierre supplémentaire pour avoir gagné le *Punto*.
 
-If the betting round ended with one side seeing the other, then the hands are compared to see which individual player has the best cards. In the case of *Juego*, the winning player's team wins the agreed stake, **plus** the value of the *Juegos* in both their hands. In the case of *Punto*, the winning player's team wins the agreed stake plus just one extra stone for winning the *Punto*.
+Si le tour de paris s'est terminé par un côté voyant l'autre, les mains sont comparées pour voir quel joueur individuel a les meilleures cartes. Dans le cas du *Juego*, l'équipe du joueur gagnant remporte la mise convenue, **plus** la valeur des *Juegos* dans leurs deux mains. Dans le cas du *Punto*, l'équipe du joueur gagnant remporte la mise convenue plus une seule pierre supplémentaire pour avoir gagné le *Punto*.
 
-If there was no betting, but at least one player had a *Juego*, then the team of the player with the best *Juego* scores for this and for her partner's *Juego* if any. If no one had a *Juego*, then the team of the player with the best *Punto* scores one point.
+S'il n'y a pas eu de paris, mais qu'au moins un joueur avait un *Juego*, l'équipe du joueur avec le meilleur *Juego* marque pour cela et pour le *Juego* de son partenaire s'il y en a un. Si personne n'avait de *Juego*, l'équipe du joueur avec le meilleur *Punto* marque un point.
 
-### Keeping the Score - piedras and amarracos
+### Comptage du score — pierres et amarracos
 
-This is done with small stones or pebbles, or other convenient small objects. You need 22 of them. They all start in a saucer in the middle of the table, and are taken and placed in front of the four players to represent the score. Each partnership decides who will keep the ones (**piedras**) and who will keep the fives (**amarracos**).
+Cela se fait avec de petites pierres ou cailloux, ou d'autres petits objets pratiques. Vous en avez besoin de 22. Elles commencent toutes dans une soucoupe au centre de la table, et sont prises et placées devant les quatre joueurs pour représenter le score. Chaque équipe décide qui gardera les unités (**piedras**) et qui gardera les cinq (**amarracos**).
 
-***Note:** I am told that in Basque, the word is in fact **hamarreko**, which (oddly) means "of ten" rather than "of five".*
+***Note :** On m'a dit qu'en basque, le mot est en fait **hamarreko**, qui (bizarrement) signifie « de dix » plutôt que « de cinq ».*
 
-When a partnership wins one or more stones, the player keeping the ones simply takes the appropriate number from the saucer and places them in front of himself. When he has five, he gives one to his partner, who is keeping the fives, and puts the other four back in the saucer. When taking or moving stones you should always tell the opponents how many you are taking, and why.
+Quand une équipe gagne une ou plusieurs pierres, le joueur qui garde les unités prend simplement le nombre approprié dans la soucoupe et les place devant lui. Quand il en a cinq, il en donne une à son partenaire, qui garde les cinq, et remet les quatre autres dans la soucoupe. En prenant ou en déplaçant des pierres, vous devez toujours indiquer à vos adversaires combien vous en prenez et pourquoi.
 
-When the player keeping the fives has collected seven amarracos, representing 35 single stones, she must warn the opponents by saying **dentro** (inside), to alert them to the fact that her team is within 5 stones of winning. The seven amarracos are then put back in the saucer. After a team is *dentro*, as soon as the partner keeping the *piedras* has collected 5 stones (making a total score of 40), they win.
+Quand le joueur qui garde les cinq a récolté sept amarracos, représentant 35 pierres unitaires, il doit avertir les adversaires en disant **dentro** (dedans), pour les alerter du fait que son équipe est à 5 pierres de la victoire. Les sept amarracos sont alors remis dans la soucoupe. Après qu'une équipe est *dentro*, dès que le partenaire gardant les *piedras* a récolté 5 pierres (pour un score total de 40), ils gagnent.
 
-## The Signals
+## Les signaux
 
-Certain signals are allowed, by which players can communicate to their partner what cards they hold. Naturally they will try to do this while the opponents are not looking. Signals relating to specific card holdings must be truthful - for example if you signal *medias* you must have *medias*. The signals which are allowed vary somewhat between players. Here are the signals in general use:
+Certains signaux sont autorisés, par lesquels les joueurs peuvent communiquer à leur partenaire les cartes qu'ils détiennent. Naturellement, ils essaieront de le faire pendant que les adversaires ne regardent pas. Les signaux concernant des combinaisons de cartes spécifiques doivent être véridiques — par exemple si vous signalez *medias*, vous devez avoir des *medias*. Les signaux autorisés varient quelque peu entre les joueurs. Voici les signaux d'usage général :
 
-**Close (or lower) both eyes** *(ciego)*
+**Fermer (ou baisser) les deux yeux** *(ciego)*
 
-- means you have bad cards.
+- signifie que vous avez de mauvaises cartes.
 
-**Bite your lower lip**
+**Mordre votre lèvre inférieure**
 
-- means you have two kings (doing this twice would show four kings). 
+- signifie que vous avez deux rois (le faire deux fois montrerait quatre rois).
 
-**Show the tip of your tongue**
+**Montrer le bout de votre langue**
 
-- means you have two aces (doing this twice shows four aces).
+- signifie que vous avez deux as (le faire deux fois montre quatre as).
 
-**Distort your mouth to one side**
+**Tordre la bouche d'un côté**
 
-- means you have *medias* (three of a kind).
+- signifie que vous avez des *medias* (un brelan).
 
-**Raise both eyebrows**
+**Hausser les deux sourcils**
 
-- means you have *duples* (two pairs).
+- signifie que vous avez des *duples* (deux paires).
 
-**Wink**
+**Cligner de l'œil**
 
-- means you have a *Juego* of 31.
+- signifie que vous avez un *Juego* de 31.
 
-Often it is useful for the first two players (the mano and the player opposite to the dealer) to signal their cards to their partners, who will decide whether to mus. Sometimes the last players are also in a better position to decide whether and how much to bet, if they know their partners' cards. 
+Il est souvent utile que les deux premiers joueurs (le mano et le joueur en face du donneur) fassent signe de leurs cartes à leurs partenaires, qui décideront s'il faut mus. Parfois, les derniers joueurs sont aussi dans une meilleure position pour décider s'il faut parier et de combien, s'ils connaissent les cartes de leurs partenaires.
 
-## Variations
+## Variantes
 
-### Mus with four kings and four aces
+### Mus avec quatre rois et quatre as
 
-In Navarre, La Rioja, and some areas in the Basque Country, **Mus** is played in its original form with just four kings and four aces. In this game the threes and twos count as themselves, not as kings and aces. The cards rank K C S 7 6 5 4 3 2 A. In the *Juego* or *Punto*, the threes count 3 points and the twos count 2 points.
+En Navarre, La Rioja, et dans certaines régions du Pays Basque, le **Mus** se joue sous sa forme originale avec seulement quatre rois et quatre as. Dans ce jeu, les trois et les deux comptent pour eux-mêmes, non comme rois et as. Les cartes sont classées R C S 7 6 5 4 3 2 A. Dans le *Juego* ou le *Punto*, les trois comptent 3 points et les deux comptent 2 points.
 
-As there are fewer good cards in the pack, winning the game is less dependent on being randomly dealt an unbeatable hand and there is greater scope for bluffing.
+Comme il y a moins de bonnes cartes dans le jeu, gagner la partie dépend moins d'avoir reçu au hasard une main imbattable et il y a plus de place pour le bluff.
 
-In this version the sign of closing both eyes (ciego) to show bad cards is generally not recognised.
+Dans cette version, le signe de fermer les deux yeux (ciego) pour montrer de mauvaises cartes n'est généralement pas reconnu.
 
 ### Juego Real
 
-Some players recognise a special combination called **Juego Real** (Royal Game), which is 31 points consisting of three sevens and a 10 point card. This beats an ordinary *Juego* of 31 points, and is the only way a Juego of 31 held by the *Mano* can be beaten. You should agree whether you are playing this variation or not before you start the game, otherwise heated arguments could arise later. 
+Certains joueurs reconnaissent une combinaison spéciale appelée **Juego Real** (Jeu Royal), qui vaut 31 points et se compose de trois sevens et une carte de 10 points. Cela bat un *Juego* ordinaire de 31 points, et c'est le seul moyen pour un Juego de 31 détenu par le *Mano* d'être battu. Vous devez vous mettre d'accord sur le fait que vous jouez cette variante ou non avant de commencer la partie, sinon des disputes animées pourraient survenir plus tard.
 
 ![7](../images/spanish/es07.gif) 
 ![7](../images/spanish/co07.gif) 
 ![7](../images/spanish/ba07.gif) 
 ![Sota](../images/spanish/or10.gif)
 
-For some players, the 10 point card in a *Juego Real* must be the Sota of Coins. This of course makes it extremely rare. There are other variations - for example that *Juego Real* consists of sevens of three suits and the Sota of the fourth suit.
+Pour certains joueurs, la carte de 10 points dans un *Juego Real* doit être la Sota de Pièces. Cela rend bien sûr la combinaison extrêmement rare. Il existe d'autres variantes — par exemple que le *Juego Real* se compose des sevens de trois enseignes et de la Sota de la quatrième enseigne.
 
-*Juego Real* is valued as 3 points, the same as any other *Juego*. 
+Le *Juego Real* vaut 3 points, comme tout autre *Juego*.
 
-### Variations in Signals
+### Variantes des signaux
 
-In Navarre and many other places, the first hand of each game is played without signals.
+En Navarre et dans beaucoup d'autres endroits, la première main de chaque partie se joue sans signaux.
 
-There are several alternative versions of the signals - both of which signals are allowed, and of what they are. Here are some examples of additional signals:
+Il existe plusieurs versions alternatives des signaux — tant des signaux autorisés que de ce qu'ils signifient. Voici quelques exemples de signaux supplémentaires :
 
-**Pout your lips, as though pronouncing the word "mus"**
+**Pousser les lèvres, comme si vous prononciez le mot « mus »**
 
-- means you would like to change some cards - or for some players means that you have 3 kings and an ace
+- signifie que vous aimeriez changer quelques cartes — ou pour certains joueurs, que vous avez 3 rois et un as
 
-**Incline your head to the right**
+**Incliner la tête vers la droite**
 
-- means you would prefer not to change cards.
+- signifie que vous préféreriez ne pas changer de cartes.
 
-**Shrug one shoulder**
+**Hausser une épaule**
 
-- means you have a *Punto* of 30
+- signifie que vous avez un *Punto* de 30
 
-**Bite your lower lip to the left or right** 
+**Mordre la lèvre inférieure à gauche ou à droite**
 
-- means 3 kings (a combination of the signals for kinds and medias)
+- signifie 3 rois (une combinaison des signaux pour rois et medias)
 
-**Show the tip of your tongue to the left or right**
+**Montrer le bout de la langue à gauche ou à droite**
 
-- means 3 aces (a combination of the signals for aces and medias)
+- signifie 3 as (une combinaison des signaux pour as et medias)
 
 ### Mus Visto
 
-If it happens that during the deal any card is exposed, this is called **"mus visto"**. Some play that in this case, all four players have one opportunity to discard any number of cards and receive replacements, without the need for everyone to agree by saying *"Mus"*. In the case of *mus visto*, you are not obliged to discard any cards - you can keep your dealt hand if you want to. After everyone has had their opportunity to change cards, the game continues with a normal round of saying *"Mus"* or *"No mus"*.
+S'il se trouve que pendant la distribution une carte est exposée, cela s'appelle le **« mus visto »**. Certains jouent que dans ce cas, les quatre joueurs ont une occasion de se défausser de n'importe quel nombre de cartes et de recevoir des remplaçantes, sans que tout le monde ait besoin d'accepter en disant « *Mus* ». Dans le cas du *mus visto*, vous n'êtes pas obligé de vous défausser de cartes — vous pouvez garder votre main distribuée si vous le souhaitez. Après que chacun a eu l'occasion de changer de cartes, le jeu continue avec un tour normal de dire « *Mus* » ou « *No mus* ».
 
-### Replacement Cards for 4-5-6-7
+### Cartes de remplacement pour 4-5-6-7
 
-A hand consisting of **4-5-6-7** is one of the worst combinations you can be dealt. In this variation, a player who is dealt these cards as an initial hand can expose it immediately and is dealt a replacement hand of four cards. This must take place before the Mus.
+Une main composée de **4-5-6-7** est l'une des pires combinaisons que vous puissiez recevoir. Dans cette variante, un joueur qui reçoit ces cartes comme main initiale peut l'exposer immédiatement et se voit distribuer une main de remplacement de quatre cartes. Cela doit se produire avant le Mus.
 
-### Mus with Ten Kings
+### Mus avec Dix Rois
 
-Roberto Alberdi reports that in Eibar (Gipuzkoa, Spain) the elders of the town play variation known as "Mus with Ten Kings". In this version, the sota orf cups and the sota of coins act as jokers, but with two limitations:
+Roberto Alberdi rapporte qu'à Eibar (Gipuzkoa, Espagne) les anciens de la ville jouent à une variante connue sous le nom de « Mus avec Dix Rois ». Dans cette version, la Sota de coupes et la Sota de pièces agissent comme des jokers, mais avec deux limitations :
 
-A joker can represent an ace or a king, but no other card.
+Un joker peut représenter un as ou un roi, mais aucune autre carte.
 
-A joker cannot change its value during the showdown and scoring - when the betting is complete, at the moment when the cards are exposed, the holder of a joker must decide whether to call it an ace or a king, and stick to that.
+Un joker ne peut pas changer de valeur pendant la confrontation et le comptage — quand les paris sont terminés, au moment où les cartes sont exposées, le détenteur d'un joker doit décider s'il l'appelle un as ou un roi, et s'y tenir.
 
-**Example.** Suppose you have three kings and one joker. Depending of the value you choose for the joker, you can have "Duples" of kings, or "Medias" (three kings) and 31 points. This is the Mus player's dream come true - Duples and 31 at the same time! The first option is unbeatable for "Grande" if you are "mano" and gives you a terrific weapon in "pares"; the second is not so good at Grande and Pares, but you get the powerful 31 points instead. 
+**Exemple.** Supposez que vous avez trois rois et un joker. Selon la valeur que vous choisissez pour le joker, vous pouvez avoir des « Duples » de rois, ou des « Medias » (trois rois) et 31 points. C'est le rêve devenu réalité du joueur de Mus — des Duples et 31 en même temps ! La première option est imbattable pour « Grande » si vous êtes « mano » et vous donne une arme redoutable pour les « pares » ; la seconde n'est pas aussi bonne pour Grande et Pares, mais vous obtenez en revanche les puissants 31 points.
 
-But, in the end, you cannot have both at the same time. When you show your cards for counting the "amarracos" you have won, you have to decide the final value of the joker, the king or the ace. Obviously, the final
-decision depends on how much you have bet, and thus the number of amarracos you will win from each option. Unfortunately, you can't have it all, even when playing Mus.
+Mais, au final, vous ne pouvez pas avoir les deux en même temps. Quand vous montrez vos cartes pour compter les « amarracos » que vous avez gagnés, vous devez décider de la valeur finale du joker, le roi ou l'as. Évidemment, la décision finale dépend du montant que vous avez parié, et donc du nombre d'amarracos que vous gagnerez avec chaque option. Malheureusement, on ne peut pas tout avoir, même en jouant au Mus.
 
-### Other numbers of players
+### Autres nombres de joueurs
 
-There is a verion of Mus for **three** or **five** players, called Encaje or Mus Francés. This is explained on a separate page.
+Il existe une version du Mus pour **trois** ou **cinq** joueurs, appelée Encaje ou Mus Francés. Celle-ci est expliquée sur une page séparée.
 
-Mus with **six** players is also possible, though this version is rarely played in Spain. There are two teams of three players, who sit alternately (that is each player sits between two players of the opposing team). The rules of the game and the scoring are exactly as for the four handed game. As in the four player game, the last players of each team usually receives signals from their partners.
+Le Mus à **six** joueurs est également possible, bien que cette version soit rarement jouée en Espagne. Il y a deux équipes de trois joueurs, qui s'assoient en alternance (c'est-à-dire que chaque joueur s'assoit entre deux joueurs de l'équipe adverse). Les règles du jeu et le comptage sont exactement les mêmes que pour le jeu à quatre. Comme dans le jeu à quatre joueurs, les derniers joueurs de chaque équipe reçoivent généralement des signaux de leurs partenaires.
 
-Joseph Jaureguy reports a variation of six player Mus which is played to 50 points rather than 40. In this version each team elects a captain who is responsible for deciding whether to Mus, keeping track of the bets, and counting the scores. If the table is rectangular, normally the two captains sit in the centre of each side, facing each other, like this:
+Joseph Jaureguy rapporte une variante du Mus à six joueurs qui se joue jusqu'à 50 points plutôt que 40. Dans cette version, chaque équipe élit un capitaine responsable de décider s'il faut mus, de suivre les paris, et de compter les scores. Si la table est rectangulaire, normalement les deux capitaines s'assoient au centre de chaque côté, se faisant face, comme ceci :
 
 ![a B a / b A b](../images/vying/mus6.gif)
 
-## Other Mus WWW Pages
+## Autres pages web sur le Mus
 
-The game of Mus is Basque in origin. The [Mus page of the Basque Club of Ontario, Oregon (USA)](https://ontariobasqueclub.org/learn_mus.html) includes the Mus rules of the Federation of North American Basque Clubs and explains the Basque terminology used in the game.
+Le jeu de Mus est d'origine basque. La [page Mus du Basque Club of Ontario, Oregon (USA)](https://ontariobasqueclub.org/learn_mus.html) inclut les règles du Mus de la Fédération des Clubs Basques d'Amérique du Nord et explique la terminologie basque utilisée dans le jeu.
 
-[www.elmus.org](http://www.elmus.org) has information about Mus clubs and tournaments
+[www.elmus.org](http://www.elmus.org) propose des informations sur les clubs et tournois de Mus
 
-With the app 'El Mus' by Don Naipe, available for [Android](https://play.google.com/store/apps/details?id=donnaipe.mus) or for [iPhone or iPad](https://apps.apple.com/es/app/mus-don-naipe/id954161061), you can play Mus with three selectable computer players
+Avec l'application « El Mus » de Don Naipe, disponible pour [Android](https://play.google.com/store/apps/details?id=donnaipe.mus) ou pour [iPhone ou iPad](https://apps.apple.com/es/app/mus-don-naipe/id954161061), vous pouvez jouer au Mus avec trois adversaires informatiques sélectionnables
 
-The organisation [Duples](https://www.duples.de) is promotes the game of Mus in Germany and organises regular meetings and tournaments.
-
-Home Page > Classified Index > Vying Games > Mus
+L'organisation [Duples](https://www.duples.de) promeut le jeu de Mus en Allemagne et organise des rencontres et tournois réguliers.

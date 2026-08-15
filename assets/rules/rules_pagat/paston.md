@@ -2,144 +2,140 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for the three-player card game Paston, a version of Preference played in Gyumri, Armenia.
+**But :** Règles du jeu de cartes à trois joueurs Paston, une version du Preference jouée à Gyumri, en Arménie.
 
 ---
 
 ## Introduction
 
-This three-player game is played in Armenia, mainly in the district of Gyumri (formerly Leninakan). 
-The name of the game means ‘spades ’.
-The rules of the game were contributed by Alexey Lobashev, on the basis of information received from Aram from the city of Gyumri and Aramais Vartanyan from the city of Rostov-on-Don. It is a form of Preference with unusual scoring. We have some uncertainties about the rules, and we would be grateful for any corrections, clarifications or further information from anyone who knows this game well.
+Ce jeu à trois joueurs se joue en Arménie, principalement dans la région de Gyumri (anciennement Leninakan).
+Le nom du jeu signifie « piques ».
+Les règles du jeu ont été contribuées par Alexey Lobashev, sur la base d'informations reçues d'Aram de la ville de Gyumri et d'Aramais Vartanyan de la ville de Rostov-sur-le-Don. C'est une forme de Preference avec un comptage inhabituel. Nous avons quelques incertitudes sur les règles, et nous serions reconnaissants pour toute correction, clarification ou information complémentaire de la part de quiconque connaît bien ce jeu.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is played by three players with a deck of 32 cards. The names of the suits: **gupa** (hearts), **dineri** (diamonds), **glitch** (clubs) and **paston** (spades) are specific to this game - the usual Armenian names of the suits are given in Ivan Derzhanski's multi-lingual [dictionary of card game terms](https://web.archive.org/web/20250210153506/http://www.math.bas.bg/~iad/tyalie/damapik.html) (archive copy). The cards of each suit rank from high to low: A, K, Q, J, 10, 9, 8, 7. 
+Le jeu se joue à trois joueurs avec un jeu de 32 cartes. Les noms des enseignes : **gupa** (cœurs), **dineri** (carreaux), **glitch** (trèfles) et **paston** (piques) sont spécifiques à ce jeu — les noms arméniens habituels des enseignes sont donnés dans le dictionnaire multilingue des termes de jeux de cartes d'Ivan Derzhanski ([copie d'archive](https://web.archive.org/web/20250210153506/http://www.math.bas.bg/~iad/tyalie/damapik.html)). Les cartes de chaque enseigne se classent de haut en bas : A, R, D, V, 10, 9, 8, 7.
 
-Deal, bidding and play are clockwise.
+La distribution, les enchères et le jeu se font dans le sens horaire.
 
-## Deal
+## Distribution
 
-Any player may deal first. The dealer shuffles the cards and the player to dealer's right cuts them. The dealer then takes a look at the bottom card of the deck. If it is the 7 of spades, the cards are not dealt; the dealer re-shuffles the cards and gives the deck to be cut again. If it is any other card, the dealer distributes 10 cards to each player, starting with the player to dealer's left, and places two cards face down on the table to form the **prikup*** ["prikup" is the Russian term - we do not know the Armenian equivalent]*. The cards are dealt in batches of two: two to each player, then two to the prikup, then four more rounds of two to each player.
+N'importe quel joueur peut distribuer en premier. Le donneur mélange les cartes et le joueur à sa droite les coupe. Le donneur regarde ensuite la carte du bas du jeu. Si c'est le 7 de piques, les cartes ne sont pas distribuées ; le donneur remélange les cartes et les fait couper à nouveau. Si c'est n'importe quelle autre carte, le donneur distribue 10 cartes à chaque joueur, en commençant par le joueur à sa gauche, et place deux cartes face contre le bas sur la table pour former le **prikup** *[« prikup » est le terme russe — nous ne connaissons pas l'équivalent arménien]*. Les cartes sont distribuées par lots de deux : deux à chaque joueur, puis deux au prikup, puis quatre autres tours de deux à chaque joueur.
 
-In the unusual case where a player holds the 7-8-9-10-J-Q of spades, but neither the King nor the Ace of spades, he shows his cards, and the cards are reshuffled and dealt again by the same dealer. 
+Dans le cas inhabituel où un joueur détient le 7-8-9-10-V-D de piques, mais ni le Roi ni l'As de piques, il montre ses cartes, et les cartes sont remélangées et redistribuées par le même donneur.
 
-In the first deal of a session, the bidding is begun by the holder of the jack of spades or, if the jack of spades is in the prikup, by the holder of the seven of spades. *[Probably, if the prikup contains the jack and seven of spades, the cards must be reshuffled and dealt again.]* Although our informants did not state this, it seems probable that this player (who begins the bidding in the first deal) should also be the dealer for the second deal. We do know that from the second deal onwards, the first bidder is the player to the left of the dealer, and that this player also becomes the next dealer, so that the turn to deal rotates clockwise.
+Lors de la première donne d'une session, les enchères sont commencées par le détenteur du valet de piques ou, si le valet de piques est dans le prikup, par le détenteur du sept de piques. *[Probablement, si le prikup contient le valet et le sept de piques, les cartes doivent être remélangées et redistribuées.]* Bien que nos informateurs ne l'aient pas précisé, il semble probable que ce joueur (qui commence les enchères lors de la première donne) devrait aussi être le donneur pour la deuxième donne. Nous savons en revanche qu'à partir de la deuxième donne, le premier enchérisseur est le joueur à la gauche du donneur, et que ce joueur devient aussi le prochain donneur, de sorte que le tour de distribution tourne dans le sens horaire.
 
-## Bidding
+## Enchères
 
-The bidding determines which player will be the **declarer**. The declarer chooses the trump suit and must try to take at least six of the ten tricks, or else surrender, as described below.
+Les enchères déterminent quel joueur sera le **déclarant**. Le déclarant choisit l'atout et doit essayer de gagner au moins six des dix levées, ou bien abandonner, comme décrit ci-dessous.
 
-In the first deal the holder of the Jack of spades (or the seven of Spades if the Jack is in the prikup) begins the bidding. In the second and subsequent deals the bidding is begun by the player to dealer's left, and continues clockwise. At his turn, a player either passes or names a trump suit. The ranking of trump suits from lowest to highest is:
+Lors de la première donne, le détenteur du Valet de piques (ou du sept de piques si le Valet est dans le prikup) commence les enchères. Lors de la deuxième donne et des suivantes, les enchères sont commencées par le joueur à la gauche du donneur, et continuent dans le sens horaire. À son tour, un joueur passe ou nomme un atout. Le classement des atouts du plus bas au plus haut est :
 
-- **Paston** (spades).
+- **Paston** (piques).
 
-- **Glitch** (clubs).
+- **Glitch** (trèfles).
 
-- **Dineri** (diamonds).
+- **Dineri** (carreaux).
 
-- **Gupa** (hearts).
+- **Gupa** (cœurs).
 
-- **Paston grkha** (best spades).
+- **Paston grkha** (meilleurs piques).
 
-If no one has yet named a suit, a player can say "pass" or"paston". If all three players "pass", the holder of the Jack of spades becomes the declarer. If the Jack of spades is in the prikup, the holder of the 7 of spades becomes the declarer, and presumably if both are in the prikup, the cards must be redealt.
+Si personne n'a encore nommé une enseigne, un joueur peut dire « passe » ou « paston ». Si les trois joueurs « passent », le détenteur du Valet de piques devient le déclarant. Si le Valet de piques est dans le prikup, le détenteur du 7 de piques devient le déclarant, et vraisemblablement si les deux sont dans le prikup, les cartes doivent être redistribuées.
 
-If a player says "paston", subsequent players may either say "pass" or name the next higher trump suit in succession. A player who has said "pass" takes no further part in the bidding, which continues until two players have passed or a player says "paston grkha", which cannot be outbid. The player who made the final trump bid, naming the highest trump suit, becomes the declarer. 
+Si un joueur dit « paston », les joueurs suivants peuvent soit dire « passe » soit nommer l'enseigne atout suivante dans l'ordre. Un joueur qui a dit « passe » ne participe plus aux enchères, qui continuent jusqu'à ce que deux joueurs aient passé ou qu'un joueur dise « paston grkha », qui ne peut être surenchéri. Le joueur qui a fait la dernière enchère d'atout, nommant l'enseigne atout la plus haute, devient le déclarant.
 
-## Contract and Defence
+## Contrat et défense
 
-The declarer takes the two cards from the
-prikup without showing them and discards face down on the table any two cards from his hand. The discards
-can include cards that were in the prikup. He then names the trump suit, which must be equal to or higher than the suit of his final bid, except that the player can only announce "best spades" (*paston grkha*) if the final bid was "best spades". For example, if the last bid was diamonds, the player may announce either diamonds or hearts as trump. When all pass, the declarer may announce any suit as trump, but not "best spades".
+Le déclarant prend les deux cartes du prikup sans les montrer et se défausse de deux cartes face contre le bas sur la table, de sa main. Les défausses peuvent inclure des cartes qui étaient dans le prikup. Il nomme ensuite l'enseigne atout, qui doit être égale ou supérieure à l'enseigne de sa dernière enchère, sauf que le joueur ne peut annoncer « meilleurs piques » (*paston grkha*) que si la dernière enchère était « meilleurs piques ». Par exemple, si la dernière enchère était carreaux, le joueur peut annoncer soit les carreaux soit les cœurs comme atout. Quand tous passent, le déclarant peut annoncer n'importe quelle enseigne comme atout, mais pas « meilleurs piques ».
 
-**Note:** The only difference between "spades" and "best spades" is in the scoring. In both cases spades are trump, but the penalty for losing is higher when "best spades" was bid - see below.
+**Note :** La seule différence entre « piques » et « meilleurs piques » réside dans le comptage. Dans les deux cas les piques sont atout, mais la pénalité pour la défaite est plus élevée quand « meilleurs piques » a été enchéri — voir ci-dessous.
 
-Having named a trump suit, the declarer must win at least six tricks or suffer a penalty. Instead of naming a trump suit, the declarer may choose to surrender the game without play, paying the penalty as described under scoring below.
+Après avoir nommé une enseigne atout, le déclarant doit gagner au moins six levées ou subir une pénalité. Au lieu de nommer un atout, le déclarant peut choisir d'abandonner la donne sans jouer, en payant la pénalité comme décrit dans le comptage ci-dessous.
 
-After the trump suit has been announced, the player to the left of the declarer says "whist" if he wishes to defend, or "pass" to surrender without playing. Then the declarer's other opponent says "whist" or "pass".* ["Whist" is the Russian word - we do not know whether the same term is used in Armenia.]*
+Après que l'atout a été annoncé, le joueur à la gauche du déclarant dit « whist » s'il souhaite défendre, ou « passe » pour abandonner sans jouer. Puis le deuxième adversaire du déclarant dit « whist » ou « passe ». *[*« Whist » est le mot russe — nous ne savons pas si le même terme est utilisé en Arménie.]*
 
-If both opponents of the declarer have said "pass", the player declarer automatically wins without play. 
+Si les deux adversaires du déclarant ont dit « passe », le déclarant gagne automatiquement sans jouer.
 
-If both opponents of the declarer have said "whist", each of them must win at least 2 tricks to avoid a penalty.
+Si les deux adversaires du déclarant ont dit « whist », chacun d'eux doit gagner au moins 2 levées pour éviter une pénalité.
 
-If one opponent of the declarer has said "whist", and the other "passed", the one who said whist must win at least 4 tricks to avoid a penalty. The player who said "pass" does not participate in the play. His cards are put on the table face down and are not used. 
+Si un adversaire du déclarant a dit « whist » et l'autre « passé », celui qui a dit whist doit gagner au moins 4 levées pour éviter une pénalité. Le joueur qui a dit « passe » ne participe pas au jeu. Ses cartes sont posées face contre le bas sur la table et ne sont pas utilisées.
 
-## Play
+## Jeu
 
-The declarer leads to the first trick (confusingly, the tricks are often referred to as "hands" in this game). Any card may be led, and the other players must follow suit if possible. A player who cannot follow suit is obliged to play a trump. first to lead is the player who called the trump suit, and he may lead any card. The other players must follow suit. If they do not have cards of a given suit, they are obliged to play trump cards. The trick is won by the player of the highest trump in the trick, or of the highest card of the suit led if no trumps were played. The winner of each trick stacks it face down and leads to the next. Players should keep their won tricks stacked neatly, each at right angles to the last, so that the number of tricks won by each player can easily be counted. 
+Le déclarant mène la première levée (confusément, les levées sont souvent appelées « mains » dans ce jeu). N'importe quelle carte peut être menée, et les autres joueurs doivent suivre l'enseigne si possible. Un joueur qui ne peut pas suivre l'enseigne est obligé de jouer un atout. Le joueur qui a appelé l'enseigne atout mène en premier et peut mener n'importe quelle carte. Les autres joueurs doivent suivre l'enseigne. S'ils n'ont pas de cartes de l'enseigne demandée, ils sont obligés de jouer des atouts. La levée est gagnée par le joueur de l'atout le plus élevé dans la levée, ou de la carte la plus élevée de l'enseigne menée si aucun atout n'a été joué. Le gagnant de chaque levée l'empile face contre le bas et mène la suivante. Les joueurs doivent garder leurs levées gagnées empilées proprement, chacune à angle droit par rapport à la précédente, pour que le nombre de levées gagnées par chaque joueur puisse être facilement compté.
 
-## Scoring
+## Comptage
 
-Each player has a column on the score sheet in which the cumulative score is recorded. The scoring will first be explained for the case where spades (paston) are trumps.
+Chaque joueur a une colonne sur la feuille de score où le score cumulé est enregistré. Le comptage sera d'abord expliqué pour le cas où les piques (paston) sont atout.
 
-If the declarer wins six or more tricks, he scores +10 points. If he wins five or fewer tricks, he scores -10 points. The declarer gets no extra score for winning more than six tricks, nor extra penalty for fewer than five, but the opponents' scores are affected.
+Si le déclarant gagne six levées ou plus, il marque +10 points. S'il gagne cinq levées ou moins, il marque -10 points. Le déclarant ne reçoit aucun score supplémentaire pour gagner plus de six levées, ni de pénalité supplémentaire pour en gagner moins de cinq, mais les scores des adversaires sont affectés.
 
-If both opponents said "whist", they each score as follows, depending on the number of tricks they individually win:
+Si les deux adversaires ont dit « whist », chacun marque comme suit, en fonction du nombre de levées qu'il gagne individuellement :
 
-| no tricks | -10 points |
-| 1 trick | -9 points |
-| 2 tricks | no score |
-| 3 tricks | +10 points |
-| 4 tricks | +20 points |
-| more than 4 tricks | +10 points more for each extra trick |
+| aucune levée | -10 points |
+| 1 levée | -9 points |
+| 2 levées | aucun score |
+| 3 levées | +10 points |
+| 4 levées | +20 points |
+| plus de 4 levées | +10 points supplémentaires par levée en plus |
 
-If only one opponent said "whist", that opponent scores as follows:
+Si un seul adversaire a dit « whist », cet adversaire marque comme suit :
 
-| no tricks | -10 points |
-| 1 trick | -9 points * |
-| 2 tricks | -8 points * |
-| 3 tricks | -7 points * |
-| 4 tricks | no score |
-| 5 tricks | +10 points |
-| 6 tricks | +20 points |
-| more than 6 tricks | +10 points more for each extra trick |
+| aucune levée | -10 points |
+| 1 levée | -9 points * |
+| 2 levées | -8 points * |
+| 3 levées | -7 points * |
+| 4 levées | aucun score |
+| 5 levées | +10 points |
+| 6 levées | +20 points |
+| plus de 6 levées | +10 points supplémentaires par levée en plus |
 
-* **Note:** we are not certain of these scores. Possibly the opponent loses the same 9 points for winning 1, 2 or 3 tricks.
+* **Note :** nous ne sommes pas certains de ces scores. Il est possible que l'adversaire perde les mêmes 9 points pour avoir gagné 1, 2 ou 3 levées.
 
-If both opponents passed, there is no play, the declarer scores +10 points for winning, and the opponents score nothing.
+Si les deux adversaires ont passé, il n'y a pas de jeu, le déclarant marque +10 points pour la victoire, et les adversaires ne marquent rien.
 
-If the declarer surrendered, the declarer scores -10 points and each opponent scores +2 points.
+Si le déclarant a abandonné, le déclarant marque -10 points et chaque adversaire marque +2 points.
 
-For trump suits other than spades, all the above scores are multiplied by a factor:
+Pour les enseignes atout autres que les piques, tous les scores ci-dessus sont multipliés par un facteur :
 
-- When clubs are trumps, multiply all scores by 2.
+- Quand les trèfles sont atout, multiplier tous les scores par 2.
 
-- When diamonds are trumps, multiply all scores by 3.
+- Quand les carreaux sont atout, multiplier tous les scores par 3.
 
-- When hearts are trumps, multiply all scores by 4.
+- Quand les cœurs sont atout, multiplier tous les scores par 4.
 
-- When "best spades" are trumps, multiply all scores by 4 **except** that the declarer only scores +10 points (not +40) if he takes 6 or more tricks.
+- Quand les « meilleurs piques » sont atout, multiplier tous les scores par 4 **sauf** que le déclarant ne marque que +10 points (pas +40) s'il prend 6 levées ou plus.
 
-However, if a declarer surrenders, the scores of -10, +2, +2 are not multiplied, even if the declarer bid a higher suit than spades.
+Cependant, si un déclarant abandonne, les scores de -10, +2, +2 ne sont pas multipliés, même si le déclarant a enchéri une enseigne supérieure aux piques.
 
-The game ends when a player achieves a total of 121 points or more and wins. 
+Le jeu se termine quand un joueur atteint un total de 121 points ou plus et gagne.
 
-Unusually, a player who has a negative score of exactly 121 points has his score reset to zero.
+De façon inhabituelle, un joueur qui a un score négatif d'exactement 121 points voit son score remis à zéro.
 
-## Variations, Uncertainties and Comments
+## Variantes, incertitudes et commentaires
 
-**Score when declarer surrenders.** Since the cost of surrendering is not multiplied according to the bid, it will often be worthwhile to make a sacrifice bid when you suspect that an opponent is going to play in an expensive suit (diamonds or hearts) and win. Surrendering after you see the prikup, since surrendering effectively costs you only 12 points relative to the other players. This should be better in the long run than allowing another player to score 30 or 40 while you score nothing. **Note:** In Aram's rules, the opponents do not score 2 points when the declarer surrenders. This makes a sacrifice against a diamond or heart game slightly more attractive, but we are not sure whether this is just an accidental omission.
+**Score lorsque le déclarant abandonne.** Puisque le coût d'un abandon n'est pas multiplié selon l'enchère, il sera souvent avantageux de faire une enchère de sacrifice quand vous soupçonnez qu'un adversaire va jouer dans une enseigne coûteuse (carreaux ou cœurs) et gagner. Abandonner après avoir vu le prikup, puisque l'abandon ne vous coûte effectivement que 12 points par rapport aux autres joueurs. Cela devrait être préférable à long terme que de laisser un autre joueur marquer 30 ou 40 pendant que vous ne marquez rien. **Note :** Dans les règles d'Aram, les adversaires ne marquent pas 2 points quand le déclarant abandonne. Cela rend un sacrifice contre un contrat à carreaux ou à cœurs légèrement plus attractif, mais nous ne savons pas si c'est simplement un oubli accidentel.
 
-**Best spades**. Note that it is quite hard to get into this contract when spades is your only possible trump suit. For example if you begin by bidding paston and an opponent bids clubs, your next bid, if you want to compete, will have to be diamonds. If your opponent passes now, you are forced to play with a red suit as trumps (or surrender). Only if your opponent co-operates by bidding hearts will you be allowed to play your best spades.
+**Meilleurs piques**. Notez qu'il est assez difficile d'obtenir ce contrat quand les piques sont votre seule enseigne atout possible. Par exemple, si vous commencez par enchérir paston et qu'un adversaire enchérit trèfles, votre prochaine enchère, si vous voulez concourir, devra être carreaux. Si votre adversaire passe maintenant, vous êtes forcé de jouer avec une enseigne rouge comme atout (ou d'abandonner). Ce n'est que si votre adversaire coopère en enchérissant cœurs que vous serez autorisé à jouer vos meilleurs piques.
 
-Alexey Lobashev has identified several other details that are uncertain, which we would like to check.
+Alexey Lobashev a identifié plusieurs autres détails qui sont incertains, que nous aimerions vérifier.
 
-- We have used the Russian terms *"prikup"* for the two-card talon and *"whist"* when an opponent chooses to play. We do not know whether different terms are used in Armenia.
+- Nous avons utilisé les termes russes *« prikup »* pour le talon de deux cartes et *« whist »* quand un adversaire choisit de jouer. Nous ne savons pas si des termes différents sont utilisés en Arménie.
 
-- If the Jack and Seven of spades are in the prikup on the first deal, we have assumed that the cards must be redealt. This should be checked.
+- Si le Valet et le Sept de piques sont dans le prikup lors de la première donne, nous avons supposé que les cartes doivent être redistribuées. Cela devrait être vérifié.
 
-- If all pass in the first deal, the player whose turn to bid was first (because he has the Jack or Seven of spades) has to play. In subsequent deals, Alexey Lobashev's notes imply that it if all pass, again the player with the Jack or Seven of spades has to play, but this might perhaps be a misunderstanding. It would seem more logical if it is always the player who spoke first who has to play when all pass: in the second and subsequent deals this will be the player to dealer's left.
+- Si tous passent lors de la première donne, le joueur dont c'était le tour d'enchérir en premier (parce qu'il a le Valet ou le Sept de piques) doit jouer. Lors des donnes suivantes, les notes d'Alexey Lobashev impliquent que si tous passent, c'est à nouveau le joueur avec le Valet ou le Sept de piques qui doit jouer, mais cela pourrait être un malentendu. Il semblerait plus logique que ce soit toujours le joueur qui a parlé en premier qui doive jouer quand tous passent : lors de la deuxième donne et des suivantes, ce sera le joueur à la gauche du donneur.
 
-- We have assumed that after all pass, the player who is forced to be declarer can play any suit except "best spades". In fact there would be no reason for him to choose "best spades" if ordinary "spades" is available, but this rule should be checked.
+- Nous avons supposé qu'après que tous passent, le joueur qui est forcé d'être déclarant peut jouer n'importe quelle enseigne sauf « meilleurs piques ». En fait, il n'y aurait aucune raison pour lui de choisir « meilleurs piques » si les « piques » ordinaires sont disponibles, mais cette règle devrait être vérifiée.
 
-- It seems that an opponent of the declarer who says "pass" drops out of the play completely and irrevocably. He cannot be invited to help in the defence, nor can the other defender use his cards in any way, as is the practice in some other Preference games. This should be checked.
+- Il semble qu'un adversaire du déclarant qui dit « passe » se retire complètement et irrévocablement du jeu. Il ne peut pas être invité à aider à la défense, ni l'autre défenseur ne peut utiliser ses cartes d'aucune façon, comme c'est la pratique dans d'autres jeux de Preference. Cela devrait être vérifié.
 
-- We should check how to score when only one opponent says whist and that player wins 1, 2 or 3 tricks.
+- Nous devrions vérifier comment compter quand un seul adversaire dit whist et que ce joueur gagne 1, 2 ou 3 levées.
 
-- We have partial information about what happens when a player revokes - for example failing to follow suit when able to. If the declarer does this, the contract is scored as lost. Probably the opponents do not score anything but this should be checked. We are not sure what happens when an opponent revokes. Perhaps the declarer wins and this opponent scores as though he had taken no tricks, the other opponent scoring nothing?
+- Nous avons des informations partielles sur ce qui se passe lorsqu'un joueur renonce — par exemple en ne suivant pas l'enseigne alors qu'il le pouvait. Si le déclarant fait cela, le contrat est compté comme perdu. Les adversaires ne marquent probablement rien, mais cela devrait être vérifié. Nous ne savons pas ce qui se passe lorsqu'un adversaire renonce. Peut-être que le déclarant gagne et cet adversaire marque comme s'il n'avait pris aucune levée, l'autre adversaire ne marquant rien ?
 
-- We do not know what happens if two players simultaneously pass 121 points and have equal scores - for example 125 each. This is quite an unusual case, because normally only one player gets a positive score, but it could happen for example if both opponents said "whist" and they took three tricks each.
+- Nous ne savons pas ce qui se passe si deux joueurs dépassent simultanément 121 points et ont des scores égaux — par exemple 125 chacun. C'est un cas assez inhabituel, car normalement un seul joueur obtient un score positif, mais cela pourrait arriver par exemple si les deux adversaires ont dit « whist » et qu'ils ont pris trois levées chacun.
 
-- There is also a game called Gupa. We should check whether this is a different version, or just another name for the same game. 
-
-Home Page > Classified Index > Trick Taking Games > Preference > Paston
+- Il existe aussi un jeu appelé Gupa. Nous devrions vérifier s'il s'agit d'une version différente, ou simplement d'un autre nom pour le même jeu.

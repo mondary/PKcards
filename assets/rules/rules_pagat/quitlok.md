@@ -2,66 +2,65 @@
 
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** A gambling game using a deck of 24 numbered Quitli cards, in which the object is to have a score as near as possible to 21 but not more.
-**Autres noms :** Quitli or Kvitlech were traditi
+**But :** Un jeu d'argent utilisant un jeu de 24 cartes numérotées Quitli, dans lequel le but est d'avoir un score aussi proche que possible de 21 sans le dépasser.
+**Autres noms :** Quitli ou Kvitlech étaient traditionnellement utilisés par les Juifs d'Europe centrale pour éviter les restrictions religieuses sur les jeux de cartes standards.
 
 ---
 
 ## Introduction
 
-Cards known as Quitli or Kvitlech were traditionally used by Central European Jews to avoid religious restrictions on playing with standard cards. Instead they used cards which have no pictures, and are identified only by numbers and in some cases by suit symbols. Several articles about such cards have appeared in [The Playing-Card](https://www.i-p-c-s.org/wp/publications) (journal of the [International Playing-Card Society](https://www.i-p-c-s.org/wp/home-2/)), notably those by the late Rudi von Leyden *(Vol XI No 4, pp103-106)* and by Robert Kissel *(Vol XVIII No 3, pp86-100 and Vol XVIII No 4, pp101-116)*. One type of these cards has continued to be available up to the present day: the Quitli cards by Piatnik (pattern 177), which consist of 24 cards numbered 1 to 12, with two of each card, the twos and elevens being framed.
+Les cartes appelées Quitli ou Kvitlech étaient traditionnellement utilisées par les Juifs d'Europe centrale pour éviter les restrictions religieuses sur le jeu avec des cartes standard. Au lieu de cela, ils utilisaient des cartes qui n'ont pas de figures, et sont identifiées uniquement par des numéros et dans certains cas par des symboles d'enseignes. Plusieurs articles sur ces cartes sont parus dans [The Playing-Card](https://www.i-p-c-s.org/wp/publications) (journal de la [Société Internationale du Jeu de Cartes](https://www.i-p-c-s.org/wp/home-2/)), notamment ceux du regretté Rudi von Leyden *(Vol XI No 4, pp103-106)* et de Robert Kissel *(Vol XVIII No 3, pp86-100 et Vol XVIII No 4, pp101-116)*. Un type de ces cartes continue d'être disponible jusqu'à aujourd'hui : les cartes Quitli de Piatnik (motif 177), qui se composent de 24 cartes numérotées de 1 à 12, avec deux de chaque carte, les deux et les onze étant encadrés.
 
-A very brief outline of a game played with the 24 card Quitli pack was included in von Leyden's article cited above. This page gives a more detailed description of this game, based on a contribution from James Sorhagen, whose grandmother's family moved to the USA from Transylvania during the years 1938 to 1945. They call the game Quitlok and they play it mostly during Hanukkah. It is a form of 21 with a betting mechanism which is somewhat like that of Shoot Pontoon.
+Un très bref aperçu d'un jeu joué avec le jeu de 24 cartes Quitli a été inclus dans l'article de von Leyden cité ci-dessus. Cette page donne une description plus détaillée de ce jeu, basée sur une contribution de James Sorhagen, dont la famille de sa grand-mère a déménagé aux États-Unis depuis la Transylvanie entre 1938 et 1945. Ils appellent le jeu Quitlok et le jouent principalement pendant Hanoucca. C'est une forme de 21 avec un mécanisme de paris quelque peu similaire à celui du Shoot Pontoon.
 
-## The players, the cards and the deal
+## Les joueurs, les cartes et la distribution
 
-**Quitlok** is typically played by at least 5 players, one of whom will be the banker at any time. One pack of 24 **Quitli** cards is used. On the face of each card is a number - there are two cards of each number from 1 to 12. The two twos and the two elevens have decorative borders - these are the **framed** cards. 
+Le **Quitlok** se joue typiquement avec au moins 5 joueurs, dont l'un sera le banquier à tout moment. Un jeu de 24 cartes **Quitli** est utilisé. Sur la face de chaque carte se trouve un numéro — il y a deux cartes de chaque numéro de 1 à 12. Les deux deux et les deux onze ont des bordures décoratives — ce sont les cartes **encadrées**.
 
-The first banker is chosen by dealing a card to each player (highest banks). When the banker retires or the bank is broken, the turn to bank passes to the right. The banker starts the bank by putting an amount of money onto the table. A minimum is agreed for this - typically $2, but it can be as much as the banker wishes. The banker then deals one card face down to each player. They may look at their cards (and the banker needs to do so if looking for an opportunity to retire - see below) but must not show them to the other players. The first hand with a new bank is played clockwise, the second hand anticlockwise, and so on, alternating direction.
+Le premier banquier est choisi en distribuant une carte à chaque joueur (le plus haut banque). Quand le banquier se retire ou que la banque est brisée, le tour de banque passe à droite. Le banquier démarre la banque en mettant un montant d'argent sur la table. Un minimum est convenu pour cela — typiquement 2 $, mais cela peut être autant que le banquier le souhaite. Le banquier distribue ensuite une carte face contre le bas à chaque joueur. Ils peuvent regarder leurs cartes (et le banquier doit le faire s'il cherche une occasion de se retirer — voir ci-dessous) mais ne doivent pas les montrer aux autres joueurs. La première donne avec une nouvelle banque se joue dans le sens horaire, la deuxième dans le sens antihoraire, et ainsi de suite, en alternant le sens.
 
-## The players' bets
+## Les paris des joueurs
 
-The players other than the banker take turns to ask for cards and place bets. The aim is of course to get a total that is as near as possible to 21 without going over. For this purpose the 12's can count 12 or 9 at the player's choice, and if your first two cards are both framed, your hand counts as 21. Apart from this the cards count face value - in particular the ones always count one (never eleven as in some other forms of 21). When it is your turn your options are as follows:
+Les joueurs autres que le banquier prennent tour à tour pour demander des cartes et placer des mises. Le but est bien sûr d'obtenir un total aussi proche que possible de 21 sans le dépasser. Pour cela, les 12 peuvent compter 12 ou 9 au choix du joueur, et si vos deux premières cartes sont toutes les deux encadrées, votre main compte comme 21. À part cela, les cartes comptent pour leur valeur nominale — en particulier les uns comptent toujours un (jamais onze comme dans d'autres formes de 21). Quand c'est votre tour, vos options sont les suivantes :
 
-- **ask for a blot:** the dealer gives you one card face up;
+- **demander un blot :** le donneur vous donne une carte face visible ;
 
-- **bet:** stake an amount of money to receive a card face down; 
+- **miser :** engager un montant d'argent pour recevoir une carte face contre le bas ;
 
-- **stay:** play with the cards you have.
+- **s'arrêter :** jouer avec les cartes que vous avez.
 
-You can ask for as many cards as you like, provided that your total does not go over 21. As long as you only ask for blots you can neither lose nor win anything, and when you have finished drawing you throw your cards in without showing them. When you bet, you place the money on the table and the banker detaches an equal amount from the bank to match your bet. The total money staked by the players must not be more than what is currently in the bank, but within this limit you can bet any amount you wish. Whenever you place or increase your bet you must at the same time be given another card.
+Vous pouvez demander autant de cartes que vous le souhaitez, pourvu que votre total ne dépasse pas 21. Tant que vous demandez uniquement des blots, vous ne pouvez ni perdre ni gagner quoi que ce soit, et quand vous avez fini de tirer, vous jetez vos cartes sans les montrer. Quand vous misez, vous posez l'argent sur la table et le banquier détache un montant égal de la banque pour couvrir votre mise. Le total de l'argent misé par les joueurs ne doit pas dépasser ce qui est actuellement dans la banque, mais dans cette limite vous pouvez miser le montant que vous souhaitez. Chaque fois que vous placez ou augmentez votre mise, vous devez recevoir en même temps une autre carte.
 
-If your total goes over 21 you are bust; you throw in your cards face-down and any money you have bet is added to the bank. If you achieve exactly 21, you "throw it" face-up at the banker and immediately collect your money and the matching amount from the bank. If you choose to stay and you have bet money on your hand, you keep your cards and the turn passes to the next player.
-There is one special rule that applies during a player's turn. If your cards reach a total of 11 you can call "aluvun" (eleven) which protects you from going bust with the next card. If the next card you are dealt is an 11 you can reject it and take the following card instead. Of course you would not invoke this rule if you had a single (framed) 11, as a second 11 would then give you 21.
+Si votre total dépasse 21, vous êtes perdant ; vous jetez vos cartes face contre le bas et tout l'argent que vous avez misé est ajouté à la banque. Si vous atteignez exactement 21, vous la « jetez » face visible au banquier et collectez immédiatement votre argent et le montant correspondant de la banque. Si vous choisissez de vous arrêter et que vous avez misé de l'argent sur votre main, vous gardez vos cartes et le tour passe au joueur suivant.
 
-If you bet the whole of the remaining money in the bank, you can continue to ask for cards, but cannot bet any more during that turn. If you do not go bust, then at the end of your turn there will be no free money in the bank for the next player to bet against. At this point the dealer must play, to resolve all the outstanding bets before the game can continue.
+Il y a une règle spéciale qui s'applique pendant le tour d'un joueur. Si vos cartes atteignent un total de 11, vous pouvez appeler « aluvun » (onze) ce qui vous protège de dépasser 21 avec la carte suivante. Si la prochaine carte qui vous est distribuée est un 11, vous pouvez la refuser et prendre la carte suivante à la place. Bien sûr, vous n'invoqueriez pas cette règle si vous aviez un seul 11 (encadré), car un deuxième 11 vous donnerait alors 21.
 
-## The dealer's play; settling the bets
+Si vous misez tout l'argent restant dans la banque, vous pouvez continuer à demander des cartes, mais vous ne pouvez plus miser pendant ce tour. Si vous ne dépassez pas 21, alors à la fin de votre tour il n'y aura pas d'argent libre dans la banque pour le joueur suivant à miser. À ce moment, le donneur doit jouer, pour régler tous les paris en suspens avant que le jeu puisse continuer.
 
-Dealer's turn comes after all the other player's have played, or at the end of any player's turn when the players' outstanding bets equal the money in the bank. The dealer already has one card from the deal, and now draws further cards. There is no fixed rule as to when to draw and when to stay - the dealer is free to choose. The dealer's hand may be played exposed or kept concealed until it is time to settle the bets. In either case, when the dealer does not want any more cards, and has a total of 21 or less, the dealer's cards are shown. For those players with bets outstanding, the dealer pays those whose total is greater (nearer to 21) and takes the bets of those whose total is equal (a push) or less. If the dealer goes bust (card total more than 21) the dealer pays all players with outstanding bets.
+## Le jeu du donneur ; règlement des paris
 
-After the bets have been settled, if there are still people who have not had a turn to play on this hand and there is still money in the bank (the dealer having won at least some of the bets), the dealer takes another card and the next player who has not yet played has their turn. If everyone has played and there is money in the bank, the banker deals a new hand in the opposite direction from the hand that has just ended.
+Le tour du donneur intervient après que tous les autres joueurs ont joué, ou à la fin du tour de n'importe quel joueur quand les paris en suspens des joueurs égalent l'argent dans la banque. Le donneur a déjà une carte de la distribution, et tire maintenant d'autres cartes. Il n'y a pas de règle fixe pour savoir quand tirer et quand s'arrêter — le donneur est libre de choisir. La main du donneur peut être jouée à découvert ou gardée cachée jusqu'au moment de régler les paris. Dans les deux cas, quand le donneur ne veut plus de cartes, et a un total de 21 ou moins, les cartes du donneur sont montrées. Pour les joueurs avec des paris en suspens, le donneur paie ceux dont le total est supérieur (plus proche de 21) et prend les mises de ceux dont le total est égal (push) ou inférieur. Si le donneur dépasse 21 (total des cartes supérieur à 21), il paie tous les joueurs avec des paris en suspens.
 
-All cards that are thrown in - for example after a player goes bust or makes 21 or after a debt is settled - are collected by the banker and placed face-up on the bottom of the deck. When the last face-down card is reached, that card is not dealt, but is shuffled together with all the face-up cards to make a new stock. Play then continues as before.
+Après que les paris ont été réglés, s'il y a encore des personnes qui n'ont pas eu leur tour de jouer sur cette donne et qu'il y a encore de l'argent dans la banque (le donneur ayant gagné au moins certains des paris), le donneur prend une autre carte et le joueur suivant qui n'a pas encore joué a son tour. Si tout le monde a joué et qu'il y a de l'argent dans la banque, le banquier distribue une nouvelle donne dans le sens inverse de la donne qui vient de se terminer.
 
-## Change of bank
+Toutes les cartes jetées — par exemple après qu'un joueur dépasse 21 ou fait 21 ou après qu'une dette a été réglée — sont collectées par le banquier et placées face visible au bas du jeu. Quand on atteint la dernière carte face contre le bas, celle-ci n'est pas distribuée, mais est mélangée avec toutes les cartes face visibles pour former un nouveau tas. Le jeu continue alors comme avant.
 
-The bank can change hands in two ways:
+## Changement de banque
 
-- **The banker retires.** After you have completed three hands as banker, from the fourth hand onwards, if the first card you deal to yourself is a seven or a four, you can choose to flip it face-up, take all the money in the bank, and pass on the role of banker to the next player to the right. This can happen at the start of a hand or when taking a new card after settling bets in the middle of a hand, but only immediately after the dealer's card is dealt, and before any more cards are given out or bets placed.
+La banque peut changer de mains de deux façons :
 
-- **The bank is broken** ("taken apart"). If at any time there is no money left in the bank after settling all outstanding bets, the current hand ends and the role of banker passes to the right.
+- **Le banquier se retire.** Après avoir effectué trois donnes comme banquier, à partir de la quatrième donne, si la première carte que vous distribuez pour vous-même est un sept ou un quatre, vous pouvez choisir de la retourner face visible, prendre tout l'argent dans la banque, et passer le rôle de banquier au joueur suivant à droite. Cela peut se produire au début d'une donne ou en prenant une nouvelle carte après avoir réglé les paris au milieu d'une donne, mais seulement immédiatement après que la carte du donneur a été distribuée, et avant que d'autres cartes soient données ou des mises placées.
 
-## Terminology
+- **La banque est brisée** (« démontée »). Si à tout moment il n'y a plus d'argent dans la banque après avoir réglé tous les paris en suspens, la donne en cours se termine et le rôle de banquier passe à droite.
 
-There are a few more technical terms used in the game.
+## Terminologie
 
-- To "loaf" is to forgive part of a player's bet. This is an informal practice - a player who regrets having bet so much can ask the banker to reduce the bet (saying for example: "Loaf for half?" meaning "forgive half the bet?") The banker may agree to this but is under no obligation to do so.
+Il y a quelques autres termes techniques utilisés dans le jeu.
 
-- "Ink" refers to a large numbered card, as in "I need a lot of ink". 
+- « Loafer » (faire une faveur) consiste à pardonner une partie de la mise d'un joueur. C'est une pratique informelle — un joueur qui regrette avoir misé autant peut demander au banquier de réduire la mise (en disant par exemple : « Moitié pardon ? » signifiant « pardonner la moitié de la mise ? »). Le banquier peut accepter cela mais n'y est pas obligé.
 
-- To "build a bank" is for the banker to accumulate a large pot of money (as in: "Build me a bank!")
+- « Encre » fait référence à une carte numérotée élevée, comme dans « j'ai besoin de beaucoup d'encre ».
 
-Robert Kissel and I had some discussion of the possible origin of the word "blot" for a single card dealt face-up. Perhaps the most obvious derivation is from the German "Blatt", meaning a card, but Robert proposed a connection with the term "blot" used for a single man in backgammon. The Oxford Dictionary tells us that this usage goes back to the 16th century and suggests that it comes from a Dutch or Scandinavian word meaning exposed or uncovered. If true, this derivation fits the term blot in Quitlok as well.
+- « Construire une banque » consiste pour le banquier à accumuler un gros pot d'argent (comme dans : « Construisez-moi une banque ! »).
 
-Home Page > Classified Index > Banking Games > Quitlok / Kvitlech
+Robert Kissel et moi avons discuté de l'origine possible du mot « blot » pour une seule carte distribuée face visible. La dérivation la plus évidente est peut-être de l'allemand « Blatt », signifiant une carte, mais Robert a proposé un lien avec le terme « blot » utilisé pour un pion seul au backgammon. Le Dictionnaire d'Oxford nous dit que cet usage remonte au XVIe siècle et suggère qu'il vient d'un mot néerlandais ou scandinave signifiant exposé ou découvert. Si c'est vrai, cette dérivation convient aussi au terme blot dans le Quitlok.

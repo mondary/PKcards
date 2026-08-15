@@ -2,12 +2,10 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play Preferánsz - link to rules of a version of this 3-player Hungarian card game played by Donauschwaben in the 19th century.
+**But :** Comment jouer au Preferánsz — lien vers les règles d'une version de ce jeu de cartes hongrois à 3 joueurs, joué par les Danubiens-Souabes au XIXe siècle.
 
 ---
 
-The game of Preference is played in somewhat different forms in many central and eastern European countries, including Russia, Austria and Croatia. The Hungarian form is called **Preferánsz**. 
+Le jeu de Preference se joue sous des formes quelque peu différentes dans de nombreux pays d'Europe centrale et orientale, y compris la Russie, l'Autriche et la Croatie. La forme hongroise s'appelle **Preferánsz**.
 
-A version of Preferánsz played by the Donauschwaben - the German settlers on the banks of the Danube - in 18th and 19th century Hungary is described on Rick Heli's [Card Games of the Donauschwaben](https://rick-heli.site/gene/cards.html) page.
-
-Home Page > Classified Index > Trick Taking Games > Preference > Preferánsz (Donauschwaben)
+Une version du Preferánsz jouée par les Danubiens-Souabes — les colons allemands sur les rives du Danube — dans la Hongrie des XVIIIe et XIXe siècles est décrite sur la page de Rick Heli consacrée aux [Jeux de cartes des Danubiens-Souabes](https://rick-heli.site/gene/cards.html).

@@ -3,200 +3,194 @@
 **Nombre de cartes :** 24
 **Difficulté :** —
 **Type :** Euchre, Plis
-**But :** A form of Bid Euchre using a 24-card deck played in Iowa and Ohio, USA.
+**But :** Une forme de Bid Euchre utilisant un jeu de 24 cartes, jouée dans l'Iowa et l'Ohio, États-Unis.
 
 ---
 
 ## Introduction
 
-The card game Pepper is played in the Midwest of North America, in the region around the Great Lakes, particularly in Iowa but there are also players in Wisconsin, Michigan and some other places. It is a essentially a version of 
-Bid Euchre. Euchre games with added bidding appeared in the American card game literature in the early twentieth century under the German name Hasenpfeffer ('peppered hare'), and over the years this name was transformed into Pfeifer, Horse and Pepper and many other similar sounding names. In the early literature there was Single Hasenpfeffer, played with a single 24 card deck of Ace down to 9 in each suit, and Double Hasenpfeffer, played with a doubled deck of 48 cards. Over the past century a huge number of local variants have evolved and the naming of them is not entirely consistent.
+Le jeu de cartes Pepper se joue dans le Midwest de l'Amérique du Nord, dans la région des Grands Lacs, particulièrement en Iowa, mais il y a aussi des joueurs au Wisconsin, au Michigan et dans d'autres endroits. C'est essentiellement une version de Bid Euchre. Des jeux d'Euchre avec des enchères ajoutées sont apparus dans la littérature américaine de jeux de cartes au début du vingtième siècle sous le nom allemand de Hasenpfeffer (« lièvre poivré »), et au fil des années ce nom a été transformé en Pfeifer, Horse et Pepper et beaucoup d'autres noms similaires. Dans la littérature ancienne, il y avait le Single Hasenpfeffer, joué avec un seul jeu de 24 cartes de l'As au 9 dans chaque enseigne, et le Double Hasenpfeffer, joué avec un jeu double de 48 cartes. Au cours du siècle dernier, un grand nombre de variantes locales ont évolué et leur dénomination n'est pas entièrement cohérente.
 
-Nowadays the name Pepper is most often used for a single deck partnership game for four players and I will start by describing how this is typically played in Iowa, followed by a survey of some common variants. However, I have also received descriptions of versions Pepper for 5 or 6 players, and some using double decks, and I will include notes on some of these at the end of the page.
+De nos jours, le nom Pepper est le plus souvent utilisé pour un jeu d'équipe à un seul jeu pour quatre joueurs et je commencerai par décrire comment cela se joue typiquement en Iowa, suivi d'un aperçu de quelques variantes courantes. Cependant, j'ai aussi reçu des descriptions de versions de Pepper pour 5 ou 6 joueurs, et certaines utilisant des jeux doubles, et j'inclurai des notes sur certaines d'entre elles à la fin de la page.
 
-## Players
+## Joueurs
 
-The usual game is four four players in fixed partnerships, each player sitting opposite their partner.
+Le jeu habituel est à quatre joueurs en équipes fixes, chaque joueur étant assis en face de son partenaire.
 
-## Cards
+## Cartes
 
-A standard pack of 24 cards is used containing 9, 10, J, Q, K, and A in each of the suits hearts, diamonds, clubs and spades. The rank of the
-cards in the trump suit, in descending order, is: 
+Un jeu standard de 24 cartes est utilisé, contenant 9, 10, V, D, R et A dans chacune des enseignes cœurs, carreaux, trèfles et piques. L'ordre des cartes dans l'enseigne atout, par ordre décroissant, est :
 
-- Jack of the trump suit, known as the right bower (highest)
+- Valet de l'enseigne atout, connu comme le right bower (le plus élevé)
 
-- Jack of the of the other suit of the same color as the trump suit, the left
-bower
+- Valet de l'autre enseigne de la même couleur que l'atout, le left bower
 
-- Ace of trumps
+- As d'atout
 
-- King of trumps
+- Roi d'atout
 
-- Queen of trumps
+- Dame d'atout
 
-- Ten of trumps
+- Dix d'atout
 
-- Nine of trumps (lowest)
+- Neuf d'atout (le plus bas)
 
-In the other three suits the rank from high to low is Ace, King, Queen, (Jack,) Ten, Nine - omitting the Jack in the suit that is the same color as trumps.
+Dans les trois autres enseignes, l'ordre de haut en bas est As, Roi, Dame, (Valet,), Dix, Neuf — en omettant le Valet de l'enseigne qui est de la même couleur que l'atout.
 
-When playing with no trumps, all four suits follow the non-trump suit ranking from Ace (high) down to Nine (low).
+Quand on joue sans atout, les quatre enseignes suivent le classement des enseignes non-atout de l'As (haut) jusqu'au Neuf (bas).
 
-## Dealing
+## Distribution
 
-The first dealer may be chosen by any convenient random method: one way is by dealing the cards around the table to face up one at a time until a Jack appears, designating the first dealer. Subsequently the turn to deal passes to the left after each hand has been played and scored.
+Le premier donneur peut être choisi par n'importe quelle méthode aléatoire pratique : une façon est de distribuer les cartes autour de la table face visible une par une jusqu'à ce qu'un Valet apparaisse, désignant le premier donneur. Par la suite, le tour de distribution passe à gauche après que chaque donne a été jouée et comptée.
 
-The dealer shuffles the cards and deals them all clockwise, starting with the
-player to the dealer's left, so that each player receives six cards. The deal is normally in batches of two or three cards at a time, at dealer's discretion. Cards may be dealt singly, but never more than three at a time.
+Le donneur mélange les cartes et les distribue toutes dans le sens horaire, en commençant par le joueur à sa gauche, de sorte que chaque joueur reçoive six cartes. La distribution se fait normalement par lots de deux ou trois cartes à la fois, au choix du donneur. Les cartes peuvent être distribuées une par une, mais jamais plus de trois à la fois.
 
-## Bidding
+## Enchères
 
-Starting with the player to the dealer's left, and proceeding clockwise, each player can bid or pass. A bid indicates the number of tricks that a player will contract to win if allowed to choose the trump suit or no trump. The possible bids are the numbers from one (lowest) up to to six, followed by 'little pepper' and 'big pepper' (highest). The pepper bids are also undertakings to win six trick, little pepper for a higher score and big pepper without help from partner. 
+En commençant par le joueur à la gauche du donneur et en procédant dans le sens horaire, chaque joueur peut enchérir ou passer. Une enchère indique le nombre de levées qu'un joueur s'engage à gagner s'il a le droit de choisir l'enseigne atout ou sans atout. Les enchères possibles sont les nombres de un (le plus bas) jusqu'à six, suivis de « little pepper » et « big pepper » (le plus haut). Les enchères pepper sont aussi des engagements à gagner six levées, little pepper pour un score plus élevé et big pepper sans l'aide du partenaire.
 
-There is a single round of bidding beginning with the player to dealer's left and ending with the dealer. Each player in turn must pass or bid, and each bid must be higher than the previous bid. 
+Il y a un seul tour d'enchères commençant par le joueur à la gauche du donneur et se terminant par le donneur. Chaque joueur à son tour doit passer ou enchérir, et chaque enchère doit être supérieure à l'enchère précédente.
 
-The final (highest) bidder either names a trump suit or chooses 'no trump'. This fixes the trump suit, if any, for that hand. Any lower bids made by other players are superseded and have no effect on the play or scoring.
+L'enchérisseur final (le plus élevé) nomme soit une enseigne atout soit choisit « sans atout ». Cela fixe l'enseigne atout, s'il y en a une, pour cette donne. Toutes les enchères inférieures faites par d'autres joueurs sont annulées et n'ont aucun effet sur le jeu ou le comptage.
 
-If all four players were to pass, the cards would be thrown in and there would be a new deal by the next dealer in turn. This is extremely unlikely to happen in practice since any player with a jack can safely bid at least one. Since there are 6 tricks one team is bound to win at least three of them, so it is unusual for the final bid to be lower than 3.
+Si les quatre joueurs devaient passer, les cartes seraient jetées et il y aurait une nouvelle donne par le prochain donneur. Cela est extrêmement peu probable en pratique puisque tout joueur avec un valet peut enchérir en toute sécurité au moins un. Comme il y a 6 levées, une équipe est certaine d'en gagner au moins trois, il est donc inhabituel que l'enchère finale soit inférieure à 3.
 
-## Card Exchange
+## Échange de cartes
 
-After the high bidder has named the trump suit or called for no trumps, if the bid is a number 1-6 or little pepper the bidder may discard one unwanted card face down. The bidder's partner must then also discard one card face down without consultation and without looking at the card discarded by the bidder. The bidder takes the card discarded by their partner - normally a card that the partner thinks will be useful such as a high trump or an Ace. The bidder's partner discards their hand face down along with the card discarded by the bidder and takes no further part in the play. 
+Après que l'enchérisseur le plus élevé a nommé l'enseigne atout ou demandé sans atout, si l'enchère est un nombre de 1 à 6 ou little pepper, l'enchérisseur peut se défausser d'une carte non désirée face contre le bas. Le partenaire de l'enchérisseur doit aussi se défausser d'une carte face contre le bas sans consultation et sans regarder la carte défaussée par l'enchérisseur. L'enchérisseur prend la carte défaussée par son partenaire — normalement une carte que le partenaire juge utile comme un atout élevé ou un As. Le partenaire de l'enchérisseur pose sa main face contre le bas avec la carte défaussée par l'enchérisseur et ne participe plus au jeu.
 
-If the bid is a number 1-6 or 'little pepper' then the bidder may choose instead to play 'with partner'. In this case no cards are discarded or exchanged and all four players will take part in the play.
+Si l'enchère est un nombre de 1 à 6 ou « little pepper », l'enchérisseur peut choisir à la place de jouer « avec le partenaire ». Dans ce cas, aucune carte n'est défaussée ou échangée et les quatre joueurs participent au jeu.
 
-If the bid is 'big pepper' ('pepper without help') there is no card exchange and the bidder's partner does not play. The bidder plays alone with the 6 cards originally dealt to them and must take all 6 tricks to succeed.
+Si l'enchère est « big pepper » (« pepper sans aide »), il n'y a pas d'échange de cartes et le partenaire de l'enchérisseur ne joue pas. L'enchérisseur joue seul avec les 6 cartes qui lui ont été distribuées et doit gagner les 6 levées pour réussir.
 
-## Dropping Out
+## Abandon
 
-After the bidder's team have exchanged cards or chosen not to and before the play begins, the opposing team must decide whether to play or surrender. If they choose to play they are rewarded with a point for each trick taken but incur a penalty equal to the bid if they lose every trick. If they choose not to play the cards are thrown in, the bid automatically succeeds and the bidder's opponents neither win nor lose any points. 
+Après que l'équipe de l'enchérisseur a échangé des cartes ou choisi de ne pas le faire et avant que le jeu ne commence, l'équipe adverse doit décider de jouer ou d'abandonner. Si elle choisit de jouer, elle est récompensée par un point pour chaque levée prise mais subit une pénalité égale à l'enchère si elle perd toutes les levées. Si elle choisit de ne pas jouer, les cartes sont jetées, l'enchère réussit automatiquement et les adversaires de l'enchérisseur ne gagnent ni ne perdent aucun point.
 
-When agreeing on this decision, the opponents are not allowed to give specific information about their hands. They may say 'yes' if they want to play, 'no' if they want to drop out, or 'maybe' if they are not sure. 
+Pour se mettre d'accord sur cette décision, les adversaires ne sont pas autorisés à donner des informations spécifiques sur leur main. Ils peuvent dire « oui » s'ils veulent jouer, « non » s'ils veulent abandonner, ou « peut-être » s'ils ne sont pas sûrs.
 
-## The Play
+## Le jeu
 
-The highest bidder then makes the opening lead, and may lead any card. The other players in clockwise order each play a card and must follow suit if possible. A player who has no cards of the suit that was led may play any card. The trick is won by the player of the highest trump or, if there are no trump cards in the trick, to the highest card of the suit led. The winner of a trick leads to the next trick.
+L'enchérisseur le plus élevé mène ensuite la première carte, et peut mener n'importe quelle carte. Les autres joueurs dans l'ordre horaire jouent chacun une carte et doivent suivre l'enseigne si possible. Un joueur qui n'a pas de cartes de l'enseigne menée peut jouer n'importe quelle carte. La levée est gagnée par le joueur de l'atout le plus élevé ou, s'il n'y a pas d'atout dans la levée, par la carte la plus élevée de l'enseigne menée. Le gagnant d'une levée mène la levée suivante.
 
-If the bidding team exchanged cards or the bid was 'big pepper' there are only three active players - the bidder's partner's hand is face down on the table and is not used. It is only in the unusual case where the bidder chose to play with partner instead of exchanging cards that all four take part in the play.
+Si l'équipe d'enchérisseurs a échangé des cartes ou si l'enchère était « big pepper », il n'y a que trois joueurs actifs — la main du partenaire de l'enchérisseur est face contre le bas sur la table et n'est pas utilisée. C'est uniquement dans le cas inhabituel où l'enchérisseur a choisi de jouer avec son partenaire au lieu d'échanger des cartes que les quatre participent au jeu.
 
-Note that for the purpose of following suit the left bower counts as belonging to the trump suit, **not** to the suit that is printed on it. **For example** if spades are trump, the jack of spades is the highest trump, followed by the jack of clubs (the other jack of the same color) which is considered a **spade** for this hand, then the ace of spades, K, Q, 10, 9. The jack of clubs is not a club and cannot be played on a trick to which clubs are led (unless the holder has no clubs). If a spade is led the holder of the jack of clubs can follow suit with it, and must play it if they have no other spades. If the jack of clubs is led the other players must play spades if they have them; those with no spades can play any card.
+Notez que pour le suivi de l'enseigne, le left bower compte comme appartenant à l'enseigne atout, **non** à l'enseigne imprimée dessus. **Par exemple**, si les piques sont atout, le valet de piques est l'atout le plus élevé, suivi du valet de trèfles (l'autre valet de la même couleur) qui est considéré comme un **pique** pour cette donne, puis l'as de piques, R, D, 10, 9. Le valet de trèfles n'est pas un trèfle et ne peut pas être joué sur une levée où les trèfles sont menés (sauf si le détenteur n'a pas de trèfles). Si un pique est mené, le détenteur du valet de trèfles peut suivre l'enseigne avec, et doit le jouer s'il n'a pas d'autres piques. Si le valet de trèfles est mené, les autres joueurs doivent jouer des piques s'ils en ont ; ceux qui n'ont pas de piques peuvent jouer n'importe quelle carte.
 
-## Scoring
+## Comptage
 
-Each team starts with a score of zero, and at the end of the play they add or subtract points depending on the result. A team's cumulative score can be negative.
+Chaque équipe commence avec un score de zéro, et à la fin du jeu elle ajoute ou soustrait des points en fonction du résultat. Le score cumulé d'une équipe peut être négatif.
 
-For a bid from 1 to 6, if the bidding team take at least as many tricks as their bid or if the opponents surrender, the bidding team adds the amount of their bid to their score. If they win fewer tricks than their bid they subtract the amount of the bid from their score.
+Pour une enchère de 1 à 6, si l'équipe d'enchérisseurs gagne au moins autant de levées que son enchère ou si les adversaires abandonnent, l'équipe d'enchérisseurs ajoute le montant de son enchère à son score. Si elle gagne moins de levées que son enchère, elle soustrait le montant de l'enchère de son score.
 
-If the opponents play and win at least one trick, they score plus one point for each trick they win. If they play and win no tricks, they score minus the amount of the bid. If they surrender they score zero - their cumulative score remains the same.
+Si les adversaires jouent et gagnent au moins une levée, ils marquent un point pour chaque levée gagnée. S'ils jouent et ne gagnent aucune levée, ils marquent moins le montant de l'enchère. S'ils abandonnent, ils marquent zéro — leur score cumulé reste le même.
 
-For a bid of little pepper, if the opponents surrender the bidding team scores +7 points and the opponents score 0. If the opponents play and the bidding team win all 6 tricks the bidding team scores +7 and the opponents score -7. If the opponents play and win at least one trick then the bidding team scores -7 and the opponents score +7.
+Pour une enchère de little pepper, si les adversaires abandonnent, l'équipe d'enchérisseurs marque +7 points et les adversaires marquent 0. Si les adversaires jouent et l'équipe d'enchérisseurs gagne les 6 levées, l'équipe d'enchérisseurs marque +7 et les adversaires marquent -7. Si les adversaires jouent et gagnent au moins une levée, l'équipe d'enchérisseurs marque -7 et les adversaires marquent +7.
 
-For a big pepper the score are twice as much as for little pepper: +14 or -14 if the opponents play, but if the opponents surrender +14 for the bidders and 0 for the opponents.
+Pour un big pepper, les scores sont le double de ceux du little pepper : +14 ou -14 si les adversaires jouent, mais si les adversaires abandonnent, +14 pour les enchérisseurs et 0 pour les adversaires.
 
-**Note. **Although the objective in a 6-bid is the same as in a pepper, there is less risk. If the bid fails the opponents will only score 1 point for each trick they take, rather than +7 for a failed little pepper. On the other hand the opponents will never surrender as there is no penalty for them if they win no tricks. 
+**Note.** Bien que l'objectif d'une enchère de 6 soit le même que dans un pepper, le risque est moindre. Si l'enchère échoue, les adversaires ne marqueront qu'un point pour chaque levée qu'ils gagnent, plutôt que +7 pour un little pepper échoué. D'un autre côté, les adversaires n'abandonneront jamais car il n'y a pas de pénalité pour eux s'ils ne gagnent aucune levée.
 
-The target score to win the game is a cumulative score of 42 or more points, over as many deals as it takes for a team to reach the target. If either team has a score of 42 or more at the end of a hand, the game ends and the team with the higher score wins unless the teams have equal scores. If the scores are tied at 42 or more, another hand is played to decide the winners.
+Le score cible pour gagner la partie est un score cumulé de 42 points ou plus, sur autant de donnes qu'il faut pour qu'une équipe atteigne le cible. Si l'une des équipes a un score de 42 ou plus à la fin d'une donne, le jeu se termine et l'équipe avec le score le plus élevé gagne, sauf si les équipes ont des scores égaux. Si les scores sont à égalité à 42 ou plus, une autre donne est jouée pour départager les vainqueurs.
 
-## Variations
+## Variantes
 
-There are many variants of Pepper - I have received over a dozen descriptions and no two of them agree on every detail. Here are some of the common variants.
+Il existe de nombreuses variantes du Pepper — j'ai reçu plus d'une douzaine de descriptions et aucune n'est d'accord sur tous les détails. Voici quelques-unes des variantes courantes.
 
-### Minimum Bid and Stick the Dealer
+### Enchère minimale et forcer le donneur
 
-Many play with a minimum bid of either 3 or 4. If the first three players pass the dealer must either bid at least this minimum or surrender and take a score of minus the minimum bid while the opponents score nothing.
+Beaucoup jouent avec une enchère minimale de 3 ou 4. Si les trois premiers joueurs passent, le donneur doit soit enchérir au moins ce minimum soit abandonner et prendre un score de moins le minimum de l'enchère tandis que les adversaires ne marquent rien.
 
-Some play that when the dealer is forced to make the minimum bid and chooses to play rather than surrender, the opponents are not allowed to drop out but must play the hand, taking a negative score if they fail to win any tricks.
+Certains jouent que lorsque le donneur est forcé de faire l'enchère minimale et choisit de jouer plutôt que d'abandonner, les adversaires ne sont pas autorisés à se retirer mais doivent jouer la donne, en prenant un score négatif s'ils échouent à gagner des levées.
 
-Wendell Harmon describes a more complicated bidding structure where the possible bids are 'say 3', 'say 4', 'bid 4', 'bid 5', 'pepper', 'big pepper'. The final bid must be at least 4. If no previous player has bid, the first or second player can indicate that they hold one or more aces by saying 'say 3'. This must always be overcalled by a later player since the minimum final bid is 4. A player who holds a jack of each color can indicate this by 'say 4', which is equivalent to a bid of 4 if no one bids higher. A player who just wishes to bid 4 without promising anything about jacks simply says 'bid 4'. There is no 6-bid in this version.
+Wendell Harmon décrit une structure d'enchères plus compliquée où les enchères possibles sont « say 3 », « say 4 », « bid 4 », « bid 5 », « pepper », « big pepper ». L'enchère finale doit être au moins 4. Si aucun joueur précédent n'a enchéri, le premier ou le deuxième joueur peut indiquer qu'il détient un ou plusieurs as en disant « say 3 ». Cela doit toujours être surenchéri par un joueur ultérieur puisque l'enchère finale minimale est 4. Un joueur qui détient un valet de chaque couleur peut l'indiquer par « say 4 », qui équivaut à une enchère de 4 si personne n'enchérit plus haut. Un joueur qui souhaite simplement enchérir 4 sans rien promettre sur les valets dit simplement « bid 4 ». Il n'y a pas d'enchère de 6 dans cette version.
 
-### Procedure for Dropping Out
+### Procédure d'abandon
 
-Some players prefer a more formal way for the bidder's opponents to agree whether they will challenge the bid by playing. The first opponent (left of the bidder) says 'yes' (to challenge), 'no' (if willing to drop out) or 'maybe' (if unsure). On the basis of this the second opponent (right of the bidder) makes the final decision: 'yes' to play or 'no' to surrender.
+Certains joueurs préfèrent une façon plus formelle pour que les adversaires de l'enchérisseur s'accordent sur le fait de contester l'enchère en jouant. Le premier adversaire (à gauche de l'enchérisseur) dit « oui » (pour contester), « non » (s'il est prêt à se retirer) ou « peut-être » (s'il n'est pas sûr). Sur cette base, le deuxième adversaire (à droite de l'enchérisseur) prend la décision finale : « oui » pour jouer ou « non » pour abandonner.
 
-### Score what you get
+### Compter ce que vous prenez
 
-Some play that the bidding team score a point for each trick that they take, not just for the tricks that they bid.
+Certains jouent que l'équipe d'enchérisseurs marque un point pour chaque levée qu'elle prend, pas seulement pour les levées qu'elle a enchéries.
 
-Also a few groups play with a fixed penalty for a failed bid or for opponents who play and take no tricks. In these cases the penalty is 5 or 6 points rather than equal to the bid.
+Aussi, quelques groupes jouent avec une pénalité fixe pour une enchère échouée ou pour des adversaires qui jouent et ne prennent aucune levée. Dans ces cas, la pénalité est de 5 ou 6 points plutôt qu'égale à l'enchère.
 
-### The 6-bid
+### L'enchère de 6
 
-Some play that** **if the bid is 6 there is no penalty for playing and winning no tricks, and therefore no reason for the opponents to surrender. If the bidders bid 6 and win all six tricks they score 6 while the opponents score zero.
+Certains jouent que si l'enchère est 6, il n'y a pas de pénalité pour jouer et ne gagner aucune levée, et donc aucune raison pour les adversaires d'abandonner. Si les enchérisseurs enchérissent 6 et gagnent les six levées, ils marquent 6 tandis que les adversaires marquent zéro.
 
-Some versions do not include a bid of 6 at all. Above 5 the next higher bid is little pepper. In some (but not all) of these versions the score for little pepper is +/-6 rather than +/-7 and for big pepper +/-12 rather than +/-14.
+Certaines versions n'incluent pas du tout d'enchère de 6. Au-dessus de 5, l'enchère suivante est little pepper. Dans certaines (mais pas toutes) de ces versions, le score du little pepper est +/-6 plutôt que +/-7 et pour le big pepper +/-12 plutôt que +/-14.
 
 ### Dirty Clubs
 
-Some play that if the bidder names clubs as trump, the opponents do not have a chance to surrender but are compelled to play, receiving a penalty equal to the bid if they take no tricks.
+Certains jouent que si l'enchérisseur nomme les trèfles comme atout, les adversaires n'ont pas l'occasion d'abandonner mais sont obligés de jouer, recevant une pénalité égale à l'enchère s'ils ne prennent aucune levée.
 
-### No Trumps
+### Sans atout
 
-There are several variants of the no trump option.
+Il existe plusieurs variantes de l'option sans atout.
 
-- Some players do not allow no trumps as a choice at all - the final bidder must always choose a trump suit.
+- Certains joueurs n'autorisent pas le sans atout comme choix du tout — l'enchérisseur final doit toujours choisir une enseigne atout.
 
-- Some who those play the dirty clubs variant above play with the same restriction in no trumps: the opponents are not allowed to surrender but must play and are penalised if they take no trick.
+- Certains de ceux qui jouent la variante dirty Clubs ci-dessus jouent avec la même restriction en sans atout : les adversaires ne sont pas autorisés à abandonner mais doivent jouer et sont pénalisés s'ils ne prennent aucune levée.
 
-- Some play that in no trumps the first lead is made by the player to the left of the bidder begins the play, so that the bidder plays last to the first trick.
+- Certains jouent qu'en sans atout, la première carte est menée par le joueur à la gauche de l'enchérisseur, de sorte que l'enchérisseur joue en dernier à la première levée.
 
-- One description gives as a variant the strange rule that in no trumps the player to the **right** of the **dealer** leads to the first trick.
+- Une description donne comme variante la règle étrange qu'en sans atout, c'est le joueur à la **droite** du **donneur** qui mène la première levée.
 
-### Target score
+### Score cible
 
-The target score for winning the game is variously given as 30, 31, 42 or 43 points. 42 is sometimes explained as 'three big peppers'. The targets 31 and 43 may arise from a difference of opinion among players as to whether the aim is to reach the target of 30 or 42 or to exceed it.
+Le score cible pour gagner la partie est diversement donné comme 30, 31, 42 ou 43 points. 42 est parfois expliqué comme « trois big peppers ». Les cibles de 31 et 43 peuvent résulter d'une différence d'opinion entre joueurs sur le fait que le but est d'atteindre la cible de 30 ou 42 ou de la dépasser.
 
-### Must bid to win
+### Doit enchérir pour gagner
 
-Some play a team can only win the game on a hand where they make a successful bid. If a team reaches or passes the target by scoring points for tricks taken against a bid by the other team, or for a failed pepper by the other team, they do not win: another hand must be played. If both teams reach or pass the target in the same hand, the bidding team wins the game, even if the other team's cumulative score is higher. In this variant there is also a rule that the game ends if a team reaches a negative score equal to the target - for example if the target is 30 and a team reaches a score of -30 or worse, the other team wins irrespective of their score. This is to prevent a losing team from endlessly prolonging the game by means of a series of failed sacrifice bids.
+Certains jouent qu'une équipe ne peut gagner la partie que lors d'une donne où elle réussit une enchère. Si une équipe atteint ou dépasse la cible en marquant des points pour des levées prises contre une enchère de l'autre équipe, ou pour un pepper échoué de l'autre équipe, elle ne gagne pas : une autre donne doit être jouée. Si les deux équipes atteignent ou dépassent la cible lors de la même donne, l'équipe d'enchérisseurs gagne la partie, même si le score cumulé de l'autre équipe est plus élevé. Dans cette variante, il y a aussi une règle que le jeu se termine si une équipe atteint un score négatif égal à la cible — par exemple si la cible est 30 et qu'une équipe atteint un score de -30 ou pire, l'autre équipe gagne indépendamment de son score. C'est pour empêcher une équipe perdante de prolonger indéfiniment le jeu par une série d'enchères de sacrifice échouées.
 
-### Playing with partner
+### Jouer avec le partenaire
 
-Some descriptions imply that the bidder's partner always drops out of the play. If the bid is lower than big pepper the must exchange a card with partner and play alone. The bidder's option to 'with partner' does not exist in these versions. 
+Certaines descriptions impliquent que le partenaire de l'enchérisseur se retire toujours du jeu. Si l'enchère est inférieure à big pepper, il doit échanger une carte avec le partenaire et jouer seul. L'option de l'enchérisseur de jouer « avec le partenaire » n'existe pas dans ces versions.
 
-At the other extreme, the unusual version contributed by Jon Melton, which was originally published on this page, does not allow card exchange at all. The bidder's partner always plays except in 'big pepper' where the bidder plays alone. Other features of Jon Melton's version are:
+À l'autre extrême, la version inhabituelle contribuée par Jon Melton, qui était à l'origine publiée sur cette page, ne permet aucun échange de cartes. Le partenaire de l'enchérisseur joue toujours sauf dans « big pepper » où l'enchérisseur joue seul. Autres caractéristiques de la version de Jon Melton :
 
-- The auction is not just one round, but continues around the table for as many circuits as necessary until there are three consecutive passes.
+- L'enchère n'est pas d'un seul tour, mais continue autour de la table pendant autant de tours que nécessaire jusqu'à ce qu'il y ait trois passes consécutives.
 
-- If the bid is successful, the bidder's scores a point for each trick they win, which may be more than the bid. If they fail they always score -6 irrespective of the bid.
+- Si l'enchère réussit, l'enchérisseur marque un point pour chaque levée gagnée, qui peut être plus que l'enchère. En cas d'échec, il marque toujours -6 indépendamment de l'enchère.
 
-- The bidder's opponents score one point for each trick they win, even in a pepper bid. There is no penalty for taking no tricks and no opportunity to drop out. 
+- Les adversaires de l'enchérisseur marquent un point pour chaque levée gagnée, même lors d'une enchère pepper. Il n'y a pas de pénalité pour ne prendre aucune levée et aucune possibilité d'abandonner.
 
-- The bids are 1, 2, 3, 4, 5, pepper, big pepper. Pepper is worth 6 points and big pepper is plus or minus 12 for the bidding team. 
+- Les enchères sont 1, 2, 3, 4, 5, pepper, big pepper. Pepper vaut 6 points et big pepper vaut plus ou moins 12 pour l'équipe d'enchérisseurs.
 
-- The target is 30 points to win the game.
+- La cible est de 30 points pour gagner la partie.
 
-### Rough Round
+### Tour préliminaire
 
-Some players begin the game with a 'rough round' of four deals in in which the player to dealer's left is forced to bid four 'with partner'. No cards are passed and the opposing team cannot surrender. Some also play a rough round when the scores of the two teams are tied.
+Certains joueurs commencent le jeu par un « tour préliminaire » de quatre donnes dans lesquelles le joueur à la gauche du donneur est forcé d'enchérir quatre « avec partenaire ». Aucune carte n'est passée et l'équipe adverse ne peut pas abandonner. Certains jouent aussi un tour préliminaire quand les scores des deux équipes sont à égalité.
 
-### Other web pages
+### Autres pages web
 
-Another fairly typical set of set of rules of game can be found on [Jeremy Condit's Pepper page](https://web.archive.org/web/20090421195822/http://www.cs.berkeley.edu:80/~jcondit/pepper.html) (archive copy).
+Un autre ensemble assez typique de règles du jeu peut être trouvé sur la [page Pepper de Jeremy Condit](https://web.archive.org/web/20090421195822/http://www.cs.berkeley.edu:80/~jcondit/pepper.html) (copie d'archive).
 
-## More Variations
+## Plus de variantes
 
 ### Cutthroat Pepper
 
-This is a version without partners, which can be played when there is an odd number of players such as 3 or 5. The number of cards dealt can be adjusted according to the number of players. Some cards may also remain undealt or the size of the deck can be adjusted by adding or omitting low cards. For example if there are three players you can deal eight cards each from the 24 card deck and pepper bids undertake to win all eight tricks. Players score individually and opponents of the bidder can drop out individually in turn to avoid scoring minus the amount of the bid if they fail to take a trick. Usually there is a minimum bid for example 3.
+C'est une version sans partenaires, qui peut se jouer quand il y a un nombre impair de joueurs comme 3 ou 5. Le nombre de cartes distribuées peut être ajusté selon le nombre de joueurs. Certaines cartes peuvent rester non distribuées ou la taille du jeu peut être ajustée en ajoutant ou en retirant des cartes basses. Par exemple, s'il y a trois joueurs, vous pouvez distribuer huit cartes chacun à partir du jeu de 24 cartes et les enchères pepper s'engagent à gagner les huit levées. Les joueurs marquent individuellement et les adversaires de l'enchérisseur peuvent se retirer individuellement à leur tour pour éviter de marquer moins le montant de l'enchère s'ils échouent à prendre une levée. Il y a généralement une enchère minimale, par exemple 3.
 
-### Pepper for 5 or 6 and double deck variants
+### Pepper pour 5 ou 6 joueurs et variantes à jeu double
 
-Some people play versions of Pepper for 5 players in which the dealer obtains a partner by calling for a card, usually a high trump. The holder of that card becomes their partner and there is often a rule that the called card must be played at the first legal opportunity. There is no card exchange and no dropping out.
+Certaines personnes jouent des versions de Pepper pour 5 joueurs dans lesquelles le donneur obtient un partenaire en appelant une carte, généralement un atout élevé. Le détenteur de cette carte devient son partenaire et il y a souvent une règle que la carte appelée doit être jouée à la première opportunité légale. Il n'y a pas d'échange de cartes ni d'abandon.
 
-For example John Dilley describes a 5-player version played in Michigan using a double deck of 48 cards. If two identical highest cards are played to a trick the first of them wins. Nine cards are dealt to each player and there is an undealt kitty of 3 cards. The minimum bid is 4. The bidder names trumps and the rank and value of the card whose holder will be their partner. The first player other than the bidder who is legally able to play the called card must do so and becomes the partner. If two copies of the called card are held by two players other than the bidder, the holder of the second copy is under no restrictions as to when to play it other than the normal requirement to follow suit. If no player other than the bidder has the called card - for example the bidder has one copy and the other is in the kitty - the bidder plays alone against a team of 4. No details of scoring are given - presumably a cumulative score is kept for each player, the players of the bidder's team scoring plus or minus the bid value and the members of the opposing team scoring a point for each trick taken by their team.
+Par exemple, John Dilley décrit une version à 5 joueurs jouée dans le Michigan avec un jeu double de 48 cartes. Si deux cartes identiques les plus élevées sont jouées à une levée, la première d'entre elles gagne. Neuf cartes sont distribuées à chaque joueur et il y a un talon non distribué de 3 cartes. L'enchère minimale est 4. L'enchérisseur nomme l'atout et le rang et la valeur de la carte dont le détenteur sera son partenaire. Le premier joueur autre que l'enchérisseur qui peut légalement jouer la carte appelée doit le faire et devient le partenaire. Si deux copies de la carte appelée sont détenues par deux joueurs autres que l'enchérisseur, le détenteur de la deuxième copie n'a aucune restriction sur le moment de la jouer, autre que l'exigence normale de suivre l'enseigne. Si aucun joueur autre que l'enchérisseur n'a la carte appelée — par exemple l'enchérisseur a une copie et l'autre est dans le talon — l'enchérisseur joue seul contre une équipe de 4. Aucun détail de comptage n'est donné — vraisemblablement un score cumulé est conservé pour chaque joueur, les joueurs de l'équipe de l'enchérisseur marquant plus ou moins la valeur de l'enchère et les membres de l'équipe adverse marquant un point pour chaque levée prise par leur équipe.
 
-Nate Reagan from Iowa describes a 5-player game with 30 cards - a standard 24-card Euchre deck to which four 8's and the 7's of hearts and spades are added. The possible bids are 3 (minimum), 4, 5, pepper, big pepper, and dealer must bid at least 3 if the other four players pass. The final bidder names trumps and then the other four players 'vote' on whether to drop out. If at least three want to drop out the hand is not played and the bidder automatically wins. If at least two vote to play, the hand will be played and all must take part, including any who wanted to drop out. If the bid was big pepper the bidder plays alone against a team of four. In all other cases the bidder calls a card they do not hold, which must not be a bower. The holder of the called card is the bidder's partner, but their identity will only be revealed when the called card is played, which can be at any time subject to the normal rules of following suit. The score for big pepper is +/-12. In other cases each member of the bidding team scores the amount bid if they succeed and lose that amount if they fail. Their opponents each score 1 point for each trick that their team wins, if any, or lose the bid amount if they lose every trick. 
+Nate Reagan de l'Iowa décrit un jeu à 5 joueurs avec 30 cartes — un jeu standard d'Euchre de 24 cartes auquel on a ajouté quatre 8 et les 7 de cœurs et de piques. Les enchères possibles sont 3 (minimum), 4, 5, pepper, big pepper, et le donneur doit enchérir au moins 3 si les quatre autres joueurs passent. L'enchérisseur final nomme l'atout puis les quatre autres joueurs « votent » pour savoir s'ils se retirent. Si au moins trois veulent se retirer, la donne n'est pas jouée et l'enchérisseur gagne automatiquement. Si au moins deux votent pour jouer, la donne sera jouée et tous doivent participer, y compris ceux qui voulaient se retirer. Si l'enchère était big pepper, l'enchérisseur joue seul contre une équipe de quatre. Dans tous les autres cas, l'enchérisseur appelle une carte qu'il ne détient pas, qui ne doit pas être un bower. Le détenteur de la carte appelée est le partenaire de l'enchérisseur, mais son identité ne sera révélée que lorsque la carte appelée est jouée, ce qui peut arriver à tout moment selon les règles normales de suivi d'enseigne. Le score pour big pepper est +/-12. Dans les autres cas, chaque membre de l'équipe d'enchérisseurs marque le montant de l'enchère en cas de succès et perd ce montant en cas d'échec. Leurs adversaires marquent chacun 1 point pour chaque levée gagnée par leur équipe, s'il y en a, ou perdent le montant de l'enchère s'ils perdent toutes les levées.
 
-'Widebeard' describes a 6-player Pepper game between two teams of 3, each player sitting between two opponents. A double deck of 50 cards is used - two Euchre decks plus two jokers ranking as trumps between the left bowers and the aces. Eight cards each are dealt plus a face down kitty of 2 cards. The minimum bid is 4 and the dealer must bid 4 if the first five players pass. The final bidder takes the two kitty cards without showing them, discards any two cards face down and then names the trump suit or no trump. There is no card exchange or surrender. The bidding side score for the tricks they take if the bid is successful or -5 if they fail. The opposing team score 1 for each trick they take or -5 if they take no tricks. In 'no trump' the jokers are the highest cards but cannot be led (unless the player on lead has no other cards) and can only be played to a trick if the player cannot follow suit.
+« Widebeard » décrit un jeu de Pepper à 6 joueurs entre deux équipes de 3, chaque joueur étant assis entre deux adversaires. Un jeu double de 50 cartes est utilisé — deux jeux d'Euchre plus deux jokers classés comme atouts entre les left bowers et les as. Huit cartes chacun sont distribuées plus un talon face contre le bas de 2 cartes. L'enchère minimale est 4 et le donneur doit enchérir 4 si les cinq premiers joueurs passent. L'enchérisseur final prend les deux cartes du talon sans les montrer, se défausse de deux cartes face contre le bas puis nomme l'enseigne atout ou sans atout. Il n'y a pas d'échange de cartes ni d'abandon. Le côté d'enchérisseurs marque pour les levées gagnées si l'enchère réussit ou -5 en cas d'échec. L'équipe adverse marque 1 pour chaque levée gagnée ou -5 si elle ne gagne aucune levée. En « sans atout », les jokers sont les cartes les plus élevées mais ne peuvent pas être menés (sauf si le joueur qui mène n'a pas d'autres cartes) et ne peuvent être joués à une levée que si le joueur ne peut pas suivre l'enseigne.
 
-Rob Johnston, from Ontario, describes a 4-player partnership game using a double deck of 44 cards (all cards duplicated except the 9's). The players receive 10 cards each and there is a kitty of 4 cards which is exposed and taken by the high bidder who then discards 4 cards face down. The minimum bid is 3 and bids include the proposed trump suit as well as the number of tricks (3 clubs, 5 diamonds, etc.). As usual there is just one round of bidding, and each bid must be for more tricks than the previous bid (there is no hierarchy of suits). The bidders score for all the tricks they take if the bid succeeds but lose the amount of the bid if it fails. The opposing team score 1 point for each trick they take, subject to a maximum cumulative score of 42. The target score is 43 and a team must bid to win.
+Rob Johnston, de l'Ontario, décrit un jeu d'équipe à 4 joueurs utilisant un jeu double de 44 cartes (toutes les cartes dupliquées sauf les 9). Les joueurs reçoivent 10 cartes chacun et il y a un talon de 4 cartes qui est exposé et pris par l'enchérisseur le plus élevé qui se défausse ensuite de 4 cartes face contre le bas. L'enchère minimale est 3 et les enchères incluent l'enseigne atout proposée ainsi que le nombre de levées (3 trèfles, 5 carreaux, etc.). Comme d'habitude, il n'y a qu'un seul tour d'enchères, et chaque enchère doit être pour plus de levées que l'enchère précédente (il n'y a pas de hiérarchie d'enseignes). Les enchérisseurs marquent pour toutes les levées gagnées si l'enchère réussit mais perdent le montant de l'enchère si elle échoue. L'équipe adverse marque 1 point pour chaque levée gagnée, avec un score cumulé maximum de 42. Le score cible est 43 et une équipe doit enchérir pour gagner.
 
-## Software
+## Logiciel
 
-You can download a freeware Pepper / Bid Euchre program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme gratuit de Pepper / Bid Euchre sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-## Contributors
+## Contributeurs
 
-Bill Carlson, Carol Collins, Jeremy Condit, John Dilley, Mike Dykhoff, Wendell Harmon, Rob Johnston, Craig Mackaman, Kira March, Jon Melton, David Miller, Ruth Norton, Ricky Olson, Nate Reagan, John Spiegel, 'widebeard'.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Euchre Group > Pepper
+Bill Carlson, Carol Collins, Jeremy Condit, John Dilley, Mike Dykhoff, Wendell Harmon, Rob Johnston, Craig Mackaman, Kira March, Jon Melton, David Miller, Ruth Norton, Ricky Olson, Nate Reagan, John Spiegel, « widebeard ».

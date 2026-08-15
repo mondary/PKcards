@@ -4,53 +4,54 @@
 **Nombre de cartes :** 48
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** How to play the Catalan card game Botifarra for four players using a Spanish-suited 48-card pack in which the 9 is the highest card.
+**But :** Comment jouer au jeu de cartes catalan Botifarra pour quatre joueurs avec un jeu de 48 cartes à couleurs espagnoles dans lequel le 9 est la carte la plus haute.
 
 ---
 
 - Introduction
 
-- The aim
+- Le but
 
-- The deck
+- Le jeu de cartes
 
 ## Introduction
 
-Botifarra is played in [Catalonia](https://www.gencat.cat/),
-the Northeast country of Spain. It has very strict playing rules and a
-scoring method that makes it very interesting for deductive players and
-allows usually worthless cards to have an important role in the results.
-It is closely related to Manilla from which it takes the mechanics,
-but the rules enforce logical play and minimise the effects of luck.
+La Botifarra se joue en [Catalogne](https://www.gencat.cat/),
+région du nord-est de l'Espagne. Elle a des règles de jeu très strictes et
+une méthode de comptage qui la rend très intéressante pour les joueurs déductifs
+et permet à des cartes habituellement sans valeur de jouer un rôle important
+dans les résultats.
+Elle est étroitement apparentée à la Manille dont elle reprend la mécanique,
+mais ses règles imposent un jeu logique et minimisent les effets de la chance.
 
-This page is based on contributions by Enric
-Capo and Sefa Costa (who
-also drew the cards).
+Cette page est basée sur des contributions de Enric
+Capo et Sefa Costa (qui
+a également dessiné les cartes).
 
-This page is also available in Catalan. 
+Cette page est également disponible en catalan.
 
-## The Aim
+## Le but
 
-Botifarra is a point trick game for four players in fixed partnerships;
-as usual you sit opposite your partner. Only the points in the tricks are
-important, not the number of tricks, although a trick also has a value
-by itself.
+La Botifarra est un jeu de levées comptées pour quatre joueurs en équipes
+fixes ; comme d'habitude, vous êtes assis en face de votre partenaire. Seuls
+les points dans les levées comptent, pas le nombre de levées, bien qu'une
+levée ait aussi une valeur en soi.
 
-The game is usually played until one team reaches 101 points or more,
-and this requires several hands. As in other four-player games, it is a
-widespread practice to play three games, so that each player partners each
-of the three others for one game.
+Le jeu se joue généralement jusqu'à ce qu'une équipe atteigne 101 points ou
+plus, ce qui nécessite plusieurs donnes. Comme dans les autres jeux à quatre,
+il est courant de jouer trois parties, afin que chaque joueur fasse équipe avec
+chacun des trois autres pendant une partie.
 
-## The Deck
+## Le jeu de cartes
 
-Botifarra is played with a standard Spanish 48 card deck of four suits: coins (oros), cups (copes), swords (espases) and batons (bastons) running from 1 to 12.
+La Botifarra se joue avec un jeu espagnol standard de 48 cartes à quatre couleurs : pièces (oros), coupes (copas), épées (espadas) et bâtons (bastos) allant de 1 à 12.
 
-In each suit the 10 ![sota](../images/spanish/ba10.gif)
-is called Sota (Jack), the 11 ![cavall](../images/spanish/co11.gif)Cavall (Horse) and the 12 ![rei](../images/spanish/or12.gif)Rei (King).
+Dans chaque couleur, le 10 ![sota](../images/spanish/ba10.gif)
+est appelé Sota (Valet), le 11 ![cavall](../images/spanish/co11.gif)Cavall (Cavalier) et le 12 ![rei](../images/spanish/or12.gif)Rei (Roi).
 
-## Card values and scoring
+## Valeur des cartes et comptage
 
-The card order from highest to lowest is 9, Ace, King, Horse, Jack, 8, 7, 6, 5, 4, 3, 2. In this game the 9 is called Manilla. 
+L'ordre des cartes, de la plus haute à la plus basse, est : 9, As, Roi, Cavalier, Valet, 8, 7, 6, 5, 4, 3, 2. Dans ce jeu, le 9 est appelé Manilla.
 
 ![manilla](../images/spanish/es09.gif)
 ![1](../images/spanish/es01.gif)
@@ -65,140 +66,122 @@ The card order from highest to lowest is 9, Ace, King, Horse, Jack, 8, 7, 6, 5, 
 ![3](../images/spanish/es03.gif)
 ![2](../images/spanish/es02.gif)
 
-The 9 is worth 5 points, Ace 4 points, King 3 points, Horse 2 points, Jack 1 point. Each trick is worth also 1 point. That makes a total of 72 points in a hand. A team that makes more than 36 points scores the excess towards the game. This score can be doubled in some cases as will be explained later. Example: if you take 45 card points in a hand you would score 9 points towards the game, 18 if doubled, 36 if redoubled, etc.
+Le 9 vaut 5 points, l'As 4 points, le Roi 3 points, le Cavalier 2 points, le Valet 1 point. Chaque levée vaut également 1 point. Cela donne un total de 72 points par donne. Une équipe qui fait plus de 36 points marque l'excédent pour la partie. Ce score peut être doublé dans certains cas comme expliqué plus loin. Exemple : si vous prenez 45 points de cartes dans une donne, vous marquez 9 points pour la partie, 18 si doublé, 36 si redoublé, etc.
 
-## The deal
+## La donne
 
-The dealer deals the whole deck counterclockwise, four cards at a time,
-beginning with the player to his right. After each hand the turn to deal
-passes to the right. Usually the dealer's right hand opponent shuffles
-and the left hand opponent cuts.
+Le donneur distribue tout le jeu dans le sens antihoraire, quatre cartes à la fois, en commençant par le joueur à sa droite. Après chaque donne, le tour de donne passe à la droite. Habituellement, l'adversaire de droite du donneur mélange et l'adversaire de gauche coupe.
 
-## Selecting trumps
+## Choix des atouts
 
-The dealer selects trumps simply by choosing the suit he wants, or he selects Botifarra
-(no trumps), or he passes this right to his partner. If the dealer passes, the partner must choose a suit or No trumps - he cannot pass the right to choose.
+Le donneur choisit les atouts simplement en choisissant la couleur qu'il veut, ou il choisit Botifarra (sans atout), ou il passe ce droit à son partenaire. Si le donneur passe, le partenaire doit choisir une couleur ou sans atout — il ne peut pas passer le droit de choisir.
 
-After trumps are selected, either of the members of the other team,
-the defenders, can double (Contrar) the hand if they want to. Either
-of the members of the dealer's team can, if doubled, redouble (Recontrar)
-the hand. Again, and last, the defenders can re-redouble (Sant Vicens).
+Une fois les atouts choisis, l'un ou l'autre des membres de l'équipe adverse, les défenseurs, peut doubler (Contrar) la donne s'ils le souhaitent. L'un ou l'autre des membres de l'équipe du donneur peut, s'il y a eu un double, redoubler (Recontrar) la donne. Enfin, les défenseurs peuvent à nouveau redoubler (Sant Vicens).
 
-The score for Botifarra (no trump) games is doubled in any case, and Contrar,
-Recontrar and Sant Vicens can double it further, so there could be up to 4
-doubles in total. 
+Le score pour les parties Botifarra (sans atout) est doublé dans tous les cas, et Contrar, Recontrar et Sant Vicens peuvent le doubler encore, pour un total possible de 4 doubles.
 
-When doubling, the players speak in anticlockwise rotation. So the order in which the players have the opportunity to double is:
+Lors d'un double, les joueurs parlent dans le sens antihoraire. L'ordre dans lequel les joueurs ont l'opportunité de doubler est :
 
-- **Contrar:** first the player to the right of the one who chose trumps; then the player to the trump maker's left;
+- **Contrar :** d'abord le joueur à la droite de celui qui a choisi les atouts ; puis le joueur à la gauche du choisisseur d'atout ;
 
-- **Recontrar:** first player to the doubler's right; then the player to the doubler's left;
+- **Recontrar :** d'abord le joueur à la droite du doubleur ; puis le joueur à la gauche du doubleur ;
 
-- **Sant Vicens:** first the to the redoubler's right; then the player to the redoubler's left.
+- **Sant Vicens :** d'abord le joueur à la droite du redoubleur ; puis le joueur à la gauche du redoubleur.
 
-## Playing
+## Jeu
 
-Botifarra is played anticlockwise. The player to the right of the dealer
-leads to the first trick, and the winner of each trick begins the next
-one. The completed tricks are stored face down in front of one of the members
-of each team. Completed tricks cannot be consulted, except for the most
-recent one.
+La Botifarra se joue dans le sens antihoraire. Le joueur à la droite du donneur mène la première levée, et le gagnant de chaque levée commence la suivante. Les levées terminées sont stockées face cachée devant l'un des membres de chaque équipe. Les levées terminées ne peuvent pas être consultées, sauf la plus récente.
 
-Each trick is won by the highest trump played to it, or if no trump
-is played, by the highest card of the suit led.
+Chaque levée est gagnée par le plus haut atout joué, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur menée.
 
-## The rules of play
+## Règles de jeu
 
-Any card may be led. When playing to a trick, the rules, in decreasing
-order of precedence, are:
+N'importe quelle carte peut être menée. Lorsqu'on joue à une levée, les règles, par ordre de priorité décroissant, sont :
 
-- You must play a card of the suit led if you have one;
+- Vous devez jouer une carte de la couleur menée si vous en avez une ;
 
-- If your partner is **not** already winning the trick, you must play a card that beats the cards already played to the trick, if you can. This includes trumping or overtrumping if you can not follow suit. Obviously, the second player never has a winning partner, so he must always try to win.
+- Si votre partenaire ne gagne **pas** déjà la levée, vous devez jouer une carte qui bat les cartes déjà jouées, si vous le pouvez. Cela inclut l'atout ou le sur-atout si vous ne pouvez pas suivre la couleur. Évidemment, le deuxième joueur n'a jamais de partenaire gagnant, il doit donc toujours essayer de gagner.
 
-- If you play a card which does not beat all those already played to the trick, either because you cannot, or because your partner is winning and you do not want to beat your partner's card, your choice of play is restricted as follows:
+- Si vous jouez une carte qui ne bat pas toutes celles déjà jouées, soit parce que vous ne le pouvez pas, soit parce que votre partenaire gagne et que vous ne voulez pas battre sa carte, votre choix est restreint comme suit :
 
-- if your partner is winning you must play either a counting card (10, 11, 12, 1 or 9) or the lowest card you have in the suit you play;
+- si votre partenaire gagne, vous devez jouer soit une carte comptant (10, 11, 12, 1 ou 9) soit la carte la plus basse que vous avez dans la couleur jouée ;
 
-- if the opponents are winning you must play the lowest card you have of the suit you play. Exception: if you are playing second to the trick and you cannot follow suit, you are allowed to play a counting card (in the hope that your partner will win the trick).
+- si les adversaires gagnent, vous devez jouer la carte la plus basse que vous avez dans la couleur jouée. Exception : si vous jouez en deuxième à la levée et que vous ne pouvez pas suivre, vous êtes autorisé à jouer une carte comptant (dans l'espoir que votre partenaire gagnera la levée).
 
-Rule 3 is what makes deduction interesting and should be carefully understood. Playing your lowest card when you are not winning the trick or giving points to your partner is natural, but in this game it is also mandatory. You can not "bluff" by playing a different card, and the other players can make deductions about your remaining cards from the fact that you had to play your lowest card.
+La règle 3 est ce qui rend la déduction intéressante et doit être bien comprise. Jouer votre carte la plus basse quand vous ne gagnez pas la levée ou que vous donnez des points à votre partenaire est naturel, mais dans ce jeu c'est aussi obligatoire. Vous ne pouvez pas « bluffer » en jouant une autre carte, et les autres joueurs peuvent faire des déductions sur vos cartes restantes du fait que vous avez dû jouer votre carte la plus basse.
 
-According to Parlett notation, and with the addition of:
+Selon la notation de Parlett, et avec l'addition de :
 
-- x0 meaning the lowest of suit x, and
+- x0 signifiant la carte la plus basse de la couleur x, et
 
-- xv meaning a value card (10, 11, 12, 1 or 9) of suit x,
+- xv signifiant une carte comptant (10, 11, 12, 1 ou 9) de la couleur x,
 
-the rules can be formulated as follows: 
+les règles peuvent être formulées ainsi :
 
-- If your partner is winning: Ff0fv , Tt0tvr0rv
+- Si votre partenaire gagne : Ff0fv , Tt0tvr0rv
 
-- If your partner is not winning:
+- Si votre partenaire ne gagne pas :
 
-- 2nd player: F , f0 , T , r0rv
+- 2e joueur : F , f0 , T , r0rv
 
-- 3rd & 4th players: F , f0 , T , t0r0
+- 3e et 4e joueurs : F , f0 , T , t0r0
 
-## Variants
+## Variantes
 
-### Eastern and western versions
+### Versions orientale et occidentale
 
-Two main forms of the game exist, the western one and the eastern one. The version described above is the eastern one, which has stricter rules of play. In the western form, only rules 1 and 2 apply, but not 3. So in the western form, if your partner is currently winning the trick or the opponents are winning and you are unable to beat their cards, you are under no restrictions except that of following suit if possible.
+Il existe deux formes principales du jeu, la forme occidentale et la forme orientale. La version décrite ci-dessus est la version orientale, qui a des règles de jeu plus strictes. Dans la forme occidentale, seules les règles 1 et 2 s'appliquent, mais pas la 3. Ainsi, dans la forme occidentale, si votre partenaire gagne actuellement la levée ou si les adversaires gagnent et que vous ne pouvez pas battre leurs cartes, vous n'êtes soumis à aucune restriction sauf celle de suivre la couleur si possible.
 
-This 'small' difference leads in fact to two different styles of playing. The eastern version allows greater scope for deduction, so it could be called more scientific. The western one has greater freedom, so it allows more imaginative playing.
+Cette « petite » différence conduit en fait à deux styles de jeu différents. La version orientale permet une plus grande portée pour la déduction, on pourrait l'appeler plus scientifique. La version occidentale offre plus de liberté, elle permet un jeu plus imaginatif.
 
-Each version has passionate advocates, and both versions have their own attraction. It is only important that the players should agree which version of the rules is in force before starting a game.
+Chaque version a des défenseurs passionnés, et les deux ont leur attrait. Il est seulement important que les joueurs se mettent d'accord sur la version des règles en vigueur avant de commencer une partie.
 
-For beginners we would suggest the eastern version, because if you start by learning the more restrictives rule it will be relatively easy to relax them later if desired. It would be more difficult to introduce the restrictions later, having first learned the game without them. 
+Pour les débutants, nous suggérons la version orientale, car si vous commencez par apprendre la règle la plus restrictive, il sera relativement facile de les assouplir plus tard si souhaité. Il serait plus difficile d'introduire les restrictions plus tard, après avoir d'abord appris le jeu sans.
 
-### Variations within the eastern rules of play
+### Variantes dans les règles orientales du jeu
 
-There is a widespread variation of of the eastern version in which the exception to rule 3.2 applies also when following suit. So as second player you can play a counting card of the suit led in the hope that your partner in fourth position will win. The Parlett notation for the second player would then be F , f0fv , T , r0rv.
+Il existe une variante répandue de la version orientale dans laquelle l'exception à la règle 3.2 s'applique également en suivant la couleur. Ainsi, en deuxième position, vous pouvez jouer une carte comptant de la couleur menée en espérant que votre partenaire en quatrième position gagnera. La notation de Parlett pour le deuxième joueur serait alors F , f0fv , T , r0rv.
 
-Another variant of the eastern rules is occasionally played. If you are the third player and your partner is winning, you may play a counting card instead of your lowest one, provided that your partner's card is "safe" - that is, all the higher cards should have been played previously or you must hold them. This version is played only in a small area, and tends to cause disputes with players familiar with other versions. Also players of this version do not entirely agree when a lead can be counted as "safe". Therefore this variant is not recommended. 
+Une autre variante des règles orientales est parfois jouée. Si vous êtes le troisième joueur et que votre partenaire gagne, vous pouvez jouer une carte comptant au lieu de la plus basse, à condition que la carte de votre partenaire soit « sûre » — c'est-à-dire que toutes les cartes supérieures ont dû être jouées précédemment ou que vous les détenez. Cette version n'est jouée que dans une petite région et a tendance à provoquer des désaccords avec des joueurs habitués à d'autres versions. De plus, les joueurs de cette version ne s'accordent pas entièrement sur le moment où une carte menée peut être considérée comme « sûre ». Cette variante n'est donc pas recommandée.
 
-### Doubling variations
+### Variantes de doublement
 
-The double score for Botifarra seems to be widely used, but the multiples used for the other "doubles" (Contrar, Recontrar, Sant Vicens) can be almost any reasonable combination. Instead of the 2-4-8 scheme, 2-3-5 or 2-4-10 can be used. The values you use should be agreed before playing. They do not modify the way to play, they just change how good your cards need to be to double as it can be more or less dangerous than in the normal scheme.
+Le double de score pour Botifarra semble être largement utilisé, mais les multiplicateurs utilisés pour les autres « doubles » (Contrar, Recontrar, Sant Vicens) peuvent être presque n'importe quelle combinaison raisonnable. Au lieu du système 2-4-8, on peut utiliser 2-3-5 ou 2-4-10. Les valeurs utilisées doivent être convenues avant de jouer. Elles ne modifient pas la façon de jouer, elles changent seulement la qualité nécessaire de vos cartes pour doubler, car cela peut être plus ou moins dangereux que dans le système normal.
 
-### Scoring variation
+### Variante de comptage
 
-When playing a series of games against the same opponents, some players carry over any points in excess of 101 to begin the following game. This discourages a losing team from doubling without good cards just because their opponents are very near to 101 and likely to win in any case.
+Lorsqu'on joue une série de parties contre les mêmes adversaires, certains joueurs reportent les points excédentaires au-dessus de 101 pour commencer la partie suivante. Cela décourage une équipe perdante de doubler sans de bonnes cartes simplement parce que ses adversaires sont très près de 101 et susceptibles de gagner de toute façon.
 
-**Example.** The score is 95-40. The second team double because they are unlikely to overtake the first team before the first team reach 101 unless a lucky hand occurs. In fact they lose by 10 points (46-36), so under this variation the game score becomes (95+10*2) 115-40 and the game ends. The new game will begin with a score 14-0. Without the double the new game would have begun at 4-0.
+**Exemple.** Le score est de 95-40. La deuxième équipe double parce qu'il est peu probable qu'elle rattrape la première équipe avant que celle-ci n'atteigne 101. En fait, elle perd de 10 points (46-36), donc sous cette variante le score de la partie devient (95+10*2) 115-40 et la partie se termine. La nouvelle partie commencera avec un score de 14-0. Sans le double, la nouvelle partie aurait commencé à 4-0.
 
-## Championships
+## Championnats
 
-In official championships in Catalonia a duplicate mode of play is used, in which the same hands are played in all the tables, each team playing 4 hands against each other team.
+Lors des championnats officiels en Catalogne, un mode de jeu en duplicate est utilisé, dans lequel les mêmes donnes sont jouées sur toutes les tables, chaque équipe jouant 4 donnes contre chaque autre équipe.
 
-Each hand is therefore played several times over, with a different pairs holding the same North-South cards and East-West cards on each occasion. The overall score is worked out by comparing the results of all the teams who held the N-S cards, and separately comparing the results obtained with the E-W cards. The pair who achieved the best result as N-S with that particular deal scores 2 points and the pair who achieved the worst result scores 1 point. All the other pairs who played the same cards as N-S receive a score between 1 and 2, in proportion to their result. The formula for scoring is 1 + (points - minimum) / (maximum - minimum). The E-W results are also compared and scored in the same way. 
+Chaque donne est donc jouée plusieurs fois, avec des paires différentes tenant les mêmes cartes Nord-Sud et Est-Ouest à chaque occasion. Le score global est calculé en comparant les résultats de toutes les équipes qui ont tenu les cartes N-S, et en comparant séparément les résultats obtenus avec les cartes E-O. La paire qui a obtenu le meilleur résultat en N-S avec cette donne particulière marque 2 points et la paire qui a obtenu le pire résultat marque 1 point. Toutes les autres paires qui ont joué les mêmes cartes en N-S reçoivent un score entre 1 et 2, proportionnel à leur résultat. La formule de comptage est 1 + (points - minimum) / (maximum - minimum). Les résultats E-O sont également comparés et comptés de la même manière.
 
-A team that breaks the rules of play is penalised with a score of 0 for that hand. The opposing team receives the average of score of the other teams that played that hand with the same cards. 
+Une équipe qui enfreint les règles de jeu est pénalisée d'un score de 0 pour cette donne. L'équipe adverse reçoit la moyenne des scores des autres équipes qui ont joué cette donne avec les mêmes cartes.
 
-Doubles are only scored by the team that announces them, so a Botifarra or Double only scores double to the team that makes it, and a doubled Botifarra scores double - not quadruple - to both sides. Redouble is only informational and does not affect the score. Re-redouble is not allowed.
+Les doubles ne sont comptés que par l'équipe qui les annonce, donc une Botifarra ou un Double ne compte double que pour l'équipe qui le réalise, et une Botifarra doublée compte double — et non quadruple — pour les deux côtés. Le redouble est purement informatif et n'affecte pas le score. Le re-redouble n'est pas autorisé.
 
-The following table is an example from a championship with 6 tables. It shows the results for one particular deal in which E-W made trumps. It can be seen than team K chose Botifarra, and that teams C and F doubled.
+Le tableau suivant est un exemple d'un championnat avec 6 tables. Il montre les résultats pour une donne particulière dans laquelle E-O a choisi les atouts. On peut voir que l'équipe K a choisi Botifarra, et que les équipes C et F ont doublé.
 
-| N-S | E-W | Hand score | Botifarra | Double | N/S | E/W | Final scoreN-S | Final scoreE-W |
-| Team A | Team H | 37-35 | . | . | +1 | -1 | 1.77 | 1.44 |
-| Team B | Team I | 35-37 | . | . | -1 | +1 | 1.68 | 1.56 |
-| Team C | Team J | 28-44 | . | X | -16 | +8 | 1.00 | 2.00 |
-| Team D | Team K | 40-32 | B | . | +4 | -8 | 1.91 | 1.00 |
-| Team E | Team L | 42-30 | . | . | +6 | -6 | 2.00 | 1.13 |
-| Team F | Team M | 30-42 | . | X | -12 | +6 | 1.18 | 1.88 |
+| N-S | E-O | Score de la donne | Botifarra | Double | N/S | E/O | Score final N-S | Score final E-O |
+| Équipe A | Équipe H | 37-35 | . | . | +1 | -1 | 1,77 | 1,44 |
+| Équipe B | Équipe I | 35-37 | . | . | -1 | +1 | 1,68 | 1,56 |
+| Équipe C | Équipe J | 28-44 | . | X | -16 | +8 | 1,00 | 2,00 |
+| Équipe D | Équipe K | 40-32 | B | . | +4 | -8 | 1,91 | 1,00 |
+| Équipe E | Équipe L | 42-30 | . | . | +6 | -6 | 2,00 | 1,13 |
+| Équipe F | Équipe M | 30-42 | . | X | -12 | +6 | 1,18 | 1,88 |
 
-Example of computing final score. The best result for N-S is +6 and the worst is -16. Team A achieved +1 so their score is 1 + (1 - (-16)) / (6 - (-16)) = 1 + 17/22 = 1.77
+Exemple de calcul du score final. Le meilleur résultat pour N-S est +6 et le pire est -16. L'équipe A a obtenu +1, son score est donc 1 + (1 - (-16)) / (6 - (-16)) = 1 + 17/22 = 1,77
 
-## The computer program
+## Le programme informatique
 
-The file buti.zip contains buti.exe, a Visual Basic v3.0 program which plays using the oriental rules. You will need to obtain from elsewhere the file vbrun300.dll, if you do not already have one. The program is written in Catalan, but
-you should not have any difficulty as the few messages are clear enough.
+Le fichier buti.zip contient buti.exe, un programme en Visual Basic v3.0 qui joue avec les règles orientales. Vous devrez obtenir le fichier vbrun300.dll si vous ne l'avez pas déjà. Le programme est en catalan, mais vous ne devriez avoir aucune difficulté car les quelques messages sont assez clairs.
 
-We have also a LAN version for up to four human players.
+Nous avons également une version réseau pour jusqu'à quatre joueurs humains.
 
-## Other web sites
+## Autres sites web
 
-At [butinet.cat](https://www.butinet.cat) you can play Botifarra on line. 
-
-Home Page > Classified Index > Trick Taking Games > Manille Group > Botifarra
+Sur [butinet.cat](https://www.butinet.cat), vous pouvez jouer à la Botifarra en ligne.

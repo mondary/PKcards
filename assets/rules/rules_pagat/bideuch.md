@@ -2,179 +2,172 @@
 
 **Difficulté :** —
 **Type :** Euchre, Plis
-**But :** In which trumps are made by the player who commits their partnership to winning the largest number of tricks.
+**But :** Dans lequel l'atout est choisi par le joueur qui engage son équipe à gagner le plus grand nombre de levées.
 
 ---
 
 - Introduction
 
-- General Rules
+- Règles générales
 
-- Specific versions
+- Versions spécifiques
 
 ## Introduction
 
-Bid Euchre is the name given to a group of games played in North America which are based on Euchre,
-but with the trump suit chosen by whichever player is prepared to contract to win the largest number of tricks.
+Le Bid Euchre est le nom donné à un ensemble de jeux joués en Amérique du Nord qui sont basés sur l'Euchre, mais avec la couleur d'atout choisie par le joueur prêt à s'engager à gagner le plus grand nombre de levées.
 
-There is no standardization of the rules; most of the variation concerns the number of cards in the deck (quite often a double deck is used), and the exact bids allowed.
+Il n'y a pas de standardisation des règles ; la plupart des variations concernent le nombre de cartes dans le jeu (un double jeu est souvent utilisé) et les enchères exactes autorisées.
 
-I will give the rules which are common to all versions of the game, followed by details of several specific versions. 
+Je donnerai les règles communes à toutes les versions du jeu, suivies des détails de plusieurs versions spécifiques.
 
-## General Rules
+## Règles générales
 
-### Players
+### Joueurs
 
-Most often there are four players in fixed partnerships, partners sitting opposite.
+Le plus souvent, il y a quatre joueurs en équipes fixes, les partenaires étant assis en face.
 
-### Rank of Cards
+### Hiérarchie des cartes
 
-As in Euchre, the highest trump is the jack of the trump suit (right bower), then the other jack of the same colour (left bower), then ace, king, queen, 10, 9. The other suits ranks ace (high), king, queen, jack, 10, 9 - except that the suit which is the same colour of trumps has no jack. When the bid is 'no trumps', all four suits rank A-K-Q-J-10-9. In some versions of Bid Euchre, the nines, or the nines and tens are omitted from the deck.
+Comme à l'Euchre, le plus haut atout est le Valet de la couleur d'atout (right bower), puis l'autre Valet de la même couleur (left bower), puis As, Roi, Dame, 10, 9. Les autres couleurs sont classées As (haut), Roi, Dame, Valet, 10, 9 — sauf que la couleur de la même couleur que l'atout n'a pas de Valet. Lorsque l'enchère est « sans atout », les quatre couleurs sont classées A-R-D-V-10-9. Dans certaines versions du Bid Euchre, les 9, ou les 9 et les 10 sont retirés du jeu.
 
-Usually a double deck is used - containing two of each card. When two identical cards are played to the same trick, the first to be played beats the second.
+On utilise généralement un double jeu — contenant deux exemplaires de chaque carte. Lorsque deux cartes identiques sont jouées à la même levée, la première jouée bat la seconde.
 
-### Deal
+### La donne
 
-All the cards are dealt out equally to the players.
+Toutes les cartes sont distribuées équitablement aux joueurs.
 
-### Bidding
+### Les enchères
 
-Each player has just one opportunity to bid, starting with the player to the left of the dealer, going around the table clockwise, and ending with the dealer. A bid is a number of tricks (one or more), which the bidding side contracts to win if they are allowed to chose trumps, and a proposed trump suit or 'no trump' - for example '4 spades' or '5 no trump'. At your turn you must either pass or bid a larger number of tricks than the previous bid if any. There is no rank among the suits, so it is not possible to outbid a bid in one suit with an equal number of tricks in another suit (this is **unlike** 500 or Bridge).
+Chaque joueur n'a qu'une seule opportunité d'enchérir, en commençant par le joueur à la gauche du donneur, dans le sens horaire autour de la table, et en terminant par le donneur. Une enchère est un nombre de levées (un ou plus), que le côté enchérisseur s'engage à gagner s'il est autorisé à choisir l'atout, et une couleur d'atout proposée ou « sans atout » — par exemple « 4 piques » ou « 5 sans atout ». À votre tour, vous devez soit passer soit enchérir un nombre de levées supérieur à l'enchère précédente s'il y en a une. Il n'y a pas de hiérarchie entre les couleurs, il n'est donc pas possible de sur-enchérir une enchère dans une couleur avec un nombre égal de levées dans une autre couleur (ce qui est **contrairement** au 500 ou au Bridge).
 
-In some versions there are additional bids to play alone; in which case your partner puts his or her cards face down and takes no part in the play. Sometimes these lone bids allow you to exchange some cards with partner. In this case the bidder discards the relevant number of cards face down and the bidder's partner passes an equal number of cards face down to the bidder to replace them. Both players must decide which cards to pass before seeing the cards passed by the other.
+Dans certaines versions, il y a des enchères supplémentaires pour jouer seul ; dans ce cas, le partenaire pose ses cartes face cachée et ne participe pas au jeu. Parfois, ces enchères en solo permettent d'échanger des cartes avec le partenaire. Dans ce cas, l'enchérisseur écarte le nombre correspondant de cartes face cachée et le partenaire de l'enchérisseur passe le même nombre de cartes face cachée à l'enchérisseur pour les remplacer. Les deux joueurs doivent décider quelles cartes passer avant de voir les cartes passées par l'autre.
 
-### Play
+### Le jeu
 
-The highest bidder is declarer and the trump suit is the suit named in the bid. The high bidder leads to the first trick. The rules of play are as in Euchre - you must follow suit, and if void of the suit led you may trump or discard at will. The left bower(s) count for all purposes as belonging to the trump suit. In double deck versions the first played of two equal cards beats the second.
+Le plus haut enchérisseur est le déclarant et la couleur d'atout est celle nommée dans l'enchère. Le plus haut enchérisseur mène la première levée. Les règles du jeu sont les mêmes qu'à l'Euchre — vous devez suivre la couleur, et si vous n'avez pas de la couleur menée vous pouvez atouter ou écarter à volonté. Le(s) left bower(s) comptent dans tous les cas comme appartenant à la couleur d'atout. Dans les versions à double jeu, la première de deux cartes égales bat la seconde.
 
-### Scoring
+### Comptage des points
 
-If the bidding side win at least as many tricks as they bid, each side scores one point for each trick they won. 
+Si le côté enchérisseur gagne au moins autant de levées qu'il a enchéri, chaque côté marque un point par levée gagnée.
 
-If the bidding side fail to make as many tricks as they bid they are **set**, and lose a number of points equal to the number of tricks they bid. The other side still score one point for each trick they won. It is possible for a team's overall score to be negative.
+Si le côté enchérisseur échoue à gagner autant de levées qu'il a enchéri, il est **sanctionné** (*set*), et perd un nombre de points égal au nombre de levées enchéries. L'autre côté marque toujours un point par levée gagnée. Il est possible que le score global d'une équipe soit négatif.
 
-Games are played to a target score. A team wins if at the end of a hand in which they succeed in a bid, or defeat the opponents' bid, their score is equal to or above the target. You cannot win by reaching the target by means of odd tricks made as the opponents of a successful bid. If you reach the target in this way, the game continues until either team fulfills the winning condition.
+Les parties se jouent jusqu'à un score cible. Une équipe gagne si, à la fin d'une donne où elle a réussi une enchère ou battu l'enchère de l'adversaire, son score est égal ou supérieur au score cible. On ne peut pas gagner en atteignant le score cible grâce à des levées supplémentaires remportées en tant qu'adversaire d'une enchère réussie. Si vous atteignez le score cible de cette manière, la partie continue jusqu'à ce qu'une équipe remplisse la condition de victoire.
 
-## Specific Versions of Bid Euchre
+## Versions spécifiques du Bid Euchre
 
-### Bid Euchre in Barrie, Ontario, Canada
+### Bid Euchre à Barrie, Ontario, Canada
 
-*John D'Ambrosio contributed this version from Barrie, a small city 100 km north of Toronto.*
+*John D'Ambrosio a contribué cette version de Barrie, une petite ville à 100 km au nord de Toronto.*
 
-The game is played with 2 decks using the J Q K A only, that is 32 cards in all, so each of the 4 players is dealt 8 cards.
+Le jeu se joue avec 2 jeux utilisant uniquement les V, D, R, A, soit 32 cartes au total, de sorte que chacun des 4 joueurs reçoit 8 cartes.
 
-You can bid any number of a suit or no trump up to a maximum of 8. You can also bid to take all 8 tricks alone, **calling** for 1 or 2 cards, which you exchange with your partner as described in the general rules above. A bid to play alone is higher than a bid with a partner, and a bid calling for one card is higher than a bid calling for two. The highest bid of all is **moon**, in which you have to win all 8 tricks alone using the cards you were dealt.
+Vous pouvez enchérir n'importe quel nombre dans une couleur ou sans atout jusqu'à un maximum de 8. Vous pouvez aussi enchérir pour prendre toutes les 8 levées seul, en **appelant** 1 ou 2 cartes, que vous échangez avec votre partenaire comme décrit dans les règles générales ci-dessus. Une enchère pour jouer seul est supérieure à une enchère avec partenaire, et une enchère appelant une carte est supérieure à une enchère en appelant deux. L'enchère la plus élevée de toutes est **moon**, dans laquelle vous devez gagner les 8 levées seul avec les cartes qui vous ont été distribuées.
 
-The scores for playing alone are:
+Les scores pour jouer seul sont :
 
-- call for 2 cards: 12 points
+- appel de 2 cartes : 12 points
 
-- call for 1 card: 18 points
+- appel de 1 carte : 18 points
 
-- moon: 24 points
+- moon : 24 points
 
-You win this amount if you take all 8 tricks and lose an equal amount if you fail. 
+Vous gagnez ce montant si vous prenez les 8 levées et perdez le même montant en cas d'échec.
 
-The game is 52 points. There are two versions:
+La partie se joue en 52 points. Il existe deux versions :
 
-- the winners are the first team who achieve a score of 52 or more points at the end of a hand on which they won a bid;
+- les vainqueurs sont la première équipe à atteindre 52 points ou plus à la fin d'une donne où elle a gagné une enchère ;
 
-- the winners are the first team to reach a score 52 or more points, irrespective of whether they finish by winning a bid.
+- les vainqueurs sont la première équipe à atteindre 52 points ou plus, indépendamment du fait qu'elle termine en gagnant une enchère.
 
-### Double Deck Bid Euchre from the mid-western USA
+### Bid Euchre à double jeu du mid-west américain
 
-*This version was contributed by Craig Powers*
+*Cette version a été contribué par Craig Powers*
 
-48 cards are used: A K Q J 10 9 from two decks mixed together. It is played between two teams of two, with partners facing each other.
+48 cartes sont utilisées : A R D V 10 9 de deux jeux mélangés. Il se joue entre deux équipes de deux, les partenaires se faisant face.
 
-Play and scoring are as in the general rules. Bids are any number up to 12 in a suit or 'no trump'. In this version the bidding does not end after the first round, but continues for as many rounds as necessary. The bidding ends when no one wants to bid higher, or when 12 (the maximum) is reached, or someone 'goes it alone'. Passing does not prevent you from bidding at a later turn in the auction. 
+Le jeu et le décompte suivent les règles générales. Les enchères vont de n'importe quel nombre jusqu'à 12 dans une couleur ou « sans atout ». Dans cette version, les enchères ne se terminent pas après le premier tour, mais continuent autant de tours que nécessaire. Les enchères se terminent lorsque personne ne veut enchérir plus haut, ou lorsque 12 (le maximum) est atteint, ou que quelqu'un « joue seul ». Passer n'empêche pas d'enchérir lors d'un tour ultérieur.
 
-The highest bid of all is to 'go it alone'. This terminates the bidding, and you have to take all 12 tricks by yourself (your partner sits it out). If you make it you get 24 points, if you fail (even by one trick) you get negative 24 points. When going alone, before the play starts you have the option of discarding up to 3 cards and accepting replacement cards that your partner chooses to pass to you. 
+L'enchère la plus élevée est de « jouer seul ». Cela termine les enchères, et vous devez prendre les 12 levées par vous-même (votre partenaire est exclu). Si vous réussissez, vous obtenez 24 points ; si vous échouez (même d'une seule levée), vous obtenez -24 points. En jouant seul, avant le début du jeu, vous avez la possibilité d'écarter jusqu'à 3 cartes et d'accepter des cartes de remplacement que votre partenaire choisit de vous passer.
 
 ### Hoosier Bid Euchre
 
-*This version from Indiana, USA was contributed by Paul J. Welty*
+*Cette version de l'Indiana, États-Unis, a été contribué par Paul J. Welty*
 
-The deck is 40 cards: 2 decks of A-K-Q-J-10. It is usually played by 4 people, partners sitting opposite each other. The target score for winning the game is 32.
+Le jeu comprend 40 cartes : 2 jeux de A-R-D-V-10. Il se joue généralement à 4 personnes, les partenaires assis en face. Le score cible pour gagner la partie est de 32.
 
-Each person is dealt 10 cards. Bid and play as in the general rules; bids are any number of tricks from 1 to 10 in a suit or "no trump". A bid of 10 is called "shooting the moon" and is worth 16 points rather than 10, won or lost. Above this is a bid to "shoot the moon alone". The bidder's partner does not take part and the bidder alone has to win all 10 tricks. Shooting the moon alone is worth 32 points. 
+Chaque personne reçoit 10 cartes. Enchères et jeu comme dans les règles générales ; les enchères vont de 1 à 10 levées dans une couleur ou « sans atout ». Une enchère de 10 est appelée « shoot the moon » et vaut 16 points au lieu de 10, gagné ou perdu. Au-dessus se trouve une enchère pour « shoot the moon en solo ». Le partenaire de l'enchérisseur ne participe pas et l'enchérisseur seul doit gagner les 10 levées. « Shoot the moon en solo » vaut 32 points.
 
-There is a 3-player variation, using 32 cards: 2 decks of A-J. 10 cards are dealt as usual, but there are 2 left over cards called the **kitty**. The player who bids highest picks up the kitty cards without showing them to the other players and discards any two cards face down in their place, before leading to the first trick.
+Il existe une variante à 3 joueurs, utilisant 32 cartes : 2 jeux de A-V. 10 cartes sont distribuées comme d'habitude, mais il reste 2 cartes appelées le **talon**. Le joueur qui a enchéri le plus haut ramasse les cartes du talon sans les montrer aux autres joueurs et écarte deux cartes face cachée à leur place, avant de mener la première levée.
 
-Other numbers of people may play by adjusting the deck size so that each gets 10 cards.
+D'autres nombres de joueurs peuvent jouer en ajustant la taille du jeu pour que chacun reçoive 10 cartes.
 
-### Bid Euchre with a kitty
+### Bid Euchre avec talon
 
-This version, from Kokomo, Indiana, was reported by Nick Long.
+Cette version, de Kokomo, Indiana, a été rapportée par Nick Long.
 
-It is played with 48 cards: 2 decks of A-K-Q-J-10-9. There are four players, partners sitting opposite each other. Eleven cards are dealt to each player, and four cards are dealt face down into a kitty in the centre of the table. Each player bids, starting with the player left of the dealer. Bids are from one to eleven tricks and name the suit you wish to make trump; or you can call **no trump high** (cards rank from ace down to 9 in each suit) or **no trump low** (the ranks are inverted - from high to low: 9-10-J-Q-K-A). The high bidder picks up the kitty without showing it and discards four cards face down. The highest possible bid - above 11 tricks - is a **shooter**, in which the bidder undertakes to win all the tricks playing alone - this is worth 22 points. It should be agreed before the start of the game whether a player who bids a shooter gets the kitty; also whether a shooter can discard two cards and receive replacement cards from partner. The game is usually played to a target of 52 points.
+Elle se joue avec 48 cartes : 2 jeux de A-R-D-V-10-9. Il y a quatre joueurs, les partenaires assis en face. Onze cartes sont distribuées à chaque joueur, et quatre cartes sont distribuées face cachée dans un talon au centre de la table. Chaque joueur enchérit, en commençant par le joueur à la gauche du donneur. Les enchères vont de une à onze levées et nomment la couleur que vous souhaitez comme atout ; ou vous pouvez annoncer **sans atout haut** (les cartes sont classées de l'As au 9 dans chaque couleur) ou **sans atout bas** (les rangs sont inversés — de haut en bas : 9-10-V-D-R-A). Le plus haut enchérisseur ramasse le talon sans le montrer et écarte quatre cartes face cachée. L'enchère la plus élevée possible — au-dessus de 11 levées — est un **shooter**, dans lequel l'enchérisseur s'engage à gagner toutes les levées en jouant seul — cela vaut 22 points. Il faut convenir avant le début de la partie si un joueur qui enchérit un shooter reçoit le talon ; et aussi si un shooter peut écarter deux cartes et recevoir des cartes de remplacement de son partenaire. La partie se joue généralement jusqu'à 52 points.
 
 ### Cutthroat Euchre
 
-Terry Detrie reports that during his four years at Purdue University (W. Lafayette, IN), he played a version of bid Euchre that was simply called "Cutthroat Euchre". It was played by 3 players using 24 cards: one deck with A, K, Q, J, 10, 9 in each suit. Seven cards were dealt to each player, leaving 3 cards in the kitty. The rest of the game was the same as the 3 player version of Hoosier Bid Euchre described above (including shooting the moon - a bid of 7 - being worth 16 points).
+Terry Detrie rapporte que pendant ses quatre années à l'Université Purdue (W. Lafayette, IN), il a joué une version du Bid Euchre appelée simplement « Cutthroat Euchre ». Elle se jouait à 3 joueurs avec 24 cartes : un jeu avec A, R, D, V, 10, 9 dans chaque couleur. Sept cartes étaient distribuées à chaque joueur, laissant 3 cartes dans le talon. Le reste du jeu était identique à la version à 3 joueurs du Hoosier Bid Euchre décrite ci-dessus (y compris le « shoot the moon » — une enchère de 7 — valant 16 points).
 
 ### Bid Euchre
 
-*This version is from Shawn's Bid Euchre Page, formerly at http://www.erols.com/shawncoons/bid.htm but now disappeared.*
+*Cette version provient de la page Bid Euchre de Shawn, anciennement à http://www.erols.com/shawncoons/bid.htm mais maintenant disparue.*
 
-The deck is 32 cards: 2 decks of A-K-Q-J. There are 4 players, who are dealt 8 cards each.
+Le jeu comprend 32 cartes : 2 jeux de A-R-D-V. Il y a 4 joueurs, qui reçoivent 8 cartes chacun.
 
-The minimum bid is 3 tricks with a trump suit. It is possible to bid no trump, but the minimum no trump bid is 5 tricks. 
+L'enchère minimum est de 3 levées avec une couleur d'atout. Il est possible d'enchérir sans atout, mais l'enchère minimum sans atout est de 5 levées.
 
-It is possible to bid 7 alone or 8 alone in any suit or no trump. A bid of 7 alone ranks between the normal bids of 7 and 8, and a bid of 8 alone beats a normal bid of 8. No cards are exchanged with partner.
+Il est possible d'enchérir 7 en solo ou 8 en solo dans n'importe quelle couleur ou sans atout. Une enchère de 7 en solo se situe entre les enchères normales de 7 et 8, et une enchère de 8 en solo bat une enchère normale de 8. Aucune carte n'est échangée avec le partenaire.
 
-7 alone scores 14 points for the partnership if successful, and loses 14 if set. 8 alone wins 16 if successful and loses 16 if set. The target score is 32.
+7 en solo rapporte 14 points à l'équipe en cas de réussite, et fait perdre 14 en cas d'échec. 8 en solo rapporte 16 en cas de réussite et fait perdre 16 en cas d'échec. Le score cible est 32.
 
-### Bid Euchre, also known as 6 card Euchre, or Racehorse
+### Bid Euchre, aussi appelé 6 card Euchre, ou Racehorse
 
-*This version is from Matt Schemmel and Erin O'Neil's [Euchre Home Page](https://web.archive.org/web/20100819114316/filer.case.edu/%7Emjs2/euchre.html)*
+*Cette version provient de la page Euchre de Matt Schemmel et Erin O'Neil [Euchre Home Page](https://web.archive.org/web/20100819114316/filer.case.edu/%7Emjs2/euchre.html)*
 
-This can be played by 4 people using a 24 card deck (A-K-Q-J-10-9), or by 6 or 8 using a double deck of 48 cards. There are two equal sized teams, sitting alternately (each player is between two opponents). All the cards are dealt, so 4 or 8 players get 6 cards each; 6 players get 8 cards each. 
+Elle peut se jouer à 4 personnes avec un jeu de 24 cartes (A-R-D-V-10-9), ou à 6 ou 8 avec un double jeu de 48 cartes. Il y a deux équipes de taille égale, assises en alternance (chaque joueur est entre deux adversaires). Toutes les cartes sont distribuées, donc 4 ou 8 joueurs reçoivent 6 cartes chacun ; 6 joueurs reçoivent 8 cartes chacun.
 
-Bids name a number of tricks, but not a trump suit. The minimum bid is 3. The dealer is allowed to **equal** the highest bid so far, rather than bidding higher. If everyone else passes, the dealer **must** bid at least 3. 
+Les enchères nomment un nombre de levées, mais pas une couleur d'atout. L'enchère minimum est 3. Le donneur est autorisé à **égaliser** l'enchère la plus élevée jusqu'à présent, plutôt que d'enchérir plus haut. Si tout le monde passe, le donneur **doit** enchérir au moins 3.
 
-The highest bidder names a trump suit, or 'no trump, high' or 'no trump, low'. 'No trump, high' is a normal no trump game; in 'no trump, low' the cards rank in reverse order: 9(high), 10, J, Q, K, A(low) in each suit.
+Le plus haut enchérisseur nomme une couleur d'atout, ou « sans atout, haut » ou « sans atout, bas ». « Sans atout, haut » est un jeu sans atout normal ; en « sans atout, bas », les cartes sont classées dans l'ordre inverse : 9 (haut), 10, V, D, R, A (bas) dans chaque couleur.
 
-The target score is 32 points.
+Le score cible est de 32 points.
 
-### Scott Alber's Double Deck Bid Euchre
+### Double Deck Bid Euchre de Scott Alber
 
-This is played by 4 players in fixed partnerships using a 40 card deck - two each of A-K-Q-J-10 in each suit. A bidder can choose to play with a trump suit, or in no trumps with aces high, or in no trumps with reversed card ranking (aces low). The minimum bid is 1 trick and if the first three players pass dealer must bid. 
+Il se joue à 4 joueurs en équipes fixes avec un jeu de 40 cartes — deux exemplaires de A-R-D-V-10 dans chaque couleur. Un enchérisseur peut choisir de jouer avec une couleur d'atout, ou sans atout avec As haut, ou sans atout avec classement inversé (As bas). L'enchère minimum est de 1 levée et si les trois premiers joueurs passent, le donneur doit enchérir.
 
-Higher than a bid of ten tricks is a bid to "shoot the moon", in which the bidder offers to win all ten tricks playing alone, having received one or two cards from partner. It can only be overcalled by the dealer also offering also to "shoot the moon". The player shooting the moon announces trumps and then asks for either one or two cards. Partner decides what cards to pass; the bidder takes these and then discards and equal number of cards so as to have a hand of 10 cards.
+Au-dessus d'une enchère de dix levées se trouve une enchère de « shoot the moon », dans laquelle l'enchérisseur s'engage à gagner les dix levées en solo, ayant reçu une ou deux cartes de son partenaire. Elle ne peut être sur-enchérie que par le donneur proposant également de « shoot the moon ». Le joueur faisant « shoot the moon » annonce l'atout puis demande soit une soit deux cartes. Le partenaire décide quelles cartes passer ; l'enchérisseur les prend puis écarte le même nombre de cartes pour avoir une main de 10 cartes.
 
-The play is according to the normal rules, with the first of equal cards beating the second, and the ranking of cards reversed if the bid was "low". Scoring is as usual, shooting the moon being worth 15 points if two cards were passed and 15 if only one card was passed.
+Le jeu suit les règles normales, la première de deux cartes égales battant la seconde, et le classement des cartes inversé si l'enchère est « bas ». Le décompte est habituel, « shoot the moon » valant 15 points si deux cartes ont été passées et 15 si une seule carte a été passée.
 
-The first team to reach 52 or more points wins. If both teams reach 52 or more in the same hand, the team who won the bid wins the game.
+La première équipe à atteindre 52 points ou plus gagne. Si les deux équipes atteignent 52 ou plus dans la même donne, l'équipe qui a gagné l'enchère remporte la partie.
 
 ### Indiana Double Deck Bid Euchre
 
-*This version from Indianapolis, Indiana was contributed by Bob Baiyor & Kevin Easley.  *
+*Cette version d'Indianapolis, Indiana, a été contribué par Bob Baiyor et Kevin Easley.*
 
-The deck is 48 cards, 2 decks of A-K-Q-J-10-9.  This is a 4-person partner game, partners sitting opposite. 
+Le jeu comprend 48 cartes, 2 jeux de A-R-D-V-10-9. C'est un jeu de partenaire à 4 personnes, les partenaires assis en face.
 
-The person to the left of the dealer must open the bidding with a minimum bid of three.   The bidding continues until there are 3 consecutive passes, and hence multiple rounds of bidding can occur.  A player who has passed may re-enter the bidding on any subsequent turn.
+Le joueur à la gauche du donneur doit ouvrir les enchères avec un minimum de trois. Les enchères continuent jusqu'à ce qu'il y ait trois passes consécutifs, ce qui permet plusieurs tours d'enchères. Un joueur qui a passé peut revenir aux enchères lors d'un tour ultérieur.
 
-Play is as stated in the General Rules.
+Le jeu suit les règles générales.
 
-Scoring is as stated in the General Rules, except that if the bidding side wins more tricks than they bid, they only score their bid.  
+Le décompte suit les règles générales, sauf que si le côté enchérisseur gagne plus de levées qu'il n'a enchéri, il ne marque que son enchère.
 
-The game goes to 50 points.  If both teams hit or exceed 50 points, the team that took the bid wins the game.
+La partie se joue en 50 points. Si les deux équipes atteignent ou dépassent 50 points, l'équipe qui a pris l'enchère gagne la partie.
 
-## Books
+## Logiciel
 
-A complete treatment of the rules and strategy of Indiana Double Deck Bid Euchre is given in [The Think System 2nd edition: A Light-Hearted Guide to Serious Double Deck Bid Euchre](https://amzn.to/2HG0xHh)*.*
+Voici les [règles du Bid Euchre](https://bideuchre.sourceforge.net/rules.html) de John Ratliff, et son programme gratuit [Bid Euchre Program](https://bideuchre.sourceforge.net/) pour Windows, Mac OS-X ou Linux avec lequel vous pouvez jouer cette version contre trois joueurs informatiques.
 
-## Software
+Vous pouvez télécharger un programme gratuit Bid Euchre / Pepper depuis [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-Here are John Ratliff's [Bid Euchre Rules](https://bideuchre.sourceforge.net/rules.html), and his freeware [Bid Euchre Program](https://bideuchre.sourceforge.net/) for Windows, Mac OS-X or Linux with which you can play this version against three computer players.
+## Autres jeux similaires à l'Euchre avec enchères
 
-You can download a freeware Bid Euchre / Pepper program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Le jeu Pepper, joué dans l'Iowa, États-Unis, est en réalité une sorte de Bid Euchre, mais avec la possibilité de plus d'un tour d'enchères et quelques différences dans le décompte.
 
-## Other Euchre-like games with bidding
-
-The game Pepper, played in Iowa, USA, is a really a kind of Bid Euchre, but with the possibility of more than one round of bidding, and some differences in the scoring.
-
-Five Hundred is a more elaborate bidding game based on Euchre; it originated and is still played in the USA, but has become the national game of Australia.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Euchre Group > Bid Euchre
+Le Five Hundred est un jeu d'enchères plus élaboré basé sur l'Euchre ; il est originaire des États-Unis où il est encore joué, mais il est devenu le jeu national de l'Australie.

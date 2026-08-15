@@ -2,357 +2,353 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules and variations of the verson of the card game Preference played in Croatia, Serbia and Slovenia.
+**But :** Règles et variantes de la version du jeu de cartes Préférence jouée en Croatie, Serbie et Slovénie.
 
 ---
 
-With thanks to Davorin Fundak, Predrag Stojadinovic and Anthony Smith for their contributions to this description.
+Avec remerciements à Davorin Fundak, Predrag Stojadinovic et Anthony Smith pour leurs contributions à cette description.
 
-Preference is played across a wide area of Eastern Europe and Russia. The main description on this page is of the Croatian version as played in the Medjimurje region (Northwest Croatia) is described. Very similar forms of Preference are played in Serbia, in Slovenia and in Trieste, normally using French suited cards, and some of the different terminology and rules from these regions is also included in the main text and in the Variations section. 
+La Préférence se joue sur une vaste zone d'Europe orientale et de Russie. La description principale de cette page porte sur la version croate telle qu'elle est jouée dans la région de Medjimurje (nord-ouest de la Croatie). Des formes très similaires de la Préférence se jouent en Serbie, en Slovénie et à Trieste, généralement avec un jeu au dessin français, et certaines des différences de terminologie et de règles de ces régions sont également incluses dans le texte principal et dans la section Variantes.
 
-There are several other major varieties of Preference (each of which has variations within it):
+Il existe plusieurs autres variétés majeures de la Préférence (chacune ayant des variantes internes) :
 
-- Russian Preference and Greek Prefa, in each of which a number of tricks higher than 6 can be bid
+- La Préférence russe et la Prefa grecque, dans chacune desquelles on peut enchérir un nombre de levées supérieur à 6
 
-- Austrian Preference
+- La Préférence autrichienne
 
-## Contents
+## Sommaire
 
-- The Equipment
+- Le matériel
 
-- The Idea of the Game
+- Le principe du jeu
 
-- The Players and Deal
+- Les joueurs et la distribution
 
-## The equipment
+## Le matériel
 
-In Croatia, a German suited 32 card pack is normally used. The cards have representations of the four seasons on the aces, and the picture cards show characters from the William Tell legend. The aces and picture cards have no indices. They are identified by the pictures and the position of the suit marks. The ranking of the cards in each suit, from highest to lowest is as follows *(the Croatian names of the cards are given in brackets)*:
+En Croatie, on utilise normalement un jeu de 32 cartes au dessin allemand. Les cartes portent des représentations des quatre saisons sur les as, et les figures montrent des personnages de la légende de Guillaume Tell. Les as et les figures n'ont pas d'indices. Ils sont identifiés par les images et la position des marques de couleur. La hiérarchie des cartes dans chaque couleur, de la plus haute à la plus basse, est la suivante *(les noms croates des cartes sont donnés entre parenthèses)* :
 
-![ace of acorns](../images/tell/ea.gif)
-![ace of hearts](../images/tell/ha.gif)
-![ace of bells](../images/tell/sa.gif)
-![ace of leaves](../images/tell/ga.gif)
-The **ace** *(As)* is highest. It has suit symbols at an angle in all four corners and seasonal scenes. 
+![as de gland](../images/tell/ea.gif)
+![as de cœur](../images/tell/ha.gif)
+![as de grelot](../images/tell/sa.gif)
+![as de feuille](../images/tell/ga.gif)
+L'**as** *(As)* est le plus haut. Il porte des symboles de couleur en diagonale dans les quatre coins et des scènes saisonnières.
 
-![king of acorns](../images/tell/ek.gif)
-![king of hearts](../images/tell/hk.gif)
-![king of bells](../images/tell/sk.gif)
-![king of leaves](../images/tell/gk.gif)
-The **King** *(Kralj)* has upright suit symbols at the top left, wears a crown and rides a horse. 
+![roi de gland](../images/tell/ek.gif)
+![roi de cœur](../images/tell/hk.gif)
+![roi de grelot](../images/tell/sk.gif)
+![roi de feuille](../images/tell/gk.gif)
+Le **Roi** *(Kralj)* porte des symboles de couleur verticaux en haut à gauche, porte une couronne et chevauche un cheval.
 
-![over of acorns](../images/tell/eo.gif)
-![over of hearts](../images/tell/ho.gif)
-![over of bells](../images/tell/so.gif)
-![over of leaves](../images/tell/go.gif)
-The **Over** *(Kraljica / Iber)* also has upright suit symbols at the top left, but the figure has no crown or horse. 
+![ober de gland](../images/tell/eo.gif)
+![ober de cœur](../images/tell/ho.gif)
+![ober de grelot](../images/tell/so.gif)
+![ober de feuille](../images/tell/go.gif)
+L'**Ober** *(Kraljica / Iber)* porte aussi des symboles de couleur verticaux en haut à gauche, mais le personnage n'a ni couronne ni cheval.
 
-![under of acorns](../images/tell/eu.gif)
-![under of hearts](../images/tell/hu.gif)
-![under of bells](../images/tell/su.gif)
-![under of leaves](../images/tell/gu.gif)
-The **Under** *(Decko)* looks somewhat similar to the over, except that the suit symbol is lower down the left hand side of the card. 
+![under de gland](../images/tell/eu.gif)
+![under de cœur](../images/tell/hu.gif)
+![under de grelot](../images/tell/su.gif)
+![under de feuille](../images/tell/gu.gif)
+L'**Under** *(Decko)* ressemble un peu à l'ober, sauf que le symbole de couleur est plus bas sur le côté gauche de la carte.
 
-![acorn X](../images/tell/ez.gif)
-![heart X](../images/tell/hz.gif)
-![bell X](../images/tell/sz.gif)
-![leaf X](../images/tell/gz.gif)
-The **Ten** (X). Numeral cards have roman numbers and can also be recognnised by counting the pips. 
+![gland X](../images/tell/ez.gif)
+![cœur X](../images/tell/hz.gif)
+![grelot X](../images/tell/sz.gif)
+![feuille X](../images/tell/gz.gif)
+Le **Dix** (X). Les cartes numériques portent des chiffres romains et peuvent aussi être reconnues en comptant les enseignes.
 
-![acorn IX](../images/tell/e9.gif)
-![heart IX](../images/tell/h9.gif)
-![bell IX](../images/tell/s9.gif)
-![leaf IX](../images/tell/g9.gif)
-The **Nine** (IX). 
+![gland IX](../images/tell/e9.gif)
+![cœur IX](../images/tell/h9.gif)
+![grelot IX](../images/tell/s9.gif)
+![feuille IX](../images/tell/g9.gif)
+Le **Neuf** (IX).
 
-![acorn VIII](../images/tell/e8.gif)
-![heart VIII](../images/tell/h8.gif)
-![bell VIII](../images/tell/s8.gif)
-![leaf VIII](../images/tell/g8.gif)
-The **Eight** (VIII). 
+![gland VIII](../images/tell/e8.gif)
+![cœur VIII](../images/tell/h8.gif)
+![grelot VIII](../images/tell/s8.gif)
+![feuille VIII](../images/tell/g8.gif)
+Le **Huit** (VIII).
 
-![acorn VII](../images/tell/e7.gif)
-![heart VII](../images/tell/h7.gif)
-![bell VII](../images/tell/s7.gif)
-![leaf VII](../images/tell/g7.gif)
-The **Seven** (VII). 
+![gland VII](../images/tell/e7.gif)
+![cœur VII](../images/tell/h7.gif)
+![grelot VII](../images/tell/s7.gif)
+![feuille VII](../images/tell/g7.gif)
+Le **Sept** (VII).
 
-The ranking of the suits themselves, from low to high is:
+La hiérarchie des couleurs elles-mêmes, de la plus basse à la plus haute, est :
 
-**Bid / Value Contract**
-2 Leaves trump
-3 Bells trump
-4 Hearts trump
-5 Acorns trump
+**Enchère / Contrat de valeur**
+2 Feuilles atout
+3 Grelots atout
+4 Cœurs atout
+5 Glands atout
 
-In the bidding, each suit is represented by a number, as shown in the above table. There are two additional bids:
+Lors des enchères, chaque couleur est représentée par un nombre, comme indiqué dans le tableau ci-dessus. Il y a deux enchères supplémentaires :
 
-**Value Contract**
-6 Bettel (no tricks)
-7 Sanac (no trump)
-In Serbia and Slovenia it is more usual to play with a French suited pack, with cards A-K-Q-J-10-9-8-7 in each suit. The ranking of suits from low to high is spades (2), diamonds (3), hearts (4), clubs (5).
+**Contrat de valeur**
+6 Bettel (aucun pli)
+7 Sanac (sans atout)
+En Serbie et en Slovénie, il est plus courant de jouer avec un jeu au dessin français, avec des cartes A-R-D-V-10-9-8-7 dans chaque couleur. La hiérarchie des couleurs de la plus basse à la plus haute est pique (2), carreau (3), cœur (4), trèfle (5).
 
-In Serbia, the contract Bettel is spelled Betl, and Sanac is known as Sans.
+En Serbie, le contrat Bettel s'écrit Betl, et Sanac est connu sous le nom de Sans.
 
-## Idea of the Game
+## Principe du jeu
 
-In each hand, one player (the declarer) chooses the contract and tries to make at least six of the ten possible tricks. The other two (the defenders) try to prevent the declarer from winning, but also have an objective to make a total of at least four tricks. A defender who thinks he cannot contribute his share is allowed to drop out, leaving the other defender with a quota of only two tricks.
+Dans chaque main, un joueur (le déclarant) choisit le contrat et essaie de gagner au moins six des dix levées possibles. Les deux autres (les défenseurs) essaient d'empêcher le déclarant de gagner, mais ont aussi pour objectif de gagner un total d'au moins quatre levées. Un défenseur qui pense ne pas pouvoir contribuer sa part est autorisé à se retirer, laissant à l'autre défenseur un quota de seulement deux levées.
 
-At the beginning of each hand there is an auction to decide who will be declarer. As the contract is always 6 tricks, the different bids relate to the different trump suits, and whether the declarer wants to make use of the two undealt cards.
+Au début de chaque main, il y a une enchère pour décider qui sera le déclarant. Comme le contrat est toujours de 6 levées, les différentes enchères correspondent aux différentes couleurs d'atout, et à savoir si le déclarant veut utiliser les deux cartes non distribuées.
 
-## Players and Deal
+## Joueurs et distribution
 
-There are 3 players; the game is played clockwise.
+Il y a 3 joueurs ; le jeu se joue dans le sens horaire.
 
-After shuffling and after the dealer's right hand neighbour has cut, the cards are dealt clockwise: a batch of 5 to each player, 2 face down on the table to form the **talon**, and then 5 more to each player, so that each player has 10 cards. The turn to deal rotates clockwise.
+Après le mélange et après que le voisin de droite du donneur a coupé, les cartes sont distribuées dans le sens horaire : un lot de 5 à chaque joueur, 2 face cachée sur la table pour former le **talon**, puis 5 autres à chaque joueur, de sorte que chaque joueur a 10 cartes. Le tour de distribution tourne dans le sens horaire.
 
-Note: in Serbia it is normal to play counter-clockwise. When playing that way, of course all the references to clockwise or counter-clockwise, left or right in the description below need to be reversed.
+Note : en Serbie, il est normal de jouer dans le sens antihoraire. En jouant ainsi, bien entendu, toutes les références au sens horaire ou antihoraire, à gauche ou à droite dans la description ci-dessous doivent être inversées.
 
-## The Bidding
+## Les enchères
 
-The player on the Dealer's left has first opportunity to bid or pass, and the turn to bid passes clockwise. If all pass, a Refa is given to each player, causing the score next time they are declarer to be doubled; the deck then passes to the next player who becomes dealer.
+Le joueur à la gauche du donneur a la première opportunité d'enchérir ou de passer, et le tour d'enchérir passe dans le sens horaire. Si tout le monde passe, un Refa est donné à chaque joueur, ce qui double le score la prochaine fois qu'ils seront déclarant ; le jeu passe alors au joueur suivant qui devient donneur.
 
-The possible bids are the numbers 2, 3, 4, 5, 6, and 7, and **game** or **igra**. Two through five represent the suits, six represents **Bettel**, and seven represents **Sanac** (pronounced "Sah-natz"). When bidding numbers, only the minimum legal bid can be made at any time (the bids must increase by one). The bid *Game* or *Igra* means that the player wishes to be declarer without using the talon cards. This bid is automatically higher than a numerical bid.
+Les enchères possibles sont les nombres 2, 3, 4, 5, 6 et 7, et **jeu** ou **igra**. Deux à cinq représentent les couleurs, six représente le **Bettel**, et sept représente le **Sanac** (prononcé « Sah-natz »). Lorsqu'on enchérit des nombres, seule l'enchère minimale légale peut être faite à tout moment (les enchères doivent augmenter d'un). L'enchère *Jeu* ou *Igra* signifie que le joueur souhaite être déclarant sans utiliser les cartes du talon. Cette enchère est automatiquement plus élevée qu'une enchère numérique.
 
-The player who has bid the highest number does not necessarily have to play the contract corresponding to that number - he may choose a higher contract.
+Le joueur qui a fait l'enchère la plus élevée n'est pas obligé de jouer le contrat correspondant à ce nombre — il peut choisir un contrat plus élevé.
 
-Thus the first player to bid can only pass or say "two", or "game". Saying "two" expresses the intention to exchange with the talon and then take 6 or more tricks in his choice of trumps. Saying "game" expresses the intention to choose trumps and take 6 or more tricks without exchanging cards. Once a player has bid "game", no more numerical bids can be made.
+Ainsi, le premier joueur à enchérir ne peut que passer ou dire « deux », ou « jeu ». Dire « deux » exprime l'intention d'échanger avec le talon puis de prendre 6 levées ou plus dans l'atout de son choix. Dire « jeu » exprime l'intention de choisir l'atout et de prendre 6 levées ou plus sans échanger de cartes. Une fois qu'un joueur a enchéri « jeu », plus aucune enchère numérique ne peut être faite.
 
-Once a player has bid "two", a subsequent player has the option of 
-bidding "three" or "game" or passing. Over a bid of "three", "four" or "game" can be bid, and so on. Numerical jump bids are not allowed.
+Une fois qu'un joueur a enchéri « deux », un joueur suivant a l'option d'enchérir « trois » ou « jeu » ou de passer. Sur une enchère de « trois », « quatre » ou « jeu » peut être enchéri, et ainsi de suite. Les sauts d'enchères ne sont pas autorisés.
 
-No player who has passed may reenter the bidding and a player who has made a number bid cannot later increase his bid to "game". Therefore if you want to bid a game at all you must do it at your first opportunity to speak.
+Aucun joueur qui a passé ne peut revenir dans les enchères, et un joueur qui a fait une enchère numérique ne peut pas ultérieurement augmenter son enchère à « jeu ». Par conséquent, si vous voulez enchérir un jeu, vous devez le faire à votre première opportunité de parler.
 
-Once "game" has been bid only another bid of "game" can outbid it. If more than one player bids "game", they must each reveal their proposed trump suit, (or bettel or sanac) in turn and the highest contract wins. (If an earlier player has a higher bid, a later player may remain silent and not reveal his bid). In the unlikely event that more than one player wish to bid the same game, then the first player (counting clockwise starting from the player on the dealer's left) has precedence. "Game" bids with a trump suit are announced using the number of the suit (two, three, four or five); game bids of six or seven are announced as "Bettel" or "Sanac".
+Une fois que « jeu » a été enchéri, seule une autre enchère de « jeu » peut le surenchérir. Si plusieurs joueurs enchérissent « jeu », ils doivent chacun révéler leur couleur d'atout proposée (ou bettel ou sanac) à leur tour et le contrat le plus élevé l'emporte. (Si un joueur antérieur a une enchère plus élevée, un joueur ultérieur peut rester silencieux et ne pas révéler son enchère). Dans le cas peu probable où plusieurs joueurs souhaiteraient enchérir le même jeu, le premier joueur (en comptant dans le sens horaire à partir du joueur à la gauche du donneur) a priorité. Les enchères de « jeu » avec une couleur d'atout sont annoncées en utilisant le numéro de la couleur (deux, trois, quatre ou cinq) ; les enchères de jeu de six ou sept sont annoncées comme « Bettel » ou « Sanac ».
 
-When the bidding reaches a player who bid a number on the first round and has been outbid by a higher number, the first bidder can either pass or say "same" or "me too" (*"i ja"*). "Same" is equivalent to bidding the same number as the second bidder, which is sufficient to allow the first bidder to be declarer. If the second bidder wants to continue, he must go on to the next number, for which the first bidder may again say "same", and so on.
+Lorsque les enchères atteignent un joueur qui a enchéri un nombre au premier tour et a été surenchéri par un nombre plus élevé, le premier enchérisseur peut soit passer soit dire « pareil » ou « moi aussi » (*"i ja"*). « Pareil » équivaut à enchérir le même nombre que le deuxième enchérisseur, ce qui suffit pour permettre au premier enchérisseur d'être le déclarant. Si le deuxième enchérisseur veut continuer, il doit passer au nombre suivant, pour lequel le premier enchérisseur peut à nouveau dire « pareil », et ainsi de suite.
 
-Some examples of legal bidding sequences (**A** is the first bidder (to dealer's left), **B** is the second bidder, and **C** is the dealer):
-
-A B C
-Two Three Four
-Pass Pass - C is declarer, talon is exchanged,
-contract must be 4, 5, Bettel, or Sanac
+Quelques exemples de séquences d'enchères légales (**A** est le premier enchérisseur (à la gauche du donneur), **B** est le deuxième, et **C** est le donneur) :
 
 A B C
-Pass Two Three
-Same Four
-Same Pass - B is declarer, talon is exchanged,
-contract must be 4, 5, Bettel, or Sanac
+Deux Trois Quatre
+Passe Passe - C est déclarant, talon échangé,
+le contrat doit être 4, 5, Bettel ou Sanac
 
 A B C
-Two Three Four
-Pass Same Five
-Pass - C is declarer, talon is exchanged,
-contract must be 5, Bettel, or Sanac
+Passe Deux Trois
+Pareil Quatre
+Pareil Passe - B est déclarant, talon échangé,
+le contrat doit être 4, 5, Bettel ou Sanac
 
 A B C
-Two Game Game
-Four Five - C is declarer, talon is not exchanged,
-contract must be game in acorns (5)
+Deux Trois Quatre
+Passe Pareil Cinq
+Passe - C est déclarant, talon échangé,
+le contrat doit être 5, Bettel ou Sanac
 
 A B C
-Game Pass Pass - A is declarer, talon is not exchanged,
-contract must be 2, 3, 4, 5, Bettel, or Sanac
+Deux Jeu Jeu
+Quatre Cinq - C est déclarant, talon non échangé,
+le contrat doit être jeu en glands (5)
 
 A B C
-Two Bettel Pass - B is declarer, talon is not exchanged, 
-contract must be Bettel
+Jeu Passe Passe - A est déclarant, talon non échangé,
+le contrat doit être 2, 3, 4, 5, Bettel ou Sanac
 
 A B C
-Two Bettel Sanac - C is declarer, talon is not exchanged, 
-contract must be Sanac
+Deux Bettel Passe - B est déclarant, talon non échangé,
+le contrat doit être Bettel
 
-Note that if all players pass during the bidding, a doubling (Refa) of the scoring for each player's next contract occurs. This is indicated by a horizontal line in the 'declarer column' of each player (see scoring).
+A B C
+Deux Bettel Sanac - C est déclarant, talon non échangé,
+le contrat doit être Sanac
 
-## The Exchange
+Notez que si tous les joueurs passent pendant les enchères, un doublement (Refa) du score pour le prochain contrat de chaque joueur se produit. Cela est indiqué par une ligne horizontale dans la « colonne du déclarant » de chaque joueur (voir marquage).
 
-Once the bidding ends with a non-game number, the declarer now picks up the talon, exposing it for all to see, adds it to his hand, and then discards any two cards face down. If a *game* is bid, the talon is not used.
+## L'échange
 
-## The Contract
+Une fois les enchères terminées avec un nombre qui n'est pas un jeu, le déclarant ramasse le talon, l'expose pour que tout le monde le voie, l'ajoute à sa main, puis se défausse de deux cartes face cachée. Si un *jeu* a été enchéri, le talon n'est pas utilisé.
 
-After the bidding and the exchange (if any), the declarer announces the contract number, which must be at least as high as the winning bid. 
+## Le contrat
 
-**Two** through **five** - indicates the suit which is trump. The declarer undertakes to take six tricks. 
-**Bettel**. The declarer undertakes to take no tricks. There are no trumps, and the defenders may not drop out. If the declarer succeeds in taking no tricks, the defenders are not penalized.
-**Sanac**. The declarer undertakes to take six tricks. There are no trumps, and he never leads to the first trick.
+Après les enchères et l'échange (s'il y en a un), le déclarant annonce le numéro du contrat, qui doit être au moins aussi élevé que l'enchère gagnante.
 
-All of the contracts can also be played as games, that is, without exchanging the talon. In this case the value for them in the scoring is increased by one. If a player wishes to bid "game" six or seven, he says "Bettel" or "Sanac", rather than the numbers.
+**Deux** à **cinq** — indique la couleur qui est l'atout. Le déclarant s'engage à gagner six levées.
+**Bettel**. Le déclarant s'engage à ne prendre aucun pli. Il n'y a pas d'atout, et les défenseurs ne peuvent pas se retirer. Si le déclarant réussit à ne prendre aucun pli, les défenseurs ne sont pas pénalisés.
+**Sanac**. Le déclarant s'engage à gagner six levées. Il n'y a pas d'atout, et il n'entame jamais la première levée.
 
-## The Defenders' Decisions
+Tous les contrats peuvent aussi être joués en tant que jeux, c'est-à-dire sans échanger le talon. Dans ce cas, leur valeur au marquage est augmentée d'un. Si un joueur souhaite enchérir « jeu » six ou sept, il dit « Bettel » ou « Sanac », plutôt que les nombres.
 
-Now each of the defenders must decide whether to play. Playing is a commitment to win at least two tricks, and there is a penalty for failing to do so. A defender who does not think he can make two tricks can drop out. This means that he does not wish to take part in the play, and he cannot be penalised for failing to take his quota of tricks, but on the other hand dropping out makes it easier for declarer to win. If both defenders decide to play, they play as a team, needing four tricks
-in combination.
+## Les décisions des défenseurs
 
-First the defender on the declarer's left announces whether he will play, followed by the other defender. If neither wishes to play then declarer has (by default) won 10 tricks. 
+Maintenant, chacun des défenseurs doit décider s'il va jouer. Jouer est un engagement à gagner au moins deux levées, et il y a une pénalité en cas d'échec. Un défenseur qui pense ne pas pouvoir gagner deux levées peut se retirer. Cela signifie qu'il ne souhaite pas participer au jeu, et il ne peut pas être pénalisé pour ne pas avoir rempli son quota de levées, mais d'un autre côté, le fait de se retirer facilite la victoire du déclarant. Si les deux défenseurs décident de jouer, ils jouent en équipe, ayant besoin de quatre levées combinées.
 
-If only one defender wishes to play, he may invite his partner to defend with him. This invitation cannot be refused, but the guest is not penalized if he fails to make two tricks - instead the host defender takes on the responsibility for the defending team making at least four tricks. A defender who does not wish to play and is not invited to do so lays his cards face down and takes no further part in the hand.
+Le défenseur à la gauche du déclarant annonce en premier s'il va jouer, suivi de l'autre défenseur. Si aucun ne souhaite jouer, le déclarant a (par défaut) gagné 10 levées.
 
-If one defender plays and wins two or more tricks, he is safe.
+Si un seul défenseur souhaite jouer, il peut inviter son partenaire à défendre avec lui. Cette invitation ne peut être refusée, mais l'invité n'est pas pénalisé s'il échoue à gagner deux levées — c'est plutôt le défenseur hôte qui assume la responsabilité de l'équipe défensive de gagner au moins quatre levées. Un défenseur qui ne souhaite pas jouer et n'est pas invité à le faire pose ses cartes face cachée et ne prend plus part à la main.
 
-If both defenders play voluntarily and they win four or more tricks, they are both safe. If they win three tricks, the defender with two or three tricks is safe, and the defender with one or none pays a penalty. If they win two tricks, only a defender with both tricks is safe and the other pays the penalty. If they win one trick each, or only one or zero tricks in total, both defenders pay the penalty. 
+Si un défenseur joue et gagne deux levées ou plus, il est sauf.
 
-If one defender invited the other, and they win four or more tricks, the host is safe. If they win three or fewer tricks the host pays a penalty. The invited player is always safe.
+Si les deux défenseurs jouent volontairement et gagnent quatre levées ou plus, ils sont tous les deux saufs. S'ils gagnent trois levées, le défenseur avec deux ou trois levées est sauf, et le défenseur avec une ou zéro levée paie une pénalité. S'ils gagnent deux levées, seul le défenseur avec les deux levées est sauf et l'autre paie la pénalité. S'ils gagnent une levée chacun, ou seulement une ou zéro levée au total, les deux défenseurs paient la pénalité.
 
-The defenders' scoring is limited to a total of five tricks only. When the defenders have taken five tricks play ends, the declarer has failed to make the contract, and the defenders score for the tricks they have taken.
+Si un défenseur a invité l'autre, et qu'ils gagnent quatre levées ou plus, l'hôte est sauf. S'ils gagnent trois levées ou moins, l'hôte paie une pénalité. Le joueur invité est toujours sauf.
+
+Le marquage des défenseurs est limité à un total de cinq levées seulement. Lorsque les défenseurs ont pris cinq levées, le jeu s'arrête, le déclarant a échoué à remplir son contrat, et les défenseurs marquent pour les levées qu'ils ont prises.
 
 ## Kontra
 
-Once the declarer selects the contract, with or without exchanging the talon, and the defenders have determined who will defend, one of the defenders may say "Kontra", which is an undertaking that the defenders will win at least 5 tricks, thus defeating the contract. The defender to declarer's left has the first option to Kontra, and if he does not, then the other defender may Kontra. Saying Kontra doubles all the scores for the hand and automatically "invites" the other defender (only the host scores). If the defenders take 4 or fewer tricks, the host pays a penalty.
+Une fois que le déclarant a choisi le contrat, avec ou sans échange du talon, et que les défenseurs ont déterminé qui va défendre, un des défenseurs peut dire « Kontra », ce qui est un engagement à ce que les défenseurs gagneront au moins 5 levées, battant ainsi le contrat. Le défenseur à la gauche du déclarant a la première option de Kontra, et s'il ne le fait pas, l'autre défenseur peut faire Kontra. Dire Kontra double tous les scores de la main et « invite » automatiquement l'autre défenseur (seul l'hôte marque). Si les défenseurs prennent 4 levées ou moins, l'hôte paie une pénalité.
 
-Once a Kontra is declared, if the declarer is confident of winning at least six tricks he may say "Rekontra", which doubles the score again. The defender who said Kontra is still responsible for the defence making at least 5 tricks. This defender may then say "Sukontra", doubling again. The declarer may then continue with "Mortkontra", doubling yet again, and so on *ad infinitum*.
+Une fois un Kontra déclaré, si le déclarant est confiant de gagner au moins six levées, il peut dire « Rekontra », qui double encore le score. Le défenseur qui a dit Kontra est toujours responsable de la défense gagnant au moins 5 levées. Ce défenseur peut alors dire « Sukontra », doublant encore. Le déclarant peut alors continuer avec « Mortkontra », doublant encore, et ainsi de suite *ad infinitum*.
 
-If the contract is a plain "two" (without "game" and without refa), one of the defenders must say Kontra if they want the hand to be played. If neither is willing to do so, there is no play and the declarer wins ten tricks by default.
+Si le contrat est un simple « deux » (sans « jeu » et sans refa), un des défenseurs doit dire Kontra s'ils veulent que la main soit jouée. Si aucun ne veut le faire, il n'y a pas de jeu et le déclarant gagne dix levées par défaut.
 
-## The Play
+## Le jeu
 
-If both defenders have conceded there is of course no play - the declarer just wins.
+Si les deux défenseurs ont abandonné, il n'y a bien sûr pas de jeu — le déclarant gagne tout simplement.
 
-If one or both defenders play, the player to the dealer's left normally leads to the first trick. If the player to dealer's left is a defender who has dropped out and not been invited to play, the next player in rotation leads. If the contract is a **Sanac** the declarer is not allowed to lead to the first trick, so if it would have been his lead, the lead passes to the next player in rotation.
+Si un ou les deux défenseurs jouent, le joueur à la gauche du donneur entame normalement la première levée. Si le joueur à la gauche du donneur est un défenseur qui s'est retiré et n'a pas été invité à jouer, le joueur suivant dans l'ordre entame. Si le contrat est un **Sanac**, le déclarant n'est pas autorisé à entamer la première levée, donc si c'était son tour d'entamer, l'entame passe au joueur suivant dans l'ordre.
 
-It is necessary:
+Il est nécessaire :
 
-- to follow suit if able
+- de suivre la couleur si possible
 
-- when holding no card of the led suit, to play a trump if possible
+- lorsqu'on n'a pas de carte de la couleur menée, de jouer un atout si possible
 
-A player who holds no card of the led suit and no trumps may play any card. It is not necessary to play a card beating those already in the trick. 
+Un joueur qui n'a pas de carte de la couleur menée et pas d'atout peut jouer n'importe quelle carte. Il n'est pas nécessaire de jouer une carte battant celles déjà jouées dans la levée.
 
-The winner of a trick is determined as follows:
+Le gagnant d'une levée est déterminé comme suit :
 
-- If any trumps were played, the highest trump card.
+- Si des atouts ont été joués, la carte d'atout la plus haute.
 
-- If a trump card was not played, the highest card in the suit that was led.
+- Si aucun atout n'a été joué, la carte la plus haute de la couleur menée.
 
-The winner of a trick leads to the next. 
+Le gagnant d'une levée entame la suivante.
 
-Note that although in some situations, the scoring appears to create a slight conflict of interest between the defenders, their priority is to play as a team to take five tricks and defeat the declarer.
+Notez que bien que dans certaines situations, le marquage semble créer un léger conflit d'intérêts entre les défenseurs, leur priorité est de jouer en équipe pour prendre cinq levées et battre le déclarant.
 
-## Scoring
+## Marquage
 
-**Each player** keeps his own score on paper in three columns, as shown in the illustration below. The center column is the player's "declarer" or main score, the left column is his defender column when his left hand opponent is declarer, and the right column is his defender column when his right hand opponent is declarer. These left and right columns are called *juha* in Croatian (pronounced "yoo-ha", and meaning soup, or gravy). The Serbian term is Supa, also meaning soup. The declarer column starts as a negative number, and in the final reckoning points in the declarer column are worth ten times as much as points in the other two columns.
+**Chaque joueur** conserve son propre score sur papier en trois colonnes, comme illustré ci-dessous. La colonne centrale est la colonne « déclarant » ou score principal du joueur, la colonne de gauche est sa colonne de défenseur lorsque son adversaire de gauche est déclarant, et la colonne de droite est sa colonne de défenseur lorsque son adversaire de droite est déclarant. Ces colonnes de gauche et de droite sont appelées *juha* en croate (prononcé « you-ha », signifiant soupe ou jus). Le terme serbe est Supa, signifiant aussi soupe. La colonne du déclarant commence par un nombre négatif, et dans le calcul final, les points de la colonne du déclarant valent dix fois plus que les points dans les deux autres colonnes.
 
-The players agree beforehand which number to begin playing from and enter it into their declarer column. Typical starting levels are 30, 50, or more. This starting level is known in Serbian as the Bula. Although this represents a negative number, it is not written with a minus sign. Therefore amounts won are subtracted from this number (to make it less negative) and amounts lost are added. When a player has won enough so that the score in his declarer column crosses zero this is indicated by putting a *hat* in the column. This hat is known in Serbian as kapa or šešir. This player is then *under the hat*: his score is positive, so winnings are added and losings are subtracted. It may happen that the declarer then loses so that his score becomes negative again; at this point he draws an inverted hat in his declarer column, and ceases to be *under the hat*. 
+Les joueurs se mettent d'accord à l'avance sur le nombre à partir duquel commencer à jouer et l'inscrivent dans leur colonne de déclarant. Les niveaux de départ typiques sont 30, 50 ou plus. Ce niveau de départ est connu en serbe sous le nom de Bula. Bien que cela représente un nombre négatif, il n'est pas écrit avec un signe moins. Par conséquent, les montants gagnés sont soustraits de ce nombre (pour le rendre moins négatif) et les montants perdus sont ajoutés. Lorsqu'un joueur a gagné assez pour que le score de sa colonne de déclarant passe zéro, cela est indiqué par un *chapeau* dans la colonne. Ce chapeau est connu en serbe sous le nom de kapa ou šešir. Ce joueur est alors *sous le chapeau* : son score est positif, donc les gains sont ajoutés et les pertes sont soustraites. Il peut arriver que le déclarant perde ensuite de sorte que son score redevienne négatif ; à ce moment, il dessine un chapeau inversé dans sa colonne de déclarant, et cesse d'être *sous le chapeau*.
 
-The basic score for a non-game contract is double the value of the contract, i.e. double the number of the bid. A "game" contract has one added to the value of the contract before it is doubled. So for example an ordinary contract of acorns scores 10 (2x5) but game in acorns scores 12 (2x(5+1)).
+Le score de base pour un contrat non-jeu est le double de la valeur du contrat, c'est-à-dire le double du numéro de l'enchère. Un contrat « jeu » a un ajouté à la valeur du contrat avant de le doubler. Ainsi, par exemple, un contrat ordinaire en glands marque 10 (2x5) mais un jeu en glands marque 12 (2x(5+1)).
 
-The declarer scores in the declarer column only. If he has won six or more tricks (zero tricks for Bettel), he wins the basic score (double the value of the contract). If he failed to make the contract he loses the same basic score (this is the penalty).
+Le déclarant marque uniquement dans la colonne du déclarant. S'il a gagné six levées ou plus (zéro levée pour le Bettel), il gagne le score de base (le double de la valeur du contrat). S'il a échoué à remplir le contrat, il perd le même score de base (c'est la pénalité).
 
-Each defender scores for any tricks he won in the appropriate defender column. Each trick won is worth the basic score (double the value of the contract). The defenders do not score more than five tricks total, as the declarer has failed to make the contract at that point. A defender who was invited does not score; the inviting defender scores all tricks and pays any penalty. The defender columns carry a running total through the game; scores are only added there - never subtracted.
+Chaque défenseur marque pour les levées qu'il a gagnées dans la colonne de défenseur appropriée. Chaque levée gagnée vaut le score de base (le double de la valeur du contrat). Les défenseurs ne marquent pas plus de cinq levées au total, car à ce point le déclarant a échoué à remplir son contrat. Un défenseur qui a été invité ne marque pas ; le défenseur invitant marque toutes les levées et paie toute pénalité. Les colonnes des défenseurs portent un total cumulatif pendant le jeu ; les scores n'y sont qu'ajoutés — jamais soustraits.
 
-If a defender has failed to make his quota of tricks, he subtracts the basic score (double the value of the contract) from his declarer column (this is the penalty). He still scores any tricks won in the defender column in the normal way.
+Si un défenseur a échoué à remplir son quota de levées, il soustrait le score de base (le double de la valeur du contrat) de sa colonne de déclarant (c'est la pénalité). Il marque quand même les levées gagnées dans la colonne de défenseur de la manière normale.
 
-If the defenders succeeded in making the declarer win a trick during a non-game "Bettel", each scores 60 in the corresponding defender column, and the declarer is penalized 12 (double the value of the contract). In a game Bettel, the declarer is penalised 14 and each defender scores 70 in the appropriate column.
+Si les défenseurs ont réussi à faire gagner une levée au déclarant lors d'un « Bettel » non-jeu, chacun marque 60 dans la colonne de défenseur correspondante, et le déclarant est pénalisé de 12 (le double de la valeur du contrat). Dans un jeu Bettel, le déclarant est pénalisé de 14 et chaque défenseur marque 70 dans la colonne appropriée.
 
-In the event of a kontra, all the scores mentioned above are doubled, in the event of rekontra they are quadrupled, and so on. A refa also has the effect of doubling the scores; if there is a kontra of a contract where the declarer also has a *refa*, both doubles take effect simultaneously, for a net factor of four, a simulatneous *rekontra* and *refa* would multiply all scores by 8, and so on.
+En cas de kontra, tous les scores mentionnés ci-dessus sont doublés ; en cas de rekontra, ils sont quadruplés, et ainsi de suite. Un refa a aussi pour effet de doubler les scores ; s'il y a un kontra d'un contrat où le déclarant a aussi un *refa*, les deux doubles prennent effet simultanément, pour un facteur net de quatre ; un *rekontra* et un *refa* simultanés multiplieraient tous les scores par 8, et ainsi de suite.
 
 ### Refa
 
-If all players pass during the bidding, a doubling (*Refa*) of the scoring for each player's next contract occurs. This is indicated by a horizontal line (like this: )in the declarer column of each player.
+Si tous les joueurs passent pendant les enchères, un doublement (*Refa*) du score pour le prochain contrat de chaque joueur se produit. Cela est indiqué par une ligne horizontale (comme ceci : ) dans la colonne du déclarant de chaque joueur.
 
-Whenever a declarer has a *Refa* in his declarer column, all scoring counts double for that hand. Once the scoring has taken place, that player's *Refa* is deleted by a short diagonal line (like this ), and the value of the contract is written alongside. If there were no further *Refas* in his column, the next time he is declarer the scoring is normal.
+Chaque fois qu'un déclarant a un *Refa* dans sa colonne de déclarant, tout le marquage compte double pour cette main. Une fois le marquage effectué, le *Refa* de ce joueur est effacé par une courte ligne diagonale (comme ceci), et la valeur du contrat est écrite à côté. S'il n'y a pas d'autres *Refas* dans sa colonne, la prochaine fois qu'il est déclarant, le marquage est normal.
 
-If a player is above zero (under the hat) in the declarer column, a *refa* is not declared when all players pass - the deal simply passes to the next player without further effect.
+Si un joueur est au-dessus de zéro (sous le chapeau) dans la colonne du déclarant, un *refa* n'est pas déclaré lorsque tous les joueurs passent — la donne passe simplement au joueur suivant sans autre effet.
 
-There is a maximum number of *refas* in a game, which depends on the starting score. Starting from 50, a maximum of three *refas* are allowed. Starting from 30, just one *refa* is allowed. After the maximum number of *refas* have been declared, if all players pass, there is no effect.
+Il y a un nombre maximum de *refas* dans une partie, qui dépend du score de départ. En partant de 50, un maximum de trois *refas* est autorisé. En partant de 30, un seul *refa* est autorisé. Après que le nombre maximum de *refas* a été déclaré, si tous les joueurs passent, il n'y a pas d'effet.
 
-## Ending the Game
+## Fin de la partie
 
-The game ends when the sum of all declarer columns is zero. Note that the declarer column scoring is allowed to go through zero, from negative to positive, and on occasion back again from positive to negative. 
+La partie se termine lorsque la somme de toutes les colonnes de déclarant est zéro. Notez que le marquage de la colonne du déclarant est autorisé à passer zéro, du négatif au positif, et occasionnellement de repasser du positif au négatif.
 
-If the value of a successful contract should exceed the amount needed to achieve a zero sum of the declarer columns, the value of that contract is reduced so as to make the sum exactly zero, thus ending the game. This same reduction applies to the defenders' trick score as well as the declarer's score for the contract. (If however the declarer were to play that same contract and fail, or if a defender were to fail and be penalized, this would not take the sum of declarer scores to zero, so the contract would be scored in full and the game would continue.)
+Si la valeur d'un contrat réussi devait dépasser le montant nécessaire pour atteindre une somme nulle des colonnes de déclarant, la valeur de ce contrat est réduite pour rendre la somme exactement nulle, terminant ainsi la partie. Cette même réduction s'applique au score de levées des défenseurs ainsi qu'au score du déclarant pour le contrat. (Cependant, si le déclarant devait jouer ce même contrat et échouer, ou si un défenseur devait échouer et être pénalisé, cela ne ramènerait pas la somme des scores de déclarant à zéro, donc le contrat serait marqué en entier et la partie continuerait.)
 
-The final calculation of each player's score is done as follows:
+Le calcul final du score de chaque joueur se fait comme suit :
 
-If the declarer column is above zero:
-Sum of juha (supa, defender columns)
-*minus* juhas owed (defender columns owed to each other player)
-*plus* ten times the value of the declarer column.
-If the declarer column is below zero,
-Sum of juha (defender columns)
-*minus* juhas owed (defender columns owed to each other player)
-*minus* ten times the value of the declarer column.
+Si la colonne du déclarant est au-dessus de zéro :
+Somme des juha (supa, colonnes de défenseur)
+*moins* les juha dus (colonnes de défenseur dues à chaque autre joueur)
+*plus* dix fois la valeur de la colonne du déclarant.
+Si la colonne du déclarant est en dessous de zéro,
+Somme des juha (colonnes de défenseur)
+*moins* les juha dus (colonnes de défenseur dues à chaque autre joueur)
+*moins* dix fois la valeur de la colonne du déclarant.
 
-The three scores should add up to zero, and they represent the amount won or lost by each player. 
+Les trois scores devraient s'additionner à zéro, et ils représentent le montant gagné ou perdu par chaque joueur.
 
-## Example of Scoring
+## Exemple de marquage
 
-Here is an example of how the scoresheets might look at the end of a game. The players, in clockwise rotation, are A, B and C. Each player has his *juha* column against his left-hand opponent on the left, and against his right-hand opponent on the right. The letters in red refer to the notes below:
-
-| |
+Voici un exemple de ce à quoi les feuilles de score pourraient ressembler à la fin d'une partie. Les joueurs, dans le sens horaire, sont A, B et C. Chaque joueur a sa colonne *juha* contre son adversaire de gauche à gauche, et contre son adversaire de droite à droite. Les lettres en rouge font référence aux notes ci-dessous :
 
 | |
 
 | |
 
-**Notes:**
-(a) This is the starting score - in this game the players agreed to start from 30.
-(b) C played bells and won 6 tricks, scoring 6 (2x3) in his declarer column, improving his score to minus 24. A and B both played and won 2 tricks each, so they each score 12 against A.
-(c) B played in acorns and won; C played and took 3 tricks; A decided not to play. So B gains 10 and C scores 30 against B.
-(d) Everyone passed, so a *refa* was declared. A horizontal line is drawn in each declarer's column.
-(e) A played in acorns taking 7 tricks. B dropped out and C took 3 tricks. The scores are doubled, as this is A's *refa*, so A wins 20 and C scores 60 against A. A's *refa* is cancelled and 20 written beside it.
-(f) C played "game" in hearts. A defended, B wanted to drop out but A invited him to play. A and B won 4 tricks. This is C's *refa*, so again the scores are double. C's *refa* is cancelled and 20 is written by it.
-(g) A plays in leaves. B says Kontra, but B and C only win 3 tricks. The value of the game is 4, but because of the Kontra, A scores 8. Also B loses 8 in his declarer column because the defence failed to win their quota of 4 tricks, but scores 24 against A in his *juha* for the 3 tricks. There is no further double for *refa* because A's *refa* was already used (e).
-(h) B plays a Bettel and loses. This is B's *refa* so he loses double (24). A and C each score 120 against B (equivalent of 5 tricks). B's *refa* is cancelled and 24 is written beside it.
-(i) C plays a Bettel and succeeds in losing every trick. The 12 he wins makes his score positive - he is now *under the hat*.
-(j) C plays acorns. A and B both defend: A takes 4 tricks and B takes 1. C's loss of 10 points makes his score negative again - he is no longer *under the hat*.
-(k) A plays in hearts. C says Kontra, but A says Rekontra and wins 6 tricks. A scores 32 (4x8) and C scores 128 against A for the 4 tricks taken by the defence. A is now *under the hat*. As the defence has failed to take 5 tricks, C is penalised 32 in his declarer column.
-(l) C plays game *sanac*, scoring 16. B defends and takes two tricks.
-(m) B plays in acorns. C wants to drop out but A invites C to play and the defenders win 4 tricks.
-(n) B plays "game" in acorns. Neither A nor C wishes to defend, so there is no play and B scores 12.
-(o) A plays and wins a Bettel for 12 points.
-(p) B plays acorns. A and C both defend, A winning 1 trick and C 3 tricks. As they won their quota of 4 tricks between them neither defender incurs a penalty. B has won a contract whose value would normally be 10, but as this would make the sum of declarer columns positive, its value is reduced to 6 which makes them add up to zero. The tricks won by A and C are therefore also only worth 6 each.
+| |
 
-The final scores can now be calculated as follows:
-**Player A** scores **166 + 132 - 24 - 188 + 420 = +506**
-**Player B** scores **54 + 24 - 166 - 168 - 240 = -496**
-**Player C** scores **188 + 168 - 132 - 54 - 180 = -10**
+**Notes :**
+(a) C'est le score de départ — dans cette partie, les joueurs se sont mis d'accord pour commencer à 30.
+(b) C a joué en grelots et a gagné 6 levées, marquant 6 (2x3) dans sa colonne de déclarant, améliorant son score à moins 24. A et B ont tous deux joué et gagné 2 levées chacun, donc ils marquent chacun 12 contre A.
+(c) B a joué en glands et a gagné ; C a joué et pris 3 levées ; A a décidé de ne pas jouer. Donc B gagne 10 et C marque 30 contre B.
+(d) Tout le monde a passé, donc un *refa* a été déclaré. Une ligne horizontale est tracée dans la colonne de chaque déclarant.
+(e) A a joué en glands en prenant 7 levées. B s'est retiré et C a pris 3 levées. Les scores sont doublés, car c'est le *refa* de A, donc A gagne 20 et C marque 60 contre A. Le *refa* de A est annulé et 20 est écrit à côté.
+(f) C a joué « jeu » en cœurs. A a défendu, B voulait se retirer mais A l'a invité à jouer. A et B ont gagné 4 levées. C'est le *refa* de C, donc les scores sont encore doublés. Le *refa* de C est annulé et 20 est écrit à côté.
+(g) A joue en feuilles. B dit Kontra, mais B et C ne gagnent que 3 levées. La valeur du jeu est 4, mais à cause du Kontra, A marque 8. B perd aussi 8 dans sa colonne de déclarant car la défense a échoué à gagner leur quota de 4 levées, mais marque 24 contre A dans sa *juha* pour les 3 levées. Il n'y a pas de double supplémentaire pour le *refa* car le *refa* de A a déjà été utilisé (e).
+(h) B joue un Bettel et perd. C'est le *refa* de B donc il perd le double (24). A et C marquent chacun 120 contre B (équivalent de 5 levées). Le *refa* de B est annulé et 24 est écrit à côté.
+(i) C joue un Bettel et réussit à perdre chaque levée. Les 12 qu'il gagne rendent son score positif — il est maintenant *sous le chapeau*.
+(j) C joue en glands. A et B défendent tous deux : A prend 4 levées et B en prend 1. La perte de 10 points de C rend son score à nouveau négatif — il n'est plus *sous le chapeau*.
+(k) A joue en cœurs. C dit Kontra, mais A dit Rekontra et gagne 6 levées. A marque 32 (4x8) et C marque 128 contre A pour les 4 levées prises par la défense. A est maintenant *sous le chapeau*. Comme la défense a échoué à prendre 5 levées, C est pénalisé de 32 dans sa colonne de déclarant.
+(l) C joue un jeu *sanac*, marquant 16. B défend et prend deux levées.
+(m) B joue en glands. C veut se retirer mais A invite C à jouer et les défenseurs gagnent 4 levées.
+(n) B joue « jeu » en glands. Ni A ni C ne souhaite défendre, donc il n'y a pas de jeu et B marque 12.
+(o) A joue et gagne un Bettel pour 12 points.
+(p) B joue en glands. A et C défendent tous deux, A gagnant 1 levée et C 3 levées. Comme ils ont gagné leur quota de 4 levées combinées, aucun défenseur ne subit de pénalité. B a gagné un contrat dont la valeur serait normalement de 10, mais comme cela rendrait la somme des colonnes de déclarant positive, sa valeur est réduite à 6, ce qui les fait s'additionner à zéro. Les levées gagnées par A et C valent donc aussi seulement 6 chacune.
 
-The scores add up to zero as they should; player A wins 506 units: 496 from B and 10 from C. 
+Les scores finals peuvent maintenant être calculés comme suit :
+**Le joueur A** marque **166 + 132 - 24 - 188 + 420 = +506**
+**Le joueur B** marque **54 + 24 - 166 - 168 - 240 = -496**
+**Le joueur C** marque **188 + 168 - 132 - 54 - 180 = -10**
 
-## Variations
+Les scores s'additionnent à zéro comme il se doit ; le joueur A gagne 506 unités : 496 de B et 10 de C.
 
-The following variations are played in Slovenia:
+## Variantes
 
-- Bettel is called *Berač*
+Les variantes suivantes se jouent en Slovénie :
 
-- In Sanac (which is there called *sans atout*), the first lead is made by the player to the *right* of the *declarer*.
+- Bettel est appelé *Berač*
 
-- A refa is called a *radlc* (pronounced 'rahdlts').
+- Au Sanac (appelé là-bas *sans atout*), la première entame est faite par le joueur à la *droite* du *déclarant*.
 
-- If the contract is leaves (2) and no one says Kontra, the hand is thrown in without score, and if no one is under the hat, everyone gets a *radlc*.
+- Un refa est appelé un *radlc* (prononcé « rahdlts »).
 
-- Some people play that the declarer does not expose the two talon cards before adding them to his hand.
+- Si le contrat est feuilles (2) et que personne ne dit Kontra, la main est jetée sans score, et si personne n'est sous le chapeau, tout le monde reçoit un *radlc*.
 
-The following variations are played in Serbia:
+- Certains jouent que le déclarant n'expose pas les deux cartes du talon avant de les ajouter à sa main.
 
-- The entire game is played counter-clockwise.
+Les variantes suivantes se jouent en Serbie :
 
-- The process for bidding of igra (game), igra betl (no tricks) and igra sans (no trumps) is a little different. A player who wishes to play igra betl or igra sans must say so at his or her first opportunity - bidding just igra commits you to play with trumps (2, 3, 4 or 5) - not betl or sans. 
+- La partie entière se joue dans le sens antihoraire.
 
-- Many play that a contract of 2 (spades) is not thrown in but causes a refa if no one is under the hat and there have not yet been enough refe. The number of refe is agreed in advance - usually 1 *refa* for each 30 of *bula* (initial score) - so for example 3 *refe* for a *bula* of 100. The declarer scores for a contract of 2 if he is under the hat, otherwise he doesn't score.
+- Le processus d'enchères pour igra (jeu), igra betl (aucun pli) et igra sans (sans atout) est un peu différent. Un joueur qui souhaite jouer igra betl ou igra sans doit le dire à sa première opportunité — enchérir simplement igra vous engage à jouer avec atout (2, 3, 4 ou 5) — pas betl ni sans.
 
-- If the contract is 7 (sans) then the player to the left of the declarer starts, so the declarer plays second to the first trick. 
+- Beaucoup jouent qu'un contrat de 2 (pique) n'est pas jeté mais provoque un refa si personne n'est sous le chapeau et qu'il n'y a pas encore eu assez de refes. Le nombre de refes est convenu à l'avance — généralement 1 *refa* pour chaque 30 de *bula* (score initial) — donc par exemple 3 *refes* pour une *bula* de 100. Le déclarant marque pour un contrat de 2 s'il est sous le chapeau, sinon il ne marque pas.
 
-- Some play with an additional contract of preferans (8). There are no trumps, declarer must win all 10 tricks, and both opponents play and have no quota of tricks (as in betl). Like igra betl and igra sans, igra preferans can only be bid at your first opportunity to speak.
+- Si le contrat est 7 (sans), c'est le joueur à la gauche du déclarant qui commence, donc le déclarant joue en deuxième à la première levée.
 
-In addition, there is an understanding that when the two defenders both choose to play, they will cooperate to defeat the declarer rather than try to save themselves at each other's expense. Also, a defender who has been invited by his partner must of course play to help his partner to defeat the declarer. To aid this, the following conventions should normally be followed by a defender whose partner is playing voluntarily.
+- Certains jouent avec un contrat supplémentaire de preferans (8). Il n'y a pas d'atout, le déclarant doit gagner les 10 levées, et les deux adversaires jouent sans quota de levées (comme au betl). Comme igra betl et igra sans, igra preferans ne peut être enchéri qu'à votre première opportunité de parler.
 
-- A defender should lead the highest card he holds in the suit he chooses to lead when the next to play is the other defender.
+De plus, il y a un accord selon lequel lorsque les deux défenseurs choisissent tous deux de jouer, ils coopèrent pour battre le déclarant plutôt que d'essayer de se sauver aux dépens l'un de l'autre. Aussi, un défenseur qui a été invité par son partenaire doit bien sûr jouer pour aider son partenaire à battre le déclarant. Pour faciliter cela, les conventions suivantes devraient normalement être suivies par un défenseur dont le partenaire joue volontairement.
 
-- If the declarer is second to play, a defender who has a weak holding in the suit he leads - for example nothing higher than a queen - should normally lead the lowest card he holds in that suit.
+- Un défenseur devrait entamer la carte la plus haute qu'il détient dans la couleur qu'il choisit de mener lorsque le joueur suivant est l'autre défenseur.
 
-- A defender should not take a trick that the other defender is winning, even if this risks a penalty. A defender who takes a trick from his partner and thereby causes the partner to suffer a penalty can be asked to pay that penalty.
+- Si le déclarant est le deuxième à jouer, un défenseur qui a une faible détention dans la couleur qu'il mène — par exemple rien de plus haut qu'une dame — devrait normalement entamer la carte la plus basse qu'il détient dans cette couleur.
 
-- When defending against sans, if the player to declarer's left decided not to play but was invited, he should lead his partner's suit if his partner took part in the bidding. If his partner passed but he bid himself he should lead his own suit. If neither defender took part in the bidding, he should lead a spade if the other player said kontra, and a club otherwise. 
+- Un défenseur ne devrait pas prendre une levée que l'autre défenseur est en train de gagner, même si cela risque une pénalité. Un défenseur qui prend une levée à son partenaire et fait ainsi subir une pénalité à son partenaire peut être tenu de payer cette pénalité.
 
-A defender who invited his partner to play bears the whole risk for the defecnce, and can therefore play as however he sees fit, ignoring the conventions if he wishes to.
+- En défendant contre sans atout, si le joueur à la gauche du déclarant a décidé de ne pas jouer mais a été invité, il devrait mener la couleur de son partenaire si son partenaire a participé aux enchères. Si son partenaire a passé mais qu'il a enchéri lui-même, il devrait mener sa propre couleur. Si aucun défenseur n'a participé aux enchères, il devrait mener un pique si l'autre joueur a dit kontra, et un trèfle sinon.
 
-## Other Web Sites
+Un défenseur qui a invité son partenaire à jouer assume l'entière responsabilité de la défense, et peut donc jouer comme il l'entend, ignorant les conventions s'il le souhaite.
 
-Serbian / Croatian / Slovenian Preference can be played on line using the [iPREF](https://www.ipref.com) program, using either "Hungarian" (German suited) or French suited cards.
+## Autres sites web
 
-A free online Preference game is available at the Croatian [Playtoy](https://playtoy.tportal.hr) site.
+La Préférence serbe / croate / slovène peut être jouée en ligne avec le programme [iPREF](https://www.ipref.com), en utilisant des cartes « hongroises » (au dessin allemand) ou au dessin français.
 
-The [Ligue Française de Pref](https://jeudepref.fr) is a league based in France, devoted to playing the Serbian form of Preference.
+Un jeu gratuit de Préférence en ligne est disponible sur le site croate [Playtoy](https://playtoy.tportal.hr).
 
-Home Page > Classified Index > Trick Taking Games > Preference > Preference (Croatian/Serbian/Slovenian)
+La [Ligue Française de Pref](https://jeudepref.fr) est une ligue basée en France, dédiée à la pratique de la forme serbe de la Préférence.

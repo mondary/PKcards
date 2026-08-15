@@ -2,330 +2,325 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the modern Danish version of the classic 3-player card game l'Hombre using a 40-card deck.
+**But :** Comment jouer à la version danoise moderne du jeu de cartes classique à 3 joueurs l'Hombre avec un jeu de 40 cartes.
 
 ---
 
-*This page is based on a description contributed by Jens Brix Christiansen*
+*Cette page est basée sur une description contribuée par Jens Brix Christiansen*
 
-L'Hombre (pronounced "lomber") is a fast-moving trick-taking game, played by 3 (or 4) players. It has an illustrious history, going back to the beginning of the 17th century, or earlier. This page describes the version of the game currently played in Denmark.
+L'Hombre (prononcé « lomber ») est un jeu de levées rapide, joué par 3 (ou 4) joueurs. Il a une histoire illustre, remontant au début du XVIIe siècle, ou plus tôt. Cette page décrit la version du jeu actuellement pratiquée au Danemark.
 
-## Contents
+## Sommaire
 
-## Historical background
+## Contexte historique
 
-L'Hombre was developed in Spain in the early 17th century, as a variation of an earlier four player game, also called *Hombre*. The three player version, which in Spain was originally called *Hombre Renegado* spread rapidly across Europe and during the 17th and 18th centuries became the premier card game, occupying a position of prestige similar to Bridge today. It was variously known as *Hombre*, *Ombre* or *L'Hombre*, and over the years it acquired many variations, of increasing complexity. Its popularity was eclipsed in the late 18th century by a new four player variant *Quadrille*, which was in turn displaced by Whist, *Boston* and eventually Bridge.
+L'Hombre a été développé en Espagne au début du XVIIe siècle, comme une variante d'un jeu antérieur à quatre joueurs, également appelé *Hombre*. La version à trois joueurs, qui en Espagne s'appelait à l'origine *Hombre Renegado*, s'est rapidement répandue en Europe et pendant les XVIIe et XVIIIe siècles est devenue le jeu de cartes de premier plan, occupant une position de prestige similaire au Bridge aujourd'hui. Elle était diversement connue sous les noms d'*Hombre*, *Ombre* ou *L'Hombre*, et au fil des ans a acquis de nombreuses variantes, de complexité croissante. Sa popularité a été éclipsée à la fin du XVIIIe siècle par une nouvelle variante à quatre joueurs, la *Quadrille*, qui a été à son tour supplantée par le Whist, le *Boston* et finalement le Bridge.
 
-Although L'Hombre died out in other parts of Europe, it remained popular in Denmark right up to the 21st century. It is played mostly in Jutland and on the island of Funen, and is organised by the L'Hombre union. Versions of the game have also survived in Spain itself, where it is known as El Tresillo, in the Faroes and in Iceland, and in Peru and Bolivia, where it is known as *Rocambor*.
+Bien que l'Hombre ait disparu dans d'autres régions d'Europe, il est resté populaire au Danemark jusqu'au XXIe siècle. Il se joue principalement au Jutland et sur l'île de Fionie, et est organisé par l'union L'Hombre. Des versions du jeu ont également survécu en Espagne même, où il est connu sous le nom d'El Tresillo, aux Féroé et en Islande, et au Pérou et en Bolivie, où il est connu sous le nom de *Rocambor*.
 
-L'Hombre was one of the first games to introduce bidding, through which one player becomes the declarer, trying to make a contract, with the other players cooperating to prevent him. The declarer was originally called *Hombre* (i.e. the man). It was from L'Hombre that the idea of bidding was adopted into other card games such as Tarot, Skat and Boston.
+L'Hombre a été l'un des premiers jeux à introduire les enchères, par lesquelles un joueur devient le déclarant, essayant de remplir un contrat, les autres joueurs coopérant pour l'en empêcher. Le déclarant était à l'origine appelé *Hombre* (c'est-à-dire l'homme). C'est de l'Hombre que l'idée des enchères a été adoptée dans d'autres jeux de cartes comme le Tarot, le Skat et le Boston.
 
-An excellent account of the early history of L'Hombre (from which some of the above information is taken) can be found in a series of three articles by *Thierry Depaulis* in *[The Playing-Card](https://www.i-p-c-s.org/wp/the-playing-card-1980-1995/) (Journal of the International Playing-Card Society)*. They are entitled *"Ombre et Lumière. Un Peu de Lumière sur L'Hombre"* and appeared in *Vol XV, No 4, pp 101-110*, *Vol XVI, No 1, pp 10-18*, and *Vol XVI, No 2, pp 44-53*.
+Un excellent récit de l'histoire ancienne de l'Hombre (dont certaines des informations ci-dessus sont tirées) se trouve dans une série de trois articles de *Thierry Depaulis* dans *[The Playing-Card](https://www.i-p-c-s.org/wp/the-playing-card-1980-1995/) (Journal of the International Playing-Card Society)*. Ils sont intitulés *"Ombre et Lumière. Un Peu de Lumière sur L'Hombre"* et sont parus dans *Vol XV, No 4, pp 101-110*, *Vol XVI, No 1, pp 10-18* et *Vol XVI, No 2, pp 44-53*.
 
-## General Description
+## Description générale
 
-L'Hombre is a three-handed trick taking game. It is also quite often played by four people, but there are still only 3 active players in each hand; the player opposite the dealer sits out. A deck of 40 cards is used. Each active player is dealt 9 cards and the remaining 13 form the talon. Each hand begins with an auction. The winner of the bidding becomes the declarer, and plays alone against the other two players (defenders) in partnership. 
+L'Hombre est un jeu de levées à trois joueurs. Il se joue aussi assez souvent à quatre personnes, mais il n'y a toujours que 3 joueurs actifs dans chaque main ; le joueur en face du donneur ne joue pas. Un jeu de 40 cartes est utilisé. Chaque joueur actif reçoit 9 cartes et les 13 restantes forment le talon. Chaque main commence par une enchère. Le gagnant des enchères devient le déclarant, et joue seul contre les deux autres joueurs (défenseurs) en partenariat.
 
-The final bid by declarer determines the contract. Declarer plays either a game contract, where his objective is to take more tricks than either defender, or a nolo contract, where his objective is not to take any tricks at all.
+La dernière enchère du déclarant détermine le contrat. Le déclarant joue soit un contrat de jeu, où son objectif est de prendre plus de levées que chaque défenseur, soit un contrat nolo, où son objectif est de ne prendre aucune levée du tout.
 
-When the contract is known, the players take turns exchanging cards with the talon, subject to restrictions particular to each contract.
+Une fois le contrat connu, les joueurs échangent à tour de rôle des cartes avec le talon, sous les restrictions propres à chaque contrat.
 
-Afterwards, nine tricks are played. However, as soon as the outcome of the contract is clear, declarer will face his hand and make a statement to that effect.
+Ensuite, neuf levées sont jouées. Cependant, dès que l'issue du contrat est claire, le déclarant exposera sa main et fera une déclaration en ce sens.
 
-After the play, immediate payment is made in the form of tokens. In general, the amount of payment increases with the rank of the contract. When declarer makes his contract, the defenders each pay declarer; when the contract fails, declarer pays each defender.
+Après le jeu, un paiement immédiat est effectué sous forme de jetons. En général, le montant du paiement augmente avec le rang du contrat. Lorsque le déclarant remplit son contrat, les défenseurs paient chacun le déclarant ; lorsque le contrat échoue, le déclarant paie chaque défenseur.
 
-The general direction of rotation in the game is counter-clockwise.
+Le sens général de rotation dans le jeu est antihoraire.
 
-The following detailed description of the game is based on the rules as played in the author's family. By comparison with other players' rules, it seems reasonable to describe this version of the game as "pure" or "minimal". 
+La description détaillée suivante du jeu est basée sur les règles telles que pratiquées dans la famille de l'auteur. Par comparaison avec les règles d'autres joueurs, il semble raisonnable de décrire cette version du jeu comme « pure » ou « minimale ».
 
-Strictly, the version described here is called "Rasle L'Hombre". The Danish L'Hombre literature also describes *Pot L'Hombre*, in which most of the payments are made to and from a pot, rather than between the players, but few if any people now play this way.
+Strictement, la version décrite ici s'appelle « Rasle L'Hombre ». La littérature danoise sur l'Hombre décrit aussi le *Pot L'Hombre*, dans lequel la plupart des paiements sont faits à partir de et vers un pot, plutôt qu'entre les joueurs, mais peu de gens, sinon aucun, ne jouent ainsi aujourd'hui.
 
-### Terminology
+### Terminologie
 
-Like many card games, L'Hombre has a particular terminology. When played in Denmark, a mixture of Danish, French, and Spanish terms are used. In this presentation, equivalent English terms have been substituted for Danish terms, but French and Spanish terms have been left as used in Denmark.
+Comme beaucoup de jeux de cartes, l'Hombre a une terminologie particulière. Lorsqu'il est joué au Danemark, on utilise un mélange de termes danois, français et espagnols. Dans cette présentation, des termes anglais équivalents ont été substitués aux termes danois, mais les termes français et espagnols ont été laissés tels qu'utilisés au Danemark.
 
-## The Cards
+## Les cartes
 
-L'Hombre is played with a deck of 40 cards in the four standard suits. From a standard deck of 52 cards, the **8**s, **9**s, and **10**s are not used.
+L'Hombre se joue avec un jeu de 40 cartes dans les quatre couleurs standard. À partir d'un jeu standard de 52 cartes, les **8**, **9** et **10** ne sont pas utilisés.
 
-### Ranking of Cards
+### Hiérarchie des cartes
 
-The ranking of the cards depends on the type of contract.
+La hiérarchie des cartes dépend du type de contrat.
 
-#### Nolo contracts
+#### Contrats nolo
 
-In nolo contracts, there is no trump suit. The black suits and the red suits are ranked differently as follows:
+Dans les contrats nolo, il n'y a pas de couleur d'atout. Les couleurs noires et les couleurs rouges sont classées différemment comme suit :
 
-Black:
-**K Q J 7 6 5 4 3 2 A**
-Red:
-**K Q J A 2 3 4 5 6 7**
+Noires :
+**R D V 7 6 5 4 3 2 A**
+Rouges :
+**R D V A 2 3 4 5 6 7**
 
-#### Game contracts
+#### Contrats de jeu
 
-In game contracts, there always is a trump suit. The black aces are permanent trumps, independent of which suit otherwise is trumps. In this capacity, the spade ace is called *spadille* (abbreviated **S**) and the club ace is called *basta* (abbreviated **B**).
+Dans les contrats de jeu, il y a toujours une couleur d'atout. Les as noirs sont des atouts permanents, indépendamment de la couleur qui est autrement l'atout. Dans ce rôle, l'as de pique est appelé *spadille* (abréviation **S**) et l'as de trèfle est appelé *basta* (abréviation **B**).
 
-The trump suit has the following ranking
+La couleur d'atout a la hiérarchie suivante :
 
-Black:
-**S 2 B K Q J 7 6 5 4 3** (11 cards in all)
-Red:
-**S 7 B A K Q J 2 3 4 5 6** (12 cards in all)
+Noires :
+**S 2 B R D V 7 6 5 4 3** (11 cartes au total)
+Rouges :
+**S 7 B A R D V 2 3 4 5 6** (12 cartes au total)
 
-*Spadille* is thus always the highest trump, and *basta* is always the third highest trump. The second highest trump is the card that would have been the lowest ranking card in that suit if it had not been chosen as trumps (black 2 or red 7). It is called *manille* (sometimes abbreviated **M**). In a red trump suit, the ace is the fourth highest trump and is called *ponto* (sometimes abbreviated **P**). The collective term *matadors* is used for the highest three trumps: the *spadille*, *manille* and *basta*. 
+*Spadille* est donc toujours le plus fort atout, et *basta* est toujours le troisième plus fort atout. Le deuxième plus fort atout est la carte qui aurait été la plus basse dans cette couleur si elle n'avait pas été choisie comme atout (noire 2 ou rouge 7). Elle est appelée *manille* (parfois abrégée **M**). Dans une couleur d'atout rouge, l'as est le quatrième plus fort atout et est appelé *ponto* (parfois abrégé **P**). Le terme collectif *matadors* est utilisé pour les trois plus forts atouts : la *spadille*, la *manille* et la *basta*.
 
-When a suit is not the trump suit, it retains its ranking as in nolo contracts, but since the black aces now have their role of *spadille* and *basta*, there remain only 9 cards in each black suit.
+Lorsqu'une couleur n'est pas la couleur d'atout, elle conserve sa hiérarchie comme dans les contrats nolo, mais puisque les as noirs ont maintenant leur rôle de *spadille* et *basta*, il ne reste que 9 cartes dans chaque couleur noire.
 
-## The Deal
+## La distribution
 
-The first dealer is chosen at random; thereafter the turn to deal rotates. The dealer is also called the *backhand* (**Bh**). The player on the dealer's right is called the *forehand* (**Fh**); the player on the dealer's left is called the *middlehand* (**Mh**). **Bh** shuffles and **Mh** cuts. Each player is dealt nine cards, three cards at a time in rotation, starting with **Fh**. The remaining 13 cards form the talon, which is put aside face down to be used later for exchanging cards.
+Le premier donneur est choisi au hasard ; ensuite, le tour de distribution tourne. Le donneur est aussi appelé le *backhand* (**Bh**). Le joueur à la droite du donneur est appelé le *forehand* (**Fh**) ; le joueur à la gauche du donneur est appelé le *middlehand* (**Mh**). **Bh** mélange et **Mh** coupe. Chaque joueur reçoit neuf cartes, trois à la fois en rotation, en commençant par **Fh**. Les 13 cartes restantes forment le talon, qui est mis de côté face cachée pour être utilisé plus tard pour l'échange de cartes.
 
-## The Auction
+## Les enchères
 
-In the auction at his turn, a player has the following choice of call:
+Lors des enchères, à son tour, un joueur a le choix d'appel suivant :
 
-**pass**
-A player that passes drops out of the auction and gives up his chance of becoming declarer. 
+**passer**
+Un joueur qui passe se retire des enchères et abandonne sa chance de devenir déclarant.
 
-**bid**
-A player may make any bid that outranks any bid previously made in the auction.
+**enchérir**
+Un joueur peut faire n'importe quelle enchère qui surpasse toute enchère précédemment faite.
 
-**self**
-A player may equal a bid previously made in the auction by a player who is after him in rotation (**Fh** can call self over any other player; **Mh** can call self over **Bh**).
+**égaliser**
+Un joueur peut égaler une enchère précédemment faite par un joueur qui est après lui dans la rotation (**Fh** peut dire égaler sur n'importe quel autre joueur ; **Mh** peut dire égaler sur **Bh**).
 
-The first half of the auction takes place only between **Fh** and **Mh**. **Fh** calls first, and **Mh** and **Fh** then take turns calling until their part of the auction is settled (when both have called, and at least one of them has passed). Then **Bh** enters the auction, which continues with players taking turns until the entire auction is settled. If all three players simply passed, the hand is a wash-out, no play is made, and the turn to deal proceeds to **Fh**. If at least one bid was made, the auction ends when two players have passed. The player who prevailed in the auction becomes declarer, and the final bid determines the contract.
+La première moitié des enchères n'a lieu qu'entre **Fh** et **Mh**. **Fh** parle en premier, puis **Mh** et **Fh** prennent tour à tour jusqu'à ce que leur partie des enchères soit réglée (quand les deux ont parlé et qu'au moins un a passé). Ensuite **Bh** entre dans les enchères, qui continuent avec les joueurs prenant tour à tour jusqu'à ce que l'ensemble des enchères soit réglé. Si les trois joueurs passent simplement, la main est annulée, aucun jeu n'est fait, et le tour de distribution passe à **Fh**. Si au moins une enchère a été faite, les enchères se terminent lorsque deux joueurs ont passé. Le joueur qui a gagné les enchères devient le déclarant, et la dernière enchère détermine le contrat.
 
-A sample auction might go
+Un exemple d'enchères pourrait être :
 
-- **Fh**: game
+- **Fh** : jeu
 
-- **Mh**: tourné
+- **Mh** : tourné
 
-- **Fh**: self
+- **Fh** : égale
 
-- **Mh**: pass 
+- **Mh** : passe
 
-- **Bh**: solo 
+- **Bh** : solo
 
-- **Fh**: self 
+- **Fh** : égale
 
-- **Bh**: pass.
+- **Bh** : passe.
 
-Resulting contract: solo, played by the forehand.
+Contrat résultant : solo, joué par le forehand.
 
-## The Bids and Contracts
+## Les enchères et les contrats
 
-The bids, and the corresponding contracts, are ranked as shown below (lowest bids first). The *rates* are provided for quick reference when scoring.
+Les enchères et les contrats correspondants sont classés comme suit (des enchères les plus basses d'abord). Les *taux* sont fournis pour référence rapide lors du marquage.
 
-**Simple Game**.
-Game contract. Declarer names the trump suit. First declarer, then the defenders exchange cards with the talon. **Rate: 1, 1.**
+**Jeu simple**.
+Contrat de jeu. Le déclarant nomme la couleur d'atout. Le déclarant d'abord, puis les défenseurs échangent des cartes avec le talon. **Taux : 1, 1.**
 
-**Spade Game**.
-Like Game, but spades are trumps. **Rate: 1, 1.**
+**Jeu de pique**.
+Comme le Jeu, mais les piques sont l'atout. **Taux : 1, 1.**
 
 **Tourné**.
-Game contract. The top card of the talon is faced; it determines the trump suit (for this purpose, *spadille* and *basta* signify spades and clubs, respectively). When declarer exchanges with the talon, he gets the faced card as his first card. **Rate: 1, 1.**
+Contrat de jeu. La carte du dessus du talon est retournée ; elle détermine la couleur d'atout (à cette fin, *spadille* et *basta* signifient respectivement pique et trèfle). Lorsque le déclarant échange avec le talon, il reçoit la carte retournée comme sa première carte. **Taux : 1, 1.**
 
-**Simple Nolo**.
-Nolo contract. Declarer (only) exchanges with the talon. **Rate 2, 1, 1, ...**
+**Nolo simple**.
+Contrat nolo. Le déclarant (seulement) échange avec le talon. **Taux 2, 1, 1, ...**
 
-**Grand Tourné**.
-Like tourné, but the bidder must have been dealt *spadille* and *basta*. The custom is for the bidder to show the two cards as he bids. **Rate 2, 1.**
+**Grand tourné**.
+Comme le tourné, mais l'enchérisseur doit avoir reçu *spadille* et *basta*. La coutume est que l'enchérisseur montre les deux cartes en enchérissant. **Taux 2, 1.**
 
 **Solo**.
-Game contract. Declarer plays his hand as dealt; the defenders exchange cards with the talon. **Rate 2, 1.**
+Contrat de jeu. Le déclarant joue sa main telle que distribuée ; les défenseurs échangent des cartes avec le talon. **Taux 2, 1.**
 
-**Pure Nolo** ranks equal to **Spade Solo**.
-Pure Nolo is a nolo contract. Neither declarer nor the defenders exchange cards. 
-Spade Solo is like Solo, with spades as trumps. 
-The first of these two bids made in an auction outranks the other. **Rate 3, 2.**
+**Nolo pur** a le même rang que **Solo de pique**.
+Le Nolo pur est un contrat nolo. Ni le déclarant ni les défenseurs n'échangent de cartes.
+Le Solo de pique est comme le Solo, avec les piques comme atout.
+La première de ces deux enchères faite lors d'une enchère surpasse l'autre. **Taux 3, 2.**
 
-**Nolo Ouvert**. 
-Like Pure Nolo, but when declarer plays his first card, he also faces his hand for both defenders to see. He continues to play his own cards at his turn. **Rate 5, 3.**
+**Nolo ouvert**.
+Comme le Nolo pur, mais lorsque le déclarant joue sa première carte, il expose aussi sa main pour que les deux défenseurs la voient. Il continue à jouer ses propres cartes à son tour. **Taux 5, 3.**
 
-Following the auction, the winner defines the contract. For Simple Game and Solo, he needs to name the trump suit. For Tourné and Grand Tourné, he faces the top card of the talon to determine the trump suit. As a special rule, a player who has won the auction for a bid of Simple Game may define a contract of Spade Game, Tourné, or Simple Nolo at this time. Also, it is usually tolerated that a declarer who won a Solo Contract defines his contract as Spade Solo.
+Après les enchères, le gagnant définit le contrat. Pour le Jeu simple et le Solo, il doit nommer la couleur d'atout. Pour le Tourné et le Grand tourné, il retourne la carte du dessus du talon pour déterminer la couleur d'atout. Règle spéciale : un joueur qui a gagné les enchères pour un Jeu simple peut définir un contrat de Jeu de pique, de Tourné ou de Nolo simple à ce moment. Il est aussi généralement toléré qu'un déclarant qui a gagné un contrat Solo définisse son contrat comme Solo de pique.
 
-## Exchanging Cards with the Talon
+## Échange de cartes avec le talon
 
-Declarer has the right to exchange cards with the talon when playing low level contracts (including Grand Tourné). The defenders are allowed to exchange cards against game contracts, but not against nolo contracts. 
+Le déclarant a le droit d'échanger des cartes avec le talon lorsqu'il joue des contrats de bas niveau (y compris le Grand tourné). Les défenseurs sont autorisés à échanger des cartes contre les contrats de jeu, mais pas contre les contrats nolo.
 
-Declarer always exchanges first (if the contract allows it), then each of the defenders exchanges, in rotation.
+Le déclarant échange toujours en premier (si le contrat le permet), puis chaque défenseur échange à son tour.
 
-At his turn, a player may exchange as many of the cards in his hand as he wishes, from none at all up to the number of (remaining) cards in the talon. The player first discards (face down) all the cards he wishes to exchange; then he picks up an equal number of replacement cards in order from the top of the talon, so that he again has nine cards. It is a principle of the game that each player remains responsible for the correct procedure. A player who fouls up the exchange procedure is deemed to have lost the contract and pays accordingly; a defender also pays what the other defender owes declarer.
+À son tour, un joueur peut échanger autant de cartes de sa main qu'il le souhaite, de aucune jusqu'au nombre de cartes (restantes) dans le talon. Le joueur se défausse d'abord (face cachée) de toutes les cartes qu'il souhaite échanger ; puis il ramasse un nombre égal de cartes de remplacement dans l'ordre à partir du dessus du talon, de sorte qu'il a à nouveau neuf cartes. C'est un principe du jeu que chaque joueur reste responsable de la procédure correcte. Un joueur qui commet une erreur dans la procédure d'échange est considéré comme ayant perdu le contrat et paie en conséquence ; un défenseur paie aussi ce que l'autre défenseur doit au déclarant.
 
-Any cards from the talon that are not used for exchange are left face down for the remainder of the deal.
+Toutes les cartes du talon qui ne sont pas utilisées pour l'échange restent face cachée pour le reste de la donne.
 
-## The Play
+## Le jeu
 
-Play is counter-clockwise. No matter who is the declarer, forehand always leads to the first trick. 
+Le jeu se fait dans le sens antihoraire. Peu importe qui est le déclarant, le forehand entame toujours la première levée.
 
-A trick is won by the highest card of the suit led, unless it contains a trump, in which case the highest trump wins it. The winner of a trick leads to the next.
+Une levée est gagnée par la carte la plus haute de la couleur menée, sauf si elle contient un atout, auquel cas le plus fort atout l'emporte. Le gagnant d'une levée entame la suivante.
 
-Players must follow suit if they can, playing any card they wish from the suit led. A player with no card of the suit led may play any card, including a trump. Note that in game contracts, *spadille* and *basta* belong to the trump suit, not to the suits marked on them. 
+Les joueurs doivent suivre la couleur s'ils le peuvent, en jouant n'importe quelle carte qu'ils souhaitent de la couleur menée. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte, y compris un atout. Notez que dans les contrats de jeu, *spadille* et *basta* appartiennent à la couleur d'atout, pas aux couleurs qui y sont marquées.
 
-In game contracts, the obligation to follow suit does not apply fully to the matadors (the spadille, manille and basta). When a trump is led, the holder of a matador need not play it, unless a higher matador was led to the trick, and he has no other trumps. It follows that *spadille* can never be forced out. For instance, suppose the *manille* (second highest trump) is led. If the next player has the *spadille* and no other trumps he need not play the *spadille*, but may play any card. If the second player had the *basta* and no other trump, he would have to play the *basta*, because it is lower than the *manille*. If the second player had **S K 4** of trumps, he would have to play a trump, because although his **S** cannot be forced out, his other trumps do not enjoy this privilege. If the trump 4 is led, the second player plays the *spadille*, and the third player's only trump is the *basto*, the third player does not have to play the *basto* but can throw a card of another suit. In this case the *spadille* was not **led** to the trick but played second, so does not draw the *basto*.
+Dans les contrats de jeu, l'obligation de suivre la couleur ne s'applique pas pleinement aux matadors (la spadille, la manille et la basta). Lorsqu'un atout est mené, le détenteur d'un matador n'est pas obligé de le jouer, sauf si un matador supérieur a été mené dans la levée et qu'il n'a pas d'autres atouts. Il s'ensuit que la *spadille* ne peut jamais être forcée. Par exemple, supposons que la *manille* (deuxième plus fort atout) soit menée. Si le joueur suivant a la *spadille* et pas d'autres atouts, il n'est pas obligé de jouer la *spadille*, mais peut jouer n'importe quelle carte. Si le deuxième joueur avait la *basta* et pas d'autre atout, il devrait jouer la *basta*, car elle est inférieure à la *manille*. Si le deuxième joueur avait **S R 4** d'atout, il devrait jouer un atout, car bien que son **S** ne puisse pas être forcé, ses autres atouts ne jouissent pas de ce privilège. Si le 4 d'atout est mené, le deuxième joueur joue la *spadille*, et si le seul atout du troisième joueur est le *basto*, le troisième joueur n'est pas obligé de jouer le *basto* mais peut jeter une carte d'une autre couleur. Dans ce cas, la *spadille* n'a pas été **menée** dans la levée mais jouée en deuxième, donc elle n'attire pas le *basto*.
 
-In game contracts, each player keeps track of the tricks he has won; in nolo contracts, the defenders keep track of declarer's tricks and no one keeps track of the defenders' tricks.
+Dans les contrats de jeu, chaque joueur garde le compte des levées qu'il a gagnées ; dans les contrats nolo, les défenseurs comptent les levées du déclarant et personne ne compte les levées des défenseurs.
 
-In the great majority of contracts, play continues only until the fate of contract is clear. For game contracts, four outcomes are possible:
+Dans la grande majorité des contrats, le jeu ne continue que tant que l'issue du contrat est claire. Pour les contrats de jeu, quatre issues sont possibles :
 
-win
-Declarer takes more tricks than either opponent. This happens as soon as declarer has five tricks, or if the tricks are divided 4-3-2 (4 to declarer). Play ends immediately when it is obvious that declarer will win (but see Tout).
+gain
+Le déclarant prend plus de levées que chaque adversaire. Cela se produit dès que le déclarant a cinq levées, ou si les levées sont réparties 4-3-2 (4 pour le déclarant). Le jeu s'arrête immédiatement lorsqu'il est évident que le déclarant va gagner (mais voir Tout).
 
 bête
-Declarer takes exactly as many tricks as the defender with most tricks. This happens when the tricks 4-4-1 or 3-3-3.
+Le déclarant prend exactement autant de levées que le défenseur qui en a le plus. Cela se produit lorsque les levées sont 4-4-1 ou 3-3-3.
 
 kodille
-The declarer has fewer tricks than one or both of the defenders.
+Le déclarant a moins de levées qu'un ou les deux défenseurs.
 
 Tout
-Declarer takes all nine tricks. Declarer must announce his intention to take all tricks at the latest as he wins the fifth trick. Leading to the sixth trick is always understood as a try for tout. (Tries for Tout are extremely rare).
+Le déclarant prend les neuf levées. Le déclarant doit annoncer son intention de prendre toutes les levées au plus tard lorsqu'il gagne sa cinquième levée. Mener à la sixième levée est toujours compris comme une tentative de tout. (Les tentatives de Tout sont extrêmement rares).
 
-For nolo contracts, the outcomes are defined as follows: 
+Pour les contrats nolo, les issues sont définies comme suit :
 
-**win** 
-Declarer takes no tricks.
+**gain**
+Le déclarant ne prend aucune levée.
 
 **bête**
-Declarer takes one trick.
+Le déclarant prend une levée.
 
 **kodille**
-Declarer takes two or more tricks. For Pure Nolo and Nolo Ouvert, play ends when declarer takes his second trick. For Simple Nolo, however, any subsequent tricks also count.
+Le déclarant prend deux levées ou plus. Pour le Nolo pur et le Nolo ouvert, le jeu s'arrête lorsque le déclarant prend sa deuxième levée. Pour le Nolo simple cependant, les levées ultérieures comptent aussi.
 
-## Scoring
+## Marquage
 
-After the fate of each contract is known, payment in tokens is effected immediately. 
+Après que l'issue de chaque contrat est connue, un paiement en jetons est effectué immédiatement.
 
-win 
-Declarer receives a number of tokens from each of the other players, depending on the contract. The number of tokens is 1 for simple games (including tourné), 2 for Nolo, Grand Tourné, and Solo, 3 for Pure Nolo and Spade Solo, and 5 for Nolo Ouvert.
+gain
+Le déclarant reçoit un certain nombre de jetons de chacun des autres joueurs, selon le contrat. Le nombre de jetons est de 1 pour les jeux simples (y compris le tourné), 2 pour le Nolo, le Grand tourné et le Solo, 3 pour le Nolo pur et le Solo de pique, et 5 pour le Nolo ouvert.
 
 bête
-Declarer pays the appropriate number of tokens to each of the other players. The rate for each contract is exactly as for winning.
+Le déclarant paie le nombre approprié de jetons à chacun des autres joueurs. Le taux pour chaque contrat est exactement le même que pour un gain.
 
 kodille
-Declarer pays the other players as for a bête, plus an additional penalty. The extra penalty is 1 token for low contracts, 2 for Pure Nolo and Spade Solo, and 3 for Nolo Ouvert. For Simple Nolo, the penalty is 1 extra token for each trick in excess of one won by declarer (for example if the declarer in a Simple Nolo takes 4 tricks he pays 5 (2+3) to each defender).
+Le déclarant paie les autres joueurs comme pour une bête, plus une pénalité supplémentaire. La pénalité supplémentaire est de 1 jeton pour les contrats bas, 2 pour le Nolo pur et le Solo de pique, et 3 pour le Nolo ouvert. Pour le Nolo simple, la pénalité est de 1 jeton supplémentaire pour chaque levée au-dessus de une gagnée par le déclarant (par exemple, si le déclarant dans un Nolo simple prend 4 levées, il paie 5 (2+3) à chaque défenseur).
 
 **Tout**
-If declarer wins an announced Tout, he receives one additional token from each of the other players. If fails to win an announced Tout, he pays a token to each of the other players, but he still receives payment for winning the game.
+Si le déclarant gagne un Tout annoncé, il reçoit un jeton supplémentaire de chacun des autres joueurs. S'il échoue à gagner un Tout annoncé, il paie un jeton à chacun des autres joueurs, mais il reçoit toujours le paiement pour avoir gagné le jeu.
 
-### Abandoning the Hand after the Exchange
+### Abandon de la main après l'échange
 
-In game contracts (other than Solo and Spade Solo), declarer has the right to abandon the hand provided that he has not yet played to the first trick. He does this by paying for bête and facing his hand. This option is, of course, exercised when declarer's exchange was so disappointing that the risk of kodille outweighs the chances of winning.
+Dans les contrats de jeu (autres que le Solo et le Solo de pique), le déclarant a le droit d'abandonner la main à condition qu'il n'ait pas encore joué à la première levée. Il le fait en payant pour bête et en exposant sa main. Cette option est bien sûr exercée lorsque l'échange du déclarant a été si décevant que le risque de kodille l'emporte sur les chances de gagner.
 
-## Jargon, Customs, Conventions
+## Jargon, coutumes, conventions
 
-When a declarer holds four or more of the top cards of the trump suit, it is customary to describe him as holding that many *matadors*. For instance, with diamonds as trumps, the hand 
+Lorsqu'un déclarant détient quatre ou plus des cartes les plus hautes de la couleur d'atout, il est coutumier de le décrire comme détenant autant de *matadors*. Par exemple, avec les carreaux comme atout, la main
 
-D: S 7 B A K Q 3 S: - H: 2 6 C: -
+D : S 7 B A R D V 3 P : - C : -
 
-would be said to hold 6 matadors. In spite of this custom, the special exemptions from following suit still only extends to the trumps that outrank the king. 
+serait dite détenir 6 matadors. Malgré cette coutume, les exemptions spéciales à l'obligation de suivre ne s'étendent toujours qu'aux atouts qui dépassent le roi.
 
-Similarly, a solid holding of top trumps, but lacking Spadille, is described as a number of *faux-matadors*.
+De même, une détention solide des atouts supérieurs, mais sans la Spadille, est décrite comme un certain nombre de *faux-matadors*.
 
-There is a custom that any player holding 9 matadors (possibly after an exchange) receives a special prize of 2 Danish Kroner from everybody in the room, regardless whether they participate in the game. This custom is now very symbolic after a century of inflation, but until recently you could read accounts of players holding 9 matadors in local newspapers. In fact at the beginning of May 1997, the Danish newspapers carried the story that the former Foreign Minister Uffe Ellemann-Jensen had recently held 9 matadors in clubs while playing l'Hombre privately. The 2 kroner per person were promptly paid.
+Il existe une coutume selon laquelle tout joueur détenant 9 matadors (éventuellement après un échange) reçoit un prix spécial de 2 couronnes danoises de tout le monde dans la pièce, indépendamment de leur participation au jeu. Cette coutume est aujourd'hui très symbolique après un siècle d'inflation, mais jusqu'à récemment on pouvait lire des récits de joueurs détenant 9 matadors dans les journaux locaux. En fait, début mai 1997, les journaux danois ont rapporté que l'ancien ministre des Affaires étrangères Uffe Ellemann-Jensen avait récemment détenu 9 matadors en trèfles en jouant à l'Hombre en privé. Les 2 couronnes par personne ont été promptement payées.
 
-When defending a game contract, it makes a considerable difference how the defenders divide the tricks among them. If the defenders take five tricks, a 5-0 distribution yields kodille, a 4-1 distribution yields bête, and a 3-2
-distribution yields a win for declarer. It is therefore good strategy to play in such a way that one defender takes as many tricks as possible. The negotiation between the defenders as to who should be the stronger takes place during the exchange of cards with the talon. For simple games, declarer has usually left around 8 cards in the talon. The convention is that when the first defender exchanges at most one or two cards, thus ensuring that his partner can exchange as many as he could need, he is signalling that he expects to be the weak defender. Conversely, if he determines that his cards merit that he try to be the strong defender, he will exchange freely.
+Lorsqu'on défend un contrat de jeu, la façon dont les défenseurs se répartissent les levées entre eux fait une différence considérable. Si les défenseurs prennent cinq levées, une répartition 5-0 donne un kodille, une répartition 4-1 donne une bête, et une répartition 3-2 donne un gain pour le déclarant. Il est donc de bonne stratégie de jouer de manière à ce qu'un défenseur prenne autant de levées que possible. La négociation entre les défenseurs pour savoir qui doit être le plus fort a lieu pendant l'échange de cartes avec le talon. Pour les jeux simples, le déclarant a généralement laissé environ 8 cartes dans le talon. La convention est que lorsque le premier défenseur échange au plus une ou deux cartes, s'assurant ainsi que son partenaire peut échanger autant qu'il en a besoin, il signale qu'il s'attend à être le défenseur faible. Inversement, s'il détermine que ses cartes méritent qu'il essaie d'être le défenseur fort, il échangera librement.
 
-When exchanging freely for a game contract, declarer and a strong defender usually retain only trumps and kings; declarer may sometimes retain a king-queen pair of a side suit. A weak defender (last in hand) will usually try for a void in a side suit. Most tricks in game contracts are won by trumps or side suit kings. 
+Lors d'un échange libre pour un contrat de jeu, le déclarant et un défenseur fort conservent généralement uniquement les atouts et les rois ; le déclarant peut parfois conserver une paire roi-dame d'une couleur secondaire. Un défenseur faible (dernier en main) essaiera généralement de se créer une absence dans une couleur secondaire. La plupart des levées dans les contrats de jeu sont gagnées par des atouts ou des rois de couleur secondaire.
 
-In nolo contracts, the defenders try to give declarer a trick. This requires both that a defender has a low card in a suit, and usually that his partner is void in that suit, so that he does not overtake declarer. Usually, therefore, defense starts with one defender cashing a long suit, hoping that his partner will become void in the suit and be able to discard in another suit, or simply to pave the way for an attack in that same suit. As an extreme example, in a nolo game where the diamonds are distributed so that one defender has **K Q 7**, 
-the other has **2 3**, and declarer has **4 5 6**, the successful defense is to cash the **K** and **Q**, then to trap declarer with the **7**. In order for the defenders to determine when to play the 7 in cases like this, the following carding convention has been developed: the defender following suit starts with his second lowest card, continues with higher cards, and finally plays his lowest card to signal that he is now void. In the example, the defender will follow with the 2 on the first trick and with the 3 on the second trick; his partner will then know from the high-low sequence that he has no more diamonds.
+Dans les contrats nolo, les défenseurs essaient de donner une levée au déclarant. Cela nécessite à la fois qu'un défenseur ait une carte basse dans une couleur, et généralement que son partenaire soit absent de cette couleur, pour qu'il ne surpasse pas le déclarant. Habituellement, la défense commence par un défenseur qui encaisse une couleur longue, en espérant que son partenaire deviendra absent de la couleur et pourra défausser dans une autre couleur, ou simplement pour préparer le terrain pour une attaque dans cette même couleur. Comme exemple extrême, dans un jeu nolo où les carreaux sont répartis de sorte qu'un défenseur a **R D 7**, l'autre a **2 3**, et le déclarant a **4 5 6**, la défense réussie consiste à encaisser le **R** et la **D**, puis à coincer le déclarant avec le **7**. Pour que les défenseurs déterminent quand jouer le 7 dans des cas comme celui-ci, la convention de signalisation suivante a été développée : le défenseur qui suit commence avec sa deuxième carte la plus basse, continue avec des cartes plus hautes, et joue finalement sa carte la plus basse pour signaler qu'il est maintenant absent. Dans l'exemple, le défenseur suivra avec le 2 lors de la première levée et avec le 3 lors de la deuxième levée ; son partenaire saura alors de la séquence haute-basse qu'il n'a plus de carreaux.
 
-Because defence is inherently more difficult that declarer play, the card requirements for successful contracts are fairly modest. If, for a game contract, you would exchange only two cards with the talon, you should usually be playing Solo.
+Parce que la défense est intrinsèquement plus difficile que le jeu du déclarant, les exigences de cartes pour des contrats réussis sont assez modestes. Si, pour un contrat de jeu, vous n'échangeriez que deux cartes avec le talon, vous devriez généralement jouer un Solo.
 
-Simple nolo is usually a fair chance on a hand that exchanges only one card, while exchanging 3 or more cards is normally against the odds. 
+Le Nolo simple est généralement une chance raisonnable sur une main qui n'échange qu'une carte, tandis qu'échanger 3 cartes ou plus est normalement contre les probabilités.
 
-Because there are 11 trumps in black suits but 12 in red suits, black-suited game contracts win on hands that appear slightly weaker than similar red-suited hands.
+Parce qu'il y a 11 atouts dans les couleurs noires mais 12 dans les couleurs rouges, les contrats de jeu en couleur noire gagnent avec des mains qui semblent légèrement plus faibles que des mains similaires en couleur rouge.
 
-For game contracts, all cards from the talon are usually used. Hence, it can usually be assumed that all the trumps participate in the play of the cards, and the players can take advantage of exact counting. In side suits, counting is somewhat pointless. 
+Pour les contrats de jeu, toutes les cartes du talon sont généralement utilisées. Par conséquent, on peut généralement supposer que tous les atouts participent au jeu, et les joueurs peuvent tirer parti d'un comptage exact. Dans les couleurs secondaires, le comptage est quelque peu inutile.
 
-A declarer exchanging from a side suit with **K Q J** will sometimes discard the **K** and **Q**. A subsequent play of the **J** can mislead the weaker defender who might not play a trump on the **J** because he expects his partner to beat it.
+Un déclarant qui échange à partir d'une couleur secondaire avec **R D V** se défera parfois du **R** et de la **D**. Un jeu ultérieur du **V** peut induire en erreur le défenseur faible qui pourrait ne pas jouer un atout sur le **V** parce qu'il s'attend à ce que son partenaire le batte.
 
-A defender exchanging only a few cards usually is best off by trying to make himiself void in a side suit.
+Un défenseur qui n'échange que quelques cartes a généralement intérêt à essayer de créer une absence dans une couleur secondaire.
 
-Cards from the talon that are not used are said to "sleep". 
+Les cartes du talon qui ne sont pas utilisées sont dites « dormir ».
 
-During an evening's play, all contracts except Nolo Ouvert are usually played. Nolo Ouvert is played once every 5-10 evenings. Tout is rare; the author has never seen an attempted Tout. 
+Au cours d'une soirée de jeu, tous les contrats sauf le Nolo ouvert sont généralement joués. Le Nolo ouvert est joué une fois toutes les 5 à 10 soirées. Le Tout est rare ; l'auteur n'a jamais vu de tentative de Tout.
 
-## Accommodating four players.
+## Accommoder quatre joueurs
 
-Usually only three players are active at a time. The player opposite the dealer sits out, and when two decks are in use, he shuffles the idle deck, leaving it on his left (which is the right of the next dealer). 
+Généralement, seuls trois joueurs sont actifs à la fois. Le joueur en face du donneur ne joue pas, et lorsqu'on utilise deux jeux, il mélange le jeu inactif, le laissant à sa gauche (qui est à la droite du donneur suivant).
 
-The fourth player participates in the payment after the play as though he were a defender. 
+Le quatrième joueur participe au paiement après le jeu comme s'il était un défenseur.
 
-If the contract becomes Simple Nolo, the fourth player must join the contract and participate in the play. After declarer has exchanged cards, the dealer picks up all 13 idle cards (the remaining talon **and** declarer's discards). Of these 13 cards, he discards four, thus obtaining a hand of 9 cards. At this point he may abandon his hand for bête, but if he plays to the first trick, his fate is scored as if he was a second declarer; he and declarer settle their accounts independently of each other, each counting as a defender against the other.
+Si le contrat devient un Nolo simple, le quatrième joueur doit rejoindre le contrat et participer au jeu. Après que le déclarant a échangé des cartes, le donneur ramasse les 13 cartes inactives (le talon restant **et** les défausses du déclarant). De ces 13 cartes, il en défausse quatre, obtenant ainsi une main de 9 cartes. À ce stade, il peut abandonner sa main pour bête, mais s'il joue à la première levée, son sort est marqué comme s'il était un deuxième déclarant ; lui et le déclarant règlent leurs comptes indépendamment l'un de l'autre, chacun comptant comme un défenseur contre l'autre.
 
-## Avoiding the wash-out
+## Éviter l'annulation
 
-Usually wash-outs are not tolerated. The simplest avoidance scheme, which is the tradition in the author's family, is the rule that any player holding *Spadille* must bid at least once unless another player has already bid, and that the dealer must bid if the two other players pass. In this way, a dealer who is forced to bid a poor hand has the consolation that Spadille is in the talon. In such cases, the dealer will often play tourné, at least ensuring that one additional trump will be obtained from the talon.
+Les annulations ne sont généralement pas tolérées. Le système d'évitement le plus simple, qui est la tradition dans la famille de l'auteur, est la règle selon laquelle tout joueur détenant la *Spadille* doit enchérir au moins une fois à moins qu'un autre joueur ait déjà enchéri, et que le donneur doit enchérir si les deux autres joueurs passent. Ainsi, un donneur forcé d'enchérir une mauvaise main a la consolation que la Spadille est dans le talon. Dans de tels cas, le donneur jouera souvent tourné, s'assurant au moins d'obtenir un atout supplémentaire du talon.
 
 ### Kaske
 
-Kaske is a technique for avoiding wash-outs which, although playable, appears to have gone out of fashion. If all three players pass, each player in turn may bid "kaske". If the auction is won by a kaske bid, the declarer takes eight cards from the talon and looks at them. He then chooses one of his own original nine cards to supplement the eight cards; but he also has the option to discard all nine of his original cards and take a ninth from the talon. Based on these nine cards, he names a trump suit. The defenders then exchange with the remaining five or four cards in the talon, and a (simple) game contract is played and scored normally.
+Le Kaske est une technique pour éviter les annulations qui, bien que jouable, semble être passée de mode. Si les trois joueurs passent, chaque joueur à son tour peut enchérir « kaske ». Si les enchères sont gagnées par une enchère kaske, le déclarant prend huit cartes du talon et les regarde. Il choisit ensuite une de ses neuf cartes d'origine pour compléter les huit cartes ; mais il a aussi l'option de défausser les neuf cartes d'origine et d'en prendre une neuvième du talon. Sur la base de ces neuf cartes, il nomme une couleur d'atout. Les défenseurs échangent alors avec les cinq ou quatre cartes restantes dans le talon, et un contrat de jeu (simple) est joué et marqué normalement.
 
 ### Mort
 
-Another possible method for avoiding wash-outs, useful only when there are four players, is as follows: After three passes, the fourth player picks up all 13 cards from the talon and discards four cards. He then names a trump suit and plays as declarer against three defenders, who cannot exchange any cards, since the talon is already used up. The rate is as for Simple Game. Since there are three defenders, declarer can win on the trick distributions like 3-2-2-2 and 4-3-1-1. 
+Une autre méthode possible pour éviter les annulations, utile uniquement lorsqu'il y a quatre joueurs, est la suivante : après trois passes, le quatrième joueur ramasse les 13 cartes du talon et en défausse quatre. Il nomme ensuite une couleur d'atout et joue comme déclarant contre trois défenseurs, qui ne peuvent échanger aucune carte, le talon étant déjà épuisé. Le taux est le même que pour le Jeu simple. Comme il y a trois défenseurs, le déclarant peut gagner sur les répartitions de levées comme 3-2-2-2 et 4-3-1-1.
 
-When playing with both kaske and mort, mort comes into effect only after all three
-players have passed the right to kaske.
+Lorsqu'on joue à la fois avec kaske et mort, mort n'entre en jeu qu'après que les trois joueurs ont passé le droit de kaske.
 
-## Variations on Contracts and Bids
+## Variantes sur les contrats et les enchères
 
-Several types of additional contracts and associated bids are played in some circles. 
-The variations on contracts mentioned here are all rated and scored in ranges comparable to Grand Tourne or Simple Nolo. Those who play with them need to agree in advance (or fight during play) on the ranking of the bids and the scores involved.
+Plusieurs types de contrats supplémentaires et d'enchères associées se jouent dans certains cercles.
+Les variantes de contrats mentionnées ici sont toutes classées et notées dans des gammes comparables au Grand tourné ou au Nolo simple. Ceux qui jouent avec doivent se mettre d'accord à l'avance (ou se disputer pendant le jeu) sur la hiérarchie des enchères et les scores impliqués.
 
 ### Grand
 
-This is L'Hombre's equivalent of No Trumps at bridge. Only spadille and basta count as trumps. Both declarer and defenders exchange cards with the talon. Declarer must exchange at least five cards, and a win requires at least five tricks.
+C'est l'équivalent de l'Hombre du Sans Atout au bridge. Seuls la spadille et la basta comptent comme atouts. Le déclarant et les défenseurs échangent des cartes avec le talon. Le déclarant doit échanger au moins cinq cartes, et un gain nécessite au moins cinq levées.
 
 ### Grandissimo
 
-This is like Grand, but the declarer does not exchange any cards. This contract is to Grand what Solo is to simple Game.
+C'est comme le Grand, mais le déclarant n'échange aucune carte. Ce contrat est au Grand ce que le Solo est au Jeu simple.
 
-### Grand Tourne on assorted features
+### Grand tourné sur des combinaisons diverses
 
-Some players allow Grand Tourne to be bid on holdings other than two black aces. The specific holdings allowed vary widely; many of them must be considered wildly gambling and would seem to undermine the original idea of bidding in the game. Some of the combinations seen are:
+Certains joueurs permettent de miser un Grand tourné sur des détentions autres que les deux as noirs. Les détentions spécifiques autorisées varient considérablement ; beaucoup d'entre elles doivent être considérées comme des paris sauvages et semblent saper l'idée originale des enchères dans le jeu. Certaines des combinaisons rencontrées sont :
 
-- two red aces
+- deux as rouges
 
-- one red and one black ace
+- un as rouge et un as noir
 
-- three (or four aces) - scoring an additional bonus
+- trois (ou quatre as) — marquant un bonus supplémentaire
 
-- the 7 of diamonds
+- le 7 de carreau
 
-Once you open this bag of variations, there is no limit to the holdings that you can agree should qualify for a Grand Tourne. 
+Une fois cette boîte de variantes ouverte, il n'y a pas de limite aux détentions sur lesquelles on peut s'accorder pour qualifier un Grand tourné.
 
-### Variations on Simple Nolo
+### Variantes du Nolo simple
 
-Sometimes multiple declarers are allowed at Simple Nolo. Once declarer has exchanged cards, a defender (or both) may declare that they are joining the Simple Nolo, exchange cards, and proceed as declarers. At the end of the play, each declarer settles his account with the two other players independently. In a four-person game, the fourth player still needs to join the game.
+Parfois, plusieurs déclarants sont autorisés au Nolo simple. Une fois que le déclarant a échangé des cartes, un défenseur (ou les deux) peut déclarer qu'il rejoint le Nolo simple, échanger des cartes, et procéder en tant que déclarant. À la fin du jeu, chaque déclarant règle son compte avec les deux autres joueurs indépendamment. Dans un jeu à quatre personnes, le quatrième joueur doit toujours rejoindre le jeu.
 
-There are numerous other variations on simple nolo, all of which seem to remove much of the traditional style of the game.
+Il existe de nombreuses autres variantes du Nolo simple, qui semblent toutes supprimer une grande partie du style traditionnel du jeu.
 
-- defenders may also exchange
+- les défenseurs peuvent aussi échanger
 
-- competitive bidding: to win the contract you must pledge to exchange more cards than your competitor.
+- enchères compétitives : pour gagner le contrat, vous devez vous engager à échanger plus de cartes que votre concurrent.
 
-- declarer may pick up one more card than he discarded, and then discard an extra card, but afterwards he must play as in Nolo Ouvert.
+- le déclarant peut ramasser une carte de plus qu'il n'en a défaussé, puis en défausser une supplémentaire, mais ensuite il doit jouer comme au Nolo ouvert.
 
-- declarer may repeat his exchange at the price of bete.
+- le déclarant peut répéter son échange au prix d'une bête.
 
-- all three players exchange and each pay the others for tricks scored in excess of three.
+- les trois joueurs échangent et chacun paie les autres pour les levées marquées au-dessus de trois.
 
-- mort-nolo; i..e. a mort may (or even must) be played as a nolo.
+- mort-nolo ; c'est-à-dire qu'un mort peut (ou doit) être joué comme un nolo.
 
-### Bonus for taking the first five tricks
+### Bonus pour prendre les cinq premières levées
 
-A declarer in a game contract may declare that he intends to take the first five tricks before he plays to the first trick. If he succeeds, he scores an additional token; if he fails he loses a token to each player. The outcome of the five-tricks declaration is independent of the outcome of the contract.
+Un déclarant dans un contrat de jeu peut déclarer son intention de prendre les cinq premières levées avant de jouer à la première levée. S'il réussit, il marque un jeton supplémentaire ; s'il échoue, il perd un jeton pour chaque joueur. L'issue de la déclaration de cinq levées est indépendante de l'issue du contrat.
 
-### Defenders take 4 tricks each
+### Les défenseurs prennent 4 levées chacun
 
-One trick to declarer and four to each defender is a generally treated as a kodille result. However, a known variant is to count this result as bête, and some even play it as a win for the declarer.
+Une levée pour le déclarant et quatre pour chaque défenseur est généralement traitée comme un résultat kodille. Cependant, une variante connue consiste à compter ce résultat comme une bête, et certains le jouent même comme un gain pour le déclarant.
 
-## Danish l'Hombre Union
+## Union danoise de l'Hombre
 
-Here is the home page of the [Dansk l'Hombre Union](https://www.lhombre.dk), which contains tournament rules (in Danish), and club and contact information.
-
-Home Page > Classified Index > Trick Taking Games > Hombre Group > L'Hombre
+Voici la page d'accueil de la [Dansk l'Hombre Union](https://www.lhombre.dk), qui contient les règles du tournoi (en danois), et des informations sur les clubs et les contacts.

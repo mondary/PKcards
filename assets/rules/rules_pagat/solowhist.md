@@ -3,102 +3,102 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A British card game for four players, with bids to win 5 or more tricks playing alone (Solo) or to lose all the tricks (Misère).
+**But :** Un jeu de cartes britannique pour quatre joueurs, avec des enchères pour gagner 5 levées ou plus en jouant seul (Solo) ou pour perdre toutes les levées (Misère).
 
 ---
 
-*This page is partly based on information from Frank O'Shaughnessy and David Morrison.*
+*Cette page est partiellement basée sur des informations de Frank O'Shaughnessy et David Morrison.*
 
 ## Introduction
 
-Solo Whist is a plain-trick game with trumps and bidding, closely related to the more elaborate and now obsolete game of Boston. Solo Whist is mainly played in Britain, having been introduced from the low countries in the late nineteenth century; it is also played to some extent in Australia and New Zealand.
+Le Solo Whist est un jeu de levées ordinaires avec atouts et enchères, étroitement lié au jeu plus élaboré et aujourd'hui obsolète du Boston. Le Solo Whist se joue principalement en Grande-Bretagne, ayant été introduit des pays bas au XIXe siècle ; il se joue également dans une certaine mesure en Australie et en Nouvelle-Zélande.
 
-## Players and cards
+## Joueurs et cartes
 
-There are four players, each ultimately playing for themselves, though they form temporary alliances - one against three or two against two - for each hand. 
+Il y a quatre joueurs, chacun jouant finalement pour soi-même, bien qu'ils forment des alliances temporaires — un contre trois ou deux contre deux — pour chaque donne.
 
-A standard 52 card pack is used, the cards in each suit ranking from high to low: **A K Q J 10 9 8 7 6 5 4 3 2**.
+Un jeu standard de 52 cartes est utilisé, les cartes de chaque couleur se classant de la plus forte à la plus faible : **A R D V 10 9 8 7 6 5 4 3 2**.
 
-## The deal
+## La donne
 
-The deal, bidding and play are clockwise. The cards are shuffled by the dealer and cut by the player to dealer's right. The dealer then deals out all the cards so that everyone has 13. The cards are dealt in packets of three until only four cards remain. These last four cards are dealt singly, turning the last card face up to indicate the prospective trump suit. This exposed card is part of the dealer's hand and can be picked up by the dealer at the end of the first trick if it was not played to that trick. The turn to deal passes to the left after each hand.
+La donne, les enchères et le jeu se font dans le sens horaire. Les cartes sont mélangées par le donneur et coupées par le joueur à la droite du donneur. Le donneur distribue ensuite toutes les cartes pour que chacun en ait 13. Les cartes sont distribuées en paquets de trois jusqu'à ce qu'il ne reste que quatre cartes. Ces quatre dernières cartes sont distribuées une par une, la dernière étant retournée face visible pour indiquer la couleur d'atout envisagée. Cette carte exposée fait partie de la main du donneur et peut être ramassée par le donneur à la fin de la première levée si elle n'a pas été jouée dans cette levée. Le tour de donne passe à gauche après chaque donne.
 
-## The bidding
+## Les enchères
 
-Beginning with the player to dealer's left, each player may pass or bid a contract. The possible bids in ascending order are as follows:
+En commençant par le joueur à la gauche du donneur, chaque joueur peut passer ou faire une enchère. Les enchères possibles par ordre croissant sont les suivantes :
 
-| Contract | Score | Description |
-| Prop | 1 unit | (Proposal) The bidder undertakes to win at least 8 tricks, playing in partnership with another player yet to be determined, using the suit of the turned up card as trump. |
-| Cop | (Acceptance) The bidder accepts a proposal (prop) bid made by another player - if it is not overcalled by a higher bid, these two will play together with the turned suit as trump and try to win at least 8 tricks. |
-| Solo | 1 unit | The bidder undertakes to win at least 5 tricks, playing alone, using the suit of the turned up card as trump. |
-| Misère | 2 units | The bidder undertakes to lose every trick, playing alone with no trumps. |
-| Abundance | 3 units | The bidder undertakes to win at least 9 tricks playing alone. The trump suit is chosen by the bidder. |
-| Abundance in Trumps | 3 units | The bidder undertakes to win at least 9 tricks playing alone, using the suit of the turned up card as trump. |
-| Misère Ouverte | 4 units | The bidder undertakes to lose every trick, playing alone with no trumps. The bidder's hand is placed face up on the table after the first trick is complete. |
-| Abundance Declared | 6 units | The bidder undertakes to win all 13 tricks, playing alone. There are no trumps, and the bidder leads to the first trick. |
+| Contrat | Score | Description |
+| Proposition | 1 unité | Le preneur s'engage à gagner au moins 8 levées, jouant en partenariat avec un autre joueur encore à déterminer, en utilisant la couleur de la carte retournée comme atout. |
+| Acceptation | Le preneur accepte une proposition faite par un autre joueur — si elle n'est pas surclassée par une enchère plus élevée, ces deux-là joueront ensemble avec la couleur retournée comme atout et tenteront de gagner au moins 8 levées. |
+| Solo | 1 unité | Le preneur s'engage à gagner au moins 5 levées, en jouant seul, en utilisant la couleur de la carte retournée comme atout. |
+| Misère | 2 unités | Le preneur s'engage à perdre toutes les levées, en jouant seul sans atout. |
+| Abondance | 3 unités | Le preneur s'engage à gagner au moins 9 levées en jouant seul. La couleur d'atout est choisie par le preneur. |
+| Abondance à l'Atout | 3 unités | Le preneur s'engage à gagner au moins 9 levées en jouant seul, en utilisant la couleur de la carte retournée comme atout. |
+| Misère Ouverte | 4 unités | Le preneur s'engage à perdre toutes les levées, en jouant seul sans atout. La main du preneur est placée face visible sur la table après que la première levée est terminée. |
+| Abondance Déclarée | 6 unités | Le preneur s'engage à gagner les 13 levées, en jouant seul. Il n'y a pas d'atout, et le preneur mène la première levée. |
 
-If all four players pass, then the cards are thrown in and next dealer deals. If someone bids, then subsequent players can either pass or bid higher. The bidding continues around the table as many times as necessary until the contract is settled - i.e. either there has been a prop and cop and no one has bid higher, or someone has bid one of the higher contracts and the other three players have passed. 
+Si les quatre joueurs passent, les cartes sont rassemblées et le donneur suivant distribue. Si quelqu'un enchérit, les joueurs suivants peuvent passer ou surenchérir. Les enchères continuent autour de la table autant de fois que nécessaire jusqu'à ce que le contrat soit établi — c'est-à-dire soit qu'il y a eu une proposition et une acceptation sans surenchère, soit que quelqu'un a fait l'une des enchères supérieures et que les trois autres joueurs ont passé.
 
-A player who has passed cannot bid later in the auction, except in one case: if the player to dealer's left passes initially and the only other bid on the first round is a proposal (prop), the player to dealer's left is allowed to accept (cop). No other player has this privilege.
+Un joueur qui a passé ne peut plus enchérir par la suite, sauf dans un cas : si le joueur à la gauche du donneur passe initialement et que la seule autre enchère au premier tour est une proposition, ce joueur est autorisé à l'accepter. Aucun autre joueur n'a ce privilège.
 
-Of course it is not allowed for a player to bid **cop** unless another player has already bid **prop**. If a player bids **prop** and everyone else passes, the proposing player has the choice of converting the **prop** to a **solo** or any higher bid. If the proposer does not wish to do this the cards are thrown in and the next player deals.
+Il n'est bien sûr pas permis d'enchérir « Acceptation » à moins qu'un autre joueur n'ait déjà fait une « Proposition ». Si un joueur fait une proposition et que tout le monde passe, le proposeur a le choix de convertir la proposition en Solo ou en toute enchère supérieure. Si le proposeur ne souhaite pas le faire, les cartes sont rassemblées et le joueur suivant distribue.
 
-When bidding **abundance** (or abundance declared), you do not announce the trump suit along with the bid, but wait until the other players have passed and then announce trumps immediately before the first lead. Any of the four suits can be chosen as trumps, including the suit of the exposed card. The bid of **abundance in trumps** is only used to overcall another player's bid of abundance.
+Lorsqu'on enchérit « Abondance » (ou Abondance Déclarée), on n'annonce pas la couleur d'atout avec l'enchère, mais on attend que les autres joueurs passent, puis on annonce l'atout juste avant la première carte menée. N'importe quelle des quatre couleurs peut être choisie comme atout, y compris la couleur de la carte exposée. L'enchère d'« Abondance à l'Atout » n'est utilisée que pour surenchérir l'Abondance d'un autre joueur.
 
-## The play
+## Le jeu
 
-The player to the dealer's left leads to the first trick (unless the bid is abundance declared, in which case the bidder leads). 
+Le joueur à la gauche du donneur mène la première levée (sauf si le contrat est une Abondance Déclarée, auquel cas le preneur mène).
 
-Any card may be led to a trick. The other three players must play a card of the same suit if they can. A player with no card of the led suit may play any card. 
+N'importe quelle carte peut être menée à une levée. Les trois autres joueurs doivent jouer une carte de la même couleur s'ils le peuvent. Un joueur n'ayant pas de carte de la couleur menée peut jouer n'importe quelle carte.
 
-If any trumps are played to a trick, it is won by the highest trump played. If there are no trumps in a trick, it is won by the highest card played in the suit that was led. The winner of a trick leads to the next.
+Si des atouts sont joués dans une levée, elle est gagnée par le plus haut atout joué. S'il n'y a pas d'atout dans une levée, elle est gagnée par la carte la plus haute de la couleur menée. Le gagnant d'une levée mène la suivante.
 
-## The scoring
+## La marque
 
-Players generally settle up in money after each deal. The score for each bid is given in the table of bids above. 
-In a prop and cop, the play is two against two; if the bidders make their 8 tricks or more, each receives 1 unit and each of their opponents pays 1 unit; if they fail the bidders each pay 1 and each opponent receives 1. 
-In all the other bids, the bidder is paid by all three opponents if successful and pays all three if the bid fails. So for example, you win 3 units in total (1 from each opponent) if you make a Solo, and 9 in total if you make an abundance.
+Les joueurs règlent généralement en argent après chaque donne. Le score de chaque enchère est indiqué dans le tableau des enchères ci-dessus.
 
-## Variations
+En proposition et acceptation, le jeu se fait deux contre deux ; si les preneurs réussissent leurs 8 levées ou plus, chacun reçoit 1 unité et chacun de leurs adversaires paie 1 unité ; s'ils échouent, chaque preneur paie 1 et chaque adversaire reçoit 1.
 
-Some play with just a single round of bidding. Each player has only one opportunity to speak except in the following two cases:
+Pour toutes les autres enchères, le preneur est payé par les trois adversaires en cas de réussite et paie les trois en cas d'échec. Ainsi, par exemple, vous gagnez 3 unités au total (1 de chaque adversaire) si vous réussissez un Solo, et 9 au total si vous réussissez une Abondance.
 
-- the player to dealer's left, having originally passed, can still accept a proposal;
+## Variantes
 
-- a player whose proposal is not accepted can raise the bid to solo.
+Certains jouent avec un seul tour d'enchères. Chaque joueur n'a qu'une seule occasion de parler, sauf dans les deux cas suivants :
 
-"Prop and cop" is considered by some to be uninteresting to play, so some players do not allow these bids; the lowest bid allowed is Solo.
+- le joueur à la gauche du donneur, ayant initialement passé, peut toujours accepter une proposition ;
 
-To increase the proportion of hands with uneven distributions with which higher bids are possible, some play that the cards are shuffled only at the start of a session and after a bid of abundance or higher. Otherwise, the cards are simply gathered together by the new dealer and the player to the dealer's right cuts. In this version the cards are often dealt in packets of 3 and 4 - for example 4-3-3-3, 3-4-3-3, 3-3-4-3, 3-3-3-4.
+- un joueur dont la proposition n'est pas acceptée peut monter l'enchère à Solo.
 
-Instead of turning the dealer's last card for trump, some cut a card from a second pack. Others go through the trump suits in cyclic order: hearts, clubs, diamonds, spades, hearts, etc.
+La « proposition et acceptation » est considérée par certains comme peu intéressante à jouer, aussi certains joueurs ne permettent pas ces enchères ; l'enchère la plus basse autorisée est le Solo.
 
-Some play that if a hand is passed out, the cards are gathered together without shuffling and the next hand is dealt as a "goulash" (packets of 5 + 3 + 5 instead of 3 + 3 + 3 + 3 + 1).
+Pour augmenter la proportion de donnes avec des distributions déséquilibrées permettant des enchères plus élevées, certains jouent sans mélanger les cartes qu'en début de session et après une enchère d'Abondance ou supérieure. Sinon, les cartes sont simplement rassemblées par le nouveau donneur et le joueur à sa droite coupe. Dans cette version, les cartes sont souvent distribuées en paquets de 3 et 4 — par exemple 4-3-3-3, 3-4-3-3, 3-3-4-3, 3-3-3-4.
 
-Some play that if everyone passes a special game is played with no trumps. This game is sometimes called "misery" and there are various forms of it, such as:
+Au lieu de retourner la dernière carte du donneur pour l'atout, certains coupent une carte d'un second jeu. D'autres suivent les couleurs d'atout dans l'ordre cyclique : cœurs, trèfles, carreaux, piques, cœurs, etc.
 
-- the object is to lose the last trick: the winner of the last trick pays the other three players as for a lost solo;
+Certains jouent que si une donne est passée, les cartes sont rassemblées sans être mélangées et la donne suivante est distribuée en « goulash » (paquets de 5 + 3 + 5 au lieu de 3 + 3 + 3 + 3 + 1).
 
-- the object is to avoid tricks: the player who wins fewest tricks wins as for a solo;
+Certains jouent que si tout le monde passe, un jeu spécial se joue sans atout. Ce jeu est parfois appelé « misère » et il en existe diverses formes, telles que :
 
-- the first player who takes five tricks pays as for a lost solo; if no one takes five, the loser is the first player who takes four tricks.
+- le but est de perdre la dernière levée : le gagnant de la dernière levée paie les trois autres joueurs comme pour un Solo perdu ;
 
-Some play abundance declared with a trump suit chosen by the bidder. Since the bidder has the first lead and can start by drawing trumps, the only effect of this is to make the bid somewhat risky in cases where the bidder has no long suit.
+- le but est d'éviter les levées : le joueur qui gagne le moins de levées gagne comme pour un Solo ;
 
-There are other scoring schedules. A common one is: prop & cop 2; solo; 2 misère 3; abundance 4; misère ouverte 6; abundance declared 8.
+- le premier joueur qui prend cinq levées paie comme pour un Solo perdu ; si personne ne prend cinq, le perdant est le premier joueur qui prend quatre levées.
 
-Many people play with a payment for overtricks in prop and cop, solo and abundance. In that case it is usual to set the basic score for a solo as 4, 5 or 6 units, increasing the other scores in proportion. Each overtrick or undertrick in a prop and cop or solo is worth an extra unit. In abundance, overtricks gain an extra two units each, but undertricks cost only one unit each. There is no score for over- or undertricks in Misère, Misère Ouverte or Abundance Declared.
+Certains jouent l'Abondance Déclarée avec une couleur d'atout choisie par le preneur. Puisque le preneur mène la première carte et peut commencer par tirer les atouts, le seul effet est de rendre l'enchère un peu risquée dans les cas où le preneur n'a pas de couleur longue.
 
-In old British money, the stake would often have been 6d for a solo plus 1d per overtrick, or 1s for a solo plus 3d per overtrick (overtricks counting double in abundance). In new money 10p for a solo plus 2p per overtrick or 20p plus 5p would be typical.
+Il existe d'autres barèmes de notation. L'un des plus courants est : proposition et acceptation 2 ; Solo 2 ; Misère 3 ; Abondance 4 ; Misère Ouverte 6 ; Abondance Déclarée 8.
 
-Misère is very hard to make against good defenders. For that reason, some experienced players rank Misère above Abundance in trumps and Misère Ouverte as the highest bid of all, adjusting the scoring appropriately.
+Beaucoup de gens jouent avec un paiement pour les sur-levées en proposition et acceptation, Solo et Abondance. Dans ce cas, il est courant de fixer le score de base d'un Solo à 4, 5 ou 6 unités, en augmentant les autres scores proportionnellement. Chaque sur-levée ou sous-levée en proposition et acceptation ou Solo vaut une unité supplémentaire. En Abondance, les sur-levées rapportent deux unités supplémentaires chacune, mais les sous-levées ne coûtent qu'une unité chacune. Il n'y a pas de score pour les sur- ou sous-levées en Misère, Misère Ouverte ou Abondance Déclarée.
 
-## Other Solo Whist web pages, software and online games
+Dans l'ancienne monnaie britannique, la mise était souvent de 6 pence pour un Solo plus 1 penny par sur-levée, ou 1 shilling pour un Solo plus 3 pence par sur-levée (les sur-levées comptant double en Abondance). En nouvelle monnaie, 10 pence pour un Solo plus 2 pence par sur-levée ou 20 pence plus 5 pence seraient typiques.
 
-[Solo Whist rules](https://cardgameheaven.com/solo-whist/) are available on the Card Game Heaven site.
+La Misère est très difficile à réussir contre de bons défenseurs. Pour cette raison, certains joueurs expérimentés classent la Misère au-dessus de l'Abondance à l'Atout et la Misère Ouverte comme l'enchère la plus élevée de toutes, en ajustant la notation en conséquence.
 
-Here is [Anna Cubed](https://alexpounds.com/code/annacubed), a freeware [Solo Whist Program](https://alexpounds.com/code/annacubed) by Alex Pounds. It is written in Java and should work on Windows, Linux and Mac OSX computers. You can play against the computer or against live opponents over the Net.
+## Autres pages web, logiciels et jeux en ligne sur le Solo Whist
 
-Solo Whist can be played online at [Board Game Arena](https://boardgamearena.com/gamepanel?game=solowhist).
+Les [règles du Solo Whist](https://cardgameheaven.com/solo-whist/) sont disponibles sur le site Card Game Heaven.
 
-Home Page > Classified Index > Trick Taking Games > Boston group > Solo Whist
+Voici [Anna Cubed](https://alexpounds.com/code/annacubed), un logiciel gratuit de [Solo Whist](https://alexpounds.com/code/annacubed) par Alex Pounds. Il est écrit en Java et fonctionne sur les ordinateurs Windows, Linux et Mac OSX. Vous pouvez jouer contre l'ordinateur ou contre des adversaires en direct sur Internet.
+
+Le Solo Whist peut être joué en ligne sur [Board Game Arena](https://boardgamearena.com/gamepanel?game=solowhist).

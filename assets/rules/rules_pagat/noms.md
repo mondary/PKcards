@@ -3,78 +3,76 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for Noms or Nomination Whist, a four player card game played in the Royal Navy, in which partners are chosen by calling a card and remain secret until the card is played.
+**But :** Règles du Noms ou Nomination Whist, un jeu de cartes à quatre joueurs pratiqué dans la Royal Navy, dans lequel les partenaires sont choisis en appelant une carte et restent secrets jusqu'à ce que la carte soit jouée.
 
 ---
 
-*This page is based on information from Martin Garrod, Brian Daglish, Steve Heath, Stuart Carroll, David Parlett, Rodney Jones, Tony Simons and Jim Buckley.*
+*Cette page est basée sur des informations de Martin Garrod, Brian Daglish, Steve Heath, Stuart Carroll, David Parlett, Rodney Jones, Tony Simons et Jim Buckley.*
 
 ## Introduction
 
-**Noms**, short for **Nominations** or **Nomination Whist** and sometimes known affectionately as **Nommie**, is a four-player card game played in the Royal Navy and to a lesser extent in the British Army. Please note that the same name Nomination Whist is also used in Britain for various versions of the different game Oh Hell!. On his [Navy Song](https://web.archive.org/web/20180723070149/http://myweb.tiscali.co.uk/navysong/Data%20Game/Noms%20%26%20Whist.htm) website, Barry Scott mentions both games, distinguishing them as **'Big Ships Rules**' for Oh Hell! and **'Small Ships Rules'** for the partnership game described on this page.
+**Noms**, abréviation de **Nominations** ou **Nomination Whist** et parfois affectueusement appelé **Nommie**, est un jeu de cartes à quatre joueurs pratiqué dans la Royal Navy et, dans une moindre mesure, dans l'armée britannique. Veuillez noter que le même nom Nomination Whist est aussi utilisé en Grande-Bretagne pour diverses versions du jeu différent Oh Hell!. Sur son site web [Navy Song](https://web.archive.org/web/20180723070149/http://myweb.tiscali.co.uk/navysong/Data%20Game/Noms%20%26%20Whist.htm), Barry Scott mentionne les deux jeux, les distinguant comme les **« Règles des Gros Bateaux »** pour Oh Hell! et les **« Règles des Petits Bateaux »** pour le jeu d'équipe décrit sur cette page.
 
-Noms is a whist-like game with bidding, in which the bidder's partner is chosen by calling a card, and the identity of the partner remains secret until the called card is played. There are quite a few variants, and I am not sure at this point which is the most usual. I will describe one version and then list the alternative rules I have come across in the Variations section towards the end of the page.
+Noms est un jeu de type whist avec enchères, dans lequel le partenaire de l'enchérisseur est choisi en appelant une carte, et l'identité du partenaire reste secrète jusqu'à ce que la carte appelée soit jouée. Il existe pas mal de variantes, et je ne suis pas sûr pour le moment de laquelle est la plus courante. Je décrirai une version puis énumérerai les règles alternatives que j'ai rencontrées dans la section Variantes vers la fin de la page.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players, and a standard 52-card Anglo-American pack is used, without jokers. The cards in each suit rank from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2. Deal and play are clockwise.
+Il y a quatre joueurs, et un jeu standard anglo-américain de 52 cartes est utilisé, sans jokers. Les cartes de chaque enseigne se classent de haut en bas : A-R-D-V-10-9-8-7-6-5-4-3-2. La distribution et le jeu se font dans le sens horaire.
 
-## Deal
+## Distribution
 
-Any player may deal first, and the turn to deal passes to the left after each hand. The cards are not shuffled between deals: the dealer simply gathers the cards from the previous hand, stacking the tricks together, cuts the pack and starts dealing. Traditionally, the cards are dealt in batches of four and three as follows: 4-3-3-3; 3-4-3-3; 3-3-4-3; 3-3-3-4. That is, you deal four cards to the left, three to the player opposite, three to the right and three to yourself, then three to the left, four opposite and so on. This will result in everyone having a hand of 13 cards.
+N'importe quel joueur peut distribuer en premier, et le tour de distribution passe à gauche après chaque donne. Les cartes ne sont pas mélangées entre les donnes : le donneur rassemble simplement les cartes de la donne précédente, empilant les levées ensemble, coupe le jeu et commence à distribuer. Traditionnellement, les cartes sont distribuées par lots de quatre et trois comme suit : 4-3-3-3 ; 3-4-3-3 ; 3-3-4-3 ; 3-3-3-4. C'est-à-dire, vous distribuez quatre cartes à gauche, trois au joueur en face, trois à droite et trois à vous-même, puis trois à gauche, quatre en face et ainsi de suite. Cela donnera à chacun une main de 13 cartes.
 
-After a deal in which all four players pass, a **double hand** is played. All players sort their hands into suits from left to right: hearts, clubs, diamonds, spades, with the cards in each suit in descending order, highest card to the left. The hands are then stacked in clockwise order, starting to dealer's left. The new dealer cuts the cards once, dividing the pack and placing the bottom section on the top, without shuffling, and deals as above.
+Après une donne où les quatre joueurs ont passé, une **double donne** est jouée. Tous les joueurs trient leur main par enseignes de gauche à droite : cœurs, trèfles, carreaux, piques, les cartes de chaque enseigne étant en ordre décroissant, la carte la plus haute à gauche. Les mains sont ensuite empilées dans l'ordre horaire, en commençant par la gauche du donneur. Le nouveau donneur coupe les cartes une fois, divisant le jeu et plaçant la section du bas sur le dessus, sans mélanger, et distribue comme ci-dessus.
 
-## Bidding
+## Enchères
 
-Bids are an undertaking to win at least the stated number of tricks with the help of a partner chosen by nominating a card. The bidder will choose the trump suit but the bids do not mention a suit, only the number of tricks. There are also two special bids which undertake to lose every trick, playing alone: **Mis** (short for Misère) and **Mis a Vis** (short for Misère Ouverte), the difference being that in the higher bid Mis a Vis, all the bidder's cards are exposed after the first trick.
+Les enchères sont un engagement à gagner au moins le nombre de levées annoncé avec l'aide d'un partenaire choisi en nommant une carte. L'enchérisseur choisira l'atout mais les enchères ne mentionnent pas une enseigne, seulement le nombre de levées. Il y a aussi deux enchères spéciales qui s'engagent à perdre chaque levée, en jouant seul : **Mis** (abréviation de Misère) et **Mis a Vis** (abréviation de Misère Ouverte), la différence étant que dans l'enchère supérieure Mis a Vis, toutes les cartes de l'enchérisseur sont exposées après la première levée.
 
-The lowest possible bid is 10 (but see variations below), and the ranking of the bids from lowest to highest is: 10, 11, 12, 13, Mis, Mis a Vis.
+L'enchère la plus basse possible est 10 (voir variantes ci-dessous), et le classement des enchères de la plus basse à la plus haute est : 10, 11, 12, 13, Mis, Mis a Vis.
 
-Player's speak in turn, in clockwise order, beginning with the player to dealer's left. At your turn you can pass or make a bid, which must be higher than the previous bid. If all four players pass there is no play, and the cards are sorted and stacked for a double hand, as described above. If anyone bids, the bidding continues for as many circuits as necessary until three consecutive players pass. Passing does not prevent you from bidding at your next turn if someone else has bid, but if a bid is followed by three passes the auction ends and the bid cannot be changed.
+Les joueurs parlent à tour de rôle, dans l'ordre horaire, en commençant par le joueur à la gauche du donneur. À votre tour, vous pouvez passer ou faire une enchère, qui doit être supérieure à l'enchère précédente. Si les quatre joueurs passent, il n'y a pas de jeu, et les cartes sont triées et empilées pour une double donne, comme décrit ci-dessus. Si quelqu'un enchérit, les enchères continuent pendant autant de tours que nécessaire jusqu'à ce que trois joueurs consécutifs passent. Passer ne vous empêche pas d'enchérir à votre prochain tour si quelqu'un d'autre a enchéri, mais si une enchère est suivie de trois passes, l'enchère s'arrête et le montant ne peut plus être modifié.
 
-## Play
+## Jeu
 
-The highest bidder leads to the first trick. If the final bid was a number, then at the same time as leading, the bidder must state the trump suit or no trumps and also nominate a card whose holder will be the bidder's partner for the hand. For example the bidder, having bid 12, might say "twelve hearts on the ace of clubs", meaning that hearts are trumps and the holder of the ace of clubs is the bidder's partner. If the suit of the nominated card is not mentioned, it is assumed that a trump is called, for example "spades are trumps and the queen is it" means that the bidder wants to play with the holder of the spade queen as a partner. If you want to play without trumps you must say so: "no trumps with the king of diamonds" for example. If no suit is mentioned after a number bid, the suit led by the bidder to the first trick is trumps. It is possible to nominate a card that is in your own hand, thus playing alone and potentially causing some confusion among your three opponents, who will not realise initially that they are all on the same team.
+L'enchérisseur le plus élevé mène la première levée. Si l'enchère finale était un nombre, alors en même temps que de mener, l'enchérisseur doit annoncer l'atout ou sans atout, et nommer également une carte dont le détenteur sera le partenaire de l'enchérisseur pour la donne. Par exemple, l'enchérisseur, ayant enchéri 12, pourrait dire « douze cœurs sur l'as de trèfle », signifiant que les cœurs sont atout et que le détenteur de l'as de trèfle est le partenaire de l'enchérisseur. Si l'enseigne de la carte nommée n'est pas mentionnée, on suppose qu'un atout est appelé, par exemple « les piques sont atout et la dame c'est elle » signifie que l'enchérisseur veut jouer avec le détenteur de la dame de pique comme partenaire. Si vous voulez jouer sans atout vous devez le dire : « sans atout avec le roi de carreau » par exemple. Si aucune enseigne n'est mentionnée après une enchère numérique, l'enseigne menée par l'enchérisseur à la première levée est l'atout. Il est possible de nommer une carte qui se trouve dans votre propre main, jouant ainsi seul et causant potentiellement de la confusion parmi vos trois adversaires, qui ne réaliseront pas initialement qu'ils sont tous dans la même équipe.
 
-The player who holds the nominated card must not say or do anything to indicate this. The identity of the partner is definitively revealed only when the called card is played, though it may be guessed earlier because the partner will try to play cards that will help the bidder.
+Le joueur qui détient la carte nommée ne doit rien dire ou faire pour l'indiquer. L'identité du partenaire n'est révélée de manière définitive que lorsque la carte appelée est jouée, bien qu'elle puisse être devinée plus tôt car le partenaire essaiera de jouer des cartes qui aideront l'enchérisseur.
 
-If the final bid was Mis or Mis a Vis there are no trumps and the bidder is alone, so the bidder does not have to say anything when leading to the first trick.
+Si l'enchère finale était Mis ou Mis a Vis, il n'y a pas d'atout et l'enchérisseur est seul, donc il n'a rien à dire en menant la première levée.
 
-Each trick consists of one card from each player, played face up in the centre of the table in clockwise order. Players must always follow suit if they can, playing a card of the same suit as the first card played to the trick. A player who has no card of the suit that was led may play any card. If anyone plays a trump, the trick is won by the highest trump in it, otherwise it is won by the highest card of the suit that was led. The winner of the trick gathers the four cards, stacks them face down in front of himself and leads any card to the next trick. Since the partnerships are not known until the nominated card is played, all four players keep their tricks separately, and partners combine their tricks only at the end or at the earliest when the partnerships are revealed by the play of the called card.
+Chaque levée consiste en une carte de chaque joueur, jouée face visible au centre de la table dans l'ordre horaire. Les joueurs doivent toujours suivre l'enseigne s'ils le peuvent, en jouant une carte de la même enseigne que la première carte jouée à la levée. Un joueur qui n'a pas de carte de l'enseigne menée peut jouer n'importe quelle carte. Si quelqu'un joue un atout, la levée est gagnée par le plus haut atout, sinon elle est gagnée par la carte la plus haute de l'enseigne menée. Le gagnant de la levée ramasse les quatre cartes, les empile face contre le bas devant lui et mène n'importe quelle carte à la levée suivante. Puisque les équipes ne sont pas connues avant que la carte nommée soit jouée, les quatre joueurs gardent leurs levées séparément, et les partenaires ne combinent leurs levées qu'à la fin ou au plus tôt quand les équipes sont révélées par le jeu de la carte appelée.
 
-If your bid was Mis a Vis, then at the end of the first trick you must place your remaining 12 cards face up on the table, preferably arranged neatly by suit and rank, so that your opponents can see what you have and play accordingly. They may of course surrender at this point if it is clear that there is no way that they can force you to take a trick.
+Si votre enchère était Mis a Vis, alors à la fin de la première levée vous devez placer vos 12 cartes restantes face visible sur la table, de préférence arrangées proprement par enseigne et rang, pour que vos adversaires puissent voir ce que vous avez et jouer en conséquence. Ils peuvent bien sûr abandonner à ce moment-là s'il est clair qu'il n'y a aucun moyen de vous forcer à prendre une levée.
 
-## Scoring
+## Comptage
 
-The bid succeeds if the bidder together with the holder of the nominated card win at least as many tricks as the number that was bid. In this case they each score the amount of the bid. Note that there is no score for overtricks: if you bid 10 and win 12 tricks, you and your partner just score 10. If the bidder and partner fail to win enough tricks between them, the other two players score the amount of the bid. If the bidder plays alone (the nominated card was in the bidder's hand), then the bidder alone scores the bid if successful, and if it fails the other three players all score that amount.
+L'enchère réussit si l'enchérisseur avec le détenteur de la carte nommée gagnent au moins autant de levées que le nombre enchéri. Dans ce cas, chacun marque le montant de l'enchère. Notez qu'il n'y a pas de score pour les surlevées : si vous enchérissez 10 et gagnez 12 levées, vous et votre partenaire marquez seulement 10. Si l'enchérisseur et le partenaire échouent à gagner assez de levées ensemble, les deux autres joueurs marquent le montant de l'enchère. Si l'enchérisseur joue seul (la carte nommée était dans la main de l'enchérisseur), l'enchérisseur seul marque l'enchère en cas de succès, et en cas d'échec, les trois autres joueurs marquent tous ce montant.
 
-The score for a Mis is 13 (the same as for 13), and for a Mis a Vis 26. If the bidder succeeds in losing every trick, the bidder scores the appropriate amount; if the bidder wins a trick, all three opponents score that amount.
+Le score pour un Mis est 13 (le même que pour 13), et pour un Mis a Vis 26. Si l'enchérisseur réussit à perdre chaque levée, il marque le montant approprié ; s'il gagne une levée, les trois adversaires marquent ce montant.
 
-In a double hand, played after a deal in which all four player's pass, the score for the bid is doubled. Because of the way the cards are stacked it will quite often happen that a player can bid 13, Mis or Mis a Vis for a score of 26 or 52 points in a double hand.
+Dans une double donne, jouée après une donne où les quatre joueurs ont passé, le score de l'enchère est doublé. En raison de la façon dont les cartes sont empilées, il arrivera souvent qu'un joueur puisse enchérir 13, Mis ou Mis a Vis pour un score de 26 ou 52 points dans une double donne.
 
-A separate cumulative score is kept for each player and the game can continue until someone reaches the agreed target score, typically 101. The player with most points then wins. 
+Un score cumulé séparé est conservé pour chaque joueur et le jeu peut continuer jusqu'à ce que quelqu'un atteigne le score cible convenu, typiquement 101. Le joueur avec le plus de points gagne alors.
 
-In practice, however, the length of a session when played aboard a ship may depend on the time available until someone has to go on watch, at which point the player with the highest score is the winner.
+En pratique, cependant, la durée d'une session jouée à bord d'un navire peut dépendre du temps disponible avant que quelqu'un doive aller de quart, moment auquel le joueur avec le score le plus élevé est le gagnant.
 
-## Variations
+## Variantes
 
-Some players use other methods of dealing, such as 5 cards each, then 3 cards each, then 5 cards each. Some play that when the hand is passed out, the cards are redealt by the same dealer rather than the next dealer after stacking.
+Certains joueurs utilisent d'autres méthodes de distribution, comme 5 cartes chacun, puis 3 cartes chacun, puis 5 cartes chacun. Certains jouent que lorsque la main est passée, les cartes sont redistribuées par le même donneur plutôt que par le donneur suivant après l'empilement.
 
-Many players allow the bidding to begin lower, for example at 7 or 8. If bids as low as 7 are allowed it will be very rare for everyone to pass. Some play that if the first three players pass the fourth player is forced to bid 7. 
+Beaucoup de joueurs permettent que les enchères commencent plus bas, par exemple à 7 ou 8. Si des enchères aussi basses que 7 sont permises, il sera très rare que tout le monde passe. Certains jouent que si les trois premiers joueurs passent, le quatrième joueur est obligé d'enchérir 7.
 
-Some play that each of the bidder's opponents score one point for each trick that they took as individuals. These points are scored whether the bid succeeds or not. It is still in the opponents' interests to cooperate to defeat the bid, so as to prevent the bidder's team from scoring the value of the bid.
+Certains jouent que chaque adversaire de l'enchérisseur marque un point pour chaque levée qu'il a prise individuellement. Ces points sont marqués que l'enchère réussisse ou non. Il reste dans l'intérêt des adversaires de coopérer pour faire échouer l'enchère, afin d'empêcher l'équipe de l'enchérisseur de marquer la valeur de l'enchère.
 
-Some play that a bid of Misère ranks between 10 and 11, instead of above 13 and there is no Misère Ouverte. In this version, Misère scores 10 and for a failed Misère the bidder **deducts** 10 points plus one point for each trick taken while the opponents score nothing.
+Certains jouent qu'une enchère de Misère se classe entre 10 et 11, au lieu d'au-dessus de 13, et qu'il n'y a pas de Misère Ouverte. Dans cette version, la Misère vaut 10 et pour une Misère échouée, l'enchérisseur **déduit** 10 points plus un point pour chaque levée prise, tandis que les adversaires ne marquent rien.
 
-Some play that it is not the bidder but the player to dealer's left who leads to the first trick.
+Certains jouent que ce n'est pas l'enchérisseur mais le joueur à la gauche du donneur qui mène la première levée.
 
-Some play that a bid of 13 scores 26 points rather than 13. 
+Certains jouent qu'une enchère de 13 vaut 26 points plutôt que 13.
 
-One source gives the interesting rule that if the bidder's team wins all the tricks having bid less than 13, this counts as a failure and their **opponents** score 26.
+Une source donne la règle intéressante que si l'équipe de l'enchérisseur gagne toutes les levées après avoir enchéri moins de 13, cela compte comme un échec et leurs **adversaires** marquent 26.
 
-## Other Noms Websites
+## Autres sites web sur Noms
 
-Rules for one version called [Nomination Whist](https://web.archive.org/web/20130513050339/http://www.jambutty.u-net.com/09i03.html) are given on this archive copy of Jim Buckley's website. 
-
-Home Page > Classified Index > Trick Taking Games > Boston group > Noms
+Les règles pour une version appelée [Nomination Whist](https://web.archive.org/web/20130513050339/http://www.jambutty.u-net.com/09i03.html) sont données sur cette copie d'archive du site web de Jim Buckley.

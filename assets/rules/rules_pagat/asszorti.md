@@ -3,127 +3,125 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Hungarian game for three players using a 36-card pack in which the bidder undertakes to win at least six of the eleven tricks.
+**But :** Un jeu hongrois pour trois joueurs utilisant un jeu de 36 cartes dans lequel le déclarant s'engage à gagner au moins six des onze levées.
 
 ---
 
 ## Introduction
 
-Asszorti is a Hungarian game for three players that incorporates elements of Preferansz and Tarokk but is simpler than either. From Preferansz it inherits the three-player format where the final bidder plays alone with the objective of winning at least six tricks. The lone player has the advantage of selecting the trump suit and of exchanging some cards with the talon to improve their hand. As in Tarokk the four bids 3, 2, 1 and 0 ('hand') correspond to the number of cards the lone player can take from the talon. Also from Tarokk comes the option of announcing extra feats which can succeed or fail independently of the basic game. In Asszorti there is only one such announcement - *arrivázs* - which is a commitment to win all of the last three tricks. As in Tarokk, the scores for the basic game and announcement if any can be independently doubled, redoubled, etc. 
+L'Asszorti est un jeu hongrois pour trois joueurs qui incorpore des éléments du Preferansz et du Tarokk mais qui est plus simple que l'un ou l'autre. Du Preferansz, il hérite du format à trois joueurs où le dernier enchérisseur joue seul avec l'objectif de gagner au moins six levées. Le joueur solo a l'avantage de choisir la couleur d'atout et d'échanger certaines cartes avec le talon pour améliorer sa main. Comme au Tarokk, les quatre enchères 3, 2, 1 et 0 (« main ») correspondent au nombre de cartes que le joueur solo peut prendre au talon. Du Tarokk vient également l'option d'annoncer des exploits supplémentaires qui peuvent réussir ou échouer indépendamment du jeu de base. À l'Asszorti, il n'y a qu'une seule annonce de ce type — l'*arrivázs* — qui est un engagement à gagner les trois dernières levées. Comme au Tarokk, les scores du jeu de base et de l'annonce éventuelle peuvent être indépendamment doublés, redoublés, etc.
 
-So far as I can tell, all published descriptions of Asszorti are ultimately based on a single source, the book *Ulti, Tarokk és néhány kis játék* (Ulti, Tarokk and a few minor games) by József Pais (Budapest, 1990). Asszorti is one of the 'minor games' which the book's introduction implies are traditional Hungarian games that had not previously been described in print. In 1998 Anthony Smith produced a summary English translation of the rules, and David Parlett further summarised this for the 2000 edition of his Penguin Book of Card Games. Several subsequent publications are based on Parlett's account. In the course of this process some details of the game were lost or misinterpreted. On this page I give the original rules of the game based on the description by Pais. In addition to the rules, Pais's book provides several pages of advice on bidding and play and some example deals.
+Pour autant que je puisse le déterminer, toutes les descriptions publiées de l'Asszorti remontent finalement à une source unique, le livre *Ulti, Tarokk és néhány kis játék* (Ulti, Tarokk et quelques jeux mineurs) de József Pais (Budapest, 1990). L'Asszorti est l'un des « jeux mineurs » dont l'introduction du livre indique qu'il s'agit de jeux hongrois traditionnels qui n'avaient pas été décrits précédemment par écrit. En 1998, Anthony Smith a produit un résumé en anglais des règles, et David Parlett l'a encore résumé pour l'édition 2000 de son *Penguin Book of Card Games*. Plusieurs publications ultérieures sont basées sur le compte rendu de Parlett. Au cours de ce processus, certains détails du jeu ont été perdus ou mal interprétés. Sur cette page, je donne les règles originales du jeu basées sur la description de Pais. En plus des règles, le livre de Pais fournit plusieurs pages de conseils sur les enchères et le jeu ainsi que des exemples de donnes.
 
-## Players and Cards
+## Joueurs et cartes
 
-Asszorti is played by three people using a French-suited pack of 36 cards, the cards in each suit ranking from high to low A, K, Q, J, 10, 9, 8, 7, 6. The pack can be made by removing the 5's, 4's, 3's and 2's from a standard 52-card pack.
+L'Asszorti se joue à trois avec un jeu de 36 cartes à couleurs françaises, les cartes de chaque couleur étant classées de haut en bas A, R, D, V, 10, 9, 8, 7, 6. Le jeu peut être obtenu en retirant les 5, 4, 3 et 2 d'un jeu standard de 52 cartes.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## La donne
 
-The first dealer is chosen by any convenient method. The dealer shuffles, the player to dealer's right cuts and the dealer deals clockwise starting with the player to the left, first a packet of 3 cards to each player, then a packet of 3 cards face down in the middle of the table to form the *talon*, then the rest of the cards in packets of 2 at a time, so that each player has a hand of 11 cards.
+Le premier donneur est choisi par n'importe quelle méthode pratique. Le donneur mélange, le joueur à sa droite coupe et le donneur distribue dans le sens horaire en commençant par le joueur à sa gauche, d'abord un paquet de 3 cartes à chaque joueur, puis un paquet de 3 cartes face cachée au centre de la table pour former le *talon*, puis le reste des cartes par paquets de 2, de sorte que chaque joueur a une main de 11 cartes.
 
-After the hands have been bid, played and scored, the turn to deal passes to the left.
+Après que les mains ont été enchéries, jouées et comptées, le tour de donne passe à la gauche.
 
-## Bidding, Talon Exchange
+## Enchères, échange avec le talon
 
-Players speak in clockwise order, starting with the player to dealer's left. The possible bids in ascending order are "3" (*három*), "2" (*kettő*), "1" (*egy*) and "hand" (*kézből*). A bid is an offer to win at least six of the eleven tricks, playing alone against the other two players as a team. The final bidder's hand can be improved by drawing cards from the top of the talon and discarding an equal number of cards, after which the bidder chooses the trump suit. The number of cards drawn cannot be more than the final bid, "hand" indicating that the bidder will play without using the talon. A player who does not wish to bid says "pass" and cannot re-enter the auction. 
+Les joueurs parlent dans l'ordre horaire, en commençant par le joueur à la gauche du donneur. Les enchères possibles par ordre croissant sont « 3 » (*három*), « 2 » (*kettő*), « 1 » (*egy*) et « main » (*kézből*). Une enchère est une offre de gagner au moins six des onze levées, en jouant seul contre les deux autres joueurs en tant qu'équipe. La main de l'enchérisseur final peut être améliorée en tirant des cartes du dessus du talon et en écartant un nombre égal de cartes, après quoi l'enchérisseur choisit la couleur d'atout. Le nombre de cartes tirées ne peut pas dépasser l'enchère finale, « main » indiquant que l'enchérisseur jouera sans utiliser le talon. Un joueur qui ne souhaite pas enchérir dit « passe » et ne peut pas revenir aux enchères.
 
-Jump bidding is not allowed. The first player must either pass or bid "3" and if the first player passes the second player has the same options. After a bid of "3", the next player who wants to bid can only say "2", and so on. If there is more than one bidder there are further rounds of bidding to determine who is willing to bid highest. A bidder whose first turn to speak was earlier than the latest bidder does not bid higher but either says "hold" (*tartom*) to equal the previous bid or passes. Later players then make the next higher bid or pass. For example if the players in order are A, B and C and C has dealt the bidding might begin:
+Les enchères par saut ne sont pas autorisées. Le premier joueur doit soit passer soit enchérir « 3 » et si le premier passe, le deuxième a les mêmes options. Après une enchère de « 3 », le joueur suivant qui veut enchérir peut seulement dire « 2 », et ainsi de suite. S'il y a plus d'un enchérisseur, il y a d'autres tours d'enchères pour déterminer qui est prêt à enchérir le plus haut. Un enchérisseur dont le premier tour de parole était antérieur au dernier enchérisseur n'enchérit pas plus haut mais dit soit « je maintiens » (*tartom*) pour égaler l'enchère précédente, soit passe. Les joueurs suivants font alors l'enchère supérieure ou passent. Par exemple, si les joueurs dans l'ordre sont A, B et C et que C a distribué, les enchères pourraient commencer :
 
 | A | B | C |
-| 3 | pass | 2 |
-| hold | --- | 1 |
-| ? |   |   |
+| 3 | passe | 2 |
+| maintient | --- | 1 |
+| ? |   |   |
 
-B does not get a bid in the second round having already passed. A can now say "hold" or "pass". If A passes, C becomes the lone player. If A holds C can bid "hand" or pass leaving A to play. If C bids "hand", A either holds to take over the bid or passes leaving C to play. That ends the auction. 
+B n'a pas d'enchère au deuxième tour ayant déjà passé. A peut maintenant dire « je maintiens » ou « passe ». Si A passe, C devient le joueur solo. Si A maintient, C peut enchérir « main » ou passer en laissant A jouer. Si C enchérit « main », A maintient pour reprendre l'enchère ou passe en laissant C jouer. Cela termine les enchères.
 
-Another example:
+Un autre exemple :
 
 | A | B | C |
 | 3 | 2 | 1 |
-| hold | ? |   |
+| maintient | ? |   |
 
-Since A has held the 1, B must now either bid "hand" or pass. If B passes C has the same options. If either of them bids "hand", A must decide whether to hold or pass.
+Puisque A a maintenu le 1, B doit maintenant enchérir « main » ou passer. Si B passe, C a les mêmes options. Si l'un d'eux enchérit « main », A doit décider de maintenir ou de passer.
 
-When two players have passed, the third player becomes the **declarer** and announces the **contract** - 3, 2, 1 or hand - which must be equal to or higher than the final bid.
+Lorsque deux joueurs ont passé, le troisième joueur devient le **déclarant** et annonce le **contrat** — 3, 2, 1 ou main — qui doit être égal ou supérieur à l'enchère finale.
 
-If the first two players pass initially, the dealer cannot pass but automatically becomes the declarer and can announce any of the four contracts.
+Si les deux premiers joueurs passent initialement, le donneur ne peut pas passer mais devient automatiquement le déclarant et peut annoncer n'importe lequel des quatre contrats.
 
-**Note.** *The auction could be simplified by allowing jump bids and specifying that the contract must be equal to the final bid, rather than only permitting minimum bids and allowing the declarer to switch to a higher contract after the auction. This would not materially alter the game. The practice of prohibiting jump bids and allowing the declarer to increase the contract later is inherited from Preferansz and maybe also influenced by Tarokk, where jump bids have conventional meanings promising that the bidder holds particular cards.* 
+**Note.** *Les enchères pourraient être simplifiées en autorisant les enchères par saut et en spécifiant que le contrat doit être égal à l'enchère finale, plutôt que de ne permettre que les enchères minimums et d'autoriser le déclarant à passer à un contrat supérieur après les enchères. Cela ne modifierait pas matériellement le jeu. La pratique d'interdire les enchères par saut et de permettre au déclarant d'augmenter le contrat plus tard est héritée du Preferansz et peut-être aussi influencée par le Tarokk, où les enchères par saut ont des significations conventionnelles promettant que l'enchérisseur détient des cartes particulières.*
 
-If the contract is 3, 2 or 1, the declarer draws that number of cards from the top of the talon without showing them to the opponents, and then discards an equal number of cards (possibly including one or more of the cards that were picked up). The discarded cards are placed face down on top of the unused portion of the talon. If the contract is 'hand' the talon is not used and remains face down.
+Si le contrat est 3, 2 ou 1, le déclarant tire ce nombre de cartes du dessus du talon sans les montrer aux adversaires, puis écarte un nombre égal de cartes (y compris éventuellement une ou plusieurs des cartes ramassées). Les cartes écartées sont placées face cachée au-dessus de la partie non utilisée du talon. Si le contrat est « main », le talon n'est pas utilisé et reste face cachée.
 
-## Chosing Trumps, Arrivázs and Kontra
+## Choix de l'atout, arrivázs et kontra
 
-After specifying the contract and if appropriate drawing from the talon and discarding, the declarer chooses the trump suit or to play without trumps and may also undertake an *arrivázs*, which is a commitment to win the last three tricks.
+Après avoir spécifié le contrat et, le cas échéant, tiré du talon et écarté, le déclarant choisit la couleur d'atout ou de jouer sans atout, et peut aussi s'engager à un *arrivázs*, qui est un engagement à gagner les trois dernières levées.
 
-The declarer announces this by naming the trump suit if any - hearts (*kőr*), diamonds (*káró*), clubs (*treff*), spades (*pikk*) or no trumps (*szanzadu*) - optionally followed by "*arrivázs"*. For example the declarer says "*szanzadu*" to play just a basic game without trumps or "*káró* *arrivázs*" to play with diamonds as trumps and undertake to win the last three tricks. Opponents of the declarer are not allowed to announce *arrivázs*.
+Le déclarant l'annonce en nommant la couleur d'atout éventuelle — cœurs (*kőr*), carreaux (*káró*), trèfles (*treff*), piques (*pikk*) ou sans atout (*szanzadu*) — suivi facultativement de « *arrivázs* ». Par exemple, le déclarant dit « *szanzadu* » pour jouer un jeu de base sans atout ou « *káró* *arrivázs* » pour jouer avec les carreaux comme atout et s'engager à gagner les trois dernières levées. Les adversaires du déclarant ne sont pas autorisés à annoncer d'*arrivázs*.
 
-An opponent of the declarer who thinks that the basic game (*játék*) or an announced *arrivázs* will fail can double the score for it by saying *kontra*. The scoring of the game and the *arrivázs* are independent. If the declarer announces *arrivázs* an opponent can double either the game (saying "*kontra játék*") or the *arrivázs* (saying "*kontra arrivázs*") or both.
+Un adversaire du déclarant qui estime que le jeu de base (*játék*) ou un *arrivázs* annoncé échouera peut doubler le score en disant *kontra*. Le décompte du jeu et de l'*arrivázs* sont indépendants. Si le déclarant annonce *arrivázs*, un adversaire peut doubler soit le jeu (en disant « *kontra játék* »), soit l'*arrivázs* (en disant « *kontra arrivázs* »), soit les deux.
 
-As soon as any *kontra* is said, the three face-down cards of the talon and/or discard are turned face up for all to see. Since the declarer's discard must be placed on top of the talon, it will be clear in the case of a contract of 2 or 1 which card(s) the declarer discarded and which were left unseen in the talon. At this point if *arrivázs* has been announced but only one component (game or *arrivázs*) was doubled initially, either opponent can now say *kontra* to the other component.
+Dès qu'un *kontra* est prononcé, les trois cartes face cachée du talon et/ou de l'écart sont retournées pour que tous puissent les voir. Puisque l'écart du déclarant doit être placé au-dessus du talon, il sera clair dans le cas d'un contrat de 2 ou 1 quelle(s) carte(s) le déclarant a écartée(s) et laquelle(s) sont restée(s) cachée(s) dans le talon. À ce moment, si l'*arrivázs* a été annoncé mais qu'un seul composant (jeu ou *arrivázs*) a été doublé initialement, l'un ou l'autre adversaire peut maintenant dire *kontra* à l'autre composant.
 
-If there has been a double, the declarer can respond with a redouble (*rekontra*). If both the game and the *arrivázs* were doubled the declarer can redouble either, both or neither.
+S'il y a eu un double, le déclarant peut répondre par un redouble (*rekontra*). Si le jeu et l'*arrivázs* ont tous deux été doublés, le déclarant peut redoubler l'un, l'autre, les deux, ou aucun.
 
-In the event of a redouble, the **partner** of the opponent who initially doubled that item can now double again, saying *szubkontra*. It is not allowed for the same opponent to say both *kontra* and *szubkontra* to the same item.
+En cas de redouble, le **partenaire** de l'adversaire qui a initialement doublé cet élément peut maintenant doubler à nouveau en disant *szubkontra*. Il n'est pas permis au même adversaire de dire à la fois *kontra* et *szubkontra* sur le même élément.
 
-In the event of a *szubkontra* the declarer can double the item again saying *hirskontra* and **either** opponent can respond with a further double *mordkontra*. So *mordkontra* multiplies the original score for the item by 32.
+En cas de *szubkontra*, le déclarant peut doubler à nouveau en disant *hirskontra* et **l'un ou l'autre** adversaire peut répondre par un double supplémentaire *mordkontra*. Ainsi *mordkontra* multiplie le score original de l'élément par 32.
 
-**Note**. 'Arrivázs'* is a phonetic Hungarian spelling of the French word *'arrivage'*, meaning arrival. So players dedicated to playing Asszorti in English could announce it as 'arrival'.*
+**Note**. *« Arrivázs » est une orthographe phonétique hongroise du mot français « arrivage », signifiant arrivée. Les joueurs jouant à l'Asszorti en anglais pourraient l'annoncer comme « arrival ».*
 
-## Play
+## Jeu
 
-Declarer's right-hand neighbour leads any card to the first trick. Each trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led. The winner of each trick leads to the next.
+Le voisin droit du déclarant mène n'importe quelle carte à la première levée. Chaque levée est gagnée par le plus haut atout, ou si elle ne contient pas d'atout, par la plus haute carte de la couleur menée. Le gagnant de chaque levée mène la suivante.
 
-Players must follow suit if they can. A player who has no card of the suit led must play a trump if possible. A player with no trumps and no cards of the suit led may play any card. There is no obligation to beat the cards previously played to a trick. 
+Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur menée doit jouer un atout s'il peut. Un joueur sans atout ni carte de la couleur menée peut jouer n'importe quelle carte. Il n'y a aucune obligation de battre les cartes déjà jouées dans une levée.
 
-Note that the declarer always plays second to the first trick. This arrangement favours the declarer's opponents, in that the opponent who leads chooses what suit to attack, and the opponent playing last to the first trick can win it efficiently or dispose of a low card.
+Notez que le déclarant joue toujours en deuxième position à la première levée. Cet arrangement favorise les adversaires du déclarant, en ce sens que l'adversaire qui mène choisit quelle couleur attaquer, et l'adversaire jouant en dernier à la première levée peut la gagner efficacement ou se débarrasser d'une carte basse.
 
-If the talon was turned face up as a result of a *kontra*, it should be turned face down again at the end of the first trick. The winner of the first trick is responsible for doing this.
+Si le talon a été retourné suite à un *kontra*, il doit être replacé face cachée à la fin de la première levée. Le gagnant de la première levée est responsable de le faire.
 
-To save time the declarer may claim to win all the remaining tricks or concede all the remaining tricks. To claim the remaining tricks, the declarer's hand is displayed face up. Either opponent may dispute the claim, in which case the play must continue with the declarer's cards exposed. If the declarer loses **any** trick after the claim, **all** the tricks played after the claim are awarded to the opponents.
+Pour gagner du temps, le déclarant peut revendiquer les levées restantes ou concéder les levées restantes. Pour revendiquer les levées restantes, la main du déclarant est exposée face visible. L'un ou l'autre adversaire peut contester la revendication, auquel cas le jeu doit continuer avec les cartes du déclarant exposées. Si le déclarant perd **une** levée après la revendication, **toutes** les levées jouées après la revendication sont attribuées aux adversaires.
 
-If the opponents win all the remaining tricks as a result of a concession or a failed claim, the remaining tricks are given if possible to an opponent who has already won a trick. This can affect the scoring in the case where the declarer has won 6 tricks before the claim or concession, if the result is that the tricks are divided 6:5:0 between the three players - see below.
+Si les adversaires gagnent toutes les levées restantes à la suite d'une concession ou d'une revendication échouée, les levées restantes sont attribuées si possible à un adversaire qui a déjà gagné une levée. Cela peut affecter le décompte dans le cas où le déclarant a gagné 6 levées avant la revendication ou la concession, si le résultat est que les levées sont réparties 6:5:0 entre les trois joueurs — voir ci-dessous.
 
-## Scoring
+## Comptage des points
 
-The side that takes 6 or more of the 11 tricks wins the basic game. The amount won depends on the contract as follows:
+Le côté qui prend 6 ou plus des 11 levées gagne le jeu de base. Le montant gagné dépend du contrat comme suit :
 
-| Contract: | 3 | 2 | 1 | hand |
-| with trumps | 2 | 4 | 6 | 8 |
-| no trumps | 4 | 8 | 12 | 16 |
+| Contrat : | 3 | 2 | 1 | main |
+| avec atout | 2 | 4 | 6 | 8 |
+| sans atout | 4 | 8 | 12 | 16 |
 
-If the winning side takes 7 or more tricks, the 7th trick and each subsequent trick scores half as much as the basic game. 
+Si le côté gagnant prend 7 levées ou plus, la 7e levée et chaque levée subséquente compte pour la moitié du jeu de base.
 
-*For example in a contract of 2 with trumps, the declarer would win 4 points for taking 6 tricks, 6 points for 7 tricks, 8 points for 8 tricks and so on. If the declarer won only 5 tricks the opponents would win 4 points for their 6 tricks. If the declarer took 4 tricks the opponents would win 6 points and so on.*
+*Par exemple, dans un contrat de 2 avec atout, le déclarant gagnerait 4 points pour 6 levées, 6 points pour 7 levées, 8 points pour 8 levées et ainsi de suite. Si le déclarant ne gagne que 5 levées, les adversaires marquent 4 points pour leurs 6 levées. Si le déclarant ne prend que 4 levées, les adversaires marquent 6 points et ainsi de suite.*
 
-These scores are doubled, redoubled etc. if *kontra*, *rekontra* etc. was said to the basic game. 
+Ces scores sont doublés, redoublés, etc. si des *kontra*, *rekontra*, etc. ont été dits sur le jeu de base.
 
-F*or example if the declarer plays a contract of 1 in no trumps, *kontra*, *rekontra* and *szubkontra* are said to the basic game and the declarer takes 7 tricks, the declarer wins (12+6)×8=144 points.*
+*Par exemple, si le déclarant joue un contrat de 1 sans atout, *kontra*, *rekontra* et *szubkontra* sont dits sur le jeu de base et le déclarant prend 7 levées, le déclarant gagne (12+6)×8=144 points.*
 
-Exceptionally, if the declarer wins 6 tricks and tricks divide 6:5:0, a single opponent winning all the other 5 tricks, then the the basic score for the contract is **deducted** from the amount the declarer wins for the basic game. This deduction is **not** affected by *kontra*s. 
+Exceptionnellement, si le déclarant gagne 6 levées et que les levées se répartissent 6:5:0, un seul adversaire gagnant les 5 autres levées, alors le score de base du contrat est **déduit** du montant que le déclarant gagne pour le jeu de base. Cette déduction **n'est pas** affectée par les *kontra*.
 
-*For example if the contract is 'hand' with a trump suit, there is no *kontra*, the declarer takes 6 tricks and a single opponent takes the other 5 tricks the declarer wins nothing (4-4=0 points). If *kontra* and *rekontra* were said the declarer wins 12 points (4×4-4).*
+*Par exemple, si le contrat est « main » avec une couleur d'atout, sans *kontra*, le déclarant prend 6 levées et un seul adversaire prend les 5 autres levées, le déclarant ne gagne rien (4-4=0 points). Si *kontra* et *rekontra* ont été dits, le déclarant gagne 12 points (4×4-4).*
 
-The score for *arrivázs* is 8 points in a trump contract and 16 points in a no trump contract. To win these points the declarer must announce *arrivázs* before the play and win all of the last three tricks. If the declarer announces *arrivázs* and loses any of the last three tricks the opponents win these points. There is no score for an unannounced *arrivázs*.
+Le score de l'*arrivázs* est de 8 points dans un contrat avec atout et 16 points dans un contrat sans atout. Pour gagner ces points, le déclarant doit annoncer *arrivázs* avant le jeu et gagner les trois dernières levées. Si le déclarant annonce *arrivázs* et perd l'une des trois dernières levées, les adversaires marquent ces points. Il n'y a pas de score pour un *arrivázs* non annoncé.
 
-If the declarer announces *arrivázs* in a trump contract and wins the last three tricks without using any trumps in those tricks, this is known as an *idegen arrivázs* (which might be translated as a 'foreign arrival') and the declarer scores 16 points for it instead of 8. It is not possible to announce an *idegen arrivázs* - the declarer simply announces an ordinary * arrivázs* and clears all the trumps before winning the last three tricks. There is no such thing as a lost *idegen arrivázs* - if the declarer announces *arrivázs*, clears all the trumps in the first 8 tricks, but then fails to win all of the last three tricks, this just counts as an ordinary failed *arrivázs* and the declarer loses 8 points.
+Si le déclarant annonce *arrivázs* dans un contrat avec atout et gagne les trois dernières levées sans utiliser d'atout dans ces levées, c'est ce qu'on appelle un *idegen arrivázs* (qu'on pourrait traduire par « arrivée étrangère ») et le déclarant marque 16 points au lieu de 8. Il n'est pas possible d'annoncer un *idegen arrivázs* — le déclarant annonce simplement un *arrivázs* ordinaire et élimine tous les atouts avant de gagner les trois dernières levées. Il n'existe pas de chose telle qu'un *idegen arrivázs* perdu — si le déclarant annonce *arrivázs*, élimine tous les atouts dans les 8 premières levées, mais échoue ensuite à gagner les trois dernières levées, cela compte simplement comme un *arrivázs* ordinaire échoué et le déclarant perd 8 points.
 
-If *kontra*, *rekontra*, etc. were said to an announced *arrivázs* then the score for it is doubled, redoubled, etc. If an *idegen arrivázs* was made, that score is doubled accordingly.
+Si des *kontra*, *rekontra*, etc. ont été dits sur un *arrivázs* annoncé, le score est doublé, redoublé, etc. Si un *idegen arrivázs* a été réalisé, ce score est doublé en conséquence.
 
-The score for * arrivázs* is completely independent of the score for the basic game. It is possible to win one and lose the other.
+Le score de l'*arrivázs* est complètement indépendant du score du jeu de base. Il est possible de gagner l'un et de perdre l'autre.
 
-The two opponents are rewarded or penalised equally for all wins and losses by their team. If the declarer wins *x* points, each opponent pays *x* to the declarer. If the declarer loses *y* points, the declarer pays *y* to each opponent. 
+Les deux adversaires sont récompensés ou pénalisés de manière égale pour toutes les victoires et défaites de leur équipe. Si le déclarant gagne *x* points, chaque adversaire paie *x* au déclarant. Si le déclarant perd *y* points, le déclarant paie *y* à chaque adversaire.
 
-Further examples:
+Exemples supplémentaires :
 
-- *The declarer plays a "hand" contract with diamonds as trumps and announces *arrivázs*. *Kontra*, *rekontra* and *szubkontra* are said to the basic game and *kontra* to the *arrivázs*. The declarer wins the basic game with a 6:5:0 split of the tricks but the *arrivázs* fails. Declarer wins 40 points, made up of (8×8)-8=56 for the basic game less 2×8=16 for the *arrivázs*.*
+- *Le déclarant joue un contrat « main » avec les carreaux comme atout et annonce *arrivázs*. *Kontra*, *rekontra* et *szubkontra* sont dits sur le jeu de base et *kontra* sur l'*arrivázs*. Le déclarant gagne le jeu de base avec une répartition 6:5:0 des levées mais l'*arrivázs* échoue. Le déclarant gagne 40 points, composés de (8×8)-8=56 pour le jeu de base moins 2×8=16 pour l'*arrivázs*.*
 
-- *The declarer plays a contract of "3" with spades as trumps and announces *arrivázs*. There is no *kontra*. The declarer wins 10 tricks, winning the last 3 tricks with hearts. The declarer scores 22 points made up of 2 for the basic game, 4 for the overtricks and 16 for the *idegen arrivázs*.*
+- *Le déclarant joue un contrat « 3 » avec les piques comme atout et annonce *arrivázs*. Pas de *kontra*. Le déclarant gagne 10 levées, en gagnant les 3 dernières levées avec des cœurs. Le déclarant marque 22 points composés de 2 pour le jeu de base, 4 pour les surlevées et 16 pour l'*idegen arrivázs*.*
 
-There is no fixed length for a session and no target score. The session ends by mutual agreement, maybe after an agreed number of deals or at an agreed time.
+Il n'y a pas de durée fixe pour une session ni de score cible. La session se termine par accord mutuel, peut-être après un nombre convenu de donnes ou à une heure convenue.
 
-The players may either pay in coins or chips after each hand or the scores can be recorded on paper, in which case at the end of the session players win or lose in proportion to the difference between their scores.
-
-Home Page > Classified Index > Trick Taking Games > Preference > Asszorti
+Les joueurs peuvent payer en pièces ou jetons après chaque main, ou les scores peuvent être enregistrés sur papier, auquel cas à la fin de la session les joueurs gagnent ou perdent en proportion de la différence entre leurs scores.

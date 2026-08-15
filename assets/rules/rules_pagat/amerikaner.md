@@ -3,91 +3,89 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the popular Norwegian card game Amerikaner in which the highest bidder chooses trumps and calls a partner.
+**But :** Comment jouer au populaire jeu de cartes norvégien Amerikaner dans lequel le plus fort enchérisseur choisit l'atout et appelle un partenaire.
 **Autres noms :** Kani
 
 ---
 
-*This page is partly based on a contribution from Bjørnar Strand.*
+*Cette page est en partie basée sur une contribution de Bjørnar Strand.*
 
 ## Introduction
 
-Although the name of this Norwegian game means "American", it is not exactly equivalent to any American card game that I know of. A related game Kani is played in Iceland.
+Bien que le nom de ce jeu norvégien signifie « Américain », il n'est pas exactement équivalent à aucun jeu de cartes américain que je connaisse. Un jeu apparenté, le Kani, se joue en Islande.
 
-## Players and Cards
+## Joueurs et cartes
 
-The usual game is for four players. This is generally agreed to be the best version of the game and will be described first. It is possible for 3 or 5 players to play, and the modifications for this are given later.
+Le jeu habituel est pour quatre joueurs. C'est généralement considéré comme la meilleure version du jeu et sera décrite en premier. Il est possible de jouer à 3 ou 5 joueurs, et les modifications pour ce faire sont données plus tard.
 
-A standard international 52-card pack is used, the cards of each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. Deal and play are clockwise.
+On utilise un jeu standard international de 52 cartes, les cartes de chaque couleur étant classées de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2. La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## La donne
 
-The first dealer is chosen by lot and the turn to deal passes to the left after each hand. Before dealing the dealer shuffles the cards and the player to dealer's right cuts. The cards are dealt out one at a time until each player has 12 cards and the remaining 4 cards are placed face down in the centre of the table to form a kitty. 
+Le premier donneur est choisi par tirage au sort et le tour de donne passe à la gauche après chaque main. Avant de donner, le donneur mélange les cartes et le joueur à la droite du donneur coupe. Les cartes sont distribuées une à la fois jusqu'à ce que chaque joueur ait 12 cartes et que les 4 cartes restantes soient placées face cachée au centre de la table pour former le talon (kitty).
 
-## Bidding
+## Les enchères
 
-The player to dealer's left speaks first. Each player in turn may pass or bid a number, which is the number of tricks they undertake to win with the help of a partner if no one bids higher. The minimum bid is 6 and each number bid must be higher than the last. Since there are 12 tricks, the highest number bid is 12, but there is one higher bid 'Amerikaner', which is an undertaking to win all the tricks without the help of a partner.
+Le joueur à la gauche du donneur parle en premier. Chaque joueur à tour de rôle peut passer ou enchérir un nombre, qui est le nombre de levées qu'il s'engage à gagner avec l'aide d'un partenaire si personne n'enchérit plus haut. L'enchère minimum est 6 et chaque nombre enchéri doit être supérieur au précédent. Puisqu'il y a 12 levées, le nombre le plus élevé est 12, mais il y a une enchère supérieure : « Amerikaner », qui est un engagement à gagner toutes les levées sans l'aide d'un partenaire.
 
-The bidding continues as many times around the table as needed until no one is willing to bid higher. A player who has passed is not allowed to bid at a subsequent turn. In the unlikely case that all four players pass the cards are thrown in and there is a new deal. If someone bids the bidding continues until three players have passed.
+Les enchères continuent autant de tours autour de la table que nécessaire jusqu'à ce que personne ne veuille enchérir plus haut. Un joueur qui a passé n'est pas autorisé à enchérir lors d'un tour ultérieur. Dans le cas peu probable où les quatre joueurs passent, les cartes sont jetées et il y a une nouvelle donne. Si quelqu'un enchérit, les enchères continuent jusqu'à ce que trois joueurs aient passé.
 
-The last and highest bidder picks up the kitty without showing it and discards an equal number of cards face down - the cards discarded can include cards that were picked up. 
+Le dernier et plus haut enchérisseur ramasse le talon sans le montrer et écarte un nombre égal de cartes face cachée — les cartes écartées peuvent inclure des cartes qui viennent d'être ramassées.
 
-## Play
+## Le jeu
 
-The bidder leads to the first trick. If the bid was a number the suit led becomes the trump suit for the hand, and the bidder simultaneously calls for a card of that suit that he or she does not hold (normally the highest). The owner of that card must play it to the first trick and thereby becomes the bidder's partner for this deal. 
+L'enchérisseur mène la première levée. Si l'enchère était un nombre, la couleur menée devient la couleur d'atout pour la main, et l'enchérisseur appelle simultanément une carte de cette couleur qu'il ne détient pas (normalement la plus haute). Le propriétaire de cette carte doit la jouer à la première levée et devient ainsi le partenaire de l'enchérisseur pour cette donne.
 
-Players must follow suit when possible. A player who is unable to follow suit may play any card. The highest trump, or if no trumps were played, the highest card of the suit led wins the trick. The winner of each trick leads to the next. 
+Les joueurs doivent suivre la couleur si possible. Un joueur qui ne peut pas suivre peut jouer n'importe quelle carte. Le plus haut atout l'emporte, ou s'il n'y a pas d'atout joué, la plus haute carte de la couleur menée. Le gagnant de chaque levée mène la suivante.
 
-If the bid was Amerikaner the bidder leads to the first trick and there are no trumps.
+Si l'enchère était Amerikaner, l'enchérisseur mène la première levée et il n'y a pas d'atout.
 
-## Scoring
+## Comptage des points
 
-If the bidder and partner together win at least as many tricks as they bid, they score the number bid (**not** the number of tricks they won). If they fail they lose that number of points. Each of the other players scores individually one point for each trick that they won, irrespective of whether the bid succeeded or failed. 
+Si l'enchérisseur et son partenaire gagnent au moins autant de levées qu'ils ont enchéri, ils marquent le nombre enchéri (**et non** le nombre de levées gagnées). S'ils échouent, ils perdent ce nombre de points. Chacun des autres joueurs marque individuellement un point par levée gagnée, indépendamment de la réussite ou de l'échec de l'enchère.
 
-**Example 1. **North bids 8 and West is North's partner. North and West win 9 tricks between them, East wins 2 and South wins 1. North scores +8, West scores +8, South score +1, East scores +2.
+**Exemple 1.** Nord enchérit 8 et Ouest est le partenaire de Nord. Nord et Ouest gagnent 9 levées ensemble, Est gagne 2 et Sud gagne 1. Nord marque +8, Ouest marque +8, Sud marque +1, Est marque +2.
 
-**Example 2. **North bids 8 and South is North's partner. North and South win 7 tricks between them, East wins 2 and West wins 3. North scores -8, West scores +3, South scores -8, East scores +2.
+**Exemple 2.** Nord enchérit 8 et Sud est le partenaire de Nord. Nord et Sud gagnent 7 levées ensemble, Est gagne 2 et Ouest gagne 3. Nord marque -8, Ouest marque +3, Sud marque -8, Est marque +2.
 
-If the final bid was Amerikaner the bidder scores +52 if successful or -52 if not. When an Amerikaner fails the other players each score 1 per trick won as usual.
+Si l'enchère finale était Amerikaner, l'enchérisseur marque +52 en cas de réussite ou -52 en cas d'échec. Lorsqu'un Amerikaner échoue, les autres joueurs marquent chacun 1 point par levée gagnée comme d'habitude.
 
-A cumulative score is kept for each player and the game ends when one or more players have a score of 52 points or more. The player with the highest score wins. Therefore a successful bid of Amerikaner wins the whole game unless the player previously had a negative score. 
+Un score cumulé est tenu pour chaque joueur et le jeu se termine lorsqu'un ou plusieurs joueurs atteignent 52 points ou plus. Le joueur ayant le score le plus élevé gagne. Par conséquent, un Amerikaner réussi remporte toute la partie, sauf si le joueur avait précédemment un score négatif.
 
-## Three or five players
+## Trois ou cinq joueurs
 
-If there are 3 players, 16 cards each are dealt, there is a kitty of 4 cards, and the minimum bid is 8.
+S'il y a 3 joueurs, 16 cartes sont distribuées à chacun, il y a un talon de 4 cartes, et l'enchère minimum est 8.
 
-If there are 5 players they are dealt 10 cards each, there are only 2 cards in the kitty, and the minimum bid is 5.
+S'il y a 5 joueurs, 10 cartes sont distribuées à chacun, il n'y a que 2 cartes dans le talon, et l'enchère minimum est 5.
 
-## Variations
+## Variantes
 
-Some players require the bidder to show the kitty before picking up. Some count the kitty as an extra trick of the bidder, in which case the minimum bid should be increased by 1.
+Certains joueurs exigent que l'enchérisseur montre le talon avant de le ramasser. Certains comptent le talon comme une levée supplémentaire pour l'enchérisseur, auquel cas l'enchère minimum devrait être augmentée de 1.
 
-Some play without a kitty, so with 52 cards and four players each player is dealt 13. With three players a 2 is removed from the deck and with 5 players two 2's are removed so that the cards can be dealt evenly. The minimum bid is half the total number of tricks rounded up, so 7 if there are 4 players, 9 for three players and 5 for 5 players.
+Certains jouent sans talon, donc avec 52 cartes et quatre joueurs, chaque joueur reçoit 13 cartes. Avec trois joueurs, un 2 est retiré du jeu, et avec 5 joueurs, deux 2 sont retirés pour que les cartes puissent être distribuées équitablement. L'enchère minimum est la moitié du nombre total de levées arrondie au supérieur, soit 7 pour 4 joueurs, 9 pour 3 joueurs et 5 pour 5 joueurs.
 
-When playing without a kitty when there are more or fewer than 4 players, some add jokers to the deck instead of removing twos: 3 players add 2 jokers, 5 players add 3 jokers, and there is even a 6-player version with 2 jokers and 9 cards each. A joker that is led to a trick automatically wins the trick, and the other players can play whatever card they wish. A player who has no cards of the suit led may discard a joker - in this case the joker has no power and cannot win the trick.
+Lorsqu'on joue sans talon avec plus ou moins de 4 joueurs, certains ajoutent des jokers au lieu de retirer des 2 : pour 3 joueurs, on ajoute 2 jokers ; pour 5 joueurs, on ajoute 3 jokers ; il existe même une version à 6 joueurs avec 2 jokers et 9 cartes chacun. Un joker mené à une levée la remporte automatiquement, et les autres joueurs peuvent jouer la carte de leur choix. Un joueur qui n'a pas de carte de la couleur menée peut écarter un joker — dans ce cas, le joker n'a aucun pouvoir et ne peut pas gagner la levée.
 
-Some play that a two led to a trick cannot be beaten. The other players must follow suit if they can, but even if they play trumps, no one else can win the trick.
+Certains jouent qu'un 2 mené à une levée ne peut pas être battu. Les autres joueurs doivent suivre la couleur s'ils le peuvent, mais même s'ils jouent des atouts, personne d'autre ne peut gagner la levée.
 
-Some allow the bidder, when leading to the first trick, to name a different suit as trump. Some also allow the bidder the option to call 'Grand', in which case there are no trumps. In any case, the player also calls a card of the suit led whose holder is the bidder's partner and must play the called card to the first trick as usual.
+Certains permettent à l'enchérisseur, lorsqu'il mène la première levée, de nommer une couleur différente comme atout. Certains permettent aussi à l'enchérisseur l'option d'annoncer « Grand », auquel cas il n'y a pas d'atout. Dans tous les cas, le joueur appelle également une carte de la couleur menée dont le détenteur est le partenaire de l'enchérisseur et doit jouer la carte appelée à la première levée comme d'habitude.
 
-Some play that the bidder wins or loses twice as much as the called partner, and there are two alternative ways of doing this:
+Certains jouent que l'enchérisseur gagne ou perd le double de ce que gagne ou perd le partenaire appelé, et il y a deux façons alternatives de le faire :
 
-- the bidder scores the bid multiplied by 2 while the partner scores the amount bid - for example if the bid is 9 the bidder wins or loses 18 while the partner wins or loses 9;
+- l'enchérisseur marque l'enchère multipliée par 2 tandis que le partenaire marque le montant de l'enchère — par exemple si l'enchère est 9, l'enchérisseur gagne ou perd 18 tandis que le partenaire gagne ou perd 9 ;
 
-- the bidder scores the amount bid while the partner scores half that amount rounded to the next larger number - for example if the bid is 9 the bidder wins or loses 9 while the partner wins or loses 5.
+- l'enchérisseur marque le montant de l'enchère tandis que le partenaire marque la moitié de ce montant arrondi au nombre supérieur — par exemple si l'enchère est 9, l'enchérisseur gagne ou perd 9 tandis que le partenaire gagne ou perd 5.
 
-Some play that if everyone passes, the cards are not thrown in but the hand is played without trumps and each player scores -1 point for each trick taken.
+Certains jouent que si tout le monde passe, les cartes ne sont pas jetées mais la main est jouée sans atout et chaque joueur marque -1 point par levée prise.
 
 ## Kani
 
-Tómas Albertsson has provided a description of Kani, played in Iceland. This is essentially the same game as Amerikaner, and its name also means American. There are a few differences as follows.
+Tómas Albertsson a fourni une description du Kani, joué en Islande. C'est essentiellement le même jeu que l'Amerikaner, et son nom signifie également « Américain ». Il y a quelques différences comme suit.
 
-- There are four players and no kitty. 13 cards each are dealt. Many players deal them in a single batch to each player rather than one at a time.
+- Il y a quatre joueurs et pas de talon. 13 cartes sont distribuées à chacun. Beaucoup de joueurs les distribuent en un seul paquet à chaque joueur plutôt qu'une à la fois.
 
-- The bidder and partner score the amount bid if successful. If they fail the opponents score the amount of the bid - so all opponents of the bidder score equally and there are no negative scores. The target score to win the game is agreed at the start.
+- L'enchérisseur et le partenaire marquent le montant de l'enchère en cas de réussite. S'ils échouent, les adversaires marquent le montant de l'enchère — donc tous les adversaires de l'enchérisseur marquent de la même manière et il n'y a pas de scores négatifs. Le score cible pour gagner la partie est convenu au début.
 
-- The highest bid, 13 tricks, is also known as Kani, and the score for it is 50 points if successful and if not the opponents score 50. Unlike the Norwegian bid Amerikaner, it seems that the Kani bid is played with trumps and with a partner.
+- L'enchère la plus élevée, 13 levées, est également connue sous le nom de Kani, et le score est de 50 points en cas de réussite et les adversaires marquent 50 en cas d'échec. Contrairement à l'enchère norvégienne Amerikaner, il semble que l'enchère Kani se joue avec atout et avec un partenaire.
 
-- Some play that all bids other than Kani have a fixed value of 10 points irrespective of the number of tricks bid. 
-
-Home Page > Classified Index > Trick Taking Games > Boston group > Amerikaner
+- Certains jouent que toutes les enchères autres que Kani ont une valeur fixe de 10 points, indépendamment du nombre de levées enchéries.

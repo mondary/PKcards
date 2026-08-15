@@ -3,142 +3,140 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** In which players buy or twist cards aiming to get a total closer to 21 than the banker without going bust.
+**But :** Dans lequel les joueurs achètent ou tournent des cartes en cherchant à obtenir un total plus proche de 21 que le banquier sans dépasser.
 
 ---
 
 ## Introduction
 
-Pontoon is the British version of the internationally popular banking game **Twenty-one**, perhaps now best known in the form of the American Casino version Blackjack. The game Pontoon and its name are derived from the French *Vingt-et-un* (21). The variation Shoot Pontoon makes the betting more interesting, by incorporating the betting mechanism of Shoot.
+Le Pontoon est la version britannique du jeu de banque internationalement populaire **Vingt-et-un**, peut-être mieux connu aujourd'hui sous la forme de la version de casino américaine Blackjack. Le jeu de Pontoon et son nom dérivent du français *Vingt-et-un* (21). La variante Shoot Pontoon rend les paris plus intéressants, en incorporant le mécanisme de paris de Shoot.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Pontoon can be played by any number of players from two upwards - it works well with 5 to 8 players - using a standard 52 card pack. For a large number of players, say 8 or more, two 52 packs can be mixed together. The players also need a supply of money or chips for betting.
+Le Pontoon peut être joué par n'importe quel nombre de joueurs à partir de deux — il fonctionne bien avec 5 à 8 joueurs — en utilisant un jeu standard de 52 cartes. Pour un grand nombre de joueurs, disons 8 ou plus, deux jeux de 52 cartes peuvent être mélangés ensemble. Les joueurs ont aussi besoin d'un approvisionnement d'argent ou de jetons pour les paris.
 
-The cards have values: ace is worth 1 or 11 at the holder's choice, kings, queens, jacks and tens are worth ten, and the remaining cards are worth their pip value. Each player's basic aim is to form a hand whose total value is as near as possible to 21, without going above 21.
+Les cartes ont des valeurs : l'as vaut 1 ou 11 au choix du détenteur, les rois, dames, valets et dix valent dix, et les cartes restantes valent leur valeur nominale. Le but de base de chaque joueur est de former une main dont la valeur totale est aussi proche que possible de 21, sans dépasser 21.
 
-One player is designated as the banker. The banker has an advantage, so the first banker is chosen at random (whoever cuts the highest card). In each hand, each of the other players bets on having a better hand than the banker.
+Un joueur est désigné comme banquier. Le banquier a un avantage, donc le premier banquier est choisi au hasard (celui qui coupe la carte la plus élevée). À chaque donne, chacun des autres joueurs parie sur le fait d'avoir une meilleure main que le banquier.
 
-- The best hand of all is a **Pontoon**, which is 21 points in two cards - this can only consist of ace plus a picture card or ten.
+- La meilleure main de toutes est un **Pontoon**, qui vaut 21 points en deux cartes — cela ne peut consister qu'en un as plus une figure ou un dix.
 
-- Next best after a Pontoon is a **Five Card Trick**, which is a hand of five cards totaling 21 or less.
+- La suivante après un Pontoon est un **Five Card Trick**, qui est une main de cinq cartes totalisant 21 ou moins.
 
-- A hand of three or four cards worth 21 points beats everything else except a Pontoon or Five Card Trick.
+- Une main de trois ou quatre cartes valant 21 points bat tout le reste sauf un Pontoon ou un Five Card Trick.
 
-- Hands with 20 or fewer points and fewer than five cards rank in order of their point value - the nearer to 21 the better.
+- Les mains avec 20 points ou moins et moins de cinq cartes se classent par ordre de leur valeur en points — plus on est proche de 21, mieux c'est.
 
-- Hands with more than 21 points are **bust** and are worthless.
+- Les mains avec plus de 21 points sont **perdues** et n'ont aucune valeur.
 
-If the banker and a player have equal valued hands, then the banker wins. 
+Si le banquier et un joueur ont des mains de valeur égale, le banquier gagne.
 
-**Example:** **A-J** (Pontoon) beats **7-3-4-2-2** (Five Card Trick) which beats **9-8-4** (21) which beats **9-A** (20) which beats **9-6-A** (16)
+**Exemple :** **A-V** (Pontoon) bat **7-3-4-2-2** (Five Card Trick) qui bat **9-8-4** (21) qui bat **9-A** (20) qui bat **9-6-A** (16)
 
-## The Deal and Initial Stakes
+## La distribution et les mises initiales
 
-The banker deals one card face down to each player, starting with the player to dealer's left, going round the table and ending with the dealer. All the players except the banker may look at their card.
+Le banquier distribue une carte face contre le bas à chaque joueur, en commençant par le joueur à sa gauche, puis autour de la table et se terminant par le donneur. Tous les joueurs sauf le banquier peuvent regarder leur carte.
 
-Now starting again with the player to dealer's left and going around clockwise, the players other than the banker place their initial bets in front of them. A minimum and maximum for initial bets must be agreed before the start of the game, and each player may bet any amount within these limits, but must bet at least the minimum. 
+Maintenant, en recommençant par le joueur à la gauche du donneur et en allant dans le sens horaire, les joueurs autres que le banquier placent leurs mises initiales devant eux. Un minimum et un maximum pour les mises initiales doivent être convenus avant le début du jeu, et chaque joueur peut miser n'importe quel montant dans ces limites, mais doit miser au moins le minimum.
 
-The dealer now deals a second card face down to each player, and all the players look at their two cards. If the banker has a Pontoon this is immediately exposed, and the banker collects double the amount staked from each of the players.
+Le donneur distribue maintenant une deuxième carte face contre le bas à chaque joueur, et tous les joueurs regardent leurs deux cartes. Si le banquier a un Pontoon, cela est immédiatement révélé, et le banquier collecte le double de la mise de chaque joueur.
 
-## The Players' Turns
+## Le tour des joueurs
 
-If the banker does not have a pontoon then, beginning with the player to dealer's left and continuing clockwise, the players each have a turn to try to improve their hand if they wish by acquiring extra cards. When it is your turn, you have the following possibilities:
+Si le banquier n'a pas de pontoon, alors, en commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, les joueurs ont chacun un tour pour essayer d'améliorer leur main s'ils le souhaitent en acquérant des cartes supplémentaires. Quand c'est votre tour, vous avez les possibilités suivantes :
 
-**Declare a Pontoon**
-If your two cards are an ace and a ten point card, you declare it by putting them on the table with the ten point card face down and the ace face up on top of it. 
-**Split your cards**
-If your two cards are equal in rank, you may split them into two hands by putting them face up on the table and placing another bet equal to your initial bet. The banker immediately deals another card face down to each of your hands, and you then play the hands one at a time, as separate hands with separate stakes. If either of the new cards dealt is equal to the first two you may choose to split again, creating three or even (theoretically) four separate hands, each with its own stake. Note that you cannot split two ten point cards unless they are actually equal - two queens can be split but a queen and a jack cannot. 
-**Buy a card**
-If the total value of your cards is less than 21, you may say "I'll buy one". You must increase your stake by adding an amount at least equal to and not more than twice your initial stake (so for example if you had bet 6 initially you could add to it any amount from 6 to 12, making a maximum of 18 in total). The dealer then deals you another card face down. If your total is still less than 21 you may buy a fourth card; this time you may add to your stake any amount between your initial stake and the amount you added previously. So if your initial bet was 6 and you bought a third card for 10, you may buy a fourth for any amount from 6 to 10. If your four cards still total less than 21 you may buy a fifth card in the same way.
-**Twist**
-If the total value of your cards is less than 21 you may say "Twist me one". Your stake is unaffected, and the dealer deals you one card face up to add to your hand. If your total remains below 21 you may ask for a fourth card to be twisted and then a fifth, in the same way.
-**Stick**
-If the total value of your cards is at least 15 you may say "stick". You stay with the cards you have, your stake stays as it is and it is the next hand's turn to play.
+**Déclarer un Pontoon**
+Si vos deux cartes sont un as et une carte de dix points, vous le déclarez en les posant sur la table avec la carte de dix points face contre le bas et l'as face visible au-dessus.
+**Séparer vos cartes**
+Si vos deux cartes sont de même rang, vous pouvez les séparer en deux mains en les posant face visible sur la table et en plaçant une autre mise égale à votre mise initiale. Le banquier distribue immédiatement une autre carte face contre le bas à chacune de vos mains, et vous jouez ensuite les mains l'une après l'autre, comme des mains séparées avec des mises séparées. Si l'une des nouvelles cartes distribuées est égale aux deux premières, vous pouvez choisir de séparer à nouveau, créant trois ou même (théoriquement) quatre mains séparées, chacune avec sa propre mise. Notez que vous ne pouvez pas séparer deux cartes de dix points à moins qu'elles ne soient réellement égales — deux dames peuvent être séparées mais une dame et un valet ne le peuvent pas.
+**Acheter une carte**
+Si la valeur totale de vos cartes est inférieure à 21, vous pouvez dire « j'en achète une ». Vous devez augmenter votre mise en ajoutant un montant au moins égal et pas plus du double de votre mise initiale (ainsi, par exemple, si vous aviez misé 6 initialement, vous pourriez y ajouter n'importe quel montant de 6 à 12, pour un maximum de 18 au total). Le donneur vous distribue ensuite une autre carte face contre le bas. Si votre total est toujours inférieur à 21, vous pouvez acheter une quatrième carte ; cette fois, vous pouvez ajouter à votre mise n'importe quel montant entre votre mise initiale et le montant que vous avez ajouté précédemment. Donc si votre mise initiale était de 6 et que vous avez acheté une troisième carte pour 10, vous pouvez acheter une quatrième pour n'importe quel montant de 6 à 10. Si vos quatre cartes totalisent toujours moins de 21, vous pouvez acheter une cinquième carte de la même façon.
+**Tirer (Twist)**
+Si la valeur totale de vos cartes est inférieure à 21, vous pouvez dire « tirez-m'en une ». Votre mise est inchangée, et le donneur vous distribue une carte face visible pour l'ajouter à votre main. Si votre total reste en dessous de 21, vous pouvez demander une quatrième carte à tirer puis une cinquième, de la même façon.
+**S'arrêter (Stick)**
+Si la valeur totale de vos cartes est d'au moins 15, vous pouvez dire « je m'arrête ». Vous gardez les cartes que vous avez, votre mise reste telle quelle et c'est le tour de la main suivante.
 
-If at any time buying or twisting a card causes the total value of your hand to be more than 21 you are **bust**; you must immediately throw in your hand face up, and the banker takes your stake and adds your cards to the bottom of the pack.
+Si à tout moment l'achat ou le tirage d'une carte fait que la valeur totale de votre main dépasse 21, vous êtes **perdu** ; vous devez immédiatement poser votre main face visible, et le banquier prend votre mise et ajoute vos cartes au bas du jeu.
 
-You can begin by buying one or more cards and continue by twisting, but once you have asked for a card to be twisted you can no longer buy cards - any further cards you want can only be twisted.
+Vous pouvez commencer en achetant une ou plusieurs cartes et continuer en tirant, mais une fois que vous avez demandé une carte à tirer, vous ne pouvez plus acheter de cartes — toute carte supplémentaire que vous souhaitez ne peut qu'être tirée.
 
-When your hand reaches five cards without going over 21 you have a Five Card Trick, and you are not allowed any more cards.
+Quand votre main atteint cinq cartes sans dépasser 21, vous avez un Five Card Trick, et vous n'êtes plus autorisé à recevoir de cartes.
 
-At any time when your total hand value is at least 15 and not more than 21 you can choose to stick, keeping your cards and stake as they are, and the turn passes to the next hand.
+À tout moment, quand la valeur totale de votre main est d'au moins 15 et pas plus de 21, vous pouvez choisir de vous arrêter, gardant vos cartes et votre mise telles quelles, et le tour passe à la main suivante.
 
-When you have split your hand, you play the two hands one after the other - once you have stuck or gone bust on the first hand you play the second one.
+Quand vous avez séparé votre main, vous jouez les deux mains l'une après l'autre — une fois que vous vous êtes arrêté ou que vous êtes perdu sur la première main, vous jouez la deuxième.
 
-## The Banker's Turn
+## Le tour du banquier
 
-When all the players except the banker have had their turns the banker's two cards are turned face up. The other players' cards will not be visible at this point, except where they have split, twisted, declared pontoons or gone bust. 
+Quand tous les joueurs sauf le banquier ont eu leur tour, les deux cartes du banquier sont retournées face visible. Les cartes des autres joueurs ne seront pas visibles à ce moment, sauf là où elles ont été séparées, tirées, qu'ils ont déclaré des pontoons ou qu'ils ont dépassé 21.
 
-The banker may add more cards to the initial two by dealing them face up one at a time. At any point, when satisfied with the hand the banker can **stay** - i.e. stop dealing and play with the cards as dealt. The possible outcomes are:
+Le banquier peut ajouter d'autres cartes aux deux initiales en les distribuant face visible une par une. À tout moment, lorsqu'il est satisfait de sa main, le banquier peut **s'arrêter** — c'est-à-dire arrêter de distribuer et jouer avec les cartes telles qu'elles ont été distribuées. Les résultats possibles sont :
 
-**The dealer goes bust**
-If a card is dealt that takes the dealer's hand over 21, the dealer loses and pays out an amount equal to their stake to all the players who have not gone bust, paying a double stake to any hand that was a Pontoon or Five Card Trick.
-**The dealer stays on 21 or less, with four or fewer cards**
+**Le donneur dépasse 21**
+Si une carte est distribuée qui fait dépasser 21 la main du donneur, le donneur perd et paie un montant égal à sa mise à tous les joueurs qui n'ont pas dépassé 21, en payant une double mise pour toute main qui était un Pontoon ou un Five Card Trick.
+**Le donneur s'arrête à 21 ou moins, avec quatre cartes ou moins**
 
-The dealer pays an amount equal to their stake to any player who has a higher value hand than the dealer, and collects from those who have equal or less. Pontoons and Five Card Tricks are paid double. For example a dealer who stays on 18 will say "paying 19". Everyone then exposes their cards and those who have 19 or more win, those with Pontoons and Five Card Tricks win double and the rest lose. A dealer who makes 21 will be paying Five Card Tricks and Pontoons only. Note that unless you have a Pontoon or a Five Card Trick, it makes no difference whether you have 2, 3 or 4 cards. 19 in two cards is exactly equal in value to 19 in four cards.
-**The dealer makes a Five Card Trick**
-The dealer pays Pontoons only. Any player with a Pontoon receives double their stake from the dealer. Everyone else (including anyone who had a Five Card Trick) loses double their stake to the dealer.
+Le donneur paie un montant égal à sa mise à tout joueur qui a une main de valeur supérieure à celle du donneur, et collecte auprès de ceux qui ont une valeur égale ou inférieure. Les Pontoons et Five Card Tricks sont payés doubles. Par exemple, un donneur qui s'arrête à 18 dira « je paie 19 ». Tout le monde révèle alors ses cartes et ceux qui ont 19 ou plus gagnent, ceux avec des Pontoons et Five Card Tricks gagnent le double et les autres perdent. Un donneur qui fait 21 ne paiera que les Five Card Tricks et les Pontoons. Notez que sauf si vous avez un Pontoon ou un Five Card Trick, cela ne fait aucune différence que vous ayez 2, 3 ou 4 cartes. 19 en deux cartes est exactement égal en valeur à 19 en quatre cartes.
+**Le donneur fait un Five Card Trick**
+Le donneur ne paie que les Pontoons. Tout joueur avec un Pontoon reçoit le double de sa mise du donneur. Tout le monde d'autre (y compris ceux qui avaient un Five Card Trick) perd le double de sa mise au profit du donneur.
 
-## The New Deal
+## La nouvelle donne
 
-If no one had a Pontoon, the dealer adds all the used cards to the bottom of the pack and **without shuffling** deals a new hand. This makes it possible to improve one's chances by remembering which cards are out of play.
-If there was a Pontoon, the cards are shuffled and cut before the next deal. 
+Si personne n'a eu de Pontoon, le donneur ajoute toutes les cartes utilisées au bas du jeu et **sans mélanger** distribue une nouvelle donne. Cela permet d'améliorer ses chances en mémorisant quelles cartes sont hors jeu.
+S'il y a eu un Pontoon, les cartes sont mélangées et coupées avant la prochaine donne.
 
-If a player other than the banker achieves a Pontoon without splitting their hand, and the banker did not have a Pontoon, then that player becomes the new banker from the next deal. If there are two or more such players, the one nearest to the dealer's left takes over the bank.
+Si un joueur autre que le banquier obtient un Pontoon sans avoir séparé sa main, et que le banquier n'avait pas de Pontoon, ce joueur devient le nouveau banquier à partir de la donne suivante. S'il y a deux joueurs ou plus dans ce cas, celui le plus proche de la gauche du donneur reprend la banque.
 
-The bank can also change hands after any hand if the existing banker wishes to sell the bank to another player at a mutually agreed price.
+La banque peut aussi changer de mains après n'importe quelle donne si le banquier actuel souhaite vendre la banque à un autre joueur à un prix mutuellement convenu.
 
-## Variations
+## Variantes
 
-For a relatively simple game, Pontoon has surprisingly many variations. Here is a selection:
+Pour un jeu relativement simple, le Pontoon a étonnamment beaucoup de variantes. En voici une sélection :
 
-- Some play that only aces can be split, not other pairs of cards.
+- Certains jouent que seuls les as peuvent être séparés, pas les autres paires de cartes.
 
-- Some play that you must have at least 16 points (rather than 15) to stick.
+- Certains jouent que vous devez avoir au moins 16 points (plutôt que 15) pour vous arrêter.
 
-- Some play that after everyone else has made their initial bet, the banker looks at his own first card and can choose to double the bets. This is sometimes indicated by the banker putting out a stake equal to double the highest of the other players' bets. The effect is that the final payments are doubled, but this doubling does not affect the payments for Pontoon or Five Card Trick - these remain at double the amount staked, not four times.
+- Certains jouent qu'après que tout le monde a placé sa mise initiale, le banquier regarde sa première carte et peut choisir de doubler les mises. Cela est parfois indiqué par le banquier posant une mise égale au double de la plus haute mise des autres joueurs. L'effet est que les paiements finaux sont doublés, mais ce doublement n'affecte pas les paiements pour Pontoon ou Five Card Trick — ceux-ci restent au double de la mise, pas au quadruple.
 
-- The payout for a pontoon varies - some agree to pay a single or a treble stake, rather than double. Some play that the players are paid double but the dealer only collects a single stake for a pontoon.
+- Le paiement pour un pontoon varie — certains conviennent de payer une mise simple ou le triple, plutôt que le double. Certains jouent que les joueurs sont payés doubles mais que le donneur ne collecte qu'une mise simple pour un pontoon.
 
-- If you have 4 cards totaling 11 or less, you are certain to make a five card trick. In this case some play that you cannot buy a fifth card, only twist one.
+- Si vous avez 4 cartes totalisant 11 ou moins, vous êtes certain de faire un five card trick. Dans ce cas, certains jouent que vous ne pouvez pas acheter une cinquième carte, seulement en tirer une.
 
-- Some play that a hand of three sevens held by a player (not the banker) is a **Royal Pontoon**, which beats everything and is paid treble stakes.
+- Certains jouent qu'une main de trois sevens détenue par un joueur (pas le banquier) est un **Royal Pontoon**, qui bat tout et est payé au triple de la mise.
 
-- Some play that a Pontoon consisting of an ace and a picture beats a Pontoon which is an ace and a ten. Some play that A-10 is not a pontoon at all, but just an ordinary 21. Some play that A-K or A-Q is a "natural" pontoon, which beats a "plain" pontoon of A-J or A-10.
+- Certains jouent qu'un Pontoon composé d'un as et d'une figure bat un Pontoon qui est un as et un dix. Certains jouent que A-10 n'est pas un pontoon du tout, mais juste un 21 ordinaire. Certains jouent que A-R ou A-D est un pontoon « naturel », qui bat un pontoon « simple » de A-V ou A-10.
 
-- Many play that any player whose two cards total a "hard" 13 (not A-2, which can be 3 or 13) is allowed to **"burn"** their hand. These two cards are shown and discarded, and two new cards dealt. The player's bet remains as it is. Some play that it is two cards making a hard 14 (not A-3) that can be burned, rather than 13, so with a pair of sevens you can either burn or hope for a third seven to make a Royal Pontoon. It is possible to burn after burning and to burn either hand after splitting.
+- Beaucoup jouent que tout joueur dont les deux cartes totalisent un 13 « dur » (pas A-2, qui peut être 3 ou 13) est autorisé à **« brûler »** sa main. Ces deux cartes sont montrées et défaussées, et deux nouvelles cartes sont distribuées. La mise du joueur reste telle quelle. Certains jouent que ce sont deux cartes faisant un 14 dur (pas A-3) qui peuvent être brûlées, plutôt que 13, donc avec une paire de sevens vous pouvez soit brûler soit espérer un troisième seven pour faire un Royal Pontoon. Il est possible de brûler après avoir brûlé et de brûler l'une ou l'autre main après avoir séparé.
 
 ## Shoot Pontoon
 
-*The following description is based on information supplied by Jeffrey Burton.*
+*La description suivante est basée sur des informations fournies par Jeffrey Burton.*
 
-Shoot Pontoon is Pontoon modified by incorporating the betting mechanism of Shoot in addition to the normal betting. Both Shoot and Shoot Pontoon were popular in Britain in the mid 1950's. 
+Le Shoot Pontoon est un Pontoon modifié en incorporant le mécanisme de paris de Shoot en plus des paris normaux. Le Shoot et le Shoot Pontoon étaient populaires en Grande-Bretagne au milieu des années 1950.
 
-At the start of the game, the dealer forms a kitty by putting in any amount of money, between agreed minimum and maximum limits. 
+Au début du jeu, le donneur forme une cagnotte en y mettant n'importe quel montant d'argent, entre des limites minimales et maximales convenues.
 
-After all the players have bet on their first card, then starting again with the player to dealer's left, they each have a turn to make a **shoot** bet. Shoot bets are kept separate from the players' normal bets, and are placed between the player and the kitty. You are never forced to make a shoot bet but if you do, it can be any amount you choose, provided that the total of all the shoot bets is not more than what is in the kitty. Thus if the first player shoots half the kitty, the second player can shoot any amount up to half the kitty; if the first player decides to shoot the whole kitty, the remaining players cannot for the time being place any shoot bets at all. 
+Après que tous les joueurs ont parié sur leur première carte, puis en recommençant par le joueur à la gauche du donneur, chacun a un tour pour faire un **shoot** (pari). Les paris shoot sont gardés séparément des paris normaux des joueurs, et sont placés entre le joueur et la cagnotte. Vous n'êtes jamais forcé de faire un pari shoot, mais si vous le faites, cela peut être n'importe quel montant de votre choix, à condition que le total de tous les paris shoot ne dépasse pas ce qui est dans la cagnotte. Ainsi, si le premier joueur mise la moitié de la cagnotte, le deuxième joueur peut miser n'importe quel montant jusqu'à la moitié de la cagnotte ; si le premier joueur décide de miser toute la cagnotte, les joueurs restants ne peuvent temporairement placer aucun pari shoot.
 
-After the shoot bets have been placed, the dealer deals everyone a second card face down. If the dealer has a Pontoon, all the shoot bets are added to the pot and the players each pay double their stake to the dealer. Otherwise each player has the same options as in normal pontoon, but with some extra betting opportunities:
+Après que les paris shoot ont été placés, le donneur distribue une deuxième carte face contre le bas à chacun. Si le donneur a un Pontoon, tous les paris shoot sont ajoutés au pot et les joueurs paient chacun le double de leur mise au donneur. Sinon, chaque joueur a les mêmes options qu'au pontoon normal, mais avec des opportunités de paris supplémentaires :
 
-**The fourth card**
+**La quatrième carte**
 
-Buying or twisting a **third** card is the same as in normal pontoon - no extra bets are allowed. If a player has a three card hand totaling less than 21 and wishes to ask for a **fourth** card, either by twisting it or (if the third card was bought) by buying it, then before receiving the card, the player is allowed to place a shoot bet. As before, this bet can be any amount which does not make the total of shoot bets greater than what is currently in the kitty. You can place a shoot bet before receiving your fourth card even if you did not shoot at your previous opportunity; conversely, shooting before your second card does not compel you to shoot before your fourth card. There is no further opportunity to shoot after you see your fourth card, even if you decide to take a fifth. 
-**Splitting**
-When a player splits having made a shoot bet, the shoot bet remains on the hand containing the first card, and the player has the option to place a new shoot bet (not necessarily of the same amount) on the other hand, subject to the usual limitation that the total of all shoot bets must not be more than the kitty.
-**Going bust**
-If a hand goes bust, that hand's shoot bet, if any, is immediately added to the kitty - thus increasing the amount that subsequent hands can shoot.
+Acheter ou tirer une **troisième** carte est identique au pontoon normal — aucun pari supplémentaire n'est autorisé. Si un joueur a une main de trois cartes totalisant moins de 21 et souhaite demander une **quatrième** carte, soit en la tirant soit (si la troisième carte a été achetée) en l'achetant, alors avant de recevoir la carte, le joueur est autorisé à placer un pari shoot. Comme avant, ce pari peut être n'importe quel montant qui ne fait pas que le total des paris shoot dépasse ce qui est actuellement dans la cagnotte. Vous pouvez placer un pari shoot avant de recevoir votre quatrième carte même si vous n'avez pas fait de shoot à votre opportunité précédente ; inversement, avoir fait un shoot avant votre deuxième carte ne vous oblige pas à faire un shoot avant votre quatrième carte. Il n'y a plus d'opportunité de faire un shoot après avoir vu votre quatrième carte, même si vous décidez de prendre une cinquième.
+**Séparation**
+Quand un joueur se sépare après avoir fait un pari shoot, le pari shoot reste sur la main contenant la première carte, et le joueur a la possibilité de placer un nouveau pari shoot (pas nécessairement du même montant) sur l'autre main, sous réserve de la limitation habituelle que le total de tous les paris shoot ne doit pas dépasser la cagnotte.
+**Dépassement**
+Si une main dépasse 21, le pari shoot de cette main, s'il y en a un, est immédiatement ajouté à la cagnotte — augmentant ainsi le montant que les mains suivantes peuvent miser.
 
-At the end of the hand, after the dealer has played, all outstanding shoot bets are settled at the same time as the normal pontoon bets. Players who have a better hand than the dealer are paid an amount equal to their shoot bets out of the kitty, and players whose hands are equal to or worse than the dealer's have their shoot bets added to the kitty. 
+À la fin de la donne, après que le donneur a joué, tous les paris shoot en suspens sont réglés en même temps que les paris de pontoon normaux. Les joueurs qui ont une meilleure main que le donneur sont payés d'un montant égal à leurs paris shoot à partir de la cagnotte, et les joueurs dont les mains sont égales ou inférieures à celle du donneur voient leurs paris shoot ajoutés à la cagnotte.
 
-Before each new deal the dealer has the option to add more money to the kitty, but must not take anything out of it. If there is nothing in the kitty at the end of a hand the dealer **must** either put up a new kitty or offer the bank for sale to the highest bidder. When the deal passes to a new player, either because they had a Pontoon or because it was sold, the old dealer retrieves anything that was left in the kitty, and the new dealer puts up a new kitty.
+Avant chaque nouvelle donne, le donneur a la possibilité d'ajouter plus d'argent à la cagnotte, mais ne doit rien en retirer. S'il n'y a rien dans la cagnotte à la fin d'une donne, le donneur **doit** soit former une nouvelle cagnotte soit offrir la banque à la vente au plus offrant. Quand la donne passe à un nouveau joueur, soit parce qu'il a eu un Pontoon soit parce qu'elle a été vendue, l'ancien donneur récupère tout ce qui restait dans la cagnotte, et le nouveau donneur forme une nouvelle cagnotte.
 
-## Other Pontoon web pages and Software
+## Autres pages web sur Pontoon et logiciels
 
-[Pontoon rules](https://cardgameheaven.com/pontoon-21) are available on the Card Game Heaven web site.
+Des [règles du Pontoon](https://cardgameheaven.com/pontoon-21) sont disponibles sur le site web Card Game Heaven.
 
-This [ Pontoon Guide](https://web.archive.org/web/20230607100337/https://thepogg.com/guides/pontoon/) (archive copy), formerly published by the Pogg, has information on the casino version of Pontoon and its strategy.
+Ce [Guide du Pontoon](https://web.archive.org/web/20230607100337/https://thepogg.com/guides/pontoon/) (copie d'archive), anciennement publié par le Pogg, contient des informations sur la version casino du Pontoon et sa stratégie.
 
-Derek Lazenby's free [Nickel Odeon Casino](https://racingdog.lazenby.me/Freeware.html) program for Windows includes a Pontoon game to play against the computer.
-
-Home Page > Classified Index > Banking Games > Pontoon
+Le programme gratuit [Nickel Odeon Casino](https://racingdog.lazenby.me/Freeware.html) de Derek Lazenby pour Windows comprend un jeu de Pontoon pour jouer contre l'ordinateur.

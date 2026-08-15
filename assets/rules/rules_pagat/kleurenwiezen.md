@@ -3,503 +3,501 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** A Belgian trick-taking card game for four players with partnerships determined by the bidding.
+**But :** Un jeu belge de levées pour quatre joueurs avec des partenariats déterminés par les enchères.
 
 ---
 
 ## Introduction
 
-The game of Colour Whist (Kleurenwiezen in Flemish, Whist à la Couleur in French) is a Belgian variation of Whist with bidding. A more accurate English translation of the name would be **Suit Whist**. Its distinctive feature is that the trump suit and the partnerships are chosen by the bidding, rather than fixing trumps by turning up the last card dealt as in the basic game of Belgian Whist (Wiezen). Kleurenwiezen is popular throughout most of Belgium and there are numerous local variations. For clarity I have revised the page so that the main description explains a single version of the game similar to the basic version offered at the online [Whisthub](https://www.whisthub.com/) server. I then list the main alternative rules that I know of in the Variations section at the end of this page.
+Le jeu du Whist à la couleur (Kleurenwiezen en flamand, Whist à la Couleur en français) est une variante belge du Whist avec enchères. Une traduction anglaise plus exacte du nom serait **Whist à l'atout**. Sa caractéristique distinctive est que la couleur d'atout et les partenariats sont choisis par les enchères, plutôt que de fixer l'atout en retournant la dernière carte distribuée comme dans le jeu belge de base (Wiezen). Le Kleurenwiezen est populaire dans la majeure partie de la Belgique et il existe de nombreuses variantes locales. Pour plus de clarté, j'ai révisé la page de sorte que la description principale explique une seule version du jeu similaire à la version de base offerte sur le serveur en ligne [Whisthub](https://www.whisthub.com/). Je liste ensuite les principales règles alternatives que je connais dans la section Variantes à la fin de cette page.
 
-*This page is based on information from Tom Torfs, Peter Kinoo, Nicolas Darchis and Sebastiaan Marynissen (the creator of [Whisthub](https://www.whisthub.com/)); also from the "Guide Marabout de Tous les Jeux de Cartes" by Frans Gerver (Verviers , 1966), Leo Dignef's thesis "Spelkaarten en Kaartspelen in het Turnhoutse", and the web sites Amis du Whist, FreeWhist.be and Pont Neuf.*
+*Cette page est basée sur des informations de Tom Torfs, Peter Kinoo, Nicolas Darchis et Sebastiaan Marynissen (créateur de [Whisthub](https://www.whisthub.com/)) ; également du « Guide Marabout de Tous les Jeux de Cartes » de Frans Gerver (Verviers, 1966), de la thèse de Leo Dignef « Spelkaarten en Kaartspelen in het Turnhoutse », et des sites web Amis du Whist, FreeWhist.be et Pont Neuf.*
 
-## Players and Cards
+## Joueurs et cartes
 
-This is a game for four players, each ultimately playing for themselves, though in any particular deal they form alliances, two against two or one against three, according to the bidding. A standard 52-card pack is used. For bidding purposes the four suits rank from high to low: Hearts, Diamonds, Clubs, Spades. Within each suit the cards rank from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2. In Belgium the Aces, Kings, Queens and Jacks normally have the indices **1, R, D, V** respectively.
+C'est un jeu pour quatre joueurs, chacun jouant finalement pour soi-même, bien que dans chaque donne particulière ils forment des alliances, deux contre deux ou un contre trois, selon les enchères. Un jeu standard de 52 cartes est utilisé. Pour les enchères, les quatre couleurs se classent de la plus haute à la plus basse : Cœurs, Carreaux, Trèfles, Piques. Dans chaque couleur, les cartes se classent de la plus haute à la plus basse : A-R-D-V-10-9-8-7-6-5-4-3-2. En Belgique, les As, Rois, Dames et Valets ont normalement les indices **1, R, D, V** respectivement.
 
-## The Deal
+## La distribution
 
-Deal and play are clockwise. The first dealer is chosen at random; thereafter the turn to deal passes to the left. 
+La distribution et le jeu se font dans le sens horaire. Le premier donneur est choisi au hasard ; ensuite, le tour de distribution passe à gauche.
 
-The deck is never shuffled between hands. The cards are simply gathered together and cut by the player to the right of the new dealer. The cards are then dealt out in batches of 4 and 5, normally a packet of 4 to each player, then a packet of 5 each, and then 4 each again. 
+Le jeu n'est jamais mélangé entre les mains. Les cartes sont simplement rassemblées et coupées par le joueur à la droite du nouveau donneur. Les cartes sont distribuées par lots de 4 et 5, normalement un paquet de 4 à chaque joueur, puis un paquet de 5 à chacun, puis 4 à chacun à nouveau.
 
-At the start of a new session with a new deck, it is customary to deal the cards to the players who sort their hands but do not bid or play them. The cards are then gathered together, cut, and dealt again to be bid and played.
+Au début d'une nouvelle session avec un nouveau jeu, il est de coutume de distribuer les cartes aux joueurs qui trient leurs mains mais n'enchérissent ni ne jouent. Les cartes sont alors rassemblées, coupées, et redistribuées pour être enchéries et jouées.
 
-## The Bidding
+## Les enchères
 
-After the cards have been dealt., players bid to decide what the contract will be and which players will be partners. The basic contract is for a pair of players to win at least 8 of the 13 tricks with an agreed trump suit of their choice. One player proposes the suit and if another player accepts the suit a partnership is formed. 
+Après la distribution des cartes, les joueurs enchérissent pour décider du contrat et de quels joueurs seront partenaires. Le contrat de base est pour une paire de joueurs de gagner au moins 8 des 13 levées avec une couleur d'atout de leur choix. Un joueur propose la couleur et si un autre joueur l'accepte, un partenariat est formé.
 
-Other contracts are possible in which one player plays alone against the other three as a team, contracting to win at least a certain number of tricks alone or to lose every trick or to win exactly one trick.
+D'autres contrats sont possibles dans lesquels un joueur joue seul contre les trois autres en équipe, s'engageant à gagner au moins un certain nombre de levées seul, ou à perdre chaque levée, ou à gagner exactement une levée.
 
-The bidding begins with the player to dealer's left and continues clockwise until the contract is determined. If more than one player or pair wants to play a contract, there is an auction in which the number of tricks to be taken can be raised, and whichever player or pair is willing to undertake the highest contract plays that contract. 
+Les enchères commencent par le joueur à la gauche du donneur et se poursuivent dans le sens horaire jusqu'à ce que le contrat soit déterminé. Si plusieurs joueurs ou paires veulent jouer un contrat, il y a une enchère dans laquelle le nombre de levées à prendre peut être augmenté, et le joueur ou la paire prêt à assumer le contrat le plus élevé joue ce contrat.
 
-The ranking order of contracts is given in the table in the scoring section below. If two players or pairs want to play the same type of contract for the same number of tricks, the contract with the higher ranking trump suit has priority. The player or pair wanting to play with the lower ranking trump suit need to bid one trick more to stay in the auction.
+L'ordre de classement des contrats est donné dans le tableau de la section de marquage ci-dessous. Si deux joueurs ou paires veulent jouer le même type de contrat pour le même nombre de levées, le contrat avec la couleur d'atout de rang supérieur a la priorité. Le joueur ou la paire voulant jouer avec la couleur d'atout de rang inférieur doit enchérir une levée de plus pour rester dans l'enchère.
 
-The possible bids and their consequences are as follows.
+Les enchères possibles et leurs conséquences sont les suivantes.
 
-### 1. Pass
+### 1. Passer
 
-A player who does not wish to play a contract, neither alone nor with a partner, says 'pass'. This player cannot bid again during the auction. 
+Un joueur qui ne souhaite pas jouer un contrat, ni seul ni avec un partenaire, dit « passer ». Ce joueur ne peut plus enchérir pendant l'enchère.
 
-### 2. Wait
+### 2. Attendre
 
-This option is available only to the dealer's left. By saying 'wait' the player does not propose a contract but reserves the right to accept a proposal by another player. At their next turn they must either accept a suit proposal or pass. They can no longer propose a suit of their own or make any other bid.
+Cette option n'est disponible que pour le joueur à la gauche du donneur. En disant « attendre », le joueur ne propose pas de contrat mais se réserve le droit d'accepter une proposition d'un autre joueur. À son prochain tour, il doit soit accepter une proposition de couleur, soit passer. Il ne peut plus proposer une couleur de son choix ni faire d'autre enchère.
 
-### 3. Proposal (vraag / propos)
+### 3. Proposition (vraag / propos)
 
-A player may name a suit, proposing a partnership in that suit if another player accepts. The proposal remains live until the proposer's next turn to speak, at which point it expires if it has not been accepted. At this point the proposer may propose a different suit, or renew their proposal (once) by naming the same suit again, or accept another player's proposal, or bid a different contract (see below) but not an Abondance or Slam. 
+Un joueur peut nommer une couleur, proposant un partenariat dans cette couleur si un autre joueur l'accepte. La proposition reste active jusqu'au prochain tour de parole du proposant, auquel point elle expire si elle n'a pas été acceptée. À ce moment, le proposant peut proposer une couleur différente, ou renouveler sa proposition (une fois) en nommant la même couleur, ou accepter la proposition d'un autre joueur, ou enchérir un contrat différent (voir ci-dessous) mais pas un Abondance ou un Chelem.
 
-A player can only propose a suit if all the following conditions are satisfied:
+Un joueur ne peut proposer une couleur que si toutes les conditions suivantes sont remplies :
 
-- The player has not previously made any bid other than a proposal.
+- Le joueur n'a pas fait d'autre enchère qu'une proposition.
 
-- There is currently no live proposal of the same suit by another player, and no previous proposal of that suit has been accepted by anyone.
+- Il n'y a actuellement pas de proposition active de la même couleur par un autre joueur, et aucune proposition précédente de cette couleur n'a été acceptée.
 
-- There is at least one other player who could legally accept the proposal. 
+- Il y a au moins un autre joueur qui pourrait légalement accepter la proposition.
 
-- The player has not proposed this same suit more than once before in this auction.
+- Le joueur n'a pas proposé cette même couleur plus d'une fois dans cette enchère.
 
-- The player holds at least one card in the proposed trump suit.
+- Le joueur détient au moins une carte de la couleur d'atout proposée.
 
-### 4. Acceptance (meegaan / emballage)
+### 4. Acceptation (meegaan / emballage)
 
-A player may accept a live proposal by another player by bidding the same suit provided that they hold at least one card of that suit. This creates a partnership with the proposer and commits the pair to a contract to win at least 8 tricks with the agreed suit as trumps. These two players are **bound** to this suit. The acceptor will bid on behalf of the partnership and has the following options:
+Un joueur peut accepter une proposition active d'un autre joueur en enchérissant la même couleur, à condition qu'il détienne au moins une carte de cette couleur. Cela crée un partenariat avec le proposant et engage la paire à un contrat de gagner au moins 8 levées avec la couleur convenue comme atout. Ces deux joueurs sont **liés** à cette couleur. L'acceptant enchérira au nom du partenariat et a les options suivantes :
 
-- To bid the minimum number of tricks needed to stay in the auction. To keep track of the bidding the acceptor should state the number of tricks bid. For example in the auction South: 'Spades', West: 'Diamonds', North: 'Accept Diamonds', East: 'Accept 9 Spades', East needs to contract for 9 tricks to outbid West and North's default contract of 8 Diamonds because Spades is a lower suit than Diamonds.
+- Enchérir le nombre minimum de levées nécessaire pour rester dans l'enchère. Pour suivre les enchères, l'acceptant devrait indiquer le nombre de levées enchéries. Par exemple dans l'enchère Sud : « Piques », Ouest : « Carreaux », Nord : « Accepter Carreaux », Est : « Accepter 9 Piques », Est doit s'engager pour 9 levées pour surenchérir Ouest et le contrat par défaut de Nord-Ouest de 8 Carreaux car les Piques sont une couleur de rang inférieur aux Carreaux.
 
-- To pass, breaking the partnership. The proposer remains bound to the suit.
+- Passer, brisant le partenariat. Le proposant reste lié à la couleur.
 
-- If the number of tricks that would need to be bid is 11 or more to '*pass parôle*' (see below).
+- Si le nombre de levées à enchérir est de 11 ou plus, dire « *pass parôle* » (voir ci-dessous).
 
-So long as the acceptor chooses option 'a' to bid the necessary number of tricks the acceptor continues to bid on behalf of the partnership and the proposer cannot say anything more. The proposer's turn to bid is skipped unless and until the acceptor passes or says '*pass parôle*'.
+Tant que l'acceptant choisit l'option « a » d'enchérir le nombre nécessaire de levées, il continue à enchérir au nom du partenariat et le proposant ne peut plus rien dire. Le tour d'enchérir du proposant est saufé sauf si l'acceptant passe ou dit « *pass parôle* ».
 
 ### 5. Pass parôle
 
-If the acceptor of a suit would have to bid 11 or more tricks to stay in the auction, they can say '*pass parôle*' instead, passing the choice of whether to continue bidding back to the original proposer who from now bids on behalf of the partnership. The original proposer must either undertake the minimum number of tricks needed in the agreed suit or pass. A player who has said '*pass parôle*' cannot bid again in the auction unless the original proposer passes. If the original proposer breaks the partnership by passing, the original acceptor remains bound to the agreed suit and can only bid a Solo in the suit (see below) or pass.
+Si l'acceptant d'une couleur devait enchérir 11 levées ou plus pour rester dans l'enchère, il peut dire « *pass parôle* » à la place, renvoyant le choix de continuer les enchères au proposant original, qui enchérira désormais au nom du partenariat. Le proposant original doit soit s'engager pour le nombre minimum de levées dans la couleur convenue, soit passer. Un joueur qui a dit « *pass parôle* » ne peut plus enchérir dans l'enchère à moins que le proposant original ne passe. Si le proposant original brise le partenariat en passant, l'accepteur original reste lié à la couleur convenue et ne peut enchérir qu'un Solo dans cette couleur (voir ci-dessous) ou passer.
 
 ### 6. Solo
 
-This is a contract to play alone against the other three players as a team and win at least 5, 6, 7 or 8 tricks with a trump suit named by the bidder. Solo cannot be bid initially if there is a possibility of a partnership contract with that trump suit: the player must first attempt to form a partnership by proposing the suit (or accepting it if it has been proposed by another player). A Solo in a suit can only be bid in the following circumstances:
+C'est un contrat pour jouer seul contre les trois autres joueurs en équipe et gagner au moins 5, 6, 7 ou 8 levées avec une couleur d'atout nommée par l'enchérisseur. Le Solo ne peut pas être enchéri initialement s'il existe la possibilité d'un contrat de partenariat avec cette couleur d'atout : le joueur doit d'abord tenter de former un partenariat en proposant la couleur (ou en l'acceptant si elle a été proposée par un autre joueur). Un Solo dans une couleur ne peut être enchéri que dans les circonstances suivantes :
 
-- the player previously proposed the suit but no one accepted, or
+- le joueur a précédemment proposé la couleur mais personne n'a accepté, ou
 
-- there is no player who would be allowed to accept a proposal in that suit because all the other players are already committed - they have either passed or are already in partnerships or have bid their own Solo in another suit or some other type of contract, or
+- il n'y a pas de joueur qui serait autorisé à accepter une proposition dans cette couleur car tous les autres joueurs sont déjà engagés — ils ont soit passé, soit sont déjà en partenariats, soit ont enchéri leur propre Solo dans une autre couleur ou un autre type de contrat, ou
 
-- the player who bids Solo was previously in a partnership in that suit but their partner has broken the partnership by passing.
+- le joueur qui enchérit un Solo était précédemment en partenariat dans cette couleur mais son partenaire a brisé le partenariat en passant.
 
-Note that a player who has been bound to a suit by a proposal and acceptance cannot subsequently bid a Solo in a different suit, nor can they bid any other contract. If their partner breaks the partnership by passing they can bid a Solo in the agreed suit or pass, but cannot make any other bid.
+Notez qu'un joueur qui a été lié à une couleur par une proposition et une acceptation ne peut pas enchérir ensuite un Solo dans une couleur différente, ni enchérir aucun autre contrat. Si son partenaire brise le partenariat en passant, il peut enchérir un Solo dans la couleur convenue ou passer, mais ne peut faire aucune autre enchère.
 
-Note also that it is not possible to bid a Solo in the same suit in which a partnership contract or a Solo has already been undertaken by a different player or players.
+Notez également qu'il n'est pas possible d'enchérir un Solo dans la même couleur dans laquelle un contrat de partenariat ou un Solo a déjà été assumé par un ou plusieurs joueurs différents.
 
-A player who bids a Solo must always bid the minimum number of tricks needed to outbid the previous highest contract. This binds them to Solo in that suit. Subsequently they can raise their Solo bid if necessary to outbid another player, but they cannot change to a different trump suit or a different type of contract.
+Un joueur qui enchérit un Solo doit toujours enchérir le nombre minimum de levées nécessaire pour surenchérir le contrat le plus élevé précédent. Cela le lie au Solo dans cette couleur. Par la suite, il peut augmenter son enchère de Solo si nécessaire pour surenchérir un autre joueur, mais il ne peut pas changer pour une autre couleur d'atout ou un autre type de contrat.
 
-The highest possible Solo is for 8 tricks, and there is no reward for winning more than 8 tricks in a Solo. A player who wishes to contract to win 9 or more tricks must bid Abondance from the outset (see below).
+Le Solo le plus élevé possible est pour 8 levées, et il n'y a pas de récompense pour gagner plus de 8 levées dans un Solo. Un joueur qui souhaite s'engager à gagner 9 levées ou plus doit enchérir un Abondance dès le départ (voir ci-dessous).
 
-### 7. Small Misère
+### 7. Petite misère
 
-This is a contract to lose all 12 tricks after everyone has discarded a card of their choice face down. There are no trumps. The other players form a team who attempt to force the declarer to win a trick.
+C'est un contrat pour perdre toutes les 12 levées après que chacun a défaussé une carte de son choix face cachée. Il n'y a pas d'atout. Les autres joueurs forment une équipe qui tente de forcer le déclarant à gagner une levée.
 
-Small Misère can be bid at any turn by any player who has not previously passed and is not bound to a suit by a proposal and acceptance, provided that no higher contract has been bid. 
+La Petite misère peut être enchérie à tout tour par tout joueur qui n'a pas précédemment passé et n'est pas lié à une couleur par une proposition et une acceptation, à condition qu'aucun contrat plus élevé n'ait été enchéri.
 
-If the most recent bid is Small Misère another player who is not bound to a suit can also bid Small Misère and in this way it is possible for two, three or even all four players to play a Small Misère simultaneously. In this case each of the declarers succeeds or fails independently depending on whether each of them manages to avoid taking any tricks. 
+Si l'enchère la plus récente est une Petite misère, un autre joueur qui n'est pas lié à une couleur peut aussi enchérir une Petite misère, et de cette façon il est possible que deux, trois ou même les quatre joueurs jouent une Petite misère simultanément. Dans ce cas, chaque déclarer réussit ou échoue indépendamment selon qu'il parvient à éviter de prendre des levées.
 
-Any player who bids a Misère (of any kind) is thereby **bound** to negative contracts (Misère and Piccolo) and for the remainder of the auction can only bid a higher negative contract or pass. 
+Tout joueur qui enchérit une Misère (de tout type) est par là même **lié** aux contrats négatifs (Misère et Piccolo) et pour le reste de l'enchère ne peut enchérir qu'un contrat négatif plus élevé ou passer.
 
 ### 8. Piccolo
 
-This is a contract to win **exactly** one trick, losing the other 12. There are no trumps. It can be bid by any player who is not bound to a suit, provided that nothing higher has been bid. As with Small Misère more than one player can play Piccolo simultaneously. A player who has bid Piccolo **bound** to negative contracts (Misère and Piccolo) and for the remainder of the auction can only bid a higher negative contract or pass. 
+C'est un contrat pour gagner **exactement** une levée, en perdant les 12 autres. Il n'y a pas d'atout. Il peut être enchéri par tout joueur qui n'est pas lié à une couleur, à condition que rien de plus élevé n'ait été enchéri. Comme pour la Petite misère, plusieurs joueurs peuvent jouer un Piccolo simultanément. Un joueur qui a enchéri un Piccolo est **lié** aux contrats négatifs (Misère et Piccolo) et pour le reste de l'enchère ne peut enchérir qu'un contrat négatif plus élevé ou passer.
 
 ### 9. Troel / Trou
 
-A player who has three or four Aces must announce Troel *(Trou)* before the start of the auction proper. The Troel bidder's partner is the player who holds the fourth Ace, or if the Troel bidder has all four Aces (sometimes known as Royal Troel), the partner is the holder of highest heart not in the Troel bidder's hand. The default trump suit is the suit of the card that determines the partner and the contract is for the team to win at least 8 tricks. The partner has the option to switch to a different trump suit, but in that case the team must win at least 9 tricks for the contract to succeed.
+Un joueur qui a trois ou quatre As doit annoncer le Troel *(Trou)* avant le début des enchères proprement dites. Le partenaire de l'enchérisseur du Troel est le joueur qui détient le quatrième As, ou si l'enchérisseur du Troel a les quatre As (parfois appelé Troel royal), le partenaire est le détenteur du plus haut cœur qui n'est pas dans la main de l'enchérisseur du Troel. La couleur d'atout par défaut est la couleur de la carte qui détermine le partenaire et le contrat est pour l'équipe de gagner au moins 8 levées. Le partenaire a l'option de changer pour une couleur d'atout différente, mais dans ce cas l'équipe doit gagner au moins 9 levées pour que le contrat réussisse.
 
 ### 10. Abondance
 
-This is a contract to play alone against the other three players as a team and win at least 9, 10, 11 or 12 tricks with a trump suit named by the bidder. The bidder names the suit and the number of tricks, for example "Abondance 10 clubs". A player who wishes to bid Abondance must do so at their first turn to speak - it is not possible to begin with a different bid, such as a Proposal, and convert to Abondance later. If another player competes by bidding a higher contract (i.e. an Abondance for more tricks or in a higher suit or an appropriate Misère), the original Abondance bidder can raise their bid to a higher Abondance or a Solo Slim if they wish (but cannot change to a different trump suit). A player who has bid Abondance cannot subsequently bid a Misère.
+C'est un contrat pour jouer seul contre les trois autres joueurs en équipe et gagner au moins 9, 10, 11 ou 12 levées avec une couleur d'atout nommée par l'enchérisseur. L'enchérisseur nomme la couleur et le nombre de levées, par exemple « Abondance 10 trèfles ». Un joueur qui souhaite enchérir un Abondance doit le faire à son premier tour de parole — il n'est pas possible de commencer par une enchère différente, comme une Proposition, et de convertir à un Abondance plus tard. Si un autre joueur fait concurrence en enchérissant un contrat plus élevé (c'est-à-dire un Abondance pour plus de levées ou dans une couleur supérieure ou une Misère appropriée), l'enchérisseur original de l'Abondance peut augmenter son enchère à un Abondance plus élevé ou à un Solo Slim s'il le souhaite (mais ne peut pas changer pour une autre couleur d'atout). Un joueur qui a enchéri un Abondance ne peut pas enchérir ensuite une Misère.
 
-### 11. Large Misère (Grande Misère / Grote Miserie)
+### 11. Grande misère (Grande Misère / Grote Miserie)
 
-This is a contract to lose all 13 tricks with no trumps. It can be bid at any turn by any player who has not previously passed and is not bound to a suit, provided that no higher contract has been bid. As with other negative contracts, it is possible for two or more players to play Large Misère simultaneously.
+C'est un contrat pour perdre toutes les 13 levées sans atout. Il peut être enchéri à tout tour par tout joueur qui n'a pas précédemment passé et n'est pas lié à une couleur, à condition qu'aucun contrat plus élevé n'ait été enchéri. Comme pour les autres contrats négatifs, il est possible que deux joueurs ou plus jouent une Grande misère simultanément.
 
-### 12. Open Misère (Grande Misère Etalée / Misère Ouverte / Open Miserie)
+### 12. Misère ouverte (Grande Misère Étalée / Misère Ouverte / Open Miserie)
 
-This is a contract to lose all 13 tricks with no trumps. It can be bid at any turn by any player who has not previously passed and is not bound to a suit, provided that no higher contract has been bid. At the end of the first trick, the bidder's cards are placed face up on the table for all to see, and the declarer plays them from the table. Simultaneous Open Misères are possible in which case the hands of all declarers are exposed.
+C'est un contrat pour perdre toutes les 13 levées sans atout. Il peut être enchéri à tout tour par tout joueur qui n'a pas précédemment passé et n'est pas lié à une couleur, à condition qu'aucun contrat plus élevé n'ait été enchéri. À la fin de la première levée, les cartes de l'enchérisseur sont placées face visible sur la table pour que tout le monde les voie, et le déclarant les joue depuis la table. Des Misères ouvertes simultanées sont possibles, auquel cas les mains de tous les déclarants sont exposées.
 
-### 13. Slam (Chelem / Solo Slim)
+### 13. Chelem (Chelem / Solo Slim)
 
-The bidder chooses the trump suit and must win all 13 tricks playing alone. This contract can only be bid on a player's first turn or by a player who has previously bid Abondance in the same suit.
+L'enchérisseur choisit la couleur d'atout et doit gagner les 13 levées en jouant seul. Ce contrat ne peut être enchéri qu'au premier tour d'un joueur ou par un joueur qui a précédemment enchéri un Abondance dans la même couleur.
 
-### The Bidding Process
+### Le processus d'enchères
 
-The bidding process essentially consists of three stages: 
+Le processus d'enchères consiste essentiellement en trois étapes :
 
-- Announcing Troel
+- Annonce du Troel
 
-- Forming partnerships or bidding solo contracts
+- Formation de partenariats ou enchères de contrats solo
 
-- Raising bids to establish which contract will be played
+- Relances pour établir quel contrat sera joué
 
-### 1. Announcing Troel
+### 1. Annonce du Troel
 
-When the cards have been dealt and before the auction proper commences, the players must check whether anyone has *Troel* (3 or 4 aces). Each player in turn starting to dealer's left says "*Troel"* or "no *Troel"*. 
+Lorsque les cartes ont été distribuées et avant que les enchères proprement dites ne commencent, les joueurs doivent vérifier si quelqu'un a un *Troel* (3 ou 4 as). Chaque joueur à son tour en commençant par le joueur à la gauche du donneur dit « *Troel* » ou « pas de *Troel* ».
 
-- If there is a 3-Ace *troel* the holder of the fourth Ace says "with me" (without at this stage specifying the suit of the fourth Ace). 
+- S'il y a un *troel* à 3 As, le détenteur du quatrième As dit « avec moi » (sans spécifier à ce stade la couleur du quatrième As).
 
-- A *troel* bidder who holds all four Aces must name the highest heart that is missing from their hand (for example by saying "*Troel* with the King of hearts"), and the holder of this heart says "with me". 
+- Un enchérisseur *troel* qui détient les quatre As doit nommer le plus haut cœur manquant de sa main (par exemple en disant « *Troel* avec le Roi de cœurs »), et le détenteur de ce cœur dit « avec moi ».
 
-### 2. Forming partnerships or choosing contracts
+### 2. Formation de partenariats ou choix des contrats
 
-After a *Troel* bid there is an auction starting with the player to dealer's left in which only contracts higher than Troel can be bid, such as Large Misère or Abondance for 10 tricks or more. The *Troel* bidder and partner can take part in this and outbid the *Troel* if they wish to. If all pass the *Troel* is played.
+Après une enchère de *Troel*, il y a une enchère commençant par le joueur à la gauche du donneur dans laquelle seuls les contrats supérieurs au Troel peuvent être enchéris, comme une Grande misère ou un Abondance pour 10 levées ou plus. L'enchérisseur du *Troel* et son partenaire peuvent y participer et surenchérir le *Troel* s'ils le souhaitent. Si tous passent, le *Troel* est joué.
 
-If there is no *Troel*, the auction begins with the player to dealer's left, who can pass, wait, propose a suit, or bid any contract from Small Misère upwards with the exception of Solo. If all four players pass, either at the outset or after unsuccessful attempts to find a partner, the cards are thrown in and the same player deals again. 
+S'il n'y a pas de *Troel*, l'enchère commence par le joueur à la gauche du donneur, qui peut passer, attendre, proposer une couleur, ou enchérir n'importe quel contrat de la Petite misère ou plus, à l'exception du Solo. Si les quatre joueurs passent, que ce soit au départ ou après des tentatives infructueuses de trouver un partenaire, les cartes sont jetées et le même joueur redistribue.
 
-The auction continues clockwise until every player has committed themselves, either by passing or bidding a contract or by forming a partnership. In this part of the auction players who are already committed are skipped.
+L'enchère continue dans le sens horaire jusqu'à ce que chaque joueur se soit engagé, soit en passant, soit en enchérissant un contrat, soit en formant un partenariat. Dans cette partie de l'enchère, les joueurs déjà engagés sont sautés.
 
-### 3. Raising bids
+### 3. Relances
 
-This third stage takes place only if at the end of stage 2 there is more than one player or partnership that have bid different contracts. In this case, the action continues clockwise from the last player who bid in stage 2. 
+Cette troisième étape n'a lieu que s'il y a, à la fin de l'étape 2, plus d'un joueur ou partenariat qui ont enchéri des contrats différents. Dans ce cas, l'action continue dans le sens horaire à partir du dernier joueur qui a enchéri à l'étape 2.
 
-At their turn, any player whose contract has been bid outbid by another player or team must either pass or raise their bid to a contract of the same type that is higher than (or in the case of negative contracts equal to) the highest contract so far bid. Players are skipped if they have already passed, or if their bid is already the highest, or if they are in suit partnership and their partner is currently responsible for raising.
+À son tour, tout joueur dont le contrat a été surenchéri par un autre joueur ou équipe doit soit passer soit surenchérir à un contrat du même type qui est supérieur à (ou, dans le cas des contrats négatifs, égal à) au contrat le plus élevé enchéri jusque-là. Les joueurs sont sautés s'ils ont déjà passé, si leur enchère est déjà la plus élevée, ou s'ils sont en partenariat de couleur et que leur partenaire est actuellement responsable de la surenchère.
 
-Note that a player who wishes to bid Abondance or Solo Slim must do so on their first turn to speak. When bidding Abondance (unlike Acceptance or Solo) it is not necessary to bid at the lowest available level. Since there is no extra score for winning overtricks in Abondance, a bidder may wish to bid 10, 11 or 12 tricks from the outset. A player who has bid Abondance can raise it to a higher level (or to a Solo Slim) on their next turn to speak, but only if another player has overcalled it with a higher contract (another Abondance or a Misère). If all the other players pass the Abondance has to be played at the level that was bid.
+Notez qu'un joueur qui souhaite enchérir un Abondance ou un Solo Slim doit le faire à son premier tour de parole. Lorsqu'on enchérit un Abondance (contrairement à l'Acceptation ou au Solo), il n'est pas nécessaire d'enchérir au niveau le plus bas disponible. Puisqu'il n'y a pas de score supplémentaire pour gagner des levées excédentaires en Abondance, un enchérisseur peut souhaiter enchérir 10, 11 ou 12 levées dès le départ. Un joueur qui a enchéri un Abondance peut l'augmenter à un niveau supérieur (ou à un Solo Slim) à son prochain tour de parole, mais seulement si un autre joueur l'a surenchéri avec un contrat plus élevé (un autre Abondance ou une Misère). Si tous les autres joueurs passent, l'Abondance doit être joué au niveau qui a été enchéri.
 
-The third stage of the auction ends when the final (highest) contract is established, all players not playing this contract having passed.
+La troisième étape de l'enchère se termine lorsque le contrat final (le plus élevé) est établi, tous les joueurs ne jouant pas ce contrat ayant passé.
 
-There are many local variations in which bids are allowed and in their ranking order. Before playing, the players should agree on a scoring table which lists the possible bids in ascending order and the score for each of them. A recommended scoring table is given in the scoring section of this page, and some alternatives are mentioned in the variations section.
+Il existe de nombreuses variantes locales sur les enchères autorisées et leur ordre de classement. Avant de jouer, les joueurs doivent se mettre d'accord sur une table de marquage qui liste les enchères possibles par ordre croissant et le score pour chacune d'elles. Une table de marquage recommandée est donnée dans la section de marquage de cette page, et quelques alternatives sont mentionnées dans la section des variantes.
 
-## The Play
+## Le jeu
 
-When the final contract is established, the play begins. In all contracts players must follow suit whenever possible. A player with no card of the suit led may play any card. (There is no obligation to trump, nor to beat the cards previously played to the trick.) The trick is won by the highest card of the suit led, unless there are trumps in it, in which case the highest trump wins. The winner of a trick leads to the next.
+Lorsque le contrat final est établi, le jeu commence. Dans tous les contrats, les joueurs doivent suivre la couleur si possible. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte. (Il n'y a pas d'obligation de couper, ni de battre les cartes déjà jouées dans la levée.) La levée est gagnée par la carte la plus haute de la couleur menée, sauf si elle contient des atouts, auquel cas le plus fort atout l'emporte. Le gagnant d'une levée entame la suivante.
 
-In a Proposal and Acceptance or a Solo, the trump suit is already known from the bid, and the player to the left of the dealer leads to the first trick.
+Dans une Proposition et Acceptation ou un Solo, la couleur d'atout est déjà connue de l'enchère, et le joueur à la gauche du donneur entame la première levée.
 
-In a Troel the bidder's partner has two options:
+Dans un Troel, le partenaire de l'enchérisseur a deux options :
 
-- The partner leads to the first trick and must lead the called card - their Ace if they have one or their highest heart if the Troel bidder has all the Aces. This establishes the led suit as trumps and the contract is to win at least 8 tricks.
+- Le partenaire entame la première levée et doit mener la carte appelée — son As s'il en a un ou son plus haut cœur si l'enchérisseur du Troel a tous les As. Cela établit la couleur menée comme atout et le contrat est de gagner au moins 8 levées.
 
-- The partner changes the trump suit by announcing one of the other three suits. In this case the Troel bidder must lead the Ace of trumps to the first trick and the contract is to take at least 9 tricks.
+- Le partenaire change la couleur d'atout en annonçant une des trois autres couleurs. Dans ce cas, l'enchérisseur du Troel doit mener l'As d'atout à la première levée et le contrat est de prendre au moins 9 levées.
 
-In the negative contracts - Piccolo and all kinds of Misère - there are no trumps and the player to dealer's left leads to the first trick.
+Dans les contrats négatifs — le Piccolo et tous les types de Misère — il n'y a pas d'atout et le joueur à la gauche du donneur entame la première levée.
 
-In Abondance and Slams the winner of the bidding leads to the first trick.
+Dans l'Abondance et les Chelems, le gagnant des enchères entame la première levée.
 
-## The Scoring
+## Le marquage
 
-The game is usually played for small stakes. If the score is kept on paper, there is a column for each player representing the amount of money that player has won or lost, and the scores should balance.
+Le jeu se joue généralement pour de petits enjeux. Si le score est tenu sur papier, il y a une colonne pour chaque joueur représentant le montant gagné ou perdu, et les scores devraient s'équilibrer.
 
-- When two players play against two, each member of the winning team wins a certain amount, and each member of the losing team loses that same amount.
+- Lorsque deux joueurs jouent contre deux, chaque membre de l'équipe gagnante gagne un certain montant, et chaque membre de l'équipe perdante perd ce même montant.
 
-- When one player plays against three, that player is paid by or pays to all three opponents, so the amount won or lost by the lone player is three times the amount lost or won by each member of the opposing team of three players.
+- Lorsqu'un joueur joue contre trois, ce joueur est payé par ou paie à chacun des trois adversaires, donc le montant gagné ou perdu par le joueur seul est trois fois le montant perdu ou gagné par chaque membre de l'équipe adverse de trois joueurs.
 
-- When there are simultaneous contracts - for example two different players playing a Small Misère at the same time - then each is scored separately.
+- Lorsqu'il y a des contrats simultanés — par exemple deux joueurs différents jouant une Petite misère en même temps — chacun est marqué séparément.
 
-In a Proposal and Acceptance or a Solo, the score depends on the number of tricks won. In a Troel there is a fixed score unless the bidding side wins every trick, in which case there is a higher score. Each of the other contracts has a fixed score.
+Dans une Proposition et Acceptation ou un Solo, le score dépend du nombre de levées gagnées. Dans un Troel, il y a un score fixe sauf si l'équipe d'enchérisseur gagne toutes les levées, auquel cas il y a un score plus élevé. Chacun des autres contrats a un score fixe.
 
-The details of the scores and the precise ranking order of the contracts varies from place to place and is shown in a **scoring table** such as this one. 
+Les détails des scores et l'ordre précis de classement des contrats varient d'un endroit à l'autre et sont montrés dans une **table de marquage** comme celle-ci.
 
-| Contract | Basic score | Overtricks | Undertricks |
-| accept 8 | 8 | +3+3+3+3+10 | 3 each |
-| solo 5 | 3 | +1+1+1 | 1 each |
-| accept 9 | 11 | +3+3+3+10 | 3 each |
-| solo 6 | 4 | +1+1 | 1 each |
-| accept 10 | 14 | +3+3+10 | 3 each |
-| solo 7 | 5 | +1 | 1 each |
-| accept 11 | 17 | +3+10 | 3 each |
-| small misère | 6 | - | - |
-| accept 12 | 20 | +10 | 3 each |
-| solo 8 | 7 | - | 1 each |
+| Contrat | Score de base | Levées excédentaires | Levées manquantes |
+| accepter 8 | 8 | +3+3+3+3+10 | 3 chacune |
+| solo 5 | 3 | +1+1+1 | 1 chacune |
+| accepter 9 | 11 | +3+3+3+10 | 3 chacune |
+| solo 6 | 4 | +1+1 | 1 chacune |
+| accepter 10 | 14 | +3+3+10 | 3 chacune |
+| solo 7 | 5 | +1 | 1 chacune |
+| accepter 11 | 17 | +3+10 | 3 chacune |
+| petite misère | 6 | - | - |
+| accepter 12 | 20 | +10 | 3 chacune |
+| solo 8 | 7 | - | 1 chacune |
 | piccolo | 8 | - | - |
-| accept 13 | 30 | - | - |
+| accepter 13 | 30 | - | - |
 | abondance 9 | 10 | - | - |
-| troel | 16 | all tricks 30 | - |
-| grand misère | 12 | - | - |
+| troel | 16 | toutes les levées 30 | - |
+| grande misère | 12 | - | - |
 | abondance 10 | 15 | - | - |
 | abondance 11 | 20 | - | - |
-| open misère | 24 | - | - |
+| misère ouverte | 24 | - | - |
 | abondance 12 | 30 | - | - |
-| solo slam | 60 | - | - |
+| solo chelem | 60 | - | - |
 
 **Notes.**
 
-- The extra points for overtricks generally increase the score so that it is equal to the score for the same contract played at a higher level. For example the notation "+3+3+10" for "accept 10" means that the 11th trick increases the score by 3 points, the 12th trick by another 3, and the 13th trick by 10 bring the total to 30 (=14+3+3+10), the same as would have been scored for accept 13.
+- Les points supplémentaires pour les levées excédentaires augmentent généralement le score pour qu'il soit égal au score du même contrat joué à un niveau supérieur. Par exemple, la notation « +3+3+10 » pour « accepter 10 » signifie que la 11e levée augmente le score de 3 points, la 12e levée de 3 autres, et la 13e levée de 10, portant le total à 30 (=14+3+3+10), le même que ce qui aurait été marqué pour accepter 13.
 
-- In a Solo there is no extra score for winning more than 8 tricks. In order to win more than 7 from each opponent the player needs to bid an Abondance on their first turn to speak. 
+- Dans un Solo, il n'y a pas de score supplémentaire pour gagner plus de 8 levées. Pour gagner plus de 7 de chaque adversaire, le joueur doit enchérir un Abondance à son premier tour de parole.
 
-- In a failed Proposal/Acceptance or Solo all undertricks score points, even the first. So for example a failed Solo 6 always costs at least 5 points paid to each opponent - a basic score of 4 plus at least one undertrick.
+- Dans un Solo échoué (Proposition/Acceptation ou Solo), toutes les levées manquantes marquent des points, même la première. Ainsi, par exemple, un Solo 6 échoué coûte toujours au moins 5 points payés à chaque adversaire — un score de base de 4 plus au moins une levée manquante.
 
-- Because the bidder is paid by 3 opponents, contracts that are played alone are essentially worth three times as much to the bidder compared to partnership contracts. This is to a large extent reflected in the ranking and scores in the above table, for example 8 < 3×3 < 11 < 3×4 < 14 ...
+- Parce que l'enchérisseur est payé par 3 adversaires, les contrats joués seuls valent essentiellement trois fois plus pour l'enchérisseur par rapport aux contrats de partenariat. Cela est en grande partie reflété dans le classement et les scores dans le tableau ci-dessus, par exemple 8 < 3×3 < 11 < 3×4 < 14 ...
 
-- There is no score for overtricks or undertricks in Troel unless the bidding team wins all 13 tricks, which increases the score from 16 to 30.
+- Il n'y a pas de score pour les levées excédentaires ou manquantes au Troel, sauf si l'équipe d'enchérisseur gagne les 13 levées, ce qui augmente le score de 16 à 30.
 
-- There is no score for overtricks or undertricks in Abondance. To benefit from taking more tricks the player would have to bid a higher Abondance.
+- Il n'y a pas de score pour les levées excédentaires ou manquantes en Abondance. Pour bénéficier de la prise de plus de levées, le joueur devrait enchérir un Abondance plus élevé.
 
-- When more than one player plays Misère all are scored separately. For example if two players play Small Misère and both succeed, they each win a total of 12 points (18‒6) and their opponents each pay 12 (6+6). If one succeeds and the other fails the unsuccessful Misère player pays 24 (18+6) to the successful player, and the other two neither win nor lose (6‒6).
+- Lorsque plusieurs joueurs jouent une Misère, tous sont marqués séparément. Par exemple, si deux joueurs jouent une Petite misère et que les deux réussissent, ils gagnent chacun un total de 12 points (18‒6) et leurs adversaires paient chacun 12 (6+6). Si l'un réussit et l'autre échoue, le joueur de Misère échoué paie 24 (18+6) au joueur de Misère réussi, et les deux autres ne gagnent ni ne perdent (6‒6).
 
-## Examples of Bidding
+## Exemples d'enchères
 
-The following examples are intended to clarify the bidding mechanism. They are based on the ranking of bids in the suggested scoring table above.
+Les exemples suivants visent à clarifier le mécanisme des enchères. Ils sont basés sur le classement des enchères dans la table de marquage suggérée ci-dessus.
 
-**Example 1**
+**Exemple 1**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Diamonds [a] | Clubs [b] | Spades [b] | Hearts [b] |
-| Hearts [c] | 9 Spades [d] | - [e] | - [e] |
-| 9 Hearts [f] | Pass [g] | Solo 6 Spades [h] | - |
-| 10 Hearts | - | Solo 7 Spades | - |
-| Pass [i] | - | - | Solo 7 Hearts [j] |
-| - | - | Pass [k] |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Carreaux [a] | Trèfles [b] | Piques [b] | Cœurs [b] |
+| Cœurs [c] | 9 Piques [d] | - [e] | - [e] |
+| 9 Cœurs [f] | Passe [g] | Solo 6 Piques [h] | - |
+| 10 Cœurs | - | Solo 7 Piques | - |
+| Passe [i] | - | - | Solo 7 Cœurs [j] |
+| - | - | Passe [k] |   |
 
-- Since no one has Troel, North begins stage 2 of the bidding by proposing a suit. North could instead pass, wait or bid a different kind of contract, but not Solo.
+- Comme personne n'a de Troel, Nord commence l'étape 2 des enchères en proposant une couleur. Nord pourrait aussi passer, attendre ou enchérir un autre type de contrat, mais pas un Solo.
 
-- In this example, East, South and North all propose different suits. Any of them could instead accept an earlier player's proposal or bid a different contract (but not Solo).
+- Dans cet exemple, Est, Sud et Nord proposent tous des couleurs différentes. N'importe lequel pourrait aussi accepter la proposition d'un joueur antérieur ou enchérir un contrat différent (mais pas un Solo).
 
-- North accepts West's proposal of Hearts, forming a partnership. From now on West and North can only bid Hearts, and it will be North's responsibility to decide whether to raise if necessary. Other options for North at this point would have been to accept Clubs or Spades, to propose Diamonds again, to bid a Solo in Diamonds since to one accepted the first proposal, or to bid a negative contract (a Misère or Piccolo) or to pass. It is now too late for anyone to bid Abondance or Slam.
+- Nord accepte la proposition de Cœurs d'Ouest, formant un partenariat. À partir de maintenant, Ouest et Nord ne peuvent enchérir que les Cœurs, et ce sera la responsabilité de Nord de décider s'il faut surenchérir si nécessaire. Les autres options de Nord à ce stade auraient été d'accepter les Trèfles ou les Piques, de proposer les Carreaux à nouveau, d'enchérir un Solo en Carreaux puisque personne n'a accepté la première proposition, ou d'enchérir un contrat négatif (une Misère ou un Piccolo) ou de passer. Il est maintenant trop tard pour que quiconque enchérisse un Abondance ou un Chelem.
 
-- East accepts South's proposal of Spades, forming a partnership. Since all the players are now committed, East initiates stage 3 of the bidding by bidding 9 Spades, the minimum needed since North-West are already committed to 8 Hearts (the lowest possible acceptance) and Spades is a lower ranking suit than Hearts. 
+- Est accepte la proposition de Piques de Sud, formant un partenariat. Comme tous les joueurs sont maintenant engagés, Est initie l'étape 3 des enchères en enchérissant 9 Piques, le minimum nécessaire puisque Nord-Ouest sont déjà engagés à 8 Cœurs (l'acceptation la plus basse possible) et les Piques sont une couleur de rang inférieur aux Cœurs.
 
-- South and West are now skipped, since it is the acceptors North and East who are responsible for deciding whether to raise.
+- Sud et Ouest sont maintenant sautés, puisque ce sont les accepteurs Nord et Est qui sont responsables de décider s'il faut surenchérir.
 
-- North's only options here are to raise to 9 Hearts or to pass. North decides to raise.
+- Les seules options de Nord ici sont de surenchérir à 9 Cœurs ou de passer. Nord décide de surenchérir.
 
-- East is unwilling to raise to 10 Spades so passes. This breaks the South-East partnership.
+- Est n'est pas disposé à surenchérir à 10 Piques et passe. Cela brise le partenariat Sud-Est.
 
-- South is still bound to Spades and is now allowed to bid a Solo because the Spade partnership is broken. 6 Spades is the minimum Solo needed to overcall 9 Hearts. East, having passed, is out of the auction, and it is a competition between South playing alone and North on behalf of the North-West team.
+- Sud est toujours lié aux Piques et est maintenant autorisé à enchérir un Solo car le partenariat de Piques est brisé. 6 Piques est le Solo minimum nécessaire pour surenchérir 9 Cœurs. Est, ayant passé, est hors de l'enchère, et c'est une compétition entre Sud jouant seul et Nord au nom de l'équipe Nord-Ouest.
 
-- North decides that 11 Hearts would be too high and passes. Another option at this point would be to say '*pass parôle*', preserving the partnership and giving West the responsibility of deciding whether they are strong enough to take 11 tricks.
+- Nord décide que 11 Cœurs serait trop élevé et passe. Une autre option à ce stade serait de dire « *pass parôle* », préservant le partenariat et donnant à Ouest la responsabilité de décider s'ils sont assez forts pour prendre 11 levées.
 
-- West must now decide whether to pass or take on a Heart contract alone, and decides to bid Solo 7 Hearts.
+- Ouest doit maintenant décider de passer ou d'assumer un contrat de Cœurs seul, et décide d'enchérir un Solo 7 Cœurs.
 
-- South is not strong enough for Solo 8 spades and passes. This ends the auction and establishes West as the declarer, playing alone to take 7 tricks in Hearts, since everyone else has passed.
+- Sud n'est pas assez fort pour un Solo 8 Piques et passe. Cela termine l'enchère et établit Ouest comme le déclarant, jouant seul pour prendre 7 levées en Cœurs, puisque tout le monde a passé.
 
-**Example 2**
+**Exemple 2**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Spades | Spades [a] | Clubs | Diamonds |
-| - [b] | - [b] | Hearts [c] | Diamonds [d] |
-| - | - | Clubs [e] | Solo 5 Diamonds [f] |
-| - | - | Solo 6 Clubs [g] | Pass [h] |
-| - [i] | 10 Spades [i] | Pass [j] |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Piques | Piques [a] | Trèfles | Carreaux |
+| - [b] | - [b] | Cœurs [c] | Carreaux [d] |
+| - | - | Trèfles [e] | Solo 5 Carreaux [f] |
+| - | - | Solo 6 Trèfles [g] | Passe [h] |
+| - [i] | 10 Piques [i] | Passe [j] |   |
 
-- East accepts Spades, forming a partnership with North. 
+- Est accepte les Piques, formant un partenariat avec Nord.
 
-- North and East now wait for the other two players to decide what contract if any they want to play before bidding again. If both South and West pass, there will be no stage 3 and North and East will play a contract of 8 Spades.
+- Nord et Est attendent maintenant que les deux autres joueurs décident du contrat qu'ils veulent jouer avant d'enchérir à nouveau. Si Sud et Ouest passent tous les deux, il n'y aura pas d'étape 3 et Nord et Est joueront un contrat de 8 Piques.
 
-- South's options here were to propose Hearts, to propose Clubs again, to accept Diamonds, to bid a Solo 5 in Clubs, to bid a Misère or a Piccolo, or to pass.
+- Les options de Sud ici étaient de proposer les Cœurs, de proposer les Trèfles à nouveau, d'accepter les Carreaux, d'enchérir un Solo 5 en Trèfles, d'enchérir une Misère ou un Piccolo, ou de passer.
 
-- West has similar options and decides to propose Diamonds a second time.
+- Ouest a des options similaires et décide de proposer les Carreaux une seconde fois.
 
-- South has the same options as before and makes a second proposal of Clubs.
+- Sud a les mêmes options qu'avant et fait une seconde proposition de Trèfles.
 
-- West evidently has no interest in trump suits other than Diamonds. Players are not allowed to propose a suit a third time so West now bids a Solo.
+- Ouest n'a manifestement pas d'intérêt pour les couleurs d'atout autres que les Carreaux. Les joueurs ne sont pas autorisés à proposer une couleur une troisième fois, donc Ouest enchérit maintenant un Solo.
 
-- South now has no potential partner, so can only pass or play alone, either a Solo in Clubs or Hearts or a negative contract. The Solo in Clubs has to be for 6 tricks since clubs rank lower than Diamonds, and stage 3 of the auction has now begun. 
+- Sud n'a plus de partenaire potentiel, donc il ne peut que passer ou jouer seul, soit un Solo en Trèfles ou en Cœurs, soit un contrat négatif. Le Solo en Trèfles doit être pour 6 levées puisque les Trèfles ont un rang inférieur aux Carreaux, et l'étape 3 de l'enchère a maintenant commencé.
 
-- West must raise to Solo 6 Diamonds or pass, and chooses to pass.
+- Ouest doit surenchérir à un Solo 6 Carreaux ou passer, et choisit de passer.
 
-- Now South and West's positions are clarified, the North/East team must decide whether to raise their bid. East as the acceptor has to make this decision without consultation and chooses to bid 10 Spades, the minimum needed to overcall a Solo 6.
+- Les positions de Sud et Ouest sont maintenant clarifiées, l'équipe Nord/Est doit décider si elle surenchérit. Est, en tant qu'accepteur, doit prendre cette décision sans consultation et choisit d'enchérir 10 Piques, le minimum nécessaire pour surenchérir un Solo 6.
 
-- South's pass ends the auction, and the final contract is 10 Spades, played by North and East in partnership.
+- Le passe de Sud termine l'enchère, et le contrat final est 10 Piques, joué par Nord et Est en partenariat.
 
-**Example 3**
+**Exemple 3**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Spades | Pass | Spades | Solo 5 Diamonds [a] |
-| - [b] | - | 9 Spades [b] | Solo 6 Diamonds |
-| - | - | Pass [c] | - |
-| Pass [d] |   |   |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Piques | Passe | Piques | Solo 5 Carreaux [a] |
+| - [b] | - | 9 Piques [b] | Solo 6 Carreaux |
+| - | - | Passe [c] | - |
+| Passe [d] |   |   |   |
 
-- This is a case in which a player can bid Solo in the first round of stage 2 of the auction, because there is no player that would be allowed to accept any suit proposed by West.
+- C'est un cas où un joueur peut enchérir un Solo au premier tour de l'étape 2 des enchères, car il n'y a pas de joueur qui serait autorisé à accepter une proposition de couleur d'Ouest.
 
-- We are now in stage 3 and South as the acceptor is responsible for raising on behalf of North-South.
+- Nous sommes maintenant à l'étape 3 et Sud, en tant qu'accepteur, est responsable de surenchérir au nom de Nord-Sud.
 
-- South is unwilling to bid 10 Spades so passes, breaking the partnership.
+- Sud n'est pas disposé à enchérir 10 Piques et passe, brisant le partenariat.
 
-- North would need to bid Solo 7 Spades to stay in the auction, Spades being lower than Diamonds, but decides to pass, leaving West as the declarer.
+- Nord aurait besoin d'enchérir un Solo 7 Piques pour rester dans l'enchère, les Piques étant de rang inférieur aux Carreaux, mais décide de passer, laissant Ouest comme déclarant.
 
-**Example 4**
+**Exemple 4**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | Troel [a] | - |
-| - | with me [a] | - | - |
-| Pass | Pass | Pass | Pass |
-| - | 9 Clubs [b] | - | - |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Troel [a] | - |
+| - | avec moi [a] | - | - |
+| Passe | Passe | Passe | Passe |
+| - | 9 Trèfles [b] | - | - |
 
-- These announcements are obligatory since South has three Aces and East has the fourth.
+- Ces annonces sont obligatoires puisque Sud a trois As et Est a le quatrième.
 
-- Since no one bid over the Troel, East could now lead her Ace, establishing that suit as trumps and contracting to take at least 8 tricks with South as partner. However in this case East's Ace is in a short suit, and having long Clubs, East prefers to switch the trumps to Clubs and contract for 9 tricks. South must now lead the Ace of Clubs, and we do not yet know which Ace East holds.
+- Comme personne n'a surenchéri le Troel, Est pourrait maintenant mener son As, établissant cette couleur comme atout et s'engageant à prendre au moins 8 levées avec Sud comme partenaire. Cependant, dans ce cas, l'As d'Est est dans une couleur courte, et ayant de longs Trèfles, Est préfère changer l'atout pour les Trèfles et s'engager pour 9 levées. Sud doit maintenant mener l'As de Trèfles, et nous ne savons pas encore quel As détient Est.
 
-**Example 5**
+**Exemple 5**
 
-| North | East | South | West (dealer) |
-| No Troel | Troel with the 
-King of Hearts [a] | - | with me [a] |
-| Pass | Abondance 10 Spades [b] | Open Misère | Pass |
-| - | Pass [c] |   |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Troel avec le 
+Roi de Cœurs [a] | - | avec moi [a] |
+| Passe | Abondance 10 Piques [b] | Misère ouverte | Passe |
+| - | Passe [c] |   |   |
 
-- Here East has all the Aces, so calls the King of Hearts, which is held by East.
+- Ici Est a tous les As, donc appelle le Roi de Cœurs, qui est détenu par Ouest.
 
-- East has strong Spades and decides not to share the profit, but to play alone for 10 tricks.
+- Est a de forts Piques et décide de ne pas partager le profit, mais de jouer seul pour 10 levées.
 
-- East would have needed to bid Abondance 12 to beat the Open Misère, and decides to pass
+- Est aurait dû enchérir un Abondance 12 pour battre la Misère ouverte, et décide de passer.
 
-**Example 6**
+**Exemple 6**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Diamonds | Clubs | Hearts | Hearts |
-| Spades | Diamonds [a] | - | - |
-| 9 Diamonds [b] | - | - | 9 Hearts |
-| 10 Diamonds | - | - | Pass [c] |
-| - | - | Pass [c] |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Carreaux | Trèfles | Cœurs | Cœurs |
+| Piques | Carreaux [a] | - | - |
+| 9 Carreaux [b] | - | - | 9 Cœurs |
+| 10 Carreaux | - | - | Passe [c] |
+| - | - | Passe [c] |   |
 
-- It is legal to propose a suit that has previously been proposed by another player after that first proposal has expired. 
+- Il est légal de proposer une couleur qui a été précédemment proposée par un autre joueur après que cette première proposition a expiré.
 
-- Since South and West are already committed to 8 Hearts, North's Diamond acceptance needs to be at the level of 9 to overcall the Heart partnership. By means of this sequence North and East have found out not only that they have a Diamond fit, but also that East has good Clubs and North has good Spades. This information should help them in the play of the cards.
+- Comme Sud et Ouest sont déjà engagés à 8 Cœurs, l'acceptation de Carreaux de Nord doit être au niveau de 9 pour surenchérir le partenariat de Cœurs. Par cette séquence, Nord et Est ont découvert non seulement qu'ils ont un fit Carreaux, mais aussi qu'Est a de bons Trèfles et Nord a de bons Piques. Cette information devrait les aider lors du jeu.
 
-- West is not strong enough for 10 Hearts and South does not want to contract for 7 tricks alone.
+- Ouest n'est pas assez fort pour 10 Cœurs et Sud ne veut pas s'engager pour 7 levées seul.
 
-**Example 7**
+**Exemple 7**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Clubs | Hearts | Clubs | Hearts [a] |
-| - | - | 9 Clubs | 9 Hearts |
-| - | - | 10 Clubs | 10 Hearts |
-| - | - | Pass Parôle [b] | - |
-| Pass [c] | - | Solo 7 Clubs [d] | Pass |
-| - | Pass |   |   |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Trèfles | Cœurs | Trèfles | Cœurs [a] |
+| - | - | 9 Trèfles | 9 Cœurs |
+| - | - | 10 Trèfles | 10 Cœurs |
+| - | - | Passe Parôle [b] | - |
+| Passe [c] | - | Solo 7 Trèfles [d] | Passe |
+| - | Passe |   |   |
 
-- Since Hearts is a higher suit than Clubs, the minimum Heart bid of 8 tricks is sufficient at this point.
+- Comme les Cœurs sont une couleur de rang supérieur aux Trèfles, l'enchère minimale de Cœurs de 8 levées suffit à ce stade.
 
-- South is quite strong in Clubs but is unsure whether North's hand is good enough for an 11-trick contract so passes the option to North.
+- Sud est assez fort en Trèfles mais n'est pas sûr que la main de Nord soit assez bonne pour un contrat de 11 levées, donc il passe l'option à Nord.
 
-- North's only options here are to bid 11 Clubs or pass.
+- Les seules options de Nord ici sont d'enchérir 11 Trèfles ou de passer.
 
-- South is still bound to Clubs, but now that North has broken the partnership, South is allowed to bid Solo.
+- Sud est toujours lié aux Trèfles, mais maintenant que Nord a brisé le partenariat, Sud est autorisé à enchérir un Solo.
 
-**Example 8**
+**Exemple 8**
 
-| North | East | South | West (dealer) |
-| No Troel | No Troel | No Troel | No Troel |
-| Wait | Small Misère | Spades [a] | Clubs [a] |
-| Pass [b] | - | Small Misère [c] | Pass [d] |
+| Nord | Est | Sud | Ouest (donneur) |
+| Pas de Troel | Pas de Troel | Pas de Troel | Pas de Troel |
+| Attendre | Petite misère | Piques [a] | Trèfles [a] |
+| Passe [b] | - | Petite misère [c] | Passe [d] |
 
-- South and West are boldly proposing 12-trick contracts here, since that is what would be needed to overcall East's Small Misère.
+- Sud et Ouest enchérissent audacieusement des contrats à 12 levées ici, car c'est ce qui serait nécessaire pour surenchérir la Petite misère d'Est.
 
-- North's only alternatives here are to pass or to accept a 12-trick contract in one of the black suits. It is not possible to join a Misère after saying 'wait'.
+- Les seules alternatives de Nord ici sont de passer ou d'accepter un contrat de 12 levées dans une des couleurs noires. Il n'est pas possible de rejoindre une Misère après avoir dit « attendre ».
 
-- South's options are (theoretically) to propose a 12-trick red suit contract, to accept 12 Clubs, to propose Spades again, to bid Solo 8 Spades, to bid a negative contract or to pass. South decides to bid Small Misère.
+- Les options de Sud sont (théoriquement) de proposer un contrat à 12 levées en couleur rouge, d'accepter 12 Trèfles, de proposer les Piques à nouveau, d'enchérir un Solo 8 Piques, d'enchérir un contrat négatif ou de passer. Sud décide d'enchérir une Petite misère.
 
-- At this point West, who no longer has any potential partner (all proposals having expired), could bid Solo 8 in any suit or a negative contract or pass. The pass ends the auction since East and South have bid equal negative contracts. There are two declarers, each independently trying to lose all 12 tricks after everyone has discarded a card.
+- À ce stade, Ouest, qui n'a plus de partenaire potentiel (toutes les propositions ayant expiré), pourrait enchérir un Solo 8 dans n'importe quelle couleur ou un contrat négatif ou passer. Le passe termine l'enchère puisque Est et Sud ont enchéri des contrats négatifs égaux. Il y a deux déclarants, chacun essayant indépendamment de perdre toutes les 12 levées après que chacun a défaussé une carte.
 
-## Variations
+## Variantes
 
-There are numerous variants of this game, especially in the bidding process, the contracts allowed and how they are ranked and scored. Some of the differences are regional but the game also varies within region from group to group of players. It is therefore necessary to agree the contract list and scoring before any session with unfamiliar players.
+Il existe de nombreuses variantes de ce jeu, en particulier dans le processus d'enchères, les contrats autorisés et la façon dont ils sont classés et marqués. Certaines différences sont régionales mais le jeu varie aussi au sein d'une région d'un groupe de joueurs à l'autre. Il est donc nécessaire de se mettre d'accord sur la liste des contrats et le marquage avant toute session avec des joueurs inconnus.
 
-### Shuffle and Deal
+### Mélange et distribution
 
-Normally the cards are not shuffled between deals, only gathered up and cut, but there are some groups that shuffle the pack before every deal. This tends to produce a more even distribution of cards, so that the higher contracts occur less frequently.
+Normalement, les cartes ne sont pas mélangées entre les donnes, seulement rassemblées et coupées, mais certains groupes mélangent le jeu avant chaque donne. Cela tend à produire une distribution plus équilibrée, de sorte que les contrats élevés surviennent moins fréquemment.
 
-There are various ways to deal, but most people deal in packets of 4 and 5 cards. Usually the deal begins with a packet of 4 cards each. It seems that the 4-5-4 deal is more common in the Flemish part of Belgium and 4-4-5 in the French part.
+Il existe différentes façons de distribuer, mais la plupart distribuent par paquets de 4 et 5 cartes. La distribution commence généralement par un paquet de 4 cartes à chacun. Il semble que la distribution 4-5-4 soit plus courante dans la partie flamande de la Belgique et 4-4-5 dans la partie française.
 
-### Contracts
+### Contrats
 
-Many players do not allow the lowest Solo contract for just 5 tricks, considering it too easy, so Solo can only be bid for 6, 7 or 8 tricks. There is in any case a custom only to accept a proposal if willing to raise the contract to at least 9 tricks, so a Solo 5 will normally be overcalled.
+Beaucoup de joueurs n'autorisent pas le contrat de Solo le plus bas pour seulement 5 levées, le considérant trop facile, donc le Solo ne peut être enchéri que pour 6, 7 ou 8 levées. Il y a de toute façon une coutume de n'accepter une proposition que si l'on est prêt à surenchérir le contrat à au moins 9 levées, donc un Solo 5 sera normalement surenchéri.
 
-Many players do not allow the Piccolo contract.
+Beaucoup de joueurs n'autorisent pas le contrat de Piccolo.
 
-There are several variants concerning the Troel contract.
+Il existe plusieurs variantes concernant le contrat de Troel.
 
-- In some places, particularly in the French part of Belgium, 9 tricks are required for a Troel contract to succeed, irrespective of what trump suit is chosen.
+- Dans certains endroits, particulièrement dans la partie française de la Belgique, 9 levées sont requises pour qu'un contrat de Troel réussisse, indépendamment de la couleur d'atout choisie.
 
-- Some players do not recognise the Troel bid at all, considering it too easy to make.
+- Certains joueurs ne reconnaissent pas du tout l'enchère de Troel, la considérant trop facile à réussir.
 
-- In some places Troel is only bid with exactly three Aces. A player with four Aces is not allowed to bid Troel.
+- Dans certains endroits, le Troel n'est enchéri qu'avec exactement trois As. Un joueur avec quatre As n'est pas autorisé à enchérir un Troel.
 
-- Some Flemish players play that if you bid Troel with all four Aces and the ![heart](../images/internat/heart.gif)K, you must call the king of the highest ranked suit where you don't have the king - i.e. the ![diamond](../images/internat/diamond.gif)K unless you have that as well, in which case you call the ![club](../images/internat/club.gif)K, and so on.
+- Certains joueurs flamands jouent que si vous enchérissez un Troel avec les quatre As et le ![cœur](../images/internat/heart.gif)R, vous devez appeler le roi de la couleur de rang le plus élevé où vous n'avez pas le roi — c'est-à-dire le ![carreau](../images/internat/diamond.gif)R à moins que vous l'ayez aussi, auquel cas vous appelez le ![trèfle](../images/internat/club.gif)R, et ainsi de suite.
 
-In some versions there is a Small Slam (Petit Chelem) contract for 12 tricks and a Grand Slam (Grand Chelem) for 13 tricks. If Small Slams are allowed, any Grand Slam bid outranks any Small Slam and the maximum Abondance bid is for 11 tricks. 
+Dans certaines versions, il existe un contrat de Petit Chelem pour 12 levées et un Grand Chelem pour 13 levées. Si les Petits Chelems sont autorisés, tout enchère de Grand Chelem surpasse tout Petit Chelem et l'enchère maximale d'Abondance est pour 11 levées.
 
-Some versions allow an additional bid of Open Slim - a Slam in which the bidder's hand is spread face up on the table after the first trick - which outranks any ordinary Grand Slam.
+Certaines versions autorisent une enchère supplémentaire de Slim ouvert — un Chelem dans lequel la main de l'enchérisseur est étalée face visible sur la table après la première levée — qui surpasse tout Grand Chelem ordinaire.
 
-Gerver's *Guide Marabout de Guide Marabout de Tous les Jeux de Cartes* allows several additional contracts: 
+Le *Guide Marabout de Tous les Jeux de Cartes* de Gerver autorise plusieurs contrats supplémentaires :
 
-- Piccolissimo: a contract to win exactly two tricks
+- Piccolissimo : un contrat pour gagner exactement deux levées
 
-- Abondance sur Table: an Abondance in which the declarer's hand is exposed after the first trick
+- Abondance sur Table : un Abondance dans lequel la main du déclarant est exposée après la première levée
 
-- Chelem sur Table: a Small or Grand Slam with exposed cards.
+- Chelem sur Table : un Petit ou Grand Chelem avec cartes exposées.
 
-### Bidding Process
+### Processus d'enchères
 
-Some do not allow a player to propose the same suit more than once, while others allow it to be proposed up to three times. In some groups a player who has proposed a suit more than once is not allowed to convert to a Solo in this suit. 
+Certains n'autorisent pas un joueur à proposer la même couleur plus d'une fois, tandis que d'autres l'autorisent jusqu'à trois fois. Dans certains groupes, un joueur qui a proposé une couleur plus d'une fois n'est pas autorisé à convertir en un Solo dans cette couleur.
 
-There are many alternative versions of the binding rules. For example, some play that when a suit has been proposed and accepted, the players in that partnership are not completely bound to that suit. Some allow the proposer to change to a negative contract, Misère or Piccolo, if the partnership is broken. Also some allow a player who has begun by bidding an Abondance to change to a Misère if overcalled.
+Il existe de nombreuses versions alternatives des règles de liaison. Par exemple, certains jouent que lorsqu'une couleur a été proposée et acceptée, les joueurs de ce partenariat ne sont pas complètement liés à cette couleur. Certains permettent au proposant de changer pour un contrat négatif, Misère ou Piccolo, si le partenariat est brisé. Certains permettent aussi à un joueur qui a commencé par enchérir un Abondance de changer pour une Misère s'il est surenchéri.
 
-Some groups do not allow the passe parôle option. Only the acceptor can increase a partnership bid.
+Certains groupes n'autorisent pas l'option de passe parôle. Seul l'accepteur peut augmenter une enchère de partenariat.
 
-Different groups of players have slightly different ranking orders of the contracts; for each local version of the game there is a scoring table that shows the ranking order of the bids. 
+Différents groupes de joueurs ont des ordres de classement des contrats légèrement différents ; pour chaque version locale du jeu, il existe une table de marquage qui montre l'ordre de classement des enchères.
 
-Some play that if three players bid Small Misère, the fourth player is also forced to play Small Misère.
+Certains jouent que si trois joueurs enchérissent une Petite misère, le quatrième joueur est aussi forcé de jouer une Petite misère.
 
-Some play that after a Piccolo or Misère has been bid it is no longer possible to propose a new trump suit. It is however still possible to accept a suit previously proposed by another player provided that the acceptor contracts for enough tricks to outrank the previous highest bid.
+Certains jouent qu'après un Piccolo ou une Misère a été enchéri, il n'est plus possible de proposer une nouvelle couleur d'atout. Il est cependant toujours possible d'accepter une couleur précédemment proposée par un autre joueur, à condition que l'accepteur s'engage pour assez de levées pour dépasser l'enchère la plus élevée précédente.
 
-### Play
+### Jeu
 
-Some play that in a Troel contract the partner of the bidder always leads to the first trick, irrespective of the trump suit chosen, and is allowed to lead any card, not necessarily a trump.
+Certains jouent que dans un contrat de Troel, le partenaire de l'enchérisseur entame toujours la première levée, indépendamment de la couleur d'atout choisie, et est autorisé à mener n'importe quelle carte, pas nécessairement un atout.
 
-### Scoring
+### Marquage
 
-Some use a similar scoring table to the one given above, but omitting Solo 5 and Piccolo and awarding 26 points rather than 30 for a partnership game (acceptance or Troel) in which the bidding team wins all the tricks. 
+Certains utilisent une table de marquage similaire à celle donnée ci-dessus, mais omettent le Solo 5 et le Piccolo et accordent 26 points plutôt que 30 pour un jeu de partenariat (acceptation ou Troel) dans lequel l'équipe d'enchérisseur gagne toutes les levées.
 
-Some score for overtricks in Abondance in a similar way to Solo. In this case a player scores for the number of tricks that they actually won, up to a maximum of 12. For example a player who bids Abondance 9 and wins 11 tricks is paid 20 points by each opponent rather than just 10. There is still no extra score for the 13th trick: winning all the tricks is worth 30 points, the same as 12 tricks. The basic version of the online Whisthub game uses this scoring system.
+Certains marquent les levées excédentaires en Abondance de manière similaire au Solo. Dans ce cas, un joueur marque pour le nombre de levées effectivement gagnées, jusqu'à un maximum de 12. Par exemple, un joueur qui enchérit un Abondance 9 et gagne 11 levées est payé 20 points par chaque adversaire plutôt que juste 10. Il n'y a toujours pas de score supplémentaire pour la 13e levée : gagner toutes les levées vaut 30 points, le même que 12 levées. La version de base du jeu en ligne Whisthub utilise ce système de marquage.
 
-### Flemish Scoring
+### Marquage flamand
 
-In Flanders, some play that any bid of Solo has equivalent rank to a Proposal and Acceptance for 3 tricks more. Between bids of equivalent level, the rank of the suit decides which is higher. So for example a Solo 5 Clubs is lower than Accept 8 Diamonds, which is lower than Solo 8 Hearts. Here is a possible scoring schedule. When two play against two, each member of the losing side pays one of the winners the given amount. When one plays against three, the lone player pays the given amount to or receives it from each opponent.
+En Flandre, certains jouent que toute enchère de Solo a un rang équivalent à une Acceptation pour 3 levées de plus. Entre les enchères de niveau équivalent, le rang de la couleur détermine qui est le plus élevé. Ainsi, par exemple, un Solo 5 Trèfles est inférieur à Accepter 8 Carreaux, qui est inférieur à un Solo 8 Cœurs. Voici une table de marquage possible. Lorsque deux jouent contre deux, chaque membre du côté perdant paie le montant indiqué à l'un des gagnants. Lorsqu'un joueur joue contre trois, le joueur seul paie le montant indiqué à ou le reçoit de chaque adversaire.
 
-| Contract | Score for contract | Overtricks or undertricks |
-| 5 tricks alone or 8 tricks with partner | 2 points | 1 point each |
-| 6 tricks alone or 9 tricks with partner | 2 points | 1 point each |
-| 7 tricks alone or 10 tricks with partner | 2 points | 1 point each |
-| 8 tricks alone or 11 tricks with partner | 2 points | 1 point each |
-| 12 tricks with partner | 2 points | 1 point each |
-| 13 tricks with partner | 2 points | 1 point each |
+| Contrat | Score du contrat | Levées excédentaires ou manquantes |
+| 5 levées seul ou 8 levées avec partenaire | 2 points | 1 point chacune |
+| 6 levées seul ou 9 levées avec partenaire | 2 points | 1 point chacune |
+| 7 levées seul ou 10 levées avec partenaire | 2 points | 1 point chacune |
+| 8 levées seul ou 11 levées avec partenaire | 2 points | 1 point chacune |
+| 12 levées avec partenaire | 2 points | 1 point chacune |
+| 13 levées avec partenaire | 2 points | 1 point chacune |
 | Abondance | 3 points | --- |
-| Miserie | 5 points | --- |
-| Troel | 4 points | 2 points each |
-| Open Miserie | 10 points | --- |
-| Slam | 20 points | --- |
+| Misère | 5 points | --- |
+| Troel | 4 points | 2 points chacune |
+| Misère ouverte | 10 points | --- |
+| Chelem | 20 points | --- |
 
-Note that when an ordinary game (5-8 tricks alone or 8-13 tricks with partner) is lost, the payment is at least 3 points, because there is always at least one undertrick. 
+Notez que lorsqu'un jeu ordinaire (5-8 levées seul ou 8-13 levées avec partenaire) est perdu, le paiement est d'au moins 3 points, car il y a toujours au moins une levée manquante.
 
-There are several circumstances that can cause the score to be "doubled". When more than one of these applies, it is usual not to keep doubling the score but to increase it more gently as follows: ×2 for one double; ×3 for two doubles; ×4 for three doubles; etc.
+Plusieurs circonstances peuvent faire que le score soit « doublé ». Lorsque plus d'une s'applique, il est d'usage de ne pas continuer à doubler mais d'augmenter plus doucement comme suit : ×2 pour un double ; ×3 pour deux doubles ; ×4 pour trois doubles ; etc.
 
-The score is 'doubled' if a team wins all 13 tricks in an ordinary game (8-13 tricks with a partner or 5-8 tricks alone).
+Le score est « doublé » si une équipe gagne les 13 levées dans un jeu ordinaire (8-13 levées avec un partenaire ou 5-8 levées seul).
 
-An opponent of the final bidder who thinks that the bid will fail can announce "double", to apply a double to the score. Only one double can be added this way.
+Un adversaire du dernier enchérisseur qui pense que l'enchère échouera peut annoncer « double », pour appliquer un double au score. Un seul double peut être ajouté ainsi.
 
-If everyone passes - either initially or after no one accepts their proposal - so that no game can be played, the score for the next deal is doubled.
+Si tout le monde passe — soit au départ, soit après que personne n'a accepté sa proposition — de sorte qu'aucun jeu ne peut être joué, le score de la donne suivante est doublé.
 
-The score for Troel is double the score for an ordinary game. This doubled score is already shown in the scoring table above, but it counts as a double in the sense that the next double will increase the score only to 6 for the contract and 3 for each over- or undertrick. For example if the troel team wins 13 tricks the score for the contract and 4 overtricks has a multiple of 3 for two doubles applied: (2 + 4) * 3 = 18.
+Le score du Troel est le double du score d'un jeu ordinaire. Ce score doublé est déjà indiqué dans la table de marquage ci-dessus, mais il compte comme un double dans le sens où le prochain double n'augmentera le score qu'à 6 pour le contrat et 3 pour chaque levée excédentaire ou manquante. Par exemple, si l'équipe du Troel gagne 13 levées, le score du contrat et des 4 levées excédentaires a un facteur de 3 pour deux doubles appliqué : (2 + 4) × 3 = 18.
 
-#### IWWA scoring
+#### Marquage IWWA
 
-The International World Whist Association publishes a [scoring schedule](https://www.whistiwwa.com/fr/_files/ugd/d0d088_cba3783ea3ff44e6a4b7856c1c63ab75.pdf) used for tournaments in which the positive and negative scores do not balance. The tables therefore show separately the amount won or lost by members of the bidding team and amount lost or won by their opponents, depending on the number of tricks bid and won. This system is clearly not suitable when the game is played for stakes.
+L'Association mondiale de Whist internationale publie un [barème de marquage](https://www.whistiwwa.com/fr/_files/ugd/d0d088_cba3783ea3ff44e6a4b7856c1c63ab75.pdf) utilisé pour les tournois dans lequel les scores positifs et négatifs ne s'équilibrent pas. Les tables montrent donc séparément le montant gagné ou perdu par les membres de l'équipe d'enchérisseur et le montant perdu ou gagné par leurs adversaires, selon le nombre de levées enchéries et gagnées. Ce système n'est clairement pas adapté lorsque le jeu est joué pour des enjeux.
 
-## Other Kleurenwiezen / Whist à la Couleur Web Sites
+## Autres sites web sur le Kleurenwiezen / Whist à la Couleur
 
-Another version of [Whist à la Couleur](https://web.archive.org/web/20250114142821/https://www.jeuxdecartes.net/jeux-cartes/whist-a-la-couleur/) (archive copy) was described on Jean-François Bustarret's Jeux de Cartes site. 
+Une autre version du [Whist à la Couleur](https://web.archive.org/web/20250114142821/https://www.jeuxdecartes.net/jeux-cartes/whist-a-la-couleur/) (archive) a été décrite sur le site Jeux de Cartes de Jean-François Bustarret.
 
-The [International World Whist Association](https://www.whistiwwa.com/) promotes Kleurenwiezen and also Wiezen, Rikken and Manillen, providing information and organising tournaments.
+L'[Association mondiale de Whist internationale](https://www.whistiwwa.com/) promeut le Kleurenwiezen ainsi que le Wiezen, le Rikken et le Manillen, fournissant des informations et organisant des tournois.
 
-At Sebastiaan Marynissen's [Whisthub](https://www.whisthub.com/) you can play Kleurenwiezen online against live or AI opponents.
+Sur le [Whisthub](https://www.whisthub.com/) de Sebastiaan Marynissen, vous pouvez jouer au Kleurenwiezen en ligne contre des adversaires humains ou IA.
 
-[Dafke's Guide to Kleurenwiezen](https://web.archive.org/web/20200716100122/http://users.belgacom.net/megascore/kleurenwiezen.htm) (archive copy) gives rules for another version of the game in Flemish.
+Le [Guide de Dafke pour le Kleurenwiezen](https://web.archive.org/web/20200716100122/http://users.belgacom.net/megascore/kleurenwiezen.htm) (archive) donne les règles d'une autre version du jeu en flamand.
 
-The page Whist, en meerbepaald kleurenwies... on the Pont Neuf site, giving rules in Flemish, has unfortunately disappeared, but here is an [archive copy](https://web.archive.org/web/20040605044640/http://users.pandora.be/main/bridge/whist.html).
-
-Home Page > Classified Index > Trick Taking Games > Boston group > Kleurenwiezen
+La page Whist, en meerbepaald kleurenwies... sur le site Pont Neuf, donnant les règles en flamand, a malheureusement disparu, mais voici une [archive](https://web.archive.org/web/20040605044640/http://users.pandora.be/main/bridge/whist.html).

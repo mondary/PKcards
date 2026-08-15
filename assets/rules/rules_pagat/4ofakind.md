@@ -2,51 +2,48 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A card game with poker-like betting in which cards are dealt face up and the winners are the players who collect most and fewest matching cards.
+**But :** Un jeu de cartes avec des mises de type poker dans lequel les cartes sont distribuées faces visibles et les gagnants sont les joueurs qui collectent le plus et le moins de cartes correspondantes.
 
 ---
 
-Contributed by William Moore of NY state, who says that it was "introduced" in a "family poker night" in the late-1950's (maybe '57 or '58), and became a rather popular addition to the games played. He taught to college friends in the late 1960's, but the regular Draw & Stud Poker games remained more popular with them.
+Contribué par William Moore de l'État de NY, qui indique que ce jeu a été « introduit » lors d'une « soirée poker familiale » à la fin des années 1950 (peut-être en 57 ou 58), et est devenu un ajout assez populaire aux jeux joués. Il l'a enseigné à des amis de l'université à la fin des années 1960, mais les parties régulières de Draw et Stud Poker sont restées plus populaires.
 
 ## Introduction
 
-This game is for four or more players (best for six to eight players), using a 52 cards pack (no jokers). Although it is not strictly a type of Poker, it is typically played as an option in "dealer's choice" poker.
+Ce jeu est pour quatre joueurs ou plus (idéal pour six à huit joueurs), avec un jeu de 52 cartes (sans jokers). Bien qu'il ne soit pas strictement un type de Poker, il est typiquement joué comme une option dans un poker « au choix du donneur ».
 
-Ace is always ranked high, above the king. The object is to collect 4 of a kind (four cards of the same rank) or to have the lowest hand when someone else achieves this. Each of these players wins half the pot.
+L'As est toujours classé au-dessus du Roi. Le but est de collecter un carré (quatre cartes de même rang) ou d'avoir la main la plus basse lorsqu'un autre joueur y parvient. Chacun de ces joueurs gagne la moitié du pot.
 
-## Initial deal and betting
+## Donne initiale et mises
 
-Each player places the agreed ante into the pot. The cards are shuffled and cut, and each player is dealt one card face up. These cards must all be of different ranks. If a player is dealt a card equal to one already held by another player, that duplicate card and all remaining cards are re-shuffled and another card is dealt to the remaining players, until each player is holding a different card.
+Chaque joueur place l'ante convenu dans le pot. Les cartes sont mélangées et coupées, et chaque joueur reçoit une carte face visible. Toutes ces cartes doivent être de rangs différents. Si un joueur reçoit une carte égale à celle déjà détenue par un autre joueur, cette carte en double et toutes les cartes restantes sont remélangées et une autre carte est distribuée aux joueurs restants, jusqu'à ce que chaque joueur ait une carte différente.
 
-When each player is holding a different card, first betting round begins. The player holding the highest 
-card begins and can "check" or "bet". If no one has bet yet, other players can check or bet. After a bet, players can either call or raise the bet or fold. The betting round continues until either everyone has checked, or the last bet or raise has been called by all players who have not folded.
+Lorsque chaque joueur a une carte différente, le premier tour de mise commence. Le joueur ayant la carte la plus haute commence et peut « checker » ou « miser ». Si personne n'a encore misé, les autres joueurs peuvent checker ou miser. Après une mise, les joueurs peuvent soit suivre, soit relancer, soit se coucher. Le tour de mise continue jusqu'à ce que tout le monde ait checké, ou que la dernière mise ou relance ait été suivie par tous les joueurs n'ayant pas passé.
 
-For those not familiar with this form of betting, which is the same as in poker:
+Pour ceux qui ne sont pas familiers avec cette forme de mise, qui est la même qu'au poker :
 
-- The ante is a fixed stake paid to the pot by all players before the deal.
+- L'ante est une mise fixe versée au pot par tous les joueurs avant la donne.
 
-- When you check, you let your current stake in the pot (which is already equal to all the other player's stakes) stand as it is.
+- Quand vous checkez, vous laissez votre mise actuelle dans le pot (déjà égale à celle des autres joueurs) telle quelle.
 
-- When you bet or raise, you add an extra stake to the pot. A minimum and maximum bet/raise should be agreed in advance.
+- Quand vous misez ou relancez, vous ajoutez une mise supplémentaire au pot. Une mise/relance minimum et maximum devrait être convenue à l'avance.
 
-- When you call, you put enough money into the pot to make your stake equal to the highest amount contributed by any other player.
+- Quand vous suivez, vous versez assez d'argent dans le pot pour égaliser la mise la plus élevée contribée par n'importe quel autre joueur.
 
-- When you fold, you drop out of the play for that deal, and abandon whatever money you have contributed to the pot.
+- Quand vous vous couchez, vous abandonnez la donne et perdez tout l'argent que vous avez versé au pot.
 
-The betting round ends as soon as the stakes of all players who have not folded are equal.
+Le tour de mise se termine dès que les mises de tous les joueurs n'ayant pas passé sont égales.
 
-In this game there is a limit of three raises per betting round. That is, after there has been a bet and three raises, no one can raise further. The only options then are to call or to fold.
+Dans ce jeu, il y a une limite de trois relances par tour de mise. C'est-à-dire qu'après une mise et trois relances, personne ne peut plus relancer. Les seules options restantes sont de suivre ou de se coucher.
 
-This is a family game, played for small stakes - for example a nickel (5 cents) ante and bets and raises of a nickel or a dime would be typical.
+C'est un jeu familial, joué pour de petites sommes — par exemple un ante de cinq centimes (nickel) avec des mises et relances de cinq ou dix centimes serait typique.
 
-## Continuation of play and winning
+## Suite du jeu et gain
 
-Then, play continues. The dealer turning cards from the top of the undealt deck, one at a time. If the turned card matches a card held by a player, the card is given to that player. Each time a player acquires an extra card, the highest hand begins a new round of betting, as above. If the card doesn't match anyone's card, it is discarded, and the next card from the top of the deck is turned.
+Ensuite, le jeu continue. Le donneur retourne les cartes du dessus du talon non distribué, une à la fois. Si la carte retournée correspond à une carte détenue par un joueur, elle est donnée à ce joueur. Chaque fois qu'un joueur acquiert une carte supplémentaire, la main la plus haute commence un nouveau tour de mise, comme ci-dessus. Si la carte ne correspond à la carte de personne, elle est écartée, et la carte suivante du dessus du talon est retournée.
 
-Play continues: turning the top card; giving it to the player who holds that / those cards, or discarding it and turning the next card. (Players who have folded are out of the game and do not receive any more cards.) There is a new betting round whenever a player "receives a card" equal to the card(s) they're holding).
+Le jeu continue : retourner la carte du dessus ; la donner au joueur qui détient cette/ces carte(s), ou l'écarter et retourner la suivante. (Les joueurs qui se sont couchés sont hors du jeu et ne reçoivent plus de cartes.) Il y a un nouveau tour de mise chaque fois qu'un joueur « reçoit une carte » égale à la/les carte(s) qu'il détient.
 
-The deal ends when a player has collected "Four of a Kind". At this point the High hand and Low Hand divide the pot as equally as possible between them (any odd amount going to the high player). The player holding the "Four of a Kind" will be high. The low hand is that of the active player holding fewest cards. In case of a tie the lower card(s) take the "low" half of a pot. For example the low hand may be the lowest single (un-paired) card, or the lowest "pair" if everyone has "matched a card" - maybe even the lowest "triple" if everyone has three matching cards. Remember that aces are always high.
+La donne se termine lorsqu'un joueur a collecté un « carré ». À ce moment, la main haute et la main basse divisent le pot aussi équitablement que possible (tout montant impair allant au joueur de la main haute). Le joueur détenant le « carré » sera la main haute. La main basse est celle du joueur actif détenant le moins de cartes. En cas d'égalité, la/les carte(s) la/les plus basse(s) prennent la « basse » moitié du pot. Par exemple, la main basse peut être la plus basse carte simple (non appariée), ou la plus basse « paire » si tout le monde a « apparié une carte » — voire même le plus bas « brelan » si tout le monde a trois cartes correspondantes. Les As sont toujours les plus hauts.
 
-Note: If you currently have the lowest hand you hope that another player will win quickly (while you can participate in the winnings, too). The only time you have a sure win is when you hold the lowest "Triple" when everyone has three matching cards. If you get a matching card you are high, and if another player matches you are low. The second lowest player hopes that the lower hand will "match" another card.
-
-Home Page > Poker > Variations > Non-Poker > Four of a Kind
+Note : Si vous avez actuellement la main la plus basse, vous espérez qu'un autre joueur gagnera rapidement (tout en pouvant participer aux gains). Le seul moment où vous avez une victoire assurée est lorsque vous détenez le « brelan » le plus bas alors que tout le monde a trois cartes correspondantes. Si vous recevez une carte correspondante, vous êtes la main haute, et si un autre joueur correspond, vous êtes la main basse. Le deuxième joueur le plus bas espère que la main plus basse « correspondra » à une autre carte.

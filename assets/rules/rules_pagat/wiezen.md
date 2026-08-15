@@ -3,140 +3,138 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Flemish form of Whist for four players, one against three or two against two, featuring contracts to win a number of tricks or to lose every trick.
+**But :** Une forme flamande du Whist pour quatre joueurs, un contre trois ou deux contre deux, avec des contrats pour gagner un certain nombre de levées ou pour perdre toutes les levées.
 
 ---
 
-This page is based on information from Peter Kinoo, Tom Tempelaere, Rodrigus Etienne and Tom Kochuyt, on games with Greet, Gusta and Brigit Paulussen in Ravels, near Turnhout in March 2004, and on information from Leo Dignef's thesis 'Speelkaarten en Kaartspelen in het Turnhoutse'.
+Cette page est basée sur des informations de Peter Kinoo, Tom Tempelaere, Rodrigus Etienne et Tom Kochuyt, sur des parties avec Greet, Gusta et Brigit Paulussen à Ravels, près de Turnhout en mars 2004, et sur des informations de la thèse de Leo Dignef « Speelkaarten en Kaartspelen in het Turnhoutse ».
 
 ## Introduction
 
-This page describes a form of Whist played in Belgium: Wiezen is the Flemish word for Whist. This is not the classic game of Whist which was fashionable throught Europe in the 19th century, but a version with bidding - a descendant of Boston Whist, somewhat similar to the British game of Solo Whist and the Dutch game Rikken. Another, more complex version of Belgian Whist, known as Kleurenwiezen in Flemish or Whist à la Couleur in French, is described on another page.
+Cette page décrit une forme de Whist jouée en Belgique : Wiezen est le mot flamand pour Whist. Il ne s'agit pas du Whist classique qui était à la mode dans toute l'Europe au XIXe siècle, mais d'une version avec enchères — un descendant du Boston Whist, quelque peu similaire au jeu britannique de Solo Whist et au jeu néerlandais Rikken. Une autre version plus complexe du Whist belge, connue sous le nom de Kleurenwiezen en flamand ou Whist à la Couleur en français, est décrite sur une autre page.
 
-## Players and Cards
+## Joueurs et Cartes
 
-Wiezen is plain trick game with bidding for four players, who each ultimately play for themselves, though in each deal they form temporary alliances: one against three or two against two. A standard 52-card pack is used, the cards in every suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. In Belgium the Aces, Kings, Queens and Jacks normally have the indices 1, R, D, V respectively.
+Wiezen est un jeu de levées avec enchères pour quatre joueurs, qui jouent chacun finalement pour soi-même, bien qu'ils forment des alliances temporaires à chaque donne : un contre trois ou deux contre deux. Un jeu standard de 52 cartes est utilisé, les cartes de chaque couleur se classant de la plus forte à la plus faible A-R-D-V-10-9-8-7-6-5-4-3-2. En Belgique, les As, Rois, Dames et Valets ont normalement les indices 1, R, D, V respectivement.
 
-## The Deal
+## La Donne
 
-The first dealer is chosen at random and the turn to deal passes to the left after each hand. The deal, bidding and play are clockwise. The cards are shuffled at the start of the session, but between deals they are not shuffled - they are only cut by the player to the dealer's right.
+Le premier donneur est choisi au hasard et le tour de donne passe à gauche après chaque main. La donne, les enchères et le jeu se font dans le sens horaire. Les cartes sont mélangées en début de session, mais entre les donnes elles ne sont pas mélangées — elles sont seulement coupées par le joueur à la droite du donneur.
 
-The dealer deals a packet of 4 cards to each player, then another packet of to 4 each, and finally a packet of 5 cards to each, so that everyone has 13 cards. The last card of the pack is turned face up for everyone to see. It shows the prospective trump suit. This exposed card is part of the dealer's hand and can be picked up by the dealer as soon as the bidding is over and the play begins.
+Le donneur distribue un paquet de 4 cartes à chaque joueur, puis un autre paquet de 4 à chacun, et enfin un paquet de 5 cartes à chacun, de sorte que chacun a 13 cartes. La dernière carte du jeu est retournée face visible pour que tout le monde la voie. Elle indique la couleur d'atout envisagée. Cette carte exposée fait partie de la main du donneur et peut être ramassée par le donneur dès que les enchères sont terminées et que le jeu commence.
 
-## The Bidding
+## Les Enchères
 
-The bidding begins with the player to dealer's left and continues clockwise round the table.
+Les enchères commencent avec le joueur à la gauche du donneur et se poursuivent dans le sens horaire autour de la table.
 
-The possible bids, in ascending order are as follows:
+Les enchères possibles, par ordre croissant, sont les suivantes :
 
-- Pass: No real bid is made, and the bidder is excluded from any further bidding.
+- Passe : Aucune enchère réelle n'est faite, et le joueur est exclu de toute enchère ultérieure.
 
-- Vraag (Proposal): By saying 'Ik vraag' ('I ask'), the bidder offers to win at least 8 tricks, playing in partnership with another player yet to be determined, using the suit of the turned up card as trump.
+- Vraag (Proposition) : En disant « Ik vraag » (« Je demande »), le joueur propose de gagner au moins 8 levées, en jouant en partenariat avec un autre joueur encore à déterminer, en utilisant la couleur de la carte retournée comme atout.
 
-- Meegaan (Acceptance): If a proposal has been made, another player can accept it by saying 'Ik ga mee' ('I go with'). If no one overcalls with a higher bid, the proposer and the player who accepted will play as partners against the other two players with the turned suit as trump and try to win at least 8 tricks.
+- Meegaan (Acceptation) : Si une proposition a été faite, un autre joueur peut l'accepter en disant « Ik ga mee » (« Je me joins »). Si personne ne surenchérit, le proposeur et le joueur qui a accepté joueront en partenaires contre les deux autres joueurs avec la couleur retournée comme atout et tenteront de gagner au moins 8 levées.
 
-- Solo: The bidder undertakes to win at least 5 tricks, playing alone, using the suit of the turned up card as trump.
+- Solo : Le joueur s'engage à gagner au moins 5 levées, en jouant seul, en utilisant la couleur de la carte retournée comme atout.
 
-- Kleine Miserie (Small Misery) (In most places this bid is not allowed.) Everyone discards one card face down, after which the bidder has to lose all 12 remaining tricks, with no trumps.
+- Kleine Miserie (Petite Misère) (Dans la plupart des endroits, cette enchère n'est pas autorisée.) Tout le monde se défausse d'une carte face cachée, après quoi le joueur doit perdre les 12 levées restantes, sans atout.
 
-- Pico (In many places this bid is not allowed.) The bidder, playing alone, has win exactly one trick, with no trumps.
+- Pico (Dans beaucoup d'endroits, cette enchère n'est pas autorisée.) Le joueur, jouant seul, doit gagner exactement une levée, sans atout.
 
-- Abondance or Avondans or Appendance: The bidder undertakes to win at least 9 tricks playing alone. The trump suit is chosen by the bidder.
+- Abondance ou Avondans ou Appendance : Le joueur s'engage à gagner au moins 9 levées en jouant seul. La couleur d'atout est choisie par le joueur.
 
-- Abondance in Troef (Abondance in Trumps): The bidder undertakes to win at least 9 tricks playing alone, using the suit of the turned up card as trump.
+- Abondance in Troef (Abondance à l'Atout) : Le joueur s'engage à gagner au moins 9 levées en jouant seul, en utilisant la couleur de la carte retournée comme atout.
 
-- Miserie (Misère, Misery): The bidder undertakes to lose every trick, playing alone with no trumps.
+- Miserie (Misère) : Le joueur s'engage à perdre toutes les levées, en jouant seul sans atout.
 
-- Troel: The bidder has at least three aces and undertakes to win at least 8 tricks, playing with a partner. The partner will be the holder of the fourth ace if the Troel bidder has three aces and the suit of this fourth ace will be trumps. If the Troel bidder has all four aces, the partner will be the holder of the highest heart not held by the bidder, and hearts will be trumps.
+- Troel : Le joueur a au moins trois as et s'engage à gagner au moins 8 levées, en jouant avec un partenaire. Le partenaire sera le détenteur du quatrième as si le joueur de Troel a trois as et la couleur de ce quatrième as sera l'atout. Si le joueur de Troel a les quatre as, le partenaire sera le détenteur du plus haut cœur non détenu par le joueur, et les cœurs seront l'atout.
 
-- Open Miserie or Miserie op Tafel or Misère Ouverte (Open Misery, Misery on the Table): The bidder undertakes to lose every trick, playing alone with no trumps. The bidder's hand is placed face up on the table after the first trick is complete.
+- Miserie Ouverte (Open Miserie, Miserie op Tafel) : Le joueur s'engage à perdre toutes les levées, en jouant seul sans atout. La main du joueur est placée face visible sur la table après la première levée.
 
-- Solo Slim: The bidder undertakes to win all 13 tricks, playing alone. The trump suit is chosen by the bidder.
+- Solo Slim : Le joueur s'engage à gagner les 13 levées, en jouant seul. La couleur d'atout est choisie par le joueur.
 
-The player to dealer's left can pass or bid or 'wait' (wachten). By waiting he reserves the right to accept a proposal, if another player proposes and the other two players pass. Only the player to dealer's left has the right to wait, and having waited, his only options at his second turn are to accept a proposal or to pass: he cannot make any other bid. 
+Le joueur à la gauche du donneur peut passer, enchérir ou « attendre » (wachten). En attendant, il se réserve le droit d'accepter une proposition, si un autre joueur propose et que les deux autres joueurs passent. Seul le joueur à la gauche du donneur a le droit d'attendre, et ayant attendu, ses seules options à son deuxième tour sont d'accepter une proposition ou de passer : il ne peut faire aucune autre enchère.
 
-After the first player, each player in turn, in clockwise order, must either pass or bid higher than the highest bid so far. A player who has passed cannot speak again in the auction.
+Après le premier joueur, chaque joueur à son tour, dans le sens horaire, doit soit passer soit surenchérir par rapport à l'enchère la plus haute. Un joueur qui a passé ne peut plus parler lors des enchères.
 
-Acceptance can of course only be bid if someone has Proposed. If a player Proposes ond no one Accepts, the Proposer may change his bid to Solo or any other bid: this is the only way that Solo can be bid.
+L'acceptation ne peut bien sûr être enchérie que si quelqu'un a fait une Proposition. Si un joueur fait une Proposition et que personne n'accepte, le proposeur peut changer son enchère en Solo ou en toute autre enchère : c'est la seule façon de pouvoir enchérir un Solo.
 
-Kleine Miserie, Pico, Miserie or Miserie op Tafel are exceptions to the rule that each bid must be higher than the last: for example if the highest bid so far is Miserie, it is possible for other players who have not previously passed also to bid Miserie, and if no one bids higher these Miserie contracts are played simultaneously. However, if two players were top bid Kleine Miserie and then a third player bid Pico, the Pico would supersede the Kleine Miserie bids. Either or both the Kleine Miserie bidders could then increase their bid to Pico to play simultaneously with the Pico bidder.
+Kleine Miserie, Pico, Miserie ou Miserie op Tafel sont des exceptions à la règle selon laquelle chaque enchère doit être supérieure à la précédente : par exemple, si l'enchère la plus haute jusqu'à présent est Miserie, il est possible que d'autres joueurs n'ayant pas encore passé enchérissent également Miserie, et si personne ne surenchérit, ces contrats de Miserie sont joués simultanément. Cependant, si deux joueurs avaient l'enchère la plus haute en Kleine Miserie et qu'un troisième joueur enchérit Pico, le Pico remplacerait les enchères de Kleine Miserie. L'un ou les deux enchérisseurs de Kleine Miserie pourraient alors monter leur enchère à Pico pour jouer simultanément avec le joueur de Pico.
 
-If all four players pass at their first turn, or the first player waits and the other three pass, then the cards are thrown in and the same dealer deals again. If someone bids, the bidding continues clockwise around the table as many times as necessary until the contract is settled - i.e. either there has been a proposal and acceptance and no one has bid higher, or someone has bid one of the higher contracts and the other three players have passed, or one or more players have bid equal contracts of Kleine Miserie, Pico, Miserie or Miserie op Tafel and the others have all passed.
+Si les quatre joueurs passent à leur premier tour, ou si le premier joueur attend et que les trois autres passent, les cartes sont rassemblées et le même donneur redistribue. Si quelqu'un enchérit, les enchères continuent dans le sens horaire autour de la table autant de fois que nécessaire jusqu'à ce que le contrat soit établi — c'est-à-dire soit qu'il y a eu une proposition et une acceptation sans surenchère, soit que quelqu'un a fait l'une des enchères supérieures et que les trois autres joueurs ont passé, soit qu'un ou plusieurs joueurs ont fait des enchères équivalentes de Kleine Miserie, Pico, Miserie ou Miserie op Tafel et que tous les autres ont passé.
 
-A player who has three or four aces is obliged to bid Troel at his first turn to speak, unless another player has already bid higher than this. Troel can only be overcalled by Miserie op Tafel or Solo Slim.
+Un joueur qui a trois ou quatre as est obligé d'enchérir Troel à son premier tour de parole, à moins qu'un autre joueur n'ait déjà enchéri plus haut. Troel ne peut être surenchéri que par Miserie op Tafel ou Solo Slim.
 
-When bidding Abondance or Solo Slim, you do not announce the trump suit along with the bid, but wait until the other players have passed and then announce trumps immediately before the first lead. Any of the four suits can be chosen as trumps, including the suit of the exposed card. The bid of Abondance in Trumps is only used to overcall another player's bid of Abondance: the scores for the two bids are the same.
+Lorsqu'on enchérit Abondance ou Solo Slim, on n'annonce pas la couleur d'atout avec l'enchère, mais on attend que les autres joueurs passent, puis on annonce l'atout juste avant la première carte menée. N'importe laquelle des quatre couleurs peut être choisie comme atout, y compris la couleur de la carte exposée. L'enchère d'Abondance à l'Atout n'est utilisée que pour surenchérir l'Abondance d'un autre joueur : les scores des deux enchères sont identiques.
 
-## The Play
+## Le Jeu
 
-In all contracts except Troel and Solo Slim, the player to the dealer's left leads to the first trick. Any card may be led to a trick. Players must follow suit if they can; a player unable to follow suit may play any card. If any trumps are played to a trick, it is won by the highest trump played. If there are no trumps in a trick, it is won by the highest card played in the suit that was led. The winner of a trick leads to the next.
+Dans tous les contrats sauf Troel et Solo Slim, le joueur à la gauche du donneur mène la première levée. N'importe quelle carte peut être menée. Les joueurs doivent suivre la couleur s'ils le peuvent ; un joueur incapable de suivre la couleur peut jouer n'importe quelle carte. Si des atouts sont joués dans une levée, elle est gagnée par le plus haut atout joué. S'il n'y a pas d'atout dans une levée, elle est gagnée par la carte la plus haute de la couleur menée. Le gagnant d'une levée mène la suivante.
 
-In Troel with three aces, the holder of the fourth ace must lead it to the first trick: the suit of this ace is trumps. If the bidder of Troel has all the aces, he must announce this and call for the highest heart that he does not hold. The holder of this heart then begins the play and must lead this heart to the first trick. In this case hearts are trumps.
+Au Troel avec trois as, le détenteur du quatrième as doit le mener à la première levée : la couleur de cet as est l'atout. Si le joueur de Troel a tous les as, il doit l'annoncer et demander le plus haut cœur qu'il ne détient pas. Le détenteur de ce cœur commence alors le jeu et doit mener ce cœur à la première levée. Dans ce cas, les cœurs sont l'atout.
 
-In Solo Slim, the bidder leads to the first trick.
+Au Solo Slim, le joueur mène la première levée.
 
-## The Scoring
+## La Marque
 
-In contracts where two players play against two, each of the two members of the losing team pays the value of the contract and each member of the winning team receives the same amount. When one player plays alone, that player pays collects the value of the contract from each of the three opponents or pays the equivalent amount to each opponent - so the lone player wins or loses three times the value of the contract in total. When two players play Misère, the two contracts are settled separately, each bidder collecting or paying each of the other three players.
+Dans les contrats où deux joueurs jouent contre deux, chacun des deux membres de l'équipe perdante paie la valeur du contrat et chaque membre de l'équipe gagnante reçoit le même montant. Lorsqu'un joueur joue seul, ce joueur perçoit la valeur du contrat de chacun des trois adversaires ou paie le montant équivalent à chaque adversaire — donc le joueur seul gagne ou perd trois fois la valeur du contrat au total. Lorsque deux joueurs jouent une Misère simultanément, les deux contrats sont réglés séparément, chaque joueur percevant ou payant chacun des trois autres joueurs.
 
-The value of the contracts varies greatly between different groups of players. Tom Tempelaere provided the following schedule, used at St Niklaas. Each hand is settled up in money: a typical stake would be 5 Eurocents per unit.
+La valeur des contrats varie considérablement entre différents groupes de joueurs. Tom Tempelaere a fourni le barème suivant, utilisé à St-Nicolas. Chaque main est réglée en argent : une mise typique serait de 5 centimes d'euro par unité.
 
-- Vragen/Meegaan (Proposal and Acceptance): 1 unit, plus 1 for each overtick or undertrick, doubled if all 13 tricks are won.
+- Vragen/Meegaan (Proposition et Acceptation) : 1 unité, plus 1 par sur-levée ou sous-levée, doublé si les 13 levées sont gagnées.
 
-- Solo: 1 unit, plus 1 for each overtick or undertrick, doubled if all 13 tricks are won. 
+- Solo : 1 unité, plus 1 par sur-levée ou sous-levée, doublé si les 13 levées sont gagnées.
 
-- Kleine Miserie: 5 units
+- Kleine Miserie : 5 unités
 
-- Pico: 6 units
+- Pico : 6 unités
 
-- Abondance: 8 units - overtricks and undertricks do not count. 
+- Abondance : 8 unités — les sur-levées et sous-levées ne comptent pas.
 
-- Miserie: 10 units.
+- Miserie : 10 unités.
 
-- Troel: 2 plus 2 per overtrick or undertrick, doubled if all 13 tricks are won.
+- Troel : 2 plus 2 par sur-levée ou sous-levée, doublé si les 13 levées sont gagnées.
 
-- Miserie op Tafel 16 units.
+- Miserie op Tafel : 16 unités.
 
-- Solo Slim 24 units.
+- Solo Slim : 24 unités.
 
-In Vragen/Meegaan and Troel, each player of the losing team pays each member of the winning team. For example if A proposes, B accepts, and they win exactly 8 tricks, they each receive 2 units (1 from C and 1 from D) and C and D each pay 2. If they win 10 tricks, A and B each win 6 units and C and D each pay 6. If they take only 7 tricks (1 undertrick) A and B pay 4 each and C and D each win 5. If A and B win every trick they each collect 24 units (1 for the game, plus 5 overtricks, doubled to 12, from each opponent).
+En Vragen/Meegaan et Troel, chaque joueur de l'équipe perdante paie chaque membre de l'équipe gagnante. Par exemple, si A propose, B accepte, et qu'ils gagnent exactement 8 levées, chacun reçoit 2 unités (1 de C et 1 de D) et C et D paient chacun 2. S'ils gagnent 10 levées, A et B gagnent chacun 6 unités et C et D paient chacun 6. S'ils ne prennent que 7 levées (1 sous-levée), A et B paient chacun 4 et C et D gagnent chacun 5. Si A et B gagnent toutes les levées, chacun perçoit 24 unités (1 pour le jeu, plus 5 sur-levées, doublé à 12, de chaque adversaire).
 
-In contracts where one player plays against three, the lone player receives the appropriate amount from each opponent or pays to each opponent. For example, for winning 7 tricks in a Solo (2 overtricks) you win 3 units (1 + 2) from each opponent, a total of 9 units.
+Dans les contrats où un joueur joue contre trois, le joueur seul perçoit le montant approprié de chaque adversaire ou paie à chaque adversaire. Par exemple, pour gagner 7 levées dans un Solo (2 sur-levées), vous gagnez 3 unités (1 + 2) de chaque adversaire, soit un total de 9 unités.
 
-When simultaneous contracts are played, all are paid. For example: A, B and C all play Pico. A and C win, but B loses. So A wins 6 each from the others for her Pico, plus another 6 from B for the lost Pico, but pays 6 for C's won Pico, a net gain of 18 for A. B has to pay 6 each for losing, plus another 6 each to A and C for the won Picos - a total loss of 30. C wins 18, like A. D pays for two won Picos and gains from the one that was lost, so D's net loss is just 6 units.
+Lorsque des contrats simultanés sont joués, tous sont payés. Par exemple : A, B et C jouent tous Pico. A et C gagnent, mais B perd. Donc A gagne 6 de chacun des autres pour son Pico, plus 6 de B pour le Pico perdu, mais paie 6 pour le Pico gagné de C, soit un gain net de 18 pour A. B doit payer 6 pour sa perte, plus 6 chacun à A et C pour les Picos gagnés — une perte totale de 30. C gagne 18, comme A. D paie pour deux Picos gagnés et gagne sur celui qui a été perdu, donc la perte nette de D est de 6 unités seulement.
 
-The Dutch Wikipedia has a [page on Wiezen](https://nl.wikipedia.org/wiki/Wiezen) with a different scoring schedule. A score sheet using that same schedule is available as an Excel spreadsheet.
+Le Wikipedia néerlandais propose une [page sur Wiezen](https://nl.wikipedia.org/wiki/Wiezen) avec un barème de notation différent. Une feuille de marque utilisant le même barème est disponible sous forme de tableur Excel.
 
-## Variations
+## Variantes
 
-Most players prefer to omit "Kleine Miserie" (Small Misery), because either the contract is easily overbid or it overcalls Vragen/Meegaan too often, which spoils the game. Pico is more often included: it can be difficult and the strategy of playing it is more interesting.
+La plupart des joueurs préfèrent omettre la « Kleine Miserie » (Petite Misère), car soit le contrat est facilement surclassé, soit il surclasse les Vragen/Meegaan trop souvent, ce qui gâche le jeu. Le Pico est plus souvent inclus : il peut être difficile et la stratégie pour le jouer est plus intéressante.
 
-Some players require Troel to be said before the bidding proper begins, rather than during the first round of bidding. So after the deal, each player says "Troel" or "Pas-Troel", and if all four said "Pas-Troel" then the bidding begins. If anyone says "Troel" they can be overcalled only by Miserie op Tafel or Solo Slim.
+Certains joueurs exigent que le Troel soit annoncé avant le début des enchères proprement dites, plutôt que pendant le premier tour d'enchères. Ainsi après la donne, chaque joueur dit « Troel » ou « Pas-Troel », et si les quatre ont dit « Pas-Troel » alors les enchères commencent. Si quelqu'un dit « Troel », il ne peut être surclassé que par Miserie op Tafel ou Solo Slim.
 
-Many players allow the partner of a Troel bidder, rather than leading the called ace to the first trick, to lead a different suit. In this case the suit led becomes trumps, the contract is 9 tricks rather than 8, and the Troel bidder must play the ace of the suit led to the first trick. In this version, when the bidder has all four aces the contract is always for 9 tricks, and the partner leads a card of any suit to the bidder's ace, the suit led becoming trumps.
+Beaucoup de joueurs autorisent le partenaire d'un joueur de Troel, plutôt que de mener l'as appelé à la première levée, à mener une couleur différente. Dans ce cas, la couleur menée devient l'atout, le contrat est de 9 levées plutôt que 8, et le joueur de Troel doit jouer l'as de la couleur menée à la première levée. Dans cette version, lorsque le joueur a les quatre as, le contrat est toujours de 9 levées, et le partenaire mène une carte de n'importe quelle couleur vers l'as du joueur, la couleur menée devenant l'atout.
 
-Some require any pair of players who propose and accept to take at least 9 tricks, rather than eight, and in this case Troel is always a contract for 9 tricks.
+Certains exigent que toute paire de joueurs qui proposent et acceptent gagne au moins 9 levées plutôt que huit, et dans ce cas le Troel est toujours un contrat de 9 levées.
 
-Some players do not recognise Abondance in Trumps, but instead allow bids of Abondance of 10, 11 or 12 tricks to overcall a 9-trick Abondance. Some also rank the possible trump suits in the order hearts (high), diamonds, clubs, spades (low) and allow an Abondance in a higher suit to overcall one in a lower suit. (This rule is also found in Kleurenwiezen). A player wanting to play in a lower trump suit can outbid an Abondance in a higher suit by offering to win a greater number of tricks - so for example "9 hearts" can be overcalled by "10 clubs", which can be overcalled by "10 hearts", and so on.
+Certains joueurs ne reconnaissent pas l'Abondance à l'Atout, mais permettent à la place des enchères d'Abondance de 10, 11 ou 12 levées pour surclasser une Abondance de 9 levées. Certains classent également les couleurs d'atout possibles dans l'ordre cœurs (haut), carreaux, trèfles, piques (bas) et permettent à une Abondance dans une couleur plus haute de surclasser une Abondance dans une couleur plus basse. (Cette règle se trouve également dans le Kleurenwiezen.) Un joueur souhaitant jouer dans une couleur d'atout inférieure peut surclasser une Abondance dans une couleur supérieure en proposant de gagner un plus grand nombre de levées — par exemple « 9 cœurs » peut être surclassé par « 10 trèfles », qui peut être surclassé par « 10 cœurs », et ainsi de suite.
 
-Some award the same payment for an Abondance, however many tricks are bid. Others award higher payments for bidding 10, 11 or 12 tricks (but not for making extra tricks when you have bid only 9). In the first system, you would only bid Abondance for 10 tricks to overcall another Abondance; in the second system, you can choose to bid a higher Abondance to get the higher payment if you succeed.
+Certains accordent le même paiement pour une Abondance, quel que soit le nombre de levées enchéries. D'autres accordent des paiements plus élevés pour des enchères de 10, 11 ou 12 levées (mais pas pour des levées supplémentaires gagnées lorsqu'on n'a enchéri que 9). Dans le premier système, on n'enchérirait une Abondance à 10 levées que pour surclasser une autre Abondance ; dans le second système, on peut choisir d'enchérir une Abondance plus élevée pour obtenir le paiement supérieur en cas de réussite.
 
-Sometimes play with a variant called "Ronde Pas" (Passed Round), or "Totale Miserie" (Complete Misery). If everyone passes, one of the games in the following list is played (all without trumps). This first time everyone passes the first game is played. The next time everyone passes, the second game on the list is played, then the third, then back to the first and so on. 
+Certains jouent parfois avec une variante appelée « Ronde Pas » (Tour Passé) ou « Totale Miserie » (Misère Complète). Si tout le monde passe, l'un des jeux de la liste suivante est joué (tous sans atout). La première fois que tout le monde passe, le premier jeu est joué. La fois suivante où tout le monde passe, le deuxième jeu de la liste est joué, puis le troisième, puis de retour au premier et ainsi de suite.
 
-- Lose the final trick: The player that wins the last trick, loses and pays 4 units to every other player. 
+- Perdre la dernière levée : le joueur qui gagne la dernière levée perd et paie 4 unités à chaque autre joueur.
 
-- No Queens: The object is to take as few Queens as possible in the tricks you win. The player with the most Queens pays every other player 4 units. If two players have two Queens they each lose 8 units and the other two players win 8 units. If everyone has one Queen then nobody pays or receives anything.
+- Pas de Dames : le but est de prendre le moins de Dames possible dans les levées gagnées. Le joueur avec le plus de Dames paie chaque autre joueur 4 unités. Si deux joueurs ont deux Dames, ils perdent chacun 8 unités et les deux autres joueurs gagnent 8 unités. Si tout le monde a une Dame, personne ne paie ni ne reçoit rien.
 
-- The least number of tricks: The object is to win as few tricks as possible. The player who takes the fewest tricks receives 4 units from each other player. If more than one player tie for the least number of tricks, they each receive 4 units from each other player.
+- Le moins de levées : le but est de gagner le moins de levées possible. Le joueur qui gagne le moins de levées reçoit 4 unités de chaque autre joueur. Si plusieurs joueurs sont à égalité pour le moins de levées, chacun reçoit 4 unités de chaque autre joueur.
 
-Carte Blanche Some play that a player who has no Jacks, Queens or Kings in hand, may (but is not obliged to) call "Carte Blanche" before the bidding begins. In this case the only bids allowed are Miserie op Tafel and Solo Slim - Carte Blanche has priority over Troel. If no one bids Miserie op Tafel or Solo Slim the cards must be thrown in and redealt.
+Carte Blanche : Certains jouent qu'un joueur qui n'a ni Valets, ni Dames, ni Rois en main, peut (mais n'est pas obligé de) annoncer « Carte Blanche » avant le début des enchères. Dans ce cas, les seules enchères autorisées sont Miserie op Tafel et Solo Slim — la Carte Blanche a priorité sur le Troel. Si personne n'enchérit Miserie op Tafel ou Solo Slim, les cartes doivent être rassemblées et redistribuées.
 
-Vuilbakwiezen (Trashbin Whist). In this variation the dealer deals 17 cards to each opponent and only 1 card face down to himself, which will determine the trump suit. Each of the dealer's opponents discards 4 unwanted cards face down, and these 12 discards, together with the one card dealt to the dealer, make up the dealer's hand. After all three opponents have discarded, the dealer's trump card is turned face up, and the bidding and play continues as in normal Wiezen.
+Vuilbakwiezen (Whist Poubelle). Dans cette variante, le donneur distribue 17 cartes à chaque adversaire et seulement 1 carte face cachée à lui-même, qui déterminera la couleur d'atout. Chaque adversaire du donneur se défausse de 4 cartes indésirables face cachée, et ces 12 défausses, ainsi que la carte distribuée au donneur, constituent la main du donneur. Après que les trois adversaires se sont défaussés, la carte d'atout du donneur est retournée face visible, et les enchères et le jeu continuent comme dans le Wiezen normal.
 
-## Other Sites and Tournaments
+## Autres Sites et Tournois
 
-The [International World Whist Association](https://www.whistiwwa.com/) promotes Wiezen, Kleurenwiezen, Rikken and Manillen, providing information and organising tournaments.
+L'[International World Whist Association](https://www.whistiwwa.com/) promeut le Wiezen, le Kleurenwiezen, le Rikken et le Manillen, en fournissant des informations et en organisant des tournois.
 
-At Sebastiaan Marynissen's [Whisthub](https://www.whisthub.com/wiezen) you can play Wiezen online against live or AI opponents.
-
-Home Page > Classified Index > Trick Taking Games > Boston group > Wiezen
+Sur le [Whisthub](https://www.whisthub.com/wiezen) de Sebastiaan Marynissen, vous pouvez jouer au Wiezen en ligne contre des adversaires humains ou IA.

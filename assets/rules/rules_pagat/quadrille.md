@@ -2,12 +2,10 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A four-player variant of Hoimbre in which the winning bidder chooses a partner by calling a King - link to rules by David Parlett.
+**But :** Une variante à quatre joueurs de l'Hombre dans laquelle l'enchérisseur gagnant choisit un partenaire en appelant un Roi — lien vers les règles de David Parlett.
 
 ---
 
-Quadrille is an adaptation of Hombre for four players. All 40 cards are dealt and the winner of the bidding selects a partner by calling a King. It became extremely fashionable in Europe in the 18th century, eclipsing the parent game, but declined in the 19th century and is now almost forgotten, although are still some players in West Friesland. It was the inspiration for many later games with variable partnerships.
+Le Quadrille est une adaptation de l'Hombre pour quatre joueurs. Les 40 cartes sont toutes distribuées et le gagnant des enchères sélectionne un partenaire en appelant un Roi. Il est devenu extrêmement à la mode en Europe au XVIIIe siècle, éclipsant le jeu parent, mais a décliné au XIXe siècle et est aujourd'hui presque oublié, bien qu'il reste encore quelques joueurs en Frise-Occidentale. Il a inspiré de nombreux jeux ultérieurs avec des équipes variables.
 
-Further information and rules of Quadrille are available of [David Parlett's Quadrille page](https://www.parlettgames.uk/histocs/quadrill.html).
-
-Home Page > Classified Index > Trick Taking Games > Hombre Group > Quadrille
+Des informations complémentaires et les règles du Quadrille sont disponibles sur la [page Quadrille de David Parlett](https://www.parlettgames.uk/histocs/quadrill.html).

@@ -3,391 +3,387 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** An elaborate Swedish trick-taking card game for three players, in which players can improve their hands by drawing cards from the stock.
+**But :** Un jeu de levées suédois élaboré pour trois joueurs, dans lequel les joueurs peuvent améliorer leur main en tirant des cartes du talon.
 
 ---
 
 ## Introduction
 
-**Vira**, often spelled **Wira**, is a Swedish three-handed plain trick game using an ordinary 52-card pack. Each player is dealt 13 cards and the undealt stock of 13 cards can be used by the players to improve their hands. Bidding determines who plays alone against the other two. There is a large range of contracts, involving various ways of using the stock and various possible objectives for the lone player, the aim being either to take at least a certain number of tricks or to lose all the tricks. Contracts to lose every trick are called **misär** contracts, from the French *misère* (misery).
+**Vira**, souvent écrit **Wira**, est un jeu de levées ordinaires suédois à trois joueurs utilisant un jeu standard de 52 cartes. Chaque joueur reçoit 13 cartes et le talon non distribué de 13 cartes peut être utilisé par les joueurs pour améliorer leur main. Les enchères déterminent qui joue seul contre les deux autres. Il existe un large éventail de contrats, impliquant diverses façons d'utiliser le talon et divers objectifs possibles pour le joueur solo, l'objectif étant soit de prendre au moins un certain nombre de levées, soit de perdre toutes les levées. Les contrats pour perdre toutes les levées sont appelés contrats **misär**, du français *misère*.
 
-If there are four players at the table, then the player to the dealer's right is dealt no cards and takes no part in the play of that hand.
+S'il y a quatre joueurs à la table, le joueur à la droite du donneur ne reçoit aucune carte et ne participe pas au jeu de cette main.
 
-The original version of this page was compiled by Anthony Smith from various sources, including demonstration games at the IPCS conferences in Stockholm in 1993 and Leinfelden in 1990. It was revised in 1999 by Anthony Smith and John McLeod, making use of extra information and material contributed by Sten Helmfrid of the Stockhom Vira Society ([Stockholms Wirasällskap](https://www.brusdata.se/Vira/)).
+La version originale de cette page a été compilée par Anthony Smith à partir de diverses sources, y compris des parties de démonstration aux conférences de l'IPCS à Stockholm en 1993 et à Leinfelden en 1990. Elle a été révisée en 1999 par Anthony Smith et John McLeod, en utilisant des informations et du matériel supplémentaires fournis par Sten Helmfrid de la Société Vira de Stockholm ([Stockholms Wirasällskap](https://www.brusdata.se/Vira/)).
 
-## Deal
+## Donne
 
-The turn to deal rotates clockwise. Usually two packs are used in alternate hands. The spare pack is shuffled ready for the following hand and also used to indicate the "Preference" suit for the hand. This is achieved as follows.
+Le tour de donne tourne dans le sens horaire. Généralement deux jeux sont utilisés en alternance. Le jeu de rechange est mélangé, prêt pour la main suivante, et sert également à indiquer la couleur « Préférence » de la main. Cela se fait comme suit.
 
-Before each deal, there should be a shuffled pack lying face up at the new dealer's left. Dealer picks this pack up passes it across, face down, to the player sitting to dealer's right, who cuts it and returns it to the dealer. When there are three players, the player to the dealer's right also shuffles the second pack; when four play the second pack is shuffled by the player opposite the dealer. The shuffled pack is placed face up to the shuffler's right; it will therefore be at the next dealer's left. The suit of the card exposed on top of the face up pack is **Preference** for that hand, and the other suit of the same colour is **Second Preference**. The suits of the other colour are **Common Suits**.
+Avant chaque donne, il doit y avoir un jeu mélangé couché face visible à la gauche du nouveau donneur. Le donneur prend ce jeu, le passe face cachée au joueur assis à sa droite, qui le coupe et le rend au donneur. Lorsqu'il y a trois joueurs, le joueur à la droite du donneur mélange également le deuxième jeu ; lorsqu'ils sont quatre, le deuxième jeu est mélangé par le joueur en face du donneur. Le jeu mélangé est placé face visible à la droite du mélangeur ; il se trouvera donc à la gauche du donneur suivant. La couleur de la carte exposée sur le dessus du jeu face visible est **Préférence** pour cette main, et l'autre couleur de la même teinte est **Seconde Préférence**. Les couleurs de l'autre teinte sont **Couleurs Communes**.
 
-The dealer deals clockwise from the cut pack, a packet of 4 cards to each of the three active players, then three rounds of a packet of 3 to each, so that each player has 13 cards. The 13 cards that remain form a face-down **stock** (or **talon**), which is placed in the centre of the table. At the discretion of the dealer, the packets can be dealt in the sequence 3-3-3-4 rather than 4-3-3-3.
+Le donneur distribue dans le sens horaire à partir du jeu coupé, un paquet de 4 cartes à chacun des trois joueurs actifs, puis trois tours d'un paquet de 3 à chacun, de sorte que chaque joueur a 13 cartes. Les 13 cartes restantes forment un talon face cachée (**stock** ou **talon**), placé au centre de la table. À la discrétion du donneur, les paquets peuvent être distribués dans l'ordre 3-3-3-4 plutôt que 4-3-3-3.
 
-## Bidding
+## Enchères
 
-Forehand (the player to the dealer's left) must open the bidding and may not initially pass. Each bid names a contract, which the bidder will undertake if no one bids higher. In the usual form of the game there are 40 possible contracts. These are listed in ascending order of rank in the Öbergs bid table below. This table comes from "Viraboken", a booklet issued on 1945 by the card manufacturer Öberg. It is probably the most widespread in use at present, but others are given (in Swedish) on the [Stockholm Vira Society web pages](https://www.brusdata.se/Vira/) and in several Swedish text books. Since the Öbergs table contains some anomalies, the Stockholm Vira Society has recently adopted an improved bid table, which is reproduced later on this page.
+Le joueur à la gauche du donneur doit ouvrir les enchères et ne peut initialement pas passer. Chaque enchère nomme un contrat, que l'enchérisseur s'engagera à jouer si personne ne surenchérit. Dans la forme habituelle du jeu, il y a 40 contrats possibles. Ils sont listés par ordre croissant dans le tableau d'enchères d'Öberg ci-dessous. Ce tableau provient de « Viraboken », un livret publié en 1945 par le fabricant de cartes Öberg. C'est probablement le plus répandu actuellement, mais d'autres sont donnés (en suédois) sur les [pages web de la Société Vira de Stockholm](https://www.brusdata.se/Vira/) et dans plusieurs livres suédois. Comme le tableau d'Öberg contient des anomalies, la Société Vira de Stockholm a récemment adopté un tableau d'enchères amélioré, qui est reproduit plus loin sur cette page.
 
-The turn to bid passes clockwise. Each player must either pass or bid higher than the previous bidder. Jump bids (bids that are higher than the minimum level necessary to overcall the previous bidder) are allowed. A player who passes may not normally reenter the bidding; when two players have passed the third player becomes the **declarer** and plays the contract named in the final bid.
+Le tour d'enchère passe dans le sens horaire. Chaque joueur doit soit passer soit surenchérir par rapport au précédent enchérisseur. Les surenchères (enchères supérieures au niveau minimum nécessaire pour surclasser le précédent enchérisseur) sont autorisées. Un joueur qui passe ne peut normalement pas revenir dans les enchères ; lorsque deux joueurs ont passé, le troisième devient le **preneur** et joue le contrat nommé dans la dernière enchère.
 
-When the most recent bid is "gök" (in which the declarer tries to lose every trick), players are penalised if they pass without cards which offer a prospect of beating this contract. Specifically, a player who has not previously passed, and passes a bid of "gök" is penalised one **bet** into the pot (see payments, below) if the "gök" is successful, unless the passer held certain cards. The player immediately following the bidder needs two "**low guards**" in different suits to pass without penalty. If this player passes, the second player needs at least one "low guard". A "low guard" is a set of up to four cards of a suit which if led in succession would be certain to lose a trick against a player holding the rest of the suit. The following suit holdings therefore count as low guards: any 2, 4-3, 6-5-4, 6-5-3, 8-7-6-5, 8-7-6-4, 8-7-6-3, 8-7-5-4, 8-7-5-3. In some but not all circles five-card low guards are also recognised; these consist of the ten together with four cards lower than the ten in the same suit. A holding such as Q-J-9-8-5-4 which requires six leads to lose a trick does not count as a low guard - the risk is too great in practice that the other player would run out of cards of the suit before being forced to take a trick. Of course a six card holding like Q-10-8-7-6-3 does qualify as a low guard, because the 8-7-6-3 allows the lead to be lost within four tricks.
+Lorsque l'enchère la plus récente est « gök » (dans laquelle le preneur tente de perdre toutes les levées), les joueurs sont pénalisés s'ils passent sans avoir des cartes offrant une perspective de battre ce contrat. Plus précisément, un joueur qui n'a pas précédemment passé et qui passe sur une enchère de « gök » est pénalisé d'un **bet** dans la cagnotte (voir paiements, ci-dessous) si le « gök » réussit, à moins que le passeur ne détienne certaines cartes. Le joueur immédiatement après l'enchérisseur a besoin de deux **« gardes basses »** dans des couleurs différentes pour passer sans pénalité. Si ce joueur passe, le deuxième joueur a besoin d'au moins une « garde basse ». Une « garde basse » est un ensemble de jusqu'à quatre cartes d'une couleur qui, si elles étaient menées successivement, seraient certaines de perdre une levée contre un joueur détenant le reste de la couleur. Les détentions suivantes comptent donc comme gardes basses : n'importe quel 2, 4-3, 6-5-4, 6-5-3, 8-7-6-5, 8-7-6-4, 8-7-6-3, 8-7-5-4, 8-7-5-3. Dans certains cercles, mais pas tous, des gardes basses de cinq cartes sont également reconnues ; elles consistent en le dix accompagné de quatre cartes inférieures au dix de la même couleur. Une détention comme V-D-9-8-5-4 qui nécessite six menées pour perdre une levée ne compte pas comme une garde basse — le risque est trop grand en pratique que l'autre joueur épuise ses cartes de la couleur avant d'être forcé de prendre une levée. Bien sûr, une détention de six cartes comme V-10-8-7-6-3 remplit les conditions de garde basse, car le 8-7-6-3 permet de perdre la menée en quatre levées.
 
-Exceptionally some circles (for example the Vira club "Göken" in Gothenburg) allow a player who passes over a bid of "gök", having not previously passed, to reenter the bidding if the third player overcalls the "gök".
+Exceptionnellement, certains cercles (par exemple le club Vira « Göken » à Göteborg) permettent à un joueur qui passe sur une enchère de « gök », n'ayant pas précédemment passé, de revenir dans les enchères si le troisième joueur surclasse le « gök ».
 
-Bids of "solo", "gask" and "köpmisär" need not be specified numerically. If no level is specified, they can be outbid as if they were at the minimum level needed to overcall the previous bid. If the other players pass, such bids can be played at any level from this minimum upwards which the declarer chooses.
+Les enchères de « solo », « gask » et « köpmisär » n'ont pas besoin d'être spécifiées numériquement. Si aucun niveau n'est spécifié, elles peuvent être surclassées comme si elles étaient au niveau minimum nécessaire pour surclasser l'enchère précédente. Si les autres joueurs passent, ces enchères peuvent être jouées à tout niveau à partir de ce minimum que le preneur choisit.
 
-"Turné" and "vingel" can also be bid without stating the number. They can then be outbid as if they were at the minimum level needed to overcall the previous bid. If the other players pass, these bids can be played only at precisely this minimum level.
+« Turné » et « vingel » peuvent également être enchéries sans indiquer le nombre. Elles peuvent alors être surclassées comme si elles étaient au niveau minimum nécessaire pour surclasser l'enchère précédente. Si les autres joueurs passent, ces enchères ne peuvent être jouées qu'à précisément ce niveau minimum.
 
-Among suit bids ("begär", 7-, 8-, 9-"spel", "solo", "vira" and "solo vira") a plain bid (in which the bidder does not disclose his trump suit) can be overbid by one in "colour" (where he commits himself to making either Preference or Second Preference trumps) and this can in turn be overbid by the same bid in Preference.
+Parmi les enchères de couleur (« begär », 7-, 8-, 9-« spel », « solo », « vira » et « solo vira »), une enchère simple (où l'enchérisseur ne révèle pas sa couleur d'atout) peut être surclassée par une « en couleur » (où il s'engage à faire de la Préférence ou de la Seconde Préférence l'atout), qui peut à son tour être surclassée par la même enchère en Préférence.
 
-A plain "gask" bid can also be overbid by one in "colour" (where the bidder commits himself to making either Preference or Second Preference trumps) and this can in turn be overbid by the same bid in Preference. However only the plain version can be converted to misär.
+Une enchère simple de « gask » peut également être surclassée par une « en couleur » (où l'enchérisseur s'engage à faire de la Préférence ou de la Seconde Préférence l'atout), qui peut à son tour être surclassée par la même enchère en Préférence. Cependant, seule la version simple peut être convertie en misär.
 
-Among exactly equal bids, forehand has precedence over the other two players and can therefore "hold" a bid. The player to forehand's left has similar precedence over the third player once forehand has passed.
+Parmi les enchères strictement égales, le joueur à la gauche du donneur a priorité sur les deux autres joueurs et peut donc « maintenir » une enchère. Le joueur à la gauche de ce premier joueur a une priorité similaire sur le troisième joueur une fois que le premier a passé.
 
-## Exchange and Surrender
+## Échange et Abandon
 
-Before the play begins there is the opportunity for some or all players to improve their hands by using the stock. In some contracts the declarer uses the whole stock, in some only part, and in some the declarer is not entitled to use the stock at all.
+Avant le début du jeu, il y a la possibilité pour certains ou tous les joueurs d'améliorer leur main en utilisant le talon. Dans certains contrats, le preneur utilise tout le talon, dans d'autres une partie seulement, et dans d'autres, le preneur n'a pas le droit d'utiliser le talon.
 
-In the last two cases, when the declarer does not use the whole stock, each opponent in turn has the opportunity to exchange some cards with the part of the undealt stock that the declarer has not used. First the opponent to declarer's left may discard any number of cards, from none at all up to the number left untouched by the declarer, and replace them by drawing an equal number of cards from the top of the stock. If any cards are left, the other opponent may discard any number of cards up to that number and replace them from the stock in the same way. Any cards left in the stock by the second opponent remain unseen, and cannot be looked at until after the play. Players may consult their own discards only until play starts.
+Dans les deux derniers cas, lorsque le preneur n'utilise pas tout le talon, chaque adversaire à tour de rôle a la possibilité d'échanger des cartes avec la partie du talon non distribuée que le preneur n'a pas utilisée. D'abord, l'adversaire à la gauche du preneur peut se défausser d'un nombre quelconque de cartes, de zéro jusqu'au nombre laissé intact par le preneur, et les remplacer en tirant un nombre égal de cartes du sommet du talon. S'il reste des cartes, l'autre adversaire peut se défausser de n'importe quel nombre de cartes jusqu'à ce nombre et les remplacer du talon de la même manière. Toute carte restant dans le talon après le deuxième adversaire reste invisible et ne peut être regardée qu'après le jeu. Les joueurs peuvent consulter leurs propres défausses seulement jusqu'au début du jeu.
 
-In contracts where the declarer uses the stock, the declarer is allowed after exchanging to surrender the contract without play, accepting a simple loss. If the declarer used only part of the stock, the surrender must be announced before the opponents exchange.
+Dans les contrats où le preneur utilise le talon, le preneur est autorisé après l'échange à abandonner le contrat sans jouer, en acceptant une perte simple. Si le preneur n'a utilisé qu'une partie du talon, l'abandon doit être annoncé avant que les adversaires échangent.
 
-When the declarer uses only part of the stock, he has a third option after exchanging. Instead of continuing or surrendering, the declarer can perform the exchange a second time (*omköp*). This sometimes involves a small net loss even if the contract after second exchange is successful, but the loss is less than would have been incurred by surrendering after the first exchange. If the second exchange is unsuccessful, the declarer again has the option to surrender rather than inviting the opponents to exchange; the loss is the same as for a simple loss on a second exchange.
+Lorsque le preneur n'utilise qu'une partie du talon, il a une troisième option après l'échange. Au lieu de continuer ou d'abandonner, le preneur peut effectuer l'échange une deuxième fois (*omköp*). Cela implique parfois une petite perte nette même si le contrat après le deuxième échange réussit, mais la perte est inférieure à ce qu'aurait coûté un abandon après le premier échange. Si le deuxième échange échoue, le preneur a de nouveau l'option d'abandonner plutôt que d'inviter les adversaires à échanger ; la perte est la même que pour une perte simple sur un deuxième échange.
 
-Consultation between opponents about exchanging is not allowed, except in the contract "solo grande misär ouverte royale". 
+Les consultations entre adversaires sur l'échange ne sont pas autorisées, sauf dans le contrat « solo grande misär ouverte royale ».
 
-## The Play
+## Le Jeu
 
-Forehand always leads to the first trick. Thereafter the winner of each trick leads to the next. Play is clockwise. Players must follow suit if they can; a player who cannot follow may trump or discard from another suit at will. The highest trump played wins the trick, or if no trumps are played, the highest card of the suit led.
+Le joueur à la gauche du donneur mène toujours la première levée. Ensuite, le gagnant de chaque levée mène la suivante. Le jeu se fait dans le sens horaire. Les joueurs doivent suivre la couleur s'ils le peuvent ; un joueur qui ne peut pas suivre peut jouer un atout ou se défausser d'une autre couleur à volonté. Le plus haut atout joué gagne la levée, ou s'il n'y a pas d'atout, la carte la plus haute de la couleur menée.
 
-Normally the cards rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2 in each suit. However, it is often agreed that in the misär options of "gask", a declarer who holds all four aces at the start of play can announce that aces will for that hand then rank as the lowest card of each suit, below the 2. This option is sometimes extended to all misärs.
+Normalement, les cartes se classent du plus haut au plus bas A-R-D-V-10-9-8-7-6-5-4-3-2 dans chaque couleur. Cependant, il est souvent convenu que dans les options de misär du « gask », un preneur qui détient les quatre as au début du jeu peut annoncer que les as seront alors classés comme la carte la plus basse de chaque couleur, en dessous du 2. Cette option est parfois étendue à toutes les misärs.
 
-In some misär contracts, the declarer plays with only twelve or eleven cards. In these cases the declarer discards one or two cards after exchanging with the stock. If the contract allows the opponents to exchange cards with the stock, the declarer's hand is reduced before the opponents exchange. In these contracts the play ends when the declarer runs out of cards, at which point the other players will have one or two cards left over, which are not played.
+Dans certains contrats de misär, le preneur joue avec seulement douze ou onze cartes. Dans ces cas, le preneur se défausse d'une ou deux cartes après avoir échangé avec le talon. Si le contrat permet aux adversaires d'échanger des cartes avec le talon, la main du preneur est réduite avant que les adversaires échangent. Dans ces contrats, le jeu se termine lorsque le preneur n'a plus de cartes, moment auquel les autres joueurs auront une ou deux cartes restantes, qui ne sont pas jouées.
 
-Only in the contract "solo grande misär ouverte royale" are the defenders allowed to consult during play.
+Seul dans le contrat « solo grande misär ouverte royale » les défenseurs sont autorisés à se consulter pendant le jeu.
 
-## Payments
+## Paiements
 
-The score is traditionally kept using chips. Each player has a supply of these in their own colour. Their values are expressed in **betar** and **pinnar**. One *bet* is equal to eight *pinnar*. The chip values are distinguished by their shape:
+Le score est traditionnellement gardé avec des jetons. Chaque joueur dispose d'un stock de jetons de sa propre couleur. Leurs valeurs sont exprimées en **betar** et **pinnar**. Un *bet* équivaut à huit *pinnar*. La valeur des jetons est distinguée par leur forme :
 
-|   = 1 pinne   |   = 2 pinnar   |   = 1 bet = 8 pinnar   |   = 5 betar   |
+| 1 pinne | 2 pinnar | 1 bet = 8 pinnar | 5 betar |
 
-Each player starts with a number of chips, typically 10 of the long *pinnar*, 10 round *2-pinnar* chips and 5 *betar* (short rectangles). Not all sets contain the traingular *5-betar* chips, but when they are present, each player typically has 5 of these. During the game there is also a common pool of chips kept in a container (called pulla in Swedish). At the start of the game and whenever the pool becomes empty or insufficient, each player contributes one *bet* to the pool. The initial payments to the pool are called **ålar** or **stambetar**. 
+Chaque joueur commence avec un certain nombre de jetons, typiquement 10 jetons longs de *pinne*, 10 jetons ronds de 2 pinnar et 5 *betar* (rectangles courts). Tous les jeux ne contiennent pas les jetons triangulaires de 5 betar, mais lorsqu'ils sont présents, chaque joueur en a typiquement 5. Pendant le jeu, il y a aussi une cagnotte commune de jetons gardée dans un récipient (appelé pulla en suédois). Au début du jeu et chaque fois que la cagnotte devient vide ou insuffisante, chaque joueur contribue d'un *bet* à la cagnotte. Les paiements initiaux à la cagnotte sont appelés **ålar** ou **stambetar**.
 
-If real chips are not available, it is possible to keep account of the scores on paper, with an extra column showing the state of the pool.
+Si les vrais jetons ne sont pas disponibles, il est possible de tenir le compte des scores sur papier, avec une colonne supplémentaire montrant l'état de la cagnotte.
 
-A successful declarer wins *betar* from the pool and sometimes also *pinnar* from the other players. If unsuccessful the declarer has to pay *betar* to the pool and sometimes also *pinnar* to the other players. The number of *betar* won or lost depends on the type of contract and the result. The number of *pinnar* depends on these and also on the trump suit. The details are shown in the bid table. When there are four players at the table, the *pinnar* payments take place only between the declarer and the two active opponents. The player who is sitting out neither gives nor receives any *pinnar*.
+Un preneur réussi gagne des *betar* de la cagnotte et parfois aussi des *pinnar* des autres joueurs. S'il échoue, le preneur doit payer des *betar* à la cagnotte et parfois aussi des *pinnar* aux autres joueurs. Le nombre de *betar* gagnés ou perdus dépend du type de contrat et du résultat. Le nombre de *pinnar* dépend de ceux-ci et aussi de la couleur d'atout. Les détails sont indiqués dans le tableau d'enchères. Lorsqu'il y a quatre joueurs à la table, les paiements en *pinnar* n'ont lieu qu'entre le preneur et les deux adversaires actifs. Le joueur assis ne donne ni ne reçoit de *pinnar*.
 
-When a contract fails, there are two possible levels of failure. If it fails by just one trick, the declarer loses **simply**. If it fails by two tricks or more, the declarer loses **codille**, which is more expensive. Note that this concept applies equally to positive contracts and to misärs (where the object is to lose every trick). When the declarer of a misär takes one trick, the contract is lost simply. If the declarer can be made to take a second trick the loss is a codille.
+Lorsqu'un contrat échoue, il y a deux niveaux possibles d'échec. S'il échoue d'une seule levée, le preneur perd **simplement**. S'il échoue de deux levées ou plus, le preneur perd par **codille**, ce qui est plus coûteux. Notez que ce concept s'applique également aux contrats positifs et aux misärs (où l'objectif est de perdre toutes les levées). Lorsque le preneur d'une misär prend une levée, le contrat est simplement perdu. Si le preneur peut être amené à prendre une deuxième levée, la perte est une codille.
 
-When the declarer plays a contract which involves an exchange using only part of the stock, the declarer can exchange a second time if the first was unsatisfactory. Before the second exchange the declarer must pay the opponents pinnar as though the first contract has been lost simply, but does not pay the pool. When the declarer eventually wins or loses after the second exchange, he receives or pays further *pinnar* according to the final trump suit, and his payments from or to the pot are altered - see the bid table. Most of these payments result from combining (1) payment for a simple loss for the abandoned first exchange and (2) either ordinary winning or **doubled** penalties for going simply off or losing codille in the game actually played. The exceptions are "turné 8", "vingel 8" and "tringel 9". Therefore in most cases winning after a second exchange results not in an overall gain, but in a smaller loss than losing after a first exchange.
+Lorsque le preneur joue un contrat impliquant un échange utilisant seulement une partie du talon, le preneur peut échanger une deuxième fois si la première fois n'était pas satisfaisante. Avant le deuxième échange, le preneur doit payer les adversaires en pinnar comme si le premier contrat avait été simplement perdu, mais ne paie pas la cagnotte. Lorsque le preneur gagne ou perd finalement après le deuxième échange, il reçoit ou paie des *pinnar* supplémentaires selon la couleur d'atout finale, et ses paiements vers ou depuis la cagnotte sont modifiés — voir le tableau d'enchères. La plupart de ces paiements résultent de la combinaison de (1) le paiement pour une perte simple de l'échange abandonné et (2) soit un gain ordinaire, soit des pénalités **doublées** pour avoir échoué simplement ou perdu par codille dans le jeu réellement joué. Les exceptions sont « turné 8 », « vingel 8 » et « tringel 9 ». Par conséquent, dans la plupart des cas, gagner après un deuxième échange ne résulte pas en un gain global, mais en une perte plus faible que perdre après un premier échange.
 
-Hands involving exchange can be surrendered before declarer has invited the defenders to exchange for the cost of a **simple loss**. If the declarer surrenders after exchanging for a second time, the declarer pays as though the game was lost simply after a second exchange. Contracts in which the declarer does not exchange can only be surrendered for the cost of losing **codille**. *Pinnar* are paid in surrendered gask and solo as for a common suit, unless the surrendered game was bid in a higher suit. For games where a trump suit is determined before the exchange the suit announced by the declarer determines the *pinnar* to be paid.
+Les mains impliquant un échange peuvent être abandonnées avant que le preneur n'ait invité les défenseurs à échanger, pour le coût d'une **perte simple**. Si le preneur abandonne après avoir échangé une deuxième fois, il paie comme si le jeu avait été simplement perdu après un deuxième échange. Les contrats dans lesquels le preneur n'échange pas ne peuvent être abandonnés qu'au coût d'une perte par **codille**. Les *pinnar* sont payés dans les gask et solos abandonnés comme pour une couleur commune, sauf si le jeu abandonné avait été enchéri dans une couleur supérieure. Pour les jeux où la couleur d'atout est déterminée avant l'échange, la couleur annoncée par le preneur détermine les *pinnar* à payer.
 
-The word *bet* is presumably a form of the French *"bête"* (beast), used to describe the penalty paid by an unsuccessful player in various games, including l'Hombre. *Pinne* is Swedish, meaning literally a "stick", and is also used of a "chopstick". 
+Le mot *bet* est vraisemblablement une forme du français *« bête »*, utilisé pour décrire la pénalité payée par un joueur en échec dans divers jeux, y compris le l'Hombre. *Pinne* est suédois, signifiant littéralement une « baguette », et est aussi utilisé pour une « baguette chinoise ».
 
-If a player runs out of *betar*, any shape of chip of his own colour can be used to pay into the pool, and once inside the pool it represents one *bet*, whatever shape of chip it might be. A *pinne* chip can also be placed under the pool to represent placing 6 *betar* into the pool. At the end of play the *betar* in the pool are divided as equally as possible among the players, any odd one or two being converted into *pinnar*. (During this distribution, any irregular shape of chip used to represent a *bet* must be returned to the player, identifiable by the chip's colour, who placed it in the pool.) Any odd *pinnar* left over are given to the player who lost most altogether. Chips are then exchanged so that everyone retrieves as many as possible of his own colour of chips. The chips remaining unredeemed at this stage show the final profit or loss. If monetary stakes are being played for they must now be bought back by their original owners.
+Si un joueur n'a plus de *betar*, n'importe quelle forme de jeton de sa propre couleur peut être utilisée pour payer dans la cagnotte, et une fois dans la cagnotte, il représente un *bet*, quelle que soit la forme du jeton. Un jeton de *pinne* peut également être placé sous la cagnotte pour représenter 6 *betar* placés dans la cagnotte. À la fin du jeu, les *betar* dans la cagnotte sont répartis aussi équitablement que possible entre les joueurs, les jetons impairs étant convertis en *pinnar*. (Pendant cette distribution, tout jeton de forme irrégulière utilisé pour représenter un *bet* doit être retourné au joueur, identifiable par la couleur du jeton, qui l'a placé dans la cagnotte.) Les *pinnar* impairs restants sont donnés au joueur qui a perdu le plus au total. Les jetons sont ensuite échangés pour que chacun récupère autant que possible de ses jetons de sa propre couleur. Les jetons non rachetés à ce stade montrent le profit ou la perte final. Si des mises d'argent sont jouées, elles doivent être rachetées par leurs propriétaires originaux.
 
-## The Contracts
+## Les Contrats
 
-In the form of Vira usually now played, there are 40 possible contracts; some variations may allow more or fewer possibilities. The contracts will first be described in groups, according to the way the stock is used and the objectives of the declarer. The ranking order of the contracts for bidding purposes is shown in the summary scoring tables below: the Öbergs table and the Stockholm Vira Society table.
+Dans la forme de Vira généralement jouée aujourd'hui, il y a 40 contrats possibles ; certaines variantes peuvent permettre plus ou moins de possibilités. Les contrats seront d'abord décrits par groupes, selon la façon d'utiliser le talon et les objectifs du preneur. L'ordre de classement des contrats pour les enchères est indiqué dans les tableaux récapitulatifs de notation ci-dessous : le tableau d'Öberg et le tableau de la Société Vira de Stockholm.
 
-### a) Contracts in which declarer alone uses the stock:
+### a) Contrats dans lesquels seul le preneur utilise le talon :
 
 **vira**
-Declarer takes the whole talon, discards 13 cards, announces a trump suit of his choice, and either surrenders or plays. The declarer must take all 13 tricks to win.
+Le preneur prend tout le talon, se défausse de 13 cartes, annonce une couleur d'atout de son choix, et abandonne ou joue. Le preneur doit prendre les 13 levées pour gagner.
 
 **gök**
-Declarer takes the whole talon, discards 13 cards, and either surrenders or plays. He exposes his hand on the table before the lead to the first trick. To succeed he must lose all 13 tricks at no trump.
-**gask keeping 0, 1, 2, 3, 4, 5 or 6 cards**
-Declarer announces (if he did not do so during the bidding) how many cards he is retaining, discards the rest, picks up the whole stock and discards back down to 13. He now decides whether to play or surrender.
-If playing having kept 0, 1 or 2 cards he either names a trump suit and plays to win at least 7, 8 or 9 tricks respectively or else discards 2, 1 or 0 more cards and plays to lose all 11, 12 or 13 tricks at no trump. The defenders do not exchange. If the bid was "gask in colour" or "gask in Preference", however, the alternative to lose all the tricks is not available. 
-If playing having kept 3 or 4 cards he either names a trump suit and plays to win at least 10 or 11 tricks respectively or else discards 1 or 0 more card, places his hand **face-up** on the table before leading to the first trick, and plays to lose all 12 or 13 tricks at no trump. The defenders do not discard. If the bid was "gask in colour" or "gask in Preference", however, the alternative to lose all the tricks is not available.
-If playing having kept 5 or 6 cards he now names a trump suit and plays to win at least 12 tricks in both cases. Notice that "gask keeping 5" outbids "gask keeping 6".
-In Swedish, these contracts are known as *gask på 0*, *gask på 1*, etc.
+Le preneur prend tout le talon, se défausse de 13 cartes, et abandonne ou joue. Il expose sa main sur la table avant de mener la première levée. Pour réussir, il doit perdre les 13 levées sans atout.
 
-### b) Contracts in which declarer uses the stock and the defenders may also do so if cards remain:
+**gask conservant 0, 1, 2, 3, 4, 5 ou 6 cartes**
+Le preneur annonce (s'il ne l'a pas fait lors des enchères) combien de cartes il conserve, se défausse du reste, prend tout le talon et se défausse pour revenir à 13. Il décide alors de jouer ou d'abandonner.
+S'il joue en conservant 0, 1 ou 2 cartes, il nomme soit une couleur d'atout et joue pour gagner au moins 7, 8 ou 9 levées respectivement, soit se défausse de 2, 1 ou 0 cartes supplémentaires et joue pour perdre toutes les 11, 12 ou 13 levées sans atout. Les défenseurs n'échangent pas. Si l'enchère était « gask en couleur » ou « gask en Préférence », l'alternative de perdre toutes les levées n'est pas disponible.
+S'il joue en conservant 3 ou 4 cartes, il nomme soit une couleur d'atout et joue pour gagner au moins 10 ou 11 levées respectivement, soit se défausse de 1 ou 0 carte supplémentaire, pose sa main **face visible** sur la table avant de mener la première levée, et joue pour perdre toutes les 12 ou 13 levées sans atout. Les défenseurs ne se défaussent pas. Si l'enchère était « gask en couleur » ou « gask en Préférence », l'alternative de perdre toutes les levées n'est pas disponible.
+S'il joue en conservant 5 ou 6 cartes, il nomme alors une couleur d'atout et joue pour gagner au moins 12 levées dans les deux cas. Notez que « gask conservant 5 » surclasse « gask conservant 6 ».
+En suédois, ces contrats sont appelés *gask på 0*, *gask på 1*, etc.
+
+### b) Contrats dans lesquels le preneur utilise le talon et les défenseurs peuvent aussi le faire s'il reste des cartes :
 
 **begär, 7-spel, 8-spel, 9-spel**
-Declarer announces a trump suit of his choice, discards any number of cards, replenishes his hand by drawing an equal number of cards from the stock and decides whether to surrender, play or (if cards remain) exchange again. If playing, he invites his opponents to exchange. If exchanging again he must keep the same trump suit and he pays *pinnar* at the rate for this trump suit, discards at least 1 and replenishes his hand. He then decides whether to surrender or play. If playing (and cards remain in the stock) he invites his opponents to exchange. When playing, the declarer's objective is to take at least 6, 7, 8 or 9 tricks respectively.
-**turné 6, 7 or 8**
-Declarer turns the first card of the stock and the suit of this card is trump. He then discards at least one card, replenishes his hand including the turned card and decides whether to surrender, play or turn again. If playing, he invites his opponents to exchange. The declarer is only allowed to turn again if at least two cards remain in the stock. If turning again he pays *pinnar* at the rate for the first trump suit, turns the top remaining card of the stock for trump, discards at least one card, replenishes his hand including the newly turned card and decides whether to surrender or play. If playing (and cards remain) he invites his opponents to exchange and plays to take at least 6, 7 or 8 tricks respectively.
-**vingel 6, 7 or 8**
-Declarer turns the first two cards of the stock and chooses one of their suits as trump, discards at least two cards, replenishes his hand including both turned cards and decides whether to surrender, play or turn again. If playing, he invites his opponents to exchange. The declarer is only allowed to turn again if at least three cards remain in the stock. If turning again he pays *pinnar* at the rate for the first trump suit, turns the top two remaining cards of the stock for trump, discards at least two cards, replenishes his hand including both newly turned cards and decides whether to surrender or play. If playing (and cards remain) he invites his opponents to exchange and plays to take at least 6, 7 or 8 tricks respectively.
-**tringel 9**
-Declarer turns the first three cards of the stock and chooses one of their suits as trump, discards at least three cards, replenishes his hand including all three turned cards and decides whether to surrender, play or turn again. If playing, he invites his opponents to exchange. The declarer is only allowed to turn again if at least four cards remain in the stock. If turning again he pays *pinnar* at the rate for the first trump suit, turns the top three remaining cards of the stock for trump, discards at least three cards, replenishes his hand including all three newly turned cards and decides whether to surrender or play. If playing (and cards remain) he invites his opponents to exchange and plays to take at least 9 tricks.
-**köpmisär, exchanging 1, 2, 3, 4, 5 or 6**
-Declarer announces (if he did not do so during the bidding) how many cards he is exchanging. He discards this number of cards and then draws an equal number from the stock to replenish his hand to 13 cards. He now decides whether to surrender, play or exchange again. If playing, he invites his opponents to exchange. If exchanging again he first pays his opponents the *pinnar*, then discards the same number of cards as he first discarded and replenishes his hand. He then decides whether to surrender or play. If playing he invites his opponents to exchange. 
-If playing in "köpmisär" exchanging 4, 5 or 6 the declarer discards one further card before inviting the opponents to exchange, and plays the hand with 12 cards; his opponents play with 13 cards and will have one card left over at the end of the play. The declarer's objective is to lose all 12 or 13 tricks at no trump. 
-The lower "köpmisär" bids are really too difficult for their ranking among the contracts. An alternative treatment is given in the new bid table of the Stockholms Wirasällskap, whereby the declarer discards 1 or 2 further cards before inviting the opponents to exchange, and plays with 12 or 11 cards.
-In Swedish, these contracts are known as *köpmisär på 1*, *köpmisär på 2*, etc.
+Le preneur annonce une couleur d'atout de son choix, se défausse d'un nombre quelconque de cartes, reconstitue sa main en tirant un nombre égal de cartes du talon et décide d'abandonner, de jouer ou (s'il reste des cartes) d'échanger à nouveau. S'il joue, il invite ses adversaires à échanger. S'il échange à nouveau, il doit garder la même couleur d'atout et paie des *pinnar* au taux de cette couleur d'atout, se défausse d'au moins 1 carte et reconstitue sa main. Il décide alors d'abandonner ou de jouer. S'il joue (et qu'il reste des cartes dans le talon), il invite ses adversaires à échanger. En jouant, l'objectif du preneur est de prendre au moins 6, 7, 8 ou 9 levées respectivement.
 
-### c) Contracts in which only the defenders may use the stock
+**turné 6, 7 ou 8**
+Le preneur retourne la première carte du talon et la couleur de cette carte est l'atout. Il se défausse ensuite d'au moins une carte, reconstitue sa main y compris la carte retournée et décide d'abandonner, de jouer ou de retourner à nouveau. S'il joue, il invite ses adversaires à échanger. Le preneur n'est autorisé à retourner à nouveau que s'il reste au moins deux cartes dans le talon. S'il retourne à nouveau, il paie des *pinnar* au taux de la première couleur d'atout, retourne la première carte restante du talon pour l'atout, se défausse d'au moins une carte, reconstitue sa main y compris la carte nouvellement retournée et décide d'abandonner ou de jouer. S'il joue (et qu'il reste des cartes), il invite ses adversaires à échanger et joue pour prendre au moins 6, 7 ou 8 levées respectivement.
+
+**vingel 6, 7 ou 8**
+Le preneur retourne les deux premières cartes du talon et choisit une de leurs couleurs comme atout, se défausse d'au moins deux cartes, reconstitue sa main y compris les deux cartes retournées et décide d'abandonner, de jouer ou de retourner à nouveau. S'il joue, il invite ses adversaires à échanger. Le preneur n'est autorisé à retourner à nouveau que s'il reste au moins trois cartes dans le talon. S'il retourne à nouveau, il paie des *pinnar* au taux de la première couleur d'atout, retourne les deux premières cartes restantes du talon pour l'atout, se défausse d'au moins deux cartes, reconstitue sa main y compris les deux cartes nouvellement retournées et décide d'abandonner ou de jouer. S'il joue (et qu'il reste des cartes), il invite ses adversaires à échanger et joue pour prendre au moins 6, 7 ou 8 levées respectivement.
+
+**tringel 9**
+Le preneur retourne les trois premières cartes du talon et choisit une de leurs couleurs comme atout, se défausse d'au moins trois cartes, reconstitue sa main y compris les trois cartes retournées et décide d'abandonner, de jouer ou de retourner à nouveau. S'il joue, il invite ses adversaires à échanger. Le preneur n'est autorisé à retourner à nouveau que s'il reste au moins quatre cartes dans le talon. S'il retourne à nouveau, il paie des *pinnar* au taux de la première couleur d'atout, retourne les trois premières cartes restantes du talon pour l'atout, se défausse d'au moins trois cartes, reconstitue sa main y compris les trois cartes nouvellement retournées et décide d'abandonner ou de jouer. S'il joue (et qu'il reste des cartes), il invite ses adversaires à échanger et joue pour prendre au moins 9 levées.
+
+**köpmisär, échangeant 1, 2, 3, 4, 5 ou 6**
+Le preneur annonce (s'il ne l'a pas fait lors des enchères) combien de cartes il échange. Il se défausse de ce nombre de cartes puis tire un nombre égal du talon pour reconstituer sa main à 13 cartes. Il décide alors d'abandonner, de jouer ou d'échanger à nouveau. S'il joue, il invite ses adversaires à échanger. S'il échange à nouveau, il paie d'abord les *pinnar* à ses adversaires, puis se défausse du même nombre de cartes que lors du premier échange et reconstitue sa main. Il décide alors d'abandonner ou de jouer. S'il joue, il invite ses adversaires à échanger.
+S'il joue en « köpmisär » en échangeant 4, 5 ou 6, le preneur se défausse d'une carte supplémentaire avant d'inviter les adversaires à échanger, et joue avec 12 cartes ; ses adversaires jouent avec 13 cartes et auront une carte restante à la fin du jeu. L'objectif du preneur est de perdre toutes les 12 ou 13 levées sans atout.
+Les enchères de *köpmisär* inférieures sont vraiment trop difficiles pour leur classement parmi les contrats. Un traitement alternatif est donné dans le nouveau tableau d'enchères du Stockholms Wirasällskap, où le preneur se défausse de 1 ou 2 cartes supplémentaires avant d'inviter les adversaires à échanger, et joue avec 12 ou 11 cartes.
+En suédois, ces contrats sont appelés *köpmisär på 1*, *köpmisär på 2*, etc.
+
+### c) Contrats dans lesquels seuls les défenseurs peuvent utiliser le talon
 
 **solo 6, 7, 8, 9, 10, 11, 12, solo vira**
-Declarer announces (if he did not do so during the bidding) the level of the solo. Declarer announces the trump suit, invites the opponents to exchange and then plays to take at least 6, 7, 8, 9, 10, 11, 12 or 13 tricks respectively.
+Le preneur annonce (s'il ne l'a pas fait lors des enchères) le niveau du solo. Le preneur annonce la couleur d'atout, invite les adversaires à échanger puis joue pour prendre au moins 6, 7, 8, 9, 10, 11, 12 ou 13 levées respectivement.
+
 **solo petite misär, solo grande misär**
-In "petite" declarer discards one card and plays to lose all 12 tricks at no trump. His opponents may exchange but always play with 13 cards, having one left at the end of the play. In "grande" the opponents may exchange and the declarer plays to lose all 13 tricks at no trump.
+En « petite » le preneur se défausse d'une carte et joue pour perdre les 12 levées sans atout. Ses adversaires peuvent échanger mais jouent toujours avec 13 cartes, avec une carte restante à la fin du jeu. En « grande » les adversaires peuvent échanger et le preneur joue pour perdre les 13 levées sans atout.
+
 **solo petite misär ouverte, solo grande misär ouverte**
-In "petite" declarer discards one card and plays with 12; in "grande" he plays with 13 cards. His opponents may exchange but always play with 13 cards. Declarer exposes his hand after the opponents' exchange but before leading to the first trick. The declarer's objective is to lose all 12 or 13 tricks at no trump.
+En « petite » le preneur se défausse d'une carte et joue avec 12 ; en « grande » il joue avec 13 cartes. Ses adversaires peuvent échanger mais jouent toujours avec 13 cartes. Le preneur expose sa main après l'échange des adversaires mais avant de mener la première levée. L'objectif du preneur est de perdre toutes les 12 ou 13 levées sans atout.
+
 **solo petite misär ouverte royale, solo grande misär ouverte royale**
-In "petite" declarer discards one card and plays with 12; in "grande" he plays with 13 cards. His opponents may exchange but always play with 13 cards. Declarer exposes his hand before the opponents' exchange and plays to lose all 12 or 13 tricks at no trump. In the "grande" contract defenders may discuss their exchange and their play, and may show each other their cards.
+En « petite » le preneur se défausse d'une carte et joue avec 12 ; en « grande » il joue avec 13 cartes. Ses adversaires peuvent échanger mais jouent toujours avec 13 cartes. Le preneur expose sa main avant l'échange des adversaires et joue pour perdre toutes les 12 ou 13 levées sans atout. Dans le contrat « grande », les défenseurs peuvent discuter de leur échange et de leur jeu, et peuvent se montrer leurs cartes.
 
-### The Öbergs bid table
+### Le tableau d'enchères d'Öberg
 
-|   | Name | | Stock exchange | Game objective | | To or from the poolin units of Betar | | To/from opponentsin units of Pinnar |
-| Simple game | | 2nd exchange | CommonSuitsor Misär | 2ndPref. | Pref |
-| won | lost | cod | won | lost | cod |
-| |
-| 1 | Begär | all exchange | 6+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 2 | Turné 6 | turn 1 trump,all exchange | 6+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 3 | 7-Spel | all exchange | 7+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 4 | Vingel 6 | turn 2 trumps,all exchange | 6+ tricks | 1 | 2 | 4 | -1 | 6 | 10 | 0 | 1 | 1 |
-| 5 | Gask, keeping 0 | declarer discards 13,takes stock | 7+ tricks or11 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 0 | 0 |
-| 6 | Gök | declarer takeswhole stock | 13 card open misär | 1 | 2 | 4 | - | - | - | 0 | - | - |
-| 7 | Turné 7 | turn 1 trump,all exchange | 7+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
-| 8 | Köpmisär, exchanging 1 | declarer exchanges 1,opponents exchange | 13 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 9 | Gask, keeping 1 | declarer discards 12,takes stock, discards 1 | 8+ tricks or12 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
-| 10 | 8-Spel | all exchange | 8+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
-| 11 | Vingel 7 | turn 2 trumps,all exchange | 7+ tricks | 1 | 2 | 4 | -1 | 6 | 10 | 1 | 1 | 3 |
-| 12 | Turné 8 | turn 1 trump,all exchange | 8+ tricks | 2 | 1 | 2 | (a) | 3 | 5 | 1 | 1 | 3 |
-| 13 | Köpmisär, exchanging 2 | declarer exchanges 2,opponents exchange | 13 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 14 | Gask, keeping 2 | declarer discards 11,takes stock, discards 2 | 9+ tricks or13 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
-| 15 | 9-Spel | all exchange | 9+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
-| 16 | Vingel 8 | turn 2 trumps,all exchange | 8+ tricks | 2 | 2 | 4 | (b) | 6 | 10 | 1 | 3 | 5 |
-| 17 | Köpmisär, exchanging 3 | declarer exchanges 3,opponents exchange | 13 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 18 | Gask, keeping 3 | declarer discards 10,takes stock, discards 3 | 10+ tricks or12 card open misär | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
-| 19 | Solo 6 | opponents exchange | 6+ tricks | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
-| 20 | Köpmisär, exchanging 4 | declarer exchanges 4,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 21 | Gask, keeping 4 | declarer discards 9,takes stock, discards 4 | 11+ tricks or13 card open misär | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
-| 22 | Tringel 9 | turn 3 trumps,all exchange | 9+ tricks | 3 | 3 | 6 | (c) | 9 | 15 | 3 | 5 | 11 |
-| 23 | Solo 7 | opponents exchange | 7+ tricks | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
-| 24 | Köpmisär, exchanging 5 | declarer exchanges 5,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 25 | Gask, keeping 6 | declarer discards 7,takes stock, discards 6 | 12+ tricks | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
-| 26 | Solo 8 | opponents exchange | 8+ tricks | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
-| 27 | Köpmisär, exchanging 6 | declarer exchanges 6,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 28 | Gask, keeping 5 | declarer discards 8,takes stock, discards 5 | 12+ tricks | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
-| 29 | Solo 9 | opponents exchange | 9+ tricks | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
-| 30 | Solo petite misär | opponents exchange | 12 card closed misär | 1 | 1 | 2 | - | - | - | 2 | - | - |
-| 31 | Vira | declarer takeswhole stock | 13 tricks | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
-| 32 | Solo 10 | opponents exchange | 10+ tricks | 1 | 1 | 2 | - | - | - | 3 | 5 | 11 |
-| 33 | Solo grande misär | opponents exchange | 13 card closed misär | 1 | 1 | 2 | - | - | - | 3 | - | - |
-| 34 | Solo 11 | opponents exchange | 11+ tricks | 1 | 1 | 2 | - | - | - | 5 | 11 | 21 |
-| 35 | Solo petite misär ouverte | opponents exchangebefore exposure | 12 card open misär | 1 | 1 | 2 | - | - | - | 7 | - | - |
-| 36 | Solo 12 | opponents exchange | 12+ tricks | 1 | 1 | 2 | - | - | - | 11 | 21 | 43 |
-| 37 | Solo grande misär ouverte | opponents exchangebefore exposure | 13 card open misär | 1 | 1 | 2 | - | - | - | 13 | - | - |
-| 38 | Solo Vira | opponents exchange | 13 tricks | 1 | 1 | 2 | - | - | - | 21 | 43 | 85 |
-| 39 | Solo petite misär ouverte royale | opponents exchangeafter exposure | 12 card open misär | 1 | 1 | 2 | - | - | - | 27 | - | - |
-| 40 | Solo grande misär ouverte royale | opponents exchangeafter exposureand may consult | 13 card open misär | 1 | 1 | 2 | - | - | - | 53 | - | - |
+|  | Nom |  | Échange au talon | Objectif du jeu |  | Vers/depuis la cagnotteen unités de Betar |  | Vers/depuis les adversairesen unités de Pinnar |
+| Jeu simple |  | 2e échange | Couleurs Communesou Misär | 2e Préf. | Préf. |
+| gagné | perdu | cod | gagné | perdu | cod |
+|  |
+| 1 | Begär | tout échanger | 6+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 2 | Turné 6 | retourner 1 atout,tout échanger | 6+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 3 | 7-Spel | tout échanger | 7+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 4 | Vingel 6 | retourner 2 atouts,tout échanger | 6+ levées | 1 | 2 | 4 | -1 | 6 | 10 | 0 | 1 | 1 |
+| 5 | Gask, conservant 0 | preneur se défaussede 13,prend le talon | 7+ levées oumisär fermée à 11 | 1 | 1 | 2 | - | - | - | 0 | 0 | 0 |
+| 6 | Gök | preneur prendtout le talon | misär ouverte à 13 | 1 | 2 | 4 | - | - | - | 0 | - | - |
+| 7 | Turné 7 | retourner 1 atout,tout échanger | 7+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
+| 8 | Köpmisär, échangeant 1 | preneur échange 1,adversaires échangent | misär fermée à 13 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 9 | Gask, conservant 1 | preneur se défaussede 12,prend le talon, se défaussede 1 | 8+ levées oumisär fermée à 12 | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
+| 10 | 8-Spel | tout échanger | 8+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
+| 11 | Vingel 7 | retourner 2 atouts,tout échanger | 7+ levées | 1 | 2 | 4 | -1 | 6 | 10 | 1 | 1 | 3 |
+| 12 | Turné 8 | retourner 1 atout,tout échanger | 8+ levées | 2 | 1 | 2 | (a) | 3 | 5 | 1 | 1 | 3 |
+| 13 | Köpmisär, échangeant 2 | preneur échange 2,adversaires échangent | misär fermée à 13 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 14 | Gask, conservant 2 | preneur se défaussede 11,prend le talon, se défaussede 2 | 9+ levées oumisär fermée à 13 | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
+| 15 | 9-Spel | tout échanger | 9+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
+| 16 | Vingel 8 | retourner 2 atouts,tout échanger | 8+ levées | 2 | 2 | 4 | (b) | 6 | 10 | 1 | 3 | 5 |
+| 17 | Köpmisär, échangeant 3 | preneur échange 3,adversaires échangent | misär fermée à 13 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 18 | Gask, conservant 3 | preneur se défaussede 10,prend le talon, se défaussede 3 | 10+ levées oumisär ouverte à 12 | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
+| 19 | Solo 6 | adversaires échangent | 6+ levées | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
+| 20 | Köpmisär, échangeant 4 | preneur échange 4,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 21 | Gask, conservant 4 | preneur se défaussede 9,prend le talon, se défaussede 4 | 11+ levées oumisär ouverte à 13 | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
+| 22 | Tringel 9 | retourner 3 atouts,tout échanger | 9+ levées | 3 | 3 | 6 | (c) | 9 | 15 | 3 | 5 | 11 |
+| 23 | Solo 7 | adversaires échangent | 7+ levées | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
+| 24 | Köpmisär, échangeant 5 | preneur échange 5,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 25 | Gask, conservant 6 | preneur se défaussede 7,prend le talon, se défaussede 6 | 12+ levées | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
+| 26 | Solo 8 | adversaires échangent | 8+ levées | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
+| 27 | Köpmisär, échangeant 6 | preneur échange 6,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 28 | Gask, conservant 5 | preneur se défaussede 8,prend le talon, se défaussede 5 | 12+ levées | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
+| 29 | Solo 9 | adversaires échangent | 9+ levées | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
+| 30 | Solo petite misär | adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | - | - | - | 2 | - | - |
+| 31 | Vira | preneur prendtout le talon | 13 levées | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
+| 32 | Solo 10 | adversaires échangent | 10+ levées | 1 | 1 | 2 | - | - | - | 3 | 5 | 11 |
+| 33 | Solo grande misär | adversaires échangent | misär fermée à 13 | 1 | 1 | 2 | - | - | - | 3 | - | - |
+| 34 | Solo 11 | adversaires échangent | 11+ levées | 1 | 1 | 2 | - | - | - | 5 | 11 | 21 |
+| 35 | Solo petite misär ouverte | adversaires échangentavant l'exposition | misär ouverte à 12 | 1 | 1 | 2 | - | - | - | 7 | - | - |
+| 36 | Solo 12 | adversaires échangent | 12+ levées | 1 | 1 | 2 | - | - | - | 11 | 21 | 43 |
+| 37 | Solo grande misär ouverte | adversaires échangentavant l'exposition | misär ouverte à 13 | 1 | 1 | 2 | - | - | - | 13 | - | - |
+| 38 | Solo Vira | adversaires échangent | 13 levées | 1 | 1 | 2 | - | - | - | 21 | 43 | 85 |
+| 39 | Solo petite misär ouverte royale | adversaires échangentaprès l'exposition | misär ouverte à 12 | 1 | 1 | 2 | - | - | - | 27 | - | - |
+| 40 | Solo grande misär ouverte royale | adversaires échangentaprès l'expositionet peuvent se concerter | misär ouverte à 13 | 1 | 1 | 2 | - | - | - | 53 | - | - |
 
-**Notes on the table**
+**Notes sur le tableau**
 
-**(a)** A declarer who succeeds in a Turné 8 on the second exchange normally receives 1 *bet* for taking 8 tricks and 1 extra *bet* for each trick above 8. Some however play that the declarer gets nothing extra for overtricks, and some play that the declarer who takes 8 or more tricks wins nothing at all.
+**(a)** Un preneur qui réussit un Turné 8 au deuxième échange reçoit normalement 1 *bet* pour avoir pris 8 levées et 1 *bet* supplémentaire pour chaque levée au-dessus de 8. Cependant, certains jouent que le preneur ne reçoit rien de plus pour les sur-levées, et certains jouent que le preneur qui prend 8 levées ou plus ne gagne rien du tout.
 
-**(b)** A declarer who succeeds in a Vingel 8 on the second exchange normally receives nothing for taking 8 tricks and 1 *bet* for each trick above 8. However, some play that the declarer who takes 8 or more tricks wins nothing at all.
+**(b)** Un preneur qui réussit un Vingel 8 au deuxième échange ne reçoit normalement rien pour avoir pris 8 levées et 1 *bet* pour chaque levée au-dessus de 8. Cependant, certains jouent que le preneur qui prend 8 levées ou plus ne gagne rien du tout.
 
-**(c)** A declarer who succeeds in a Tringel 9 on the second exchange normally receives 1 *bet* for taking 9 tricks and 2 *betar* for each trick above 9. However, some play that the declarer receives nothing extra for overtricks and some play that the declarer who takes 9 or more tricks wins nothing at all.
+**(c)** Un preneur qui réussit un Tringel 9 au deuxième échange reçoit normalement 1 *bet* pour avoir pris 9 levées et 2 *betar* pour chaque levée au-dessus de 9. Cependant, certains jouent que le preneur ne reçoit rien de plus pour les sur-levées et certains jouent que le preneur qui prend 9 levées ou plus ne gagne rien du tout.
 
-## Some comments on passing conventions in Vira
+## Quelques commentaires sur les conventions de passe au Vira
 
-The holdings that are required for passing the bid of gök were introduced because the contract was regarded as too easy to make. Although this is the only contract to have such a formal requirement there are also rules of thumb about passing other simple contracts. 
+Les détentions requises pour passer sur l'enchère de gök ont été introduites parce que le contrat était considéré comme trop facile à réussir. Bien que ce soit le seul contrat à avoir une telle exigence formelle, il existe aussi des règles empiriques pour passer sur d'autres contrats simples.
 
-The first to pass over a low trump contract such as begär, turné 6, 7-spel or vingel 6 ought preferably to have three or four stops to pass and the second two or three stops. (A stop is a holding in a suit that is guaranteed eventually to take a trick if another player leads out the suit from the top down - for example K-x or Q-x-x). Lacking such strength it is usually better to continue the bidding. Even though you run some risk of losing your contract the alternative is a much greater probability that someone else will make his contract.
+Le premier à passer sur un contrat d'atout bas tel que begär, turné 6, 7-spel ou vingel 6 devrait idéalement avoir trois ou quatre arrêts pour passer et le deuxième deux ou trois arrêts. (Un arrêt est une détention dans une couleur qui est garantie de gagner finalement une levée si un autre joueur mène la couleur du haut vers le bas — par exemple R-x ou D-x-x). Sans cette force, il est généralement préférable de continuer les enchères. Même si vous prenez un certain risque de perdre votre contrat, l'alternative est une probabilité beaucoup plus grande que quelqu'un d'autre réussisse le sien.
 
-The large payments in the so-called "gambling contracts" of vingel 8 and tringel 9 mean that it can be cheaper to go off in a contract oneself than to let someone else bring home a gambling contract. It is therefore strongly advisable that the first to pass such a contract should have at least three good stops and the second should have two stops.
+Les paiements élevés des soi-disant « contrats de jeu » de vingel 8 et tringel 9 signifient qu'il peut être moins coûteux d'échouer dans son propre contrat que de laisser quelqu'un d'autre réussir un contrat de jeu. Il est donc fortement conseillé que le premier à passer sur un tel contrat ait au moins trois bons arrêts et le deuxième deux arrêts.
 
-In Handbok i Vira (Göran B Nilsson, 1973) the author suggested that these rules of thumb be crystallised into strict conventions and that they be expanded to cover all the contracts up to gask keeping 5, so that a pass would be a guarantee to one's eventual partner of certain holdings. The holdings proposed have proved much too tough. They are difficult to enforce and make the bidding inflexible. However these passing conventions or modifications of them are used in some circles and players should enquire about local practice. The original conventions from Handbok i Vira are listed below.
+Dans le Handbok i Vira (Göran B Nilsson, 1973), l'auteur a suggéré que ces règles empiriques soient formalisées en conventions strictes et qu'elles soient étendues pour couvrir tous les contrats jusqu'à gask conservant 5, de sorte qu'un passe serait une garantie pour le futur partenaire de certaines détentions. Les détentions proposées se sont révélées bien trop strictes. Elles sont difficiles à appliquer et rendent les enchères rigides. Cependant, ces conventions de passe ou des modifications de celles-ci sont utilisées dans certains cercles et les joueurs devraient se renseigner sur la pratique locale. Les conventions originales du Handbok i Vira sont listées ci-dessous.
 
-| Begär | ... | Stops in all 4 suits |
-| 7-Spel | ... | First: Stops in Preference, 2nd Preference and one Common suitSecond: Stops in both Common suits |
-| 8,9-Spel | ... | First: Stops in Preference and Second PreferenceSecond: Stops in both Common suits |
-| Turné 6 | ... | Stops in 3 suits |
-| Turné 7 | ... | Stops in any two suits |
-| Turné 8 | ... | Stops in any two suits |
-| Vingel 6 | ... | Two double stops |
-| Vingel 7 | ... | First: two double stopsSecond: One double stop and two stops |
-| Vingel 8 | ... | First: two double stopsSecond: One double stop and one stop |
-| Tringel 9 | ... | First: Stops in any three suitsSecond: Stops in any two suits |
-| Köpmisär | ... | A low guard, or two "half low guards" |
-| Solo 6-8 | ... | Should not be passed |
-| Gask, keeping 0-4 | ... | A stop and "half a low guard" |
-| Gask, keeping 6,5 | ... | A stop in one suit |
+| Begär | ... | Arrêts dans les 4 couleurs |
+| 7-Spel | ... | Premier : Arrêts en Préférence, 2e Préférence et une Couleur CommuneDeuxième : Arrêts dans les deux Couleurs Communes |
+| 8,9-Spel | ... | Premier : Arrêts en Préférence et Seconde PréférenceDeuxième : Arrêts dans les deux Couleurs Communes |
+| Turné 6 | ... | Arrêts dans 3 couleurs |
+| Turné 7 | ... | Arrêts dans deux couleurs quelconques |
+| Turné 8 | ... | Arrêts dans deux couleurs quelconques |
+| Vingel 6 | ... | Deux doubles arrêts |
+| Vingel 7 | ... | Premier : deux doubles arrêtsDeuxième : Un double arrêt et deux arrêts |
+| Vingel 8 | ... | Premier : deux doubles arrêtsDeuxième : Un double arrêt et un arrêt |
+| Tringel 9 | ... | Premier : Arrêts dans trois couleurs quelconquesDeuxième : Arrêts dans deux couleurs quelconques |
+| Köpmisär | ... | Une garde basse, ou deux « demi-gardes basses » |
+| Solo 6-8 | ... | Ne devrait pas être passé |
+| Gask, conservant 0-4 | ... | Un arrêt et « une demi-garde basse » |
+| Gask, conservant 6,5 | ... | Un arrêt dans une couleur |
 
-## Historical note on the payments
+## Note historique sur les paiements
 
-The payments of *pinnar* in Vira may seem somewhat irregular, but they are derived from a straightforward system. In the early forms of the game the lowest unit of payment was a so-called **poäng** (a Swedish spelling of the French word "point"). The payments for a game with Second Preference for trump were always twice the rate for a Common trump Suit and for Preference they were four times. During the course of the 19th century the use of the chips changed. The following exchange rate is given in the Illustrerad spelbok of 1888: one *pinne* represented 1 point, one round chip 12 points and one *bet* 48 points. To avoid having too many unnecessary exchanges, bronze one and two öre coins were often used as extra chips for 6 points.
+Les paiements de *pinnar* au Vira peuvent sembler quelque peu irréguliers, mais ils dérivent d'un système simple. Dans les formes anciennes du jeu, l'unité de paiement la plus basse était un **poäng** (une orthographe suédoise du mot français « point »). Les paiements pour un jeu avec la Seconde Préférence comme atout étaient toujours le double du taux pour une Couleur Commune et pour la Préférence ils étaient quatre fois. Au cours du XIXe siècle, l'utilisation des jetons a changé. Le taux de change suivant est donné dans l'Illustrerad spelbok de 1888 : un *pinne* représentait 1 point, un jeton rond 12 points et un *bet* 48 points. Pour éviter trop d'échanges inutiles, des pièces de bronze de un et deux öre étaient souvent utilisées comme jetons supplémentaires pour 6 points.
 
-About the turn of the century Vira players began to tire of the points, which were in any case more or less worthless in comparison with the *bet*. The *pinne* was given a value of six points and became the lowest unit of payment, while the round chips and *betar* retained their values.
+Vers le tournant du siècle, les joueurs de Vira ont commencé à se lasser des points, qui étaient de toute façon plus ou moins sans valeur comparés au *bet*. Le *pinne* s'est vu attribuer une valeur de six points et est devenu l'unité de paiement la plus basse, tandis que les jetons ronds et les *betar* ont conservé leurs valeurs.
 
-The payments for the contracts were rounded to the nearest number of *pinnar*. For example the payment for begär in a Common trump suit (1 point) rounded to 0 *pinnar*, that in Second Preference (2 points) also to 0 *pinnar* and that for Preference (4 points) to 1 *pinne*. 
+Les paiements pour les contrats ont été arrondis au nombre de *pinnar* le plus proche. Par exemple, le paiement pour un begär dans une couleur commune (1 point) a été arrondi à 0 *pinnar*, celui en Seconde Préférence (2 points) également à 0 *pinnar* et celui pour la Préférence (4 points) à 1 *pinne*.
 
-The original use of the number 48 reflects the fact that before decimalisation in 1855 Sweden reckoned 48 skilling to the Riksdaler, and denominations down to 1/12 skilling were being issued at the beginning of the nineteenth century.
+L'utilisation originale du nombre 48 reflète le fait qu'avant la décimalisation en 1855, la Suède comptait 48 skilling pour un Riksdaler, et des dénominations allant jusqu'à 1/12 de skilling étaient émises au début du XIXe siècle.
 
-## Note on the evolution of Vira bid-tables
+## Note sur l'évolution des tableaux d'enchères du Vira
 
-*(information from Sten Helmfrid)*
+*(information de Sten Helmfrid)*
 
-Vira evolved from an earlier game "Lomber Boston or improved Exchange-Boston", described in 1809 in Reglor för Kort-Spelare, the alterations perhaps being made in the foundry settlement named Vira Bruk (Vira Works) on the Vira stream. The earliest known bid-table for Vira was published in 1818 in the book Lyckans Talisman. Solo Vira was the highest bid, just as in the most recent bid-tables, while Vira was next, greatly overvaluing the difficulty of this contract. Contracts such as gök, vingel, tringel and gask keeping 0 had not yet seen the light of day. Nor were any köpmisär contracts to be found, but there were two contracts called little and great misär with exchange, where the player could exchange any number of cards he chose. This bid-table survived with some minor variations until about 1880, when a new and greatly revised bid-table began to spread. Gök, vingel 6 and vingel 7 had now begun to be accepted in most circles, the modern köpmisär contracts were devised and solo grande misär ouverte royale was placed (somewhat unmathematically) highest in the bid-table. This version must be regarded as the truly classical bid-table.
+Le Vira a évolué à partir d'un jeu antérieur « Lomber Boston ou Exchange-Boston amélioré », décrit en 1809 dans Reglor för Kort-Spelare, les modifications ayant peut-être été apportées dans la localité industrielle nommée Vira Bruk (les Forges de Vira) sur la rivière Vira. Le plus ancien tableau d'enchères connu pour le Vira a été publié en 1818 dans le livre Lyckans Talisman. Le Solo Vira était l'enchère la plus élevée, tout comme dans les tableaux d'enchères les plus récents, tandis que le Vira venait ensuite, surévaluant grandement la difficulté de ce contrat. Des contrats comme gök, vingel, tringel et gask conservant 0 n'avaient pas encore vu le jour. On ne trouvait pas non plus de contrats de köpmisär, mais il existait deux contrats appelés petite et grande misär avec échange, où le joueur pouvait échanger le nombre de cartes de son choix. Ce tableau d'enchères a subsisté avec quelques variations mineures jusqu'en 1880 environ, date à laquelle un nouveau tableau considérablement révisé a commencé à se répandre. Gök, vingel 6 et vingel 7 commençaient alors à être acceptés dans la plupart des cercles, les contrats modernes de köpmisär ont été conçus et le solo grande misär ouverte royale a été placé (de manière quelque peu mathématiquement incorrecte) au sommet du tableau d'enchères. Cette version doit être considérée comme le véritable tableau d'enchères classique.
 
-At the beginning of the 20th century a new series of contracts was devised: gask keeping 0, turné 8, vingel 8 and tringel 9, bringing with them the additional novelty that declarer could take more than one *bet* from the pot for a single contract. The reformist variations of Vira which included the new contracts are usually called norrlandsvira as opposed to the more traditional variants.
+Au début du XXe siècle, une nouvelle série de contrats a été conçue : gask conservant 0, turné 8, vingel 8 et tringel 9, apportant la nouveauté supplémentaire que le preneur pouvait gagner plus d'un *bet* de la cagnotte pour un seul contrat. Les variantes réformistes du Vira incluant les nouveaux contrats sont généralement appelées norrlandsvira par opposition aux variantes plus traditionnelles.
 
-At the beginning of the 1920s the so-called hasardvira began to spread. A series of contracts of dubious character was introduced: kvadruppel, pingel, karusell and gök 15, unlimited further exchanges were introduced and the payments to the pot for all the hazard-bids went sky high. During this period Vira began to lose ground in favour of bridge, especially contract bridge. After the second world war the card-makers Öberg published their booklet"Viraboken: Fullständiga viraregler" which became a standardising influence in the following decades. Öbergsvira is based on norrlandsvira, i.e. the reformist variations from the beginning of the century. Most of the hazard-bids had been cleaned out, and the payments for those that were retained were drastically reduced. 
+Au début des années 1920, le soi-disant hasardvira a commencé à se répandre. Une série de contrats de caractère douteux a été introduite : kvadruppel, pingel, karusell et gök 15, des échanges illimités supplémentaires ont été introduits et les paiements à la cagnotte pour tous les contrats de hasard ont grimpé en flèche. Au cours de cette période, le Vira a commencé à perdre du terrain au profit du bridge, en particulier du bridge contractuel. Après la Seconde Guerre mondiale, le fabricant de cartes Öberg a publié son livret « Viraboken: Fullständiga viraregler » qui est devenu une force de normalisation dans les décennies suivantes. L'Öbergsvira est basée sur le norrlandsvira, c'est-à-dire les variantes réformistes du début du siècle. La plupart des contrats de hasard ont été éliminés, et les paiements pour ceux qui ont été conservés ont été considérablement réduits.
 
-Many Vira societies had realised the illogicality of putting solo grande misär ouverte royale above solo Vira in the bid-table. It is easier to lose all the tricks than to win all the tricks, since winning a trick requires that one has played the highest card in it, whereas playing either the lowest or the next lowest card is enough to lose a trick. In the mid 1950s the Falu Vira club therefore arranged to rank solo in accordance with the statistics of games made which had been being compiled for a long time at Falun and Sundsvall. Unfortunately they did not make this reform starting from Öbergsvira, but from an older table with a less logical ordering of the lower contracts in the bid-table. In the most recent decades the Falutabell has, along with Öbergs', been the table most widely used. The Stockholm Vira Society (Stockholms Wirasällskap)'s new bid-table, which was test-played during 1998 and was accepted at the annual meeting in January 1999 is a fusing of these two tables.
+De nombreuses sociétés Vira avaient réalisé l'illogisme de placer le solo grande misär ouverte royale au-dessus du solo Vira dans le tableau d'enchères. Il est plus facile de perdre toutes les levées que de les gagner toutes, car gagner une levée nécessite d'avoir joué la carte la plus haute dans celle-ci, alors que jouer la carte la plus basse ou l'avant-dernière suffit pour perdre une levée. Au milieu des années 1950, le club Vira de Falun a donc organisé le classement des solos conformément aux statistiques de parties jouées qui avaient été compilées depuis longtemps à Falun et Sundsvall. Malheureusement, ils n'ont pas fait cette réforme à partir de l'Öbergsvira, mais à partir d'un tableau plus ancien avec un ordonnancement moins logique des contrats inférieurs. Dans les dernières décennies, le tableau de Falun, avec celui d'Öberg, a été le tableau le plus utilisé. Le nouveau tableau d'enchères de la Société Vira de Stockholm (Stockholms Wirasällskap), qui a été testé en jeu en 1998 et adopté à l'assemblée générale de janvier 1999, est une fusion de ces deux tableaux.
 
-### The new bid table of the Stockholms Wirasällskap
+### Le nouveau tableau d'enchères du Stockholms Wirasällskap
 
-|   | Name | | Stock exchange | Game objective | | To or from the poolin units of Betar | | To/from opponentsin units of Pinnar |
-| Simple game | | 2nd exchange | CommonSuitsor Misär | 2ndPref. | Pref |
-| won | lost | cod | won | lost | cod |
-| |
-| 1 | Begär | all exchange | 6+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 2 | Turné 6 | turn 1 trump,all exchange | 6+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 3 | 7-Spel | all exchange | 7+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
-| 4 | Vingel 6 | turn 2 trumps,all exchange | 6+ tricks | 1 | 2 | 4 | 0 | 6 | 10 | 0 | 1 | 1 |
-| 5 | Gask, keeping 0 | declarer discards 13,takes stock | 7+ tricks or11 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
-| 6 | Gök | declarer takeswhole stock | 13 card open misär | 1 | 2 | 4 | - | - | - | 0 | - | - |
-| 7 | Turné 7 | turn 1 trump,all exchange | 7+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
-| 8 | Köpmisär, exchanging 1 | declarer exchanges 1,opponents exchange | 11 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 9 | Gask, keeping 1 | declarer discards 12,takes stock, discards 1 | 8+ tricks or12 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
-| 10 | 8-Spel | all exchange | 8+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
-| 11 | Vingel 7 | turn 2 trumps,all exchange | 7+ tricks | 1 | 2 | 4 | 0 | 6 | 10 | 1 | 1 | 3 |
-| 12 | Turné 8 | turn 1 trump,all exchange | 8+ tricks | 2 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
-| 13 | Köpmisär, exchanging 2 | declarer exchanges 2,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 14 | Gask, keeping 2 | declarer discards 11,takes stock, discards 2 | 9+ tricks or13 card closed misär | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
-| 15 | Solo 6 | opponents exchange | 6+ tricks | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
-| 16 | Vingel 8 | turn 2 trumps,all exchange | 8+ tricks | 2 | 2 | 4 | 0 | 6 | 10 | 1 | 3 | 5 |
-| 17 | Köpmisär, exchanging 3 | declarer exchanges 3,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
-| 18 | Gask, keeping 3 | declarer discards 10,takes stock, discards 3 | 10+ tricks or12 card open misär | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
-| 19 | 9-Spel | all exchange | 9+ tricks | 1 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
-| 20 | Köpmisär, exchanging 4 | declarer exchanges 4,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 21 | Gask, keeping 4 | declarer discards 9,takes stock, discards 4 | 11+ tricks or13 card open misär | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
-| 22 | Tringel 9 | turn 3 trumps,all exchange | 9+ tricks | 3 | 3 | 6 | 1 | 9 | 15 | 3 | 5 | 11 |
-| 23 | Köpmisär, exchanging 5 | declarer exchanges 5,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 24 | Gask, keeping 6 | declarer discards 7,takes stock, discards 6 | 12+ tricks | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
-| 25 | Solo 7 | opponents exchange | 7+ tricks | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
-| 26 | Köpmisär, exchanging 6 | declarer exchanges 6,opponents exchange | 12 card closed misär | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
-| 27 | Gask, keeping 5 | declarer discards 8,takes stock, discards 5 | 12+ tricks | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
-| 28 | Solo 8 | opponents exchange | 8+ tricks | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
-| 29 | Vira | declarer takeswhole stock | 13 tricks | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
-| 30 | Solo petite misär | opponents exchange | 12 card closed misär | 1 | 1 | 2 | - | - | - | 2 | - | - |
-| 31 | Solo 9 | opponents exchange | 9+ tricks | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
-| 32 | Solo grande misär | opponents exchange | 13 card closed misär | 1 | 1 | 2 | - | - | - | 4 | - | - |
-| 33 | Solo 10 | opponents exchange | 10+ tricks | 1 | 1 | 2 | - | - | - | 4 | 8 | 16 |
-| 34 | Solo petitemisär ouverte | opponents exchangebefore exposure | 12 card open misär | 1 | 1 | 2 | - | - | - | 8 | - | - |
-| 35 | Solo petite misärouverte royale | opponents exchangeafter exposure | 12 card open misär | 1 | 1 | 2 | - | - | - | 16 | - | - |
-| 36 | Solo 11 | opponents exchange | 11+ tricks | 1 | 1 | 2 | - | - | - | 8 | 16 | 32 |
-| 37 | Solo grandemisär ouverte | opponents exchangebefore exposure | 13 card open misär | 1 | 1 | 2 | - | - | - | 24 | - | - |
-| 38 | Solo grande misärouverte royale | opponents exchangeafter exposure | 13 card open misär | 1 | 1 | 2 | - | - | - | 32 | - | - |
-| 39 | Solo 12 | opponents exchange | 12+ tricks | 1 | 1 | 2 | - | - | - | 16 | 32 | 64 |
-| 40 | Solo Vira | opponents exchange | 13 tricks | 1 | 1 | 2 | - | - | - | 32 | 64 | 128 |
+|  | Nom |  | Échange au talon | Objectif du jeu |  | Vers/depuis la cagnotteen unités de Betar |  | Vers/depuis les adversairesen unités de Pinnar |
+| Jeu simple |  | 2e échange | Couleurs Communesou Misär | 2e Préf. | Préf. |
+| gagné | perdu | cod | gagné | perdu | cod |
+|  |
+| 1 | Begär | tout échanger | 6+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 2 | Turné 6 | retourner 1 atout,tout échanger | 6+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 3 | 7-Spel | tout échanger | 7+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 0 | 1 |
+| 4 | Vingel 6 | retourner 2 atouts,tout échanger | 6+ levées | 1 | 2 | 4 | 0 | 6 | 10 | 0 | 1 | 1 |
+| 5 | Gask, conservant 0 | preneur se défaussede 13,prend le talon | 7+ levées oumisär fermée à 11 | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
+| 6 | Gök | preneur prendtout le talon | misär ouverte à 13 | 1 | 2 | 4 | - | - | - | 0 | - | - |
+| 7 | Turné 7 | retourner 1 atout,tout échanger | 7+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
+| 8 | Köpmisär, échangeant 1 | preneur échange 1,adversaires échangent | misär fermée à 11 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 9 | Gask, conservant 1 | preneur se défaussede 12,prend le talon, se défaussede 1 | 8+ levées oumisär fermée à 12 | 1 | 1 | 2 | - | - | - | 0 | 0 | 1 |
+| 10 | 8-Spel | tout échanger | 8+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 0 | 1 | 1 |
+| 11 | Vingel 7 | retourner 2 atouts,tout échanger | 7+ levées | 1 | 2 | 4 | 0 | 6 | 10 | 1 | 1 | 3 |
+| 12 | Turné 8 | retourner 1 atout,tout échanger | 8+ levées | 2 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
+| 13 | Köpmisär, échangeant 2 | preneur échange 2,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 14 | Gask, conservant 2 | preneur se défaussede 11,prend le talon, se défaussede 2 | 9+ levées oumisär fermée à 13 | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
+| 15 | Solo 6 | adversaires échangent | 6+ levées | 1 | 1 | 2 | - | - | - | 0 | 1 | 1 |
+| 16 | Vingel 8 | retourner 2 atouts,tout échanger | 8+ levées | 2 | 2 | 4 | 0 | 6 | 10 | 1 | 3 | 5 |
+| 17 | Köpmisär, échangeant 3 | preneur échange 3,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 0 | - | - |
+| 18 | Gask, conservant 3 | preneur se défaussede 10,prend le talon, se défaussede 3 | 10+ levées oumisär ouverte à 12 | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
+| 19 | 9-Spel | tout échanger | 9+ levées | 1 | 1 | 2 | 0 | 3 | 5 | 1 | 1 | 3 |
+| 20 | Köpmisär, échangeant 4 | preneur échange 4,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 21 | Gask, conservant 4 | preneur se défaussede 9,prend le talon, se défaussede 4 | 11+ levées oumisär ouverte à 13 | 1 | 1 | 2 | - | - | - | 1 | 1 | 3 |
+| 22 | Tringel 9 | retourner 3 atouts,tout échanger | 9+ levées | 3 | 3 | 6 | 1 | 9 | 15 | 3 | 5 | 11 |
+| 23 | Köpmisär, échangeant 5 | preneur échange 5,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 24 | Gask, conservant 6 | preneur se défaussede 7,prend le talon, se défaussede 6 | 12+ levées | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
+| 25 | Solo 7 | adversaires échangent | 7+ levées | 1 | 1 | 2 | - | - | - | 0 | 1 | 2 |
+| 26 | Köpmisär, échangeant 6 | preneur échange 6,adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | 0 | 3 | 5 | 1 | - | - |
+| 27 | Gask, conservant 5 | preneur se défaussede 8,prend le talon, se défaussede 5 | 12+ levées | 1 | 1 | 2 | - | - | - | 1 | 3 | 5 |
+| 28 | Solo 8 | adversaires échangent | 8+ levées | 1 | 1 | 2 | - | - | - | 1 | 2 | 4 |
+| 29 | Vira | preneur prendtout le talon | 13 levées | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
+| 30 | Solo petite misär | adversaires échangent | misär fermée à 12 | 1 | 1 | 2 | - | - | - | 2 | - | - |
+| 31 | Solo 9 | adversaires échangent | 9+ levées | 1 | 1 | 2 | - | - | - | 2 | 4 | 8 |
+| 32 | Solo grande misär | adversaires échangent | misär fermée à 13 | 1 | 1 | 2 | - | - | - | 4 | - | - |
+| 33 | Solo 10 | adversaires échangent | 10+ levées | 1 | 1 | 2 | - | - | - | 4 | 8 | 16 |
+| 34 | Solo petitemisär ouverte | adversaires échangentavant l'exposition | misär ouverte à 12 | 1 | 1 | 2 | - | - | - | 8 | - | - |
+| 35 | Solo petite misärouverte royale | adversaires échangentaprès l'exposition | misär ouverte à 12 | 1 | 1 | 2 | - | - | - | 16 | - | - |
+| 36 | Solo 11 | adversaires échangent | 11+ levées | 1 | 1 | 2 | - | - | - | 8 | 16 | 32 |
+| 37 | Solo grandemisär ouverte | adversaires échangentavant l'exposition | misär ouverte à 13 | 1 | 1 | 2 | - | - | - | 24 | - | - |
+| 38 | Solo grande misärouverte royale | adversaires échangentaprès l'exposition | misär ouverte à 13 | 1 | 1 | 2 | - | - | - | 32 | - | - |
+| 39 | Solo 12 | adversaires échangent | 12+ levées | 1 | 1 | 2 | - | - | - | 16 | 32 | 64 |
+| 40 | Solo Vira | adversaires échangent | 13 levées | 1 | 1 | 2 | - | - | - | 32 | 64 | 128 |
 
-## Some advice on bidding
+## Quelques conseils sur les enchères
 
-There are two ways of making profit in vira. Either you win contracts of your own or you force your opponents to become declarer in contracts that they cannot win. There is no general rule for when to apply which strategy, but a surprisingly large part of your profits will come from the latter method. Therefore, the defensive value of your hand is just as important as the offensive value in the bidding. Here are some basic pieces of advice.
+Il y a deux façons de faire des profits au Vira. Soit vous gagnez vos propres contrats, soit vous forcez vos adversaires à devenir preneur dans des contrats qu'ils ne peuvent pas gagner. Il n'y a pas de règle générale pour quand appliquer quelle stratégie, mais une proportion étonnamment grande de vos profits viendra de la deuxième méthode. Par conséquent, la valeur défensive de votre main est aussi importante que la valeur offensive lors des enchères. Voici quelques conseils de base.
 
-**Don't pass too early with weak defensive cards. ** 
-Below **7-spel**, you should not pass without good passing cards. You should not pass a 7-spel either without some defensive strength, if you are in a position to hold it because you are forehand or bid it in colour. 
-**Vingel 6** and **gök** are rather easy for the declarer to win unless the opponents have strong defensive cards for a trump game and a misär, respectively. On the other hand, the declarer will be penalised by two bets to the pot for losing these contracts, and there are no really easy contracts left that outbid them. 
-The decision whether to pass or bid over **vingel 6** is a difficult balance between your chances to make your own contract and the risk that the vingel 6 bidder will make his contract if you let him. 
-Because of the restrictions on passing over **gök** without low guards, it is cheaper to go off in a contract of your own than to let the declarer make his contract and at the same time pay a bet as penalty for not following the convention. Therefore, you should always continue the bidding after gök when you have weak defensive cards for misär play. 
-For higher contracts, always keep the defensive value of your hand in mind when you bid, but don't continue the bidding unless you have at least fairly good cards for a contract of your own.
-**Beware of passing contracts that are easy to make or have a large payment.** 
-Solo 6 and all other low solo contracts that still can be outbid by gask and köpmisär should be outbid, if there is some chance to make a contract of your own. The declarer is completely independent of the talon, and such solo contracts will in general be made easily if left in.
-Take the payment for the bid into account when you pass vingel 8 and tringel 9. In general, it is cheaper to lose a contract of your own than to let someone else make one of these contracts, particularly if you play one of the versions in which the declarer gets extra betar for overtricks after a second exchange. For instance, at a table for three, it will cost you 19 pinnar if the declarer makes tringel 9 in preference (after the first exchange), 13 pinnar in second preference and 11 pinnar in a common suit. This should be compared to the cost of surrendering a gask or köpmisär yourself, which is only 7 pinnar. Therefore, avoid passing these bids without good defensive cards.
-**Do pass when you believe that the declarer will not make his contract** (unless you have really good cards for a contract of your own). 
-This way you make a small but a comparatively safe profit.
-**When bidding trump games with exchange, bid at the lowest possible level** 
-Games such as begär, 7-, 8- and 9-spel, turné and vingel should always be bid at the lowest legal level. The extra profit in payment of pinnar is too small to motivate the risk of playing these contracts at a higher level than necessary. In vingel 8 and tringel 9, on the other hand, the reward is worthwhile.
-**Pay attention to the bids of other players** 
-This will help you to evaluate how the cards are distributed around the table and what cards are left in the talon. Bids such as turné or vingel require strength in many suits and usually imply that there are weak cards in the talon, and that you can expect little support for trump contracts of your own. When your opponents bid köpmisär and gask, on the other hand, it is a sign of that they are weak. You may find that little extra help in the talon that you need for a successful trump contract.
-**Make bids that give away as little information as possible about your hand.**
-This is especially important at the start of the bidding when the chance that you will become declarer is not that large. Begin your bidding with begär if you are forehand, even if you have cards that are suitable for turné or vingel.
-**Adapt to the skill level of the other players.** 
-If your opponents are good players, bid carefully; if they are poor players, bid aggressively. Adapt your evaluation of their bids to their habits. Vingel 6 may mean something completely different from an optimistic player than from a careful one.
-**Take the payments of pinnar into account** if you are considering bidding vira, gask på 6 or 5 or tringel 9. 
-A vira that you aim to make in preference can be bid with less good cards than a vira in simple suits. If the talon is good and the vira succeeds you receive the extra pinnar for preference, but if you pick up a bad talon you can reduce your loss by announcing a simple suit and surrendering.
+**Ne passez pas trop tôt avec des cartes défensives faibles.**
+En dessous de **7-spel**, vous ne devriez pas passer sans de bonnes cartes pour passer. Vous ne devriez pas non plus passer un 7-spel sans une certaine force défensive, si vous êtes en position de le maintenir parce que vous êtes forehand ou que vous l'enchérissez en couleur.
+**Vingel 6** et **gök** sont assez faciles à gagner pour le preneur à moins que les adversaires n'aient de solides cartes défensives pour un jeu d'atout et une misär respectivement. D'un autre côté, le preneur sera pénalisé de deux bets dans la cagnotte pour avoir perdu ces contrats, et il n'y a plus de contrats vraiment faciles qui les surclassent.
+La décision de passer ou de surenchérir sur **vingel 6** est un équilibre difficile entre vos chances de réussir votre propre contrat et le risque que l'enchérisseur de vingel 6 réussisse le sien si vous le laissez faire.
+En raison des restrictions pour passer sur **gök** sans gardes basses, il est moins coûteux d'échouer dans son propre contrat que de laisser le preneur réussir le sien tout en payant un bet en pénalité pour ne pas avoir suivi la convention. Par conséquent, vous devriez toujours continuer les enchères après gök lorsque vous avez de faibles cartes défensives pour un jeu de misär.
+Pour les contrats supérieurs, gardez toujours à l'esprit la valeur défensive de votre main lorsque vous enchérissez, mais ne continuez pas les enchères à moins d'avoir au moins de fairly bonnes cartes pour un contrat à vous.
+**Méfiez-vous de passer sur des contrats faciles à réussir ou ayant un paiement élevé.**
+Le Solo 6 et tous les autres contrats solo bas qui peuvent encore être surclassés par gask et köpmisär devraient être surclassés, s'il y a une chance de réussir un contrat à vous. Le preneur est totalement indépendant du talon, et de tels contrats solo seront en général facilement réussis si on les laisse.
+Tenez compte du paiement de l'enchère lorsque vous passez sur vingel 8 et tringel 9. En général, il est moins coûteux de perdre un contrat à vous que de laisser quelqu'un d'autre réussir l'un de ces contrats, particulièrement si vous jouez l'une des versions où le preneur obtient des betar supplémentaires pour les sur-levées après un deuxième échange. Par exemple, à une table de trois, cela vous coûtera 19 pinnar si le preneur réussit un tringel 9 en Préférence (après le premier échange), 13 pinnar en Seconde Préférence et 11 pinnar en couleur commune. Cela doit être comparé au coût d'abandonner vous-même un gask ou un köpmisär, qui n'est que de 7 pinnar. Par conséquent, évitez de passer sur ces enchères sans de bonnes cartes défensives.
+**Passez quand vous croyez que le preneur ne réussira pas son contrat** (sauf si vous avez de très bonnes cartes pour un contrat à vous).
+De cette façon, vous faites un petit profit mais relativement sûr.
+**Lorsque vous enchérissez des jeux d'atout avec échange, enchérissez au niveau le plus bas possible.**
+Les jeux comme begär, 7-, 8- et 9-spel, turné et vingel devraient toujours être enchéris au niveau légal le plus bas. Le profit supplémentaire en paiement de pinnar est trop faible pour motiver le risque de jouer ces contrats à un niveau supérieur à celui nécessaire. Pour vingel 8 et tringel 9 en revanche, la récompense en vaut la peine.
+**Prêtez attention aux enchères des autres joueurs.**
+Cela vous aidera à évaluer comment les cartes sont distribuées autour de la table et quelles cartes restent dans le talon. Des enchères comme turné ou vingel nécessitent de la force dans plusieurs couleurs et impliquent généralement qu'il y a des cartes faibles dans le talon, et que vous pouvez espérer peu de soutien pour vos propres contrats d'atout. Quand vos adversaires enchérissent köpmisär et gask, c'est au contraire un signe de faiblesse. Vous pourrez peut-être trouver l'aide supplémentaire dans le talon dont vous avez besoin pour un contrat d'atout réussi.
+**Faites des enchères qui révèlent le moins possible d'informations sur votre main.**
+Ceci est particulièrement important au début des enchères quand la probabilité que vous deveniez preneur n'est pas très élevée. Commencez vos enchères avec begär si vous êtes forehand, même si vous avez des cartes adaptées pour turné ou vingel.
+**Adaptez-vous au niveau de compétence des autres joueurs.**
+Si vos adversaires sont de bons joueurs, enchérissez avec prudence ; s'ils sont de mauvais joueurs, enchérissez de manière agressive. Adaptez votre évaluation de leurs enchères à leurs habitudes. Vingel 6 peut signifier quelque chose de complètement différent venant d'un joueur optimiste que d'un joueur prudent.
+**Tenez compte des paiements de pinnar** si vous envisagez d'enchérir vira, gask på 6 ou 5, ou tringel 9.
+Un vira que vous visez en Préférence peut être enchéri avec des cartes moins bonnes qu'un vira en couleurs simples. Si le talon est bon et que le vira réussit, vous recevez les pinnar supplémentaires pour la Préférence, mais si vous tirez un mauvais talon, vous pouvez réduire votre perte en annonçant une couleur simple et en abandonnant.
 
-### Some comments on the offensive value of a hand
+### Quelques commentaires sur la valeur offensive d'une main
 
-**Trump games**
-A general rule of thumb says that for trump games with exchange from the stock, which are the most frequently bid contracts, you have a good chance of winning at the 6- or 7-trick level if your original hand is not more than three "safe" tricks short of the number you require. At the 8- or 9-trick level, you usually exchange fewer cards with the talon and your original hand should be only two tricks short. As "safe" tricks, you can count winning trump cards, aces, and kings accompanied by the ace of the same suit. Subtract one trick each if you don't have the ace, king, queen or jack of your intended trump suit. According this rule of thumb, you need three safe tricks in your original hand for begär, four for 7-spel, six for 8-spel and seven for 9-spel.
+**Jeux d'atout**
+Une règle empirique générale dit que pour les jeux d'atout avec échange au talon, qui sont les contrats les plus fréquemment enchéris, vous avez de bonnes chances de gagner au niveau de 6 ou 7 levées si votre main initiale ne manque pas de plus de trois levées « sûres » du nombre requis. Au niveau de 8 ou 9 levées, vous échangez généralement moins de cartes avec le talon et votre main initiale ne devrait manquer que de deux levées. Comme levées « sûres », vous pouvez compter les cartes gagnantes d'atout, les as et les rois accompagnés de l'as de la même couleur. Soustrayez une levée pour chaque carte manquante si vous n'avez pas l'as, le roi, la dame ou le valet de votre couleur d'atout envisagée. Selon cette règle empirique, vous avez besoin de trois levées sûres dans votre main initiale pour begär, quatre pour 7-spel, six pour 8-spel et sept pour 9-spel.
 
 **Turné, Vingel, Tringel**
-If you are going to play turné, you need at least three or four potential trump suits to keep the risk in the selection of trumps at a reasonable level. You should have the minimum number of safe tricks no matter which one of these suits is turned as trumps. In vingel 6 or 7, you need two or three possible trump suits, and in vingel 8 two of them. In tringel 9 you need either two strong suits, in which case no competent player will ever pass your bid, or one strong suit, which is really risky. This is truly a gambling contract!
-Notice that although vingel is easier to win than turné for the same number of tricks, vingel ranks higher in the bidding because you incur a larger penalty if you lose.
+Si vous allez jouer turné, vous avez besoin d'au moins trois ou quatre couleurs d'atout potentielles pour maintenir le risque de sélection des atouts à un niveau raisonnable. Vous devriez avoir le nombre minimum de levées sûres quelle que soit la couleur qui sera retournée comme atout. En vingel 6 ou 7, vous avez besoin de deux ou trois couleurs d'atout possibles, et en vingel 8 de deux d'entre elles. En tringel 9, vous avez besoin soit de deux couleurs fortes, auquel cas aucun joueur compétent ne passera jamais votre enchère, soit d'une couleur forte, ce qui est vraiment risqué. C'est véritablement un contrat de jeu !
+Notez que bien que vingel soit plus facile à gagner que turné pour le même nombre de levées, vingel se classe plus haut dans les enchères car vous encourez une pénalité plus importante si vous perdez.
 **Gask**
-In gask, you need at least the number of top cards corresponding to the level of the gask. For instance, the best hand for bidding gask keeping 3 is ace, king, and queen in one suit. However, remember that there is really no good hand for gask unless you believe that you will get help from the talon. It is difficult to bid gask with the intention of playing it in misär, but it could sometimes happen if you want to outbid a trump bid or if your opponents don't have the strength to pass misär bids such as gök. You should in that case have twos and cards in suit from the 2.
+Au gask, vous avez besoin d'au moins le nombre de cartes supérieures correspondant au niveau du gask. Par exemple, la meilleure main pour enchérir gask conservant 3 est as, roi et dame dans une couleur. Cependant, rappelez-vous qu'il n'y a vraiment pas de bonne main pour le gask à moins que vous ne croyiez que vous obtiendrez de l'aide du talon. Il est difficile d'enchérir gask avec l'intention de le jouer en misär, mais cela peut parfois arriver si vous voulez surclasser une enchère d'atout ou si vos adversaires n'ont pas la force de passer les enchères de misär telles que gök. Vous devriez dans ce cas avoir des deux et des cartes en couleur à partir du 2.
 **Vira**
-Typical hands for a bid of vira would be two good five-card suits to the A-K-Q, or a single six-card suit to the A-K-Q-J with three other aces. However, as in gask contracts, the strength required strongly depends on the expected support from the talon. Don't expect to find your missing aces in the talon. If you have a long suit headed by a king, the chance is only one out of three that the ace will be in the talon.
+Des mains typiques pour une enchère de vira seraient deux couleurs de cinq cartes solides jusqu'à A-R-D, ou une seule couleur de six cartes jusqu'à A-R-D-V avec trois autres as. Cependant, comme pour les contrats de gask, la force requise dépend fortement du soutien attendu du talon. N'espérez pas trouver vos as manquants dans le talon. Si vous avez une couleur longue menée par un roi, la chance n'est que d'une sur trois que l'as soit dans le talon.
 **Gök**
-To bid gök with a good prospect of winning, you need two 2's in your original hand, and at least two more low cards (3's, 4's, 5's or 6's) in each of these suits. Note, however, that 2-5-6 is not a solid basis for a suit, as the whole lowguard 3-4 is missing. Don't expect to find missing twos in the talon.
+Pour enchérir gök avec de bonnes perspectives de réussite, vous avez besoin de deux 2 dans votre main initiale, et au moins deux autres cartes basses (3, 4, 5 ou 6) dans chacune de ces couleurs. Notez cependant que 2-5-6 n'est pas une base solide pour une couleur, car toute la garde basse 3-4 est manquante. N'espérez pas trouver des deux manquants dans le talon.
 **Köpmisär**
-Köpmisär can be bid offensively at the level 1, 2 and perhaps also 3 if you have really good cards for misär play (except for the cards that you want to exchange). One bad card from the talon may be enough to ruin your hand! The higher köpmisär contracts are mostly bid when you have bad defensive cards for a trump contract and at least reasonably good cards for misär play, except for the cards that you intend to exchange. 
+Le köpmisär peut être enchéri de manière offensive au niveau 1, 2 et peut-être aussi 3 si vous avez de très bonnes cartes pour un jeu de misär (à l'exception des cartes que vous souhaitez échanger). Une seule mauvaise carte du talon peut suffire à ruiner votre main ! Les contrats de köpmisär supérieurs sont surtout enchéris lorsque vous avez de faibles cartes défensives pour un contrat d'atout et au moins des cartes raisonnablement bonnes pour un jeu de misär, à l'exception des cartes que vous comptez échanger.
 
-### Some comments on the defensive value of a hand
+### Quelques commentaires sur la valeur défensive d'une main
 
-The defensive value of your hand against a trump contract first and foremost depends on the number of **stops**. A stop is a card which will eventually take a trick if another player repeatedly leads the suit from the top down - for example an ace, a king and one other card, or a queen and two other cards. A stop in the trump suit may make it possible for one or both defenders to win some important tricks before the declarer has finished drawing trumps. A strong trump holding by itself will usually not be enough for the declarer to win, he needs additional tricks in side suits. It is primarily aces and kings that will win tricks for the declarer in these suits; cards of lower ranks will be beaten by higher ones if the opponents are playing their cards correctly. A good defensive hand against a low level trump contract should contain at least one or a few aces and kings. Finally, it is important to at least have some length in suits where strength is lacking. If you have a singleton or void suit, you take a big risk that the declarer will find lots of cards of this suit in the talon when he exchanges, and your partner's stop in the suit might not be enough to beat the contract. A hand with more than one short suit (less than two cards) must be regarded as defensively weak, even if its long suits have significant strength.
+La valeur défensive de votre main contre un contrat d'atout dépend avant tout du nombre d'**arrêts**. Un arrêt est une carte qui gagnera finalement une levée si un autre joueur mène la couleur du haut vers le bas — par exemple un as, un roi et une autre carte, ou une dame et deux autres cartes. Un arrêt dans la couleur d'atout peut permettre à un ou aux deux défenseurs de gagner quelques levées importantes avant que le preneur ait fini de tirer les atouts. Une forte détention d'atout à elle seule ne suffira généralement pas pour que le preneur gagne, il lui faut des levées supplémentaires dans les couleurs annexes. Ce sont principalement les as et les rois qui feront gagner des levées au preneur dans ces couleurs ; les cartes de rang inférieur seront battues par des cartes supérieures si les adversaires jouent leurs cartes correctement. Une bonne main défensive contre un contrat d'atout de bas niveau devrait contenir au moins un ou quelques as et rois. Enfin, il est important d'avoir au moins une certaine longueur dans les couleurs où il manque de force. Si vous avez un singleton ou une coupe, vous prenez un gros risque que le preneur trouve beaucoup de cartes de cette couleur dans le talon lorsqu'il échange, et l'arrêt de votre partenaire dans cette couleur pourrait ne pas suffire à battre le contrat. Une main avec plus d'une couleur courte (moins de deux cartes) doit être considérée comme défensivement faible, même si ses couleurs longues ont une force significative.
 
-You always need stronger cards if you are the first player to pass than if you are second. As soon as one player has indicated strength with a pass, the other players will usually lose all incentive to continue the bidding and make compromises when they pass.
+Vous avez toujours besoin de cartes plus fortes si vous êtes le premier joueur à passer que si vous êtes deuxième. Dès qu'un joueur a indiqué de la force en passant, les autres joueurs perdront généralement toute incitation à continuer les enchères et feront des compromis lorsqu'ils passent.
 
-For begär and vingel 6, you should have three or four strong stops to have a fair chance to beat the declarer. In 7-spel and turné 6, you need about three to four stops if you are first to pass and two to three stops if you are second.
+## Quelques conseils sur l'échange de cartes
 
-It is hard to give rules of thumb for higher contracts. In some sense, you need less strength than in lower contracts, but it is not so easy as to say that you need one stop less for each extra trick that the declarer has to make. The bidding has provided you with more information about your opponents' strength and about the talon, and you must take this into account. If a careful and miserly player outbids your turné 7 with 8-spel, and you have three stops and a singleton on your hand, you may have reason to believe that the latter player has a significant strength in your short suit, and that he has a fair chance to win his contract in spite of the formal defensive strength of your hand. If the other player bids 8-spel after gök, you may evaluate the risk of your singleton quite differently.
+Pour les jeux d'atout dans lesquels le preneur échange des cartes, il y a une règle empirique importante utilisée dans presque toutes les sociétés Vira : le premier défenseur à échanger prend toutes les cartes restantes s'il a soit au moins trois atouts, soit peut compléter un arrêt ou un double arrêt dans les atouts avec n'importe quelle carte d'atout basse. Il devrait par exemple échanger s'il a un roi singleton d'atout, ou D-x, R-D, R-V, ou A-V d'atout. Sinon, il ne prend aucune carte et laisse son partenaire échanger. Dans les contrats au niveau de six levées, les défenseurs peuvent partager le talon pour tenter de créer des couleurs courtes. Ceci est souvent très utile dans les cas où le preneur joue avec des atouts courts et tente de réussir le contrat à l'aide d'as et de rois dans les couleurs annexes.
 
-To pass bids such as vingel 8 and tringel 9 you typically need three stops in first hand and two stops in second hand. Watch out for voids and singletons - the declarer will have a good chance of finding these suits among the turned cards. If the declarer gets an extra bonus for overtricks after a second exchange, you may need even stronger cards to pass.
+Dans les contrats solo d'atout, les 13 cartes du talon sont disponibles pour les défenseurs et il sera toujours préférable de les partager. Si le premier joueur décide que sa main bénéficiera davantage de n'importe quels atouts dans le talon, il prend autant de cartes que possible sans affaiblir significativement sa main. S'il pense que les atouts seront plus utiles dans la main de son partenaire, il échange cinq cartes et en laisse huit pour son partenaire.
 
-The only misär contract that is really simple to win is gök, for which there are formal requirements to pass. The köpmisär contracts are difficult to win, and although it is good to have a lowguard when you pass, or at least some low cards in different suits, players with poor passing cards rarely take any great risks to outbid them. 
+Dans les contrats de misär, les défenseurs partagent généralement le talon. Le premier défenseur peut parfois prendre moins de la moitié du talon pour créer des couleurs courtes, mais ne devrait jamais en prendre plus de la moitié car son partenaire peut avoir un besoin urgent d'améliorer sa main.
 
-Gask contracts are intrinsically risky, as the declarer depends on the entire unknown talon. Quite often, these bids are used to outbid other contracts, such as solo 6, vingel 8 and tringel 9. They are usually passed also with poor cards, unless there are offensive possibilities.
+## Quelques conseils sur le jeu des cartes
 
-## Some advice on exchanging cards
+Dans les contrats d'atout, les défenseurs devraient avant tout éviter de laisser le preneur gagner des levées avec des rois et des dames dans les couleurs courtes. Par exemple, si le preneur a R-x et doit jouer de cette couleur lui-même, il ne pourra généralement pas gagner une levée avec le roi. Si l'as se trouve à sa gauche, il perdra également les deux levées de la couleur si elle est menée par le défenseur à sa droite. Par conséquent, lorsque vous jouez à travers le preneur, menez une carte de milieu de votre couleur la plus faible. Si vous reprenez la menée plus tard, essayez d'autres couleurs également, mais évitez les couleurs menées par un as sans le roi ou les couleurs menées par un roi sans la dame. Si vous devez jouer vers le preneur, jouez de votre couleur la plus forte ; menez la carte la plus haute si elle est menée par une séquence ; sinon menez la deuxième ou troisième carte la plus haute. Si vous devez jouer d'une couleur où vous avez l'as mais pas le roi, commencez toujours par l'as — sinon le preneur pourrait gagner une levée avec un roi singleton. S'il s'avère pendant le jeu que le preneur a une couleur courte, c'est une excellente couleur à jouer lorsque vous jouez vers le preneur.
 
-For trump games in which the declarer exchanges some cards, there is an important rule of thumb that is used in almost all vira societies: the first defender to exchange takes all remaining cards if he either has at least three trumps or can complete a stop or a double stop in trumps with any low trump card. He should, for example, exchange if he has a singleton king of trumps, or Q-x, K-Q, K-J, or A-J of trumps. Otherwise, he takes no cards and lets his partner exchange. In contracts on the six trick level, the defenders may share the talon to try to create void suits. This is often very useful in cases when the declarer plays with short trumps and tries to make the contract with help of aces and kings in side suits.
+Si les défenseurs laissent le preneur gagner une levée avec une carte qui n'aurait jamais pu gagner si le preneur avait dû mener les cartes de cette couleur lui-même, on dit en suédois que les défenseurs lui ont fait un *favör*.
 
-In solo trump contracts all 13 talon cards are available to the defenders and it will always be best to share them. If the first player decides that his hand will benefit more from any trumps in the talon, he takes as many cards as possible without significantly weakening his hand. If he believes that the trumps will be more useful in his partner's hand, he exchanges five cards and leaves eight for his partner.
+Il est avantageux pour les défenseurs que le preneur doive jouer en deuxième à une levée. Le premier joueur peut alors choisir la couleur à mener et le troisième joueur est bien placé pour battre les cartes du preneur. Lorsque le preneur mène à une levée, le défenseur à sa gauche devrait généralement jouer bas, et le défenseur à sa droite devrait normalement gagner la levée, en surmontant la carte de l'autre défenseur si nécessaire, afin de placer le preneur en deuxième position pour la levée suivante.
 
-In misär contracts, the defenders usually share the talon. The first defender may sometimes take less than half of the talon to create void suits, but should never take more than half as his partner may have an urgent need to improve his hand.
+Si les défenseurs ont partagé le talon, le premier défenseur peut essayer de trouver la couleur courte de son partenaire en menant de sa couleur la plus longue. Ceci est particulièrement avantageux lorsque le preneur joue en deuxième à la levée.
 
-## Some advice on the play of the cards
+Si le preneur joue le contrat **vira** et que l'un des défenseurs a la menée de la première levée, il devrait toujours commencer par un as si possible. Le preneur jouera très probablement un atout, sinon le contrat est immédiatement perdu. De cette façon, le partenaire qui joue en deuxième ou troisième à la levée saura que le preneur est coupe dans cette couleur. Les défenseurs n'ont alors plus qu'à conserver des cartes dans les deux autres couleurs annexes. Si le preneur joue gask på 6 ou gask på 5, les défenseurs devraient toujours mener l'as d'un A-R, mais sinon faire attention en menant des as. Si le preneur a R-x, il pourrait obtenir exactement le *favör* qu'il attend.
 
-In trump contracts, the defenders should first and foremost avoid letting the declarer win tricks with kings and queens in short suits. For instance, if the declarer is sitting with K-x and has to play from the suit himself, he will in general not be able to make a trick with the king. If the ace is sitting to the left of him, he will also lose both tricks in the suit if it is led by the defender to his right. Therefore, when leading through the declarer, lead a middle high card from your weakest suit. If you get the lead again later, try other suits as well, but avoid suits headed by the ace and lacking the king or suits headed by the king and lacking the queen. If you have to lead up to the declarer, play from your strongest suit; lead the top card if it is headed by a sequence; otherwise lead the second or third highest card. If you have to lead from a suit in which you have the ace but not the king, always start with the ace - otherwise the declarer may win a trick with a singleton king. If it turns out during play that the declarer has a void suit, this is an excellent suit to play when leading up to the declarer.
+Dans les contrats de misär, le défenseur à la droite du preneur devrait essayer de prendre la menée, afin que le preneur joue en deuxième aux levées. Pour cette raison, le défenseur à la gauche devrait éviter de jouer sa carte la plus haute de la couleur menée lorsqu'il joue en deuxième à une levée, mais plutôt jouer des cartes de milieu que son partenaire peut surmonter. Lorsque le défenseur à la droite mène, il devrait jouer de ses couleurs longues avec des cartes basses au fond, dans lesquelles son partenaire est susceptible d'être court ou coupe. Il devrait mener les cartes les plus basses en premier. Méfiez-vous des couleurs qui ont de très bonnes cartes de misär, comme 2-3-4 etc. au fond. Le preneur est probablement coupe dans de telles couleurs. Si le défenseur à la droite du preneur a une seule carte basse dans une couleur, il devrait essayer de la mener avant que la couleur soit ouverte par son partenaire. Si la couleur est ouverte par le partenaire à la place, les défenseurs devront soit gaspiller deux cartes basses dans la levée pour forcer le preneur à jouer une carte basse, soit, si une carte haute est menée, ils ne pourront forcer le preneur à jouer aucune carte basse.
 
-If the defenders let the declarer win a trick with a card that could never win a trick if the declarer had to lead the cards of that suit himself, the defenders are in Swedish said to have given him a *favör*.
+### Signaux de cartes pendant le jeu
 
-It is to the defenders' advantage if the declarer has to play second to a trick. The first player can then choose the suit to lead and the third player is in a good position to beat the declarer's cards. When the declarer leads to a trick, the defender to the left of the declarer should generally play low, and the defender to the right of the declarer should normally win the trick, overtaking the other defender's card when necessary, so as to put the declarer in second position for the next trick.
+Il est utile pour les deux adversaires du preneur d'échanger des informations sur leurs détentions. En jouant contre un contrat d'atout, cela peut être réalisé par un système simple de signaux de défausse. Le système le plus couramment utilisé est appelé **ågren** et provient du *« Handbok i vira »*. Dans les jeux d'atout, chaque adversaire du preneur peut utiliser les deux premières levées où il ne peut pas suivre la couleur pour signaler sa force ou faiblesse dans d'autres couleurs. Se défausser d'une carte haute suivie d'une carte basse montre de la force. Si les cartes sont de la même couleur, cela montre la force seulement dans cette couleur ; si elles sont de couleurs différentes, elles montrent la force dans les deux couleurs. Se défausser d'une carte basse suivie d'une plus haute montre la faiblesse dans la ou les couleurs défaussées de manière similaire. Ces défausses ne promettent pas nécessairement quoi que ce soit sur les autres couleurs, mais votre partenaire supposera souvent que si vous avez indiqué une faiblesse dans une ou deux couleurs, vous êtes fort dans les autres (et vice-versa).
 
-If the defenders shared the talon, the first defender may try to find his partner's void (or short) suit by leading from his longest suit. This is especially advantageous when the declarer is playing second to the trick.
+Le système ågren est principalement utilisé dans des contrats comme vira, gask på 6 et gask på 5, où le preneur doit prendre 12 ou 13 levées. Dans ces contrats, le preneur commence souvent par tirer les atouts. Les adversaires se signalent entre eux dès qu'ils n'ont plus d'atouts afin de savoir quelles sont les bonnes couleurs pour avoir une chance de battre le contrat en gagnant des levées à la fin. Dans les contrats inférieurs, les adversaires pourront montrer leurs forces et faiblesses par d'autres moyens grâce à leur comportement tactique. Cependant, il y a des occasions où les signaux de défausse peuvent également être utiles dans les contrats inférieurs.
 
-If the declarer is playing the contract **vira** and one of the defenders has the lead to the first trick, he should always start with an ace if possible. The declarer will most likely play a trump, otherwise the contract is immediately lost. In this way, the partner that plays second or third to the trick will know that the declarer is void in this suit. The defenders now only have to keep cards in the other two side suits. If the declarer is playing gask på 6 or gask på 5, defenders should always lead ace from A-K, but otherwise be careful about leading aces. If the delarer is sitting with K-x, he may get exactly the *"favör"* he is waiting for.
+## Variante : Nivåvira (Vira par niveaux)
 
-In misär contracts, the defender to the right of the declarer should try to take the lead, so that the declarer plays second to the tricks. For this reason, the defender to the left should avoid playing his highest card in the suit led when playing second to a trick, but rather play middle high cards that his partner can overtake. When the defender to the right leads, he should play from long suits with low cards in the bottom, in which his partner is likely to be short or void. He should lead the lowest cards first. Be wary suits that have very good misär cards, like 2-3-4 etc. in the bottom. The declarer is probably void in such suits. If the defender to declarer's right has a single low card in a suit, he should try to lead it before the suit is opened by his partner. If the suit is opened by the partner instead, the defenders will either have to waste two low cards in the trick to force out one low card from the declarer or, if a high card is led, they will not be able to force out any low card from the declarer.
+Cette variante, développée par Staffan Sävén, est jouée au Åstols Viraklubb dans la région de Göteborg depuis environ 25 ans. Les enchères sont organisées en « niveaux » : les contrats du même niveau peuvent se surclasser mutuellement. De plus, de nouveaux types d'enchères de misär sont introduits :
 
-### Card signalling during the play
+- **Ägg** (œuf) est comme **gök** (coucou) sauf que la main du preneur n'est pas exposée.
 
-It is useful for the two opponents of the declarer to exchange information about their card holdings. When playing against a trump contract this can be achieved by a simple system of discard signals. The most commonly used system is called **ågren** and originates from the *'Handbok i vira'*. In trump games, each opponent of the declarer may use the first two tricks in which he is not able to follow suit to signal strength or weakness in other suits. Discarding a high card followed by a low card shows strength. If the cards are of the same suit, it shows strength only in this suit, if they are of different suits, they show strength in both suits. Discarding a low card followed by a higher one shows weakness in the suit(s) discarded in a similar manner. These discards do not necessarily promise anything about the other suits, but your partner will often assume that if you indicated weakness in one or two suits you are strong in the others (and vice versa).
+- **Falsk misär** (fausse misär) réussit à condition que le preneur ne gagne pas plus d'une levée.
 
-The ågren system is mostly used in contracts like vira, gask på 6 and gask på 5, where the declarer has to take 12 or 13 tricks. In these contracts the declarer often begins by playing trumps. The opponents signal to each other as soon as they run out of trumps in order to know which are the correct suits to have a chance of defeating the contract by winning tricks at the end. In lower contracts, the opponents will be able to show their strengths and weaknesses in other ways by their tactical behaviour. However, there are occasions where discard signals can also be useful in lower contracts.
+- **Bytmisär** (misär d'échange) est un contrat dans lequel le preneur expose une ou plusieurs cartes du dessus du talon, se défausse et se reconstitue du reste du talon comme dans un **köpmisär**, puis échange exactement **deux** cartes de sa main contre **une** des cartes exposées. Le preneur joue avec 12 cartes, en cherchant à perdre toutes les levées.
 
-## Variation: Nivåvira (Vira in Levels)
+Raymond Gallardo a publié un [résumé en anglais du Nivåvira](https://boardgamegeek.com/thread/2573089/nivavira-or-vira-in-levels-how-to-play-vira-in-got) sur BoardGameGeek.
 
-This variant, developed by Staffan Sävén has been played at the Åstols Viraklubb in the Gothenburg area for around 25 years. The bids are arranged into 'levels': contracts on the same level can outbid each other. In addition, some new types of misär bid are introduced:
+**Isbergsvira** (Vira Iceberg) est une autre version du Vira par niveaux, également développée par Staffan Sävén et jouée au Viraklubben 4V (Quatre Vents) à Sundsvall.
 
-- **Ägg** (egg) is like **gök** (cuckoo) except that the declarer's hand is not exposed.
+## Autres sites web sur le Vira
 
-- **Falsk misär** (false misär) succeeds provided that the declarer wins not more than one trick.
+Le site complet de [Vira](https://vira.lyckans-talisman.se/) de Sten Helmfrid en suédois.
 
-- **Bytmisär** (exchange misär) is a contract in which the declarer exposes one or more cards from the top of the talon, discards and replenishes from the rest of the talon as in a **köpmisär**, then exchanges exactly **two** cards from hand for **one** of the exposed cards. The declarer plays with 12 cards, aiming to lose all the tricks.
+Le site web de la [Société Vira de Stockholm](https://www.brusdata.se/Vira/).
 
-Raymond Gallardo has published an English language [summary of Nivåvira](https://boardgamegeek.com/thread/2573089/nivavira-or-vira-in-levels-how-to-play-vira-in-got) on BoardGameGeek.
-
-**Isbergsvira** (Iceberg Vira) is another version of Vira in Levels, also developed by Staffan Sävén and played at the Viraklubben 4V (Four Winds) in Sundsvall. Here is Raymond Gallardo's English summary of Iceberg Vira.
-
-## Other Vira websites
-
-Sten Helmfrid's comprehensive [Vira site](https://vira.lyckans-talisman.se/) in Swedish.
-
-The website of the [Stockholm Vira Club](https://www.brusdata.se/Vira/).
-
-Jürgen Weißauer's eBook, which includes rules of Vira in German, is available from his [Spiele Okular](https://web.archive.org/web/spiele-okular.de) website (archive copy).
-
-Home Page > Classified Index > Trick Taking Games > Boston group > Vira
+L'eBook de Jürgen Weißauer, qui inclut les règles du Vira en allemand, est disponible sur son site [Spiele Okular](https://web.archive.org/web/spiele-okular.de) (copie d'archive).

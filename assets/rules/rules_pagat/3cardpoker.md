@@ -2,110 +2,109 @@
 
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** A casino gambling game in which players bet on whether their three-card hand will beat the dealer's hand.
+**But :** Un jeu de casino dans lequel les joueurs parient sur le fait que leur main de trois cartes battra la main du donneur.
+**Autres noms :** Casino Brag, Tri Poker
 
 ---
 
 ## Introduction
 
-Three Card Poker was invented in England in the mid 1990's by Derek Webb. It was originally called Casino Brag, since it was inspired by 3-card Brag, adapted to create a casino game in which players bet against the house rather than against each other. The name Three Card Poker was adopted when this game was introduced to America; it is sometimes also known as Tri Poker. The game was initially marketed to casinos by Derek Webb's organisation *Prime Table Games*, but in 1999 the rights to the game were acquired by *Shuffle Master*, later renamed *SHFL Entertainment, Inc.* In 2012 SHFL took steps to emphasise their ownership of the game by registering the name of the 'Pair Plus' side bet as a service mark (trade mark).
+Le Three Card Poker a été inventé en Angleterre au milieu des années 1990 par Derek Webb. Il s'appelait à l'origine Casino Brag, car il était inspiré du 3-card Brag, adapté pour créer un jeu de casino dans lequel les joueurs parient contre la maison plutôt qu'entre eux. Le nom Three Card Poker a été adopté lorsque ce jeu a été introduit en Amérique ; il est parfois aussi connu sous le nom de Tri Poker. Le jeu a d'abord été commercialisé auprès des casinos par l'organisation de Derek Webb *Prime Table Games*, mais en 1999 les droits du jeu ont été acquis par *Shuffle Master*, renommé par la suite *SHFL Entertainment, Inc.* En 2012, SHFL a pris des mesures pour souligner leur propriété du jeu en enregistrant le nom du pari annexe « Pair Plus » comme marque de service.
 
-An older game, also called Three Card Poker, is described in several 20th century American card game books. This was a Draw Poker game played with three-card rather than five-card hands, where players bet against each other in normal poker style.
+Un jeu plus ancien, également appelé Three Card Poker, est décrit dans plusieurs livres américains sur les jeux de cartes du XXe siècle. C'était un jeu de Draw Poker joué avec des mains de trois cartes plutôt que cinq, où les joueurs pariaient entre eux dans le style classique du poker.
 
-**Note.** Gambling can be dangerously addictive. You can find information and advice on our Responsible Gambling page.
+**Note.** Le jeu d'argent peut être dangereusement addictif.
 
-## Cards and Initial Bets
+## Cartes et mises initiales
 
-The modern casino game of Three Card Poker is played with a 52-card pack at a special table on which the cards are dealt and bets placed. There are two bet types available.
+Le jeu de casino moderne de Three Card Poker se joue avec un jeu de 52 cartes sur une table spéciale sur laquelle les cartes sont distribuées et les mises placées. Deux types de paris sont disponibles.
 
-- Ante and Play - a bet that the player's hand will beat the dealer's
+- Mise de départ (Ante) et Jeu — un pari que la main du joueur battra celle du donneur
 
-- *Pair Plus®* - a bet on the quality of the player's hand, paid independently of what the dealer is dealt.
+- *Pair Plus®* — un pari sur la qualité de la main du joueur, payé indépendamment de ce que le donneur reçoit.
 
-Before the deal, in order to receive cards each player must place an Ante bet, and in addition may place a *Pair Plus®* bet.
+Avant la donne, pour recevoir des cartes, chaque joueur doit placer une mise Ante, et peut en outre placer un pari *Pair Plus®*.
 
-The ranking of hands for Three Card Poker from lowest to highest is:
+Le classement des mains au Three Card Poker, de la plus basse à la plus haute, est le suivant :
 
-- High Card - three cards of different ranks, not consecutive and not all the same suit, such as ![spade](../images/internat/spade.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)9. When comparing two such hands, the highest cards are compared first; if they are equal the middle cards are compared and finally the lowest cards. For example K-4-2 beats Q-10-9, which beats Q-10-7.
+- Carte haute — trois cartes de rangs différents, non consécutives et pas toutes de la même couleur, telles que ![pique](../images/internat/spade.gif)D-![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)9. Lors de la comparaison de deux telles mains, les cartes les plus hautes sont comparées en premier ; si elles sont égales, les cartes du milieu sont comparées, puis les cartes les plus basses. Par exemple, R-4-2 bat D-10-9, qui bat D-10-7.
 
-- Pair - two cards of equal rank and one of a different rank, such as 6-6-Q. When comparing two hands with a pair, the rank of the pair decides; if both hands have the equal pairs, the hand with the better odd card ("kicker") wins.
+- Paire — deux cartes de même rang et une d'un rang différent, telles que 6-6-D. Lors de la comparaison de deux mains avec une paire, le rang de la paire décide ; si les deux mains ont des paires égales, la main avec la meilleure carte isolée (« kicker ») l'emporte.
 
-- Flush - three cards of the same suit. These are compared in the same way as "high card" hands.
+- Couleur — trois cartes de la même couleur. Elles se comparent de la même manière que les mains « carte haute ».
 
-- Straight - three consecutive cards of mixed suits. Between two straights the one with the higher ranked cards wins. Ace can count high or low: A-K-Q is the highest type of straight and 3-2-A is the lowest. 2-A-K is not a straight.
+- Suite — trois cartes consécutives de couleurs mélangées. Entre deux suites, celle dont les cartes ont le rang le plus élevé l'emporte. L'As peut compter comme haut ou bas : A-R-D est le type de suite le plus élevé et 3-2-A est le plus bas. 2-A-R n'est pas une suite.
 
-- Three of a Kind - three cards of the same rank, higher ranks beating lower ranks.
+- Brelan — trois cartes du même rang, les rangs supérieurs battant les rangs inférieurs.
 
-- Straight Flush - three consecutive cards of the same suit. These are compared in the same way as straights, ace counting high or low.
+- Suite couleur — trois cartes consécutives de la même couleur. Elles se comparent de la même manière que les suites, l'As comptant comme haut ou bas.
 
-Note that there is no ranking among suits. Hands that have the same combination and equally high cards, differing only in suit, are tied.
+Il n'y a pas de classement entre les couleurs. Les mains ayant la même combinaison et des cartes de même hauteur, ne différant que par la couleur, sont à égalité.
 
-## Ante and Play
+## Mise Ante et Jeu
 
-Three cards are dealt to each player who has placed an ante bet and three cards to the dealer. After viewing his three cards the player must decide to either:
+Trois cartes sont données à chaque joueur ayant placé une mise Ante, et trois cartes au donneur. Après avoir consulté ses trois cartes, le joueur doit décider de :
 
-- make a **play bet**, placing an additional amount equal to the ante bet, or
+- placer une **mise de Jeu**, en ajoutant un montant égal à la mise Ante, ou
 
-- fold, losing the ante bet.
+- se coucher, en abandonnant la mise Ante.
 
-Following this decision, the dealer's hand is revealed and there is a showdown.
+Après cette décision, la main du donneur est révélée et il y a une abattage.
 
-- If the dealer does not have **Queen high** or better, the ante bet is paid even money and the play bet is returned.
+- Si le donneur n'a pas **au moins une Dame** ou mieux, la mise Ante est payée à égalité (1 contre 1) et la mise de Jeu est restituée.
 
-- If the dealer does have **Queen high** or better and the player's hand beats the dealer's hand the ante bet and play bet are paid even money.
+- Si le donneur a **au moins une Dame** ou mieux et que la main du joueur bat celle du donneur, la mise Ante et la mise de Jeu sont payées à égalité.
 
-- If the dealer does have **Queen high** or better and the player's hand is equal to the dealer's hand the player's ante and play bets are returned.
+- Si le donneur a **au moins une Dame** ou mieux et que la main du joueur est égale à celle du donneur, les mises Ante et Jeu du joueur sont restituées.
 
-- If the dealer does have **Queen high** or better and the player's hand is worse than the dealer's hand the ante and play bet are lost.
+- Si le donneur a **au moins une Dame** ou mieux et que la main du joueur est inférieure à celle du donneur, les mises Ante et Jeu sont perdues.
 
-An additional bonus is also payed on the ante bet irrespective of dealer's hand or outcome of the hand if the player holds a strong hand
+Un bonus supplémentaire est également payé sur la mise Ante, indépendamment de la main du donneur ou de l'issue de la main, si le joueur détient une main forte :
 
-- Even money for a straight
+- Payé à égalité pour une suite
 
-- 4 to 1 for three of a kind
+- 4 contre 1 pour un brelan
 
-- 5 to 1 for a straight flush
+- 5 contre 1 pour une suite couleur
 
 ## *Pair Plus®*
 
-The name of this special side bet, which has been a part of the game since its invention in the 1990's, was registered as a trade mark of SHFL Entertainment, Inc. in 2012.
+Le nom de ce pari annexe spécial, qui fait partie du jeu depuis son invention dans les années 1990, a été enregistré comme marque de commerce de SHFL Entertainment, Inc. en 2012.
 
-The result of a *Pair Plus®* bet depends only on the three cards dealt to the player - the dealer's cards are irrelevant. The *Pair Plus®* bet is lost if the player does not hold a pair or better. Winning hands are paid as follows:
+Le résultat d'un pari *Pair Plus®* dépend uniquement des trois cartes distribuées au joueur — les cartes du donneur sont sans importance. Le pari *Pair Plus®* est perdu si le joueur n'a pas une paire ou mieux. Les mains gagnantes sont payées comme suit :
 
-- Even money for a pair
+- Payé à égalité pour une paire
 
-- 4 to 1 for a flush
+- 4 contre 1 pour une couleur
 
-- 6 to 1 for a straight
+- 6 contre 1 pour une suite
 
-- 30 to 1 for three of a kind
+- 30 contre 1 pour un brelan
 
-- 40 to 1 for a straight flush
+- 40 contre 1 pour une suite couleur
 
-A winning *Pair Plus®* hand is paid out even if the player folds, though in fact this situation rarely occurs, since with any such hand the correct strategy is to place a Play bet.
+Une main *Pair Plus®* gagnante est payée même si le joueur se couche, bien qu'en pratique cette situation soit rare, car avec une telle main, la stratégie correcte est de placer une mise de Jeu.
 
-## Alternative Names
+## Autres noms
 
-Many online casino software providers have taken to calling this game by different names, presumably in an effort to avoid paying licensing fees for offering Three Card Poker. Some names that are currently in use are **Poker Three**, **Trey Poker**, **Fast Poker**, **High Speed Poker**, **Triple Edge Poker**, **Trey Card Poker** and **Tri Card Poker**.
+De nombreux fournisseurs de logiciels de casino en ligne ont pris l'habitude d'appeler ce jeu par des noms différents, probablement pour éviter de payer des redevances de licence pour proposer le Three Card Poker. Certains noms actuellement utilisés sont **Poker Three**, **Trey Poker**, **Fast Poker**, **High Speed Poker**, **Triple Edge Poker**, **Trey Card Poker** et **Tri Card Poker**.
 
-## Optimal Strategy and House Edge
+## Stratégie optimale et avantage de la maison
 
-The optimal strategy for Three Card Poker is far more straightforward that many other casino card games. The player should not place the *Pair Plus®* wager and should place the Play wager with any hand of Q, 6, 4 or better.
+La stratégie optimale pour le Three Card Poker est beaucoup plus simple que pour beaucoup d'autres jeux de cartes de casino. Le joueur ne devrait pas placer de pari *Pair Plus®* et devrait placer la mise de Jeu avec toute main de D, 6, 4 ou mieux.
 
-According to the [Three Card Poker Guide](https://web.archive.org/web/20221207222230/https://thepogg.com/guides/three-card-poker/) (arhive copy) formerly published at The Pogg, the house edge when playing Three Card Poker using optimal strategy is 2.01% where the game offers the standard paytable detailed above. If you decide to place a *Pair Plus®* bet, the House Edge is 2.32% if the paytable detailed above is used. 
+Selon le [Guide du Three Card Poker](https://web.archive.org/web/20221207222230/https://thepogg.com/guides/three-card-poker/) (copie d'archive) anciennement publié sur The Pogg, l'avantage de la maison au Three Card Poker avec une stratégie optimale est de 2,01 % lorsque le jeu propose la table de paiements standard détaillée ci-dessus. Si vous décidez de placer un pari *Pair Plus®*, l'avantage de la maison est de 2,32 % avec la table de paiements ci-dessus.
 
-## Variants
+## Variantes
 
-In some places a player is allowed to place only a *Pair Plus®* bet without placing an Ante. It is to the player's disadvantage to exercise this option.
+Dans certains endroits, un joueur est autorisé à placer uniquement un pari *Pair Plus®* sans placer de mise Ante. Il est désavantageux pour le joueur d'utiliser cette option.
 
-Some casinos both on- and offline have started to vary the paytables for the Ante and Play bet. Where this is the case the house edge will vary accordingly.
+Certains casinos, en ligne et hors ligne, ont commencé à modifier les tables de paiements pour le pari Ante et Jeu. Dans ce cas, l'avantage de la maison varie en conséquence.
 
-There is significant variation in the paytables being offered for the *Pair Plus®* bet both on- and offline. In general these variations have a detrimental impact on the House Edge. 
+Il existe une variation significative dans les tables de paiements proposées pour le pari *Pair Plus®*, tant en ligne que hors ligne. En général, ces variations ont un impact défavorable sur l'avantage de la maison.
 
-## Other Three Card Poker Sites and Software
+## Autres sites et logiciels pour le Three Card Poker
 
-Steve Cross has written a page on [Three Card Poker](https://www.realmoney.games/casino-card-games/3-card-poker).
+Steve Cross a écrit une page sur le [Three Card Poker](https://www.realmoney.games/casino-card-games/3-card-poker).
 
-Wizard of Odds offers a free [Three Card Poker](https://wizardofodds.com/play/three-card-poker/) game that can be played online in a browser.
-
-Home Page > Classified Index > Banking Games > Three Card Poker
+Le Wizard of Odds propose un jeu gratuit de [Three Card Poker](https://wizardofodds.com/play/three-card-poker/) jouable en ligne dans un navigateur.

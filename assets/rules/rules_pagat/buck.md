@@ -2,76 +2,73 @@
 
 **Difficulté :** —
 **Type :** Euchre, Plis
-**But :** In which everyone plays for themselves and players may drop out to avoid a penlaty for taking no tricks.
+**But :** Dans lequel chacun joue pour soi-même et les joueurs peuvent se retirer pour éviter une pénalité s'ils ne prennent aucune levée.
+**Autres noms :** Cut-throat Euchre, Dirty Clubs
 
 ---
 
 ## Introduction
 
-**Buck Euchre**, also known as **Cut-throat Euchre** or **Dirty Clubs**, is a North American Euchre variation in which everyone plays for themselves. As in games of the Rams group, there is a penalty for any individual who wins no tricks. There seem to be several different versions of Buck Euchre. This page first describes one for four players played in Ohio, USA, based on a contribution from Ed Eby, then the game of Dirty Clubs, based on a contribution from Rik. Finally a three player version from Indiana is explained, using information from Natty Bumppo's [Columbus Book of Euchre](https://www.amazon.com/exec/obidos/ASIN/0960489460/cardgames). Clearly other combinations of the rules given here are possible.
+Le **Buck Euchre**, aussi connu sous le nom de **Cut-throat Euchre** ou **Dirty Clubs**, est une variante nord-américaine de l'Euchre dans laquelle chacun joue pour soi. Comme dans les jeux du groupe des Rams, il y a une pénalité pour tout individu qui ne gagne aucune levée. Il semble y avoir plusieurs versions différentes du Buck Euchre. Cette page décrit d'abord une version pour quatre joueurs jouée dans l'Ohio, États-Unis, basée sur une contribution d'Ed Eby, puis le jeu de Dirty Clubs, basé sur une contribution de Rik. Enfin, une version à trois joueurs de l'Indiana est expliquée, en utilisant les informations du *Columbus Book of Euchre* de Natty Bumppo. D'autres combinaisons des règles données ici sont bien sûr possibles.
 
-## Cards and Deal
+## Cartes et donne
 
-There are four players, each playing for themselves. A a 24 card deck is used, consisting of A-K-Q-J-10-9 in each of the four standard suits. As in Euchre, the trump suit ranks differently from the others. The top trump is the jack of the trump suit (right bower), second is the other jack of the same colour (left bower), and then follow the other cards of the trump suit: ace, king, queen, ten, nine. The other suits rank normally from high to low: A-K-Q-(J)-10-9. If there are no trumps, all suits rank from high to low A-K-Q-J-10-9.
+Il y a quatre joueurs, chacun jouant pour soi. On utilise un jeu de 24 cartes composé de A-R-D-V-10-9 dans chacune des quatre couleurs standard. Comme à l'Euchre, la couleur d'atout a un classement différent des autres. Le plus haut atout est le Valet de la couleur d'atout (right bower), le deuxième est l'autre Valet de la même couleur (left bower), puis suivent les autres cartes de l'atout : As, Roi, Dame, Dix, Neuf. Les autres couleurs sont classées normalement de haut en bas : A-R-D-(V)-10-9. S'il n'y a pas d'atout, toutes les couleurs sont classées de haut en bas A-R-D-V-10-9.
 
-The first dealer is chosen at random, and thereafter the turn to deal passes to the left after each hand. The dealer deals a hand of five card face-down to each player, dealing the cards two or three at a time, in two rounds. The next card card is turned to indicate the proposed trump suit.
+Le premier donneur est choisi au hasard, puis le tour de donne passe à la gauche après chaque main. Le donneur distribue une main de cinq cartes face cachée à chaque joueur, en deux tours de deux ou trois cartes. La carte suivante est retournée pour indiquer la couleur d'atout proposée.
 
-## Bidding and Dropping Out
+## Enchères et retrait
 
-If the turned up card is a club, then clubs are automatically trump. There is no bidding or dropping out and everyone must take at least one trick to avoid penalty.
+Si la carte retournée est un trèfle, les trèfles sont automatiquement l'atout. Il n'y a pas d'enchères ni de retrait et chacun doit prendre au moins une levée pour éviter la pénalité.
 
-If the turned up card is not a club, the trump is determined as in Euchre. Starting with the player to the left of the dealer, each player has an opportunity to order up the turned card, confirming that suit as trumps. If it is ordered up the dealer takes it and discards a card face-down. If the first three pass, the dealer can take the turned up card, confirming its suit as trumps, or turn it down. If the dealer turns it down then each player in turn has the chance to name a trump suit different from that of the turned card.
+Si la carte retournée n'est pas un trèfle, l'atout est déterminé comme à l'Euchre. En commençant par le joueur à la gauche du donneur, chaque joueur a la possibilité d'ordonner de prendre la carte retournée, confirmant cette couleur comme atout. Si elle est ordonnée, le donneur la prend et écarte une carte face cachée. Si les trois premiers passent, le donneur peut prendre la carte retournée, confirmant sa couleur comme atout, ou la retourner face cachée. Si le donneur la retourne, chaque joueur à tour de rôle a la possibilité de nommer une couleur d'atout différente de celle de la carte retournée.
 
-As soon as a player orders up the trump, or the dealer takes the trump, or a player names a trump suit, that player (the trump maker) is committed to try to win at least three tricks. Now each of the other players in turn, starting with the player to the trump maker's left, must say whether they will stay in or drop out. Anyone who stays in must take at least one trick or suffer a penalty. If you drop out you avoid the risk of a penalty for taking no tricks, but since
-you are not playing you have no opportunity to score for tricks taken.
+Dès qu'un joueur ordonne l'atout, ou que le donneur prend l'atout, ou qu'un joueur nomme une couleur d'atout, ce joueur (le créateur de l'atout) s'engage à essayer de gagner au moins trois levées. Maintenant, chacun des autres joueurs à tour de rôle, en commençant par le joueur à la gauche du créateur de l'atout, doit dire s'il reste dans le jeu ou se retire. Quiconque reste doit prendre au moins une levée ou subir une pénalité. Si vous vous retirez, vous évitez le risque de pénalité pour n'avoir pris aucune levée, mais puisque vous ne jouez pas, vous n'avez aucune opportunité de marquer des points pour les levées prises.
 
-If the turned trump is not ordered up and not taken by the dealer, and no one names trump on the second round of bidding, then the hand is played without trumps and there is no opportunity to drop out. Each player must take at least one trick or suffer a penalty.
+Si l'atout retourné n'est pas ordonné et que le donneur ne le prend pas, et que personne ne nomme d'atout au deuxième tour d'enchères, la main est jouée sans atout et il n'y a pas de possibilité de se retirer. Chaque joueur doit prendre au moins une levée ou subir une pénalité.
 
-## The Play
+## Le jeu
 
-The player to dealer's left leads to the first trick. Players must follow suit if they can. A player who has no card of the suit led may play any card. When there are trumps, the left bower (the other jack of the same colour as trumps) counts for all purposes as belonging to the trump suit. A trick is won by the best trump in it, or if no trumps are played, by the highest card of the suit led. The winner of a trick leads to the next.
+Le joueur à la gauche du donneur mène la première levée. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte. Lorsqu'il y a un atout, le left bower (l'autre Valet de la même couleur que l'atout) compte dans tous les cas comme appartenant à la couleur d'atout. Une levée est gagnée par le meilleur atout, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur menée. Le gagnant d'une levée mène la suivante.
 
-## Scoring
+## Comptage des points
 
-Everyone starts with 25 points and the first player to reach or pass zero wins. At the end of the play, each player subtracts one point for each trick that they win, except that:
+Chacun commence avec 25 points et le premier joueur à atteindre ou dépasser zéro gagne. À la fin du jeu, chaque joueur soustrait un point pour chaque levée qu'il gagne, sauf que :
 
-- if you make trumps and are set (euchred), failing to win at least three tricks, you cannot subtract anything for the tricks you take but instead you must add five points to your score;
+- si vous faites l'atout et que vous êtes « euchré », c'est-à-dire que vous échouez à gagner au moins trois levées, vous ne pouvez rien soustraire pour les levées prises mais vous devez ajouter cinq points à votre score ;
 
-- if you stay in (not having made trumps) and take no tricks you must add five points to your score.
+- si vous restez dans le jeu (sans avoir fait l'atout) et que vous ne prenez aucune levée, vous devez ajouter cinq points à votre score.
 
-Players who dropped out neither add not subtract any points.
+Les joueurs qui se sont retirés n'ajoutent ni ne soustraient aucun point.
 
-If anyone manages to take all five tricks, they immediately win the entire game. If this does not happen, more hands are played until someone reaches or passes zero. If two or more players get to or past zero on the same hand the player who goes furthest below zero wins. If they have the same score, it is a tie. 
+Si quelqu'un réussit à prendre les cinq levées, il gagne immédiatement toute la partie. Si cela ne se produit pas, d'autres mains sont jouées jusqu'à ce que quelqu'un atteigne ou dépasse zéro. Si deux joueurs ou plus atteignent ou dépassent zéro lors de la même main, le joueur qui est le plus en dessous de zéro gagne. S'ils ont le même score, il y a égalité.
 
-## Variations
+## Variantes
 
-Jack Thomson describes a version of the above game in which no one may drop out for three consecutive hands. If you stay out for two consecutive hands, then 
-on the next hand you must stay in and take a trick or suffer the penalty.
+Jack Thomson décrit une version du jeu ci-dessus dans laquelle personne ne peut se retirer pendant trois mains consécutives. Si vous vous êtes retiré deux mains consécutives, à la main suivante vous devez rester et prendre une levée ou subir la pénalité.
 
 ## Dirty Clubs
 
-This is similar to the Buck Euchre game described above except for the following.
+Cette version est similaire au Buck Euchre décrit ci-dessus, sauf pour les points suivants.
 
-Everyone starts with 20 points rather than 25.
+Chacun commence avec 20 points plutôt que 25.
 
-If the turned card is not a club, there is a single round of bidding. Starting to the left of the dealer, each player bids the number of tricks they would be prepared to win if allowed to name trumps. The minimum bid is one, and each player in turn must either bid higher than the highest bid so far or pass. After the bidding, the high bidder names trumps or specifies that there will be no trumps, and is allowed to take the turned up card and discard one card from hand face down. The bidder can exchange the up-card even if it is not a trump, and clubs can be called trump even if they are not turned up.
+Si la carte retournée n'est pas un trèfle, il y a un seul tour d'enchères. En commençant par le joueur à la gauche du donneur, chaque joueur enchérit le nombre de levées qu'il s'engage à gagner s'il est autorisé à nommer l'atout. L'enchère minimum est d'une, et chaque joueur à tour de rôle doit soit enchérir plus haut que l'enchère la plus élevée jusqu'à présent, soit passer. Après les enchères, le plus haut enchérisseur nomme l'atout ou spécifie qu'il n'y aura pas d'atout, et a le droit de prendre la carte retournée et d'écarter une carte de sa main face cachée. L'enchérisseur peut échanger la carte retournée même si ce n'est pas un atout, et les trèfles peuvent être nommés comme atout même s'ils ne sont pas retournés.
 
-Starting to the left of the bidder, each of the other players chooses to stay in or drop out, and then the play and scoring proceed as in Buck Euchre described above.
+En commençant par le joueur à la gauche de l'enchérisseur, chacun des autres joueurs choisit de rester ou de se retirer, puis le jeu et le décompte se déroulent comme au Buck Euchre décrit ci-dessus.
 
-It is possible to play Dirty Clubs with more than four people by adding extra low cards to the pack - eights, sevens and so on, as needed.
+Il est possible de jouer au Dirty Clubs avec plus de quatre personnes en ajoutant des cartes basses supplémentaires au jeu — huit, sept, etc., selon les besoins.
 
-## Three Player Buck Euchre
+## Buck Euchre à trois joueurs
 
-In the three player Columbus version of Buck Euchre, four hands are still dealt, but no card is turned up. Three of the hands belong to the players and the fourth is a spare hand, called the widow. Each player in turn, having looked at their own hand, has an opportunity to exchange it for the face-down widow, if no one else has already done so. The player to dealer's right has the first opportunity to exchange, then the dealer, and finally the player to dealer's left.
+Dans la version « Columbus » du Buck Euchre à trois joueurs, quatre mains sont toujours distribuées, mais aucune carte n'est retournée. Trois des mains appartiennent aux joueurs et la quatrième est une main de réserve appelée la « widow ». Chaque joueur à tour de rôle, ayant regardé sa propre main, a la possibilité de l'échanger contre la widow face cachée, si personne d'autre ne l'a déjà fait. Le joueur à la droite du donneur a la première opportunité d'échanger, puis le donneur, et enfin le joueur à la gauche du donneur.
 
-The bidding starts with the player to the left of the dealer and goes round the table clockwise as many times as necessary. A bid is the number of tricks the player offers to win if allowed to choose trumps, but no suit is mentioned as part of the bid. The lowest possible bid is "one". It is legal to bid more than five as a sacrifice. Each number bid must be higher than the previous one. If you do not wish to bid higher you can pass, and this does not prevent you from bidding in future if the turn comes around to you again. When two players in succession have passed, the third player (the highest bidder) names the trump suit or announces that there are no trumps. Then each of the other players in turn announces whether they will play or drop out.
+Les enchères commencent avec le joueur à la gauche du donneur et font autant de tours que nécessaire. Une enchère est le nombre de levées que le joueur s'engage à gagner s'il est autorisé à choisir l'atout, mais aucune couleur n'est mentionnée dans l'enchère. L'enchère la plus basse possible est « un ». Il est autorisé d'enchérir plus de cinq comme sacrifice. Chaque nombre enchéri doit être supérieur au précédent. Si vous ne souhaitez pas enchérir plus haut, vous pouvez passer, et cela ne vous empêche pas d'enchérir ultérieurement si le tour revient jusqu'à vous. Lorsque deux joueurs consécutifs ont passé, le troisième joueur (le plus haut enchérisseur) nomme la couleur d'atout ou annonce qu'il n'y a pas d'atout. Ensuite, chacun des autres joueurs à tour de rôle annonce s'il joue ou se retire.
 
-Each player starts with just 15 points. The scoring is the same as in the other versions: you subtract a point for each trick that you win, except that a bidder who fails to win at least the number of tricks bid, and any other player who stays in and takes no tricks, must add five points. In this version, winning five tricks just allows you to subtract five points, not win the whole game.
+Chaque joueur commence avec seulement 15 points. Le décompte est le même que dans les autres versions : vous soustrayez un point par levée gagnée, sauf qu'un enchérisseur qui échoue à gagner au moins le nombre de levées enchéries, et tout autre joueur qui reste dans le jeu et ne prend aucune levée, doit ajouter cinq points. Dans cette version, gagner cinq levées permet simplement de soustraire cinq points, et non de gagner toute la partie.
 
-The aim is to reach or pass zero. **A player whose score is five points or less is not allowed to drop out, but must play every hand.** If two or even all three players get to zero in the same hand, the winner is the one whose score is most negative.
+Le but est d'atteindre ou dépasser zéro. **Un joueur dont le score est de cinq points ou moins n'est pas autorisé à se retirer, mais doit jouer chaque main.** Si deux, voire les trois joueurs, atteignent zéro lors de la même main, le gagnant est celui dont le score est le plus négatif.
 
 ## Bid Euchre 102
 
-Under the title [Bid Euchre 102](https://web.archive.org/web/20260414024314/https://members.tripod.com/~Borf_Books/ecolum71.htm#bid102) (archive copy), Natty Bumppo has published a four-player variation of the above where players are allowed to exchange some of their cards with some or all of the four undealt cards.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Euchre Group > Buck Euchre
+Sous le titre [Bid Euchre 102](https://web.archive.org/web/20260414024314/https://members.tripod.com/~Borf_Books/ecolum71.htm#bid102) (copie d'archive), Natty Bumppo a publié une variante à quatre joueurs de ce qui précède, dans laquelle les joueurs sont autorisés à échanger certaines de leurs cartes avec une partie ou la totalité des quatre cartes non distribuées.

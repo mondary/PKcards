@@ -3,156 +3,153 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A point-trick game with the Spanish 40-card pack related to the French and Belgian game Manille and the Spanish Manilla.
+**But :** Un jeu de levées comptées avec le jeu espagnol de 40 cartes, apparenté au jeu français et belge Manille et au Manilla espagnol.
 **Autres noms :** Manilla, Malillas
 
 ---
 
-With thanks to Monico Molinar and to several anonymous correspondents who contributed information about this game.
+Avec remerciements à Monico Molinar et à plusieurs correspondants anonymes qui ont contribué des informations sur ce jeu.
 
 ## Introduction
 
-Malilla is a point-trick game for four players in fixed partnerships. It is popular in Mexico, and comes from Spain, where it is nowadays often known as Manilla. It is closely related to the famous French game Manille which was popular in the 19th and early 20th century and remains popular in parts of Belgium. I have sometimes seen Malilla spelled as "Malia", which would have a similar pronunciation, since the "ll" in Spanish is pronounced rather like an English a "y", whose sound would almost disappear in this word. In Mexican Spanish however, the “ll” is pronounced more like “ly”. The name Malilla refers in the Mexican game to the Seven, which is the highest card. The game is sometimes known as Malillas ("sevens" - plural).
+La Malilla est un jeu de levées comptées pour quatre joueurs en partenariats fixes. Elle est populaire au Mexique et vient d'Espagne, où elle est aujourd'hui souvent connue sous le nom de Manilla. Elle est étroitement apparentée au célèbre jeu français Manille qui était populaire aux XIXe et XXe siècles et reste populaire dans certaines régions de Belgique. J'ai parfois vu Malilla orthographié « Malia », qui aurait une prononciation similaire, puisque le « ll » en espagnol se prononce plutôt comme un « y » anglais, dont le son disparaîtrait presque dans ce mot. Cependant, en espagnol mexicain, le « ll » se prononce plutôt comme « ly ». Le nom Malilla désigne dans le jeu mexicain le Sept, qui est la carte la plus forte. Le jeu est parfois appelé Malillas (« sevens » — pluriel).
 
-Mexican Malilla is traditionally played with the Spanish 40-card pack, but some players who have brought it from Mexico to the United States nowadays use 40 cards from the French suited 52-card pack, which is more familiar there.
+La Malilla mexicaine se joue traditionnellement avec le jeu espagnol de 40 cartes, mais certains joueurs qui l'ont apportée du Mexique aux États-Unis utilisent aujourd'hui 40 cartes issues du jeu de 52 cartes au dessin français, qui y est plus familier.
 
-## Players, Cards and Points
+## Joueurs, cartes et points
 
-There are four players in fixed partnerships, partners sitting opposite. A 40-card pack is used. The traditional Spanish pack has suits of Cups, Coins, Swords and Clubs and the cards in each suit are King (sometimes labelled 12), Horse (11), Jack (10), 7, 6, 5, 4, 3, 2, Ace. If preferred, the game can be played instead with an Anglo-American 52-card pack, from which the 8's, 9's 10's (and jokers) are removed.
+Il y a quatre joueurs en partenariats fixes, les partenaires étant assis en face. Un jeu de 40 cartes est utilisé. Le jeu espagnol traditionnel a des couleurs de Coupes, Pièces, Épées et Bâtons et les cartes de chaque couleur sont Roi (parfois étiqueté 12), Cavalier (11), Valet (10), 7, 6, 5, 4, 3, 2, As. Si préféré, le jeu peut se jouer avec un jeu de 52 cartes anglo-américain, duquel on retire les 8, 9, 10 (et les jokers).
 
-The high cards have point values, the aim being to win these scoring cards in tricks. The ranking of the cards from high to low and the scoring values in every suit are as follows:
+Les cartes hautes ont des valeurs en points, le but étant de gagner ces cartes comptées en plis. La hiérarchie des cartes de haut en bas et les valeurs de points dans chaque couleur sont les suivantes :
 
-| Card | Value |
-| Seven (or "Malilla") | 5 points |
-| Ace | 4 points |
-| King ("Rey") | 3 points |
-| Horse ("Caballo") or Queen | 2 points |
-| Jack ("Sota") | 1 points |
+| Carte | Valeur |
+| Sept (ou « Malilla ») | 5 points |
+| As | 4 points |
+| Roi (« Rey ») | 3 points |
+| Cavalier (« Caballo ») ou Dame | 2 points |
+| Valet (« Sota ») | 1 points |
 | Six | 0 points |
-| Five | 0 points |
-| Four | 0 points |
-| Three | 0 points |
-| Two | 0 points |
+| Cinq | 0 points |
+| Quatre | 0 points |
+| Trois | 0 points |
+| Deux | 0 points |
 
-So there are 15 points available in each suit. In addition one point (known as "la negra") is awarded to the winners of each of the 10 tricks, so there are 70 points in the game in total.
+Il y a donc 15 points disponibles dans chaque couleur. En outre, un point (appelé « la negra ») est attribué aux gagnants de chacun des 10 plis, soit un total de 70 points dans le jeu.
 
-Deal and play are counter-clockwise.
+La distribution et le jeu se font dans le sens antihoraire.
 
-## The Deal
+## La distribution
 
-The first dealer is chosen at random by drawing cards - high card deals. Thereafter players the turn to deal passes to the right after each hand. The dealer shuffles the cards and before dealing the cards must allow the opponent to the left to cut. The dealer then deals out all the cards, one at a time counter-clockwise beginning with the opponent to the right. 
+Le premier donneur est choisi au hasard en tirant des cartes — la plus haute donne. Ensuite, le tour de distribution passe à droite après chaque main. Le donneur mélange les cartes et avant la distribution doit permettre à l'adversaire de gauche de couper. Le donneur distribue ensuite toutes les cartes, une à la fois dans le sens antihoraire, en commençant par l'adversaire à droite.
 
-The players look at their cards, and must not show them to any other player. The exception is the very last card dealt, which belongs to the dealer. This card is dealt face up for all to see, and its suit is the trump suit for this hand. Since this is also the bottom card of the portion that is cut from the top of the deck during the deal, the player who cuts or the dealer may also show this card before the deal.
+Les joueurs regardent leurs cartes et ne doivent les montrer à aucun autre joueur. L'exception est la toute dernière carte distribuée, qui appartient au donneur. Cette carte est distribuée face visible pour que tout le monde la voie, et sa couleur est la couleur d'atout pour cette main. Comme c'est aussi la carte du bas de la portion qui a été coupée du sommet du jeu lors de la distribution, le joueur qui coupe ou le donneur peut aussi montrer cette carte avant la distribution.
 
-If the turned up card has a point value (i.e. it is a seven, ace or picture card), the dealer's side immediately scores that number of points as a bonus. (There is an exception if the dealer's side is already close to winning the game - see scoring). After everyone has seen the trump and the bonus if any has been recorded on the score sheet, the turned trump is placed in dealer's hand.
+Si la carte retournée a une valeur en points (c'est-à-dire que c'est un sept, un as ou une figure), l'équipe du donneur marque immédiatement ce nombre de points en bonus. (Il y a une exception si l'équipe du donneur est déjà proche de gagner la partie — voir marquage). Après que tout le monde a vu l'atout et que le bonus, s'il y en a un, a été enregistré sur la feuille de score, l'atout retourné est placé dans la main du donneur.
 
-## The Play
+## Le jeu
 
-The player to dealer's right leads to the first trick. Any card may be led, and the other three players in counter-clockwise order must each play a card, following suit if possible. Each trick is won by the highest trump in it, or if no trumps are played by the highest card of the suit led. The winner of the trick leads to the next trick. Each team keeps the tricks they have won in a single pile.
+Le joueur à la droite du donneur entame la première levée. N'importe quelle carte peut être menée, et les trois autres joueurs dans le sens antihoraire doivent chacun jouer une carte, en suivant la couleur si possible. Chaque levée est gagnée par le plus fort atout présent, ou si aucun atout n'est joué, par la plus haute carte de la couleur menée. Le gagnant de la levée entame la suivante. Chaque équipe conserve les levées qu'elle a gagnées dans un seul tas.
 
-As well as the obligation to follow suit when possible, there are two further restrictions in the play:
+Outre l'obligation de suivre la couleur lorsque c'est possible, il y a deux restrictions supplémentaires dans le jeu :
 
-- If the card that is currently winning the trick was played by an opponent, you must beat this card if possible (subject to the requirement to follow suit). 
+- Si la carte qui gagne actuellement la levée a été jouée par un adversaire, vous devez battre cette carte si possible (sous réserve de l'obligation de suivre la couleur).
 
-- When unable to follow suit, you are not allowed to discard a seven (malilla) of a non-trump suit if that suit has not previously been led to a trick.
+- Lorsqu'on ne peut pas suivre la couleur, il n'est pas permis de défausser un sept (malilla) d'une couleur non-atout si cette couleur n'a pas encore été menée lors d'un pli.
 
-So the possible cases when playing to a trick are as follows:
+Les cas possibles lorsqu'on joue à un pli sont donc les suivants :
 
-- If your partner is winning the trick, you must play a card of the suit that was led if you can, and you are free to play any card of this suit. If you cannot follow suit you may play any card except a seven of a non-trump suit that has not been led.
+- Si votre partenaire gagne la levée, vous devez jouer une carte de la couleur menée si vous le pouvez, et vous êtes libre de jouer n'importe quelle carte de cette couleur. Si vous ne pouvez pas suivre, vous pouvez jouer n'importe quelle carte sauf un sept d'une couleur non-atout qui n'a pas été menée.
 
-- If your opponent is winning the trick with a card of the suit led:
+- Si votre adversaire gagne la levée avec une carte de la couleur menée :
 
-- If you can play a higher card of the suit led you must do so.
+- Si vous pouvez jouer une carte plus haute de la couleur menée, vous devez le faire.
 
-- If you have no higher cards in the suit led, you may play any of your lower cards of that suit.
+- Si vous n'avez pas de cartes plus hautes dans la couleur menée, vous pouvez jouer n'importe laquelle de vos cartes inférieures de cette couleur.
 
-- If you have no cards at all of the suit led you must play a trump if you have one.
+- Si vous n'avez aucune carte de la couleur menée, vous devez jouer un atout si vous en avez un.
 
-- If you have no cards of the suit led and no trumps you may play any card except a seven of an unled suit.
+- Si vous n'avez aucune carte de la couleur menée et pas d'atout, vous pouvez jouer n'importe quelle carte sauf un sept d'une couleur non menée.
 
-- If a non-trump suit was led and an opponent is currently winning the trick with a trump:
+- Si une couleur non-atout a été menée et qu'un adversaire gagne actuellement la levée avec un atout :
 
-- If you have any cards of the suit led you must play one of those cards (not necessarily a high one).
+- Si vous avez des cartes de la couleur menée, vous devez en jouer une (pas forcément une haute).
 
-- If you have no cards of the suit led, you must play a trump higher than the one that is winning the trick if you can.
+- Si vous n'avez pas de cartes de la couleur menée, vous devez jouer un atout supérieur à celui qui gagne la levée si vous le pouvez.
 
-- If you have no cards of the suit led and no trumps sufficient to beat the currently winning trump, you may play any card except a seven of an unled suit. (You do not have to play a trump in this case.)
+- Si vous n'avez pas de cartes de la couleur menée et pas d'atout suffisant pour battre l'atout actuellement gagnant, vous pouvez jouer n'importe quelle carte sauf un sept d'une couleur non menée. (Vous n'êtes pas obligé de jouer un atout dans ce cas.)
 
-Note that is is always legal to lead a seven (as the first card of a trick), even if that suit has not previously been played.
+Notez qu'il est toujours permis de mener un sept (comme première carte d'un pli), même si cette couleur n'a pas encore été jouée.
 
-Note also that if a player discards a card of a non-trump suit - say a club - on a lead of a different suit, that does not permit the 7 of clubs to be discarded later. This is only allowed after clubs have been led to a trick.
+Notez également que si un joueur défausse une carte d'une couleur non-atout — par exemple un bâton — sur une levée d'une couleur différente, cela ne permet pas de défausser le 7 de bâtons plus tard. Cela n'est permis qu'après que les bâtons ont été menés lors d'un pli.
 
-Obscure note: it is conceivable, though very unlikely, that you might reach a situation where you had no option but to discard a seven of an unled non-trump suit. For example this would happen on the last trick if you were dealt an entire suit and were neither the dealer nor the player leading to the first trick. If it ever happens that you have nothing left but sevens of unled non-trump suits, then it must be OK to discard one.
+Note obscure : il est concevable, bien que très improbable, que vous puissiez vous trouver dans une situation où vous n'auriez d'autre choix que de défausser un sept d'une couleur non-atout non menée. Par exemple, cela se produirait lors du dernier pli si on vous avait distribué une couleur entière et que vous n'étiez ni le donneur ni le joueur menant la première levée. Si cela arrive que vous n'ayez plus que des sept de couleurs non menées non-atout, alors il doit être acceptable d'en défausser un.
 
-## Scoring
+## Marquage des points
 
-When all ten tricks have been played, each team counts the value of cards in the tricks they have won, plus one point for each trick they won. The results of the two teams should always add up to 70. The team with more than 35 points scores the difference of their point total from 35 and the other team scores nothing. If each side has 35 points there is no score.
+Lorsque les dix plis ont été joués, chaque équipe compte la valeur des cartes dans les levées qu'elle a gagnées, plus un point pour chaque levée gagnée. Les résultats des deux équipes doivent toujours s'additionner à 70. L'équipe qui a plus de 35 points marque la différence entre son total et 35, et l'autre équipe ne marque rien. Si chaque côté a 35 points, il n'y a pas de score.
 
-Example: North and South's cards plus tricks total 43 and East and West have 27. North and South score 8 points for the hand while East and West score nothing.
+Exemple : les cartes et levées de Nord et Sud totalisent 43 et Est et Ouest ont 27. Nord et Sud marquent 8 points pour la main tandis que Est et Ouest ne marquent rien.
 
-Each team's cumulative score is recorded on a score sheet. The first team to achieve a cumulative score of 35 points or more wins the game.
+Le score cumulatif de chaque équipe est enregistré sur une feuille de score. La première équipe à atteindre un score cumulatif de 35 points ou plus gagne la partie.
 
-It has already been mentioned under "The Deal" that if the dealer's last card, which is turned up to show the trumps suit, is a jack or higher, the dealer's team immediately scores that number of points - added to their cumulative score on the score sheet. An exception occurs if that bonus would be enough for them to win the game. In this case the bonus is not scored immediately. The cards must be played first and the hand scored. Only after that, if the points won in play are not enough for a win by either team, is the bonus added, allowing the dealer's team to win.
+Il a déjà été mentionné sous « La distribution » que si la dernière carte du donneur, qui est retournée pour montrer la couleur d'atout, est un valet ou plus, l'équipe du donneur marque immédiatement ce nombre de points — ajouté à leur score cumulatif sur la feuille de score. Une exception se produit si ce bonus suffirait à leur faire gagner la partie. Dans ce cas, le bonus n'est pas marqué immédiatement. Les cartes doivent d'abord être jouées et la main comptée. Ce n'est qu'ensuite, si les points gagnés en jeu ne suffisent pas pour qu'une équipe gagne, que le bonus est ajouté, permettant à l'équipe du donneur de gagner.
 
-Example: the score is 33 points each. The dealer's last card is a king, and the 3 points for this would give the dealer's team 36 points, which would be enough to win. But first the cards must be played. The non-dealers get 37 in the play, which is a score of 2 points. They add these 2 points first, and win the game with 35, and the dealer's bonus is of no use. But if the opponents had taken only 36 points in the play, their cumulative score after adding their one point for this would be only 4. The dealer's team would then take their 3-point bonus for the king and win.
+Exemple : le score est de 33 points chacun. La dernière carte du donneur est un roi, et les 3 points pour celui-ci donneraient à l'équipe du donneur 36 points, ce qui suffirait pour gagner. Mais les cartes doivent d'abord être jouées. Les non-donneurs obtiennent 37 en jeu, soit un score de 2 points. Ils ajoutent d'abord ces 2 points et gagnent la partie avec 35, et le bonus du donneur est inutile. Mais si les adversaires n'avaient pris que 36 points en jeu, leur score cumulatif après avoir ajouté leur point pour celle-ci ne serait que de 4. L'équipe du donneur prendrait alors son bonus de 3 points pour le roi et gagnerait.
 
-There are two special kinds of win:
+Il y a deux types spéciaux de victoire :
 
-- If a team wins all 10 tricks, this is called a capote or caputin. Since they have all 70 points, they score 35 and win the whole game in a single deal.
+- Si une équipe gagne les 10 plis, cela s'appelle un capote ou caputin. Comme elle a les 70 points, elle marque 35 et gagne la partie entière en une seule donne.
 
-- If a team reaches a cumulative score of 35 points (over several hands) while their opponents still have zero, this is called a zapato (shoe).
+- Si une équipe atteint un score cumulatif de 35 points (sur plusieurs mains) alors que ses adversaires ont encore zéro, cela s'appelle un zapato (chaussure).
 
-It seems that there is no extra reward for a capote or a zapato - these are simply names used to describe these impressive ways of winning.
+Il semble qu'il n'y ait pas de récompense supplémentaire pour un capote ou un zapato — ce sont simplement des noms utilisés pour décrire ces manières impressionnantes de gagner.
 
-## Etiquette and Irregularities
+## Étiquette et irrégularités
 
-If there is any irregularity in the deal, such as the dealer forgetting to offer the cards to be cut, the wrong number of cards dealt, or a card (other than the dealer's last) turned face up, then the deal stops. The cards are collected, and it is the next player's turn to deal.
+S'il y a une irrégularité dans la distribution, comme le donneur qui oublie d'offrir les cartes à couper, un nombre incorrect de cartes distribuées, ou une carte (autre que la dernière du donneur) retournée face visible, la distribution s'arrête. Les cartes sont ramassées, et c'est au joueur suivant de distribuer.
 
-The penalty for any irregularity in the play is to lose the whole game. Irregularities include:
+La pénalité pour toute irrégularité en jeu est de perdre toute la partie. Les irrégularités comprennent :
 
-- playing a card out of turn
+- jouer une carte hors tour
 
-- failing to follow suit when able to do so
+- ne pas suivre la couleur quand on le peut
 
-- failing to beat the opponent's winning card when able to do so
+- ne pas battre la carte gagnante de l'adversaire quand on le peut
 
-- discarding a seven of a non-trump suit that has not been led
+- défausser un sept d'une couleur non-atout qui n'a pas été menée
 
-The word for making such a mistake is renegar (to renege).
+Le mot pour désigner une telle erreur est *renegar* (renoncer).
 
-One correspondent writes that in order to exact such a penalty, an opponent must challenge the incorrect play. Play stops and tricks are examined to prove whether the alleged irregulatity actually occurred. If there was no irregularity, then the team that made the incorrect challenge loses the game. However, I do not like this rule. It seems to provide an incentive for a losing team to play wrong cards deliberately in the hope that the opponents will not dare to challenge.
+Un correspondant écrit que pour appliquer une telle pénalité, un adversaire doit contester le jeu incorrect. Le jeu s'arrête et les levées sont examinées pour prouver si l'irrégularité alléguée s'est réellement produite. S'il n'y a pas eu d'irrégularité, l'équipe qui a fait la contestation incorrecte perd la partie. Cependant, je n'aime pas cette règle. Elle semble fournir une incitation pour une équipe perdante à jouer des cartes incorrectes délibérément en espérant que les adversaires n'oseront pas contester.
 
-Some play with strict rules of etiquette, that no one other than dealer may touch the cards during the deal until the deal is complete, and from that moment until the end of the play no one may talk. The penalty for infringement is loss of the game.
+Certains jouent avec des règles d'étiquette strictes : personne d'autre que le donneur ne peut toucher les cartes pendant la distribution tant que la distribution n'est pas terminée, et à partir de ce moment jusqu'à la fin du jeu, personne ne peut parler. La pénalité pour infraction est la perte de la partie.
 
-## Variations
+## Variantes
 
-Some play that at the start of the game, one player shuffles and places two cards face down. A member of the opposing team chooses one of the cards. If they choose the higher card they score 5 points and get the "mano" - the right to lead to the first trick in the first deal. This process is known as "albur". The losers of the "albur" will deal the first hand. The winners' 5 points compensates for the dealer's advantage of turning a card for trumps and possibly scoring a bonus for it.
+Certains jouent qu'au début du jeu, un joueur mélange et pose deux cartes face cachée. Un membre de l'équipe adverse choisit l'une des cartes. S'il choisit la carte la plus haute, il marque 5 points et obtient la « mano » — le droit d'entamer la première levée de la première donne. Ce processus est appelé « albur ». Les perdants de l'« albur » distribueront la première main. Les 5 points des gagnants compensent l'avantage du donneur de retourner une carte pour les atouts et de marquer éventuellement un bonus pour celle-ci.
 
-An uncommon variation is that the person cutting the cards has the option of merely tapping the deck rather than cutting. This would require the dealer to deal out ten cards at once to each player. This option can be used if the player who cuts sees (or suspects) that the card on the bottom of the deck is not a point card. They would rather have this card turned for trumps than cut and risk giving the dealer a bonus for the new bottom card.
+Une variante peu courante est que celui qui coupe les cartes a l'option de simplement taper le jeu plutôt que de couper. Cela obligerait le donneur à distribuer dix cartes d'un coup à chaque joueur. Cette option peut être utilisée si le joueur qui coupe voit (ou soupçonne) que la carte du bas du jeu n'est pas une carte à points. Il préférerait que cette carte soit retournée pour les atouts plutôt que de couper et risquer de donner un bonus au donneur pour la nouvelle carte du bas.
 
-Apparently some play that a player who is dealt seven or more cards of a suit may suggest to partner that the hand should be abandoned. If partner agrees, the cards are thrown in and redealt.
+Apparemment, certains jouent qu'un joueur qui reçoit sept cartes ou plus d'une couleur peut suggérer à son partenaire que la main devrait être abandonnée. Si le partenaire est d'accord, les cartes sont jetées et redistribuées.
 
-Some players do not observe the prohibition on discarding a malilla (7) of a suit that has not been led.
+Certains joueurs n'observent pas l'interdiction de défausser une malilla (7) d'une couleur qui n'a pas été menée.
 
-Mallila is traditionally played counter-clockwise: in Mexico it always has been and still is played this way. However, it has also spread to the USA where most card games are played clockwise, and I have heard from some players of Malilla in the USA who have reversed the direction and now play Malilla clockwise. In this case the player to dealer's right cuts and the player to dealer's left leads to the first trick.
+La Malilla se joue traditionnellement dans le sens antihoraire : au Mexique, elle l'a toujours été et l'est encore. Cependant, elle s'est aussi répandue aux États-Unis où la plupart des jeux de cartes se jouent dans le sens horaire, et j'ai entendu des joueurs de Malilla aux États-Unis qui ont inversé le sens et jouent maintenant la Malilla dans le sens horaire. Dans ce cas, le joueur à la droite du donneur coupe et le joueur à la gauche du donneur entame la première levée.
 
-### Manilla (or Malilla) in Spain
+### Manilla (ou Malilla) en Espagne
 
-In Spain Manilla is played with 48 Spanish cards (including eights and nines of each suit). It is 
-the nine rather than the seven that is the highest card: the cards rank from high to low 9-1-12-11-10-8-7-6-5-4-3-2. The 9 (Manilla) is worth 5 points, the ace (1) 4 points, the king (12) 3 points, horse (11) 2 points and the jack (sota) (10) 1 point. 12 cards each are dealt so there are 12 tricks, bringing the total number of points in a deal to 72. The winning team scores the difference of their points from 36 and the target score for winning the whole game is 40 points.
+En Espagne, la Manilla se joue avec 48 cartes espagnoles (y compris les huit et les neuf de chaque couleur). C'est le neuf plutôt que le sept qui est la carte la plus haute : les cartes se classent de haut en bas 9-1-12-11-10-8-7-6-5-4-3-2. Le 9 (Manilla) vaut 5 points, l'as (1) 4 points, le roi (12) 3 points, le cavalier (11) 2 points et le valet (sota) (10) 1 point. On distribue 12 cartes à chacun, soit 12 levées, portant le nombre total de points d'une donne à 72. L'équipe gagnante marque la différence de ses points par rapport à 36, et le score cible pour gagner la partie entière est de 40 points.
 
-The Mexican rule against throwing a non-trump Malilla before the suit has been led has no equivalent in the Spanish game. If you are unable to follow suit, and either your partner is winning the trick or an opponent is winning with a card you cannot beat, you are free to throw any card, including a 9.
+La règle mexicaine interdisant de jeter une Malilla non-atout avant que la couleur ait été menée n'a pas d'équivalent dans le jeu espagnol. Si vous ne pouvez pas suivre la couleur, et que soit votre partenaire gagne la levée, soit un adversaire gagne avec une carte que vous ne pouvez pas battre, vous êtes libre de jeter n'importe quelle carte, y compris un 9.
 
-### Macau version of Manilla
+### Version de Macao de la Manilla
 
-Tony d'Aquino learned Manilla from his grandparents who were from Macau, of Portuguese descent (via Goa). He reports that they play the game as follows.
+Tony d'Aquino a appris la Manilla de ses grands-parents, originaires de Macao, d'ascendance portugaise (via Goa). Il rapporte qu'ils jouent au jeu comme suit.
 
-- 40 cards from a standard 52-card pack are used, ranking from high to low 7-A-K-J-Q-10-9-8-6-5. Note that, as in many Portuguese games, the Jack is higher than the queen, so the points are 7(manilla)=5, A=4, K=3, J=2, Q=1. In addition the four twos are stacked with the trump two on top to indicate the trump suit. Threes and fours are not used.
+- On utilise 40 cartes d'un jeu standard de 52 cartes, classées de haut en bas 7-A-R-V-D-10-9-8-6-5. Notez que, comme dans de nombreux jeux portugais, le Valet est plus haut que la Dame, donc les points sont 7(manilla)=5, A=4, R=3, V=2, D=1. De plus, les quatre deux sont empilés avec le deux d'atout sur le dessus pour indiquer la couleur d'atout. Les trois et les quatre ne sont pas utilisés.
 
-- Deal and play are anticlockwise. There is no score for turning up a scoring trump as the last card of the deal.
+- La distribution et le jeu se font dans le sens antihoraire. Il n'y a pas de score pour avoir retourné un atout compté comme dernière carte de la distribution.
 
-- In the play, as in Spain, there is no restriction on throwing a non-trump manilla (7) of a suit that has not been led.
+- Dans le jeu, comme en Espagne, il n'y a pas de restriction sur le fait de jeter une manilla (7) non-atout d'une couleur qui n'a pas été menée.
 
-- The winning team scores the difference in points between the two teams (so exactly twice the score in the Mexican version), and 70 points are required to win the game.
-
-Home Page > Classified Index > Trick Taking Games > Manille Group > Malilla
+- L'équipe gagnante marque la différence de points entre les deux équipes (soit exactement le double du score de la version mexicaine), et 70 points sont nécessaires pour gagner la partie.
