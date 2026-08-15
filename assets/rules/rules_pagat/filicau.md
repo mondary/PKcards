@@ -2,140 +2,136 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** How to play the Romanian card game Filicău and its Hungarian relative Filkó in which the Over-Knaves are the top trumps and the aim is to win tricks containing Aces and Tens.
+**But :** Comment jouer au jeu de cartes roumain Filicău et à son parent hongrois Filkó, dans lequel les Ober (cavaliers) sont les atouts suprêmes et le but est de gagner des plis contenant des As et des Dix.
 
 ---
 
 ## Introduction
 
-This is a Romanian game for 4 players in partnerships, using the 32-card German suited 'William Tell' pack. It probably originated in Transylvania, which formerly belonged to the Austro-Hungarian (Habsburg) Empire. A version of the same game is played in Hungary, on the Great Plain (Alföld) of the southeast, where it is known as *Filkó*, and also across the border in Serbia. In Hungary there are also versions for 5 or 6 players.
+Il s'agit d'un jeu roumain pour 4 joueurs en partenariats, utilisant le jeu de 32 cartes au dessin allemand « Guillaume Tell ». Il est probablement originaire de Transylvanie, qui appartenait autrefois à l'Empire austro-hongrois (des Habsbourg). Une version du même jeu est jouée en Hongrie, dans la Grande Plaine (Alföld) du sud-est, où il est connu sous le nom de *Filkó*, ainsi qu'au-delà de la frontière en Serbie. En Hongrie, il existe également des versions pour 5 ou 6 joueurs.
 
-The Romanian word *Filicău* or *Flăcău, *used mostly in rural areas, means an unmarried teenage boy. It is also the word for the Over-Knaves in the pack, and these four cards are the fixed top trumps in the game, with the usual Schafkopf ranking order: acorns > leaves > hearts > bells. Like most Schafkopf games, Filicău is a trick-taking game in which Aces and Tens are the most valuable cards. The aim of the game is to become and remain the 'master' team by taking most of the Aces and Tens, in which case the losing team are the 'slaves'. 
+Le mot roumain *Filicău* ou *Flăcău*, utilisé principalement dans les zones rurales, désigne un adolescent garçon non marié. C'est aussi le mot pour les Ober (cavaliers) du jeu, et ces quatre cartes sont les atouts fixes les plus hauts, avec l'ordre de classement habituel du Schafkopf : glands > feuilles > cœurs > cloches. Comme dans la plupart des jeux Schafkopf, Filicău est un jeu de plis où les As et les Dix sont les cartes les plus précieuses. Le but du jeu est de devenir et de rester l'équipe « maîtresse » en s'emparant de la plupart des As et des Dix, auquel cas l'équipe perdante est « esclave ».
 
-*I would like to thank Adrian Todea for explaining the Romanian game Filicău to me, and Róbert Kovács for helping with the section on Hungarian relative Filkó, which is based on the rules given by Gyula Zsigri in his book '*Újabb 21 kártyajáték és még 12 pasziánsz' *(Szukits Könyvkiadó, Szeged, 1996).*
+*Je tiens à remercier Adrian Todea de m'avoir expliqué le jeu roumain Filicău, et Róbert Kovács pour son aide sur la section consacrée au parent hongrois Filkó, qui est basée sur les règles publiées par Gyula Zsigri dans son ouvrage « Újabb 21 kártyajáték és még 12 pasziánsz » (Szukits Könyvkiadó, Szeged, 1996).*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players who play as two fixed teams, each player sitting opposite their partner. Deal and play are anticlockwise.
+Il y a quatre joueurs qui jouent en deux équipes fixes, chaque joueur étant assis en face de son partenaire. La donne et le jeu se font dans le sens antihoraire.
 
-A 32-card William Tell pack is used. In this pack the Aces depict seasons of the year and have rotated suit symbols, the Kings ride horses, and the Over-Knaves and Under-Knaves are distinguished by the position of the suit sign: at the top left of the card or lower down. Note that in Romania the Under-Knave is often known as the *'Doiar'*, which means 'Deuce', because in some other games (but not this one) it is worth 2 card points. For similar reasons the Over-Knave is sometimes called the *'Treiar'* (3) and the King the *'Pătrar'* (4).
+On utilise un jeu Guillaume Tell de 32 cartes. Dans ce jeu, les As représentent les saisons de l'année et ont des symboles de couleur pivotés, les Rois chevauchent, et les Ober et les Unter se distinguent par la position du signe de couleur : en haut à gauche de la carte ou plus bas. Notez qu'en Roumanie, l'Unter est souvent appelé *« Doiar »*, qui signifie « Deux », car dans d'autres jeux (mais pas celui-ci) il vaut 2 points. Pour des raisons similaires, l'Ober est parfois appelé *« Treiar »* (3) et le Roi le *« Pătrar »* (4).
 
-All four Over-Knaves always belong to the trump suit, and not to the suits printed on them. The ranking of the cards, from high to low, is:
+Les quatre Ober appartiennent toujours à la couleur d'atout, et non à la couleur imprimée dessus. La hiérarchie des cartes, de la plus haute à la plus basse, est :
 
-- **In trumps:** Over of acorns, Over of leaves, Over of hearts, Over of bells, Ace, Ten, King, Under-Knave, Nine, Eight, Seven.
+- **En atout :** Ober de gland, Ober de feuille, Ober de cœur, Ober de cloche, As, Dix, Roi, Unter, Neuf, Huit, Sept.
 
-- **In non-trump suits:** Ace, Ten, King, Under-Knave, Nine, Eight, Seven.
+- **Dans les couleurs non-atout :** As, Dix, Roi, Unter, Neuf, Huit, Sept.
 
-For example if leaves are trumps, the trump suit from high to low is:
+Par exemple, si les feuilles sont l'atout, la couleur d'atout de la plus haute à la plus basse est :
 
-![acorn over](../images/tell/eo.gif)![leaf over](../images/tell/go.gif)![heart over](../images/tell/ho.gif)![bell over](../images/tell/so.gif)![leaf ace](../images/tell/ga.gif)![leaf 10](../images/tell/gz.gif)![leaf king](../images/tell/gk.gif)![leaf under](../images/tell/gu.gif)![leaf 9](../images/tell/g9.gif)![leaf 8](../images/tell/g8.gif)![leaf 7](../images/tell/g7.gif)
+![Ober de gland](../images/tell/eo.gif)![Ober de feuille](../images/tell/go.gif)![Ober de cœur](../images/tell/ho.gif)![Ober de cloche](../images/tell/so.gif)![As de feuille](../images/tell/ga.gif)![10 de feuille](../images/tell/gz.gif)![Roi de feuille](../images/tell/gk.gif)![Unter de feuille](../images/tell/gu.gif)![9 de feuille](../images/tell/g9.gif)![8 de feuille](../images/tell/g8.gif)![7 de feuille](../images/tell/g7.gif)
 
-and the heart suit from high to low is:
+et la couleur de cœur de la plus haute à la plus basse est :
 
-![heart ace](../images/tell/ha.gif)![heart 10](../images/tell/hz.gif)![heart king](../images/tell/hk.gif)![heart under](../images/tell/hu.gif)![heart 9](../images/tell/h9.gif)![heart 8](../images/tell/h8.gif)![heart 7](../images/tell/h7.gif)
+![As de cœur](../images/tell/ha.gif)![10 de cœur](../images/tell/hz.gif)![Roi de cœur](../images/tell/hk.gif)![Unter de cœur](../images/tell/hu.gif)![9 de cœur](../images/tell/h9.gif)![8 de cœur](../images/tell/h8.gif)![7 de cœur](../images/tell/h7.gif)
 
-Each Ace and each Ten is worth 1 point to the team that collects in their tricks, and the result depends how many of these 8 points each team has at the end of the play. The other cards have no scoring value.
+Chaque As et chaque Dix vaut 1 point pour l'équipe qui les collecte dans ses plis, et le résultat dépend du nombre de ces 8 points que chaque équipe possède à la fin du jeu. Les autres cartes n'ont pas de valeur de comptage.
 
-## Preparation and Deal
+## Préparation et donne
 
-If the same teams have played before they may keep their master and slave status (see result) from their most recent game. Otherwise the two teams start out even. 
+Si les mêmes équipes ont déjà joué, elles peuvent conserver leur statut de maître et d'esclave (voir résultat) de leur partie la plus récente. Sinon, les deux équipes commencent à égalité.
 
-If the teams start even the first dealer can be chosen by any convenient random method. If there are slaves, then a member of the slave team deals first.
+Si les équipes commencent à égalité, le premier donneur peut être choisi par n'importe quelle méthode aléatoire pratique. S'il y a des esclaves, un membre de l'équipe esclave donne en premier.
 
-In subsequent hands, if there are masters and slaves, a member of the slave team deals: either the same player who dealt the previous hand or the player to the right of the previous dealer. If the teams are even, then the new dealer is the player to the right of the previous dealer.
+Lors des mains suivantes, s'il y a des maîtres et des esclaves, un membre de l'équipe esclave donne : soit le même joueur qui a distribué la main précédente, soit le joueur à la droite du donneur précédent. Si les équipes sont à égalité, le nouveau donneur est le joueur à la droite du donneur précédent.
 
-The dealer shuffles the cards, offers the cards for cutting to the opponent to the left. (If the opponents are the master team, they may decide between them that the player to dealer's right should cut the cards instead.) The dealer then deals all the cards one at a time face down anticlockwise so that each player has a hand of 8 cards.
+Le donneur mélange les cartes, offre les cartes à couper à l'adversaire de gauche. (Si les adversaires sont l'équipe maîtresse, ils peuvent décider entre eux que le joueur à la droite du donneur devrait couper à la place.) Le donneur distribue ensuite toutes les cartes une par une face cachée dans le sens antihoraire, de sorte que chaque joueur reçoive une main de 8 cartes.
 
-The dealer picks up their 8 cards as a block and shows the bottom card of the pile (i.e. the first card dealt to the dealer) to all the players. If it is not an Over-Knave its suit is trumps for the hand. If it is an Over-Knave then the next card is shown, and this is repeated until a card that is not an Over-Knave is found, and its suit is trumps.
+Le donneur ramasse ses 8 cartes en bloc et montre la carte du bas de la pile (c'est-à-dire la première carte distribuée au donneur) à tous les joueurs. Si ce n'est pas un Ober, sa couleur est l'atout pour la main. Si c'est un Ober, la carte suivante est montrée, et ainsi de suite jusqu'à trouver une carte qui n'est pas un Ober, et sa couleur devient l'atout.
 
-Now all players pick up their cards and look at them. 
+Maintenant tous les joueurs ramassent leurs cartes et les regardent.
 
-## Play
+## Le jeu
 
-The player to dealer's right leads any card to the first trick, and each of the other player in turn plays a card. Players must follow suit - that is, play a card of the same suit that was led. Over-Knaves count for this purpose as belonging to the trump suit and not to the suits printed on them. A player who has no card of the suit that was led must play a trump if they have one. A player who has no card of the suit led and no trumps may play any card. Apart from these constraints, there is no obligation to beat the cards previously played to the trick.
+Le joueur à la droite du donneur mène n'importe quelle carte au premier pli, et chacun des autres joueurs joue une carte à son tour. Les joueurs doivent suivre la couleur — c'est-à-dire jouer une carte de la même couleur que celle qui a été menée. Les Ober comptent, à cet effet, comme appartenant à la couleur d'atout et non à la couleur imprimée dessus. Un joueur qui n'a pas de carte de la couleur demandée doit jouer un atout s'il en a un. Un joueur qui n'a pas de carte de la couleur demandée et pas d'atout peut jouer n'importe quelle carte. Hormis ces contraintes, il n'y a aucune obligation de surmonter les cartes jouées précédemment dans le pli.
 
-Each trick is won by the highest trump in it, or if it contains no trump by the highest card of the suit that was led. The winner of the trick gathers the cards, adds them to their team's trick-pile, and leads any card to the next trick.
+Chaque pli est remporté par le plus haut atout qu'il contient, ou s'il ne contient pas d'atout, par la plus haute carte de la couleur demandée. Le vainqueur du pli ramasse les cartes, les ajoute à la pile de plis de son équipe, et mène n'importe quelle carte au pli suivant.
 
-Before and during the play the players are allowed to talk openly about their strategy in an open manner. They are **not** allowed to give any information about the cards that they hold, but they can discuss how many points the expect or aim to win, and change their strategy accordingly as the game progresses.
+Avant et pendant le jeu, les joueurs sont autorisés à parler ouvertement de leur stratégie. Ils ne sont **pas** autorisés à donner des informations sur les cartes qu'ils tiennent, mais ils peuvent discuter du nombre de points qu'ils espèrent ou visent à gagner, et adapter leur stratégie en conséquence au fil du jeu.
 
-Each team is also allowed to check back through past tricks to see how many points they have already taken. Also, if there is a master team and a slave team the masters can require the slaves to tell them how many points the slaves have taken so far. (If the players had been paying attention to the cards as they were played they would all know this anyway.)
+Chaque équipe est également autorisée à vérifier les plis précédents pour voir combien de points elles ont déjà pris. De plus, s'il y a une équipe maîtresse et une équipe esclave, les maîtres peuvent demander aux esclaves de leur dire combien de points ils ont pris jusque-là. (Si les joueurs avaient fait attention aux cartes au fur et à mesure qu'elles étaient jouées, ils le sauraient tous de toute façon.)
 
-## Result
+## Résultat
 
-When all the cards have been played, each player counts their points - one point for each Ace or Ten they have in their tricks. The status of the teams is then adjusted as follows:
+Lorsque toutes les cartes ont été jouées, chaque joueur compte ses points — un point pour chaque As ou Dix qu'il a dans ses plis. Le statut des équipes est ensuite ajusté comme suit :
 
-- If the score is **4-4 or 5-3**, there is no change. The masters remain masters and the slaves remain slaves, or if the teams were even they remain even.
+- Si le score est de **4-4 ou 5-3**, il n'y a pas de changement. Les maîtres restent maîtres et les esclaves restent esclaves, ou si les équipes étaient à égalité, elles le restent.
 
-- If the score is **6-2 or 7-1**, then irrespective of the previous state, the team with 6 or 7 points becomes the master team and the other becomes the slave team.
+- Si le score est de **6-2 ou 7-1**, alors indépendamment de l'état précédent, l'équipe avec 6 ou 7 points devient l'équipe maîtresse et l'autre devient l'équipe esclave.
 
-- If the score is **8-0**, then irrespective of the previous state, the teams become even - no masters and no slaves. The team that scored 0 points is said to have 'run away'.
+- Si le score est de **8-0**, alors indépendamment de l'état précédent, les équipes reviennent à égalité — ni maîtres ni esclaves. On dit que l'équipe qui a marqué 0 point a « fui ».
 
-Therefore** if the teams are even**, your objective is to score 6 or 7 points to become the master team. Failing that, you want to avoid scoring just 1 or 2 points and becoming the slaves. If you can't score as many as 3 points, you try to lose all the points (run away) to stay even.
+Par conséquent, **si les équipes sont à égalité**, votre objectif est de marquer 6 ou 7 points pour devenir l'équipe maîtresse. À défaut, vous voulez éviter de marquer seulement 1 ou 2 points et de devenir esclaves. Si vous ne pouvez pas marquer au moins 3 points, vous essayez de perdre tous les points (fuir) pour rester à égalité.
 
-**If your team are the slaves**, then again tour best result is to score 6 or 7 points to become masters, but preferably not all 8, which just makes you even. If you can't score as many as 6 points, you can try to lose all the points (run away) to become even.
+**Si votre équipe est esclave**, votre meilleur résultat est à nouveau de marquer 6 ou 7 points pour devenir maîtresse, mais idéalement pas les 8, ce qui vous ramènerait simplement à égalité. Si vous ne pouvez pas marquer 6 points, vous pouvez essayer de perdre tous les points (fuir) pour revenir à égalité.
 
-**If your team are the masters** you want to score from 3 to 7 points to maintain your status. The next best result is to score 0 or 8 points to be even. Worst is to score just 1 or 2 points in which case you are enslaved. 
+**Si votre équipe est maîtresse**, vous voulez marquer de 3 à 7 points pour maintenir votre statut. Le deuxième meilleur résultat est de marquer 0 ou 8 points pour être à égalité. Le pire est de marquer seulement 1 ou 2 points, auquel cas vous êtes asservi.
 
-To save time, the play can be ended before all the tricks have been played if the result is in no doubt - for example if each team already has 3 points in their tricks.
+Pour gagner du temps, le jeu peut s'arrêter avant que tous les plis n'aient été joués si le résultat ne fait aucun doute — par exemple si chaque équipe a déjà 3 points dans ses plis.
 
-So far as we know, it is not usual to keep a running score, but if the players wanted to keep track, they could record the number of times each team had been the masters.
+Autant que nous sachions, il n'est pas habituel de tenir un score cumulatif, mais si les joueurs souhaitent suivre, ils pourraient noter le nombre de fois que chaque équipe a été maîtresse.
 
-## Customs
+## Coutumes
 
-Teams often make fun of their opponents, even after the game has ended. The current Slaves are supposed to serve their Masters, respecting the status they acquired in the game, and this relationship can last until the next game. 
+Les équipes se moquent souvent de leurs adversaires, même après la fin du jeu. Les esclaves actuels sont censés servir leurs Maîtres, respectant le statut acquis lors du jeu, et cette relation peut durer jusqu'à la partie suivante.
 
 ## Filkó
 
-This is the Hungarian version of the game, which has some small differences from the game described above. Filkó is also the name used for Filicău by Hungarian speakers in Romania.
+Il s'agit de la version hongroise du jeu, qui présente quelques petites différences avec le jeu décrit ci-dessus. Filkó est également le nom utilisé pour Filicău par les locuteurs hongrois de Roumanie.
 
-The trump suit is established during the cut of the pack by looking at the bottom card of the section lifted by the cutter. If it is an Over-Knave the next card is looked at and the next until a card that is not an Over-Knave is found, and the suit of this card becomes trumps.
+La couleur d'atout est déterminée lors de la coupe du jeu en regardant la carte du bas de la section soulevée par le coupeur. S'il s'agit d'un Ober, la carte suivante est regardée, et ainsi de suite jusqu'à trouver une carte qui n'est pas un Ober, et la couleur de cette carte devient l'atout.
 
-The cards are dealt four at a time, so the trump card(s) exposed during the cut become the property of the dealer, and the effect is similar to the way trumps are chosen in the Romanian game. There will only be a difference in the unusual case where all four Over-Knaves are together it the bottom of the cut portion of the pack, in which case the dealer will get these four trumps and the fifth trump that determined the suit will be dealt to the player to dealer's left.
+Les cartes sont distribuées par quatre, de sorte que la ou les cartes d'atout exposées pendant la coupe deviennent la propriété du donneur, et l'effet est similaire à la façon dont l'atout est choisi dans le jeu roumain. Il n'y aura de différence que dans le cas inhabituel où les quatre Ober sont ensemble au bas de la portion coupée, auquel cas le donneur recevra ces quatre atouts et le cinquième atout qui a déterminé la couleur sera distribué au joueur à la gauche du donneur.
 
-The rules of play are the same as in Romania, but the result is slightly different. A team that takes 6 or more points becomes Master, and if neither team takes more than 5 points the situation is unchanged. So in this version an 8-0 score has the same result as 7-1 or 6-2. 
+Les règles du jeu sont les mêmes qu'en Roumanie, mais le résultat est légèrement différent. Une équipe qui prend 6 points ou plus devient Maîtresse, et si aucune équipe ne prend plus de 5 points, la situation reste inchangée. Ainsi dans cette version, un score de 8-0 a le même résultat que 7-1 ou 6-2.
 
-The first time a team becomes Master they select one of their opponents to be the Servant, and this player deals every hand until the Servant team takes 6 or more points and become the Masters, at which point the role of Servant and the duty of dealing passes to the next player to the right.
+La première fois qu'une équipe devient Maîtresse, elle choisit un de ses adversaires pour être le Serviteur, et ce joueur distribue chaque main jusqu'à ce que l'équipe du Serviteur prenne 6 points ou plus et devienne Maîtresse, moment auquel le rôle de Serviteur et le devoir de donner passent au joueur suivant à droite.
 
-Since there is no 'running away', once a team has achieved Master status, there will always be Masters and Servants: the teams can reverse roles but can never become even again.
+Puisqu'il n'y a pas de « fuite », une fois qu'une équipe a atteint le statut de Maîtresse, il y aura toujours des Maîtres et des Serviteurs : les équipes peuvent inverser les rôles mais ne peuvent plus revenir à égalité.
 
-### Six-player Filkó
+### Filkó à six joueurs
 
-Filkó can be played by six players in two teams of three, each player sitting between two opponents. For this game the Sevens of bells (gourds) and leaves are removed from the pack leaving 30 cards. The cards are dealt in a packet of 3 each followed by a packet of 2 each - so if two or more Over-Knaves appear in the cut, each team will acquire one or more known trumps. The play and scoring are the same as in the four-player game.
+Filkó peut être joué par six joueurs en deux équipes de trois, chaque joueur étant assis entre deux adversaires. Pour ce jeu, les Sept de cloches et de feuilles sont retirés du jeu, laissant 30 cartes. Les cartes sont distribuées en un paquet de 3 puis un paquet de 2 — de sorte que si deux Ober ou plus apparaissent dans la coupe, chaque équipe acquiert un ou plusieurs atouts connus. Le jeu et le comptage sont les mêmes que dans le jeu à quatre joueurs.
 
-### Five-player Filkó
+### Filkó à cinq joueurs
 
-This is also played with 30 cards - the Sevens of leaves and gourds are removed. The cards are dealt in batches of three.
+Il se joue également avec 30 cartes — les Sept de feuilles et de cloches (gourdes) sont retirés. Les cartes sont distribuées par paquets de trois.
 
-The trump suit is not chosen by cutting the cards. Instead, if there is no master team, the player who has the Over-Knave of acorns - known as the *öreg* (Old Man) or *vén botos* (old man with a staff) - chooses the trump suit and names a card of the trump suit (not an Over-Knave) whose holder will be the old man's partner. The other three players form a team against them. For example the holder of the Over of acorns may say "The Old Man calls the Ace of leaves", in which case leaves are trumps and the holder of the Ace is the Old Man's partner. The holder of the called trump must not reveal their identity, which will become clear when the called trump is played during the course of the game. The Old Man leads to the first trick.
+La couleur d'atout n'est pas choisie en coupant les cartes. À la place, s'il n'y a pas d'équipe maîtresse, le joueur qui a l'Ober de gland — connu sous le nom d'*öreg* (Vieillard) ou *vén botos* (vieillard avec un bâton) — choisit la couleur d'atout et nomme une carte de cette couleur (pas un Ober) dont le détenteur sera le partenaire du Vieillard. Les trois autres joueurs forment une équipe contre eux. Par exemple, le détenteur de l'Ober de gland peut dire « Le Vieillard appelle l'As de feuille », auquel cas les feuilles sont l'atout et le détenteur de l'As est le partenaire du Vieillard. Le détenteur de l'atout appelé ne doit pas révéler son identité, ce qui deviendra clair lorsque l'atout appelé sera joué au cours de la partie. Le Vieillard mène le premier pli.
 
-If either team scores 6, 7 or 8 points, they become the Masters and a member of the other team becomes the Servant. If the dealer was on the losing team, this player becomes the Servant and deals again. If the dealer was on the team that became the Masters, then the next player in anticlockwise order who was on the losing team becomes the Servant and deals next. The Masters will remain Masters and the same player remains the Servant until the Servant is 'liberated'. If the score is 5-3 or 4-4, there are no Masters and the new dealer is the player to the right of the previous dealer.
+Si l'une ou l'autre équipe marque 6, 7 ou 8 points, elle devient les Maîtres et un membre de l'autre équipe devient le Serviteur. Si le donneur était dans l'équipe perdante, ce joueur devient le Serviteur et redistribue. Si le donneur était dans l'équipe devenue Maîtresse, le joueur suivant dans l'ordre antihoraire appartenant à l'équipe perdante devient le Serviteur et donne la main suivante. Les Maîtres restent Maîtres et le même joueur reste Serviteur jusqu'à ce que le Serviteur soit « libéré ». Si le score est de 5-3 ou 4-4, il n'y a pas de Maîtres et le nouveau donneur est le joueur à la droite du donneur précédent.
 
-To liberate the Servant, the three-player team must score 0, 6, 7 or 8 points. If the Masters score from 3 to 7 points (and the Servant's team from 1 to 5 points) the same players remain Masters, the same suit remains trumps, and the same player remains the Servant and continues to deal, and the same player (the one who held the Upper-Knave of acorns when the partnerships were determined) continues to lead to the first trick. Liberating the Servant by scoring 0 points is called 'swimming away'.
+Pour libérer le Serviteur, l'équipe de trois joueurs doit marquer 0, 6, 7 ou 8 points. Si les Maîtres marquent de 3 à 7 points (et l'équipe du Serviteur de 1 à 5 points), les mêmes joueurs restent Maîtres, la même couleur reste l'atout, et le même joueur reste Serviteur et continue de donner, et le même joueur (celui qui tenait l'Ober de gland lorsque les partenariats ont été déterminés) continue de mener le premier pli. Libérer le Serviteur en marquant 0 points s'appelle « fuir ».
 
-If the Servant is liberated, the turn to deal passes to the next player to the right of the former Servant (and this deal is not considered an act of servitude). Once again the Old Man calls a card to determine the trump suit and the partnerships. 
+Si le Serviteur est libéré, le tour de donne passe au joueur suivant à la droite de l'ancien Serviteur (et cette donne n'est pas considérée comme un acte de servitude). Le Vieillard appelle à nouveau une carte pour déterminer la couleur d'atout et les partenariats.
 
-Note that 'swimming away' is only possible after a Masters team has been established and the Servant has dealt. If the Old Man makes trumps and one team scores all 8 points they become the Masters. 
+Notez que la « fuite » n'est possible qu'après qu'une équipe Maîtresse a été établie et que le Serviteur a distribué. Si le Vieillard détermine l'atout et qu'une équipe marque les 8 points, elle devient les Maîtres.
 
-### Variations in top trumps
+### Variantes des atouts supérieurs
 
-In Csólyospálos and Szeged Filkó is played with 5 permanent top trumps when there are 5 players and 6 when there are six players. The Seven of hearts is always the top trump, and in the 6-player game the Seven of acorns is the second highest trump. The Over-Knaves follow in their usual order.
+À Csólyospálos et Szeged, Filkó se joue avec 5 atouts permanents supérieurs lorsqu'il y a 5 joueurs et 6 lorsqu'il y en a six. Le Sept de cœur est toujours l'atout suprême, et dans le jeu à 6 joueurs le Sept de gland est le deuxième atout le plus haut. Les Ober suivent dans leur ordre habituel.
 
-In some places the ranking order of the Over-Knaves is different: from high to low they are acorns, hearts, bells and leaves (leaves lowest instead of second highest).
+Dans certains endroits, l'ordre de classement des Ober est différent : du plus haut au plus bas ce sont glands, cœurs, cloches et feuilles (feuilles le plus bas au lieu de deuxième plus haut).
 
-In Kelebia, 5-player filkó is played with 8 permanent trumps, which are from high to low: 
+À Kelebia, le filkó à 5 joueurs se joue avec 8 atouts permanents, qui sont du plus haut au plus bas :
 
-![acorn over](../images/tell/eo.gif)![heart seven](../images/tell/h7.gif)![leaf over](../images/tell/go.gif)![heart over](../images/tell/ho.gif)![bell over](../images/tell/so.gif)![bell seven](../images/tell/s7.gif)![leaf seven](../images/tell/g7.gif)![acorn seven](../images/tell/e7.gif)
+![Ober de gland](../images/tell/eo.gif)![7 de cœur](../images/tell/h7.gif)![Ober de feuille](../images/tell/go.gif)![Ober de cœur](../images/tell/ho.gif)![Ober de cloche](../images/tell/so.gif)![7 de cloche](../images/tell/s7.gif)![7 de feuille](../images/tell/g7.gif)![7 de gland](../images/tell/e7.gif)
 
-The Eights of Leaves and Acorns are removed from the deck, leaving 30 cards, so that there are 14 trumps altogether if bells or hearts are trumps, but only 13 if acorns or leaves are trumps. In this Kelebia variant, each player is obliged to beat the highest card so far played to the trick, as in Ulti for example.
+Les Huit de feuilles et de glands sont retirés du jeu, laissant 30 cartes, de sorte qu'il y a 14 atouts au total si les cloches ou les cœurs sont l'atout, mais seulement 13 si les glands ou les feuilles sont l'atout. Dans cette variante de Kelebia, chaque joueur est obligé de surmonter la carte la plus haute jouée dans le pli, comme au Ulti par exemple.
 
-### Rich and Poor
+### Riches et Pauvres
 
-In this 5-player variant the holders of the top two trumps (Over-Knaves of acorns and leaves) form a team called "the Rich" and play against the other three, who are "the Poor". The holder of the Over-Knave of acorns chooses trumps as usual. The rich need to score at least 6 points to win; the poor need at least 3. As usual a member of the losing team deals the next hand. Some play that each deal is an independent event where the partnerships are determined anew. Others play that the teams remain the same and the same player has to keep dealing until the dealing team liberate themselves by scoring at least 6 points*. *This game is also sometimes played in the form where the Old Man names trumps and a card of that suit (not an Over), and the Rich team consists of the Old Man together with the holder of the called card.
+Dans cette variante à 5 joueurs, les détenteurs des deux atouts supérieurs (Ober de gland et de feuille) forment une équipe appelée « les Riches » et jouent contre les trois autres, qui sont « les Pauvres ». Le détenteur de l'Ober de gland choisit l'atout comme d'habitude. Les Riches doivent marquer au moins 6 points pour gagner ; les Pauvres ont besoin d'au moins 3. Comme d'habitude, un membre de l'équipe perdante donne la main suivante. Certains jouent que chaque donne est un événement indépendant où les partenariats sont redéterminés. D'autres jouent que les équipes restent les mêmes et que le même joueur doit continuer à donner jusqu'à ce que l'équipe distributrice se libère en marquant au moins 6 points. Ce jeu se joue aussi parfois sous la forme où le Vieillard nomme l'atout et une carte de cette couleur (pas un Ober), et l'équipe des Riches se compose du Vieillard avec le détenteur de la carte appelée.
 
-### Filkó with Hats*
+### Filkó avec des chapeaux
 
-*
-
-We have incomplete rules of a 4-player variant played in Bátmonostor. The card values there are: Ace=11, Ten=10, King=4, Over-Knave=3, Under-Knave=2. Other cards (9, 8, 7) have no value. There are 120 points altogether and the team that takes more than 61 points wins. The losers have to take off their hats (or if they were not wearing hats, they have to put on decrepit, worn out hats). Or some play that the losers as a penalty have to play standing up until they win a game. Players are allowed to signal what suit they would like their partner to play: pull your mouth to one side to ask for acorns, glance up to ask for leaves, show the tip of the tongue out to ask for hearts, blow up your cheeks to ask for bells. 
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Filicău
+Nous avons des règles incomplètes d'une variante à 4 joueurs jouée à Bátmonostor. Les valeurs des cartes y sont : As=11, Dix=10, Roi=4, Ober=3, Unter=2. Les autres cartes (9, 8, 7) n'ont pas de valeur. Il y a 120 points au total et l'équipe qui prend plus de 61 points gagne. Les perdants doivent enlever leur chapeau (ou s'ils n'en portaient pas, doivent mettre des chapeaux décrépits et usés). Ou certains jouent que les perdants doivent, en guise de pénalité, jouer debout jusqu'à ce qu'ils gagnent une partie. Les joueurs sont autorisés à signaler la couleur qu'ils aimeraient que leur partenaire joue : tirer la bouche d'un côté pour demander des glands, lever les yeux pour demander des feuilles, montrer le bout de la langue pour demander des cœurs, gonfler les joues pour demander des cloches.

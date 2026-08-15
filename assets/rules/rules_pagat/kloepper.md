@@ -2,14 +2,12 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A game of the Schafkopf/Sheepshead family played in Illinois, USA. Link to rules.
+**But :** Jeu de la famille Schafkopf/Sheepshead joué en Illinois (USA). Lien vers les règles.
 
 ---
 
-This relative of Sheepshead is played in Columbia, in Monroe County, Illinois, USA. A 24-card pack is used and the permanent trumps are the black queens, all the jacks and all the diamonds - it differs from normal American Sheepshead in that the diamond queen is not a high trump and the heart queen is not a trump at all.
+Ce parent du Sheepshead se joue à Columbia, dans le comté de Monroe, Illinois (USA). On utilise un jeu de 24 cartes et les atouts permanents sont les dames noires, tous les valets et tous les carreaux — il diffère du Sheepshead américain classique en ce que la dame de carreau n'est pas un atout élevé et la dame de cœur n'est pas un atout du tout.
 
-Kloepper is a four-player game. The holders of the two black queens play as partners against the other two players. A player who holds both black queens can call an ace whose holder will be his or her partner, or can play alone.
+Kloepper est un jeu à quatre joueurs. Les détenteurs des deux dames noires jouent en équipe contre les deux autres. Un joueur qui tient les deux dames noires peut appeler un as dont le détenteur deviendra son partenaire, ou jouer seul.
 
-A full description is available on this archive copy of the [World Kloepper Championship](https://web.archive.org/web/conradol.com/kloepper.htm) page.
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Kloepper
+Une description complète est disponible sur cette copie d'archive de la page du [Championnat du monde de Kloepper](https://web.archive.org/web/conradol.com/kloepper.htm).

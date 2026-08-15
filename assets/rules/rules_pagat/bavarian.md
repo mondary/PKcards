@@ -3,234 +3,233 @@
 **Nombre de joueurs :** 4
 **Difficulté :** ⭐⭐⭐
 **Type :** Schafkopf/Truco, Plis
-**But :** The national game of Bavaria, a 4-player point-trick game using a 32-card or 24-card German suited pack.
+**But :** Le jeu national de Bavière, un jeu de plis à points pour 4 joueurs utilisant un jeu de 32 ou 24 cartes au dessin allemand.
 **Autres noms :** Wenz
 
 ---
 
 ## Introduction
 
-Schafkopf is a truly fascinating game that deserves wider recognition. It has been described as the “supreme discipline” of Bavarian card games and the “mother of all trump games” with as many as 14 trumps in play from a 32-card pack. Played by an estimated 2½ million people in south Germany, it has risen to become Bavaria’s national game and part of its cultural heritage. It is most at home in the pub and in family and social circles.
+Le Schafkopf est un jeu véritablement fascinant qui mérite une reconnaissance plus large. Il a été décrit comme la « discipline suprême » des jeux de cartes bavarois et la « mère de tous les jeux d'atout » avec jusqu'à 14 atouts en jeu dans un jeu de 32 cartes. Joué par environ 2½ millions de personnes dans le sud de l'Allemagne, il s'est hissé au rang de jeu national de Bavière et fait partie de son patrimoine culturel. Il est le plus à l'aise au café et dans les cercles familiaux et sociaux.
 
-Its origins go back to an 18th century game, also called Schafkopf, which was clearly well established by 1811 when Paul Hammer described no less than nine versions. Around the same time, classic Schafkopf was modified by adding features from Tarok and l’Hombre to produce Germany’s national game of Skat. Soon afterwards, another modification, probably influenced by l’Hombre’s four-hand derivative Quadrille, had resulted in yet another exciting new offshoot. This new game had taken off in Franconia (northern Bavaria) by the 1840s, but its earliest descriptions did not appear until the last decades of that century. These show that, instead of fixed partnerships with players bidding a number of potential trumps, they bid for the right to play one of two contracts: a Rufer, in which the winner of the bidding, the *declarer*, called an Ace whose holder became a secret partner; and a Solo in which the declarer named any suit as trumps and played alone. There were bonuses for winning by a landslide (Schneider) or for taking all the tricks. Moving southwards throughout Bavaria, the new game left all the competition in its wake, even holding off Skat. In 1989, the 1st Bavarian Schafkopf Congress agreed official rules for the first time.
+Ses origines remontent à un jeu du XVIIIe siècle, également appelé Schafkopf, qui était clairement bien établi en 1811 lorsque Paul Hammer n'en décrivit pas moins de neuf versions. À peu près à la même époque, le Schafkopf classique fut modifié en y ajoutant des éléments du Tarok et de l'Hombre pour produire le jeu national allemand qu'est le Skat. Peu après, une autre modification, probablement influencée par le dérivé à quatre joueurs de l'Hombre, le Quadrille, aboutit à une autre excitation nouvelle. Ce nouveau jeu s'était implanté en Franconie (Bavière du Nord) dans les années 1840, mais ses premières descriptions n'apparurent que dans les dernières décennies de ce siècle. Celles-ci montrent qu'au lieu de partenariats fixes avec des joueurs enchérissant un nombre d'atouts potentiels, ils enchérissaient pour le droit de jouer l'un de deux contrats : un Rufer, dans lequel le gagnant des enchères, le *Déclarant*, appelait un As dont le détenteur devenait un partenaire secret ; et un Solo dans lequel le Déclarant nommait n'importe quelle couleur comme atout et jouait seul. Il y avait des bonus pour une victoire écrasante (Schneider) ou pour avoir pris tous les plis. En se déplaçant vers le sud à travers toute la Bavière, le nouveau jeu laissa toute concurrence sur le côté, résistant même au Skat. En 1989, le 1er congrès bavarois du Schafkopf adopta des règles officielles pour la première fois.
 
-The main description on this page is based on the current version (2007) of the official rules published by the Schafkopf School (*Schafkopfschule*) in Munich. They remain true to their 19th-century roots, except for an additional contract called Wenz in which only Unters are trumps. These ‘pure’ rules are widely used, especially in tournaments. However, in pubs and parlours, cafes and clubs, a plethora of local and regional variants is played in which the official rules have been elaborated and tailored to meet a variety of tastes and levels of challenge and skill. These variants are sometimes unkindly called ‘impure’ Schafkopf, but far from being inferior, they add to the variety that makes Bavarian Schafkopf such an enjoyable and interesting game.
+La description principale de cette page est basée sur la version actuelle (2007) des règles officielles publiées par l'École du Schafkopf (*Schafkopfschule*) de Munich. Elles restent fidèles à leurs racines du XIXe siècle, à l'exception d'un contrat supplémentaire appelé Wenz dans lequel seuls les Unters sont des atouts. Ces règles « pures » sont largement utilisées, notamment dans les tournois. Cependant, dans les cafés, les salons, les restaurants et les cercles, une pléthore de variantes locales et régionales est jouée, dans laquelle les règles officielles ont été élaborées et adaptées pour répondre à divers goûts et niveaux de défi et d'habileté. Ces variantes sont parfois appelées sans indulgence Schafkopf « impur », mais loin d'être inférieures, elles ajoutent à la variété qui fait du Schafkopf bavarois un jeu si agréable et intéressant.
 
-*This page is based mainly on a contribution from Paul Eaton.*
+*Cette page est principalement basée sur une contribution de Paul Eaton.*
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Schafkopf is played with traditional Bavarian cards. In each suit there are 8 cards with the following point values: Ace/Sow (*Sau*) 11, Ten 10, King 4, Ober 3, Unter 2, Nine 0, Eight 0 and Seven 0. Thus there is a total of 120 points in the pack. 
-The highest trumps or *lords* (*Herren*) are the Obers and Unters. All Obers beat all Unters and among themselves they rank in descending order of suit Acorns, Leaves, Hearts, Bells, so in descending order from left to right they are: 
+Le Schafkopf se joue avec les cartes bavaroises traditionnelles. Dans chaque couleur il y a 8 cartes avec les valeurs de points suivantes : As/Cochon (*Sau*) 11, Dix 10, Roi 4, Ober 3, Unter 2, Neuf 0, Huit 0 et Sept 0. Il y a donc un total de 120 points dans le jeu.
+Les atouts les plus élevés ou *seigneurs* (*Herren*) sont les Ober et les Unter. Tous les Ober battent tous les Unter et entre eux ils sont classés par ordre décroissant de couleur : glands, feuilles, cœurs, cloches, donc dans l'ordre décroissant de gauche à droite ils sont :
 
-![Acorn Ober, Leaf Ober, Heart Ober, Bell Ober, Acord Unter, Leaf Unter, Heart Unter, Bell Unter](../images/schafkopf/francou.jpg)
+![Ober de gland, Ober de feuille, Ober de cœur, Ober de cloche, Unter de gland, Unter de feuille, Unter de cœur, Unter de cloche](../images/schafkopf/francou.jpg)
 
-Franconian pattern cards © ASS Altenburger
+Cartes au dessin franc © ASS Altenburger
 
-In the contract known as Wenz, only the Unters are lords.
+Dans le contrat appelé Wenz, seuls les Unter sont des seigneurs.
 
-The aim is to take as many card points in tricks as possible. The declarer must amass at least 61 card points to win; the defenders need 60 to win.
+Le but est de prendre le plus de points possible dans les plis. Le Déclarant doit accumuler au moins 61 points pour gagner ; les défenseurs ont besoin de 60 pour gagner.
 
-The so-called ‘pure’ version of Schafkopf is the form usually played in tournaments and the basis for all other varieties. It is played by four players. Deal, bidding and play are clockwise.
+La version dite « pure » du Schafkopf est la forme habituellement jouée en tournoi et la base de toutes les autres variétés. Elle se joue à quatre joueurs. La donne, les enchères et le jeu se font dans le sens horaire.
 
-## Deal
+## Donne
 
-The dealer shuffles the pack and has it cut by the player to the right. There must be at least 3 cards in each packet. Beginning with *forehand*, the player to the dealer’s left, the dealer deals the cards four at a time in two rounds so that each player has a hand of eight cards.
+Le donneur mélange le jeu et le fait couper par le joueur à sa droite. Il doit y avoir au moins 3 cartes dans chaque paquet. En commençant par *Vorhand*, le joueur à la gauche du donneur, le donneur distribue les cartes quatre par quatre en deux tours, de sorte que chaque joueur reçoive une main de huit cartes.
 
-## Auction
+## Enchères
 
-There is a single round of bidding in which players bid for the following contracts (ranked in ascending order): 
+Il y a un seul tour d'enchères dans lequel les joueurs enchérissent pour les contrats suivants (classés par ordre croissant) :
 
-The meaning of each contract is explained in the next section.
+La signification de chaque contrat est expliquée dans la section suivante.
 
-The principle is that whoever undertakes to play the highest contract becomes the declarer, and in the case of equality priority is given to the first player in clockwise order starting from the player to dealer's left (forehand) who has highest priority. The process is as follows.
+Le principe est que celui qui s'engage à jouer le contrat le plus élevé devient le Déclarant, et en cas d'égalité la priorité est donnée au premier joueur dans le sens horaire à partir de la gauche du donneur (Vorhand), qui a la plus haute priorité. Le processus est le suivant.
 
-Forehand opens the bidding and may “pass” (*weiter*) or call “I’ll play” (*ich spiele*) to play any contract. If forehand passes, the others, in turn, have the same options. Once a bid has been made, a later player may pass (i.e. accept it) by saying “good” (*ist recht* or *spiel zu*) or overcall it with “I’ll play too” (*ich spiele auch*) or “I also want to play” (*ich würde auch spielen*), which is an undertaking to play a contract higher than a Rufer*. *
+Vorhand ouvre les enchères et peut « passer » (*weiter*) ou dire « je joue » (*ich spiele*) pour jouer n'importe quel contrat. Si Vorhand passe, les autres, à leur tour, ont les mêmes options. Une fois une enchère faite, un joueur ultérieur peut passer (c'est-à-dire l'accepter) en disant « bon » (*ist recht* ou *spiel zu*) ou la surclasser en disant « je joue aussi » (*ich spiele auch*) ou « je veux aussi jouer » (*ich würde auch spielen*), ce qui est un engagement à jouer un contrat supérieur à un Rufer*.*
 
-Once a bid is overcalled, the two bidders must work out who has the higher contract without divulging unnecessary information. The process is as follows, where A is the first bidder and B the second:
+Une fois une enchère surclassée, les deux enchérisseurs doivent déterminer qui a le contrat le plus élevé sans révéler d'informations inutiles. Le processus est le suivant, où A est le premier enchérisseur et B le second :
 
-- If A only has a Rufer or wishes to drop out anyway, A passes with “good”
+- Si A n'a qu'un Rufer ou souhaite se retirer de toute façon, A passe en disant « bon »
 
-- If A has more than a Rufer, A may hold by saying “I’ll play myself” (*ich spiele selbst*)
+- Si A a plus qu'un Rufer, A peut maintenir en disant « je joue moi-même » (*ich spiele selbst*)
 
-- If A holds and B only has a Wenz or wishes to drop out of the bidding, B passes
+- Si A maintient mais B n'a qu'un Wenz ou souhaite se retirer, B passe
 
-- If A holds but B has a Solo, B may respond with “I have a Solo” (*ich hätte ein Solo*) or “but not a Wenz” (*aber keinen Wenz*), whereupon A may pass or hold again.
+- Si A maintient mais B a un Solo, B peut répondre par « j'ai un Solo » (*ich hätte ein Solo*) ou « mais pas de Wenz » (*aber keinen Wenz*), sur quoi A peut passer ou maintenir à nouveau.
 
-- If A continues to hold but B has a Wenz Tout or Solo Tout, B may respond with “I have a Tout” (*ich hätte einen Tout*).
+- Si A continue de maintenir mais B a un Wenz Tout ou un Solo Tout, B peut répondre par « j'ai un Tout » (*ich hätte einen Tout*).
 
-Essentially, if two players have the same contract, the earlier player has priority and may hold. Once A and B have resolved who has a higher level contract, the next player must either overcall or pass and so on. It is uncommon for more than two players to have a viable contract.
+En substance, si deux joueurs ont le même contrat, le joueur le plus ancien a la priorité et peut maintenir. Une fois que A et B ont résolu qui a le contrat de niveau le plus élevé, le joueur suivant doit soit surclasser soit passer, et ainsi de suite. Il est rare que plus de deux joueurs aient un contrat viable.
 
-The auction ends when everyone has had a chance to speak and the highest contract is established.
+Les enchères s'arrêtent lorsque tout le monde a eu l'occasion de parler et que le contrat le plus élevé est établi.
 
-If all pass, the cards are thrown in and the next dealer deals afresh.
+Si tous passent, les cartes sont rassemblées et le donneur suivant redistribue.
 
-## Contracts
+## Contrats
 
-### Rufer (Rufer, Rufspiel or Sauspiel).
+### Rufer (Rufer, Rufspiel ou Sauspiel).
 
-In a Rufer the *declarer*, the player who bid the Rufer, plays with a partner against the other two players who are the *defenders*. The trump suit comprises the lords, ranking in the above order, followed by the remaining 6 Heart cards which rank in descending order A 10 K 9 8 7, making a total of 14 trumps. The non-trumps rank in Ace-Ten order within each suit i.e. A > 10 > K > 9 > 8 > 7. The lords are always trumps and never part of their natural suit. So if the Ober of Leaves is led, players must play a trump (i.e. an Ober, an Unter or a Heart) if able. Likewise if a Heart is led, players must follow suit with an Ober, Unter or Hearts if able. If a non-trump such as the Nine of Leaves is led and a player has the Ober and Ten of Leaves, the Ten must be played because the Ober is a trump and not part of the suit of Leaves.
+Dans un Rufer, le *Déclarant*, le joueur qui a enchéri le Rufer, joue avec un partenaire contre les deux autres joueurs qui sont les *défenseurs*. La couleur d'atout comprend les seigneurs, classés dans l'ordre ci-dessus, suivis des 6 cartes de cœur restantes classées dans l'ordre décroissant A 10 R 9 8 7, soit un total de 14 atouts. Les non-atouts sont classés dans l'ordre As-Dix dans chaque couleur, c'est-à-dire A > 10 > R > 9 > 8 > 7. Les seigneurs sont toujours des atouts et ne font jamais partie de leur couleur naturelle. Ainsi, si l'Ober de feuille est mené, les joueurs doivent jouer un atout (c'est-à-dire un Ober, un Unter ou un cœur) s'ils le peuvent. De même, si un cœur est mené, les joueurs doivent suivre avec un Ober, un Unter ou des cœurs s'ils le peuvent. Si un non-atout comme le Neuf de feuille est mené et qu'un joueur a l'Ober et le Dix de feuille, le Dix doit être joué car l'Ober est un atout et ne fait pas partie de la couleur de feuille.
 
-Before play begins, the declarer calls a non-trump Ace in a suit in which he or she has at least one card (not the Unter or Ober) and the player with the called Ace becomes the declarer’s partner, but must not reveal this. A player who holds all three non-trump Aces is not allowed to bid a Rufer, as there is no card they would be able to call.
+Avant le début du jeu, le Déclarant appelle un As non-atout dans une couleur où il détient au moins une carte (pas un Unter ni un Ober) et le joueur avec l'As appelé devient le partenaire du Déclarant, mais ne doit pas le révéler. Un joueur qui détient les trois As non-atout n'est pas autorisé à enchérir un Rufer, car il n'y a pas de carte qu'il pourrait appeler.
 
-The declarer calls for the Ace using the words “I’m playing with the Ace of Acorns/Leaves/Bells” (*ich spiele mit der Alten/Blauen/Bumbs*) or “I’m playing with the Acorn/Leaf/Bell Sow” (*Eichel-, Gras-, Schellen-Sau*).
+Le Déclarant appelle l'As en utilisant les mots « je joue avec l'As de glands/feuilles/cloches » (*ich spiele mit der Alten/Blauen/Bumbs*) ou « je joue avec le Cochon de glands/feuilles/cloches » (*Eichel-, Gras-, Schellen-Sau*).
 
 ### Wenz
 
-In a Wenz the declarer plays alone against the other three players who play as a team. Only the four Unters are trumps and they rank in descending order: Acorns – Leaves – Hearts – Bells. The remaining cards form four separate 7-card suits, none of which is a trump suit. The Obers become ordinary suit cards ranking between the King and the Nine. Thus the suits rank in descending order as follows: A 10 K O 9 8 7.
+Dans un Wenz, le Déclarant joue seul contre les trois autres joueurs qui jouent en équipe. Seuls les quatre Unter sont des atouts et ils sont classés par ordre décroissant : glands – feuilles – cœurs – cloches. Les cartes restantes forment quatre couleurs séparées de 7 cartes, aucune n'étant une couleur d'atout. Les Ober deviennent des cartes de couleur ordinaires classées entre le Roi et le Neuf. Ainsi les couleurs sont classées par ordre décroissant comme suit : A 10 R O 9 8 7.
 
 ### Solo
 
-In a Solo the declarer plays alone against the other three players as a team, and may choose any suit as trumps provided the declarer has at least one card of the nominated suit (in addition to any Obers and Unters). Upon winning the auction the Solo bidder becomes the declarer and names trumps by saying “Acorn Solo” (*Eichel-Solo*), “Leaf Solo” (*Gras-Solo*), “Heart Solo” (*Herz-Solo*) or “Bell Solo” (*Schellen Solo*). The cards of the chosen trump suit rank below the lords in the same way that the Hearts rank in a Rufer, so as usual there are 14 trumps and 6 cards in each of the other suits. 
+Dans un Solo, le Déclarant joue seul contre les trois autres joueurs en équipe, et peut choisir n'importe quelle couleur comme atout à condition qu'il détienne au moins une carte de la couleur choisie (en plus des Ober et Unter). En gagnant les enchères, l'enchérisseur du Solo devient le Déclarant et nomme les atouts en disant « Solo de glands » (*Eichel-Solo*), « Solo de feuilles » (*Gras-Solo*), « Solo de cœurs » (*Herz-Solo*) ou « Solo de cloches » (*Schellen Solo*). Les cartes de la couleur d'atout choisie sont classées sous les seigneurs de la même manière que les cœurs dans un Rufer, de sorte qu'il y a comme d'habitude 14 atouts et 6 cartes dans chacune des autres couleurs.
 
 ### Tout
 
-This is a commitment to take all 8 tricks in a Wenz or Solo contract, which is then announced as “Wenz Tout” or “Solo Tout”. The announcement must be made before the first card is led. If the opponents win a trick, the game is lost.
+C'est un engagement à prendre les 8 plis dans un contrat Wenz ou Solo, qui est alors annoncé comme « Wenz Tout » ou « Solo Tout ». L'annonce doit être faite avant que la première carte soit menée. Si les adversaires gagnent un pli, la partie est perdue.
 
 ### Sie
 
-A player who is dealt all four Obers and four Unters lays the hand down on the table and wins without further ado. Traditionally the cards are never used again and the 8 cards are mounted, framed and hung up on the wall near the where the feat was achieved. The odds against a Sie being dealt are around 10 million to 1. 
+Un joueur qui reçoit les quatre Ober et les quatre Unter pose sa main sur la table et gagne sans plus de formalités. Traditionnellement, ces cartes ne sont plus jamais jouées et les 8 cartes sont encadrées et accrochées au mur près de l'endroit où l'exploit a été réalisé. La probabilité qu'un Sie soit distribué est d'environ 1 sur 10 millions.
 
-## Play
+## Le jeu
 
-Once the auction is over and the contract confirmed, forehand (the player to dealer's left) leads a card to the first trick. The following players in turn and in clockwise order each play a card. Players must follow suit if able; otherwise may play any card (except the called Ace in a Rufer - see below). There is no requirement to head the trick nor to play a trump if unable to follow suit. 
+Une fois les enchères terminées et le contrat confirmé, Vorhand (le joueur à la gauche du donneur) mène une carte au premier pli. Les joueurs suivants jouent chacun une carte à leur tour dans le sens horaire. Les joueurs doivent suivre la couleur s'ils le peuvent ; sinon ils peuvent jouer n'importe quelle carte (sauf l'As appelé dans un Rufer — voir ci-dessous). Il n'y a aucune obligation de surmonter le pli ni de jouer un atout si on ne peut pas suivre la couleur.
 
-Each trick is won by the highest trump in it or by the highest card of the led suit if no trumps are played. The four-card trick is stored face down in front of the winner, who then leads a card to the next trick. In a Wenz or Solo, the defenders may keep their tricks in a common pile.
+Chaque pli est remporté par le plus haut atout qu'il contient ou par la plus haute carte de la couleur demandée s'il n'y a pas d'atout. Le pli de quatre cartes est rangé face cachée devant le gagnant, qui mène ensuite une carte au pli suivant. Dans un Wenz ou un Solo, les défenseurs peuvent garder leurs plis dans une pile commune.
 
-If the contract is a Rufer the called Ace **must** be played to the first trick in which its suit is led, even if the trick has already been trumped by an opponent. The holder of the called Ace may lead it to any trick if he has the lead. If the called suit has not been led, it is illegal to throw the called Ace on a lead of a different suit, except in the last trick when no other cards are held. There is one exception to these rules. If the holder of the called Ace has at least 3 other cards of the called suit and obtains the lead before the called suit has been led, they may *run away* (*davonlaufen*) from the called Ace by leading a lower card of that suit. Therefore if the called suit is led for the first time and the Ace does not appear, all players know that the leader has the Ace and has run away. After running away, the holder of called Ace is free to discard it on a trick in another suit if unable to follow suit. 
+Si le contrat est un Rufer, l'As appelé **doit** être joué au premier pli dans lequel sa couleur est menée, même si le pli a déjà été coupé par un adversaire. Le détenteur de l'As appelé peut le mener à n'importe quel pli s'il a la donne. Si la couleur appelée n'a pas été menée, il est interdit de jeter l'As appelé sur une couleur différente, sauf au dernier pli lorsqu'aucune autre carte n'est tenue. Il y a une exception à ces règles. Si le détenteur de l'As appelé a au moins 3 autres cartes de la couleur appelée et obtient la donne avant que la couleur appelée n'ait été menée, il peut *s'enfuir* (*davonlaufen*) de l'As appelé en menant une carte inférieure de cette couleur. Par conséquent, si la couleur appelée est menée pour la première fois et que l'As n'apparaît pas, tous les joueurs savent que le meneur a l'As et s'est enfui. Après s'être enfui, le détenteur de l'As appelé est libre de le défausser sur un pli d'une autre couleur s'il ne peut pas suivre.
 
-The most recent trick may be reviewed by any player until the next trick has been laid away. 
-
-### Doubling
-
-A defender who has a strong hand may double the game value by calling “Stoss” or “Spritzn” before the second card is played to the first trick. The declarer may respond immediately with “Retour” which doubles the game value again.
-
-## Scoring
-
-At the end of the hand, players add up the card points in their tricks. In a Rufer, the declarer and declarer’s partner combine their points, as do the two defenders. In all games, the declarer needs 61 or more card points to win; the defenders win with 60 or more. If the declarer take 91 or more points or if the defenders take 90 or more points the result is "Schneider", for which the winning team receives an extra payment. If a side takes all 8 tricks, this is known as Schwarz and the winners are rewarded with a larger extra payment.
-
-Schafkopf is traditionally played for low stakes which are paid at the end of each deal. However, chips may be used instead of cash and in tournaments the score is kept on paper by recording plus and minus values representing the amount each player has won or lost.
-
-In a Rufer, each of the two losers pays the game value and any bonuses to one of the winners. In a Solo, the declarer collects the value of the game plus any bonuses from each defender if the game is won or pays the same to each defender if it is lost.
-
-Rates vary and are usually expressed in cents in the form X/Y meaning X cents for a Rufer and Y cents for a Wenz or Solo. The extra payment for Schneider is equal to the score for a Rufer (X), and in case of Schwarz this extra payment is doubled (2*X). A Wenz Tout or Solo Tout is worth twice as much as a normal Wenz or Solo and bonuses for Schneider and Schwarz are ignored.
-
-The official rules use 10/50, which results in payments as in the table below. These are the amounts won from or lost to each opponent of the bidder.
-
-| Contract | Card points or tricks won by the bidding team |
-| no tricks
-(Schwarz) | 0-30
-(Schneider) | 31-60 | 61-90 | 91-120
-(Schneider) | all tricks
-(Schwarz) |
-| Rufer | lose 30 ¢ | lose 20 ¢ | lose 10 ¢ | win 10 ¢ | win 20 ¢ | win 30 ¢ |
-| Wenz | lose 70 ¢ | lose 60 ¢ | lose 50 ¢ | win 50 ¢ | win 60 ¢ | win 70 ¢ |
-| Solo | lose 70 ¢ | lose 60 ¢ | lose 50 ¢ | win 50 ¢ | win 60 ¢ | win 70 ¢ |
-| Wenz Tout | lose 1.00 € | win 1.00 € |
-| Solo Tout | lose 1.00 € | win 1.00 € |
-
-The basic payment for Sie is twice the payment for a Tout, so 2.00 € with 10/50 scoring as above. Note however that in addition there will always by 8 runners (*Laufende*) to be paid for at the quadruple rate of 40 ¢ (as explained below), so the total payment will in fact be 5.20 € (that is 2.00 + 8×0.40) from each opponent.
-
-### Runners *(Laufende)*
-
-In addition to the above payments, the winning team can claim an additional payment if either team held an unbroken sequence of top trumps in their combined hands. These are known as ***runners*** (*Laufende*), and are analogous to the matadors in Skat. In a Rufer or Solo, the payment for runners can be claimed if either side held 3 or more consecutive top trumps (i.e. at least the Obers of Acorns, Leaves and Hearts), up to a theoretical maximum of 14. In a Wenz, the winners can claim runners if either side had 2 or more top trumps (i.e. at least the Unters of Acorns and Leaves) up to a maximum of 4 trumps.
-
-The payment for each runner is generally equal to the payment for a Rufer, i.e. X cents is the stakes are X/Y. So with 10/50 stakes the winners are paid an extra 10 ¢ for each trump in the sequence. Note that it is up to the winners to claim this extra payment. If they do not notice or forget that it is due, it cannot be claimed after the next hand has been dealt.
-
-Laufende payments are doubled in case of a Tout and doubled again for a Sie.
+Le pli le plus récent peut être examiné par n'importe quel joueur jusqu'à ce que le pli suivant ait été rangé.
 
 ### Doubles
 
-If the game has been doubled by a defender calling Stoss or Spritzn, all payments are doubled. If Retour was called as well all payments are quadrupled instead of doubled.
+Un défenseur qui a une main forte peut doubler la valeur de la partie en appelant « Stoss » ou « Spritzn » avant que la deuxième carte ne soit jouée au premier pli. Le Déclarant peut répondre immédiatement par « Retour » qui double à nouveau la valeur de la partie.
 
-### Examples
+## Comptage
 
-- B announces a Rufer “with the Ace of Bells” who is C. They win with Schneider, and have 5 runners between them (four Obers and the Unter of Acorns). A pays B 70 ¢ (10 ¢ for game, 10 ¢ for Schneider and 50 ¢ for runners) and C pays D 70 ¢.
+À la fin de la main, les joueurs additionnent les points de leurs plis. Dans un Rufer, le Déclarant et le partenaire du Déclarant combinent leurs points, tout comme les deux défenseurs. Dans toutes les parties, le Déclarant a besoin de 61 points ou plus pour gagner ; les défenseurs gagnent avec 60 ou plus. Si le Déclarant prend 91 points ou plus, ou si les défenseurs prennent 90 points ou plus, le résultat est « Schneider », pour lequel l'équipe gagnante reçoit un paiement supplémentaire. Si un camp prend les 8 plis, c'est le Schwarz et les gagnants sont récompensés par un paiement supplémentaire plus important.
 
-- C wins the auction and announces a “Leaf Solo”, but loses singly. She had 3 runners (the Obers of Acorns, Leaves and Hearts). She pays 80 ¢ to each opponent (50 ¢ for game and 3 x 10 ¢ for runners).
+Le Schafkopf se joue traditionnellement pour des petites mises qui sont payées à la fin de chaque donne. Cependant, des jetons peuvent être utilisés à la place de l'argent et dans les tournois le score est tenu sur papier en enregistrant des valeurs positives et négatives représentant le montant gagné ou perdu par chaque joueur.
 
-- A calls a Rufer “with the Ace of Leaves” who is D. They win all eight tricks but had no runners as A held the Ober of Hearts. B pays A 30 ¢ (10 ¢ for game and 20 ¢ for Schwarz) and C pays D 30 ¢.
+Dans un Rufer, chacun des deux perdants paie la valeur de la partie et les bonus éventuels à l'un des gagnants. Dans un Solo, le Déclarant perçoit la valeur de la partie plus les bonus de chaque défenseur si la partie est gagnée, ou paie le même à chaque défenseur si elle est perdue.
 
-- C wins the auction and announces a Wenz Tout, but D doubles with “Stoss”. C wins all the tricks and held two runners: (Unters of Acorns and Leaves). Each opponent pays her €2.40 (1.00 ¢ for the Wenz Tout plus 20 ¢ for runners, all doubled for the Stoss).  
+Les tarifs varient et sont généralement exprimés en centimes sous la forme X/Y signifiant X centimes pour un Rufer et Y centimes pour un Wenz ou un Solo. Le paiement supplémentaire pour Schneider est égal au score d'un Rufer (X), et en cas de Schwarz ce paiement supplémentaire est doublé (2×X). Un Wenz Tout ou Solo Tout vaut deux fois plus qu'un Wenz ou Solo normal et les bonus pour Schneider et Schwarz sont ignorés.
 
-## Tactics
+Les règles officielles utilisent 10/50, ce qui donne les paiements du tableau ci-dessous. Ce sont les montants gagnés par ou perdus envers chaque adversaire de l'enchérisseur.
 
-It is generally accepted that in a Rufer an opponent of the declarer should begin by leading the called suit, to which the declarer's partner will have to play the Ace. This will clarify the partnerships, but more importantly the declarer's other opponent may be able to trump the Ace. Even though the chance of the Ace being trumped is less than 50%, the advantage gained by the defenders when it happens outweighs the disadvantage of handing the initiative to the declarer's team if the called Ace wins the trick. Leading the called suit obviously becomes less attractive after the declarer's team has played a few rounds of trumps, as an opponent who is void in the suit may then have run out of trumps. For this reason the declarer's team will normally begin by playing trumps.
+| Contrat | Points ou plis gagnés par l'équipe déclarante |
+| aucun pli (Schwarz) | 0-30 (Schneider) | 31-60 | 61-90 | 91-120 (Schneider) | tous les plis (Schwarz) |
+| Rufer | perd 30 ¢ | perd 20 ¢ | perd 10 ¢ | gagne 10 ¢ | gagne 20 ¢ | gagne 30 ¢ |
+| Wenz | perd 70 ¢ | perd 60 ¢ | perd 50 ¢ | gagne 50 ¢ | gagne 60 ¢ | gagne 70 ¢ |
+| Solo | perd 70 ¢ | perd 60 ¢ | perd 50 ¢ | gagne 50 ¢ | gagne 60 ¢ | gagne 70 ¢ |
+| Wenz Tout | perd 1,00 € | gagne 1,00 € |
+| Solo Tout | perd 1,00 € | gagne 1,00 € |
 
-As in any partnership point-trick game, an important tactic is ‘smearing’ i.e. when unable to follow suit, playing an Ace or Ten to the trick if you think it will be won by your partner or co-defender. Equally, if the trick is likely to go to the opponents, a player may slough (discard a low value card of another suit) if unable to follow suit. Players may also aim void a suit in order to be able to trump it when it is led.
+Le paiement de base pour un Sie est le double du paiement d'un Tout, soit 2,00 € avec un score de 10/50 comme ci-dessus. Cependant, il y aura toujours en plus 8 coureurs (*Laufende*) à payer au tarif quadruple de 40 ¢ (comme expliqué ci-dessous), soit un paiement total de 5,20 € (c'est-à-dire 2,00 + 8×0,40) de chaque adversaire.
 
-## Variants
+### Coureurs (*Laufende*)
 
-Outside of tournaments, the way Schafkopf is played varies widely from region to region. These variants are sometimes referred to as ‘impure’ Schafkopf (*unreiner Schafkopf*), which does not mean that they are necessarily inferior. They are mostly ways to add extra variety to the game. They are always built on the foundation of ‘pure’ Schafkopf, but with additional contracts and features. In effect, players can choose the level of complexity they want and fine tune the element of chance.
+En plus des paiements ci-dessus, l'équipe gagnante peut réclamer un paiement supplémentaire si l'un ou l'autre camp détenait une séquence ininterrompue d'atouts élevés dans leurs mains combinées. Ce sont les ***coureurs*** (*Laufende*), analogues aux matadors au Skat. Dans un Rufer ou un Solo, le paiement pour les coureurs peut être réclamé si l'un ou l'autre camp détenait 3 atouts élevés consécutifs ou plus (c'est-à-dire au moins les Ober de glands, feuilles et cœurs), jusqu'à un maximum théorique de 14. Dans un Wenz, les gagnants peuvent réclamer des coureurs si l'un ou l'autre camp avait 2 atouts élevés ou plus (c'est-à-dire au moins les Unter de glands et de feuilles), jusqu'à un maximum de 4 atouts.
 
-To avoid misunderstandings, Schafkopf players assume the basic rules of pure Schafkopf and state the differences e.g. “with Geier, Suit Geier and Suit Wenz, tariff 10 / 50 cents” or “with Geier and Bettel, tariff 5 / 20 cents.” If you are new to a Schafkopf circle, it is important to clarify at the start which variants are being played.
+Le paiement pour chaque coureur est généralement égal au paiement d'un Rufer, c'est-à-dire X centimes si la mise est X/Y. Avec une mise de 10/50, les gagnants reçoivent 10 ¢ supplémentaires pour chaque atout de la séquence. Notez qu'il appartient aux gagnants de réclamer ce paiement supplémentaire. S'ils ne remarquent pas ou oublient qu'il est dû, il ne peut plus être réclamé après que la main suivante a été distribuée.
 
-### Stakes
+Les paiements de Laufende sont doublés en cas de Tout et doublés à nouveau pour un Sie.
 
-A common alternative tariff is 5/10, that is 5 ¢ for a Rufer and 10 ¢ for a Wenz or Solo. With this tariff the payments in the examples would be 1: 35¢, 2: 25¢, 3: 15¢, 4: 60¢.
+### Doubles
 
-The payment for runners adds a degree of randomness to the scores as it often outweighs the reward for winning. To mitigate this some groups use a triple tariff in which runners score less in comparison to the game. For example 10/20/50 would mean that 10 ¢ would be paid for each runner and for Schneider, 20 ¢ for Rufer and Schwarz and 50 ¢ for Wenz and Solo. Some players prefer to exclude payments for runners to altogether to maximise the skill factor. 
+Si la partie a été doublée par un défenseur appelant Stoss ou Spritzn, tous les paiements sont doublés. Si Retour a également été appelé, tous les paiements sont quadruplés au lieu d'être doublés.
+
+### Exemples
+
+- B annonce un Rufer « avec l'As de cloches » qui est C. Ils gagnent avec Schneider et ont 5 coureurs entre eux (quatre Ober et l'Unter de glands). A paie 70 ¢ à B (10 ¢ pour la partie, 10 ¢ pour Schneider et 50 ¢ pour les coureurs) et C paie 70 ¢ à D.
+
+- C gagne les enchères et annonce un « Solo de feuilles », mais perd seul. Elle avait 3 coureurs (les Ober de glands, feuilles et cœurs). Elle paie 80 ¢ à chaque adversaire (50 ¢ pour la partie et 3 × 10 ¢ pour les coureurs).
+
+- A appelle un Rufer « avec l'As de feuilles » qui est D. Ils gagnent les huit plis mais n'avaient aucun coureur car A détenait l'Ober de cœurs. B paie 30 ¢ à A (10 ¢ pour la partie et 20 ¢ pour le Schwarz) et C paie 30 ¢ à D.
+
+- C gagne les enchères et annonce un Wenz Tout, mais D double avec « Stoss ». C gagne tous les plis et détenait deux coureurs (Unter de glands et de feuilles). Chaque adversaire lui paie 2,40 € (1,00 ¢ pour le Wenz Tout plus 20 ¢ pour les coureurs, le tout doublé pour le Stoss).
+
+## Tactique
+
+Il est généralement admis que dans un Rufer, un adversaire du Déclarant devrait commencer par mener la couleur appelée, à laquelle le partenaire du Déclarant devra jouer l'As. Cela clarifie les partenariats, mais plus important encore, l'autre adversaire du Déclarant pourrait être en mesure de couper l'As. Bien que la probabilité que l'As soit coupé soit inférieure à 50 %, l'avantage obtenu par les défenseurs lorsque cela se produit l'emporte sur le désavantage de donner l'initiative à l'équipe du Déclarant si l'As appelé gagne le pli. Mener la couleur appelée devient évidemment moins attractif après que l'équipe du Déclarant a joué quelques tours d'atouts, car un adversaire coupé dans cette couleur a pu alors épuiser ses atouts. Pour cette raison, l'équipe du Déclarant commencera normalement par jouer des atouts.
+
+Comme dans tout jeu de plis en partenariat, une tactique importante est le « chargement », c'est-à-dire, lorsqu'on ne peut pas suivre, jouer un As ou un Dix sur le pli si l'on pense qu'il sera gagné par son partenaire ou co-défenseur. De même, si le pli risque d'aller aux adversaires, un joueur peut se défausser d'une carte de faible valeur d'une autre couleur s'il ne peut pas suivre. Les joueurs peuvent aussi chercher à se couper d'une couleur pour pouvoir la couper lorsqu'elle est menée.
+
+## Variantes
+
+En dehors des tournois, la façon dont le Schafkopf est joué varie considérablement d'une région à l'autre. Ces variantes sont parfois appelées Schafkopf « impur » (*unreiner Schafkopf*), ce qui ne signifie pas qu'elles sont nécessairement inférieures. Elles consistent surtout en moyens d'ajouter de la variété au jeu. Elles s'appuient toujours sur les fondations du Schafkopf « pur », mais avec des contrats et des éléments supplémentaires. En pratique, les joueurs peuvent choisir le niveau de complexité souhaité et ajuster la part de hasard.
+
+Pour éviter les malentendus, les joueurs de Schafkopf supposent les règles de base du Schafkopf pur et précisent les différences, par exemple « avec Geier, Suit Geier et Suit Wenz, tarif 10 / 50 centimes » ou « avec Geier et Bettel, tarif 5 / 20 centimes. » Si vous êtes nouveau dans un cercle de Schafkopf, il est important de clarifier au départ quelles variantes sont jouées.
+
+### Mises
+
+Un tarif alternatif courant est 5/10, soit 5 ¢ pour un Rufer et 10 ¢ pour un Wenz ou un Solo. Avec ce tarif, les paiements des exemples seraient : 1 : 35 ¢, 2 : 25 ¢, 3 : 15 ¢, 4 : 60 ¢.
+
+Le paiement des coureurs ajoute un degré d'aléa aux scores car il dépasse souvent la récompense de la victoire. Pour atténuer cela, certains groupes utilisent un triple tarif dans lequel les coureurs comptent moins par rapport à la partie. Par exemple, 10/20/50 signifierait que 10 ¢ seraient payés pour chaque coureur et pour Schneider, 20 ¢ pour Rufer et Schwarz et 50 ¢ pour Wenz et Solo. Certains joueurs préfèrent supprimer totalement les paiements pour les coureurs afin de maximiser le facteur d'habileté.
 
 **Legen**
-*Legen* (laying) is an additional method of doubling the stakes. In a game with *Legen* any player can double the stakes during the deal after seeing just four of their cards. During the deal, any player may, after picking up and looking at their first packet of 4 cards, say “double” (*ich doppel*) or “laying” (*ich leg*). *Legen* is often indicated by placing a marker or a coin on the table in front of the player. 
+*Legen* (poser) est une méthode supplémentaire de doublement des mises. Dans une partie avec *Legen*, n'importe quel joueur peut doubler la mise pendant la donne après avoir vu seulement quatre de ses cartes. Pendant la donne, tout joueur peut, après avoir ramassé et regardé son premier paquet de 4 cartes, dire « je double » (*ich doppel*) ou « je pose » (*ich leg*). *Legen* est souvent indiqué en posant un marqueur ou une pièce sur la table devant le joueur.
 
-Each *Legen* doubles all the payments for the deal - so for example if three players *legen* all payments are multiplied by 8.
+Chaque *Legen* double tous les paiements de la donne — ainsi par exemple si trois joueurs *legen*, tous les paiements sont multipliés par 8.
 
-It is acceptable for the dealer to look at their second packet of four cards instead of their first to decide whether to *legen*. This is simply because it is more convenient for the dealer to complete the deal and look at the last four cards rather than interrupt the deal to look at their first four cards before continuing. 
+Il est acceptable que le donneur regarde son deuxième paquet de quatre cartes au lieu du premier pour décider s'il va *legen*. C'est simplement parce qu'il est plus pratique pour le donneur de terminer la distribution et regarder les quatre dernières cartes plutôt que d'interrompre la donne pour regarder les quatre premières avant de continuer.
 
-Some play a milder form of *Legen* where only forehand can double the stake in this way, or an intermediate version where players other than forehand can only *legen* if all previous players have *gelegt*.
+Certains jouent une forme plus douce de *Legen* où seul Vorhand peut doubler la mise de cette façon, ou une version intermédiaire où les joueurs autres que Vorhand ne peuvent *legen* que si tous les joueurs précédents ont *gelegt*.
 
-### Short Schafkopf
+### Schafkopf court
 
-In northeastern Bavaria, especially the Upper Palatinate and Upper Franconia, ‘short’ or ‘sharp’ Schafkopf is popular. This is the same as normal Schafkopf but with only 24 cards – the Sevens and Eights being omitted – and each player receives 6 cards. The rules are the same but game is faster and tactics slightly different because of the changed distribution of trumps and non-trumps, leaving just four cards A 10 K 9 in each non-trump suit. Sometimes the Nines are also removed, leaving 20 cards in the game and hands of 5 cards each.
+Dans le nord-est de la Bavière, notamment le Haut-Palatinat et la Haute-Franconie, le Schafkopf « court » ou « vif » est populaire. C'est le même que le Schafkopf normal mais avec seulement 24 cartes — les Sept et les Huit étant retirés — et chaque joueur reçoit 6 cartes. Les règles sont les mêmes mais le jeu est plus rapide et la tactique légèrement différente en raison de la distribution modifiée des atouts et des non-atouts, ne laissant que quatre cartes A 10 R 9 dans chaque couleur non-atout. Parfois les Neufs sont aussi retirés, laissant 20 cartes dans le jeu et des mains de 5 cartes chacune.
 
-Data from 2009 shows that at that time well over half the games played on the popular online site sauspiel.de were with 24 cards rather than 32.
+Les données de 2009 montrent qu'à cette époque bien plus de la moitié des parties jouées sur le site en ligne populaire sauspiel.de se jouaient avec 24 cartes plutôt que 32.
 
-### Bidding Process
+### Processus d'enchères
 
-This is sometimes quite informal, but the basic principles are always the same.
+Il est parfois assez informel, mais les principes de base sont toujours les mêmes.
 
-- Whoever undertakes to play the highest contract becomes the declarer.
+- Celui qui s'engage à jouer le contrat le plus élevé devient le Déclarant.
 
-- If two players want to play the same contract (or equal ranked contracts) the first of those players in clockwise rotation starting from the dealer's left has priority.
+- Si deux joueurs veulent jouer le même contrat (ou des contrats de même rang), le premier de ces joueurs dans l'ordre horaire à partir de la gauche du donneur a la priorité.
 
-- During the auction, players only reveal enough information to establish who will become declarer. 
+- Pendant les enchères, les joueurs ne révèlent que l'information nécessaire pour établir qui sera le Déclarant.
 
-- At the end of the auction the declarer announces the contract which must be at least as high as the final contract mentioned in the auction and may be higher.
+- À la fin des enchères, le Déclarant annonce le contrat, qui doit être au moins aussi élevé que le contrat final mentionné lors des enchères et peut être supérieur.
 
-### Additional Contracts
+### Contrats supplémentaires
 
-The most common additional contracts are Suit Wenz, Geier, Suit Geier, Bettel and Hochzeit. These will be described first.  A tariff of 10/50 cents is assumed.
+Les contrats supplémentaires les plus courants sont Suit Wenz, Geier, Suit Geier, Bettel et Hochzeit. Ceux-ci seront décrits en premier. Un tarif de 10/50 centimes est supposé.
 
 **Suit Wenz**
-The four Unters are lords in addition to the cards of a suit chosen by the declarer. Thus there are 11 trumps in the game: the four Unters, in the order, Acorns – Leaves – Hearts – Bells, and then the cards of the trump suit in the order, A 10 K O 9 8 7. The other suits have 7 cards: A 10 K O 9 8 7. Runners are paid when one team has a sequence of 2 or more top trumps.
+Les quatre Unter sont des seigneurs en plus des cartes d'une couleur choisie par le Déclarant. Il y a donc 11 atouts dans le jeu : les quatre Unter, dans l'ordre glands – feuilles – cœurs – cloches, puis les cartes de la couleur d'atout dans l'ordre A 10 R O 9 8 7. Les autres couleurs ont 7 cartes : A 10 R O 9 8 7. Les coureurs sont payés lorsqu'une équipe a une séquence de 2 atouts élevés ou plus.
+
 **Geier**
-This is analogous to a Wenz, but In a Geier only the four Obers are trumps. The Unters become ordinary suit cards ranking between the King and the Nine. The Obers rank in the order: Acorns – Leaves – Hearts – Bells and each of the four suits ranks A 10 K U 9 8 7. 
+C'est analogue à un Wenz, mais dans un Geier seuls les quatre Ober sont des atouts. Les Unter deviennent des cartes de couleur ordinaires classées entre le Roi et le Neuf. Les Ober sont classés dans l'ordre : glands – feuilles – cœurs – cloches et chacune des quatre couleurs est classée A 10 R U 9 8 7.
+
 **Suit Geier**
-Equivalent to Suit Wenz, except that the Obers instead of the Unters are the lords, heading the 11-card trump suit.
+Équivalent au Suit Wenz, sauf que les Ober au lieu des Unter sont les seigneurs, en tête de la couleur d'atout de 11 cartes.
+
 **Bettel**
-A negative game in which the declarer undertakes to lose every trick. In the auction Bettel ranks as the lowest of the games in which the declarer plays alone. There is a fixed payment for Bettel which may be equal to a Solo, or less than a Solo but more than a Rufer, for example 20 or 30 cents. There are several variants of the card ranking and the rules of play.
+Un jeu négatif dans lequel le Déclarant s'engage à perdre chaque pli. Lors des enchères, le Bettel est classé comme le plus bas des jeux dans lesquels le Déclarant joue seul. Il y a un paiement fixe pour le Bettel, qui peut être égal à un Solo, ou inférieur à un Solo mais supérieur à un Rufer, par exemple 20 ou 30 centimes. Il existe plusieurs variantes de la hiérarchie des cartes et des règles du jeu.
 
-- Some play it just like a Null in Skat. There are no trumps and cards rank in each suit rank from high to low A K O U 10 9 8 7. As usual players must follow suit if they can.
+- Certains le jouent exactement comme un Null au Skat. Il n'y a pas d'atout et les cartes sont classées dans chaque couleur du plus haut au plus bas A R O U 10 9 8 7. Comme d'habitude, les joueurs doivent suivre la couleur s'ils le peuvent.
 
-- Some introduce an additional rule of play that when following suit each player must if possible beat the highest card so far played to the trick.
+- Certains introduisent une règle de jeu supplémentaire selon laquelle, en suivant la couleur, chaque joueur doit si possible surmonter la carte la plus haute jouée dans le pli jusqu'à présent.
 
-- Some give the first lead to the declarer rather than to forehand. When combined with the rule requiring players to overtake, this enables the declarer to get rid of one high cards (though not an Ace) by leading it to the first trick so that some opponent will be forced to overtake it.
+- Certains donnent la première donne au Déclarant plutôt qu'à Vorhand. Combiné avec la règle obligeant à surmonter, cela permet au Déclarant de se débarrasser d'une carte élevée (mais pas un As) en la menant au premier pli pour qu'un adversaire soit forcé de la surmonter.
 
-- Some play with Hearts as trumps and the ranking and the rules of play exactly as in a Rufer or Heart Solo.
+- Certains jouent avec les cœurs comme atout et la hiérarchie et les règles du jeu exactement comme dans un Rufer ou un Solo de cœurs.
 
-**Wedding (Hochzeit)**
-Whether or not anyone has bid or not, a player dealt only one trump may place it face down in the middle of the table, announcing e.g. “who’s playing a Wedding with me?” (*wer spielt mit mir Hochzeit?*).  Players may reject the offer by saying e.g. “not with me” (*ohne mich *or *nicht mit mir*) or accept it with “I’ll take it” (*ich nehme an*), “with me” (*mit mir*) “I’m with you” (*ich bin dabei*) or bid a higher contract. If two players are interested in a Wedding, positional priority applies. Unless someone has bid a solo game, the acceptor picks up the trump and passes another card, face down, to the player who announced the wedding in exchange. They then play as declarers against the other two, the rules being as in a Rufer but without a called Ace. The game ranks above a Rufer but below all solo contracts. If no-one accepts, everyone scores zero and the next dealer deals.
+**Mariage (Hochzeit)**
+Que quelqu'un ait enchéri ou non, un joueur qui n'a reçu qu'un seul atout peut le poser face cachée au milieu de la table en annonçant par exemple « qui joue un mariage avec moi ? » (*wer spielt mit mir Hochzeit ?*). Les joueurs peuvent rejeter l'offre en disant par exemple « pas avec moi » (*ohne mich* ou *nicht mit mir*) ou l'accepter en disant « je prends » (*ich nehme an*), « avec moi » (*mit mir*), « je suis partant » (*ich bin dabei*) ou enchérir un contrat supérieur. Si deux joueurs sont intéressés par un mariage, la priorité de position s'applique. À moins que quelqu'un ait enchéri un jeu solo, l'accepteur ramasse l'atout et passe une autre carte, face cachée, au joueur qui a annoncé le mariage en échange. Ils jouent ensuite en tant que Déclarants contre les deux autres, les règles étant celles d'un Rufer mais sans As appelé. Le jeu se classe au-dessus d'un Rufer mais en dessous de tous les contrats solo. Si personne n'accepte, tout le monde marque zéro et le donneur suivant distribue.
 
-In some circles, Hochzeit is part of the normal bidding process and called in the same way as a solo contract; a Hochzeit bidder who wins the auction offers the Hochzeit and players speak in order beginning with forehand. 
+Dans certains cercles, Hochzeit fait partie du processus normal des enchères et est appelé de la même manière qu'un contrat solo ; un enchérisseur de Hochzeit qui gagne les enchères propose le Hochzeit et les joueurs parlent dans l'ordre en commençant par Vorhand.
 
-**Comment:** only a player with at least five trumps and the potential to void a suit should accept the offer. 
+**Commentaire :** seul un joueur ayant au moins cinq atouts et la possibilité de se couper d'une couleur devrait accepter l'offre.
 
-The ranking of the additional contracts varies, but the following is typical:
+La hiérarchie des contrats supplémentaires varie, mais la suivante est typique :
 
 - Rufer
 
-- Hochzeit (marriage)
+- Hochzeit (mariage)
 
 - Bettel
 
@@ -238,167 +237,167 @@ The ranking of the additional contracts varies, but the following is typical:
 
 - Suit Wenz
 
-Other contracts are occasionally seen, including **Kaiser** (also called *König, Keni, Krone, Habicht, Adler, Hühnergeier* or *Bart*), which is the same as a Wenz except that the four Kings are the lords, and **Eisenbahner**, in which the Tens are lords. As a general rule, the higher the point value of the cards chosen as lords, the lower the contract ranking. It has been suggested that this is because contracts in which the lords have a higher point value are easier to win. Likewise, suit contracts rank below their natural (suitless) equivalents because they are generally easier. 
+D'autres contrats sont parfois rencontrés, notamment **Kaiser** (aussi appelé *König, Keni, Krone, Habicht, Adler, Hühnergeier* ou *Bart*), qui est identique à un Wenz sauf que les quatre Rois sont les seigneurs, et **Eisenbahner**, dans lequel les Dix sont les seigneurs. En règle générale, plus la valeur en points des cartes choisies comme seigneurs est élevée, plus bas est le classement du contrat. Il a été suggéré que cela est dû au fait que les contrats où les seigneurs ont une valeur en points plus élevée sont plus faciles à gagner. De même, les contrats de couleur se classent en dessous de leurs équivalents naturels (sans couleur) car ils sont généralement plus faciles.
 
-### Avoiding Passed Out Hands
+### Éviter les mains passées
 
 **Ramsch**
-As in Skat, a Ramsch may be played if all four players pass. This avoids having to redeal the pack and adds an interesting diversion from the normal game. There are the the same 14 trumps as in a Rufer (the Obers, Unters and all the Hearts). As in a Rufer players must follow suit and if unable may play any card - there is no obligation to beat the highest card in the trick. There are no partners - everyone plays for themselves and the aim is to avoid taking counting cards in tricks. The player with the most points in their tricks is the loser and pays the basic stake (e.g. 10 cents in a 10/50 game) to each of the other three players. Ties may be resolved as follows.
+Comme au Skat, un Ramsch peut être joué si les quatre joueurs passent. Cela évite d'avoir à redistribuer et constitue une diversion intéressante par rapport au jeu normal. Il y a les mêmes 14 atouts que dans un Rufer (les Ober, les Unter et tous les cœurs). Comme dans un Rufer, les joueurs doivent suivre la couleur et s'ils ne peuvent pas, ils peuvent jouer n'importe quelle carte — il n'y a aucune obligation de surmonter la carte la plus haute du pli. Il n'y a pas de partenaires — chacun joue pour soi et le but est d'éviter de prendre des cartes comptant dans les plis. Le joueur qui a le plus de points dans ses plis est le perdant et paie la mise de base (par exemple 10 centimes dans un jeu 10/50) à chacun des trois autres joueurs. Les égalités peuvent être résolues comme suit.
 
-- If two or more players tie for most points, whichever of them has more tricks is the loser.
+- Si deux joueurs ou plus sont à égalité pour le plus de points, celui d'entre eux qui a le plus de plis est le perdant.
 
-- If players tie for most points and for most tricks, whichever of them has most trumps in their tricks is the loser.
+- Si les joueurs sont à égalité pour le plus de points et le plus de plis, celui qui a le plus d'atouts dans ses plis est le perdant.
 
-- If players tie for most points, most tricks and most trumps, whichever of them has the highest trump in their tricks is the loser.
+- Si les joueurs sont à égalité pour le plus de points, le plus de plis et le plus d'atouts, celui qui a l'atout le plus élevé dans ses plis est le perdant.
 
-For every player who avoided taking a trick, i.e. was *Jungfrau* (“virgin”), the loser's payment is doubled, so for example if two players are without tricks, the loser must pay 4× the basic stake to each other player. 
+Pour chaque joueur qui a évité de prendre un pli, c'est-à-dire qui est *Jungfrau* (« vierge »), le paiement du perdant est doublé, ainsi par exemple si deux joueurs sont sans pli, le perdant doit payer 4× la mise de base à chaque autre joueur.
 
-Some play that (as in Skat), a player who takes all the tricks in a Ramsch wins a Durchmarsch (or Mord) and is paid an agreed amount
-by each opponent.
+Certains jouent que (comme au Skat), un joueur qui prend tous les plis dans un Ramsch gagne un Durchmarsch (ou Mord) et se fait payer un montant convenu par chaque adversaire.
 
 **Stock**
-If Ramsch is not played, many follow the custom that the last player announces “Stock” whereupon each player places an agreed amount, e.g. 10 cents, into a pot as a sweetener to be collected and shared by the next players to win a Rufer. However, if the declaring team lose the Rufer they have to double the Stock between them. This is in addition to the regular payment for the game.
-Muss-Spiel
-In this variant, commonly played in tournaments, if all four players pass the holder of the Ober of Acorns has to play a Rufer. In this case no Stoss (Kontra) is allowed and the declarer's team needs only 60+ points to win (90+ to win with Schneider, 30+ to avoid losing with Schneider). 
+Si le Ramsch n'est pas joué, beaucoup suivent la coutume selon laquelle le dernier joueur annonce « Stock » oùupon chaque joueur place un montant convenu, par exemple 10 centimes, dans un pot comme incitation à être collectée et partagée par les prochains joueurs à gagner un Rufer. Cependant, si l'équipe déclarante perd le Rufer, elle doit doubler le Stock entre eux. Cela s'ajoute au paiement régulier de la partie.
 
-If the 
-holder of the Acorn Ober has no non-trump suit without the Ace they are in this case allowed to call a suit in which they are void (Renonce) and must announce that they are doing so. If that is also impossible because the declarer holds the Acorn Ober and all three non-Heart Aces then in this case only they must call a non-trump Ten that they do not hold, or a King if they hold the Acorn Ober and the A-10 of all three non-trump suits. 
+**Muss-Spiel**
+Dans cette variante, couramment jouée en tournoi, si les quatre joueurs passent, le détenteur de l'Ober de glands doit jouer un Rufer. Dans ce cas, aucun Stoss (Kontra) n'est autorisé et l'équipe du Déclarant n'a besoin que de 60+ points pour gagner (90+ pour gagner avec Schneider, 30+ pour éviter de perdre avec Schneider).
 
-### Special Rounds
+Si le détenteur de l'Ober de glands n'a aucune couleur non-atout sans l'As, il est dans ce cas autorisé à appeler une couleur dans laquelle il est void (Renonce) et doit l'annoncer. Si c'est également impossible parce que le Déclarant détient l'Ober de glands et les trois As non-cœur, alors dans ce cas seulement il doit appeler un Dix non-atout qu'il ne détient pas, ou un Roi s'il détient l'Ober de glands et l'A-10 de toutes les trois couleurs non-atout.
 
-A feature of pub Schafkopf is the special rounds which may occur either after various events such as a lost Solo or at the end of the evening. Each of these rounds consists of four deals, one by each player, played under special rules. Some examples follow.
+### Manches spéciales
+
+Une caractéristique du Schafkopf de café est les manches spéciales qui peuvent survenir après divers événements comme un Solo perdu ou à la fin de la soirée. Chacune de ces manches consiste en quatre donnes, une par chaque joueur, jouées selon des règles spéciales. Voici quelques exemples.
 
 **Bock**
-A Bock round is a round of 4 deals in which all payments are automatically doubled. Players may agree that a Bock round begins immediately after events such as a game ending 60-60 or Schwarz, or where a player loses when playing alone. Players may agree that Bock rounds overlap (so that payments are quadrupled when a new Bock round begins before the end of the previous one) or are sequential (so that a special event during a Bock round causes a new Bock round immediately after the end of the currently scheduled Bock rounds, and several special events occurring within a few deals can cause a queue of future Bock rounds to be accumulate).
+Un tour de Bock est une série de 4 donnes dans lesquelles tous les paiements sont automatiquement doublés. Les joueurs peuvent convenir qu'un tour de Bock commence immédiatement après des événements comme une partie se terminant à 60-60 ou un Schwarz, ou lorsqu'un joueur perd en jouant seul. Les joueurs peuvent convenir que les tours de Bock se chevauchent (de sorte que les paiements sont quadruplés lorsqu'un nouveau tour de Bock commence avant la fin du précédent) ou sont séquentiels (de sorte qu'un événement spécial pendant un tour de Bock provoque un nouveau tour de Bock immédiatement après la fin des tours de Bock programmés, et plusieurs événements spéciaux survenant en quelques donnes peuvent entraîner une file de futurs tours de Bock).
+
 **Kreuz**
-A Kreuz (“cross”) round may be played after a Solo. Cards are dealt face up one by one until two players have received an Ace, and these two form a partnership against the other two players. Trumps are the same as in a Rufer and the players with the Aces need at least 61 points to win, 91 for Schneider, etc. In some places Kreuz is played with the players sitting opposite as partners instead of dealing for Aces.
+Un tour de Kreuz (« croix ») peut être joué après un Solo. Les cartes sont distribuées face visible une par une jusqu'à ce que deux joueurs aient reçu un As, et ces deux forment un partenariat contre les deux autres joueurs. Les atouts sont les mêmes que dans un Rufer et les joueurs avec les As ont besoin d'au moins 61 points pour gagner, 91 pour Schneider, etc. Dans certains endroits, Kreuz se joue avec les joueurs assis en face comme partenaires au lieu de distribuer pour les As.
 
 **Schieber**
-A Schieber (“pusher”) round may be played after e.g. a Tout. The Obers of Acorns and Leaves are extracted and the remaining cards are dealt as usual, except that the dealer only has 6 cards. The top two lords are first offered to forehand, then if forehand does not want them to the other players in clockwise order. A player who accepts these lords is committed to play a suit Solo. They discard any two unwanted cards and pass them to the player to their left who takes them and in turn discards two cards passed to the following player, and so on around the table until dealer receives two cards, to make up an eight-card hand. The cards passed on by a player may include cards received from the previous player. When all players have 8 cards, the player who accepted the top lords announces the suit of their Solo. If none of the first three players accepts the lords, the dealer may either take the two lords and play a suit Solo without discarding any cards or throw in the cards, in which case there is no score and the next player deals.
-**Teufel**
-In a Teufel (“devil”) round, forehand is given the Obers of Acorns, Leaves and Bells and the Unter of Acorns (i.e. the 1st, 3rd, 4th and 5th highest trumps) and must announce a Solo in a suit before seeing any other cards.
+Un tour de Schieber (« pousseur ») peut être joué après, par exemple, un Tout. Les Ober de glands et de feuilles sont retirés et les cartes restantes sont distribuées comme d'habitude, sauf que le donneur n'a que 6 cartes. Les deux seigneurs les plus élevés sont d'abord offerts à Vorhand, puis si Vorhand ne les veut pas, aux autres joueurs dans l'ordre horaire. Un joueur qui accepte ces seigneurs s'engage à jouer un Solo de couleur. Il défausse deux cartes de son choix et les passe au joueur à sa gauche qui les prend et à son tour défausse deux cartes passées au joueur suivant, et ainsi de suite autour de la table jusqu'à ce que le donneur reçoive deux cartes pour compléter une main de huit cartes. Les cartes passées par un joueur peuvent inclure des cartes reçues du joueur précédent. Lorsque tous les joueurs ont 8 cartes, le joueur qui a accepté les seigneurs supérieurs annonce la couleur de son Solo. Si aucun des trois premiers joueurs n'accepte les seigneurs, le donneur peut soit prendre les deux seigneurs et jouer un Solo de couleur sans défausser de cartes, soit rassembler les cartes, auquel cas il n'y a pas de score et le joueur suivant distribue.
 
-### Other Variants
+**Teufel**
+Dans un tour de Teufel (« diable »), Vorhand reçoit les Ober de glands, de feuilles et de cloches et l'Unter de glands (c'est-à-dire les 1er, 3e, 4e et 5e atouts les plus élevés) et doit annoncer un Solo dans une couleur avant de voir d'autres cartes.
+
+### Autres variantes
 
 **Klopfen**
-Klopfen (knocking) by the cutter means that the direction of deal and number of cards to be dealt will be changed as specified by the cutter. A coin is laid to indicate that the game value is doubled. If all pass, the knocking does not count.
+Klopfen (frapper) par le coupeur signifie que la direction de la donne et le nombre de cartes à distribuer seront modifiés comme spécifié par le coupeur. Une pièce est posée pour indiquer que la valeur de la partie est doublée. Si tous passent, le frappement ne compte pas.
+
 **Bierkopf**
-This simple variant from Franconia is a good option for players wanting to learn Schafkopf from scratch. It may be played with 24 or 32 cards. The four players form fixed partnerships, partners sitting opposite each other and play as described in the Rufer contract above with the Obers, Unters and Hearts as permanent trumps. A team needs 91 points to win Schneider. A deal in which each team takes 60 points is undecided, and the winners of the following deal win an extra stake. It is often played for beer in litre (2 pint) jugs called *Steins*, hence the name.
+Cette variante simple de Franconie est une bonne option pour les joueurs souhaitant apprendre le Schafkopf à partir de zéro. Elle peut se jouer avec 24 ou 32 cartes. Les quatre joueurs forment des partenariats fixes, les partenaires étant assis en face l'un de l'autre et jouant comme décrit dans le contrat Rufer ci-dessus avec les Ober, les Unter et les cœurs comme atouts permanents. Une équipe a besoin de 91 points pour gagner Schneider. Une donne où chaque équipe prend 60 points est indécise, et les gagnants de la donne suivante gagnent une mise supplémentaire. Il se joue souvent pour de la bière dans des chope d'un litre (2 pintes) appelées *Steins*, d'où le nom.
 
-### Three-Hand Schafkopf
+### Schafkopf à trois joueurs
 
-Three-hand Schafkopf can be played with 24 cards, omitting the 8's and 7's, each player receiving 8 cards. Only solo contracts can be played.
+Le Schafkopf à trois joueurs peut se jouer avec 24 cartes, en retirant les 8 et les 7, chaque joueur recevant 8 cartes. Seuls les contrats solo peuvent être joués.
 
-### Two-Hand Schafkopf
+### Schafkopf à deux joueurs
 
-Like many other games, Schafkopf can be adapted in various ways to be played by two players. Much of the character of the real game is lost, but these games can be useful as practice for beginners to get used to the ranking order of the cards. The first of the versions below is modelled on a well-known two-player adaptation of Skat.
+Comme beaucoup d'autres jeux, le Schafkopf peut être adapté de diverses manières pour être joué à deux joueurs. Une grande partie du caractère du vrai jeu est perdue, mais ces jeux peuvent être utiles comme entraînement pour les débutants afin de se familiariser avec l'ordre de classement des cartes. La première des versions ci-dessous est calquée sur une adaptation bien connue du Skat à deux joueurs.
 
-Officers’ Schafkopf 
-This game many alternative names such as Farmers' Schafkopf (*Bauernschafkopf*), Officers' Regalia (*Offiziersschmuck*), Open Schafkopf (*Aufgelegter* or *Aafglegta Schafkopf*), Oilhead (*Ölkopf*) and Robbers' Schafkopf (*Räuber-Schafkopf*).
+**Schafkopf des officiers**
+Ce jeu porte de nombreux noms alternatifs tels que Schafkopf des fermiers (*Bauernschafkopf*), Atours des officiers (*Offiziersschmuck*), Schafkopf ouvert (*Aufgelegter* ou *Aafglegta Schafkopf*), Tête d'huile (*Ölkopf*) et Schafkopf des voleurs (*Räuber-Schafkopf*).
 
-The dealer deals one row of 4 face-down cards to each player, and then a row of 4 face up cards on top of the non-dealer’s downcards. The non-dealer must then choose a trump suit to play the equivalent of a suit Solo or a Wenz. The dealer then deals 4 upcards on top of his or her first row then another face-down row of 4 each, followed by a final face-up row each, so that each player has two rows each of 4 downcards and every downcard has an upcard on top of it. Forehand begins by leading any upcard. Rules of play are as usual: a player who has a card of the suit led among their face-up cards may follow suit. As soon as a card is played the card beneath it (if any) is turned face up and becomes playable in future tricks. The non-dealer needs at least 61 points to win and receives or pays 1 unit for game, 2 for Schneider or 3 for Schwarz. There are several variants.
+Le donneur distribue une rangée de 4 cartes face cachée à chaque joueur, puis une rangée de 4 cartes face visible au-dessus des cartes cachées du non-donneur. Le non-donneur doit alors choisir une couleur d'atout pour jouer l'équivalent d'un Solo de couleur ou d'un Wenz. Le donneur distribue ensuite 4 cartes face visible au-dessus de sa première rangée, puis une autre rangée de 4 cartes face cachée à chacun, suivie d'une dernière rangée face visible à chacun, de sorte que chaque joueur ait deux rangées de 4 cartes cachées et une carte visible au-dessus de chaque carte cachée. Vorhand commence en menant n'importe quelle carte visible. Les règles du jeu sont habituelles : un joueur qui a une carte de la couleur demandée parmi ses cartes face visibles peut suivre. Dès qu'une carte est jouée, la carte en dessous (s'il y en a une) est retournée et devient jouable pour les plis suivants. Le non-donneur a besoin d'au moins 61 points pour gagner et reçoit ou paie 1 unité pour la partie, 2 pour Schneider ou 3 pour Schwarz. Il existe plusieurs variantes.
 
-- In the simplest version Hearts are always trumps, as in a Rufer or Heart Solo. Forehand therefore does not have to choose a game: the cards are simply dealt and played.
+- Dans la version la plus simple, les cœurs sont toujours l'atout, comme dans un Rufer ou un Solo de cœurs. Vorhand n'a donc pas besoin de choisir un jeu : les cartes sont simplement distribuées et jouées.
 
-- Forehand may be allowed extra options such as Wenz instead of a suit Solo.
+- Vorhand peut se voir offrir des options supplémentaires comme un Wenz au lieu d'un Solo de couleur.
 
-- The dealer may be allowed to Spritz'n (double) after seeing their first four face-up cards.
+- Le donneur peut être autorisé à faire un Spritz'n (double) après avoir vu ses quatre premières cartes face visible.
 
-- The last 16 cards may be dealt to the players' hands rather than to the table. In this case in each trick players may play a card either from their hand or from the table, and the second player to a trick must follow suit if able to do so from either place.
+- Les 16 dernières cartes peuvent être distribuées dans la main des joueurs plutôt que sur la table. Dans ce cas, à chaque pli, les joueurs peuvent jouer une carte soit de leur main, soit de la table, et le deuxième joueur d'un pli doit suivre la couleur s'il le peut depuis l'un ou l'autre endroit.
 
-Vicar’s Schafkopf
-Another two-hand variant is Vicar’s Schafkopf (*Pfarrerschafkopf*). The Sevens and Eights are removed so the pack is reduced to 24 cards. Each player is dealt 8 hand cards and 4 more in a face down pile. The the cards in the piles are not used in the play, but their points count to the owner at the end. The non-dealer announces a contract – Geier, Wenz or Solo – and may be overcalled (Solo is highest, Geier lowest). The declarer leads and may be contra’d. 
+**Schafkopf du curé**
+Une autre variante à deux joueurs est le Schafkopf du curé (*Pfarrerschafkopf*). Les Sept et les Huit sont retirés, le jeu est réduit à 24 cartes. Chaque joueur reçoit 8 cartes en main et 4 autres dans une pile face cachée. Les cartes des piles ne sont pas utilisées dans le jeu, mais leurs points comptent pour le propriétaire à la fin. Le non-donneur annonce un contrat — Geier, Wenz ou Solo — et peut être surclassé (Solo est le plus élevé, Geier le plus bas). Le Déclarant mène et peut être contré.
 
-### Other Types of Schafkopf
+### Autres types de Schafkopf
 
-Different versions of Schafkopf are played in other regions of Germany, notably in the Palatinate where in addition to three-player Schafkopf with 32 cards and a 4-player variant (Asserufen) that similar to the Bavarian game, in a few places they also play Bauernstoss, a surviving descendant of classic German Schafkopf. Close relatives of Schafkopf are also played in various other European countries - see the Schafkopf group page for some examples. In the nineteenth century Schafkopf was taken to the USA by German emigrants, where it became [Sheepshead](https://www.pagat.com/schafkopf/shep.html), several versions of which are still popular in Wisconsin and other states with a significant population of German descent.
+Différentes versions du Schafkopf sont jouées dans d'autres régions d'Allemagne, notamment dans le Palatinat où, en plus du Schafkopf à trois joueurs avec 32 cartes et d'une variante à 4 joueurs (Asserufen) similaire au jeu bavarois, on joue aussi dans quelques endroits le Bauernstoss, un descendant survivant du Schafkopf allemand classique. Des parents proches du Schafkopf sont aussi joués dans divers autres pays européens — voir la page du groupe Schafkopf pour quelques exemples. Au XIXe siècle, le Schafkopf a été emporté aux États-Unis par des immigrants allemands, où il est devenu le [Sheepshead](https://www.pagat.com/schafkopf/shep.html), dont plusieurs versions sont encore populaires dans le Wisconsin et d'autres États avec une population significative d'ascendance allemande.
 
-Tanno Gerritsen reports that in the village of Aichstetten in the southeast of Baden-Würtemmburg Schafkopf is played counter-clockwise, but otherwise so far as we know according to the normal Bavarian rules.
+Tanno Gerritsen signale que dans le village d'Aichstetten, dans le sud-est du Bade-Wurtemberg, le Schafkopf se joue dans le sens antihoraire, mais sinon, autant que nous sachions, selon les règles bavaroises normales.
 
-## Impure Schafkopf Examples
+## Exemples de Schafkopf impur
 
-Paul Eaton has provided two specific examples of impure versions of Schafkopf. In summary, they are as follows.
+Paul Eaton a fourni deux exemples spécifiques de versions impures du Schafkopf. En résumé, ce sont les suivants.
 
-### Langendorf Schafkopf
+### Schafkopf de Langendorf
 
-This is a 32-card game. There are nine possible contracts ranking as follows: *Rufer* < [*Wenz* = *Geier*] < *Bettel* < *Solo* < [*Wenz Tout* = *Geier Tout*] < *Open Bettel* < *Solo Tout*.
+C'est un jeu à 32 cartes. Il y a neuf contrats possibles classés comme suit : *Rufer* < [*Wenz* = *Geier*] < *Bettel* < *Solo* < [*Wenz Tout* = *Geier Tout*] < *Bettel Ouvert* < *Solo Tout*.
 
-In the auction, first all four players speak in turn, saying whether they want to play a contract, and then if there are two or more bidders they give further information to establish which contract will be played. Note that since Wenz and Geier are equal in rank, if one player wants to play each of these contracts, the player nearer to dealer's left in clockwise order has priority; the same for Wenz Tout vs Geier Tout.
+Lors des enchères, les quatre joueurs parlent à tour de rôle, disant s'ils veulent jouer un contrat, puis s'il y a deux enchérisseurs ou plus, ils donnent des informations supplémentaires pour établir quel contrat sera joué. Notez que puisque Wenz et Geier sont de rang égal, si un joueur veut jouer chacun de ces contrats, le joueur le plus proche de la gauche du donneur dans l'ordre horaire a la priorité ; de même pour Wenz Tout contre Geier Tout.
 
-During the deal, any player may double the stake ("*legen*") by laying a coin (a "*Doppler*") on the table after seeing only their first four cards. If no one doubles in this way the hand is thrown in, a *Hausbock* or *Hausdoppler* is laid on the table and the next player deals. If – again – no one lays, the cards are thrown in once more and another *Hausbock* is laid and so on. The *Hausbocks* are played off one at a time: each *Hausbock* doubles the stakes for one deal that is played, in addition to any *Doppler* laid by the players.
+Pendant la donne, n'importe quel joueur peut doubler la mise (*« legen »*) en posant une pièce (un *« Doppler »*) sur la table après n'avoir vu que ses quatre premières cartes. Si personne ne double ainsi, la main est rassemblée, un *Hausbock* ou *Hausdoppler* est posé sur la table et le joueur suivant distribue. Si — encore — personne ne pose, les cartes sont à nouveau rassemblées et un autre *Hausbock* est posé, et ainsi de suite. Les *Hausbocks* sont joués un par un : chaque *Hausbock* double les mises pour une donne jouée, en plus de tout *Doppler* posé par les joueurs.
 
-In Bettel and Open Bettel, hearts are trumps as in an ordinary Rufer and the declarer must lose every trick. The player to dealer's left leads first and there is no requirement to overtake. An Open Bettel (*aufgelegter Bettel*) is the same except that the declarer's cards are laid face up on the table after the first trick.
+Dans le Bettel et le Bettel Ouvert, les cœurs sont l'atout comme dans un Rufer ordinaire et le Déclarant doit perdre chaque pli. Le joueur à la gauche du donneur mène en premier et il n'y a pas d'obligation de surmonter. Un Bettel Ouvert (*aufgelegter Bettel*) est identique, sauf que les cartes du Déclarant sont posées face visible sur la table après le premier pli.
 
-After a Solo a Cross Round (*Kreuzrunde*) is played in which the players sitting opposite are partners.
+Après un Solo, un tour de Croix (*Kreuzrunde*) est joué dans lequel les joueurs assis en face sont partenaires.
 
-Any one opponent of the declarer can double the stake by placing a *Doppler* just before playing to the first trick. If this happens the declarer (or partner in a Rufer) can redouble by placing a *Doppler* just before playing to the second trick. In case of a redouble an opponent can respond with a further double, and in theory this can continue throughout the play, the two sides doubling alternately on each trick. In practice, however, doubles very rarely continue beyond the first or at most the second trick, since by that time it is very unlikely that both teams would continue to be confident of winning. To prevent the remote danger of unmanageably large wins and losses following a chain of doubles, the players impose a maximum limit of €4 on wins and losses. Presumably this means that a lone player can in fact win or lose up to €12, paying or receiving €4 to or from each opponent.
+N'importe quel adversaire du Déclarant peut doubler la mise en posant un *Doppler* juste avant de jouer au premier pli. Si cela se produit, le Déclarant (ou le partenaire dans un Rufer) peut redoubler en posant un *Doppler* juste avant de jouer au deuxième pli. En cas de redouble, un adversaire peut répondre par un double supplémentaire, et en théorie cela peut continuer tout au long du jeu, les deux camps doublant alternativement à chaque pli. En pratique cependant, les doubles dépassent très rarement le premier ou au plus le deuxième pli, car à ce moment il est très improbable que les deux camps continuent d'être confiants de gagner. Pour éviter le danger lointain de gains et pertes ingérables suite à une chaîne de doubles, les joueurs imposent une limite maximale de 4 € sur les gains et les pertes. Cela signifie probablement qu'un joueur seul peut en fait gagner ou perdre jusqu'à 12 €, en payant ou en recevant 4 € à ou de chaque adversaire.
 
-If all pass, a *Ramsch* is played in which hearts are trumps as in a *Rufer* and the player who takes most points loses. The player to dealer's left leads and there is no obligation to overtake. During the first trick each player has the opportunity to double the stake by laying a *Doppler* just before they play their card. After the first trick no more doubles are allowed. Taking at least 101 points is a breakthrough (*Durchbruch*) and wins the *Ramsch*. If “Breakthrough” is announced on playing a card to the third trick, the announcer needs only 91 points to win. A player scoring fewer than 31 points is Schneider and one taking no tricks is Schwarz; in each case they are paid the relevant bonus by the loser.
+Si tous passent, un *Ramsch* est joué dans lequel les cœurs sont l'atout comme dans un *Rufer* et le joueur qui prend le plus de points perd. Le joueur à la gauche du donneur mène et il n'y a pas d'obligation de surmonter. Pendant le premier pli, chaque joueur a l'opportunité de doubler la mise en posant un *Doppler* juste avant de jouer sa carte. Après le premier pli, plus aucun double n'est autorisé. Prendre au moins 101 points est une percée (*Durchbruch*) et gagne le *Ramsch*. Si « Percée » est annoncé en jouant une carte au troisième pli, l'annonceur n'a besoin que de 91 points pour gagner. Un joueur marquant moins de 31 points fait Schneider et celui qui ne prend aucun pli fait Schwarz ; dans chaque cas il est payé du bonus correspondant par le perdant.
 
-In the scoring, the declarer's team needs only 90 or more points to win with Schneider. The tariff is 5/15, with Ramsch and Kreuz costing 5 cents like a Rufer, Wenz, Geier and Bettel costing 15 cents like a Solo, and Open Bettel and Tout costing double (30 cents). Because of the Doppler, in practice the stakes will always be at least doubled, and quite often quadrupled or more.
+Au comptage, l'équipe du Déclarant n'a besoin que de 90 points ou plus pour gagner avec Schneider. Le tarif est de 5/15, avec Ramsch et Kreuz coûtant 5 centimes comme un Rufer, Wenz, Geier et Bettel coûtant 15 centimes comme un Solo, et le Bettel Ouvert et le Tout coûtant le double (30 centimes). En raison du Doppler, en pratique les mises seront toujours au moins doublées, et souvent quadruplées ou plus.
 
-### Schierling Schafkopf
+### Schafkopf de Schierling
 
-This is a 24-card game. There are nine possible contracts contracts ranking in ascending order are: *Sauspiel, Hochzeit, Geier* (also called *Dame*)*, Wenz, Solo, Geier Tout, Wenz Tout, Solo Tout* and *Sie*. A *Sie* just consists the 4 Obers plus the Unters of acorns and leaves, so is less rare than in 32-card Schafkopf, but still requires the cards to be framed and displayed.
+C'est un jeu à 24 cartes. Il y a neuf contrats possibles classés par ordre croissant : *Sauspiel, Hochzeit, Geier* (aussi appelé *Dame*), *Wenz, Solo, Geier Tout, Wenz Tout, Solo Tout* et *Sie*. Un *Sie* se compose des 4 Ober plus les Unter de glands et de feuilles, il est donc moins rare que dans le Schafkopf à 32 cartes, mais nécessite quand même que les cartes soient encadrées et exposées.
 
-A player with one trump may bid a *Hochzeit* by pushing their trump, face down, into the middle of the table before the auction. In turn, players may refuse the offer or accept it by saying “Interested” (*Interesse* or *ich hab’ Interesse*). If no one is interested and no one overcalls with a *Geier* or better, then a round of bidding follows in which a player can undertake a *Sauspiel* (i.e. Rufer).
+Un joueur avec un seul atout peut enchérir un *Hochzeit* en poussant son atout, face cachée, au milieu de la table avant les enchères. À tour de rôle, les joueurs peuvent refuser l'offre ou l'accepter en disant « Intéressé » (*Interesse* ou *ich hab' Interesse*). Si personne n'est intéressé et que personne ne surclasse avec un *Geier* ou mieux, un tour d'enchères suit dans lequel un joueur peut s'engager à jouer un *Sauspiel* (c'est-à-dire un Rufer).
 
-If all pass, the cards are thrown in, each player adds 20 cents to the *Stock *(or* Pot*) and the next player deals. When a *Sauspiel* is played the declarer's team share the contents of the pot if they win but double it if they lose, but if the Stock contains more than €4 the players of declarer's team collect only *Hochzeit* each from it if they win or pay €2 each to it if they lose.
+Si tous passent, les cartes sont rassemblées, chaque joueur ajoute 20 centimes au *Stock* (ou *Pot*) et le joueur suivant distribue. Lorsqu'un *Sauspiel* est joué, l'équipe du Déclarant partage le contenu du pot si elle gagne mais le double si elle perd, mais si le Stock contient plus de 4 €, les joueurs de l'équipe du Déclarant ne prélèvent chacun qu'*Hochzeit* s'ils gagnent ou paient chacun 2 € s'ils perdent.
 
-The tariff is 10/20/50 with a special rate of 1 euro for *Hochzeit*. When a *Tout* is bid the Schneider and Schwarz bonuses are paid as well (and doubled along with the game score), so a *Solo Tout* is worth €1.40 from each opponent plus 20 cents each for the runners if any, and a *Sie* costs €2.60 each including the 6 runners.
+Le tarif est de 10/20/50 avec un tarif spécial de 1 euro pour le *Hochzeit*. Lorsqu'un *Tout* est enchéri, les bonus Schneider et Schwarz sont également payés (et doublés en même temps que le score de la partie), ainsi un *Solo Tout* vaut 1,40 € de chaque adversaire plus 20 centimes chacun pour les coureurs éventuels, et un *Sie* coûte 2,60 € chacun en incluant les 6 coureurs.
 
-## Further Information
+## Informations complémentaires
 
-### More on the cards
+### Plus sur les cartes
 
-The Ace was dropped from German packs during the 16th century, so the cards marked “A” in a Schafkopf pack are really Deuces, hence the double suit symbol. In Bavaria and Austria the Aces in German-suited packs are called Sows, because wild boars used to be depicted on them. Today only the Ace of Bells in a Franconian or Bavarian pack portrays a boar.
+L'As a été abandonné des jeux allemands au XVIe siècle, de sorte que les cartes marquées « A » dans un jeu de Schafkopf sont en réalité des Deux, d'où le double symbole de couleur. En Bavière et en Autriche, les As des jeux au dessin allemand sont appelés Truies, car des sangliers y étaient autrefois représentés. Aujourd'hui, seul l'As de cloches dans un jeu franc ou bavarois représente un sanglier.
 
-The Tens are nicknamed Eisenbahner (railwayman) which may be because the Ten was once called a Banner or because its appearance loosely resembles a railway track.
+Les Dix sont surnommés Eisenbahner (cheminot), peut-être parce que le Dix était autrefois appelé Banner (bannière) ou parce que son apparence ressemble vaguement à une voie ferrée.
 
-Geier means “vulture” and is also a nickname for the Ober. Geier is also called *Jäger* (hunter) in places.
+Geier signifie « vautour » et est aussi un surnom de l'Ober. Geier est aussi appelé *Jäger* (chasseur) dans certains endroits.
 
-Schafkopf also used to be played with Württemberg pattern cards, but these are now only produced in packs of 2 x 24 for Gaigel and Binokel.
+Le Schafkopf se jouait autrefois avec des cartes au dessin de Wurtemberg, mais celles-ci ne sont désormais produites qu'en jeux de 2 × 24 pour le Gaigel et le Binokel.
 
-### Bibliography
+### Bibliographie
 
-**Classic Bavarian Schafkopf**
+**Schafkopf bavarois classique**
 
-- Jups. Mangold (1884). *Der gewandte Kartenspieler: 2. Der Schaffkopf: ein geistreiches Kartenspiel*. Würzburg: Stahel. Earliest rules for Bavarian Schafkopf; rediscovered in 2022.
+- Jups. Mangold (1884). *Der gewandte Kartenspieler: 2. Der Schaffkopf: ein geistreiches Kartenspiel*. Würzburg : Stahel. Les règles les plus anciennes du Schafkopf bavarois ; redécouvertes en 2022.
 
-- "Obsis" (1895). *Schafkopf-Büchlein - Detailliche Anleitung zum Lernen und Verbessern des Schafkopfspiel mit deutschen Karten*, Amberg (Oberpfalz); until recently thought to be the oldest rules.
+- « Obsis » (1895). *Schafkopf-Büchlein - Detailliche Anleitung zum Lernen und Verbessern des Schafkopfspiel mit deutschen Karten*, Amberg (Haut-Palatinat) ; jusqu'à récemment considéré comme les règles les plus anciennes.
 
-- Schaffer, Georg (1956). *Schafkopf und Tarock*. Minden (Westphalia): Albrecht Philler.
+- Schaffer, Georg (1956). *Schafkopf und Tarock*. Minden (Westphalie) : Albrecht Philler.
 
-**Modern Bavarian Schafkopf**
+**Schafkopf bavarois moderne**
 
-- Grupp, Claus D. (1994) *Doppelkopf Schafkopf*. Niedernhausen: Falken.
+- Grupp, Claus D. (1994) *Doppelkopf Schafkopf*. Niedernhausen : Falken.
 
-- Peschel, Wolfgang (1990). *Bayerisch Schaffkopfen: Wissenswertes - Humoriges - Offizielle Spielregeln*, 2nd edn. Weilheim: Stöppel. Covers the history and culture of Schafkopf as well as the earlier version of the official rules and details of ‘impure’ Schafkopf.
+- Peschel, Wolfgang (1990). *Bayerisch Schaffkopfen: Wissenswertes - Humoriges - Offizielle Spielregeln*, 2e éd. Weilheim : Stöppel. Couvre l'histoire et la culture du Schafkopf ainsi que la version antérieure des règles officielles et les détails du Schafkopf « impur ».
 
-- Merschbacher, Adam (2009). *Schafkopf: Das anspruchsvolle Kartenspiel*. Munich: Pliz. Up to date official rules as well as coverage of impure Schafkopf, history, tactics and even probabilities and statistics. 
+- Merschbacher, Adam (2009). *Schafkopf: Das anspruchsvolle Kartenspiel*. Munich : Pliz. Règles officielles à jour ainsi qu'un panorama du Schafkopf impur, de l'histoire, des tactiques et même des probabilités et statistiques.
 
-### Online Resources
+### Ressources en ligne
 
-Here is a link to the [Schafkopf School](https://www.schafkopfschule.de/) which has all kinds of information about the game, including [rules in both German and English](https://www.schafkopfschule.de/regeln.html).
+Voici un lien vers l'[École du Schafkopf](https://www.schafkopfschule.de/) qui contient toutes sortes d'informations sur le jeu, notamment des [règles en allemand et en anglais](https://www.schafkopfschule.de/regeln.html).
 
-Jospeh Wiesegger's free [eBook on Schafkopf](https://raw.githubusercontent.com/joseph-wiesegger/schafkopf-buch/master/schafkopf_buch.pdf) has a wealth of information on the game, its tactics and variants. 
+Le livre électronique gratuit de Joseph Wiesegger sur le [Schafkopf](https://raw.githubusercontent.com/joseph-wiesegger/schafkopf-buch/master/schafkopf_buch.pdf) regorge d'informations sur le jeu, ses tactiques et ses variantes.
 
-The largest web site for playing Schafkopf on line, with over 80,000 users in spring 2009, is [Sauspiel](https://www.sauspiel.de/) where you can play for fun or real money. (The basic and most common contract in Bavarian Schafkopf is one in which the bidder calls an ace, whose holder becomes his partner. The aces in the Bavarian pack are known as *Säue* - sows - hence the name of the site.)
+Le plus grand site pour jouer au Schafkopf en ligne, avec plus de 80 000 utilisateurs au printemps 2009, est [Sauspiel](https://www.sauspiel.de/), où l'on peut jouer pour le plaisir ou pour de l'argent réel. (Le contrat de base et le plus courant du Schafkopf bavarois est celui dans lequel l'enchérisseur appelle un as, dont le détenteur devient son partenaire. Les as du jeu bavarois sont appelés *Säue* — truies — d'où le nom du site.)
 
-Here is an archive copy of the [Schafkopf-Links](https://web.archive.org/web/20120723061733/http://www.schallerweb.de/schafkopf/) page, which had numerous links to useful Schafkopf sites and information.
+Voici une copie d'archive de la page [Schafkopf-Links](https://web.archive.org/web/20120723061733/http://www.schallerweb.de/schafkopf/), qui comportait de nombreux liens vers des sites et informations utiles sur le Schafkopf.
 
-### Software
+### Logiciel
 
-You can download Michael Fischer's Schafkopf computer program for Windows from his [Cutesoft Page](https://www.cutesoft.com/).
+Vous pouvez télécharger le programme informatique de Schafkopf de Michael Fischer pour Windows sur sa [page Cutesoft](https://www.cutesoft.com/).
 
-From Uwe Rasche's page you can obtain his [Schafkopf program](https://english.raschesspiele.de/spiele/schafkopf.html).
+Sur la page d'Uwe Rasche, vous pouvez obtenir son [programme Schafkopf](https://english.raschesspiele.de/spiele/schafkopf.html).
 
-[Schafkopfpalast](https://www.schafkopf-palast.de/) is a cross-platform multiplayer Schafkopf app which allows users of Android, iOS and Facebook to play together. The website is in German but a complete English language version is available.
+[Schafkopfpalast](https://www.schafkopf-palast.de/) est une application multijoueur multiplateforme de Schafkopf qui permet aux utilisateurs d'Android, iOS et Facebook de jouer ensemble. Le site web est en allemand mais une version complète en anglais est disponible.
 
-[Isar Interactive](https://www.skat-spiel.de/) publishes a Schafkopf app for Apple and Android devices.
+[Isar Interactive](https://www.skat-spiel.de/) publie une application Schafkopf pour appareils Apple et Android.
 
-### Acknowledgements
+### Remerciements
 
-Photographs of Bavarian and Franconian pattern cards are by Paul Eaton and appear by kind permission of ASS Altenburger who own the copyright to the cards.
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Schafkopf
+Les photographies de cartes au dessin franc et bavarois sont de Paul Eaton et sont reproduites avec l'aimable autorisation d'ASS Altenburger, propriétaire des droits d'auteur sur ces cartes.

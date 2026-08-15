@@ -2,132 +2,130 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A version of the German card game Schafkopf played in the Palatinate.
+**But :** Une version du jeu de cartes allemand Schafkopf jouée dans le Palatinat.
 
 ---
 
 ## Introduction
 
-**Bauernstoss** is a version of Schafkopf played the village of Erfweiler in the Palatinate (*Pfalz*) region of southwestern Germany. The description below is based on the [Bauernstoss web page](https://web.archive.org/web/20230203131049/http://www.erfweiler2.de/UDN/UDN2_Bauernstoss.htm) (archive copy) by Gerhard Zwick. Ulf Martin and I would like to thank and Gerhard Zwick and his friends for introducing us to this and other games in Erfweiler on 1st October 2018. His web page also includes rules provided Gerd Pressler for a similar game **Alter Schoofkopp** played around 30km to the east in Niederhochstadt. We explain this game in the variations section below, along with **'Deutscher Schafkopf'**, the 19th century ancestor of both of these games, which can be found in several books.
+**Bauernstoss** est une version du Schafkopf jouée dans le village d'Erfweiler, dans la région du Palatinat (*Pfalz*) au sud-ouest de l'Allemagne. La description ci-dessous est basée sur la [page web Bauernstoss](https://web.archive.org/web/20230203131049/http://www.erfweiler2.de/UDN/UDN2_Bauernstoss.htm) (copie d'archive) de Gerhard Zwick. Ulf Martin et moi-même tenons à remercier Gerhard Zwick et ses amis de nous avoir initiés à ce jeu et à d'autres à Erfweiler le 1er octobre 2018. Sa page web inclut également des règles fournies par Gerd Pressler pour un jeu similaire, **Alter Schoofkopp**, joué à environ 30 km à l'est à Niederhochstadt. Nous décrivons ce jeu dans la section variantes ci-dessous, ainsi que le **« Deutscher Schafkopf »**, ancêtre du XIXe siècle de ces deux jeux, que l'on trouve dans plusieurs ouvrages.
 
-## Players and Cards
+## Joueurs et cartes
 
-Bauernstoss is a game for four players in fixed partnerships.
+Bauernstoss est un jeu à quatre joueurs en équipes fixes.
 
-A 32-card French suited pack is used, the same cards that are used for the German national game Skat. The Queens have the index **D** for Dame and the Jacks **B** for Bube. The cards in each suit and their point values are A (11), 10 (10), K (4), D (3), B (2), 9 (0), 8 (0), 7 (0). The total value of the cards in the pack is therefore 120.
+On utilise un jeu de 32 cartes au dessin français, les mêmes cartes que pour le jeu national allemand, le Skat. Les Dames portent l'indice **D** pour Dame et les Valets **B** pour Bube. Les cartes de chaque couleur et leur valeur en points sont A (11), 10 (10), R (4), D (3), B (2), 9 (0), 8 (0), 7 (0). La valeur totale des cartes du jeu est donc de 120.
 
-In each deal there is a trump suit and as in Skat, the four Jacks are permanent trumps. The rank of cards in the trump suit from highest to lowest is ![club](../images/internat/club.gif)B-![spade](../images/internat/spade.gif)B-![heart](../images/internat/heart.gif)B-![diamond](../images/internat/diamond.gif)B-A-10-K-D-9-8-7. In the three non-trump suits the ranking from highest to lowest is A-10-K-D-9-8-7.
+À chaque donne il y a une couleur d'atout et, comme au Skat, les quatre Valets sont des atouts permanents. La hiérarchie des cartes dans la couleur d'atout, de la plus haute à la plus basse, est : ![trèfle](../images/internat/club.gif)B-![pique](../images/internat/spade.gif)B-![cœur](../images/internat/heart.gif)B-![carreau](../images/internat/diamond.gif)B-A-10-R-D-9-8-7. Dans les trois couleurs non-atout, la hiérarchie de la plus haute à la plus basse est A-10-R-D-9-8-7.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## The Deal
+## La donne
 
-At the start of the session, partners are chosen by dealing cards one at a time face up around the table until two players have received Jacks. These two players form one team and play against the other two. The players move if necessary to that each player is sitting between two opponents. 
+En début de session, les partenaires sont choisis en distribuant les cartes une par une face visible autour de la table jusqu'à ce que deux joueurs aient reçu des Valets. Ces deux joueurs forment une équipe et jouent contre les deux autres. Les joueurs se déplacent si nécessaire pour que chaque joueur soit assis entre deux adversaires.
 
-The dealer shuffles the cards and the player to dealer's right cuts. The dealer then deals out all the cards in batches of four, so that each player has a hand of 8 cards. The turn to deal passes to the left after each hand.
+Le donneur mélange les cartes et le joueur à sa droite coupe. Le donneur distribue ensuite toutes les cartes par paquets de quatre, de sorte que chaque joueur reçoive une main de 8 cartes. Le tour de donne passe à gauche après chaque main.
 
-## Making Trumps
+## Détermination des atouts
 
-The four players speak in turn, clockwise around the table, beginning with Vorhand (the player to dealer's left) and ending with the dealer. Each bid is a pass, a number or a Solo.
+Les quatre joueurs parlent à tour de rôle, dans le sens horaire, en commençant par Vorhand (le joueur à la gauche du donneur) et en terminant par le donneur. Chaque enchère est un passe, un nombre ou un Solo.
 
-A player who holds one, two or three Jacks who wishes to make trumps can declare the number of trumps (from 2 to 8) in his or her proposed trump suit. The player who declares the longest suit will make this the trump suit. 
+Un joueur qui détient un, deux ou trois Valets et souhaite déterminer les atouts peut annoncer le nombre d'atouts (de 2 à 8) dans sa couleur d'atout proposée. Le joueur qui annonce la couleur la plus longue en fera la couleur d'atout.
 
-The number you bid includes all your Jacks as well as the cards of your chosen suit, since they will all be trumps. Since you must have a Jack to bid, it will always be possible to bid at least 3. However, you are not obliged to bid on your longest suit. For example a player who holds ![spade](../images/internat/spade.gif)B,![heart](../images/internat/heart.gif)B,![diamond](../images/internat/diamond.gif)B,![club](../images/internat/club.gif)A,![club](../images/internat/club.gif)10,![spade](../images/internat/spade.gif)K,![heart](../images/internat/heart.gif)7,![diamond](../images/internat/diamond.gif)8 might prefer to bid 4 and make spades trumps rather than bid 5 for clubs, aiming to make the King of spades into a winner as well as the two clubs.
+Le nombre annoncé inclut tous vos Valets ainsi que les cartes de la couleur choisie, puisqu'ils seront tous des atouts. Puisque vous devez avoir au moins un Valet pour enchérir, il sera toujours possible d'annoncer au moins 3. Cependant, vous n'êtes pas obligé d'enchérir sur votre couleur la plus longue. Par exemple, un joueur qui tient ![pique](../images/internat/spade.gif)B,![cœur](../images/internat/heart.gif)B,![carreau](../images/internat/diamond.gif)B,![trèfle](../images/internat/club.gif)A,![trèfle](../images/internat/club.gif)10,![pique](../images/internat/spade.gif)R,![cœur](../images/internat/heart.gif)7,![carreau](../images/internat/diamond.gif)8 pourrait préférer annoncer 4 et faire de la pique l'atout plutôt que d'enchérir 5 pour le trèfle, dans le but de faire gagner le Roi de pique en plus des deux trèfles.
 
-If two opponents declare suits of equal length and no one declares a longer suit, then the lowest cards in the tied proposed trump suits are compared, and the player whose lowest card is higher makes trumps. In case of equality of lowest cards the player who spoke earlier has priority. 
+Si deux adversaires annoncent des couleurs de même longueur et que personne n'annonce une couleur plus longue, on compare les cartes les plus basses des couleurs d'atout à égalité, et le joueur dont la carte la plus basse est la plus haute détermine l'atout. En cas d'égalité de la carte la plus basse, le joueur qui a parlé en premier a la priorité.
 
-If two partners declare the longest trump suits and neither opponent declares more, they can agree between them which of them will make trumps without comparing cards. No detailed discussion is allowed - normally one of them will simply invite their partner to make trumps. 
+Si deux partenaires annoncent les couleurs d'atout les plus longues et qu'aucun adversaire n'en annonce une plus longue, ils peuvent s'accorder entre eux pour savoir qui déterminera l'atout sans comparer les cartes. Aucune discussion détaillée n'est permise — normalement l'un d'eux invitera simplement son partenaire à déterminer l'atout.
 
-A player who has no Jacks at all cannot make trumps and must pass. A player who holds all four Jacks must either bid a Big Solo (see below) or pass. 
+Un joueur qui n'a aucun Valet ne peut pas déterminer l'atout et doit passer. Un joueur qui tient les quatre Valets doit soit enchérir un Grand Solo (voir ci-dessous) soit passer.
 
-A player passes by saying *'weg'* (away) if no one has yet bid, or either *'gut'* (good) or *'weg'* if a previous player has bid a number.
+Un joueur passe en disant *« weg »* (dehors) si personne n'a encore enchéri, ou soit *« gut »* (bon) soit *« weg »* si un joueur précédent a annoncé un nombre.
 
-If you are the first to speak (Vorhand) or if all the players before you have passed, you are not allowed to pass with one, two or three Jacks. You must bid a number (the length of the suit you will make trumps if all the other players pass) or exceptionally a Solo (if you hold the Jack of clubs and expect to take all the tricks). The only situation in which all four players can pass is when one player has all four Jacks and decides not to play a Big Solo. In this case the hand is thrown in and the next player deals. 
+Si vous êtes le premier à parler (Vorhand) ou si tous les joueurs avant vous ont passé, vous n'êtes pas autorisé à passer avec un, deux ou trois Valets. Vous devez annoncer un nombre (la longueur de la couleur que vous ferez atout si tous les autres passent) ou exceptionnellement un Solo (si vous tenez le Valet de trèfle et pensez prendre tous les plis). La seule situation où les quatre joueurs peuvent tous passer est lorsqu'un joueur a les quatre Valets et décide de ne pas jouer un Grand Solo. Dans ce cas, la main est annulée et le joueur suivant distribue.
 
-If a previous player has bid a number, you can bid a higher number if you have a longer suit to make trumps, but you cannot bid a lower number. You can bid an equal number, which is done by saying *'mit'* (with), but only if your suit is good enough that you might be allowed to make it trumps. 
+Si un joueur précédent a annoncé un nombre, vous pouvez enchérir un nombre plus élevé si vous avez une couleur plus longue pour faire atout, mais vous ne pouvez pas enchérir un nombre plus bas. Vous pouvez annoncer le même nombre, ce qui se fait en disant *« mit »* (avec), mais seulement si votre couleur est suffisamment bonne pour que vous puissiez être autorisé à en faire l'atout.
 
-**Examples.** If your opponent has bid '4' you can only bid *'mit'* if the lowest card of your four-card trump suit is at least an 8. If your partner has bid 4 and your right-hand opponent had bid *'mit'* then you need at least a 9 as your lowest trump, since the opponent before you must have at least an 8. But if your partner bids 4 and your right-hand opponent passes, you can bid 4 even if your lowest trump is a 7, because your partner may let you play, and if you are the dealer and both your opponents have bid 4 while your partner passed, you only need an 8 as your lowest trump to say *'mit'* because the opponents might both have suits ending in 7.
+**Exemples.** Si votre adversaire a enchéri « 4 », vous ne pouvez annoncer *« mit »* que si la carte la plus basse de votre couleur d'atout de quatre cartes est au moins un 8. Si votre partenaire a enchéri 4 et que votre adversaire de droite a dit *« mit »*, vous avez besoin d'au moins un 9 comme atout le plus bas, puisque l'adversaire précédent doit avoir au moins un 8. Mais si votre partenaire enchérit 4 et que votre adversaire de droite passe, vous pouvez enchérir 4 même si votre atout le plus bas est un 7, car votre partenaire peut vous laisser jouer, et si vous êtes le donneur et que vos deux adversaires ont enchéri 4 pendant que votre partenaire a passé, il vous suffit d'un 8 comme atout le plus bas pour dire *« mit »* car les adversaires peuvent avoir tous deux des couleurs se terminant par un 7.
 
-If there is a tie for longest trump suit, and the tieing players are not partners, then the player in the tie who was first to speak names the lowest card of their intended trump suit, for example '9', without specifying the suit. Then the next player in the tie either names their lowest trump if it is bigger or concedes, and so on around the table if there are more than two players in the tie. When it is established who has the best lowest trump, that player names their trump suit and play can begin.
+S'il y a égalité pour la couleur d'atout la plus longue et que les joueurs à égalité ne sont pas partenaires, le joueur de l'égalité qui a parlé en premier nomme la carte la plus basse de sa couleur d'atout envisagée, par exemple « 9 », sans préciser la couleur. Le joueur suivant dans l'égalité nomme alors son atout le plus bas s'il est supérieur, ou cède, et ainsi de suite autour de la table s'il y a plus de deux joueurs dans l'égalité. Une fois établi qui a le meilleur atout le plus bas, ce joueur nomme sa couleur d'atout et le jeu peut commencer.
 
-Instead of declaring trump length, the holder of the Jack of clubs (the top trump) may bid a Solo, which is an undertaking to win all eight tricks, playing alone. This overcalls all number bids and ends the bidding. The bidder undertakes to win all eight tricks, playing alone. Solo cannot be bid in the first deal of a new game. There are two types of Solo.
+Au lieu d'annoncer la longueur d'atout, le détenteur du Valet de trèfle (le plus haut atout) peut enchérir un Solo, c'est-à-dire s'engager à gagner les huit plis en jouant seul. Cela surclasse toutes les enchères numériques et met fin aux enchères. L'enchérisseur s'engage à gagner les huit plis en jouant seul. Le Solo ne peut pas être enchéri lors de la première donne d'une nouvelle partie. Il existe deux types de Solo.
 
-**Small Solo** (*kleines Solo*), which can be announced by saying *"Gib mir eine" *(give me one). The bidder names the trump suit and passes one card face across the table to partner. The card is passed face down unless it is a Jack, which must be passed face up. Without looking at the passed card if it is face down, the partner passes one card from their original hand across the table face down, and this card is added to the bidder's hand. The bidder's partner's hand is laid face down on the table, and only the bidder and the two opponents take part in the play.
+**Petit Solo** (*kleines Solo*), que l'on peut annoncer en disant *« Gib mir eine »* (donne-m'en une). L'enchérisseur nomme la couleur d'atout et passe une carte face visible à travers la table à son partenaire. La carte est passée face cachée, sauf s'il s'agit d'un Valet, qui doit être passé face visible. Sans regarder la carte passée si elle est face cachée, le partenaire passe une carte de sa main d'origine face cachée à travers la table, et cette carte est ajoutée à la main de l'enchérisseur. La main du partenaire de l'enchérisseur est posée face cachée sur la table, et seuls l'enchérisseur et les deux adversaires participent au jeu.
 
-**Big Solo** (*grosses Solo*), which can be announced by saying *"Leg dich"* (lay them down). The bidder names trumps and the bidder's partner lays his or her cards face down on the table. Only the bidder and the two opponents take part in the play. 
+**Grand Solo** (*grosses Solo*), que l'on peut annoncer en disant *« Leg dich »* (allonge-les). L'enchérisseur nomme les atouts et le partenaire de l'enchérisseur pose ses cartes face cachée sur la table. Seuls l'enchérisseur et les deux adversaires participent au jeu.
 
-## The Play
+## Le jeu
 
-In an ordinary game, Vorhand (the player to dealer's left) leads to the first trick. Players must follow suit if they can. For this purpose all the Jacks are treated as belonging to the trump suit and not to the suits printed on them.
+Dans une partie ordinaire, Vorhand (le joueur à la gauche du donneur) mène le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent. À cet effet, tous les Valets sont considérés comme appartenant à la couleur d'atout et non à la couleur imprimée dessus.
 
-A player who has no card of the suit led **must** play a trump, even if the trick has already been trumped by their partner or by a card they unable to beat. Also if a Jack is played to a trick, any subsequent player who plays a trump to the trick **must** overtake the Jack with a higher Jack if they have one. A player who has no card of the suit led and no trumps may play any card.
+Un joueur qui n'a pas de carte de la couleur demandée **doit** jouer un atout, même si le pli a déjà été coupé par son partenaire ou par une carte qu'il ne peut pas surmonter. De plus, si un Valet est joué dans un pli, tout joueur ultérieur qui joue un atout à ce pli **doit** surmonter le Valet avec un Valet supérieur s'il en a un. Un joueur qui n'a pas de carte de la couleur demandée et pas d'atout peut jouer n'importe quelle carte.
 
-The trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led. The winner of each trick leads to the next.
+Le pli est remporté par le plus haut atout qu'il contient, ou s'il ne contient pas d'atout, par la plus haute carte de la couleur demandée. Le vainqueur de chaque pli mène le suivant.
 
-In a Solo, Vorhand still leads to the first trick unless the Solo was bid by Vorhand's partner. In that case Vorhand does not take part in the play and it is the next player in rotation, the dealer's partner, who leads. If any player other than the Solo bidder wins a trick then the Solo has failed and the play ends immediately.
+Dans un Solo, Vorhand mène toujours le premier pli, sauf si le Solo a été enchéri par le partenaire de Vorhand. Dans ce cas, Vorhand ne participe pas au jeu et c'est le joueur suivant dans l'ordre, le partenaire du donneur, qui mène. Si un joueur autre que l'enchérisseur du Solo gagne un pli, le Solo est échoué et le jeu s'arrête immédiatement.
 
-## Scoring
+## Comptage
 
-The score is kept using tally marks. A horizontal line is drawn on the score sheet, one team's score is noted above the line and the other's below it. The initials of the players can be written at the left to indicate which team is which. In the illustration below, team U G has 14 marks and team J M has 11 marks.
+Le score est tenu à l'aide de marques. Une ligne horizontale est tracée sur la feuille de score, le score d'une équipe est noté au-dessus de la ligne et celui de l'autre en dessous. Les initiales des joueurs peuvent être écrites à gauche pour indiquer quelle équipe est laquelle. Sur l'illustration ci-dessous, l'équipe U G a 14 marques et l'équipe J M a 11 marques.
 
-![scoresheet](../images/schafkopf/bauernstoss.png)
+![feuille de marque](../images/schafkopf/bauernstoss.png)
 
-The scoring depends on which team 'has the chalk' (*die Kreide*). In the first deal of a new game, the chalk belongs to the team of the player who is dealt the Jack of clubs. This team needs only 42 or more of the 120 card points to score a mark and they keep the chalk so long as they achieve this. The other team needs at least 79 card points to score and to take the chalk for themselves. Extra marks are scored by a team that takes at least 91 card points (Schneider) or all the tricks (Schwarz). The possible outcomes in an ordinary game are as follows.
+Le comptage dépend de quelle équipe « a la craie » (*die Kreide*). Lors de la première donne d'une nouvelle partie, la craie appartient à l'équipe du joueur qui a reçu le Valet de trèfle. Cette équipe n'a besoin que de 42 points ou plus sur les 120 pour marquer une point et conserve la craie tant qu'elle y parvient. L'autre équipe a besoin d'au moins 79 points pour marquer et s'emparer de la craie. Des marques supplémentaires sont obtenues par une équipe qui prend au moins 91 points (Schneider) ou tous les plis (Schwarz). Les résultats possibles d'une partie ordinaire sont les suivants.
 
-| Team with chalk | Team without chalk |
-| No tricks | no marks and loses chalk | All tricks | 3 marks and gains chalk |
-| Less than 30 card points | no marks and loses chalk | 91 or more card points | 2 marks and gains chalk |
-| 30 to 41 card points | no marks and loses chalk | 79 to 90 card points | 1 mark and gains chalk |
-| 42 to 90 card points | 1 mark and keeps chalk | 30 to 78 card points | no marks and no chalk |
-| 91 or more card points | 2 marks and keeps chalk | Less than 30 card points | no marks and no chalk |
-| All tricks | 3 marks and keeps chalk | No tricks | no marks and no chalk |
+| Équipe avec la craie | Équipe sans la craie |
+| Aucun pli | pas de marque et perd la craie | Tous les plis | 3 marques et gagne la craie |
+| Moins de 30 points | pas de marque et perd la craie | 91 points ou plus | 2 marques et gagne la craie |
+| 30 à 41 points | pas de marque et perd la craie | 79 à 90 points | 1 marque et gagne la craie |
+| 42 à 90 points | 1 marque et garde la craie | 30 à 78 points | pas de marque et pas de craie |
+| 91 points ou plus | 2 marques et garde la craie | Moins de 30 points | pas de marque et pas de craie |
+| Tous les plis | 3 marques et garde la craie | Aucun pli | pas de marque et pas de craie |
 
-The score for a small Solo is 8 marks and for a big Solo 12 marks. If the team that bids the Solo wins all the tricks they score those 8 or 12 marks, and keep or gain the chalk. If they lose a trick they lose the chalk to their opponents, who also score the 8 or 12 marks.
+Le score d'un Petit Solo est de 8 marques et d'un Grand Solo de 12 marques. Si l'équipe qui a enchéri le Solo gagne tous les plis, elle marque ces 8 ou 12 points et garde ou gagne la craie. Si elle perd un pli, elle perd la craie au profit de ses adversaires, qui marquent également les 8 ou 12 points.
 
-The first team to achieve a total score of 20 marks or more wins the game.
+La première équipe à atteindre un score total de 20 marques ou plus gagne la partie.
 
-## Variations
+## Variantes
 
 ### Alter Schoofkopp
 
-A very similar game is played in Niederhochstadt under the name *Alter Schoofkopp* (Old Schafkopf). The differences are:
+Un jeu très similaire est joué à Niederhochstadt sous le nom d'*Alter Schoofkopp* (Vieux Schafkopf). Les différences sont :
 
-Only 15 marks are needed to win the game. On the score sheet the 15 marks may be used to draw a sheep's head so that the first team that completes their drawing wins the game.
+Il suffit de 15 marques pour gagner la partie. Sur la feuille de score, les 15 marques peuvent servir à dessiner une tête de mouton, de sorte que la première équipe qui complète son dessin gagne la partie.
 
-In the first deal of a new game, the team that takes 61 points or more acquires the chalk and at least one mark. If the points divide 60-60 the opponents of the team that made trumps get the chalk and one mark. In subsequent deals the team with the chalk as usual needs at least 42 card points to score a mark and keep it, while the opponents need at least 79 card points to score a mark and acquire the chalk.
+Lors de la première donne d'une nouvelle partie, l'équipe qui prend 61 points ou plus s'empare de la craie et marque au moins une marque. Si les points se répartissent 60-60, les adversaires de l'équipe qui a déterminé l'atout obtiennent la craie et une marque. Lors des donnes suivantes, l'équipe qui a la craie a, comme d'habitude, besoin d'au moins 42 points pour marquer et la conserver, tandis que les adversaires ont besoin d'au moins 79 points pour marquer et s'emparer de la craie.
 
-In all deals extra marks can be scored for Schneider or Schwarz. To score the second mark for Schneider only 89 points are needed, rather than 91. A team that wins all the tricks (Schwarz) scores 4 marks rather than 3. 
+Dans toutes les donnes, des marques supplémentaires peuvent être obtenues pour Schneider ou Schwarz. Pour marquer la deuxième marque de Schneider, seuls 89 points sont nécessaires au lieu de 91. Une équipe qui gagne tous les plis (Schwarz) marque 4 marques au lieu de 3.
 
-A player who has all four Jacks is allowed to make trumps for an ordinary game. They do not have to bid Solo in order to make trumps.
+Un joueur qui a les quatre Valets est autorisé à déterminer l'atout pour une partie ordinaire. Il n'est pas obligé d'enchérir un Solo pour déterminer l'atout.
 
-In case of equal trump length the rule that the player whose lowest trump is higher makes trumps is strictly observed, even between partners. That means that to bid over your partner with an equal length of trumps, you lowest trump must be at least an 8.
+En cas de longueur d'atout égale, la règle selon laquelle le joueur dont l'atout le plus bas est le plus haut détermine l'atout est strictement observée, même entre partenaires. Cela signifie que pour surclasser votre partenaire avec une longueur d'atout égale, votre atout le plus bas doit être au moins un 8.
 
-When trumps are led, players must beat the highest trump so far played to the trick if they can. When a non-trump is led, players who are unable to follow suit must trump if they can, but are not obliged to beat trumps previously played to the trick. There is no special rule about beating Jacks. 
+Quand des atouts sont menés, les joueurs doivent surmonter le plus haut atout joué jusqu'à présent dans le pli s'ils le peuvent. Quand une carte non-atout est menée, les joueurs qui ne peuvent pas suivre doivent couper s'ils le peuvent, mais ne sont pas obligés de surmonter les atouts joués précédemment dans le pli. Il n'y a pas de règle spéciale concernant le fait de surmonter les Valets.
 
-There is no 'small Solo' in which cards are passed. The only Solo is the big Solo (*'Lech Dich'*), and if this is played the team that bids it wins the whole game if they succeed and loses the game if they fail. 
+Il n'y a pas de « Petit Solo » avec échange de cartes. Le seul Solo est le Grand Solo (*« Lech Dich »*), et s'il est joué, l'équipe qui l'enchérit gagne la partie entière en cas de réussite et la perd en cas d'échec.
 
 ### Deutscher Schafkopf
 
-Many German books include a game similar to the above which is sometimes given the name Deutscher Schafkopf. So far as we can tell these accounts are based on what is described as the 'original' version of Schafkopf in the account by Paul Hammer published in Leipzig in 1811. We do not know of anywhere where this version of Schafkopf is still played by these rules. The most closely related surviving games that we know are those played in the Pfalz and described above.
+De nombreux ouvrages allemands incluent un jeu similaire aux précédents, parfois appelé Deutscher Schafkopf. Autant que nous puissions en juger, ces descriptions sont basées sur ce qui est décrit comme la version « originale » du Schafkopf dans le compte rendu de Paul Hammer publié à Leipzig en 1811. Nous ne connaissons aucun endroit où cette version du Schafkopf est encore jouée selon ces règles. Les jeux survivants les plus apparentés que nous connaissons sont ceux joués dans le Palatinat et décrits ci-dessus.
 
-The 'original' book game of Deutscher Schafkopf differs from the above games as follows.
+Le jeu de livre « original » du Deutscher Schafkopf diffère des jeux ci-dessus comme suit.
 
-- German suited cards are used, with the four Unter as top trumps, ranking from high to low: acorns, leaves, hearts, bells.
+- On utilise des cartes au dessin allemand, avec les quatre Unter comme atouts supérieurs, classés du plus haut au plus bas : glands, feuilles, cœurs, cloches.
 
-- The 10 of each suit ranks between the Ober and the Nine, not between the Ace and King, but is still worth 10 points.
+- Le 10 de chaque couleur se classe entre l'Ober et le Neuf, et non entre l'As et le Roi, mais vaut toujours 10 points.
 
-- The minimum bid is 5 trumps. Beginning with the player to dealer's left, players who have a potential 5-card trump suit must state the length of their longest trump suit unless a previous player has already bid higher. Players who cannot make a 5-card trump suit must pass. If all four players pass, the holder of the acorn Unter is obliged to make trumps. There are no Solo bids.
+- L'enchère minimale est de 5 atouts. En commençant par le joueur à la gauche du donneur, les joueurs qui ont une couleur d'atout potentielle de 5 cartes doivent annoncer la longueur de leur couleur d'atout la plus longue, sauf si un joueur précédent a déjà enchéri plus haut. Les joueurs qui ne peuvent pas former une couleur d'atout de 5 cartes doivent passer. Si les quatre joueurs passent, le détenteur de l'Unter de gland est obligé de déterminer l'atout. Il n'y a pas d'enchère Solo.
 
-- If two or more players have equal length trump suits they must calculate and announce the total **value** of their trump suit, valuing the cards as follows: Unter=10, Ace=11, King=10, Ober=10, Ten=10, Nine=9, Eight=8, Seven=7. The player with the highest value makes trumps, or in case of equality the player whose turn to speak was earlier.
+- Si deux joueurs ou plus ont des couleurs d'atout de même longueur, ils doivent calculer et annoncer la **valeur** totale de leur couleur d'atout, en valorisant les cartes ainsi : Unter=10, As=11, Roi=10, Ober=10, Dix=10, Neuf=9, Huit=8, Sept=7. Le joueur ayant la valeur la plus élevée détermine l'atout, ou en cas d'égalité, le joueur dont c'était le tour de parler en premier.
 
-- As usual Vorhand leads to the first trick. Players must follow suit if they can. Players who have no card of the suit led may play any card: they are **not** obliged to play a trump. When playing a trump there is **no** obligation to beat trumps previously played to the trick.
+- Comme d'habitude, Vorhand mène le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent. Les joueurs qui n'ont pas de carte de la couleur demandée peuvent jouer n'importe quelle carte : ils ne sont **pas** obligés de jouer un atout. En jouant un atout, il n'y a **pas** d'obligation de surmonter les atouts joués précédemment dans le pli.
 
-- At the end of the play the points are counted. If the trump makers take at least 61 and not more than 90 card points they score 1 mark: for 91 or more card points they score 2 marks. If the trump makers' opponents take from 61 to 90 card points they score 2 marks: for 91 or more card points they score 4 marks. 
+- À la fin du jeu, les points sont comptés. Si les créateurs d'atout prennent au moins 61 et pas plus de 90 points, ils marquent 1 marque : pour 91 points ou plus, ils marquent 2 marques. Si les adversaires des créateurs d'atout prennent de 61 à 90 points, ils marquent 2 marques : pour 91 points ou plus, ils marquent 4 marques.
 
-- If either team wins all eight tricks they win one whole game in addition to the game in progress, which continues with no change to the score.
+- Si l'une des équipes gagne les huit plis, elle remporte une partie entière en plus de la partie en cours, qui se poursuit sans changement de score.
 
-- If the card points divide 60-60 the result is decided by the next deal. If the next deal is won by the same team that made trumps in the tied deal, they score 1 extra mark: if it is won by the other team they score 2 extra marks.
+- Si les points se répartissent 60-60, le résultat est décidé par la donne suivante. Si la donne suivante est gagnée par la même équipe qui a déterminé l'atout dans la donne à égalité, elle marque 1 marque supplémentaire : si elle est gagnée par l'autre équipe, elle marque 2 marques supplémentaires.
 
-- The marks are used to draw a sheep's head and the first team to complete their head with 9 marks (the outline of the head, the two ears, the two eyes, the two horns, the nose and the tongue) wins the game.
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Bauernstoss
+- Les marques servent à dessiner une tête de mouton et la première équipe à compléter sa tête avec 9 marques (le contour de la tête, les deux oreilles, les deux yeux, les deux cornes, le nez et la langue) gagne la partie.

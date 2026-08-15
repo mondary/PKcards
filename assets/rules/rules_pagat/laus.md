@@ -2,72 +2,71 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A negative version of Schafkopf, related to the Skat variant Ramsch.
+**But :** Une variante négative du Schafkopf, apparentée au Ramsch, variante du Skat.
 
 ---
 
 - Introduction
 
-- Players and Cards
+- Joueurs et cartes
 
-- Deal and Play
+- Donnée et jeu
 
-- Scoring
+- Comptage
 
 ## Introduction
 
-This game from Germany is loosely related to Ramsch. Barry Rigal learnt it watching the under 25 German Bridge team at Cardiff in 1996. It provides some scope for interesting card play, including squeezes. Barry learned it as a four player game; later I received corrections and further information from Lutz Franke, who knows it only as a three-player game. Below I describe both versions.
+Ce jeu allemand est vaguement apparenté au Ramsch. Barry Rigal l'a appris en observant l'équipe d'Allemagne des moins de 25 ans aux championnats de bridge de Cardiff en 1996. Il offre quelques possibilités de jeu de cartes intéressant, y compris des squeezes. Barry l'a appris comme un jeu à quatre joueurs ; par la suite, j'ai reçu des corrections et des informations complémentaires de Lutz Franke, qui ne le connaît que comme un jeu à trois joueurs. Ci-dessous, je décris les deux versions.
 
-## Players and Cards
+## Joueurs et cartes
 
-Three or four can play, using a 32 card pack consisting of A, K, Q, J, 10, 9, 8, 7 in each of the four suits. When playing the game the four jacks are regarded as forming a separate trump suit, so that there are effectively five suits: jacks (trumps), clubs, spades, hearts, diamonds.
+Trois ou quatre joueurs peuvent y participer, avec un jeu de 32 cartes comprenant A, R, D, V, 10, 9, 8, 7 dans chacune des quatre couleurs. Pendant le jeu, les quatre valets sont considérés comme formant une couleur d'atout séparée, de sorte qu'il y a effectivement cinq couleurs : valets (atouts), trèfles, piques, cœurs, carreaux.
 
-The ranking of the trumps from high to low is **![club](../images/internat/club.gif)J, ![spade](../images/internat/spade.gif)J, ![heart](../images/internat/heart.gif)J, ![diamond](../images/internat/diamond.gif)J**. 
+La hiérarchie des atouts, du plus haut au plus bas, est **![club](../images/internat/club.gif)V, ![spade](../images/internat/spade.gif)V, ![heart](../images/internat/heart.gif)V, ![diamond](../images/internat/diamond.gif)V**.
 
-In the four non-trump suits the cards rank from high to low **A, 10, K, Q, 9, 8, 7**.
+Dans les quatre couleurs non-atout, les cartes se classent du plus haut au plus bas **A, 10, R, D, 9, 8, 7**.
 
-Certain cards carry penalty points, and the object of the game is to avoid taking tricks containing those cards. First, all the cards carry their normal penalty point values as in Ramsch:
+Certaines cartes portent des points de pénalité, et le but du jeu est d'éviter de remporter des plis contenant ces cartes. Tout d'abord, toutes les cartes portent leurs valeurs de pénalité habituelles comme au Ramsch :
 
-| Jacks | ... | 2 points each |
-| Aces | ... | 11 points each |
-| Tens | ... | 10 points each |
-| Kings | ... | 4 points each |
-| Queens | ... | 3 points each |
+| Valets | ... | 2 points chacun |
+| As | ... | 11 points chacun |
+| Dix | ... | 10 points chacun |
+| Rois | ... | 4 points chacun |
+| Dames | ... | 3 points chacun |
 
-Taking queens in tricks has an additional effect. The club, spade and heart queens carry extra speacial penalties which swamp the normal card points above, but these can be neutralised by taking the diamond queen:
+Remporter des dames dans les plis a un effet supplémentaire. Les dames de trèfle, pique et cœur portent des pénalités spéciales qui écrasent les valeurs normales des cartes ci-dessus, mais celles-ci peuvent être neutralisées en remportant la dame de carreau :
 
-| Q | ... | 300 points |
-| Q | ... | 200 points |
-| Q | ... | 100 points |
-| Q | ... | cancels all special queen penalties for the player who wins it in a trick |
+| D | ... | 300 points |
+| D | ... | 200 points |
+| D | ... | 100 points |
+| D | ... | annule toutes les pénalités spéciales de dames pour le joueur qui la remporte dans un pli |
 
-So the diamond queen is a good card to win in a trick - it annuls the special penalties for the other queens, or if you have noine of these, it ensures that the players who took the queens will suffer the penalty. Note that all the queens, including diamonds, also carry their normal 3 points, which cannot be anulled. If one player takes all the queens, only the ordinary penalty points will remain - a total of 120 in the pack.
+Ainsi, la dame de carreau est une bonne carte à remporter — elle annule les pénalités spéciales des autres dames, ou si vous n'en avez aucune, elle garantit que les joueurs qui ont pris les dames subiront la pénalité. Notez que toutes les dames, y compris la dame de carreau, conservent leurs 3 points normaux, qui ne peuvent être annulés. Si un joueur remporte toutes les dames, seuls les points de pénalité ordinaires subsistent — soit un total de 120 dans le jeu.
 
-Nines, eights and sevens are neutral - the carry no penalty and have no special effect.
+Les neuf, huit et sept sont neutres — ils ne portent aucune pénalité et n'ont aucun effet spécial.
 
-## Deal and play
+## Donnée et jeu
 
-Deal and play are clockwise, and turn to deal passes to the left after each hand in the usual way. In the four player game, all the cards are dealt out in batches of 3-2-3, so that each player has a hand of eight cards. In the three-player game, the dealer deals 3 cards to each player, then 2 face down to the centre of the table to form the skat, then 4 each, then 3 each.
+La donne et le jeu se font dans le sens horaire, et le tour de donner passe à la gauche après chaque main de la manière habituelle. Dans le jeu à quatre, toutes les cartes sont distribuées par paquets de 3-2-3, de sorte que chaque joueur a une main de huit cartes. Dans le jeu à trois, le donneur distribue 3 cartes à chaque joueur, puis 2 face cachée au centre de la table pour former le skat, puis 4 à chacun, puis 3 à chacun.
 
-In the three-player game, the player to dealer's left is entitled to pick up the two skat cards and discard two; it is illegal to discard queens or jacks. The player to dealer's right can then pick up the first player's discards and discard two cards, and finally the dealer can do the same. Any of the three players can instead just pass on the skat without looking at the two cards. This doubles all scores for this deal.
+Dans le jeu à trois, le joueur à la gauche du donneur a le droit de ramasser les deux cartes du skat et d'en défausser deux ; il est interdit de défausser des dames ou des valets. Le joueur à la droite du donneur peut ensuite ramasser les défausses du premier joueur et en défausser deux, et enfin le donneur peut faire de même. N'importe lequel des trois joueurs peut aussi passer le skat sans le regarder. Cela double tous les scores pour cette donne.
 
-The player to dealer's left leads. Players must follow suit if they can. A player who has no card of the suit led can play any card.
+Le joueur à la gauche du donneur entame. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte.
 
-Jacks count as belonging to the trump suit, not as members of the suits printed on them. This means that if a jack is led the other players must follow with a jack if they can. Also, if (for example) the heart seven is led, you are not allowed to play the heart jack on it unless you have no other hearts. If the heart seven is led and you have no hearts except the jack you do not have to trump with the heart jack - you have no (real) hearts, so you can play any card. Another example: if the jack of spades is led you must play a jack if possible; if you have no jacks you may play any card - there is no requirement to play a spade.
+Les valets comptent comme appartenant à la couleur d'atout, et non aux couleurs imprimées dessus. Cela signifie que si un valet est entamé, les autres joueurs doivent suivre d'un valet s'ils le peuvent. De même, si (par exemple) le sept de cœur est entamé, vous n'êtes pas autorisé à jouer le valet de cœur dessus sauf si vous n'avez pas d'autres cœurs. Si le sept de cœur est entamé et que vous n'avez pas de cœurs sauf le valet, vous n'êtes pas obligé de couper avec le valet de cœur — vous n'avez pas de (vrais) cœurs, donc vous pouvez jouer n'importe quelle carte. Un autre exemple : si le valet de pique est entamé, vous devez jouer un valet si possible ; si vous n'avez pas de valets, vous pouvez jouer n'importe quelle carte — il n'y a pas d'obligation de jouer un pique.
 
-A trick is won by the highest jack in it - or if no jacks are played, it is won by the highest card of the suit led. The winner of each trick leads to the next.
+Un pli est remporté par le valet le plus élevé — ou si aucun valet n'est joué, il est remporté par la carte la plus élevée de la couleur demandée. Le gagnant de chaque pli entame le suivant.
 
-Obviously your main aim in the play is to avoid winning tricks with penalty cards, but at the same time if you see one player taking a lot of penalty cards you want to avoid giving them the ![diamond](../images/internat/diamond.gif)Q.
+Évidemment, votre but principal pendant le jeu est d'éviter de remporter des plis contenant des cartes à pénalité, mais en même temps, si vous voyez qu'un joueur accumule beaucoup de cartes à pénalité, vous voulez éviter de lui donner la ![diamond](../images/internat/diamond.gif)D.
 
-## Scoring
+## Comptage
 
-At the end of the play, the players score according to the cards they have in the tricks they won. In the three-player game, the two discarded cards in the skat are given to the player who won the last trick.
-Each of the players scores the normal penalty points for the cards they have taken, and in addition all players except the one who took the queen of diamonds score the special points for any queens they took.
+À la fin du jeu, les joueurs marquent selon les cartes qu'ils ont dans les plis qu'ils ont remportés. Dans le jeu à trois, les deux cartes défaussées du skat sont attribuées au joueur qui a remporté le dernier pli.
 
-In the three-player game, the penalties for all players are doubled for each time a player passed on the skat without looking at it.
+Chaque joueur marque les points de pénalité normaux pour les cartes qu'il a prises, et en outre, tous les joueurs sauf celui qui a pris la dame de carreau marquent les points spéciaux pour les dames qu'ils ont prises.
 
-In addition, if any player took no tricks the penalties for the other players are doubled. (In the four-player game, if two players take no tricks, the penalties for the other players are doubled twice - i.e. quadrupled.) However, if one player manages to win every trick, that player will score minus 120 - that is 120 good points. In the three-player game this is doubled for each player who passed on the skat without looking.
+Dans le jeu à trois, les pénalités pour tous les joueurs sont doublées chaque fois qu'un joueur a passé le skat sans le regarder.
 
-Further hands are played, keeping a cumulative score for each player. The first player to reach or exceed an agreed total such as 1500 is the loser, and has to buy the drinks.
+De plus, si un joueur n'a remporté aucun pli, les pénalités pour les autres joueurs sont doublées. (Dans le jeu à quatre, si deux joueurs ne remportent aucun pli, les pénalités pour les autres joueurs sont doublées deux fois — c'est-à-dire quadruplées.) Cependant, si un joueur réussit à remporter tous les plis, ce joueur marque moins 120 — soit 120 bons points. Dans le jeu à trois, c'est doublé pour chaque joueur qui a passé le skat sans le regarder.
 
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Laus
+D'autres mains sont jouées, en gardant un score cumulatif pour chaque joueur. Le premier joueur qui atteint ou dépasse un total convenu, par exemple 1500, est le perdant, et doit payer les boissons.

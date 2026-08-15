@@ -3,95 +3,83 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A 4-player card game from the Faroe Islands using 32 cards, in which two Queens and four Jacks are the highest truimps.
+**But :** Un jeu de cartes à 4 joueurs des îles Féroé utilisant 32 cartes, dans lequel deux Dames et quatre Valets sont les atouts les plus élevés.
 
 ---
 
-*This page is based on a contribution from Anthony Smith, with further information from Hedin Meitil and Hans Jacob Thomsen.*
+*Cette page est basée sur une contribution d'Anthony Smith, avec des informations complémentaires de Hedin Meitil et Hans Jacob Thomsen.*
 
 ## Introduction
 
-**Sjavs** is game of the Schafkopf group, which is popular in the Faeroe Islands. "Sjavs" is pronounced "shouse", rhyming with "house". Although the Faeroese-English dictionary explains Sjavs as being a Danish game, the version of the game given in the Danish games-manuals is a 20-card 3-hander whereas the Faeroese game is a 32-card 4-hander. Anthony Smith learnt this game on 20th October 1996 on the Aberdeen - Tórshavn ferry from four players whose names he did not note. On 22nd October he took part in a tournament at the Mimir club in Tórshavn as the guest of Jákup Dalsgaard.
+**Sjavs** est un jeu du groupe Schafkopf, populaire aux îles Féroé. « Sjavs » se prononce « chausse », rimant avec « house ». Bien que le dictionnaire férois-anglais explique Sjavs comme étant un jeu danois, la version du jeu donnée dans les manuels danois est un jeu à 20 cartes pour trois joueurs, alors que le jeu féroïen est un jeu à 32 cartes pour quatre joueurs. Anthony Smith a appris ce jeu le 20 octobre 1996 sur le ferry Aberdeen - Tórshavn de quatre joueurs dont il n'a pas noté les noms. Le 22 octobre, il a participé à un tournoi au club Mimir à Tórshavn en tant qu'invité de Jákup Dalsgaard.
 
-## The players
+## Les joueurs
 
-Four play, in two two-player partnerships, partners sitting opposite one another.
+Quatre joueurs, en deux partenariats de deux, les partenaires étant assis en face l'un de l'autre.
 
-## The cards
+## Les cartes
 
-The 2s, 3s, 4s, 5s and 6s are removed from a standard 52-card pack to leave 32 cards. Six cards are permanent highest trumps, ranking from high to low: **![club](../images/internat/club.gif)Q, ![spade](../images/internat/spade.gif)Q, ![club](../images/internat/club.gif)J, ![spade](../images/internat/spade.gif)J, ![heart](../images/internat/heart.gif)J, ![diamond](../images/internat/diamond.gif)J**. The remaining cards, whether in the trump suit or not, rank **A, K, (Q), 10, 9, 8, 7**. There are thus 13 trumps if a red suit is trumps and 12 if a black. 
+Les 2, 3, 4, 5 et 6 sont retirés d'un jeu standard de 52 cartes pour laisser 32 cartes. Six cartes sont des atouts permanents les plus élevés, classées du plus haut au plus bas : **![club](../images/internat/club.gif)D, ![spade](../images/internat/spade.gif)D, ![club](../images/internat/club.gif)V, ![spade](../images/internat/spade.gif)V, ![heart](../images/internat/heart.gif)V, ![diamond](../images/internat/diamond.gif)V**. Les cartes restantes, qu'elles soient dans la couleur d'atout ou non, se classent **A, R, (D), 10, 9, 8, 7**. Il y a donc 13 atouts si une couleur rouge est atout et 12 si une couleur noire l'est.
 
-The cards have point values as follows: A=11, K=4, Q = 3, J = 2, 10 = 10. The remaining cards have no point values. There are thus 120 points in the whole pack.
+Les cartes ont les valeurs de points suivantes : A=11, R=4, D=3, V=2, 10=10. Les autres cartes n'ont pas de valeur en points. Il y a donc 120 points dans le jeu entier.
 
-## The deal
+## La donne
 
-The dealer shuffles and offers the pack to his right hand neighbour to cut. If he does so then the dealer deals in fours, clockwise, until each player has eight cards. If the dealer's right hand neighbour chooses not to cut but taps the pack with his fingers or knuckles then the dealer deals in eights.
+Le donneur mélange et offre le jeu à son voisin de droite pour la coupe. S'il le fait, le donneur distribue par quatre, dans le sens horaire, jusqu'à ce que chaque joueur ait huit cartes. Si le voisin de droite du donneur choisit de ne pas couper mais tape le jeu avec ses doigts ou ses phalanges, le donneur distribue par huit.
 
-## Choosing the trump suit
+## Choix de la couleur d'atout
 
-Dealer's left hand neighbour has first opportunity to speak. He must state the length of the longest trump-suit he can make with his cards, provided it consists of five or more cards. If he has no five-card trump suit he says, "Pass". Turn to speak then passes clockwise. Once someone has stated a length, subsequent players pass unless they have a better holding than any already announced. For this purpose, a longer trump suit is better than a shorter, and a trump holding in clubs is better than one of the same length in an unstated suit, even if the first player had in fact a club holding. 
+Le voisin de gauche du donneur a la première opportunité de parler. Il doit indiquer la longueur de la plus longue couleur d'atout qu'il peut former avec ses cartes, à condition qu'elle comporte cinq cartes ou plus. S'il n'a pas de couleur d'atout de cinq cartes, il dit « Passe ». Le tour de parole passe ensuite dans le sens horaire. Une fois que quelqu'un a indiqué une longueur, les joueurs suivants passent sauf s'ils ont un meilleur jeu que tout ce qui a déjà été annoncé. À cette fin, une couleur d'atout plus longue est meilleure qu'une plus courte, et un jeu d'atout en trèfles est meilleur qu'un jeu de même longueur dans une couleur non encore annoncée, même si le premier joueur avait en fait un jeu de trèfles.
 
-When all have had an opportunity to speak, the player with the longest length states his trump suit. If he has more than one equally long possible trump suit and one of them is clubs then he must at this stage announce clubs. If no one at all has a trump holding of five or more cards then the same dealer deals again.
+Lorsque tous ont eu l'opportunité de parler, le joueur avec la plus grande longueur annonce sa couleur d'atout. S'il a plus d'une couleur d'atout possible de même longueur et que l'une d'elles est le trèfle, il doit annoncer les trèfles à ce stade. Si personne n'a de jeu d'atout de cinq cartes ou plus, le même donneur redistribue.
 
-## The play
+## Le jeu
 
-Dealer's left hand neighbour then leads and play proceeds clockwise. Players must follow suit if they are able to and can choose freely whether to trump or discard if unable to follow suit. The winner of each trick leads to the next. When all the tricks have been played each team counts the card points in the tricks they have won.
+Le voisin de gauche du donneur entame ensuite et le jeu se poursuit dans le sens horaire. Les joueurs doivent suivre la couleur s'ils le peuvent et peuvent choisir librement de couper ou de se défausser s'ils ne peuvent pas suivre. Le gagnant de chaque pli entame le suivant. Lorsque tous les plis ont été joués, chaque équipe compte les points de carte dans les plis qu'elle a remportés.
 
-## The scoring
+## Le comptage
 
-If the side that announced trump have:
+Si le côté qui a annoncé l'atout a :
 
-| all tricks | they score 12, | or 16 if clubs were trumps |
-| 90 - 120 | they score 4, | or 8 if clubs were trumps |
-| 61 - 89 | they score 2, | or 4 if clubs were trumps |
-| 31 - 59 | their opponents score 4, | or 8 if clubs were trumps |
-| 0 - 30 | their opponents score 8, | or 16 if clubs were trumps |
-| no tricks | their opponents score 16 whatever suit is trumps |
+| tous les plis | ils marquent 12, | ou 16 si les trèfles étaient atouts |
+| 90 - 120 | ils marquent 4, | ou 8 si les trèfles étaient atouts |
+| 61 - 89 | ils marquent 2, | ou 4 si les trèfles étaient atouts |
+| 31 - 59 | leurs adversaires marquent 4, | ou 8 si les trèfles étaient atouts |
+| 0 - 30 | leurs adversaires marquent 8, | ou 16 si les trèfles étaient atouts |
+| aucun pli | leurs adversaires marquent 16 quelle que soit la couleur d'atout |
 
-If both sides have 60 points there is no score for this game, but the value of the next game is increased by two, no matter what had been the original trump. 
+Si les deux côtés ont 60 points, il n'y a pas de score pour cette manche, mais la valeur de la manche suivante est augmentée de deux, quel que soit l'atout initial.
 
-Winning all the tricks is known as *"vol"*. Obtaining more than 30 points and thus avoiding a double loss is called *"at vera javnfrujjur"*.
+Remporter tous les plis est appelé « *vol* ». Obtenir plus de 30 points et éviter ainsi une double perte est appelé « *at vera javnfrujjur* ».
 
-If a single player from the side that announced trumps wins all the tricks, the team scores 16 points, or 24 points if clubs were trumps.
+Si un seul joueur du côté qui a annoncé les atouts remporte tous les plis, l'équipe marque 16 points, ou 24 points si les trèfles étaient atouts.
 
-### The score-sheet
+### La feuille de score
 
-A rubber consists of 24 points, but points are counted down from 24. A vertical line is drawn, and a horizontal near the top. The two columns are headed "We" and "They". Whenever a game is won, the winning players subtract the score from their current total and write the new score in their own column on the next horizontal level below the level where anyone's score was last recorded. Thus the first figure written is got by subtracting the first score from 24. The side whose score first reaches - or passes - zero have won the rubber. If their opponents are still on 24 this counts as a double victory. A victory is recorded as a cross at the bottom of the winners' column on the score sheet and is referred to as "winning a cross".
+Une manche se compose de 24 points, mais les points sont comptés à rebours à partir de 24. Une ligne verticale est tracée, et une ligne horizontale près du haut. Les deux colonnes sont intitulées « Nous » et « Eux ». Chaque fois qu'une manche est gagnée, les joueurs gagnants soustraient le score de leur total actuel et écrivent le nouveau score dans leur propre colonne au niveau horizontal suivant en dessous du niveau où le score de quiconque a été enregistré en dernier. Ainsi, le premier chiffre écrit est obtenu en soustrayant le premier score de 24. Le côté dont le score atteint ou dépasse zéro en premier a gagné la manche. Si leurs adversaires sont encore à 24, cela compte comme une double victoire. Une victoire est enregistrée par une croix en bas de la colonne des gagnants sur la feuille de score et est appelée « gagner une croix ».
 
-A team that has 6 points remaining is said to be "on the hook" (because the figure 6 looks a little like a hook). There is a superstition that if you are on the hook it may take a long time to get off it again.
+Une équipe qui a 6 points restants est dite être « au crochet » (parce que le chiffre 6 ressemble un peu à un crochet). Il existe une superstition selon laquelle si vous êtes au crochet, cela peut prendre longtemps pour en repartir.
 
-## Variations
+## Variantes
 
-The following differences are found in Suðuroy, the southernmost island:
+Les différences suivantes se trouvent à Suðuroy, l'île la plus méridionale :
 
-- If the cards are cut they are dealt in batches of 3-2-3 rather than 4-4. 
+- Si les cartes sont coupées, elles sont distribuées par paquets de 3-2-3 plutôt que 4-4.
 
-- If both sides have 60 points, the value of the next game is 
-increased by either 2 or 4 depending on the winner - if the side that 
-announced trump wins, then 2 points are added, and if the other side 
-wins 4 points are added, to reward them for achieving the "draw". 
+- Si les deux côtés ont 60 points, la valeur de la manche suivante est augmentée de 2 ou 4 selon le gagnant — si le côté qui a annoncé l'atout gagne, 2 points sont ajoutés, et si l'autre côté gagne, 4 points sont ajoutés, pour les récompenser d'avoir obtenu le « match nul ».
 
-- Many do not award a
-double victory if the losers are still on 24, and many do not score extra points if single player wins all the
-tricks.
+- Beaucoup n'accordent pas de double victoire si les perdants sont encore à 24, et beaucoup ne marquent pas de points supplémentaires si un seul joueur remporte tous les plis.
 
-## Three-player Sjavs
+## Sjavs à trois joueurs
 
-In 3-player Sjavs you deal 10 cards to each player and 2 
-cards to the table, face down. If player to dealer's right cuts the cards are dealt 
-3 each - 1 to the table - 2 each - 1 to the table - 3 each. If he taps, they are dealt 10 to the first player - 1 to the table - 10 to the second player - 1 to the table - 10 to the dealer. The bidding process is the same as in 4-player sjavs. One player makes trumps and the other two form a temporary partnership against him. 
+Au Sjavs à 3 joueurs, on distribue 10 cartes à chaque joueur et 2 cartes sur la table, face cachée. Si le joueur à la droite du donneur coupe, les cartes sont distribuées 3 à chacun — 1 sur la table — 2 à chacun — 1 sur la table — 3 à chacun. S'il tape, elles sont distribuées 10 au premier joueur — 1 sur la table — 10 au deuxième joueur — 1 sur la table — 10 au donneur. Le processus d'enchères est le même qu'au Sjavs à 4 joueurs. Un joueur détermine les atouts et les deux autres forment un partenariat temporaire contre lui.
 
-The trump maker has the right to discard either one or two cards from hand face down and pick up cards from the table to replace them. If the trump maker discards one card he must choose one of the table cards without looking at it first. The opponents do not see the discards nor the cards picked up, and if the trump maker discards one card or no cards at all, the one or two unused table cards are not seen by anyone until after the play. In all cases the two cards on the table, whether exchanged or not, count for the trump maker at the end of the play.
+Le créateur d'atouts a le droit de défausser une ou deux cartes de sa main face cachée et de ramasser des cartes de la table pour les remplacer. S'il défausse une carte, il doit choisir une des cartes de la table sans la regarder d'abord. Les adversaires ne voient ni les défausses ni les cartes ramassées, et si le créateur d'atouts défausse une carte ou aucune carte du tout, la ou les cartes non utilisées de la table ne sont vues par personne avant la fin du jeu. Dans tous les cas, les deux cartes sur la table, qu'elles soient échangées ou non, comptent pour le créateur d'atouts à la fin du jeu.
 
-The score sheet has 3 columns, one for each player. If the soloist 
-wins he subtracts points according to the 4-player rules. If he loses, the 
-other two both subtract the appropriate number of point - for example if the soloist takes 50 cards points with hearts as trump the opponents score 4 each. 
+La feuille de score a 3 colonnes, une pour chaque joueur. Si le soliste gagne, il soustrait des points selon les règles à 4 joueurs. S'il perd, les deux autres soustraient tous les deux le nombre approprié de points — par exemple si le soliste prend 50 points de carte avec les cœurs comme atout, les adversaires marquent 4 chacun.
 
-## Two-player Sjavs
+## Sjavs à deux joueurs
 
-In 2-player Sjavs a row of 4 cards is dealt face-down on the table 
-in front of each player. Then 4 face up cards are dealt to each player, one face-up card on top of each of the face-down cards, so that each player has four 2-card piles with the top card face up. Finally the remaining cards are dealt, 8 to each player. The face-up cards count as cards in the player's hand, so in principle it is possible to bid as many as 12. 
+Au Sjavs à 2 joueurs, une rangée de 4 cartes est distribuée face cachée sur la table devant chaque joueur. Ensuite, 4 cartes face visible sont distribuées à chaque joueur, une carte face visible sur chacune des cartes face cachées, de sorte que chaque joueur a quatre piles de 2 cartes avec la carte du dessus face visible. Enfin, les cartes restantes sont distribuées, 8 à chaque joueur. Les cartes face visibles comptent comme des cartes dans la main du joueur, donc en principe il est possible d'enchérir jusqu'à 12.
 
-In the play too, the face up cards in front of you count as part of your hand. If you play a table-card that has another card under it, when the trick is complete you turn the second card face up and it becomes available to play. 
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Sjavs
+Pendant le jeu également, les cartes face visibles devant vous comptent comme faisant partie de votre main. Si vous jouez une carte de la table qui a une autre carte en dessous, lorsque le pli est terminé, vous retournez la deuxième carte face visible et elle devient disponible pour être jouée.

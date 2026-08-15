@@ -2,145 +2,143 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** Also known as Sasku or Lambapea.
-**Autres noms :** Sasku or Lambapea
+**But :** Aussi connu sous les noms de Sasku ou Lambapea.
+**Autres noms :** Sasku, Lambapea
 
 ---
 
-*This page is based on information from Eik Hermann.*
+*Cette page est basée sur des informations fournies par Eik Hermann.*
 
 ## Introduction
 
-**Saskop** or **Sasku** is an Estonian partnership game for four players. It belongs to the Schafkopf group and is sometimes known as **Lambapea**, which like the German word Schafkopf literally means sheep's head and is a mild insult similar to the English 'blockhead'.
+**Saskop** ou **Sasku** est un jeu estonien en partenariat pour quatre joueurs. Il appartient au groupe Schafkopf et est parfois connu sous le nom de **Lambapea**, qui, comme le mot allemand Schafkopf, signifie littéralement tête de mouton et constitue une insulte légère similaire à l'anglais « blockhead ».
 
-Like other Schafkopf games, Saskop is a point-trick game in which some picture cards are permanent trumps. In Saskop, all the picture cards - not only the Jacks and Queens, but also the Kings - are high trumps, but highest trump of all, as in some other Estonian games, is the 6 of the chosen trump suit. 
+Comme les autres jeux Schafkopf, Saskop est un jeu de plis à points dans lequel certaines figures sont des atouts permanents. À Saskop, toutes les figures — non seulement les Valets et les Dames, mais aussi les Rois — sont des atouts élevés, mais l'atout le plus élevé de tous, comme dans d'autres jeux estoniens, est le 6 de la couleur d'atout choisie.
 
-The game begins with an auction to find out who holds the longest potential trump suit, and in principle this player is entitled to choose that suit as trumps. However the diamond suit has a special status: diamonds are the default trump suit if everyone passes, diamonds can always be declared to override the final bid even if it is not the longest available suit, and when diamonds are declared the value of the game is doubled.
+Le jeu commence par une enchère pour déterminer qui détient la plus longue couleur d'atout potentielle, et en principe ce joueur a le droit de choisir cette couleur comme atouts. Cependant, la couleur carreau a un statut spécial : les carreaux sont la couleur d'atout par défaut si tout le monde passe, les carreaux peuvent toujours être déclarés pour surclasser l'enchère finale même si ce n'est pas la couleur disponible la plus longue, et lorsque les carreaux sont déclarés, la valeur du jeu est doublée.
 
-Eik Hermann writes: "This game doesn't suit a quiet company all sitting around the table with poker faces. A lively atmosphere is important and that's why I really love it. A great deal of the game depends on chance, but a skillful player can extract more from her cards than an unskilled one - as is the case with almost every card game I know. We used to play it among my relatives, grandfather and grandmother and uncle and me, there was always a bit of mocking going on between the teams." 
+Eik Hermann écrit : « Ce jeu ne convient pas à une compagnie tranquille assise autour de la table avec des visages de poker. Une atmosphère animée est importante, et c'est pour cela que je l'aime vraiment. Une grande partie du jeu dépend du hasard, mais un joueur habile peut tirer plus de ses cartes qu'un joueur moins habile — comme c'est le cas pour presque tous les jeux de cartes que je connais. Nous avions l'habitude d'y jouer entre parents, grand-père et grand-mère, oncle et moi, il y avait toujours un peu de moquerie entre les équipes. »
 
-## Players and Cards
+## Joueurs et cartes
 
-Saskop is a game for four players playing in fixed teams, two against two. Each player sits opposite their partner. Deal and play are clockwise.
+Saskop est un jeu pour quatre joueurs jouant en équipes fixes, deux contre deux. Chaque joueur est assis en face de son partenaire. La donne et le jeu se font dans le sens horaire.
 
-The game is played with a French suited 36-card pack, the lowest numeral card in each suit being the 6.
+Le jeu se joue avec un jeu de 36 cartes à enseigne française, la carte numérale la plus basse de chaque couleur étant le 6.
 
-In each deal there is a trump suit chosen by bidding. The highest trump is always the 6. After this come all four Kings, which are permanent trumps ranking according to suit: clubs (highest), spades, hearts, diamonds (lowest). After the Kings come the four Queens ranking in the same suit order, and then the four Jacks. Below the Jack of diamonds are the remaining cards of the chosen trumps suit in the order Ace, 10, 9, 8, 7 (low). So there are 18 trumps: half the cards in the pack. For example if hearts are trumps the trump suit from high to low is
+Dans chaque donne, il y a une couleur d'atout choisie par les enchères. L'atout le plus élevé est toujours le 6. Viennent ensuite les quatre Rois, qui sont des atouts permanents classés selon la couleur : trèfle (le plus élevé), pique, cœur, carreau (le plus bas). Après les Rois viennent les quatre Dames classées dans le même ordre de couleur, puis les quatre Valets. En dessous du Valet de carreau se trouvent les cartes restantes de la couleur d'atout choisie dans l'ordre As, 10, 9, 8, 7 (le plus bas). Il y a donc 18 atouts : la moitié des cartes du jeu. Par exemple, si les cœurs sont atouts, la couleur d'atout du plus haut au plus bas est
 
-![heart](../images/internat/heart.gif)6, ![club](../images/internat/club.gif)K, ![spade](../images/internat/spade.gif)K, ![heart](../images/internat/heart.gif)K, ![diamond](../images/internat/diamond.gif)K, ![club](../images/internat/club.gif)Q, ![spade](../images/internat/spade.gif)Q, ![heart](../images/internat/heart.gif)Q, ![diamond](../images/internat/diamond.gif)Q, ![club](../images/internat/club.gif)J, ![spade](../images/internat/spade.gif)J, ![heart](../images/internat/heart.gif)J, ![diamond](../images/internat/diamond.gif)J, ![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)9, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)7.
+![heart](../images/internat/heart.gif)6, ![club](../images/internat/club.gif)R, ![spade](../images/internat/spade.gif)R, ![heart](../images/internat/heart.gif)R, ![diamond](../images/internat/diamond.gif)R, ![club](../images/internat/club.gif)D, ![spade](../images/internat/spade.gif)D, ![heart](../images/internat/heart.gif)D, ![diamond](../images/internat/diamond.gif)D, ![club](../images/internat/club.gif)V, ![spade](../images/internat/spade.gif)V, ![heart](../images/internat/heart.gif)V, ![diamond](../images/internat/diamond.gif)V, ![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)9, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)7.
 
-The three non-trump suits have just 6 cards each ranking in the order Ace (high), 10, 9, 8, 7, 6 (low).
+Les trois couleurs non-atout n'ont que 6 cartes chacune, classées dans l'ordre As (le plus haut), 10, 9, 8, 7, 6 (le plus bas).
 
-The cards have point values as follows:
+Les cartes ont les valeurs de points suivantes :
 
-| Each King | 4 points |
-| Each Queen | 3 points |
-| Each Jack | 2 points |
-| Each Ace | 11 points |
-| Each Ten | 10 points |
-| Each 9, 8, 7, 6 | 0 points |
+| Chaque Roi | 4 points |
+| Chaque Dame | 3 points |
+| Chaque Valet | 2 points |
+| Chaque As | 11 points |
+| Chaque Dix | 10 points |
+| Chaque 9, 8, 7, 6 | 0 points |
 
-The total value of the cards in the pack is 120 points, and the aim of a team, is to collect more than half of these points in the tricks that they win. 
+La valeur totale des cartes du jeu est de 120 points, et le but d'une équipe est de collecter plus de la moitié de ces points dans les plis qu'elle remporte.
 
-## The Deal
+## La donne
 
-The whole pack is dealt out: 9 cards to each player. The first dealer is chosen by any convenient method, and the turn to deal passes to the left after each hand. 
+Le jeu entier est distribué : 9 cartes à chaque joueur. Le premier donneur est choisi par n'importe quelle méthode pratique, et le tour de donner passe à la gauche après chaque main.
 
-The dealer shuffles the cards and offers them to the opponent to the right to cut. While cutting, this opponent also has the right to specify how the cards will be dealt.
+Le donneur mélange les cartes et les offre à l'adversaire à sa droite pour la coupe. Lors de la coupe, cet adversaire a également le droit de spécifier comment les cartes seront distribuées.
 
-- If the cards are just cut normally with out comment, they must be dealt in batches of 3 at a time. This is the most usual method.
+- Si les cartes sont simplement coupées normalement sans commentaire, elles doivent être distribuées par paquets de 3 à la fois. C'est la méthode la plus courante.
 
-- The cutter may instead demand that the cards should be dealt "one at a time", clockwise.
+- Le coupeur peut exiger que les cartes soient distribuées « une à la fois », dans le sens horaire.
 
-- The cutter may ask for "9 at a time": then the first 9 cards are dealt to the player to dealer's left, the next 9 to dealer's partner, the next 9 to the cutter, the last 9 to the dealer.
+- Le coupeur peut demander « 9 à la fois » : alors les 9 premières cartes vont au joueur à la gauche du donneur, les 9 suivantes au partenaire du donneur, les 9 suivantes au coupeur, les 9 dernières au donneur.
 
-- The cutter may ask for "covers to us". The first 9 cards go to the player to dealer's left, the next 9 to dealer's partner, the next 9 to the dealer and the last 9 to the cutter.
+- Le coupeur peut demander « couvertures à nous ». Les 9 premières cartes vont au joueur à la gauche du donneur, les 9 suivantes au partenaire du donneur, les 9 suivantes au donneur et les 9 dernières au coupeur.
 
-- "Content to us" specifies that the first 9 cards must be dealt to dealer's partner, the next 9 to the left, the third 9 to the right and the last 9 to the dealer.
+- « Contenu à nous » spécifie que les 9 premières doivent être distribuées au partenaire du donneur, les 9 suivantes à gauche, les troisièmes 9 à droite et les 9 dernières au donneur.
 
-- "Up to X", where X is a specific card chosen by the cutter, requires the cards to be dealt **face up** until the specified card appears. The cards are dealt one at a time in a pile to each player: the first 9 cards are dealt to the player to dealer's left, the next 9 to the dealer's partner, the next 9 to the cutter, and the last 9 to the dealer. After the card named by the cutter appears the remaining cards are dealt face down. 
+- « Jusqu'à X », où X est une carte spécifique choisie par le coupeur, exige que les cartes soient distribuées **face visible** jusqu'à ce que la carte spécifiée apparaisse. Les cartes sont distribuées une à la fois en pile à chaque joueur : les 9 premières au joueur à la gauche du donneur, les 9 suivantes au partenaire du donneur, les 9 suivantes au coupeur, et les 9 dernières au donneur. Après que la carte nommée par le coupeur est apparue, les cartes restantes sont distribuées face cachée.
 
-After the deal any player who has only one picture card (King, Queen or Jack) may place it face up on the table. The player's partner takes this card and passes one card from hand face down across the table in exchange.
+Après la donne, tout joueur qui n'a qu'une seule figure (Roi, Dame ou Valet) peut la placer face visible sur la table. Le partenaire du joueur prend cette carte et passe une carte de sa main face cachée à travers la table en échange.
 
-A player who is dealt no picture cards at all is said to have a "roof". Some allow this to be signalled to partner by placing the fingertips together to form a roof shape, if possible when the opponents are not looking. This signal is generally understood but in some groups it is considered illegal and would incur a penalty if discovered.
+Un joueur qui n'a reçu aucune figure est dit avoir un « toit ». Certains permettent de le signaler au partenaire en joignant les bouts des doigts pour former une forme de toit, si possible lorsque les adversaires ne regardent pas. Ce signal est généralement compris, mais dans certains groupes il est considéré comme illégal et entraînerait une pénalité s'il était découvert.
 
-## Bidding
+## Enchères
 
-Beginning with the player to dealer's left and continuing clockwise, players bid for the right to determine the trump suit. The bids do not mention any specific suit but are simply numbers from 5 to 9, relating the length of the bidder's proposed trump suit including pictures. Each bid must be higher than the last, and a player who does not wish to bid may pass. A player who has passed cannot bid again during the current deal. 
+En commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, les joueurs enchérissent pour le droit de déterminer la couleur d'atout. Les enchères ne mentionnent aucune couleur spécifique mais sont simplement des nombres de 5 à 9, correspondant à la longueur de la couleur d'atout potentielle de l'enchérisseur, figures incluses. Chaque enchère doit être supérieure à la précédente, et un joueur qui ne souhaite pas enchérir peut passer. Un joueur qui a passé ne peut plus enchérir pendant la donne en cours.
 
-In order to bid a number, a player must have a possible trump suit with at least as many cards as the number bid. 5 is the minimum bid, so in order to be allowed to bid at all it is necessary to have a potential trump suit of at least five cards. However, a player does not have to bid the full length of their longest possible trump suit: they may bid a lower number. For example, a player whose hand is ![spade](../images/internat/spade.gif)K, ![club](../images/internat/club.gif)Q, ![spade](../images/internat/spade.gif)J, ![heart](../images/internat/heart.gif)J, ![club](../images/internat/club.gif)A, ![club](../images/internat/club.gif)10, ![club](../images/internat/club.gif)7, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)9 has a potential 7-card trump suit (4 pictures plus 3 clubs) if clubs are trumps, so is allowed to bid 5, 6 or 7.
+Pour enchérir un nombre, un joueur doit avoir une couleur d'atout potentielle d'au moins autant de cartes que le nombre enchéri. 5 est l'enchère minimum, donc pour être autorisé à enchérir, il faut avoir une couleur d'atout potentielle d'au moins cinq cartes. Cependant, un joueur n'est pas obligé d'enchérir la longueur totale de sa plus longue couleur d'atout potentielle : il peut enchérir un nombre inférieur. Par exemple, un joueur dont la main est ![spade](../images/internat/spade.gif)R, ![club](../images/internat/club.gif)D, ![spade](../images/internat/spade.gif)V, ![heart](../images/internat/heart.gif)V, ![club](../images/internat/club.gif)A, ![club](../images/internat/club.gif)10, ![club](../images/internat/club.gif)7, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)9 a une couleur d'atout potentielle de 7 cartes (4 figures plus 3 trèfles) si les trèfles sont atouts, il est donc autorisé à enchérir 5, 6 ou 7.
 
-In any deal, at least one player will have a potential trump suit of at least 5 cards, and therefore will be able to bid. Nevertheless it sometimes happens that all four players choose to pass. In that case diamonds are automatically trumps.
+Dans n'importe quelle donne, au moins un joueur aura une couleur d'atout potentielle d'au moins 5 cartes, et pourra donc enchérir. Néanmoins, il arrive parfois que les quatre joueurs choisissent de passer. Dans ce cas, les carreaux sont automatiquement atouts.
 
-If at least one player bids, the bidding continues for as many circuits as necessary until three players have passed, after which the final and highest bidder announces a trump suit, which must have at least as many cards as their bid.
+Si au moins un joueur enchérit, les enchères continuent autant de tours que nécessaire jusqu'à ce que trois joueurs aient passé, après quoi le dernier et plus haut enchérisseur annonce une couleur d'atout, qui doit avoir au moins autant de cartes que son enchère.
 
-If the announced trump suit is not diamonds, any other player, including the partner of the final bidder, is allowed to **override** the final bid and change the trump suit to diamonds. This can be done even by a player who has passed in the auction, irrespective of the number of trumps they hold.
+Si la couleur d'atout annoncée n'est pas les carreaux, n'importe quel autre joueur, y compris le partenaire du dernier enchérisseur, est autorisé à **surclasser** l'enchère finale et changer la couleur d'atout en carreaux. Cela peut être fait même par un joueur qui a passé lors de l'enchère, indépendamment du nombre d'atouts qu'il détient.
 
-The effect of this rule is that a player with strong diamonds sometimes does not bid them immediately, but wait to find out the strengths of the other players before overriding the final bid: in this case there is however the risk that everyone will pass. Also a player who fears that the opponents are too strong and might take all the tricks - a result known as '*lambapea*', which immediately wins the entire game - might avoid that by overriding the bid with diamonds even if they did not expect to win.
+L'effet de cette règle est qu'un joueur avec de forts carreaux ne les enchérit parfois pas immédiatement, mais attend de connaître la force des autres joueurs avant de surclasser l'enchère finale : dans ce cas, cependant, il y a le risque que tout le monde passe. De même, un joueur qui craint que les adversaires soient trop forts et pourraient prendre tous les plis — un résultat connu sous le nom de « *lambapea* », qui remporte immédiatement toute la partie — pourrait l'éviter en surclassant l'enchère avec les carreaux même s'il ne s'attendait pas à gagner.
 
-Any player who is sure that they want diamonds as trumps is allowed to announce it as soon as they wish to after the deal, terminating the auction or avoiding the auction entirely. 
+Tout joueur qui est certain de vouloir les carreaux comme atouts est autorisé à l'annoncer dès qu'il le souhaite après la donne, mettant fin aux enchères ou les évitant entièrement.
 
-## Play
+## Jeu
 
-After the trump suit has been determined, the play can begin. The player to the left of dealer leads to the first trick, each of the other players in turn plays a card, and the trick is won by the highest trump in it, or if no trumps were played by the highest card of the suit that was led. The winner of each trick leads to the next. The rules of play are as follows.
+Une fois la couleur d'atout déterminée, le jeu peut commencer. Le joueur à la gauche du donneur entame le premier pli, chacun des autres joueurs joue une carte à tour de rôle, et le pli est remporté par l'atout le plus élevé s'il y en a un, ou si aucun atout n'est joué, par la carte la plus élevée de la couleur demandée. Le gagnant de chaque pli entame le suivant. Les règles de jeu sont les suivantes.
 
-- Any card may be led.
+- N'importe quelle carte peut être entamée.
 
-- Players must follow suit if possible, bearing in mind that all picture cards belong to the trump suit and not to the suits printed on them. 
+- Les joueurs doivent suivre la couleur s'ils le peuvent, en gardant à l'esprit que toutes les figures appartiennent à la couleur d'atout et non aux couleurs imprimées dessus.
 
-- A player who has no card of the suit led must play a trump if possible. 
+- Un joueur qui n'a pas de carte de la couleur demandée doit jouer un atout s'il le peut.
 
-- A player who has no cards of the suit led and no trumps may play any card.
+- Un joueur qui n'a pas de cartes de la couleur demandée et pas d'atout peut jouer n'importe quelle carte.
 
-- Subject to the above rules, each player must play a card that beats the highest card so far played to the trick if able to do so. 
+- Sous réserve des règles ci-dessus, chaque joueur doit jouer une carte qui bat la carte la plus élevée jouée dans le pli jusqu'ici, s'il en est capable.
 
-Some consequences of these rules:
+Quelques conséquences de ces règles :
 
-- If a trump - either card of the trump suit or any picture card - is led to the trick played you must play a trump if you have one, if possible higher than any trump so far played to the trick. If you cannot beat the highest trump in the trick, you must still play a trump if you have one.
+- Si un atout — soit une carte de la couleur d'atout, soit n'importe quelle figure — est entamé dans un pli, vous devez jouer un atout si vous en avez un, si possible plus élevé que tout atout joué dans le pli. Si vous ne pouvez pas battre l'atout le plus élevé du pli, vous devez quand même jouer un atout si vous en avez un.
 
-- If a non-trump - a card of a non-trump suit that is not a picture card - is led to a trick you must play a card of that suit if you can, beating the highest card played to the trick if you can. For example suppose that diamonds are trumps and the ![club](../images/internat/club.gif)8 is led, the second player plays the ![club](../images/internat/club.gif)10 and the third player plays the ![club](../images/internat/club.gif)6. If you have the ![club](../images/internat/club.gif)A you must play it, since it beats the 10. If you do not have the ![club](../images/internat/club.gif)A you must still play a club if you have one - for example if you have ![club](../images/internat/club.gif)9 and ![club](../images/internat/club.gif)7 you may play either of these. If you have no clubs (except possible for club pictures, which do not count as clubs since they are trumps), you must play a trump, even though your partner is currently winning the trick. For example you could play the ![diamond](../images/internat/diamond.gif)7 or the ![club](../images/internat/club.gif)J or the ![spade](../images/internat/spade.gif)Q, any of which would win.
+- Si un non-atout — une carte d'une couleur non-atout qui n'est pas une figure — est entamé dans un pli, vous devez jouer une carte de cette couleur si vous le pouvez, en battant la carte la plus élevée jouée si vous le pouvez. Par exemple, supposons que les carreaux soient atouts et que le ![club](../images/internat/club.gif)8 soit entamé, le deuxième joueur joue le ![club](../images/internat/club.gif)10 et le troisième joueur joue le ![club](../images/internat/club.gif)6. Si vous avez le ![club](../images/internat/club.gif)A, vous devez le jouer, puisqu'il bat le 10. Si vous n'avez pas le ![club](../images/internat/club.gif)A, vous devez quand même jouer un trèfle si vous en avez un — par exemple si vous avez ![club](../images/internat/club.gif)9 et ![club](../images/internat/club.gif)7, vous pouvez jouer l'un ou l'autre. Si vous n'avez pas de trèfles (sauf éventuellement les figures de trèfle, qui ne comptent pas comme trèfles puisque ce sont des atouts), vous devez jouer un atout, même si votre partenaire est en train de gagner le pli. Par exemple, vous pourriez jouer le ![diamond](../images/internat/diamond.gif)7 ou le ![club](../images/internat/club.gif)V ou le ![spade](../images/internat/spade.gif)D, n'importe lequel gagnerait.
 
-- Suppose now that the the ![club](../images/internat/club.gif)8 is led, the second player plays the ![club](../images/internat/club.gif)10 and the third player, having no clubs, trumps with the the ![club](../images/internat/club.gif)J. If you have a club you must play one. If your only club is the ![club](../images/internat/club.gif)A you must play it, giving the opponents a 23-point trick. If you have for example the ![club](../images/internat/club.gif)A and the ![club](../images/internat/club.gif)7 you can play your 7 and save your Ace for later, since neither card beats the third player's trump. If you have no clubs you must play a trump, beating the third player's ![club](../images/internat/club.gif)J if possible. For example if your only trumps are ![heart](../images/internat/heart.gif)K, ![diamond](../images/internat/diamond.gif)J, ![diamond](../images/internat/diamond.gif)A you must play the ![heart](../images/internat/heart.gif)K and take the trick, since that is the only one of your trumps that beats the ![club](../images/internat/club.gif)J. If your only trumps are ![spade](../images/internat/spade.gif)J and ![diamond](../images/internat/diamond.gif)A you must play one of these, even though neither wins the trick. If you have no clubs and no trumps you can throw any card, preferably a worthless one since the opponents are winning the trick.
+- Supposons maintenant que le ![club](../images/internat/club.gif)8 soit entamé, le deuxième joueur joue le ![club](../images/internat/club.gif)10 et le troisième joueur, n'ayant pas de trèfles, coupe avec le ![club](../images/internat/club.gif)V. Si vous avez un trèfle, vous devez en jouer un. Si votre seul trèfle est le ![club](../images/internat/club.gif)A, vous devez le jouer, donnant aux adversaires un pli de 23 points. Si vous avez par exemple le ![club](../images/internat/club.gif)A et le ![club](../images/internat/club.gif)7, vous pouvez jouer votre 7 et garder votre As pour plus tard, puisque aucune des deux cartes ne bat l'atout du troisième joueur. Si vous n'avez pas de trèfles, vous devez jouer un atout, en battant le ![club](../images/internat/club.gif)V du troisième joueur si possible. Par exemple, si vos seuls atouts sont ![heart](../images/internat/heart.gif)R, ![diamond](../images/internat/diamond.gif)V, ![diamond](../images/internat/diamond.gif)A, vous devez jouer le ![heart](../images/internat/heart.gif)R et remporter le pli, puisque c'est le seul de vos atouts qui bat le ![club](../images/internat/club.gif)V. Si vos seuls atouts sont ![spade](../images/internat/spade.gif)V et ![diamond](../images/internat/diamond.gif)A, vous devez jouer l'un d'eux, même si aucun ne gagne le pli. Si vous n'avez pas de trèfles et pas d'atouts, vous pouvez jeter n'importe quelle carte, de préférence une sans valeur puisque les adversaires gagnent le pli.
 
-One member of each team keeps the tricks won by their team in a face down pile until the end of the play, when the values of the cards taken by each team are counted and totalled.
+Un membre de chaque équipe conserve les plis remportés par son équipe dans une pile face cachée jusqu'à la fin du jeu, moment auquel les valeurs des cartes prises par chaque équipe sont comptées et totalisées.
 
-### Signals
+### Signaux
 
-There are two types of situation during the play in which partners are allowed to communicate by word or gesture.
+Il existe deux types de situations pendant le jeu dans lesquelles les partenaires sont autorisés à communiquer par parole ou geste.
 
-- **Blinking. **If you are the second player to a trick you may have a choice of plays, and your choice may depend on what cards are held by your partner, who will play last to the trick. If you expect your partner to win you will contribute a valuable card; if not you will play a worthless card. In such a case, before selecting you play you may look at your partner for guidance. If your partner blinks, that indicates that she expects to win the trick. If a non-trump was led, the blink could indicate that your partner holds the Ace of the suit, or perhaps has no cards of that suit and plans to trump. If a trump was led you partner's blink would indicate that she has a high trump with which to win the trick. Conversely if your partner does not blink it indicates that she does not expect to win the trick. The opponents may of course intercept this signal and try to use the information to their own advantage.
+- **Clignement des yeux.** Si vous êtes le deuxième joueur d'un pli, vous pouvez avoir un choix de jeux, et votre choix peut dépendre des cartes détenues par votre partenaire, qui jouera en dernier au pli. Si vous vous attendez à ce que votre partenaire gagne, vous jouerez une carte de valeur ; sinon, vous jouerez une carte sans valeur. Dans ce cas, avant de choisir votre jeu, vous pouvez regarder votre partenaire pour obtenir des indications. Si votre partenaire cligne des yeux, cela indique qu'il s'attend à gagner le pli. Si un non-atout a été entamé, le clignement peut indiquer que votre partenaire détient l'As de la couleur, ou qu'il n'a pas de cartes de cette couleur et prévoit de couper. Si un atout a été entamé, le clignement de votre partenaire indiquerait qu'il a un atout élevé pour gagner le pli. Inversement, si votre partenaire ne cligne pas, cela indique qu'il ne s'attend pas à gagner le pli. Les adversaires peuvent bien sûr intercepter ce signal et essayer d'utiliser l'information à leur avantage.
 
-- **Emergency**. If you are playing after your partner, and your only remaining trump is the Ace or Ten, you may inform your partner of this by saying "emergency" (in Estonian *"häda"*). This is a request to your partner to play her highest trump, on which you can save your Ace or Ten. 
+- **Urgence.** Si vous jouez après votre partenaire, et que votre seul atout restant est un As ou un Dix, vous pouvez en informer votre partenaire en disant « urgence » (en estonien « *häda* »). C'est une demande à votre partenaire de jouer son atout le plus élevé, sur lequel vous pourrez garder votre As ou votre Dix.
 
-## Scoring
+## Comptage
 
-When all nine tricks have been played, each team counts the card points they have taken in tricks. There are altogether 120 card points in the pack, and the team that has the majority of these points - more than 60 points - wins one or more strokes. The first team that wins 16 strokes wins the game.
+Lorsque les neuf plis ont été joués, chaque équipe compte les points de carte qu'elle a pris dans les plis. Il y a en tout 120 points de carte dans le jeu, et l'équipe qui a la majorité de ces points — plus de 60 points — gagne un ou plusieurs traits. La première équipe qui gagne 16 traits gagne la partie.
 
-The score sheet has a column for each team. The first two strokes for a team are drawn as vertical lines, and the next two as horizontal lines across them, so that at score of four strokes looks like this: **#**. Further strokes are recorded in the same way, so that a winning score of 16 strokes looks like this: **####**. Normally a series of games is played, so when one team reaches 16 points a horizontal line is drawn across the score sheet and a the next game is scored below this line.
+La feuille de score a une colonne pour chaque équipe. Les deux premiers traits d'une équipe sont dessinés comme des lignes verticales, et les deux suivants comme des lignes horizontales à travers eux, de sorte qu'un score de quatre traits ressemble à ceci : **#**. Les traits suivants sont enregistrés de la même manière, de sorte qu'un score gagnant de 16 traits ressemble à ceci : **####**. Normalement, une série de parties est jouée, donc lorsqu'une équipe atteint 16 points, une ligne horizontale est tracée sur la feuille de score et la partie suivante est comptée en dessous de cette ligne.
 
-If one of the players chose the trumps, the number of strokes marked by the winning team depends on the trump suit and the number of card points taken as follows:
+Si l'un des joueurs a choisi les atouts, le nombre de traits marqués par l'équipe gagnante dépend de la couleur d'atout et du nombre de points de carte pris, comme suit :
 
-| Card points taken by 
-trump maker's team | Card points taken by 
-trump maker's opponents | Trump suit: | Diamonds | Clubs, Spades 
-or Hearts |
-| all tricks | no tricks | Trump makers win | whole game |
-| 91-120 | 0-29 | 6 strokes | 4 strokes |
-| 61-90 | 30-59 | 4 strokes | 2 strokes |
-| 60 | 60 | Tie - cards redealt with same trumps - see below |
-| 30-59 | 61-90 | Trump makers'
-opponents win | 6 strokes | 4 strokes |
-| 0-29 | 91-120 | 8 strokes | 6 strokes |
-| no tricks | all tricks | whole game |
+| Points de carte pris par 
+l'équipe du choix d'atout | Points de carte pris par 
+les adversaires | Couleur d'atout : | Carreaux | Trèfles, piques 
+ou cœurs |
+| tous les plis | aucun pli | Le choix d'atout gagne | la partie entière |
+| 91-120 | 0-29 | 6 traits | 4 traits |
+| 61-90 | 30-59 | 4 traits | 2 traits |
+| 60 | 60 | Égalité — les cartes sont redistribuées avec les mêmes atouts — voir ci-dessous |
+| 30-59 | 61-90 | Les adversaires du 
+choix d'atout gagnent | 6 traits | 4 traits |
+| 0-29 | 91-120 | 8 traits | 6 traits |
+| aucun pli | tous les plis | la partie entière |
 
-If one team wins all 9 tricks they win the whole game (effectively they score 16 strokes), irrespective of the trump suit and who chose it. This situation is known as *lambapea* (sheep's head) and is considered a shameful result for the losing team. A 16-0 game in which one team scores no strokes is also considered shameful for the losers.
+Si une équipe gagne les 9 plis, elle gagne la partie entière (elle marque effectivement 16 traits), indépendamment de la couleur d'atout et de celui qui l'a choisie. Cette situation est connue sous le nom de *lambapea* (tête de mouton) et est considérée comme un résultat honteux pour l'équipe perdante. Une partie 16-0 dans laquelle une équipe ne marque aucun trait est également considérée comme honteuse pour les perdants.
 
-If the result is a tie, with each team taking 60 points, the cards are shuffled and redealt by the same dealer and the hand is replayed. In this replay there is no bidding and the trump suit is the same as in the tied hand. The replay is scored in the same way that the tied hand would have been scored, with the same team being considered as the trump makers.
+Si le résultat est une égalité, chaque équipe ayant pris 60 points, les cartes sont mélangées et redistribuées par le même donneur et la main est rejouée. Lors de cette rejouée, il n'y a pas d'enchères et la couleur d'atout est la même que dans la main à égalité. La rejouée est comptée de la même manière que la main à égalité l'aurait été, avec la même équipe considérée comme le choix d'atout.
 
-If all four players passed, so that the trump suit is diamonds by default, the winning team scores just 1 stroke, even if they take more than 90 card points. However if one team takes all the tricks in a passed hand the result is a *lambapea* as above, and the winners win the whole game. In case of a tie the hand is replayed as above with a score of just one point for the winners. 
+Si les quatre joueurs ont passé, de sorte que la couleur d'atout est les carreaux par défaut, l'équipe gagnante marque seulement 1 trait, même si elle prend plus de 90 points de carte. Cependant, si une équipe prend tous les plis lors d'une donne passée, le résultat est un *lambapea* comme ci-dessus, et les gagnants remportent la partie entière. En cas d'égalité, la main est rejouée comme ci-dessus avec un score d'un seul point pour les gagnants.
 
-## Variations
+## Variantes
 
-There are said to be many variants of this game, and I would like to hear from players who can provide further information about these.
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Saskop
+On dit qu'il existe de nombreuses variantes de ce jeu, et je souhaiterais recevoir des informations de joueurs pouvant fournir des renseignements supplémentaires à ce sujet.

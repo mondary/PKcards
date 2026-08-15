@@ -3,107 +3,106 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A Latvian card game for 3 players using a deck of 26 cards in which all Queens, Jacks and diamonds are trumps. It is related to the German game Schafkopf
+**But :** Un jeu de cartes letton pour 3 joueurs utilisant un jeu de 26 cartes dans lequel toutes les Dames, les Valets et les carreaux sont atouts. Il est apparenté au jeu allemand Schafkopf.
 
 ---
 
-*This page is mainly based on a contribution from Anthony Smith.*
+*Cette page est principalement basée sur une contribution d'Anthony Smith.*
 
 ## Introduction
 
-Zole, also known by the diminutive Zolite, is a Latvian point-trick game for three players, related to the German game Schafkopf. The Queens, Jacks and diamonds are permanent trumps. In each deal a player can volunteer to play alone against the other two, and try to take more than half of the card points in tricks. 
+Zole, aussi connu sous le diminutif Zolite, est un jeu de plis à points letton pour trois joueurs, apparenté au jeu allemand Schafkopf. Les Dames, les Valets et les carreaux sont des atouts permanents. Dans chaque donne, un joueur peut se proposer de jouer seul contre les deux autres, et tenter de remporter plus de la moitié des points de carte dans les plis.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are three active players. Normally, one player, the bidder, will play alone against the other two in partnership. It is possible for four people to take part in a game, in which case the dealer deals to the other three players and takes no further part in the play, but counts as an opponent of the bidder for the purpose of scoring. 
+Il y a trois joueurs actifs. Normalement, un joueur, l'enchérisseur, jouera seul contre les deux autres en partenariat. Il est possible que quatre personnes participent à une partie, auquel cas le donneur distribue aux trois autres joueurs et ne participe plus au jeu, mais compte comme un adversaire de l'enchérisseur pour le comptage.
 
-The twos, threes, fours, fives and sixes are removed from an ordinary 52-card French-suited pack. In all suits but diamonds the sevens and eights are also removed, leaving 26 cards, fourteen of which will become trumps. 
+Les deux, trois, quatre, cinq et six sont retirés d'un jeu ordinaire de 52 cartes à enseigne française. Dans toutes les couleurs sauf les carreaux, les sept et les huit sont également retirés, laissant 26 cartes, dont quatorze deviendront atouts.
 
-All Queens, Jacks and diamonds are trumps, ranking from highest to lowest as follows: 
+Toutes les Dames, tous les Valets et tous les carreaux sont atouts, classés du plus haut au plus bas comme suit :
 
-**![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)K![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)7.**
+**![club](../images/internat/club.gif)D-![spade](../images/internat/spade.gif)D-![heart](../images/internat/heart.gif)D-![diamond](../images/internat/diamond.gif)D-![club](../images/internat/club.gif)V-![spade](../images/internat/spade.gif)V-![heart](../images/internat/heart.gif)V-![diamond](../images/internat/diamond.gif)V-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)7.**
 
-In each of the three non-trump suits, clubs, spades and hearts, there are just four cards ranking from highest to lowest:
+Dans chacune des trois couleurs non-atout, trèfles, piques et cœurs, il n'y a que quatre cartes classées du plus haut au plus bas :
 
-**A-10-K-9.**
+**A-10-R-9.**
 
-Note that for the purpose of following suit and winning tricks, all Queens and Jacks count as belonging to the trump suit (diamonds) and not to the suits printed on them.
+Notez que pour suivre la couleur et gagner les plis, toutes les Dames et tous les Valets comptent comme appartenant à la couleur d'atout (carreaux) et non aux couleurs imprimées dessus.
 
-The cards have point values: Ace=11, Ten=10, King=4, Queen=3, Jack=2, other cards (9, 8, 7)=0. The total number of points in the pack is 120. 
+Les cartes ont des valeurs en points : As=11, Dix=10, Roi=4, Dame=3, Valet=2, autres cartes (9, 8, 7)=0. Le nombre total de points dans le jeu est de 120.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## Donnée
 
-The dealer shuffles the cards, gives them to the player on the right to cut, and then deals a packet of four cards to each of the three active players, starting with the player to the dealer's left and continuing clockwise, then a talon of two cards face down to the table, and finally a second packet of four cards to each active player. The players now have 8 cards each.
+Le donneur mélange les cartes, les tend au joueur à sa droite pour la coupe, puis distribue un paquet de quatre cartes à chacun des trois joueurs actifs, en commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, puis un talon de deux cartes face cachée sur la table, et enfin un second paquet de quatre cartes à chaque joueur actif. Les joueurs ont maintenant 8 cartes chacun.
 
-The turn to deal passes to the left after each hand.
+Le tour de donner passe à la gauche après chaque main.
 
-## Bidding
+## Enchères
 
-Starting with the player to dealer’s left, each player in turn has a single opportunity to pass or to offer to play either an **ordinary game**, making use of the two-card talon, or a **Solo** (“*Zole*” in Latvian) playing with the cards as dealt without using the talon. In either case the bidder undertakes to win more than half the card point, at least 61, playing against the other two players in partnership.
+En commençant par le joueur à la gauche du donneur, chaque joueur à tour de rôle a une seule opportunité de passer ou de proposer de jouer soit un **jeu ordinaire**, en utilisant le talon de deux cartes, soit un **Solo** (« *Zole* » en letton), en jouant avec les cartes telles que distribuées sans utiliser le talon. Dans les deux cas, l'enchérisseur s'engage à remporter plus de la moitié des points de carte, soit au moins 61, en jouant contre les deux autres joueurs en partenariat.
 
-If playing an ordinary game, the bidder picks up the talon, without showing the cards to his opponents and discards any two cards from the resulting 10-card holding face down. The point value of these two discarded cards counts for the bidder.
+Lors d'un jeu ordinaire, l'enchérisseur ramasse le talon, sans montrer les cartes à ses adversaires, et défausse deux cartes quelconques de sa main de 10 cartes résultante face cachée. La valeur en points de ces deux cartes défaussées compte pour l'enchérisseur.
 
-If playing a Solo, the bidder plays with their original 8-card hand. The two talon cards remain unseen until the end of the play and their value counts for the bidder's opponents.
+Lors d'un Solo, l'enchérisseur joue avec sa main initiale de 8 cartes. Les deux cartes du talon restent invisibles jusqu'à la fin du jeu et leur valeur compte pour les adversaires de l'enchérisseur.
 
-If all three players pass, a game of *galdiņu* (table) is played, in which there are no partners and the aim is to take the fewest tricks (not necessarily the fewest points). An alternative, if agreed in advance, is to play the game with pools (see below) in which case when all pass the cards are thrown in and the next player deals. 
+Si les trois joueurs passent, un jeu de *galdiņu* (table) est joué, dans lequel il n'y a pas de partenaires et le but est de remporter le moins de plis (pas nécessairement le moins de points). Une alternative, si convenue à l'avance, est de jouer avec des pools (voir ci-dessous), auquel cas quand tous passent, les cartes sont jetées et le joueur suivant distribue.
 
-## Play
+## Jeu
 
-The player to dealer’s left leads to the first trick. Thereafter the lead to each trick is made by the winner of the previous trick.
+Le joueur à la gauche du donneur entame le premier pli. Ensuite, l'entame de chaque pli est faite par le gagnant du pli précédent.
 
-A player on lead may lead any card. The next players must follow suit if they are able; if they have no card of the suit that was led they may play any card, a trump or a card of another suit as they see fit. There is no obligation to head the trick.
+Un joueur qui entame peut jouer n'importe quelle carte. Les joueurs suivants doivent suivre la couleur s'ils le peuvent ; s'ils n'ont pas de carte de la couleur entamée, ils peuvent jouer n'importe quelle carte, un atout ou une carte d'une autre couleur à leur guise. Il n'y a aucune obligation de monter au pli.
 
-The trick is won by the highest ranking card of the led suit if no trumps have been played in the trick. If trumps have been played then the highest ranking trump in the trick wins.
+Le pli est remporté par la carte de rang le plus élevé de la couleur entamée si aucun atout n'a été joué dans le pli. Si des atouts ont été joués, l'atout de rang le plus élevé dans le pli gagne.
 
-### Surrender
+### Reddition
 
-Declarer has the right to surrender any time before the lead to the third trick. In this case the hand is scored as though the declarer took 31-60 card points. A defender may offer to surrender at any time this is binding on the other defender, but the declarer can choose whether to accept the surrender (scored as though the declarer took 61-90 card points) or can insist the game be played out in the hope of taking 91 or more points.
+Le déclarant a le droit de se rendre à tout moment avant l'entame du troisième pli. Dans ce cas, la main est comptée comme si le déclarant avait pris 31-60 points de carte. Un défenseur peut offrir de se rendre à tout moment ; cela engage l'autre défenseur, mais le déclarant peut choisir d'accepter la reddition (comptée comme si le déclarant avait pris 61-90 points de carte) ou d'exiger que le jeu soit joué jusqu'au bout dans l'espoir de prendre 91 points ou plus.
 
-## Scoring
+## Comptage
 
-At the end of the play each team counts the card points in its tricks, adding the two cards of the dealer's discard to the declarer's tricks in an ordinary game or the talon to the opponents' tricks in a solo. The declarer then pays or receives a number of stakes to or from each opponent according to the number of card points or tricks taken as follows:
+À la fin du jeu, chaque équipe compte les points de carte dans ses plis, en ajoutant les deux cartes défaussées par le donneur aux plis du déclarant dans un jeu ordinaire, ou le talon aux plis des adversaires dans un solo. Le déclarant paie ou reçoit un certain nombre de mises à/de chaque adversaire selon le nombre de points de carte ou de plis pris, comme suit :
 
-| declarer | opponents | ordinary game | solo |
-| all tricks | no tricks | receive 3 from each | receive 6 from each |
-| 91 or more | 29 or fewer | receive 2 from each | receive 5 from each |
-| 61-90 | 30-59 | receive 1 from each | receive 4 from each |
-| 31-60 | 60-89 | pay 2 to each | pay 5 to each |
-| 30 or fewer | 90 or more | pay 3 to each | pay 6 to each |
-| no tricks | all tricks | pay 4 to each | pay 7 to each |
+| déclarant | adversaires | jeu ordinaire | solo |
+| tous les plis | aucun pli | recevoir 3 de chacun | recevoir 6 de chacun |
+| 91 ou plus | 29 ou moins | recevoir 2 de chacun | recevoir 5 de chacun |
+| 61-90 | 30-59 | recevoir 1 de chacun | recevoir 4 de chacun |
+| 31-60 | 60-89 | payer 2 à chacun | payer 5 à chacun |
+| 30 ou moins | 90 ou plus | payer 3 à chacun | payer 6 à chacun |
+| aucun pli | tous les plis | payer 4 à chacun | payer 7 à chacun |
 
-If all three players passed, then the player taking most tricks pays two stakes to each other player. If two players tie for most tricks, whichever of them has more card points pays the other two.* [In the rare case where the card points are tied as well, I suggest that the two players with most tricks each pay 2 stakes to the third player.]*
+Si les trois joueurs ont passé, le joueur qui remporte le plus de plis paie deux mises à chaque autre joueur. Si deux joueurs sont à égalité pour le plus grand nombre de plis, celui des deux qui a le plus de points de carte paie les deux autres.* [Dans le cas rare où les points de carte sont aussi à égalité, je suggère que les deux joueurs avec le plus de plis paient chacun 2 mises au troisième joueur.]*
 
 ## Pools
 
-In this version of the game there is a supply of tokens representing pools. During the game, there may be collective pools represented by tokens in the centre of the table and personal pools represented by tokens in from of the owner of the pool. Each pool is worth three stakes. A personal pool represents a debt and the owner will pay three stakes to the eventual winner of that pool. A collective pool is jointly owned, so when it is won the opponents of the winner each have to pay 1 stake for the third of the pool for which they were responsible.
+Dans cette version du jeu, il y a un stock de jetons représentant des pools. Pendant le jeu, il peut y avoir des pools collectifs représentés par des jetons au centre de la table et des pools personnels représentés par des jetons devant le propriétaire du pool. Chaque pool vaut trois mises. Un pool personnel représente une dette et le propriétaire paiera trois mises au gagnant final de ce pool. Un pool collectif est conjointement détenu, donc lorsqu'il est gagné, les adversaires du gagnant doivent chacun payer 1 mise pour le tiers du pool dont ils étaient responsables.
 
-At the start of the game and until there is a deal in which everyone passes there are no pools.
+Au début du jeu et jusqu'à ce qu'il y ait une donne où tout le monde passe, il n'y a pas de pools.
 
-If all three players pass, there is no play. One token representing a collective pool is placed in the centre of the table, the cards are thrown in and the next player deals.
+Si les trois joueurs passent, il n'y a pas de jeu. Un jeton représentant un pool collectif est placé au centre de la table, les cartes sont jetées et le joueur suivant distribue.
 
-If there is at least one pool anywhere on the table and the declarer loses a game, then in addition to the usual payments, one token representing a personal pool is placed in front of the unsuccessful declarer.
+S'il y a au moins un pool n'importe où sur la table et que le déclarant perd un jeu, alors en plus des paiements habituels, un jeton représentant un pool personnel est placé devant le déclarant qui a échoué.
 
-If a declarer wins while there is a pool on the table, then one pool token is removed. In order of priority:
+Si un déclarant gagne alors qu'il y a un pool sur la table, un jeton de pool est retiré. Par ordre de priorité :
 
-- If the winning declarer has a personal pool, one personal pool token is removed and there is no extra payment (by winning a game the declarer is absolved of that debt).
+- Si le déclarant gagnant a un pool personnel, un jeton de pool personnel est retiré et il n'y a pas de paiement supplémentaire (en gagnant une manche, le déclarant est libéré de cette dette).
 
-- If the winning declarer has no personal pool, but there is a collective pool, one collective pool token is removed and each opponent pays one extra stake to the declarer.
+- Si le déclarant gagnant n'a pas de pool personnel, mais qu'il y a un pool collectif, un jeton de pool collectif est retiré et chaque adversaire paie une mise supplémentaire au déclarant.
 
-- If the winning declarer has no personal pool and there are no collective pool, then one personal pool token belonging to one of declarer's opponents is removed and that opponent pays three extra stakes to the declarer. 
+- Si le déclarant gagnant n'a pas de pool personnel et qu'il n'y a pas de pool collectif, un jeton de pool personnel appartenant à l'un des adversaires du déclarant est retiré et cet adversaire paie trois mises supplémentaires au déclarant.
 
-## Variations
+## Variantes
 
-Four players
-If there are four players the dealer receives no cards and takes no part in the play. Some play that the dealer pays or receives the same amount as each of the declarer's opponents: others play that the dealer takes no part in the scoring.
-Small Solo
-Some allow a bid of 'small solo' (*mazā zole*). This outranks an ordinary Solo, and the declarer undertakes to lose every trick. The talon cards are not used and remain unseen. The player to dealer's left leads to the first trick as usual. If successful the declarer receives 6 stakes from each opponent; if not the declarer pays 7 stakes each.
+Quatre joueurs
+S'il y a quatre joueurs, le donneur ne reçoit pas de cartes et ne participe pas au jeu. Certains jouent que le donneur paie ou reçoit le même montant que chacun des adversaires du déclarant ; d'autres jouent que le donneur ne participe pas au comptage.
 
-## References
+Petit Solo
+Certains autorisent une enchère de « petit solo » (*mazā zole*). Celle-ci surclasse un Solo ordinaire, et le déclarant s'engage à perdre tous les plis. Les cartes du talon ne sont pas utilisées et restent invisibles. Le joueur à la gauche du donneur entame le premier pli comme d'habitude. En cas de succès, le déclarant reçoit 6 mises de chaque adversaire ; sinon, le déclarant paie 7 mises à chacun.
 
-The Latvian [Zole Wikipedia page](https://lv.wikipedia.org/wiki/Zole_(k%C4%81r%C5%A1u_sp%C4%93le)) is mainly based on the description in the book *Kāršu spēles* by Emanuel Lasker (Rīga, 1931).
+## Références
 
-Another description and some information about tournaments is available at [Zolmaniem.lv](http://zolmaniem.lv/cms/page/view/21).
+La [page Wikipedia lettone sur Zole](https://lv.wikipedia.org/wiki/Zole_(k%C4%81r%C5%A1u_sp%C4%93le)) est principalement basée sur la description dans le livre *Kāršu spēles* par Emanuel Lasker (Rīga, 1931).
 
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Zole
+Une autre description et des informations sur les tournois sont disponibles sur [Zolmaniem.lv](http://zolmaniem.lv/cms/page/view/21).

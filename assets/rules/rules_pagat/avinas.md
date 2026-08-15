@@ -2,141 +2,134 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A Lithuanian card game for four players in which the Queens, Jacks and Seven are the highest trumps.
+**But :** Jeu de cartes lituanien pour quatre joueurs dans lequel les Dames, les Valets et le Sept sont les plus hauts atouts.
 
 ---
 
-*This game was taught to John McLeod by Albinas Borisevicius of Vilnius, Lithuania. John McLeod taught Anthony Smith, who has written the following description.*
+*Ce jeu a été enseigné à John McLeod par Albinas Borisevicius de Vilnius, Lituanie. John McLeod l'a ensuite enseigné à Anthony Smith, qui a rédigé la description ci-dessous.*
 
 ## Introduction
 
-The Lithuanian game **Avinas** ("Rams" in English) is especially popular around the town of Jurbarkas
-(on the river Niemen, between Kaunas and the western border).
-On holidays players left off playing only to go to Mass.
+Le jeu lituanien **Avinas** (« Béliers » en anglais) est particulièrement populaire autour de la ville de Jurbarkas (sur le fleuve Niemen, entre Kaunas et la frontière occidentale). Les jours de fête, les joueurs ne cessaient de jouer que pour aller à la messe.
 
-It is clearly a relative of Schafkopf, Sjavs and similar games, not only because of the values of the cards, the promotion of the queens and jacks to be the highest trumps and the ranking of the suits, but also because of the sheep associations of its name.
+C'est manifestement un parent du Schafkopf, du Sjavs et de jeux similaires, non seulement par la valeur des cartes, la promotion des dames et des valets au rang d'atouts les plus élevés et la hiérarchie des couleurs, mais aussi par les associations ovines de son nom.
 
-## Players and Cards
+## Joueurs et cartes
 
-Avinas is a
-trick-taking game for two pairs of players. Each player sits opposite
-his partner. Deal and play are clockwise.
+Avinas est un jeu de plis pour deux paires de joueurs. Chaque joueur est assis face à son partenaire. La donne et le jeu se font dans le sens horaire.
 
-A 32 card pack is used, ranking
+On utilise un jeu de 32 cartes, classées
 
-in trumps: QC, 7, QS, QH, QD, JC, JS, JH, JD, A, 10, K, 9, 8
+en atout : D♣, 7, D♠, D♥, D♦, V♣, V♠, V♥, V♦, A, 10, R, 9, 8
 
-in other suits: A, 10, K, 9, 8, 7.
+dans les autres couleurs : A, 10, R, 9, 8, 7.
 
-The cards are valued at A=11, 10=10, K=4, Q=3, J=2 in all suits, giving a total of 120 points in the pack.
+Les cartes valent A=11, 10=10, R=4, D=3, V=2 dans toutes les couleurs, soit un total de 120 points dans le jeu.
 
-Ace, King, Queen, Jack are Tuzas, Karalius, Dama, Valetas in Lithuanian and Clubs, Spades, Hearts, Diamonds are Kryziai, Vynai, Cirvai, Bugnai.
+As, Roi, Dame, Valet se disent Tuzas, Karalius, Dama, Valetas en lituanien, et Trèfle, Pique, Cœur, Carreau se disent Kryziai, Vynai, Cirvai, Bugnai.
 
-QC is called "s'pic" and QS is called "green". In some parts of Lithuania some players call Queens "uppers" and call Jacks "lowers" [which suggests that Avinas was once played with German suited cards].
+D♣ est appelé « s'pic » et D♠ est appelé « vert ». Dans certaines régions de Lituanie, certains joueurs appellent les dames « les supérieurs » et les valets « les inférieurs » [ce qui suggère qu'Avinas était autrefois joué avec des cartes au dessin allemand].
 
-## The Deal
+## La donne
 
-A match consists of several hands. 
+Une partie se compose de plusieurs mains.
 
-At the start of each hand the dealer deals in fours, clockwise. He exposes the fourth and eighth card of each opponent. He also examines the fourth and eighth of his own and his partner's cards, but only exposes any that are sevens. The game takes different forms according to whether or not any sevens have been exposed.
+Au début de chaque main, le donneur distribue par quatre, dans le sens horaire. Il expose la quatrième et la huitième carte de chaque adversaire. Il examine également la quatrième et la huitième de ses propres cartes et de celles de son partenaire, mais n'expose que les septs éventuels. Le jeu prend différentes formes selon qu'un sept a été exposé ou non.
 
-The turn to deal passes to the left after each hand.
+Le tour de donne passe à gauche après chaque main.
 
-## The Tricks
+## Les plis
 
-How Declarer is determined depends on whether or not any seven was exposed during the deal, but Declarer always leads to the first trick.
+La façon dont le Déclarant est déterminé dépend de l'exposition ou non d'un sept lors de la donne, mais le Déclarant mène toujours le premier pli.
 
-The lead to the first trick must be a trump. The winner of the first trick must lead a trump to the second trick if he holds one. If he has none he leads a card face down or face up as he chooses. If it is face down he indicates to his partner by a facial expression whether it is a valuable card or not. The other players
-follow as if a trump had been led, and the highest trump played wins the trick. If the card led was face-down then when all four have played it is exposed.
+La première carte jouée doit être un atout. Le vainqueur du premier pli doit jouer un atout au deuxième pli s'il en a un. S'il n'en a pas, il joue une carte face cachée ou face visible à sa guise. Si elle est face cachée, il indique à son partenaire par une expression faciale s'il s'agit d'une carte de valeur ou non. Les autres joueurs suivent comme si un atout avait été mené, et le plus haut atout joué remporte le pli. Si la carte menée était face cachée, une fois que les quatre ont joué, elle est retournée.
 
-Tricks are played as in Whist, that is, suit must be followed if possible and a player void in the suit led may trump or discard as he chooses. The winner of one trick leads to the next.
+Les plis se jouent comme au Whist, c'est-à-dire qu'on doit suivre la couleur si possible, et un joueur défaillant dans la couleur demandée peut couper ou se défausser à sa guise. Le vainqueur d'un pli mène le suivant.
 
-## One or More Sevens is Turned
+## Un ou plusieurs sevens sont exposés
 
-### Determing the Trump Suit and the Declarer
+### Détermination de la couleur d'atout et du Déclarant
 
-It can be expected that in over 70% of the deals at least one seven will be turned. If just one of the exposed cards is a seven then its suit is trumps; if more than one is a seven then the suit of the seven which was dealt last is the trump suit. The player who was dealt the seven of trumps is Declarer and will lead to the first trick.
+On peut s'attendre à ce que dans plus de 70 % des donnes, au moins un sept soit exposé. Si une seule des cartes exposées est un sept, sa couleur est l'atout ; si plusieurs sont des septs, la couleur du sept distribué en dernier est l'atout. Le joueur qui a reçu le sept d'atout est le Déclarant et mènera le premier pli.
 
-### The Game
+### Le jeu
 
-Normally all eight tricks are played out and Declarer and his partner have won if they took at least 61 points but lost if they took 60 or fewer.
+Normalement, les huit plis sont tous joués, et le Déclarant et son partenaire ont gagné s'ils ont pris au moins 61 points, mais ont perdu s'ils en ont pris 60 ou moins.
 
-However, before the lead to the first trick, Declarer or his partner may undertake to win all the tricks, by knocking on the table. This doubles the value of the game. Either defender may then knock on the table, which doubles the value of the game again. In these cases Declarer and his partner have lost as soon as the defenders take a trick.
+Cependant, avant la première levée, le Déclarant ou son partenaire peut s'engager à gagner tous les plis en frappant sur la table. Cela double la valeur de la partie. N'importe quel défenseur peut alors frapper à son tour, ce qui double à nouveau la valeur. Dans ces cas, le Déclarant et son partenaire ont perdu dès que les défenseurs remportent un pli.
 
-### Scoring the Game
+### Comptage de la partie
 
-The result of the game will be marked on the score sheet as circles called "Rams".
+Le résultat de la partie est marqué sur la feuille de score par des cercles appelés « Béliers ».
 
-If Declarer and his partner win the basic game then the defenders are penalised with 1, 2, 3 or 4 Rams according as 1, 2, 3 or 4 sevens were exposed during the deal. If they lose then they are penalised with 2, 4, 6 or 8 Rams.
+Si le Déclarant et son partenaire gagnent la partie de base, les défenseurs sont pénalisés de 1, 2, 3 ou 4 Béliers selon que 1, 2, 3 ou 4 septs ont été exposés lors de la donne. S'ils perdent, ils sont pénalisés de 2, 4, 6 ou 8 Béliers.
 
-If Declarer or his partner knocked and succeeded in taking all eight tricks then their opponents are penalised with 2, 4, 6 or 8 Rams, but if they failed to take all the tricks they are penalised with 4, 8, 12 or 16 Rams according as 1, 2, 3 or 4 sevens were exposed during the deal.
+Si le Déclarant ou son partenaire a frappé et réussi à prendre les huit plis, leurs adversaires sont pénalisés de 2, 4, 6 ou 8 Béliers, mais s'ils échouent, ils sont pénalisés de 4, 8, 12 ou 16 Béliers selon que 1, 2, 3 ou 4 septs ont été exposés.
 
-If Declarer or his partner knocked and an opponent also knocked then the defenders are penalised with 4, 8, 12 or 16 Rams if Declarer and his partner take all the tricks but Declarer and his partner are penalised with 8, 16, 24 or 32 Rams if they fail to take all the tricks.
+Si le Déclarant ou son partenaire a frappé et qu'un adversaire a aussi frappé, les défenseurs sont pénalisés de 4, 8, 12 ou 16 Béliers si le Déclarant et son partenaire prennent tous les plis, mais le Déclarant et son partenaire sont pénalisés de 8, 16, 24 ou 32 Béliers s'ils n'y parviennent pas.
 
-A penalty Ram is marked on the score sheet by cancelling a Ram of the opponents if possible, or by drawing a circle if the opponents have no uncancelled Rams. Thus at most one side has any Rams at any time.
+Un Bélier de pénalité est marqué sur la feuille de score en annulant un Bélier des adversaires si possible, ou en dessinant un cercle si les adversaires n'ont pas de Béliers non annulés. Ainsi, au plus un seul camp possède des Béliers à tout moment.
 
-## No Seven is Exposed
+## Aucun sept n'est exposé
 
-### Determining the trump Suit and the Declarer
+### Détermination de la couleur d'atout et du Déclarant
 
-In can be expected that in over 29% of deals no seven will be turned. In such a case the player at the dealer's left either passes or names the length (but not the suit) of a trump suit he can make. The other players in turn then either pass or state a longer length. If all pass then there is a new deal, by the next dealer. Otherwise the player stating the longest length becomes Declarer and leads to the first trick. If is found that Declarer held a shorter trump suit than he claimed then he and his partner are deemed to have lost the match.
+On peut s'attendre à ce que dans plus de 29 % des donnes aucun sept ne soit exposé. Dans ce cas, le joueur à la gauche du donneur passe ou annonce la longueur (mais pas la couleur) d'une couleur d'atout qu'il peut proposer. Les autres joueurs à leur tour passent ou annoncent une longueur supérieure. Si tous passent, il y a une nouvelle donne par le donneur suivant. Sinon, le joueur annonçant la plus grande longueur devient le Déclarant et mène le premier pli. Si l'on découvre que le Déclarant tenait une couleur d'atout plus courte qu'annoncé, lui et son partenaire sont considérés comme ayant perdu la partie.
 
-Notice that it is lawful to state a length of possible trump suit while holding another longer suit.
+Notez qu'il est permis d'annoncer une longueur de couleur d'atout possible tout en détenant une autre couleur plus longue.
 
-### The Game
+### Le jeu
 
-Declarer does not name trumps but simply leads one. If the lead to the first trick is a Queen or a Jack, so that it is not clear what the trump suit is, the player on Declarer's left must ask what the trump suit is.
+Le Déclarant ne nomme pas l'atout mais se contente d'en jouer un. Si la première carte est une Dame ou un Valet, de sorte que la couleur d'atout n'est pas claire, le joueur à la gauche du Déclarant doit demander quelle est la couleur d'atout.
 
-When no seven was turned it is not necessary to play all the tricks. Declarer or his partner can stop the game at any stage. If they have at least 61 points then they have won, and the defenders are penalised with Pips as idescribed below. If they have fewer than 61 then they have lost, even if they have more points than their opponents, and the declarer's team are penalised with Pips as described below.
+Quand aucun sept n'a été exposé, il n'est pas nécessaire de jouer tous les plis. Le Déclarant ou son partenaire peut arrêter le jeu à tout moment. S'ils ont au moins 61 points, ils ont gagné et les défenseurs sont pénalisés de Points-Piquets comme décrit ci-dessous. S'ils ont moins de 61, ils ont perdu, même s'ils ont plus de points que leurs adversaires, et l'équipe du Déclarant est pénalisée de Points-Piquets comme décrit ci-dessous.
 
-### Scoring the No Seven Game
+### Comptage de la partie sans sept
 
-The result of the game will be marked on the score sheet with Pips called "writing" (see diagram). 
+Le résultat est marqué sur la feuille de score avec des Points-Piquets appelés « écriture » (voir diagramme).
 
-- 
-If Declarer and his partner make at least 61 points and the defenders have 31 or more then 1 Pip is marked against the defenders. 
+-
+Si le Déclarant et son partenaire obtiennent au moins 61 points et que les défenseurs ont 31 ou plus, 1 Point-Piquet est marqué contre les défenseurs.
 
-- 
-If Declarer and his partner make at least 61 and the defenders have at least 2 but fewer than 31 then 2 Pips are marked against the defenders.
+-
+Si le Déclarant et son partenaire obtiennent au moins 61 et que les défenseurs ont au moins 2 mais moins de 31, 2 Points-Piquets sont marqués contre les défenseurs.
 
-- 
-If Declarer and his partner make least 61 and the defenders have taken no points then 3 Pips are marked against the defenders.
+-
+Si le Déclarant et son partenaire obtiennent au moins 61 et que les défenseurs n'ont pris aucun point, 3 Points-Piquets sont marqués contre les défenseurs.
 
-- 
-If Declarer and his partner have fewer than 61 but at least 31 points then 2 Pips are marked against Declarer and his partner.
+-
+Si le Déclarant et son partenaire ont moins de 61 mais au moins 31 points, 2 Points-Piquets sont marqués contre le Déclarant et son partenaire.
 
-- 
-If Declarer and his partner have at least 2 but fewer than 31 points then 4 Pips are marked against Declarer and his partner.
+-
+Si le Déclarant et son partenaire ont au moins 2 mais moins de 31 points, 4 Points-Piquets sont marqués contre le Déclarant et son partenaire.
 
-- 
-If Declarer and his partner have taken no points then 6 Pips are marked against Declarer and his partner.
+-
+Si le Déclarant et son partenaire n'ont pris aucun point, 6 Points-Piquets sont marqués contre le Déclarant et son partenaire.
 
-Keeping the opponents' score below 31 is called "taking the field", but there is no special name for preventing the opponents from taking any points.
+Maintenir le score des adversaires en dessous de 31 est appelé « prendre le terrain », mais il n'y a pas de nom particulier pour empêcher les adversaires de prendre des points.
 
-Penalty Pips are not cancelled like Rams are.
+Les Points-Piquets de pénalité ne s'annulent pas comme les Béliers.
 
-## Ending the Match
+## Fin de la partie
 
-After each game the player on the left of the old dealer deals for a new game, until one side scores at least 12 penalty Pips. Play then ends. If the other side then have no Pips then the players who had the 12 Pips have been made "Cats" and are disgraced until the next game. Traditionally there is no more play that day, and new cards are used for the next game.
+Après chaque main, le joueur à la gauche de l'ancien donneur distribue pour une nouvelle main, jusqu'à ce qu'un camp atteigne au moins 12 Points-Piquets de pénalité. Le jeu s'arrête alors. Si l'autre camp n'a alors aucun Point-Piquet, les joueurs qui avaient les 12 points ont été faits « Chats » et sont disgraciés jusqu'à la prochaine partie. Traditionnellement, on ne joue plus de la journée, et on utilise de nouvelles cartes pour la partie suivante.
 
-If both sides have penalty Pips then the Pips are ignored and the side which has more penalty Rams has lost. In the diagram, the match has just ended because E & W have 12 pips. E & W win because N & S have eight Rams.
+Si les deux camps ont des Points-Piquets de pénalité, ceux-ci sont ignorés et le camp qui a le plus de Béliers de pénalité a perdu. Sur le diagramme, la partie vient de se terminer parce qu'E & O ont 12 points. E & O gagnent car N & S ont huit Béliers.
 
-If neither side has any Ram at this stage then the side with fewer penalty Pips wins.
+Si aucun camp n'a de Bélier à ce stade, le camp avec le moins de Points-Piquets de pénalité gagne.
 
-The stakes can be an agreed flat rate for the match or can be an agreed figure per Ram on the final score sheet.
+Les mises peuvent être un tarif fixe convenu pour la partie ou un montant convenu par Bélier sur la feuille de score finale.
 
 ## Sources
 
-- Demonstration games played with Albinas Borisevicius at IPCS Munich, November 1991
+- Parties de démonstration jouées avec Albinas Borisevicius lors du congrès de l'IPCS à Munich, en novembre 1991
 
-- Rule-sheet sent by Albinas Borisevicius to John McLeod 
+- Feuille de règles envoyée par Albinas Borisevicius à John McLeod
 
-- Answers of 14 May 1992 by Albinas Borisevicius to queries of 21 March 1992 by John McLeod
+- Réponses du 14 mai 1992 d'Albinas Borisevicius aux questions du 21 mars 1992 de John McLeod
 
-## Remarks
+## Remarques
 
-- Mr Borisevicius considers "Ram" the best English for the name of the game and "Hammel" the best German. Unfortunately "Hammel" means "wether", not "ram".
+- M. Borisevicius considère « Ram » comme la meilleure traduction anglaise du nom du jeu et « Hammel » comme la meilleure allemande. Malheureusement, « Hammel » signifie « mouton mâle châtré » et non « bélier ».
 
-- It can be good tactics for both sides to wish to lose a "no seven" game! Suppose one side has no Rams and 11 pips while the other side has both one or more Rams and one or more pips. Then the players on 11 wish to lose so as to bring this to at least 12 and so end the match while their opponents have Rams; their opponents can avoid this only by themselves losing. (Mr Borisevicius confirms this.) Since Declarer's side in a "no seven" game can choose when to bring the game to a close, they can certainly arrange to lose; thus there will be no underbidding for the right to be Declarer! 
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Avinas
+- Il peut être bon tactiquement pour les deux camps de vouloir perdre une partie « sans sept » ! Supposons qu'un camp n'a aucun Bélier et 11 points tandis que l'autre a un ou plusieurs Béliers et un ou plusieurs points. Les joueurs à 11 points souhaitent alors perdre pour atteindre au moins 12 et ainsi terminer la partie pendant que leurs adversaires ont des Béliers ; leurs adversaires ne peuvent l'éviter qu'en perdant eux-mêmes. (M. Borisevicius le confirme.) Comme le camp du Déclarant dans une partie « sans sept » peut choisir quand arrêter le jeu, il peut certainement s'arranger pour perdre ; il n'y aura donc pas de sous-enchères pour le droit d'être Déclarant !

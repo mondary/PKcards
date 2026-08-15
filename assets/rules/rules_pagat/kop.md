@@ -1,163 +1,169 @@
-# Kop and Baśka
+# Kop et Baśka
 
 **Nombre de joueurs :** 4
 **Nombre de cartes :** 16
 **Difficulté :** ⭐⭐⭐
 **Type :** Schafkopf/Truco, Plis
-**But :** Rules for the Polish card game Kop, a relative of the German game Schafkopf played by 4 players using only 16 cards.
+**But :** Règles du jeu de cartes polonais Kop, un parent du jeu allemand Schafkopf joué par 4 joueurs avec seulement 16 cartes.
 
 ---
 
 ## Introduction
 
-Kop is a minimalist game of the Schafkopf group that is popular in Wielkopolska (the region around the City of Poznań). From 1815 to 1920 this was the Prussian province Posen, with 1/3 German and 2/3 Polish population, which explains the strong German influence on the game. The word "kop" means "kick" in Polish, but the name is most likely a polonisation of the German word "Kopf". Kop is a very fast game: a single deal can take less than twenty seconds. It is mostly played for money, but there are also tournaments held in some towns and villages around the region. People can often be found playing it in trains (sometimes without a table, standing, holding the tricks in their hands). Cab drivers have been seen playing it on a roof of a cab. 
+Kop est un jeu minimaliste du groupe Schafkopf populaire en Grande-Pologne (la région autour de Poznań). De 1815 à 1920, c'était la province prussienne de Posen, avec une population au tiers allemande et aux deux tiers polonaise, ce qui explique la forte influence allemande sur le jeu. Le mot « kop » signifie « coup de pied » en polonais, mais le nom est très probablement une polonisation du mot allemand « Kopf ». Kop est un jeu très rapide : une seule donne peut prendre moins de vingt secondes. Il se joue principalement pour de l'argent, mais des tournois sont également organisés dans certaines villes et villages de la région. On trouve souvent des gens qui y jouent dans les trains (parfois sans table, debout, en tenant les plis dans leurs mains). On a vu des chauffeurs de taxi y jouer sur le toit de leur cabine.
 
-A similar game called "Baśka" is played in the region of Cashubia (part of Pomerania, around Gdansk). Together with Skat, which is played in Silesia, these are examples of Schafkopf-derived games introduced to western Poland under German influence, as can be seen from some of the technical terms used. The card points are *oko* (eyes), equivalent to German *Augen*, and the black Queens are *stare* (old ones), equivalent to *die Alten* in German, *zolo du* equivalent to *Solo Tout* and so on.
+Un jeu similaire appelé « Baśka » est joué dans la région de Cachoubie (partie de la Poméranie, autour de Gdansk). Avec le Skat, qui se joue en Silésie, ce sont des exemples de jeux dérivés du Schafkopf introduits dans l'ouest de la Pologne sous l'influence allemande, comme on peut le voir d'après certains termes techniques utilisés. Les points des cartes sont *oko* (yeux), équivalent de l'allemand *Augen*, et les Dames noires sont *stare* (les vieilles), équivalent de *die Alten* en allemand, *zolo du* équivalent de *Solo Tout*, et ainsi de suite.
 
-Both Kop and Baśka can be played online on the Polish [Kurnik](https://www.kurnik.pl/) server, though neither game is currently available on the English version of this server at PlayOK.com.
+Kop et Baśka peuvent tous deux être joués en ligne sur le serveur polonais [Kurnik](https://www.kurnik.pl/), bien qu'aucun des deux jeux ne soit actuellement disponible sur la version anglaise de ce serveur sur PlayOK.com.
 
-*This page is based on information from Szymon Pyżalski and Krzysztof Kulpiński.*
+*Cette page est basée sur des informations de Szymon Pyżalski et Krzysztof Kulpiński.*
 
-## Players and Cards
+## Joueurs et cartes
 
-The Kop deck contains only 16 cards. Aces, Tens, Queens and Jacks of each suit are used. It is usually played with French-suited cards, which are easy to obtain in Poland. 
+Le jeu de Kop contient seulement 16 cartes. On utilise les As, Dix, Dames et Valets de chaque couleur. Il se joue généralement avec des cartes au dessin français, faciles à obtenir en Pologne.
 
-There are four players, who most of the time play in partnerships, the holders of the two black Queens playing together against the other two. The game is dealt and played clockwise.
+Il y a quatre joueurs, qui jouent le plus souvent en partenariats, les détenteurs des deux Dames noires jouant ensemble contre les deux autres. Le jeu se donne et se joue dans le sens horaire.
 
-As in most games of this type, the point values of the cards are: A=11, 10=10, Q=3, J=2. The total value of the cards in the pack is only 104 (not 120 as in Skat or Schafkopf, because the 4-point Kings are not used). Aces and Tens are called *całe* (wholes) because of their high value. The card points are called *oka* (singular *oko*) (eyes).
+Comme dans la plupart des jeux de ce type, les valeurs des cartes sont : A=11, 10=10, D=3, V=2. La valeur totale des cartes du jeu n'est que de 104 (et non 120 comme au Skat ou au Schafkopf, car les Rois valant 4 points ne sont pas utilisés). Les As et les Dix sont appelés *całe* (entiers) en raison de leur forte valeur. Les points des cartes sont appelés *oka* (singulier *oko*) (yeux).
 
-As in many Schafkopf games, all the Queens and Jacks are trumps, but above them, the highest trumps are the Ace and Ten of hearts, and below them are the Ace and Ten of diamonds. The makes 12 trumps in all, leaving only four cards that are not trumps, in two suits, clubs and spades. The trumps are called *trumfy*, and the non-trump suits are *obce* (meaning foreign or strange). Among the Queens and Jacks, the usual order ranking clubs, spades, hearts, diamonds is used. So in summary, there are three very unequal suits, ranking from high to low as follows:
+Comme dans de nombreux jeux Schafkopf, toutes les Dames et tous les Valets sont des atouts, mais au-dessus d'eux, les atouts les plus hauts sont l'As et le Dix de cœur, et en dessous l'As et le Dix de carreau. Cela fait 12 atouts en tout, ne laissant que quatre cartes qui ne sont pas des atouts, réparties en deux couleurs : trèfle et pique. Les atouts sont appelés *trumfy*, et les couleurs non-atout sont *obce* (signifiant étrangères). Parmi les Dames et les Valets, on utilise l'ordre habituel trèfle, pique, cœur, carreau. En résumé, il y a trois couleurs très inégales, classées de la plus haute à la plus basse comme suit :
 
-- **Trumps:** ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)10-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10
+- **Atouts :** ![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)10-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)10
 
-- **Clubs:** ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)10
+- **Trèfle :** ![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)10
 
-- **Spades:** ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)10
+- **Pique :** ![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)10
 
-The black Queens, which determine the partnerships, are called *stare* (old ones). The lowest two *całe* trumps - the ![diamond](../images/internat/diamond.gif)A and ![diamond](../images/internat/diamond.gif)10 - are called *ryzyka* (risks).
+Les Dames noires, qui déterminent les partenariats, sont appelées *stare* (les vieilles). Les deux *całe* les plus bas dans les atouts — le ![carreau](../images/internat/diamond.gif)A et le ![carreau](../images/internat/diamond.gif)10 — sont appelés *ryzyka* (risques).
 
-## Deal and Bidding
+## Donne et enchères
 
-The dealer shuffles and the player to dealer's right cuts. The dealer then deals out all 16 cards, one at a time, so that each player has four. There are advantages and disadvantages to being the dealer. To even these out, the turn to deal passes to the left after each hand.
+Le donneur mélange et le joueur à sa droite coupe. Le donneur distribue ensuite les 16 cartes, une par une, de sorte que chaque joueur en reçoive quatre. Il y a des avantages et des inconvénients à être le donneur. Pour équilibrer cela, le tour de donne passe à gauche après chaque main.
 
-Before the play begins, the players have an opportunity to make announcements, such as to increase the stake for the game, or to volunteer to play without a partner. Officially, they should speak in clockwise order, starting with the player to dealer's left. That procedure may be followed in formal tournaments, but in practice players simply make their announcements without waiting for the other players. The player to dealer's left looks at the other players and asks 'May I?', and if no one responds simply starts the play by leading the first card.
+Avant que le jeu ne commence, les joueurs ont l'opportunité de faire des annonces, comme augmenter la mise de la partie, ou se proposer de jouer sans partenaire. Officiellement, ils doivent parler dans l'ordre horaire, en commençant par le joueur à la gauche du donneur. Cette procédure peut être suivie dans les tournois formels, mais en pratique les joueurs font simplement leurs annonces sans attendre les autres. Le joueur à la gauche du donneur regarde les autres joueurs et demande « Puis-je ? », et si personne ne répond, il lance simplement le jeu en menant la première carte.
 
-The possible announcements are as follows:
+Les annonces possibles sont les suivantes :
 
-Kontra
-This doubles the value of the game. After a player has said *"kontra"*, another player can reply with *"re"* or *"rej"*, then *"bok"* can be announced and then *"słup"*. Each of these bids doubles the previous value the game, provided that the players are on different sides. Since at this point in the game the partnerships are usually unknown, it is possible that consecutive doubles may be announced by players who turn out to be partners. A series of two or more consecutive doubles by members of the same team count as only one double. Example: East deals, South says *"kontra"*, West says *"re"*, North says *"bok"* and West says *"słup"*. If North and South are partners against East and West the game value is multiplied by 16; if West and South are partners against East and North the *kontra* and *re* count as just one double and the game value is multiplied by 8; if South and East are partners against North and West the last three doubles count as one and the game value is multiplied by 4 only. In tournaments *słup* is the highest double allowed, but in private games further doubles may be permitted. These higher doubles often have colourful names such as: *"dupa Lenina"* (Lenin's arse), *"dupa Bieruta"* (Bierut's arse - Bierut was the president of Poland from 1947 to 1952) or *"wąsy Stalina"* (Stalin's moustache). 
-Wesele
-*Wesele* (wedding) may be announced by a player who holds both black Queens, in order to obtain a partner, as described below. 
-Zolo 
-The player who announces *Zolo* plays alone against the other three players in partnership. Alternatively, it is possible to announce **Zolo Du**, which is an undertaking to win all four tricks, playing alone. (The names of these announcements are phonetic transcriptions into Polish of the *"Solo"* and *"Solo Tout"* bids from Schafkopf).
+**Kontra**
+Cela double la valeur de la partie. Après qu'un joueur a dit *« kontra »*, un autre joueur peut répondre par *« re »* ou *« rej »*, puis *« bok »* peut être annoncé, puis *« słup »*. Chacune de ces enchères double la valeur précédente de la partie, à condition que les joueurs soient dans des camps différents. Puisqu'à ce stade du jeu les partenariats sont généralement inconnus, il est possible que des doubles consécutifs soient annoncés par des joueurs qui s'avèrent être partenaires. Une série de deux doubles consécutifs ou plus par des membres du même camp ne compte que pour un seul double. Exemple : Est donne, Sud dit *« kontra »*, Ouest dit *« re »*, Nord dit *« bok »* et Ouest dit *« słup »*. Si Nord et Sud sont partenaires contre Est et Ouest, la valeur de la partie est multipliée par 16 ; si Ouest et Sud sont partenaires contre Est et Nord, le *kontra* et le *re* ne comptent que pour un seul double et la valeur est multipliée par 8 ; si Sud et Est sont partenaires contre Nord et Ouest, les trois derniers doubles ne comptent que pour un et la valeur est multipliée par 4 seulement. Dans les tournois, *słup* est le double le plus élevé autorisé, mais dans les parties privées, des doubles supplémentaires peuvent être permis. Ces doubles plus élevés ont souvent des noms colorés tels que : *« dupa Lenina »* (le cul de Lénine), *« dupa Bieruta »* (le cul de Bierut — Bierut fut président de la Pologne de 1947 à 1952) ou *« wąsy Stalina »* (la moustache de Staline).
 
-**Notes:**
+**Wesele**
+*Wesele* (mariage) peut être annoncé par un joueur qui tient les deux Dames noires, afin d'obtenir un partenaire, comme décrit ci-dessous.
 
-*Zolo du* is the highest bid, followed by *zolo* and then *wesele*. Only the highest bid is played: for example if one player announces *wesele* and another player *zolo*, only the *zolo* is played and the *wesele* is cancelled. 
+**Zolo**
+Le joueur qui annonce *Zolo* joue seul contre les trois autres joueurs en équipe. Alternativement, il est possible d'annoncer **Zolo Du**, qui est un engagement à gagner les quatre plis en jouant seul. (Les noms de ces annonces sont des transcriptions phonétiques en polonais des enchères *« Solo »* et *« Solo Tout »* du Schafkopf.)
 
-An announcement of *"wesele"*, *"zolo"* or *"zolo du"* cancels any **previously** announced doubles - *"kontra"*, *"rej"*, etc. However, the announcements continue until three players in succession have passed, so the other players have an opportunity to say *kontra* to the new bid of *wesele*, *zolo* or *zolo du*.
+**Notes :**
 
-A player who announces *"wesele", "zolo"* or *"zolo du"* is not allowed to double the value of their own bid by saying say *"kontra"*, but if another player doubles it with *"kontra"*, they are allowed to redouble with *"rej"*, etc. 
+*Zolo du* est l'enchère la plus élevée, suivi de *zolo* puis de *wesele*. Seule l'enchère la plus élevée est jouée : par exemple, si un joueur annonce *wesele* et qu'un autre annonce *zolo*, seul le *zolo* est joué et le *wesele* est annulé.
 
-## Partnerships
+Une annonce de *« wesele »*, *« zolo »* ou *« zolo du »* annule tous les doubles **précédemment** annoncés — *« kontra »*, *« rej »*, etc. Cependant, les annonces continuent jusqu'à ce que trois joueurs consécutifs aient passé, de sorte que les autres joueurs ont l'opportunité de dire *kontra* à la nouvelle enchère de *wesele*, *zolo* ou *zolo du*.
 
-A player who announces *zolo* or *zolo du* plays alone, and the other three players form a team against the *zolo* player. In other cases the partnerships depend on the distribution of the cards. 
+Un joueur qui annonce *« wesele »*, *« zolo »* ou *« zolo du »* n'est pas autorisé à doubler la valeur de sa propre enchère en disant par exemple *« kontra »*, mais si un autre joueur la double avec *« kontra »*, il est autorisé à redoubler avec *« rej »*, etc.
 
-If "old queens" are held by different players, the players who hold the ![club](../images/internat/club.gif)Q and ![spade](../images/internat/spade.gif)Q play together as partners. They are called *"starzy"* (the old ones) the other two players form a partnership called *"młodzi"* (the young ones). If both black queens happen to be held by one player, that player has three options:
+## Partenariats
 
-- Call *"wesele"*. In this case she will be paired with the holder of the highest Jack that she doesn't hold (so for example if she holds ![club](../images/internat/club.gif)J but not ![spade](../images/internat/spade.gif)J, the holder of the ![spade](../images/internat/spade.gif)J will be her partner). 
+Un joueur qui annonce *zolo* ou *zolo du* joue seul, et les trois autres joueurs forment une équipe contre le joueur de *zolo*. Dans les autres cas, les partenariats dépendent de la distribution des cartes.
 
-- Say nothing. In this case she plays alone, though the other players will not initially be aware of this. This is called *"cicha"* (the silent). 
+Si les « vieilles dames » sont détenues par des joueurs différents, les joueurs qui tiennent la ![trèfle](../images/internat/club.gif)D et la ![pique](../images/internat/spade.gif)D jouent ensemble en tant que partenaires. Ils sont appelés *« starzy »* (les vieux) et les deux autres joueurs forment un partenariat appelé *« młodzi »* (les jeunes). Si les deux Dames noires se trouvent être détenues par un seul joueur, celui-ci a trois options :
 
-- Announce *"zolo"* or *"zolo du"*. The announced *"zolo"* is worth more points than *"cicha"*, but the opponents know from the start that they are all on the same side. 
+- Annoncer *« wesele »*. Dans ce cas, il sera associé au détenteur du Valet le plus élevé qu'il ne détient pas (par exemple, s'il tient la ![trèfle](../images/internat/club.gif)V mais pas la ![pique](../images/internat/spade.gif)V, le détenteur de la ![pique](../images/internat/spade.gif)V sera son partenaire).
 
-The partnerships become known after the cards mentioned above are played. They can of course often be deduced earlier. For example, player who is unable to beat a Jack cannot be *"old"*. If someone plays a *'ryzyko'* on a trick that will be taken by another player, she probably is that player's partner and is "smearing" (but it is also possible that she had no other card to play). 
+- Ne rien dire. Dans ce cas, il joue seul, bien que les autres joueurs n'en soient pas initialement conscients. Cela s'appelle *« cicha »* (le silencieux).
 
-## Play
+- Annoncer *« zolo »* ou *« zolo du »*. Le *« zolo »* annoncé vaut plus de points que la *« cicha »*, mais les adversaires savent dès le début qu'ils sont tous du même côté.
 
-The player to the left of the dealer always leads to the first trick. The trick is won by the highest trump in it, or if no trumps are played by the highest card of the suit led. The winner of each trick leads to the next. Any card can be led. Players must follow suit (all trumps count as belonging to the trump suit and not to the suits printed on the cards), and subject to this, must beat the highest card in the trick if they can. In practice this means:
+Les partenariats deviennent connus après que les cartes mentionnées ci-dessus ont été jouées. Ils peuvent bien sûr souvent être déduits plus tôt. Par exemple, un joueur qui est incapable de surmonter un Valet ne peut pas être « vieux ». Si quelqu'un joue un *ryzyko* sur un pli qui sera pris par un autre joueur, il est probablement le partenaire de ce joueur et est en train de « charger » (mais il est aussi possible qu'il n'ait eu aucune autre carte à jouer).
 
-- If a non-trump *("obca")* is led and another player holds the other card of this suit (in the *"as-dycha"* variation), she must play it at her turn. 
+## Le jeu
 
-- In all other cases, the player must play a trump, and if possible beat the highest trump so far played to the trick. If unable to beat the highest trump in the trick, the player must play some other trump.
+Le joueur à la gauche du donneur mène toujours le premier pli. Le pli est remporté par le plus haut atout qu'il contient, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur demandée. Le vainqueur de chaque pli mène le suivant. N'importe quelle carte peut être menée. Les joueurs doivent suivre la couleur (tous les atouts comptent comme appartenant à la couleur d'atout et non à la couleur imprimée sur les cartes), et sous réserve de cela, doivent surmonter la carte la plus haute du pli s'ils le peuvent. En pratique, cela signifie :
 
-- The only case in which a player is allowed to play an *"obca"* (non-trump) from a suit other than the suit led is when the player has no trumps and no card of the suit that was led. 
+- Si une couleur non-atout (*« obca »*) est menée et qu'un autre joueur détient l'autre carte de cette couleur (dans la variante *« as-dycha »*), il doit la jouer à son tour.
 
-- There is only one possibility to take a trick with an *"obca"*. If all 12 trumps are played in the first three tricks, then the last trick will contain all four *"obce"* were played. In this case the Ace of the suit that was led takes the trick. In all other cases the highest trump wins the trick.
+- Dans tous les autres cas, le joueur doit jouer un atout, et si possible surmonter le plus haut atout joué jusqu'à présent dans le pli. S'il ne peut pas surmonter le plus haut atout du pli, le joueur doit jouer un autre atout.
 
-## Scoring
+- Le seul cas où un joueur est autorisé à jouer une *« obca »* (non-atout) d'une couleur autre que la couleur demandée est lorsqu'il n'a pas d'atout et pas de carte de la couleur demandée.
 
-At the end of the play, each team counts the value of the cards in the tricks it has won. In fact, an experienced player can see the result immediately just by looking at the tricks of one of the partnerships, without counting the points aloud. The objective of the game is to take the majority of points, that is at least 53. If there is 52-52 tie it is called *"boki"* (sides). In this case the team that announced the last double loses. If no one doubled, the "old" players lose if playing two against two, or the lone player loses if playing one against three. 
+- Il n'y a qu'une seule possibilité de gagner un pli avec une *« obca »*. Si les 12 atouts sont joués lors des trois premiers plis, le dernier pli contiendra les quatre *obce*. Dans ce cas, l'As de la couleur demandée remporte le pli. Dans tous les autres cas, le plus haut atout remporte le pli.
 
-If the losing party took 26 points or more, it is called *"wyjście"* (going out). If they have 25 points or fewer, the situation is called *"bez wyjścia"* which is equivalent of *Schneider* in German games.
+## Comptage
 
-If playing for money, the players should decide in advance the basic value of a point. In an ordinary game or *wesele* each losing player will pay this basic amount and each winning player will receive the same amount. If the game was lost *"bez wyjścia"* this payment is doubled, but if the losing players took no tricks (*bez bitki* - like *Schwarz* in German games) it is tripled instead. 
+À la fin du jeu, chaque équipe compte la valeur des cartes dans les plis qu'elle a gagnés. En fait, un joueur expérimenté peut voir le résultat immédiatement en regardant simplement les plis d'un des partenariats, sans compter les points à voix haute. L'objectif du jeu est de remporter la majorité des points, c'est-à-dire au moins 53. S'il y a une égalité 52-52, on l'appelle *« boki »* (côtés). Dans ce cas, l'équipe qui a annoncé le dernier double perd. Si personne n'a doublé, les joueurs « vieux » perdent s'ils jouent deux contre deux, ou le joueur seul perd s'il joue un contre trois.
 
-If a player wins when playing alone, each of the other three players will pay the winner:
+Si le camp perdant a pris 26 points ou plus, cela s'appelle *« wyjście »* (sortie). S'il a 25 points ou moins, la situation est appelée *« bez wyjścia »*, ce qui équivaut au *Schneider* des jeux allemands.
 
-- **4 ×** the basic amount for ***cicha***;
+Si l'on joue pour de l'argent, les joueurs doivent convenir à l'avance de la valeur de base d'un point. Dans une partie ordinaire ou un *wesele*, chaque joueur perdant paiera ce montant de base et chaque joueur gagnant recevra le même montant. Si la partie a été perdue *« bez wyjścia »*, ce paiement est doublé, mais si les joueurs perdants n'ont pris aucun pli (*« bez bitki »* — comme le *Schwarz* des jeux allemands), il est triplé à la place.
 
-- **5 ×** the basic amount for ***zolo***;
+Si un joueur gagne en jouant seul, chacun des trois autres joueurs paiera au gagnant :
 
-- **10 ×** the basic amount for ***zolo du***.
+- **4 ×** le montant de base pour la ***cicha*** ;
 
-A player who loses alone will pay the same amount to every other player. There is no extra payment for *"wyjście"* or winning all the tricks in *cicha* or *zolo*. A *zolo du* is won only if the lone player wins all four tricks; otherwise it is lost.
+- **5 ×** le montant de base pour le ***zolo*** ;
 
-Every "double" announcement (*kontra*, *rej*, etc.) doubles the payment for the game (so for example *zolo* with *rej* will cost 20 × the basic value). However if the consecutive doubles were announced by players that happened to be partners, they count as a single double.
+- **10 ×** le montant de base pour le ***zolo du***.
 
-## Variations
+Un joueur qui perd seul paie le même montant à chaque autre joueur. Il n'y a pas de paiement supplémentaire pour le *« wyjście »* ou pour avoir gagné tous les plis en *cicha* ou *zolo*. Un *zolo du* n'est gagné que si le joueur seul gagne les quatre plis ; sinon il est perdu.
 
-- The card order in the version of the game described above is the classic one, known as **"as - dycha**" (ace - ten). More recently, some people have begun to use an order called **"as - trzy dychy**" (ace - three tens) in which the black tens are also promoted above the club Queen, so that there are 14 trumps and just one card in each non-trump suit. The order then becomes:
+Chaque annonce de « double » (*kontra*, *rej*, etc.) double le paiement de la partie (ainsi par exemple un *zolo* avec *rej* coûtera 20 × la valeur de base). Cependant, si les doubles consécutifs ont été annoncés par des joueurs qui s'avèrent être partenaires, ils ne comptent que pour un seul double.
 
-- **Trumps:** ![heart](../images/internat/heart.gif)A-![club](../images/internat/club.gif)10-![spade](../images/internat/spade.gif)10-![heart](../images/internat/heart.gif)10-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10
+## Variantes
 
-- **Clubs:** ![club](../images/internat/club.gif)A
+- L'ordre des cartes dans la version du jeu décrite ci-dessus est l'ordre classique, connu sous le nom de **« as - dycha »** (as - dix). Plus récemment, certaines personnes ont commencé à utiliser un ordre appelé **« as - trzy dychy »** (as - trois dix) dans lequel les Dix noirs sont aussi promus au-dessus de la Dame de trèfle, de sorte qu'il y a 14 atouts et une seule carte dans chaque couleur non-atout. L'ordre devient alors :
 
-- **Spades:** ![spade](../images/internat/spade.gif)A
+- **Atouts :** ![cœur](../images/internat/heart.gif)A-![trèfle](../images/internat/club.gif)10-![pique](../images/internat/spade.gif)10-![cœur](../images/internat/heart.gif)10-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)10
 
-- Some allow a player to say kontra to her own *wesele*, through not to her own *zolo* or *zolo du*.
+- **Trèfle :** ![trèfle](../images/internat/club.gif)A
 
-- There is a simpler variation of *wesele* in which the holder of the black Queens specifies the Jack whose holder will be her partner, calling *"dupek X na wesele"* (Jack of suit X for a wedding). This variation is less interesting than the standard game above. When the card is not named, the holder of the ![spade](../images/internat/spade.gif)J and even the ![heart](../images/internat/heart.gif)J can't be sure at the outset whether she is playing with or against the caller of *"wesele"*.
+- **Pique :** ![pique](../images/internat/spade.gif)A
+
+- Certains autorisent un joueur à dire kontra à son propre *wesele*, mais pas à son propre *zolo* ou *zolo du*.
+
+- Il existe une variante plus simple de *wesele* dans laquelle le détenteur des Dames noires désigne le Valet dont le détenteur sera son partenaire, en annonçant *« dupek X na wesele »* (Valet de couleur X pour un mariage). Cette variante est moins intéressante que le jeu standard décrit ci-dessus. Lorsque la carte n'est pas nommée, le détenteur de la ![pique](../images/internat/spade.gif)V et même la ![cœur](../images/internat/heart.gif)V ne peuvent pas savoir au départ s'ils jouent avec ou contre l'appelant du *« wesele »*.
 
 ## Baśka
 
-This Cashubian game was described in Polish at [psbaski.pl](https://web.archive.org/web/20230725225723/http://psbaski.pl/index.php?option=com_content&view=article&id=48&Itemid=53) (archive copy). It is said to have been played in that region since the 19th century. *"Baśka"* is a diminutive of the name Barbara, and is also the name given to a hand of four Queens, the highest bid in this game. Tournament rules for this game are published as a PDF by [Baszka Méster Sport](https://kaszebe-baszka.pl/images/baska/zasady/baszka_askier.pdf).
+Ce jeu cachoube a été décrit en polonais sur [psbaski.pl](https://web.archive.org/web/20230725225723/http://psbaski.pl/index.php?option=com_content&view=article&id=48&Itemid=53) (copie d'archive). On dit qu'il est joué dans cette région depuis le XIXe siècle. *« Baśka »* est un diminutif du prénom Barbara, et c'est aussi le nom donné à une main de quatre Dames, l'enchère la plus élevée de ce jeu. Les règles de tournoi pour ce jeu sont publiées en PDF par [Baszka Méster Sport](https://kaszebe-baszka.pl/images/baska/zasady/baszka_askier.pdf).
 
-The game is very similar to Kop, as described above, in the classic version with 12 trumps and two black suits of two cards each. However, Baśka has some extra bids, and the scoring is slightly different. 
+Le jeu est très similaire à Kop, tel que décrit ci-dessus, dans la version classique avec 12 atouts et deux couleurs noires de deux cartes chacune. Cependant, Baśka présente des enchères supplémentaires et le comptage est légèrement différent.
 
-There are four possible levels of doubling: *kontra*, *rekontra*, *bok* and *hirsh*. 
+Il y a quatre niveaux possibles de double : *kontra*, *rekontra*, *bok* et *hirsh*.
 
-If there is no higher bid, the holders of the two black Queens are partners, and an ordinary game is played, or if the black Queens are in the same hand, the holder plays alone silently (a *Cicha*). Six higher bids are possible. In ascending order, these are:
+S'il n'y a pas d'enchère plus élevée, les détenteurs des deux Dames noires sont partenaires et une partie ordinaire est jouée, ou si les Dames noires sont dans la même main, le détenteur joue seul silencieusement (une *Cicha*). Six enchères supérieures sont possibles. Dans l'ordre croissant, ce sont :
 
-Wesele
-The same as in Kop. The player has both black Queens and chooses to have the player with the highest Jack among the other players as a partner.
-Gran
-The bidder plays alone and tries to take a majority of card points, as in a *Zolo*, but the order of cards is different. The four Jacks are the **only** trumps, and there are **four** non-trump suits of three cards each, as follows: 
+**Wesele**
+Le même que dans Kop. Le joueur a les deux Dames noires et choisit d'avoir le joueur avec le Valet le plus élevé parmi les autres comme partenaire.
 
-- **Trumps:**-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J
+**Gran**
+L'enchérisseur joue seul et essaie de prendre la majorité des points, comme dans un *Zolo*, mais l'ordre des cartes est différent. Les quatre Valets sont les **seuls** atouts, et il y a **quatre** couleurs non-atout de trois cartes chacune, comme suit :
 
-- **Clubs:** ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)Q
+- **Atouts :** ![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V-![carreau](../images/internat/diamond.gif)V
 
-- **Spades:** ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)Q
+- **Trèfle :** ![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)D
 
-- **Hearts:** ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)Q
+- **Pique :** ![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)10-![pique](../images/internat/spade.gif)D
 
-- **Diamonds:** ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)Q
+- **Cœur :** ![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)D
 
-Zolo
-The same as in Kop. The bidder plays alone and tries to take the majority of points.
-Gran Du
-The cards rank the same way as in Gran, and in order to win the bidder has to take all four tricks, playing alone.
-Zolo Du
-The same as in Kop. The bidder has to win all four tricks alone, with the normal card ranking.
-Baśka
-The bidder has all four Queens. There is no play: the bidder automatically wins with this hand.
+- **Carreau :** ![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)D
 
-Players speak in clockwise rotation and may bid, each bid being higher than the last, or double the previous bid. The highest bid is played, with any subsequent doubles. Players cannot say *kontra* to their own bid, but can redouble if another player says *kontra*.
+**Zolo**
+Le même que dans Kop. L'enchérisseur joue seul et essaie de prendre la majorité des points.
 
-The basic scores are:
+**Gran Du**
+Les cartes sont classées de la même manière que dans Gran, et pour gagner, l'enchérisseur doit prendre les quatre plis en jouant seul.
 
-| Simple game | 1 |
+**Zolo Du**
+Le même que dans Kop. L'enchérisseur doit gagner les quatre plis seul, avec le classement normal des cartes.
+
+**Baśka**
+L'enchérisseur a les quatre Dames. Il n'y a pas de jeu : l'enchérisseur gagne automatiquement avec cette main.
+
+Les joueurs parlent dans l'ordre horaire et peuvent enchérir, chaque enchère étant plus élevée que la précédente, ou doubler l'enchère précédente. L'enchère la plus élevée est jouée, avec les doubles ultérieurs éventuels. Les joueurs ne peuvent pas dire *kontra* à leur propre enchère, mais peuvent redoubler si un autre joueur dit *kontra*.
+
+Les scores de base sont :
+
+| Partie simple | 1 |
 | Wesele | 1 |
 | Cicha | 4 |
 | Gran | 5 |
@@ -166,39 +172,35 @@ The basic scores are:
 | Zolo Du | 10 |
 | Baśka | 10 |
 
-A simple game, *Wesele*, *Cicha*, *Gran* or *Zolo* is won by the player or team that has more card points. In case of a 52-52 tie, the side that announced the last double loses, or if no one said *kontra*, the "old" team (the team with the black Queens) loses when two play against two and the lone player loses when playing against three. In *Gran Du* and *Zolo Du* the lone player wins if she takes all four tricks and loses otherwise. In Baśka, the player with the four Queens automatically wins.
+Une partie simple, *Wesele*, *Cicha*, *Gran* ou *Zolo* est gagnée par le joueur ou l'équipe qui a le plus de points. En cas d'égalité 52-52, le camp qui a annoncé le dernier double perd, ou si personne n'a dit *kontra*, l'équipe « vieille » (l'équipe avec les Dames noires) perd lorsque deux jouent contre deux, et le joueur seul perd lorsqu'il joue contre trois. Dans un *Gran Du* et un *Zolo Du*, le joueur seul gagne s'il prend les quatre plis et perd sinon. Dans Baśka, le joueur avec les quatre Dames gagne automatiquement.
 
-In a simple game or *Wesele*, the score is increased to 2 if the losing side took at least one trick but had 25 or fewer points, or 3 if they won no tricks at all.
+Dans une partie simple ou un *Wesele*, le score est porté à 2 si le camp perdant a pris au moins un pli mais a 25 points ou moins, ou à 3 s'il n'a pris aucun pli.
 
-**Unlike Kop, if the "old" players (the black Queen holders) lose in a simple game or *wesele*, or if the lone player loses in a game played one against three, the score is doubled.**
+**Contrairement à Kop, si les joueurs « vieux » (détenteurs des Dames noires) perdent dans une partie simple ou un *wesele*, ou si le joueur seul perd dans une partie jouée un contre trois, le score est doublé.**
 
-Also, the score is doubled for *kontra*, *rekontra*, etc., but two or more consecutive doubles by players who turn out to be on the same team count as only one double.
+De plus, le score est doublé pour *kontra*, *rekontra*, etc., mais deux doubles consécutifs ou plus par des joueurs qui s'avèrent être dans le même camp ne comptent que pour un seul double.
 
-### Baszka Tournament Variants
+### Variantes de tournoi Baszka
 
-Having taken part in a tournament, Krzysztof Kulpiński reports the following variants.
+Ayant participé à un tournoi, Krzysztof Kulpiński rapporte les variantes suivantes.
 
-- Many prefer to play "*As trefl*" (Ace of clubs), also known as "*Czarna Baśka*" (Black Baśka) in which the ace and ten of clubs are the highest trumps, above the ace and ten of hearts, so that the trump suit is
+- Beaucoup préfèrent jouer *« As trefl »* (As de trèfle), également connu sous le nom de *« Czarna Baśka »* (Baśka noire), dans lequel l'as et le dix de trèfle sont les atouts les plus élevés, au-dessus de l'as et le dix de cœur, de sorte que la couleur d'atout est :
 
-![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)10-![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)10-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10
+![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)10-![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)10-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)10
 
-and the only non-trumps are ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)10.
+et les seules cartes non-atout sont ![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)10.
 
-In this variant, in case of a *'wesele'*, the bidder's partner is whichever of the other players holds the ![heart](../images/internat/heart.gif)10, or the highest trump below that (![heart](../images/internat/heart.gif)Q, ![diamond](../images/internat/diamond.gif)Q etc.) if the player with both black queens has the ![heart](../images/internat/heart.gif)10 as well. There is an [As trefl](https://kaszebe-baszka.pl/images/baska/zasady/baszka_astrefl.pdf) page at 
-Baszka Méster Sport.
+Dans cette variante, en cas de *« wesele »*, le partenaire de l'enchérisseur est celui des autres joueurs qui détient le ![cœur](../images/internat/heart.gif)10, ou l'atout le plus élevé en dessous de celui-ci (![cœur](../images/internat/heart.gif)D, ![carreau](../images/internat/diamond.gif)D, etc.) si le joueur ayant les deux Dames noires a également le ![cœur](../images/internat/heart.gif)10. Il existe une page [As trefl](https://kaszebe-baszka.pl/images/baska/zasady/baszka_astrefl.pdf) sur le site de Baszka Méster Sport.
 
-- Another variant is *"As pik"* (Ace of spades) in which only the ace of spades is promoted above the ace of hearts so that the trumps are 
+- Une autre variante est *« As pik »* (As de pique) dans laquelle seul l'as de pique est promu au-dessus de l'as de cœur, de sorte que les atouts sont :
 
-![spade](../images/internat/spade.gif)A-![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)10-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)J-![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)10
+![pique](../images/internat/spade.gif)A-![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)10-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-![trèfle](../images/internat/club.gif)V-![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)A-![carreau](../images/internat/diamond.gif)10
 
-and there are two non-trump suits: 
-![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)10 and ![spade](../images/internat/spade.gif)10.
+et il y a deux couleurs non-atout :
+![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)10 et ![pique](../images/internat/spade.gif)10.
 
-See also the [As pik page](https://kaszebe-baszka.pl/images/baska/zasady/baszka_aspik.pdf) at 
-Baszka Méster Sport. 
+Voir aussi la [page As pik](https://kaszebe-baszka.pl/images/baska/zasady/baszka_aspik.pdf) sur le site de Baszka Méster Sport.
 
-- The traditional version in the main description above with A-10 of hearts highest and two non-trumps in each black suit is called "*[As kier](https://kaszebe-baszka.pl/images/baska/zasady/baszka_askier.pdf)*" (Ace of hearts) or *Czerwona Baśka* (Red Baśka). In tournament *As kier* the minimum number of card points needed for *"wyjście"* (going out) to avoid a double payment is raised to 27 (rather than 26) for the "old" players (with the black queens) but remains as 26 for the "young" players. This makes it harder for the "old" players to go out by winning a single trick - for example A+10+Q+J is not enough.
+- La version traditionnelle dans la description principale ci-dessus avec l'A-10 de cœur les plus élevés et deux non-atouts dans chaque couleur noire est appelée *« [As kier](https://kaszebe-baszka.pl/images/baska/zasady/baszka_askier.pdf) »* (As de cœur) ou *Czerwona Baśka* (Baśka rouge). Dans le tournoi *As kier*, le nombre minimum de points nécessaire pour le *« wyjście »* (sortie) afin d'éviter un double paiement est porté à 27 (au lieu de 26) pour les joueurs « vieux » (avec les Dames noires) mais reste à 26 pour les joueurs « jeunes ». Cela rend plus difficile pour les « vieux » de sortir en gagnant un seul pli — par exemple A+10+D+V ne suffit pas.
 
-- The Baszka Méster Sport site also has a page about a variant called [Pary](https://kaszebe-baszka.pl/images/baska/zasady/baszka_pary.pdf) which is not clearly described. It seems that it may be a game similar to *As-kier* but with fixed partnerships in which the team holding the ![heart](../images/internat/heart.gif)A are "old". They also have pages on [Kop](https://kaszebe-baszka.pl/images/baska/zasady/kop_askier.pdf) (the variant in which the black 10's are trumps between the ace and 10 of gearts) and on a more distantly related game [Lës](https://kaszebe-baszka.pl/images/baska/zasady/les_sportowy.pdf) played with a double deck of 48 cards in which the two ![club](../images/internat/club.gif)Q's are partners (as in the German game Doppelkopf) and one of the ![diamond](../images/internat/diamond.gif)9's, known as *szpica,* is promoted to be the highest trump (above the ![club](../images/internat/club.gif)Q's).
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Kop
+- Le site Baszka Méster Sport a également une page sur une variante appelée [Pary](https://kaszebe-baszka.pl/images/baska/zasady/baszka_pary.pdf) qui n'est pas clairement décrite. Il semble que ce pourrait être un jeu similaire au *As-kier* mais avec des partenariats fixes dans lesquels l'équipe détenant le ![cœur](../images/internat/heart.gif)A est « vieille ». Ils ont aussi des pages sur le [Kop](https://kaszebe-baszka.pl/images/baska/zasady/kop_askier.pdf) (la variante dans laquelle les Dix noirs sont des atouts entre l'as et le dix de cœur) et sur un jeu plus lointainement apparenté appelé [Lës](https://kaszebe-baszka.pl/images/baska/zasady/les_sportowy.pdf) joué avec un jeu double de 48 cartes dans lequel les deux ![trèfle](../images/internat/club.gif)D sont partenaires (comme dans le jeu allemand Doppelkopf) et l'un des ![carreau](../images/internat/diamond.gif)9, connu sous le nom de *szpica*, est promu au rang d'atout le plus élevé (au-dessus des ![trèfle](../images/internat/club.gif)D).

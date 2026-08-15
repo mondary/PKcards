@@ -2,108 +2,106 @@
 
 **Difficulté :** —
 **Type :** Schafkopf/Truco, Plis
-**But :** A four-player card game from Hamburg using a 32-card Skat pack in which the players try to avoid taking tricks containing scoring cards.
+**But :** Un jeu de cartes à quatre joueurs de Hambourg utilisant un jeu de 32 cartes de Skat dans lequel les joueurs essaient d'éviter de remporter des plis contenant des cartes comptant pour des points.
 
 ---
 
-I learned this game from Reinhard Spode, Sylvia Kalisch and Lutz Franke.
+J'ai appris ce jeu grâce à Reinhard Spode, Sylvia Kalisch et Lutz Franke.
 
 - Introduction
 
-- The cards
+- Les cartes
 
-- Deal and play
+- Donnée et jeu
 
-- Scoring
+- Comptage
 
 ## Introduction
 
-Kalter Schlag is a four-player game from Hamburg. It is related to Ramsch, which in turn is a variation played in informal games of Skat. Literally "Kalter Schlag" means "cold hit", but it implies an element of surprise, so a more idiomatic translation would be "bolt from the blue". This name appropriately describes the way that a game can easily be lost suddenly and unexpectedly through an error of judgement or an unfortunate distribution of cards.
+Kalter Schlag est un jeu à quatre joueurs de Hambourg. Il est apparenté au Ramsch, qui est lui-même une variante jouée dans les parties informelles de Skat. Littéralement, « Kalter Schlag » signifie « coup froid », mais cela implique un élément de surprise, donc une traduction plus idiomatique serait « coup de tonnerre ». Ce nom décrit bien la façon dont une partie peut facilement être perdue soudainement et de manière inattendue par une erreur de jugement ou une distribution malheureuse des cartes.
 
-Kalter Schlag is played by four people, each playing for themselves. It is a trick-taking game in which the aim is to avoid winning tricks containing high-scoring cards. In each deal, the player who takes most card points in tricks loses those points, and the first player who loses a cumulative total of 2000 or more points over a number of deals is the overall loser.
+Kalter Schlag se joue à quatre, chacun jouant pour soi. C'est un jeu de plis dans lequel le but est d'éviter de remporter des plis contenant des cartes à forte valeur. Dans chaque donne, le joueur qui prend le plus de points de carte dans les plis perd ces points, et le premier joueur qui perd un total cumulatif de 2000 points ou plus sur plusieurs donnes est le perdant global.
 
-## The Cards
+## Les cartes
 
-A 32 card French suited Skat pack is used. The following table shows the ranking (from high to low) and the point values of the cards.
+Un jeu de 32 cartes à enseigne française de type Skat est utilisé. Le tableau suivant montre la hiérarchie (du plus haut au plus bas) et les valeurs en points des cartes.
 
-| The jacks (permanent trumps) | The four non-trump suits(clubs, spades, hearts, diamonds) |
-| Rank | Point value |
-| club jack | 2 |
-| spade jack | 2 |
-| heart jack | 2 |
-| diamond jack | 2 |
+| Les valets (atouts permanents) | Les quatre couleurs non-atout (trèfles, piques, cœurs, carreaux) |
+| Rang | Valeur en points |
+| valet de trèfle | 2 |
+| valet de pique | 2 |
+| valet de cœur | 2 |
+| valet de carreau | 2 |
 
-|   Rank   | Point value |
-| ace | 11 |
-| ten | 10 |
-| king | 4 |
-| queen | 3 |
-| nine | 0 |
-| eight | 0 |
-| seven | 0 |
+|  Rang  | Valeur en points |
+| as | 11 |
+| dix | 10 |
+| roi | 4 |
+| dame | 3 |
+| neuf | 0 |
+| huit | 0 |
+| sept | 0 |
 
-On the cards used in Germany, the jacks are marked with a B (Bube) and the queens with a D (Dame). The total number of card points in the pack is 120.
+Sur les cartes utilisées en Allemagne, les valets sont marqués d'un B (Bube) et les dames d'un D (Dame). Le nombre total de points de carte dans le jeu est de 120.
 
-## Deal and play
+## Donnée et jeu
 
-The deal and play are clockwise. At the start of a session, the first dealer is chosen at random. The turn to deal passes clockwise until someone loses by accumulating 2000 or more points. If playing another game, the loser of the preceding game chooses who should deal first in the next game. The dealer deals 8 cards to each player - first a packet of 3 cards to each, then 2 to each and finally 3 more to each.
+La donne et le jeu se font dans le sens horaire. Au début d'une session, le premier donneur est choisi au hasard. Le tour de donner passe dans le sens horaire jusqu'à ce que quelqu'un perde en accumulant 2000 points ou plus. Si une autre partie est jouée, le perdant de la partie précédente choisit qui distribuera en premier dans la partie suivante. Le donneur distribue 8 cartes à chaque joueur — d'abord un paquet de 3 cartes à chacun, puis 2 à chacun et enfin 3 à chacun.
 
-The player to dealer's left leads to the first trick. Players must follow suit if possible; if not they may play any card. For this purpose the four jacks count as a separate suit. 
+Le joueur à la gauche du donneur entame le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent ; sinon ils peuvent jouer n'importe quelle carte. À cette fin, les quatre valets comptent comme une couleur séparée.
 
-- If a jack was led, you must follow with a jack if you have one. If you have no jacks you may play any card of any suit.
+- Si un valet a été entamé, vous devez suivre d'un valet si vous en avez un. Si vous n'avez pas de valets, vous pouvez jouer n'importe quelle carte de n'importe quelle couleur.
 
-- If a card other than a jack was led, you must if possible play a card of the same suit (but not the jack). If you have no cards of the suit led (except possibly the jack), you may play any card of any suit or any jack.
+- Si une carte autre qu'un valet a été entamée, vous devez si possible jouer une carte de la même couleur (mais pas le valet). Si vous n'avez pas de cartes de la couleur entamée (sauf éventuellement le valet), vous pouvez jouer n'importe quelle carte de n'importe quelle couleur ou n'importe quel valet.
 
-If any jacks were played the trick is won by the highest jack in it. Otherwise it is won by the highest card of the suit led. The winner of the trick leads to the next. 
+Si des valets ont été joués, le pli est remporté par le valet le plus élevé. Sinon, il est remporté par la carte la plus élevée de la couleur entamée. Le gagnant du pli entame le suivant.
 
-Each of the four players, as they play their card to the first trick, has the opportunity to double the score for the hand. The first player who wishes to double says *"kontra"*, the next says *"re"*, if a third player wants to double they say *"bock"*, and if all four players wish to double the fourth says *"hirsch".*
+Chacun des quatre joueurs, en jouant sa carte au premier pli, a la possibilité de doubler le score de la main. Le premier joueur qui souhaite doubler dit « *kontra* », le suivant dit « *re* », si un troisième joueur veut doubler, il dit « *bock* », et si les quatre joueurs veulent doubler, le quatrième dit « *hirsch* ».
 
-## Scoring
+## Comptage
 
-At the end of the play, if one player has taken all eight tricks, that player wins and does not score, but each of the other players has a penalty added to their score. Winning all the tricks is called a **Durchmarsch**. Note that it is not sufficient to take all the points - even a trick with no points taken by another player stops a *Durchmarsch*.
+À la fin du jeu, si un joueur a remporté les huit plis, ce joueur gagne et ne marque pas, mais un penalty est ajouté au score de chacun des autres joueurs. Remporter tous les plis est appelé un **Durchmarsch**. Notez qu'il ne suffit pas de prendre tous les points — un pli sans points pris par un autre joueur empêche un *Durchmarsch*.
 
-In the normal case where two or more players have taken tricks, each player adds up the values of the cards in the tricks they have taken. Whoever has the most points loses, and some penalty points (calculated as explained below) are added to the loser's total on the score sheet. The other players do not score. If there is a tie for most card points, then both of the players with most points lose the full penalty.
+Dans le cas normal où deux joueurs ou plus ont remporté des plis, chaque joueur additionne les valeurs des cartes dans les plis qu'il a remportés. Celui qui a le plus de points perd, et des points de pénalité (calculés comme expliqué ci-dessous) sont ajoutés au total du perdant sur la feuille de score. Les autres joueurs ne marquent pas. S'il y a égalité pour le plus grand nombre de points de carte, les deux joueurs ayant le plus de points subissent la pénalité complète.
 
-If two or more people take tricks, the number of penalty points given to the loser(s) is calculated as follows:
+Si deux personnes ou plus ont remporté des plis, le nombre de points de pénalité attribués au(x) perdant(s) est calculé comme suit :
 
-- Start with the number of card points in the loser's tricks.
+- Commencer avec le nombre de points de carte dans les plis du perdant.
 
-- If *kontra* was said, double it.
+- Si « *kontra* » a été dit, doubler.
 
-- If *re* was said, double it again.
+- Si « *re* » a été dit, doubler à nouveau.
 
-- If *bock* was said, double it again.
+- Si « *bock* » a été dit, doubler à nouveau.
 
-- If *hirsch* was said, double it again.
+- Si « *hirsch* » a été dit, doubler à nouveau.
 
-- If someone took no tricks, double it.
+- Si quelqu'un n'a remporté aucun pli, doubler.
 
-- If two players took no tricks, double it again.
+- Si deux joueurs n'ont remporté aucun pli, doubler à nouveau.
 
-- Round the result to the nearest 10 points (numbers ending in 5 are rounded upwards).
+- Arrondir le résultat à la dizaine de points la plus proche (les nombres se terminant par 5 sont arrondis au supérieur).
 
-A player who takes no tricks is called a Jungfrau (virgin). If there are three virgins, then the fourth player has made *Durchmarsch*. If this happens, the durchmarsch player scores no penalty points, but the three virgins are penalised 120 points each, doubled for each player who said *kontra*, *re*, *bock* or *hirsch*, but with no further doubles for the fact that three players are Jungfrau.
+Un joueur qui ne remporte aucun pli est appelé Jungfrau (vierge). S'il y a trois vierges, alors le quatrième joueur a réalisé un *Durchmarsch*. Dans ce cas, le joueur du durchmarsch ne marque aucun point de pénalité, mais les trois vierges sont pénalisés de 120 points chacun, doublés pour chaque joueur qui a dit « *kontra* », « *re* », « *bock* » ou « *hirsch* », mais sans doubles supplémentaires pour le fait que trois joueurs sont Jungfrau.
 
-Note that comparison of card points is done before rounding - for example, if the points are divided 49-48-16-7, the player with 49 points loses alone even though 49 and 48 may give the same penalty point score after rounding.
+Notez que la comparaison des points de carte se fait avant l'arrondi — par exemple, si les points sont répartis 49-48-16-7, le joueur avec 49 points perd seul même si 49 et 48 peuvent donner le même score de pénalité après arrondi.
 
-### Examples of scoring
+### Exemples de comptage
 
-- The loser has 55 points, everyone has a trick and no one said *kontra*. The penalty for the loser is 60 points.
+- Le perdant a 55 points, tout le monde a un pli et personne n'a dit « *kontra* ». La pénalité pour le perdant est de 60 points.
 
-- The loser has tricks containing 66 card points. One player said *kontra* and one player took no tricks. The penalty for the loser is 260 points (66*2*2=264 rounded to 260).
+- Le perdant a des plis contenant 66 points de carte. Un joueur a dit « *kontra* » et un joueur n'a remporté aucun pli. La pénalité pour le perdant est de 260 points (66×2×2 = 264 arrondi à 260).
 
-- The loser has tricks containing 63 card points. *Kontra*, *re* and *bock* were said, and two players took no tricks. The penalty is 2020 points (63*8*4=2016), so the loser has lost the whole game in one deal.
+- Le perdant a des plis contenant 63 points de carte. « *Kontra* », « *re* » et « *bock* » ont été dits, et deux joueurs n'ont remporté aucun pli. La pénalité est de 2020 points (63×8×4 = 2016), donc le perdant a perdu la partie entière en une seule donne.
 
-- One player wins all the tricks. *Kontra* and *re* were said. The other three players each score a penalty of 480 points (120*4).
+- Un joueur remporte tous les plis. « *Kontra* » et « *re* » ont été dits. Les trois autres joueurs marquent chacun une pénalité de 480 points (120×4).
 
-### End of the game - payments
+### Fin de la partie — paiements
 
-When a player's score reaches 2000 points or more, the game ends and that player has lost. This overall loser pays a stake to each of the other players who have penalty points, and a double stake to any players who scored no penalty points during the game.
+Lorsque le score d'un joueur atteint 2000 points ou plus, la partie se termine et ce joueur a perdu. Ce perdant global paie une mise à chacun des autres joueurs qui ont des points de pénalité, et une double mise à tout joueur qui n'a marqué aucun point de pénalité pendant la partie.
 
-A tie or a *Durchmarsch* can result in two or possibly even three players going over 2000 on the same deal. In that case, the player with most penalty points is the loser and has to pay each of the other players. If two or more players are tied for most penalty points, both having 2000 or more, further hands are played until there is a single loser (who might be neither of the previously tied players).
+Une égalité ou un *Durchmarsch* peut faire en sorte que deux, voire trois joueurs dépassent 2000 lors de la même donne. Dans ce cas, le joueur ayant le plus de points de pénalité est le perdant et doit payer chacun des autres joueurs. Si deux joueurs ou plus sont à égalité pour le plus grand nombre de points de pénalité, ayant tous deux 2000 points ou plus, d'autres mains sont jouées jusqu'à ce qu'il y ait un perdant unique (qui pourrait n'être aucun des joueurs précédemment à égalité).
 
-**Exception**. If a player manages to score penalty points in five hands, but still has less than 2000 points, the game ends and the player with five scores is the **winner**, collecting a double stake from each of the other players.
+**Exception.** Si un joueur parvient à marquer des points de pénalité cinq fois, mais a toujours moins de 2000 points, la partie se termine et le joueur avec cinq scores est le **gagnant**, encaissant une double mise de chacun des autres joueurs.
 
-If playing another game, everyone starts again from zero penalty points, and the loser of the game just completed decides who will deal first in the new game. In the exceptional case where a player won by scoring five times in a game and remaining under 2000, the winner deals first in the new game.
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Kalter Schlag
+Si une autre partie est jouée, tout le monde repart de zéro, et le perdant de la partie qui vient de se terminer décide qui distribuera en premier dans la nouvelle partie. Dans le cas exceptionnel où un joueur a gagné en marquant cinq fois dans une partie tout en restant en dessous de 2000, le gagnant distribue en premier dans la nouvelle partie.

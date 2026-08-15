@@ -2,328 +2,326 @@
 
 **Difficulté :** ⭐⭐⭐
 **Type :** Schafkopf/Truco, Plis
-**But :** In which the players with the queens of clubs are partners.
+**But :** Dans lequel les joueurs détenant les dames de trèfle sont partenaires.
 
 ---
 
 ## Introduction
 
-Doppelkopf is extremely popular in Germany, mainly in the North. It developed from a version of Schafkopf using a double pack of cards. Doppelkopf is a four player game with variable partnerships; the objective is to capture valuable cards in tricks. It can be played with five people, with dealer sitting out.
+Doppelkopf est extrêmement populaire en Allemagne, principalement dans le Nord. Il est issu d'une version du Schafkopf utilisant un double jeu de cartes. Doppelkopf est un jeu à quatre joueurs avec des partenariats variables ; l'objectif est de capturer des cartes précieuses dans les plis. Il peut se jouer à cinq, avec le donneur qui ne participe pas.
 
-Although the *Deustcher Doppelkopf-Verband* has developed standard rules for tournaments, in informal games there are many variants and each group of players has their own house rules. Before playing with a new group of players, it is therefore advisable to agree a set of rules. Several variants are listed at the end of this description.
+Bien que le *Deutscher Doppelkopf-Verband* ait développé des règles standard pour les tournois, dans les parties informelles il existe de nombreuses variantes et chaque groupe de joueurs a ses propres règles de la maison. Avant de jouer avec un nouveau groupe, il est donc conseillé de convenir d'un ensemble de règles. Plusieurs variantes sont listées à la fin de cette description.
 
-*This page is mostly based on a contribution from Noel Leaver.*
+*Cette page est principalement basée sur une contribution de Noel Leaver.*
 
-## Pack
+## Jeu de cartes
 
-The pack is a double pack shortened by removing cards below 9, each suit containing two each of A K Q J 10 9. Doppelkopf packs are readily available in Germany and normally have standard suits and cards with indices A K D (Dame) B (Bube) 10 9.
+Le jeu est un double jeu réduit en retirant les cartes inférieures au 9, chaque couleur contenant deux exemplaires de A R D V 10 9. Les jeux Doppelkopf sont facilement disponibles en Allemagne et comportent généralement des couleurs et cartes standard avec les indices A R D (Dame) V (Valet) 10 9.
 
-In most contracts, the cards rank, from high to low:
+Dans la plupart des contrats, les cartes sont classées, de la plus haute à la plus basse :
 
-- Trumps: **![heart](../images/internat/heart.gif)10, ![club](../images/internat/club.gif)Q, ![spade](../images/internat/spade.gif)Q, ![heart](../images/internat/heart.gif)Q, ![diamond](../images/internat/diamond.gif)Q, ![club](../images/internat/club.gif)J, ![spade](../images/internat/spade.gif)J, ![heart](../images/internat/heart.gif)J, ![diamond](../images/internat/diamond.gif)J, ![diamond](../images/internat/diamond.gif)A, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)K, ![diamond](../images/internat/diamond.gif)9** (26 cards)
+- Atouts : **![cœur](../images/internat/heart.gif)10, ![trèfle](../images/internat/club.gif)D, ![pique](../images/internat/spade.gif)D, ![cœur](../images/internat/heart.gif)D, ![carreau](../images/internat/diamond.gif)D, ![trèfle](../images/internat/club.gif)V, ![pique](../images/internat/spade.gif)V, ![cœur](../images/internat/heart.gif)V, ![carreau](../images/internat/diamond.gif)V, ![carreau](../images/internat/diamond.gif)A, ![carreau](../images/internat/diamond.gif)10, ![carreau](../images/internat/diamond.gif)R, ![carreau](../images/internat/diamond.gif)9** (26 cartes)
 
-- Clubs: **![club](../images/internat/club.gif)A, ![club](../images/internat/club.gif)10, ![club](../images/internat/club.gif)K, ![club](../images/internat/club.gif)9**
+- Trèfle : **![trèfle](../images/internat/club.gif)A, ![trèfle](../images/internat/club.gif)10, ![trèfle](../images/internat/club.gif)R, ![trèfle](../images/internat/club.gif)9**
 
-- Spades: **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)10, ![spade](../images/internat/spade.gif)K, ![spade](../images/internat/spade.gif)9**
+- Pique : **![pique](../images/internat/spade.gif)A, ![pique](../images/internat/spade.gif)10, ![pique](../images/internat/spade.gif)R, ![pique](../images/internat/spade.gif)9**
 
-- Hearts: **![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)9 **
+- Cœur : **![cœur](../images/internat/heart.gif)A, ![cœur](../images/internat/heart.gif)R, ![cœur](../images/internat/heart.gif)9**
 
-The cards have the same values as in Skat:
+Les cartes ont les mêmes valeurs qu'au Skat :
 
-** A = 11    10 = 10    K = 4    Q = 3     J = 2**
+** A = 11    10 = 10    R = 4    D = 3    V = 2**
 
-making a total of 240 card points. The basic object of the game is to take more than half of these card points in tricks. The card points are used only to determine which team has won the hand - they are not the same as game points written on the score-sheet as a result of winning or losing. 
+soit un total de 240 points. L'objectif de base du jeu est de prendre plus de la moitié de ces points dans les plis. Les points des cartes ne servent qu'à déterminer quelle équipe a gagné la main — ils ne sont pas les mêmes que les points de jeu inscrits sur la feuille de score résultant d'une victoire ou d'une défaite.
 
-## Deal
+## La donne
 
-Dealer shuffles and the cards are cut; then all the cards are dealt out, three at a time starting on dealer's left and continuing clockwise. The deal for the next hand passes to dealer's left. It is usual to play a number of complete rounds of deals in a session, so it is not important who deals first.
+Le donneur mélange et les cartes sont coupées ; puis toutes les cartes sont distribuées, trois par trois en commençant à la gauche du donneur et en continuant dans le sens horaire. Le tour de donne de la main suivante passe à la gauche du donneur. Il est habituel de jouer un certain nombre de tours complets de donnes lors d'une session, il n'est donc pas important de savoir qui distribue en premier.
 
-## Bidding
+## Les enchères
 
-The bidding consists of a single round starting with the player to dealer's left. Each player says either "Gesund" (healthy), meaning that they are content to play a normal game, or "Vorbehalt" (reservation) meaning that they want to play some other type of game. If one or more players have said "Vorbehalt", they each in turn say what type of game they wish to play. The possibilities, from lowest to highest, are:
+Les enchères consistent en un seul tour commençant par le joueur à la gauche du donneur. Chaque joueur dit soit « Gesund » (sain), signifiant qu'il est satisfait de jouer une partie normale, soit « Vorbehalt » (réserve) signifiant qu'il souhaite jouer un autre type de partie. Si un ou plusieurs joueurs ont dit « Vorbehalt », ils disent à tour de rôle quel type de partie ils souhaitent jouer. Les possibilités, de la plus basse à la plus haute, sont :
 
-- Hochzeit (marriage)
+- Hochzeit (mariage)
 
-- Armut (poverty)
+- Armut (pauvreté)
 
-- Solo (various types)
+- Solo (divers types)
 
-Whoever has the highest ranking Vorbehalt plays their game. If more than one player has the same Vorbehalt - for example more than one wanting to play a Solo, then the first of these players in the bidding order plays their game. 
+Celui qui a le Vorbehalt le plus élevé joue sa partie. Si plusieurs joueurs ont le même Vorbehalt — par exemple plusieurs souhaitant jouer un Solo — c'est le premier de ces joueurs dans l'ordre des enchères qui joue sa partie.
 
-### Normal Game
+### Partie normale
 
-In the normal game, when everyone says "Gesund", the cards rank as above and the two players who hold the queens of clubs (known as the **old women**) are partners against the other two. The players with the queens of clubs do **not** say who they are (except sometimes by means of specific announcements during the play, which are explained later), so during the play you sometimes do not know who your partner is.
+Dans la partie normale, quand tout le monde dit « Gesund », les cartes sont classées comme ci-dessus et les deux joueurs qui détiennent les dames de trèfle (connues comme les **vieilles dames**) sont partenaires contre les deux autres. Les joueurs avec les dames de trèfle ne disent **pas** qui ils sont (sauf parfois au moyen d'annonces spécifiques pendant le jeu, qui sont expliquées plus loin), donc pendant le jeu on ne sait parfois pas qui est son partenaire.
 
-If a player has both of the queens of clubs but says "Gesund", along with everyone else, that player plays alone against the other three players in partnership, though the other players will not realise initially that they are all together. This is called a **silent solo**.
+Si un joueur a les deux dames de trèfle mais dit « Gesund » comme tout le monde, ce joueur joue seul contre les trois autres en partenariat, bien que les autres joueurs ne s'en rendent pas compte initialement. Cela s'appelle un **solo silencieux**.
 
-### Hochzeit (marriage)
+### Hochzeit (mariage)
 
-Usually a player who has both queens of clubs will not be strong enough to play a silent solo, and will want a partner. This is achieved by saying "Vorbehalt" during the bidding, and announcing a **Hochzeit** (marriage). If no one has a better Vorbehalt, a normal game is played except that the first player other than the holder of the marriage who wins a trick becomes the marriage holder's partner. However, this must happen within the first three tricks - if you announce a marriage and then win the first three tricks you play on your own against the other three players.
+En général, un joueur qui a les deux dames de trèfle n'aura pas la force nécessaire pour jouer un solo silencieux, et voudra un partenaire. Cela se fait en disant « Vorbehalt » lors des enchères, et en annonçant une **Hochzeit** (mariage). Si personne n'a de Vorbehalt supérieur, une partie normale est jouée, sauf que le premier joueur autre que le détenteur du mariage qui gagne un pli devient le partenaire du détenteur du mariage. Cependant, cela doit se produire dans les trois premiers plis — si vous annoncez un mariage et gagnez ensuite les trois premiers plis, vous continuez seul contre les trois autres joueurs.
 
-### Armut (poverty)
+### Armut (pauvreté)
 
-A person with three or fewer trumps can say "Vorbehalt" (reservation) and then announce **Armut** (poverty). If no one has a better Vorbehalt, the person announcing Armut places three cards face down on the table. These three cards must contain all the Armut player's trumps. A player who wishes to become the Armut player's partner has the right to take these three cards (without seeing them first) and then discard any three cards, which are returned to the Armut player. The returned cards may contain trumps and may include cards originally passed. The player to the left of the player who says Armut has the first chance to become the partner; if this player does not wish to, the opportunity passes around the table to the left - each player may pass or accept, and the first player to accept takes the three cards and becomes the partner. If nobody wants to partner the player with Armut, all the cards are thrown in and shuffled and the hand is redealt by the same dealer.
+Une personne ayant trois atouts ou moins peut dire « Vorbehalt » (réserve) puis annoncer **Armut** (pauvreté). Si personne n'a de Vorbehalt supérieur, la personne annonçant l'Armut pose trois cartes face cachée sur la table. Ces trois cartes doivent contenir tous les atouts du joueur. Un joueur qui souhaite devenir le partenaire du joueur en situation d'Armut a le droit de prendre ces trois cartes (sans les voir au préalable) puis de défausser trois cartes de son choix, qui sont retournées au joueur en situation d'Armut. Les cartes retournées peuvent contenir des atouts et peuvent inclure des cartes originellement passées. Le joueur à la gauche du joueur qui a dit Armut a la première chance de devenir partenaire ; s'il ne le souhaite pas, l'opportunité passe autour de la table vers la gauche — chaque joueur peut passer ou accepter, et le premier joueur à accepter prend les trois cartes et devient le partenaire. Si personne ne veut être partenaire du joueur en situation d'Armut, toutes les cartes sont rassemblées, mélangées, et la main est redistribuée par le même donneur.
 
 ### Solo
 
-A solo is a game played alone, against the other three playing as a team. There are several types:
+Un solo est une partie jouée seul, contre les trois autres jouant en équipe. Il en existe plusieurs types :
 
-**Trump Solo:** 
-Declarer names a trump suit. If it is diamonds, the cards rank as normal. If the trump suit is not diamonds, the **A 10 K 9** of diamonds become a side suit, and the cards of the suit named as trumps become part of the trump suit in their place. If hearts are trumps the **![heart](../images/internat/heart.gif)10**s still rank as the highest trumps, and there are only 24 trumps.
+**Solo d'atout :**
+Le Déclarant nomme une couleur d'atout. Si ce sont les carreaux, les cartes sont classées normalement. Si la couleur d'atout n'est pas le carreau, les **A 10 R 9** de carreau deviennent une couleur secondaire, et les cartes de la couleur nommée comme atout prennent leur place dans l'atout. Si les cœurs sont l'atout, les **![cœur](../images/internat/heart.gif)10** restent les atouts les plus élevés, et il n'y a que 24 atouts.
 
-**Queen (Damen) Solo:** 
-Only the 8 Queens are trumps, ranking **![club](../images/internat/club.gif)Q ![spade](../images/internat/spade.gif)Q ![heart](../images/internat/heart.gif)Q ![diamond](../images/internat/diamond.gif)Q** as usual. All four suits rank **A 10 K J 9**.
+**Solo de Dames :**
+Seules les 8 Dames sont des atouts, classées **![trèfle](../images/internat/club.gif)D ![pique](../images/internat/spade.gif)D ![cœur](../images/internat/heart.gif)D ![carreau](../images/internat/diamond.gif)D** comme d'habitude. Les quatre couleurs sont classées **A 10 R V 9**.
 
-**Jack (Buben) Solo:** 
-Only the 8 Jacks are trumps, ranking **![club](../images/internat/club.gif)J ![spade](../images/internat/spade.gif)J ![heart](../images/internat/heart.gif)J ![diamond](../images/internat/diamond.gif)J** as usual. The suits rank **A 10 K Q 9**.
+**Solo de Valets :**
+Seuls les 8 Valets sont des atouts, classés **![trèfle](../images/internat/club.gif)V ![pique](../images/internat/spade.gif)V ![cœur](../images/internat/heart.gif)V ![carreau](../images/internat/diamond.gif)V** comme d'habitude. Les couleurs sont classées **A 10 R D 9**.
 
-**Ace Solo:** 
-There are no trumps, all suits rank **A 10 K Q J 9**. This contract is also called **Fleischloser** (meat free or vegetarian solo).
+**Solo d'As :**
+Il n'y a pas d'atout, toutes les couleurs sont classées **A 10 R D V 9**. Ce contrat est aussi appelé **Fleischloser** (solo sans viande ou végétarien).
 
-## Play
+## Le jeu
 
-The play is in tricks of four cards, with the winner of each trick leading to the next. The player to the left of the dealer leads to the first trick. You must follow suit if you can; if you cannot follow suit, any card may be played. If there is a trump on the trick, the highest one wins, otherwise the highest card in the suit led wins. If there are two identical highest cards played, the first one played wins.
+Le jeu se fait par plis de quatre cartes, le vainqueur de chaque pli menant au suivant. Le joueur à la gauche du donneur mène le premier pli. Vous devez suivre la couleur si vous le pouvez ; si vous ne pouvez pas suivre, n'importe quelle carte peut être jouée. S'il y a un atout dans le pli, le plus élevé l'emporte ; sinon, la plus haute carte de la couleur demandée l'emporte. S'il y a deux cartes identiques les plus hautes jouées, la première jouée l'emporte.
 
-The trumps are a suit of their own for suit following purposes - for example, in a normal game, the queen of spades is a trump, not a spade. You cannot play the queen of spades when spades are led (unless you are out of genuine spades, in which case you can play anything). Similarly, if the queen of spades is led, everyone must if possible play trumps (not spades).
+Les atouts forment une couleur à part pour l'obligation de suivre — par exemple, dans une partie normale, la dame de pique est un atout, pas un pique. Vous ne pouvez pas jouer la dame de pique quand le pique est demandé (sauf si vous n'avez plus de vrais piques, auquel cas vous pouvez jouer n'importe quoi). De même, si la dame de pique est menée, tout le monde doit si possible jouer des atouts (et non des piques).
 
-## Announcements during the play
+## Annonces pendant le jeu
 
-In a normal game, the team with the queens of clubs are called the **Re team**. In case of a Vorbehalt, the Re team is the team of the player who specifies the game (the marriage holder, the team who exchange cards in Armut, or the lone player in a solo). The basic aim of the Re team is to take at least 121 card points in the cards they win in their tricks. The opposing team is called the **Kontra team**; their basic aim is to take cards worth at least 120 points.
+Dans une partie normale, l'équipe avec les dames de trèfle est appelée l'équipe **Re**. En cas de Vorbehalt, l'équipe Re est l'équipe du joueur qui spécifie le jeu (le détenteur du mariage, l'équipe qui échange des cartes en cas d'Armut, ou le joueur seul en solo). L'objectif de base de l'équipe Re est de prendre au moins 121 points dans les cartes qu'elle gagne à ses plis. L'équipe adverse est appelée l'équipe **Kontra** ; leur objectif de base est de prendre des cartes valant au moins 120 points.
 
-A member of the Re team may at any time while they have 11 or more cards in their hand announce "Re", which increases the score for the game. Similarly, a member of the Kontra team may while they have 11 or more cards in their hand announce "Kontra". If Re or Kontra has been announced by the appropriate team, a member of the other side can announce Kontra or Re while they have 10 or more cards in their hand. If Kontra is announced but not Re, then the Re team only need 120 points to win, rather than 121. 
+Un membre de l'équipe Re peut à tout moment, tant qu'il a 11 cartes ou plus en main, annoncer « Re », ce qui augmente le score de la partie. De même, un membre de l'équipe Kontra peut annoncer « Kontra » tant qu'il a 11 cartes ou plus en main. Si Re ou Kontra a été annoncé par l'équipe appropriée, un membre de l'autre camp peut annoncer Kontra ou Re tant qu'il a 10 cartes ou plus en main. Si Kontra est annoncé mais pas Re, alors l'équipe Re n'a besoin que de 120 points pour gagner, au lieu de 121.
 
-Note that announcements can be made at any time during the play, provided that you have at least the requisite number of cards, not just when it is your turn to play.
+Notez que les annonces peuvent être faites à tout moment pendant le jeu, à condition d'avoir au moins le nombre requis de cartes, et pas seulement lorsque c'est votre tour de jouer.
 
-If one side fails to make 90 points the other side wins an extra bonus for "no 90", similarly there are bonuses for "no 60", "no 30" and Schwarz (all the tricks). Each of these bonuses can be increased in value by announcing it in advance. To make an announcement, the player must have at least the number of cards shown below:
+Si un camp échoue à atteindre 90 points, l'autre camp gagne un bonus supplémentaire pour « pas 90 », de même il y a des bonus pour « pas 60 », « pas 30 » et Schwarz (tous les plis). Chacun de ces bonus peut être augmenté en valeur en l'annonçant à l'avance. Pour faire une annonce, le joueur doit avoir au moins le nombre de cartes indiqué ci-dessous :
 
-- "No 90" - 10 cards or more
+- « Pas 90 » — 10 cartes ou plus
 
-- "No 60" - 9 cards or more
+- « Pas 60 » — 9 cartes ou plus
 
-- "No 30" - 8 cards or more
+- « Pas 30 » — 8 cartes ou plus
 
-- "Schwarz" - 7 cards or more
+- « Schwarz » — 7 cartes ou plus
 
-An announcement can only be made if the team has already made all the previous announcements (including Re or Kontra), so for example "no 90" can only be announced by a team that has said "Re" or "Kontra", and the declarer's side cannot announce "no 60" unless they have already announced "Re" and "no 90".
+Une annonce ne peut être faite que si l'équipe a déjà fait toutes les annonces précédentes (y compris Re ou Kontra), ainsi par exemple « pas 90 » ne peut être annoncé que par une équipe qui a dit « Re » ou « Kontra », et le camp du Déclarant ne peut pas annoncer « pas 60 » s'il n'a pas déjà annoncé « Re » et « pas 90 ».
 
-When an announcement has been made, the other side can announce "Re" or "Kontra" as appropriate (if they have not already done so), so long as they still have a number of cards in their hand which is 1 fewer than the number of cards required to make the announcement. For example if the Re team announce "Re", "no 90" and "no 60", a player of the Kontra team can announce "Kontra" as long as they still hold at least 8 cards.
+Lorsqu'une annonce a été faite, l'autre camp peut annoncer « Re » ou « Kontra » selon le cas (s'ils ne l'ont pas déjà fait), tant qu'ils ont encore en main un nombre de cartes inférieur d'une unité au nombre requis pour faire l'annonce. Par exemple, si l'équipe Re annonce « Re », « pas 90 » et « pas 60 », un joueur de l'équipe Kontra peut annoncer « Kontra » tant qu'il a encore au moins 8 cartes.
 
-If a player has announced a marriage, no announcements can be made until after the end of the trick on which the partnership is determined, and the number of cards required to make a bid is reduced by the number of tricks taken to determine the partnership. For example, if person with the club queens wins the first trick but not the second, then the partnerships are determined at trick 2, so Re or Kontra can be declared from the end of trick 2, for as long as you have at least 9 (11 - 2) cards in hand.
+Si un joueur a annoncé un mariage, aucune annonce ne peut être faite avant la fin du pli qui détermine le partenariat, et le nombre de cartes requis pour faire une enchère est réduit du nombre de plis joués pour déterminer le partenariat. Par exemple, si la personne avec les dames de trèfle gagne le premier pli mais pas le second, les partenariats sont déterminés au pli 2, ainsi Re ou Kontra peuvent être déclarés à partir de la fin du pli 2, tant qu'il vous reste au moins 9 (11 - 2) cartes en main.
 
-A player announcing "no 90", "no 60", etc. must state whether he or she belongs to the Re-team or the Kontra-team if it is not already established. This may be necessary, for example, if both "Re" and "Kontra" have already been announced, and a third player wishes to announce "no 90". It is possible, though unusual, for both teams to announce "no 90" on the same deal.
+Un joueur annonçant « pas 90 », « pas 60 », etc. doit indiquer s'il appartient à l'équipe Re ou à l'équipe Kontra si cela n'est pas déjà établi. Cela peut être nécessaire, par exemple, si « Re » et « Kontra » ont déjà été annoncés, et qu'un troisième joueur souhaite annoncer « pas 90 ». Il est possible, bien qu'inhabituel, que les deux équipes annoncent « pas 90 » lors de la même donne.
 
-## Scoring
+## Comptage
 
-The score is kept on a piece of paper, with a column for each player, containing their cumulative total of points. The scores always add up to zero, and can be thought of as the amount of money won or lost by each player. When two play against two, each player pays to or receives from one opponent; when one plays alone against three, the lone player pays to or receives from all three opponents. Thus if the players are A, B, C and D, and the team consisting of B and C wins 3 points, then B and C each score plus 3 and A and D each score minus 3. In a solo, if (say) D is the lone player and wins 4, then D actually scores plus 12, and A, B and C score minus 4 each.
+Le score est tenu sur une feuille de papier, avec une colonne pour chaque joueur, contenant leur total cumulé de points. Les scores s'additionnent toujours à zéro, et peuvent être considérés comme le montant d'argent gagné ou perdu par chaque joueur. Quand deux jouent contre deux, chaque joueur paie ou reçoit d'un adversaire ; quand un joue seul contre trois, le joueur seul paie ou reçoit des trois adversaires. Ainsi si les joueurs sont A, B, C et D, et que l'équipe composée de B et C gagne 3 points, alors B et C marquent chacun +3 et A et D marquent chacun -3. Dans un solo, si (par exemple) D est le joueur seul et gagne 4, alors D marque en fait +12, et A, B et C marquent chacun -4.
 
-The basic score for the game is one point; this is what the **Re team** win if they take at least 121 card points and nothing else happens. If the **Kontra team**; take at least 120 points, they win two points, one for the game and one for being **gegen die Alten** (against the old women).
+Le score de base de la partie est d'un point ; c'est ce que l'équipe **Re** gagne si elle prend au moins 121 points et rien d'autre ne se produit. Si l'équipe **Kontra** prend au moins 120 points, elle gagne deux points, un pour la partie et un pour être **gegen die Alten** (contre les vieilles dames).
 
-An announcement of "Re" or "Kontra" adds 2 further points to the score for the side that wins the game. If both are announced, that makes 4 extra points in total. For example, if "Re" and "Kontra" are announced and the Kontra team win, they score 6 points altogether (game 1, against the old women 1, Re 2, Kontra 2).
+Une annonce de « Re » ou « Kontra » ajoute 2 points supplémentaires au score du camp qui gagne la partie. Si les deux sont annoncés, cela fait 4 points supplémentaires au total. Par exemple, si « Re » et « Kontra » sont annoncés et l'équipe Kontra gagne, elle marque 6 points au total (partie 1, contre les vieilles dames 1, Re 2, Kontra 2).
 
-"No 90", "no 60", "no 30" and Schwarz are worth an extra point each, and all the applicable items apply, so for example if the Re team announce "Re" and the Kontra team take only 24 card points, the Re team will score 6 points (1 for game, 2 for Re, 1 for no 90, 1 for no 60, 1 for no 30).
+« Pas 90 », « pas 60 », « pas 30 » et Schwarz valent un point supplémentaire chacun, et tous les éléments applicables s'ajoutent, ainsi par exemple si l'équipe Re annonce « Re » et l'équipe Kontra ne prend que 24 points, l'équipe Re marquera 6 points (1 pour la partie, 2 pour Re, 1 pour pas 90, 1 pour pas 60, 1 pour pas 30).
 
-Announcements of "No 90", "no 60", "no 30" and Schwarz increase the score by an extra point each. However, if the team fails to fulfil the announcement, they lose the whole game, and the scores for all the points they would have won. For example, if a side announces "Re", "no 90" and "no 60" they need at least 181 card points to win. If they take only 172 card points (i.e. the opponents take 68, which is more than 60) then the announcing side loses:
+Les annonces de « Pas 90 », « pas 60 », « pas 30 » et Schwarz augmentent le score d'un point supplémentaire chacune. Cependant, si l'équipe échoue à honorer l'annonce, elle perd toute la partie, ainsi que les points qu'elle aurait gagnés. Par exemple, si un camp annonce « Re », « pas 90 » et « pas 60 », il lui faut au moins 181 points pour gagner. S'il ne prend que 172 points (c'est-à-dire que les adversaires en prennent 68, soit plus de 60), le camp annonçeur perd :
 
-|   | 1 | for game |
-|   | 1 | for against the old women |
-|   | 2 | for Re |
-|   | 1 | for no 90 |
-|   | 1 | for no 90 announced |
-|   | 1 | for no 60 |
-|   | 1 | for no 60 announced |
-| Total: | 8 | game points (-8 to each of the Re side, +8 to each of the Kontra side) |
+|   | 1 | pour la partie |
+|   | 1 | pour contre les vieilles dames |
+|   | 2 | pour Re |
+|   | 1 | pour pas 90 |
+|   | 1 | pour pas 90 annoncé |
+|   | 1 | pour pas 60 |
+|   | 1 | pour pas 60 annoncé |
+| Total : | 8 | points de jeu (-8 pour chaque côté Re, +8 pour chaque côté Kontra) |
 
-If the "no 60" had not been announced the Re side would instead have won 5 game points (Game, Re 2, no 90, no 90 announced). If they had only announced Re they would have won 4 (Game, Re 2, no 90).
+Si le « pas 60 » n'avait pas été annoncé, le côté Re aurait plutôt gagné 5 points de jeu (Partie, Re 2, pas 90, pas 90 annoncé). S'il n'avait annoncé que Re, il aurait gagné 4 (Partie, Re 2, pas 90).
 
-Another example: One side announces "Re" and "no 90", the other "Kontra". The Re team take 88 card points (no 90). They lose 9 (no 90 made by the Kontra side, game, women, Re 2, Kontra 2, no 90, no 90 announced).
+Un autre exemple : un camp annonce « Re » et « pas 90 », l'autre « Kontra ». L'équipe Re prend 88 points (pas 90). Elle perd 9 (pas 90 réalisé par le camp Kontra, partie, dames, Re 2, Kontra 2, pas 90, pas 90 annoncé).
 
-In addition to the points described above, there are a number of game points that can be scored during play, which are independent of the game and other points, and can be scored by either team whether or not the game succeeds. These are:
+En plus des points décrits ci-dessus, il existe un certain nombre de points de jeu qui peuvent être marqués pendant le jeu, indépendants de la partie et des autres points, et qui peuvent être marqués par l'un ou l'autre camp que la partie réussisse ou non. Ce sont :
 
-**Catching a Fox** 
-A team which captures a "Fox" (Ace of Diamonds) from the opponents - i.e. wins a trick which contains an opponent's ace of diamonds - scores one game point. The Ace is left face up in the pile of tricks to indicate the point. It may not be clear when the trick is won whether the Ace came from the winner's partner or opponent, in which case it is left face up and turned over if necessary when the partnership becomes clear.
+**Capturer un Renard**
+Une équipe qui capture un « Renard » (As de carreau) des adversaires — c'est-à-dire gagne un pli contenant l'as de carreau d'un adversaire — marque un point de jeu. L'As est laissé face visible dans la pile de plis pour indiquer le point. Il peut ne pas être clair, au moment où le pli est gagné, si l'As vient du partenaire ou de l'adversaire du gagnant, auquel cas il est laissé face visible et retourné si nécessaire lorsque le partenariat devient clair.
 
 **Charlie Miller (Karlchen Müller)**
-Winning the last trick with Jack of Clubs scores one game point. Playing it to the last trick loses a point if the trick is won by the opponents, there is no score either way if the trick is won by the partner.
+Gagner le dernier pli avec le Valet de trèfle marque un point de jeu. Le jouer au dernier pli fait perdre un point si le pli est gagné par les adversaires ; il n'y a pas de score dans un sens ou l'autre si le pli est gagné par le partenaire.
 
-**Doppelkopf**. 
-Winning a trick where all four cards are 10s and Aces scores one game point. When this happens, one of the cards is placed face up in the pile of tricks won to indicate the point.
+**Doppelkopf.**
+Gagner un pli où les quatre cartes sont des 10 et des As marque un point de jeu. Lorsque cela se produit, une des cartes est placée face visible dans la pile de plis gagnés pour indiquer le point.
 
-All these points apply to the whole team - for example if you win the last trick with a Charlie, your partner benefits as well. It is possible for two or three points to be scored on one trick, e.g. if an opponent's fox is beaten by the Charlie on the last trick. 
+Tous ces points s'appliquent à l'équipe entière — par exemple si vous gagnez le dernier pli avec un Charlie, votre partenaire en bénéficie aussi. Il est possible de marquer deux ou trois points sur un seul pli, par exemple si le renard d'un adversaire est battu par le Charlie sur le dernier pli.
 
-Fox and Charlie cannot be scored in a solo. 
+Le Renard et Charlie ne peuvent pas être marqués dans un solo.
 
-## Tournament Play
+## Jeu en tournoi
 
-Tournaments are normally played in a number of sessions of 24 deals, each session consisting of 20 normal hands plus 4 compulsory solos (if their are five players rather than four, then 25 hands with five solos).
+Les tournois se jouent généralement en un certain nombre de sessions de 24 donnes, chaque session consistant en 20 mains normales plus 4 solos obligatoires (s'il y a cinq joueurs au lieu de quatre, alors 25 mains avec cinq solos).
 
-Each player must bid one "compulsory" solo during the session, and may bid other "lust" solos. The first solo each player bids is counted as their compulsory solo, and they get the lead. After the hand the same dealer deals again.
+Chaque joueur doit enchérir un solo « obligatoire » pendant la session, et peut enchérir d'autres solos « volontaires ». Le premier solo enchéri par chaque joueur compte comme son solo obligatoire, et il a la donne. Après la main, le même donneur redistribue.
 
-A compulsory solo ranks above a lust solo in the bidding; if more than one player wants to play a compulsory solo the earliest in the bidding order plays. If a player fails to bid a solo by the end of a session, an additional hand is dealt on which they must bid solo.
+Un solo obligatoire surclasse un solo volontaire lors des enchères ; si plusieurs joueurs souhaitent jouer un solo obligatoire, celui qui est le plus tôt dans l'ordre des enchères joue. Si un joueur n'a pas enchéri de solo avant la fin d'une session, une main supplémentaire est distribuée dans laquelle il doit enchérir un solo.
 
-## Notes on Play and Tactics
+## Notes sur le jeu et la tactique
 
-The rule that the first of equal cards wins makes it very important to lead your ace of a side suit before an opponent can lead theirs, as the second round is almost certain to be trumped - there are only 8 cards in a suit (6 in hearts). If you happen to have both aces in a suit, then it is not urgent to lead one. Therefore, if on lead at the start, you priorities are usually: 
+La règle selon laquelle la première des cartes égales l'emporte rend très important de mener votre as d'une couleur secondaire avant qu'un adversaire ne puisse mener le sien, car le deuxième tour sera presque certainement coupé — il n'y a que 8 cartes dans une couleur (6 dans les cœurs). Si vous avez les deux as d'une couleur, il n'est alors pas urgent d'en mener un. Par conséquent, si vous avez la donne au début, vos priorités sont généralement :
 
-- lead a single black ace (shortest suit first with two); 
+- mener un as noir seul (couleur la plus courte d'abord s'il y en a deux) ;
 
-- lead a single ace of hearts; 
+- mener un as de cœur seul ;
 
-- lead an ace from a pair.
+- mener un as d'une paire.
 
-After this, you normally try to give the lead to your partner. If you are on the Re side you will normally lead a trump to your partner's **![club](../images/internat/club.gif)Q**. If on the Kontra side you may lead a side suit (this is not always done, but gives a good indication of which side the leader is on). However, if your partner has said Kontra you should lead a trump as they should have at least one **![heart](../images/internat/heart.gif)10** (and may well want you to lead trumps).
+Après cela, vous essayez normalement de donner la donne à votre partenaire. Si vous êtes du côté Re, vous menerez généralement un atout vers la ![trèfle](../images/internat/club.gif)D de votre partenaire. Si vous êtes du côté Kontra, vous pouvez mener une couleur secondaire (ce n'est pas toujours fait, mais c'est une bonne indication du côté du meneur). Cependant, si votre partenaire a dit Kontra, vous devriez mener un atout car il devrait avoir au moins un ![cœur](../images/internat/heart.gif)10 (et voudra probablement que vous meniez des atouts).
 
-If you are trumping in, and there is a possibility of being overtrumped, trump with at least a Jack so that the fourth player cannot win with a Fox or 10 of trumps. Similarly, if trumps are led then if you are the last player of your team to play to the trick, with one or both opponents after you, play a Jack or higher if no high card has been played so far.
+Si vous coupez et qu'il y a une possibilité d'être surcoupé, coupez avec au moins un Valet pour que le quatrième joueur ne puisse pas gagner avec un Renard ou un 10 d'atout. De même, si des atouts sont menés, si vous êtes le dernier joueur de votre équipe à jouer au pli, avec un ou les deux adversaires après vous, jouez un Valet ou plus si aucune carte élevée n'a encore été jouée.
 
-It is important that you announce Re or Kontra if things seem to be going well, not only to increase the score for the game but also so that you can announce no 90 if things continue to go well.
+Il est important d'annoncer Re ou Kontra si les choses semblent bien se passer, non seulement pour augmenter le score de la partie mais aussi pour pouvoir annoncer pas 90 si les choses continuent d'aller bien.
 
-If you announce Re or Kontra earlier than you need to, for example on your first play rather than your second, this indicates a possession of additional strength (normally high trumps, which are very important in play).
+Si vous annoncez Re ou Kontra plus tôt que nécessaire, par exemple lors de votre première carte plutôt que de la deuxième, cela indique la possession d'une force supplémentaire (généralement des atouts élevés, qui sont très importants dans le jeu).
 
-If on the opening lead the fourth player says Re or Kontra before second hand plays, this indicates that they are going to trump the lead and want their partner to put a valuable card on it.
+Si lors de l'ouverture le quatrième joueur dit Re ou Kontra avant que le deuxième joueur ne joue, cela indique qu'il va couper la carte menée et veut que son partenaire y mette une carte de valeur.
 
-It is almost always correct to announce a marriage - rarely will you have a hand so good that it is profitable to go solo instead. It is always desirable to become the partner of a player with a marriage - you get a partner with at least 2 high trumps. Therefore, if on lead against a marriage you might lead a **![heart](../images/internat/heart.gif)10** to win the trick; otherwise you could lead an ace in your shortest suit.
+Il est presque toujours correct d'annoncer un mariage — on a rarement une main assez bonne pour qu'il soit rentable de faire un solo à la place. Il est toujours souhaitable de devenir le partenaire d'un joueur avec un mariage — on obtient un partenaire avec au moins 2 atouts élevés. Par conséquent, si vous avez la donne contre un mariage, vous pourriez mener un ![cœur](../images/internat/heart.gif)10 pour gagner le pli ; sinon vous pourriez mener un as dans votre couleur la plus courte.
 
-A game with Armut (poverty) is easier to win than it sounds, because the poverty player can discard valuable cards on partner's tricks, and also because the accepting player gets the chance to create voids.
+Une partie avec Armut (pauvreté) est plus facile à gagner qu'elle n'en a l'air, car le joueur en situation de pauvreté peut défausser des cartes précieuses sur les plis de son partenaire, et aussi parce que le joueur accepteur a l'opportunité de créer des coupes.
 
-When considering a solo, possession of the initial lead is a big advantage on most hands. Trump solos require a much stronger hand than you might at first think, and these hands will also play well in a normal game. For an Ace solo, a five card suit to **A A 10** will normally capture over 60 points. For a Queen or Jack solo 4 trumps are often sufficient, but you also need a reasonable number of aces.
+Lorsque l'on envisage un solo, la possession de la première donne est un grand avantage sur la plupart des mains. Les solos d'atout nécessitent une main beaucoup plus forte qu'on ne le penserait au premier abord, et ces mains se jouent également bien dans une partie normale. Pour un solo d'As, une couleur de cinq cartes avec A A 10 capturera normalement plus de 60 points. Pour un solo de Dames ou de Valets, 4 atouts suffisent souvent, mais il faut aussi un nombre raisonnable d'as.
 
-Because announcing no 90/60/30 changes the target, you are gambling 1 extra point against the possible loss of the whole game, so you must be very certain of making the announcement.
+Comme annoncer pas 90/60/30 modifie l'objectif, vous pariez 1 point supplémentaire contre la perte possible de toute la partie, vous devez donc être très certain de votre annonce.
 
-It is often bad to lead the second round of hearts, because of the danger of giving a ruff and discard to the opponents, since there are only six cards in the suit.
+Il est souvent mauvais de mener le deuxième tour de cœurs, en raison du danger de donner une coupe et un défaussement aux adversaires, puisque la couleur ne compte que six cartes.
 
-In tournament play, it is very likely that a player will not get a hand which warrants a solo bid during the session and so a compulsory solo, particularly towards the end, should almost always have Kontra said if declarer does not say Re.
+En jeu de tournoi, il est très probable qu'un joueur n'aura pas de main justifiant un solo pendant la session, donc un solo obligatoire, surtout vers la fin, devrait presque toujours faire l'objet d'un Kontra si le Déclarant n'a pas dit Re.
 
-## Variations
+## Variantes
 
-Two of the commonest variants, both worth trying, are:
+Deux des variantes les plus courantes, qui valent la peine d'être essayées, sont :
 
-1. The second 10 of hearts wins if both are played to the same trick. This reduces the power of these cards, and prevents the lead of one in order to become the partner of a marriage. **Variant:** the second 10 of hearts wins except on the last trick.
+1. Le deuxième 10 de cœur l'emporte si les deux sont joués au même pli. Cela réduit le pouvoir de ces cartes, et empêche d'en mener une pour devenir le partenaire d'un mariage. **Variante :** le deuxième 10 de cœur l'emporte sauf au dernier pli.
 
-2. If several players want to bid a solo, a player later in the bidding can announce "no 90". The first player may either pass, letting the second solo play, or hold the bid and themselves play in solo with no 90 announced; the second solo may then announce no 60, and so on. The first player can hold this by making the same announcement, which in turn can be outbid with a further announcement, and so on.
+2. Si plusieurs joueurs veulent enchérir un solo, un joueur plus tard dans les enchères peut annoncer « pas 90 ». Le premier joueur peut soit passer, laissant le deuxième solo jouer, soit maintenir l'enchère et jouer lui-même en solo avec « pas 90 » annoncé ; le deuxième solo peut alors annoncer « pas 60 », et ainsi de suite. Le premier joueur peut maintenir en faisant la même annonce, qui peut à son tour être surclassée par une annonce ultérieure, et ainsi de suite.
 
-Some further variants are:
+D'autres variantes :
 
-3. Many people remove all the nines and play with a 40 card pack. This makes the trumps even more important and reduces scope for play in the side suits.
+3. Beaucoup de gens retirent tous les 9 et jouent avec un jeu de 40 cartes. Cela rend les atouts encore plus importants et réduit les possibilités de jeu dans les couleurs secondaires.
 
-4. Some play that Re and Kontra double the score for the game, rather than adding two. Some play that the scores for foxes and Charlie are also doubled.
+4. Certains jouent que Re et Kontra doublent le score de la partie, au lieu d'ajouter deux. Certains jouent que les scores pour les renards et Charlie sont aussi doublés.
 
-5. Schmeißen. A player with particularly bad cards can annul the hand and demand a redeal. There are various versions of what you need to do this:
+5. Schmeißen. Un joueur avec des cartes particulièrement mauvaises peut annuler la main et demander une redistribution. Il existe diverses versions de ce qu'il faut pour cela :
 
-- At least five 9s 
+- Au moins cinq 9
 
-- At least 6 (or sometimes 5) Kings
+- Au moins 6 (ou parfois 5) Rois
 
-- Four kings and four nines
+- Quatre rois et quatre neuf
 
-- At least 8 cards that are tens or aces
+- Au moins 8 cartes qui sont des dix ou des as
 
-- At most one trump
+- Au plus un atout
 
-6. Some variations on Armut:
+6. Variantes sur l'Armut :
 
-- Aces of diamonds do not count towards the three trumps for Armut.
+- Les as de carreau ne comptent pas vers les trois atouts pour l'Armut.
 
-- The Armut player may only offer the trumps they hold for exchange (and must offer all of them), ie they might have to offer fewer than three cards.
+- Le joueur en situation d'Armut ne peut offrir à l'échange que les atouts qu'il détient (et doit les offrir tous), il pourrait ainsi avoir à offrir moins de trois cartes.
 
-- Trumps may not be passed back to the Armut player.
+- Les atouts ne peuvent pas être renvoyés au joueur en situation d'Armut.
 
-- *(Ralf Wirth's version)* An Armut player announces which team they belong to (Re or Kontra) according to whether or not they hold a **![club](../images/internat/club.gif)Q**; the other player of that team must take the three cards. In this variation two players on opposite teams can play Armut at once; if two players on the same team have Armut the deal is annulled. An Armut can be played at the same time as a Hochzeit - the Armut player is automatically on the Re team and exchanges with the Hochzeit player. If the Hochzeit player also announces Armut, or if two players other than the Hochzeit player announce Armut, the deal is annulled.
+- *(Version de Ralf Wirth)* Un joueur en situation d'Armut annonce à quelle équipe il appartient (Re ou Kontra) selon qu'il détient ou non une ![trèfle](../images/internat/club.gif)D ; l'autre joueur de cette équipe doit prendre les trois cartes. Dans cette variante, deux joueurs de camps opposés peuvent jouer un Armut en même temps ; si deux joueurs du même camp ont un Armut, la donne est annulée. Un Armut peut être joué en même temps qu'un Hochzeit — le joueur en Armut est automatiquement dans l'équipe Re et échange avec le joueur du Hochzeit. Si le joueur du Hochzeit annonce aussi un Armut, ou si deux joueurs autres que le joueur du Hochzeit annoncent un Armut, la donne est annulée.
 
-- Some players do not allow Armut at all.
+- Certains joueurs ne permettent pas l'Armut du tout.
 
-7. Variations on determining the partnerships in a Hochzeit:
+7. Variantes pour déterminer les partenariats dans un Hochzeit :
 
-- A trick to which a trump is led cannot determine the partnership in a marriage. If all of the first 3 tricks are either trump tricks or won by the person with the marriage, the marriage holder plays alone.
+- Un pli dans lequel un atout est mené ne peut pas déterminer le partenariat dans un mariage. Si les 3 premiers plis sont tous des plis d'atout ou gagnés par la personne ayant le mariage, le détenteur du mariage joue seul.
 
-- (Ralf Wirth's version): the announcer of a Hochzeit has a choice of three ways of choosing a partner - the choice must be made before the first lead:
+- *(Version de Ralf Wirth)* : l'annonceur d'un Hochzeit a le choix entre trois façons de choisir un partenaire — le choix doit être fait avant la première donne :
 
-- First other player to win a trick;
+- Le premier autre joueur à gagner un pli ;
 
-- First other player to win a trump trick;
+- Le premier autre joueur à gagner un pli d'atout ;
 
-- First other player to win a non-trump trick.
+- Le premier autre joueur à gagner un pli non-atout.
 
-8. The number of cards required for each announcement is 12 for Re or Kontra, 10 for no 90, 8 for no 60, 6 for no 30, 4 for schwarz. This remains the same even when a marriage has been announced; in this case, a player who does not yet know which side they are on may say "double" instead of "Re" or "Kontra".
+8. Le nombre de cartes requis pour chaque annonce est de 12 pour Re ou Kontra, 10 pour pas 90, 8 pour pas 60, 6 pour pas 30, 4 pour Schwarz. Cela reste le même même lorsqu'un mariage a été annoncé ; dans ce cas, un joueur qui ne sait pas encore de quel côté il est peut dire « double » au lieu de « Re » ou « Kontra ».
 
-9. Announcements can only be made when it is your turn to play.
+9. Les annonces ne peuvent être faites que lorsque c'est votre tour de jouer.
 
-10. There is an extra bonus point for capturing an opponent's 10 of hearts.
+10. Il y a un point de bonus supplémentaire pour capturer le 10 de cœur d'un adversaire.
 
-11. When playing with 40 cards, there is a bonus point for a trick consisting of all 4 hearts (two aces and two kings).
+11. En jouant avec 40 cartes, il y a un point de bonus pour un pli composé de tous les cœurs (deux as et deux rois).
 
-12. A king solo is allowed - similar to the queen and jack solos but with the four kings as trumps.
+12. Un solo de rois est autorisé — similaire aux solos de dames et de valets mais avec les quatre rois comme atouts.
 
 13. **Schweinchen**
 
-- A person with the two Aces of diamonds (variant, Aces of hearts) can announce **Schweinchen** (piglets) before the start of the play and these cards become the top two trumps, beating the tens of hearts.
+- Une personne ayant les deux As de carreau (variante : les as de cœur) peut annoncer **Schweinchen** (porcelets) avant le début du jeu et ces cartes deviennent les deux atouts les plus élevés, au-dessus des 10 de cœur.
 
-- Some also play that after the two Aces of diamonds have been announced as piglets, a call of **Hyperschweinchen** (hyper-piglets) by a player with the two 9s of diamonds causes them to become the top trumps, above the piglets. If you play with 40 cards, the hyper-piglets are the 10s of diamonds.
+- Certains jouent aussi qu'après que les deux As de carreau ont été annoncés comme porcelets, un appel de **Hyperschweinchen** (hyper-porcelets) par un joueur ayant les deux 9 de carreau fait qu'ils deviennent les atouts les plus élevés, au-dessus des porcelets. Si l'on joue avec 40 cartes, les hyper-porcelets sont les 10 de carreau.
 
-14. Genscher A player who holds both kings of diamonds can, when playing the first of them, announce Genscher and choose a new partner - obviously someone who has already won plenty of points. If the player with the kings belongs to the Re-team, the chosen partner from that moment also joins the Re-team, and the Genscher's old partner goes to the Kontra-team. Conversely, if the Genscher announcer is on the Kontra-team, the chosen partner joins that team, and Genscher's old partner joins the Re-team. All announcements, such as 'no 90', 'no 60', etc., remain as obligations for the player who said them, even if that player is now on a different team. This variant is named after the politician [Hans-Dietrich Genscher](https://en.wikipedia.org/wiki/Hans-Dietrich_Genscher) who switched sides in 1982 from the FDP-SDP coalition to help form the FDP-CDU/CSU coalition, serving as foreign minister and vice chancellor in both.
+14. **Genscher.** Un joueur qui tient les deux rois de carreau peut, en jouant le premier d'entre eux, annoncer Genscher et choisir un nouveau partenaire — évidemment quelqu'un qui a déjà gagné beaucoup de points. Si le joueur avec les rois appartient à l'équipe Re, le partenaire choisi rejoint à partir de ce moment l'équipe Re, et l'ancien partenaire de Genscher passe à l'équipe Kontra. Inversement, si l'annonceur de Genscher est dans l'équipe Kontra, le partenaire choisi rejoint cette équipe, et l'ancien partenaire de Genscher rejoint l'équipe Re. Toutes les annonces, telles que « pas 90 », « pas 60 », etc., restent des obligations pour le joueur qui les a prononcées, même si ce joueur est maintenant dans un camp différent. Cette variante porte le nom du politicien [Hans-Dietrich Genscher](https://en.wikipedia.org/wiki/Hans-Dietrich_Genscher) qui a changé de camp en 1982, passant de la coalition FDP-SDP pour aider à former la coalition FDP-CDU/CSU, servant de ministre des Affaires étrangères et de vice-chancelier dans les deux gouvernements.
 
-15. A Doppelkopf, rather than being a trick containing 40 or more points, is a trick which contains two pairs of identical cards.
+15. Un Doppelkopf, plutôt que d'être un pli contenant 40 points ou plus, est un pli qui contient deux paires de cartes identiques.
 
-16. All solo contracts score double (alternative: all solo contracts are automatically considered to announce Re).
+16. Tous les contrats de solo comptent double (variante : tous les contrats de solo sont automatiquement considérés comme ayant annoncé Re).
 
-17. If several players want to bid solo, the one **latest** in the bidding (rather than earliest) has precedence.
+17. Si plusieurs joueurs veulent enchérir un solo, c'est le **dernier** dans l'ordre des enchères (plutôt que le premier) qui a priorité.
 
-18. There is a bonus score of 2 for winning the last trick with a fox, or for catching a fox in the last trick. Some also play that catching a fox on the first trick counts 2.
+18. Il y a un score de bonus de 2 pour gagner le dernier pli avec un renard, ou pour capturer un renard dans le dernier pli. Certains jouent aussi que capturer un renard au premier pli compte 2.
 
-19. Although there is a point for winning the last trick with a Charlie, there is no penalty for playing a Charlie to the last trick, if the opponents win it.
+19. Bien qu'il y ait un point pour gagner le dernier pli avec un Charlie, il n'y a pas de pénalité pour jouer un Charlie au dernier pli si les adversaires le gagnent.
 
-20. Bockrounds. After certain events there is a Bockround, in which all scores are doubled - this starts with the deal after the event that caused the Bockround, and continues for one deal by each player - i.e. 4 hands if there are 4 players. Events which may be agreed to cause a Bockround include:
+20. **Tours de Bock.** Après certains événements, il y a un tour de Bock dans lequel tous les scores sont doublés — cela commence par la donne après l'événement qui a causé le tour de Bock, et continue pour une donne par chaque joueur — soit 4 mains s'il y a 4 joueurs. Les événements pouvant être convenus pour causer un tour de Bock incluent :
 
-- a trick containing only hearts (if a 40 card pack is used)
+- un pli ne contenant que des cœurs (si un jeu de 40 cartes est utilisé)
 
-- each team takes 120 card points
+- chaque équipe prend 120 points
 
-- the scores for the hand cancel out
+- les scores de la main s'annulent
 
-- the Re team announce Re and lose
+- l'équipe Re annonce Re et perd
 
-- the Kontra team announce Kontra and lose
+- l'équipe Kontra annonce Kontra et perd
 
-21. Instead of the partnerships being determined by the queens of clubs, it is the holders of the two kings of diamonds who are partners and form the Re team.
+21. Au lieu que les partenariats soient déterminés par les dames de trèfle, ce sont les détenteurs des deux rois de carreau qui sont partenaires et forment l'équipe Re.
 
-22. The kings of diamonds are the highest trumps instead of the tens of hearts. The tens of hearts are ordinary hearts between the aces and the kings. This is not played at the same time as variation 14 or 21.
+22. Les rois de carreau sont les atouts les plus élevés au lieu des 10 de cœur. Les 10 de cœur sont des cœurs ordinaires entre les as et les rois. Cela ne se joue pas en même temps que la variante 14 ou 21.
 
-23. The declarer in a solo makes the opening lead, and afterwards the same dealer redeals the next hand.
+23. Le Déclarant d'un solo mène l'ouverture, et ensuite le même donneur redistribue la main suivante.
 
-24. Trump solos and Ace solos are not allowed.
+24. Les solos d'atout et les solos d'As ne sont pas autorisés.
 
-25. The 10s of hearts do not count as trumps, but as ordinary hearts. The highest trumps are the queens of clubs. This was the original rule but is rarely played nowadays.
+25. Les 10 de cœur ne comptent pas comme atouts, mais comme des cœurs ordinaires. Les atouts les plus élevés sont les dames de trèfle. C'était la règle originale mais elle est rarement jouée aujourd'hui.
 
-26. **Zwingen.** If the first trick contains 30 or more points the winner **must** say Re or Kontra (as appropriate). If the trick winner's team has already announced Re or Kontra, the trick winner must announce "no 90".
+26. **Zwingen.** Si le premier pli contient 30 points ou plus, le vainqueur **doit** dire Re ou Kontra (selon le cas). Si l'équipe du vainqueur du pli a déjà annoncé Re ou Kontra, le vainqueur du pli doit annoncer « pas 90 ».
 
-27. Schwarze Sau (Black Sow). One round of this is sometimes played after a Bock round ( or one game after each Bock game). The player who ends up with the second queen of spades in his or her tricks is playing alone - the hand is scored as though that player was playing solo.
+27. **Schwarze Sau** (Truie noire). Un tour de ce jeu est parfois joué après un tour de Bock (ou une partie après chaque partie de Bock). Le joueur qui se retrouve avec la deuxième dame de pique dans ses plis joue seul — la main est comptée comme si ce joueur jouait un solo.
 
-28. **Scharfe** (Sharps). If a player holds both kings of hearts, these are called "scharf" (sharp). The holder announces "scharfe" when playing the first king of hearts.When the kings of hearts are sharp, they count as trumps ranking between the 10s of hearts and the queens of clubs. If no kings of hearts are played to the first heart trick, this may be taken as a clue that someone probably has Scharfe. 
+28. **Scharfe** (Affûtés). Si un joueur tient les deux rois de cœur, ceux-ci sont appelés « scharf » (affûtés). Le détenteur annonce « scharfe » en jouant le premier roi de cœur. Lorsque les rois de cœur sont affûtés, ils comptent comme des atouts classés entre les 10 de cœur et les dames de trèfle. Si aucun roi de cœur n'est joué au premier pli de cœur, cela peut être pris comme un indice que quelqu'un a probablement Scharfe.
 
-## Other Doppelkopf Pages
+## Autres pages sur Doppelkopf
 
-The [Deutscher Doppelkofverband](https://doko-verband.de) (DDV) web site
+Le site web du [Deutscher Doppelkopfverband](https://doko-verband.de) (DDV)
 
-The [Essen system](https://www.dodoko.de/Downloads/Essener_System.pdf) is a system of signalling for tournament use. The system involves choice of lead, timing of announcements and deliberate hesitation during the play (Bridge players may be shocked by this last idea, but many Doppelkopf players consider it legal to hesitate intentionally, for example when waiting to see whether your partner wants to make an announcement).
+Le [système d'Essen](https://www.dodoko.de/Downloads/Essener_System.pdf) est un système de signaux pour les tournois. Le système implique le choix de l'ouverture, le timing des annonces et l'hésitation délibérée pendant le jeu (les joueurs de bridge pourraient être choqués par cette dernière idée, mais de nombreux joueurs de Doppelkopf considèrent qu'il est légal d'hésiter intentionnellement, par exemple en attendant de voir si son partenaire souhaite faire une annonce).
 
-## Doppelkopf Online Games and Software
+## Jeux et logiciels Doppelkopf en ligne
 
-At GameDuell you can play [Doppelkopf](https://www.dpbolvw.net/click-4373756-11122161) online against live opponents.
+Sur GameDuell, vous pouvez jouer au [Doppelkopf](https://www.dpbolvw.net/click-4373756-11122161) en ligne contre des adversaires en direct.
 
-[Fuchstreff](https://www.fuchstreff.de/) is a free Doppelkopf community site where you can meet other players and play Doppelkopf online.
+[Fuchstreff](https://www.fuchstreff.de/) est un site communautaire gratuit pour le Doppelkopf où vous pouvez rencontrer d'autres joueurs et jouer au Doppelkopf en ligne.
 
-From [Skat24.de](http://www.skat24.de/) you can download the Windows program Royal Doppelkopf with which you can play against the computer or against live opponents over the Internet.
+Sur [Skat24.de](http://www.skat24.de/) vous pouvez télécharger le programme Windows Royal Doppelkopf avec lequel vous pouvez jouer contre l'ordinateur ou contre des adversaires en direct sur Internet.
 
-With Michael Fischer's Net Doppelkopf program, available from his [Cutesoft site](https://www.cutesoft.com/), you can play against the computer or against live opponents over a local network or over the Internet.
+Avec le programme Net Doppelkopf de Michael Fischer, disponible sur son [site Cutesoft](https://www.cutesoft.com/), vous pouvez jouer contre l'ordinateur ou contre des adversaires en direct sur un réseau local ou sur Internet.
 
-[Doppelkopf Palast](https://www.doppelkopf-palast.de/) is a cross-platform multiplayer Doppelkopf app which allows users of Android, iOS and Facebook to play together. The website is in German but a complete English language version is available.
+[Doppelkopf Palast](https://www.doppelkopf-palast.de/) est une application multijoueur multiplateforme pour le Doppelkopf qui permet aux utilisateurs d'Android, iOS et Facebook de jouer ensemble. Le site web est en allemand mais une version complète en anglais est disponible.
 
-[Online-Doppelkopf.com](https://www.online-doppelkopf.com/) is a free site where you can play Doppelkopf online.
+[Online-Doppelkopf.com](https://www.online-doppelkopf.com/) est un site gratuit où vous pouvez jouer au Doppelkopf en ligne.
 
-[Isar Interactive](https://www.skat-spiel.de/) publishes a Doppelkopf app for Apple and Android devices .
+[Isar Interactive](https://www.skat-spiel.de/) publie une application Doppelkopf pour appareils Apple et Android.
 
-Uwe Rasche's Doppelkopf program runs under Macintosh and Win95/Win98/NT4/... and you can choose between an [English version](https://english.raschesspiele.de) and a [German version](https://www.raschesspiele.de/).
+Le programme Doppelkopf d'Uwe Rasche fonctionne sous Macintosh et Win95/Win98/NT4/... et vous pouvez choisir entre une [version anglaise](https://english.raschesspiele.de) et une [version allemande](https://www.raschesspiele.de).
 
-[Free Doko](https://free-doko.sourceforge.net) is the home page of a project to produce a free Doppelkopf computer game.
+[Free Doko](https://free-doko.sourceforge.net) est la page d'accueil d'un projet visant à produire un jeu Doppelkopf gratuit.
 
-[e-Doko](https://github.com/arunpersaud/e-Doko/wiki) is a free server on which you can play Doppelkopf by e-mail, each game lasting anywhere from a few minutes to several months!
-
-Home Page > Classified Index > Trick Taking Games > Schafkopf group > Doppelkopf
+[e-Doko](https://github.com/arunpersaud/e-Doko/wiki) est un serveur gratuit sur lequel vous pouvez jouer au Doppelkopf par courriel, chaque partie durant de quelques minutes à plusieurs mois !
