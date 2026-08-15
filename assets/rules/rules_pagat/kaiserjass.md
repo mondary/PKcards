@@ -3,146 +3,144 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Karnöffel, Plis
-**But :** A Swiss descendant of the medieval card game Karnöffel, for 4 or 6 players in partnerships.
+**But :** Descendant suisse du jeu de cartes médiéval Karnöffel, pour 4 ou 6 joueurs en partenariats.
 **Autres noms :** Kaiserspiel
 
 ---
 
 ## Introduction
 
-This game is a direct descendant of Karnöffel, one of the oldest card games known. Karnöffel was referred to as early as 1426 and was the subject of a many sermons and satirical writings in the following centuries. It may appear that most of its dreadfulness lies in the level of anarchy of the play - you can play any card you like to each trick, and can talk as much as you like about what cards you have and what you want your partner to do. In the 15th century what was apparently more shocking was the anarchic card order, taken as symbolising a disruption of the status quo, with the king being beaten by low cards, the Pope (6) beaten by the Under-knave, and special privileges given to the Devil (7).
+Ce jeu est un descendant direct du Karnöffel, l'un des plus anciens jeux de cartes connus. Le Karnöffel est mentionné dès 1426 et a fait l'objet de nombreux sermons et écrits satiriques dans les siècles suivants. On pourrait penser que la majeure partie de sa redoutable réputation réside dans le niveau d'anarchie du jeu — vous pouvez jouer n'importe quelle carte à chaque levée, et parler autant que vous voulez de vos cartes et de ce que vous voulez que votre partenaire fasse. Au XVe siècle, ce qui était apparemment plus choquant était l'ordre anarchique des cartes, perçu comme symbolisant une rupture du statu quo, avec le Roi battu par des cartes basses, le Pape (6) battu par le Valet de dessous, et des privilèges spéciaux accordés au Diable (7).
 
-The modern game of Kaiserjass was originally known as Kaiserspiel, but Jass games have become so ubiquitous in Switzerland that all games with Swiss card are thought of as Jass, although this game really has nothing to do with Jass games proper. 
+Le Kaiserjass moderne s'appelait à l'origine Kaiserspiel, mais les jeux de Jass sont devenus si omniprésents en Suisse que tous les jeux avec des cartes suisses sont considérés comme des jeux de Jass, bien que ce jeu n'ait en réalité rien à voir avec les vrais jeux de Jass.
 
-The version of Kaierjass described on this page is played in a small area around Stans and in the Engelberg valley in Canton Nidwalden, south of Luzern in Switzerland. Of the surviving members of the Karnöffel family, this is one of the closest to the original game. The cards used are similar to the standard Swiss Jass pack, but the suits contain 3, 4, and 5 and not 8 or 9 (all the 8's and 9's should be removed from the pack before playing).
+La version de Kaiserjass décrite sur cette page se joue dans une petite zone autour de Stans et dans la vallée d'Engelberg dans le canton de Nidwald, au sud de Lucerne en Suisse. Parmi les membres survivants de la famille Karnöffel, c'est l'un des plus proches du jeu original. Les cartes utilisées sont similaires au jeu de Jass suisse standard, mais les couleurs contiennent 3, 4 et 5 et non 8 ou 9 (tous les 8 et 9 doivent être retirés du jeu avant de jouer).
 
-Leon Schnyder has reported that versions of Kaiserspiel using the full 48-card pack are still played in a few places in cantons Obwalden, Uri and Luzern.
+Leon Schnyder a signalé que des versions de Kaiserspiel utilisant le jeu complet de 48 cartes sont encore jouées à quelques endroits dans les cantons d'Obwald, d'Uri et de Lucerne.
 
-## The Players
+## Les joueurs
 
-The game is played with fixed partnerships; when there are four players you sit opposite your partner as in Bridge. It is also possible for six to play; the partnerships then consist of teams of three, sitting alternately.
+Le jeu se joue en partenariats fixes ; lorsqu'il y a quatre joueurs, vous êtes assis en face de votre partenaire comme au Bridge. Il est aussi possible de jouer à six ; les partenariats sont alors des équipes de trois, assis en alternance.
 
-Each team elects its captain, and the scoring slate is placed on the table between the two captains.
+Chaque équipe élit son capitaine, et l'ardoise de score est placée sur la table entre les deux capitaines.
 
-## The Object of the Game
+## L'objectif du jeu
 
-The game is of the trick taking type, with trumps, but trumps had not been invented in their modern form when this game was developed, so they behave rather oddly. By the time the play of the hand starts, each player will have five cards, and the object is to win three of the five tricks. The value of the hand depends on how much betting there has been, and the winners score some number of points. The first side to get to an agreed number of points (often 101) wins.
+Le jeu est de type levées avec atouts, mais les atouts n'avaient pas été inventés sous leur forme moderne lorsque ce jeu a été développé, aussi se comportent-ils de façon plutôt étrange. Au moment où le jeu de la main commence, chaque joueur aura cinq cartes, et l'objectif est de gagner trois des cinq levées. La valeur de la main dépend de la quantité de paris, et les gagnants marquent un certain nombre de points. Le premier côté à atteindre un nombre de points convenu (souvent 101) gagne.
 
-## The Cards
+## Les cartes
 
-Four suits, Shields, Flowers, Bells and Acorns, each containing 10 cards: King, Ober, Under, 7,6,5,4,3,2, Banner. The twos of the pack are the same cards which are used as aces (also known as sows) in other Swiss games, but they really are twos.
+Quatre couleurs : Écus, Fleurs, Cloches et Glands, chacune contenant 10 cartes : Roi, Ober, Under, 7, 6, 5, 4, 3, 2, Banner. Les Deux du jeu sont les mêmes cartes qui sont utilisées comme As (aussi appelés truies) dans d'autres jeux suisses, mais ce sont vraiment des Deux.
 
-The four banners normally become part of the trump suit, and are referred to as Kaisers (not to be confused with Kings). They are promoted from the side suits by announcing "Kaiser" (see below). 
+Les quatre Banners deviennent normalement partie de la couleur d'atout, et sont appelés Kaisers (à ne pas confondre avec les Rois). Ils sont promus depuis les couleurs latérales en annonçant « Kaiser » (voir ci-dessous).
 
-The side suits rank: King (highest), Ober, Under, 7, 6, 5, 4, 3, 2 (lowest) 
+Les couleurs latérales se classent : Roi (le plus haut), Ober, Under, 7, 6, 5, 4, 3, 2 (le plus bas).
 
-The trump suit can be divided into five groups. The illustrations shows the trump suit arranged in order assuming that shields are trumps.
+La couleur d'atout peut être divisée en cinq groupes. L'illustration montre la couleur d'atout classée dans l'ordre en supposant que les Écus sont l'atout.
 
-- The highest trumps are the **king-beaters**The banner of bells (*Mugg*) is the highest, followed by the 5, Under (*Joos*), 6, 2, and banner of flowers (*Blass*), in that order. These cards can beat all non-trump cards (except the 7 of the trump suit) and all lower trumps.
+- Les atouts les plus hauts sont les **batteurs de Roi** : le Banner de cloches (*Mugg*) est le plus haut, suivi du 5, Under (*Joos*), 6, 2 et Banner de fleurs (*Blass*), dans cet ordre. Ces cartes peuvent battre toutes les cartes non-atout (sauf le 7 de la couleur d'atout) et tous les atouts inférieurs.
 
-- Next are the **Ober-beaters**, which rank 3, Banner of shields. They can beat all non-trump cards other than kings - i.e. from the Ober downwards - and all lower trumps.
+- Ensuite viennent les **batteurs d'Ober**, classés 3, Banner d'écus. Ils peuvent battre toutes les cartes non-atout autres que les Rois — c'est-à-dire de l'Ober vers le bas — et tous les atouts inférieurs.
 
-- Below the Ober-beaters are the **Under-beaters**, ranking: 4, banner of acorns (*Wydli*). They can beat all non-trump cards other than kings and obers - i.e. from the Under downwards - and all lower trumps.
+- En dessous des batteurs d'Ober se trouvent les **batteurs d'Under**, classés : 4, Banner de glands (*Wydli*). Ils peuvent battre toutes les cartes non-atout autres que les Rois et les Ober — c'est-à-dire de l'Under vers le bas — et tous les atouts inférieurs.
 
-- The King ("Fuil") and Ober of the suit chosen as trumps are **not** themselves trumps, but form a little suit by themselves.
+- Le Roi (« Fuil ») et l'Ober de la couleur choisie comme atout **ne sont pas** eux-mêmes des atouts, mais forment une petite couleur à part.
 
-- The seven of the suit chosen as trumps is also **not** a trump, and is best regarded as being a separate suit on its own. It can only win if it is led to a trick, and if it is led it can **only** be beaten by the **Joos** (The Under of the trump suit, normally the third highest trump). The Joos may then be beaten in turn by one of the top two trumps.
+- Le Sept de la couleur choisie comme atout n'est **pas** non plus un atout, et il vaut mieux le considérer comme une couleur séparée à lui seul. Il ne peut gagner que s'il est mené dans une levée, et s'il est mené, il ne peut être battu **que** par le *Joos* (l'Under de la couleur d'atout, normalement le troisième atout le plus haut). Le Joos peut alors être battu à son tour par l'un des deux atouts les plus hauts.
 
-**Example**: If shields are trumps, and the ober of flowers is led, this can be beaten by the 3 of shields (ober-beater), which can in turn be beaten by the king of flowers (because flowers were led), which in turn could be beaten by the 6 of shields (king-beater). On the other hand if the 3 of shields is **led**, this cannot be beaten by the king of flowers, nor even by the king of shields (which is not a trump). When a trump is **led** it can only be beaten by a higher trump.
+**Exemple** : Si les Écus sont l'atout, et que l'Ober de fleurs est mené, il peut être battu par le 3 d'écus (batteur d'Ober), qui peut à son tour être battu par le Roi de fleurs (parce que les fleurs ont été menées), qui peut à son tour être battu par le 6 d'écus (batteur de Roi). En revanche, si le 3 d'écus est **mené**, il ne peut pas être battu par le Roi de fleurs, ni même par le Roi d'écus (qui n'est pas un atout). Lorsqu'un atout est **mené**, il ne peut être battu que par un atout plus élevé.
 
 ### Kaisers
 
-The four banners have fixed positions in the trump suit, irrespective of which suit is selected. However, they can only be used as trumps if they are declared during or at the end of the deal, before play starts. The procedure is described in the section on the deal, below. Any banner that is not declared becomes a worthless card that cannot win a trick. If an undeclared Kaiser were led to a trick, the card played by the second player would determine the suit of the trick.
+Les quatre Banners ont des positions fixes dans la couleur d'atout, indépendamment de la couleur sélectionnée. Cependant, ils ne peuvent être utilisés comme atouts que s'ils sont déclarés pendant ou à la fin de la donne, avant le début du jeu. La procédure est décrite dans la section sur la donne ci-dessous. Tout Banner non déclaré devient une carte sans valeur qui ne peut pas gagner une levée. Si un Kaiser non déclaré était mené dans une levée, la carte jouée par le deuxième joueur déterminerait la couleur de la levée.
 
-**Variant**: Some play that an undeclared Kaiser reverts to its nominal suit, becoming the lowest card of that suit, effectively a card below the two. This makes a difference, in that with this variant you can help your partner to win a trick with a king by leading the Kaiser of the same suit.
+**Variante** : Certains jouent qu'un Kaiser non déclaré revient à sa couleur nominale, devenant la carte la plus basse de cette couleur, effectivement une carte sous le Deux. Cela fait une différence, car avec cette variante vous pouvez aider votre partenaire à gagner une levée avec un Roi en menant le Kaiser de la même couleur.
 
-## The Deal
+## La donne
 
-**The game is played anticlockwise.** 
+**Le jeu se joue dans le sens antihoraire.**
 
-The first dealer is selected at random, normally by dealing one card to each player; whoever gets the lowest card deals (in plain suit order, ignoring any banners). The first dealt of two equal cards counts lower. For later hands the deal passes round to the right.
+Le premier donneur est choisi au hasard, normalement en distribuant une carte à chaque joueur ; celui qui reçoit la carte la plus basse donne (dans l'ordre des couleurs simples, en ignorant les Banners). La première de deux cartes égales distribuée compte comme la plus basse. Pour les mains suivantes, la donne passe vers la droite.
 
-Dealer shuffles, then the player on her left cuts, showing everyone the bottom card (it's easy for dealer to sneak a look, so it's fair for everyone to see it). If the bottom card is a banner, the shuffling and cutting is repeated.
+Le donneur bat, puis le joueur à sa gauche coupe, en montrant à tout le monde la carte du bas (il est facile pour le donneur de jeter un coup d'œil, il est donc équitable que tout le monde la voie). Si la carte du bas est un Banner, le brassage et la coupe sont répétés.
 
-The dealing procedure is a little complicated, because at certain points during the deal betting can take place, based on the cards the players have so far received. Also the trump suit is determined by the deal.
+La procédure de donne est un peu compliquée, car à certains points pendant la donne des paris peuvent avoir lieu, basés sur les cartes que les joueurs ont reçues jusqu'ici. De plus, la couleur d'atout est déterminée par la donne.
 
-### Dealing the first card and determining trumps
+### Distribuer la première carte et déterminer l'atout
 
-Dealer deals one card face up to the player on her right, and one card face up to her partner, and then pauses to see if any betting takes place. If either of the cards showing is a banner, it must be converted into a Kaiser immediately, otherwise the chance to do so is lost.
+Le donneur distribue une carte face visible au joueur à sa droite, et une carte face visible à son partenaire, puis fait une pause pour voir si des paris ont lieu. Si l'une des cartes visibles est un Banner, il doit être immédiatement converti en Kaiser, sinon l'opportunité de le faire est perdue.
 
-The dealer then deals a face up card to her left hand opponent and finally to herself, followed by another short pause for betting and announcing Kaisers.
+Le donneur distribue ensuite une carte face visible à son adversaire de gauche et enfin à lui-même, suivie d'une autre courte pause pour les paris et l'annonce des Kaisers.
 
-Now each player has one face-up card. **The suit of the lowest of these cards, in plain suit order, determines trumps.** For example if the dealer deals 6 of shields, under of acorns, 5 of bells, king of shields then bells are trumps.
+Maintenant chaque joueur a une carte face visible. **La couleur de la plus basse de ces cartes, dans l'ordre des couleurs simples, détermine l'atout.** Par exemple, si le donneur distribue le 6 d'écus, l'Under de glands, le 5 de cloches, le Roi d'écus, alors les cloches sont l'atout.
 
-If two equally low cards are dealt, then the first of the two which was dealt determines trumps. So if the cards are 2 of acorns, 4 of shields, under of shields, 2 of flowers, then acorns are trumps.
+Si deux cartes également basses sont distribuées, la première des deux distribuées détermine l'atout. Ainsi si les cartes sont le 2 de glands, le 4 d'écus, l'Under d'écus, le 2 de fleurs, alors les glands sont l'atout.
 
-Banners are ignored for the purpose of determining the trump suit. So if the four cards are Banner of flowers, King of bells, Banner of shields, Banner of acorns, then bells are trumps.
+Les Banners sont ignorés pour déterminer la couleur d'atout. Ainsi si les quatre cartes sont Banner de fleurs, Roi de cloches, Banner d'écus, Banner de glands, alors les cloches sont l'atout.
 
-### The rest of the deal and the discard
+### Le reste de la donne et la défausse
 
-Two more cards each are dealt face down to the first two players, after which there is a pause for betting and announcing Kaisers. Then two cards are dealt face down to the other two players, followed by a pause for betting and announcing Kaisers.
+Deux cartes supplémentaires sont distribuées face cachée à chacun des deux premiers joueurs, après quoi il y a une pause pour les paris et l'annonce des Kaisers. Puis deux cartes sont distribuées face cachée aux deux autres joueurs, suivies d'une pause pour les paris et l'annonce des Kaisers.
 
-It is not necessary at this point to announce Kaisers as they are received; if the player wishes this can be delayed until after the end of the deal.
+Il n'est pas nécessaire à ce stade d'annoncer les Kaisers au fur et à mesure de leur réception ; si le joueur le souhaite, cela peut être retardé jusqu'après la fin de la donne.
 
-Then another four cards each are dealt to each player, in two rounds of two at a time, without pauses for betting, so that each player has seven cards including their face up one. The face up cards are taken into their hands by the players, and each player then discards any two of their seven cards face down, leaving a hand of five.
+Ensuite quatre cartes supplémentaires sont distribuées à chaque joueur, en deux tours de deux à la fois, sans pause pour les paris, de sorte que chaque joueur a sept cartes y compris sa carte face visible. Les cartes face visible sont prises dans leur main par les joueurs, et chaque joueur défausse ensuite deux de ses sept cartes face cachée, laissant une main de cinq.
 
-Modifications for six players. The above applies to the four player game. If there are six players, the deal consists of one card face up to each player (with a pause after every two cards), then two face down to each (with a pause afetr each pair of players), and the last part of the deal consists of dealing just more two cards each, so that every player has five cards. There is no discard.
+Modifications pour six joueurs. Ce qui précède s'applique au jeu à quatre. S'il y a six joueurs, la donne consiste en une carte face visible pour chaque joueur (avec une pause après chaque deux cartes), puis deux face cachée pour chacun (avec une pause après chaque paire de joueurs), et la dernière partie de la donne consiste à distribuer deux cartes supplémentaires à chacun, de sorte que chaque joueur a cinq cartes. Il n'y a pas de défausse.
 
-### Further Announcement of Kaisers
+### Annonce supplémentaire des Kaisers
 
-There is now a round of announcements: each player in turn anticlockwise beginning with the player to dealer's right can announce any further banners they wish to promote to Kaisers. Since there is an opportunity for the opponents to resign the hand after each Kaiser it is important to do them one at a time. When each player has done all of their Kaisers they say "Done mine" and the turn to announce Kaisers passes round to the right.
+Il y a maintenant un tour d'annonces : chaque joueur à son tour dans le sens antihoraire, en commençant par le joueur à la droite du donneur, peut annoncer tout autre Banner qu'il souhaite promouvoir en Kaiser. Puisqu'il y a une opportunité pour les adversaires d'abandonner la main après chaque Kaiser, il est important de les faire un par un. Quand chaque joueur a fait tous ses Kaisers, il dit « J'ai fini » et le tour d'annonce des Kaisers passe vers la droite.
 
-## Betting
+## Les paris
 
-At the start of each hand, the value of that hand is four points. Announcement of a Kaiser has the effect of increasing in the score for the winners of the hand, if the opponents accept. Each time a Kaiser is announced, the captain of the team announcing it makes a mark on the slate, indicating whether she wishes to raise the score for the hand by one point or by three. The opposing captain then either says "fold" in which case the hand ends and the side which said "Kaiser" scores whatever the hand was worth before the announcement or says "accepted" in which case the hand continues. When announcing a Kaiser, the holder does not have to reveal its suit - thus when deciding whether to accept, the opponents do not necessarily know whether it is a high or a low trump.
+Au début de chaque main, la valeur de cette main est de quatre points. L'annonce d'un Kaiser a pour effet d'augmenter le score pour les gagnants de la main, si les adversaires acceptent. Chaque fois qu'un Kaiser est annoncé, le capitaine de l'équipe qui l'annonce fait une marque sur l'ardoise, indiquant s'il souhaite augmenter le score de la main d'un point ou de trois. Le capitaine adverse dit alors « se coucher » auquel cas la main s'arrête et le côté qui a dit « Kaiser » marque ce que la main valait avant l'annonce, ou dit « accepté » auquel cas la main continue. En annonçant un Kaiser, le détenteur n'est pas obligé de révéler sa couleur — ainsi en décidant d'accepter ou non, les adversaires ne savent pas nécessairement s'il s'agit d'un atout élevé ou bas.
 
-Immediately after an offer to raise the stakes by one point for a Kaiser has been accepted, the captain may increase the offer to three, and the opponents have another opportunity to accept or give up. As soon as anything else has happened the opportunity to increase the bet from one to three is lost.
+Immédiatement après qu'une offre d'augmentation d'un point pour un Kaiser a été acceptée, le capitaine peut augmenter l'offre à trois, et les adversaires ont une autre opportunité d'accepter ou d'abandonner. Dès que toute autre chose s'est produite, l'opportunité d'augmenter le pari de un à trois est perdue.
 
-In addition, a team captain may at **any** time say *Spieldrei* ("play three"), adding a further three points to the value of the hand. The opponents can choose to fold if they do not wish to continue that hand. Once one side has said *Spieldrei* during a hand and it has been accepted, it is then the prerogative of the other side to say *Spieldrei* proposing to increase the value by a further three. If this is accepted the side which bet originally can *Spieldrei* again, and so on. However a side may never *Spieldrei* twice in succession without an intervening *Spieldrei* from the other side (this is analogous to the doubling cube rule in Backgammon).
+De plus, un capitaine d'équipe peut à **tout** moment dire *Spieldrei* (« joue trois »), ajoutant trois points supplémentaires à la valeur de la main. Les adversaires peuvent choisir de se coucher s'ils ne souhaitent pas continuer cette main. Une fois qu'un côté a dit *Spieldrei* pendant une main et que cela a été accepté, c'est alors le privilège de l'autre côté de dire *Spieldrei* pour proposer d'augmenter encore de trois. Si cela est accepté, le côté qui a parié en premier peut dire *Spieldrei* à nouveau, et ainsi de suite. Cependant, un côté ne peut jamais dire *Spieldrei* deux fois de suite sans un *Spieldrei* intermédiaire de l'autre côté (c'est analogue à la règle du dé double au Backgammon).
 
-## The Play
+## Le jeu
 
-The player to dealer's right leads to the first trick. The rule of play is simple - you can play any card you like to each trick. Cards are usually played face up in front of the player, rather than to the centre of the table. The highest card of the suit led wins unless trumps are involved. The winner of each trick leads to the next.
+Le joueur à la droite du donneur mène la première levée. La règle de jeu est simple — vous pouvez jouer n'importe quelle carte à chaque levée. Les cartes sont généralement jouées face visible devant le joueur, plutôt qu'au centre de la table. La carte la plus haute de la couleur menée gagne, sauf si des atouts sont impliqués. Le gagnant de chaque levée mène la suivante.
 
-If a non-trump is led, and a trump is played which is of sufficient power to beat the highest card of the suit led, then the highest such trump wins the trick. The same applies if the Fuil or Hiratä (King or Ober of the suit designated as trumps) is led, as these cards are not themselves trumps.
+Si un non-atout est mené, et qu'un atout suffisamment puissant pour battre la carte la plus haute de la couleur menée est joué, alors l'atout le plus élevé gagne la levée. Il en va de même si le Fuil ou le Hiratä (Roi ou Ober de la couleur désignée comme atout) est mené, car ces cartes ne sont pas elles-mêmes des atouts.
 
-If a trump is led (a king-beater, an ober-beater or an unter-beater), the trick is won by the highest trump played. It cannot be won by a non-trump.
+Si un atout est mené (un batteur de Roi, un batteur d'Ober ou un batteur d'Under), la levée est remportée par l'atout le plus élevé joué. Elle ne peut pas être gagnée par un non-atout.
 
-If the seven of the trump suit is led it wins unless someone plays the Joos. If someone does play the Joos then it wins unless it is subsequently beaten by a higher trump.
+Si le Sept de la couleur d'atout est mené, il gagne à moins que quelqu'un ne joue le Joos. Si quelqu'un joue le Joos, alors il gagne à moins qu'il ne soit battu par la suite par un atout plus élevé.
 
-Quite often, a player will put an irrelevant or worthless card on a trick, either because his partner is already winning it or because he doesn't want to win it (or can't). In this case it is normal to play one's card face down. When playing a banner face down you are obliged to say "Kaiser", but not to say which of the banners you are discarding.
+Assez souvent, un joueur posera une carte sans rapport ou sans valeur sur une levée, soit parce que son partenaire est déjà en train de gagner, soit parce qu'il ne veut pas la gagner (ou ne le peut pas). Dans ce cas, il est normal de jouer sa carte face cachée. En jouant un Banner face cachée, vous êtes obligé de dire « Kaiser », mais pas de dire lequel des Banners vous défaussez.
 
-## The Slate
+## L'ardoise
 
-At the beginning of the session, the slate should be blank apart from a line across near each end. Each side's captain registers the score in ones, fives, nines or tens as shown. 
+Au début de la session, l'ardoise doit être vierge à part une ligne traversant près de chaque extrémité. Chaque capitaine de côté enregistre le score en uns, cinq, neufs ou dizaines comme indiqué.
 
-When the first Kaiser is announced a long stroke across the middle of the slate is made, with a little hook at the end. If the first bet is a *Spieldrei* the long stroke doesn't have a hook.
+Lorsque le premier Kaiser est annoncé, un long trait au milieu de l'ardoise est tracé, avec un petit crochet à l'extrémité. Si le premier pari est un *Spieldrei*, le long trait n'a pas de crochet.
 
-Any further 3 point Kaisers or *Spieldrei*'s are registered as a crossing line across the long stroke. One point Kaisers are registered as a short line, coming up to the long stroke on one side but not crossing it.
+Tout autre Kaiser à 3 points ou *Spieldrei* est enregistré comme une ligne transversale traversant le long trait. Les Kaisers à un point sont enregistrés comme une courte ligne, venant jusqu'au long trait d'un côté sans le traverser.
 
-In the illustration, the value of the game in progress is: 4 points for the slate, plus 3 for the first Kaiser (hook), plus 3 for the second Kaiser (line crossing the hook), plus 3 for a Spieldrei (another line crossing the hook), plus 1 for the third Kaiser (announced as a "small one") (line not crossing the hook), for a total of 14.
+Dans l'illustration, la valeur du jeu en cours est : 4 points pour l'ardoise, plus 3 pour le premier Kaiser (crochet), plus 3 pour le deuxième Kaiser (ligne traversant le crochet), plus 3 pour un Spieldrei (une autre ligne traversant le crochet), plus 1 pour le troisième Kaiser (annoncé comme un « petit ») (ligne ne traversant pas le crochet), pour un total de 14.
 
-## The Signals
+## Les signaux
 
-There is a system of communication to enable partners to plan their play and decide when it is appropriate to bet. Most of the important cards have signals associated with them, and players are allowed to use these signals to try to tell their partner which cards they hold when the opponents are not looking. Normally the captain will only signal kings (so that her partner knows which suits to keep when discarding two cards), while the other player will attempt to signal all of his good cards, so that the captain can direct the play.
+Il y a un système de communication permettant aux partenaires de planifier leur jeu et de décider quand il est approprié de parier. La plupart des cartes importantes ont des signaux associés, et les joueurs sont autorisés à utiliser ces signaux pour essayer de dire à leur partenaire quelles cartes ils détiennent lorsque les adversaires ne regardent pas. Normalement, le capitaine ne signale que les Rois (pour que son partenaire sache quelles couleurs garder lors de la défausse de deux cartes), tandis que l'autre joueur essaiera de signaler toutes ses bonnes cartes, pour que le capitaine puisse diriger le jeu.
 
-It is legal to signal cards you do not hold in order to confuse the opposition, but you are not allowed to depart from the code of recognised signals. It would be illegal to have secret arrangements with your partner about other unofficial signals or about which of your signals are going to be lies. 
+Il est légal de signaler des cartes que vous ne détenez pas pour tromper l'adversaire, mais vous n'êtes pas autorisé à vous écarter du code des signaux reconnus. Il serait illégal d'avoir des arrangements secrets avec votre partenaire sur d'autres signaux non officiels ou sur lesquels de vos signaux vont être des mensonges.
 
-The allowed signals are:
+Les signaux autorisés sont :
 
-| Mugg (banner of bells) | puff up one cheek |
-| Five of trumps | wink |
-| Joos (under of trumps) | put out your tongue |
-| Other king-beater | shrug your shoulder |
-| Low trump (ober-beater or under-beater) | make sign with finger as though writing |
-| Seven of the trump suit | silently mouth the word "seven" |
-| King of flowers | wrinkle your nose |
-| King of shields | look to the side |
-| King of acorns | look up |
-| King of bells | look down |
+| Mugg (Banner de cloches) | gonfler une joue |
+| Cinq d'atout | cligner des yeux |
+| Joos (Under d'atout) | tirer la langue |
+| Autre batteur de Roi | hausser les épaules |
+| Atout bas (batteur d'Ober ou batteur d'Under) | faire un signe du doigt comme pour écrire |
+| Sept de la couleur d'atout | articuler silencieusement le mot « sept » |
+| Roi de fleurs | froncer le nez |
+| Roi d'écus | regarder sur le côté |
+| Roi de glands | regarder en haut |
+| Roi de cloches | regarder en bas |
 
-The above account of Kaiserspiel is based on some games played in Stans in 1978 in which John McLeod took part and on the papers *Der Nidwaldner Kaiserjass und seine Geschichte* by *Rudolf von Leyden* and *Der Kaiserjass, wie er heute in Nidwalden gespielt wird* by *Hansjakob Achermann*, both published by the *Historische Verein Nidwalden in Beiträge zur Geschichte Nidwaldens, volume 37, Stans, 1978*.
+Le récit ci-dessus du Kaiserspiel est basé sur des parties jouées à Stans en 1978 auxquelles John McLeod a participé et sur les articles *Der Nidwaldner Kaiserjass und seine Geschichte* de *Rudolf von Leyden* et *Der Kaiserjass, wie er heute in Nidwalden gespielt wird* de *Hansjakob Achermann*, tous deux publiés par le *Historische Verein Nidwalden in Beiträge zur Geschichte Nidwaldens, volume 37, Stans, 1978*.
 
-The English description given above was written by Matthew Macfadyen and Kirsty Healey, and revised by John McLeod.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Kaiserjass
+La description anglaise ci-dessus a été rédigée par Matthew Macfadyen et Kirsty Healey, et révisée par John McLeod.

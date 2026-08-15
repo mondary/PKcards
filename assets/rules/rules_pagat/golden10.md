@@ -2,18 +2,16 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A card game related to hearts played with Rook cards, in which the red cards carry penalties but the yellow ten is a bonus card.
+**But :** Un jeu de cartes apparenté aux cœurs, joué avec des cartes Rook, dans lequel les cartes rouges portent des pénalités mais le dix jaune est une carte bonus.
 
 ---
 
-This is a game for 3 to 7 players, related to Hearts, played with a Rook deck of 56 cards. The cards are of four colors: red, yellow, green and black. In each color there are cards numbered from 14 (high) to 1 (low). The aim is to avoid wnning tricks containing red cards (especially the 5 and 10), while trying to win the trick containing the yellow 10 if you can.
+C'est un jeu pour 3 à 7 joueurs, apparenté aux Cœurs, joué avec un jeu Rook de 56 cartes. Les cartes sont de quatre couleurs : rouge, jaune, vert et noir. Dans chaque couleur, les cartes sont numérotées de 14 (haut) à 1 (bas). Le but est d'éviter de remporter des levées contenant des cartes rouges (surtout le 5 et le 10), tout en essayant de remporter la levée contenant le dix jaune si possible.
 
-Deal and play are clockwise. The dealer deals out the cards, one at a time, as far as they will go so that each player has equally many. With 3, 5 or 6 players there will be one or two cards left over; these are taken by the winner of the first trick. 
+La donne et le jeu se font dans le sens horaire. Le donneur distribue les cartes une par une, autant que possible pour que chaque joueur en ait un nombre égal. Avec 3, 5 ou 6 joueurs, il restera une ou deux cartes ; elles sont prises par le gagnant de la première levée.
 
-The player to dealer's left leads to the first trick. When playing to a trick you must if possible play a card of the same color as the led card. If you have no cards of this color you may play any card. Whoever plays the highest card of the color that was led wins the trick and leads to the next.
+Le joueur à la gauche du donneur entame la première levée. Lorsqu'on joue une levée, on doit si possible jouer une carte de la même couleur que la carte d'entame. Si l'on n'a pas de carte de cette couleur, on peut jouer n'importe quelle carte. Celui qui joue la carte la plus haute de la couleur d'entame remporte la levée et entame la suivante.
 
-When all the cards have been played each player counts the value of the cards in their tricks. Each red card in your tricks counts 1 point against you, except for the five which counts 5 against you and the ten which counts 10 against you. The 10 of yellow is called the **Golden Ten** and it reduces your red card penalties by 10 points; if you had fewer than 10 red penalty points, the Golden 10 reduces them to zero.
+Lorsque toutes les cartes ont été jouées, chaque joueur compte la valeur des cartes dans ses levées. Chaque carte rouge dans vos levées compte 1 point contre vous, sauf le cinq qui compte 5 contre vous et le dix qui compte 10 contre vous. Le 10 jaune est appelé le **Golden Ten** et il réduit vos pénalités de cartes rouges de 10 points ; si vous aviez moins de 10 points de pénalité rouges, le Golden Ten les réduit à zéro.
 
-A game consists of six deals, the turn to deal passing to the left after each hand. The player with the lowest cumulative score of penalty points wins the game.
-
-Home Page > Classified Index > Trick Taking Games > Reverse Games > Golden Ten
+Une partie se compose de six donnes, le tour de donner passant à la gauche après chaque main. Le joueur ayant le score cumulé le plus bas de points de pénalité gagne la partie.

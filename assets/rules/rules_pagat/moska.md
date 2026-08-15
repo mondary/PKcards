@@ -3,185 +3,183 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** Also known as Turamoska, a Finnish card game for 4 to 6 players related to Durak, in which the aim is to get rid of cards and the last player holding cards is the loser.
+**But :** Aussi connu sous le nom de Turamoska, un jeu de cartes finlandais pour 4 à 6 joueurs apparenté au Durak, dont le but est de se débarrasser de ses cartes et où le dernier joueur à avoir des cartes est le perdant.
 **Autres noms :** Turamoska
 
 ---
 
 - Introduction
 
-- Players and Cards
+- Joueurs et cartes
 
-- Deal
+- Donne
 
-- Play
+- Jeu
 
-- Initial Attack, Defence (Killing), Continuation of Attack, Result of Attack
+- Attaque initiale, Défense (Abattage), Poursuite de l'attaque, Résultat de l'attaque
 
-- Endgame
+- Fin de partie
 
-- Variations
+- Variantes
 
-- Sources of Information
+- Sources d'information
 
 ## Introduction
 
-Moska is a card game played mainly in eastern Finland and also by the Tampere Civil Engineering Students' Guild (TARAKI). It is related to the Russian game Podkidnoy Durak but uses a full 52-card deck and there are several differences in the attack and defence mechanism. There are many local variants of this game, some of which are known as Turamoska, emphasising the borrowing of some features from Durak. I am told that sessions often start with a lively discussion about which set of rules to follow.
+Moska est un jeu de cartes joué principalement dans l'est de la Finlande et aussi par la guilde des étudiants en génie civil de Tampere (TARAKI). Il est apparenté au jeu russe Podkidnoy Durak mais utilise un jeu complet de 52 cartes et présente plusieurs différences dans le mécanisme d'attaque et de défense. Il existe de nombreuses variantes locales de ce jeu, dont certaines sont connues sous le nom de Turamoska, soulignant l'emprunt de certaines caractéristiques au Durak. On me dit que les parties commencent souvent par une discussion animée sur quel ensemble de règles suivre.
 
-On this page I will start by describing a version taught to us in Tampere by Cristian Seres and Mikko Saari. Then I will list some variations we know about and some sources of information about the game.
+Sur cette page, je commencerai par décrire une version qui nous a été enseignée à Tampere par Cristian Seres et Mikko Saari. Puis je listerai certaines variantes que nous connaissons et quelques sources d'information sur le jeu.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-There are usually from 4 to 6 players, each playing for themselves. It is possible for 3 to play but the game is then less interesting.
+Il y a généralement de 4 à 6 joueurs, chacun pour soi. Il est possible de jouer à 3, mais le jeu est alors moins intéressant.
 
-A standard international 52-card pack without jokers is used. (Traditionally the King, Queen and Jack in Finnish cards used to be numbered 13, 12 and 11 respectively, but nowadays most decks have the international indices K, Q, J). The cards in each suit rank from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2.
+On utilise un jeu international standard de 52 cartes sans jokers. (Traditionnellement, le Roi, la Dame et le Valet des cartes finlandaises étaient numérotés 13, 12 et 11 respectivement, mais de nos jours la plupart des jeux ont les indices internationaux R, D, V). Les cartes de chaque couleur vont de haut en bas : A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-The direction of the deal and play is clockwise.
+Le sens de la donne et du jeu est horaire.
 
-As usual in this type of game the objective is to get rid of all your cards. The last player holding cards when everyone else has run out is the loser; there is no winner. 
+Comme d'habitude dans ce type de jeu, l'objectif est de se débarrasser de toutes ses cartes. Le dernier joueur à avoir des cartes quand tous les autres en ont fini est le perdant ; il n'y a pas de gagnant.
 
-## Deal
+## Donne
 
-The first dealer is chosen by any convenient random method. Subsequently the loser of each hand must deal the next.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Ensuite, le perdant de chaque main doit donner la suivante.
 
-The dealer gathers the cards, shuffles them, and deals them one at a time around the table until each player has a hand of six cards. The dealer then places the next card face up in the centre of the table to indicate the trump suit and stacks the remainder of the deck face down crosswise on top the trump indicator so that its value can still be seen. These undealt cards form a **stock** from which players draw during the game to replenish their hands.
+Le donneur rassemble les cartes, les mélange et les distribue une à une autour de la table jusqu'à ce que chaque joueur ait une main de six cartes. Le donneur place ensuite la carte suivante face visible au centre de la table pour indiquer la couleur d'atout et empile le reste du jeu face cachée en croix sur l'indicateur d'atout de sorte que sa valeur reste visible. Ces cartes non distribuées forment une **pioche** à partir de laquelle les joueurs piochent pendant le jeu pour reconstituer leurs mains.
 
-At any time during the game while the trump indicator card is still in the centre of the table, a player who has the two of trumps in their hand is allowed to exchange it for the trump indicator, sliding the two of trumps face up under the stock and taking the original face up trump indicator into their hand in its place.
+À tout moment pendant le jeu tant que la carte indicatrice d'atout est encore au centre de la table, un joueur qui a le deux d'atout dans sa main est autorisé à l'échanger contre l'indicateur, en faisant glisser le deux d'atout face visible sous la pioche et en prenant l'indicateur original face visible dans sa main à sa place.
 
-The work of shuffling and dealing is seen as a punishment for the previous loser, and no other player should touch the cards during this process, otherwise they must take over the role of loser and do the dealing themselves. After shuffling the dealer may sometimes try to trick the player to their right by offering the deck to be cut, but that player should refuse. If they accidentally touch the deck they immediately become the new dealer.
+Le travail de mélange et de distribution est considéré comme une punition pour le perdant précédent, et aucun autre joueur ne doit toucher les cartes pendant ce processus, sinon il doit prendre le rôle de perdant et faire la distribution lui-même. Après avoir mélangé, le donneur essaie parfois de tromper le joueur à sa droite en offrant le jeu à couper, mais ce joueur devrait refuser. S'il touche accidentellement le jeu, il devient immédiatement le nouveau donneur.
 
-## Play
+## Jeu
 
-The play consists of a series of **bouts** in which one player, the **defender** or **killer** (*tappaja*) is attacked, initially by the player to their right, the **attacker** (*hyökkääjä*), after which all the other players can join in the attack. The attack consists of cards placed face up side by side in front of the defender, who may kill or knock down (*kaatamaan*) each of these attack cards by playing better cards on top of them. 
+Le jeu consiste en une série de **manches** dans lesquelles un joueur, le **défenseur** ou **tueur** (*tappaja*) est attaqué, initialement par le joueur à sa droite, l'**attaquant** (*hyökkääjä*), après quoi tous les autres joueurs peuvent se joindre à l'attaque. L'attaque consiste en cartes placées face visible côte à côte devant le défenseur, qui peut tuer ou abattre (*kaatamaan*) chaque carte d'attaque en jouant de meilleures cartes par-dessus.
 
-The first attack is begun by the player to the left of the dealer, who attacks the player to their left. If the defender kills all the attack cards the defender becomes the attacker for the next bout. If not, the defender must add the attack cards that were not killed to their hand, and for the next bout the turn to attack passes to the player to the left of the defender. 
+La première attaque est commencée par le joueur à la gauche du donneur, qui attaque le joueur à sa gauche. Si le défenseur tue toutes les cartes d'attaque, il devient l'attaquant pour la manche suivante. Sinon, le défenseur doit ajouter les cartes d'attaque qui n'ont pas été tuées à sa main, et pour la manche suivante, le tour d'attaquer passe au joueur à la gauche du défenseur.
 
-### Initial Attack
+### Attaque initiale
 
-Each bout is begun by the attacker who must play either
+Chaque manche est commencée par l'attaquant qui doit jouer soit
 
-- any single card, or
+- n'importe quelle carte unique, ou
 
-- a collection of cards consisting of one or more sets of cards of equal rank - for example (3, 3) or (6, 6, 6, 2, 2) or (Q, Q, Q).
+- un ensemble de cartes consistant en un ou plusieurs groupes de cartes de même valeur — par exemple (3, 3) ou (6, 6, 6, 2, 2) ou (D, D, D).
 
-An initial single card attack (a) can either be a card from the attacker's hand or the attacker can choose to turn up the unknown top card of the stock face up to begin the attack. When attacking with multiple cards (b), the attack cards must all come from the attacker's hand. 
+Une attaque initiale à carte unique (a) peut être soit une carte de la main de l'attaquant, soit l'attaquant peut choisir de retourner la carte inconnue du dessus de la pioche face visible pour commencer l'attaque. Lors d'une attaque avec plusieurs cartes (b), les cartes d'attaque doivent toutes venir de la main de l'attaquant.
 
-It is not possible to include unmatched cards in a multiple card attack - for example an initial attack consisting of (5, 5, 8) is not legal because it contains only one 8.
+Il n'est pas possible d'inclure des cartes sans paire dans une attaque à plusieurs cartes — par exemple, une attaque initiale consistant en (5, 5, 8) n'est pas légale car elle ne contient qu'un seul 8.
 
-The number of cards that can be used to attack the defender is limited to 6 or to the number of cards the defender has in their hand before the attack, whichever is less. 
+Le nombre de cartes pouvant être utilisées pour attaquer le défenseur est limité à 6 ou au nombre de cartes que le défenseur a en main avant l'attaque, selon le moindre.
 
-The attacking cards are placed in a row, face up in front of the defender. After attacking, the attacker immediately replenishes their hand to six cards by drawing cards from the top of the stock. If the attacker already holds six or more cards after the initial attack, either because they began with a hand of more than six cards or because they attacked with a card drawn from the stock, they do not draw any cards from the stock.
+Les cartes d'attaque sont placées en rangée, face visibles devant le défenseur. Après avoir attaqué, l'attaquant reconstitue immédiatement sa main à six cartes en piochant des cartes du dessus de la pioche. Si l'attaquant a déjà six cartes ou plus après l'attaque initiale, soit parce qu'il a commencé avec une main de plus de six cartes, soit parce qu'il a attaqué avec une carte piochée de la pioche, il ne pioche aucune carte.
 
-### Defence (Killing)
+### Défense (Abattage)
 
-Each attacking card can be 'killed' by the defender playing a better card face up on top of it. Any card can be killed by a higher card of same suit, and a non-trump card can be killed by any trump card irrespective of rank. The killing cards are played to overlap the killed cards so that the values of both cards can be seen.
+Chaque carte d'attaque peut être « tuée » par le défenseur en jouant une meilleure carte face visible par-dessus. N'importe quelle carte peut être tuée par une carte supérieure de la même couleur, et une carte non-atout peut être tuée par n'importe quelle carte d'atout quelle que soit sa valeur. Les cartes de défense sont jouées de manière à chevaucher les cartes tuées pour que les valeurs des deux cartes soient visibles.
 
-Note that there is no requirement to 'follow suit'. The defender can always use a trump to kill a non-trump, even while holding other cards of the same non-trump suit.
+Notez qu'il n'y a aucune obligation de « suivre la couleur ». Le défenseur peut toujours utiliser un atout pour tuer une carte non-atout, même s'il détient d'autres cartes de la même couleur non-atout.
 
-The defender does not replenish their hand until the end of the bout.
+Le défenseur ne reconstitue sa main qu'à la fin de la manche.
 
-### Continuation of Attack
+### Poursuite de l'attaque
 
-At any time after the initial attack, players can add further cards to the attack. Every additional attack card must be **equal in rank** to a card already played during the bout, either an attack card or a card used by the defender to kill an attack card.
+À tout moment après l'attaque initiale, les joueurs peuvent ajouter d'autres cartes à l'attaque. Chaque carte d'attaque supplémentaire doit être de **même valeur** qu'une carte déjà jouée pendant la manche, soit une carte d'attaque, soit une carte utilisée par le défenseur pour tuer une carte d'attaque.
 
-Any player other than the defender may join in the attack provided that the total number of attack cards is never greater than six, and never greater than the number of cards the defender had in their hand at the start of the bout. If too many attack cards are accidentally played, the defender immediately gives back any excess attack cards, which must be returned to the hands of whoever tried to play them. If the excess results from two or more attack cards being played simultaneously, the defender chooses which cards to return. 
+N'importe quel joueur autre que le défenseur peut se joindre à l'attaque à condition que le nombre total de cartes d'attaque ne dépasse jamais six, et ne dépasse jamais le nombre de cartes que le défenseur avait en main au début de la manche. Si trop de cartes d'attaque sont jouées accidentellement, le défenseur renvoie immédiatement les cartes excédentaires, qui doivent être retournées à la main de celui qui a essayé de les jouer. Si l'excédent résulte de deux cartes d'attaque ou plus jouées simultanément, le défenseur choisit les cartes à retourner.
 
-Any player whose hand is reduced to fewer than six cards by playing an attack card immediately replenishes their hand to six cards by drawing cards from the top of the stock pile. These newly drawn cards can be played to continue the attack if their ranks match cards already used in the bout. 
+Tout joueur dont la main est réduite à moins de six cartes après avoir joué une carte d'attaque reconstitue immédiatement sa main à six cartes en piochant des cartes du dessus de la pioche. Ces nouvelles cartes piochées peuvent être jouées pour poursuivre l'attaque si leurs valeurs correspondent à des cartes déjà utilisées dans la manche.
 
-The defender continues to kill any attack cards that they are able and willing to beat, and any new ranks played by the defender create opportunities for a further continuation of the attack using cards of the new rank, subject to the limit on the total number of attack cards. 
+Le défenseur continue de tuer toute carte d'attaque qu'il est capable et veut battre, et toute nouvelle valeur jouée par le défenseur crée des opportunités pour une poursuite supplémentaire de l'attaque avec des cartes de la nouvelle valeur, sous réserve de la limite du nombre total de cartes d'attaque.
 
-### Result of Bout
+### Résultat de la manche
 
-A bout ends in one of two ways.
+Une manche se termine de l'une des deux façons.
 
-**A. The defender has killed all the attack cards and no one is able and willing to play any further attack cards.** In this case the defender has succeeded in beating off the attack. All the played cards - attack cards and the cards used to killed them - are moved to a face down discard pile and are out of play until the next deal. If the defender has fewer than six cards in hand, they draw cards from the top of the stock pile to restore their hand to six cards. The defender becomes the new attacker and attacks the player to their left, who is the new defender, beginning with one or more cards as described in 'initial attack' above.
+**A. Le défenseur a tué toutes les cartes d'attaque et personne n'est capable ni ne veut jouer de cartes d'attaque supplémentaires.** Dans ce cas, le défenseur a réussi à repousser l'attaque. Toutes les cartes jouées — cartes d'attaque et cartes utilisées pour les tuer — sont déplacées vers un tas de défausse face cachée et sont hors jeu jusqu'à la donne suivante. Si le défenseur a moins de six cartes en main, il pioche des cartes du dessus de la pioche pour ramener sa main à six cartes. Le défenseur devient le nouvel attaquant et attaque le joueur à sa gauche, qui est le nouveau défenseur, en commençant par une ou plusieurs cartes comme décrit dans « attaque initiale » ci-dessus.
 
-**B. There are one or more live attack cards on the table which the defender is unable or unwilling to kill. **In this case any killed attack cards are moved out of play to the face down discard pile along with the cards that killed them. The defender must pick up any remaining live attack cards on the table and add them to their hand. In addition the other players may play any further cards that could have been added to the attack (they match the rank of some card played during the bout and do not exceed the limit on the number of attack cards) and the defender must also pick up these cards and add them to their hand. If the defender still has fewer than six cards in hand, they must draw cards from the top of the stock pile to restore their hand to six cards. The defender who failed to kill all the attack cards does not get a turn to attack. Instead the turn to attack passes to the next player to their left, and this player initiates a new attack on the following player in clockwise order. Sometimes a defender, after picking up cards from an attack, will have a hand of more than six cards. There is no upper limit: the player just continues to play from this larger hand and will not draw from the stock again so long as they continue to hold six cards or more. 
+**B. Il y a une ou plusieurs cartes d'attaque actives sur la table que le défenseur est incapable ou unwilling de tuer.** Dans ce cas, les cartes d'attaque tuées sont mises hors jeu dans le tas de défausse face cachée avec les cartes qui les ont tuées. Le défenseur doit ramasser les cartes d'attaque actives restantes sur la table et les ajouter à sa main. De plus, les autres joueurs peuvent jouer toutes les cartes supplémentaires qui auraient pu être ajoutées à l'attaque (elles correspondent à la valeur de certaines cartes jouées pendant la manche et ne dépassent pas la limite du nombre de cartes d'attaque) et le défenseur doit aussi ramasser ces cartes et les ajouter à sa main. Si le défenseur a encore moins de six cartes en main, il doit piocher des cartes du dessus de la pioche pour ramener sa main à six cartes. Le défenseur qui n'a pas réussi à tuer toutes les cartes d'attaque n'a pas le droit d'attaquer. Le tour d'attaquer passe au joueur suivant à sa gauche, et ce joueur initie une nouvelle attaque sur le joueur suivant dans le sens horaire. Parfois un défenseur, après avoir ramassé des cartes d'une attaque, a une main de plus de six cartes. Il n'y a pas de limite supérieure : le joueur continue simplement à jouer depuis cette main plus grande et ne piochera plus tant qu'il continue à avoir six cartes ou plus.
 
-### Example of a Bout
+### Exemple de manche
 
-In a four-player game diamonds are trumps, each player has 6 cards and West is attacking. The defender is North, the player to West's left. North's hand is
+Dans un jeu à quatre joueurs, les carreaux sont l'atout, chaque joueur a 6 cartes et Ouest attaque. Le défenseur est Nord, le joueur à la gauche d'Ouest. La main de Nord est
 
-![diamond](../images/internat/diamond.gif)**3**, ![diamond](../images/internat/diamond.gif)**5**, ![club](../images/internat/club.gif)**10**, ![club](../images/internat/club.gif)**K**, ![heart](../images/internat/heart.gif)**7**, ![heart](../images/internat/heart.gif)**A**. 
+![carreau](../images/internat/diamond.gif)**3**, ![carreau](../images/internat/diamond.gif)**5**, ![trèfle](../images/internat/club.gif)**10**, ![trèfle](../images/internat/club.gif)**R**, ![cœur](../images/internat/heart.gif)**7**, ![cœur](../images/internat/heart.gif)**A**.
 
-West begins the attack with a pair of threes, hearts and spades, and draws two cards to replace them. North kills the heart with the 7 and the spade with the 3 of trumps. The attack can now be continued by any player with threes or sevens. East contributes the 7 of clubs to the attack and draws a card to replace it, and West adds the 7 of spades and draws a card. North kills the 7 of clubs with the 10. The table in front of North now looks like this:
+Ouest commence l'attaque avec une paire de trois, cœurs et piques, et pioche deux cartes pour les remplacer. Nord tue le cœur avec le 7 et le pique avec le 3 d'atout. L'attaque peut maintenant être poursuivie par tout joueur ayant des trois ou des sept. Est contribue le 7 de trèfle à l'attaque et pioche une carte pour le remplacer, et Ouest ajoute le 7 de pique et pioche une carte. Nord tue le 7 de trèfle avec le 10. La table devant Nord ressemble maintenant à ceci :
 
 ![bout example](../images/beating/moska.png)
 
-and North has three cards left: ![diamond](../images/internat/diamond.gif)**5**, ![club](../images/internat/club.gif)**K**, ![heart](../images/internat/heart.gif)**A**. North has the following options.
+et Nord a trois cartes restantes : ![carreau](../images/internat/diamond.gif)**5**, ![trèfle](../images/internat/club.gif)**R**, ![cœur](../images/internat/heart.gif)**A**. Nord a les options suivantes.
 
-- North could kill the ![spade](../images/internat/spade.gif)**7** with the ![diamond](../images/internat/diamond.gif)**5**. There is still space for two more attack cards within the limit, and any of the other three players can now attack with 3's, 5's 7's or 10's. 
+- Nord pourrait tuer le ![pique](../images/internat/spade.gif)**7** avec le ![carreau](../images/internat/diamond.gif)**5**. Il reste encore de la place pour deux cartes d'attaque supplémentaires dans la limite, et n'importe lequel des trois autres joueurs peut maintenant attaquer avec des 3, des 5, des 7 ou des 10.
 
-- If they are unable or unwilling to do so, North has successfully knocked down the attack and the eight cards on the table are discarded face down. North draws four new cards and attacks East. 
+- S'il est incapable ou ne veut pas le faire, Nord a réussi à repousser l'attaque et les huit cartes sur la table sont écartées face cachées. Nord pioche quatre nouvelles cartes et attaque Est.
 
-- If they continue the attack with a heart and a club, say the ![heart](../images/internat/heart.gif)**10** and the ![club](../images/internat/club.gif)**5**, then North can kill these last two cards with the ![heart](../images/internat/heart.gif)**A** and ![club](../images/internat/club.gif)**K**. That ends the bout since 6 attack cards have been played and killed. All 12 cards from the table are discarded, North draws a fresh hand of 6 cards and attacks East.
+- S'ils poursuivent l'attaque avec un cœur et un trèfle, disons le ![cœur](../images/internat/heart.gif)**10** et le ![trèfle](../images/internat/club.gif)**5**, alors Nord peut tuer ces deux dernières cartes avec le ![cœur](../images/internat/heart.gif)**A** et le ![trèfle](../images/internat/club.gif)**R**. Cela termine la manche puisque 6 cartes d'attaque ont été jouées et tuées. Les 12 cartes de la table sont écartées, Nord pioche une nouvelle main de 6 cartes et attaque Est.
 
-- If on the other hand they continue the attack with a spade, say the ![spade](../images/internat/spade.gif)**5**, North is unable to kill this card. North must pick up the ![spade](../images/internat/spade.gif)**5** and discard the other eight cards from the table. Since only five attack cards were used, the other players can now give North one more card, which must be a 3, 5, 7 or 10, and North must accept this card, and the player who gave the card draws a replacement. (If the other players were to try to give North more than one card at this point, North could choose which one to accept.) North now has four cards in hand: ![heart](../images/internat/heart.gif)**A,** ![club](../images/internat/club.gif)**K**, ![spade](../images/internat/spade.gif)**5** and (say) ![club](../images/internat/club.gif)**5**. North draws two replacement cards from the stock so make the hand up to six cards but does not get a turn to attack. It is now East's turn to attack South.
+- D'autre part, s'ils poursuivent l'attaque avec un pique, disons le ![pique](../images/internat/spade.gif)**5**, Nord est incapable de tuer cette carte. Nord doit ramasser le ![pique](../images/internat/spade.gif)**5** et écarter les huit autres cartes de la table. Puisque seules cinq cartes d'attaque ont été utilisées, les autres joueurs peuvent maintenant donner à Nord une carte de plus, qui doit être un 3, 5, 7 ou 10, et Nord doit l'accepter, et le joueur qui a donné la carte pioche un remplacement. (Si les autres joueurs essaient de donner à Nord plus d'une carte à ce stade, Nord peut choisir laquelle accepter.) Nord a maintenant quatre cartes en main : ![cœur](../images/internat/heart.gif)**A**, ![trèfle](../images/internat/club.gif)**R**, ![pique](../images/internat/spade.gif)**5** et (disons) ![trèfle](../images/internat/club.gif)**5**. Nord pioche deux cartes de remplacement de la pioche pour ramener sa main à six cartes mais n'a pas le droit d'attaquer. C'est maintenant le tour d'Est d'attaquer Sud.
 
-- Instead of killing the ![spade](../images/internat/spade.gif)**7**, North might decide to save the 5 of trumps for later, pick up the ![spade](../images/internat/spade.gif)**7** and discard the other six cards from the table. Since four attack cards have so far been played the other players can now give North up to two more cards, which North must accept, but these can only be threes, sevens and tens. For example North might just be given the ![heart](../images/internat/heart.gif)**10**, the other players have no other suitable cards that they want to get rid of. North's hand is now ![diamond](../images/internat/diamond.gif)**5**, ![club](../images/internat/club.gif)**K**, ![heart](../images/internat/heart.gif)**10**, ![heart](../images/internat/heart.gif)**A**, ![spade](../images/internat/spade.gif)**7**. North draws a sixth card from the top of the stock and it is East's turn to begin an attack on South.
+- Au lieu de tuer le ![pique](../images/internat/spade.gif)**7**, Nord pourrait décider de garder le 5 d'atout pour plus tard, ramasser le ![pique](../images/internat/spade.gif)**7** et écarter les six autres cartes de la table. Puisque quatre cartes d'attaque ont été jouées jusqu'ici, les autres joueurs peuvent maintenant donner à Nord jusqu'à deux cartes supplémentaires, que Nord doit accepter, mais celles-ci ne peuvent être que des trois, des sept et des dix. Par exemple, Nord pourrait simplement recevoir le ![cœur](../images/internat/heart.gif)**10**, les autres joueurs n'ayant pas d'autres cartes appropriées dont ils veulent se débarrasser. La main de Nord est maintenant ![carreau](../images/internat/diamond.gif)**5**, ![trèfle](../images/internat/club.gif)**R**, ![cœur](../images/internat/heart.gif)**10**, ![cœur](../images/internat/heart.gif)**A**, ![pique](../images/internat/spade.gif)**7**. Nord pioche une sixième carte du dessus de la pioche et c'est le tour d'Est de commencer une attaque sur Sud.
 
-## Endgame
+## Fin de partie
 
-The last card of the stock to be drawn is the face up trump indicator card. This trump drawn in the normal way when a player uses it to replenish their hand, or as an alternative initial attack card during a bout. 
+La dernière carte de la pioche à être piochée est la carte indicatrice d'atout face visible. Cet atout est pioché normalement quand un joueur l'utilise pour reconstituer sa main, ou comme carte d'attaque initiale alternative pendant une manche.
 
-When the stock is empty, the endgame begins. The rules of play are the same as before except that players no longer replenish their hands after playing, and therefore players will often have fewer than six cards in hand at the start of a bout.
+Quand la pioche est vide, la fin de partie commence. Les règles de jeu sont les mêmes qu'avant, sauf que les joueurs ne reconstituent plus leur main après avoir joué, et donc les joueurs ont souvent moins de six cartes en main au début d'une manche.
 
-When the defender begins a bout with fewer than 6 cards in hand, the number of attack cards is limited to not more than the number of cards in the defender's hand. Any player is entitled to ask and to be told how many cards the defender is holding.
+Quand le défenseur commence une manche avec moins de 6 cartes en main, le nombre de cartes d'attaque est limité à pas plus que le nombre de cartes dans la main du défenseur. Tout joueur a le droit de demander et d'être informé du nombre de cartes que le défenseur détient.
 
-A player who manages to play their last card, emptying their hand, drops out of the game and cannot lose. The turns of these players are skipped. For example if the defender holds 3 cards, is attacked with 3 cards, and kills all three of these cards, the turn to attack next passes to the next player after that defender in clockwise order who still holds at least one card. 
+Un joueur qui réussit à jouer sa dernière carte, vidant sa main, quitte le jeu et ne peut pas perdre. Les tours de ces joueurs sont sautés. Par exemple, si le défenseur détient 3 cartes, est attaqué avec 3 cartes, et tue ces trois cartes, le tour d'attaquer passe au joueur suivant après ce défenseur dans le sens horaire qui détient encore au moins une carte.
 
-When all players except one have run out of cards, the last player who holds cards is the loser, and has to shuffle and deal the cards for the next game. 
+Quand tous les joueurs sauf un ont épuisé leurs cartes, le dernier joueur qui a des cartes est le perdant, et doit mélanger et distribuer les cartes pour la partie suivante.
 
-There is no system of scoring. The aim is simply not to lose the game. It would of course be possible to keep track of how many games each player has lost during a session, but so far as I know this is not normally done.
+Il n'y a pas de système de marquage. Le but est simplement de ne pas perdre la partie. Il serait bien sûr possible de garder trace du nombre de parties perdues par chaque joueur pendant une session, mais autant que je sache, ce n'est généralement pas fait.
 
-Note that when only two players remain and the attacker attacks with all their cards, the defender loses the game as the last player holding cards even if the defender's cards would have been able to kill all the attack cards. This is different from the usual rules for similar games played in Russia, where the result in the case where the defender knocked down the final attack would be a tie, after which the same player who dealt the tied game would deal again.
+Notez que lorsqu'il ne reste que deux joueurs et que l'attaquant attaque avec toutes ses cartes, le défenseur perd la partie en tant que dernier joueur à avoir des cartes même si les cartes du défenseur auraient pu tuer toutes les cartes d'attaque. Cela diffère des règles habituelles des jeux similaires joués en Russie, où le résultat dans le cas où le défenseur aurait repoussé l'attaque finale serait un match nul, après lequel le même joueur qui a distribué la partie nulle redistribuerait.
 
-## Variations
+## Variantes
 
-### TARAKI Moska with self execution
+### Moska TARAKI avec auto-exécution
 
-In this variant, the defender has the additional option to continue an attack by attacking themselves. The defender plays an attack card from their hand of the same rank as one previously used in the bout and must then immediately kill it with another card from their own hand. This process consumes **two** of the permitted attack cards. 
+Dans cette variante, le défenseur a l'option supplémentaire de poursuivre une attaque en s'attaquant lui-même. Le défenseur joue une carte d'attaque de sa main de même valeur qu'une déjà utilisée dans la manche et doit immédiatement la tuer avec une autre carte de sa propre main. Ce processus consomme **deux** cartes d'attaque autorisées.
 
-For example if the initial attack is a set of three 4's, the defender might kill these with two 6's and one 8 of appropriate suits, and then attack themselves with another 8 which they immediately kill with the 9 of the same suit. The defender has now used five cards - three to kill the initial attack and two for the self execution, so only one more attack card is allowed. Also the defender is not allowed in this case to perform a second self execution, even if they began the bout with more than six cards, since that would exceed the six-card limit on attacks. 
+Par exemple, si l'attaque initiale est un groupe de trois 4, le défenseur pourrait les tuer avec deux 6 et un 8 de couleurs appropriées, puis s'attaquer lui-même avec un autre 8 qu'il tue immédiatement avec le 9 de la même couleur. Le défenseur a maintenant utilisé cinq cartes — trois pour tuer l'attaque initiale et deux pour l'auto-exécution, donc une seule carte d'attaque supplémentaire est autorisée. De plus, le défenseur n'est pas autorisé dans ce cas à effectuer une seconde auto-exécution, même s'il a commencé la manche avec plus de six cartes, car cela dépasserait la limite de six cartes d'attaque.
 
-It is however possible to perform two self executions if the initial attack consists of only one or two cards. For example the initial attack is the ![club](../images/internat/club.gif)**3**, the defender kills this with the ![club](../images/internat/club.gif)4, then kills their own ![heart](../images/internat/heart.gif)4 with the ![heart](../images/internat/heart.gif)7 and kills their own ![spade](../images/internat/spade.gif)**7** with the ![spade](../images/internat/spade.gif)**8**. Five attack cards have been used so the attackers can play one more card, which must be a 3, 4, 7 or 8.
+Il est cependant possible d'effectuer deux auto-exécutions si l'attaque initiale ne consiste qu'en une ou deux cartes. Par exemple, l'attaque initiale est le ![trèfle](../images/internat/club.gif)**3**, le défenseur la tue avec le ![trèfle](../images/internat/club.gif)4, puis tue son propre ![cœur](../images/internat/heart.gif)4 avec le ![cœur](../images/internat/heart.gif)7 et tue son propre ![pique](../images/internat/spade.gif)**7** avec le ![pique](../images/internat/spade.gif)**8**. Cinq cartes d'attaque ont été utilisées, donc les attaquants peuvent jouer une carte de plus, qui doit être un 3, 4, 7 ou 8.
 
-### No trump indicator exchange
+### Pas d'échange de l'indicateur d'atout
 
-Another feature of the TARAKI game is that the holder of the two of trumps is not allowed to exchange it for the trump indicator. The original trump indicator card remains in place until it is drawn as the last card of the stock.
+Une autre caractéristique du jeu TARAKI est que le détenteur du deux d'atout n'est pas autorisé à l'échanger contre l'indicateur d'atout. La carte indicatrice originale reste en place jusqu'à ce qu'elle soit piochée comme dernière carte de la pioche.
 
-### Killing by drawing a card from the stock
+### Tuer en piochant une carte de la pioche
 
-Some play that if there are live attack cards remaining on the table that the defender is unable or unwilling to kill using cards from their hand, the defender may if they wish attempt to use the top card of the stock to kill an attack card. They turn the top card of the stock face up, and if it can kill a live attack card the defender must do so. If any live attack cards remain the defender may then continue to try to beat these using cards drawn from the stock. 
+Certains jouent que s'il reste des cartes d'attaque actives sur la table que le défenseur est incapable ou ne veut pas tuer avec les cartes de sa main, le défenseur peut, s'il le souhaite, essayer d'utiliser la carte du dessus de la pioche pour tuer une carte d'attaque. Il retourne la carte du dessus de la pioche face visible, et si elle peut tuer une carte d'attaque active, le défenseur doit le faire. S'il reste des cartes d'attaque actives, le défenseur peut alors continuer à essayer de les battre avec des cartes piochées de la pioche.
 
-After the defender has killed an attack card using a card from the stock, if the limit on attack cards has not been reached players may continue the attack, and if the card played from the stock introduced a new rank this becomes an additional attack option.
+Après que le défenseur a tué une carte d'attaque avec une carte de la pioche, si la limite de cartes d'attaque n'est pas atteinte, les joueurs peuvent poursuivre l'attaque, et si la carte jouée de la pioche a introduit une nouvelle valeur, celle-ci devient une option d'attaque supplémentaire.
 
-If the drawn card cannot beat any live attack card, the defender must add the stock card to their hand and this ends the bout. If there was space for additional attack cards, other players may give cards to the defender that match cards played during the bout, but not cards that match a new rank of drawn by the defender from the stock, since this card was not played in the bout. 
+Si la carte piochée ne peut battre aucune carte d'attaque active, le défenseur doit ajouter la carte de la pioche à sa main et cela termine la manche. S'il restait de la place pour des cartes d'attaque supplémentaires, les autres joueurs peuvent donner des cartes au défenseur qui correspondent à des cartes jouées pendant la manche, mais pas des cartes correspondant à une nouvelle valeur piochée par le défenseur de la pioche, puisque cette carte n'a pas été jouée dans la manche.
 
-### Exposing the second to last card of the stock
+### Révéler l'avant-dernière carte de la pioche
 
-Some play that when only two cards remain in the stock, the trump indicator and one face down card on top of it, the face down card may be turned face up so that both cards are known. 
+Certains jouent que lorsqu'il ne reste que deux cartes dans la pioche, l'indicateur d'atout et une carte face cachée par-dessus, la carte face cachée peut être retournée face visible pour que les deux cartes soient connues.
 
 ### Turamoska vs Moska
 
-Players of some of the above variants call the game Turamoska, but there does not seem to be general agreement on what the difference is between Moska and Turamoska. According to some but by no means all players, Moska is a simpler and less interesting game in which an attack can only be continued with ranks equal to those of the original attack cards, not with cards that only match ranks used by the defender to kill previous attack cards.
+Les joueurs de certaines des variantes ci-dessus appellent le jeu Turamoska, mais il ne semble pas y avoir d'accord général sur la différence entre Moska et Turamoska. Selon certains joueurs (mais pas tous), Moska est un jeu plus simple et moins intéressant dans lequel une attaque ne peut être poursuivie qu'avec des valeurs égales à celles des cartes d'attaque originales, pas avec des cartes correspondant uniquement aux valeurs utilisées par le défenseur pour tuer les cartes d'attaque précédentes.
 
-### No six card attack limit in Turamoska
+### Pas de limite de six cartes d'attaque dans Turamoska
 
-One characteristic of Turamoska is that the number of cards in an attack is not limited to six, but only by the number of cards held by the defender at the start of the bout. The attack can continue so long as the number of cards held by the defender is greater than the number of live attack cards on the table, and in the self execution variant, self execution is allowed so long as the defender holds at least two more cards than than the number of live attack cards on the table. Players are always allowed to ask and to be told how many cards the defender holds, so that they can know how many more attack cards can be played. 
+Une caractéristique du Turamoska est que le nombre de cartes d'une attaque n'est pas limité à six, mais seulement par le nombre de cartes détenues par le défenseur au début de la manche. L'attaque peut continuer tant que le nombre de cartes détenues par le défenseur est supérieur au nombre de cartes d'attaque actives sur la table, et dans la variante d'auto-exécution, l'auto-exécution est autorisée tant que le défenseur détient au moins deux cartes de plus que le nombre de cartes d'attaque actives sur la table. Les joueurs sont toujours autorisés à demander et à être informés du nombre de cartes que le défenseur détient, pour qu'ils sachent combien de cartes d'attaque supplémentaires peuvent être jouées.
 
-According to a message from Harri Junttila to Cristian Seres in 2005, Turamoska is played in Pyhäselkä, North Karelia with no limit at all on the number of attack cards in a bout. Provided that they respect the rule of only playing ranks that have previously appeared in the bout, the attackers can play as many cards as they wish, and if they play more cards than the defender is holding, the defender has no way to kill all these cards and must therfore pick some of them up, forfeiting their turn to attack. Harri Junttila describes this as a particularly annoying - but entertaining - variation of Moska.
+Selon un message de Harri Junttila à Cristian Seres en 2005, le Turamoska se joue à Pyhäselkä, en Carélie du Nord, sans aucune limite sur le nombre de cartes d'attaque dans une manche. Pourvu qu'ils respectent la règle de ne jouer que des valeurs déjà apparues dans la manche, les attaquants peuvent jouer autant de cartes qu'ils veulent, et s'ils jouent plus de cartes que ce que le défenseur détient, le défenseur n'a aucun moyen de toutes les tuer et doit donc en ramasser certaines, perdant son tour d'attaque. Harri Junttila décrit cela comme une variante particulièrement agaçante — mais divertissante — du Moska.
 
-### Three losses in a row
+### Trois défaites consécutives
 
-There is sometimes a special penalty for a player who loses three consecutive games. These may include certain traditional insults, or being expelled from the game. According to Outi Pulkkinen, posting on Mikko Saari's website, in Punkaharju a player who loses twice in a row is said to be on a pedestal (*korokkeelle*). The session cannot end at this point: another game must be played and if the same player loses for a third time they become a 'reindeer's egg" (*poronmuna*).
+Il y a parfois une pénalité spéciale pour un joueur qui perd trois parties consécutives. Celles-ci peuvent inclure certaines insultes traditionnelles, ou l'expulsion du jeu. Selon Outi Pulkkinen, publiant sur le site de Mikko Saari, à Punkaharju un joueur qui perd deux fois de suite est dit être sur un piédestal (*korokkeelle*). La session ne peut pas se terminer à ce stade : une autre partie doit être jouée et si le même joueur perd pour une troisième fois, il devient un « œuf de renne » (*poronmuna*).
 
-## Sources of Information
+## Sources d'information
 
-The comments on the following pages include descriptions of several more variants.
+Les commentaires sur les pages suivantes incluent des descriptions de plusieurs autres variantes.
 
-Cristian Seres' [Moska page](https://web.archive.org/web/20130924084500/http://korttipelit.net/moska) (archive copy)
+La [page Moska de Cristian Seres](https://web.archive.org/web/20130924084500/http://korttipelit.net/moska) (copie d'archive)
 
-Mikko Saari's pages on [Moska](https://korttipeliopas.fi/moska) and [Turamoska](https://korttipeliopas.fi/turamoska).
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Moska
+Les pages de Mikko Saari sur la [Moska](https://korttipeliopas.fi/moska) et la [Turamoska](https://korttipeliopas.fi/turamoska).

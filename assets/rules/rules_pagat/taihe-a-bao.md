@@ -2,118 +2,116 @@
 
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** Jiangqi province. This is a climbing game with bidding using a 40-card pack.
+**But :** Province du Jiangxi. Il s'agit d'un jeu d'escalade avec enchères utilisant un jeu de 40 cartes.
 
 ---
 
 ## Introduction
 
-A correspondent reports having learned this game while living in Taihe (泰和) county, Jiangxi (江西) province, China, around 2013. We are not sure whether it has other names. The Roman 'A' in the name refers to the Ace, which is the highest ranking card in the game.
+Un correspondant rapporte avoir appris ce jeu en vivant dans le comté de Taihe (泰和), province du Jiangxi (江西), Chine, vers 2013. Nous ne sommes pas sûrs qu'il porte d'autres noms. Le « A » romain dans le nom fait référence à l'As, qui est la carte la plus forte du jeu.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players, three of whom (the *opponents)* form a temporary partnership against the remaining player (the *declarer*) each hand. Three or five players can play by adapting the rules, described in the Variations section. Regardless of the number of players, in each hand there is always one declarer playing against the remaining players as a team.
+Il y a quatre joueurs, dont trois (les *adversaires*) forment un partenariat temporaire contre le joueur restant (le *déclarant*) à chaque donne. Trois ou cinq joueurs peuvent jouer en adaptant les règles, décrites dans la section des variantes. Quel que soit le nombre de joueurs, à chaque donne il y a toujours un déclarant jouant contre les autres joueurs en équipe.
 
-A 40-card deck is used, made by removing all 2s, 3s, and 8s from a regular 52-card French-suited deck. The ranks of the cards are, from high to low, A, K, Q, J, 10, 9, 7, 6, 5, 4. Suits are irrelevant to ranking.
+Un jeu de 40 cartes est utilisé, constitué en retirant tous les 2, 3 et 8 d'un jeu de 52 cartes à couleurs françaises standard. Les rangs des cartes sont, de la plus forte à la plus faible, A, R, D, V, 10, 9, 7, 6, 5, 4. Les couleurs sont sans importance pour le classement.
 
-Play is counterclockwise.
+Le jeu se fait dans le sens inverse des aiguilles d'une montre.
 
-## The Deal
+## La donne
 
-The deck is shuffled and each player receives 10 cards. As is the case with most Chinese games, the cards are not dealt, but rather taken by the players one at a time in turn, in counter-clockwise order, from the face-down deck placed in the middle of the table. 
+Le jeu est mélangé et chaque joueur reçoit 10 cartes. Comme c'est le cas pour la plupart des jeux chinois, les cartes ne sont pas distribuées, mais plutôt prises par les joueurs une à la fois à tour de rôle, dans le sens antihoraire, depuis le jeu face en bas placé au centre de la table.
 
-If it is known who will start the bidding this hand, that player should take the first card, and the player to their left should shuffle. Otherwise, it doesn't matter who shuffles or takes the first card.
+Si on sait qui commencera les enchères pour cette donne, ce joueur devrait prendre la première carte, et le joueur à sa gauche devrait mélanger. Sinon, cela n'importe pas qui mélange ou qui prend la première carte.
 
-## Bidding
+## Enchères
 
-The player who starts the bidding is:
+Le joueur qui commence les enchères est :
 
-- the previous declarer, if they won the previous hand, or
+- le déclarant précédent, s'il a gagné la donne précédente, ou
 
-- the player to the previous declarer's right, if the previous declarer lost, or
+- le joueur à la droite du déclarant précédent, si le déclarant précédent a perdu, ou
 
-- the holder of the 4 of hearts, if it is the first hand of the session.
+- le détenteur du 4 de cœurs, s'il s'agit de la première donne de la session.
 
-Starting with this player, each player in counterclockwise order may declare or pass. If anyone declares, the play immediately begins with that player as declarer. 
+En commençant par ce joueur, chaque joueur dans le sens antihoraire peut déclarer ou passer. Si quelqu'un déclare, le jeu commence immédiatement avec ce joueur comme déclarant.
 
-If all players pass in this first round, there is a second round of bidding, starting with the same player who began the first round. In the second round of bidding each player in turn must either call for a card or pass. Calling for a card is done as follows.
+Si tous les joueurs passent lors de ce premier tour, il y a un deuxième tour d'enchères, commençant par le même joueur qui a commencé le premier tour. Lors du deuxième tour, chaque joueur à son tour doit soit demander une carte soit passer. Demander une carte se fait comme suit :
 
-- The bidder names a card by rank and suit.
+- L'enchérisseur nomme une carte par son rang et sa couleur.
 
-- The holder of the requested card must immediately pass it face-up to the bidder.
+- Le détenteur de la carte demandée doit immédiatement la passer face visible à l'enchérisseur.
 
-- In exchange, the bidder passes an unwanted card face-down to the player who passed the requested card.
+- En échange, l'enchérisseur passe une carte indésirable face en bas au joueur qui a passé la carte demandée.
 
-The following cards may not be called for:
+Les cartes suivantes ne peuvent pas être demandées :
 
-- Any card the bidder holds.
+- N'importe quelle carte que l'enchérisseur détient.
 
-- Any Ace.
+- N'importe quel As.
 
-- The 4 of hearts, if it was used to determine who starts the bidding.
+- Le 4 de cœurs, s'il a été utilisé pour déterminer qui commence les enchères.
 
-- Any card anyone else has already called for. Note that calling for a card of the same rank but a different suit is allowed. Only the specific card previously called for is forbidden.
+- N'importe quelle carte que quelqu'un d'autre a déjà demandée. Notez que demander une carte du même rang mais d'une couleur différente est autorisé. Seule la carte spécifique précédemment demandée est interdite.
 
-The following cards may not be given away in exchange for the requested card:
+Les cartes suivantes ne peuvent pas être cédées en échange de la carte demandée :
 
-- Any Ace.
+- N'importe quel As.
 
-- The 4 of hearts, if it was used to determine who starts the bidding.
+- Le 4 de cœurs, s'il a été utilisé pour déterminer qui commence les enchères.
 
-In the second round of bidding **everyone** has one chance to either call for a card or pass. Calling does not end the bidding. When all have spoken, the **last** player who called for a card becomes declarer for the hand. 
+Lors du deuxième tour d'enchères, **tout le monde** a une chance de demander une carte ou de passer. Demander ne met pas fin aux enchères. Quand tous ont parlé, le **dernier** joueur qui a demandé une carte devient le déclarant de la donne.
 
-If everyone passes in the second round, the cards are thrown in without play and the hand is re-dealt and the same player starts the bidding again.
+Si tout le monde passe lors du deuxième tour, les cartes sont jetées sans jouer et la donne est redistribuée avec le même joueur recommençant les enchères.
 
-Note that in the second round of bidding each player only gets one chance to bid. A player who has passed in the second round cannot later call for a card, even if their hand was improved by subsequent exchanges.
+Notez que lors du deuxième tour d'enchères, chaque joueur n'a qu'une chance d'enchérir. Un joueur qui a passé lors du deuxième tour ne peut pas demander de carte plus tard, même si sa main a été améliorée par des échanges ultérieurs.
 
-## The Play
+## Le jeu
 
-The declarer begins play by leading any legal combination. Each player in turn may then beat the previous combination played, or pass. Beating a combination is usually done by playing a higher-ranking combination of the same type, though there are other ways, described below. Players may pass even if they can play, and may play even after having passed on the same type of combination. When three passes occur in a row, the played cards are set aside and player who played the unbeaten combination begins again by leading any legal combination. The following types of combinations may be played:
+Le déclarant commence le jeu en menant n'importe quelle combinaison légale. Chaque joueur à son tour peut alors battre la combinaison précédente jouée, ou passer. Battre une combinaison se fait généralement en jouant une combinaison de même type de rang supérieur, bien qu'il y ait d'autres moyens, décrits ci-dessous. Les joueurs peuvent passer même s'ils peuvent jouer, et peuvent jouer même après avoir passé sur le même type de combinaison. Quand trois passes se produisent consécutivement, les cartes jouées sont mises de côté et le joueur qui a joué la combinaison imbattue recommence en menant n'importe quelle combinaison légale. Les types de combinaisons suivants peuvent être joués :
 
-- A single card.
+- Une carte seule.
 
-- A pair of cards of identical rank.
+- Une paire de cartes de même rang.
 
-- A sequence of three or more cards of consecutive rank. Aces may not be used in sequences, and 7 and 9 are not consecutive. To beat another sequence, a sequence must contain the same number of cards as the other sequence and have a higher top-ranking card.
+- Une suite de trois cartes ou plus de rangs consécutifs. Les As ne peuvent pas être utilisés dans les suites, et 7 et 9 ne sont pas consécutifs. Pour battre une autre suite, une suite doit avoir le même nombre de cartes que l'autre suite et avoir une carte de rang supérieur.
 
-- A double sequence of two or more pairs of consecutive rank, e.g. 5566 or JJQQKK. Aces may not be used in double sequences, and 7 and 9 are not consecutive. To beat another double sequence, a double sequence must contain the same number of cards as the other double sequence and have a higher top-ranking pair.
+- Une double suite de deux paires ou plus de rangs consécutifs, par ex. 5566 ou VVDDRR. Les As ne peuvent pas être utilisés dans les doubles suites, et 7 et 9 ne sont pas consécutifs. Pour battre une autre double suite, une double suite doit avoir le même nombre de cartes que l'autre double suite et avoir une paire de rang supérieur.
 
-- Three cards of identical rank. In addition to beating lower three-of-a-kinds, it can also beat any combination of any other type, except four-of-a-kind.
+- Trois cartes de même rang. En plus de battre les brelans inférieurs, il peut aussi battre n'importe quelle combinaison de tout autre type, sauf un carré.
 
-- Four cards of identical rank. In addition to beating lower four-of-a-kinds, it can also beat any combination of any other type.
+- Quatre cartes de même rang. En plus de battre les carrés inférieurs, il peut aussi battre n'importe quelle combinaison de tout autre type.
 
-Three-of-a-kind and four-of-a-kind known as "**bombs**" due to their ability to beat any non-bomb combination.
+Les brelans et les carrés sont appelés **« bombes »** en raison de leur capacité à battre n'importe quelle combinaison non-bombe.
 
-Play continues until one player is out of cards. If this is the declarer, they win. If this is any other player, the declarer loses.
+Le jeu continue jusqu'à ce qu'un joueur n'ait plus de cartes. S'il s'agit du déclarant, il gagne. S'il s'agit de n'importe quel autre joueur, le déclarant perd.
 
-## Scoring
+## Score
 
-The game is usually played for money, with an amount agreed upon as one stake. If not playing for money, players win and lose "points", each point representing one stake.
+Le jeu se joue généralement pour de l'argent, avec un montant convenu comme mise. Si on ne joue pas pour de l'argent, les joueurs gagnent et perdent des « points », chaque point représentant une mise.
 
-If the declarer called for a card, the value of the hand, in stakes, is the number of people who called for a card during the bidding phase, including the declarer. 
+Si le déclarant a demandé une carte, la valeur de la donne, en mises, est le nombre de personnes qui ont demandé une carte pendant la phase d'enchères, y compris le déclarant.
 
-If no one called for a card, i.e. the declarer declared in the first round of bidding, the value of the hand is the total number of players plus one.
+Si personne n'a demandé de carte, c'est-à-dire que le déclarant a déclaré lors du premier tour d'enchères, la valeur de la donne est le nombre total de joueurs plus un.
 
-The declarer wins or loses the value of the hand to each opponent. For example, if three players called for a card during the bidding, and the declarer wins, they would collect three stakes from each opponent. A hand declared in the first phase of bidding in a four-player game would be worth five stakes against each opponent.
+Le déclarant gagne ou perd la valeur de la donne contre chaque adversaire. Par exemple, si trois joueurs ont demandé une carte pendant les enchères, et que le déclarant gagne, il collecterait trois mises de chaque adversaire. Une donne déclarée lors de la première phase d'enchères dans un jeu à quatre joueurs vaudrait cinq mises contre chaque adversaire.
 
-## Variations
+## Variantes
 
-Five players can play, each receiving eight cards. A hand declared in the first phase of bidding is worth six stakes against each opponent.
+Cinq joueurs peuvent jouer, chacun recevant huit cartes. Une donne déclarée lors de la première phase d'enchères vaut six mises contre chaque adversaire.
 
-Three players can play by removing the Ace of Spades from the deck, each player receiving 13 cards. In this variant, a set of three Aces counts as four Aces: it beats any other combination, including four-of-a-kind, and is unbeatable. A hand declared in the first phase of bidding is worth four stakes against each opponent.
+Trois joueurs peuvent jouer en retirant l'As de Pique du jeu, chaque joueur recevant 13 cartes. Dans cette variante, un ensemble de trois As compte comme quatre As : il bat n'importe quelle autre combinaison, y compris un carré, et est imbattable. Une donne déclarée lors de la première phase d'enchères vaut quatre mises contre chaque adversaire.
 
-Some play without Aces. Kings are then the highest ranking cards. In this variant, Kings may be exchanged during the bidding, and may be played as part of a sequence or double sequence. Five players can play without Aces by also removing the King of Spades, each player starting with seven cards. Three can play without Aces without further modifying the deck, each starting with 12 cards.
+Certains jouent sans As. Les Rois sont alors les cartes les plus fortes. Dans cette variante, les Rois peuvent être échangés pendant les enchères, et peuvent être joués comme partie d'une suite ou d'une double suite. Cinq joueurs peuvent jouer sans As en retirant aussi le Roi de Pique, chaque joueur commençant avec sept cartes. Trois peuvent jouer sans As sans autre modification du jeu, chacun commençant avec 12 cartes.
 
-Some allow calling for a card already called by someone else during the bidding. Some allow it only if the bidder needs that card to complete a four-of-a-kind.
+Certains autorisent à demander une carte déjà demandée par quelqu'un d'autre pendant les enchères. Certains ne l'autorisent que si l'enchérisseur a besoin de cette carte pour compléter un carré.
 
-Some use the 4 of hearts to determine who begins bidding each hand, ignoring the result of the previous hand.
+Certains utilisent le 4 de cœurs pour déterminer qui commence les enchères à chaque donne, ignorant le résultat de la donne précédente.
 
-Some do not allow the player who starts the bidding to pass during the second phase of bidding. They must call for a card.
+Certains n'autorisent pas le joueur qui commence les enchères à passer pendant la deuxième phase d'enchères. Il doit demander une carte.
 
-Some play that if exactly one player calls for a card during bidding, they automatically win one stake from each opponent, and the hand is not played.
+Certains jouent que si exactement un joueur demande une carte pendant les enchères, il gagne automatiquement une mise de chaque adversaire, et la donne n'est pas jouée.
 
-Some play with simplified scoring: a hand declared during the first round of bidding is worth two stakes against each opponent, otherwise it is worth one.
+Certains jouent avec un score simplifié : une donne déclarée lors du premier tour d'enchères vaut deux mises contre chaque adversaire, sinon elle en vaut une.
 
-Some play that if the declarer wins before any opponent plays any cards, the value of the game is doubled. In addition, some play that if the declarer loses after having played their opening lead but no other cards, the value of the game is doubled.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Tàihé A Bāo
+Certains jouent que si le déclarant gagne avant qu'un adversaire n'ait joué aucune carte, la valeur du jeu est doublée. De plus, certains jouent que si le déclarant perd après avoir joué son entame mais aucune autre carte, la valeur du jeu est doublée.

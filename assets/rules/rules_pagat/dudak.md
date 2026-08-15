@@ -2,106 +2,104 @@
 
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A beating game in which each player has their own trump suit.
+**But :** Un jeu de bataille dans lequel chaque joueur possède sa propre couleur d'atout.
 
 ---
 
 ## Introduction
 
-This Czech game belongs to the same family as the famous Russian game Durak, and that is maybe how it acquired its similar sounding name **Dudák**, which actually means "bagpiper". It was popular in the mid twentieth century but is perhaps less well-known nowadays. 
+Ce jeu tchèque appartient à la même famille que le célèbre jeu russe Durak, et c'est peut-être ainsi qu'il a acquis son nom similaire **Dudák**, qui signifie en fait « joueur de cornemuse ». Il était populaire au milieu du XXe siècle mais est peut-être moins connu de nos jours.
 
-As in all games of this group, the object is to get rid of one's cards, the loser being the last player holding cards when the others have run out. To get rid of cards one has to be able to beat the card previously played, either with a high card of the same suit or with a trump. An unusual feature of the game is that (as in the related Russian game Svoi Kozyri), every player has his or her own trump suit.
+Comme dans tous les jeux de ce groupe, le but est de se débarrasser de ses cartes, le perdant étant le dernier joueur à avoir encore des cartes lorsque les autres en ont fini. Pour se débarrasser des cartes, il faut pouvoir battre la carte jouée précédemment, soit avec une carte supérieure de la même couleur, soit avec un atout. Une caractéristique inhabituelle du jeu est que (comme dans le jeu russe apparenté Svoi Kozyri), chaque joueur possède sa propre couleur d'atout.
 
-This page is based on several sources, including the book *Oficiální Pravidla Karetních Her* by Tomáš Svoboda et al., and correspondence with Richard Heli, Jaroslav Mikovec, Alexey Lobashev, Zbyněk Hartmann and others.
+Cette page est basée sur plusieurs sources, dont le livre *Oficiální Pravidla Karetních Her* de Tomáš Svoboda et al., ainsi que sur des correspondances avec Richard Heli, Jaroslav Mikovec, Alexey Lobashev, Zbyněk Hartmann et d'autres.
 
-## Players and Cards
+## Joueurs et cartes
 
-Dudák is best for four players, and this version will be described first. It is also possible for two or three people to play.
+Le Dudák se joue idéalement à quatre joueurs, et cette version sera décrite en premier. Il est également possible de jouer à deux ou trois.
 
-A German suited 32-card pack used. The suits are acorns (*žaludy*), leaves (*zelené* - green), hearts (*červené* - red) and balls (*kule*) and the cards in each suit, from high to low, are ace (*eso*), king (*král*), over (*svršek* or *filek*), under (*spodek*), 10 (*deset*), 9 (*devět*), 8 (*osm*), 7 (*sedm*). Generally, cards of the Bohemian pattern are used. In this design, illustrated below, the aces have two suit symbols at the top, the kings are seated and also have two suit symbols, the overs have one suit symbol at the top, the unders one suit symbol at the bottom of the card, and the numeral cards are identified by the number of symbols. The tens also have a roman number X. 
+On utilise un jeu de 32 cartes allemandes. Les couleurs sont glands (*žaludy*), feuilles (*zelené* — vert), cœurs (*červené* — rouge) et boules (*kule*), et les cartes de chaque couleur, de la plus haute à la plus basse, sont : as (*eso*), roi (*král*), dessus (*svršek* ou *filek*), dessous (*spodek*), 10 (*deset*), 9 (*devět*), 8 (*osm*), 7 (*sedm*). On utilise généralement les cartes de type bohème. Dans ce design, illustré ci-dessous, les as ont deux symboles de couleur en haut, les rois sont assis et ont également deux symboles, les dessus ont un symbole en haut, les dessous un symbole en bas de la carte, et les cartes numériques sont identifiées par le nombre de symboles. Les dix portent également un chiffre romain X.
 
 ![acorn ace](../images/bohemia/aa.gif)![leaf king](../images/bohemia/gk.gif)![heart over](../images/bohemia/ro.gif)![ball under](../images/bohemia/bu.gif)![acorn 10](../images/bohemia/ax.gif)![leaf 9](../images/bohemia/g9.gif)![heart 8](../images/bohemia/r8.gif)![ball 7](../images/bohemia/b7.gif)
 
-If these cards are not available, it is possible, though less authentic, to play with another German suited card pattern or even with 32 cards from a standard international pack.
+Si ces cartes ne sont pas disponibles, il est possible, bien que moins authentique, de jouer avec un autre motif de cartes allemandes ou même avec 32 cartes d'un jeu international standard.
 
-## The Deal
+## La donne
 
-The cards are dealt out equally to the four players, so that each has eight cards. Any player may deal the first hand, and subsequently the loser of each hand deals the next.
+Les cartes sont distribuées équitablement aux quatre joueurs, de sorte que chacun a huit cartes. N'importe quel joueur peut donner la première main, et ensuite le perdant de chaque main donne la suivante.
 
-## The Play
+## Le jeu
 
-Play is clockwise, beginning with the player to the left of the dealer. Cards are played from hand onto a face up play pile in the centre of the table. At the start of the play, the play pile is empty, and the first play plays one card. Subsequent players beat the top card of the pile (with a higher card of the same suit or a trump - see below) and then play a second card of their choice. In this way the play pile grows until someone is unable to or does not wish to beat the second card played by their predecessor. In this case they must pick up cards from the pile, according to the rules below. If a player picks up all the cards from the pile, the turn passes to the next player, who may play any card to start a new pile.
+Le jeu se déroule dans le sens horaire, en commençant par le joueur à la gauche du donneur. Les cartes sont jouées depuis la main sur un tas de jeu face visible au centre de la table. Au début du jeu, le tas est vide et le premier joueur joue une carte. Les joueurs suivants battent la carte du haut du tas (avec une carte supérieure de la même couleur ou un atout — voir ci-dessous) puis jouent une deuxième carte de leur choix. Ainsi le tas grandit jusqu'à ce que quelqu'un soit incapable ou ne souhaite pas battre la deuxième carte jouée par son prédécesseur. Dans ce cas, il doit ramasser des cartes du tas, selon les règles ci-dessous. Si un joueur ramasse toutes les cartes du tas, le tour passe au joueur suivant, qui peut jouer n'importe quelle carte pour commencer un nouveau tas.
 
-At the beginning of any turn, a player may declare a trump suit. From the remainder of this deal, the player may use any card of this suit to beat any card of another suit. It is not allowed for more than one player to have the same trump suit, so players may only declare a suit that has not already been declared by another player. When three players have declared trumps, the fourth suit automatically becomes trumps for the fourth player. A player's trump suit, once declared, cannot be changed until the following deal.
+Au début de n'importe quel tour, un joueur peut déclarer une couleur d'atout. Pour le reste de cette donne, le joueur peut utiliser n'importe quelle carte de cette couleur pour battre n'importe quelle carte d'une autre couleur. Il n'est pas permis que plus d'un joueur ait la même couleur d'atout, donc les joueurs ne peuvent déclarer qu'une couleur qui n'a pas déjà été déclarée par un autre joueur. Lorsque trois joueurs ont déclaré des atouts, la quatrième couleur devient automatiquement l'atout du quatrième joueur. La couleur d'atout d'un joueur, une fois déclarée, ne peut être changée avant la donne suivante.
 
-The rules of play are as follows:
+Les règles de jeu sont les suivantes :
 
-- If the play pile is empty, a turn consists of playing any one card from hand to the table to start a new pile.
+- Si le tas de jeu est vide, un tour consiste à jouer n'importe quelle carte de la main sur la table pour commencer un nouveau tas.
 
-- If the play pile is not empty, and the player has not yet declared trumps, the player may either 
+- Si le tas n'est pas vide et que le joueur n'a pas encore déclaré d'atout, le joueur peut soit
 
-- beat the top card of the pile with a higher card of the same suit and play a second card, which may be any card from the player's hand, or
+- battre la carte du haut du tas avec une carte supérieure de la même couleur et jouer une deuxième carte, qui peut être n'importe quelle carte de la main du joueur, ou
 
-- remove cards one at a time from the top of the pile until a card is exposed which the player is able and willing to beat with a higher card of the same suit from hand. After beating this card, the player adds the cards removed from the play pile to his or her hand, and plays a second card on the play pile, which can be any card, including one of the cards just acquired from the play pile.
+- retirer les cartes une à une du haut du tas jusqu'à ce qu'une carte soit exposée que le joueur est capable et veut battre avec une carte supérieure de la même couleur de sa main. Après avoir battu cette carte, le joueur ajoute les cartes retirées du tas à sa main et joue une deuxième carte sur le tas, qui peut être n'importe quelle carte, y compris une des cartes venant d'être acquises du tas.
 
-- continue removing cards from the play pile until it is empty. In this case the cards taken from the pile are added to the player's hand. A player who empties the pile does not play a card, and the turn passes to the next player.
+- continuer à retirer les cartes du tas jusqu'à ce qu'il soit vide. Dans ce cas, les cartes prises dans le tas sont ajoutées à la main du joueur. Un joueur qui vide le tas ne joue pas de carte et le tour passe au joueur suivant.
 
-- If the play pile is not empty and the player has already declared a trump suit, the player may either
+- Si le tas n'est pas vide et que le joueur a déjà déclaré une couleur d'atout, le joueur peut soit
 
-- beat the top card of the pile with a higher card of the same suit or any card of the player's own trump suit and then play a second card (any card), or
+- battre la carte du haut du tas avec une carte supérieure de la même couleur ou n'importe quelle carte de sa propre couleur d'atout, puis jouer une deuxième carte (n'importe quelle carte), ou
 
-- pick up the whole play pile and play no cards. In this case the turn passes to the next player, who may play any card to the empty table.
+- ramasser tout le tas de jeu et ne jouer aucune carte. Dans ce cas, le tour passe au joueur suivant, qui peut jouer n'importe quelle carte sur la table vide.
 
-## The Endgame
+## Fin de partie
 
-A player who runs of cards drops out of the play, and the others continue playing until only one player has cards. This player is the loser.
+Un joueur qui n'a plus de cartes quitte le jeu, et les autres continuent jusqu'à ce qu'un seul joueur ait encore des cartes. Ce joueur est le perdant.
 
-If a player has only one card left in hand, and uses it to beat the top card of the pile, the whole play pile is discarded from the game and not used again until the next deal. The next player may play any card to begin a new pile. This procedure is known as *vejbit* or *abštych*.
+Si un joueur n'a plus qu'une carte en main et l'utilise pour battre la carte du haut du tas, tout le tas est écarté du jeu et n'est plus utilisé jusqu'à la donne suivante. Le joueur suivant peut jouer n'importe quelle carte pour commencer un nouveau tas. Cette procédure est appelée *vejbit* ou *abštych*.
 
-## Variations
+## Variantes
 
-It seems that there are several slight variations in the play. However, since several published descriptions of this game are unclear or ambiguous, it may be that some of these are mistakes rather than versions of the game that are actually played.
+Il semble y avoir plusieurs légères variantes de jeu. Cependant, comme plusieurs descriptions publiées de ce jeu sont peu claires ou ambiguës, il se peut que certaines soient des erreurs plutôt que des versions réellement jouées.
 
-Apparently some play that if you have not yet declared trumps, then if you pick up the top card of the play pile you must also pick up any cards of the same suit that are immediately under it, and continue until you find a card of a different suit (or the pile is empty). When a new suit appears you may beat this card, or pick it up together with all the cards of the same suit that follow it until another suit is found, and so on.
+Apparemment, certains jouent que si vous n'avez pas encore déclaré d'atout, alors si vous ramassez la carte du haut du tas, vous devez aussi ramasser toutes les cartes de la même couleur qui sont immédiatement en dessous, et continuer jusqu'à trouver une carte d'une couleur différente (ou que le tas soit vide). Lorsqu'une nouvelle couleur apparaît, vous pouvez battre cette carte, ou la ramasser avec toutes les cartes de la même couleur qui la suivent jusqu'à ce qu'une autre couleur soit trouvée, et ainsi de suite.
 
-Also, it seems that some play that even after declaring trumps, it is possible to pick up cards from the pile one at a time, in the same way as before trumps are declared.
+Il semble également que certains jouent que même après avoir déclaré des atouts, il est possible de ramasser les cartes du tas une à une, de la même manière qu'avant la déclaration des atouts.
 
-Some play that trumps can be declared not only at the start of a player's turn, but at any time during the process of picking up cards.
+Certains jouent que les atouts peuvent être déclarés non seulement au début du tour d'un joueur, mais à tout moment pendant le processus de ramassage des cartes.
 
-### Open Dudák *(Otevřený Dudák)*
+### Dudák ouvert *(Otevřený Dudák)*
 
-In this variation, each player's trump suit is decided in advance and known to all players. Normally the players keep the same suits for the whole session. They may simply agree at the start who will have which suit, or it can be decided by the first deal as follows. Before the players look at their cards, the first card from the first player's hand is turned face up. This determines the first player's trump suit. Then a card is turned up from the second player's hand, and if it is the same suit as the first player's trump, further cards are turned up until a second suit appears. This is the second player's trump suit. Then cards are turned up from the third player's hand until a new suit appears, which is the third player's trump suit. Finally the fourth player takes the fourth suit. If a player's whole hand is exposed without any new suit appearing, the player chooses a suit from among those not already assigned.
+Dans cette variante, la couleur d'atout de chaque joueur est décidée à l'avance et connue de tous. Normalement, les joueurs gardent les mêmes couleurs pendant toute la session. Ils peuvent simplement s'accorder au début sur les couleurs, ou cela peut être décidé par la première donne comme suit. Avant que les joueurs ne regardent leurs cartes, la première carte de la main du premier joueur est retournée face visible. Cela détermine la couleur d'atout du premier joueur. Ensuite, une carte est retournée de la main du deuxième joueur, et si c'est la même couleur que l'atout du premier joueur, d'autres cartes sont retournées jusqu'à ce qu'une deuxième couleur apparaisse. C'est la couleur d'atout du deuxième joueur. Ensuite, des cartes sont retournées de la main du troisième joueur jusqu'à ce qu'une nouvelle couleur apparaisse, qui est l'atout du troisième joueur. Enfin, le quatrième joueur prend la quatrième couleur. Si toute la main d'un joueur est exposée sans qu'aucune nouvelle couleur n'apparaisse, le joueur choisit une couleur parmi celles qui ne sont pas encore attribuées.
 
-Since the trump suits are known from the start, the rules that apply after trumps have been declared should apply throughout: a player who cannot or does not wish to beat the top card of the play pile must pick up the whole pile, and the turn passes to the next player.
+Puisque les couleurs d'atout sont connues dès le début, les règles qui s'appliquent après la déclaration des atouts doivent s'appliquer tout au long : un joueur qui ne peut ou ne veut pas battre la carte du haut du tas doit ramasser tout le tas, et le tour passe au joueur suivant.
 
-### Pocket Dudák *(Kapsičkový Dudák)*
+### Dudák de poche *(Kapsičkový Dudák)*
 
-In this version, each player is dealt a hand of cards plus a separate card which will determine the player's trump suit. For example in the four-player game without a talon, each player will have a hand of seven cards plus a trump card.
+Dans cette version, chaque joueur reçoit une main de cartes plus une carte séparée qui déterminera sa couleur d'atout. Par exemple, dans le jeu à quatre joueurs sans talon, chaque joueur aura une main de sept cartes plus une carte d'atout.
 
-Players look at their hands and also at their own trump cards, but at the start no one reveals to anyone else what their trump suit is. The trump cards are kept face down on the table in front of the players. The play is as in the basic game, except that when a player wishes to declare trumps, this is done by turning one's trump card face up and then adding it to one's hand (or playing it). It is not possible to pick up or play one's trump card without declaring one's trump suit.
+Les joueurs regardent leur main ainsi que leur propre carte d'atout, mais au début personne ne révèle aux autres sa couleur d'atout. Les cartes d'atout sont gardées face cachée sur la table devant les joueurs. Le jeu est le même que dans le jeu de base, sauf que lorsqu'un joueur souhaite déclarer ses atouts, il le fait en retournant sa carte d'atout face visible puis en l'ajoutant à sa main (ou en la jouant). Il n'est pas possible de ramasser ou de jouer sa carte d'atout sans déclarer sa couleur d'atout.
 
-Note that in this game, it is possible for two or more players to have the same trump suit.
+Notez que dans ce jeu, il est possible que deux joueurs ou plus aient la même couleur d'atout.
 
-### Dudák with a Talon* (Lízaný Dudák)*
+### Dudák avec talon *(Lízaný Dudák)*
 
-Several accounts, especially older ones, describe a version of Dudák where not all the cards are dealt out. Instead a limited number of cards (for example five cards) are dealt to each player initially, and the remainder are stacked face down to form a talon.
+Plusieurs comptes, surtout les plus anciens, décrivent une version du Dudák où toutes les cartes ne sont pas distribuées. Au lieu de cela, un nombre limité de cartes (par exemple cinq) est donné à chaque joueur au départ, et le reste est empilé face cachée pour former un talon.
 
-In this game, after each turn, if a player has fewer cards in hand than were originally dealt, the player's hand must be replenished by drawing cards from the talon until it contains the original number again. For example if five cards each are dealt, the first player will play a card and draw one. Then if the second player beats the first player's card and plays another card, she will end her turn by drawing two cards to bring her hand back to five cards. This will continue, with each player playing two cards and drawing two until someone cannot or does not wish to beat the top card.
+Dans ce jeu, après chaque tour, si un joueur a moins de cartes en main que ce qui a été distribué initialement, sa main doit être reconstituée en piochant des cartes du talon jusqu'à ce qu'elle contienne à nouveau le nombre initial. Par exemple, si cinq cartes chacune sont distribuées, le premier joueur jouera une carte et piochera une. Ensuite, si le deuxième joueur bat la carte du premier et en joue une autre, il terminera son tour en piochant deux cartes pour ramener sa main à cinq cartes. Cela continue, chaque joueur jouant deux cartes et piochant deux, jusqu'à ce que quelqu'un ne puisse ou ne veuille pas battre la carte du haut.
 
-A player who cannot or chooses not to beat the top card of the play pile must draw card from the talon. The player continues drawing until either able and willing to beat the top card of the play pile, or until there are no more cards in the talon. 
+Un joueur qui ne peut ou ne choisit pas de battre la carte du haut du tas doit piocher une carte du talon. Le joueur continue à piocher jusqu'à ce qu'il soit capable et veuille battre la carte du haut du tas, ou qu'il n'y ait plus de cartes dans le talon.
 
-When the talon is empty, the game continues in the same way as Dudák without a talon, in which the alternative to beating the top card of the play pile is to pick up cards from the play pile.
+Quand le talon est vide, le jeu continue de la même manière que le Dudák sans talon, où l'alternative à battre la carte du haut du tas est de ramasser des cartes du tas.
 
-One book (*Miloš Zapletal: Velka Encyclopedie Her*) gives a version in which only two cards each are dealt initially. As usual, at your turn you may beat the top card with a card from your hand or draw cards from the talon until you find a card that you are willing to play to beat the top card. After beating the top card you play a second card, which may be any card from your hand. If the talon is empty and you cannot or do not want to beat the top card you must pick up the whole play pile. A player who has fewer than two cards in hand after playing draws cards from the talon until he or she has two. 
+Un livre (*Miloš Zapletal : Velka Encyclopedie Her*) donne une version où seules deux cartes sont distribuées initialement à chaque joueur. Comme d'habitude, à votre tour vous pouvez battre la carte du haut avec une carte de votre main ou piocher du talon jusqu'à trouver une carte que vous voulez jouer pour battre la carte du haut. Après avoir battu la carte du haut, vous jouez une deuxième carte, qui peut être n'importe quelle carte de votre main. Si le talon est vide et que vous ne pouvez ou ne voulez pas battre la carte du haut, vous devez ramasser tout le tas. Un joueur qui a moins de deux cartes en main après avoir joué pioche des cartes du talon jusqu'à en avoir deux.
 
-### Secret Dudák *(Tajný Dudák)*
+### Dudák secret *(Tajný Dudák)*
 
-This game is exactly like Pocket Dudák (above) except no one is allowed to see the players' trump cards. Each of these cards remain face down in front of its owner and unknown to all until the owner chooses to declare trumps and turns the card face up.
+Ce jeu est exactement comme le Dudák de poche (ci-dessus), sauf que personne n'est autorisé à voir les cartes d'atout des joueurs. Chacune de ces cartes reste face cachée devant son propriétaire et inconnue de tous jusqu'à ce que le propriétaire choisisse de déclarer ses atouts et retourne la carte face visible.
 
-Some play that when declaring trumps you may take any of the trump cards that remain face down and reveal it (not necessarily the one that was dealt in front of you). This should make no difference to the game, since no one is supposed to know what these cards are until they are revealed.
+Certains jouent qu'en déclarant les atouts, vous pouvez prendre n'importe quelle carte d'atout encore face cachée et la révéler (pas nécessairement celle qui a été distribuée devant vous). Cela ne devrait faire aucune différence pour le jeu, puisque personne n'est censé savoir ce que sont ces cartes avant qu'elles ne soient révélées.
 
-### Two or Three Players
+### Deux ou trois joueurs
 
-Any of the variants can be played, and the rules are the same as with four players. With two players, it is probably best to play with a talon, otherwise the initial hands will be very large and the players will know each others' cards. With three players, if there is no talon, two sevens are removed to leave a 30-card pack, and 10 cards (or 9 cards plus one trump card) are dealt to each player. 
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Dudák
+N'importe laquelle des variantes peut être jouée, et les règles sont les mêmes qu'à quatre joueurs. À deux joueurs, il vaut mieux jouer avec un talon, sinon les mains initiales seront très grandes et les joueurs se connaîtront leurs cartes. À trois joueurs, s'il n'y a pas de talon, deux sept sont retirés pour laisser un jeu de 30 cartes, et 10 cartes (ou 9 cartes plus une carte d'atout) sont distribuées à chaque joueur.

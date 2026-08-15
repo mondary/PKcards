@@ -1,147 +1,145 @@
 # Daifugo
+**Autres noms :** Dai Hinmin
 
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** Also known as Dai Hinmin, in which players must beat the highest combination so far played or pass.
-**Autres noms :** Dai Hinmin
+**But :** Aussi connu sous le nom de Dai Hinmin, dans lequel les joueurs doivent battre la combinaison la plus forte jouée jusqu'ici ou passer.
 
 ---
 
-*This page is mostly based on information from Teranishi Isamu, Kuromiya Kimihiko, Florent Barraco and Joseph Bratt. *
+*Cette page est principalement basée sur des informations de Teranishi Isamu, Kuromiya Kimihiko, Florent Barraco et Joseph Bratt.*
 
 ## Introduction
 
-Dai Fugō (大富豪 - "very rich man"), which was formerly more often known as Dai Hinmin (大貧民 - "very poor man") is a Japanese card game of the "climbing" group. As in all these games, the aim is to get rid of all one's cards before the other players by playing them singly or in combination. It seems likely that the game was introduced from China in the 1970's. It became popular throughout Japan in the 1980's and 1990's, and during this time numerous additional rules and variations were introduced. It seems likely that some early version of Dai Hinmin was the direct ancestor of President, which became popular in the West a few years later. The basic game will be described first, followed by a selection of variants.
+Dai Fugō (大富豪 — « homme très riche »), anciemment plus souvent connu sous le nom de Dai Hinmin (大貧民 — « homme très pauvre ») est un jeu de cartes japonais du groupe « escalade ». Comme dans tous ces jeux, le but est de se débarrasser de toutes ses cartes avant les autres joueurs en les jouant seules ou en combinaison. Il semble probable que le jeu a été introduit de Chine dans les années 1970. Il est devenu populaire dans tout le Japon dans les années 1980 et 1990, et durant cette période de nombreuses règles supplémentaires et variantes ont été introduites. Il semble probable qu'une version ancienne du Dai Hinmin a été l'ancêtre direct du Président, devenu populaire en Occident quelques années plus tard. Le jeu de base sera d'abord décrit, suivi d'une sélection de variantes.
 
-On this page, the "o" with accent ("ō") is used to indicate a long "o" sound in Japanese.
+Sur cette page, le « o » avec accent (« ō ») est utilisé pour indiquer un son « o » long en japonais.
 
-## Players and Cards
+## Joueurs et cartes
 
-Dai Fugō is usually played by from 3 to 6 players. A standard 52 card pack is used, to which one joker is normally added, so that there are 53 cards in all. The rank of the cards from high to low is:
+Dai Fugō se joue généralement de 3 à 6 joueurs. Un jeu standard de 52 cartes est utilisé, auquel on ajoute normalement un joker, pour un total de 53 cartes. Le classement des cartes de la plus forte à la plus faible est :
 
-Joker-2-A-K-Q-J-10-9-8-7-6-5-4-3.
+Joker-2-A-R-D-V-10-9-8-7-6-5-4-3.
 
-## Deal
+## Donne
 
-Deal and play are clockwise. Any player may deal the first hand. After the first hand, the loser of each hand deals the next. All the cards are dealt out one at a time as equally as possible to the players. Some players will have one card more than others - this does not matter.
+La donne et le jeu se font dans le sens des aiguilles d'une montre. N'importe quel joueur peut distribuer la première donne. Après la première donne, le perdant de chaque donne distribue la suivante. Toutes les cartes sont distribuées une à une aussi équitablement que possible aux joueurs. Certains joueurs auront une carte de plus que d'autres — cela n'a pas d'importance.
 
-## Play
+## Jeu
 
-In the first deal of a new session the first player is decided at random. As in many Japanese games, this is usually done by a game of *Janken* (similar to [rock-paper-scissors](https://en.wikipedia.org/wiki/Rock-paper-scissors)). Each player chooses "rock", "paper" or "scissors" and all choices are shown simultaneously by hand signals. If all three options are chosen at least once, or if everyone chooses the same option, it is a tie and the process is repeated. If just two of the three options are chosen, all players who picked the losing option (scissors beat paper, rock beats scissors, paper beats rock) are eliminated, and the process is repeated with only the survivors taking part. When there is only one survivor, this player starts the game.
+Lors de la première donne d'une nouvelle session, le premier joueur est décidé au hasard. Comme dans beaucoup de jeux japonais, cela se fait généralement par un jeu de *Janken* (similaire au [pierre-papier-ciseaux](https://en.wikipedia.org/wiki/Rock-paper-scissors)). Chaque joueur choisit « pierre », « papier » ou « ciseaux » et tous les choix sont montrés simultanément par des signes de main. Si les trois options sont choisies au moins une fois, ou si tout le monde choisit la même option, il y a match nul et le processus est répété. Si seules deux des trois options sont choisies, tous les joueurs qui ont choisi l'option perdante (les ciseaux battent le papier, la pierre bat les ciseaux, le papier bat la pierre) sont éliminés, et le processus est répété avec seulement les survivants. Quand il ne reste qu'un survivant, ce joueur commence le jeu.
 
-The first player may play any card or valid combination, placing the card(s) face up in the centre of the table. The possible plays are:
+Le premier joueur peut jouer n'importe quelle carte ou combinaison valide, en posant la ou les cartes face visible au centre de la table. Les jeux possibles sont :
 
-Any single card. 
-Single cards rank as described above from 3 (low) to joker (high). A single card can only be beaten by a higher single card.
-A pair.
-Two cards of the same rank. A higher pair beats a lower pair: the lowest is 3-3 and the highest is 2-2.
-Three of a kind (triplet).
-Three cards of the same rank. A higher triplet beats a lower triplet: the highest is 2-2-2 and the lowest is 3-3-3.
-Four of a kind.
-Four cards of the same rank. In the basic game they rank in the same order as single cards, but note that many people now play that four of a kind causes a revolution - see variations.
-A sequence
-Three or more consecutive cards of the same suit, such as ![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)5-![spade](../images/internat/spade.gif)6 or ![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)Q. A sequence can only be beaten by a higher sequence containing the same number of cards. The highest 3-card sequence is K-A-2 and the lowest is 3-4-5. (A-2-3 and 2-3-4 are not valid sequences, since the 2 and 3 are not adjacent in this game.)
+N'importe quelle carte seule.
+Les cartes seules se classent comme décrit ci-dessus, de 3 (faible) à joker (fort). Une carte seule ne peut être battue que par une carte seule supérieure.
+Une paire.
+Deux cartes de même rang. Une paire supérieure bat une paire inférieure : la plus faible est 3-3 et la plus forte est 2-2.
+Un brelan (triplet).
+Trois cartes de même rang. Un triplet supérieur bat un triplet inférieur : le plus fort est 2-2-2 et le plus faible est 3-3-3.
+Un carré.
+Quatre cartes de même rang. Dans le jeu de base, elles se classent dans le même ordre que les cartes seules, mais notez que beaucoup de gens jouent maintenant qu'un carré provoque une révolution — voir variantes.
+Une suite.
+Trois cartes consécutives ou plus de même couleur, telles que ![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)5-![pique](../images/internat/spade.gif)6 ou ![carreau](../images/internat/diamond.gif)9-![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)V-![carreau](../images/internat/diamond.gif)D. Une suite ne peut être battue que par une suite supérieure contenant le même nombre de cartes. La suite de 3 cartes la plus forte est R-A-2 et la plus faible est 3-4-5. (A-2-3 et 2-3-4 ne sont pas des suites valides, car le 2 et le 3 ne sont pas adjacents dans ce jeu.)
 
-The joker may be used as a substitute for any card in a pair, triplet, four of a kind or sequence. A combination containing a joker is equal in rank to the equivalent combination made from natural cards. So for example the pairs 8-8 and 8-joker are equal: neither beats the other, and a sequence ![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10-Joker is equal in rank to ![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)J.
+Le joker peut être utilisé comme substitut pour n'importe quelle carte dans une paire, triplet, carré ou suite. Une combinaison contenant un joker est de rang égal à la combinaison équivalente constituée de cartes naturelles. Ainsi par exemple les paires 8-8 et 8-joker sont égales : aucune ne bat l'autre, et une suite ![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10-Joker est de rang égal à ![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)V.
 
-After the first player has played a card or combination, each player in turn has the choice of passing (playing no cards) or playing a higher card or combination of the same type as the previous play. This continues as many times around the table as necessary until someone plays a card or combination which no one else is able or willing to beat. When all the other players has passed, the player of the unbeaten card or combination sets aside all the played cards face down, and begins again by leading any card or valid combination.
+Après que le premier joueur a joué une carte ou combinaison, chaque joueur à son tour a le choix de passer (ne jouer aucune carte) ou de jouer une carte ou combinaison supérieure du même type que le jeu précédent. Cela continue autant de fois autour de la table que nécessaire jusqu'à ce que quelqu'un joue une carte ou combinaison que personne d'autre ne peut ou ne veut battre. Quand tous les autres joueurs ont passé, le joueur de la carte ou combinaison imbattue écarte toutes les cartes jouées face en bas, et recommence en menant n'importe quelle carte ou combinaison valide.
 
-Here is an example with four players:
+Voici un exemple avec quatre joueurs :
 
-| Player A | Player B | Player C | Player D |
-| 4-4 | pass | 7-7 | 8-8 |
-| pass | pass | K-K | pass |
-| pass | A-Joker | pass | pass |
+| Joueur A | Joueur B | Joueur C | Joueur D |
+| 4-4 | passe | 7-7 | 8-8 |
+| passe | passe | R-R | passe |
+| passe | A-Joker | passe | passe |
 | |
-| pass |
+| passe |
 
-B's play is unbeaten, so she clears away the played cards and begins again with any card or valid combination. To beat B's A-Joker pair, a pair of twos would have been needed. Note that throughout this process only pairs could be played. For example at his first turn, player D would not be allowed to play three 8's or a single 2.
+Le jeu de B est imbattu, donc elle écarte les cartes jouées et recommence avec n'importe quelle carte ou combinaison valide. Pour battre la paire A-Joker de B, une paire de deux aurait été nécessaire. Notez que tout au long de ce processus, seules des paires pouvaient être jouées. Par exemple, à son premier tour, le joueur D n'aurait pas été autorisé à jouer trois 8 ou un seul 2.
 
-Please note that:
+Veuillez noter que :
 
-- You do not have to beat the previous play just because you can - often it is better to pass and save your good cards for later.
+- Vous n'êtes pas obligé de battre le jeu précédent simplement parce que vous le pouvez — il vaut souvent mieux passer et conserver vos bonnes cartes pour plus tard.
 
-- Passing does not prevent you from playing at your next turn.
+- Passer ne vous empêche pas de jouer à votre prochain tour.
 
-In the example, player B passed twice, although she could have played the A-Joker at her first or second turn, she decided to play only after C had used his Kings.
+Dans l'exemple, la joueuse B a passé deux fois, bien qu'elle aurait pu jouer le A-Joker à son premier ou deuxième tour, elle a décidé de jouer seulement après que C a utilisé ses Rois.
 
-The objective is to get rid of all your cards. When a player runs out of cards, the play continues among the other players until only one player has cards left.
+L'objectif est de se débarrasser de toutes vos cartes. Quand un joueur n'a plus de cartes, le jeu continue entre les autres joueurs jusqu'à ce qu'un seul joueur ait encore des cartes.
 
-When a player plays his last card or cards, the other players as usual have the opportunity to beat this play. If no one beats it, since the player of the unbeaten card(s) has no more to play, the turn to begin again passes to the next player to the left who still has cards.
+Quand un joueur joue ses dernières cartes, les autres joueurs ont comme d'habitude la possibilité de battre ce jeu. Si personne ne le bat, le joueur n'ayant plus de cartes à jouer, le tour de recommencer passe au joueur suivant à gauche qui a encore des cartes.
 
-## Result
+## Résultat
 
-If there are five or more players, the player who runs out of cards first is the Dai Fugō (very rich man), the second is the Fugō (rich man) the last player left with cards is the Dai Hinmin (very poor man) and the second last is the Hinmin (poor man). With three or four players, the winner, who runs out of cards first, is the Fugō and the loser, who is left with cards at the end, is the Hinmin.
+S'il y a cinq joueurs ou plus, le joueur qui se débarrasse de ses cartes en premier est le Dai Fugō (homme très riche), le deuxième est le Fugō (homme riche), le dernier joueur restant avec des cartes est le Dai Hinmin (homme très pauvre) et l'avant-dernier est le Hinmin (homme pauvre). Avec trois ou quatre joueurs, le gagnant, qui se débarrasse de ses cartes en premier, est le Fugō et le perdant, qui reste avec des cartes à la fin, est le Hinmin.
 
-As with many Japanese card games it is common to play without score or payment. The aim is simply to be as rich as possible as often as possible. If you prefer to formalise the result, the Dai Fugō should score +2 points, and the Fugō +1.
+Comme pour beaucoup de jeux de cartes japonais, il est courant de jouer sans score ni paiement. Le but est simplement d'être le plus riche possible le plus souvent possible. Si vous préférez formaliser le résultat, le Dai Fugō devrait marquer +2 points, et le Fugō +1.
 
-## Exchange of cards
+## Échange de cartes
 
-In the second and subsequent hands of a session there is an exchange of cards after the deal and before play begins. The Dai Hinmin must give his highest ranking two cards to the Dai Fugō and the Hinmin must give his highest card to the Fugō. In exchange, the Dai Fugō gives any two unwanted cards to the Dai Hinmin and the Fugō gives any one unwanted card to the Hinmin.
+Dans la deuxième donne et les suivantes d'une session, il y a un échange de cartes après la distribution et avant le début du jeu. Le Dai Hinmin doit donner ses deux cartes les plus fortes au Dai Fugō et le Hinmin doit donner sa carte la plus forte au Fugō. En échange, le Dai Fugō donne deux cartes indésirables au Dai Hinmin et le Fugō donne une carte indésirable au Hinmin.
 
-After the exchange, the loser of the previous hand (the Dai Hinmin, or the Hinmin if there are only three or four players) begins the play of the new hand with any card or valid combination.
+Après l'échange, le perdant de la donne précédente (le Dai Hinmin, ou le Hinmin s'il n'y a que trois ou quatre joueurs) commence le jeu de la nouvelle donne avec n'importe quelle carte ou combinaison valide.
 
-## Variations
+## Variantes
 
-More than six players
-It is possible for as many as 8 players to take part. In Japan it is normal still to use a single deck of 53 cards, though in some Western adaptations, a larger number of players may use a double deck.
+Plus de six joueurs
+Il est possible que jusqu'à 8 joueurs participent. Au Japon, on utilise normalement toujours un seul jeu de 53 cartes, bien que dans certaines adaptations occidentales, un plus grand nombre de joueurs puisse utiliser un double jeu.
 
-Revolution (kakumei)
-Many people adopt the rule that any play of four of a kind (such as 9-9-9-9 or 5-5-5-Joker) causes a revolution, which reverses the ranking of the cards from the next time that the table is cleared. The joker remains the highest single card but the other cards rank from high to low 3-4-5-6-7-8-9-10-J-Q-K-A-2, so twos are now the lowest cards. If a second four of a kind is played, this causes a counter-revolution, which restores the original order. So if someone plays 5-5-5-5 to the empty table, another player can beat this with (for example) 7-7-7-7, and the card ranking order remains as it was, the revolution having been cancelled. But if everyone passes the 5-5-5-5 play, the cards are cleared and the revolution takes effect. If the player of the 5-5-5-5 now begins with (say) a pair of 6's, this can be beaten by 4-4 or 3-3 (the highest pair), but not by 8-8. The reversed order stays in effect until the end of the hand, unless another 4 of a kind is played, in which case there is a counter-revolution and the original order is restored. When the play ends, for the new deal the cards always revert to their original order.
-Some people play that a revolution is also caused if anyone plays a five-card or longer sequence. Other variants are sometimes encountered, such as that a revolution is caused by a set of three 3's, or by a 4-card sequence. Some only allow a revolution with a genuine four of a kind, but not with three equal cards plus a joker.
+Révolution (kakumei)
+Beaucoup de gens adoptent la règle selon laquelle tout jeu de quatre cartes identiques (comme 9-9-9-9 ou 5-5-5-Joker) provoque une révolution, qui inverse le classement des cartes à partir du prochain effacement de la table. Le joker reste la carte seule la plus forte, mais les autres cartes se classent de la plus forte à la plus faible 3-4-5-6-7-8-9-10-V-D-R-A-2, de sorte que les deux deviennent les cartes les plus basses. Si un second carré est joué, cela provoque une contre-révolution, qui rétablit l'ordre original. Donc si quelqu'un joue 5-5-5-5 sur la table vide, un autre joueur peut battre cela avec (par exemple) 7-7-7-7, et l'ordre de classement des cartes reste tel qu'il était, la révolution ayant été annulée. Mais si tout le monde passe le jeu 5-5-5-5, les cartes sont effacées et la révolution prend effet. Si le joueur du 5-5-5-5 commence alors avec (disons) une paire de 6, cela peut être battu par 4-4 ou 3-3 (la paire la plus forte), mais pas par 8-8. L'ordre inversé reste en vigueur jusqu'à la fin de la donne, sauf si un autre carré est joué, auquel cas il y a une contre-révolution et l'ordre original est rétabli. Quand le jeu se termine, pour la nouvelle donne, les cartes reprennent toujours leur ordre original.
+Certains jouent qu'une révolution est aussi provoquée si quelqu'un joue une suite de cinq cartes ou plus. D'autres variantes sont parfois rencontrées, comme le fait qu'une révolution soit provoquée par un ensemble de trois 3, ou par une suite de 4 cartes. Certains n'autorisent la révolution qu'avec un vrai carré, mais pas avec trois cartes égales plus un joker.
 
 Jokers
-Rarely, this game is played without jokers, or with two jokers, in which case a pair of jokers is the highest pair. In an early form of the game, described to me in 1979, there were two jokers but no sequences were allowed. In the game with jokers, if the Dai Hinmin or the Hinmin was dealt both jokers there was a different kind of revolution, in which the roles of the players were reversed: the Dai Fugō became Dai Hinmin, Fugō became Hinmin and so on.
+Rarement, ce jeu se joue sans jokers, ou avec deux jokers, auquel cas une paire de jokers est la paire la plus forte. Dans une forme ancienne du jeu, décrite en 1979, il y avait deux jokers mais aucune suite n'était autorisée. Dans le jeu avec jokers, si le Dai Hinmin ou le Hinmin avait reçu les deux jokers, il y avait un autre type de révolution, dans laquelle les rôles des joueurs étaient inversés : le Dai Fugō devenait Dai Hinmin, le Fugō devenait Hinmin, etc.
 
-No twos in sequences
-Some play that a 2 cannot be used to make a sequence K-A-2. In this version a sequence headed by an ace is unbeatable.
+Pas de deux dans les suites
+Certains jouent qu'un 2 ne peut pas être utilisé pour faire une suite R-A-2. Dans cette version, une suite commençant par un as est imbattable.
 
 Miyako-Ochi
-In this variant, if the Dai Fugō of the previous hand fails to win again and maintain his position, he automatically becomes Dai Hinmin. (Miyako can refer to Kyoto or any large and beautiful city, and ochiru is to fall, so the phrase Miyako-Ochi means exile from the city where the very rich man formerly lived.)
+Dans cette variante, si le Dai Fugō de la donne précédente échoue à gagner à nouveau et à maintenir sa position, il devient automatiquement Dai Hinmin. (Miyako peut désigner Kyoto ou toute grande et belle ville, et ochiru signifie tomber, donc la phrase Miyako-Ochi signifie l'exil de la ville où l'homme très riche vivait auparavant.)
 
-Suit lock rule (Shibari)
-In this variant, if two consecutive plays are in the same suit, then subsequent players can only beat this with another play in the same suit. For example the ![heart](../images/internat/heart.gif)3 is played, this is beaten by a ![club](../images/internat/club.gif)4 which in turn is beaten by a ![club](../images/internat/club.gif)8. Subsequent players can only play clubs (or the joker), not other suits. This restriction applies until the table is cleared. A similar restriction applies if a sequence is beaten by a higher sequence in the same suit; this can then only be beaten by another sequence in that suit.
-The suits are also locked if a pair is beaten by a higher pair in the same two suits - for example if ![spade](../images/internat/spade.gif)5-![diamond](../images/internat/diamond.gif)5 is beaten by ![spade](../images/internat/spade.gif)7-![diamond](../images/internat/diamond.gif)7, subsequent players can only beat this with a pair consisting of a spade and a diamond. A similar rules applies to triplets - the suits are locked if a triplet is beaten by a higher triplet using the same three suits.
-Some also play with Kata-Shibari (partial suit lock). If a pair is beaten by a higher pair with one suit in common, then subsequent players can only beat this with a pair that includes the same suit. For example if ![spade](../images/internat/spade.gif)3-![diamond](../images/internat/diamond.gif)3 is beaten by ![spade](../images/internat/spade.gif)6-![club](../images/internat/club.gif)6, then this can only be beaten by a higher pair that includes a spade. If the next play is a spade-club pair, then that establishes a full lock and only spade-club pairs are allowed until the table is cleared. When triplets are played there can be a partial lock involving one or two suits.
-Some play that suits are only locked if there are three consecutive plays in the same suit.
+Règle du verrouillage de couleur (Shibari)
+Dans cette variante, si deux jeux consécutifs sont de la même couleur, les joueurs suivants ne peuvent battre cela qu'avec un autre jeu de la même couleur. Par exemple le ![cœur](../images/internat/heart.gif)3 est joué, celui-ci est battu par un ![trèfle](../images/internat/club.gif)4 qui à son tour est battu par un ![trèfle](../images/internat/club.gif)8. Les joueurs suivants ne peuvent jouer que des trèfles (ou le joker), pas d'autres couleurs. Cette restriction s'applique jusqu'à ce que la table soit effacée. Une restriction similaire s'applique si une suite est battue par une suite supérieure de la même couleur ; celle-ci ne peut alors être battue que par une autre suite de cette couleur.
+Les couleurs sont aussi verrouillées si une paire est battue par une paire supérieure dans les deux mêmes couleurs — par exemple si ![pique](../images/internat/spade.gif)5-![carreau](../images/internat/diamond.gif)5 est battu par ![pique](../images/internat/spade.gif)7-![carreau](../images/internat/diamond.gif)7, les joueurs suivants ne peuvent battre cela qu'avec une paire composée d'un pique et d'un carreau. Une règle similaire s'applique aux triplets — les couleurs sont verrouillées si un triplet est battu par un triplet supérieur utilisant les trois mêmes couleurs.
+Certains jouent aussi avec Kata-Shibari (verrouillage partiel de couleur). Si une paire est battue par une paire supérieure avec une couleur en commun, les joueurs suivants ne peuvent battre cela qu'avec une paire incluant cette même couleur. Par exemple si ![pique](../images/internat/spade.gif)3-![carreau](../images/internat/diamond.gif)3 est battu par ![pique](../images/internat/spade.gif)6-![trèfle](../images/internat/club.gif)6, cela ne peut être battu que par une paire supérieure incluant un pique. Si le jeu suivant est une paire pique-trèfle, cela établit un verrouillage complet et seules les paires pique-trèfle sont autorisées jusqu'à ce que la table soit effacée. Quand des triplets sont joués, il peut y avoir un verrouillage partiel impliquant une ou deux couleurs.
+Certains jouent que les couleurs ne sont verrouillées que s'il y a trois jeux consécutifs de la même couleur.
 
-Cannot go out with highest card
-Some play that you cannot go out by playing a 2 or a set of 2's as your last card(s). It's also illegal to go out by playing the highest sequence (K-A-2) or a single joker. If there has been a revolution (and no counter-revolution) then you cannot go out by playing a 3 or a set of 3's or a top sequence such as 3-4-5 or a single joker. When playing this variant, the penalty for going out with such an illegal play is that you automatically become the Dai Hinmin. Of course the penalty is rarely needed, since players avoid being left with cards that are illegal to play under this rule.
+Impossible de sortir avec la carte la plus forte
+Certains jouent qu'on ne peut pas sortir en jouant un 2 ou un ensemble de 2 comme dernière(s) carte(s). Il est aussi interdit de sortir en jouant la suite la plus forte (R-A-2) ou un joker seul. S'il y a eu une révolution (et pas de contre-révolution), on ne peut pas sortir en jouant un 3 ou un ensemble de 3 ou une suite du type 3-4-5 ou un joker seul. En jouant cette variante, la pénalité pour avoir sorti un tel jeu illégal est de devenir automatiquement le Dai Hinmin. Bien sûr, la pénalité est rarement nécessaire, car les joueurs évitent de se retrouver avec des cartes illégales à jouer sous cette règle.
 
-Some play that the penalty only applies to a player who goes out by playing a single joker.
+Certains jouent que la pénalité ne s'applique qu'à un joueur qui sort en jouant un joker seul.
 
-Three of spades rule
-Some play that when the joker is played as a single card, it can be beaten by the 3 of spades (but by no other card). The ![spade](../images/internat/spade.gif)3 can then in turn be beaten by any higher card. But if the ![spade](../images/internat/spade.gif)3 is played before the joker, the joker can beat it.
+Règle du trois de pique
+Certains jouent que lorsque le joker est joué comme carte seule, il peut être battu par le 3 de pique (mais par aucun autre carte). Le ![pique](../images/internat/spade.gif)3 peut à son tour être battu par n'importe quelle carte supérieure. Mais si le ![pique](../images/internat/spade.gif)3 est joué avant le joker, le joker peut le battre.
 
-Eights rule (hachi-giri)
-Some play that any 8 or combination containing an 8 causes the table to be cleared immediately. The person who played the 8 begins again by playing any card or valid combination.
-When the hachi-giri rule is played, some also play that it is illegal to go out with a play that includes an eight.
+Règle des huits (hachi-giri)
+Certains jouent que n'importe quel 8 ou combinaison contenant un 8 provoque l'effacement immédiat de la table. La personne qui a joué le 8 recommence en jouant n'importe quelle carte ou combinaison valide.
+Quand la règle du hachi-giri est appliquée, certains jouent aussi qu'il est interdit de sortir avec un jeu incluant un huit.
 
-Jack
-A rarely played variation is that if a Jack is played, the ranking order of cards is immediately reversed, but this reversal lasts only until the cards are cleared. For example a 5 is beaten by a 9, which is beaten by a Jack. This reverses the ranking, so the Jack cannot be beaten by a Q, K, a or 2. It might, however be beaten by a 7, which in turn could be beaten by a 6 and then a 3. Then the cards would be cleared and ranking returns to normal.
+Valet
+Une variante rarement jouée est que si un Valet est joué, l'ordre de classement des cartes est immédiatement inversé, mais cette inversion ne dure que jusqu'à ce que les cartes soient effacées. Par exemple un 5 est battu par un 9, qui est battu par un Valet. Cela inverse le classement, donc le Valet ne peut pas être battu par une D, un R, un A ou un 2. Il pourrait cependant être battu par un 7, qui à son tour pourrait être battu par un 6 puis un 3. Ensuite les cartes seraient effacées et le classement redevient normal.
 
-Discard for tens
-One correspondent reports a rule whereby anyone playing one or more tens is allowed to discard one further card from their hand for each ten played. These discards are placed face down in the pile of used cards.
+Défausse pour les dix
+Un correspondant rapporte une règle selon laquelle quiconque joue un ou plusieurs dix est autorisé à défausser une carte supplémentaire de sa main pour chaque dix joué. Ces défausses sont placées face en bas dans la pile de cartes utilisées.
 
-Cannot play after passing
-Another rarely played variant is that a player who passes is not allowed to play again until after the cards have been cleared.
+Impossible de jouer après avoir passé
+Une autre variante rarement jouée est qu'un joueur qui a passé n'est pas autorisé à jouer à nouveau jusqu'à ce que les cartes aient été effacées.
 
-Switching seats
-Some people play that before each new deal the players change seats according to their result. The Dai Fugō sits to the right of the Dai Hinmin, then the Fugō and so on in order of their result, with the Hinmin to the Dai Hinmin's left. 
+Changement de places
+Certains jouent qu'avant chaque nouvelle donne, les joueurs changent de places selon leur résultat. Le Dai Fugō s'assoit à la droite du Dai Hinmin, puis le Fugō et ainsi de suite dans l'ordre de leur résultat, avec le Hinmin à la gauche du Dai Hinmin.
 
-According to some players, probably a minority, the positions are the reverse of this, with the the Dai Fugō to the left of the Dai Hinmin, followed by the Fugō and the other players in order: in this version Dai Fugō begins the play. 
+Selon certains joueurs, probablement une minorité, les positions sont l'inverse de cela, avec le Dai Fugō à la gauche du Dai Hinmin, suivi du Fugō et des autres joueurs dans l'ordre : dans cette version, le Dai Fugō commence le jeu.
 
-Card exchange variants
-Some play that the loser must always exchange two cards with the winner, even if there are only 3 or 4 players, and with 4 players the second player exchanges one card with the third player.
-Some play that if you are the Dai Hinmin and have the joker in your hand, you don't have to give it to the Dai Fugō
-A few people play that the winners are allowed to ask for particular cards from the losers, and the losers must give these cards rather than their highest ranking cards, if they have them.
+Variantes d'échange de cartes
+Certains jouent que le perdant doit toujours échanger deux cartes avec le gagnant, même s'il n'y a que 3 ou 4 joueurs, et avec 4 joueurs, le deuxième joueur échange une carte avec le troisième joueur.
+Certains jouent que si vous êtes le Dai Hinmin et que vous avez le joker en main, vous n'êtes pas obligé de le donner au Dai Fugō.
+Quelques-uns jouent que les gagnants sont autorisés à demander des cartes particulières aux perdants, et les perdants doivent donner ces cartes plutôt que leurs cartes les plus fortes, s'ils les ont.
 
-Scoring variants
-Another possibility is that the Hinmin pays 1 point to the Fugō and the Dai Hinmin pays 2 points to the Dai Fugō.
+Variantes de score
+Une autre possibilité est que le Hinmin paie 1 point au Fugō et le Dai Hinmin paie 2 points au Dai Fugō.
 
-## Other Dai Fugō web pages
+## Autres pages Dai Fugō
 
-The [Wikipedia page on Daifugō](https://en.wikipedia.org/wiki/Daifug%C5%8D) lists a number of further variants.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Dai Fugō / Dai Hinmin
+La [page Wikipedia sur Daifugō](https://en.wikipedia.org/wiki/Daifug%C5%8D) liste de nombreuses variantes supplémentaires.

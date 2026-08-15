@@ -4,86 +4,68 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Point-trick, Plis
-**But :** In which the aim is to collect tens, which can only be captured by winning two consecutive tricks.
+**But :** Jeu où le but est de collecter les dix, qui ne peuvent être capturés qu'en gagnant deux plis consécutifs.
 
 ---
 
-- Introduction
-
-- Players and cards
-
 ## Introduction
 
-"Dehla Pakad" (Hindi for "Collect the tens") is a trick-taking card game widely played in 
-India, especially in the north. 
+« Dehla Pakad » (hindi pour « Collecte les dix ») est un jeu de cartes de prises largement joué en Inde, surtout dans le nord.
 
-*This page is based on a contribution from Ankit Bhageria.*
+*Cette page est basée sur une contribution d'Ankit Bhageria.*
 
-## Players and Cards
+## Joueurs et cartes
 
-A standard 52 card pack is used, the cards in each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. There are four players, in two fixed partnerships of two, partners sitting opposite each other. Deal and play are anticlockwise.
+On utilise un jeu standard de 52 cartes, les cartes de chaque couleur se classant du plus fort au plus faible A-R-D-V-10-9-8-7-6-5-4-3-2. Il y a quatre joueurs, en deux équipes fixes de deux, les partenaires se faisant face. La donne et le jeu se font dans le sens antihoraire.
 
-## Objective
+## Objectif
 
-The aim of the game is to win "Kots" by collecting as 
-many tens as possible in tricks. If a team takes four tens they win a "Kot" (or "Coat"). Also the team that takes the majority of tens wins the hand, and if neither side takes all the tens, it is also possible to win a Kot by winning seven consecutive hands.
+Le but du jeu est de gagner des « Kots » en collectant le plus de dix possibles dans les plis. Si une équipe prend les quatre dix, elle gagne un « Kot » (ou « Coat »). L'équipe qui prend la majorité des dix remporte la manche, et si aucune équipe ne prend tous les dix, il est également possible de gagner un Kot en remportant sept manches consécutives.
 
-## Deal and Play
+## Donne et jeu
 
-For the first hand the dealer is selected by some random method. For subsequent hand the dealer depends on the result of the previous hand - see Winning Kots. The dealer shuffles the deck and deals a batch of 5 cards to each 
-of the four players including himself. After trumps have been determined (see Trump Selection below), he deals all the remaining cards in batches of four - eight more cards to each player.
+Pour la première manche, le donneur est choisi par une méthode aléatoire. Pour les manches suivantes, le donneur dépend du résultat de la manche précédente — voir Gain des Kots. Le donneur bat le jeu et distribue un lot de 5 cartes à chacun des quatre joueurs, y compris lui-même. Une fois l'atout déterminé (voir Choix de l'atout ci-dessous), il distribue toutes les cartes restantes par lots de quatre — huit cartes supplémentaires par joueur.
 
-The player to the right of the dealer leads any card from his hand to the first trick. Players must follow suit if able to; players unable to follow suit may play any card. If any trumps are played, the highest trump wins the trick. Otherwise the trick is won by the highest card of the suit that was led. The winner of the trick does not gather in the cards of that trick (see Taking Tricks below) but does lead to the next trick.
+Le joueur à la droite du donneur mène n'importe quelle carte de sa main au premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent ; les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Si des atouts sont joués, le plus fort atout gagne le pli. Sinon, le pli est gagné par la carte la plus forte de la couleur qui a été menée. Le gagnant du pli ne ramasse pas les cartes de ce pli (voir Ramassage des plis ci-dessous) mais mène au pli suivant.
 
-## Trump Selection
+## Choix de l'atout
 
-There are two alternative methods of determining the trump suit, and the players must agree at the start of the session which method they will use.
+Il existe deux méthodes alternatives pour déterminer la couleur d'atout, et les joueurs doivent s'accorder au début de la session sur la méthode qu'ils utiliseront.
 
-**Method 1.** The play begins with each player having just five cards and continues without trumps until some player is unable to follow suit to a lead. When that happens, the suit played by the player who could not follow suit becomes trump for the hand. At the end of the trick in which the trump suit was determined, the dealer deals the remaining cards and play continues. 
+**Méthode 1.** Le jeu commence avec chaque joueur n'ayant que cinq cartes et se poursuit sans atout jusqu'à ce qu'un joueur soit incapable de suivre la couleur menée. Lorsque cela se produit, la couleur jouée par le joueur qui n'a pas pu suivre devient l'atout de la manche. À la fin du pli où la couleur d'atout a été déterminée, le donneur distribue les cartes restantes et le jeu continue.
 
-The trick in which trumps are selected **may** be won by the player who made trumps, or could be won by some later player who is also unable to follow suit to the lead and plays a higher trump.
+Le pli où les atouts sont choisis **peut** être gagné par le joueur qui a fait l'atout, ou pourrait être gagné par un joueur ultérieur qui est également incapable de suivre la couleur menée et joue un atout supérieur.
 
-In the very rare case where all players follow suit to all five tricks, a card is drawn at random from the played tricks and this determines the trump suit. The dealer then completes the deal and play continues.
+Dans le cas très rare où tous les joueurs suivent la couleur aux cinq premiers plis, une carte est tirée au hasard parmi les plis joués et cela détermine la couleur d'atout. Le donneur termine alors la donne et le jeu continue.
 
-Method 1 requires the players to be honest about following suit. If a player were to cheat by making trumps when he could have followed suit, this would be obscured by the subsequent deal of eight cards and could not be proved. Therefore, if the players are not prepared to trust each other, method 2 below must be used.
+La méthode 1 exige que les joueurs soient honnêtes quant au fait de suivre la couleur. Si un joueur trichait en faisant l'atout alors qu'il aurait pu suivre, cela serait dissimulé par la distribution ultérieure de huit cartes et ne pourrait être prouvé. Par conséquent, si les joueurs ne sont pas disposés à se faire confiance, la méthode 2 ci-dessous doit être utilisée.
 
-**Method 2.** After the first part of the deal, the player to dealer's right selects and announces the trump suit on the basis of his five cards. The remaining cards are then dealt and the trump maker leads any of his thirteen cards to the first trick.
+**Méthode 2.** Après la première partie de la donne, le joueur à la droite du donneur sélectionne et annonce la couleur d'atout sur la base de ses cinq cartes. Les cartes restantes sont alors distribuées et le créateur de l'atout mène l'une de ses treize cartes au premier pli.
 
-## Taking Tricks
+## Ramassage des plis
 
-A 
-player who wins a  trick **does not** gather in the cards, but turns the cards of the trick face down in the centre of the table. Cards are only gathered in when the same **player** wins two consecutive tricks. Until then the cards pile up in centre. 
+Un joueur qui gagne un pli **ne ramasse pas** les cartes, mais retourne les cartes du pli face en bas au centre de la table. Les cartes ne sont ramassées que lorsque le **même joueur** gagne deux plis consécutifs. jusque-là, les cartes s'empilent au centre.
 
-When a player does win two consecutive tricks, that player takes all the cards from the centre (the trick just won and the pile of previous tricks), adds them to his team's face down trick pile, and leads to the next trick. 
+Lorsqu'un joueur gagne deux plis consécutifs, il prend toutes les cartes du centre (le pli qui vient d'être gagné et la pile des plis précédents), les ajoute à la pile de plis face en bas de son équipe, et mène au pli suivant.
 
-After a player has won two consecutive tricks and gathered in the cards, the following trick is left in the centre to begin a new pile. So if a player who has just won two consecutive tricks and taken the pile wins the next trick as well, he does not automatically take in the cards from this third trick. He would be able to do so if he also won the following trick.
+Après qu'un joueur a gagné deux plis consécutifs et ramassé les cartes, le pli suivant est laissé au centre pour commencer une nouvelle pile. Ainsi, si un joueur qui vient de gagner deux plis consécutifs et pris la pile gagne également le pli suivant, il ne ramasse pas automatiquement les cartes de ce troisième pli. Il pourrait le faire s'il gagne également le pli suivant.
 
-The player who wins the 13th and last trick takes in this and any cards that have accumulated in the centre, even if he did not win the 12th trick. 
+Le joueur qui gagne le 13e et dernier pli ramasse celui-ci et toutes les cartes qui se sont accumulées au centre, même s'il n'a pas gagné le 12e pli.
 
-Note that it is 
-not possible to  pick up the cards in the centre if two consecutive tricks are won by two **different** players of a 
-partnership. For example if AC and BD  are two partnerships, 16 Cards (from 4 tricks) are lying in the centre, "Player A" wins a trick and the next trick is won by "Player C", then they can't pick up the 24 
-cards. But if the next trick is also won by Player C, then he'll  pick up all the 28 cards and team AC 
-will get 7 tricks in their pile. 
+Notez qu'il n'est pas possible de ramasser les cartes au centre si deux plis consécutifs sont gagnés par deux joueurs **différents** d'une même équipe. Par exemple, si AC et BD sont deux équipes, 16 cartes (de 4 plis) sont étendues au centre, le joueur A gagne un pli et le pli suivant est gagné par le joueur C, alors ils ne peuvent pas ramasser les 24 cartes. Mais si le pli suivant est également gagné par le joueur C, alors il ramassera les 28 cartes et l'équipe AC aura 7 plis dans sa pile.
 
-## Winning Kots
+## Gain des Kots
 
-The object of the game is to win Kots, and the result of each hand depends on how many of the four tens each team took in their tricks.
+Le but du jeu est de gagner des Kots, et le résultat de chaque manche dépend du nombre de dix que chaque équipe a pris dans ses plis.
 
-- If a team takes all 
-4 tens in a hand, they win** one Kot**. The turn to deal passes to the right if the dealing team won and to the dealer's partner if the non-dealing team won.
+- Si une équipe prend les 4 dix en une manche, elle gagne **un Kot**. Le tour de donne passe à droite si l'équipe donneuse a gagné et au partenaire du donneur si l'équipe non donneuse a gagné.
 
-- If non dealer's team takes 2 or 3 tens, they win the hand and the same dealer deals again. 
+- Si l'équipe du non-donneur prend 2 ou 3 dix, elle gagne la manche et le même donneur redistribue.
 
-- If the dealer's team took 3 tens, they win the hand and the turn to deal passes to the right. 
+- Si l'équipe du donneur a pris 3 dix, elle gagne la manche et le tour de donne passe à droite.
 
-The concept of winning the hand is important not only for deciding who deals next, but also because if the same team wins seven consecutive hands they win **one Kot**.
+Le concept de gain de la manche est important non seulement pour décider qui donne ensuite, mais aussi parce que si la même équipe gagne sept manches consécutives, elle gagne **un Kot**.
 
-If a Kot is won by taking all four tens, the number of consecutive hands won is 
-reset to zero. 
+Si un Kot est gagné en prenant les quatre dix, le nombre de manches consécutives gagnées est remis à zéro.
 
-The players can agree to play for a fixed time duration at the end of which the team with more 
-Kots wins, or they can agree to end the game when either team has won a pre-agreed number of 
-Kots. 
-
-Home Page > Classified Index > Trick Taking Games > Dehla Pakad
+Les joueurs peuvent s'accorder pour jouer pendant une durée fixe, au terme de laquelle l'équipe ayant le plus de Kots gagne, ou ils peuvent s'accorder pour terminer le jeu lorsqu'une équipe a atteint un nombre prédéterminé de Kots.

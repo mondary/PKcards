@@ -2,65 +2,42 @@
 
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** An old Icelandic card game of the Karnöffel family, for four players in partnerships.
+**But :** Ancien jeu de cartes islandais de la famille Karnöffel, pour quatre joueurs en partenariats.
 
 ---
 
-*Translated by Anthony Smith from pages 140-142 of "Spilabók AB" by Þ. Guðmundsson, 1989, Reykjavík. Clarification of "friðufær" from "Islandsk-Dansk Ordbog", Reykjavík 1920-24.*
+*Traduit par Anthony Smith à partir des pages 140-142 de « Spilabók AB » de Þ. Guðmundsson, 1989, Reykjavík. Précision sur « friðufær » tirée de « Islandsk-Dansk Ordbog », Reykjavík 1920-24.*
 
-The name "Alkort" has a foreign ring, yet it must have
-been among the oldest games on Iceland. Eggert Ólafsson
-(1726-1768) said it was native. Here is Ólaf
-Davíðsson's work describing the game, from his writings
-on Icelandic amusements (Íslenzkar gátur, skemmtanir,
-vikavikar og þulur", Ólafur Davíðsson,
-1887-1903, Copenhagen). Two sorts of Alkort were played, 4-man
-Alkort and 2-man Alkort. They are very similar and we describe
-here the basic game, 4-man Alkort.
+Le nom « Alkort » a une consonance étrangère, pourtant il s'agit sans doute de l'un des plus anciens jeux d'Islande. Eggert Ólafsson (1726-1768) le disait autochtone. Voici le travail d'Ólaf Davíðsson décrivant le jeu, tiré de ses écrits sur les divertissements islandais (Íslenzkar gátur, skemmtanir, vikavikar og þulur, Ólafur Davíðsson, 1887-1903, Copenhague). Deux sortes d'Alkort existaient, l'Alkort à quatre et l'Alkort à deux. Elles se ressemblent beaucoup et nous décrivons ici le jeu de base, l'Alkort à quatre.
 
-## Number of Players and the Pack
+## Nombre de joueurs et jeu de cartes
 
-As the name 4-man Alkort implies, this is a game for four, who
-play in two partnerships of two. An ordinary pack of cards is
-needed but the 10s and 5s are taken out (leaving 44 cards).
+Comme son nom l'indique, l'Alkort à quatre se joue à quatre, en deux partenariats de deux. Un jeu ordinaire de 52 cartes est nécessaire mais on en retire les 10 et les 5 (laissant 44 cartes).
 
-## The Ranking of the Cards
+## Hiérarchie des cartes
 
-The ranking of cards in Alkort is very different from the usual ranking. The KD is highest (except when a 7 is led); then in order 2H, 4C, 8S, 9H, 9D. Next come the Aces, then the Jacks, the Sixes (póstarnir) and the Eights (friðurnar) except 8S.
+La hiérarchie des cartes à l'Alkort diffère considérablement de la hiérarchie habituelle. Le ![carreau]R est le plus haut (sauf lorsqu'un 7 est mené) ; puis dans l'ordre le ![cœur]2, ![trèfle]4, ![pique]8, ![cœur]9, ![carreau]9. Ensuite viennent les As, puis les Valets, les Six (póstarnir) et les Huits (friðurnar) sauf le ![pique]8.
 
-The other cards are all useless *rubbish* which are not worth having, except that a player who leads a *rubbish* card wins the trick if the other three cards played are also *rubbish*. The Kings (except KD) and the Queens are however the lowest of all these, because you may take a King with a Two or a Queen with a Two or a Three, provided no valuable card is played to the trick.
+Les autres cartes sont toutes des *rebuts* sans valeur, sauf qu'un joueur qui mène un *rebut* remporte la levée si les trois autres cartes jouées sont également des *rebuts*. Les Rois (sauf le ![carreau]R) et les Dames sont cependant les plus bas de tous, car on peut capturer un Roi avec un Deux ou une Dame avec un Deux ou un Trois, à condition qu'aucune carte de valeur n'ait été jouée dans la levée.
 
-The Sevens (bísefarnir) have special status. When they are led no card can beat them, but on the other hand they are utterly useless when following because they cannot beat any other
-card. You may not lead out a Seven until you have taken a trick. 
+Les Sept (bísefarnir) ont un statut spécial. Lorsqu'ils sont menés, aucune carte ne peut les battre, mais en revanche ils sont totalement inutiles lorsqu'on les joue en suivant, car ils ne peuvent battre aucune autre carte. On ne peut pas mener un Sept avant d'avoir remporté une levée.
 
-## The Deal
+## La donne
 
-Cut for partners and for deal. After shuffling and cutting each
-player is dealt 9 cards in batches of 3, clockwise. The stock
-which is left over is placed face down on the table and no one
-may see it. It contains 8 cards.
+Couper pour les partenaires et pour la donne. Après la battue et la coupe, chaque joueur reçoit 9 cartes par trois, dans le sens horaire. Le talon restant est placé face cachée sur la table et personne ne peut le voir. Il contient 8 cartes.
 
-A player who is dealt no card which would be capable of beating one of the three low Eights (friðurnar) if a low Eight were led is said to be not *friðufær* (not 8-capable). Such a player may show all his cards, discard them all except one, and take up instead the 8 cards which form the stock.
+Un joueur qui n'a reçu aucune carte capable de battre l'un des trois Huits bas (friðurnar) si un Huit bas était mené est dit non *friðufær* (non capable de battre un 8). Ce joueur peut montrer toutes ses cartes, les défausser toutes sauf une, et prendre à la place les 8 cartes formant le talon.
 
-## The Course of the Game
+## Le déroulement du jeu
 
-Before play begins, partners show each other their highest card. Forehand leads first and the others follow in clockwise order. The highest card played takes the trick. If two or more equally high cards are played (e.g. two jacks or two aces or two *rubbish*)
-then the one played earliest to the trick counts as highest.
+Avant le début du jeu, les partenaires se montrent leur carte la plus haute. Le joueur en première position mène en premier et les autres suivent dans l'ordre horaire. La carte la plus haute jouée remporte la levée. Si deux cartes ou plus de même hauteur sont jouées (par ex. deux Valets, deux As ou deux *rebuts*), la première jouée dans la levée compte comme la plus haute.
 
-The goal of the game is to take as many tricks as possible - 5
-or more to win. If a partnership takes 5 before the others take
-a trick then they "múk" or make them "múk".
-If they take more than 5 tricks before their opponents win any
-they are said to have made a *stroke*. The stroke is called
-a 6-card, 7-card, 8-card or 9-card stroke according to the number
-of tricks taken by the winners before the opponents take one.
+Le but du jeu est de remporter autant de levées que possible — 5 ou plus pour gagner. Si un partenariat remporte 5 levées avant que les autres n'en remportent une, ils font « múk ». S'ils remportent plus de 5 levées avant que leurs adversaires n'en gagnent une, on dit qu'ils ont fait un *coup*. Le coup est appelé coup à 6, coup à 7, coup à 8 ou coup à 9 selon le nombre de levées remportées par les gagnants avant que les adversaires n'en prennent une.
 
-## Settlement
+## Décompte des points
 
-For a simple win, i.e. 5 or more tricks, but not the first 5 tricks, one point is scored.
+Pour une victoire simple, c'est-à-dire 5 levées ou plus, mais pas les 5 premières levées, un point est marqué.
 
-For "múk", i.e. winning the first 5 tricks, five points are scored.
+Pour le « múk », c'est-à-dire remporter les 5 premières levées, cinq points sont marqués.
 
-For a stroke, the winners score as many points as there are tricks in the stroke.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Alkort
+Pour un coup, les gagnants marquent autant de points qu'il y a de levées dans le coup.

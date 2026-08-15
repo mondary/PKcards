@@ -2,57 +2,55 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the Australian card game Ugly in which the objective is to avoid taking tricks containing Jacks.
+**But :** Comment jouer au jeu de cartes australien Ugly, dans lequel le but est d'éviter de remporter des levées contenant des Valets.
 
 ---
 
-Ugly was invented in Australia in the 1980's by the *Committee for the Advanced Research into Deck Statistics (CARDS)*, a group of bored university students. It is loosely based on Hearts and Knaves, and is played in Canberra, Perth, and perhaps other places in Australia.
+Ugly a été inventé en Australie dans les années 1980 par le *Comité pour la recherche avancée sur les statistiques des jeux de cartes (CARDS)*, un groupe d'étudiants universitaires ennuyés. Il est vaguement basé sur les Cœurs et les Valets, et se joue à Canberra, Perth, et peut-être ailleurs en Australie.
 
-This description was contributed by *Gavin Longmuir*.
+Cette description a été contribuée par *Gavin Longmuir*.
 
-## Players and Cards
+## Joueurs et cartes
 
-Ugly is played by three or four players. The Deck is a regular 52 card pack. For three players one card is removed (the 2 of Spades). The Dealer then deals the cards equally to each of the players (no more than 2 cards at a time), until the deck is exhausted.
+Ugly se joue à trois ou quatre joueurs. Le jeu est un jeu standard de 52 cartes. Pour trois joueurs, on retire une carte (le 2 de pique). Le donneur distribue ensuite les cartes équitablement à chaque joueur (pas plus de 2 cartes à la fois), jusqu'à épuisement du jeu.
 
-## Trumps
+## Atouts
 
-After the deal the person to the left of the dealer after viewing his or her hand selects a suit which is to be trumps. No-Trumps is also a valid choice.
+Après la donne, la personne à la gauche du donneur, après avoir consulté sa main, choisit une couleur qui sera l'atout. Sans-atout est également un choix valide.
 
-## Passing Cards
+## Passage de cartes
 
-Each player then has to pass cards to the person to his or her left. In the first hand one card is passed; successive hands increase this number by two each time (ie. 3, 5, 7.. ).
+Chaque joueur doit ensuite passer des cartes à la personne à sa gauche. Lors de la première main, une carte est passée ; les mains suivantes augmentent ce nombre de deux à chaque fois (c'est-à-dire 3, 5, 7...).
 
-## The Play
+## Le jeu
 
-The player left of the dealer leads for the first trick of the hand. Play goes clockwise. Players must follow suit if they can. A player who cannot follow suit is free to trump the trick or discard an unwanted card. The winner of the trick is the person who played the highest card of the suit led (if not trumped) or the highest trump card (if trumped).
+Le joueur à la gauche du donneur entame la première levée de la main. Le jeu se fait dans le sens horaire. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui ne peut pas suivre est libre de couper la levée ou de défausser une carte indésirable. Le gagnant de la levée est la personne qui a joué la carte la plus haute de la couleur d'entame (si non coupée) ou la carte d'atout la plus haute (si coupée).
 
-## Scoring
+## Comptage
 
-Winning a trick counts as plus one point, but there are negative points for having Jacks in your tricks:
+Remporter une levée compte pour un point positif, mais il y a des points négatifs pour avoir des Valets dans vos levées :
 
-![spade jack](../images/internat/js.gif)
-![club jack](../images/internat/jc.gif)
-![diamond jack](../images/internat/jd.gif)
-![heart jack](../images/internat/jh.gif)
+![Valet de pique](../images/internat/js.gif)
+![Valet de trèfle](../images/internat/jc.gif)
+![Valet de carreau](../images/internat/jd.gif)
+![Valet de cœur](../images/internat/jh.gif)
 
-- Jack of Spades - minus one
+- Valet de pique — moins un
 
-- Jack of Clubs - minus two
+- Valet de trèfle — moins deux
 
-- Jack of Diamonds - minus three
+- Valet de carreau — moins trois
 
-- Jack of Hearts - minus four
+- Valet de cœur — moins quatre
 
-![Ugly](../images/internat/7d.gif)
-The Seven of Diamonds is called the Ugly Card, and has the effect of doubling the negative value of any Jacks collected by the player who wins a trick containing this card. If the player who takes the Ugly card manages to avoid having any Jacks in any tricks for that hand, then the player has the value of his or her tricks doubled for that hand.
+![Laide](../images/internat/7d.gif)
+Le Sept de carreau est appelé la Carte Laide, et a pour effet de doubler la valeur négative de tous les Valets collectés par le joueur qui remporte une levée contenant cette carte. Si le joueur qui prend la Carte Laide parvient à éviter d'avoir des Valets dans aucune levée pour cette main, alors le joueur voit la valeur de ses levées doublée pour cette main.
 
-![Charm](../images/internat/7c.gif)
-The Seven of Clubs is called the Charm Card. It has no effect by itself, but if the same player takes both the Ugly card and the Charm card, the effect of the Ugly Card on jacks is cancelled (i.e. any Jacks won in the current hand are worth their normal negative value). If the player who took the Charm and Ugly cards has no Jacks in any tricks for the current hand, each trick taken by the player scores plus four points.
+![Charme](../images/internat/7c.gif)
+Le Sept de trèfle est appelé la Carte Charme. Il n'a aucun effet par lui-même, mais si le même joueur prend à la fois la Carte Laide et la Carte Charme, l'effet de la Carte Laide sur les Valets est annulé (c'est-à-dire que les Valets remportés lors de la main en cours valent leur valeur négative normale). Si le joueur qui a pris les cartes Charme et Laide n'a aucun Valet dans aucune levée pour la main en cours, chaque levée remportée par le joueur rapporte quatre points supplémentaires.
 
-## End of the Game
+## Fin de la partie
 
-The game is completed after the final hand is played. The final hand is the one in which players are passing all of their cards to the left (ie. all 17 in a three player game, or all 13 in a four player game).
+La partie s'achève après la dernière main. La dernière main est celle où les joueurs passent toutes leurs cartes à gauche (c'est-à-dire les 17 dans un jeu à trois joueurs, ou les 13 dans un jeu à quatre joueurs).
 
-The winner is the person with the highest number of points at the completion of the game.
-
-Home Page > Classified Index > Trick Taking Games > Reverse Games > Ugly
+Le gagnant est la personne ayant le plus de points à l'issue de la partie.

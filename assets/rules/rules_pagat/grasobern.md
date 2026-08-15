@@ -2,7 +2,7 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the Bavarian / Upper Austrian card game Grasobern or Grea Bua (green boy) in which the players try to avoid winning the Ober of leaves and the last trick.
+**But :** Comment jouer au jeu de cartes bavarois / autrichien supérieur Grasobern ou Grea Bua (garçon vert) dans lequel les joueurs essayent d'éviter de remporter l'Ober de feuilles et la dernière levée.
 **Autres noms :** Grasober Races, Grünobern
 
 ---
@@ -11,256 +11,254 @@
 
 ## Introduction
 
-Grasobern is a classic Bavarian and Austrian card game with a relaxing character that is easy to learn and fun to play. It makes a good introduction to those unfamiliar with German-suited cards. The first references appear in the early 19th century but it is probably much older. It remains popular in eastern Bavaria, especially in the Upper Palatinate, and in the south of Old Bavaria., Meanwhile it has experienced a revival in Upper Austria’s Mühlviertel region in recent years where players have competed annually for the Grea Bua Cup since 2005.
+Grasobern est un jeu de cartes bavarois et autrichien classique au caractère relaxant, facile à apprendre et amusant à jouer. Il constitue une bonne introduction pour ceux qui ne sont pas familiers avec les cartes aux enseignes allemandes. Les premières références apparaissent au début du 19e siècle, mais il est probablement bien plus ancien. Il reste populaire en Bavière orientale, surtout dans le Haut-Palatinat, et dans le sud de la vieille Bavière. Parallèlement, il a connu un renouveau dans la région du Mühlviertel en Haute-Autriche ces dernières années, où des joueurs s'affrontent annuellement pour la Coupe du Grea Bua depuis 2005.
 
-The simplest and probably original form of the game - still played in Austria today - is one in which the aims are to avoid capturing the Grass (or Green) Ober and to avoid taking the last trick. However, as early as 1895, special contracts were added. These were undertakings to lose all the tricks (Bettel) or to win all the tricks (Mord). Over time these were further elaborated, especially in Bavaria, by adding "open" versions in which the declarer's hand was laid face up on the table after the first trick, an option for a player attempting a Mord to call for a card from another player (Rufmord) and Schleichmord, a "sneaky" version of Mord in which the intention to win all the tricks was not announced until partway through the play. 
+La forme la plus simple et probablement originale du jeu — encore jouée en Autriche aujourd'hui — est celle où les buts sont d'éviter de capturer le Ober d'herbe (ou vert) et d'éviter de prendre la dernière levée. Cependant, dès 1895, des contrats spéciaux ont été ajoutés. Il s'agissait d'engagements à perdre toutes les levées (Bettel) ou à gagner toutes les levées (Mord). Au fil du temps, ceux-ci ont été davantage élaborés, surtout en Bavière, en ajoutant des versions « ouvertes » où la main du déclarant était posée face visible sur la table après la première levée, une option pour un joueur tentant un Mord de demander une carte à un autre joueur (Rufmord), et le Schleichmord, une version « sournoise » du Mord dans laquelle l'intention de gagner toutes les levées n'était pas annoncée avant le milieu de la partie.
 
-*This page was contributed by Paul Eaton and is based on his research of the literature as well as consultation with active players. *
+*Cette page a été contribuée par Paul Eaton et est basée sur ses recherches littéraires ainsi que sur des consultations avec des joueurs actifs.*
 
-## History and Names
+## Histoire et noms
 
-Grasobern probably dates to at least the 18th century, although the earliest known mention is in a poem called “Unglück im Spiele” (“Misfortune in Games”) in an 1824 anthology, in which the author bemoans his bad luck when playing cards at the Mohrenkopf in Munich, including *Laubobern* at which he longs for a *Durchmarsch* (slam). The earliest Austrian record notes that *Grünoberln* was still the most popular game among the middle classes in 1852. However, the first detailed descriptions do not appear until 1895, by whch time the game included Bettel and Mord. During the 19th and early 20th centuries, the game became so popular that tournaments known as Grasober Races (*Grasober-Rennen*) were held. Today local competitions are still held in the south of Bavaria and in Upper Austria, but the game is on the endangered list according to Erich Rohrmayer. 
+Grasobern date probablement d'au moins le 18e siècle, bien que la première mention connue se trouve dans un poème intitulé « *Unglück im Spiele* » (« Malheur aux jeux ») dans une anthologie de 1824, dans laquelle l'auteur déplore sa malchance lors de parties de cartes au Mohrenkopf à Munich, dont le *Laubobern* où il espère un *Durchmarsch* (chelem). Le premier enregistrement autrichien note que le *Grünoberln* était encore le jeu le plus populaire parmi les classes moyennes en 1852. Cependant, les premières descriptions détaillées n'apparaissent qu'en 1895, date à laquelle le jeu incluait déjà le Bettel et le Mord. Au cours des 19e et 20e siècles, le jeu est devenu si populaire que des tournois appelés Grasober Races (*Grasober-Rennen*) étaient organisés. Aujourd'hui, des compétitions locales ont encore lieu dans le sud de la Bavière et en Haute-Autriche, mais le jeu est sur la liste des jeux en danger selon Erich Rohrmayer.
 
-The game has numerous names all centred on its penalty card, the Ober of Leaves. In Bavaria it is usually called **Grasobern**, dialectally **Graseberla**, which means “playing Grass Ober”, *Gras *being the suit of leaves. In Austria, it is more commonly **Grünobern**, *Grün* meaning “green” and, again, referring to the suit of Leaves. In the Mühlviertel dialect it is **Grea Bua**, “Green Boy”.  Other regional and historical names include* Grasoberln, Grasoberspiel, Grüneln, Grünoberfangen,* *Grünoberjagen, Laubobern, *and *Lauboberspiel*.
+Le jeu porte de nombreux noms, tous centrés sur sa carte de pénalité, l'Ober de feuilles. En Bavière, on l'appelle généralement **Grasobern**, dialectalement **Graseberla**, qui signifie « jouer le Ober d'herbe », *Gras* étant la couleur de feuilles. En Autriche, on l'appelle plus couramment **Grünobern**, *Grün* signifiant « vert » et se référant là encore à la couleur de feuilles. Dans le dialecte du Mühlviertel, c'est **Grea Bua**, « Garçon vert ». D'autres noms régionaux et historiques incluent *Grasoberln, Grasoberspiel, Grüneln, Grünoberfangen, Grünoberjagen, Laubobern* et *Lauboberspiel*.
 
-## Grasobern (Bavaria)
+## Grasobern (Bavière)
 
-*The **main account on this page is a version of Grasobern described to Paul Eaton by Helmut Vierkant who plays it regularly with local players Josef (“Sepp”) Hemauer, Franz Neumeier and Wolfgang Buchner in his home village of Zaitzkofen in the Upper Palatinate (thank you to business consultant and card game author Erich Rohrmeyer of Schierling who facilitated the discussion).*
+*Le **compte principal de cette page est une version du Grasobern décrite à Paul Eaton par Helmut Vierkant, qui y joue régulièrement avec les joueurs locaux Josef (« Sepp ») Hemauer, Franz Neumeier et Wolfgang Buchner dans son village natal de Zaitzkofen dans le Haut-Palatinat (remerciements au consultant d'entreprise et auteur de jeux de cartes Erich Rohrmeyer de Schierling qui a facilité la discussion).*
 
-### Players, Cards and Objective
+### Joueurs, cartes et objectif
 
-The following rules describe a typical variant: the **four-handed game played in Zaitzkofen** near Regensburg in northern Bavaria.
+Les règles suivantes décrivent une variante typique : le **jeu à quatre mains joué à Zaitzkofen** près de Ratisbonne dans le nord de la Bavière.
 
-A 32-card, German-suited pack is used, normally created by removing the sixes from a Bavarian Schafkopf/Tarock pack. There are never any trumps, and the cards of each suit rank from high to low: Ace, King, Ober, Unter, 10, 9, 8, 7. As usual in Bavaria the aces are normally known as "sows".
+On utilise un jeu de 32 cartes aux enseignes allemandes, normalement créé en retirant les six d'un jeu bavarois de Schafkopf/Tarock. Il n'y a jamais d'atout, et les cartes de chaque couleur se classent de haut en bas : As, Roi, Ober, Unter, 10, 9, 8, 7. Comme d'habitude en Bavière, les as sont généralement appelés « cochons » (*Sau*).
 
-- In a **normal game** each player plays for themselves with the aims of avoiding taking the last trick and avoiding taking the trick that contains the *Grasober* (the Ober of leaves).
+- Dans un **jeu normal**, chaque joueur joue pour lui-même avec les buts d'éviter de prendre la dernière levée et d'éviter de prendre la levée qui contient le *Grasober* (l'Ober de feuilles).
 
-- In the **special contracts** Bettel and Durch, one of the players is the declarer, who volunteers to play alone and lose every trick or win every trick, while the other three form a team that tries to prevent this.
+- Dans les **contrats spéciaux** Bettel et Durch, un des joueurs est le déclarant, qui se porte volontaire pour jouer seul et perdre chaque levée ou gagner chaque levée, tandis que les trois autres forment une équipe qui tente de l'en empêcher.
 
-At the start of the session the players should agree on the stake. At the time of writing (2026) this is normally 50 cents.
+Au début de la session, les joueurs doivent se mettre d'accord sur la mise. Au moment où nous écrivons (2026), celle-ci est normalement de 50 centimes.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-### The Deal
+### La donne
 
-The first dealer is chosen by any agreed method. The dealer shuffles the pack, offers it to the player to the right for cutting and deals the cards in packets of 4, beginning with forehand, the player to the dealer’s left and going twice around the table so that each player has a hand of 8 cards. 
+Le premier donneur est choisi par la méthode convenue. Le donneur bat le jeu, l'offre au joueur à sa droite pour la coupe et distribue les cartes par paquets de 4, en commençant par l'avant-main, le joueur à la gauche du donneur, et en faisant deux fois le tour de la table pour que chaque joueur reçoive une main de 8 cartes.
 
-### The Auction
+### Les enchères
 
-There is a single round of bidding, beginning with forehand, in which each player in turn either passes by (saying *“weiter” *or* “weg”*) or names one of the two special contracts: **Bettel** (an undertaking to lose every trick) or **Mord** (an undertaking to win every trick). If a player bids Bettel, subsequent players can only pass or bid Mord. Mord is the highest bid and ends the auction. Most of the time all four players pass, in which case a **normal game** is played. If the final bid is Bettel or Mord, the final bidder becomes the **declarer** and plays that contract alone against the other three players.
+Il y a un seul tour d'enchères, commençant par l'avant-main, où chaque joueur à son tour soit passe (en disant *« weiter »* ou *« weg »*) soit nomme l'un des deux contrats spéciaux : **Bettel** (engagement de perdre chaque levée) ou **Mord** (engagement de gagner chaque levée). Si un joueur enchérit Bettel, les joueurs suivants ne peuvent que passer ou enchérir Mord. Mord est l'enchère la plus haute et termine les enchères. La plupart du temps, les quatre joueurs passent, auquel cas un **jeu normal** est joué. Si l'enchère finale est Bettel ou Mord, le dernier enchérisseur devient le **déclarant** et joue ce contrat seul contre les trois autres joueurs.
 
-### The Play
+### Le jeu
 
-In a **normal game**, forehand begins by leading any card to the first trick. Players must follow suit if able. A player who is unable to follow suit and who holds the *Grasober* (Ober of leaves) **must** play it. Otherwise, a player who cannot follow suit may play any card. The highest card played of the suit that was led wins the four-card trick, which is placed face down next to the player who took it. The winner of each trick leads to the next trick. There are penalties for the player who wins the trick containing the *Grasober* and for the winner of the last trick.
+Dans un **jeu normal**, l'avant-main commence en entamant n'importe quelle carte pour la première levée. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui ne peut pas suivre et qui détient le *Grasober* (Ober de feuilles) **doit** le jouer. Sinon, un joueur qui ne peut pas suivre peut jouer n'importe quelle carte. La carte la plus haute jouée de la couleur d'entame remporte la levée de quatre cartes, qui est placée face cachée à côté du joueur qui l'a prise. Le gagnant de chaque levée entame la levée suivante. Il y a des pénalités pour le joueur qui remporte la levée contenant le *Grasober* et pour le gagnant de la dernière levée.
 
-In **Bettel**, the declarer begins by leading any card to the first trick. Throughout the game, players who have cards of the suit that was led must follow suit and if possible must beat the highest card of that suit so far played to the trick. Players who are unable to follow suit may play any card (there is no special rule for the *Grasober*). As usual each trick is won by the highest card of the led suit and the trick winner leads any card to the next trick. The declarer must lose every trick to succeed: as soon as the declarer wins a trick the play ends and the contract is lost. 
+Dans le **Bettel**, le déclarant commence en entamant n'importe quelle carte pour la première levée. Tout au long du jeu, les joueurs qui ont des cartes de la couleur d'entame doivent suivre et, si possible, doivent battre la carte la plus haute de cette couleur jouée jusqu'à présent dans la levée. Les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quelle carte (il n'y a pas de règle spéciale pour le *Grasober*). Comme d'habitude, chaque levée est remportée par la carte la plus haute de la couleur d'entame et le gagnant entame n'importe quelle carte pour la levée suivante. Le déclarant doit perdre chaque levée pour réussir : dès que le déclarant remporte une levée, le jeu s'arrête et le contrat est perdu.
 
-*Note that the requirement to overtake allows the declarer with a lone high card, such as a king, to lead it safely to the first trick, since the holder of the ace must play it. On the other hand the requirement to overtake applies to all players including the declarer, so for example a declarer holding A-9-8-7 of a suit rhat is led by an opponent will be required to play the ace, losing the contract*.
+*Notez que l'obligation de surmonter permet au déclarant avec une carte haute isolée, comme un Roi, de l'entamer en toute sécurité pour la première levée, puisque le détenteur de l'As doit le jouer. En revanche, l'obligation de surmonter s'applique à tous les joueurs, y compris le déclarant, de sorte que par exemple un déclarant détenant A-9-8-7 d'une couleur entamée par un adversaire sera obligé de jouer l'As, perdant ainsi le contrat.*
 
-In **Mord** the declarer leads any card to the first trick, and as usual players must follow suit if possible. Players who are unable to follow suit may play any card (there is no special rule for the *Grasober*). Each trick is won by the highest card of the suit that was led and the winner leads any card to the next trick. The declarer must win every trick to succeed, so as soon as a trick is won by any other player the play ends and the contract has failed.
+Dans le **Mord**, le déclarant entame n'importe quelle carte pour la première levée, et comme d'habitude les joueurs doivent suivre s'ils le peuvent. Les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quelle carte (il n'y a pas de règle spéciale pour le *Grasober*). Chaque levée est remportée par la carte la plus haute de la couleur d'entame et le gagnant entame n'importe quelle carte pour la levée suivante. Le déclarant doit gagner chaque levée pour réussir, de sorte que dès qu'une levée est remportée par un autre joueur, le jeu s'arrête et le contrat a échoué.
 
 ### Schleicher
 
-In a normal game, a player who wins the first five tricks may knock on the table before leading to the sixth trick. This is an announcement of a **Schleicher** or **Schleichmord** (a "sneaky Mord"), an undertaking to win the last three tricks as well. In this case there are no penalties for taking the *Grasober* or the last trick: instead the knocker wins if they take all eight tricks or loses if any of the last three tricks is won by an opponent. 
+Dans un jeu normal, un joueur qui remporte les cinq premières levées peut frapper sur la table avant d'entamer la sixième levée. C'est l'annonce d'un **Schleicher** ou **Schleichmord** (un « Mord sournois »), l'engagement de gagner les trois dernières levées également. Dans ce cas, il n'y a pas de pénalité pour avoir pris le *Grasober* ou la dernière levée : à la place, celui qui a frappé gagne s'il prend les huit levées ou perd si l'une des trois dernières levées est remportée par un adversaire.
 
-### The Scoring
+### Le comptage
 
-In a **normal game** with no *Schleicher*
+Dans un **jeu normal** sans *Schleicher*
 
-- if the last trick and the *Grasober* were taken by two different players, each of them pays **one stake** and each of the other two players receives **one stake**
+- si la dernière levée et le *Grasober* ont été pris par deux joueurs différents, chacun d'eux paie **une mise** et chacun des deux autres joueurs reçoit **une mise**
 
-- if the same player took both the *Grasober* and the last trick, that player pays **one stake** to each of the other three players.
+- si le même joueur a pris à la fois le *Grasober* et la dernière levée, ce joueur paie **une mise** à chacun des trois autres joueurs.
 
-If a **Schleicher** was announced, the knocker wins **two stakes** from each player for winning the last three tricks, or pays **two stakes** to each of the other players if anyone else wins a trick.
+Si un **Schleicher** a été annoncé, celui qui a frappé gagne **deux mises** de chaque joueur pour avoir gagné les trois dernières levées, ou paie **deux mises** à chacun des autres joueurs si quelqu'un d'autre remporte une levée.
 
-In a **Bettel** the tariff is **two stakes**, paid to the declarer by each other player if the Bettel succeeds or by the declarer to each other player if it fails.
+Dans un **Bettel** le tarif est de **deux mises**, payées au déclarant par chaque autre joueur si le Bettel réussit, ou par le déclarant à chaque autre joueur s'il échoue.
 
-In a **Mord** the tariff is **four stakes**, paid to the declarer by each other player if the Mord succeeds or by the declarer to each other player if it fails. 
+Dans un **Mord** le tarif est de **quatre mises**, payées au déclarant par chaque autre joueur si le Mord réussit, ou par le déclarant à chaque autre joueur s'il échoue.
 
-## Grasobern: Variations and Uncertainties
+## Grasobern : variantes et incertitudes
 
-In Bavaria the following common variations are known. 
+En Bavière, les variantes communes suivantes sont connues.
 
-**Pot.** In many places it is usual for penalties in the normal game to be paid to a pot, which is distributed to the players at the end of the session or saved for some common purpose such as paying for a meal together. Note that in the Zaitzkofen game above, the penalties in the normal game are equivalent to the players who took the Grasober and the last trick each paying two stakes to a pot whose contents are immediately distributed to the players, each receiving one stake back.
+**Pot.** Dans beaucoup d'endroits, il est habituel que les pénalités du jeu normal soient payées à un pot, qui est distribué aux joueurs à la fin de la session ou conservé pour un usage commun comme payer un repas ensemble. Notez que dans le jeu de Zaitzkofen ci-dessus, les pénalités du jeu normal sont équivalentes aux joueurs qui ont pris le Grasober et la dernière levée payant chacun deux mises à un pot dont le contenu est immédiatement distribué aux joueurs, chacun recevant une mise en retour.
 
-**First Trick Penalty**. In many places the player who takes the first trick in a normal game must also pay a penalty equal to the penalty for taking the last trick.
+**Pénalité de la première levée.** Dans beaucoup d'endroits, le joueur qui prend la première levée dans un jeu normal doit également payer une pénalité égale à la pénalité pour avoir pris la dernière levée.
 
-**Grasober Penalty**. In many places taking the *Grasober* in a normal game costs twice as much as winning the first or last trick.
+**Pénalité du Grasober.** Dans beaucoup d'endroits, prendre le *Grasober* dans un jeu normal coûte deux fois plus cher que de gagner la première ou la dernière levée.
 
-*Note that in a normal game that ends with a Schleicher there are no penalties for taking the first trick, last trick or Grasober. For this reason it is convenient to make payments to the pot only at the end of play. We are not sure what is the usual practice, but if players pay the pot for taking the first trick and the Grasober as soon as these events occur, they should remember to withdraw these payments from the pot if a Schleicher is announced.* 
+*Notez que dans un jeu normal qui se termine par un Schleicher, il n'y a pas de pénalités pour avoir pris la première levée, la dernière levée ou le Grasober. Pour cette raison, il est pratique de ne verser les paiements au pot qu'à la fin du jeu. Nous ne savons pas quelle est la pratique habituelle, mais si les joueurs paient le pot pour avoir pris la première levée et le Grasober dès que ces événements se produisent, ils doivent se souvenir de retirer ces paiements du pot si un Schleicher est annoncé.*
 
-**Playing the Grasober.** It is always a rule that in a normal game the holder of the *Grasober* must dispose of it as soon as possible if able to discard it on a suit in which they have no cards. In some places there is an additional rule that the *Grasober* must be played by the holder if another player leads the ace or king of leaves to a trick. Players would normally want to get rid of the *Grasober* as soon as they can safely do so, but it's possible that a player holding say O-8-7 of leaves might want to hold back the Ober to prevent a *Schleicher* by another player. This tactic would only make sense if playing for a tariff where paying for a Schleicher was significantly more expensive than the penalty for taking the *Grasober*. This extra rule prevents that tactic. It is not completely clear, but apparently the extra rule only applies if the ace or king of leaves is **led** to the trick: if a low leaf is led and the second or third player plays the ace or king, a later player is still allowed to hold back the Ober if they wish to.
+**Jouer le Grasober.** C'est toujours une règle que dans un jeu normal, le détenteur du *Grasober* doit s'en débarrasser dès que possible s'il peut le défausser sur une couleur où il n'a pas de cartes. Dans certains endroits, il y a une règle supplémentaire selon laquelle le *Grasober* doit être joué par le détenteur si un autre joueur entame l'As ou le Roi de feuilles. Les joueurs voudraient normalement se débarrasser du *Grasober* dès qu'ils le peuvent le faire en toute sécurité, mais il est possible qu'un joueur tenant par exemple O-8-7 de feuilles veuille garder l'Ober pour empêcher un *Schleicher* d'un autre joueur. Cette tactique n'aurait de sens que si l'on joue pour un tarif où payer pour un Schleicher est nettement plus coûteux que la pénalité pour avoir pris le *Grasober*. Cette règle supplémentaire empêche cette tactique. Ce n'est pas tout à fait clair, mais apparemment la règle supplémentaire ne s'applique que si l'As ou le Roi de feuilles est **entamé** dans la levée : si une feuille basse est entamée et qu'un joueur en deuxième ou troisième position joue l'As ou le Roi, un joueur ultérieur est toujours autorisé à conserver l'Ober s'il le souhaite.
 
-**Bauer**. In some places a player who incurs all three penalties in a normal game, winning the first and last tricks and the Grasober, is called the *Bauer* (“peasant” or “boy”). The other players stand up and poke fun at this misfortune by chorusing “Hellooo!”
+**Bauer.** Dans certains endroits, un joueur qui subit les trois pénalités dans un jeu normal, gagnant la première et la dernière levée et le Grasober, est appelé le *Bauer* (« paysan » ou « garçon »). Les autres joueurs se lèvent et se moquent de cette malchance en chantant en chœur « Bonjouuuur ! »
 
-### Additional special contracts
+### Contrats spéciaux supplémentaires
 
-**Gelegter Bettel**, formerly known as *Bettel ouvert* ("Open Bettel"). Ranks above Mord in the auction. The declarer plays Bettel with their hand laid face up on the table after the first trick.
+**Gelegter Bettel**, anciennement appelé *Bettel ouvert*. Se classe au-dessus du Mord aux enchères. Le déclarant joue le Bettel avec sa main posée face visible sur la table après la première levée.
 
-**Gelegter Mord**, also known as *Herrenmord* ("Open Mord"). Ranks above Gelegter Bettel in the auction. The declarer plays Mord with cards laid face up on the table after the first trick.
+**Gelegter Mord**, également appelé *Herrenmord* (« Mord ouvert »). Se classe au-dessus du Gelegter Bettel aux enchères. Le déclarant joue le Mord avec les cartes posées face visible sur la table après la première levée.
 
-**Rufmord** ("Call Mord"). The declarer calls for a card and the holder of that card must give it to the declarer after which the declarer returns an unwanted card face down in exchange. The declarer then plays Mord. In some places this replaces Mord as an option in the auction and is just called Mord.
+**Rufmord** (« Mord d'appel »). Le déclarant demande une carte et le détenteur de cette carte doit la lui donner, après quoi le déclarant retourne une carte indésirable face cachée en échange. Le déclarant joue ensuite le Mord. Dans certains endroits, ceci remplace le Mord comme option aux enchères et s'appelle simplement Mord.
 
-**Retour Bettel** ("Re-Bettel"). Can be bid by a later player to overcall Rufmord. Played and scored the same as Bettel.
+**Retour Bettel** (« Re-Bettel »). Peut être enchéri par un joueur ultérieur pour surclasser le Rufmord. Se joue et se compte de la même manière que le Bettel.
 
-### Tariffs
+### Tarifs
 
-There are numerous local variants of the payments for the various contracts, and each published set of rules we have seen (see sources) gives a different schedule. For example: 
+Il existe de nombreuses variantes locales des paiements pour les différents contrats, et chaque ensemble de règles publié que nous avons vu (voir sources) donne un barème différent. Par exemple :
 
-**Mala** (1997) calls the game *Grün-Ober. *All payments are to the pot. 
+**Mala** (1997) appelle le jeu *Grün-Ober*. Tous les paiements vont au pot.
 
-- normal game: first trick 2 stakes, Ober of leaves 3 stakes, last trick 4 stakes
+- jeu normal : première levée 2 mises, Ober de feuilles 3 mises, dernière levée 4 mises
 
-- silent Mord (winning all tricks in a normal game with no announcement) each opponent pays 5 stakes (no payments for first and last tricks and Ober of leaves)
+- Mord silencieux (gagner toutes les levées dans un jeu normal sans annonce) : chaque adversaire paie 5 mises (pas de paiements pour la première et dernière levée et l'Ober de feuilles)
 
-- Schleicher: if won each opponent pays 6 stakes, if lost declarer pays 12 stakes
+- Schleicher : si gagné, chaque adversaire paie 6 mises ; si perdu, le déclarant paie 12 mises
 
-- Bettel: if won each opponent pays 6 stakes, if lost declarer pays 12 stakes
+- Bettel : si gagné, chaque adversaire paie 6 mises ; si perdu, le déclarant paie 12 mises
 
-- Mord: if won each opponent pays 8 stakes, if lost declarer pays 16 stakes
+- Mord : si gagné, chaque adversaire paie 8 mises ; si perdu, le déclarant paie 16 mises
 
-**Sirch** (2008) 
+**Sirch** (2008)
 
-- normal game: winners of first trick, last trick and Grasober each pay 1 stake to the pot
+- jeu normal : les gagnants de la première levée, de la dernière levée et du Grasober paient chacun 1 mise au pot
 
-- Schleicher: announced after 4th trick. declarer wins 2 stakes from each opponent if successful, otherwise pays 2 to each
+- Schleicher : annoncé après la 4e levée. Le déclarant gagne 2 mises de chaque adversaire en cas de succès, sinon paie 2 à chacun
 
-- Bettel: declarer wins 2 stakes from each opponent if successful, otherwise pays 2 to each
+- Bettel : le déclarant gagne 2 mises de chaque adversaire en cas de succès, sinon paie 2 à chacun
 
-- Mord: this is a Rufmord, i.e. declarer asks for a card. declarer wins 4 stakes from each opponent if successful, otherwise pays 4 to each
+- Mord : c'est un Rufmord, c'est-à-dire que le déclarant demande une carte. Le déclarant gagne 4 mises de chaque adversaire en cas de succès, sinon paie 4 à chacun
 
-- Gelegter Bettel: declarer wins 4 stakes from each opponent if successful, otherwise pays 4 to each
+- Gelegter Bettel : le déclarant gagne 4 mises de chaque adversaire en cas de succès, sinon paie 4 à chacun
 
-- Gelegter Mord: no card called - declarer wins 8 stakes from each opponent if successful, otherwise pays 8 to each
+- Gelegter Mord : pas de carte demandée — le déclarant gagne 8 mises de chaque adversaire en cas de succès, sinon paie 8 à chacun
 
 **Bayerische Rundfunk** (2012)
 
 **Rohrmayer** (2017)
 
-- normal game: winners of for the first and last tricks each pay 1 stake to the pot, the player who takes the *Grasober* pays 2 stakes to the pot
+- jeu normal : les gagnants de la première et de la dernière levée paient chacun 1 mise au pot, le joueur qui prend le *Grasober* paie 2 mises au pot
 
-- Schleicher: declarer receives/pays 7 stakes from/to each opponent
+- Schleicher : le déclarant reçoit/paie 7 mises de/à chaque adversaire
 
-- Bettel: declarer receives/pays 3 stakes from/to each opponent
+- Bettel : le déclarant reçoit/paie 3 mises de/à chaque adversaire
 
-- Mord: declarer receives/pays 4 stakes from/to each opponent
+- Mord : le déclarant reçoit/paie 4 mises de/à chaque adversaire
 
 **Gruber** (2026)
 
-- normal game: winners of the Grasober and the last trick pay 1 stake each to the pot. No payment for the first trick.
+- jeu normal : les gagnants du Grasober et de la dernière levée paient chacun 1 mise au pot. Pas de paiement pour la première levée.
 
-- Schleicher: declarer receives/pays 6 stakes from/to each opponent
+- Schleicher : le déclarant reçoit/paie 6 mises de/à chaque adversaire
 
-- Bettel: declarer receives/pays 3 stakes from/to each opponent
+- Bettel : le déclarant reçoit/paie 3 mises de/à chaque adversaire
 
-- Rufmord: declarer calls for a card and receives/pays 6 stakes from/to each opponent
+- Rufmord : le déclarant demande une carte et reçoit/paie 6 mises de/à chaque adversaire
 
-- Mord: declarer receives/pays 10 stakes from/to each opponent 
+- Mord : le déclarant reçoit/paie 10 mises de/à chaque adversaire
 
-### Other numbers of players
+### Autres nombres de joueurs
 
-Although it is usually played by 4 people Rohrmayer says that Grasobern can theoretically be played by 3 to 8 players, and is best for 4 to 6. If there are 5 or 6 players two sevens, for example acorns and bells, are removed from the pack so that 5 players each have a hand of 6 cards and 6 players each have 5. He implies that the rules are analogous to those of the 4-player game but clearly some scoring adjustments will be needed. 
+Bien qu'il soit généralement joué par 4 personnes, Rohrmayer dit que le Grasobern peut théoriquement être joué par 3 à 8 joueurs, et convient le mieux à 4 à 6. S'il y a 5 ou 6 joueurs, on retire deux sept, par exemple glands et cloches, du jeu pour que 5 joueurs aient chacun une main de 6 cartes et 6 joueurs chacun 5. Il laisse entendre que les règles sont analogues à celles du jeu à 4 joueurs, mais clairement certains ajustements de comptage seront nécessaires.
 
-## Grünobern (Austria)
+## Grünobern (Autriche)
 
-Austrian players use the 32- or 36-card William Tell pack. The suit of leaves is called *grün* (green), so the game is generally known as Grünobern, In the Mühlviertel, however, it is commonly called **Grea Bua** (green boy) or, according to Michael Wurm, designer of the app Queen of Spades, as *Grünober Suchen* or *Grün-Bauern Jagen* (hunt the green boy).
+Les joueurs autrichiens utilisent le jeu Tell de 32 ou 36 cartes. La couleur de feuilles est appelée *grün* (vert), de sorte que le jeu est généralement connu sous le nom de Grünobern. Dans le Mühlviertel, cependant, on l'appelle couramment **Grea Bua** (garçon vert) ou, selon Michael Wurm, créateur de l'application Queen of Spades, *Grünober Suchen* ou *Grün-Bauern Jagen* (chasser le garçon vert).
 
-*The description of Grea Bua that follows is based on observation and participation in a three-hand game played with Michael Lang, Berthold (Butty) Reisinger and “Pez” in Langs Wirtshaus, Sankt Ulrich im Mühlkreis, Upper Austria. At Langs Wirtshaus, “Pez”, who was from neighbouring Sankt Peter am Wimberg, said that they only played the classic game; there were no special contracts and players simply had to avoid the last trick and Grea Bua. However, “Butty” said they always played with Bettel and Mord. They described two special rules that do not appear in the Bavarian game, but are mentioned in online descriptions of Grea Bua: the first is that the opening lead may not be a leaf; the second is the feature of Buam suacha (explained below) which is clearly why the game is called Grea Bua suacha in Sankt Martin im Mühlkreis. *
+*La description du Grea Bua qui suit est basée sur l'observation et la participation à un jeu à trois mains joué avec Michael Lang, Berthold (Butty) Reisinger et « Pez » au Langs Wirtshaus, Sankt Ulrich im Mühlkreis, en Haute-Autriche. Au Langs Wirtshaus, « Pez », qui venait de Sankt Peter am Wimberg voisin, disait qu'ils ne jouaient que le jeu classique ; il n'y avait pas de contrats spéciaux et les joueurs devaient simplement éviter la dernière levée et le Grea Bua. Cependant, « Butty » disait qu'ils jouaient toujours avec le Bettel et le Mord. Ils ont décrit deux règles spéciales qui n'apparaissent pas dans le jeu bavarois, mais qui sont mentionnées dans les descriptions en ligne du Grea Bua : la première est que l'entame ne peut pas être une feuille ; la seconde est la particularité du Buam suacha (expliqué ci-dessous) qui explique clairement pourquoi le jeu est appelé Grea Bua suacha à Sankt Martin im Mühlkreis.*
 
 ## Grea Bua
 
-### Players and Cards
+### Joueurs et cartes
 
-From three to six people may play. The usual game, described here, is for four players. A 36-card Tell packis used, the cards of each suit ranking from high to low A, K, O, U, 10, 9, 8, 7, 6.The leaf suit is usually called *Pik* (spades) by local players. 
+De trois à six personnes peuvent jouer. Le jeu habituel, décrit ici, est pour quatre joueurs. On utilise un jeu Tell de 36 cartes, les cartes de chaque couleur se classant de haut en bas A, R, O, U, 10, 9, 8, 7, 6. La couleur de feuilles est généralement appelée *Pik* (pique) par les joueurs locaux.
 
-The first dealer is chosen by any convenient random method. The dealer shuffles and the player to dealer's right cuts. All the cards are then dealt out, so that each player has a hand of 9 cards. 
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Le donneur bat et le joueur à la droite du donneur coupe. Toutes les cartes sont alors distribuées, de sorte que chaque joueur reçoit une main de 9 cartes.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-### Objectives and Auction
+### Objectifs et enchères
 
-In a normal game the aims are to avoid winning the trick containing the *Grea Bua* (Ober of Leaves) and to avoid winning the last trick. 
+Dans un jeu normal, les buts sont d'éviter de remporter la levée contenant le *Grea Bua* (Ober de feuilles) et d'éviter de remporter la dernière levée.
 
-Before play, players may bid one of the two special contracts to be played instead of a normal game. The special contracts are: 
+Avant le jeu, les joueurs peuvent enchérir l'un des deux contrats spéciaux à jouer à la place d'un jeu normal. Les contrats spéciaux sont :
 
-- *Bettler*, in which the declarer must take no tricks, and players must head the trick if able.
+- *Bettler*, dans lequel le déclarant ne doit prendre aucune levée, et les joueurs doivent surmonter la levée s'ils le peuvent.
 
-- *Durch(gang)*, in which the declarer must take all tricks.
+- *Durch(gang)*, dans lequel le déclarant doit prendre toutes les levées.
 
-Formally, each player in turn, beginning with the player to the dealer's left may either pass (saying "weiter") or bid Bettler if no previous player has bid Bettler or Durch, or bid Durch if no previous player has bid Durch. In most cases all players pass. 
+Formellement, chaque joueur à son tour, en commençant par le joueur à la gauche du donneur, peut soit passer (en disant « weiter ») soit enchérir Bettler si aucun joueur précédent n'a enchéri Bettler ou Durch, soit enchérir Durch si aucun joueur précédent n'a enchéri Durch. Dans la plupart des cas, tous les joueurs passent.
 
-In practice the auction may be less formal. If anyone wants to play Bettler or Durch they just say so. Durch outranks Bettler, and if two players want to play the same special contract, the player nearer to dealer's left in clockwise order has precedence.
+En pratique, les enchères peuvent être moins formelles. Si quelqu'un veut jouer un Bettler ou un Durch, il le dit simplement. Durch surclasse Bettler, et si deux joueurs veulent jouer le même contrat spécial, le joueur le plus proche de la gauche du donneur dans le sens horaire a la priorité.
 
-### Play
+### Jeu
 
-In a **normal game** forehand, the player to dealer's left, leads any card **except a leaf** to the first trick. Players must always follow suit if they can. If unable to follow suit they may play any card. The trick is won by the highest card of the suit led - there are no trumps. The winner of each trick leads to the next and from the second trick onwards any card may be led. 
+Dans un **jeu normal**, l'avant-main, le joueur à la gauche du donneur, entame n'importe quelle carte **sauf une feuille** pour la première levée. Les joueurs doivent toujours suivre s'ils le peuvent. S'ils ne peuvent pas suivre, ils peuvent jouer n'importe quelle carte. La levée est remportée par la carte la plus haute de la couleur d'entame — il n'y a pas d'atout. Le gagnant de chaque levée entame la levée suivante, et à partir de la deuxième levée, n'importe quelle carte peut être entamée.
 
-Note that, unlike most versions of the Bavarian game, there is no requirement for the holder of the *Grea Bua* to discard it if unable to follow suit, nor to play it to a lead of the ace or king of leaves.
+Notez que, contrairement à la plupart des versions du jeu bavarois, il n'y a pas d'obligation pour le détenteur du *Grea Bua* de le défausser s'il ne peut pas suivre, ni de le jouer sur une entame de l'As ou du Roi de feuilles.
 
-***Buam suacha*** (“hunting/searching for the Boy”). From the second trick onwards, if the Grea Bua has not been played, the player who is due to lead may lead a card of the leaf suit **face down**. The remaining players also play a card face down, which must be a leaf if they have one. When everyone has played a card, the played cards are turned face up and the trick is taken by whoever played the highest leaf.
+***Buam suacha*** (« chasser/chercher le Garçon »). À partir de la deuxième levée, si le Grea Bua n'a pas été joué, le joueur qui doit entamer peut jouer une carte de la couleur de feuilles **face cachée**. Les autres joueurs jouent également une carte face cachée, qui doit être une feuille s'ils en ont une. Quand tout le monde a joué une carte, les cartes jouées sont retournées face visible et la levée est prise par celui qui a joué la feuille la plus haute.
 
-In a **Bettler** or **Durch** the bidder leads any card to the first trick. As usual players must follow suit and if unable to follow suit may discard any card. The winner of each trick leads to the next.
+Dans un **Bettler** ou **Durch**, l'enchérisseur entame n'importe quelle carte pour la première levée. Comme d'habitude, les joueurs doivent suivre et, s'ils ne peuvent pas suivre, peuvent défausser n'importe quelle carte. Le gagnant de chaque levée entame la levée suivante.
 
-In a **Bettler** only, players who can follow suit must also beat the highest card of the suit led that is in the trick if they can. 
+Dans un **Bettler** uniquement, les joueurs qui peuvent suivre doivent aussi surmonter la carte la plus haute de la couleur d'entame se trouvant dans la levée s'ils le peuvent.
 
-In **Bettler** and **Durch** the leaf suit and the *Grea Bua* have no special role. There is no restriction on leading a leaf to the first trick and no "*Buam sucha*" - all cards are played face up.
+Dans le **Bettler** et le **Durch**, la couleur de feuilles et le *Grea Bua* n'ont pas de rôle spécial. Il n'y a pas de restriction sur l'entame d'une feuille pour la première levée et pas de « *Buam sucha* » — toutes les cartes sont jouées face visible.
 
-### Scoring
+### Comptage
 
-In a **normal game**
+Dans un **jeu normal**
 
-- if the *Grea Bua* and the last trick are taken by different players they each lose **one stake** and the opponents receive 1 stake each. 
+- si le *Grea Bua* et la dernière levée sont pris par des joueurs différents, ils perdent chacun **une mise** et les adversaires reçoivent 1 mise chacun.
 
-- if one player takes both the the *Grea Bua* and the last trick, that player pays **one stake** to each opponent.
+- si un joueur prend à la fois le *Grea Bua* et la dernière levée, ce joueur paie **une mise** à chaque adversaire.
 
-For a successful **Bettler**, the bidder receives **four stakes** from each opponent. If the bidder takes a trick the play ends and the bidder pays four stakes to each opponent.
+Pour un **Bettler** réussi, l'enchérisseur reçoit **quatre mises** de chaque adversaire. Si l'enchérisseur prend une levée, le jeu s'arrête et l'enchérisseur paie quatre mises à chaque adversaire.
 
-For a successful **Durch**, the bidder receives **five stakes** from each opponent. If the bidder takes a trick the play ends and the bidder pays five stakes to each opponent.
+Pour un **Durch** réussi, l'enchérisseur reçoit **cinq mises** de chaque adversaire. Si l'enchérisseur rate une levée, le jeu s'arrête et l'enchérisseur paie cinq mises à chaque adversaire.
 
-## Grea Bua: Variations and Uncertainties
+## Grea Bua : variantes et incertitudes
 
-### Other number of players
+### Autre nombre de joueurs
 
-We do not have full details how Grea Bua is played with 3. 5 or 6 players, but so far as we know the rules are the same as for the 4-player game with the following adjustments.
+Nous n'avons pas de détails complets sur la façon dont le Grea Bua se joue à 3, 5 ou 6 joueurs, mais autant que nous sachions, les règles sont les mêmes que pour le jeu à 4 joueurs avec les ajustements suivants.
 
-If there are five players, a 6 of a suit other than leaves is removed from the pack. All the cards are dealt so that three players receive 12 cards each, five receive 7 cards each and six receive 6 cards each.
+S'il y a cinq joueurs, un 6 d'une couleur autre que les feuilles est retiré du jeu. Toutes les cartes sont distribuées de sorte que trois joueurs reçoivent 12 cartes chacun, cinq reçoivent 7 cartes chacun et six reçoivent 6 cartes chacun.
 
-When there are 3 players and the the Grea Bua last trick are taken by different players they each pay 1 to the third player, who thus recieves 2. Paul Eaton suggests that if one player takes both they have to pay 2 stakes to each opponent, losing 4 in all.
+Quand il y a 3 joueurs et que le Grea Bua et la dernière levée sont pris par des joueurs différents, ils paient chacun 1 au troisième joueur, qui reçoit ainsi 2. Paul Eaton suggère que si un joueur prend les deux, il doit payer 2 mises à chaque adversaire, perdant 4 au total.
 
-With 5 players maybe the Grea Bua costs 2 stakes and the last trick 1 if taken by different players, each of the opponents winning 1 stake. If the same player takes both they pay 1 stake to each opponent, losing 4 stakes in all.
+Avec 5 joueurs, le Grea Bua coûte peut-être 2 mises et la dernière levée 1 si pris par des joueurs différents, chaque adversaire gagnant 1 mise. Si le même joueur prend les deux, il paie 1 mise à chaque adversaire, perdant 4 mises au total.
 
-With 6 players probably the Grea Bua and the last trick should each cost 2 stakes if lost by different players, each opponent winning 1 stake. If the same player takes both they pay 1 stake to each opponent. losing 5 in all.
+Avec 6 joueurs, le Grea Bua et la dernière levée devraient probablement coûter chacun 2 mises si perdus par des joueurs différents, chaque adversaire gagnant 1 mise. Si le même joueur prend les deux, il paie 1 mise à chaque adversaire, perdant 5 au total.
 
-### Grea Bua without Bettel and Durch announcements
+### Grea Bua sans annonces Bettel et Durch
 
-In some places, for example in Sankt Peter am Wimberg as mentioned above, there is no possibility to bid Bettel or Durch. Every deal is played as a normal game with payments for taking the Grea Bua and the last trick.
+Dans certains endroits, par exemple à Sankt Peter am Wimberg comme mentionné ci-dessus, il n'y a pas de possibilité d'enchérir Bettel ou Durch. Chaque donne est jouée comme un jeu normal avec des paiements pour avoir pris le Grea Bua et la dernière levée.
 
-In Michael Wurm's app there is no possibility to bid Bettel or Durch, but there is the possibility to win by taking every trick without any announcement. For this 'silent slam' the player who wins all the tricks receives one stake from each opponent indtead of paying for the Grea Bua and the last trick.
+Dans l'application de Michael Wurm, il n'y a pas de possibilité d'enchérir Bettel ou Durch, mais il y a la possibilité de gagner en prenant chaque levée sans aucune annonce. Pour ce « chelem silencieux », le joueur qui gagne toutes les levées reçoit une mise de chaque adversaire au lieu de payer pour le Grea Bua et la dernière levée.
 
 ## Sources
 
-### Rules
+### Règles
 
-- Bayerische Rundfunk: “Grasobern – In der Oberpfalz beliebt” by Anton Rauch and Susanne Schwarz, dated 11 November 2012, at br.de. < [https://www.br.de/radio/bayern2/sendungen/zeit-fuer-bayern/grasoberln-100.html](https://www.br.de/radio/bayern2/sendungen/zeit-fuer-bayern/grasoberln-100.html) > Accessed 31 July 2026.
+- Bayerische Rundfunk : « Grasobern – In der Oberpfalz beliebt » par Anton Rauch et Susanne Schwarz, daté du 11 novembre 2012, sur br.de. <[https://www.br.de/radio/bayern2/sendungen/zeit-fuer-bayern/grasoberln-100.html](https://www.br.de/radio/bayern2/sendungen/zeit-fuer-bayern/grasoberln-100.html)> Consulté le 31 juillet 2026.
 
-- Lukas Gruber: *Grasoberln Kartenspiel Bayern* app at Google Play, updated 2026. < [https://play.google.com/store/apps/details?id=dev.gruaba.grasoberln](https://play.google.com/store/apps/details?id=dev.gruaba.grasoberln) > Accessed 31 July 2026.
+- Lukas Gruber : application *Grasoberln Kartenspiel Bayern* sur Google Play, mise à jour 2026. <[https://play.google.com/store/apps/details?id=dev.gruaba.grasoberln](https://play.google.com/store/apps/details?id=dev.gruaba.grasoberln)> Consulté le 31 juillet 2026.
 
-- Matthias Mala: *Die beste Kartenspiele*. Verlag. Munich, 1997. pp. 
+- Matthias Mala : *Die beste Kartenspiele*. Verlag. Munich, 1997. pp.
 
-- Erich Rohrmayer: *Lerne Böhmisch Watten & Grasobern. *Buch- und Kunstverlag Oberpfalz. Regenstauf, 2017. pp. 39-76.
+- Erich Rohrmayer : *Lerne Böhmisch Watten & Grasobern*. Buch- und Kunstverlag Oberpfalz. Regenstauf, 2017. pp. 39-76.
 
-- Dr. Karl Reiser: *Sagen, Gebräuche & Sprichwörter des Allgäus: Aus dem Munde des Volkes gesamelt. *Vol. 2. Jos. Kösel’s Verlag. Kempten, 1895. p. 341. Earliest known description.
+- Dr. Karl Reiser : *Sagen, Gebräuche & Sprichwörter des Allgäus: Aus dem Munde des Volkes gesamelt*. Vol. 2. Jos. Kösel's Verlag. Kempten, 1895. p. 341. Première description connue.
 
-- Wolfgang Sirch: *Vom Alten zum Zwanzger: Bayrische Kartenspiele für Kinder und Erwachsene – neu entdeckt*. Bayerische Trachtenverband. Traunstein, 2008. pp. 54-55.
+- Wolfgang Sirch : *Vom Alten zum Zwanzger: Bayrische Kartenspiele für Kinder und Erwachsene – neu entdeckt*. Bayerische Trachtenverband. Traunstein, 2008. pp. 54-55.
 
-- Wikipedia (German). *Grasobern* at de.wikipedia.org. < [https://de.wikipedia.org/wiki/Grasobern](https://de.wikipedia.org/wiki/Grasobern) > Accessed 31 July 2026.
+- Wikipedia (allemand). *Grasobern* sur de.wikipedia.org. <[https://de.wikipedia.org/wiki/Grasobern](https://de.wikipedia.org/wiki/Grasobern)> Consulté le 31 juillet 2026.
 
-- Michael Wurm: *Queen of Spades – Grasobern *app at Google Play. Updated 2026. < [https://play.google.com/store/apps/details?id=org.mwurm.cards&hl=en_GB](https://play.google.com/store/apps/details?id=org.mwurm.cards&hl=en_GB) > Accessed 31 July 2026.
+- Michael Wurm : application *Queen of Spades – Grasobern* sur Google Play. Mise à jour 2026. <[https://play.google.com/store/apps/details?id=org.mwurm.cards&hl=en_GB](https://play.google.com/store/apps/details?id=org.mwurm.cards&hl=en_GB)> Consulté le 31 juillet 2026.
 
-### Other Sources
+### Autres sources
 
-- Dr. Carl Müller: “C* M**s Unglück im Spiele” in *Gedichte: Aufsätze und Lieder im Geiste Marc Sturms*. Stuttgart. pp. 167-168. Earliest known record in any German state.
+- Dr. Carl Müller : « Unglück im Spiele » dans *Gedichte: Aufsätze und Lieder im Geiste Marc Sturms*. Stuttgart. pp. 167-168. Premier enregistrement connu dans un État allemand.
 
-- Math. Jelinek: “Aus Salzburg” in *Der Grenzbote. *Mar Zugschwerdt. Reichenhall, 1855. pp. 209-210. Earliest Austrian record. 
-
-Home Page > Classified Index > Trick Taking Games > Reverse Games > Grasobern / Grünobern
+- Math. Jelinek : « Aus Salzburg » dans *Der Grenzbote*. Mar Zugschwerdt. Reichenhall, 1855. pp. 209-210. Premier enregistrement autrichien.

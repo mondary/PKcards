@@ -2,91 +2,89 @@
 
 **Difficulté :** —
 **Type :** Point-trick, Plis
-**But :** A point-trick game for four players played with a 52-card Venetian deck on the island of Burano.
+**But :** Jeu de prises à quatre joueurs joué avec un jeu vénitien de 52 cartes sur l'île de Burano.
 
 ---
 
 ## Introduction
 
-Sancagna is a four-player point-trick game using a 52-card Venetian pack. It is played on the island of Burano in the north-east of the Venice lagoon, typically by fishermen. The cards have an unusual ranking order in which the highest trump is the King, and the highest card in the other three suits is the Four. The aim is to be the first team to collect 21 or more card points in the tricks they have won.
+La Sancagna est un jeu de prises à quatre joueurs utilisant un jeu vénitien de 52 cartes. Elle se joue sur l'île de Burano au nord-est de la lagune de Venise, typiquement par des pêcheurs. Les cartes ont un ordre de classement inhabituel où l'atout le plus fort est le Roi, et la carte la plus forte des trois autres couleurs est le Quatre. Le but est d'être la première équipe à collecter 21 points de carte ou plus dans les plis gagnés.
 
-This page is based on a description by Alberto Fiorin in a paper given at the IPCS Convention in 1997 - see sources.
+Cette page est basée sur une description d'Alberto Fiorin dans une communication présentée à la convention de l'IPCS en 1997 — voir sources.
 
-## Players and Cards
+## Joueurs et cartes
 
-Normally there are four players who form two teams of two, partners sitting opposite each other. The game is sometimes played by six players, and a two-player version also exists, though it is relatively uninteresting. The six-player and two-player versions are described in the variations section below.
+Normalement, il y a quatre joueurs qui forment deux équipes de deux, les partenaires se faisant face. Le jeu se joue parfois à six joueurs, et une version à deux joueurs existe également, bien qu'elle soit relativement peu intéressante. Les versions à six et deux joueurs sont décrites dans la section des variantes ci-dessous.
 
-The deal and play are anticlockwise, and the turn to deal passes to the right after each hand.
+La donne et le jeu se font dans le sens antihoraire, et le tour de donne passe à droite après chaque manche.
 
-This game is played with a 52-card pack of the Trevigiane pattern, also sometimes known as the Trevisane or Venete (Venetian) pattern. Cards of this pattern most often come as a 40-card pack, lacking 8's, 9's and 10's but 52-card packs are also available. The four suits are swords (*spade* or *strette*), batons (*bastoni*), cups (*coppe*) and coins (*denari*).
+Ce jeu se joue avec un jeu de 52 cartes du type Trévise, aussi parfois connu sous le nom de Trevisane ou Vénète (vénitien). Les cartes de ce type se présentent le plus souvent en jeu de 40 cartes, sans les 8, 9 et 10, mais des jeux de 52 cartes sont également disponibles. Les quatre couleurs sont épées (*spade* ou *strette*), bâtons (*bastoni*), coupes (*coppe*) et deniers (*denari*).
 
-The card ranking and point values are unusual, and are different in the trump suit from the other three suits, as shown in the following table.
+Le classement des cartes et les valeurs en points sont inhabituels, et différents dans la couleur d'atout par rapport aux trois autres couleurs, comme indiqué dans le tableau suivant.
 
-| Trumps | Other suits |
-| Card | Value | Card | Value |
-| King (bù or vecion) | 8 | Four (quattro) | 4 |
-| Jack (vecia) | 6 | Three (tre) | 3 |
-| Ten (comodin) | 5 | Two (due) | 2 |
-| Four (gnagnà) | 4 | Ace (asso) | 1 |
-| Three (tre) | 3 | King (re) | 1 |
-| Two (due) | 2 | Horse (cavallo) | 1 |
-| Ace (asso) | 1 | Jack (fante) | 1 |
-| Horse (cavallo) | 1 | Ten (dieci) | 1 |
-| Nine (nove) | 0 | Nine (nove) | 0 |
-| Eight (otto) | 0 | Eight (otto) | 0 |
-| Seven (sette) | 0 | Seven (sette) | 0 |
+| Atouts | Autres couleurs |
+| Carte | Valeur | Carte | Valeur |
+| Roi (bù ou vecion) | 8 | Quatre (quattro) | 4 |
+| Valet (vecia) | 6 | Trois (tre) | 3 |
+| Dix (comodin) | 5 | Deux (due) | 2 |
+| Quatre (gnagnà) | 4 | As (asso) | 1 |
+| Trois (tre) | 3 | Roi (re) | 1 |
+| Deux (due) | 2 | Cavalier (cavallo) | 1 |
+| As (asso) | 1 | Valet (fante) | 1 |
+| Cavalier (cavallo) | 1 | Dix (dieci) | 1 |
+| Neuf (nove) | 0 | Neuf (nove) | 0 |
+| Huit (otto) | 0 | Huit (otto) | 0 |
+| Sept (sette) | 0 | Sept (sette) | 0 |
 | Six (sei) | 0 | Six (sei) | 0 |
-| Five (cinque) | 0 | Five (cinque) | 0 |
+| Cinq (cinque) | 0 | Cinq (cinque) | 0 |
 
-So there are 30 card points in the trump suit and 14 in each other suit for a total of 72 in the deck. The worthless low cards of each suit, the 9, 8, 7, 6 and 5, are known as *scartine*.
+Il y a donc 30 points de carte dans la couleur d'atout et 14 dans chaque autre couleur, pour un total de 72 dans le jeu. Les cartes basses sans valeur de chaque couleur, le 9, 8, 7, 6 et 5, sont appelées *scartine*.
 
-A slate is used for keeping score.
+Une ardoise est utilisée pour tenir le score.
 
-## Deal
+## Donne
 
-The dealer deals out the cards in packets of three, going twice around the table so that each player has 6 cards. The next card is placed face up on the table and its suit is trumps. The remaining cards are stacked face down, but before doing this, by convention the dealer shows the bottom card of the deck - the card that '*bacia la tavola*' (kisses the table) - to all players, so that everyone knows that this card is out of play.
+Le donneur distribue les cartes par lots de trois, faisant deux fois le tour de la table pour que chaque joueur ait 6 cartes. La carte suivante est posée face en haut sur la table et sa couleur est l'atout. Les cartes restantes sont empilées face en bas, mais avant de le faire, par convention le donneur montre la carte du bas du jeu — la carte qui « *bacia la tavola* » (embrasse la table) — à tous les joueurs, pour que tout le monde sache que cette carte est hors jeu.
 
-## Play
+## Jeu
 
-The player to dealer's right leads any card to the first trick, and thereafter the winner of each trick leads any card to the next.
+Le joueur à la droite du donneur mène n'importe quelle carte au premier pli, et par la suite le gagnant de chaque pli mène n'importe quelle carte au suivant.
 
-Players who are able to follow suit must play either a card of the suit that was led or a trump. A player who has no card of the suit led may play any card. 
+Les joueurs qui peuvent suivre la couleur doivent jouer soit une carte de la couleur qui a été menée, soit un atout. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte.
 
-Therefore the only illegal play (apart from playing a card out of turn) is to play a non-trump of a different suit on a non-trump lead while holding a card of the suit that was led. The penalty for this is severe - the offending team loses 3 games plus 9 card points (the equivalent of the value of the whole deck since a game is 21 points). 
+Par conséquent, la seule action illégale (outre le jeu d'une carte hors tour) est de jouer un non-atout d'une couleur différente sur une couleur non-atout menée tout en tenant une carte de la couleur qui a été menée. La pénalité est sévère — l'équipe fautive perd 3 manches plus 9 points de carte (l'équivalent de la valeur de tout le jeu puisque une manche vaut 21 points).
 
-## Ending the Play and Scoring
+## Fin du jeu et comptage
 
-At the end of any trick, a member of the team who won the trick may claim to have won - i.e. that they have in their tricks (plus any points carried over from the previous game) at least the necessary 21 card points to win. As in other Italian games this is known as '*chiamarsi fuori*' (going out). This ends the play. The score is recorded and the new dealer shuffles the cards for the next game.
+À la fin de n'importe quel pli, un membre de l'équipe qui a gagné le pli peut revendiquer la victoire — c'est-à-dire qu'ils ont dans leurs plis (plus tous les points reportés de la manche précédente) au moins les 21 points de carte nécessaires pour gagner. Comme dans d'autres jeux italiens, cela est appelé « *chiamarsi fuori* » (sortir). Cela met fin au jeu. Le score est enregistré et le nouveau donneur bat les cartes pour la manche suivante.
 
-The points in the tricks of the team that claimed are counted and if the claim is correct a circle is drawn on the winning team's side of the slate to record the win. If they have more than 21 card points the excess is also recorded and counts towards the next game. For example if the winners had 28 points in their tricks they would win a game, scored as a circle, and they would have 7 card points towards the next game, needing only 14 more points to win it.
+Les points dans les plis de l'équipe qui a revendiqué sont comptés et si la revendication est correcte, un cercle est dessiné du côté de l'équipe gagnante sur l'ardoise pour enregistrer la victoire. S'ils ont plus de 21 points de carte, l'excédent est également enregistré et compte pour la manche suivante. Par exemple, si les gagnants avaient 28 points dans leurs plis, ils gagneraient une manche, enregistrée comme un cercle, et ils auraient 7 points de carte pour la manche suivante, n'ayant besoin que de 14 points supplémentaires pour la gagner.
 
-In most cases one team will reach 21 points and claim within the first six tricks. However, if after six tricks have been played no one has claimed, the same dealer picks up the undealt part of the pack and deals another six cards each in packets of three as before. The trump suit remains the same - no new card is turned up. There will now be just four unused cards on the table - the trump indicator, the known bottom card and two unknown cards. Play continues as before, the winner of the sixth trick leading to the seventh.
+Dans la plupart des cas, une équipe atteindra 21 points et revendiquera dans les six premiers plis. Cependant, si après six plis joués personne n'a revendiqué, le même donneur ramasse la partie non distribuée du jeu et distribue six autres cartes par lots de trois comme avant. La couleur d'atout reste la même — aucune nouvelle carte n'est retournée. Il n'y aura alors que quatre cartes inutilisées sur la table — l'indicateur d'atout, la carte du bas connue et deux cartes inconnues. Le jeu continue comme avant, le gagnant du sixième pli menant au septième.
 
-A team that claims correctly wins the game irrespective of the number of card points taken by their opponents. A team that has 21 points may choose not to claim but to continue playing to accumulate more points for the following game. If when they eventually claim they have 42 or more points they win two games at once (two circles), counting any excess over 42 towards the next game. It is theoretically possible even to win three games at once by this method. There is however the risk that their opponents may meanwhile reach 21 points, claim and win, even though the first team have more points.
+Une équipe qui revendique correctement gagne la manche quel que soit le nombre de points de carte pris par ses adversaires. Une équipe qui a 21 points peut choisir de ne pas revendiquer mais de continuer à jouer pour accumuler davantage de points pour la manche suivante. S'ils revendiquent alors avec 42 points ou plus, ils gagnent deux manches à la fois (deux cercles), en comptant tout excédent au-delà de 42 pour la manche suivante. Il est théoriquement possible même de gagner trois manches à la fois par cette méthode. Cependant, il y a le risque que leurs adversaires puissent entre-temps atteindre 21 points, revendiquer et gagner, même si la première équipe a plus de points.
 
-Alberto Fiorin's paper does not give details of what happens in case of an incorrect claim. By analogy with other games, presumably the opponents of the claiming team win the game, irrespective of the number of card points they have taken. Possibly they are also awarded the number of points by which the claiming team were short of 21 towards the next game. 
+La communication d'Alberto Fiorin ne donne pas de détails sur ce qui se passe en cas de revendication incorrecte. Par analogie avec d'autres jeux, vraisemblablement les adversaires de l'équipe revendicante gagnent la manche, quel que soit le nombre de points de carte qu'ils ont pris. Il est possible qu'on leur attribue également le nombre de points dont l'équipe revendicante était en dessous de 21 pour la manche suivante.
 
 ## Communication
 
-Players may communicate information about useful cards in their hands by visual signals. These signals should ideally be inconspicuous, and made while partner is paying attention and the opponents are not. The usual signals are:
+Les joueurs peuvent communiquer des informations sur des cartes utiles dans leur main par des signaux visuels. Ces signaux devraient idéalement être discrets, et être faits pendant que le partenaire est attentif et les adversaires ne le sont pas. Les signaux habituels sont :
 
-| King of trumps | puff your cheek(s) |
-| Jack of trumps | slight movement of shoulder |
-| Ten of trumps | twitch one eye |
-| Four of trumps | grind teeth |
+| Roi d'atout | gonflez la joue(s) |
+| Valet d'atout | léger mouvement d'épaule |
+| Dix d'atout | frémissement d'un œil |
+| Quatre d'atout | serrez les dents |
 
-As in most games where card signalling is allowed, it is usual for one member of each partnership to act as the captain, who receives signals from their partner and directs the play. The captain will generally be either the more experienced player or the player with the stronger hand. 
+Comme dans la plupart des jeux où le signal de cartes est autorisé, il est habituel qu'un membre de chaque partenariat agisse comme capitaine, qui reçoit les signaux de son partenaire et dirige le jeu. Le capitaine sera généralement soit le joueur le plus expérimenté, soit le joueur avec la main la plus forte.
 
-Alberto Fiorin mentions that the signals are sometimes varied, so that they are not too easy to detect. He does not explicitly mention whether conversation between partners is also allowed, but presumably it must be, if only to allow the captain to indicate which cards the partner should play.
+Alberto Fiorin mentionne que les signaux sont parfois variés, pour ne pas être trop faciles à détecter. Il ne mentionne pas explicitement si la conversation entre partenaires est également autorisée, mais vraisemblablement elle doit l'être, ne serait-ce que pour permettre au capitaine d'indiquer quelles cartes le partenaire devrait jouer.
 
-## Variations
+## Variantes
 
-The four-player game is the usual one. It is possible for six to play in two teams of three, each player sitting between two opponents. Four cards are dealt to each player, and then another four cards each if neither team has gone out by the end of the fourth trick.
+Le jeu à quatre joueurs est le plus courant. Il est possible de jouer à six en deux équipes de trois, chaque joueur étant assis entre deux adversaires. Quatre cartes sont distribuées à chaque joueur, puis quatre autres si aucune équipe n'est sortie à la fin du quatrième pli.
 
-The two-player game is said to be the least interesting. The deal is six cards each in packets of three (as in the four-player game), with up to three further deals from the same deck if neither player has gone out.
+Le jeu à deux joueurs est dit le moins intéressant. La donne est de six cartes par lots de trois (comme dans le jeu à quatre joueurs), avec jusqu'à trois donnes supplémentaires du même jeu si aucun joueur n'est sorti.
 
-## Information Sources
+## Sources d'information
 
-**Alberto Fiorin**. *Giochi di carte in via di estinzione nel Triveneto.* (From the conference proceedings of the International Playing Society Convention, 1997, Trieste, edited by Alberto Milano and Luca Rodda, pp 71-73.)
-
-Home Page > Classified Index > Trick Taking Games > Miscellaneous Point Trick Games > Sancagna
+**Alberto Fiorin**. *Giochi di carte in via di estinzione nel Triveneto.* (Actes de la convention de l'International Playing Card Society, 1997, Trieste, édités par Alberto Milano et Luca Rodda, pp 71-73.)

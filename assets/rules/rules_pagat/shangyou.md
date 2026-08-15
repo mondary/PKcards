@@ -3,172 +3,170 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** How to play the famous Chinese card game Zheng Shangyou (struggling upstream) in which players compete to get rid of their cards by beating combinations played by their opponents.
+**But :** Comment jouer au célèbre jeu de cartes chinois Zheng Shangyou (lutter en remontant le courant) dans lequel les joueurs rivalisent pour se débarrasser de leurs cartes en battant les combinaisons jouées par leurs adversaires.
 
 ---
 
-*This page is partly based on a contribution from Jonathan Norris.*
+*Cette page est en partie basée sur une contribution de Jonathan Norris.*
 
 ## Introduction
 
-**Zhēng Shàngyóu** is a Chinese card game whose name can be roughly translated as **Struggling Upstream**. For some Chinese people this name is reminiscent of the Cultural Revolution - it said to be a literary quotation referring to the perseverence of a fish swimming against the current in the early spring. Will Tomlinson has pointed out that this is the topic of the "Trilogy of a Fish" by the poet Shi Zhi (Guo Lusheng), born 1948. The game exists in several variations, and has various alternative names. According to Zhang Shutai, the most interesting version is the partnership game for six players, also known as **Sān jiā xĭ** (三家喜 - family of three) or **Huŏjiàn** (火箭 - rocket). For simplicity, however, the first version described here is the individual game. This is a skilful and light-hearted card game for four or more players, probably best with 5 or 6.
+**Zhēng Shàngyóu** est un jeu de cartes chinois dont le nom peut être grossièrement traduit par **Lutter en remontant le courant**. Pour certains Chinois, ce nom rappelle la Révolution culturelle — on dit qu'il s'agit d'une citation littéraire se référant à la persévérance d'un poisson nageant à contre-courant au début du printemps. Will Tomlinson a souligné que c'est le sujet de la « Trilogie d'un poisson » du poète Shi Zhi (Guo Lusheng), né en 1948. Le jeu existe en plusieurs variantes, et porte divers noms alternatifs. Selon Zhang Shutai, la version la plus intéressante est le jeu de partenariat pour six joueurs, aussi connu sous le nom de **Sān jiā xĭ** (三家喜 — famille de trois) ou **Huŏjiàn** (火箭 — fusée). Pour la simplicité, cependant, la première version décrite ici est le jeu individuel. C'est un jeu de cartes habile et léger pour quatre joueurs ou plus, probablement le mieux à 5 ou 6.
 
-In the form set out here Zheng Shangyou was brought to the UK by John McLeod, who learned it during a visit to China by some British Go players in 1979 from our interpreter Zhang Chuansheng. In Britain we gave it the name **Pits**, which is easier for us to pronounce, and refers to the predicament of the losing players, who find themselves in a pit from which it is hard to escape. 
+Sous la forme exposée ici, Zheng Shangyou a été apporté au Royaume-Uni par John McLeod, qui l'a appris lors d'une visite en Chine par des joueurs de Go britanniques en 1979 grâce à notre interprète Zhang Chuansheng. En Grande-Bretagne, nous lui avons donné le nom **Pits**, qui est plus facile pour nous à prononcer, et se réfère à la situation des joueurs perdants, qui se retrouvent dans un fosse dont il est difficile de s'échapper.
 
-It is closely related to several other games - the Japanese Dai Hin Min (or Dai Fugo), Vietnamese Tien Len, Chinese Big Two and the Western derivative President. I have classified this group as climbing games.
+Il est étroitement lié à plusieurs autres jeux — le japonais Dai Hin Min (ou Dai Fugo), le vietnamien Tien Len, le chinois Big Two et le dérivé occidental Président. J'ai classé ce groupe comme jeux d'escalade.
 
-## Equipment and Objective
+## Équipement et objectif
 
-Zheng Shangyou uses a 54-card pack consisting of the standard 52 cards as for bridge or poker, with the addition of two distinguishable jokers, referred to here as Red and Black. The object of each hand is to be the first to play out all one's cards and thereby gain 2 points, or second and gain 1, towards a rubber-winning total of (usually) 11. 
+Zheng Shangyou utilise un jeu de 54 cartes composé des 52 cartes standard comme pour le bridge ou le poker, avec l'ajout de deux jokers distincts, appelés ici Rouge et Noir. L'objectif de chaque donne est d'être le premier à jouer toutes ses cartes et thereby de gagner 2 points, ou deuxième et de gagner 1, vers un total gagnant de manche de (généralement) 11.
 
-## The Deal
+## La donne
 
-The initial dealer is chosen at random. The cards are dealt to the players singly, anticlockwise, **starting with the dealer**. Depending on the number of players, some may have more cards than others - this does not matter. 
+Le donneur initial est choisi au hasard. Les cartes sont distribuées aux joueurs une par une, dans le sens antihoraire, **en commençant par le donneur**. Selon le nombre de joueurs, certains peuvent avoir plus de cartes que d'autres — cela n'a pas d'importance.
 
-The Chinese method of dealing is as follows. The dealer shuffles the cards, places the cards face down in the centre of the table and helps herself to the top one, followed by the player to her right, and so on. The players take single cards in counter-clockwise rotation until the pack is exhausted. Western players may prefer to have the dealer distribute all the cards as in most Western card games - this will not affect the rest of the game.
+La méthode chinoise de distribution est la suivante. Le donneur mélange les cartes, place les cartes face en bas au centre de la table et prend la première pour lui, suivi du joueur à sa droite, et ainsi de suite. Les joueurs prennent des cartes simples en rotation dans le sens antihoraire jusqu'à épuisement du jeu. Les joueurs occidentaux peuvent préférer que le donneur distribue toutes les cartes comme dans la plupart des jeux de cartes occidentaux — cela n'affectera pas le reste du jeu.
 
-## The Play
+## Le jeu
 
-The dealer begins by leading any playable combination.
+Le donneur commence en menant n'importe quelle combinaison jouable.
 
-The opportunity to play proceeds anti-clockwise, and at each turn a player chooses to pass or to play. A player who has passed is **not** debarred from playing if the chance comes round again. After the lead, all plays must:
+L'opportunité de jouer se poursuit dans le sens antihoraire, et à chaque tour un joueur choisit de passer ou de jouer. Un joueur qui a passé **n'est pas** empêché de jouer si l'occasion se représente. Après l'entame, tous les jeux doivent :
 
-- contain the same number of cards as the lead
+- contenir le même nombre de cartes que l'entame
 
-- form the same type of pattern
+- former le même type de figure
 
-- be higher-ranking than the previous play
+- être de rang supérieur au jeu précédent
 
-Play continues until all but one of the players pass in turn, whereupon all the played cards are gathered up and put aside. Whoever played last (and therefore highest) starts again by leading any playable combination.
+Le jeu continue jusqu'à ce que tous les joueurs sauf un passent à leur tour, moment auquel toutes les cartes jouées sont ramassées et mises de côté. Celui qui a joué en dernier (et donc le plus fort) recommence en menant n'importe quelle combinaison jouable.
 
-By this means, the players will eventually run out of cards. The first player to do so wins the hand, the second comes second, and so on. The hand is played to the bitter end, until only one player has cards left, for reasons explained below.
+De cette façon, les joueurs finiront par se débarrasser de leurs cartes. Le premier joueur à le faire gagne la donne, le deuxième arrive deuxième, et ainsi de suite. La donne est jouée jusqu'au bout, jusqu'à ce qu'un seul joueur ait des cartes, pour les raisons expliquées ci-dessous.
 
-If the player due to lead has no cards, the turn to lead passes to the right.
+Si le joueur devant mener n'a pas de cartes, le tour de mener passe à droite.
 
-## Playable combinations
+## Combinaisons jouables
 
-There are four types of playable combination, as follows:
+Il y a quatre types de combinaisons jouables, comme suit :
 
-(i) **Single card**
-The rank from low to high is 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A, 2, black joker, red joker. Suit is irrelevant.
+(i) **Carte seule**
+Le rang de faible à fort est 3, 4, 5, 6, 7, 8, 9, 10, V, D, R, A, 2, joker noir, joker rouge. La couleur est sans importance.
 
-(ii) **Set** of 2 or more cards of the same rank
-These rank in the same way as single cards, suit being irrelevant. Twos or jokers can be used as wild cards to stand for any lower card. A set containing wild cards is beaten by an equal ranked 'pure' set. 
+(ii) **Ensemble** de 2 cartes ou plus de même rang
+Ils se classent de la même façon que les cartes seules, la couleur étant sans importance. Les deux ou les jokers peuvent être utilisés comme cartes jokers pour représenter n'importe quelle carte inférieure. Un ensemble contenant des jokers est battu par un ensemble « pur » de même rang.
 
-(iii) **Single sequence** of **three or more** cards of consecutive rank
-The rank from low to high is 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A. **Twos cannot be used in single sequences** - neither as wild cards, nor as natural cards in their own right. Jokers can be used as wild cards to stand for any card from three to ace. Any single suited sequence is better than any mixed suited sequence of the same length. 
-When comparing two mixed suited sequences, the one containing higher ranking cards is better. Between equal ranking mixed suited sequences a 'pure' sequence beats an 'impure' sequence containing one or more jokers. 
-In the same way a higher single suited sequence beats a lower one, and if the ranks are equal a 'pure' sequence beats an 'impure' one.
+(iii) **Suite simple** de **trois cartes ou plus** de rangs consécutifs
+Le rang de faible à fort est 3, 4, 5, 6, 7, 8, 9, 10, V, D, R, A. **Les deux ne peuvent pas être utilisés dans les suites simples** — ni comme jokers, ni comme cartes naturelles à part entière. Les jokers peuvent être utilisés comme jokers pour représenter n'importe quelle carte de trois à as. Toute suite d'une seule couleur est meilleure que n'importe quelle suite de couleur mixte de même longueur.
+Lors de la comparaison de deux suites de couleur mixte, celle contenant les cartes de rang le plus élevé est meilleure. Entre des suites de couleur mixte de même rang, une suite « pure » bat une suite « impure » contenant un ou plusieurs jokers.
+De la même façon, une suite simple de couleur plus élevée bat une suite de couleur inférieure, et si les rangs sont égaux, une suite « pure » bat une « impure ».
 
-(iv) **Multiple sequence** 
-This consists of equal numbers of cards (two or more) of each of three or more consecutive ranks (such as 9-9-10-10-J-J). The cards rank as for single sequences with 3 low and Ace high. Suit is irrelevant. Jokers can be used as wild cards to stand for any other card. Twos can also be used as wild cards, with the limitation that you cannot use twos to stand for all the cards of a particular rank - at least one card of each rank must be natural or a joker. A multiple sequence can only be beaten by a better multiple sequence containing the same number of ranks and the same number of cards of each rank. A multiple sequence containing higher ranks is better than a lower one, and if the ranks are equal, a 'natural' multiple sequence beats one with wild cards.
+(iv) **Suite multiple**
+Elle consiste en nombres égaux de cartes (deux ou plus) pour chacun de trois rangs consécutifs ou plus (comme 9-9-10-10-V-V). Les cartes se classent comme pour les suites simples avec 3 faible et As fort. La couleur est sans importance. Les jokers peuvent être utilisés comme jokers pour représenter n'importe quelle autre carte. Les deux peuvent aussi être utilisés comme jokers, avec la limitation que vous ne pouvez pas utiliser les deux pour représenter toutes les cartes d'un rang particulier — au moins une carte de chaque rang doit être naturelle ou un joker. Une suite multiple ne peut être battue que par une meilleure suite multiple contenant le même nombre de rangs et le même nombre de cartes pour chaque rang. Une suite multiple contenant des rangs plus élevés est meilleure qu'une plus faible, et si les rangs sont égaux, une suite multiple « naturelle » bat une suite avec des jokers.
 
-**Examples of sets**
+**Exemples d'ensembles**
 
-- **7-2-2** can be played as three sevens. This can be beaten by **7-7-7** (natural sevens), which can be beaten by **8-8-joker**.
+- **7-2-2** peut être joué comme trois sept. Cela peut être battu par **7-7-7** (sept naturels), qui peut être battu par **8-8-joker**.
 
-- **9-2-2**, **9-2-joker**, **9-9-2** and **9-9-joker** are all equal; none of them can be played to beat the others, as they all contain wild cards.
+- **9-2-2**, **9-2-joker**, **9-9-2** et **9-9-joker** sont tous égaux ; aucun ne peut être joué pour battre les autres, car ils contiennent tous des jokers.
 
-- **2-joker** can be played as a pair of twos; this is beaten by **2-2**, a natural pair of twos.
+- **2-joker** peut être joué comme une paire de deux ; ceci est battu par **2-2**, une paire naturelle de deux.
 
-**Examples of single sequences**
+**Exemples de suites simples**
 
-- Please note: **twos cannot be used in single sequences**. The following are **not** valid sequences: **2-3-4**, **Q-K-A-2**, **5-6-2-8**.
+- Notez : **les deux ne peuvent pas être utilisés dans les suites simples**. Les suivantes **ne sont pas** des suites valides : **2-3-4**, **D-R-A-2**, **5-6-2-8**.
 
-- Please note: **a sequence must contain at least three cards**. **6-7** is **not** a valid sequence.
+- Notez : **une suite doit contenir au moins trois cartes**. **6-7** **n'est pas** une suite valide.
 
-- **![[club]](../images/internat/club.gif)Q-![[club]](../images/internat/club.gif)K-![[diamond]](../images/internat/diamond.gif)A** is beaten by **![[spade]](../images/internat/spade.gif)3-![[spade]](../images/internat/spade.gif)4-![[spade]](../images/internat/spade.gif)5**, which can then only be beaten by a higher sequence in a single suit. 
+- **![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![carreau](../images/internat/diamond.gif)A** est battu par **![pique](../images/internat/spade.gif)3-![pique](../images/internat/spade.gif)4-![pique](../images/internat/spade.gif)5**, qui ne peut ensuite être battu que par une suite supérieure d'une seule couleur.
 
-- The presence of 'impurities' in the form of wild cards is only used as a deciding factor between otherwise equal-ranking plays, e.g. **![[heart]](../images/internat/heart.gif)6-Joker-![[heart]](../images/internat/heart.gif)8** beats **![[club]](../images/internat/club.gif)7-![[club]](../images/internat/club.gif)8-![[spade]](../images/internat/spade.gif)9**, because the Joker is deemed to represent the **![[heart]](../images/internat/heart.gif)7**. This Heart sequence would be beaten by **![[diamond]](../images/internat/diamond.gif)6-![[diamond]](../images/internat/diamond.gif)7-![[diamond]](../images/internat/diamond.gif)8** on account of purity, or by a higher single suited sequence, pure or impure. 
+- La présence d'« impuretés » sous forme de jokers n'est utilisée que comme facteur décisif entre des jeux de même rang, par ex. **![cœur](../images/internat/heart.gif)6-Joker-![cœur](../images/internat/heart.gif)8** bat **![trèfle](../images/internat/club.gif)7-![trèfle](../images/internat/club.gif)8-![pique](../images/internat/spade.gif)9**, car le Joker est considéré comme représentant le **![cœur](../images/internat/heart.gif)7**. Cette suite à Cœur serait battue par **![carreau](../images/internat/diamond.gif)6-![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)8** en raison de la pureté, ou par une suite simple supérieure d'une seule couleur, pure ou impure.
 
-**Examples of multiple sequences**
+**Exemples de suites multiples**
 
-- Multiple sequences must have at least three consecutive ranks. The following are **not** valid:
+- Les suites multiples doivent avoir au moins trois rangs consécutifs. Les suivantes **ne sont pas** valides :
 
-- **6-6-6-7-7-7** (only two ranks)
+- **6-6-6-7-7-7** (seulement deux rangs)
 
-- **5-5-7-7-8-8** (not consecutive)
+- **5-5-7-7-8-8** (non consécutifs)
 
-- **7-7-8-8-8-9-9** (each rank must have same number of cards)
+- **7-7-8-8-8-9-9** (chaque rang doit avoir le même nombre de cartes)
 
-- **7-7-2-2-9-9** (illegal to substitute twos for both eights)
+- **7-7-2-2-9-9** (interdit de substituer les deux pour les deux huits)
 
-- **5-5-6-2-7-joker** (impure) can be beaten by **5-5-6-6-7-7** (pure), which is beaten by 6-joker-7-2-8-8 (higher).
+- **5-5-6-2-7-joker** (impur) peut être battu par **5-5-6-6-7-7** (pur), qui est battu par 6-joker-7-2-8-8 (plus élevé).
 
-- **K-K-A-A-2-joker** is valid only if you regard the 2 and joker as substitutes for queens. Twos cannot be used as a natural rank in a multiple sequence. **Q-Q-K-K-A-A** is therefore higher.
+- **R-R-A-A-2-joker** n'est valide que si vous considérez le 2 et le joker comme substituts pour les Dames. Les deux ne peuvent pas être utilisés comme rang naturel dans une suite multiple. **D-D-R-R-A-A** est donc supérieur.
 
-- This is very unlikely to come up, but **10-10-10-J-J-J-Q-Q-Q-K-K-K** does **not** beat **4-4-4-4-5-5-5-5-6-6-6-6**, because although they are both 12 cards, they are different shapes of multiple sequence.
+- Ceci est très peu probable de se produire, mais **10-10-10-V-V-V-D-D-D-R-R-R** **ne bat pas** **4-4-4-4-5-5-5-5-6-6-6-6**, car bien qu'ils soient tous deux de 12 cartes, ce sont des formes différentes de suite multiple.
 
-## Scoring
+## Score
 
-- The first player to run out of cards gains 2 points. 
+- Le premier joueur à se débarrasser de ses cartes gagne 2 points.
 
-- The second player to be out of cards gains 1 point. 
+- Le deuxième joueur à se débarrasser de ses cartes gagne 1 point.
 
-- The third player to get rid of her cards can begin to shuffle the cards, as she will be the next dealer, and therefore start the play of the next hand. 
+- Le troisième joueur à se débarrasser de ses cartes peut commencer à mélanger les cartes, car il sera le prochain donneur, et donc commencer le jeu de la donne suivante.
 
-- The last and second to last players are penalised in the next hand by having to give up their best cards to the winners - see below. These are the *pit dwellers*.
+- Les deux derniers joueurs sont pénalisés dans la donne suivante en devant céder leurs meilleures cartes aux gagnants — voir ci-dessous. Ce sont les *habitants de la fosse*.
 
-If there are only four players, the player who was third is also second to last, so that player both deals next and has to give up a card.
+S'il n'y a que quatre joueurs, le joueur qui était troisième est aussi avant-dernier, donc ce joueur distribue le suivant et doit aussi céder une carte.
 
-If there are six players, the player who comes fourth gets no score and suffers no penalty.
+S'il y a six joueurs, le joueur qui arrive quatrième n'a aucun score et ne subit aucune pénalité.
 
-## Second and subsequent deals
+## Deuxième donne et suivantes
 
-Immediately the cards have been shuffled and distributed, the players who came last and next-to-last must each throw their highest-ranking card face-up on the table. If they have several equal highest cards they can choose which to throw. The player who came first takes whichever of these she prefers and adds it to her hand, leaving the other for the runner-up. These top two players then each discard face-up an unwanted card of their choice; the next-to-last player of the previous hand chooses one of these and adds it to her hand, leaving the other unwanted card to the lower pit-dweller who must add it to her hand. Play then begins as before, with the dealer making the first lead.
+Dès que les cartes ont été mélangées et distribuées, les joueurs qui sont arrivés dernier et avant-dernier doivent chacun jeter leur carte de rang le plus élevé face visible sur la table. S'ils ont plusieurs cartes de même rang le plus élevé, ils peuvent choisir laquelle jeter. Le joueur qui est arrivé premier prend celle de son choix et l'ajoute à sa main, laissant l'autre pour le deuxième. Ces deux premiers joueurs jettent ensuite chacun face visible une carte indésirable de leur choix ; le joueur avant-dernier de la donne précédente choisit l'une de celles-ci et l'ajoute à sa main, laissant l'autre carte indésirable pour le dernier habitant de la fosse qui doit l'ajouter à sa main. Le jeu commence alors comme avant, avec le donneur menant en premier.
 
-## Partnership Game
+## Jeu de partenariat
 
-With 4 or 6 players it is usual to play as two teams. The six player partnership game is said to be the most interesting version of Zheng Shangyou, and the following description of it is based on information from Zhang Shutai. In Beijing this six player game is also called **San jia xi** (三家喜) which means something like "happy family of three". In Chengdu, in Sijuan province it is called **Huojian** (火箭) which means rocket.
+Avec 4 ou 6 joueurs, il est habituel de jouer en deux équipes. Le jeu de partenariat à six joueurs est dit être la version la plus intéressante de Zheng Shangyou, et la description suivante est basée sur des informations de Zhang Shutai. À Pékin, ce jeu à six joueurs est aussi appelé **San jia xi** (三家喜) qui signifie quelque chose comme « heureuse famille de trois ». À Chengdu, dans la province du Sichuan, il est appelé **Huojian** (火箭) qui signifie fusée.
 
-There are two teams of three, each player sitting between two opponents. Before the cards are shuffled prior to the first deal a card is drawn from the pack and then replaced. Whoever draws this card in the first deal will start the first hand. 
+Il y a deux équipes de trois, chaque joueur assis entre deux adversaires. Avant que les cartes ne soient mélangées avant la première donne, une carte est tirée du jeu puis replacée. Celui qui tire cette carte lors de la première donne commencera la première donne.
 
-The rules of play are as usual, and the order in which the players run out of cards determines the scores for the teams. If the players who finish first and second are on opposite teams, the scores are as follows:
+Les règles de jeu sont habituelles, et l'ordre dans lequel les joueurs se débarrassent de leurs cartes détermine les scores des équipes. Si les joueurs qui terminent premier et deuxième sont dans des équipes opposées, les scores sont les suivants :
 
-- The team of the player who finishes first adds 3 points to its score.
+- L'équipe du joueur qui termine premier ajoute 3 points à son score.
 
-- The team of the player who finishes second adds 2 points to its score.
+- L'équipe du joueur qui termine deuxième ajoute 2 points à son score.
 
-- The team which does **not** contain the player who finished last adds 2 extra points to its score.
+- L'équipe qui **ne contient pas** le joueur qui a terminé dernier ajoute 2 points supplémentaires à son score.
 
-So for example if a team takes 2nd, 3rd and 5th place, they score 4 (2 for coming second and 2 for not coming last) and their opponents score 3 (for their first place).
+Ainsi par exemple si une équipe prend les 2e, 3e et 5e places, elle marque 4 (2 pour être arrivée deuxième et 2 pour ne pas être arrivée dernière) et ses adversaires marquent 3 (pour leur première place).
 
-If the first and second places are taken by members of the same team, the scoring is different, and depends on the position of the third member of that team:
+Si les première et deuxième places sont prises par des membres de la même équipe, le score est différent, et dépend de la position du troisième membre de cette équipe :
 
-- If the third team member takes third place, the team has all of the top three places and scores 10 points for this; the other team scores nothing.
+- Si le troisième membre de l'équipe prend la troisième place, l'équipe a les trois premières places et marque 10 points pour cela ; l'autre équipe ne marque rien.
 
-- If the third team member comes fourth or fifth, the team scores just 5 points for the top two places; the other team scores nothing. 
+- Si le troisième membre de l'équipe arrive quatrième ou cinquième, l'équipe marque seulement 5 points pour les deux premières places ; l'autre équipe ne marque rien.
 
-- If the third team member comes last, the team with first and second place scores 5 points and the other team scores 2 for not having last place.
+- Si le troisième membre de l'équipe arrive dernier, l'équipe aux première et deuxième places marque 5 points et l'autre équipe marque 2 pour ne pas avoir la dernière place.
 
-In the second and subsequent hands the fifth and sixth players from the previous hand must give up their highest cards to the first and second players (the first player has first choice), and these players give any unwanted card in exchange (fifth player has first choice). In fact if you are first or second and your partner is fifth, you might well choose to return a good card to help your partner. 
+Dans la deuxième donne et les suivantes, les cinquième et sixième joueurs de la donne précédente doivent céder leurs cartes les plus fortes aux premier et deuxième joueurs (le premier joueur a le premier choix), et ces joueurs donnent n'importe quelle carte indésirable en échange (le cinquième joueur a le premier choix). En fait, si vous êtes premier ou deuxième et que votre partenaire est cinquième, vous pourriez bien choisir de rendre une bonne carte pour aider votre partenaire.
 
-In the second and subsequent hands the play is started by the player who finished **fifth** in the previous hand.
+Dans la deuxième donne et les suivantes, le jeu est commencé par le joueur qui a terminé **cinquième** dans la donne précédente.
 
-The object of the game is to reach a score of 50 points or more, and the first team to do so are the winners. If both teams reach 50 on the same deal the team with the higher score wins. If it is a tie another hand is played.
+L'objectif du jeu est d'atteindre un score de 50 points ou plus, et la première équipe à le faire sont les gagnants. Si les deux équipes atteignent 50 lors de la même donne, l'équipe avec le score le plus élevé gagne. S'il y a match nul, une autre donne est jouée.
 
-### Four players with partnerships
+### Quatre joueurs avec partenariats
 
-Four people can also play a partnership game, with partners sitting opposite. The rules of play and scoring are exactly as in the individual game, but partners combine their scores. If you are first or second, and your partner is third, you may choose to throw away a high card - maybe a wild card - to help your partner, who gets first choice of the discards.
+Quatre personnes peuvent aussi jouer un jeu de partenariat, avec des partenaires assis en face. Les règles de jeu et de score sont exactement les mêmes que dans le jeu individuel, mais les partenaires combinent leurs scores. Si vous êtes premier ou deuxième, et que votre partenaire est troisième, vous pouvez choisir de jeter une carte forte — peut-être un joker — pour aider votre partenaire, qui a le premier choix des cartes jetées.
 
-## Variations
+## Variantes
 
-Some allow twos as valid **natural** cards in sequences, so for example **![[heart]](../images/internat/heart.gif)K-![[heart]](../images/internat/heart.gif)A-![[heart]](../images/internat/heart.gif)2** would be a valid single suited sequence, beating **![[spade]](../images/internat/spade.gif)Q-![[spade]](../images/internat/spade.gif)K-![[spade]](../images/internat/spade.gif)A**.
+Certains autorisent les deux comme cartes **naturelles** valides dans les suites, donc par exemple **![cœur](../images/internat/heart.gif)R-![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)2** serait une suite simple d'une seule couleur valide, battant **![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)R-![pique](../images/internat/spade.gif)A**.
 
-## Hints on play
+## Conseils de jeu
 
-The appeal of the game, particularly for pit-dwellers, is to discover how skilful play and some luck with the cards dealt can enable one to 'struggle upstream' and end up on top. One should try to keep plans flexible, and be ready to re-assess the hand according to the play of others. 
+L'attrait du jeu, particulièrement pour les habitants de la fosse, est de découvrir comment un jeu habile et un peu de chance avec les cartes distribuées permettent de « lutter en remontant le courant » et de finir en tête. On devrait essayer de garder ses plans flexibles, et être prêt à réévaluer sa main selon le jeu des autres.
 
-The most urgent priority is to get rid of your low cards. The only way you can ever play an isolated 3 is by leading it, so if you are fortunate enough to have the lead, take advantage of it to get rid of such a card. The same applies to low combinations, such as 3-4-5-6. If your hand contained 3-3-4-5-6, you might lead the 3-4-5-6 in the hope that no one else had a sequence of 4, and then follow up with your 3.
+La priorité la plus urgente est de se débarrasser de ses cartes basses. La seule façon de pouvoir jouer un 3 isolé est de le mener, donc si vous avez la chance d'avoir l'entame, profitez-en pour vous débarrasser d'une telle carte. Il en va de même pour les combinaisons basses, comme 3-4-5-6. Si votre main contenait 3-3-4-5-6, vous pourriez mener le 3-4-5-6 en espérant que personne d'autre n'ait une suite de 4, puis suivre avec votre 3.
 
-Do not lead high cards, unless you can see a safe way to get rid of all your cards by doing so. High cards are best used for gaining the lead. Use the lead to get rid of low cards. With 4-4-7-2-2 as your last five cards, lead the 4-4, take back the lead with the 2-2, and then play the 7. Do not lead 4-4-2-2 as a set of four fours; if someone has four sixes, you will probably left holding your 7 after everyone else has finished.
+Ne menez pas de cartes fortes, sauf si vous voyez un moyen sûr de vous débarrasser de toutes vos cartes en le faisant. Les cartes fortes sont mieux utilisées pour gagner l'entame. Utilisez l'entame pour vous débarrasser des cartes basses. Avec 4-4-7-2-2 comme vos cinq dernières cartes, menez le 4-4, reprenez l'entame avec le 2-2, puis jouez le 7. Ne menez pas 4-4-2-2 comme un ensemble de quatre quatre ; si quelqu'un a quatre six, vous vous retrouverez probablement avec votre 7 après que tout le monde a fini.
 
-If you have a group of cards like 3-4-5-5-6-7 it will often be best to play this as two sequences: 3-4-5 and 5-6-7, especially if one of them is single suited. If you had the lead you might lead the five card sequence 3-4-5-6-7 if you were fairly sure no one could beat it (or if you were desperate), and if no one else plays a 5 card sequence you could then go out by leading the 5. It will almost never be right to play the two fives as a pair. That would leave you with four low cards (3, 4, 6, 7) which can only be played singly.
+Si vous avez un groupe de cartes comme 3-4-5-5-6-7, il sera souvent préférable de les jouer comme deux suites : 3-4-5 et 5-6-7, surtout si l'une d'elles est d'une seule couleur. Si vous aviez l'entame, vous pourriez mener la suite de cinq cartes 3-4-5-6-7 si vous êtes assez sûr que personne ne peut la battre (ou si vous êtes désespéré), et si personne d'autre ne joue une suite de 5 cartes, vous pourriez ensuite sortir en menant le 5. Ce sera presque jamais le bon moment de jouer les deux cinq comme paire. Cela vous laisserait avec quatre cartes basses (3, 4, 6, 7) qui ne peuvent être jouées que seules.
 
-It is unwise to store up a rock-crushing 9-card sequence while repeatedly passing, if one has no 'entry' to the lead with a probable winner (e.g. Joker or Q-K-A sequence). Consider splitting it into shorter sequences - for example you might take the lead with the upper four cards and then play the lower five.
+Il est imprudent de conserver une suite de 9 cartes écrasante en passant à plusieurs reprises, si l'on n'a pas « d'entrée » pour l'entame avec un probable gagnant (par ex. Joker ou suite R-D-A). Envisagez de la diviser en suites plus courtes — par exemple vous pourriez prendre l'entame avec les quatre cartes supérieures puis jouer les cinq inférieures.
 
-Try to avoid being trapped with too few cards to follow a lead late in the hand (or conversely exploit this problem in someone else's hand!). Don't be surprised if derisive fingers are pointed when you're left with 3s at the end! 
+Essayez d'éviter d'être coincé avec trop peu de cartes pour suivre une entame en fin de donne (ou inversement, exploitez ce problème dans la main de quelqu'un d'autre !). Ne soyez pas surpris si des doigts moqueurs sont pointés quand vous êtes coincé avec des 3 à la fin !
 
-Some attention to what cards are out, particularly wild cards, will obviously help to ensure the success of one's winning strategy.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Zheng Shangyou
+Un peu d'attention aux cartes qui sont sorties, particulièrement les jokers, aidera évidemment à assurer le succès de sa stratégie gagnante.

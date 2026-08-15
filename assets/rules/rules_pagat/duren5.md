@@ -3,141 +3,72 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A version of Dureń Piątkowy incorporating features of Podkidnoy Durak, as played by Go Players in Warsaw in 1981.
+**But :** Une version de Dureń Piątkowy intégrant des éléments de Podkidnoy Durak, jouée par des joueurs de Go à Varsovie en 1981.
 
 ---
 
-## Warsaw Go Players' Version
+## Version des joueurs de Go de Varsovie
 
 ## Introduction
 
-I learned this game from a group of Go players in Warsaw in 1981. They called it **Dureń Piątkowy**, which seems to be a play on words with the literal meaning "Friday Fool". *Piątkowy* can also mean "of or pertaining to fives", Friday being the fifth day of the week, so the name could also mean something like "fool of five" since Dureń Piątkowy is played with five-card hands, unlike the better known game Dureń (equivalent to Russian Podkidnoy Durak) which uses with six-card hands. Several people have since told me that Dureń Piątkowy is normally just the Polish name for the game that in Russia is called Prostoy Durak. The version of Dureń Piątkowy described on this page is in fact a hybrid based on Prostoy Durak but with the throwing in rules from Podkidnoy Durak incorporated. Unusually it is played to find a winner or winners, unlike almost all other games of this family in which there is no winner but the last person holding cards at the end is the loser. I do not know how widespread this form of Dureń is - since 1981 I have not heard from any other groups who know this version of the game.
+J'ai appris ce jeu d'un groupe de joueurs de Go à Varsovie en 1981. Ils l'appelaient **Dureń Piątkowy**, qui semble être un jeu de mots dont le sens littéral est « l'Idiot du Vendredi ». *Piątkowy* peut aussi signifier « relatif aux cinq », vendredi étant le cinquième jour de la semaine, donc le nom pourrait aussi signifier quelque chose comme « idiot des cinq » puisque Dureń Piątkowy se joue avec des mains de cinq cartes, contrairement au jeu mieux connu Dureń (équivalent au Podkidnoy Durak russe) qui utilise des mains de six cartes. Plusieurs personnes m'ont depuis dit que Dureń Piątkowy est normalement simplement le nom polonais du jeu qu'en Russie on appelle Prostoy Durak. La version de Dureń Piątkowy décrite sur cette page est en fait un hybride basé sur Prostoy Durak mais avec les règles de jetées supplémentaires de Podkidnoy Durak. Exceptionnellement, il se joue pour trouver un ou plusieurs gagnants, contrairement à presque tous les autres jeux de cette famille où il n'y a pas de gagnant mais où la dernière personne ayant encore des cartes à la fin est le perdant. Je ne sais pas à quel point cette forme de Dureń est répandue — depuis 1981, je n'ai entendu parler d'aucun autre groupe connaissant cette version.
 
-## Cards and Players
+## Cartes et joueurs
 
-This game is for any number of players. I would say it is best
-for about 3 - 6. An ordinary 52 card pack is used. If there are
-a lot of players, two or more identical packs can be shuffled
-together. Cards rank as usual: A(high) K Q J T 9 8 7 6 5 4 3 2(low).
-The game is played clockwise.
+Ce jeu est pour un nombre quelconque de joueurs. Je dirais qu'il convient le mieux pour environ 3 à 6. On utilise un jeu standard de 52 cartes. S'il y a beaucoup de joueurs, deux jeux identiques ou plus peuvent être mélangés ensemble. Les cartes ont l'ordre habituel : A(haut) R D V 10 9 8 7 6 5 4 3 2(bas). Le jeu se déroule dans le sens horaire.
 
-## Objective
+## Objectif
 
-To get rid of all your cards.
+Se débarrasser de toutes vos cartes.
 
-## Deal and trumps
+## Donne et atouts
 
-The dealer deals 5 cards to each player, a batch of 3 cards each
-and then 2 cards each. The next card determines the trump suit
-and is placed face up on the table. The remaining undealt cards
-(stock) are placed face down, crosswise on top of the trump.
+Le donneur distribue 5 cartes à chaque joueur, un lot de 3 cartes chacun puis 2 cartes chacun. La carte suivante détermine la couleur d'atout et est placée face visible sur la table. Les cartes non distribuées restantes (pioche) sont placées face cachée, en croix sur l'atout.
 
-## The play
+## Le jeu
 
-The play consists of a series of *attacks*. During each
-attack, one player is the *principal attacker*. The player
-to the left of the principal attacker is the *defender*.
-The remaining players may also help attack the defender. For the
-first attack, the player to the left of the dealer is the principal
-attacker. After each attack, the turn to attack rotates clockwise,
-so that the previous defender becomes the new principal attacker.
+Le jeu consiste en une série d'*attaques*. Pendant chaque attaque, un joueur est l'*attaquant principal*. Le joueur à la gauche de l'attaquant principal est le *défenseur*. Les autres joueurs peuvent également aider à attaquer le défenseur. Pour la première attaque, le joueur à la gauche du donneur est l'attaquant principal. Après chaque attaque, le tour d'attaquer tourne dans le sens horaire, de sorte que le défenseur précédent devient le nouvel attaquant principal.
 
-Each attack consists of a number of *phases*. This works
-as follows:
+Chaque attaque consiste en un certain nombre de *phases*. Cela fonctionne comme suit :
 
-### First phase of an attack
+### Première phase d'une attaque
 
-The principal attacker leads a number of cards, by placing them
-face up on the table. The number of cards led must be at least
-one, and cannot be more than the number of cards held by the defender.
-Any single card may be led. If an even number of cards is led,
-they must all be pairs (examples of legal leads are: 4 4 7 7 or
-5 5 5 5 - which would count as two pairs of 5s). If an odd number
-of cards is led, they must consist of pairs plus an extra card
-(for example: 4 4 7 7 6, or 2 2 8, or 9 9 6 6 6 - counting one
-of the sixes as the extra card - would be legal).
+L'attaquant principal pose un certain nombre de cartes, en les plaçant face visibles sur la table. Le nombre de cartes posées doit être au moins une, et ne peut pas dépasser le nombre de cartes détenues par le défenseur. N'importe quelle carte unique peut être posée. Si un nombre pair de cartes est posé, elles doivent toutes former des paires (exemples de poses légales : 4 4 7 7 ou 5 5 5 5 — ce qui compterait comme deux paires de 5). Si un nombre impair de cartes est posé, elles doivent consister en des paires plus une carte supplémentaire (par exemple : 4 4 7 7 6, ou 2 2 8, ou 9 9 6 6 6 — en comptant un des six comme la carte supplémentaire — seraient légales).
 
-The defender may now try to beat the led cards. To beat each individual
-non-trump card requires a higher card of the same suit or a trump;
-if a trump was led it can only be beaten by a higher trump. The
-defender plays the appropriate cards face up on top of the cards
-they are beating.
+Le défenseur peut maintenant essayer de battre les cartes posées. Pour battre chaque carte non-atout individuelle, il faut une carte supérieure de la même couleur ou un atout ; si un atout a été posé, il ne peut être battu que par un atout supérieur. Le défenseur joue les cartes appropriées face visibles sur les cartes qu'il bat.
 
-If the defender can beat all the led cards in this way, the defender
-has won the first phase. If the defender still has one or more
-unplayed cards, the attack now proceeds to the second phase. If
-all the defender's cards were used in beating the led cards, the
-defender has successfully *beaten off* the attack. All
-the cards played by the attacker and the defender are set aside
-and play no further part in the game.
+Si le défenseur peut battre toutes les cartes posées de cette façon, il a gagné la première phase. S'il lui reste encore une ou plusieurs cartes non jouées, l'attaque passe à la deuxième phase. Si toutes les cartes du défenseur ont été utilisées pour battre les cartes posées, le défenseur a réussi à *repousser* l'attaque. Toutes les cartes jouées par l'attaquant et le défenseur sont mises de côté et ne jouent plus aucun rôle dans le jeu.
 
-If the defender cannot or does not wish to beat all the led cards,
-the attacker has won. The cards which were led are to be added
-to the defender's hand, but are temporarily kept face up on the
-table in front of the defender.
+Si le défenseur ne peut ou ne souhaite pas battre toutes les cartes posées, l'attaquant a gagné. Les cartes posées doivent être ajoutées à la main du défenseur, mais sont temporairement gardées face visibles sur la table devant le défenseur.
 
-### Second and subsequent phases of an attack
+### Deuxième et phases suivantes d'une attaque
 
-If the defender has won the previous phase, but is still holding
-cards, the attack enters a new phase. Starting
-with the principal attacker, followed by the player to the defender's
-left, and proceeding clockwise, each player (except the defender)
-may continue the attack by leading one or more cards. The
-restriction now is that each card led must be of the same *rank*
-as one of those used by the defender to beat the previous phase
-of the attack. The total number of cards led by the attackers
-during the phase must not be more than the number of cards remaining
-in the defender's hand.
+Si le défenseur a gagné la phase précédente mais a encore des cartes, l'attaque entre dans une nouvelle phase. En commençant par l'attaquant principal, suivi du joueur à la gauche du défenseur, puis dans le sens horaire, chaque joueur (sauf le défenseur) peut continuer l'attaque en posant une ou plusieurs cartes. La restriction est maintenant que chaque carte posée doit être de la même *valeur* qu'une de celles utilisées par le défenseur pour battre la phase précédente de l'attaque. Le nombre total de cartes posées par les attaquants pendant la phase ne doit pas dépasser le nombre de cartes restant dans la main du défenseur.
 
-If the attackers do not manage to lead any cards to this phase
-(for example because they do not hold any cards of the ranks the
-defender used in the previous phase), the defender has beaten
-off the attack, and all the cards played during the attack are
-discarded.
+Si les attaquants ne parviennent à poser aucune carte à cette phase (par exemple parce qu'ils n'ont pas de cartes des valeurs que le défenseur a utilisées dans la phase précédente), le défenseur a repoussé l'attaque, et toutes les cartes jouées pendant l'attaque sont écartées.
 
-Otherwise, when all the other players have had a chance to lead,
-the defender may now try to beat this phase of the attack, in
-a similar way to the first phase, beating each card led with a
-higher card of the same suit or a trump. If the defender beats
-all the cards led, the defender has won this phase. If the defender
-has now run out of cards the attack has been beaten off, and all
-the cards played in it are discarded. If the defender still has
-cards, the attack proceeds to the next phase.
+Sinon, lorsque tous les autres joueurs ont eu l'occasion de poser, le défenseur peut maintenant essayer de battre cette phase de l'attaque, de façon similaire à la première phase, en battant chaque carte posée avec une carte supérieure de la même couleur ou un atout. Si le défenseur bat toutes les cartes posées, il a gagné cette phase. S'il n'a plus de cartes, l'attaque a été repoussée et toutes les cartes jouées sont écartées. S'il a encore des cartes, l'attaque passe à la phase suivante.
 
-If the defender cannot or does not wish to beat all the cards
-led in this phase, the attacker has won. All the cards played
-by the defender in earlier phases of the attack are taken back
-and replaced in the defender's hand. Then all the cards led in
-all phases of the attack are placed face up in front of the defender.
+Si le défenseur ne peut ou ne souhaite pas battre toutes les cartes posées dans cette phase, l'attaquant a gagné. Toutes les cartes jouées par le défenseur lors des phases précédentes sont reprises et replacées dans sa main. Ensuite, toutes les cartes posées lors de toutes les phases de l'attaque sont placées face visibles devant le défenseur.
 
-### Replenishing hands from the stock
+### Reconstitution des mains depuis la pioche
 
-At the end of each attack, if the stock is not exhausted, all players with fewer than 5 cards remaining must draw sufficient cards from the stock to bring their hands up to five cards. The
-principal attacker draws first; then the defender; then the other players in rotation.
+À la fin de chaque attaque, si la pioche n'est pas épuisée, tous les joueurs ayant moins de 5 cartes restantes doivent piocher suffisamment de cartes pour ramener leur main à cinq cartes. L'attaquant principal pioche en premier, puis le défenseur, puis les autres joueurs à tour de rôle.
 
-The turned up trump card is the last card of the stock. Once this card has been drawn, no further replenishment is possible, and players continue with whatever number of cards they happen to
-have.
+La carte d'atout retournée est la dernière carte de la pioche. Une fois cette carte piochée, aucune reconstitution n'est plus possible, et les joueurs continuent avec le nombre de cartes qu'ils ont.
 
-### Beginning a new attack
+### Début d'une nouvelle attaque
 
-The previous defender becomes the new principal attacker. Cards
-lying in front of the attacker as a result of having lost the
-previous attack cannot be used as part of the lead in the first
-phase of the new attack. However, immediately after the lead to
-the first phase, these cards must be picked up and added to the
-principal attacker's hand. They may be led in the second and subsequent
-phases.
+Le défenseur précédent devient le nouvel attaquant principal. Les cartes posées devant l'attaquant suite à la perte de l'attaque précédente ne peuvent pas être utilisées comme partie de la pose lors de la première phase de la nouvelle attaque. Cependant, immédiatement après la pose de la première phase, ces cartes doivent être ramassées et ajoutées à la main de l'attaquant principal. Elles peuvent être posées lors de la deuxième phase et des phases suivantes.
 
-## Exchanging the turned up trump
+## Échange de la carte d'atout retournée
 
-If you hold the 2 of trumps, then at your turn to replenish you may swap the 2 of trumps for the turned up trump at the bottom of the stock, provided that:
+Si vous avez le 2 d'atout, alors à votre tour de reconstitution vous pouvez échanger le 2 d'atout contre la carte d'atout retournée au fond de la pioche, à condition que :
 
-- there is at least one other card remaining in the stock, besides the turned up trump, and
+- il reste au moins une autre carte dans la pioche, outre la carte d'atout retournée, et
 
-- you have successfully beaten off an attack at some time during the current deal.
+- vous ayez repoussé une attaque à un moment quelconque de la donne en cours.
 
-## Result of the game, and scoring
+## Résultat du jeu et marquage
 
-Play continues until at the end of an attack there is one or more players who have run out of cards and cannot replenish their hands because the stock is exhausted. Each player who still has cards left at the end pays one stake per card held, and this amount is given to the winner, or divided equally between the winners if there is more than one.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Durak > Dureń Piątkowy
+Le jeu continue jusqu'à ce qu'à la fin d'une attaque il y ait un ou plusieurs joueurs qui n'ont plus de cartes et ne peuvent reconstituer leur main parce que la pioche est épuisée. Chaque joueur qui a encore des cartes à la fin paie une mise par carte détenue, et ce montant est donné au gagnant, ou divisé également entre les gagnants s'il y en a plus d'un.

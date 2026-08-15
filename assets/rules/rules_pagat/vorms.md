@@ -2,179 +2,178 @@
 
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** A trick-taking card game of the Karnöffel family that is said to be the national card game of Greenland.
+**But :** Jeu de cartes de levées de la famille Karnöffel, considéré comme le jeu de cartes national du Groenland.
+**Autres noms :** Voormsi
 
 ---
 
-*This page is based on an article contributed by Anthony Smith.*
+*Cette page est basée sur un article contribué par Anthony Smith.*
 
 ## 1. Introduction
 
-**Vorms** or **Voormsi** is the national game of Greenland. It is said (10.d) to be much played on the coastal ferry. It is a trick-taking game for four players, with versions for three and for two. There are many local variations.
+**Vorms** ou **Voormsi** est le jeu national du Groenland. On dit qu'il est beaucoup joué sur le ferry côtier. C'est un jeu de levées à quatre joueurs, avec des versions à trois et à deux. Il existe de nombreuses variantes locales.
 
-A Danish-Greenlandic dictionary (recent, but before the implementation of the Greenlandic spelling-reform of 1973) equates both "brus" and "vorms" in Danish to "vôrmse" in Greenlandic. In (10.b) it is spelled "Wumps". The initial consonant is pronounced like an English "w" (10.b). The word "vôrmse" (spelled "voormsi" since 1973) is not of Greenlandic origin. Neither have I found any other reference to any Danish word "vorms".
+Un dictionnaire danois-groenlandais (récent, mais avant la réforme orthographique groenlandaise de 1973) assimile « brus » et « vorms » en danois au mot « vôrmse » en groenlandais. Dans (10.b) il s'écrit « Wumps ». La consonne initiale se prononce comme un « w » anglais (10.b). Le mot « vôrmse » (écrit « voormsi » depuis 1973) n'est pas d'origine groenlandaise. Je n'ai trouvé non plus aucune autre référence à un mot danois « vorms ».
 
-The game is reputed to be ancient. Some Greenlanders have speculated that it may date from the Whaling Period, the period between the late 15th century disappearance of the Norse Settlement and the early 18th century arrival of Danish missionaries, when the only contacts with Europeans were with pirates and whalers.
+Le jeu est réputé ancien. Certains Groenlandais ont émis l'hypothèse qu'il pourrait dater de la période baleinière, entre la disparition de la colonie nordique à la fin du XVe siècle et l'arrivée des missionnaires danois au début du XVIIIe siècle, lorsque les seuls contacts avec les Européens étaient avec les pirates et les baleiniers.
 
-## 2. The Objective
+## 2. L'objectif
 
-The objective in Vorms is to gain points by winning tricks and by either bringing certain high cards home or preventing the opponents from doing so.
+L'objectif à Vorms est de marquer des points en remportant des levées et en ramenant certaines cartes hautes à la maison ou en empêchant les adversaires de le faire.
 
-## 3. The Cards and their Ranking
+## 3. Les cartes et leur hiérarchie
 
-A 36-card pack is used, consisting of A, K, Q, J, 9, 8, 7, 6, 5 in each of the four suits, clubs, spades, hearts and diamonds, except that the King of Diamonds is nowadays replaced by the 3. But the cards do not rank in the standard order.
+On utilise un jeu de 36 cartes, composé de A, R, D, V, 9, 8, 7, 6, 5 dans chacune des quatre couleurs : trèfle, pique, cœur et carreau, à l'exception que le Roi de Carreau est de nos jours remplacé par le 3. Mais les cartes ne suivent pas l'ordre habituel.
 
-- The highest two cards, equal in rank, are the Jack of Clubs, called Toqutsit (Greenlandic for "your executioner", literally "he who kills (you)" ) or Toqu (Greenlandic for "death") and the King of Hearts, called Voormsi (not a native Greenlandic word). These are pronounced approximately as if spelled "dogutsit" and "woormsi" in English. If both of these cards are played to the same trick, the second to be played beats the first.
-- The third highest card is the Eight of Spades.
+- Les deux cartes les plus hautes, de même rang, sont le Valet de Trèfle, appelé Toqutsit (groenlandais pour « votre bourreau », littéralement « celui qui tue ») ou Toqu (groenlandais pour « la mort ») et le Roi de Cœur, appelé Voormsi (non un mot groenlandais autochtone). Ils se prononcent approximativement comme si on les écrivait « dogutsit » et « woormsi » en anglais. Si ces deux cartes sont jouées dans la même levée, la seconde bat la première.
+- La troisième carte la plus haute est le Huit de Pique.
 
-- Next after the **![spade](../images/internat/spade.gif)8** come, in descending order, the Nines, the Aces, the remaining Jacks, the Sixes, Fives, the remaining Eights, the Queens and the remaining Kings (lowest). Within each denomination the cards rank Club (high), Spade, Heart, Diamond (low).
+- Ensuite après le ![pique]8 viennent, dans l'ordre décroissant, les Neufs, les As, les Valets restants, les Six, les Cinq, les Huits restants, les Dames et les Rois restants (les plus bas). Dans chaque dénomination, les cartes se classent Trèfle (haut), Pique, Cœur, Carreau (bas).
 
-- The 3 of Diamonds is worthless if led and anything beats it, but is unbeatable when it is added to a trick. It beats even Sevens and Sevens headed by black kings.
-- The Sevens are worthless unless led (or played as second card when the 3 of Diamonds has been led), but can then be beaten only by a Seven in a higher suit, or by the **![diamond](../images/internat/diamond.gif)3**, or by the **King of Clubs**, which has the special power of beating all Sevens but is otherwise the second lowest card. Cards (other than **![diamond](../images/internat/diamond.gif)3**) played between the Seven and the King of Clubs do not prevent the King of Clubs heading the trick.
+- Le 3 de Carreau est sans valeur lorsqu'il est mené et n'importe quoi le bat, mais il est imbattable lorsqu'il est ajouté à une levée. Il bat même les Sept et les Sept menés par des Rois noirs.
+- Les Sept sont sans valeur sauf lorsqu'ils sont menés (ou joués en deuxième carte quand le 3 de Carreau a été mené), mais ils ne peuvent alors être battus que par un Sept d'une couleur supérieure, ou par le ![carreau]3, ou par le Roi de Trèfle, qui a le pouvoir spécial de battre tous les Sept mais qui est sinon la deuxième carte la plus basse. Les cartes jouées entre le Sept et le Roi de Trèfle (autre que le ![carreau]3) n'empêchent pas le Roi de Trèfle de remporter la levée.
 
-- If a Seven is led and has been beaten by the King of Clubs, then the King of Clubs can in turn be beaten by the King of Spades, provided that the **![spade](../images/internat/spade.gif)K** is played directly on the **![club](../images/internat/club.gif)K**, with no intervening plays. In other circumstances the **![spade](../images/internat/spade.gif)K** is the very lowest card; it has no direct power over Sevens and the **![club](../images/internat/club.gif)K** beats it.
+- Si un Sept est mené et a été battu par le Roi de Trèfle, alors le Roi de Trèfle peut à son tour être battu par le Roi de Pique, à condition que le ![pique]R soit joué directement sur le ![trèfle]R, sans carte intermédiaire. Dans les autres cas, le ![pique]R est la carte la plus basse ; il n'a aucun pouvoir direct sur les Sept et le ![trèfle]R le bat.
 
-## 4. The Players
+## 4. Les joueurs
 
-Normally four play, as partners sitting opposite one another, and nine tricks are played. Alternatively three can play, each on his or her own behalf, and twelve tricks are played. The two handed variant is described separately 
+Normalement quatre joueurs, en partenariats assis en face l'un de l'autre, et neuf levées sont jouées. Alternativement, trois peuvent jouer, chacun pour soi, et douze levées sont jouées. La variante à deux est décrite séparément.
 
-## 5. The Deal
+## 5. La donne
 
-The player cutting lowest deals 4 cards to each. {Variant - according to (10.b) all the cards are dealt out. This variation is unknown to my correspondent in (10.c), but was true in the former Polish variant in reference (13.i)}
+Le joueur qui coupe le plus bas donne 4 cartes à chacun. {Variante — selon (10.b), toutes les cartes sont distribuées. Cette variante est inconnue de mon correspondant en (10.c), mais était vraie dans l'ancienne variante polonaise de la référence (13.i).}
 
-## 6. The Play
+## 6. Le jeu
 
-The dealer's left neighbour leads first, and subsequently the winner of each trick leads to the next.
+Le voisin gauche du donneur mène en premier, et ensuite le gagnant de chaque levée mène la suivante.
 
-A lead may consist of a single card or of a pair or three or four of the same rank. The other players in turn play the same number of cards. There is no obligation to head the trick when able to, except that if an opponent's Voormsi is heading the trick a player holding Toqutsit must play it. A pair, triple or four can only be beaten by two, three or four cards, not necessarily of the same rank, which beat all those led, and counts as two, three or four tricks respectively. Sets of any rank, even Sevens or Kings, can be led.
+La première carte peut être une seule carte ou une paire, un brelan ou un carré de même rang. Les autres joueurs jouent à tour de rôle le même nombre de cartes. Il n'y a pas d'obligation de surpasser la carte menée, sauf que si le Voormsi d'un adversaire est en tête de la levée, un joueur détenant Toqutsit doit le jouer. Une paire, un brelan ou un carré ne peuvent être battus que par deux, trois ou quatre cartes, pas nécessairement de même rang, qui battent toutes celles menées, et comptent respectivement pour deux, trois ou quatre levées. Des ensembles de n'importe quel rang, même des Sept ou des Rois, peuvent être menés.
 
-After each trick the hands are replenished to four, so long as the stock lasts, the winner of the trick drawing first.
+Après chaque levée, les mains sont regarnies à quatre, tant que le talon dure, le gagnant de la levée piochant en premier.
 
-## 7. The Score
+## 7. Le score
 
-A line with cross-strokes is drawn. Each partnership has one arm of each cross-stroke. Points scored are recorded by erasing or otherwise ticking off strokes and the first side to erase all its strokes has won the rubber. Nine strokes are played in the four-player game and the two-player game, 12 in the three-hander. 
+Une ligne avec des traits transversaux est tracée. Chaque partenariat a un bras de chaque trait transversal. Les points marqués sont enregistrés en effaçant ou cochant les traits et le premier côté à effacer tous ses traits a gagné la manche. Neuf traits dans le jeu à quatre et à deux joueurs, 12 dans le jeu à trois.
 
-Points are scored for winning tricks, and sometimes the trick to which the Voormsi (![heart](../images/internat/heart.gif)K) is played brings extra points to the winners. 
+Des points sont marqués pour les levées remportées, et parfois la levée à laquelle le Voormsi (![cœur]R) est joué rapporte des points supplémentaires aux gagnants.
 
-### Scoring for tricks
+### Décompte pour les levées
 
-- Normally the team which takes five or more tricks scores one point for their first five tricks, and one for each additional trick.
+- Normalement, l'équipe qui remporte cinq levées ou plus marque un point pour ses cinq premières levées, et un pour chaque levée supplémentaire.
 
-- In the two- and four-player games, a team which wins the first five tricks scores an additional point for this.
+- Dans les jeux à deux et quatre joueurs, une équipe qui remporte les cinq premières levées marque un point supplémentaire pour cela.
 
-- However, if one team wins all nine tricks, the whole hand is nullified, and no one scores any points.
+- Cependant, si une équipe remporte les neuf levées, la main entière est annulée et personne ne marque de point.
 
-### Scoring for the Voormsi
+### Décompte pour le Voormsi
 
-- Voormsi may be played to any trick. A team which wins a trick with the Voormsi scores one point for this, **if** there was a possibility (from the point of view of the person who played the Voormsi) that it could have been beaten by the Toqutsit. The point for winning a trick with the Voormsi is therefore **not** scored:
+- Le Voormsi peut être joué à n'importe quelle levée. Une équipe qui remporte une levée avec le Voormsi marque un point pour cela, **si** il y avait une possibilité (du point de vue de la personne qui a joué le Voormsi) qu'il puisse être battu par le Toqutsit. Le point pour gagner une levée avec le Voormsi n'est donc **pas** marqué :
 
-- if the Voormsi is the last card played to the trick;
+- si le Voormsi est la dernière carte jouée dans la levée ;
 
-- if the Toqusit has already been played to a previous trick;
+- si le Toqutsit a déjà été joué dans une levée précédente ;
 
-- if the player of the Voormsi holds the Toqutsit as well.
+- si le joueur du Voormsi détient également le Toqutsit.
 
-A player who claims a point for winning a trick with the Voormsi must, if asked to do so, quickly show their cards to prove they do not hold the Toqutsit.
-- If the Voormsi was winning a trick but is beaten by an opponent's Toqutsit which then wins the trick, the team which played the Toqutsit scores two points. This score does not apply if the Voormsi was not winning the trick when the Toqutsit was played. For example if an opponent discards the Voormsi on a double trick, which you win with the Toqutsit and the **![diamond](../images/internat/diamond.gif)3**, you do not score the two point bonus.
+Un joueur qui réclame un point pour avoir gagné une levée avec le Voormsi doit, si on le lui demande, montrer rapidement ses cartes pour prouver qu'il ne détient pas le Toqutsit.
+- Si le Voormsi était en train de gagner la levée mais est battu par le Toqutsit d'un adversaire qui gagne alors la levée, l'équipe qui a joué le Toqutsit marque deux points. Ce score ne s'applique pas si le Voormsi ne gagnait pas la levée lorsque le Toqutsit a été joué. Par exemple, si un adversaire défausse le Voormsi sur une levée double que vous gagnez avec le Toqutsit et le ![carreau]3, vous ne marquez pas le bonus de deux points.
 
-- If the Voormsi was winning the trick but is beating by **partner's** Toqutsit (or by the same player's Toqutsit in the two-player game), the team that played the Voormsi and Toqutsit lose all their points and the game.
+- Si le Voormsi était en train de gagner la levée mais est battu par le Toqutsit de son **partenaire** (ou par le Toqutsit du même joueur dans le jeu à deux), l'équipe qui a joué le Voormsi et le Toqutsit perd tous ses points et la partie.
 
-- Beating the Voormsi when it was heading the trick with you 3 of Diamonds gains you **one** point, irrespective of whether the Voormsi was your partner's or an opponent's.
+- Battre le Voormsi lorsqu'il était en tête de la levée avec votre 3 de Carreau vous rapporte **un** point, indépendamment de savoir si le Voormsi était celui de votre partenaire ou d'un adversaire.
 
-- Using your **![diamond](../images/internat/diamond.gif)3** to beat a Toqutsit which has just beaten a winning Voormsi gains you 2 points, and the bonus for executing the Voormsi with Toqutsit is cancelled.
+- Utiliser votre ![carreau]3 pour battre un Toqutsit qui vient de battre un Voormsi gagnant vous rapporte 2 points, et le bonus pour avoir éliminé le Voormsi avec le Toqutsit est annulé.
 
-- Note that there is no bonus if the 3 of Diamonds beats Toqutsit unless theToqutsit has beaten the Voormsi.
+- Notez qu'il n'y a pas de bonus si le 3 de Carreau bat le Toqutsit sauf si le Toqutsit a battu le Voormsi.
 
-### The Endgame
+### La fin de partie
 
-- It is possible for play to end in the middle of a hand if one team has enough points to win. However, play cannot cease and no points can be scored during the hand until the scoring side **loses** a trick. For example if your team has 4 points and you win the first 8 tricks, you have not won yet. If you succeed in losing the ninth trick you can score your 5 points (1 for five tricks plus 1 for first five plus 3 for three tricks extra) and win the game; if you win the ninth trick the hand is annulled and your score remains at 5.
-- A team that scores too many points, taking their score beyond 9, goes bust and is set back from the target by the number of overshoot points. As explained above, points are scored at the moment when the scoring team loses a trick (or at the end of a hand). Thus it is possible to go forward and backward several times during a hand. For example, you start with 7 points, and win the first five tricks, winning one of the tricks with the Voormsi. The opponents win the sixth trick. At this moment you score 3 (five tricks plus first five plus Voormsi) taking your score up to 9 and back to 8. You then win the last three tricks. As you already had five tricks, each of these last three tricks is worth an extra point, so your score goes up to 9 and then bounces back to 7. 
+- Il est possible que le jeu s'arrête au milieu d'une main si une équipe a suffisamment de points pour gagner. Cependant, le jeu ne peut pas cesser et aucun point ne peut être marqué pendant la main tant que le côté qui compte ne **perd** pas une levée. Par exemple, si votre équipe a 4 points et que vous gagnez les 8 premières levées, vous n'avez pas encore gagné. Si vous réussissez à perdre la neuvième levée, vous pouvez marquer vos 5 points (1 pour cinq levées plus 1 pour les cinq premières plus 3 pour trois levées supplémentaires) et gagner la partie ; si vous gagnez la neuvième levée, la main est annulée et votre score reste à 5.
+- Une équipe qui marque trop de points, dépassant 9, déborde et est reculée de la cible du nombre de points en trop. Comme expliqué ci-dessus, les points sont marqués au moment où l'équipe qui compte perd une levée (ou à la fin d'une main). Il est donc possible d'avancer et de reculer plusieurs fois au cours d'une main. Par exemple, vous commencez avec 7 points, et gagnez les cinq premières levées, en gagnant l'une d'elles avec le Voormsi. Les adversaires gagnent la sixième levée. À ce moment, vous marquez 3 (cinq levées plus cinq premières plus Voormsi), portant votre score à 9 et le ramenant à 8. Vous gagnez ensuite les trois dernières levées. Comme vous aviez déjà cinq levées, chacune de ces trois dernières levées vaut un point supplémentaire, donc votre score monte à 9 puis rebondit à 7.
 
-## 8. The 3-Player Game
+## 8. Le jeu à 3 joueurs
 
-As there are now 12 tricks to be played, the scoring goes up to 12. The other details are as for the 4-hander.
+Comme il y a maintenant 12 levées à jouer, le score monte à 12. Les autres détails sont identiques au jeu à 4.
 
-## 9. The 2-Player Game
+## 9. Le jeu à 2 joueurs
 
-This is played to nine points, but differs from the 4-hander in that
+Il se joue à neuf points, mais diffère du jeu à 4 en ce que
 
-a) All my sources agree that only four cards each are dealt out initially and the hands are replenished during play.
+a) Toutes mes sources s'accordent à dire que seules quatre cartes sont distribuées au départ et les mains sont regarnies en cours de jeu.
 
-b) Each trick contains a multiple of four cards, because each player contributes twice to each trick. [Perhaps this represents each player's own play and that of an imaginary partner.] The leads can be a single card, a pair, a triple or all four of a kind, just as in the 4-player version. After both have played once the hands are replenished if possible, the person who is currently heading the trick drawing first and then playing third to the "trick". The best of all four cards (or combinations) wins the trick.
+b) Chaque levée contient un multiple de quatre cartes, car chaque joueur contribue deux fois à chaque levée. [Cela représente peut-être le propre jeu de chaque joueur et celui d'un partenaire imaginaire.] Les menées peuvent être une seule carte, une paire, un brelan ou un carré, comme dans la version à quatre. Après que les deux ont joué une fois, les mains sont regarnies si possible, la personne qui est actuellement en tête de la levée piochant en premier puis jouant en troisième dans la « levée ». Le meilleur de toutes les cartes (ou combinaisons) gagne la levée.
 
-## 10. Sources for Vorms
+## 10. Sources pour Vorms
 
-**a.** Correspondence in 1995 between myself and an Archivist at the Greenland National Museum. Unfortunately she is not herself a player.
+**a.** Correspondance en 1995 entre moi-même et une archiviste au Musée national du Groenland. Malheureusement, elle ne joue pas elle-même.
 
-**b.** Notes taken in 1989 by Matthew MacFadyen of a description obtained by a Swede from a Greenlandish player. Unfortunately Matthew did not witness a game.
+**b.** Notes prises en 1989 par Matthew MacFadyen d'une description obtenue par un Suédois auprès d'un joueur groenlandais. Malheureusement, Matthew n'a pas assisté à une partie.
 
-**c.** Correspondence in 1996/7 between myself and Lars Petersen of KN-RTV.
+**c.** Correspondance en 1996/7 entre moi-même et Lars Petersen de KN-RTV.
 
-**d.** Correspondence in 1995 between myself and Professor Petersen of Greenland University. Unfortunately he is not himself a player.
+**d.** Correspondance en 1995 entre moi-même et le professeur Petersen de l'Université du Groenland. Malheureusement, il ne joue pas lui-même.
 
-## 11. Some Greenlandic Vocabulary
+## 11. Quelques mots de vocabulaire groenlandais
 
-The Greenlandic language is closely related to Labrador Eskimo but has taken many of its card playing terms from Danish. Danish influence on the Greenlandic language began with 18th century missionaries. One word may be of Dutch origin, from Dutch whalers perhaps.
+La langue groenlandaise est étroitement apparentée à l'esquimau du Labrador mais a emprunté de nombreux termes de jeu de cartes au danois. L'influence danoise sur la langue groenlandaise a commencé avec les missionnaires du XVIIIe siècle. Un mot pourrait être d'origine néerlandaise, peut-être des baleiniers néerlandais.
 
-| essi | Ace |
-| kunngi | King |
-| arnaq (lady)atequtilik (skirt-wearer) | Queen |
-| kinitsiknaegti | Jack |
-| kulooq | Clubs |
-| sipaaq | Spades |
-| hjerteri | Hearts |
-| ruderi | Diamonds |
-| aalaterpai | (he) shuffles |
-| nallukattatinukkat | cards |
-| nallukattaq (ataaseq) | (one) card |
-| pinnattaaq (that which is newly got) | trick |
-| nerfala (that which is turned)tuluffi | trump |
-| tolufve, torufve (pre-1973 spellings) | trump (cf Dutch troef) |
+| essi | As |
+| kunngi | Roi |
+| arnaq (dame) atequtilik (porteur de jupe) | Dame |
+| kinitsiknaegti | Valet |
+| kulooq | Trèfle |
+| sipaaq | Pique |
+| hjerteri | Cœur |
+| ruderi | Carreau |
+| aalaterpai | il bat (les cartes) |
+| nallukattatinukkat | cartes |
+| nallukattaq (ataaseq) | (une) carte |
+| pinnattaaq (celle qui est nouvellement obtenue) | levée |
+| nerfala (celle qui est retournée) tuluffi | atout |
+| tolufve, torufve (orthographes d'avant 1973) | atout (cf. néerlandais troef) |
 
-Vocabulary sources:
-(i) The dictionaries *Oqaatsit*, 1990, ISBN 87-558-0520-5 and *Den Groenlands Ordbog*, 1926, by Schultz-Lorentzen.
-(ii) Correspondence in 1996/7 between myself and Lars Petersen of KN-RTV.
+Sources du vocabulaire :
+(i) Les dictionnaires *Oqaatsit*, 1990, ISBN 87-558-0520-5 et *Den Groenlands Ordbog*, 1926, par Schultz-Lorentzen.
+(ii) Correspondance en 1996/7 entre moi-même et Lars Petersen de KN-RTV.
 
-## 12. Related Games
+## 12. Jeux apparentés
 
-Related games are or have been played in several Baltic and Nordic countries:-
+Des jeux apparentés sont ou ont été joués dans plusieurs pays baltes et nordiques :-
 
-**Sweden:**
-A related game called Bräus is currently played on the Swedish island of Gothland.
-**Iceland:**
-Related games called Alkort and Treikort were played in Iceland until at least the late 19th century. They continue to be described in Icelandic game-books.
-**Denmark:**
-A related former Danish game, also called **Brus**, is clearly described in several manuals, 13(e)-(h). It continues to be described, and ascribed to Jutland, in both Danish and Finnish game-books.
-**Poland:**
-A former Polish game Drużbart is vaguely described in the two manuals (13.h) and (13.i).
-**The Estonian Isles:**
-Swedish-speakers had settled what are now the Estonian islands in the thirteenth century and their descendants remained there until 1944 when they fled from the approaching shoot-out between the forces of Hitler and Stalin. This community was described in (13.m).
-Nine card games are mentioned on page 115, one of which is Brus. Locations are given for the games, and for Brus the location is "Worms", the German name of the island spelled Vormsi on modern Estonian maps. The name of this island is extremely close to the name used in present-day Greenland for the game, but as I can suggest no mechanism by which the name of the Estonian island can become the name of a high card in the Greenlandic game I fear this is merely a beautiful coincidence.
-**Livonia:**
-The multi-volume dictionary "Ordbog over det Danske Sprog", ed. Dahlerup, traces the word brus to "Brusbart", "man with curly beard", and reference (13.k) says on page 34 that in the mid 18th century "Brusbart" was one of the three favourite games of the middle classes in Riga [who at that time were largely German-speakers] and cites an early 19th century poem "Die Oberpahlensche Freundschaft" (recte "Die Oberpahl'sche Freundschaft", by J J Malm) in which Brusbart is named as being played by both German speakers and Estonian speakers. On page 43 we are told the game survived into the beginning of the 19th century but was unfashionable by 1879. On page 44 the author says the game was undoubtedly of German rather than Russian origin. But an editor of Malm's poem comments that it is a Swedish game. No details of the mode of play are given.
-**Russia:**
-I have not myself seen reference (13.l), but I am told that "Bruzbard" is listed among the games of non-Russian origin played in Russia. An alternative Russian name "Dulya" is given, but no details of the mode of play.
+**Suède :**
+Un jeu apparenté appelé Bräus est actuellement joué sur l'île suédoise de Gotland.
+**Islande :**
+Des jeux apparentés appelés Alkort et Treikort étaient joués en Islande jusqu'au moins la fin du XIXe siècle. Ils continuent d'être décrits dans les livres de jeux islandais.
+**Danemark :**
+Un ancien jeu danois apparenté, également appelé **Brus**, est clairement décrit dans plusieurs manuels, 13(e)-(h). Il continue d'être décrit et attribué au Jutland, dans les livres de jeux danois et finlandais.
+**Pologne :**
+Un ancien jeu polonais Drużbart est vaguement décrit dans les deux manuels (13.h) et (13.i).
+**Les îles estoniennes :**
+Des suédois s'étaient installés sur ce qui sont maintenant les îles estoniennes au XIIIe siècle et leurs descendants y sont restés jusqu'en 1944, date à laquelle ils ont fui l'affrontement entre les forces de Hitler et de Stalin. Cette communauté est décrite dans (13.m).
+Neuf jeux de cartes sont mentionnés à la page 115, dont Brus. Des lieux sont donnés pour les jeux, et pour Brus le lieu est « Worms », le nom allemand de l'île orthographiée Vormsi sur les cartes estoniennes modernes. Le nom de cette île est extrêmement proche du nom utilisé actuellement au Groenland pour le jeu, mais comme je ne peux suggérer aucun mécanisme par lequel le nom de l'île estonienne pourrait devenir celui d'une carte haute dans le jeu groenlandais, je crains qu'il ne s'agisse d'une simple belle coïncidence.
+**Livonie :**
+Le dictionnaire en plusieurs volumes « Ordbog over det Danske Sprog », éd. Dahlerup, fait remonter le mot brus à « Brusbart », « l'homme à la barbe frisée », et la référence (13.k) indique à la page 34 qu'au milieu du XVIIIe siècle, « Brusbart » était l'un des trois jeux préférés des classes moyennes à Riga [qui à l'époque étaient majoritairement germanophones] et cite un poème du début du XIXe siècle « Die Oberpahlensche Freundschaft » (recte « Die Oberpahl'sche Freundschaft », par J J Malm) dans lequel Brusbart est cité comme joué tant par les germanophones que par les estophones. À la page 43, on nous dit que le jeu a survécu jusqu'au début du XIXe siècle mais était démodé en 1879. À la page 44, l'auteur dit que le jeu était sans aucun doute d'origine allemande plutôt que russe. Mais un éditeur du poème de Malm commente qu'il s'agit d'un jeu suédois. Aucun détail sur le mode de jeu n'est donné.
+**Russie :**
+Je n'ai pas vu moi-même la référence (13.l), mais on me dit que « Bruzbard » est listé parmi les jeux d'origine non russe joués en Russie. Un autre nom russe « Dulya » est donné, mais sans détail sur le mode de jeu.
 
-More distant relatives include the Faroese Stýrivolt in which the rearrangement of the ranking is confined to two "trump" suits and the modern Swiss Kaiserspiel and its ancestors in which it is confined to a single "trump" suit.
+Des parents plus éloignés incluent le Stýrivolt féroïen dans lequel le réarrangement de la hiérarchie est confiné à deux couleurs « d'atout » et le Kaiserspiel suisse moderne et ses ancêtres dans lequel il est confiné à une seule couleur « d'atout ».
 
-## 13. Sources for Related Games
+## 13. Sources pour les jeux apparentés
 
-**e.** "Spillebog for Boern", anonymous, 1853, Copenhagen, pp21-23.
+**e.** « Spillebog for Boern », anonyme, 1853, Copenhague, pp. 21-23.
 
-**f.** "Reglerne for 52 gamle Spil", 'Per David', pseudonym of Sv. Frederiksen, 1920, Copenhagen, pp19-24
+**f.** « Reglerne for 52 gamle Spil », « Per David », pseudonyme de Sv. Frederiksen, 1920, Copenhague, pp. 19-24.
 
-**g.** "Spillefuglen", ed. Herman Dedichen, 1952, Copenhagen, pp121-123 of 1995 edition.
+**g.** « Spillefuglen », éd. Herman Dedichen, 1952, Copenhague, pp. 121-123 de l'édition de 1995.
 
-**h.** "Korttipelit ja Pasianssit", ed. Ilmo Kurki-Suonio, 1973, Helsinki, pp19-20; p-89 of 1982 edition. This appears to be a straight translation of source (13.g) into Finnish.
+**h.** « Korttipelit ja Pasianssit », éd. Ilmo Kurki-Suonio, 1973, Helsinki, pp. 19-20 ; p. 89 de l'édition de 1982. Il s'agit apparemment d'une traduction directe de la source (13.g) en finnois.
 
-**i.** "Gry i zabawy różnych stanów w kraju całym lub w niektórych tylko prowincjach", Łukasz Gołęmbiowski, 1831, Warsaw, pp45-46 
+**i.** « Gry i zabawy różnych stanów w kraju całym lub w niektórych tylko prowincjach », Łukasz Gołęmbiowski, 1831, Varsovie, pp. 45-46.
 
-**j.** "Gry w Karty", 'Stary Gracz', pseudonym of Stanisław Kozietulski, 2nd, corrected, edition 1893, Warsaw, pp23-25
+**j.** « Gry w Karty », « Stary Gracz », pseudonyme de Stanisław Kozietulski, 2e édition corrigée, 1893, Varsovie, pp. 23-25.
 
-**k.** "Die Kartenspiele des estnischen Landvolkes in Livland", F. Amelung, pp33-48 of "Sitzungsberichte der gelehrte Estnischen Gesellschaft zu Dorpat", 1879, Dorpat [now Tartu, in Estonia]
+**k.** « Die Kartenspiele des estnischen Landvolkes in Livland », F. Amelung, pp. 33-48 de « Sitzungsberichte der gelehrte Estnischen Gesellschaft zu Dorpat », 1879, Dorpat [aujourd'hui Tartu, en Estonie].
 
-**l.** "Opisanie kartezhnykh igor s pokazaniem pravil, pomoshchiyu kotorykh vsyakoy sam soboyu i bes utichela vo vse v Rossii upotreblyaemyya kartezhnyya igry mozhet nautichiťsya igrať praviłno i ikusno", G Komov, 1779, St Petersburg
+**l.** « Opisanie kartezhnykh igor s pokazaniem pravil... », G. Komov, 1779, Saint-Pétersbourg.
 
-**m.** "Eibovolke, oder die Schweden an den Küsten Esthlands und auf Runö", C. Russwurm, 1855, Reval (now called Tallinn).
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Voormsi
+**m.** « Eibovolke, oder die Schweden an den Küsten Esthlands und auf Runö », C. Russwurm, 1855, Reval (aujourd'hui Tallinn).

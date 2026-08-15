@@ -2,78 +2,76 @@
 
 **Difficulté :** —
 **Type :** Point-trick, Plis
-**But :** In which the 7 of diamonds is the highest card.
+**But :** Jeu où le 7 de carreau est la carte la plus forte.
 
 ---
 
 ## Introduction
 
-This 17th century British card game for two players is known only from a description in Charles Cotton's Compleat Gamester (1676). It is a trick-taking game in which the scoring cards are Ace, King, Queen and Jack of trumps and also the Seven of diamonds, when it is a trump. Unusually, the trump suit changes with every trick. 
+Ce jeu de cartes britannique du XVIIe siècle pour deux joueurs n'est connu que par une description dans *The Compleat Gamester* de Charles Cotton (1676). C'est un jeu de prises où les cartes de marquage sont l'As, le Roi, la Dame et le Valet d'atout, ainsi que le Sept de carreau, lorsqu'il est atout. De façon inhabituelle, la couleur d'atout change à chaque pli.
 
-## Players, Cards and Equipment
+## Joueurs, cartes et matériel
 
-The game is for two players only.
+Le jeu est uniquement pour deux joueurs.
 
-A standard English 52-card pack is used. The cards of each suit rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2 except for diamonds in which the Seven is the highest card, known as the **Peneech**, ranking above the Ace. The picture cards King, Queen and Jack are known in this and other contemporary games as Face cards or "Coats", a term that later evolved to become "coat cards" or "court cards".
+On utilise un jeu anglais standard de 52 cartes. Les cartes de chaque couleur se classent du plus fort au plus faible A-R-D-V-10-9-8-7-6-5-4-3-2, à l'exception des carreaux où le Sept est la carte la plus forte, connu sous le nom de **Peneech**, se classant au-dessus de l'As. Les figures Roi, Dame et Valet sont connues dans ce jeu et d'autres jeux contemporains comme des « Face cards » ou « Coats », un terme qui a par la suite évolué pour devenir « coat cards » ou « court cards ».
 
-Points are scored throughout the game, so a convenient method for keeping a running total is needed. Since the target score to win the game is 61 points, a Cribbage board is suitable. These boards would have been readily available at inns where cards were played at that time - Cribbage is another of the games described by Cotton.
+Des points sont marqués tout au long du jeu, il faut donc un moyen pratique de tenir un total cumulé. Le score cible pour gagner la partie étant de 61 points, un tableau de Cribbage convient. Ces tableaux étaient facilement disponibles dans les auberges où l'on jouait aux cartes à l'époque — le Cribbage est un autre des jeux décrits par Cotton.
 
-The only cards that have a value are the top cards of the trump suit, which changes for each trick. The Ace of trumps is worth 5 points, the King 4, the Queen 3 and the Jack 2. If diamonds are trumps the ![♦](../images/internat/diamond.gif)7 is the top trump and scores 7 points. 
+Les seules cartes qui ont une valeur sont les cartes supérieures de la couleur d'atout, qui change pour chaque pli. L'As d'atout vaut 5 points, le Roi 4, la Dame 3 et le Valet 2. Si les carreaux sont l'atout, le ![carreau](../images/internat/diamond.gif)7 est le plus fort atout et rapporte 7 points.
 
-## Deal
+## Donne
 
-The players take turns to deal. The cards are shuffled and cut and seven cards are dealt to each player, one at a time. The remaining cards are stacked face down as a stock from which cards will be turned to set the trump suit.
+Les joueurs donnent à tour de rôle. Les cartes sont battues et coupées, et sept cartes sont distribuées à chaque joueur, une à la fois. Les cartes restantes sont empilées face en bas comme un talon à partir duquel on retournera des cartes pour déterminer la couleur d'atout.
 
-A player who is dealt no Ace and no Face card (King, Queen or Jack) may throw in their cards and demand a new deal by the same dealer.
+Un joueur qui n'a reçu ni As ni figure (Roi, Dame ou Valet) peut jeter ses cartes et demander une nouvelle donne par le même donneur.
 
-## Play
+## Jeu
 
-The dealer turns the top card of the stock face up, and its suit is trumps for the first trick. The non-dealer leads to the first trick.
+Le donneur retourne la carte supérieure du talon face en haut, et sa couleur est l'atout pour le premier pli. Le non-donneur mène au premier pli.
 
-Any card may be led to a trick, and the second player must follow suit if possible. If unable to follow suit the second player may play any card. If the two cards in the trick are the same suit, the higher card wins. If one is a trump the trump wins. If neither is a trump the player who led wins the trick. 
+N'importe quelle carte peut être menée à un pli, et le deuxième joueur doit suivre la couleur s'il le peut. S'il ne peut pas suivre, le deuxième joueur peut jouer n'importe quelle carte. Si les deux cartes du pli sont de la même couleur, la carte la plus forte l'emporte. Si l'une est un atout, l'atout l'emporte. Si aucune n'est un atout, le joueur qui a mené gagne le pli.
 
-If the trick contains any scoring trump (A, K, Q, J or ![♦](../images/internat/diamond.gif)7), the winner of the trick immedately scores its value (5, 4, 3, 2 or 7 respectively). Note that the ![♦](../images/internat/diamond.gif)7 scores nothing if diamonds are not trumps when it is played, but even if diamonds are not trumps the 7 still beats all other diamonds. The 7's of other suits have no special power or value.
+Si le pli contient un atout de marquage (A, R, D, V ou ![carreau](../images/internat/diamond.gif)7), le gagnant du pli marque immédiatement sa valeur (5, 4, 3, 2 ou 7 respectivement). Notez que le ![carreau](../images/internat/diamond.gif)7 ne rapporte rien si les carreaux ne sont pas l'atout lorsqu'il est joué, mais même si les carreaux ne sont pas l'atout, le 7 bat toujours tous les autres carreaux. Les 7 des autres couleurs n'ont aucun pouvoir ou valeur spéciaux.
 
-The winner of the trick turns up a card from the stock to set the trump suit for the next trick, and immediately scores its value if it is an Ace, King, Queen or Jack. If the turned trump is the Peneech (![♦](../images/internat/diamond.gif)7), the player who turned it up immediately scores 14 points (twice its value in a trick). Having set the new trump suit the winner of the previous trick leads to the next. 
+Le gagnant du pli retourne une carte du talon pour déterminer la couleur d'atout du pli suivant, et marque immédiatement sa valeur si c'est un As, un Roi, une Dame ou un Valet. Si l'atout retourné est le Peneech (![carreau](../images/internat/diamond.gif)7), le joueur qui l'a retourné marque immédiatement 14 points (deux fois sa valeur dans un pli). Ayant déterminé la nouvelle couleur d'atout, le gagnant du pli précédent mène au pli suivant.
 
-After all seven tricks have been played, the winner of the last trick turns up a card from the stock and scores for it if it is an A, K, Q, J or ![♦](../images/internat/diamond.gif)7 in the same way as above, even though there is no eighth trick in which its suit can serve as trumps..
+Après que les sept plis ont été joués, le gagnant du dernier pli retourne une carte du talon et marque pour elle si c'est un A, R, D, V ou ![carreau](../images/internat/diamond.gif)7 de la même manière que ci-dessus, même s'il n'y a pas de huitième pli où sa couleur pourrait servir d'atout.
 
-## Scoring
+## Comptage
 
-After all seven tricks have been played each player counts the number of cards in the tricks they have won (ignoring the values of the cards). In addition to the points already scored during the play, the player who won the majority of the tricks scores 1 point for each card in those tricks in excess of 7. In other words a player scores 1 point for winning 4 tricks, 3 points for 5 tricks, 5 points for 6 tricks or 7 points for 7 tricks.
+Après que les sept plis ont été joués, chaque joueur compte le nombre de cartes dans les plis qu'il a gagnés (en ignorant les valeurs des cartes). En plus des points déjà marqués pendant le jeu, le joueur qui a gagné la majorité des plis marque 1 point pour chaque carte dans ces plis au-delà de 7. En d'autres termes, un joueur marque 1 point pour 4 plis gagnés, 3 points pour 5 plis, 5 points pour 6 plis ou 7 points pour 7 plis.
 
-The first player whose score reaches 61 points or more wins the game. Thus the game can end either when a counting card is turned up, or when a trick containing a counting trump is won, or at the end of the game when the number of cards won is counted.
+Le premier joueur dont le score atteint 61 points ou plus gagne la partie. Ainsi, le jeu peut se terminer soit lorsqu'une carte de marquage est retournée, soit lorsqu'un pli contenant un atout de marquage est gagné, soit à la fin de la manche lorsque le nombre de cartes gagnées est compté.
 
-## Variants and Uncertainties
+## Variantes et incertitudes
 
-The description given by Cotton does not cover all details of the game. The gaps have been filled in above according to what seems to us most likely, but other interpretations are possible. For example David Parlett has published a [reconstruction of Peneech](https://www.parlettgames.uk/histocs/penneech.html) which differs from the one above in several details. Here is a list of the uncertain points.
+La description donnée par Cotton ne couvre pas tous les détails du jeu. Les lacunes ont été comblées ci-dessus selon ce qui nous semble le plus probable, mais d'autres interprétations sont possibles. Par exemple, David Parlett a publié une [reconstitution de Penneech](https://www.parlettgames.uk/histocs/penneech.html) qui diffère de celle ci-dessus sur plusieurs points. Voici une liste des points incertains.
 
-- Cotton says nothing about how the first dealer is selected. On the German edition of this page Ulf Martin follows Parlett's suggestion that the first dealer is chosen by each player drawing a card from the shuffled deck. Whoever draws the lower-ranking card deals first. For this purpose, Kings are highest and Aces lowest. If both draw cards of the same rank, they must draw again. According to Partlett this was the normal way to decide who would deal first in pre-20th century card games.
+- Cotton ne dit rien sur la façon dont le premier donneur est sélectionné. Sur l'édition allemande de cette page, Ulf Martin suit la suggestion de Parlett selon laquelle le premier donneur est choisi par chaque joueur tirant une carte du jeu battu. Celui qui tire la carte la plus faible donne en premier. À cette fin, les Rois sont les plus hauts et les As les plus bas. Si les deux tirent des cartes de même rang, ils doivent tirer à nouveau. Selon Parlett, c'était la façon habituelle de décider qui donnerait en premier dans les jeux de cartes d'avant le XXe siècle.
 
-- It is unclear whether the dealer should score for turning the card that determines the trump suit for the first trick, if it is a counting card. Cotton's description creates a slight impression that the opportunity to score for turning a counting card is a reward for winning a trick, in which case it is only the cards turned after each of the seven tricks, including the card turned after the last, that should score. But this is far from clear - it may well be that all eight turned cards should be eligible to score.
+- Il n'est pas clair si le donneur devrait marquer pour avoir retourné la carte qui détermine la couleur d'atout pour le premier pli, si c'est une carte de marquage. La description de Cotton donne une légère impression que l'opportunité de marquer pour avoir retourné une carte de marquage est une récompense pour avoir gagné un pli, auquel cas ce ne sont que les cartes retournées après chacun des sept plis, y compris la carte retournée après le dernier, qui devraient marquer. Mais cela est loin d'être clair — il se peut très bien que les huit cartes retournées puissent toutes être éligibles pour marquer.
 
-- Cotton does not say who leads to the first trick. We assume here that non-dealer should play the first card as in most other games. However this breaks the pattern whereby in all other tricks the player who turns up the trump plays first to the next trick. This may be another indication that the dealer does not in fact score for the first turned up trump if it is a counting card.
+- Cotton ne dit pas qui mène au premier pli. Nous supposons ici que le non-donneur devrait jouer la première carte comme dans la plupart des autres jeux. Cependant, cela brise le schéma selon lequel dans tous les autres plis, le joueur qui retourne l'atout joue en premier au pli suivant. Cela peut être une autre indication que le donneur ne marque pas en fait pour le premier atout retourné si c'est une carte de marquage.
 
-- Cotton does not explain what constraints, if any, the second player to a trick has to obey. There are at least three possibilities.
+- Cotton n'explique pas quelles contraintes, le cas échéant, le deuxième joueur d'un pli doit respecter. Il y a au moins trois possibilités.
 
-- As suggested above, the second player must play the same suit as the first player if possible. If not, the second player may play any card. With this rule, if the first player to a trick does not hold a scoring trump they will normally lead a non-trump to hinder the second player from scoring. In particular, it may be effective to lead a diamond when not trump to try to force the second player to win with the 7 while it is not a counting card.
+- Comme suggéré ci-dessus, le deuxième joueur doit jouer la même couleur que le premier joueur si possible. Sinon, le deuxième joueur peut jouer n'importe quelle carte. Avec cette règle, si le premier joueur d'un pli ne tient pas un atout de marquage, il mènera généralement un non-atout pour gêner le deuxième joueur dans son marquage. En particulier, il peut être efficace de mener un carreau quand ce n'est pas l'atout pour essayer de forcer le deuxième joueur à gagner avec le 7 alors qu'il n'est pas une carte de marquage.
 
-- If holding the suit played by the first player, the second player must either play the same suit or a trump. If not, the second player may play any card. This rule is found in two of the other games that Cotton describes: All Fours and Maw. In All Fours he gives it explicitly but in Maw he does not. In most other trick-taking card games in his book the requirement to follow suit seems to be the default. Allowing the second player to trump when able to follow suit makes it much easier to save scoring trumps. David Parlett suggests that this rule makes the best game, but that may be mainly because of his different valuation of the cards (see below).
+- S'il tient la couleur jouée par le premier joueur, le deuxième joueur doit soit jouer la même couleur, soit un atout. Sinon, le deuxième joueur peut jouer n'importe quelle carte. Cette règle se retrouve dans deux des autres jeux que Cotton décrit : All Fours et Maw. Dans All Fours, il la donne explicitement, mais dans Maw, il ne le fait pas. Dans la plupart des autres jeux de prises de son livre, l'obligation de suivre la couleur semble être la règle par défaut. Autoriser le deuxième joueur à jouer un atout alors qu'il peut suivre la couleur rend beaucoup plus facile de conserver les atouts de marquage. David Parlett suggère que cette règle donne le meilleur jeu, mais cela peut être principalement dû à sa valorisation différente des cartes (voir ci-dessous).
 
-- The second player is under no constraint and may play any card. This seems unlikely, but it might possibly be assumed that since Cotton mentions no constraint there is none.
+- Le deuxième joueur n'est soumis à aucune contrainte et peut jouer n'importe quelle carte. Cela semble peu probable, mais il se pourrait que puisque Cotton ne mentionne aucune contrainte, il n'y en a pas.
 
-- According to Parlett's preferred reconstruction, **all** the Aces and picture cards are counting cards even if they are not trumps (as in the counting of cards for the game point in All Fours). This interpretation seems unlikely, however, since Cotton adds the words "in Trumps" in every place where he writes about the scoring of "Aces and Coats". Also, even if Parlett's interpretation is correct the Seven of Diamonds remains an uncomfortable exception, since Cotton explicitly writes that "it is but seven in hand, and not that neither unless Diamonds be Trumps".
+- Selon la reconstitution préférée de Parlett, **tous** les As et les figures sont des cartes de marquage même s'ils ne sont pas atouts (comme dans le comptage des cartes pour le point de jeu au All Fours). Cette interprétation semble peu probable cependant, puisque Cotton ajoute les mots « en atout » à chaque endroit où il écrit sur le marquage des « As et Coats ». De plus, même si l'interprétation de Parlett est correcte, le Sept de Carreau reste une exception malaisée, puisque Cotton écrit explicitement que « ce n'est qu'un sept en main, et pas cela non plus à moins que les Carreaux ne soient Atouts ».
 
-- The mention of scoring cards "in hand" in the quotation above raises a further uncertainty. When a counting trump is played are the points for it scored by the winner of the trick or the player who held it "in hand" and played it to the trick? We have assumed the former. The question will only arise when a scoring trump is beaten by a higher trump. If the score is for holding the card and playing it to a trick while it is a trump, then Aces and Coats will always score for the player who holds them if they manage to play them when they are trumps.
+- La mention de cartes de marquage « en main » dans la citation ci-dessus soulève une incertitude supplémentaire. Lorsqu'un atout de marquage est joué, les points sont-ils marqués par le gagnant du pli ou par le joueur qui le tenait « en main » et l'a joué au pli ? Nous avons supposé le premier cas. La question ne se pose que lorsqu'un atout de marquage est battu par un atout supérieur. Si le score est pour la détention de la carte et son jeu dans un pli alors qu'elle est atout, alors les As et les Coats marqueront toujours pour le joueur qui les détient s'il parvient à les jouer lorsqu'ils sont atouts.
 
-- Parlett notes that Cotton always states that if a game is not played with a full pack of 52 cards. However, he suggests that "it might be worth trying" to play Peneech with a 32-card pack, from which all cards below the 7s are removed. In this case, the proportion of counting cards in the deck is higher, so it might make sense to increase the game target to, say, 91 (one and a half times around the Cribbage board) or more.
+- Parlett note que Cotton indique toujours qu'un jeu ne se joue pas avec un jeu complet de 52 cartes. Cependant, il suggère que « cela vaudrait la peine d'essayer » de jouer Penneech avec un jeu de 32 cartes, dont toutes les cartes inférieures au 7 ont été retirées. Dans ce cas, la proportion de cartes de marquage dans le jeu est plus élevée, il pourrait donc être judicieux d'augmenter l'objectif du jeu à, disons, 91 (un tour et demi sur le tableau de Cribbage) ou plus.
 
-## Sources and Other Descriptions
+## Sources et autres descriptions
 
-Cotton = Charles Cotton, *Compleat Gamester*. London 1674 ([Google Books](https://www.google.de/books/edition/The_Compleat_Gamester_Or_Instructions_ho/FupmAAAAcAAJ))
+Cotton = Charles Cotton, *Compleat Gamester*. Londres 1674 ([Google Books](https://www.google.de/books/edition/The_Compleat_Gamester_Or_Instructions_ho/FupmAAAAcAAJ))
 
-Parlett = David Parlett. [*Penneech*](https://www.parlettgames.uk/histocs/penneech.html), from his Historic Card Games collection (retrieved 21 Oct. 2022).
+Parlett = David Parlett. [*Penneech*](https://www.parlettgames.uk/histocs/penneech.html), de sa collection Historic Card Games (consulté le 21 oct. 2022).
 
-Willughby = Francis Willughby, manuscript 1665-70 in the Middleton Collection, Hallward Library, University of Nottingham. Published in: David Cram, Jeffrey L. Forgeng and Dorothy Johnston. *Francis Willughby's Book of Games*. Abingdon, Oxon 2003, Routledge.
-
-Home Page > Classified Index > Trick Taking Games > Miscellaneous Point Trick Games > Penneech
+Willughby = Francis Willughby, manuscrit 1665-70 dans la Middleton Collection, Hallward Library, Université de Nottingham. Publié dans : David Cram, Jeffrey L. Forgeng et Dorothy Johnston. *Francis Willughby's Book of Games*. Abingdon, Oxon 2003, Routledge.

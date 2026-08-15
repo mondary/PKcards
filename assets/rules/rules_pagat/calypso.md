@@ -2,12 +2,10 @@
 
 **Difficulté :** —
 **Type :** Point-trick, Plis
-**But :** A four-player trick-taking game in which each player has their own trump suit and the object is to win cards in tricks to build sequences in suit.
+**But :** Jeu de prises à quatre joueurs où chaque joueur possède sa propre couleur d'atout et où le but est de gagner des cartes en plis pour constituer des suites à couleur.
 
 ---
 
-This unusual four-player partnership game was invented by R W Willis of Trinidad and published in 1954. Although it has never become widely popular there are a number of devoted players, especially in New England (especially Western Massachussets) and also in Trinidad. It is a trick-taking game in four deals using four 52-card packs mixed together, one quarter of the cards being dealt out each time. Each player has a personal trump suit, and the main objective is to use cards won in tricks to collect complete 13-card sequences in one's own and one's partner's suit.
+Ce jeu de partenariat inhabituel pour quatre joueurs a été inventé par R. W. Willis de Trinité-et-Tobago et publié en 1954. Bien qu'il ne soit jamais devenu très populaire, il compte un certain nombre de joueurs fidèles, notamment en Nouvelle-Angleterre (surtout dans l'ouest du Massachusetts) et aussi à Trinité. C'est un jeu de prises en quatre donnes utilisant quatre jeux de 52 cartes mélangés ensemble, un quart des cartes étant distribué à chaque fois. Chaque joueur possède une couleur d'atout personnelle, et l'objectif principal est d'utiliser les cartes gagnées en plis pour réunir des suites complètes de 13 cartes dans la couleur de son partenaire et la sienne.
 
-Further information and detailed rules can be found on the [Calypso page of David Parlett's web site](https://www.parlettgames.uk/histocs/calypso.html).
-
-Home Page > Classified Index > Trick Taking Games > Miscellaneous Point Trick Games > Calypso
+Des informations complémentaires et des règles détaillées sont disponibles sur la [page Calypso du site de David Parlett](https://www.parlettgames.uk/histocs/calypso.html).

@@ -3,116 +3,116 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** A Chinese card game in which each player must beat the previous play or pass, and the aim is to collect Kings, Tens and Fives.
+**But :** Un jeu de cartes chinois dans lequel chaque joueur doit battre le jeu précédent ou passer, et le but est de collecter des Rois, des Dix et des Cinq.
 
 ---
 
-*This description is based on an [article by Axel Schmale](https://www.pagat.com/de/climbing/zhengfen.html) which appeared in Pöppel-Revue No. 89 (July/August 1985). He learned it in China during a railway journey.* 
+*Cette description est basée sur un [article d'Axel Schmale](https://www.pagat.com/de/climbing/zhengfen.html) paru dans Pöppel-Revue n° 89 (juillet/août 1985). Il l'a appris en Chine lors d'un voyage en train.*
 
 ## Introduction
 
-The name of the game means "competing for points". It is an interesting hybrid between a climbing game and a point-trick game of the king-ten-five group. The mechanics are like those of Zheng Shangyou or Big Two but the primary aim is to win points rather than necessarily to get rid of cards as quickly as possible. The point values of cards are the same as in the popular Chinese point-trick game Da Bai Fen (Hundred).
+Le nom du jeu signifie « compétition pour les points ». C'est un hybride intéressant entre un jeu d'escalade et un jeu de plis à points du groupe roi-dix-cinq. La mécanique est similaire à celle de Zheng Shangyou ou de Big Two, mais le but principal est de gagner des points plutôt que nécessairement de se débarrasser de ses cartes le plus vite possible. Les valeurs en points des cartes sont les mêmes que dans le jeu de plis à points chinois populaire Da Bai Fen (Cent).
 
-## Players, Cards and Object
+## Joueurs, cartes et objectif
 
-From three to six people can play.
+De trois à six personnes peuvent jouer.
 
-A 54 card pack is used, consisting of the standard 52 cards plus two distinguishable jokers, big and small. Generally the red or colourful joker is agreed to be the big one.
+Un jeu de 54 cartes est utilisé, composé des 52 cartes standard plus deux jokers distincts, grand et petit. Généralement, le joker rouge ou coloré est convenu comme étant le grand.
 
-The object is to win valuable cards in tricks. The fives are worth 5 points each, and the tens and kings are worth 10 points each. All the other cards are worthless. There are therefore 100 points in total to be won on each hand. A target score for the game is agreed - generally 500 or (for a longer game) 1000. The winner is the first player whose score reaches or exceeds the target.
+L'objectif est de gagner des cartes de valeur aux plis. Les cinq valent 5 points chacun, et les dix et les rois valent 10 points chacun. Toutes les autres cartes sont sans valeur. Il y a donc 100 points au total à gagner à chaque donne. Un score cible pour la partie est convenu — généralement 500 ou (pour une partie plus longue) 1000. Le gagnant est le premier joueur dont le score atteint ou dépasse le cible.
 
-## The Deal
+## La donne
 
-The deal and play are anticlockwise. For the first deal a randomly chosen player shuffles, that player's right-hand neighbour cuts. The Chinese method of dealing is that the players take their own cards. The pack is placed face-down and starting with the player who cut and proceeding anticlockwise, each player takes the top card without showing it. This continues until all the cards are distributed to the players. Some players may have one more card than others - this does not matter. Players can look at and sort their own cards as they pick them up.
+La donne et le jeu se font dans le sens antihoraire. Pour la première donne, un joueur choisi au hasard mélange, le voisin de droite de ce joueur coupe. La méthode chinoise de distribution est que les joueurs prennent eux-mêmes leurs cartes. Le jeu est placé face en bas et en commençant par le joueur qui a coupé et en procédant dans le sens antihoraire, chaque joueur prend la carte du dessus sans la montrer. Cela continue jusqu'à ce que toutes les cartes soient distribuées aux joueurs. Certains joueurs peuvent avoir une carte de plus que d'autres — cela n'a pas d'importance. Les joueurs peuvent regarder et trier leurs propres cartes au fur et à mesure qu'ils les ramassent.
 
-## The Play
+## Le jeu
 
-In the first deal, the player who holds the three of hearts leads to the first trick. The tricks in this game are not like those in most western trick-taking games, where the players contribute one card each and then the trick is over. Instead:
+Lors de la première donne, le joueur qui détient le trois de cœurs mène au premier pli. Les plis dans ce jeu ne sont pas comme ceux de la plupart des jeux de plis occidentaux, où les joueurs contribuent chacun une carte puis le pli est terminé. Au lieu de cela :
 
-- The player who leads to the trick may lead several cards at once; when more than one card is played together the cards must form a legal combination in one of the 10 categories described below.
+- Le joueur qui mène au pli peut mener plusieurs cartes à la fois ; quand plus d'une carte est jouée ensemble, les cartes doivent former une combinaison légale dans l'une des 10 catégories décrites ci-dessous.
 
-- Subsequent players (in anticlockwise rotation) may either play to the trick or pass. If they play, they must play a higher ranking combination of cards of the same category that was led, or one of the special combinations from category J. If they pass, they do not play any cards and the turn passes to the next player.
+- Les joueurs suivants (en rotation antihoraire) peuvent soit jouer au pli soit passer. S'ils jouent, ils doivent jouer une combinaison de rang supérieur de cartes de la même catégorie que celle menée, ou l'une des combinaisons spéciales de la catégorie J. S'ils passent, ils ne jouent aucune carte et le tour passe au joueur suivant.
 
-- The trick does not end when everyone has had a turn to play - it continues round the table for as many rounds as necessary until all players but one pass in succession.
+- Le pli ne se termine pas quand tout le monde a eu un tour de jouer — il continue autour de la table pour autant de tours que nécessaire jusqu'à ce que tous les joueurs sauf un passent consécutivement.
 
-- If you pass at your turn to play to a trick, this does not prevent you playing to that same trick if the turn comes round to you again.
+- Si vous passez à votre tour de jouer à un pli, cela ne vous empêche pas de jouer à ce même pli si le tour vous revient.
 
-The trick ends when all the players but one pass in succession. At this point the trick is won by the player who played the final and therefore highest combination. This player gathers in all the cards played to the trick and keeps them in a face-down pile. The winner of the trick leads to the next trick, and may lead a combination from any category. 
+Le pli se termine quand tous les joueurs sauf un passent consécutivement. À ce moment, le pli est gagné par le joueur qui a joué la combinaison finale et donc la plus forte. Ce joueur ramasse toutes les cartes jouées au pli et les conserve dans un tas face en bas. Le gagnant du pli mène au pli suivant, et peut mener une combinaison de n'importe quelle catégorie.
 
-## End of the Play, and Scoring
+## Fin du jeu et score
 
-Eventually the players will run out of cards in their hands. A player who has no cards takes no further part in the play, but play continues between the remaining players, until only one player has cards left. The players with no cards simply miss their turns. If a player with no cards is due to lead, having just won a trick by playing their last card(s), the lead passes to the next player to the right who has cards. When only one player has cards left, the trick in progress is completed - i.e. that last player is allowed to beat the combination played by the second last player left in if able to - and is gathered by the winner of the trick as normal. 
+Finalement, les joueurs se débarrasseront des cartes de leur main. Un joueur qui n'a plus de cartes ne prend plus part au jeu, mais le jeu continue entre les joueurs restants, jusqu'à ce qu'un seul joueur ait des cartes. Les joueurs sans cartes sautent simplement leur tour. Si un joueur sans cartes est censé mener, venant de gagner un pli en jouant sa ou ses dernières cartes, le tour de mener passe au joueur suivant à droite qui a des cartes. Quand il ne reste qu'un seul joueur avec des cartes, le pli en cours est terminé — c'est-à-dire que ce dernier joueur est autorisé à battre la combinaison jouée par l'avant-dernier joueur s'il le peut — et est ramassé par le gagnant du pli comme d'habitude.
 
-The player who runs out of cards **first** has an advantage in the scoring, and the **last** player who has cards left is at a disadvantage. Before the scoring, all the cards in the tricks taken by the last player, and all the cards remaining in the last player's hand at the end, must be given to the first player and added to that player's tricks.
+Le joueur qui se débarrasse de ses cartes **en premier** a un avantage au score, et le **dernier** joueur qui a encore des cartes est désavantagé. Avant le score, toutes les cartes dans les plis pris par le dernier joueur, et toutes les cartes restant dans la main du dernier joueur à la fin, doivent être données au premier joueur et ajoutées aux plis de ce joueur.
 
-Each player then counts the the total value of card in their tricks (10 for each king or ten, and 5 for each five) and adds it to their score. The player who came last will of course score nothing. There is a total of 100 points to be scored on each hand. If someone has reached or gone above the target figure the game ends and the player with the highest score wins.
+Chaque joueur compte alors la valeur totale des cartes dans ses plis (10 pour chaque roi ou dix, et 5 pour chaque cinq) et l'ajoute à son score. Le joueur arrivé dernier ne marquera bien sûr rien. Il y a un total de 100 points à marquer à chaque donne. Si quelqu'un a atteint ou dépassé le score cible, le jeu se termine et le joueur avec le score le plus élevé gagne.
 
-## Differences in the Second and Subsequent Deals
+## Différences dans la deuxième donne et les suivantes
 
-The player who came last in the previous hand shuffles. The player who came first takes the first card in the deal, and it continues anticlockwise. The player who came first in the previous hand also leads to the first trick (rather than the holder of the **3**).
+Le joueur arrivé dernier lors de la donne précédente mélange. Le joueur arrivé premier prend la première carte de la donne, et cela continue dans le sens antihoraire. Le joueur arrivé premier lors de la donne précédente mène aussi au premier pli (plutôt que le détenteur du **3**).
 
-## Playable Card Combinations
+## Combinaisons de cartes jouables
 
-The possible card combinations are given below. Note that a combination can only be beaten by a higher combination of the same category, or by a combination from the special category J. 
+Les combinaisons possibles sont données ci-dessous. Notez qu'une combinaison ne peut être battue que par une combinaison supérieure de la même catégorie, ou par une combinaison de la catégorie spéciale J.
 
-The general ranking of the cards, from low to high, is: 
+Le classement général des cartes, de faible à fort, est :
 
-**3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - J - Q - K - A - 2 - small joker - big joker**
+**3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - V - D - R - A - 2 - petit joker - grand joker**
 
-This ranking is used both to determine which cards beat which others, and which cards are in sequence.
+Ce classement est utilisé à la fois pour déterminer quelles cartes battent quelles autres, et quelles cartes sont en suite.
 
-**A: Single Card**
-Any single card. The ranking is as given above.
+**A : Carte seule**
+N'importe quelle carte seule. Le classement est comme indiqué ci-dessus.
 
-**B: Pair**
-A pair of cards of equal rank - such as two sixes or two queens. The ranking is the same as for single cards.
+**B : Paire**
+Une paire de cartes de même rang — comme deux six ou deux dames. Le classement est le même que pour les cartes seules.
 
-**C: Triple**
-Three cards of equal rank. The ranking is the same as for single cards.
+**C : Brelan**
+Trois cartes de même rang. Le classement est le même que pour les cartes seules.
 
-**D: Quartet**
-Four cards of equal rank. The ranking is the same as for single cards.
+**D : Carré**
+Quatre cartes de même rang. Le classement est le même que pour les cartes seules.
 
-E: Sequence of pairs
-Three or more pairs in unbroken sequence - such as **8-8-9-9-10-10-J-J**. Note that **2-2-3-3-4-4** would **not** be a legal play, as 2's and 3's are not adjacent (2's high and 3's low). On the other hand, **K-K-A-A-2-2** is legal. The rank of the highest pair determines the rank of the sequence. If the highest pairs are equal, a longer sequence beats a shorter one. So **5-5-6-6-7-7** beats **4-4-5-5-6-6**, but **4-4-5-5-6-6-7-7** beats **5-5-6-6-7-7**.
+**E : Suite de paires**
+Trois paires ou plus en suite non brisée — comme **8-8-9-9-10-10-V-V**. Notez que **2-2-3-3-4-4** ne serait **pas** un jeu légal, car les 2 et les 3 ne sont pas adjacents (2 fort et 3 faible). En revanche, **R-R-A-A-2-2** est légal. Le rang de la paire la plus forte détermine le rang de la suite. Si les paires les plus fortes sont égales, une suite plus longue bat une plus courte. Donc **5-5-6-6-7-7** bat **4-4-5-5-6-6**, mais **4-4-5-5-6-6-7-7** bat **5-5-6-6-7-7**.
 
-F: Sequence of triples
-Three or more triples in unbroken sequence, such as **7-7-7-8-8-8-9-9-9**. The rank is determined by the rank of the highest triple. G: Sequence of quartets
-Three or more quartets in unbroken sequence. The rank is determined by the rank of the highest quartet.
+**F : Suite de brelans**
+Trois brelans ou plus en suite non brisée, comme **7-7-7-8-8-8-9-9-9**. Le rang est déterminé par le rang du brelan le plus fort.
 
-H: Full House
-This is not quite like a full house in poker. It consists of three cards of the same rank plus two other cards, but the two cards do not necessarily have to be a pair. There are four legal types:
+**G : Suite de carrés**
+Trois carrés ou plus en suite non brisée. Le rang est déterminé par le rang du carré le plus fort.
 
-- triple + pair (e.g. **5-5-5-Q-Q**) 
+**H : Full**
+Ce n'est pas tout à fait comme un full au poker. Il consiste en trois cartes de même rang plus deux autres cartes, mais les deux cartes ne doivent pas nécessairement former une paire. Il y a quatre types légaux :
 
-- triple + two adjacent cards of the same suit (e.g. **7-7-7-![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)2**)
+- brelan + paire (ex. **5-5-5-D-D**)
 
-- triple + any three + any other single card (e.g. **5-5-5-3-10**) 
+- brelan + deux cartes adjacentes de même couleur (ex. **7-7-7-![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)2**)
 
-- triple + any two counting cards (i.e. fives, tens or kings) (e.g. **J-J-J-5-K**)
+- brelan + n'importe quel trois + n'importe quelle autre carte seule (ex. **5-5-5-3-10**)
 
-The rank of a full house is determined by the rank of the triple. If the triples of two full houses are of equal rank (which is possible using jokers as substitutes - see below), neither beats the other. The type of full house and the rank of the other two cards have no effect.
+- brelan + deux cartes comptant quelconques (c'est-à-dire cinq, dix ou rois) (ex. **V-V-V-5-R**)
 
-I: Suit Sequence
-Five or more cards of the same suit in unbroken sequence (e.g. **![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)2**). The rank is determined by the highest card in the sequence. If these are equal, the longer sequence beats the shorter. So **![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)J** can be beaten by **![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)Q**, which in turn can be beaten by **![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)Q**.
+Le rang d'un full est déterminé par le rang du brelan. Si les brelans de deux fulls sont de même rang (ce qui est possible en utilisant des jokers comme substituts — voir ci-dessous), aucun ne bat l'autre. Le type de full et le rang des deux autres cartes n'ont aucun effet.
 
-J: Special
-There are three special combinations. In ascending order they are:
+**I : Suite harmonieuse**
+Cinq cartes ou plus de même couleur en suite non brisée (ex. **![pique](../images/internat/spade.gif)V-![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)R-![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)2**). Le rang est déterminé par la carte la plus forte de la suite. Si celles-ci sont égales, la suite la plus longue bat la plus courte. Donc **![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)8-![carreau](../images/internat/diamond.gif)9-![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)V** peut être battu par **![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)V-![cœur](../images/internat/heart.gif)D**, qui à son tour peut être battu par **![trèfle](../images/internat/club.gif)7-![trèfle](../images/internat/club.gif)8-![trèfle](../images/internat/club.gif)9-![trèfle](../images/internat/club.gif)10-![trèfle](../images/internat/club.gif)V-![trèfle](../images/internat/club.gif)D**.
 
-- five, ten and king of mixed suits
+**J : Spécial**
+Il y a trois combinaisons spéciales. Dans l'ordre croissant :
 
-- five, ten and king, all in the same suit
+- cinq, dix et roi de couleurs mélangées
 
-- four twos
+- cinq, dix et roi, tous de la même couleur
 
-These beat any combination in categories **A** to **I**.
+- quatre deux
 
-In categories **B** to **I**, jokers are wild - that is a joker can be used as a substitute to represent any card needed to make the combination (or two jokers can be used to represent two such cards). In category **A** (single cards) jokers are themselves - the highest two cards in the ranking. In category **J** (special) jokers cannot be used as substitutes - the cards must be real. 
+Celles-ci battent n'importe quelle combinaison des catégories **A** à **I**.
 
-Note that there is no suit ranking, and that certain cards and combinations are therefore equal in rank. To play to a trick, it is necessary to play **higher** than the previous combination. Therefore between two equal combinations, whichever is played first to a trick prevents the other one from being played to the same trick. 
+Dans les catégories **B** à **I**, les jokers sont des jokers — c'est-à-dire qu'un joker peut être utilisé comme substitut pour représenter n'importe quelle carte nécessaire pour faire la combinaison (ou deux jokers peuvent être utilisés pour représenter deux telles cartes). Dans la catégorie **A** (cartes seules) les jokers sont eux-mêmes — les deux cartes les plus fortes du classement. Dans la catégorie **J** (spécial) les jokers ne peuvent pas être utilisés comme substituts — les cartes doivent être réelles.
 
-When a joker is used as a substitute it has exactly the same rank as the card it represents. So for example the triple **8-8-8** has exactly the same rank as **8-joker-joker**. Neither can be played to beat the other. The same is true of full houses: for example **9-joker-joker-3-6** is equal in rank to **9-9-9-A-A**. 
+Notez qu'il n'y a pas de classement des couleurs, et que certaines cartes et combinaisons sont donc de même rang. Pour jouer à un pli, il est nécessaire de jouer **plus fort** que la combinaison précédente. Par conséquent, entre deux combinaisons égales, celle qui est jouée en premier à un pli empêche l'autre d'être jouée au même pli.
 
-Note that jokers have zero scoring value, even if they were used to substitute for a king, ten or five in the play.
+Quand un joker est utilisé comme substitut, il a exactement le même rang que la carte qu'il représente. Ainsi par exemple le brelan **8-8-8** a exactement le même rang que **8-joker-joker**. Aucun ne peut être joué pour battre l'autre. Il en va de même pour les fulls : par exemple **9-joker-joker-3-6** est de même rang que **9-9-9-A-A**.
 
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Zheng Fen
+Notez que les jokers ont une valeur de score de zéro, même s'ils ont été utilisés comme substituts pour un roi, un dix ou un cinq lors du jeu.

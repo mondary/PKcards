@@ -2,67 +2,65 @@
 
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** Rules for the Finnish card game Valepaska, a variation of Paskahousu with face down cards and bluffing.
+**But :** Règles du jeu de cartes finlandais Valepaska, une variante du Paskahousu avec cartes face cachées et bluff.
 
 ---
 
-*The page is based on contributions from Ola Rinta-Koski and Mikko Jutila.*
+*Cette page est basée sur les contributions d'Ola Rinta-Koski et Mikko Jutila.*
 
 ## Introduction
 
-**Valepaska** is a Finnish game of bluff, a variation of Paskahousu. The word *valepaska* means "lying shit". The game is also sometimes know as **Kusetuspaskahousu**. On pagat.com, Valepaska was previously listed, slightly inaccurately, under the name Paskahousu.
+**Valepaska** est un jeu finlandais de bluff, une variante du Paskahousu. Le mot *valepaska* signifie « merde menteuse ». Le jeu est aussi parfois connu sous le nom de **Kusetuspaskahousu**. Sur pagat.com, Valepaska était précédemment répertorié, un peu incorrectement, sous le nom Paskahousu.
 
-In Valepaska, all cards are played face down, and the players announce what they are playing. They can tell the truth or lie, but if you lie you risk having to pick up the pile of played cards if challenged.
+Dans Valepaska, toutes les cartes sont jouées face cachées, et les joueurs annoncent ce qu'ils jouent. Ils peuvent dire la vérité ou mentir, mais si vous mentez, vous risquez de devoir ramasser le tas de cartes jouées si on vous défie.
 
-## Players and Cards
+## Joueurs et cartes
 
-An standard deck of 52 cards is used, cards ranking from high to low 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3. 
+On utilise un jeu standard de 52 cartes, les cartes allant de haut en bas 2, A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3.
 
-The game is for three or more players, and is probably best with four or five.
+Le jeu est pour trois joueurs ou plus, et convient probablement le mieux à quatre ou cinq.
 
-## Deal
+## La donne
 
-In the beginning the dealer deals everybody five cards, and puts the remaining stock of cards face down in a pile.
+Au début, le donneur distribue cinq cartes à chacun, et pose le reste des cartes face cachées en tas (pioche).
 
-## Play
+## Jeu
 
-As soon as the deal is finished, if someone has (or claims to have) one or more threes, he starts by putting a card or cards on the table face down and declaring them as threes. If several people claim to have 3's, whoever puts their card down first starts. From then on the players take turns clockwise. If at the beginning nobody claims to have a 3, then whoever claims to have the next lowest card plays first. 
+Dès que la donne est terminée, si quelqu'un a (ou prétend avoir) un ou plusieurs trois, il commence en posant une ou plusieurs cartes sur la table face cachées en les déclarant comme des trois. Si plusieurs personnes prétendent avoir des 3, c'est celui qui pose sa carte en premier qui commence. Ensuite, les joueurs jouent à tour de rôle dans le sens horaire. Si au début personne ne prétend avoir de 3, c'est celui qui prétend avoir la carte la plus basse suivante qui joue en premier.
 
-At your turn, you can put on the table as many cards as you wish, provided they are all of the same rank, which is equal to or higher than the rank played by the previous player. You play your cards face down, but must always tell the others what your cards were (e.g. "three eights"). 
+À votre tour, vous pouvez poser sur la table autant de cartes que vous souhaitez, à condition qu'elles soient toutes de même valeur, égale ou supérieure à la valeur jouée par le joueur précédent. Vous jouez vos cartes face cachées, mais devez toujours dire aux autres ce qu'étaient vos cartes (par exemple « trois huit »).
 
-You can't play jacks, queens or kings if the previous play was seven or lower, and you can't play aces unless the previous play was a jack, queen or king or the table is empty. 
+Vous ne pouvez pas jouer des valets, dames ou rois si le jeu précédent était un sept ou moins, et vous ne pouvez pas jouer des as sauf si le jeu précédent était un valet, une dame, un roi ou si la table est vide.
 
-If the table is empty (other than at the start of the hand) you may play any set of equal ranked cards. 
+Si la table est vide (autre qu'au début de la main), vous pouvez jouer n'importe quel ensemble de cartes de même valeur.
 
-At your turn, as an alternative to playing from your hand, you can draw the top card of the stock and add it to your hand. The turn then passes to the next player. Another possibility is to draw the top card from the stock and play it face down, without having looked at it, and tell the other players what rank you claim it is (as always the rank you claim must be in accordance with the rules of play). 
+À votre tour, en alternative à jouer depuis votre main, vous pouvez piocher la carte du dessus de la pioche et l'ajouter à votre main. Le tour passe ensuite au joueur suivant. Une autre possibilité est de piocher la carte du dessus de la pioche et de la jouer face cachée, sans l'avoir regardée, et de dire aux autres joueurs quelle valeur vous prétendez qu'elle a (comme toujours, la valeur prétendue doit être conforme aux règles du jeu).
 
-You may also start the game by drawing the top card of the stock, and playing it face down without looking at it, claiming that it is a three. 
+Vous pouvez aussi commencer le jeu en piochant la carte du dessus de la pioche et en la jouant face cachée sans la regarder, en prétendant que c'est un trois.
 
-Some cards have special effects. The special cards are: 
+Certaines cartes ont des effets spéciaux. Les cartes spéciales sont :
 
-**Tens** 
-If one or more 10s are played on a lower card, all the cards played so far, including the 10(s) are discarded. The person who played the 10 then continues by playing another set of cards, of any rank. If a 10 is played on an empty table, the next player must pick it up and the following player continues play. 
-**Ace** 
-Aces behave like tens, but can only be played on a jack, queen or king, or when the table is empty. 
-**Twos** 
-You can play a 2 on top of any card or when the table is empty. If the previous play was a 2, the only legal play is another 2. 
+**Dix**
+Si un ou plusieurs 10 sont joués sur une carte inférieure, toutes les cartes jouées jusqu'ici, y compris le ou les 10, sont écartées. La personne qui a joué le 10 continue ensuite en jouant un autre ensemble de cartes, de n'importe quelle valeur. Si un 10 est joué sur une table vide, le joueur suivant doit le ramasser et le joueur suivant continue à jouer.
+**As**
+Les as se comportent comme les dix, mais ne peuvent être joués que sur un valet, une dame, un roi, ou quand la table est vide.
+**Deux**
+Vous pouvez jouer un 2 par-dessus n'importe quelle carte ou quand la table est vide. Si le jeu précédent était un 2, le seul jeu légal est un autre 2.
 
-Since all cards are played face down on the table, there doesn't have to be any correlation between the cards actually played and what people say they are. Thus, if you don't have a suitable card to put on the table, you can lie. The other players can doubt your integrity and any of them can turn your cards face up. If the cards are what you said they would be, the challenger has to pick up all played cards and then you play again. If they weren't, you have to pick up the play pile and the next player plays to the empty table. This can have quite dramatic consequences when there are lots of cards on the table. 
+Puisque toutes les cartes sont jouées face cachées sur la table, il n'y a pas besoin de correspondance entre les cartes réellement jouées et ce que les gens disent qu'elles sont. Ainsi, si vous n'avez pas de carte appropriée à poser sur la table, vous pouvez mentir. Les autres joueurs peuvent douter de votre honnêteté et n'importe lequel d'entre eux peut retourner vos cartes face visibles. Si les cartes sont ce que vous avez dit, le challenger doit ramasser toutes les cartes jouées et vous jouez à nouveau. Si ce n'était pas le cas, vous devez ramasser le tas et le joueur suivant joue sur la table vide. Cela peut avoir des conséquences assez dramatiques quand il y a beaucoup de cartes sur la table.
 
-The last player to have cards in hand loses and is called the *paskahousu* (person with shitty pants). 
+Le dernier joueur à avoir des cartes en main perd et est appelé *paskahousu* (personne avec un cul sale).
 
-## Variations
+## Variantes
 
-Some play that four twos do not clear the pile. So if there are claimed to be four twos on top of the pile, the next player could pick it up or play another card and say it was also a two - after all some of the previous twos might not be genuine.
+Certains jouent que quatre deux ne nettoient pas le tas. Donc s'il est prétendu qu'il y a quatre deux sur le dessus du tas, le joueur suivant pourrait les ramasser ou jouer une autre carte et dire que c'était aussi un deux — après tout, certains des deux précédents pourraient ne pas être authentiques.
 
-Some play that only **black** 2’s, 10’s and Aces have a special role. Red tens and aces are just ordinary cards that do not clear the pile, and red twos are the lowest cards, below the threes.
+Certains jouent que seuls les 2, 10 et **as noirs** ont un rôle spécial. Les dix et as rouges sont de simples cartes ordinaires qui ne nettoient pas le tas, et les deux rouges sont les cartes les plus basses, en dessous des trois.
 
-Some include jokers (or other types of spare card) in the deck. These jokers or extra cards have no rank, so it is **only** possible to get rid of them by lying about what they are.
+Certains incluent des jokers (ou d'autres types de cartes supplémentaires) dans le jeu. Ces jokers ou cartes supplémentaires n'ont pas de valeur, il est donc **seulement** possible de s'en débarrasser en mentant sur ce qu'ils sont.
 
-Many of the other variants on the Paskahousu page can also be used in Valepaska.
+Beaucoup des autres variantes de la page Paskahousu peuvent aussi être utilisées dans Valepaska.
 
-## Other pages
+## Autres pages
 
-The [Wikipedia page on Paskahousu](https://en.wikipedia.org/wiki/Paskahousu) contains a section about Valepaska, and Cristian Seres' [Paskahousu page](https://web.archive.org/web/20130325061304/http://www.korttipelit.net/Paskahousu) has rules in Finnish.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Paskahousu > Valepaska
+La [page Wikipedia sur Paskahousu](https://en.wikipedia.org/wiki/Paskahousu) contient une section sur Valepaska, et la [page Paskahousu de Cristian Seres](https://web.archive.org/web/20130325061304/http://www.korttipelit.net/Paskahousu) contient des règles en finlandais.

@@ -3,96 +3,94 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** An enhanced version of Hearts in which certain cards can be exposed to double their effect.
+**But :** Une version améliorée des Cœurs dans laquelle certaines cartes peuvent être exposées pour doubler leur effet.
 
 ---
 
 ## Introduction
 
-This is a Chinese version of Hearts, which was taught to me by [Guo Juan](https://internetgoschool.com/). It is popular with Chinese Weiqi (Go) players when relaxing between tournament games. 
+Il s'agit d'une version chinoise des Cœurs, qui m'a été enseignée par [Guo Juan](https://internetgoschool.com/). Elle est populaire parmi les joueurs chinois de Weiqi (Go) pour se détendre entre les parties de tournoi.
 
-An approximate English translation of the name of the game is **Chase the Pig**: *zhu* means pig or boar and *gong* is to root out, or force out of hiding. In the game, the queen of spades is a penalty card, known as the **pig** - players may try to drive out the pig by leading spades; also the loser of the game is known as the pig, and may be required to grovel under the table as a penalty.
+Une traduction anglaise approximative du nom du jeu est **Chase the Pig** : *zhu* signifie cochon ou sanglier et *gong* signifie débusquer, ou forcer à sortir de sa cachette. Dans le jeu, la dame de pique est une carte de pénalité, appelée le **cochon** — les joueurs peuvent essayer de débusquer le cochon en entamant des piques ; le perdant du jeu est aussi appelé le cochon, et peut être tenu de ramper sous la table en guise de pénalité.
 
-## Players, Cards and Deal
+## Joueurs, cartes et donne
 
-The game is for four or five players using a standard 52 card pack. The cards in each suit rank from high to low: **A K Q J 10 9 8 7 6 5 4 3 2**. Four can play as individuals or as partners - partners sit opposite. When 5 play it is necessary to take out two cards - the twos of clubs and diamonds. At the beginning of the hand all the cards are dealt out equally to the players. Unlike in Western Hearts, there is no passing of cards. Everyone plays with the cards they are dealt.
+Le jeu se joue à quatre ou cinq joueurs avec un jeu standard de 52 cartes. Les cartes de chaque couleur se classent de haut en bas : **A R D V 10 9 8 7 6 5 4 3 2**. À quatre, on peut jouer en individuels ou en partenaires — les partenaires sont assis en face. Quand cinq jouent, il est nécessaire de retirer deux cartes — les 2 de trèfle et de carreau. Au début de la main, toutes les cartes sont distribuées équitablement aux joueurs. Contrairement aux Cœurs occidentaux, il n'y a pas de passage de cartes. Tout le monde joue avec les cartes qui lui ont été distribuées.
 
-Deal and play are anticlockwise. As usual in Chinese games the cards are not actually dealt out by a dealer: instead the deck is stacked face down and each player in turn takes a card from the top of the pile until all the cards have been taken.
+La donne et le jeu se font dans le sens antihoraire. Comme d'habitude dans les jeux chinois, les cartes ne sont pas réellement distribuées par un donneur : à la place, le jeu est empilé face cachée et chaque joueur à son tour prend une carte du dessus de la pile jusqu'à ce que toutes les cartes aient été prises.
 
-## The Play
+## Le jeu
 
-The play is in tricks. There are no trumps. In the first hand the holder of the two of spades leads to the first trick; in subsequent hands, the player who took the pig (queen of spades) on the previous hand leads to the first trick.
+Le jeu se fait en levées. Il n'y a pas d'atout. Dans la première main, le détenteur du 2 de pique entame la première levée ; dans les mains suivantes, le joueur qui a pris le cochon (dame de pique) lors de la main précédente entame la première levée.
 
-Any card may be led (there is no restriction on leading hearts or spades). Players must follow suit if possible. If you cannot follow suit you may play any card. The trick is won by the highest card of the suit led. The winner of a trick leads to the next.
+N'importe quelle carte peut être entamée (il n'y a pas de restriction sur l'entame des cœurs ou des piques). Les joueurs doivent suivre s'ils le peuvent. Si vous ne pouvez pas suivre, vous pouvez jouer n'importe quelle carte. La levée est remportée par la carte la plus haute de la couleur d'entame. Le gagnant d'une levée entame la levée suivante.
 
-## Values of cards
+## Valeur des cartes
 
-The object is to take or avoid taking in tricks particular cards which carry a penalty or bonus to the person who wins them. The scoring cards are as follows:
+Le but est de prendre ou d'éviter de prendre en levée certaines cartes qui apportent une pénalité ou un bonus à la personne qui les gagne. Les cartes de comptage sont les suivantes :
 
-| Card | Score |
-| Queen of spades (pig) | -100 |
-| Ace of hearts | -50 |
-| King of hearts | -40 |
-| Queen of hearts | -30 |
-| Jack of hearts | -20 |
-| 10, 9, 8, 7, 6, 5 of hearts | -10 each |
-| 4, 3, 2 of hearts | 0 each |
-| Jack of diamonds (sheep) | +100 |
+| Carte | Points |
+| Dame de pique (cochon) | -100 |
+| As de cœur | -50 |
+| Roi de cœur | -40 |
+| Dame de cœur | -30 |
+| Valet de cœur | -20 |
+| 10, 9, 8, 7, 6, 5 de cœur | -10 chacun |
+| 4, 3, 2 de cœur | 0 chacun |
+| Valet de carreau (mouton) | +100 |
 
-In addition the **ten of clubs** counts +50 if the player who takes it takes no other scoring cards. If the player does take other scoring cards, the ten of clubs counts nothing in itself, but doubles the value of all other scoring cards taken by that player. Note that the 4, 3 and 2 of hearts are scoring cards, even though they score zero, so the ten of clubs plus the three of hearts score twice zero which is zero.
+De plus, le **dix de trèfle** compte +50 si le joueur qui le prend ne prend aucune autre carte de comptage. Si le joueur prend d'autres cartes de comptage, le dix de trèfle ne compte rien en lui-même, mais double la valeur de toutes les autres cartes de comptage prises par ce joueur. Notez que les 4, 3 et 2 de cœur sont des cartes de comptage, même si elles marquent zéro, donc le dix de trèfle plus le 3 de cœur marquent deux fois zéro, soit zéro.
 
-If one player takes **all the hearts**, they score +200 instead of -200. Note that it is necessary to take the 4, 3 and 2 of hearts to get this plus score, but you **don't** need the pig (queen of spades). If a player takes all the hearts and the pig as well, then the score for the pig becomes +100, making a total of +300. The sheep (jack of diamonds) is still worth a further +100 to a player who takes all the hearts.
+Si un joueur prend **tous les cœurs**, il marque +200 au lieu de -200. Notez qu'il est nécessaire de prendre les 4, 3 et 2 de cœur pour obtenir ce score positif, mais vous n'avez **pas** besoin du cochon (dame de pique). Si un joueur prend tous les cœurs et le cochon également, le score du cochon devient +100, pour un total de +300. Le mouton (valet de carreau) vaut toujours +100 supplémentaires pour un joueur qui prend tous les cœurs.
 
-During the play, the hearts, pig, sheep and ten of clubs are kept face up in front of the players who take them in tricks. All the other cards played to tricks are turned face down when the trick is complete, and are kept in a single heap.
+Pendant le jeu, les cœurs, le cochon, le mouton et le dix de trèfle sont conservés face visible devant les joueurs qui les prennent en levée. Toutes les autres cartes jouées en levée sont retournées face cachée lorsque la levée est terminée et sont conservées en un seul tas.
 
-## Exposing cards
+## Exposer des cartes
 
-There are four cards which may be exposed by their holders before the start of play: ace of hearts, queen of spades, jack of diamonds, ten of clubs.
+Il y a quatre cartes qui peuvent être exposées par leur détenteur avant le début du jeu : as de cœur, dame de pique, valet de carreau, dix de trèfle.
 
-![Heart Ace](../images/internat/ah.gif)
-![PIG](../images/internat/qs.gif)
-![SHEEP](../images/internat/jd.gif)
-![Club Ten](../images/internat/tc.gif)
+![As de cœur](../images/internat/ah.gif)
+![Cochon](../images/internat/qs.gif)
+![Mouton](../images/internat/jd.gif)
+![Dix de trèfle](../images/internat/tc.gif)
 
-The effect of exposing a card is basically to double its value. Specifically:
+L'effet de l'exposition d'une carte est fondamentalement de doubler sa valeur. Plus précisément :
 
-**Ace of hearts exposed**All hearts are worth double. If a player takes all the hearts this will therefore be worth +400 instead of +200.
-**Queen of spades exposed**The pig is worth -200 instead of -100 (or +200 to a player who takes all the hearts)
-**Jack of diamonds exposed**The sheep is worth +200 instead of +100.
-**Ten of clubs exposed**The ten of clubs quadruples the value of all scoring cards taken by the same player instead of doubling them. Therefore if the ten of clubs and pig are both exposed and the same player takes both, that player gets -800 (4 x -200). If the player who takes the exposed ten of clubs gets no other scoring cards it is worth +100 rather then +50.
+**As de cœur exposé** Tous les cœurs valent le double. Si un joueur prend tous les cœurs, cela vaudra donc +400 au lieu de +200.
+**Dame de pique exposée** Le cochon vaut -200 au lieu de -100 (ou +200 pour un joueur qui prend tous les cœurs).
+**Valet de carreau exposé** Le mouton vaut +200 au lieu de +100.
+**Dix de trèfle exposé** Le dix de trèfle quadruple la valeur de toutes les cartes de comptage prises par le même joueur au lieu de les doubler. Par conséquent, si le dix de trèfle et le cochon sont tous deux exposés et que le même joueur les prend tous les deux, ce joueur obtient -800 (4 × -200). Si le joueur qui prend le dix de trèfle exposé n'obtient aucune autre carte de comptage, il vaut +100 plutôt que +50.
 
-If you expose a card, you are not allowed to play it to the first trick in which that suit is led, unless you have no other cards of that suit. For example, if you expose the queen of spades, then the first time that someone leads a spade you are not allowed to play the queen if you have other spades. The other players can take advantage of this to get rid of their ace and king of spades safely on the first trick of the suit - safe, that is, unless you have sneakily exposed the queen of spades having no other spades. 
+Si vous exposez une carte, vous n'êtes pas autorisé à la jouer dans la première levée où cette couleur est entamée, à moins que vous n'ayez pas d'autres cartes de cette couleur. Par exemple, si vous exposez la dame de pique, la première fois que quelqu'un entame un pique, vous n'êtes pas autorisé à jouer la dame si vous avez d'autres piques. Les autres joueurs peuvent profiter de cela pour se débarrasser de leur as et roi de pique en toute sécurité lors de la première levée de la couleur — en toute sécurité, du moins, à moins que vous n'ayez sournoisement exposé la dame de pique sans avoir d'autres piques.
 
-If you lead the suit of your exposed card yourself, and the suit has not been led before, then you must not lead the exposed card itself unless it is the only card you have in that suit.
+Si vous entamez la couleur de votre carte exposée vous-même, et que cette couleur n'a pas encore été entamée, vous ne devez pas entamer la carte exposée elle-même à moins que ce soit la seule carte que vous avez dans cette couleur.
 
-## Scoring
+## Comptage
 
-Keep a cumulative total of each player's score - positive or negative. When a player reaches minus 1000 they have lost, and a new game is started. The penalty for losing is that you are a pig; you are given a long narrow strip of paper and you must put one end in your mouth; the strip of paper hangs there until someone else loses a game, at which time you can give it to them. On the other hand, if you lose again, you get another strip of paper to hang from your mouth.
+Maintenez un total cumulé du score de chaque joueur — positif ou négatif. Quand un joueur atteint moins 1000, il a perdu, et une nouvelle partie est commencée. La pénalité pour avoir perdu est que vous êtes un cochon ; on vous donne une bande de papier longue et étroite et vous devez mettre une extrémité dans votre bouche ; la bande de papier y reste pendante jusqu'à ce que quelqu'un d'autre perde une partie, auquel moment vous pouvez la lui donner. D'autre part, si vous perdez à nouveau, vous recevez une autre bande de papier à pendre de votre bouche.
 
-In addition, as previously mentioned, the loser may also be required to grovel under the table.
+En outre, comme mentionné précédemment, le perdant peut aussi être tenu de ramper sous la table.
 
-## Variations
+## Variantes
 
-The following variation was contributed by Theodore Hwa. The game is as described above, with the following differences:
+La variante suivante a été contribuée par Theodore Hwa. Le jeu est comme décrit ci-dessus, avec les différences suivantes :
 
-- **Value of hearts:** The hearts 10, 9, 8, ..., 2 are scored the negative of their face value, except for the 4 of hearts which is -10 instead of -4 (this exception is made so that the total of all the hearts remains -200). 
+- **Valeur des cœurs :** Les cœurs 10, 9, 8, ..., 2 sont comptés comme la valeur négative de leur face, sauf pour le 4 de cœur qui vaut -10 au lieu de -4 (cette exception est faite pour que le total de tous les cœurs reste -200).
 
-- When any player takes all the hearts, the values of the pig and sheep are interchanged for all players for that deal. That is, if one player takes all the hearts and someone else takes the pig, then the player who took the pig scores +100 for it, etc. The pig and sheep always cancel each other out, even for the player who took all the hearts.
+- Quand un joueur prend tous les cœurs, les valeurs du cochon et du mouton sont inversées pour tous les joueurs pour cette donne. C'est-à-dire que si un joueur prend tous les cœurs et que quelqu'un d'autre prend le cochon, le joueur qui a pris le cochon marque +100 pour celui-ci, etc. Le cochon et le mouton s'annulent toujours mutuellement, même pour le joueur qui a pris tous les cœurs.
 
-- A player who takes all the point cards (all hearts, queen of spades, jack of diamonds, ten of clubs) scores +1000.
+- Un joueur qui prend toutes les cartes à points (tous les cœurs, dame de pique, valet de carreau, dix de trèfle) marque +1000.
 
-- If any player reaches -1000 **exactly** at the end of a deal, the game still ends, but that player's score is converted to +1000.
+- Si un joueur atteint -1000 **exactement** à la fin d'une donne, le jeu se termine quand même, mais le score de ce joueur est converti en +1000.
 
-- There is no option to expose cards to double their score.
+- Il n'y a pas d'option pour exposer des cartes afin de doubler leur score.
 
-In rec.games.playing-cards, *jp* described a variation played by Chinese students at CU Boulder. They called it "Catch the Pig". They played as in the main account except that you could double the value of the key cards (pig, sheep, ten of clubs or ace of hearts for hearts) by putting them "up for sale" face down, or quadruple their value by putting them face up.
+Dans rec.games.playing-cards, *jp* a décrit une variante jouée par des étudiants chinois à CU Boulder. Ils l'appelaient « Catch the Pig ». Ils jouaient comme dans le compte principal, sauf que vous pouviez doubler la valeur des cartes clés (cochon, mouton, dix de trèfle ou as de cœur pour les cœurs) en les mettant « en vente » face cachée, ou quadrupler leur valeur en les mettant face visible.
 
-Jun Qian has contributed the following variations:
+Jun Qian a contribué les variantes suivantes :
 
-- Some play that if you are dealt an exposable card as the first card of your hand and you expose it before seeing your other cards, the effect is doubled. For example a pig exposed as your first card is worth -400, and a club ten exposed as your first card multiplies the value of all the scoring cards taken by the player who wins it by eight.
+- Certains jouent que si on vous distribue une carte exposable comme première carte de votre main et que vous l'exposez avant de voir vos autres cartes, l'effet est doublé. Par exemple, un cochon exposé comme votre première carte vaut -400, et un dix de trèfle exposé comme votre première carte multiplie par huit la valeur de toutes les cartes de comptage prises par le joueur qui le gagne.
 
-- Some play that if you expose the sheep it becomes a negative card, worth -200, or in some circles -400.
+- Certains jouent que si vous exposez le mouton, il devient une carte négative, valant -200, ou dans certains cercles -400.
 
-- Some play that if you take all the hearts, the pig and the sheep, all these cards become positive. This is called *Zhu Yang Man Juan* (catch pig and sheep in hand). If you take all the hearts and the pig, but not the sheep, the pig remains negative.
-
-Home Page > Classified Index > Trick Taking Games > Reverse Games > Gong Zhu
+- Certains jouent que si vous prenez tous les cœurs, le cochon et le mouton, toutes ces cartes deviennent positives. Cela s'appelle *Zhu Yang Man Juan* (prendre cochon et mouton en main). Si vous prenez tous les cœurs et le cochon, mais pas le mouton, le cochon reste négatif.

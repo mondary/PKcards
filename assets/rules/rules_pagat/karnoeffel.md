@@ -1,17 +1,15 @@
-# Karnoeffel
+# Karnöffel
 
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** Information on Karnöffel, one of the earliest recorded European card games, and one of the first to feature a 'chosen suit', some of whose cards act like trumps.
+**But :** Informations sur le Karnöffel, l'un des plus anciens jeux de cartes européens enregistrés, et l'un des premiers à comporter une « couleur choisie » dont certaines cartes agissent comme des atouts.
 
 ---
 
-This is one of the earliest European card games whose rules can be reconstructed with some confidence. It dates from the early 15th century and is one of the first trick-taking card games in which there is a "chosen" suit some of whose cards have the power to beat cards of other suits.
+Il s'agit de l'un des plus anciens jeux de cartes européens dont les règles peuvent être reconstituées avec une certaine confiance. Il date du début du XVe siècle et figure parmi les premiers jeux de levées comportant une couleur « choisie » dont certaines cartes ont le pouvoir de battre les cartes d'autres couleurs.
 
-David Parlett's [Karnöffel page](https://www.parlettgames.uk/histocs/karnoeffel.html) has a history of the game and a reconstruction of the rules.
+La [page Karnöffel de David Parlett](https://www.parlettgames.uk/histocs/karnoeffel.html) contient une histoire du jeu et une reconstitution des règles.
 
-Another reconstruction of Karnöffel can be found on an archive copy of Glenn Overby's [Karnöffel page](https://web.archive.org/web/20070325021710/http://home.earthlink.net:80/~guardcaptain/Karn.html).
+Une autre reconstitution du Karnöffel se trouve sur une copie d'archive de la [page Karnöffel de Glenn Overby](https://web.archive.org/web/20070325021710/http://home.earthlink.net:80/~guardcaptain/Karn.html).
 
-The German language Landsknechtsportal (archive copy) includes an [illustrated history of Karnöffel](https://web.archive.org/web/20131030194722/http://landsknechtsrotte.de/portal/k-einleitung.html) and a [partial explanation of the rules](https://web.archive.org/web/20130325105834/http://landsknechtsrotte.de/portal/k-spiel.html), which (as of September 2007) dealt only with the betting and scoring, reconstructed by analogy with the modern Swiss Kaiserspiel, not the ranking and play of the cards.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Karnöffel
+Le site allemand Landsknechtsportal (copie d'archive) comprend une [histoire illustrée du Karnöffel](https://web.archive.org/web/20131030194722/http://landsknechtsrotte.de/portal/k-einleitung.html) et une [explication partielle des règles](https://web.archive.org/web/20130325105834/http://landsknechtsrotte.de/portal/k-spiel.html), qui (en septembre 2007) ne traitait que des enchères et du décompte, reconstitués par analogie avec le Kaiserspiel suisse moderne, et non de la hiérarchie et du jeu des cartes.

@@ -3,48 +3,46 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A game of bluff in which players can lie about the cards they played.
+**But :** Un jeu de bluff dans lequel les joueurs peuvent mentir sur les cartes qu'ils ont jouées.
 
 ---
 
 ## Introduction
 
-This game is the Russian equivalent of the game known in English as I Doubt It: the Russian name means "Trust - don't trust". The object, as usual in this type of game, is to get rid of all one's cards.
+Ce jeu est l'équivalent russe du jeu connu en anglais sous le nom de I Doubt It : le nom russe signifie « Fais confiance — ne fais pas confiance ». Le but, comme d'habitude dans ce type de jeu, est de se débarrasser de toutes ses cartes.
 
-This page is based on information from Leo Broukhis and Andrew Savinykh.
+Cette page est basée sur des informations de Leo Broukhis et Andrew Savinykh.
 
-## Players and Cards
+## Joueurs et cartes
 
-This game is for 2-6 players, rarely more. 3 or more players use a standard 52 card deck; a shortened deck (36 cards - 6 to A) may be used for 2 or 3 players, as it is hard to hold more than 18 cards.
+Ce jeu est pour 2 à 6 joueurs, rarement plus. 3 joueurs ou plus utilisent un jeu standard de 52 cartes ; un jeu réduit (36 cartes — du 6 à l'A) peut être utilisé pour 2 ou 3 joueurs, car il est difficile de tenir plus de 18 cartes.
 
-## Deal
+## La donne
 
-**A**fter the deck has been shuffled, one card is picked at random and put aside face down; all remaining cards are distributed clockwise one at a time among the players face down. Some players may have one more card than others - this does not matter. The player to make the first move is the one who was dealt the first card.
+Après que le jeu a été mélangé, une carte est tirée au hasard et mise de côté face cachée ; toutes les cartes restantes sont distribuées dans le sens horaire une à une face cachées. Certains joueurs peuvent avoir une carte de plus que d'autres — cela n'a pas d'importance. Le joueur qui fait le premier mouvement est celui à qui a été distribuée la première carte.
 
-## Play
+## Jeu
 
-**A** game consists of several rounds, and each round consists of several moves.
+Une partie consiste en plusieurs manches, et chaque manche consiste en plusieurs coups.
 
-The player to make the first move in a round puts one, two or three of his cards on the table face down and names a rank (not necessarily the rank of the card(s) he just put on the table). For each subsequent move there are two possibilities:
+Le joueur qui fait le premier coup d'une manche pose une, deux ou trois de ses cartes sur la table face cachées et nomme une valeur (pas nécessairement la valeur de la ou des cartes qu'il vient de poser). Pour chaque coup suivant, il y a deux possibilités :
 
-- The player to make the move (**B**) has the right to say "I don't trust" and expose the card(s) the previous player (**A**) put on the table. If the card(s) played by **A** are not all of the rank that **A** said, **A** picks up all the cards on the table and adds them to his hand, the current round terminates, and **B** starts the next round. If the card(s) played by **A** were all of the stated rank, then **B** picks up all the cards on the table, the round terminates, and the next round is started by **C**, the next player clockwise from **B**.
+- Le joueur qui fait le coup (**B**) a le droit de dire « Je ne fais pas confiance » et exposer la ou les cartes que le joueur précédent (**A**) a posées. Si la ou les cartes jouées par **A** ne sont pas toutes de la valeur que **A** a dite, **A** ramasse toutes les cartes sur la table et les ajoute à sa main, la manche actuelle se termine, et **B** commence la manche suivante. Si la ou les cartes jouées par **A** étaient toutes de la valeur déclarée, alors **B** ramasse toutes les cartes sur la table, la manche se termine, et la manche suivante est commencée par **C**, le joueur suivant dans le sens horaire après **B**.
 
-- If **B** decides not to expose **A**'s play, he says "I trust" (or says nothing, because "I trust" is assumed if nothing is said) and puts one, two or three of his cards on top of the pile of cards already on the table, repeating aloud the **same** rank which was said by the previous player.
+- Si **B** décide de ne pas exposer le jeu de **A**, il dit « Je fais confiance » (ou ne dit rien, car « je fais confiance » est sous-entendu si rien n'est dit) et pose une, deux ou trois de ses cartes sur le tas de cartes déjà sur la table, en répétant à voix haute la **même** valeur qui a été dite par le joueur précédent.
 
-At the end of each round, the player who picked up the cards may remove all groups of 4 cards of the same rank, if any, from his hand, show them to other players and put them away. Note that the rules don't force a player to throw away all groups of four equal cards, but experience shows that this is best done as soon as possible. This is the only case when the number of cards in play decreases.
+À la fin de chaque manche, le joueur qui a ramassé les cartes peut retirer tous les groupes de 4 cartes de même valeur, s'il y en a, de sa main, les montrer aux autres joueurs et les mettre de côté. Notez que les règles ne forcent pas un joueur à se défaire de tous les groupes de quatre cartes égales, mais l'expérience montre qu'il vaut mieux le faire dès que possible. C'est le seul cas où le nombre de cartes en jeu diminue.
 
-A player who gets rid of all his cards either by making a move with his last cards, which the next player does not expose, or by being able to throw away all his cards in sets of four at the end of a round, does not participate in the current game any more.
+Un joueur qui se débarrasse de toutes ses cartes soit en faisant un mouvement avec ses dernières cartes que le joueur suivant n'expose pas, soit en pouvant se débarrasser de toutes ses cartes en ensembles de quatre à la fin d'une manche, ne participe plus à la partie en cours.
 
-Since one card was put aside at the start of the game, the other three cards of this rank remain in the game until the end. The loser is the last player who is left holding one or more of these cards when everyone else has run out of cards. 
+Puisqu'une carte a été mise de côté au début du jeu, les trois autres cartes de cette valeur restent en jeu jusqu'à la fin. Le perdant est le dernier joueur à qui il reste une ou plusieurs de ces cartes quand tous les autres ont épuisé leurs cartes.
 
-## Variants
+## Variantes
 
-During the play, many players also allow a third option:
+Pendant le jeu, beaucoup de joueurs permettent aussi une troisième option :
 
-- The player to make the move (**B**) has the right to say "I trust" and expose the card(s) the previous player (**A**) put on the table. If the card(s) played by **A** are not all of the rank that **A** said, **B** picks up all the cards on the table and adds them to his hand, and the next round is started by **C**, the next player clockwise from **B**. If the card(s) played by **A** were all of the stated rank, they all go to the discard pile and are not used until the end of the current game. Player **B** starts the next round.
+- Le joueur qui fait le coup (**B**) a le droit de dire « Je fais confiance » et d'exposer la ou les cartes que le joueur précédent (**A**) a posées. Si la ou les cartes jouées par **A** ne sont pas toutes de la valeur que **A** a dite, **B** ramasse toutes les cartes sur la table et les ajoute à sa main, et la manche suivante est commencée par **C**, le joueur suivant dans le sens horaire après **B**. Si la ou les cartes jouées par **A** étaient toutes de la valeur déclarée, elles vont toutes au tas de défausse et ne sont plus utilisées jusqu'à la fin de la partie en cours. Le joueur **B** commence la manche suivante.
 
-In this version of the game a players are normally not allowed to discard sets of four equal cards out of the game, but it is legal to begin a round by playing 4 cards.
+Dans cette version du jeu, les joueurs ne sont normalement pas autorisés à écarter des ensembles de quatre cartes égales hors du jeu, mais il est légal de commencer une manche en jouant 4 cartes.
 
-Some require that when a player plays his last card(s) he does not immediately leave the game. He must wait until the end of the current round and if the turn to play comes around to him again he must either trust (option 3) or not trust (option 1) - option 2 is not possible since he has no cards. If he chooses wrongly he picks up the cards and is still in the game.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Verish' Ne Verish'
+Certains exigent que lorsqu'un joueur joue sa ou ses dernières cartes, il ne quitte pas immédiatement le jeu. Il doit attendre la fin de la manche en cours et si le tour de jouer revient jusqu'à lui, il doit soit faire confiance (option 3) soit ne pas faire confiance (option 1) — l'option 2 n'est pas possible puisqu'il n'a plus de cartes. S'il choisit mal, il ramasse les cartes et reste dans le jeu.

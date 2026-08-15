@@ -1,294 +1,215 @@
 # Big Two
+**Autres noms :** Da Lao Er, Choh Dai Di
 
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** Rules and variatons of the Chinese card game known as Da Lao Er or Choh Dai Di which has also become popular in Australia and the USA under its English name Big Two.
-**Autres noms :** Da Lao Er or Choh Dai Di which
+**But :** Règles et variantes du jeu de cartes chinois connu sous le nom de Da Lao Er ou Choh Dai Di, qui est aussi devenu populaire en Australie et aux États-Unis sous son nom anglais Big Two.
 
 ---
 
-Direction of play, Dealing and starting the play, Order of suits, Use of twos and aces in straights and straight flushes, Ranking of flushes, Order of royal flush, quads and straight flush, Playing without triples and flushes, Playing quads without an odd card, Honour hands beat all combinations, Two extra cards with a straight flush, No Play after a Pass, Last card, Playing until only one player has cards, Scoring variations, Hong Kong Big Two.
-
-- Three Player Game
-
-- Two Player Game
-
-- Other Big Two WWW sites and software
-
 ## Introduction
 
-This climbing game probably originated in coastal China around 1980; it became very popular in Shanghai, Hong Kong, Taiwan and also in the Philippines and Singapore; it has also spread to some western countries. It has several alternative names:
+Ce jeu d'escalade est probablement originaire de la côte chinoise vers 1980 ; il est devenu très populaire à Shanghai, Hong Kong, Taïwan et aussi aux Philippines et à Singapour ; il s'est aussi répandu dans certains pays occidentaux. Il porte plusieurs noms alternatifs :
 
-- Big Two, Big Deuce or Deuces are the names commonly used in the English speaking world (mainly USA and Australia).
+- Big Two, Big Deuce ou Deuces sont les noms couramment utilisés dans le monde anglophone (principalement États-Unis et Australie).
 
-- Da Lao Er (大老二) is Mandarin Chinese and literally means "big old two", but also has a vulgar meaning. 
+- Da Lao Er (大老二) est le chinois mandarin et signifie littéralement « grand vieux deux », mais a aussi un sens vulgaire.
 
-- Choh Dai Di or simply Dai Di - written 鋤大地 
-or more often as 鋤大D
-, surprisingly using a Western letter D for the last syllable. I am not certain from what Chinese dialect this term originates. In Cantonese, "di2" is a slang term for the two in card games: the first way of writing it seems to have a literal meaning connected with the earth, but in fact, like "D", it is just a phonetic approximation to the sound. There is general agreement that the whole phrase refers to the fact that in this game the two is the highest rather than the lowest card, and that "Big Two" is an accurate translation of the sense. One correspondent told me it is Hokkien (Fujian) meaning 'play the biggest smallest'; another says it is not Hokkien, but that 'Dai D' is Hong Kong (Cantonese) slang for 'the little guy', and the whole name means 'step on the little guy'.
+- Choh Dai Di ou simplement Dai Di — écrit 鋤大地 ou plus souvent 鋤大D, étonnamment en utilisant une lettre occidentale D pour la dernière syllabe. L'expression entière fait référence au fait que dans ce jeu le deux est la carte la plus forte plutôt que la plus faible.
 
-- Bu Bu Gao Sheng (步步高升) ("step by step rise higher") is another name used for this game in Taiwan.
+- Bu Bu Gao Sheng (步步高升) (« monter étape par étape ») est un autre nom utilisé pour ce jeu à Taïwan.
 
-- Pusoy Dos is the usual name used in the Philippines, with the stress on the second syllable of Pusoy. Ruben Canlas Jr. tells me that this translates into English as "Poker Two" - "Pusoy" being the Filipino name for Poker. 
+- Pusoy Dos est le nom habituel aux Philippines, avec l'accent sur la deuxième syllabe de Pusoy. Ruben Canlas Jr. me dit que cela se traduit en anglais par « Poker Deux » — « Pusoy » étant le nom philippin du Poker.
 
-- Mathijs Claasen reports that in the Netherlands it is called Sjalaliën.
+- Mathijs Claasen rapporte qu'aux Pays-Bas, il est appelé Sjalaliën.
 
-There are many variations of this game. First I will describe the basic game as played in China.
+Il existe de nombreuses variantes de ce jeu. Je décrirai d'abord le jeu de base tel qu'il est joué en Chine.
 
-This description was put together by John McLeod using information from various sources, including contributions from Kenneth Lu, Gary Chan, Tanya Shively, Patrick Corr, Wei-Hwa Huang, Anthony Kam, Sheryll May, Thais Moncrief, Todd Latta, Nicholas Cheung, Jim Harris, Kallen Group, Jonathan Dushoff, Tan Thor Jen, Jason Chan, Robert, Karl Boehnker, Harold Hutabarat, James and Erik Nelson and Ivan Ip.
+Cette description a été compilée par John McLeod à partir d'informations de diverses sources, y compris des contributions de Kenneth Lu, Gary Chan, Tanya Shively, Patrick Corr, Wei-Hwa Huang, Anthony Kam, Sheryll May, Thais Moncrief, Todd Latta, Nicholas Cheung, Jim Harris, Kallen Group, Jonathan Dushoff, Tan Thor Jen, Jason Chan, Robert, Karl Boehnker, Harold Hutabarat, James et Erik Nelson et Ivan Ip.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is for best for four players, each playing for themselves. (It is possible to play with three or two - the necessary adaptations are given later.)
+Le jeu se joue au mieux à quatre joueurs, chacun jouant pour soi. (Il est possible de jouer à trois ou deux — les adaptations nécessaires sont données plus loin.)
 
-A standard 52 card pack is used, the cards ranking from high to low: 2-A-K-Q-J-10-9-8-7-6-5-4-3. There is also an ordering of suits - from high to low: spades, hearts, clubs, diamonds (but see variations). 
+Un jeu standard de 52 cartes est utilisé, les cartes se classant de la plus forte à la plus faible : 2-A-R-D-V-10-9-8-7-6-5-4-3. Il y a aussi un ordre des couleurs — de la plus forte à la plus faible : pique, cœur, trèfle, carreau (mais voir variantes).
 
-## Object of the Game
+## But du jeu
 
-The object of the game is to be the first to get rid of all of your cards, by playing them to the table. Cards can be played singly or in certain combinations. If you cannot be first to play all your cards, then your aim is to have as few cards as possible when another player finishes.
+Le but du jeu est d'être le premier à se débarrasser de toutes ses cartes, en les jouant sur la table. Les cartes peuvent être jouées seules ou en certaines combinaisons. Si vous ne pouvez pas être le premier à jouer toutes vos cartes, votre but est d'avoir le moins de cartes possible quand un autre joueur termine.
 
-## Playable Combinations
+## Combinaisons jouables
 
-There are four types of legal play: single cards, pairs, triples and five card groups.
+Il y a quatre types de jeux légaux : cartes seules, paires, brelans et groupes de cinq cartes.
 
-Single cards
-These rank from two (high) down to three (low), and between cards of the same rank a higher suit beats a lower suit.Pairs
-A pair of equal ranked cards - twos are highest and threes are lowest. Any higher ranked pair beats one with lower ranks. Between equal ranked pairs, the one containing the highest suit is better - for example ![spade](../images/internat/spade.gif)9-![diamond](../images/internat/diamond.gif)9 beats ![heart](../images/internat/heart.gif)9-![club](../images/internat/club.gif)9 because the spade is higher than the heart, but ![club](../images/internat/club.gif)Q-![diamond](../images/internat/diamond.gif)Q beats ![spade](../images/internat/spade.gif)J-![heart](../images/internat/heart.gif)J because queens beat jacks.
-Triples
-Three equal ranked cards - three twos are highest, then aces, kings, etc. down to three threes, which is the lowest triple.
-Five card groups
-There five types of playable five-card combination. In ascending order they are: straight, flush, full house, four of a kind, straight flush.
+**Cartes seules**
+Elles se classent du deux (fort) au trois (faible), et entre cartes de même rang, une couleur supérieure bat une couleur inférieure.
 
-- A Straight consists of five cards of consecutive rank with mixed suits. A straight with higher ranks beats a lower one, irrespective of the suits of the cards. When the ranks are the same, the suit of the top card determines which is higher. So for example ![diamond](../images/internat/diamond.gif)K-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)J-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)9 beats ![spade](../images/internat/spade.gif)Q-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)8, which beats ![diamond](../images/internat/diamond.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)8. Twos do not rank high in straights, but below the 3, so the highest straight is A-K-Q-J-10 including the ace of spades. Aces can be counted as low to make the lowest type of straight 5-4-3-2-A, which is beaten by 6-5-4-3-2 and 7-6-5-4-3. An ace can be used at either end of a straight, but not in the middle, so collections like 3-2-A-K-Q or 2-A-K-Q-J are not valid straights (but there are variations on this rule).
+**Paires**
+Une paire de cartes de même rang — les deux sont les plus forts et les trois les plus bas. Une paire de rang supérieur bat une paire de rang inférieur. Entre paires de même rang, celle contenant la couleur la plus forte est meilleure — par exemple ![pique](../images/internat/spade.gif)9-![carreau](../images/internat/diamond.gif)9 bat ![cœur](../images/internat/heart.gif)9-![trèfle](../images/internat/club.gif)9 car le pique est supérieur au cœur, mais ![trèfle](../images/internat/club.gif)D-![carreau](../images/internat/diamond.gif)D bat ![pique](../images/internat/spade.gif)V-![cœur](../images/internat/heart.gif)V car les dames battent les valets.
 
-- A Flush consists of any five cards of the same suit. A flush in a higher suit beats a flush in a lower suit, irrespective of the ranks of the cards. Between two flushes in the same suit, the one with the higher top card is better. So for example ![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)3 beats ![club](../images/internat/club.gif)2-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)4, which beats ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)10-![club](../images/internat/club.gif)7.
+**Brelans**
+Trois cartes de même rang — trois deux sont les plus forts, puis les as, les rois, etc. jusqu'à trois trois, qui est le brelan le plus faible.
 
-- A Full House consists of three cards of one rank and two of another rank; between two full houses, the one whose triple is of higher rank is better - so for example 9-9-9-4-4 beats 8-8-8-K-K.
+**Groupes de cinq cartes**
+Il y a cinq types de combinaisons jouables de cinq cartes. Par ordre croissant : suite, couleur, full, carré, quinte flush.
 
-- Four of a kind (or quads) are made up of all four cards of one rank, plus any fifth card. The fifth card must be included - four equal cards by themselves are not a playable combination. Between two fours of a kind, the rank of the four cards determines which is higher.
+- Une **Suite** consiste en cinq cartes de rangs consécutifs de couleurs mélangées. Une suite de rangs supérieurs bat une suite inférieure, indépendamment des couleurs. Quand les rangs sont égaux, la couleur de la carte la plus forte détermine qui est supérieur. Les deux ne se classent pas haut dans les suites, mais en dessous du 3, donc la suite la plus forte est A-R-D-V-10 incluant l'as de pique. Les as peuvent être comptés comme bas pour faire le type de suite le plus faible 5-4-3-2-A, qui est battu par 6-5-4-3-2 et 7-6-5-4-3. Un as peut être utilisé à l'une ou l'autre extrémité d'une suite, mais pas au milieu, donc des collections comme 3-2-A-R-D ou 2-A-R-D-V ne sont pas des suites valides (mais il y a des variantes à cette règle).
 
-- A Straight Flush consists of five consecutive cards of the same suit, twos ranking below threes and aces ranking high or low, as in straights. The rank of the highest card determines which of two straight flushes is higher; between two equal ranked straight flushes, the one in the higher suit is better, so the Royal Flush in spades ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10 is the highest straight flush and the best five-card combination, but there are variations on this rule. 
+- Une **Couleur** consiste en cinq cartes de même couleur. Une couleur dans une couleur supérieure bat une couleur dans une couleur inférieure, indépendamment des rangs. Entre deux couleurs de même couleur, celle dont la carte la plus forte est la plus élevée est meilleure.
 
-A combination can only be beaten by a better combination with the same number of cards: so a single card can only be beaten by a single card, a pair by a better pair and a triple by a better triple. You cannot for example use a triple to beat a pair or a straight to beat a triple. However, a five card group can be beaten by a five card group of a stronger type - any flush beats any straight, any full house beats any straight or flush, any four of a kind plus an odd card beats any straight, flush or full house and any straight flush beats all of the other type of five card group.
+- Un **Full** consiste en trois cartes d'un rang et deux d'un autre rang ; entre deux fulls, celui dont le brelan est de rang supérieur est meilleur — par exemple 9-9-9-4-4 bat 8-8-8-R-R.
 
-Note that although the playable combinations are similar to poker hands, there are important differences. For example, there is no "two pair" combination, and although a four of a kind requires a fifth card to complete the combination, a triple cannot be accompanied by extra cards (unless of course these make it into quads or a full house).
+- Un **Carré** (ou quadruple) est constitué de toutes les quatre cartes d'un même rang, plus une cinquième carte. La cinquième carte doit être incluse — quatre cartes égales seules ne forment pas une combinaison jouable. Entre deux carrés, le rang des quatre cartes détermine qui est supérieur.
 
-## The Deal
+- Une **Quinte flush** consiste en cinq cartes consécutives de même couleur, les deux se classant en dessous des trois et les as en haut ou en bas, comme dans les suites. Le rang de la carte la plus forte détermine quelle quinte flush est supérieure ; entre deux quintes flush de même rang, celle dans la couleur supérieure est meilleure, donc la Quinte Flush royale à pique ![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)R-![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)V-![pique](../images/internat/spade.gif)10 est la quinte flush la plus forte et la meilleure combinaison de cinq cartes, mais il y a des variantes à cette règle.
 
-Deal and play are normally anticlockwise. Any player may deal first; thereafter the winner of each hand deals the next. The dealer shuffles and the player to dealer's right cuts.
+Une combinaison ne peut être battue que par une meilleure combinaison avec le même nombre de cartes : ainsi une carte seule ne peut être battue que par une carte seule, une paire par une meilleure paire et un brelan par un meilleur brelan. Vous ne pouvez pas par exemple utiliser un brelan pour battre une paire ou une suite pour battre un brelan. Cependant, un groupe de cinq cartes peut être battu par un groupe de cinq cartes d'un type plus fort — n'importe quelle couleur bat n'importe quelle suite, n'importe quel full bat n'importe quelle suite ou couleur, n'importe quel carré plus une carte impaire bat n'importe quelle suite, couleur ou full et n'importe quelle quinte flush bat tous les autres types de groupe de cinq cartes.
 
-Having completed the cut, the dealer exposes a card to determine who will be dealt the first card. This is done by lifting the top part of the pack, showing the bottom card of the lifted part, and replacing the lifted section on top of the pack, so that this second "cut" does not disturb the order of the cards in the pack and the exposed card remains in the middle. To determine who gets the first card, count the players starting with the dealer and continuing in the direction of play until the rank of the exposed card is reached. So if it was an ace, 5, 9 or king the dealer will get the first card, if it was a 2, 6 or 10 the player to dealer's right, if it was a 3, 7 or jack the player opposite the dealer and is it was a 4, 8 or queen, the player to dealer's left.
+Notez que bien que les combinaisons jouables soient similaires aux mains de poker, il y a des différences importantes. Par exemple, il n'y a pas de combinaison « double paire », et bien qu'un carré nécessite une cinquième carte pour compléter la combinaison, un brelan ne peut pas être accompagné de cartes supplémentaires (sauf bien sûr si cela en fait un carré ou un full).
 
-The dealer deals out the cards, one at a time, starting with the player designated by the above process and continuing anticlockwise until all the cards are dealt. So everyone will have a hand of 13 cards, which they can look at and sort.
+## La donne
 
-## The Play
+La donne et le jeu se font normalement dans le sens antihoraire. N'importe quel joueur peut distribuer en premier ; ensuite, le gagnant de chaque donne distribue la suivante. Le donneur mélange et le joueur à la droite du donneur coupe.
 
-The player who holds the three of diamonds begins and must play this card, either by itself or as part of a legal combination. The person to this player's right plays next, and so on round the table. At your turn you must either pass (play no cards) or beat the previous play by playing a higher combination of the same number of cards. All plays are made by placing the cards face up in the centre of the table, so that a heap is formed. This continues for several circuits if necessary, until all but one of the players pass in succession, no one being able or willing to beat the last play. When this happens, the heap of played cards is set aside face down (or in many places, the players just leave all the played cards in a face-up heap on the table). The person who played highest (all the others having passed) begins again by playing any card or legal combination of cards.
+Ayant terminé la coupe, le donneur retourne une carte pour déterminer qui recevra la première carte de la donne. Cela se fait en soulevant la partie supérieure du jeu, en montrant la carte inférieure de la partie soulevée, et en replaçant la section soulevée sur le dessus du jeu. Pour déterminer qui reçoit la première carte, on compte les joueurs en commençant par le donneur et en continuant dans le sens du jeu jusqu'à atteindre le rang de la carte retournée. Ainsi si c'était un as, 5, 9 ou roi, le donneur recevra la première carte, si c'était un 2, 6 ou 10, le joueur à la droite du donneur, si c'était un 3, 7 ou valet, le joueur en face du donneur et si c'était un 4, 8 ou dame, le joueur à la gauche du donneur.
 
-You are never under any obligation to beat a card or set of cards just because you are able to - you may always choose to pass and keep your high cards for a better opportunity. Passing does not prevent you from playing when your turn comes round again. 
+Le donneur distribue les cartes, une à la fois, en commençant par le joueur désigné par le processus ci-dessus et en continuant dans le sens antihoraire jusqu'à ce que toutes les cartes soient distribuées. Ainsi tout le monde aura une main de 13 cartes, qu'il peut regarder et trier.
 
-Example: At a late stage in a game, South starts with a 4, East beats it with a jack, you (North) pass, West plays an ace, South and East pass. You suspect that West will be able to win by playing all her remaining cards as a group if you pass, so you now play your ![club](../images/internat/club.gif)2, which you held back before.
+## Le jeu
 
-Everyone is allowed to know how many cards the other players have in their hands at any time - if asked you must answer truthfully.
+Le joueur qui détient le trois de carreau commence et doit jouer cette carte, soit seule soit comme partie d'une combinaison légale. La personne à la droite de ce joueur joue ensuite, et ainsi de suite autour de la table. À votre tour, vous devez soit passer (ne jouer aucune carte) soit battre le jeu précédent en jouant une combinaison supérieure du même nombre de cartes. Tous les jeux sont faits en posant les cartes face visible au centre de la table, formant un tas. Cela continue pour plusieurs tours si nécessaire, jusqu'à ce que tous les joueurs sauf un passent consécutivement. Quand cela se produit, le tas de cartes jouées est mis de côté face en bas (ou dans beaucoup d'endroits, les joueurs laissent simplement toutes les cartes jouées dans un tas face visible sur la table). La personne qui a joué le plus fort (tous les autres ayant passé) recommence en jouant n'importe quelle carte ou combinaison légale.
 
-The first player who succeeds in playing all the cards in their hand wins. As soon as this happens, the play ends and the hand is scored. (The other players do not get a chance to get rid of cards by beating the final card(s) played by the winner.)
+Vous n'êtes jamais obligé de battre une carte ou un ensemble de cartes simplement parce que vous le pouvez — vous pouvez toujours choisir de passer et garder vos cartes fortes pour une meilleure opportunité. Passer ne vous empêche pas de jouer quand votre tour revient.
 
-## Scoring
+Exemple : À un stade avancé d'un jeu, le Sud commence avec un 4, l'Est bat avec un valet, vous (Nord) passez, l'Ouest joue un as, le Sud et l'Est passent. Vous soupçonnez que l'Ouest pourra gagner en jouant toutes ses cartes restantes en groupe si vous passez, donc vous jouez maintenant votre ![trèfle](../images/internat/club.gif)2, que vous aviez gardé en réserve.
 
-The players other than the winner score penalty points for the cards remaining in their hands. The penalty is one point per card in your hand if you have 9 cards or fewer, two points per card if you have 10, 11 or 12 cards, and three points per card (i.e. 39 points) if you have all 13 of your cards left at the end, because you never played any cards at all. The winner, having no cards, gets no penalty points for the hand.
+Tout le monde est autorisé à savoir combien de cartes les autres joueurs ont en main à tout moment — si on vous demande, vous devez répondre honnêtement.
 
-This game is often played for money. In this case, before starting to play the players agree a stake - for example $1 per point - and at the end of the session each pair of players settles up according to the difference between their scores. When playing for money, if the person playing after you has only one card left, you should take precautions as follows to hinder them from winning:
+Le premier joueur qui réussit à jouer toutes les cartes de sa main gagne. Dès que cela se produit, le jeu se termine et la donne est marquée. (Les autres joueurs n'ont pas l'opportunité de se débarrasser de cartes en battant la ou les dernières cartes jouées par le gagnant.)
 
-- If single cards are being played, you should play your highest card.
+## Score
 
-- If it is your turn to lead, you should lead a combination more than one card if possible; otherwise you should lead your highest card.
+Les joueurs autres que le gagnant marquent des points de pénalité pour les cartes restant dans leur main. La pénalité est d'un point par carte si vous avez 9 cartes ou moins, deux points par carte si vous avez 10, 11 ou 12 cartes, et trois points par carte (soit 39 points) si vous avez vos 13 cartes à la fin, car vous n'avez jamais joué de cartes. Le gagnant, n'ayant plus de cartes, ne reçoit aucun point de pénalité.
 
-If you ignore these precautions, and as a result the person after you wins by playing their single card, you have to pay the losses of all three players. 
+Ce jeu est souvent joué pour de l'argent. Dans ce cas, avant de commencer, les joueurs conviennent d'une mise — par exemple 1 $ par point — et à la fin de la session, chaque paire de joueurs règle selon la différence entre leurs scores. En jouant pour de l'argent, si la personne qui joue après vous n'a plus qu'une carte, vous devez prendre les précautions suivantes pour l'empêcher de gagner :
 
-## Variations
+- Si des cartes seules sont jouées, vous devriez jouer votre carte la plus forte.
 
-There are many, many variations of Big Two - in fact I have not seen any two independent descriptions of the rules that agree completely. 
+- Si c'est votre tour de mener, vous devriez mener une combinaison de plus d'une carte si possible ; sinon, vous devriez mener votre carte la plus forte.
 
-One Chinese web site (GameSky - unfortunately no longer in existence), used the names Da Lao Er and Bu Bu Gao Sheng for a slightly different game from the one described here, which they called Choi Dai Dee. According to this site, in Dao Lao Er or Bu Bu Gao Sheng there are no flushes, and a full house cannot be used to beat a straight. Four of a kind or a straight flush can be played out of turn to beat any combination. When someone wins the others score 1 per card if they have 10 or fewer cards, or 2 per card if they have 11 or more.
+Si vous ignorez ces précautions, et qu'en conséquence la personne après vous gagne en jouant sa carte seule, vous devez payer les pertes des trois autres joueurs.
 
-### Direction of play
+## Variantes
 
-Some people play clockwise - I believe this is especially common in America, where virtually all card games are played in that direction. Harold Hutabarat tells me that clockwise play is usual in Indonesia. Some people play alternate hands anticlockwise and clockwise, which neutralises the advantage or disadvantage of playing next after a certain opponent. (The person playing immediately after a weak player is at an advantage).
+Il existe de très nombreuses variantes de Big Two — en fait, je n'ai vu aucune deux descriptions indépendantes des règles qui soient complètement d'accord.
 
-### Dealing and starting the play
+### Sens du jeu
 
-Many groups omit the procedure for deciding who receives the first card of the deal - the deal simply begins with the player to dealer's right (if playing anticlockwise) and therefore ends with the dealer.
+Certains jouent dans le sens des aiguilles d'une montre — je crois que c'est particulièrement courant en Amérique. Harold Hutabarat me dit que le jeu dans le sens horaire est habituel en Indonésie. Certains jouent des donnes alternées dans le sens antihoraire et horaire.
 
-In many groups, instead of the holder of the lowest card (normally the ![diamond](../images/internat/diamond.gif)3) playing the first card after each new deal, this only applies in the very first deal of a session. Thereafter the winner of each hand plays first in the next.
+### Distribution et début du jeu
 
-Some play that when the holder of the lowest card starts, this lowest card does not have to be included in the first play.
+Beaucoup de groupes omettent la procédure pour décider qui reçoit la première carte — la donne commence simplement par le joueur à la droite du donneur (si on joue dans le sens antihoraire) et se termine donc par le donneur.
 
-Others play that the 'loser' of each hand plays first in the next - the loser being the player who had most cards at the end of the play. If there is a tie for most cards, then those involved in the tie must expose their cards and each form the largest playable combination that they can from their cards. The next dealer and starter will be the player whose combination has the smallest number of cards, or in case of equality the weakest of these combinations.
+Dans beaucoup de groupes, au lieu que le détenteur de la carte la plus basse (normalement le ![carreau](../images/internat/diamond.gif)3) joue la première carte après chaque nouvelle donne, cela ne s'applique qu'à la toute première donne d'une session. Ensuite, le gagnant de chaque donne joue en premier dans la suivante.
 
-In Indonesia, the game is played in "rounds" of ten deals. Only the first deal of the round is begun by the ![diamond](../images/internat/diamond.gif)3. The next nine deals are started by whoever won the previous deal, and this player can begin with any legal card or combination. After each round (10 deals) is completed, all the cards are placed face down and each player draws one card. The highest will shuffle the cards and deal the player with ![diamond](../images/internat/diamond.gif)3 will start the play of this first deal of the new round.
+Certains jouent que lorsque le détenteur de la carte la plus basse commence, cette carte n'a pas à être incluse dans le premier jeu.
 
-### Order of suits
+D'autres jouent que le « perdant » de chaque donne joue en premier dans la suivante — le perdant étant le joueur qui avait le plus de cartes à la fin. S'il y a égalité pour le plus grand nombre, ceux concernés doivent montrer leurs cartes et former la plus grande combinaison jouable possible. Le prochain donneur et joueur de départ sera celui dont la combinaison a le plus petit nombre de cartes, ou en cas d'égalité la plus faible.
 
-In the game Pusoy Dos, played in the Philippines, the order of suits from high to low is diamonds, hearts, spades, clubs. In this case it is the player who holds the ![club](../images/internat/club.gif)3 rather than the ![diamond](../images/internat/diamond.gif)3 who starts.
+### Ordre des couleurs
 
-Some players in Taiwan and a few in Hong Kong interchange clubs and diamonds, so that the order is spades (high), hearts, diamonds, clubs (low) - as in Bridge. In this case the ![club](../images/internat/club.gif)3 starts.
+Dans le jeu Pusoy Dos, joué aux Philippines, l'ordre des couleurs de forte à faible est carreau, cœur, pique, trèfle. Dans ce cas, c'est le joueur qui détient le ![trèfle](../images/internat/club.gif)3 plutôt que le ![carreau](../images/internat/diamond.gif)3 qui commence.
 
-### Use of twos and aces in straights and straight flushes
+Certains joueurs à Taïwan et quelques-uns à Hong Kong intervertissent les trèfles et les carreaux, donc l'ordre est pique (fort), cœur, carreau, trèfle (faible) — comme au Bridge. Dans ce cas, le ![trèfle](../images/internat/club.gif)3 commence.
 
-Some play that A-2-3-4-5 is the highest, rather than the lowest type of straight or straight flush. Some play that 2-3-4-5-6 is highest, beating A-2-3-4-5, which in turn beats A-K-Q-J-10. Some play that 2-3-4-5-6 is highest, but A-2-3-4-5 is lowest.
+### Utilisation des deux et des as dans les suites et quintes flush
 
-Some do not allow A-2-3-4-5 as a valid straight or straight flush at all. Some allow twos to rank high in these combinations, so that 2-A-K-Q-J is valid and is the highest type of straight or straight flush and 6-5-4-3-2 is lowest. 
+Certains jouent que A-2-3-4-5 est la suite la plus forte, plutôt que la plus faible. Certains jouent que 2-3-4-5-6 est la plus forte, battant A-2-3-4-5, qui à son tour bat A-R-D-V-10.
 
-Yet others count 6-5-4-3-2 as second highest, between 2-A-K-Q-J and A-K-Q-J-10. The logic behind this ranking is that you compare the cards in descending order of their normal rank, so 2AKQJ beats 26543 because ace beats 6, and 26543 beats AKQJT because 2 beats ace.
+Certains ne permettent pas A-2-3-4-5 comme suite valide du tout. Certains permettent aux deux de se classer haut, de sorte que 2-A-R-D-V est valide et est le type le plus fort.
 
-Some simply play that for straights and straight flushes, the cards rank from 2 (high) to 3 (low) and twos and threes are never consecutive, so that the highest type of straight is 2-A-K-Q-J and the lowest is 7-6-5-4-3. Karl Boehnker tells me that this version is the most common one in Hong Kong.
+### Classement des couleurs
 
-In Indonesia, straights containing a two (A-2-3-4-5 and 2-3-4-5-6) beat all other straights, and between each other they are ranked according to the suit of the two (![diamond](../images/internat/diamond.gif)A-![spade](../images/internat/spade.gif)2-![diamond](../images/internat/diamond.gif)3-![heart](../images/internat/heart.gif)4-![club](../images/internat/club.gif)5 beats ![heart](../images/internat/heart.gif)2-![spade](../images/internat/spade.gif)3-![diamond](../images/internat/diamond.gif)4-![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)6, which beats ![spade](../images/internat/spade.gif)A-![club](../images/internat/club.gif)2-![heart](../images/internat/heart.gif)3-![spade](../images/internat/spade.gif)4-![diamond](../images/internat/diamond.gif)5).
+Certains jouent que le rang d'une couleur est déterminé par le rang de sa carte la plus forte ; la couleur n'a d'importance que si les cartes supérieures sont égales. C'est la version habituelle jouée à Hong Kong.
 
-### Ranking of flushes
+D'autres comparent d'abord tous les rangs, de la carte supérieure vers le bas, comme au Poker.
 
-Some play that the rank of a flush is determined by the rank of its highest card; the suit only becomes relevant if the highest cards are equal. So for example ![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)3 beats ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)6, which beats ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)8. This is the usual version played in Hong Kong.
+### Ordre de la quinte flush royale, des carrés et de la quinte flush
 
-Some compare all the ranks first, from the top card downward, as in Poker. Only if all five ranks are equal does the suit of the highest card determine which flush is higher. Using this method, ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)8 beats ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)6 because the king is higher than the jack.
+Certains jouent que seule une Quinte Flush Royale (A-R-D-V-10) peut battre un carré. N'importe quel carré bat n'importe quelle autre quinte flush.
 
-### Order of royal flush, quads and straight flush
+### Jouer sans brelans ni couleurs
 
-Some play that only a Royal Flush (A-K-Q-J-10) can beat a four of a kind. Any four of a kind beats any other straight flush. So ![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)10 beats ![spade](../images/internat/spade.gif)2-![heart](../images/internat/heart.gif)2-![club](../images/internat/club.gif)2-![diamond](../images/internat/diamond.gif)2-![heart](../images/internat/heart.gif)6, which beats ![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)3-![club](../images/internat/club.gif)3-![diamond](../images/internat/diamond.gif)3-![heart](../images/internat/heart.gif)8, which beats ![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9.
+Certains jouent sans brelans ni couleurs. Donc seules les cartes seules, les paires et les combinaisons de 5 cartes peuvent être jouées.
 
-### Playing without triples and flushes
+### Jouer les carrés sans carte impaire
 
-Some play without triples and flushes - I have one report of this from Singapore (Gary Chan) and one from Taiwan (Todd Latta). So only single cards, pairs and 5-card combinations can be played and the only 5-card combinations are straight, full house, four of a kind, and straight flush.
+Certains autorisent un carré à être joué seul, sans cinquième carte. Dans ce cas, les carrés forment un type de combinaison séparé, qui ne peut battre que des carrés inférieurs.
 
-### Playing quads without an odd card
+### Mains d'honneur battent toutes les combinaisons
 
-Some allow four of a kind can be played by itself, without a fifth card. In this case fours form a separate type of combination, which can only beat lower fours and be beaten by higher fours.
+Une main d'honneur est un carré plus une carte ou une quinte flush. Certains autorisent une main d'honneur à être jouée non seulement pour battre une main de 5 cartes inférieure, mais aussi pour battre des cartes seules, des paires ou des brelans.
 
-### Honour hands beat all combinations
+Jonathan Dushoff rapporte que cette variante est courante à Lukang (centre de Taïwan).
 
-An honour hand is a four of a kind plus a card or a straight flush. Some allow an honour hand to be played not only to beat a lower 5-card hand, but also to beat singles pairs or triples.
-played it. Jonathan Dushoff reports that this variation is common in Lukang (central Taiwan).
+### Deux cartes supplémentaires avec une quinte flush
 
-### Two extra cards with a straight flush
+Dans la version de Todd Latta, une quinte flush est jouée avec deux cartes supplémentaires, formant une combinaison de sept cartes. Un carré plus une carte ou une quinte flush plus deux cartes peuvent être joués pour battre n'importe quelle carte seule ou autre combinaison.
 
-In Todd Latta's version, a straight flush is played with any two extra cards, making a seven card combination. A four of a kind plus a card or a straight flush plus two cards can be played to beat any single card or other combination. A four of a kind plus a card can only be beaten by a higher four plus a card or a straight flush plus two, and a straight flush plus two is only beaten by a higher straight flush plus two.
+### Dragon gagnant
 
-### Dragon wins
+À Hong Kong, certains jouent qu'un joueur qui reçoit un dragon, qui est une carte de chaque rang : A-2-3-4-5-6-7-8-9-10-V-D-R, gagne immédiatement. Chacun des autres joueurs marque comme s'il avait perdu sans jouer de cartes (39 points de pénalité).
 
-In Hong Kong, some play that a player who is dealt a dragon, which is one card of each rank: A-2-3-4-5-6-7-8-9-10-J-Q-K, immediately wins the game. Each of the other players scores as though they lost without playing any cards (39 penalty points).
+### Pas de jeu après un passe
 
-### No Play after a Pass
+En Indonésie, un joueur qui a passé n'est pas autorisé à jouer lors des tours suivants du même pli. Ayant passé, vous ne pouvez pas jouer à nouveau jusqu'à ce qu'une carte ou combinaison soit passée par tous les joueurs et que le jeu redémarre.
 
-In Indonesia, a player who has passed is not allowed to play cards in subsequent turns of the same trick. Having passed, you cannot play again until a card or combination is passed by all players and the play is restarted. If you play a card or combination and no one else beats it, you are allowed to beat your own cards. In this case, no one will be allowed to beat your second play, since they have all passed your first play. Example: you hold 3-3-8-8-10-10. You lead your 3-3 and the second player, holding 2-2 and no other pairs, decides not to waste these high cards. The other two players also pass. Now you can play your 8-8, the player with 2-2 is not allowed to play, having passed, and so you win with your 10-10.
+### Dernière carte
 
-### Last Card
+Certains exigent qu'un joueur qui n'a plus qu'une carte doit l'annoncer.
 
-Some require that a player who has only one card left must announce this.
+Certains exigent que si vous jouez juste avant un joueur qui n'a qu'une carte, vous devez jouer votre carte seule la plus forte ou une combinaison de plus d'une carte.
 
-Some require that if you are playing immediately before a player who has only one card you must play your highest single card or a combination of more than one card. (This could be against your interests - you might otherwise wish to help the player after you to win, so as to catch another player with a large number of cards.)
+Certains jouent que vous ne pouvez pas gagner en gardant le deux de pique comme dernière carte.
 
-In Indonesia, a player with only two cards or only one card is obliged to announce this, but the next player is not placed under any constraints as a result.
+### Jouer jusqu'à ce qu'un seul joueur ait des cartes
 
-Some play that you cannot win by keeping the two of spades as your last card.
+Certains ne terminent pas le jeu quand un joueur n'a plus de cartes. Au lieu de cela, les autres continuent à jouer, en abandonnant au fur et à mesure, jusqu'à ce qu'un seul joueur reste.
 
-### Playing until only one player has cards
+### Variantes de score
 
-Some do not end the play when one player runs out of cards. Instead the others continue to play, dropping out as they run out of cards, until only one player remains. If a player's last card (or combination) is not beaten by any other player, the turn to start again with any legal play passes to the next player in turn after the one who has just finished.
+Certains jouent que seul le gagnant collecte de l'argent de chacun des trois autres joueurs, selon le nombre de cartes que chacun a. Il n'y a pas de paiements entre les perdants.
 
-### Scoring variations
+Certains jouent avec des pénalités plus élevées — double si vous vous retrouvez avec 8 ou 9 cartes, triple avec 10-12 et quadruple avec 13 cartes.
 
-Some play that only the winner collects money from each of the other three players, according to the number of cards each has left. there are no payments between the losers.
+### Big Two de Hong Kong
 
-Some play that the double score for having 10 or more cards at the end applies only to the starter - the person who played the first card of the deal.
+Ivan Ip décrit une version de Big Two qu'il dit standard à Hong Kong. Les couleurs sont comparées selon le rang de la carte la plus forte. V-D-R-A-2 n'est pas une suite valide. La suite la plus forte est A-2-3-4-5, puis 2-3-4-5-6, V-D-R-A, 9-10-V-D-R, et ainsi de suite jusqu'à 3-4-5-6-7 (la plus faible). Un dragon gagne la donne immédiatement. La donne ne peut pas être gagnée en jouant un seul ![pique](../images/internat/spade.gif)2 comme dernière carte. Les deuxième donne et suivantes sont commencées par le gagnant de la donne précédente.
 
-Some play with greater penalties - double score if you are left with 8 or 9 cards, triple with 10-12 and quadruple with 13 cards.
+## Jeu à trois joueurs
 
-Some reckon double penalty points for any hand with 8 or more cards when someone finishes. Some apply a further double for 10 or more cards (i.e. 40 points for 10 cards, 44 for 11 and so on). Some double the penalty yet again for each two remaining in a player's cards at the end. So if you had nine cards at the end including two twos you would lose 9 x 2 x 2 x 2 = 72 points. 
+Dix-sept cartes sont distribuées à chaque joueur, et la dernière carte est placée face visible au centre de la table. Le détenteur du trois de carreau ajoute cette carte supplémentaire à sa main. Le reste du jeu est comme dans la version à quatre joueurs.
 
-Anthony Kam reports a variant, which may be rare, in which it is the difference between the number of cards held by each pair of players that determines whether the payment between that pair of players is doubled. For example, playing with double payments for 9-11 cards, a player with 10 cards would pay 20 stakes to the winner, but only 8 stakes to a player with two cards (because 10-2 is less than 9).
+## Jeu à deux joueurs
 
-Some simplify the scoring by simply paying one point per card, without doubling. Unfortunately this reduces the incentive for a player to take a risk in order to catch someone with a large number of cards.
+La pratique varie sur le nombre de cartes distribuées. Certains distribuent 17 cartes à chaque joueur et les 18 cartes restantes sont mises de côté. D'autres jouent avec 21 cartes chacun et 10 non utilisées, d'autres avec 13 cartes chacun et 26 non utilisées.
 
-Some play that if the winner's last play consists entirely of twos (a single two, a pair of twos or even three twos), the penalties for the other players are doubled.
+## Autres sites et logiciels Big Two
 
-Some count penalty points by adding up the values of cards left in the players' hands. There are various scales of values, for example in some groups numeral cards 2-10 score 1 point each; jacks, queens and kings 2 points; aces 3 points; and twos 4 points each. Some count 1 point for a three, 2 for a four, 3 for a five, and so on up to 11 points for a king, 12 for an ace and 13 for a two. These penalty points are doubled for a player who has 10 or more cards.
+- Une analyse Dai Di avec les règles du Chor Dai Di de Singapour a été produite par Teo Kai Meng, Roddy Kok Yik Siong, Jeremy Ang Kay Yong et Ivan Lim Wen Chiang en juin 2000.
 
-Jonathan Dushoff reports a version played in Taiwan in which the winner is paid a fixed amount by the loser only. Which player is the loser is determined by looking at the remaining cards of the players other than the winner:
+- Page de Nicholas Cheung avec les règles du [Choi Dai Di](https://web.archive.org/web/20220722152033/http://www.nicholasc.info/cardgames/choidaidi.html) (copie d'archive)
 
-- If anyone has a honour combination (straight plus or quads plus a card) the holder of the highest such combination loses.
+- Une version en tuiles de Big Two est publiée par la firme coréenne Dagoy sous le nom de [Lexio](https://boardgamegeek.com/boardgame/19184/lexio).
 
-- If no one has an honour combination, the holder of the highest two or ace loses;
+- Sur [playfacetoface](https://www.playfacetoface.com/bigtwo) vous pouvez jouer à Big Two gratuitement en ligne.
 
-- If there are no honour combinations, twos or aces, the holder of the largest number of cards loses;
+- [Netbig2](https://playnetbig2.homestead.com/) est un programme pour jouer à la version de Hong Kong de Big Two en ligne.
 
-- If there are no honour combinations and there is a tie for most cards, the holder of the highest card loses even if it is lower than an ace.
+- Big Two en ligne de [Semag Games](https://www.semaggames.nl/BigTwo/).
 
-The Philippine game Pusoy Dos is normally played with positive points rather than penalty points. The winner (the first player to run out of cards) normally scores 1 point and the others score nothing. However, if you win and your last play includes a deuce (two) you score 2 points; if it contains two deuces you score 4 points, if it includes three deuces you score 8 points, and if you were to win by playing all four deuces you would score 16 points.
+- [Vinagames](https://www.vinagames.com) propose un jeu Big Two en ligne en Java.
 
-When playing the version that goes on until only one player has cards left, the person who runs out of cards first wins five points, the second player wins 3 points, the third wins 1 points and the last one gets no points.
-
-Harold Hutabarat reports that in Indonesia the following scoring is used:
-
-- Special cards: The following combinations are rewarded with negative points if played during the hand and not beaten. They are worth nothing if the holder does not play them before the play finishes, or if they are played and beaten.
-
-| Four of a kind (any but four twos):   | -20 points. |
-| Straight flush: | -40 points |
-| Four twos: | -80 points |
-
-If you play one of these combinations as the final cards in your hand, so ending the play, the score for it is doubled.
-
-- The player who finishes the game with a normal card (from 3 to Ace) or a combination of normal cards scores -5 points. Each two used in the combination that ends the game is valued as -10; for example if you end the game with a pair of twos, then you get -20.
-
-- The scores of the players other than the winner are calculated as follows:
-
-- Each card from 3 to Ace remaining in hand scores 1 point
-
-- Each two remaining in hand scores 5 points.
-
-- A player left with 11 or 12 cards when the play ends scores double points. If you still have all 13 cards then your score for that hand will be multiplied by three.
-
-### Hong Kong Big Two
-
-Ivan Ip describes a version of Big Two that he says is standard in Hong Kong (though other variants certainly exist there). Flushes are compared according to the rank of the highest card. JQKA2 is not a valid straight or straight flush. The highest straight or straight flush is A2345, then 23456, TJQKA, 9TJQK, and so on down to 34567 (lowest). A dragon wins the hand outright. The deal cannot be won by playing a single ![spade](../images/internat/spade.gif)2 as your last card. The second and subsequent deals are begun by the winner of the previous deal.
-
-## Three Player Game
-
-Seventeen cards are dealt to each player, and the last card is placed face up in the centre of the table (one report says that this last card is dealt face down). The holder of the three of diamonds adds this extra card to their hand. If it turns out that the last face down card is the ![diamond](../images/internat/diamond.gif)3 then the holder of the ![club](../images/internat/club.gif)3 must take it. The rest of the play is as in the four-player version.
-
-Some play that from the second deal onwards, immediately after the deal, the loser of the previous deal must give their highest card to the winner in exchange for an unwanted card from that player. This rule applies only to the three-player game.
-
-Some play with only 13 cards dealt to each player. In this case the holder of the lowest dealt card starts. Anyone who passes must draw a card from the undealt stock and add it to their hand. When the stock is used up, play can continue without drawing, or in some groups the played cards that have been set aside are shuffled and used as a new stock for drawing. Some play that if you pass when a combination of cards was needed, you draw not one card but the number of cards you would have had to play.
-
-Normally the payment per card at the end from a player holding more than 13 cards is the same as from a player with 13 cards, usually 3 points per card.
-
-## Two Player Game
-
-Practice varies on the number of cards dealt. Some play that 17 cards are dealt to each player and the remaining 18 cards are set aside unused. Others play with 21 cards each and 10 cards unused, yet others with 13 cards each and 26 unused. The play is as in the four-player game; the holder of the lowest dealt card starts.
-
-Some play that a player who passes must draw a card or cards, as in the equivalent variation of the three-player game.
-
-## Other Big Two WWW sites and software
-
-Descriptions of the game and variations.
-
-- A paper Dai Di Analysis giving rules of Singapore Chor Dai Di and an analysis of its strategy and probabilities was produced by Teo Kai Meng, Roddy Kok Yik Siong, Jeremy Ang Kay Yong and Ivan Lim Wen Chiang in June 2000.
-
-- Nicholas Cheung's page with rules of [Choi Dai Di](https://web.archive.org/web/20220722152033/http://www.nicholasc.info/cardgames/choidaidi.html) (archive copy)
-
-- Archive copy of a page on [Sikitcha](https://web.archive.org/web/20001121122600/http://www.peyups.com/sikitcha/index.khtml) - a variation of Pusoy Dos
-
-- A tile version of Big Two is published by the Korean firm Dagoy under the name [Lexio](https://boardgamegeek.com/boardgame/19184/lexio). It is played with plastic tiles numbered from 1 to 15 in each of the four suits, making a 5-player game possible in which each player is dealt 12 tiles. Chips are supplied for keeping score: each player is supplied 149 points' worth of chips at the start and a game ends after 5 deals or when a player runs out of chips if that happens sooner. The [BoardGameGeek page on Lexio](https://boardgamegeek.com/boardgame/19184/lexio) includes links to English translations of the rules.
-
-Software and online games
-
-- At [playfacetoface](https://www.playfacetoface.com/bigtwo) you can play Big Two free online in a browser against human opponents.
-
-- [Netbig2](https://playnetbig2.homestead.com/) is a program with which you can play the Hong Kong version of Big Two online against live opponents.
-
-- Online [Big Two](https://www.semaggames.nl/BigTwo/) from Semag Games.
-
-- [Vinagames](https://www.vinagames.com) offers a Java on line Big Two game.
-
-- You can play Big 2 online against live opponents ar [pickup.cards](https://pickup.cards/)
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Big Two
+- Vous pouvez jouer à Big 2 en ligne contre des adversaires sur [pickup.cards](https://pickup.cards/)

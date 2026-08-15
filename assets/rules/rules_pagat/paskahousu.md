@@ -3,119 +3,109 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A Finnish card game related to the international game Shithead, in which the aim is to get rid of all your cards.
+**But :** Un jeu de cartes finlandais apparenté au jeu international Shithead, dont le but est de se débarrasser de toutes ses cartes.
 
 ---
 
-This page is based on contributions from several people, including Anthony Smith, Kuromiya Kimihiko and Markku Jaatinen.
+Cette page est basée sur les contributions de plusieurs personnes, dont Anthony Smith, Kuromiya Kimihiko et Markku Jaatinen.
 
 - Introduction
 
-- Players and cards
+- Joueurs et cartes
 
 ## Introduction
 
-The name of the popular Finnish game means "Shit Pant": *paska* = shit and *housu* is the singlar form of *housut* which means trousers - more precisely it means a person with shitty pants, in other words a coward. The game is related to, but not the same as Shithead, a game which was carried around the world by backpackers in the last decades of the 20th century and thus became popular with young people worldwide.
+Le nom de ce jeu finlandais populaire signifie « culotte à merde » : *paska* = merde et *housu* est le singulier de *housut* qui signifie pantalon — plus précisément cela désigne une personne avec un cul sale, en d'autres termes un lâche. Le jeu est apparenté, mais pas identique au Shithead, un jeu qui a été transporté autour du monde par les routards dans les dernières décennies du XXe siècle et est ainsi devenu populaire auprès des jeunes du monde entier.
 
-**Note**: the game on this page is the version in which the cards are played face up. The version with face down cards, which previously apeared on pagat.com under the name Paskahousu, is properly known as Valepaska, and now has its own page.
+**Note** : le jeu sur cette page est la version dans laquelle les cartes sont jouées face visibles. La version avec cartes face cachées, qui apparaissait précédemment sur pagat.com sous le nom Paskahousu, est correctement connue sous le nom de Valepaska, et a maintenant sa propre page.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is probably most enjoyable for 3 to 5 players, but it is possible for two or for six or more to play. Deal and play are clockwise.
+Le jeu est probablement plus amusant pour 3 à 5 joueurs, mais il est possible de jouer à deux ou à six ou plus. La donne et le jeu se font dans le sens horaire.
 
-A standard 52-card pack is used, the cards ranking from high to low 2-A-K-Q-J-10-9-8-7-6-5-4-3. Twos, Tens and Aces are special cards. Suits are irrelevant in this game.
+On utilise un jeu standard de 52 cartes, les cartes allant de haut en bas 2-A-R-D-V-10-9-8-7-6-5-4-3. Les deux, les dix et les as sont des cartes spéciales. Les couleurs sont sans importance dans ce jeu.
 
-## Deal
+## La donne
 
-The dealer deals 
-everybody a batch of two cards, then two cards again, then one card, so that each player has five cards.
+Le donneur distribue à chacun un lot de deux cartes, puis encore deux cartes, puis une carte, de sorte que chaque joueur a cinq cartes.
 
-The remaining cards are stacked face down to form a drawing stock.
+Les cartes restantes sont empilées face cachées pour former une pioche.
 
-## Play
+## Jeu
 
-The player who has most threes in his hand plays first. If 
-several have equally many threes, then of those players the first in order counting clockwise from the dealer's left starts. If no one has a three then the player 
-with most fours starts, with ties broken in the same way; if no one has any fours either, the player with the most fives starts and so on.
+Le joueur qui a le plus de trois en main joue en premier. Si plusieurs en ont autant, c'est le premier dans le sens horaire à partir de la gauche du donneur qui commence. Si personne n'a de trois, c'est le joueur avec le plus de quatre qui commence, les égalités étant départagées de la même façon ; si personne n'a de quatre non plus, le joueur avec le plus de cinq commence, et ainsi de suite.
 
-The object of the game is to get rid of one's cards by playing them to a face up play pile, which is in the centre of the table next to the stock pile. 
+Le but du jeu est de se débarrasser de ses cartes en les jouant dans un tas face visible au centre de la table, à côté de la pioche.
 
-The first player begins by playing the three(s) (or four(s), etc.) that determined the starting player. Then the players play in turn in clockwise order. At your turn there are three possibilities:
+Le premier joueur commence par jouer le ou les trois (ou quatre, etc.) qui ont déterminé le joueur de départ. Ensuite, les joueurs jouent à tour de rôle dans le sens horaire. À votre tour, il y a trois possibilités :
 
-- Play a card or two or more cards of the same rank from your hand to the play pile, provided that the following restrictions are observed: 
+- Jouer une carte ou deux cartes ou plus de même valeur de votre main sur le tas, à condition que les restrictions suivantes soient respectées :
 
-- If the play pile is not empty, the cards played must be equal to or higher than the top card of the pile.
+- Si le tas n'est pas vide, les cartes jouées doivent être égales ou supérieures à la carte du haut du tas.
 
-- Picture cards can only be played if the top card of the pile is higher than six.
+- Les figures ne peuvent être jouées que si la carte du haut du tas est supérieure à six.
 
-- Aces can only be played if the top card of the pile is a picture or another ace.
+- Les as ne peuvent être joués que si la carte du haut du tas est une figure ou un autre as.
 
-- Twos can be played on any card except an ace or ten, and since they are the highest card, nothing can be played on a two except another two.
+- Les deux peuvent être joués sur n'importe quelle carte sauf un as ou un dix, et comme ils sont la carte la plus haute, rien ne peut être joué sur un deux sauf un autre deux.
 
-- Nothing can be played on a ten except another ten, and nothing can be played on an ace except another ace.
+- Rien ne peut être joué sur un dix sauf un autre dix, et rien ne peut être joué sur un as sauf un autre as.
 
-- If the play pile is empty, any card (or set of equal cards) can be played.
+- Si le tas est vide, n'importe quelle carte (ou ensemble de cartes égales) peut être jouée.
 
-- If you cannot or do not wish to play, pick up the whole of the play pile and add the cards to your hand, and it is then the next player's turn to play to the empty table.
+- Si vous ne pouvez ou ne voulez pas jouer, ramassez tout le tas et ajoutez les cartes à votre main, et c'est au joueur suivant de jouer sur la table vide.
 
-- If the stock is not empty, draw the top card of the stock and try to play it. If the play is legal according to the above restrictions, the card is played. If not, the card you drew and the whole play pile is added to your hand and the turn passes to the next player.
+- Si la pioche n'est pas vide, piochez la carte du dessus de la pioche et essayez de la jouer. Si le jeu est légal selon les restrictions ci-dessus, la carte est jouée. Sinon, la carte que vous avez piochée et tout le tas sont ajoutés à votre main et le tour passe au joueur suivant.
 
-If after playing you have fewer than five cards in your hand and the stock is not empty, you must draw cards from top of the stock until you have a hand of five cards again. Only when the stock is empty can players hold fewer than five cards.
+Si après avoir joué vous avez moins de cinq cartes en main et que la pioche n'est pas vide, vous devez piocher des cartes du dessus de la pioche jusqu'à avoir une main de cinq cartes. Ce n'est que lorsque la pioche est vide que les joueurs peuvent avoir moins de cinq cartes.
 
-In certain circumstances the play pile is *cleared* (or *falls*). All the cards of the play pile are set aside out of the game and the **same player** plays again to the empty table to start a new pile. There are three ways to clear the play pile:
+Dans certaines circonstances, le tas est *nettoyé* (ou *tombe*). Toutes les cartes du tas sont mises de côté hors du jeu et le **même joueur** joue à nouveau sur la table vide pour commencer un nouveau tas. Il y a trois façons de nettoyer le tas :
 
-- If one or more **tens** are played on a lower card, the pile is cleared.
+- Si un ou plusieurs **dix** sont joués sur une carte inférieure, le tas est nettoyé.
 
-- If one or more **aces** are played on a picture card, the pile is cleared.
+- Si un ou plusieurs **as** sont joués sur une figure, le tas est nettoyé.
 
-- If there are **four cards of the same rank** on top of the pile, the pile is cleared. 
+- S'il y a **quatre cartes de même valeur** sur le dessus du tas, le tas est nettoyé.
 
-A ten played to the empty table does not clear itself. It remains on the table and the only cards that can be played on it are more tens. This continues until a player picks up the tens, allowing the following player to start again with an empty table. In the same way an ace played to the empty table stays, and only aces can be played on it.
+Un dix joué sur la table vide ne se nettoie pas lui-même. Il reste sur la table et seuls des dix peuvent être joués dessus. Cela continue jusqu'à ce qu'un joueur ramasse les dix, permettant au joueur suivant de recommencer avec une table vide. De la même façon, un as joué sur la table vide reste, et seuls des as peuvent être joués dessus.
 
-If the stock is empty, a player who has no cards is out of the game. (If it is that player's turn to play, because the last card cleared the pile, the turn to play passes to the left.) The other players continue until only one player has cards. This player is the loser, and is called *paskahousu*.
+Si la pioche est vide, un joueur qui n'a plus de cartes est éliminé du jeu. (Si c'est le tour de ce joueur de jouer, parce que la dernière carte a nettoyé le tas, le tour passe à gauche.) Les autres joueurs continuent jusqu'à ce qu'un seul joueur ait des cartes. Ce joueur est le perdant, et est appelé *paskahousu*.
 
-## Tactics
+## Tactique
 
-While there are cards in the stock, players are trying to collect as strong a hand as possible for the endgame, when the stock has been 
-exhausted. A player who already has good cards in the first phase, 
-including a few deuces, may choose to pick up the play pile rather than let go strong cards before the endgame. 
+Tant qu'il y a des cartes dans la pioche, les joueurs essaient de constituer la main la plus forte possible pour la fin de partie, quand la pioche sera épuisée. Un joueur qui a déjà de bonnes cartes dans la première phase, y compris quelques deux, peut choisir de ramasser le tas plutôt que de se débarrasser de cartes fortes avant la fin de partie.
 
-If the stock is not empty and you cannot play, it is often worthwhile to turn the top card of the stock and try to play that. 
+Si la pioche n'est pas vide et que vous ne pouvez pas jouer, cela vaut souvent la peine de retourner la carte du dessus de la pioche et d'essayer de la jouer.
 
-It can be worth picking up the play pile voluntarily if it contains a lot of picture cards and not too many different ranks of pip cards. Players should try to clear the pile rather than leaving an attractive pile for the next player to pick up. 
+Il peut valoir la peine de ramasser le tas volontairement s'il contient beaucoup de figures et pas trop de valeurs différentes de petites cartes. Les joueurs devraient essayer de nettoyer le tas plutôt que de laisser un tas attractif pour que le joueur suivant le ramasse.
 
-It is good to hold onto deuces, if possible keeping at least as many as the player before you - otherwise this opponent can at some point force use a deuce to force you to pick up a pile containing many small cards.
+Il est bon de conserver des deux, si possible en gardant au moins autant que le joueur précédent — sinon cet adversaire peut à un moment donné forcer l'utilisation d'un deux pour vous obliger à ramasser un tas contenant beaucoup de petites cartes.
 
-## Variations
+## Variantes
 
-Starting the game
-Some play that the player to dealer's left starts by playing one or more threes if he can. If not the next player can start with one or more threes and so on around the table. If no one can play a three the player to dealer's left can start with any card.
-Playing pictures
-Some play that pictures may only be played if the previous card was higher than 7. Some play that they can only be played if the previous card is higher than 8 - i.e. only on nines and other pictures - unless all the nines are out of the game, in which case they can be played on eights.
-Sets of pictures, aces and twos
-Some play that more than one card can be played only if the cards are 10 or lower. Pictures, aces and twos can only be played singly. Some apply this rule only to twos.
-Aces and tens
-Some play that when an ace or ten is played to the empty table, the next player must pick it up (they cannot play another ace or ten). There is a problem that this can lead to a stalemate in which aces and tens circulate endlessly. Some solve this problem by ruling that when an ace or ten is played to the empty table, the next player picks it up and then the person who played the ace or ten plays again. Some play that an ace or ten played to an empty table clears itself: it is discarded from the game and the same player plays again.
-Playing to the empty table
-Some do not allow tens or aces to be played to the empty table. Some also disallow kings, queens and jacks. Some apply these restrictions can only while there are cards in the stock. Others apply them always, in which case if the table and the stock pile are empty and the player whose turn it is has no playable card, the player passes and it is the next player's turn.
-More than one deck
-When there are a lot of players - say six or more - some prefer to play with two decks shuffled together. In this case it may be agreed that four equal cards on top of the play pile do not clear the pile.
-Only black twos, tens and aces are special
-Some play that only black tens and aces clear the play pile and only black twos are high. Red twos are the lowest cards, below the threes, and red tens and aces are just ordinary cards with no special effect. Presumably a black ten can be played on a red ten and a black ace on a red ace but not vice versa.
-Changed play after drawing
-One correspondent reports that if, while replenishing your hand after playing, you draw another card that you could have played, you can substitute this for the card you previously played. For example: the last card played was a 4. You played 
-a 7. Then you drew a card from the stock and found it a 6. In this case 
-you can play it, putting the 7 back in your hand, because a 6 is higher 
-than a 4 and playable. I suspect this variation is unusual, since no other source mentions it.
+Début du jeu
+Certains jouent que le joueur à la gauche du donneur commence en jouant un ou plusieurs trois s'il le peut. Sinon, le joueur suivant peut commencer avec un ou plusieurs trois, et ainsi de suite autour de la table. Si personne ne peut jouer un trois, le joueur à la gauche du donneur peut commencer avec n'importe quelle carte.
+Jeu des figures
+Certains jouent que les figures ne peuvent être jouées que si la carte précédente était supérieure à 7. Certains jouent qu'elles ne peuvent être jouées que si la carte précédente est supérieure à 8 — c'est-à-dire seulement sur des neuf et d'autres figures — à moins que tous les neuf soient sortis du jeu, auquel cas elles peuvent être jouées sur des huit.
+Ensembles de figures, as et deux
+Certains jouent que plus d'une carte ne peut être jouée que si les cartes sont de valeur 10 ou moins. Les figures, as et deux ne peuvent être joués qu'individuellement. Certains n'appliquent cette règle qu'aux deux.
+As et dix
+Certains jouent que lorsqu'un as ou un dix est joué sur la table vide, le joueur suivant doit le ramasser (il ne peut pas jouer un autre as ou dix). Il y a un problème : cela peut mener à une impasse où les as et les dix circulent indéfiniment. Certains résolvent ce problème en décidant que lorsqu'un as ou un dix est joué sur la table vide, le joueur suivant le ramasse puis la personne qui a joué l'as ou le dix joue à nouveau. Certains jouent qu'un as ou un dix joué sur une table vide se nettoie lui-même : il est écarté du jeu et le même joueur joue à nouveau.
+Jeu sur la table vide
+Certains ne permettent pas de jouer des dix ou des as sur la table vide. Certains interdisent aussi les rois, dames et valets. Certains n'appliquent ces restrictions que lorsqu'il y a des cartes dans la pioche. D'autres les appliquent toujours, auquel cas si la table et la pioche sont vides et que le joueur dont c'est le tour n'a pas de carte jouable, le joueur passe son tour et c'est au joueur suivant.
+Plus d'un jeu
+Quand il y a beaucoup de joueurs — disons six ou plus — certains préfèrent jouer avec deux jeux mélangés ensemble. Dans ce cas, on peut convenir que quatre cartes égales sur le dessus du tas ne nettoient pas le tas.
+Seuls les deux, dix et as noirs sont spéciaux
+Certains jouent que seuls les dix et as noirs nettoient le tas et seuls les deux noirs sont hauts. Les deux rouges sont les cartes les plus basses, en dessous des trois, et les dix et as rouges sont de simples cartes sans effet spécial. On suppose qu'un dix noir peut être joué sur un dix rouge et un as noir sur un as rouge mais pas l'inverse.
+Jeu modifié après pioche
+Un correspondant rapporte que si, en reconstituant votre main après avoir joué, vous piochez une autre carte que vous auriez pu jouer, vous pouvez la substituer à la carte que vous avez jouée précédemment. Par exemple : la dernière carte jouée était un 4. Vous avez joué un 7. Ensuite vous avez pioché une carte de la pioche et trouvé un 6. Dans ce cas, vous pouvez la jouer, en remettant le 7 dans votre main, car un 6 est supérieur à 4 et jouable. Je soupçonne que cette variante est inhabituelle, car aucune autre source ne la mentionne.
 Pöytäpaska
-This variation whose name means "table shit" is also known as **Espanjalainen paskahousu** (Spanish Shitpants). There are two or three players. In addition to a five-card hand, each player is dealt four cards face down and four cards face up on the table. The face-up cards are played after the stock and the cards in your hand have exhausted. After that the face down cards are played, but you are not allowed to look at a face down card before you try to play it. If is not playable you pick up the card and the play pile and this becomes your hand, which you must get rid of before you can continue playing from the table. There are variations of Pöytäpaska that are almost identical to Shithead: some play that an ace does not clear the play pile, that a ten can be played on anything, that aces and picture cards can be played on the top of all smaller or equal cards, and that anything can be played on a two. Some deal only three cards to each player and three face down and three face up table cards.
+Cette variante dont le nom signifie « merde de table » est aussi connue sous le nom de **Espanjalainen paskahousu** (Paskahousu espagnol). Il y a deux ou trois joueurs. En plus d'une main de cinq cartes, chaque joueur reçoit quatre cartes face cachées et quatre cartes face visibles sur la table. Les cartes face visibles sont jouées après que la pioche et les cartes en main sont épuisées. Ensuite, les cartes face cachées sont jouées, mais vous n'êtes pas autorisé à regarder une carte face cachée avant d'essayer de la jouer. Si elle n'est pas jouable, vous ramassez la carte et le tas, ce qui devient votre main, que vous devez épuiser avant de pouvoir continuer à jouer depuis la table. Il existe des variantes de Pöytäpaska presque identiques au Shithead : certains jouent qu'un as ne nettoie pas le tas, qu'un dix peut être joué sur n'importe quoi, que les as et les figures peuvent être joués par-dessus toutes les cartes inférieures ou égales, et que n'importe quoi peut être joué sur un deux. Certains ne distribuent que trois cartes à chaque joueur et trois cartes face cachées et trois cartes face visibles sur la table.
 Ruotsalainen paskahousu
-In this variant ("Swedish Shitpant") all the cards are dealt, and there is no stock. 
+Dans cette variante (« culotte à merde suédoise »), toutes les cartes sont distribuées, et il n'y a pas de pioche.
 
-## Other Paskahousu web pages
+## Autres pages sur Paskahousu
 
-The [wikipedia page on Paskahousu](https://en.wikipedia.org/wiki/Paskahousu) has rules for Paskahousu and several variants.
+La [page Wikipedia sur Paskahousu](https://en.wikipedia.org/wiki/Paskahousu) contient des règles pour Paskahousu et plusieurs variantes.
 
-The [Paskahousu page](https://web.archive.org/web/20130325061304/http://www.korttipelit.net/Paskahousu) by Cristian Seres has rules for paskahousu and its variants in Finnish.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Paskahousu
+La [page Paskahousu de Cristian Seres](https://web.archive.org/web/20130325061304/http://www.korttipelit.net/Paskahousu) contient des règles en finlandais pour Paskahousu et ses variantes.

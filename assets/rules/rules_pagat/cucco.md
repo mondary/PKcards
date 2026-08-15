@@ -2,24 +2,24 @@
 
 **Difficulté :** —
 **Type :** Point-trick, Plis
-**But :** Trick-taking games played with cuckoo cards in Italy.
-**Autres noms :** Brescia because this city is ca
+**But :** Jeux de prises joués avec des cartes coucou en Italie.
+**Autres noms :** Brescia (parce que cette ville est ca...)
 
 ---
 
-*This page is based on a contribution from Virgilio Ferrari.*
+*Cette page est basée sur une contribution de Virgilio Ferrari.*
 
 ## Introduction
 
-The Italian name of the game is **Cucco**; in the dialect of Bergamo, it is called **Cöch**. The version described here was played at the end of 1970s near lake Iseo. 
+Le nom italien du jeu est **Cucco** ; dans le dialecte de Bergame, il est appelé **Cöch**. La version décrite ici était jouée à la fin des années 1970 près du lac d'Iseo.
 
-Cöch is a partnership trick-taking game for four players, with partners sitting opposite. Like most Italian games it is played anticlockwise. Adaptations for two and three players, and the five player variation Zifuli are described at the end.
+Le Cöch est un jeu de prises en partenariat pour quatre joueurs, les partenaires se faisant face. Comme la plupart des jeux italiens, il se joue dans le sens antihoraire. Des adaptations pour deux et trois joueurs, ainsi que la variante à cinq joueurs Zifuli sont décrites à la fin.
 
-## The Cards
+## Les cartes
 
-Cöch is played with the special Cucco deck, now manufactured only by Masenghini of Bergamo. The deck consists of 20 pairs of identical cards - 40 cards altogether.
+Le Cöch se joue avec le jeu spécial Cucco, aujourd'hui fabriqué uniquement par Masenghini de Bergame. Le jeu se compose de 20 paires de cartes identiques — 40 cartes au total.
 
-For the purposes of this game, the cards are divided into two suits of 20 cards. The first suit consists of the so-called **Figure** (pictures), which are identified by Roman numbers from **I** to **X** (two of each card).
+Pour les besoins de ce jeu, les cartes sont divisées en deux couleurs de 20 cartes. La première couleur se compose des **Figure** (images), identifiées par des chiffres romains de **I** à **X** (deux de chaque carte).
 
 ![I](../images/cucco/I.gif)
 ![II](../images/cucco/II.gif)
@@ -32,7 +32,7 @@ For the purposes of this game, the cards are divided into two suits of 20 cards.
 ![VIIII](../images/cucco/VIIII.gif)
 ![X](../images/cucco/X.gif)
 
-The second suit consists of **Matte** (Jokers) which are, in ascending order of rank: **Matto** (Fool), **Mascherone** (Great mask), **Secchia** (Bucket), **Nulla** (Zero), **XI Osteria** (Inn), **XII Gatto** (Cat), **XIII Cavallo** (Horse), **XIIII Bragon**, **XV Cucco** (cuckoo), **Brescia** (a Lion, here known as Brescia because this city is called the Lioness of Italy).
+La deuxième couleur se compose des **Matte** (Jokers) qui sont, par ordre croissant de rang : **Matto** (Fou), **Mascherone** (Grand masque), **Secchia** (Seau), **Nulla** (Zéro), **XI Osteria** (Auberge), **XII Gatto** (Chat), **XIII Cavallo** (Cheval), **XIIII Bragon**, **XV Cucco** (coucou), **Brescia** (un Lion, ici connu sous le nom de Brescia parce que cette ville est appelée la Lionne d'Italie).
 
 ![MATTO](../images/cucco/MATTO.gif)
 ![MASCH](../images/cucco/MASCH.gif)
@@ -45,66 +45,58 @@ The second suit consists of **Matte** (Jokers) which are, in ascending order of 
 ![CUCCO](../images/cucco/CUCCO.gif)
 ![BRESCIA](../images/cucco/BRESCIA.gif)
 
-The cards have point values and the object is to take tricks containing
-valuable cards. The point values are as follows:
+Les cartes ont des valeurs en points et le but est de gagner des plis contenant des cartes de valeur. Les valeurs en points sont les suivantes :
 
-Figure **V, VI, VII, VIII, VIIII** 1/2 of a point each
-Figura **X** 1 whole point
-Matte **XI, XII, XIII, XIIII, XV, Brescia** 1 whole point
-Other cards no value
+Figure **V, VI, VII, VIII, VIIII** 1/2 point chacune
+Figure **X** 1 point entier
+Matte **XI, XII, XIII, XIIII, XV, Brescia** 1 point entier
+Autres cartes aucune valeur
 
-Thus there is a total of 19 points in the game. 
+Il y a donc un total de 19 points dans le jeu.
 
-## The Deal
+## La donne
 
-The dealer deals (anticlockwise) 10 cards to each player, in packets of five. The turn to deal passes to the right after each hand.
+Le donneur distribue (dans le sens antihoraire) 10 cartes à chaque joueur, par paquets de cinq. Le tour de donne passe à droite après chaque main.
 
-## The Play
+## Le jeu
 
-There are no trumps. The player to dealer's right leads first. Any card may
-be led, and the other players must play a card of the suit (Figure or Matte)
-led if they have one. A player with no card of the suit led must play a card
-of the other suit. The highest card of the suit led wins the trick; if two equal cards are played to the same trick, the first played beats the second. The winner of the trick leads to the next.
+Il n'y a pas d'atout. Le joueur à la droite du donneur mène en premier. N'importe quelle carte peut être menée, et les autres joueurs doivent jouer une carte de la couleur (Figure ou Matte) menée s'ils en ont une. Un joueur qui n'a pas de carte de la couleur menée doit jouer une carte de l'autre couleur. La carte la plus forte de la couleur menée gagne le pli ; si deux cartes identiques sont jouées au même pli, la première jouée bat la seconde. Le gagnant du pli mène au suivant.
 
-## The Scoring
+## Le comptage
 
-When all the tricks have been played each side scores the value of cards it has
-won in tricks. The total points available amount to 19 points and so the
-team which has 10 or more points wins.
+Lorsque tous les plis ont été joués, chaque camp compte la valeur des cartes qu'il a gagnées. Le total des points disponibles s'élève à 19 points, l'équipe qui a 10 points ou plus gagne donc.
 
-If both sides have nine and a half points, the cards are recounted in a different way to break the tie. The values of the cards for the recount are as follows:
+Si les deux camps ont neuf points et demi, les cartes sont recomptées d'une manière différente pour départager. Les valeurs des cartes pour le recomptage sont les suivantes :
 
-**V, X** no points
-**I, VI, XI** 1 points each
-**II, VII, XII** 2 points each
-**III, VIII, XIII** 3 points each
-**IIII, VIIII, XIIII** 4 points each
-**XV** (Cucco) 5 points each
-**Brescia** 6 points each
-So by this method of counting there are 82 points in the pack the team which has 42 or more points wins. If the recount results in a second tie, both sides having 41 points, there is no winner.
+**V, X** aucun point
+**I, VI, XI** 1 point chacun
+**II, VII, XII** 2 points chacun
+**III, VIII, XIII** 3 points chacun
+**IIII, VIIII, XIIII** 4 points chacun
+**XV** (Cucco) 5 points chacun
+**Brescia** 6 points chacun
+Par cette méthode de comptage, il y a 82 points dans le jeu, l'équipe qui a 42 points ou plus gagne. Si le recomptage aboutit à une seconde égalité, les deux camps ayant 41 points, il n'y a pas de gagnant.
 
-## Two or Three Players
+## Deux ou trois joueurs
 
-If there are only two or three players the cards are dealt as for 4 players, but the cards for the absent players are dealt face up, and are played by the partners of the missing players.
+S'il n'y a que deux ou trois joueurs, les cartes sont distribuées comme pour 4 joueurs, mais les cartes des joueurs absents sont distribuées face en haut et sont jouées par les partenaires des joueurs manquants.
 
 ## Zifuli
 
-This version for five players was described by Anthony Smith in *The Playing-Card Vol XX No 1 (1991) p27*.
+Cette version pour cinq joueurs a été décrite par Anthony Smith dans *The Playing-Card Vol XX No 1 (1991) p27*.
 
-The rank and values of the cards is the same as in Cucco, except that the Matto ranks between the Zero and the Inn, instead of lowest. Eight cards are dealt to each player, in batches of four.
+Le rang et les valeurs des cartes sont les mêmes qu'au Cucco, sauf que le Matto se classe entre le Zéro et l'Auberge, au lieu d'être le plus bas. Huit cartes sont distribuées à chaque joueur, par lots de quatre.
 
-### The Bidding
+### Les enchères
 
-Before the play there is bidding to determine the partnerships. Beginning with the player on dealer's right and continuing clockwise, each player passes or bids. The bidding continues for several rounds if necessary, but a player who has passed cannot re-enter the bidding. 
+Avant le jeu, il y a des enchères pour déterminer les partenariats. En commençant par le joueur à la droite du donneur et en continuant dans le sens horaire, chaque joueur passe ou enchérit. Les enchères continuent pendant plusieurs tours si nécessaire, mais un joueur qui a passé ne peut pas revenir aux enchères.
 
-A bid is made by naming a card of which the bidder holds at least one copy. If the bid is successful then the owner of the other copy of the card is the bidder's partner, but the partnerships do not become known until the card is played. It is possible to call a card holding both copies of it; in this case the bidder will play alone, but this will not be clear to the other players until the second copy of the called card is played.
+Une enchère est faite en nommant une carte dont l'enchérisseur détient au moins un exemplaire. Si l'enchère est réussie, le propriétaire de l'autre exemplaire de la carte est le partenaire de l'enchérisseur, mais les partenariats ne deviennent connus que lorsque la carte est jouée. Il est possible d'appeler une carte en détenant les deux exemplaires ; dans ce cas, l'enchérisseur jouera seul, mais cela ne sera pas clair pour les autres joueurs tant que le second exemplaire de la carte appelée n'aura pas été joué.
 
-A bid can only be overcalled by calling a **lower card** of the **same suit** as the original bid. 
+Une enchère ne peut être surEnchérie qu'en appelant une **carte inférieure** de la **même couleur** que l'enchère originale.
 
-### Scoring
+### Comptage
 
-If the bidder's side wins, each of the opponents pays one stake; the bidder receives two of these stakes and the bidder's partner receives one. If the bidder's side loses these payments are reversed.
+Si le camp de l'enchérisseur gagne, chacun des adversaires paie un enjeu ; l'enchérisseur reçoit deux de ces enjeux et le partenaire de l'enchérisseur en reçoit un. Si le camp de l'enchérisseur perd, ces paiements sont inversés.
 
-A bidder who plays alone receives eight stakes, two from each opponent, if successful, and pays two stakes to each opponent if not.
-
-Home Page > Classified Index > Trick Taking Games > Miscellaneous Point Trick Games > Cöch
+Un enchérisseur qui joue seul reçoit huit enjeux, deux de chaque adversaire, en cas de succès, et paie deux enjeux à chaque adversaire en cas d'échec.

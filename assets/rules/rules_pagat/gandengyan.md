@@ -2,183 +2,184 @@
 
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** A recently popular Chinese card game in which card combinations can only be beaten by a similar combination that is exactly one rank higher.
+**But :** Un jeu de cartes chinois récemment populaire dans lequel les combinaisons de cartes ne peuvent être battues que par une combinaison similaire exactement un rang supérieur.
 
 ---
 
-*With thanks to Robert B. and Sean Ross for introducing me to this game and sharing the results of their research into its origins and variants.*
+*Avec nos remerciements à Robert B. et Sean Ross pour nous avoir présenté ce jeu et partagé les résultats de leurs recherches sur ses origines et variantes.*
 
 ## Introduction
 
-This game is said to have originated during the early- to mid-2010s in Shudi in the Sichuan province of southwest China. Although it clearly belongs in the group that I have called "climbing games" and is inspired by classic games of this type such as Zheng Shangyou, Da Lao Er and Dou Dizhu, it has some unusual features. 
+Ce jeu serait originaire du début à la moitié des années 2010 à Shudi dans la province du Sichuan au sud-ouest de la Chine. Bien qu'il appartienne clairement au groupe que j'ai appelé « jeux d'escalade » et soit inspiré par des jeux classiques de ce type comme Zheng Shangyou, Da Lao Er et Dou Dizhu, il présente des caractéristiques inhabituelles.
 
-The most striking novelty is that a combination can generally only be followed either by a combination that is of the same type and **exactly** one rank higher or by a special combination (a set of Twos or a bomb). This clearly accounts for the name of the game "Gān Dèng Yǎn", which means to watch helplessly or to look on in despair. It comes from the novel, “[Ordinary World](https://en.wikipedia.org/wiki/Ordinary_World_(novel))”, by Lu Yao: “*When they know that the water has reached our village, they can only stare!*" This feeling of anxiety and helplessness occurs frequently in the game. When one person plays a modest combination, often the other players are unable to respond even though they hold quite good cards.
+La nouveauté la plus frappante est qu'une combinaison ne peut généralement être suivie que par une combinaison du même type et **exactement** un rang supérieur ou par une combinaison spéciale (un ensemble de Deux ou une bombe). Cela explique clairement le nom du jeu « Gān Dèng Yǎn », qui signifie regarder impuissant ou contempler avec désespoir. Cela vient du roman « [Le Monde ordinaire](https://en.wikipedia.org/wiki/Ordinary_World_(novel)) » de Lu Yao : « *Quand ils savent que l'eau a atteint notre village, ils ne peuvent que regarder !* » Ce sentiment d'anxiété et d'impuissance se produit fréquemment dans le jeu. Quand une personne joue une combinaison modeste, souvent les autres joueurs sont incapables de répondre même s'ils ont de très bonnes cartes.
 
-A second innovation is that unlike many Chinese card games, this game is played with quite small hands - initially just five cards - and that further cards are drawn from the undealt part of the deck after each trick. Because of this the game can move quite fast - some deals are over rather quickly, and it can pay to risk winning an early trick in the hope of a lucky draw that will enable you to dispose of all your remaining cards on your next turn.
+Une deuxième innovation est que contrairement à beaucoup de jeux de cartes chinois, ce jeu se joue avec de petites mains — initialement seulement cinq cartes — et que des cartes supplémentaires sont tirées de la partie non distribuée du jeu après chaque pli. De ce fait, le jeu peut aller assez vite — certaines donnes sont terminées plutôt rapidement, et cela peut valoir la peine de risquer de gagner un pli précoce dans l'espoir d'un tirage chanceux qui permettra de se débarrasser de toutes les cartes restantes au prochain tour.
 
-Gan Deng Yan has quickly spread to most parts of China and we have the impression that the rules are still evolving. The websites listed in the reference section below mention quite a few variants, sometimes not fully explained, and at the time of writing (May 2020) it is too early to tell whether a new standard version will emerge. Meanwhile, the main description below is based on a fairly conservative form of the game from Wenshan in Yunnan province which Robert B learned from his student Yang Keyi. This is followed by a survey of the variants we are aware of. I would very much like to hear from any readers who are familiar with this game and can tell us more details of the different versions of the game, how they are developing, and which ones are becoming most popular.
+Gan Deng Yan s'est rapidement répandu dans la plupart des régions de Chine et nous avons l'impression que les règles sont encore en évolution. Les sites listés dans la section des références ci-dessous mentionnent pas mal de variantes, parfois pas entièrement expliquées, et au moment de la rédaction (mai 2020) il est trop tôt pour dire si une nouvelle version standard émergera. Entre-temps, la description principale ci-dessous est basée sur une forme assez conservatrice du jeu de Wenshan dans la province du Yunnan que Robert B a apprise de son étudiant Yang Keyi. Elle est suivie d'un aperçu des variantes que nous connaissons. Je serais très reconnaissant d'entendre tout lecteur familier avec ce jeu qui pourrait nous donner plus de détails sur les différentes versions, comment elles évoluent et lesquelles deviennent les plus populaires.
 
-## Players and Cards
+## Joueurs et cartes
 
-It is possible to play the game with as few as 2 players or as many as 6. An international pack is used, including two Jokers - 54 cards in all. The suits of the cards are irrelevant. Chinese decks come with one red and one black Joker, but when playing this game with a single deck, it's OK to use a deck with two identical Jokers. 
+Il est possible de jouer avec aussi peu que 2 joueurs ou jusqu'à 6. Un jeu international est utilisé, incluant deux Jokers — 54 cartes au total. Les couleurs des cartes sont sans importance. Les jeux chinois viennent avec un joker rouge et un joker noir, mais en jouant avec un seul jeu, il est acceptable d'utiliser un jeu avec deux jokers identiques.
 
-The ordinary cards rank from Ace (high) down to Three (low) in the order A-K-Q-J-10-9-8-7-6-5-4-3. Twos and Jokers have special properties.
+Les cartes ordinaires se classent de l'As (fort) au Trois (faible) dans l'ordre A-R-D-V-10-9-8-7-6-5-4-3. Les Deux et les Jokers ont des propriétés spéciales.
 
-- **Twos** are the highest cards when played singly or together in sets, and they can follow cards of any rank. However they cannot be used in single or multiple sequences.
+- **Les Deux** sont les cartes les plus fortes quand elles sont jouées seules ou ensemble en ensembles, et elles peuvent suivre des cartes de n'importe quel rang. Cependant elles ne peuvent pas être utilisées dans des suites simples ou multiples.
 
-- **Jokers** are wild cards that can represent any card needed to complete a combination, but as single cards they have no value.
+- **Les Jokers** sont des cartes jokers qui peuvent représenter n'importe quelle carte nécessaire pour compléter une combinaison, mais comme cartes seules ils n'ont aucune valeur.
 
-## Outline of the Game
+## Aperçu du jeu
 
-The object of the game is to be the first to get rid of all of your cards by playing them in certain combinations to the table. If you cannot be first to play all your cards, then your aim is to have as few cards as possible when another player finishes.
+Le but du jeu est d'être le premier à se débarrasser de toutes ses cartes en les jouant dans certaines combinaisons sur la table. Si vous ne pouvez pas être le premier à jouer toutes vos cartes, votre but est d'avoir le moins de cartes possible quand un autre joueur termine.
 
-The play consists of a series of 'tricks'. To begin a trick, one player leads a single card or a set of cards forming a legal combination. The other players in turn either play one or more cards or pass, and this continues as many times around the table as it takes until either someone plays their last card, which ends the play, or all players but one pass, which ends the current trick. At the end of a trick the played cards are set aside and everyone in turn draws one card from the deck, adding it to their hand. The person who played last to the previous trick then leads a card or combination to start the next trick.
+Le jeu consiste en une série de « plis ». Pour commencer un pli, un joueur mène une carte seule ou un ensemble de cartes formant une combinaison légale. Les autres joueurs à tour de rôle jouent une ou plusieurs cartes ou passent, et cela continue autant de tours autour de la table que nécessaire jusqu'à ce que soit quelqu'un joue sa dernière carte, ce qui termine le jeu, soit que tous les joueurs sauf un passent, ce qui termine le pli en cours. À la fin d'un pli, les cartes jouées sont mises de côté et chacun à son tour tire une carte du jeu, l'ajoutant à sa main. La personne qui a joué en dernier au pli précédent mène alors une carte ou combinaison pour commencer le pli suivant.
 
-## Playable Combinations
+## Combinaisons jouables
 
-To play the game it is necessary to know which cards and combinations are legal to play and which can follow which. There are **ordinary combinations**, which can be led and which can only follow combinations of the same type, and there are **bombs**, which can be led and can follow any ordinary combination or any smaller bomb.
+Pour jouer au jeu, il est nécessaire de savoir quelles cartes et combinaisons sont légales et lesquelles peuvent suivre lesquelles. Il y a des **combinaisons ordinaires**, qui peuvent être menées et ne peuvent suivre que des combinaisons du même type, et il y a des **bombes**, qui peuvent être menées et peuvent suivre n'importe quelle combinaison ordinaire ou n'importe quelle bombe inférieure.
 
-### Ordinary combinations
+### Combinaisons ordinaires
 
-Single card
-Ordinary single cards rank from 3 (low) to Ace (high). They can be led, or they can played on a single card that is exactly one rank lower. A single 2 can be led or can be played on any ordinary single card. Jokers cannot be played as a single card with one exception (see “Jokers” below).
-Pair
-Two ordinary cards of the same rank, such as 7-7 or Q-Q, can be led together or played on an ordinary pair that is exactly one rank lower. A pair 2-2 can be led or can be played on any ordinary pair.
-Sequence
-Three or more ordinary cards of consecutive rank and any mixture of suits (such as 4-5-6 or J-Q-K-A) can be led or can be played on a sequence of equal length that is exactly one rank lower. 2s cannot be used as a part of any sequence. For example 2-3-4 and K-A-2 are not valid combinations.
-Double Sequence
-Two or more pairs of ordinary cards consecutive rank (such as 3-3-4-4 or 6-6-7-7-8-8-9-9) can be led or can be played on a double sequence of the same length that is exactly one rank lower. 2s cannot be used as a part of any double sequence.
+**Carte seule**
+Les cartes seules ordinaires se classent de 3 (faible) à As (fort). Elles peuvent être menées, ou jouées sur une carte seule exactement un rang inférieur. Un 2 seul peut être mené ou joué sur n'importe quelle carte seule ordinaire. Les jokers ne peuvent pas être joués comme carte seule avec une exception (voir « Jokers » ci-dessous).
 
-### Bombs
+**Paire**
+Deux cartes ordinaires de même rang, comme 7-7 ou D-D, peuvent être menées ensemble ou jouées sur une paire ordinaire exactement un rang inférieur. Une paire 2-2 peut être menée ou jouée sur n'importe quelle paire ordinaire.
 
-Bombs are a special type of combination that can be led or can be played on any ordinary combination or any smaller bomb. The types of bomb are ranked, from lowest to highest:
+**Suite**
+Trois cartes ordinaires ou plus de rangs consécutifs et de couleurs mélangées (comme 4-5-6 ou V-D-R-A) peuvent être menées ou jouées sur une suite de même longueur exactement un rang inférieur. Les 2 ne peuvent pas être utilisés dans aucune suite. Par exemple 2-3-4 et R-A-2 ne sont pas des combinaisons valides.
 
-Triplet
-Three cards of the same rank - such as 5-5-5. A 3-card bomb can be played on any lower 3-card bomb or any ordinary combination. The lowest is 3-3-3 and they rank in the same order as single cards up to A-A-A and then 2-2-2 which is the highest triplet bomb.
-Four of a Kind
-Four cards of the same rank - such as 9-9-9-9. A 4-card bomb, sometimes known as a hydrogen bomb, can be played on any lower 4-card bomb, any 3-card bomb or any ordinary combination. The lowest is 3-3-3-3 and they rank in the same order as single cards up to A-A-A-A and then 2-2-2-2 which is the highest 4-card bomb.
-Double Joker Bomb
-Two Jokers (one red and one black) with no other cards. This can be played on any other combination and nothing can follow it. (The colours of the Jokers matter only in the double deck variants described later. When playing with a single deck the Jokers can be identical and you need both of them to make this type of bomb.)
+**Double suite**
+Deux paires ou plus de cartes ordinaires de rangs consécutifs (comme 3-3-4-4 ou 6-6-7-7-8-8-9-9) peuvent être menées ou jouées sur une double suite de même longueur exactement un rang inférieur. Les 2 ne peuvent pas être utilisés dans aucune double suite.
+
+### Bombes
+
+Les bombes sont un type spécial de combinaison qui peuvent être menées ou jouées sur n'importe quelle combinaison ordinaire ou bombe inférieure. Les types de bombes sont classés, de la plus faible à la plus forte :
+
+**Brelan**
+Trois cartes de même rang — comme 5-5-5. Une bombe de 3 cartes peut être jouée sur n'importe quelle bombe de 3 cartes inférieure ou n'importe quelle combinaison ordinaire. La plus faible est 3-3-3 et elles se classent dans le même ordre que les cartes seules jusqu'à A-A-A puis 2-2-2 qui est la bombe-brelan la plus forte.
+
+**Carré**
+Quatre cartes de même rang — comme 9-9-9-9. Une bombe de 4 cartes, parfois appelée bombe à hydrogène, peut être jouée sur n'importe quelle bombe de 4 cartes inférieure, n'importe quelle bombe de 3 cartes ou n'importe quelle combinaison ordinaire. La plus faible est 3-3-3-3 et elles se classent dans le même ordre que les cartes seules jusqu'à A-A-A-A puis 2-2-2-2 qui est la bombe de 4 cartes la plus forte.
+
+**Bombe double joker**
+Deux jokers (un rouge et un noir) sans autres cartes. Cela peut être joué sur n'importe quelle autre combinaison et rien ne peut suivre. (Les couleurs des jokers n'ont d'importance que dans les variantes à double jeu décrites plus loin. En jouant avec un seul jeu, les jokers peuvent être identiques et il faut les deux pour faire ce type de bombe.)
 
 ### Jokers
 
-Jokers are wild cards that can be used represent any other rank including 2's, but only when combined with at least one other card. For example 6-Joker is a pair of Sixes, 2-Joker is a pair of 2's, a 9 and a 10 can be combined with a Joker to make a sequence of either 8-9-10 or 9-10-J and 9-9-Joker is a 3-card bomb of Nines.
+Les jokers sont des cartes jokers qui peuvent être utilisés pour représenter n'importe quel autre rang y compris les 2, mais seulement combinés avec au moins une autre carte. Par exemple 6-Joker est une paire de Six, 2-Joker est une paire de 2, un 9 et un 10 peuvent être combinés avec un joker pour faire une suite de 8-9-10 ou de 9-10-V et 9-9-Joker est une bombe de 3 cartes de Neuf.
 
-Jokers cannot be played singly, with just one exception. If the player whose turn it is to lead has just one card (this can only happen if the talon is empty) and that one card is a Joker, then the player leads the Joker and wins immediately.
+Les jokers ne peuvent pas être joués seuls, avec une seule exception. Si c'est le tour du joueur qui doit mener et qu'il n'a qu'une seule carte (cela ne peut arriver que si le talon est vide) et que cette carte est un joker, alors le joueur mène le joker et gagne immédiatement.
 
-## The Deal
+## La donne
 
-As in most Chinese games the cards are not really dealt, but taken from the deck by the players. We use the word 'dealer' to mean the player who shuffles the deck, takes the first card and leads to the first trick.
+Comme dans la plupart des jeux chinois, les cartes ne sont pas vraiment distribuées, mais prises du jeu par les joueurs. Nous utilisons le mot « donneur » pour désigner le joueur qui mélange le jeu, prend la première carte et mène au premier pli.
 
-For the first hand of the game a player is chosen at random to shuffle the deck; from the second hand onward, the winner of the previous hand deals. 
-The dealer shuffles the cards, gives them to the player to their left to cut, and stacks them face down in the middle of the playing surface.  The dealer then draws the top card from the deck, looking at it but not showing it to the other players. The player to the dealer’s right does the same, then the next player, and so on counter-clockwise around the table until the dealer has 6 cards and each other player has 5 cards. The undealt remainder of the deck is stacked face down in the middle of the playing surface to form a **talon** from which cards will be drawn later.
+Pour la première donne du jeu, un joueur est choisi au hasard pour mélanger ; à partir de la deuxième donne, le gagnant de la donne précédente distribue.
 
-## The Play
+Le donneur mélange les cartes, les donne au joueur à sa gauche pour couper, et les empile face en bas au centre de la surface de jeu. Le donneur tire alors la carte du dessus du jeu, la regardant sans la montrer aux autres joueurs. Le joueur à la droite du donneur fait de même, puis le joueur suivant, et ainsi de suite dans le sens antihoraire autour de la table jusqu'à ce que le donneur ait 6 cartes et chaque autre joueur 5 cartes. Le reste non distribué du jeu est empilé face en bas au centre pour former un **talon** duquel les cartes seront tirées plus tard.
 
-The dealer begins by playing a card or any legal combination of cards to start the first trick. The person to this player's right plays next, and so on round the table for as many circuits as needed until all players but one pass in succession. 
+## Le jeu
 
-If the previous play was an ordinary combination, at your turn you must either pass (play no cards) or play one of the following:
+Le donneur commence en jouant une carte ou n'importe quelle combinaison légale pour commencer le premier pli. La personne à la droite de ce joueur joue ensuite, et ainsi de suite autour de la table pour autant de tours que nécessaire jusqu'à ce que tous les joueurs sauf un passent consécutivement.
 
-- a combination of the same type and the same number of cards as the previous play that is **exactly one rank higher**, or
+Si le jeu précédent était une combinaison ordinaire, à votre tour vous devez soit passer (ne jouer aucune carte) soit jouer l'un des éléments suivants :
 
-- a single 2 if the previous play was a single card, or 
+- une combinaison du même type et du même nombre de cartes que le jeu précédent qui est **exactement un rang supérieur**, ou
 
-- a pair of 2's if the previous play was a pair, or 
+- un 2 seul si le jeu précédent était une carte seule, ou
 
-- a bomb. 
+- une paire de 2 si le jeu précédent était une paire, ou
 
-After a bomb has been played, the next play must either be a higher bomb of the same type or a more highly ranked type of bomb. A player who is unable or unwilling to play either of these must pass. 
-After a double Joker bomb has been played, no further plays are possible so everyone else must pass.
+- une bombe.
 
-**Examples**
+Après qu'une bombe a été jouée, le jeu suivant doit être soit une bombe supérieure du même type, soit un type de bombe de rang plus élevé. Un joueur qui ne peut ou ne veut pas jouer l'un ou l'autre doit passer.
 
-- If a single 4 is played, the next play can be a single 5 or a single 2 or a bomb. Nothing else is allowed - not a 6, not an Ace, not a pair of 5's...
+Après qu'une bombe double joker a été jouée, aucun jeu n'est possible, donc tout le monde doit passer.
 
-- If a pair of 4's is played, the next play can be a pair of 5's or a pair of 2's or a bomb. Nothing else is allowed - not a pair of 6's, not a pair of Kings, not a single 2...
+**Exemples**
 
-- if a sequence of 4-5-6 is played, the next play can be a sequence of 5-6-7 or a bomb. Nothing else is allowed - not a sequence 7-8-9, not a sequence 4-5-6-7, not a sequence 5-6-7-8...
+- Si un 4 seul est joué, le jeu suivant peut être un 5 seul ou un 2 seul ou une bombe. Rien d'autre n'est permis — pas un 6, pas un As, pas une paire de 5...
 
-- if a sequence Q-K-A is played, the next play can only be a bomb. There is no higher 3-card sequence, since 2's cannot be used in sequences.
+- Si une paire de 4 est jouée, le jeu suivant peut être une paire de 5 ou une paire de 2 ou une bombe. Rien d'autre n'est permis — pas une paire de 6, pas une paire de Rois, pas un 2 seul...
 
-- If a double sequence of 4-4-5-5 is played, the next play can be a double sequence of 5-5-6-6 or a bomb. Nothing else is allowed. Not 6-6-7-7, not 5-5-6-6-7-7, not 5-6-7-8...
+- Si une suite de 4-5-6 est jouée, le jeu suivant peut être une suite de 5-6-7 ou une bombe. Rien d'autre n'est permis — pas une suite 7-8-9, pas une suite 4-5-6-7, pas une suite 5-6-7-8...
 
-- If a bomb of 7-7-7 is played, the next play can be any higher 3-card bomb such as 8-8-8 or K-K-K or any 4-card bomb such as 5-5-5-5 or a double Joker bomb.
+- Si une suite D-R-A est jouée, le jeu suivant ne peut être qu'une bombe. Il n'y a pas de suite de 3 cartes supérieure, car les 2 ne peuvent pas être utilisés dans les suites.
 
-If you cannot play or choose not to play, you must pass on your turn. Once all other players have passed after the last card or combination played, the trick ends. Each player, starting with the player who played last, draws one card from the talon and adds it to their hand. The cards played to the previous trick are cleared from the table and set aside face down. The last player to have played now leads any legal card or combination to begin the next trick and play continues as before.
+- Si une double suite de 4-4-5-5 est jouée, le jeu suivant peut être une double suite de 5-5-6-6 ou une bombe. Rien d'autre n'est permis. Pas 6-6-7-7, pas 5-5-6-6-7-7, pas 5-6-7-8...
 
-If at the end of a trick there are not enough cards remaining in the talon for everyone to draw one, players draw in turn starting with the the person who played last to the previous trick, until the cards run out. The remaining players do not draw a card. After all the cards have been drawn from the talon, play continues with the cards remaining in the players' hands and no further cards are drawn.
+- Si une bombe de 7-7-7 est jouée, le jeu suivant peut être n'importe quelle bombe de 3 cartes supérieure comme 8-8-8 ou R-R-R ou n'importe quelle bombe de 4 cartes comme 5-5-5-5 ou une bombe double joker.
 
-The play ends immediately when a player sheds their last card. This may happen in the middle of a trick and often happens while there are still cards in the talon. The player who ran out of cards is the winner, and the scores are calculated.
+Si vous ne pouvez pas jouer ou choisissez de ne pas jouer, vous devez passer à votre tour. Une fois que tous les autres joueurs ont passé après la dernière carte ou combinaison jouée, le pli se termine. Chaque joueur, en commençant par celui qui a joué en dernier, tire une carte du talon et l'ajoute à sa main. Les cartes jouées au pli précédent sont retirées de la table et mises de côté face en bas. Le dernier joueur à avoir joué mène maintenant n'importe quelle carte ou combinaison légale pour commencer le pli suivant et le jeu continue comme avant.
 
-## Scoring and Winning
+Si à la fin d'un pli il n'y a pas assez de cartes restantes dans le talon pour que tout le monde tire une carte, les joueurs tirent à tour de rôle en commençant par la personne qui a joué en dernier au pli précédent, jusqu'à épuisement des cartes. Les joueurs restants ne tirent pas de carte. Après que toutes les cartes ont été tirées du talon, le jeu continue avec les cartes restantes dans les mains des joueurs et aucune autre carte n'est tirée.
 
-At the end of the play, the player with no cards receives one point ****from each other player for each card they still have in their hands. A cumulative total of each player's score can be kept, and at the end of an agreed number of deals the player with the highest positive score can be declared the winner, or if playing for stakes the players can settle up according to the number of points they have won or lost.
+Le jeu se termine immédiatement quand un joueur se débarrasse de sa dernière carte. Cela peut arriver au milieu d'un pli et se produit souvent alors qu'il y a encore des cartes dans le talon. Le joueur qui n'a plus de cartes est le gagnant, et les scores sont calculés.
 
-## Variants
+## Score et victoire
 
-As mentioned in the introduction there are many variants of the rules, and it is not yet clear which of these may eventually become standard features of the game.
+À la fin du jeu, le joueur sans cartes reçoit un point **de chaque autre joueur pour chaque carte qu'ils ont encore en main**. Un total cumulatif du score de chaque joueur peut être conservé, et à la fin d'un nombre convenu de donnes, le joueur avec le score positif le plus élevé peut être déclaré gagnant, ou si on joue pour des mises, les joueurs peuvent régler selon le nombre de points gagnés ou perdus.
 
-### Double deck
+## Variantes
 
-Some players use two packs (a total of 108 cards) when playing with a larger group of players, which makes it less likely that the talon will run out. For example two packs may be used with 4 or more or even with 3 or more players.
+Comme mentionné dans l'introduction, il y a de nombreuses variantes des règles, et il n'est pas encore clair lesquelles de celles-ci pourraient éventuellement devenir des caractéristiques standard du jeu.
 
-With two packs a red Joker and a black Joker are need to make a Double Joker bomb. Two Jokers that are both red or both black do not make a double Joker bomb, but you can still make a less powerful 3-card or 4-card bomb by combining them with a single card or pair. A player who holds two identical Jokers and nothing else will be unable to play them unless they have the lead.
+### Double jeu
 
-There is the possibility that a player may have more than 4 equal cards or more than 2 Jokers, which raises the question of whether larger combinations such as 5 of a kind or 3 jokers might be used as some type of bomb. However, in the descriptions we have seen there is no trace of such a rule. A bomb always contains a maximum of four equal cards or two unequal Jokers, as in the single deck game. 
+Certains joueurs utilisent deux jeux (un total de 108 cartes) en jouant avec un groupe plus grand, ce qui rend moins probable que le talon s'épuise. Par exemple, deux jeux peuvent être utilisés avec 4 joueurs ou plus, ou même 3 ou plus.
 
-### Play and Combinations
+Avec deux jeux, un joker rouge et un joker noir sont nécessaires pour faire une bombe double joker. Deux jokers tous rouges ou tous noirs ne font pas une bombe double joker, mais vous pouvez toujours faire une bombe de 3 ou 4 cartes moins puissante en les combinant avec une carte seule ou une paire. Un joueur qui détient deux jokers identiques et rien d'autre sera incapable de les jouer à moins qu'il n'ait l'entame.
 
-Some play that a triplet is an ordinary combination, sometimes known as an airplane, not a bomb. In this case a triplet can only follow a triplet that is exactly one rank lower, except presumably for a triplet of 2's, which can be played on any triplet of ordinary cards.
+Il y a la possibilité qu'un joueur ait plus de 4 cartes égales ou plus de 2 jokers, ce qui soulève la question de savoir si des combinaisons plus grandes comme 5 d'une sorte ou 3 jokers pourraient être utilisées comme un type de bombe. Cependant, dans les descriptions que nous avons vues, il n'y a aucune trace d'une telle règle. Une bombe contient toujours au maximum quatre cartes égales ou deux jokers inégaux, comme dans le jeu à un seul jeu.
 
-If triplets are not bombs, some allow sequences of triplets, such as 3-3-3-4-4-4-5-5-5, as ordinary combinations. Like a double sequence, a sequence of triplets cannot include any Twos, and can only be followed by a triplet sequence of the same number of cards that is exactly one rank higher or by a bomb.
+### Jeu et combinaisons
 
-Some do not allow sequences (or double sequences) to contain more than three ranks, in which case 5-6-7 and 5-5-6-6-7-7 are valid but 5-6-7-8 and 5-5-6-6-7-7-8-8 are not.
+Certains jouent qu'un brelan est une combinaison ordinaire, parfois appelée avion, pas une bombe. Dans ce cas, un brelan ne peut suivre qu'un brelan exactement un rang inférieur, sauf vraisemblablement pour un brelan de 2, qui peut être joué sur n'importe quel brelan de cartes ordinaires.
 
-Some do not allow a Joker to represent a 2, so 2-Joker is not a valid combination in this case.
+Si les brelans ne sont pas des bombes, certains autorisent des suites de brelans, comme 3-3-3-4-4-4-5-5-5, comme combinaisons ordinaires. Comme une double suite, une suite de brelans ne peut inclure aucun Deux, et ne peut être suivie que par une suite de brelans du même nombre de cartes exactement un rang supérieur ou par une bombe.
 
-Some do not allow a player to lead a single Joker even if it is their only card. Instead the turn to play passes to the next player to the right.
+Certains n'autorisent pas les suites (ou doubles suites) à contenir plus de trois rangs, auquel cas 5-6-7 et 5-5-6-6-7-7 sont valides mais 5-6-7-8 et 5-5-6-6-7-7-8-8 ne le sont pas.
 
-Some require players to announce when their hand has three or fewer cards.
+Certains n'autorisent pas un joker à représenter un 2, donc 2-Joker n'est pas une combinaison valide dans ce cas.
 
-Some play that a deal cannot be won if there are more than five cards remaining in the talon. If there are more than five cards in the talon at the moment a player sheds their last card, play continues and all players, including the one who ran out of cards, must draw a card at the end of the trick and continue playing.
+Certains n'autorisent pas un joueur à mener un joker seul même si c'est sa seule carte. Le tour de jouer passe au joueur suivant à la droite.
 
-Some allow an ordinary combination to be followed by **either** a combination of equal rank **or** a combination that is one rank higher. For example a 6 can be followed by a 7 or by another 6. A pair 4-4 can be followed by another 4-4 or by 5-5. 
+Certains exigent que les joueurs annoncent quand leur main a trois cartes ou moins.
 
-### Scoring
+Certains jouent qu'une donne ne peut pas être gagnée s'il reste plus de cinq cartes dans le talon. S'il y a plus de cinq cartes dans le talon au moment où un joueur se débarrasse de sa dernière carte, le jeu continue et tous les joueurs, y compris celui qui n'a plus de cartes, doivent tirer une carte à la fin du pli et continuer à jouer.
 
-Some play that each Ace remaining in a losing player’s hand doubles, trebles, or quadruples the number of points that player must pay to the winner. For example, playing that Aces double the score, if Willow plays her last card and goes out, when Curtis has four cards his hand: 6-8-J-A then Curtis must pay 8 points to Willow (4 cards multiplied by 2 for the Ace).
+Certains autorisent une combinaison ordinaire à être suivie par **soit** une combinaison de même rang **soit** une combinaison un rang supérieur. Par exemple un 6 peut être suivi d'un 7 ou d'un autre 6. Une paire 4-4 peut être suivie d'un autre 4-4 ou d'un 5-5.
 
-Some play with additional multipliers: there are 'public multipliers' which increase the amount received by the winner from all opponents, and 'private multipliers' which affect only one opponent of the winner. So each loser's payment will be (remaining cards) × (product of all public multipliers) × (product of that player's private multipliers). Depending on the multipliers allowed, this can potentially result in huge scores, which should be taken into account when agreeing the basic stake. Also it is probably sensible to agree a maximum payment per hand, or play for 'table stakes' in which a player cannot lose more money or chips than they have on the table.
+### Score
 
-One possible schedule is:
+Certains jouent que chaque As restant dans la main d'un joueur perdant double, triple ou quadruple le nombre de points que ce joueur doit payer au gagnant. Par exemple, en jouant que les As doublent le score, si Willow joue sa dernière carte et sort, quand Curtis a quatre cartes dans sa main : 6-8-V-A alors Curtis doit payer 8 points à Willow (4 cartes multipliées par 2 pour l'As).
 
-| Public multipliers for 
-combinations played
-during the deal | each triplet bomb | ×2 |
-| each 4-of-a-kind bomb | ×4 |
-| each double Joker bomb | ×8 |
-| Private multipliers for 
-unplayed cards 
-in loser's hand | each Ace | ×2 |
-| each Joker | ×2 |
-| each bomb | as above |
+Certains jouent avec des multiplicateurs supplémentaires : il y a des « multiplicateurs publics » qui augmentent le montant reçu par le gagnant de tous les adversaires, et des « multiplicateurs privés » qui n'affectent qu'un adversaire du gagnant. Le paiement de chaque perdant sera donc (cartes restantes) × (produit de tous les multiplicateurs publics) × (produit des multiplicateurs privés de ce joueur). Selon les multiplicateurs autorisés, cela peut potentiellement entraîner des scores énormes, ce qui doit être pris en compte lors de l'accord sur la mise de base. Il est probablement judicieux de convenir d'un paiement maximum par donne, ou de jouer à « mises de table » où un joueur ne peut pas perdre plus d'argent ou de jetons qu'il n'en a sur la table.
 
-Using this schedule a player who was caught holding 3-3-3-3-A-Joker when two triple bombs had been played would have a public multiplier of 4 (2×2) and a private multiplier of 16 (2×2×4), which multiplied by 6 remaining cards would give a total of 384 times the basic stake to be paid to the winner.
+Un barème possible est :
 
-Some play that a triplet or 4-of-a-kind bomb that includes jokers is a “soft bomb” with a public multiplier of 2, while a 3-card or 4-card "hard bomb", formed without Jokers, carries a public multiplier of 4. 
+| Multiplicateurs publics pour combinaisons jouées pendant la donne | chaque bombe brelan | ×2 |
+| chaque bombe carré | ×4 |
+| chaque bombe double joker | ×8 |
+| Multiplicateurs privés pour cartes non jouées dans la main du perdant | chaque As | ×2 |
+| chaque Joker | ×2 |
+| chaque bombe | comme ci-dessus |
 
-In the game from Wenshan originally learned by Robert B there are only positive points for the winner, equal to the total number of cards held by the losers, and no negative scores for the losers. So in this game if you are not going to win it is just as desirable to help the other players to reduce the number of cards in their hands as it is to reduce your own hand. There is just a single overall winner - the player who has the most positive points after an agreed number of deals.
+Avec ce barème, un joueur pris avec 3-3-3-3-A-Joker alors que deux bombes de brelan ont été jouées aurait un multiplicateur public de 4 (2×2) et un multiplicateur privé de 16 (2×2×4), qui multiplié par 6 cartes restantes donnerait un total de 384 fois la mise de base à payer au gagnant.
 
-## Other web sites
+Certains jouent qu'une bombe de brelan ou de carré incluant des jokers est une « bombe douce » avec un multiplicateur public de 2, tandis qu'une bombe de 3 ou 4 cartes « dure », formée sans jokers, porte un multiplicateur public de 4.
 
-[https://baike.baidu.com/item/干瞪眼/63808](https://baike.baidu.com/item/%E5%B9%B2%E7%9E%AA%E7%9C%BC/63808) - description in which triplets are ordinary combinations, losers pay double if holding an Ace, and Jokers cannot represent Twos. 
+Dans le jeu de Wenshan appris à l'origine par Robert B, il n'y a que des points positifs pour le gagnant, égaux au nombre total de cartes détenues par les perdants, et aucun score négatif pour les perdants. Dans ce jeu, si vous n'allez pas gagner, il est tout aussi souhaitable d'aider les autres joueurs à réduire le nombre de cartes dans leur main que de réduire votre propre main. Il n'y a qu'un seul gagnant global — le joueur qui a le plus de points positifs après un nombre convenu de donnes.
 
-[http://www.gametea.com/news/201807/7111.html](https://web.archive.org/web/20210423025716/http://www.gametea.com/news/201807/7111.html) - archive copy of a description with soft and hard bombs giving public multipliers 2 and 4 respectively. Triplets are bombs. There is also a double for a condition known as 'spring' (春天) which may perhaps be when a player has not managed to play any cards, or maybe when no one other than the winner has played an cards.
+## Autres sites
 
-[https://m.91y.com/help/guize/340.html](https://m.91y.com/help/guize/340.html) - description with multipliers of 2 for a triplet bomb, 4 for a hydrogen bomb and 8 for a double joker bomb. As well as 'spring' there is a condition 'haochun' (豪春) which brings a multiple of 8, but we have not been able to understand what this is.
+[https://baike.baidu.com/item/干瞪眼/63808](https://baike.baidu.com/item/%E5%B9%B2%E7%9E%AA%E7%9C%BC/63808) — description où les brelans sont des combinaisons ordinaires, les perdants paient double s'ils ont un As, et les jokers ne peuvent pas représenter les Deux.
 
-[http://ttrek.net/干瞪眼、五十k、变色龙](https://web.archive.org/web/20200716100250/http://ttrek.net/%E5%B9%B2%E7%9E%AA%E7%9C%BC%E3%80%81%E4%BA%94%E5%8D%81k%E3%80%81%E5%8F%98%E8%89%B2%E9%BE%99)- archive copy of brief descriptions of three games: Gan Deng Yan is the first. Triplets are not bombs; sequences are limited to at most three ranks.
+[http://www.gametea.com/news/201807/7111.html](https://web.archive.org/web/20210423025716/http://www.gametea.com/news/201807/7111.html) — copie d'archive d'une description avec des bombes douces et dures donnant des multiplicateurs publics 2 et 4 respectivement. Les brelans sont des bombes. Il y a aussi un double pour une condition appelée « printemps » (春天).
 
-[http://public.qipai007.com/gamerule/226.html](https://web.archive.org/web/20200716100257/http://public.qipai007.com/gamerule/226.html) (archive copy) - like several of the above pages this seems to have originated as documentation for a computer version of the game. Public multipliers are 2 for a 3-card bomb, 4 for a hydrogen bomb or double Joker bomb, 2 for 'spring'.
+[https://m.91y.com/help/guize/340.html](https://m.91y.com/help/guize/340.html) — description avec des multiplicateurs de 2 pour une bombe de brelan, 4 pour une bombe à hydrogène et 8 pour une bombe double joker.
 
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Gan Deng Yan
+[http://ttrek.net/干瞪眼、五十k、变色龙](https://web.archive.org/web/20200716100250/http://ttrek.net/%E5%B9%B2%E7%9E%AA%E7%9C%BC%E3%80%81%E4%BA%94%E5%8D%81k%E3%80%81%E5%8F%98%E8%89%B2%E9%BE%99) — copie d'archive de brèves descriptions de trois jeux : Gan Deng Yan est le premier. Les brelans ne sont pas des bombes ; les suites sont limitées à trois rangs au maximum.
+
+[http://public.qipai007.com/gamerule/226.html](https://web.archive.org/web/20200716100257/http://public.qipai007.com/gamerule/226.html) (copie d'archive) — comme plusieurs des pages ci-dessus, cela semble avoir été créé comme documentation pour une version informatique du jeu. Les multiplicateurs publics sont 2 pour une bombe de 3 cartes, 4 pour une bombe à hydrogène ou bombe double joker, 2 pour « printemps ».

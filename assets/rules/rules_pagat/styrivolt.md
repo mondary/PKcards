@@ -2,203 +2,201 @@
 
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** A four-player partnership card game from the Faroe islands, with a distinctive card ranking order and two chosen suits that function as partial trumps.
+**But :** Jeu de cartes à quatre joueurs en partenariat des îles Féroé, avec un ordre de hiérarchie des cartes distinctif et deux couleurs choisies fonctionnant comme atouts partiels.
 
 ---
 
-*The first version of this page was based on the article Stýrivoltur, by Jógvan Bærentsen, in Varðin, vol. (bind) 43, part (hefti) 3/4, (1975) pages 162-168, translated into English by Anthony Smith, who also had the opportunity to join in a game in Tórshavn on Wednesday 23 October 1996. In April 1998 the page was revised and expanded John McLeod, with the benefit of comments, corrections and further details supplied by Jógvan Bærentsen.*
+*La première version de cette page était basée sur l'article Stýrivoltur de Jógvan Bærentsen, dans Varðin, vol. (bind) 43, fascicule (hefti) 3/4, (1975) pp. 162-168, traduit en anglais par Anthony Smith, qui a eu également l'occasion de participer à une partie à Tórshavn le mercredi 23 octobre 1996. En avril 1998, la page a été révisée et développée par John McLeod, avec le bénéfice de commentaires, corrections et détails supplémentaires fournis par Jógvan Bærentsen.*
 
 ## Introduction
 
-Stýrivolt is a card game which is more than 300 years old and was probably invented in Denmark. It has been played in the Faroe Islands for over 200 years and is, for example, mentioned by J. C. Svabo in his "Indberetninger fra en Reise i Færöe, 1781 - 1782". A comparison of Faroese stýrivolt with the Danish version which was played around 1800 (and described in, for example, *"Politiske Spille Regler for de tilladelige og meest brugelige Spil i Vertshusene", Kebslein, 1774, Copenhagen*, of which there is a copy in the Royal Library at Copenhagen) shows that the game has altered only slightly in all these years, only the terminology having changed. It seems that the game was known as early as 1648 in Sweden. According to the catalogue *"Trumpf på hand: en historia om svenska spelkort", Uddevalla, 1993*, on page 8, the poem "Herkules", published in 1648 by the Swedish poet, Georg Stiernhielm, mentions some 15 different card games including one called "stýr-wålt".
+Stýrivolt est un jeu de cartes vieux de plus de 300 ans qui a probablement été inventé au Danemark. Il est joué aux îles Féroé depuis plus de 200 ans et est mentionné, par exemple, par J. C. Svabo dans son « Indberetninger fra en Reise i Færöe, 1781 - 1782 ». Une comparaison du stýrivolt féroïen avec la version danoise jouée vers 1800 (et décrite, par exemple, dans « Politiske Spille Regler for de tilladelige og meest brugelige Spil i Vertshusene », Kebslein, 1774, Copenhague, dont il existe un exemplaire à la Bibliothèque royale de Copenhague) montre que le jeu n'a que peu changé au fil de ces années, seule la terminologie ayant évolué. Il semble que le jeu était déjà connu en 1648 en Suède. Selon le catalogue « Trumpf på hand: en historia om svenska spelkort », Uddevalla, 1993, à la page 8, le poème « Herkules », publié en 1648 par le poète suédois Georg Stiernhielm, mentionne une quinzaine de jeux de cartes différents, dont un appelé « stýr-wålt ».
 
-Stýrivolt belongs to the Karnöffel group of card games, whose documented history reaches back to the early 15th century. These were the earliest games in which special cards, belonging to a **chosen** suit, had the power to beat cards of other suits. In Stýrivolt there are in fact two chosen suits. They operate rather like trumps in modern trick-taking games, but with important differences: some of the cards of the chosen suits have no special power, some can only beat certain unchosen cards, and some are powerful only if led to a trick. A few of the terms in the Faroese game are directly derived from the medieval German words for the same cards: *karnifl* from *Karnöffel* for the jack of a chosen suit; *pavstar* (now postman) from *Pabst* (pope) for the six. 
+Stýrivolt appartient au groupe Karnöffel des jeux de cartes, dont l'histoire documentée remonte au début du XVe siècle. Ce furent les premiers jeux dans lesquels des cartes spéciales, appartenant à une couleur **choisie**, avaient le pouvoir de battre les cartes d'autres couleurs. Dans Stýrivolt, il y a en fait deux couleurs choisies. Elles fonctionnent plutôt comme des atouts dans les jeux de levées modernes, mais avec des différences importantes : certaines des cartes des couleurs choisies n'ont pas de pouvoir spécial, certaines ne peuvent battre que certaines cartes non choisies, et certaines ne sont puissantes que lorsqu'elles sont menées. Quelques termes du jeu féroïen sont directement dérivés des mots allemands médiévaux pour les mêmes cartes : *karnifl* de *Karnöffel* pour le Valet d'une couleur choisie ; *pavstar* (maintenant facteur) de *Pabst* (pape) pour le Six.
 
-As Stýrivolt is not played in many places in the Faroes nowadays and scarcely at all in Denmark, there is a danger that the game will soon die out. Even though it has not yet reached its end, it is certainly only just alive. The game is perhaps a bit complicated to grasp at first and a lot of terminology has to be learnt. But once the basics have been mastered the game is extremely entertaining and makes no greater demand on its players than the rapidity of the talk while it is played. The many characteristic expressions used add a special colour to the game.
+Comme Stýrivolt n'est plus joué à beaucoup d'endroits aux Féroé de nos jours et guère plus au Danemark, il y a un risque que le jeu meure bientôt. Bien qu'il n'ait pas encore atteint sa fin, il n'est certainement plus guère vivant. Le jeu est peut-être un peu compliqué à saisir au premier abord et il faut apprendre beaucoup de terminologie. Mais une fois les bases maîtrisées, le jeu est extrêmement divertissant et n'exige rien de plus de ses joueurs que la rapidité de la parole pendant qu'on y joue. Les nombreuses expressions caractéristiques utilisées ajoutent une couleur spéciale au jeu.
 
-Stýrivolt is played in a variety of ways in the various villages in the Faroes, and the names of the cards also vary. The description given here is of the version usually played in Kvívík, which is 26km by road from Tórshavn.
+Stýrivolt se joue de diverses manières dans les différents villages des Féroé, et les noms des cartes varient également. La description donnée ici est celle de la version habituellement jouée à Kvívík, à 26 km par la route de Tórshavn.
 
-## Players and Objective
+## Joueurs et objectif
 
-Four people play, two against two in partnerships. Partners sit opposite one another. Each player has a hand of nine cards which are played out in tricks. The team which takes the majority - at least five tricks - wins the hand. Won hands are scored on a chalk-up by erasing strokes and marking crosses (see below). A team's objective is to collect as many crosses as they can.
+Quatre personnes jouent, deux contre deux en partenariats. Les partenaires sont assis en face l'un de l'autre. Chaque joueur a une main de neuf cartes jouées en levées. L'équipe qui prend la majorité — au moins cinq levées — gagne la main. Les mains gagnées sont marquées sur une ardoise en effaçant des traits et en cochant des croix (voir ci-dessous). L'objectif d'une équipe est de récolter autant de croix que possible.
 
-## The Cards and their Ranking
+## Les cartes et leur hiérarchie
 
-The tens are taken out of a normal 52 card pack, leaving 48 cards. The ranking of these cards for trick taking purposes is rather elaborate. 
+On retire les Dix d'un jeu ordinaire de 52 cartes, laissant 48 cartes. La hiérarchie de ces cartes pour les levées est assez élaborée.
 
-In each deal there are two **chosen suits**. The ranking of the cards in the suits that are **not** chosen, from high to low, is **A K Q J 9 8 7 6 5 4 3 2**, with the exception of certain cards, called **permanent stikkar**, which are depicted below.
+Dans chaque donne, il y a deux **couleurs choisies**. La hiérarchie des cartes dans les couleurs **non** choisies, du haut au bas, est **A R D V 9 8 7 6 5 4 3 2**, à l'exception de certaines cartes appelées **stikkar permanents**, illustrées ci-dessous.
 
-The most powerful cards in the pack are the nine **stikkar**. They beat all the other cards, with the exception of a **lamb** (chosen seven) that has been led. 
+Les cartes les plus puissantes du jeu sont les neuf **stikkar**. Ils battent toutes les autres cartes, à l'exception d'un **agneau** (Sept d'une couleur choisie) qui a été mené.
 
-The top five stikkar are **permanent** - they do not depend on what suits are chosen. From high to low they are:
+Les cinq stikkar du haut sont **permanents** — ils ne dépendent pas des couleurs choisies. Du haut au bas, ce sont :
 
 | | | | | |
-| bird | fyrik | eight | hay-yard mare | mare of diamonds |
+| oiseau | fyrik | huit | jument de hay-yard | jument de carreau |
 | Fuglurin | Fýrikurin | Áttuni | Hoygarðsryssa | Rútar-ryssa |
 
-The remaining four stikkar are the aces of the chosen suits (*stýrivoltar*) followed by the jacks of the chosen suits (*karniflar*). These are followed in rank by the **tøkukortini** (taking cards), in the chosen suits, the sixes, twos, threes and fours, which can beat some but not necessarily all cards in the unchosen suits. Here is the full list of stikkar and tøkukortini, from high to low:
+Les quatre stikkar restants sont les As des couleurs choisies (*stýrivoltar*) suivis des Valets des couleurs choisies (*karniflar*). Ils sont suivis dans la hiérarchie par les **tøkukortini** (cartes de prise), dans les couleurs choisies : les Six, Deux, Trois et Quatre, qui peuvent battre certaines mais pas nécessairement toutes les cartes des couleurs non choisies. Voici la liste complète des stikkar et tøkukortini, du haut au bas :
 
-| Permanent stikkar | 2 | bird | Fuglurin | Beat all other cards except lambs |
+| Stikkar permanents | 2 | oiseau | Fuglurin | Bat toutes les autres cartes sauf les agneaux |
 | 4 | fyrik | Fýrikurin |
-| 8 | eight | Áttuni |
-| 9 | hay-yard mare or mare of hearts | Hoygarðsryssa or Hjartaryssa |
-| 9 | mare of diamonds | Rútar-ryssa |
-| Stikkar | Chosen aces | stýrivolts | stýrivoltar |
-| Chosen jacks | karnifls | karniflar |
-| Tøkukortini(taking cards) | Chosen sixes | postmen | postar or pavstar | beat aces (except stýrivolts) and below |
-| Chosen twos | tvists | tvistar | beat kings and below |
-| Chosen threes | trists | tristar | beat queens and below |
-| Chosen fours | unfortunates | ólukkur (In Bøur, on Vágar island, called pollar) | beat jacks (except karnifls) and below |
+| 8 | huit | Áttuni |
+| 9 | jument de hay-yard ou jument de cœur | Hoygarðsryssa ou Hjartaryssa |
+| 9 | jument de carreau | Rútar-ryssa |
+| Stikkar | As choisis | stýrivolts | stýrivoltar |
+| Valets choisis | karnifls | karniflar |
+| Tøkukortini (cartes de prise) | Six choisis | facteurs | postar ou pavstar | battent les As (sauf stýrivolts) et au-dessous |
+| Deux choisis | tvists | tvistar | battent les Rois et au-dessous |
+| Trois choisis | trists | tristar | battent les Dames et au-dessous |
+| Quatre choisis | malchanceux | ólukkur (à Bøur, sur l'île de Vágar, appelés pollar) | battent les Valets (sauf karnifls) et au-dessous |
 
-The *stikkar* and the *tøkukortini* in the two chosen suits beat one another according to the above ranking order. Cards of the two chosen suits are interchangeable, in that a stikkar or taking card of one chosen suit can be beaten by a better card of the same suit or of the other chosen suit. However, there is an old Danish saying *"Den ene straffer ikke den anden"* ("The one does not beat the other"), meaning that the first played of **equal** cards in the chosen suits is better - for example if the stýrivolts of the two chosen suits are played to the same trick then the second cannot beat the first one played.
+Les *stikkar* et les *tøkukortini* des deux couleurs choisies se battent mutuellement selon l'ordre de hiérarchie ci-dessus. Les cartes des deux couleurs choisies sont interchangeables, en ce qu'un stikkar ou une carte de prise d'une couleur choisie peut être battu par une meilleure carte de la même couleur ou de l'autre couleur choisie. Cependant, il y a un vieux dicton danois « Den ene straffer ikke den anden » (« L'un ne bat pas l'autre »), signifiant que le premier joué de cartes **égales** dans les couleurs choisies est meilleur — par exemple, si les stýrivolts des deux couleurs choisies sont joués dans la même levée, le second ne peut pas battre le premier joué.
 
-The other cards of the chosen suits have no power unless they are led to a trick. The operate as shown in the following table: 
+Les autres cartes des couleurs choisies n'ont aucun pouvoir sauf si elles sont menées. Elles fonctionnent comme indiqué dans le tableau suivant :
 
-| Chosen sevens | lambs | lomb, but in Kunoy they are called høsn (hens) | Lambs cannot beat anything but also cannot be beaten. If a lamb is led it always wins the trick. However, a lamb cannot be led to the first trick; a lamb may only be led by a player who has already won a trick. |
-| Chosen eights and nines | free cards | fríkort | Free cards do not beat anything. If a free card is led, it can only be beaten by a stikkar. |
-| Chosen kings and queens | kings, queens | kongar, frýr | They do not beat anything; the king does not even beat the queen of the same suit, if she is led. Nevertheless they are good leads, for when led a king can only be beaten by a "tvist" or better, and a queen only by a "trist" or better. |
-| Chosen fives | traders | keypmenn, but in Gjógv, on Eysturoy island, they are called fimmikar | The holder of a trader exchanges it for the exposed chosen card in the same suit. Traders have no value in themselves in the play. If you attempt to lead a trader to a trick, it behaves as though you exchanged it for the exposed card of that suit, and then led the card you had obtained. |
+| Sept choisis | agneaux | lomb, mais à Kunoy ils sont appelés høsn (poules) | Les agneaux ne battent rien mais ne peuvent pas non plus être battus. Si un agneau est mené, il gagne toujours la levée. Cependant, un agneau ne peut pas être mené à la première levée ; un agneau ne peut être mené que par un joueur qui a déjà remporté une levée. |
+| Huit et Neuf choisis | cartes libres | fríkort | Les cartes libres ne battent rien. Si une carte libre est menée, elle ne peut être battue que par un stikkar. |
+| Rois et Dames choisis | rois, dames | kongar, frýr | Ils ne battent rien ; le Roi ne bat même pas la Dame de la même couleur si elle est menée. Ils sont néanmoins de bonnes menées, car lorsqu'un Roi est mené il ne peut être battu que par un « tvist » ou mieux, et une Dame que par un « trist » ou mieux. |
+| Cinq choisis | marchands | keypmenn, mais à Gjógv, sur l'île d'Eysturoy, ils sont appelés fimmikar | Le détenteur d'un marchand l'échange contre la carte exposée de la même couleur choisie. Les marchands n'ont aucune valeur en eux-mêmes dans le jeu. Si vous tentez de mener un marchand dans une levée, il se comporte comme si vous l'aviez échangé contre la carte exposée de cette couleur, puis mené la carte obtenue. |
 
-As already mentioned, the cards in each "unchosen" suit rank in the usual sequence A, K, Q, J, 9, 8, 7, 6, 5, 4, 3, 2. An unchosen card can only beat a lower unchosen card of the **same suit**. An unchosen card cannot beat a card of a chosen suit in any circumstances. For example, if an unchosen queen has been led and been beaten by a trist, the king of the led suit cannot be used to beat the trist. 
+Comme mentionné précédemment, les cartes de chaque couleur « non choisie » se classent dans l'ordre habituel A, R, D, V, 9, 8, 7, 6, 5, 4, 3, 2. Une carte non choisie ne peut battre qu'une carte non choisie plus basse de la **même couleur**. Une carte non choisie ne peut pas battre une carte d'une couleur choisie en aucune circonstance. Par exemple, si une Dame non choisie a été menée et a été battue par un trist, le Roi de la couleur menée ne peut pas être utilisé pour battre le trist.
 
-If four cards of the same rank are in the same hand they all take on the value of the best of them. For example if you are lucky enough to have four deuces in your hand they become four **birds** and all rank as highest stikkar, like the **![heart](../images/internat/heart.gif)2**. In the same way four nines become four **mares** and four jacks become four **karniflar**. If you have four cards of the same rank you do not need to announce this until you play the first card whose rank is altered. At that point you say *"Hesin er góður"* ("This one is good") to indicate that you have four of a kind.
+Si quatre cartes de même rang se trouvent dans la même main, elles prennent toutes la valeur de la meilleure d'entre elles. Par exemple, si vous avez la chance d'avoir quatre Deux dans votre main, ils deviennent quatre **oiseaux** et se classent tous comme les stikkar les plus hauts, comme le ![cœur]2. De la même façon, quatre Neuf deviennent quatre **juments** et quatre Valets deviennent quatre **karniflar**. Si vous avez quatre cartes de même rang, vous n'avez pas besoin de l'annoncer avant de jouer la première carte dont le rang est modifié. À ce moment, vous dites « Hesin er góður » (« Celui-ci est bon ») pour indiquer que vous avez un carré.
 
-## The Deal and Choosing Suits
+## La donne et le choix des couleurs
 
-The cards are shuffled, but not usually cut. The deal is clockwise, 9 cards to each player, 3 at a time. The turn to deal passes to the left after each hand.
+Les cartes sont battues, mais généralement pas coupées. La donne est dans le sens horaire, 9 cartes à chaque joueur, 3 à la fois. Le tour de donne passe à gauche après chaque main.
 
-The dealer then uses the remaining 12 card stock to determine the two **chosen suits**. The dealer takes cards one by one from the top of the stock, holding them so that he alone sees them, and continuing until he has found cards of three different suits (or to the end of the stock in the very unlikely case that it contains only cards of two suits). As soon as a card of a third suit appears the dealer stops taking cards. The first two suits found will be the chosen suits, and the dealer indicates these by putting the "best" card of each of these suits face up on the table. The remaining cards which the dealer looked at are put back in the stock, which now contains ten cards and is placed face down across one end of the chosen cards, leaving the other end sticking out so that the chosen cards' values can be seen.
+Le donneur utilise ensuite le talon de 12 cartes restant pour déterminer les deux **couleurs choisies**. Le donneur prend les cartes une par une du sommet du talon, les tenant de façon à être le seul à les voir, et continue jusqu'à avoir trouvé des cartes de trois couleurs différentes (ou jusqu'à la fin du talon dans le cas très improbable où il ne contiendrait que des cartes de deux couleurs). Dès qu'une carte d'une troisième couleur apparaît, le donneur arrête de prendre des cartes. Les deux premières couleurs trouvées seront les couleurs choisies, et le donneur les indique en posant la « meilleure » carte de chacune de ces couleurs face visible sur la table. Les cartes restantes que le donneur a examinées sont remises dans le talon, qui contient maintenant dix cartes et est placé face cachée en travers d'une extrémité des cartes choisies, laissant l'autre extrémité dépasser pour que les valeurs des cartes choisies soient visibles.
 
-When selecting which card of the chosen suit to expose, the following rules are followed:
+Pour sélectionner quelle carte de la couleur choisie exposer, les règles suivantes sont respectées :
 
-- If a trader of a suit was taken it is exposed. 
+- Si un marchand de la couleur a été pris, il est exposé.
 
-- If there was no trader in the suit, the highest stikkar in the suit is exposed.
+- S'il n'y avait pas de marchand dans la couleur, le stikkar le plus haut de la couleur est exposé.
 
-- If there was no trader in the suit, but the lamb was taken, the lamb is exposed, and if there were any stikkar in the suit, the highest stikkar is exposed as well.
+- S'il n'y avait pas de marchand dans la couleur, mais que l'agneau a été pris, l'agneau est exposé, et s'il y avait des stikkar dans la couleur, le stikkar le plus haut est également exposé.
 
-- If there was no trader, stikkar or lamb, the highest card is exposed in the following order of priority: six, eight or nine, two, three, king or four, queen (lowest).
+- S'il n'y avait ni marchand, ni stikkar, ni agneau, la carte la plus haute est exposée dans l'ordre de priorité suivant : Six, Huit ou Neuf, Deux, Trois, Roi ou Quatre, Dame (la plus basse).
 
-For this purpose, the king and the four are considered equal, and the dealer is free to choose which of these cards to expose - see the variations for further discussion. In the same way, the eight and nine of clubs are equal, both being free cards, and the dealer may expose either of these if there is nothing better.
+Pour cela, le Roi et le Quatre sont considérés égaux, et le donneur est libre de choisir laquelle de ces cartes exposer — voir les variantes pour plus de discussion. De la même manière, le Huit et le Neuf de trèfle sont égaux, tous deux étant des cartes libres, et le donneur peut exposer l'un ou l'autre s'il n'y a rien de mieux.
 
-Examples of choosing suits:
+Exemples de choix de couleurs :
 
-| Cards at the top of the stock | Chosen suits | Exposed cards |
-| 2, K, 3, J, 9 | hearts and spades | 2, 3 |
-| 6, 4, A, A, 7, 5 | clubs and diamonds | 4, 7, A |
-| 9, 5, 4, 7, 6, 2, 9 | hearts and clubs | 5, 7 |
+| Cartes au sommet du talon | Couleurs choisies | Cartes exposées |
+| 2, R, 3, V, 9 | cœur et pique | 2, 3 |
+| 6, 4, A, A, 7, 5 | trèfle et carreau | 4, 7, A |
+| 9, 5, 4, 7, 6, 2, 9 | cœur et trèfle | 5, 7 |
 
-A player who holds the five of either of the chosen suits (called the **trader**) can at any stage of the game take the exposed card of that suit in exchange for the trader. If two cards of a suit are exposed - a lamb and a stikkar - the holder of the trader can choose to exchange it for either card.
+Un joueur qui détient le Cinq de l'une ou l'autre des couleurs choisies (appelé le **marchand**) peut à tout moment du jeu prendre la carte exposée de cette couleur en échange du marchand. Si deux cartes d'une couleur sont exposées — un agneau et un stikkar — le détenteur du marchand peut choisir de l'échanger contre l'une ou l'autre carte.
 
-## The Play
+## Le jeu
 
-There are nine tricks. The player to the left of the dealer leads to the first trick, and the others each play a card in turn. Any card may be played to a trick - there is absolutely no requirement to follow suit, nor to beat the cards previously played. It is of course forbidden to take a card back into your hand after playing it - even if you accidentally played a "stikkar" on rubbish, once the card is exposed on the table you have burnt your boat. 
+Il y a neuf levées. Le joueur à la gauche du donneur mène la première levée, et chacun joue une carte à son tour. N'importe quelle carte peut être jouée dans une levée — il n'y a absolument aucune obligation de suivre la couleur, ni de battre les cartes précédemment jouées. Il est bien sûr interdit de reprendre une carte dans sa main après l'avoir jouée — même si vous avez accidentellement joué un « stikkar » sur des rebuts, une fois la carte exposée sur la table, vous avez brûlé vos vaisseaux.
 
-If a card of an unchosen suit is led (which is not a permanent stikkar nor declared as part of a four of a kind), and no taking card nor stikkar is played which is of sufficient power to beat the previous plays, the highest card of the suit led wins the trick. If an unchosen card is beaten by a taking card or stikkar, the trick is won by the highest taking card or stikkar played. If a chosen card is led, it either wins the trick, or the trick is won by the best taking card or stikkar that is used to beat it, according to the ranking of cards described above. Whoever wins a trick leads to the next one.
+Si une carte d'une couleur non choisie est menée (qui n'est pas un stikkar permanent ni déclarée comme faisant partie d'un carré), et qu'aucune carte de prise ni stikkar n'est joué avec un pouvoir suffisant pour battre les cartes précédentes, la carte la plus haute de la couleur menée remporte la levée. Si une carte non choisie est battue par une carte de prise ou un stikkar, la levée est remportée par la carte de prise ou le stikkar le plus élevé joué. Si une carte choisie est menée, elle gagne soit la levée, soit la levée est remportée par la meilleure carte de prise ou stikkar utilisée pour la battre, selon la hiérarchie des cartes décrite ci-dessus. Celui qui gagne une levée mène la suivante.
 
-Each team's object is to win at least five of the nine tricks. As soon as one team has taken five tricks they have won and there is no need to play out the rest of the cards. If one side wins the **first** five tricks they are said to have **kept in** or **made vol**. If a **single player** takes the first five tricks then that player has kept in on his own (made vol from a single hand). A team which "keeps in" scores extra, but instead of claiming this score they can keep quiet and continue playing to try to take all nine tricks. Winning nine tricks is worth more than just keeping in but if you play on and the opponents subsequently win a trick, the bonus for keeping in has slipped through your fingers and you just score for a game ordinarily won.
+L'objectif de chaque équipe est de gagner au moins cinq des neuf levées. Dès qu'une équipe a pris cinq levées, elle a gagné et il n'est pas nécessaire de jouer les cartes restantes. Si un côté gagne les **cinq premières** levées, on dit qu'il a **mis dedans** ou a **fait vol**. Si un **seul joueur** prend les cinq premières levées, il a mis dedans tout seul (fait vol en solo). Une équipe qui « met dedans » marque un bonus, mais au lieu de réclamer ce score, elle peut se taire et continuer à jouer pour tenter de prendre les neuf levées. Gagner neuf levées rapporte plus que simplement « mettre dedans », mais si vous continuez et que les adversaires gagnent ensuite une levée, le bonus pour avoir « mis dedans » vous a échappé et vous marquez simplement pour une partie ordinairement gagnée.
 
-## Taking the Stock
+## Prendre le talon
 
-If your hand is so bad that you cannot beat a free card (*fríkort*), in other words you have no stikkar (though you might have the trader for a stikkar) then you have the right to take the stock cards in exchange for your hand. If you have bad cards accompanied by a low stikkar, the stikkar is called a **stockhound** *(stammuhundur)* because it prevents you from taking the stock.
+Si votre main est si mauvaise que vous ne pouvez pas battre une carte libre (*fríkort*), c'est-à-dire que vous n'avez aucun stikkar (bien que vous puissiez avoir le marchand pour un stikkar), alors vous avez le droit de prendre les cartes du talon en échange de votre main. Si vous avez de mauvaises cartes accompagnées d'un stikkar bas, ce stikkar est appelé un **chien de talon** *(stammuhundur)* car il vous empêche de prendre le talon.
 
-If you want to take the stock, you must do so before you play from your hand. If the stock has not been taken by the time the first trick has been put aside then no one can take it. The right to take the stock passes clockwise, so that if two players want it, the player earlier in clockwise order starting to the left of the dealer can take it. Apart fron the process of choosing suits (described above), no one is permitted to look at any of the face down cards in the stock without taking it. 
+Si vous voulez prendre le talon, vous devez le faire avant de jouer depuis votre main. Si le talon n'a pas été pris au moment où la première levée a été mise de côté, personne ne peut le prendre. Le droit de prendre le talon passe dans le sens horaire, de sorte que si deux joueurs le veulent, le joueur le plus tôt dans l'ordre horaire à partir de la gauche du donneur peut le prendre. Outre le processus de choix des couleurs (décrit ci-dessus), personne n'est autorisé à regarder les cartes face cachée du talon sans le prendre.
 
-When you take the stock, you put your hand face down in its place. There are ten cards in the stock, so after taking it you will have one more card than the other players, but this does not matter. If you wish, you can discard a worthless card, putting it back into the stock or adding it to one of the tricks, for example the first trick.
+Quand vous prenez le talon, vous posez votre main face cachée à sa place. Il y a dix cartes dans le talon, donc après l'avoir pris vous aurez une carte de plus que les autres joueurs, mais cela n'a pas d'importance. Si vous le souhaitez, vous pouvez défausser une carte sans valeur, en la remettant dans le talon ou en l'ajoutant à une des levées, par exemple la première.
 
-If both a lamb and a stikkar in either of the chosen suits were exposed, and someone wishes to take the stock, then whoever holds the trader of that suit has a last chance to trade it for one of the two exposed cards of that suit. The other card will be taken along with the stock. It may happen that no one trades - the trader may be in the stock, or in the hand of the player who is about to take the stock, or the holder of the trader may decide not to trade yet, so as to fool the other players. If no one trades, player taking the stock can choose which one of the exposed cards of this suit to take with it. The other card of that suit remains exposed and available to be exchanged for the trader.
+Si un agneau et un stikkar de l'une ou l'autre des couleurs choisies étaient exposés, et que quelqu'un souhaite prendre le talon, alors quiconque détient le marchand de cette couleur a une dernière chance de l'échanger contre l'une des deux cartes exposées de cette couleur. L'autre carte sera prise avec le talon. Il se peut que personne n'échange — le marchand peut être dans le talon, ou dans la main du joueur qui s'apprête à prendre le talon, ou le détenteur du marchand peut décider de ne pas échanger encore, pour tromper les autres joueurs. Si personne n'échange, le joueur qui prend le talon peut choisir laquelle des cartes exposées de cette couleur il veut prendre avec lui. L'autre carte de cette couleur reste exposée et disponible pour être échangée contre le marchand.
 
-It often happens that the stock itself is unable to beat a free card. If you take the stock and find that it contains no stikkar, you are allowed to take your original cards back, provided that you did not discard a trader for a stikkar as part of your original hand and you have not used a trader found in the stock to acquire a stikkar. If you have done either of these things then you must stay with the stock. If neither your original hand nor the stock contains a stikkar nor a trader for a stikkar, you have the right to keep both sets of cards - so you will have 19 cards to play from, albeit very weak cards.
+Il arrive souvent que le talon lui-même soit incapable de battre une carte libre. Si vous prenez le talon et constatez qu'il ne contient aucun stikkar, vous êtes autorisé à reprendre vos cartes d'origine, à condition que vous n'ayez pas échangé un marchand contre un stikkar dans votre main d'origine et que vous n'ayez pas utilisé un marchand trouvé dans le talon pour acquérir un stikkar. Si vous avez fait l'une ou l'autre de ces choses, vous devez rester avec le talon. Si ni votre main d'origine ni le talon ne contiennent de stikkar ni de marchand pour un stikkar, vous avez le droit de garder les deux jeux de cartes — vous aurez donc 19 cartes pour jouer, bien que très faibles.
 
-If the stock has been taken and a second player also has the right to take it, then the second player can take up the cards that the first player discarded, change them back or keep both sets of cards by the same rules as above. Provided that the stock was taken for the first time during the first trick, it can be taken for the second time at any stage during the game by any other player whose **original hand** was unable to beat a free card.
+Si le talon a été pris et qu'un second joueur a également le droit de le prendre, alors le second joueur peut ramasser les cartes que le premier joueur a défaussées, les reprendre ou garder les deux jeux selon les mêmes règles que ci-dessus. À condition que le talon ait été pris pour la première fois pendant la première levée, il peut être pris une seconde fois à n'importe quel moment du jeu par tout autre joueur dont la **main d'origine** était incapable de battre une carte libre.
 
-## The Scoring
+## Le décompte
 
-The score is kept with chalk. First a **chalk-up**, consisting of one vertical stroke and three cross strokes is drawn. The game is scored by erasing the cross strokes, each partnership having its own side of the vertical stroke. When all three strokes on your side have been erased you score a cross, or if the other team already had a cross you erase it, and a new chalk-up is drawn. If a partnership wins two strokes and have only one left to erase then they get one erased on the next chalk-up as well as their cross. A partnership who manage to erase all three of their strokes before the other side have erased any get a **monk's cross** (*munkakross*), which counts as two crosses and is chalked with two transversals. Sometimes this is called a *munkur á krossi* ('monk on the cross').
+Le score est tenu à la craie. D'abord une **ardoise** est tracée, composée d'un trait vertical et de trois traits transversaux. Le jeu est marqué en effaçant les traits transversaux, chaque partenariat ayant son côté du trait vertical. Quand les trois traits de votre côté ont été effacés, vous marquez une croix, ou si l'autre équipe a déjà une croix vous l'effacez, et une nouvelle ardoise est tracée. Si un partenariat gagne deux traits et n'en a plus qu'un à effacer, il en obtient un effacé sur l'ardoise suivante en plus de sa croix. Un partenariat qui réussit à effacer les trois traits avant que l'autre côté n'en ait effacé aucun obtient une **croix de moine** (*munkakross*), qui compte pour deux croix et est tracée avec deux transversales. Parfois on l'appelle *munkur á krossi* (« moine sur la croix »).
 
-The aim is to have as many crosses as possible on your side, monk's crosses counting as two. Only one team at a time can have any cross(es) and/or monk's cross(es). If you erase all your strokes while the opposing team has any crosses you erase one of their crosses. Only after all their crosses are gone can you draw a cross of your own. If you win a cross when your opponents have no single crosses but only one or more monk's crosses then half of a monk's cross is erased ("the monk is gelded"). It is not polite to erase from a monk's cross when there are ordinary crosses, but it is nevertheless sometimes done.
+Le but est d'avoir autant de croix que possible de son côté, les croix de moine comptant pour deux. Une seule équipe à la fois peut avoir des croix et/ou des croix de moine. Si vous effacez tous vos traits alors que l'équipe adverse a des croix, vous en effacez une de leurs croix. Ce n'est qu'après que toutes leurs croix sont parties que vous pouvez tracer votre propre croix. Si vous gagnez une croix alors que vos adversaires n'ont pas de croix simples mais une ou plusieurs croix de moine, la moitié d'une croix de moine est effacée (« le moine est châtré »). Il est impoli d'effacer sur une croix de moine quand il y a des croix ordinaires, mais cela se fait néanmoins parfois.
 
-The pair that win the majority of tricks in a deal have the right of access to the chalk-up and do their own chalking or erasing. If the pair who have won a game forget to chalk or erase the other team is not forced to remind them, but in some places it is held impolite to keep quiet. The team that have no crosses have the duty of making the next chalk-up itself and keep this duty until they eliminate all the other team's crosses and get a cross of their own. Making the chalk-up is therefore regarded as mucky work, and there are often jokes like, "shovel some manure for us". The first chalk-up is done by the first dealer. 
+La paire qui gagne la majorité des levées d'une donne a le droit d'accéder à l'ardoise et fait son propre traçage ou effacement. Si la paire qui a gagné une partie oublie de tracer ou d'effacer, l'autre équipe n'est pas tenue de la leur rappeler, mais à certains endroits il est considéré impoli de se taire. L'équipe qui n'a pas de croix a le devoir de tracer la prochaine ardoise et conserve ce devoir jusqu'à ce qu'elle élimine toutes les croix de l'autre équipe et obtienne une croix à elle. Tracer l'ardoise est donc considéré comme un sale travail, et il y a souvent des blagues du genre « remue du fumier pour nous ». La première ardoise est tracée par le premier donneur.
 
-The scores are as follows:
+Les scores sont les suivants :
 
-| Winning an ordinary game | . . . . | One stroke |
-| Keeping in (vol) | . . . . | Two strokes |
-| Winning nine tricks | . . . . | Three strokes |
-| Keeping in alone | . . . . | One monk's cross |
-| Winning nine tricks alone | . . . . | Two monk's crosses |
-| Taking up the stock with no right to it | . . . . | Penalty: one monk's cross to the opponents |
+| Gagner une partie ordinaire | . . . . | Un trait |
+| Mettre dedans (vol) | . . . . | Deux traits |
+| Gagner neuf levées | . . . . | Trois traits |
+| Mettre dedans en solo | . . . . | Une croix de moine |
+| Gagner neuf levées en solo | . . . . | Deux croix de moine |
+| Prendre le talon sans y avoir droit | . . . . | Pénalité : une croix de moine aux adversaires |
 
-If a single player keeps in alone, or performs the rare feat of winning all nine tricks, or a team is penalised for taking the stock illegally, the monk's crosses scored do not affect the chalk-up. Any erased strokes previously erased from either side of the the chalk-up remain erased. 
+Si un seul joueur met dedans en solo, ou accomplit l'exploit rare de gagner les neuf levées, ou qu'une équipe est pénalisée pour avoir pris le talon illégalement, les croix de moine marquées n'affectent pas l'ardoise. Les traits précédemment effacés de l'un ou l'autre côté de l'ardoise restent effacés.
 
-### Example of Scoring
+### Exemple de décompte
 
-In this example **team A** score on the left of the slate and **team B** score on the right.
+Dans cet exemple, **l'équipe A** marque à gauche de l'ardoise et **l'équipe B** à droite.
 
-| 1. The initial chalk-up. | 2. Team B wins an ordinary game. | 3. Team A keeps in. |
-| 4. Team A wins an ordinary game and scores a cross. Team B makes a new chalk-up. | 5. Team A wins an ordinary game. | 6. Team A keeps in and wins a monk's cross, since B have not erased any strokes on the chalk-up. |
-| 7. Team B keeps in. | 8. Team A wins an ordinary game. | 9. Team B takes 9 tricks and can erase three strokes - one on the old chalk-up and two on the new one. |
-| 10. Team A wins an ordinary game. | 11. Team B wins an ordinary game and gelds the monk. |
+| 1. L'ardoise initiale. | 2. L'équipe B gagne une partie ordinaire. | 3. L'équipe A met dedans. |
+| 4. L'équipe A gagne une partie ordinaire et marque une croix. L'équipe B trace une nouvelle ardoise. | 5. L'équipe A gagne une partie ordinaire. | 6. L'équipe A met dedans et gagne une croix de moine, puisque B n'a effacé aucun trait sur l'ardoise. |
+| 7. L'équipe B met dedans. | 8. L'équipe A gagne une partie ordinaire. | 9. L'équipe B prend 9 levées et peut effacer trois traits — un sur l'ancienne ardoise et deux sur la nouvelle. |
+| 10. L'équipe A gagne une partie ordinaire. | 11. L'équipe B gagne une partie ordinaire et châtre le moine. |
 
-## Tactics and Customs
+## Tactiques et coutumes
 
-A common lead is a free card (chosen eight ot nine), the ace of an unchosen suit or any other card that cannot be beaten too easily. This sort of lead indicates that the leader holds an ordinary hand; often the second and third players play low cards and the lead is first beaten by the fourth to play. 
+Une menée courante est une carte libre (Huit ou Neuf choisi), l'As d'une couleur non choisie ou toute autre carte qui ne peut pas être battue trop facilement. Ce type de menée indique que le meneur a une main ordinaire ; souvent le deuxième et troisième joueur jouent des cartes basses et la menée n'est battue d'abord que par le quatrième joueur.
 
-When a low card from an unchosen suit is led it is like a sudden storm. The player who has called up the storm will be someone sitting with a strong hand and trying to keep in. If his partner has a high stikkar he will cooperate by heading the trick with it. On the other hand, if the partner only has a stýrivolt or karnifl and is sitting like a pregnant ewe waiting his time to produce a lamb, he will calm the storm and let the first trick go. The opponents may try to stop the keeping in from storming through.
+Quand une carte basse d'une couleur non choisie est menée, c'est comme un orage soudain. Le joueur qui a déclenché l'orage sera quelqu'un assis avec une main forte et essayant de « mettre dedans ». Si son partenaire a un stikkar élevé, il coopérera en prenant la tête de la levée. D'un autre côté, si le partenaire n'a qu'un stýrivolt ou un karnifl et qu'il est assis comme une brebis pleine attendant son heure de produire un agneau, il calmera l'orage et laissera la première levée aller. Les adversaires peuvent essayer d'empêcher le « metteur dedans » de passer en force.
 
-If a strong card, such as a powerful "stikkar", is led initially then the opponents will have to try to beat it if they suspect the player leading is trying to keep in on his own. He might, after all, hold four lambs.
+Si une carte forte, comme un puissant « stikkar », est menée en premier, alors les adversaires devront essayer de la battre s'ils soupçonnent que le meneur essaie de « mettre dedans » tout seul. Après tout, il pourrait bien avoir quatre agneaux.
 
-As suit need not be followed, it is hard to estimate where the lambs and stikkar are, especially when the stock has not been taken so that not all the cards are in play. So it is important to fool the opposition as far as possible and to reveal one's own holding as little as possible. For example if a player has the right to the stock after someone else has taken it he will lie in wait until he is playing fourth before taking it, hoping for a postman or tvist.
+Comme il n'est pas nécessaire de suivre la couleur, il est difficile d'estimer où sont les agneaux et les stikkar, surtout lorsque le talon n'a pas été pris de sorte que toutes les cartes ne sont pas en jeu. Il est donc important de tromper l'adversaire autant que possible et de révéler le moins possible sa propre main. Par exemple, si un joueur a le droit au talon après que quelqu'un d'autre l'a pris, il attendra en embuscade jusqu'à jouer en quatrième position avant de le prendre, en espérant un facteur ou un tvist.
 
-Often players discard cards of the same rank as the lead and shuffling is not over zealous, so that there is a good chance that someone will get four of a kind in the next deal and the game will be more amusing. For example it is common to throw dead sevens when a lamb is led.
+Souvent les joueurs défaussent des cartes du même rang que la menée et le brassage n'est pas trop zélé, de sorte qu'il y a de bonnes chances que quelqu'un obtienne un carré à la prochaine donne et que le jeu soit plus amusant. Par exemple, il est courant de jeter des Sept morts lorsqu'un agneau est mené.
 
-## Variations
+## Variantes
 
-### Cutting for a stikkar
+### Couper pour un stikkar
 
-Some play that the cards are cut before the deal, and the player making the cut looks the card which will become the the bottom card of the stock. If this card is a permanent stikkar, it is laid face up on the table and can be exchanged after the deal by the holder of the king of the same suit. This has to be done before the end of the first trick and before anyone takes the stock (a player who wishes to take the stock must wait for the holder of the king to take the stikkar). If the exposed stikkar is not claimed by the holder of the king, it goes with the stock. If the king is in the stock and thus no one claims the stikkar, it can be agreed that the queen of the same suit can be used instead to trade for the exposed stikkar. 
+Certains jouent que les cartes sont coupées avant la donne, et que le joueur qui coupe regarde la carte qui deviendra la carte du bas du talon. Si cette carte est un stikkar permanent, elle est posée face visible sur la table et peut être échangée après la donne par le détenteur du Roi de la même couleur. Cela doit être fait avant la fin de la première levée et avant que personne ne prenne le talon (un joueur qui souhaite prendre le talon doit attendre que le détenteur du Roi prenne le stikkar). Si le stikkar exposé n'est pas réclamé par le détenteur du Roi, il va avec le talon. Si le Roi est dans le talon et que personne ne réclame le stikkar, il peut être convenu que la Dame de la même couleur peut être utilisée à la place pour échanger contre le stikkar exposé.
 
-As a further variation on the above procedure, it can be agreed that the player who cuts is allowed to look 'until the fourth card' for a permanent stikkar. This means that if the bottom card of the stock is not a stikkar, the cutter is allowed to look further until he either finds a permanent stikkar or sees the fourth card, which is not a permanent stikkar.
+Comme variante supplémentaire de la procédure ci-dessus, il peut être convenu que le joueur qui coupe est autorisé à regarder « jusqu'à la quatrième carte » pour un stikkar permanent. Cela signifie que si la carte du bas du talon n'est pas un stikkar, le coupeur est autorisé à regarder plus loin jusqu'à ce qu'il trouve soit un stikkar permanent, soit voie la quatrième carte, qui n'est pas un stikkar permanent.
 
-Some players allow two stikkars to be exposed in this way. In this case, having found and exposed a stikkar, the player who cuts can continue looking at cards and if he finds a second permanent stikkar he can expose that too. The cutter is still only allowed to look at a maximum of four cards. The fifth card cannot be looked at, and in any case no further cards can be looked at after a second stikkar is exposed. The exposed stikkar can be exchanged for the kings of their suits, which then go with the stock. [??? If the two exposed stikkar are the bird and the hay-yard mare, the holder of the king of hearts will take the bird, and the queen of hearts can be exchanged for the mare. ???]
+Certains joueurs autorisent deux stikkar à être exposés de cette façon. Dans ce cas, après avoir trouvé et exposé un stikkar, le joueur qui coupe peut continuer à regarder les cartes et s'il trouve un second stikkar permanent, il peut l'exposer aussi. Le coupeur n'est toujours autorisé à regarder qu'un maximum de quatre cartes. La cinquième carte ne peut pas être regardée, et de toute façon aucune autre carte ne peut être regardée après qu'un second stikkar a été exposé. Les stikkar exposés peuvent être échangés contre les Rois de leurs couleurs, qui vont alors avec le talon. [??? Si les deux stikkar exposés sont l'oiseau et la jument de hay-yard, le détenteur du Roi de cœur prendra l'oiseau, et la Dame de cœur peut être échangée contre la jument. ???]
 
-### Choosing suits
+### Choisir les couleurs
 
-Some play that as the dealer is choosing suits, the cards turned up from the top of the stock are laid out face up on the table, so that everyone can see them.
+Certains jouent qu'au moment où le donneur choisit les couleurs, les cartes retournées du sommet du talon sont étalées face visible sur la table, pour que tout le monde puisse les voir.
 
-Traditionally, it was left to the judgement of the dealer to expose whichever he thought was the most powerful card of each chosen suit. The priority order given in the main rules above represents the combined judgement of five experienced players consulted by Jógvan Bærentsen in 1974. For the low cards, the priority order is based on the following comparison of their powers:
+Traditionnellement, on laissait au jugement du donneur d'exposer la carte qu'il jugeait la plus puissante de chaque couleur choisie. L'ordre de priorité donné dans les règles principales ci-dessus représente le jugement combiné de cinq joueurs expérimentés consultés par Jógvan Bærentsen en 1974. Pour les cartes basses, l'ordre de priorité est basé sur la comparaison suivante de leurs pouvoirs :
 
-| Card | Is it capable of beating any other cards? | What is the lowest card that beats it, if it is led? |
-| Two | YES | Six |
-| Three | YES | Two |
-| King | NO | Two |
-| Four | YES | Three |
-| Queen | NO | Three |
+| Carte | Peut-elle battre d'autres cartes ? | Quelle est la carte la plus basse qui la bat, si elle est menée ? |
+| Deux | OUI | Six |
+| Trois | OUI | Deux |
+| Roi | NON | Deux |
+| Quatre | OUI | Trois |
+| Dame | NON | Trois |
 
-There was some disagreement between the players consulted about which was to be considered "better" of a king and a four if they were the only available cards of a chosen suit. It is generally accepted that the chooser is free to decide between these two cards.
+Il y avait un certain désaccord entre les joueurs consultés sur laquelle devait être considérée comme « meilleure » entre un Roi et un Quatre s'ils étaient les seules cartes disponibles d'une couleur choisie. Il est généralement admis que le choix est libre de décider entre ces deux cartes.
 
-### Trading the king of hearts for the bird
+### Échanger le Roi de cœur contre l'oiseau
 
-Some play that if the bird (**![heart](../images/internat/heart.gif)2**) is exposed to indicate hearts as a chosen suit, and it has not been traded for the **![heart](../images/internat/heart.gif)5** before the last trick, then the holder of the **![heart](../images/internat/heart.gif)K** can trade this card for the bird. Even in the last trick, if anyone does hold the **![heart](../images/internat/heart.gif)5** they have priority over the **![heart](../images/internat/heart.gif)K** if both want to claim the bird.
+Certains jouent que si l'oiseau (![cœur]2) est exposé pour indiquer le cœur comme couleur choisie, et qu'il n'a pas été échangé contre le ![cœur]5 avant la dernière levée, alors le détenteur du ![cœur]R peut échanger cette carte contre l'oiseau. Même dans la dernière levée, si quelqu'un détient le ![cœur]5, il a la priorité sur le ![cœur]R si les deux veulent réclamer l'oiseau.
 
-### Play with compulsory beating
+### Jeu avec obligation de battre
 
-The game can be made significantly simpler by imposing a rule that every player must beat the highest card so far played to the trick if possible, unless this highest card was played by his partner.
+Le jeu peut être considérablement simplifié en imposant la règle que chaque joueur doit battre la carte la plus haute jouée dans la levée si possible, sauf si cette carte la plus haute a été jouée par son partenaire.
 
-### Timing of taking the stock
+### Moment de prise du talon
 
-Some play that the stock can be taken for the first time even after the end of the first trick. There are also many variant rules for when the stock can be changed back and for when someone can keep both. If the players have not agreed a rule before the question arises in play there can be a nice little quarrel, making the game even more entertaining.
+Certains jouent que le talon peut être pris pour la première fois même après la fin de la première levée. Il existe aussi de nombreuses variantes de règles pour savoir quand le talon peut être échangé en retour et quand quelqu'un peut garder les deux. Si les joueurs n'ont pas convenu d'une règle avant que la question ne se pose en jeu, il peut y avoir une petite dispute amusante, rendant le jeu encore plus divertissant.
 
-### Keeping Score
+### Tenue du score
 
-Chalk-ups are sometimes drawn horizontally: .
+Les ardoises sont parfois tracées horizontalement : .
 
-Sometimes the strokes to be erased are joined to form an 'S': .
+Parfois les traits à effacer sont reliés pour former un « S » : .
 
-Although strokes from the chalk-up are generally erased from top to bottom, they can be erased in any order.
+Bien que les traits de l'ardoise soient généralement effacés de haut en bas, ils peuvent être effacés dans n'importe quel ordre.
 
-Crosses are sometimes drawn diagonally: .
+Les croix sont parfois tracées en diagonale : .
 
-Monk's crosses may be drawn horizontally rather than vertically: .
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Stýrivolt
+Les croix de moine peuvent être tracées horizontalement plutôt que verticalement : .

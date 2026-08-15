@@ -3,112 +3,110 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A North American game in which players must add an equal or lower set of cards to the play pile or take the pile. The first to get rid of all their cards is the winner.
+**But :** Un jeu nord-américain dans lequel les joueurs doivent ajouter un ensemble de cartes égal ou inférieur au tas ou ramasser le tas. Le premier à se débarrasser de toutes ses cartes est le gagnant.
 
 ---
 
 ## Introduction
 
-The game of **Swoop**, also sometimes known as **Swipe**, **Swoosh** or **Swish** appeared in North America in the second decade of the 21st century. It seems likely that it was inspired by the popular game Shithead, with which it shares several features: each player has a hand of cards and some cards face up and face down on the table, the aim is to get rid of all these cards by playing them to the central pile, this pile can be cleared by playing a 10 or completing a four of a kind, and a player who does not play an appropriate card at their turn (in this game an appropriate card is one that is equal to or lower than the top card of the play pile) must pick up the play pile and add it to their hand. The new features of Swoop include a much larger hand size, the use of multiple decks, a change of objective whereby each deal has a winner - the first player to run out of cards - rather than a single loser, and scoring based on cards remaining in the other players' hands.
+Le jeu de **Swoop**, aussi parfois connu sous le nom de **Swipe**, **Swoosh** ou **Swish**, est appara en Amérique du Nord dans la deuxième décennie du XXIe siècle. Il semble probable qu'il a été inspiré par le jeu populaire Shithead, avec lequel il partage plusieurs caractéristiques : chaque joueur a une main de cartes et des cartes face visibles et face cachées sur la table, le but est de se débarrasser de toutes ces cartes en les jouant dans le tas central, ce tas peut être nettoyé en jouant un 10 ou en complétant un carré, et un joueur qui ne joue pas une carte appropriée à son tour (dans ce jeu, une carte appropriée est une carte égale ou inférieure à la carte du haut du tas) doit ramasser le tas et l'ajouter à sa main. Les nouvelles caractéristiques du Swoop incluent une taille de main beaucoup plus grande, l'utilisation de plusieurs jeux, un changement d'objectif où chaque donne a un gagnant — le premier joueur à n'avoir plus de cartes — plutôt qu'un seul perdant, et un marquage basé sur les cartes restantes dans les mains des autres joueurs.
 
-*This page is based on a contribution from Ernest Petti, who learned the game from friends in Vancouver.*
+*Cette page est basée sur une contribution d'Ernest Petti, qui a appris le jeu d'amis à Vancouver.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Swoop can be played with 3 to 8 players, using a number of standard 52-card packs each with two jokers. 3 or 4 players use 2 decks (108 cards), 5 or 6 players use 3 decks (162 cards) and 7 or 8 players use 4 decks (216 cards). 
+Le Swoop peut être joué de 3 à 8 joueurs, en utilisant un certain nombre de jeux standard de 52 cartes avec deux jokers chacun. 3 ou 4 joueurs utilisent 2 jeux (108 cartes), 5 ou 6 joueurs utilisent 3 jeux (162 cartes) et 7 ou 8 joueurs utilisent 4 jeux (216 cartes).
 
-Suits are irrelevant and the cards rank from low to high A-2-3-4-5-6-7-8-9-J-Q-K. 10's and jokers are special cards with no particular rank. 
+Les couleurs sont sans importance et les cartes vont de bas en haut A-2-3-4-5-6-7-8-9-V-D-R. Les 10 et les jokers sont des cartes spéciales sans valeur particulière.
 
-The direction of play is clockwise.
+Le sens du jeu est horaire.
 
-## The Deal
+## La donne
 
-19 cards are dealt to each player. Without first looking at these cards each player places four of their cards face down in a row on the table in front of them. These are sometimes known as "**mystery cards**". They then place four more cards face up on the table, one on top of each mystery card. They pick up their remaining 11 cards to form their hand, which they look at while keeping the cards hidden from the other players.
+19 cartes sont distribuées à chaque joueur. Sans d'abord regarder ces cartes, chaque joueur pose quatre de ses cartes face cachées en rangée sur la table devant lui. Ce sont parfois appelées les **« cartes mystères »**. Ensuite, il pose quatre autres cartes face visibles sur la table, une sur chaque carte mystère. Il ramasse ses 11 cartes restantes pour former sa main, qu'il regarde tout en gardant les cartes cachées des autres joueurs.
 
-While it would be possible for a dealer to distribute the cards as in most card games, it seems to be usual in this game for the cards to be thoroughly mixed in a heap face down on the table after which each player takes 19 cards for themselves.
+Bien qu'il serait possible pour un donneur de distribuer les cartes comme dans la plupart des jeux de cartes, il semble usuel dans ce jeu que les cartes soient soigneusement mélangées en tas face cachées sur la table, après quoi chaque joueur prend 19 cartes pour lui-même.
 
-The undealt cards are set aside and not used in the play.
+Les cartes non distribuées sont mises de côté et ne sont pas utilisées dans le jeu.
 
-## The Play
+## Le jeu
 
-The first player in the first deal may be chosen by any convenient method that may be agreed. One popular method is for each player to draw a card from the pile of cards that were set aside during the deal, and whoever draws the highest card begins (in case of a tie the tied players draw again). In subsequent deals the turn to start the play passes clockwise around the table.
+Le premier joueur de la première donne peut être choisi par n'importe quelle méthode pratique convenue. Une méthode populaire est que chaque joueur pioche une carte du tas de cartes mises de côté pendant la donne, et celui qui pioche la carte la plus haute commence (en cas d'égalité, les joueurs à égalité piochent à nouveau). Lors des donnes suivantes, le tour de commencer passe dans le sens horaire autour de la table.
 
-Players take turns to play cards on top of a face up 'play pile' in the centre of the table. Each play consists of from one to four cards, which may come from their hand or the face up cards on the table or a combination of both. When more than one card is played together they must be equal to each other in rank. The consequences depend on the rank of the card(s) played as follows.
+Les joueurs jouent à tour de rôle des cartes sur un tas face visible au centre de la table. Chaque jeu consiste en une à quatre cartes, qui peuvent venir de leur main ou des cartes face visibles sur la table ou une combinaison des deux. Quand plus d'une carte est jouée ensemble, elles doivent être égales en valeur. Les conséquences dépendent de la valeur de la ou des cartes jouées comme suit.
 
-- If the rank of card(s) played is **equal to or lower than** the top card of the play pile the new cards are placed on top of the play pile.
+- Si la valeur de la ou des cartes jouées est **égale ou inférieure à** la carte du haut du tas, les nouvelles cartes sont placées sur le tas.
 
-- If the cards played are **higher** in rank than the top card of the play pile, the player must pick up the whole of the existing play pile and add it to their hand before playing these higher cards to begin a new play pile.
+- Si les cartes jouées sont **supérieures** en valeur à la carte du haut du tas, le joueur doit ramasser tout le tas existant et l'ajouter à sa main avant de jouer ces cartes supérieures pour commencer un nouveau tas.
 
-- If the play pile was empty then the played card(s) simply begin(s) a new play pile.
+- Si le tas était vide, la ou les cartes jouées commencent simplement un nouveau tas.
 
-The turn then passes to the next player in clockwise order unless there was a swoop or the player ended the game by playing their last card.
+Le tour passe ensuite au joueur suivant dans le sens horaire, sauf s'il y a eu un swoop ou si le joueur a terminé la partie en jouant sa dernière carte.
 
-### The Swoop
+### Le Swoop
 
-A swoop occurs when a player adds cards to the play pile in such a way that the top four cards of the play pile are equal in rank. In this case the whole play pile is set aside out of play and the same player takes another turn. This can be achieved either by playing a set of four equal cards from hand, or by playing sufficient cards equal to the top card of the play pile to make the number of equal cards up to four.
+Un swoop se produit quand un joueur ajoute des cartes au tas de telle sorte que les quatre cartes du haut du tas sont égales en valeur. Dans ce cas, tout le tas est mis de côté hors du jeu et le même joueur joue à nouveau. Cela peut être réalisé soit en jouant un ensemble de quatre cartes égales depuis la main, soit en jouant suffisamment de cartes égales à la carte du haut du tas pour porter le nombre de cartes égales à quatre.
 
-A 10 or a Joker can be played on any turn irrespective of what is in the play pile. This also causes a Swoop - the whole play pile along with the 10 or Joker is set aside out of the game and the player takes another turn.
+Un 10 ou un Joker peut être joué à n'importe quel tour indépendamment de ce qu'il y a dans le tas. Cela cause aussi un Swoop — tout le tas avec le 10 ou le Joker est mis de côté hors du jeu et le joueur joue à nouveau.
 
-The play pile should be kept slightly fanned so that players can see at least how many equal cards are on top of it.
+Le tas doit être gardé légèrement éventé pour que les joueurs puissent voir au moins combien de cartes égales il y a sur le dessus.
 
-Players are not allowed to create a set of more than four equal cards on top of the play pile. For example if there are three 8's on top of the pile the next player cannot play a pair of 8's together. They can play one 8 for a swoop and then use their free turn to play their other 8 (or any other card or set they wish) to begin a new play pile.
+Les joueurs ne sont pas autorisés à créer un ensemble de plus de quatre cartes égales sur le dessus du tas. Par exemple, s'il y a trois 8 sur le dessus du tas, le joueur suivant ne peut pas jouer une paire de 8 ensemble. Il peut jouer un 8 pour un swoop puis utiliser son tour libre pour jouer son autre 8 (ou n'importe quelle autre carte ou ensemble qu'il souhaite) pour commencer un nouveau tas.
 
-Since each swoop gives the player a new turn, it is possible for a player to play several swoops in succession if they have the requisite cards.
+Puisque chaque swoop donne au joueur un nouveau tour, il est possible pour un joueur de jouer plusieurs swoops de suite s'il a les cartes nécessaires.
 
-If a player plays four equal cards that are higher than the top card of the play pile, the player must first pick up the play pile before playing their set of four higher cards as a swoop, and setting them aside. They can then use their extra turn to play more cards, which may include cards they picked up from the play pile. Example: the play pile is Q-Q-9-9-9-7. The next player holds K-K-K-K-Q-Q-9-7-5. This player can play K-K-K-K picking up the pile and making a swoop with the kings. The player can then continue with two more swoops - four queens and four nines - and end their turn by playing the pair of sevens.
+Si un joueur joue quatre cartes égales supérieures à la carte du haut du tas, il doit d'abord ramasser le tas avant de jouer son ensemble de quatre cartes supérieures comme un swoop et les mettre de côté. Il peut ensuite utiliser son tour supplémentaire pour jouer d'autres cartes, qui peuvent inclure des cartes ramassées du tas. Exemple : le tas est D-D-9-9-9-7. Le joueur suivant détient R-R-R-R-D-D-9-7-5. Ce joueur peut jouer R-R-R-R en ramassant le tas et en faisant un swoop avec les rois. Le joueur peut ensuite continuer avec deux swoops supplémentaires — quatre dames et quatre neuf — et terminer son tour en jouant la paire de sept.
 
-### Mystery Cards
+### Cartes mystères
 
-In order to win the game it is necessary to get rid of not only all your hand cards and face up table cards but also your four face down "mystery cards". A mystery card cannot be played until the face up card that covered it has been played.
+Pour gagner la partie, il est nécessaire de se débarrasser non seulement de toutes les cartes en main et des cartes face visibles sur la table, mais aussi des quatre cartes face cachées « mystères ». Une carte mystère ne peut être jouée que lorsque la carte face visible qui la couvrait a été jouée.
 
-A mystery (face down) card can only be played as the first card of a turn (either the first card of the player's initial turn or the first card of an extra turn earned as a result of a swoop). The player flips the unknown mystery card face up and must immediately play it. If the player has other cards of the same rank in hand or face up on the table, these cards may be added to the mystery card and played as a set. The consequences of this play are the same as for normal plays - for example if the mystery card turns out to be higher than the top card of the play pile the player must pick up the play pile and play the mystery card (and any matching cards added to it) in its place. 
+Une carte mystère (face cachée) ne peut être jouée que comme première carte d'un tour (soit la première carte du tour initial du joueur, soit la première carte d'un tour supplémentaire gagné grâce à un swoop). Le joueur retourne la carte mystère inconnue face visible et doit immédiatement la jouer. Si le joueur a d'autres cartes de même valeur en main ou face visibles sur la table, ces cartes peuvent être ajoutées à la carte mystère et jouées comme un ensemble. Les conséquences de ce jeu sont les mêmes que pour les jeux normaux — par exemple, si la carte mystère se révèle supérieure à la carte du haut du tas, le joueur doit ramasser le tas et jouer la carte mystère (et toute carte correspondante ajoutée) à sa place.
 
-## The Scoring
+## Le marquage
 
-When one player runs out of cards, the other players total the value of the cards remaining in their hands. The scores for cards are
+Quand un joueur n'a plus de cartes, les autres joueurs totalisent la valeur des cartes restantes dans leur main. Les scores des cartes sont
 
-- Ace: 1 point each, 
+- As : 1 point chacun,
 
-- 2-9: face value, 
+- 2-9 : valeur faciale,
 
-- Jacks, Queens, Kings: 10 points each, 
+- Valets, Dames, Rois : 10 points chacun,
 
-- 10s and Jokers: 50 points each.
+- 10 et Jokers : 50 points chacun.
 
-Each player keeps a cumulative score over a series of deals and the game ends when any player or players reaches 500 points or more. The player with the lowest score at this point is the winner.
+Chaque joueur conserve un score cumulé sur une série de donnes et le jeu se termine quand n'importe quel joueur atteint 500 points ou plus. Le joueur ayant le score le plus bas à ce moment est le gagnant.
 
-## Variations
+## Variantes
 
-### Alternate Scoring
+### Marquage alternatif
 
-For easier arithmetic, some play with different card scores:
+Pour un calcul plus facile, certains jouent avec des scores de cartes différents :
 
-- Ace-9: 5 points each, 
+- As-9 : 5 points chacun,
 
-- Jacks, Queens, Kings: 10 points each, 
+- Valets, Dames, Rois : 10 points chacun,
 
-- 10s and Jokers: 20 points each. 
+- 10 et Jokers : 20 points chacun.
 
-### Deal Variants
+### Variantes de donne
 
-The number of hand cards may vary - for example some play with 20 cards each: 12 in hand, 4 mystery cards and 4 face up table cards. 
+Le nombre de cartes en main peut varier — par exemple, certains jouent avec 20 cartes chacun : 12 en main, 4 cartes mystères et 4 cartes face visibles sur la table.
 
-Some play with only face down cards on the table and all the other cards in the players' hands. Others play a simpler version with hand cards only and no cards dealt to the table.
+Certains jouent uniquement avec des cartes face cachées sur la table et toutes les autres cartes dans la main des joueurs. D'autres jouent une version plus simple avec uniquement des cartes en main et aucune carte distribuée sur la table.
 
-### Only Jokers are Swoop cards
+### Seuls les Jokers sont des cartes Swoop
 
-Some play that the only Swoop cards are the jokers. The 10s are just ordinary cards worth 10 points ranking between the 9 and the Jack. 
+Certains jouent que les seules cartes Swoop sont les jokers. Les 10 sont de simples cartes ordinaires valant 10 points, classées entre le 9 et le Valet.
 
-### Swoop with more than 4 cards
+### Swoop avec plus de 4 cartes
 
-Some play that a swoop can be made with a set of at least four equal cards on top of the play pile, not necessarily exactly four.
+Certains jouent qu'un swoop peut être fait avec un ensemble d'au moins quatre cartes égales sur le dessus du tas, pas nécessairement exactement quatre.
 
-## Commercial Versions
+## Versions commerciales
 
-As often happens in North America, some people have produced commercial versions of this game using custom decks. For example:
+Comme cela arrive souvent en Amérique du Nord, certaines personnes ont produit des versions commerciales de ce jeu avec des jeux personnalisés. Par exemple :
 
-- Swipe: [https://playswipe.org/](https://playswipe.org/)
+- Swipe : [https://playswipe.org/](https://playswipe.org/)
 
-- Swoop: [https://swoop-cards.com/](https://swoop-cards.com/)
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Swoop
+- Swoop : [https://swoop-cards.com/](https://swoop-cards.com/)

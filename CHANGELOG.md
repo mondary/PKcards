@@ -46,6 +46,11 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Batch Whist/enchères : 32 fiches FR (whist, auctionwhist, quotawhist)
 - [x] Batch Pêche+captures : 17 fiches FR
 - [x] Batch Schafkopf : 16 fiches FR
+- [x] Batch Bataille/défausse : 14 fiches FR
+- [x] Batch Escalade : 13 fiches FR
+- [x] Batch Karnöffel : 10 fiches FR
+- [x] Batch Point-trick : 9 fiches FR
+- [x] Batch Reverse : 7 fiches FR
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---

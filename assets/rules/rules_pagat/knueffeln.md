@@ -3,351 +3,349 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** A four-player card game of the Karnöffel family from North Frisia, featuring two chosen suits that behave a little like trumps.
+**But :** Jeu de cartes à quatre joueurs de la famille Karnöffel de Frise du Nord, avec deux couleurs choisies qui fonctionnent un peu comme des atouts.
 
 ---
 
 ## Introduction
 
-**Knüffeln** is a North Frisian descendant of the medieval card game Karnöffel. Until recently it was known mainly from an article by J.F. Bernhard in the Schleswig-Holstein journal *Die Heimat* in 1924. Paul Eaton has discovered a second article on the game by Peter Grünberg, published in the same journal in 1938. Despite the prediction of these authors that the game would soon become extinct, it has survived to the present day and is still played in the region north of Husum, for example in the villages of Hattstedt and Bohmstedt. Paul Eaton has contacted players in these villages, and visited Bohmstedt early in 2020 to take part in a game. This page is based on his report of this research published in *The Playing-Card* in 2021 (see References).
+**Knüffeln** est un descendant frison du Nord du jeu de cartes médiéval Karnöffel. Jusqu'à récemment, il n'était principalement connu que par un article de J.F. Bernhard dans la revue schleswig-holsteinoise *Die Heimat* en 1924. Paul Eaton a découvert un second article sur le jeu de Peter Grünberg, publié dans la même revue en 1938. Malgré la prédiction de ces auteurs selon laquelle le jeu bientôt disparaîtrait, il a survécu jusqu'à nos jours et est encore joué dans la région au nord de Husum, par exemple dans les villages de Hattstedt et Bohmstedt. Paul Eaton a contacté des joueurs dans ces villages et a visité Bohmstedt début 2020 pour participer à une partie. Cette page est basée sur le rapport de ses recherches publié dans *The Playing-Card* en 2021 (voir Références).
 
-The main description below is of the version of the game now played in Bohmstedt, as taught to Paul Eaton by Hans Feddersen, who maintains local interest in the game by running regular Knüffeln courses over 5 evenings leading to the award of a diploma. This is followed by notes on the differences in the version played in Hattstedt and in the early 20th century versions described by Bernhard and Grünberg. 
+La description principale ci-dessous est la version du jeu jouée actuellement à Bohmstedt, telle qu'enseignée à Paul Eaton par Hans Feddersen, qui maintient l'intérêt local pour le jeu en animant des cours réguliers de Knüffeln sur 5 soirées menant à l'obtention d'un diplôme. Elle est suivie de notes sur les différences avec la version jouée à Hattstedt et avec les versions du début du XXe siècle décrites par Bernhard et Grünberg.
 
-Knüffeln is a four-player partnership game played for small stakes, in which the main aim is to win at least five of the nine tricks. There are two **chosen suits** (suits some of whose cards act as partial trumps), and the card ranking is similar to that of the Faroese (and formerly Danish) game Stýrivolt. While it is clear that Knüffeln and Stýrivolt are closely related, it uncertain at this point whether one of these games is derived from the other, or both from a common ancestor.
+Knüffeln est un jeu de partenariat à quatre joueurs joué pour de petits enjeux, dont le but principal est de gagner au moins cinq des neuf levées. Il y a deux **couleurs choisies** (couleurs dont certaines cartes agissent comme des atouts partiels), et la hiérarchie des cartes est similaire à celle du jeu féroïen (et anciennement danois) Stýrivolt. S'il est clair que Knüffeln et Stýrivolt sont étroitement apparentés, il n'est pas certain pour le moment si l'un de ces jeux dérive de l'autre, ou si tous deux descendent d'un ancêtre commun.
 
-## The Cards and their Ranking
+## Les cartes et leur hiérarchie
 
-Knüffeln is played with 48 French-suited cards, the Fives being removed from a standard 52-card pack of the North German (Berlin) pattern. 
+Knüffeln se joue avec 48 cartes aux enseignes françaises, les Cinq étant retirés d'un jeu standard de 52 cartes au patron nord-allemand (berlinois).
 
-There are five permanent top cards, known as the five Old Ones (*de fief Olen*). In order from the highest downward they are: 
+Il y a cinq cartes permanentes du haut, appelées les cinq Anciens (*de fief Olen*). Dans l'ordre du plus haut au plus bas, ce sont :
 
-- the Two of Hearts (*de Beste*), 
+- le Deux de cœur (*de Beste*),
 
-- the Four of Clubs (*de Wage* i.e. *Wagen*), 
+- le Quatre de trèfle (*de Wage* c'est-à-dire *Wagen*),
 
-- the Eight of Spades (*de Dulle*), 
+- le Huit de pique (*de Dulle*),
 
-- the Nine of Hearts (*Harten Ol*), 
+- le Neuf de cœur (*Harten Ol*),
 
-- the Nine of Diamonds (*Ruten Ol*). 
+- le Neuf de carreau (*Ruten Ol*).
 
-Each of these cards can beat any lower *Ole* and any other card **except** that they cannot beat a chosen Seven that has been led to a trick.
+Chacune de ces cartes peut battre n'importe quel *Ole* inférieur et n'importe quelle autre carte **sauf** qu'elles ne peuvent pas battre un Sept choisi qui a été mené.
 
-The cards of the two chosen suits (*gewählte Farben*) are collectively known as ‘chosen cards’ (*gewählte Trümpfe*). First there are the beaters (*Steker*), most of which have special names and powers. In descending order, they are as follows:
+Les cartes des deux couleurs choisies (*gewählte Farben*) sont collectivement appelées « cartes choisies » (*gewählte Trümpfe*). D'abord il y a les batteurs (*Steker*), dont la plupart ont des noms et pouvoirs spéciaux. Dans l'ordre décroissant :
 
-- Ace – a 'free card beater' (*Frikortensteker*), beats all lower chosen cards (except a chosen Seven led to a trick), all free cards and all unchosen cards
+- As – batteur de carte libre (*Frikortensteker*), bat toutes les cartes choisies inférieures (sauf un Sept choisi mené), toutes les cartes libres et toutes les cartes non choisies
 
-- Jack – a free card beater, beats all lower chosen cards (except a chosen Seven led to a trick), all free cards and all unchosen cards
+- Valet – batteur de carte libre, bat toutes les cartes choisies inférieures (sauf un Sept choisi mené), toutes les cartes libres et toutes les cartes non choisies
 
-- Six – *Paas *(pope), beats chosen 2s, 3s, 4s, Ks, Qs and 10s and all unchosen cards
+- Six – *Paas* (pape), bat les 2, 3, 4, R, D et 10 choisis et toutes les cartes non choisies
 
-- Two – *Twist*, beats chosen 3s, 4s, Ks, Qs and 10s and all unchosen cards except Aces
+- Deux – *Twist*, bat les 3, 4, R, D et 10 choisis et toutes les cartes non choisies sauf les As
 
-- Three – *Drist*, beats chosen 4s, Qs and 10s and all unchosen cards except Aces and Kings
+- Trois – *Drist*, bat les 4, D et 10 choisis et toutes les cartes non choisies sauf les As et les Rois
 
-- Four – Veerhack (square) or *Hackenbiter *(ankle-biter), beats chosen 10s and all unchosen cards except Aces, Kings and Queens
+- Quatre – Veerhack (carré) ou *Hackenbiter* (mordeur de cheville), bat les 10 choisis et toutes les cartes non choisies sauf les As, les Rois et les Dames
 
-Next in the chosen suits come the 'special trumps' (*Sondertrümpfe*):
+Ensuite dans les couleurs choisies viennent les « atouts spéciaux » (*Sondertrümpfe*) :
 
-- Seven – Unbeatable when led. Worthless when not led.
+- Sept – Imbattable lorsqu'il est mené. Sans valeur lorsqu'il n'est pas mené.
 
-- Nine, Eight – free cards (*Frikorten*) – when led they can be beaten only by a chosen Ace, Jack or *Ole*. When not led they are worthless.
+- Neuf, Huit – cartes libres (*Frikorten*) – lorsqu'ils sont menés, ils ne peuvent être battus que par un As choisi, un Valet ou un *Ole*. Lorsqu'ils ne sont pas menés, ils sont sans valeur.
 
-Bringing up the rear are the chosen cards with no trump powers:
+En queue de peloton se trouvent les cartes choisies sans pouvoir d'atout :
 
-- King – cannot beat anything but useful to lead as it can only be beaten by a chosen 2 or higher
+- Roi – ne bat rien mais utile à mener car il ne peut être battu que par un 2 choisi ou plus
 
-- Queen – cannot beat anything but useful to lead as it can only be beaten by a chosen 3 or higher
+- Dame – ne bat rien mais utile à mener car elle ne peut être battue que par un 3 choisi ou plus
 
-- Ten – only useful for exchanging with a trump turn-up
+- Dix – seulement utile pour échanger avec une carte d'atout retournée
 
-The only really valuable card in the unchosen (*nicht gewählte*) suits is the Ace which can only be beaten by a chosen Six or higher and beats all cards of its own suit. 
+La seule carte vraiment précieuse dans les couleurs non choisies (*nicht gewählte*) est l'As, qui ne peut être battu que par un Six choisi ou plus et bat toutes les cartes de sa propre couleur.
 
-Unchosen Kings, Queens and Jacks cannot beat anything but are sometimes handy to lead as you need at least a chosen Two, Three or Four respectively to beat them. 
+Les Rois, Dames et Valets non choisis ne battent rien mais sont parfois utiles à mener car il faut respectivement au moins un Deux, un Trois ou un Quatre choisi pour les battre.
 
-All other unchosen cards (like the chosen Tens) are effectively **duds**, having no ranking even among cards of the same suit. The only way a dud card can win a trick is if it is led to the trick and no one plays an *Ole*, a *Steker* or the Ace of the same suit as the led card.
+Toutes les autres cartes non choisies (comme les Dix choisis) sont effectivement des **plombs**, sans hiérarchie même parmi les cartes de la même couleur. La seule façon pour qu'une carte plomb gagne une levée est qu'elle soit menée et que personne ne joue d'*Ole*, de *Steker* ni l'As de la même couleur que la carte menée.
 
-## The Players
+## Les joueurs
 
-The normal game is between two teams of two partners who stay together for the session and sit opposite one another.  There is a five-player version (described under 'variations' below) in which the dealer normally sits out so that partnerships are constantly rotating, but the dealer may look at the undealt stock and if the cards in it are good enough may elect to play a solo against the other four players.
+Le jeu normal se joue entre deux équipes de deux partenaires qui restent ensemble pour la session et sont assis en face l'un de l'autre. Il existe une version à cinq joueurs (décrite sous « variantes » ci-dessous) dans laquelle le donneur se retire normalement de sorte que les partenariats tournent constamment, mais le donneur peut regarder le talon non distribué et si les cartes sont assez bonnes, il peut choisir de jouer en solo contre les quatre autres joueurs.
 
-## The Deal and Exchange
+## La donne et l'échange
 
-The dealer shuffles and the player to dealer's right cuts. The dealer then gives 9 cards to each player in 3 packets of 3 cards, before placing the rest face down as the *stock* and turning the next two cards face up for trumps. The suits of these cards determine the two chosen suits. If they are of the same suit, a third card is turned and, if necessary, a fourth. If four turn-ups in succession are of the same suit, the cards are thrown in, reshuffled and dealt again by the same dealer. The remaining cards are not used but placed face down, half covering the two (or more) turn-ups.
+Le donneur bat et le joueur à sa droite coupe. Le donneur donne ensuite 9 cartes à chaque joueur en 3 paquets de 3 cartes, avant de placer le reste face cachée comme *talon* et de retourner les deux cartes suivantes face visible pour les atouts. Les couleurs de ces cartes déterminent les deux couleurs choisies. Si elles sont de la même couleur, une troisième carte est retournée et, si nécessaire, une quatrième. Si quatre cartes retournées successivement sont de la même couleur, les cartes sont jetées, rebattues et redistribuées par le même donneur. Les cartes restantes ne sont pas utilisées mais placées face cachée, couvrant à moitié les deux (ou plus) cartes retournées.
 
-The dealer checks the card on the bottom of the undealt stock. If it is an *Ole* it is shown to all players and a player with the Queen of the same suit may exchange it for the *Ole*. If no-one has the Queen because she is ‘sleeping’ in the stock, a player with the King of the suit inherits this right to exchange it for the *Ole*. If an *Ole* on the bottom of the stock taken in exchange for a Queen or King, the dealer then looks at the next card on the bottom of the stock, which is shown and exchanged in the same way if it is also an *Ole*. Up to three *Olen* from the bottom of the stock can be exchanged in this way.
+Le donneur vérifie la carte du bas du talon non distribué. Si c'est un *Ole*, elle est montrée à tous les joueurs et un joueur avec la Dame de la même couleur peut l'échanger contre l'*Ole*. Si personne n'a la Dame parce qu'elle « dort » dans le talon, un joueur avec le Roi de cette couleur hérite de ce droit d'échange. Si un *Ole* au bas du talon est pris en échange d'une Dame ou d'un Roi, le donneur regarde ensuite la carte suivante au bas du talon, qui est montrée et échangée de la même façon si c'est aussi un *Ole*. Jusqu'à trois *Olen* du bas du talon peuvent être échangés de cette façon.
 
-Any player who holds the Ten of a chosen suit may exchange it with the card of that suit that was turned up when determining the chosen suits (or any of the two or three cards of the first chosen suit if more than one was turned up). However, if a Queen or King of a chosen suit is obtained in exchanged for a Ten, that Queen or King cannot be used to obtain an *Ole* of the same suit from the bottom of the stock: this kind of double exchange is not allowed.
+Tout joueur qui détient le Dix d'une couleur choisie peut l'échanger contre la carte de cette couleur qui a été retournée lors de la détermination des couleurs choisies (ou l'une des deux ou trois cartes de la première couleur choisie si plus d'une a été retournée). Cependant, si une Dame ou un Roi d'une couleur choisie est obtenu en échange d'un Dix, cette Dame ou ce Roi ne peut pas être utilisé pour obtenir un *Ole* de la même couleur au fond du talon : ce type d'échange double n'est pas autorisé.
 
-## The Play
+## Le jeu
 
-Forehand (left of dealer) leads to the first trick. Any card may be led and each of the other three players in clockwise order play a card of their choice to the trick. The player who wins of the trick leads to the next trick, and the play continues similarly until one team has won 5 of the 9 possible tricks. In this game there is absolutely no restriction on which card may be led or played at any point: there is no requirement to follow suit or to beat previously played cards.
+Le joueur en première position (à gauche du donneur) mène la première levée. N'importe quelle carte peut être menée et chacun des trois autres joueurs dans le sens horaire joue une carte de son choix. Le joueur qui gagne la levée mène la suivante, et le jeu continue de la même façon jusqu'à ce qu'une équipe ait gagné 5 des 9 levées possibles. Dans ce jeu, il n'y a absolument aucune restriction sur la carte qui peut être menée ou jouée à tout moment : il n'y a aucune obligation de suivre la couleur ni de battre les cartes précédemment jouées.
 
-The winner of the trick is determined as follows. 
+Le gagnant de la levée est déterminé comme suit.
 
-- If an *Ole* (![heart](../images/internat/heart.gif)2, ![club](../images/internat/club.gif)4, ![spade](../images/internat/spade.gif)8, ![heart](../images/internat/heart.gif)9, ![diamond](../images/internat/diamond.gif)9) or a beater in one of the chosen suits (A, J, 6, 4, 3, 2) is led, the trick is won by the highest *Ole* or beater that is played.
+- Si un *Ole* (![cœur]2, ![trèfle]4, ![pique]8, ![cœur]9, ![carreau]9) ou un batteur dans l'une des couleurs choisies (A, V, 6, 4, 3, 2) est mené, la levée est gagnée par le *Ole* ou le batteur le plus élevé joué.
 
-- If a Seven of a chosen suit is led it wins the trick irrespective of what cards the others play: it cannot be beaten.
+- Si un Sept d'une couleur choisie est mené, il gagne la levée indépendamment des cartes jouées par les autres : il ne peut être battu.
 
-- If a Free Card (an 8 or 9 of a chosen suit that is not a *Ole*) is led, it wins the trick unless it is beaten by an *Ole* or a chosen Ace or Jack.
+- Si une carte libre (un 8 ou un 9 d'une couleur choisie qui n'est pas un *Ole*) est menée, elle gagne la levée à moins d'être battue par un *Ole* ou un As ou un Valet choisi.
 
-- If an unchosen Ace is led it wins the trick unless it is beaten by an *Ole* or a chosen Ace, Jack or Six.
+- Si un As non choisi est mené, il gagne la levée à moins d'être battu par un *Ole* ou un As, un Valet ou un Six choisi.
 
-- If any King is led it wins the trick unless it is beaten by an *Ole* or a chosen Two or higher beater, or by the Ace of its own (unchosen) suit.
+- Si un Roi est mené, il gagne la levée à moins d'être battu par un *Ole* ou un batteur Deux ou supérieur choisi, ou par l'As de sa propre couleur (non choisie).
 
-- If any Queen is led it wins the trick unless it is beaten by an *Ole* or a chosen Three or higher beater, or by the Ace of its own (unchosen) suit.
+- Si une Dame est menée, elle gagne la levée à moins d'être battue par un *Ole* ou un batteur Trois ou supérieur choisi, ou par l'As de sa propre couleur (non choisie).
 
-- If any other unchosen card (Jack or lower) or a chosen Ten is led, it wins the trick unless it is beaten by the Ace of its own suit or by a chosen Four or higher beater or by an *Ole*.
+- Si une autre carte non choisie (Valet ou inférieur) ou un Dix choisi est mené, elle gagne la levée à moins d'être battue par l'As de sa propre couleur ou par un batteur Quatre ou supérieur choisi ou par un *Ole*.
 
-If the card that is led to a trick is beaten, that card can in turn be beaten by a later player's card, according to the same rules. A consequence of this is that in the winner of the trick sometimes depends on the order in which the cards were played, not only the first card but also the other players' cards. 
+Si la carte menée est battue, cette carte peut à son tour être battue par la carte d'un joueur ultérieur, selon les mêmes règles. Une conséquence est que le gagnant de la levée dépend parfois de l'ordre dans lequel les cartes ont été jouées, non seulement de la première carte mais aussi des cartes des autres joueurs.
 
-**Example.** The chosen suits are hearts and spades, the players are South, West, North and East, and South leads a small diamond, the 4.
+**Exemple.** Les couleurs choisies sont cœur et pique, les joueurs sont Sud, Ouest, Nord et Est, et Sud mène un petit carreau, le 4.
 
-**Case 1.** S:![diamond](../images/internat/diamond.gif)4, W:![spade](../images/internat/spade.gif)3, N:![diamond](../images/internat/diamond.gif)A, E:![club](../images/internat/club.gif)8. West plays a beater, only a small beater but big enough to beat any Queen or lower. This beater can be beaten only by a higher beater or an *Ole* (not by the unchosen Ace) so West wins the trick.
+**Cas 1.** S : ![carreau]4, O : ![pique]3, N : ![carreau]A, E : ![trèfle]8. Ouest joue un batteur, un petit batteur mais assez fort pour battre n'importe quelle Dame ou inférieur. Ce batteur ne peut être battu que par un batteur plus élevé ou un *Ole* (pas par l'As non choisi), donc Ouest gagne la levée.
 
-**Case 2.** S:![diamond](../images/internat/diamond.gif)4, W:![club](../images/internat/club.gif)8, N:![diamond](../images/internat/diamond.gif)A, E:![spade](../images/internat/spade.gif)3. North's Ace beats the 4 of its suit and can only be beaten by a chosen 6 or higher. East's chosen 3 is not high enough for this so North wins the trick, 
+**Cas 2.** S : ![carreau]4, O : ![trèfle]8, N : ![carreau]A, E : ![pique]3. L'As de Nord bat le 4 de sa couleur et ne peut être battu que par un 6 choisi ou supérieur. Le 3 choisi d'Est n'est pas assez élevé pour cela, donc Nord gagne la levée.
 
-The deal is won by first team to win 5 tricks. If a team wins the first five tricks in a row, they have achieved a *Jann*, and receive a larger payment. Alternatively, they can elect to try to win even more by leading a card to the sixth trick, which commits them to try to win all nine tricks, known as a 'march' (*Durchmarsch*). However, once committed to the march they forgo any winnings for the *Jann* and must win every trick to succeed; if they continue after the fifth trick and fail to win all 9 tricks they have lost and must pay their opponents what they would have won for the march.
+La donne est gagnée par la première équipe à gagner 5 levées. Si une équipe gagne les cinq premières levées de suite, elle a réalisé un *Jann* et reçoit un paiement plus important. Alternativement, elle peut choisir d'essayer d'en gagner encore plus en menant une carte à la sixième levée, ce qui l'engage à essayer de gagner les neuf levées, appelé une « marche » (*Durchmarsch*). Cependant, une fois engagée dans la marche, elle renonce à tout gain pour le *Jann* et doit gagner chaque levée pour réussir ; si elle continue après la cinquième levée et échoue à gagner les 9 levées, elle a perdu et doit payer ses adversaires ce qu'ils auraient gagné pour la marche.
 
 ### *Drehen und Sehen*
 
-A player on lead may play the first card of the trick face down to the table, which is known as *drehen* (turning). This is an offer to raise the game value. The opposing team may accept the challenge by picking up the card (*aufnehmen*), exposing it (*sehen* - seeing) and playing to the trick, in which case the game value increases by one basic stake. Alternatively they may ‘run’ in which case they fold and concede the deal to the side that played the down card, in which case they pay the amount that the deal was previously worth.
+Un joueur en main peut jouer la première carte de la levée face cachée sur la table, ce qui est appelé *drehen* (tourner). C'est une offre d'augmenter la valeur du jeu. L'équipe adverse peut accepter le défi en ramassant la carte (*aufnehmen*), en l'exposant (*sehen* — voir) et en jouant dans la levée, auquel cas la valeur du jeu augmente d'une mise de base. Alternativement, ils peuvent « fuir » auquel cas ils se couchent et concèdent la donne au côté qui a joué la carte face cachée, auquel cas ils paient le montant que la donne valait précédemment.
 
-A team may turn (*drehen*) whenever they are on lead, including when leading to the first trick, and may do this as many times as they have the lead. For example with a basic stake of 10 cents, if the North-South team turns twice, East-West accepting each time, this increases the stake by 10 cents twice. The cost of the game will be 30 cents paid by each loser to each winner. If East-West had 'run away' on the second turn, they would have had to pay only 20 cents each (10 cents for the basic game plus 10 cents for the first turn that they accepted). In a closely fought game it is possible that both teams will turn. In an extreme case a game won by 5 tricks to 4 with a turn on every lead would cost 1 euro (10 cents for the basic game plus 90 cents for the accepted turns).
+Une équipe peut tourner (*drehen*) à chaque fois qu'elle est en main, y compris lorsqu'elle mène à la première levée, et peut le faire autant de fois qu'elle a la main. Par exemple, avec une mise de base de 10 centimes, si l'équipe Nord-Sud tourne deux fois, Est-Ouest acceptant à chaque fois, cela augmente la mise de 10 centimes deux fois. Le coût du jeu sera de 30 centimes payés par chaque perdant à chaque gagnant. Si Est-Ouest avait « fui » au deuxième tour, ils n'auraient eu à payer que 20 centimes chacun (10 centimes pour le jeu de base plus 10 centimes pour le premier tour accepté). Dans un jeu disputé, il est possible que les deux équipes tournent. Dans un cas extrême, un jeu gagné 5 levées à 4 avec un tour à chaque main coûterait 1 euro (10 centimes pour le jeu de base plus 90 centimes pour les tours acceptés).
 
-If a team's turn is accepted and they go on to win a *Jann* or even a march, the payment for the accepted turns is added to the payment for the *Jann* or march. For example a team that wins the first 5 tricks when their opponents have accepted 2 turns will win €1.20 - one euro for the *Jann* plus 20 cents for the turns. However it will generally be a mistake to turn if your cards are good enough for a *Jann*, because your opponents are likely to end the play by running, and you will win only 10 or 20 cents for the abandoned game rather than the euro you could have won for your *Jann* if you had not turned. Also a team would never turn while attempting a march, as the opponents could then end the play by running, causing the march to fail.
+Si le tour d'une équipe est accepté et qu'elle va ensuite gagner un *Jann* ou même une marche, le paiement pour les tours acceptés s'ajoute au paiement pour le *Jann* ou la marche. Par exemple, une équipe qui gagne les 5 premières levées quand ses adversaires ont accepté 2 tours gagnera 1,20 € — un euro pour le *Jann* plus 20 centimes pour les tours. Cependant, il sera généralement une erreur de tourner si vos cartes sont assez bonnes pour un *Jann*, car vos adversaires risquent de mettre fin au jeu en fuyant, et vous ne gagnerez que 10 ou 20 centimes pour le jeu abandonné plutôt que l'euro que vous auriez pu gagner pour votre *Jann* si vous n'aviez pas tourné. De même, une équipe ne tournerait jamais pendant une tentative de marche, car les adversaires pourraient alors mettre fin au jeu en fuyant, faisant échouer la marche.
 
 ### Communication
 
-Unlike most card games, an integral and essential part of playing Knüffeln is communicating with your partner to work out the strength of your hands and the tactics to be used, while bluffing and misleading your opponents. However, cards may not be named directly. In the games that Paul Eaton played in Bohmstedt, it was acceptable for a player to half-expose a card to partner without letting go of it and ask whether to lead it. This was done in full view of the opposition.
+Contrairement à la plupart des jeux de cartes, une partie intégrante et essentielle du jeu de Knüffeln est la communication avec votre partenaire pour évaluer la force de vos mains et les tactiques à utiliser, tout en brouillant et trompant vos adversaires. Cependant, les cartes ne peuvent pas être nommées directement. Dans les parties que Paul Eaton a jouées à Bohmstedt, il était acceptable qu'un joueur montre à moitié une carte à son partenaire sans la lâcher et demande s'il faut la mener. Cela se faisait en pleine vue de l'adversaire.
 
-Here are some examples of comments, questions and suggestions that may be heard during the play.
+Voici quelques exemples de commentaires, questions et suggestions que l'on peut entendre pendant le jeu.
 
-- “Are you old?” (*bist du alt?*) = “have you got an *Ole*?”
+- « Tu es vieux ? » (*bist du alt ?*) = « tu as un *Ole* ? »
 
-- “Can you also take any tricks?” (*Kannst du ock wat hollen?*) = the “also” could be a bluff.
+- « Tu peux aussi prendre des levées ? » (*Kannst du ock wat hollen ?*) = le « aussi » peut être un bluff.
 
-- “Can you?” (*kannst du?*) = “can you take this one (win this trick)?”
+- « Tu peux ? » (*kannst du ?*) = « tu peux prendre celle-ci (gagner cette levée) ? »
 
-- “Can you meet me?” (*du kannst mich treffen?*) = “can you play the Ace of the same [unchosen] suit as my card here” (showing card)
+- « Tu peux me rencontrer ? » (*du kannst mich treffen ?*) = « peux-tu jouer l'As de la même [couleur non choisie] que ma carte ici » (montrer la carte)
 
-- “Have you something suitable?” (*hast du was passend?*) = “Can you beat that card efficiently - for example with a trump card that is just a rank or two higher?”
+- « Tu as quelque chose de convenable ? » (*hast du was passend ?*) = « Peux-tu battre cette carte efficacement — par exemple avec une carte d'atout juste un ou deux rangs plus haute ? »
 
-- “You go first, I’ve got an *Ole*” (*du mußt erst, ick schall oldsch*) = “play low, I’ll play an *Ole*”*
+- « Toi d'abord, j'ai un *Ole* » (*du mußt erst, ick schall oldsch*) = « joue bas, je vais jouer un *Ole* »
 
-- “I’ve got a beater and two leaders” (*hab’ einen Stecher und 2 Ausspieler*) = “I’ve got a high beater (A, J or 6) and two leaders (7s, 8s, 9s or unchosen Aces).”
+- « J'ai un batteur et deux menées » (*hab' einen Stecher und 2 Ausspieler*) = « J'ai un batteur élevé (A, V ou 6) et deux menées (7, 8, 9 ou As non choisis). »
 
-- “I’ve only got two *Puzers*” (*hab’ nur zwei Puzer*) = “I’ve only got two low beaters (2s, 3s or 4s).”
+- « J'ai seulement deux *Puzers* » (*hab' nur zwei Puzer*) = « J'ai seulement deux batteurs bas (2, 3 ou 4). »
 
-- “I’m feeling poorly” (*ick bin nich recht to Huus*) = “I haven’t got any decent cards” * (lit. “I’m at home and unwell”)
+- « Je ne me sens pas bien » (*ick bin nich recht to Huus*) = « Je n'ai pas de bonnes cartes » (litt. « Je suis chez moi et malade »)
 
-- “[Let it] come” (*kommt*) = “Leave it to me” or “I can take it”, in which case the partner will usually take the opportunity to play a dud.
+- « [Laisse-le] venir » (*kommt*) = « Laisse-moi faire » ou « Je peux la prendre », auquel cas le partenaire saisira généralement l'occasion de jouer un plomb.
 
-- “Let it run” (*laufen lassen*) = ditto
+- « Laisse courir » (*laufen lassen*) = idem
 
-- “[I can] definitely” (*ich kann ganz sicher*) = “I’ll win this for certain”
+- « [Je peux] sûrement » (*ich kann ganz sicher*) = « Je vais gagner celle-ci pour sûr »
 
-- “I can’t do anything” (*ich kann nichts*) = “I can’t play a strong card.”*
+- « Je ne peux rien faire » (*ich kann nichts*) = « Je ne peux pas jouer une carte forte. »
 
-- “I can’t, you must play a beater!” (*kann ik nich, mußt en Steker speeln!*) = self explanatory
+- « Je ne peux pas, tu dois jouer un batteur ! » (*kann ik nich, mußt en Steker speeln !*) = explicite
 
-- “I can improve on that a bit” (*ich kann etwas verbessern*) = “I can beat that by a small margin”
+- « Je peux améliorer un peu » (*ich kann etwas verbessern*) = « Je peux battre cela d'une petite marge »
 
-- “I can only help you once” (*ich kann dir nur einmal helfen*) = “I only have one decent card”* 
+- « Je ne peux aider qu'une fois » (*ich kann dir nur einmal helfen*) = « Je n'ai qu'une bonne carte »
 
-- “I’ll make 2 tricks for sure ” (*ich mache zwei Spiele sicher*) = “I’ll definitely win 2 tricks“
+- « Je ferai 2 levées pour sûr » (*ich mache zwei Spiele sicher*) = « Je vais sûrement gagner 2 levées »
 
-- “One for the Jann!” (*een vör de Jann!*) = on winning the first trick.
+- « Une pour le Jann ! » (*een vör de Jann !*) = en gagnant la première levée.
 
-- “Who can, eh?” (*wer kann de?*) = “who can beat that?“
+- « Qui peut, hein ? » (*wer kann de ?*) = « qui peut battre cela ? »
 
-- “A sign of weakness!” (*ein Schwachheitszeichen!*) = said e.g. if an opponent’s first lead is a 7.*
+- « Un signe de faiblesse ! » (*ein Schwachheitszeichen !*) = dit par ex. si le premier tour d'un adversaire est un 7.
 
-- “They play that up on the heath in bad weather!” (*dat spelen se up de Heide bi Regenwedder!*) = “That’s such a bad lead!” 
+- « Ils jouent ça sur la lande par mauvais temps ! » (*dat spelen se up de Heide bi Regenwedder !*) = « C'est un si mauvais tour ! »
 
-- “We’ll play on” (*wir spieler weiter*) = “We’re going for the march”
+- « On continue » (*wir spieler weiter*) = « On vise la marche »
 
-- “I’m turning one over” (*ich dreh ein um*) = “I’m playing one face down as a bid to raise the game stake” (see *drehen und sehen*)
+- « J'en tourne une » (*ich dreh ein um*) = « Je joue une face cachée comme offre d'augmenter la mise du jeu » (voir *drehen und sehen*)
 
-- “We’re folding“ (*wir schmeissen*) = “We’re conceding the game”
+- « On se couche » (*wir schmeissen*) = « On concède le jeu »
 
-The statements above may be true but some of them, especially those marked with an asterisk (*) may alternatively be a bluff to mislead the opponents. Untrue statements should be used with caution as they may also mislead your partner.
+Les déclarations ci-dessus peuvent être vraies mais certaines d'entre elles, en particulier celles marquées d'un astérisque (*), peuvent alternatively être un bluff pour tromper les adversaires. Les déclarations mensongères doivent être utilisées avec prudence car elles peuvent aussi tromper votre partenaire.
 
-**Note**: if a beatable card is led to a trick and the player due to play last to the trick says nothing, it can be taken as an indication to their partner that they can win the trick. 
+**Note** : si une carte battable est menée dans une levée et que le joueur qui doit jouer en dernier ne dit rien, cela peut être pris comme une indication pour son partenaire qu'il peut gagner la levée.
 
-## Scoring
+## Décompte
 
-The game is normally played for small stakes and each member of the losing team pays one member of the winning team at the end of each hand. Typical stakes would be:
+Le jeu se joue normalement pour de petits enjeux et chaque membre de l'équipe perdante paie un membre de l'équipe gagnante à la fin de chaque main. Les enjeux typiques sont :
 
-| Basic game | 10 cents |
-| Each accepted drehen | 10 cents |
-| Jann (first 5 tricks) | 1 euro |
-| Durchmarsch (all tricks) | 3 euros |
+| Jeu de base | 10 centimes |
+| Chaque drehen accepté | 10 centimes |
+| Jann (5 premières levées) | 1 euro |
+| Durchmarsch (toutes les levées) | 3 euros |
 
-## Variations
+## Variantes
 
-### Five-Player Knüffeln
+### Knüffeln à cinq joueurs
 
-The role of dealer rotates clockwise as normal and most deals are played with the dealer sitting out. Thus the partnerships change each time. The dealer deals the cards in the usual way to the other four players, and turns cards to determine the two chosen suits.
+Le rôle de donneur tourne dans le sens horaire comme d'habitude et la plupart des donnes se jouent avec le donneur se retirant. Ainsi les partenariats changent à chaque fois. Le donneur distribue les cartes de la façon habituelle aux quatre autres joueurs et retourne des cartes pour déterminer les deux couleurs choisies.
 
-In the five-player game there is no chance to take the bottom card of the stock in exchange for the Queen or King of the suit if it is an *Ole*. Instead, the dealer may look at the whole stock, which usually has 10 cards but may have only 9 or 8 if two or three cards of the first chosen suit were turned. The dealer may elect to play alone against the other four players using the stock cards as a hand. The player second to the right of of the dealer leads to the first trick, so that the dealer plays third to this trick, with two opponents playing before the dealer and two after the dealer.
+Dans le jeu à cinq joueurs, il n'y a pas l'opportunité de prendre la carte du bas du talon en échange de la Dame ou du Roi de la couleur si c'est un *Ole*. À la place, le donneur peut regarder tout le talon, qui a généralement 10 cartes mais peut n'avoir que 9 ou 8 si deux ou trois cartes de la première couleur choisie ont été retournées. Le donneur peut choisir de jouer seul contre les quatre autres joueurs en utilisant les cartes du talon comme main. Le deuxième joueur à la droite du donneur mène la première levée, de sorte que le donneur joue en troisième dans cette levée, avec deux adversaires jouant avant le donneur et deux après.
 
-The dealer needs at least four tricks to win, and is paid by each of the four opponents if successful but pays each of them if unsuccessful. The dealer's opponents win if they take five tricks before the dealer manages to win four. The payments are as usual: 10 cents for the basic game plus 10 cents for each accepted turn. The result will always be known by the end of the 8th trick - if the dealer has not won 4 tricks by this time, the opponents must have their 5. Therefore it does not matter that after the 8th trick the dealer may have 2, 1 or no cards left over depending how many were in the stock.
+Le donneur a besoin d'au moins quatre levées pour gagner, et est payé par chacun des quatre adversaires en cas de succès mais paie chacun d'eux en cas d'échec. Les adversaires du donneur gagnent s'ils prennent cinq levées avant que le donneur n'en gagne quatre. Les paiements sont comme d'habitude : 10 centimes pour le jeu de base plus 10 centimes pour chaque tour accepté. Le résultat sera toujours connu à la fin de la 8e levée — si le donneur n'a pas gagné 4 levées à ce moment, les adversaires doivent avoir leurs 5. Par conséquent, cela n'a pas d'importance qu'après la 8e levée le donneur puisse avoir 2, 1 ou aucune carte restante selon le nombre de cartes dans le talon.
 
-If the dealer wins the first four tricks in succession or the opponents win the first five tricks, that counts as a *Jann*, worth 1 euro. In either case, the team that makes a *Jann* may choose to continue playing and attempt to win all the trick for a march, worth 3 euros. In the case of a march, a dealer who takes a 10-card stock will have a card left over at the end which is not played. A dealer who takes an 8-card stock has no card to play to the 9th trick, but in this case can win a march by taking just the first 8 tricks.
+Si le donneur gagne les quatre premières levées de suite ou si les adversaires gagnent les cinq premières levées, cela compte comme un *Jann*, valant 1 euro. Dans les deux cas, l'équipe qui fait un *Jann* peut choisir de continuer à jouer et tenter de gagner toutes les levées pour une marche, valant 3 euros. Dans le cas d'une marche, un donneur qui a pris un talon de 10 cartes aura une carte restante à la fin qui n'est pas jouée. Un donneur qui a pris un talon de 8 cartes n'a pas de carte à jouer à la 9e levée, mais dans ce cas il peut gagner une marche en prenant seulement les 8 premières levées.
 
-The four defenders will naturally cooperate to prevent the dealer winning and are allowed to communicate as normal over their cards and tactics. However a major difference from the four-hand game is that there are no cards in the stock, so there is less uncertainty about who has which cards. The dealer will naturally be listening to the chat and will plan accordingly. 
+Les quatre défenseurs coopéreront naturellement pour empêcher le donneur de gagner et sont autorisés à communiquer comme d'habitude de leurs cartes et tactiques. Cependant, une différence majeure avec le jeu à quatre est qu'il n'y a pas de cartes dans le talon, donc il y a moins d'incertitude sur qui a quelles cartes. Le donneur écoutera naturellement la conversation et planifiera en conséquence.
 
-Note that if there are any chosen Tens in the stock, the dealer can exchange them for the turned up cards in the same way as the other players. If the bottom card of the stock is an *Ole* the dealer keeps it: no other player can take it. 
+Notez que s'il y a des Dix choisis dans le talon, le donneur peut les échanger contre les cartes retournées de la même façon que les autres joueurs. Si la carte du bas du talon est un *Ole*, le donneur le garde : aucun autre joueur ne peut le prendre.
 
-### Modern Knüffeln (Hattstedt variant)
+### Knüffeln moderne (variante de Hattstedt)
 
-Paul Eaton obtained a description from Johann Carstensen of the version of Knüffeln played in Hattstedt. It differs from the Bohmstedt version in a number of details. 
+Paul Eaton a obtenu une description de Johann Carstensen de la version de Knüffeln jouée à Hattstedt. Elle diffère de la version de Bohmstedt sur plusieurs points.
 
-- There is no *Drehen und Sehen*, although some earlier rules from the Hattstedt archives by P. Appeles dated 1984 indicate that *Drehen* and *Sehen* were allowed at that time.
+- Il n'y a pas de *Drehen und Sehen*, bien que certaines règles antérieures des archives de Hattstedt par P. Appeles datées de 1984 indiquent que *Drehen* et *Sehen* étaient autorisés à cette époque.
 
-- Cards of the unchosen suits rank within their own suit from high to low A K Q J 10 9 8 7 6 4 3 2. A card of an unchosen suit can beat any lower card of its own suit, but cannot beat any other card.
+- Les cartes des couleurs non choisies se classent dans leur propre couleur du haut au bas A R D V 10 9 8 7 6 4 3 2. Une carte d'une couleur non choisie peut battre toute carte inférieure de sa propre couleur, mais ne peut battre aucune autre carte.
 
-- A *Jann* is worth twice as much as the basic game, and a march (*Durchspielen*) is worth four times as much as the basic game.
+- Un *Jann* vaut deux fois le jeu de base, et une marche (*Durchspielen*) vaut quatre fois le jeu de base.
 
-### Early 20th century versions
+### Versions du début du XXe siècle
 
-The descriptions by Bernhard (1924) and Grünberg (1938) do not give complete rules, but contain enough information to show that the game has not changed very much over the last century. Some differences in the early 20th century versions are as follows.
+Les descriptions de Bernhard (1924) et Grünberg (1938) ne donnent pas de règles complètes, mais contiennent assez d'information pour montrer que le jeu n'a pas beaucoup changé au cours du siècle dernier. Certaines différences dans les versions du début du XXe siècle sont les suivantes.
 
-- In Bernhard's description, the 48-card pack includes the 5 of each suit rather than the 10, and it is the Fives that can be exchanged for the indicator cards of the chosen suits. In Grünberg's version it is the 10's rather than the 5's that are used, as in the modern game.
+- Dans la description de Bernhard, le jeu de 48 cartes inclut le 5 de chaque couleur plutôt que le 10, et ce sont les Cinq qui peuvent être échangés contre les cartes indicatrices des couleurs choisies. Dans la version de Grünberg, ce sont les 10 plutôt que les 5 qui sont utilisés, comme dans le jeu moderne.
 
-- The cutter places the bottom three cards of the stock face up on the table, and if any of these are *Olen* they can be exchanged for the Queens of the same suits (or the Kings if the Queens are 'sleeping' in the stock).
+- Le coupeur place les trois cartes du bas du talon face visible sur la table, et si l'une d'elles est un *Olen*, elles peuvent être échangées contre les Dames des mêmes couleurs (ou les Rois si les Dames « dorment » dans le talon).
 
-- In the unchosen suits a higher card can beat a lower card of the same suit, as in the modern Hattstedt game.
+- Dans les couleurs non choisies, une carte plus haute peut battre une carte plus basse de la même couleur, comme dans le jeu moderne de Hattstedt.
 
-- According to Bernhard, the leader to the trick may *drehen* (turn, or lead face down) as a proposal to raise the stake only after their team has won two tricks, and if accepted the team may *drehen* again they have won four tricks.
+- Selon Bernhard, le meneur de la levée peut *drehen* (tourner, ou mener face cachée) comme proposition d'augmenter la mise seulement après que son équipe a gagné deux levées, et si accepté, l'équipe peut *drehen* à nouveau lorsqu'elle a gagné quatre levées.
 
-- The game may be scored on a slate on which a 'ladder' is drawn, consisting of four parallel lines crossed by a line down the middle dividing the slate into two halves. A team that wins a basic game (5 tricks) erases one 'rung' from their side of the ladder up to the centre line. A team that wins the first five tricks (*Jann*) erases two rungs instead of one. The winners also erase one extra rung for each accepted *drehen*. The first team that manages to erase all the rungs on their side of the ladder wins the game and the losers mark a *'Knüppel'* (maybe a blob?) on their side of the slate to represent the loss. If a team erases all their rungs at once, by means of a *Jann* and two *drehen*, their opponents suffer a double loss, marked as a *'Brille'* (double blob).
+- Le jeu peut être marqué sur une ardoise sur laquelle une « échelle » est tracée, composée de quatre lignes parallèles traversées par une ligne au milieu divisant l'ardoise en deux moitiés. Une équipe qui gagne un jeu de base (5 levées) efface un « barreau » de son côté de l'échelle jusqu'à la ligne centrale. Une équipe qui gagne les cinq premières levées (*Jann*) efface deux barreaux au lieu d'un. Les gagnants effacent aussi un barreau supplémentaire pour chaque *drehen* accepté. La première équipe qui réussit à effacer tous les barreaux de son côté de l'échelle gagne la partie et les perdants marquent un *'Knüppel'* (peut-être une tache ?) de leur côté de l'ardoise pour représenter la perte. Si une équipe efface tous ses barreaux d'un coup, au moyen d'un *Jann* et de deux *drehen*, ses adversaires subissent une perte double, marquée comme une *'Brille'* (double tache).
 
-- As an alternative, Grünberg gives a scale of payments: 5Pf for a basic game, 1Pf extra for each accepted *drehen*, 10Pf for a *Jann* and 20Pf for a march.
+- Comme alternative, Grünberg donne une échelle de paiements : 5 Pf pour un jeu de base, 1 Pf supplémentaire pour chaque *drehen* accepté, 10 Pf pour un *Jann* et 20 Pf pour une marche.
 
-## Knüffeln Glossary
+## Glossaire Knüffeln
 
-Paul Eaton has put together the following glossary of terms typically used in Knüffeln. Where two words are given, generally the Low German (*plattdeutsch*) term is first.
+Paul Eaton a compilé le glossaire suivant de termes typiquement utilisés à Knüffeln. Lorsque deux mots sont donnés, le terme bas-allemand (*plattdeutsch*) est généralement donné en premier.
 
-*abschmeissen* = to throw (a card)
+*abschmeissen* = jeter (une carte)
 
-*anticken, anstecken *= to beat with a small trump
+*anticken, anstecken* = battre avec un petit atout
 
-*aufdrehen *= to pick up (when opponents have played a card face down)
+*aufdrehen* = ramasser (quand les adversaires ont joué une carte face cachée)
 
-*Brille *= spectacles (scoring mark recorded by Bernhard)
+*Brille* = lunettes (marque de score enregistrée par Bernhard)
 
-*bunk = *talon, stock
+*bunk* = talon, stock
 
-*buterwäält, buterwählt* = unchosen
+*buterwäält, buterwählt* = non choisi
 
-*davonlaufen *= run away i.e. fold
+*davonlaufen* = fuir, c'est-à-dire se coucher
 
-*de fief Olen *= the five Old Ones (top trumps)
+*de fief Olen* = les cinq Anciens (atouts du haut)
 
-*Dörchspill *= see *Durchmarsch*
+*Dörchspill* = voir *Durchmarsch*
 
-*Drein, Drehen *= to turn i.e. play a card face down as a proposal to raise the stake
+*Drein, Drehen* = tourner, c'est-à-dire jouer une carte face cachée comme proposition d'augmenter la mise
 
-*Drein un Seen, Drehen und Sehen *= to turn and look (see *Drein* and *Seen*)
+*Drein un Seen, Drehen und Sehen* = tourner et regarder (voir *Drein* et *Seen*)
 
-*Drist *= chosen Three
+*Drist* = Trois choisi
 
-*Dulle* = Eight of Spades (one of the five *Olen*)
+*Dulle* = Huit de pique (l'un des cinq *Olen*)
 
-*du kannst mich treffen?* = can you play an unchosen Ace of this suit? (show card)
+*du kannst mich treffen ?* = peux-tu jouer un As non choisi de cette couleur ? (montrer la carte)
 
-*Durchmarsch ,Durchspielen *= march or slam
+*Durchmarsch, Durchspielen* = marche ou chelem
 
-*Fehl-As *= unchosen Ace
+*Fehl-As* = As non choisi
 
-*frech *= cheeky
+*frech* = effronté
 
-*Frikort, Freikarte* = free card i.e. chosen Eight or Nine
+*Frikort, Freikarte* = carte libre, c'est-à-dire Huit ou Neuf choisi
 
-*Frikortensteker, Freikartenstecher *= free card beater (chosen Ace or Jack)
+*Frikortensteker, Freikartenstecher* = batteur de carte libre (As ou Valet choisi)
 
-*Hackenbiter,* *Hackenbeißer* = ankle-biter (chosen Four)
+*Hackenbiter, Hackenbeißer* = mordeur de cheville (Quatre choisi)
 
-*Hartenool, Hartenole, Harten Ohl *= Nine of Hearts (one of the five *Olen*)
+*Hartenool, Hartenole, Harten Ohl* = Neuf de cœur (l'un des cinq *Olen*)
 
-*Hönerledder, Hühnerleiter *= chicken ladder, see *Ledder*
+*Hönerledder, Hühnerleiter* = échelle de poulet, voir *Ledder*
 
-*Hunde *= dog (chosen Five)
+*Hunde* = chien (Cinq choisi)
 
-*ich dreh ein um* = I’m playing one face down
+*ich dreh ein um* = je joue une face cachée
 
-*Jann* = a 5-0 win
+*Jann* = une victoire 5-0
 
-*jannen *= to win 5-0
+*jannen* = gagner 5-0
 
-*knickerig = geizig*
+*knickerig* = avare
 
-*kommt* = I can take it
+*kommt* = je peux la prendre
 
-*Knüppel* = club or stick (scoring mark recorded by Bernhard)
+*Knüppel* = massue ou bâton (marque de score enregistrée par Bernhard)
 
-*laufen lassen* = to let the trick run i.e. underplay so your partner can win it
+*laufen lassen* = laisser la levée courir, c'est-à-dire jouer sous pour que votre partenaire gagne
 
-*Ledder, Leiter* = ladder drawn on the slate for keeping score
+*Ledder, Leiter* = échelle tracée sur l'ardoise pour le score
 
-*lopen *= to run i.e. to fold when a downcard is played
+*lopen* = fuir, c'est-à-dire se coucher lorsqu'une carte face cachée est jouée
 
-*Magger, Macker *= partner
+*Magger, Macker* = partenaire
 
-*Ole, Olle, Ohle, Alte *= Old Man (one of the top 5 permanent trumps)
+*Ole, Olle, Ohle, Alte* = Vieillard (l'un des 5 atouts permanents du haut)
 
-*oldschen* = to play an *Ole*
+*oldschen* = jouer un *Ole*
 
-*passend* = said of the lowest 2 or 3 beaters able to win the played card
+*passend* = dit des batteurs les plus bas, 2 ou 3, capables de battre la carte jouée
 
-*Paap, Paas, Pape* = Pope (chosen Six)
+*Paap, Paas, Pape* = Pape (Six choisi)
 
-*Pott *= pot
+*Pott* = pot
 
-*Puzer* or *kleine Stecher* = small beater i.e. a chosen Two, Three or Four
+*Puzer* ou *kleine Stecher* = petit batteur, c'est-à-dire un Deux, Trois ou Quatre choisi
 
-*Rutenool, Rutenole, Ruten Ohl *= Nine of Diamonds (one of the five *Olen*)
+*Rutenool, Rutenole, Ruten Ohl* = Neuf de carreau (l'un des cinq *Olen*)
 
-*Schiet* = dud(s)
+*Schiet* = plomb(s)
 
-*Seen *= to look i.e. pick up the downcard and accept the raise
+*Seen* = regarder, c'est-à-dire ramasser la carte face cachée et accepter l'augmentation
 
-*Seen un Drein, Sehen und Drehen *= see *Drein* and *Seen*
+*Seen un Drein, Sehen und Drehen* = voir *Drein* et *Seen*
 
-*Sprosse *= rung i.e. of the ladder
+*Sprosse* = barreau, c'est-à-dire de l'échelle
 
-*Steker, Stechkarte *= beater
+*Steker, Stechkarte* = batteur
 
-*Twe* = Two of Hearts (one of the five *Olen*)
+*Twe* = Deux de cœur (l'un des cinq *Olen*)
 
-*Twist *= chosen Two
+*Twist* = Deux choisi
 
-*umdrein *= to turn over
+*umdrein* = tourner
 
-*Veerhack, Viereck* = square (chosen 4).
+*Veerhack, Viereck* = carré (Quatre choisi)
 
-*verweigern *= to fold
+*verweigern* = se coucher
 
-*Waag, Wagen *= Four of Clubs (one of the five *Olen*)
+*Waag, Wagen* = Quatre de trèfle (l'un des cinq *Olen*)
 
-*Wääl =* the chosen upcards 
+*Wääl* = les cartes retournées choisies
 
-*wäält *= chosen
+*wäält* = choisi
 
-*wir schmeissen* = we’ll fold
+*wir schmeissen* = on se couche
 
-*wir spielen weiter *= we’ll play on (to get a march)
+*wir spielen weiter* = on continue (pour une marche)
 
-*zuwerfen, abschmeissen* = to throw (a card)
+*zuwerfen, abschmeissen* = jeter (une carte)
 
-## References
+## Références
 
-Paul Eaton:* Knüffeln: the Karnöffel of Frisia* in [The Playing-Card](https://i-p-c-s.org/journal/contents/49/4) volume 49, No 4, pp149-157 (2021).
+Paul Eaton : *Knüffeln: the Karnöffel of Frisia* dans [The Playing-Card](https://i-p-c-s.org/journal/contents/49/4) volume 49, No. 4, pp. 149-157 (2021).
 
-J.F. Bernhard: *Das Karnüffeln (Knüffeln): Ein Friesisches Kartenspiel *in Die Heimat, Monatsschrift d. Vereins zur Pflege der Natur- und Landeskunde in Schleswig-Holstein und Hamburg, Vol. 34 (Ed. Gustav Fr. Meyer, Kiel) pp70-72 (1924).
+J.F. Bernhard : *Das Karnüffeln (Knüffeln): Ein Friesisches Kartenspiel* dans Die Heimat, Monatsschrift d. Vereins zur Pflege der Natur- und Landeskunde in Schleswig-Holstein und Hamburg, Vol. 34 (éd. Gustav Fr. Meyer, Kiel) pp. 70-72 (1924).
 
-Peter Grünberg: *Knüffeln* in Die Heimat, Vol. 48 No. 1, Flensburg: Heimat und Erbe pp27-28 (1938).
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Knüffeln
+Peter Grünberg : *Knüffeln* dans Die Heimat, Vol. 48 No. 1, Flensburg : Heimat und Erbe pp. 27-28 (1938).

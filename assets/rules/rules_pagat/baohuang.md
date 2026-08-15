@@ -4,158 +4,156 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Escalade, Escalade
-**But :** How to play the Chinese card game Bao Huang (Protect the Emperor) for five players: two against three.
+**But :** Comment jouer au jeu de cartes chinois Bao Huang (Protéger l'empereur) pour cinq joueurs : deux contre trois.
 
 ---
 
 ## Introduction
 
-This Chinese climbing game for five players is said to have originated in Shandong province, and in the early 21st century it has become popular across a wide area of northern China and online. **Băo huáng** (保皇) means 'protect the emperor', and the game is also often known as **dìwáng** (帝王) meaning 'emperor'. In each deal two players, the emperor and his protector the eunuch (*xiao baozi*: 小孢子), play against a team of three, the farmers or people (*ping min:* 平民). The emperor and the eunuch are the holders of particular cards. While the emperor is known from the start, his protector remains hidden until the card is played.
+Ce jeu d'escalade chinois pour cinq joueurs serait originaire de la province du Shandong, et au début du XXIe siècle il est devenu populaire dans une vaste région du nord de la Chine et en ligne. **Băo huáng** (保皇) signifie « protéger l'empereur », et le jeu est aussi souvent connu sous le nom de **dìwáng** (帝王) signifiant « empereur ». Dans chaque donne, deux joueurs, l'empereur et son protecteur l'eunuque (*xiao baozi* : 小孢子), jouent contre une équipe de trois, les paysans ou le peuple (*ping min* : 平民). L'empereur et l'eunuque sont les détenteurs de cartes particulières. Bien que l'empereur soit connu dès le début, son protecteur reste caché jusqu'à ce que la carte soit jouée.
 
-As in all climbing games the object is to get rid of one's cards (and help one's partners to do so) by playing them singly or in combinations, where each play must beat the previous play.
+Comme dans tous les jeux d'escalade, le but est de se débarrasser de ses cartes (et d'aider ses partenaires à faire de même) en les jouant seules ou en combinaisons, chaque jeu devant battre le précédent.
 
-There are many variants of this game. The version described in the main account is fairly widespread, and is played for example in Rizhao (日照) in Shandong province. Alternative rules that I know about are summarised in the variations section. I would be grateful to hear from anyone who knows more about these or other versions of this game.
+Il existe de nombreuses variantes de ce jeu. La version décrite dans le compte principal est assez répandue, et se joue par exemple à Rizhao (日照) dans la province du Shandong. Des règles alternatives que je connais sont résumées dans la section des variantes. Je serais reconnaissant d'entendre quiconque en sait plus sur ces versions ou d'autres de ce jeu.
 
-*This page is based on information from Shi Ji, James Cumming and Leo Hong.*
+*Cette page est basée sur des informations de Shi Ji, James Cumming et Leo Hong.*
 
-## Players and cards
+## Joueurs et cartes
 
-There are five players and a pack of 168 cards is used. This can be constructed from four standard 52-card packs from which the 3's, 4's and 5's are removed plus four red jokers and four black jokers. Suits are irrelevant in this game, and the cards rank from high to low:
+Il y a cinq joueurs et un jeu de 168 cartes est utilisé. Celui-ci peut être constitué de quatre jeux standard de 52 cartes dont on a retiré les 3, 4 et 5, plus quatre jokers rouges et quatre jokers noirs. Les couleurs sont sans importance dans ce jeu, et les cartes se classent de la plus forte à la plus faible :
 
-**Red joker****, Black joker, 2, A, K, Q, J, 10, 9, 8, 7, 6.**
+**Joker rouge, joker noir, 2, A, R, D, V, 10, 9, 8, 7, 6.**
 
-One red joker ("huang") and one black joker ("bao") are marked on the front, and the holders of these two cards will be the emperor and the eunuch respectively. Although standard Anglo-American cards can be used, the game is sufficiently popular that special 168-card packs can be obtained for this game with the emperor and eunuch cards ready printed.
+Un joker rouge (« huang ») et un joker noir (« bao ») sont marqués sur l'avant, et les détenteurs de ces deux cartes seront respectivement l'empereur et l'eunuque. Bien que des cartes anglo-américaines standard puissent être utilisées, le jeu est suffisamment populaire pour qu'on puisse se procurer des jeux spéciaux de 168 cartes avec les cartes empereur et eunuque déjà imprimées.
 
-The deal and play are normally anticlockwise. 
+La donne et le jeu se font normalement dans le sens inverse des aiguilles d'une montre.
 
-## Deal and Partnerships
+## Donne et partenariats
 
-The cards are shuffled and stacked face down. As in most Chinese games they are not distributed by a single player. Instead, players take their own cards from the top of the pile, one card at a time, in turn, until all the cards are taken. The player to the right of the player who shuffled cuts the cards, and the next player to the right takes the first card. Since the number of cards is not exactly divisible by five, some players will have one more cards than others. Players hold their cards so that they can see their faces and their opponents cannot.
+Les cartes sont mélangées et empilées face en bas. Comme dans la plupart des jeux chinois, elles ne sont pas distribuées par un seul joueur. Au lieu de cela, les joueurs prennent leurs propres cartes du sommet de la pile, une carte à la fois, à tour de rôle, jusqu'à ce que toutes les cartes soient prises. Le joueur à droite de celui qui a mélangé coupe les cartes, et le joueur suivant à droite prend la première carte. Le nombre de cartes n'étant pas exactement divisible par cinq, certains joueurs auront une carte de plus que d'autres. Les joueurs tiennent leurs cartes de façon à en voir les faces sans que leurs adversaires ne puissent les voir.
 
-For subsequent deals, the turn to cut and to take the first card passes anticlockwise. The player who took the first card in the previous deal should cut, and the next player should take the first card. 
+Pour les donnes suivantes, le tour de couper et de prendre la première carte passe dans le sens inverse des aiguilles d'une montre. Le joueur qui a pris la première carte lors de la donne précédente doit couper, et le joueur suivant doit prendre la première carte.
 
-Holding a hand of as many as 34 or 35 cards will be an unusual experience for most Western players. In China, players often hold their cards in more than one row or in a sort of array with equal cards in a column, as in the photographs.
+Tenir une main de jusqu'à 34 ou 35 cartes sera une expérience inhabituelle pour la plupart des joueurs occidentaux. En Chine, les joueurs tiennent souvent leurs cartes sur plus d'une rangée ou dans une sorte de tableau avec les cartes égales en colonne, comme sur les photographies.
 
 ![holding cards in bao huang 1](../images/climbing/bh2.jpg) ![holding cards in bao huang 2](../images/climbing/bh1.jpg)
 
-The holder of the marked red joker (emperor card) is the emperor (or king) and the holder of the marked black joker is the emperor's protector (also known as the eunuch or the royalist), who plays as the emperor's partner. The other three players are the common people, also known as farmers or revolutionaries. The holder of the emperor card can choose not to be the emperor: in this case the emperor card is passed to the next player to the left. No card is given in exchange: the original holder of the emperor card now has one card fewer and the new emperor one card more than were originally dealt. If the new emperor does not want the role, he or she can pass the card again, and this continues clockwise around the table until it is received by someone who is willing to be the emperor. In the unusual case where none of the other players wants to be emperor, so that the emperor card is passed all round the table and back to the player who originally held it, this player must be the emperor.
+Le détenteur du joker rouge marqué (carte empereur) est l'empereur (ou roi) et le détenteur du joker noir marqué est le protecteur de l'empereur (aussi connu comme l'eunuque ou le royaliste), qui joue en partenaire de l'empereur. Les trois autres joueurs sont le peuple, aussi appelés paysans ou révolutionnaires. Le détenteur de la carte empereur peut choisir de ne pas être l'empereur : dans ce cas, la carte empereur est passée au joueur suivant à gauche. Aucune carte n'est donnée en échange : le détenteur original de la carte empereur a maintenant une carte de moins et le nouvel empereur une carte de plus que ce qui a été distribué à l'origine. Si le nouvel empereur ne veut pas le rôle, il peut passer la carte à nouveau, et cela continue dans le sens des aiguilles d'une montre autour de la table jusqu'à ce qu'elle soit reçue par quelqu'un qui accepte d'être l'empereur. Dans le cas inhabituel où aucun des autres joueurs ne veut être empereur, de sorte que la carte empereur fait le tour de la table et revient au joueur qui la détenait à l'origine, ce joueur doit être l'empereur.
 
-The identity of the emperor is always known, even if the card is not passed on, because the emperor begins the play. However, the emperor's partner and the common people may keep quiet about what side they are on. In this case the common people will not know initially which player is protecting the emperor: they may suspect who it is by observing who seems to be helping the emperor during the play, but it will only be known for certain when the marked black joker is played. However, any of the other players may choose to declare their allegiance, for or against the emperor, before the play begins, and this doubles the score for the game. When one of the common people declares, this is known as an uprising (*zàofăn* - 造反). In case of an uprising other players may declare or not as they wish without further affecting the score.
+L'identité de l'empereur est toujours connue, même si la carte n'est pas passée, car l'empereur commence le jeu. Cependant, le partenaire de l'empereur et le peuple peuvent garder le silence sur le camp auquel ils appartiennent. Dans ce cas, le peuple ne saura pas initialement quel joueur protège l'empereur : ils peuvent soupçonner qui c'est en observant qui semble aider l'empereur pendant le jeu, mais ce ne sera connu avec certitude que lorsque le joker noir marqué sera joué. Cependant, n'importe lequel des autres joueurs peut choisir de déclarer son allegiance, pour ou contre l'empereur, avant que le jeu ne commence, ce qui double le score de la donne. Quand un des membres du peuple déclare, cela s'appelle un soulèvement (*zàofăn* - 造反). En cas de soulèvement, les autres joueurs peuvent déclarer ou non comme ils le souhaitent sans affecter davantage le score.
 
-If one player holds both the emperor and the eunuch cards, this player will play alone against a team of four. The emperor may say nothing about this in which case the other players will not initially realise that this is the situation. Alternatively the emperor may declare before the start of the play that he or she is playing alone, and this doubles the score. If the emperor does not wish to play alone, this can be avoided by passing the emperor card to the left. 
+Si un joueur détient à la fois la carte empereur et la carte eunuque, ce joueur jouera seul contre une équipe de quatre. L'empereur peut ne rien dire à ce sujet, auquel cas les autres joueurs ne réaliseront pas initialement la situation. Alternativement, l'empereur peut déclarer avant le début du jeu qu'il joue seul, ce qui double le score. Si l'empereur ne souhaite pas jouer seul, cela peut être évité en passant la carte empereur à gauche.
 
-In the second and subsequent deals there is a penalty for the losers of the previous deal. After all the cards have been taken, the members of the team that lost the previous deal must each give away their highest card other than a joker: this will usually be a two. These high cards are placed on the table face down, taken by the members of the winning team and added to their hands. The emperor from the previous deal must give away his or her highest **two** cards (other than jokers) if the emperor's team lost, and takes **two** of the high cards offered by the farmers if the emperor's team won. An emperor who was playing alone will give or receive four cards in the next deal.
+Dans la deuxième donne et les suivantes, il y a une pénalité pour les perdants de la donne précédente. Après que toutes les cartes ont été prises, les membres de l'équipe qui a perdu la donne précédente doivent chacun céder leur carte la plus forte autre qu'un joker : ce sera généralement un deux. Ces cartes fortes sont placées face en bas sur la table, prises par les membres de l'équipe gagnante et ajoutées à leur main. L'empereur de la donne précédente doit céder ses **deux** cartes les plus fortes (autres que les jokers) si l'équipe de l'empereur a perdu, et prend **deux** des cartes fortes offertes par les paysans si l'équipe de l'empereur a gagné. Un empereur qui jouait seul donnera ou recevra quatre cartes lors de la prochaine donne.
 
-If the previous deal was a draw (zero score), no tribute is given.
+Si la donne précédente était un match nul (score zéro), aucun tribut n'est donné.
 
-## Playable Combinations
+## Combinaisons jouables
 
-Cards can be played singly or several at a time. When playing more than one card, the cards must form a **playable combination**. The playable combinations are:
+Les cartes peuvent être jouées seules ou plusieurs à la fois. Lorsqu'on joue plus d'une carte, les cartes doivent former une **combinaison jouable**. Les combinaisons jouables sont :
 
-- Any quantity of equal cards, irrespective of suit, for example **8-8** or **Q-Q-Q-Q** or **9-9-9-9-9-9-9**.
+- N'importe quelle quantité de cartes égales, peu importe la couleur, par exemple **8-8** ou **D-D-D-D** ou **9-9-9-9-9-9-9**.
 
-- Any number of equal cards together with any number of jokers of any colour, for example **7-7-black** or **6-red** or **K-K-K-black-red**. A combination including one joker is known as *guà le yī ge* (挂了一个: one card hanging), with two jokers *guà le liăng ge* (挂了两个: a pair of cards hanging), with three jokers 挂了三个 and so on.
+- N'importe quel nombre de cartes égales avec n'importe quel nombre de jokers de n'importe quelle couleur, par exemple **7-7-noir** ou **6-rouge** ou **R-R-R-noir-rouge**. Une combinaison incluant un joker est appelée *guà le yī ge* (挂了一个 : une carte pendante), avec deux jokers *guà le liăng ge* (挂了两个 : une paire de cartes pendantes), avec trois jokers 挂了三个, etc.
 
-- Any number of jokers of any colour, for example **black-black-red**.
+- N'importe quel nombre de jokers de n'importe quelle couleur, par exemple **noir-noir-rouge**.
 
-A single card can only be beaten by a higher single card. A combination beats a previously played combination if and only if
+Une carte seule ne peut être battue que par une carte seule supérieure. Une combinaison bat une combinaison précédemment jouée si et seulement si :
 
-- it is playable, and
+- elle est jouable, et
 
-- it has the same number of cards, and
+- elle a le même nombre de cartes, et
 
-- each card of the new combination beats a corresponding card of the previous combination.
+- chaque carte de la nouvelle combinaison bat une carte correspondante de la combinaison précédente.
 
-So for example: 
+Donc par exemple :
 
-- **7-7-7** can be beaten by **10-10-10**, which can be beaten by **A-A-A**, which can be beaten by **2-2-2**, (two being higher than ace in this game), which can only be beaten by three jokers;
+- **7-7-7** peut être battu par **10-10-10**, qui peut être battu par **A-A-A**, qui peut être battu par **2-2-2** (le deux étant supérieur à l'as dans ce jeu), qui ne peut être battu que par trois jokers ;
 
-- **8-8-8-8** can be beaten by **9-9-9-black**, which can be beaten by **Q-Q-Q-red**, but **8-8-8-black** does **not** beat **8-8-8-8**;
+- **8-8-8-8** peut être battu par **9-9-9-noir**, qui peut être battu par **D-D-D-rouge**, mais **8-8-8-noir** ne bat **pas** **8-8-8-8** ;
 
-- any combination containing a red joker is unbeatable;
+- toute combinaison contenant un joker rouge est imbattable ;
 
-- a combination containing black jokers can **only** be beaten by a higher combination containing at least as many red jokers - for example **7-7-black-black** can be beaten by **9-9-red-red** or by **K-black-red-red**, but **not** by **Q-black-black-red** (since only one of the black jokers in the first combination has been beaten) and **not** by **7-7-red-red** (since 7 does not beat 7).
+- une combinaison contenant des jokers noirs ne peut être battue **que** par une combinaison supérieure contenant au moins autant de jokers rouges — par exemple **7-7-noir-noir** peut être battu par **9-9-rouge-rouge** ou par **R-noir-rouge-rouge**, mais **pas** par **D-noir-noir-rouge** (puisqu'un seul des jokers noirs de la première combinaison a été battu) et **pas** par **7-7-rouge-rouge** (puisque 7 ne bat pas 7).
 
-## Play
+## Jeu
 
-The emperor begins by leading any single card or playable combination. All players, in anticlockwise order, may either pass - saying *'bùyào'* (不要) or *'guò'* (过) - or beat it by playing a higher card or combination. As explained above, each play must consist of the same number of cards, and must be higher than the previous play. This continues for as many circuits as necessary until no one is able and willing to beat the last card or combination that was played. When a play is followed by consecutive passes from all the other players, the player who played the last (unbeaten) combination begins again and is free to play any card or playable combination.
+L'empereur commence en menant n'importe quelle carte seule ou combinaison jouable. Tous les joueurs, dans le sens inverse des aiguilles d'une montre, peuvent soit passer — en disant *'bùyào'* (不要) ou *'guò'* (过) — soit battre en jouant une carte ou combinaison supérieure. Comme expliqué ci-dessus, chaque jeu doit avoir le même nombre de cartes et être supérieur au jeu précédent. Cela continue pour autant de tours que nécessaire jusqu'à ce que personne ne soit capable ou désireux de battre la dernière carte ou combinaison jouée. Lorsqu'un jeu est suivi de passes consécutives de tous les autres joueurs, le joueur qui a joué la dernière combinaison (imbattue) recommence et est libre de jouer n'importe quelle carte ou combinaison jouable.
 
-Note that passing does not prevent a player from playing at his or her next turn if someone else has played meanwhile. 
+Notez que passer n'empêche pas un joueur de jouer à son prochain tour si quelqu'un d'autre a entre-temps joué.
 
-A player whose play is currently unbeaten may ask the other players not to beat it, saying *'zhàn pái'* (站牌). If the teams are not yet known this may provide a clue as to which side the player is on or may be deceptive. The other players do not have to comply.
+Un joueur dont le jeu est actuellement imbattu peut demander aux autres joueurs de ne pas le battre, en disant *'zhàn pái'* (站牌). Si les équipes ne sont pas encore connues, cela peut donner un indice sur le camp du joueur ou peut être trompeur. Les autres joueurs ne sont pas obligés de s'y conformer.
 
-As players run out of cards they drop out of the play and the others continue until all members of one or the other team have played all their cards. If someone plays their last card(s) and these are not beaten, the turn to restart the play with any card or playable combination passes to the next player to the right who still has cards.
+Au fur et à mesure que les joueurs n'ont plus de cartes, ils abandonnent le jeu et les autres continuent jusqu'à ce que tous les membres d'une équipe ou de l'autre aient joué toutes leurs cartes. Si quelqu'un joue ses dernières cartes et que celles-ci ne sont pas battues, le tour de recommencer avec n'importe quelle carte ou combinaison jouable passe au joueur suivant à droite qui a encore des cartes.
 
-## Scoring
+## Score
 
-When the emperor has a partner, each team's score is based on the order in which its players finished: +2 points for the player who finishes first, +1 points for second, 0 for third, -1 for fourth and -2 for last. So for example if the emperor's team come 1st and 3rd their score will be +2 (=+2+0) and the people's team will score -2 (=+1-1-2) for 2nd 4th and 5th. Each of the common people and the emperor's partner scores the amount scored by their team, and the emperor scores double. So in the above example the emperor scores +4 for the hand, the eunuch score +2 and the people score -2 each.
+Quand l'empereur a un partenaire, le score de chaque équipe est basé sur l'ordre dans lequel ses joueurs ont terminé : +2 points pour le joueur qui termine premier, +1 point pour le deuxième, 0 pour le troisième, -1 pour le quatrième et -2 pour le dernier. Donc par exemple si l'équipe de l'empereur arrive 1re et 3e, leur score sera +2 (=+2+0) et l'équipe du peuple marquera -2 (=+1-1-2) pour les 2e, 4e et 5e. Chacun des membres du peuple et le partenaire de l'empereur marque le score de leur équipe, et l'empereur marque le double. Ainsi dans l'exemple ci-dessus, l'empereur marque +4 pour la donne, l'eunuque +2 et les membres du peuple -2 chacun.
 
-If the emperor's partner or any of the common people declare what side they are on before the play, the above scores are doubled.
+Si le partenaire de l'empereur ou l'un des membres du peuple déclare son camp avant le jeu, les scores ci-dessus sont doublés.
 
-When the emperor plays alone and comes first, the emperor scores +12 and the other players score -3 each. When the emperor plays alone and comes second everyone scores 0, and if the emperor plays alone and comes third or worse, the emperor scores -12 and the people score +3 each.
+Quand l'empereur joue seul et arrive premier, l'empereur marque +12 et les autres joueurs -3 chacun. Quand l'empereur joue seul et arrive deuxième, tout le monde marque 0, et si l'empereur joue seul et arrive troisième ou moins bien, l'empereur marque -12 et les membres du peuple +3 chacun.
 
-If the emperor declares that he or she is playing alone, or if any of the emperor's opponents declares an uprising, these scores are doubled (+24/-6 or -24/+6).
+Si l'empereur déclare qu'il joue seul, ou si l'un des adversaires de l'empereur déclare un soulèvement, ces scores sont doublés (+24/-6 ou -24/+6).
 
-## Sixes Played Last
+## Six jouées en dernier
 
-Bao Huang is often played with the extra rule that sixes (the lowest cards) must be played last. In this version it is illegal to play a six until one's hand contains nothing but sixes. Sixes cannot be combined with jokers in this version.
+Bao Huang se joue souvent avec la règle supplémentaire que les six (les cartes les plus basses) doivent être jouées en dernier. Dans cette version, il est interdit de jouer un six tant que sa main ne contient que des six. Les six ne peuvent pas être combinés avec des jokers dans cette version.
 
-The play in this variant is somewhat more challenging. In order to be first out of cards, it is necessary to keep a winning combination for your second to last play, so as to finish by leading all your sixes. If your second to last play is beaten, you are doomed to come last unless the player before you ends with an unbeaten set of sixes, allowing you to lead your sixes next.
+Le jeu dans cette variante est quelque peu plus difficile. Pour être le premier à sortir ses cartes, il est nécessaire de garder une combinaison gagnante pour son avant-dernier jeu, afin de finir en menant tous ses six. Si votre avant-dernier jeu est battu, vous êtes condamné à arriver dernier, sauf si le joueur précédent vous précédent se termine par un ensemble imbattable de six, vous permettant de mener vos six au tour suivant.
 
-## Other Variations
+## Autres variantes
 
-### 216 cards
+### 216 cartes
 
-Bo Huang is quite often played with four complete decks plus jokers, 216 cards altogether including the 3's, 4's and 5's. In this case the 3s are the lowest cards, followed by 4s, 5s, 6s, etc. 
+Bao Huang se joue assez souvent avec quatre jeux complets plus les jokers, soit 216 cartes au total, y compris les 3, 4 et 5. Dans ce cas, les 3 sont les cartes les plus basses, suivis des 4, 5, 6, etc.
 
-### Choosing the emperor's partner
+### Choisir le partenaire de l'empereur
 
-Many players do not use a marked black joker to choose the emperor's partner. Instead, the emperor must show three identical cards and the holder of the fourth matching card is the eunuch, who protects the emperor. If you are dealt the emperor card and do not have three identical cards, you must pass the emperor card to the left. If the emperor card is passed all the way round the table back to the first player and the first player does not have three identical cards, it must be passed back to the nearest player in counterclockwise rotation who has three identical cards - that is the last qualified player who rejected it. If no one has three identical cards, the cards are thrown in and there is a new deal with the same player starting.
+Beaucoup de joueurs n'utilisent pas de joker noir marqué pour choisir le partenaire de l'empereur. Au lieu de cela, l'empereur doit montrer trois cartes identiques et le détenteur de la quatrième carte correspondante est l'eunuque, qui protège l'empereur. Si on vous a distribué la carte empereur et que vous n'avez pas trois cartes identiques, vous devez passer la carte empereur à gauche. Si la carte empereur est passée tout le tour de la table jusqu'au premier joueur et que le premier joueur n'a pas trois cartes identiques, elle doit être repassée au joueur le plus proche dans le sens inverse des aiguilles d'une montre qui a trois cartes identiques — c'est-à-dire le dernier joueur qualifié qui l'a refusée. Si personne n'a trois cartes identiques, les cartes sont jetées et il y a une nouvelle donne avec le même joueur commençant.
 
-An emperor who holds four identical cards can play alone silently by showing three of these cards and not revealing the fourth one, or can declare and double the score by showing all four identical cards.
+Un empereur qui détient quatre cartes identiques peut jouer seul silencieusement en montrant trois de ces cartes sans révéler la quatrième, ou peut déclarer et doubler le score en montrant les quatre cartes identiques.
 
-### Passing on the emperor card
+### Passer la carte empereur
 
-Some play that if the emperor card is passed on more than once in a deal, the second and subsequent players must pass their highest single card other than the emperor card to the next player to the left along with the emperor card. It is only the player who originally drew the emperor card who can pass it on with no accompanying card. 
+Certains jouent que si la carte empereur est passée plus d'une fois lors d'une donne, les deuxième et suivants joueurs doivent passer leur carte seule la plus forte autre que la carte empereur au joueur suivant à gauche avec la carte empereur. Seul le joueur qui a initialement tiré la carte empereur peut la passer sans carte d'accompagnement.
 
-### Solo Usurper (*Qiăng dú* - 抢独)
+### Usurpateur solitaire (*Qiăng dú* - 抢独)
 
-Some allow any player, before the start of play, to claim the emperor card from whoever has it and declare that they will play alone (score: 24 points, the same as when any emperor declares playing alone). Presumably the original holder of the emperor card can also do this if not requiring a partner.
+Certains permettent à n'importe quel joueur, avant le début du jeu, de réclamer la carte empereur à celui qui la détient et de déclarer qu'il jouera seul (score : 24 points, le même que lorsqu'un empereur déclare jouer seul). Presque certainement, le détenteur original de la carte empereur peut aussi le faire s'il n'a pas besoin de partenaire.
 
-### Open Tribute Cards
+### Cartes de tribut ouvertes
 
-Some play that the losing team place their highest cards (other than jokers) face up on the table, and these are taken by the winning team in order of their finishing position in the previous deal. 
+Certains jouent que l'équipe perdante place ses cartes les plus fortes (autres que les jokers) face visible sur la table, et celles-ci sont prises par l'équipe gagnante dans l'ordre de leur position d'arrivée lors de la donne précédente.
 
-### Ranking of jokers
+### Classement des jokers
 
-Some play that the marked red joker is higher than the other red jokers.
+Certains jouent que le joker rouge marqué est supérieur aux autres jokers rouges.
 
-A few people play that a red joker can be beaten by three 2's. 
+Quelques-uns jouent qu'un joker rouge peut être battu par trois 2.
 
-### Order of Playable Combinations
+### Ordre des combinaisons jouables
 
-A few people play that when a combination that includes jokers is played, it is only the jokers that have to beat the corresponding cards of the previous play. It is sufficient for the ordinary cards to be equal. With this rule, **9-9-9-9** can be beaten by **9-9-9-black**, which can be beaten by **9-9-9-red**. However, jokers have to be beaten, not just equalled, so a combination including a red joker is still unbeatable. Also, a set of ordinary cards can only be beaten by another set of the same rank if a joker is used. 
+Quelques-uns jouent que lorsqu'une combinaison incluant des jokers est jouée, seuls les jokers doivent battre les cartes correspondantes du jeu précédent. Il suffit que les cartes ordinaires soient égales. Avec cette règle, **9-9-9-9** peut être battu par **9-9-9-noir**, qui peut être battu par **9-9-9-rouge**. Cependant, les jokers doivent être battus, pas seulement égalés, donc une combinaison incluant un joker rouge reste imbattable. De même, un ensemble de cartes ordinaires ne peut être battu par un autre ensemble du même rang que si un joker est utilisé.
 
-### Play without scoring
+### Jeu sans score
 
-Some players do not keep score. Instead the result of each deal is as follows:
+Certains joueurs ne gardent pas le score. Le résultat de chaque donne est alors le suivant :
 
-- If the first and last players to run out of cards are from opposing teams, the first player's team wins and the last player's team loses.
+- Si le premier et le dernier joueur à se débarrasser de ses cartes sont d'équipes opposées, l'équipe du premier joueur gagne et l'équipe du dernier perd.
 
-- If the emperor has a partner, and the first and last players are from the same team, the game is a tie (and no tribute cards are given in the next deal).
+- Si l'empereur a un partenaire, et que le premier et le dernier joueur sont de la même équipe, le jeu est un match nul (et aucun tribut n'est donné lors de la prochaine donne).
 
-- If the emperor is alone, the emperor wins if he is first to run out of cards and loses otherwise. 
+- Si l'empereur est seul, l'empereur gagne s'il est le premier à se débarrasser de ses cartes et perd sinon.
 
-### Direction of play
+### Sens du jeu
 
-Sometimes the entire game is played clockwise rather than anticlockwise.
+Parfois, le jeu entier se joue dans le sens des aiguilles d'une montre plutôt que dans le sens inverse.
 
-## Other Bao Huang websites
+## Autres sites Bao Huang
 
-The online encyclopedia Baidu Baike has a page describing [Bao Huang](https://baike.baidu.com/item/%E4%BF%9D%E7%9A%87/535559).
+L'encyclopédie en ligne Baidu Baike a une page décrivant [Bao Huang](https://baike.baidu.com/item/%E4%BF%9D%E7%9A%87/535559).
 
-Bao Huang can be played at the popular Chinese online site [QQ games](https://qqgame.qq.com/act/a20111203bh/game.html). 
+Bao Huang peut être joué sur le site chinois populaire [QQ games](https://qqgame.qq.com/act/a20111203bh/game.html).
 
-A set of rules in Chinese can be found at [homygame.com](https://web.archive.org/web/20250114083533/http://www.homygame.com/ngscom/help/guide/html/baohuang.htm) (archive copy).
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Bao Huang
+Un ensemble de règles en chinois peut être trouvé sur [homygame.com](https://web.archive.org/web/20250114083533/http://www.homygame.com/ngscom/help/guide/html/baohuang.htm) (copie d'archive).

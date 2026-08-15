@@ -3,59 +3,57 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A Swedish game in which the aim is to get rid of all your cards.
+**But :** Un jeu suédois dont le but est de se débarrasser de toutes ses cartes.
 
 ---
 
-*This page is based on information from Dan Glimne, Bengt Green and Johanna Kristoffersen.*
+*Cette page est basée sur des informations de Dan Glimne, Bengt Green et Johanna Kristoffersen.*
 
 ## Introduction
 
-This Swedish game, whose name means "turning tens", is probably the ancestor of the international game Shithead, which became popular with young backpackers at the end of the 20th century. Vändtia may well have originated in Northern Sweden, as it seems to have been played longest there. According to Dan Glimne it is probably an invention from the late 1970’s, since none of the players he could find in 2000 could recall playing it more than about 20 years previously. In the Skåne area in Southern Sweden this game is often played under the name ”Skitgubbe", which causes confusion with the classical Swedish three-hander of the same name. However, it could be that the English name 'shithead' for the international version of this game is based on the Swedish word 'skitgubbe'.
+Ce jeu suédois, dont le nom signifie « retourner les dix », est probablement l'ancêtre du jeu international Shithead, qui est devenu populaire auprès des jeunes routards à la fin du XXe siècle. Vändtia a probablement vu le jour dans le nord de la Suède, car il semble y avoir été joué le plus longtemps. Selon Dan Glimne, c'est probablement une invention de la fin des années 1970, car aucun des joueurs qu'il a pu trouver en 2000 ne se souvient d'y avoir joué plus d'environ 20 ans auparavant. Dans la région de Scanie dans le sud de la Suède, ce jeu est souvent joué sous le nom de « Skitgubbe », ce qui crée une confusion avec le jeu suédois classique à trois joueurs du même nom. Cependant, il se peut que le nom anglais « shithead » pour la version internationale de ce jeu soit basé sur le mot suédois « skitgubbe ».
 
-The main account below is based on a description contributed by Dan Glimne in 2000. 
+Le compte principal ci-dessous est basé sur une description contribuée par Dan Glimne en 2000.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Dan Glimne described this as a two-player game but Johanna Kristoffersen points out that more than two people can play the same game with only minor changes to the rules. If there are more than two players the game is played clockwise.
+Dan Glimne a décrit ce jeu comme un jeu à deux joueurs, mais Johanna Kristoffersen souligne que plus de deux personnes peuvent jouer au même jeu avec seulement des changements mineurs aux règles. S'il y a plus de deux joueurs, le jeu se joue dans le sens horaire.
 
-A standard 52-card pack is used, the cards ranking in the usual order from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2 (but note that 2's and 10's are special cards). Suits are ignored in this game.
+On utilise un jeu standard de 52 cartes, les cartes allant de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2 (mais notez que les 2 et les 10 sont des cartes spéciales). Les couleurs sont ignorées dans ce jeu.
 
-The object of the game is to run out of cards as soon as possible.
+Le but du jeu est de se débarrasser de ses cartes le plus vite possible.
 
-## Deal and Rearrangement
+## Donne et réarrangement
 
-The dealer deals three cards each, face down, in a row in front of each player, and then an additional three cards each but face up, one face up card on top of each of the face down cards. Then three more cards are dealt to each player, which are picked up and held in the player's hand. The rest of the pack is set face down between the players as the stock (draw pile). Now each player has 9 cards: 3 in hand and a row of three small stacks in front of him, each stack consisting of one face down card and on top of this one face up card.
+Le donneur distribue trois cartes à chacun, face cachées, en rangée devant chaque joueur, puis trois cartes supplémentaires à chacun mais face visibles, une carte face visible sur chaque carte face cachée. Ensuite, trois cartes de plus sont distribuées à chaque joueur, qui sont ramassées et tenues en main. Le reste du jeu est posé face caché entre les joueurs comme pioche. Chaque joueur a maintenant 9 cartes : 3 en main et une rangée de trois petits tas devant lui, chaque tas consistant en une carte face cachée surmontée d'une carte face visible.
 
-Before play commences, each player may switch cards as he likes between his hand and his three face up cards. In doing so, he will as a rule ensure that the three face up cards in the row before him are high cards, or tens, or twos.
+Avant le début du jeu, chaque joueur peut échanger des cartes comme il le souhaite entre sa main et ses trois cartes face visibles. Ce faisant, il veillera généralement à ce que les trois cartes face visibles dans la rangée devant lui soient des cartes hautes, des dix, ou des deux.
 
-## Play
+## Jeu
 
-The player to dealer's left begins by playing a card or a set of equal cards face up to the table to begin the play pile. Play continues clockwise. 
+Le joueur à la gauche du donneur commence en jouant une carte ou un ensemble de cartes égales face visibles sur la table pour commencer le tas. Le jeu continue dans le sens horaire.
 
-At your turn you may play a card or a set of equal cards face up on top of the play pile, but the cards you play must be either higher than or equal to the previous play or you may play a special card (2 or 10). If after playing you have fewer than three cards in your hand you must replenish your hand to three cards by drawing cards from the stock. The turn then passes to the left.
+À votre tour, vous pouvez jouer une carte ou un ensemble de cartes égales face visibles sur le tas, mais les cartes que vous jouez doivent être soit supérieures soit égales au jeu précédent, ou vous pouvez jouer une carte spéciale (2 ou 10). Si après avoir joué vous avez moins de trois cartes en main, vous devez reconstituer votre main à trois cartes en piochant de la pioche. Le tour passe ensuite à gauche.
 
-If at your turn you cannot or do not wish to play any cards on the play pile, you must pick up the whole of the play pile and add it to the cards in your hand. It is then the next player's turn and since the play pile is empty, this player can play any card or set of equal cards to begin a new play pile. A player who has picked up the pile will have more than three cards in hand and will not draw any more cards from the stock until enough cards have been played to reduce the hand to fewer than three cards.
+Si à votre tour vous ne pouvez ou ne souhaitez pas jouer de cartes sur le tas, vous devez ramasser tout le tas et l'ajouter aux cartes de votre main. C'est ensuite le tour du joueur suivant et, le tas étant vide, ce joueur peut jouer n'importe quelle carte ou ensemble de cartes égales pour commencer un nouveau tas. Un joueur qui a ramassé le tas aura plus de trois cartes en main et ne piochera plus de cartes de la pioche jusqu'à ce que suffisamment de cartes aient été jouées pour ramener la main en dessous de trois cartes.
 
-During the play, any of the following special events may occur.
+Pendant le jeu, n'importe lequel des événements spéciaux suivants peut se produire.
 
-Ten
-A ten can be played regardless of what card is on top of the play pile. When a ten is played the entire play pile is "turned away" - the cards are set aside out of play. The **same** player then continues by playing any card or set of equal cards to start a new play pile.
-Two
-A two can be played regardless of what is on top of the play pile. The pile remains in place and any card or set of equal cards can be played on the two by the next player.
-Four equal cards
-If there are four equal ranked cards on top of the play pile, this has the same effect as a ten. The entire play pile is turned away (set aside) and the same player plays again to start a new play pile. Most often this occurs when one player plays a card or cards and the other player responds by playing all remaining cards of that rank. However, it is also possible for a single player to play four equal cards, having collected them by picking up the play pile. 
+Dix
+Un dix peut être joué indépendamment de la carte sur le dessus du tas. Quand un dix est joué, tout le tas est « retourné » — les cartes sont mises de côté hors du jeu. Le **même** joueur continue ensuite en jouant n'importe quelle carte ou ensemble de cartes égales pour commencer un nouveau tas.
+Deux
+Un deux peut être joué indépendamment de ce qui est sur le dessus du tas. Le tas reste en place et n'importe quelle carte ou ensemble de cartes égales peut être joué sur le deux par le joueur suivant.
+Quatre cartes égales
+S'il y a quatre cartes de même valeur sur le dessus du tas, cela a le même effet qu'un dix. Tout le tas est retourné (mis de côté) et le même joueur joue à nouveau pour commencer un nouveau tas. Cela se produit le plus souvent lorsqu'un joueur joue une ou plusieurs cartes et l'autre répond en jouant toutes les cartes restantes de cette valeur. Cependant, il est aussi possible pour un seul joueur de jouer quatre cartes égales, les ayant collectées en ramassant le tas.
 
-## Endgame
+## Fin de partie
 
-When the stock is empty, players can no longer replenish their hands, so eventually they run out of cards. When a player runs out of cards in his hand, he must play from his row of three before him, any face up card he likes. When one of the face up cards is played, the face down card beneath it is immediately turned face up. If a player who previously has emptied his hand is unable to play any of his face up cards (or chooses not to do so) he is forced to pick up the playing pile as usual. On subsequent turns the player will then have to play cards from hand, and continue doing so until he runs out of cards again. Only after his hand is once again empty is he allowed to play again from the row of face up cards in front of him.
+Quand la pioche est vide, les joueurs ne peuvent plus reconstituer leur main, donc ils finissent par épuiser leurs cartes. Quand un joueur n'a plus de cartes en main, il doit jouer depuis sa rangée de trois devant lui, n'importe quelle carte face visible qu'il souhaite. Quand une des cartes face visibles est jouée, la carte face cachée en dessous est immédiatement retournée face visible. Si un joueur qui a précédemment vidé sa main est incapable de jouer l'une de ses cartes face visibles (ou choisit de ne pas le faire), il est forcé de ramasser le tas comme d'habitude. Aux tours suivants, il devra alors jouer des cartes depuis sa main, et continuer ainsi jusqu'à en épuiser à nouveau. Ce n'est qu'une fois sa main à nouveau vide qu'il est autorisé à jouer depuis la rangée de cartes face visibles devant lui.
 
-A player who has no cards at all, having played all his hand cards and all the cards in front of him drops out of the game. The last player who has cards when all the others have run out is the loser.
+Un joueur qui n'a plus de cartes du tout, ayant joué toutes ses cartes en main et toutes les cartes devant lui, quitte le jeu. Le dernier joueur à avoir des cartes quand tous les autres en ont fini est le perdant.
 
-## Variations
+## Variantes
 
-Some play that when rearranging cards, if you have two or more equal cards they can be stacked on one of the three row positions in front of you. You will then have fewer than three cards in your hand, and you must immediately draw cards from the stock to replenish your hand to three cards, and you may continue to rearrange. In some cases you may then end up with more than 3 cards in your hand. Example: you have J, 7, 2 in hand and A, 7, 5 face up. You swap the 2 for the 5 and stack your 7 on the 7. Now you have only two cards so you draw one. It is another 7 so you add it to the stack and draw another card. This time you draw a 10, so you swap the 10 for the three sevens. Now you have A, 10, 2 in front of you and five cards in hand: J, 7, 7, 7, 5. You are ready to start playing.
+Certains jouent que lors du réarrangement des cartes, si vous avez deux cartes égales ou plus, elles peuvent être empilées sur l'une des trois positions de rangée devant vous. Vous aurez alors moins de trois cartes en main, et vous devez immédiatement piocher de la pioche pour reconstituer votre main à trois cartes, et vous pouvez continuer à réarranger. Dans certains cas, vous pouvez alors vous retrouver avec plus de 3 cartes en main. Exemple : vous avez V, 7, 2 en main et A, 7, 5 face visibles. Vous échangez le 2 contre le 5 et empilez votre 7 sur le 7. Vous n'avez maintenant que deux cartes, donc vous en piochez une. C'est un autre 7, donc vous l'ajoutez à la pile et piochez une autre carte. Cette fois, vous piochez un 10, donc vous échangez le 10 contre les trois sept. Vous avez maintenant A, 10, 2 devant vous et cinq cartes en main : V, 7, 7, 7, 5. Vous êtes prêt à commencer à jouer.
 
-Some do not allow a 2 to be played as a player's last card. So if you have a 2 face up on the table and nothing else, when your turn comes you must pick up the play pile.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Vändtia
+Certains ne permettent pas de jouer un 2 comme dernière carte d'un joueur. Donc si vous avez un 2 face visible sur la table et rien d'autre, quand votre tour arrive, vous devez ramasser le tas.

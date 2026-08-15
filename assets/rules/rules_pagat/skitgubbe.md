@@ -3,7 +3,7 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐
 **Type :** Bataille de plis, Plis
-**But :** Myllymatti and Koira.
+**But :** Myllymatti et Koira.
 
 ---
 
@@ -11,263 +11,255 @@
 
 - Skitgubbe
 
-- Players, Cards and Deal
+- Joueurs, cartes et donne
 
-- Object of the Game
+- But du jeu
 
 ## Introduction
 
-This page describes 
-**Skitgubbe**, a popular Swedish game for three players, and some related games played in Norway and Finland. All the games of this group consist of two phases. In the first phase you collect cards by winning tricks, and in the second phase you try to get rid of your cards by beating cards played by other players. The last player left holding cards at the end is the loser.
+Cette page décrit le **Skitgubbe**, un jeu suédois populaire pour trois joueurs, et quelques jeux apparentés joués en Norvège et en Finlande. Tous les jeux de ce groupe comportent deux phases. Dans la première phase, vous collectez des cartes en gagnant des plis, et dans la deuxième, vous essayez de vous débarrasser de vos cartes en battant les cartes jouées par les autres. Le dernier joueur à avoir encore des cartes à la fin est le perdant.
 
-It is likely that this group of games originated in Finland. The Finnish game **Myllymatti** is mentioned in several 19th century newspaper articles. Myllymatti seems to be the direct ancestor of Swedish Skitgubbe, which is also sometimes known as **Mjölnarmatte** or **Mas**.
+Il est probable que ce groupe de jeux est originaire de Finlande. Le jeu finlandais **Myllymatti** est mentionné dans plusieurs articles de journaux du XIXe siècle. Myllymatti semble être l'ancêtre direct du Skitgubbe suédois, qui est aussi parfois connu sous le nom de **Mjölnarmatte** ou **Mas**.
 
-The Finnish game **Koira** appeared later and has somewhat different rules. It is closely related to the Norwegian game **Mattis**.
+Le jeu finlandais **Koira** est apparu plus tard et a des règles quelque peu différentes. Il est étroitement apparenté au jeu norvégien **Mattis**.
 
 ## Skitgubbe
 
-### Players, cards and deal
+### Joueurs, cartes et donne
 
-The game is best for three players, but it is also possible for two or four to play. A standard 52 card pack, without joker, is used. The cards rank in the usual order: A (highest) K Q J T 9 8 7 6 5 4 3 2 (lowest). 
+Le jeu convient le mieux pour trois joueurs, mais il est aussi possible de jouer à deux ou quatre. On utilise un jeu standard de 52 cartes sans joker. Les cartes ont l'ordre habituel : A (le plus haut) R D V 10 9 8 7 6 5 4 3 2 (le plus bas).
 
-Deal and play are clockwise. Each player receives 3 cards. The rest of the cards are laid face down in a pile on the table (stock).
+La donne et le jeu se font dans le sens horaire. Chaque joueur reçoit 3 cartes. Le reste des cartes est posé face cachée en tas sur la table (pioche).
 
-### Object of the game
+### But du jeu
 
-Skitgubbe has two phases. In the first phase players collect cards for the second phase. In the second phase the object is to get rid of one's cards as fast as possible. The last player left with cards in hand is the loser and becomes the **skitgubbe**.
+Le Skitgubbe a deux phases. Dans la première phase, les joueurs collectent des cartes pour la deuxième phase. Dans la deuxième phase, le but est de se débarrasser de ses cartes le plus vite possible. Le dernier joueur à avoir encore des cartes en main est le perdant et devient le **skitgubbe**.
 
-### Play in the first phase
+### Jeu dans la première phase
 
-The first phase consists of tricks of 2 cards. The player to dealer's left leads first. Any card can be led and the player to the left of the leader plays any card to complete the trick. At this stage the suits have no significance and there is no requirement to follow suit. Each player draws a card from the stock immediately after playing, so that each player always has a hand of three cards so long as
-there are still cards in the stock. Whoever played the higher card wins the trick, places the two cards face down in front of himself, and leads to the next trick. If the player who led wins the trick, he leads again and the same two players are involved in the next trick.
+La première phase consiste en plis de 2 cartes. Le joueur à la gauche du donneur pose en premier. N'importe quelle carte peut être posée et le joueur à la gauche de celui qui pose joue n'importe quelle carte pour compléter le pli. À ce stade, les couleurs n'ont pas d'importance et il n'y a pas d'obligation de suivre la couleur. Chaque joueur pioche une carte de la pioche immédiatement après avoir joué, de sorte que chaque joueur a toujours une main de trois cartes tant qu'il reste des cartes dans la pioche. Celui qui a joué la carte la plus haute gagne le pli, pose les deux cartes face cachées devant lui et pose pour le pli suivant. Si le joueur qui a posé gagne le pli, il pose à nouveau et les deux mêmes joueurs participent au pli suivant.
 
-If the two cards played to a trick are equal it is called a *stunsa*
-(bounce); the cards are left on the table, the two players each draw a card from the stock and the same player leads again. This continues until one of the players wins the trick and takes all the cards played, including the cards from the tied tricks.
+Si les deux cartes jouées dans un pli sont égales, c'est un *stunsa* (rebond) ; les cartes restent sur la table, les deux joueurs piochent chacun une carte de la pioche et le même joueur pose à nouveau. Cela continue jusqu'à ce qu'un des joueurs gagne le pli et prenne toutes les cartes jouées, y compris les cartes des plis à égalité.
 
-In this first phase, the second player to a trick is under no obligation to try to beat the card led. If a low card is led the second player may wish to play lower and give the trick to the leader, for it is important to collect strong cards in the first phase of the game, so gain an advantage in the second phase.
+Dans cette première phase, le deuxième joueur d'un pli n'a aucune obligation d'essayer de battre la carte posée. Si une carte basse est posée, le deuxième joueur peut souhaiter jouer plus bas et donner le pli au joueur de départ, car il est important de collecter des cartes fortes dans la première phase, pour avoir un avantage dans la deuxième.
 
-Throughout the first phase, when it is your turn to play and there is still more than one card in the stock, instead of playing from your hand you may turn up the top card of the stock. If you turn a card from the stock you must play it - you may not put it in your hand. 
+Tout au long de la première phase, quand c'est votre tour de jouer et qu'il y a encore plus d'une carte dans la pioche, au lieu de jouer depuis votre main, vous pouvez retourner la carte du dessus de la pioche. Si vous retournez une carte de la pioche, vous devez la jouer — vous ne pouvez pas la mettre dans votre main.
 
-The last card from the stock determines the trump suit for the second phase. The player who has to draw this card takes it but does not add it to his hand but keeps it face down until the first phase is over.
+La dernière carte de la pioche détermine la couleur d'atout pour la deuxième phase. Le joueur qui doit piocher cette carte la prend mais ne l'ajoute pas à sa main ; il la garde face cachée jusqu'à la fin de la première phase.
 
-When the stock is exhausted, the play continues as long as possible with the cards players have in their hands, ending when the player whose turn at is has no card to play. At this point, if some players have cards left in hand they expose them for all to see, and keep them for the second phase. If the final trick of the first phase was incomplete, the players take back the cards they played to it and
-keep them for the second phase.
+Quand la pioche est épuisée, le jeu continue autant que possible avec les cartes que les joueurs ont en main, se terminant quand le joueur dont c'est le tour n'a pas de carte à jouer. À ce moment, si certains joueurs ont encore des cartes en main, ils les exposent pour que tous les voient, et les conservent pour la deuxième phase. Si le pli final de la première phase était incomplet, les joueurs reprennent les cartes qu'ils y ont jouées et les conservent pour la deuxième phase.
 
-### Play in the second phase
+### Jeu dans la deuxième phase
 
-The players have now divided the 52 cards between themselves, but the cards are probably not divided equally; some players have more cards than others. The player who drew the trump card leads. The object is to get rid of one's cards as fast as possible. In the unusual case where a player manages to collect no cards at all in phase one, they have no cards to get rid of and they do not take part in phase two.
+Les joueurs se sont maintenant partagé les 52 cartes entre eux, mais les cartes ne sont probablement pas réparties équitablement ; certains joueurs ont plus de cartes que d'autres. Le joueur qui a pioché la carte d'atout pose en premier. Le but est de se débarrasser de ses cartes le plus vite possible. Dans le cas inhabituel où un joueur réussit à ne collecter aucune carte lors de la phase une, il n'a pas de cartes à éliminer et ne participe pas à la phase deux.
 
-Now you must either beat the previous card played or pick it up. A card may be beaten by a higher card of the same suit, and a non-trump may be beaten by any trump. It is never lawful to duck. If you cannot or do not wish to beat the card in front of you, you must take it up into your hand. If this was the only card on the table, it is then the next player's turn to lead to a new trick. If there is more than one card lying on the table and you cannot beat the last card played, it is only this last card which you must take up into your hand. It is then the next player's turn to beat the card which was underneath it.
+Maintenant, vous devez soit battre la carte précédente, soit la ramasser. Une carte peut être battue par une carte supérieure de la même couleur, et une carte non-atout peut être battue par n'importe quel atout. Il n'est jamais permis de passer. Si vous ne pouvez ou ne souhaitez pas battre la carte devant vous, vous devez la prendre dans votre main. Si c'était la seule carte sur la table, c'est au joueur suivant de poser pour un nouveau pli. S'il y a plus d'une carte sur la table et que vous ne pouvez pas battre la dernière carte jouée, c'est uniquement cette dernière carte que vous devez prendre dans votre main. C'est ensuite au joueur suivant de battre la carte qui était en dessous.
 
-Leading or playing to a trick is called “*läggning*” in Swedish. Picking up cards is usually called “*plocka*” [pick] or “*supa*” [drink, booze].
+Poser ou jouer dans un pli est appelé « *läggning* » en suédois. Ramasser des cartes est généralement appelé « *plocka* » [prendre] ou « *supa* » [boire, picoler].
 
-A trick can end in two ways.
+Un pli peut se terminer de deux façons.
 
-- The number of cards in the trick is equal to the number of players who were in the game when the trick began. In this case, the cards in the trick are set aside out of the game: completing a trick in this way and setting it aside is called “*avstick*” in Swedish. The player who played last (and therefore highest) to the trick leads to the next trick unless their hand is empty. If a player completes a trick by playing their last card, the player to their left leads to the next trick.
+- Le nombre de cartes dans le pli est égal au nombre de joueurs présents dans le jeu au début du pli. Dans ce cas, les cartes du pli sont mises de côté hors du jeu : compléter un pli de cette façon et le mettre de côté est appelé « *avstick* » en suédois. Le joueur qui a joué la dernière (et donc la plus haute) carte du pli pose pour le pli suivant, à moins que sa main ne soit vide. Si un joueur complète un pli en jouant sa dernière carte, le joueur à sa gauche pose pour le pli suivant.
 
-- All the cards played to the trick have been picked up, leaving the table empty. 
-In this case, the player to the left of the player who picked up the last card leads to a new trick. 
+- Toutes les cartes jouées dans le pli ont été ramassées, laissant la table vide.
+Dans ce cas, le joueur à la gauche du joueur qui a ramassé la dernière carte pose pour un nouveau pli.
 
-Suppose there are 3 players; player A has led and player B has beaten A's card. If C now beats B's card, C puts aside the cards and leads to the next trick; but if C does not beat B's card but picks it up, it is now A's turn to beat the card showing on the table (which is in fact A's own lead). If A does this, and then B beats A's card, it is B who has completed the trick; B sets aside the three cards and leads to the next trick. Another possibility is: A leads, B beats A's card, C picks up B's card, and A picks up his own card. It is now B's lead.
+Supposons qu'il y a 3 joueurs ; le joueur A a posé et le joueur B a battu la carte de A. Si C bat maintenant la carte de B, C met les cartes de côté et pose pour le pli suivant ; mais si C ne bat pas la carte de B et la ramasse, c'est au tour de A de battre la carte visible sur la table (qui est en fait sa propre pose). Si A le fait, puis B bat la carte de A, c'est B qui a complété le pli ; B met les trois cartes de côté et pose pour le pli suivant. Une autre possibilité : A pose, B bat la carte de A, C ramasse la carte de B, et A ramasse sa propre carte. C'est maintenant le tour de B de poser.
 
-Note that as players run out of cards, the number of cards in each trick reduces. If there are three players, one of whom runs out of cards during a trick, that trick still requires three cards to be completed (or all its cards to be picked up), but the next trick will require only two cards.
+Notez qu'à mesure que les joueurs épuisent leurs cartes, le nombre de cartes dans chaque pli diminue. S'il y a trois joueurs, dont un qui sort pendant un pli, ce pli nécessite toujours trois cartes pour être complété (ou que toutes ses cartes soient ramassées), mais le pli suivant ne nécessitera que deux cartes.
 
-For example suppose there are 3 players: A, B, C. A leads his last card, B beats it, C picks B's card up, B beats A's card again, and now C beats B's card. The trick is now over, and C leads to the next trick. As there are now only two players, the new trick will have only two cards. Another example with three players: A leads; B beats with his last card, C picks this card up, and A picks up the card he led. It is now C's lead and the next trick will be complete with two cards.
+Par exemple, supposons 3 joueurs : A, B, C. A pose sa dernière carte, B la bat, C ramasse la carte de B, B bat la carte de A à nouveau, et maintenant C bat la carte de B. Le pli est maintenant terminé, et C pose pour le pli suivant. Comme il n'y a plus que deux joueurs, le nouveau pli n'aura que deux cartes. Un autre exemple avec trois joueurs : A pose ; B bat avec sa dernière carte, C ramasse cette carte, et A ramasse la carte qu'il a posée. C'est maintenant le tour de C et le pli suivant sera complet avec deux cartes.
 
-A player who gets rid of all his cards can draw a sigh of relief, for he is not the loser. The loser is the player who is left with the last card in his hand, and is called "Skitgubbe" (or "Mas" or "Mattis"). *Skitgubbe* is an insulting word meaning a disreputable or offensive old man; *Mas* and *Mattis* mean fool.
+Un joueur qui se débarrasse de toutes ses cartes peut pousser un soupir de soulagement, car il n'est pas le perdant. Le perdant est le joueur qui se retrouve avec la dernière carte en main, et est appelé « Skitgubbe » (ou « Mas » ou « Mattis »). *Skitgubbe* est un mot insultant désignant un vieillard malveillant ou offensant ; *Mas* et *Mattis* signifient fou.
 
-## Variations
+## Variantes
 
-### All Players play to Each Trick in Phase One
+### Tous les joueurs jouent à chaque pli dans la phase une
 
-Sten Helmfrid describes a version of Skitgubbe which he learned in the 1980's, in which the major difference is that in phase one all players play to each trick. Although this version is seldom mentioned in the literature of the game, his research indicates that it is now at least as widespread as the version with two-card tricks in phase one described above. This form of the game can be played by from 2 to 6 players, though it is best for 3 or 4. It has numerous variants, described below.
+Sten Helmfrid décrit une version du Skitgubbe qu'il a apprise dans les années 1980, dont la principale différence est que dans la phase une, tous les joueurs jouent à chaque pli. Bien que cette version soit rarement mentionnée dans la littérature du jeu, ses recherches indiquent qu'elle est maintenant au moins aussi répandue que la version avec des plis de deux cartes décrite ci-dessus. Cette forme du jeu peut être jouée de 2 à 6 joueurs, bien qu'elle convienne le mieux à 3 ou 4. Elle comporte de nombreuses variantes, décrites ci-dessous.
 
-The dealer deals the cards clockwise one at a time until each player has three cards and then stacks the rest of the pack face down to form the talon. The player to dealer's left leads to the first trick, and the other players play in turn clockwise around the table. The suits of the cards do not matter. Each player at their turn may play any single card or any two or three cards of equal rank. Immediately after playing to the trick, each player draws replacement cards from the top of the talon so that they have three cards in their hand again.
+Le donneur distribue les cartes dans le sens horaire une à une fois jusqu'à ce que chaque joueur ait trois cartes, puis empile le reste du jeu face cachée pour former le talon. Le joueur à la gauche du donneur pose pour le premier pli, et les autres joueurs jouent à tour de rôle dans le sens horaire. Les couleurs des cartes n'ont pas d'importance. Chaque joueur à son tour peut jouer n'importe quelle carte unique ou n'importe quel ensemble de deux ou trois cartes de même valeur. Immédiatement après avoir joué dans le pli, chaque joueur pioche des cartes de remplacement du dessus du talon pour avoir à nouveau trois cartes en main.
 
-The trick is won by the player who played the card or cards of the highest rank. If more than one player has played cards of the highest rank, these players play again, each playing any one card or two or three equal cards, in the same order as before and again replenish their hands. The one of these players who then plays the highest rank wins. If the trick is still not settled, the players who played the highest rank the second time play to the trick again, and so on if it happens again. The players continue to draw cards from the talon to replace any cards that they play, so that everyone always has a three-card hand. Playing a card of the same rank as the highest rank that has already been played to the trick, to create a tie, is called making “*motlägg*”.
+Le pli est gagné par le joueur qui a joué la ou les cartes de la valeur la plus haute. Si plusieurs joueurs ont joué des cartes de la valeur la plus haute, ces joueurs jouent à nouveau, chacun jouant n'importe quelle carte unique ou deux ou trois cartes égales, dans le même ordre qu'avant et en reconstituant à nouveau leur main. Celui de ces joueurs qui joue alors la valeur la plus haute gagne. Si le pli n'est toujours pas résolu, les joueurs qui ont joué la valeur la plus haute une deuxième fois jouent à nouveau au pli, et ainsi de suite si cela se reproduit. Les joueurs continuent de piocher du talon pour remplacer les cartes jouées, de sorte que chacun a toujours une main de trois cartes. Jouer une carte de même valeur que la valeur la plus haute déjà jouée dans le pli, créant une égalité, est appelé faire un « *motlägg* ».
 
-When the trick, including any potential tie, has been settled and the players have replenished their hands from the talon, each player has one more opportunity to add further cards to the trick of the same ranks as any cards that are already there. This is called *sluffing* and does not affect who wins the trick. Players then replenish their hands from the talon so that they again have three cards. It is allowed for a player to sluff cards of more than one rank, but a player who has sluffed cards and drawn new cards to replace them is not allowed to sluff any further cards in that trick.
+Quand le pli, y compris toute égalité potentielle, a été résolu et les joueurs ont reconstitué leur main depuis le talon, chaque joueur a une dernière opportunité d'ajouter d'autres cartes au pli de mêmes valeurs que des cartes déjà présentes. Cela s'appelle *sluffing* et n'affecte pas qui gagne le pli. Les joueurs reconstituent ensuite leur main depuis le talon pour avoir à nouveau trois cartes. Il est permis à un joueur de sluffer des cartes de plus d'une valeur, mais un joueur qui a sluffé des cartes et pioché de nouvelles cartes pour les remplacer n'est pas autorisé à sluffer d'autres cartes dans ce pli.
 
-Any player who is due to play to a trick, either initially or to resolve a tie, has the option instead of playing a card from hand to draw the top card from the talon and immediately play that card to the trick. This is called “taking a chance” or “daring”. A player who takes a chance may not change their mind on seeing the card drawn from the talon, but must play this card.
+Tout joueur qui doit jouer à un pli, soit initialement soit pour résoudre une égalité, a l'option, au lieu de jouer une carte de sa main, de piocher la carte du dessus du talon et de la jouer immédiatement dans le pli. C'est appelé « tenter sa chance » ou « oser ». Un joueur qui tente sa chance ne peut pas changer d'avis en voyant la carte piochée, mais doit jouer cette carte.
 
-The winner of a trick takes all the cards that have been played or sluffed to the trick, stored them in a pile next to them, and leads to the next trick. The trick play continues in the same way until the talon is exhausted.
+Le gagnant d'un pli prend toutes les cartes qui ont été jouées ou sluffées dans le pli, les stocke dans un tas à côté de lui, et pose pour le pli suivant. Le jeu de plis continue de la même façon jusqu'à épuisement du talon.
 
-The player who draws the last card from the talon must not look at this card or play it to a trick. Instead it is placed face down in front of the player who drew it, separate from the cards this player has won in tricks. Play continues as before, except that players no longer draw cards to replenish their hands after playing. When a player is due to play to a trick (to lead, or play to the trick for the first time or to resolve a tie) but has no card to play, phase one immediately ends. If the last trick that was begun is incomplete, all players take the cards they played to the trick back into their hands.
+Le joueur qui pioche la dernière carte du talon ne doit pas la regarder ni la jouer dans un pli. Elle est plutôt placée face cachée devant le joueur qui l'a piochée, séparément des cartes gagnées en plis. Le jeu continue comme avant, sauf que les joueurs ne piochent plus de cartes pour reconstituer leur main après avoir joué. Quand un joueur doit jouer à un pli (poser, ou jouer pour la première fois, ou résoudre une égalité) mais n'a pas de carte à jouer, la phase une se termine immédiatement. Si le dernier pli commencé est incomplet, tous les joueurs reprennent les cartes qu'ils ont jouées dans le pli dans leur main.
 
-When the first phase is over, the player who drew the last card from the talon turns the card face up. The suit of that card becomes trump in the second phase of the game.
-All players pick up all cards in their pile of won tricks and combine them with any cards that may remain in their hand or have been retrieved from the last trick. The player who drew the trump indicator card from the talon also picks up that card.
+Quand la première phase est terminée, le joueur qui a pioché la dernière carte du talon retourne la carte face visible. La couleur de cette carte devient l'atout dans la deuxième phase du jeu.
+Tous les joueurs ramassent toutes les cartes de leur tas de plis gagnés et les combinent avec les cartes éventuellement restantes en main ou récupérées du dernier pli. Le joueur qui a pioché la carte indicatrice d'atout du talon ramasse aussi cette carte.
 
-If one or more players have fewer than five cards in their hand after this, they receive all so-called 'shit cards': cards with ranks from two to five. In this case, all players (including those with fewer than five cards) discard all twos, threes, fours and fives from their hands (including the 2, 3, 4 and 5 of trumps). These 16 cards are shuffled by one of the players who had 5 or more cards, and then dealt one by one to the players who are due to receive shit cards, in the same order that the players received cards in the initial deal. In the unusual case when more than two players receive shit cards, one or more players may receive one more of these cards than the others. 
+Si un ou plusieurs joueurs ont moins de cinq cartes en main après cela, ils reçoivent toutes les soi-disant « cartes à merde » : les cartes de valeur deux à cinq. Dans ce cas, tous les joueurs (y compris ceux avec moins de cinq cartes) se défaussent de tous les deux, trois, quatre et cinq de leur main (y compris le 2, 3, 4 et 5 d'atout). Ces 16 cartes sont mélangées par l'un des joueurs qui avaient 5 cartes ou plus, puis distribuées une par une aux joueurs qui doivent recevoir des cartes à merde, dans le même ordre que celui de la distribution initiale. Dans le cas inhabituel où plus de deux joueurs reçoivent des cartes à merde, un ou plusieurs joueurs peuvent recevoir une carte de plus que les autres.
 
-There is a theoretical but very remote possibility that after this redistribution process some player will be left with no cards. For this to happen a player would need to have at least 5 cards at the end of phase one, all of which were 5 or lower, and to achieve this they would have had to win at least one trick with one of these low cards. Sten Helmfrid says this has never been known to happen, but if it does, the player who achieves this feat will not have to play in phase two and will be safe.
+Il y a une possibilité théorique mais très lointaine qu'après cette redistribution certains joueurs n'aient plus de cartes. Pour que cela arrive, un joueur devrait avoir au moins 5 cartes à la fin de la phase une, toutes de valeur 5 ou moins, et pour y parvenir il aurait dû gagner au moins un pli avec l'une de ces cartes basses. Sten Helmfrid dit que cela n'est jamais arrivé, mais si cela se produit, le joueur qui a accompli cet exploit n'aura pas à jouer dans la phase deux et sera sauvé.
 
-**Variants: deal and first lead**
+**Variantes : donne et première pose**
 
-- *Two-card hands. *Some play that only two cards (not three) are dealt to each player and phase one is played with two-card hands. 
+- *Mains de deux cartes.* Certains jouent que seules deux cartes (et non trois) sont distribuées à chaque joueur et la phase une est jouée avec des mains de deux cartes.
 
-- *Exposed trump indicator.* The bottom card of the talon is turned over immediately after the deal and slipped in face up under the talon, crosswise so that the rank and the suit are still visible. Hence the players know from the outset which suit will be the trump in the second phase. The turned card is in all other respects treated as the bottom card in the talon when this is hidden, and the first phase is still played without a trump suit.
+- *Indicateur d'atout exposé.* La carte du bas du talon est retournée immédiatement après la donne et glissée face visible sous le talon, en croix pour que la valeur et la couleur restent visibles. Ainsi, les joueurs savent dès le début quelle couleur sera l'atout dans la deuxième phase. La carte retournée est traitée dans tous les autres aspects comme la carte du bas du talon quand elle est cachée, et la première phase se joue toujours sans couleur d'atout.
 
-- *Lowest card or loser leads. *Some play that in the first deal the holder of the lowest card dealt leads to the first trick of phase one (in case of a tie the leader is the first of the tied players in clockwise order beginning to dealer's left). In subsequent deals the loser of the previous deal (the skitgubbe) leads to the first trick of phase one in the next deal.
+- *Carte la plus basse ou perdant pose.* Certains jouent que lors de la première donne, le détenteur de la carte la plus basse distribuée pose pour le premier pli de la phase une (en cas d'égalité, c'est le premier des joueurs à égalité dans le sens horaire à partir de la gauche du donneur). Lors des donnes suivantes, le perdant de la donne précédente (le skitgubbe) pose pour le premier pli de la phase une de la donne suivante.
 
-**Variants: trick play and sluffing**
+**Variantes : jeu de plis et sluffing**
 
-- *Unlimited sluffing.* Any player may sluff cards at any time after the first card was played to the trick until the trick pile has been claimed and turned down. The sluffed cards are placed on top of the trick pile and do not affect who wins the trick. A player who sluffs cards must always draw the same number of new cards from the talon. Cards can be sluffed even after a tie when players are playing to the trick pile for the second time, and players may sluff further cards after sluffing and replenishing from the talon. A player who plays to the trick and sluffs at the same time must of course specify which cards are played and which are sluffed. A winner of a trick who does not want to collect any more sluffed cards must physically take the trick pile and store it face down as fast as possible before players have time to contribute further cards.
+- *Sluffing illimité.* N'importe quel joueur peut sluffer des cartes à tout moment après la première carte jouée dans le pli jusqu'à ce que le tas de plis soit réclamé et mis de côté. Les cartes sluffées sont placées sur le tas de plis et n'affectent pas qui gagne le pli. Un joueur qui sluffe des cartes doit toujours piocher le même nombre de nouvelles cartes du talon. Des cartes peuvent être sluffées même après une égalité quand les joueurs jouent au tas de plis pour la deuxième fois, et les joueurs peuvent sluffer d'autres cartes après avoir sluffé et reconstitué depuis le talon. Un joueur qui joue au pli et sluffe en même temps doit bien sûr préciser quelles cartes sont jouées et lesquelles sont sluffées. Un gagnant d'un pli qui ne veut plus recevoir de cartes sluffées doit physiquement prendre le tas de plis et le stocker face cachée le plus vite possible avant que les joueurs aient le temps d'ajouter d'autres cartes.
 
-- *Sluff must match own card.* Players may only sluff cards of the same rank that they themselves have played. This can be done at any time after the player has played to the trick. A player who draws more cards of the same rank that they have already played or sluffed may also sluff these cards and draw new ones from the talon and sluff again if it happens again. If there is a tie, the players who play again may sluff more cards of the rank they played the second time (but can no longer sluff the rank they played the first time).
+- *Le sluff doit correspondre à sa propre carte.* Les joueurs ne peuvent sluffer que des cartes de même valeur que celles qu'ils ont eux-mêmes jouées. Cela peut être fait à tout moment après que le joueur a joué dans le pli. Un joueur qui pioche d'autres cartes de même valeur que celles déjà jouées ou sluffées peut aussi sluffer ces cartes et en piocher de nouvelles et sluffer à nouveau si cela se reproduit. S'il y a une égalité, les joueurs qui jouent à nouveau peuvent sluffer d'autres cartes de la valeur jouée la deuxième fois (mais ne peuvent plus sluffer la valeur jouée la première fois).
 
-- *Tied ranks beat unique ranks*. If the same rank is played by two or more players, these cards beat all cards of ranks that have only been played by one player. A player that plays the same rank as another player thus creates a tie even if the rank is lower than the highest rank in the trick so far. If there are several ranks that have each been played by more than one players, the highest of these ranks beat the other tied ranks. The players who played the cards that head the trick play to the trick again in the usual manner to break the tie. When cards are played a second time to the trick, ranks that are played by several players in the second turn again beat other ranks that are only played by one player. When this variant is played, players should only be allowed to sluff cards of the rank that they played themselves.
+- *Les valeurs à égalité battent les valeurs uniques.* Si la même valeur est jouée par deux joueurs ou plus, ces cartes battent toutes les cartes de valeurs qui n'ont été jouées que par un seul joueur. Un joueur qui joue la même valeur qu'un autre joueur crée donc une égalité même si la valeur est inférieure à la plus haute du pli jusqu'ici. S'il y a plusieurs valeurs jouées par plus d'un joueur, la plus haute de ces valeurs bat les autres valeurs à égalité. Les joueurs qui ont joué les cartes en tête du pli jouent à nouveau de la manière habituelle pour départager. Quand les cartes sont jouées une deuxième fois dans le pli, les valeurs jouées par plusieurs joueurs battent à nouveau les autres valeurs jouées par un seul joueur. Quand cette variante est jouée, les joueurs ne devraient être autorisés à sluffer que des cartes de la valeur qu'ils ont eux-mêmes jouée.
 
-- *Compulsory ties.* A player who can create a tie must do so. If you play the usual rule that the highest rank wins, then a player who has one or more cards of the highest rank so far played to the trick must play one or more of these cards. If you play this variant with ties beating unique ranks, then a player who can play one or more cards of a rank that has already been played to the trick must do so, unless a tie already exists for a higher rank (in which case the player cannot create a tie and may play any card). A player who could create a tie with cards of more than one different rank must play the highest of those ranks.
+- *Égalités obligatoires.* Un joueur qui peut créer une égalité doit le faire. Si vous jouez la règle habituelle que la valeur la plus haute gagne, alors un joueur qui a une ou plusieurs cartes de la valeur la plus haute jouée dans le pli jusqu'ici doit en jouer une ou plusieurs. Si vous jouez cette variante avec les égalités battant les valeurs uniques, alors un joueur qui peut jouer une ou plusieurs cartes d'une valeur déjà jouée dans le pli doit le faire, à moins qu'une égalité existe déjà pour une valeur supérieure (auquel cas le joueur ne peut pas créer d'égalité et peut jouer n'importe quelle carte). Un joueur qui pourrait créer une égalité avec des cartes de plusieurs valeurs différentes doit jouer la plus haute de ces valeurs.
 
-**Variants: end of phase one**
+**Variantes : fin de la phase une**
 
-- *End phase one when talon is empty.* Some play that when a trick is completed after a player has taken the bottom card from the talon, phase one ends at that point. No new trick is begun with an empty talon. (It is convenient to use this variant when playing with unlimited sluffing). Some play that after a new trick is begun with an empty talon only if everyone has at least two cards.
+- *Fin de la phase une quand le talon est vide.* Certains jouent que lorsqu'un pli est complété après qu'un joueur a pris la carte du bas du talon, la phase une se termine à ce moment. Aucun nouveau pli n'est commencé avec un talon vide. (Il est pratique d'utiliser cette variante quand on joue avec le sluffing illimité). Certains jouent qu'un nouveau pli n'est commencé avec un talon vide que si tout le monde a au moins deux cartes.
 
-- *Incomplete trick dealt to players.* If phase one ends with an incomplete trick when a player has no card to play at their turn, the players do not take back their cards. Instead, the dealer shuffles the cards in the incomplete trick and deals them one by one clockwise, starting with the player on the left (in this deal, some players may receive one card more than the others).
+- *Pli incomplet distribué aux joueurs.* Si la phase une se termine avec un pli incomplet quand un joueur n'a pas de carte à jouer à son tour, les joueurs ne reprennent pas leurs cartes. Le donneur mélange les cartes du pli incomplet et les distribue une par une dans le sens horaire, en commençant par le joueur de gauche (dans cette donne, certains joueurs peuvent recevoir une carte de plus que les autres).
 
-- *Number of cards needed to avoid shit cards.* The minimum number of cards required to avoid receiving the shit cards varies. There are reports of limits of six, seven and ten cards. It is advisable to adjust the limit according to the number of players: the more players, the lower the limit. Some play that the minimum number of cards required to avoid receiving the shit cards is equal to the rank of the card that determines the trump suit. The rank of the aces for this purpose is 14, king 13, queen 12 and jack 11.
+- *Nombre de cartes nécessaires pour éviter les cartes à merde.* Le nombre minimum de cartes requis pour éviter de recevoir les cartes à merde varie. Il existe des rapports de limites de six, sept et dix cartes. Il est conseillé d'ajuster la limite en fonction du nombre de joueurs : plus il y a de joueurs, plus la limite est basse. Certains jouent que le nombre minimum de cartes requis pour éviter les cartes à merde est égal à la valeur de la carte qui détermine la couleur d'atout. La valeur des as à cet effet est 14, roi 13, dame 12 et valet 11.
 
-### Playing sequences in phase two
+### Jouer des séquences dans la phase deux
 
-This version is described by David Parlett and Dan Glimne, and also in Sten Helmfrid's article with many variants. In the second phase, as an alternative to playing a single card it is possible to play a sequence of two or more consecutive cards in the same suit. A card or sequence is beaten by any higher card or sequence in the same suit. Any non-trump card or sequence is beaten by any trump card or sequence. The length of the sequences is immaterial. For example a lead of **![diamond](../images/internat/diamond.gif)5** could be beaten by a sequence **![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9**, which could in turn be beaten by a sequence **![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)K**, or by a single **![spade](../images/internat/spade.gif)3** if spades are trumps. 
+Cette version est décrite par David Parlett et Dan Glimne, et aussi dans l'article de Sten Helmfrid avec de nombreuses variantes. Dans la deuxième phase, en alternative à jouer une carte unique, il est possible de jouer une séquence de deux cartes consécutives ou plus de la même couleur. Une carte ou séquence est battue par n'importe quelle carte ou séquence supérieure de la même couleur. N'importe quelle carte ou séquence non-atout est battue par n'importe quelle carte ou séquence d'atout. La longueur des séquences n'importe pas. Par exemple, une pose de **![carreau](../images/internat/diamond.gif)5** pourrait être battue par une séquence **![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)8-![carreau](../images/internat/diamond.gif)9**, qui pourrait à son tour être battue par une séquence **![carreau](../images/internat/diamond.gif)D-![carreau](../images/internat/diamond.gif)R**, ou par un seul ![pique](../images/internat/spade.gif)3 si les piques sont l'atout.
 
-A trick is completed when it contains as many plays as there are players at the beginning of the trick, each card or sequence counting as a single play. A player who cannot or does not wish to beat the card or sequence played by the previous player must pick it up. In this version, it is important in phase two to keep the successive plays to a trick separate rather than piling them up, so that players can clearly see how many times the trick has been played to, and which cards must be picked up if the previous play is not beaten.
+Un pli est complet lorsqu'il contient autant de jeux qu'il y a de joueurs au début du pli, chaque carte ou séquence comptant comme un seul jeu. Un joueur qui ne peut ou ne veut pas battre la carte ou séquence jouée par le joueur précédent doit la ramasser. Dans cette version, il est important dans la phase deux de garder les jeux successifs d'un pli séparés plutôt que de les empiler, pour que les joueurs puissent voir clairement combien de fois le pli a été joué et quelles cartes doivent être ramassées si le jeu précédent n'est pas battu.
 
-**Variants: playing and picking up sequences**
+**Variantes : jouer et ramasser des séquences**
 
-- *Pick up joined sequences.* According to Sten Helmfrid, the usual rule is that a player who cannot or does not want to beat the top card in the trick pile must pick up the top card and all cards in sequence from that card in suit, **even if cards in the sequence have been played by different players**. For example, if A leads the three of clubs, B plays the six and seven of clubs, C plays the eight, nine, and ten of clubs, and D cannot beat the last card; then D must pick up the entire sequence from six to ten (but not the three, because it is not part of the sequence). As usual a trick is complete when there are cards from as many plays in the trick pile as there were active players when the trick started, but in this version a player sometimes picks up several plays at once. For example, suppose that four people still have cards left in their hand. A leads, B and C both play to the pile, and D chooses to pick. Let us further assume that the cards from B and C form a sequence. D must then pick both B’s and C’s cards, and only the cards from A’s play remain in the trick pile. It is again A who plays to the trick, and A must beat his own cards from the lead. If then B and C both play cards to the trick, there are cards from four different plays in the trick: A’s lead, A's second play to the trick, and B’s and C’s second play to the trick. 
+- *Ramasser les séquences jointes.* Selon Sten Helmfrid, la règle habituelle est qu'un joueur qui ne peut ou ne veut pas battre la carte du haut du tas de plis doit ramasser la carte du haut et toutes les cartes en séquence à partir de cette carte dans la couleur, **même si les cartes de la séquence ont été jouées par différents joueurs**. Par exemple, si A pose le trois de trèfle, B joue le six et le sept de trèfle, C joue le huit, le neuf et le dix de trèfle, et D ne peut pas battre la dernière carte ; alors D doit ramasser toute la séquence de six à dix (mais pas le trois, parce qu'il ne fait pas partie de la séquence). Comme d'habitude, un pli est complet quand il y a autant de jeux de cartes dans le tas de plis qu'il y avait de joueurs actifs au début du pli, mais dans cette version, un joueur ramasse parfois plusieurs jeux à la fois. Par exemple, supposons que quatre personnes ont encore des cartes. A pose, B et C jouent tous deux dans le tas, et D choisit de ramasser. Supposons en outre que les cartes de B et C forment une séquence. D doit alors ramasser les cartes de B et C, et seules les cartes du jeu de A restent dans le tas de plis. C'est à nouveau à A de jouer dans le pli, et A doit battre ses propres cartes de la pose. Si ensuite B et C jouent tous deux des cartes dans le pli, il y a des cartes de quatre jeux différents dans le pli : la pose de A, le deuxième jeu de A, et les deuxièmes jeux de B et C.
 
-- *Pick up from the bottom of the trick pile.* Some require a player who cannot or does not wish to beat the previous play to pick up cards from the *bottom* of the trick pile rather than the top, in other words to pick up the lowest cards in the trick. As with picking up from the top of the pile there are two versions of this rule: the requirement may be either to pick up just the bottom play or top pick up the bottom card and all cards in sequence with it.
+- *Ramasser depuis le bas du tas de plis.* Certains exigent qu'un joueur qui ne peut ou ne veut pas battre le jeu précédent ramasse les cartes du *bas* du tas de plis plutôt que du haut, c'est-à-dire ramasser les cartes les plus basses du pli. Comme pour le ramassage depuis le haut, il y a deux versions de cette règle : l'exigence peut être soit de ramasser uniquement le jeu du bas, soit de ramasser la carte du bas et toutes les cartes en séquence avec elle.
 
-- *Forced pickup. *The version played by Sten Helmfrid in the 1980's featured **forced picking**. If a player picked up cards, all the following players in clockwise order were forced to continue to pick until the trick pile was empty. The player to the left of the player who picked the last card(s) then led to the next trick.
+- *Ramassage forcé.* La version jouée par Sten Helmfrid dans les années 1980 comportait un **ramassage forcé**. Si un joueur ramassait des cartes, tous les joueurs suivants dans le sens horaire étaient forcés de continuer à ramasser jusqu'à ce que le tas de plis soit vide. Le joueur à la gauche de celui qui a ramassé la ou les dernières cartes posait alors pour le pli suivant.
 
-- *Complete suit. *Some play that if a player completes a 13-card sequence from two up to ace in one suit, the trick is thereby completed. The player sets the cards aside and leads to the next trick.
+- *Couleur complète.* Certains jouent que si un joueur complète une séquence de 13 cartes du deux jusqu'à l'as dans une couleur, le pli est ainsi complété. Le joueur met les cartes de côté et pose pour le pli suivant.
 
-### Anti-trumps
+### Anti-atouts
 
-This version, played in Borås, was reported by Bengt Green. In the second phase, as well as a trump suit, there is a **mot-trumf** (anti-trump) suit. Anti-trumps have no power over any other suit, but cannot themselves be beaten by trumps.
+Cette version, jouée à Borås, a été rapportée par Bengt Green. Dans la deuxième phase, en plus d'une couleur d'atout, il y a une couleur **mot-trumf** (anti-atout). Les anti-atouts n'ont aucun pouvoir sur les autres couleurs, mais ne peuvent pas être battus par les atouts.
 
 - 
-In some circles, anti-trumps are the other suit of the same colour as the last card of the stock. 
+Dans certains cercles, les anti-atouts sont l'autre couleur de même couleur que la dernière carte de la pioche.
 
-- Thomas Franzén describes a variant known as *"Skitgubbe med elektriska klöver"* (Skitgubbe with electric clubs) in which the anti-trump suit is clubs unless the last card of the stock is a club, in which case clubs are trumps and spades are anti-trumps. The anti-trumps are called "electric" to suggest that they would give you a shock if you tried to trump them.
+- Thomas Franzén décrit une variante connue sous le nom de *« Skitgubbe med elektriska klöver »* (Skitgubbe aux trèfles électriques) dans laquelle la couleur d'anti-atout est le trèfle, sauf si la dernière carte de la pioche est un trèfle, auquel cas les trèfles sont l'atout et les piques sont les anti-atouts. Les anti-atouts sont appelés « électriques » pour suggérer qu'ils vous donneraient une décharge si vous essayiez de les atouter.
 
-### Two Player Game
+### Jeu à deux joueurs
 
-If there are only two players, phase two of the game is rather unsatisfactory since each player knows exactly what cards the other holds. One solution is to play with an *'avstickshög**'*, which is a separate draw pile of (say) 12 cards which is set aside face down at the start of the deal and not used in phase one. In phase two each time a player sets aside a complete trick, the players draw one card each from this extra pile. The player who played last to the trick is first to draw, and then the other player draws. When the pile is empty, the game continues with the cards in the players’ hands. If a trick is completed in which either player plays the last card from their hand while there are still cards left in the pile, the game is not over. Each player draws a card and the play continues. However, if a player leads their last card and the opponent picks it up, the opponent loses even if there are still cards in the pile. If the pile is empty, the game ends when either player plays their last card, and their opponent, who still has a card, loses as usual.
+S'il n'y a que deux joueurs, la phase deux du jeu est plutôt décevante puisque chaque joueur sait exactement quelles cartes l'autre détient. Une solution est de jouer avec un *« avstickshög »*, qui est un tas de pioche séparé de (disons) 12 cartes mis de côté face cachée au début de la donne et non utilisé dans la phase une. Dans la phase deux, chaque fois qu'un joueur met de côté un pli complet, les joueurs piochent chacun une carte de ce tas supplémentaire. Le joueur qui a joué en dernier dans le pli pioche en premier, puis l'autre joueur. Quand le tas est vide, le jeu continue avec les cartes dans les mains des joueurs. Si un pli est complété dans lequel l'un ou l'autre joueur joue sa dernière carte alors qu'il reste des cartes dans le tas, le jeu n'est pas terminé. Chaque joueur pioche une carte et le jeu continue. Cependant, si un joueur pose sa dernière carte et que l'adversaire la ramasse, l'adversaire perd même s'il reste des cartes dans le tas. Si le tas est vide, le jeu se termine quand l'un ou l'autre joueur joue sa dernière carte, et son adversaire, qui a encore une carte, perd comme d'habitude.
 
-### Mas with turned up trump
+### Mas avec atout retourné
 
-This variation (described in *Kortoxen*) has a different first phase. After three cards have been dealt to each player the next card is turned up and placed face up crosswise under the stock, to determine the trump suit.
+Cette variante (décrite dans *Kortoxen*) a une première phase différente. Après que trois cartes ont été distribuées à chaque joueur, la carte suivante est retournée et placée face visible en croix sous la pioche, pour déterminer la couleur d'atout.
 
-The first phase consists of two-card tricks as in ordinary Skitgubbe, but in this version the second player can only beat the led card by playing a higher card of the suit led, or playing a trump if a non-trump is led. If the second player cannot or does not wish to beat the lead he must pick it up, and it is the next player's turn to lead.
+La première phase consiste en plis de deux cartes comme dans le Skitgubbe ordinaire, mais dans cette version le deuxième joueur ne peut battre la carte posée qu'en jouant une carte supérieure de la couleur posée, ou en jouant un atout si une carte non-atout a été posée. Si le deuxième joueur ne peut ou ne veut pas battre la pose, il doit la ramasser, et c'est au joueur suivant de poser.
 
-As long as there are cards in the stock, you must draw a card from the stock as soon as your hand contains less than three cards. However, it is possible to have more than three cards in your hand, because sometimes you pick up a led card. If after playing a card you still have three or more cards in your hand you do
-not draw from the stock.
+Tant qu'il y a des cartes dans la pioche, vous devez piocher une carte dès que votre main contient moins de trois cartes. Cependant, il est possible d'avoir plus de trois cartes en main, car parfois vous ramassez une carte posée. Si après avoir joué une carte vous avez encore trois cartes ou plus en main, vous ne piochez pas de la pioche.
 
-A player who at any stage has a hand of three trumps and no other cards is allowed to show these three trumps, store them face down for the second phase, and draw a hand of three new cards from the stock.
+Un joueur qui, à tout moment, a une main de trois atouts et aucune autre carte est autorisé à montrer ces trois atouts, les stocker face cachée pour la deuxième phase, et piocher une nouvelle main de trois cartes de la pioche.
 
-As long as the turned up trump remains on the table, any player who at any stage has the two of trumps can exchange it for the turned up trump.
+Tant que l'atout retourné reste sur la table, tout joueur qui, à tout moment, a le deux d'atout peut l'échanger contre l'atout retourné.
 
-When someone has to draw the last card of the stock (which is a face-up trump, usually the two by this time) to replenish their hand, the first phase ends as soon as the current two-card trick is completed. Players keep any cards in their hands, along with cards they have won in tricks for the second phase. 
+Quand quelqu'un doit piocher la dernière carte de la pioche (qui est un atout face visible, généralement le deux à ce moment) pour reconstituer sa main, la première phase se termine dès que le pli de deux cartes en cours est complété. Les joueurs conservent les cartes de leur main, ainsi que les cartes gagnées en plis pour la deuxième phase.
 
-The player who drew the final card (face-up trump) from the stock leads to the first trick of the second phase, which then proceeds exactly as in ordinary Skitgubbe. 
+Le joueur qui a pioché la dernière carte (atout face visible) de la pioche pose pour le premier pli de la deuxième phase, qui se déroule ensuite exactement comme dans le Skitgubbe ordinaire.
 
 ## Mattis
 
-This Norwegian game is similar to the Swedish Skitgubbe variant in which all players play to each trick in phase 1.
+Ce jeu norvégien est similaire à la variante suédoise du Skitgubbe dans laquelle tous les joueurs jouent à chaque pli dans la phase 1.
 
-- It is possible for more than three people to play. One correspondent says that the number of players is 'almost unlimited', but with more than about eight it probably becomes unwieldy.
+- Il est possible que plus de trois personnes jouent. Un correspondant dit que le nombre de joueurs est « presque illimité », mais avec plus de huit cela devient probablement difficile à gérer.
 
-- In **phase 1**, all players play to the trick. If there is a tie for highest card, all players involved in the tie play another card to the trick - either from their hand or from the stock - and the highest of these new cards takes the trick. If there is a tie for highest among the new cards another card is played, and so on. So far as I know, there is no sluffing.
+- Dans la **phase 1**, tous les joueurs jouent au pli. S'il y a une égalité pour la carte la plus haute, tous les joueurs concernés par l'égalité jouent une autre carte dans le pli — soit depuis leur main, soit depuis la pioche — et la plus haute de ces nouvelles cartes remporte le pli. S'il y a une nouvelle égalité, une autre carte est jouée, et ainsi de suite. Autant que je sache, il n'y a pas de sluffing.
 
-- When the stock is exhausted in phase 1, play continues without drawing until the player whose turn it is to play to a trick has no card to play. This can happen at the start of a trick, in the middle of a trick, or when playing more cards to a trick to resolve a tie. When a player has no card to play, all players who still have cards in their hands show them face up on the table and add them to the cards they collected during phase 1. If the final trick of phase 1 was incomplete, players also take back the cards they played to this trick and add them to their hand for phase 2.
+- Quand la pioche est épuisée dans la phase 1, le jeu continue sans piocher jusqu'à ce que le joueur dont c'est le tour de jouer n'ait pas de carte à jouer. Cela peut arriver au début d'un pli, au milieu d'un pli, ou en jouant des cartes supplémentaires pour départager une égalité. Quand un joueur n'a pas de carte à jouer, tous les joueurs qui ont encore des cartes en main les exposent face visibles sur la table et les ajoutent aux cartes collectées pendant la phase 1. Si le pli final de la phase 1 était incomplet, les joueurs reprennent aussi les cartes jouées dans ce pli et les ajoutent à leur main pour la phase 2.
 
-- In **phase 2**, sequence plays are usually allowed, but some play that a sequence must contain at least three consecutive cards of the same suit. A player who cannot or does not wish to beat the previous play must pick up the **lowest** card or sequence in the trick - that is the one that was played earliest.
+- Dans la **phase 2**, les jeux en séquence sont généralement autorisés, mais certains jouent qu'une séquence doit contenir au moins trois cartes consécutives de la même couleur. Un joueur qui ne peut ou ne veut pas battre le jeu précédent doit ramasser la carte ou séquence la **plus basse** du pli — c'est-à-dire celle qui a été jouée en premier.
 
-- Any players who end the first phase with no cards in their hands are called *"Blåmattis" *(Blue Mattis)*.* These players take part in the second phase and, having no cards, at their first turn they must pick up the lowest card of whatever trick is on the table at the time. 
+- Tout joueur qui termine la première phase sans cartes en main est appelé *« Blåmattis »* (Mattis bleu). Ces joueurs participent à la deuxième phase et, n'ayant pas de cartes, à leur premier tour ils doivent ramasser la carte la plus basse du pli qui se trouve sur la table à ce moment.
 
-- Some play with the custom that the loser of the game has to wear an ugly hat, the so-called *"Mattishaetta"*.
+- Certains jouent avec la coutume que le perdant doit porter un chapeau laid, le soi-disant *« Mattishaetta »*.
 
-### Variants
+### Variantes
 
-Some play that anyone who is *Blåmattis* (without cards) at the end of phase one loses immediately.
+Certains jouent que quiconque est *Blåmattis* (sans cartes) à la fin de la phase une perd immédiatement.
 
-Some play that in phase one tied ranks beat unique ranks. If **any** equal cards are played to the trick, even if these are not the highest cards, all players of equal cards play another card. The player of the highest of these new cards takes all the cards unless the new cards include equal cards, in which case the players of the new equal cards play again, and so on.
+Certains jouent que dans la phase une, les valeurs à égalité battent les valeurs uniques. Si des cartes égales **quelconques** sont jouées dans le pli, même si ce ne sont pas les plus hautes, tous les joueurs de cartes égales jouent une autre carte. Le joueur de la plus haute de ces nouvelles cartes prend toutes les cartes, à moins que les nouvelles cartes n'incluent des cartes égales, auquel cas les joueurs des nouvelles cartes égales jouent à nouveau, et ainsi de suite.
 
-### Atlanta Variation
+### Variante d'Atlanta
 
-This variation of three-player Norwegian Mattis, played in Atlanta, Georgia, USA, was contributed by Mark Reed. It features several of the Swedish variants described above: all play to tricks in phase one, with compulsory ties and sluffing. Phase two is played with joined sequences picked up from the bottom of the trick pile.
+Cette variante du Mattis norvégien à trois joueurs, jouée à Atlanta, Géorgie, États-Unis, a été contribuée par Mark Reed. Elle comporte plusieurs des variantes suédoises décrites ci-dessus : tous jouent aux plis dans la phase une, avec égalités obligatoires et sluffing. La phase deux se joue avec des séquences jointes ramassées depuis le bas du tas de plis.
 
-**Phase One:** 
+**Phase une :**
 
-- All three players play to a trick, not just two. 
+- Les trois joueurs jouent tous à un pli, pas seulement deux.
 
-- If, when it is your turn to play, you possess a card equal in rank to the highest card yet played on the trick, you **must** play that card, thus forcing a bounce (tie). A bounce may occur between more than two players; only those players who played the bouncing cards participate in the bounce resolution, although other players may **slough** (see below). 
+- Si, quand c'est votre tour de jouer, vous avez une carte égale en valeur à la carte la plus haute jouée dans le pli, vous **devez** jouer cette carte, forçant ainsi un rebond (égalité). Un rebond peut concerner plus de deux joueurs ; seuls les joueurs qui ont joué les cartes à égalité participent à la résolution, bien que les autres joueurs puissent *slougher* (voir ci-dessous).
 
-- Any player, once after playing to a trick and before that trick is taken by anyone, may play (**"slough"**) additional cards to the trick, provided that the cards being sloughed are equal in rank to a card already played to and losing the trick. 
+- N'importe quel joueur, une fois après avoir joué dans un pli et avant que ce pli ne soit pris par quelqu'un, peut jouer (« slougher ») des cartes supplémentaires dans le pli, à condition que les cartes sluffées soient égales en valeur à une carte déjà jouée et perdant le pli.
 
-**Phase Two:** 
+**Phase deux :**
 
-- If any player has fewer than six cards at the end of phase one, then all players collect from their hands the cards of rank two through five, plus the six of the trump suit (referred to collectively as the "dreck"), and divide them up randomly and as evenly as possible among those players with too few cards. (If by removing the dreck from his hand, a player drops below six cards himself, he does not then become eligible for dreck, but enters the second phase with the smaller hand. This does not happen often.) 
+- Si un joueur a moins de six cartes à la fin de la phase une, tous les joueurs collectent dans leur main les cartes de valeur deux à cinq, plus le six de la couleur d'atout (collectivement appelées les « dreck »), et les répartissent au hasard et aussi équitablement que possible entre les joueurs ayant trop peu de cartes. (Si en retirant le dreck de sa main, un joueur tombe en dessous de six cartes, il ne devient pas éligible au dreck, mais entre dans la deuxième phase avec la main plus petite. Cela n'arrive pas souvent.)
 
-- Play is as described under the Sequences variant, with one exception: when a player cannot play to a trick, he picks up the entire lowest unbroken sequence on the table, even if it was played by more than one player. This may remove more than one play from the table and thus extend the trick even further.
+- Le jeu est comme décrit dans la variante des séquences, avec une exception : quand un joueur ne peut pas jouer dans un pli, il ramasse toute la séquence ininterrompue la plus basse sur la table, même si elle a été jouée par plusieurs joueurs. Cela peut retirer plusieurs jeux de la table et ainsi étendre le pli encore plus.
 
 ## Myllymatti
 
-This Finnish game is probably the ancestor of all the games on this page. According to research by Cristian Seres and others, it has been played since the early 19th century and probably originated in the western part of Finland, known as Österbotten or 
-Pohjanmaa, where it is still played. On this [Helsingin yliopistomuseo](https://web.archive.org/web/20160605160640/http://www.museo.helsinki.fi/nayttelyt/ylioppilaselamaa_ja_osakuntaharrastusta/ESO.htm) page you can see (in the fourth picture) people playing Myllymatti on a boat-trip between Vihti and Lohja in 1907.
+Ce jeu finlandais est probablement l'ancêtre de tous les jeux de cette page. Selon les recherches de Cristian Seres et d'autres, il est joué depuis le début du XIXe siècle et provient probablement de l'ouest de la Finlande, connu sous le nom d'Österbotten ou Pohjanmaa, où il est encore joué. Sur cette [page du musée de l'université d'Helsinki](https://web.archive.org/web/20160605160640/http://www.museo.helsinki.fi/nayttelyt/ylioppilaselamaa_ja_osakuntaharrastusta/ESO.htm) vous pouvez voir (au quatrième tableau) des personnes jouer à Myllymatti lors d'une excursion en bateau entre Vihti et Lohja en 1907.
 
-Myllymatti is very similar to the basic Swedish game of Skitgubbe described above. 
+Le Myllymatti est très similaire au jeu suédois de base de Skitgubbe décrit ci-dessus.
 
-In the **first phase**, only two players play to each trick. The player to dealer's left begins and plays with the next person clockwise. If the first player wins the trick these two players continue to play until the second player wins. If the second player wins a trick, he/she in turn starts to play tricks with the next player. 
+Dans la **première phase**, seuls deux joueurs jouent à chaque pli. Le joueur à la gauche du donneur commence et joue avec la personne suivante dans le sens horaire. Si le premier joueur gagne le pli, ces deux joueurs continuent à jouer jusqu'à ce que le deuxième gagne. Si le deuxième joueur gagne un pli, il commence à son tour à jouer des plis avec le joueur suivant.
 
-In the **second phase**, only single cards can be played, not sequences. As usual a complete trick consists of as many cards as their are players; the player who completed it sets the cards aside and leads to a new trick. When a trick is incomplete, a player who cannot or does not wish to beat the previous card played must pick up that card and add it to their hand, and it is the next player's turn to play.
+Dans la **deuxième phase**, seules des cartes uniques peuvent être jouées, pas des séquences. Comme d'habitude, un pli complet consiste en autant de cartes qu'il y a de joueurs ; le joueur qui l'a complété met les cartes de côté et pose pour un nouveau pli. Quand un pli est incomplet, un joueur qui ne peut ou ne veut pas battre la carte précédente doit ramasser cette carte et l'ajouter à sa main, et c'est au joueur suivant de jouer.
 
 ## Koira
 
-This game is rather similar to the Norwegian game Mattis. The Finnish word *koira* means 'dog', and according to some accounts the loser, as a penalty, has to bark like a dog. 
+Ce jeu est assez similaire au jeu norvégien Mattis. Le mot finlandais *koira* signifie « chien », et selon certains récits, le perdant, en punition, doit aboyer comme un chien.
 
-Koira can be played by from three to around eight players.
+Le Koira peut être joué de trois à environ huit joueurs.
 
-In the **first phase**, all players play a card to each trick. If there is a tie for highest card, the players involved in the tie play again, and continue to play cards until the tie is broken.
+Dans la **première phase**, tous les joueurs jouent une carte à chaque pli. S'il y a une égalité pour la carte la plus haute, les joueurs concernés par l'égalité jouent à nouveau, et continuent à jouer des cartes jusqu'à ce que l'égalité soit résolue.
 
-After the stock has run out, play continues without drawing. If some players run out of cards, the others continue playing tricks, skipping the players who have no cards in hand, until all the cards have been played. If a player runs out of cards while resolving a tie, the played cards are shuffled and distributed equally between the face down piles of the players involved in the tie.
+Après épuisement de la pioche, le jeu continue sans piocher. Si certains joueurs n'ont plus de cartes, les autres continuent à jouer des plis, en sautant les joueurs qui n'ont pas de cartes en main, jusqu'à ce que toutes les cartes aient été jouées. Si un joueur n'a plus de cartes en résolvant une égalité, les cartes jouées sont mélangées et réparties équitablement entre les tas face cachées des joueurs concernés par l'égalité.
 
-In the second phase, sequences can be played. A player who is unable or unwilling to beat the latest play must pick up the **lowest** card or sequence from the trick. 
+Dans la deuxième phase, des séquences peuvent être jouées. Un joueur qui est incapable ou ne veut pas battre le dernier jeu doit ramasser la carte ou séquence la **plus basse** du pli.
 
-### Variants
+### Variantes
 
-Some play that in case of a tie for the highest card in a trick in phase one, the players involved in the tie take the cards they played back into their hands. The other cards in the trick are then arranged in ascending order and dealt to the players involved in the tie one card at a time so that they are distributed as evenly as possible. This deal begins with the last player who played a tied card so that this player gets the lowest card, and continues **counterclockwise**. **
+Certains jouent qu'en cas d'égalité pour la carte la plus haute d'un pli dans la phase une, les joueurs concernés par l'égalité reprennent les cartes qu'ils ont jouées dans leur main. Les autres cartes du pli sont alors disposées par ordre croissant et distribuées aux joueurs concernés par l'égalité une carte à la fois pour être réparties aussi équitablement que possible. Cette distribution commence par le dernier joueur qui a joué une carte à égalité, de sorte que ce joueur reçoive la carte la plus basse, et continue dans le **sens antihoraire**.
 
-Example with 7 players:** A - 2, B - 8, C - J, D - 5, E - J, F - J, G - 4. C, E and F take back their jacks and the other cards are arranged in the order 2-4-5-8 and dealt out to these three starting with F. So player F gets the 2, player E gets the 4, player C gets the 5, and player F gets the 8.
+Exemple avec 7 joueurs : A - 2, B - 8, C - V, D - 5, E - V, F - V, G - 4. C, E et F reprennent leurs valets et les autres cartes sont disposées dans l'ordre 2-4-5-8 et distribuées à ces trois en commençant par F. Le joueur F reçoit le 2, le joueur E reçoit le 4, le joueur C reçoit le 5, et le joueur F reçoit le 8.
 
-Some play that in phase two a trump played on a non-trump immediately ends the trick. The player of the trump puts the cards aside and leads to a new trick.
+Certains jouent que dans la phase deux, un atout joué sur une carte non-atout termine immédiatement le pli. Le joueur de l'atout met les cartes de côté et pose pour un nouveau pli.
 
-Some play that in phase 2 only single cards and sequences beginning with a 2 can be played. Without the 2 of a suit you can only play single cards.
+Certains jouent que dans la phase 2, seules des cartes uniques et des séquences commençant par un 2 peuvent être jouées. Sans le 2 d'une couleur, vous ne pouvez jouer que des cartes uniques.
 
-Some play the when picking up from a trick, only the lowest **card** is taken. If the lowest (oldest) play to a trick is a sequence, only the bottom card of the sequence is taken. For the purpose of determining whether a trick is complete, a sequence counts as being in play until all its cards have been removed.
+Certains jouent que lors du ramassage dans un pli, seule la carte la **plus basse** est prise. Si le jeu le plus bas (le plus ancien) d'un pli est une séquence, seule la carte du bas de la séquence est prise. Pour déterminer si un pli est complet, une séquence compte comme étant en jeu jusqu'à ce que toutes ses cartes aient été retirées.
 
-Note that the distinction between Myllymatti and Koira is not an absolute one. There are people who play with various combinations of rules from both games, and sometimes the two names are used interchangeably.
+Notez que la distinction entre Myllymatti et Koira n'est pas absolue. Il y a des personnes qui jouent avec diverses combinaisons de règles des deux jeux, et parfois les deux noms sont utilisés de manière interchangeable.
 
 ## Sources
 
-The original version of this page was based on four sources of information: 
+La version originale de cette page était basée sur quatre sources d'information :
 
-- E. Werner and T. Sandgren: *Kortoxen* (Helsingborg 1975) 
+- E. Werner et T. Sandgren : *Kortoxen* (Helsingborg 1975)
 
-- David Parlett: Shedding Games (*Games and Puzzles No 4: July 1994*) 
+- David Parlett : Shedding Games (*Games and Puzzles No 4 : juillet 1994*)
 
-- A letter from Dan Glimne (1996) 
+- Une lettre de Dan Glimne (1996)
 
-- A translation by Anthony Smith from the Norwegian book: I and U Schenkmanis* "Cappelens Kortspillbok" *(Cappelens Forlag a.s., 1987), which is based on the Swedish books *"64 Kortspel"* (1982) and *"54 Kortspel" *(1984). 
+- Une traduction par Anthony Smith du livre norvégien : I et U Schenkmanis *« Cappelens Kortspillbok »* (Cappelens Forlag a.s., 1987), basé sur les livres suédois *« 64 Kortspel »* (1982) et *« 54 Kortspel »* (1984).
 
-It has since been revised and expanded on the basis of contributions from several players including Thomas Franzén, Bengt Green, Markku Jaatinen, Eyolf Østrem, Mark Reed, Cristian Seres and Stephen Smith. 
+Elle a depuis été révisée et enrichie sur la base de contributions de plusieurs joueurs dont Thomas Franzén, Bengt Green, Markku Jaatinen, Eyolf Østrem, Mark Reed, Cristian Seres et Stephen Smith.
 
-In 2022 it was further revised using information from a pair of detailed articles on the history, rules and variants of Skitgubbe by Sten Helmfrid, published in 2021 in [Kartofilen](https://kartofilen.se/), the journal of the Swedish playing-card society.
+En 2022, elle a été encore révisée en utilisant des informations d'une paire d'articles détaillés sur l'histoire, les règles et les variantes du Skitgubbe par Sten Helmfrid, publiés en 2021 dans [Kartofilen](https://kartofilen.se/), la revue de la société suédoise des cartes à jouer.
 
-## Other Skitgubbe WWW Pages
+## Autres pages sur Skitgubbe
 
-An archive copy of the [Swedish Goat Game page](https://web.archive.org/web/20160816100157/http://howell.seattle.wa.us/games/rules/Skitgubbe.html), which gives further American variations of Skitgubbe for up to 7 players (related to the Atlanta Variation above) played at UCLA, CalTech and elsewhere.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Skitgubbe
+Une copie d'archive de la [page Swedish Goat Game](https://web.archive.org/web/20160816100157/http://howell.seattle.wa.us/games/rules/Skitgubbe.html), qui donne d'autres variations américaines du Skitgubbe pour jusqu'à 7 joueurs (apparentées à la variante d'Atlanta ci-dessus) jouées à UCLA, CalTech et ailleurs.

@@ -2,155 +2,153 @@
 
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** A North Korean card game in which the holders of the red 10s are partners and two fours with an ace make a special combination.
+**But :** Un jeu de cartes nord-coréen dans lequel les détenteurs des 10 rouges sont partenaires et deux quatre avec un as forment une combinaison spéciale.
 
 ---
 
 ## Introduction
 
-This climbing game for four players is said to be very popular in North Korea. It is named after one of the special combinations that can be played: **Sasaki** (**사사끼**) means **44A**, that is two Fours and one Ace. It is closely related to the Chinese game Red Ten (红十: hóng shí) but it is not clear which game is based on the other.
+Ce jeu d'escalade pour quatre joueurs est dit très populaire en Corée du Nord. Il porte le nom d'une des combinaisons spéciales qui peuvent être jouées : **Sasaki** (**사사끼**) signifie **44A**, c'est-à-dire deux Quatre et un As. Il est étroitement lié au jeu chinois Dix Rouges (红十 : hóng shí) mais il n'est pas clair quel jeu est basé sur l'autre.
 
-As in all climbing games the basic aim is to get rid of all one's cards before the other players. A player leads a card or a valid combination of cards and each player in turn must either beat the previous play with a higher or combination or pass. When no one can or wants to play higher, the played cards are set aside, and the person who played highest begins again. 
+Comme dans tous les jeux d'escalade, le but de base est de se débarrasser de toutes ses cartes avant les autres joueurs. Un joueur mène une carte ou une combinaison valide de cartes et chaque joueur à son tour doit soit battre le jeu précédent par une carte ou combinaison supérieure, soit passer. Quand personne ne peut ou ne veut jouer plus fort, les cartes jouées sont mises de côté, et la personne qui a joué le plus fort recommence.
 
-Sasaki is a team game with temporary partnerships determined by the location of the two red 10's, so as well as playing their own cards, players try as far as they can to help their partners.
+Sasaki est un jeu d'équipe avec des partenariats temporaires déterminés par l'emplacement des deux 10 rouges, donc en plus de jouer leurs propres cartes, les joueurs essaient autant que possible d'aider leurs partenaires.
 
-*I am grateful to Jinpil Lee for introducing me to this game and answering several questions about it, and to ufm for further information including some additional variants.*
+*Je suis reconnaissant envers Jinpil Lee de m'avoir présenté ce jeu et d'avoir répondu à plusieurs questions à ce sujet, et à ufm pour des informations complémentaires incluant quelques variantes supplémentaires.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Sasaki is played with a 48-card deck made by removing all the Twos and Jokers from a standard international deck. The cards rank from high to low **A-K-Q-J-10-9-8-7-6-5-4-3**.
+Sasaki se joue avec un jeu de 48 cartes constitué en retirant tous les Deux et Jokers d'un jeu international standard. Les cartes se classent de la plus forte à la plus faible : **A-R-D-V-10-9-8-7-6-5-4-3**.
 
-There are four players, and the direction of play is counter-clockwise.
+Il y a quatre joueurs, et le sens du jeu est dans le sens inverse des aiguilles d'une montre.
 
-## Playable Combinations
+## Combinaisons jouables
 
-There are ordinary combinations and special combinations. An ordinary combination can only beat a lower combination of the same type with the same number of cards, but a special combination can beat any ordinary combination or lower special combination.
+Il y a des combinaisons ordinaires et des combinaisons spéciales. Une combinaison ordinaire ne peut battre qu'une combinaison inférieure du même type avec le même nombre de cartes, mais une combinaison spéciale peut battre n'importe quelle combinaison ordinaire ou combinaison spéciale inférieure.
 
-### Ordinary combinations
+### Combinaisons ordinaires
 
-- **Single card.** A higher ranking single card beats a lower card irrespective of suit.
+- **Carte seule.** Une carte seule de rang supérieur bat une carte inférieure quelle que soit la couleur.
 
-- **Pair.** Two equal ranking cards such as 5-5 or Q-Q. A higher ranking pair beats a lower ranking pair.
+- **Paire.** Deux cartes de même rang comme 5-5 ou D-D. Une paire de rang supérieur bat une paire de rang inférieur.
 
-- **Sequence.** At least three cards of consecutive rank, such as 4-5-6-7 or 9-10-J. Suits are irrelevant. A sequence can be beaten by a sequence of the **same length** whose top card is higher. **Example: **![spade](../images/internat/spade.gif)6-![diamond](../images/internat/diamond.gif)7-![club](../images/internat/club.gif)8 beats ![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)7. 
+- **Suite.** Au moins trois cartes de rangs consécutifs, comme 4-5-6-7 ou 9-10-V. Les couleurs sont sans importance. Une suite peut être battue par une suite de la **même longueur** dont la carte la plus forte est supérieure. **Exemple :** ![pique](../images/internat/spade.gif)6-![carreau](../images/internat/diamond.gif)7-![trèfle](../images/internat/club.gif)8 bat ![cœur](../images/internat/heart.gif)5-![cœur](../images/internat/heart.gif)6-![cœur](../images/internat/heart.gif)7.
 
-### Special Combinations
+### Combinaisons spéciales
 
-- **Triplet**. Three cards of the same rank, such as 7-7-7 or J-J-J. A triplet beats a lower ranking triplet or any ordinary card or combination.
+- **Triplet.** Trois cartes de même rang, comme 7-7-7 ou V-V-V. Un triplet bat un triplet de rang inférieur ou n'importe quelle carte ou combinaison ordinaire.
 
-- **Sasaki (사사끼)**. Two Fours and one Ace. This beats any triplet or any ordinary card or combination.
+- **Sasaki (사사끼).** Deux Quatre et un As. Cela bat n'importe quel triplet ou n'importe quelle carte ou combinaison ordinaire.
 
-- **Four of a Kind**. Four cards of the same rank, such as 6-6-6-6. Four of a kind beats a lower ranking four of a kind or a sasaki or a triplet or any ordinary card or combination.
+- **Carré.** Quatre cartes de même rang, comme 6-6-6-6. Un carré bat un carré de rang inférieur ou un sasaki ou un triplet ou n'importe quelle carte ou combinaison ordinaire.
 
-- **Pig (돼지)**. Two red Tens: ![heart](../images/internat/heart.gif)10-![diamond](../images/internat/diamond.gif)10. This beats any card or combination, ordinary or special. It can only be beaten by a Black Pig.
+- **Cochon (돼지).** Deux Dix rouges : ![cœur](../images/internat/heart.gif)10-![carreau](../images/internat/diamond.gif)10. Cela bat n'importe quelle carte ou combinaison, ordinaire ou spéciale. Il ne peut être battu que par un Cochon noir.
 
-A **Black Pig (흑돼지)** is a pair of black Tens ![spade](../images/internat/spade.gif)10-![club](../images/internat/club.gif)10. It can be used to beat a Pig (two red Tens), but it has no special power to beat any other combination: it can only beat two red 10's or a pair of cards lower than 10. After it has been played, the Black Pig counts as an ordinary pair of 10's, which can be beaten by a higher pair or by any special combination.
+Un **Cochon noir (흑돼지)** est une paire de Dix noirs ![pique](../images/internat/spade.gif)10-![trèfle](../images/internat/club.gif)10. Il peut être utilisé pour battre un Cochon (deux Dix rouges), mais il n'a aucun pouvoir spécial pour battre toute autre combinaison : il ne peut battre que deux 10 rouges ou une paire de cartes inférieures à 10. Après avoir été joué, le Cochon noir compte comme une paire ordinaire de 10, qui peut être battue par une paire supérieure ou par n'importe quelle combinaison spéciale.
 
-## Deal and Declarations
+## Donne et déclarations
 
-As in many oriental card games there is no dealer. Instead the cards are shuffled and then fanned in an overlapping pile face down on the table. Each player in turn takes the top card of the pile, and this continues until all the cards have been taken and everyone has a hand of 12 cards.
+Comme dans beaucoup de jeux de cartes orientaux, il n'y a pas de donneur. Les cartes sont mélangées puis éventées en pile chevauchante face en bas sur la table. Chaque joueur à son tour prend la carte du dessus de la pile, et cela continue jusqu'à ce que toutes les cartes soient prises et que tout le monde ait une main de 12 cartes.
 
-The players who hold the ![heart](../images/internat/heart.gif)10 and the ![diamond](../images/internat/diamond.gif)10 form a temporary partnership against the other two players. If one player has both red 10's, that player is alone and the other three play as a team. 
+Les joueurs qui détiennent le ![cœur](../images/internat/heart.gif)10 et le ![carreau](../images/internat/diamond.gif)10 forment un partenariat temporaire contre les deux autres joueurs. Si un joueur a les deux 10 rouges, ce joueur est seul et les trois autres jouent en équipe.
 
-A player who has a red 10 may expose it before the play begins. In this case the holder of the other red 10 must also expose it, and the two players exchange these cards between them. This is known as **'running'** (달리기): it reveals the partnerships and doubles the score for the deal. When the red 10 team reveal themselves by running, either member of the opposing team may double the score again by calling **'stop' **(뚝), so that the score is four times what it would be for a deal without running.
+Un joueur qui a un 10 rouge peut le révéler avant le début du jeu. Dans ce cas, le détenteur de l'autre 10 rouge doit aussi le révéler, et les deux joueurs échangent ces cartes entre eux. Cela s'appelle **« courir »** (달리기) : cela révèle les partenariats et double le score de la donne. Quand l'équipe des 10 rouges se révèle en courant, n'importe quel membre de l'équipe adverse peut doubler le score à nouveau en appelant **« stop »** (뚝), de sorte que le score est quatre fois ce qu'il serait pour une donne sans course.
 
-A player who has both red 10's and is therefore playing alone may expose both of them to double the score, in which case any member of the opposing team may call 'stop' to double the score again.
+Un joueur qui a les deux 10 rouges et joue donc seul peut les révéler tous les deux pour doubler le score, auquel cas n'importe quel membre de l'équipe adverse peut appeler « stop » pour doubler le score à nouveau.
 
-If no one exposes a red 10 before the play begins, the partnerships remain secret until the red 10's appear during the course of the play.
+Si personne ne révèle un 10 rouge avant le début du jeu, les partenariats restent secrets jusqu'à ce que les 10 rouges apparaissent au cours du jeu.
 
-## Play
+## Jeu
 
-If the game is played in the daytime, the player who holds the ![heart](../images/internat/heart.gif)3 begins the game. If it is played in the evening it is the holder of the ![spade](../images/internat/spade.gif)3 who starts. The first player begins by playing any single card or valid combination face up on the table. This first play does not have to include the ![heart](../images/internat/heart.gif)3 or ![spade](../images/internat/spade.gif)3 that gave the player the right to start.
+Si le jeu est joué le jour, le joueur qui détient le ![cœur](../images/internat/heart.gif)3 commence le jeu. S'il est joué le soir, c'est le détenteur du ![pique](../images/internat/spade.gif)3 qui commence. Le premier joueur commence en jouant n'importe quelle carte seule ou combinaison valide face visible sur la table. Ce premier jeu n'a pas à inclure le ![cœur](../images/internat/heart.gif)3 ou ![pique](../images/internat/spade.gif)3 qui a donné au joueur le droit de commencer.
 
-Now in anticlockwise order each player in turn must either pass, playing no card, or play a card or combination that beats the previous play. This continues around the table as many times as needed until three players pass in succession. Passing does not prevent a player from playing cards at a future turn. 
+Maintenant, dans le sens antihoraire, chaque joueur à son tour doit soit passer, ne jouant aucune carte, soit jouer une carte ou combinaison qui bat le jeu précédent. Cela continue autour de la table autant de fois que nécessaire jusqu'à ce que trois joueurs passent consécutivement. Passer n'empêche pas un joueur de jouer des cartes à un tour futur.
 
-When three players pass in succession, all the played cards are set aside. The person who played the last and highest card or combination becomes the new leader (선 : *seon*) and begins again by playing any card or valid combination which the other players in turn may beat or pass.
+Quand trois joueurs passent consécutivement, toutes les cartes jouées sont mises de côté. La personne qui a joué la dernière carte ou combinaison (la plus forte) devient le nouveau leader (선 : *seon*) et recommence en jouant n'importe quelle carte ou combinaison valide que les autres joueurs à leur tour peuvent battre ou passer.
 
-- An ordinary card or combination (types 1 to 3) can be beaten by a higher ranked ordinary combination of the **same type** with the **same number of cards**, or by **any** of the special combinations (types 4 to 7).
+- Une carte ou combinaison ordinaire (types 1 à 3) peut être battue par une combinaison ordinaire de rang supérieur du **même type** avec le **même nombre de cartes**, ou par **n'importe quelle** combinaison spéciale (types 4 à 7).
 
-- A special combination can be beaten by a higher special combination - either a higher ranked combination of the same type or **any** combination of a higher type.
+- Une combinaison spéciale peut être battue par une combinaison spéciale supérieure — soit une combinaison de même type de rang supérieur, soit **n'importe quelle** combinaison d'un type supérieur.
 
-- The Pig (type 7) can only be beaten by a Black Pig, which then counts as an ordinary combination.
+- Le Cochon (type 7) ne peut être battu que par un Cochon noir, qui compte alors comme une combinaison ordinaire.
 
 ### Jata / kkota
 
-There is an exception to the normal anticlockwise order of play. When a single card is played, **any** player who has a pair of cards of the same rank as the single card may play it to beat the single card. This play, known as ***jata*** (자타) or ***chada*** (차다 : kick) has priority over all other plays. For example if a 9 is played, the next player in turn would like to play the special combination Q-Q-Q, but another player has a pair of 9's they wish to play, the pair of 9's has priority and the Queens cannot be played. 
+Il y a une exception à l'ordre antihoraire normal du jeu. Quand une carte seule est jouée, **n'importe quel** joueur qui a une paire de cartes du même rang que la carte seule peut la jouer pour battre la carte seule. Ce jeu, appelé ***jata*** (자타) ou ***chada*** (차다 : botter), a priorité sur tous les autres jeux. Par exemple, si un 9 est joué, le joueur suivant voudrait jouer la combinaison spéciale D-D-D, mais un autre joueur a une paire de 9 qu'il souhaite jouer, la paire de 9 a priorité et les Dames ne peuvent pas être jouées.
 
-When a matching pair is played in this way, it can **only** be beaten by the fourth card of the same rank. Playing the fourth matching card after a *jata* is known as ***kkota*** (꼬타) or ***kkojda*** (꽂다 : skewer). Any player who has the fourth card may play it, including the player who played the original single card or the same player who played the pair. This fourth card cannot be beaten.
+Quand une paire correspondante est jouée de cette façon, elle ne peut être battue **que** par la quatrième carte du même rang. Jouer la quatrième carte correspondante après un *jata* est appelé ***kkota*** (꼬타) ou ***kkojda*** (꽂다 : brochette). N'importe quel joueur qui a la quatrième carte peut la jouer, y compris le joueur qui a joué la carte seule originale ou le même joueur qui a joué la paire. Cette quatrième carte ne peut être battue.
 
-After a *kkota*, or after a *jata* with no *kkota*, the played cards are set aside. The player of the *kkota,* or the player of the *jata* if there was no *kkota*, is the new leader and may begin again with any card or combination.
+Après un *kkota*, ou après un *jata* sans *kkota*, les cartes jouées sont mises de côté. Le joueur du *kkota*, ou le joueur du *jata* s'il n'y a pas eu de *kkota*, est le nouveau leader et peut recommencer avec n'importe quelle carte ou combinaison.
 
-### Endgame
+### Fin de partie
 
-A player who runs out of cards drops out of the play. The others continue to play, skipping the turns of players who have no cards. If no one beats a player's last card(s), since that player has no more cards to play the turn passes to the next player in anticlockwise order who still has cards. That player is *seon* and leads any card or combination. 
+Un joueur qui n'a plus de cartes abandonne le jeu. Les autres continuent à jouer, en sautant les tours des joueurs qui n'ont plus de cartes. Si personne ne bat les dernière(s) carte(s) d'un joueur, ce joueur n'ayant plus de cartes à jouer, le tour passe au joueur suivant dans le sens antihoraire qui a encore des cartes. Ce joueur est *seon* et mène n'importe quelle carte ou combinaison.
 
-If a player's last two cards are the two red 10's (pig) they cannot be used as a special combination. In this case they just count as an ordinary pair of tens.
+Si les deux dernières cartes d'un joueur sont les deux 10 rouges (cochon), elles ne peuvent pas être utilisées comme combinaison spéciale. Dans ce cas, elles comptent simplement comme une paire ordinaire de dix.
 
-When three players have dropped out the play ends. The last player with cards shows any red 10's they hold to make the partnerships clear. 
+Quand trois joueurs ont abandonné, le jeu se termine. Le dernier joueur avec des cartes montre tous les 10 rouges qu'il détient pour clarifier les partenariats.
 
-## Scoring
+## Score
 
-The players are ranked 1st, 2nd, 3rd and 4th according to the order in which they ran out of cards. Each player wins or loses points according to their team result as follows.
+Les joueurs sont classés 1er, 2e, 3e et 4e selon l'ordre dans lequel ils se sont débarrassés de leurs cartes. Chaque joueur gagne ou perd des points selon le résultat de son équipe comme suit.
 
-If the game was two against two (red 10's in different hands):
+Si le jeu était deux contre deux (10 rouges dans des mains différentes) :
 
-| Team result | Score |   | Team result | Score |
-| 1st and 2nd place: | +2 points each |   | 3rd and 4th place: | -2 points each |
-| 1st and 3rd place: | +1 point each |   | 2nd and 4th place: | -1 point each |
-| 1st and 4th place: | no score |   | 2nd and 3rd place: | no score |
+| Résultat d'équipe | Score |   | Résultat d'équipe | Score |
+| 1re et 2e place : | +2 points chacun |   | 3e et 4e place : | -2 points chacun |
+| 1re et 3e place : | +1 point chacun |   | 2e et 4e place : | -1 point chacun |
+| 1re et 4e place : | aucun score |   | 2e et 3e place : | aucun score |
 
-If the game was one against three (one player has both red 10's):
+Si le jeu était un contre trois (un joueur a les deux 10 rouges) :
 
-| Lone player | Score |   | Team of three | Score |
-| 1st place: | +6 points |   | 2nd, 3rd and 4th place: | -2 points each |
-| 2nd place: | no score |   | 1st, 3rd and 4th place: | no score |
-| 3rd place: | no score |   | 1st, 2nd and 4th place: | no score |
-| 4th place: | -3 points |   | 1st , 2nd and 3rd place: | +1 point each |
+| Joueur seul | Score |   | Équipe de trois | Score |
+| 1re place : | +6 points |   | 2e, 3e et 4e place : | -2 points chacun |
+| 2e place : | aucun score |   | 1re, 3e et 4e place : | aucun score |
+| 3e place : | aucun score |   | 1re, 2e et 4e place : | aucun score |
+| 4e place : | -3 points |   | 1re, 2e et 3e place : | +1 point chacun |
 
-The above gains and losses are doubled if the red 10 player or team declared their 10's at the start, or quadrupled if the red 10's were declared and the other team called 'stop'.
+Les gains et pertes ci-dessus sont doublés si le joueur ou l'équipe des 10 rouges a déclaré ses 10 au départ, ou quadruplés si les 10 rouges ont été déclarés et l'autre équipe a appelé « stop ».
 
-The scores of the players always add up to zero and represent the amount each player should pay or receive when the play ends if playing for stakes.
+Les scores des joueurs s'additionnent toujours à zéro et représentent le montant que chaque joueur devrait payer ou recevoir quand le jeu se termine s'il est joué pour de l'argent.
 
-## Variations
+## Variantes
 
-Some allow an extra type of ordinary combination, the **double sequence** (쌍카 : *ssangka*). This is a sequence of three or more consecutive pairs of cards, such as 4-4-5-5-6-6 or 8-8-9-9-10-10-J-J-Q-Q. It can only be beaten by a higher double sequence of the **same length** or by a special combination of type 6 (four of a kind) or type 7 (pig) - it cannot be beaten by a triplet or a sasaki.
+Certains autorisent un type supplémentaire de combinaison ordinaire, la **double suite** (쌍카 : *ssangka*). C'est une suite de trois paires consécutives ou plus, comme 4-4-5-5-6-6 ou 8-8-9-9-10-10-V-V-D-D. Elle ne peut être battue que par une double suite supérieure de la **même longueur** ou par une combinaison spéciale de type 6 (carré) ou type 7 (cochon) — elle ne peut pas être battue par un triplet ou un sasaki.
 
-When double sequences are permitted, some allow a double sequence to be used to kick (*jata*) a single sequence of the same ranked cards. A player with another single sequence of the same cards can then skewer (*kkota*) the double sequence. For example 5-6-7 can be kicked by 5-5-6-6-7-7 which can then be skewered by 5-6-7.
+Quand les doubles suites sont permises, certains autorisent une double suite pour botter (*jata*) une suite simple des mêmes cartes. Un joueur avec une autre suite simple des mêmes cartes peut alors brocher (*kkota*) la double suite. Par exemple 5-6-7 peut être botté par 5-5-6-6-7-7 qui peut ensuite être broché par 5-6-7.
 
-There are variations of the rule about playing the red 10's at the end:
+Il y a des variantes de la règle sur le jeu des 10 rouges à la fin :
 
-- Some play that a player whose last two cards are the two red 10's can use them as a Pig to beat any combination and go out.
+- Certains jouent qu'un joueur dont les deux dernières cartes sont les deux 10 rouges peut les utiliser comme Cochon pour battre n'importe quelle combinaison et sortir.
 
-- Some play with the stricter rule that if a lone player's last two cards are the two red 10's, they can't be played as a pair at all (and therefore cannot be led together or beat a low pair or *jaka* a black 10) but only as single cards (so if the player plays one of the red 10's and it is kicked by the two black 10's, these can be skewered by the second red 10).
+- Certains jouent avec la règle plus stricte que si les deux dernières cartes d'un joueur seul sont les deux 10 rouges, elles ne peuvent pas être jouées comme paire (et ne peuvent donc pas être menées ensemble ou battre une paire faible ou *jaka* un 10 noir) mais seulement comme cartes seules (donc si le joueur joue un des 10 rouges et qu'il est botté par les deux 10 noirs, ceux-ci peuvent être brochés par le second 10 rouge).
 
-Some only give +3 points (not +6) to a player who comes first, the others scoring -1 point (instead of -2). The thought is that since the lone player has a Pig, they do not deserve a double reward for winning.
+Certains donnent seulement +3 points (pas +6) à un joueur qui arrive premier, les autres marquant -1 point (au lieu de -2). L'idée est que puisque le joueur seul a un Cochon, il ne mérite pas une double récompense pour avoir gagné.
 
-Some players record positive scores only: 
+Certains joueurs n'enregistrent que des scores positifs :
 
-- 2 points each for the members of a team that comes 1st and 2nd.
+- 2 points chacun pour les membres d'une équipe qui arrive 1re et 2e.
 
-- 1 point each for the members of a team that comes 1st and 3rd.
+- 1 point chacun pour les membres d'une équipe qui arrive 1re et 3e.
 
-- 3 points for a lone player who finishes first.
+- 3 points pour un joueur seul qui termine premier.
 
-- 1 point for each player who finishes before a lone player.
+- 1 point pour chaque joueur qui termine avant un joueur seul.
 
-- 0 points in all other cases.
+- 0 points dans tous les autres cas.
 
-In this version the game can be played for a fixed number of deals agreed in advance or until a player reaches or exceeds an agreed target score, and at the end the player with the highest score is paid by all the others.
+Dans cette version, le jeu peut être joué pour un nombre fixe de donnes convenu à l'avance ou jusqu'à ce qu'un joueur atteigne ou dépasse un score cible convenu, et à la fin le joueur avec le score le plus élevé est payé par tous les autres.
 
-## References
+## Références
 
-Descriptions of Sasaki can be found on the following pages:
+Des descriptions de Sasaki peuvent être trouvées sur les pages suivantes :
 
-- [https://namu.wiki/w/사사끼](https://namu.wiki/w/%EC%82%AC%EC%82%AC%EB%81%BC) (in Korean) 
+- [https://namu.wiki/w/사사끼](https://namu.wiki/w/%EC%82%AC%EC%82%AC%EB%81%BC) (en coréen)
 
-- [https://m.blog.naver.com/gounikorea/221397542519](https://m.blog.naver.com/gounikorea/221397542519) (in Korean)
+- [https://m.blog.naver.com/gounikorea/221397542519](https://m.blog.naver.com/gounikorea/221397542519) (en coréen)
 
-- [https://give-me-the-trick.blogspot.com/2019/02/44a.html](https://give-me-the-trick.blogspot.com/2019/02/44a.html) (Jinpil Lee's page in Japanese) 
+- [https://give-me-the-trick.blogspot.com/2019/02/44a.html](https://give-me-the-trick.blogspot.com/2019/02/44a.html) (page de Jinpil Lee en japonais)
 
 - [https://rigmarole.blog/2021/06/09/사사끼44a-규칙/](https://rigmarole.blog/2021/06/09/?%3F%3F44a-%3F%3F/)
 
 - [https://gall.dcinside.com/mgallery/board/view/?id=bulemarble&no=66894](https://gall.dcinside.com/mgallery/board/view/?id=bulemarble&no=66894)
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > Sasaki

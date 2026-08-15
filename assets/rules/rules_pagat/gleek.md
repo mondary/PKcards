@@ -2,24 +2,22 @@
 
 **Difficulté :** —
 **Type :** Point-trick, Plis
-**But :** How to play the old English three-player card game Gleek: links to two reconstructions of the rules.
+**But :** Comment jouer à l'ancien jeu de cartes anglais à trois joueurs Gleek : liens vers deux reconstitutions des règles.
 
 ---
 
-This three player game was popular in England in the 16th and 17th centuries. The name must be related to the German *gleich* (equal); a **gleek** in this game is a set of three equal cards, and four of a kind is called a **mournival**.
+Ce jeu à trois joueurs était populaire en Angleterre aux XVIe et XVIIe siècles. Le nom doit être lié à l'allemand *gleich* (égal) ; un **gleek** dans ce jeu est un ensemble de trois cartes identiques, et quatre d'une même valeur est appelé un **mournival**.
 
-Gleek was a fairly elaborate game in four main stages:
+Le Gleek était un jeu assez élaboré en quatre étapes principales :
 
-- bid for the right to improve your hand by discarding cards and replacing them from the stock;
+- enchérir pour le droit d'améliorer sa main en écartant des cartes et en les remplaçant par le talon ;
 
-- vie (bet) for who has the best **ruff** (highest value of cards in a suit);
+- miser (*vie*) sur celui qui possède le meilleur **ruff** (la plus forte valeur de cartes dans une couleur) ;
 
-- declare your gleeks and mournivals;
+- déclarer ses gleeks et mournivals ;
 
-- play the cards in tricks; each trick scores and certain trumps have an additional value.
+- jouer les cartes en plis ; chaque pli rapporte des points et certains atouts ont une valeur supplémentaire.
 
-David Parlett's [Gleek page](https://www.parlettgames.uk/histocs/gleek.html) gives rules of the game and some historical background.
+La [page Gleek](https://www.parlettgames.uk/histocs/gleek.html) de David Parlett donne les règles du jeu et un aperçu historique.
 
-Another reconstruction can be found on the [Gleek page](https://jducoeur.com/game-hist/game-recon-gleek.html) of the [Medieval and Renaissance Games](https://www.querki.net/u/jducoeur/period-games/period-games) site.
-
-Home Page > Classified Index > Trick Taking Games > Miscellaneous Point Trick Games > Gleek
+Une autre reconstitution est disponible sur la [page Gleek](https://jducoeur.com/game-hist/game-recon-gleek.html) du site [Medieval and Renaissance Games](https://www.querki.net/u/jducoeur/period-games/period-games).

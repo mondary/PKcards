@@ -3,71 +3,69 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** A Hungarian card game in two phases: in the first phase players draw cards, in the second phase the play themto a pile with the aim of getting rid of all their cards.
+**But :** Un jeu de cartes hongrois en deux phases : dans la première phase, les joueurs piochent des cartes ; dans la deuxième, ils les jouent dans un tas dans le but de se débarrasser de toutes leurs cartes.
 
 ---
 
-This is a light-hearted game which is best for about six players. Gyula Zsigri and I learned it from Gábor Sperla and a group of students at Szeged university in Hungary. The initials stand for name of the game in Hungarian, which is obscene: N stands for *nagy* (meaning big); L stands for any nationality beginning with that letter, such as *litván* (Lithuanian), *lengyel* (Polish) or *luxemburgi* (Luxembourg); K stands for *kibaszós*, which is roughly translated as screwing.
+C'est un jeu récréatif qui convient le mieux pour environ six joueurs. Gyula Zsigri et moi l'avons appris de Gábor Sperla et d'un groupe d'étudiants à l'université de Szeged en Hongrie. Les initiales représentent le nom du jeu en hongrois, qui est obscène : N pour *nagy* (signifiant grand) ; L pour n'importe quelle nationalité commençant par cette lettre, comme *litván* (lituanien), *lengyel* (polonais) ou *luxemburgi* (luxembourgeois) ; K pour *kibaszós*, qui se traduit approximativement par « baiseur ».
 
-Four players use a 32 card pack, the cards ranking from high to low **A K Q J 10 9 8 7**. Five players use a 36 card pack (6 low), six players use 40 cards (5 low), and so on, adding one more rank (four cards) for each extra player. With nine players a full standard 52 card pack would be used, ranking from high to low: **A K Q J 10 9 8 7 6 5 4 3 2**.
+Quatre joueurs utilisent un jeu de 32 cartes, les cartes allant de haut en bas **A R D V 10 9 8 7**. Cinq joueurs utilisent un jeu de 36 cartes (6 en bas), six joueurs utilisent 40 cartes (5 en bas), et ainsi de suite, en ajoutant une valeur supplémentaire (quatre cartes) pour chaque joueur supplémentaire. Avec neuf joueurs, un jeu standard complet de 52 cartes serait utilisé, allant de haut en bas : **A R D V 10 9 8 7 6 5 4 3 2**.
 
-Each hand is in two phases. In the first phase the players accumulate cards, and in the second phase they try to get rid of them. The loser is the last player who is left holding cards at the end of phase two.
+Chaque main comporte deux phases. Dans la première phase, les joueurs accumulent des cartes, et dans la deuxième, ils essaient de s'en débarrasser. Le perdant est le dernier joueur à avoir encore des cartes à la fin de la deuxième phase.
 
-In the first hand the dealer is selected at random; thereafter the loser of each hand deals the next. Deal and play are anticlockwise.
+Dans la première main, le donneur est choisi au hasard ; ensuite le perdant de chaque main donne la suivante. La donne et le jeu se font dans le sens antihoraire.
 
-## First phase
+## Première phase
 
-The dealer shuffles, and the player to dealer's left cuts. The dealer then deals one card face up in front of each player. The remaining cards are stacked face down in the centre of the table to form a **talon**. In the course of phase one, each player accumulates a stack of face up cards; this stack becomes the player's hand for phase two.
+Le donneur mélange, et le joueur à sa gauche coupe. Le donneur distribue ensuite une carte face visible devant chaque joueur. Les cartes restantes sont empilées face cachées au centre de la table pour former un **talon**. Au cours de la phase une, chaque joueur accumule un tas de cartes face visibles ; ce tas devient la main du joueur pour la phase deux.
 
-The player to dealer's right begins, and players take turns, in anticlockwise order around the table, until the talon is exhausted. A basic turn consists of drawing the top card of the talon and placing it face up on the top of your stack. Each of your turns must end in this way, but before doing this, there are two methods by which you can give unwanted cards to other players.
+Le joueur à la droite du donneur commence, et les joueurs jouent à tour de rôle dans le sens antihoraire autour de la table, jusqu'à épuisement du talon. Un tour de base consiste à piocher la carte du dessus du talon et à la placer face visible sur le dessus de votre tas. Chacun de vos tours doit se terminer ainsi, mais avant de le faire, il y a deux méthodes pour donner des cartes indésirables à d'autres joueurs.
 
-**1. Giving away cards from your stack.**
-At the beginning of your turn, you may move the top card from your stack onto the top of another player's stack, provided that your card **fits** there. A card fits if it is next in rank above the card it covers (irrespective of suit) - so for example you can place your six on someone's five. Also, the lowest rank in the pack fits on an ace - so playing with the full 52 card pack you can place a two on an ace. When you have given away your top card, you may then give away the next card in your stack, if it fits some card that is showing at the top of another stack. You can continue giving cards to other players in this way as long as you wish to and there is somewhere legal to put them.
-**2. Giving away talon cards.**
-When you draw the top card from the talon, if it fits on another player's stack, you may if you wish put it there instead of on your own stack. If you placed it on another player's stack, you must immediately draw another card from the talon, which you may also give to another player if it fits. Eventually you will draw a card which you place on your own pile - either because you wish to, or because there is nowhere else you can put it. This is the end of your turn, and the next person can play.
+**1. Donner des cartes de votre tas.**
+Au début de votre tour, vous pouvez déplacer la carte du dessus de votre tas sur le dessus du tas d'un autre joueur, à condition que votre carte **s'encastre** là. Une carte s'encastre si elle est immédiatement supérieure en valeur à la carte qu'elle couvre (indépendamment de la couleur) — par exemple vous pouvez placer votre 6 sur le 5 de quelqu'un. De plus, la valeur la plus basse du jeu s'encastre sur un as — donc en jouant avec le jeu complet de 52 cartes, vous pouvez placer un 2 sur un as. Quand vous avez donné votre carte du dessus, vous pouvez alors donner la carte suivante de votre tas, si elle s'encastre sur une carte visible au dessus d'un autre tas. Vous pouvez continuer à donner des cartes aux autres joueurs de cette façon aussi longtemps que vous le souhaitez et qu'il y a un endroit légal pour les placer.
+**2. Donner des cartes du talon.**
+Quand vous piochez la carte du dessus du talon, si elle s'encastre sur le tas d'un autre joueur, vous pouvez si vous le souhaitez la placer là au lieu de sur votre propre tas. Si vous l'avez placée sur le tas d'un autre joueur, vous devez immédiatement piocher une autre carte du talon, que vous pouvez aussi donner à un autre joueur si elle s'encastre. Finalement, vous piocherez une carte que vous placerez sur votre propre tas — soit parce que vous le souhaitez, soit parce qu'il n'y a nulle part ailleurs où la placer. C'est la fin de votre tour, et la personne suivante peut jouer.
 
-Note that once you have drawn from the talon, you can no longer move cards from the top of your own stack in that turn. Note also that you are never obliged to give away cards. 
+Notez qu'une fois que vous avez pioché du talon, vous ne pouvez plus déplacer les cartes du dessus de votre propre tas pendant ce tour. Notez aussi que vous n'êtes jamais obligé de donner des cartes.
 
-**Example of first phase:** 
-Four people (**A**, **B**, **C** and **D**) are playing using a 32 card pack (so sevens are lowest). It is **A**'s turn and the following cards are face up: 
+**Exemple de première phase :**
+Quatre personnes (**A**, **B**, **C** et **D**) jouent avec un jeu de 32 cartes (les sept sont les plus basses). C'est le tour de **A** et les cartes suivantes sont face visibles :
 
-**A: ![heart](../images/internat/heart.gif)J, B: ![club](../images/internat/club.gif)K, C: ![club](../images/internat/club.gif)9, D: ![spade](../images/internat/spade.gif)Q**. 
+**A : ![cœur](../images/internat/heart.gif)V, B : ![trèfle](../images/internat/club.gif)R, C : ![trèfle](../images/internat/club.gif)9, D : ![pique](../images/internat/spade.gif)D**.
 
-**A** cannot get rid of the **![heart](../images/internat/heart.gif)J** anywhere, so draws a card from the talon; this is the **![diamond](../images/internat/diamond.gif)9**, which **A** must keep.
+**A** ne peut se débarrasser du **![cœur](../images/internat/heart.gif)V** nulle part, donc pioche une carte du talon ; c'est le **![carreau](../images/internat/diamond.gif)9**, que **A** doit garder.
 
-**B** could put the ![club](../images/internat/club.gif)K on **D**'s queen, but prefers to keep it. **B** draws the **![diamond](../images/internat/diamond.gif)10** from the talon which could be given to **A** or **C**; **B** put's it on **C**'s **9** and draws the next talon card, which is the **![spade](../images/internat/spade.gif)A**. This goes on **B**'s own pile. The cards showing are now:
+**B** pourrait placer le ![trèfle](../images/internat/club.gif)R sur la dame de **D**, mais préfère le garder. **B** pioche le **![carreau](../images/internat/diamond.gif)10** du talon qui pourrait être donné à **A** ou **C** ; **B** le place sur le **9** de **C** et pioche la carte suivante du talon, qui est le **![pique](../images/internat/spade.gif)A**. Celui-ci va sur le propre tas de **B**. Les cartes visibles sont maintenant :
 
-**A: ![diamond](../images/internat/diamond.gif)9, B: ![spade](../images/internat/spade.gif)A, C: ![diamond](../images/internat/diamond.gif)10, D: ![spade](../images/internat/spade.gif)Q**.
+**A : ![carreau](../images/internat/diamond.gif)9, B : ![pique](../images/internat/spade.gif)A, C : ![carreau](../images/internat/diamond.gif)10, D : ![pique](../images/internat/spade.gif)D**.
 
-**C** begins by moving the **![diamond](../images/internat/diamond.gif)10** onto **A**'s **![diamond](../images/internat/diamond.gif)9**, revealing **C**'s **![club](../images/internat/club.gif)9**. There is nowhere this can be placed so **C** draws from the talon - the **![heart](../images/internat/heart.gif)7**. As sevens are low, this fits on **B**'s ace, so **C** puts it there and draws the **![club](../images/internat/club.gif)8**, which also goes on **B**'s pile. **C** would now like to give the **![club](../images/internat/club.gif)9** to **B** but cannot, having already drawn from the talon. B therefore draws another card, the **![spade](../images/internat/spade.gif)K**, and keeps it.
+**C** commence par déplacer le **![carreau](../images/internat/diamond.gif)10** sur le **![carreau](../images/internat/diamond.gif)9** de **A**, révélant le **![trèfle](../images/internat/club.gif)9** de **C**. Il n'y a nulle part où la placer, donc **C** pioche du talon — le **![cœur](../images/internat/heart.gif)7**. Comme les sept sont bas, cela s'encastre sur l'as de **B**, donc **C** le place là et pioche le **![trèfle](../images/internat/club.gif)8**, qui va aussi sur le tas de **B**. **C** voudrait maintenant donner le **![trèfle](../images/internat/club.gif)9** à **B** mais ne peut pas, ayant déjà pioché du talon. B pioche donc une autre carte, le **![pique](../images/internat/spade.gif)R**, et la garde.
 
-It is now **D**'s turn ...
+C'est maintenant le tour de **D** ...
 
-Phase one ends when someone draws the last card from the stock. This card determines the trump suit for phase two. The player who draws it shows it to the other players. Everyone then picks up their cards. The player who drew the trump card keeps it and begins phase two.
+La phase une se termine quand quelqu'un pioche la dernière carte de la pioche. Cette carte détermine la couleur d'atout pour la phase deux. Le joueur qui l'a piochée la montre aux autres joueurs. Tout le monde ramasse ses cartes. Le joueur qui a pioché la carte d'atout la conserve et commence la phase deux.
 
-## Second phase
+## Deuxième phase
 
-This phase is played in what I will call tricks, though they are not like the tricks in a trick-taking game. Any card may be led. When playing to a trick you must beat the previous card played to it, by playing either a higher card of the same suit or a trump. Note that there is no obligation to follow suit - the only requirement is to beat the previous card, which you can do by trumping, even when you hold cards of the suit led.
+Cette phase est jouée en ce que j'appellerai des plis, bien qu'ils ne ressemblent pas aux plis d'un jeu de prise. N'importe quelle carte peut être posée en tête. En jouant dans un pli, vous devez battre la carte précédente, en jouant soit une carte supérieure de la même couleur soit un atout. Notez qu'il n'y a aucune obligation de suivre la couleur — la seule exigence est de battre la carte précédente, ce que vous pouvez faire en atoutant, même quand vous détenez des cartes de la couleur posée.
 
-If you are unable or unwilling to beat the previous card, you **must** pick up the **lowest** card in the trick and add it to your hand. It is then the next player's turn to play to the trick. A trick can end in two ways:
+Si vous êtes incapable ou ne voulez pas battre la carte précédente, vous **devez** ramasser la carte la **plus basse** du pli et l'ajouter à votre main. C'est ensuite le tour du joueur suivant de jouer dans le pli. Un pli peut se terminer de deux façons :
 
-- The number of cards played to it is equal to the number of players who were in the game at the start of the trick. In this case the cards in the trick are set aside, and the player who played last (and therefore highest) to the trick begins a new trick by leading any card.
+- Le nombre de cartes jouées dans le pli est égal au nombre de joueurs présents dans le jeu au début du pli. Dans ce cas, les cartes du pli sont écartées, et le joueur qui a joué la dernière (et donc la plus haute) carte du pli commence un nouveau pli en posant n'importe quelle carte.
 
-- A player picks up the only (remaining) card in the trick. It is then the **next** player's turn to begin a new trick by leading any card.
+- Un joueur ramasse la seule carte (restante) du pli. C'est ensuite le tour du joueur **suivant** de commencer un nouveau pli en posant n'importe quelle carte.
 
-Note that you are never forced to play to a trick (except when it is your lead) - you can always pick up the lowest card in it instead. Because of this, some tricks may go several times around the table before they are complete, and you might end up playing to the same trick more than once.
+Notez que vous n'êtes jamais forcé de jouer dans un pli (sauf quand c'est votre tour de poser en tête) — vous pouvez toujours ramasser la carte la plus basse à la place. Pour cette raison, certains plis peuvent faire plusieurs fois le tour de la table avant d'être complets, et vous pourriez finir par jouer dans le même pli plus d'une fois.
 
-As players run out of cards they drop out of the game, and this reduces the number of cards in future tricks (but not in the trick currently underway). If the player due to lead to a trick has no cards (which happens when that player won the previous trick with their last card), then the lead passes to the next player in rotation.
+À mesure que les joueurs épuisent leurs cartes, ils quittent le jeu, ce qui réduit le nombre de cartes dans les plis suivants (mais pas dans le pli en cours). Si le joueur qui devait poser en tête d'un pli n'a plus de cartes (ce qui arrive quand ce joueur a gagné le pli précédent avec sa dernière carte), la pose passe au joueur suivant.
 
-The hand ends when only one person has cards left, and the last person left holding cards loses. Note that the hand can end in the middle of a trick. For example, if there are two players left, each holding just one card, then the player on lead wins even if the second player's card beats the led card.
+La main se termine quand une seule personne a encore des cartes, et le dernier à avoir des cartes perd. Notez que la main peut se terminer au milieu d'un pli. Par exemple, s'il ne reste que deux joueurs, chacun avec une seule carte, le joueur qui pose en tête gagne même si la carte du second joueur bat la carte posée.
 
-**Example of play in the second phase:**
-There are four players, **A**, **B**, **C** and **D**, hearts are trumps, and it is **A**'s lead.
+**Exemple de jeu dans la deuxième phase :**
+Il y a quatre joueurs, **A**, **B**, **C** et **D**, les cœurs sont l'atout, et c'est le tour de **A** de poser.
 
-**A** leads the **![club](../images/internat/club.gif)9**, **B** plays the **![club](../images/internat/club.gif)J** and **C** plays the **![club](../images/internat/club.gif)A**. **D** does not wish to use a trump, so picks up the **![club](../images/internat/club.gif)9**; for the same reason **B** picks up the **![club](../images/internat/club.gif)J**, but **C** trumps his own ace with the **![heart](../images/internat/heart.gif)7**. **D** picks up the **![club](../images/internat/club.gif)A** and **A** picks up the **![heart](../images/internat/heart.gif)7**, which was the only card on the table. 
+**A** pose le ![trèfle](../images/internat/club.gif)9, **B** joue le ![trèfle](../images/internat/club.gif)V et **C** joue le ![trèfle](../images/internat/club.gif)A. **D** ne souhaite pas utiliser un atout, donc ramasse le ![trèfle](../images/internat/club.gif)9 ; pour la même raison **B** ramasse le ![trèfle](../images/internat/club.gif)V, mais **C** pose le ![cœur](../images/internat/heart.gif)7 en atout sur son propre as. **D** ramasse le ![trèfle](../images/internat/club.gif)A et **A** ramasse le ![cœur](../images/internat/heart.gif)7, qui était la seule carte sur la table.
 
-Since **A** picked up the last card, it is now **B**'s lead. **B** leads the **![diamond](../images/internat/diamond.gif)A** and **C** decides to pick this card up. 
+Puisque **A** a ramassé la dernière carte, c'est maintenant le tour de **B** de poser. **B** pose le ![carreau](../images/internat/diamond.gif)A et **C** décide de ramasser cette carte.
 
-It is now **D**'s lead, and **D** leads the **![spade](../images/internat/spade.gif)7**. **A** plays the **![spade](../images/internat/spade.gif)J** and **B** picks up the **![spade](../images/internat/spade.gif)7**. **C** beats **A**'s jack with the **![spade](../images/internat/spade.gif)Q**, **D** plays the **![spade](../images/internat/spade.gif)A** and **A** trumps this with the **![heart](../images/internat/heart.gif)7** which she picked up earlier. There are now four cards in the trick, so these cards are out of the game, and it is **A**'s turn to lead any card. 
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > NLK
+C'est maintenant le tour de **D** de poser, et **D** pose le ![pique](../images/internat/spade.gif)7. **A** joue le ![pique](../images/internat/spade.gif)V et **B** ramasse le ![pique](../images/internat/spade.gif)7. **C** bat le valet de **A** avec le ![pique](../images/internat/spade.gif)D, **D** joue le ![pique](../images/internat/spade.gif)A et **A** pose le ![cœur](../images/internat/heart.gif)7 en atout qu'elle a ramassé plus tôt. Il y a maintenant quatre cartes dans le pli, donc ces cartes sont hors du jeu, et c'est le tour de **A** de poser n'importe quelle carte.

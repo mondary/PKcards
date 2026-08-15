@@ -3,54 +3,27 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Karnöffel, Plis
-**But :** A three-player Icelandic card game of the Karnöffel family using a 27-card pack.
+**But :** Jeu de cartes islandais à trois joueurs de la famille Karnöffel, utilisant un jeu de 27 cartes.
+**Autres noms :** Alkort à trois
 
 ---
 
-*Translated by Anthony Smith from pages 142-143 of "Spilabók AB" by Þ. Guðmundsson, 1989, Reykjavik.*
+*Traduit par Anthony Smith à partir des pages 142-143 de « Spilabók AB » de Þ. Guðmundsson, 1989, Reykjavík.*
 
-Treikort was played quite a lot in Iceland up to the last century.
-A Treikort is described in old Danish games manuals, but it is
-unlike the Treikort which was played in Iceland. Some people call
-this game "3-man Alkort". Here
-is Ólaf Davíðsson's work describing the game,
-from his writings on Icelandic amusements (Íslenzkar gátur,
-skemmtanir, vikavikar og þulur", Ólafur Davíðsson,
-1887-1903, Copenhagen).
+Treikort était assez joué en Islande jusqu'au siècle dernier. Un Treikort est décrit dans d'anciens manuels de jeux danois, mais il diffère du Treikort qui était joué en Islande. Certains appellent ce jeu « Alkort à trois ». Voici le travail d'Ólaf Davíðsson décrivant le jeu, tiré de ses écrits sur les divertissements islandais (Íslenzkar gátur, skemmtanir, vikavikar og þulur, Ólafur Davíðsson, 1887-1903, Copenhague).
 
-## Number of Players and the Cards
+## Nombre de joueurs et cartes
 
-As alluded to in the name, Treikort is a 3-player game. Just 27
-cards out of an ordinary 52 card pack are used.
+Comme son nom l'indique, Treikort est un jeu à trois joueurs. Seulement 27 cartes sur un jeu ordinaire de 52 sont utilisées.
 
-23 of the 27 cards are as follows: QC (highest unless a 7 is led),
-2S, KD, 2H, 4C, 8S, 9H, 9D, Aces, Jacks, Sixes, Eights (except
-8S). In addition to these there are the four sevens (bísefarnir):
-these cannot be beaten if they are led out, but are useless if
-you have to follow with them to a trick as they cannot beat any
-card. You are not allowed to lead a seven until you have won a
-trick. Among equally high cards played to the same trick (e.g.
-more than one Jack), the card which was played first beats the
-others.
+23 des 27 cartes sont les suivantes : ![carreau]D (la plus haute sauf si un 7 est mené), ![pique]2, ![carreau]R, ![cœur]2, ![trèfle]4, ![pique]8, ![cœur]9, ![carreau]9, les As, les Valets, les Six, les Huits (sauf le ![pique]8). En plus de celles-ci, il y a les quatre Sept (bísefarnir) : ils sont imbattables lorsqu'ils sont menés, mais inutiles si on doit les jouer en suivant car ils ne peuvent battre aucune carte. On n'a pas le droit de mener un Sept avant d'avoir remporté une levée. Parmi les cartes de même hauteur jouées dans la même levée (par ex. plus d'un Valet), la carte jouée en premier bat les autres.
 
-## The Deal and Play
+## La donne et le jeu
 
-Each player gets 9 cards, dealt three at a time.
+Chaque joueur reçoit 9 cartes, distribuées trois par trois.
 
-Forehand leads to the first trick and each other player in turn
-plays a card. Whoever plays the highest card takes the trick and
-leads to the next trick.
+Le joueur en première position mène la première levée et chaque joueur à son tour joue une carte. Celui qui joue la carte la plus haute remporte la levée et mène la suivante.
 
-The object of the game is to take as many tricks as possible.
-A player who wins 13 tricks in 3 games takes the title of Pope,
-and has the right at the start of the next game to take the highest
-card from one of his fellow-players and a seven from the other,
-and to give them in exchange any cards he wants to get rid of.
-The Pope chooses which player he wants the seven from, and if
-the chosen player has no seven the Pope gets no card from that
-player.
+Le but du jeu est de remporter autant de levées que possible. Un joueur qui remporte 13 levées en 3 parties prend le titre de Pape, et a le droit, au début de la partie suivante, de prendre la carte la plus haute à l'un de ses partenaires et un Sept à l'autre, et de leur donner en échange les cartes de son choix. Le Pape choisit à quel joueur il veut prendre le Sept ; si ce joueur n'a pas de Sept, le Pape ne reçoit aucune carte de ce joueur.
 
-The Pope loses his title and the rights described above as soon
-as he fails to take 13 tricks in any 3 consecutive games.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Karnöffel Group > Treikort
+Le Pape perd son titre et les droits décrits ci-dessus dès qu'il échoue à remporter 13 levées lors de 3 parties consécutives.

@@ -4,78 +4,76 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Bataille de plis, Plis
-**But :** A two-player card game from Afghanistan featured featured in  Khaled Hosseini's novel The Kite Runner.
+**But :** Un jeu de cartes à deux joueurs d'Afghanistan figurant dans le roman Le Cerf-volant de Khaled Hosseini.
 
 ---
 
 ## Introduction
 
-Panjpar is a popular Afghan two-player card game which is featured in the novel "The Kite Runner" by [Khaled Hosseini](https://khaledhosseini.com/). 'Panjpar' simply means 'five cards', the number of cards in each player's hand at the start of the game. It is closely related to the Russian game Prostoy Durak, but Panjpar is played with a full 52-card pack.
+Panjpar est un jeu afghan populaire à deux joueurs, figurant dans le roman « Le Cerf-volant » de [Khaled Hosseini](https://khaledhosseini.com/). « Panjpar » signifie simplement « cinq cartes », le nombre de cartes dans la main de chaque joueur au début du jeu. Il est étroitement apparenté au jeu russe Prostoy Durak, mais Panjpar se joue avec un jeu complet de 52 cartes.
 
-As the players play their cards they draw new ones from the stock of undealt cards to keep a hand of at least five cards. The aim is to collect a hand with which you can win after the stock runs out. When the stock is empty the player who manages to play all their cards wins, and the player still holding cards at the end is the loser.
+À mesure que les joueurs jouent leurs cartes, ils piochent de nouvelles cartes de la pioche pour maintenir une main d'au moins cinq cartes. Le but est de constituer une main avec laquelle on peut gagner après épuisement de la pioche. Quand la pioche est vide, le joueur qui réussit à jouer toutes ses cartes gagne, et le joueur ayant encore des cartes à la fin est le perdant.
 
-*This page is mainly based on information from Kamel Sidiqi.*
+*Cette page est principalement basée sur des informations de Kamel Sidiqi.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Panjpar is a two-player game. 
+Panjpar est un jeu à deux joueurs.
 
-A standard international 52-card pack is used, the cards of each suit ranking from high to low: **A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2**.
+On utilise un jeu international standard de 52 cartes, les cartes de chaque couleur allant de haut en bas : **A, R, D, V, 10, 9, 8, 7, 6, 5, 4, 3, 2**.
 
-## The Deal
+## La donne
 
-The pack is shuffled and five cards are dealt to each player. The next card is placed face up on the table and its suit is trumps. The remaining cards are stacked face down on top of the trump indicator card and at right angles to it, so that the value of the trump indicator card can be seen. this stack of cards is the **stock** from which fresh cards are drawn during the play.
+Le jeu est mélangé et cinq cartes sont distribuées à chaque joueur. La carte suivante est placée face visible sur la table et sa couleur est l'atout. Les cartes restantes sont empilées face cachées sur la carte indicatrice d'atout et à angle droit par rapport à elle, de sorte que la valeur de la carte indicatrice soit visible. Ce tas de cartes est la **pioche** à partir de laquelle de nouvelles cartes sont piochées pendant le jeu.
 
-Before the deal one of the players guesses what colour the trump suit will be. If the guess is right, the player who guessed it plays (attacks) first; if not the opponent plays first. 
+Avant la donne, l'un des joueurs devine quelle sera la couleur de l'atout. Si la devinette est correcte, le joueur qui a deviné joue (attaque) en premier ; sinon, l'adversaire joue en premier.
 
-## The Play
+## Le jeu
 
-The play consists of a series of battles in which one player attacks and the other defends.
+Le jeu consiste en une série de batailles dans lesquelles un joueur attaque et l'autre défend.
 
-The attacker plays ("throws") one, three or five cards from hand, placing them side by side face up on the table. 
+L'attaquant joue (« lance ») une, trois ou cinq cartes de sa main, en les plaçant côte à côte face visibles sur la table.
 
-- For a one-card attack, any card may be played.
+- Pour une attaque à une carte, n'importe quelle carte peut être jouée.
 
-- A three-card attack must consist of a pair plus a third card, for example 7-7-9 or Q-Q-2. The third card could be the same rank as the pair - for example 8-8-8.
+- Une attaque à trois cartes doit consister en une paire plus une troisième carte, par exemple 7-7-9 ou D-D-2. La troisième carte peut être de la même valeur que la paire — par exemple 8-8-8.
 
-- A five-card attack must consist of two pairs plus a fifth card, for example K-K-4-4-7. The fifth card could be equal to one of the pairs, or the two pairs could be equal to each other: 10-10-3-3-3 and 6-6-6-6-J would both be valid five-card attacks.
+- Une attaque à cinq cartes doit consister en deux paires plus une cinquième carte, par exemple R-R-4-4-7. La cinquième carte peut être égale à l'une des paires, ou les deux paires peuvent être égales entre elles : 10-10-3-3-3 et 6-6-6-6-V seraient tous deux des attaques à cinq cartes valides.
 
-The defender may now beat ("kill") any or all of the attack cards by playing cards from hand, one card on top of each attack card. A card can be beaten by a **higher** card of the **same** suit. **Any** non-trump card can be beaten by **any** trump. A trump can only be beaten by a higher trump.
+Le défenseur peut maintenant battre (« tuer ») n'importe laquelle ou toutes les cartes d'attaque en jouant des cartes de sa main, une carte par-dessus chaque carte d'attaque. Une carte peut être battue par une carte **supérieure** de la **même** couleur. **N'importe quelle** carte non-atout peut être battue par **n'importe quel** atout. Un atout ne peut être battu que par un atout supérieur.
 
-The attack cards that were beaten and the cards that were used by the defender to beat them are set aside and are not used again until the next deal. If the defender beat all the attack cards, it will be the defender's turn to attack next.
+Les cartes d'attaque qui ont été battues et les cartes utilisées par le défenseur pour les battre sont mises de côté et ne sont plus utilisées jusqu'à la donne suivante. Si le défenseur a battu toutes les cartes d'attaque, ce sera son tour d'attaquer ensuite.
 
-If the defender did not beat all the attack cards, then any cards that were not beaten are added to the defender's hand. The player who attacked will attack again.
+Si le défenseur n'a pas battu toutes les cartes d'attaque, les cartes non battues sont ajoutées à sa main. Le joueur qui a attaqué attaquera à nouveau.
 
-You are never obliged to beat cards that are used to attack you. You always have the option to pick up some or all of the attack cards and add them to your hand instead. If you are attacked with good cards such as aces or large trumps, you will often prefer to pick them up for later use even if could have beaten them, and allow your opponent to attack again.
+Vous n'êtes jamais obligé de battre les cartes utilisées pour vous attaquer. Vous avez toujours l'option de ramasser certaines ou toutes les cartes d'attaque et de les ajouter à votre main à la place. Si vous êtes attaqué avec de bonnes cartes comme des as ou de gros atouts, vous préférerez souvent les ramasser pour un usage ultérieur même si vous auriez pu les battre, et laisser votre adversaire attaquer à nouveau.
 
-Until the stock pile is exhausted, each player must have at least five cards in hand at the start of each attack. If after playing, either to attack or defend, you have fewer than five cards in your hand, you must draw enough cards from the top of the stock to bring your hand back to five cards. The attacker draws first, then the defender.
+Jusqu'à épuisement de la pioche, chaque joueur doit avoir au moins cinq cartes en main au début de chaque attaque. Si après avoir joué, pour attaquer ou défendre, vous avez moins de cinq cartes en main, vous devez piocher suffisamment de cartes du dessus de la pioche pour ramener votre main à cinq cartes. L'attaquant pioche en premier, puis le défenseur.
 
-**Example:** Players A and B hold five cards each. Diamonds are trumps. A attacks with ![diamond](../images/internat/diamond.gif)5-![club](../images/internat/club.gif)5-![club](../images/internat/club.gif)K. B beats the ![club](../images/internat/club.gif)5 with the ![club](../images/internat/club.gif)7 and picks up the ![diamond](../images/internat/diamond.gif)5 and ![club](../images/internat/club.gif)K. A has two cards left and must draw three from the stock to make a hand of five cards. B has seven cards and does not draw. The 5 and 7 of clubs are set aside face down. Since B picked up, it is A's tun to attack again. This time A attacks with ![heart](../images/internat/heart.gif)9-![club](../images/internat/club.gif)9-![spade](../images/internat/spade.gif)3. B beats the ![spade](../images/internat/spade.gif)3 with the ![spade](../images/internat/spade.gif)4, the ![club](../images/internat/club.gif)9 with the ![club](../images/internat/club.gif)K he just picked up, and trumps the ![heart](../images/internat/heart.gif)9 with his ![diamond](../images/internat/diamond.gif)5. All six played cards are set aside face down. A draws three cards once again, and B, who has four cards left, needs to draw one. Since B beat A's attack completely it is B's turn to attack next. B attacks with the ![spade](../images/internat/spade.gif)6. A has no spades and does not wish to use a trump, so A picks up the ![spade](../images/internat/spade.gif)6. B draws one card and attacks again. And so on.
+**Exemple :** Les joueurs A et B ont cinq cartes chacun. Les carreaux sont l'atout. A attaque avec ![carreau](../images/internat/diamond.gif)5-![trèfle](../images/internat/club.gif)5-![trèfle](../images/internat/club.gif)R. B bat le ![trèfle](../images/internat/club.gif)5 avec le ![trèfle](../images/internat/club.gif)7 et ramasse le ![carreau](../images/internat/diamond.gif)5 et le ![trèfle](../images/internat/club.gif)R. A a deux cartes restantes et doit piocher trois de la pioche pour avoir une main de cinq cartes. B a sept cartes et ne pioche pas. Le 5 et le 7 de trèfle sont mis de côté face cachées. Puisque B a ramassé, c'est le tour de A d'attaquer à nouveau. Cette fois A attaque avec ![cœur](../images/internat/heart.gif)9-![trèfle](../images/internat/club.gif)9-![pique](../images/internat/spade.gif)3. B bat le ![pique](../images/internat/spade.gif)3 avec le ![pique](../images/internat/spade.gif)4, le ![trèfle](../images/internat/club.gif)9 avec le ![trèfle](../images/internat/club.gif)R qu'il vient de ramasser, et pose le ![carreau](../images/internat/diamond.gif)5 en atout sur le ![cœur](../images/internat/heart.gif)9. Les six cartes jouées sont mises de côté face cachées. A pioche trois cartes une fois de plus, et B, qui a quatre cartes restantes, doit en piocher une. Puisque B a complètement repoussé l'attaque de A, c'est le tour de B d'attaquer ensuite. B attaque avec le ![pique](../images/internat/spade.gif)6. A n'a pas de pique et ne souhaite pas utiliser un atout, donc A ramasse le ![pique](../images/internat/spade.gif)6. B pioche une carte et attaque à nouveau. Et ainsi de suite.
 
-Each player is allowed to know at all times how many cards are in the other player's hand (but not of course what the cards are), and you must answer truthfully if asked how many cards you have. However, it is forbidden to count the remaining cards in the stock. Also, players are not allowed to look through the pile of used cards that have been set aside. To help with this, used cards can be collected in a face down heap. Some players prefer to keep the used cards face up but in that case they should be stacked in such a way that only the most recently added card(s) are visible.
+Chaque joueur est autorisé à savoir à tout moment combien de cartes l'autre joueur a en main (mais pas bien sûr quelles sont les cartes), et vous devez répondre honnêtement si on vous demande combien de cartes vous avez. Cependant, il est interdit de compter les cartes restantes dans la pioche. De plus, les joueurs ne sont pas autorisés à parcourir le tas de cartes utilisées mises de côté. Pour faciliter cela, les cartes utilisées peuvent être rassemblées en un tas face cachée. Certains joueurs préfèrent garder les cartes utilisées face visibles, mais dans ce cas elles doivent être empilées de sorte que seules la ou les cartes les plus récemment ajoutées soient visibles.
 
-**Note.** Unlike the related Russian game Durak, in Panjpar there is no possibility to acquire the trump indicator card by exchanging it for a low trump in your hand before the stock runs out. The original trump indicator card remains in place until all the face-down cards of the stock have been drawn.
+**Note.** Contrairement au jeu russe apparenté Durak, dans Panjpar il n'y a aucune possibilité d'acquérir la carte indicatrice d'atout en l'échangeant contre un atout bas de votre main avant l'épuisement de la pioche. La carte indicatrice originale reste en place jusqu'à ce que toutes les cartes face cachées de la pioche aient été piochées.
 
-## The Endgame
+## Fin de partie
 
-The face-up trump indicator card is drawn as the last card of the stock. After that play continues without drawing replacement cards.
+La carte indicatrice d'atout face visible est piochée comme dernière carte de la pioche. Après cela, le jeu continue sans piocher de cartes de remplacement.
 
-A player is not allowed to attack with more cards than the opponent holds. So if your opponent has only 3 or 4 cards you are only allowed to attack with 1 or 3 cards, not 5. If your opponent has only 1 or 2 cards, you can only attack with a single card.
+Un joueur n'est pas autorisé à attaquer avec plus de cartes que ce que l'adversaire détient. Donc si votre adversaire n'a que 3 ou 4 cartes, vous n'êtes autorisé à attaquer qu'avec 1 ou 3 cartes, pas 5. Si votre adversaire n'a que 1 ou 2 cartes, vous ne pouvez attaquer qu'avec une seule carte.
 
-When a player runs out of cards, the play ends at the end of that battle. The player left holding cards after the final battle is the loser. 
+Quand un joueur n'a plus de cartes, le jeu se termine à la fin de cette bataille. Le joueur ayant encore des cartes après la bataille finale est le perdant.
 
-Sometimes both players use all their remaining cards in the final battle. For example the players have one card each, the attacker plays his last card and the defender's card beats it. In such a case, the game is a draw.
+Parfois, les deux joueurs utilisent toutes leurs cartes restantes dans la bataille finale. Par exemple, les joueurs ont une carte chacun, l'attaquant joue sa dernière carte et la carte du défenseur la bat. Dans un tel cas, la partie est nulle.
 
-When reaching the end of the stock, the order of drawing cards is important. It can be a big advantage to draw the face up trump at the bottom of the stock, and since there are no more cards to draw after that, one or both players may begin the endgame with fewer than five cards.
+En atteignant la fin de la pioche, l'ordre de pioche des cartes est important. Cela peut être un grand avantage de piocher l'atout face visible au fond de la pioche, et puisqu'il n'y a plus de cartes à piocher après, un ou les deux joueurs peuvent commencer la fin de partie avec moins de cinq cartes.
 
-**Example.** Players A and B have 5 cards each and there are 4 cards in the stock including the face-up trump.
+**Exemple.** Les joueurs A et B ont 5 cartes chacun et il y a 4 cartes dans la pioche y compris l'atout face visible.
 
-- Suppose A attacks with 3 cards and B beats them all. A draws the last 3 face-down cards and B gets the trump. So it is now B's turn to attack from a hand of three cards. If they include a pair, B can win immediately. 
+- Supposons que A attaque avec 3 cartes et B les bat toutes. A pioche les 3 dernières cartes face cachées et B obtient l'atout. C'est maintenant le tour de B d'attaquer depuis une main de trois cartes. Si celles-ci incluent une paire, B peut gagner immédiatement.
 
-- Suppose instead that A attacks with 5 cards and B beats 4 of them, picking up the fifth card. Now A draws the last 4 cards of the stock including the trump and B draws nothing so just has two cards - the fifth card from his hand and the one he just picked up. Since B has only two cards, A can only attack with one of his four cards. If B can beat this card, B can then attack with his other card and win.
+- Supposons au contraire que A attaque avec 5 cartes et B en bat 4, en ramassant la cinquième. Maintenant A pioche les 4 dernières cartes de la pioche y compris l'atout et B ne pioche rien, n'ayant donc que deux cartes — la cinquième carte de sa main et celle qu'il vient de ramasser. Puisque B n'a que deux cartes, A ne peut attaquer qu'avec une de ses quatre cartes. Si B peut battre cette carte, B peut alors attaquer avec son autre carte et gagner.
 
-## Other Websites
+## Autres sites web
 
-The page [Card Games in Afghanistan](https://web.archive.org/web/20240221220322/https://www.afghan-web.com/games/card-games/) (archive copy) included a fairly brief description of Panjpar. It includes some apparently unusual rules and may relate to a different version of the game from the one described above
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Panjpar
+La page [Jeux de cartes en Afghanistan](https://web.archive.org/web/20240221220322/https://www.afghan-web.com/games/card-games/) (copie d'archive) incluait une description assez brève de Panjpar. Elle inclut des règles apparemment inhabituelles et peut se rapporter à une version différente du jeu de celle décrite ci-dessus.
