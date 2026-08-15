@@ -1,15 +1,13 @@
-# All Fives - link to
+# All Fives — lien
 
 **Difficulté :** —
 **Type :** All Fours, Plis
-**But :** Information on All Fives, a trick-taking card game in which players score points for winning the A, K, Q, J, 10 and 5 of trumps.
+**But :** Informations sur All Fives, un jeu de plis dans lequel les joueurs marquent des points en remportant l'A, le R, la D, le V, le 10 et le 5 d'atout.
 
 ---
 
-In American card games books, two games called All Fives sometimes appear - a card game and a domino game. This page about the card game; there is a separate page for the game with dominoes.
+Dans les livres américains de jeux de cartes, deux jeux appelés All Fives apparaissent parfois — un jeu de cartes et un jeu de dominos. Cette page concerne le jeu de cartes ; il existe une page séparée pour le jeu de dominos.
 
-The card game All Fives is a variation of All Fours for two or three players, in which additional points are scored for taking certain trump cards in tricks: A=4; K=3; Q=2; J=1; 10=10; 5=5.
+Le jeu de cartes All Fives est une variante d'All Fours pour deux ou trois joueurs, dans laquelle des points supplémentaires sont marqués pour avoir pris certaines cartes d'atout dans les plis : A=4 ; R=3 ; D=2 ; V=1 ; 10=10 ; 5=5.
 
-Having introduced these extra points, some players have dropped the original points for high, low jack and game. For details, here is an archive copy Dave Barker's former page [Rules for All Fives](https://web.archive.org/web/20021201161652/w3.one.net/~dbarker/cards/all-fives.html).
-
-Home Page > Classified Index > Trick Taking Games > All Fours Group > All Fives
+Ayant introduit ces points supplémentaires, certains joueurs ont abandonné les points originaux pour la carte haute, la carte basse, le valet et le jeu. Pour plus de détails, voici une copie d'archive de l'ancienne page de Dave Barker : [règles d'All Fives](https://web.archive.org/web/20021201161652/w3.one.net/~dbarker/cards/all-fives.html).

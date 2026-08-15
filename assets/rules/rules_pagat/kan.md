@@ -3,209 +3,207 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Also known as Etori, from Aomori prefecture in Japan, a trick-taking game with trumps for 3, 4, 5 or 6 players.
+**But :** Jeu de plis avec atout originaire de la préfecture d'Aomori au Japon, pour 3, 4, 5 ou 6 joueurs.
 **Autres noms :** Etori
 
 ---
 
-This page is based on information from Takerube Nobuaki and Kuromiya Kimihiko, with additional material from Jackie Chang and Florent Barraco.
+Cette page est basée sur des informations de Takerube Nobuaki et Kuromiya Kimihiko, avec des contributions supplémentaires de Jackie Chang et Florent Barraco.
 
 - Introduction
 
-- Gonin-Kan (5 or 6 players)
+- Gonin-Kan (5 ou 6 joueurs)
 
-- Yonin-Kan / Damari-Kan (4 players)
+- Yonin-Kan / Damari-Kan (4 joueurs)
 
-- Gambari-Kan (3 players)
+- Gambari-Kan (3 joueurs)
 
-- Special cards
+- Cartes spéciales
 
 ## Introduction
 
-Kan is a popular card game in Aomori prefecture in Japan, especially at Goshogawara and Tsugaru. Some players use the generic name Etori (picture taking) for this game, but Etori can also refer to other games of this family, such as Kakeya Toranpu. There are many variations. The most popular one is called Gonin-Kan (literally "five people Kan", i.e. five-handed Kan), which is described first below, followed by versions for four and three players. 
+Kan est un jeu de cartes populaire dans la préfecture d'Aomori au Japon, particulièrement à Goshogawara et Tsugaru. Certains joueurs utilisent le nom générique Etori (prise de cartes) pour ce jeu, mais Etori peut aussi désigner d'autres jeux de cette famille, comme Kakeya Toranpu. Il existe de nombreuses variantes. La plus populaire s'appelle Gonin-Kan (littéralement « Kan à cinq personnes », c'est-à-dire Kan à cinq joueurs), décrite en premier ci-dessous, suivie des versions à quatre et trois joueurs.
 
 ## Gonin-Kan
 
-### Players and cards
+### Joueurs et cartes
 
-This game is played by five players, as its name shows, but can be also played by six players. In the latter case, the dealer doesn't play but just deals cards.
+Ce jeu se joue à cinq joueurs, comme son nom l'indique, mais peut aussi se jouer à six. Dans ce cas, le donneur ne joue pas mais se contente de distribuer les cartes.
 
-Remove the twos of hearts, diamonds and clubs from the standard 52 card pack plus a joker (50 cards in all). Cards in each suit rank from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2. The joker is special: it is always the strongest card. You are not allowed to play the joker in the first or last trick, but you can play the joker to any other trick, regardless of the suit led.
+Retirez les deux de ![cœur], ![carreau] et ![trèfle] du jeu standard de 52 cartes plus un joker (50 cartes au total). Les cartes de chaque couleur se classent de haut en bas : A-R-D-V-10-9-8-7-6-5-4-3-2. Le joker est spécial : c'est toujours la carte la plus forte. On n'est pas autorisé à jouer le joker au premier ou au dernier pli, mais on peut le jouer à n'importe quel autre pli, quelle que soit la couleur entamée.
 
-The ace, king, queen and jack of each suit are worth one point each, so that the pack contains 16 points in all. The other cards have no value. The aim of the game is to collect as many point cards as possible by taking tricks.
+L'as, le roi, la dame et le valet de chaque couleur valent un point chacun, de sorte que le jeu contient 16 points en tout. Les autres cartes n'ont aucune valeur. Le but du jeu est de collecter le plus possible de cartes à points en remportant des plis.
 
-The whole game is played counter-clockwise.
+Le jeu se déroule entièrement dans le sens antihoraire.
 
-### Round and Match
+### Round et match
 
-On this page, a round means a series of from one to three successive deals by the same player: the dealer is known as "maki-yaku". A round ends when the dealer's team loses a deal, or when it has won three successive deals. When either of these things happens, the new dealer is the player to the right of the previous dealer and a new round starts. (Note that, because players sometimes have to change seats during the first deal of a round, it does not necessarily happen that all players deal equally often. Sometimes a player is skipped and sometimes a player who dealt two rounds ago must deal again, having moved to the right of the player who dealt the intervening round. The dealer for the new round is always the player sitting immediately to the right of where the previous dealer is now sitting.)
+Sur cette page, un round désigne une série de une à trois donnes successives par le même joueur : le donneur est appelé « maki-yaku ». Un round se termine lorsque l'équipe du donneur perd une donne, ou lorsqu'elle a remporté trois donnes successives. Lorsque l'une de ces choses se produit, le nouveau donneur est le joueur à la droite du donneur précédent et un nouveau round commence. (À noter que, comme les joueurs doivent parfois changer de place lors de la première donne d'un round, il n'arrive pas nécessairement que tous les joueurs distribuent aussi souvent. Parfois un joueur est sauté et parfois un joueur qui a distribué deux rounds plus tôt doit distribuer à nouveau, ayant été déplacé à la droite du joueur qui a distribué le round intermédiaire. Le donneur du nouveau round est toujours le joueur assis immédiatement à la droite de l'endroit où le donneur précédent est maintenant assis.)
 
-A match consists of a series of rounds - for example 10. The match ends when the agreed number of rounds have been played. The player who then has the most points is the winner of the match.
+Un match comprend une série de rounds — par exemple 10. Le match se termine lorsque le nombre convenu de rounds a été joué. Le joueur qui a alors le plus de points est le gagnant du match.
 
-### First deal of a round: trumps and partners
+### Première donne d'un round : atouts et partenaires
 
-The trump suit is known as "yaku". For the first deal of the first round, clubs are trumps; diamonds are trumps in the first deal of the second round; hearts in the first deal of the third round. Then the sequence is repeated: clubs, diamonds, hearts, clubs and so on. Spades are trumps in the first deal of the final round of the session. This last round is known as "Tome-Suppe" ("Stopping Spade").
+La couleur d'atout est appelée « yaku ». Pour la première donne du premier round, les ![trèfle] sont l'atout ; les ![carreau] sont l'atout dans la première donne du deuxième round ; les ![cœur] dans la première donne du troisième round. Ensuite la séquence se répète : ![trèfle], ![carreau], ![cœur], ![trèfle], etc. Les ![pique] sont l'atout dans la première donne du dernier round de la session. Ce dernier round est appelé « Tome-Suppe » (« Pique d'arrêt »).
 
-For the first deal of a round, the dealer shuffles and deals each player ten cards, one at a time. The holder of the joker and the holder of the ace ("poh") of trumps must declare "kan", and they become partners. If the same player holds both the joker and the Ace of trumps, the kankei consists of this player and the player two places to his right (not counting the dealer in a 6-player game). The joker holder places the joker and trump ace face down on the table, and the partner places his whole hand face down. A member of the mukankei draws a card from the partner's hand and exchanges it with one of the two cards placed face down by the joker holder. The players pick up their cards again, and now one member of the kankei has the joker and the other has the ace of trumps.
+Pour la première donne d'un round, le donneur mélange et distribue dix cartes à chaque joueur, une à la fois. Le détenteur du joker et le détenteur de l'as (« poh ») d'atout doivent déclarer « kan », et ils deviennent partenaires. Si le même joueur détient à la fois le joker et l'as d'atout, le kankei est composé de ce joueur et du joueur deux places à sa droite (sans compter le donneur dans un jeu à 6 joueurs). Le détenteur du joker pose le joker et l'as d'atout face cachée sur la table, et le partenaire pose toute sa main face cachée. Un membre du mukankei tire une carte de la main du partenaire et l'échange avec l'une des deux cartes posées face cachée par le détenteur du joker. Les joueurs reprennent leurs cartes, et maintenant un membre du kankei a le joker et l'autre a l'as d'atout.
 
-The joker holder and the trump-ace holder are partners, not only in this deal but also during the whole round (up to three deals). They are called "kankei" ("partnership" or literally "relationship") or just "kan", and the other three players are called "mukankei" or "mukan". The two players belonging to the kankei team must not sit next to each other. If they turn out to be neighbours, in a 5-player game the player to the right of the pair must exchange the seats with the opponent to his right.
+Le détenteur du joker et le détenteur de l'as d'atout sont partenaires, non seulement dans cette donne mais aussi pendant tout le round (jusqu'à trois donnes). Ils sont appelés « kankei » (« partenariat » ou littéralement « relation ») ou simplement « kan », et les trois autres joueurs sont appelés « mukankei » ou « mukan ». Les deux joueurs appartenant à l'équipe kankei ne doivent pas être assis l'un à côté de l'autre. S'ils s'avèrent être voisins, dans un jeu à 5 joueurs, le joueur à la droite de la paire doit échanger sa place avec l'adversaire à sa droite.
 
-In a 6-player game a similar procedure is used, but skipping the non-playing dealer. So if the kankei players are sitting immediately on each side of the dealer, the player to dealer's right exchanges seats with the next player to the right. If the two kankei players are next to each other and immediately to dealer's left, the player to dealer's left must exchange seats with the player to dealer's right.
+Dans un jeu à 6 joueurs, une procédure similaire est utilisée, mais en sautant le donneur non joueur. Ainsi, si les joueurs kankei sont assis de chaque côté du donneur, le joueur à la droite du donneur échange sa place avec le joueur suivant à droite. Si les deux joueurs kankei sont l'un à côté de l'autre et immédiatement à la gauche du donneur, le joueur à la gauche du donneur doit échanger sa place avec le joueur à la droite du donneur.
 
-### Play
+### Jeu
 
-Either of the two players in the kankei team, if he wants to lead to the first trick, says "Iku" (literally "I come.", i.e. "I play.") and leads. If he doesn't want to do so, he says "Koi" ("Come on"), and in this case his partner must lead to the first trick. If the two partners make conflicting announcements - both say "iku" at the same time or both say "koi" - then the kankei player who has two mukankei players to his right must lead.
+L'un ou l'autre des deux joueurs de l'équipe kankei, s'il veut entamer le premier pli, dit « Iku » (littéralement « Je viens », c'est-à-dire « Je joue ») et entame. S'il ne le souhaite pas, il dit « Koi » (« Viens »), et dans ce cas son partenaire doit entamer le premier pli. Si les deux partenaires font des annonces contradictoires — les deux disent « iku » en même temps ou les deux disent « koi » — alors le joueur kankei qui a deux joueurs mukankei à sa droite doit entamer.
 
-The play is counterclockwise. Playing the joker in the first or last trick is forbidden. With that exception, any card may be led to a trick. The other players must follow suit if possible. A player who has no card of the suit led may play any card. In tricks other than the first and last, the holder of the joker may play it irrespective of whether he was able to follow suit - playing the joker is known as "odoru" (dancing). The trick is won by the joker if played, or by the highest trump in the trick. A trick with no joker or trumps is won by the highest card of the suit led. The winner of a trick is known as "kenri", and this player leads to the next trick.
+Le jeu est antihoraire. Jouer le joker au premier ou au dernier pli est interdit. À cette exception près, n'importe quelle carte peut être entamée. Les autres joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte. Dans les plis autres que le premier et le dernier, le détenteur du joker peut le jouer indépendamment de sa capacité à suivre — jouer le joker est appelé « odoru » (danser). Le pli est remporté par le joker s'il est joué, ou par le plus haut atout du pli. Un pli sans joker ni atout est remporté par la plus haute carte de la couleur entamée. Le gagnant d'un pli est appelé « kenri », et ce joueur entame le pli suivant.
 
-If the holder of the joker leads it to a trick, he must announce what suit is to be played, and the other players must play the announced suit to the trick if possible. The holder of the joker cannot be forced to play the it until the second to last trick. When the joker must be played in the 9th trick, this is known as "odori ban" (dancing turn).
+Si le détenteur du joker l'entame dans un pli, il doit annoncer quelle couleur doit être jouée, et les autres joueurs doivent jouer la couleur annoncée s'ils le peuvent. Le détenteur du joker ne peut être forcé de le jouer avant l'avant-dernier pli. Quand le joker doit être joué au 9e pli, c'est appelé « odori ban » (le tour de danse).
 
-Scoring cards won in tricks are collected face up on the table in front of a member of the team that won them. Non-scoring cards played to tricks are gathered in a single face down pile by the dealer.
+Les cartes à points remportées dans les plis sont collectées face ouverte sur la table devant un membre de l'équipe qui les a gagnées. Les cartes sans valeur des plis sont rassemblées dans un seul tas face cachée par le donneur.
 
-At the end of the play, the scoring cards won by the kankei team are counted. If they are more than eight, then the kankei team has succeeded. If the kankei team has collected eight or fewer scoring cards, it has lost the deal and the round ends.
+À la fin du jeu, les cartes à points remportées par l'équipe kankei sont comptées. S'il y en a plus de huit, l'équipe kankei a réussi. Si l'équipe kankei a collecté huit cartes à points ou moins, elle a perdu la donne et le round se termine.
 
-If the game is played by six people, the dealer is regarded as a member of the kankei team. This means that the dealer wins or loses the same number of points as the active players in the kankei team, even though he doesn't play.
+Si le jeu se joue à six personnes, le donneur est considéré comme un membre de l'équipe kankei. Cela signifie que le donneur gagne ou perd le même nombre de points que les joueurs actifs de l'équipe kankei, même s'il ne joue pas.
 
-### Second and third deals of a round
+### Deuxième et troisième donnes d'un round
 
-The same dealer deals again, even if he is now sitting in a different seat having changed places with his neighbour after the first deal. The two players in the kankei team in the first deal are still partners. In the second or third deal of a round, the kankei team chooses the trump suit.
+Le même donneur redistribue, même s'il est maintenant assis à une place différente ayant échangé sa place avec son voisin après la première donne. Les deux joueurs de l'équipe kankei lors de la première donne restent partenaires. Dans la deuxième ou troisième donne d'un round, l'équipe kankei choisit la couleur d'atout.
 
-In the second deal, the player who held the joker in the first deal will choose the trump suit, but before he does so, the player who held the ace of trumps in the first deal may show his partner one or two cards from his hand, passing them across the table without showing them to the opponents. This can be done in various ways:
+Dans la deuxième donne, le joueur qui détenait le joker lors de la première donne choisit la couleur d'atout, mais avant de le faire, le joueur qui détenait l'as d'atout dans la première donne peut montrer à son partenaire une ou deux cartes de sa main, en les passant par-dessus la table sans les montrer aux adversaires. Cela peut se faire de diverses manières :
 
-- show two cards at the same time;
+- montrer deux cartes en même temps ;
 
-- show one card and take it back, then show another card;
+- montrer une carte et la reprendre, puis en montrer une autre ;
 
-- show one card and take it back, then show the same card again;
+- montrer une carte et la reprendre, puis montrer la même carte à nouveau ;
 
-- show just one card;
+- montrer juste une carte ;
 
-- show no cards at all (this is rarely done).
+- ne montrer aucune carte (rarement fait).
 
-The cards shown are used to suggest a trump suit (option 4), or two alternative suits with equal or unequal preference (options 1 and 2, the first suit shown in option 2 being preferred). Option 3 is used primarily to deceive the opponents into believing that two suits were offered. Having given back the cards that were shown, the joker-holder can choose any suit as trumps, including spades. He announces his choice and leads to the first trick.
+Les cartes montrées servent à suggérer une couleur d'atout (option 4), ou deux couleurs alternatives avec une préférence égale ou non (options 1 et 2, la première couleur montrée dans l'option 2 étant préférée). L'option 3 sert principalement à tromper les adversaires en leur faisant croire que deux couleurs ont été proposées. Après avoir rendu les cartes montrées, le détenteur du joker peut choisir n'importe quelle couleur comme atout, y compris les ![pique]. Il annonce son choix et entame le premier pli.
 
-The rules of play are the same as in the first deal of the game. The kankei team wins the second deal if it has collected eight or more scoring cards.
+Les règles du jeu sont les mêmes que dans la première donne. L'équipe kankei remporte la deuxième donne si elle a collecté huit cartes à points ou plus.
 
-In the third deal it is the holder of the joker from the first deal who shows one or two cards to his partner, using the same procedure as above, and the ace holder then chooses trumps and leads the first card. To win the third deal the kankei team needs to collect nine or more scoring cards, as in the first deal.
+Dans la troisième donne, c'est le détenteur du joker de la première donne qui montre une ou deux cartes à son partenaire, en utilisant la même procédure que ci-dessus, et le détenteur de l'as choisit ensuite les atouts et entame la première carte. Pour remporter la troisième donne, l'équipe kankei doit collecter neuf cartes à points ou plus, comme dans la première donne.
 
 ### Sukonku
 
-If the kankei team takes enough scoring cards to win (i.e. more than eight cards in the first or third deal of a round; more than seven cards in the second deal) before the mukankei team has taken a scoring card, the kankei team is entitled to stop the play and score an extra point for "sukonku". If this happens in the second or third deal of a round, the player who whose lead it is may opt instead to declare "juuroku" (see below) and continue playing.
+Si l'équipe kankei prend suffisamment de cartes à points pour gagner (c'est-à-dire plus de huit cartes dans la première ou troisième donne d'un round ; plus de sept cartes dans la deuxième donne) avant que l'équipe mukankei n'ait pris une carte à points, l'équipe kankei a le droit d'arrêter le jeu et de marquer un point supplémentaire pour « sukonku ». Si cela se produit dans la deuxième ou troisième donne d'un round, le joueur dont c'est le tour d'entamer peut choisir à la place de déclarer « juuroku » (voir ci-dessous) et continuer à jouer.
 
-If the mukankei team has takes enough scoring cards to win (at least 8 in the first or third deal of a round; at least 9 in the second) while the kankei team has taken no scoring cards, the mukankei team can stop the play and score extra points for "gyaku sukonku" (counter sukonku). If it is the second or third deal of the round, the player whose turn it is to lead may instead declare "gyaku juuroku" (see below) and continue playing.
+Si l'équipe mukankei prend suffisamment de cartes à points pour gagner (au moins 8 dans la première ou troisième donne d'un round ; au moins 9 dans la deuxième) alors que l'équipe kankei n'a pris aucune carte à points, l'équipe mukankei peut arrêter le jeu et marquer des points supplémentaires pour « gyaku sukonku » (contre sukonku). S'il s'agit de la deuxième ou troisième donne du round, le joueur dont c'est le tour d'entamer peut à la place déclarer « gyaku juuroku » (voir ci-dessous) et continuer à jouer.
 
-Note: "Sukonku" obviously derives from the English word "skunk", which is sometimes used in American card games for the situation where the loser fails to win a single point, or more generally, loses by a wide margin.
+Note : « Sukonku » vient évidemment du mot anglais « skunk », qui est parfois utilisé dans les jeux de cartes américains pour la situation où le perdant ne parvient pas à marquer un seul point, ou plus généralement, perd par une large marge.
 
-Juuroku (16) or gyaku juuroku is an undertaking that one's team will take all 16 scoring cards. It cannot be announced in the first deal of a round, but in the second or third deal it can be announced if either team achieves a sukonku, by the player who has just won a trick and is about to lead to the next. No discussion between partners is allowed: the player whose turn it is must decide alone whether to stop or continue. If the opponents of the announcing team take any scoring cards at all, the (gyaku) juuroku fails and the announcers also lose that deal.
+Juuroku (16) ou gyaku juuroku est un engagement selon lequel son équipe prendra les 16 cartes à points. Cela ne peut pas être annoncé dans la première donne d'un round, mais dans la deuxième ou troisième donne, cela peut être annoncé si l'une ou l'autre équipe réalise un sukonku, par le joueur qui vient de gagner un pli et qui s'apprête à entamer le suivant. Aucune discussion entre partenaires n'est autorisée : le joueur dont c'est le tour doit décider seul s'il arrête ou continue. Si les adversaires de l'équipe annonciatrice prennent des cartes à points, le (gyaku) juuroku échoue et les annonceurs perdent aussi cette donne.
 
-### Scoring
+### Comptage
 
-Scores for each player are calculated at the end of each round, as follows.
+Les scores de chaque joueur sont calculés à la fin de chaque round, comme suit.
 
-| Item | kankei | mukankei |
-| Each deal won by the kankei team | +1 | -1 |
-| Each deal won by the mukankei team | -1 | +1 |
-| Sukonku - play stopped | +1 | -1 |
-| Gyaku sukonku in the first deal | -10 | +10 |
-| Gyaku sukonku in the second or third deal - play stopped | -3 for the round | +3 for the round |
-| Juuroku succeeded | +8 | -8 |
-| Juuroku failed | -16 | +16 |
-| Gyaku juuroku succeeded | -16 for the round | +16 for the round |
-| Gyaku juuroku failed | +32 | -32 |
-| The kankei team has won three successive deals | +1 | -1 |
+| Élément | kankei | mukankei |
+| Chaque donne remportée par l'équipe kankei | +1 | -1 |
+| Chaque donne remportée par l'équipe mukankei | -1 | +1 |
+| Sukonku — jeu arrêté | +1 | -1 |
+| Gyaku sukonku dans la première donne | -10 | +10 |
+| Gyaku sukonku dans la deuxième ou troisième donne — jeu arrêté | -3 pour le round | +3 pour le round |
+| Juuroku réussi | +8 | -8 |
+| Juuroku échoué | -16 | +16 |
+| Gyaku juuroku réussi | -16 pour le round | +16 pour le round |
+| Gyaku juuroku échoué | +32 | -32 |
+| L'équipe kankei a remporté trois donnes successives | +1 | -1 |
 
 #### Notes
 
-- Each player scores all the points, positive and negative, due to his team.
+- Chaque joueur marque tous les points, positifs et négatifs, dus à son équipe.
 
-- If juuroku is announced, the point(s) for sukonku are not counted - only the points for the deal and for the juuroku.
+- Si juuroku est annoncé, le(s) point(s) de sukonku ne sont pas comptés — seuls les points de la donne et du juuroku.
 
-- In case of gyaku sukonku, the mukankei players score 3 points for the whole round and the kankei lose 3, all other scores for that round being cancelled.
+- En cas de gyaku sukonku, les joueurs mukankei marquent 3 points pour le round entier et le kankei perd 3, tous les autres scores de ce round étant annulés.
 
-- If gyaku juuroku succeeds, the mukankei players score 16 points for the whole round and the kankei lose 16, all other scores for that round being cancelled.
+- Si gyaku juuroku réussit, les joueurs mukankei marquent 16 points pour le round entier et le kankei perd 16, tous les autres scores de ce round étant annulés.
 
-#### Examples:
+#### Exemples :
 
-- If the kankei team has won three successive deals and succeeded in sukonku in the second deal, each player of that team gets five points: one for the first deal, one for the second deal, one for sukonku in the second deal, one for the third deal, and one for winning three deals. Each mukankei player loses 5 points.
+- Si l'équipe kankei a remporté trois donnes successives et réussi un sukonku dans la deuxième donne, chaque joueur de cette équipe obtient cinq points : un pour la première donne, un pour la deuxième, un pour le sukonku de la deuxième donne, un pour la troisième donne, et un pour avoir remporté trois donnes. Chaque joueur mukankei perd 5 points.
 
-- If the kankei team has won the first and the second deals and succeeded in juuroku in the second deal, but lost the third deal, each kankei player gets nine points: one for the first deal, one for the second deal, eight for juuroku in the second deal, less one for the third deal. Each mukankei player loses 9 points
+- Si l'équipe kankei a remporté la première et la deuxième donne et réussi un juuroku dans la deuxième donne, mais perdu la troisième donne, chaque joueur kankei obtient neuf points : un pour la première donne, un pour la deuxième donne, huit pour le juuroku de la deuxième donne, moins un pour la troisième donne. Chaque joueur mukankei perd 9 points.
 
-- If the kankei team wins a sukonku in the first deal, then the mukankei team tries for a gyaku juuroku in the second deal and fails, and the kankei team wins the third deal without sukonku, each member of the kankei team scores 40 points: in the first deal 1 for winning and 1 for sukonku; in the second deal 1 for winning, and the 3 points scored up to this point are doubled, making 6, and 32 points added for the failed gyaku juuroku; then 1 more point for winning the third deal and 1 for winning all three deals. The mukankei players lose the same 40 points.
+- Si l'équipe kankei réussit un sukonku dans la première donne, puis l'équipe mukankei tente un gyaku juuroku dans la deuxième donne et échoue, et l'équipe kankei remporte la troisième donne sans sukonku, chaque membre de l'équipe kankei marque 40 points : dans la première donne 1 pour la victoire et 1 pour le sukonku ; dans la deuxième donne 1 pour la victoire, et les 3 points marqués jusqu'à ce point sont doublés, soit 6, plus 32 points ajoutés pour le gyaku juuroku échoué ; puis 1 point supplémentaire pour avoir remporté la troisième donne et 1 pour avoir remporté les trois donnes. Les joueurs mukankei perdent les mêmes 40 points.
 
-A game ends when the agreed number of rounds have been played. The player who at that time has the most points is the winner.
+Un jeu se termine lorsque le nombre convenu de rounds a été joué. Le joueur qui a alors le plus de points est le gagnant.
 
-### Variations
+### Variantes
 
-In tournaments, in the second or third deal of a round, the partner of the trump maker must always show two cards (simultaneously or successively) or the same card twice, never just one card or no cards.
+En tournoi, dans la deuxième ou troisième donne d'un round, le partenaire du faiseur d'atout doit toujours montrer deux cartes (simultanément ou successivement) ou la même carte deux fois, jamais une seule carte ou aucune carte.
 
-Some play that if, in the first deal of a round, the same player holds both the joker and the ace of trumps, the cards are thrown in and there is a redeal by the same dealer.
+Certains jouent que si, dans la première donne d'un round, le même joueur détient à la fois le joker et l'as d'atout, les cartes sont remises et il y a une redistribution par le même donneur.
 
-Although this game is traditionally played anticlockwise, some players nowadays play clockwise.
+Bien que ce jeu se joue traditionnellement dans le sens antihoraire, certains joueurs jouent aujourd'hui dans le sens horaire.
 
-There are different methods of scoring. For example, some play that in case of a failed gyaku juuroku, the kankei not only score 32 points but also double all their other scores for the round up to this deal. The mukankei lose an equal number of points.
+Il existe différentes méthodes de comptage. Par exemple, certains jouent qu'en cas d'échec d'un gyaku juuroku, le kankei non seulement marque 32 points mais double aussi tous ses autres scores du round jusqu'à cette donne. Les mukankei perdent un nombre égal de points.
 
-Shippo-Jo (4 Aces and Joker). This variation is played in some informal games, but not in tournaments. If one team held and played all four aces and the joker, any member of other team can call "Shippo-Jo", and the deal is cancelled. The cards are thrown in, shuffled and redealt by the same dealer.
+Shippo-Jo (4 as et joker). Cette variante se joue dans certaines parties informelles, mais pas en tournoi. Si une équipe détient et joue les quatre as et le joker, n'importe quel membre de l'autre équipe peut appeler « Shippo-Jo », et la donne est annulée. Les cartes sont remises, mélangées et redistribuées par le même donneur.
 
-Here is an alternative scoring schedule for a five-player game with zero-sum scores, so that scores can be settled by passing coins between the players.
+Voici un barème de comptage alternatif pour un jeu à cinq joueurs avec des scores à somme nulle, de sorte que les scores peuvent être réglés en échangeant des pièces entre les joueurs.
 
-| Item | kankei | mukankei |
-| Each deal won by the kankei team | +3 | -2 |
-| Each deal won by the mukankei team | -3 | +2 |
-| Sukonku - play stopped | +3 | -2 |
-| Gyaku sukonku in the first deal | -12 | +8 |
-| Gyaku sukonku in the second or third deal - play stopped | -6 for the round | +4 for the round |
-| Juuroku succeeded | +15 | -10 |
-| Juuroku failed | -30 | +20 |
-| Gyaku juuroku succeeded | -15 for the round | +10 for the round |
-| Gyaku juuroku failed | +30 and other scores up to this deal doubled | -20 and other scores up to this deal doubled |
-| The kankei team has won three successive deals | +3 | -2 |
+| Élément | kankei | mukankei |
+| Chaque donne remportée par l'équipe kankei | +3 | -2 |
+| Chaque donne remportée par l'équipe mukankei | -3 | +2 |
+| Sukonku — jeu arrêté | +3 | -2 |
+| Gyaku sukonku dans la première donne | -12 | +8 |
+| Gyaku sukonku dans la deuxième ou troisième donne — jeu arrêté | -6 pour le round | +4 pour le round |
+| Juuroku réussi | +15 | -10 |
+| Juuroku échoué | -30 | +20 |
+| Gyaku juuroku réussi | -15 pour le round | +10 pour le round |
+| Gyaku juuroku échoué | +30 et les autres scores jusqu'à cette donne doublés | -20 et les autres scores jusqu'à cette donne doublés |
+| L'équipe kankei a remporté trois donnes successives | +3 | -2 |
 
 ## Yonin-Kan / Damari-Kan
 
-"Yonin-kan" means four-player Kan. In this game the 2, 3 and 4 of all suits and the 5 of spades are removed from the pack, leaving 40 cards including the joker, so that 10 cards can be dealt to each player.
+« Yonin-kan » signifie Kan à quatre joueurs. Dans ce jeu, le 2, le 3 et le 4 de toutes les couleurs et le 5 de ![pique] sont retirés du jeu, laissant 40 cartes dont le joker, de sorte que 10 cartes peuvent être distribuées à chaque joueur.
 
-In Yonin-kan, the kankei in the first deal of a round consists of the Joker holder and the holder of the Jack of trumps. These players do not announce who they are, so the partnerships do not become clear until these cards are played. For this reason, this game is also known as "Damari-Kan" (silent kan). If the same player has both the Joker and the Jack of the trumps ("ni-ju-kan"), this is still not announced. In this case the kankei consists of the player who holds these two cards and the player sitting opposite, who will not know at first that the joker-holder is his partner.
+Dans le Yonin-kan, le kankei lors de la première donne d'un round est composé du détenteur du Joker et du détenteur du V d'atout. Ces joueurs ne s'annoncent pas, de sorte que les partenariats ne deviennent clairs que lorsque ces cartes sont jouées. C'est pourquoi ce jeu est aussi appelé « Damari-Kan » (kan silencieux). Si le même joueur a le Joker et le V d'atout (« ni-ju-kan »), cela n'est toujours pas annoncé. Dans ce cas, le kankei est composé du joueur qui détient ces deux cartes et du joueur assis en face, qui ne saura pas d'abord que le détenteur du joker est son partenaire.
 
-In the first deal of a round, the holder of the Ace of Spades ("suppe poh") must lead this card to the first trick, unless Spades are trumps. When Spades are trumps (as in the final round of a match), the holder of the Ace of Clubs ("grafu poh") must lead it to the first trick.
+Dans la première donne d'un round, le détenteur de l'as de ![pique] (« suppe poh ») doit entamer cette carte au premier pli, sauf si les ![pique] sont l'atout. Quand les ![pique] sont l'atout (comme dans le dernier round d'un match), le détenteur de l'as de ![trèfle] (« grafu poh ») doit l'entamer au premier pli.
 
-Before the second deal of a round, if the kankei players are sitting next to each other, the right-hand kankei player must change places with the mukankei player to his or her right. In the second deal of a round, the player who held the Joker in the first deal looks at the first three cards that he or she was dealt and chooses the trump suit on the basis of these, before seeing the remainder of his or her cards. In the third deal of a round, the player who held the Jack of trumps in the first deal chooses trumps on the basis of his or her first three cards in the same way.
+Avant la deuxième donne d'un round, si les joueurs kankei sont assis l'un à côté de l'autre, le joueur kankei à droite doit échanger sa place avec le joueur mukankei à sa droite. Dans la deuxième donne d'un round, le joueur qui détenait le Joker lors de la première donne regarde les trois premières cartes qui lui ont été distribuées et choisit la couleur d'atout sur cette base, avant de voir le reste de ses cartes. Dans la troisième donne d'un round, le joueur qui détenait le V d'atout lors de la première donne choisit les atouts de la même manière en se basant sur ses trois premières cartes.
 
-In Yonin-Kan / Damari-Kan it is legal to play the joker to any trick, but if it is played to the first trick the player must announce a contract (see below). In the last trick the joker is no longer the strongest card: instead it counts as the weakest card of the suit that was led. So the only way in which the joker can win the last trick is if a player leads it and calls for a suit that no one has, and no player has a trump.
+Dans le Yonin-Kan / Damari-Kan, il est légal de jouer le joker à n'importe quel pli, mais s'il est joué au premier pli, le joueur doit annoncer un contrat (voir ci-dessous). Au dernier pli, le joker n'est plus la carte la plus forte : il compte comme la carte la plus faible de la couleur entamée. Ainsi, la seule façon pour le joker de gagner le dernier pli est qu'un joueur l'entame et appelle une couleur que personne n'a, et qu'aucun joueur n'a d'atout.
 
-### Contracts
+### Contrats
 
-Any player, when playing a card to the first trick of a deal, may announce a contract on behalf of his team. Announcing sukonku or gyaku sukonku commits one's team to take enough scoring cards to win before the opponents take any scoring cards. In the second or third deal of a match it is possible to announce juuroku or gyaku juuroku committing one's team to win all 16 scoring cards.
+N'importe quel joueur, en jouant une carte au premier pli d'une donne, peut annoncer un contrat au nom de son équipe. Annoncer sukonku ou gyaku sukonku engage son équipe à prendre suffisamment de cartes à points pour gagner avant que les adversaires ne prennent aucune carte à points. Dans la deuxième ou troisième donne d'un match, il est possible d'annoncer juuroku ou gyaku juuroku, engageant son équipe à gagner les 16 cartes à points.
 
-Note that a player who announces "sukonku" in the first deal of a round thereby indicates that he is a member of the kankei. There is the theoretical possibility that a member of the mukankei could announce "gyaku sukonku" in the first deal of a round, but it is nearly impossible for this contract to succeed when the kankei have the joker, so in practice it is never announced.
+À noter qu'un joueur qui annonce « sukonku » dans la première donne d'un round indique par là même qu'il est membre du kankei. Il y a la possibilité théorique qu'un membre du mukankei puisse annoncer « gyaku sukonku » dans la première donne d'un round, mais il est presque impossible que ce contrat réussisse lorsque le kankei a le joker, donc en pratique cela n'est jamais annoncé.
 
-The scores if a contract is announced are in principle twice the score for achieving the same thing without announcing it. The score for a failed contract is twice the score if it had succeeded. These scores replace the normal score for winning or losing that particular deal.
+Les scores lorsqu'un contrat est annoncé sont en principe le double du score pour réaliser la même chose sans l'annoncer. Le score d'un contrat échoué est le double du score s'il avait réussi. Ces scores remplacent le score normal de cette donne.
 
-| Contract | kankei | mukankei |
-| Sukonku succeeded | +4 | -4 |
-| Sukonku failed | -8 | +8 |
-| Gyaku sukonku succeeded in the first deal | -20 | +20 |
-| Gyaku sukonku failed in the first deal | +40 | -40 |
-| Gyaku sukonku succeeded in the second or third deal | -6 | +6 |
-| Gyaku sukonku failed in the second or third deal | +12 | -12 |
-| Juuroku succeeded | +16 | -16 |
-| Juuroku failed | -32 | +32 |
-| Gyaku juuroku succeeded | -32 | +32 |
-| Gyaku juuroku failed | +64 | -64 |
+| Contrat | kankei | mukankei |
+| Sukonku réussi | +4 | -4 |
+| Sukonku échoué | -8 | +8 |
+| Gyaku sukonku réussi dans la première donne | -20 | +20 |
+| Gyaku sukonku échoué dans la première donne | +40 | -40 |
+| Gyaku sukonku réussi dans la deuxième ou troisième donne | -6 | +6 |
+| Gyaku sukonku échoué dans la deuxième ou troisième donne | +12 | -12 |
+| Juuroku réussi | +16 | -16 |
+| Juuroku échoué | -32 | +32 |
+| Gyaku juuroku réussi | -32 | +32 |
+| Gyaku juuroku échoué | +64 | -64 |
 
 ## Gambari-Kan
 
-This is a three-player game, in which there is just one kankei player against a mukankei of two players. "Gambari" means "trying hard" - maybe because the lone kankei player tries hard to win the required number of scoring cards. Each round consists of just one deal with the kankei player chosen afresh, after which the turn to deal passes to the right.
+Il s'agit d'un jeu à trois joueurs, dans lequel il y a un seul joueur kankei contre un mukankei de deux joueurs. « Gambari » signifie « s'efforcer » — peut-être parce que le joueur kankei seul s'efforce de gagner le nombre requis de cartes à points. Chaque round se compose d'une seule donne avec le joueur kankei choisi à nouveau, après quoi le tour de distribuer passe à la droite.
 
-Gambari-Kan is played with just 30 cards, including the joker. All the 2's, 3's, 4's 5's and 6's and all the 7's except the 7 of spades are removed from the pack. As usual the dealer shuffles, has the cards cut, and deals 10 cards to each player.
+Le Gambari-Kan se joue avec seulement 30 cartes, dont le joker. Tous les 2, 3, 4, 5, 6 et tous les 7 sauf le 7 de ![pique] sont retirés du jeu. Comme d'habitude, le donneur mélange, fait couper les cartes, et distribue 10 cartes à chaque joueur.
 
-When the cards have been dealt, the player to dealer's right says either "kan" or "pass". If he says pass, the player to dealer's left has the same options; if he also passes the dealer has the same options.
+Une fois les cartes distribuées, le joueur à la droite du donneur dit soit « kan » soit « passe ». S'il passe, le joueur à la gauche du donneur a les mêmes options ; s'il passe aussi, le donneur a les mêmes options.
 
-If any player says "kan", that player plays alone as kankei and the other two players are the mukankei team. The kankei player leads to the first trick and as usual needs to take at least 9 scoring cards to win.
+Si un joueur dit « kan », ce joueur joue seul en tant que kankei et les deux autres joueurs forment l'équipe mukankei. Le joueur kankei entame le premier pli et comme d'habitude doit prendre au moins 9 cartes à points pour gagner.
 
-If all three players pass, the requirement for the kankei player is reduced to at least 8 scoring cards, and again each player in turn, beginning to dealer's right, has the chance to say "kan". If all pass again, the requirement to win the first deal is reduced to 7 scoring cards, then 6, and so on until someone says "kan" and becomes the kankei player.
+Si les trois joueurs passent, le seuil pour le joueur kankei est réduit à au moins 8 cartes à points, et à nouveau chaque joueur à son tour, en commençant par la droite du donneur, a la possibilité de dire « kan ». Si tous passent à nouveau, le seuil pour gagner la première donne est réduit à 7 cartes à points, puis 6, et ainsi de suite jusqu'à ce que quelqu'un dise « kan » et devienne le joueur kankei.
 
-## Special Cards
+## Cartes spéciales
 
-Although Kan is normally played with standard Anglo-American pattern playing-cards, Japon Brand manufactures a [special deck for Go-Nin-Kan](https://boardgamegeek.com/boardgame/25249/go-nin-kan), with suits of cherry blossom, beech leaf, apple fruit and snow crystal to represent the seasons spring, summer, autumn and winter.
-
-Home Page > Classified Index > Trick Taking Games > Picture Group > Kan
+Bien que Kan soit normalement joué avec des cartes au modèle anglo-américain standard, Japon Brand fabrique un [jeu spécial pour le Go-Nin-Kan](https://boardgamegeek.com/boardgame/25249/go-nin-kan), avec des couleurs de fleur de cerisier, feuille de hêtre, fruit de pomme et cristal de neige pour représenter les saisons printemps, été, automne et hiver.

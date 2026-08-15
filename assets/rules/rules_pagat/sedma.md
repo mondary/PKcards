@@ -3,104 +3,102 @@
 **Nombre de cartes :** 32
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** How to play the popular Czech card game Sedma in which a card can only be beaten by an equal card or a Seven..
+**But :** Comment jouer au populaire jeu de cartes tchèque Sedma, dans lequel une carte ne peut être battue que par une carte de même rang ou par un Sept.
 
 ---
 
 ## Introduction
 
-The Czech game **Sedma** (meaning 'seven') belongs to an unusual group of trick-taking games, found only in Eastern Europe, in which a card can be beaten only by an equal card or a seven. According to Tomáš Svoboda, whose book *Oficiální Pravidla Karetních Her* is the source of many of the variants on this page, it was introduced from Hungary or Slovakia in the 1960's, first to Moravia and then to Bohemia, where it quickly became popular because of its simple rules and interesting play. In Bohemia the game continued to evolve and several variations of the game are now played.
+Le jeu tchèque **Sedma** (signifiant « sept ») appartient à un groupe inhabituel de jeux de plis, qu'on ne trouve qu'en Europe de l'Est, dans lequel une carte ne peut être battue que par une carte de même rang ou par un sept. Selon Tomáš Svoboda, dont le livre *Oficiální Pravidla Karetních Her* est la source de nombreuses variantes sur cette page, il a été introduit de Hongrie ou de Slovaquie dans les années 1960, d'abord en Moravie puis en Bohême, où il est rapidement devenu populaire grâce à ses règles simples et son jeu intéressant. En Bohême, le jeu a continué à évoluer et plusieurs variantes sont maintenant jouées.
 
-## Players and cards
+## Joueurs et cartes
 
-Sedma is most interesting for two players or four players in fixed partnerships, partners sitting opposite. It can also be played by three, each playing for themselves.
+Sedma est le plus intéressant pour deux joueurs ou quatre joueurs en partenariats fixes, les partenaires s'asseyant en face. Il peut aussi se jouer à trois, chacun jouant pour soi.
 
-Normally a 32-card German-suited pack is used, with ace, king, over, under, ten, nine, eight and seven in each of the suits acorns, leaves, hearts and balls. If necessary a French-suited 32-card pack could be substituted. When three play, two unimportant cards - normally two eights or one eight and one nine - are removed from the pack, leaving 30 cards.
+Normalement, un jeu de 32 cartes allemandes est utilisé, avec as, roi, ober, unter, dix, neuf, huit et sept dans chacune des couleurs glands, feuilles, cœurs et cloches. Si nécessaire, un jeu français de 32 cartes peut être substitué. À trois joueurs, deux cartes sans importance — normalement deux huit ou un huit et un neuf — sont retirées du jeu, laissant 30 cartes.
 
-In the game, aces and tens are worth 10 points each. Other cards are worthless, but the last trick is worth 10 points, for a total of 90 points in each hand.
+Dans le jeu, les as et les dix valent 10 points chacun. Les autres cartes sont sans valeur, mais le dernier pli vaut 10 points, pour un total de 90 points dans chaque main.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## Distribution
 
-The dealer deals four cards to each player, usually two at a time. The remaining cards are stacked face down. 
+Le donneur distribue quatre cartes à chaque joueur, généralement deux à la fois. Les cartes restantes sont empilées face en bas.
 
-In the second and subsequent hands the cards are shuffled and dealt by the loser (one of the losers) of the previous hand, and the winner (a member of the winning team) leads to the first trick. In a four-player game this means that if the dealing team wins the turn to deal passes to the left, while if the dealing team loses the turn to deal passes to the dealer's partner.
+Dans les deuxième et mains suivantes, les cartes sont mélangées et distribuées par le perdant (l'un des perdants) de la main précédente, et le gagnant (un membre de l'équipe gagnante) entame le premier pli. Dans un jeu à quatre joueurs, cela signifie que si l'équipe qui distribue gagne, le tour de donne passe à gauche, tandis que si l'équipe qui distribue perd, le tour de donne passe au partenaire du donneur.
 
-## Play
+## Jeu
 
-The player to dealer's left leads to the first trick, and the other players in turn each play a card. Any card may be played to a trick. When everyone has played a card, the player who played first to the trick has two options:
+Le joueur à la gauche du donneur entame le premier pli, et les autres joueurs jouent chacun une carte à leur tour. N'importe quelle carte peut être jouée à un pli. Quand tout le monde a joué une carte, le joueur qui a joué en premier au pli a deux options :
 
-- end the trick, in which case it is won by the last player who played a card that is equal to the first card played to the trick or a seven;
+- terminer le pli, auquel cas il est gagné par le dernier joueur qui a joué une carte égale à la première carte jouée au pli ou un sept ;
 
-- continue the trick by playing another card that is equal to the first card or a seven.
+- continuer le pli en jouant une autre carte égale à la première carte ou un sept.
 
-If the first player continues the trick, the other players must each in turn play another card to it, after which the first player has the same options. The first player may choose to continue the trick for a third round, and again for a fourth round by continuing to play sevens or cards that match the very first card of the trick. The trick ends when the first player chooses to stop or everyone has played all four of their cards. The winner is the last person who either matched the card that began the trick or played a seven. The winner gathers all the cards played to the trick and stores them face down - in a partnership game partners keep their tricks together in a single pile. Then beginning with the winner of the trick, the players take turns to draw the top card from the face down pack, continuing until they all have four cards again. The winner of the trick then begins a new trick by leading any card.
+Si le premier joueur continue le pli, les autres joueurs doivent chacun jouer une autre carte à leur tour, après quoi le premier joueur a les mêmes options. Le premier joueur peut choisir de continuer le pli pour un troisième tour, et de nouveau pour un quatrième tour en continuant à jouer des septs ou des cartes correspondant à la toute première carte du pli. Le pli se termine quand le premier joueur choisit de s'arrêter ou que tout le monde a joué ses quatre cartes. Le gagnant est la dernière personne qui a soit égalé la carte qui a commencé le pli, soit joué un sept. Le gagnant ramasse toutes les cartes jouées au pli et les conserve face en bas — dans un jeu par équipe, les partenaires gardent leurs plis ensemble dans une seule pile. Ensuite, en commençant par le gagnant du pli, les joueurs tirent à tour de rôle la carte supérieure de la pioche face en bas, jusqu'à ce qu'ils aient tous quatre cartes à nouveau. Le gagnant du pli commence alors un nouveau pli en entamant n'importe quelle carte.
 
-When the pack runs out, the play continues as before using the cards that remain in the players' hands, until all the cards have been played.
+Lorsque la pioche est épuisée, le jeu continue comme avant avec les cartes restant dans la main des joueurs, jusqu'à ce que toutes les cartes aient été jouées.
 
-**Examples of play.** The players are N(orth), E(ast), S(outh) and W(est) and the cards are abbreviated to A, K, O, U, 10, 9, 8, 7. North begins the first trick.
+**Exemples de jeu.** Les joueurs sont N(ord), E(st), S(ud) et O(uest) et les cartes sont abrégées en A, R, O, U, 10, 9, 8, 7. Nord entame le premier pli.
 
-- N: 9, E: 10, S: U, W: 9, N: 9, E: 7, S: 8, W: 10. North decides to continue for a second round because West is winning, but East has a 7 and takes the trick, and West is able to give her partner another 10. North has no more 9's or 7's so has to stop. Everyone draws two cards. East won the trick so starts the next one.
+- N : 9, E : 10, S : U, O : 9, N : 9, E : 7, S : 8, O : 10. Nord décide de continuer pour un deuxième tour car Ouest est en train de gagner, mais Est a un 7 et prend le pli, et Ouest est capable de donner à sa partenaire un autre 10. Nord n'a plus de 9 ni de 7 et doit s'arrêter. Tout le monde tire deux cartes. Est a gagné le pli et entame le suivant.
 
-- E: A, S: 7, W: A, N: K. East is satisfied with this and stops. Everyone draws a card. West won so begins the next trick.
+- E : A, S : 7, O : A, N : R. Est en est satisfait et s'arrête. Tout le monde tire une carte. Ouest a gagné et entame le pli suivant.
 
-Note that in Sedma (unlike some other related games) you are allowed to continue a trick even if you or your partner are currently winning. It is sometimes advantageous to do so if your opponents seem to be under pressure, and may have to give you an ace or ten if you do not give them a chance to draw new cards.
+Notez que dans Sedma (contrairement à d'autres jeux apparentés), vous êtes autorisé à continuer un pli même si vous ou votre partenaire êtes en train de gagner. C'est parfois avantageux si vos adversaires semblent sous pression, et pourraient devoir vous donner un as ou un dix si vous ne leur donnez pas l'occasion de tirer de nouvelles cartes.
 
-## Scoring
+## Comptage des points
 
-When all the cards have been played, each player or team counts 10 points for each ace or ten they have in their tricks, and the player or team that won the last trick counts 10 points extra, for a total of 90 points in the game. 
+Lorsque toutes les cartes ont été jouées, chaque joueur ou équipe compte 10 points pour chaque as ou dix dans ses plis, et le joueur ou équipe qui a gagné le dernier pli compte 10 points supplémentaires, pour un total de 90 points dans le jeu.
 
-- If no player or team has all 90 points, the player or team with most points wins **1 stake**.
+- Si aucun joueur ou équipe n'a les 90 points, le joueur ou l'équipe avec le plus de points gagne **1 mise**.
 
-- A player or team that wins all 90 points, but not all the tricks, wins **2 stakes**.
+- Un joueur ou une équipe qui gagne les 90 points, mais pas tous les plis, gagne **2 mises**.
 
-- If one player or team wins all the cards, they win **3 stakes**.
+- Si un joueur ou une équipe gagne toutes les cartes, il gagne **3 mises**.
 
-In a 3-player game the winner is paid by both opponents. If two players tie for most points, the third player pays them 1 stake each. If all tie (30 each) there is no payment.
+Dans un jeu à 3 joueurs, le gagnant est payé par les deux adversaires. Si deux joueurs sont à égalité pour le plus grand nombre de points, le troisième joueur leur paie 1 mise chacun. Si tous sont à égalité (30 chacun), il n'y a pas de paiement.
 
-## Variations
+## Variantes
 
-There are several different ways of scoring.
+Il y a plusieurs façons différentes de compter les points.
 
-- The stakes won may just be recorded as points for the winning side, and the first to an agreed target, for example 10 points, wins the game. (In the 3-player game you would give the winner 1, 2 or 3 points, or both winners 1 point in the event of a 2-way tie).
+- Les mises gagnées peuvent simplement être enregistrées comme des points pour le camp gagnant, et le premier à atteindre un objectif convenu, par exemple 10 points, gagne la partie. (Dans le jeu à 3 joueurs, vous donneriez au gagnant 1, 2 ou 3 points, ou aux deux gagnants 1 point en cas d'égalité à deux).
 
-- In a two- or four-player game, some play that the winning player or team scores the difference in card points between the two teams and a running total of each team's points are kept. 
+- Dans un jeu à deux ou quatre joueurs, certains jouent que le joueur ou l'équipe gagnante marque la différence de points de cartes entre les deux équipes et un total cumulé des points de chaque équipe est conservé.
 
-- Some play that each player or team scores the points that they took. Some play that there are 100 points available in each hand: 80 for the aces and tens, 10 for the last trick, and 10 extra points that go into a pool. When a player or team wins all the points in a hand and the last trick, they score 100 points plus all points that have accumulated in the pool, which is thereby reduced to zero.
+- Certains jouent que chaque joueur ou équipe marque les points qu'il a pris. Certains jouent qu'il y a 100 points disponibles dans chaque main : 80 pour les as et les dix, 10 pour le dernier pli, et 10 points supplémentaires qui vont dans un pot. Quand un joueur ou une équipe gagne tous les points d'une main et le dernier pli, il marque 100 points plus tous les points accumulés dans le pot, qui est ainsi réduit à zéro.
 
-**Spálená kaše** (burned mash). Some play that in a two- or four-player game, if a trick consists of four cards of the same rank played consecutively - for example 9, 9, 9, 9 - the fourth player (or the fourth player's team) immediately wins the hand for 1 stake. Some play that in case of a burned seven *(spálená sedma*: a trick consisting of four sevens), the fourth player immediately wins the hand for 3 stakes. Some play a *spálená kaše* is worth 4 stakes. Some play that an ordinary *spálená kaše* is worth 5 stakes, burned tens are worth 10 stakes and burned sevens are worth 15 stakes.
+**Spálená kaše** (purée brûlée). Certains jouent que dans un jeu à deux ou quatre joueurs, si un pli se compose de quatre cartes du même rang jouées consécutivement — par exemple 9, 9, 9, 9 — le quatrième joueur (ou l'équipe du quatrième joueur) gagne immédiatement la main pour 1 mise. Certains jouent que dans le cas d'un sept brûlé (*spálená sedma* : un pli composé de quatre septs), le quatrième joueur gagne immédiatement la main pour 3 mises. Certains jouent qu'une *spálená kaše* vaut 4 mises. Certains jouent qu'une *spálená kaše* ordinaire vaut 5 mises, les dix brûlés valent 10 mises et les septs brûlés valent 15 mises.
 
-According to the Czech Wikipedia page on Sedma, some play with a different form of burning. If a player at any point collects a hand consisting of four equal cards, the play ends and that player's team immediately wins a burned game (*spálená hra*) for 4 stakes.
+Selon la page Wikipédia tchèque sur Sedma, certains jouent avec une forme différente de brûlure. Si un joueur à un moment quelconque constitue une main de quatre cartes égales, le jeu s'arrête et l'équipe de ce joueur gagne immédiatement une main brûlée (*spálená hra*) pour 4 mises.
 
-Three players can play as teams. The player who has the king of leaves (or in some variants the king of hearts) plays alone against the other two in partnership, and the king of leaves (or hearts) functions in the same way as a seven. With three players there is no winning by burning - four consecutively played equal cards do not win the hand.
+Trois joueurs peuvent jouer en équipe. Le joueur qui a le roi de feuilles (ou dans certaines variantes le roi de cœurs) joue seul contre les deux autres en partenariat, et le roi de feuilles (ou de cœurs) fonctionne de la même manière qu'un sept. À trois joueurs, il n'y a pas de victoire par brûlure — quatre cartes égales jouées consécutivement ne gagnent pas la main.
 
-Svoboda's *Oficiální Pravidla* mentions a three-player version with 32 cards, in which one of the tricks contains only two cards. If the first seven tricks are played normally, after the seventh trick only two players will be able to draw cards and one player will have no card for the last trick. Zbyněk Hartmann suggests that perhaps on one occasion during the game, before the deck is exhausted, a player is allowed to pass instead of playing to a trick. In this case the remaining tricks will be full 3-card tricks.
+L'*Oficiální Pravidla* de Svoboda mentionne une version à trois joueurs avec 32 cartes, dans laquelle l'un des plis ne contient que deux cartes. Si les sept premiers plis sont joués normalement, après le septième pli seuls deux joueurs pourront tirer des cartes et un joueur n'aura pas de carte pour le dernier pli. Zbyněk Hartmann suggère que peut-être à une occasion pendant le jeu, avant que la pioche ne soit épuisée, un joueur est autorisé à passer au lieu de jouer à un pli. Dans ce cas, les plis restants seront des plis complets à 3 cartes.
 
-There is a version of Sedma in which aces and tens have no special value. Instead the objective is simply to win tricks, each of the eight tricks being worth 1 point.
+Il existe une version de Sedma dans laquelle les as et les dix n'ont pas de valeur spéciale. L'objectif est simplement de gagner des plis, chacun des huit plis valant 1 point.
 
 ### Sedma osmová
 
-In this relatively recent Bohemian variant, described in Svoboda's *Oficiální Pravidla*, whose name means something like 'seven with eights', the mechanics of play and scoring are the same as in Sedma, except that the eights as well as the sevens are wild cards. The rules on winning tricks are as follows:
+Dans cette variante bohémienne relativement récente, décrite dans l'*Oficiální Pravidla* de Svoboda, dont le nom signifie quelque chose comme « sept avec les huit », la mécanique du jeu et le comptage sont les mêmes que dans Sedma, sauf que les huit ainsi que les septs sont des cartes maîtresses. Les règles pour gagner les plis sont les suivantes :
 
-- a card that is equal to the first card in the trick can beat an equal card, or a seven, or an eight;
+- une carte égale à la première carte du pli peut battre une carte égale, ou un sept, ou un huit ;
 
-- an eight can beat a card that is equal to the first card in the trick, or a seven or another eight;
+- un huit peut battre une carte égale à la première carte du pli, ou un sept ou un autre huit ;
 
-- a seven can beat a card that is equal to the first card in the trick, or another seven, but **not** an eight.
+- un sept peut battre une carte égale à la première carte du pli, ou un autre sept, mais **pas** un huit.
 
-For example in a trick consisting of A-8-9-7 the 8 wins, but in A-8-A-7 the 7 wins because the A beats the 8 and then the 7 beats the A.
+Par exemple, dans un pli composé de A-8-9-7 le 8 gagne, mais dans A-8-A-7 le 7 gagne parce que le A bat le 8 puis le 7 bat le A.
 
-Svoboda also describes a version of Sedma osmová which combines traditional Sedma scoring with scoring for tricks. Aces and tens are worth 10 points, each trick is worth 10 points and the last trick is worth an extra 10 points for a total of 170 points in the game. 
+Svoboda décrit aussi une version de Sedma osmová qui combine le comptage traditionnel du Sedma avec le comptage des plis. Les as et les dix valent 10 points, chaque pli vaut 10 points et le dernier pli vaut 10 points supplémentaires, pour un total de 170 points dans le jeu.
 
-### Slovak Sedma
+### Sedma slovaque
 
-In Slovakia, there are no extra points for the last trick. The turn to deal passes to the next player at the end of a hand only if the dealer's opponents took at least 60 points in cards; otherwise the same player deals again.
+En Slovaquie, il n'y a pas de points supplémentaires pour le dernier pli. Le tour de donne ne passe au joueur suivant qu'à la fin d'une main que si les adversaires du donneur ont pris au moins 60 points en cartes ; sinon le même joueur redistribue.
 
-Laco Kováč describes a popular variant in which a player or team wins 1 stake if they take **exactly** 60 points (the opponent(s) having 20) or 2 stakes if they win all the cards. In all other cases there is no score, and the same player deals again. Even a score of 80-0 is not a win if the side with 0 points has taken at least one empty trick. To win, a player or team must either win every trick or arrange to give the opponent(s) exactly 20 points.
+Laco Kováč décrit une variante populaire dans laquelle un joueur ou une équipe gagne 1 mise s'il prend **exactement** 60 points (l'adversaire en ayant 20) ou 2 mises s'il gagne toutes les cartes. Dans tous les autres cas, il n'y a pas de score, et le même joueur redistribue. Même un score de 80-0 n'est pas une victoire si le camp avec 0 points a pris au moins un pli vide. Pour gagner, un joueur ou une équipe doit soit gagner tous les plis, soit s'arranger pour donner à l'adversaire exactement 20 points.
 
-In this variant, if the very last card in the last trick is a 7 and the team of the last player has not yet won any tricks, that final 7 cannot win the last trick. So for example if A and C play against B and D who have not yet won a trick, and the last trick is A:10, B:9, C:9, D:7, D's 7, is worthless and A/C win the last trick and 2 stakes. However, if the last trick is A:10, B:7, C:9, D:9, B's 7 wins the last trick (since it is not the last card), so the result is 90-10 and there is no winner.
+Dans cette variante, si la toute dernière carte du dernier pli est un 7 et que l'équipe du dernier joueur n'a pas encore gagné de pli, ce 7 final ne peut pas gagner le dernier pli. Ainsi, par exemple, si A et C jouent contre B et D qui n'ont pas encore gagné de pli, et que le dernier pli est A:10, B:9, C:9, D:7, le 7 de D est sans valeur et A/C gagne le dernier pli et les 2 mises. Cependant, si le dernier pli est A:10, B:7, C:9, D:9, le 7 de B gagne le dernier pli (puisque ce n'est pas la dernière carte), donc le résultat est 90-10 et il n'y a pas de gagnant.
 
-Sometimes this game is played in a 2-player format known as 'soccer'. A game of soccer consists of 8 games of sedma, as described above (half time is after 4 games). Each stake represents a goal. The player considered to be the 'home team' leads to the first trick in each game, or if the game is in a neutral stadium, the players take turns to lead to the first trick.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Sedma Group > Sedma
+Parfois ce jeu se joue en format à 2 joueurs appelé « football ». Une partie de football se compose de 8 parties de sedma, comme décrit ci-dessus (la mi-temps est après 4 parties). Chaque mise représente un but. Le joueur considéré comme l'« équipe à domicile » entame le premier pli de chaque partie, ou si le jeu se déroule dans un stade neutre, les joueurs alternent pour entamer le premier pli.

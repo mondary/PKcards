@@ -52,6 +52,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Batch Point-trick : 9 fiches FR
 - [x] Batch Reverse : 7 fiches FR
 - [x] Batch Banque/bluff/mises : 36 fiches FR
+- [x] Batch Compilations/divers : 49 fiches FR
 - [ ] Traduction/résumé FR des 394 fiches anglaises (par batches)
 
 ---

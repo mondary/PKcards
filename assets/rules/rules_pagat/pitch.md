@@ -2,249 +2,248 @@
 
 **Difficulté :** —
 **Type :** All Fours, Plis
-**But :** With links to software and other resources.
+**But :** Avec des liens vers des logiciels et d'autres ressources.
 
 ---
 
-**Pitch** is also known as **Setback** or **High-Low-Jack**. There is also a set of very similar games known as **Smear**, which are described on a separate page.
+**Pitch** est aussi connu sous le nom de **Setback** ou **High-Low-Jack**. Il existe aussi un ensemble de jeux très similaires connus sous le nom de **Smear**, qui sont décrits sur une page séparée.
 
 ## Introduction
 
-Pitch is a North American game, derived from the old English game of All Fours (which was also known in America as Seven Up or Old Sledge). Pitch is All Fours with bidding added. Some of the newer versions of Pitch include other features such as extra points and an opportunity to improve one's hand by taking extra cards and discarding.
+Pitch est un jeu nord-américain, dérivé de l'ancien jeu anglais All Fours (aussi connu en Amérique sous le nom de Seven Up ou Old Sledge). Pitch est un All Fours avec des enchères ajoutées. Certaines des versions plus récentes de Pitch incluent d'autres caractéristiques comme des points supplémentaires et une opportunité d'améliorer sa main en prenant des cartes supplémentaires et en écartant.
 
-There are two main types of Pitch game: Partnership Pitch (played with partners, obviously) and Cutthroat Pitch (in which everyone plays for themselves). Whereas card game books tend to concentrate on Cutthroat Pitch, most of the e-mail I get is about Partnership Pitch, and this preference is reflected in the balance of information on this page. I have the impression that Cutthroat Pitch is more often played on the coasts, and usually for money. The various types of Partnership Pitch are most popular in the mid-west and are family or social games played to a score. There are many variations of pitch, mostly involving increasing the number of points from four to five, ten or more by introducing extra scoring trumps.
+Il y a deux types principaux de Pitch : le Pitch en partenariat (joué avec des partenaires, évidemment) et le Pitch Cutthroat (dans lequel chacun joue pour soi). Alors que les livres de jeux de cartes tendent à se concentrer sur le Pitch Cutthroat, la plupart des courriels que je reçois concernent le Pitch en partenariat, et cette préférence se reflète dans l'équilibre des informations sur cette page. J'ai l'impression que le Pitch Cutthroat est plus souvent joué sur les côtes, et généralement pour de l'argent. Les divers types de Pitch en partenariat sont les plus populaires dans le mid-west et sont des jeux familiaux ou sociaux joués à un score. Il existe de nombreuses variantes de Pitch, impliquant généralement l'augmentation du nombre de points de quatre à cinq, dix ou plus en introduisant des atouts à points supplémentaires.
 
-## Partnership Pitch
+## Pitch en partenariat
 
-*This description is based on a contribution from Brian Gordon.*
+*Cette description est basée sur une contribution de Brian Gordon.*
 
-### Players and Cards
+### Joueurs et cartes
 
-The deck is a standard American deck of fifty-two cards, ace high. The game is usually for four players in two teams, partners sitting across from each other. The game is played clockwise.
+Le jeu est un jeu américain standard de cinquante-deux cartes, as en haut. Le jeu est généralement pour quatre joueurs en deux équipes, les partenaires étant assis en face. Le jeu se fait dans le sens des aiguilles d'une montre.
 
-### Deal
+### La donne
 
-Each player receives six cards, dealt three at a time. The turn to deal rotates clockwise after each hand.
+Chaque joueur reçoit six cartes, distribuées trois par trois. Le tour de donne tourne dans le sens des aiguilles d'une montre après chaque main.
 
-### Bidding
+### Enchères
 
-There is one round of bidding. The possible bids are **two**, **three**, **four** and **smudge** (smudge is really a bid of five). Each player in turn either passes or bids higher than the previous bid if any, except for the dealer, who, having last bid, may "steal the bid" by bidding the same as the highest bid. The final bidder becomes the **pitcher**, and has the right to name trump and lead to the first trick. 
+Il y a un seul tour d'enchères. Les enchères possibles sont **deux**, **trois**, **quatre** et **smudge** (smudge est en fait une enchère de cinq). Chaque joueur à tour de rôle passe ou enchérit plus haut que l'enchère précédente, sauf le donneur, qui ayant le dernier mot, peut « voler l'enchère » en enchérissant le même montant que l'enchère la plus haute. Le dernier enchérisseur devient le **pitcher** et a le droit de nommer l'atout et de mener la première levée.
 
-If the first three players pass, the dealer must bid at least the minimum bid of **two**. This is called a "force bid". 
+Si les trois premiers joueurs passent, le donneur doit enchérir au moins l'enchère minimum de **deux**. C'est appelé une « enchère forcée ».
 
-The bids represent how many of the following four items will be won when the tricks of the game are played out:
+Les enchères représentent combien des quatre éléments suivants seront gagnés lorsque les levées du jeu seront jouées :
 
-**High** awarded to the team which holds the highest card in the trump suit in play, i.e. the ace if it has been dealt;
-**Low** awarded to the team which wins the trick containing the lowest trump card in play, i.e. the two if it has been dealt. If the two is not dealt in play, the three may be low. If the three was not dealt either, the four, and so on;
-**Jack** awarded to the team which wins the trick containing the jack of trumps. If the jack of trumps was not dealt no one gets this point;
-**Game** awarded to the team which has the higher total value of cards in its tricks. Card values are as follows: 
+**High** attribué à l'équipe qui détient la plus haute carte de la couleur d'atout en jeu, c'est-à-dire l'as s'il a été distribué ;
+**Low** attribué à l'équipe qui gagne la levée contenant la plus basse carte d'atout en jeu, c'est-à-dire le deux s'il a été distribué. Si le deux n'a pas été distribué, le trois peut être le low. Si le trois n'a pas été distribué non plus, le quatre, et ainsi de suite ;
+**Jack** attribué à l'équipe qui gagne la levée contenant le valet d'atout. Si le valet d'atout n'a pas été distribué, personne ne marque ce point ;
+**Game** attribué à l'équipe qui a la valeur totale la plus élevée de cartes dans ses levées. Les valeurs des cartes sont les suivantes :
 
-| each ace | 4 |
-| each king | 3 |
-| each queen | 2 |
-| each jack | 1 |
-| each ten | 10 |
+| chaque as | 4 |
+| chaque roi | 3 |
+| chaque dame | 2 |
+| chaque valet | 1 |
+| chaque dix | 10 |
 
-The total value of all the cards in the deck is 80, and whichever side has the higher total in its tricks gets the point for game. In case of a tie, no one gets this point.
+La valeur totale de toutes les cartes du jeu est de 80, et le côté qui a le total le plus élevé dans ses levées obtient le point de game. En cas d'égalité, personne ne marque ce point.
 
-The bid of **smudge** requires all six tricks to be won by the declaring side, in addition to the four items listed above. (Sometimes a team can win all the tricks, but if the jack of trumps was not dealt, that is not sufficient to win a smudge bid.)
+L'enchère de **smudge** nécessite que les six levées soient gagnées par l'équipe déclarante, en plus des quatre éléments énumérés ci-dessus. (Parfois, une équipe peut gagner toutes les levées, mais si le valet d'atout n'a pas été distribué, cela ne suffit pas pour gagner une enchère smudge.)
 
-### The play
+### Le jeu
 
-The pitcher leads a card to the first trick, and the suit of this card becomes the trump suit. The winner of each trick leads the next, and may lead any card. A player who has a card of the suit led must either follow suit or trump. Players may play trump on any trick, **even if they can follow suit**. A player who has no cards of the suit led can play anything - either a trump or a card of another suit. Each trick is won by the highest trump card played, or if there are no trumps in it then by the highest card in the suit led. 
+Le pitcher mène une carte à la première levée, et la couleur de cette carte devient la couleur d'atout. Le gagnant de chaque levée mène la suivante et peut mener n'importe quelle carte. Un joueur qui a une carte de la couleur menée doit soit suivre la couleur soit contrer. Les joueurs peuvent contrer à n'importe quelle levée, **même s'ils peuvent suivre la couleur**. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quoi — soit un atout, soit une carte d'une autre couleur. Chaque levée est gagnée par la plus haute carte d'atout jouée, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur menée.
 
-### Scoring
+### Comptage des points
 
-Each of the items High, Low, Jack and Game is worth one point. If you bid and make your bid, you get the number of points you make (in other words, if you bid two and make four, your team scores four points). However, to score five points (smudge), you need to actually bid smudge - if you bid four, and actually win all the tricks, including the jack of trump, you still only score four. The opposing team makes whatever number of points they earn. For example if the declarer's team bid two, but the opponents capture the 2 of trump, the opponents score one for Low. 
+Chacun des éléments High, Low, Jack et Game vaut un point. Si vous enchérissez et réalisez votre enchère, vous marquez le nombre de points que vous avez faits (autrement dit, si vous enchérissez deux et faites quatre, votre équipe marque quatre points). Cependant, pour marquer cinq points (smudge), vous devez avoir réellement enchéri smudge — si vous enchérissez quatre et gagnez réellement toutes les levées, y compris le valet d'atout, vous ne marquez toujours que quatre. L'équipe adverse marque le nombre de points qu'elle gagne. Par exemple, si l'équipe du déclarant a enchéri deux, mais que les adversaires capturent le 2 d'atout, les adversaires marquent un pour Low.
 
-If a team fails to make its bid is said to be **set**. It loses (or is **set back**) the value of the bid, while the other team again scores whatever points it makes. 
+Si une équipe échoue à réaliser son contrat, on dit qu'elle est **set**. Elle perd (ou est **set back**) la valeur de l'enchère, tandis que l'autre équipe marque les points qu'elle fait.
 
-Note that if a side that bids smudge loses a trick, the bid has failed and they will be set back 5 points no matter what happens after that. However, the play must be continued to the end to give the other side a chance to score points. 
+Notez que si un côté qui a enchéri smudge perd une levée, l'enchère a échoué et il sera *set back* de 5 points quoi qu'il arrive ensuite. Cependant, le jeu doit être continué jusqu'à la fin pour donner à l'autre côté une chance de marquer des points.
 
-A cumulative score is kept for each team. A team's score can be negative.
+Un score cumulé est conservé pour chaque équipe. Le score d'une équipe peut être négatif.
 
-### Winning the Game
+### Gagner la partie
 
-In order to win, a team needs at least 21 points, but they can **only** win at the end of a hand in which they **made their bid**. A team which reaches 21 or more on a hand where they are against the declarer - nor do they win if they bid and lose a contract, but still have 21 or more points.
+Pour gagner, une équipe a besoin d'au moins 21 points, mais elle ne peut gagner **qu'à la fin d'une main dans laquelle elle a réalisé son contrat**. Une équipe qui atteint 21 ou plus lors d'une main où elle est contre le déclarant ne gagne pas — pas plus qu'elle ne gagne si elle enchérit et perd un contrat, mais a toujours 21 points ou plus.
 
-It is therefore possible for the winning team to have fewer points than the losing team. For example, suppose that we have 18 points and they have 24, but they have not yet won because they acquired their last 4 points playing against our bids. If we now bid 3 and make it, and they take 1 point, **we win**, even though we have just 21 points while they have 25.
+Il est donc possible que l'équipe gagnante ait moins de points que l'équipe perdante. Par exemple, supposons que nous avons 18 points et qu'ils ont 24, mais qu'ils n'ont pas encore gagné parce qu'ils ont acquis leurs 4 derniers points en jouant contre nos enchères. Si nous enchérissons maintenant 3 et le réalisons, et qu'ils prennent 1 point, **nous gagnons**, même si nous n'avons que 21 points alors qu'ils en ont 25.
 
-## Partnership Variations
+## Variantes en partenariat
 
-### Draw
+### Pioche (Draw)
 
-After trump is declared, players discard any cards they don't want face down, and the dealer replenishes their hands to six cards from the undealt portion of the deck. It is illegal to discard trump, and normally, players will discard all their non-trump cards in the hope of replacing them with trump. This makes it more likely that the ace, two, and jack will end up in play.
+Après que l'atout est déclaré, les joueurs écartent les cartes qu'ils ne veulent pas face cachée, et le donneur renouvelle leurs mains à six cartes à partir de la partie non distribuée du jeu. Il est interdit d'écarter des atouts, et normalement, les joueurs écarteront toutes leurs non-atouts en espérant les remplacer par des atouts. Cela rend plus probable que l'as, le deux et le valet finiront en jeu.
 
 ### Pitching
 
-A player may lead (or "pitch") a card insetad of bidding. Pitching in this way is equivalent to a bid of four with the led suit as trump. If someone pitches, none of the other players can bid, except for the dealer, who still has the option to take the bid by pitching or announcing a smudge. If the dealer does take the bid in this way, the original bidder must take back the card they pitched. Some play that if the dealer does this and is set, the loss is doubled.
+Un joueur peut mener (ou « pitcher ») une carte au lieu d'enchérir. Faire un *pitch* de cette façon équivaut à une enchère de quatre avec la couleur menée comme atout. Si quelqu'un fait un *pitch*, aucun des autres joueurs ne peut enchérir, sauf le donneur, qui a toujours l'option de prendre l'enchère en faisant un *pitch* ou en annonçant un smudge. Si le donneur le fait et est *set*, la perte est doublée.
 
-### Six players
+### Six joueurs
 
-The six player game is two against two against two, all sitting opposite their partners. Instead of six cards, each is dealt eight. There is no draw, but everyone discards two cards after trump is announced.
+Le jeu à six joueurs est deux contre deux contre deux, tous assis en face de leurs partenaires. Au lieu de six cartes, chacun en reçoit huit. Il n'y a pas de pioche, mais tout le monde écarte deux cartes après que l'atout est annoncé.
 
-### No trumps on first trick.
+### Pas d'atout à la première levée
 
-In this variation, the declarer is allowed to make a non-trump lead. In this case it is *illegal* for any player to a play a trump on the first trick. Usually the declarer will use this opportunity to lead the ace of another suit, so that partner may throw the ten (for game points) under it.
+Dans cette variante, le déclarant est autorisé à mener un non-atout. Dans ce cas, il est *interdit* pour tout joueur de jouer un atout à la première levée. Habituellement, le déclarant utilisera cette opportunité pour mener l'as d'une autre couleur, pour que le partenaire puisse y jeter le dix (pour les points de game).
 
 ### Smear
 
-There is a group of Pitch variations which go by the name of Smear. These are described on the Smear page of this site.
+Il existe un groupe de variantes de Pitch qui portent le nom de Smear. Elles sont décrites sur la page Smear de ce site.
 
 ### Five Point Set Back
 
-On his former [Set Back](https://web.archive.org/web/20010811100534/www.quality.nu/bradw/games/setback.html) page, Brad Wilson described a partnership version with five points: high, low, right, left, game. The "right bower" is the trump jack and the "left bower" is the off jack, ranking just below it. Note that these two cards rank between the queen and ten of trumps, not at the top of the suit as in Euchre.
+Sur son ancienne page [Set Back](https://web.archive.org/web/20010811100534/www.quality.nu/bradw/games/setback.html), Brad Wilson a décrit une version en partenariat avec cinq points : high, low, right, left, game. Le « right bower » est le valet d'atout et le « left bower » est le *off jack*, classé juste en dessous. Notez que ces deux cartes se classent entre la dame et le dix d'atout, pas en haut de la couleur comme à l'Euchre.
 
-This game is played with a 28 card pack: the cards from 3 to 8 of a 52 card pack are removed, leaving A, K, Q, J, 10, 9, 2 in each suit. Six cards are dealt to each player, in threes, and the remaining cards are not used. You can bid any number from 1 to 5, and the bidding can go around the table several times if necessary, but you cannot bid any more after you have passed. When everyone has passed except the high bidder, or someone has bid five, the bidding ends. The high bidder nominates trumps and leads any card to the first trick. Players must follow suit, except that a non-trump lead may be trumped even if you have a card of the suit led.
+Ce jeu se joue avec un jeu de 28 cartes : les cartes de 3 à 8 d'un jeu de 52 cartes sont retirées, laissant A, R, D, V, 10, 9, 2 dans chaque couleur. Six cartes sont distribuées à chaque joueur, par trois, et les cartes restantes ne sont pas utilisées. Vous pouvez enchérir n'importe quel nombre de 1 à 5, et les enchères peuvent aller autour de la table plusieurs fois si nécessaire, mais vous ne pouvez plus enchérir après avoir passé. Quand tout le monde a passé sauf le plus fort enchérisseur, ou que quelqu'un a enchéri cinq, les enchères s'arrêtent. Le plus fort enchérisseur nomme l'atout et mène n'importe quelle carte à la première levée. Les joueurs doivent suivre la couleur, sauf qu'un non-atout mené peut être contré même si vous avez une carte de la couleur menée.
 
-As usual the bidding team score the points if they fulfill the bid, and are set back the amount of the bid if they don't. The bidder's opponents always score the points they make. The first team to reach 12 or more points wins.
+Comme d'habitude, l'équipe qui a enchéri marque les points si elle remplit le contrat, et est *set back* du montant de l'enchère si elle ne le fait pas. Les adversaires de l'enchérisseur marquent toujours les points qu'ils font. La première équipe à atteindre 12 points ou plus gagne.
 
-### Arizona 29-card Pitch
+### Arizona 29-cartes Pitch
 
-This is another game using a shortened deck: A-K-Q-J-10-9-6 in each suit plus a joker, ranking between the jack and ten of trumps. There are points for high, low, jack, joker and game. Here is an archive copy of the rules from [blakeware.com](https://web.archive.org/web/20100314124545/http://blakeware.com/rules.htm).
+C'est un autre jeu utilisant un jeu réduit : A-R-D-V-10-9-6 dans chaque couleur plus un joker, classé entre le valet et le dix d'atout. Il y a des points pour high, low, jack, joker et game. Voici une copie d'archive des règles de [blakeware.com](https://web.archive.org/web/20100314124545/http://blakeware.com/rules.htm).
 
 ### Oklahoma Ten Point Pitch
 
-*This variation from Oklahoma was contributed by Al Connor. It is very closely related to Minnesota Smear.* 
+*Cette variante de l'Oklahoma a été contribuée par Al Connor. Elle est très étroitement liée au Minnesota Smear.*
 
-**1. Players and Cards**.
-The game is played by either four or six people in teams two, using a standard American 52 card deck with two distinguishable Jokers, designated high and low. The Jack of the same color as the Jack of trumps is known as the **Off-Jack** (for example, if clubs are trumps, the Jack of Spades is the Off-Jack). The Off-Jack and High and Low Jokers are part of the trump suit and the ranking of trumps from high to low is: Ace, King, Queen, Jack, Off-Jack, High Joker, Low Joker, Ten, Nine, Eight, Seven, Six, Five, Four, Three, Two.
-**2. Deal**
-If there are four players, each is dealt nine cards. If there are six players, each is dealt eight cards. The remaining undealt cards are placed face down to form a "widow" hand.**3. Points**
-There are extra points for the Off-Jack and Jokers, and optionally for the three of trumps. This makes a total of ten or seven points to bid for. The points are:
+**1. Joueurs et cartes.**
+Le jeu est joué par quatre ou six personnes en équipes de deux, avec un jeu américain standard de 52 cartes avec deux jokers distincts, désignés haut et bas. Le valet de la même couleur que le valet d'atout est appelé le **Off-Jack** (par exemple, si les trèfles sont l'atout, le valet de pique est le Off-Jack). L'Off-Jack et les jokers haut et bas font partie de la couleur d'atout et le classement des atouts de haut en bas est : As, Roi, Dame, Valet, Off-Jack, Joker Haut, Joker Bas, Dix, Neuf, Huit, Sept, Six, Cinq, Quatre, Trois, Deux.
+**2. Donne**
+S'il y a quatre joueurs, chacun reçoit neuf cartes. S'il y a six joueurs, chacun reçoit huit cartes. Les cartes non distribuées restantes sont placées face cachée pour former une main « veuve ».**3. Points**
+Il y a des points supplémentaires pour l'Off-Jack et les jokers, et optionnellement pour le trois d'atout. Cela donne un total de dix ou sept points à enchérer. Les points sont :
 
-- **High:** Scored by the team who hold the highest trump in play.
+- **High :** Marqué par l'équipe qui détient le plus haut atout en jeu.
 
-- **Low:** Scored by the team who **hold** the lowest trump in play (not by the team that wins it in a trick).
+- **Low :** Marqué par l'équipe qui **détient** le plus bas atout en jeu (pas par l'équipe qui le gagne dans une levée).
 
-- **Jack:** Scored by the team (if any) who win the jack of trumps in a trick.
+- **Jack :** Marqué par l'équipe (le cas échéant) qui gagne le valet d'atout dans une levée.
 
-- **Off-Jack:** Awarded to the team (if any) which wins a trick containing the Off-Jack.
+- **Off-Jack :** Attribué à l'équipe (le cas échéant) qui gagne une levée contenant l'Off-Jack.
 
-- **High Joker:** Awarded to the team which wins the trick containing the High Joker, if it is in play.
+- **Joker Haut :** Attribué à l'équipe qui gagne la levée contenant le Joker Haut, s'il est en jeu.
 
-- **Low Joker:** Awarded to the team which wins the trick containing the Low Joker, if it is in play.
+- **Joker Bas :** Attribué à l'équipe qui gagne la levée contenant le Joker Bas, s'il est en jeu.
 
-- **Trey of Trumps:** **Three points** are awarded to the team that wins the trick containing the Three of Trumps.
+- **Trois d'atout :** **Trois points** sont attribués à l'équipe qui gagne la levée contenant le Trois d'atout.
 
-**Note:** The 3 point score for the three of trumps is optional. If not used then there would be only seven points available for bidding.
+**Note :** Le score de 3 points pour le trois d'atout est optionnel. S'il n'est pas utilisé, il n'y aura que sept points disponibles pour les enchères.
 
-- **Game:** Either as in the basic game, or some players award the point to the team that wins the trick containing the Ten of Trumps.
+- **Game :** Soit comme dans le jeu de base, soit certains joueurs attribuent le point à l'équipe qui gagne la levée contenant le Dix d'atout.
 
-**4. Bidding**
-There is just one round of bidding. The minimum bid is two; the maximum is the total number of points available - either ten or seven, depending on whether you count the trey of trumps. The dealer is not allowed to "steal the bid".**5. The Discard**
-If playing six-handed, the bid winner picks up the six cards from the "widow" and declares the trump suit. All players then discard down to six playing cards. The bid winner then starts the play.
+**4. Enchères**
+Il y a un seul tour d'enchères. L'enchère minimum est de deux ; le maximum est le nombre total de points disponibles — soit dix, soit sept, selon que l'on compte le trois d'atout. Le donneur n'est pas autorisé à « voler l'enchère ».
+**5. L'écart**
+Si on joue à six, le gagnant de l'enchère ramasse les six cartes de la « veuve » et déclare la couleur d'atout. Tous les joueurs écartent alors jusqu'à six cartes. Le gagnant de l'enchère commence le jeu.
 
-If playing four-handed, the bidder declares the trump suit and then all players are allowed to discard from 0 to 3 cards, and receive an equal number of replacement cards from the deck (if sufficient are available), bringing their hands back to nine cards. All players then discard down to six cards. Some play without the discard and draw feature - the players simply each discard three cards. The bid winner then starts the play.
+Si on joue à quatre, l'enchérisseur déclare la couleur d'atout, puis tous les joueurs sont autorisés à écarter de 0 à 3 cartes et à recevoir le même nombre de cartes de remplacement du jeu (si disponibles), ramenant leurs mains à neuf cartes. Tous les joueurs écartent ensuite jusqu'à six cartes. Certains jouent sans la fonction d'écart et de pioche — les joueurs écartent simplement chacun trois cartes. Le gagnant de l'enchère commence le jeu.
 
-**6. The Play**
-Some play that the bidder's first lead must be a trump; others play that anything can be led. 
+**6. Le jeu**
+Certains jouent que le premier jeu de l'enchérisseur doit être un atout ; d'autres jouent que n'importe quoi peut être mené.
 
-There are three options for following suit, depending on house rules:
+Il y a trois options pour suivre la couleur, selon les règles de la maison :
 
-- Players who can follow suit must either do so or trump; players who cannot follow suit may play anything.
+- Les joueurs qui peuvent suivre la couleur doivent le faire ou contrer ; les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quoi.
 
-- Players who can follow suit must always do so; players who cannot follow suit may play anything.
+- Les joueurs qui peuvent suivre la couleur doivent toujours le faire ; les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quoi.
 
-- Players must either follow suit or trump unless unable to do either, in which case they can play anything.
-**7. Scoring** 
-The scoring and conditions for winning the game are the same as in the basic game, except that there is no 'smudge'. 
+- Les joueurs doivent suivre la couleur ou contrer, sauf s'ils ne peuvent faire l'un ou l'autre, auquel cas ils peuvent jouer n'importe quoi.
 
-Dave Coleman-Reese reports a variation of this game without the Off-Jack and with no score for the Trump Three, so that there are 6 points to bid for.
+**7. Comptage des points**
+Le comptage des points et les conditions pour gagner la partie sont les mêmes que dans le jeu de base, sauf qu'il n'y a pas de « smudge ».
 
-On his [web page](https://www.sharbonline.com/fun-stuff/card-games/10-point-pitch), Larry Charbonneau describes another version of ten-point Pitch. Each of the four players is dealt nine cards, the minimum bid is four, and the dealer must take the bid for four if everyone else passes. After the bidder has named trumps the players discard **all** their non-trump cards and refill their hands to six cards. Any cards remaining in the stock are given to the bidder, who can take them or give them to partner without first looking at them. A player with more than six trumps must discard any excess trumps out of the game. 
+Dave Coleman-Reese rapporte une variante de ce jeu sans l'Off-Jack et sans score pour le Trois d'atout, de sorte qu'il y a 6 points à enchérer.
 
-In the play, only trump plays are legal. A player who has no trumps left drops out of the play. If they won a trick with their last trump, the lead passes to the left. The game point goes to the side that wins the ten of trumps in a trick. The bidding side win the points they bid if successful, and lose the same amount otherwise. The first team to 52 points or more wins the game. A player can bid to "shoot the moon", for which their team has to rake all ten points; if they succeed they win the whole game if their previous score was zero or above, or advance to zero if their score was below zero; if they fail they lose the whole game.
+Sur sa [page web](https://www.sharbonline.com/fun-stuff/card-games/10-point-pitch), Larry Charbonneau décrit une autre version du Pitch à dix points. Chacun des quatre joueurs reçoit neuf cartes, l'enchère minimum est de quatre, et le donneur doit prendre l'enchère de quatre si tout le monde passe. Après que l'enchérisseur a nommé l'atout, les joueurs écartent **toutes** leurs non-atouts et remplissent leurs mains à six cartes. Les cartes restantes dans le talon sont données à l'enchérisseur, qui peut les prendre ou les donner à son partenaire sans les avoir regardées d'abord. Un joueur qui a plus de six atouts doit écarter tout atout excédentaire du jeu.
 
-Variations are given for Pitch with other numbers of points by omitting some of the ten, or by adding other off-trumps (Off-Ace, Off-Ten, Off-Three, Off-Two) ranking just below their real counterparts. There is also "Dirty Pitch" in which the point for Low goes to the side that wins the Two rather than holding it, and "Reverse Pitch" in which the rank of the trumps is reversed (two high and ace low).
+Dans le jeu, seuls les atouts peuvent être joués. Un joueur qui n'a plus d'atout se retire du jeu. S'il a gagné une levée avec son dernier atout, la main passe à gauche. Le point de game va au côté qui gagne le dix d'atout dans une levée. L'équipe qui a enchéri gagne les points enchéris si elle réussit, et perd le même montant sinon. La première équipe à 52 points ou plus gagne. Un joueur peut enchérir de « shoot the moon », pour lequel son équipe doit rafler les dix points ; s'ils réussissent, ils gagnent toute la partie si leur score précédent était zéro ou plus, ou reviennent à zéro si leur score était négatif ; s'ils échouent, ils perdent toute la partie.
 
-Here is an archive copy of Maggie Stauffer's former [Ten-Point Pitch page](https://web.archive.org/web/20010428081943/http://www.nmt.edu/~zeldajk/pitch.html), which describes a similar game, in which only trumps can be played. There are versions for four and for five players.
+Des variantes sont données pour le Pitch avec d'autres nombres de points en omettant certains des dix, ou en ajoutant d'autres hors-atouts (Off-As, Off-Dix, Off-Trois, Off-Deux) classés juste en dessous de leurs homologues réels. Il y a aussi le « Dirty Pitch » dans lequel le point de Low va au côté qui gagne le Deux plutôt que de le détenir, et le « Reverse Pitch » dans lequel le classement des atouts est inversé (deux en haut et as en bas).
+
+Voici une copie d'archive de l'ancienne page [Ten-Point Pitch](https://web.archive.org/web/20010428081943/http://www.nmt.edu/~zeldajk/pitch.html) de Maggie Stauffer, qui décrit un jeu similaire dans lequel seuls des atouts peuvent être joués. Il existe des versions pour quatre et pour cinq joueurs.
 
 ### Pawnee Ten Point Call Your Partner Pitch
 
-This version was contributed by James Adams, whose brothers learned it while working for Boeing aircraft in Wichita Kansas in the 1950's. An archive copy of the rules can be found on his [Pawnee Ten Point Call Your Partner Pitch](https://web.archive.org/web/20041012234847/http://ntwww.cimtel.net/jamesadams/pitch.htm) web page. The game is normally played by **five** players using a 54 card pack including two jokers; points are one each for high, jack, off-jack, high joker, low joker, ten, low and three points for the three. The low point is acored by the team of the player that was dealt the lowest trump; the other points by the players who win the cards in play. Ten cards each are dealt, leaving four in the kitty. The minimum bid is five and the dealer must bid five if everyone else passes. The highest bid, for ten points, is called "shoot the moon" and is worth 42 points if successful.
+Cette version a été contribuée par James Adams, dont les frères l'ont apprise en travaillant pour Boeing aircraft à Wichita Kansas dans les années 1950. Une copie d'archive des règles peut être trouvée sur sa page [Pawnee Ten Point Call Your Partner Pitch](https://web.archive.org/web/20041012234847/http://ntwww.cimtel.net/jamesadams/pitch.htm). Le jeu se joue normalement à **cinq** joueurs avec un jeu de 54 cartes incluant deux jokers ; les points sont de un chacun pour high, jack, off-jack, joker haut, joker bas, dix, low et trois points pour le trois. Le point low est marqué par l'équipe du joueur qui a reçu le plus bas atout ; les autres points par les joueurs qui gagnent les cartes en jeu. Dix cartes sont distribuées à chacun, laissant quatre dans le *kitty*. L'enchère minimum est de cinq et le donneur doit enchérir cinq si tout le monde passe. L'enchère la plus haute, pour dix points, est appelée « shoot the moon » et vaut 42 points si réussi.
 
-The high bidder calls for a trump, and the holder of this trump is the bidder's partner. The high bidder takes the kitty and everyone discards down to six cards. Point scoring trumps (jacks, jokers and three) and the called trump cannot be discarded. Only trumps can be played; players who run out of trumps drop out of the play. The high bidder leads to the first trick, on which the called trump must be played. The bidding team each win the number of points they made if these are enough to fulfill the bid; otherwise they lose the amount of the bid. Each member of the opposing team acores the points made by that team. If the called trump is held by the high bidder (for example if it was in the kitty), the bidder plays alone against a team of four opponents. Game is 42 points. If more than one player reaches or exceeds 42 in the same hand, and the bidder is one of these, the bidder wins; if none of them is the bidder, further hands are played until a player has 42 ort more points after a successful bid.
+Le plus fort enchérisseur appelle un atout, et le détenteur de cet atout est le partenaire de l'enchérisseur. Le plus fort enchérisseur prend le *kitty* et tout le monde écarte jusqu'à six cartes. Les atouts à points (valets, jokers et trois) et l'atout appelé ne peuvent pas être écartés. Seuls des atouts peuvent être joués ; les joueurs qui n'ont plus d'atout se retirent. Le plus fort enchérisseur mène la première levée, à laquelle l'atout appelé doit être joué. L'équipe qui a enchéri marque le nombre de points qu'elle a fait si c'est suffisant pour remplir le contrat ; sinon elle perd le montant de l'enchère. Chaque membre de l'équipe adverse marque les points faits par cette équipe. Si l'atout appelé est détenu par le plus fort enchérisseur (par exemple s'il était dans le *kitty*), l'enchérisseur joue seul contre une équipe de quatre adversaires. La partie se joue en 42 points. Si plus d'un joueur atteint ou dépasse 42 lors de la même main, et que l'enchérisseur en fait partie, l'enchérisseur gagne ; si aucun d'eux n'est l'enchérisseur, d'autres mains sont jouées jusqu'à ce qu'un joueur ait 42 points ou plus après une enchère réussie.
 
 ### Nine Card Pitch
 
-Like normal pitch this is for four players, two against two, with partners facing each other, but as the name suggests, nine cards are dealt to each player.
+Comme le Pitch normal, c'est pour quatre joueurs, deux contre deux, avec des partenaires en face, mais comme son nom l'indique, neuf cartes sont distribuées à chaque joueur.
 
-In additional to high, low, jack and game, there are two further points available:
+En plus de high, low, jack et game, il y a deux points supplémentaires disponibles :
 
-- **Five** - scored by a team which wins the five of trumps in a trick;
+- **Five** — marqué par une équipe qui gagne le cinq d'atout dans une levée ;
 
-- **High spade** - the highest spade in play, scored by the team which wins it in a trick.
+- **High spade** — le plus haut pique en jeu, marqué par l'équipe qui le gagne dans une levée.
 
-The possible bids are **three**, **four**, **five** and **six**. After the pitcher has declared trumps, each player may discard up to four cards, to be replaced by cards from the undealt part of the deck. The play is as in normal Pitch, except that the pitcher is not required to lead a trump to the first trick. 
+Les enchères possibles sont **trois**, **quatre**, **cinq** et **six**. Après que le pitcher a déclaré l'atout, chaque joueur peut écarter jusqu'à quatre cartes, à remplacer par des cartes de la partie non distribuée du jeu. Le jeu est comme au Pitch normal, sauf que le pitcher n'est pas obligé de mener un atout à la première levée.
 
-Each team begins with a score of 21, and their score for a hand is subtracted from this if they are successful. If they fail in their bid, they are said to "go up", and their bid is added to their score. The winners are the first team whose score reaches zero or less, but it is only possible to win on a hand where you succeed in a bid, or the opponents fail in their bid. If a team's points won in play would cause them to reach or pass zero while they were playing against a successful bid, that team's score becomes one.
+Chaque équipe commence avec un score de 21, et son score pour une main est soustrait de celui-ci si elle réussit. Si elle échoue à son contrat, on dit qu'elle « monte » (*go up*), et son enchère est ajoutée à son score. Les gagnants sont la première équipe dont le score atteint zéro ou moins, mais il n'est possible de gagner que lors d'une main où vous réussissez une enchère, ou où les adversaires échouent à la leur. Si les points gagnés par une équipe en jeu devaient l'amener à atteindre ou dépasser zéro alors qu'elle jouait contre une enchère réussie, le score de cette équipe devient un.
 
 ### Fish Pitch
 
-*This variation was contributed by Judd A. Schorr*
+*Cette variante a été contribuée par Judd A. Schorr.*
 
-Each of the four players is dealt 12 cards from a 52 card pack: 6 for their hand and 6 which are kept face down in front of them. The bidding is as in normal Pitch. In the first trick everyone must play from their hand, but from then on, players can either play from their hand or 'fish' a card from the unknown 6 in front of them. There are 12 tricks played in all, and all but 4 cards are out, so the two and jack of trumps are usually in play. 
+Chacun des quatre joueurs reçoit 12 cartes d'un jeu de 52 cartes : 6 pour sa main et 6 gardées face cachée devant lui. Les enchères sont comme au Pitch normal. À la première levée, tout le monde doit jouer de sa main, mais ensuite, les joueurs peuvent soit jouer de leur main soit « pêcher » (*fish*) une carte parmi les 6 inconnues devant eux. Il y a 12 levées jouées au total, et tout sauf 4 cartes sont dehors, donc le deux et le valet d'atout sont généralement en jeu.
 
-You can try to take a trick that you really, really want by fishing a card on it, and sometimes you can make it. However, sometimes, you give the opposite team low or an extra ten towards game. In this variant, even if you are dealt a poor visible hand, you are still in the action, as nobody knows what you will throw next. It also makes it difficult (and fun) to 'count cards' for two reasons - all the cards are out, and you can seemingly violate following suit by fishing a card. (You can't tell for certain if a person is out of trump altogether, only that they are out of trump in their hand!) This variant is really a lot of fun, and should be tried.
+Vous pouvez essayer de prendre une levée que vous voulez vraiment en pêchant une carte dessus, et parfois vous y arrivez. Cependant, parfois, vous donnez à l'équipe adverse le low ou un dix supplémentaire pour le game. Dans cette variante, même si on vous a distribué une main visible médiocre, vous êtes toujours dans l'action, car personne ne sait ce que vous allez jeter ensuite. Cela rend aussi difficile (et amusant) de « compter les cartes » pour deux raisons — toutes les cartes sont dehors, et vous pouvez apparemment violer la règle de suivre la couleur en pêchant une carte. (Vous ne pouvez pas dire avec certitude si une personne n'a plus d'atout du tout, seulement qu'elle n'en a plus dans sa main !) Cette variante est vraiment très amusante et devrait être essayée.
 
-### Pitch with Fives, Pedro, Cinch, Catch Five
+### Pitch avec Fives, Pedro, Cinch, Catch Five
 
-The version of Pitch in which the five is an additional scoring trump worth 5 points (making 9 points in all) is now described on the Pedro page, along with Double Pedro or Cinch, in which the other five of the same colour is also a trump scoring 5 (for a total of 14 points).
+La version de Pitch dans laquelle le cinq est un atout à points supplémentaire valant 5 points (pour un total de 9 points) est maintenant décrite sur la page Pedro, ainsi que le Double Pedro ou Cinch, dans lequel l'autre cinq de la même couleur est aussi un atout valant 5 (pour un total de 14 points).
 
-## Cutthroat Pitch
+## Pitch Cutthroat
 
-Pitch can also be played by two or more players, each playing for themselves. The rules of bidding and play are the same as for the partnership game. In the game with more than two players, the opponents will tend gang up against the bidder to try to prevent the bid being made.
+Pitch peut aussi être joué par deux joueurs ou plus, chacun jouant pour soi. Les règles d'enchères et de jeu sont les mêmes que pour le jeu en partenariat. Dans le jeu à plus de deux joueurs, les adversaires auront tendance à s'unir contre l'enchérisseur pour essayer d'empêcher que le contrat soit réalisé.
 
-### Money game
+### Jeu d'argent
 
-Ben Butzer reports that at UCLA, instead of playing up to 21 points for game, they would play for 10 cents per point. The game is played without partners. The scoring is as in the partnership game, except that each player individually scores the points they make. If you are the high bidder you are set back if the points you make are less than your bid.
+Ben Butzer rapporte qu'à UCLA, au lieu de jouer jusqu'à 21 points, ils jouaient pour 10 cents par point. Le jeu se joue sans partenaire. Le comptage est comme dans le jeu en partenariat, sauf que chaque joueur marque individuellement les points qu'il fait. Si vous êtes le plus fort enchérisseur, vous êtes *set back* si les points que vous faites sont inférieurs à votre enchère.
 
-Players can join or leave the game after any hand. When the personnel change, the game is settled up: each player's score is compared to the average - winners receive 10 cents for each point they are above the average and losers lose 10 cents for each point below.
+Les joueurs peuvent rejoindre ou quitter le jeu après n'importe quelle main. Quand le personnel change, le jeu est réglé : le score de chaque joueur est comparé à la moyenne — les gagnants reçoivent 10 cents pour chaque point au-dessus de la moyenne et les perdants perdent 10 cents pour chaque point en dessous.
 
-The **smudge** bid in this version is called **shooting the moon** or **mooning**. Mooning has no effect on your points score. If you shoot the moon successfully you win $1 from each other player (recorded on the scoresheet with a star). If you shoot and miss you pay out $1 each. 
+L'enchère **smudge** dans cette version est appelée **shooting the moon** ou **mooning**. Mooning n'a aucun effet sur votre score de points. Si vous tirez la lune avec succès, vous gagnez 1 $ de chaque autre joueur (enregistré sur la feuille de score avec une étoile). Si vous tirez la lune et ratez, vous payez 1 $ à chacun.
 
-### Moon can only be bid over 4
+### Moon ne peut être enchéri que par-dessus 4
 
-Tom Price reports a version in which Moon can only be bid over a bid of 4 by another player. The only person who can bid over Moon is the dealer, who can still "steal" the bid. If you bid Moon and make it you gain 4 points, just as though you had bid 4; if you lose your score goes to 4 in the hole (i.e. minus 4), irrespective of what score you were on before. 
+Tom Price rapporte une version dans laquelle Moon ne peut être enchéri que par-dessus une enchère de 4 par un autre joueur. Le seul qui peut enchérir par-dessus Moon est le donneur, qui peut toujours « voler l'enchère ». Si vous enchérissez Moon et réussissez, vous gagnez 4 points, comme si vous aviez enchéri 4 ; si vous échouez, votre score passe à 4 dans le négatif (soit moins 4), indépendamment du score que vous aviez avant.
 
-In this game the players other than the eventual winner have to pay the winner an additional stake for each time they were set (as in the money version of Smear). A player who bids Moon and fails is charged for two sets. 
+Dans ce jeu, les joueurs autres que le gagnant final doivent payer au gagnant une mise supplémentaire pour chaque fois qu'ils ont été *set* (comme dans la version d'argent du Smear). Un joueur qui enchérit Moon et échoue est chargé pour deux *sets*.
 
 ### Racehorse
 
-Patrick Mathews describes a version of the money game above, called Racehorse. This is usually played by 5 or more people, each playing for themselves. If the pitcher's bid succeeds, the pitcher receives $1.00 for each point bid from each of the other players. A pitcher whose bid fails pays $1.00 per point bid to each opponent. In either case, the other players do not receive anything for the points they make. The play of the hand ends as soon as it is clear whether the bid has succeeded, since further points won by either side do not affect payment.
+Patrick Mathews décrit une version du jeu d'argent ci-dessus, appelée Racehorse. C'est généralement joué par 5 personnes ou plus, chacune jouant pour soi. Si l'enchère du pitcher réussit, le pitcher reçoit 1,00 $ pour chaque point enchéri de chaque autre joueur. Un pitcher dont l'enchère échoue paie 1,00 $ par point enchéri à chaque adversaire. Dans les deux cas, les autres joueurs ne reçoivent rien pour les points qu'ils font. Le jeu de la main s'arrête dès qu'il est clair si l'enchère a réussi, puisque les points supplémentaires gagnés par l'un ou l'autre côté n'affectent pas le paiement.
 
-A pitcher whose bid fails is said to be "upped". Presumably this term derives from the practice of scoring in reverse in some Pitch variations - see for example Nine Card Pitch above.
+Un pitcher dont l'enchère échoue est dit « upped ». On présume que ce terme dérive de la pratique de comptage inversé dans certaines variantes de Pitch — voir par exemple le Nine Card Pitch ci-dessus.
 
-A pitcher who wins deals the next hand. If the pitcher is upped, the player to the pitcher's right deals the next hand, so that the upped pitcher has the first bid.
+Un pitcher qui gagne distribue la main suivante. Si le pitcher est « upped », le joueur à la droite du pitcher distribue la main suivante, pour que le pitcher « upped » ait la première enchère.
 
-### 14 point Tunkhannock Pitch
+### 14 points Tunkhannock Pitch
 
-This game from Pennsylvania is somewhat related to the first version of partnership 10-point Pitch described above. It is normally played "cutthroat" by four people, but can also be played as a partnership game. A 54 card pack including two jokers is used -the off-jack, high joker and low joker rank in that order as trumps just below the jack. There is a six card deal and after the bidding three cards are discarded and the hands replenished. The minimum bid is 3, maximum is smudge (equivalent to 15), which is a bid to take all 14 points and six tricks. Dealer can steal the bid with an equal bid, and must bid three if the others all pass.
+Ce jeu de Pennsylvanie est quelque peu apparenté à la première version du Pitch en partenariat à 10 points décrite ci-dessus. Il se joue normalement « cutthroat » par quatre personnes, mais peut aussi être joué en partenariat. Un jeu de 54 cartes incluant deux jokers est utilisé — le *off-jack*, le joker haut et le joker bas sont classés dans cet ordre comme atouts juste en dessous du valet. Il y a une donne de six cartes et après les enchères, trois cartes sont écartées et les mains renouvelées. L'enchère minimum est de 3, le maximum est smudge (équivalent à 15), qui est une enchère pour prendre les 14 points et les six levées. Le donneur peut voler l'enchère avec une enchère égale, et doit enchérir trois si tous les autres passent.
 
-The points are high, low, jack, off-jack, high joker, low joker, game, last trick, high spade (worth one point each) and five (5 points). Points go to the player winning the card in a trick. The game point is scored by the player who takes most card points. Trumps need not be led at the start. You may trump even when you have the suit led, but you may only discard from a different non-trump suit when you cannot follow suit.
+Les points sont high, low, jack, off-jack, joker haut, joker bas, game, dernière levée, high spade (valant un point chacun) et five (5 points). Les points vont au joueur gagnant la carte dans une levée. Le point de game est marqué par le joueur qui prend le plus de points de cartes. L'atout n'a pas besoin d'être mené au début. Vous pouvez contrer même quand vous avez la couleur menée, mais vous ne pouvez défausser d'une couleur non-atout différente que lorsque vous ne pouvez pas suivre.
 
-Detailed rules can be found on this archive copy of Bill and Joe's [14 point Tunkhannock Pitch](https://web.archive.org/web/20000816033754/http://www.angelfire.com/pa2/tunkpitch/) page.
+Des règles détaillées peuvent être trouvées sur cette copie d'archive de la page [14 point Tunkhannock Pitch](https://web.archive.org/web/20000816033754/http://www.angelfire.com/pa2/tunkpitch/) de Bill et Joe.
 
-## Other Setback / Pitch Web Sites
+## Autres sites web Setback / Pitch
 
-Umesh Shankar's [Setback Page](https://www.umeshshankar.com/setback/setback.htm) has rules, variations and basic advice on strategy.
+La page [Setback](https://www.umeshshankar.com/setback/setback.htm) d'Umesh Shankar contient des règles, des variantes et des conseils de base sur la stratégie.
 
-Here is an archive copy of Brad Wilson's former [Set Back](https://web.archive.org/web/20010811100534/www.quality.nu/bradw/games/setback.html) page, which described a five point version.
+Voici une copie d'archive de l'ancienne page [Set Back](https://web.archive.org/web/20010811100534/www.quality.nu/bradw/games/setback.html) de Brad Wilson, qui décrivait une version à cinq points.
 
-Larry Charbonneau's [10 Point Pitch](https://www.sharbonline.com/fun-stuff/card-games/10-point-pitch) and Bill and Joe's [14 point Tunkhannock Pitch](https://web.archive.org/web/20000816033754/http://www.angelfire.com/pa2/tunkpitch/) page describe further variations.
+La page [10 Point Pitch](https://www.sharbonline.com/fun-stuff/card-games/10-point-pitch) de Larry Charbonneau et la page [14 point Tunkhannock Pitch](https://web.archive.org/web/20000816033754/http://www.angelfire.com/pa2/tunkpitch/) de Bill et Joe décrivent d'autres variantes.
 
-## Pitch Software
+## Logiciel Pitch
 
-You can play 4-point Pitch or 10-point Pitch online at [cardzmania](https://www.cardzmania.com/).
+Vous pouvez jouer au Pitch à 4 points ou au Pitch à 10 points en ligne sur [cardzmania](https://www.cardzmania.com/).
 
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes a Pitch program, along with many other popular card games.
+La collection HOYLE Card Games pour Windows ou Mac OS X inclut un programme Pitch, ainsi que beaucoup d'autres jeux de cartes populaires.
 
-You can download Matt Reklaitis' [Nine Card Pitch program](https://www.gamercafe.com/pitch/).
+Vous pouvez télécharger le [programme Nine Card Pitch](https://www.gamercafe.com/pitch/) de Matt Reklaitis.
 
-Scott Olson has written a [Pitch program](https://www.shmear.com) with which you can play several variations of Pitch against computer opponents or live over a LAN or over the Internet. 
+Scott Olson a écrit un [programme Pitch](https://www.shmear.com) avec lequel vous pouvez jouer plusieurs variantes de Pitch contre des adversaires informatiques ou en direct sur un réseau local ou sur Internet.
 
-You can play Pitch online against live opponents at [Trickster Cards](https://www.trickstercards.com/). 
-
-Home Page > Classified Index > Trick Taking Games > All Fours Group > Pitch / Setback
+Vous pouvez jouer au Pitch en ligne contre des adversaires en direct sur [Trickster Cards](https://www.trickstercards.com/).

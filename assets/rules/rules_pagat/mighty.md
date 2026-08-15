@@ -4,315 +4,316 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** A Korean card game for five players in which the dealer chooses a partner by calling a card.
+**But :** Jeu de cartes coréen pour cinq joueurs dans lequel le donneur choisit un partenaire en appelant une carte.
 
 ---
 
 ## Introduction
 
-The card game **Mighty** is said to have been invented by Korean college students in the mid 1970's, but it is closely related to the group of Japanese picture capturing games, especially Napoleon, which date back to the beginning of the 20th century. Mighty is played mostly by current or former students in Korea, and it is known there by the English sounding name "Mighty". It is also played by some groups in North America.
+Le jeu de cartes **Mighty** aurait été inventé par des étudiants coréens au milieu des années 1970, mais il est étroitement lié au groupe de jeux japonais de capture d'image, en particulier Napoleon, dont les origines remontent au début du XXe siècle. Mighty est surtout joué par des étudiants actuels ou anciens en Corée, et il y est connu sous le nom anglais « Mighty ». Il est aussi joué par certains groupes en Amérique du Nord.
 
-Some of the Korean vocabulary of Mighty uses political terms and words borrowed from Napoleon. For example, the declarer is '주공' which can be translated as 'president' or 'party leader'. The declarer's team is '여당' (ruling party), defenders are '야당' (opposition party), a bid is called '공약' (pledge, promise) and the bidding phase is called '선거' (election). It is likely that this political theme refers to the military junta as the game was created during the Third Republic of Korea.
+Une partie du vocabulaire coréen de Mighty utilise des termes politiques et des mots empruntés à Napoleon. Par exemple, le déclarant est '주공' qui peut se traduire par « président » ou « chef de parti ». L'équipe du déclarant est '여당' (parti au pouvoir), les défenseurs sont '야당' (parti d'opposition), une enchère est appelée '공약' (engagement, promesse) et la phase d'enchères est appelée '선거' (élection). Il est probable que ce thème politique fait référence à la junte militaire car le jeu a été créé pendant la Troisième République de Corée.
 
-Mighty is a point-trick game with bidding. In each hand the high bidder chooses a partner by calling a card, and these two players try to take enough of the scoring cards (A, K, Q, J, 10) to fulfill the bid. The basic version for five players will be described first, followed by versions for other numbers of players from three to eight. There are many variations of the rules, which will be described at the end.
-*This page is based on contributions from Yishin Cho, Jun Chulmin, u fm, Miller Kim and John Pannell and Dan Roth.*
+Mighty est un jeu de levées avec points et enchères. À chaque main, le plus fort enchérisseur choisit un partenaire en appelant une carte, et ces deux joueurs essaient de prendre suffisamment de cartes à points (A, R, D, V, 10) pour remplir l'enchère. La version de base pour cinq joueurs sera décrite en premier, suivie des versions pour d'autres nombres de joueurs, de trois à huit. Il existe de nombreuses variantes des règles, qui seront décrites à la fin.
+*Cette page est basée sur des contributions de Yishin Cho, Jun Chulmin, u fm, Miller Kim, John Pannell et Dan Roth.*
 
-## Players and cards
+## Joueurs et cartes
 
-The basic game is played by five players, using a standard 52 card deck with one joker - 53 cards in all. The cards in each suit rank from high to low **A-K-Q-J-10-9-8-7-6-5-4-3-2**. The ace, king, queen, jack and ten of each suit are worth one point each, so that the pack contains 20 points in all. The other cards have no value.
+Le jeu de base se joue à cinq joueurs, avec un jeu standard de 52 cartes plus un joker — 53 cartes au total. Les cartes de chaque couleur sont classées de haut en bas **A-R-D-V-10-9-8-7-6-5-4-3-2**. L'as, le roi, la dame, le valet et le dix de chaque couleur valent un point chacun, soit un total de 20 points dans le jeu. Les autres cartes n'ont aucune valeur.
 
-There are three cards with special powers:
+Il y a trois cartes avec des pouvoirs spéciaux :
 
-- the **mighty** is the **![spade](../images/internat/spade.gif)A** unless spades are trumps in which case it is the **![diamond](../images/internat/diamond.gif)A**. It is the most powerful card in the pack, beating all others;
+- le **mighty** est l'**![pique](../images/internat/spade.gif)A** sauf si les piques sont l'atout, auquel cas c'est l'**![carreau](../images/internat/diamond.gif)A**. C'est la carte la plus puissante du jeu, battant toutes les autres ;
 
-- the **joker** is the second most powerful card, but loses its power if the ripper is led;
+- le **joker** est la deuxième carte la plus puissante, mais perd son pouvoir si le *ripper* est mené ;
 
-- the **ripper** or **joker hunter** is the **![club](../images/internat/club.gif)3** unless clubs are trumps, in which case it is the **![spade](../images/internat/spade.gif)3**. If led, the ripper can force the joker to be played and rob it of its power.
+- le **ripper** ou **joker hunter** est le **![trèfle](../images/internat/club.gif)3** sauf si les trèfles sont l'atout, auquel cas c'est le **![pique](../images/internat/spade.gif)3**. Si mené, le *ripper* peut forcer le joker à être joué et le priver de son pouvoir.
 
-The Mighty and the Joker are together referred to as the **Magic Cards** because of their properties and strength.
+Le Mighty et le Joker sont ensemble appelés les **Cartes Magiques** en raison de leurs propriétés et de leur force.
 
-The game is normally played clockwise.
+Le jeu se joue normalement dans le sens des aiguilles d'une montre.
 
-## Deal
+## La donne
 
-The first dealer is chosen at random. Thereafter the declarer's partner (the holder of the called card) in each hand becomes the dealer for the next hand, or if the declarer plays alone the declarer deals the next hand.
+Le premier donneur est choisi au hasard. Ensuite, le partenaire du déclarant (le détenteur de la carte appelée) de chaque main devient le donneur pour la main suivante, ou si le déclarant joue seul, le déclarant donne la main suivante.
 
-The cards are shuffled by the dealer and cut by the player to dealer's right. Ten cards are then dealt to each player and three to a face-down **blind** or **kitty**. Normally they are dealt as follows: first one card to each player, starting with the player immediately to the dealer's left, then a batch of two cards each, then a batch of three cards each and finally a batch of four cards each. The last three cards are placed face-down in the center of the table to form the kitty. 
+Les cartes sont mélangées par le donneur et coupées par le joueur à sa droite. Dix cartes sont alors distribuées à chaque joueur et trois à un **blind** ou **kitty** face cachée. Normalement, elles sont distribuées comme suit : d'abord une carte à chaque joueur, en commençant par le joueur immédiatement à la gauche du donneur, puis un paquet de deux cartes chacun, puis un paquet de trois cartes chacun et enfin un paquet de quatre cartes chacun. Les trois dernières cartes sont placées face cachée au centre de la table pour former le *kitty*.
 
-## Bidding
+## Enchères
 
-In the first hand the dealer starts the bidding. In subsequent hands the bidding is begun by whoever was the declarer in the previous hand. The bidding continues clockwise around the table for as many circuits as necessary until the highest bidder and contract are established. At your turn you can pass or bid. A bid specifies the minimum number of points that must be taken by the bidder's team for the contract to succeed and the proposed trump suit or "no-trump".. The lowest bid allowed is 13 and the highest is 20. One would say, for example, 13 with hearts, 14 with no-trump, 16 with spades, full score (20) with clubs, etc. 
+À la première main, le donneur commence les enchères. Dans les mains suivantes, les enchères sont commencées par celui qui était le déclarant à la main précédente. Les enchères continuent dans le sens des aiguilles d'une montre pendant autant de tours que nécessaire jusqu'à ce que le plus fort enchérisseur et le contrat soient établis. À votre tour, vous pouvez passer ou enchérir. Une enchère spécifie le nombre minimum de points que l'équipe de l'enchérisseur doit prendre pour que le contrat réussisse et la couleur d'atout proposée ou « sans-atout ». L'enchère la plus basse autorisée est 13 et la plus haute est 20. On dirait par exemple 13 avec les cœurs, 14 sans-atout, 16 avec les piques, plein score (20) avec les trèfles, etc.
 
-Each bid must be higher than the one preceding it. A bid for a greater number of points is higher than a bid for a lesser number, and a no-trump bid is higher than a bid of an equal number of points with a trump suit. There is no priority order between the suits, so if the previous bid was 14 with diamonds your options are to bid 14 with no-trump, or 15 or more with any suit or no-trump, or to pass.
+Chaque enchère doit être supérieure à la précédente. Une enchère pour un nombre de points plus élevé est supérieure à une enchère pour un nombre inférieur, et une enchère sans-atout est supérieure à une enchère de nombre égal avec une couleur d'atout. Il n'y a pas d'ordre de priorité entre les couleurs, donc si l'enchère précédente était 14 avec les carreaux, vos options sont d'enchérir 14 sans-atout, ou 15 ou plus avec n'importe quelle couleur ou sans-atout, ou de passer.
 
-If you bid and another player bids higher, you can bid again when the turn comes back to you, provided that your new bid is the highest so far. A player who has passed cannot bid again during the auction. If a bid is made then the auction continues until all the players except one have passed. That one player who has not passed is the **declarer** and the final bid is the **contract**. 
+Si vous enchérissez et qu'un autre joueur surenchérit, vous pouvez enchérir à nouveau quand votre tour revient, à condition que votre nouvelle enchère soit la plus haute jusqu'à présent. Un joueur qui a passé ne peut plus enchérir pendant la vente. Si une enchère est faite, la vente continue jusqu'à ce que tous les joueurs sauf un soient passés. Ce joueur qui n'a pas passé est le **déclarant** et l'enchère finale est le **contrat**.
 
-### Redeal
+### Redonne
 
-It is unusual for all five players to pass. If it happens the cards are thrown in and there is a redeal by the same dealer.
+Il est inhabituel que les cinq joueurs passent. Si cela se produit, les cartes sont jetées et il y a une redonne par le même donneur.
 
-There are also certain hands on which a player can demand a redeal. For this purpose the cards in a player's hand are counted as follows:
+Il y a aussi certaines mains où un joueur peut exiger une redonne. Pour cela, les cartes de la main d'un joueur sont comptées comme suit :
 
-| The default Mighty (A): | 0 |
-| Joker: | -1 |
-| Each A, K, Q, J except A: | +1 |
-| Each 10: | +½ |
-| Other cards (2-9): | 0 |
+| Le Mighty par défaut (A) : | 0 |
+| Joker : | -1 |
+| Chaque A, R, D, V sauf l'A : | +1 |
+| Chaque 10 : | +½ |
+| Autres cartes (2-9) : | 0 |
 
-Any player whose ten cards have a total value of ½ point or less on this scale is allowed to show their hand at their first turn to bid and ask for a redeal. All the hands are thrown in and there is a new deal by the player who asked for the redeal. This player is also the first to bid in the new deal.
+Tout joueur dont les dix cartes ont une valeur totale de ½ point ou moins sur cette échelle est autorisé à montrer sa main à son premier tour d'enchère et à demander une redonne. Toutes les mains sont jetées et il y a une nouvelle donne par le joueur qui a demandé la redonne. Ce joueur est aussi le premier à enchérir dans la nouvelle donne.
 
-## Exchanging cards and calling a partner
+## Échange de cartes et choix d'un partenaire
 
-The declarer (the last and highest bidder) now picks up the three cards of the blind without showing them, adds them to his hand, and discards any three of his 13 cards face down, bringing his hand back to 10 cards. If the cards discarded by the declarer include any scoring cards, these points count for the declarer's team.
+Le déclarant (le dernier et plus fort enchérisseur) ramasse maintenant les trois cartes du *blind* sans les montrer, les ajoute à sa main, et écarte trois de ses 13 cartes face cachée, ramenant sa main à 10 cartes. Si les cartes écartées par le déclarant incluent des cartes à points, ces points comptent pour l'équipe du déclarant.
 
-At this point the declarer can change the trump suit or change from trumps to no-trump or vice versa, but in order to do so must increase the level of the bid. If changing from one suit to another or from no-trumps to a suit the bid level must be increased by at least two unless the bid was 19 in which case it is sufficient to increase it to 20. If changing from a suit to no-trump it must be increased by at least one unless the bid was already 20 in which case it can be changed to '20 with no-trump'. The bid may also be increased by one or more while keeping the trump suit the same.
+À ce stade, le déclarant peut changer la couleur d'atout ou passer d'une couleur à sans-atout ou inversement, mais pour cela il doit augmenter le niveau de l'enchère. S'il passe d'une couleur à une autre ou de sans-atout à une couleur, le niveau de l'enchère doit être augmenté d'au moins deux, sauf si l'enchère était de 19 auquel cas il suffit de l'augmenter à 20. S'il passe d'une couleur à sans-atout, l'enchère doit être augmentée d'au moins un, sauf si l'enchère était déjà de 20 auquel cas elle peut être changée en « 20 sans-atout ». L'enchère peut aussi être augmentée d'un ou plusieurs tout en conservant la même couleur d'atout.
 
-The declarer must then choose a **partner** or **friend**, or choose to play alone. There are several possibilities.
+Le déclarant doit ensuite choisir un **partenaire** ou **ami**, ou choisir de jouer seul. Il y a plusieurs possibilités.
 
-- The declarer may name a card, and whoever holds this card becomes the declarer's. Any card can be called, including the mighty or the joker. The holder of the called card must not reveal who they are at this stage. The identity of the partner will only become clear during the play of the hand - for example when the called card is played. If the declarer calls a card that is in his own hand or which he discarded, he will be playing alone against the other four, though they will not initially realise this.
+- Le déclarant peut nommer une carte, et quiconque la détient devient le partenaire du déclarant. N'importe quelle carte peut être appelée, y compris le mighty ou le joker. Le détenteur de la carte appelée ne doit pas révéler son identité à ce stade. L'identité du partenaire ne deviendra claire que pendant le jeu de la main — par exemple lorsque la carte appelée est jouée. Si le déclarant appelle une carte qui se trouve dans sa propre main ou qu'il a écartée, il jouera seul contre les quatre autres, bien qu'ils ne s'en rendent pas compte initialement.
 
-- The declarer may specify that the winner of the first trick will be his partner. In this case if the declarer wins the first trick he will play alone.
+- Le déclarant peut spécifier que le gagnant de la première levée sera son partenaire. Dans ce cas, si le déclarant gagne la première levée, il jouera seul.
 
-- The declarer may announce that he is playing alone by declaring **"no friend"**. In this case the score for the game is increased.
+- Le déclarant peut annoncer qu'il joue seul en déclarant **« no friend »**. Dans ce cas, le score de la partie est augmenté.
 
-If the final bid was '20 with no-trump', when calling a partner the declarer is also permitted to say which suit he would like his partner to lead after winning a trick, so as to pass control back to the declarer. The declarer would say, for example, "full-20 with no-trump and I need hearts from my friend".
+Si l'enchère finale était « 20 sans-atout », lors de l'appel d'un partenaire, le déclarant est aussi autorisé à dire quelle couleur il aimerait que son partenaire mène après avoir gagné une levée, afin de redonner le contrôle au déclarant. Le déclarant dirait par exemple : « plein-20 sans-atout et j'ai besoin de cœurs de mon ami ».
 
-## The Play
+## Le jeu
 
-The declarer leads to the first trick, and is not allowed to lead a trump unless holding nothing but trumps. If the declarer leads the Joker or the Joker Hunter to the first trick they lose their special powers (see below). The other players, in clockwise order, each play one card from their hands. The winner of each trick leads to the next trick. In the second and subsequent tricks any card may be led.
+Le déclarant mène la première levée et n'est pas autorisé à mener un atout sauf s'il n'a que des atouts. Si le déclarant mène le Joker ou le Joker Hunter à la première levée, ils perdent leurs pouvoirs spéciaux (voir ci-dessous). Les autres joueurs, dans le sens des aiguilles d'une montre, jouent chacun une carte de leur main. Le gagnant de chaque levée mène la suivante. À la deuxième levée et aux suivantes, n'importe quelle carte peut être menée.
 
-Players must follow suit when possible, except when playing the Mighty or Joker as described below. A player unable to follow suit is free to play any card. A trick is won by 
+Les joueurs doivent suivre la couleur quand c'est possible, sauf en jouant le Mighty ou le Joker comme décrit ci-dessous. Un joueur incapable de suivre la couleur peut jouer n'importe quelle carte. Une levée est gagnée par :
 
-- the Mighty, if it was played;
+- le Mighty, s'il a été joué ;
 
-- the Joker, unless the Mighty was played or the Ripper was led to destroy the Joker's power or the Joker is played in the first or last trick;
+- le Joker, sauf si le Mighty a été joué ou si le Ripper a été mené pour détruire le pouvoir du Joker, ou si le Joker est joué à la première ou dernière levée ;
 
-- the highest trump played, if not beaten by the Mighty or Joker;
+- le plus haut atout joué, s'il n'est pas battu par le Mighty ou le Joker ;
 
-- the highest card of the suit led, if not beaten by a trump, the Mighty or the Joker.
+- la plus haute carte de la couleur menée, si elle n'est pas battue par un atout, le Mighty ou le Joker.
 
-All point cards (10, J, Q, K, A) won in tricks by a player not known to be in the declarer's team are displayed face up in front of that player. All other cards - the tricks won by declarer's team and the non-scoring cards played to other tricks - are kept in a single face-down pile in front of the declarer, along with the discard. When the declarer's partner is identified, by playing the called card or by winning the first trick if this method of choosing a partner was used, any point cards won in front of this player are added to declarer's pile.
+Toutes les cartes à points (10, V, D, R, A) gagnées en levées par un joueur qu'on ne sait pas être dans l'équipe du déclarant sont affichées face visible devant ce joueur. Toutes les autres cartes — les levées gagnées par l'équipe du déclarant et les cartes sans valeur jouées aux autres levées — sont conservées dans une pile unique face cachée devant le déclarant, avec l'écart. Quand le partenaire du déclarant est identifié, en jouant la carte appelée ou en gagnant la première levée si cette méthode a été utilisée, toutes les cartes à points gagnées devant ce joueur sont ajoutées à la pile du déclarant.
 
-The **Mighty** always wins the trick it is played to, and it can be played to any trick, even if you could have followed suit. However, it still functions as a card of its suit in the following cases:
+Le **Mighty** gagne toujours la levée où il est joué, et il peut être joué à n'importe quelle levée, même si vous auriez pu suivre la couleur. Cependant, il fonctionne toujours comme une carte de sa couleur dans les cas suivants :
 
-- if the suit of the Mighty is led, and the Mighty is the only card you have in that suit, you have to play it;
+- si la couleur du Mighty est menée et que le Mighty est la seule carte que vous avez dans cette couleur, vous devez le jouer ;
 
-- if the Mighty is led, the other players have to play the suit of the Mighty if they can.
+- si le Mighty est mené, les autres joueurs doivent jouer la couleur du Mighty s'ils le peuvent.
 
-The **Joker** can be played to any trick even if you could have followed suit. It is the second highest ranking card unless either the Joker Hunter is led to destroy the Joker's power or the Joker is played to the first or last trick. In those cases the Joker is the lowest card and cannot win the trick. A player who leads the Joker to a trick other than the first or last can nominate the suit that the other players must play to that trick if they can. If the Joker is led to the first or last trick the second player can play any card and this card determines the suit that the remaining players must follow.
+Le **Joker** peut être joué à n'importe quelle levée même si vous auriez pu suivre la couleur. Il est la deuxième carte la plus forte, sauf si le Joker Hunter est mené pour détruire son pouvoir, ou si le Joker est joué à la première ou dernière levée. Dans ces cas, le Joker est la carte la plus basse et ne peut pas gagner la levée. Un joueur qui mène le Joker à une levée autre que la première ou la dernière peut nommer la couleur que les autres joueurs doivent jouer à cette levée s'ils le peuvent. Si le Joker est mené à la première ou dernière levée, le deuxième joueur peut jouer n'importe quelle carte et cette carte détermine la couleur que les joueurs restants doivent suivre.
 
-The **Joker Hunter** (or **Ripper**) has no special power to win a trick, but a player who leads it to any trick other than the first has the option to require the Joker to be played to the trick. If the Joker is demanded its holder must play it to the trick unless that player also has the Mighty, in which case they may play the Mighty and keep the Joker. When the Joker is 'ripped' by the Joker Hunter it loses its power and cannot win the trick. Unless someone plays the Mighty, the trick is therefore won by the highest trump, or if none are played, by the highest card of the Joker Hunter's suit.
+Le **Joker Hunter** (ou **Ripper**) n'a aucun pouvoir spécial pour gagner une levée, mais un joueur qui le mène à n'importe quelle levée autre que la première a la possibilité d'exiger que le Joker soit joué à la levée. Si le Joker est demandé, son détenteur doit le jouer à la levée, sauf si ce joueur a aussi le Mighty, auquel cas il peut jouer le Mighty et garder le Joker. Quand le Joker est « déchiré » (*ripped*) par le Joker Hunter, il perd son pouvoir et ne peut pas gagner la levée. À moins que quelqu'un ne joue le Mighty, la levée est donc gagnée par le plus haut atout, ou s'il n'y en a pas, par la plus haute carte de la couleur du Joker Hunter.
 
-The Joker Hunter cannot be used to rip the Joker in the first trick, and of course a player who holds both the Joker and the Joker Hunter cannot rip their own Joker.
+Le Joker Hunter ne peut pas être utilisé pour déchirer le Joker à la première levée, et bien sûr un joueur qui détient à la fois le Joker et le Joker Hunter ne peut pas déchirer son propre Joker.
 
-## Scoring
+## Comptage des points
 
-The scores are kept in such a way that they add up to zero, representing the amount won or lost by each player. The score can be recorded on paper or you can settle up in money or chips after each hand.
+Les scores sont tenus de manière à s'additionner à zéro, représentant le montant gagné ou perdu par chaque joueur. Le score peut être enregistré sur papier ou vous pouvez régler en argent ou en jetons après chaque main.
 
-At the end of the play, the scoring cards won by the declarer's opponents are counted, and the total is subtracted from 20 to find out how many scoring cards the declarer's team won. If this is equal to or more than the bid, then the declarer's team has succeeded. Then the score (S) for the game is calculated: this depends on the bid (B) and the number of points the declarer's team took (P) as explained below. If the declarer's team succeeded, taking at least as many points as were bid (P≥B) then each opponent pays the score (S), the declarer collects twice the score (2×S) and the partner collects the score (S). If the declarer's team fails (P<B) the payments are reversed: the declarer pays 2×S the partner pays S and each opponent collects S. If the declarer played alone then the declarer collects S from each opponent (total 4×S) if the contract succeeds or pays S to each if the contract fails.
+À la fin du jeu, les cartes à points gagnées par les adversaires du déclarant sont comptées, et le total est soustrait de 20 pour savoir combien de cartes à points l'équipe du déclarant a gagnées. Si ce nombre est égal ou supérieur à l'enchère, l'équipe du déclarant a réussi. Le score (S) de la partie est alors calculé : il dépend de l'enchère (B) et du nombre de points pris par l'équipe du déclarant (P) comme expliqué ci-dessous. Si l'équipe du déclarant a réussi, en prenant au moins autant de points que l'enchère (P≥B), chaque adversaire paie le score (S), le déclarant collecte deux fois le score (2×S) et le partenaire collecte le score (S). Si l'équipe du déclarant échoue (P<B), les paiements sont inversés : le déclarant paie 2×S, le partenaire paie S et chaque adversaire collecte S. Si le déclarant a joué seul, alors le déclarant collecte S de chaque adversaire (total 4×S) si le contrat réussit, ou paie S à chacun s'il échoue.
 
-The most usual method of calculating the score is the following. In the formulae below M is the lowest bid allowed: in the standard game described here M=13.
+La méthode la plus courante de calcul du score est la suivante. Dans les formules ci-dessous, M est l'enchère minimum autorisée : dans le jeu standard décrit ici, M=13.
 
-- If the declarer succeeds, the score is 2 for each point by which the bid is higher than the minimum (13) plus 1 for each extra point the declarer's team takes in excess of the bid, that is S=2×(B-M)+(P-B). Some people prefer to express this as (B-M)+(P-M) which gives the same result.
+- Si le déclarant réussit, le score est de 2 pour chaque point par lequel l'enchère dépasse le minimum (13) plus 1 pour chaque point supplémentaire pris par l'équipe du déclarant au-delà de l'enchère, soit S=2×(B-M)+(P-B). Certains préfèrent l'exprimer comme (B-M)+(P-M), ce qui donne le même résultat.
 
-- If the declarer fails, the score is just the difference between the points taken by the declarer's team and the bid: S=B-P.
+- Si le déclarant échoue, le score est simplement la différence entre les points pris par l'équipe du déclarant et l'enchère : S=B-P.
 
-Note that if the bid is the minimum (13) and the declarer's team takes exactly 13 points the score is zero and there is no payment. 
+Notez que si l'enchère est le minimum (13) et que l'équipe du déclarant prend exactement 13 points, le score est zéro et il n'y a aucun paiement.
 
-In certain circumstances the score S is doubled. If two or more of these conditions apply the score is doubled that many times, multiplying it by 4, 8, etc.
+Dans certaines circonstances, le score S est doublé. Si deux ou plus de ces conditions s'appliquent, le score est doublé autant de fois, le multipliant par 4, 8, etc.
 
-- If the declarer's team takes all 20 scoring cards, this is known as a **run**, and the score is doubled. For example if the bid was 17 the score for 20 points is doubled from 11 (2×4 + 3) to 22: each opponent pays 22, the declarer wins 44 and the partner wins 22.
+- Si l'équipe du déclarant prend les 20 cartes à points, cela s'appelle une **run**, et le score est doublé. Par exemple, si l'enchère était de 17, le score pour 20 points est doublé de 11 (2×4 + 3) à 22 : chaque adversaire paie 22, le déclarant gagne 44 et le partenaire gagne 22.
 
-- If the defenders' team takes at least 11 scoring cards, this is a **back run**, and the payments from the declarer and partner to the defenders are doubled.
+- Si l'équipe des défenseurs prend au moins 11 cartes à points, c'est une **back run**, et les paiements du déclarant et du partenaire aux défenseurs sont doublés.
 
-- The payments for a contract with no trumps are doubled, whether the contract is successful or unsuccessful.
+- Les paiements pour un contrat sans atout sont doublés, que le contrat réussisse ou échoue.
 
-- If a declarer plays alone by announcing 'no friend', the payments for the contract are doubled whether it succeeds or fails. This double only applies when the declarer openly announces that they will play alone, not to a 'secret' solo contract in which the called card is in the declarer's hand or kitty, and not when the declarer wins the first trick having announced that the partner will be the winner of that trick. 
+- Si un déclarant joue seul en annonçant « no friend », les paiements pour le contrat sont doublés, qu'il réussisse ou échoue. Ce double ne s'applique que lorsque le déclarant annonce ouvertement qu'il jouera seul, pas pour un contrat solo « secret » dans lequel la carte appelée se trouve dans la main du déclarant ou le *kitty*, ni lorsque le déclarant gagne la première levée après avoir annoncé que le partenaire serait le gagnant de cette levée.
 
-### Examples of scoring
+### Exemples de comptage
 
-- Declarer bids 15 with diamonds and calls a partner. Declarer's team takes 16 points. The score is 5 (2×2 + 1). Declarer wins 10, partner wins 5, each opponent loses 5.
+- Le déclarant enchérit 15 avec les carreaux et appelle un partenaire. L'équipe du déclarant prend 16 points. Le score est de 5 (2×2 + 1). Le déclarant gagne 10, le partenaire gagne 5, chaque adversaire perd 5.
 
-- Declarer bids 15 with diamonds and calls a partner. Declarer's team takes 13 points. The score is 2. Declarer loses 4, partner loses 2, each opponent wins 2.
+- Le déclarant enchérit 15 avec les carreaux et appelle un partenaire. L'équipe du déclarant prend 13 points. Le score est de 2. Le déclarant perd 4, le partenaire perd 2, chaque adversaire gagne 2.
 
-- Declarer bids 16 with no-trump and calls a partner. Declarer's team takes 18 points. The score is 16 (3×2 + 2 doubled because of no-trump). Declarer wins 32, partner wins 16, each opponent loses 16.
+- Le déclarant enchérit 16 sans-atout et appelle un partenaire. L'équipe du déclarant prend 18 points. Le score est de 16 (3×2 + 2 doublé à cause du sans-atout). Le déclarant gagne 32, le partenaire gagne 16, chaque adversaire perd 16.
 
-- Declarer bids 16 with no-trump and calls a partner. Declarer's team takes 13 points. The score is 6 (failed by 3 points, doubled for no-trump). Declarer loses 12, partner loses 6, each opponent wins 6.
+- Le déclarant enchérit 16 sans-atout et appelle un partenaire. L'équipe du déclarant prend 13 points. Le score est de 6 (manque de 3 points, doublé pour sans-atout). Le déclarant perd 12, le partenaire perd 6, chaque adversaire gagne 6.
 
-- Declarer bids 17 with hearts and calls a partner. Declarer's team takes 20 points. The score is 22 (4×2 + 3 doubled for taking all the points). Declarer +44, partner +22, each opponent -22.
+- Le déclarant enchérit 17 avec les cœurs et appelle un partenaire. L'équipe du déclarant prend 20 points. Le score est de 22 (4×2 + 3 doublé pour avoir pris tous les points). Déclarant +44, partenaire +22, chaque adversaire -22.
 
-- Declarer bids 16 with no-trump and no friend and takes 17 points. The score is 28 (3×2 + 1 doubled twice, for no-trump and no friend). Declarer wins 112 and each opponent loses 28.
+- Le déclarant enchérit 16 sans-atout et no friend et prend 17 points. Le score est de 28 (3×2 + 1 doublé deux fois, pour sans-atout et no friend). Le déclarant gagne 112 et chaque adversaire perd 28.
 
-- Declarer bids 16 with no-trump and no friend and takes 15 points. The score is 4 (1 point doubled twice). Declarer loses 16 and each opponent wins 4.
+- Le déclarant enchérit 16 sans-atout et no friend et prend 15 points. Le score est de 4 (1 point doublé deux fois). Le déclarant perd 16 et chaque adversaire gagne 4.
 
-Note that this payment system is very favourable to the declarer's team, especially when the bidding reaches a high level. This encourages aggressive bidding, though when making sacrifice bids players must be careful not to risk a back run.
+Notez que ce système de paiement est très favorable à l'équipe du déclarant, surtout quand les enchères atteignent un niveau élevé. Cela encourage les enchères agressives, bien que lors de mises de sacrifice, les joueurs doivent faire attention à ne pas risquer un *back run*.
 
-There are many variants that use other methods of scoring: some of the more common ones are listed in the variants section below.
+Il existe de nombreuses variantes utilisant d'autres méthodes de comptage : certaines des plus courantes sont énumérées dans la section des variantes ci-dessous.
 
-## Other numbers of players
+## Autres nombres de joueurs
 
-Mighty has been adapted to be played by any number from three to eight. There are a number of ways of doing this. They involve adjusting the number of cards in the pack, (sometimes) the number of cards dealt, the partnership arrangements, and the scoring. Here are the details.
+Mighty a été adapté pour être joué par n'importe quel nombre de trois à huit joueurs. Il y a plusieurs façons de faire cela. Elles impliquent d'ajuster le nombre de cartes dans le jeu, (parfois) le nombre de cartes distribuées, les arrangements de partenariat et le comptage. Voici les détails.
 
-**Three players** (Jun, Chulmin's version)
-The 2 - 6 of each suit are removed, leaving 33 cards - 10 for each player and three in the blind. The Joker Hunter is the **![club](../images/internat/club.gif)7**, or the **![spade](../images/internat/spade.gif)7** if clubs are trumps. The holder of the joker in each hand deals the next.
+**Trois joueurs** (version de Jun Chulmin)
+Les 2 à 6 de chaque couleur sont retirés, laissant 33 cartes — 10 pour chaque joueur et trois dans le *blind*. Le Joker Hunter est le **![trèfle](../images/internat/club.gif)7**, ou le **![pique](../images/internat/spade.gif)7** si les trèfles sont l'atout. Le détenteur du joker à chaque main donne la suivante.
 
-The declarer does not call a partner but always plays alone against the other two. The minimum bid is 11 (or in some groups 12) and the scoring is adjusted accordingly The declarer is receives or pays S units from/to each opponent. **Four players** (Jun, Chulmin's version)
+Le déclarant n'appelle pas de partenaire mais joue toujours seul contre les deux autres. L'enchère minimum est de 11 (ou dans certains groupes 12) et le comptage est ajusté en conséquence. Le déclarant reçoit ou paie S unités de/à chaque adversaire. **Quatre joueurs** (version de Jun Chulmin)
 
-All the twos and fours and the two red threes are removed from the pack, leaving 43 cards - 10 for each player and three in the blind. The minimum bid is normally 14 (since 2 against 2 is easier for the declarer's team, than 2 against 3). Declarer calls a partner as in the five-player game. The score is based on the minimum bid (M=14). When 2 play against 2 the winning players receive the score and the losing players pay the same amount: winnings or losses are divided equally between the declarer and partner. Alternatively, by prior agreement, some play that when the contract fails the declarer pays both opponents and the called partner pays nothing. A declarer playing alone receives from or pays to all 3 opponents.
+Tous les deux et les quatre et les deux trois rouges sont retirés du jeu, laissant 43 cartes — 10 pour chaque joueur et trois dans le *blind*. L'enchère minimum est normalement de 14 (puisque 2 contre 2 est plus facile pour l'équipe du déclarant que 2 contre 3). Le déclarant appelle un partenaire comme dans le jeu à cinq joueurs. Le score est basé sur l'enchère minimum (M=14). Quand 2 jouent contre 2, les joueurs gagnants reçoivent le score et les perdants paient le même montant : les gains ou pertes sont divisés équitablement entre le déclarant et le partenaire. Alternativement, par accord préalable, certains jouent que lorsque le contrat échoue, le déclarant paie les deux adversaires et le partenaire appelé ne paie rien. Un déclarant jouant seul reçoit de ou paie à ses 3 adversaires.
 
-In the four-player game some do not allow the declarer to call the Joker as a partner.
-**Four players** (Chicago version)
-Remove the **![heart](../images/internat/heart.gif)2** and **![club](../images/internat/club.gif)2** leaving 51 cards - 12 for each player and three in the blind. The gain or loss is divided between declarer and partner in a ratio of 2:1. This results in some fractional scores; to avoid these the following table may be used:
+Dans le jeu à quatre joueurs, certains n'autorisent pas le déclarant à appeler le Joker comme partenaire.
+**Quatre joueurs** (version de Chicago)
+Retirer le **![cœur](../images/internat/heart.gif)2** et le **![trèfle](../images/internat/club.gif)2**, laissant 51 cartes — 12 pour chaque joueur et trois dans le *blind*. Le gain ou la perte est divisé entre le déclarant et le partenaire dans un rapport de 2:1. Cela donne des scores fractionnaires ; pour les éviter, le tableau suivant peut être utilisé :
 
-| Contract | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| Declarer | 1 | 3 | 4 | 5 | 7 | 8 | 9 | 11 |
-| Partner | 1 | 1 | 2 | 3 | 3 | 4 | 5 | 5 |
-| Defenders | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Contrat | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| Déclarant | 1 | 3 | 4 | 5 | 7 | 8 | 9 | 11 |
+| Partenaire | 1 | 1 | 2 | 3 | 3 | 4 | 5 | 5 |
+| Défenseurs | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
-**Six players**: first version
-In each deal there will be five active players and one sitting out. Initially 8 cards are dealt to each player and 5 cards are placed face down on the table. The bidding then takes place as usual, but with a minimum bid of 14. The winner of the bidding then names a card that he does not have (any card - even a magic card - may be named at this point) and whoever holds that card must drop out. If no one has the named card the declarer names another. The 8 cards of the player who dropped out are shuffled together with the 5 undealt cards. From these 13 cards, two cards are dealt to each of the other four active players and the declarer takes the remaining 5 cards. So at this point the declarer has 13 cards and discards 3 of them. The game continues exactly like the normal 5-player game: the dealer selects a partner or announces 'no friend' and may raise the bid as usual. Because the minimum bid is 14 (M=14) the basic score for a successful contract is twice the difference of the bid from 14 plus the number of points taken in excess of the bid. The player who dropped out neither wins nor loses.
-Six players: second version
-A simpler method is for the players to sit out in rotation. The dealer deals cards to the other five players and takes no further part in the hand. Another method is to decide who will sit out according to the result of the previous hand. If the declarer's side wins the declarer's partner deals next and sits out: if the declarer's side loses the declarer deals and sits out.
-Seven players
-Two players sit out, using a similar process to the first six-player version described above. 7 cards are dealt to each player leaving 4 undealt cards. After the bidding the declarer names two cards and the holders of those two cards must sit out. If the two cards are held by the same player or one or both are undealt, further cards must be named until two sitting out players have been determined. Now the 7-card hands of the two players who will sit out are shuffled with the 4 undealt cards. From these 18 cards, three cards are dealt to each of the other four players, so that they have 10 cards each, and the declarer gets the remaining 6 cards. The dealer discards 3 of his 13 cards and play continues as in the 5-player game.
-Six, seven or eight players (Chicago version) 
-In Chicago, a two deck version of Mighty was developed to allow six or more people to play as active players. Two jokers are included, for a total of 106 cards. A few cards may be removed from the pack to make the deal even as follows:
+**Six joueurs** : première version
+À chaque donne, il y aura cinq joueurs actifs et un qui ne joue pas. Initialement, 8 cartes sont distribuées à chaque joueur et 5 cartes sont placées face cachée sur la table. Les enchères ont ensuite lieu comme d'habitude, avec une enchère minimum de 14. Le gagnant des enchères nomme alors une carte qu'il ne possède pas (n'importe quelle carte — même une carte magique — peut être nommée à ce stade) et quiconque détient cette carte doit se retirer. Si personne n'a la carte nommée, le déclarant en nomme une autre. Les 8 cartes du joueur qui s'est retiré sont mélangées avec les 5 cartes non distribuées. De ces 13 cartes, deux cartes sont distribuées à chacun des quatre autres joueurs actifs et le déclarant prend les 5 cartes restantes. Le déclarant a donc 13 cartes et en écarte 3. Le jeu continue exactement comme le jeu normal à 5 joueurs : le donneur choisit un partenaire ou annonce « no friend » et peut augmenter l'enchère comme d'habitude. Comme l'enchère minimum est de 14 (M=14), le score de base pour un contrat réussi est le double de la différence de l'enchère par rapport à 14 plus le nombre de points pris en excès de l'enchère. Le joueur qui s'est retiré ne gagne ni ne perd.
+**Six joueurs : deuxième version**
+Une méthode plus simple consiste à faire tourner les joueurs qui ne jouent pas. Le donneur distribue les cartes aux cinq autres joueurs et ne participe plus à la main. Une autre méthode consiste à décider qui ne joue pas en fonction du résultat de la main précédente. Si l'équipe du déclarant gagne, le partenaire du déclarant donne et ne joue pas ; si l'équipe du déclarant perd, le déclarant donne et ne joue pas.
+**Sept joueurs**
+Deux joueurs ne jouent pas, en utilisant un processus similaire à la première version à six joueurs décrite ci-dessus. 7 cartes sont distribuées à chaque joueur, laissant 4 cartes non distribuées. Après les enchères, le déclarant nomme deux cartes et les détenteurs de ces deux cartes doivent se retirer. Si les deux cartes sont détenues par le même joueur ou si l'une ou les deux ne sont pas distribuées, d'autres cartes doivent être nommées jusqu'à ce que deux joueurs absents soient déterminés. Les mains de 7 cartes des deux joueurs qui ne joueront pas sont mélangées avec les 4 cartes non distribuées. De ces 18 cartes, trois cartes sont distribuées à chacun des quatre autres joueurs, de sorte qu'ils ont chacun 10 cartes, et le déclarant obtient les 6 cartes restantes. Le donneur écarte 3 de ses 13 cartes et le jeu continue comme dans le jeu à 5 joueurs.
+**Six, sept ou huit joueurs** (version de Chicago)
+À Chicago, une version à deux jeux de Mighty a été développée pour permettre à six personnes ou plus de jouer en tant que joueurs actifs. Deux jokers sont inclus, pour un total de 106 cartes. Quelques cartes peuvent être retirées du jeu pour que la donne soit régulière comme suit :
 
-- six players - use all the cards; deal 17 cards each;
+- six joueurs — utiliser toutes les cartes ; distribuer 17 cartes chacun ;
 
-- seven players - remove both **![club](../images/internat/club.gif)2**'s and both **![heart](../images/internat/heart.gif)2**'s; deal 14 cards each;
+- sept joueurs — retirer les deux **![trèfle](../images/internat/club.gif)2** et les deux **![cœur](../images/internat/heart.gif)2** ; distribuer 14 cartes chacun ;
 
-- eight players - remove both ![club](../images/internat/club.gif)2's, both ![heart](../images/internat/heart.gif)2's, one **![diamond](../images/internat/diamond.gif)2** and one **![spade](../images/internat/spade.gif)2**; deal 12 cards each.
+- huit joueurs — retirer les deux ![trèfle](../images/internat/club.gif)2, les deux ![cœur](../images/internat/heart.gif)2, un **![carreau](../images/internat/diamond.gif)2** et un **![pique](../images/internat/spade.gif)2** ; distribuer 12 cartes chacun.
 
-There are always **four** cards in the blind. The minimum bid is 25 and the maximum is 40. If the declarer changes to a new trump suit after looking at the blind, the bid must be increased by three; if changing to no-trump it must be increased by two.
-The declarer calls two partners by naming two distinct cards. The players (other than the declarer) who play the first copies of each of these cards join the declarer's team, which therefore normally consists of three players. Either partner can announce themselves when they win a trick containing point cards. If the other partner is not yet known, the player making such an announcement must say which of the two called cards it is based on. It can sometimes happen that the declarer only has one partner - for example if a single player has both copies of both called cards.
-When two identical cards are played to the same trick, the first played beats the second.
-The defenders win or lose one unit for each point bid in excess of 24. The gain or loss is divided among the declarer's team in such a way that the declarer wins or loses twice as much as the each of declarer's partners. Fractional scores can be avoided by using the scoring tables on John Pannell's [Mighty page](https://web.archive.org/web/20160306134510/http://www.oaimages.com/mighty/index.shtml)
+Il y a toujours **quatre** cartes dans le *blind*. L'enchère minimum est de 25 et le maximum est de 40. Si le déclarant change de couleur d'atout après avoir regardé le *blind*, l'enchère doit être augmentée de trois ; s'il passe à sans-atout, elle doit être augmentée de deux.
 
-## Variations
+Le déclarant appelle deux partenaires en nommant deux cartes distinctes. Les joueurs (autres que le déclarant) qui jouent les premières copies de chacune de ces cartes rejoignent l'équipe du déclarant, qui compte donc normalement trois joueurs. Chaque partenaire peut se révéler lorsqu'il gagne une levée contenant des cartes à points. Si l'autre partenaire n'est pas encore connu, le joueur faisant cette annonce doit préciser laquelle des deux cartes appelées est concernée. Il peut arriver que le déclarant n'ait qu'un seul partenaire — par exemple si un seul joueur détient les deux copies des deux cartes appelées.
 
-Mighty is a relatively new game which is steadily developing, so it is not surprising that a large number of variants have appeared.
+Quand deux cartes identiques sont jouées à la même levée, la première jouée bat la deuxième.
 
-### Bidding
+Les défenseurs gagnent ou perdent une unité pour chaque point enchéri au-delà de 24. Le gain ou la perte est réparti entre l'équipe du déclarant de sorte que le déclarant gagne ou perd deux fois plus que chacun des partenaires du déclarant. Les scores fractionnaires peuvent être évités en utilisant les tables de score de la page [Mighty](https://web.archive.org/web/20160306134510/http://www.oaimages.com/mighty/index.shtml) de John Pannell.
 
-Some play that the bidding is begun by the partner (holder of the called card) from the previous hand (or the first of the two partners in the double deck Chicago game). 
+## Variantes
 
-Some play that if all players other than last to speak pass in the first round of bidding the last player must bid at least the minimum.
+Mighty est un jeu relativement nouveau qui se développe constamment, il n'est donc pas surprenant qu'un grand nombre de variantes soient apparues.
 
-Some play that if all five players pass in the first round of bidding there is a second round in which players have another chance to bid. If everyone passes again the cards are redealt by the same dealer.
+### Enchères
 
-Some play with a higher or lower minimum opening bid: 14 or 12 instead of the usual 13.
+Certains jouent que les enchères sont commencées par le partenaire (détenteur de la carte appelée) de la main précédente (ou le premier des deux partenaires dans le jeu à double jeu de Chicago).
 
-### Redeal
+Certains jouent que si tous les joueurs sauf le dernier à parler passent au premier tour d'enchères, le dernier joueur doit enchérir au moins le minimum.
 
-Many people use different criteria for a hand that qualifies to demand a redeal.
+Certains jouent que si les cinq joueurs passent au premier tour d'enchères, il y a un deuxième tour dans lequel les joueurs ont une autre chance d'enchérir. Si tout le monde passe à nouveau, les cartes sont redonnées par le même donneur.
 
-- Some play that if all 10 cards of a player's hand are point cards they can demand a redeal.
+Certains jouent avec une enchère ouverture minimum plus haute ou plus basse : 14 ou 12 au lieu des 13 habituels.
 
-- Some play that a player who has one Jack and no other point cards can demand a redeal.
+### Redonne
 
-- Some play that a redeal can only be demanded by a player who has no scoring cards at all.
+Beaucoup utilisent des critères différents pour une main qui se qualifie pour demander une redonne.
 
-- For the purpose of demanding a redeal some count the Mighty as -1 instead of +0
+- Certains jouent que si les 10 cartes de la main d'un joueur sont des cartes à points, ils peuvent demander une redonne.
 
-Some play that if there is a bid of 20, no one can demand a redeal. Also that if a player demands a redeal another player can prevent the redeal by bidding 20.
+- Certains jouent qu'un joueur qui a un Valet et aucune autre carte à points peut demander une redonne.
 
-Some play that a redeal can only be demanded before the bidding begins.
+- Certains jouent qu'une redonne ne peut être demandée que par un joueur qui n'a aucune carte à points.
 
-When a redeal is demanded, some play that the new deal is not by the player who demanded it, but the turn to deal passes to the next player in rotation, or back to the previous player, or the same player deals again.
+- Pour demander une redonne, certains comptent le Mighty comme -1 au lieu de +0.
 
-### Exchanging and Calling
+Certains jouent que s'il y a une enchère de 20, personne ne peut demander une redonne. De même, si un joueur demande une redonne, un autre joueur peut l'empêcher en enchérissant 20.
 
-Some play that the declarer exposes the three cards of the kitty to the other players before picking them up, but this is unusual.
+Certains jouent qu'une redonne ne peut être demandée qu'avant le début des enchères.
 
-Some players allow the declarer to change the trump suit before picking up the kitty. In this case, the minimum increase is reduced by 1 (e.g. 16 Spades to 16 No trump, 14 Hearts to 15 Spades).
+Quand une redonne est demandée, certains jouent que la nouvelle donne n'est pas faite par le joueur qui l'a demandée, mais que le tour de donne passe au joueur suivant, ou revient au joueur précédent, ou que le même joueur redistribue.
 
-Some allow the declarer choose a partner directly by naming the player rather than by calling a card. 
+### Échange et appel
 
-Some do not allow the declarer to play secretly without a friend by calling a card that is in their own hand or in the kitty. The declarer can only play alone by announcing "no friend". Others do not allow the declarer ever to play alone. 
+Certains jouent que le déclarant expose les trois cartes du *kitty* aux autres joueurs avant de les ramasser, mais c'est inhabituel.
 
-### Play
+Certains joueurs autorisent le déclarant à changer la couleur d'atout avant de ramasser le *kitty*. Dans ce cas, l'augmentation minimum est réduite de 1 (par exemple 16 piques à 16 sans-atout, 14 cœurs à 15 piques).
 
-There are several variant rules on when and how the Joker can be led or played to a trick.
+Certains autorisent le déclarant à choisir un partenaire directement en nommant le joueur plutôt qu'en appelant une carte.
 
-- Some players do not allow the Joker to be led to the first trick. In this version it is illegal for the declarer to discard to the kitty in a way that leaves them with only trumps and the Joker, as they would then have no card that could legally be led to the first trick. A declarer who has only trumps and the Joker after picking up the kitty has to discard the Joker.
+Certains n'autorisent pas le déclarant à jouer secrètement sans partenaire en appelant une carte qui se trouve dans sa propre main ou le *kitty*. Le déclarant ne peut jouer seul qu'en annonçant « no friend ». D'autres n'autorisent jamais le déclarant à jouer seul.
 
-- When a player leads the Joker to a trick other than the first or last, some give the leader the option not to name a suit but allow 'any card' to be played. No card other than the Joker of the Mighty can win this trick in any case, but 'any card' gives the players the choice of which card to donate to the winner.
+### Le jeu
 
-- When the Joker is led to the last trick (or to the first trick if allowed), there are two rule options:
+Il existe plusieurs règles variantes sur quand et comment le Joker peut être mené ou joué à une levée.
 
-- The player cannot select the suit to be played, but the second player may play any card. This card determines the suit to be followed and the highest card of this suit will win the trick if no trumps are played.
+- Certains joueurs n'autorisent pas le Joker à être mené à la première levée. Dans cette version, il est interdit au déclarant d'écarter au *kitty* de manière à ne garder que des atouts et le Joker, car il n'aurait alors aucune carte qui pourrait légalement être menée à la première levée. Un déclarant qui n'a que des atouts et le Joker après avoir ramassé le *kitty* doit écarter le Joker.
 
-- The player may select the suit to be played as in other tricks, and if nobody plays that suit the Joker wins the trick.
+- Quand un joueur mène le Joker à une levée autre que la première ou la dernière, certains donnent au meneur la possibilité de ne pas nommer une couleur mais d'autoriser à jouer « n'importe quelle carte ». Aucune carte autre que le Joker ou le Mighty ne peut gagner cette levée de toute façon, mais « n'importe quelle carte » donne aux joueurs le choix de la carte à donner au gagnant.
 
-Some play that the Mighty does not acquire its special power as a trump until the second trick. In the first trick it is just the highest spade.
+- Quand le Joker est mené à la dernière levée (ou à la première levée si autorisé), il y a deux options de règle :
 
-A few people play that if the partner holding the called card wins a trick containing point cards, they are allowed (but not forced) at this point to announce that they are the partner and add their tricks to declarer's pile.
+  - Le joueur ne peut pas sélectionner la couleur à jouer, mais le deuxième joueur peut jouer n'importe quelle carte. Cette carte détermine la couleur à suivre et la plus haute carte de cette couleur gagnera la levée si aucun atout n'est joué.
 
-In John Pannell's version, if the contract is 17 or higher (in a game with 4 or 5 player), the declarer can on one occasion during the hand instruct partner to win the trick. Partner does not have to obey. In the 6 to 8 player double deck game, if the contract is 34 or higher the declarer may issue two such instructions during a hand. 
+  - Le joueur peut sélectionner la couleur à jouer comme dans les autres levées, et si personne ne joue cette couleur, le Joker gagne la levée.
 
-### Scoring
+Certains jouent que le Mighty n'acquiert pas son pouvoir spécial d'atout avant la deuxième levée. À la première levée, il est simplement le plus haut pique.
 
-The scoring system given in the main description above is probably the most widespread but there are several other simpler methods in common use.
+Quelques personnes jouent que si le partenaire détenant la carte appelée gagne une levée contenant des cartes à points, il est autorisé (mais pas obligé) à ce moment à annoncer qu'il est le partenaire et à ajouter ses levées à la pile du déclarant.
 
-- One is that the score for a successful contract is simply 1 unit for each taken scored by declarer's team in excess of 10, irrespective of the bid (P-10).
+Dans la version de John Pannell, si le contrat est de 17 ou plus (dans un jeu à 4 ou 5 joueurs), le déclarant peut une fois pendant la main ordonner au partenaire de gagner la levée. Le partenaire n'est pas obligé d'obéir. Dans le jeu à double jeu de 6 à 8 joueurs, si le contrat est de 34 ou plus, le déclarant peut donner deux telles instructions pendant une main.
 
-- Another is that a successful contract scores (P-M), that is 1 unit for each point taken in excess of the minimum bid.
+### Comptage des points
 
-- A third system is that a successful contract scores (P-M+1), which with a minimum bid of 13 is 1 unit for each point taken in excess of 12.
+Le système de comptage donné dans la description principale ci-dessus est probablement le plus répandu, mais il existe plusieurs autres méthodes plus simples d'usage courant.
 
-The basic score for a failed contract is normally just the number of points by which declarer's team is short of the target: (B-P). Some players do not apply doubles to this for a failed no-trump or no friend contract, making the declarer's advantage in these cases even greater. On the other hand a few players double the score for all failed contracts to reduce the imbalance between potential gains and losses for the declarer's team. 
+- L'une est que le score d'un contrat réussi est simplement de 1 unité pour chaque point marqué par l'équipe du déclarant au-delà de 10, indépendamment de l'enchère (P-10).
 
-In some scoring methods the score for bidding the minimum and taking the exact number of points that are needed according to the formula is zero. Some groups award a score of 1 in favour of the declarer's team instead of 0 in this special case.
+- Une autre est qu'un contrat réussi marque (P-M), c'est-à-dire 1 unité pour chaque point pris au-delà de l'enchère minimum.
 
-In all cases the conversion of the score to payments is the same - each defender pays of receives the score and the declarer wins or loses twice as much as the partner.
+- Un troisième système est qu'un contrat réussi marque (P-M+1), ce qui avec une enchère minimum de 13 donne 1 unité pour chaque point pris au-delà de 12.
 
-Some but not all players apply doubles to the score in the some or all of the following cases:
+Le score de base pour un contrat échoué est normalement simplement le nombre de points dont l'équipe du déclarant est en dessous de l'objectif : (B-P). Certains joueurs n'appliquent pas de doubles pour un contrat sans-atout ou no friend échoué, rendant l'avantage du déclarant dans ces cas encore plus grand. D'un autre côté, quelques joueurs doublent le score pour tous les contrats échoués pour réduire le déséquilibre entre les gains et pertes potentiels de l'équipe du déclarant.
 
-- the declarer plays with no trump suit; 
+Dans certaines méthodes de comptage, le score pour avoir enchéri le minimum et pris exactement le nombre de points nécessaires selon la formule est de zéro. Certains groupes accordent un score de 1 en faveur de l'équipe du déclarant au lieu de 0 dans ce cas spécial.
 
-- the declarer buries the Mighty in the blind; 
+Dans tous les cas, la conversion du score en paiements est la même — chaque défenseur paie ou reçoit le score et le déclarant gagne ou perd deux fois plus que le partenaire.
 
-- the declarer buries the Joker in the blind;
+Certains joueurs (mais pas tous) appliquent des doubles au score dans certains ou tous les cas suivants :
 
-- the declarer plays without a partner by declaring 'no friend';
+- le déclarant joue sans atout ;
 
-- the declarer's team takes all 20 points;
+- le déclarant enterre le Mighty dans le *blind* ;
 
-- declarer bids a 'grand-slam' (all 20 points);
+- le déclarant enterre le Joker dans le *blind* ;
 
-- a back run: declarer's team takes 9 points or less.
+- le déclarant joue sans partenaire en déclarant « no friend » ;
 
-The doubles are cumulative, so if all are in effect astronomical amounts can be won.
+- l'équipe du déclarant prend tous les 20 points ;
 
-Some but not all play that these doubles apply to declarer losses as well as wins where relevant.
+- le déclarant enchérit un « grand chelem » (tous les 20 points) ;
 
-In the previous version of this page, the score was based on the difference between the bid and the minimum plus 1 (B-M+1) with no score for extra points taken by the declarer's team, unless they managed to double the score by taking all 20. In this system the payment for a failed contract was equal to the amount the declarer's team would have won, independent of the number of points by which declarer's team failed except when the loss was doubled for a back run. This balances the rewards and risks of bidding more evenly, but it seems that this scoring system is nowadays rarely used.
+- un *back run* : l'équipe du déclarant prend 9 points ou moins.
 
-Some players have different criteria for a back run:
+Les doubles sont cumulatifs, donc si tous sont en vigueur, des sommes astronomiques peuvent être gagnées.
 
-- that the defenders need only 10 or more points for a back run, or
+Certains (mais pas tous) jouent que ces doubles s'appliquent aux pertes du déclarant ainsi qu'aux gains, le cas échéant.
 
-- that a back run is only scored when the bid fails by a margin of at least 10 points.
+Dans la version précédente de cette page, le score était basé sur la différence entre l'enchère et le minimum plus 1 (B-M+1) sans score pour les points supplémentaires pris par l'équipe du déclarant, à moins qu'ils ne réussissent à doubler le score en prenant les 20. Dans ce système, le paiement pour un contrat échoué était égal au montant que l'équipe du déclarant aurait gagné, indépendamment du nombre de points de l'échec sauf quand la perte était doublée pour un *back run*. Cela équilibre les récompenses et les risques des enchères plus équitablement, mais il semble que ce système de comptage soit de nos jours rarement utilisé.
 
-## Tactics, and other sources of information
+Certains joueurs ont des critères différents pour un *back run* :
 
-As in any strategic trick-taking game it is important to keep track of which cards have been played, especially the trump suit cards and magic cards. It is also important to use the Mighty and Joker to maximum effect, and to avoid having the Mighty forced out by a spade lead when you have no other spades or the Joker by the Joker hunter. 
+- que les défenseurs n'ont besoin que de 10 points ou plus pour un *back run*, ou
 
-Dan Roth's eBook on Mighty, including extensive advice on strategy and example hands, is available from [Amazon](https://amzn.to/3biz9da) or [Apple Books](https://books.apple.com/us/book/mighty-the-card-game/id1550299498).
+- qu'un *back run* n'est compté que lorsque l'enchère échoue d'au moins 10 points.
 
-It is possible to employ some conventions in the bidding. Suggestions for bidding and play tactics can be found on John Pannell's [Mighty: Bidding and Play](https://web.archive.org/web/20120210224621/http://www.oaimages.com/mighty/mbidding.shtml) page.
+## Tactiques et autres sources d'information
 
-Another description of Mighty (from which some of the information on this page was obtained) can be found on John Pannell's page [Mighty: The Card Game](https://web.archive.org/web/20160306134510/http://www.oaimages.com/mighty/index.shtml) (archive copy).
+Comme dans tout jeu de levées stratégique, il est important de suivre quelles cartes ont été jouées, surtout les cartes d'atout et les cartes magiques. Il est aussi important d'utiliser le Mighty et le Joker à effet maximal, et d'éviter de se faire forcer le Mighty par une levée de pique quand vous n'avez pas d'autres piques, ou le Joker par le Joker hunter.
 
-Some Korean websites:
+Le eBook de Dan Roth sur Mighty, comprenant de nombreux conseils de stratégie et des exemples de mains, est disponible sur [Amazon](https://amzn.to/3biz9da) ou [Apple Books](https://books.apple.com/us/book/mighty-the-card-game/id1550299498).
+
+Il est possible d'employer certaines conventions lors des enchères. Des suggestions pour les enchères et les tactiques de jeu peuvent être trouvées sur la page [Mighty : Bidding and Play](https://web.archive.org/web/20120210224621/http://www.oaimages.com/mighty/mbidding.shtml) de John Pannell.
+
+Une autre description de Mighty (dont certaines informations de cette page ont été tirées) peut être trouvée sur la page [Mighty : The Card Game](https://web.archive.org/web/20160306134510/http://www.oaimages.com/mighty/index.shtml) (copie d'archive) de John Pannell.
+
+Quelques sites coréens :
 
 - [https://mightyfriend.net/](https://mightyfriend.net/)
 
-- [http://no-smok.net/nsmk/마이티](https://web.archive.org/web/20260311131437/http://no-smok.net/nsmk/%EB%A7%88%EC%9D%B4%ED%8B%B0) (archive copy)
+- [http://no-smok.net/nsmk/마이티](https://web.archive.org/web/20260311131437/http://no-smok.net/nsmk/%EB%A7%88%EC%9D%B4%ED%8B%B0) (copie d'archive)
 
 - [https://namu.wiki/w/마이티](https://namu.wiki/w/%EB%A7%88%EC%9D%B4%ED%8B%B0)
 
-- [https://ko.wikipedia.org/wiki/마이티_(카드_게임)](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%8B%B0_(%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84)) 
-
-Home Page > Classified Index > Trick Taking Games > Picture Group > Mighty
+- [https://ko.wikipedia.org/wiki/마이티_(카드_게임)](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%8B%B0_(%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84))

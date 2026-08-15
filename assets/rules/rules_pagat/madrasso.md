@@ -4,133 +4,133 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** As-dix, Plis
-**But :** A four-player partnership trick-taking card gameusing an Italin 40-card pack  that is popular in and around Venice.
+**But :** Jeu de cartes de plis en partenariat pour quatre joueurs utilisant un jeu italien de 40 cartes, populaire à Venise et dans ses environs.
 **Autres noms :** Trevigiane
 
 ---
 
 - Introduction
 
-- Players and cards
+- Joueurs et cartes
 
 ## Introduction
 
-**Madrasso**, also known as **Mandrasso** or **Magrasso**, is perhaps the most popular and widespread card game in Venice and the surrounding region, where it has over the last 50 years practically replaced the older game Scarabocion. In the ranking and values of cards and the presence of a trump suit it is related to Briscola, but because of the necessity to follow suit (as in Tressette) Madrasso offers greater scope for sophisticated card play technique.
+**Madrasso**, aussi connu sous le nom de **Mandrasso** ou **Magrasso**, est peut-être le jeu de cartes le plus populaire et le plus répandu à Venise et dans la région environnante, où il a pratiquement remplacé au cours des 50 dernières années le jeu plus ancien Scarabocion. Par le classement et la valeur des cartes et la présence d'une couleur d'atout, il est apparenté à la Briscola, mais en raison de l'obligation de suivre la couleur (comme au Tressette), le Madrasso offre une plus grande portée pour les techniques de jeu sophistiquées.
 
-*This page is based on a description by Paolo Valentini, made for the 1997 convention of the [International Playing-Card Society](https://www.i-p-c-s.org/wp/home-2/), translated and revised by John McLeod. *
+*Cette page est basée sur une description de Paolo Valentini, réalisée pour la convention de 1997 de l'[International Playing-Card Society](https://www.i-p-c-s.org/wp/home-2/), traduite et révisée par John McLeod.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players, two against two in fixed partnerships, partners facing each other. A 40 card Italian pack is used - for authenticity it should be the Venetian pattern, also known as Trevigiane, which looks like this:
+Il y a quatre joueurs, deux contre deux en partenariats fixes, les partenaires se faisant face. On utilise un jeu italien de 40 cartes — pour l'authenticité, il devrait s'agir du motif vénitien, aussi connu sous le nom de Trevigiane, qui ressemble à ceci :
 
-| | asso(ace) | tre(3) | re(king) | cavallo(horse) | fante(jack) | 7 | 6 | 5 | 4 | 2 |
+| | asso(as) | tre(3) | re(roi) | cavallo(cheval) | fante(valet) | 7 | 6 | 5 | 4 | 2 |
 | | 11 points | 10 points | 4 points | 3 points | 2 points | - - - - - - - - - - - 0 points - - - - - - - - - - - |
-| oridenari(coins) | | | | | | | | | | |
-| spade(swords) | | | | | | | | | | |
-| bastoni(batons) | | | | | | | | | | |
-| coppe(cups) | | | | | | | | | | |
-| | Card illustrations by permission of Modiano |
+| oridenari(pieces) | | | | | | | | | | |
+| spade(épées) | | | | | | | | | | |
+| bastoni(bâtons) | | | | | | | | | | |
+| coppe(coupes) | | | | | | | | | | |
+| | Illustrations des cartes avec l'autorisation de Modiano |
 
-To identify the cards while playing, it may help to notice that on the numeral cards, the swords are mostly curved whereas the batons are all straight. The kings all have crowns, distinguishing them from the jacks. The aces of swords and batons can be confusing at first - one way to tell them apart is to notice that the ace of swords has two chickens on it, while the ace of batons has only one.
+Pour identifier les cartes pendant le jeu, il peut être utile de remarquer que sur les cartes numérales, les épées sont principalement courbées tandis que les bâtons sont tous droits. Les rois ont tous des couronnes, les distinguant des valets. Les as d'épées et de bâtons peuvent être déroutants au début — un moyen de les distinguer est de remarquer que l'as d'épées a deux poules dessus, tandis que l'as de bâtons n'en a qu'une seule.
 
-The object of the game is to win tricks containing valuable cards, and to win the last trick. The ranking of the cards in tricks corresponds to their scoring value. As in Briscola, the highest ranking card is the Ace (worth 11 points), followed by the Three (10 points), King (*Re*) (4 points), Horse (*Cavallo*) (3 points), Jack (*Fante*) (2 points), and continuing with the 7, 6, 5, 4 and 2 (all worth 0 points). There is a total of 30 points in each suit and 120 points in the pack. The aces and threes are called *carichi*, the picture cards are called *punti* and the valueless pip cards are called *scartine* or *lisci*.
+Le but du jeu est de remporter des plis contenant des cartes de valeur, et de remporter le dernier pli. Le classement des cartes dans les plis correspond à leur valeur au comptage. Comme à la Briscola, la carte la plus haute est l'As (valant 11 points), suivie du Trois (10 points), du Roi (*Re*) (4 points), du Cheval (*Cavallo*) (3 points), du Valet (*Fante*) (2 points), et en continuant avec le 7, 6, 5, 4 et le 2 (tous valant 0 point). Il y a un total de 30 points dans chaque couleur et 120 points dans le jeu. Les as et les trois sont appelés *carichi*, les figures sont appelées *punti* et les cartes sans valeur sont appelées *scartine* ou *lisci*.
 
-## The Deal
+## La distribution
 
-The dealer is chosen at random for the first hand; in subsequent hands the turn to deal passes to the right. The deal is anticlockwise; 10 cards are dealt to each player in the following way. First a packet of three cards is dealt face down to each player, then a packet of 2 cards each. The next card (the 21st) is placed face up in front of the dealer, and it determines the trump suit (called *trionfi* in Venice). Then another batch of three cards is dealt face down to the other three players but just two cards face down to the dealer, and finally another two cards are dealt face down to each player.All the players now have 10 cards, all face down except for the dealer's trump card, which is face up. The players pick up their concealed cards, but the dealer's face up card remains on the table until it is played to a trick. 
+Le donneur est choisi au hasard pour la première main ; aux mains suivantes, le tour de distribuer passe à la droite. La distribution est antihoraire ; 10 cartes sont distribuées à chaque joueur de la manière suivante. D'abord un paquet de trois cartes face cachée à chaque joueur, puis un paquet de 2 cartes chacun. La carte suivante (la 21e) est placée face ouverte devant le donneur, et elle détermine la couleur d'atout (appelée *trionfi* à Venise). Puis un autre lot de trois cartes est distribué face cachée aux trois autres joueurs mais seulement deux cartes face cachée au donneur, et enfin deux autres cartes sont distribuées face cachée à chaque joueur. Tous les joueurs ont maintenant 10 cartes, toutes face cachée sauf la carte d'atout du donneur, qui est face ouverte. Les joueurs ramassent leurs cartes cachées, mais la carte face ouverte du donneur reste sur la table jusqu'à ce qu'elle soit jouée dans un pli.
 
-The holder of the 7 of trumps is allowed to subsitute it for the face up card (naturally this is only done if the face up card is higher than a seven). This can only be done during the first trick, immediately before the holder of the trump seven plays to the trick.
+Le détenteur du 7 d'atout est autorisé à le substituer à la carte face ouverte (naturellement, ceci n'est fait que si la carte face ouverte est supérieure à un sept). Cela ne peut être fait que pendant le premier pli, juste avant que le détenteur du sept d'atout ne joue au pli.
 
-## The Play
+## Le jeu
 
-The player to the right of the dealer leads to the first trick. Each trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led. The winner of each trick leads to the next. 
+Le joueur à la droite du donneur entame le premier pli. Chaque pli est remporté par le plus haut atout s'il y en a, ou par la plus haute carte de la couleur entamée s'il n'y a pas d'atout. Le gagnant de chaque pli entame le suivant.
 
-Suit must be followed - in each trick the other players must play cards of the same suit as the card led to the trick if they can. There is no compulsion to beat the previous cards played to the trick. A player who has no card of the suit led is free to play any card - either a trump or a card of another suit.
+La couleur doit être suivie — dans chaque pli, les autres joueurs doivent jouer des cartes de la même couleur que la carte entamée s'ils le peuvent. Il n'y a aucune obligation de battre les cartes précédemment jouées dans le pli. Un joueur qui n'a pas de carte de la couleur entamée est libre de jouer n'importe quelle carte — soit un atout, soit une carte d'une autre couleur.
 
-The winners of the last trick earn a bonus of 10 points.
+Les gagnants du dernier pli gagnent un bonus de 10 points.
 
-In contrast to Briscola and Tressette, no physical signals or conversation of any kind are permitted.
+Contrairement à la Briscola et au Tressette, aucun signal physique ni aucune conversation d'aucune sorte ne sont autorisés.
 
-If a player who breaks the rules by failing to follow suit when holding a card of the suit led is said to *"fa cassone"*. The play ceases and the opposing side score 130 points. (See note)
+Si un joueur enfreint les règles en ne suivant pas la couleur alors qu'il détient une carte de la couleur entamée, on dit qu'il fait un *« fa cassone »*. Le jeu cesse et le camp adverse marque 130 points. (Voir note)
 
-## Scoring and winning the game
+## Comptage et fin de partie
 
-A game of Madrasso consists of at least 10 deals - the individual deals are called in Venice *"battute"*. At the end of the play of each deal, each team counts up the points in the tricks they have won, and the winners of the last trick add 10. The points won by the two teams always add up to 130, so it is only necessary for one team to write down what they have scored. Normally no running total is kept - one team simply writes their scores for each deal in a column.
+Une partie de Madrasso comprend au moins 10 donnes — les donnes individuelles sont appelées *« battute »* à Venise. À la fin du jeu de chaque donne, chaque équipe compte les points dans les plis qu'elle a remportés, et les gagnants du dernier pli ajoutent 10. Les points remportés par les deux équipes s'additionnent toujours à 130, il n'est donc nécessaire que pour une seule équipe de noter ce qu'elle a marqué. Normalement, aucun total courant n'est conservé — une équipe écrit simplement ses scores pour chaque donne dans une colonne.
 
-If after 10 deals one team has a scored a total of 777 points or more, that team wins. The score of the team that has not been keeping score is calculated by subtracting the scoring team's total from 1300. Since the total points available in 10 deals is 1300 it is impossible for both to have as many as 777. If at the end of 10 deals neither team has reached 777, further deals are played until one team reaches 777 or until someone *"si chiama fuori"* (declares that they are out). 
+Si après 10 donnes une équipe a marqué un total de 777 points ou plus, cette équipe gagne. Le score de l'équipe qui n'a pas tenu le score est calculé en soustrayant le total de l'équipe qui a compté de 1300. Puisque le total des points disponibles en 10 donnes est de 1300, il est impossible que les deux aient au moins 777. Si à la fin de 10 donnes aucune équipe n'a atteint 777, d'autres donnes sont jouées jusqu'à ce qu'une équipe atteigne 777 ou jusqu'à ce que quelqu'un *« si chiama fuori »* (déclare qu'il se retire).
 
-A declaration of having reached 777 can only be made by a player who has just won a trick. Play immediately ceases and the points won in tricks so far taken by the team are counted. If the team which declared has 777 or more points they win; if they do not, the other team wins. If at the end of a deal it turns out that both teams have more than 777 although no one has declared, the team with the higher total wins.
+Une déclaration d'avoir atteint 777 ne peut être faite que par un joueur qui vient de gagner un pli. Le jeu cesse immédiatement et les points remportés dans les plis jusqu'à présent par l'équipe sont comptés. Si l'équipe qui a déclaré a 777 points ou plus, elle gagne ; si ce n'est pas le cas, l'autre équipe gagne. Si à la fin d'une donne il s'avère que les deux équipes ont plus de 777 bien que personne n'ait déclaré, l'équipe avec le total le plus élevé gagne.
 
-It is also possible to win by taking all 10 tricks in one deal (this is called **cappotto**). A team which manages this wins the entire game immediately. It is not sufficient to win all 130 points - even if the other team just win one trick containing four worthless cards, that is enough to prevent the *cappotto*. It is because of the possibility of *cappotto* that you are not allowed to declare until 10 hands have been played. Even if after 8 or 9 deals you already have over 777 points, it would be possible for the other side to win by making *cappotto* on one of the remaining deals.
+Il est aussi possible de gagner en remportant les 10 plis en une seule donne (cela s'appelle **cappotto**). Une équipe qui y parvient gagne la partie entière immédiatement. Il ne suffit pas de gagner tous les 130 points — même si l'autre équipe gagne un seul pli contenant quatre cartes sans valeur, cela suffit pour empêcher le *cappotto*. C'est à cause de la possibilité de *cappotto* que vous n'êtes pas autorisé à déclarer avant que 10 mains aient été jouées. Même si après 8 ou 9 donnes vous avez déjà plus de 777 points, il serait possible pour l'autre camp de gagner en faisant un *cappotto* sur l'une des donnes restantes.
 
-## Tactics
+## Tactique
 
-The technique of playing Madrasso is quite complex and somewhat reminiscent of Bridge. It is essential to remember the course of the game and which cards have already been played in order to be able to reconstruct the likely distribution of the remaining cards. Luck plays a relatively small part in this game.
+La technique de jeu du Madrasso est assez complexe et rappelle quelque peu le Bridge. Il est essentiel de se souvenir du déroulement du jeu et des cartes qui ont déjà été jouées pour pouvoir reconstituer la distribution probable des cartes restantes. La chance joue un rôle relativement mineur dans ce jeu.
 
-If the *carichi* and trumps are equally distributed, the strategy centres around trying to win the last trick, with its 10 point bonus. Another strategic focus of every hand is the play of the trumps: it is necessary to judge correctly when it is right to draw trumps, and when it is better to save them for trumping other suits. 
+Si les *carichi* et les atouts sont également répartis, la stratégie tourne autour de la tentative de gagner le dernier pli, avec son bonus de 10 points. Un autre axe stratégique de chaque main est le jeu des atouts : il est nécessaire de juger correctement quand il est approprié de tirer les atouts, et quand il vaut mieux les garder pour couper d'autres couleurs.
 
-In contrast to Bridge, where the players have information from the bidding and the cards visible in the dummy, the Madrasso player's tactics must be based solely on his own cards and the development of the play.
+Contrairement au Bridge, où les joueurs ont des informations provenant des enchères et des cartes visibles dans le mort, les tactiques du joueur de Madrasso doivent être basées uniquement sur ses propres cartes et l'évolution du jeu.
 
-### Card Play Technique and Choice of Leads
+### Technique de jeu et choix des entames
 
-There are three ways of winning tricks: 
+Il y a trois façons de remporter des plis :
 
-- by playing high cards or by finessing (the Venetian word for finesse is *passera*); 
+- en jouant des cartes hautes ou en faisant une impasse (le mot vénitien pour impasse est *passera*) ;
 
-- by establishing long suits; 
+- en établissant des couleurs longues ;
 
-- by trumping suits in which one is void.
+- en coupant des couleurs dans lesquelles on est court.
 
-In the examples the following abbreviations are used: 
+Dans les exemples, les abréviations suivantes sont utilisées :
 
-| suits | | ranks |
-| C | = coppe (cups) | | A | = asso (ace) |
-| O | = ori or denari (coins) | | 3 | = tre (three) |
-| B | = bastoni (batons) | | R | = re (king) |
-| S | = spade (swords) | | C | = cavallo (horse) |
-| | | | F | = fante (jack) |
-| | | | x | = any scartina |
+| couleurs | | rangs |
+| C | = coppe (coupes) | | A | = asso (as) |
+| O | = ori ou denari (pièces) | | 3 | = tre (trois) |
+| B | = bastoni (bâtons) | | R | = re (roi) |
+| S | = spade (épées) | | C | = cavallo (cheval) |
+| | | | F | = fante (valet) |
+| | | | x | = n'importe quelle scartina |
 
-Here are some examples of the choice of lead by the first player. In these examples batons (B) are trumps.
+Voici quelques exemples de choix d'entame par le premier joueur. Dans ces exemples, les bâtons (B) sont l'atout.
 
-| 1. | O: | Axx | S: | Rx | B: | CFx | C: | xx | Lead OA, and then Ox. |
-| 2. | O: | xxx | S: | F | B: | RFx | C: | Cxx | Lead SF (a so-called furlana) |
-| 3. | O: | 3x | S: | AFx | B: | ARxx | C: | x | Lead BA, and then BR |
-| 4. | O: | A3x | S: | 3Cx | B: | Rx | C: | Cx | Lead OA, and then O3 |
-| 5. | O: | Rx | S: | Axxx | B: | xx | C: | Fx | Lead SA, and then Sx |
-| 6. | O: | xx | S: | CFx | B: | xx | C: | 3Rx | Lead CR; if it wins follow with SF or SC |
-| 7. | O: | C | S: | Fx | B: | xxxx | C: | 3Cx | Lead OC |
-| 8. | O: | Rxx | S: | 3x | B: | A3Cx | C: | ARC | Lead BA, then B3, then BC, watching for partner's scarto di rifiuto (discouraging discard) |
+| 1. | O: | Axx | S: | Rx | B: | CFx | C: | xx | Entamer OA, puis Ox. |
+| 2. | O: | xxx | S: | F | B: | RFx | C: | Cxx | Entamer SF (une soi-disant furlana) |
+| 3. | O: | 3x | S: | AFx | B: | ARxx | C: | x | Entamer BA, puis BR |
+| 4. | O: | A3x | S: | 3Cx | B: | Rx | C: | Cx | Entamer OA, puis O3 |
+| 5. | O: | Rx | S: | Axxx | B: | xx | C: | Fx | Entamer SA, puis Sx |
+| 6. | O: | xx | S: | CFx | B: | xx | C: | 3Rx | Entamer CR ; si cela gagne, suivre avec SF ou SC |
+| 7. | O: | C | S: | Fx | B: | xxxx | C: | 3Cx | Entamer OC |
+| 8. | O: | Rxx | S: | 3x | B: | A3Cx | C: | ARC | Entamer BA, puis B3, puis BC, en observant le scarto di rifiuto (défausse décourageante) du partenaire |
 
-Here are some general principles applying to the lead and subsequent play: 
+Voici quelques principes généraux s'appliquant à l'entame et au jeu ultérieur :
 
-- If an ace is led to the first trick the leader probably has Axxx or Axx. Partner with 3xx should in principle play the 3 as the second round of the suit will probably be trumped. With 3x partner can play low in the hope of winning the second trick with the 3.
+- Si un as est entamé au premier pli, le meneur a probablement Axxx ou Axx. Le partenaire avec 3xx devrait en principe jouer le 3, car le deuxième tour de la couleur sera probablement coupé. Avec 3x, le partenaire peut jouer bas en espérant gagner le deuxième pli avec le 3.
 
-- If the first player begins by drawing trumps and then leads an ace, partner with 3Cx or 3x should never drop the 3 on the ace, but play the low card encouraging partner to continue the suit so that the second round can be won with the 3.
+- Si le premier joueur commence par tirer les atouts puis entame un as, le partenaire avec 3Cx ou 3x ne devrait jamais jouer le 3 sur l'as, mais jouer la carte basse pour encourager le partenaire à continuer la couleur afin que le deuxième tour puisse être gagné avec le 3.
 
-- **Scarto di Chiamata** (encouraging discard) - discarding pip cards of a suit in ascending order 2-4-5-6-7 encourages partner to lead the suit discarded.
+- **Scarto di Chiamata** (défausse encourageante) — se défausser de cartes de petite valeur d'une couleur dans l'ordre croissant 2-4-5-6-7 encourage le partenaire à entamer la couleur défaussée.
 
-- **Scarto di Rifiuta** (discouraging discard) - discarding beginning with a picture (C or F) or a 7 and continuing downwards 6-5-4-2 warns partner that this is a weak suit.
+- **Scarto di Rifiuta** (défausse décourageante) — se défausser en commençant par une figure (C ou F) ou un 7 et en continuant vers le bas 6-5-4-2 avertit le partenaire que c'est une couleur faible.
 
-- If you don't have a strong hand (few *carichi* and pictures) and your distribution is 3-3-3-1 or 4-3-2-1, you should lead your singleton, even if it is a picture, making a *chicane* (void) and preparing to trump the next lead of that suit with a small trump. A singleton lead like this is called *"alla furlana"*.
+- Si vous n'avez pas une main forte (peu de *carichi* et de figures) et que votre distribution est 3-3-3-1 ou 4-3-2-1, vous devriez entamer votre singleton, même si c'est une figure, créant un *chicane* (vide) et vous préparant à couper la prochaine entame de cette couleur avec un petit atout. Une entame singleton comme celle-ci est appelée *« alla furlana »*.
 
-- With a strong hand (*carichi*, pictures and trumps) draw trumps at once, starting with the ace if you have it. Otherwise, holding for example 3Cxx you should start with the *cavallo* hoping partner has the ace. Partner leads back trumps and you play the 3, hoping for an even trump distribution, in which case your two low trumps will be established. If this works you can continue with a low trump, so that your partner can show a weak suit by means of a *scarto di rifiuta* (normally throwing a C, F or 7). If you have two or three losers, you continue with your last trump and your partner can either make a *scarto di rifiuta* in another suit showing that the unplayed suit is strongest, or continue the first *scarto di rifiuta*, throwing a 6, 5, 4 or 2 to show two strong suits. Now you continue by playing your remaining winning cards, to establish tricks in your partner's hand. Finally you lead partner's indicated strong suit, hoping that partner can win the remaining tricks and make *cappotto*. If partner indicated only one strong suit you must begin with your highest card of that suit, for example leading the 3 from 3x, so that the suit will not be blocked. 
+- Avec une main forte (*carichi*, figures et atouts), tirez les atouts immédiatement, en commençant par l'as si vous l'avez. Sinon, tenant par exemple 3Cxx, vous devriez commencer par le *cavallo* en espérant que le partenaire a l'as. Le partenaire entame des atouts en retour et vous jouez le 3, en espérant une distribution uniforme des atouts, auquel cas vos deux atouts bas seront établis. Si cela fonctionne, vous pouvez continuer avec un atout bas, pour que votre partenaire puisse montrer une couleur faible au moyen d'un *scarto di rifiuta* (normalement en jetant un C, un F ou un 7). Si vous avez deux ou trois perdantes, vous continuez avec votre dernier atout et votre partenaire peut soit faire un *scarto di rifiuta* dans une autre couleur montrant que la couleur non jouée est la plus forte, soit continuer le premier *scarto di rifiuta*, en jetant un 6, un 5, un 4 ou un 2 pour montrer deux couleurs fortes. Maintenant vous continuez en jouant vos cartes gagnantes restantes, pour établir des plis dans la main de votre partenaire. Enfin, vous entamez la couleur forte indiquée par votre partenaire, en espérant que le partenaire puisse gagner les plis restants et faire un *cappotto*. Si le partenaire n'a indiqué qu'une seule couleur forte, vous devez commencer avec votre carte la plus haute de cette couleur, par exemple entamer le 3 à partir de 3x, pour que la couleur ne soit pas bloquée.
 
-- With an average hand containing a *chicane* (void), an ace, and some low trumps, lead the ace followed by a low card of the same suit. This way you lose the lead and hope to trump with one of your small trumps when your void suit is led.
+- Avec une main moyenne contenant un *chicane* (vide), un as et quelques atouts bas, entamez l'as suivi d'une carte basse de la même couleur. De cette façon, vous perdez l'entame et espérez couper avec l'un de vos petits atouts lorsque votre couleur vide est entamée.
 
-- From a combination like 3Rx or 3Cx lead the R or C.
+- À partir d'une combinaison comme 3Rx ou 3Cx, entamez le R ou le C.
 
-- When playing second or third to a trick holding A3 or at most A3x, play the 3 to indicate to your partner that you also have the ace. From A3xx play the ace, as the second round of the suit will probably be trumped. 
+- En jouant deuxième ou troisième dans un pli en tenant A3 ou au plus A3x, jouez le 3 pour indiquer à votre partenaire que vous avez aussi l'as. À partir de A3xx, jouez l'as, car le deuxième tour de la couleur sera probablement coupé.
 
-- If a low card of a suit is led and you are third or fourth to play holding AC or Ax, finesse against the 3, playing your picture or small card, unless you are close to 777 and playing the ace gives you enough to declare.
+- Si une carte basse d'une couleur est entamée et que vous jouez troisième ou quatrième en tenant AC ou Ax, faites une impasse contre le 3, en jouant votre figure ou votre petite carte, sauf si vous êtes proche de 777 et que jouer l'as vous donne assez pour déclarer.
 
-- If a suit is led of which you hold 3x, second in hand you should play low. If you play third to the trick, you can play the 3, hoping that the second player and not the fourth has the ace.
+- Si une couleur est entamée dans laquelle vous tenez 3x, en deuxième position vous devriez jouer bas. Si vous jouez troisième au pli, vous pouvez jouer le 3, en espérant que le deuxième joueur et non le quatrième a l'as.
 
-- If a suit is led in which you hold 3R, you should always play the R, unless winning with the 3 would give you enough to declare.
+- Si une couleur est entamée dans laquelle vous tenez 3R, vous devriez toujours jouer le R, sauf si gagner avec le 3 vous donnerait assez pour déclarer.
 
-## Example deals
+## Exemples de donnes
 
-In these examples, coins are trumps.
+Dans ces exemples, les pièces sont l'atout.
 
 | 1. | | O: | R | | |
 | | | S: | Cxx | | |
@@ -145,7 +145,7 @@ In these examples, coins are trumps.
 | | | B: | Cxx | | |
 | | | C: | 3x | | |
 
-West leads the OA and continues with the O3 and OC. On the third trick East discards the CF to show weakness in cups. West now leads the BR to east's BA hoping that east, after cashing the B3, will lead a cup allowing West to finesse against the 3. In fact the finesse does not work, as the C3 is held by South. The aim of this strategy is to make a cappotto if it is possible; however with these E-W cards, even if North has the C3, a trick will eventually be lost to the SA.
+L'Ouest entame le OA et continue avec le O3 et le OC. Au troisième pli, l'Est se défausse du CF pour montrer sa faiblesse en coupes. L'Ouest entame alors le BR vers le BA de l'Est, en espérant que l'Est, après avoir encaissé le B3, entamera une coupe permettant à l'Ouest de faire une impasse contre le 3. En fait, l'impasse ne fonctionne pas, le C3 étant détenu par le Sud. Le but de cette stratégie est de faire un cappotto si possible ; cependant avec ces cartes E-O, même si le Nord a le C3, un pli finira par être perdu au SA.
 
 | 2. | | O: | CF | | |
 | | | S: | Rxxx | | |
@@ -160,20 +160,18 @@ West leads the OA and continues with the O3 and OC. On the third trick East disc
 | | | B: | Rx | | |
 | | | C: | xxx | | |
 
-West again begins with the A and 3 of trumps. It is clear that cappotto is impossible because South has three trumps to the king. It would be unwise for West to lead from either of his 3x suits (not knowing that partner has the aces), and West hopes to take a finesse in cups later. Therefore West exits by leading his small trump and East makes a discouraging discard of the fante of cups. South wins with the OR and whatever South returns, East-West win all the remaining tricks.
+L'Ouest commence à nouveau avec l'as et le 3 d'atout. Il est clair que le cappotto est impossible car le Sud a trois atouts jusqu'au roi. Il serait imprudent pour l'Ouest d'entamer avec l'une de ses couleurs 3x (sans savoir que le partenaire a les as), et l'Ouest espère faire une impasse en coupes plus tard. Par conséquent, l'Ouest sort en entamant son petit atout et l'Est fait une défausse décourageante du fante de coupes. Le Sud gagne avec le OR et quoi que le Sud retourne, l'Est-Ouest gagne tous les plis restants.
 
-## Variations
+## Variantes
 
-Dossena, Izzo and Fantini-Santelia report a different penalty for not following suit: that 130 points are subtracted from the offending team's score. This does not correspond to Venetian tradition by which, even in tournaments, 130 points are added to the score of the non-offending side. The Venetian method has the advantage that the total points won by the two sides after 10 deals always add up to 1300.
+Dossena, Izzo et Fantini-Santelia rapportent une pénalité différente pour ne pas avoir suivi : 130 points sont soustraits du score de l'équipe fautive. Cela ne correspond pas à la tradition vénitienne selon laquelle, même en tournoi, 130 points sont ajoutés au score du camp non fautif. La méthode vénitienne a l'avantage que le total des points gagnés par les deux camps après 10 donnes s'additionne toujours à 1300.
 
-Many people play Madrasso with the rule that a player who is unable to follow suit is obliged to play a trump if possible. This rule applies even if your partner is winning the trick, and even when the trick has already been trumped by a trump that you are unable to beat. The [Italian Wikipedia article on Madrasso](https://it.wikipedia.org/wiki/Madrasso) gives this rule, and the word *'smontar'* for the tactic of playing a suit which your opponents don't have, forcing them to waste their trumps. On the other hand, the rule as given in the main deescription above, that a player who cannot follow suit can play any card, is confirmed by several books including for example Giampaolo Dossena's Giochi di Carte Italiani *(Mondadori, 1984)*. It may be that this is a regional difference: if anyone can tell me more about where each of these versions is played, please let me know.
+Beaucoup de gens jouent au Madrasso avec la règle qu'un joueur qui ne peut pas suivre est obligé de jouer un atout s'il le peut. Cette règle s'applique même si votre partenaire gagne le pli, et même quand le pli a déjà été coupé par un atout que vous ne pouvez pas battre. L'[article de Wikipedia italien sur Madrasso](https://it.wikipedia.org/wiki/Madrasso) donne cette règle, et le mot *« smontar »* pour la tactique de jouer une couleur que vos adversaires n'ont pas, les forçant à gaspiller leurs atouts. D'autre part, la règle donnée dans la description principale ci-dessus, selon laquelle un joueur qui ne peut pas suivre peut jouer n'importe quelle carte, est confirmée par plusieurs livres, y compris par exemple le Giochi di Carte Italiani de Giampaolo Dossena (Mondadori, 1984). Il se peut que ce soit une différence régionale : si quelqu'un peut m'en dire plus sur l'endroit où chacune de ces versions est jouée, merci de me le faire savoir.
 
-## Software
+## Logiciel
 
-A free Windows [Madrasso computer game](https://rodomontano.altervista.org/engmadrasso.php) is available from Rodomontano software (there is also an [Italian version](https://rodomontano.altervista.org/madrasso.php)).
+Un [jeu de Madrasso pour Windows](https://rodomontano.altervista.org/engmadrasso.php) gratuit est disponible chez Rodomontano software (il existe aussi une [version italienne](https://rodomontano.altervista.org/madrasso.php)).
 
-You can download a freeware Madrasso program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme Madrasso gratuit sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-With the free Windows program [BTM Pro](https://btm-pro-net.software.informer.com/) you can play Madrasso and some other Italian games against the computer or against other players over a network.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Madrasso
+Avec le programme Windows gratuit [BTM Pro](https://btm-pro-net.software.informer.com/), vous pouvez jouer au Madrasso et à d'autres jeux italiens contre l'ordinateur ou contre d'autres joueurs en réseau.

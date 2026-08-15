@@ -3,88 +3,86 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An American card game in which each deal has four phases: Poker, Bingo, Put and Take and Count-Up.
+**But :** Un jeu de cartes américain dans lequel chaque donne comporte quatre phases : Poker, Bingo, Put and Take et Count-Up.
 
 ---
 
-This description is based mainly on information from William Priester Jr., Bruce Bowman and Robert and Candace Snyder.
+Cette description repose principalement sur les informations de William Priester Jr., Bruce Bowman, ainsi que Robert et Candace Snyder.
 
 ## Introduction
 
-This American game is also known simply as Garbage, or sometimes as Junk Poker. Each hand is a sequence of several phases, which are mostly games of luck, each played using the same cards. The game is often played for very small stakes (pennies).
+Ce jeu américain est également connu simplement sous le nom de Garbage, ou parfois de Junk Poker. Chaque main est une succession de plusieurs phases, principalement des jeux de hasard, jouées avec les mêmes cartes. Le jeu se joue souvent pour de très petites mises (centimes).
 
-Note that the name Garbage is also sometimes used for the children's game Trash, in which players aim to complete a layout by placing number cards in their correct locations.
+À noter que le nom Garbage est aussi parfois utilisé pour le jeu d'enfants Trash, dans lequel les joueurs cherchent à compléter une disposition en plaçant les cartes numériques à leurs positions correctes.
 
-## Players, Cards and Chips
+## Joueurs, cartes et jetons
 
-There can be from 3 to about 8 or even more players. The game is best for 5 or 6.
+Le jeu se joue de 3 à environ 8 joueurs, voire plus. Le jeu est idéal pour 5 ou 6 joueurs.
 
-4 or 5 players use two standard 52-card decks shuffled together. 6 or more players use three or more decks.
+Avec 4 ou 5 joueurs, on utilise deux jeux de 52 cartes mélangés ensemble. Avec 6 joueurs ou plus, on utilise trois jeux ou plus.
 
-Each player begins with an ample supply of small value coins (pennies) - about 100 each should be sufficient - or chips or other tokens can be used instead, giving everyone an equal supply at the start.
+Chaque joueur commence avec un stock suffisant de pièces de faible valeur (centimes) — environ 100 chacun devrait suffire — ou on peut utiliser des jetons ou autres jetons, en donnant à chacun une quantité égale au départ.
 
-The first dealer is chosen in any way the players see fit. Thereafter the turn to deal passes to the left after all the phases have been played. To be fair, the game should continue until each player has dealt an equal number of times.
+Le premier donneur est choisi de la manière qui convient aux joueurs. Ensuite, le tour de donner passe à la gauche après que toutes les phases ont été jouées. Pour plus d'équité, le jeu devrait se poursuivre jusqu'à ce que chaque joueur ait distribué un nombre égal de fois.
 
-## Phase 1 - Poker
+## Phase 1 — Poker
 
-Everyone antes an agreed number of coins - say 5 coins each - placing them in a central pot. The dealer shuffles all the cards and deals them out to the players, one at a time face up, until everyone has five cards. The player who has the best poker hand wins the pot. If there is a tie for best hand the pot is shared between the winners.
+Chaque joueur mise un nombre convenu de pièces — par exemple 5 pièces chacun — qu'il place dans un pot central. Le donneur mélange toutes les cartes et les distribue aux joueurs, une à la fois face ouverte, jusqu'à ce que chacun ait cinq cartes. Le joueur qui a la meilleure main de poker remporte le pot. En cas d'égalité pour la meilleure main, le pot est partagé entre les gagnants.
 
-## Phase 2 - Bingo
+## Phase 2 — Bingo
 
-The players keep their 5-card hands from phase 1. The dealer then turns up cards from the undealt part of the deck, one by one, calling out their ranks ("four", "jack", "ace", etc.) Any player having a card of that rank showing places a coin on the card. If the player has more than one card of that rank, he places a coin on each of them. If the same rank is called again later, players holding cards of that rank will put another coin on each. The first player who manages to place a coin on all five of their cards calls "bingo" wins all the coins placed on everyone's cards. If there are multiple winners on the same card, they share the coins equally.
+Les joueurs conservent leur main de 5 cartes de la phase 1. Le donneur retourne ensuite les cartes de la partie non distribuée du talon, une par une, en annonçant leur rang (« quatre », « valet », « as », etc.). Tout joueur ayant une carte de ce rang visible pose une pièce sur la carte. Si le joueur a plus d'une carte de ce rang, il pose une pièce sur chacune. Si le même rang est annoncé à nouveau, les joueurs possédant des cartes de ce rang posent une pièce supplémentaire sur chacune. Le premier joueur qui réussit à poser une pièce sur ses cinq cartes appelle « bingo » et remporte toutes les pièces posées sur les cartes de tout le monde. S'il y a plusieurs gagnants sur une même carte, ils se partagent les pièces à parts égales.
 
-## Phase 3 - Put and Take
+## Phase 3 — Put and Take
 
-Also known as Up-and-Down-The-River. The dealer sets his or her cards aside in a discard pile, along with the cards used for calling in the bingo. These cards will not be used again in this hand. The other players keep their five-card hands. Dealer then turns up a card from the undealt part of the pack, and any player having a card of that rank card puts 1 coin for each card of that rank he/she has into a central pot. On the second card turned up by the dealer, 2 coins must be put in the pot for each card of that rank; for the 3rd card, 3 coins, and so on, up to 10 coins for the 10th card. Then the dealer turns 10 more cards, one by one, and players take coins from the central pot: 1 coin for each card matching the first card, 2 for the second, and so on up to 10 each for the tenth card. Again, if a player has a more than one of the card turned up, he/she takes that many times the number of coins. Any coins remaining in the pot after the 20th card go to the dealer, and if the coins in the pot run out before the 20th card is turned up, the dealer dealer pays the players from his or her own coins.
+Aussi connu sous le nom de Up-and-Down-The-River. Le donneur écarte ses cartes dans une défausse, ainsi que les cartes utilisées pour les annonces du bingo. Ces cartes ne seront plus utilisées dans cette main. Les autres joueurs conservent leur main de cinq cartes. Le donneur retourne une carte de la partie non distribuée, et tout joueur ayant une carte de ce rang pose 1 pièce pour chaque carte de ce rang qu'il possède dans un pot central. Sur la deuxième carte retournée par le donneur, 2 pièces doivent être posées dans le pot pour chaque carte de ce rang ; pour la 3e carte, 3 pièces, et ainsi de suite, jusqu'à 10 pièces pour la 10e carte. Puis le donneur retourne 10 cartes supplémentaires, une par une, et les joueurs prennent des pièces du pot central : 1 pièce pour chaque carte correspondant à la première carte, 2 pour la deuxième, et ainsi de suite jusqu'à 10 chacune pour la dixième carte. Là encore, si un joueur a plus d'une carte correspondant à celle retournée, il prend ce nombre multiplié par le nombre de pièces. Toute pièce restant dans le pot après la 20e carte revient au donneur, et si les pièces du pot sont épuisées avant que la 20e carte ne soit retournée, le donneur paie les joueurs avec ses propres pièces.
 
-## Phase 4 - Count-Up
+## Phase 4 — Count-Up
 
-Dealer takes all the players' hands and adds them to the discards. The dealer then deals 13 cards face-up from the undealt portion of the deck, counting while doing so: "ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king". If the rank of the turned card corresponds to the rank being counted, everyone pays the dealer a number of coins corresponding to the rank. For example, if the dealer turns a 2 as the second, card, everyone pays the dealer 2 coins; for a 7 as the seventh card, 7 coins. Jack=11, Queen=12, and King=13, so the dealer will collect 13 coins from each other player if a king is turned as the last of the 13 cards. This phase is sometimes known as Birthday, perhaps because 'hitting' the right card and being paid is like being given birthday presents.
+Le donneur reprend les mains de tous les joueurs et les ajoute aux défausses. Le donneur distribue ensuite 13 cartes face ouverte depuis la partie non distribuée du jeu, en comptant : « as, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, valet, dame, roi ». Si le rang de la carte retournée correspond au rang compté, tout le monde paie au donneur un nombre de pièces correspondant au rang. Par exemple, si le donneur retourne un 2 comme deuxième carte, tout le monde paie le donneur 2 pièces ; pour un 7 comme septième carte, 7 pièces. V = 11, D = 12, et R = 13, donc le donneur encaissera 13 pièces de chaque autre joueur si un roi est retourné comme dernière des 13 cartes. Cette phase est parfois appelée Birthday, peut-être parce que « toucher » la bonne carte et être payé rappelle les cadeaux d'anniversaire.
 
-After the count up phase, the hand is over. All the cards are reshuffled and the next player deals.
+Après la phase de comptage, la main est terminée. Toutes les cartes sont remélangées et le joueur suivant distribue.
 
-## Variations
+## Variantes
 
-There are many variations of this game.
+Il existe de nombreuses variantes de ce jeu.
 
-### Phase 1 - Poker
+### Phase 1 — Poker
 
-Some play that a four-flush (four cards of one suit) beats a pair but loses to two pairs in the poker phase.
+Certains jouent qu'un quatre-flush (quatre cartes d'une même couleur) bat une paire mais perd contre une double paire dans la phase poker.
 
-Some allow a player in the first phase to buy an extra card for a set amount of coins, and discard a card in exchange.
+Certains permettent à un joueur de la première phase d'acheter une carte supplémentaire pour un nombre fixe de pièces, et d'échanger une carte en retour.
 
-Some play this like five-card-stud, with betting rounds after the third and fourth cards are dealt. Normally when betting is included there is an ante of 2 chips for each player. Some play draw poker, each player having the opportunity to discard some cards and replenish their hand, with a betting round before and after this. Some allow the dealer to choose the poker variant to be played - it must be once in which the players end with 5 cards each. If poker-style betting is used, players who fold discard their cards face down in front of them but retain the cards for use in later rounds.
+Certains jouent ceci comme le five-card-stud, avec des tours de mise après la troisième et la quatrième carte distribuée. Normalement, quand les mises sont incluses, il y a une ante de 2 jetons pour chaque joueur. Certains jouent le draw poker, chaque joueur ayant la possibilité d'échanger certaines cartes et de reconstituer sa main, avec un tour de mise avant et après. Certains permettent au donneur de choisir la variante de poker à jouer — ce doit être une variante où les joueurs finissent avec 5 cartes chacun. Si le style de mise du poker est utilisé, les joueurs qui se couchent posent leurs cartes face cachée devant eux mais conservent les cartes pour les tours ultérieurs.
 
-Some deal seven cards each, and each player makes the best possible five-card poker hand from these. The players then keep seven cards for the bingo and put and take phases.
+Certains distribuent sept cartes chacun, et chaque joueur compose la meilleure main de poker de cinq cartes possible à partir de celles-ci. Les joueurs conservent ensuite sept cartes pour les phases bingo et put and take.
 
-### Phase 2 - Bingo
+### Phase 2 — Bingo
 
-Some play that if two or more players tie in the bingo phase, the player with the greatest number of coins on their five cards wins. If this is a tie, split the pot anyway.
+Certains jouent que si deux joueurs ou plus sont à égalité dans la phase bingo, le joueur ayant le plus grand nombre de pièces sur ses cinq cartes l'emporte. S'il y a encore égalité, on partage le pot quand même.
 
-Some play that if there is a tie in the bingo phase, no one wins. All the coins placed on cards are moved to a bingo kitty to be won in the next bingo game, which can be phase 2 of the next hand or can be played immediately, dealer continuing to deal and call cards.
+Certains jouent qu'en cas d'égalité dans la phase bingo, personne ne gagne. Toutes les pièces posées sur les cartes sont déplacées dans une cagnotte de bingo qui sera gagnée lors du prochain bingo, qui peut être la phase 2 de la main suivante ou être jouée immédiatement, le donneur continuant à distribuer et annoncer les cartes.
 
-Some play that the dealer's hand is discarded before phase 2, so that in the bingo phase the dealer's role is only to deal and call the cards while the other players play. Some play the bingo as phase 3, after the put and take, which is phase 2. In this case the dealer's cards are discarded before the bingo.
+Certains jouent que la main du donneur est écartée avant la phase 2, de sorte que dans la phase bingo le rôle du donneur se limite à distribuer et annoncer les cartes pendant que les autres joueurs jouent. Certains jouent le bingo en phase 3, après le put and take, qui est la phase 2. Dans ce cas, les cartes du donneur sont écartées avant le bingo.
 
-### Phase 3 - Put and Take
+### Phase 3 — Put and Take
 
-Some turn only 5 cards in each part, so the maximum put or take is 5 per card rather than 10.
+Certains ne retournent que 5 cartes dans chaque partie, de sorte que le maximum posé ou pris est de 5 par carte plutôt que 10.
 
-Some play that any card matching the rank AND suit of the card flipped up puts or takes double.
+Certains jouent que toute carte correspondant au rang ET à la couleur de la carte retournée pose ou prend le double.
 
-Some play that in the put and take phase, a player with a pair pays or receives double, and a player with a triplet triple. For example for three of a kind on the seventh card pay or receive 63 rather than 21.
+Certains jouent que dans la phase put and take, un joueur avec une paire paie ou reçoit le double, et un joueur avec un brelan le triple. Par exemple pour un brelan sur la septième carte, on paie ou reçoit 63 plutôt que 21.
 
-### Phase 4 - Count-Up
+### Phase 4 — Count-Up
 
-Some deal only 10 cards rather than 13 in the count-up phase.
+Certains ne distribuent que 10 cartes plutôt que 13 dans la phase de comptage.
 
-Some play that in the count-up phase, a dealer who 'hits' no cards, he must pay a penalty of 5 coins to each player.
+Certains jouent que dans la phase de comptage, un donneur qui ne « touche » aucune carte doit payer une pénalité de 5 pièces à chaque joueur.
 
-Some play that the second of consecutive 'hits' pays double, the third triple and so on.
+Certains jouent que le deuxième « toucher » consécutif paie le double, le troisième le triple, et ainsi de suite.
 
-### Series of games
+### Série de jeux
 
-Some play that instead of the deal passing to the left after the final phase, it goes to whoever won the poker phase.
+Certains jouent qu'au lieu de faire passer la donne à la gauche après la phase finale, elle revient à celui qui a gagné la phase poker.
 
-Some play for chips, and anyone who loses all their chips is out of the game. Further games are played until there is just one player left - the winner. Since this can take a long time, it may be wise to set a time limit or a limited number of games, and declare the player with most chips at the end to be the winner. When playing with young children, sometimes there is the tradition that a player who runs out of chips is given 25 chips by the player with most, so that they can carry on playing.
-
-Home Page > Classified Index > Compendium Games > Garbage
+Certains jouent avec des jetons, et quiconque perd tous ses jetons est éliminé du jeu. D'autres parties se jouent jusqu'à ce qu'il ne reste qu'un seul joueur — le gagnant. Comme cela peut prendre beaucoup de temps, il est sage de fixer une limite de temps ou un nombre limité de parties, et de déclarer gagnant le joueur ayant le plus de jetons à la fin. Quand on joue avec de jeunes enfants, il y a parfois la tradition qu'un joueur qui n'a plus de jetons reçoit 25 jetons de la part du joueur qui en a le plus, pour pouvoir continuer à jouer.

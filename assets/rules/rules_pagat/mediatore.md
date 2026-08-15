@@ -2,121 +2,119 @@
 
 **Difficulté :** —
 **Type :** Tressette, Plis
-**But :** A variant of Tressette for 4 players with bidding and variable partnerships.
+**But :** Une variante du Tressette pour 4 joueurs avec enchères et partenariats variables.
 
 ---
 
-*With thanks to Paolo Ronzoni for clarifying some details of this game.*
+*Avec nos remerciements à Paolo Ronzoni pour avoir clarifié certains détails de ce jeu.*
 
 ## Introduction
 
-This Italian game for four players is a variant of Tressette, using the same rules of play, and the same distinctive card ranking and values, the 3, 2 and Ace being the top cards. The chief difference is that instead of the partnerships being fixed, the teams are different for each deal, as determined by the bidding. The final bidder plays alone against a team of three, or chooses a partner by calling a card, so that two play against two. Another difference is that there is a *"monte"* of four undealt cards which can be used to improve the bidder's hand.
+Ce jeu italien pour quatre joueurs est une variante du Tressette, utilisant les mêmes règles de jeu, le même classement distinctif des cartes et les mêmes valeurs, le 3, le 2 et l'As étant les cartes les plus hautes. La différence principale est qu'au lieu d'avoir des partenariats fixes, les équipes sont différentes à chaque donne, selon les enchères. Le dernier enchérisseur joue seul contre une équipe de trois, ou choisit un partenaire en appelant une carte, de sorte que deux jouent contre deux. Une autre différence est qu'il y a un *« monte »* de quatre cartes non distribuées qui peuvent être utilisées pour améliorer la main de l'enchérisseur.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players, and the deal and play are anticlockwise.
+Il y a quatre joueurs, et la donne et le jeu se font dans le sens antihoraire.
 
-A 40-card Italian pack is used. This could be any of the Italian regional patterns, with either Latin or French suits. When Latin suited cards are used, the cards of each suit, from highest to lowest, and their values are as follows.
+On utilise un jeu italien de 40 cartes. Il peut s'agir de n'importe quel motif régional italien, avec des couleurs latines ou françaises. Lorsque des cartes à couleurs latines sont utilisées, les cartes de chaque couleur, de la plus haute à la plus basse, et leurs valeurs sont les suivantes.
 
-| Card | Value |
+| Carte | Valeur |
 | 3 | ⅓ |
 | 2 | ⅓ |
-| 1 (ace) | 1 |
-| Re (king) | ⅓ |
-| Cavallo (horse) | ⅓ |
-| Fante (jack) | ⅓ |
+| 1 (as) | 1 |
+| Re (roi) | ⅓ |
+| Cavallo (cavalier) | ⅓ |
+| Fante (valet) | ⅓ |
 | 7 | 0 |
 | 6 | 0 |
 | 5 | 0 |
 | 4 | 0 |
 
-When French suited cards are used, usually the Donna (queen) replaces the horse. 
+Lorsque des cartes à couleurs françaises sont utilisées, généralement la Donna (dame) remplace le cavalier.
 
-In addition the last trick is worth 1 card point, so that there are 11⅔ card points to play for. Since there are always two teams and fractions of a point are rounded down, the points scored by the two sides always add up to 11.
+De plus, le dernier pli vaut 1 point de carte, de sorte qu'il y a 11⅔ points de carte à jouer. Comme il y a toujours deux équipes et que les fractions de point sont arrondies à l'inférieur, les points marqués par les deux côtés s'additionnent toujours à 11.
 
-## Deal
+## Distribution
 
-The dealer shuffles and the player to dealer's left cuts. The cards are dealt out in batches of three, anticlockwise, beginning with the player to the dealer's right, until everyone has a hand of nine cards. The dealer places the last four cards face down to the middle of the table. These cards form the *monte*, which can be used to improve the bidder's hand. 
+Le donneur mélange et le joueur à sa gauche coupe. Les cartes sont distribuées par paquets de trois, dans le sens antihoraire, en commençant par le joueur à la droite du donneur, jusqu'à ce que chacun ait une main de neuf cartes. Le donneur place les quatre dernières cartes face cachée au milieu de la table. Ces cartes forment le *monte*, qui peut être utilisé pour améliorer la main de l'enchérisseur.
 
-The turn to deal passes to the right after each hand.
+Le tour de distribuer passe à la droite après chaque main.
 
-## Bidding
+## Enchères
 
-The players speak in anticlockwise order, beginning with the player to dealer's right. Each player in turn may pass or bid, and each bid must be higher than the previous bid. When no one has yet bid players generally pass by saying *"passo"* (I pass), after a bid they pass by saying *"sta bene"* (it's OK). If all four players pass the cards are thrown in and the next player deals. If someone bids, the bidding continues for as many circuits as necessary until three players pass in succession.
+Les joueurs parlent dans l'ordre antihoraire, en commençant par le joueur à la droite du donneur. Chaque joueur à son tour peut passer ou enchérir, et chaque enchère doit être supérieure à la précédente. Quand personne n'a encore enchéri, les joueurs passent généralement en disant *« passo »* (je passe), après une enchère ils passent en disant *« sta bene »* (ça va). Si les quatre joueurs passent, les cartes sont remises et le joueur suivant distribue. Si quelqu'un enchérit, les enchères continuent autant de tours que nécessaire jusqu'à ce que trois joueurs passent successivement.
 
-The possible bids, in ascending order, and their consequences if all the other players then pass, are as follows.
+Les enchères possibles, par ordre croissant, et leurs conséquences si tous les autres joueurs passent ensuite, sont les suivantes.
 
 Chiamo
-The bidder names a card (usually a three), and the holder of this card becomes the bidder's partner. The called partner must not say anything to indicate that he or she has the called card. The partnerships become clear only in the course of play. The bidder then picks up the four cards of the *monte*, without showing them to the other players, and discards any four cards. If it turns out that the called is in the monte (or if it was in the bidder's original hand, in which case the call was presumably a mistake), then the bidder has no partner and plays alone.
+L'enchérisseur nomme une carte (généralement un trois), et le détenteur de cette carte devient le partenaire de l'enchérisseur. Le partenaire appelé ne doit rien dire pour indiquer qu'il possède la carte appelée. Les partenariats ne deviennent clairs qu'au cours du jeu. L'enchérisseur prend alors les quatre cartes du *monte*, sans les montrer aux autres joueurs, et écarte quatre cartes. S'il s'avère que la carte appelée se trouve dans le monte (ou si elle était dans la main initiale de l'enchérisseur, auquel cas l'appel était probablement une erreur), alors l'enchérisseur n'a pas de partenaire et joue seul.
 Mediatore
-The bidder names a card (usually a three), and the holder of the card gives it to the bidder. The bidder then picks up the *monte*, showing the cards to everyone. The four cards are added to the bidder's hand, and the bidder discards any 4 of the 13 cards now held to make a new *monte *and passes one card face down to the player who had the called card. The bidder plays alone against the other three players as a team. If no one produces the called card, it is either in the *monte* or in the bidder's original hand. In this case the bidder just takes the *monte* and discards four cards. 
+L'enchérisseur nomme une carte (généralement un trois), et le détenteur de la carte la donne à l'enchérisseur. L'enchérisseur prend alors le *monte*, en montrant les cartes à tout le monde. Les quatre cartes sont ajoutées à la main de l'enchérisseur, et celui-ci écarte 4 des 13 cartes qu'il détient maintenant pour former un nouveau *monte* et passe une carte face cachée au joueur qui avait la carte appelée. L'enchérisseur joue seul contre les trois autres joueurs en tant qu'équipe. Si personne ne produit la carte appelée, elle se trouve soit dans le *monte*, soit dans la main initiale de l'enchérisseur. Dans ce cas, l'enchérisseur prend simplement le *monte* et écarte quatre cartes.
 Solo
-No card is called. The bidder then picks up the *monte*, showing the cards to everyone. The four cards are added to the bidder's hand, and the bidder discards any 4 of the 13 cards now held to make a new *monte*. The bidder plays alone against the other three players as a team.
+Aucune carte n'est appelée. L'enchérisseur prend alors le *monte*, en montrant les cartes à tout le monde. Les quatre cartes sont ajoutées à sa main, et il écarte 4 des 13 cartes qu'il détient maintenant pour former un nouveau *monte*. L'enchérisseur joue seul contre les trois autres joueurs en tant qu'équipe.
 Solissimo
-No card is called. The bidder may look privately at the monte but cannot use these cards. They are replaced face down on the table and the bidder plays alone against the other three players as a team.
+Aucune carte n'est appelée. L'enchérisseur peut regarder le monte à l'abri des regards mais ne peut pas utiliser ces cartes. Elles sont reposées face cachée sur la table et l'enchérisseur joue seul contre les trois autres joueurs en tant qu'équipe.
 Arcisolissimo
-No card is called and no one may see the cards of the monte until after the last trick. The bidder plays alone against the other three players as a team.
+Aucune carte n'est appelée et personne ne peut voir les cartes du monte jusqu'après le dernier pli. L'enchérisseur joue seul contre les trois autres joueurs en tant qu'équipe.
 
-## Play
+## Jeu
 
-The player to dealer's right (*il mano*) leads any card to the first trick. Players must follow suit. Those unable to follow suit may play any card. There are no trumps. The highest card of the suit led wins the trick, and the winner leads any card to the next trick. 
+Le joueur à la droite du donneur (*il mano*) entame n'importe quelle carte pour le premier pli. Les joueurs doivent suivre la couleur. Ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Il n'y a pas d'atout. La plus haute carte de la couleur entamée remporte le pli, et le gagnant entame n'importe quelle carte pour le pli suivant.
 
-Unlike Tressette, this game has no declarations (*accuse*) of high cards in the hand of a player. However, there are some signals or remarks that a player is allowed to make when leading to a trick:
+Contrairement au Tressette, ce jeu n'a pas de déclarations (*accuse*) de cartes hautes dans la main d'un joueur. Cependant, il existe quelques signaux ou remarques qu'un joueur est autorisé à faire lors de l'entame d'un pli :
 
-- **Busso** ("I knock") indicates that you would like your partner to play his highest card in the suit you led, and lead the suit back if it wins. Instead of saying *busso* you can strike the table (or the led card) with your fist. 
+- **Busso** (« Je frappe ») indique que vous souhaitez que votre partenaire joue sa carte la plus haute dans la couleur que vous avez entamée, et qu'il entame cette couleur en retour si elle gagne. Au lieu de dire *busso*, vous pouvez frapper la table (ou la carte entamée) du poing.
 
-- **Volo** (" I fly") (or **piombo** - "I fall") indicates that you have no further cards of the suit led. Instead of saying *volo* you can throw the card so that it glides onto the table. 
+- **Volo** (« Je m'envole ») (ou **piombo** — « Je tombe ») indique que vous n'avez plus de cartes de la couleur entamée. Au lieu de dire *volo*, vous pouvez lancer la carte pour qu'elle glisse sur la table.
 
-- **Striscio** (or **liscio**) ("I stroke" or "I smooth") (not allowed by all players) indicates that you have, besides the card you are leading, one or more low cards (king or lower) of the suit led. Instead of saying *striscio* you can slide the card led onto the table. 
+- **Striscio** (ou **liscio**) (« Je trace » ou « Je lisse ») (non autorisé par tous les joueurs) indique que vous avez, outre la carte que vous entamez, une ou plusieurs cartes basses (roi ou inférieur) de la couleur entamée. Au lieu de dire *striscio*, vous pouvez faire glisser la carte entamée sur la table.
 
-## Scoring
+## Comptage
 
-When all the cards have been played, the four cards of the *monte* (the cards discarded by the bidder, or the original *monte* if the bidder did not use it) are given to the team that won the **last** trick. Each team then adds up the value of the cards it has won - see card values above. The team that has at least 6 of the available 11⅔ card points wins.
+Lorsque toutes les cartes ont été jouées, les quatre cartes du *monte* (les cartes écartées par l'enchérisseur, ou le *monte* original si l'enchérisseur ne l'a pas utilisé) sont données à l'équipe qui a remporté le **dernier** pli. Chaque équipe additionne ensuite la valeur des cartes qu'elle a remportées — voir les valeurs des cartes ci-dessus. L'équipe qui a au moins 6 des 11⅔ points de carte disponibles remporte.
 
-The scores for the various bids are as follows. Either the players can pay in cash or chips after each deal, or the cumulative score of each player can be recorded on paper, in which case the scores of the four players should always add up to zero.
+Les scores pour les différentes enchères sont les suivantes. Les joueurs peuvent payer en espèces ou en jetons après chaque donne, ou le score cumulé de chaque joueur peut être consigné sur papier, auquel cas les scores des quatre joueurs doivent toujours s'additionner à zéro.
 
-- **Chiamo**. If the bidder's team wins, each of the opponents pays 4 units, the bidder receives 5 units and the bidder's partner 3 units. If the bidder was alone, the called card being in the *monte*, each opponent pays 4 and the bidder receives 12. If the bidder's team loses these payments are reversed. Each opponent of the bidder gains 4, the bidder's partner loses 3, and the bidder loses 5, or 12 if playing alone.
+- **Chiamo**. Si l'équipe de l'enchérisseur gagne, chacun des adversaires paie 4 unités, l'enchérisseur reçoit 5 unités et le partenaire de l'enchérisseur 3 unités. Si l'enchérisseur était seul, la carte appelée étant dans le *monte*, chaque adversaire paie 4 et l'enchérisseur reçoit 12. Si l'équipe de l'enchérisseur perd, ces paiements sont inversés. Chaque adversaire de l'enchérisseur gagne 4, le partenaire de l'enchérisseur perd 3, et l'enchérisseur perd 5, ou 12 s'il joue seul.
 
-- **Mediatore**. If the bidder wins, the player (if any) who supplied the called card pays 6 and the others pay 8, so that the bidder wins either 22 or 24. If the bidder loses these payments are reversed: the bidder pays 6 to the player who had the called card and 8 to the others.
+- **Mediatore**. Si l'enchérisseur gagne, le joueur (s'il y en a un) qui a fourni la carte appelée paie 6 et les autres paient 8, de sorte que l'enchérisseur gagne soit 22 soit 24. Si l'enchérisseur perd, ces paiements sont inversés : l'enchérisseur paie 6 au joueur qui avait la carte appelée et 8 aux autres.
 
-- **Solo**. The bidder wins 12 units from each opponent (total 36) if successful, and pays 12 to each if unsuccessful.
+- **Solo**. L'enchérisseur gagne 12 unités de chaque adversaire (total 36) s'il réussit, et paie 12 à chacun s'il échoue.
 
-- **Solissimo**. The bidder wins 16 units from each opponent (total 48) if successful, and pays 16 to each if unsuccessful.
+- **Solissimo**. L'enchérisseur gagne 16 unités de chaque adversaire (total 48) s'il réussit, et paie 16 à chacun s'il échoue.
 
-- **Arcisolissimo**. The bidder wins 18 units from each opponent (total 54) if successful, and pays 18 to each if unsuccessful.
+- **Arcisolissimo**. L'enchérisseur gagne 18 unités de chaque adversaire (total 54) s'il réussit, et paie 18 à chacun s'il échoue.
 
-If a player or team wins *capotto* (all the tricks) the payments are increased by 2 units. That means for example that a bidder playing alone will receive a total of 6 extra units for a capotto, and that if the bidding team win all tricks in a chiamo, the bidder will receive 7 units and the bidder's partner 5.
+Si un joueur ou une équipe remporte un *capotto* (tous les plis), les paiements sont augmentés de 2 unités. Cela signifie par exemple qu'un enchérisseur jouant seul recevra un total de 6 unités supplémentaires pour un capotto, et que si l'équipe d'enchère remporte tous les plis dans un chiamo, l'enchérisseur recevra 7 unités et son partenaire 5.
 
-## Variations
+## Variantes
 
-With the advantage of calling a partner and taking the *monte*, it is rather easy to win a *chiamo*. To make it harder, some play that in a *chiamo*, the bidder does not look at the *monte:* it remains untouched until the end of the play, when it belongs as usual to the winners of the last trick. In this variant, if the called card is in the *monte*, everyone, including the bidder, will be unaware at first that the bidder is playing alone.
+Avec l'avantage d'appeler un partenaire et de prendre le *monte*, il est assez facile de gagner un *chiamo*. Pour rendre cela plus difficile, certains jouent que dans un *chiamo*, l'enchérisseur ne regarde pas le *monte* : il reste intact jusqu'à la fin du jeu, moment où il revient comme d'habitude aux gagnants du dernier pli. Dans cette variante, si la carte appelée se trouve dans le *monte*, tout le monde, y compris l'enchérisseur, ignorera d'abord que l'enchérisseur joue seul.
 
-Some play that the *monte* is **always** shown to all the players, so that if the called card is in the *monte*, everyone knows from the start. Others play that the *monte* is **never** shown to the other players, neither in *chiamo* not in *mediatore* nor in *solo*.
+Certains jouent que le *monte* est **toujours** montré à tous les joueurs, de sorte que si la carte appelée se trouve dans le *monte*, tout le monde le sait dès le début. D'autres jouent que le *monte* n'est **jamais** montré aux autres joueurs, ni dans le *chiamo*, ni dans le *mediatore*, ni dans le *solo*.
 
-Some impose restrictions on what card can be called. Some only allow a 3 to be called, some allow a 3 or a 2, and some allow the bidder to call any card except an Ace.
+Certains imposent des restrictions sur la carte qui peut être appelée. Certains n'autorisent qu'un 3, d'autres un 3 ou un 2, et d'autres permettent à l'enchérisseur d'appeler n'importe quelle carte sauf un As.
 
-Some play that in *Solissimo* the bidder is not allowed to see the monte. In this version *Solissimo* is the highest bid: there is no *Arcisolissimo*.
+Certains jouent que dans le *Solissimo*, l'enchérisseur n'est pas autorisé à voir le monte. Dans cette version, *Solissimo* est l'enchère la plus haute : il n'y a pas d'*Arcisolissimo*.
 
-Some play that the lead to the first trick is made by the bidder, not the player to dealer's right, if the bid is *Arcisolissimo* or *Solissimo*. Some also allow the bidder to lead to the first trick in a *Solo*. Some play that the bidder always leads to the first trick, whatever the bid.
+Certains jouent que l'entame du premier pli est faite par l'enchérisseur, et non par le joueur à la droite du donneur, si l'enchère est *Arcisolissimo* ou *Solissimo*. Certains autorisent aussi l'enchérisseur à entamer le premier pli dans un *Solo*. Certains jouent que l'enchérisseur entame toujours le premier pli, quelle que soit l'enchère.
 
-Some players use a different code of signals from the one described above. When leading to a trick, a player may say:
+Certains joueurs utilisent un code de signaux différent de celui décrit ci-dessus. Lors de l'entame d'un pli, un joueur peut dire :
 
-- **"Busso"** - meaning: I have the highest outstanding card in the suit I am leading - i.e. the 3, or if the 3 has already been played, the 2, etc.
+- **« Busso »** — signifiant : j'ai la plus haute carte encore en jeu dans la couleur que j'entame — c'est-à-dire le 3, ou si le 3 a déjà été joué, le 2, etc.
 
-- **"Ribusso"** - meaning: I have the second highest outstanding card in the suit I am leading
+- **« Ribusso »** — signifiant : j'ai la deuxième plus haute carte encore en jeu dans la couleur que j'entame.
 
-- **"La meglio"** or **"Le meglio"** - meaning: I am looking for the highest outstanding card in the suit. The is a request to partner to play this highest card if he has it.
+- **« La meglio »** ou **« Le meglio »** — signifiant : je cherche la plus haute carte encore en jeu dans la couleur. C'est une demande au partenaire de jouer cette carte s'il l'a.
 
-- **"Tutto fuori"** - meaning: I have many cards in the suit I am leading, but none of the three highest cards.
+- **« Tutto fuori »** — signifiant : j'ai beaucoup de cartes dans la couleur que j'entame, mais aucune des trois cartes les plus hautes.
 
-Some play with different scoring schedules. For example:
+Certains jouent avec des barèmes de comptage différents. Par exemple :
 
-- **Chiamo**: each opponent of the bidder pays or receives 2, bidder receives or pays 3, partner receives or pays 1.
+- **Chiamo** : chaque adversaire de l'enchérisseur paie ou reçoit 2, l'enchérisseur reçoit ou paie 3, le partenaire reçoit ou paie 1.
 
-- **Mediatore**: the holder of the called card pays or receives 3; other opponents of the bidder pay or receive 4.
+- **Mediatore** : le détenteur de la carte appelée paie ou reçoit 3 ; les autres adversaires de l'enchérisseur paient ou reçoivent 4.
 
-- **Solo**: bidder's opponents pay or receive 6 each.
+- **Solo** : les adversaires de l'enchérisseur paient ou reçoivent 6 chacun.
 
-- **Solissimo**: bidder's opponents pay or receive 8 each. 
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Mediatore
+- **Solissimo** : les adversaires de l'enchérisseur paient ou reçoivent 8 chacun.

@@ -3,124 +3,122 @@
 **Nombre de cartes :** 36
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** In which players try to predict exactly how many tricks they will win.
+**But :** Les joueurs cherchent à prédire exactement combien de plis ils remporteront.
 
 ---
 
 ## Introduction
 
-Joker (ჯოკერი) is a card game played in Georgia in which each player tries to predict exactly how many tricks they will win. It is closely related to Oh Hell!, Romanian Whist, and other games of similar type, but with the key difference that the 36-card pack includes two Jokers which may be used as either high cards or low cards at the choice of the player.
+Joker (ჯოკერი) est un jeu de cartes joué en Géorgie dans lequel chaque joueur cherche à prédire exactement combien de plis il remportera. Il est étroitement apparenté à Oh Hell!, au Whist roumain et à d'autres jeux de type similaire, mais avec la différence clé que le jeu de 36 cartes comprend deux Jokers qui peuvent être utilisés comme cartes hautes ou basses au choix du joueur.
 
-*This page is based on information from Alexander Tvaladze, with some additional variants from [BigDiesel2m's web page](https://oldschool.runescape.wiki/w/User:BigDiesel2m/Joker).*
+*Cette page est basée sur des informations d'Alexander Tvaladze, avec des variantes supplémentaires issues de la [page web de BigDiesel2m](https://oldschool.runescape.wiki/w/User:BigDiesel2m/Joker).*
 
-## Players and Cards
+## Joueurs et cartes
 
-A standard deck of 36 cards is used, with Jokers substituted for the two black Sixes. The remaining cards in each suit rank from high to low A-K-Q-J-10-9-8-7-(6). 
+On utilise un jeu standard de 36 cartes, avec des Jokers substitués aux deux six noirs. Les cartes restantes de chaque couleur se classent de haut en bas A-R-D-V-10-9-8-7-(6).
 
-There are normally four players, each playing for themselves. It is possible for 3, 5 or 6 to play, and the necessary modifications are described in the Variations section.
+Il y a normalement quatre joueurs, chacun jouant pour soi. Il est possible de jouer à 3, 5 ou 6, et les modifications nécessaires sont décrites dans la section Variantes.
 
-The deal and play are clockwise, and the turn to deal passes to the left after each hand.
+La donne et le jeu se font dans le sens horaire, et le tour de distribuer passe à la gauche après chaque main.
 
-## Deal
+## Distribution
 
-A complete game consists of 4 sets of hands, with varying numbers of cards dealt to each player.
+Une partie complète comprend 4 séries de mains, avec un nombre variable de cartes distribuées à chaque joueur.
 
-- In the first set there are 8 hands. In the first hand just 1 card is dealt to each player, in the second 2 cards, then 3, 4 and so on up to 8 cards each in the 8th hand.
+- Dans la première série, il y a 8 mains. Dans la première main, une seule carte est distribuée à chaque joueur, dans la deuxième deux cartes, puis 3, 4 et ainsi de suite jusqu'à 8 cartes chacun lors de la 8e main.
 
-- In the second set there are 4 hands with 9 cards dealt to each player.
+- Dans la deuxième série, il y a 4 mains avec 9 cartes distribuées à chaque joueur.
 
-- In the third set there are again 8 hands, with 8 cards each dealt in the first hand, 7 each in the second, the 6, 5 and so on until in the last hand of the set only 1 card each is dealt.
+- Dans la troisième série, il y a à nouveau 8 mains, avec 8 cartes chacune distribuées dans la première main, 7 chacune dans la deuxième, puis 6, 5 et ainsi de suite jusqu'à ce que dans la dernière main de la série une seule carte chacun soit distribuée.
 
-- The fourth set is like the second set: 4 hands with 9 cards dealt to each player.
+- La quatrième série est comme la deuxième : 4 mains avec 9 cartes distribuées à chaque joueur.
 
-So there are 24 hands in all. Before each hand the dealer shuffles the cards and the player to dealer's right cuts. Then the dealer deals out the appropriate number of cards one at a time to the players. The next card is turned face up to indicate the trump suit and the remaining cards are set aside.
+Il y a donc 24 mains en tout. Avant chaque main, le donneur mélange les cartes et le joueur à la droite du donneur coupe. Le donneur distribue ensuite le nombre approprié de cartes une à une aux joueurs. La carte suivante est retournée face ouverte pour indiquer la couleur d'atout et les cartes restantes sont mises de côté.
 
-In the second and fourth sets, when there are no cards remaining after dealing 9 each to the players, the dealer's last card is dealt face up and indicates the trump suit.
+Dans les deuxième et quatrième séries, quand il ne reste aucune carte après avoir distribué 9 à chaque joueur, la dernière carte du donneur est distribuée face ouverte et indique la couleur d'atout.
 
-If the trump indicator card is a Joker, the hand is played with no trumps.
+Si la carte d'atout est un Joker, la main se joue sans atout.
 
-## Bidding
+## Enchères
 
-Starting with the player to dealer's left, and continuing clockwise, each of the players must state how many tricks they intend to win. A bid of '0' tricks can also be indicated by saying 'pass'. 
+En commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, chacun des joueurs doit indiquer combien de plis il prévoit de remporter. Une enchère de « 0 » pli peut aussi être indiquée en disant « passe ».
 
-The total of the tricks bid by the players is not allowed to be equal to the number of cards dealt to each player. This ensures that at least one player's bid will fail. Therefore the dealer, who speaks last, is not allowed to bid a number that makes the total tricks bid equal the number of bids available. For example if two cards each were dealt and there have been two passes and one bid of '1', the dealer is not allowed to bid '1' but must bid either '0' or '2'.
+Le total des plis annoncés par les joueurs ne doit pas être égal au nombre de cartes distribuées à chaque joueur. Cela garantit qu'au moins l'enchère d'un joueur échouera. Par conséquent, le donneur, qui parle en dernier, n'est pas autorisé à annoncer un nombre qui ferait que le total des plis annoncés soit égal au nombre de plis disponibles. Par exemple, si deux cartes ont été distribuées à chacun et qu'il y a eu deux passes et une enchère de « 1 », le donneur n'est pas autorisé à annoncer « 1 » mais doit annoncer soit « 0 » soit « 2 ».
 
-## Play
+## Jeu
 
-The player to dealer's left leads to the first trick, and thereafter the winner of each trick leads to the next.
+Le joueur à la gauche du donneur entame le premier pli, et ensuite le gagnant de chaque pli entame le suivant.
 
-Any card may be led. The other players in turn must follow suit if able to (or play a Joker). A player who has no card of the suit led must play a trump (or a Joker). A player who has neither cards of the suit led nor trumps may play any card. The trick is won by the highest trump in it, or if it contains no trumps by the highest card of the suit that was led.
+N'importe quelle carte peut être entamée. Les autres joueurs à leur tour doivent suivre la couleur s'ils le peuvent (ou jouer un Joker). Un joueur qui n'a pas de carte de la couleur entamée doit jouer un atout (ou un Joker). Un joueur qui n'a ni carte de la couleur entamée ni atout peut jouer n'importe quelle carte. Le pli est remporté par le plus haut atout s'il y en a, ou par la plus haute carte de la couleur entamée s'il n'y a pas d'atout.
 
-A Joker may be played to any trick, and the person playing it must announce whether it is **high** or **low**. If a Joker is **led** to a trick, the player also specifies the suit that must be followed.
+Un Joker peut être joué à n'importe quel pli, et la personne qui le joue doit annoncer s'il est **haut** ou **bas**. Si un Joker est **entamé** dans un pli, le joueur spécifie également la couleur qui doit être suivie.
 
-- If a Joker is **led** and announced as high, each of the other players must play their **highest** card of the specified suit (or the other Joker). 
+- Si un Joker est **entamé** et annoncé comme haut, chacun des autres joueurs doit jouer sa carte la **plus haute** de la couleur spécifiée (ou l'autre Joker).
 
-- If the specified suit is trumps, a player who has no trumps may play any card (not necessarily a high one).
+- Si la couleur spécifiée est l'atout, un joueur qui n'a pas d'atout peut jouer n'importe quelle carte (pas nécessairement une haute).
 
-- If a non-trump suit is specified, then a player who has no cards of this suit and does not play the other Joker must play a trump if possible (any trump, not necessarily a high one) or holding no trumps and no card of the specified suit may play any card.
+- Si une couleur non-atout est spécifiée, un joueur qui n'a pas de carte de cette couleur et qui ne joue pas l'autre Joker doit jouer un atout s'il le peut (n'importe quel atout, pas nécessairement un haut) ou, s'il n'a pas d'atout ni carte de la couleur spécifiée, peut jouer n'importe quelle carte.
 
-- If a Joker is **led** and announced as low, the other players must play cards of the suit specified by the leader if possible (they do not have to play their lowest cards), or if they cannot follow suit they must trump if they can. As always, the holder of the other Joker may play it instead of following suit or trumping.
+- Si un Joker est **entamé** et annoncé comme bas, les autres joueurs doivent jouer des cartes de la couleur spécifiée par le meneur s'ils le peuvent (ils n'ont pas besoin de jouer leur carte la plus basse), ou s'ils ne peuvent pas suivre, ils doivent jouer un atout s'ils le peuvent. Comme toujours, le détenteur de l'autre Joker peut le jouer au lieu de suivre ou de couper.
 
-A Joker played as **high** always wins the trick except in two cases:
+Un Joker joué comme **haut** remporte toujours le pli sauf dans deux cas :
 
-- A subsequent player plays the other Joker as high in the same trick: if two Jokers are played as high in the same trick, the second of them wins.
+- Un joueur ultérieur joue l'autre Joker comme haut dans le même pli : si deux Jokers sont joués comme haut dans le même pli, le second des deux l'emporte.
 
-- A joker is led as high specifying a non-trump suit and another player, having no card of the specified suit, plays a trump. In this case the highest trump wins the trick, beating the Joker.
+- Un Joker est entamé comme haut en spécifiant une couleur non-atout et un autre joueur, n'ayant pas de carte de la couleur spécifiée, joue un atout. Dans ce cas, le plus haut atout remporte le pli, battant le Joker.
 
-A Joker played as **low** always loses the trick except in one case: if a Joker is led to a trick as low and no one else plays the specified suit or a trump or a high Joker, the Joker that was led wins the trick by default. 
+Un Joker joué comme **bas** perd toujours le pli sauf dans un cas : si un Joker est entamé dans un pli comme bas et que personne d'autre ne joue la couleur spécifiée, un atout ou un Joker haut, le Joker entamé remporte le pli par défaut.
 
-## Scoring
+## Comptage
 
-A player who wins the exact number of tricks they bid scores 50 points per trick bid and won plus 50 bonus points. 
+Un joueur qui remporte exactement le nombre de plis qu'il a annoncés marque 50 points par pli annoncé et remporté plus 50 points de bonus.
 
-A player who wins more or fewer tricks than they bid scores 10 points per trick won.
+Un joueur qui remporte plus ou moins de plis qu'il a annoncé marque 10 points par pli remporté.
 
-A player who bids to win all the tricks and succeeds scores 100 points per trick bid and made.
+Un joueur qui annonce remporter tous les plis et y parvient marque 100 points par pli annoncé et réalisé.
 
-There is a bonus for the player whose bids succeed in every hand during one of four sets. This player gets an additional score equal to the highest amount they scored on any one hand during the set. (This sometimes happens in the four-deal sets - the second and fourth. In the longer first and third sets it is very rare.)
+Il y a un bonus pour le joueur dont les enchères réussissent à chaque main lors de l'une des quatre séries. Ce joueur obtient un score supplémentaire égal au montant le plus élevé qu'il a marqué sur n'importe quelle main de la série. (Cela arrive parfois dans les séries de quatre donnes — la deuxième et la quatrième. Dans les première et troisième séries plus longues, c'est très rare.)
 
-**Examples**
+**Exemples**
 
-A player who passes and loses every trick scores 50 points. A player who passes and wins two tricks scores 20 points. A player who bids one or more trick and takes none scores nothing.
+Un joueur qui passe et perd tous les plis marque 50 points. Un joueur qui passe et remporte deux plis marque 20 points. Un joueur qui annonce un ou plusieurs plis et n'en remporte aucun ne marque rien.
 
-In a 4-card deal:
+Dans une donne de 4 cartes :
 
-- a player who bids 3 and wins three tricks exactly scores 200 points (3×50 + 50),
+- un joueur qui annonce 3 et remporte exactement trois plis marque 200 points (3×50 + 50),
 
-- a player who bids 3 tricks and wins 4 scores 40,
+- un joueur qui annonce 3 plis et en remporte 4 marque 40,
 
-- a player who bids 4 tricks and wins 3 scores 30,
+- un joueur qui annonce 4 plis et en remporte 3 marque 30,
 
-- a player who bids 4 tricks and wins 4 scores 400 (4×100). 
+- un joueur qui annonce 4 plis et en remporte 4 marque 400 (4×100).
 
-## Variations
+## Variantes
 
-Instead of using Jokers, some play with a standard 36-card pack including black Sixes and use the black Sixes as Jokers. 
+Au lieu d'utiliser des Jokers, certains jouent avec un jeu standard de 36 cartes incluant les six noirs et utilisent les six noirs comme Jokers.
 
-Some play with a 38-card pack including the black Sixes and two Jokers. In this case the black Sixes function as ordinary Sixes - the lowest cards of their suits. In this version the trump suit in the second and fourth sets is determined by turning up one of the two undealt cards, not one of the dealer's cards.
+Certains jouent avec un jeu de 38 cartes incluant les six noirs et deux Jokers. Dans ce cas, les six noirs fonctionnent comme des six ordinaires — les cartes les plus basses de leur couleur. Dans cette version, la couleur d'atout dans les deuxième et quatrième séries est déterminée en retournant l'une des deux cartes non distribuées, et non l'une des cartes du donneur.
 
-Although the game is probably best for 4 players, it is possible for more or fewer people to play. 
+Bien que le jeu soit probablement meilleur à 4 joueurs, il est possible de jouer avec plus ou moins de personnes.
 
-- With three players, the first and third sets consist of 11 deals (increasing from 1 to 11 cards each and decreasing from 11 to 1). The second and fourth sets have 3 deals of 12 cards each.
+- Avec trois joueurs, les première et troisième séries comprennent 11 donnes (augmentant de 1 à 11 cartes et diminuant de 11 à 1). Les deuxième et quatrième séries ont 3 donnes de 12 cartes chacune.
 
-- With five players, the first and third sets consist of 6 deals (increasing from 1 to 6 cards each and decreasing from 6 to 1). The second and fourth sets have 5 deals of 7 cards each.
+- Avec cinq joueurs, les première et troisième séries comprennent 6 donnes (augmentant de 1 à 6 et diminuant de 6 à 1). Les deuxième et quatrième séries ont 5 donnes de 7 cartes chacune.
 
-- With six players, the first and third sets consist of 5 deals (increasing from 1 to 5 cards each and decreasing from 5 to 1). The second and fourth sets have 6 deals of 6 cards each.
+- Avec six joueurs, les première et troisième séries comprennent 5 donnes (augmentant de 1 à 5 et diminuant de 5 à 1). Les deuxième et quatrième séries ont 6 donnes de 6 cartes chacune.
 
-Some play that in hands where all the cards are dealt, instead of turning up one of the dealer's cards, the hand is played with no trumps. Others in this case allow the player to dealer's left (who bids and plays first) to choose the trump suit (or no trumps) after looking at just the first three cards dealt to them.
+Certains jouent que dans les donnes où toutes les cartes sont distribuées, au lieu de retourner une des cartes du donneur, la main se joue sans atout. D'autres, dans ce cas, permettent au joueur à la gauche du donneur (qui enchérit et joue en premier) de choisir la couleur d'atout (ou sans atout) après avoir regardé les trois premières cartes qui lui ont été distribuées.
 
-In some groups there is a penalty known as a *hist* for a player who bids 1 or more tricks but wins none. In sets 1 and 3 the penalty is to lose 200 points: in sets 2 and 4 the penalty is to lose 500 points. The word 'hist' is derived from Georgian *'hishti'* (ხიშტი) which means bayonet.
+Dans certains groupes, il y a une pénalité appelée *hist* pour un joueur qui annonce 1 ou plusieurs plis mais n'en remporte aucun. Dans les séries 1 et 3, la pénalité est de perdre 200 points ; dans les séries 2 et 4, la pénalité est de perdre 500 points. Le mot « hist » est dérivé du géorgien « hishti » (ხიშტი) qui signifie baïonnette.
 
-Some play that if all of a player's bids in one of the sets is successful, not only is that player's highest score in that set doubled, but also every other player has to erase their highest score in that set.
+Certains jouent que si toutes les enchères d'un joueur dans l'une des séries réussissent, non seulement le score le plus élevé de ce joueur dans cette série est doublé, mais aussi chaque autre joueur doit effacer son score le plus élevé dans cette série.
 
-Some play that if the card turned up to determine trumps is a Joker, the player to dealer's left, after looking at their hand, can opt either to play the hand without trumps or to demand a redeal for double score. If a Joker is again turned for trumps in the redealt hand, the first player can play no trumps for double score or demand a redeal for triple score, and so on. The doubling, tripling, quadrupling, etc. applies to all scores **except** the score for a successful pass winning no tricks, which always scores just 50. 
+Certains jouent que si la carte retournée pour déterminer l'atout est un Joker, le joueur à la gauche du donneur, après avoir regardé sa main, peut choisir soit de jouer la main sans atout, soit de demander une redistribution pour un double score. Si un Joker est de nouveau retourné comme atout dans la main redistribuée, le premier joueur peut jouer sans atout pour un double score ou demander une redistribution pour un triple score, et ainsi de suite. Le doublement, triplement, quadruplement, etc. s'applique à tous les scores **sauf** le score d'un passe réussi sans remporter de pli, qui marque toujours 50.
 
-There may be some variation in the rule on who wins the trick when a Joker is led as high specifying a non-trump suit and another player plays a trump. In the related Russian game Расписной покер, although players who cannot follow suit must trump, some may play that the led Joker still wins the trick. It may be that some players of Georgian Joker also use this rule.
+Il peut y avoir des variations dans la règle concernant le gagnant du pli lorsqu'un Joker est entamé comme haut en spécifiant une couleur non-atout et qu'un autre joueur joue un atout. Dans le jeu russe apparenté Расписной покер, bien que les joueurs qui ne peuvent pas suivre doivent jouer un atout, certains peuvent jouer que le Joker entamé remporte quand même le pli. Il se peut que certains joueurs de Joker géorgien utilisent aussi cette règle.
 
-## Software and Online Games
+## Logiciel et jeux en ligne
 
-At jok.ge there is an [online Joker app](https://jok.ge/) for Android, iOS or web browser.
+Il existe une [application Joker en ligne](https://jok.ge/) pour Android, iOS ou navigateur web sur jok.ge.
 
-Gamifications's online Joker app is available for [Android](https://play.google.com/store/apps/details?id=com.jokergame.joker) or [iOS](https://apps.apple.com/ru/app/джокер/id908803352).
-
-Home Page > Classified Index > Trick Taking Games > Exact Bidding Group > Joker
+L'application Joker en ligne de Gamifications est disponible pour [Android](https://play.google.com/store/apps/details?id=com.jokergame.joker) et [iOS](https://apps.apple.com/ru/app/джокер/id908803352).

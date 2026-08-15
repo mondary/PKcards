@@ -2,7 +2,7 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A four-player partnership game with 24 cards from the High Black Forest in Germany, in which the aim is to win at least three of the five tricks.
+**But :** Jeu de partenariat à quatre joueurs avec 24 cartes de la Haute Forêt-Noire en Allemagne, dans lequel le but est de gagner au moins trois des cinq plis.
 
 ---
 
@@ -10,104 +10,102 @@
 
 ## Introduction
 
-Altbaumer, also called Altbomer in the local Baar dialect, is an intriguing and old south German  game that is only known today in Röthenbach, a village on the upper reaches of the eponymous river and about 8 miles east of Lake Titisee, a major tourist attraction in the Black Forest. The name Altbaumer means something like “old forester” and this theme is reflected in its terminology and scoring. Very little is known about its origins and distribution, although its anticlockwise play suggests a certain antiquity. Locals play it mainly at home, but also sometimes in a local Gasthaus, and during the 2000s there was even an Altbaumer tournament in the village which drew around five or six tables of players. It was also played in people’s homes in the village of St. Märgen, 16 miles to the northeast of Röthenbach, immediately after the Second World War. This suggests it is a native of the High Black Forest and possibly the western tip of the Baar region. No published record of its rules has been found, so this may well be the first written account of the game.
+Altbaumer, aussi appelé Altbomer dans le dialecte local du Baar, est un jeu allemand du sud intrigant et ancien, connu aujourd'hui uniquement à Röthenbach, un village sur le cours supérieur de la rivière éponyme, à environ 13 km à l'est du lac Titisee, une attraction touristique majeure de la Forêt-Noire. Le nom Altbaumer signifie quelque chose comme « vieux forestier » et ce thème se reflète dans sa terminologie et son comptage. On sait très peu de choses sur ses origines et sa diffusion, bien que son sens de jeu antihoraire suggère une certaine antiquité. Les locaux y jouent principalement chez eux, mais aussi parfois dans un Gasthaus local, et dans les années 2000 il y a même eu un tournoi d'Altbaumer dans le village qui a attiré environ cinq ou six tables de joueurs. Il était également joué dans les maisons du village de St. Märgen, 26 km au nord-est de Röthenbach, juste après la Seconde Guerre mondiale. Cela suggère qu'il est originaire de la Haute Forêt-Noire et peut-être de la pointe ouest de la région du Baar. Aucun compte rendu publié de ses règles n'a été trouvé, il s'agit donc très probablement du premier récit écrit du jeu.
 
-*This page is based on information compiled by games researcher Paul Eaton and Black Forest ranger Achim Laber, who were alerted to the game by Eugen Renner when local card players gathered to learn Dappen at Titisee-Neustadt in summer 2024. Achim Laber and newcomer, Clemens Hofmeier, initially learned Altbaumer on 5 February 2025 at Hause Durst, the home of René Wolf, in Röthenbach. His instructors were Eugen Renner and the sisters Gerda Marx and Uli Zimmerhansel. Another session was held on 14 May 2025 in which Paul Eaton and his wife, Jo, joined the group to clarify the rules further. Paul Eaton gathered more information on 15 May 2025 at Breitnau from Luise Winterhalden, who had played the game in her youth in St. Märgen.*
+*Cette page est basée sur des informations compilées par le chercheur en jeux Paul Eaton et le garde forestier de la Forêt-Noire Achim Laber, alertés au jeu par Eugen Renner lorsque des joueurs de cartes locaux se sont rassemblés pour apprendre le Dappen à Titisee-Neustadt à l'été 2024. Achim Laber et un nouveau venu, Clemens Hofmeier, ont appris l'Altbaumer pour la première fois le 5 février 2025 à Hause Durst, la maison de René Wolf, à Röthenbach. Leurs instructeurs étaient Eugen Renner et les sœurs Gerda Marx et Uli Zimmerhansel. Une autre session s'est tenue le 14 mai 2025, lors de laquelle Paul Eaton et sa femme, Jo, ont rejoint le groupe pour clarifier les règles davantage. Paul Eaton a recueilli des informations supplémentaires le 15 mai 2025 à Breitnau auprès de Luise Winterhalden, qui avait joué à ce jeu dans sa jeunesse à St. Märgen.*
 
-*The playing cards depicted above are the Queen and Jack of Clubs from a Jass/Tapp pack, © ASS Altenburger. Pack design: Berlin or North German pattern, originally designed before 1856. Cards depicted by kind permission of ASS Altenburger.*
+*Les cartes à jouer illustrées ci-dessus sont la Dame et le Valet de Trèfle d'un jeu de Jass/Tapp, © ASS Altenburger. Design du jeu : motif berlinois ou nord-allemand, conçu à l'origine avant 1856. Cartes reproduites avec l'aimable autorisation d'ASS Altenburger.*
 
-## Players and Objective
+## Joueurs et objectif
 
-Altbaumer is a four-hand, plain-trick, partnership game in which the aim is to win 3 of the 5 tricks in each hand. On a rectangular table, partners sit diagonally opposite one another. Deal and play are anticlockwise.
+Altbaumer est un jeu de plis simples à quatre mains et en partenariat, dans lequel le but est de gagner 3 des 5 plis de chaque donne. Sur une table rectangulaire, les partenaires sont assis en diagonale l'un en face de l'autre. La donne et le jeu se font dans le sens antihoraire.
 
-## Cards
+## Cartes
 
-A 24-card, Berlin pattern pack is used. This may be made either by shortening the local 36-card Jass/Tapp pack, removing the 6s to 8s, or from a standard Skat pack by removing the 7s and 8s, or from a Poker or Rommé pack, removing the 2s to 8s and any Jokers.
+On utilise un jeu de 24 cartes au motif berlinois. Il peut être obtenu soit en raccourcissant le jeu local de Jass/Tapp de 36 cartes en retirant les 6, 7 et 8, soit à partir d'un jeu de Skat standard en retirant les 7 et 8, soit à partir d'un jeu de Poker ou de Rommé en retirant les 2 à 8 et tous les Jokers.
 
-The suits are called *Kreuz, Pik, Herz *and* Karo* (Clubs, Spades, Hearts and Diamonds).
+Les couleurs sont appelées *Kreuz, Pik, Herz* et *Karo* (Trèfles, Piques, Cœurs et Carreaux).
 
-There are two matadors (permanent top trumps). The Queen of Clubs or 'Big Tree' (*Großbaum *or *Großer Bom*), is the highest trump and the Jack of Clubs or 'Little Tree' (*Kleinbaum *or* Kleiner Bom*), is the second highest. 
+Il y a deux matadors (atouts fixes de plus haut rang). La Dame de Trèfle ou « Grand Arbre » (*Großbaum* ou *Großer Bom*), est l'atout le plus élevé et le Valet de Trèfle ou « Petit Arbre » (*Kleinbaum* ou *Kleiner Bom*), est le deuxième plus élevé.
 
-Thus the trump suit normally has 8 cards, except in Clubs when there are 6. The trumps rank as follows:
+Ainsi la couleur d'atout a normalement 8 cartes, sauf aux Trèfles où il y en a 6. Les atouts se classent comme suit :
 
-**Big Tree **(Queen of Clubs)****
+**Grand Arbre** (Dame de Trèfle)
 
-**Little Tree **(Jack of Clubs)****
+**Petit Arbre** (Valet de Trèfle)
 
-**Ace**
+**As**
 
-**King**
+**Roi**
 
-**Ten **
+**Dix**
 
-**(Queen)**
+**(Dame)**
 
-**(Jack)**
+**(Valet)**
 
-**Nine**
+**Neuf**
 
-In the non-trump suits the ranking is: A 10 K (Q) (J) 9.
+Dans les couleurs non-atout, le classement est : A 10 R (D) (V) 9.
 
-## The Deal
+## La donne
 
-The Nines are shuffled and players draw one each. The players with the two red Nines form one team and those with the two black Nines the other. The player with the Nine of Clubs deals first. The dealer shuffles the pack, using an overhand shuffle, and the player to dealer's left cuts. If a Tree is cut, the cutter may take it; if the next card is the other Tree, the cutter may take that too. Any cards so taken must be placed face up on the table for all to see. 
+Les Neufs sont mélangés et chaque joueur en tire un. Les joueurs avec les deux Neufs rouges forment une équipe et ceux avec les deux Neufs noirs l'autre. Le joueur avec le Neuf de Trèfle donne en premier. Le donneur bat le jeu, avec un battage par la main, et le joueur à la gauche du donneur coupe. Si un Arbre est coupé, le coupeur peut le prendre ; si la carte suivante est l'autre Arbre, le coupeur peut aussi le prendre. Toutes les cartes ainsi prises doivent être posées face visible sur la table pour que tous les voient.
 
-The dealer then deals five cards each, in packets of three and then two, and places the last four face down on the table as a stock. If the cutter has already taken one or both Trees, the dealer gives them correspondingly fewer in the first packet.
+Le donneur distribue ensuite cinq cartes à chacun, en paquets de trois puis deux, et pose les quatre dernières face contre table comme talon. Si le coupeur a déjà pris un ou les deux Arbres, le donneur lui donne proportionnellement moins de cartes dans le premier paquet.
 
-The turn to deal passes to the right after each hand.
+Le tour de donne passe à droite après chaque main.
 
-## Making Trump
+## Détermination de l'atout
 
-Forehand (the player to dealer's right) and forehand's partner are the trump makers; the other team are the defenders. To make trump the dealer first turns the top card of the stock and places it face up alongside the rest. Forehand may accept the suit of this turned up card as trump by taking it and discarding a card face down to the stock in its place. Alternatively forehand may refuse it by saying “No” in which case another card is turned up and, if necessary, another and another, until a different suit is revealed, which automatically becomes trumps. Forehand then takes this new trump indicator card and discards one card to the stock in its place. If all four cards turned are of one suit, that suit fixes trumps, forehand takes all four of these trumps and discards any four cards face down in their place. If a Tree is turned up, it represents the suit of Clubs for the purpose of determining trumps. 
+Le joueur en premier (le joueur à droite du donneur) et son partenaire sont les déterminateurs d'atout ; l'autre équipe est les défenseurs. Pour déterminer l'atout, le donneur retourne d'abord la carte supérieure du talon et la pose face visible à côté du reste. Le joueur en premier peut accepter la couleur de cette carte retournée comme atout en la prenant et en défaussant une carte face contre table au talon à sa place. Alternativement, il peut la refuser en disant « Non », auquel cas une autre carte est retournée, et si nécessaire une autre et encore une autre, jusqu'à ce qu'une couleur différente soit révélée, qui devient automatiquement atout. Le joueur en premier prend alors cette nouvelle carte indicatrice d'atout et défausse une carte au talon à sa place. Si les quatre cartes retournées sont de la même couleur, cette couleur fixe l'atout, le joueur en premier prend ces quatre atouts et défausse quatre cartes face contre table à leur place. Si un Arbre est retourné, il représente la couleur de Trèfle pour déterminer l'atout.
 
-If at this stage either player of the trump maker's team believes they have a strong enough hand to take the majority of tricks playing alone, they announce this and the other member of the team puts their cards face down and does not take part in the play. The advantage of this is that if the lone player takes all five tricks, their team wins the entire round.
+Si à ce stade l'un des joueurs de l'équipe déterminatrice d'atout estime avoir une main assez forte pour gagner la majorité des plis en jouant seul, il l'annonce et l'autre membre de l'équipe pose ses cartes face contre table et ne participe pas au jeu. L'avantage est que si le joueur seul gagne les cinq plis, son équipe remporte l'intérale ronde.
 
-## The Play
+## Le jeu
 
-Forehand leads to the first trick. Players must follow suit if able. A player who has no card of the suit that was led must play a trump. A player who has no cards of the suit led and no trumps may play any card. There is no obligation to head the trick. 
+Le joueur en premier mène au premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur menée doit jouer un atout. Un joueur qui n'a ni carte de la couleur menée ni atout peut jouer n'importe quelle carte. Il n'y a aucune obligation de monter dans le pli.
 
-For the purpose of following suit, the two Trees (Queen and Jack of Clubs) are treated as members of the trump suit, **except** in the following special case. If a suit other than Clubs is trump and an ordinary Club (Ace, King, 10 or 9) is led, the other players may play **any** Club, including the option to play a Tree. When an ordinary Club is led, a player who has no ordinary Clubs must trump with a Tree if they have one. A player with no Clubs and no Trees must play a card of the trump suit if possible. Only when holding no Clubs, no Trees and no other trumps are they allowed to play a card of a different non-trump suit.
+Pour le suivi de couleur, les deux Arbres (Dame et Valet de Trèfle) sont traités comme membres de la couleur d'atout, **sauf** dans le cas spécial suivant. Si une couleur autre que le Trèfle est atout et qu'un Trèfle ordinaire (As, Roi, 10 ou 9) est mené, les autres joueurs peuvent jouer **n'importe quel** Trèfle, y compris un Arbre. Lorsqu'un Trèfle ordinaire est mené, un joueur qui n'a pas de Trèfle ordinaire doit atouter avec un Arbre s'il en a un. Un joueur sans Trèfle ni Arbre doit jouer une carte de la couleur d'atout si possible. Ce n'est que lorsqu'il n'a ni Trèfle, ni Arbre, ni autre atout qu'il peut jouer une carte d'une autre couleur non-atout.
 
-This special case only applies when an ordinary Club is led. When a Tree is led the other players must play trumps if they have them. Only a player with no Trees and no cards of the trump suit can play a non-trump, and in this case they can play a card of any non-trump suit.
+Ce cas spécial ne s'applique que lorsqu'un Trèfle ordinaire est mené. Lorsqu'un Arbre est mené, les autres joueurs doivent jouer des atouts s'ils en ont. Seul un joueur sans Arbre ni carte de la couleur d'atout peut jouer une carte non-atout, et dans ce cas il peut jouer une carte de n'importe quelle couleur non-atout.
 
-The highest trump wins the trick, or the highest card of the led suit if no trumps were played. For this purpose the Trees count as the top trumps, even in the special case where a non-trump Club was led. The trick winner leads to the next trick.
+Le plus haut atout gagne le pli, ou la plus forte carte de la couleur menée si aucun atout n'a été joué. À cet effet, les Arbres comptent comme les atouts les plus élevés, même dans le cas spécial où un Trèfle non-atout a été mené. Le vainqueur du pli mène au suivant.
 
-**Examples with Hearts trump. Players A and C are partners against B and D**
+**Exemples avec Cœur à l'atout. Les joueurs A et C sont partenaires contre B et D**
 
-- Player **A** leads the **![club](../images/internat/club.gif)9**, player **B** follows suit with the **![club](../images/internat/club.gif)A**. Player **A**'s partner **C** has the 10 and Jack of Clubs and chooses to trump with the **![club](../images/internat/club.gif)J**. Player **D** has no Clubs and just one trump, the **![heart](../images/internat/heart.gif)A**, which must be played, even though **D** would have preferred to keep it for later and play a non-trump. The **![club](../images/internat/club.gif)J** (Little Tree) wins the trick since it is a higher trump than the **![heart](../images/internat/heart.gif)A**.
+- Le joueur **A** mène le **![trèfle](../images/internat/club.gif)9**, le joueur **B** suit la couleur avec le **![trèfle](../images/internat/club.gif)A**. Le partenaire **C** de **A** a le 10 et le Valet de Trèfle et choisit d'atouter avec le **![trèfle](../images/internat/club.gif)V**. Le joueur **D** n'a pas de Trèfle et qu'un seul atout, le **![cœur](../images/internat/heart.gif)A**, qui doit être joué, même si **D** aurait préféré le garder pour plus tard et jouer une carte non-atout. Le **![trèfle](../images/internat/club.gif)V** (Petit Arbre) gagne le pli puisque c'est un atout supérieur au **![cœur](../images/internat/heart.gif)A**.
 
-- Player **A** leads the Big Tree (**![club](../images/internat/club.gif)Q**). Player **B** has the **![club](../images/internat/club.gif)J**, the **![club](../images/internat/club.gif)10** and the **![heart](../images/internat/heart.gif)9**. East must play either the **![club](../images/internat/club.gif)J** or the **![heart](../images/internat/heart.gif)9** (better). **B** is not allowed to play the **![club](../images/internat/club.gif)10** to this trick because it is not a trump.
+- Le joueur **A** mène le Grand Arbre (**![trèfle](../images/internat/club.gif)D**). Le joueur **B** a le **![trèfle](../images/internat/club.gif)V**, le **![trèfle](../images/internat/club.gif)10** et le **![cœur](../images/internat/heart.gif)9**. B doit jouer soit le **![trèfle](../images/internat/club.gif)V** soit le **![cœur](../images/internat/heart.gif)9** (mieux). **B** n'est pas autorisé à jouer le **![trèfle](../images/internat/club.gif)10** à ce pli car ce n'est pas un atout.
 
-The first team that takes three tricks wins the hand; a team winning all five wins double. Even if a hand is won 3-1, it is usual to play the last trick out. This may be a hangover from the time when it was a rule in order to prevent cheating by spotting a revoke, as in Euchre.
+La première équipe qui gagne trois plis remporte la main ; une équipe qui gagne les cinq remporte double. Même si une main est gagnée 3-1, on joue généralement le dernier pli jusqu'au bout. Cela pourrait être un vestige de l'époque où c'était une règle pour empêcher la triche en repérant une renonce, comme au Euchre.
 
-## Scoring
+## Comptage
 
-The principle is as follows. A team that takes 3 or 4 tricks scores +1 point. A team that takes all 5 tricks scores +2 points. If the trump makers take 3 or more tricks their opponents score nothing. If the trump makers take fewer than 3 tricks they score -1 point (while their opponents score +1 or +2). Both teams begin with scores of zero. The first team that reaches a cumulative score of 5 or more points over as many deals as that takes wins the round. At the end of the round both teams' point scores are rest to zero. If a player of the trump maker's team plays alone and wins all five tricks that team immediately wins the current round and the point scores are reset to zero. 
+Le principe est le suivant. Une équipe qui prend 3 ou 4 plis marque +1 point. Une équipe qui prend les 5 plis marque +2 points. Si les déterminateurs d'atout prennent 3 plis ou plus, leurs adversaires ne marquent rien. Si les déterminateurs d'atout prennent moins de 3 plis, ils marquent -1 point (tandis que leurs adversaires marquent +1 ou +2). Les deux équipes commencent avec un score de zéro. La première équipe qui atteint un score cumulé de 5 points ou plus sur autant de donnes que nécessaire remporte la ronde. À la fin de la ronde, les scores des deux équipes sont remis à zéro. Si un joueur de l'équipe déterminatrice d'atout joue seul et gagne les cinq plis, son équipe remporte immédiatement la ronde en cours et les scores sont remis à zéro.
 
 ![altbaumer score sheet](../images/trumps/altbaumer-scoresheet.png)
-The authentic way to score is using a slate or score sheet on which a stylised tree is drawn. The 'trunk' is represented by an ellipse from which two horizontal main branches extend. The longer main branch to the left of the trunk has 5 pairs of vertical side-branches above and below. These side branches are called *Bengel*, an old Black Forest technical term. The *Bengel* on the left-hand branch represent points. The main branch to the right only has 2 pairs of *Bengel*, representing rounds. 
+La façon authentique de compter est d'utiliser une ardoise ou une feuille de score sur laquelle un arbre stylisé est dessiné. Le « tronc » est représenté par une ellipse de laquelle s'étendent deux branches principales horizontales. La branche principale la plus longue, à gauche du tronc, comporte 5 paires de branches latérales verticales au-dessus et en dessous. Ces branches latérales sont appelées *Bengel*, un ancien terme technique de la Forêt-Noire. Les *Bengel* de la branche de gauche représentent les points. La branche principale de droite n'a que 2 paires de *Bengel*, représentant les rondes.
 
-If the trump makers take 3 or 4 tricks they erase a *Bengel* from their side of the left-hand branch; if they take 5 tricks, they erase 2 *Bengel*. If they lose, they add a curly line in the shape of a 6 or 9, called a bloke (*Mann* or *Mensch*), and their opponents, the defenders, erase one *Bengel;* or two *Bengel* if they won all five tricks. Curly lines represent negative points and teams that have any of these must erase them first instead of *Bengel*. Only when they have removed all their *Menschen* can they use their points to erase their *Bengel*. 
+Si les déterminateurs d'atout prennent 3 ou 4 plis, ils effacent un *Bengel* de leur côté de la branche gauche ; s'ils en prennent 5, ils en effacent 2. S'ils perdent, ils ajoutent une ligne bouclée en forme de 6 ou 9, appelée bloke (*Mann* ou *Mensch*), et leurs adversaires, les défenseurs, effacent un *Bengel* ; ou deux *Bengel* s'ils ont gagné les cinq plis. Les lignes bouclées représentent des points négatifs et les équipes qui en ont doivent les effacer en premier plutôt que des *Bengel*. Ce n'est que lorsqu'elles ont supprimé tous leurs *Menschen* qu'elles peuvent utiliser leurs points pour effacer leurs *Bengel*.
 
-The first team that erases all five of their *Bengel* on the left branch of the tree wins the round (*Runde*). They erase one *Bengel* from their side of the right branch and if neither team has won two rounds yet, the left branch of the tree is restored to its original condition with 5 pairs of *Bengel* and no *Menschen*.
+La première équipe qui efface ses cinq *Bengel* sur la branche gauche de l'arbre remporte la ronde (*Runde*). Elle efface un *Bengel* de son côté de la branche droite et si aucune équipe n'a encore gagné deux rondes, la branche gauche de l'arbre est restaurée dans son état initial avec 5 paires de *Bengel* et sans *Menschen*.
 
-If a member of forehand's team plays alone the scoring is as above except that if the lone player wins all five tricks, forehand's team wins the round, erases one *Bengel* from their side of the right-hand branch, and reinstates the left-hand branch for the new round. 
+Si un membre de l'équipe du joueur en premier joue seul, le comptage est identique sauf que si le joueur seul gagne les cinq plis, l'équipe du joueur en premier remporte la ronde, efface un *Bengel* de son côté de la branche droite, et rétablit la branche gauche pour la nouvelle ronde.
 
-## Winning
+## Victoire
 
-The first team to win two rounds and thus erase 2 *Bengel* on the right-hand branch wins the game. Their opponents buy them a schnapps or other agreed drink. If each team wins a round, there is a shorter third round consisting of one hand only; whoever wins three tricks in this hand erases their second *Bengel* from the right-hand side of the tree and wins the game.
+La première équipe à gagner deux rondes et donc effacer 2 *Bengel* sur la branche droite remporte le jeu. Ses adversaires leur offrent un schnaps ou une autre boisson convenue. Si chaque équipe gagne une ronde, il y a une troisième ronde plus courte constituée d'une seule donne ; celui qui gagne trois plis dans cette donne efface son deuxième *Bengel* du côté droit de l'arbre et remporte le jeu.
 
-## Variation: St. Märgen Scoring
+## Variante : comptage de St. Märgen
 
 ![altbaumer slate](../images/trumps/altbaumer-slate.jpg)
-In St. Märgen the terminology and scoring diagram were slightly different. If you lost as trump makers you were *mutsch.* This sounds like a dialect version of *matsch*, a common Bavarian and Austrian expression meaning to lose double or lose badly, the equivalent of Schneider in Skat and Schafkopf. It is also likely that *Mensch* is a corruption of *mutsch*. The scoring system in St. Märgen consisted of five horizontal lines chalked on a slate bisected by a long vertical line, again looking something like a tree trunk with branches. Each team had one side of the trunk and their names were chalked at the top. The branches were erased when points were scored. If the trump makers lost (*mutsch*), they were given a circular blob below the ladder on their side. A circular blob was added on the frame for the team that lost a round. The finer detail of the St. Märgen scoring is unknown. 
+À St. Märgen, la terminologie et le diagramme de comptage étaient légèrement différents. Si vous perdiez en tant que déterminateur d'atout, vous étiez *mutsch*. Cela ressemble à une version dialectale de *matsch*, une expression bavaroise et autrichienne courante signifiant perdre double ou perdre gravement, l'équivalent du Schneider au Skat et au Schafkopf. Il est également probable que *Mensch* soit une corruption de *mutsch*. Le système de comptage à St. Märgen consistait en cinq lignes horizontales tracées à la craie sur une ardoise, coupées par une longue ligne verticale, rappelant un tronc d'arbre avec des branches. Chaque équipe avait un côté du tronc et leurs noms étaient écrits en craie en haut. Les branches étaient effacées lorsque des points étaient marqués. Si les déterminateurs d'atout perdaient (*mutsch*), on leur ajoutait une tache circulaire sous l'échelle de leur côté. Une tache circulaire était ajoutée sur le cadre pour l'équipe qui perdait une ronde. Les détails fins du comptage de St. Märgen sont inconnus.
 
 ## Conclusion
 
-Altbaumer is a fascinating local game which has a number of unique features. First it is the only known game in which the matadors are a Queen and a Jack in a fixed suit. It is also a rare example of a game in which cards have dual citizenship – being members of the trump suit as well as for some purposes of their natural suit.
+Altbaumer est un jeu local fascinant qui présente plusieurs caractéristiques uniques. Premièrement, c'est le seul jeu connu où les matadors sont une Dame et un Valet dans une couleur fixe. C'est aussi un rare exemple de jeu où les cartes ont une double nationalité — appartenant à la fois à la couleur d'atout et, pour certains usages, à leur couleur naturelle.
 
-The overall format bears a resemblance to Euchre with its 24-card pack, four players in partnership, its 5-card plain trick format, two special top trumps and a card turned up to offered a trump suit, albeit only to one player, not all four. This is not totally surprising as Euchre is thought to have evolved from Jucker, a Palatinate game that dates at least to the late 18th century and which has other descendants in southwest Germany. 
+Le format général ressemble à l'Euchre avec son jeu de 24 cartes, ses quatre joueurs en partenariat, son format de pli simple à 5 cartes, ses deux atouts spéciaux de plus haut rang et une carte retournée pour proposer une couleur d'atout, bien que seulement à un joueur, pas aux quatre. Ce n'est pas totalement surprenant car l'Euchre est considéré comme ayant évolué à partir du Jucker, un jeu du Palatinat qui date au moins de la fin du 18e siècle et qui a d'autres descendants dans le sud-ouest de l'Allemagne.
 
-Like Euchre, Altbaumer is relatively easy to pick up; it’s fast-paced and fun with a good balance of luck and skill, a good pastime to relax with while being competitive enough to be a candidate for small local competitions. 
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Altbaumer
+Comme l'Euchre, Altbaumer est relativement facile à apprendre ; c'est rapide et amusant avec un bon équilibre entre chance et habileté, un bon passe-temps pour se détendre tout en étant assez compétitif pour être candidat à de petites compétitions locales.

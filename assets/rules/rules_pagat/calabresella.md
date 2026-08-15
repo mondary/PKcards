@@ -3,126 +3,124 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Tressette, Plis
-**But :** Also known as Terziglio, in which the 3, 2 and Ace are the highest cards.
+**But :** Aussi connu sous le nom de Terziglio, jeu dans lequel le 3, le 2 et l'As sont les cartes les plus fortes.
 **Autres noms :** Terziglio
 
 ---
 
 ## Introduction
 
-Calabresella (also known as **Terziglio**) is an Italian game for three players. (It can be played by four with the dealer receiving no cards for the hand.) It is closely related to the four player game Tressette. It is a point-trick game with bidding, requiring a fair amount of skill. It is notable for the slightly unusual card order (threes high) and the fact that there are never any trumps.
+La Calabresella (aussi connue sous le nom de **Terziglio**) est un jeu italien pour trois joueurs. (Elle peut être jouée à quatre, le donneur ne recevant pas de cartes pour la main.) Elle est étroitement apparentée au jeu à quatre joueurs Tressette. C'est un jeu de plis à points avec enchères, nécessitant une certaine habileté. Elle est notable pour l'ordre des cartes légèrement inhabituel (les trois hauts) et le fait qu'il n'y a jamais d'atouts.
 
-*This page has grown from a description provided by Michael Labranche*
+*Cette page a été développée à partir d'une description fournie par Michael Labranche.*
 
-## The Cards
+## Les cartes
 
-A 40 card pack is used, usually with the Italian suits: swords, batons, cups and coins. In each suit the cards rank as follows: 3 (highest), 2, A, King *(Re)*, Knight *(Cavall)*, Jack *(Fante)*, 7, 6, 5, 4 (lowest). It is also possible to play with French suited cards: from a 52 card pack you need to remove the 10s 9s and 8s, and the cards rank 3 2 A K Q J 7 6 5 4.
+Un jeu de 40 cartes est utilisé, généralement avec les couleurs italiennes : épées, bâtons, coupes et deniers. Dans chaque couleur, les cartes se classent comme suit : 3 (le plus haut), 2, As, Roi *(Re)*, Cavalier *(Cavall)*, Valet *(Fante)*, 7, 6, 5, 4 (le plus bas). Il est aussi possible de jouer avec des cartes à couleurs françaises : à partir d'un jeu de 52 cartes, il faut retirer les 10, 9 et 8, et les cartes se classent 3 2 A R D V 7 6 5 4.
 
-The cards have point values and the object is to take tricks containing valuable cards. There is also a score for winning the last trick. The values are as follows:
+Les cartes ont des valeurs en points et le but est de gagner des plis contenant des cartes de valeur. Il y a aussi un score pour gagner le dernier pli. Les valeurs sont les suivantes :
 
-| Each ace | 1 whole point |
-| Each 3, 2, re, cavall or fante | 1/3 of a point |
-| Winning the last trick | 1 whole point |
+| Chaque as | 1 point entier |
+| Chaque 3, 2, re, cavall ou fante | 1/3 de point |
+| Gagner le dernier pli | 1 point entier |
 
-## Deal
+## Donne
 
-The deal and the play of the cards rotates counter-clockwise throughout the game. The dealer gives out twelve cards to each player in packets of four. The left-over four cards go face-down in the center of the table to form the *monte*.
+La donne et le jeu des cartes se font dans le sens antihoraire tout au long de la partie. Le donneur distribue douze cartes à chaque joueur par paquets de quatre. Les quatre cartes restantes sont posées face contre table au centre de la table pour former le *monte*.
 
-## Bidding
+## Enchères
 
-Starting with the player to dealer's right and proceeding counter-clockwise, each player has one chance to bid. The highest bidder will play alone against the other two players in partnership and attempt to take the majority of the points. There are three possible bids; from lowest to highest they are:
+En commençant par le joueur à la droite du donneur et en procédant dans le sens antihoraire, chaque joueur a une chance d'enchérir. L'enchérisseur le plus haut jouera seul contre les deux autres joueurs en partenariat et tentera de prendre la majorité des points. Il y a trois enchères possibles ; de la plus basse à la plus haute, ce sont :
 
-- **Chiamo**: the bidder calls for a card from the opponents and can exchange some cards with the *monte*;
+- **Chiamo** : l'enchérisseur appelle une carte des adversaires et peut échanger des cartes avec le *monte* ;
 
-- **Solo**: the bidder can exchange cards with the *monte* but does not call a card;
+- **Solo** : l'enchérisseur peut échanger des cartes avec le *monte* mais n'appelle pas de carte ;
 
-- **Solissimo**: the bidder neither calls a card nor exchanges cards.
+- **Solissimo** : l'enchérisseur n'appelle pas de carte et n'échange pas de cartes.
 
-Each player in turn may either *pass* or bid. Each bid must be higher than any preceding bid: 
+Chaque joueur à son tour peut soit *passer* soit enchérir. Chaque enchère doit être supérieure à toute enchère précédente :
 
-- if someone has already bid *Chiamo* a subsequent player may only pass or bid *Solo* or *Solissimo*;
+- si quelqu'un a déjà enchéri *Chiamo*, un joueur suivant ne peut que passer ou enchérir *Solo* ou *Solissimo* ;
 
-- if someone has bid *Solo* a subsequent player may only pass or bid *Solissimo*;
+- si quelqu'un a enchéri *Solo*, un joueur suivant ne peut que passer ou enchérir *Solissimo* ;
 
-- after a bid of *Solissimo*, no further bids are possible.
+- après une enchère de *Solissimo*, aucune autre enchère n'est possible.
 
-If all three players *pass* then the deal rotates and a new hand is dealt.
+Si les trois joueurs *passent*, le tour de donne passe et une nouvelle main est distribuée.
 
-## Exchanging Cards
+## Échange de cartes
 
-### Calling a Card
+### Appeler une carte
 
-If the bid was *Chiamo*, the bidder calls for a card, naming its rank and suit. This will normally be a high card which is missing from the bidder's hand, for example a three. If one of the opponents holds the called card, that player passes it, face up, to the bidder. 
+Si l'enchère était *Chiamo*, l'enchérisseur appelle une carte, en nommant son rang et sa couleur. Ce sera normalement une carte forte qui manque à la main de l'enchérisseur, par exemple un trois. Si l'un des adversaires détient la carte appelée, ce joueur la passe, face visible, à l'enchérisseur.
 
-If the called card is in the *monte* (or by accident in the bidder's hand), the call is thereby satisfied and the bidder does not receive a card from the opponents.
+Si la carte appelée se trouve dans le *monte* (ou par accident dans la main de l'enchérisseur), l'appel est ainsi satisfait et l'enchérisseur ne reçoit pas de carte des adversaires.
 
-### Taking the *Monte*
+### Prendre le *Monte*
 
-If the bid was *Chiamo* or *Solo*, the bidder now turns the four cards of the *monte* face up for all to see. They are then added to the bidder's hand, which now contains either 16 or 17 cards.
+Si l'enchère était *Chiamo* ou *Solo*, l'enchérisseur retourne alors les quatre cartes du *monte* face visible pour que tous les voient. Elles sont ajoutées à la main de l'enchérisseur, qui contient alors 16 ou 17 cartes.
 
-If the bid was *Chiamo* and the called card was obtained, the bidder now chooses one (unwanted) card and gives it, face up, to the player who originally held the called card.
+Si l'enchère était *Chiamo* et que la carte appelée a été obtenue, l'enchérisseur choisit alors une carte (indésirable) et la donne, face visible, au joueur qui détenait la carte appelée.
 
-The bidder then discards any four cards face down to form a new *monte*. The value of these cards will count for the winner of the last trick. All three players should now have 12 cards.
+L'enchérisseur défausse ensuite quatre cartes face contre table pour former un nouveau *monte*. La valeur de ces cartes comptera pour le gagnant du dernier pli. Les trois joueurs doivent maintenant avoir 12 cartes chacun.
 
 ### Solissimo
 
-If the bid is *Solissimo*, the bidder is not allowed to use the *monte*. In a normal Solissimo, no one sees the *monte* cards until they are won by the winner of the last trick at the end of the play.
+Si l'enchère est *Solissimo*, l'enchérisseur n'est pas autorisé à utiliser le *monte*. Dans un Solissimo normal, personne ne voit les cartes du *monte* jusqu'à ce qu'elles soient gagnées par le vainqueur du dernier pli à la fin du jeu.
 
-However, the bidder of a *Solissimo* **may** choose to increase the stake for the game by saying *dividete* or *scegliete*. The game then becomes a *Solissimo aggravato*.
+Cependant, l'enchérisseur d'un *Solissimo* **peut** choisir d'augmenter la mise de la partie en disant *dividete* ou *scegliete*. Le jeu devient alors un *Solissimo aggravato*.
 
-- **Dividete** means that the opponents each draw two cards from the *monte*, without having previously looked at them and without showing them, and then each discard any two of their 14 cards face down.
+- **Dividete** signifie que les adversaires piochent chacun deux cartes du *monte*, sans les avoir regardées au préalable et sans les montrer, puis défaussent chacun deux de leurs 14 cartes face contre table.
 
-- **Scegliete** means that the opponents turn the *monte* face up and choose which cards they should each take (they can be distributed in any way - not necessarily two each). Each opponent then discards face down as many cards as they took, so that everyone has 12 cards.
+- **Scegliete** signifie que les adversaires retournent le *monte* face visible et choisissent les cartes qu'ils doivent chacun prendre (elles peuvent être réparties de n'importe quelle façon — pas forcément deux chacune). Chaque adversaire défausse ensuite face contre table autant de cartes qu'il a prises, pour que tout le monde ait 12 cartes.
 
-## The Play
+## Le jeu
 
-The player to the right of the dealer leads to the first trick, unless the bid was *Solissimo*, in which case the bidder leads. Play to the trick is counter-clockwise and the player playing the highest card of the suit led wins the trick and leads to the next trick. There are no trumps.
+Le joueur à la droite du donneur mène au premier pli, sauf si l'enchère était *Solissimo*, auquel cas l'enchérisseur mène. Le jeu du pli se fait dans le sens antihoraire et le joueur qui joue la plus haute carte de la couleur menée gagne le pli et mène au suivant. Il n'y a pas d'atouts.
 
-## Scoring
+## Comptage
 
-After the tricks have all been played, the winner of the last trick claims the *monte*, and the bidder and opponents total their points. To win the hand, the bidder must have a majority of the points, that is at least 6 whole points. In this case the bidder receives an amount from each opponent depending on the bid. If the bidder fails to take 6 points, the bidder must pay the same amount to each opponent. The amounts won or lost for the different bids are as follows:
+Après que tous les plis ont été joués, le gagnant du dernier pli réclame le *monte*, et l'enchérisseur et les adversaires totalisent leurs points. Pour gagner la main, l'enchérisseur doit avoir la majorité des points, soit au moins 6 points entiers. Dans ce cas, l'enchérisseur reçoit un montant de chaque adversaire en fonction de l'enchère. Si l'enchérisseur échoue à prendre 6 points, il doit payer le même montant à chaque adversaire. Les montants gagnés ou perdus pour les différentes enchères sont les suivants :
 
-| Bid | Amount |
+| Enchère | Montant |
 | Chiamo | 1 |
 | Solo | 2 |
 | Solissimo | 4 |
 | Solissimo - dividete | 8 |
 | Solissimo - sceliete | 16 |
 
-The following events affect the score:
+Les événements suivants affectent le score :
 
-- **Cappotto**: if the bidder wins or loses all the tricks, the amount won or lost is **doubled**.
+- **Cappotto** : si l'enchérisseur gagne ou perd tous les plis, le montant gagné ou perdu est **doublé**.
 
-- **Stramazzo**: if the bidder wins (or loses) all the points without winning (or losing) all the tricks - that is, if the trick(s) won by the losing side contain less than one point (the point for the last trick does not count in this case), the amount won or lost is **multiplied by three**.
+- **Stramazzo** : si l'enchérisseur gagne (ou perd) tous les points sans gagner (ou perdre) tous les plis — c'est-à-dire si le(s) pli(s) gagné(s) par le côté perdant contiennent moins d'un point (le point du dernier pli ne compte pas dans ce cas), le montant gagné ou perdu est **multiplié par trois**.
 
-## Variations
+## Variantes
 
-Some play that if the bid was *Solissimo*, the bidder leads to the first trick. Some play that the bidder always leads to the first trick, irrespective of the contract.
+Certains jouent que si l'enchère était *Solissimo*, l'enchérisseur mène au premier pli. Certains jouent que l'enchérisseur mène toujours au premier pli, quel que soit le contrat.
 
-There is a simplified variation of Calabresella which is found in several American card game books. It apparently dates back to an article written in 1870 by Cavendish (Henry Jones) in the Westminster Chess Papers, in which he rationalised the scoring and changed the spelling of the name of the game; this 1900 American [newspaper article](https://news.google.com/newspapers?nid=1928&dat=19000309&id=I6sgAAAAIBAJ&sjid=T2kFAAAAIBAJ&pg=772,2654920) from the Lewiston Sun, published in Maine, describes essentially the same version and gives an example deal. Presumably this version was played by some Italian immigrants to America around that time. Although the same rules have subsequently been reprinted in many books, I am not sure whether this form of the game is still played in the USA (or anywhere). The main differences are as follows: 
+Il existe une variante simplifiée de la Calabresella que l'on trouve dans plusieurs livres américains de jeux de cartes. Elle remonte apparemment à un article écrit en 1870 par Cavendish (Henry Jones) dans le Westminster Chess Papers, dans lequel il a rationalisé le comptage et modifié l'orthographe du nom du jeu ; cet [article de journal américain de 1900](https://news.google.com/newspapers?nid=1928&dat=19000309&id=I6sgAAAAIBAJ&sjid=T2kFAAAAIBAJ&pg=772,2654920) du Lewiston Sun, publié dans le Maine, décrit essentiellement la même version et donne un exemple de donne. Il est probable que cette version était jouée par certains immigrants italiens en Amérique à cette époque. Bien que les mêmes règles aient été réimprimées dans de nombreux livres depuis, je ne sais pas si cette forme du jeu est encore jouée aux États-Unis (ou n'importe où). Les principales différences sont les suivantes :
 
-- The name of the game is given as Calabrasella (the 7th letter being 'a' rather than 'e').
+- Le nom du jeu est donné comme Calabrasella (la 7e lettre étant « a » plutôt que « e »).
 
-- The game is sometimes said to be played clockwise.
+- Le jeu est parfois dit être joué dans le sens horaire.
 
-- The deal is in packets of two, not four.
+- La donne se fait par paquets de deux, et non de quatre.
 
-- The player may either bid *play* or *pass*. *Play* is equivalent to *chiamo* in the Italian game. There is no *Solo* or *Solissimo*, so the bidding ends when someone calls *play*. 
+- Le joueur peut soit enchérir *play* (jouer) soit *pass*. *Play* est équivalent à *chiamo* dans le jeu italien. Il n'y a pas de *Solo* ni de *Solissimo*, donc l'enchère se termine quand quelqu'un annonce *play*.
 
-- Having received the called card from an opponent, the bidder immediately (before exchanging with the *monte*) gives back one card face-down to that opponent.
+- Après avoir reçu la carte appelée d'un adversaire, l'enchérisseur donne immédiatement (avant d'échanger avec le *monte*) une carte face contre table à cet adversaire.
 
-- Before seeing the *monte* (here called the widow), the bidder discards up to four unwanted cards face down. The bidder then exposes the widow for all to see and chooses an equal number of cards from the widow to replace the discarded cards. The replacement cards are added to the bidder's hand and the unchosen widow cards are added to the discards.
+- Avant de voir le *monte* (ici appelé le talon), l'enchérisseur défausse jusqu'à quatre cartes indésirables face contre table. Il retourne ensuite le talon pour que tous le voient et choisit un nombre égal de cartes dans le talon pour remplacer les cartes défaussées. Les cartes de remplacement sont ajoutées à la main de l'enchérisseur et les cartes non choisies du talon sont ajoutées aux défausses.
 
-- The bidder's left-hand opponent leads to the first trick, or in some versions the bidder's right-hand opponent leads. 
+- L'adversaire à la gauche de l'enchérisseur mène au premier pli, ou dans certaines versions l'adversaire à sa droite.
 
-- The values of the cards are all multiplied by 3 - so the aces and the last trick are worth 3, and the threes, twos and pictures are worth 1. Obviously this does not affect the game.
+- Les valeurs des cartes sont toutes multipliées par 3 — les as et le dernier pli valent donc 3, et les trois, les deux et les figures valent 1. Évidemment, cela n'affecte pas le jeu.
 
-- The bidder needs at least 18 of the 35 available points to win. The amount won or lost is the difference between the points won by the bidder and the total points won by the opponents. If the bidder wins all the tricks, the bidder receives 70 from each opponent; and conversely, a bidder who was unfortunate enough to lose all the tricks, would pay 70 to each opponent.
+- L'enchérisseur a besoin d'au moins 18 des 35 points disponibles pour gagner. Le montant gagné ou perdu est la différence entre les points gagnés par l'enchérisseur et le total des points gagnés par les adversaires. Si l'enchérisseur gagne tous les plis, il reçoit 70 de chaque adversaire ; et inversement, un enchérisseur assez malchanceux pour perdre tous les plis paierait 70 à chaque adversaire.
 
-- In the 1900 newspaper article the pack composition and card ranking is 'Americanized' to A-K-Q-J-10-9-8-7-6-5 with the queens and last trick worth 3 points and the aces, kings, jacks, tens and nines worth 1.
+- Dans l'article de journal de 1900, la composition du jeu et le rang des cartes sont « americanisés » en A-R-D-V-10-9-8-7-6-5 avec les dames et le dernier pli valant 3 points et les as, rois, valets, dix et neuf valant 1.
 
-## Other Terziglio / Calabresella Web Sites
+## Autres sites web Terziglio / Calabresella
 
-The Italian site Tretre includes [rules of Terziglio](https://web.archive.org/web/20160810090708/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-t/#c214).
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Calabresella
+Le site italien Tretre inclut des [règles du Terziglio](https://web.archive.org/web/20160810090708/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-t/#c214).

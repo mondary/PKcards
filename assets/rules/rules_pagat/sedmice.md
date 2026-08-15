@@ -2,74 +2,73 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for the card game Sedmice, played in Bosnia, Serbia and Croatia, in which a trick is won by an equal card or a seven.
+**But :** Règles du jeu de cartes Sedmice, joué en Bosnie, Serbie et Croatie, dans lequel un pli est gagné par une carte de même rang ou un sept.
+**Autres noms :** Šuster, Sieb'ner Schuster
 
 ---
 
-*This page is partly based in information from Veselko Kelava.*
+*Cette page est en partie basée sur des informations de Veselko Kelava.*
 
 ## Introduction
 
-**Sedmice** (seven), which is played in Bosnia and Herzegovina, Serbia and Croatia, belongs to an unusual group of trick-taking games in which a card is beaten only by an **equal** card or by a seven. It is closely related to the Czech and Slovak game Sedma and the Hungarian game Zsíros. In Croatia this game is also known as **Šuster**, and Rick Heli reports that before WWII German speakers living in southern Hungary used to call it **Sieb'ner Schuster**. This page describes a version played by Croatian players in Bosnia and Herzegovina. The variations section includes some differences found in Serbia.
+**Sedmice** (sept), qui se joue en Bosnie-Herzégovine, en Serbie et en Croatie, appartient à un groupe inhabituel de jeux de plis dans lequel une carte n'est battue que par une carte **égale** ou par un sept. Il est étroitement lié au jeu tchèque et slovaque Sedma et au jeu hongrois Zsíros. En Croatie, ce jeu est aussi connu sous le nom de **Šuster**, et Rick Heli rapporte qu'avant la Seconde Guerre mondiale, les germanophones vivant dans le sud de la Hongrie l'appelaient **Sieb'ner Schuster**. Cette page décrit une version jouée par des joueurs croates en Bosnie-Herzégovine. La section des variantes inclut quelques différences trouvées en Serbie.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game can be played by two players, or by four players in fixed partnerships, partners sitting opposite each other. 
+Le jeu peut se jouer à deux joueurs, ou à quatre joueurs en partenariats fixes, les partenaires s'asseyant en face l'un de l'autre.
 
-A 32-card French suited pack is used, the cards in each suit being A, K, Q, J, 10, 9, 8, 7. Aces and tens are worth 10 points each, and the other cards are worth nothing. The side that wins the last trick scores an additional 10 points, so that there are 90 points available in total.
+Un jeu de 32 cartes françaises est utilisé, les cartes de chaque couleur étant A, R, D, V, 10, 9, 8, 7. Les as et les dix valent 10 points chacun, et les autres cartes n'ont aucune valeur. Le camp qui gagne le dernier pli marque 10 points supplémentaires, soit un total de 90 points disponibles.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## Distribution
 
-Any player may deal first. Four cards are dealt to each player, and the remaining cards are stacked face down on the table.
+N'importe quel joueur peut donner en premier. Quatre cartes sont distribuées à chaque joueur, et les cartes restantes sont empilées face en bas sur la table.
 
-## Play
+## Jeu
 
-The player to dealer's left leads to the first trick. Each player in turn plays one card face up on the table. Any card may be played - there are no restrictions.
+Le joueur à la gauche du donneur entame le premier pli. Chaque joueur joue à son tour une carte face visible sur la table. N'importe quelle carte peut être jouée — il n'y a pas de restrictions.
 
-To win a trick it is necessary to play either a card that is **equal in rank** to the card led by the player who began the trick or a **seven**. The trick is won by the last equal card or seven that is played to it.
+Pour gagner un pli, il est nécessaire de jouer soit une carte **de même rang** que la carte entamée par le joueur qui a commencé le pli, soit un **sept**. Le pli est gagné par la dernière carte égale ou le dernier sept qui y est joué.
 
-After each player has played a card, there are three possibilities.
+Après que chaque joueur a joué une carte, il y a trois possibilités.
 
-- The winning card was played by the player who led to the trick or this player's partner. The trick ends and the leader's team collects the cards and stores them face down.
+- La carte gagnante a été jouée par le joueur qui a entamé le pli ou le partenaire de ce joueur. Le pli se termine et l'équipe du meneur ramasse les cartes et les conserve face en bas.
 
-- The winning card was played by an opponent of the player who led to the trick. In this case the player who led to the trick can continue the trick by playing another card, which must be a card that is equal to the original lead or a seven. In this case each player in turn must play another card. The trick can be continues for a third and a fourth round in the same way if an opponent of the leader is still winning and the leader has suitable cards to lead.
+- La carte gagnante a été jouée par un adversaire du joueur qui a entamé le pli. Dans ce cas, le joueur qui a entamé le pli peut continuer le pli en jouant une autre carte, qui doit être une carte égale à l'entame initiale ou un sept. Dans ce cas, chaque joueur à son tour doit jouer une autre carte. Le pli peut être continué pour un troisième et un quatrième tour de la même manière si un adversaire du meneur est toujours en train de gagner et que le meneur a des cartes appropriées à jouer.
 
-- The winning card was played by an opponent of the player who led to the trick, and the leader either does not wish to continue the trick or has no suitable card to play. The trick ends and the opponents of the leader collects the cards and store them face down.
+- La carte gagnante a été jouée par un adversaire du joueur qui a entamé le pli, et le meneur ne souhaite soit pas continuer le pli, soit n'a pas de carte appropriée à jouer. Le pli se termine et les adversaires du meneur ramassent les cartes et les conservent face en bas.
 
-After each trick players draw cards from the stock in turn, one card at a time, beginning with the winner of the trick, until either everyone has four cards again or the stock runs out. Then the winner of the trick leads any card to a new trick. 
+Après chaque pli, les joueurs tirent des cartes de la pioche à tour de rôle, une carte à la fois, en commençant par le gagnant du pli, jusqu'à ce que tout le monde ait quatre cartes à nouveau ou que la pioche soit épuisée. Ensuite, le gagnant du pli entame n'importe quelle carte pour un nouveau pli.
 
-In the four-player partnership game, when the stock has run out players are allowed to know their partner's cards. Immediately after the last stock card is drawn, each player passes their hand across the table to their partner. After looking at these cards, the partner returns them to their original owner. At this point, players with particularly good memories will also be able to work out what cards the opponents hold (though not which of them has which card).
+Dans le jeu à quatre joueurs en partenariat, lorsque la pioche est épuisée, les joueurs sont autorisés à connaître les cartes de leur partenaire. Immédiatement après que la dernière carte de la pioche a été tirée, chaque joueur passe sa main à travers la table à son partenaire. Après avoir regardé ces cartes, le partenaire les renvoie à leur propriétaire original. À ce moment, les joueurs avec une mémoire particulièrement bonne pourront aussi déterminer quelles cartes les adversaires détiennent (mais pas lequel les détient).
 
-After the stock runs out play continues as before, without drawing, until all the cards have been played.
+Après que la pioche est épuisée, le jeu continue comme avant, sans tirer, jusqu'à ce que toutes les cartes aient été jouées.
 
-**Examples of tricks** with four players North (leader), East, South and West.
+**Exemples de plis** avec quatre joueurs Nord (meneur), Est, Sud et Ouest.
 
-- N:8, E:Q, S:9, W:9. North wins the trick because no one else played an 8 or a 7. The trick cannot be continued because North is winning.
+- N:8, E:D, S:9, O:9. Nord gagne le pli car personne d'autre n'a joué un 8 ou un 7. Le pli ne peut pas être continué car Nord est en train de gagner.
 
-- N:A, E:J, S:8, W:A - West is winning so far, so N decides to continue - N:A, E:Q, S:K, W:7 - West is still winning so - N:7, E:10, S:9, W:K. North wins and collects the 12 cards.
+- N:A, E:V, S:8, O:A — Ouest gagne pour l'instant, donc N décide de continuer — N:A, E:D, S:R, O:7 — Ouest gagne encore — N:7, E:10, S:9, O:R. Nord gagne et ramasse les 12 cartes.
 
-- N:10, E:7, S:K, W:J; N:7, E:10, S:J, W:A. East is winning but North has no Ten or Seven so cannot continue the trick. East collects the 8 cards.
+- N:10, E:7, S:R, O:V ; N:7, E:10, S:V, O:A. Est gagne mais Nord n'a pas de Dix ni de Sept et ne peut pas continuer le pli. Est ramasse les 8 cartes.
 
-In the four player game, players may suggest to their partners what they should play to a trick. Common expressions with their meanings are as follows.
+Dans le jeu à quatre joueurs, les joueurs peuvent suggérer à leurs partenaires ce qu'ils devraient jouer à un pli. Les expressions courantes avec leurs significations sont les suivantes.
 
-- *Ubij* (kill) - take the trick.
+- *Ubij* (tue) — prends le pli.
 
-- *Pusti* (let it go) - let the opponents take the trick.
+- *Pusti* (laisse aller) — laisse les adversaires prendre le pli.
 
-- *Napuni* (stuff it or fill it) or *natovari* (load it up) or *podmazi* (grease it up) - play a point card because I will win the trick.
+- *Napuni* (bourre-le) ou *natovari* (charge-le) ou *podmazi* (graisse-le) — joue une carte à points car je vais gagner le pli.
 
-## Scoring
+## Comptage des points
 
-Each player or team counts the value of the cards they have won - 10 for each ace or ten - and the winner of the last trick adds a further 10. Each side adds these points to their cumulative score. 
+Chaque joueur ou équipe compte la valeur des cartes qu'il a gagnées — 10 pour chaque as ou dix — et le gagnant du dernier pli ajoute 10 points supplémentaires. Chaque camp ajoute ces points à son score cumulé.
 
-The game ends when either side has a cumulative score of 120 or more points. The side with more points then wins. This will take two or three deals.
+Le jeu se termine lorsqu'un camp a un score cumulé de 120 points ou plus. Le camp avec le plus de points gagne alors. Cela prendra deux ou trois donnes.
 
-## Variations
+## Variantes
 
-Some Serbian players count just 1 point for each ace or ten and 1 point for the last trick, so that 9 points are available in total. This makes no real difference if the game is played to 12 points. A higher target score for winning the game, for example 30, may be agreed.
+Certains joueurs serbes comptent seulement 1 point pour chaque as ou dix et 1 point pour le dernier pli, soit un total de 9 points disponibles. Cela ne fait pas de différence réelle si le jeu se joue jusqu'à 12 points. Un score cible plus élevé pour gagner la partie, par exemple 30, peut être convenu.
 
-In Croatia, no points are counted for the last trick, so there are only 80 points in all, but in case of a 40-40 tie the winners of the last trick win the deal. Instead of adding the card points to a running score, the winning team in each hand scores 1 game point for a normal win, 2 game points if they take all 80 card points (but lose some worthless cards), or 3 game points if they win every trick. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Sedma Group > Sedmice
+En Croatie, aucun point n'est compté pour le dernier pli, soit seulement 80 points au total, mais en cas d'égalité 40-40, les gagnants du dernier pli gagnent la donne. Au lieu d'additionner les points de cartes à un score cumulé, l'équipe gagnante de chaque main marque 1 point de partie pour une victoire normale, 2 points de partie si elle prend les 80 points de cartes (mais perd quelques cartes sans valeur), ou 3 points de partie si elle gagne tous les plis.

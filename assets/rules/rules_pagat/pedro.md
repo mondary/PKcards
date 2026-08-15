@@ -3,237 +3,235 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** All Fours, Plis
-**But :** Also known as Cinch or High Five and its many variants, including versions from Canada, Nicaragua and Finland.
-**Autres noms :** Cinch or High Five and its many
+**But :** Aussi connu sous le nom de Cinch ou High Five et ses nombreuses variantes, y compris des versions du Canada, du Nicaragua et de Finlande.
+**Autres noms :** Cinch, High Five
 
 ---
 
-*This page is partly based on postings to rec.games.playing-cards by Richard Irving, Lindsey Smith and Roberto Montesi, and information from Jeannine Webb, Jacques Berry, Mark Given, Linda Moran, David Wuori and Olga Prebushewski.*
+*Cette page est partiellement basée sur des publications sur rec.games.playing-cards par Richard Irving, Lindsey Smith et Roberto Montesi, et sur des informations de Jeannine Webb, Jacques Berry, Mark Given, Linda Moran, David Wuori et Olga Prebushewski.*
 
 ## Introduction
 
-**Pedro** (pronounced "peedro") was developed in the United States in the nineteenth century as a variation of Pitch. The Pedro is the trump 5, which is worth five points. In the first game described on this page, which is strictly known as **Double Pedro**, **Cinch** or **High Five**, the other 5 of the same colour as trumps is also a trump worth 5. 
+**Pedro** (prononcé «peedro») a été développé aux États-Unis au XIXe siècle comme une variante du Pitch. Le Pedro est le 5 d'atout, qui vaut cinq points. Dans le premier jeu décrit sur cette page, strictement appelé **Double Pedro**, **Cinch** ou **High Five**, l'autre 5 de la même couleur que l'atout est aussi un atout valant 5.
 
-Pedro was extremely widely played in the US at the end of the nineteenth century, but during the twentieth century it gradually declined in popularity. Nevertheless it is still extensively played in the southern USA and on the West Coast. Jacques Berry of Thibodaux, Louisiana reports that Pedro is extremely popular in Lafourche and Terrebonne parishes in southern Louisiana, almost to the exclusion of other card games. Roberto Montesi reports that Pedro is also very well known on the Atlantic Coast of Nicaragua. Surprisingly, a very similar game is played under the name **Pidro** in Österbotten, which is a Swedish speaking region in the west of Finland. Pedro or Pidro is also played in parts of Italy and in the Azores. It seems likely that the game originated in America and travelled from there to parts of Europe rather than vice versa.
+Pedro était extrêmement largement joué aux États-Unis à la fin du XIXe siècle, mais pendant le XXe siècle, il a progressivement décliné en popularité. Il reste néanmoins très joué dans le sud des États-Unis et sur la côte Ouest. Jacques Berry de Thibodaux, Louisiane, rapporte que Pedro est extrêmement populaire dans les paroisses de Lafourche et Terrebonne dans le sud de la Louisiane, presque à l'exclusion des autres jeux de cartes. Roberto Montesi rapporte que Pedro est aussi très connu sur la côte atlantique du Nicaragua. Étonnamment, un jeu très similaire est joué sous le nom de **Pidro** en Österbotten, qui est une région suédophone de l'ouest de la Finlande. Pedro ou Pidro est aussi joué dans certaines régions d'Italie et aux Açores. Il semble probable que le jeu soit originaire d'Amérique et ait voyagé de là vers certaines régions d'Europe plutôt que l'inverse.
 
-The US version of Pedro will be described first, then the Nicaraguan and Finnish versions, and then some other games based on Pedro in which further scoring cards are added: Pedro Sancho, Dom Pedro and Snoozer (which are probably no longer much played), and King Pedro, 63 and 83, which seem to be mostly played in the north-east USA and Canada.
+La version américaine de Pedro sera décrite en premier, puis les versions nicaraguayenne et finlandaise, puis d'autres jeux basés sur Pedro dans lesquels des cartes à points supplémentaires sont ajoutées : Pedro Sancho, Dom Pedro et Snoozer (qui ne sont probablement plus beaucoup joués), et King Pedro, 63 et 83, qui semblent être surtout joués dans le nord-est des États-Unis et au Canada.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships, partners sitting opposite. A standard 52 card pack is used. In each hand one suit will be chosen by the high bidder as trumps. The five of the other suit of the same colour also becomes a trump, known as the low pedro, or left pedro. The rank of the cards in the trump suit from high to low is: 
+Il y a quatre joueurs en partenariats fixes, les partenaires étant assis en face. On utilise un jeu standard de 52 cartes. À chaque main, une couleur est choisie par le plus fort enchérisseur comme atout. Le cinq de l'autre couleur de la même couleur que l'atout devient aussi un atout, connu sous le nom de *low pedro* ou *left pedro*. Le classement des cartes de la couleur d'atout, de haut en bas, est :
 
-**A, K, Q, J, 10, 9, 8, 7, 6, 5 (pedro), the other 5 (low pedro), 4, 3, 2.**
+**A, R, D, V, 10, 9, 8, 7, 6, 5 (pedro), l'autre 5 (low pedro), 4, 3, 2.**
 
-In the other suits the ranking is:
+Dans les autres couleurs, le classement est :
 
-**A, K, Q, J, 10, 9, 8, 7, 6, (5 if not the same colour as trump), 4, 3, 2.**
+**A, R, D, V, 10, 9, 8, 7, 6, (5 si ce n'est pas de la même couleur que l'atout), 4, 3, 2.**
 
-Some of the trumps have a value as follows:
+Certains des atouts ont une valeur comme suit :
 
-| trump ace ("high") | ... | 1 point |
-| trump jack | ... | 1 point |
-| trump ten (sometimes called "game") | ... | 1 point |
-| trump five ("pedro") | ... | 5 points |
-| other five of same colour ("low pedro") | ... | 5 points |
-| trump two ("low") | ... | 1 point |
+| as d'atout (« high ») | ... | 1 point |
+| valet d'atout | ... | 1 point |
+| dix d'atout (parfois appelé « game ») | ... | 1 point |
+| cinq d'atout (« pedro ») | ... | 5 points |
+| autre cinq de même couleur (« low pedro ») | ... | 5 points |
+| deux d'atout (« low ») | ... | 1 point |
 
-There are 14 points in the pack altogether. The points for the trump ace, jack, ten and pedros are won by the team that wins them in their tricks, but the point for the trump two is won by the team of the player who was dealt this card. 
+Il y a 14 points au total dans le jeu. Les points pour l'as d'atout, le valet, le dix et les pedros sont gagnés par l'équipe qui les remporte dans ses levées, mais le point pour le deux d'atout est gagné par l'équipe du joueur à qui cette carte a été distribuée.
 
-## Deal and Bidding
+## Donne et enchères
 
-Deal and play are clockwise. The dealer deals the cards out 3 at a time until each player has 9 cards. The turn to deal passes to the left after each hand.
+La donne et le jeu se font dans le sens des aiguilles d'une montre. Le donneur distribue les cartes trois par trois jusqu'à ce que chaque joueur ait 9 cartes. Le tour de donne passe à gauche après chaque main.
 
-Starting with the player to dealer's left, each player has just one chance to bid or pass. A bid is a number, claiming that the if the bidder is allowed to choose trumps, the bidder's team will win at least that number of points on a hand. The minimum allowed bid is 7 and the maximum is 14. Each player in turn must bid higher than the previous bid if any or pass. If the first three players pass the dealer is forced to bid 7.
+En commençant par le joueur à la gauche du donneur, chaque joueur n'a qu'une seule chance d'enchérir ou de passer. Une enchère est un nombre, affirmant que si l'enchérisseur est autorisé à choisir l'atout, son équipe gagnera au moins ce nombre de points lors de la main. L'enchère minimum autorisée est de 7 et le maximum est de 14. Chaque joueur à tour de rôle doit enchérir plus haut que l'enchère précédente, le cas échéant, ou passer. Si les trois premiers joueurs passent, le donneur est obligé d'enchérir 7.
 
-The highest bidder announces what suit will be trumps. Then everyone discards face down all their non-trump cards. The dealer deals sufficient cards to the other three players to bring fill their hands out to 6 cards (unless they already have 6 or more cards, which must all be trumps). The dealer then looks through the remaining undealt cards and picks out all the trumps plus sufficient other cards to make the dealer's hand up to six cards. The dealer must take all the trumps from the remaining deck, and in this case may have more than six cards in hand.
+Le plus fort enchérisseur annonce quelle couleur sera l'atout. Ensuite, tout le monde écarte face cachée toutes ses cartes non-atout. Le donneur distribue suffisamment de cartes aux trois autres joueurs pour remplir leurs mains à 6 cartes (sauf s'ils ont déjà 6 cartes ou plus, qui doivent toutes être des atouts). Le donneur parcourt ensuite les cartes non distribuées restantes et sélectionne tous les atouts plus suffisamment d'autres cartes pour compléter sa main à six cartes. Le donneur doit prendre tous les atouts du jeu restant et peut dans ce cas avoir plus de six cartes en main.
 
-## Play
+## Le jeu
 
-The object of the play is for your team to win tricks containing the valuable trumps.
+Le but du jeu est pour votre équipe de gagner des levées contenant les atouts de valeur.
 
-The high bidder leads to the first trick. Any card may be led - it does not have to be a trump. If a trump is led, everyone must play a trump if they can - otherwise they may discard anything. If a card which is not a trump is led, players who have cards of this suit must either follow suit or trump. Players who have no cards of the led suit may play anything. The trick is won by the highest trump in it. If no trumps are played to a trick it is won by the highest card of the suit that was led. The winner of a trick leads to the next.
+Le plus fort enchérisseur mène la première levée. N'importe quelle carte peut être menée — ce n'est pas obligatoirement un atout. Si un atout est mené, tout le monde doit jouer un atout s'il le peut — sinon il peut défausser n'importe quoi. Si une carte qui n'est pas un atout est menée, les joueurs qui ont des cartes de cette couleur doivent soit suivre la couleur, soit jouer un atout. Les joueurs qui n'ont pas de carte de la couleur menée peuvent jouer n'importe quoi. La levée est gagnée par le plus haut atout. Si aucun atout n'est joué à une levée, elle est gagnée par la plus haute carte de la couleur menée. Le gagnant d'une levée mène la suivante.
 
-Note that the low pedro - the 5 of the same colour as trumps - counts for all purposes as a card of the trump suit ranking between the four and the five.
+Notez que le *low pedro* — le 5 de la même couleur que l'atout — compte dans tous les cas comme une carte de la couleur d'atout, classée entre le quatre et le cinq.
 
-A player who starts the play with more than six cards (which must all be trumps) has to play more than one card to the first trick, so that after the first trick everyone has 5 cards left in their hands. When playing two or more cards together, they are played in a face-up stack. The card on top counts as the card played to the trick, and the others are "buried". It is illegal to bury any of the scoring trumps.
+Un joueur qui commence le jeu avec plus de six cartes (qui doivent toutes être des atouts) doit jouer plus d'une carte à la première levée, de sorte qu'après la première levée chacun ait 5 cartes restantes en main. En jouant deux cartes ou plus ensemble, elles sont jouées en une pile face visible. La carte sur le dessus compte comme la carte jouée à la levée, et les autres sont « enterrées ». Il est interdit d'enterrer des atouts à points.
 
-## Scoring
+## Comptage des points
 
-Each team keeps a cumulative score. The opponents of the bidder always add the points that they win to their total. The bidder's team do the same if they score at least as many points as they bid. If the bidders win fewer points than they bid, they subtract the amount that they bid from their cumulative score. 
+Chaque équipe conserve un score cumulé. Les adversaires de l'enchérisseur ajoutent toujours les points qu'ils gagnent à leur total. L'équipe de l'enchérisseur fait de même si elle marque au moins autant de points qu'elle a enchéri. Si les enchérisseurs gagnent moins de points qu'ils ont enchéri, ils soustraient le montant de leur enchère de leur score cumulé.
 
-The winners are the first team to reach 62 or more points. 
+Les gagnants sont la première équipe à atteindre 62 points ou plus.
 
-If both teams have 55 points or more (i.e. both are within 7 points of winning), the situation is called **"bidder goes out"**. On the next hand the bidding side wins if they make their bid. If the bidding team does not make its bid, the hand is scored normally (which will quite often result in their opponents winning the game).
+Si les deux équipes ont 55 points ou plus (c'est-à-dire que les deux sont à 7 points de la victoire), la situation est appelée **« bidder goes out »**. À la main suivante, l'équipe qui a enchéri gagne si elle réalise son contrat. Si l'équipe qui a enchéri ne réalise pas son contrat, la main est comptée normalement (ce qui entraîne souvent la victoire de ses adversaires).
 
-If both teams reach 62 or more points when the situation at the start of the hand was not "bidder goes out", a further "bidder goes out" hand is played to determine the winner. 
+Si les deux équipes atteignent 62 points ou plus alors que la situation en début de main n'était pas « bidder goes out », une main supplémentaire « bidder goes out » est jouée pour déterminer le gagnant.
 
-## Variations
+## Variantes
 
-Some play that the minimum bid is 6, and that the dealer must bid 6 if the first three player's pass. Some play with a minimum bid of 6, but if the first three players pass the dealer is forced to bid 7. 
+Certains jouent que l'enchère minimum est de 6, et que le donneur doit enchérir 6 si les trois premiers joueurs passent. Certains jouent avec une enchère minimum de 6, mais si les trois premiers joueurs passent, le donneur est obligé d'enchérir 7.
 
-Some play that a bid of 14 (called a **slam** or **shooting the moon**) scores 28 points if successful, but loses only 14 if it fails. 
+Certains jouent qu'une enchère de 14 (appelée **chelem** ou **shooting the moon**) rapporte 28 points si elle réussit, mais ne perd que 14 si elle échoue.
 
-Some also play with a "28-56" bid. This can only be bid by the dealer, and is only allowed if the dealer holds the ace, king and deuce of trumps. If the dealer's team take all the points they score 56; if they are set they lose only 28.
+Certains jouent aussi avec une enchère « 28-56 ». Elle ne peut être faite que par le donneur, et n'est autorisée que si le donneur détient l'as, le roi et le deux d'atout. Si l'équipe du donneur prend tous les points, elle marque 56 ; si elle échoue, elle ne perd que 28.
 
-There are several slightly different ways of organising the discarding and replenishing of hands. Some allow players to keep non-trumps (there is no practical way to stop people doing this, anyway). Some play that if you have more than 6 trumps you must still reduce your hand to six cards, which will involve discarding trumps. It is normally illegal to discard scoring trumps in this situation. Some play that if you do discard any scoring trumps, they count for the other team.
+Il existe plusieurs façons légèrement différentes d'organiser l'écart et le renouvellement des mains. Certains autorisent les joueurs à garder des non-atouts (il n'y a de toute façon pas de moyen pratique d'empêcher les gens de le faire). Certains jouent que si vous avez plus de 6 atouts, vous devez quand même réduire votre main à six cartes, ce qui implique d'écarter des atouts. Il est normalement interdit d'écarter des atouts à points dans cette situation. Certains jouent que si vous écartez des atouts à points, ils comptent pour l'autre équipe.
 
-Some play that the dealer may go through not only the undealt cards but also the other players' discards looking for trumps. However, this gives rise to the possibility that dealer's partner, holding ace-king-pedro-pedro might cheat by throwing both pedros for dealer to pick up and then leading the ace-king for a quick 11 points. To avoid this abuse, some play that discards are made face up. If anyone accidentally (or purposely) discards a trump, an opponent can add it to their hand, discarding a non-trump in exchange.
+Certains jouent que le donneur peut parcourir non seulement les cartes non distribuées mais aussi les écartes des autres joueurs à la recherche d'atouts. Cependant, cela donne lieu à la possibilité que le partenaire du donneur, détenant as-roi-pedro-pedro, puisse tricher en jetant les deux pedros pour que le donneur les ramasse puis mener l'as-roi pour un gain rapide de 11 points. Pour éviter cet abus, certains jouent que les écartes sont faites face visible. Si quelqu'un écarte accidentellement (ou intentionnellement) un atout, un adversaire peut l'ajouter à sa main en échangeant une non-atout.
 
-Some play that the bidder must begin by leading a trump, as in Pitch.
+Certains jouent que l'enchérisseur doit commencer par mener un atout, comme au Pitch.
 
-Some play that suit must always be followed, even if a non-trump is led. This makes a considerable difference to the play. For example in the standard game, when a plain suit is led, it is usual for the third player to trump with a trump higher than the five to stop the fourth player getting home a pedro. This technique is known as **cinching**. If you play the rule that suit must be followed, the outcome of the trick is more a matter of chance. The third player may have the led suit and not be allowed to trump, and if the third player follows suit the fourth player may also have to follow and thus be unable to save a pedro.
+Certains jouent qu'il faut toujours suivre la couleur, même si un non-atout est mené. Cela fait une différence considérable au jeu. Par exemple, dans le jeu standard, quand une couleur ordinaire est menée, il est habituel pour le troisième joueur de contrer avec un atout plus haut que le cinq pour empêcher le quatrième joueur de rentrer un pedro. Cette technique est appelée **cinching**. Si vous appliquez la règle de suivre la couleur, le résultat de la levée est davantage une question de chance. Le troisième joueur peut avoir la couleur menée et ne pas être autorisé à contrer, et si le troisième joueur suit la couleur, le quatrième joueur peut aussi devoir suivre et être incapable de sauver un pedro.
 
-Others have gone in the opposite direction and relaxed the rules so that when a non-trump is led, any card may be played. This change makes less practical difference: 14 of the 24 cards in play are trumps, so most tricks will be won by a trump; in any case, tricks which contain no trumps have no value, since all the scoring cards are trumps.
+D'autres sont allés dans la direction inverse et ont assoupli les règles pour que lorsqu'un non-atout est mené, n'importe quelle carte puisse être jouée. Ce changement fait moins de différence pratique : 14 des 24 cartes en jeu sont des atouts, donc la plupart des levées seront gagnées par un atout ; de toute façon, les levées sans atout n'ont aucune valeur, puisque toutes les cartes à points sont des atouts.
 
-Most of the books describe an alternative method of scoring, with no negative scores:
+La plupart des livres décrivent une méthode alternative de comptage, sans scores négatifs :
 
-- if the bid is made, the team which won more points scores the difference between the numbers of point won by the two teams (so if a team bids 7 and wins 9, the other team winning 5 points, the bidding team scores 4 (that is 9 - 5));
+- si le contrat est réalisé, l'équipe qui a gagné le plus de points marque la différence entre le nombre de points gagnés par les deux équipes (donc si une équipe enchérit 7 et gagne 9, l'autre équipe gagnant 5 points, l'équipe qui a enchéri marque 4, soit 9 - 5) ;
 
-- if the bid fails, the opposing team scores the bid plus the number of points they take (so if a team bids 7 and wins 6, the other team winning 8, the non-bidders score 15 (that is 7 + 8)).
+- si le contrat échoue, l'équipe adverse marque l'enchère plus le nombre de points qu'elle prend (donc si une équipe enchérit 7 et gagne 6, l'autre équipe gagnant 8, les non-enchérisseurs marquent 15, soit 7 + 8).
 
-The target score varies. Some play that the first team to 51 or more points wins. Some play with a different target score, for example 52, 56 or 61. If both teams reach or pass the target score on the same hand, the bidding team wins. It is possible for the non-bidding team to win the game if they reach the target whereas the bidders are still below it.
+Le score cible varie. Certains jouent que la première équipe à 51 points ou plus gagne. Certains jouent avec un score cible différent, par exemple 52, 56 ou 61. Si les deux équipes atteignent ou dépassent le score cible lors de la même main, l'équipe qui a enchéri gagne. Il est possible que l'équipe qui n'a pas enchéri gagne la partie si elle atteint le score cible alors que les enchérisseurs sont encore en dessous.
 
-## Pedro in Nicaragua
+## Pedro au Nicaragua
 
-The ranking and values of the cards is as described above. The dealer deals seven cards per player. Each player has one chance to bid. The minimum bid is seven; if the first three players pass the dealer must automatically bid six. 
+Le classement et la valeur des cartes sont comme décrits ci-dessus. Le donneur distribue sept cartes par joueur. Chaque joueur a une chance d'enchérir. L'enchère minimum est de sept ; si les trois premiers joueurs passent, le donneur doit automatiquement enchérir six.
 
-The highest bidder declares the trump suit. The players then discard face-down any cards they do not want, and the dealer replenishes the hands of the other three players from the undealt cards still in the deck. To replenish his own hand, the dealer can pick any cards from the remaining in the undealt deck and may also look at and take cards from the other players' discards.
+Le plus fort enchérisseur déclare la couleur d'atout. Les joueurs écartent ensuite face cachée les cartes qu'ils ne veulent pas, et le donneur renouvelle les mains des trois autres joueurs à partir des cartes non distribuées restantes. Pour renouveler sa propre main, le donneur peut choisir n'importe quelles cartes parmi les non distribuées restantes et peut aussi regarder et prendre des cartes dans les écartes des autres joueurs.
 
-The highest bidder leads any card to the first trick (not necessarily a trump) and the other players must follow suit if they can; otherwise they may play any card. Each trick is won by the highest trump in it or, if no trumps were played, by the highest card of the suit led. The winner of each trick leads to the next trick. 
+Le plus fort enchérisseur mène n'importe quelle carte à la première levée (pas nécessairement un atout) et les autres joueurs doivent suivre la couleur s'ils le peuvent ; sinon ils peuvent jouer n'importe quelle carte. Chaque levée est gagnée par le plus haut atout ou, si aucun atout n'a été joué, par la plus haute carte de la couleur menée. Le gagnant de chaque levée mène la suivante.
 
-The game is won by the first team to reach 52 or more points.
+La partie est gagnée par la première équipe à atteindre 52 points ou plus.
 
-## Pidro in Österbotten, Finland
+## Pidro en Österbotten, Finlande
 
-Pidro is reportedly played in every village of this region, and tournaments and an annual championship are also held. As in the US form, 9 cards each are dealt, in packets of 3. There is just a single round of bidding, beginning to dealer's left and ending with the dealer. The minimum bid is 6 and the maximum is 14. After the bidding, the high bidder names the trump suit; players discard all non-trump cards and are dealt replacements from the deck, to bring their hands up to 6 cards. The dealer takes any remaining undealt cards and discards down to 6 cards. A player who has more than 6 trumps must discard trumps, but is not allowed to discard scoring trumps.
+Pidro est apparemment joué dans chaque village de cette région, et des tournois et un championnat annuel sont aussi organisés. Comme dans la forme américaine, 9 cartes sont distribuées à chacun, par paquets de 3. Il n'y a qu'un seul tour d'enchères, commençant à la gauche du donneur et finissant avec le donneur. L'enchère minimum est de 6 et le maximum est de 14. Après les enchères, le plus fort enchérisseur nomme la couleur d'atout ; les joueurs écartent toutes leurs non-atouts et se voient distribuer des cartes de remplacement pour ramener leurs mains à 6 cartes. Le donneur prend toutes les cartes non distribuées restantes et écarte jusqu'à 6 cartes. Un joueur qui a plus de 6 atouts doit écarter des atouts, mais n'est pas autorisé à écarter des atouts à points.
 
->As usual the bidder leads, but the game differs from the US form of Pedro in that only trumps are played. When you run out of trumps, you lay your cards face down and take no further part in the play of that hand. If you win a trick with your last trump, the lead passes to the next player in clockwise rotation who still has trumps. When only one player has trumps left, that player wins all the remaining tricks.
+>Comme d'habitude, l'enchérisseur mène, mais le jeu diffère de la forme américaine de Pedro en ce que seuls des atouts sont joués. Quand vous n'avez plus d'atouts, vous posez vos cartes face cachée et ne participez plus au jeu de cette main. Si vous gagnez une levée avec votre dernier atout, la main passe au joueur suivant dans le sens horaire qui a encore des atouts. Quand il ne reste qu'un joueur avec des atouts, ce joueur gagne toutes les levées restantes.
 
-As usual, the bidding team score the points they take unless this is less than their bid, in which case they lose what they bid. The bidders' opponents always score the points they take. The first team to score 62 or more points wins. If both teams reach 62 or more in the same deal the bidding team wins.
+Comme d'habitude, l'équipe qui a enchéri marque les points qu'elle prend, sauf si c'est moins que son enchère, auquel cas elle perd ce qu'elle a enchéri. Les adversaires de l'enchérisseur marquent toujours les points qu'ils prennent. La première équipe à marquer 62 points ou plus gagne. Si les deux équipes atteignent 62 ou plus lors de la même donne, l'équipe qui a enchéri gagne.
 
-The [Pidro Online](https://www.pidro.online) site provides a server through which you can play Pidro online against live opponents.
+Le site [Pidro Online](https://www.pidro.online) fournit un serveur grâce auquel vous pouvez jouer au Pidro en ligne contre des adversaires en direct.
 
-Patrik and Niklas Indola have created [Pidro Challenge Online](https://greentable.fi/pidrochallenge) where you can play Pidro free with an AI partner against various AI opponents. The older stand alone version of the Pidro Challenge program by the same authors is stll available from [www.pidrochallenge.com](https://www.pidrochallenge.com). 
+Patrik et Niklas Indola ont créé [Pidro Challenge Online](https://greentable.fi/pidrochallenge) où vous pouvez jouer au Pidro gratuitement avec un partenaire IA contre divers adversaires IA. L'ancienne version autonome du programme Pidro Challenge par les mêmes auteurs est toujours disponible sur [www.pidrochallenge.com](https://www.pidrochallenge.com).
 
-## Pitch with Fives
+## Pitch avec Fives
 
-Pedro originally was played with only one scoring five of trumps, so that there were only 9 points in the game. The other five of the same colour is not a trump - it belongs to its own suit. This game still exists. Here is a description of it contributed by Judd A. Schorr under the name **Pitch with Fives**; I am told it is also called Catch Five in some places.
+Pedro était originellement joué avec un seul cinq d'atout à points, de sorte qu'il n'y avait que 9 points dans le jeu. L'autre cinq de la même couleur n'est pas un atout — il appartient à sa propre couleur. Ce jeu existe toujours. Voici une description de celui-ci, contribuée par Judd A. Schorr, sous le nom de **Pitch with Fives** ; on me dit qu'il est aussi appelé Catch Five à certains endroits.
 
-Each of the four players is dealt 6 cards from a 52 card deck, and each has one opportunity to bid. The minimum bid is two, and dealer is forced to bid the minimum if everyone else passes. Dealer can always steal the bid by bidding equal to the highest other bid. Whomever wins the bid calls trump, and all players throw out their non-trump. The hand full of aces that you thought you could screw people with is suddenly gone. This purging process lets the bidder know how many trump each player has as a minimum number. The dealer fills everyone's hand back to 6, and play resumes as normal. 
+Chacun des quatre joueurs reçoit 6 cartes d'un jeu de 52 cartes, et chacun a une opportunité d'enchérir. L'enchère minimum est de deux, et le donneur est obligé d'enchérir le minimum si tout le monde passe. Le donneur peut toujours voler l'enchère en enchérissant le même montant que l'enchère la plus haute. Celui qui gagne l'enchère nomme l'atout, et tous les joueurs jettent leurs non-atouts. La main pleine d'as dont vous pensiez pouvoir abuser les gens disparaît soudainement. Ce processus de purge permet à l'enchérisseur de savoir combien d'atouts chaque joueur a au minimum. Le donneur renouvelle la main de chacun à 6 cartes, et le jeu reprend normalement.
 
-There are **nine** points to be had (potentially) per hand: high, low, jack, game, and five. The "five" point is the five of trumps, which is worth 5 points on the score sheet to the side that takes it in a trick. A game is 31 points. 
+Il y a **neuf** points possibles par main : high, low, jack, game, et five. Le point « five » est le cinq d'atout, qui vaut 5 points sur la feuille de score pour l'équipe qui le prend dans une levée. La partie se joue en 31 points.
 
-In this variant, you must follow suit if possible - you cannot trump in any time you want to. For example, if spades are trump and diamonds led, you can save your 5 of spades only if you have no diamonds - if you have diamonds, you have to follow suit.
+Dans cette variante, vous devez suivre la couleur si possible — vous ne pouvez pas contrer quand vous le voulez. Par exemple, si les piques sont l'atout et que les carreaux sont menés, vous ne pouvez sauver votre 5 de pique que si vous n'avez pas de carreaux — si vous avez des carreaux, vous devez suivre.
 
-This variant is fun, because you can have no trump to start with, and then pick up 3 or 4 or 5 trump in the replenish (the odds are low for 5, but it does happen!). And, of course, people tend to save trump towards the end, to try to capture the 5 that they think their opponents couldn't save. 
+Cette variante est amusante car vous pouvez ne pas avoir d'atout au départ, puis ramasser 3, 4 ou 5 atouts lors du renouvellement (les probabilités sont faibles pour 5, mais ça arrive !). Et bien sûr, les joueurs ont tendance à garder des atouts vers la fin, pour essayer de capturer le 5 qu'ils pensent que leurs adversaires n'ont pas pu garder.
 
-## Pedro Sancho; Dom Pedro; Snoozer
+## Pedro Sancho ; Dom Pedro ; Snoozer
 
 **Pedro Sancho**
-This game, also known as Nine-Five can be played by from 4 to 7 players. Four could play individually or as partners. The sancho is the nine of trumps, an extra scoring card worth 9 points. There is only one pedro, the five of trumps - the other five of the same colour is not a trump. So there is one point each for high (trump ace), low (trump two), jack (trump jack), game (trump ten), 5 points for pedro (trump five) and 9 points for sancho (trump nine), making a maximum of 18 points. All these (including low) count for the player that wins the card in a trick.
-Most sources say that six cards are dealt to each player. Some say that the cards are dealt as far as they will go around evenly. There is a single round of bidding: apparently there is no minimum bid; the maximum bid is obviously 18. The dealer can take the bid by equalling the highest number bid by the other players. There is no mention of discarding unwanted cards and replenishing the hands, though this could clearly be incorporated.
-It seems that the bidders first lead must be a trump. Players must follow suit if a trump is led; if a non-trump is led they can follow suit or trump. If the bid is made, everyone scores the points they made. If the bid fails, the bidder loses the number of points bid. The first player or team to 100 points wins. To decide who is first, the points are counted in the order: high, low, jack, game, pedro, sancho.
-**Dom Pedro; Snoozer**
-This game appears sometimes in American card game books, but I have not yet come across any players. The joker (called **snoozer** or **dom**) is added to the pack, and is always the lowest card of the trump suit. The game is similar to Pedro Sancho, except that the trump three counts 3 points and the joker counts 15, making a total of 36 points available. The winner is the first to reach 100 points. To decide who is first the cards are counted in the order: high, low, jack, game, three, pedro, sancho, snoozer.
+Ce jeu, aussi connu sous le nom de Nine-Five, peut être joué de 4 à 7 joueurs. Quatre peuvent jouer individuellement ou en partenariats. Le *sancho* est le neuf d'atout, une carte à points supplémentaire valant 9 points. Il n'y a qu'un seul pedro, le cinq d'atout — l'autre cinq de la même couleur n'est pas un atout. Il y a donc un point chacun pour high (as d'atout), low (deux d'atout), jack (valet d'atout), game (dix d'atout), 5 points pour le pedro (cinq d'atout) et 9 points pour le sancho (neuf d'atout), soit un maximum de 18 points. Tous ceux-ci (y compris low) comptent pour le joueur qui gagne la carte dans une levée.
+La plupart des sources disent que six cartes sont distribuées à chaque joueur. Certains disent que les cartes sont distribuées aussi loin qu'elles vont de manière égale. Il y a un seul tour d'enchères : apparemment, il n'y a pas d'enchère minimum ; l'enchère maximum est évidemment 18. Le donneur peut prendre l'enchère en égalant le nombre le plus élevé enchéri par les autres joueurs. Il n'est pas fait mention d'écarter les cartes non désirées et de renouveler les mains, bien que cela puisse clairement être intégré.
+Il semble que le premier jeu de l'enchérisseur doive être un atout. Les joueurs doivent suivre la couleur si un atout est mené ; si un non-atout est mené, ils peuvent suivre ou contrer. Si le contrat est réalisé, chacun marque les points qu'il a faits. Si le contrat échoue, l'enchérisseur perd le nombre de points enchéris. Le premier joueur ou équipe à 100 points gagne. Pour déterminer qui est premier, les points sont comptés dans l'ordre : high, low, jack, game, pedro, sancho.
+**Dom Pedro ; Snoozer**
+Ce jeu apparaît parfois dans les livres de jeux de cartes américains, mais je n'ai encore rencontré aucun joueur. Le joker (appelé **snoozer** ou **dom**) est ajouté au jeu et est toujours la carte la plus basse de la couleur d'atout. Le jeu est similaire à Pedro Sancho, sauf que le trois d'atout compte 3 points et le joker compte 15, pour un total de 36 points disponibles. Le gagnant est le premier à atteindre 100 points. Pour déterminer qui est premier, les cartes sont comptées dans l'ordre : high, low, jack, game, three, pedro, sancho, snoozer.
 
 ## King Pedro
 
-In this variation of Pedro, the king of trumps scores 30 points. This increases the number of points available from 14 to 44, the scoring trumps being ace (1), king (30), jack (1), ten (1), right pedro (5), left pedro (5), two (1). The right pedro is the five of the trump suit, and the left pedro is the other five of the same colour, which counts as a trump ranking immediately below the right pedro. The two of trumps scores for the player who plays it; the other trumps score for the team that wins the trick in which they are played.
+Dans cette variante de Pedro, le roi d'atout vaut 30 points. Cela augmente le nombre de points disponibles de 14 à 44, les atouts à points étant as (1), roi (30), valet (1), dix (1), right pedro (5), left pedro (5), deux (1). Le right pedro est le cinq de la couleur d'atout, et le left pedro est l'autre cinq de la même couleur, qui compte comme un atout classé juste en dessous du right pedro. Le deux d'atout marque pour le joueur qui le joue ; les autres atouts marquent pour l'équipe qui gagne la levée où ils sont joués.
 
-As usual there are four players, partners sitting opposite. From a standard 52 card deck, 12 cards are dealt to each player, and 4 cards are dealt face down to the table to form a kitty. 
+Comme d'habitude, il y a quatre joueurs, les partenaires étant assis en face. À partir d'un jeu standard de 52 cartes, 12 cartes sont distribuées à chaque joueur, et 4 cartes sont distribuées face cachée sur la table pour former un *kitty*.
 
-The player to dealer's left bids first, and the bidding goes around the table as many times as necessary. At your turn you can pass or bid a number. The minimum bid is 30, and each subsequent number bid must be higher than the previous bid. If you pass, you are out of the auction; you cannot bid in later rounds. When three players have passed, the highest bidder names the trump trump suit and takes the four kitty cards. It is very unusual for all four players to pass, but if it happens the cards are thrown in without play and the next dealer deals.
+Le joueur à la gauche du donneur enchérit en premier, et les enchères vont autour de la table autant de fois que nécessaire. À votre tour, vous pouvez passer ou enchérir un nombre. L'enchère minimum est de 30, et chaque nombre suivant doit être supérieur à l'enchère précédente. Si vous passez, vous êtes hors de la vente ; vous ne pouvez plus enchérir aux tours suivants. Quand trois joueurs ont passé, le plus fort enchérisseur nomme la couleur d'atout et prend les quatre cartes du *kitty*. Il est très inhabituel que les quatre joueurs passent, mais si cela se produit, les cartes sont jetées sans jeu et le donneur suivant distribue.
 
-All players must then reduce their hands to six cards if possible, by discarding non-trump cards. A player who has more than six trumps discards all their non-trumps and must play more than one card to the first trick, so as to have only five cards left at the start of the second trick. If you have to play more than one trump to the first trick only one of these cards can be a scoring trump. If you are lucky enough to have all seven scoring trumps you can play the two and one other scoring trump in the first trick.
+Tous les joueurs doivent alors réduire leurs mains à six cartes si possible, en écartant des non-atouts. Un joueur qui a plus de six atouts écarte toutes ses non-atouts et doit jouer plus d'une carte à la première levée, pour n'avoir que cinq cartes au début de la deuxième levée. Si vous devez jouer plus d'un atout à la première levée, un seul de ces cartes peut être un atout à points. Si vous avez la chance d'avoir les sept atouts à points, vous pouvez jouer le deux et un autre atout à points à la première levée.
 
-If a trump is led, the other players must play trumps if possible. If a non-trump is led, the other players can play any card they wish. A trick is won by the highest trump in it. If no trumps were played, the leader wins, irrespective of the rank and suit of the cards played. The winner of a trick leads to the next. A player who has no trumps left must announce "I'm up!", and throw in the rest of their cards. This player takes no further part until the next hand.
+Si un atout est mené, les autres joueurs doivent jouer des atouts s'ils le peuvent. Si un non-atout est mené, les autres joueurs peuvent jouer n'importe quelle carte. Une levée est gagnée par le plus haut atout. Si aucun atout n'a été joué, le meneur gagne, indépendamment du rang et de la couleur des cartes jouées. Le gagnant d'une levée mène la suivante. Un joueur qui n'a plus d'atouts doit annoncer « I'm up ! » et jeter le reste de ses cartes. Ce joueur ne participe plus jusqu'à la main suivante.
 
-When all six tricks have been played, the teams count the scoring cards they have taken. If the bidder's team have at least as many points as the bid, they score these points; otherwise they lose the amount of the bid. The bidder's opponents always score the points they make. To win the game you have to reach a cumulative score of 200 or more points as a result of a successful bid. If you do this you win even if the non-bidding team has more points at the time. You cannot win the game by reaching 200 or more on a hand where the other team were the bidders, nor on a hand where you are set but your score remains over 200. However, if a team reaches minus 100 points they lose the game, no matter what the other team have scored.
+Quand les six levées ont été jouées, les équipes comptent les cartes à points qu'elles ont prises. Si l'équipe de l'enchérisseur a au moins autant de points que l'enchère, elle marque ces points ; sinon elle perd le montant de l'enchère. Les adversaires de l'enchérisseur marquent toujours les points qu'ils font. Pour gagner la partie, vous devez atteindre un score cumulé de 200 points ou plus à la suite d'une enchère réussie. Si vous faites cela, vous gagnez même si l'équipe qui n'a pas enchéri a plus de points à ce moment. Vous ne pouvez pas gagner la partie en atteignant 200 ou plus lors d'une main où l'autre équipe a enchéri, ni lors d'une main où vous êtes « set » mais votre score reste au-dessus de 200. Cependant, si une équipe atteint moins 100 points, elle perd la partie, peu importe ce que l'autre équipe a marqué.
 
-## Canadian / Ukrainian King Pedro
+## King Pedro canadien / ukrainien
 
-Olga Prebushewski reports a different version of King Pedro, played by Ukrainians in Canada. In this version the points are:
+Olga Prebushewski rapporte une version différente du King Pedro, jouée par des Ukrainiens au Canada. Dans cette version, les points sont :
 
-| ace ("high") | ... | 1 point |
-| king | ... | 30 points |
-| jack | ... | 1 point |
-| ten | ... | 10 point |
-| nine | ... | 9 points |
-| five | ... | 5 points |
-| other five of same colour | ... | 5 points |
-| two ("low") | ... | 1 point |
+| as (« high ») | ... | 1 point |
+| roi | ... | 30 points |
+| valet | ... | 1 point |
+| dix | ... | 10 points |
+| neuf | ... | 9 points |
+| cinq | ... | 5 points |
+| autre cinq de même couleur | ... | 5 points |
+| deux (« low ») | ... | 1 point |
 
-The point for the two is won by the team that held the card; the other points are won by the team that won the trick containing the card. Thus there are a total of 62 points available. As usual the other five of the same colour as trumps counts as a trump ranking between the 5 and the 4. 
+Le point pour le deux est gagné par l'équipe qui détenait la carte ; les autres points sont gagnés par l'équipe qui a gagné la levée contenant la carte. Il y a donc un total de 62 points disponibles. Comme d'habitude, l'autre cinq de la même couleur que l'atout compte comme un atout classé entre le 5 et le 4.
 
-Nine cards are dealt to each player. The minimum bid is 30; the maximum 62. The bidding goes around the table as many times as necessary until one player makes a bid that the other three players pass. Then the high bidder chooses trumps, another four cards each are dealt and each player discards seven non-trump cards, keeping a hand of six. 
+Neuf cartes sont distribuées à chaque joueur. L'enchère minimum est de 30 ; le maximum est de 62. Les enchères vont autour de la table autant de fois que nécessaire jusqu'à ce qu'un joueur fasse une enchère que les trois autres passent. Ensuite, le plus fort enchérisseur choisit l'atout, quatre autres cartes sont distribuées à chacun et chaque joueur écarte sept non-atouts, gardant une main de six.
 
-If you have no trumps at all among your 13 cards you "fold your hand" - place your cards face down and take no part in the play. If you have only one trump, or two trumps one of which is the two, you may pass these to partner and then fold. If you have more than six trumps then you may discard non-scoring trumps, but they must be discarded face up, so that everyone knows what trumps are in play. If you have all seven scoring trumps you may discard the two.
+Si vous n'avez aucun atout parmi vos 13 cartes, vous « vous couchez » — vous posez vos cartes face cachée et ne participez pas au jeu. Si vous n'avez qu'un atout, ou deux atouts dont un est le deux, vous pouvez les passer à votre partenaire puis vous coucher. Si vous avez plus de six atouts, vous pouvez écarter des atouts sans valeur, mais ils doivent être écartés face visible, pour que tout le monde sache quels atouts sont en jeu. Si vous avez les sept atouts à points, vous pouvez écarter le deux.
 
-The high bidder must start by leading a trump. Thereafter the winner of a trick may lead anything to the next. If a trump is led the other players must play trumps if they can. If a non-trump is led the other players **must** play non-trumps (of any suit) if possible; only a player who has nothing but trumps can play one. A trick is won by the highest trump played to it; if no trumps are played it is won by the player who led to the trick, irrespective of the other cards played.
+Le plus fort enchérisseur doit commencer par mener un atout. Ensuite, le gagnant d'une levée peut mener n'importe quoi à la suivante. Si un atout est mené, les autres joueurs doivent jouer des atouts s'ils le peuvent. Si un non-atout est mené, les autres joueurs **doivent** jouer des non-atouts (de n'importe quelle couleur) si possible ; seul un joueur qui n'a que des atouts peut en jouer un. Une levée est gagnée par le plus haut atout joué ; si aucun atout n'est joué, elle est gagnée par le joueur qui a mené la levée, indépendamment des autres cartes jouées.
 
-If the bidders take at least as many points as they bid they win the points they made; if not they lose the amount they bid. The opposing team always score the points they make. The game is won by the first team who achieve a score of 262 points at the end of a hand on which they made a successful bid.
+Si les enchérisseurs prennent au moins autant de points qu'ils ont enchéri, ils gagnent les points qu'ils ont faits ; sinon ils perdent le montant de leur enchère. L'équipe adverse marque toujours les points qu'elle fait. La partie est gagnée par la première équipe qui atteint un score de 262 points à la fin d'une main où elle a réalisé une enchère réussie.
 
-## Sixty-Three
+## Soixante-Three
 
-The process of adding further scoring trumps to Pedro is further continued in this game. Not only the nine (as in Pedro Sancho) and the king (as in King Pedro) but also the **three** of trumps is a scoring card.
+Le processus d'ajout d'atouts à points supplémentaires à Pedro est poursuivi dans ce jeu. Non seulement le neuf (comme dans Pedro Sancho) et le roi (comme dans King Pedro), mais aussi le **trois** d'atout est une carte à points.
 
-There are four players in fixed partnerships, and a standard 52 card pack is used. The ranking of the cards is as in Pedro, with the other five as the same color as trumps (the left Pedro) counting as a trump ranking immediately below the five. Points are scored for winning scoring trumps in tricks, the scores being as follows:
+Il y a quatre joueurs en partenariats fixes, et un jeu standard de 52 cartes est utilisé. Le classement des cartes est comme dans Pedro, avec l'autre cinq de la même couleur que l'atout (le left Pedro) comptant comme un atout classé juste en dessous du cinq. Les points sont marqués pour gagner des atouts à points en levées, les scores étant les suivants :
 
-| ace ("high") | ... | 1 point |
-| king | ... | 25 points |
-| jack | ... | 1 point |
-| ten (sometimes called "game") | ... | 1 point |
-| nine | ... | 9 points |
-| five ("right pedro") | ... | 5 points |
-| other five of same colour ("left pedro") | ... | 5 points |
-| three | ... | 15 points |
-| two ("low") | ... | 1 point |
+| as (« high ») | ... | 1 point |
+| roi | ... | 25 points |
+| valet | ... | 1 point |
+| dix (parfois appelé « game ») | ... | 1 point |
+| neuf | ... | 9 points |
+| cinq (« right pedro ») | ... | 5 points |
+| autre cinq de même couleur (« left pedro ») | ... | 5 points |
+| trois | ... | 15 points |
+| deux (« low ») | ... | 1 point |
 
-This makes 63 points altogether - hence the name of the game. 
+Cela fait 63 points au total — d'où le nom du jeu.
 
-Nine cards are dealt to each player, in threes. The bidding is by numbers, the maximum being 63 and the minimum (presumably) 1. Players bid in rotation, starting at dealer's left and going around the table as many times as necessary until the highest bid is passed by the other three players. After the bidding each player is dealt four more cards (which uses up the whole pack) discards seven cards, so that everyone has a 6 card hand.
+Neuf cartes sont distribuées à chaque joueur, par trois. Les enchères se font par nombres, le maximum étant 63 et le minimum (probablement) 1. Les joueurs enchérissent à tour de rôle, en commençant à la gauche du donneur et en allant autour de la table autant de fois que nécessaire jusqu'à ce que l'enchère la plus haute soit passée par les trois autres joueurs. Après les enchères, quatre cartes supplémentaires sont distribuées à chaque joueur (utilisant tout le jeu), chacun écarte sept cartes, de sorte que tout le monde a une main de 6 cartes.
 
-The rules of play are as in Pedro. The high bidder leads. Players must who can follow suit must either do so or trump. Players who cannot follow suit can play anything.
+Les règles du jeu sont comme dans Pedro. L'enchérisseur mène. Les joueurs qui peuvent suivre la couleur doivent le faire ou contrer. Les joueurs qui ne peuvent pas suivre la couleur peuvent jouer n'importe quoi.
 
-The whole game is won by the first team to 152 points.
+La partie entière est gagnée par la première équipe à 152 points.
 
-## Eighty-Three
+## Quatre-vingt-trois
 
-This game seems to be confined to Maine, USA. The following description is based on a contribution from Linda Moran. Jason Breton and David Wuori have provided some further details and variations.
+Ce jeu semble être confiné au Maine, États-Unis. La description suivante est basée sur une contribution de Linda Moran. Jason Breton et David Wuori ont fourni quelques détails supplémentaires et variantes.
 
-83 is a four player game with partners sitting opposite each other. It is played with 53 cards - a standard deck with one joker.
+83 est un jeu à quatre joueurs avec des partenaires assis en face. Il se joue avec 53 cartes — un jeu standard plus un joker.
 
-It is called 83 because that is the number of possible points. Points are scored for winning cards of the trump suit in tricks. Trumps are chosen by the high bidder and the trump suit consists of 15 cards: all cards of the named suit, the other five of the same color, and the joker. The ranking (from high to low) and values of the trumps are as follows:
+Il est appelé 83 car c'est le nombre de points possibles. Les points sont marqués pour gagner des cartes de la couleur d'atout en levées. L'atout est choisi par le plus fort enchérisseur et la couleur d'atout se compose de 15 cartes : toutes les cartes de la couleur nommée, l'autre cinq de la même couleur, et le joker. Le classement (de haut en bas) et la valeur des atouts sont les suivants :
 
-| Trump card | ace | king | queen | jack | 10 | 9 | 8 | 7 | 6 | 5 | other 5 | 4 | 3 | 2 | joker |
-| Point value | 1 | 25 | 20 | 1 | 1 | 9 | 0 | 0 | 0 | 5 | 5 | 0 | 0 | 1 | 15 |
+| Carte d'atout | as | roi | dame | valet | 10 | 9 | 8 | 7 | 6 | 5 | autre 5 | 4 | 3 | 2 | joker |
+| Valeur en points | 1 | 25 | 20 | 1 | 1 | 9 | 0 | 0 | 0 | 5 | 5 | 0 | 0 | 1 | 15 |
 
-The cards in the other suits rank from ace (high) to two (low) - missing the five in the suit of the same color as trump - and have no point value.
+Les cartes des autres couleurs sont classées de l'as (haut) au deux (bas) — sans le cinq de la couleur de la même couleur que l'atout — et n'ont aucune valeur en points.
 
-The game is played clockwise. Each person is dealt 12 cards and five cards go face down in the center as the "kitty".
+Le jeu se joue dans le sens des aiguilles d'une montre. Chaque personne reçoit 12 cartes et cinq cartes sont placées face cachée au centre comme « kitty ».
 
-The bidding begins with the player to dealer's left, and each person in turn can pass or bid a number, which must be higher than the previous bid (if any). The bid is the number of points you and your partner contract to take in tricks. The minimum bid is 30 and highest normal bid is 83 - the total number of points in the pack. However, a higher bid of "83 double" is also allowed: like a normal 83, this is also a contract for you and your partner to take all the points, but it scores 166 if successful (and you lose 166 if you fail).
+Les enchères commencent avec le joueur à la gauche du donneur, et chaque personne à tour de rôle peut passer ou enchérir un nombre, qui doit être supérieur à l'enchère précédente (s'il y en a une). L'enchère est le nombre de points que vous et votre partenaire vous engagez à prendre en levées. L'enchère minimum est de 30 et l'enchère maximum normale est de 83 — le nombre total de points dans le jeu. Cependant, une enchère plus élevée de « 83 double » est aussi autorisée : comme un 83 normal, c'est aussi un contrat pour vous et votre partenaire de prendre tous les points, mais il rapporte 166 si réussi (et vous perdez 166 si échec).
 
-The bidding continues for as many rounds as necessary until all of the players except one has passed. The high bidder then takes the five card kitty and announces a suit of their choice which will be trumps. All players must then reduce their hands to six cards, discarding any excess. A player who has more than 6 trumps may keep a hand of six trumps and pass any excess to partner. If two partners have more than 12 trumps between them, they will have to discard suficient non-scoring trumps to bring their hands down to six trumps each. It is always illegal to discard scoring trumps, and thus there are always 83 points in play.
+Les enchères continuent pendant autant de tours que nécessaire jusqu'à ce que tous les joueurs sauf un soient passés. Le plus fort enchérisseur prend alors les cinq cartes du *kitty* et annonce une couleur de son choix qui sera l'atout. Tous les joueurs doivent alors réduire leurs mains à six cartes, en écartant l'excédent. Un joueur qui a plus de 6 atouts peut garder une main de six atouts et passer l'excédent à son partenaire. Si deux partenaires ont plus de 12 atouts entre eux, ils devront écarter suffisamment d'atouts sans valeur pour ramener leurs mains à six atouts chacun. Il est toujours interdit d'écarter des atouts à points, et il y a donc toujours 83 points en jeu.
 
-The bidder leads to the first trick. Any card may be led - there is no compulsion to lead a trump if you see an advantage in doing otherwise. If a trump is led, the other players must play trumps if they have them; if not they may throw any card. If a non-trump is led, the other players have a choice of playing a card of the led suit or a trump. It is always legal to play a trump, even if you have cards of the led suit, but you are not allowed to throw a card of a different non-trump suit unless you have no card of the suit that was led.
+L'enchérisseur mène la première levée. N'importe quelle carte peut être menée — il n'y a aucune obligation de mener un atout. Si un atout est mené, les autres joueurs doivent jouer des atouts s'ils en ont ; sinon ils peuvent jeter n'importe quelle carte. Si un non-atout est mené, les autres joueurs ont le choix de jouer une carte de la couleur menée ou un atout. Il est toujours légal de jouer un atout, même si vous avez des cartes de la couleur menée, mais vous n'êtes pas autorisé à jeter une carte d'une autre couleur non-atout à moins que vous n'ayez pas de carte de la couleur menée.
 
-When all six tricks have been played, each team counts the value of the scoring trumps they have won in the tricks. If the bidding team won at least as many points as the bid, they score the points they won. If they have not taken enough points to fulfil their bid they are 'set', and they lose the number of points that they bid. In either case, the opposing team score the points they won in their tricks.
+Quand les six levées ont été jouées, chaque équipe compte la valeur des atouts à points qu'elle a gagnés. Si l'équipe qui a enchéri a pris au moins autant de points que l'enchère, elle marque les points gagnés. Si elle n'a pas pris suffisamment de points pour remplir son contrat, elle est « set » et perd le nombre de points de son enchère. Dans les deux cas, l'équipe adverse marque les points qu'elle a gagnés.
 
-The first team to reach an agreed target score (for example 200 points) wins the game. 
+La première équipe à atteindre un score cible convenu (par exemple 200 points) gagne la partie.
 
-### 63 and 83 variations
+### Variantes de 63 et 83
 
-I have described 63 played with 52 cards and 83 played with 53 including a joker. It is possible to play either game with or without the joker. If the joker is used, it is the lowest trump, worth 15 and the trump three is worth nothing. When playing without a joker the trump three is worth 15 points.
+J'ai décrit 63 joué avec 52 cartes et 83 joué avec 53 cartes incluant un joker. Il est possible de jouer l'un ou l'autre jeu avec ou sans le joker. Si le joker est utilisé, il est le plus bas atout, valant 15, et le trois d'atout ne vaut rien. En jouant sans joker, le trois d'atout vaut 15 points.
 
-Linda Moran reports that in their group 83 used to be played with a minimum bid of 40, but nowadays the minimum is 1. This allows low bids to be used to exchange information between partners.
+Linda Moran rapporte que dans leur groupe, 83 se jouait autrefois avec une enchère minimum de 40, mais de nos jours le minimum est de 1. Cela permet d'utiliser des enchères basses pour échanger des informations entre partenaires.
 
-In either game the deal may be 9 cards to each player, in threes. After the bidding, all players discard their non-trumps and the dealer deals sufficient replacement cards to the other players so that they each have a six card hand. Anyone who had more than six trumps passes any excess trumps to their partner before the dealer replenishes the hands. The dealer takes all the undealt cards and discards down to six cards.
+Dans l'un ou l'autre jeu, la donne peut être de 9 cartes à chaque joueur, par trois. Après les enchères, tous les joueurs écartent leurs non-atouts et le donneur distribue suffisamment de cartes de remplacement aux autres joueurs pour qu'ils aient chacun une main de 6 cartes. Quiconque a eu plus de six atouts passe ses atouts excédentaires à son partenaire avant que le donneur ne renouvelle les mains. Le donneur prend toutes les cartes non distribuées et écarte jusqu'à six cartes.
 
-## Other WWW sites and software
+## Autres sites web et logiciels
 
-The [Pidro Online](http//www.pidro.online) site provides a server through which you can play Pidro online against live opponents.
+Le site [Pidro Online](http//www.pidro.online) fournit un serveur grâce auquel vous pouvez jouer au Pidro en ligne contre des adversaires en direct.
 
-[Pidro Challenge](https://www.pidrochallenge.com) is a freeware Finnish Pidro program in English or Swedish, by Patrik and Niklas Indola. The site also contains rules and some history of the game.
-
-Home Page > Classified Index > Trick Taking Games > All Fours Group > Pedro
+[Pidro Challenge](https://www.pidrochallenge.com) est un programme de Pidro finlandais gratuit en anglais ou suédois, par Patrik et Niklas Indola. Le site contient aussi des règles et une partie de l'histoire du jeu.

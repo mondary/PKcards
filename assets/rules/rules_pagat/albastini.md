@@ -2,109 +2,106 @@
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** A trick-taking card game from Tanzania, in which Aces and Sevens are the highest and most valuable cards and the player or team that takes most card points wins.
+**But :** Jeu de plis originaire de Tanzanie, dans lequel les As et les Sept sont les cartes les plus fortes et les plus valuées, et le joueur ou l'équipe qui totalise le plus de points de cartes l'emporte.
 
 ---
 
 ## Introduction
 
-Albastini is a point-trick game played in Tanzania, East Africa. The card order and values are similar to those in the Portuguese game Bisca, of which it may well be a remote descendant. The objective to take (or 'eat') valuable cards in tricks, and the player or team that takes the highest value of cards scores one or more victory points.
+Albastini est un jeu de plis à points joué en Tanzanie, en Afrique de l'Est. L'ordre et la valeur des cartes sont similaires à ceux du jeu portugais Bisca, dont il pourrait bien en être un lointain descendant. L'objectif est de prendre (ou « manger ») les cartes de valeur dans les plis, et le joueur ou l'équipe ayant pris le plus grand nombre de points en cartes marque un ou plusieurs points de victoire.
 
-*I would like to thank Augustino Mponzi for explaining this game to me.*
+*Je remercie Augustino Mponzi de m'avoir expliqué ce jeu.*
 
-## Players and Cards
+## Joueurs et cartes
 
-This game is normally played by 2, 3, 4 or 6 people. 4 or 6 players can play in teams of 2, partners sitting opposite, and 6 people can play in teams of 3, each player sitting between two opponents.
+Ce jeu se joue normalement à 2, 3, 4 ou 6 personnes. À 4 ou 6 joueurs, on peut jouer en équipes de 2, les partenaires se faisant face, et à 6 personnes on peut jouer en équipes de 3, chaque joueur étant assis entre deux adversaires.
 
-A standard international deck is used, from which all the 2's, 8's, 9's, 10's and Jokers are removed leaving a pack of 36 cards. The rank and values of the cards in each suit, in descending order from Ace (highest) to 3 (lowest) are as follows:
+On utilise un jeu international standard dont on retire tous les 2, 8, 9, 10 et Jokers, ce qui laisse un paquet de 36 cartes. Le rang et la valeur des cartes de chaque couleur, dans l'ordre décroissant de l'As (le plus haut) au 3 (le plus bas), sont les suivants :
 
-| Card | Kiswahili
-name (and
-meaning) | Value |
-| Ace | Dume (male) | 11 points |
-| Seven | Jike (female) | 10 points |
-| King | Mzungu
-(foreigner) | 4 points |
-| Jack | 3 points |
-| Queen | 2 points |
+| Carte | Nom en kiswahili
+(et signification) | Valeur |
+| As | Dume (mâle) | 11 points |
+| Sept | Jike (femelle) | 10 points |
+| Roi | Mzungu
+(étranger) | 4 points |
+| Valet | 3 points |
+| Dame | 2 points |
 | Six | Ngarasha
-(trash) | 0 points |
-| Five | 0 points |
-| Four | 0 points |
-| Three | 0 points |
+(rebut) | 0 points |
+| Cinq | 0 points |
+| Quatre | 0 points |
+| Trois | 0 points |
 
-Note that in each suit the Seven is the second highest card, higher than the King, and that the Jack is higher than the Queen. There are 120 points in the deck in total.
+Notez que dans chaque couleur le Sept est la deuxième carte la plus forte, supérieure au Roi, et que le Valet est supérieur à la Dame. Il y a 120 points au total dans le jeu.
 
-The deal and play are anticlockwise.
+La donne et le jeu se font dans le sens antihoraire.
 
-## Deal and Bidding
+## Donne et enchères
 
-The first dealer is chosen by any convenient method - typically the person hosting the game may deal first. 
+Le premier donneur est choisi par n'importe quelle méthode pratique — généralement la personne qui accueille le jeu donne en premier.
 
-Subsequently the winner of each deal or a member of the winning team deals the next hand. In a team game the members of the winning team agree among themselves who should deal next: ideally they will take turns. After a tied game with no winner, the same player who dealt the tied hand should also deal the next hand.
+Par la suite, le vainqueur de chaque donne ou un membre de l'équipe gagnante donne la main suivante. Dans un jeu d'équipe, les membres de l'équipe gagnante se mettent d'accord entre eux sur qui donnera ensuite : idéalement, ils alternent. Après une donne nulle sans vainqueur, le même joueur qui a donné la donne nulle donne aussi la suivante.
 
-The dealer shuffles the deck, deals 5 cards to each player, and places the remainder of the deck face down on the table.
+Le donneur bat le jeu, distribue 5 cartes à chaque joueur, et pose le reste du jeu face contre table.
 
-The trump suit will be determined by turning up one of the undealt cards, but before this happens the dealer's opponents have the opportunity to 'bid', which in this game means to guess the trump suit and offer a card of that suit to be exchanged with the trump indicator card if the guess is correct.
+L'atout sera déterminé en retournant une des cartes non distribuées, mais avant cela les adversaires du donneur ont la possibilité d'« enchérir », ce qui dans ce jeu signifie deviner la couleur d'atout et offrir une carte de cette couleur à échanger avec la carte indicatrice d'atout si la devinette est correcte.
 
-## Bidding
+## Enchères
 
-Beginning with the player to dealer's right, each **opponent** of the dealer in turn has the option to 'bid' by placing one card from their hand face up on the table. Each bid must be in a different suit. 
+En commençant par le joueur à droite du donneur, chaque **adversaire** du donneur a tour à tour la possibilité d'« enchérir » en posant une carte de sa main face visible sur la table. Chaque enchère doit être dans une couleur différente.
 
-When all the dealer's opponents have had a chance to bid if they wish, the dealer turns the top card of the undealt portion of the deck face up. The suit of this card is the trump suit. 
+Une fois que tous les adversaires du donneur ont eu l'occasion d'enchérir s'ils le souhaitent, le donneur retourne la carte supérieure de la partie non distribuée du jeu face visible. La couleur de cette carte est la couleur d'atout.
 
-If any player has 'bid' with a card of this suit, they must exchange their bid card for the trump indicator card, adding the trump indicator card to their hand and leaving their bid card face up on the table in its place. Players who bid in suits that do not match the trump suit take their bid cards back into their hands. 
+Si un joueur a « enchéri » avec une carte de cette couleur, il doit échanger sa carte d'enchère contre la carte indicatrice d'atout, ajoutant la carte indicatrice à sa main et laissant sa carte d'enchère face visible sur la table à sa place. Les joueurs qui ont enchéri dans des couleurs qui ne correspondent pas à l'atout reprennent leur carte d'enchère dans leur main.
 
-The dealer then slides the face up trump card (either the original trump indicator or the successful bid card) under the undealt deck, leaving the card partly exposed so that all players can see the trump suit.
+Le donneur fait ensuite glisser la carte d'atout face visible (soit la carte indicatrice originale, soit la carte d'enchère réussie) sous le paquet non distribué, en laissant la carte partiellement visible pour que tous les joueurs puissent voir la couleur d'atout.
 
-Please note that:
+Veuillez noter que :
 
-- The dealer is not allowed to bid, and in a team game the partner(s) of the dealer are not allowed to bid.
+- Le donneur n'est pas autorisé à enchérir, et dans un jeu d'équipe les partenaires du donneur ne sont pas autorisés à enchérir.
 
-- If a player's bid matches the trump indicator card the player **must** exchange their bid card for the trump indicator, even if the trump indicator is lower in rank than the bid card. For example if I bid with the ![heart](../images/internat/heart.gif)5 and the ![heart](../images/internat/heart.gif)3 is turned up as the trump indicator, I must take the 3 in exchange for the 5. For this reason players normally only use low cards of no value (6, 5, 4, 3) as bid cards.
+- Si l'enchère d'un joueur correspond à la carte indicatrice d'atout, le joueur **doit** échanger sa carte d'enchère contre la carte indicatrice, même si la carte indicatrice est de rang inférieur à la carte d'enchère. Par exemple, si j'enchéris avec le ![cœur](../images/internat/heart.gif)5 et que le ![cœur](../images/internat/heart.gif)3 est retourné comme indicatrice d'atout, je dois prendre le 3 en échange du 5. Pour cette raison, les joueurs n'utilisent normalement comme cartes d'enchère que des cartes basses sans valeur (6, 5, 4, 3).
 
-- Each player who bids must expose a card of a different suit. For example suppose that player A is the dealer in a 3-player game, and player B bids with the ![club](../images/internat/club.gif)4. If the third player C holds ![club](../images/internat/club.gif)J, ![club](../images/internat/club.gif)3, ![diamond](../images/internat/diamond.gif)7, ![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)Q, player C is not allowed to bid with a club and will therefore choose not bid at all. If C were to bid with a diamond or spade, this would most likely result in giving up a high card for a lower one if either of those suits became trumps
+- Chaque joueur qui enchérit doit exposer une carte d'une couleur différente. Par exemple, supposons que le joueur A soit le donneur dans un jeu à 3 joueurs, et que le joueur B enchérisse avec le ![trèfle](../images/internat/club.gif)4. Si le troisième joueur C détient le ![trèfle](../images/internat/club.gif)V, le ![trèfle](../images/internat/club.gif)3, le ![carreau](../images/internat/diamond.gif)7, le ![pique](../images/internat/spade.gif)A et le ![pique](../images/internat/spade.gif)D, le joueur C n'est pas autorisé à enchérir avec un trèfle et choisira donc de ne pas enchérir du tout. Si C enchérissait avec un carreau ou un pique, cela résulterait très probablement en abandonnant une carte forte pour une plus faible si l'une de ces couleurs devenait atout.
 
-The bidding process is known in Kiswahili as "*Otea*". 
+Le processus d'enchères est connu en kiswahili sous le nom de « *Otea* ».
 
-## Play
+## Jeu
 
-**Terminology.** In this game the tricks are called 'rounds', and the winner of a round (trick) is said to 'eat' *(kula)* the cards in it. 
+**Terminologie.** Dans ce jeu, les plis sont appelés « rondes », et le vainqueur d'une ronde (pli) est dit « manger » (*kula*) les cartes qu'elle contient.
 
-When the game is played in teams, the players within the same team are allowed to look at each other's cards for a few seconds immediately after the dealer has revealed the trump suit. This only happens once during each hand before the first card is played to begin the first round (trick). This is typically done by the players exchanging their cards briefly and then returning them.
+Lorsqu'on joue en équipe, les joueurs de la même équipe sont autorisés à regarder les cartes de l'autre pendant quelques secondes immédiatement après que le donneur a révélé la couleur d'atout. Cela ne se produit qu'une seule fois pendant chaque main, avant que la première carte ne soit jouée pour commencer la première ronde (pli). Cela se fait généralement par un échange bref des cartes entre les joueurs, qui les reprennent ensuite.
 
-The player to dealer's right starts the first round (leads to the first trick) by playing one card face up. Then each of the other players in turn plays one card face up. There is absolutely no requirement to follow suit. Any player may play any card in their hand in any round.
+Le joueur à la droite du donneur entame la première ronde (mène au premier pli) en jouant une carte face visible. Puis chaque autre joueur joue à tour de rôle une carte face visible. Il n'y a absolument aucune obligation de suivre la couleur. Tout joueur peut jouer n'importe quelle carte de sa main dans n'importe quelle ronde.
 
-The round is won by the highest trump played, or if it contains no trumps, by the highest card of the starting suit (the suit of the card with which the player began that round). The winner of the round gathers the cards and stores them face down: each team has a face down pile of cards that they have eaten. 
+La ronde est gagnée par le plus haut atout joué, ou si elle ne contient aucun atout, par la plus forte carte de la couleur de départ (la couleur de la carte avec laquelle le joueur a commencé cette ronde). Le vainqueur de la ronde ramasse les cartes et les conserve face contre table : chaque équipe a un tas face contre table de cartes qu'elle a mangées.
 
-Each player in turn, beginning with the player who won the round, picks (draws) one card from the top of the undealt part of the deck, so that all players have five cards again. Then the player who won the round starts the next round (i.e. the winner of each trick leads to the next).
+Chaque joueur à tour de rôle, en commençant par le joueur qui a gagné la ronde, pioche une carte du sommet de la partie non distribuée du jeu, afin que tous les joueurs aient à nouveau cinq cartes. Puis le vainqueur de la ronde entame la ronde suivante (c'est-à-dire que le vainqueur de chaque pli mène au suivant).
 
-The face up trump card under the deck is drawn as the last card of the deck. It will naturally go to the player to the right of the winner of the round just played, who is last to draw in clockwise order. The play then continues as before but without drawing until all the cards have been played. 
+La carte d'atout face visible sous le paquet est piochée comme dernière carte du paquet. Elle ira naturellement au joueur à la droite du vainqueur de la ronde qui vient d'être jouée, qui est le dernier à piocher dans l'ordre horaire. Le jeu se poursuit ensuite comme avant, mais sans piocher, jusqu'à ce que toutes les cartes aient été jouées.
 
-"*Ndoa*" which means "getting married" is a term that is used when a *Jike* (7) gets eaten by the *Dume* (A) of the same suit. This is considered the ultimate strategic move within the game.
+Le « *Ndoa* » qui signifie « se marier » est un terme utilisé lorsqu'un *Jike* (7) est mangé par le *Dume* (A) de la même couleur. C'est considéré comme le mouvement stratégique ultime dans le jeu.
 
-## Scoring
+## Comptage
 
-Each player (in an individual game) or team (in a team game) gathers the cards they have won (eaten) and counts their total value. The results should always add up to 120, the total value of the cards in the deck.
+Chaque joueur (en jeu individuel) ou équipe (en jeu d'équipe) rassemble les cartes gagnées (mangées) et compte leur valeur totale. Les résultats doivent toujours s'additionner à 120, la valeur totale des cartes du jeu.
 
-The player or team with the greatest value of cards wins and scores one or more victory points.
+Le joueur ou l'équipe ayant le plus grand nombre de points en cartes gagne et marque un ou plusieurs points de victoire.
 
-- In an **individual game**, the winner scores** one victory point**, provided that every player has eaten at least **10 points**. If any player has eaten less than 10 points the winner scores **two victory points**.
+- En **jeu individuel**, le gagnant marque **un point de victoire**, à condition que chaque joueur ait mangé au moins **10 points**. Si un joueur a mangé moins de 10 points, le gagnant marque **deux points de victoire**.
 
-- In a game between **teams of two**, the winning team scores** one victory point**, provided that each team has eaten at least **20 points**. If any team has eaten less than 20 points the winning team scores **two victory points**.
+- Dans un jeu entre **équipes de deux**, l'équipe gagnante marque **un point de victoire**, à condition que chaque équipe ait mangé au moins **20 points**. Si une équipe a mangé moins de 20 points, l'équipe gagnante marque **deux points de victoire**.
 
-- In a game between **teams of three**, the winning team scores** one victory point**, provided that the losing team has eaten at least **30 points**. If the losing team has eaten less than 30 points the winning team scores **two victory points**. 
+- Dans un jeu entre **équipes de trois**, l'équipe gagnante marque **un point de victoire**, à condition que l'équipe perdante ait mangé au moins **30 points**. Si l'équipe perdante a mangé moins de 30 points, l'équipe gagnante marque **deux points de victoire**.
 
-The minimum target of 10, 20 or 30 card points which a losing player or team must eat to prevent a 2-pont victory by the winner is known as "*mrithi*": players sometimes say "*nimetoka mrithi*" meaning that they have achieved this target.
+L'objectif minimum de 10, 20 ou 30 points de cartes qu'un joueur ou une équipe perdante doit manger pour éviter une victoire à deux points est appelé « *mrithi* » : les joueurs disent parfois « *nimetoka mrithi* » signifiant qu'ils ont atteint cet objectif.
 
-If there is a tie for greatest value of cards eaten then **no victory points** are scored. 
+En cas d'égalité pour la plus grande valeur de points mangés, **aucun point de victoire** n'est marqué.
 
-## Variations
+## Variantes
 
-It is possible for five players to play as individuals. In this case the face up trump card will not be drawn (there will be 7 rounds using only 35 of the 36 cards) and no one will count the value of this trump card towards their total when determining the winner. 
+Il est possible de jouer à cinq joueurs en individuel. Dans ce cas, la carte d'atout face visible ne sera pas piochée (il y aura 7 rondes utilisant seulement 35 des 36 cartes) et personne ne comptera la valeur de cette carte d'atout dans son total pour déterminer le gagnant.
 
-## Software
+## Logiciel
 
-Augustino Mponzi has made a free mobile Albastini app for [Android](https://play.google.com/store/apps/details?id=com.albastini) and [iOS](https://apps.apple.com/us/app/albastini-card-game/id6503353510). A version that can be played online in a web browser is planned.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Albastini
+Augustino Mponzi a créé une application gratuite Albastini pour [Android](https://play.google.com/store/apps/details?id=com.albastini) et [iOS](https://apps.apple.com/us/app/albastini-card-game/id6503353510). Une version jouable en ligne dans un navigateur web est prévue.

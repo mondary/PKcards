@@ -3,151 +3,150 @@
 **Nombre de cartes :** 40
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An unusual card game from the Tolima department of Colombia in which the 4 is the highest trump. The aim is to win at least two out of three tricks and the score for this can be increased by betting.
+**But :** Jeu de cartes inhabituel du département de Tolima en Colombie, dans lequel le 4 est le plus haut atout. Le but est de gagner au moins deux des trois levées et le score peut être augmenté par des mises.
 
 ---
 
 - Introduction
 
-- Players, Cards and Equipment
+- Joueurs, cartes et équipement
 
-- Deal
+- La donne
 
-- Play
+- Le jeu
 
-- Scoring
+- Comptage des points
 
 ## Introduction
 
-Paublillo (sometimes pronounced as *'paulillo'* or *'pablillo'*) is a trick-taking game from the south-east of the Tolima department of Colombia. It is mostly played in rural areas by farmers, fishermen and other primary producers. It has little presence in Ibague, the capital of Tolima, and is unknown in Bogota and the rest of the country.
-It is usually played for beer. Some people play for money but this is inadvisable because many players take the game very seriously and accusations of cheating in a high-stakes game could easily end in violence. 
+Paublillo (parfois prononcé *'paulillo'* ou *'pablillo'*) est un jeu de levées du sud-est du département de Tolima en Colombie. Il est surtout joué dans les zones rurales par des agriculteurs, des pêcheurs et d'autres producteurs primaires. Il a peu de présence à Ibagué, la capitale du Tolima, et est inconnu à Bogota et dans le reste du pays.
 
-The overall format of Paublillo, played with three-card hands and betting, the aim being to win at least two of the three tricks, is reminiscent of Truco. However the underlying structure - the ranking of the cards, the presence of a trump suit, and several other details - are different, indicating that this game is not a variant of Truco but must have a separate historical origin.
+Il se joue généralement pour de la bière. Certains jouent pour de l'argent, mais c'est déconseillé car de nombreux joueurs prennent le jeu très au sérieux et des accusations de triche dans une partie à enjeux élevés pourraient facilement finir en violence.
 
-*This page is based on information from Felipe Sanchez Vidales.*
+Le format général de Paublillo, joué avec des mains de trois cartes et des mises, le but étant de gagner au moins deux des trois levées, rappelle le Truco. Cependant, la structure sous-jacente — le classement des cartes, la présence d'une couleur d'atout, et plusieurs autres détails — sont différents, ce qui indique que ce jeu n'est pas une variante du Truco mais doit avoir une origine historique distincte.
 
-## Players, Cards, Equipment and Objective
+*Cette page est basée sur des informations de Felipe Sanchez Vidales.*
 
-Paublillo is a game for 2, 4, 6 or 8 players, probably most popular for six. When there are 4 or more players they are divided into two equal teams, each player sitting between two opponents.
+## Joueurs, cartes, équipement et objectif
 
-A standard 40-card Spanish deck is used, with suits of swords (*espadas*), batons (*bastos*), cups (*copas*) and coins (*oros*). There are 10 cards in each suit: King (*rey*, 12), Horse (*caballo*, 11), Jack (*sota*, 10), 7, 6, 5, 4, 3, 2, Ace (*as*, 1).
+Paublillo est un jeu pour 2, 4, 6 ou 8 joueurs, probablement le plus populaire à six. Quand il y a 4 joueurs ou plus, ils sont divisés en deux équipes égales, chaque joueur étant assis entre deux adversaires.
 
-In each deal one of the suits is designated as trumps, and its cards rank in a different order from the other three suits. The ranking from highest to lowest is as follows.
+On utilise un jeu espagnol standard de 40 cartes, avec les couleurs d'épées (*espadas*), de bâtons (*bastos*), de coupes (*copas*) et de pièces d'or (*oros*). Il y a 10 cartes dans chaque couleur : Roi (*rey*, 12), Cavalier (*caballo*, 11), Valet (*sota*, 10), 7, 6, 5, 4, 3, 2, As (*as*, 1).
 
-- **Trumps**: 4, 3, 2, King, Horse, Jack, Ace, 7, 6, 5.
+À chaque donne, une des couleurs est désignée comme atout, et ses cartes sont classées dans un ordre différent des trois autres couleurs. Le classement du plus haut au plus bas est le suivant.
 
-- **Other suits** : King, Horse, Jack, Ace, 7, 6, 5, 4, 3, 2.
+- **Atouts** : 4, 3, 2, Roi, Cavalier, Valet, As, 7, 6, 5.
 
-The top two trumps have special names. The 4 of trumps is called ***monja*** and the three of trumps is ***paublillo***.
+- **Autres couleurs** : Roi, Cavalier, Valet, As, 7, 6, 5, 4, 3, 2.
 
-A set of 12 'stones' is used for scoring - two of these stones should look different from the other ten. Alternatively 12 tokens of any kind could be used - 10 of one type and 2 of another type.
+Les deux plus hauts atouts ont des noms spéciaux. Le 4 d'atout est appelé ***monja*** et le 3 d'atout ***paublillo***.
 
-The aim of the game is to be the first to reach or exceed the target score of 12 points. The two teams keep track of their cumulative scores using the stones as described under scoring.
+Un ensemble de 12 « pierres » est utilisé pour le comptage — deux de ces pierres doivent avoir une apparence différente des dix autres. Alternativement, 12 jetons de n'importe quel type peuvent être utilisés — 10 d'un type et 2 d'un autre.
 
-The game is dealt and played anticlockwise. 
+Le but du jeu est d'être le premier à atteindre ou dépasser le score cible de 12 points. Les deux équipes suivent leurs scores cumulatifs en utilisant les pierres comme décrit dans la section comptage des points.
 
-## Deal
+La donne et le jeu se font dans le sens inverse des aiguilles d'une montre.
 
-The first dealer is chosen by any convenient random method and the turn to deal passes to the right after each hand. 
+## La donne
 
-The dealer shuffles and the player to dealer's **right** cuts (the opposite convention from European games, in which the cards are normally cut by the previous dealer).
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique et le tour de donne passe à droite après chaque main.
 
-The dealer deals a packet of three cards to each player, and then places the next card face up on the table for all to see, and stacks the remaining undealt cards at right angles on top of it. The suit of this face up card is trumps. If the turned up card is the top trump - the four or *monja* - the dealer's team immediately scores 1 point (unless they are on Alver -see below).
+Le donneur mélange et le joueur à la **droite** du donneur coupe (la convention inverse des jeux européens, où les cartes sont normalement coupées par le donneur précédent).
 
-The turned up trump card and the remaining undealt cards are not used during the play.
+Le donneur distribue un paquet de trois cartes à chaque joueur, puis place la carte suivante face visible sur la table pour que tous la voient, et empile les cartes non distribuées restantes à angle droit par-dessus. La couleur de cette carte retournée est l'atout. Si la carte retournée est le plus haut atout — le quatre ou *monja* — l'équipe du donneur marque immédiatement 1 point (sauf s'ils sont en Alver — voir ci-dessous).
 
-## Play
+La carte d'atout retournée et les cartes non distribuées restantes ne sont pas utilisées pendant le jeu.
 
-The cards are played out in three tricks and each team's objective is to win at least two of them. The player to dealer's right leads to the first trick and the winner of each trick leads to the next. 
+## Le jeu
 
-Any card may be led, by placing it face up on the table.
+Les cartes sont jouées en trois levées et l'objectif de chaque équipe est d'en gagner au moins deux. Le joueur à la droite du donneur mène la première levée et le gagnant de chaque levée mène la suivante.
 
-- If the card that is led to the first trick is a trump, each of the other players must play a trump if possible, except that a player whose only trump is the 4 does not have to play it, but can play another card instead. Leading a trump to the first trcik to draw trumps from the other players is known as *arrastre*.
+N'importe quelle carte peut être menée, en la posant face visible sur la table.
 
-- In all other cases - if the card that is led to the first trick is not a trump and in other tricks no matter what card is led - the other players may play any card they wish. 
+- Si la carte menée à la première levée est un atout, chacun des autres joueurs doit jouer un atout s'il le peut, sauf qu'un joueur dont le seul atout est le 4 n'est pas obligé de le jouer et peut jouer une autre carte à la place. Mener un atout à la première levée pour tirer les atouts des autres joueurs est appelé *arrastre*.
 
-In a trick to which a trump is led, all the other players must play their cards face up. If a non-trump is led, the other players may play their cards face up or face down, but a face down card cannot win the trick. An exception to this rule is the vuelta - see below.
+- Dans tous les autres cas — si la carte menée à la première levée n'est pas un atout et dans les autres levées quelle que soit la carte menée — les autres joueurs peuvent jouer la carte de leur choix.
 
-Each trick is won by the highest face up trump in it, or if it contains no trumps by the highest face up card of the suit that was led. 
+Dans une levée où un atout est mené, tous les autres joueurs doivent jouer leurs cartes face visible. Si une non-atout est menée, les autres joueurs peuvent jouer leurs cartes face visible ou face cachée, mais une carte face cachée ne peut pas gagner la levée. Une exception à cette règle est la *vuelta* — voir ci-dessous.
 
-### Betting (envidar)
+Chaque levée est gagnée par le plus haut atout face visible, ou si elle ne contient pas d'atout, par la plus haute carte face visible de la couleur menée.
 
-Initially the score for the team that wins the majority of tricks is 1 point, but players may seek to increase this score by betting.
+### Mises (envidar)
 
-At their turn to play, before playing a card, a player may say *'envido'*, which is a proposal to raise the score for the current deal from 1 point to 3. The opposing team must reply, and there are three possible responses.
+Initialement, le score pour l'équipe qui gagne la majorité des levées est de 1 point, mais les joueurs peuvent chercher à augmenter ce score en misant.
 
-- **'No accepta**' (fold). The opposing team refuses to raise the score but instead resigns the current deal. The play ends, the team that bet scores 1 point, and the cards are thrown in and shuffled for the next deal.
+À leur tour de jouer, avant de jouer une carte, un joueur peut dire *'envido'*, ce qui est une proposition d'augmenter le score de la donne en cours de 1 point à 3. L'équipe adverse doit répondre, et il y a trois réponses possibles.
 
-- **'Juegue'** (play). The proposal is accepted, the player who bet plays to the trick and the game continues. The winners will score 3 points.
+- **'No accepta'** (se coucher). L'équipe adverse refuse d'augmenter le score et abandonne la donne en cours. Le jeu s'arrête, l'équipe qui a misé marque 1 point, et les cartes sont jetées et mélangées pour la donne suivante.
 
-- **'Reenvido**'. An counter-proposal to raise the score to 6 points. The team that said *'envido'* must now decide whether to resign and give the opponents 3 points, to play on for 6 points, or to reenvido again, proposing to increase the stake from 6 to 9.
+- **'Juegue'** (jouer). La proposition est acceptée, le joueur qui a misé joue la levée et le jeu continue. Les gagnants marqueront 3 points.
 
-Before replying to a bet, the opponents of the bettor are allowed to see each others' cards. They pass the cards around face down between the teammates, making sure each player gets their own cards back at the end. Any player may reply to the bet on behalf of their team, and the first response is binding on the other members of the team.
+- **'Reenvido'**. Une contre-proposition pour augmenter le score à 6 points. L'équipe qui a dit *'envido'* doit maintenant décider de se démettre et donner 3 points aux adversaires, de continuer pour 6 points, ou de *reenvidar* à nouveau, proposant d'augmenter la mise de 6 à 9.
 
-After an *envido* has been accepted, members of **both** teams are allowed to see their partners' cards as above until the end of the play.
+Avant de répondre à une mise, les adversaires du parieur sont autorisés à voir les cartes des autres. Ils font circuler les cartes face cachée entre coéquipiers, en s'assurant que chaque joueur récupère ses propres cartes à la fin. N'importe quel joueur peut répondre à la mise au nom de son équipe, et la première réponse engage les autres membres de l'équipe.
 
-There can be a series of *reenvidar* by alternate teams, each increasing the score by 3 points up to a maximum of 12. Normally a player will *reenvidar* by stating the new proposed score, so the first *reenvido* is made by saying '*seis'* [six], the second *'nueve*' [nine] and the last *'doce'* [twelve].
+Après qu'un *envido* a été accepté, les membres des **deux** équipes sont autorisés à voir les cartes de leur partenaire de la même manière jusqu'à la fin du jeu.
 
-A *reenvidar* can be made immediately in response to a bet, or later in the game any player of the team that accepted the most recent *envido* can *reenvidar* at their turn. 
+Il peut y avoir une série de *reenvidar* par des équipes alternées, augmentant le score de 3 points à chaque fois jusqu'à un maximum de 12. Normalement, un joueur *reenvidar* en annonçant le nouveau score proposé, le premier *reenvido* se fait en disant '*seis*' [six], le deuxième '*nueve*' [neuf] et le dernier '*doce*' [douze].
 
-It is also possible for the player to dealer's right to bet **during the deal**, before any players have looked at their cards. This is known as an '**envido tapado**' (covered bet). 
+Un *reenvidar* peut être fait immédiatement en réponse à une mise, ou plus tard dans le jeu, n'importe quel joueur de l'équipe qui a accepté le *envido* le plus récent peut *reenvidar* à son tour.
 
-- If the dealer's team does not accept, the *envido* has no effect. The players pick up their cards and the game proceeds as though the *envido tapado* had not happened, and any player can *envidar* in the usual way at their turn during the play.
+Il est également possible pour le joueur à la droite du donneur de miser **pendant la donne**, avant que les joueurs aient regardé leurs cartes. C'est ce qu'on appelle un **'envido tapado'** (mise couverte).
 
-- If the dealer's team accepts the *envido tapado*, the score for the game is raised to 3 points and the first two players must play to the first trick by flipping one of their three dealt cards face up before looking at any of their cards. If the first player flips a trump this works as an *arrastre* and after the second player has flipped a card, which may or may not be a trump, the third and subsequent players must play trumps if they can. Players of the dealer's team can *reenvidar* at their turns to play in the usual way. 
+- Si l'équipe du donneur n'accepte pas, le *envido* n'a aucun effet. Les joueurs ramassent leurs cartes et le jeu continue comme si l'*envido tapado* n'avait pas eu lieu, et n'importe quel joueur peut *envidar* de la manière habituelle à son tour pendant le jeu.
+
+- Si l'équipe du donneur accepte l'*envido tapado*, le score de la donne est porté à 3 points et les deux premiers joueurs doivent jouer la première levée en retournant une de leurs trois cartes distribuées face visible avant d'avoir regardé aucune de leurs cartes. Si le premier joueur retourne un atout, cela fonctionne comme un *arrastre* et après que le deuxième joueur a retourné une carte, qui peut ou non être un atout, les joueurs suivants doivent jouer des atouts s'ils le peuvent. Les joueurs de l'équipe du donneur peuvent *reenvidar* à leur tour de jouer de la manière habituelle.
 
 ### Vuelta
 
-This exceptional rule applies only to the **last** card played to the **second** trick. When all the other players have played to this trick the last player, the player to the left of the player who led to the second trick, may play their card **face down** but still retain the right to win that trick as though the card had been played face up. This is known as a *vuelta* (turn). It is allowed even if a trump was led to the second trick.
+Cette règle exceptionnelle s'applique uniquement à la **dernière** carte jouée à la **deuxième** levée. Quand tous les autres joueurs ont joué cette levée, le dernier joueur, le joueur à la gauche du joueur qui a mené la deuxième levée, peut jouer sa carte **face cachée** tout en conservant le droit de gagner cette levée comme si la carte avait été jouée face visible. C'est ce qu'on appelle une *vuelta* (tour). C'est autorisé même si un atout a été mené à la deuxième levée.
 
-The player who played the face down (*vuelta*) card acquires the right to lead to the third trick, irrespective of whether the face down card won the second trick or not. 
+Le joueur qui a joué la carte face cachée (*vuelta*) acquiert le droit de mener la troisième levée, indépendamment de savoir si la carte face cachée a gagné la deuxième levée ou non.
 
-At the end of the **third** trick the *vuelta* card is exposed to reveal which team won the second trick.
+À la fin de la **troisième** levée, la carte *vuelta* est révélée pour montrer quelle équipe a gagné la deuxième levée.
 
-The purposes of a *vuelta* are:
+Les buts d'une *vuelta* sont :
 
-- to gain the lead to the third trick, which can be valuable if no player has any trumps at that point, and
+- obtenir la main pour la troisième levée, ce qui peut être précieux si aucun joueur n'a d'atout à ce moment, et
 
-- to get an advantage with the betting, since the other team will be unsure who has won the second trick.
+- obtenir un avantage pour les mises, puisque l'autre équipe ne sera pas sûre de qui a gagné la deuxième levée.
 
 ### Alver
 
-A team that has a cumulative score of 11 points is said to be on *alver *(which means 'to see'). When a team is on *alver* no betting is possible, but at the start of the play the team on *alver* must decide whether to play the cards for 3 points or whether to give up, throwing in the cards giving the other team 1 point. [This is in fact equivalent to an automatic *envido* by the team which is not on *alver*, which is always in their interest since they have nothing to lose by betting at this point.]
+Une équipe qui a un score cumulé de 11 points est dite en *alver* (ce qui signifie « voir »). Quand une équipe est en *alver*, aucune mise n'est possible, mais au début du jeu, l'équipe en *alver* doit décider si elle joue les cartes pour 3 points ou si elle abandonne, jetant les cartes et donnant 1 point à l'autre équipe. [C'est en fait équivalent à un *envido* automatique par l'équipe qui n'est pas en *alver*, ce qui est toujours à leur avantage puisqu'ils n'ont rien à perdre en misant à ce moment.]
 
-When a team is on *alver*, they are allowed to look privately at each other's cards, passing them around the table as in the case of an *envido*, before deciding whether to play. If they decide to play the other team can also look at each other's cards.
+Quand une équipe est en *alver*, ses membres sont autorisés à regarder privément les cartes des autres, en les faisant circuler sur la table comme dans le cas d'un *envido*, avant de décider de jouer. S'ils décident de jouer, l'autre équipe peut aussi regarder les cartes de leurs partenaires.
 
-If both teams are on *alver*, having 11 points each, there is no betting. All players are allowed to look their partners' cards (but of course not the cards of their opponents). The cards are played out in three tricks, the winners of the majority of tricks scoring 1 point and thereby winning the game.
+Si les deux équipes sont en *alver*, ayant chacune 11 points, il n'y a pas de mise. Tous les joueurs sont autorisés à regarder les cartes de leurs partenaires (mais bien sûr pas celles de leurs adversaires). Les cartes sont jouées en trois levées, les gagnants de la majorité des levées marquant 1 point et remportant ainsi la partie.
 
-If the dealer's team is on *alver* they do not score anything for turning up the 4 of trumps as the trump indicator - it is not possible to use the point from this to win the game.
+Si l'équipe du donneur est en *alver*, elle ne marque rien pour avoir retourné le 4 d'atout comme indicateur d'atout — il n'est pas possible d'utiliser le point obtenu ainsi pour gagner la partie.
 
 ### Communication
 
-Players are allowed to speak freely during the game, to ask questions, give suggestions or give information which may be true or false. Also they are allowed to communicate by visual signals. The usual code of signs for the high trumps is:
+Les joueurs sont autorisés à parler librement pendant le jeu, à poser des questions, donner des suggestions ou donner des informations qui peuvent être vraies ou fausses. Ils sont également autorisés à communiquer par des signaux visuels. Le code de signes habituel pour les atouts élevés est :
 
-- **4 of trumps:** move the eyebrows. 
+- **4 d'atout** : hausser les sourcils.
 
-- **3 of trumps:** wink with one eye. 
+- **3 d'atout** : cligner un œil.
 
-- **2 of trumps:** show the tip of the tongue.
+- **2 d'atout** : montrer le bout de la langue.
 
-- **King of trumps:** move one cheek with the tongue.
+- **Roi d'atout** : remuer une joue avec la langue.
 
-- ** Horse of trumps:** move the shoulders.
+- **Cavalier d'atout** : remuer les épaules.
 
-- ** Jack of trumps:** make a "finger purse" signal, like the "che vuoi" sign described [here](https://en.wikipedia.org/wiki/Che_vuoi).
+- **Valet d'atout** : faire un signe de « bourse aux doigts », comme le signe « che vuoi » décrit [ici](https://en.wikipedia.org/wiki/Che_vuoi).
 
-- ** Ace of trumps:** show one finger, for example by holding only one finger behind your cards.
+- **As d'atout** : montrer un doigt, par exemple en ne tenant qu'un doigt derrière ses cartes.
 
-Players can use these to indicate to their partners what useful cards they hold while the opponents are not watching, or may use false signals to mislead the opponents. Players are free to invent and use additional or different signals if they wish.
+Les joueurs peuvent utiliser ces signaux pour indiquer à leurs partenaires quelles cartes utiles ils détiennent pendant que les adversaires ne regardent pas, ou peuvent utiliser de faux signaux pour tromper les adversaires. Les joueurs sont libres d'inventer et d'utiliser des signaux supplémentaires ou différents s'ils le souhaitent.
 
-## Scoring
+## Comptage des points
 
-The stones begin in a common supply in the centre of the table. A member of each team acts as scorer, and stones from the supply are kept in front of each scorer to indicate the team's current score. The first six points scored by a team are known as *malas* (bad points) and the second six are *buenas* (good points). So a score of 4 may be expressed as *'4 malas'* and a score of 9 would be *'3 buenas'*.
+Les pierres commencent dans une réserve commune au centre de la table. Un membre de chaque équipe fait office de compteur, et des pierres de la réserve sont gardées devant chaque compteur pour indiquer le score actuel de l'équipe. Les six premiers points marqués par une équipe sont appelés *malas* (mauvais points) et les six suivants sont *buenas* (bons points). Ainsi un score de 4 peut être exprimé comme *'4 malas'* et un score de 9 serait *'3 buenas'*.
 
-*Malas* (bads) are counted by taking ordinary stones from the supply. *Buenas* (goods) are indicated by taking one of the special stones. For example, if a team has 2 goods, this is represented by one special stone and one ordinary stone, for 4 goods would be represented one special stone and 3 ordinary stones, and 5 bads would just be 5 ordinary stones.
+Les *malas* (mauvais) sont comptées en prenant des pierres ordinaires dans la réserve. Les *buenas* (bons) sont indiquées en prenant une pierre spéciale. Par exemple, si une équipe a 2 bons, cela est représenté par une pierre spéciale et une pierre ordinaire, pour 4 bons ce serait une pierre spéciale et 3 pierres ordinaires, et 5 mauvais seraient simplement 5 pierres ordinaires.
 
-When a team gets to 6 points, also known as *fuera de malas* (out of bads) their scorer can either return the ordinary stones to the supply, or keep the 6 stones until they score more points. It is perhaps safer to keep the 6 ordinary stones until the next point is scored, as a reminder to take a special stone. If a scorer returns the ordinary stones and then accidentally takes an ordinary stone instead of a special stone when they next score, their score returns to 1 bad (1 point) instead of 1 good (7 points). However, if the scores are 6-5 the team that is *fuera de malas* must return their ordinary stones as the team with 5 bads needs 5 ordinary stones to show their score.
+Quand une équipe atteint 6 points, aussi appelé *fuera de malas* (sorti des mauvais), son compteur peut soit retourner les pierres ordinaires à la réserve, soit garder les 6 pierres jusqu'à ce qu'elle marque d'autres points. Il est peut-être plus sûr de garder les 6 pierres ordinaires jusqu'à ce que le point suivant soit marqué, comme rappel de prendre une pierre spéciale. Si un compteur retourne les pierres ordinaires et prend accidentellement une pierre ordinaire au lieu d'une pierre spéciale au score suivant, son score retourne à 1 mauvais (1 point) au lieu de 1 bon (7 points). Cependant, si les scores sont de 6-5, l'équipe qui est *fuera de malas* doit retourner ses pierres ordinaires car l'équipe avec 5 mauvais a besoin de 5 pierres ordinaires pour afficher son score.
 
-The first team that achieves a score of 12 points (6 goods) or more wins the game. 
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Paublillo
+La première équipe qui atteint un score de 12 points (6 bons) ou plus gagne la partie.

@@ -2,191 +2,190 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A plain trick-taking game with trumps in which each player has a hand of five cards.
+**But :** Jeu de plis simples avec atouts dans lequel chaque joueur a une main de cinq cartes.
 
 ---
 
 ## Introduction
 
-**Fipsen** is the name given of a number of somewhat different but related games played northern Germany. These are plain-trick games with trumps in which each player is dealt five cards, rather like the English game Nap. In the 19th century various versions of Fipsen were popular farmers' games throughout Schleswig-Holstein and also in parts of Pomerania, North Frisia and Mecklenburg. Over the last century Fipsen has declined in popularity, but versions of it are still enthusiastically played in an area north of Hamburg in a triangle roughly between Pinneberg, Neumünster and Bad Oldesloe, and also in Thedinghausen, about 20km southeast of Bremen. 
+Le **Fipsen** est le nom donné à un certain nombre de jeux quelque peu différents mais apparentés joués dans le nord de l'Allemagne. Ce sont des jeux de plis simples avec atouts dans lesquels chaque joueur reçoit cinq cartes, un peu comme le jeu anglais Nap. Au 19e siècle, diverses versions du Fipsen étaient des jeux de fermiers populaires dans tout le Schleswig-Holstein et aussi dans certaines parties du Pomeranie, de la Frise du Nord et du Mecklembourg. Au cours du siècle dernier, le Fipsen a décliné en popularité, mais des versions en sont encore jouées avec enthousiasme dans une zone au nord de Hambourg, dans un triangle approximatif entre Pinneberg, Neumünster et Bad Oldesloe, et aussi à Thedinghausen, à environ 20 km au sud-est de Brême.
 
-This page is based on a description by Günther Senst of the version played in Prisdorf, which he learned from Jutta Breckwoldt and Inga Schuldt on a cruise with the AIDAdiva from 13th to 27th November 2009, and on subsequent research by Paul Eaton which was published in [The Playing Card Vol 49, No 1](https://i-p-c-s.org/journal/contents/49/1) in 2020.
+Cette page est basée sur une description de Günther Senst de la version jouée à Prisdorf, qu'il a apprise de Jutta Breckwoldt et Inga Schuldt lors d'une croisière avec l'AIDAdiva du 13 au 27 novembre 2009, et sur les recherches ultérieures de Paul Eaton publiées dans [The Playing Card Vol 49, No 1](https://i-p-c-s.org/journal/contents/49/1) en 2020.
 
-## Fipsen in Prisdorf
+## Fipsen à Prisdorf
 
-Fipsen is played in and around Prisdorf, a town to the north of Hamburg, Germany. Tournaments are run simultaneously with Skat tournaments. In 2009 Jutta Breckwoldt said that there were generally 2 or 3 Fipsen tables, and the players were mainly of the older generation. 
+Le Fipsen est joué à Prisdorf et dans les environs, une ville au nord de Hambourg, en Allemagne. Des tournois sont organisés en même temps que les tournois de Skat. En 2009, Jutta Breckwoldt indiquait qu'il y avait généralement 2 ou 3 tables de Fipsen, et que les joueurs étaient principalement de la génération plus âgée.
 
-### Players and Cards
+### Joueurs et cartes
 
-There are four players, each ultimately playing for themselves. On each deal, the highest bidder will play alone against a team consisting of the other three players. Deal and play are clockwise.
+Il y a quatre joueurs, jouant finalement chacun pour soi. À chaque donne, l'enchérisseur le plus haut jouera seul contre une équipe composée des trois autres joueurs. La donne et le jeu se font dans le sens horaire.
 
-There is a three-player version of Fipsen, but this is played only when it proves quite impossible to find a fourth player. The four-player game will be described first.
+Il existe une version à trois joueurs du Fipsen, mais elle n'est jouée que lorsqu'il s'avère impossible de trouver un quatrième joueur. Le jeu à quatre joueurs sera décrit en premier.
 
-A 25-card pack is used. This is made by discarding all the diamonds except the seven from a French-suited Skat pack. The rank of the cards from high to low in clubs, spades and hearts is A (high), K, Q, J, 10, 9, 8, 7. 
+On utilise un jeu de 25 cartes. Il est obtenu en retirant tous les carreaux sauf le sept d'un jeu de Skat à couleurs françaises. Le rang des cartes du plus haut au plus bas en trèfles, piques et cœurs est A (haut), R, D, V, 10, 9, 8, 7.
 
-### Deal
+### Donne
 
-The dealer shuffles and the player to dealer's right is entitled to cut the cards, but often chooses not to. A batch of three cards is dealt to each player, then two cards face down to the table, then two cards to each player, so that each player has a hand of five cards. Three cards are left over, and these are set aside face down, and are not used except in the case of the special bid Kieker. The two cards that are dealt to the table are known as the Skat (as in the game of that name).
+Le donneur bat et le joueur à sa droite est en droit de couper les cartes, mais choisit souvent de ne pas le faire. Un paquet de trois cartes est distribué à chaque joueur, puis deux cartes face contre table sur la table, puis deux cartes à chaque joueur, de sorte que chaque joueur a une main de cinq cartes. Trois cartes restent, et sont mises de côté face contre table, et ne sont pas utilisées sauf dans le cas de l'enchère spéciale Kieker. Les deux cartes distribuées sur la table sont appelées le Skat (comme dans le jeu du même nom).
 
-### Bidding and Game Values
+### Enchères et valeurs de jeu
 
-The bidding determines which player will play alone against the other three.
+Les enchères déterminent quel joueur jouera seul contre les trois autres.
 
-Vorhand, the player to the left of the dealer, speaks first. He may bid, undertaking to win at least a stated number of tricks, or he may pass. The number of tricks bid is also the basic value of the game in points. So the lowest bid, which is 2 tricks, has a basic value of 2 points, and a bid to win all 5 tricks has a basic value of 5 points. The actual value of the game is calculated by applying doubles to the basic value, according to the circumstances.
+Vorhand, le joueur à la gauche du donneur, parle en premier. Il peut enchérir, s'engageant à gagner au moins un nombre déterminé de plis, ou il peut passer. Le nombre de plis enchéris est aussi la valeur de base du jeu en points. Ainsi, l'enchère la plus basse, qui est de 2 plis, a une valeur de base de 2 points, et une enchère de gagner les 5 plis a une valeur de base de 5 points. La valeur réelle du jeu est calculée en appliquant des doubles à la valeur de base, selon les circonstances.
 
-Each of the following causes the game value to be doubled:
+Chacun des éléments suivants double la valeur du jeu :
 
-- **Hand game** - the bidder plays without using the Skat (see below).
+- **Jeu de main** — l'enchérisseur joue sans utiliser le Skat (voir ci-dessous).
 
-- **Ruten** - the bidder chooses diamonds as the trump suit, so that there is only one trump.
+- **Ruten** — l'enchérisseur choisit les carreaux comme couleur d'atout, de sorte qu'il n'y a qu'un seul atout.
 
-- **Durch** - the bidder wins all 5 tricks (although he may have bid fewer than 5).
+- **Durch** — l'enchérisseur gagne les 5 plis (bien qu'il ait pu enchérir moins de 5).
 
-- **Lost game** - if the bidder fails to win as many tricks as were bid, he scores minus twice the amount he would have won if successful.
+- **Jeu perdu** — si l'enchérisseur échoue à gagner autant de plis qu'il a enchéri, il marque moins deux fois le montant qu'il aurait gagné en cas de succès.
 
-**Examples:** 
+**Exemples :**
 
-- **3 - Hand:** the value is 3 x 2 = 6, but -12 if the bidder fails to win 3 tricks
+- **3 - Jeu de main :** la valeur est 3 × 2 = 6, mais -12 si l'enchérisseur échoue à gagner 3 plis.
 
-- **4 - Ruten - Durch:** the value is 4 x 2 (Ruten) x 2 (Durch) = 16 if the bidder wins all 5 tricks. If the bidder wins the first 4 tricks and leads to the fifth but fails to win it, this is a lost Durch worth -32 points.
+- **4 - Ruten - Durch :** la valeur est 4 × 2 (Ruten) × 2 (Durch) = 16 si l'enchérisseur gagne les 5 plis. Si l'enchérisseur gagne les 4 premiers plis et mène au cinquième mais échoue à le gagner, c'est un Durch perdu valant -32 points.
 
-If Vorhand bids, the game is his unless it is taken away by another player bidding higher. The next player to his left can either bid higher or pass. If the second player bids higher Vorhand can "hold" the bid (undertaking to play an equally valuable game himself) or he can pass (relinquishing the game to the other bidder) or he can bid higher.
+Si Vorhand enchérit, le jeu est à lui sauf s'il est repris par un autre joueur enchérissant plus haut. Le joueur suivant à sa gauche peut soit enchérir plus haut soit passer. Si le deuxième joueur enchérit plus haut, Vorhand peut « tenir » l'enchère (s'engageant à jouer un jeu d'égale valeur lui-même) ou il peut passer (abandonnant le jeu à l'autre enchérisseur) ou il peut enchérir plus haut.
 
-A higher bid is a bid for more tricks, or a bid for the same number of tricks with more doubles. In the bidding, tricks always have priority over doubles. An example of an ascending sequence of bids is: 2 - 2 Hand - 2 Ruten Hand - 3 - 3 Hand etc. Some bids are of equal value - for example 3 Hand and 3 Ruten, since Hand and Ruten are each worth one double. Therefore neither of these overcalls the other, and a player who holds 3 Ruten can play 3 Hand and vice versa.
+Une enchère plus haute est une enchère pour plus de plis, ou une enchère pour le même nombre de plis avec plus de doubles. Dans les enchères, les plis ont toujours priorité sur les doubles. Un exemple de séquence croissante d'enchères est : 2 - 2 Jeu de main - 2 Ruten Jeu de main - 3 - 3 Jeu de main, etc. Certaines enchères sont de valeur égale — par exemple 3 Jeu de main et 3 Ruten, puisque Jeu de main et Ruten valent chacun un double. Donc ni l'une ni l'autre ne surclasse l'autre, et un joueur qui détient 3 Ruten peut jouer 3 Jeu de main et vice-versa.
 
-The bidding between Vorhand and the next player continues until one of them passes. Only when this happens does the third player speak, either bidding higher than the last bid or passing. The bidding then continues between the third player and the survivor of the bidding between the first two, the earlier bidder always having the right to hold, and when this is resolved the fourth player can bid against the survivor or pass. 
+Les enchères entre Vorhand et le joueur suivant continuent jusqu'à ce que l'un d'eux passe. Ce n'est qu'à ce moment que le troisième joueur parle, soit en enchérissant plus haut que la dernière enchère, soit en passant. Les enchères se poursuivent ensuite entre le troisième joueur et le survivant des enchères entre les deux premiers, le premier enchérisseur ayant toujours le droit de tenir, et une fois cela résolu, le quatrième joueur peut enchérir contre le survivant ou passer.
 
-It is not necessary to begin with the lowest possible bid, or to make the minimum bid needed to overcall another player during the auction. The first bidder can start with a bid of more than 2 tricks, and this is often sensible. For example, if you expect to win at least 3 tricks you should bid 3, to increase the basic value of your game. The winner of the bidding can score extra doubles by playing without the Skat, making diamonds trumps or winning every trick, but the number of tricks bid and the basic value of the game cannot be increased after winning the bidding.
+Il n'est pas nécessaire de commencer par l'enchère la plus basse possible, ni de faire l'enchère minimum nécessaire pour surclasser un autre joueur pendant les enchères. Le premier enchérisseur peut commencer avec une enchère de plus de 2 plis, ce qui est souvent judicieux. Par exemple, si vous vous attendez à gagner au moins 3 plis, vous devriez enchérir 3, pour augmenter la valeur de base de votre jeu. Le gagnant des enchères peut marquer des doubles supplémentaires en jouant sans le Skat, en choisissant les carreaux comme atout ou en gagnant tous les plis, mais le nombre de plis enchéris et la valeur de base du jeu ne peuvent plus être augmentés après avoir gagné les enchères.
 
-If all four players pass, the cards are thrown in and the same dealer shuffles and deals again.
+Si les quatre joueurs passent, les cartes sont jetées et le même donneur bat et redistribue.
 
-### The Play
+### Le jeu
 
-If the final bid was a simple number, 2, 3, 4 or 5, the bidder can pick up the two Skat cards, add them to his hand, and discard any two cards face down. He then chooses and announces the trump suit.
+Si l'enchère finale était un simple nombre, 2, 3, 4 ou 5, l'enchérisseur peut ramasser les deux cartes du Skat, les ajouter à sa main, et défausser deux cartes face contre table. Il choisit alors et annonce la couleur d'atout.
 
-Alternatively, the bidder can play without looking at the Skat, which doubles the value of the game (Hand Game), and simply announce the trump suit. The bidder may choose to do this even if "Hand" was not mentioned in the bid, but if the final bid included "Hand", the bidder is not allowed to use the Skat.
+Alternativement, l'enchérisseur peut jouer sans regarder le Skat, ce qui double la valeur du jeu (Jeu de main), et annonce simplement la couleur d'atout. L'enchérisseur peut choisir de le faire même si « Jeu de main » n'a pas été mentionné dans l'enchère, mais si l'enchère finale incluait « Jeu de main », l'enchérisseur n'est pas autorisé à utiliser le Skat.
 
-Vorhand leads to the first trick. Players must follow suit if able, and a player who cannot follow suit may play a trump or a card of any other suit. The highest trump, or if none are played the highest card of the suit led wins the trick and the winner leads to the next trick.
+Vorhand mène au premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent, et un joueur qui ne peut pas suivre peut jouer un atout ou une carte de toute autre couleur. Le plus haut atout, ou s'il n'y en a pas la plus haute carte de la couleur menée, gagne le pli et le vainqueur mène au suivant.
 
-When the bidder has won the number of tricks that he bid, he can either stop and just claim his points, or if he has not yet lost a trick he can continue the play by leading to the next trick. If he continues, he is considered to be attempting a Durch. He must now take all the tricks to win the double score for Durch. If he loses a trick, he loses the Durch. For example if the bid was 3 and the bidder looked at the Skat, he can stop after winning the first three tricks for 3 points, or he can carry on to win 6 points if he takes all the tricks or lose 12 points if he loses a trick.
+Lorsque l'enchérisseur a gagné le nombre de plis qu'il a enchéris, il peut soit s'arrêter et réclamer ses points, soit s'il n'a pas encore perdu un pli, il peut continuer en menant au pli suivant. S'il continue, il est considéré comme tentant un Durch. Il doit maintenant gagner tous les plis pour obtenir le double score du Durch. S'il perd un pli, il perd le Durch. Par exemple, si l'enchère était de 3 et que l'enchérisseur a regardé le Skat, il peut s'arrêter après avoir gagné les trois premiers plis pour 3 points, ou il peut continuer pour gagner 6 points s'il gagne tous les plis ou perdre 12 points s'il perd un pli.
 
-If the bid was 5, it automatically includes an announced Durch, so in the absence of other doubles the bidder wins 10 if successful and loses 20 if not. 
+Si l'enchère était de 5, elle inclut automatiquement un Durch annoncé, donc en l'absence d'autres doubles l'enchérisseur gagne 10 en cas de succès et perd 20 sinon.
 
 ### Ruten
 
-*"Ruten"* is the Low German form of *"Raute"** *(=rhombus) and in this context refers to the diamond suit.
+Le « *Ruten* » est la forme bas-allemande de « *Raute* » (= losange) et dans ce contexte désigne la couleur carreau.
 
-If the bidder chooses diamonds, the 7 is the only trump. This makes the game harder to win than a game with an ordinary trump suit, and because of this, a double is applied to the game value. In the bidding, a bid in Ruten is therefore always higher than the equivalent bid in an ordinary suit. So a bidding sequence could be 2 - Ruten 2 - 2 Hand, Ruten - 3 - etc.
+Si l'enchérisseur choisit les carreaux, le 7 est le seul atout. Cela rend le jeu plus difficile à gagner qu'un jeu avec une couleur d'atout ordinaire, et pour cette raison, un double est appliqué à la valeur du jeu. Dans les enchères, une enchère en Ruten est donc toujours supérieure à l'enchère équivalente dans une couleur ordinaire. Ainsi, une séquence d'enchères pourrait être 2 - Ruten 2 - 2 Jeu de main, Ruten - 3 - etc.
 
-**Example:** 3 Ruten Hand scores +3 x 2 x 2 = + 12 if successful; if lose the score is -24.
+**Exemple :** 3 Ruten Jeu de main marque +3 × 2 × 2 = +12 en cas de succès ; en cas d'échec le score est -24.
 
-It is not necessary to mention Ruten in the bidding in order to play Ruten. If Ruten is bid, diamonds **must** be the trump suit, but a player who has not bid Ruten may still choose diamonds to increase the value of the game if, for example, he finds the seven of diamonds in the Skat.
+Il n'est pas nécessaire de mentionner Ruten dans les enchères pour jouer Ruten. Si Ruten est enchéri, les carreaux **doivent** être la couleur d'atout, mais un joueur qui n'a pas enchéri Ruten peut toujours choisir les carreaux pour augmenter la valeur du jeu si, par exemple, il trouve le sept de carreaux dans le Skat.
 
-A player may even choose diamonds as trumps when he does not hold the 7 of diamonds, and try to win his game with aces in the other suits. This is somewhat risky though, as an ace might be trumped by one of the other players who holds the 7 of diamonds and no cards in the suit of the ace. 
+Un joueur peut même choisir les carreaux comme atout alors qu'il ne détient pas le 7 de carreaux, et essayer de gagner son jeu avec des as dans les autres couleurs. C'est cependant quelque peu risqué, car un as pourrait être atouté par un autre joueur qui détient le 7 de carreaux et aucune carte dans la couleur de l'as.
 
 ### Kieker
 
-Kieker is a special bid that ranks between 4 and 5. The verb *"kieken"* is a Low German form of *"kucken"* (to look) and the player who bids a Kieker looks at all five face down cards.
+Kieker est une enchère spéciale qui se situe entre 4 et 5. Le verbe « *kieken* » est une forme bas-allemande de « *kucken* » (regarder) et le joueur qui enchérit un Kieker regarde les cinq cartes face contre table.
 
-A player is allowed to (but is not obliged to) bid a Kieker if his hand contains no pictures - no kings queens or jacks. If the Kieker wins the bidding, the player must briefly show his cards to another player, usually the opponent to his left, to show that the bid is legal. He then picks up the Skat **and** the three cards that were set aside at the end of the deal. He now has a hand of ten cards from which he discards any five cards face down and announces the trump suit. In order to win he must win all five tricks.
+Un joueur est autorisé (mais non obligé) à enchérir un Kieker si sa main ne contient aucune figure — ni roi, ni dame, ni valet. Si le Kieker gagne les enchères, le joueur doit montrer brièvement ses cartes à un autre joueur, généralement à l'adversaire à sa gauche, pour montrer que l'enchère est légale. Il ramasse alors le Skat **et** les trois cartes qui ont été mises de côté à la fin de la donne. Il a maintenant une main de dix cartes dont il défausse cinq cartes face contre table et annonce la couleur d'atout. Pour gagner, il doit gagner les cinq plis.
 
-If the cards the Kieker picked up were so poor that he judges he has no chance of winning, he may give up before the first card is led for -5 points. If he plays he wins 10 points if successful (5 tricks, doubled for Durch) but loses 20 points if he loses a trick.
+Si les cartes que le Kieker a ramassées sont si mauvaises qu'il estime n'avoir aucune chance de gagner, il peut abandonner avant la première carte menée pour -5 points. S'il joue, il gagne 10 points en cas de succès (5 plis, doublé pour le Durch) mais perd 20 points s'il perd un pli.
 
-A Kieker may choose Ruten (diamonds) as trumps for a score of +20 or -40.
+Un Kieker peut choisir Ruten (carreaux) comme atout pour un score de +20 ou -40.
 
 ### Siebener Fips
 
-If at any stage - after the deal, after picking up the Skat, or after picking up five cards in a Kieker - a player holds all four sevens and an ace, this is a Siebener Fips. The player announces it lays these five cards on the table and scores +30 points. This outranks all other bids. 
+Si à n'importe quel stade — après la donne, après avoir ramassé le Skat, ou après avoir ramassé cinq cartes dans un Kieker — un joueur détient les quatre sept et un as, c'est un Siebener Fips. Le joueur l'annonce, pose ces cinq cartes sur la table et marque +30 points. Cela surclasse toutes les autres enchères.
 
 ![scoresheet](../images/trumps/fipsen.png)
 
-### The Scoresheet
+### La feuille de score
 
-The scoresheet has six columns:
+La feuille de score a six colonnes :
 
-- Column 1: number of the current deal
+- Colonne 1 : numéro de la donne en cours
 
-- Columns 2 -5: headed with the player's name. Show each player's running total score.
+- Colonnes 2 à 5 : en-tête avec le nom du joueur. Montre le score cumulé de chaque joueur.
 
-- Column 6: The value of the game played in that deal.
+- Colonne 6 : la valeur du jeu joué lors de cette donne.
 
-### Three-Player Game
+### Jeu à trois joueurs
 
-The bidding, play and scoring remain the same. In the deal eight cards are set aside instead of three, which increases the luck factor. 
+Les enchères, le jeu et le comptage restent les mêmes. Lors de la donne, huit cartes sont mises de côté au lieu de trois, ce qui augmente le facteur chance.
 
-The procedure for a Kieker is slightly different in a three player game. The bidder throws away his original five-card hand and picks up the Skat and the eight cards that were set aside. From these ten cards he discards another five cards face down. He then names trumps and must win all five tricks as usual. 
+La procédure pour un Kieker est légèrement différente dans un jeu à trois joueurs. L'enchérisseur jette sa main originale de cinq cartes et ramasse le Skat et les huit cartes mises de côté. De ces dix cartes, il défausse cinq autres cartes face contre table. Il nomme ensuite les atouts et doit gagner les cinq plis comme d'habitude.
 
-### Tournament Fipsen
+### Tournoi de Fipsen
 
-In a tournament, the players register and are assigned tables and seats, forming four-player tables as far as possible. If the number of players is awkward, there might need to be up to three three-player tables. At the four-player tables 100 deals are played. If three-player tables are needed, these tables play 120 deals. 
+En tournoi, les joueurs s'inscrivent et se voient attribuer des tables et des places, formant des tables de quatre joueurs autant que possible. Si le nombre de joueurs est problématique, il peut y avoir jusqu'à trois tables de trois joueurs. Aux tables de quatre, 100 donnes sont jouées. Si des tables de trois joueurs sont nécessaires, ces tables jouent 120 donnes.
 
-### Variations
+### Variantes
 
-Minimum bid
-In home games, players sometimes agree to play with 3 instead of 2 as the minimum bid.
-Kontra and Rekontra
-** **In home games, people sometimes agree to play with Kontra and Rekontra. After the bidder has chosen trumps, any opponent can say Kontra to double the value of the game. If this happens the bidder can reply Rekontra to double it again. Kontra and Rekontra are not allowed in tournaments. 
+Enchère minimum
+Dans les jeux à domicile, les joueurs conviennent parfois de jouer avec 3 au lieu de 2 comme enchère minimum.
 
-## Fipsen in Großenaspe
+Kontra et Rekontra
+Dans les jeux à domicile, les joueurs conviennent parfois de jouer avec Kontra et Rekontra. Après que l'enchérisseur a choisi les atouts, n'importe quel adversaire peut dire Kontra pour doubler la valeur du jeu. Si cela se produit, l'enchérisseur peut répondre Rekontra pour doubler à nouveau. Kontra et Rekontra ne sont pas autorisés en tournoi.
 
-This is similar to the version played in Fipsen, but uses a complete 32-card pack when there are four players. The dealer shuffles, and usually the cards are not cut. Five cards are dealt to each player, first a packet of three to each, then two cards face down in the centre (the *Skat*) then a packet of two each. The remaining 10 cards are stacked face down as the *Stock*, which is out of play unless a player bids *Kieker* (see below).
+## Fipsen à Großenaspe
 
-Players bid in clockwise order, beginning with the player to the left of the dealer. Each bid must be higher than the last (there is no 'holding'), and a player who does not wish to bid can pass, saying *'weg' *and cannot re-enter the bidding. If any player bids, the bidding continues for as many circuits as necessary until all but one player has passed. If all pass the cards are thrown in and redealt.
+Cette version est similaire à celle jouée à Prisdorf, mais utilise un jeu complet de 32 cartes lorsqu'il y a quatre joueurs. Le donneur bat, et généralement les cartes ne sont pas coupées. Cinq cartes sont distribuées à chaque joueur, d'abord un paquet de trois à chacun, puis deux cartes face contre table au centre (le *Skat*), puis un paquet de deux à chacun. Les 10 cartes restantes sont empilées face contre table comme *Stock*, qui est hors jeu sauf si un joueur enchérit *Kieker* (voir ci-dessous).
 
-A number bid specifies the minimum number of tricks the bidder promises to win, from 1 to 5. In all number bids the final bidder picks up the Skat and discards any 2 of their 7 cards face down. In an ordinary number bid, the bidder can choose any suit as trumps after taking the Skat and discarding, but the bidder can add the word *'Gute'* ('good ones') to the bid, in which case clubs must be made trumps. A *Gute* bid ranks immediately above an ordinary bid at the same level. 
+Les joueurs enchérissent dans l'ordre horaire, en commençant par le joueur à la gauche du donneur. Chaque enchère doit être supérieure à la précédente (il n'y a pas de « tenir »), et un joueur qui ne souhaite pas enchérir peut passer, en disant « *weg* », et ne peut pas revenir dans les enchères. Si un joueur enchérit, les enchères continuent autant de tours que nécessaire jusqu'à ce que tous sauf un joueur aient passé. Si tous passent, les cartes sont jetées et redistribuées.
 
-There are two special bids:
+Une enchère numérique spécifie le nombre minimum de plis que l'enchérisseur s'engage à gagner, de 1 à 5. Dans toutes les enchères numériques, l'enchérisseur final ramasse le Skat et défausse 2 de ses 7 cartes face contre table. Dans une enchère numérique ordinaire, l'enchérisseur peut choisir n'importe quelle couleur comme atout après avoir pris le Skat et défaussé, mais l'enchérisseur peut ajouter le mot « *Gute* » (« bons ») à l'enchère, auquel cas les trèfles doivent être choisis comme atout. Une enchère *Gute* se classe immédiatement au-dessus d'une enchère ordinaire du même niveau.
 
-- ***Kieker*** (also known by the high German equivalent *Gucker*) can only be bid by a player who has no picture cards (King, Queen, Jack). In the bidding it ranks between 4 Gute and 5. The bidder discards their original hand, picks up both the Skat and the Stock, discards any 7 of these 12 cards, chooses the trump suit, and must win all 5 tricks to succeed.
+Il y a deux enchères spéciales :
 
-- ***Fips***. The bidder chooses trumps and must win all 5 tricks with their original cards, without looking at or exchanging the Skat. Fips ranks higher than 5 Gute and Fips Gute (win all 5 tricks with your original cards with clubs trump) is the highest bid of all.
+- ***Kieker*** (aussi connu par l'équivalent haut-allemand *Gucker*) ne peut être enchéri que par un joueur qui n'a pas de figures (Roi, Dame, Valet). Dans les enchères, il se classe entre 4 Gute et 5. L'enchérisseur défausse sa main originale, ramasse le Skat et le Stock, défausse 7 de ces 12 cartes, choisit la couleur d'atout, et doit gagner les 5 plis pour réussir.
 
-Note that in this version of Fipsen there are no 'Hand' bids. In all bids except Fips the Skat is used.
+- ***Fips***. L'enchérisseur choisit les atouts et doit gagner les 5 plis avec ses cartes originales, sans regarder ni échanger le Skat. Fips se classe plus haut que 5 Gute et Fips Gute (gagner les 5 plis avec ses cartes originales avec les trèfles comme atout) est l'enchère la plus élevée de toutes.
 
-The player to dealer's left leads to the first trick and players must follow suit. The winner of each trick leads to the next.
+Notez que dans cette version du Fipsen il n'y a pas d'enchères « Jeu de main ». Dans toutes les enchères sauf Fips, le Skat est utilisé.
 
-- If the bidder succeeds in winning the number of tricks required by the bid, normally the play ends at that point and the bidder scores the points equal to the number of the bid, or twice that number if clubs were trumps.
+Le joueur à la gauche du donneur mène au premier pli et les joueurs doivent suivre la couleur. Le gagnant de chaque pli mène au suivant.
 
-- Having taken the required number of tricks the bidder can opt to continue playing and try to win all the tricks, saying for example *'ich spiele durch'* (I'll play on) or *'ich will alles'* (I want them all). In this case the hand is scored as though the bid were 5.
+- Si l'enchérisseur réussit à gagner le nombre de plis requis par l'enchère, normalement le jeu s'arrête à ce moment et l'enchérisseur marque un nombre de points égal à celui de l'enchère, ou le double si les trèfles étaient atout.
 
-- If the bidder wins at least one trick, but not as many tricks as required by the bid, the bidder is said to be *beet* each of the three opponents scores the bid number, or twice that number if clubs were trumps.
+- Ayant pris le nombre de plis requis, l'enchérisseur peut choisir de continuer et essayer de gagner tous les plis, en disant par exemple « *ich spiele durch* » (je continue) ou « *ich will alles* » (je les veux tous). Dans ce cas, la main est comptée comme si l'enchère était de 5.
 
-- If the bidder loses every trick, the bidder is *pott beet* and each opponent scores 5 points, or 10 if clubs were trumps.
+- Si l'enchérisseur gagne au moins un pli, mais pas autant que requis par l'enchère, l'enchérisseur est dit *beet* et chacun des trois adversaires marque le nombre de l'enchère, ou le double si les trèfles étaient atout.
 
-A **Kieker** scores 10 points, or 20 if clubs were trumps and each opponent scores this amount if it fails. However a Kieker bidder who sees no chance of winning can surrender before the first lead instead of naming trumps, in which case each opponent scores just 5 points rather than 10.
+- Si l'enchérisseur perd tous les plis, il est *pott beet* et chaque adversaire marque 5 points, ou 10 si les trèfles étaient atout.
 
-A **Fips** scores 20 points, or 40 if clubs were trumps.
+Un **Kieker** marque 10 points, ou 20 si les trèfles étaient atout, et chaque adversaire marque ce montant en cas d'échec. Cependant, un enchérisseur Kieker qui ne voit aucune chance de gagner peut se rendre avant la première mise au lieu de nommer les atouts, auquel cas chaque adversaire marque seulement 5 points au lieu de 10.
 
-### Variations
+Un **Fips** marque 20 points, ou 40 si les trèfles étaient atout.
 
-In informal games, an opponent of the bidder can *kloppen* (knock) before playing to the first trick. This doubles the score for the hand.
+### Variantes
 
-**Three-player Fipsen.** We have only brief details of this version, also known as *Karo Fipsen* (Diamond Fipsen). All diamonds except the **Seven** are removed, leaving a 25-card pack. There is no doubling of the score when clubs are trumps, but maybe bids with diamonds trump count double instead, as in Prisdorf Fipsen.
+Dans les jeux informels, un adversaire de l'enchérisseur peut *kloppen* (frapper) avant de jouer au premier pli. Cela double le score de la main.
 
-**Five-player Fipsen.** This can either be played with four active players and dealer sitting out, or with 5 cards dealt to each player so that there are only 5 in the Stock.
+**Fipsen à trois joueurs.** Nous n'avons que de brefs détails de cette version, aussi connue sous le nom de *Karo Fipsen* (Fipsen Carreau). Tous les carreaux sauf le **Sept** sont retirés, laissant un jeu de 25 cartes. Il n'y a pas de doublement du score lorsque les trèfles sont atout, mais peut-être que les enchères avec les carreaux comme atout comptent double à la place, comme au Fipsen de Prisdorf.
 
-## Fipsen in Thedinghausen
+**Fipsen à cinq joueurs.** Cela peut se jouer soit avec quatre joueurs actifs et le donneur qui ne joue pas, soit avec 5 cartes distribuées à chaque joueur de sorte qu'il n'y a que 5 dans le Stock.
 
-The version of Fipsen played in Thedinghausen is markedly different from the above games. It is a 5-player game without bidding, in which the trump suit is determined by turning up a card. It is customarily played on the Thursday before Shrove Tuesday at the annual meeting of the *Bauernkör*, which was originally a self-governing body of farmers but is now primarily a social club. 
+## Fipsen à Thedinghausen
 
-The game is traditionally played for locally baked currant buns known as *Hedewigs*. At the start of each game, each of the 5 players contributes 80 cents, the price of one bun. The winner of the game receives a slip of paper which can be used to claim the 5 buns financed by the initial contributions. These buns are usually eaten on the spot, slathered in butter, or may be taken home to enjoy later.
+La version du Fipsen jouée à Thedinghausen est nettement différente des jeux ci-dessus. C'est un jeu à 5 joueurs sans enchères, dans lequel la couleur d'atout est déterminée en retournant une carte. Il est traditionnellement joué le jeudi avant le Mardi gras lors de l'assemblée annuelle du *Bauernkör*, qui était à l'origine un organe d'autogouvernance des agriculteurs mais qui est désormais principalement un club social.
 
-A 32-card Skat pack is used. The dealer shuffles and then deals a packet of three cards to each player, turns up the next card to determine the trump suit, and then deals another packet of two cards each. The remaining 6 cards are set aside and not used. If the turned up trump is an Ace, the holder (if any) of the Seven of trumps may exchange it for the Ace.
+Le jeu se joue traditionnellement pour des petits pains aux raisins secs cuits localement appelés *Hedewigs*. Au début de chaque jeu, chacun des 5 joueurs contribue 80 centimes, le prix d'un petit pain. Le gagnant du jeu reçoit un billet qui peut être utilisé pour réclamer les 5 petits pains financés par les contributions initiales. Ces petits pains sont généralement mangés sur place, généreusement beurrés, ou peuvent être emportés à la maison pour plus tard.
 
-The player to dealer's left leads to the first trick. Players must follow suit and the winner of each trick leads to the next. When all five tricks have been played the cards are gathered and the turn to deal passes to the next player in clockwise order.
+On utilise un jeu de Skat de 32 cartes. Le donneur bat, puis distribue un paquet de trois cartes à chaque joueur, retourne la carte suivante pour déterminer la couleur d'atout, puis distribue un autre paquet de deux cartes à chacun. Les 6 cartes restantes sont mises de côté et ne sont pas utilisées. Si l'atout retourné est un As, le détenteur (s'il y en a un) du Sept d'atout peut l'échanger contre l'As.
 
-The aim of the game is to win ten tricks over however many deals that takes. An account is kept of the number of tricks won by each player, and as soon as a player wins their tenth trick, play ceases and the player claims their prize. If another game is to be played everyone's score starts again from zero.
+Le joueur à la gauche du donneur mène au premier pli. Les joueurs doivent suivre la couleur et le gagnant de chaque pli mène au suivant. Lorsque les cinq plis ont été joués, les cartes sont ramassées et le tour de donne passe au joueur suivant dans l'ordre horaire.
 
-If there is a deal in which a player wins all 5 tricks, those tricks do not count towards the ten required to win the game. Instead the player who won all the tricks receives an extra prize of 5 *Hedewigs*, paid for by an extra contribution of 1 Euro from each of the other four players. The game then continues with the players' cumulative scores unchanged.
+Le but du jeu est de gagner dix plis sur autant de donnes que cela prend. On compte le nombre de plis gagnés par chaque joueur, et dès qu'un joueur gagne son dixième pli, le jeu s'arrête et le joueur réclame son prix. Si un autre jeu doit être joué, le score de chacun recommence à zéro.
 
-## Mecklenburg Fips
+S'il y a une donne dans laquelle un joueur gagne les 5 plis, ces plis ne comptent pas pour les dix nécessaires pour gagner le jeu. Le joueur qui a gagné tous les plis reçoit plutôt un prix supplémentaire de 5 *Hedewigs*, financé par une contribution supplémentaire de 1 euro de chacun des quatre autres joueurs. Le jeu continue ensuite avec les scores cumulés des joueurs inchangés.
 
-Two versions of Fipsen are briefly described in a Mecklenburg dialect dictionary:* Wossildo-Teuchert Mecklenburgisches Wörterbuch* Vol 2 pp 919-920 (Neumünster: Wachholtz, 1957). They are played by four players with a 25-card pack made by removing all the diamonds except the Ace from a Skat pack. Five cards are dealt to each player and the remaining 5, known as the Dutt, are stacked face down.
+## Fips du Mecklembourg
 
-The first, **Ansegger Fips** ('Auction Fips'), looks like an ancestor of Prisdorf Fips. The possible bids are numbers from 1 to 5, which can be overcalled by a bid for the same number of tricks with diamonds (*Ruten*) as trumps. If all pass the cards are thrown in and there is a new deal. A bid of 5 is also known as *Fips*, which can be overcalled by *Rutenfips*. Apparently the Dutt cards are not used. 
+Deux versions du Fipsen sont brièvement décrites dans un dictionnaire de dialecte du Mecklembourg : *Wossildo-Teuchert Mecklenburgisches Wörterbuch* Vol 2 pp 919-920 (Neumünster : Wachholtz, 1957). Elles se jouent à quatre joueurs avec un jeu de 25 cartes obtenu en retirant tous les carreaux sauf l'As d'un jeu de Skat. Cinq cartes sont distribuées à chaque joueur et les 5 restantes, appelées Dutt, sont empilées face contre table.
 
-In the second, **Duttfips**, if no one bids, the player to dealer's left, takes the 5 Dutt cards, discards any 5 cards, chooses trumps, and must make most tricks to win (presumably this means more than any other single player). Another player may bid *“Ruten oewer!”* to take over the right to use the Dutt and the obligation to win most tricks, but must play with diamonds as trumps. Or any player may bid *Fips* undertaking to win all 5 tricks, or the highest bid *Rutenfips* to do the same with diamonds as trumps (it is unclear whether the Dutt can be used for *Fips* or *Rutenfips*).
+La première, **Ansegger Fips** (« Fips aux enchères »), ressemble à un ancêtre du Fipsen de Prisdorf. Les enchères possibles sont des nombres de 1 à 5, qui peuvent être surclassées par une enchère pour le même nombre de plis avec les carreaux (*Ruten*) comme atout. Si tous passent, les cartes sont jetées et il y a une nouvelle donne. Une enchère de 5 est aussi appelée *Fips*, qui peut être surclassée par *Rutenfips*. Apparemment, les cartes du Dutt ne sont pas utilisées.
 
-Unfortunately Wossildo and Teuchert do not explain the scoring in these games.
+Dans la deuxième, **Duttfips**, si personne n'enchérit, le joueur à la gauche du donneur prend les 5 cartes du Dutt, défausse 5 cartes, choisit les atouts, et doit gagner la plupart des plis pour réussir (probablement que cela signifie plus que n'importe quel autre joueur seul). Un autre joueur peut enchérir « *Ruten oewer !* » pour reprendre le droit d'utiliser le Dutt et l'obligation de gagner la plupart des plis, mais doit jouer avec les carreaux comme atout. Ou n'importe quel joueur peut enchérir *Fips* en s'engageant à gagner les 5 plis, ou l'enchère la plus élevée *Rutenfips* pour faire de même avec les carreaux comme atout (il n'est pas clair si le Dutt peut être utilisé pour *Fips* ou *Rutenfips*).
 
-Home Page > Classified Index > Trick Taking Games > Trump group > Fipsen
+Malheureusement, Wossildo et Teuchert n'expliquent pas le comptage dans ces jeux.

@@ -3,170 +3,168 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** The Belgian (Flemish) version of the four-player compendium card game King consisting of a series of 10 deals with different objectives.
+**But :** La version belge (flamande) du jeu de cartes à contrats King pour quatre joueurs, composée d'une série de 10 donnes avec des objectifs différents.
 
 ---
 
 ## Introduction
 
-This is the Flemish (Belgian) version of the compendium trick-taking game **King**. It normally consists of a series of 10 deals played according to different rules. In the first six deals players try to avoid taking tricks or taking certain cards in tricks, since the winners of these tricks or cards score penalty points (*strafpunten*). In the last four deals (one dealt by each player) players try to get rid of their penalty points by scoring positive points for winning tricks.
+Il s'agit de la version flamande (belge) du jeu de plis à contrats **King**. Il se compose normalement d'une série de 10 donnes jouées selon des règles différentes. Dans les six premières donnes, les joueurs cherchent à éviter de remporter des plis ou certaines cartes dans les plis, car les gagnants de ces plis ou cartes marquent des points de pénalité (*strafpunten*). Dans les quatre dernières donnes (une distribuée par chaque joueur), les joueurs cherchent à se débarrasser de leurs points de pénalité en marquant des points positifs pour avoir remporté des plis.
 
-The rules vary a little from place to place. A typical version of the basic game will be described first followed by some common variants. Finally we describe Dubbelkingen ('double king') a 20-deal version for more serious players, in which instead of playing the deals in a fixed sequence players can choose what rules to play next based on the cards in their hands.
+Les règles varient un peu d'un endroit à l'autre. Une version typique du jeu de base sera d'abord décrite, suivie de quelques variantes courantes. Enfin, nous décrivons le Dubbelkingen (« double roi »), une version à 20 donnes pour les joueurs plus sérieux, dans laquelle au lieu de jouer les donnes dans un ordre fixe, les joueurs peuvent choisir les règles à jouer ensuite en fonction des cartes qu'ils ont en main.
 
-*This page is partly based on information from Gilbert Vanheule, Andreas Duerloo, Sebastiaan Marynissen, Günther Senst, Christian de Ryck and the International World Whist Association.*
+*Cette page est partiellement basée sur des informations de Gilbert Vanheule, Andreas Duerloo, Sebastiaan Marynissen, Günther Senst, Christian de Ryck et de l'International World Whist Association.*
 
-## Players and Cards
+## Joueurs et cartes
 
-A standard 52-card pack is used, with the usual suits hearts (*harten*), diamonds (*ruiten* or *koeken*), clubs (*klaveren*) and spades (*schuppen*). In Belgium the cards usually have the French indices **1** for Ace, **R** for King (Flemish: *Heer*, French: *Roi*), **D** for Queen (*Dame* in French and Flemish, though the Dutch word *Vrouw* is sometimes used) and **V** for Jack (Flemish: *Boer* or *Zot*, French: *Valet*). The cards in each suit rank as ususal from Ace (high) down to 2 (low): **1-R-D-V-10-9-8-7-6-5-4-3-2**.
+On utilise un jeu standard de 52 cartes, avec les couleurs habituelles : ![cœur] (*harten*), ![carreau] (*ruiten* ou *koeken*), ![trèfle] (*klaveren*) et ![pique] (*schuppen*). En Belgique, les cartes ont généralement les indices français **1** pour l'As, **R** pour le Roi (flamand : *Heer*, français : *Roi*), **D** pour la Dame (*Dame* en français et en flamand, bien que le mot néerlandais *Vrouw* soit parfois utilisé) et **V** pour le Valet (flamand : *Boer* ou *Zot*, français : *Valet*). Les cartes de chaque couleur se classent comme d'habitude de l'As (haut) au 2 (bas) : **1-R-D-V-10-9-8-7-6-5-4-3-2**.
 
-Kingen is a game for four players, each playing for themselves. The deal and play are clockwise and the turn to deal passes to the left after each hand.
+Kingen est un jeu pour quatre joueurs, chacun pour soi. La donne et le jeu se font dans le sens horaire et le tour de distribuer passe à la gauche après chaque main.
 
-## The Contracts
+## Les contrats
 
-In the first six deals there are no trumps and the objective is to avoid taking certain tricks or cards. The scores are as follows.
+Dans les six premières donnes, il n'y a pas d'atout et l'objectif est d'éviter de remporter certains plis ou cartes. Les scores sont les suivants.
 
-| Deal | Name | Score |
-| 1 | Slagen (tricks) | 1 penalty point per trick won: total 13. |
-| 2 | Harten (hearts) | 1 penalty point per heart taken in a trick: total 13 |
-| 3 | Heer & Zot (Kings & Jacks) | 1 penalty point per King or Jack taken: total 8 |
-| 4 | Vrouwen (Queens) | 2 penalty points per Queen taken: total 8 |
-| 5 | Hartenheer (King of hearts) | 5 penalty points for whoever takes the King of hearts: total 5 |
-| 6 | 7 & Laatste (7th and last) | 2 penalty points for the winner of the 7th trick and 3 for the winner of the last trick: total 5 |
+| Donne | Nom | Score |
+| 1 | Slagen (plis) | 1 point de pénalité par pli remporté : total 13. |
+| 2 | Harten (cœurs) | 1 point de pénalité par ![cœur] pris dans un pli : total 13 |
+| 3 | Heer & Zot (Rois et Valets) | 1 point de pénalité par Roi ou Valet pris : total 8 |
+| 4 | Vrouwen (Dames) | 2 points de pénalité par Dame prise : total 8 |
+| 5 | Hartenheer (Roi de cœurs) | 5 points de pénalité pour celui qui prend le Roi de ![cœur] : total 5 |
+| 6 | 7 & Laatste (7e et dernier) | 2 points de pénalité pour le gagnant du 7e pli et 3 pour le gagnant du dernier pli : total 5 |
 
-At the end of the sixth deal the total of the four players' scores will be 52 penalty points.
+À la fin de la sixième donne, le total des scores des quatre joueurs sera de 52 points de pénalité.
 
-In the last four deals there is a trump suit (determined by the last card dealt to the dealer) the object is to win tricks. Players score 1 positive point for each trick taken, so there are 13 points in each of these deals and 52 positive points altogether. 
+Dans les quatre dernières donnes, il y a une couleur d'atout (déterminée par la dernière carte distribuée au donneur) et le but est de remporter des plis. Les joueurs marquent 1 point positif pour chaque pli remporté, soit 13 points dans chacune de ces donnes et 52 points positifs au total.
 
-## Deal
+## Distribution
 
-The first dealer is chosen by any convenient random method. Before the first deal the cards are thoroughly shuffled by the dealer and cut by the player to dealer's right. At the end of the play, when the deal has been scored, the cards are gathered up and the turn to deal passes to the left. It is customary **not** to shuffle the deck between deals. The dealer simply offers the deck to the player to their right (the previous dealer) to cut or tap without cutting. 
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique. Avant la première donne, les cartes sont soigneusement mélangées par le donneur et coupées par le joueur à sa droite. À la fin du jeu, une fois la donne comptée, les cartes sont rassemblées et le tour de distribuer passe à la gauche. Il est d'usage de **ne pas** mélanger le jeu entre les donnes. Le donneur se contente d'offrir le jeu au joueur à sa droite (le donneur précédent) pour couper ou taper sans couper.
 
-The entire deck is dealt out clockwise, first a batch of four cards to each player, then four each again and finally five each, so that each player has 13 cards. In the last four deals, the dealer shows the very last card they deal to themselves (the bottom card of the pack), and the suit of this card becomes trumps for that deal. 
+Le jeu entier est distribué dans le sens horaire, d'abord un lot de quatre cartes à chaque joueur, puis quatre à nouveau et enfin cinq, de sorte que chaque joueur a 13 cartes. Dans les quatre dernières donnes, le donneur montre la toute dernière carte qu'il se distribue à lui-même (la carte du bas du jeu), et la couleur de cette carte devient l'atout pour cette donne.
 
-## Play
+## Jeu
 
-The player to dealer's left leads to the first trick and the winner of each trick leads to the next. The Flemish word for leading is *uitkomen* (literally 'to come out').
+Le joueur à la gauche du donneur entame le premier pli et le gagnant de chaque pli entame le suivant. Le mot flamand pour entamer est *uitkomen* (littéralement « sortir »).
 
-Any card may be led to a trick. Each of the other players in turn must follow suit (*volgen*) if possible. A player who has no card of the suit led may play any card. When there are no trumps, whoever plays the highest card of the suit that was led wins the trick. In contracts with trumps, if any trumps are played to a trick the highest trump wins it.
+N'importe quelle carte peut être entamée. Chacun des autres joueurs à son tour doit suivre la couleur (*volgen*) s'il le peut. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte. Quand il n'y a pas d'atout, celui qui joue la plus haute carte de la couleur entamée remporte le pli. Dans les contrats avec atout, si des atouts sont joués dans un pli, le plus haut atout l'emporte.
 
-In Flemish, playing a trump on a lead of a non-trump suit in Flemish is called *kopen* (buying). When a trick has been trumped it can be overtrumped by a subsequent player playing a high trump (*overkopen*). Neither trumping nor overtrumping is compulsory in this basic version of Kingen. 
+En flamand, jouer un atout sur une entame d'une couleur non-atout est appelé *kopen* (acheter). Quand un pli a été coupé, il peut être surcoupé par un joueur ultérieur jouant un atout supérieur (*overkopen*). Ni le coupé ni le surcoupé ne sont obligatoires dans cette version de base de Kingen.
 
-As in most trick-taking games, players are allowed to look at the cards in the last trick that was played even after it has been collected by the winner, but players are not allowed to change their mind about playing a card once it has touched the table: '*tafel plakt*' ('table sticks'). 
+Comme dans la plupart des jeux de plis, les joueurs sont autorisés à regarder les cartes du dernier pli joué même après qu'il a été ramassé par le gagnant, mais les joueurs ne sont pas autorisés à changer d'avis une fois qu'une carte a touché la table : *« tafel plakt »* (la table colle).
 
-## Scoring
+## Comptage
 
-A cumulative score is kept for each player. The first 6 deals are all played for penalty points, which are negative, so after the sixth deal everyone's score will be negative or at best zero. The scores of the four players at that point should total -52.
+Un score cumulé est tenu pour chaque joueur. Les 6 premières donnes sont toutes jouées pour des points de pénalité, qui sont négatifs, donc après la sixième donne le score de tout le monde sera négatif ou au mieux zéro. Les scores des quatre joueurs à ce stade devraient totaliser -52.
 
-The last four deals are played for positive points, 13 in each deal for a total of +52. Therefore at the end of the game the scores of the four players should add up to zero.
+Les quatre dernières donnes sont jouées pour des points positifs, 13 par donne pour un total de +52. Par conséquent, à la fin du jeu, les scores des quatre joueurs devraient s'additionner à zéro.
 
-If playing for stakes, theses scores represent the amount of money each player should pay (if negative) or receive (if positive). 
+En cas de jeu avec mises, ces scores représentent le montant d'argent que chaque joueur doit payer (si négatif) ou recevoir (si positif).
 
-## Variations
+## Variantes
 
-### Deal
+### Distribution
 
-The cards are always dealt in batches, but the custom on the size of the batches vary. For example some deal a batch of 3 each and then five batches of 2 each. Some do this for the negative games and then deal the positive games in batches of 4, then 5, then 4.
+Les cartes sont toujours distribuées par lots, mais la coutume concernant la taille des lots varie. Par exemple, certains distribuent un lot de 3 à chacun puis cinq lots de 2. Certains font cela pour les jeux négatifs puis distribuent les jeux positifs par lots de 4, puis 5, puis 4.
 
 ### Scores
 
-In the King of hearts deal, some people score 4 penalty points for the King rather than 5. In this case in the sixth deal the 7th trick and the last trick are worth 3 points each.
+Dans la donne du roi de cœurs, certains marquent 4 points de pénalité pour le roi plutôt que 5. Dans ce cas, dans la sixième donne, le 7e pli et le dernier pli valent 3 points chacun.
 
-A few players replace the King of hearts deal with a deal in which some other card, for example the 10 of diamonds, is the sole penalty card. 
+Quelques joueurs remplacent la donne du roi de cœurs par une donne dans laquelle une autre carte, par exemple le 10 de ![carreau], est la seule carte pénalisante.
 
-### Lead Restrictions
+### Restrictions d'entame
 
-Some play that in the 'no hearts' and 'no king of hearts' deals a player is not allowed to lead a heart unless they have nothing but hearts left. In 'no hearts' this restriction continues to apply even after hearts have been led or discarded - there is no concept of hearts then being 'broken', as for example in the American version of Hearts.
+Certains jouent que dans les donnes « pas de cœurs » et « pas de roi de cœurs », un joueur n'est pas autorisé à entamer un ![cœur] sauf s'il n'a plus que des cœurs. Dans « pas de cœurs », cette restriction continue à s'appliquer même après que des cœurs ont été entamés ou défaussés — il n'y a pas de concept de cœurs « cassés », comme par exemple dans la version américaine du Hearts.
 
-### Play of Penalty Cards
+### Jeu des cartes pénalisantes
 
-In the deals with penalty cards (deals 2-5) some versions of the rules require a player who cannot follow suit to discard a penalty card if possible. This is to prevent players from collaborating by discarding harmless cards on each others' tricks and saving their penalty cards to give to the other players.
+Dans les donnes avec cartes pénalisantes (donnes 2-5), certaines versions des règles exigent qu'un joueur qui ne peut pas suivre se défausse d'une carte pénalisante si possible. Cela empêche les joueurs de collaborer en se défaussant de cartes inoffensives sur les plis des uns et des autres et en gardant leurs cartes pénalisantes pour les donner aux autres joueurs.
 
-For the same reason some rules also require that when following suit, any player holding a penalty card in that suit must play it a higher card of the suit has already been played to the trick. For example in the 'no Kings or Jacks' deal, when a club is led and the second player plays the ![club](../images/internat/club.gif)Q, if the third or fourth player to the trick holds the ![club](../images/internat/club.gif)J they must play it to that trick.
+Pour la même raison, certaines règles exigent également que lorsqu'on suit, tout joueur détenant une carte pénalisante de cette couleur doit la jouer si une carte supérieure de cette couleur a déjà été jouée dans le pli. Par exemple dans la donne « pas de rois ni valets », quand un ![trèfle] est entamé et que le deuxième joueur joue le D de ![trèfle], si le troisième ou quatrième joueur au pli détient le V de ![trèfle], il doit le jouer à ce pli.
 
-### Trumping and Overtrumping
+### Coupé et surcoupé
 
-In trump games, some rules say that when trumps are led, each player must beat the highest trump so far played to the trick by playing a higher trump if they have one. Also, when a non-trump suit is led a player who has no cards of that suit that must play a trump if they have one. When a non-trump suit has been trumped, if a subsequent player is also unable to follow suit they must overtrump with a higher trump if possible.
+Dans les jeux d'atout, certaines règles disent que lorsque des atouts sont entamés, chaque joueur doit battre le plus haut atout joué jusqu'à présent dans le pli en jouant un atout supérieur s'il en a un. De plus, lorsqu'une couleur non-atout est entamée, un joueur qui n'a pas de carte de cette couleur doit jouer un atout s'il en a un. Quand une couleur non-atout a été coupée, si un joueur ultérieur ne peut pas non plus suivre, il doit surcouper avec un atout supérieur si possible.
 
-There are different opinions about what happens when a non-trump is led, a player trumps, and a subsequent player is unable to follow suit but has no trumps high enough to beat the previous trump. Some say that this player is still obliged to play a trump even though this trump cannot win; others allow the player to discard from another non-trump suit. Yet others say that that a player is not allowed to undertrump (unless they have nothing but trumps in their hand) and must discard from a different suit.
+Il y a différentes opinions sur ce qui se passe lorsqu'une couleur non-atout est entamée, qu'un joueur coupe, et qu'un joueur ultérieur ne peut pas suivre mais n'a pas d'atout assez haut pour battre l'atout précédent. Certains disent que ce joueur est quand même obligé de jouer un atout même si cet atout ne peut pas gagner ; d'autres autorisent le joueur à se défausser d'une autre couleur non-atout. D'autres encore disent qu'un joueur n'est pas autorisé à sous-couper (sauf s'il n'a que des atouts en main) et doit se défausser d'une couleur différente.
 
-For example diamonds are trumps, a spade is led, and the second player, having no spades, trumps with the ![diamond](../images/internat/diamond.gif)10. If the third player also has no spades but their only trumps are the 8 and 5, the three versions of the rules are:
+Par exemple, les ![carreau] sont l'atout, un ![pique] est entamé, et le deuxième joueur, n'ayant pas de ![pique], coupe avec le 10 de ![carreau]. Si le troisième joueur n'a pas non plus de ![pique] mais que ses seuls atouts sont le 8 et le 5, les trois versions des règles sont :
 
-- the third player must play the ![diamond](../images/internat/diamond.gif)8 or the ![diamond](../images/internat/diamond.gif)5, or
+- le troisième joueur doit jouer le 8 de ![carreau] ou le 5 de ![carreau], ou
 
-- the third player may play any card, or 
+- le troisième joueur peut jouer n'importe quelle carte, ou
 
-- the third player is not allowed to play a diamond, but discard a club or heart in this trick. 
+- le troisième joueur n'est pas autorisé à jouer un ![carreau], mais doit se défausser d'un ![trèfle] ou d'un ![cœur] dans ce pli.
 
-### Sequence of Deals
+### Ordre des donnes
 
-Some reverse the order of deals 3 and 4, playing Queens before Kings and Jacks.
+Certains inversent l'ordre des donnes 3 et 4, jouant les Dames avant les Rois et Valets.
 
-### Choice of trumps
+### Choix des atouts
 
-In the last four deals, instead of using the last card dealt to determine the trump suit, many groups allow the dealer to choose and announce what suit will be trumps on the basis of the cards they are dealt.
+Dans les quatre dernières donnes, au lieu d'utiliser la dernière carte distribuée pour déterminer la couleur d'atout, de nombreux groupes autorisent le donneur à choisir et annoncer la couleur d'atout en fonction des cartes qu'il a reçues.
 
-In these last four deals some give players other than the dealer an opportunity to offer to take over from the dealer the right to choose trumps in exchange for some tricks.
+Dans ces quatre dernières donnes, certains donnent aux joueurs autres que le donneur l'opportunité d'offrir de reprendre au donneur le droit de choisir les atouts en échange de certains plis.
 
-When everyone has looked at their cards, each of the dealer's opponents in turn, starting with the player to dealer's left, may state the number of tricks they are prepared to give to the dealer if allowed to choose trumps. Each offer must be a whole number (1 or more) and must be higher than any previous offers. A player who does not wish to make an offer says 'pass'. Each player has only one opportunity to make an offer. After all three of the other players have spoken, the dealer decides whether to accept the highest offer (if any) or reject it.
+Une fois que chacun a regardé ses cartes, chacun des adversaires du donneur à tour de rôle, en commençant par le joueur à la gauche du donneur, peut indiquer le nombre de plis qu'il est prêt à céder au donneur s'il est autorisé à choisir les atouts. Chaque offre doit être un nombre entier (1 ou plus) et doit être supérieure aux offres précédentes. Un joueur qui ne souhaite pas faire d'offre dit « passe ». Chaque joueur n'a qu'une seule opportunité de faire une offre. Après que les trois autres joueurs ont parlé, le donneur décide d'accepter l'offre la plus élevée (s'il y en a une) ou de la refuser.
 
-- If the dealer rejects the offer, or if no offer was made, the dealer simply chooses and announces the trump suit.
+- Si le donneur refuse l'offre, ou si aucune offre n'a été faite, le donneur choisit simplement et annonce la couleur d'atout.
 
-- If the dealer does accept an offer (of X tricks), the player whose offer was accepted must choose and announce the trump suit, but the first X tricks this player takes are given to the dealer instead. Note that this does not affect the play mechanics, only the scoring. The player to dealer's left still leads to the first trick, and when the trump maker wins a trick that is transferred to the dealer, it is still the trump maker (as winner of the trick) who leads to the next trick. If the player whose offer was accepted wins fewer than X tricks, then all those tricks are transferred to the dealer and the player who made the offer scores zero - there is no extra penalty or negative score. **Example**. Player A deals, player B passes, player C offers two tricks and player D offers three tricks. The dealer accepts player D’s offer: Player D gets to choose the trump suit, but the first three tricks player D wins, will go to the dealer. If the numbers of tricks actually won are A:2, B:1, C:4, D:6 then the scores will be A:5(=2+3), B:1, C:4, D:3(=6-3).
+- Si le donneur accepte une offre (de X plis), le joueur dont l'offre a été acceptée doit choisir et annoncer la couleur d'atout, mais les X premiers plis que ce joueur remporte sont cédés au donneur à la place. À noter que cela n'affecte pas la mécanique du jeu, seulement le comptage. Le joueur à la gauche du donneur entame toujours le premier pli, et quand le faiseur d'atout remporte un pli qui est transféré au donneur, c'est toujours le faiseur d'atout (en tant que gagnant du pli) qui entame le pli suivant. Si le joueur dont l'offre a été acceptée remporte moins de X plis, tous ces plis sont transférés au donneur et le joueur qui a fait l'offre marque zéro — il n'y a pas de pénalité supplémentaire ni de score négatif. **Exemple**. Le joueur A distribue, le joueur B passe, le joueur C offre deux plis et le joueur D offre trois plis. Le donneur accepte l'offre du joueur D : le joueur D choisit la couleur d'atout, mais les trois premiers plis que le joueur D remporte iront au donneur. Si le nombre de plis effectivement remportés est A:2, B:1, C:4, D:6, alors les scores seront A:5(=2+3), B:1, C:4, D:3(=6-3).
 
-### IWWA rules
+### Règles IWWA
 
-The [International World Whist Association](https://www.whistiwwa.com/) has established a standard set of rules for Kingen which incorporates some of the variants above. The differences from the basic game are:
+L'[International World Whist Association](https://www.whistiwwa.com/) a établi un ensemble standard de règles pour Kingen qui incorpore certaines des variantes ci-dessus. Les différences par rapport au jeu de base sont :
 
-- In 'no hearts' and 'no king of hearts', hearts cannot be led unless the player leading has nothing but hearts.
+- Dans « pas de cœurs » et « pas de roi de cœurs », les cœurs ne peuvent pas être entamés sauf si le joueur qui entame n'a que des cœurs.
 
-- In the penalty card contracts, subject always to the requirement to follow suit, a player must always play a penalty card whenever possible if the penalty card cannot win the trick.
+- Dans les contrats à cartes pénalisantes, sous réserve de l'obligation de suivre, un joueur doit toujours jouer une carte pénalisante si possible, à condition que la carte pénalisante ne puisse pas gagner le pli.
 
-- When trumps are led, players must beat the highest trump in the trick if possible.
+- Quand des atouts sont entamés, les joueurs doivent battre le plus haut atout du pli s'ils le peuvent.
 
-- When a non-trump suit is led, a player who cannot follow suit must trump or overtrump if the trick has already been trumped. If the trick has already been trumped a player who cannot overtrump may play any card.
+- Quand une couleur non-atout est entamée, un joueur qui ne peut pas suivre doit couper ou surcouper si le pli a déjà été coupé. Si le pli a déjà été coupé, un joueur qui ne peut pas surcouper peut jouer n'importe quelle carte.
 
-- In the last four deals (trump contracts), the dealer chooses the trump suit. There is no possibility for the other players to offer tricks in order to be allowed to choose trumps.
+- Dans les quatre dernières donnes (contrats d'atout), le donneur choisit la couleur d'atout. Il n'y a pas de possibilité pour les autres joueurs d'offrir des plis pour être autorisés à choisir les atouts.
 
-### Five-player rules
+### Règles pour cinq joueurs
 
-It is possible for 5 people to play Kingen using pack from which the two black Sevens have been removed. There are 11 deals: 6 with penalty points as above followed by 5 trump deals. In each deal the players receive 10 cards each.
+Il est possible pour 5 personnes de jouer à Kingen en utilisant un jeu duquel les deux sept noirs ont été retirés. Il y a 11 donnes : 6 avec points de pénalité comme ci-dessus, suivies de 5 donnes d'atout. Dans chaque donne, les joueurs reçoivent 10 cartes chacun.
 
-Since there are only 10 tricks, there are only 10 penalty points in the first deal (tricks). In the sixth deal the 7th and last tricks cost 3 penalty points each for a total of 50 points for the first six deals. This is balanced by the 50 positive points awarded in the 5 trump deals, 10 per deal.
+Puisqu'il n'y a que 10 plis, il n'y a que 10 points de pénalité dans la première donne (plis). Dans la sixième donne, le 7e et le dernier pli coûtent 3 points de pénalité chacun, pour un total de 50 points pour les six premières donnes. Cela est équilibré par les 50 points positifs accordés dans les 5 donnes d'atout, 10 par donne.
 
-### Three player rules
+### Règles pour trois joueurs
 
-Three players can play Kingen by removing the 2 of spades from the deck leaving 51 cards. The players are dealt 17 cards each and there are 9 deals: six negative as usual followed by three with trumps. The penalty points in the first six deals are:
+Trois joueurs peuvent jouer à Kingen en retirant le 2 de ![pique] du jeu, laissant 51 cartes. Les joueurs reçoivent 17 cartes chacun et il y a 9 donnes : six négatives comme d'habitude, suivies de trois avec atout. Les points de pénalité dans les six premières donnes sont :
 
-- One point per trick (total 17)
+- Un point par pli (total 17)
 
-- One point per heart (total 13)
+- Un point par ![cœur] (total 13)
 
-- One point per King or Jack (total 8)
+- Un point par Roi ou Valet (total 8)
 
-- One point per Queen (total 4)
+- Un point par Dame (total 4)
 
-- 4 points for the King of hearts (4 points)
+- 4 points pour le Roi de ![cœur] (4 points)
 
-- 3 points for the **tenth** trick and 2 points for the last trick (total 5)
+- 3 points pour le **dixième** pli et 2 points pour le dernier pli (total 5)
 
-That gives a total of 51 penalty points, balanced by the three trump deals in which each of the 17 tricks is worth 1 positive point. 
+Cela donne un total de 51 points de pénalité, équilibré par les trois donnes d'atout dans lesquelles chacun des 17 plis vaut 1 point positif.
 
 ## Dubbelkingen
 
-This version is called Double King (Dubbelkingen) because instead of 10 deals there are 20. Each of the negative contracts is played twice and there are eight trump deals. However the main difference from single Kingen is that the contracts can be played in any order. In each deal the dealer chooses (after looking at his or her cards) which contract will be played on that deal, naming either a negative contract or a trump suit.
+Cette version est appelée Double King (Dubbelkingen) parce qu'au lieu de 10 donnes, il y en a 20. Chaque contrat négatif est joué deux fois et il y a huit donnes d'atout. Cependant, la différence principale avec le Kingen simple est que les contrats peuvent être joués dans n'importe quel ordre. Dans chaque donne, le donneur choisit (après avoir regardé ses cartes) quel contrat sera joué, en nommant soit un contrat négatif soit une couleur d'atout.
 
-In the course of the game each player will have five turns to deal. For two of these deals the player must choose a trump suit and play a trump contract, and for the other three the player must choose a negative contract.
+Au cours du jeu, chaque joueur aura cinq tours de donne. Pour deux de ces donnes, le joueur doit choisir une couleur d'atout et jouer un contrat d'atout, et pour les trois autres, le joueur doit choisir un contrat négatif.
 
-Although the contracts can be played in any order, each negative contract can only be played twice, after which it is no longer available to be chosen by subsequent dealers. However, it is possible for one player to choose the same negative contract on two occasions if it remains available. For the trump contracts there are no restrictions on which suits can be chosen as trumps.
+Bien que les contrats puissent être joués dans n'importe quel ordre, chaque contrat négatif ne peut être joué que deux fois, après quoi il n'est plus disponible pour les donneurs suivants. Cependant, il est possible pour un joueur de choisir le même contrat négatif à deux reprises s'il reste disponible. Pour les contrats d'atout, il n'y a pas de restriction sur les couleurs qui peuvent être choisies comme atout.
 
-The scoring is exactly as in ordinary Kingen, but as there are twice as many deals in Dubbelkingen there are 104 negative points balanced by 104 positive points. 
+Le comptage est exactement le même que dans le Kingen ordinaire, mais comme il y a deux fois plus de donnes dans le Dubbelkingen, il y a 104 points négatifs équilibrés par 104 points positifs.
 
-As usual the player to dealer's left leads to the frst trick, and this game is usually played with similar restrictions to the IWWA rules above. Hearts cannot be led in 'no hearts' or 'no king of hearts' until there is no alternative. Penalty cards must be played as soon as it is safe for the player to do so. In trump contracts, players must when possible beat the highest card in the trick when trumps are led, and when a non-trump suit is led they must trump and overtrump if unable to follow suit.
+Comme d'habitude, le joueur à la gauche du donneur entame le premier pli, et ce jeu se joue généralement avec des restrictions similaires aux règles IWWA ci-dessus. Les cœurs ne peuvent pas être entamés dans « pas de cœurs » ou « pas de roi de cœurs » tant qu'il n'y a pas d'alternative. Les cartes pénalisantes doivent être jouées dès que cela est sûr pour le joueur. Dans les contrats d'atout, les joueurs doivent si possible battre la plus haute carte du pli quand des atouts sont entamés, et quand une couleur non-atout est entamée, ils doivent couper et surcouper s'ils ne peuvent pas suivre.
 
-## Online Games and Other Websites
+## Jeux en ligne et autres sites web
 
-Kingen and Dubbelkingen can be played online at [Whisthub](https://www.whisthub.com/kingen), which also has rules in English, Flemish and French.
+Kingen et Dubbelkingen peuvent être joués en ligne sur [Whisthub](https://www.whisthub.com/kingen), qui propose aussi des règles en anglais, flamand et français.
 
-Rules in French for a version of King were available on Jean-François Bustarret's site under the name [Le Jeu du Roi](https://web.archive.org/web/20241209195822/https://www.jeuxdecartes.net/jeux-cartes/jeu-du-roi/) (archive copy). 
-
-Home Page > Classified Index > Compendium Games > King > Flemish
+Des règles en français pour une version de King étaient disponibles sur le site de Jean-François Bustarret sous le nom [Le Jeu du Roi](https://web.archive.org/web/20241209195822/https://www.jeuxdecartes.net/jeux-cartes/jeu-du-roi/) (copie d'archive).

@@ -2,92 +2,90 @@
 
 **Difficulté :** —
 **Type :** Tressette, Plis
-**But :** In which the object is to avoid taking points.
+**But :** Jeu dans lequel le but est d'éviter de prendre des points.
 
 ---
 
-This page is based on contributions from Virgilio Ferrari, Davide Gullo and Sergio Mastromarino.
+Cette page est basée sur les contributions de Virgilio Ferrari, Davide Gullo et Sergio Mastromarino.
 
 ## Introduction
 
-**Ciapanò**, also known as **Rovescino**, **Traversone**, **Tressette a non Prendere**, **Perdivinci** or **Vinciperdi** is a trick-taking game and is the reverse game of Tressette. The name Ciapanò is in Milanese dialect (in English it could be translated as "Don't catch it!") - Ciapanò was very popular in Lombardy until the 1980s and still played there now. This page also describes two variations: Busca and Mattazza. Like most Italian games it is played anticlockwise. 
+Le **Ciapanò**, aussi connu sous le nom de **Rovescino**, **Traversone**, **Tressette a non Prendere**, **Perdivinci** ou **Vinciperdi**, est un jeu de plis et le jeu inverse de la Tressette. Le nom Ciapanò est en dialecte milanais (en anglais, il pourrait être traduit par « Ne l'attrape pas ! ») — le Ciapanò était très populaire en Lombardie jusqu'aux années 1980 et s'y joue encore aujourd'hui. Cette page décrit aussi deux variantes : la Busca et la Mattazza. Comme la plupart des jeux italiens, il se joue dans le sens antihoraire.
 
-Ciapanò can be played by 3, 4 or 5 players.
+Le Ciapanò peut se jouer à 3, 4 ou 5 joueurs.
 
-## The Cards
+## Les cartes
 
-A 40 card pack is used. In the North East of Lombardy the Italian suits: swords, batons, cups and coins are used. In the South or North West of Lombardy the game is played with 40 cards of the Milanese pack which has French suits (spades, clubs, hearts and diamonds). In each suit the cards rank as follows: 3 (highest), 2, Asso (ace), Re (king), Cavallo (horse, or queen), Fante (jack), 7, 6, 5, 4 (lowest).
+Un jeu de 40 cartes est utilisé. Dans le nord-est de la Lombardie, on utilise les couleurs italiennes : épées, bâtons, coupes et deniers. Dans le sud ou le nord-ouest de la Lombardie, le jeu se joue avec 40 cartes du jeu milanais qui a des couleurs françaises (piques, trèfles, cœurs et carreaux). Dans chaque couleur, les cartes se classent comme suit : 3 (le plus haut), 2, Asso (as), Re (roi), Cavallo (cavalier, ou dame), Fante (valet), 7, 6, 5, 4 (le plus bas).
 
-The cards have point values and the object is to **avoid** taking tricks containing valuable cards. There is an extra penalty for winning the last trick. The values of the cards are as follows:
+Les cartes ont des valeurs en points et le but est d'**éviter** de prendre des plis contenant des cartes de valeur. Il y a une pénalité supplémentaire pour gagner le dernier pli. Les valeurs des cartes sont les suivantes :
 
-| Each ace: | 1 whole point |
-| Each 3, 2, re, cavallo or fante: | 1/3 of a point |
+| Chaque as : | 1 point entier |
+| Chaque 3, 2, re, cavallo ou fante : | 1/3 de point |
 
-## The Deal
+## La donne
 
-Deal (anticlockwise) 8 cards to each player for 5 players, 10 each for 4 players and 13 each for 3 players (in this case the dealer receives 14 cards and discards one card, which will be given to the winner of the last trick). Turn to deal passes to the right after each hand.
+Donner (dans le sens antihoraire) 8 cartes à chaque joueur pour 5 joueurs, 10 chacune pour 4 joueurs et 13 chacune pour 3 joueurs (dans ce cas le donneur reçoit 14 cartes et en défausse une, qui sera donnée au gagnant du dernier pli). Le tour de donne passe à droite après chaque main.
 
-## The Play
+## Le jeu
 
-There are no trumps. The player to dealer's right leads first. Any card may be led, and the other players must play a card of the suit led if they have one. A player with no card of the suit led may play anything. The highest card of the suit led wins the trick, and the winner leads to the next trick.
+Il n'y a pas d'atouts. Le joueur à la droite du donneur mène en premier. N'importe quelle carte peut être menée, et les autres joueurs doivent jouer une carte de la couleur menée s'ils en ont. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quoi. La plus haute carte de la couleur menée gagne le pli, et le gagnant mène au suivant.
 
-## The Scoring
+## Le comptage
 
-When all tricks have been played, the values of cards taken in tricks are counted. Each player except the winner of the last trick scores as penalty points the value of the cards they have taken, disregarding any fractions - for example a player who has taken three and one thirds point scores 3; a player who has taken just two thirds of a point scores nothing. The scores of all the players for one hand should add up to 11, so the player who won the last trick scores the difference between 11 and the total of the amounts scored by the other players. 
+Quand tous les plis ont été joués, les valeurs des cartes prises dans les plis sont comptées. Chaque joueur sauf le gagnant du dernier pli marque comme points de pénalité la valeur des cartes qu'il a prises, en négligeant les fractions — par exemple un joueur qui a pris trois et un tiers de points marque 3 ; un joueur qui n'a pris que deux tiers de point ne marque rien. Les scores de tous les joueurs pour une main doivent s'additionner à 11, donc le joueur qui a gagné le dernier pli marque la différence entre 11 et le total des montants marqués par les autres joueurs.
 
-**Example**
+**Exemple**
 
-|   | Actual value of cards taken | Penalty points scored |
-| Player A: | 3⅓ | 3 |
-| Player B: | 2 + the last trick | 4 |
-| Player C: | 1⅔ | 1 |
-| Player D: | 3⅔ | 3 |
-| Total | 10⅔ + last trick | 11, as always |
+|   | Valeur réelle des cartes prises | Points de pénalité marqués |
+| Joueur A : | 3⅓ | 3 |
+| Joueur B : | 2 + le dernier pli | 4 |
+| Joueur C : | 1⅔ | 1 |
+| Joueur D : | 3⅔ | 3 |
+| Total | 10⅔ + dernier pli | 11, comme toujours |
 
-In this case the last trick cost 2 points. It can in practice cost 1, 2 or 3 points depending on how the other tricks are distributed among the players. 
+Dans ce cas, le dernier pli coûte 2 points. En pratique, il peut coûter 1, 2 ou 3 points selon la façon dont les autres plis sont répartis entre les joueurs.
 
-If one player wins 11 points because each other player has less than 1 point (players with ⅓ or ⅔ have their scores rounded down to zero as always) this is called **Cappotto**. The player with all the points scores zero for the hand and the other players score 11 each. 
+Si un joueur gagne 11 points parce que chaque autre joueur a moins de 1 point (les joueurs avec ⅓ ou ⅔ ont leurs scores arrondis à zéro comme toujours), cela s'appelle **Cappotto**. Le joueur avec tous les points marque zéro pour la main et les autres joueurs marquent 11 chacun.
 
-Any player whose cumulative score is 31 or more points drops out of the game and does not play any more. The last people left in play (1, 2 or 3 as players as agreed in advance) win the match. This will take several deals.
+Tout joueur dont le score cumulé atteint 31 points ou plus est éliminé du jeu et ne joue plus. Les derniers joueurs restants en lice (1, 2 ou 3, selon ce qui a été convenu à l'avance) remportent la partie. Cela prendra plusieurs donnes.
 
-## Variations
+## Variantes
 
-Some play that the target score is 21 or 41 rather than 31.
+Certains jouent que le score cible est de 21 ou 41 plutôt que 31.
 
-Some play that when a player reaches or exceeds the target, the player with the lowest score immediately wins.
+Certains jouent que lorsqu'un joueur atteint ou dépasse le score cible, le joueur ayant le score le plus bas gagne immédiatement.
 
-Antonio Di Sebastiano describes a variant of Traversone in which the Ace of clubs is worth 11 points instead of 1, so that there is a total of 21 points in each deal, more than half of which go to the player who took the Ace of clubs. From 3 to 8 people may play. As many cards as possible are dealt equally to the players and the remainder (4 cards with 6 players, for example) form a "*monte*" which is won by the player who wins the last trick. A player who manages to score all 21 points makes "*cappotto*" and can either subtract 21 points from his or her score, or add 21 points to the scores of each other player. No negative scores are allowed, so if the player who makes *capotto* has a score of less than 21, the points must be added to the other players' scores. After an agreed number of deals, the player with the lowest score wins the game. 
+Antonio Di Sebastiano décrit une variante du Traversone dans laquelle l'As de trèfles vaut 11 points au lieu de 1, de sorte qu'il y a 21 points au total dans chaque donne, dont plus de la moitié reviennent au joueur qui a pris l'As de trèfles. De 3 à 8 personnes peuvent jouer. Autant de cartes que possible sont distribuées à parts égales aux joueurs et le reste (4 cartes avec 6 joueurs, par exemple) forme un « *monte* » qui est remporté par le joueur qui gagne le dernier pli. Un joueur qui parvient à marquer les 21 points fait un « *cappotto* » et peut soit soustraire 21 points de son score, soit ajouter 21 points aux scores de chaque autre joueur. Les scores négatifs ne sont pas autorisés, donc si le joueur qui fait le *capotto* a un score inférieur à 21, les points doivent être ajoutés aux scores des autres joueurs. Après un nombre convenu de donnes, le joueur avec le score le plus bas gagne la partie.
 
-Žan Kafol reports that in the variation **Kifameno** (from the Italian *Chi Fa Meno*), played in Slovenia, there can be 2, 3 or 4 players and 10 cards are dealt to each player. In the 3-player game one of the fours is removed from the pack. If there are fewer than four players, the undealt cards are stacked face down. After each trick, each player in turn, beginning with the winner of the trick, draws one card from the top of this stack, so that everyone has 10 cards again. When the stack of undealt cards is exhausted, play continues without drawing until all the cards have been played.
+Žan Kafol rapporte que dans la variante **Kifameno** (de l'italien *Chi Fa Meno*), jouée en Slovénie, il peut y avoir 2, 3 ou 4 joueurs et 10 cartes sont distribuées à chaque joueur. Dans le jeu à 3 joueurs, l'un des quatre est retiré du jeu. S'il y a moins de quatre joueurs, les cartes non distribuées sont empilées face contre table. Après chaque pli, chaque joueur à tour de rôle, en commençant par le gagnant du pli, pioche une carte du sommet de cette pile, pour que tout le monde ait à nouveau 10 cartes. Quand la pile de cartes non distribuées est épuisée, le jeu continue sans pioche jusqu'à ce que toutes les cartes aient été jouées.
 
 ## Busca
 
-Under the name Busca, Davide Gullo describes a variation for four players in which all the points are multiplied by three: threes, twos and pictures are worth 1 point each, and the last trick 3 points. Aces are worth 3 points except for the ace of coins, which in this variation is called the Pita and is worth 8 points. It is illegal to lead coins in the first trick, and the Pita cannot be discarded in the first trick if the holder is unable to follow suit. 
+Sous le nom de Busca, Davide Gullo décrit une variante pour quatre joueurs dans laquelle tous les points sont multipliés par trois : les trois, les deux et les figures valent 1 point chacun, et le dernier pli 3 points. Les as valent 3 points sauf l'as de deniers, qui dans cette variante est appelé la Pita et vaut 8 points. Il est interdit de mener des deniers au premier pli, et la Pita ne peut pas être défaussée au premier pli si le détenteur est incapable de suivre la couleur.
 
-The total number of points in play is 40, and the object is to take at least one point but avoid taking most points. The loser or losers score penalty points known as busche. The Italian verb "coprire" (to cover) is used for avoiding a busca by taking a trick containing at least one point, 
+Le nombre total de points en jeu est de 40, et le but est de prendre au moins un point mais d'éviter de prendre la plupart des points. Le ou les perdants marquent des points de pénalité appelés busche. Le verbe italien « coprire » (couvrir) est utilisé pour éviter une busca en gagnant un pli contenant au moins un point.
 
-- A player who takes no points scores 1 busca. If two players take no card points they score 2 busche each, and if one player takes all 40 card points, the three losers each score 3 busche.
+- Un joueur qui ne prend aucun point marque 1 busca. Si deux joueurs ne prennent aucun point de cartes, ils marquent 2 busche chacun, et si un joueur prend les 40 points de cartes, les trois perdants marquent chacun 3 busche.
 
-- If everyone takes at least 1 point, the player with most points scores 1 busca with up to 18 card points, 2 busche with 19-22 card points, and with more than 22 points each further card point costs an extra busca - so 26 points would score 6 busche and the maximum 37 card points (with the other players having 1 each) scores 17 busche. 
+- Si tout le monde prend au moins 1 point, le joueur avec le plus de points marque 1 busca avec jusqu'à 18 points de cartes, 2 busche avec 19 à 22 points de cartes, et au-delà de 22 points chaque point de carte supplémentaire coûte une busca supplémentaire — donc 26 points marqueraient 6 busche et le maximum de 37 points de cartes (les autres joueurs ayant 1 chacun) marque 17 busche.
 
-- If two players tie for most points they all score double the the usual number of busche - 2 busche each with up to 18 card points or 4 busche each with 19 card points (the maximum). If three players tie for most card points they score 3 busche each, and if everyone takes 10 card points they all score 4 busche.
+- Si deux joueurs sont à égalité pour le plus grand nombre de points, ils marquent tous le double du nombre habituel de busche — 2 busche chacun avec jusqu'à 18 points de cartes ou 4 busche chacun avec 19 points de cartes (le maximum). Si trois joueurs sont à égalité pour le plus grand nombre de points de cartes, ils marquent 3 busche chacun, et si tout le monde prend 10 points de cartes, ils marquent tous 4 busche.
 
-Davide Gullo's site provided [rules of Busca in Italian](https://web.archive.org/web/20170617234946/http://www.mygdm.com/content/busca_regolamento.html).
+Le site de Davide Gullo fournit des [règles de la Busca en italien](https://web.archive.org/web/20170617234946/http://www.mygdm.com/content/busca_regolamento.html).
 
 ## Mattazza
 
-This game from Romagna is for four players, playing as individuals. There are no trumps. As in Busca, the threes, twos and pictures are worth 1 point and the aces and the last trick 3 points, but there is no special score for the ace of coins, so there are 35 points altogether. If everyone takes at least one trick, the player or players who take most card points score one game point each. If one or more players take no trick then those players score one game point each and the players with tricks score nothing. The first two players to reach 5 game points are the losers.
+Ce jeu de Romagne est pour quatre joueurs, jouant en individuel. Il n'y a pas d'atouts. Comme à la Busca, les trois, les deux et les figures valent 1 point et les as et le dernier pli 3 points, mais il n'y a pas de score spécial pour l'as de deniers, donc il y a 35 points au total. Si tout le monde prend au moins un pli, le ou les joueurs qui prennent le plus de points de cartes marquent chacun un point de partie. Si un ou plusieurs joueurs ne prennent aucun pli, ces joueurs marquent chacun un point de partie et les joueurs avec des plis ne marquent rien. Les deux premiers joueurs à atteindre 5 points de partie sont les perdants.
 
-Players are allowed to say andare a duro or tirare la mattazza as a suggestion to the others to try to prevent a certain player from winning tricks.
+Les joueurs sont autorisés à dire andare a duro ou tirare la mattazza comme suggestion aux autres pour essayer d'empêcher un certain joueur de gagner des plis.
 
-## Software
+## Logiciel
 
-The Italian site Tretre includes rules of [Tressette a non prendere](https://web.archive.org/web/20170916060455/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-t/#c134).
+Le site italien Tretre inclut des règles de la [Tressette a non prendere](https://web.archive.org/web/20170916060455/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-t/#c134).
 
-You can download a freeware Traversone program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme gratuit de Traversone depuis [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-You can play Tressette a Perdere on line at the Italian site [biska.com](http://www.biska.com/).
+Vous pouvez jouer à la Tressette a Perdere en ligne sur le site italien [biska.com](http://www.biska.com/).
 
-At Žan Kafol's site [briskula.si](https://briskula.si) you can play Kifameno online against live opponents. Kifameno (or *Chi Fa Meno* - "who wins least") is a losing Tressette variant from Slovenia, similar to Tressette a non Prendere as described on this page.
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Traversone
+Sur le site de Žan Kafol [briskula.si](https://briskula.si), vous pouvez jouer au Kifameno en ligne contre des adversaires réels. Le Kifameno (ou *Chi Fa Meno* — « celui qui gagne le moins ») est une variante de la Tressette perdante de Slovénie, similaire à la Tressette a non Prendere décrite sur cette page.

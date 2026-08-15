@@ -2,121 +2,119 @@
 
 **Difficulté :** —
 **Type :** Tressette, Plis
-**But :** Also known as La Politaine or La Poule, a Canadian card game for four players, playing as partners, and also the German varioant Pollack.
-**Autres noms :** La Politaine or La Poule
+**But :** Aussi connu sous le nom de La Politaine ou La Poule, un jeu de cartes canadien pour quatre joueurs jouant en partenariat, ainsi que la variante allemande Pollack.
+**Autres noms :** La Politaine, La Poule, Pollack
 
 ---
 
 ## Introduction
 
-This game, also known as **La Politaine** or **La Poule** is played in the French-speaking provinces of Canada. It is descended from the Italian game Tressette, which was fashionable throughout Europe in the 18th century and is still well-known in Italy. It is a four-player partnership point trick game without trumps.
+Ce jeu, aussi connu sous le nom de **La Politaine** ou **La Poule**, se joue dans les provinces francophones du Canada. Il descend du jeu italien Tressette, qui était à la mode dans toute l'Europe au XVIIIe siècle et est encore bien connu en Italie. C'est un jeu de plis par équipe à quatre joueurs sans atout.
 
-Tressette is played with the 40-card Italian pack, and not only the ace, but also the two and three are promoted to be top cards of each suit, so the ranking is 3-2-A-K-Q-J-7-6-5-4. The 32-card pack that is commonly used in France has no 3 or 2, so when the French adapted Tressette to use this pack, they substituted the 10 and 9 for those cards, giving the ranking 10-9-A-K-Q-J-8-7 which was retained when the game was exported to Canada.
+Le Tressette se joue avec un jeu italien de 40 cartes, et non seulement l'as, mais aussi le deux et le trois sont promus au rang de cartes les plus hautes de chaque couleur, de sorte que l'ordre est 3-2-A-R-D-V-7-6-5-4. Le jeu de 32 cartes couramment utilisé en France n'a pas de 3 ni de 2, c'est pourquoi les Français, en adaptant le Tressette à ce jeu, ont substitué le 10 et le 9 à ces cartes, donnant l'ordre 10-9-A-R-D-V-8-7, qui a été conservé lors de l'exportation du jeu au Canada.
 
-Tressette means "three sevens". In France this was translated to Trois Sept. In the Canadian descendant Quatre Sept (four sevens) the combination of four sevens in one hand wins the game, which no doubt accounts for the name. In the modern Italian game there is no trace of a special reward for three sevens. However, Ulf Martin has pointed out that several 18th century French and German descriptions of Tressette do feature a bonus for a holder of three and in some cases also four sevens. Also the Italian book *Il Giuoco Pratico (1774, 1820)* includes the three sevens bonus in the variant *Tresette alla Moscovita* though not in the main game. The sevens bonuses seem to have been abandoned in Europe during the 19th century, but they evidently survived long enough to influence the four sevens feature of the Canadian game and give it its name Quatre Sept.
+Tressette signifie « trois sept ». En France, cela a été traduit par Trois Sept. Dans la version canadienne, Quatre Sept (quatre sept), la combinaison de quatre sept dans une même main gagne la partie, ce qui explique sans doute le nom. Dans le jeu italien moderne, il n'y a plus de trace de récompense spéciale pour trois sept. Cependant, Ulf Martin a souligné que plusieurs descriptions françaises et allemandes du XVIIIe siècle du Tressette comportent un bonus pour le détenteur de trois, et dans certains cas aussi de quatre sept. De plus, le livre italien *Il Giuoco Pratico (1774, 1820)* inclut le bonus des trois sept dans la variante *Tresette alla Moscovita*, mais pas dans le jeu principal. Les bonus de sept semblent avoir été abandonnés en Europe au cours du XIXe siècle, mais ils ont manifestement survécu assez longtemps pour influencer la caractéristique des quatre sept du jeu canadien et lui donner son nom Quatre Sept.
 
-The combination of the top three cards of a suit does give a bonus both in the Italian and in the Canadian game. In Italian this is called a *Napolitane* (meaning Neapolitan - from the city of Naples). In Canada this has been changed to *"La Politaine"*, and the whole game is commonly known by this name. The alternative name *"La Poule"* perhaps arose as a further shortening of this. 
+La combinaison des trois cartes les plus hautes d'une couleur donne un bonus tant dans le jeu italien que dans le jeu canadien. En italien, cela s'appelle une *Napolitane* (de la ville de Naples). Au Canada, cela a été changé en « La Politaine », et le jeu entier est couramment connu sous ce nom. Le nom alternatif « La Poule » est peut-être apparu comme un raccourcissement supplémentaire.
 
-On this page we also include a description of a German variant of La Politaine known as Pollack.
+Sur cette page, nous incluons également une description d'une variante allemande de La Politaine connue sous le nom de Pollack.
 
-*The rules of Le Quatre Sept on this page is based mainly on a contribution from Lorraine Dube Barnes.*
+*Les règles du Le Quatre Sept sur cette page sont principalement basées sur une contribution de Lorraine Dube Barnes.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players in fixed partnerships. Partners sit opposite each other. Deal and play are clockwise.
+Il y a quatre joueurs en partenariats fixes. Les partenaires s'assoient en face l'un de l'autre. La donne et le jeu se font dans le sens horaire.
 
-A 32-card French suited pack is used. The suits are hearts, diamonds, clubs and spades and the cards of each suit rank from high to low:
+Un jeu de 32 cartes françaises est utilisé. Les couleurs sont cœurs, carreaux, trèfles et piques, et les cartes de chaque couleur sont classées de la plus haute à la plus basse :
 
-**10, 9, A, K, Q, J, 8, 7**
+**10, 9, A, R, D, V, 8, 7**
 
-- Aces are worth 1 point each. 
+- Les as valent 1 point chacun.
 
-- Tens, nines, kings, queens, and jacks are worth one third of a point each.
+- Les dix, neuf, rois, dames et valets valent un tiers de point chacun.
 
-- Eights and sevens have no value.
+- Les huit et les sept n'ont aucune valeur.
 
-- The last trick is worth 1 point.
+- Le dernier pli vaut 1 point.
 
-The total number of points in the game is theoretically 11⅔ (4 + 20/3 + 1) but any fractional points in each team's total are ignored, so the actual total of points scored is 11.
+Le nombre total de points dans le jeu est théoriquement de 11⅔ (4 + 20/3 + 1), mais les points fractionnaires du total de chaque équipe sont ignorés, de sorte que le total réel des points marqués est de 11.
 
-## The Deal
+## La donne
 
-The first dealer is chosen by drawing cards from the shuffled pack: whoever draws the highest card deals first. The turn to deal passes to the left after each hand.
+Le premier donneur est choisi en tirant des cartes du jeu mélangé : celui qui tire la carte la plus haute donne en premier. Le tour de donne passe à gauche après chaque main.
 
-The dealer *(le brasseur)* shuffles the cards and deals them in batches: three cards to each player, then two cards each, then three cards each. So each player has a hand of eight cards.
+Le donneur (*le brasseur*) mélange les cartes et les distribue par lots : trois cartes à chaque joueur, puis deux cartes chacun, puis trois cartes chacun. Ainsi chaque joueur a une main de huit cartes.
 
-If any player has all four sevens, that player's team immediately wins the whole game.
+Si un joueur a les quatre sept, l'équipe de ce joueur gagne immédiatement toute la partie.
 
-## The Play
+## Le jeu
 
-The player to dealer's left leads to the first trick, and the winner of each trick leads to the next.
+Le joueur à la gauche du donneur entame le premier pli, et le gagnant de chaque pli entame le suivant.
 
-Any card may be led. The other players must follow suit, playing a card of the same suit as the card that was led if they can. A player who has no card of the suit led may play any card.
+N'importe quelle carte peut être entamée. Les autres joueurs doivent suivre la couleur, en jouant une carte de la même couleur que la carte entamée s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte.
 
-Each trick is won by the highest card of the suit led. Cards of other suits have no power to win the trick - there are no trumps in this game.
+Chaque pli est remporté par la carte la plus haute de la couleur entamée. Les cartes d'autres couleurs n'ont aucun pouvoir pour gagner le pli — il n'y a pas d'atouts dans ce jeu.
 
-If any player has the top three cards of a suit (10, 9 and ace), and manages to use them to win three consecutive tricks, the player's team scores a bonus of 11 points. This combination is known as a **poule** or **politaine** and should be announced when the player plays the first of the three cards, in order to score the bonus. 
+Si un joueur a les trois cartes les plus hautes d'une couleur (10, 9 et as), et réussit à les utiliser pour gagner trois plis consécutifs, l'équipe du joueur marque un bonus de 11 points. Cette combinaison est appelée **poule** ou **politaine** et doit être annoncée lorsque le joueur joue la première des trois cartes, afin de marquer le bonus.
 
-Note that it is quite possible that a player who holds a politaine may not score the bonus, because the cards do not win tricks. This will happen for example if the holder does not obtain the lead, and other suits are led to the first six tricks. On the sixth trick one of the politaine cards will have to be discarded and the bonus will be lost.
+Notez qu'il est tout à fait possible qu'un joueur qui détient une politaine ne marque pas le bonus, car les cartes ne gagnent pas de plis. Cela se produit par exemple si le détenteur n'obtient pas l'entame, et que d'autres couleurs sont entamées lors des six premiers plis. Au sixième pli, une des cartes de la politaine devra être défaussée et le bonus sera perdu.
 
-## Scoring
+## Comptage des points
 
-At the end of the play each team counts the value of the tricks they have won: 1 point for each ace; 1 point for every three other cards apart from 8's and 7's; 1 extra point for the team that won the last trick. The 8's and 7's and the two odd cards that are left over after the 10's, 9's and pictures have been grouped into threes have no value.
+À la fin du jeu, chaque équipe compte la valeur des plis qu'elle a gagnés : 1 point pour chaque as ; 1 point pour trois autres cartes à l'exclusion des 8 et des 7 ; 1 point supplémentaire pour l'équipe qui a gagné le dernier pli. Les 8, les 7 et les deux cartes restantes après que les 10, 9 et figures ont été groupés par trois n'ont aucune valeur.
 
-The scores of the two teams should always add up to 11. Each team adds its score to its running total. When either team's score reaches 31 or more, the team with the higher score wins. In case of a tie (33 points each), another deal is played to decide the winners.
+Les scores des deux équipes doivent toujours s'additionner à 11. Chaque équipe ajoute son score à son total cumulé. Quand l'une des équipes atteint 31 points ou plus, l'équipe avec le score le plus élevé gagne. En cas d'égalité (33 points chacun), une autre donne est jouée pour déterminer les gagnants.
 
-## Variations
+## Variantes
 
-The rules of [La Politaine](https://fr.wikibooks.org/wiki/Boîte_à_jeux/La_politaine) on the Wikibooks Boite à Jeux site differ from the above in the following ways:
+Les règles de [La Politaine](https://fr.wikibooks.org/wiki/Boîte_à_jeux/La_politaine) sur le site Wikibooks Boîte à Jeux diffèrent de ce qui précède de la manière suivante :
 
-- **Redeal**. Any player who is dealt a hand with no 10's, no 9's and no aces can demand a redeal before the first card is led. The cards are thrown in and the dealer shuffles and deals again.
+- **Redonne**. Tout joueur qui reçoit une main sans 10, sans 9 et sans as peut exiger une redonne avant la première entame. Les cartes sont jetées et le donneur mélange et redistribue.
 
-- **Signals**. When playing a card, a player may tap the table, signalling that he or she holds good cards in that suit, and requesting partner to lead it when possible. Sliding a card onto the table is a signal that one holds good cards in the other suit of the same colour - for example sliding a diamond is a request to partner to lead hearts. 
+- **Signaux**. Lors du jeu d'une carte, un joueur peut taper sur la table, signalant qu'il détient de bonnes cartes dans cette couleur, et demandant à son partenaire de l'entamer quand c'est possible. Faire glisser une carte sur la table est un signal indiquant que l'on détient de bonnes cartes dans l'autre couleur de la même famille — par exemple, faire glisser un carreau est une demande au partenaire d'entamer les cœurs.
 
-- **Target score**. The game ends when a team has a score of 32 points or more. If both teams reach this target in the same deal, the game is won by the first team that claims a win. In some places longer games are played, for example until one team reaches 150 points or more.
+- **Score cible**. Le jeu se termine lorsqu'une équipe atteint un score de 32 points ou plus. Si les deux équipes atteignent ce but lors de la même donne, le jeu est gagné par la première équipe qui réclame la victoire. Dans certains endroits, des parties plus longues sont jouées, par exemple jusqu'à ce qu'une équipe atteigne 150 points ou plus.
 
-- **Four 8's.** A player who is dealt all four 8's declares them before the lead to the first trick, and this player's team wins the whole game. This presumably replaces the rule that four 7's win the game, which is not mentioned in the Boite à Jeux description.
+- **Quatre 8.** Un joueur qui reçoit les quatre 8 les déclare avant l'entame du premier pli, et l'équipe de ce joueur gagne toute la partie. Cela remplace vraisemblablement la règle selon laquelle les quatre 7 gagnent la partie, qui n'est pas mentionnée dans la description de la Boîte à Jeux.
 
-- **Capot**. A team that wins all 8 tricks in one deal wins the whole game. 
+- **Capot**. Une équipe qui gagne les 8 plis lors d'une donne gagne toute la partie.
 
-The description of [La Poule](https://jeuxdecartesinedits.blogspot.com/2009/08/la-poule-ou-politaine.html) on the Jeux de Cartes Inédites site includes the following rules, which significantly affect the tactics of the game:
+La description de [La Poule](https://jeuxdecartesinedits.blogspot.com/2009/08/la-poule-ou-politaine.html) sur le site Jeux de Cartes Inédites inclut les règles suivantes, qui affectent significativement les tactiques du jeu :
 
-- If a trick is worth less than one whole point, the winner **must** lead his or her **lowest card** to the next trick: a 7, or an 8 if the player has no 7, or a jack if the player has no 7 or 8, and so on. Presumably a player who has more than one equally low card may choose freely between them. 
+- Si un pli vaut moins d'un point entier, le gagnant **doit** entamer sa **carte la plus basse** au pli suivant : un 7, ou un 8 si le joueur n'a pas de 7, ou un valet s'il n'a ni 7 ni 8, et ainsi de suite. On suppose qu'un joueur qui a plusieurs cartes également basses peut choisir librement entre elles.
 
-- In order to score for a **politaine**, it must be announced at the start of the play, before the first lead. Rule 1 above can make it difficult to lead the cards of a politaine consecutively. For example if you lead the 10, and the other players play J, 8, 7, you are not allowed to continue with your 9 or ace, because that trick is worth only ⅔ of a point. You have to lead your lowest card next and the points for the politaine are lost. For this reason, when leading from a politaine, it is generally best to begin with the ace, which guarantees that the trick will be worth at least a point, allowing the 10 or 9 to be led next.
+- Pour marquer une **politaine**, elle doit être annoncée au début du jeu, avant la première entame. La règle 1 ci-dessus peut rendre difficile d'entamer les cartes d'une politaine consécutivement. Par exemple, si vous entamez le 10, et que les autres joueurs jouent V, 8, 7, vous n'êtes pas autorisé à continuer avec votre 9 ou votre as, car ce pli ne vaut que ⅔ de point. Vous devez entamer votre carte la plus basse ensuite et les points de la politaine sont perdus. Pour cette raison, lors d'une entame depuis une politaine, il vaut généralement mieux commencer par l'as, qui garantit que le pli vaudra au moins un point, permettant au 10 ou au 9 d'être entamé ensuite.
 
-- A target score of 200 points is suggested; the game ends when a team reaches or exceeds this score. 
+- Un score cible de 200 points est suggéré ; le jeu se termine lorsqu'une équipe atteint ou dépasse ce score.
 
 ## Pollack
 
-The game Pollack was described in the mid-19th century, probably first in Ludwig von Alvensleben's *Encyclopädie der Spiele* (Leipzig 1853, Wiegand). Von Alvensleben describes it as "A new game that quickly gained popularity and is played frequently in public places, particularly in Berlin". It has continued to appear in German card game rulebooks ever since then, but we do not know to what extent it is still played.
+Le jeu Pollack a été décrit au milieu du XIXe siècle, probablement pour la première fois dans l'*Encyclopädie der Spiele* de Ludwig von Alvensleben (Leipzig 1853, Wiegand). Von Alvensleben le décrit comme « Un nouveau jeu qui a rapidement gagné en popularité et se joue fréquemment dans les lieux publics, particulièrement à Berlin ». Il a continué à paraître dans les livres de règles allemands depuis lors, mais nous ne savons pas dans quelle mesure il est encore joué.
 
-The 1853 rules closer to those of today's Tressette than those of Quatre Sept. On the one hand, the combination 10-9-A works differently in Quatre Sept, and on the other hand, winning the game with four 7s in Quatre Sept is a remnant of even older Tressette rules, in which three or four 7s in the hand won the game. There is no mention of winning the game with four 7s in the Pollack rules, and this is also no longer the case in modern Tressette.
+Les règles de 1853 sont plus proches de celles du Tressette d'aujourd'hui que de celles du Quatre Sept. D'une part, la combinaison 10-9-A fonctionne différemment dans le Quatre Sept, et d'autre part, gagner la partie avec quatre 7 dans le Quatre Sept est un vestige de règles encore plus anciennes du Tressette, dans lesquelles trois ou quatre 7 dans la main gagnaient la partie. Il n'est pas fait mention de gagner la partie avec quatre 7 dans les règles du Pollack, ce qui n'est plus le cas non plus dans le Tressette moderne.
 
-The game was also played with German cards. In this case, the ace is a Daus, the queen is replaced by the Ober, and the jack by the Unter. The suits are acorns, leaves, hearts and bells. Otherwise, the rank of the cards and the rules of play game are the same as in Quatre Sept. 
+Le jeu se jouait également avec des cartes allemandes. Dans ce cas, l'as est un Daus, la dame est remplacée par l'Ober, et le valet par l'Unter. Les couleurs sont glands, feuilles, cœurs et cloches. Sinon, l'ordre des cartes et les règles du jeu sont les mêmes que dans le Quatre Sept.
 
-### Declarations
+### Déclarations
 
-There is no Politaine scoring during the game. Instead, players can declare card combinations that they hold in their hand and that correspond to those in Tressette:
+Il n'y a pas de comptage de Politaine pendant le jeu. Au lieu de cela, les joueurs peuvent déclarer des combinaisons de cartes qu'ils ont en main et qui correspondent à celles du Tressette :
 
-- 3 points for triplets of 10s, 9s or aces.
+- 3 points pour un brelan de 10, de 9 ou d'as.
 
-- 4 points for four of a kind of 10s, 9s or aces.
+- 4 points pour un carré de 10, de 9 ou d'as.
 
-- 3 points for Pollack: 10-9-A in one suit.
+- 3 points pour le Pollack : 10-9-A d'une même couleur.
 
-The following two details are not mentioned by Von Alvensleben but we assume that they are the same as in Tressette:
+Les deux détails suivants ne sont pas mentionnés par Von Alvensleben, mais nous supposons qu'ils sont les mêmes que dans le Tressette :
 
-- The same card can be simultaneously used in a Pollack and in a three or four of a kind.
+- La même carte peut être utilisée simultanément dans un Pollack et dans un brelan ou un carré.
 
-- Anyone who declares a Pollack must name the suit; anyone who declares three of a kind must name the missing suit.
+- Celui qui déclare un Pollack doit nommer la couleur ; celui qui déclare un brelan doit nommer la couleur manquante.
 
-The player who leads to the first trick makes any declarations before playing the first card. Other players may only declare combinations after their side has won a trick. Since the cards must be held in the player's hand for the declaration to be valid, the chance to declare a combination is lost if the holder plays any of its cards before their team wins a trick.
+Le joueur qui entame le premier pli fait ses déclarations avant de jouer la première carte. Les autres joueurs ne peuvent déclarer des combinaisons qu'après que leur camp a gagné un pli. Puisque les cartes doivent être conservées dans la main du joueur pour que la déclaration soit valide, la possibilité de déclarer une combinaison est perdue si le détenteur joue l'une de ses cartes avant que son équipe ne gagne un pli.
 
-### Scoring
+### Comptage des points
 
-As in Tressette, the game is won by the first team to achieve a score of 21 points or more.
+Comme dans le Tressette, le jeu est gagné par la première équipe qui atteint un score de 21 points ou plus.
 
-A player who believes during the play that their team already has 21 or more points with the cards already taken in trciks can stop the play and claim a win. The values of the cards taken by each team are then counted. If the claim is correct, the team that stopped the play wins, otherwise it loses. The points taken by the opponents of the team that claimed are irrelevant. 
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Quatre Sept
+Un joueur qui croit pendant le jeu que son équipe a déjà 21 points ou plus avec les cartes déjà prises dans les plis peut arrêter le jeu et réclamer la victoire. La valeur des cartes prises par chaque équipe est alors comptée. Si la réclamation est correcte, l'équipe qui a arrêté le jeu gagne, sinon elle perd. Les points pris par les adversaires de l'équipe qui a réclamé sont sans importance.

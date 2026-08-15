@@ -2,120 +2,118 @@
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** A Portuguese card game also played in Brazil, in which the highest cards are the Ace and Seven.
+**But :** Jeu de cartes portugais aussi joué au Brésil, dans lequel les cartes les plus fortes sont l'As et le Sept.
 
 ---
 
 ## Introduction
 
-Bisca is a Portuguese point-trick game, closely related to Italian Briscola and Spanish Brisca. Like them it is played with a 40-card pack, but the 10-point card ranking between the Ace and King is the Seven rather than the Three. It is also closely related to Sueca, which can be thought of as 10-card Bisca, and to some African games influenced by Portuguese contact, such as Albastini.
+La Bisca est un jeu de plis à points portugais, étroitement apparenté à la Briscola italienne et à la Brisca espagnole. Comme eux, elle se joue avec un jeu de 40 cartes, mais la carte à 10 points située entre l'As et le Roi est le Sept plutôt que le Trois. Elle est aussi étroitement apparentée à la Sueca, que l'on peut considérer comme une Bisca à 10 cartes, et à certains jeux africains influencés par le contact portugais, comme l'Albastini.
 
-There are several variants. Some of them are identified by numbers, which in some cases represent the number of cards in a player's hand - Bisca de Três (3-card Bisca) and Bisca de Nove (9-card Bisca) are two-player games - and in some cases the number of players - Bisca de Seis is 6-player Bisca and Bisca de Quatro is 4-player Bisca. The information about these games was contributed by Paulo Martins. The section on the Brazilian variant Bisca Capixaba is based on the description in [Portuguese Wikipedia](https://pt.wikipedia.org/wiki/Bisca).
+Il existe plusieurs variantes. Certaines sont identifiées par des nombres qui, dans certains cas, représentent le nombre de cartes en main — Bisca de Três (Bisca à 3) et Bisca de Nove (Bisca à 9) sont des jeux à deux joueurs — et dans certains cas le nombre de joueurs — Bisca de Seis est la Bisca à 6 joueurs et Bisca de Quatro est la Bisca à 4 joueurs. Les informations sur ces jeux ont été fournies par Paulo Martins. La section sur la variante brésilienne Bisca Capixaba est basée sur la description de la [Wikipédia portugaise](https://pt.wikipedia.org/wiki/Bisca).
 
-Before describing the different versions, here are some basic rules common to all these games.
+Avant de décrire les différentes versions, voici quelques règles de base communes à tous ces jeux.
 
-## Players, Cards and Values
+## Joueurs, cartes et valeurs
 
-Bisca is played with a 40-card French suited pack. The cards in each suit in descending order, and their point values are as follows.
+La Bisca se joue avec un jeu de 40 cartes à couleurs françaises. Les cartes de chaque couleur dans l'ordre décroissant, et leurs valeurs en points sont les suivantes.
 
-| Card | Value |
-| Ace (Ás) | 11 points |
-| 7 (Manilha or Bisca) | 10 points |
-| King (Rei) | 4 points |
-| Jack (Valete or Conde) | 3 points |
-| Queen (Dama) | 2 points |
-| 6, 5, 4, 3, 2 (lowest) | 0 points |
+| Carte | Valeur |
+| As (Ás) | 11 points |
+| 7 (Manilha ou Bisca) | 10 points |
+| Roi (Rei) | 4 points |
+| Valet (Valete ou Conde) | 3 points |
+| Dame (Dama) | 2 points |
+| 6, 5, 4, 3, 2 (le plus bas) | 0 points |
 
-There are 120 card points altogether and the player or team that takes 61 or more of these points in tricks wins. Sometimes there is an extra score for taking a larger number of points.
+Il y a 120 points de cartes au total et le joueur ou l'équipe qui prend 61 ou plus de ces points dans les plis gagne. Parfois, il y a un score supplémentaire pour avoir pris un nombre de points plus élevé.
 
-There is a trump suit indicated by turning a card face up on the table after the deal. The remaining undealt cards are stacked crosswise face down on top of the trump indicator, leaving its suit and rank visible, and players draw cards from this stock pile to replenish their hands after each trick (this drawing is known as *biscar*).
+Il y a une couleur d'atout indiquée en retournant une carte face visible sur la table après la donne. Les cartes non distribuées restantes sont empilées en croix face contre table sur l'indicateur d'atout, laissant sa couleur et son rang visibles, et les joueurs piochent des cartes de ce tas pour reconstituer leur main après chaque pli (cette pioche est appelée *biscar*).
 
-When there are more than two players, the deal and play are counter-clockwise.
+Quand il y a plus de deux joueurs, la donne et le jeu se font dans le sens antihoraire.
 
-## Play and Scoring
+## Jeu et comptage
 
-Except where otherwise specified, any card may be led and any card may be played to a trick: there is no requirement to follow suit, to trump, or to beat the cards previously played. Each trick is won by the highest trump in it, or if no trumps are played by the highest card of the suit that was led. The winner of each trick leads to the next.
+Sauf indication contraire, n'importe quelle carte peut être menée et n'importe quelle carte peut être jouée à un pli : il n'y a aucune obligation de suivre la couleur, d'atouter ou de surpasser les cartes précédemment jouées. Chaque pli est gagné par le plus haut atout qu'il contient, ou s'il n'y a pas d'atout, par la plus haute carte de la couleur qui a été menée. Le vainqueur de chaque pli mène au suivant.
 
-When all the cards have been played, each player or team counts the total value of cards in their tricks, and the side with the majority of the 120 card point (i.e. 61 or more) wins the game, or in some variants more than one game if they have a large enough majority.
+Lorsque toutes les cartes ont été jouées, chaque joueur ou équipe compte la valeur totale des cartes de ses plis, et le côté ayant la majorité des 120 points de cartes (soit 61 ou plus) gagne la manche, ou dans certaines variantes plusieurs manches s'il a une majorité suffisante.
 
-Often a match is played, won by the best of seven games - in other words the first player or team that wins four or more games wins the match. In this case the turn to deal passes to the next player to the right after each game. The score is normally recorded on a *pente* (comb) consisting of a horizontal line crossed by four vertical lines. The scorer marks the top half of one line with a blob for each game they win and the bottom half with a blob for each game won by the opponent(s).
+Souvent, on joue un match, remporté au meilleur de sept manches — c'est-à-dire que le premier joueur ou équipe qui gagne quatre manches ou plus remporte le match. Dans ce cas, le tour de donne passe au joueur suivant à droite après chaque manche. Le score est normalement noté sur un *pente* (peigne) composé d'une ligne horizontale traversée par quatre lignes verticales. Le marqueur note la moitié supérieure d'une ligne avec un point pour chaque manche gagnée et la moitié inférieure avec un point pour chaque manche gagnée par le ou les adversaires.
 
 ![pente](../images/aceten/pente.png)
 
-Nowadays, combs are often dawn with 10 vertical lines instead of 4, in which case the match is won by the first player or team that wins 10 or more games.
+De nos jours, les peignes sont souvent tracés avec 10 lignes verticales au lieu de 4, auquel cas le match est remporté par le premier joueur ou équipe qui gagne 10 manches ou plus.
 
 ## Bisca de Três
 
-This '3-card Bisca' is the basic game for two players. The dealer shuffles, the other player cuts, then the top 3 cards are dealt to the non-dealer, the next 3 to the dealer and the 7th card is placed face up on the table to indicate the trump suit. The rest of the deck is stacked on top of it.
+Cette « Bisca à 3 » est le jeu de base à deux joueurs. Le donneur bat, l'autre joueur coupe, puis les 3 premières cartes sont distribuées au non-donneur, les 3 suivantes au donneur et la 7e carte est posée face visible sur la table pour indiquer la couleur d'atout. Le reste du jeu est empilé par-dessus.
 
-The non-dealer leads to the first trick and as usual there is no restriction on what cards can be played. The winner of each trick draws the top card from the stock (without showing it to the opponent) and the loser draws the next one. When the stock is empty (the trump indicator having been drawn), the final three tricks are played without drawing.
+Le non-donneur mène au premier pli et comme d'habitude il n'y a aucune restriction sur les cartes jouées. Le vainqueur de chaque pli pioche la carte supérieure du tas (sans la montrer à l'adversaire) et le perdant pioche la suivante. Quand le tas est vide (l'indicateur d'atout ayant été pioché), les trois derniers plis sont joués sans pioche.
 
-The player who takes 61 or more of the 120 card points in tricks wins one game. If each player has 60, neither wins. 
+Le joueur qui prend 61 ou plus des 120 points de cartes dans les plis gagne une manche. Si chaque joueur a 60, personne ne gagne.
 
 ## Bisca de Nove
 
-This game '9-card Bisca' is also for two players. Nine cards are dealt to each player in batches of 3 at a time and the next card (the 19th) is turned up as the trump indicator. The play and drawing are the same as in Bisca de Três until the stock is exhausted. When there are no more cards in the stock the rules of play change: if a player leads a trump their opponent must also play a trump, but if a non-trump is led the second player may play any card.
+Ce jeu « Bisca à 9 » est aussi pour deux joueurs. Neuf cartes sont distribuées à chaque joueur par paquets de 3 à la fois et la carte suivante (la 19e) est retournée comme indicatrice d'atout. Le jeu et la pioche sont les mêmes qu'à la Bisca de Três jusqu'à l'épuisement du tas. Quand il n'y a plus de cartes dans le tas, les règles du jeu changent : si un joueur mène un atout, son adversaire doit aussi jouer un atout, mais si une carte non-atout est menée, le deuxième joueur peut jouer n'importe quelle carte.
 
-A player who takes from 61 to 81 points in tricks wins a single game, a player who wins 82 or more points but not every trick (the opponent has less than 39) wins 2 games. Theoretically, a player who won every trick would win 4 games (and therefore the match if played for best of 7), but this is almost impossible to achieve and it is doubtful whether it has ever happened.
+Un joueur qui prend de 61 à 81 points dans les plis gagne une seule manche, un joueur qui gagne 82 points ou plus mais pas tous les plis (l'adversaire a moins de 39) gagne 2 manches. Théoriquement, un joueur qui gagnerait tous les plis gagnerait 4 manches (et donc le match s'il est joué au meilleur de 7), mais c'est presque impossible à réaliser et il est douteux que cela soit déjà arrivé.
 
 ## Bisca de Seis
 
-This is '6-player Bisca', played between two teams of three, each player sitting between two opponents. It is best to use a round table so that each player has a clear view of their two team-mates. The twos are removed from the pack leaving 36 cards to play with.
+C'est la « Bisca à 6 joueurs », jouée entre deux équipes de trois, chaque joueur étant assis entre deux adversaires. Il est préférable d'utiliser une table ronde pour que chaque joueur ait une vue claire de ses deux coéquipiers. Les deux sont retirés du jeu, laissant 36 cartes.
 
-The cards are shuffled by the player to dealer's right and cut by the player to dealer's left . The dealer deals a batch of 3 cards to each player, turns the next card up to indicate trumps and stacks the remaining cards face down on top of it.
+Les cartes sont battues par le joueur à la droite du donneur et coupées par le joueur à sa gauche. Le donneur distribue un paquet de 3 cartes à chaque joueur, retourne la carte suivante pour indiquer les atouts et empile les cartes restantes face contre table par-dessus.
 
-The player to dealer's right leads and there is no requirement to follow suit. The winner of each trick draws the top card of the stock, followed by the other players in counter-clockwise order and then leads to the next trick. When the stock is exhausted the play continues with the same rules but without drawing. 
+Le joueur à la droite du donneur mène et il n'y a aucune obligation de suivre la couleur. Le vainqueur de chaque pli pioche la carte supérieure du tas, suivi des autres joueurs dans l'ordre antihoraire, puis mène au pli suivant. Quand le tas est épuisé, le jeu continue avec les mêmes règles mais sans pioche.
 
-A team with 61-90 card points in tricks wins 1 game, a team with 91 or more card points but not all the tricks wins 2 games, and a team that wins all 6 tricks wins 4 games. 
+Une équipe avec 61 à 90 points de cartes dans les plis gagne 1 manche, une équipe avec 91 points ou plus de cartes mais pas tous les plis gagne 2 manches, et une équipe qui gagne les 6 plis gagne 4 manches.
 
-In this game players can communicate with each other by speaking or using visual signs to tell their partners what cards they hold and suggest what to play. For this purpose it is usual for each team to have a captain, with the captains sitting opposite each other. The team members can signal to their captain to indicate cards that they hold, or the captain can signal to a team member to ask whether they have a particular card. The team members also monitor the opponents sitting opposite them and try to intercept any signals sent by these players to their captain. The cards signals are as follows:
+Dans ce jeu, les joueurs peuvent communiquer entre eux en parlant ou en utilisant des signaux visuels pour indiquer à leurs partenaires les cartes qu'ils détiennent et suggérer quoi jouer. À cet effet, il est habituel que chaque équipe ait un capitaine, les capitaines étant assis en face l'un de l'autre. Les membres de l'équipe peuvent faire des signes à leur capitaine pour indiquer les cartes qu'ils détiennent, ou le capitaine peut signaler à un membre de l'équipe pour lui demander s'il a une carte particulière. Les membres de l'équipe surveillent aussi les adversaires assis en face et essaient d'intercepter tout signal envoyé par ces joueurs à leur capitaine. Les signaux de cartes sont les suivants :
 
-| Ace of trumps: | open eyes wide so that forehead wrinkles |
-| Bisca (7) of trumps: | blink one eye |
-| King of trumps: | right cheek sign, for example tongue in cheek |
-| Jack of trumps: | left cheek sign |
-| Queen of trumps: | show tip of tongue briefly |
-| Lower trump: | mime a kiss |
-| Non-trump Ace or 7: | briefly bite lower lip |
+| As d'atout : | ouvrir grands les yeux pour plisser le front |
+| Bisca (7) d'atout : | cligner un œil |
+| Roi d'atout : | signe de la joue droite, par exemple la langue dans la joue |
+| Valet d'atout : | signe de la joue gauche |
+| Dame d'atout : | montrer brièvement le bout de la langue |
+| Atout bas : | mimer un baiser |
+| As ou 7 non-atout : | mordre brièvement la lèvre inférieure |
 
-### Variations
+### Variantes
 
-In some groups the dealer shuffles and the player to the right cuts.
+Dans certains groupes, le donneur bat et le joueur à droite coupe.
 
-Some conservative groups award only one game to the team that has the majority of card points, even if they have more than 90.
+Certains groupes conservateurs n'accordent qu'une seule manche à l'équipe ayant la majorité des points de cartes, même si elle a plus de 90.
 
 ## Bisca de Quatro
 
-4-player Bisca was played in Portugal in the 20th century. It is played between two teams of two players using the full 40-card pack. The initial deal is three cards to each player, and the rules are the same as for Bisca de Seis. Is is now less common there but is still played in Brazil. 
+La Bisca à 4 joueurs était jouée au Portugal au 20e siècle. Elle se joue entre deux équipes de deux joueurs avec le jeu complet de 40 cartes. La donne initiale est de trois cartes à chaque joueur, et les règles sont les mêmes que pour la Bisca de Seis. Elle est maintenant moins courante là-bas mais se joue encore au Brésil.
 
 ## Bisca Capixaba
 
-This is a variant of 4-player Bisca played in the state of Espírito Santo in Brazil, *'capixaba'* being an informal name for people born in that state. It is played without speaking or signals between partners, but it is usual for partners to show each other their cards briefly at the start of the play and again just after the last cards have been drawn from the stock. 
+C'est une variante de la Bisca à 4 joueurs jouée dans l'État d'Espírito Santo au Brésil, « capixaba » étant un nom informel pour les personnes nées dans cet État. Elle se joue sans parole ni signaux entre partenaires, mais il est habituel que les partenaires se montrent brièvement leurs cartes au début du jeu et à nouveau juste après que les dernières cartes ont été piochées du tas.
 
-The dealer shuffles, and the player to the right may either cut or instead knock on the deck, in which case hearts will be trumps. If the cards were cut then before dealing, the dealer draws a card from the deck and places it face up on the table as the trump indicator. The trump indicator cannot be an Ace or Seven so if one of these cards is drawn it must be buried in the deck and a new trump indicator drawn. The then dealer deals a batch of three cards to each player and stacks the remainder of the deck face down, crosswise on top of the trump indicator if any.
+Le donneur bat, et le joueur à droite peut soit couper soit frapper le jeu, auquel cas les cœurs seront atout. Si les cartes ont été coupées, le donneur tire une carte du jeu et la pose face visible sur la table comme indicatrice d'atout. L'indicateur d'atout ne peut pas être un As ou un Sept, donc si l'une de ces cartes est tirée, elle doit être enterrée dans le jeu et un nouvel indicateur tiré. Le donneur distribue ensuite un paquet de trois cartes à chaque joueur et empile le reste du jeu face contre table, en croix par-dessus l'indicateur d'atout s'il y en a un.
 
-If the cards were cut, a player who received the 2 of trumps in the initial deal can exchange it for the trump indicator card before playing to the first trick. 
+Si les cartes ont été coupées, un joueur qui a reçu le 2 d'atout lors de la donne initiale peut l'échanger contre la carte indicatrice d'atout avant de jouer au premier pli.
 
-As usual there is no requirement to follow suit and after each trick the players replenish their hands by drawing a card from the top of the stock pile, beginning with the winner of the trick. When all the cards have been played the team (if any) that has 61 or more card points wins at least 1 game point. A match is won by the first team to score a total of 4 or more game points over as many deals as that takes. 
+Comme d'habitude, il n'y a aucune obligation de suivre la couleur et après chaque pli les joueurs reconstituent leur main en piochant une carte du sommet du tas, en commençant par le vainqueur du pli. Quand toutes les cartes ont été jouées, l'équipe (s'il y en a une) qui a 61 points de cartes ou plus gagne au moins 1 point de manche. Un match est remporté par la première équipe qui atteint un total de 4 points de manche ou plus sur autant de donnes que nécessaire.
 
-In this version of Bisca there are various ways of scoring extra game points, so that the match can sometimes end in the middle of the play. The scoring is as follows.
+Dans cette version de la Bisca, il y a diverses façons de marquer des points de manche supplémentaires, de sorte que le match peut parfois se terminer en cours de jeu. Le comptage est le suivant.
 
-**Game**. A team that takes 61 points in tricks (but not more than 89) scores 1 game point if clubs, spades or diamonds are trumps, but 2 game points if hearts are trumps. For this reason, if the dealing team are ahead in game points the opponents will normally knock instead of cutting the deck to make hearts trumps and thereby improve their chance of catching up.
+**Manche.** Une équipe qui prend 61 points dans les plis (mais pas plus de 89) marque 1 point de manche si les trèfles, piques ou carreaux sont atout, mais 2 points de manche si les cœurs sont atout. Pour cette raison, si l'équipe distributrice est en avance en points de manche, les adversaires frapperont généralement plutôt que de couper le jeu pour mettre les cœurs à l'atout et améliorer ainsi leurs chances de rattraper leur retard.
 
-**Capote**. A team that takes less than 31 card points suffers 'capote' and the winning team with 90 or more card points scores 2 game points, or 3 game points if hearts are trumps.
+**Capote.** Une équipe qui prend moins de 31 points de cartes subit la « capote » et l'équipe gagnante avec 90 points de cartes ou plus marque 2 points de manche, ou 3 points de manche si les cœurs sont atout.
 
-**120**. If a team takes all the card points (but not necessarily all the tricks) they score 4 game points thereby winning the match.
+**120.** Si une équipe prend tous les points de cartes (mais pas nécessairement tous les plis), elle marque 4 points de manche et remporte ainsi le match.
 
-**Heley** (or ***Rela***, pronounced *'rélêi'*) occurs when the Ace and 7 of trumps fall in the same trick. There are several cases.
+**Heley** (ou ***Rela***, prononcé *« rélêi »*) se produit lorsque l'As et le 7 d'atout tombent dans le même pli. Il y a plusieurs cas.
 
-- If the Ace is played directly on the 7 by the next player, the team that played the Ace immediately scores 1 game point, or 2 if hearts were trumps.
+- Si l'As est joué directement sur le 7 par le joueur suivant, l'équipe qui a joué l'As marque immédiatement 1 point de manche, ou 2 si les cœurs étaient atout.
 
-- If the 7 is played **after** the Ace, buy an opponent of the person who played the Ace, the team that played the Ace immediately scores 2 game points, or 4 if hearts were trumps.
+- Si le 7 est joué **après** l'As, par un adversaire de la personne qui a joué l'As, l'équipe qui a joué l'As marque immédiatement 2 points de manche, ou 4 si les cœurs étaient atout.
 
-- **Heley de Parceiros**. If two partners play the Ace and 7 of trumps to the same trick, their opponents score 2 game points, or 3 if hearts were trumps. However, there is no score for this if it occurs in the very last trick of a deal, when the players have only one card in their hands. 
+- **Heley de Parceiros.** Si deux partenaires jouent l'As et le 7 d'atout dans le même pli, leurs adversaires marquent 2 points de manche, ou 3 si les cœurs étaient atout. Cependant, il n'y a pas de score si cela se produit au tout dernier pli d'une donne, lorsque les joueurs n'ont qu'une carte en main.
 
-- **Rodar o 7**. If a player **leads** the 7 of trumps to a trick and it is **not** beaten by the Ace, their team scores 1 game point, or 2 if hearts are not trumps.
+- **Rodar o 7.** Si un joueur **mène** le 7 d'atout à un pli et qu'il n'est **pas** battu par l'As, son équipe marque 1 point de manche, ou 2 si les cœurs ne sont pas atout.
 
-- **Heley de Roda**. If a player **leads** the 7 of trumps and the **fourth** player to the trick beats it with the Ace, the winners of the trick score 2 game points, or 3 if hearts are trumps. 
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Bisca
+- **Heley de Roda.** Si un joueur **mène** le 7 d'atout et que le **quatrième** joueur du pli le bat avec l'As, les vainqueurs du pli marquent 2 points de manche, ou 3 si les cœurs sont atout.

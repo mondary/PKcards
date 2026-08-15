@@ -2,10 +2,8 @@
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** A three-player variant of Brisca played in Puerto Rico, with a link to rules by José M. Carrillo-Muniz.
+**But :** Variante à trois joueurs de la Brisca jouée à Porto Rico, avec un lien vers les règles de José M. Carrillo-Muniz.
 
 ---
 
-Alcalde is a variation of Brisca for 3 players, played with the 40 card Spanish pack. For a description of how it is played in Puerto Rico, see José M. Carrillo-Muniz's page on [Games with the Spanish Pack](https://web.archive.org/web/20260409053653/https://members.tripod.com/~j_carrillo_vii/Briscas1.htm).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Alcalde
+Alcalde est une variante de la Brisca pour 3 joueurs, jouée avec le jeu espagnol de 40 cartes. Pour une description de la façon dont elle est jouée à Porto Rico, voir la page de José M. Carrillo-Muniz sur les [jeux avec le jeu espagnol](https://web.archive.org/web/20260409053653/https://members.tripod.com/~j_carrillo_vii/Briscas1.htm).

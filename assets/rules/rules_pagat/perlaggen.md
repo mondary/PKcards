@@ -3,517 +3,514 @@
 **Nombre de cartes :** 33
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** A partnership trick-taking game featuring combinations, wild cards and bluffing.
+**But :** Jeu de levées en partenariat avec des combinaisons, des cartes blanches et du bluff.
 **Autres noms :** Strafperlaggen
 
 ---
 
 - Introduction
 
-- Innsbruck Style
+- Style Innsbruck
 
-- Note on Basic Tactics
+- Note sur les tactiques de base
 
 - Eichelperlaggen
 
-- Two Players
+- Deux joueurs
 
-- Six Players
+- Six joueurs
 
-- Three Players
+- Trois joueurs
 
-- Strafperlaggen for Three
+- Strafperlaggen pour trois
 
-- Other Variations
+- Autres variantes
 
 ## Introduction
 
-Perlaggen first appeared in the Tyrol in the early 19th century. The first comprehensive account of the rules was published in 1853, and the basic principles have remained the same to the present day. Now as then, there are many slight variations from region to region and even from village to village, but experienced players find it relatively easy to adapt to the local rules and there have been several matches between players from different parts of the Tyrol, for example between Imster Perlaggengilde and various Perlaggen clubs in South Tyrol.
+Perlaggen est apparu pour la première fois dans le Tyrol au début du XIXe siècle. Le premier compte rendu complet des règles a été publié en 1853, et les principes de base sont restés les mêmes jusqu'à nos jours. Alors comme maintenant, il existe de nombreuses légères variations d'une région à l'autre et même d'un village à l'autre, mais les joueurs expérimentés trouvent relativement facile de s'adapter aux règles locales, et plusieurs matchs ont eu lieu entre joueurs de différentes régions du Tyrol, par exemple entre l'Imster Perlaggengilde et divers clubs de Perlaggen du Tyrol du Sud.
 
-Like its simpler ancestor Giltspiel, Perlaggen is usually played by four players in partnerships who are dealt five cards each. Points are scored for each of the three '**figures**': for having the best set of equal cards (*Gleich*), for having the best sequence in a suit (*Hanger*) and for winning the majority of the tricks (*Spiel*). Players may attempt to increase the score for each of these figures during the play and the opponents may accept the increase or concede. The difference from Giltspiel is that there are several wild cards, known as Perlaggen, which may be used to represent any card that the player desires. This greatly increases the possibilities for making combinations and the complexity of the game. Each Perlagg is 'baptised' (*getauft)* at the moment when it is played: the player announces what card it represents and this remains fixed for the rest of the deal.
+Comme son ancêtre plus simple Giltspiel, Perlaggen se joue généralement par quatre joueurs en partenariats qui reçoivent cinq cartes chacun. Des points sont marqués pour chacune des trois **« figures »** : pour avoir le meilleur ensemble de cartes égales (*Gleich*), pour avoir la meilleure séquence dans une couleur (*Hanger*) et pour gagner la majorité des levées (*Spiel*). Les joueurs peuvent essayer d'augmenter le score de chacune de ces figures pendant le jeu et les adversaires peuvent accepter l'augmentation ou concéder. La différence avec Giltspiel est qu'il y a plusieurs cartes blanches, appelées Perlaggen, qui peuvent être utilisées pour représenter n'importe quelle carte que le joueur désire. Cela augmente considérablement les possibilités de faire des combinaisons et la complexité du jeu. Chaque Perlagg est « baptisé » (*getauft*) au moment où il est joué : le joueur annonce quelle carte il représente et cela reste fixé pour le reste de la donne.
 
-Discussions and signalling between partners are allowed, and in Perlaggen these communications are a major part of the game. They concern not only what card to play and whether to propose or accept an increase in the score for a figure but also how best to deploy any wild cards the players may hold. The play of the cards is frequently paused while players confer over their next move. Because of this Perlaggen has been aptly described by one observer as "not so much a card game as a tactical discussion facilitated by playing-cards".
+Les discussions et les signaux entre partenaires sont autorisés, et dans Perlaggen ces communications sont une part majeure du jeu. Elles concernent non seulement la carte à jouer et s'il faut proposer ou accepter une augmentation du score d'une figure, mais aussi comment déployer au mieux les cartes blanches que les joueurs peuvent détenir. Le jeu des cartes est fréquemment interrompu pendant que les joueurs délibèrent sur leur prochain coup. Pour cette raison, Perlaggen a été justement décrit par un observateur comme « pas tant un jeu de cartes qu'une discussion tactique facilitée par des cartes à jouer ».
 
-In March 2016 Perlaggen was [recognised by UNESCO](https://www.unesco.at/kultur/immaterielles-kulturerbe/verzeichnis/element/perlaaggen-in-tirol/) as in item of Intangible Cultural Heritage for the Tyrol.
+En mars 2016, Perlaggen a été [reconnu par l'UNESCO](https://www.unesco.at/kultur/immaterielles-kulturerbe/verzeichnis/element/perlaaggen-in-tirol/) comme élément du patrimoine culturel immatériel pour le Tyrol.
 
-There are two main styles of Perlaggen, the chief difference between them being the set of cards that are wild. The Innsbruck style, known in dialect as '*innspruggerisch*', is so called because it is based on the rules agreed at the large Perlaggen Congress in Innsbruck in 1890, and subsequently published in *"Das Perlaggen - ein heimisches Kartenspiel"* (Bozen, 1926). This is the form of the game most usually played in South Tyrol. Because it is the most widespread style it will be described first. The other main style is known as Eichelperlaggen (acorn Perlaggen) because three cards of the acorn suit are permanent wild cards. This is played in and around Imst in the North Tyrol, as well as in a few places in South Tyrol.
+Il existe deux styles principaux de Perlaggen, la principale différence étant l'ensemble des cartes qui sont blanches. Le style Innsbruck, connu en dialecte sous le nom de '*innspruggerisch*', est ainsi appelé parce qu'il est basé sur les règles convenues au grand Congrès de Perlaggen à Innsbruck en 1890, et ensuite publié dans *"Das Perlaggen - ein heimisches Kartenspiel"* (Bozen, 1926). C'est la forme du jeu la plus souvent jouée dans le Tyrol du Sud. Parce que c'est le style le plus répandu, il sera décrit en premier. L'autre style principal est connu sous le nom d'Eichelperlaggen (Perlaggen aux glandes) car trois cartes de la couleur glandes sont des cartes blanches permanentes. Il se joue dans et autour d'Imst dans le Tyrol du Nord, ainsi que dans quelques endroits du Tyrol du Sud.
 
-In his book [Watten, Bieten & Perlaggen](https://amzn.to/1Xxuc1u) Hubert Auer has described both styles and some variants. The book [Perlaggen in Südtirol mit Watten & Bieten](https://amzn.to/2yxNCyb), edited by Josef Plankensteiner and the Förderkreis Perlaggen Südtirol describes the Innsbruck style in detail.
+Dans son livre [Watten, Bieten & Perlaggen](https://amzn.to/1Xxuc1u), Hubert Auer a décrit les deux styles et quelques variantes. Le livre [Perlaggen in Südtirol mit Watten & Bieten](https://amzn.to/2yxNCyb), édité par Josef Plankensteiner et le Förderkreis Perlaggen Südtirol, décrit le style Innsbruck en détail.
 
-*With thanks to Hubert Auer for introducing me to the game and the players of the Imster Perlaggengilde in Tarrenz.*
+*Avec nos remerciements à Hubert Auer pour nous avoir présenté le jeu et aux joueurs de l'Imster Perlaggengilde à Tarrenz.*
 
-## Innsbruck Style
+## Style Innsbruck
 
-### Players and Cards
+### Joueurs et cartes
 
-The best-known game is for four players in fixed partnerships, partners sitting opposite. This will be described first, followed by the two-player, six-player and three-player versions of the game, and finally a three-player variant known as Strafperlaggen. The deal and play are clockwise. 
+Le jeu le plus connu est pour quatre joueurs en partenariats fixes, les partenaires étant assis en face. Il sera décrit en premier, suivi des versions à deux, six et trois joueurs, et enfin d'une variante à trois joueurs connue sous le nom de Strafperlaggen. La donne et le jeu se font dans le sens des aiguilles d'une montre.
 
-A 33-card German suited pack is used. The suits are bells *(Schell)*, acorns *(Eichel)*, hearts *(Herz)* and leaves *(Laub)*. In South Tyrol Perlaggen is played with single-headed Salzburger pattern cards, while in North Tyrol most players use the double-headed William Tell pattern.
+On utilise un jeu allemand de 33 cartes. Les couleurs sont grelots *(Schell)*, glandes *(Eichel)*, cœurs *(Herz)* et feuilles *(Laub)*. Dans le Tyrol du Sud, Perlaggen se joue avec des cartes Salzburger à tête simple, tandis que dans le Tyrol du Nord, la plupart des joueurs utilisent le motif Guillaume Tell à double tête.
 
-The cards in each suit rank from high to low: Ace *(Ass, Sau)*, King *(König)*, Ober, Unter, Ten, Nine, Eight, Seven. The 33rd card is the Six of bells, which is inscribed with its name 'WELI', and is decorated with an acorn a heart as well as the bells, to emphasise its function as a wild card.
+Les cartes de chaque couleur sont classées de haut en bas : As *(Ass, Sau)*, Roi *(König)*, Ober, Unter, Dix, Neuf, Huit, Sept. La 33e carte est le Six de grelots, qui porte inscrit son nom 'WELI' et est décoré d'une glande et d'un cœur ainsi que des grelots, pour souligner sa fonction de carte blanche.
 
-There are four permanent wild cards (**Perlaggen**). These are
+Il y a quatre cartes blanches permanentes (**Perlaggen**). Ce sont :
 
-- The King of hearts, known as **Martl**
+- Le Roi de cœurs, connu sous le nom de **Martl**
 
-- The Six of bells, known as the **Weli**, or the *geschriebene Weli* (Weli with writing)
+- Le Six de grelots, connu sous le nom de **Weli**, ou *geschriebene Weli* (Weli avec écriture)
 
-- The Seven of bells, known as **Schell-Spitz**, or sometimes the *kleine Weli* (small Weli)
+- Le Sept de grelots, connu sous le nom de **Schell-Spitz**, ou parfois *kleine Weli* (petit Weli)
 
-- The Seven of acorns, known as **Eichel-Spitz**
+- Le Sept de glandes, connu sous le nom de **Eichel-Spitz**
 
-In addition there are two or three further wild cards (**Perlaggen**) taken from the suit that is trumps. These are
+En outre, il y a deux ou trois cartes blanches supplémentaires (**Perlaggen**) tirées de la couleur d'atout. Ce sont :
 
-- The Trump Seven, if hearts or leaves are trumps
+- Le Sept d'atout, si les cœurs ou les feuilles sont l'atout
 
-- The Trump Unter
+- L'Unter d'atout
 
-- The Trump Ober
+- L'Ober d'atout
 
-When any of these six or seven wild cards is played, the player should **baptise** it by stating what rank and suit it represents. If the player fails to baptise it, the card reverts to its face value. For example if someone plays the Eichel-Spitz and says nothing, it counts as an ordinary Seven of acorns.
+Quand l'une de ces six ou sept cartes blanches est jouée, le joueur doit la **baptiser** en indiquant quel rang et quelle couleur elle représente. Si le joueur omet de la baptiser, la carte revient à sa valeur faciale. Par exemple, si quelqu'un joue l'Eichel-Spitz et ne dit rien, elle compte comme un Sept de glandes ordinaire.
 
-Cards that are not Perlaggen will be referred to as **natural** cards.
+Les cartes qui ne sont pas des Perlaggen seront appelées cartes **naturelles**.
 
-A Perlagg can be baptised as **any** card in the pack, even as a card that a player already holds or a card that is already on the table. If several Perlaggen are played to the same trick and baptised to represent the same card, then for the purpose of deciding who wins the trick they rank as listed above from the Martl (highest) down to the Trump Ober. Any baptised Perlagg ranks higher than the real card that it represents if that is also played to the trick.
+Un Perlagg peut être baptisé comme **n'importe quelle** carte du jeu, même comme une carte qu'un joueur détient déjà ou une carte déjà sur la table. Si plusieurs Perlaggen sont joués à la même levée et baptisés pour représenter la même carte, pour déterminer qui gagne la levée, ils sont classés comme listés ci-dessus, du Martl (le plus haut) jusqu'à l'Ober d'atout. Tout Perlagg baptisé a un rang supérieur à la vraie carte qu'il représente si celle-ci est aussi jouée à la levée.
 
-**Example 1. **Suppose that leaves are trumps. Player A leads the Ten of leaves, player B plays the Ace of leaves, player C plays the Unter of leaves and baptises it as an Ace of leaves, and player D plays the Seven of bells and also baptises it as an Ace of leaves. D wins the trick, having played the best Ace of leaves. If D had not played an Ace of trumps C would have won as the Perlagg beats the real Ace of trumps.
+**Exemple 1.** Supposons que les feuilles sont l'atout. Le joueur A mène le Dix de feuilles, le joueur B joue l'As de feuilles, le joueur C joue l'Unter de feuilles et le baptise comme un As de feuilles, et le joueur D joue le Sept de grelots et le baptise aussi comme un As de feuilles. D gagne la levée, ayant joué le meilleur As de feuilles. Si D n'avait pas joué un As d'atout, C aurait gagné car le Perlagg bat le vrai As d'atout.
 
-**Example 2.** Leaves are trumps. Player A leads the Ten of leaves. Player B, who is trying to make a set of Obers, plays the King of hearts (Martl) and baptises it as the Ober of leaves. Player C plays the King of leaves. Player D plays the Seven of acorns and baptises it as the King of hearts. Player C wins the trick because the King of leaves is the highest trump played to the trick. Player D could have won the trick if he had used his Perlagg as a King or Ace of leaves, but chose to make it a heart instead, presumably because he needs that card to complete a heart sequence (Hanger).
+**Exemple 2.** Les feuilles sont l'atout. Le joueur A mène le Dix de feuilles. Le joueur B, qui essaie de faire un ensemble d'Obers, joue le Roi de cœurs (Martl) et le baptise comme l'Ober de feuilles. Le joueur C joue le Roi de feuilles. Le joueur D joue le Sept de glandes et le baptise comme le Roi de cœurs. Le joueur C gagne la levée car le Roi de feuilles est le plus haut atout joué à la levée. Le joueur D aurait pu gagner la levée s'il avait utilisé son Perlagg comme un Roi ou un As de feuilles, mais il a choisi d'en faire un cœur à la place, probablement parce qu'il a besoin de cette carte pour compléter une séquence de cœurs (Hanger).
 
-### The Deal
+### La donne
 
-The dealer shuffles the cards and offers them to the right-hand opponent to cut. The opponent lifts the top part of the pack and looks at its bottom card. If it is a permanent Perlagg the cutter shows it to the other players, takes it and looks at the next card. If the next card is another permanent Perlagg, the cutter takes that too and continues taking cards until the bottom card is not a permanent Perlagg. 
+Le donneur mélange les cartes et les offre à l'adversaire de droite pour couper. L'adversaire soulève la partie supérieure du jeu et regarde la carte du bas. Si c'est un Perlagg permanent, le coupeur la montre aux autres joueurs, la prend et regarde la carte suivante. Si la carte suivante est un autre Perlagg permanent, le coupeur la prend aussi et continue à prendre des cartes jusqu'à ce que la carte du bas ne soit pas un Perlagg permanent.
 
-The dealer then completes the cut and deals clockwise two cards at a time and then three at a time, so that each player has a hand of five cards. If the cutter took any Perlaggen then the dealer deals correspondingly fewer cards to that player. For example if the cutter took one Perlagg, the dealer will deal just one card to the cutter in the first round. A cutter who was lucky enough to find three Perlaggen will receive no cards in the first round of the deal and just two cards in the second round, so as to have a hand of five cards to play with.
+Le donneur termine alors la coupe et distribue dans le sens des aiguilles d'une montre deux cartes à la fois puis trois à la fois, de sorte que chaque joueur a une main de cinq cartes. Si le coupeur a pris des Perlaggen, le donneur distribue proportionnellement moins de cartes à ce joueur. Par exemple, si le coupeur a pris un Perlagg, le donneur ne distribuera qu'une carte au coupeur au premier tour. Un coupeur assez chanceux pour trouver trois Perlaggen ne recevra aucune carte au premier tour de la donne et seulement deux au deuxième, pour avoir une main de cinq cartes à jouer.
 
-The dealer turns the next card face up and places it on top of the stack of undealt cards. The suit of this turned up card is the trump suit for the hand. If a permanent Perlagg is turned up, the trump suit is the nominal suit of the card - for example if the Martl is turned up hearts are trumps and if the Weli is turned up bells are trumps.
+Le donneur retourne la carte suivante face visible et la place sur le dessus de la pile de cartes non distribuées. La couleur de cette carte retournée est la couleur d'atout pour la main. Si un Perlagg permanent est retourné, la couleur d'atout est la couleur nominale de la carte — par exemple si le Martl est retourné, les cœurs sont l'atout et si le Weli est retourné, les grelots sont l'atout.
 
-If the turned up card is a Perlagg and the dealer has in hand a natural card of the trump suit - i.e. a card that is not a Perlagg - the dealer can take the turned up Perlagg and place the natural card face up on top of the stack as a trump suit indicator in exchange. If the dealer has no natural trump to exchange for a turned up Perlagg, the dealer's partner can exchange in the same way. If neither member of the dealer's team exchanges, the turned up Perlagg remains in place and is out of play. Note that players are not allowed to exchange a lower Perlagg for a higher one. For example a player who holds the Ober of hearts is not allowed to exchange it for the Seven or King of hearts if either of these is turned up. The dealer's opponents are not allowed to exchange a card for a turned up Perlagg.
+Si la carte retournée est un Perlagg et que le donneur a en main une carte naturelle de la couleur d'atout — c'est-à-dire une carte qui n'est pas un Perlagg — le donneur peut prendre le Perlagg retourné et placer la carte naturelle face visible sur le dessus de la pile comme indicateur d'atout en échange. Si le donneur n'a pas d'atout naturel à échanger contre un Perlagg retourné, le partenaire du donneur peut échanger de la même manière. Si aucun membre de l'équipe du donneur n'échange, le Perlagg retourné reste en place et est hors jeu. Notez que les joueurs ne sont pas autorisés à échanger un Perlagg inférieur contre un supérieur. Par exemple, un joueur qui détient l'Ober de cœurs n'est pas autorisé à l'échanger contre le Sept ou le Roi de cœurs si l'un de ceux-ci est retourné. Les adversaires du donneur ne sont pas autorisés à échanger une carte contre un Perlagg retourné.
 
-### The Play
+### Le jeu
 
-The player to dealer's left leads to the first trick, but should not be in too much of a hurry to do so. Before leading it may be wise to get some information about partner's hand, and possibly to bet on one or more of the figures - see below. Also if a Perlagg was turned up the first player must allow time for the dealer's team to exchange it if they can.
+Le joueur à la gauche du donneur mène à la première levée, mais ne doit pas se presser. Avant de mener, il peut être judicieux d'obtenir des informations sur la main du partenaire, et éventuellement de miser sur une ou plusieurs des figures — voir ci-dessous. De plus, si un Perlagg a été retourné, le premier joueur doit laisser le temps à l'équipe du donneur de l'échanger s'ils le peuvent.
 
-Any card may be led. A player who has a card of the suit that was led must **either** follow suit **or** play a trump. A Perlagg may be played instead, but if the player has a natural card of the suit led the Perlagg must be baptised as either a card of that suit or a trump. A player who has no card of the suit led may play any card. 
+N'importe quelle carte peut être menée. Un joueur qui a une carte de la couleur menée doit **soit** suivre la couleur **soit** jouer un atout. Un Perlagg peut être joué à la place, mais si le joueur a une carte naturelle de la couleur menée, le Perlagg doit être baptisé soit comme une carte de cette couleur, soit comme un atout. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte.
 
-Therefore it is legal to play a trump or a Perlagg baptised as a trump to any trick. If a trump is led, any other players who hold a natural trump must either play a trump or play a Perlagg baptised as a trump. This is known as "Trumpf abreißen" (ripping out trumps). 
+Il est donc légal de jouer un atout ou un Perlagg baptisé comme atout à n'importe quelle levée. Si un atout est mené, les autres joueurs qui détiennent un atout naturel doivent soit jouer un atout soit jouer un Perlagg baptisé comme atout. C'est ce qu'on appelle « Trumpf abreißen » (arracher les atouts).
 
-There is no obligation to overtake cards previously played.
+Il n'y a aucune obligation de surmonter les cartes précédemment jouées.
 
-The trick is won by the highest trump in it, or if no trump was played, by the highest card of the suit that was led. If several equally high cards are played to a trick, some of them represented by Perlaggen, the highest of these Perlaggen beats the other equal cards. This most often happens when one or more Perlaggen are baptised as Aces of trumps. The winner of each trick leads to the next.
+La levée est gagnée par le plus haut atout, ou si aucun atout n'a été joué, par la plus haute carte de la couleur menée. Si plusieurs cartes de même hauteur sont jouées à une levée, dont certaines représentées par des Perlaggen, le plus haut de ces Perlaggen bat les autres cartes égales. Cela se produit le plus souvent lorsqu'un ou plusieurs Perlaggen sont baptisés comme des As d'atout. Le gagnant de chaque levée mène la suivante.
 
-When playing to a trick, the cards are not played to the centre of the table but are placed face up in front of the player. At the end of the trick they are not gathered up by the winner as in other card games but remain where they are. When playing to the next trick, the player will play the new card to the right of the card played to the previous trick, so that as the game continues each player will build a row of face up cards from left to right, and everyone can see all the cards that have been played and the order in which they were played, and helps when checking what card combinations each player has or may have.
+En jouant une levée, les cartes ne sont pas jouées au centre de la table mais sont placées face visible devant le joueur. À la fin de la levée, elles ne sont pas ramassées par le gagnant comme dans les autres jeux de cartes, elles restent là. En jouant la levée suivante, le joueur placera la nouvelle carte à droite de la carte jouée à la levée précédente, de sorte qu'au fil du jeu, chaque joueur construira une rangée de cartes face visible de gauche à droite, et tout le monde pourra voir toutes les cartes qui ont été jouées et l'ordre dans lequel elles l'ont été, ce qui aide à vérifier quelles combinaisons chaque joueur a ou pourrait avoir.
 
-At the end of each trick the winning card is pushed slightly forward - towards the centre of the table - to make it clearer which player has won each trick.
+À la fin de chaque levée, la carte gagnante est poussée légèrement vers l'avant — vers le centre de la table — pour clarifier quel joueur a gagné chaque levée.
 
-Since Perlaggen are wild, they can be played to any trick, but a player is never forced to play a Perlagg to a trick (unless the player has nothing left but Perlaggen). When playing a Perlagg the player should baptise it by announcing the rank and suit that it represents, and this fixes its value until the next deal. If a Perlagg is led to a trick, the suit it is baptised as determines the suit that must be followed. For example if a Perlagg is led and baptised as a trump, the other players must play trumps if they have them.
+Puisque les Perlaggen sont des cartes blanches, elles peuvent être jouées à n'importe quelle levée, mais un joueur n'est jamais forcé de jouer un Perlagg à une levée (sauf s'il ne lui reste que des Perlaggen). En jouant un Perlagg, le joueur doit le baptiser en annonçant le rang et la couleur qu'il représente, ce qui fixe sa valeur jusqu'à la donne suivante. Si un Perlagg est mené à une levée, la couleur à laquelle il est baptisé détermine la couleur qui doit être suivie. Par exemple, si un Perlagg est mené et baptisé comme atout, les autres joueurs doivent jouer des atouts s'ils en ont.
 
-**Example.** Bells are trump and the Ace of bells is led. You hold the King of bells, but choose to play your Seven of acorns (Perlagg) instead. In this case you must baptise your Perlagg as a bell, not as some other suit. In practice this restriction rarely prevents players from using their Perlaggen as they wish.
+**Exemple.** Les grelots sont l'atout et l'As de grelots est mené. Vous détenez le Roi de grelots, mais vous choisissez de jouer votre Sept de glandes (Perlagg) à la place. Dans ce cas, vous devez baptiser votre Perlagg comme un grelot, pas comme une autre couleur. En pratique, cette restriction empêche rarement les joueurs d'utiliser leurs Perlaggen comme ils le souhaitent.
 
 ### Gleich, Hanger, Spiel
 
-Points can be scored for each of the three **figures** Gleich, Hanger and Spiel.
+Des points peuvent être marqués pour chacune des trois **figures** Gleich, Hanger et Spiel.
 
-- **Gleich. **A Gleich is a set of at least two equal ranked cards belonging to one player. The player with the best Gleich wins the Gleich point for his or her team. Any set of three equal cards (*dritziges Gleich*) beats any pair (*einfaches* or* zwitziges Gleich*), any 4 of a kind (*viertiges Gleich*) beats any 3 of a kind, and a 5 of a kind (*fünftiges Gleich*), which can of course only be made with the help of Perlaggen, beats any 4 of a kind. If two Gleichs contain the same number of cards, the higher beats the lower. For example a pair of Aces beats a pair of Kings and three Sevens beats a pair of Aces. If the two teams have equal sets as their best Gleich (for example each has three Kings) it is a tie - *"Der Gleich steht"* (the Gleich stands) - and neither side gets the point. When comparing Gleichs, Perlaggen rank as equal to the cards they represent - for example any set of three Kings is equal to any other set of three Kings, no matter how many or which Perlaggen are included.
+- **Gleich.** Un Gleich est un ensemble d'au moins deux cartes de même rang appartenant à un même joueur. Le joueur avec le meilleur Gleich remporte le point de Gleich pour son équipe. Tout ensemble de trois cartes égales (*dritziges Gleich*) bat toute paire (*einfaches* ou *zwitziges Gleich*), tout carré (*viertiges Gleich*) bat tout brelan, et un quint (*fünftiges Gleich*), qui ne peut bien sûr être fait qu'avec l'aide de Perlaggen, bat tout carré. Si deux Gleichs contiennent le même nombre de cartes, le plus haut bat le plus bas. Par exemple, une paire d'As bat une paire de Rois, et trois Sept battent une paire d'As. Si les deux équipes ont des ensembles égaux comme meilleur Gleich (par exemple chacune a trois Rois), c'est une égalité — *"Der Gleich steht"* (le Gleich tient) — et aucun côté ne marque le point. Lors de la comparaison des Gleichs, les Perlaggen comptent comme égaux aux cartes qu'ils représentent — par exemple, tout ensemble de trois Rois est égal à tout autre ensemble de trois Rois, peu importe combien ou quels Perlaggen sont inclus.
 
-- **Hanger**. A Hanger is a sequence of at least two consecutive cards in the same belonging to one player. The player with the best Hanger wins the Hanger point for his or her team. A longer sequence beats a shorter one, and between two sequences of the same length the one with the higher cards wins. For example A-K beats K-O and 9-8-7 beats A-K. If the best Hangers of the two teams are equal - for example two opposing players have K-O-U in different suits - the Hanger stands (*"Der Hanger steht"*) and neither side gets the point. As with the Gleich, a baptised Perlagg is a Hanger is exactly equal in value to the natural card it represents.
+- **Hanger.** Un Hanger est une séquence d'au moins deux cartes consécutives de la même couleur appartenant à un même joueur. Le joueur avec le meilleur Hanger remporte le point de Hanger pour son équipe. Une séquence plus longue bat une plus courte, et entre deux séquences de même longueur, celle avec les cartes les plus hautes l'emporte. Par exemple A-R bat R-O et 9-8-7 bat A-R. Si les meilleurs Hangers des deux équipes sont égaux — par exemple deux joueurs adverses ont R-O-U dans des couleurs différentes — le Hanger tient (*"Der Hanger steht"*) et aucun côté ne marque le point. Comme pour le Gleich, un Perlagg baptisé dans un Hanger est exactement de même valeur que la carte naturelle qu'il représente.
 
-- **Spiel.** The team which wins three of the five tricks wins the point for Spiel. As soon as a team has won three tricks the play stops and if necessary there is a show to determine who has won the Gleich and Hanger. ["Spiel" just means "game", but throughout this page I will use the German word "Spiel" for this figure, to avoid confusion with "game" used in the general sense.] 
+- **Spiel.** L'équipe qui gagne trois des cinq levées remporte le point de Spiel. Dès qu'une équipe a gagné trois levées, le jeu s'arrête et si nécessaire, il y a une exhibition pour déterminer qui a gagné le Gleich et le Hanger. [« Spiel » signifie simplement « jeu », mais tout au long de cette page, j'utiliserai le mot allemand « Spiel » pour cette figure, pour éviter la confusion avec « jeu » utilisé au sens général.]
 
-A card can be used simultaneously in a Gleich and a Hanger - for example a hand containing 9 of bells, 9 of acorns, 9 of leaves and 10 of leaves has a three-card Gleich and a two-card Hanger. Note, however, that a Perlagg can only be baptised once, so if it is to be used both in a Gleich and in a Hanger it must represent the same card in each.
+Une carte peut être utilisée simultanément dans un Gleich et un Hanger — par exemple, une main contenant le 9 de grelots, le 9 de glandes, le 9 de feuilles et le 10 de feuilles a un Gleich de trois cartes et un Hanger de deux cartes. Notez cependant qu'un Perlagg ne peut être baptisé qu'une seule fois, donc s'il doit être utilisé à la fois dans un Gleich et un Hanger, il doit représenter la même carte dans chacun.
 
-### Betting
+### Mises
 
-Each figure is initially worth one point, but this can be increased by betting. A figure that has not yet been bet on is** unbet** (*nicht geboten*).
+Chaque figure vaut initialement un point, mais cela peut être augmenté par des mises. Une figure qui n'a pas encore fait l'objet d'une mise est **non misée** (*nicht geboten*).
 
-A bet is a proposal to raise the value of one of the figures by one point. For example a player may say "I bet on the Gleich" (*"Ich biete das Gleich"* or *"Das Gleich geboten"*), proposing to increase the value of the Gleich from 1 point to 2. For a bet to be valid the player must use the word "bet" *(bieten, geboten)* and name the figure (Gleich, Hanger or Spiel). 
+Une mise est une proposition d'augmenter la valeur d'une des figures d'un point. Par exemple, un joueur peut dire « je mise sur le Gleich » (*"Ich biete das Gleich"* ou *"Das Gleich geboten"*), proposant d'augmenter la valeur du Gleich de 1 point à 2. Pour qu'une mise soit valide, le joueur doit utiliser le mot « miser » *(bieten, geboten)* et nommer la figure (Gleich, Hanger ou Spiel).
 
-When a player bets, the play is suspended: no further cards can be played until the bet is answered by the opposing team. There are three possible answers.
+Quand un joueur mise, le jeu est suspendu : aucune autre carte ne peut être jouée jusqu'à ce que la mise soit répondue par l'équipe adverse. Il y a trois réponses possibles.
 
-- "Good" (*"gut"*) (equivalent to "fold" in Poker). The opponents reject the proposal and concede the figure. The betting side automatically wins the figure but only for the old (lower) value.
+- « Bon » (*"gut"*) (équivalent à « se coucher » au Poker). Les adversaires rejettent la proposition et concèdent la figure. L'équipe qui a misé gagne automatiquement la figure mais seulement pour l'ancienne valeur (plus basse).
 
-- "Hold" or "See" (*"halten"* / *"anschauen"* / *"heben"*) (equivalent to "call" in Poker, even though "heben" literally means "lift"). The opponents accept the bet, and the value of the figure is increased as proposed for whoever wins it.
+- « Tiens » ou « Vois » (*"halten"* / *"anschauen"* / *"heben"*) (équivalent à « suivre » au Poker, bien que *heben* signifie littéralement « lever »). Les adversaires acceptent la mise, et la valeur de la figure est augmentée comme proposé pour celui qui la gagne.
 
-- Make a counter bet (equivalent to "raise" in poker) (for example *"einen Dreier geben" *- to bet 3 in response to a bet of 2). The opponents accept the proposed increase and in their turn propose to increase the value by one point more, and the other team must answer the raise by conceding, holding or raising again, and so on. 
+- Faire une contre-mise (équivalent à « relancer » au poker) (par exemple *"einen Dreier geben"* — miser 3 en réponse à une mise de 2). Les adversaires acceptent l'augmentation proposée et à leur tour proposent d'augmenter la valeur d'un point de plus, et l'autre équipe doit répondre à la relance en concédant, en tenant ou en relançant à nouveau, et ainsi de suite.
 
-Any player may bet on an unbet figure at any time after the deal is complete (even in the middle of a trick). Either member of the opposing team may answer on behalf of their team. If a bet on a figure has been accepted (held / seen), then either member of the team that accepted the bet can later propose a further increase in the score by betting on the same figure again.
+N'importe quel joueur peut miser sur une figure non misée à tout moment après que la donne est complète (même au milieu d'une levée). N'importe quel membre de l'équipe adverse peut répondre au nom de son équipe. Si une mise sur une figure a été acceptée (tenue / vue), alors n'importe quel membre de l'équipe qui a accepté la mise peut ensuite proposer une augmentation supplémentaire du score en misant à nouveau sur la même figure.
 
-On any particular figure the teams bet alternately. A team whose bet is seen cannot bet on the same figure again until the other team has bet on it. Also, once a figure has been conceded (called good), it can of course no longer be bet on.
+Sur une figure en particulier, les équipes misent alternativement. Une équipe dont la mise a été vue ne peut pas miser à nouveau sur la même figure jusqu'à ce que l'autre équipe ait misé dessus. Aussi, une fois qu'une figure a été concédée (dite bonne), elle ne peut évidemment plus être mise.
 
-If, though a series of bets by alternate teams, the value of a figure reaches 7, the next bet on that figure is *'Spiel aus'*. If a bet of *'Spiel aus'* is accepted, then whoever wins that figure wins the whole game (normally 15 or 18 points). In the rare case where the *'Spiel aus'* bet is conceded the betting team would score 7 points.
+Si, à travers une série de mises alternées, la valeur d'une figure atteint 7, la prochaine mise sur cette figure est *'Spiel aus'*. Si une mise de *'Spiel aus'* est acceptée, alors celui qui gagne cette figure gagne toute la partie (normalement 15 ou 18 points). Dans le cas rare où la mise *'Spiel aus'* est concédée, l'équipe qui a misé marquerait 7 points.
 
-A team may concede a figure at any time, even if it has not been bet on. This is sometimes worthwhile for tactical reasons, especially for the Spiel: a team may announce "the Spiel is good" (*"das Spiel ist gut"*): play of tricks immediately ceases and the game moves into the show phase. 
+Une équipe peut concéder une figure à tout moment, même si elle n'a pas fait l'objet d'une mise. Cela vaut parfois la peine pour des raisons tactiques, surtout pour le Spiel : une équipe peut annoncer « le Spiel est bon » (*"das Spiel ist gut"*) : le jeu des levées cesse immédiatement et le jeu passe en phase d'exhibition.
 
-A figure is always bet or seen by an individual player on behalf of the player's team. If a bet on the Gleich or Hanger is accepted, the points are won by the team of the player who has the best Gleich or Hanger. The best Gleich or Hanger need not be held by the player who made or the saw bet: the figure could be won by one of the other two players on behalf of their team. Nevertheless, with the exception of a blind bet (see below) the individual player who bets or sees a Gleich or Hanger must have an example that figure in their hand - at least two equal cards if betting or seeing a Gleich, or at least two consecutive cards of a suit if betting or seeing a Hanger.
+Une figure est toujours mise ou vue par un joueur individuel au nom de l'équipe de ce joueur. Si une mise sur le Gleich ou le Hanger est acceptée, les points sont gagnés par l'équipe du joueur qui a le meilleur Gleich ou Hanger. Le meilleur Gleich ou Hanger n'a pas besoin d'être détenu par le joueur qui a fait ou vu la mise : la figure pourrait être gagnée par l'un des deux autres joueurs au nom de leur équipe. Néanmoins, à l'exception d'une mise aveugle (voir ci-dessous), le joueur individuel qui mise ou voit un Gleich ou Hanger doit avoir un exemple de cette figure en main — au moins deux cartes égales pour miser ou voir un Gleich, ou au moins deux cartes consécutives d'une même couleur pour miser ou voir un Hanger.
 
-If a bet is conceded, the betting team wins the figure provided that the bettor can produce an example of that figure, even if a member of the conceding team in fact turns out to have a better figure of that type.
+Si une mise est concédée, l'équipe qui a misé gagne la figure à condition que le parieur puisse produire un exemple de cette figure, même si un membre de l'équipe concédante s'avère avoir une meilleure figure de ce type.
 
-If the teams have won two tricks each and a card has been led to the fifth trick, it is still possible to bet on the Spiel. However, in these circumstances a player is only allowed to bet on the Spiel if his or her fifth card is a card of the suit that was led or a trump or a Perlagg. If such a bet is conceded, it is customary to say *"gut bei Farbe"* meaning that the bet is conceded provided that the bettor shows that he can follow suit or trump with his last card. Note that a player is allowed to bluff by betting in the fifth trick with a card that cannot win the trick, hoping that the opponents will concede, provided that this card is of the required suit or a trump, however small or a Perlagg. Note also that a player who bets on the Spiel during the fifth trick with a Perlagg is not thereby constrained to baptise this Perlagg as a trump or a card of the suit led: it can be baptised as any card that the player chooses.
+Si les équipes ont gagné deux levées chacune et qu'une carte a été menée à la cinquième levée, il est encore possible de miser sur le Spiel. Cependant, dans ces circonstances, un joueur n'est autorisé à miser sur le Spiel que si sa cinquième carte est une carte de la couleur menée, un atout ou un Perlagg. Si une telle mise est concédée, il est coutumier de dire *"gut bei Farbe"* signifiant que la mise est concédée à condition que le parieur montre qu'il peut suivre la couleur ou contrer avec sa dernière carte. Notez qu'un joueur est autorisé à bluffer en misant à la cinquième levée avec une carte qui ne peut pas gagner la levée, en espérant que les adversaires concéderont, à condition que cette carte soit de la couleur requise ou d'un atout, aussi petit soit-il, ou un Perlagg. Notez aussi qu'un joueur qui mise sur le Spiel pendant la cinquième levée avec un Perlagg n'est pas contraint de baptiser ce Perlagg comme un atout ou une carte de la couleur menée : il peut être baptisé comme n'importe quelle carte de son choix.
 
-**Example 3 ** - the two teams are North and South playing against East and West.
+**Exemple 3** — les deux équipes sont Nord et Sud jouant contre Est et Ouest.
 
-- South deals.
+- Sud donne.
 
-- Trick 1. West leads a card. Before North plays, South bets on the Gleich. East sees South's bet. North plays a card, East plays. South bets on the game, and East sees South's bet. South plays a card and wins the trick. At this point the Spiel and Gleich are worth 2 each and the Hanger is worth 1. North and South cannot bet on the Spiel or Gleich since they bet on them most recently. Anyone can bet on the Hanger.
+- Levée 1. Ouest mène une carte. Avant que Nord ne joue, Sud mise sur le Gleich. Est voit la mise de Sud. Nord joue une carte, Est joue. Sud mise sur le Spiel, et Est voit la mise de Sud. Sud joue une carte et gagne la levée. À ce stade, le Spiel et le Gleich valent chacun 2 et le Hanger vaut 1. Nord et Sud ne peuvent pas miser sur le Spiel ou le Gleich car ils ont été les derniers à miser dessus. N'importe qui peut miser sur le Hanger.
 
-- Trick 2. South leads a card. West bets "*Drei*" (3) on the Gleich. South sees West's bet. West plays a card. North plays a card. East plays and wins the trick. The Gleich is now worth 3 points. It is North/South's turn to bet on the Gleich and East/West's turn to bet on the Spiel. Anyone can bet on the Hanger.
+- Levée 2. Sud mène une carte. Ouest mise "*Drei*" (3) sur le Gleich. Sud voit la mise d'Ouest. Ouest joue une carte. Nord joue une carte. Est joue et gagne la levée. Le Gleich vaut maintenant 3 points. C'est le tour de Nord/Sud de miser sur le Gleich et le tour d'Est/Ouest de miser sur le Spiel. N'importe qui peut miser sur le Hanger.
 
-- ... and so the play continues 
+- ... et ainsi le jeu continue
 
-As soon as the Spiel figure is decided the play stops and if the Gleich and Hanger are not both already settled there is a showdown to decide who wins the remaining figures. There are two ways in which the Spiel can be decided before all the cards have been played:
+Dès que la figure Spiel est décidée, le jeu s'arrête et si le Gleich et le Hanger ne sont pas tous les deux déjà réglés, il y a une exhibition pour déterminer qui gagne les figures restantes. Le Spiel peut être décidé de deux manières avant que toutes les cartes n'aient été jouées :
 
-- when a team concedes the Spiel, either in response to a bet or spontaneously, or
+- quand une équipe concède le Spiel, soit en réponse à une mise, soit spontanément, ou
 
-- when a team has won three tricks. The team's third trick is considered won only when all four cards have been played to it. 
+- quand une équipe a gagné trois levées. La troisième levée de l'équipe n'est considérée comme gagnée que lorsque les quatre cartes y ont été jouées.
 
-### The Show
+### L'exhibition
 
-When the Spiel figure is decided, the play stops **immediately**. This can happen in the middle of a trick if a team calls the Spiel good at that point, in which case no more cards are played to that trick.
+Quand la figure Spiel est décidée, le jeu s'arrête **immédiatement**. Cela peut arriver au milieu d'une levée si une équipe déclare le Spiel bon à ce moment, auquel cas aucune autre carte n'est jouée à cette levée.
 
-If the Gleich or the Hanger or both are still unresolved, these must now be decided by a showdown. This happens in stages, the teams taking alternate turns to show, beginning with the the team that won the Spiel. (The obligation to show first is a disadvantage, which is why a team that has no hope of winning the Spiel will often concede it spontaneously.)
+Si le Gleich ou le Hanger ou les deux sont encore non résolus, ils doivent maintenant être décidés par une exhibition. Cela se fait par étapes, les équipes prenant alternativement le tour de montrer, en commençant par l'équipe qui a gagné le Spiel. (L'obligation de montrer en premier est un désavantage, c'est pourquoi une équipe qui n'a aucune chance de gagner le Spiel concédera souvent spontanément.)
 
-At each stage of the show, for each figure that is not yet decided, the showing team must do one of the following:
+À chaque étape de l'exhibition, pour chaque figure non encore décidée, l'équipe qui montre doit faire l'une des choses suivantes :
 
-- concede the figure, or
+- concéder la figure, ou
 
-- contest the figure, by revealing sufficient additional cards from their hands to show that they have an instance of that figure that is at least as good as either opponent has so far shown, or
+- contester la figure, en révélant suffisamment de cartes supplémentaires de sa main pour montrer qu'elle a un exemple de cette figure au moins aussi bon que ce que n'importe quel adversaire a montré jusque-là, ou
 
-- bet on the figure (only if it is unbet, or if it is their turn to bet on this figure having seen the previous bet on it).
+- miser sur la figure (seulement si elle est non misée, ou si c'est son tour de miser sur cette figure après avoir vu la mise précédente).
 
-In case 2, if a Perlagg is revealed it must be baptised at that point, fixing the card that it represents.
+Dans le cas 2, si un Perlagg est révélé, il doit être baptisé à ce moment, fixant la carte qu'il représente.
 
-If the showing team bets on either figure, the other team must answer each bet as usual (concede by saying it is good, accept by saying that they hold or see it, or make a counter bet, which in turn must be answered). If a bet is seen, the showing team must now either concede the figure or contest it by showing more cards if needed, as in options 1 and 2 above.
+Si l'équipe qui montre mise sur l'une ou l'autre figure, l'autre équipe doit répondre à chaque mise comme d'habitude (concéder en disant que c'est bon, accepter en disant qu'elle la tient ou la voit, ou faire une contre-mise, qui à son tour doit être répondue). Si une mise est vue, l'équipe qui montre doit maintenant soit concéder la figure soit la contester en montrant plus de cartes si nécessaire, comme dans les options 1 et 2 ci-dessus.
 
-When a team has completed its turn to show, if either figure is still being contested it is now the other team's turn to show. They have the same options: to concede contest or bet on each figure that is not yet settled.
+Quand une équipe a terminé son tour de montrer, si l'une des figures est encore contestée, c'est le tour de l'autre équipe. Elles ont les mêmes options : concéder, contester ou miser sur chaque figure non encore réglée.
 
-This continues, with the teams alternately adding more cards until the Gleich and Hanger are settled. Once all figures are resolved, the scores are recorded and the cards are shuffled for the next hand.
+Cela continue, les équipes ajoutant alternativement plus de cartes jusqu'à ce que le Gleich et le Hanger soient réglés. Une fois toutes les figures résolues, les scores sont enregistrés et les cartes sont mélangées pour la donne suivante.
 
-### Betting during the show
+### Mises pendant l'exhibition
 
-During the show, members of the showing team can bet. If both the Gleich and the Hanger are unresolved and a member of the showing team bets on one of these figures, the showing team must also concede, contest or bet on the other figure **before** the other team has to answer the bet.
+Pendant l'exhibition, les membres de l'équipe qui montre peuvent miser. Si le Gleich et le Hanger sont tous les deux non résolus et qu'un membre de l'équipe qui montre mise sur l'une de ces figures, l'équipe doit aussi concéder, contester ou miser sur l'autre figure **avant** que l'autre équipe ait à répondre à la mise.
 
-**Example 4**
+**Exemple 4**
 
-- At the start of the play North bets on the Gleich and East sees it. At the end of the first trick East/West announce* 'das Spiel ist gut'*, conceding the Spiel point. So now it is North/South's turn to show, since they won the Spiel. 
+- Au début du jeu, Nord mise sur le Gleich et Est voit. À la fin de la première levée, Est/Ouest annoncent *'das Spiel ist gut'*, concédant le point de Spiel. C'est maintenant le tour de Nord/Sud de montrer, puisqu'ils ont gagné le Spiel.
 
-- Stage 1. 
-South decides to bet on the Hanger. North/South are not allowed to bet on the Gleich at this point: it is not their turn to bet on the Gleich because East has already seen North's bet. However, they must show a Gleich (or concede it for 2 points) before they can require East/West to answer the Hanger bet. So North, who played a 9 to the first trick, shows another 9 beside it. Now East/West have to answer the bet on the Hanger. If West (for example) sees the Hanger, North/South must show a Hanger (or concede it) to complete their turn to show. On the other hand if East/West concede the Hanger point, North/South's turn to show ends immediately, and it is East/West's turn to show or bet on the Gleich.
+- Étape 1. Sud décide de miser sur le Hanger. Nord/Sud ne sont pas autorisés à miser sur le Gleich à ce stade : ce n'est pas leur tour de miser sur le Gleich car Est a déjà vu la mise de Nord. Cependant, ils doivent montrer un Gleich (ou le concéder pour 2 points) avant de pouvoir exiger qu'Est/Ouest répondent à la mise sur le Hanger. Nord, qui a joué un 9 à la première levée, montre un autre 9 à côté. Maintenant, Est/Ouest doivent répondre à la mise sur le Hanger. Si Ouest (par exemple) voit le Hanger, Nord/Sud doivent montrer un Hanger (ou le concéder) pour terminer leur tour de montrer. D'un autre côté, si Est/Ouest concèdent le point de Hanger, le tour de montrer de Nord/Sud se termine immédiatement, et c'est le tour d'Est/Ouest de montrer ou de miser sur le Gleich.
 
-During the showdown a bet may as usual be answered with a raise, which in turn must be answered, and players can continue to raise alternately until a bet is conceded or held. If the showing team bets on both the Gleich and the Hanger, the other team must answer both bets before the show can continue.
+Pendant l'exhibition, une mise peut comme d'habitude être répondue par une relance, qui à son tour doit être répondue, et les joueurs peuvent continuer à relancer alternativement jusqu'à ce qu'une mise soit concédée ou tenue. Si l'équipe qui montre mise sur le Gleich et le Hanger, l'autre équipe doit répondre aux deux mises avant que l'exhibition puisse continuer.
 
-The opponents of the showing team cannot bet, except by responding with a raise to a bet by the showing team. If the showing team does not bet, the other team must wait to bet until it is their turn to show.
+Les adversaires de l'équipe qui montre ne peuvent pas miser, sauf en répondant par une relance à une mise de l'équipe qui montre. Si l'équipe qui montre ne mise pas, l'autre équipe doit attendre pour miser jusqu'à son tour de montrer.
 
-### Showing cards to validate bets
+### Montrer des cartes pour valider les mises
 
-At the end of the showdown, before the scores are recorded and the cards thrown in, any player who has bet on or seen a figure must show an example of that figure - at least two equal cards for a Gleich and at least two consecutive cards of a suit for a Hanger. Even if the figure is won by the player's partner, the player who bet or saw a bet must also show an example of the figure, however small. A bet can be validated by showing a Perlagg from hand and baptising it appropriately. However, it is tactically better if a player making or holding the bet has a natural Gleich or Hanger (*"Gleich in natur"*, *"Hanger in natur"*) so that the team remains free to use their Perlaggen as they wish. If a player bets or sees a bet but cannot show an example of that figure, the player's team suffers a penalty - see scoring below.
+À la fin de l'exhibition, avant que les scores ne soient enregistrés et les cartes jetées, tout joueur qui a misé ou vu une figure doit montrer un exemple de cette figure — au moins deux cartes égales pour un Gleich et au moins deux cartes consécutives d'une couleur pour un Hanger. Même si la figure est gagnée par le partenaire du joueur, le joueur qui a misé ou vu la mise doit aussi montrer un exemple de la figure, aussi petit soit-il. Une mise peut être validée en montrant un Perlagg de sa main et en le baptisant de manière appropriée. Cependant, il est tactiquement préférable qu'un joueur qui fait ou tient la mise ait un Gleich ou Hanger naturel (*"Gleich in natur"*, *"Hanger in natur"*) pour que l'équipe reste libre d'utiliser ses Perlaggen comme elle le souhaite. Si un joueur mise ou voit une mise mais ne peut pas montrer un exemple de cette figure, l'équipe du joueur subit une pénalité — voir le comptage ci-dessous.
 
-**Example 5** - continuation of Example 4
+**Exemple 5** — suite de l'Exemple 4
 
-- East/West concede the Hanger and West puts down two Unters to beat North's two 9's. That completes stage 1. 
+- Est/Ouest concèdent le Hanger et Ouest pose deux Unters pour battre les deux 9 de Nord. Cela termine l'étape 1.
 
-- Stage 2. Now it is North/South's turn: North contests the Gleich by putting down the 7 of bells (Perlagg) and baptising it as a 9. 
+- Étape 2. C'est maintenant le tour de Nord/Sud : Nord conteste le Gleich en posant le 7 de grelots (Perlagg) et en le baptisant comme un 9.
 
-- Stage 3. It is East/West's turn and West bets "3" on the Gleich. It looks as though West probably has a Perlagg or third Unter, so if North/South believe this and cannot beat three Unters they may call the Gleich good for 2 points. Alternatively they may see it in the hope of winning 3 points if West is bluffing. Either way, before the scoring can be done, East must also show a Gleich - any Gleich, even a pair of 8's, would be enough - since it was East not West who saw North's first bet. Also South must show a Hanger since he bet on it. 
+- Étape 3. C'est le tour d'Est/Ouest et Ouest mise « 3 » sur le Gleich. Il semble qu'Ouest a probablement un Perlagg ou un troisième Unter, donc si Nord/Sud le croient et ne peuvent pas battre trois Unters, ils peuvent déclarer le Gleich bon pour 2 points. Alternativement, ils peuvent voir en espérant gagner 3 points si Ouest bluffe. Dans les deux cas, avant que le comptage puisse être fait, Est doit aussi montrer un Gleich — n'importe quel Gleich, même une paire de 8, suffirait — puisque c'est Est et non Ouest qui a vu la première mise de Nord. Aussi, Sud doit montrer un Hanger puisqu'il a misé dessus.
 
-### Dealing with ties
+### Traitement des égalités
 
-If both teams have an equally high Gleich or Hanger, the figure is tied (standing) and neither team scores for it. The German expression is *"Das Gleich steht"* (the Gleich stands) or *"Der Hanger steht"*. For the purposes of Gleich and Hanger the suits are of equal value, and the Perlaggen are equal to the cards they represent, so for example the Gleich would be tied if a player from one team has three natural Kings, a player from the opposing team has a King and two Perlaggen baptised as Kings, and no one has three Aces or four of a kind. The Hanger would be tied if one player has 10-9-8 of hearts and an opponent has 10-9-8 of acorns and no one has a better Hanger - even if either hearts or acorns are trumps.
+Si les deux équipes ont un Gleich ou un Hanger de même hauteur, la figure est tenue (nulle) et aucune équipe ne marque de points. L'expression allemande est *"Das Gleich steht"* (le Gleich tient) ou *"Der Hanger steht"*. Pour le Gleich et le Hanger, les couleurs sont de valeur égale, et les Perlaggen sont égaux aux cartes qu'ils représentent, donc par exemple le Gleich serait nul si un joueur d'une équipe a trois Rois naturels, un joueur de l'équipe adverse a un Roi et deux Perlaggen baptisés comme Rois, et personne n'a trois As ou un carré. Le Hanger serait nul si un joueur a 10-9-8 de cœurs et un adversaire a 10-9-8 de glandes et personne n'a un meilleur Hanger — même si les cœurs ou les glandes sont l'atout.
 
-During the show, if the **winners** of the Spiel leave a figure standing (tied) at the end of their turn to show, they are not allowed to improve this figure in a later turn to show. On the other hand the **losers** of the Spiel do not have this constraint. They can leave a figure standing and add a card to improve it at their next turn to show.
+Pendant l'exhibition, si les **gagnants** du Spiel laissent une figure tenue (nulle) à la fin de leur tour de montrer, ils ne sont pas autorisés à améliorer cette figure lors d'un tour de montrer ultérieur. En revanche, les **perdants** du Spiel n'ont pas cette contrainte. Ils peuvent laisser une figure tenue et ajouter une carte pour l'améliorer à leur prochain tour de montrer.
 
-**Example 6**
+**Exemple 6**
 
-- After the deal and before the first lead, North/South say the Spiel is good so East/West win the Spiel point and must show first.
+- Après la donne et avant la première levée, Nord/Sud disent que le Spiel est bon, donc Est/Ouest gagnent le point de Spiel et doivent montrer en premier.
 
-- Stage 1: East puts down the leaf 10 and heart 10 for the Gleich and adds the leaf 9 to make a Hanger in leaves. 
+- Étape 1 : Est pose le 10 de feuilles et le 10 de cœurs pour le Gleich et ajoute le 9 de feuilles pour faire un Hanger de feuilles.
 
-- Stage 2: North shows the 10's of acorns and bells and South shows the Ober and Unter of acorns, so at the moment the Gleich stands and N/S are winning the Hanger.
+- Étape 2 : Nord montre les 10 de glandes et de grelots, et Sud montre l'Ober et l'Unter de glandes, donc pour le moment le Gleich tient et N/S gagnent le Hanger.
 
-- Stage 3: West now shows the heart Ober and Unter and says "*Hanger steht*" - the Hanger is standing. East shows the 7 of leaves, which is a Perlagg since leaves are trumps, and baptises it as the 10 of leaves, so now E/W are winning the Gleich with three tens.
+- Étape 3 : Ouest montre maintenant l'Ober et l'Unter de cœurs et dit "*Hanger steht*" — le Hanger tient. Est montre le 7 de feuilles, qui est un Perlagg puisque les feuilles sont l'atout, et le baptise comme le 10 de feuilles, donc maintenant E/O gagnent le Gleich avec trois dix.
 
-- Stage 4: South adds the King of acorns, so that N/S win the Hanger. North adds the Weli and baptises it as another 10 of leaves so that the Gleich is standing again. Because N/S lost the Spiel they are allowed to improve their Gleich even though they left it standing before. 
+- Étape 4 : Sud ajoute le Roi de glandes, de sorte que N/S gagnent le Hanger. Nord ajoute le Weli et le baptise comme un autre 10 de feuilles pour que le Gleich tienne à nouveau. Parce que N/S ont perdu le Spiel, ils sont autorisés à améliorer leur Gleich même s'ils l'avaient laissé tenir avant.
 
-- Stage 5: West produces two more Perlaggen: the King of hearts and the 7 of acorns. These cannot be baptised as the Ace and King of hearts to win the Hanger: E/W left the Hanger standing last time and since they won the Spiel they are not allowed to improve their Hanger. Therefore West baptises both Perlaggen as Obers of leaves so that E/W are now winning the Gleich.
+- Étape 5 : Ouest produit deux Perlaggen supplémentaires : le Roi de cœurs et le 7 de glandes. Ils ne peuvent pas être baptisés comme l'As et le Roi de cœurs pour gagner le Hanger : E/O ont laissé le Hanger tenir la dernière fois et comme ils ont gagné le Spiel, ils ne sont pas autorisés à améliorer leur Hanger. Donc Ouest baptise les deux Perlaggen comme des Obers de feuilles pour que E/O gagnent maintenant le Gleich.
 
-- Stage 6: N/S have already won the Hanger. If North has a second Perlagg he can baptise it as yet another 10. In that case N/S will win the Gleich as well with North's four 10's, unless East has the Ober of leaves or East or West has another Perlagg.
+- Étape 6 : N/S ont déjà gagné le Hanger. Si Nord a un second Perlagg, il peut le baptiser comme encore un autre 10. Dans ce cas, N/S gagneraient aussi le Gleich avec les quatre 10 de Nord, à moins qu'Est n'ait l'Ober de feuilles ou qu'Est ou Ouest ait un autre Perlagg.
 
 ![showdown](../images/trumps/perlaggen2.png)
-In the above example, in a real game there would almost certainly have been betting during the show. For clarity the bets were omitted in the above description.
+Dans l'exemple ci-dessus, dans une vraie partie, il y aurait presque certainement eu des mises pendant l'exhibition. Pour plus de clarté, les mises ont été omises dans la description ci-dessus.
 
-Based on the cards shown above, by using their Perlaggen differently E/W could have won the Hanger and left the Gleich standing rather than winning the Gleich and losing the Hanger. Which would have worked out better depends on the final values of the Gleich and Hanger, as determined by the betting.
+Sur la base des cartes montrées ci-dessus, en utilisant leurs Perlaggen différemment, E/O auraient pu gagner le Hanger et laisser le Gleich tenir plutôt que de gagner le Gleich et de perdre le Hanger. Ce qui aurait mieux fonctionné dépend des valeurs finales du Gleich et du Hanger, telles que déterminées par les mises.
 
-### Scoring
+### Comptage des points
 
-After all the figures have been resolved, the points scored by each team are recorded. The team which, over several deals, achieves the agreed target score (in South Tyrol normally 18 points) wins the game.
+Après que toutes les figures ont été résolues, les points marqués par chaque équipe sont enregistrés. L'équipe qui, sur plusieurs donnes, atteint le score cible convenu (dans le Tyrol du Sud normalement 18 points) gagne la partie.
 
-On the scoresheet the target score is written at the top and below it are two columns: the column on the right for the scorer's team and the column on the left for the scorer's opponents. After each deal, the points scored by each team are recorded. For example suppose E/W bet on the Gleich and N/S saw (held) the bet, E/W bet on the Spiel and N/S called it good (conceded) and in the showdown N/S won the hanger without bets. The scorer East will write 1 in the left column (for the Hanger won by N/S) and 3 in the right column (1 for the Spiel plus 2 for the Gleich).
+Sur la feuille de score, le score cible est écrit en haut et en dessous il y a deux colonnes : la colonne de droite pour l'équipe du compteur et la colonne de gauche pour les adversaires du compteur. Après chaque donne, les points marqués par chaque équipe sont enregistrés. Par exemple, supposons qu'Est/Ouest aient misé sur le Gleich et que Nord/Sud ait vu (tenu) la mise, qu'Est/Ouest aient misé sur le Spiel et que Nord/Sud l'ait appelé bon (concédé), et que dans l'exhibition Nord/Sud aient gagné le Hanger sans mises. Le compteur Est écrira 1 dans la colonne de gauche (pour le Hanger gagné par N/S) et 3 dans la colonne de droite (1 pour le Spiel plus 2 pour le Gleich).
 
 ![scoresheet](../images/trumps/perlaggen1.png)
-Traditionally, the scores are not totalled as the game proceeds. The scoresheet to the right shows a game in which after 3 deals the scorer's team has scored 5 points and the other team 6. 
+Traditionnellement, les scores ne sont pas totalisés au fur et à mesure du jeu. La feuille de score ci-contre montre une partie dans laquelle après 3 donnes, l'équipe du compteur a marqué 5 points et l'autre équipe 6.
 
-If a team has a score that is just one point short of the target - for example 17 points in an 18-point game or 14 points in a 15-point game - a vertical line is drawn through their column of scores: they are said to be *"gestrichen"* and special rules come into play - see Endgame below. Since it is possible to win several points in a deal, a team can reach the target and win the game without previously having been *gestrichen*.
+Si une équipe a un score qui n'est qu'à un point du cible — par exemple 17 points dans un jeu à 18 points ou 14 points dans un jeu à 15 points — une ligne verticale est tracée à travers leur colonne de scores : ils sont dits *"gestrichen"* et des règles spéciales s'appliquent — voir Fin de partie ci-dessous. Puisqu'il est possible de marquer plusieurs points lors d'une donne, une équipe peut atteindre le score cible et gagner la partie sans avoir été *gestrichen* auparavant.
 
-In a close game, where both teams could potentially have enough points to reach the target on the final deal, the winners are decided by scoring the figures in the following order:
+Dans une partie serrée, où les deux équipes pourraient potentiellement avoir assez de points pour atteindre le cible lors de la dernière donne, les gagnants sont déterminés en comptant les figures dans l'ordre suivant :
 
-- Points for figures that have been conceded, in the order in which they were called good.
+- Les points pour les figures qui ont été concédées, dans l'ordre où elles ont été déclarées bonnes.
 
-- Points for figures that have been bet and held, in the order in which they were first bet on.
+- Les points pour les figures qui ont été mises et tenues, dans l'ordre où elles ont été mises pour la première fois.
 
-- Points for unbet figures in the order Gleich, Hanger, Spiel. 
+- Les points pour les figures non mises, dans l'ordre Gleich, Hanger, Spiel.
 
-If a player who has bet on or seen the Gleich or Hanger fails to show an example of that figure, the player's team incurs a penalty of 2 points deducted from their score and cannot score any points in that deal. In addition if the other team can show an example of that figure they win the points for it. Exception: the 2-point penalty does not apply in the case of a blind bet (see below).
+Si un joueur qui a misé ou vu le Gleich ou le Hanger échoue à montrer un exemple de cette figure, l'équipe du joueur subit une pénalité de 2 points déduits de son score et ne peut marquer aucun point lors de cette donne. De plus, si l'autre équipe peut montrer un exemple de cette figure, elle gagne les points pour celle-ci. Exception : la pénalité de 2 points ne s'applique pas dans le cas d'une mise aveugle (voir ci-dessous).
 
-### The Endgame
+### La fin de partie
 
-A team that is *gestrichen*, needing just one more point to win, is not allowed to bet on any figure. More generally, if a figure has already been bet and held for a score that would be sufficient for a team to reach the target, that team cannot bet on that figure.
+Une équipe qui est *gestrichen*, n'ayant besoin que d'un point de plus pour gagner, n'est pas autorisée à miser sur aucune figure. Plus généralement, si une figure a déjà été mise et tenue pour un score qui serait suffisant pour qu'une équipe atteigne le cible, cette équipe ne peut pas miser sur cette figure.
 
-Example 7
-The target for winning the game is 18 points. N/S have 15 points and E/W have 9. E/W bet on the Gleich and N/S see the bet. Later N/S bet on the Spiel and E/W concede. With the point for the Spiel already won, the 2 points for the Gleich would be enough to take N/S to a winning total of 18 points. Therefore N/S are not allowed to bet "3" on the Gleich. N/S are however free to bet on the Hanger, which is currently worth only one point (unbet).
+Exemple 7
+Le score pour gagner la partie est de 18 points. N/S ont 15 points et E/O ont 9. E/O misent sur le Gleich et N/S voient la mise. Plus tard, N/S misent sur le Spiel et E/O concèdent. Avec le point du Spiel déjà gagné, les 2 points du Gleich suffiraient pour porter N/S à un total gagnant de 18 points. Donc N/S ne sont pas autorisés à miser « 3 » sur le Gleich. N/S sont cependant libres de miser sur le Hanger, qui ne vaut actuellement qu'un point (non misé).
 
-In fact, if you are *gestrichen*, it would rarely be in your interest to bet even if it were allowed. The opponents cannot afford to call your bet good, since that would lose them the game. So the only effect of your bet would be to give your opponents more points should they win the figure. Another way to state the above rule is that you are only allowed to bet if the opponents have room to concede without automatically giving you the game.
+En fait, si vous êtes *gestrichen*, il serait rarement dans votre intérêt de miser même si cela était autorisé. Les adversaires ne peuvent pas se permettre de déclarer votre mise bonne, car cela leur ferait perdre la partie. Le seul effet de votre mise serait de donner plus de points à vos adversaires s'ils gagnent la figure. Une autre façon de formuler cette règle est que vous n'êtes autorisé à miser que si les adversaires ont la marge de concéder sans vous donner automatiquement la partie.
 
-If both teams are *gestrichen* (they have 17 points each with a target of 18) no bets are allowed, and a special rule comes into effect. If any player has a Gleich or Hanger of at least 3 cards the game is won by the best Gleich or Hanger. For this purpose a figure with more cards is always better, so for example a 4-card (*viertiges*) Hanger is better than a 3-card (*dritziges*) Gleich. If the figures have equally many cards a Gleich beats a Hanger. 
+Si les deux équipes sont *gestrichen* (elles ont 17 points chacune avec un cible de 18), aucune mise n'est autorisée, et une règle spéciale s'applique. Si un joueur a un Gleich ou un Hanger d'au moins 3 cartes, la partie est gagnée par le meilleur Gleich ou Hanger. Pour cela, une figure avec plus de cartes est toujours meilleure, donc par exemple un Hanger à 4 cartes (*viertiges*) est meilleur qu'un Gleich à 3 cartes (*dritziges*). Si les figures ont le même nombre de cartes, un Gleich bat un Hanger.
 
-The process is as follows. Beginning with the player to dealer's left and continuing clockwise, any player who has a figure of 3 or more cards declares it by asking *"ist dritzig (viertig/fünftig) erlaubt?"* - "is a 3-card (4-card/5-card) figure allowed?". The remaining players answer *"nicht erlaubt"* - "not allowed" if they have a figure with equally many or more cards, or "yes" if they do not. The player with the best figure (most cards) wins the game. In case of a tie the players reveal first whether their figure is a Gleich or a Hanger and then if necessary how high.
+Le processus est le suivant. En commençant par le joueur à la gauche du donneur et en continuant dans le sens des aiguilles d'une montre, tout joueur qui a une figure de 3 cartes ou plus la déclare en demandant *"ist dritzig (viertig/fünftig) erlaubt ?"* — « un figure à 3 (4/5) cartes est-elle autorisée ? ». Les joueurs restants répondent *"nicht erlaubt"* — « pas autorisé » s'ils ont une figure avec le même nombre ou plus de cartes, ou « oui » s'ils n'en ont pas. Le joueur avec la meilleure figure (le plus de cartes) gagne la partie. En cas d'égalité, les joueurs révèlent d'abord si leur figure est un Gleich ou un Hanger puis, si nécessaire, sa hauteur.
 
-If both teams are *gestrichen* and no one has a Gleich or Hanger of more than 2 cards then the cards are played and the team that takes 3 tricks scores the Spiel point and wins the game. The same happens if there is a tie for the best Gleich or Hanger - for example two opposing players have equal 4-card Hangers, such as U-10-9-8 in different suits and there is no 4-card Gleich. 
+Si les deux équipes sont *gestrichen* et que personne n'a de Gleich ou de Hanger de plus de 2 cartes, les cartes sont jouées et l'équipe qui prend 3 levées marque le point de Spiel et gagne la partie. Il en va de même s'il y a une égalité pour le meilleur Gleich ou Hanger — par exemple deux joueurs adverses ont des Hangers égaux à 4 cartes, comme U-10-9-8 dans des couleurs différentes, et il n'y a pas de Gleich à 4 cartes.
 
-It is possible for both sides to become *gestrichen* during the play. If the Gleich **and** Hanger are **both** unbet at this point, the above rule comes into play and a 3-card Gleich or Hanger is needed to win. For example in an 18-point game the score is 17-16 and the team with 16 points bets on the Spiel. If the 17-point team call the Spiel good, the score is 17-17 and no one can bet. The best Gleich or Hanger of at least 3 cards wins the game. If neither side has one or there is a tie, neither team scores and since the Spiel point has already been awarded there must be a new deal with both teams *gestrichen*.
+Il est possible que les deux côtés deviennent *gestrichen* pendant le jeu. Si le Gleich **et** le Hanger sont **tous les deux** non misés à ce stade, la règle ci-dessus s'applique et un Gleich ou un Hanger à 3 cartes est nécessaire pour gagner. Par exemple, dans un jeu à 18 points, le score est de 17-16 et l'équipe avec 16 points mise sur le Spiel. Si l'équipe à 17 points déclare le Spiel bon, le score est de 17-17 et personne ne peut miser. Le meilleur Gleich ou Hanger d'au moins 3 cartes gagne la partie. Si aucun côté n'en a un ou s'il y a égalité, aucune équipe ne marque et puisque le point de Spiel a déjà été attribué, il doit y avoir une nouvelle donne avec les deux équipes *gestrichen*.
 
-On the other hand, if at a score of 17-16 in an 18-point game the team with 16 points bets on (say) the Gleich and the 17-point team concedes, the score is 17-17 and the best Hanger will win. A 2-card Hanger is sufficient in this case. If no one has a Hanger or the Hanger stands, then the team that wins 3 tricks wins. 
+D'un autre côté, si à un score de 17-16 dans un jeu à 18 points, l'équipe avec 16 points mise sur (par exemple) le Gleich et l'équipe à 17 points concède, le score est de 17-17 et le meilleur Hanger gagnera. Un Hanger à 2 cartes suffit dans ce cas. Si personne n'a de Hanger ou si le Hanger tient, l'équipe qui gagne 3 levées gagne.
 
-### Blind bets
+### Mises aveugles
 
-Players may bet blind (*ungesehen*) on any or all figures at the start of a hand, before they see any of their cards. Normally this option is only used as an emergency measure by a team that is far behind, having for example 11 points or fewer when the opponents are *gestrichen* in a 15-point game. A blind bet can only be made before the cards are cut, when it is not known whether any Perlaggen will be acquired through the cut. The opponents are allowed to wait until the cards have been dealt and then discuss which blind bets to hold or call good, based on their hands. If more than one figure has been bet blind, the bets are considered to have been made in the order Gleich, Hanger, Spiel. 
+Les joueurs peuvent miser aveugle (*ungesehen*) sur n'importe quelle ou toutes les figures au début d'une main, avant de voir leurs cartes. Normalement, cette option n'est utilisée qu'en mesure d'urgence par une équipe qui est loin derrière, ayant par exemple 11 points ou moins quand les adversaires sont *gestrichen* dans un jeu à 15 points. Une mise aveugle ne peut être faite qu'avant la coupe, quand on ne sait pas si des Perlaggen seront acquis par la coupe. Les adversaires sont autorisés à attendre que les cartes soient distribuées, puis à discuter quelles mises aveugles tenir ou déclarer bonnes, en fonction de leurs mains. Si plus d'une figure a été mise aveugle, les mises sont considérées comme ayant été faites dans l'ordre Gleich, Hanger, Spiel.
 
-If a team bets on the Gleich or Hanger blind, but it turns out that they do not have that figure at all, they cannot score for it even if the opponents called it good. On the other hand, there is no penalty for having bet blind without holding the figure.
+Si une équipe mise aveugle sur le Gleich ou le Hanger, mais qu'il s'avère qu'elle n'a pas cette figure du tout, elle ne peut pas marquer pour celle-ci même si les adversaires l'ont déclarée bonne. En revanche, il n'y a pas de pénalité pour avoir misé aveugle sans détenir la figure.
 
-A blind bet on all three figures can be expressed by saying *"Höll auf!"* (raise hell).
+Une mise aveugle sur les trois figures peut s'exprimer en disant *"Höll auf !"* (ouvre l'enfer).
 
-### Communication and Signals
+### Communication et signaux
 
-Communication between partners is allowed throughout the game by talking and by means of visual signals. Players are not however allowed to show their cards to their partner. Players are under no obligation to tell the truth, and misleading the opponents in order to support a bluff is an important part of the game.
+La communication entre partenaires est autorisée tout au long du jeu par la parole et par des signaux visuels. Les joueurs ne sont cependant pas autorisés à montrer leurs cartes à leur partenaire. Les joueurs ne sont pas obligés de dire la vérité, et induire les adversaires en erreur pour soutenir un bluff est une partie importante du jeu.
 
-All conversation and signals should be in principle observable by the opponents. For example, it would be illegal to take your partner aside for a discussion out of earshot of the opponents.
+Toute conversation et tous signaux doivent être en principe observables par les adversaires. Par exemple, il serait interdit d'emmener son partenaire à l'écart pour une discussion hors de portée des adversaires.
 
-It is usual to agree a system of visual signals representing particular cards or states of play. This system and the meanings of signals vary from place to place. Since there is no universally agreed code, some prior discussion of signals is advisable if playing with a new partner or with an unfamiliar group of players. Partners are allowed to devise and agree their own system, and they do not have to disclose the meanings of their signals to their opponents. As examples, the table below lists commonly used signals as given in the book by Plankensteiner mentioned in the introduction, and a somewhat different system used by the players at the Noaflhaus in Telfs. 
+Il est habituel de convenir d'un système de signaux visuels représentant des cartes ou des états de jeu particuliers. Ce système et les significations des signaux varient d'un endroit à l'autre. Puisqu'il n'y a pas de code universellement convenu, une discussion préalable des signaux est conseillée si on joue avec un nouveau partenaire ou un groupe de joueurs inconnu. Les partenaires sont autorisés à concevoir et à convenir de leur propre système, et ils n'ont pas à révéler la signification de leurs signaux aux adversaires. À titre d'exemples, le tableau ci-dessous liste les signaux couramment utilisés tels que donnés dans le livre de Plankensteiner mentionné dans l'introduction, et un système quelque peu différent utilisé par les joueurs du Noaflhaus à Telfs.
 
-| Meaning | Signal (Noaflhaus) | Signal (Plankensteiner) |
-| Martl (King of hearts) | Raise eyebrows or look upward | Look upward |
-| Weli | Form lips into kiss | Form lips into kiss |
-| Seven of bells | Blink with right eye | Raise right shoulder |
-| Seven of acorns | Blink with left eye | Raise left shoulder |
-| Trump Seven | Blink with left eye | Blink |
-| Trump Unter, Ober | Raise shoulder | Blink (once for each) |
-| Ace of trumps | Stretch out thumb | Stretch out thumb |
-| Small trumps | Indicate with fingers | Inconspicuous drumming with fingers |
-| No trumps or Perlaggen | Shake head or wrinkle nose | Shake head or wrinkle nose |
-| Four-card or better Gleich | Horizontal movement of hand | Move head to the right |
-| Four-card or better Hanger | Vertical movement of hand | Nod head |
+| Signification | Signal (Noaflhaus) | Signal (Plankensteiner) |
+| Martl (Roi de cœurs) | Hausser les sourcils ou regarder vers le haut | Regarder vers le haut |
+| Weli | Former les lèvres en baiser | Former les lèvres en baiser |
+| Sept de grelots | Cligner de l'œil droit | Hausser l'épaule droite |
+| Sept de glandes | Cligner de l'œil gauche | Hausser l'épaule gauche |
+| Sept d'atout | Cligner de l'œil gauche | Cligner des yeux |
+| Unter, Ober d'atout | Hausser l'épaule | Cligner (une fois pour chacun) |
+| As d'atout | Tendre le pouce | Tendre le pouce |
+| Petits atouts | Indiquer avec les doigts | Taper discrètement avec les doigts |
+| Pas d'atout ni de Perlaggen | Secouer la tête ou froncer le nez | Secouer la tête ou froncer le nez |
+| Gleich à 4 cartes ou plus | Mouvement horizontal de la main | Tourner la tête vers la droite |
+| Hanger à 4 cartes ou plus | Mouvement vertical de la main | Hocher la tête |
 
-Players may start signalling as soon as the first cards are dealt. Visual signals are obviously best given when one's partner is paying attention and the opponents are not looking. On the other hand it is entirely legal to signal a card that you don't have in order to mislead the opponents if they are watching you, though of course this also risks misleading partner. 
+Les joueurs peuvent commencer à faire des signaux dès que les premières cartes sont distribuées. Les signaux visuels sont évidemment mieux donnés quand le partenaire fait attention et que les adversaires ne regardent pas. D'un autre côté, il est tout à fait légal de signaler une carte que vous n'avez pas pour tromper les adversaires s'ils vous regardent, bien que cela risque aussi de tromper le partenaire.
 
-Players may also ask each other questions, which can be associated with signals (such as "do you have?" combined with the signal for the desired card). Players may also discuss what card to play, whether to bet, how to react to a bet and so on. Hubert Auer suggests that it is useful to agree an additional signal whose meaning is that the most recent signal you gave was false!
+Les joueurs peuvent aussi se poser des questions, qui peuvent être associées à des signaux (comme « as-tu ? » combiné avec le signal de la carte souhaitée). Les joueurs peuvent aussi discuter de la carte à jouer, s'il faut miser, comment réagir à une mise, etc. Hubert Auer suggère qu'il est utile de convenir d'un signal supplémentaire dont la signification est que le signal le plus récent que vous avez donné était faux !
 
-## Notes on Basic Tactics
+## Notes sur les tactiques de base
 
-It is rare for a whole deal to go by without any betting. The most advantageous time to bet is generally just **before** you or your partner play a card - at any other time it pays to wait and see what the opponents will do next. When it **is** your turn to play, don't overlook the possibility that it may be worth betting on something before showing your card.
+Il est rare qu'une donne entière se déroule sans aucune mise. Le moment le plus avantageux pour miser est généralement juste **avant** que vous ou votre partenaire ne jouiez une carte — à tout autre moment, il vaut mieux attendre et voir ce que les adversaires vont faire. Quand c'est **votre** tour de jouer, n'oubliez pas la possibilité qu'il vaille la peine de miser sur quelque chose avant de montrer votre carte.
 
-In the play it is usually best to save Perlaggen for the later tricks, keeping the flexibility to deploy them as necessary to help win whatever figure is most valuable.
+Dans le jeu, il vaut généralement mieux garder les Perlaggen pour les dernières levées, conservant la flexibilité de les déployer au besoin pour aider à gagner la figure la plus précieuse.
 
-It can be advantageous to concede the Spiel spontaneously if you think your team is unlikely to win it. This forces the other team to begin the show and you have the advantage of seeing some of their cards before showing (or betting on) your own.
+Il peut être avantageux de concéder spontanément le Spiel si vous pensez que votre équipe est peu susceptible de le gagner. Cela force l'autre équipe à commencer l'exhibition et vous avez l'avantage de voir certaines de leurs cartes avant de montrer (ou de miser sur) les vôtres.
 
-If a the opponents bet on the Gleich or Hanger early in the play, it is often worthwhile to hold the bet even if you do not expect to be able to win the figure. For example, if they bet on the Gleich and you hold it, they may need to devote some of their Perlaggen to winning the Gleich, meanwhile allowing you to win the Hanger and maybe the Spiel. If you had conceded the Gleich, they would only have needed to show a small natural Gleich (such as a pair of 8's) to collect the point, leaving them free to deploy their Perlaggen to help them win the Spiel and Hanger.
+Si les adversaires misent sur le Gleich ou le Hanger tôt dans le jeu, il vaut souvent la peine de tenir la mise même si vous ne vous attendez pas à pouvoir gagner la figure. Par exemple, s'ils misent sur le Gleich et que vous le tenez, ils devront peut-être consacrer certains de leurs Perlaggen à gagner le Gleich, vous laissant la possibilité de gagner le Hanger et peut-être le Spiel. Si vous aviez concédé le Gleich, ils n'auraient eu qu'à montrer un petit Gleich naturel (comme une paire de 8) pour récolter le point, les laissant libres de déployer leurs Perlaggen pour les aider à gagner le Spiel et le Hanger.
 
-Beginners are often tempted to give more information than is necessary through conversation and signals. It is better only to give the information that partner really needs. In particular, a player with a strong hand should usually not signal cards, but instead ask the weaker partner for information and then take charge of the play. Players should also bear in mind the possibility of occasionally lying or giving a false signal to support a later bluff or to keep the opponents in some uncertainty about the real situation. It can be profitable to feign a poor hand when you have a good one, tempting the opponents to bet so that you can raise. 
+Les débutants sont souvent tentés de donner plus d'informations que nécessaire par la conversation et les signaux. Il vaut mieux ne donner que l'information dont le partenaire a vraiment besoin. En particulier, un joueur avec une main forte ne devrait généralement pas faire de signaux de cartes, mais plutôt demander des informations au partenaire le plus faible, puis prendre en charge le jeu. Les joueurs devraient aussi garder à l'esprit la possibilité de mentir occasionnellement ou de donner un faux signal pour soutenir un bluff ultérieur ou pour garder les adversaires dans l'incertitude sur la situation réelle. Il peut être rentable de feindre une mauvaise main quand on en a une bonne, pour tenter les adversaires de miser pour que vous puissiez relancer.
 
-Often it will be important to find out whether partner has a natural Gleich or Hanger in order to bet on this figure without committing the team to use its Perlaggen to validate the bet should the other team surrender.
+Il est souvent important de savoir si le partenaire a un Gleich ou un Hanger naturel pour miser sur cette figure sans engager l'équipe à utiliser ses Perlaggen pour valider la mise si l'autre équipe se rend.
 
 ## Eichelperlaggen
 
-This game differs from the "Innsbruck" version in that there are five permanent Perlaggen rather than four. The 7, Unter and Ober of acorns (*eichel*) are always wild, and acorns cannot be trumps. This version is played in the district of Imst, west of Innsbruck, and in some places in South Tyrol.
+Ce jeu diffère de la version « Innsbruck » en ce qu'il y a cinq Perlaggen permanents au lieu de quatre. Le 7, l'Unter et l'Ober de glandes (*eichel*) sont toujours des cartes blanches, et les glandes ne peuvent pas être l'atout. Cette version se joue dans le district d'Imst, à l'ouest d'Innsbruck, et dans quelques endroits du Tyrol du Sud.
 
-There are always eight Perlaggen, ranking from high to low as follows:
+Il y a toujours huit Perlaggen, classés de haut en bas comme suit :
 
-- The King of hearts, known as **Martl**
+- Le Roi de cœurs, connu sous le nom de **Martl**
 
-- The Six of bells, known as the **Weli**
+- Le Six de grelots, connu sous le nom de **Weli**
 
-- The Trump Seven, known as the **Spitz**
+- Le Sept d'atout, connu sous le nom de **Spitz**
 
-- The Trump Unter
+- L'Unter d'atout
 
-- The Trump Ober
+- L'Ober d'atout
 
-- The Seven of acorns
+- Le Sept de glandes
 
-- The Unter of acorns
+- L'Unter de glandes
 
-- The Ober of acorns
+- L'Ober de glandes
 
-Note that in this style the Seven of bells is a Perlagg **only** if bells are trumps.
+Notez que dans ce style, le Sept de grelots n'est un Perlagg **que** si les grelots sont l'atout.
 
-The basic structure of the game - the play, betting and scoring are the same as in the Innsbruck style. There are a few differences affecting the determination of trumps at the start of the game, the endgame and the signalling, which will be explained below.
+La structure de base du jeu — le jeu, les mises et le comptage — est la même que dans le style Innsbruck. Il y a quelques différences affectant la détermination de l'atout au début du jeu, la fin de partie et les signaux, qui seront expliquées ci-dessous.
 
-### The Deal
+### La donne
 
-As usual the dealer shuffles, the player to the right cuts, keeping any permanent Perlaggen found, and the dealer deals so that each player has five cards. The dealer then turns the next card face up. If it is not an acorn, the suit of the turned up card is trumps. If the turned up card is an acorn, the dealer turns up another card, and continues to turn up cards until a non-acorn is found. As usual the trump is placed face up on top of the undealt part of the deck, and any acorns that were exposed in the process are placed alongside. There are now the following exchange possibilities.
+Comme d'habitude, le donneur mélange, le joueur à droite coupe en gardant les Perlaggen permanents trouvés, et le donneur distribue de sorte que chaque joueur a cinq cartes. Le donneur retourne ensuite la carte suivante face visible. Si ce n'est pas une glande, la couleur de la carte retournée est l'atout. Si la carte retournée est une glande, le donneur en retourne une autre et continue à retourner des cartes jusqu'à trouver une non-glande. Comme d'habitude, l'atout est placé face visible sur le dessus de la partie non distribuée du jeu, et les glandes qui ont été exposées pendant le processus sont placées à côté. Il y a maintenant les possibilités d'échange suivantes.
 
-- As usual if the turned up trump card is a Perlagg and the dealer has a natural card of the trump suit, the dealer can exchange this for the turned up card. If the dealer has no natural trump the dealer's partner may exchange. As usual a natural heart can be exchanged for the Martl or a natural bell for the Weli.
+- Comme d'habitude, si la carte d'atout retournée est un Perlagg et que le donneur a une carte naturelle de la couleur d'atout, le donneur peut l'échanger contre la carte retournée. Si le donneur n'a pas d'atout naturel, le partenaire du donneur peut échanger. Comme d'habitude, un cœur naturel peut être échangé contre le Martl ou un grelot naturel contre le Weli.
 
-- If the turned up trump is a Perlagg and neither the dealer not the dealer's partner has a natural card of this suit, but the dealer has an acorn Perlagg (the 7, Unter or Ober), the dealer can "upgrade" this Perlagg by exchanging it for the turned up trump. If the dealer has no acorn Perlagg, the right to upgrade passes to dealer's partner.
+- Si l'atout retourné est un Perlagg et que ni le donneur ni le partenaire du donneur n'a une carte naturelle de cette couleur, mais que le donneur a un Perlagg de glandes (le 7, l'Unter ou l'Ober), le donneur peut « améliorer » ce Perlagg en l'échangeant contre l'atout retourné. Si le donneur n'a pas de Perlagg de glandes, le droit d'améliorer passe au partenaire du donneur.
 
-- If any acorn Perlaggen were exposed during the trump making process or were upgraded and the dealer has any natural acorns, these can be exchanged for the exposed acorn Perlaggen. If after this any acorn Perlaggen remain and dealer has no more natural acorns, the right to exchange natural acorns for acorn Perlaggen passes to dealer's partner.
+- Si des Perlaggen de glandes ont été exposés pendant le processus de détermination de l'atout ou ont été améliorés, et que le donneur a des glandes naturelles, celles-ci peuvent être échangées contre les Perlaggen de glandes exposés. Si après cela des Perlaggen de glandes restent et que le donneur n'a plus de glandes naturelles, le droit d'échanger des glandes naturelles contre des Perlaggen de glandes passe au partenaire du donneur.
 
-**Variant.** In Imst and Tarrenz, if any Perlaggen remain after the dealer's team have exhausted their exchange and upgrade possibilities, the right to exchange or upgrade passes to dealer's left-hand opponent, and then to the right-hand opponent. In other places the dealer's opponents are not allowed to exchange or upgrade.
+**Variante.** À Imst et Tarrenz, si des Perlaggen restent après que l'équipe du donneur a épuisé ses possibilités d'échange et d'amélioration, le droit d'échanger ou d'améliorer passe à l'adversaire de gauche du donneur, puis à l'adversaire de droite. À d'autres endroits, les adversaires du donneur ne sont pas autorisés à échanger ou à améliorer.
 
-### Signals
+### Signaux
 
-The extra Perlaggen require a different system of visual signals. In his book, Hubert Auer gives the following:
+Les Perlaggen supplémentaires nécessitent un système différent de signaux visuels. Dans son livre, Hubert Auer donne les suivants :
 
-| Meaning | Signal |
-| Martl (King of hearts) | Look upward |
-| Weli | Form kiss |
-| Seven of trumps | Show the tip of the tongue |
-| Unter, Ober of trumps | Blink with right eye (once for each) |
-| Acorn Perlaggen | Blink with left eye (once for each) |
-| Ace of trumps | Stretch out thumb |
-| King of trumps | Stretch out index finger |
-| Small trumps | Indicate with little finger |
-| No trumps or Perlaggen | Gentle shake of head |
-| Four-card or better Gleich | Raise right shoulder or move head to right |
-| Four-card or better Hanger | Raise left shoulder or move head to left |
+| Signification | Signal |
+| Martl (Roi de cœurs) | Regarder vers le haut |
+| Weli | Faire un baiser |
+| Sept d'atout | Montrer le bout de la langue |
+| Unter, Ober d'atout | Cligner de l'œil droit (une fois pour chacun) |
+| Perlaggen de glandes | Cligner de l'œil gauche (une fois pour chacun) |
+| As d'atout | Tendre le pouce |
+| Roi d'atout | Tendre l'index |
+| Petits atouts | Indiquer avec le petit doigt |
+| Pas d'atout ni de Perlaggen | Secouer doucement la tête |
+| Gleich à 4 cartes ou plus | Hausser l'épaule droite ou tourner la tête vers la droite |
+| Hanger à 4 cartes ou plus | Hausser l'épaule gauche ou tourner la tête vers la gauche |
 
-### Scoring and Endgame
+### Comptage et fin de partie
 
-The game is usually played to a target score of 15 points.
+Le jeu se joue généralement à un score cible de 15 points.
 
-When both teams are *gestrichen* - with the score of 14:14 in a 15-point game - a Gleich or Hanger of at least **four** cards is needed to win. A 5-card figure beats a 4-card figure, but if the longest figure held by each team is the same length, of if no one has a 4-card or better figure, the cards are played and the Spiel decides.
+Quand les deux équipes sont *gestrichen* — avec un score de 14:14 dans un jeu à 15 points — un Gleich ou un Hanger d'au moins **quatre** cartes est nécessaire pour gagner. Une figure à 5 cartes bat une figure à 4 cartes, mais si la figure la plus longue détenue par chaque équipe est de même longueur, ou si personne n'a de figure à 4 cartes ou plus, les cartes sont jouées et le Spiel décide.
 
-So in this version of the game if both teams are *gestrichen*, and for example one player has a *viertiges Gleich*, an opponent has a *viertiger Hanger*, and no one has a *fünftig*, the team that wins three tricks will win the game.
+Donc dans cette version du jeu, si les deux équipes sont *gestrichen* et que, par exemple, un joueur a un *viertiges Gleich*, un adversaire a un *viertiger Hanger*, et personne n'a de *fünftig*, l'équipe qui gagne trois levées gagnera la partie.
 
-## Two-Player Game
+## Jeu à deux joueurs
 
-Two people can play using the same rules as the four-player game, obviously without the signals and discussion. 
+Deux personnes peuvent jouer en utilisant les mêmes règles que le jeu à quatre joueurs, évidemment sans les signaux et la discussion.
 
-Rather than dealing five card hands, it is more interesting to deal seven cards to each player, normally a batch of two each, then three each, then the face up trump, then another two each, or in some places three each, then the trump, then four each. In this case four tricks are needed to win the Spiel point.
+Plutôt que de distribuer des mains de cinq cartes, il est plus intéressant de distribuer sept cartes à chaque joueur, normalement un paquet de deux chacun, puis trois chacun, puis l'atout retourné, puis deux autres chacun, ou dans certains endroits trois chacun, puis l'atout, puis quatre chacun. Dans ce cas, quatre levées sont nécessaires pour gagner le point de Spiel.
 
-## Six-Player Game
+## Jeu à six joueurs
 
-This can be played between two teams of three, each player sitting between two opponents. Four cards are dealt to each player in two rounds of two, and the play and scoring are the same as in the four-player game. It is possible that each team will win two tricks in which case neither team scores the Spiel point - the saying is *"das Spiel ist hin"*. The remaining rules are the same as for four players.
+Cela peut se jouer entre deux équipes de trois, chaque joueur étant assis entre deux adversaires. Quatre cartes sont distribuées à chaque joueur en deux tours de deux, et le jeu et le comptage sont les mêmes que dans le jeu à quatre joueurs. Il est possible que chaque équipe gagne deux levées, auquel cas aucune équipe ne marque le point de Spiel — le dicton est *"das Spiel ist hin"*. Les règles restantes sont les mêmes que pour quatre joueurs.
 
-It would be possible for six players to play with five-card hands, at least under Innsbruck rules, but with 30 cards in the hands of the players, one card seen by the cutter and a card turned for trumps only one card would remains unseen. If you attempted to play six-player Eichelperlaggen with 5-card hands it would be impossible to set the trump suit if the three cards not in the players' hands were all acorns. 
+Il serait possible pour six joueurs de jouer avec des mains de cinq cartes, au moins sous les règles d'Innsbruck, mais avec 30 cartes dans les mains des joueurs, une carte vue par le coupeur et une carte retournée pour l'atout, il ne resterait qu'une carte non vue. Si vous tentiez de jouer à six joueurs à l'Eichelperlaggen avec des mains de cinq cartes, il serait impossible de déterminer la couleur d'atout si les trois cartes non dans les mains des joueurs étaient toutes des glandes.
 
-## Three-Player Game
+## Jeu à trois joueurs
 
-Each of the players plays for themselves, and the score sheet therefore has three columns, with the scorer's column on the right. As there are no partnerships, there are no signals or discussion.
+Chaque joueur joue pour soi, et la feuille de score a donc trois colonnes, avec la colonne du compteur à droite. Comme il n'y a pas de partenariats, il n'y a pas de signaux ni de discussion.
 
-Seven cards are dealt to each player, normally a batch of two each, then three each, then the face up trump, then another two each, or in some places three each, then the trump, then four each.
+Sept cartes sont distribuées à chaque joueur, normalement un paquet de deux chacun, puis trois chacun, puis l'atout retourné, puis deux autres chacun, ou dans certains endroits trois chacun, puis l'atout, puis quatre chacun.
 
-Four tricks are needed to win the Spiel. Quite often no one will win more than three tricks, in which case no one scores for Spiel (*das Spiel ist hin*). 
+Quatre levées sont nécessaires pour gagner le Spiel. Assez souvent, personne ne gagnera plus de trois levées, auquel cas personne ne marque pour le Spiel (*das Spiel ist hin*).
 
-The play and scoring are essentially the same as in the four-player game. As usual it is possible to bet on the Gleich, the Hanger or the Spiel. When a player bets the play is paused and the other players must reply strictly in turn. If both opponents of the bettor call the bet "good" the bettor scores 1 point for the figure. If either or both of the bettor's opponents hold the score for the figure will be 2, but a player who has said "good" to a figure cannot win it. In the case of the Gleich or Hanger, if it is bet, called good by the first opponent and held by the second, the figure will be won by whichever of the bettor and the holder has the better example of that figure, ignoring the cards of the player who conceded.
+Le jeu et le comptage sont essentiellement les mêmes que dans le jeu à quatre joueurs. Comme d'habitude, il est possible de miser sur le Gleich, le Hanger ou le Spiel. Quand un joueur mise, le jeu est suspendu et les autres joueurs doivent répondre strictement à tour de rôle. Si les deux adversaires du parieur déclarent la mise « bonne », le parieur marque 1 point pour la figure. Si l'un ou les deux adversaires du parieur tiennent, le score de la figure sera de 2, mais un joueur qui a dit « bon » à une figure ne peut pas la gagner. Dans le cas du Gleich ou du Hanger, s'il est misé, déclaré bon par le premier adversaire et tenu par le deuxième, la figure sera gagnée par celui du parieur ou du tenant qui a le meilleur exemple de cette figure, en ignorant les cartes du joueur qui a concédé.
 
-A player who has held a figure can subsequently raise it to three, in which case the raiser's opponent(s) who have not already called that figure good must reply in turn. If the raise is called good the raiser will score 2 points. If it is held, the figure will score 3 points for the player who wins it. 
+Un joueur qui a tenu une figure peut ensuite la relancer à trois, auquel cas les adversaires du relanceur qui n'ont pas déjà déclaré la figure bonne doivent répondre à tour de rôle. Si la relance est déclarée bonne, le relanceur marquera 2 points. Si elle est tenue, la figure marquera 3 points pour le joueur qui la gagne.
 
-There are some special rules on betting, holding and raising that apply only to the three-player game.
+Il y a quelques règles spéciales sur les mises, les tenues et les relances qui s'appliquent uniquement au jeu à trois joueurs.
 
-- Raises to more than 3 points are not allowed when there are three players - this is to prevent two players from colluding against the third by repeatedly raising each other.
+- Les relances à plus de 3 points ne sont pas autorisées quand il y a trois joueurs — c'est pour empêcher deux joueurs de s'entendre contre le troisième en se relançant mutuellement.
 
-- If the players in clockwise order are A, B and C, player A bets on a figure and player B holds, then player C does not have to say anything. In this situation, player C can win the figure as though he had also held, but in the case of the Gleich or Hanger C is not obliged to show an example of the figure. Player B's hold essentially gives player C a free ride. 
+- Si les joueurs dans le sens des aiguilles d'une montre sont A, B et C, le joueur A mise sur une figure et le joueur B tient, alors le joueur C n'a rien à dire. Dans cette situation, le joueur C peut gagner la figure comme s'il avait aussi tenu, mais dans le cas du Gleich ou du Hanger, C n'est pas obligé de montrer un exemple de la figure. La tenue de B donne essentiellement un passage gratuit à C.
 
-- If player A bets on a figure and player B says "good" player C has to decide whether to concede, hold or raise, and if player C holds or raises a Gleich or Hanger he is obliged to show the figure at the end of the play. B, who said good, does not get a free ride in this case and cannot win the figure.
+- Si le joueur A mise sur une figure et le joueur B dit « bon », le joueur C doit décider de concéder, tenir ou relancer, et si le joueur C tient ou relance un Gleich ou un Hanger, il est obligé de montrer la figure à la fin du jeu. B, qui a dit bon, n'a pas de passage gratuit dans ce cas et ne peut pas gagner la figure.
 
-- If player A bets a figure and player B holds, player C can immediately raise to "3". This raise must be answered first by player A and then, if player A says "good", player B must also answer. If player A holds the raise, player B is assumed to hold as well (he would have nothing to gain by conceding) and any of the three players can win the figure.
+- Si le joueur A mise sur une figure et que le joueur B tient, le joueur C peut immédiatement relancer à « 3 ». Cette relance doit être répondue d'abord par le joueur A, puis, si le joueur A dit « bon », le joueur B doit aussi répondre. Si le joueur A tient la relance, le joueur B est présumé tenir aussi (il n'aurait rien à gagner en concédant) et n'importe lequel des trois joueurs peut gagner la figure.
 
-- When player A bets a figure, it would theoretically be possible for B to raise to 3 immediately, but in practice this is never done. It is tactically better for B to hold first and wait to see whether C raises to "3". If C does nothing, B can then raise to "3", and this raise must be answered first by C. If C says "good", A must reply, but if C holds A is automatically assumed to hold as well.
+- Quand le joueur A mise sur une figure, il serait théoriquement possible pour B de relancer immédiatement à 3, mais en pratique, cela n'est jamais fait. Il est tactiquement préférable pour B de tenir d'abord et d'attendre de voir si C relance à « 3 ». Si C ne fait rien, B peut alors relancer à « 3 », et cette relance doit être répondue d'abord par C. Si C dit « bon », A doit répondre, mais si C tient, A est automatiquement présumé tenir aussi.
 
-As usual a player who bets, raises or actively holds a Gleich or Hanger must be able to show an example of that figure. If they fail to do so they cannot score any points in that deal and instead two penalty points are deducted from their score. 
+Comme d'habitude, un joueur qui mise, relance ou tient activement un Gleich ou un Hanger doit être capable de montrer un exemple de cette figure. S'il échoue, il ne peut marquer aucun point lors de cette donne et deux points de pénalité sont déduits de son score.
 
-If the Spiel point is decided before the last trick, the winner of the Spiel begins the show, which proceeds in a similar way to the four-player game. Supposing that the Gleich and the Hanger are not yet resolved, the player who won the Spiel must first decide whether to contest, bet on or concede each of these figures. Any bets must be answered by the other two players in order as usual. After any bets have been answered and A has decided which figures to contest and laid down the necessary cards, it is the turn of the next player in clockwise order (B) to act, conceding, equalling or betting on each undecided figure. When B's action is complete and B has shown the necessary cards, it is C's turn, then A and so on clockwise until both figures are resolved. 
+Si le point de Spiel est décidé avant la dernière levée, le gagnant du Spiel commence l'exhibition, qui se déroule de manière similaire au jeu à quatre joueurs. Supposons que le Gleich et le Hanger ne soient pas encore résolus : le joueur qui a gagné le Spiel doit d'abord décider de contester, miser ou concéder chacune de ces figures. Toutes les mises doivent être répondues par les deux autres joueurs dans l'ordre comme d'habitude. Après que les mises ont été répondues et que A a décidé quelles figures contester et posé les cartes nécessaires, c'est le tour du joueur suivant dans le sens des aiguilles d'une montre (B) d'agir, en concédant, en égalant ou en misant sur chaque figure non décidée. Quand l'action de B est terminée et qu'il a montré les cartes nécessaires, c'est le tour de C, puis A et ainsi de suite dans le sens horaire jusqu'à ce que les deux figures soient résolues.
 
-In the three-player game there is no equivalent of the tactic in the partnership game where one team spontaneously concedes the Spiel in order to force the other team to show first. A player cannot unilaterally concede the Spiel if it has not been bet. (Even if two players knew that they had no chance to win the Spiel, it would not necessarily be in their interests to give up since the third player might not be able to take four tricks.)
+Dans le jeu à trois joueurs, il n'y a pas d'équivalent de la tactique du jeu en partenariat où une équipe concède spontanément le Spiel pour forcer l'autre équipe à montrer en premier. Un joueur ne peut pas concéder unilatéralement le Spiel s'il n'a pas été misé. (Même si deux joueurs savaient qu'ils n'avaient aucune chance de gagner le Spiel, il ne serait pas nécessairement dans leur intérêt d'abandonner car le troisième joueur pourrait ne pas être capable de prendre quatre levées.)
 
-There is no blind betting in the three-player game. In the endgame, points are scored in the same order as in the four-player game. 
+Il n'y a pas de mise aveugle dans le jeu à trois joueurs. En fin de partie, les points sont comptés dans le même ordre que dans le jeu à quatre joueurs.
 
-Other rules are the same as in the four-player game. The rules about which cards are wild (Innsbruck or Eichelperlaggen) follow the local custom. 
+Les autres règles sont les mêmes que dans le jeu à quatre joueurs. Les règles sur les cartes blanches (Innsbruck ou Eichelperlaggen) suivent la coutume locale.
 
 ## Strafperlaggen
 
-This variant of three-player Perlaggen is played in and around Hall and Absam, about 10km east of Innsbruck. Each player begins with 9 points, and the first player to reach zero wins. Points are deducted from a player's score for winning a figure, but if a player bets on or actively holds a figure and does not win it, penalty points (*Strafpunkte*) are **added**.
+Cette variante du Perlaggen à trois joueurs se joue dans et autour de Hall et Absam, à environ 10 km à l'est d'Innsbruck. Chaque joueur commence avec 9 points, et le premier joueur à atteindre zéro gagne. Des points sont déduits du score d'un joueur pour gagner une figure, mais si un joueur mise ou tient activement une figure et ne la gagne pas, des points de pénalité (*Strafpunkte*) sont **ajoutés**.
 
-This is a form of Eichelperlaggen. The wild cards (Perlaggen) from highest to lowest are:
+C'est une forme d'Eichelperlaggen. Les cartes blanches (Perlaggen) de haut en bas sont :
 
-**King of hearts (Martl), Weli, 7 of bells, 7 of acorns, (7 of trumps), Unter of trumps, Ober of trumps, Unter of acorns, Ober of acorns.**
+**Roi de cœurs (Martl), Weli, 7 de grelots, 7 de glandes, (7 d'atout), Unter d'atout, Ober d'atout, Unter de glandes, Ober de glandes.**
 
-So there are 9 Perlaggen when leaves or hearts are trumps but only 8 when bells are trumps. Acorns cannot be trumps.
+Il y a donc 9 Perlaggen quand les feuilles ou les cœurs sont l'atout mais seulement 8 quand les grelots sont l'atout. Les glandes ne peuvent pas être l'atout.
 
-Seven cards each are dealt: a batch of three each, then the turned up trump, then four each. If the turned up trump is an acorn further cards are then turned until a different suit is found. The dealer can exchange an ordinary trump for a turned up Perlagg of the same suit and ordinary acorns for acorn Perlaggen. In this game, unlike the Eichelperlaggen played at Imst, an acorn Perlagg cannot be upgraded by exchanging it for a non-acorn Perlagg. Players other than the dealer are not allowed to exchange hand cards for the turned up cards. 
+Sept cartes sont distribuées à chacun : un paquet de trois chacun, puis l'atout retourné, puis quatre chacun. Si l'atout retourné est une glande, d'autres cartes sont retournées jusqu'à trouver une couleur différente. Le donneur peut échanger un atout ordinaire contre un Perlagg retourné de la même couleur et des glandes naturelles contre des Perlaggen de glandes. Dans ce jeu, contrairement à l'Eichelperlaggen joué à Imst, un Perlagg de glandes ne peut pas être amélioré en l'échangeant contre un Perlagg non-glandes. Les joueurs autres que le donneur ne sont pas autorisés à échanger des cartes de main contre les cartes retournées.
 
-The play and show are similar to normal three-player Perlaggen and four tricks are needed to win the Spiel. 
+Le jeu et l'exhibition sont similaires au Perlaggen normal à trois joueurs et quatre levées sont nécessaires pour gagner le Spiel.
 
-When a player (A) bets on a figure the opponents respond in turn. The first opponent (B) answers with "good" or "hold". If B said "good", C can say "good" or "hold" or raise to "3". If the B said "hold", C does not need to say anything but is allowed to raise to "three". This is the same as in the normal three-player game but the consequences are slightly different.
+Quand un joueur (A) mise sur une figure, les adversaires répondent à tour de rôle. Le premier adversaire (B) répond par « bon » ou « tiens ». Si B a dit « bon », C peut dire « bon » ou « tiens » ou relancer à « 3 ». Si B a dit « tiens », C n'a rien à dire mais est autorisé à relancer à « trois ». C'est la même chose que dans le jeu normal à trois joueurs, mais les conséquences sont légèrement différentes.
 
-- If both opponents say "good", the bettor A immediately wins the figure and deducts one point.
+- Si les deux adversaires disent « bon », le parieur A gagne immédiatement la figure et déduit un point.
 
-- If the first opponent (B) says "good" but the second opponent (C) holds, player B can no longer compete for the figure. Whichever of the other two players A or C has the better example of the figure deducts 2 points and the other player who bet or held is *gestraft* and must add 2 points to his score. If the bet was on the Spiel it is possible that neither A nor C will win four tricks, in which case both are *gestraft* and add 2 points.
+- Si le premier adversaire (B) dit « bon » mais que le deuxième (C) tient, le joueur B ne peut plus concourir pour la figure. Celui des deux autres joueurs, A ou C, qui a le meilleur exemple de la figure déduit 2 points et l'autre joueur qui a misé ou tenu est *gestraft* et doit ajouter 2 points à son score. Si la mise portait sur le Spiel, il est possible que ni A ni C ne gagne quatre levées, auquel cas les deux sont *gestraft* et ajoutent 2 points.
 
-- If the first opponent (B) says "hold", the second opponent (C) does not need to say anything. C can still win the figure but does not risk a penalty - he gets a free ride* ("er beißt mit"*). If either A or B wins the figure, the winner deducts 2 points, the other adds a 2-point penalty and player C player does not score. If player C wins the figure he deducts 2 points and both A and B add a 2-point penalty.
+- Si le premier adversaire (B) dit « tiens », le deuxième adversaire (C) n'a rien à dire. C peut encore gagner la figure mais ne risque pas de pénalité — il a un passage gratuit (*"er beißt mit"*). Si A ou B gagne la figure, le gagnant déduit 2 points, l'autre ajoute une pénalité de 2 points et le joueur C ne marque pas. Si le joueur C gagne la figure, il déduit 2 points et A et B ajoutent chacun une pénalité de 2 points.
 
-If the Gleich or Hanger stands (a tie between two players) there is no winner and no penalty. However if the Spiel is bet and held but not won (no one takes four tricks), the players who bet and held each add a 2-point penalty.
+Si le Gleich ou le Hanger tient (une égalité entre deux joueurs), il n'y a ni gagnant ni pénalité. Cependant, si le Spiel est misé et tenu mais non gagné (personne ne prend quatre levées), les joueurs qui ont misé et tenu ajoutent chacun une pénalité de 2 points.
 
-A player who has either held a bet on a figure or obtained a free ride may immediately or later raise it to "three", and the consequences are similar. The opponents who have not already conceded the figure must answer in turn. The first opponent of the raiser must concede or hold. If the first opponent concedes the second player must concede or hold. If both concede the raiser deducts 2 points and the player who originally bet on the figure adds 2 points. If either holds, the raiser and holder stand to deduct 3 points for winning the figure or add a 3-point penalty if they fail to win. The left-hand opponent of the raiser cannot compete for the figure if he concedes the raise. If the left-hand opponent holds, the right-hand opponent gets a free ride (provided that he or she did not concede the original bet) and can win the figure for 3 points.
+Un joueur qui a tenu une mise sur une figure ou obtenu un passage gratuit peut immédiatement ou plus tard la relancer à « trois », et les conséquences sont similaires. Les adversaires qui n'ont pas déjà concédé la figure doivent répondre à tour de rôle. Le premier adversaire du relanceur doit concéder ou tenir. Si le premier adversaire concède, le deuxième doit concéder ou tenir. Si les deux concèdent, le relanceur déduit 2 points et le joueur qui a misé à l'origine sur la figure ajoute 2 points. Si l'un ou l'autre tient, le relanceur et celui qui tient s'apprêtent à déduire 3 points pour gagner la figure ou à ajouter une pénalité de 3 points s'ils échouent. L'adversaire de gauche du relanceur ne peut pas concourir pour la figure s'il concède la relance. Si l'adversaire de gauche tient, l'adversaire de droite a un passage gratuit (à condition qu'il n'ait pas concédé la mise originale) et peut gagner la figure pour 3 points.
 
-Note that any player who bets or actively holds a figure stands to incur a penalty if he does not win that figure. This penalty applies at the level of the bet or hold even if the player subsequently concedes or gets a free ride when the figure is raised to "3". Here are some examples:
+Notez que tout joueur qui mise ou tient activement une figure s'expose à une pénalité s'il ne gagne pas cette figure. Cette pénalité s'applique au niveau de la mise ou de la tenue, même si le joueur concède par la suite ou obtient un passage gratuit quand la figure est relancée à « 3 ». Voici quelques exemples :
 
-- Player A bets the Gleich, player B holds, player C raises to "3", player A holds. If player C wins the Gleich, C deducts 3 points, A adds a 3-point penalty because he held the raise, and B adds a 2-point penalty because he held the original bet.
+- Le joueur A mise le Gleich, le joueur B tient, le joueur C relance à « 3 », le joueur A tient. Si le joueur C gagne le Gleich, C déduit 3 points, A ajoute une pénalité de 3 points car il a tenu la relance, et B ajoute une pénalité de 2 points car il a tenu la mise originale.
 
-- Player A bets the Gleich, player B holds. Later player B raises to "3" and player C holds. If player C wins the Gleich, C deducts 3 points, B adds a 3-point penalty because of the raise, and player A adds a 2-point penalty because of the original bet.
+- Le joueur A mise le Gleich, le joueur B tient. Plus tard, le joueur B relance à « 3 » et le joueur C tient. Si le joueur C gagne le Gleich, C déduit 3 points, B ajoute une pénalité de 3 points à cause de la relance, et le joueur A ajoute une pénalité de 2 points à cause de la mise originale.
 
-- Player A bets the Gleich, player B holds, player C raises to "3", players A and B both say "good". Player C deducts 2 points (provided that he actually has a Gleich), and players A and B each add a 2-point penalty because of the original bet and hold.
+- Le joueur A mise le Gleich, le joueur B tient, le joueur C relance à « 3 », les joueurs A et B disent tous les deux « bon ». Le joueur C déduit 2 points (à condition qu'il ait effectivement un Gleich), et les joueurs A et B ajoutent chacun une pénalité de 2 points à cause de la mise et de la tenue originales.
 
-- Player A bets the Gleich, player B says "good", player C raises to "3", player A says "good". Player C deducts 2 points, player A adds a 2-point penalty because of the bet and player B does not score.
+- Le joueur A mise le Gleich, le joueur B dit « bon », le joueur C relance à « 3 », le joueur A dit « bon ». Le joueur C déduit 2 points, le joueur A ajoute une pénalité de 2 points à cause de la mise, et le joueur B ne marque pas.
 
-- Player A bets the Gleich, player B says "good", player C raises to "3", player A says "hold". Whichever of A and C makes the better Gleich will deduct 3 points and the other will add 3 points. Player B, having called the original bet good, cannot win the Gleich does not score.
+- Le joueur A mise le Gleich, le joueur B dit « bon », le joueur C relance à « 3 », le joueur A dit « tiens ». Celui de A et C qui a le meilleur Gleich déduira 3 points et l'autre ajoutera 3 points. Le joueur B, ayant déclaré la mise originale bonne, ne peut pas gagner le Gleich et ne marque pas.
 
-- Player A bets the Gleich, player B holds. Later, player B raises to "3", player C says "good" and player A holds. If player A wins the Gleich, A deducts 3 points, C adds 3 points penalty for the raise and B does not score, since he had a free ride on the original bet.
+- Le joueur A mise le Gleich, le joueur B tient. Plus tard, le joueur B relance à « 3 », le joueur C dit « bon » et le joueur A tient. Si le joueur A gagne le Gleich, A déduit 3 points, C ajoute 3 points de pénalité pour la relance, et B ne marque pas, puisqu'il a eu un passage gratuit sur la mise originale.
 
-As usual any player who bets, raises or actively holds a Gleich or Hanger bet must show an example of that figure. If they fail to do so they cannot score any points for the deal and must add a two-point penalty.
+Comme d'habitude, tout joueur qui mise, relance ou tient activement un Gleich ou un Hanger doit montrer un exemple de cette figure. S'il échoue, il ne peut marquer aucun point pour la donne et doit ajouter une pénalité de deux points.
 
-Also, any player who acts out of turn, for example answering a bet or showing cards before it is his turn to do so, must add a two-point penalty and cannot score any points for the deal.
+Aussi, tout joueur qui agit hors de son tour, par exemple en répondant à une mise ou en montrant des cartes avant son tour, doit ajouter une pénalité de deux points et ne peut marquer aucun point pour la donne.
 
-Blind betting on any figure is allowed before the cut. The other players answer in turn when they have seen their hands. If Gleich or Hanger is bet blind, the bettor is obliged to make that figure if possible, using a Perlagg if necessary.
+Les mises aveugles sur n'importe quelle figure sont autorisées avant la coupe. Les autres joueurs répondent à tour de rôle quand ils ont vu leurs mains. Si le Gleich ou le Hanger est misé aveugle, le parieur est obligé de réaliser cette figure si possible, en utilisant un Perlagg si nécessaire.
 
-A player whose score is 1 point is not allowed to bet (or raise) though he can of course hold bets by other players. In the endgame, figures that have not been bet are scored in the order **Spiel, Gleich, Hanger** - note that this order is different from other forms of the game.
+Un joueur dont le score est de 1 point n'est pas autorisé à miser (ou relancer) bien qu'il puisse évidemment tenir les mises des autres joueurs. En fin de partie, les figures qui n'ont pas été mises sont comptées dans l'ordre **Spiel, Gleich, Hanger** — notez que cet ordre est différent des autres formes du jeu.
 
-After a player has won, the game can be continued between the other two players for second and third places, for example if the third placed player is to pay for the drinks. The rules are the same, and the turn to deal alternates between the remaining players. If the next dealer would have been the player who has just won, then this player deals the first hand of the two-player game, the player to his right cuts, and for this deal only, the player to dealer's left, who will play first, also takes over the dealer's right to exchange if a Perlagg is turned up when making trumps.
+Après qu'un joueur a gagné, le jeu peut se continuer entre les deux autres joueurs pour la deuxième et troisième place, par exemple si le joueur troisième doit payer les boissons. Les règles sont les mêmes, et le tour de donne alterne entre les joueurs restants. Si le donneur suivant aurait été le joueur qui vient de gagner, alors ce joueur donne la première main du jeu à deux, le joueur à sa droite coupe, et pour cette donne seulement, le joueur à la gauche du donneur, qui jouera en premier, reprend aussi le droit du donneur d'échanger si un Perlagg est retourné lors de la détermination de l'atout.
 
-In the two-player game if just one player has a score of 1, the opponent will often bet *"Höll auf!" *- a blind bet on all three figures. Before the first card is played the player who has a score of 1 must decide which figures to hold and which to concede. If the player on 1 concedes the Gleich or Hanger the opponent can only score the point for it if he can show a valid instance of that figure at the end of the play.
+Dans le jeu à deux joueurs, si un seul joueur a un score de 1, l'adversaire misera souvent *"Höll auf !"* — une mise aveugle sur les trois figures. Avant que la première carte ne soit jouée, le joueur qui a un score de 1 doit décider quelles figures tenir et lesquelles concéder. Si le joueur à 1 concède le Gleich ou le Hanger, l'adversaire ne peut marquer le point pour cette figure que s'il peut montrer un exemple valide de cette figure à la fin du jeu.
 
-### Note on Tactics
+### Note sur les tactiques
 
-At first sight it might seem that the penalty for failing to win a figure that you have bet on would discourage players from betting. But since the penalty also applies to the player who holds, it no longer makes sense to hold a bet just in order to constrain the bettor to use his Perlaggen to compete for that figure. When your opponent bets, unless you have a realistic chance to win the figure yourself you should normally concede. This actually encourages more frequent betting and makes it more attractive to bluff. Opponents cannot hold your bet without risking a penalty, so very often both of them will call it good. You can gratefully accept the point and devote your Perlaggen to some other figure.
+À première vue, il pourrait sembler que la pénalité pour avoir échoué à gagner une figure sur laquelle on a misé découragerait les joueurs de miser. Mais puisque la pénalité s'applique aussi au joueur qui tient, cela n'a plus de sens de tenir une mise juste pour contraindre le parieur à utiliser ses Perlaggen pour concourir pour cette figure. Quand votre adversaire mise, à moins que vous n'ayez une chance réaliste de gagner la figure vous-même, vous devriez normalement concéder. Cela encourage en fait des mises plus fréquentes et rend le bluff plus attractif. Les adversaires ne peuvent pas tenir votre mise sans risquer une pénalité, donc très souvent, ils la déclareront bonne. Vous pouvez accepter avec gratitude le point et consacrer vos Perlaggen à une autre figure.
 
-In particular, if you have won 3 tricks you should normally bet on the Spiel even if you have little prospect of winning a fourth trick. The other players will be reluctant to hold unless one of them has a hope of winning all the remaining 4 tricks. If the first 5 tricks are split 3-1-1 between the players, the player with 3 tricks should almost certainly bet on the Spiel, because any opponent who holds is doomed to incur a 2-point penalty. Unless one of the opponents considers this a worthwhile sacrifice, the bettor will win the point without any further effort.
+En particulier, si vous avez gagné 3 levées, vous devriez normalement miser sur le Spiel même si vous avez peu d'espoir de gagner une quatrième levée. Les autres joueurs seront réticents à tenir à moins que l'un d'eux n'espère gagner les 4 levées restantes. Si les 5 premières levées sont réparties 3-1-1 entre les joueurs, le joueur avec 3 levées devrait presque certainement miser sur le Spiel, car tout adversaire qui tient est condamné à encourir une pénalité de 2 points. À moins qu'un des adversaires ne considère cela comme un sacrifice valable, le parieur gagnera le point sans effort supplémentaire.
 
-**Suggested Rule.** We suggest that if it is impossible for a player to win the Spiel, because there are not enough cards remaining for that player to win four tricks, that player should not be allowed to bet on (or raise) the Spiel. So for example if the first 5 tricks are split 2-2-1, the player with only 1 trick is not allowed to bet on the Spiel in the hope that neither of the other players is confident enough to hold. The player with 1 trick cannot possibly win more than 3 tricks in total. The player with 1 trick is, however, allowed hold the Spiel if either of the other two players bets, if he or she considers it worthwhile to make this sacrifice.
+**Règle suggérée.** Nous suggérons que s'il est impossible pour un joueur de gagner le Spiel, parce qu'il n'y a pas assez de cartes restantes pour que ce joueur gagne quatre levées, ce joueur ne devrait pas être autorisé à miser (ou relancer) sur le Spiel. Ainsi, par exemple, si les 5 premières levées sont réparties 2-2-1, le joueur avec seulement 1 levée n'est pas autorisé à miser sur le Spiel en espérant qu'aucun des autres joueurs n'est assez confiant pour tenir. Le joueur avec 1 levée ne peut pas gagner plus de 3 levées au total. Le joueur avec 1 levée est cependant autorisé à tenir le Spiel si l'un des deux autres joueurs mise, s'il juge que cela vaut la peine de faire ce sacrifice.
 
-## Variations
+## Variantes
 
-There are numerous variations of Perlaggen. The complexity of the game and the variety of local interpretations of the rules have led to many discussions. The word *Perlaggerstreit* was coined for an argument about Perlaggen, and became the title of a long running series of articles in the Bozen newspaper *Dolomiten* in which rulings were given on rules disputes submitted by readers. Writers on Perlaggen are fond of quoting the proverb* "Gottes Wort und Perlaggerstreit währen fort in Ewigkeit"* (The word of God and arguments about Perlaggen continue for eternity).
+Il existe de nombreuses variantes de Perlaggen. La complexité du jeu et la variété des interprétations locales des règles ont conduit à de nombreuses discussions. Le mot *Perlaggerstreit* a été inventé pour une dispute sur le Perlaggen, et est devenu le titre d'une longue série d'articles dans le journal *Dolomiten* de Bozen dans lesquels des décisions étaient données sur des litiges de règles soumis par les lecteurs. Les auteurs sur le Perlaggen aiment citer le proverbe *"Gottes Wort und Perlaggerstreit währen fort in Ewigkeit"* (La parole de Dieu et les disputes sur le Perlaggen continuent pour l'éternité).
 
-Some variants relate only to the target score, which can vary from 11 to 24 points. Some relate to the intricate detail of the rules for the show and the endgame. 
+Certaines variantes concernent uniquement le score cible, qui peut varier de 11 à 24 points. D'autres concernent les détails complexes des règles pour l'exhibition et la fin de partie.
 
-In some places, after turning up a card to determine the trump suit, the dealer must show the other players the top and bottom cards of the remaining pack of undealt cards. This is simply so that everyone knows that these two cards, known as *"Luck und Boden"* are out of play. After they have been shown they are replaced on the top and bottom of the deck and cannot be looked at again until the play and show are finished.
+À certains endroits, après avoir retourné une carte pour déterminer la couleur d'atout, le donneur doit montrer aux autres joueurs la carte du dessus et la carte du dessous du reste du jeu non distribué. C'est simplement pour que tout le monde sache que ces deux cartes, connues sous le nom de *"Luck und Boden"*, sont hors jeu. Après avoir été montrées, elles sont replacées sur le dessus et le dessous du jeu et ne peuvent plus être regardées jusqu'à ce que le jeu et l'exhibition soient terminés.
 
-Some versions have different selections of cards used as Perlaggen or different ranking among these. 
+Certaines versions ont des sélections différentes de cartes utilisées comme Perlaggen ou un classement différent entre elles.
 
-- The version of Eichelperlaggen played at the [Schlanders Perlaggen Club](https://perlaggerclub.wixsite.com/perlagger-schlanders) and described on their website uses a 32-card pack without the Weli, whose place as the second highest Perlagg is taken over by the 8 of acorns. Also the ranking as Perlaggen of the Ober and Unter in both trumps and acorns is reversed, the Ober outranking the Unter in each case. The target score is 24 points.
+- La version d'Eichelperlaggen jouée au [Schlanders Perlaggen Club](https://perlaggerclub.wixsite.com/perlagger-schlanders) et décrite sur leur site web utilise un jeu de 32 cartes sans le Weli, dont la place de deuxième Perlagg le plus haut est prise par le 8 de glandes. Le classement des Perlaggen de l'Ober et de l'Unter dans l'atout et les glandes est inversé, l'Ober dominant l'Unter dans chaque cas. Le score cible est de 24 points.
 
-- In Deutschnofen in South Tyrol they play to 18 points with 33 cards, the 6 of bells here being called 'Welli'. There are 10 Perlaggen, in descending order: Welli, King of hearts, King of bells, 7 of hearts, 7 of bells, 7 of leaves, 7 of acorns, trump King, trump Ober, trump Unter. The signals are: Welli - kiss; King of hearts or bells - look up; 7 of hearts or bells - right blink; 7 of leaves or acorns - left blink; trump Perlaggen - shrug; bad cards - shake head or wrinkle nose.
+- À Deutschnofen dans le Tyrol du Sud, on joue à 18 points avec 33 cartes, le Six de grelots étant appelé 'Welli'. Il y a 10 Perlaggen, par ordre décroissant : Welli, Roi de cœurs, Roi de grelots, 7 de cœurs, 7 de grelots, 7 de feuilles, 7 de glandes, Roi d'atout, Ober d'atout, Unter d'atout. Les signaux sont : Welli — baiser ; Roi de cœurs ou de grelots — regarder en haut ; 7 de cœurs ou de grelots — cligner de l'œil droit ; 7 de feuilles ou de glandes — cligner de l'œil gauche ; Perlaggen d'atout — hausser les épaules ; mauvaises cartes — secouer la tête ou froncer le nez.
 
-In historical accounts, there is considerable variation in the cards used as Perlaggen while the mechanics of the game remain fairly constant. It is clear that the evolution of Perlaggen from its ancestor Giltspiel consisted largely of the gradual introduction of extra wild cards, because it was found that the choice of how to deploy these led to more interesting tactical decisions.
+Dans les comptes historiques, il y a une variation considérable dans les cartes utilisées comme Perlaggen tandis que la mécanique du jeu reste assez constante. Il est clair que l'évolution du Perlaggen à partir de son ancêtre Giltspiel a consisté principalement en l'introduction progressive de cartes blanches supplémentaires, car on a découvert que le choix de leur déploiement menait à des décisions tactiques plus intéressantes.
 
-A recently discovered 19th century manuscript describes * 'Giltspiel mit 3 Perlique'* in which the only wild cards or *'Perlique'* were the 7, Ober and Unter of trumps. The 1853 book *Das Tiroler National- oder Perlagg- Spiel* mentions several regional variants. The most widespread version is said to use four Perlaggen, the King, Seven, Ober and Unter of the trump suit, in that order. But in some places there was only a single permanent Perlagg, either the Seven of bells (*"Schello bello"*) or the King of hearts (*"Radetzky"*). In other places this permanent Perlagg was followed by the Seven, Ober and Unter of trumps. The author says that in some places they used as many as seven Perlaggen, but does not specify which cards these were.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Perlaggen
+Un manuscrit du XIXe siècle récemment découvert décrit un *'Giltspiel mit 3 Perlique'* dans lequel les seules cartes blanches ou *'Perlique'* étaient le 7, l'Ober et l'Unter d'atout. Le livre de 1853 *Das Tiroler National- oder Perlagg-Spiel* mentionne plusieurs variantes régionales. La version la plus répandue utiliserait quatre Perlaggen, le Roi, le Sept, l'Ober et l'Unter de la couleur d'atout, dans cet ordre. Mais à certains endroits, il n'y avait qu'un seul Perlagg permanent, soit le Sept de grelots (*"Schello bello"*) ou le Roi de cœurs (*"Radetzky"*). À d'autres endroits, ce Perlagg permanent était suivi du Sept, de l'Ober et de l'Unter d'atout. L'auteur dit que dans certains endroits, ils utilisaient jusqu'à sept Perlaggen, mais ne précise pas lesquelles.

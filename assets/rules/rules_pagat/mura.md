@@ -2,90 +2,88 @@
 
 **Difficulté :** —
 **Type :** Tressette, Plis
-**But :** An unusual Hungarian trick-taking game for 4 players from the early 20th century.
+**But :** Jeu hongrois de levées inhabituel pour 4 joueurs, datant du début du XXe siècle.
 
 ---
 
 ## Introduction
 
-An article on this game published in 1937 claims that its inventor and origins are unknown and that it was mostly played by rural land owner aristocrats and high members of the judicial system "in a patriarchal region of old Hungary". 
+Un article sur ce jeu publié en 1937 affirme que son inventeur et ses origines sont inconnus et qu'il était surtout joué par des aristocrates propriétaires terriens ruraux et des hauts membres du système judiciaire « dans une région patriarcale de l'ancienne Hongrie ».
 
-*This page is based on information obtained by Róbert Kovács from a post by Iván Vendy on the former Szerencsés Kártyajárást website (https://www.kartya-jatek.hu/mura/).*
+*Cette page est basée sur des informations obtenues par Róbert Kovács à partir d'un billet d'Iván Vendy sur l'ancien site Szerencsés Kártyajárást (https://www.kartya-jatek.hu/mura/).*
 
-## Players, Cards, Values and Objective
+## Joueurs, cartes, valeurs et objectif
 
-This unusual game is for four players, each playing for themselves. The deal and play are counter-clockwise. There are no trumps.
+Ce jeu inhabituel est pour quatre joueurs, chacun jouant pour soi. La donne et le jeu se font dans le sens inverse des aiguilles d'une montre. Il n'y a pas d'atout.
 
-A standard Hungarian 32-card pack is used. The suits are Hearts (*Piros*), Gourds (*Tök*), Leaves (*Zöld*) and Acorns (*Makk*) and the eight cards of each suit rank in descending order: 
+On utilise un jeu hongrois standard de 32 cartes. Les couleurs sont Cœurs (*Piros*), Citrouilles (*Tök*), Feuilles (*Zöld*) et Glandes (*Makk*) et les huit cartes de chaque couleur sont classées par ordre décroissant :
 
-**X**, **IX**, **Ace **(*Ász*), **King** (*Király*), **Over** (*Felső*), **Under** (*Alsó*), **VIII**, **VII**.
+**X**, **IX**, **As** (*Ász*), **Roi** (*Király*), **Supérieur** (*Felső*), **Inférieur** (*Alsó*), **VIII**, **VII**.
 
-Note that the Aces have diagonal suit marks and show the seasons of the year, the Kings ride horses, the Overs have their suit mark upright at the top left and the Unders have their suit mark halfway down the card. For example here is the suit of acorns:
+Notez que les As ont des marques de couleur diagonales et représentent les saisons de l'année, les Rois chevauchent, les Supérieurs ont leur marque de couleur droite en haut à gauche et les Inférieurs ont leur marque de couleur à mi-hauteur de la carte. Voici par exemple la couleur de glandes :
 
-![X](../images/tell/ez.gif)![IX](../images/tell/e9.gif)![Ace](../images/tell/ea.gif)![King](../images/tell/ek.gif)![Over](../images/tell/eo.gif)![Under](../images/tell/eu.gif)![VIII](../images/tell/e8.gif)![VII](../images/tell/e7.gif)
+![X](../images/tell/ez.gif)![IX](../images/tell/e9.gif)![As](../images/tell/ea.gif)![Roi](../images/tell/ek.gif)![Supérieur](../images/tell/eo.gif)![Inférieur](../images/tell/eu.gif)![VIII](../images/tell/e8.gif)![VII](../images/tell/e7.gif)
 
-The **Ace**, **Kings**, **Overs** and **Unders** are known as **figures** (*figurák*).
+L'**As**, les **Rois**, les **Supérieurs** et les **Inférieurs** sont appelés **figures** (*figurák*).
 
-If an **Ace** wins a trick it counts as **3 figures** instead of just one. An Ace that is beaten by the X or IX of its suit or is discarded on a lead of a different suit counts as just one figure.
+Si un **As** gagne une levée, il compte comme **3 figures** au lieu d'une seule. Un As battu par le X ou le IX de sa couleur, ou défaussé sur une levée d'une couleur différente, compte comme une seule figure.
 
-The numeral cards **X**, **IX**, **VIII** and **VII** have no value. Thus the total number of figures in each deal varies from 16 to 24 depending on whether the Aces win tricks.
+Les cartes numériques **X**, **IX**, **VIII** et **VII** n'ont aucune valeur. Ainsi le nombre total de figures dans chaque donne varie de 16 à 24 selon que les As gagnent des levées.
 
-Each player's objective is to win a total of at least 3 figures in tricks during the hand. Anyone whose tricks contain fewer than 3 figures is in **mura** and scores one penalty point for each trick that they took. A player can avoid mura by not taking any tricks at all, but in that case they also score a small penalty.
+L'objectif de chaque joueur est de gagner un total d'au moins 3 figures en levées au cours de la main. Quiconque a des levées contenant moins de 3 figures est en **mura** et marque un point de pénalité pour chaque levée qu'il a prise. Un joueur peut éviter le mura en ne prenant aucune levée du tout, mais dans ce cas il marque aussi une petite pénalité.
 
-## Deal
+## La donne
 
-The dealer shuffles, the player to dealer's right *[sic]* cuts, and the dealer deals out all the cards counter-clockwise in packets of 4 so that each players has a hand of 8 cards. 
+Le donneur mélange, le joueur à droite du donneur *[sic]* coupe, et le donneur distribue toutes les cartes dans le sens inverse des aiguilles d'une montre par paquets de 4, de sorte que chaque joueur a une main de 8 cartes.
 
-The first dealer can be chosen by any convenient method and the turn to deal passes to the right after each hand.
+Le premier donneur peut être choisi par la méthode la plus pratique et le tour de donne passe à droite après chaque main.
 
-## Play
+## Le jeu
 
-The player to dealer's right leads to the first trick. Any card may be led. The other three players in turn must follow suit, playing any card of the suit that was led if they are able to. 
+Le joueur à droite du donneur mène la première levée. N'importe quelle carte peut être menée. Les trois autres joueurs à tour de rôle doivent suivre la couleur, en jouant n'importe quelle carte de la couleur menée s'ils le peuvent.
 
-Players who have no card of the suit led may play any card.
+Les joueurs qui n'ont pas de carte de la couleur menée peuvent jouer n'importe quelle carte.
 
-The highest card of the suit that was led wins the trick. The winner stores the four cards of the trick face down and leads any card to the next trick.
+La carte la plus haute de la couleur menée gagne la levée. Le gagnant conserve les quatre cartes de la levée face cachée et mène n'importe quelle carte à la levée suivante.
 
-## Scoring
+## Comptage des points
 
-At the end of the play, the tricks won by each player are examined. Any player whose tricks contain fewer than 3 figures in total is in **mura** and scores one penalty point for each trick that they won. The penalties scored by each player are recorded with signs as follows:
+À la fin du jeu, les levées gagnées par chaque joueur sont examinées. Tout joueur dont les levées contiennent moins de 3 figures au total est en **mura** et marque un point de pénalité pour chaque levée qu'il a gagnée. Les pénalités marquées par chaque joueur sont enregistrées avec les signes suivants :
 
-- Single mura (one trick): ![1 mura](../images/tresette/1mura.png)
+- Mura simple (une levée) : ![1 mura](../images/tresette/1mura.png)
 
-- Double mura (two tricks): ![2 mura](../images/tresette/2mura.png)
+- Double mura (deux levées) : ![2 mura](../images/tresette/2mura.png)
 
-- Triple mura (three tricks): ![3 mura](../images/tresette/3mura.png)
+- Triple mura (trois levées) : ![3 mura](../images/tresette/3mura.png)
 
-- Quadruple mura (four tricks): ![4 mura](../images/tresette/4mura.png)
+- Quadruple mura (quatre levées) : ![4 mura](../images/tresette/4mura.png)
 
-A quintuple mura, which would be 5 tricks with fewer than 3 figures in total, is said to be "as rare as a white raven". In fact it is impossible. There are only 16 cards without value and a player who wins 5 tricks has 20 cards, so at least 4 of these cards must be figures.
+Un mura quintuple, qui serait 5 levées avec moins de 3 figures au total, est dit « aussi rare qu'un corbeau blanc ». En fait, c'est impossible. Il n'y a que 16 cartes sans valeur et un joueur qui gagne 5 levées a 20 cartes, donc au moins 4 de ces cartes doivent être des figures.
 
-For a player who wins no tricks at all, there is a smaller penalty, recorded as a zero: **0**. Nine of these zeros are equal to one single mura.
+Pour un joueur qui ne gagne aucune levée, il y a une pénalité plus petite, enregistrée comme un zéro : **0**. Neuf de ces zéros équivalent à un mura simple.
 
-Players whose tricks contain at least three figures are out of mura - thay are safe and score no penalty.
+Les joueurs dont les levées contiennent au moins trois figures sont hors du mura — ils sont sauvés et ne marquent aucune pénalité.
 
-A session lasts as long as the players wish, for example for an agreed number of deals, or until an agreed time. At the end each player must pay the others a stake for each mura they have suffered.
+Une session dure aussi longtemps que les joueurs le souhaitent, par exemple pour un nombre convenu de donnes, ou jusqu'à une heure convenue. À la fin, chaque joueur doit payer aux autres une mise pour chaque mura qu'il a subi.
 
-In practice this can be done by each pair of players settling up according to the difference in the number of penalty points they have, the player with more paying the one with fewer. Zeros that have not been converted to mura can be paid for at a rate of 1/9 of a single mura each.
+En pratique, cela peut se faire par chaque paire de joueurs en réglant leurs comptes selon la différence du nombre de points de pénalité qu'ils ont, le joueur ayant le plus payant celui qui en a le moins. Les zéros qui n'ont pas été convertis en mura peuvent être payés au taux de 1/9 d'un mura simple chacun.
 
-## Note on Tactics
+## Note sur la tactique
 
-The Hungarian article points out that players who have won a trick but are not yet out of mura may be tempted to save themselves by immediately leading winners to catch the extra figures they need. But this is not a good tactic as it often allows other players to throw away their dangerous winning cards. It is better and more interesting to try to force other players into mura by giving them low value tricks, and to save oneself later.
+L'article hongrois souligne que les joueurs qui ont gagné une levée mais ne sont pas encore sortis du mura peuvent être tentés de se sauver en menant immédiatement des cartes gagnantes pour capturer les figures supplémentaires dont ils ont besoin. Mais ce n'est pas une bonne tactique car cela permet souvent aux autres joueurs de se débarrasser de leurs cartes gagnantes dangereuses. Il est préférable et plus intéressant d'essayer de pousser les autres joueurs dans le mura en leur donnant des levées de faible valeur, et de se sauver plus tard.
 
-In the early stages of the play, players try to put their opponents into mura by playing low cards (VII, VIII) to force them to win tricks without figures and by discarding zero-value cards when unable to follow suit. Later they will try to keep those players in mura by overtaking their cards to prevent them winning tricks containing figures.
+Aux premiers stades du jeu, les joueurs essaient de pousser leurs adversaires dans le mura en jouant des cartes basses (VII, VIII) pour les forcer à gagner des levées sans figures et en défaussant des cartes de valeur nulle lorsqu'ils ne peuvent pas suivre la couleur. Plus tard, ils essaieront de maintenir ces joueurs dans le mura en surmontant leurs cartes pour les empêcher de gagner des levées contenant des figures.
 
-## Relationship to Tressette
+## Relation avec la Tressette
 
-Although the objective in this game is different from any other form of Tresette that we have seen, some of its features make it virtually certain that it was inspired by a version of Tresette.
+Bien que l'objectif de ce jeu soit différent de toute autre forme de Tressette que nous ayons vue, certaines de ses caractéristiques rendent pratiquement certain qu'il a été inspiré par une version de la Tressette.
 
-- It is a trick-taking game with no trumps.
+- C'est un jeu de levées sans atout.
 
-- The ranking of the cards. The Ace is third highest with two numerals above it. In normal Tresette these would be the 3 and 2, but these cards do not exist in the Hungarian pack, so the 10 and 9 have been substituted as in some other 32-card Tresette variants such as the Canadian game Le Quatre Sept.
+- Le classement des cartes. L'As est le troisième plus haut avec deux numériques au-dessus. Dans la Tressette normale, ce seraient le 3 et le 2, mais ces cartes n'existent pas dans le jeu hongrois, donc le 10 et le 9 ont été substitués comme dans d'autres variantes de Tressette à 32 cartes, telles que le jeu canadien Le Quatre Sept.
 
-- The value of the Ace is (in some cases) three times that of a picture card (King, Over, Under). 
+- La valeur de l'As est (dans certains cas) trois fois celle d'une figure (Roi, Supérieur, Inférieur).
 
-A striking difference from other Tresette variants is that the top two cards have no value (in Tresette they count as additional 'figures'). This change is necessary for Mura to work: if the X and IX counted as figures it would be too easy to avoid mura.
+Une différence frappante par rapport aux autres variantes de Tressette est que les deux cartes les plus hautes n'ont aucune valeur (en Tressette, elles comptent comme des « figures » supplémentaires). Ce changement est nécessaire pour que le Mura fonctionne : si le X et le IX comptaient comme des figures, il serait trop facile d'éviter le mura.
 
-Being in mura is analogous to losing by *stramazzo* in Tresette, and scoring a zero is analogous to losing *capotto*.
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Mura
+Être en mura est analogue à perdre par *stramazzo* à la Tressette, et marquer un zéro est analogue à perdre un *capotto*.

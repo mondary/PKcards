@@ -3,222 +3,220 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** All Fours, Plis
-**But :** A close relative of Pitch.
+**But :** Un proche parent du Pitch.
 
 ---
 
 ## Introduction
 
-**Smear** is game of the All Fours group, similar to Pitch or Setback. It is played in several versions in Minnesota and Winsconsin, USA, and in Ontario, Canada. It is known in some places as **Schmier**. It seems likely that the name is related to the German word *schmieren*, which is used in point-trick games such as Skat for the technique of discarding a high-value card on a trick which your partner is winning. The name might perhaps also be connected to "smudge", which is the highest bid in some forms of Pitch.
+**Smear** est un jeu du groupe All Fours, similaire au Pitch ou au Setback. Il se joue en plusieurs versions au Minnesota et au Wisconsin, États-Unis, et en Ontario, Canada. Il est connu dans certains endroits sous le nom de **Schmier**. Il semble probable que le nom soit lié au mot allemand *schmieren*, utilisé dans les jeux de plis à points comme le Skat pour la technique consistant à défausser une carte de grande valeur sur un pli que votre partenaire est en train de gagner. Le nom pourrait peut-être aussi être connecté à « smudge », qui est l'enchère la plus élevée dans certaines formes de Pitch.
 
-In comparison to normal Pitch, these are the main differences - not all of which apply to all the versions of Smear:
+Par rapport au Pitch normal, voici les principales différences — qui ne s'appliquent pas toutes à toutes les versions du Smear :
 
-- One or more jokers may be added to the deck; these rank as lowest trumps, and are worth a point to the side that takes them. 
+- Un ou plusieurs jokers peuvent être ajoutés au jeu ; ils sont classés comme les atouts les plus bas et valent un point pour le camp qui les prend.
 
-- The point for low is always for the **holder** of the lowest trump (apart from a joker), not the winner of the trick which contains it.
+- Le point pour le bas est toujours pour le **détenteur** du plus bas atout (à l'exclusion d'un joker), et non pour le gagnant du pli qui le contient.
 
-- The other jack of the same colour as the trump suit is sometimes counted an extra trump ranking immediately below the normal jack of trumps, and scoring a point to the side that takes it. This extra jack is called the **jick** or the **left bower**, as in Euchre.
+- L'autre valet de la même couleur que la couleur d'atout est parfois compté comme un atout supplémentaire classé immédiatement en dessous du valet d'atout normal, et rapportant un point au camp qui le prend. Ce valet supplémentaire est appelé le **jick** ou le **left bower**, comme dans l'Euchre.
 
-- After the bidding, either the bidder or all the players may be allowed to discard cards to improve their hands. This ensures that most or all of the good cards are in play.
+- Après les enchères, soit l'enchérisseur, soit tous les joueurs peuvent être autorisés à défausser des cartes pour améliorer leur main. Cela garantit que la plupart ou toutes les bonnes cartes sont en jeu.
 
-On this page four versions of the game are described: two from Minnesota (Schmier and Smear), Smear from Wisconsin and Smear from Fort Frances, Ontario.
+Sur cette page, quatre versions du jeu sont décrites : deux du Minnesota (Schmier et Smear), Smear du Wisconsin et Smear de Fort Frances, Ontario.
 
-## Schmier - St Paul, Minnesota Version
+## Schmier — Version de St Paul, Minnesota
 
-*This version was contributed by Ben Butzer, who calls the game **Schmier**. According to his family tradition, they brought it from Austria-Hungary many years ago, but this seems unlikely to be the case; games of the All Fours group are thought to be English in origin, and to have spread through the English speaking countries. If anyone knows of any evidence for games of the All Fours group ever having been played in Central Europe, please let me know.*
+*Cette version a été contribuée par Ben Butzer, qui appelle le jeu **Schmier**. Selon la tradition familiale, ils l'ont apporté d'Autriche-Hongrie il y a de nombreuses années, mais cela semble peu probable ; les jeux du groupe All Fours sont thought to be d'origine anglaise et s'être répandus dans les pays anglophones. Si quelqu'un a connaissance de preuves de jeux du groupe All Fours ayant été joués en Europe centrale, merci de me le faire savoir.*
 
-### Deck
+### Jeu de cartes
 
-The standard 52 card deck plus 1 joker is used.
+Le jeu standard de 52 cartes plus 1 joker est utilisé.
 
-### Rankings
+### Classements
 
-In the Trump suit: A, K, Q, J of Trump (called right bauer), J of same colour (called left bauer), 10, 9, 8, 7, 6, 5, 4, 3, 2, Joker. 
+Dans la couleur d'atout : A, R, D, V d'atout (appelé right bauer), V de même couleur (appelé left bauer), 10, 9, 8, 7, 6, 5, 4, 3, 2, Joker.
 
-In the off (non-trump) suits: A, K, Q, (J), 10, 9, 8, 7, 6, 5, 4, 3, 2
+Dans les couleurs non-atout : A, R, D, (V), 10, 9, 8, 7, 6, 5, 4, 3, 2
 
-### Object
+### Objectif
 
-Scoring is based on bringing cards home and is calculated somewhat like in Auction Pitch. There are a total of 6 points per hand:
+Le comptage est basé sur le ramassage des cartes et se calcule de manière similaire à l'Auction Pitch. Il y a un total de 6 points par main :
 
-- **Highest trump** for bringing home the ace of trumps
+- **Atout le plus haut** pour avoir ramené l'as d'atout
 
-- **Lowest trump** for the player who plays the two of trumps (even though this is not in fact the lowest trump)
+- **Atout le plus bas** pour le joueur qui joue le deux d'atout (bien que ce ne soit pas en fait le plus bas atout)
 
-- **Right Bower** for winning a trick containing the jack of the trump suit
+- **Right Bower** pour avoir gagné un pli contenant le valet de la couleur d'atout
 
-- **Left Bower** for winning a trick containing the other jack of the same colour as the trump suit
+- **Left Bower** pour avoir gagné un pli contenant l'autre valet de la même couleur que la couleur d'atout
 
-- **Joker** for winning a trick containing the joker
+- **Joker** pour avoir gagné un pli contenant le joker
 
-- **Game** calculated as in auction pitch. That is, each card has a value, and each team counts the total value of the cards in the tricks they have taken. The side with the greater total wins the game point (not awarded in case of a tie). There are 81 card points in total. the card values are:
+- **Partie** calculée comme dans l'auction pitch. C'est-à-dire que chaque carte a une valeur, et chaque équipe compte la valeur totale des cartes dans les plis qu'elle a pris. Le camp avec le plus grand total gagne le point de partie (non attribué en cas d'égalité). Il y a 81 points de cartes au total. Les valeurs des cartes sont :
 
-- Each Ace - 4 points
+- Chaque As — 4 points
 
-- Each King - 3 points
+- Chaque Roi — 3 points
 
-- Each Queen - 2 points
+- Chaque Dame — 2 points
 
-- Each Jack - 1 point
+- Chaque Valet — 1 point
 
-- Each Ten - 10 points (important for game)
+- Chaque Dix — 10 points (important pour la partie)
 
-- Joker - 1 point
+- Joker — 1 point
 
-### Seating
+### Places
 
-6 people, in two teams of three, in alternating positions
+6 personnes, en deux équipes de trois, en positions alternées
 
-### First Deal
+### Première donne
 
-6 cards to each person. 17 cards remain with the dealer until the second deal.
+6 cartes à chaque personne. 17 cartes restent avec le donneur jusqu'à la deuxième donne.
 
-### Bidding
+### Enchères
 
-Each bid is a number, representing the number of points that team will try to take. The minimum bid is 3; the highest bid is 6. The bidding begins on dealer's left goes around table 1 time. Each player can pass or bid a number of points higher than the previous bid if any. The person winning the bid names the trump suit.
+Chaque enchère est un nombre, représentant le nombre de points que l'équipe essaiera de prendre. L'enchère minimum est de 3 ; l'enchère la plus haute est de 6. Les enchères commencent à la gauche du donneur et font le tour de la table une fois. Chaque joueur peut passer ou enchérir un nombre de points supérieur à l'enchère précédente le cas échéant. Le gagnant de l'enchère nomme la couleur d'atout.
 
-If no one bids 3, the cards are thrown in and re-dealt by the same dealer.
+Si personne n'enchérit à 3, les cartes sont jetées et redistribuées par le même donneur.
 
-### Second Deal
+### Deuxième donne
 
-Once the trump suit is named, each person other than the dealer may discard up to 3 cards from his hand. No trump cards may be discarded. The dealer deals enough cards to each other player to bring their total hands up to six cards each. The dealer now adds the remaining undealt cards to his hand (there will be at least two such cards), and then discards an equal number of cards (his discard may include cards he picked up). The dealer is not allowed to discard trumps except in the rare case when he has more than 6 trumps in his hand. In this case he must discard the minimum number of trumps (leaving himself with a hand of 6 trumps), and is not allowed to discard the trump ace, right bower, left bower, trump two or joker.
+Une fois la couleur d'atout nommée, chaque joueur autre que le donneur peut défausser jusqu'à 3 cartes de sa main. Aucune carte d'atout ne peut être défaussée. Le donneur distribue suffisamment de cartes à chaque autre joueur pour amener leur main à six cartes. Le donneur ajoute alors les cartes non distribuées restantes à sa main (il y en aura au moins deux), puis défausse un nombre égal de cartes (sa défausse peut inclure les cartes qu'il a ramassées). Le donneur n'est pas autorisé à défausser des atouts sauf dans le rare cas où il a plus de 6 atouts dans sa main. Dans ce cas, il doit défausser le nombre minimum d'atouts (se laissant une main de 6 atouts), et n'est pas autorisé à défausser l'as d'atout, le right bower, le left bower, le deux d'atout ou le joker.
 
-### The Play
+### Le jeu
 
-The winner of the bid leads. Each player must follow suit until he is void (note that you are not allowed to trump while you still have a card of the led suit - this is unlike Pitch). A player with no card of the suit led may play any card. 
+Le gagnant de l'enchère entame. Chaque joueur doit suivre la couleur jusqu'à ce qu'il n'en ait plus (notez que vous n'êtes pas autorisé à atouter tant que vous avez une carte de la couleur entamée — contrairement au Pitch). Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quelle carte.
 
-The object is to win tricks and bring home the Joker, and the two bauers (worth a point each), and the tens & face cards for the game point. In addition whoever played the ace of trumps gets a point for his team, and the player of the two of trumps gets a point for his team even if the other team takes the trick.
+L'objectif est de gagner des plis et de ramener le Joker, les deux bauers (valant un point chacun), et les dix et figures pour le point de partie. De plus, celui qui a joué l'as d'atout obtient un point pour son équipe, et le joueur du deux d'atout obtient un point pour son équipe même si l'autre équipe gagne le pli.
 
-### The Scoring
+### Le comptage
 
-If the bidding side take at least as many points as they bid, they score all the points they made (which may be more than the bid). If the bidding side take fewer points than they bid, they lose the amount of their bid (which may make their score negative). In either case, the opponents of the bidding side score the points they made.
+Si le camp enchérisseur prend au moins autant de points qu'il a annoncé, il marque tous les points qu'il a réalisés (qui peuvent être supérieurs à l'annonce). Si le camp enchérisseur prend moins de points qu'il a annoncé, il perd le montant de son annonce (ce qui peut rendre son score négatif). Dans les deux cas, les adversaires du camp enchérisseur marquent les points qu'ils ont réalisés.
 
-The winners are the first team to reach 21 or more points, or if both reach 21 on the same deal, the side with more points. If both sides reach 21 or more points on the same deal and the scores are then equal, the bidding side wins.
+Les gagnants sont la première équipe à atteindre 21 points ou plus, ou si les deux atteignent 21 lors de la même donne, le camp avec le plus de points. Si les deux camps atteignent 21 points ou plus lors de la même donne et que les scores sont alors égaux, le camp enchérisseur gagne.
 
-### Variant: Five Handed Schmier
+### Variante : Schmier à cinq joueurs
 
-Remove the twos and threes from the deck. The first deal and the bidding are as in the six player game, and the high bidder names trump. After the second deal, the winner of the bid is allowed to call a partner by naming a desired card. The holder of the called card is the partner of the bidder but does not announce who he is - the teams are not known until the called card is played. 
+Retirez les deux et les trois du jeu. La première donne et les enchères sont comme dans le jeu à six joueurs, et le plus haut enchérisseur nomme l'atout. Après la deuxième donne, le gagnant de l'enchère est autorisé à appeler un partenaire en nommant une carte souhaitée. Le détenteur de la carte appelée est le partenaire de l'enchérisseur mais ne révèle pas qui il est — les équipes ne sont pas connues tant que la carte appelée n'a pas été jouée.
 
-If the called card turns out to have been discarded, the bidder plays and scores alone, and the other four play as a team and score equally. The bidder may also choose to play alone voluntarily, and in this case does not call a partner. It is illegal for the bidder to call a card which is in his own hand.
+Si la carte appelée s'avère avoir été défaussée, l'enchérisseur joue et compte seul, et les quatre autres jouent en équipe et comptent de manière égale. L'enchérisseur peut aussi choisir de jouer seul volontairement, et dans ce cas n'appelle pas de partenaire. Il est interdit à l'enchérisseur d'appeler une carte qui se trouve dans sa propre main.
 
-Each player keeps an individual score because the teams shift on each hand. The winner is the first individual player to reach 21 points. As the twos and threes are out of play, the point for **lowest** is awarded to whoever holds the **four** of trumps.
+Chaque joueur conserve un score individuel car les équipes changent à chaque main. Le gagnant est le premier joueur individuel à atteindre 21 points. Les deux et les trois étant hors jeu, le point pour le **plus bas** est attribué à celui qui détient le **quatre** d'atout.
 
-There is also an older version of the 5 player game played with a full deck of cards, in which players may discard up to 6 cards (rather than 3) before the second deal. As always, it is illegal to discard trumps.
+Il existe également une version plus ancienne du jeu à 5 joueurs jouée avec un jeu complet de cartes, dans laquelle les joueurs peuvent défausser jusqu'à 6 cartes (au lieu de 3) avant la deuxième donne. Comme toujours, il est interdit de défausser des atouts.
 
-## Minnesota Smear
+## Smear du Minnesota
 
-*This version was contributed by Marisa Johnson.* 
+*Cette version a été contribuée par Marisa Johnson.*
 
-The original **Smear** game is played with 4 players in fixed partnerships, sitting crosswise. A 54 card pack is used, the cards in each suit ranking as usual A K Q J 10 9 8 7 6 5 4 3 2. The two jokers are extra trumps ranking between the jack and ten. If both jokers are played to the same trick, the first played beats the second. 
+Le jeu **Smear** original se joue à 4 joueurs en partenariats fixes, assis en croix. Un jeu de 54 cartes est utilisé, les cartes de chaque couleur étant classées comme d'habitude A R D V 10 9 8 7 6 5 4 3 2. Les deux jokers sont des atouts supplémentaires classés entre le valet et le dix. Si les deux jokers sont joués sur le même pli, le premier joué bat le second.
 
-Nine cards are dealt to each player, and there is one round of bidding, beginning with the player to dealer's left. Each player can pass or name a number of points, from 2 to 4, which must be higher than the previous bids if any. 
+Neuf cartes sont distribuées à chaque joueur, et il y a un tour d'enchères, commençant par le joueur à la gauche du donneur. Chaque joueur peut passer ou nommer un nombre de points, de 2 à 4, qui doit être supérieur aux enchères précédentes le cas échéant.
 
-The winner of the bidding names trump, and then each player discards three cards face down, and plays with the remaining six. No trump of any kind may be discarded except by a player who has more than six trumps. The high bidder leads to the first trick.
+Le gagnant des enchères nomme l'atout, puis chaque joueur défausse trois cartes face en bas, et joue avec les six restantes. Aucun atout d'aucune sorte ne peut être défaussé sauf par un joueur qui a plus de six atouts. Le plus haut enchérisseur entame le premier pli.
 
-In the play, suit must be followed. A player with no card of the suit led may anything. A player is also allowed to trump while still holding cards of the suit led.
+Dans le jeu, la couleur doit être suivie. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quoi. Un joueur est aussi autorisé à atouter tout en conservant des cartes de la couleur entamée.
 
-There are four points:
+Il y a quatre points :
 
-- **high**, won by the player who plays the ace of trump;
+- **haut**, gagné par le joueur qui joue l'as d'atout ;
 
-- **low**, won by the player who plays the deuce of trump;
+- **bas**, gagné par le joueur qui joue le deux d'atout ;
 
-- **jack**, won by the winner of the trick containing the jack of trumps;
+- **valet**, gagné par le gagnant du pli contenant le valet d'atout ;
 
-- **game**, won by the side which takes more cards points (ace = 4, king = 3, queen = 2, jack = 1, ten = 10). If the card points are tied there is no point for game.
+- **partie**, gagné par le camp qui prend le plus de points de cartes (as = 4, roi = 3, dame = 2, valet = 1, dix = 10). Si les points de cartes sont à égalité, il n'y a pas de point de partie.
 
-If the bidding side make as many points as they bid they score all the points they made; if not they lose the amount they bid. The non-bidding side score the points they made in any case. 
+Si le camp enchérisseur réalise autant de points qu'il a annoncé, il marque tous les points qu'il a réalisés ; sinon il perd le montant de son annonce. Le camp non-enchérisseur marque les points qu'il a réalisés dans tous les cas.
 
-### Ten Point Smear
+### Smear à dix points
 
-This is the best variant of Smear. As you might expect, it is quite similar to ten point pitch. The game can be played by 4, 5 or 6 people with partnering. 4 or 6 people play as fixed partnerships. 6 people play 3 against 3, each player sitting between two opponents. When there are five players, the bidder chooses a temporary partner by calling a card as described below.
+C'est la meilleure variante du Smear. Comme on peut s'y attendre, elle est assez similaire au pitch à dix points. Le jeu peut être joué par 4, 5 ou 6 personnes avec partenariat. 4 ou 6 personnes jouent en partenariats fixes. 6 personnes jouent 3 contre 3, chaque joueur étant assis entre deux adversaires. Lorsqu'il y a cinq joueurs, l'enchérisseur choisit un partenaire temporaire en appelant une carte comme décrit ci-dessous.
 
-A 54 card pack is used. The other jack which is the same colour as the trump jack is called the **Jick** and counts as a trump ranking immediately below the trump jack; the two jokers are trumps ranking between the jick and the ten.
+Un jeu de 54 cartes est utilisé. L'autre valet de la même couleur que le valet d'atout est appelé le **Jick** et compte comme un atout classé immédiatement en dessous du valet d'atout ; les deux jokers sont des atouts classés entre le jick et le dix.
 
-In addition to the points for High, Low, Jack and Game, there are additional points for 
+En plus des points pour Haut, Bas, Valet et Partie, il y a des points supplémentaires pour :
 
-| the Jick | one point |
-| the two jokers | one point each |
-| the 3 of trumps | worth 3 points |
+| le Jick | un point |
+| les deux jokers | un point chacun |
+| le 3 d'atout | 3 points |
 
-These extra points go to the team which takes the relevant card in their tricks. 
+Ces points supplémentaires vont à l'équipe qui prend la carte correspondante dans ses plis.
 
-The bidding is as in the original game described above, except that bids of any number up to 10 are now possible (since there are 10 points in the game), and the minimum bid is 4. The high bidder names the trump suit.
+Les enchères sont comme dans le jeu original décrit ci-dessus, sauf que des enchères de n'importe quel nombre jusqu'à 10 sont maintenant possibles (puisqu'il y a 10 points dans le jeu), et l'enchère minimum est de 4. Le plus haut enchérisseur nomme la couleur d'atout.
 
-**Four player game** 
-10 cards are dealt to each player. After trump is called, the high bidder picks up the 14 undealt cards and adds them to his or her hand. The bidder then discards 18 cards and everyone else discards four cards, so that each player plays with a six card hand. No trump may be discarded except by a player holding more than six trumps.
-**Five player game** 
-10 cards are dealt to each player. After trump is called, each player discards four cards and plays with the remaining six. No trump may be discarded except by a player holding more than six trumps. The four undealt cards remain out of play and are not known by any player until after the play. (This makes it risky to bid 10, as points cannot be scored for cards that are out of play).
+**Jeu à quatre joueurs**
+10 cartes sont distribuées à chaque joueur. Après que l'atout a été appelé, le plus haut enchérisseur ramasse les 14 cartes non distribuées et les ajoute à sa main. L'enchérisseur défausse ensuite 18 cartes et tous les autres défaussent quatre cartes, de sorte que chaque joueur joue avec une main de six cartes. Aucun atout ne peut être défaussé sauf par un joueur détenant plus de six atouts.
+**Jeu à cinq joueurs**
+10 cartes sont distribuées à chaque joueur. Après que l'atout a été appelé, chaque joueur défausse quatre cartes et joue avec les six restantes. Aucun atout ne peut être défaussé sauf par un joueur détenant plus de six atouts. Les quatre cartes non distribuées restent hors jeu et ne sont connues d'aucun joueur jusqu'à après le jeu. (Cela rend risquée l'enchère de 10, car les points ne peuvent pas être marqués pour les cartes hors jeu).
 
-The bidder then calls a trump card by rank. You are not allowed to call the three of trumps, nor can you call a trump that you have in your hand; apart from this, any trump may be called. The player who has the called card shows it to everyone. That player is the bidder's partner for that hand, and must play the called trump on the first trick. If the called card is in fact in the kitty of undealt cards, the bidder must play alone against the other four players.
+L'enchérisseur appelle ensuite une carte d'atout par son rang. Vous n'êtes pas autorisé à appeler le trois d'atout, ni un atout que vous avez dans votre main ; à part cela, n'importe quel atout peut être appelé. Le joueur qui a la carte appelée la montre à tout le monde. Ce joueur est le partenaire de l'enchérisseur pour cette main et doit jouer l'atout appelé au premier pli. Si la carte appelée se trouve en fait dans le paquet de cartes non distribuées, l'enchérisseur doit jouer seul contre les quatre autres joueurs.
 
-**Six player game**
-8 cards are dealt to each player. After trump is called, the high bidder picks up the 6 undealt cards and adds them to his or her hand. The bidder then discards eight cards and everyone else discards two cards, so that each player retains a six card hand to play with. No trump may be discarded except by a player holding more than six trumps.
+**Jeu à six joueurs**
+8 cartes sont distribuées à chaque joueur. Après que l'atout a été appelé, le plus haut enchérisseur ramasse les 6 cartes non distribuées et les ajoute à sa main. L'enchérisseur défausse ensuite huit cartes et tous les autres défaussent deux cartes, de sorte que chaque joueur conserve une main de six cartes pour jouer. Aucun atout ne peut être défaussé sauf par un joueur détenant plus de six atouts.
 
-The game is played to a target score of 52 points. When a team or player reaches or exceeds the target points at the end of a hand they win the game. If more than one team or player reaches the target together, whoever has the highest score wins; in case of a tie the bidding side wins.
+Le jeu se joue jusqu'à un score cible de 52 points. Quand une équipe ou un joueur atteint ou dépasse le score cible à la fin d'une main, il gagne la partie. Si plus d'une équipe ou d'un joueur atteint le cible ensemble, celui qui a le score le plus élevé gagne ; en cas d'égalité, le camp enchérisseur gagne.
 
-## Smear in northeastern Wisconsin
+## Smear dans le nord-est du Wisconsin
 
-*This description is based on a contribution from Rick Gilbertson.*
+*Cette description est basée sur une contribution de Rick Gilbertson.*
 
-The most popular version is for four players in fixed partnerships, partners sitting opposite each other, using a 32 card deck consisting of **A K Q J 10 9 8 7** in each suit. There is also a less common version for six players, forming two teams of three, each player sitting between two opponents. When there are six players, the 6 and 5 of each suit are included, making a 40 card deck. There is also a three player version without partners - players just play for themselves.
+La version la plus populaire est pour quatre joueurs en partenariats fixes, les partenaires s'asseyant en face l'un de l'autre, avec un jeu de 32 cartes composé de **A R D V 10 9 8 7** dans chaque couleur. Il existe aussi une version moins courante pour six joueurs, formant deux équipes de trois, chaque joueur assis entre deux adversaires. Lorsqu'il y a six joueurs, le 6 et le 5 de chaque couleur sont inclus, formant un jeu de 40 cartes. Il existe également une version à trois joueurs sans partenaire — les joueurs jouent juste pour eux-mêmes.
 
-The four player game exists in two main versions: the **four point game** and the **six point game**.
+Le jeu à quatre joueurs existe en deux versions principales : le **jeu à quatre points** et le **jeu à six points**.
 
-### Four Point Smear
+### Smear à quatre points
 
-The four points are high, low, jack and game, the point for low going to whoever plays the lowest trump. Before the game the players must decide on the number of 'blinds' - that is the number of cards which the winner of the bidding takes from the undealt cards. This may be anywhere from zero to three cards. The players should also agree on the target score (typically 15) and the exact conditions for winning.
+Les quatre points sont haut, bas, valet et partie, le point pour le bas allant à celui qui joue le plus bas atout. Avant le jeu, les joueurs doivent décider du nombre de « blinds » — c'est-à-dire le nombre de cartes que le gagnant des enchères prend parmi les cartes non distribuées. Cela peut aller de zéro à trois cartes. Les joueurs doivent aussi se mettre d'accord sur le score cible (typiquement 15) et les conditions exactes de victoire.
 
-Each player is dealt six cards. The possible bids are numbers from 2 to 4. The highest bidder takes the agreed number of blinds and discards an equal number of cards. The card points in the discarded cards count towards the bidder's side's total towards the 'game' point. The remaining undealt cards, called 'Sleepers', are placed to the side and not used - any card points in them count for neither side. 
+Chaque joueur reçoit six cartes. Les enchères possibles sont des nombres de 2 à 4. Le plus haut enchérisseur prend le nombre convenu de blinds et défausse un nombre égal de cartes. Les points de cartes dans les cartes défaussées comptent pour le total du camp de l'enchérisseur pour le point de « partie ». Les cartes non distribuées restantes, appelées « Sleepers », sont placées de côté et ne sont pas utilisées — les points de cartes qu'elles contiennent ne comptent pour aucun camp.
 
-The player who won the bidding leads to the first trick and the suit led is trump. When trumps are led, everyone has to play a trump if they have one. When a non-trump suit, here called a **fail** (from the German *Fehlfarbe*) is led, players have the choice of following suit or trumping. Thus you can play a trump at any time, but when playing fail you must follow the suit led if you can.
+Le joueur qui a gagné les enchères entame le premier pli et la couleur entamée est l'atout. Lorsque des atouts sont entamés, tout le monde doit jouer un atout s'il en a un. Lorsqu'une couleur non-atout, ici appelée **fail** (du mot allemand *Fehlfarbe*), est entamée, les joueurs ont le choix de suivre la couleur ou d'atouter. Vous pouvez donc jouer un atout à tout moment, mais lorsque vous jouez fail vous devez suivre la couleur entamée si vous le pouvez.
 
-If the bidding side make as many points as they bid they score all they make; if not they lose the amount of their bid. In either case the other team score whatever they make.
+Si le camp enchérisseur réalise autant de points qu'il a annoncé, il marque tout ce qu'il a réalisé ; sinon il perd le montant de son annonce. Dans les deux cas, l'autre équipe marque ce qu'elle a réalisé.
 
-The game is won by the first team to reach or go over the target score. Some play that you can only win with a succesful bid. Some play that a team's score cannot go above the target - points scored in excess of the target by the non-bidding side do not count. 
+La partie est gagnée par la première équipe à atteindre ou dépasser le score cible. Certains jouent qu'on ne peut gagner qu'avec une enchère réussie. Certains jouent que le score d'une équipe ne peut pas dépasser le cible — les points marqués en excès du cible par le camp non-enchérisseur ne comptent pas.
 
-### Six Point Smear
+### Smear à six points
 
-In the six point variation two Jokers are added to the deck, making 34 cards in all. The jokers are the lowest trumps; some play that they rank equally and the first played beats the second, some play that the second beats the first, and some play that they rank in a specific order; in practice this rarely makes a difference. Each joker is worth one point to the side that takes it in a trick, so there are six points in all. When playing with jokers, the point for low goes to whoever plays the lowest trump other than a joker - usually the 7 but could be the 8 if the 7 is sleeping, and so on. 
+Dans la variante à six points, deux Jokers sont ajoutés au jeu, portant le total à 34 cartes. Les jokers sont les atouts les plus bas ; certains jouent qu'ils sont de rang égal et que le premier joué bat le second, d'autres jouent que le second bat le premier, et d'autres jouent qu'ils ont un ordre spécifique ; en pratique, cela fait rarement de différence. Chaque joker vaut un point pour le camp qui le prend dans un pli, soit un total de six points. En jouant avec des jokers, le point pour le bas va à celui qui joue le plus bas atout autre qu'un joker — généralement le 7 mais cela pourrait être le 8 si le 7 est dormant, etc.
 
-In the six point game the target score is usually 21 points.
+Dans le jeu à six points, le score cible est généralement de 21 points.
 
-## Smear in Fort Frances, Ontario, Canada
+## Smear à Fort Frances, Ontario, Canada
 
-*This version was contributed by Ben Callaghan*
+*Cette version a été contribuée par Ben Callaghan*
 
-The game is for four players in fixed partnerships, with variations for three and two. A standard 52 card pack is used with the cards in each suit ranking as usual A K Q J 10 9 8 7 6 5 4 3 2.
+Le jeu est pour quatre joueurs en partenariats fixes, avec des variantes pour trois et deux. Un jeu standard de 52 cartes est utilisé, les cartes de chaque couleur étant classées comme d'habitude A R D V 10 9 8 7 6 5 4 3 2.
 
-Six cards are dealt to each player. Beginning at dealer's left, each player gets one chance to bid, and can pass or bid any number from 2 to 4. Each bid must be higher than any previous bid. If all pass, the cards are thrown in and there is a new deal by the same dealer.
+Six cartes sont distribuées à chaque joueur. En commençant à la gauche du donneur, chaque joueur a une chance d'enchérir, et peut passer ou enchérir n'importe quel nombre de 2 à 4. Chaque enchère doit être supérieure à toute enchère précédente. Si tous passent, les cartes sont jetées et il y a une nouvelle donne par le même donneur.
 
-The bidder leads to the first trick and the card led determines the trump suit. In the play, if you can follow suit you must either do so or play a trump. If you have no card of the suit led you may play anything. A trick is won by the highest card played of the suit led unless trumped, in which case the highest trump wins.
+L'enchérisseur entame le premier pli et la carte entamée détermine la couleur d'atout. Dans le jeu, si vous pouvez suivre la couleur, vous devez le faire ou jouer un atout. Si vous n'avez pas de carte de la couleur entamée, vous pouvez jouer n'importe quoi. Un pli est gagné par la carte la plus haute de la couleur entamée, sauf s'il est atouté, auquel cas l'atout le plus élevé gagne.
 
-There are just four possible points:
+Il y a seulement quatre points possibles :
 
-- high - playing the highest trump
+- haut — jouer l'atout le plus élevé
 
-- low - for playing the lowest trump
+- bas — jouer l'atout le plus bas
 
-- jack - for taking a trick containing the jack of trumps
+- valet — gagner un pli contenant le valet d'atout
 
-- game - for having more card points in tricks than the other team (A=4, K=3, Q=2, J=1, 10=10)
+- partie — avoir plus de points de cartes dans les plis que l'autre équipe (A=4, R=3, D=2, V=1, 10=10)
 
-The four-person game is played to 15 ("15 sneak-out"). The team which gets to 15 first wins. If both reach or exceed 15 in the same hand, the bidding team wins, regardless of who has the most points. 
+Le jeu à quatre personnes se joue jusqu'à 15 (« 15 sneak-out »). L'équipe qui atteint 15 en premier gagne. Si les deux atteignent ou dépassent 15 lors de la même main, l'équipe enchérisseuse gagne, indépendamment de qui a le plus de points.
 
-"Cutthroat", the version for two or three players, is referred to as "11 bid-out". Players can only record points to a maximum of 11. Then they must make a bid to win the game. If a player who has at least one point bids four and makes it, that player immediately wins the whole game.
+« Cutthroat », la version pour deux ou trois joueurs, est appelée « 11 bid-out ». Les joueurs ne peuvent enregistrer des points que jusqu'à un maximum de 11. Ensuite, ils doivent faire une enchère pour gagner la partie. Si un joueur qui a au moins un point enchérit à 4 et le réalise, ce joueur gagne immédiatement toute la partie.
 
-### Money Game
+### Jeu d'argent
 
-Stakes are agreed per game and set - for example "10 and 5" means ten cents a game and five cents a set, or you could play $1.00 per game, 50 cents per set. The bidding team are **set** if they do not make enough points for their bid. 
+Les mises sont convenues par partie et fixées — par exemple « 10 et 5 » signifie dix centimes par partie et cinq centimes par set, ou vous pourriez jouer 1,00 $ par partie, 50 cents par set. L'équipe enchérisseuse est **set** si elle ne réalise pas assez de points pour son enchère.
 
-If you lose a game you pay to the winners the game stake, plus a set stake for each time you were set. It does not matter how many times the winning side were set, if at all - having won the game they do not have to pay for this. 
+Si vous perdez une partie, vous payez aux gagnants la mise de la partie, plus une mise de set pour chaque fois que vous avez été set. Cela n'importe pas combien de fois le camp gagnant a été set, le cas échéant — ayant gagné la partie, ils n'ont pas à payer pour cela.
 
-The set stake tends to discourage reckless bidding, especially in the "Cutthroat" version where otherwise players sometimes bid just to hinder someone else from winning the game. 
+La mise de set tend à décourager les enchères téméraires, surtout dans la version « Cutthroat » où autrement les joueurs enchérissent parfois juste pour empêcher quelqu'un d'autre de gagner la partie.
 
-## Smear Software
+## Logiciel Smear
 
-Scott Olson has written a [Shmear program](https://www.shmear.com) with which you can play against computer opponents or live over a LAN or over the Internet. Eventually, several variations will be added.
+Scott Olson a écrit un [programme Shmear](https://www.shmear.com) avec lequel vous pouvez jouer contre des adversaires informatiques ou en direct sur un réseau local ou sur Internet. Finalement, plusieurs variantes seront ajoutées.
 
-Matt Kokotovich has written an online Smear game with player against computer and multiplayer modes. It is available at [www.playsmear.com](https://www.playsmear.com).
-
-Home Page > Classified Index > Trick Taking Games > All Fours Group > Pitch / Setback > Smear
+Matt Kokotovich a écrit un jeu de Smear en ligne avec des modes joueur contre ordinateur et multijoueur. Il est disponible sur [www.playsmear.com](https://www.playsmear.com).

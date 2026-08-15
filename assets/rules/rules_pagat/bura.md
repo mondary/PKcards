@@ -1,119 +1,117 @@
-# Bura and Kozel
+# Bura et Kozel
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** In which Aces and Tens are the most valuable cards and more than one card of the same suit can be led to a trick.
+**But :** Jeu dans lequel les As et les Dix sont les cartes les plus valuées et où plusieurs cartes de la même couleur peuvent être menées à un pli.
 
 ---
 
-*This page is based on information from Alexey Lobashev and Alexander Tvaladze.*
+*Cette page est basée sur des informations d'Alexey Lobashev et Alexander Tvaladze.*
 
 ## Introduction
 
-The game of Bura is particularly characteristic of Russian prisoners and ex-prisoners. Bura is a rather unusual point-trick game, in which it is possible to lead several cards at the same time provided that they are of the same suit. 
+Le jeu de Bura est particulièrement caractéristique des prisonniers et ex-prisonniers russes. Bura est un jeu de plis à points plutôt inhabituel, dans lequel il est possible de mener plusieurs cartes en même temps pourvu qu'elles soient de la même couleur.
 
-This page also describes a related game Kozel, which can be played either for money or for points.
+Cette page décrit aussi un jeu apparenté, Kozel, qui peut se jouer soit pour de l'argent soit pour des points.
 
-## Players and Cards
+## Joueurs et cartes
 
-Most often Bura is played by two people using a 36-card pack, but up to six players can take part. The ranking from high to low and the point values of the cards in each suit are: 
+Le plus souvent, Bura se joue à deux personnes avec un jeu de 36 cartes, mais jusqu'à six joueurs peuvent participer. Le classement du plus haut au plus bas et les valeurs en points des cartes de chaque couleur sont :
 
-| Card: | ace | ten | king | queen | jack | nine | eight | seven | six |
-| Value: | 11 | 10 | 4 | 3 | 2 | 0 | 0 | 0 | 0 |
+| Carte : | as | dix | roi | dame | valet | neuf | huit | sept | six |
+| Valeur : | 11 | 10 | 4 | 3 | 2 | 0 | 0 | 0 | 0 |
 
-The main aim is to be the first player to take at least 31 points in tricks.
+Le but principal est d'être le premier joueur à prendre au moins 31 points dans les plis.
 
-## Deal
+## Donne
 
-Everyone puts an equal stake into a pot, and the cards are dealt out singly until each player has three. The next card is turned face up to show the trump suit, and the rest of the stock is placed crosswise face down on top of it. 
+Chacun met une mise égale dans un pot, et les cartes sont distribuées une par une jusqu'à ce que chaque joueur en ait trois. La carte suivante est retournée face visible pour montrer la couleur d'atout, et le reste du tas est posé en croix face contre table par-dessus.
 
-## Play
+## Jeu
 
-When there are two players, the non-dealer leads to the first trick. If more than two people play, play is clockwise and it is usual for the player to the left of the dealer to lead to the first trick. A player may lead a single card, or any two or three cards of the same suit together. The other players in turn must play the same number of cards as were led. They can play any cards they wish - there is no requirement to follow suit. A card can be beaten by a higher card of the same suit, and any non-trump card can be beaten by any trump. 
+À deux joueurs, le non-donneur mène au premier pli. S'il y a plus de deux joueurs, le jeu est dans le sens horaire et c'est généralement le joueur à la gauche du donneur qui mène au premier pli. Un joueur peut mener une seule carte, ou n'importe quelles deux ou trois cartes de la même couleur ensemble. Les autres joueurs à tour de rôle doivent jouer le même nombre de cartes que celles qui ont été menées. Ils peuvent jouer les cartes qu'ils souhaitent — il n'y a aucune obligation de suivre la couleur. Une carte peut être battue par une carte supérieure de la même couleur, et toute carte non-atout peut être battue par n'importe quel atout.
 
-To beat a combination of two or three cards that were played together, you need to beat each of the cards with a better card.
+Pour battre une combinaison de deux ou trois cartes jouées ensemble, il faut battre chacune des cartes avec une meilleure carte.
 
-**Example:** diamonds are trumps; A leads the queen and 7 of spades; B plays the diamond 9 and the spade jack, which beats A's lead. C holds the diamond king and 8 and the spade 9. In order to beat B's play, C would need to play both of his trumps. Alternatively C could throw the diamond 8 and spade 9, keeping the trump king for later, and leave B to win the trick.
+**Exemple :** les carreaux sont atout ; A mène la dame et le 7 de pique ; B joue le 9 de carreaux et le valet de pique, ce qui bat la mise de A. C détient le roi et le 8 de carreaux et le 9 de pique. Pour battre le jeu de B, C devrait jouer ses deux atouts. Alternativement, C pourrait jouer le 8 de carreaux et le 9 de pique, gardant le roi d'atout pour plus tard, et laisser B gagner le pli.
 
-Completed tricks are stored face down in front of the player who won them. After each trick the players draw cards from the stock, one at a time in clockwise rotation, starting with the winner of the trick, until everyone has three cards again. Then the winner of the trick leads to the next. If there are not enough cards left in the stock to go around, the remaining stock cards are not used, and the players continue playing from the cards in their hands without drawing.
+Les plis terminés sont posés face contre table devant le joueur qui les a gagnés. Après chaque pli, les joueurs piochent des cartes du tas, une à la fois dans l'ordre horaire, en commençant par le gagnant du pli, jusqu'à ce que tout le monde ait à nouveau trois cartes. Puis le gagnant du pli mène au suivant. S'il n'y a pas assez de cartes dans le tas pour tout le monde, les cartes restantes du tas ne sont pas utilisées, et les joueurs continuent à jouer avec les cartes de leur main sans piocher.
 
-## Ending the play
+## Fin du jeu
 
-The play continues until someone stops the game, claiming to have 31 or more points in their tricks. Players are not allowed to look back at the tricks they have won to count the points taken - they must remember what they have. After a claim, the claiming player's tricks are exposed and the card points are counted. If the claim is true the winner takes the pot and the players contribute to a new pot for the next hand. A player who claims wrongly, having taken 30 points or fewer, has to double the pot. Either way, the next hand is dealt by the player who claimed. If no one has claimed by the time that all the cards have been played, then there is no winner. The cards are thrown in, everyone adds another stake to the pot, and the same dealer deals again.
+Le jeu continue jusqu'à ce que quelqu'un arrête le jeu en réclamant avoir 31 points ou plus dans ses plis. Les joueurs ne sont pas autorisés à regarder en arrière les plis qu'ils ont gagnés pour compter les points pris — ils doivent se souvenir de ce qu'ils ont. Après une réclamation, les plis du joueur qui a réclamé sont exposés et les points de cartes sont comptés. Si la réclamation est vraie, le gagnant prend le pot et les joueurs contribuent à un nouveau pot pour la main suivante. Un joueur qui réclame à tort, ayant pris 30 points ou moins, doit doubler le pot. Dans tous les cas, la main suivante est donnée par le joueur qui a réclamé. Si personne n'a réclamé au moment où toutes les cartes ont été jouées, il n'y a pas de gagnant. Les cartes sont jetées, chacun ajoute une autre mise au pot, et le même donneur redistribue.
 
-## Special Combinations
+## Combinaisons spéciales
 
-There are a few twists to the basic game. The first is that certain combinations allow you to take the lead even if you did not win the previous trick. In descending order of priority, these are:
+Il y a quelques twists au jeu de base. Le premier est que certaines combinaisons vous permettent de prendre la main même si vous n'avez pas gagné le pli précédent. Par ordre décroissant de priorité, ce sont :
 
-- **Bura** - any three trumps. 
+- **Bura** — trois atouts quelconques.
 
-- **Three aces**.
+- **Trois as**.
 
-- **Molodka** (young lady) - three cards of the same suit (not trumps).
+- **Molodka** (jeune fille) — trois cartes de la même couleur (pas atout).
 
-If two or more players announce the same type of combination at the start of the same trick, the lead belongs to whichever of the players would normally have played earliest to the trick. 
-A Bura wins the pot and ends the play. If two or more players have Bura, the one whose turn to play to the next trick was earliest leads his Bura and the holders of the other Buras play theirs in turn; whoever wins this trick wins the pot.
+Si deux joueurs ou plus annoncent le même type de combinaison au début du même pli, la main appartient à celui qui aurait normalement joué en premier à ce pli.
+Une Bura gagne le pot et termine le jeu. Si deux joueurs ou plus ont une Bura, celui dont c'était le tour de jouer au pli suivant mène sa Bura en premier et les détenteurs des autres Buras jouent les leurs à tour de rôle ; celui qui gagne ce pli gagne le pot.
 
-## Note on Cheating
+## Note sur la triche
 
-If three or more people play Bura, there is scope for some of the players to collude by throwing each other high cards. You should therefore be wary of playing Bura against more than one opponent, unless you are playing with people whom you trust completely, or for stakes so small that you do not care about losing.
+Si trois personnes ou plus jouent à Bura, il y a une possibilité pour certains joueurs de s'entendre en se passant des cartes fortes. Vous devriez donc vous méfier de jouer à Bura contre plus d'un adversaire, à moins que vous ne jouiez avec des personnes en qui vous avez totalement confiance, ou pour des mises si faibles que vous vous souciez peu de perdre.
 
-## Variations
+## Variantes
 
-Some people play that three aces also win the pot (if no one has a Bura). Other players do not recognise the combinations of three aces or Molodka at all.
+Certains jouent que trois as gagnent aussi le pot (si personne n'a de Bura). D'autres joueurs ne reconnaissent pas les combinaisons de trois as ou de Molodka.
 
-A popular variation is to play with **closed cards**. In this version, the lead to a trick is face up, and any play which is used to beat the best combination in the trick so far is also face up as usual. All non-winning cards and combinations must be played face down. It is also legal to play face down a card or combination that might have won, but if played face down it loses its power and cannot win the trick. No one, not even the winner of the trick, is allowed to see these face down cards until someone claims 31 points. This introduces an extra element of risk into the game - you do not know exactly what cards you have won, but in order to claim 31 before your opponent you may sometimes need to take a chance on having collected enough points.
+Une variante populaire consiste à jouer avec des **cartes fermées**. Dans cette version, la mise d'un pli est face visible, et tout jeu utilisé pour battre la meilleure combinaison du pli jusqu'à présent est aussi face visible comme d'habitude. Toutes les cartes et combinaisons non gagnantes doivent être jouées face contre table. Il est aussi légal de jouer face contre table une carte ou combinaison qui aurait pu gagner, mais si elle est jouée face contre table, elle perd son pouvoir et ne peut pas gagner le pli. Personne, pas même le gagnant du pli, n'est autorisé à voir ces cartes face contre table jusqu'à ce que quelqu'un réclame 31 points. Cela introduit un élément de risque supplémentaire — vous ne savez pas exactement quelles cartes vous avez gagnées, mais pour réclamer 31 avant votre adversaire vous pouvez parfois devoir tenter votre chance en espérant avoir collecté suffisamment de points.
 
-Bura can also be played with a 32-card pack without the sixes. 
+Bura peut aussi se jouer avec un jeu de 32 cartes sans les six.
 
-According to one description the player to dealer's **right** leads to the first trick, dealer playing second to the trick.
+Selon une description, le joueur à la **droite** du donneur mène au premier pli, le donneur jouant en deuxième au pli.
 
-## Kozel for money
+## Kozel pour l'argent
 
-There is a variation of Bura called Kozel (goat). The money version of this game can be played by up to five players. Four cards are dealt to each player and the only possible leads are a single card or three cards of the same suit. A Bura of three trumps or a hand of 4 aces wins the pot. If neither of these happens, the hand is played out to the end, the players replenishing their hands after each trick while the stock lasts. When all the cards have been played the points in the players' tricks are counted and the player who has most points wins the pot (in case of equality the pot is divided).
+Il existe une variante de Bura appelée Kozel (la chèvre). La version pour l'argent de ce jeu peut se jouer jusqu'à cinq joueurs. Quatre cartes sont distribuées à chaque joueur et les seules mises possibles sont une seule carte ou trois cartes de la même couleur. Une Bura de trois atouts ou une main de 4 as gagne le pot. Si aucun de ces cas ne se produit, la main est jouée jusqu'au bout, les joueurs reconstituant leur main après chaque pli tant que le tas dure. Quand toutes les cartes ont été jouées, les points dans les plis des joueurs sont comptés et le joueur qui a le plus de points gagne le pot (en cas d'égalité, le pot est partagé).
 
-## Kozel for points
+## Kozel pour les points
 
-Alexander Tvaladze describes a version of Kozel that is not played for money, but instead uses a scoring system described below. 
-2-4 people may play: two or three players play as individuals and four play as two teams, partners sitting opposite each other.
+Alexander Tvaladze décrit une version de Kozel qui ne se joue pas pour de l'argent, mais utilise un système de comptage décrit ci-dessous.
+2 à 4 personnes peuvent jouer : deux ou trois joueurs jouent en individuel et quatre jouent en deux équipes, les partenaires se faisant face.
 
-A 36-card pack is used, and the ranking and values of the cards are as in Bura (Ace 11 points, Ten 10 points, King 4, Queen 3, Jack 2, Nine 0, Eight 0, Seven 0, Six 0) with one exception. The **6 of spades**, known as "**шоха**" (shokha, 'х' is pronounced like German 'ch' in 'Bach') is the highest ranking card, higher than any other card including the Ace of trumps (but its point value is still 0).
+On utilise un jeu de 36 cartes, et le classement et les valeurs des cartes sont les mêmes qu'à Bura (As 11 points, Dix 10 points, Roi 4, Dame 3, Valet 2, Neuf 0, Huit 0, Sept 0, Six 0) avec une exception. Le **6 de pique**, appelé « **шоха** » (shokha, « х » se prononce comme le « ch » allemand dans « Bach »), est la carte la plus haute de toutes, supérieure à toute autre carte y compris l'As d'atout (mais sa valeur en points reste de 0).
 
-Each player is dealt 4 cards and the next card is turned face up to show the trump suit and placed crosswise under the face-down stock of undealt cards. 
+Chaque joueur reçoit 4 cartes et la carte suivante est retournée face visible pour montrer la couleur d'atout et placée en croix sous le tas face contre table des cartes non distribuées.
 
-### Play
+### Jeu
 
-The play proceeds in general the same way that is described above. The player to dealer's left leads to the first trick, and the winner of each trick leads to the next, unless another player claims the lead by declaring a special 4-card combination (see below). There is no obligation to follow suit - any cards may be played to any trick. 
+Le jeu se déroule généralement de la même manière que décrit ci-dessus. Le joueur à la gauche du donneur mène au premier pli, et le gagnant de chaque pli mène au suivant, sauf si un autre joueur réclame la main en déclarant une combinaison spéciale de 4 cartes (voir ci-dessous). Il n'y a aucune obligation de suivre la couleur — n'importe quelles cartes peuvent être jouées à n'importe quel pli.
 
-When leading to a trick, a player may lead one, two, three or four cards, provided that the cards led are all of the same suit. A subsequent player can only beat a combination of two or more cards by beating each individual card, but the cards used to beat do not all need to be the same suit. For example with hearts trump a player may lead ![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)J and another player may beat it with **![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)6-![club](../images/internat/club.gif)Q**. and a subsequent player might beat that with **![spade](../images/internat/spade.gif)6**-**![heart](../images/internat/heart.gif)7-![club](../images/internat/club.gif)10**. For the purpose of leading combinations the **![spade](../images/internat/spade.gif)6** can be used as a wild card thus be combined with any set of cards of the same suit (for example **![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)K-![spade](../images/internat/spade.gif)6**), making the lead unbeatable. 
+Lorsqu'on mène à un pli, un joueur peut mener une, deux, trois ou quatre cartes, pourvu que les cartes menées soient toutes de la même couleur. Un joueur suivant ne peut battre une combinaison de deux cartes ou plus qu'en battant chaque carte individuelle, mais les cartes utilisées pour battre ne doivent pas toutes être de la même couleur. Par exemple avec les cœurs à l'atout, un joueur peut mener ![trèfle](../images/internat/club.gif)A-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)V et un autre joueur peut la battre avec **![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)6-![trèfle](../images/internat/club.gif)D**. Et un joueur suivant pourrait battre cela avec **![pique](../images/internat/spade.gif)6**-**![cœur](../images/internat/heart.gif)7-![trèfle](../images/internat/club.gif)10**. Pour les combinaisons menées, le **![pique](../images/internat/spade.gif)6** peut être utilisé comme joker et combiné avec n'importe quel ensemble de cartes de la même couleur (par exemple **![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)R-![pique](../images/internat/spade.gif)6**), rendant la mise impossible à battre.
 
-In this version of the game all non-winning cards and combinations are played face down. Cards are only played face up when beating the highest card or combination so far played to the trick.
+Dans cette version du jeu, toutes les cartes et combinaisons non gagnantes sont jouées face contre table. Les cartes ne sont jouées face visible que lorsqu'elles battent la carte ou combinaison la plus haute jouée jusqu'à présent dans le pli.
 
-After each trick the players draw cards from the stock, beginning with the winner of the trick and continuing clockwise until either everyone has four cards again or the stock runs out (the trump suit indicator card is drawn as the last card of the stock). When the stock is empty play continues without drawing until all the cards have been played.
+Après chaque pli, les joueurs piochent des cartes du tas, en commençant par le gagnant du pli et en continuant dans l'ordre horaire jusqu'à ce que tout le monde ait à nouveau quatre cartes ou que le tas soit épuisé (la carte indicatrice d'atout est piochée comme dernière carte du tas). Quand le tas est vide, le jeu continue sans pioche jusqu'à ce que toutes les cartes aient été jouées.
 
-There are two card combinations which allow the holder to lead to the next trick even if that player did not win the previous trick: 
+Il y a deux combinaisons de cartes qui permettent au détenteur de mener au pli suivant même si ce joueur n'a pas gagné le pli précédent :
 
-**Moskva** (Moscow): 
-A hand of four cards consisting entirely of Aces and Tens. It may include the **![spade](../images/internat/spade.gif)6** (as a substitute for a 10) and it must include at least one genuine Ace. So for example **A-A-A-A** and **A-10-10-10** and **A-10-10-![spade](../images/internat/spade.gif)6** are OK but **10-10-10-10** and **10-10-10-![spade](../images/internat/spade.gif)6** are not.
-**Molodka**: 
-Four cards of the same suit (not necessarily the trump suit), or three cards of the same suit with the **![spade](../images/internat/spade.gif)6**.
+**Moskva** (Moscou) :
+Une main de quatre cartes composée uniquement d'As et de Dix. Elle peut inclure le **![pique](../images/internat/spade.gif)6** (en remplacement d'un 10) et doit inclure au moins un As véritable. Par exemple **A-A-A-A** et **A-10-10-10** et **A-10-10-![pique](../images/internat/spade.gif)6** sont acceptables mais **10-10-10-10** et **10-10-10-![pique](../images/internat/spade.gif)6** ne le sont pas.
+**Molodka** :
+Quatre cartes de la même couleur (pas nécessairement la couleur d'atout), ou trois cartes de la même couleur avec le **![pique](../images/internat/spade.gif)6**.
 
-A player who holds either of these combinations after drawing from the stock can declare it even if it would not normally have been their turn to lead. A Moskva has priority over Molodka. If two players have the same type of combination, the player whose turn to play the trick would have been earlier has priority and leads to the trick.
+Un joueur qui détient l'une de ces combinaisons après avoir pioché peut la déclarer même si ce n'était pas normalement son tour de mener. Une Moskva a priorité sur une Molodka. Si deux joueurs ont le même type de combinaison, le joueur dont c'était le tour de jouer en premier au pli a la priorité et mène au pli.
 
-### Scoring
+### Comptage
 
-The game is played for penalty points. At the end of hand the players or teams counts the card points in their tricks. The total must be 120. The player or team that has the most points scores 0. 
+Le jeu se joue avec des points de pénalité. À la fin de la main, les joueurs ou équipes comptent les points de cartes dans leurs plis. Le total doit être de 120. Le joueur ou l'équipe qui a le plus de points marque 0.
 
-In a two-player game or a four-player game played two against two, the losing player or team player scores 2 penalty points if they have at least 31 card points, 4 penalty points if they have 30 card points or fewer but have taken at least 1 trick (even with 0 card points) and 6 penalty points if they have not taken any trick. In case of a 60:60 tie for card points each player or team scores 2 penalty points.
+Dans un jeu à deux joueurs ou à quatre joueurs deux contre deux, le joueur ou l'équipe perdante marque 2 points de pénalité s'il a au moins 31 points de cartes, 4 points de pénalité s'il a 30 points de cartes ou moins mais a pris au moins 1 pli (même avec 0 point de carte) et 6 points de pénalité s'il n'a pris aucun pli. En cas d'égalité 60:60 en points de cartes, chaque joueur ou équipe marque 2 points de pénalité.
 
-In three-player game each of the losing players scores penalty points: 2 penalty points if they have 21 card points or more, 4 penalty points if they have 0-20 card points and at least one trick, and a player with no trick scores 6 penalty points. In case of a tie for most card points, the tieing players score 2 penalty points each.
+Dans un jeu à trois joueurs, chacun des joueurs perdants marque des points de pénalité : 2 points de pénalité s'il a 21 points de cartes ou plus, 4 points de pénalité s'il a 0 à 20 points de cartes et au moins un pli, et un joueur sans pli marque 6 points de pénalité. En cas d'égalité pour le plus grand nombre de points de cartes, les joueurs à égalité marquent chacun 2 points de pénalité.
 
-A player or team whose score is 12 or more points loses and drops out of the game. In a 3-player game, if one player drops out, the other two players keep their scores and continue playing until only one survives. The last surviving player or team is the winner.
+Un joueur ou une équipe dont le score atteint 12 points ou plus perd et est éliminé du jeu. Dans un jeu à 3 joueurs, si un joueur est éliminé, les deux autres conservent leurs scores et continuent à jouer jusqu'à ce qu'il n'en reste qu'un. Le dernier joueur ou équipe survivant est le gagnant.
 
-If all surviving players reach 12 or more points in the same deal (which can only happen in the case of a tie for most card points), then the player (if any) with most penalty points drops out, and if more than one player (or team) remains, they play another deal and continue until there is just one survivor.
+Si tous les joueurs survivants atteignent 12 points ou plus lors de la même donne (ce qui ne peut se produire qu'en cas d'égalité pour le plus grand nombre de points de cartes), le joueur (s'il y en a un) avec le plus de points de pénalité est éliminé, et s'il reste plus d'un joueur (ou équipe), ils jouent une autre donne et continuent jusqu'à ce qu'il n'y ait qu'un survivant.
 
-## Software
+## Logiciel
 
-A computer game [BurKozel](http://www.s-k-tools.com/index.html?wp7/m_pd.html) is available from S_K Tools.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Bura
+Un jeu informatique [BurKozel](http://www.s-k-tools.com/index.html?wp7/m_pd.html) est disponible chez S_K Tools.

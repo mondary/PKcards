@@ -4,123 +4,120 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Tressette, Plis
-**But :** The well-known Italian card game for 4 players in partnerships, in which Threes are highest, Aces are most valuable, and there are no trumps.
+**But :** Le célèbre jeu de cartes italien pour 4 joueurs en partenariat, dans lequel les Trois sont les plus hauts, les As les plus précieux, et il n'y a pas d'atouts.
 
 ---
 
-## Players
+## Joueurs
 
-Tressette is an Italian partnership trick-taking game for four players, with partners sitting opposite. Variations for other numbers of players are listed at the end of the page. Like most Italian games, Tressette is played anticlockwise. 
+Tressette est un jeu de plis en partenariat italien pour quatre joueurs, avec des partenaires assis en face. Les variantes pour d'autres nombres de joueurs sont listées à la fin de la page. Comme la plupart des jeux italiens, Tressette se joue dans le sens antihoraire.
 
-## The Cards
+## Les cartes
 
-A 40 card pack is used, usually with the Italian suits: swords, batons, cups and coins. In each suit the cards rank as follows: 3 (highest), 2, A, Re, Cavallo, Fante, 7, 6, 5, 4 (lowest).
+Un jeu de 40 cartes est utilisé, généralement avec les couleurs italiennes : épées, bâtons, coupes et deniers. Dans chaque couleur, les cartes sont classées comme suit : 3 (le plus haut), 2, A, Re, Cavallo, Fante, 7, 6, 5, 4 (le plus bas).
 
-In many regions of Italy a French suited 40-card pack is used. It is also possible though not usual to play with an international 52 card pack from which the 10s 9s and 8s have been removed. In this case the cards rank 3-2-A-Re(K)-Donna(Q)-Fante (J)-7-6-5-4. In the south of Italy some players invert the order of the Queen and Jack so that the order is 3-2-A-K/R-J/F-Q/D-7-6-5-4.
+Dans de nombreuses régions d'Italie, un jeu français de 40 cartes est utilisé. Il est aussi possible, bien que ce ne soit pas courant, de jouer avec un jeu international de 52 cartes dont les 10, 9 et 8 ont été retirés. Dans ce cas, les cartes sont classées 3-2-A-Re(R)-Donna(D)-Fante(V)-7-6-5-4. Dans le sud de l'Italie, certains joueurs inversent l'ordre de la dame et du valet de sorte que l'ordre est 3-2-A-R/R-V/F-D/D-7-6-5-4.
 
-The cards have point values and the object is to take tricks containing valuable cards. There is also a score for winning the last trick. The values are as follows:
+Les cartes ont des valeurs en points et l'objectif est de gagner des plis contenant des cartes de valeur. Il y a aussi un score pour gagner le dernier pli. Les valeurs sont les suivantes :
 
-| Each ace | 1 whole point |
-| Each 3, 2 and picture card | 1/3 of a point |
-| Winners of last trick | 1 whole point |
+| Chaque as | 1 point entier |
+| Chaque 3, 2 et figure | 1/3 de point |
+| Gagnant du dernier pli | 1 point entier |
 
-## The Deal
+## La donne
 
-Deal (anticlockwise) 10 cards to each player, 5 at a time. Turn to deal passes to the right after each hand.
+Distribuez (dans le sens antihoraire) 10 cartes à chaque joueur, 5 à la fois. Le tour de donne passe à droite après chaque main.
 
-## The Play
+## Le jeu
 
-There are no trumps. The player to dealer's right leads first. Any card may be led, and the other players must play a card of the suit led if they have one. A player with no card of the suit led may play anything. The highest card of the suit led wins the trick, and the winner leads to the next trick.
+Il n'y a pas d'atouts. Le joueur à la droite du donneur entame en premier. N'importe quelle carte peut être entamée, et les autres joueurs doivent jouer une carte de la couleur entamée s'ils en ont une. Un joueur qui n'a pas de carte de la couleur entamée peut jouer n'importe quoi. La carte la plus haute de la couleur entamée gagne le pli, et le gagnant entame le pli suivant.
 
-There are certain card combinations which score points when held in the hand of one player. These are:
+Il existe certaines combinaisons de cartes qui marquent des points lorsqu'elles sont détenues dans la main d'un joueur. Ce sont :
 
-| Four 3's, four 2's or four aces: | 4 points |
-| Three 3's, three 2's or three aces: | 3 points |
-| Napoletana (3, 2 and ace of a suit): | 3 points |
+| Quatre 3, quatre 2 ou quatre as : | 4 points |
+| Trois 3, trois 2 ou trois as : | 3 points |
+| Napolitane (3, 2 et as d'une couleur) : | 3 points |
 
-A player with such a combination declares it at the end of the first trick, and scores for it immediately (it does not matter if one of the cards of the combination was played to the trick). When declaring a Napoletana you must specify the suit, and when declaring three of a kind you must say which suit is missing. It is possible to use the same card in a Napoletana and another combination - for example you could declare for a Napoletana in cups and four twos for 7 points. 
+Un joueur avec une telle combinaison la déclare à la fin du premier pli, et marque les points immédiatement (il n'importe pas si l'une des cartes de la combinaison a été jouée au pli). Lors de la déclaration d'une Napolitane, vous devez spécifier la couleur, et lors de la déclaration d'un brelan, vous devez dire quelle couleur manque. Il est possible d'utiliser la même carte dans une Napolitane et une autre combinaison — par exemple, vous pourriez déclarer une Napolitane à coupes et quatre deux pour 7 points.
 
-When leading to a trick, certain remarks or signals are allowed:
+Lors de l'entame d'un pli, certaines remarques ou signaux sont autorisés :
 
-- **Busso** ("I knock") indicates that you want your partner to play his highest card in the suit you led, and lead the suit back if it wins. Instead of saying *busso* you can strike the table (or the led card) with your fist.
+- **Busso** (« je frappe ») indique que vous voulez que votre partenaire joue sa carte la plus haute dans la couleur que vous entamez, et entame à nouveau cette couleur si elle gagne. Au lieu de dire *busso*, vous pouvez frapper la table (ou la carte entamée) avec votre poing.
 
-- **Volo** (" I fly") (or **piombo** - "I fall") indicates that you have no further cards of the suit led. Instead of saying *volo* you can throw the card so that it glides onto the table.
+- **Volo** (« je vole ») (ou **piombo** — « je tombe ») indique que vous n'avez plus d'autres cartes de la couleur entamée. Au lieu de dire *volo*, vous pouvez lancer la carte pour qu'elle glisse sur la table.
 
-- **Striscio** (or **liscio**) ("I stroke" or "I smooth") (not allowed by all players) indicates that you have, besides the card you are leading, one or more low cards (king or lower) of the suit led. Instead of saying *striscio* you can slide the card led onto the table.
+- **Striscio** (ou **liscio**) (« je trace » ou « je lisse ») (non autorisé par tous les joueurs) indique que vous avez, outre la carte que vous entamez, une ou plusieurs cartes basses (roi ou moins) de la couleur entamée. Au lieu de dire *striscio*, vous pouvez faire glisser la carte entamée sur la table.
 
-## The Scoring
+## Le comptage des points
 
-When all 10 tricks have been played each side scores the value of cards it has won in
-tricks, plus the point for winning the last trick if applicable. The total points available amount to eleven and two thirds, but fractions are disregarded in scoring, so the total points scored on each deal (apart from any points for declarations) are actually 11, two thirds of a point being thrown away.
+Lorsque les 10 plis ont été joués, chaque camp marque la valeur des cartes qu'il a gagnées dans les plis, plus le point pour le dernier pli le cas échéant. Le total des points disponibles s'élève à onze et deux tiers, mais les fractions sont ignorées dans le comptage, de sorte que les points marqués à chaque donne (à l'exclusion des points pour les déclarations) sont en réalité de 11, les deux tiers de point étant jetés.
 
-The side which first reaches 21 points wins. This will take several deals. A player can stop the play at any time and claim to have reached 21 points with the tricks already won up to that point. If the claim is correct that side wins (irrespective of the other side's total) and if it is incorrect they lose.
+Le camp qui atteint 21 points en premier gagne. Cela prendra plusieurs donnes. Un joueur peut arrêter le jeu à tout moment et réclamer avoir atteint 21 points avec les plis déjà gagnés jusqu'à ce point. Si la réclamation est correcte, ce camp gagne (indépendamment du total de l'autre camp) et si elle est incorrecte, il perd.
 
-There are some ways of winning the game outright, irrespective of the score, or in fact winning several games at once (by which I mean that supposing you were playing Tressette for a bottle of wine, then by winning two games you would get two bottles):
+Il y a plusieurs façons de gagner la partie d'emblée, indépendamment du score, ou même de gagner plusieurs parties à la fois (c'est-à-dire que si vous jouiez au Tressette pour une bouteille de vin, alors en gagnant deux parties vous auriez deux bouteilles) :
 
-- **Cappotto** (or **collada**): if one team win all 10 tricks, they win **two games**
+- **Cappotto** (ou **collada**) : si une équipe gagne les 10 plis, elle gagne **deux parties**
 
-- **Stramazzo**: if one team wins all the points but not all the tricks - that is, if the trick(s) won by their opponents contains less than one point (the point for the last trick does not count in this case), they win **three games**.
+- **Stramazzo** : si une équipe gagne tous les points mais pas tous les plis — c'est-à-dire que le(s) pli(s) gagné(s) par les adversaires contient moins d'un point (le point pour le dernier pli ne compte pas dans ce cas), elle gagne **trois parties**.
 
-- **Cappottone** (or **colladone**): if a single player wins all 10 tricks, that player's team wins **six games**.
+- **Cappottone** (ou **colladone**) : si un seul joueur gagne les 10 plis, l'équipe de ce joueur gagne **six parties**.
 
-- **Stramazzone**: if one player wins all the points, the opponents winning at least one trick but the other three players together winning less than one point (the point for the last trick does not count in this case), that player's team wins **eight games**.
+- **Stramazzone** : si un joueur gagne tous les points, les adversaires gagnant au moins un pli mais les trois autres joueurs ensemble gagnant moins d'un point (le point pour le dernier pli ne compte pas dans ce cas), l'équipe de ce joueur gagne **huit parties**.
 
-## Variations
+## Variantes
 
-Some players use a different code of signals from the one described above. When leading to a trick, a player may say:
+Certains joueurs utilisent un code de signaux différent de celui décrit ci-dessus. Lors de l'entame d'un pli, un joueur peut dire :
 
-- **"Busso"** - meaning: I have the highest outstanding card in the suit I am leading - i.e. the 3, or if the 3 has already been played, the 2, etc.
+- **« Busso »** — signifiant : j'ai la carte la plus haute encore en jeu dans la couleur que j'entame — c'est-à-dire le 3, ou si le 3 a déjà été joué, le 2, etc.
 
-- **"Ribusso"** - meaning: I have the second highest outstanding card in the suit I am leading
+- **« Ribusso »** — signifiant : j'ai la deuxième plus haute carte encore en jeu dans la couleur que j'entame
 
-- **"La meglio"** or **"Le meglio"** - meaning: I am looking for the highest outstanding card in the suit. The is a request to partner to play this highest card if he has it.
+- **« La meglio »** ou **« Le meglio »** — signifiant : je cherche la plus haute carte encore en jeu dans la couleur. C'est une demande au partenaire de jouer cette carte s'il l'a.
 
-- **"Tutto fuori"** - meaning: I have many cards in the suit I am leading, but none of the three highest cards.
+- **« Tutto fuori »** — signifiant : j'ai beaucoup de cartes dans la couleur que j'entame, mais aucune des trois cartes les plus hautes.
 
-It is possible to combine these sayings. For example, early in the game you might lead a low card saying **"Busso e cerco la meglio"** meaning that you have the 3 of the suit and would like your partner to play the 2. Partner will realise that you have a long suit headed by the 3 or the 3 and ace of the suit that you led.
+Il est possible de combiner ces expressions. Par exemple, tôt dans le jeu vous pourriez entamer une carte basse en disant **« Busso e cerco la meglio »** signifiant que vous avez le 3 de la couleur et aimeriez que votre partenaire joue le 2. Le partenaire comprendra que vous avez une couleur longue menée par le 3 ou le 3 et l'as de la couleur que vous avez entamée.
 
-It is a convention that players do not bluff with "busso" and "ribusso". A player who says one of these really has the indicated card. It is permissible to bluff with "tutto fuori", but probably not advisable, since it will confuse your partner. 
+C'est une convention que les joueurs ne bluffent pas avec « busso » et « ribusso ». Un joueur qui dit l'une de ces choses a vraiment la carte indiquée. Il est permis de bluffer avec « tutto fuori », mais probablement pas conseillé, car cela embrouillera votre partenaire.
 
-Players should recognise that the information conveyed by these remarks may be more helpful to the opposing team than to their partner, so they should be used sparingly, especially when playing against skilled opponents.
+Les joueurs devraient reconnaître que les informations transmises par ces remarques peuvent être plus utiles à l'équipe adverse qu'à leur partenaire, elles doivent donc être utilisées avec parcimonie, surtout lorsqu'on joue contre des adversaires habiles.
 
-## Related games
+## Jeux apparentés
 
-There are quite a few games that use the same card ranking and values as Tressette and are also played without trumps. Variants of Tressette for four players include:
+Il existe assez peu de jeux qui utilisent le même classement et les mêmes valeurs de cartes que le Tressette et se jouent aussi sans atouts. Les variantes du Tressette pour quatre joueurs incluent :
 
-- **Tressette con la Chiamata del Tre**, in which the partnerships instead of being fixed are determined by the player right of the dealer calling a three.
+- **Tressette con la Chiamata del Tre**, dans lequel les partenariats, au lieu d'être fixes, sont déterminés par le joueur à la droite du donneur appelant un trois.
 
-- Mediatore, a version with simple bidding and a *monte* (a talon of undealt cards which can be used by the winner of the bidding).
+- Mediatore, une version avec de simples enchères et un *monte* (un talon de cartes non distribuées qui peut être utilisé par le gagnant des enchères).
 
-- **Quadrigliati**, a version with bidding but no *monte*.
+- **Quadrigliati**, une version avec enchères mais sans *monte*.
 
-For other numbers of players there are:
+Pour d'autres nombres de joueurs :
 
-- Spizzichino or Tressette in Due, for two.
+- Spizzichino ou Tressette in Due, pour deux.
 
-- Terziglio, formerly also known as **Calabresella**, an excellent game for three, with bidding, one player playing against two on each deal.
+- Terziglio, autrefois aussi connu sous le nom de **Calabresella**, un excellent jeu pour trois, avec enchères, un joueur jouant contre deux à chaque donne.
 
-- **Quintiglio**, for five.
+- **Quintiglio**, pour cinq.
 
-There is also Rovescino, also known as **Traversone** or **Ciapanò**, a reverse version of Tressette in which the object is to avoid taking card points.
+Il existe aussi Rovescino, aussi connu sous le nom de **Traversone** ou **Ciapanò**, une version inversée du Tressette dans laquelle l'objectif est d'éviter de prendre des points de cartes.
 
-## Other Tressette WWW Sites and Software
+## Autres sites web et logiciels pour Tressette
 
-The Italian site [Tresettisti](https://web.archive.org/web/20221205172912/http://www.tresettisti.it/) (archive copy) has rules, plentiful advice on strategy, example games and other resources.
+Le site italien [Tresettisti](https://web.archive.org/web/20221205172912/http://www.tresettisti.it/) (copie d'archive) propose des règles, de nombreux conseils de stratégie, des exemples de parties et d'autres ressources.
 
-The Bibbia del Tressette Incrociato is an Italian language strategy guide by 'il regista'.
+La Bibbia del Tressette Incrociato est un guide de stratégie en italien de « il regista ».
 
-You can play Tressette free on line at [Ludopoli](https://www.ludopoli.it/).
+Vous pouvez jouer au Tressette gratuitement en ligne sur [Ludopoli](https://www.ludopoli.it/).
 
-On the Italian site [Tretre](https://web.archive.org/web/20170923204219/http://www.tretre.it:80/chi-siamo) (archive copy) you can read the [rules of Tressette and several variants](https://web.archive.org/web/20171003150804/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/tressette-tresette-busca-calabresella-pizzico-malettotram). At this site you can also find the [Biblioteca del tre](https://web.archive.org/web/20170602231335/http://www.tretre.it/menu/accademia-del-tre/biblioteca-del-tre.html) with online copies of early Italian rule books for various games including Tressette.
+Sur le site italien [Tretre](https://web.archive.org/web/20170923204219/http://www.tretre.it:80/chi-siamo) (copie d'archive) vous pouvez lire les [règles du Tressette et de plusieurs variantes](https://web.archive.org/web/20171003150804/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/tressette-tresette-busca-calabresella-pizzico-malettotram). Sur ce site, vous pouvez aussi trouver la [Biblioteca del tre](https://web.archive.org/web/20170602231335/http://www.tretre.it/menu/accademia-del-tre/biblioteca-del-tre.html) avec des copies en ligne de premiers livres de règles italiens pour divers jeux, y compris le Tressette.
 
-At Žan Kafol's site [briskula.si](https://briskula.si) you can play **Tršet** (Tressette) online against live opponents.
+Sur le site de Žan Kafol [briskula.si](https://briskula.si) vous pouvez jouer au **Tršet** (Tressette) en ligne contre des adversaires en direct.
 
-You can play Tressette on line at the Italian site [biska.com](http://www.biska.com/).
+Vous pouvez jouer au Tressette en ligne sur le site italien [biska.com](http://www.biska.com/).
 
-You can download a freeware Tressette program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme gratuit de Tressette sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-You can download Igor Sarzi Sartori's open source [Tressette program](https://sourceforge.net/projects/tressette).
+Vous pouvez télécharger le programme [Tressette en code source ouvert](https://sourceforge.net/projects/tressette) d'Igor Sarzi Sartori.
 
-With the free Windows program [BTM Pro](https://btm-pro-net.software.informer.com/) you can play Tressette and some other Italian games against the computer or against other players over a network.
-
-Home Page > Classified Index > Trick Taking Games > Tressette group > Tressette
+Avec le programme gratuit Windows [BTM Pro](https://btm-pro-net.software.informer.com/) vous pouvez jouer au Tressette et à d'autres jeux italiens contre l'ordinateur ou contre d'autres joueurs en réseau.

@@ -3,254 +3,250 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** In which Aces and Threes are the highest and most valuable cards, and several of its variants.
+**But :** Jeu dans lequel les As et les Trois sont les cartes les plus fortes et les plus valuées, ainsi que plusieurs de ses variantes.
 
 ---
 
 - Introduction
 
-- Rank and Value of Cards
+- Rang et valeur des cartes
 
-- Two-player Briscola
+- Briscola à deux joueurs
 
-- Four-player Briscola
+- Briscola à quatre joueurs
 
-- Six-player Briscola
+- Briscola à six joueurs
 
 - Briscola a 31
 
 - Schembil
 
-- Three-player Briscola
+- Briscola à trois joueurs
 
-- Five-player Briscola (Briscola Chiamata)
+- Briscola à cinq joueurs (Briscola Chiamata)
 
 ## Introduction
 
-Briscola is a trick taking game - that is, the object of the game is to take cards which gives you (or your team) a high score. It is popular in Italy and it uses the Italian 40 card deck. It is often played with Italian cards, which have suits of coins, cups, batons and swords, but you may play using a standard international 52-card deck, just by removing the Jokers, eights, nines and tens. The same game is played in the coastal regions of Slovenia and Croatia under the name **Briškula**. 
+La Briscola est un jeu de plis — c'est-à-dire que le but du jeu est de prendre des cartes qui donnent un score élevé à vous (ou à votre équipe). Elle est populaire en Italie et utilise le jeu italien de 40 cartes. Elle est souvent jouée avec des cartes italiennes, qui ont des couleurs de deniers, coupes, bâtons et épées, mais vous pouvez jouer avec un jeu international standard de 52 cartes, en retirant simplement les Jokers, les huit, les neuf et les dix. Le même jeu est joué dans les régions côtières de la Slovénie et de la Croatie sous le nom de **Briškula**.
 
-Briscola may be played by two, three, four or six players. There is a special version Briscola Chiamata for five players, which is strongly recommended.
+La Briscola peut se jouer à deux, trois, quatre ou six joueurs. Il existe une version spéciale, la Briscola Chiamata, pour cinq joueurs, qui est fortement recommandée.
 
-*This page is mainly based on contributions from Paolo Marino and Paolo Ronzoni.*
+*Cette page est principalement basée sur les contributions de Paolo Marino et Paolo Ronzoni.*
 
-## Rank and value of cards
+## Rang et valeur des cartes
 
-In order to define which card wins a particular trick, we must first define a card ranking, given from highest to lowest:
+Pour définir quelle carte gagne un pli particulier, nous devons d'abord définir le rang des cartes, du plus élevé au plus bas :
 
-**ace, three, king, queen, jack, 7, 6, 5, 4, 2.**
+**as, trois, roi, dame, valet, 7, 6, 5, 4, 2.**
 
-Also, the cards have a point value:
+Les cartes ont également une valeur en points :
 
-| Ace | 11 points |
-| Three | 10 points |
-| King | 4 points |
-| Queen | 3 points |
-| Jack | 2 points |
+| As | 11 points |
+| Trois | 10 points |
+| Roi | 4 points |
+| Dame | 3 points |
+| Valet | 2 points |
 
-The remaining cards have no point value. 
+Les autres cartes n'ont pas de valeur en points.
 
-Briscola is often played with Italian cards with suits of swords *(spade)*, clubs *(bastoni)*, cups *(coppe)* and coins *(danari)*. In this case the picture cards rank in the order King (re) (4 points), Horse (cavallo) (3 points), Jack (fante) (2 points).
+La Briscola est souvent jouée avec des cartes italiennes aux couleurs d'épées (*spade*), de bâtons (*bastoni*), de coupes (*coppe*) et de deniers (*danari*). Dans ce cas, les figures se classent dans l'ordre Roi (re) (4 points), Cavalier (cavallo) (3 points), Valet (fante) (2 points).
 
-As you see, the total value of cards in the deck adds up to 120 points. The player (or team) which scores at least 61 points in a game wins. Games can end in a draw when both reach the same point total (60), and usually Briscola is played to the best of three or five games.
+Comme on le voit, la valeur totale des cartes du jeu s'élève à 120 points. Le joueur (ou l'équipe) qui marque au moins 61 points dans une partie gagne. Les parties peuvent se terminer par une égalité lorsque les deux atteignent le même total (60), et généralement on joue la Briscola au meilleur de trois ou cinq parties.
 
-### Note on card order
+### Note sur l'ordre des cartes
 
-Most books, when describing how to play Briscola with French suited cards (hearts, clubs, diamonds and spades) use the above card order King (4), Queen (3), Jack (2), which is normal in northern Italy. However, many players, especially in the south, reverse the role of the Queen and Jack. The card order is then Ace (11), Three (10), King (4), Jack (3), Queen (2), 7, 6, 5, 4, 2.
+La plupart des livres, en décrivant comment jouer à la Briscola avec des cartes à couleurs françaises (cœurs, trèfles, carreaux et piques), utilisent l'ordre de cartes ci-dessus Roi (4), Dame (3), Valet (2), qui est normal dans le nord de l'Italie. Cependant, beaucoup de joueurs, surtout dans le sud, inversent le rôle de la Dame et du Valet. L'ordre des cartes est alors As (11), Trois (10), Roi (4), Valet (3), Dame (2), 7, 6, 5, 4, 2.
 
-## Two player Briscola
+## Briscola à deux joueurs
 
-This is the easiest version of the game, and will serve as a basis for the multiplayer versions.
+C'est la version la plus simple du jeu, et servira de base pour les versions multijoueurs.
 
-One of the two players shuffles the deck and deals three cards to each player. He then takes a card (the seventh, in this case) and puts it face up near the pile of undealt cards, which are placed face down. The face-up card suit defines which will be the Briscola suit for the game. The Briscola suit is the trump suit, i.e. the suit which always takes all other cards, card ranking notwithstanding.
+L'un des deux joueurs bat le jeu et distribue trois cartes à chaque joueur. Il prend ensuite une carte (la septième, en l'occurrence) et la pose face visible près du tas de cartes non distribuées, qui sont posées face contre table. La couleur de la carte face visible définit la couleur de Briscola pour la partie. La couleur de Briscola est la couleur d'atout, c'est-à-dire la couleur qui bat toujours toutes les autres cartes, indépendamment du rang.
 
-The game starts. The first to play is the player to the right of the dealer. In the two player version, this means that the non-dealer (A) will start.
+Le jeu commence. Le premier à jouer est le joueur à la droite du donneur. Dans la version à deux joueurs, cela signifie que le non-donneur (A) commencera.
 
-A leads one of his three cards, face up.
+A mène l'une de ses trois cartes, face visible.
 
-B plays one of his cards, and wins or loses the trick according to these
-three simple rules:
+B joue l'une de ses cartes, et gagne ou perd le pli selon ces trois règles simples :
 
-- If B plays a card of the same suit as the card led by A, then the trick is won by whoever played the higher card - the winner takes both cards away, and puts them, face down, in a pile near him.
+- Si B joue une carte de la même couleur que celle menée par A, le pli est gagné par celui qui a joué la carte la plus haute — le gagnant emporte les deux cartes et les pose, face contre table, dans un tas près de lui.
 
-- If B plays a card which has a different suit from the card which A led, but neither card is a Briscola (trump), A wins the trick, and the cards will go to A, even if B's card was of higher rank.
+- Si B joue une carte d'une couleur différente de celle menée par A, mais qu'aucune des deux n'est une Briscola (atout), A gagne le pli, et les cartes iront à A, même si la carte de B était de rang supérieur.
 
-- If B plays a card of a different suit from A's, and one of the cards is a Briscola (trump), then the player of the Briscola wins the trick.
+- Si B joue une carte d'une couleur différente de celle de A, et que l'une des cartes est une Briscola (atout), le joueur de la Briscola gagne le pli.
 
-**Example** (Briscola is the four of spades):
+**Exemple** (la Briscola est le quatre de pique) :
 
-- Player A leads the 5 of clubs.
+- Le joueur A mène le 5 de trèfle.
 
-- Player B plays the ace of clubs. B takes the trick (Rule 1).
+- Le joueur B joue l'as de trèfle. B prend le pli (règle 1).
 
-- Player A leads the 5 of hearts.
+- Le joueur A mène le 5 de cœurs.
 
-- Player B plays the King of clubs. Player A takes the trick (Rule 2)
+- Le joueur B joue le Roi de trèfle. Le joueur A prend le pli (règle 2).
 
-- Player A leads the ace of diamonds.
+- Le joueur A mène l'as de carreaux.
 
-- Player B plays 6 of spades (briscola). He wins the round (Rule 3).
+- Le joueur B joue le 6 de pique (briscola). Il gagne le pli (règle 3).
 
-Note that Briscola is unlike many card games, in that there is no obligation for the second player to play a card of the same suit as the first card or to trump it, just because he can. The second player is free to play any of his cards.
+Notez que la Briscola est différente de beaucoup de jeux de cartes, en ce qu'il n'y a aucune obligation pour le deuxième joueur de jouer une carte de la même couleur que la première ou d'atouter, juste parce qu'il le peut. Le deuxième joueur est libre de jouer n'importe laquelle de ses cartes.
 
-Note that if both players play a briscola, rule 1 dictates that the higher ranking card wins.
+Notez que si les deux joueurs jouent une briscola, la règle 1 stipule que la carte de rang le plus élevé gagne.
 
-After each trick, each player draws a card from the pile of undealt cards. The winner of the trick draws first, followed by the loser. The player who won the trick then leads to the next one.
+Après chaque pli, chaque joueur pioche une carte du tas de cartes non distribuées. Le gagnant du pli pioche en premier, suivi du perdant. Le gagnant du pli mène ensuite au suivant.
 
-Eventually the undealt cards will be used up, and at this point the loser of the trick just played will draw the face up Briscola card. The game then continues, without drawing cards, until all the cards have been played.
+Au final, les cartes non distribuées seront épuisées, et à ce moment-là le perdant du pli qui vient d'être joué piochera la carte de Briscola face visible. Le jeu se poursuit ensuite, sans pioche de cartes, jusqu'à ce que toutes les cartes aient été jouées.
 
-At the end, each player takes the pile of cards he won in tricks during the game, and counts up the points according to the point scale shown above. The player with more points wins, or if each has 60, it is a draw.
+À la fin, chaque joueur prend le tas de cartes qu'il a gagnées dans les plis pendant la partie et compte les points selon l'échelle de points présentée ci-dessus. Le joueur avec le plus de points gagne, ou si chacun a 60, il y a match nul.
 
-### Variations
+### Variantes
 
-Some people play that if the turned-up card, the one that indicates the trump suit, is an ace or a three (the two strongest cards), the card is put back in the middle of the deck and another card is turned up.
+Certains jouent que si la carte retournée, celle qui indique la couleur d'atout, est un as ou un trois (les deux cartes les plus fortes), la carte est remise au milieu du jeu et une autre carte est retournée.
 
-Some play that the winner is the first player to reach 120 points: unless one player wins all the tricks this will take two deals, one by each player.
+Certains jouent que le gagnant est le premier joueur à atteindre 120 points : à moins qu'un joueur ne gagne tous les plis, cela prendra deux donnes, une par chaque joueur.
 
-## Four player Briscola
+## Briscola à quatre joueurs
 
-The game remains more or less the same, but the two pairs of players sit face to face, and each pair plays as a team. Playing proceeds counter-clockwise.
+Le jeu reste plus ou moins le même, mais les deux paires de joueurs se font face, et chaque paire joue en équipe. Le jeu se déroule dans le sens antihoraire.
 
-When playing the 4 or 6 players partnership versions of Briscola, most groups allow some communication between partners either by conversation or by visual signals. See below.
+Lorsqu'on joue les versions de Briscola en partenariat à 4 ou 6 joueurs, la plupart des groupes autorisent une certaine communication entre partenaires, soit par conversation soit par des signaux visuels. Voir ci-dessous.
 
-The player to the right of the dealer leads first. The other players may play **any** card (there is no requirement to follow suit). If no one plays a Briscola the trick is won by the highest
-card of the suit led. If one or more players plays a Briscola, the highest Briscola wins. 
+Le joueur à la droite du donneur mène en premier. Les autres joueurs peuvent jouer **n'importe quelle** carte (il n'y a aucune obligation de suivre la couleur). Si personne ne joue de Briscola, le pli est gagné par la plus forte carte de la couleur menée. Si un ou plusieurs joueurs jouent une Briscola, la plus forte Briscola gagne.
 
-Each player in turn, starting with the winner of the trick, then draws a card from the undealt pile. The winner of the trick then leads to the next one.
+Chaque joueur à tour de rôle, en commençant par le gagnant du pli, pioche ensuite une carte du tas non distribué. Le gagnant du pli mène au suivant.
 
-When the undealt cards are used up, the next player draws the Briscola card, and the game continues without drawing until all the cards have been played.
+Quand les cartes non distribuées sont épuisées, le joueur suivant pioche la carte de Briscola, et le jeu continue sans pioche jusqu'à ce que toutes les cartes aient été jouées.
 
-### Example:
+### Exemple :
 
-The players are A, B, C, D, placed around a table like this:
+Les joueurs sont A, B, C, D, placés autour d'une table comme ceci :
 
-|   | A |   |
-| D |   | B |
-|   | C |   |
+|   | A |   |
+| D |   | B |
+|   | C |   |
 
-A and C play together against B and D. A deals the cards. Briscola (the thirteenth card) comes up as a three of hearts. 
+A et C jouent ensemble contre B et D. A distribue les cartes. La Briscola (la treizième carte) est un trois de cœurs.
 
-- D, who sits counter-clockwise from A, plays first, and leads the 4 of spades.
+- D, assis dans le sens antihoraire à partir de A, joue en premier et mène le 4 de pique.
 
-- C plays the Jack of spades.
+- C joue le Valet de pique.
 
-- B plays the two of hearts.
+- B joue le deux de cœurs.
 
-- If A does not play a higher Briscola, all four the cards will go to the D & B team.
+- Si A ne joue pas une Briscola supérieure, les quatre cartes iront à l'équipe B & D.
 
-- A thinks that for this meagre booty (the Jack is only two points, after all) it is not worth using a Briscola, or perhaps he does not have one; anyway, he plays the 5 of clubs.
+- A estime que pour ce faible butin (le Valet ne vaut que deux points, après tout), cela ne vaut pas d'utiliser une Briscola, ou peut-être n'en a-t-il pas ; dans tous les cas, il joue le 5 de trèfles.
 
-- The trick is taken by the B & D team.
+- Le pli est remporté par l'équipe B & D.
 
-- B leads to the next trick.
+- B mène au pli suivant.
 
-### Signals
+### Signaux
 
-If visual signals are used, players should avoid talking about the cards they have in hand, but signals can be used to indicate the possession of certain high cards of the Briscola suit. One possible system is as follows:
+Si des signaux visuels sont utilisés, les joueurs doivent éviter de parler des cartes qu'ils ont en main, mais des signaux peuvent indiquer la possession de certaines cartes fortes de la couleur de Briscola. Un système possible est le suivant :
 
-| Ace | stretch the lips over the teeth |
-| Three | distort the mouth to one side |
-| King | glance upwards |
-| Queen/Knight | show the tip of the tongue |
-| Jack | shrug one shoulder |
+| As | tendre les lèvres sur les dents |
+| Trois | déformer la bouche d'un côté |
+| Roi | regard vers le haut |
+| Dame/Cavalier | montrer le bout de la langue |
+| Valet | hausser une épaule |
 
 ### Conversation
 
-Paolo Ronzoni reports that around Rome, many groups do not use visual signals but instead allow a limited amount of conversation. There is no talking during the first trick, but from the second trick onwards the player whose turn it is to lead to the trick may ask partner for certain information:
+Paolo Ronzoni rapporte qu'autour de Rome, beaucoup de groupes n'utilisent pas de signaux visuels mais autorisent une quantité limitée de conversation. Il n'y a pas de parole pendant le premier pli, mais à partir du deuxième pli, le joueur dont c'est le tour de mener au pli peut demander à son partenaire certaines informations :
 
-- Whether partner has useless cards (*Lisci*) in hand
+- Si le partenaire a des cartes inutiles (*Lisci*) en main
 
-- What trumps partner has:
+- Quels atouts le partenaire a :
 
-- The leader may ask about *Briscoline* - low trumps, from 2 to 6.
+- Le meneur peut demander les *Briscoline* — les atouts bas, de 2 à 6.
 
-- Or he can ask about *Vestite* - high trumps, K Q J, called *vestite* (dressed) because they depict human beings wearing clothes.
+- Ou il peut demander les *Vestite* — les atouts hauts, R D V, appelés *vestite* (habillés) parce qu'ils représentent des êtres humains portant des vêtements.
 
-- Note that the 7 of trumps is neither a Briscolina nor a Vestita.
+- Notez que le 7 d'atout n'est ni une Briscolina ni une Vestita.
 
-- The leader cannot ask specifically about the Ace or 3
+- Le meneur ne peut pas demander spécifiquement l'As ou le 3.
 
-- Whether partner can head a trick without playing trump.
+- Si le partenaire peut monter dans un pli sans jouer d'atout.
 
-- Whether partner has *Carichi* - that is A or 3 of any non-trump suits.
+- Si le partenaire a des *Carichi* — c'est-à-dire l'As ou le 3 de n'importe quelle couleur non-atout.
 
-The orders the leader may give to partner are very similar: 
+Les ordres que le meneur peut donner à son partenaire sont très similaires :
 
-- to play a Liscio
+- jouer un Liscio
 
-- to play trump (high or low)
+- jouer de l'atout (haut ou bas)
 
-- to head the trick without playing a trump
+- monter dans le pli sans jouer d'atout
 
-- to play a *Carico*.
+- jouer un *Carico*.
 
-## Six player Briscola
+## Briscola à six joueurs
 
-This works in the same way as the four player version. The two teams are made up of three players each:
+Cela fonctionne de la même manière que la version à quatre joueurs. Les deux équipes sont composées de trois joueurs chacune :
 
-|   | A | B |   |
-| D |   | C |
-|   | E | F |   |
+|   | A | B |   |
+| D |   | C |
+|   | E | F |   |
 
-A, C and E play against D, B, F. The deck is reduced to 36 cards by taking away the two's. 
+A, C et E jouent contre D, B, F. Le jeu est réduit à 36 cartes en retirant les deux.
 
-The signals or conversation are the same as in four-player Briscola. If verbal communication is allowed, from the second trick onwards the leader to the trick may ask for information from or give instructions to either partner.
+Les signaux ou la conversation sont les mêmes qu'à la Briscola à quatre joueurs. Si la communication verbale est autorisée, à partir du deuxième pli, le meneur du pli peut demander des informations ou donner des instructions à l'un ou l'autre partenaire.
 
 ## Briscola a 31
 
-Paolo Ronzoni describes this variant of two-player Briscola played to a target of 31 points. This is a very quick game, played for small stakes or to decide who will pay for the drinks. The play ends as soon as a player claims to have 31 or more points in their tricks. If the claim is correct they win, if it is incorrect the other player wins.
+Paolo Ronzoni décrit cette variante de la Briscola à deux joueurs, jouée avec un objectif de 31 points. C'est un jeu très rapide, joué pour de petites mises ou pour décider qui paiera les consommations. Le jeu s'arrête dès qu'un joueur réclame avoir 31 points ou plus dans ses plis. Si la réclamation est correcte, il gagne ; si elle est incorrecte, l'autre joueur gagne.
 
 ## Schembil
 
-This variant of six-player Briscola is played in Northern Africa and also in Southern Italy especially Sicily. Only 36 cards are used - the twos are omitted from the normal 40-card pack.
+Cette variante de la Briscola à six joueurs se joue en Afrique du Nord et aussi dans le sud de l'Italie, particulièrement en Sicile. Seules 36 cartes sont utilisées — les deux sont retirés du jeu normal de 40 cartes.
 
-The six players are divided in two teams of three. Each team chooses a captain, known as the “*rais*” - normally they will choose the most skilful member of their team.
+Les six joueurs sont divisés en deux équipes de trois. Chaque équipe choisit un capitaine, appelé le « *rais* » — généralement ils choisiront le membre le plus habile de leur équipe.
 
-As usual three cards each are dealt, and players replenish their hands by drawing a card from the stock at the end of each trick.
+Comme d'habitude, trois cartes sont distribuées à chacun, et les joueurs reconstituent leur main en piochant une carte du tas à la fin de chaque pli.
 
-The rais of each team can ask certain questions of his partners and direct their play. The possible questions and orders are the same as in four- and six-player Briscola - see above, but asked or given by the *rais* of either team, not the leader to the trick. The other players are not allowed to speak except to answer questions asked by their *rais*.
+Le rais de chaque équipe peut poser certaines questions à ses partenaires et diriger leur jeu. Les questions et ordres possibles sont les mêmes qu'à la Briscola à quatre et six joueurs — voir ci-dessus, mais posés ou donnés par le *rais* de l'une ou l'autre équipe, et non par le meneur du pli. Les autres joueurs ne sont pas autorisés à parler sauf pour répondre aux questions posées par leur *rais*.
 
-When the stock is exhausted, the *rais* is allowed to look at the cards of just one of his partners (generally he chooses the partner to his right).
+Quand le tas est épuisé, le *rais* est autorisé à regarder les cartes d'un seul de ses partenaires (généralement il choisit le partenaire à sa droite).
 
-## Three player Briscola
+## Briscola à trois joueurs
 
-It's played the same as the two player version, and the deck is reduced to 39 cards by taking away a 2. All three players try to gain the highest number of points.
+Elle se joue de la même manière que la version à deux joueurs, et le jeu est réduit à 39 cartes en retirant un 2. Les trois joueurs essaient d'obtenir le plus grand nombre de points.
 
 ## Briscola Scoperta
 
-This is two-player Briscola with face up cards. Each player's hand of three cards is laid out face up on the table, and the top card of the drawing stock (which will be taken by the winner of the trick) is face up as well as the trump (*briscola*) at the bottom of the stock. The card values and rules of play are exactly the same as in normal two-player Briscola, but now both players have access to the same information at all times. The only unknown cards are the cards buried in the stock between the top and bottom card.
+C'est la Briscola à deux joueurs avec cartes découvertes. La main de trois cartes de chaque joueur est étalée face visible sur la table, et la carte supérieure du tas de pioche (qui sera prise par le gagnant du pli) est face visible ainsi que la carte de Briscola (*briscola*) au fond du tas. Les valeurs des cartes et les règles du jeu sont exactement les mêmes qu'à la Briscola normale à deux joueurs, mais maintenant les deux joueurs ont accès à la même information à tout moment. Les seules cartes inconnues sont les cartes enfouies dans le tas entre la carte supérieure et la carte inférieure.
 
 ## Briscolone
 
-*'Briscolone'* means 'large briscola' and some people use this name to refer to five-player Briscola (Briscola Chiamata).
+Le « *Briscolone* » signifie « grande briscola » et certains utilisent ce nom pour désigner la Briscola à cinq joueurs (Briscola Chiamata).
 
-Briscolone is also the name of a two-player variant of Briscola in which each player is dealt five cards rather than three. There is **no trump suit** in this game so a trick is simply won by the higher card of the suit that was led. The card values are the same as in normal Briscola so there are 120 points available in each deal, but the game is continued over several deals until a player wins by reaching the agreed cumulative target, which may be 151 points or 121 points.
+Le Briscolone est aussi le nom d'une variante à deux joueurs de la Briscola dans laquelle chaque joueur reçoit cinq cartes au lieu de trois. Il n'y a **pas de couleur d'atout** dans ce jeu, donc un pli est simplement gagné par la plus haute carte de la couleur qui a été menée. Les valeurs des cartes sont les mêmes qu'à la Briscola normale, il y a donc 120 points disponibles à chaque donne, mais le jeu se poursuit sur plusieurs donnes jusqu'à ce qu'un joueur gagne en atteignant l'objectif cumulé convenu, qui peut être de 151 ou 121 points.
 
-Briscolone is often played with the additional rule that players must **follow suit**. That is, the second player to a trick must play a card of the same suit as the first player whenever possible.
+Le Briscolone est souvent joué avec la règle supplémentaire que les joueurs doivent **suivre la couleur**. C'est-à-dire que le deuxième joueur d'un pli doit jouer une carte de la même couleur que le premier joueur lorsque c'est possible.
 
-## Briškula in Bosnia and Herzegovina
+## Briškula en Bosnie-Herzégovine
 
-Veselko Kelava reports that in Bosnia and Herzegovina Briškula is played with a 32-card pack, each suit ranking: A, 10, K, Q, J, 9, 8, 7. The card values are A=11, 10=10, K=4, Q=3, J=2. Any number can play without partnerships, or four can play as partners, two against two. When the talon comes close to an end and some players draw and some don't get a chance. Only those who drew play to the following trick, so that all again have the same number of cards in hand.
+Veselko Kelava rapporte qu'en Bosnie-Herzégovine la Briškula se joue avec un jeu de 32 cartes, chaque couleur se classant : A, 10, R, D, V, 9, 8, 7. Les valeurs des cartes sont A=11, 10=10, R=4, D=3, V=2. On peut jouer à tout nombre sans partenariat, ou à quatre en partenariat, deux contre deux. Quand le talon approche de la fin et que certains joueurs piochent et d'autres n'ont pas l'occasion, seuls ceux qui ont pioché jouent au pli suivant, afin que tous aient à nouveau le même nombre de cartes en main.
 
-## Four-card or double Briškula
+## Briškula à quatre cartes ou double
 
-In both Bosnia-Herzegovina and Croatia, a variation is played in which four cards (instead of three) are dealt to each player, and everyone plays twice to each trick: after everyone has played one card, the play continues around the table and all play a second card. Whoever plays the highest trump or if there are none, the highest card of the suit that was led takes all the cards of the double trick. Everyone in turn draws a card from the talon and then everyone draws a second card so that all have four cards again, and the winner of the previous trick leads to a new double trick.
+En Bosnie-Herzégovine et en Croatie, on joue une variante dans laquelle quatre cartes (au lieu de trois) sont distribuées à chaque joueur, et chacun joue deux fois à chaque pli : après que chacun a joué une carte, le jeu continue autour de la table et tous jouent une deuxième carte. Celui qui joue le plus haut atout ou, s'il n'y en a pas, la plus haute carte de la couleur menée prend toutes les cartes du double pli. Chacun pioche à tour de rôle une carte du talon puis tous piochent une deuxième carte pour avoir à nouveau quatre cartes, et le vainqueur du pli précédent mène à un nouveau double pli.
 
-## Other Briscola WWW sites and software
+## Autres sites et logiciels de Briscola
 
-At the Italian site [Tretre](https://web.archive.org/web/20170923204219/http://www.tretre.it:80/chi-siamo) (archive copy) you can find [rules of Briscola and several variants](https://web.archive.org/web/20160810073330/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-a-b/#c60).
+Sur le site italien [Tretre](https://web.archive.org/web/20170923204219/http://www.tretre.it:80/chi-siamo) (copie d'archive), on peut trouver des [règles de la Briscola et de plusieurs variantes](https://web.archive.org/web/20160810073330/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-a-b/#c60).
 
-Some Briscola variants were described at [Solitari con le carte](https://web.archive.org/web/20250118080921/https://www.solitariconlecarte.it/variantibriscola.htm) (archive copy) where they could also be played in a web browser against the computer.
+Certaines variantes de la Briscola étaient décrites sur [Solitari con le carte](https://web.archive.org/web/20250118080921/https://www.solitariconlecarte.it/variantibriscola.htm) (copie d'archive) où elles pouvaient aussi être jouées dans un navigateur web contre l'ordinateur.
 
-At [GiochiStars](https://giochistars.it/briscola/) you can play two-player Briscola games and tournaments online against live opponents
+Sur [GiochiStars](https://giochistars.it/briscola/) vous pouvez jouer des parties et des tournois de Briscola à deux joueurs en ligne contre des adversaires réels.
 
-Žan Kafol has developed a web site providing [online multiplayer briškola (briscola)](https://briskula.si) for 2, 3 or 4 players.
+Žan Kafol a développé un site web proposant de la [briškula (briscola) multijoueur en ligne](https://briskula.si) pour 2, 3 ou 4 joueurs.
 
-You can play Briscola and Briscola Chiamata on line at the Italian site [biska.com](http://www.biska.com/).
+Vous pouvez jouer à la Briscola et à la Briscola Chiamata en ligne sur le site italien [biska.com](http://www.biska.com/).
 
-You can play Briscola online at [Board Game Arena](https://boardgamearena.com/gamepanel?game=briscola).
+Vous pouvez jouer à la Briscola en ligne sur [Board Game Arena](https://boardgamearena.com/gamepanel?game=briscola).
 
-You can download a freeware Briscola program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme de Briscola gratuit depuis [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-With the free Windows program [BTM Pro](https://btm-pro-net.software.informer.com/) you can play Briscola and some other Italian games against the computer or against other players over a network.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Briscola
+Avec le programme Windows gratuit [BTM Pro](https://btm-pro-net.software.informer.com/) vous pouvez jouer à la Briscola et à d'autres jeux italiens contre l'ordinateur ou contre d'autres joueurs en réseau.

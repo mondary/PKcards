@@ -3,114 +3,123 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** In which players try to predict the exact number of tricks they will win.
-**Autres noms :** Clag or Nominations
+**But :** Jeu dans lequel les joueurs essaient de prédire le nombre exact de plis qu'ils vont gagner.
+**Autres noms :** Clag ou Nominations
 
 ---
 
-*This page is based on information from Martin Brown and others.*
+*Cette page est basée sur des informations de Martin Brown et d'autres.*
 
 ## Introduction
 
-In Britain, the name **Nomination Whist** or **Nominations** is used for several different games, as listed on the Nomination Whist page. In this one, also known as **Clag**, the first few deals and the last few deals are played exactly like Oh Hell!, but in between these there is a series of additional deals with special rules. According to [Taylor Foss](https://web.archive.org/taylorfoss.com), Clag originated in the British Royal Air Force during the Second World War, and the name is an acronym for **C**louds **L**ow **A**ircraft **G**rounded, reflecting the fact that air crews played this game while waiting for suitable weather for flying. The game is sometimes known as "Clagg" or "Cleg".
+En Grande-Bretagne, le nom **Nomination Whist** ou **Nominations** est utilisé pour plusieurs jeux différents, comme listé sur la page Nomination Whist. Dans celui-ci, aussi connu sous le nom de **Clag**, les premières et les dernières donnes se jouent exactement comme l'Oh Hell!, mais entre les deux il y a une série de donnes supplémentaires avec des règles spéciales. Selon [Taylor Foss](https://web.archive.org/taylorfoss.com), le Clag a vu le jour dans la Royal Air Force britannique pendant la Seconde Guerre mondiale, et le nom est un acronyme de **C**louds **L**ow **A**ircraft **G**rounded (nuages bas, avions au sol), reflétant le fait que les équipages jouaient à ce jeu en attendant des conditions météorologiques favorables pour voler. Le jeu est parfois appelé « Clagg » ou « Cleg ».
 
-## Players and Cards
+## Joueurs et cartes
 
-This game is suitable for 4 to 7 players. A standard 52-card pack is used with the cards in each suit normally ranking from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Ce jeu convient à 4 à 7 joueurs. Un jeu standard de 52 cartes est utilisé, les cartes de chaque couleur se classant normalement du plus haut au plus bas : A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens horaire.
 
-## Deal
+## Donne
 
-A game consists of 22 deals, the turn to deal passing to the left. The dealer shuffles, the player to dealer's right cuts, and the cards are dealt one at a time, face down, clockwise.
+Une partie consiste en 22 donnes, le tour de donne passant à gauche. Le donneur bat, le joueur à sa droite coupe, et les cartes sont distribuées une par une, face contre table, dans le sens horaire.
 
-The number of cards dealt changes from deal to deal. In the first deal each player is dealt just one card; in the second deal players receive two cards each, in the third deal three cards each, and so on up to seven card each in the seventh deal. The next eight deals (8 to 15) have special rules, which will be described below. In each of these deals the players receive seven cards each. The last seven deals (16 to 22) are again normal with the hand size reducing by one each time: seven cards each in deal 16, six each in deal 17, five in deal 18 and so on down to one card each in the final deal 22.
+Le nombre de cartes distribuées change d'une donne à l'autre. Lors de la première donne, chaque joueur reçoit une seule carte ; lors de la deuxième donne, les joueurs reçoivent deux cartes chacun, lors de la troisième donne trois cartes chacun, et ainsi de suite jusqu'à sept cartes chacun lors de la septième donne. Les huit donnes suivantes (8 à 15) ont des règles spéciales, décrites ci-dessous. Dans chacune de ces donnes, les joueurs reçoivent sept cartes chacun. Les sept dernières donnes (16 à 22) sont à nouveau normales, avec la taille de la main diminuant d'une à chaque fois : sept cartes chacun à la donne 16, six chacun à la donne 17, cinq à la donne 18 et ainsi de suite jusqu'à une carte chacun à la dernière donne 22.
 
-## Nomination and Play in Normal Deals
+## Nomination et jeu dans les donnes normales
 
-The normal deals (1 to 7 and 16 to 22) and played in the same way as Oh Hell! After the deal, the next card in the pack is turned face up to indicate the trump suit and the remaining cards are stacked face down and not used.
+Les donnes normales (1 à 7 et 16 à 22) se jouent de la même manière que l'Oh Hell! Après la donne, la carte suivante du jeu est retournée face visible pour indiquer la couleur d'atout et les cartes restantes sont empilées face contre table et ne sont pas utilisées.
 
-Beginning with the player to dealer's left and going around clockwise, each player in turn must nominate how many tricks he or she will win. The dealer speaks last, and must commit to a number that does not give a total equal to the number of cards dealt. This ensures that at least one player will fail to win the number of tricks nominated.
+En commençant par le joueur à la gauche du donneur et en tournant dans le sens horaire, chaque joueur à son tour doit nommer combien de plis il gagnera. Le donneur parle en dernier et doit s'engager sur un nombre qui ne donne pas un total égal au nombre de cartes distribuées. Cela garantit qu'au moins un joueur échouera à gagner le nombre de plis annoncé.
 
-The player to dealer's left leads to the first trick. Players must follow suit if possible, playing the same suit as the card that was led: those unable to follow suit may play any card. If any trumps are played the trick is won by the highest trump in it. If it contains no trumps it is won by the highest card of the suit that was led. The winner of the trick gathers the cards, stacks them face down and leads any card to the next trick.
+Le joueur à la gauche du donneur mène au premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent, en jouant une carte de la même couleur que celle qui a été menée : ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. Si des atouts sont joués, le pli est gagné par le plus haut atout. S'il n'y en a pas, il est gagné par la plus haute carte de la couleur qui a été menée. Le gagnant du pli ramasse les cartes, les empile face contre table et mène n'importe quelle carte au pli suivant.
 
-Players will score a point for each trick they win, plus a 10 point bonus if they win exactly as many as they nominated, neither more nor fewer.
+Les joueurs marquent un point pour chaque pli gagné, plus un bonus de 10 points s'ils gagnent exactement le nombre qu'ils ont annoncé, ni plus ni moins.
 
-## Nomination and Play in Special Deals
+## Nomination et jeu dans les donnes spéciales
 
-The rules for the special deals are as follows. They are all played with seven card hands. Except where specified the nomination and play follows the same procedure as in the normal deals.
+Les règles pour les donnes spéciales sont les suivantes. Elles se jouent toutes avec des mains de sept cartes. Sauf indication contraire, la nomination et le jeu suivent la même procédure que dans les donnes normales.
 
-Deal 8: No Trumps
-This is exactly like a normal seven-card deal except that no card is turned up after the deal and there is no trump suit. Each trick is simply won by the highest card of the suit that was led.
-Deal 9: Misere
-This is like a normal seven-card deal with trumps, but everyone is assumed to have nominated **zero**. Therefore you score 10 if you win no tricks, but otherwise just one point per trick won.
-Deal 10: Guess Trumps
-The trump card is turned up **after** all players have made their nominations. So players predict how many tricks they will win having seen their cards, but not knowing what suit will be trumps.
-Deal 11: Blind
-Players nominate how many tricks they will take **before** the cards are dealt. The deal, trump making, play and scoring then proceed as in a normal deal.
-Deal 12: Twos Wild
-Trump setting, nominations and play are normal, but all four twos are wild. This means that when playing a two, the player names a rank and a suit - for example ace of diamonds - and it acts as a copy of that card. The following rules apply:
+Donne 8 : Sans atout
+C'est exactement comme une donne normale de sept cartes sauf qu'aucune carte n'est retournée après la donne et qu'il n'y a pas de couleur d'atout. Chaque pli est simplement gagné par la plus haute carte de la couleur qui a été menée.
 
-- If the card represented by the two is also played to the trick, the two is higher. For example if clubs are trumps and a player leads the ace of clubs, another player can beat it with the two of hearts, by nominating the two as another ace of clubs. 
+Donne 9 : Misère
+C'est comme une donne normale de sept cartes avec atouts, mais tout le monde est considéré avoir annoncé **zéro**. Vous marquez donc 10 si vous ne gagnez aucun pli, mais sinon juste un point par pli gagné.
 
-- If more than one two is played to a trick, they must represent different cards. So for example if the ace of trumps has already been beaten by a two representing the ace of trumps, a later player who also holds a two cannot use it to represent another ace of trumps in that trick.
+Donne 10 : Deviner les atouts
+La carte d'atout est retournée **après** que tous les joueurs ont fait leurs annonces. Les joueurs prédisent donc combien de plis ils gagneront ayant vu leurs cartes, mais sans savoir quelle couleur sera l'atout.
 
-- If a player has a card of the suit that was led, but chooses to play a two instead, it must be nominated as belonging to that suit. Suppose for example that hearts are trumps, player A leads the king of spades, player B trumps it with the 6 of hearts and player C holds one or more spades. Player C cannot play a 2 and nominate it as a trump to beat B's card. C has to follow suit so C's 2 can only be used as a spade in this trick.
+Donne 11 : À l'aveugle
+Les joueurs annoncent combien de plis ils prendront **avant** que les cartes ne soient distribuées. La donne, la détermination de l'atout, le jeu et le comptage se déroulent ensuite comme dans une donne normale.
 
-Deal 13: Aces Low
-This is exactly like a normal 7-card deal with trumps, except that the ace is the lowest card of each suit. The cards rank from high to low K-Q-J-10-9-8-7-6-5-4-3-2-A.
-Deal 14: Dealer Calls Trumps
-No card is turned up to set the trump suit. Instead, the dealer chooses the trump suit after looking at his or her cards. After the dealer has announced the trump suit, the nominations take place as usual, beginning with the player to dealer's left.
-Deal 15: Highest Number
-There are no nominations. Instead, whichever player takes most tricks scores 10 points and the other players score nothing. If there is a tie for most tricks no one scores. Therefore players who have no chance of winning most tricks will try to cooperate to cause a tie.
+Donne 12 : Deux sauvages
+La détermination de l'atout, les nominations et le jeu sont normaux, mais les quatre deux sont sauvages. Cela signifie qu'en jouant un deux, le joueur nomme un rang et une couleur — par exemple l'as de carreaux — et il agit comme une copie de cette carte. Les règles suivantes s'appliquent :
 
-## Scoring
+- Si la carte représentée par le deux est aussi jouée dans le pli, le deux est plus haut. Par exemple, si les trèfles sont atout et qu'un joueur mène l'as de trèfle, un autre joueur peut le battre avec le deux de cœurs, en nommant le deux comme un autre as de trèfle.
 
-A cumulative score is kept for each player, all starting at zero. 
+- Si plus d'un deux est joué dans un pli, ils doivent représenter des cartes différentes. Par exemple, si l'as d'atout a déjà été battu par un deux représentant l'as d'atout, un joueur ultérieur qui détient aussi un deux ne peut pas l'utiliser pour représenter un autre as d'atout dans ce pli.
 
-- In all deals except 9 and 15, players receive one point for each trick won plus 10 points if they take exactly the number of tricks that they nominated.
+- Si un joueur a une carte de la couleur menée, mais choisit de jouer un deux à la place, il doit être nommé comme appartenant à cette couleur. Supposez par exemple que les cœurs soient atout, que le joueur A mène le roi de pique, que le joueur B atoute avec le 6 de cœurs et que le joueur C détient un ou plusieurs piques. Le joueur C ne peut pas jouer un 2 et le nommer comme atout pour battre la carte de B. C doit suivre la couleur, donc le 2 de C ne peut être utilisé que comme pique dans ce pli.
 
-- In deal 9, players who take no tricks score 10 points and the others score one point per trick won.
+Donne 13 : As bas
+C'est exactement comme une donne normale de 7 cartes avec atouts, sauf que l'as est la carte la plus basse de chaque couleur. Les cartes se classent du plus haut au plus bas R-D-V-10-9-8-7-6-5-4-3-2-A.
 
-- In deal 15, if one player takes more tricks than any other, that player scores 10 points while the others score nothing. If there is a tie for most tricks, no one scores.
+Donne 14 : Le donneur choisit les atouts
+Aucune carte n'est retournée pour déterminer la couleur d'atout. À la place, le donneur choisit la couleur d'atout après avoir regardé ses cartes. Après que le donneur a annoncé la couleur d'atout, les nominations ont lieu comme d'habitude, en commençant par le joueur à sa gauche.
 
-The winner is the player who has the highest score at the end of the 22 deals. 
+Donne 15 : Le plus grand nombre
+Il n'y a pas de nominations. À la place, le joueur qui prend le plus de plis marque 10 points et les autres ne marquent rien. S'il y a une égalité pour le plus grand nombre de plis, personne ne marque. Les joueurs qui n'ont aucune chance de gagner le plus de plis essaieront donc de coopérer pour provoquer une égalité.
 
-If playing for money, each of the other players pays the winner according to the differences in their scores at the end of the game. The stake should be agreed in advance, for example 5p per point. There can also be an extra payment per failed contract, based on the difference between the number of times the winner's nomination was wrong and the number of times the other player was wrong - for example 10p per contract. So with these stakes, if the winner scored 184 and failed 4 times, and you scored 142 and failed 8 times, you would pay the winner £2.10 + 40p, that is £2.50.
+## Comptage
 
-It is possible that the winner will not be the player who has fewest failed contracts. In this case the amount paid to the winner by the players who failed less often will be 5p per point difference **less** the difference in the number of failed contracts. In this case it is even possible that the winner might have to pay one of the other players if their point difference is very small.
+Un score cumulé est tenu pour chaque joueur, tous commençant à zéro.
 
-I am not sure what happens if there is a tie for most points at the end. I suggest that in this case the winner is the player among those with most points who has fewest failed contracts. If there is a tie for failed contracts as well, then the joint winners should share the payments of the other players equally between them.
+- Dans toutes les donnes sauf 9 et 15, les joueurs reçoivent un point pour chaque pli gagné plus 10 points s'ils gagnent exactement le nombre de plis qu'ils ont annoncé.
 
-## Variations
+- Dans la donne 9, les joueurs qui ne gagnent aucun pli marquent 10 points et les autres marquent un point par pli gagné.
 
-Some score two points rather than one for each trick in a successful bid, so that for example a successful bid of 2 would score 14 points rather than 12.
+- Dans la donne 15, si un joueur gagne plus de plis que tout autre, ce joueur marque 10 points tandis que les autres ne marquent rien. S'il y a une égalité pour le plus grand nombre de plis, personne ne marque.
 
-Some play that no points are made for an unsuccessful bid, however many tricks are won.
+Le gagnant est le joueur qui a le score le plus élevé à la fin des 22 donnes.
 
-According to the [Clag Wikipedia page](https://en.wikipedia.org/wiki/Clag_(card_game)), in the 1990's a version of Clag was developed in which instead of playing the deals in a specific order, the dealer may choose the number of cards to deal to each player (minimum three, maximum seven) and then having looked at his or her cards may nominate it as a normal deal or as any type of special deal. The winner of each deal (the player who scores points and the first of these in clockwise order from the previous dealer in case of a tie) becomes the next dealer (known as the "caller"). 
+Si on joue pour de l'argent, chacun des autres joueurs paie le gagnant en fonction des différences de leurs scores à la fin de la partie. La mise doit être convenue à l'avance, par exemple 5 centimes par point. Il peut aussi y avoir un paiement supplémentaire par contrat échoué, basé sur la différence entre le nombre de fois où l'annonce du gagnant était incorrecte et le nombre de fois où celle de l'autre joueur était incorrecte — par exemple 10 centimes par contrat. Avec ces mises, si le gagnant a marqué 184 et a échoué 4 fois, et que vous avez marqué 142 et avez échoué 8 fois, vous paieriez au gagnant 2,10 £ + 40p, soit 2,50 £.
 
-The special deals available and the order in which they are played, if a fixed order is used, varies greatly. Some further options for special deals may be as follows.
+Il est possible que le gagnant ne soit pas le joueur qui a le moins de contrats échoués. Dans ce cas, le montant payé au gagnant par les joueurs qui ont échoué moins souvent sera de 5p par point de différence **moins** la différence du nombre de contrats échoués. Dans ce cas, il est même possible que le gagnant doive payer l'un des autres joueurs si leur différence de points est très faible.
 
-Misere
-As above, but some play that each trick scores -1 point (or -2 points) for the winner, rather than +1. As usual a player who loses every trick scopes +10.
-Misere with trumps
-Similar to misere but a card is turned to set the trump suit. In this game some play that each trick won scores -3 points.
-Precedence
-The suits rank from high to low: hearts, clubs, diamonds, spades. As usual players must follow suit and may play any card when unable to follow, but the trick is won by the highest card in the highest suit played to the trick. Thus hearts trump all other suits, clubs trump diamonds and spades, diamonds trump spades, and spades cannot trump anything. If playing that the dealer calls the game, a different order of suits can be specified, at the dealer's choice.
-Nuloss (New Loss)
-The rank of the cards is reversed. The two is the highest card of each suit, then 3, 4, etc. down to the ace, which is lowest.
-Ascending Madness
-Each trick is worth a different number of points: 1 for the first trick, 2 for the second, 3 for the third and so on. Or these scores can be doubled: 2, 4, 6, etc. The bonus for making one's bid exactly is still 10.
-Descending Madness
-Similar to Ascending Madness, but the order of scores is reversed, so that the first trick is worth the number of cards dealt (or twice that number) and the last trick is worth 2 (or 1).
+Je ne suis pas sûr de ce qui se passe en cas d'égalité pour le plus grand nombre de points à la fin. Je suggère que dans ce cas le gagnant est le joueur parmi ceux ayant le plus de points qui a le moins de contrats échoués. S'il y a aussi une égalité pour les contrats échoués, les gagnants conjoints devraient se partager les paiements des autres joueurs à parts égales.
 
-When playing the version in which the dealer calls the game, special games can be combined - for example "Nuloss Precedence with Ascending Madness". A possible problem with this is that if the choice of special hands is too wide, a dealer who consistently calls the most favourable special hand for the cards he or she is dealt may be too difficult to dislodge.
+## Variantes
 
-## Other Clag Web Pages
+Certains marquent deux points plutôt qu'un pour chaque pli dans une annonce réussie, de sorte que par exemple une annonce réussie de 2 marquerait 14 points plutôt que 12.
 
-[Clagg Tournament](https://web.archive.org/taylorfoss.com) page by Taylor Foss (archive copy).
+Certains jouent qu'aucun point n'est marqué pour une annonce échouée, quel que soit le nombre de plis gagnés.
 
-Wikipedia page for [Clag](https://en.wikipedia.org/wiki/Clag_(card_game)).
+Selon la [page Wikipédia du Clag](https://en.wikipedia.org/wiki/Clag_(card_game)), dans les années 1990, une version du Clag a été développée dans laquelle, au lieu de jouer les donnes dans un ordre spécifique, le donneur peut choisir le nombre de cartes à distribuer à chaque joueur (minimum trois, maximum sept) puis, après avoir regardé ses cartes, peut la nommer comme une donne normale ou comme tout type de donne spéciale. Le gagnant de chaque donne (le joueur qui marque des points et le premier d'entre eux dans l'ordre horaire à partir du donneur précédent en cas d'égalité) devient le donneur suivant (appelé le « caller »).
 
-Home Page > Classified Index > Trick Taking Games > Exact Bidding Group > Oh Hell! > Clag
+Les donnes spéciales disponibles et l'ordre dans lequel elles sont jouées, si un ordre fixe est utilisé, varient grandement. D'autres options pour les donnes spéciales peuvent être les suivantes.
+
+Misère
+Comme ci-dessus, mais certains jouent que chaque pli gagné marque -1 point (ou -2 points) pour le gagnant, plutôt que +1. Comme d'habitude, un joueur qui perd tous les plis marque +10.
+
+Misère avec atouts
+Similaire à la misère mais une carte est retournée pour déterminer la couleur d'atout. Dans ce jeu, certains jouent que chaque pli gagné marque -3 points.
+
+Préséance
+Les couleurs se classent du plus haut au plus bas : cœurs, trèfles, carreaux, piques. Comme d'habitude, les joueurs doivent suivre la couleur et peuvent jouer n'importe quelle carte lorsqu'ils ne peuvent pas suivre, mais le pli est gagné par la plus haute carte dans la couleur la plus haute jouée au pli. Ainsi les cœurs atoutent toutes les autres couleurs, les trèfles atoutent les carreaux et les piques, les carreaux atoutent les piques, et les piques ne peuvent atouter rien. Si on joue que le donneur choisit le jeu, un ordre différent des couleurs peut être spécifié, au choix du donneur.
+
+Nuloss (Nouvelle Perte)
+Le rang des cartes est inversé. Le deux est la carte la plus haute de chaque couleur, puis 3, 4, etc. jusqu'à l'as, qui est le plus bas.
+
+Folie ascendante
+Chaque pli vaut un nombre différent de points : 1 pour le premier pli, 2 pour le deuxième, 3 pour le troisième et ainsi de suite. Ou ces scores peuvent être doublés : 2, 4, 6, etc. Le bonus pour réussir exactement son annonce reste de 10.
+
+Folie descendante
+Similaire à la folie ascendante, mais l'ordre des scores est inversé, de sorte que le premier pli vaut le nombre de cartes distribuées (ou le double de ce nombre) et le dernier pli vaut 2 (ou 1).
+
+Lorsqu'on joue la version dans laquelle le donneur choisit le jeu, les jeux spéciaux peuvent être combinés — par exemple « Nuloss Préséance avec Folie ascendante ». Un problème possible est que si le choix de donnes spéciales est trop large, un donneur qui appelle systématiquement la donne spéciale la plus favorable pour les cartes qu'il a reçues peut être trop difficile à déloger.
+
+## Autres pages web sur le Clag
+
+[Page du tournoi Clagg](https://web.archive.org/taylorfoss.com) par Taylor Foss (copie d'archive).
+
+Page Wikipédia pour le [Clag](https://en.wikipedia.org/wiki/Clag_(card_game)).

@@ -2,231 +2,110 @@
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** A relative of Tapp played with 36 cards in the Stubai Valley.
+**But :** Un parent du Tapp joué avec 36 cartes dans la vallée du Stubai.
 
 ---
 
-This description results from John McLeod & Remigius Geiser's trip to Fulpmes, in the Stubai valley south west of Innsbruck, Austria. Philipp Schöpf taught us the game in the Gasthof Jenewein, Fulpmes on 31st March 1996.
+Cette description résulte du voyage de John McLeod et Remigius Geiser à Fulpmes, dans la vallée du Stubai au sud-ouest d'Innsbruck, en Autriche. Philipp Schöpf nous a enseigné le jeu au Gasthof Jenewein, Fulpmes, le 31 mars 1996.
 
-**Dobbm** is extremely popular in the Stubai valley among card players of all generations. It is unknown in the immediately surrounding regions, for example in the Wipptal and Innsbruck, but it is clearly related to **Brixental Bauerntarock**, **Zuger Tapp** and other similar games. Dobbm is also related to the special version of Tarock played in the same valley.
+**Dobbm** est extrêmement populaire dans la vallée du Stubai parmi les joueurs de cartes de toutes les générations. Il est inconnu dans les régions immédiatement environnantes, par exemple dans le Wipptal et à Innsbruck, mais il est clairement lié au **Brixental Bauerntarock**, au **Zuger Tapp** et à d'autres jeux similaires. Dobbm est aussi lié à la version spéciale du Tarock jouée dans la même vallée.
 
-## Contents
+## Joueurs
 
-## Players
+Il y a 4 joueurs actifs. Cinq peuvent jouer, auquel cas le donneur est en vacances (er feiert).
 
-There are 4 active players. Five can play, in which case the dealer takes a holiday (er feiert).
+## Cartes
 
-## Cards
+36 Doppeldeutsche Karten (cartes Tell) avec les couleurs cœurs, feuilles, glands et cloches. Autrefois, le jeu se jouait avec des cartes à figure unique du modèle Salzburger ; celles-ci ont été détrônées dans l'usage général par les cartes Tell il y a environ 30 à 40 ans, en raison de la gêne occasionnée par le fait de devoir retourner les cartes dans le bon sens lors du tri de sa main.
 
-36 Doppeldeutsche Karten (Tell cards) with suits of hearts, leaves, acorns and bells. Formerly the game was played with single figure Salzburger pattern cards; these were displaced in general use by the Tell cards some 30-40 years ago, because of the inconvenience of having to turn the cards the right way up when sorting one's hand.
+L'ordre des cartes de chaque couleur, de la plus haute à la plus basse, et leurs valeurs sont les suivantes :
 
-The rank of the cards in each suit, from high to low, and their values are as follows:
+**Carte :** Truie Dix Roi Ober Unter Neuf Huit Sept Six
+**Valeur :** 11 10 4 3 2 0 0 0 0
 
-**Card:** Sow Ten King Ober Unter Nine Eight Seven Six 
-**Value: ** 11 10 4 3 2 0 0 0 0 
+Le deux de chaque couleur est appelé la truie (die Sau). Le WELI n'a pas de signification spéciale dans Dobbm — c'est simplement le six de cloches.
 
-The deuce of each suit is called the sow (die Sau). The WELI has no special significance in Dobbm - it is merely the six of bells.
+Les cœurs sont toujours atouts.
 
-Hearts are permanently trumps.
+## Distribution
 
-## Deal
+La donne et le jeu se font dans le sens horaire. Le premier donneur est choisi au hasard. Le donneur mélange et le joueur à la droite du donneur coupe. Les cartes sont distribuées par lots de 4, jusqu'à ce que les quatre joueurs actifs aient 8 cartes chacun. Les quatre dernières cartes sont placées face en bas au centre pour former le Dobb.
 
-The deal and play are clockwise. The first dealer is chosen at random. The dealer shuffles and the player to dealer's right cuts. The cards are dealt in batches of 4, until the four active
-players have 8 cards each. The last four cards are placed face down in the centre to form the Dobb.
+Le tour de donne ne tourne pas. Le donneur de chaque main est le déclarant de la main précédente. Cela signifie que dans le jeu à 5 joueurs, vous continuez à jouer jusqu'à ce que vous soyez déclarant, après quoi vous êtes en vacances.
 
-The turn to deal does not rotate. The dealer for each hand is the declarer from the previous hand. This means that in the 5-player game, you keep playing until you are declarer, after which you get a holiday.
+## Enchères
 
-## Bidding
+En commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, chaque joueur n'a qu'une seule occasion d'enchérir. Il y a deux enchères possibles :
 
-Starting with the player to dealer's left, and continuing clockwise,
-each player has just one opportunity to bid. There are two possible
-bids:
+Dobbm jeu ordinaire — le déclarant échange avec le talon
+Solo — le déclarant n'échange pas avec le talon
 
-Dobbm ordinary game - declarer exchanges with the talon
-Solo declarer does not exchange with the talon
+Un joueur qui ne souhaite pas enchérir dit « weiter ». Un jeu ordinaire est annoncé en disant « ich tappe » [« i dob »].
+Un joueur qui souhaite jouer Solo dit « Solo ». Une fois qu'un joueur a annoncé un jeu ordinaire, les joueurs qui doivent encore parler peuvent soit enchérir Solo soit permettre au jeu ordinaire de se jouer en disant « gut » ou « spiel zu ».
 
-A player who does not wish to bid says weiter. An ordinary
-game is bid by saying "ich tappe" ["i dob"].
-A player who wishes to play Solo says "Solo".
-Once a player has bid an ordinary game, the players who have still
-to speak may either bid Solo or allow the ordinary game
-to be played by saying "gut" or "spiel
-zu". 
+Notez que comme chaque joueur ne parle qu'une fois, il n'y a pas de possibilité de surenchérir, indépendamment de ce qu'un autre joueur a enchéri. Si vous voulez jouer Solo, vous devez le dire à votre tour de parler. Le plus haut enchérisseur devient le déclarant et joue le jeu qui a été annoncé. Les trois autres joueurs, les défenseurs, jouent en équipe contre le déclarant.
 
-Note that as each player speaks only once, there is no opportunity
-to raise your own bid, irrespective of whether another player
-has bid higher. If you want to play Solo you should say so at
-your turn to speak. The highest bidder becomes the declarer and
-plays the game which was bid. The other three players, the defenders,
-play as a team against the declarer.
+Si tout le monde dit « weiter », les cartes sont jetées et dans le jeu à quatre joueurs le même joueur redistribue. Dans la version à cinq joueurs, la donne passe à gauche lorsqu'une main est jetée, et le nouveau donneur reçoit un paiement de compensation appelé Stockerl.
 
-If everyone says weiter, the cards are thrown in and in
-the four player game the same player deals again. In the five
-player version, the deal passes to the left when a hand is thrown
-in, and the new dealer receives a compensation payment called
-a Stockerl.
+## Échange
 
-## Exchanging
+Dans un jeu ordinaire, le déclarant ramasse les quatre cartes du Dobb sans les montrer aux autres joueurs, et défausse quatre cartes face en bas. Une truie ne peut être défaussée que si un atout est défaussé avec elle ; deux truies peuvent être défaussées avec deux atouts. La valeur des cartes défaussées sera ajoutée aux plis du déclarant.
 
-In an ordinary game, the declarer picks up the four Dobb cards
-without showing them to the other players, and discards four cards
-face down. A sow may only be discarded if a trump is discarded
-with it; two sows may be discarded with two trumps. The value
-of the discarded cards will be added to the declarer's tricks.
-
-In a Solo the talon is left face down and its value counts with
-the declarer's tricks.
+Dans un Solo, le talon reste face en bas et sa valeur compte avec les plis du déclarant.
 
 ## Schwacher
 
-Having finalised the discard, the declarer says "ich liege"
-["i lig"]. The opponents then have an
-opportunity to double the stake for the game (doubling is known
-as schießen or einen Schwachen geben). The
-first active player to the left of the declarer speaks first,
-saying either "an Schwochn" to double
-the stake, or "gut" or "spiel zu"
-if content to allow the game to proceed without a double. If the
-first defender does not double, the other two defenders in turn
-have the same options. If any defender gives a Schwacher, the
-declarer may either accept this, saying "gut",
-or double the stake again, saying "retour". If
-the declarer says retour, the defenders may double the
-stake again by saying retour - this may be said by any
-defender - not necessarily the one who gave the original Schwacher.
-The declarer may then say a further retour, and so on without
-limit. These doubles affect the payment between the dealer and
-all the defenders equally. 
+Après avoir finalisé la défausse, le déclarant dit « ich liege » [« i lig »]. Les adversaires ont alors l'opportunité de doubler la mise (le doublement est appelé schießen ou einen Schwachen geben). Le premier joueur actif à la gauche du déclarant parle en premier, disant soit « an Schwochn » pour doubler la mise, soit « gut » ou « spiel zu » s'il est satisfait de laisser le jeu se dérouler sans double. Si le premier défenseur ne double pas, les deux autres défenseurs ont tour à tour les mêmes options. Si un défenseur fait un Schwacher, le déclarant peut soit l'accepter en disant « gut », soit doubler la mise à nouveau en disant « retour ». Si le déclarant dit « retour », les défenseurs peuvent doubler la mise à nouveau en disant « retour » — cela peut être dit par n'importe quel défenseur — pas nécessairement celui qui a fait le Schwacher original. Le déclarant peut alors dire un autre « retour », et ainsi de suite sans limite. Ces doublent affectent le paiement entre le donneur et tous les défenseurs de manière égale.
 
-There is obviously scope here for an unscrupulous declarer and defender in alliance to cheat the other players by unreasonable doubling. This problem did not seem to arise in the games we saw, but you should be wary of playing this game against untrustworthy opponents.
+Il y a évidemment ici une possibilité pour un déclarant et un défenseur sans scrupules de tricher les autres joueurs par des doubles déraisonnables. Ce problème ne semblait pas se poser dans les parties que nous avons vues, mais vous devriez être prudent en jouant à ce jeu contre des adversaires peu fiables.
 
-## The Play
+## Le jeu
 
-Play is clockwise. The declarer leads to the first trick. Players
-must follow suit if possible, and a player with no cards of the
-suit led must play a heart. A player who holds no hearts and no
-cards of the suit led may play any card. Each trick is won by
-the highest heart in it, or, if it contains no hearts, by the
-highest card of the suit led. The winner of a trick leads to the
-next.
+Le jeu se fait dans le sens horaire. Le déclarant entame le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent, et un joueur qui n'a pas de cartes de la couleur entamée doit jouer un cœur. Un joueur qui n'a ni cœurs ni cartes de la couleur entamée peut jouer n'importe quelle carte. Chaque pli est gagné par le cœur le plus élevé qu'il contient, ou s'il ne contient pas de cœurs, par la carte la plus haute de la couleur entamée. Le gagnant d'un pli entame le suivant.
 
-The three defenders keep their tricks in a single pile. Players
-are allowed to look back at the tricks taken by their own side,
-but the declarer in a Solo should not look at the Dobb
-until the end of the play.
+Les trois défenseurs conservent leurs plis dans une seule pile. Les joueurs sont autorisés à regarder les plis pris par leur propre camp, mais le déclarant dans un Solo ne devrait pas regarder le Dobb avant la fin du jeu.
 
-## Scoring
+## Comptage des points
 
-Each side counts the card points they have taken in tricks. The
-Dobb is counted with the declarer's tricks, so that the card
-points in the game total 120. The side with more card points wins
-an amount of money based on the difference between the card points
-they have taken and 60. If each side has 60 card points it is
-a draw (eingestellt) and there is no payment. Payments
-are doubled in a Solo. A Schwacher and each retour
-also double the payments.
+Chaque camp compte les points de cartes qu'il a pris dans les plis. Le Dobb est compté avec les plis du déclarant, de sorte que les points de cartes dans le jeu totalisent 120. Le camp avec le plus de points de cartes gagne un montant d'argent basé sur la différence entre les points de cartes qu'il a pris et 60. Si chaque camp a 60 points de cartes, c'est un match nul (eingestellt) et il n'y a pas de paiement. Les paiements sont doublés dans un Solo. Un Schwacher et chaque retour doublent aussi les paiements.
 
-If one side takes all eight tricks, this is called a Match.
-There is no extra score for this, but if the declarer loses every
-trick the defenders get the Dobb as well, so that a Match
-in an ordinary game is always worth 60 points.
+Si un camp prend les huit plis, cela s'appelle un Match. Il n'y a pas de score supplémentaire pour cela, mais si le déclarant perd tous les plis, les défenseurs obtiennent aussi le Dobb, de sorte qu'un Match dans un jeu ordinaire vaut toujours 60 points.
 
-Winnings are usually paid in cash after each hand. If the declarer
-wins, all the defenders pay the declarer; a declarer who loses
-pays each of the defenders. In the five player game, the dealer
-pays to or receives from the declarer the same amount as each
-other defender. 
+Les gains sont généralement payés en espèces après chaque main. Si le déclarant gagne, tous les défenseurs paient le déclarant ; un déclarant qui perd paie chacun des défenseurs. Dans le jeu à cinq joueurs, le donneur paie au déclarant ou reçoit du déclarant le même montant que chaque autre défenseur.
 
-The stake is expressed in terms of the cost of a Match.
-Typical stakes are 6, 12, 60, 120 or 240 Schilling. For example,
-in a 60 Schilling game each card point in an ordinary game is
-worth 1 Schilling. In a Solo the payments are doubled to 2 Schilling
-per point. The payments are also doubled for a Schwacher
-and for each Retour - so a declarer who took 72 card points
-in an ordinary game with Schwacher and Retour would
-win 48 Schilling from each defender - that is 144 Schilling in
-total in a four player game, or 192 Schilling in a five player
-game. The same result in a Solo would bring the declarer
-288 or 384 Schilling.
+La mise est exprimée en fonction du coût d'un Match. Les mises typiques sont de 6, 12, 60, 120 ou 240 Schilling. Par exemple, dans un jeu à 60 Schilling, chaque point de carte dans un jeu ordinaire vaut 1 Schilling. Dans un Solo, les paiements sont doublés à 2 Schilling par point. Les paiements sont aussi doublés pour un Schwacher et pour chaque Retour — ainsi un déclarant qui a pris 72 points de carte dans un jeu ordinaire avec Schwacher et Retour gagnerait 48 Schilling de chaque défenseur — soit 144 Schilling au total dans un jeu à quatre joueurs, ou 192 Schilling dans un jeu à cinq joueurs. Le même résultat dans un Solo rapporterait au déclarant 288 ou 384 Schilling.
 
-When playing for 6 or 12 Schilling, the score for an ordinary
-game is generally rounded up to the next Schilling. For example,
-in a 12 Schilling game the payments would be:
+En jouant pour 6 ou 12 Schilling, le score d'un jeu ordinaire est généralement arrondi au Schilling supérieur. Par exemple, dans un jeu à 12 Schilling, les paiements seraient :
 
-Declarer's Declarer wins from Declarer's Declarer pays to 
-score each defender score each defender 
+Score du Score du Score du Score du
+déclarateur gagne du déclarateur paie au
+déclarateur chaque défenseur
 
-61 to 65 1 55 to 59 1 
-66 to 70 2 50 to 54 2 
-71 to 75 3 45 to 49 3 
-etc. etc. 
+61 à 65 1 55 à 59 1
+66 à 70 2 50 à 54 2
+71 à 75 3 45 à 49 3
+etc. etc.
 
-In a Solo, or in case of a Schwacher, the rounding
-is carried out before the doubling. So a declarer taking 76 points
-in a Solo would win 8 Schilling from each defender, or
-16 Schilling each if they gave a Schwacher.
+Dans un Solo, ou en cas de Schwacher, l'arrondi est effectué avant le doublement. Ainsi un déclarant qui prend 76 points dans un Solo gagnerait 8 Schilling de chaque défenseur, ou 16 Schilling chacun s'il a fait un Schwacher.
 
-In the five player game, when no one bids, the cards are thrown in, the deal passes to the left, and the new dealer receives a Stockerl from each other player equal to the value of 10 points in an ordinary game (i.e. 2 Schilling in a 12 Schilling game, 10 Schilling in a 60 Schilling game, etc.). The reason behind this is that in the 5 player game there is a slight disadvantage in dealing - the declarer will win more often than not, and the dealer has to pay along with the defenders. Normally you deal through choice, because you were the previous declarer. If you are forced to deal merely because the previous hand was thrown in, you are entitled to compensation.
+Dans le jeu à cinq joueurs, quand personne n'enchérit, les cartes sont jetées, la donne passe à gauche, et le nouveau donneur reçoit un Stockerl de chaque autre joueur égal à la valeur de 10 points dans un jeu ordinaire (soit 2 Schilling dans un jeu à 12 Schilling, 10 Schilling dans un jeu à 60 Schilling, etc.). La raison derrière cela est que dans le jeu à 5 joueurs, il y a un léger désavantage à donner — le déclarant gagne plus souvent qu'à pas, et le donneur doit payer avec les défenseurs. Normalement, on donne par choix, car on était le déclarant précédent. Si on est forcé de donner simplement parce que la main précédente a été jetée, on a droit à une compensation.
 
-Revoking (i.e. failure to follow suit or play a trump when required
-to) is called verleugnen [laungen]. The deal is
-abandoned and the penalty is half the value of a Match in the
-game currently being played. If a defender revokes, all of the
-defenders have to pay the declarer (the partners of the offender
-also suffer); a declarer who revokes pays all the defenders. The
-same penalty is payable by the declarer if the wrong number of
-cards were discarded.
+Une révoke (c'est-à-dire le fait de ne pas suivre la couleur ou de ne pas jouer un atout quand c'est requis) est appelée verleugnen [laungen]. La donne est abandonnée et la pénalité est la moitié de la valeur d'un Match dans le jeu en cours. Si un défenseur commet une faute, tous les défenseurs doivent payer le déclarant (les partenaires du fautif souffrent aussi) ; un déclarant qui commet une faute paie tous les défenseurs. La même pénalité est payable par le déclarant si un nombre incorrect de cartes a été défaussé.
 
-As in Droggn, this revoke penalty is too mild to be an effective deterrent to deliberate revoking, and is only suitable as a punishment for an accidental error. Although in certain circumstances it would in a player's interest to revoke on purpose, so as to avoid a higher loss if the game were played out legally, deliberate revokes of this kind are not allowed.
+Comme dans Droggn, cette pénalité de faute est trop douce pour être un moyen de dissuasion efficace contre les fautes délibérées, et n'est adaptée que comme punition pour une erreur accidentelle. Bien que dans certaines circonstances, il serait dans l'intérêt d'un joueur de commettre une faute délibérément, afin d'éviter une perte plus élevée si le jeu se déroulait légalement, les fautes délibérées de ce type ne sont pas autorisées.
 
-## End of the Session
+## Fin de la session
 
-To complete a session, a Mußrunde is often played.
-This is a series of deals on which the player to dealer's left
-must be declarer, and can choose to play either an ordinary game
-or a Solo. This has the effect that the deal passes to
-the left after each hand. The Mußrunde continues
-for as many deals as there are players, so that everyone is forced
-to be declarer once, and then the session ends.
+Pour compléter une session, une Mußrunde est souvent jouée. C'est une série de donnes dans lesquelles le joueur à la gauche du donneur doit être déclarant, et peut choisir de jouer soit un jeu ordinaire soit un Solo. Cela a pour effet que la donne passe à gauche après chaque main. La Mußrunde continue pour autant de donnes qu'il y a de joueurs, de sorte que chacun est forcé d'être déclarant une fois, puis la session se termine.
 
-## Notes on Tactics
+## Notes sur la tactique
 
-On most deals at least one player will be able to play an ordinary
-game. The heart sow, another heart and another sow, or any three
-hearts plus a sow are generally sufficient. Sometimes a player
-with a strong hand may pass in the hope of giving a Schwacher
-to another declarer, but this runs the risk that the hand will
-be passed out, and it is generally more profitable to play when
-able to.
+Dans la plupart des mains, au moins un joueur sera capable de jouer un jeu ordinaire. La truie de cœurs, un autre cœur et une autre truie, ou trois cœurs plus une truie sont généralement suffisants. Parfois, un joueur avec une main forte peut passer dans l'espoir de faire un Schwacher à un autre déclarant, mais cela risque que la main soit passée, et il est généralement plus rentable de jouer quand on le peut.
 
-A Solo requires an extremely strong hand, and will usually only
-be played to outbid another player.
+Un Solo exige une main extrêmement forte, et ne sera généralement joué que pour surenchérir un autre joueur.
 
-When the declarer loses, it is usually through losing a trick
-to one defender on which the other defenders are able to discard
-their sows and tens. Throwing valuable cards on a partner's trick
-in this way is called schieben [schiam]. To reduce
-the chances of this, the declarer should arrange to lose any tricks
-which must be lost while the opponents still have trumps. That
-way they have to play their trumps rather than discarding. For
-this reason the declarer will often begin by leading from a long,
-possibly weak, side-suit, rather than by drawing trumps.
+Quand le déclarant perd, c'est généralement en perdant un pli à un défenseur sur lequel les autres défenseurs peuvent défausser leurs truies et leurs dix. Jeter des cartes de valeur sur le pli d'un partenaire de cette façon s'appelle schieben [schiam]. Pour réduire les chances de cela, le déclarant devrait s'arranger pour perdre les plis qui doivent être perdus pendant que les adversaires ont encore des atouts. De cette façon, ils doivent jouer leurs atouts plutôt que de défausser. Pour cette raison, le déclarant commencera souvent par entamer depuis une couleur longue, possiblement faible, plutôt qu'en tirant les atouts.
 
-When the declarer leads from a side suit, it is very often right
-for the defenders to hold back their high cards. This is called
-schinden. If the defenders release their top cards too
-soon, they run the risk of allowing the declarer to establish
-winners in the suit, and forgo the chance of winning a profitable
-trick later.
+Quand le déclarant entame depuis une couleur secondaire, il est très souvent judicieux pour les défenseurs de retenir leurs cartes hautes. Cela s'appelle schinden. Si les défenseurs libèrent leurs cartes hautes trop vite, ils risquent de permettre au déclarant d'établir des cartes gagnantes dans la couleur, et de perdre la chance de gagner un pli profitable plus tard.
 
-A Fuchs (fox) is a single card in a suit (not the sow)
-in the declarer's hand. Sometimes the fox will win a trick, or
-at least be lost very cheaply. This may happen when the defenders
-lead the suit, playing low cards because they expect the declarer
-to be void, or when the declarer leads the suit and the defenders
-hold back their high cards, believing the declarer to have more
-cards of the suit. Occasionally a fox may take a trick when the
-defenders have mistakenly discarded their high cards in that suit
-before the fox is played.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Dobbm
+Un Fuchs (renard) est une carte seule dans une couleur (pas une truie) dans la main du déclarant. Parfois, le renard gagnera un pli, ou du moins sera perdu très peu cher. Cela peut se produire lorsque les défenseurs entament la couleur, en jouant des cartes basses parce qu'ils s'attendent à ce que le déclarant soit sans carte de cette couleur, ou lorsque le déclarant entame la couleur et que les défenseurs retiennent leurs cartes hautes, croyant que le déclarant a plus de cartes de cette couleur. Occasionnellement, un renard peut prendre un pli lorsque les défenseurs ont défaussé par erreur leurs cartes hautes dans cette couleur avant que le renard ne soit joué.

@@ -3,135 +3,133 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules, variations and software for the popular Polish card game  Kierki (hearts), a compendium game similar to King and Barbu.
+**But :** Règles, variantes et logiciels pour le jeu de cartes polonais populaire Kierki (cœurs), un jeu à contrats similaire à King et Barbu.
 **Autres noms :** Kurnik
 
 ---
 
-This page draws on information from Zefciu, Marek Wylon, Lucia Wilford, Dave George, Alexey Lobashev and Zbyszek Zdanowicz.
+Cette page s'appuie sur des informations de Zefciu, Marek Wylon, Lucia Wilford, Dave George, Alexey Lobashev et Zbyszek Zdanowicz.
 
 ## Introduction
 
-Kierki is a very popular Polish compendium game, similar to King. "Kierki" is actually a diminutive of the word for heart, but this game is quite different from the Anglo-American game of Hearts, which is sometimes known in Poland is "Windows Hearts" because it is known only through the version that was shipped with a well-known computer operating system.
+Kierki est un jeu à contrats polonais très populaire, similaire à King. « Kierki » est en fait un diminutif du mot pour cœur, mais ce jeu est assez différent du jeu de cœurs anglo-américain, parfois connu en Pologne sous le nom de « Windows Hearts » parce qu'il n'est connu que par la version livrée avec un célèbre système d'exploitation informatique.
 
-Four players participate in the basic version of Kierki, and there is a variant for three players with the scoring changed a bit to keep the balance. A Kierki match consists of two parts: the "game" (rozgrywka) and the "re-game" (odgrywka). In the first part the aim is to avoid winning certain cards or tricks which score negative points. In the second part, players try to win tricks to score positive points. In a properly planned match the sums of positive and negative points are equal, so the sum of all players' points in the end will be zero.
+Quatre joueurs participent à la version de base de Kierki, et il existe une variante pour trois joueurs avec un comptage légèrement modifié pour préserver l'équilibre. Un match de Kierki comprend deux parties : le « jeu » (rozgrywka) et le « re-jeu » (odgrywka). Dans la première partie, le but est d'éviter de remporter certaines cartes ou plis qui marquent des points négatifs. Dans la deuxième partie, les joueurs cherchent à remporter des plis pour marquer des points positifs. Dans un match bien planifié, les sommes des points positifs et négatifs sont égales, de sorte que la somme des points de tous les joueurs à la fin sera zéro.
 
-## Players and Cards
+## Joueurs et cartes
 
-The standard game is for four players, each playing for themselves. The standard 52-card French suited pack is used. The cards in each suit rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Le jeu standard se joue à quatre joueurs, chacun pour soi. On utilise le jeu standard de 52 cartes à couleurs françaises. Les cartes de chaque couleur se classent de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-The game is played clockwise. The first dealer is chosen at random and the turn to deal passes to the left after each hand. The dealer deals all the cards out one at a time, so that each player has 13 cards.
+Le jeu se joue dans le sens horaire. Le premier donneur est choisi au hasard et le tour de distribuer passe à la gauche après chaque main. Le donneur distribue toutes les cartes une à une, de sorte que chaque joueur a 13 cartes.
 
-## Rozgrywka - Negative Games
+## Rozgrywka — Jeux négatifs
 
-The first seven deals are played without trumps. The player to dealer's left leads to the first trick. Players must follow suit if they can, otherwise they may throw any card. The trick is won by the highest card of the suit led and the winner leads to the next trick. The objective and scoring of each deal is different, as follows.
+Les sept premières donnes se jouent sans atout. Le joueur à la gauche du donneur entame le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent, sinon ils peuvent jeter n'importe quelle carte. Le pli est remporté par la plus haute carte de la couleur entamée et le gagnant entame le pli suivant. L'objectif et le comptage de chaque donne sont différents, comme suit.
 
-- Bez lew (no tricks). Players try to avoid taking tricks. Each trick taken scores -20 points.
+- Bez lew (pas de plis). Les joueurs cherchent à éviter de remporter des plis. Chaque pli remporté marque -20 points.
 
-- Bez kierów (no hearts). Players try to avoid taking hearts. Every heart in a player's tricks scores -20 points. You are forbidden to lead a heart to a trick unless you have nothing but hearts in your hand. There are no restrictions on discarding hearts if you have no card of the suit led.
+- Bez kierów (pas de cœurs). Les joueurs cherchent à éviter de remporter des cœurs. Chaque ![cœur] dans les plis d'un joueur marque -20 points. Il est interdit d'entamer un ![cœur] sauf si vous n'avez que des cœurs en main. Il n'y a pas de restriction pour se défausser de cœurs si vous n'avez pas de carte de la couleur entamée.
 
-- Bez pań (no ladies). Every queen in a player's tricks scores -60 points.
+- Bez pań (pas de dames). Chaque dame dans les plis d'un joueur marque -60 points.
 
-- Bez panów (no gentlemen). Every jack and every king in a player's tricks scores -30 points.
+- Bez panów (pas de messieurs). Chaque valet et chaque roi dans les plis d'un joueur marque -30 points.
 
-- Bez króla kier (no king of hearts). The king of hearts is the sole penalty card. The player who wins the trick that contains the king of hearts scores -150 points. As in deal 2 (Bez kierów), you are forbidden to lead a heart to a trick unless you have nothing but hearts in your hand. The king of hearts can be discarded on any trick to which you cannot follow suit.
+- Bez króla kier (pas de roi de cœurs). Le roi de ![cœur] est la seule carte pénalisante. Le joueur qui remporte le pli contenant le roi de ![cœur] marque -150 points. Comme dans la donne 2 (Bez kierów), il est interdit d'entamer un ![cœur] sauf si vous n'avez que des cœurs en main. Le roi de ![cœur] peut être défaussé sur n'importe quel pli où vous ne pouvez pas suivre.
 
-- Bez siódmej i ostatniej lewy (no seventh and no last trick) The winners of 7th trick and the last trick each score -75 points.
+- Bez siódmej i ostatniej lewy (pas de septième ni de dernier pli). Les gagnants du 7e pli et du dernier pli marquent chacun -75 points.
 
-- Rozbójnik (bandit), also known as wariat (crazy). In this deal all the penalties from the first six previous deals are scored. So for example winning a trick on which the king of hearts is discarded costs you at least 20+20+30+150=220 points (for a trick, a heart, a genteleman and the king of hearts). As in deals 2 and 5, you must not lead hearts unless you have no alternative.
+- Rozbójnik (bandit), aussi connu sous le nom de wariat (fou). Dans cette donne, toutes les pénalités des six premières donnes sont cumulées. Ainsi, par exemple, remporter un pli sur lequel le roi de ![cœur] est défaussé vous coûte au moins 20+20+30+150=220 points (pour un pli, un ![cœur], un gentleman et le roi de ![cœur]). Comme dans les donnes 2 et 5, vous ne devez pas entamer de cœurs sauf si vous n'avez pas d'autre choix.
 
-The total number of penalty points in the first six deals is 1300 (that is 20*13 + 20*13 + 60*4 + 30*8 + 150 + 75*2). The are another 1300 points to lose in deal 7, making 2600 altogether.
+Le nombre total de points de pénalité dans les six premières donnes est de 1300 (soit 20×13 + 20×13 + 60×4 + 30×8 + 150 + 75×2). Il y a encore 1300 points à perdre dans la donne 7, soit 2600 au total.
 
-## Odgrywka - Positive Games
+## Odgrywka — Jeux positifs
 
-Now comes the time to win your points back. This part normally consists of four trump deals, followed by a deal called loteryjka (little lottery).
+Vient maintenant le temps de récupérer vos points. Cette partie se compose normalement de quatre donnes avec atout, suivies d'une donne appelée loteryjka (petite loterie).
 
-Rozgrywka atutowa (trump games). The dealer looks at his first five cards he is dealt and announces a trump suit, after which the deal is completed. The dealer leads to the first trick. Players must follow suit if they can. If unable to follow suit you may play any card. There is no obligation to beat the cards already played to the trick nor to trump if unable to follow suit. A trick is won by the highest trump in it, or the highest card of the suit led if no trumps were played. The winner leads to the next trick. Each trick won scores +25 points. 
+Rozgrywka atutowa (jeux d'atout). Le donneur regarde ses cinq premières cartes et annonce une couleur d'atout, après quoi la donne est complétée. Le donneur entame le premier pli. Les joueurs doivent suivre la couleur s'ils le peuvent. S'ils ne le peuvent pas, ils peuvent jouer n'importe quelle carte. Il n'y a aucune obligation de battre les cartes déjà jouées dans le pli ni de couper si on ne peut pas suivre. Le pli est remporté par le plus haut atout s'il y en a, ou par la plus haute carte de la couleur entamée s'il n'y a pas d'atout. Le gagnant entame le pli suivant. Chaque pli remporté marque +25 points.
 
-Loteryjka (little lottery). This is a game of Fan Tan. The object is to get rid of your cards as soon as possible by playing them to a 13x4 layout in which the cards of each suit are arranged in the order A-2-3-4-5-6-7-8-9-10-J-Q-K. The possible plays are:
+Loteryjka (petite loterie). C'est un jeu de Fan Tan. Le but est de se débarrasser de ses cartes le plus vite possible en les jouant sur une disposition de 13×4 dans laquelle les cartes de chaque couleur sont rangées dans l'ordre A-2-3-4-5-6-7-8-9-10-V-D-R. Les coups possibles sont :
 
-- The seven of a suit that has not yet been played.
+- Le sept d'une couleur qui n'a pas encore été jouée.
 
-- The next higher or lower card of a suit that has already been played.
+- La carte suivante, immédiatement supérieure ou inférieure, d'une couleur qui a déjà été jouée.
 
-The dealer begins, and play continues clockwise. At your turn you must add one card to the layout if you are able to. If you have no playable card you pass. Therefore the dealer must begin with a 7 if he or she has one. After the first 7 has been played, the next player must either add the 6 or 8 of that suit beside it or begin a new suit by playing another 7 below it. Once the 8 of a suit has been played the 9 becomes playable, and so on. The first player to run out of cards scores +800 points. The others continue playing and the second to run out of cards scores +500 points.
+Le donneur commence, et le jeu continue dans le sens horaire. À votre tour, vous devez ajouter une carte à la disposition si vous le pouvez. Si vous n'avez pas de carte jouable, vous passez. Le donneur doit donc commencer par un 7 s'il en a un. Après qu'un premier 7 a été joué, le joueur suivant doit soit ajouter le 6 ou le 8 de cette couleur à côté, soit commencer une nouvelle couleur en jouant un autre 7 en dessous. Une fois le 8 d'une couleur joué, le 9 devient jouable, et ainsi de suite. Le premier joueur à se débarrasser de toutes ses cartes marque +800 points. Les autres continuent à jouer et le deuxième à se débarrasser de ses cartes marque +500 points.
 
-The total score for the four trump games is 1300 (25*13*4), and there is another 1300 for the Loteryjka. These 2600 positive points balance the 2600 negative points from the first seven deals, so at the end of the whole game (12 deals), the sum of the four players' scores should be zero.
+Le score total des quatre jeux d'atout est de 1300 (25×13×4), et il y a encore 1300 pour la Loteryjka. Ces 2600 points positifs équilibrent les 2600 points négatifs des sept premières donnes, de sorte qu'à la fin du jeu complet (12 donnes), la somme des scores des quatre joueurs devrait être zéro.
 
-If you wish to play for money, the final positive and negative scores of the players can be converted to gains and losses at a rate agreed in advance.
+Si vous souhaitez jouer pour de l'argent, les scores positifs et négatifs finaux des joueurs peuvent être convertis en gains et pertes à un taux convenu à l'avance.
 
-## Three-player game
+## Jeu à trois joueurs
 
-When three people play, the 2 of clubs is removed leaving 51 cards, and 17 cards are dealt to each player. The scores and rules in some of the deals need to be adjusted.
+Quand trois personnes jouent, le 2 de ![trèfle] est retiré, laissant 51 cartes, et 17 cartes sont distribuées à chaque joueur. Les scores et règles de certaines donnes doivent être ajustés.
 
-- In deal 1: Bez lew (no tricks), each trick is worth -15 points.
+- Dans la donne 1 : Bez lew (pas de plis), chaque pli vaut -15 points.
 
-- In deal 5, the king of cards is worth -140 points.
+- Dans la donne 5, le roi de ![cœur] vaut -140 points.
 
-- In deal 6, the two penalty tricks are worth -70 points each.
+- Dans la donne 6, les deux plis pénalisants valent -70 points chacun.
 
-- There are three trump deals, and the dealer is allowed to look as six cards (rather than five) before choosing the trump suit.
+- Il y a trois donnes d'atout, et le donneur est autorisé à regarder six cartes (au lieu de cinq) avant de choisir la couleur d'atout.
 
-- In Loteryjka the winner scores +790 points and the second player scores +485 points.
+- Dans la Loteryjka, le gagnant marque +790 points et le deuxième joueur +485 points.
 
-This results in a total of 2550 (2*1275) penalty points in the negative games. There will be three trump deals each with 17 tricks for a total of 51*25 = 1275 points, and the value of the Loteryjka is also 1275 (790+485) to balance the scores.
+Cela donne un total de 2550 (2×1275) points de pénalité dans les jeux négatifs. Il y aura trois donnes d'atout avec chacune 17 plis pour un total de 51×25 = 1275 points, et la valeur de la Loteryjka est aussi de 1275 (790+485) pour équilibrer les scores.
 
-## Variations
+## Variantes
 
-There are many variations in the exact sequences of games that are played and the scores. The scores should always be chosen so that the totals for the negative and positive games cancel, so that the players' scores balance at the end.
+Il existe de nombreuses variantes dans les séquences exactes de jeux et les scores. Les scores doivent toujours être choisis pour que les totaux des jeux négatifs et positifs s'annulent, de sorte que les scores des joueurs s'équilibrent à la fin.
 
-Some play that in deal 5, "no king of hearts", the king must be discarded in the first trick to which its holder cannot follow suit. You cannot wait and try to give it to a player of your choice.
+Certains jouent que dans la donne 5, « pas de roi de cœurs », le roi doit être défaussé au premier pli où son détenteur ne peut pas suivre. Vous ne pouvez pas attendre et essayer de le donner au joueur de votre choix.
 
-There are several variants of deal 6. 
+Il existe plusieurs variantes de la donne 6.
 
-- -150 for the last trick only
+- -150 pour le dernier pli uniquement
 
-- -75 each for the last two tricks
+- -75 chacun pour les deux derniers plis
 
-- -75 each for the 3rd and 7th tricks
+- -75 chacun pour les 3e et 7e plis
 
-- -75 each for the 3rd and 8th tricks
+- -75 chacun pour les 3e et 8e plis
 
-- -50 each for the first, fourth(?) and last tricks
+- -50 chacun pour le premier, le quatrième(?) et le dernier pli
 
-(With three players the deal 6 scores of -150 and -75 are reduced to -140 or -70, and if there are three penalty tricks their scores would need to be something like -45, -45 and -50 to add up to 140.)
+(Avec trois joueurs, les scores de la donne 6 de -150 et -75 sont réduits à -140 ou -70, et s'il y a trois plis pénalisants, leurs scores devraient être quelque chose comme -45, -45 et -50 pour totaliser 140.)
 
-The last negative deal rozbójnik is also sometimes known as "grą z rozbójnikiem", "wariatem" or "lokomotywą". This deal can be omitted altogether: this can be balanced by omitting Loteryjka from the positive games. This reduces the element of luck by removing two games which can cause large unpredictable swings in scores.
+La dernière donne négative, rozbójnik, est aussi parfois appelée « grą z rozbójnikiem », « wariatem » ou « lokomotywą ». Cette donne peut être omise complètement : cela peut être équilibré en omettant la Loteryjka des jeux positifs. Cela réduit l'élément de chance en supprimant deux jeux qui peuvent causer des fluctuations importantes et imprévisibles dans les scores.
 
-For the positive games, some play 4 deals with trumps and one deal with no trumps, counting 20 per trick to make a total of 1300 points in a four-player game.
+Pour les jeux positifs, certains jouent 4 donnes avec atout et une donne sans atout, comptant 20 par pli pour un total de 1300 points dans un jeu à quatre joueurs.
 
-Some play that in the trump games it is the player to dealer's left who chooses trumps and leads to the first trick.
+Certains jouent que dans les jeux d'atout, c'est le joueur à la gauche du donneur qui choisit les atouts et entame le premier pli.
 
-Some play that in the games "no hearts" and "no king of hearts", it is illegal to lead hearts unless you have nothing else.
+Certains jouent que dans les jeux « pas de cœurs » et « pas de roi de cœurs », il est interdit d'entamer des cœurs sauf si vous n'avez rien d'autre.
 
-In Loteryjka, some play, that the dealer can choose the rank of the starting card, which need not necessarily be 7. All suits must be started with a card of this rank and built up to ace and down to two. It is sometimes be skilful for the dealer to choose a rank that he does not hold, and begin by passing.
+Dans la Loteryjka, certains jouent que le donneur peut choisir le rang de la carte de départ, qui n'est pas nécessairement le 7. Toutes les couleurs doivent commencer avec une carte de ce rang et monter jusqu'à l'as et descendre jusqu'au deux. Il peut être habile pour le donneur de choisir un rang qu'il ne détient pas, et de commencer en passant.
 
-Some play four Loteryjka deals rather than one in a four-player game. The winner scores 200 points and the second-placed player 125 points for each. In a three-player game, three Lotreryjka deals can be played with the winner scoring 250 and the second player 175.
+Certains jouent quatre donnes de Loteryjka plutôt qu'une dans un jeu à quatre joueurs. Le gagnant marque 200 points et le deuxième joueur 125 points pour chacune. Dans un jeu à trois joueurs, trois donnes de Loteryjka peuvent être jouées avec le gagnant marquant 250 et le deuxième 175.
 
-Some play a version of the trump games in which just 12 cards are dealt to each player and the last four cards are placed face up on the table. The dealer has the right to take these four cards into hand, give one card face down to each of the other players and choose trumps. However, before he does this, the other players in turn, beginning to dealer's left, can offer dealer a number of points to be allowed to take over the dealer's role of picking up the extra cards, distributing an unwanted card to each opponent and choosing trumps. The dealer can, if he wishes, say how many points he would be prepared to accept. If more than one other player wants to buy the dealer's right, there is an auction between them. At the end of this the dealer can accept the highest offer, or decline it and take the four cards himself. If an offer was accepted, the hand is scored in the usual way (25 points per trick), but the number of points offered is subtracted from the score of the player who made the offer and added to the dealer's score. Example: North deals and accepts an offer of 125 points from West. North takes 2 tricks, East 1, South 4, West 6. North score 175 (50+125), East scores 25, South 100, West 25 (150-125). The player who offers points can have a negative score for the hand, if he does not take enough tricks to pay for his offer.
+Certains jouent une version des jeux d'atout dans laquelle seules 12 cartes sont distribuées à chaque joueur et les quatre dernières cartes sont placées face ouverte sur la table. Le donneur a le droit de prendre ces quatre cartes en main, de donner une carte face cachée à chacun des autres joueurs et de choisir les atouts. Cependant, avant de le faire, les autres joueurs à tour de rôle, en commençant par la gauche du donneur, peuvent offrir au donneur un certain nombre de points pour être autorisés à prendre le rôle du donneur : ramasser les cartes supplémentaires, distribuer une carte non souhaitée à chaque adversaire et choisir les atouts. Le donneur peut, s'il le souhaite, dire combien de points il serait prêt à accepter. Si plus d'un autre joueur veut acheter le droit du donneur, il y a une enchère entre eux. Au terme de celle-ci, le donneur peut accepter l'offre la plus élevée ou la refuser et prendre les quatre cartes lui-même. Si une offre a été acceptée, la main est comptée de la manière habituelle (25 points par pli), mais le nombre de points offert est soustrait du score du joueur qui a fait l'offre et ajouté au score du donneur. Exemple : Nord distribue et accepte une offre de 125 points de l'Ouest. Nord prend 2 plis, Est 1, Sud 4, Ouest 6. Le score de Nord est de 175 (50+125), Est de 25, Sud de 100, Ouest de 25 (150-125). Le joueur qui offre des points peut avoir un score négatif pour la main, s'il ne prend pas assez de plis pour payer son offre.
 
-There are many alternative scoring schemes. Here are some examples:
+Il existe de nombreux barèmes de comptage alternatifs. Voici quelques exemples :
 
-| Deal | Variation 1 | Variation 2 | Variation 3 | Variation 4 |
-| No tricks | -2 | -n | -3 | -10 |
-| No hearts | -2 | -4 | -3 | -20 |
-| No girls | -5 | -13 | .. | -80 |
-| No boys | -3 | -6 | -4 | -40 |
-| No heart king | -16 | -52 | -20 | -320 |
-| No 7th and last | -9 | .. | -13 | -160 |
-| Trumps | +10 | .. | +3 | +50 |
-| Lottery | .. | 100/50/0/-50 | .. | 300/200/100/0 |
+| Donne | Variation 1 | Variation 2 | Variation 3 | Variation 4 |
+| Pas de plis | -2 | -n | -3 | -10 |
+| Pas de cœurs | -2 | -4 | -3 | -20 |
+| Pas de dames | -5 | -13 | .. | -80 |
+| Pas de messieurs | -3 | -6 | -4 | -40 |
+| Pas de roi de ![cœur] | -16 | -52 | -20 | -320 |
+| Pas de 7e et dernier | -9 | .. | -13 | -160 |
+| Atouts | +10 | .. | +3 | +50 |
+| Loterie | .. | 100/50/0/-50 | .. | 300/200/100/0 |
 
-In variation 1, which I played in Warsaw in 1981, the game consisted just of 4 deals of bandit (all negative scores together, total 130) followed by 4 positive deals of trumps (or no trumps). In bandit, the 9 point penalties were for the last two tricks, not the 7th and last. All scores were doubled if one player took no tricks, trebled if two players took no tricks, but if one player took all the tricks, that player scored nothing while the others scored -130 each. In trumps the scores were multiplied by 2, 3 or 4 if 1, 2 or 3 players took no trick. The player to dealer's left (forehand) chose a trump suit (or no trump) based on his whole hand and led to the first trick. Before forehand announced his choice, any other player could bid to take over the right to choose trumps in exchange for a number of tricks transferred to forehand. If more than one player wanted to do this they would bid against each other in rotation, and forehand could then choose whether to accept or reject the highest bid. Players had to trump when unable to follow suit and to beat cards already played to the trick when possible. For each hand where someone took no tricks, extra hands of the opposite type had to be played to balance the scores. In these extra games, the player who took no tricks before (or all the tricks in a bandit) would be forehand for the balancing positive game(s).
+Dans la variation 1, que j'ai jouée à Varsovie en 1981, le jeu se composait de seulement 4 donnes de bandit (tous les scores négatifs ensemble, total 130) suivies de 4 donnes positives d'atout (ou sans atout). Dans le bandit, les pénalités de 9 points étaient pour les deux derniers plis, et non le 7e et le dernier. Tous les scores étaient doublés si un joueur ne prenait aucun pli, triplés si deux joueurs n'en prenaient aucun, mais si un joueur prenait tous les plis, celui-ci ne marquait rien tandis que les autres marquaient -130 chacun. Dans les atouts, les scores étaient multipliés par 2, 3 ou 4 si 1, 2 ou 3 joueurs ne prenaient aucun pli. Le joueur à la gauche du donneur (en première position) choisissait une couleur d'atout (ou sans atout) en fonction de toute sa main et entamait le premier pli. Avant que la première position n'annonce son choix, n'importe quel autre joueur pouvait enchérir pour reprendre le droit de choisir les atouts en échange d'un certain nombre de plis transférés à la première position. Si plus d'un joueur souhaitait le faire, ils enchérissaient à tour de rôle, et la première position pouvait alors choisir d'accepter ou de rejeter l'enchère la plus élevée. Les joueurs devaient couper quand ils ne pouvaient pas suivre et battre les cartes déjà jouées dans le pli quand c'était possible. Pour chaque main où quelqu'un ne prenait aucun pli, des mains supplémentaires du type opposé devaient être jouées pour équilibrer les scores. Dans ces jeux supplémentaires, le joueur qui n'avait pris aucun pli (ou tous les plis dans un bandit) serait en première position pour le(s) jeu(x) positif(s) d'équilibrage.
 
-In variation 2, reported by Lucia Wilford under the name "Polish Hearts", there can be 3-5 players, and the number of points per trick in the first deal equals the number of players. With three players the ![club](../images/internat/club.gif)2 is removed and with five players the ![club](../images/internat/club.gif)2 and ![diamond](../images/internat/diamond.gif)2. The first five deals are worth 254-256 points depending on the number of players. Then a game of bandit is played, also worth 254-256 points. Finally there are three hands of lottery (here called "parliament") contributing 100 points each, so the scores do not sum to zero in this variation.
+Dans la variation 2, rapportée par Lucia Wilford sous le nom de « Polish Hearts », on peut jouer à 3-5 joueurs, et le nombre de points par pli dans la première donne est égal au nombre de joueurs. Avec trois joueurs, le 2 de ![trèfle] est retiré, et avec cinq joueurs le 2 de ![trèfle] et le 2 de ![carreau]. Les cinq premières donnes valent 254-256 points selon le nombre de joueurs. Ensuite, une donne de bandit est jouée, valant aussi 254-256 points. Enfin, il y a trois mains de loterie (ici appelées « parlement ») contribuant 100 points chacune, de sorte que les scores ne s'additionnent pas à zéro dans cette variation.
 
-Variation 3 is reported by Dave George to have been played in RAF Transport Command during the 1960s. The negative part has five deals, without "no ladies" and without bandit, for a total of -156. In the fourth deal the 52-point penalty in this version is for the queen of spades, not the king of hearts. The negative games are balanced by four positive games - there is no lottery. If the positive games each of the four players is dealt 12 cards, and the player to dealer's left adds the remaining "box" of four cards, and discards any three cards, which are passed face down to the other players before announcing trumps.
+La variation 3, rapportée par Dave George, aurait été jouée au RAF Transport Command dans les années 1960. La partie négative comprend cinq donnes, sans « pas de dames » et sans bandit, pour un total de -156. Dans la quatrième donne, la pénalité de 52 points dans cette version est pour la dame de ![pique], et non le roi de ![cœur]. Les jeux négatifs sont équilibrés par quatre jeux positifs — il n'y a pas de loterie. Dans les jeux positifs, les 12 cartes de chaque joueur sont distribuées, et le joueur à la gauche du donneur ajoute les « château » de quatre cartes restantes et se défausse de trois cartes, qui sont passées face cachée aux autres joueurs avant d'annoncer les atouts.
 
-Variation 4, reported by Zbyszek Zdanowicz under the name "robber" (Rozbój) can be played by 3-5 players. The order of deals 3 and 4 are reversed ("no boys" before "no girls") and the order of 5 and 6 is also reversed ("no 7th and last" before "no heart king"). Deal 7 is "robber", combining all the scores for deals 1-6. The scores for lottery, here called "the race", are 200/100/0 if there are three players, and 400/300/200/100/0 if there are 5 players. The scores do not add up to zero in this variation.
+La variation 4, rapportée par Zbyszek Zdanowicz sous le nom de « voleur » (Rozbój), peut se jouer à 3-5 joueurs. L'ordre des donnes 3 et 4 est inversé (« pas de messieurs » avant « pas de dames ») et l'ordre de 5 et 6 est aussi inversé (« pas de 7e et dernier » avant « pas de roi de cœurs »). La donne 7 est « bandit », combinant tous les scores des donnes 1 à 6. Les scores de la loterie, ici appelée « la course », sont de 200/100/0 s'il y a trois joueurs, et 400/300/200/100/0 s'il y a 5 joueurs. Les scores ne s'additionnent pas à zéro dans cette variation.
 
-## Kierki software and online games
+## Logiciel et jeux en ligne Kierki
 
-On line Kierki is available at [PlayOK](https://www.playok.com/en/barbu/) (formerly known as Kurnik) (where it is listed as "barbu-king")
-
-Home Page > Classified Index > Compendium Games > Kierki
+Kierki en ligne est disponible sur [PlayOK](https://www.playok.com/en/barbu/) (anciennement connu sous le nom de Kurnik) (où il est répertorié comme « barbu-king »).

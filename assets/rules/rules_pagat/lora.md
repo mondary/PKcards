@@ -2,223 +2,221 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** The Croatian game Lora and the similar Hungarian game Lórum.
-**Autres noms :** Lórum is described on, Hassan Murteza
+**But :** Le jeu croate Lora et le jeu hongrois apparenté Lórum.
+**Autres noms :** Lórum, Hassan Murteza
 
 ---
 
-*This page is based on information from Petar Đorđević, Ivan Gaj, Lovro NJavro, Áron Csathó, Vladimir Radulovitch Dowllah and Martin Tompa.*
+*Cette page est basée sur des informations de Petar Đorđević, Ivan Gaj, Lovro Njavro, Áron Csathó, Vladimir Radulovitch Dowllah et Martin Tompa.*
 
 - Introduction
 
-- Players and Cards
+- Joueurs et cartes
 
 ## Introduction
 
-**Lora** is a popular compendium game played in Serbia and Croatia. A very similar game Lórum, played in Hungary is also described on this page. A more distantly related game played in Slovakia and also known as Lórum is described on a separate page.
+**Lora** est un jeu à contrats populaire joué en Serbie et en Croatie. Un jeu très similaire, le Lórum, joué en Hongrie, est également décrit sur cette page. Un jeu plus lointain apparenté, joué en Slovaquie et également connu sous le nom de Lórum, est décrit sur une page séparée.
 
-First, a typical version of Serbian Lora will be described. Like many compendium games it consists of a series of deals in which different sub-games or contracts are played, each with their own objectives and scoring. Most are trick-taking games in which the aim is to take or to avoid certain tricks or cards, but one is a game of a different type in which the aim is to get rid of cards by playing them to a layout.
+D'abord, une version typique du Lora serbe sera décrite. Comme beaucoup de jeux à contrats, il se compose d'une série de donnes dans lesquelles différents sous-jeux ou contrats sont joués, chacun avec ses propres objectifs et son propre comptage. La plupart sont des jeux de plis dans lesquels le but est de remporter ou d'éviter certains plis ou cartes, mais l'un est un jeu d'un type différent dans lequel le but est de se débarrasser des cartes en les jouant sur une disposition.
 
-This game has numerous variants. There are versions with different selections of contracts. The scoring of the contracts varies as does the order in which they are played, which may either be fixed or chosen by the players according to their cards.
+Ce jeu a de nombreuses variantes. Il existe des versions avec différentes sélections de contrats. Le comptage des contrats varie, ainsi que l'ordre dans lequel ils sont joués, qui peut être fixe ou choisi par les joueurs en fonction de leurs cartes.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-Lora is normally played by four players, everyone playing for themselves. A three-player game is also possible but less satisfactory. The deal and play are counterclockwise.
+Lora se joue normalement à quatre joueurs, chacun pour soi. Un jeu à trois joueurs est aussi possible mais moins satisfaisant. La donne et le jeu se font dans le sens antihoraire.
 
-A 32-card pack is used, the cards in each suit ranking from high to low A K Q J 10 9 8 7. In Serbia and Croatia French suited cards are used with suits of hearts, diamonds, clubs and spades. The equivalent Hungarian game Lórum is played with German suited cards with suits of hearts, gourds (bells), acorns and leaves.
+On utilise un jeu de 32 cartes, les cartes de chaque couleur se classant de haut en bas A R D V 10 9 8 7. En Serbie et en Croatie, on utilise des cartes à couleurs françaises avec des ![cœur], ![carreau], ![trèfle] et ![pique]. Le jeu hongrois apparenté Lórum se joue avec des cartes à couleurs allemandes avec des cœurs, gourdes (cloches), glands et feuilles.
 
-The goal is to be the player with the least points at the end of the game.
+Le but est d'être le joueur avec le moins de points à la fin du jeu.
 
-## General Procedure
+## Procédure générale
 
-The game has a number of contracts with different objectives - the typical version described first has seven such contracts. During a game each contract must be played once with each player dealing. So our typical 4-player game consists of 28 deals, 7 by each dealer.
+Le jeu comprend un certain nombre de contrats avec différents objectifs — la version typique décrite en premier comporte sept contrats. Pendant un jeu, chaque contrat doit être joué une fois avec chaque joueur distribuant. Ainsi, notre jeu typique à 4 joueurs comprend 28 donnes, 7 par donneur.
 
-In the basic game the contracts are played in a fixed sequence, but there is a popular variant in which players can choose the order in which the contracts are played, based on the cards they are dealt. This version is described later. 
+Dans le jeu de base, les contrats sont joués dans un ordre fixe, mais il existe une variante populaire dans laquelle les joueurs peuvent choisir l'ordre dans lequel les contrats sont joués, en fonction des cartes qui leur ont été distribuées. Cette version est décrite plus tard.
 
-The first dealer is chosen at random. The cards are shuffled by the dealer, cut by the player to the dealers left, and then dealt singly until all cards are dealt out and everyone has 8. 
+Le premier donneur est choisi au hasard. Les cartes sont mélangées par le donneur, coupées par le joueur à la gauche du donneur, puis distribuées une à une jusqu'à ce que toutes les cartes soient distribuées et que chacun ait 8 cartes.
 
-Each player deals 7 times in succession, once per contract, after which the turn to deal passes to the right, for a total of 28 deals.
+Chaque joueur distribue 7 fois de suite, une fois par contrat, après quoi le tour de distribuer passe à la droite, pour un total de 28 donnes.
 
-## Contracts and Scoring
+## Contrats et comptage
 
-Most of the contracts involve taking tricks. In the these contracts the rules of play are as follows.
+La plupart des contrats impliquent de remporter des plis. Dans ces contrats, les règles du jeu sont les suivantes.
 
-- The player to dealer's right leads to the first trick. Thereafter the winner of each trick leads to the next.
+- Le joueur à la droite du donneur entame le premier pli. Ensuite, le gagnant de chaque pli entame le suivant.
 
-- Any card may be led.
+- N'importe quelle carte peut être entamée.
 
-- The other three players must follow suit if they can. Those unable to follow suit may play any card.
+- Les trois autres joueurs doivent suivre la couleur s'ils le peuvent. Ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte.
 
-- The highest card of the suit led wins the trick. There are no trumps.
+- La plus haute carte de la couleur entamée remporte le pli. Il n'y a pas d'atout.
 
-The seven contracts are as follows (with their Serbian names in brackets). Note that all the points are penalty points - positive scores are bad and negative scores are good.
+Les sept contrats sont les suivants (avec leurs noms serbes entre parenthèses). À noter que tous les points sont des points de pénalité — les scores positifs sont mauvais et les scores négatifs sont bons.
 
-1. Minimum (Minimum/Минимум or Što manje/Што мање)
-The objective is to avoid winning tricks. Each trick scores +1 point. (*Što manje* translates as 'fewer'.)
-2. Maximum (Maksimum/Максимум or Što više/Што више)
-The objective is to win tricks. Each trick scores -1 point. (Što više translates as 'more'.)
-3. Queens (Dame/Даме)
-The objective is to avoid winning tricks that contain Queens. Each Queen in a player's tricks is worth +2 points. (In Serbian as in most European languages, playing-cards Queens are called Ladies - *Dame*. The contract can also be called *Dame ne/Даме не* = 'no ladies').
-4. Hearts (Srca/Срца or Herc/Херц)
-The objective is to avoid winning tricks that contain hearts, or to win all the hearts. Each heart in a player's tricks is worth +1 point, unless one player takes all the hearts, in which case that player scores -8 points. (*Srca* is the normal Serbian word for 'heart' while *Herc* is derived for the German word *Herz *= heart and is used only for playing-card hearts.)
-5. Jack of Clubs (Žandar tref/Жандар треф)
-The only objective is to avoid winning the trick that contains the Jack of clubs. Whoever takes this card scores +8 points.
-6. King of Hearts and Last Trick (Kralj srce i zadnja ruka/Краљ срце и задња рука)
-The objective is to avoid winning the trick that contains the King of hearts and to avoid winning the last trick. Whoever takes the King of hearts score +4 points and whoever wins the last trick scores +4 points. Therefore if the King of hearts is played in the last trick the winner of that trick scores +8 points in total. (The King of hearts can also be called *Pop erac* - *pop* means priest and erac is an alternative version of *herc* = heart.)
-7. Lora (Lora/Лора or Ređanje/Ређање)
-This is not a trick taking contract, but a relative of Fan Tan in which players try to get rid of their cards by playing them to a layout, which consists of four piles of cards, one pile for each suit. However, unlike FanTan and the equivalent contracts in other compendium games, in Lora the cards are played only in **upward** sequence, 7 counting as the next higher card above Ace. The player to dealer's right begins by laying down any card. The rank of this card determines the starting rank in all four suits. Play continues counterclockwise, and each player in turn **must** if possible add a card to the layout - either a card of the starting rank in a new suit or the next higher card in a suit that has already been begun. So for example if the first card played is the 9 of spades, the cards in every suit must be played in the order 9-10-J-Q-K-A-7-8. A player who has no legal card to play simply passes and it is the next player's turn to play a card. The play continues until a player runs out of cards. This player scores -8 points and each of the other players scores +1 point for each card remaining in their hands. (The alternative name *Ređanje* means placed in order.) 
+1. Minimum (Minimum/Минимум ou Što manje/Што мање)
+Le but est d'éviter de remporter des plis. Chaque pli marque +1 point. (*Što manje* se traduit par « moins ».)
+2. Maximum (Maksimum/Максимум ou Što više/Што више)
+Le but est de remporter des plis. Chaque pli marque -1 point. (*Što više* se traduit par « plus ».)
+3. Dames (Dame/Даме)
+Le but est d'éviter de remporter des plis contenant des Dames. Chaque Dame dans les plis d'un joueur vaut +2 points. (En serbe comme dans la plupart des langues européennes, les Dames des cartes à jouer sont appelées Ladies — *Dame*. Le contrat peut aussi être appelé *Dame ne/Даме не* = « pas de dames ».)
+4. Cœurs (Srca/Срца ou Herc/Херц)
+Le but est d'éviter de remporter des plis contenant des ![cœur], ou de remporter tous les cœurs. Chaque ![cœur] dans les plis d'un joueur vaut +1 point, sauf si un joueur prend tous les cœurs, auquel cas ce joueur marque -8 points. (*Srca* est le mot serbe normal pour « cœur » tandis que *Herc* est dérivé du mot allemand *Herz* = cœur et n'est utilisé que pour les cœurs des cartes à jouer.)
+5. Valet de ![trèfle] (Žandar tref/Жандар треф)
+Le seul objectif est d'éviter de remporter le pli contenant le Valet de ![trèfle]. Celui qui prend cette carte marque +8 points.
+6. Roi de ![cœur] et dernier pli (Kralj srce i zadnja ruka/Краљ срце и задња рука)
+Le but est d'éviter de remporter le pli contenant le Roi de ![cœur] et d'éviter de remporter le dernier pli. Celui qui prend le Roi de ![cœur] marque +4 points et celui qui remporte le dernier pli marque +4 points. Par conséquent, si le Roi de ![cœur] est joué dans le dernier pli, le gagnant de ce pli marque +8 points au total. (Le Roi de ![cœur] peut aussi être appelé *Pop erac* — *pop* signifie prêtre et erac est une variante de *herc* = cœur.)
+7. Lora (Lora/Лора ou Ređanje/Ређање)
+Ce n'est pas un contrat de plis, mais un parent du Fan Tan dans lequel les joueurs cherchent à se débarrasser de leurs cartes en les jouant sur une disposition composée de quatre tas, un tas par couleur. Cependant, contrairement au Fan Tan et aux contrats équivalents dans d'autres jeux à contrats, dans le Lora les cartes ne sont jouées qu'en séquence **ascendante**, le 7 comptant comme la carte immédiatement supérieure à l'As. Le joueur à la droite du donneur commence en posant n'importe quelle carte. Le rang de cette carte détermine le rang de départ dans les quatre couleurs. Le jeu continue dans le sens antihoraire, et chaque joueur à son tour **doit**, si possible, ajouter une carte à la disposition — soit une carte du rang de départ dans une nouvelle couleur, soit la carte de rang immédiatement supérieur dans une couleur déjà commencée. Ainsi, par exemple, si la première carte jouée est le 9 de ![pique], les cartes de chaque couleur doivent être jouées dans l'ordre 9-10-V-D-R-A-7-8. Un joueur qui n'a pas de carte légale à jouer passe simplement et c'est au joueur suivant de jouer une carte. Le jeu continue jusqu'à ce qu'un joueur n'ait plus de cartes. Ce joueur marque -8 points et chacun des autres joueurs marque +1 point pour chaque carte restant dans sa main. (Le nom alternatif *Ređanje* signifie « rangé ».)
 
-At the end of each contract the points earned are added to the previously earned ones, that is the scores are kept cumulatively. At the end of the game, the player with the least points is the winner.
+À la fin de chaque contrat, les points gagnés sont ajoutés aux points précédemment gagnés, c'est-à-dire que les scores sont tenus de manière cumulative. À la fin du jeu, le joueur ayant le moins de points est le gagnant.
 
-## Variants
+## Variantes
 
-### Choice of contract
+### Choix du contrat
 
-In this popular variation, instead of playing the contracts in a fixed order, the starting player, after looking at his or her cards, decides which contract to play and announces it. Each starting player must choose each contract once, and having done so cannot choose the same contract again. So as the game progresses the choice becomes more limited, until finally the starting player has no option and must play the one remaining contract.
+Dans cette variante populaire, au lieu de jouer les contrats dans un ordre fixe, le joueur de départ, après avoir regardé ses cartes, décide du contrat à jouer et l'annonce. Chaque joueur de départ doit choisir chaque contrat une fois, et une fois fait, ne peut plus choisir le même contrat. Ainsi, au fil du jeu, le choix devient plus limité, jusqu'à ce que finalement le joueur de départ n'ait d'autre option que de jouer le contrat restant.
 
-In this version of the game, sometimes the players deal in turn, rather than the same player dealing seven times in a row. There are still 28 deals in total, but the players take turns to choose contracts, each starting player choosing each contract once. 
+Dans cette version du jeu, parfois les joueurs distribuent à tour de rôle, plutôt que le même joueur distribuant sept fois de suite. Il y a toujours 28 donnes au total, mais les joueurs se relaient pour choisir les contrats, chaque joueur de départ choisissant chaque contrat une fois.
 
-### Extra contract
+### Contrat supplémentaire
 
-When playing the variant with choice of contract, some players end with four extra deals, one by each player, in which the starting player can choose to play any one of the contracts a second time.
+En jouant la variante avec choix de contrat, certains joueurs terminent avec quatre donnes supplémentaires, une par joueur, dans lesquelles le joueur de départ peut choisir de rejouer n'importe lequel des contrats une deuxième fois.
 
-### Small lora
+### Petit lora
 
-Some players prefer to omit certain contracts. Usually the omitted contract is the Jack of Clubs because of its high value, but the omitted contracts vary from place to place.
+Certains joueurs préfèrent omettre certains contrats. Généralement, le contrat omis est le Valet de ![trèfle] en raison de sa forte valeur, mais les contrats omis varient d'un endroit à l'autre.
 
-### King of Hearts and 6th trick
+### Roi de ![cœur] et 6e pli
 
-In this variation the King of Hearts and last trick contract is replaced by the King of Hearts and 6th trick contract. Players try to avoid taking the King of Hearts and winning the 6th trick, each being worth +4 points.
+Dans cette variante, le contrat Roi de ![cœur] et dernier pli est remplacé par le contrat Roi de ![cœur] et 6e pli. Les joueurs cherchent à éviter de prendre le Roi de ![cœur] et de remporter le 6e pli, chacun valant +4 points.
 
-### Dealing in batches
+### Distribution par lots
 
-Some play that if the player to the dealers left decides not to cut the cards, the cards are dealt in batches of 8.
+Certains jouent que si le joueur à la gauche du donneur décide de ne pas couper les cartes, les cartes sont distribuées par lots de 8.
 
-### Pass in Lora costs one point
+### Passer au Lora coûte un point
 
-In the Lora contract, in addition to the -8 for the player who runs out of cards and the points for cards remaining in players' hands at the end, each time a player passes they score +1 point.
+Dans le contrat Lora, en plus des -8 pour le joueur qui n'a plus de cartes et des points pour les cartes restant en main des joueurs à la fin, chaque fois qu'un joueur passe il marque +1 point.
 
-### Jack of Clubs
+### Valet de ![trèfle]
 
-Some play this as a team game in which the players sitting opposite try to help each other. The player who takes the Jack of Clubs scores +6 points and the player sitting opposite scores +2 points.
+Certains jouent ceci en tant que jeu d'équipe dans lequel les joueurs assis en face s'entraident. Le joueur qui prend le Valet de ![trèfle] marque +6 points et le joueur assis en face marque +2 points.
 
-### Libyan variant
+### Variante libyenne
 
-Ivan Gaj and Henry Ottenkof describe a version played by Serbian expats working for the oil industry in Libya. The whole game is played clockwise, and there are eight contracts:
+Ivan Gaj et Henry Ottenkof décrivent une version jouée par des expatriés serbes travaillant pour l'industrie pétrolière en Libye. Le jeu entier se joue dans le sens horaire, et il y a huit contrats :
 
-- **Hearts** - as above: +1 point for each heart taken, or if one player who takes all 8 hearts -8 for that player
+- **Cœurs** — comme ci-dessus : +1 point pour chaque ![cœur] pris, ou si un joueur prend les 8 ![cœur] -8 pour ce joueur
 
-- **King of Hearts**: +8 points for the player who wins the King of Hearts
+- **Roi de ![cœur]** : +8 points pour le joueur qui remporte le Roi de ![cœur]
 
-- **Queens**: +2 points for each Queen taken, or if one player who takes all four Queens -8 for that player
+- **Dames** : +2 points pour chaque Dame prise, ou si un joueur prend les quatre Dames -8 pour ce joueur
 
-- **Jack of Clubs**: the player to the **left** of the player who takes the Jack of clubs scores +8 (since play is clockwise this is the player whose turn comes immediately after the one who took the **![club](../images/internat/club.gif)J**).
+- **Valet de ![trèfle]** : le joueur à la **gauche** du joueur qui prend le Valet de ![trèfle] marque +8 (puisque le jeu est horaire, c'est le joueur dont le tour vient immédiatement après celui qui a pris le V de ![trèfle]).
 
-- **Sixth Trick**: +8 points for the player who wins the 6th trick
+- **Sixième pli** : +8 points pour le joueur qui remporte le 6e pli
 
-- **Tricks**: +1 point for each trick won, or if the same player wins all 8 tricks -8 for that player
+- **Plis** : +1 point pour chaque pli remporté, ou si le même joueur remporte les 8 plis -8 pour ce joueur
 
-- **Two players**: If two players win 3 or more tricks each, the other two players score +4 points each. If there are not two players with 3 or more tricks the cards shuffled and redealt and the same contract is played again. If after three attempts there is still no result, the dealer scores +8 points and the game moves on to the next contract.
+- **Deux joueurs** : Si deux joueurs remportent 3 plis ou plus chacun, les deux autres joueurs marquent +4 points chacun. S'il n'y a pas deux joueurs avec 3 plis ou plus, les cartes sont remélangées et redistribuées et le même contrat est rejoué. Si après trois tentatives il n'y a toujours pas de résultat, le donneur marque +8 points et le jeu passe au contrat suivant.
 
-- **Lora**: Played as described above but the player who runs out of cards scores zero while each other player scores +1 for each remaining card and +2 for each pass (recorded as a dot on the score sheet). A player who has only two cards left and plays one of them must immediately announce "last card" and place their last card face down in front of them on the table. If the last card played in Lora is the same rank as the first card all scores for Lora are doubled. For example if the first card is the 9 of hearts, and a player holding the 9 of clubs and no other clubs manages to play a card of some other suit every turn, keeping the 9 of clubs to the end and playing it as the winning card, the other players will score +2 for each remaining card and +4 for each dot.
+- **Lora** : Joué comme décrit ci-dessus, mais le joueur qui n'a plus de cartes marque zéro tandis que chaque autre joueur marque +1 pour chaque carte restante et +2 pour chaque passe (enregistré comme un point sur la feuille de score). Un joueur qui n'a plus que deux cartes et qui en joue une doit immédiatement annoncer « dernière carte » et poser sa dernière carte face cachée devant lui sur la table. Si la dernière carte jouée au Lora est du même rang que la première carte, tous les scores du Lora sont doublés. Par exemple, si la première carte est le 9 de ![cœur], et qu'un joueur détenant le 9 de ![trèfle] et aucun autre ![trèfle] parvient à jouer une carte d'une autre couleur à chaque tour, gardant le 9 de ![trèfle] jusqu'à la fin et en faisant la carte gagnante, les autres joueurs marqueront +2 pour chaque carte restante et +4 pour chaque point.
 
-There is a strict schedule of penalties:
+Il y a un barème strict de pénalités :
 
-- **+8 points** for any dealing error. The hand is redealt by the same dealer.
+- **+8 points** pour toute erreur de distribution. La main est redistribuée par le même donneur.
 
-- **+8 points** for playing out of turn, for playing two cards at once, for looking at past tricks that have been turned face down, taking someone else's trick or looking at another player's hand, for arranging card play with another player. Play ends and the next hand is dealt.
+- **+8 points** pour jouer hors tour, jouer deux cartes à la fois, regarder les plis passés qui ont été retournés face cachée, prendre le pli de quelqu'un d'autre ou regarder la main d'un autre joueur, ou organiser le jeu des cartes avec un autre joueur. Le jeu s'arrête et la main suivante est distribuée.
 
-- **+16 points** for failing to follow suit when able to. Play ends and the next hand is dealt.
+- **+16 points** pour ne pas avoir suivi alors qu'on le pouvait. Le jeu s'arrête et la main suivante est distribuée.
 
-- **+8 points** in Lora for playing on the wrong stack or failing to announce "last card" or hiding any card. The error is corrected and play continues.
+- **+8 points** au Lora pour jouer sur le mauvais tas ou ne pas avoir annoncé « dernière carte » ou cacher une carte. L'erreur est corrigée et le jeu continue.
 
-- **+32 points** in Lora for passing when able to play. Play ends and the next hand is dealt.
+- **+32 points** au Lora pour passer alors qu'on pouvait jouer. Le jeu s'arrête et la main suivante est distribuée.
 
-- **+4 points** for unduly slow play. Play continues.
+- **+4 points** pour un jeu anormalement lent. Le jeu continue.
 
-The game was sometimes played with "betting". After the deal and before the first card was played any player could make a bet, which is a prediction of their own result for the deal. No bets are allowed in contract 2 or 4. In games 1, 3 and 6 the play predicts the exact number of hearts, Queens or tricks respectively that he will take. In game 5, the bet is presumably that the player will or will not win the 6th trick. In game 7 the bet is a prediction of the exact number of tricks the player will win, and it is cancelled if there is no result, but there is a new opportunity to bet after the redeal. In game 8, the bet is a prediction of the number of dots (passes) the player will score. In each case the bettor scores -10 if the prediction is correct and +10 if not, in addition to the normal scores for the deal. Any opponent of the bettor can 'counter' the bet. In this case if the prediction is correct the bettor scores -20 and the counter-bettor +20; if not the bettor scores +20 and the counter-bettor -20. The bettor can respond to the 'counter' with a 'recounter' which doubles the score to plus or minus 40. If a Lora is ended by a card of the same rank as the start card, the bets as well as the ordinary scores for that deal are doubled.
+Le jeu était parfois joué avec des « paris ». Après la distribution et avant la première carte, n'importe quel joueur pouvait faire un pari, qui est une prédiction de son propre résultat pour la donne. Aucun pari n'est autorisé dans les contrats 2 ou 4. Dans les jeux 1, 3 et 6, le joueur prédit le nombre exact de cœurs, de Dames ou de plis qu'il prendra respectivement. Dans le jeu 5, le pari est vraisemblablement que le joueur remportera ou non le 6e pli. Dans le jeu 7, le pari est une prédiction du nombre exact de plis que le joueur remportera, et il est annulé s'il n'y a pas de résultat, mais il y a une nouvelle opportunité de parier après la redistribution. Dans le jeu 8, le pari est une prédiction du nombre de points (passes) que le joueur marquera. Dans chaque cas, le parieur marque -10 si la prédiction est correcte et +10 sinon, en plus des scores normaux de la donne. N'importe quel adversaire du parieur peut « contrer » le pari. Dans ce cas, si la prédiction est correcte, le parieur marque -20 et le contreur +20 ; sinon, le parieur marque +20 et le contreur -20. Le parieur peut répondre au « contre » par un « recontre » qui double le score à plus ou moins 40. Si un Lora se termine par une carte du même rang que la carte de départ, les paris ainsi que les scores ordinaires de cette donne sont doublés.
 
-At the end of the game (32 deals) the player with most points is the loser and pays for everyone's drinks. A player who loses three times in one day must invite the others to a barbecue. A player who scores more than 142 points is known as Hassan Murteza, presumably in memory of some particularly unsuccessful player.
+À la fin du jeu (32 donnes), le joueur avec le plus de points est le perdant et paie les boissons de tout le monde. Un joueur qui perd trois fois en une journée doit inviter les autres à un barbecue. Un joueur qui marque plus de 142 points est appelé Hassan Murteza, vraisemblablement en mémoire d'un joueur particulièrement malchanceux.
 
-A three-player game is possible. Ten cards are dealt to each player and the remaining two cards, called the **kitty**, are placed aside unseen. Unless otherwise specified below the kitty cards are given to the winner of the last trick. The rules are the same as in the four-player except for the following differences:
+Un jeu à trois joueurs est possible. Dix cartes sont distribuées à chaque joueur et les deux cartes restantes, appelées le **kitty**, sont mises de côté non vues. Sauf indication contraire ci-dessous, les cartes du kitty sont données au gagnant du dernier pli. Les règles sont les mêmes que dans le jeu à quatre, sauf pour les différences suivantes :
 
-- **Hearts.** Same as with 4 players.
+- **Cœurs.** Identique au jeu à 4 joueurs.
 
-- **King of Hearts.** If the **![heart](../images/internat/heart.gif)K** is in the kitty the game is repeated. If this happens three times in succession, the dealer scores +8 and the game moves on to the next contract.
+- **Roi de ![cœur].** Si le R de ![cœur] est dans le kitty, le jeu est rejoué. Si cela se produit trois fois de suite, le donneur marque +8 et le jeu passe au contrat suivant.
 
-- **Queens.** Queens in the kitty do not count for any player.
+- **Dames.** Les Dames dans le kitty ne comptent pour aucun joueur.
 
-- **Jack of Clubs. **If the **![club](../images/internat/club.gif)J** is in the kitty the game is repeated. If this happens three times in succession, the dealer scores +8 and the game moves on to the next contract.
+- **Valet de ![trèfle].** Si le V de ![trèfle] est dans le kitty, le jeu est rejoué. Si cela se produit trois fois de suite, le donneur marque +8 et le jeu passe au contrat suivant.
 
-- **Eighth trick.** It is the player who wins the 8th trick, not the 6th, who scores +8.
+- **Huitième pli.** C'est le joueur qui remporte le 8e pli, et non le 6e, qui marque +8.
 
-- ** Tricks.** A player who wins all 10 tricks scores -10.
+- **Plis.** Un joueur qui remporte les 10 plis marque -10.
 
-- **Two players.** If two players each win at least **four** tricks each the third player scores +8. If not, the game is repeated, and if there is no result after three attempts the dealer scores +8.
+- **Deux joueurs.** Si deux joueurs remportent **quatre** plis ou plus chacun, le troisième joueur marque +8. Sinon, le jeu est rejoué, et s'il n'y a pas de résultat après trois tentatives, le donneur marque +8.
 
-- **Lora.** The kitty is placed to the left of the dealer. It is turned face up after the first card is played, and is played in turn immediately before the dealer. If both kitty cards are playable the dealer chooses which to play. 
+- **Lora.** Le kitty est placé à la gauche du donneur. Il est retourné face ouverte après la première carte jouée, et est joué à tour de rôle juste avant le donneur. Si les deux cartes du kitty sont jouables, le donneur choisit laquelle jouer.
 
-## Lora in Croatia
+## Lora en Croatie
 
-Lovro Njavaro describes a version of Lora played in Croatia. As usual there are four players and a 32-card pack is used. It is possible that in some places German suited cards (William Tell pattern) are used instead of French cards, in which case the scoring cards in contract 4 are Obers (Upper Jacks) rather than Queens. The cards are dealt in batches of 4 at a time, and the game is played anticlockwise. The game has eight contracts and therefore consists of 32 deals, 8 by each dealer. Penalty points are noted as negative numbers, so the objective is to have the highest positive (or the least negative) score at the end of the game.
+Lovro Njavaro décrit une version du Lora jouée en Croatie. Comme d'habitude, il y a quatre joueurs et un jeu de 32 cartes est utilisé. Il est possible que dans certains endroits, des cartes à couleurs allemandes (modèle William Tell) soient utilisées à la place des cartes françaises, auquel cas les cartes à points du contrat 4 sont des Obers (Valets supérieurs) plutôt que des Dames. Les cartes sont distribuées par lots de 4, et le jeu se joue dans le sens antihoraire. Le jeu comporte huit contrats et se compose donc de 32 donnes, 8 par donneur. Les points de pénalité sont notés sous forme de nombres négatifs, de sorte que l'objectif est d'avoir le score positif le plus élevé (ou le score négatif le plus bas) à la fin du jeu.
 
-- **Što više**. The aim is to win tricks. Each trick scores +1 point.. 
+- **Što više**. Le but est de remporter des plis. Chaque pli marque +1 point.
 
-- **Što manje**. The aim is to avoid winning tricks. Each trick scores -1 point.. 
+- **Što manje**. Le but est d'éviter de remporter des plis. Chaque pli marque -1 point.
 
-- **Kralj herc-zadnji štih**. If the King of hearts and the last trick are won by different players, each of them scores -4 points. However, if the same player manages to win both the King of hearts and the last trick, this player scores +8 points. 
+- **Kralj herc-zadnji štih**. Si le Roi de ![cœur] et le dernier pli sont remportés par des joueurs différents, chacun d'eux marque -4 points. Cependant, si le même joueur réussit à remporter le Roi de ![cœur] et le dernier pli, ce joueur marque +8 points.
 
-- **Babe**. Each Queen taken scores -2 points unless one player succeeds in taking all of them. A player who takes all four Queens scores +8 points. 
+- **Babe**. Chaque Dame prise marque -2 points sauf si un joueur réussit à les prendre toutes. Un joueur qui prend les quatre Dames marque +8 points.
 
-- **Herčevi**. The aim is to avoid winning hearts or to take all of them. A player who takes all the hearts scores +8 points: otherwise each heart taken scores -1 point. 
+- **Herčevi**. Le but est d'éviter de remporter des cœurs ou de les prendre tous. Un joueur qui prend tous les cœurs marque +8 points ; sinon chaque ![cœur] pris marque -1 point.
 
-- **Lora**. The play is the same as in the Serbian version described above. A player who is unable to play indicates their pass by whistling. The first player who runs out of cards scores +8 points and the other players score -1 point for each whistle and -1 point for each card remaining in their hands. The penalty for whistling when you could have played a card is -8 points. 
+- **Lora**. Le jeu est le même que dans la version serbe décrite ci-dessus. Un joueur qui ne peut pas jouer indique son passage en sifflant. Le premier joueur qui n'a plus de cartes marque +8 points et les autres joueurs marquent -1 point pour chaque sifflement et -1 point pour chaque carte restant dans leur main. La pénalité pour avoir sifflé alors qu'on pouvait jouer une carte est de -8 points.
 
-- **Prognoza**. Each player in turn, beginning with the player to dealer's right, must forecast how many tricks they will win. Players who forecast correctly score +4 points: those who take more or fewer tricks than their forecast score -4 points.
+- **Prognoza**. Chaque joueur à son tour, en commençant par le joueur à la droite du donneur, doit prévoir combien de plis il remportera. Les joueurs qui prévoient correctement marquent +4 points ; ceux qui prennent plus ou moins de plis que leur prévision marquent -4 points.
 
-- **Sljepić**. This contract, whose name means 'blinded', is a game of pure luck. Players must not look at their cards but stack them face down. At your turn you flip the top card of your pile face up and play it. As usual the highest card of the suit led wins the trick and the winner leads to the next. Players score +1 point for each trick that they win.
+- **Sljepić**. Ce contrat, dont le nom signifie « aveuglé », est un jeu de pur hasard. Les joueurs ne doivent pas regarder leurs cartes mais les empiler face cachée. À votre tour, vous retournez la carte du haut de votre tas face ouverte et la jouez. Comme d'habitude, la plus haute carte de la couleur entamée remporte le pli et le gagnant entame le suivant. Les joueurs marquent +1 point pour chaque pli qu'ils remportent.
 
-## Hungarian Lórum
+## Lórum hongrois
 
-Lórum, like Lora, has many alternative versions with different contracts and rule variants. The basic procedure is the same, but it is played with German suited cards of the William Tell pattern: the suits are hearts (*piros*), balls (*tök*), leaves (*zöld*) and acorns (*makk*) and the cards in each suit, from high to low are Ace (*ász*), King (*király*), Upper Jack or Ober (*felső*), Lower Jack or Unter (*alsó*), X, IX, VIII, VII. The deal and play are anticlockwise; cards are normally dealt in batches of two.
+Le Lórum, comme le Lora, a de nombreuses versions alternatives avec différents contrats et variantes de règles. La procédure de base est la même, mais il se joue avec des cartes à couleurs allemandes du modèle William Tell : les couleurs sont cœurs (*piros*), boules (*tök*), feuilles (*zöld*) et glands (*makk*) et les cartes de chaque couleur, de haut en bas, sont As (*ász*), Roi (*király*), Valet supérieur ou Ober (*felső*), Valet inférieur ou Unter (*alsó*), X, IX, VIII, VII. La donne et le jeu sont antihoraires ; les cartes sont normalement distribuées par paquets de deux.
 
-Often the scoring is carried out using chips or money. Some contracts result in chips being paid to or from a central pool: in other cases chips are paid from player to player. A typical series of contracts, with their scores, is as follows.
+Souvent, le comptage se fait avec des jetons ou de l'argent. Certains contrats aboutissent à des jetons payés à ou depuis un pot central ; dans d'autres cas, des jetons sont payés de joueur à joueur. Une série typique de contrats, avec leurs scores, est la suivante.
 
-1. Hearts (*Pirosfogás*)
-Trick-taking game in which the aim is to avoid taking hearts. Each heart taken costs 1 chip. If all four players take hearts these chips are paid to the pool. If three players take hearts the fourth player collects the 8 chips. If two players take hearts, the two players without hearts share the chips taking 4 each. But if one player takes all the hearts that player collects 8 chips from each opponent (24 chips in all).
-2. Obers (*Felsőfogas* or *Filkós*)
-The aim is to avoid taking tricks containing Upper Jacks (Obers). The Ober of acorns costs 1 chip, leaves 2 chips, balls 3 chips and hearts 4 chips. As in the first contract the chips are paid to the pool if the players take an Ober each. If three players take Obers the fourth player collects the 10 chips, if two players take Obers the other two collect 5 chips each. If one player takes all four Obers that player wins 10 chips from each opponent (30 chips in all).
-3. No tricks (*Ütesfogas* or *Bettli*)
-The aim is to avoid taking tricks or to win all 8 tricks. Each trick costs 1 chip and the payments work in the same way as in contract 1.
-4. Quads (*Kvárt *or *Schnips-schnaps-schnur*)
-The player to dealer's right leads any card. Whoever has the next higher card of the same suit plays it, then the next card, then the next. The VII counts as the next higher card above the Ace. Four consecutive cards complete the trick, which is set aside. Later in the game a trick may end with fewer than four cards if the next required card is in no one's hand because it has already been played. The trick is set aside and whoever played the last card leads any card to begin a new trick. When a player runs out of cards the play ends immediately. This player is the winner and is paid 1 chip by each other player for each card remaining in their hands.
-5. Fast Train (*Gyorsvonat*)
-The player to dealer's right leads any card. The next player must play a card that is one rank higher, but not necessarily the same suit. A player who does not have a card of the required rank must pass and it is the next player's turn. This continues around the table, VII following Ace, until some player runs out of cards. This player is the winner and is paid 1 chip by each other player for each card remaining in their hands.
-6. Hairy Monkey (*Szőrös majom*).
-Trick-taking game in which the only aim is to avoid taking the King of hearts. The player who wins the trick containing the King of hearts must pay 10 chips to the pool.
-7. Lórum (also known as *Dominó*)
-The player to dealer's right determines the starting rank. Four piles are built up in suit, each beginning with this rank. At your turn you must either start a new pile by playing a card of the starting rank or continue a pile by playing the next higher card of that suit. VII follows Ace. You must play a card if you can. If you are unable to play you pay 1 chip to the pot. The first player who runs out of cards is the winner. The other players must pay 1 chip to the pot for each card remaining in their hands. The winner then takes the whole pot, including any chips paid into it in previous deals.
+1. Cœurs (*Pirosfogás*)
+Jeu de plis dans lequel le but est d'éviter de prendre des cœurs. Chaque ![cœur] pris coûte 1 jeton. Si les quatre joueurs prennent des cœurs, ces jetons sont payés au pot. Si trois joueurs prennent des cœurs, le quatrième joueur encaisse les 8 jetons. Si deux joueurs prennent des cœurs, les deux joueurs sans cœurs se partagent les jetons, prenant 4 chacun. Mais si un joueur prend tous les cœurs, ce joueur encaisse 8 jetons de chaque adversaire (24 jetons au total).
+2. Obers (*Felsőfogas* ou *Filkós*)
+Le but est d'éviter de remporter des plis contenant des Valets supérieurs (Obers). L'Ober de glands coûte 1 jeton, les feuilles 2 jetons, les boules 3 jetons et les cœurs 4 jetons. Comme dans le premier contrat, les jetons sont payés au pot si les joueurs prennent chacun un Ober. Si trois joueurs prennent des Obers, le quatrième encaisse les 10 jetons ; si deux joueurs prennent des Obers, les deux autres encaissent 5 jetons chacun. Si un joueur prend les quatre Obers, ce joueur gagne 10 jetons de chaque adversaire (30 jetons au total).
+3. Pas de plis (*Ütesfogas* ou *Bettli*)
+Le but est d'éviter de remporter des plis ou de gagner les 8 plis. Chaque pli coûte 1 jeton et les paiements fonctionnent de la même manière que dans le contrat 1.
+4. Quads (*Kvárt* ou *Schnips-schnaps-schnur*)
+Le joueur à la droite du donneur entame n'importe quelle carte. Celui qui a la carte de rang immédiatement supérieur de la même couleur la joue, puis la suivante, puis la suivante. Le VII compte comme la carte immédiatement supérieure à l'As. Quatre cartes consécutives complètent le pli, qui est mis de côté. Plus tard dans le jeu, un pli peut se terminer avec moins de quatre cartes si la carte suivante requise n'est dans la main de personne parce qu'elle a déjà été jouée. Le pli est mis de côté et celui qui a joué la dernière carte entame n'importe quelle carte pour commencer un nouveau pli. Quand un joueur n'a plus de cartes, le jeu s'arrête immédiatement. Ce joueur est le gagnant et reçoit 1 jeton de chaque autre joueur pour chaque carte restant dans leur main.
+5. Train rapide (*Gyorsvonat*)
+Le joueur à la droite du donneur entame n'importe quelle carte. Le joueur suivant doit jouer une carte d'un rang supérieur, mais pas nécessairement de la même couleur. Un joueur qui n'a pas de carte du rang requis doit passer et c'est au joueur suivant. Cela continue autour de la table, le VII suivant l'As, jusqu'à ce qu'un joueur n'ait plus de cartes. Ce joueur est le gagnant et reçoit 1 jeton de chaque autre joueur pour chaque carte restant dans leur main.
+6. Singe velu (*Szőrös majom*).
+Jeu de plis dans lequel le seul but est d'éviter de prendre le Roi de cœurs. Le joueur qui remporte le pli contenant le Roi de cœurs doit payer 10 jetons au pot.
+7. Lórum (aussi connu sous le nom de *Dominó*)
+Le joueur à la droite du donneur détermine le rang de départ. Quatre tas sont construits par couleur, chacun commençant par ce rang. À votre tour, vous devez soit commencer un nouveau tas en jouant une carte du rang de départ, soit continuer un tas en jouant la carte de rang immédiatement supérieur de cette couleur. Le VII suit l'As. Vous devez jouer une carte si vous le pouvez. Si vous ne pouvez pas jouer, vous payez 1 jeton au pot. Le premier joueur qui n'a plus de cartes est le gagnant. Les autres joueurs doivent payer 1 jeton au pot pour chaque carte restant dans leur main. Le gagnant prend alors l'ensemble du pot, y compris tous les jetons payés lors des donnes précédentes.
 
-### Variants
+### Variantes
 
-Some deal the cards 4 at a time or in batches of 3, then 2, then 3 rather than in pairs. 
+Certains distribuent les cartes 4 à la fois ou par lots de 3, puis 2, puis 3 plutôt que par paires.
 
-The selection of contracts and the order in which they are played varies from place to place. Here are some more contracts that are sometimes played in addition to or in place of some of those listed above.
+La sélection des contrats et l'ordre dans lequel ils sont joués varient d'un endroit à l'autre. Voici quelques contrats supplémentaires qui sont parfois joués en plus ou à la place de certains de ceux listés ci-dessus.
 
 101
-Four cards are dealt to each player, and the remainder of the deck is placed face down in the centre of the table as a draw pile. Starting from the player to the right of the dealer, each player in turn discards any one card face up onto a common discard pile, and draws a replacement card from the draw pile. Suits are irrelevant to the play of this deal. When discarding cards, the card value is added to a running total and the new total is announced by the player discarding, using the following values: 
+Quatre cartes sont distribuées à chaque joueur, et le reste du jeu est placé face cachée au centre de la table comme tas de pioche. En commençant par le joueur à la droite du donneur, chaque joueur à son tour se défausse d'une carte face ouverte sur un tas de défausse commun et pioche une carte de remplacement dans le tas de pioche. Les couleurs n'ont pas d'importance pour le jeu de cette donne. Lors des défausses, la valeur de la carte est ajoutée à un total courant et le nouveau total est annoncé par le joueur qui se défausse, en utilisant les valeurs suivantes :
 
-Ace = 11, 
-X = 10, 
-King = 4, Ober = 3, Unter = 2, 
-IX = 0, 
-VIII = 0, 
+As = 11,
+X = 10,
+Roi = 4, Ober = 3, Unter = 2,
+IX = 0,
+VIII = 0,
 VII = 0.
 
-(By convention, when a card with zero value is played, instead of repeating the current total the player says “potya”, a Hungarian word meaning “something worthless, of no value”.) Play continues until the running total becomes greater than 101. The first player to discard a card causing the total to equal or exceed 101 loses and must pay 10 chips into the pool. If the draw pile is exhausted before this occurs, play continues without replacing the cards played.
+(Par convention, quand une carte de valeur zéro est jouée, au lieu de répéter le total courant, le joueur dit « potya », un mot hongrois signifiant « quelque chose de sans valeur ».) Le jeu continue jusqu'à ce que le total courant dépasse 101. Le premier joueur à se défausser d'une carte provoquant un total égal ou supérieur à 101 perd et doit payer 10 jetons au pot. Si le tas de pioche est épuisé avant cela, le jeu continue sans remplacer les cartes jouées.
 
-*Makk alsó, piros király, utolsó ütes* (Acorn Unter, Heart King, last trick)
-Trick-taking game in which the player who takes the Heart King, the player who wins the last trick, and the player sitting **opposite** the player who takes the Acorn Unter must each pay 10 chips into the pool.
-**Note**. The method of scoring involving a pool which is collected by the winner of the last deal of each set of 7 assumes that the contracts are played in a fixed sequence. The variant in which the first player chooses the contract after the deal is evidently rare in Hungary. It is also incompatible with the variant contract 101 which requires a different deal.
-
-Home Page > Classified Index > Compendium Games > Lora / Lórum
+*Makk alsó, piros király, utolsó ütes* (Unter de glands, Roi de cœurs, dernier pli)
+Jeu de plis dans lequel le joueur qui prend le Roi de cœurs, le joueur qui remporte le dernier pli, et le joueur assis **en face** du joueur qui prend l'Unter de glands doivent chacun payer 10 jetons au pot.
+**Note**. La méthode de comptage impliquant un pot qui est collecté par le gagnant de la dernière donne de chaque série de 7 suppose que les contrats sont joués dans un ordre fixe. La variante dans laquelle le premier joueur choisit le contrat après la donne est visiblement rare en Hongrie. Elle est aussi incompatible avec le contrat variante 101 qui nécessite une distribution différente.

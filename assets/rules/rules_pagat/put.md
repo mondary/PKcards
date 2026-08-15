@@ -2,58 +2,56 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An old English 2-player trick-taking game with betting in which the players are dealt 3 cards each and the 3 is the highest card.
+**But :** Ancien jeu anglais de levées à deux joueurs avec mises, dans lequel chaque joueur reçoit 3 cartes et le 3 est la carte la plus haute.
 
 ---
 
 ## Introduction
 
-Put was played in England from the sixteenth to the nineteenth century, but probably died out in the twentieth. It is closely related to the group of games game known as Truc (also Tru, Trut, Truque, etc.) that are still much played in parts of Southern France and Spain and more distantly to the popular South American game Truco.
+Put était joué en Angleterre du XVIe au XIXe siècle, mais a probablement disparu au XXe. Il est étroitement apparenté à la famille de jeux appelée Truc (aussi Tru, Trut, Truque, etc.) encore très joués dans certaines régions du sud de la France et d'Espagne, et plus lointainment au populaire jeu sud-américain Truco.
 
-The description of the 17th century game below is based on information in The Compleat Gamester, by Charles Cotton (London, 1674) and in Francis Willughby's Book of Games (1660-72). The section on the 19th century game was contributed by Robert Reid, relying on two 19th century sources.
+La description du jeu du XVIIe siècle ci-dessous repose sur des informations tirées de *The Compleat Gamester* de Charles Cotton (Londres, 1674) et du *Livre des Jeux* de Francis Willughby (1660-72). La section sur le jeu du XIXe siècle a été contribuée par Robert Reid, s'appuyant sur deux sources du XIXe siècle.
 
-## Put in the seventeenth century
+## Put au XVIIe siècle
 
-This was a game for two players using a full 52 card pack ranking from high to low **3, 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4**. Suits are irrelevant in this game. The dealer dealt three cards to each player one at a time.
+Il s'agissait d'un jeu à deux joueurs utilisant un jeu complet de 52 cartes classées de haut en bas **3, 2, A, R, D, V, 10, 9, 8, 7, 6, 5, 4**. Les couleurs n'ont pas d'importance dans ce jeu. Le donneur distribuait trois cartes à chaque joueur, une à la fois.
 
-Three tricks were then played. The non-dealer led first, and the dealer responded by playing any card. The higher card won the trick, the winner of the first trick led to the second, and the winner of the second trick led to the third. If the two players played equal cards to a trick, that trick was tied and the player who played first to the tied trick led again. The player who took two tricks, or one trick when both the others were tied, won the hand, and scored one point. If the players won one trick each and the other trick was tied, the hand was a draw and no points were scored - this was called "trick and tie". The hand was also tied without score if all three tricks were tied. The game was won by the first player to reach **five** points.
+Trois levées étaient ensuite jouées. Le non-donneur menait en premier, et le donneur répondait en jouant n'importe quelle carte. La carte la plus haute gagnait la levée, le gagnant de la première levée menait la deuxième, et le gagnant de la deuxième menait la troisième. Si les deux joueurs jouaient des cartes égales à une levée, celle-ci était nulle et le joueur qui avait joué en premier à la levée nulle menait à nouveau. Le joueur qui prenait deux levées, ou une levée lorsque les deux autres étaient nulles, gagnait la main et marquait un point. Si les joueurs gagnaient chacun une levée et l'autre levée était nulle, la main était nulle et aucun point n'était marqué — c'était appelé « trick and tie ». La main était également nulle sans marquage de points si les trois levées étaient nulles. Le jeu était gagné par le premier joueur atteignant **cinq** points.
 
-The only form of betting was the **put**. If a player said "I put", the opponent had the choice of throwing in the cards, in which case the putter scored a point, or "seeing", in which case the hand was played out and the winner would win the whole game.
+La seule forme de mise était le **put**. Si un joueur disait « I put », l'adversaire avait le choix de jeter les cartes, auquel cas le joueur ayant mis marquait un point, ou de « voir » (*seeing*), auquel cas la main était jouée et le gagnant remportait toute la partie.
 
-Cotton's brief description only mentions that the non-dealer was allowed to put before leading to the first trick, but it is clear from Willughby that either player may put before leading or playing to any trick. 
+La brève description de Cotton mentionne uniquement que le non-donneur était autorisé à miser avant de mener la première levée, mais il est clair d'après Willughby que chaque joueur pouvait miser avant de mener ou de jouer à n'importe quelle levée.
 
-Put could be played by three or more people, though this was uncommon. Willughby says that in this case they must each be dealt one more card than there are players, to ensure that at least one player will win two tricks (provided that no tricks are tied). If any player puts, the others must decide in turn whether to "see" or throw in their cards. If all throw in the putter wins one point, but if anyone sees, the hand is played out between the putter and the players who see, and the winner is paid only by those who played, the ones who threw in their cards paying nothing. If there is a tie for winner, presumably that deal is cancelled and there is a new deal, all players keeping their current scores.
+Put pouvait être joué à trois joueurs ou plus, bien que cela soit inhabituel. Willughby dit que dans ce cas, chaque joueur devait recevoir une carte de plus qu'il n'y a de joueurs, pour s'assurer qu'au moins un joueur gagnerait deux levées (à condition qu'aucune levée ne soit nulle). Si un joueur misait, les autres devaient décider à tour de rôle s'ils « voyaient » ou jetaient leurs cartes. Si tous jetaient, celui qui avait mis gagnait un point, mais si quelqu'un voyait, la main était jouée entre le joueur ayant mis et ceux qui avaient vu, et le gagnant n'était payé que par ceux qui avaient joué, ceux qui avaient jeté leurs cartes ne payant rien. En cas d'égalité pour le gagnant, la donne était probablement annulée et une nouvelle donne avait lieu, tous les joueurs conservant leurs scores actuels.
 
-Put was an extremely disreputable game in the 17th century. Cotton calls it "the ordinary rooking game of every place" and devotes much of his chapter on it to describing various common methods of cheating by marking the cards, introducing cards from another pack, and so on. He also explains "The High Game", in which the cards were stacked so as to deal the victim a three and two twos while the dealer dealt himself a two and two threes. The non-dealer would put, and perhaps agree some extra wager on the game, which the dealer would then see and win. Cotton remarks that you cannot get away with this more than once against the same player!
+Put était un jeu extrêmement douteux au XVIIe siècle. Cotton l'appelle « le jeu de filoutage ordinaire de chaque endroit » et consacre une grande partie de son chapitre à décrire diverses méthodes courantes de triche : marquer les cartes, introduire des cartes provenant d'un autre jeu, etc. Il explique aussi « The High Game », dans lequel les cartes étaient empilées de manière à donner à la victime un trois et deux deux tandis que le donneur se donnait un deux et deux trois. Le non-donneur miserait, et peut-être accepterait un pari supplémentaire sur la partie, que le donneur verrait ensuite et gagnerait. Cotton remarque qu'on ne peut pas s'en tirer plus d'une fois contre le même joueur !
 
-## Put in the nineteenth century
+## Put au XIXe siècle
 
-Put survived into the nineteenth century and in contemporary sources the rules allowed the first trick to be played without obligation to play out the rest. The following is a synthesis of rules from Hoyle’s Games Improved (London, 1800, pp. 306-7) and Enquire within about Everything, Houlston and Sons (London, 1894, first published 1856, sections 101-4).
+Put a survécu jusqu'au XIXe siècle et dans les sources contemporaines, les règles permettaient de jouer la première levée sans obligation de jouer le reste. Voici une synthèse des règles tirées de *Hoyle's Games Improved* (Londres, 1800, pp. 306-7) et *Enquire within about Everything*, Houlston and Sons (Londres, 1894, première publication 1856, sections 101-4).
 
-### The play
+### Le jeu
 
-Three stages of bidding are possible after the cards have been dealt:
+Trois phases de mises sont possibles après la distribution des cartes :
 
-- Non-dealer has three options: a) to throw in his hand, letting the dealer score one; b) to ‘put’ to the dealer, who can either except the challenge, in which case all the cards are played out, or resign, in which case the non-dealer scores one; c) to play a card.
+- Le non-donneur a trois options : a) jeter sa main, laissant le donneur marquer un point ; b) « mettre » (*put*) au donneur, qui peut soit accepter le défi, auquel cas toutes les cartes sont jouées, soit se démettre, auquel cas le non-donneur marque un point ; c) jouer une carte.
 
-- If the non-dealer has played a card, the dealer now has the same three options: s/he can either a) resign for one point; b) put to the non-dealer, who can either accept or decline, or c) play a card, thus completing the first trick.
+- Si le non-donneur a joué une carte, le donneur a maintenant les mêmes trois options : il peut a) se démettre pour un point ; b) mettre (*put*) au non-donneur, qui peut accepter ou refuser ; c) jouer une carte, complétant ainsi la première levée.
 
-- If the dealer has played a card, the non-dealer now has the final say, irrespective of whether s/he has won, lost or drawn the trick. However this time the non-dealer has only two options: s/he can either a) resign and let the dealer score one point or b) put to the dealer who, in turn, can either accept and play out the hand or resign and concede one point to the non-dealer. If a put is accepted at this stage, the winner of the first trick will lead to the second. In the case of a drawn first trick, the non-dealer leads (I’m assuming this by analogy with related games: sources don’t make it explicit).
+- Si le donneur a joué une carte, le non-donneur a maintenant le dernier mot, indépendamment du fait qu'il ait gagné, perdu ou fait match nul à la levée. Cependant, cette fois, le non-donneur n'a que deux options : il peut a) se démettre et laisser le donneur marquer un point, ou b) mettre (*put*) au donneur, qui à son tour peut accepter et jouer la main ou se démettre et concéder un point au non-donneur. Si un *put* est accepté à ce stade, le gagnant de la première levée mène la deuxième. En cas de première levée nulle, le non-donneur mène (je suppose cela par analogie avec les jeux apparentés : les sources ne le précisent pas explicitement).
 
-Unless one of them has put, there is obviously no compulsion on either player to concede at stages one and two in preference to simply playing a card and staying in the game (in fact only Hoyle mentions the possibility of conceding voluntarily). Nevertheless conceding in this way can have subtle tactical advantages in a game in which subterfuge and bluff play so large a part. For instance if, as non-dealer, you have a very weak hand and don’t feel like bluffing, it may be preferable to concede before the first trick rather than to lead to it, lose it and then have to throw in anyway. If you occasionally fold early you may lead your opponent to think that you only play on stronger hands, which gives you a bluffing advantage.
+À moins que l'un d'eux n'ait misé (*put*), il n'y a évidemment aucune obligation pour l'un ou l'autre joueur de concéder aux phases un et deux plutôt que de simplement jouer une carte et rester dans le jeu (en fait, seul Hoyle mentionne la possibilité de concéder volontairement). Néanmoins, concéder de cette façon peut avoir des avantages tactiques subtils dans un jeu où la ruse et le bluff jouent un rôle si important. Par exemple, si en tant que non-donneur vous avez une très mauvaise main et n'avez pas envie de bluffer, il peut être préférable de concéder avant la première levée plutôt que de la mener, la perdre, puis devoir jeter quand même. Si vous vous couchez occasionnellement tôt, vous pouvez amener votre adversaire à penser que vous ne jouez que sur des mains plus fortes, ce qui vous donne un avantage de bluff.
 
-### Scoring
+### Comptage des points
 
-The scoring system is the same as in Cotton’s version described above: game is five points. A player scores a point each time his opponent folds but, if all the cards are played out in response to a put, the winner scores however many points s/he needs to bring his or her total to five. If the result is a draw play continues from the existing point position. In practice all games are ultimately won by playing the cards out: if A, as non-dealer, stands at two points and B at four, A will have no option but to put, since, if he folds, he will give B the game anyway. Likewise, if A were the dealer, he would have to play out if B challenged him. If both stand at four points the next deal is bound to be a play-out since neither player is in a position to concede a point. This illustrates the importance of getting a points lead on your opponent who will then be increasingly squeezed as the game approaches five.
+Le système de points est le même que dans la version de Cotton décrite ci-dessus : la partie se joue en cinq points. Un joueur marque un point chaque fois que son adversaire se couche mais, si toutes les cartes sont jouées en réponse à un *put*, le gagnant marque autant de points qu'il lui en faut pour atteindre cinq. Si le résultat est un match nul, le jeu continue à partir de la position de points existante. En pratique, toutes les parties sont finalement gagnées en jouant les cartes : si A, en tant que non-donneur, est à deux points et B à quatre, A n'aura d'autre choix que de miser, car s'il se couche, il donnera la partie à B de toute façon. De même, si A était le donneur, il devrait jouer si B le défiait. Si les deux sont à quatre points, la prochaine donne sera obligatoirement jouée complètement puisque aucun joueur n'est en position de concéder un point. Cela illustre l'importance de prendre une avance de points sur son adversaire, qui sera alors de plus en plus coincé à l'approche de cinq.
 
-### Four-handed Put
+### Put à quatre joueurs
 
-Both sources describe four-handed Put, Enquire Within providing the fuller description: 
+Les deux sources décrivent le Put à quatre joueurs, *Enquire Within* fournissant la description la plus complète :
 
-Each party has a partner, and when three cards are dealt to each, one of the players of the non-dealing team gives his partner his best card, and throws the other two face downwards on the table. At the same time the dealer may give his partner one card, or vice versa. The two players who have received their partners' cards each discard one card and then play the game as at two-handed Put.
+Chaque camp a un partenaire, et lorsque trois cartes sont distribuées à chacun, l'un des joueurs de l'équipe non donneuse donne sa meilleure carte à son partenaire et jette les deux autres face cachée sur la table. En même temps, le donneur peut donner une carte à son partenaire, ou inversement. Les deux joueurs qui ont reçu les cartes de leurs partenaires écartent chacun une carte et jouent ensuite la partie comme au Put à deux joueurs.
 
-## Software
+## Logiciel
 
-Richard Vale has written a [Javascript Put game](https://pi.math.cornell.edu/~rvale/put.html), in which you play 17th century Put against a computer opponent.
-
-Home Page > Classified Index > Trick Taking Games > Put Group > Put
+Richard Vale a écrit un [jeu Javascript de Put](https://pi.math.cornell.edu/~rvale/put.html), dans lequel vous jouez au Put du XVIIe siècle contre un adversaire informatique.
