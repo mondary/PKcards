@@ -3,131 +3,129 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A fishing game with a standard 52-card pack played in Nigeria.
+**But :** Jeu de pêche avec un jeu standard de 52 cartes pratiqué au Nigeria.
+**Autres noms :** Eléwénjewénómbàjenómbà
 
 ---
 
 ## Introduction
 
-Eléwénjewé, whose full name is **Eléwénjewénómbàjenómbà** is a fishing game played in the Yorùbá land of Nigeria, West Africa. It dates from the slave trade era and is still played in the 21st century.
+L'Eléwénjewé, dont le nom complet est **Eléwénjewénómbàjenómbà**, est un jeu de pêche pratiqué dans les terres Yorùbá du Nigeria, en Afrique de l'Ouest. Il date de l'époque de la traite des esclaves et est encore pratiqué au XXIe siècle.
 
-Eléwénjewé is played with a standard 52-card pack, to which two jokers can be added, and the objective is to capture or **"scoop"** cards from the table or **"palette"**. A card can be captured by an equal card and several cards can be captured together by a card that is equal to their sum. 
+L'Eléwénjewé se joue avec un jeu standard de 52 cartes, auquel on peut ajouter deux jokers, et l'objectif est de capturer ou de « ramasser » (*scoop*) des cartes sur la table ou la *palette*. Une carte peut être capturée par une carte de même valeur, et plusieurs cartes peuvent être capturées ensemble par une carte égale à leur somme.
 
-There are some differences between the **"professional"** game, played as a serious competition, and the **"amateur"** game, played for fun. Also there are differences between **"normal rules"** and **"Yorùbá rules"**, which are stricter.
+Il existe quelques différences entre le jeu **professionnel**, pratiqué comme une compétition sérieuse, et le jeu **amateur**, pratiqué pour le plaisir. Il y a aussi des différences entre les **règles normales** et les **règles Yorùbá**, qui sont plus strictes.
 
-*This page is based on information from Adewale Kassim of Walxytech.*
+*Cette page est basée sur des informations d'Adewale Kassim de Walxytech.*
 
-## Players and Cards
+## Joueurs et cartes
 
-From two to five people can play, and even a six-player game is possible. However, professional games are normally played between just two players.
+De deux à cinq personnes peuvent jouer, et un jeu à six joueurs est même possible. Cependant, les parties professionnelles se jouent normalement entre deux joueurs seulement.
 
-A standard international 52-card pack is used. The Ace has a capture value of 1, and the 2-10 have their face value for the purpose of capture. Kings, Queens and Jacks have no numerical value, and can only be captured by another card of the same rank. 
+On utilise un jeu international standard de 52 cartes. L'As a une valeur de capture de 1, et les 2 à 10 ont leur valeur faciale pour la capture. Les Rois, Dames et Valets n'ont pas de valeur numérique et ne peuvent être capturés que par une autre carte du même rang.
 
-In amateur games, two jokers may be added to the pack. These have the special power of capturing all the cards from the table. In professional play jokers are not used.
+Dans les parties amateures, deux jokers peuvent être ajoutés au jeu. Ceux-ci ont le pouvoir spécial de capturer toutes les cartes de la table. En jeu professionnel, les jokers ne sont pas utilisés.
 
-When there are more than two players, the game may be played either clockwise or anticlockwise, as the players agree. 
+Lorsqu'il y a plus de deux joueurs, le jeu peut se jouer dans le sens horaire ou antihoraire, selon l'accord des joueurs.
 
-## Deal and Play
+## Distribution et jeu
 
-Players take turns to deal, in clockwise or anticlockwise sequence according to the agreed direction of play. In some serious games there is a non-playing dealer who acts as referee. 
+Les joueurs distribuent à tour de rôle, dans l'ordre horaire ou antihoraire selon la direction de jeu convenue. Dans certaines parties sérieuses, il y a un donneur non joueur qui fait office d'arbitre.
 
-Before shuffling, the dealer must remove four special cards from the deck: the **K, Q, J **and **9** of the **Diamond** suit. These four cards are placed face up in the middle of the table:
+Avant de mélanger, le donneur doit retirer quatre cartes spéciales du jeu : le **R, D, V** et **9** de la couleur **carreau**. Ces quatre cartes sont placées face visible au milieu de la table :
 
-![king](../images/internat/kd.gif)![queen](../images/internat/qd.gif)![jack](../images/internat/jd.gif)![nine](../images/internat/9d.gif)
+![roi](../images/internat/kd.gif)![dame](../images/internat/qd.gif)![valet](../images/internat/jd.gif)![neuf](../images/internat/9d.gif)
 
-The rest of the cards are shuffled by the dealer and one of the other players will cut. The dealer then deals a batch of four cards to each player, beginning with his right hand or left hand opponent, going around the table anticlockwise or clockwise as agreed, and ending with the dealer himself, or with the last player if the dealer not playing. 
+Le reste des cartes est mélangé par le donneur et un autre joueur coupe. Le donneur distribue alors un lot de quatre cartes à chaque joueur, en commençant par son adversaire à droite ou à gauche, en parcourant la table dans le sens antihoraire ou horaire selon l'accord, et en terminant par le donneur lui-même, ou par le dernier joueur si le donneur ne joue pas.
 
-The players look at their four cards, and play in turn, beginning with the player who was dealt the first cards and continuing in the direction of play. Each turn consists of playing one card face up to the table and possibly capturing ("scoping") some of the cards on the table. 
+Les joueurs regardent leurs quatre cartes et jouent à tour de rôle, en commençant par le joueur qui a reçu les premières cartes et en continuant dans la direction de jeu. Chaque tour consiste à jouer une carte face visible sur la table et éventuellement à capturer (*scoping*) certaines cartes de la table.
 
-When all players have played their four cards, the dealer gives them each another batch of four from the deck of cards (but no more cards are dealt to the table) and play continues. When 52 cards are used, without jokers, there are 48 cards to be dealt, and with 2, 3, 4 or 6 players they will all be used** after 6, 4, 3 or 2 rounds of dealing respectively. When the players have played their last four cards the play ends.
+Lorsque tous les joueurs ont joué leurs quatre cartes, le donneur leur donne chacun un nouveau lot de quatre cartes à partir du jeu (mais sans ajouter de cartes sur la table) et le jeu continue. Avec 52 cartes, sans jokers, il y a 48 cartes à distribuer, et avec 2, 3, 4 ou 6 joueurs elles seront toutes utilisées après respectivement 6, 4, 3 ou 2 tours de distribution. Lorsque les joueurs ont joué leurs dernières quatre cartes, le jeu s'arrête.
 
-In an amateur game, when jokers are added to the pack, the cards cannot be dealt exactly to the players in batches of four. In this case, there are several alternative procedures, and the players must agree in advance which to use:
+Dans une partie amateure, lorsque des jokers sont ajoutés au jeu, les cartes ne peuvent pas être distribuées exactement aux joueurs par lots de quatre. Dans ce cas, il existe plusieurs procédures alternatives, et les joueurs doivent se mettre d'accord à l'avance sur celle à utiliser :
 
-- In a two-player game, when jokers are used, the last two cards may be dealt to the players. After the 6th deal of four cards each there is a final deal in which each player has just one card to play.
+- Dans un jeu à deux joueurs, lorsque des jokers sont utilisés, les deux dernières cartes peuvent être distribuées aux joueurs. Après le 6e tour de distribution de quatre cartes chacun, il y a une distribution finale où chaque joueur n'a qu'une carte à jouer.
 
-- The remaining cards may be placed with the face-up cards on the table immediately after dealing the last four cards each to 
-every player.
+- Les cartes restantes peuvent être placées avec les cartes face visibles sur la table immédiatement après avoir distribué les dernières quatre cartes à chaque joueur.
 
-- The remaining cards may be left unused and belong to nobody.
+- Les cartes restantes peuvent être laissées inutilisées et n'appartenir à personne.
 
-In the 5-player game without jokers, there will be 8 cards remaining after the second deal. There is a third deal of one card to each player and the last three cards are either added to the table cards or not used. In the five-player game with jokers, there are two deals of four cards each followed by one deal of two cards each.
+Dans le jeu à 5 joueurs sans jokers, il restera 8 cartes après la deuxième distribution. Il y a une troisième distribution d'une carte à chaque joueur et les trois dernières cartes sont soit ajoutées aux cartes de la table, soit non utilisées. Dans le jeu à cinq joueurs avec jokers, il y a deux distributions de quatre cartes chacune suivies d'une distribution de deux cartes chacune.
 
-## Capturing
+## Capture
 
-Capturing is locally known as "scooping" or "scoping" - maybe there is some influence here from the Italian game Scopa.
+La capture est localement appelée « scooping » ou « scoping » — il y a peut-être ici une influence du jeu italien *Scopa*.
 
-At your turn you must play one card from your hand. 
+À votre tour, vous devez jouer une carte de votre main.
 
-- If the played card matches any card on the table, it can scoop the matched card. For example a king scoops a king; a 7 scoops a 7.
+- Si la carte jouée correspond à une carte de la table, elle peut capturer la carte correspondante. Par exemple, un roi capture un roi ; un 7 capture un 7.
 
-- If the played card is a number card from 2 to 10 and it is equal to the sum of two or more cards on the table, it can scoop those cards.
+- Si la carte jouée est une carte numérale de 2 à 10 et qu'elle est égale à la somme de deux cartes ou plus de la table, elle peut capturer ces cartes.
 
-Scooped cards are placed face down in front of the player who captured them, along with the card that was played to make the capture. 
+Les cartes capturées sont placées face cachée devant le joueur qui les a capturées, avec la carte qui a été jouée pour effectuer la capture.
 
-It is possible to scoop more than one set of cards that add up to the card played, or a matched card and an add-up set together. For example if the cards A, 2, 5, 6, 7 are on the table and a seven is played, the player could capture all the cards: 7 and (6+A) and (5+2). If a nine is played, with these same cards on the table, the player could capture **either** (6+2+A) **or** (7+2) but not both sets at once, since the 2 cannot be used simultaneously in different sets. Normally it would be better to capture (6+2+A) - three cards rather than two.
+Il est possible de capturer plus d'un ensemble de cartes dont la somme correspond à la carte jouée, ou une carte correspondante et un ensemble additif ensemble. Par exemple, si les cartes A, 2, 5, 6, 7 sont sur la table et qu'un sept est joué, le joueur pourrait capturer toutes les cartes : 7 et (6+A) et (5+2). Si un neuf est joué avec ces mêmes cartes sur la table, le joueur pourrait capturer **soit** (6+2+A) **soit** (7+2) mais pas les deux ensembles à la fois, puisque le 2 ne peut pas être utilisé simultanément dans différents ensembles. Normalement, il vaut mieux capturer (6+2+A) — trois cartes plutôt que deux.
 
-Scooping is not compulsory. It is legal to play a card without taking all the cards that could be scooped. For example if there is a 4 and a 2 on the table, you could play a 4 from hand and leave the cards on the table instead of taking them, hoping later to scoop all three cards with a 10.
+La capture n'est pas obligatoire. Il est autorisé de jouer une carte sans prendre toutes les cartes qui pourraient être capturées. Par exemple, s'il y a un 4 et un 2 sur la table, vous pourriez jouer un 4 de votre main et laisser les cartes sur la table au lieu de les prendre, en espérant capturer plus tard les trois cartes avec un 10.
 
-Under **Yorùbá rules**, when a card is used to scoop more than one card, all the scooped cards must be different from each other and from the played card. For example you can use a 10 to scoop a single 10 or to scoop 7+ 3, but you cannot use a 10 to scoop 4+4+2, and you cannot use it to scoop 10+7+3.
+Sous les **règles Yorùbá**, lorsqu'une carte est utilisée pour capturer plusieurs cartes, toutes les cartes capturées doivent être différentes les unes des autres et de la carte jouée. Par exemple, vous pouvez utiliser un 10 pour capturer un seul 10 ou pour capturer 7+3, mais vous ne pouvez pas utiliser un 10 pour capturer 4+4+2, et vous ne pouvez pas l'utiliser pour capturer 10+7+3.
 
-If you do not scoop any cards from the table, either because the card you played does not match anything, or because you choose not to scoop any cards, the played card stays face up on the table and is available for capture in future turns. 
+Si vous ne capturez aucune carte de la table, soit parce que la carte que vous avez jouée ne correspond à rien, soit parce que vous choisissez de ne rien capturer, la carte jouée reste face visible sur la table et peut être capturée lors des tours suivants.
 
-Amateur Eléwénjewé games are sometimes played with Jokers. In this case
+Les parties amateures d'Eléwénjewé sont parfois jouées avec des jokers. Dans ce cas :
 
-- If a Joker is played, it automatically scoops all the cards on the table. In Yorùbá, this is called “**Ipalemo**”.
+- Si un Joker est joué, il capture automatiquement toutes les cartes de la table. En yorùbá, cela s'appelle « **Ipalemo** ».
 
-- If a Joker is played when the table is empty, it remains there, and is taken as a bonus scooped card by the next player who makes a valid capture. This does not often happen, but can occur if a player has kept a Joker as his last card, but the player immediately before him scoops all the cards from the table.
+- Si un Joker est joué alors que la table est vide, il y reste et est pris comme carte bonus capturée par le prochain joueur qui effectue une capture valide. Cela n'arrive pas souvent, mais peut se produire si un joueur a gardé un Joker comme dernière carte, mais que le joueur immédiatement avant lui a capturé toutes les cartes de la table.
 
-After the very last card has been played and there are no more cards to deal, any cards that remain on the table are taken by player who played the last card, irrespective of whether that card scooped any cards from the table. This gives a considerable advantage to the last player, but this is balanced by the fact that the players take turns to deal so that a different player makes the last play in each game.
+Après que la toute dernière carte a été jouée et qu'il n'y a plus de cartes à distribuer, les cartes restantes sur la table sont prises par le joueur qui a joué la dernière carte, indépendamment du fait que cette carte ait ou non capturé des cartes de la table. Cela donne un avantage considérable au dernier joueur, mais cela est compensé par le fait que les joueurs distribuent à tour de rôle, de sorte qu'un joueur différent effectue le dernier tour dans chaque partie.
 
-When Eléwénjewé is played as a gambling game, sometimes it is agreed at the start of the game that the remaining cards will belong to no one, thus avoiding giving an unfair advantage to the last player. 
+Lorsque l'Eléwénjewé est joué comme jeu d'argent, il est parfois convenu au début de la partie que les cartes restantes n'appartiendront à personne, évitant ainsi de donner un avantage injuste au dernier joueur.
 
 ## Esun
 
-**Esun** is the Yorùbá word for what is known as "building" in European fishing games. At at the start of the game it may be agreed that **Esun** is allowed.
+**Esun** est le mot yorùbá pour ce qu'on appelle « bâtiment » (*building*) dans les jeux de pêche européens. Au début de la partie, il peut être convenu que l'**Esun** est autorisé.
 
-When playing with Esun, when playing a card, you can combine it with other cards on the table into a protected pile that you intend to scoop later. You must have a card in your hand that can legally scoop all the cards of the protected pile together, according to the normal rules of matching and adding, and you are committed to scoop the pile before your four cards are exhausted (unless some other player takes it first). 
+En jouant avec Esun, en jouant une carte, vous pouvez la combiner avec d'autres cartes de la table pour former une pile protégée que vous comptez capturer plus tard. Vous devez avoir une carte en main qui peut légalement capturer toutes les cartes de la pile protégée ensemble, selon les règles normales de correspondance et d'addition, et vous vous engagez à capturer la pile avant d'épuiser vos quatre cartes (sauf si un autre joueur ne la prend en premier).
 
-A protected pile can never be added to or broken apart. Once formed it can only be scooped as a single unit, and when it is scooped no other cards can be scooped at the same time. A protected pile must be scooped before the next cards are dealt. If no one else takes it the person who formed the pile must scoop it - otherwise he will suffer a penalty.
+Une pile protégée ne peut jamais être complétée ni démembrée. Une fois formée, elle ne peut être capturée que comme une seule unité, et lorsqu'elle est capturée, aucune autre carte ne peut être capturée en même temps. Une pile protégée doit être capturée avant que les nouvelles cartes ne soient distribuées. Si personne d'autre ne la prend, la personne qui a formé la pile doit la capturer — sinon il subit une pénalité.
 
-**Examples:** 
+**Exemples :**
 
-- On the table is a 3, a 5 and a 6. In my hand I have 2, 5, 10. I can play my 2, make it into a protected pile along with the 3 and the 5. Any player can scoop this pile of {2, 3, 5} by playing either a 5 or a 10. 
+- Sur la table se trouvent un 3, un 5 et un 6. Dans ma main j'ai 2, 5, 10. Je peux jouer mon 2, former une pile protégée avec le 3 et le 5. N'importe quel joueur peut capturer cette pile de {2, 3, 5} en jouant soit un 5 soit un 10.
 
-- There is a Queen on the table and I have two Queens. I can play one of my Queens on the table Queen to make a protected pile of Queens, and later scoop the pile containing both these Queens with my second Queen.
+- Il y a une Dame sur la table et j'ai deux Dames. Je peux jouer une de mes Dames sur la Dame de la table pour former une pile protégée de Dames, et plus tard capturer la pile contenant ces deux Dames avec ma deuxième Dame.
 
-If playing Yorùbá rules, a protected pile cannot contain two equal cards, and cannot be scooped by a card that is equal to one of the cards that is in it. So under Yorùbá rules a pile of {2, 3, 5} cannot be taken by a 5, but only by a 10. Also under Yorùbá rules it is impossible to make a protected pile of picture cards, because such a pile would necessarily contain duplicates.
+En jouant avec les règles Yorùbá, une pile protégée ne peut pas contenir deux cartes égales, et ne peut pas être capturée par une carte égale à l'une des cartes qu'elle contient. Ainsi, sous les règles Yorùbá, une pile de {2, 3, 5} ne peut pas être prise par un 5, mais uniquement par un 10. De même, sous les règles Yorùbá, il est impossible de former une pile protégée de figures, car une telle pile contiendrait nécessairement des doublons.
 
 ## Isiwo
 
-Players may agree in advance to play with **"Isiwo"**. This Yorùbá word means that at any time players may look through their own pile of scooped cards. This helps them to remember what cards remain in the deck, which is particularly important when playing the last few cards.
+Les joueurs peuvent convenir à l'avance de jouer avec **« Isiwo »**. Ce mot yorùbá signifie qu'à tout moment les joueurs peuvent parcourir leur propre pile de cartes capturées. Cela les aide à se souvenir des cartes restant dans le jeu, ce qui est particulièrement important lors des derniers tours.
 
-When playing without Isiwo, cards that have been scooped cannot be looked at by anyone until the end of the play.
+En jouant sans Isiwo, les cartes qui ont été capturées ne peuvent être regardées par personne avant la fin de la partie.
 
-Under no circumstance are players allowed to look at their **opponents'** scooped cards. For example, if a player plays a card and uses it to take some cards from the table and add them to his scooped cards, the opponent cannot look at these cards to check whether the play was legal. If the opponent thinks the scoop was illegal, he can accuse the player of an illegal scoop, but if the accusation turns out to be false, the accuser suffers a penalty.
+En aucune circonstance les joueurs ne sont autorisés à regarder les cartes capturées de leurs **adversaires**. Par exemple, si un joueur joue une carte et l'utilise pour prendre des cartes de la table et les ajouter à ses cartes capturées, l'adversaire ne peut pas regarder ces cartes pour vérifier si le jeu est légal. Si l'adversaire pense que la capture est illégale, il peut accuser le joueur d'une capture illégale, mais si l'accusation se révèle fausse, l'accusateur subit une pénalité.
 
-## Scoring
+## Décompte
 
-At the end of the play, each player's stack of scooped cards is counted. All cards are equal in value - one point each. 
+À la fin de la partie, la pile de cartes capturées de chaque joueur est comptée. Toutes les cartes ont la même valeur — un point chacune.
 
-The captured cards are then combined and shuffled by the dealer for the next round of play. A professional Eléwénjewé game consists of three rounds; an amateur game lasts for four rounds. The number of cards scooped by each player in the three or four rounds is added together. Whoever scooped most cards in total is the overall winner.
+Les cartes capturées sont ensuite regroupées et mélangées par le donneur pour le tour suivant. Une partie professionnelle d'Eléwénjewé comporte trois tours ; une partie amateur en comporte quatre. Le nombre de cartes capturées par chaque joueur lors des trois ou quatre tours est additionné. Celui qui a capturé le plus de cartes au total est le vainqueur.
 
-With a larger number of players the game can also be played in the following way. At the end of the game, the player with the fewest points is eliminated, and the others play another game. This continues until a single winner is determined.
+Avec un plus grand nombre de joueurs, le jeu peut aussi se jouer de la façon suivante. À la fin de la partie, le joueur ayant le moins de points est éliminé, et les autres jouent une nouvelle partie. Cela continue jusqu'à ce qu'un seul vainqueur soit déterminé.
 
-## Irregularities and Penalties
+## Irrégularités et pénalités
 
-The penalty for breaking the rules of the game varies according to the level of play. In an amateur game you may just get a warning. In a professional game you will lose one or more cards. You may suffer a penalty if:
+La pénalité pour violation des règles du jeu varie selon le niveau de jeu. Dans une partie amateur, vous pouvez simplement recevoir un avertissement. Dans une partie professionnelle, vous perdrez une ou plusieurs cartes. Vous pouvez subir une pénalité si :
 
-- You touch your opponent's cards - either the cards dealt to other players or the cards that other players have scooped. 
+- Vous touchez les cartes de votre adversaire — soit les cartes distribuées aux autres joueurs, soit les cartes que les autres joueurs ont capturées.
 
-- You touch cards on the table that you cannot scoop with the card that you played. In the Yorùbá language this is called “**Itakuta**”.
+- Vous touchez des cartes sur la table que vous ne pouvez pas capturer avec la carte que vous avez jouée. En langue yorùbá, cela s'appelle « **Itakuta** ».
 
-- During a game with Yorùbá rules, you try to make a play that is only allowed under normal rules, such as capturing duplicate cards or trying to make a protected pile with duplicate cards. This is called “**Dodo**”.
+- Au cours d'une partie avec les règles Yorùbá, vous tentez un jeu qui n'est autorisé que sous les règles normales, comme capturer des cartes en double ou tenter de former une pile protégée avec des cartes en double. Cela s'appelle « **Dodo** ».
 
-- You wrongly accuse your opponent of an illegal move - for example you accuse your opponent of wrongly scooping cards when in fact the scoop was valid.
+- Vous accusez à tort votre adversaire d'un coup illégal — par exemple vous accusez votre adversaire d'avoir capturé des cartes de manière incorrecte alors que la capture était valide.
 
-The exact penalties should be agreed before starting to play. Normally they involve the loss one card, either from the player's hand or from the player's scooped cards. 
+Les pénalités exactes doivent être convenues avant de commencer à jouer. Elles impliquent normalement la perte d'une carte, soit de la main du joueur, soit de ses cartes capturées.
 
-When losing a card from hand the player must choose one card and add it to the table cards. The player will then run out of cards one turn earlier than the others, and will miss a turn at that point. When a player loses scooped cards, they are placed face up on the table and are available for capture by any player. 
-
-Home Page > Classified Index > Fishing Games > Eléwénjewé
+Lors de la perte d'une carte de la main, le joueur doit choisir une carte et l'ajouter aux cartes de la table. Le joueur n'aura alors plus de cartes un tour avant les autres, et il perdra son tour à ce moment. Lorsqu'un joueur perd des cartes capturées, elles sont placées face visible sur la table et sont disponibles pour capture par n'importe quel joueur.

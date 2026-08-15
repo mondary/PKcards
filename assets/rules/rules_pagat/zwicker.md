@@ -3,479 +3,344 @@
 **Nombre de joueurs :** 4
 **Difficulté :** ⭐⭐⭐
 **Type :** Pêche, Pêche
-**But :** A four-player fishing card game from North Germany using a 52-card pack plus up to six Jokers.
+**But :** Un jeu de cartes de pêche à quatre joueurs du nord de l'Allemagne utilisant un jeu de 52 cartes plus jusqu'à six jokers.
 
 ---
 
 - Introduction
-
-- The players and cards
-
-- Matching values
-
-- Scoring values
-
-- The deal and play
-
-- Playing a card
-
-- Capturing
-
-- The Zwick
+- Les joueurs et les cartes
+- Valeurs de correspondance
+- Valeurs de marquage
+- La donne et le déroulement
+- Jouer une carte
+- Capture
+- Le Zwick
 
 ## Introduction
 
-**Zwicker** (also known as **Zwickern** or **Zwickeln**) is a fishing game, played in Schleswig-Holstein in North Germany. The "Zwick" (equivalent to the English "tweak") is a play by which you capture all the cards from the table, scoring a bonus. There are several variants of Zwicker. The main description on this page is of the version taught to John McLeod and Günther Senst by Dietrich Jensen, who now lives in Hamburg but comes originally from the Dithmarschen region of Schleswig-Holstein. After this two variations are described - one using 6 Jokers played in Großenwiehe and Sillerup in Schleswig, as taught to Paul Eaton by Irmgard Ewald, and one that was explained to me by Reinhardt Christiansen, a Canadian whose parents came from Schleswig-Holstein. Finally there are notes on other variations described in German card-game books. 
+**Zwicker** (aussi connu sous le nom de **Zwickern** ou **Zwickeln**) est un jeu de pêche, joué au Schleswig-Holstein dans le nord de l'Allemagne. Le « Zwick » (équivalent du mot anglais « tweak ») est un coup par lequel vous capturez toutes les cartes de la table, marquant un bonus. Il existe plusieurs variantes du Zwicker. La description principale de cette page concerne la version enseignée à John McLeod et Günther Senst par Dietrich Jensen, qui vit désormais à Hambourg mais vient originellement de la région de Dithmarschen au Schleswig-Holstein. Ensuite, deux variantes sont décrites — l'une utilisant 6 jokers, jouée à Großenwiehe et Sillerup au Schleswig, enseignée à Paul Eaton par Irmgard Ewald, et une autre expliquée par Reinhardt Christiansen, un Canadien dont les parents venaient du Schleswig-Holstein. Enfin, il y a des notes sur d'autres variantes décrites dans des livres allemands de jeux de cartes.
 
-**Note:** *Zwicker(n) is not to be confused with the similarly named Dutch game* **Zwikken** *nor with the Austrian game* **Zwicken** *- both of those are gambling trick-taking games played with a three card hand.*
+**Note :** *Zwicker(n) ne doit pas être confondu avec le jeu néerlandais de nom similaire* **Zwikken** *ni avec le jeu autrichien* **Zwicken** *— tous deux sont des jeux de pris à mise joués avec une main de trois cartes.*
 
-## The Players and Cards
+## Les joueurs et les cartes
 
-Originally, Zwicker was played with a normal 52 card deck but today jokers are usually added. Dietrich Jensen's version uses three distinct jokers, so that there are 55 cards in all. Before beginning the players must agree which is the large (25) joker, which is the middle (20) joker and which is the small (15) joker. If necessary the numbers 25, 20, 15 can be written on the face of the jokers to distinguish them.
+À l'origine, Zwicker se jouait avec un jeu normal de 52 cartes, mais aujourd'hui des jokers sont généralement ajoutés. La version de Dietrich Jensen utilise trois jokers distincts, soit 55 cartes au total. Avant de commencer, les joueurs doivent s'accorder sur le joker grand (25), le joker moyen (20) et le joker petit (15). Si nécessaire, les nombres 25, 20, 15 peuvent être écrits sur la face des jokers pour les distinguer.
 
-This game is best played by four players in two fixed partnerships, partners sitting opposite. It can be adapted for two or three, playing as individuals, but the tactical possibilities of the game are then much reduced. The four-player partnership game is described here.
+Ce jeu se joue au mieux avec quatre joueurs en deux équipes fixes, les partenaires étant assis en face. Il peut être adapté pour deux ou trois joueurs individuels, mais les possibilités tactiques du jeu sont alors bien réduites. La version à quatre joueurs en équipe est décrite ici.
 
-### Matching Values
+### Valeurs de correspondance
 
-As in other fishing games (such as Casino and Scopa) there is a layout of cards on the table, and the objective is to capture cards from the table by playing a card of matching value from your hand, and when possible to clear all the cards from the table, thus scoring a bonus for a **Zwick**.
+Comme dans les autres jeux de pêche (comme le Casino et la Scopa), il y a une disposition de cartes sur la table, et l'objectif est de capturer des cartes de la table en jouant une carte de valeur correspondante depuis votre main, et si possible de vider toutes les cartes de la table, marquant ainsi un bonus pour un **Zwick**.
 
-Each card has a **matching value**, used to determine which cards capture which. The matching values of the cards from two to ten are simply their face values. The remaining cards have matching values as follows:
+Chaque carte a une **valeur de correspondance**, utilisée pour déterminer quelles cartes capturent lesquelles. Les valeurs de correspondance des cartes du deux au dix sont simplement leurs valeurs nominales. Les cartes restantes ont les valeurs de correspondance suivantes :
 
-| Card | Matching value |
-| Ace | 1 or 11 * |
-| Jack | 2 or 12 * |
-| Queen | 3 or 13 * |
-| King | 4 or 14 * |
-| Small joker | 15 |
-| Middle joker | 20 |
-| Large joker | 25 |
+| Carte | Valeur de correspondance |
+| As | 1 ou 11 * |
+| Valet | 2 ou 12 * |
+| Dame | 3 ou 13 * |
+| Roi | 4 ou 14 * |
+| Petit joker | 15 |
+| Joker moyen | 20 |
+| Grand joker | 25 |
 
-* Aces, kings, queens and jacks have two alternative matching values. The matching value of each of these cards is chosen by the player who captures it, or captures other cards with it, or incorporates it into a build.
+* Les as, rois, dames et valets ont deux valeurs de correspondance alternatives. La valeur de correspondance de chacune de ces cartes est choisie par le joueur qui la capture, ou qui capture d'autres cartes avec elle, ou qui l'incorpore dans une construction.
 
-### Scoring values
+### Valeurs de marquage
 
-At the end of the play, the cards won by each team are counted. There are 3 points for the team that took the majority of the cards, but more important are the scores for certain valuable cards. The scoring values of the cards are different from their matching values:
+À la fin du jeu, les cartes remportées par chaque équipe sont comptées. Il y a 3 points pour l'équipe qui a remporté la majorité des cartes, mais plus importants sont les scores pour certaines cartes de valeur. Les valeurs de marquage des cartes sont différentes de leurs valeurs de correspondance :
 
-| Item | Scoring value |
-| Large (25) joker | 7 points |
-| Middle (20) joker | 6 points |
-| Small (15) joker | 5 points |
-| Ten of diamonds | 3 points |
-| Ten of spades | 1 point |
-| Two of spades | 1 point |
-| Each ace | 1 point |
-| Majority of cards | 3 points |
-| Each Zwick | 1 point |
+| Élément | Valeur de marquage |
+| Grand joker (25) | 7 points |
+| Joker moyen (20) | 6 points |
+| Petit joker (15) | 5 points |
+| 10 de carreau | 3 points |
+| 10 de pique | 1 point |
+| 2 de pique | 1 point |
+| Chaque as | 1 point |
+| Majorité des cartes | 3 points |
+| Chaque Zwick | 1 point |
 
-So there are 30 points in all to be scored for the cards, plus one extra point for each Zwick. 
+Il y a donc 30 points au total à marquer pour les cartes, plus un point supplémentaire pour chaque Zwick.
 
-## The Deal and Play
+## La donne et le déroulement
 
-Deal and play are clockwise. The first dealer is chosen at random. The dealer shuffles and the player to dealer's right cuts the cards.
+La donne et le jeu se font dans le sens horaire. Le premier donneur est choisi au hasard. Le donneur mélange et le joueur à sa droite coupe les cartes.
 
-Each hand is played in three stages. For the first stage four cards are dealt to each player, one at a time, and three cards face up on the table. The cards on the table are sometimes called the the **Picture** *(das Bild)*. The player to dealer's left plays the first card and play continues clockwise. Each turn consists of playing one card from your hand face up to the table, which can be simply played and left there, or can be used to capture cards or to make a build. When everyone has had four turns, using up their first four cards, the dealer deals another four cards to each player. The game continues as before until the players run out of cards again, at which point there is a final deal of five cards each, which exhausts the pack. When everyone has played their last five cards the play ends and the hand is scored. 
+Chaque main se joue en trois étapes. Pour la première étape, quatre cartes sont distribuées à chaque joueur, une à la fois, et trois cartes face visible sur la table. Les cartes sur la table sont parfois appelées le **Tableau** *(das Bild)*. Le joueur à la gauche du donneur joue la première carte et le jeu continue dans le sens horaire. Chaque tour consiste à jouer une carte de sa main face visible sur la table, qui peut être simplement posée et laissée là, ou utilisée pour capturer des cartes ou faire une construction. Quand tout le monde a eu quatre tours, épuisant ses quatre premières cartes, le donneur distribue quatre nouvelles cartes à chaque joueur. Le jeu continue ainsi jusqu'à ce que les joueurs n'aient plus de cartes, auquel point il y a une dernière donne de cinq cartes chacun, qui épuise le jeu. Quand tout le monde a joué ses cinq dernières cartes, le jeu s'arrête et la main est comptée.
 
-There are three possible things that you can do on your turn: to play a card which captures one or more cards; to play a card to form or add to a build; or simply to play a card without building or capturing.
+Il y a trois choses possibles que vous pouvez faire à votre tour : jouer une carte qui capture une ou plusieurs cartes ; jouer une carte pour former ou ajouter à une construction ; ou simplement jouer une carte sans construire ni capturer.
 
-### Playing a card
+### Jouer une carte
 
-The simplest thing you can do in your turn is just to play one of the cards from your hand face up on the table. It remains there and can be captured by another player later.
+La chose la plus simple que vous pouvez faire à votre tour est de poser une carte de votre main face visible sur la table. Elle y reste et peut être capturée par un autre joueur ultérieurement.
 
-### Capturing
+### Capture
 
-If you play a card that matches a card on the table (according to the matching values given above), you may (but are not forced to) capture the table card. If you decide to capture, you remove the captured card from the centre of the table and put it face down, along with the card you played, in the pile of cards won by your team. 
+Si vous jouez une carte qui correspond à une carte sur la table (selon les valeurs de correspondance données ci-dessus), vous pouvez (mais n'êtes pas obligé de) capturer la carte de la table. Si vous décidez de capturer, vous retirez la carte capturée du centre de la table et la placez face cachée, avec la carte que vous avez jouée, dans le tas de cartes remportées par votre équipe.
 
-If there are cards on the table whose matching values add up to the matching value of the card that you played, you can capture this group of cards - for example a 10 can capture a 7 and a 3, or the 25-joker can capture a king and an ace (11+14). Moreover if there are several separate single cards or groups which match the card you played you can capture any or all of these cards and groups. For example if the cards on the table are 3, 4, 7, 8, J you could play a 15-joker and capture either 8+7 and J+3 or 8+4+3. 
+S'il y a des cartes sur la table dont les valeurs de correspondance s'additionnent pour donner la valeur de correspondance de la carte que vous avez jouée, vous pouvez capturer ce groupe de cartes — par exemple un 10 peut capturer un 7 et un 3, ou le joker 25 peut capturer un roi et un as (11+14). De plus, s'il y a plusieurs cartes simples ou groupes séparés qui correspondent à la carte que vous avez jouée, vous pouvez capturer tout ou partie de ces cartes et groupes. Par exemple, si les cartes sur la table sont 3, 4, 7, 8, V, vous pourriez jouer un joker 15 et capturer soit 8+7 et V+3 soit 8+4+3.
 
-**You are never obliged to make a capture, nor to make all possible captures with the card you play.**
+**Vous n'êtes jamais obligé d'effectuer une capture, ni d'effectuer toutes les captures possibles avec la carte que vous jouez.**
 
-Note that in serious play your partner is not allowed to point out capture possibilities which you may have overlooked - if you don't take all the cards you are entitled to capture, the remainder stay on the table.
+Notez que dans un jeu sérieux, votre partenaire n'est pas autorisé à signaler les possibilités de capture que vous auriez pu oublier — si vous ne prenez pas toutes les cartes que vous avez le droit de capturer, le reste reste sur la table.
 
 ### Zwick
 
-If you capture everything on the table, leaving it empty, you score one point for a **Zwick**. You place one of the captured cards face up in the pile of cards you have won, so that the number of Zwicks scored by each side can easily be counted at the end. It makes the counting easier at the end if the face up card is not a scoring card.
+Si vous capturez tout ce qui est sur la table, la laissant vide, vous marquez un point pour un **Zwick**. Vous placez l'une des cartes capturées face visible dans le tas de cartes que vous avez remportées, de sorte que le nombre de Zwick marqués par chaque camp puisse être facilement compté à la fin. Le comptage est facilité à la fin si la carte face visible n'est pas une carte à points.
 
-**Example:** if the cards on the table are 2, 4, 6, 10, J and you play a jack from your hand you can count the jack you play as 12 and the one on the table as 2 and thereby capture all the cards on the table as two groups adding up to 12 (2+4+6 and 10+jack), making a Zwick.
+**Exemple :** si les cartes sur la table sont 2, 4, 6, 10, V et que vous jouez un valet de votre main, vous pouvez compter le valet que vous jouez comme 12 et celui sur la table comme 2 et ainsi capturer toutes les cartes de la table en deux groupes s'additionnant à 12 (2+4+6 et 10+valet), réalisant un Zwick.
 
-After a Zwick, the next player of course has nothing to capture or build onto, so must simply play a card to the table. The following player can either capture that card, scoring another Zwick, or play another card to the table, and so on.
+Après un Zwick, le joueur suivant n'a évidemment rien à capturer ni à construire, il doit donc simplement jouer une carte sur la table. Le joueur suivant peut soit capturer cette carte, marquant un autre Zwick, soit jouer une autre carte sur la table, et ainsi de suite.
 
-### Building
+### Construction
 
-The third possible type of play is to make a **build**, which is a card or a pile of cards with an announced value and an owner. The owner must have a card that matches the value of the build, and must eventually capture the build unless it is first captured or modified by some other player. Normally you build for yourself, but if your partner has previously built a particular value and has not yet played the matching card, you can make another build of this value "for partner". Note that if you own a build, you do not have to capture it at your next opportunity - you can modify the build or make a new build, or make a different capture or even just play a card to the table. Your only obligation if you do not capture a build that you own is to keep in your hand a card which matches its value so that you can capture it later if it is left for you. 
+Le troisième type de coup possible est de faire une **construction**, qui est une carte ou un tas de cartes avec une valeur annoncée et un propriétaire. Le propriétaire doit avoir une carte qui correspond à la valeur de la construction, et doit finalement capturer la construction à moins qu'elle ne soit d'abord capturée ou modifiée par un autre joueur. Normalement vous construisez pour vous-même, mais si votre partenaire a déjà construit une valeur particulière et n'a pas encore joué la carte correspondante, vous pouvez faire une autre construction de cette valeur « pour le partenaire ». Notez que si vous êtes propriétaire d'une construction, vous n'êtes pas obligé de la capturer à votre prochaine opportunité — vous pouvez modifier la construction ou en faire une nouvelle, ou effectuer une capture différente, ou même simplement jouer une carte sur la table. Votre seule obligation si vous ne capturez pas une construction dont vous êtes propriétaire est de conserver dans votre main une carte qui correspond à sa valeur pour pouvoir la capturer ultérieurement si elle vous est laissée.
 
-To make a single card build you simply announce the value as you play the card - if it is an ace, jack, queen or king you must fix its value at this point. For example if you have two queens in your hand you can play one of them announcing either "13" or "3". You are then obliged to keep the other queen to capture it, unless someone else modifies or captures it first. If you had just one queen and a three you could play the queen announcing "3", but not "13".
+Pour faire une construction d'une seule carte, vous annoncez simplement la valeur en jouant la carte — s'il s'agit d'un as, d'un valet, d'une dame ou d'un roi, vous devez fixer sa valeur à ce moment-là. Par exemple, si vous avez deux dames en main, vous pouvez en jouer une en annonçant soit « 13 » soit « 3 ». Vous êtes alors obligé de conserver l'autre dame pour la capturer, à moins que quelqu'un d'autre ne la modifie ou ne la capture en premier. Si vous n'aviez qu'une seule dame et un trois, vous pourriez jouer la dame en annonçant « 3 », mais pas « 13 ».
 
-If you play a card onto an existing card or build you take over ownership and modify the old value by **adding or subtracting** the value of the card you play. To do this you must hold another card in your hand that matches the new value of the build you are modifying.
+Si vous jouez une carte sur une carte existante ou une construction, vous en prenez possession et modifiez l'ancienne valeur en **additionnant ou soustrayant** la valeur de la carte que vous jouez. Pour ce faire, vous devez avoir une autre carte en main qui correspond à la nouvelle valeur de la construction que vous modifiez.
 
-**Example**: if there is a 9 on the table and you hold 2, 7, A, you may play your 2 on the 9 and announce either "11" (by addition) or "7" (by subtraction). Alternatively, you could play your 7 on the 9 and announce "2". You cannot build your ace on the 9 - the result would have to be 8 (subtraction) or 10 or 20 (addition) and you do not have cards matching any of these values. 
+**Exemple :** s'il y a un 9 sur la table et que vous avez 2, 7, A, vous pouvez jouer votre 2 sur le 9 et annoncer soit « 11 » (par addition) soit « 7 » (par soustraction). Alternativement, vous pourriez jouer votre 7 sur le 9 et annoncer « 2 ». Vous ne pouvez pas construire votre as sur le 9 — le résultat devrait être 8 (soustraction) ou 10 ou 20 (addition) et vous n'avez pas de cartes correspondant à l'une de ces valeurs.
 
-**Another example:** suppose that the 25-joker is on the table, and your partner has just played a queen, announcing 13. If you have a jack, when your turn comes you can build the jack on the joker, subtracting 12 and announcing "13 for partner", so that your partner's other queen can take your build as well, thus winning the joker. 
+**Un autre exemple :** supposons que le joker 25 est sur la table et que votre partenaire vient de jouer une dame en annonçant 13. Si vous avez un valet, à votre tour vous pouvez construire le valet sur le joker, en soustrayant 12 et en annonçant « 13 pour le partenaire », de sorte que l'autre dame de votre partenaire puisse prendre votre construction également, remportant ainsi le joker.
 
-Note that when building you can start a new pile or add to a single existing pile, but you can never combine separate table cards or piles into a single build.
+Notez que lors d'une construction, vous pouvez commencer un nouveau tas ou ajouter à un seul tas existant, mais vous ne pouvez jamais combiner des cartes ou tas séparés de la table en une seule construction.
 
-If you build with a card which is equal to the previous value of the card or pile on which you play it, you have the extra option of leaving the value of the build the same. For example if you play a 10 on a 10 you can make a build of 10 (if you have yet another 10 in your hand) or you can make it 20 (if you have the 20-joker). Playing a matching card on a build and leaving the value unchanged does **not** prevent further modifications. (Note that this is different from the corresponding rule in Casino.) In fact **any** built pile continues to behave just like a single card build with the same value.
+Si vous construisez avec une carte égale à la valeur précédente de la carte ou du tas sur lequel vous la jouez, vous avez l'option supplémentaire de laisser la valeur de la construction inchangée. Par exemple, si vous jouez un 10 sur un 10, vous pouvez faire une construction de 10 (si vous avez un autre 10 en main) ou vous pouvez la faire de 20 (si vous avez le joker 20). Jouer une carte correspondante sur une construction et laisser la valeur inchangée **n'empêche pas** les modifications ultérieures. (Notez que c'est différent de la règle correspondante au Casino.) En fait, **tout** tas construit continue de se comporter exactement comme une construction d'une seule carte de même valeur.
 
-A built card or pile can be modified by any player, or can be captured alone or with other cards or builds. 
+Une carte ou un tas construit peut être modifié par n'importe quel joueur, ou être capturé seul ou avec d'autres cartes ou constructions.
 
-Note that separate cards or builds on the table can only be captured by matching or addition, **never by subtraction**. Suppose for example that the table contains a build of 9, a build of 13 and a separate 4. If you play a queen, you can make a Zwick (13 and 9+4), but if you play a 9, you can only take the 9 build. There is no way that the 9 can take the 13 and the 4.
+Notez que les cartes ou constructions séparées sur la table ne peuvent être capturées que par correspondance ou addition, **jamais par soustraction**. Supposons par exemple que la table contienne une construction de 9, une construction de 13 et un 4 séparé. Si vous jouez une dame, vous pouvez faire un Zwick (13 et 9+4), mais si vous jouez un 9, vous ne pouvez prendre que la construction de 9. Il n'y a aucun moyen pour le 9 de prendre le 13 et le 4.
 
-## End of the game; scoring
+## Fin de la partie ; marquage
 
-Any uncaptured cards remaining on the table at the end of the first or second stage of the game remain there and are available for capture in the following stage. 
+Toute carte non capturée restant sur la table à la fin de la première ou de la deuxième étape du jeu y reste et est disponible pour la capture lors de l'étape suivante.
 
-If there are cards remaining on the table at the end of the third and last stage, they are all won by the last team that made a capture. This does not normally count as a Zwick. However, if the dealer's last card validly captures all the cards from the table leaving nothing, the dealer's team does score a Zwick for this. 
+S'il reste des cartes sur la table à la fin de la troisième et dernière étape, elles sont toutes remportées par la dernière équipe à avoir effectué une capture. Cela ne compte normalement pas comme un Zwick. Cependant, si la dernière carte du donneur capture validement toutes les cartes de la table sans rien laisser, l'équipe du donneur marque bien un Zwick pour cela.
 
-At the end of the play each side then counts the value of cards they have won and their Zwicks; the two teams' scores should total 30 plus the number of Zwicks made. The scores are recorded and the turn to deal passes to the left. Zwickern is generally not played for money. If you play a series of hands, the overall winners are the team with the higher total score at the end.
+À la fin du jeu, chaque camp compte la valeur des cartes qu'il a remportées et ses Zwick ; le total des scores des deux équipes doit être de 30 plus le nombre de Zwick réalisés. Les scores sont enregistrés et le droit de donner passe à gauche. Zwickern n'est généralement pas joué pour de l'argent. Si vous jouez une série de manches, les vainqueurs globaux sont l'équipe ayant le score total le plus élevé à la fin.
 
-## Notes on tactics
+## Notes sur la tactique
 
-The jokers account for more than half of the points, so much of the game centres around capturing or saving the jokers, and to a lesser extent the ten of diamonds. This is difficult because of their high matching values; they do not match any other single card. 
+Les jokers représentent plus de la moitié des points, le jeu tourne donc en grande partie autour de la capture ou de la sauvegarde des jokers, et dans une moindre mesure du 10 de carreau. C'est difficile en raison de leurs valeurs de correspondance élevées ; ils ne correspondent à aucune autre carte simple.
 
-You should avoid leaving cards totals of 10, 15, 20 or 25 on the table if the corresponding high value card might be held by an opponent. You do not want to let them save it easily by capturing a group of cards. If you hold a joker yourself, you will generally try to make a build to the value of your joker. The opponents will probably try to destroy this build, either by subtraction or by increasing it to match a larger joker that they hold, but your partner, knowing the joker you hold, may be able to restore it or make other builds to the same value on your behalf. 
+Vous devriez éviter de laisser des totaux de cartes de 10, 15, 20 ou 25 sur la table si la carte de grande valeur correspondante pourrait être détenue par un adversaire. Vous ne voulez pas leur permettre de la sauver facilement en capturant un groupe de cartes. Si vous détenez vous-même un joker, vous essayerez généralement de faire une construction à la valeur de votre joker. Les adversaires essayeront probablement de détruire cette construction, soit par soustraction, soit en l'augmentant pour correspondre à un joker plus grand qu'ils détiennent, mais votre partenaire, sachant le joker que vous détenez, pourra peut-être la restaurer ou faire d'autres constructions de la même valeur en votre nom.
 
-If there is a joker on the table - either because it appeared in the initial deal or because it has been played there - it can only be captured by building it down. If this does not happen it will eventually be collected by the team that makes the last capture at the end of the game. Even if you cannot build down yourself you may be able to do so by cooperating with your partner. 
+S'il y a un joker sur la table — soit parce qu'il est apparu dans la donne initiale, soit parce qu'il y a été joué — il ne peut être capturé qu'en le construisant à la baisse. Si cela ne se produit pas, il finira par être récupéré par l'équipe qui effectue la dernière capture à la fin de la partie. Même si vous ne pouvez pas le construire à la baisse vous-même, vous pouvez peut-être le faire en coopérant avec votre partenaire.
 
-**Example:** If the 25-joker is on the table along with a 5 and you hold a queen and an 8, you can play your 8 on the 5 building 13. Now your partner knows that you have a queen, and may be able to play a jack on the joker, building 13 for you.
+**Exemple :** Si le joker 25 est sur la table avec un 5 et que vous détenez une dame et un 8, vous pouvez jouer votre 8 sur le 5 pour construire 13. Maintenant votre partenaire sait que vous avez une dame et peut être capable de jouer un valet sur le joker, construisant 13 pour vous.
 
-You should generally avoid leaving a combination of cards on the table that will allow your left hand opponent to score a Zwick. Not only does a Zwick score a point, but it puts your partner under pressure. It may be the start of a series of enemy Zwicks, your partner's card being matched by the right-hand opponent, and so on.
+Vous devriez généralement éviter de laisser une combinaison de cartes sur la table qui permettrait à votre adversaire de gauche de marquer un Zwick. Non seulement un Zwick marque un point, mais il met votre partenaire sous pression. Il peut être le début d'une série de Zwick ennemis, la carte de votre partenaire étant mise en correspondance par l'adversaire de droite, et ainsi de suite.
 
-You should generally try to avoid playing aces, kings, queens and jacks except when capturing or building with them. If left free on the table they give the next player more options, because of their alternative matching values. In general it is bad to play low matching value cards to the table, as they are too easy to capture. Cards 5 to 9 give the next player fewer chances, especially if you have more cards of the same rank.
+Vous devriez généralement essayer d'éviter de jouer des as, rois, dames et valets sauf lors de captures ou de constructions avec eux. Laissés libres sur la table, ils donnent au joueur suivant plus d'options en raison de leurs valeurs de correspondance alternatives. En général, il est mauvais de jouer des cartes de faible valeur de correspondance sur la table, car elles sont trop faciles à capturer. Les cartes de 5 à 9 donnent au joueur suivant moins de possibilités, surtout si vous avez plusieurs cartes du même rang.
 
-## Zwicker with 6 Jokers
+## Zwicker à 6 jokers
 
-The version of Zwickern played in Großenwiehe and Sillerup, as taught to Paul Eaton by Irmgard Ewald, uses a 52-card pack plus 6 Jokers. 58-card packs of this form were sold as Zwicker cards from the 1950's onwards by the card-maker ASS from and were more recently available from Nürnberger Spielkarten. 
+La version de Zwickern jouée à Großenwiehe et Sillerup, enseignée à Paul Eaton par Irmgard Ewald, utilise un jeu de 52 cartes plus 6 jokers. Des jeux de 58 cartes de cette forme ont été vendus comme cartes de Zwicker à partir des années 1950 par le fabricant de cartes ASS et étaient plus récemment disponibles auprès de Nürnberger Spielkarten.
 
-The rules are similar to those of the Dithmarschen game described above with the following differences.
+Les règles sont similaires à celles du jeu de Dithmarschen décrit ci-dessus, avec les différences suivantes.
 
-The Jokers have matching values 15, 17, 20, 22, 25 and 30. Since the Jokers as printed are not all distinguishable from their designs, the values need to be written at the tops of the cards before they are used.
+Les jokers ont des valeurs de correspondance de 15, 17, 20, 22, 25 et 30. Étant donné que les jokers imprimés ne sont pas tous distinguables par leur dessin, les valeurs doivent être écrites en haut des cartes avant utilisation.
 
-The game can be played by 2, 3, 4 or 6 players. 4 or 6 players play as two teams, each player sitting between two opponents. The initial deal is two cards to each player, then five face up to the table, then two more to each player and five more to the table. So the initial table layout has 10 face-up cards and each player has 4. Subsequent deals are 4 cards to each player, two at a time, but no more to the table.
+Le jeu peut être joué par 2, 3, 4 ou 6 joueurs. À 4 ou 6 joueurs, on joue en deux équipes, chaque joueur étant assis entre deux adversaires. La donne initiale est de deux cartes à chaque joueur, puis cinq face visible sur la table, puis deux autres à chaque joueur et cinq autres sur la table. La disposition initiale sur la table comporte donc 10 cartes face visibles et chaque joueur en a 4. Les donnes suivantes sont de 4 cartes à chaque joueur, deux à la fois, mais plus rien sur la table.
 
-In the team game a player may ask a partner (*Magger*) whether they have a card of a particular value, and if they do, the player can then make a build of that value for partner.
+Dans le jeu en équipe, un joueur peut demander à son partenaire (*Magger*) s'il a une carte d'une valeur particulière, et si oui, le joueur peut alors faire une construction de cette valeur pour le partenaire.
 
-All four Tens are scoring cards, and the larger Jokers are worth a lot more than in the Dithmarschen game: each scores just 10 points less than its matching value. The Joker scores are sometimes written at the bottom of each card. The scores are:
+Les quatre 10 sont des cartes à points, et les jokers plus grands valent beaucoup plus que dans le jeu de Dithmarschen : chacun vaut exactement 10 points de moins que sa valeur de correspondance. Les scores des jokers sont parfois écrits en bas de chaque carte. Les scores sont :
 
-| Item | Scoring value |
-| 30-joker | 20 points |
-| 25-joker | 15 points |
-| 22-Joker | 12 points |
-| 20-Joker | 10 points |
-| 17-Joker | 7 points |
-| 15-Joker | 5 points |
-| Ten of diamonds | 3 points |
-| All other Tens | 1 point each |
-| Two of spades (Pingel) | 1 point |
-| Aces | 1 point each |
-| Majority of cards | 3 points |
-| Each Zwick | 1 point |
+| Élément | Valeur de marquage |
+| Joker 30 | 20 points |
+| Joker 25 | 15 points |
+| Joker 22 | 12 points |
+| Joker 20 | 10 points |
+| Joker 17 | 7 points |
+| Joker 15 | 5 points |
+| 10 de carreau | 3 points |
+| Tous les autres 10 | 1 point chacun |
+| 2 de pique (Pingel) | 1 point |
+| As | 1 point chacun |
+| Majorité des cartes | 3 points |
+| Chaque Zwick | 1 point |
 
-So normally the total of the points scored by the players or teams is 83 plus the number of Zwicks. If there is a tie for most cards the 'cards' points are not awarded and the total is 80 points plus Zwicks.
+Normalement, le total des points marqués par les joueurs ou équipes est de 83 plus le nombre de Zwick. S'il y a égalité pour le plus grand nombre de cartes, les points « cartes » ne sont pas attribués et le total est de 80 points plus les Zwick.
 
-## Christiansen Version of
-"Zwickern"
+## Version Christiansen du « Zwickern »
 
-*This section was contributed by Reinhardt Christiansen, a lifelong Canadian, who learnt the game from his late father, formerly of Schleswig-Holstein. His mother's family also played a very similar version of Zwickern. Reinhardt played the game as a child in the late 1960s, and is no longer absolutely certain of all of the details of the game, especially the exact scoring, but has re-created the rules to the best of his ability below.*
+*Cette section a été contribuée par Reinhardt Christiansen, un Canadien de toujours, qui a appris le jeu de son père défunt, originaire du Schleswig-Holstein. La famille de sa mère jouait aussi une version très similaire du Zwickern. Reinhardt a joué au jeu enfant à la fin des années 1960 et n'est plus absolument certain de tous les détails du jeu, en particulier du marquage exact, mais a reconstitué les règles au mieux de ses capacités ci-dessous.*
 
-The Christiansen version of the game uses many of the same principles as the game described above, but introduces some important variations. The differences are as follows:
+La version Christiansen du jeu utilise bon nombre des mêmes principes que le jeu décrit ci-dessus, mais introduit quelques variations importantes. Les différences sont les suivantes :
 
-- It is played by two, three or four players as individuals.
-- Four jokers are used, with matching values of 15, 20, 25 and 30. This results in a deck of 56 cards, the normal 52 card pack and 4 jokers. The 30 joker presents a special challenge: since no two non-jokers can add up to 30, it is clear that any building involving the 30 joker must involve another joker. For example, if the 30 joker is lying on the table, a player having a 5 and the 25 joker could use the 5 to build the 30 joker down to 25. Of course, another player could then build the 25 down to another value that could be taken by a non-joker, e.g. reduce the 25 to a 14 (King) by building it down with an ace (11).
+- Il se joue à deux, trois ou quatre joueurs individuels.
+- Quatre jokers sont utilisés, avec des valeurs de correspondance de 15, 20, 25 et 30. Il en résulte un jeu de 56 cartes, le jeu normal de 52 cartes et 4 jokers. Le joker 30 présente un défi particulier : puisque deux non-jokers ne peuvent s'additionner pour faire 30, il est clair que toute construction impliquant le joker 30 doit impliquer un autre joker. Par exemple, si le joker 30 est posé sur la table, un joueur ayant un 5 et le joker 25 pourrait utiliser le 5 pour construire le joker 30 à la baisse jusqu'à 25. Bien sûr, un autre joueur pourrait alors construire le 25 à la baisse vers une autre valeur qui pourrait être prise par un non-joker, par exemple réduire le 25 à 14 (roi) en le construisant à la baisse avec un as (11).
 
-- The number of cards dealt is different: 
+- Le nombre de cartes distribuées est différent :
 
-**Two handed version** 
-During the initial deal, each player gets 8 cards and 8 cards are dealt face up to the center of the table. In the second and third rounds, each player is again dealt 8 cards but no new cards are dealt to the Picture. 
-**Three handed version** 
-During the initial deal, each player gets 8 cards and 8 cards are dealt face up to the center of the table. In the second round, each player is again dealt 8 cards but no new cards are dealt to the Picture. 
-**Four handed version** 
-During the initial deal, each player gets 6 cards and 8 cards are dealt face up to the center of the table. During the second round, each player is again dealt 6 cards but no new cards are dealt to the Picture. 
+**Version à deux joueurs**
+Lors de la donne initiale, chaque joueur reçoit 8 cartes et 8 cartes sont distribuées face visible au centre de la table. Au deuxième et au troisième tour, chaque joueur reçoit à nouveau 8 cartes mais aucune nouvelle carte n'est distribuée au Tableau.
 
-- The values of the cards are the same as in Dietrich Jensen's version above, with the exception of the jokers. The scoring values are:
+**Version à trois joueurs**
+Lors de la donne initiale, chaque joueur reçoit 8 cartes et 8 cartes sont distribuées face visible au centre de la table. Au deuxième tour, chaque joueur reçoit à nouveau 8 cartes mais aucune nouvelle carte n'est distribuée au Tableau.
 
-| Item |   | Scoring value |
-| 30 joker | | 7 points |
-| 25 joker | | 6 points |
-| 20 joker | | 5 points |
-| 15 joker | | 4 points |
-| 10 of Diamonds (cardinal) | | 3 points |
-| 10 of Spades (honour) | | 1 point |
-| 2 of Spades (honour) | | 1 point |
-| Each ace | | 1 point |
-| Winning most cards | | 3 points(not awarded if there is a tie) |
-| Each Zwick | | 1 point |
-
-### A Sample Game of Zwickern
-(Christiansen variation)
-
-The following is an example of a game of Zwickern, played according to the rules of the Christiansen variation. It is annotated to highlight the reasoning behind each player's
-actions during the game. 
-
-Four imaginary players, Albert, Beatrice, Charlie, and Dianne
-are having a game of Zwicker. None of these players is especially
-gifted so each is capable of making poor plays when better plays
-are possible. Albert won the right to deal. After the deal for
-the first hand, the cards are distributed as follows: 
-
-**Albert: ![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)J, ![heart](../images/internat/heart.gif)3 ; ![diamond](../images/internat/diamond.gif)10 ; Joker 15
-
-Beatrice: ![spade](../images/internat/spade.gif)K ; ![club](../images/internat/club.gif)8, ![club](../images/internat/club.gif)7, ![club](../images/internat/club.gif)3 ; ![heart](../images/internat/heart.gif)9, ![heart](../images/internat/heart.gif)5 
-
-Charlie: ![spade](../images/internat/spade.gif)8, ![spade](../images/internat/spade.gif)7, ![spade](../images/internat/spade.gif)3 ; ![diamond](../images/internat/diamond.gif)J, ![diamond](../images/internat/diamond.gif)5 ; ![heart](../images/internat/heart.gif)6 
-
-Dianne: ![diamond](../images/internat/diamond.gif)9, ![diamond](../images/internat/diamond.gif)6 ; ![spade](../images/internat/spade.gif)J, ![spade](../images/internat/spade.gif)10 ; ![heart](../images/internat/heart.gif)4 ; Joker 20
-
-Picture: ![spade](../images/internat/spade.gif)Q ; ![diamond](../images/internat/diamond.gif)A, ![diamond](../images/internat/diamond.gif)8, ![diamond](../images/internat/diamond.gif)4, ![diamond](../images/internat/diamond.gif)2 ; ![club](../images/internat/club.gif)2 ; ![heart](../images/internat/heart.gif)10 ; Joker 30** 
-
-The first hand is played out as follows: 
-
-- Beatrice is to the left of Albert and plays first. She
-sees that the **![spade](../images/internat/spade.gif)Q** and the **![diamond](../images/internat/diamond.gif)A** add to 14, assuming
-that they are valued respectively as 13 and 1 or 3 and
-11, and that the **![diamond](../images/internat/diamond.gif)8**, **![diamond](../images/internat/diamond.gif)4**, and **![diamond](../images/internat/diamond.gif)2** also add to 14, so she
-takes both builds with her **![spade](../images/internat/spade.gif)K**. (She could have taken the **![heart](../images/internat/heart.gif)10** and **![diamond](../images/internat/diamond.gif)4** instead of the **![diamond](../images/internat/diamond.gif)8**,** ![diamond](../images/internat/diamond.gif)4**, and** ![diamond](../images/internat/diamond.gif)2**, but she feels that the
-one extra card will help her chances of getting the bonus
-for having the most cards at the end of the hand.) 
-
-- Charlie is to the left of Beatrice and plays next. He
-sees that the **![heart](../images/internat/heart.gif)10** and the **![club](../images/internat/club.gif)2** add to 12, the value of a jack, so
-he takes these cards with his **![diamond](../images/internat/diamond.gif)J**. 
-
-- Dianne is to the left of Charlie and plays next. Dianne
-sees that the only card left on the table is the **Joker
-30**. Fortunately, she has a **Joker 20**
-and a **10**. She plays the **![spade](../images/internat/spade.gif)10** on the **Joker 30**
-and announces that it is now worth 20. She can only do
-this because she has a **Joker 20**. If she
-was missing either the **Joker 20** or a **10**,
-she could not build the **Joker 30** down.
-In other words, a player can only build a card up or down
-to a value that he has in his own hand. (Dianne could
-have played her **Joker 20** on the **Joker
-30** and made the result a 10 but she reasoned
-that it was safer to make the build a 20 than a 10: she
-knows that she has the only card worth 20 whereas there
-are four 10s (one of which she has and one of which has
-previously been taken) in the deck, so she opts to make
-the build a 20 rather than a 10. In either case, there is
-a risk that another player could build the 10 or 20 up or
-down to something that she doesn't have and can't build
-up or down herself.) 
-
-- Albert is the next to play. He sees that he has no two
-cards that add up to 20 so he can do nothing but discard
-something from his hand. He discards the **![heart](../images/internat/heart.gif)3** into the picture. 
-
-- Beatrice also has no pair of cards that add up to 20 so
-she can do nothing about the **Joker 30 - ![spade](../images/internat/spade.gif)10** build. She uses her **![club](../images/internat/club.gif)3** to take the **![heart](../images/internat/heart.gif)3** discarded by Albert. 
-
-- Charlie also has no pair of cards that add to 20 so he
-can only discard something from his hand. He discards the
-**![spade](../images/internat/spade.gif)3**. 
-
-- Dianne plays her **Joker 20** on the **Joker
-30 - ![spade](../images/internat/spade.gif)10** build to take it.
-Charlie's **![spade](../images/internat/spade.gif)3** is still on
-the table so she does not get a Zwick. 
-
-- Albert plays his **![heart](../images/internat/heart.gif)J** on the **![spade](../images/internat/spade.gif)3**, declaring that the build has the
-value 15. 
-
-- Since Albert obviously has a **Joker 15**,
-which would be worth 4 points in final scoring, Beatrice
-decides to reduce the chance that he can use it. She
-plays her **![club](../images/internat/club.gif)8** on the **![spade](../images/internat/spade.gif)3-![heart](../images/internat/heart.gif)J** build,
-declaring that its value has now been reduced to 7. 
-
-- Charlie plays his **![spade](../images/internat/spade.gif)7** to take the new build off the
-table. This clears the table and makes a Zwick. He
-chooses one of the cards that he has taken, a card which
-is worth no points, and leaves it face up in front of him
-to indicate his Zwick. 
-
-- There are no cards in the center of the table so Dianne
-must discard something from her hand. She chooses to
-discard the **![heart](../images/internat/heart.gif)4**. 
-
-- Albert knows that his **![heart](../images/internat/heart.gif)K** is worth 4 or 14. He uses it to
-take the **![heart](../images/internat/heart.gif)4** on the
-table. He also marks a Zwick. 
-
-- Beatrice has no choice but to discard something from her
-hand. She discards the **![club](../images/internat/club.gif)7**. 
-
-- Charlie has no seven and he has no pair of cards that add
-up to seven so he knows he must discard something. He
-knows that if he discards his **![spade](../images/internat/spade.gif)8** and that if Dianne cannot remove
-either the **![club](../images/internat/club.gif)7** or the **![spade](../images/internat/spade.gif)8** from the table in her turn, Albert
-will be able to take them with his **Joker 15**.
-He wants to avoid that so he discards his **![heart](../images/internat/heart.gif)6**. 
-
-- Dianne has no Queen, which has a value of 13, so she
-can't take both the **![club](../images/internat/club.gif)7** and the **![heart](../images/internat/heart.gif)6**. She takes the **![heart](../images/internat/heart.gif)6** on the table with her **![diamond](../images/internat/diamond.gif)6**, leaving the **![club](../images/internat/club.gif)7** alone on the table. 
-
-- Albert can do nothing so he discards his **![heart](../images/internat/heart.gif)A**. (He chooses the **![heart](../images/internat/heart.gif)A** because it is worth fewer points
-than either the **Joker 15** or the **![diamond](../images/internat/diamond.gif)10**. The other players
-still have two cards each and he doesn't want anyone to
-be able to snap up these two valuable cards if he can
-prevent it. He prefers to play these cards as late as
-possible in the belief that they will then be left on the
-table until the next hand when he has more cards and has
-a better chance to take them himself.) 
+**Version à quatre joueurs**
+Lors de la donne initiale, chaque joueur reçoit 6 cartes et 8 cartes sont distribuées face visible au centre de la table. Lors du deuxième tour, chaque joueur reçoit à nouveau 6 cartes mais aucune nouvelle carte n'est distribuée au Tableau.
 
-- Beatrice can't take either of the cards on the table so
-she discards her **![heart](../images/internat/heart.gif)5**. 
+- Les valeurs des cartes sont les mêmes que dans la version de Dietrich Jensen ci-dessus, à l'exception des jokers. Les valeurs de marquage sont :
 
-- Charlie has two possible moves: he could take the **![heart](../images/internat/heart.gif)5** with his **![diamond](../images/internat/diamond.gif)5** or he could take the **![club](../images/internat/club.gif)7** and the **![heart](../images/internat/heart.gif)A** with his **8**. Since
-going after the **![heart](../images/internat/heart.gif)A **and** ![club](../images/internat/club.gif)7** will result in him taking three
-cards rather than two, thus increasing his chances of
-having the most cards at the end of the game, and since
-the ace will be worth a point at the end of the game, he
-chooses to take the **![heart](../images/internat/heart.gif)A **and** ![club](../images/internat/club.gif)7** build with his **![spade](../images/internat/spade.gif)8**. 
+| Élément | | Valeur de marquage |
+| Joker 30 | | 7 points |
+| Joker 25 | | 6 points |
+| Joker 20 | | 5 points |
+| Joker 15 | | 4 points |
+| 10 de carreau (cardinal) | | 3 points |
+| 10 de pique (honneur) | | 1 point |
+| 2 de pique (honneur) | | 1 point |
+| Chaque as | | 1 point |
+| Majorité des cartes | | 3 points (non attribué en cas d'égalité) |
+| Chaque Zwick | | 1 point |
 
-- Dianne can do nothing so she chooses to discard her **![spade](../images/internat/spade.gif)J**. 
+### Une partie exemple de Zwickern
+(variante Christiansen)
 
-- Albert plays his **![diamond](../images/internat/diamond.gif)10** on the **![heart](../images/internat/heart.gif)5**, declaring that the build is now
-worth 15. 
+L'exemple suivant illustre une partie de Zwickern, jouée selon les règles de la variante Christiansen. Elle est annotée pour mettre en évidence le raisonnement derrière les actions de chaque joueur au cours de la partie.
 
-- Beatrice can do nothing so she discards her last
-remaining card, the **![heart](../images/internat/heart.gif)9**. 
+Quatre joueurs fictifs, Albert, Béatrice, Charlie et Dianne, jouent une partie de Zwicker. Aucun de ces joueurs n'est particulièrement doué, chacun est capable de faire de mauvais coups alors que de meilleurs coups sont possibles. Albert a gagné le droit de donner. Après la donne de la première main, les cartes sont réparties comme suit :
 
-- Charlie can do nothing so he discards his **![diamond](../images/internat/diamond.gif)5**. 
+**Albert : ![cœur](../images/internat/heart.gif)A, ![cœur](../images/internat/heart.gif)R, ![cœur](../images/internat/heart.gif)V, ![cœur](../images/internat/heart.gif)3 ; ![carreau](../images/internat/diamond.gif)10 ; Joker 15**
 
-- Dianne takes the **![heart](../images/internat/heart.gif)9** with her **![diamond](../images/internat/diamond.gif)9**. 
+Béatrice : ![pique](../images/internat/spade.gif)R ; ![trèfle](../images/internat/club.gif)8, ![trèfle](../images/internat/club.gif)7, ![trèfle](../images/internat/club.gif)3 ; ![cœur](../images/internat/heart.gif)9, ![cœur](../images/internat/heart.gif)5
 
-- Albert takes the **![heart](../images/internat/heart.gif)5-![diamond](../images/internat/diamond.gif)10** build
-with his **Joker 15**, leaving the **![spade](../images/internat/spade.gif)J** and the **![diamond](../images/internat/diamond.gif)5** on the table for the
-next hand. 
+Charlie : ![pique](../images/internat/spade.gif)8, ![pique](../images/internat/spade.gif)7, ![pique](../images/internat/spade.gif)3 ; ![carreau](../images/internat/diamond.gif)V, ![carreau](../images/internat/diamond.gif)5 ; ![cœur](../images/internat/heart.gif)6
 
-All of the players have exhausted their cards so Albert deals
-out the remaining cards in the deck to the players so that each
-of the four players has 6 cards. At the conclusion of this deal,
-the cards are as follows: 
+Dianne : ![carreau](../images/internat/diamond.gif)9, ![carreau](../images/internat/diamond.gif)6 ; ![pique](../images/internat/spade.gif)V, ![pique](../images/internat/spade.gif)10 ; ![cœur](../images/internat/heart.gif)4 ; Joker 20
 
-**Albert: ![club](../images/internat/club.gif)A, ![club](../images/internat/club.gif)10 ; ![spade](../images/internat/spade.gif)9, ![spade](../images/internat/spade.gif)6 ; ![heart](../images/internat/heart.gif)7 , ![diamond](../images/internat/diamond.gif)3 
+Tableau : ![pique](../images/internat/spade.gif)D ; ![carreau](../images/internat/diamond.gif)A, ![carreau](../images/internat/diamond.gif)8, ![carreau](../images/internat/diamond.gif)4, ![carreau](../images/internat/diamond.gif)2 ; ![trèfle](../images/internat/club.gif)2 ; ![cœur](../images/internat/heart.gif)10 ; Joker 30
 
-Beatrice: ![club](../images/internat/club.gif)J, ![club](../images/internat/club.gif)9 ; ![spade](../images/internat/spade.gif)5, ![spade](../images/internat/spade.gif)2 ; ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)2 
+La première main se déroule comme suit :
 
-Charlie: ![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)4 ; ![club](../images/internat/club.gif)6, ![club](../images/internat/club.gif)5 ; ![diamond](../images/internat/diamond.gif)Q ; ![heart](../images/internat/heart.gif)Q 
+- Béatrice est à la gauche d'Albert et joue en premier. Elle voit que le **![pique](../images/internat/spade.gif)D** et le **![carreau](../images/internat/diamond.gif)A** s'additionnent à 14, en les comptant respectivement comme 13 et 1 ou 3 et 11, et que le **![carreau](../images/internat/diamond.gif)8**, le **![carreau](../images/internat/diamond.gif)4** et le **![carreau](../images/internat/diamond.gif)2** s'additionnent aussi à 14, elle prend donc les deux constructions avec son **![pique](../images/internat/spade.gif)R**. (Elle aurait pu prendre le **![cœur](../images/internat/heart.gif)10** et le **![carreau](../images/internat/diamond.gif)4** au lieu du **![carreau](../images/internat/diamond.gif)8**, **![carreau](../images/internat/diamond.gif)4** et **![carreau](../images/internat/diamond.gif)2**, mais elle estime que la carte supplémentaire l'aidera à obtenir le bonus du plus grand nombre de cartes en fin de manche.)
 
-Dianne: ![diamond](../images/internat/diamond.gif)K, ![diamond](../images/internat/diamond.gif)7 ; ![club](../images/internat/club.gif)K, ![club](../images/internat/club.gif)Q, ![club](../images/internat/club.gif)4 ; Joker 25
+- Charlie est à la gauche de Béatrice et joue ensuite. Il voit que le **![cœur](../images/internat/heart.gif)10** et le **![trèfle](../images/internat/club.gif)2** s'additionnent à 12, la valeur d'un valet, il prend donc ces cartes avec son **![carreau](../images/internat/diamond.gif)V**.
 
-Picture: ![spade](../images/internat/spade.gif)J ; ![diamond](../images/internat/diamond.gif)5** (left over from previous round)
+- Dianne est à la gauche de Charlie et joue ensuite. Dianne voit que la seule carte restant sur la table est le **Joker 30**. Heureusement, elle a un **Joker 20** et un **10**. Elle joue le **![pique](../images/internat/spade.gif)10** sur le **Joker 30** et annonce qu'il vaut désormais 20. Elle ne peut faire cela que parce qu'elle a un **Joker 20**. S'il lui manquait soit le **Joker 20** soit un **10**, elle ne pourrait pas construire le **Joker 30** à la baisse. En d'autres termes, un joueur ne peut construire une carte à la hausse ou à la baisse que vers une valeur qu'il a dans sa propre main. (Dianne aurait pu jouer son **Joker 20** sur le **Joker 30** et faire en sorte que le résultat soit 10, mais elle a raisonné qu'il était plus sûr de faire la construction à 20 plutôt qu'à 10 : elle sait qu'elle détient la seule carte valant 20 alors qu'il y a quatre 10 — dont un qu'elle a et un qui a été précédemment pris — dans le jeu, elle opte donc pour une construction à 20 plutôt qu'à 10. Dans les deux cas, il y a un risque qu'un autre joueur puisse construire le 10 ou le 20 à la hausse ou à la baisse vers une valeur qu'elle n'a pas et ne peut pas construire elle-même.)
 
-- Once again, Beatrice plays first. She takes the **![spade](../images/internat/spade.gif)J** with her **![club](../images/internat/club.gif)J**. 
+- Albert est le suivant à jouer. Il voit qu'il n'a pas deux cartes qui s'additionnent à 20, il ne peut donc rien faire d'autre que défausser une carte de sa main. Il défausse le **![cœur](../images/internat/heart.gif)3** dans le tableau.
 
-- Charlie takes the **![diamond](../images/internat/diamond.gif)5** with his **![club](../images/internat/club.gif)5** and marks a Zwick. 
-
-- Dianne discards her **![club](../images/internat/club.gif)4**. 
+- Béatrice n'a pas non plus de paire de cartes qui s'additionnent à 20, elle ne peut donc rien faire contre la construction **Joker 30 - ![pique](../images/internat/spade.gif)10**. Elle utilise son **![trèfle](../images/internat/club.gif)3** pour prendre le **![cœur](../images/internat/heart.gif)3** défaussé par Albert.
 
-- Albert places his **![heart](../images/internat/heart.gif)7** on the **![club](../images/internat/club.gif)4** and declares the build to be worth
-11. 
+- Charlie n'a pas non plus de paire de cartes qui s'additionnent à 20, il ne peut donc que défausser une carte de sa main. Il défausse le **![pique](../images/internat/spade.gif)3**.
 
-- Beatrice has no single card worth 11 (i.e. she has no
-ace) but she sees that she has a **![club](../images/internat/club.gif)9** and a **![spade](../images/internat/spade.gif)2** which add up to 11. She plays her **![spade](../images/internat/spade.gif)2** on the **![club](../images/internat/club.gif)4-![heart](../images/internat/heart.gif)7** build,
-declaring that it is now worth 9. (She could have played
-the **9** on the **![club](../images/internat/club.gif)4-![heart](../images/internat/heart.gif)7** build and
-declared that the build now had a value of 2 but that
-would have been riskier because there are four 2's, each
-of which is worth 2, and four jacks, each of which can be
-worth 2, so she felt it less likely that someone else
-would have a card worth 9 than a card worth 2. She could
-have used either her **![heart](../images/internat/heart.gif)2** or her **![spade](../images/internat/spade.gif)2** but she knows that the **![spade](../images/internat/spade.gif)2** is worth a point during scoring
-while the **![heart](../images/internat/heart.gif)2** is
-worthless so she chooses the **![spade](../images/internat/spade.gif)2**.) 
+- Dianne joue son **Joker 20** sur la construction **Joker 30 - ![pique](../images/internat/spade.gif)10** pour la prendre. Le **![pique](../images/internat/spade.gif)3** de Charlie est toujours sur la table, elle ne fait donc pas de Zwick.
 
-- Charlie plays his **![spade](../images/internat/spade.gif)4** on the build, declaring that the
-build now has a value of 13 (i.e. a Queen). 
+- Albert joue son **![cœur](../images/internat/heart.gif)V** sur le **![pique](../images/internat/spade.gif)3**, déclarant que la construction a la valeur 15.
 
-- Dianne uses her **![club](../images/internat/club.gif)Q** to take the build and marks a
-Zwick. 
+- Puisqu'Albert a évidemment un **Joker 15**, qui vaudrait 4 points au marquage final, Béatrice décide de réduire la chance qu'il puisse l'utiliser. Elle joue son **![trèfle](../images/internat/club.gif)8** sur la construction **![pique](../images/internat/spade.gif)3-![cœur](../images/internat/heart.gif)V**, déclarant que sa valeur a été réduite à 7.
 
-- Albert discards his **![diamond](../images/internat/diamond.gif)3**. 
+- Charlie joue son **![pique](../images/internat/spade.gif)7** pour prendre la nouvelle construction de la table. Cela vide la table et réalise un Zwick. Il choisit l'une des cartes qu'il a prises, une carte sans valeur, et la laisse face visible devant lui pour indiquer son Zwick.
 
-- Beatrice plays her **![spade](../images/internat/spade.gif)5** on the **![diamond](../images/internat/diamond.gif)3**, declaring the build
-now worth 8. 
+- Il n'y a pas de cartes au centre de la table, Dianne doit donc défausser une carte de sa main. Elle choisit de défausser le **![cœur](../images/internat/heart.gif)4**.
 
-- Charlie decides to use one of his Queens as a three and
-places **![heart](../images/internat/heart.gif)Q** it on top
-of the **![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)5 **build, declaring it now worth 11. 
+- Albert sait que son **![cœur](../images/internat/heart.gif)R** vaut 4 ou 14. Il l'utilise pour prendre le **![cœur](../images/internat/heart.gif)4** sur la table. Il marque aussi un Zwick.
 
-- Dianne sees her opportunity and plays her **![diamond](../images/internat/diamond.gif)K** on the **![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)Q** build,
-declaring the build now worth 25, the value of her **Joker**.
+- Béatrice n'a d'autre choix que de défausser une carte de sa main. Elle défausse le **![trèfle](../images/internat/club.gif)7**.
 
-- Albert can do nothing and discards his **![spade](../images/internat/spade.gif)6**. 
+- Charlie n'a pas de sept et n'a pas de paire de cartes qui s'additionnent à sept, il sait donc qu'il doit défausser quelque chose. Il sait que s'il défausse son **![pique](../images/internat/spade.gif)8** et que Dianne ne peut pas retirer le **![trèfle](../images/internat/club.gif)7** ou le **![pique](../images/internat/spade.gif)8** de la table à son tour, Albert pourra les prendre avec son **Joker 15**. Il veut éviter cela, il défausse donc son **![cœur](../images/internat/heart.gif)6**.
 
-- Beatrice can do nothing about the **![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)K** build so she plays her **![heart](../images/internat/heart.gif)2** on the **![spade](../images/internat/spade.gif)6**, declaring that the build is worth
-8. 
+- Dianne n'a pas de dame, qui a une valeur de 13, elle ne peut donc pas prendre à la fois le **![trèfle](../images/internat/club.gif)7** et le **![cœur](../images/internat/heart.gif)6**. Elle prend le **![cœur](../images/internat/heart.gif)6** sur la table avec son **![carreau](../images/internat/diamond.gif)6**, laissant le **![trèfle](../images/internat/club.gif)7** seul sur la table.
 
-- Charlie can do nothing about the **![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)5-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)K** build so he plays his **![heart](../images/internat/heart.gif)Q** on the **![spade](../images/internat/spade.gif)6-![heart](../images/internat/heart.gif)2** build and
-declares it now worth 11. 
+- Albert ne peut rien faire, il défausse donc son **![cœur](../images/internat/heart.gif)A**. (Il choisit le **![cœur](../images/internat/heart.gif)A** parce qu'il vaut moins de points que le **Joker 15** ou le **![carreau](../images/internat/diamond.gif)10**. Les autres joueurs ont encore chacun deux cartes et il ne veut pas que quelqu'un puisse s'emparer de ces deux cartes de valeur s'il peut l'empêcher. Il préfère jouer ces cartes le plus tard possible, croyant qu'elles resteront alors sur la table jusqu'à la main suivante, quand il aura plus de cartes et de meilleures chances de les prendre lui-même.)
 
-- Dianne stuns everyone by playing her **![club](../images/internat/club.gif)K** on the **![spade](../images/internat/spade.gif)6-![heart](../images/internat/heart.gif)2-![diamond](../images/internat/diamond.gif)Q** build and declaring it
-also worth 25. 
+- Béatrice ne peut prendre aucune des cartes sur la table, elle défausse son **![cœur](../images/internat/heart.gif)5**.
 
-- Albert can do nothing about either build and discards his
-**![spade](../images/internat/spade.gif)9**. 
+- Charlie a deux coups possibles : il peut prendre le **![cœur](../images/internat/heart.gif)5** avec son **![carreau](../images/internat/diamond.gif)5** ou il peut prendre le **![trèfle](../images/internat/club.gif)7** et le **![cœur](../images/internat/heart.gif)A** avec son 8. Puisque viser le **![cœur](../images/internat/heart.gif)A** et le **![trèfle](../images/internat/club.gif)7** lui permettra de prendre trois cartes plutôt que deux, augmentant ainsi ses chances d'avoir le plus de cartes en fin de partie, et puisque l'as vaudra un point en fin de partie, il choisit de prendre la construction **![cœur](../images/internat/heart.gif)A** et **![trèfle](../images/internat/club.gif)7** avec son **![pique](../images/internat/spade.gif)8**.
 
-- Beatrice can do nothing about either build so she takes
-the **![spade](../images/internat/spade.gif)9** with her **![club](../images/internat/club.gif)9**. 
+- Dianne ne peut rien faire, elle choisit donc de défausser son **![pique](../images/internat/spade.gif)V**.
 
-- Charlie can do nothing about either build so he discards
-his **![club](../images/internat/club.gif)6**. 
+- Albert joue son **![carreau](../images/internat/diamond.gif)10** sur le **![cœur](../images/internat/heart.gif)5**, déclarant que la construction vaut désormais 15.
 
-- Dianne takes both of the builds that add to 25 with her **Joker
-25**, leaving only the **![club](../images/internat/club.gif)6**. 
+- Béatrice ne peut rien faire, elle défausse sa dernière carte restante, le **![cœur](../images/internat/heart.gif)9**.
 
-- Albert can do nothing about the **![club](../images/internat/club.gif)6**, so he discards his **![club](../images/internat/club.gif)10**. 
+- Charlie ne peut rien faire, il défausse son **![carreau](../images/internat/diamond.gif)5**.
 
-- Beatrice can do nothing about either of the cards on the
-table so she discards her **![heart](../images/internat/heart.gif)8**. 
+- Dianne prend le **![cœur](../images/internat/heart.gif)9** avec son **![carreau](../images/internat/diamond.gif)9**.
 
-- Charlie can do nothing about any of the cards on the
-table so he discards his **![spade](../images/internat/spade.gif)A**. 
+- Albert prend la construction **![cœur](../images/internat/heart.gif)5-![carreau](../images/internat/diamond.gif)10** avec son **Joker 15**, laissant le **![pique](../images/internat/spade.gif)V** et le **![carreau](../images/internat/diamond.gif)5** sur la table pour la main suivante.
 
-- Dianne uses her **![diamond](../images/internat/diamond.gif)7** to take the **![club](../images/internat/club.gif)6** and the **![spade](../images/internat/spade.gif)A**. 
+Tous les joueurs ont épuisé leurs cartes, Albert distribue donc les cartes restantes du jeu aux joueurs de sorte que chacun des quatre joueurs a 6 cartes. Après cette donne, les cartes sont les suivantes :
 
-- Albert can do nothing so he discards his **![club](../images/internat/club.gif)A**. The game ends with the **![club](../images/internat/club.gif)A**, **![club](../images/internat/club.gif)10**, and **![heart](../images/internat/heart.gif)8** on the table. Since Diane took the
-last trick, she is awarded these cards but is not awarded
-a Zwick because she did not take them with a card from
-her hand.
+**Albert : ![trèfle](../images/internat/club.gif)A, ![trèfle](../images/internat/club.gif)10 ; ![pique](../images/internat/spade.gif)9, ![pique](../images/internat/spade.gif)6 ; ![cœur](../images/internat/heart.gif)7, ![carreau](../images/internat/diamond.gif)3**
 
-The players begin to score their hands, beginning with
-Beatrice: 
+Béatrice : ![trèfle](../images/internat/club.gif)V, ![trèfle](../images/internat/club.gif)9 ; ![pique](../images/internat/spade.gif)5, ![pique](../images/internat/spade.gif)2 ; ![cœur](../images/internat/heart.gif)8, ![cœur](../images/internat/heart.gif)2
 
-- **Beatrice:** She took 12 cards altogether
-but the only one that was worth anything was the **![diamond](../images/internat/diamond.gif)A**, which is worth one
-point. She had no Zwicks. Her total score for this hand
-is **1 point**. 
+Charlie : ![pique](../images/internat/spade.gif)A, ![pique](../images/internat/spade.gif)4 ; ![trèfle](../images/internat/club.gif)6, ![trèfle](../images/internat/club.gif)5 ; ![carreau](../images/internat/diamond.gif)D ; ![cœur](../images/internat/heart.gif)D
 
-- **Charlie:** He also took 12 cards. The only
-card he took that has a score value is the **![heart](../images/internat/heart.gif)A**, which has a value of one point.
-He also had two Zwicks which are worth one point each.
-His total score is **3 points**. 
+Dianne : ![carreau](../images/internat/diamond.gif)R, ![carreau](../images/internat/diamond.gif)7 ; ![trèfle](../images/internat/club.gif)R, ![trèfle](../images/internat/club.gif)D, ![trèfle](../images/internat/club.gif)4 ; Joker 25
 
-- **Dianne:** She took 27 cards, which is the
-most that anyone took, so she gets three points for that.
-The cards which had value were: the **![spade](../images/internat/spade.gif)10**, worth one point; the **![spade](../images/internat/spade.gif)2**, worth one point; the **![spade](../images/internat/spade.gif)A**, worth one point; the **![club](../images/internat/club.gif)A**, worth one point; the **Joker
-20**, worth 5 points; the **Joker 25**,
-worth 6 points, and the **Joker 30**, worth
-7 points. She also had one Zwick, worth 1 point. The
-total for her hand is **26 points**. 
+Tableau : ![pique](../images/internat/spade.gif)V ; ![carreau](../images/internat/diamond.gif)5 (restant du tour précédent)
 
-- **Albert:** He took only 5 cards. The cards
-which had value were the **Joker 15**, worth
-4 points, and the **![diamond](../images/internat/diamond.gif)10**, worth 3 points. He
-also had one Zwick, worth 1 point. His total score for
-this hand was **8 points**. 
+- Une fois de plus, Béatrice joue en premier. Elle prend le **![pique](../images/internat/spade.gif)V** avec son **![trèfle](../images/internat/club.gif)V**.
 
-## Other Variations
+- Charlie prend le **![carreau](../images/internat/diamond.gif)5** avec son **![trèfle](../images/internat/club.gif)5** et marque un Zwick.
 
-Dietrich Jensen told us that at one time Zwicker was played without jokers, and such a game is indeed described in *Das Buch der Spiele* by Robert Hülsemann (Hesse & Becker, Leipzig, 1930). The same version reappears in two later books: *"Einmaleins der Kartenspiele"* by Rita Danyliuk (München, 1972) and *"Das neue Spielbuch"* by Rudolf Dietze (Berlin, 1984).
+- Dianne défausse son **![trèfle](../images/internat/club.gif)4**.
 
-This is a much simpler game played by two or more people as individuals. The Aces and picture cards always have their higher matching values Ace=11, Jack=12, Queen=13, King=14 and building is by addition only. Players do not need to have a card matching the value of their build, but builds of more than 14 are not allowed since they could never be captured. The most valuable card is the Ten of diamonds or Cardinal which is worth 10 points. The Aces score 2 points each, the diamond-7 and spade-7 score one point each, and there is one point for the majority of cards (not awarded in case of a tie). This makes a total of 21 points for cards, in addition to which each Zwick scores 3 points. The initial deal is four cards to each player and four face up to the table to form the "picture". When the players have played their cards, another four each are dealt but no more to the picture. If there are more than 4 players a double pack can be used, for a total of 41 points plus Zwicks. 
+- Albert place son **![cœur](../images/internat/heart.gif)7** sur le **![trèfle](../images/internat/club.gif)4** et déclare la construction d'une valeur de 11.
 
-It is doubtful whether this old-fashioned version of Zwicker is still played, except perhaps by people who have learned it from a book. All the players from Schleswig-Holstein that we have encountered play the modern version with dual values for the Aces, Kings, Queens and Jacks, building by subtraction as well as addition, and Jokers with high matching and scoring values.
+- Béatrice n'a pas de carte simple valant 11 (c'est-à-dire qu'elle n'a pas d'as) mais elle voit qu'elle a un **![trèfle](../images/internat/club.gif)9** et un **![pique](../images/internat/spade.gif)2** qui s'additionnent à 11. Elle joue son **![pique](../images/internat/spade.gif)2** sur la construction **![trèfle](../images/internat/club.gif)4-![cœur](../images/internat/heart.gif)7**, déclarant qu'elle vaut désormais 9. (Elle aurait pu jouer le 9 sur la construction **![trèfle](../images/internat/club.gif)4-![cœur](../images/internat/heart.gif)7** et déclarer que la construction avait désormais une valeur de 2, mais cela aurait été plus risqué car il y a quatre 2, chacun valant 2, et quatre valets, chacun pouvant valoir 2, elle a donc estimé qu'il était moins probable que quelqu'un d'autre ait une carte valant 9 plutôt qu'une carte valant 2. Elle aurait pu utiliser soit son **![cœur](../images/internat/heart.gif)2** soit son **![pique](../images/internat/spade.gif)2**, mais elle sait que le **![pique](../images/internat/spade.gif)2** vaut un point lors du marquage alors que le **![cœur](../images/internat/heart.gif)2** n'a pas de valeur, elle choisit donc le **![pique](../images/internat/spade.gif)2**.)
 
-Claus Grupp's book *"Schafkopf Doppelkopf"* (Falken/ASS, 1976) describes a form of Zwicker that is similar to Hülsemann's. However, Grupp acknowledges that Zwicker is now usually played with Jokers added to the 52-card pack, and says that the Jokers are wild cards which can take on any value from 2 to 14 at the choice of the player. He retains Hülsemann's deal of four cards each to the players and four face up initially, and subsequently four to each player, but because of the larger pack this does not use all the cards exactly. Grupp deals with this problem by saying that in the last deal the cards care dealt one at a time as far as they will go, and that some players may receive one fewer card than others, so that the dealer will not necessarily be the last player. We have never found any players in Schleswig-Holstein who use the Jokers as wild cards or who deal unequal hands in the last round in the way that Grupp suggests. It seems likely that Grupp, not knowing how the Jokers were really used, invented the wild Jokers rule and grafted it on to Hülsemann's rules to explain the existence of the 58-card pack. In the resulting game the Jokers are too powerful, and Grupp evidently realised that this was a problem as he suggests several optional variants in which the power of the Jokers is restricted. Players may agree that a Joker on the table can only be matched by another Joker, or that a Joker can never be captured from the table. Also that clearing the table by playing a Joker does not count as a Zwick. Grupp's version of Zwicker was used as the basis of the English description of Zwicker in David Parlett's *Penguin Book of Card Games* (2000 edition).
+- Charlie joue son **![pique](../images/internat/spade.gif)4** sur la construction, déclarant que la construction a désormais la valeur 13 (c'est-à-dire une dame).
 
-Home Page > Classified Index > Fishing Games > Zwicker
+- Dianne utilise sa **![trèfle](../images/internat/club.gif)D** pour prendre la construction et marque un Zwick.
+
+- Albert défausse son **![carreau](../images/internat/diamond.gif)3**.
+
+- Béatrice joue son **![pique](../images/internat/spade.gif)5** sur le **![carreau](../images/internat/diamond.gif)3**, déclarant la construction désormais d'une valeur de 8.
+
+- Charlie décide d'utiliser une de ses dames comme un trois et place **![cœur](../images/internat/heart.gif)D** au sommet de la construction **![carreau](../images/internat/diamond.gif)3-![pique](../images/internat/spade.gif)5**, déclarant qu'elle vaut désormais 11.
+
+- Dianne voit son opportunité et joue son **![carreau](../images/internat/diamond.gif)R** sur la construction **![carreau](../images/internat/diamond.gif)3-![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)D**, déclarant la construction désormais d'une valeur de 25, la valeur de son **Joker**.
+
+- Albert ne peut rien faire et défausse son **![pique](../images/internat/spade.gif)6**.
+
+- Béatrice ne peut rien faire de la construction **![carreau](../images/internat/diamond.gif)3-![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)R**, elle joue donc son **![cœur](../images/internat/heart.gif)2** sur le **![pique](../images/internat/spade.gif)6**, déclarant que la construction vaut 8.
+
+- Charlie ne peut rien faire de la construction **![carreau](../images/internat/diamond.gif)3-![pique](../images/internat/spade.gif)5-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)R**, il joue donc sa **![cœur](../images/internat/heart.gif)D** sur la construction **![pique](../images/internat/spade.gif)6-![cœur](../images/internat/heart.gif)2** et déclare qu'elle vaut désormais 11.
+
+- Dianne stupéfie tout le monde en jouant son **![trèfle](../images/internat/club.gif)R** sur la construction **![pique](../images/internat/spade.gif)6-![cœur](../images/internat/heart.gif)2-![carreau](../images/internat/diamond.gif)D** et en déclarant qu'elle vaut aussi 25.
+
+- Albert ne peut rien faire de l'une ou l'autre construction et défausse son **![pique](../images/internat/spade.gif)9**.
+
+- Béatrice ne peut rien faire de l'une ou l'autre construction, elle prend donc le **![pique](../images/internat/spade.gif)9** avec son **![trèfle](../images/internat/club.gif)9**.
+
+- Charlie ne peut rien faire de l'une ou l'autre construction, il défausse son **![trèfle](../images/internat/club.gif)6**.
+
+- Dianne prend les deux constructions qui s'additionnent à 25 avec son **Joker 25**, ne laissant que le **![trèfle](../images/internat/club.gif)6**.
+
+- Albert ne peut rien faire du **![trèfle](../images/internat/club.gif)6**, il défausse donc son **![trèfle](../images/internat/club.gif)10**.
+
+- Béatrice ne peut rien faire de l'une ou l'autre carte sur la table, elle défausse son **![cœur](../images/internat/heart.gif)8**.
+
+- Charlie ne peut rien faire d'aucune des cartes sur la table, il défausse son **![pique](../images/internat/spade.gif)A**.
+
+- Dianne utilise son **![carreau](../images/internat/diamond.gif)7** pour prendre le **![trèfle](../images/internat/club.gif)6** et le **![pique](../images/internat/spade.gif)A**.
+
+- Albert ne peut rien faire, il défausse son **![trèfle](../images/internat/club.gif)A**. Le jeu se termine avec le **![trèfle](../images/internat/club.gif)A**, le **![trèfle](../images/internat/club.gif)10** et le **![cœur](../images/internat/heart.gif)8** sur la table. Puisque Dianne a pris la dernière levée, ces cartes lui sont attribuées mais elle ne reçoit pas de Zwick parce qu'elle ne les a pas prises avec une carte de sa main.
+
+Les joueurs commencent à compter leurs mains, en commençant par Béatrice :
+
+- **Béatrice :** Elle a pris 12 cartes au total mais la seule qui valait quelque chose est le **![carreau](../images/internat/diamond.gif)A**, qui vaut un point. Elle n'a pas eu de Zwick. Son score total pour cette main est de **1 point**.
+
+- **Charlie :** Il a aussi pris 12 cartes. La seule carte qu'il a prise qui a une valeur de marquage est le **![cœur](../images/internat/heart.gif)A**, qui vaut un point. Il a aussi eu deux Zwick qui valent un point chacun. Son score total est de **3 points**.
+
+- **Dianne :** Elle a pris 27 cartes, ce qui est le plus grand nombre pris par quiconque, elle obtient donc trois points pour cela. Les cartes qui avaient une valeur étaient : le **![pique](../images/internat/spade.gif)10**, valant un point ; le **![pique](../images/internat/spade.gif)2**, valant un point ; le **![pique](../images/internat/spade.gif)A**, valant un point ; le **![trèfle](../images/internat/club.gif)A**, valant un point ; le **Joker 20**, valant 5 points ; le **Joker 25**, valant 6 points ; et le **Joker 30**, valant 7 points. Elle a aussi eu un Zwick, valant 1 point. Le total de sa main est de **26 points**.
+
+- **Albert :** Il n'a pris que 5 cartes. Les cartes qui avaient une valeur étaient le **Joker 15**, valant 4 points, et le **![carreau](../images/internat/diamond.gif)10**, valant 3 points. Il a aussi eu un Zwick, valant 1 point. Son score total pour cette main est de **8 points**.
+
+## Autres variantes
+
+Dietrich Jensen nous a dit qu'à une époque Zwicker se jouait sans jokers, et un tel jeu est effectivement décrit dans *Das Buch der Spiele* de Robert Hülsemann (Hesse & Becker, Leipzig, 1930). La même version réapparaît dans deux ouvrages ultérieurs : *« Einmaleins der Kartenspiele »* de Rita Danyliuk (Munich, 1972) et *« Das neue Spielbuch »* de Rudolf Dietze (Berlin, 1984).
+
+C'est un jeu beaucoup plus simple joué par deux personnes ou plus en individuel. Les as et les figures ont toujours leurs valeurs de correspondance supérieures As=11, Valet=12, Dame=13, Roi=14 et la construction se fait uniquement par addition. Les joueurs n'ont pas besoin d'avoir une carte correspondant à la valeur de leur construction, mais les constructions de plus de 14 ne sont pas autorisées car elles ne pourraient jamais être capturées. La carte la plus précieuse est le 10 de carreau ou Cardinal qui vaut 10 points. Les as marquent 2 points chacun, le 7 de carreau et le 7 de pique marquent un point chacun, et il y a un point pour la majorité des cartes (non attribué en cas d'égalité). Cela fait un total de 21 points pour les cartes, auquel s'ajoute 3 points par Zwick. La donne initiale est de quatre cartes à chaque joueur et quatre face visible sur la table pour former le « tableau ». Quand les joueurs ont joué leurs cartes, quatre nouvelles sont distribuées à chacun mais plus rien sur le tableau. S'il y a plus de 4 joueurs, un double jeu peut être utilisé, pour un total de 41 points plus les Zwick.
+
+Il est douteux que cette version ancienne du Zwicker soit encore jouée, si ce n'est peut-être par des personnes qui l'ont apprise dans un livre. Tous les joueurs du Schleswig-Holstein que nous avons rencontrés jouent la version moderne avec les doubles valeurs pour les as, rois, dames et valets, la construction par soustraction ainsi que par addition, et des jokers avec des valeurs de correspondance et de marquage élevées.
+
+Le livre de Claus Grupp *« Schafkopf Doppelkopf »* (Falken/ASS, 1976) décrit une forme de Zwicker similaire à celle de Hülsemann. Cependant, Grupp reconnaît que Zwicker se joue aujourd'hui généralement avec des jokers ajoutés au jeu de 52 cartes, et dit que les jokers sont des cartes wild pouvant prendre n'importe quelle valeur de 2 à 14 au choix du joueur. Il conserve la donne de Hülsemann de quatre cartes à chaque joueur et quatre face visibles initialement, puis quatre à chaque joueur, mais en raison du jeu plus grand cela n'utilise pas exactement toutes les cartes. Grupp traite ce problème en disant que lors de la dernière donne les cartes sont distribuées une à la fois tant qu'il y en a, et que certains joueurs peuvent recevoir une carte de moins que d'autres, de sorte que le donneur ne sera pas nécessairement le dernier joueur. Nous n'avons jamais trouvé de joueurs au Schleswig-Holstein qui utilisent les jokers comme cartes wild ou qui distribuent des mains inégales au dernier tour de la manière suggérée par Grupp. Il semble probable que Grupp, ne sachant pas comment les jokers étaient réellement utilisés, a inventé la règle des jokers wild et l'a greffée sur les règles de Hülsemann pour expliquer l'existence du jeu de 58 cartes. Dans le jeu qui en résulte, les jokers sont trop puissants, et Grupp a manifestement réalisé que c'était un problème puisqu'il suggère plusieurs variantes optionnelles dans lesquelles le pouvoir des jokers est restreint. Les joueurs peuvent s'accorder pour qu'un joker sur la table ne puisse être mis en correspondance que par un autre joker, ou qu'un joker ne puisse jamais être capturé depuis la table. Aussi que vider la table en jouant un joker ne compte pas comme un Zwick. La version de Zwicker de Grupp a servi de base à la description anglaise du Zwicker dans le *Penguin Book of Card Games* de David Parlett (édition 2000).

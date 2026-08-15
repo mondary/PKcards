@@ -3,174 +3,170 @@
 **Nombre de joueurs :** 2–6
 **Difficulté :** ⭐⭐⭐
 **Type :** Pêche, Pêche
-**But :** A Swedish variant of Casino in which the objective is to avoid capturing scoring cards.
+**But :** Une variante suédoise du Casino dans laquelle l'objectif est d'éviter de capturer des cartes rapportant des points.
 
 ---
 
 ## Introduction
 
-**Krypkasino** is a variant of Casino in which the objective is reversed. It is a fairly well-known game in Sweden but almost unknown in other countries. The aim is to take as few points as possible, and especially to avoid capturing all the cards from the table, which is known as a *tabbe* (equivalent to a sweep in Casino). Playing a card which does not capture anything is known as *krypa* (creeping or crawling) and this gives rise to the name of the game.
+**Krypkasino** est une variante du Casino dans laquelle l'objectif est inversé. C'est un jeu assez bien connu en Suède mais presque inconnu dans les autres pays. Le but est de marquer le moins de points possible, et surtout d'éviter de capturer toutes les cartes de la table, ce qui est appelé une *tabbe* (équivalent au balayage au Casino). Jouer une carte qui ne capture rien est appelé *krypa* (ramper) et c'est de là que vient le nom du jeu.
 
-My thanks to Martin Sorensson of [Bästa Casino Bonus](https://bastacasinobonus.se/) for his help in collecting information about this game and providing the Swedish edition of this page.
+Merci à Martin Sorensson de [Bästa Casino Bonus](https://bastacasinobonus.se/) pour son aide dans la collecte d'informations sur ce jeu et pour la traduction suédoise de cette page.
 
-## Players and Cards
+## Joueurs et cartes
 
-Krypkasino is played by from 2 to 6 players each playing for themselves. With 4 or 6 players it is also possible to play with teams of 2, each player sitting opposite his or her partner, or 6 players could play in two teams of three, each player sitting between two opponents.
+Krypkasino se joue de 2 à 6 joueurs, chacun jouant pour soi. Avec 4 ou 6 joueurs, il est aussi possible de jouer en équipes de 2, chaque joueur étant assis en face de son partenaire, ou 6 joueurs peuvent jouer en deux équipes de trois, chaque joueur étant assis entre deux adversaires.
 
-Krypkasino uses **two** standard decks of 52 cards, 104 cards in all, unlike regular Casino which uses only one deck. It is desirable, though not essential, to use two identical decks with the same pattern on the back. Deal and play are clockwise.
+Krypkasino utilise **deux** jeux de 52 cartes standards, soit 104 cartes au total, contrairement au Casino classique qui n'utilise qu'un seul jeu. Il est souhaitable, bien que non essentiel, d'utiliser deux jeux identiques avec le même motif au dos. La donne et le jeu se font dans le sens horaire.
 
-For the purpose of capturing, numbered cards have their usual face value. Jacks, Queens and Kings have capture values of 11, 12 and 13 respectively. Aces have a capture value of 14 points when played from a player's hand, but aces on the table have a capture value of 1 point only.
+Pour la capture, les cartes numériques ont leur valeur faciale habituelle. Les Valets, Dames et Rois ont des valeurs de capture de 11, 12 et 13 respectivement. Les As ont une valeur de capture de 14 points lorsqu'ils sont joués depuis la main d'un joueur, mais les As sur la table ont une valeur de capture de 1 point seulement.
 
-For scoring the important cards are 
+Pour le score, les cartes importantes sont :
 
-- the 10 of diamonds, known as the *storan* (big one), which is worth 3 points,
+- le 10 de carreau, appelé le *storan* (le grand), qui vaut 3 points,
 
-- the 2 of spades, known as the *lillan* (little one), which is worth 2 points,
+- le 2 de pique, appelé le *lillan* (le petit), qui vaut 2 points,
 
-- the aces and the other spades, which are worth 1 point each.
+- les As et les autres piques, qui valent 1 point chacun.
 
-The ace of spades scores 2 points, since it is both an ace and a spade. 
+L'As de pique vaut 2 points, puisqu'il est à la fois un As et un pique.
 
-All other cards have no scoring value, and the total value of all the cards in the double deck is 42 points. Since the aim is to score as few points as possible, players try to avoid capturing aces, spades and especially the 10 of diamonds.
+Toutes les autres cartes n'ont pas de valeur de score, et la valeur totale de toutes les cartes dans le double jeu est de 42 points. Puisque le but est de marquer le moins de points possible, les joueurs essaient d'éviter de capturer des As, des piques et surtout le 10 de carreau.
 
-A player who is forced to capture all the cards from the table scores an extra 5 points penalty points for a sweep (*tabbe*), but the previous player is rewarded with a balancing score of -5 points for setting up the sweep**, so the total number of points in the game is always 42.
+Un joueur qui est forcé de capturer toutes les cartes de la table marque 5 points de pénalité supplémentaires pour un balayage (*tabbe*), mais le joueur précédent reçoit un score compensateur de -5 points pour avoir préparé le balayage, de sorte que le nombre total de points dans le jeu est toujours de 42.
 
-## Deal
+## Donne
 
-There are various ways to choose the first dealer. For example each player draws a card from the shuffled deck and the player who draws the highest card deals first. As in most kinds of Casino, the cards are dealt in several stages. The dealer shuffles, the cards are cut and a few cards are dealt to the players and some face up to the centre of the table. When the players have played all their cards, more cards are dealt from the remaining deck by the same dealer, and this continues until the whole deck has been used. When all the cards have been dealt and played the game is scored, and the turn to deal passes to the next player to the left.
+Il y a plusieurs façons de choisir le premier donneur. Par exemple, chaque joueur tire une carte du jeu mélangé et le joueur qui tire la carte la plus élevée donne en premier. Comme dans la plupart des variantes du Casino, les cartes sont distribuées en plusieurs étapes. Le donneur mélange, les cartes sont coupées et quelques cartes sont distribuées aux joueurs et certaines face visible au centre de la table. Quand les joueurs ont joué toutes leurs cartes, davantage de cartes sont distribuées depuis le jeu restant par le même donneur, et cela continue jusqu'à ce que tout le jeu soit utilisé. Quand toutes les cartes ont été distribuées et jouées, le jeu est compté, et le tour de donne passe au joueur suivant à gauche.
 
-The number of cards dealt initially varies according to the number of players as follows.
+Le nombre de cartes distribuées initialement varie selon le nombre de joueurs comme suit.
 
-Two players
-A batch of three cards is dealt face down to each player and two cards are dealt face up on the table. Then this is repeated so that each player has six cards in hand and there are four cards face up on the table.
-Three players
-A batch of three cards is dealt to each player, then three cards face up on the table, then a batch of two cards to each player and finally two cards to the table. Each player should have five cards in hand, with five cards face up on the table.
-Four players
-A batch of three cards is dealt to each player, then two cards face up on the table, then two cards to each player and two cards to the table. All players should have five cards in hand and four cards should be face up on the table.
-Five players
-A batch of two cards is dealt to each player, then two cards face up on the table. Then this is repeated that each player has four cards in hand and there are four cards face up on the table.
-Six players
-A batch of three cards are dealt to each player, then two cards face up on the table, then two more cards to each player. Each player should have five cards in hand, and there are just two cards face up on the table.
+Deux joueurs
+Un lot de trois cartes est distribué face cachée à chaque joueur et deux cartes sont distribuées face visible sur la table. Puis cela est répété pour que chaque joueur ait six cartes en main et quatre cartes face visible sur la table.
+Trois joueurs
+Un lot de trois cartes est distribué à chaque joueur, puis trois cartes face visible sur la table, puis un lot de deux cartes à chaque joueur et enfin deux cartes sur la table. Chaque joueur devrait avoir cinq cartes en main, avec cinq cartes face visible sur la table.
+Quatre joueurs
+Un lot de trois cartes est distribué à chaque joueur, puis deux cartes face visible sur la table, puis deux cartes à chaque joueur et deux cartes sur la table. Tous les joueurs devraient avoir cinq cartes en main et quatre cartes face visible sur la table.
+Cinq joueurs
+Un lot de deux cartes est distribué à chaque joueur, puis deux cartes face visible sur la table. Puis cela est répété pour que chaque joueur ait quatre cartes en main et quatre cartes face visible sur la table.
+Six joueurs
+Un lot de trois cartes est distribué à chaque joueur, puis deux cartes face visible sur la table, puis deux cartes supplémentaires à chaque joueur. Chaque joueur devrait avoir cinq cartes en main, et seulement deux cartes face visible sur la table.
 
-After all players have played all the cards from their initial hands, the dealer deals each player four more cards: a batch of two each and another batch of two each. No more cards are dealt to the table. After these new cards have been played another four cards each are dealt in the same way. This continues until the whole pack has been used. The number of deals this takes depends on the number of players, as summarised in the following table.
+Après que tous les joueurs ont joué toutes les cartes de leur main initiale, le donneur distribue quatre cartes supplémentaires à chaque joueur : un lot de deux puis un autre lot de deux. Aucune carte supplémentaire n'est distribuée sur la table. Après que ces nouvelles cartes ont été jouées, quatre autres cartes chacune sont distribuées de la même manière. Cela continue jusqu'à ce que tout le jeu soit utilisé. Le nombre de donnes que cela nécessite dépend du nombre de joueurs, comme résumé dans le tableau suivant.
 
-| Players | Cards in
-initial
-hand | Table 
-cards | Cards in
-subsequent
-hands | Number 
-of deals |
+| Joueurs | Cartes en
+main initiale | Cartes
+sur table | Cartes aux
+mains suivantes | Nombre
+de donnes |
 | 2 | 6 (3+3) | 4 (2+2) | 4 (2+2) | 12 |
 | 3 | 5 (3+2) | 5 (3+2) | 4 (2+2) | 8 |
 | 4 | 5 (3+2) | 4 (2+2) | 4 (2+2) | 6 |
 | 5 | 4 (2+2) | 4 (2+2) | 4 (2+2) | 5 |
 | 6 | 5 (3+2) | 2 (2+0) | 4 (2+2) | 4 |
 
-## Play
+## Jeu
 
-Immediately after each deal, all picture cards (jacks, queens and kings) that are face up on the table are put aside. They will be given as a penalty to the player who makes the last capture in the last deal. It is customary to keep these set aside cards in two piles: the spade picture cards (which are worth 1 penalty point each) in one pile and the picture cards of other suits (which do not score) in the other. 
+Immédiatement après chaque donne, toutes les figures (Valets, Dames et Rois) qui sont face visible sur la table sont mises de côté. Elles seront données en pénalité au joueur qui fait la dernière capture lors de la dernière donne. Il est d'usage de conserver ces cartes mises de côté en deux tas : les figures de pique (qui valent 1 point de pénalité chacune) dans un tas et les figures des autres couleurs (qui ne comptent pas) dans l'autre.
 
-After pictures have been removed the play begins. The player to the left of the dealer plays first, and then players take turns in clockwise order around the table. At your turn you **must** play **one** card from your hand face up to the table. If the capture value of the played card matches the capture value of any card or set of cards on the table, these cards are captured and placed face down, along with the played card, in front of the player. If the played card does not match anything, it simply remains face up on the table along with the other cards that are there. Playing a card that does not capture anything is called *krypa* (creeping). Whether the played card makes a capture or not, the turn then passes to the next player.
+Après le retrait des figures, le jeu commence. Le joueur à la gauche du donneur joue en premier, puis les joueurs jouent à tour de rôle dans le sens horaire. À votre tour, vous **devez** jouer **une** carte de votre main face visible sur la table. Si la valeur de capture de la carte jouée correspond à la valeur de capture de n'importe quelle carte ou ensemble de cartes sur la table, ces cartes sont capturées et placées face cachée, avec la carte jouée, devant le joueur. Si la carte jouée ne correspond à rien, elle reste simplement face visible sur la table avec les autres cartes qui s'y trouvent. Jouer une carte qui ne capture rien est appelé *krypa* (ramper). Que la carte jouée fasse une capture ou non, le tour passe ensuite au joueur suivant.
 
-Unless you are able to clear the table (see *tabbe* below) you are free to play any of the cards in your hand. Sometimes it is best to creep if possible, but sometimes it can be better to capture some cards, especially if they are worth no points.
+Sauf si vous êtes capable de vider la table (voir *tabbe* ci-dessous), vous êtes libre de jouer n'importe quelle carte de votre main. Parfois il vaut mieux ramper si possible, mais parfois il peut être préférable de capturer certaines cartes, surtout si elles ne valent aucun point.
 
-If the played card does match a single card or the sum of a set of cards, the player **must** capture this card or set. If the played card matches more than one card or set of cards, the player must capture all such cards or sets.
+Si la carte jouée correspond à une seule carte ou à la somme d'un ensemble de cartes, le joueur **doit** capturer cette carte ou cet ensemble. Si la carte jouée correspond à plusieurs cartes ou ensembles de cartes, le joueur doit capturer toutes ces cartes ou ensembles.
 
-**Example A.** The cards on the table are 8, 9, J. In your hand you have an 8 and a 6. You can creep with the 6, leaving 6, 8, 9, J on the table. If you play your 8 instead, you **must** capture the 8 from the table. You put the two eights face down in your pile of captured cards and now the table contains only 9 and J.
+**Exemple A.** Les cartes sur la table sont 8, 9, V. Dans votre main vous avez un 8 et un 6. Vous pouvez ramper avec le 6, laissant 6, 8, 9, V sur la table. Si vous jouez votre 8 à la place, vous **devez** capturer le 8 de la table. Vous placez les deux huit face cachée dans votre tas de cartes capturées et maintenant la table ne contient que 9 et V.
 
-**Example B.** The cards on the table are A, 2, 6, 7, 8, 9, J. Again you have 8 and 6 in your hand. Now if you play your 6 you must capture the 6. If you play the 8 you must capture five cards from the table: A, 2, 6, 7, 8 because A+7=8 and 2+6=8 and 8=8. These cards together with the eight you played (six cards in total) go into your capture pile and only the 9 and J remain on the table.
+**Exemple B.** Les cartes sur la table sont A, 2, 6, 7, 8, 9, V. Vous avez encore 8 et 6 dans votre main. Maintenant, si vous jouez votre 6, vous devez capturer le 6. Si vous jouez le 8, vous devez capturer cinq cartes de la table : A, 2, 6, 7, 8 parce que A+7=8 et 2+6=8 et 8=8. Ces cartes avec le huit que vous avez joué (six cartes au total) vont dans votre tas de capture et il ne reste que 9 et V sur la table.
 
-Note that when capturing you may sometimes have several options, in which case you capture whichever cards you consider most advantageous. However, you are not allowed to leave on the table any cards that could have been captured **in addition to** the cards that you chose to take.
+Notez que lors d'une capture, vous pouvez parfois avoir plusieurs options, auquel cas vous capturez les cartes que vous considérez les plus avantageuses. Cependant, vous n'êtes pas autorisé à laisser sur la table des cartes qui auraient pu être capturées **en plus de** celles que vous avez choisies de prendre.
 
-**Example C.** The cards on the table are 2, 3, 4, 5, 8, 10. Suppose you play an ace. An ace played from hand has a capture value of 14 and there are several sets of cards here which add up to 14: 10+4 or 8+4+2 or 5+4+3+2, but since they all involve the 4 you only capture one of them. For example if you choose to capture 10 and 4 that leaves 2, 3, 5, 8 and there is no further combination on the table that adds up to 14. Which set of cards you choose to capture will depend on whether some of the cards are spades and whether the 10 is the *storan* - you will naturally choose the option that gives you fewest points.
+**Exemple C.** Les cartes sur la table sont 2, 3, 4, 5, 8, 10. Supposons que vous jouiez un As. Un As joué depuis la main a une valeur de capture de 14 et il y a plusieurs ensembles de cartes ici dont la somme est 14 : 10+4 ou 8+4+2 ou 5+4+3+2, mais puisque tous impliquent le 4, vous n'en capturez qu'un seul. Par exemple, si vous choisissez de capturer 10 et 4, il reste 2, 3, 5, 8 et il n'y a pas d'autre combinaison sur la table dont la somme est 14. L'ensemble de cartes que vous choisissez de capturer dépendra de si certaines cartes sont des piques et si le 10 est le *storan* — vous choisirez naturellement l'option qui vous donne le moins de points.
 
-Since an ace has a capture value of 14 in hand and 1 on the table, playing an ace from hand (14) does not capture an ace on the table (1) by itself.
+Puisqu'un As a une valeur de capture de 14 en main et de 1 sur la table, jouer un As depuis la main (14) ne capture pas un As sur la table (1) par lui-même.
 
-**Example D.** The cards on the table are A, 4, 6, Q and the cards in your hand are A, 7, J. You could play your 7 capturing the 6+A or your J capturing the 6+4+A but it is better to creep with your ace, which captures nothing at all, since no set of cards adds up to 14. Moreover the cards on the table are now A, A, 4, 6, Q which sets up a *tabbe*: a queen played by the next player will clear the table.
+**Exemple D.** Les cartes sur la table sont A, 4, 6, D et les cartes dans votre main sont A, 7, V. Vous pourriez jouer votre 7 en capturant le 6+A ou votre V en capturant le 6+4+A, mais il est préférable de ramper avec votre As, qui ne capture rien du tout, puisqu'aucun ensemble de cartes n'atteint 14. De plus, les cartes sur la table sont maintenant A, A, 4, 6, D, ce qui prépare une *tabbe* : une Dame jouée par le joueur suivant videra la table.
 
-### Tabbe (sweep)
+### Tabbe (balayage)
 
-A *tabbe* (sweep) occurs when a player captures all the cards from the centre of the table, leaving it empty. In Krypkasino, a player who holds a card which can capture everything on the table is **obliged** to play this card and make the capture. This is known as a *tvångstabbe* (forced sweep). To keep track of sweeps for the purpose of scoring at the end of the play, the capturing card is put face up in the player's capture pile.
+Une *tabbe* (balayage) se produit lorsqu'un joueur capture toutes les cartes du centre de la table, la laissant vide. Au Krypkasino, un joueur qui détient une carte qui peut tout capturer sur la table est **obligé** de jouer cette carte et de faire la capture. C'est appelé un *tvångstabbe* (balayage forcé). Pour suivre les balayages en vue du score en fin de jeu, la carte de capture est placée face visible dans le tas de capture du joueur.
 
-A player who takes a sweep scores extra points, which is good in normal Casino, but bad in Krypkasino. In Krypkasino, there is also a benefit for the player who 'set up' the sweep by leaving the table in a state where all the cards can be captured at once. For each sweep, the player who makes the capture scores +5 points, but the preceding player, the one who set up the sweep, scores -5 points. 
+Un joueur qui fait un balayage marque des points supplémentaires, ce qui est bon au Casino normal, mais mauvais au Krypkasino. Au Krypkasino, il y a aussi un avantage pour le joueur qui a « préparé » le balayage en laissant la table dans un état où toutes les cartes peuvent être capturées d'un coup. Pour chaque balayage, le joueur qui fait la capture marque +5 points, mais le joueur précédent, celui qui a préparé le balayage, marque -5 points.
 
-It is customary for a player who sets up a sweep to announce it, saying for example 'sweep for a nine' (*tabbe på 9*) when leaving a just a 5 and a 4 on the table. However if the next player has a 9, he is obliged to play the 9 and take the sweep even if the player who set up the sweep forgot to announce it. Naturally the -5 point bonus for setting up a sweep is awarded only if the sweep actually takes place. If the next player does not have the required card to take the sweep, there is no sweep penalty and no corresponding bonus.
+Il est d'usage qu'un joueur qui prépare un balayage l'annonce, en disant par exemple « balayage pour un neuf » (*tabbe på 9*) en laissant seulement un 5 et un 4 sur la table. Cependant, si le joueur suivant a un 9, il est obligé de jouer le 9 et de prendre le balayage même si le joueur qui a préparé le balayage a oublié de l'annoncer. Naturellement, le bonus de -5 points pour la préparation d'un balayage n'est accordé que si le balayage a effectivement lieu. Si le joueur suivant n'a pas la carte requise pour prendre le balayage, il n'y a pas de pénalité de balayage ni de bonus correspondant.
 
-**Example E.** There is an ace and an eight on the table. The player in turn plays a five and says 'sweep for an ace': since the ace on the table has a capture value of 1, the cards on the table add up to 14 and can all be captured by an ace from the next player. 
+**Exemple E.** Il y a un As et un huit sur la table. Le joueur en turn joue un cinq et dit « balayage pour un As » : puisque l'As sur la table a une valeur de capture de 1, les cartes sur la table totalisent 14 et peuvent toutes être capturées par un As du joueur suivant.
 
-**Example F.** There is a two, a six and a five on the table, which is a sweep for a king. The next player does not have a king but does have a three, so creeps with the three and announces 'sweep for an eight'. The following player will have to take these cards (6+2 and 5+3) with an eight if she has one.
+**Exemple F.** Il y a un deux, un six et un cinq sur la table, ce qui est un balayage pour un Roi. Le joueur suivant n'a pas de Roi mais a un trois, alors il rampe avec le trois et annonce « balayage pour un huit ». Le joueur suivant devra prendre ces cartes (6+2 et 5+3) avec un huit s'il en a un.
 
-**Example G.** Often a sweep can be set up by capturing cards. On the table you find 3, 5, 9. If you can capture any of these cards you will set up a sweep. Play a 3 to set up a sweep for an ace (9+5), or a 5 to set up a sweep for a queen (9+3) or an 8 to set up a sweep for a nine, or a nine to set up a sweep for an eight, or a queen to set up a sweep for a five, or an ace to set up a sweep for a three. Which you do will depend what cards you have and what you think the next player is most likely to have.
+**Exemple G.** Souvent un balayage peut être préparé en capturant des cartes. Sur la table vous trouvez 3, 5, 9. Si vous pouvez capturer l'une de ces cartes, vous préparerez un balayage. Jouez un 3 pour préparer un balayage pour un As (9+5), ou un 5 pour préparer un balayage pour une Dame (9+3), ou un 8 pour préparer un balayage pour un neuf, ou un neuf pour préparer un balayage pour un huit, ou une Dame pour préparer un balayage pour un cinq, ou un As pour préparer un balayage pour un trois. Le choix dépendra des cartes que vous avez et de ce que vous pensez que le joueur suivant est le plus susceptible d'avoir.
 
-**Example H.** Occasionally you can set up a sweep that can be taken by either of two different cards. On the table is a jack, a six, a four and a two. If you capture the jack with your jack you can announce 'sweep for a six or a queen', which will succeed if the next player holds either of these cards.
+**Exemple H.** Occasionnellement, vous pouvez préparer un balayage qui peut être pris par l'une ou l'autre de deux cartes différentes. Sur la table se trouve un Valet, un six, un quatre et un deux. Si vous capturez le Valet avec votre Valet, vous pouvez annoncer « balayage pour un six ou une Dame », ce qui réussira si le joueur suivant détient l'une ou l'autre de ces cartes.
 
-Sometimes the initial deal will set up a sweep: after taking away any picture cards the remaining cards can be captured by playing a single card. In this case the dealer announces the sweep and gets the credit for setting it up if the first player has the appropriate card and is forced to take it. 
+Parfois, la donne initiale préparera un balayage : après avoir retiré les figures, les cartes restantes peuvent être capturées en jouant une seule carte. Dans ce cas, le donneur annonce le balayage et en obtient le crédit s'il a été préparé si le premier joueur a la carte appropriée et est forcé de le prendre.
 
-It can also occasionally happen that all the cards in the initial table layout are picture cards. In this case all are set aside (this does not count as a sweep) and the first player will play to an empty table. In this case the first player will of course hope to set up a sweep by playing a card that the second player can match.
+Il peut aussi arriver occasionnellement que toutes les cartes dans la disposition initiale soient des figures. Dans ce cas, toutes sont mises de côté (cela ne compte pas comme un balayage) et le premier joueur jouera sur une table vide. Dans ce cas, le premier joueur espérera bien sûr préparer un balayage en jouant une carte que le deuxième joueur pourra faire correspondre.
 
-### Dubbeltabbe (Double Sweep)
+### Dubbeltabbe (double balayage)
 
-Because Krypkasino is played with a double deck, there are two identical copies of each card. If there is only one card on the table (not an ace) and the next player captures it with the identical card (same number **and** suit), this counts as a double sweep (*dubbeltabbe*). The capturing player stores both cards face up and will be penalised 10 points, while the player who set up the double sweep will subtract 10 points when the hand is scored. 
+Puisque Krypkasino se joue avec un double jeu, il y a deux exemplaires identiques de chaque carte. S'il n'y a qu'une seule carte sur la table (pas un As) et que le joueur suivant la capture avec la carte identique (même numéro **et** même couleur), cela compte comme un double balayage (*dubbeltabbe*). Le joueur qui capture conserve les deux cartes face visible et sera pénalisé de 10 points, tandis que le joueur qui a préparé le double balayage soustraira 10 points lors du décompte.
 
-**Example I.** The table contains two cards: ![heart](../images/internat/heart.gif)3 and ![spade](../images/internat/spade.gif)5 - a sweep for an eight. Having no eights, the next player captures the 3 with a 3 and announces 'sweep for a 5'. If the following player has the second ![spade](../images/internat/spade.gif)5 and no other fives in hand, he is forced to take the double sweep. If, on the other hand, the following player has ![spade](../images/internat/spade.gif)5 and ![diamond](../images/internat/diamond.gif)5, he can play the diamond instead and suffer only an ordinary sweep.
+**Exemple I.** La table contient deux cartes : ![cœur](../images/internat/heart.gif)3 et ![pique](../images/internat/spade.gif)5 — un balayage pour un huit. N'ayant pas de huit, le joueur suivant capture le 3 avec un 3 et annonce « balayage pour un 5 ». Si le joueur suivant a le second ![pique](../images/internat/spade.gif)5 et aucun autre cinq en main, il est forcé de prendre le double balayage. Si, en revanche, le joueur suivant a ![pique](../images/internat/spade.gif)5 et ![carreau](../images/internat/diamond.gif)5, il peut jouer le carreau à la place et ne subir qu'un balayage ordinaire.
 
-Capturing a card with an identical card only counts as a double sweep if that was the only card on the table. Clearing the table by capturing an identical card along with other cards is only an ordinary sweep.
+Capturer une carte avec une carte identique ne compte comme un double balayage que si c'était la seule carte sur la table. Vider la table en capturant une carte identique avec d'autres cartes n'est qu'un balayage ordinaire.
 
-**Example J.** The table contains ![club](../images/internat/club.gif)4, ![spade](../images/internat/spade.gif)7 and ![diamond](../images/internat/diamond.gif)J (sweep for a jack) and the next player captures these cards with the other ![diamond](../images/internat/diamond.gif)J. Even though the jacks are identical, this is just an ordinary sweep because of the other captured cards. Only one jack is placed face up in the player's capture pile to mark this sweep. 
+**Exemple J.** La table contient ![trèfle](../images/internat/club.gif)4, ![pique](../images/internat/spade.gif)7 et ![carreau](../images/internat/diamond.gif)V (balayage pour un Valet) et le joueur suivant capture ces cartes avec l'autre ![carreau](../images/internat/diamond.gif)V. Bien que les Valets soient identiques, ce n'est qu'un balayage ordinaire à cause des autres cartes capturées. Un seul Valet est placé face visible dans le tas de capture du joueur pour marquer ce balayage.
 
-### Further Deals and the End of the Play
+### Donnes suivantes et fin du jeu
 
-When all players have played all the cards in their hands, any kings, queens and jacks that are in the centre of the table are removed and added to the pile that will go to the last player who makes a capture, with spades kept separately as in the first deal. Aces and numeral cards that are in the centre of the table remain in place, and the dealer deals four more cards to each player.
+Quand tous les joueurs ont joué toutes les cartes de leur main, tous les Rois, Dames et Valets qui sont au centre de la table sont retirés et ajoutés au tas qui ira au dernier joueur qui fait une capture, les piques étant gardés séparément comme lors de la première donne. Les As et les cartes numériques qui sont au centre de la table restent en place, et le donneur distribue quatre cartes supplémentaires à chaque joueur.
 
-Because of the removal of picture cards, it is possible that the table will be empty after the deal even though there was no sweep. It is also possible that removing the picture cards will set up a sweep which must be taken if possible by the next player.
+En raison du retrait des figures, il est possible que la table soit vide après la donne même s'il n'y a pas eu de balayage. Il est aussi possible que le retrait des figures prépare un balayage qui devra être pris si possible par le joueur suivant.
 
-**Example K.** The cards on the table are 6, 10, jack and king. The dealer plays her last card, which is a 4. Because the jack and king are to be removed when the new cards are dealt, this sets up a sweep for a 10, which the dealer should announce. When the next cards are dealt, if the player to dealer's left is dealt a 10, he will have to take the sweep.
+**Exemple K.** Les cartes sur la table sont 6, 10, Valet et Roi. Le donneur joue sa dernière carte, qui est un 4. Parce que le Valet et le Roi doivent être retirés lors de la nouvelle donne, cela prépare un balayage pour un 10, que le donneur devrait annoncer. Lors de la distribution des nouvelles cartes, si le joueur à la gauche du donneur reçoit un 10, il devra prendre le balayage.
 
-When dealing the final cards from the pack, the dealer should alert the players by saying "last cards" (in Swedish *"sistan"* - last - or *"båt*" - boat). When all these final cards have been played, all cards that remain on the table and all the spade picture cards that have been put aside after each deal are added to the capture pile of whichever player was the last to make a capture.
+Lors de la distribution des dernières cartes du jeu, le donneur doit alerter les joueurs en disant « dernières cartes » (en suédois *« sistan »* — dernière — ou *« båt »* — bateau). Quand toutes ces dernières cartes ont été jouées, toutes les cartes qui restent sur la table et toutes les figures de pique qui ont été mises de côté après chaque donne sont ajoutées au tas de capture du joueur qui a été le dernier à faire une capture.
 
-If the dealer's very last card captures all the cards on the table in the normal way it is scored as a sweep. If it captures only some of the table cards no sweep is scored, even though the dealer is also given the remaining table cards for making the last capture. 
+Si la toute dernière carte du donneur capture toutes les cartes de la table de la manière normale, elle est comptée comme un balayage. Si elle ne capture qu'une partie des cartes de la table, aucun balayage n'est compté, même si le donneur reçoit aussi les cartes restantes de la table pour avoir fait la dernière capture.
 
-## Scoring
+## Score
 
-After the last cards have been played, the players' scores are calculated.
+Après que les dernières cartes ont été jouées, les scores des joueurs sont calculés.
 
-It is easiest to begin by scoring the sweeps. Each of the players scores +5 points for each of the face up cards in their captures piles: these cards represent the sweeps that they took. Also each player scores -5 points for each face up card in the capture pile of the player to their left: these cards represent the sweeps they successfully set up.
+Il est plus facile de commencer par compter les balayages. Chaque joueur marque +5 points pour chaque carte face visible dans son tas de captures : ces cartes représentent les balayages qu'il a effectués. De plus, chaque joueur marque -5 points pour chaque carte face visible dans le tas de capture du joueur à sa gauche : ces cartes représentent les balayages qu'il a préparés avec succès.
 
-**Example L.** There are five players: in clockwise order A, B, C, D and E. A has one captured card face up, B has 3, C has 1 and D and E have none. The scores for sweeps are A: -10 (=+5-15), B: +10 (=+15-5), C: +5, D: 0, E: -5 (for A's sweep).
+**Exemple L.** Il y a cinq joueurs : dans le sens horaire A, B, C, D et E. A a une carte capturée face visible, B en a 3, C en a 1 et D et E n'en ont pas. Les scores pour les balayages sont A : -10 (=+5-15), B : +10 (=+15-5), C : +5, D : 0, E : -5 (pour le balayage de A).
 
-Note that if everyone has taken a sweep, the scores for them cancel (+5 and -5 for each player). Therefore, to simplify the scoring, if it is noticed during the game that every player has at least one sweep it is customary for everyone to turn one of their sweep cards face down, thus reducing the number of sweeps that have to be counted at the end of the play.
+Notez que si tout le monde a fait un balayage, les scores s'annulent (+5 et -5 pour chaque joueur). Par conséquent, pour simplifier le décompte, si on remarque pendant le jeu que chaque joueur a au moins un balayage, il est d'usage que tout le monde retourne une de ses cartes de balayage face cachée, réduisant ainsi le nombre de balayages à compter en fin de jeu.
 
-Next each player looks through their captures cards and adds up the value of the scoring cards, which are the ![diamond](../images/internat/diamond.gif)10 (3 points), the ![spade](../images/internat/spade.gif)2 and ![spade](../images/internat/spade.gif)A (2 points each), and all the other spades and aces (1 point each). Each player's points for sweeps and cards is added to their cumulative score. The players' scores for a single game always add up to 42, the sum of all the card values, since the sweep scores exactly balance the set-up scores. This provides a useful check that nothing has been missed.
+Ensuite, chaque joueur examine ses cartes capturées et additionne la valeur des cartes qui rapportent des points : le ![carreau](../images/internat/diamond.gif)10 (3 points), le ![pique](../images/internat/spade.gif)2 et le ![pique](../images/internat/spade.gif)A (2 points chacun), et tous les autres piques et As (1 point chacun). Les points de chaque joueur pour les balayages et les cartes sont ajoutés à son score cumulatif. Les scores des joueurs pour une seule partie s'additionnent toujours à 42, la somme de toutes les valeurs des cartes, puisque les scores de balayage compensent exactement les scores de préparation. Cela fournit un contrôle utile pour vérifier que rien n'a été omis.
 
-At the start of a session everyone begins with a score of zero. The players agree how many games to play: this should be a multiple of the number of players so that everyone plays the name number of games as dealer during the session. At the end of the session, the player with the lowest score is the winner, or if playing for money players with more points can pay those with fewer points according to the difference between their scores. Because of the negative score for setting up a sweep, it is possible for a player's score for a game or even her cumulative for the whole session to be negative.
+Au début d'une session, chacun commence avec un score de zéro. Les joueurs conviennent du nombre de parties à jouer : cela devrait être un multiple du nombre de joueurs pour que chacun donne le même nombre de fois pendant la session. À la fin de la session, le joueur ayant le score le plus bas est le gagnant, ou si l'on joue pour de l'argent, les joueurs avec plus de points peuvent payer ceux qui en ont moins selon la différence entre leurs scores. En raison du score négatif pour la préparation d'un balayage, il est possible que le score d'un joueur pour une partie ou même son cumulatif pour toute la session soit négatif.
 
-Here is a summary of the scores (where S is the number of sweeps, which varies from game to game):
+Voici un résumé des scores (où S est le nombre de balayages, qui varie d'une partie à l'autre) :
 
-| Item | Score | Total |
+| Élément | Score | Total |
 | 10 (storan) | 3 | 6 |
 | 2 (lillan) | 2 | 4 |
 | A | 2 | 4 |
-| Other spades | 1 | 22 |
-| Other aces | 1 | 6 |
-| Sweep taken | +5 | 5×S |
-| Sweep set up | -5 | -5×S |
-| Grand total |   | 42 |
+| Autres piques | 1 | 22 |
+| Autres As | 1 | 6 |
+| Balayage effectué | +5 | 5×S |
+| Balayage préparé | -5 | -5×S |
+| Total général |   | 42 |
 
-## Tactics
+## Tactique
 
-Much of the time it is clearly a good idea to avoid taking in scoring cards by creeping when possible or by capturing cards that do not include aces or spades or the ![diamond](../images/internat/diamond.gif)10. Also it is a good idea to get rid of your higher cards (especially aces) early if you can do so cheaply, because when you are down to one or two cards and your play is constrained, these high cards are more likely to capture cards that you do not want, while small cards are more likely to creep. However it is not always best to creep, because scores for sweeps are a crucial part of the game. 
+La plupart du temps, il est clairement une bonne idée d'éviter de prendre des cartes qui rapportent des points en rampant quand c'est possible ou en capturant des cartes qui ne comprennent pas d'As, de piques ou le ![carreau](../images/internat/diamond.gif)10. Il est aussi judicieux de se débarrasser de vos cartes élevées (surtout les As) tôt si vous pouvez le faire à peu de frais, car quand vous êtes réduit à une ou deux cartes et que votre jeu est contraint, ces cartes élevées risquent davantage de capturer des cartes que vous ne voulez pas, tandis que les petites cartes sont plus susceptibles de ramper. Cependant, il n'est pas toujours préférable de ramper, car les scores des balayages sont une partie cruciale du jeu.
 
-**Example M.** The cards on the table are ![heart](../images/internat/heart.gif)2, ![club](../images/internat/club.gif)6 and ![spade](../images/internat/spade.gif)Q. In your hand you have ![diamond](../images/internat/diamond.gif)7, ![spade](../images/internat/spade.gif)8, ![diamond](../images/internat/diamond.gif)J, ![club](../images/internat/club.gif)K. You could creep with your 7, your jack or your king, but none of these plays achieves anything much. Probably a better idea is to play your eight, capturing the 6 and the 2. You have taken one point, but more importantly you have set up a sweep for a queen. If the next player has a queen the you will get a worthwhile 5-point bonus - maybe even 10 points if he is forced to take it with the other ![spade](../images/internat/spade.gif)Q.
+**Exemple M.** Les cartes sur la table sont ![cœur](../images/internat/heart.gif)2, ![trèfle](../images/internat/club.gif)6 et ![pique](../images/internat/spade.gif)D. Dans votre main vous avez ![carreau](../images/internat/diamond.gif)7, ![pique](../images/internat/spade.gif)8, ![carreau](../images/internat/diamond.gif)V, ![trèfle](../images/internat/club.gif)R. Vous pourriez ramper avec votre 7, votre V ou votre R, mais aucun de ces jeux n'accomplit grand-chose. Une meilleure idée est probablement de jouer votre huit, capturant le 6 et le 2. Vous avez pris un point, mais plus important, vous avez préparé un balayage pour une Dame. Si le joueur suivant a une Dame, vous obtiendrez un bonus de 5 points intéressant — peut-être même 10 points s'il est forcé de la prendre avec l'autre ![pique](../images/internat/spade.gif)D.
 
-As in most card games it is good to keep track of what cards have been played, so that you know what cards remain in the pack towards the end of the game and can adjust your play accordingly. It is particularly important to pay attention to the play of your left-hand opponent, so that you can take advantage of the best opportunities to set up a sweep.
+Comme dans la plupart des jeux de cartes, il est bon de suivre les cartes qui ont été jouées, pour que vous sachiez quelles cartes restent dans le jeu vers la fin et puissiez ajuster votre jeu en conséquence. Il est particulièrement important de prêter attention au jeu de l'adversaire à votre gauche, pour pouvoir profiter des meilleures occasions de préparer un balayage.
 
-## Variants
+## Variantes
 
-In the two-player game, some prefer to begin by dealing five cards to each player (3+2) and six cards to the table (3+3). There are still 12 deals in each game.
+Dans le jeu à deux joueurs, certains préfèrent commencer en distribuant cinq cartes à chaque joueur (3+2) et six cartes sur la table (3+3). Il y a toujours 12 donnes dans chaque partie.
 
-Some players give an extra penalty of one point to the last player who captures cards. In this case the points in each game add up to 43. The reason for playing this variant is that it mirrors the rule in ordinary (Swedish) Casino that the last capture gives a bonus of one point. However, most Krypkasino players consider that the penalty of taking the pile of spade pictures is already enough without the extra point.
+Certains joueurs accordent une pénalité supplémentaire d'un point au dernier joueur qui capture des cartes. Dans ce cas, les points de chaque partie s'additionnent à 43. La raison de jouer cette variante est qu'elle reflète la règle du Casino (suédois) ordinaire selon laquelle la dernière capture donne un bonus d'un point. Cependant, la plupart des joueurs de Krypkasino estiment que la pénalité de prendre le tas de figures de pique est déjà suffisante sans le point supplémentaire.
 
-Some players increase the penalty of making the last capture by setting aside all the **spades** from the table after each deal, and giving this pile to the last player who makes a capture. In this variant, pictures in suits other than spades are not set aside but remain on the table after the deal.
-
-Home Page > Classified Index > Fishing Games > Casino > Royal > Nordic > Krypkasino
+Certains joueurs augmentent la pénalité de la dernière capture en mettant de côté tous les **piques** de la table après chaque donne, et en donnant ce tas au dernier joueur qui fait une capture. Dans cette variante, les figures des autres couleurs que le pique ne sont pas mises de côté mais restent sur la table après la donne.

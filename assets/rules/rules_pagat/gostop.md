@@ -3,85 +3,68 @@
 **Nombre de joueurs :** 2–7
 **Difficulté :** ⭐⭐⭐
 **Type :** Pêche, Pêche
-**But :** A popular Korean game for two or three players using flower cards, in which players have the choice to stop the play  or to risk continuing for a higher score.
+**But :** Un jeu coréen populaire pour deux ou trois joueurs utilisant des cartes à fleurs, dans lequel les joueurs peuvent choisir d'arrêter la partie ou de risquer de continuer pour un score plus élevé.
 **Autres noms :** VIP
 
 ---
 
-- Introduction
-
-- Players and Cards
-
-- Deal and Layout
-
-- The Play - Special events - The bomb - Playing Jokers
-
-- Ending the Play and Scoring
-
-- More than three players
-
-- Variations
-
-- Other Go Stop web sites
-
 ## Introduction
 
-Flower cards were invented in Japan, possibly in order to circumvent laws against playing with conventional 4-suited card decks. Nowadays, however, it is in Korea that games with flower cards are most popular. The best known Korean flower card game is Go Stop, which like most Japanese flower card games is a fishing game.
+Les cartes à fleurs ont été inventées au Japon, possiblement pour contourner les lois interdisant de jouer avec des jeux de cartes conventionnels à quatre couleurs. De nos jours, cependant, c'est en Corée que les jeux avec cartes à fleurs sont les plus populaires. Le jeu de cartes à fleurs coréen le plus connu est Go Stop, qui, comme la plupart des jeux japonais de cartes à fleurs, est un jeu de pêche.
 
-Players capture cards from a central layout by playing a card of the same month (flower). The aim is to collect scoring combinations among the cards captured. When a player's captures have a sufficient value, the player can stop the game and claim payment, or can continue the game (go) in the hope of winning more, but risking that an opponent will win meanwhile. It is this decision to stop or go that gives the game its name.
+Les joueurs capturent des cartes depuis une disposition centrale en jouant une carte du même mois (fleur). Le but est de collecter des combinaisons rapportant des points parmi les cartes capturées. Quand les captures d'un joueur ont une valeur suffisante, le joueur peut arrêter le jeu et réclamer un paiement, ou continuer (*go*) dans l'espoir de gagner davantage, mais en risquant qu'un adversaire gagne entre-temps. C'est cette décision d'arrêter ou de continuer qui donne son nom au jeu.
 
-[](https://amzn.to/4qKBToX) [](https://amzn.to/498n5re)
-The flower cards used for this game are known in Korean as *hwatu*. Since the game is rather popular, they can often be obtained in supermarkets the sell Korean food or other goods. [Korean Flower Cards](https://amzn.to/4qKBToX) can also be ordered from amazon.com, for exampe here and [here](https://amzn.to/498n5re). If Korean cards are not available, Japanese flower cards can be used as a substitute.
+Les cartes à fleurs utilisées pour ce jeu sont connues en coréen sous le nom de *hwatu*. Comme le jeu est plutôt populaire, on peut souvent les trouver dans les supermarchés vendant de la nourriture coréenne ou d'autres produits. Si les cartes coréennes ne sont pas disponibles, des cartes à fleurs japonaises peuvent être utilisées en remplacement.
 
-*With thanks to Yishin Sho, Henry Park and 'u fm' for help with the rules, terminology and variants.*
+*Merci à Yishin Sho, Henry Park et « u fm » pour leur aide concernant les règles, la terminologie et les variantes.*
 
-## Players and cards
+## Joueurs et cartes
 
-There can be 2 or 3 active players. It is possible for up to six or even seven people to take part in a game, but if there are more than three, only three will play at any one time, while the rest wait for the next deal and may be compensated - see the section on more than three players for further details.
+Il peut y avoir 2 ou 3 joueurs actifs. Il est possible que jusqu'à six ou même sept personnes participent à une partie, mais s'il y a plus de trois joueurs, seulement trois jouent à la fois, tandis que les autres attendent la donne suivante et peuvent être dédommagés — voir la section sur plus de trois joueurs pour plus de détails.
 
-A pack of flower cards - known in Korea as hwatu - is used, consisting of 48 cards, to which one or more jokers may be added. There are 4 cards corresponding to each of the 12 months of the year, in most cases represented by a flower appropriate to the month. Some of these cards also show a ribbon, animal or other object, indicating a higher value.
+Un jeu de cartes à fleurs — connu en Corée sous le nom de *hwatu* — est utilisé, comprenant 48 cartes, auxquelles un ou plusieurs jokers peuvent être ajoutés. Il y a 4 cartes correspondant à chacun des 12 mois de l'année, dans la plupart des cas représentées par une fleur appropriée au mois. Certaines de ces cartes comportent également un ruban, un animal ou un autre objet, indiquant une valeur supérieure.
 
-The cards are divided into four unequal groups: 5 bright (kwang), 9 animals (yul), 10 ribbons (tti) and 24 junk (pi), as shown in the following illustration:
+Les cartes sont divisées en quatre groupes inégaux : 5 brillantes (*kwang*), 9 animaux (*yul*), 10 rubans (*tti*) et 24 cartes ordinaires (*pi*), comme illustré ci-dessous :
 
-Bright kwang /Animals yul / Ribbons tti / Junk pi
+Brillantes kwang / Animaux yul / Rubans tti / Cartes ordinaires pi
 
-January pine
+Janvier pin
 
 ![](../images/hwatu/jank.gif)
 
-February plum
+Février prunier
 
-March cherry
+Mars cerisier
 
 ![](../images/hwatu/mark.gif)
 
-April wisteria
+Avril glycine
 
-May iris
+Mai iris
 
-June peony
+Juin pivoine
 
-July bush clover
+Juillet trèfle des buissons
 
-August pampas grass
+Août herbe de la pampa
 
 ![](../images/hwatu/augk.gif)
 
-September chrysanthemum
+Septembre chrysanthème
 
-October maple
+Octobre érable
 
-November paulownia
+Novembre paulownia
 
 ![](../images/hwatu/novk.gif)
 
-December willow/rain
+Décembre saule/pluie
 
-With a little practice, the cards are easy to identify. In most Korean packs (unlike Japanese ones), the five bright (*kwang*) cards have the Chinese character for "guang" (bright) printed in white on a red disc, which distinguishes them from the animals (*yul*). The least obvious card to identify is the junk of the December (rain or willow) suit. Most packs include two different versions of this card, but only one is used in the game.
+Avec un peu de pratique, les cartes sont faciles à identifier. Dans la plupart des jeux coréens (contrairement aux japonais), les cinq cartes brillantes (*kwang*) ont le caractère chinois pour « guang » (brillant) imprimé en blanc sur un disque rouge, ce qui les distingue des animaux (*yul*). La carte la moins évidente à identifier est la carte ordinaire du mois de décembre (pluie ou saule). La plupart des jeux incluent deux versions différentes de cette carte, mais une seule est utilisée dans le jeu.
 
-In addition, most packs contain a collection of jokers with special properties. The game can be played without them, or using just a few of them. 
+En outre, la plupart des jeux contiennent une collection de jokers avec des propriétés spéciales. Le jeu peut se jouer sans eux, ou en n'utilisant que quelques-uns.
 
-It seems that the number and nature of the jokers varies from deck to deck: below are examples from five decks.
+Il semble que le nombre et la nature des jokers varient d'un jeu à l'autre : ci-dessous des exemples de cinq jeux.
 
 ![joker](../images/hwatu/jok1a.gif)
 ![joker](../images/hwatu/jok2a.gif)
@@ -102,149 +85,149 @@ It seems that the number and nature of the jokers varies from deck to deck: belo
 ![joker](../images/hwatu/jok3e.png)
 ![joker](../images/hwatu/jok4e.png)
 
-For simplicity of explanation I will assume that the game is played for chips. If you want to play for money you should decide the value of a chip before the game starts. The score can be kept on paper if preferred by recording how many chips each player has won or lost.
+Pour simplifier l'explication, je suppose que le jeu se joue pour des jetons. Si vous souhaitez jouer pour de l'argent, vous devez décider de la valeur d'un jeton avant le début de la partie. Le score peut être tenu sur papier si vous le préférez en notant combien de jetons chaque joueur a gagné ou perdu.
 
-## Deal and layout
+## Donne et disposition
 
-Normally players agree at the start of a game how many hands will be played. Commonly each hand is considered to correspond to a month of the year, so it is usual to play a series of 12 hands (one year), but for a shorter game a half-year (6 hands) or a season (3 hands) may be played.
+Normalement, les joueurs conviennent au début d'une partie du nombre de donnes à jouer. Chaque donne correspond généralement à un mois de l'année, il est donc habituel de jouer une série de 12 donnes (un an), mais pour une partie plus courte, un semestre (6 donnes) ou une saison (3 donnes) peuvent être joués.
 
-The first dealer is chosen by lot. One common method is for each player to draw a card from the shuffled deck. If the game is played at night the player who drew the earliest month and in case of a tie the lowest valued card of that month (bright>animal>ribbon>junk) is the first dealer. For a daytime game the first dealer is the player who drew the later month or the higher valued card in case of a tie. Thereafter, the winner of each hand deals (and plays first) in the next hand.
+Le premier donneur est choisi par tirage au sort. Une méthode courante consiste pour chaque joueur à tirer une carte du jeu mélangé. Si le jeu se déroule la nuit, le joueur qui a tiré le mois le plus tôt et, en cas d'égalité, la carte de la plus faible valeur de ce mois (brillante > animal > ruban > ordinaire) est le premier donneur. Pour un jeu en journée, le premier donneur est le joueur qui a tiré le mois le plus tard ou la carte de valeur la plus élevée en cas d'égalité. Ensuite, le gagnant de chaque donne donne (et joue en premier) lors de la donne suivante.
 
-The dealer shuffles the cards and the dealer's opponent (the player to dealer's left if there are three players) has the right to cut.
+Le donneur mélange les cartes et l'adversaire du donneur (le joueur à sa gauche s'il y a trois joueurs) a le droit de couper.
 
-2 players: the dealer deals 10 cards to each player and 8 face up to the centre of the table as follows: 5 cards to dealer's opponent, 5 to dealer, 4 to the table, 5 to dealer's opponent, 5 to dealer, 4 to the table.
+2 joueurs : le donneur distribue 10 cartes à chaque joueur et 8 face visible au centre de la table comme suit : 5 cartes à l'adversaire du donneur, 5 au donneur, 4 sur la table, 5 à l'adversaire du donneur, 5 au donneur, 4 sur la table.
 
-3 players: deal 7 cards to each player and 6 face up to the centre of the table as follows: 4 cards to each player, 3 to the table, 3 to each player, 3 to the table. The 3-player game is dealt and played counter-clockwise: the first cards are dealt to the player to dealer's right.
+3 joueurs : distribuer 7 cartes à chaque joueur et 6 face visible au centre de la table comme suit : 4 cartes à chaque joueur, 3 sur la table, 3 à chaque joueur, 3 sur la table. Le jeu à 3 joueurs se donne et se joue dans le sens antihoraire : les premières cartes sont distribuées au joueur à droite du donneur.
 
-The remaining cards are placed face down in a stack in the centre of the table to form a drawing stock.
+Les cartes restantes sont placées face cachée en tas au centre de la table pour former la pioche.
 
-As in most card games, the players pick up their cards and look at them, holding them so that the owner can see their faces but their opponents cannot.
+Comme dans la plupart des jeux de cartes, les joueurs ramassent leurs cartes et les regardent, en les tenant de façon à ce que le propriétaire puisse voir leurs faces mais que les adversaires ne le puissent pas.
 
-The cards that were dealt to the table are laid out face up in the centre area so that all are visible, normally on either side of the drawing stock. I call this the centre layout. During the game cards will be added to and captured from this layout.
+Les cartes distribuées sur la table sont étalées face visible dans la zone centrale pour que toutes soient visibles, normalement de chaque côté de la pioche. J'appelle ceci la disposition centrale. Pendant le jeu, des cartes seront ajoutées à cette disposition et capturées depuis celle-ci.
 
-Each player stores captured cards in front of him or her, but kept face up so that they are visible to all players. It is convenient to group captured cards into brights, animals, ribbons and junk, so that the state of the game is clear. I will refer to the area where a player keeps captured cards as the player's capture area. Captured cards normally remain in the player's capture area until the end of the play, but there are a few special events that require a player to surrender a captured card, moving it to another player's capture area.
+Chaque joueur stocke les cartes capturées devant lui, mais les conserve face visible pour qu'elles soient visibles par tous les joueurs. Il est pratique de regrouper les cartes capturées en brillantes, animaux, rubans et cartes ordinaires, pour que l'état du jeu soit clair. Je désignerai la zone où un joueur conserve ses cartes capturées comme la zone de capture du joueur. Les cartes capturées restent normalement dans la zone de capture du joueur jusqu'à la fin du jeu, mais il y a quelques événements spéciaux qui obligent un joueur à céder une carte capturée, la déplaçant vers la zone de capture d'un autre joueur.
 
 ![gostop layout](../images/fishing/gostop1.gif)
 
-## Play
+## Jeu
 
-Before the play begins, players check for triples or quads (three or four cards of the same month) in their hands or on the table.
+Avant que le jeu ne commence, les joueurs vérifient s'il y a des triples ou des quadruplés (trois ou quatre cartes du même mois) dans leur main ou sur la table.
 
-- If there are four cards of the same month on the table, the deal is void. The cards are reshuffled and dealt again by the same dealer.
+- S'il y a quatre cartes du même mois sur la table, la donne est annulée. Les cartes sont remélangées et redistribuées par le même donneur.
 
-- If you have four cards of the same month in your hand, you show them and win the game immediately, collecting 5 chips from each opponent. (In a three-player game, if two players have quads, each collects five chips from the third player; if everyone has a quad, the payments cancel and there is no score.)
+- Si vous avez quatre cartes du même mois dans votre main, vous les montrez et gagnez immédiatement la partie, en récoltant 5 jetons de chaque adversaire. (Dans un jeu à trois joueurs, si deux joueurs ont des quadruplés, chacun récolte cinq jetons du troisième joueur ; si tout le monde a un quadruplé, les paiements s'annulent et il n'y a pas de score.)
 
-- If there are three cards of the same month on the table, they are combined into a stack, which is captured as a single unit.
+- S'il y a trois cartes du même mois sur la table, elles sont combinées en un tas, qui est capturé comme une seule unité.
 
-- A player who has three cards of the same month in their hand may declare them at the start of any turn by showing them to the other player(s). This is known as heundeum (literally 'shaking'). It is a disadvantage to hold three cards of the same month, and an even bigger disadvantage if your opponent(s) know that you have them. But if you choose to show your set of three cards before playing any of them you get an extra bonus if you manage to win the game despite this disadvantage.
+- Un joueur qui a trois cartes du même mois dans sa main peut les déclarer au début de n'importe quel tour en les montrant aux autres joueur(s). Cela est appelé *heundeum* (littéralement « secouer »). C'est un désavantage de détenir trois cartes du même mois, et un désavantage encore plus grand si vos adversaires savent que vous les avez. Mais si vous choisissez de montrer votre ensemble de trois cartes avant d'en jouer une, vous obtenez un bonus supplémentaire si vous parvenez à gagner la partie malgré ce désavantage.
 
-The dealer plays first. A normal turn consists of 
+Le donneur joue en premier. Un tour normal consiste à :
 
-- playing one card from your hand to the table layout, and then 
+- jouer une carte de votre main sur la disposition de table, puis
 
-- turning the top card of the stock face up and adding it to the table layout.
+- retourner la carte du dessus de la pioche face visible et l'ajouter à la disposition de table.
 
-This may result in the capture of some cards, as detailed below. The turn to play then passes to the right.
+Cela peut entraîner la capture de certaines cartes, comme détaillé ci-dessous. Le tour de jeu passe ensuite vers la droite.
 
-The aim of the game is to capture cards by playing cards that match cards in the centre layout. Cards match when they belong to the same month (flower).
+Le but du jeu est de capturer des cartes en jouant des cartes qui correspondent à des cartes de la disposition centrale. Les cartes correspondent lorsqu'elles appartiennent au même mois (fleur).
 
-- If the card you play from your hand does not match any card in the centre layout, you add it to the centre layout as a separate card, and then turn over the top card of the stock. 
+- Si la carte que vous jouez de votre main ne correspond à aucune carte de la disposition centrale, vous l'ajoutez à la disposition centrale comme carte séparée, puis retournez la carte du dessus de la pioche.
 
-- If this card from the stock matches a card in the centre layout, you capture these two cards - the card from the stock and the matching card from the layout - and move them face up to your capture area.
+- Si cette carte de la pioche correspond à une carte de la disposition centrale, vous capturez ces deux cartes — la carte de la pioche et la carte correspondante de la disposition — et les déplacez face visible vers votre zone de capture.
 
-- If the card from the stock matches two cards in the centre layout, you choose which of these cards to capture along with the stock card.
+- Si la carte de la pioche correspond à deux cartes de la disposition centrale, vous choisissez laquelle de ces cartes capturer avec la carte de la pioche.
 
-- If the card from the stock matches a stack of three cards in the centre layout, then it captures the stack, and you move all four cards to your capture area.
+- Si la carte de la pioche correspond à un tas de trois cartes de la disposition centrale, elle capture le tas, et vous déplacez les quatre cartes vers votre zone de capture.
 
-- If the card turned from the stock matches nothing in the layout, it is also added to the centre layout as a separate card.
+- Si la carte retournée de la pioche ne correspond à rien dans la disposition, elle est également ajoutée à la disposition centrale comme carte séparée.
 
-- If the card you play from your hand matches (is the same month as) a card in the centre layout, you place it on top of the matching card. If there are two cards of this month in the layout, you can choose on which one you will place your played card. You then turn up the top card of the stock. There are several possibilities:
+- Si la carte que vous jouez de votre main correspond (est du même mois que) une carte de la disposition centrale, vous la placez sur la carte correspondante. S'il y a deux cartes de ce mois dans la disposition, vous pouvez choisir sur laquelle vous placerez votre carte jouée. Vous retournez ensuite la carte du dessus de la pioche. Plusieurs possibilités se présentent :
 
-- If the stock card does not match any card in the centre layout, you add it to the centre layout as a separate card, and you capture the matching pair that you created with the play from your hand, moving them to your capture area, where they are stored face up.
+- Si la carte de la pioche ne correspond à aucune carte de la disposition centrale, vous l'ajoutez à la disposition comme carte séparée, et vous capturez la paire correspondante que vous avez créée avec la carte jouée de votre main, en les déplaçant vers votre zone de capture, où elles sont stockées face visible.
 
-- If the stock card matches a card in the centre layout but not the card you played from your hand, then you place the stock card on a card that it matches, capture both the matching pairs you have created, and move these four cards to your capture area.
+- Si la carte de la pioche correspond à une carte de la disposition centrale mais pas à la carte que vous avez jouée de votre main, vous placez la carte de la pioche sur une carte qu'elle correspond, capturez les deux paires correspondantes que vous avez créées, et déplacez ces quatre cartes vers votre zone de capture.
 
-- If the stock card matches the pair you created with the card from your hand, and the fourth card of this month is not in the centre layout, you are unlucky. You do not capture anything this turn, but you must add this stock card to the pair you made, creating a stack of three cards. This incident is known as a ppuk. The three-card stack remains in the table layout and can only be captured by the fourth card of this same month.
+- Si la carte de la pioche correspond à la paire que vous avez créée avec la carte de votre main, et que la quatrième carte de ce mois n'est pas dans la disposition centrale, vous êtes malchanceux. Vous ne capturez rien ce tour, mais vous devez ajouter cette carte de la pioche à la paire que vous avez formée, créant un tas de trois cartes. Cet incident est appelé *ppuk*. Le tas de trois cartes reste dans la disposition de table et ne peut être capturé que par la quatrième carte de ce même mois.
 
-- If the card you played from your hand matched two cards in the layout, and the card you turn from the stock is also of this same month, you capture all four cards of this month. This is known as ttadak.
+- Si la carte que vous avez jouée de votre main correspondait à deux cartes de la disposition, et que la carte que vous retournez de la pioche est aussi de ce même mois, vous capturez les quatre cartes de ce mois. Cela est appelé *ttadak*.
 
-- If the card you turn from the stock matches a stack of three matching cards in the layout, then you capture all four of these cards as well as the pair you made with the card you played from your hand.
+- Si la carte que vous retournez de la pioche correspond à un tas de trois cartes correspondantes dans la disposition, vous capturez ces quatre cartes ainsi que la paire que vous avez formée avec la carte jouée de votre main.
 
-- **If the card you play from your hand matches a stack of three matching cards** in the table layout, then it captures this stack and all four cards are moved to your capture area. You then turn a card from the stock, which makes another capture if it matches anything on the table.
+- **Si la carte que vous jouez de votre main correspond à un tas de trois cartes correspondantes** dans la disposition de table, elle capture ce tas et les quatre cartes sont déplacées vers votre zone de capture. Vous retournez ensuite une carte de la pioche, ce qui peut entraîner une autre capture si elle correspond à quelque chose sur la table.
 
-After you have played from your hand and from the stock, and taken any cards that you captured, you may have the opportunity to stop the game, if your score is sufficient. Otherwise the turn passes to the next player to your right.
+Après avoir joué de votre main et de la pioche, et avoir pris les cartes que vous avez capturées, vous pouvez avoir l'opportunité d'arrêter le jeu, si votre score est suffisant. Sinon, le tour passe au joueur suivant à votre droite.
 
-The play continues like this until someone stops the game (see below) or until the cards run out. The deal is such that when the last player plays their last card from hand, there will be just one card remaining in the stock, and of course the final cards will automatically match, leaving the centre layout empty.
+Le jeu continue ainsi jusqu'à ce que quelqu'un arrête le jeu (voir ci-dessous) ou jusqu'à épuisement des cartes. La donne est organisée de sorte que lorsque le dernier joueur joue sa dernière carte de main, il restera exactement une carte dans la pioche, et bien sûr les dernières cartes correspondront automatiquement, laissant la disposition centrale vide.
 
-### Special events during the play
+### Événements spéciaux pendant le jeu
 
-Certain special events allow the current player to capture one junk card from each opponent:
+Certains événements spéciaux permettent au joueur actuel de capturer une carte ordinaire de chaque adversaire :
 
-- There are only two cards in the centre layout, belonging to different months, and the player captures both of them, leaving the centre layout empty (sseul).
+- Il n'y a que deux cartes dans la disposition centrale, appartenant à des mois différents, et le joueur capture les deux, laissant la disposition vide (*sseul*).
 
-- The centre layout includes two cards of the same month, and the player captures both of them using the other two cards of that month (one from hand and one from stock) (ttadak).
+- La disposition centrale comprend deux cartes du même mois, et le joueur les capture en utilisant les deux autres cartes de ce mois (une de la main et une de la pioche) (*ttadak*).
 
-- The player plays a card from hand that does not match anything in the centre layout, and then draws a matching card from the stock, capturing the card just played (chok).
+- Le joueur joue une carte de sa main qui ne correspond à rien dans la disposition, puis tire une carte correspondante de la pioche, capturant la carte qu'il vient de jouer (*chok*).
 
-- The player captures a stack of three cards *(ppuk)* by playing the fourth card of this month from hand or stock.
+- Le joueur capture un tas de trois cartes (*ppuk*) en jouant la quatrième carte de ce mois depuis sa main ou la pioche.
 
-If any of these four things happens, each opponent surrenders one junk card of their choice from their capture area, and the cards are moved face up to the player's capture area. A player who does not have any junk cards in their capture area does not have to surrender a card. Some junk cards are more valuable than others (being worth 2 or 3 cards in scoring): a player who has no ordinary junk cards must surrender a valuable junk card if he or she has one.
+Si l'un de ces quatre événements se produit, chaque adversaire cède une carte ordinaire de son choix depuis sa zone de capture, et les cartes sont déplacées face visible vers la zone de capture du joueur. Un joueur qui n'a aucune carte ordinaire dans sa zone de capture n'a pas à céder de carte. Certaines cartes ordinaires valent plus que d'autres (valant 2 ou 3 cartes au score) : un joueur qui n'a pas de cartes ordinaires doit céder une carte de valeur s'il en a une.
 
-However, if the play runs right to the end, the first three special events above don't count in the last player's last turn, since the cards are guaranteed to match. Nevertheless, a capturing a three-card stack *(ppuk)* at the end of the play still counts.
+Cependant, si le jeu va jusqu'à la fin, les trois premiers événements spéciaux ci-dessus ne comptent pas lors du dernier tour du dernier joueur, puisque les cartes sont garanties de correspondre. Néanmoins, capturer un tas de trois cartes (*ppuk*) à la fin du jeu compte toujours.
 
-Capturing a three-card stack that you created yourself in a previous turn is known as *ja-ppuk*. For this each opponent pays you **two junk cards** (or a card that is worth at least two junk cards) instead of just one.
+Capturer un tas de trois cartes que vous avez créé vous-même lors d'un tour précédent est appelé *ja-ppuk*. Pour cela, chaque adversaire vous paie **deux cartes ordinaires** (ou une carte qui vaut au moins deux cartes ordinaires) au lieu d'une seule.
 
-Other special events:
+Autres événements spéciaux :
 
-- If you make a ppuk (create a stack of three cards) in your first turn of the game, each opponent pays you 3 chips and play continues.
+- Si vous faites un *ppuk* (créez un tas de trois cartes) lors de votre premier tour de jeu, chaque adversaire vous paie 3 jetons et le jeu continue.
 
-- If you make a total of three ppuk during one hand, the play ends and each opponent pays you 5 chips. To make a three-card stack is also sometimes called ssada (meaning "to poop"), so when several of these three-card stacks turn up during a game, people sometimes refer to them as sulssa, which means "diarrhoea".
+- Si vous faites un total de trois *ppuk* lors d'une même donne, le jeu s'arrête et chaque adversaire vous paie 5 jetons. Faire un tas de trois cartes est aussi parfois appelé *ssada* (signifiant « faire caca »), donc quand plusieurs de ces tas de trois cartes apparaissent pendant un jeu, les gens les désignent parfois par *sulssa*, qui signifie « diarrhée ».
 
-### The bomb
+### La bombe
 
-If at the start of your turn you have three cards of the same month in your hand and the fourth card of that month is on the table, provided that you have **not** declared *heundeum* for your three cards you may play them all at once, capturing all four cards of that month. This is known as bombing the field (*potkan*). You complete your by turn up the top card of the stock as usual. 
+Si au début de votre tour vous avez trois cartes du même mois dans votre main et que la quatrième carte de ce mois est sur la table, à condition que vous n'ayez **pas** déclaré *heundeum* pour vos trois cartes, vous pouvez toutes les jouer en même temps, capturant les quatre cartes de ce mois. C'est appelé bombarder le terrain (*potkan*). Vous terminez votre tour en retournant la carte du dessus de la pioche comme d'habitude.
 
-Playing a bomb leaves you with two cards fewer in your hand than you would normally have (you have played three cards instead of one). To compensate for this, in any two subsequent turns (not necessarily your next turns but at any later turns in the same deal) you may if you wish play no card from your hand and simply turn up and play the top card of the stock. After exercising this option twice you will once again have the normal number of cards. 
+Jouer une bombe vous laisse deux cartes de moins dans votre main que ce que vous auriez normalement (vous avez joué trois cartes au lieu d'une). Pour compenser cela, lors de deux tours ultérieurs (pas nécessairement vos prochains tours mais à n'importe quels tours ultérieurs de la même donne), vous pouvez si vous le souhaitez ne pas jouer de carte de votre main et simplement retourner et jouer la carte du dessus de la pioche. Après avoir utilisé cette option deux fois, vous aurez à nouveau le nombre normal de cartes.
 
-After you have bombed the field, not playing from hand may be a good option if you are unable to capture anything from the table and suspect that all the cards in your hand are cards that your opponents are waiting to capture when they appear.
+Après avoir bombardé le terrain, ne pas jouer de votre main peut être une bonne option si vous êtes incapable de capturer quoi que ce soit sur la table et que vous soupçonnez que toutes les cartes de votre main sont des cartes que vos adversaires attendent de capturer lorsqu'elles apparaîtront.
 
-### Playing jokers
+### Jouer les jokers
 
-Jokers are bonus cards that add an extra element of luck to the game. Whenever you play a joker - either from your hand or by turning one up from the stock - you place it directly into your capture area face up, and immediately turn up a card from the stock which you must play as a substitute for the joker. Therefore on a turn when you play a joker, you actually turn up two cards from the top of the stock - one as a normal part of your turn and another as a result of playing the joker.
+Les jokers sont des cartes bonus qui ajoutent un élément supplémentaire de chance au jeu. Chaque fois que vous jouez un joker — soit depuis votre main soit en en retournant un de la pioche — vous le placez directement dans votre zone de capture face visible, et vous retournez immédiatement une carte de la pioche que vous devez jouer en remplacement du joker. Par conséquent, lors d'un tour où vous jouez un joker, vous retournez en fait deux cartes du dessus de la pioche — une dans le cadre normal de votre tour et une autre en conséquence du jeu du joker.
 
-If there are any jokers dealt face up on the table at the start of the game, the dealer moves them to the captured cards in front of him or her and replaces them in the layout by turning face up an equal number of cards from the stock.
+S'il y a des jokers distribués face visible sur la table au début du jeu, le donneur les déplace vers les cartes capturées devant lui et les remplace dans la disposition en retournant face visible un nombre égal de cartes de la pioche.
 
-Often the game is played with two jokers: one of these jokers counts as two junk and the other counts as three junk, so that there are 50 cards in the pack in total.
+Souvent, le jeu se joue avec deux jokers : l'un de ces jokers compte comme deux cartes ordinaires et l'autre comme trois cartes ordinaires, soit 50 cartes au total dans le jeu.
 
-## Ending the play and payments
+## Fin du jeu et paiements
 
-Before beginning the game, the players should agree a target score at which the play of a hand can be stopped. When there are 3 players the target is normally set at 3 points. With only two players it is usual to set a higher target - normally 5 or 7 points.
+Avant de commencer le jeu, les joueurs doivent convenir d'un score cible auquel le jeu d'une donne peut être arrêté. Avec 3 joueurs, la cible est normalement fixée à 3 points. Avec seulement deux joueurs, il est habituel de fixer une cible plus élevée — normalement 5 ou 7 points.
 
-Certain combinations of captured cards known as '*jokbo*' (족보) have a point score, as listed below. The first time that the total score of your captured cards at the end of your turn reaches the agreed target, you have the opportunity to stop the play. You must either say "Stop", in which case the play ends and you claim payment as detailed below, or you say "Go" and the play continues.
+Certaines combinaisons de cartes capturées appelées *jokbo* (족보) ont une valeur en points, comme indiquée ci-dessous. La première fois que le score total de vos cartes capturées à la fin de votre tour atteint la cible convenue, vous avez l'opportunité d'arrêter le jeu. Vous devez soit dire « Stop », auquel cas le jeu s'arrête et vous réclamez un paiement comme détaillé ci-dessous, soit dire « Go » et le jeu continue.
 
-After you have said "Go", you do not get another opportunity to stop the play until the score at the end of your turn is higher than it was the last time you said "Go". When this happens, you must again announce either "Stop" or "Go".
+Après avoir dit « Go », vous n'avez pas une autre opportunité d'arrêter le jeu jusqu'à ce que le score à la fin de votre tour soit supérieur à celui du dernier « Go » que vous avez dit. Quand cela se produit, vous devez à nouveau annoncer « Stop » ou « Go ».
 
-The scores for combinations of captured cards are as follows. Note that in several cases cards of the December (rain) suit are less valuable than similar cards of other suits.
+Les scores pour les combinaisons de cartes capturées sont les suivants. Notez que dans plusieurs cas, les cartes du mois de décembre (pluie) valent moins que des cartes similaires d'autres mois.
 
-Bright cards (kwang)
-A set of 5 bright cards scores 15 points
-A set of 4 bright cards scores 4 points
-A set of 3 bright cards not including rain scores 3 points
-3 bright cards including rain score 2 points
+Cartes brillantes (*kwang*)
+Un ensemble de 5 brillantes rapporte 15 points
+Un ensemble de 4 brillantes rapporte 4 points
+Un ensemble de 3 brillantes sans la pluie rapporte 3 points
+3 brillantes avec la pluie rapportent 2 points
 
-Animal cards (yul or meoung)
-A set of 5 animal cards scores 1 point
-Each additional animal card beyond 5 scores 1 extra point
-The godori combination of 3 bird cards scores 5 points - these are the February, April and August animal cards - the December (rain) animal card is not part of this set - but see variations.
+Cartes animales (*yul* ou *meoung*)
+Un ensemble de 5 cartes animales rapporte 1 point
+Chaque carte animale supplémentaire au-delà de 5 rapporte 1 point supplémentaire
+La combinaison *godori* de 3 cartes d'oiseaux rapporte 5 points — ce sont les cartes animales de février, avril et août — la carte animale de décembre (pluie) ne fait pas partie de cet ensemble — voir variantes.
 
-Godori
+*Godori*
 
-Ribbon cards (tti)
-A set of any 5 ribbon cards scores 1 point
-Each additional ribbon card beyond 5 scores 1 extra point
-A set of 3 red ribbons with poems *(hong-dan)* scores 3 points
-A set of 3 blue ribbons *(cheong-dan)* scores 3 points
-A set of 3 red ribbons without poems (April. May, July) *(cho-dan)* scores 3 points - the December (rain) ribbon card is not part of this set.
+Cartes rubans (*tti*)
+Un ensemble de 5 rubans quelconques rapporte 1 point
+Chaque ruban supplémentaire au-delà de 5 rapporte 1 point supplémentaire
+Un ensemble de 3 rubans rouges avec poèmes (*hong-dan*) rapporte 3 points
+Un ensemble de 3 rubans bleus (*cheong-dan*) rapporte 3 points
+Un ensemble de 3 rubans rouges sans poèmes (avril, mai, juillet) (*cho-dan*) rapporte 3 points — la carte ruban de décembre (pluie) ne fait pas partie de cet ensemble.
 
 ![](../images/hwatu/jant.gif)![](../images/hwatu/febt.gif)![](../images/hwatu/mart.gif)
 
@@ -252,204 +235,201 @@ A set of 3 red ribbons without poems (April. May, July) *(cho-dan)* scores 3 poi
 
 ![](../images/hwatu/aprt.gif)![](../images/hwatu/mayt.gif)![](../images/hwatu/jult.gif)
 
-3-point ribbon sets
+Ensembles de rubans à 3 points
 
-Junk cards (pi)
-A set of 10 junk cards counts 1 point
-Each additional junk card beyond 10 scores 1 extra point
+Cartes ordinaires (*pi*)
+Un ensemble de 10 cartes ordinaires compte 1 point
+Chaque carte ordinaire supplémentaire au-delà de 10 rapporte 1 point supplémentaire
 
-There are some cards with special properties. 
-The December (rain) junk card and the coloured November (paulownia) junk card each count as two junk cards *(ssang pi)*.
+Il y a certaines cartes avec des propriétés spéciales.
+La carte ordinaire de décembre (pluie) et la carte ordinaire de novembre colorée (paulownia) comptent chacune comme deux cartes ordinaires (*ssang pi*).
 
-Count as two junk cards each
-The September animal card (chrysanthemum and sake cup) can be used either as an animal card or as two junk cards for the purpose of scoring. The player does not decide how to use it at the moment of capture, but can change its category as often as required, counting it as either animal or double junk (but not both at the same time), whichever will make the better score.
+Comptent chacune comme deux cartes ordinaires
+La carte animale de septembre (chrysanthème et coupe de saké) peut être utilisée soit comme carte animale soit comme deux cartes ordinaires pour le calcul du score. Le joueur ne décide pas de son utilisation au moment de la capture, mais peut changer sa catégorie aussi souvent que nécessaire, la comptant soit comme animal soit comme double ordinaire (mais pas les deux en même temps), selon ce qui donne le meilleur score.
 
-Animal or two junk
+Animal ou deux ordinaires
 
-### Example:
+### Exemple :
 
-The following set of animal cards scores 7 points - 1 for five animals, 1 for the 6th animal and 5 for godori.
+L'ensemble suivant de cartes animales rapporte 7 points — 1 pour cinq animaux, 1 pour la 6e carte animale et 5 pour *godori*.
 
-The player who stops the play is paid chips equal to their score by each other player. Note that when you stop the play, it does not matter if another player has more score than you. For example in a two-player game with a target of 5, if you achieve a score of 5 at the end of your turn while your opponent has 7 (having previously said "Go"), you can stop the play and you are paid 5 chips - the opponent's score is wasted.
+Le joueur qui arrête le jeu reçoit des jetons égaux à son score de la part de chaque autre joueur. Notez que lorsque vous arrêtez le jeu, peu importe si un autre joueur a un score supérieur au vôtre. Par exemple, dans un jeu à deux joueurs avec une cible de 5, si vous atteignez un score de 5 à la fin de votre tour alors que votre adversaire a 7 (ayant précédemment dit « Go »), vous pouvez arrêter le jeu et recevoir 5 jetons — le score de l'adversaire est perdu.
 
-It is possible for the play to end without a winner. This can happen for example if no player manages to reach the target score, or if a player says "Go" and then fails to increase his or her score (and no one else achieves the target score) before the cards run out. This is called nagari, and there is no payment for this deal. The cards are shuffled, the same player deals again, and the payments in the new deal are doubled.
+Il est possible que le jeu se termine sans gagnant. Cela peut arriver par exemple si aucun joueur ne parvient à atteindre le score cible, ou si un joueur dit « Go » puis échoue à augmenter son score (et personne d'autre n'atteint le score cible) avant que les cartes ne soient épuisées. C'est appelé *nagari*, et il n'y a pas de paiement pour cette donne. Les cartes sont remélangées, le même joueur redistribue, et les paiements de la nouvelle donne sont doublés.
 
-There are several circumstances in which the number of chips paid to the winner is increased.
+Il y a plusieurs circonstances dans lesquelles le nombre de jetons payés au gagnant est augmenté.
 
-- If the winner showed three cards of the same month (heundeum*)*, then each opponent must pay double. If the winner showed two such sets, two doubles are applied, quadrupling the payment. 
+- Si le gagnant a montré trois cartes du même mois (*heundeum*), chaque adversaire doit payer double. Si le gagnant a montré deux tels ensembles, deux doublés sont appliqués, quadruplant le paiement.
 
-- If the winner has a scoring set of bright cards, then any opponent with no captured bright cards must pay double *(guang-bak)*.
+- Si le gagnant a un ensemble de cartes brillantes rapportant des points, tout adversaire sans carte brillante capturée doit payer double (*guang-bak*).
 
-- If the winner has a set of at least seven animal cards, then each opponent must pay double *(meoung-dda)*.
+- Si le gagnant a un ensemble d'au moins sept cartes animales, chaque adversaire doit payer double (*meoung-dda*).
 
-- If the winner has a set of at least ten junk cards, then any opponent with fewer than five junk cards must pay double *(pi-bak)*. (For this purpose, the special junk cards count as two or three junk, as for scoring).
+- Si le gagnant a un ensemble d'au moins dix cartes ordinaires, tout adversaire avec moins de cinq cartes ordinaires doit payer double (*pi-bak*). (À cette fin, les cartes ordinaires spéciales comptent comme deux ou trois, comme pour le score).
 
-- If the previous deal ended with no winner (*nagari*) the payment is doubled.
+- Si la donne précédente s'est terminée sans gagnant (*nagari*), le paiement est doublé.
 
-- If the winner previously said "Go" once, each opponent pays one extra chip.
+- Si le gagnant a précédemment dit « Go » une fois, chaque adversaire paie un jeton supplémentaire.
 
-- If the winner previously said "Go" twice, each opponent pays two extra chips.
+- Si le gagnant a précédemment dit « Go » deux fois, chaque adversaire paie deux jetons supplémentaires.
 
-- If the winner previously said "Go" three times, each opponent pays double. 
+- Si le gagnant a précédemment dit « Go » trois fois, chaque adversaire paie double.
 
-- If the winner previously said "Go" more than three times, the payment is doubled again for each "Go" beyond three.
+- Si le gagnant a précédemment dit « Go » plus de trois fois, le paiement est encore doublé pour chaque « Go » au-delà de trois.
 
-When calculating payments, if the winner said "Go" once or twice, the chips for this are added before the doubles are applied. If the winner said "Go" three or more times, the chips for the first two "Goes" are not counted. Doubles are cumulative - for example suppose you win with 7 animals (without Godori) and 11 junk, having said "go" three times. Your score is 5 points. You add two chips for the first two "goes", making 7. An opponent who has only 4 junk will pay you 56 chips - there is one double for your 7 yul, another for fewer than 5 junk and another for the third "go".
+Lors du calcul des paiements, si le gagnant a dit « Go » une ou deux fois, les jetons correspondants sont ajoutés avant l'application des doublés. Si le gagnant a dit « Go » trois fois ou plus, les jetons des deux premiers « Go » ne sont pas comptés. Les doublés sont cumulatifs — par exemple, supposons que vous gagnez avec 7 animaux (sans *godori*) et 11 cartes ordinaires, ayant dit « go » trois fois. Votre score est de 5 points. Vous ajoutez deux jetons pour les deux premiers « go », ce qui fait 7. Un adversaire qui n'a que 4 cartes ordinaires vous paiera 56 jetons — il y a un double pour vos 7 yul, un autre pour moins de 5 cartes ordinaires et un autre pour le troisième « go ».
 
-In a three-player game, there are certain circumstances in which one player has to pay the winner on behalf of both losers, while the other loser pays nothing. This is known as *dok-bak*.
+Dans un jeu à trois joueurs, il y a certaines circonstances dans lesquelles un joueur doit payer le gagnant au nom des deux perdants, tandis que l'autre perdant ne paie rien. C'est ce qu'on appelle *dok-bak*.
 
-- If another player wins after you have said "go", you have to pay the third player's losses as well as your own *(go-bak)*.
+- Si un autre joueur gagne après que vous avez dit « go », vous devez payer les pertes du troisième joueur ainsi que les vôtres (*go-bak*).
 
-- If you play a card from your hand which does not capture anything but remains on the table or if you leave on the table a card that you could have captured, and another player wins on his or her **next turn** by capturing this card, you have to pay the third player's losses as well as your own. This is known as *oe-myeon*. There are two exceptions:
+- Si vous jouez une carte de votre main qui ne capture rien mais reste sur la table, ou si vous laissez sur la table une carte que vous auriez pu capturer, et qu'un autre joueur gagne à son **tour suivant** en capturant cette carte, vous devez payer les pertes du troisième joueur ainsi que les vôtres. C'est ce qu'on appelle *oe-myeon*. Il y a deux exceptions :
 
-- **Exception a:** *oe-myeon* does **not** apply if the winner scores points only from junk cards and has not previously said "go": in that case the losers each pay their own losses.
+- **Exception a :** *oe-myeon* ne s'applique **pas** si le gagnant marque des points uniquement avec des cartes ordinaires et n'a pas précédemment dit « go » : dans ce cas, chaque perdant paie ses propres pertes.
 
-- **Exception b:** *oe-myeon* does not apply to a player's last card. When you play the last card from your hand and another player wins by taking this card, there is no penalty since you clearly had no choice. Each loser pays for themselves.
+- **Exception b :** *oe-myeon* ne s'applique pas à la dernière carte d'un joueur. Lorsque vous jouez la dernière carte de votre main et qu'un autre joueur gagne en prenant cette carte, il n'y a pas de pénalité puisque vous n'aviez clairement pas le choix. Chaque perdant paie pour lui-même.
 
-- In order to avoid case 2 (*oe-myeon*) above, if you think you have no safe play, you may expose your hand at the start of your turn and offer a *nagari*. This is known as *syodang* (showdown). The other players must decide in turn whether to accept it. If the player to your right accepts, the player to your left may accept or refuse; if the player to your right refuses, the player to your left automatically accepts. If both accept, the hand counts as a *nagari*: play ends, there is no payment and the cards are dealt again. If one of the players refuses, you take your turn as usual and play continues. 
+- Pour éviter le cas 2 (*oe-myeon*) ci-dessus, si vous pensez n'avoir aucun jeu sûr, vous pouvez exposer votre main au début de votre tour et proposer un *nagari*. C'est ce qu'on appelle *syodang* (abattage). Les autres joueurs doivent décider à tour de rôle s'ils l'acceptent. Si le joueur à votre droite accepte, le joueur à votre gauche peut accepter ou refuser ; si le joueur à votre droite refuse, le joueur à votre gauche accepte automatiquement. Si les deux acceptent, la donne compte comme un *nagari* : le jeu s'arrête, il n'y a pas de paiement et les cartes sont redistribuées. Si l'un des joueurs refuse, vous jouez votre tour comme d'habitude et le jeu continue.
 
-- If the player who refused wins the game on his or her next turn, the payments are normal: each loser pays only for himself. 
+- Si le joueur qui a refusé gagne le jeu à son tour suivant, les paiements sont normaux : chaque perdant paie uniquement pour lui-même.
 
-- If the player **other than** the one who refused wins on his or her next turn, the player who refused must pay for both losers while the other loser pays nothing.
+- Si le joueur **autre que** celui qui a refusé gagne à son tour suivant, le joueur qui a refusé doit payer pour les deux perdants tandis que l'autre perdant ne paie rien.
 
-- If no one wins on their next turn after the *nagari* was refused, the effect of the *nagari* and the refusal expire. If the *nagari* player still has no safe play, the player would need to offer *nagari* again to avoid the possibility of *dok-bak*.
+- Si personne ne gagne à son tour suivant après le refus du *nagari*, l'effet du *nagari* et du refus expire. Si le joueur du *nagari* n'a toujours aucun jeu sûr, il devra proposer à nouveau un *nagari* pour éviter la possibilité de *dok-bak*.
 
-- A player is allowed to expose his or her cards and offer a *nagari* on any turn, even if the same player has previously said "go". If a player who has said "go" then offers a *nagari* and the *nagari* is refused, and the player who said "go" and offered *nagari* manages to win, the player who refused the *nagari* pays for both the other players as usual. But if the player who refused wins, each of the losers pays for himself: having offered *nagari*, the player who said "go" no longer has to pay for both of them.
+- Un joueur est autorisé à exposer ses cartes et proposer un *nagari* à n'importe quel tour, même si le même joueur a précédemment dit « go ». Si un joueur qui a dit « go » propose ensuite un *nagari* et que le *nagari* est refusé, et que le joueur qui a dit « go » et proposé le *nagari* parvient à gagner, le joueur qui a refusé le *nagari* paie pour les deux autres joueurs comme d'habitude. Mais si le joueur qui a refusé gagne, chacun des perdants paie pour lui-même : ayant proposé un *nagari*, le joueur qui a dit « go » n'a plus à payer pour les deux.
 
-## More than three players
+## Plus de trois joueurs
 
-Go Stop is sometimes played by four, five or six players, but only three of them take part in the play at any one time, while the others drop out and wait for the next deal. This way of playing is called *Gwangpalli* (Bright-selling).
+Go Stop est parfois joué par quatre, cinq ou six joueurs, mais seulement trois d'entre eux participent au jeu à un moment donné, tandis que les autres se retirent et attendent la donne suivante. Cette façon de jouer est appelée *Gwangpalli* (vente de brillantes).
 
-The deal is the same as for the 3-player game: 4 cards to each player, 3 to the table, 3 to each player and 3 to the table. The dealer and two other players will take part in the game. The cards dealt to the table to form the layout remain** face down **and unknown until it has been determined which three people will play. The player to dealer's right chooses first whether to play or drop out, then the next player and so on in anticlockwise rotation. As soon as two players other than the dealer have decided to play, the remainder must drop out. If all but three players have already dropped out, the remaining players must play. Example with 5 players, in anticlockwise order A (the dealer), B, C, D, E. The dealer A must play. Suppose that B drops out, C plays and D drops out. Now E must play, so that there will be three players. One the other hand, if D had decided to play, E would have been forced to drop out. If B and C drop out, both D and E are forced to play.
+La donne est la même que pour le jeu à 3 joueurs : 4 cartes à chaque joueur, 3 sur la table, 3 à chaque joueur et 3 sur la table. Le donneur et deux autres joueurs participeront au jeu. Les cartes distribuées sur la table pour former la disposition restent face cachée et inconnues jusqu'à ce qu'il soit déterminé quelles trois personnes joueront. Le joueur à la droite du donneur choisit en premier de jouer ou de se retirer, puis le joueur suivant et ainsi de suite dans le sens antihoraire. Dès que deux joueurs autres que le donneur ont décidé de jouer, le reste doit se retirer. Si tous sauf trois joueurs se sont déjà retirés, les joueurs restants doivent jouer. Exemple avec 5 joueurs, dans l'ordre antihoraire A (le donneur), B, C, D, E. Le donneur A doit jouer. Supposons que B se retire, C joue et D se retire. E doit alors jouer, pour qu'il y ait trois joueurs. D'autre part, si D avait décidé de jouer, E aurait été obligé de se retirer. Si B et C se retirent, D et E sont obligés de jouer.
 
-Players who are **forced** to drop out are paid compensation if they hold any of the following cards:
+Les joueurs qui sont **obligés** de se retirer sont dédommagés s'ils détiennent l'une des cartes suivantes :
 
-- bright cards (*kwang*) 
+- cartes brillantes (*kwang*)
 
-- double junk cards (November rain or coloured December) 
+- cartes ordinaires doubles (novembre pluie ou décembre coloré)
 
-- September chrysanthemum with cup 
+- chrysanthème de septembre avec coupe
 
 - jokers
 
-The player shows all such cards and is immediately paid two chips for each such card by each player other than the dealer who stayed in. **Exception**: In the 4-player game only, a player who is forced to drop out with the rain bright and no other brights is not paid any compensation for the rain bright.
+Le joueur montre toutes ces cartes et reçoit immédiatement deux jetons pour chacune de ces cartes de la part de chaque joueur autre que le donneur qui est resté en jeu. **Exception :** Dans le jeu à 4 joueurs uniquement, un joueur obligé de se retirer avec la brillante de la pluie et aucune autre brillante ne reçoit aucune compensation pour la brillante de la pluie.
 
-If a player who is forced to drop out and claims compensation has a heundeum (three cards of the same month), he shows it and is paid twice as much: that is four chips for each bright, double junk, September cup and joker by each of the two non-dealer players who chose to play.
+Si un joueur obligé de se retirer et réclamant une compensation a un *heundeum* (trois cartes du même mois), il le montre et reçoit le double : soit quatre jetons pour chaque brillante, carte ordinaire double, coupe de septembre et joker de la part de chacun des deux joueurs non-donneurs qui ont choisi de jouer.
 
-There is no compensation for players who drop out voluntarily.
+Il n'y a pas de compensation pour les joueurs qui se retirent volontairement.
 
-After all compensation has been paid, the players who drop out give their hands face down to the dealer. These cards are shuffled with any undealt cards to make the face down stock from which cards are drawn during the game. The six layout cards are then turned face up and the play proceeds as usual between the three players.
+Après que toutes les compensations ont été payées, les joueurs qui se retirent donnent leur main face cachée au donneur. Ces cartes sont mélangées avec les cartes non distribuées pour former la pioche face cachée depuis laquelle les cartes sont tirées pendant le jeu. Les six cartes de la disposition sont alors retournées face visible et le jeu se déroule comme d'habitude entre les trois joueurs.
 
-If the game ends in a *nagari* (no one wins), the cards are redealt only to the three players who took part in the *nagari* game.
+Si le jeu se termine en *nagari* (personne ne gagne), les cartes sont uniquement redistribuées aux trois joueurs qui ont participé au jeu *nagari*.
 
-**Seven players:*** Gwangpalli* can also be used with seven players, provided that there is at least one joker in the pack, so that there are enough cards to deal 7 to each player. No cards are dealt to the table initially - the six table cards are dealt from the cards of the players who have dropped out. In this version some play that if you are not the dealer and you are dealt the animal iris card (May: iris and bridge) you **must** drop out, but can sell brights in the usual way.
+**Sept joueurs :** *Gwangpalli* peut aussi être utilisé avec sept joueurs, à condition qu'il y ait au moins un joker dans le jeu, pour qu'il y ait suffisamment de cartes pour distribuer 7 à chaque joueur. Aucune carte n'est distribuée sur la table initialement — les six cartes de table sont distribuées depuis les cartes des joueurs qui se sont retirés. Dans cette version, certains jouent que si vous n'êtes pas le donneur et que vous recevez la carte animale iris (mai : iris et pont) vous **devez** vous retirer, mais pouvez vendre les brillantes de la manière habituelle.
 
-**Variant:** some play that the compensation payments to those who were forced to drop out are paid at the **end** of the play by the losers of the game: the winner does not have to pay. If payments are at the end of play, in case of *nagari* the compensation payments are delayed until the new deal has been played, but the losers must then pay double compensation.
+**Variante :** certains jouent que les paiements de compensation à ceux qui ont été obligés de se retirer sont payés à la **fin** du jeu par les perdants : le gagnant n'a pas à payer. Si les paiements ont lieu à la fin du jeu, en cas de *nagari* les paiements de compensation sont retardés jusqu'à ce que la nouvelle donne ait été jouée, mais les perdants doivent alors payer une double compensation.
 
-**Variant:** some play that after a *nagari* cards are once again dealt to all players at the table. In this case, if you play with compensation paid at the end of the play, there will be no compensation for players forced to drop out of a game that ends in *nagari*.
+**Variante :** certains jouent qu'après un *nagari* les cartes sont à nouveau distribuées à tous les joueurs à la table. Dans ce cas, si vous jouez avec une compensation payée à la fin du jeu, il n'y aura pas de compensation pour les joueurs obligés de se retirer d'un jeu qui se termine en *nagari*.
 
-**Variant:** some play with a higher compensation of 3 chips per special card (instead of 2) for a player who is forced to drop out.
+**Variante :** certains jouent avec une compensation plus élevée de 3 jetons par carte spéciale (au lieu de 2) pour un joueur obligé de se retirer.
 
-## Variations
+## Variantes
 
-### Jokers and Special Cards
+### Jokers et cartes spéciales
 
-Most packs include a selection of jokers with various different properties. It is probably best to include not more than one or two of these. Examples of jokers are:
+La plupart des jeux incluent une sélection de jokers avec diverses propriétés. Il vaut probablement mieux n'en inclure pas plus d'un ou deux. Exemples de jokers :
 
-- One junk - treated just like a captured junk card
+- Une carte ordinaire — traitée comme une carte ordinaire capturée
 
-- Two junk - treated just like a captured junk card
+- Deux cartes ordinaires — traitée comme une carte ordinaire capturée
 
-- Three junk - treated just like a captured junk card
+- Trois cartes ordinaires — traitée comme une carte ordinaire capturée
 
-- Boss junk - the player is given a junk card by each opponent
+- Boss ordinaire — le joueur reçoit une carte ordinaire de chaque adversaire
 
-- Double - the owner collects double chips if he or she wins
+- Double — le propriétaire collecte le double de jetons s'il gagne
 
-- Bright protection - the owner who has captured no bright cards does not have to pay double to a winner with a bright set
+- Protection brillante — le propriétaire qui n'a capturé aucune brillante n'a pas à payer double à un gagnant avec un ensemble de brillantes
 
-There are probably many others.
+Il en existe probablement beaucoup d'autres.
 
-Many play that if the replacement card drawn for a joker makes a *ppuk* the joker is not captured by the player but remains with the *ppuk*. In this variant, if a player plays a card from that matches one on the table and then draws a joker from the stock, the joker is added to the matched pair and is captured with it. If the card drawn from the stock as a replacement for the joker does not match the pair, the joker will be captured with the pair by the current player, but if the replacement card does match the pair it will be added to the stack to make a *ppuk* with a joker. Whoever eventually captures this stack by playing the fourth card of the month will capture and score the joker along with it.
+Beaucoup jouent que si la carte de remplacement tirée pour un joker crée un *ppuk*, le joker n'est pas capturé par le joueur mais reste avec le *ppuk*. Dans cette variante, si un joueur joue une carte qui correspond à une carte sur la table puis tire un joker de la pioche, le joker est ajouté à la paire correspondante et capturé avec elle. Si la carte tirée de la pioche comme remplacement du joker ne correspond pas à la paire, le joker sera capturé avec la paire par le joueur actuel, mais si la carte de remplacement correspond à la paire, elle sera ajoutée au tas pour créer un *ppuk* avec un joker. Quiconque capture finalement ce tas en jouant la quatrième carte du mois capturera et comptera le joker avec celui-ci.
 
-Some play that the chrysanthemum and sake cup card counts as one animal or one junk, rather than two junk.
+Certains jouent que la carte chrysanthème et coupe de saké compte comme un animal ou une carte ordinaire, plutôt que deux cartes ordinaires.
 
-Some play that it is the iris and bridge card, instead of the chrysanthemum and cup, that counts as an animal or two junk.
+Certains jouent que c'est la carte iris et pont, plutôt que la chrysanthème et coupe, qui compte comme un animal ou deux cartes ordinaires.
 
-### Special Events at the start of a Hand
+### Événements spéciaux en début de donne
 
-Some play that four cards of the same month in the layout count as a win for the dealer, as though they had been in the dealer's hand.
+Certains jouent que quatre cartes du même mois dans la disposition comptent comme une victoire pour le donneur, comme si elles avaient été dans la main du donneur.
 
-Some play that a player who captures all four cards of a month on their first turn, either as two pairs or by bombing the field, they are paid a fixed amount (for example 3 chips) by each opponent. The same amount is also paid to a player who captures their played card with the card drawn from the stock in their first turn.
+Certains jouent qu'un joueur qui capture les quatre cartes d'un même mois lors de son premier tour, soit comme deux paires soit en bombardant le terrain, reçoit un montant fixe (par exemple 3 jetons) de chaque adversaire. Le même montant est aussi accordé à un joueur qui capture sa carte jouée avec la carte tirée de la pioche lors de son premier tour.
 
-### Bomb
+### Bombe
 
-Some play that when you play a bomb (three cards of the same month to capture the fourth) you turn three cards in succession from the stock to complete your turn. Later in the game when you run out of cards in your hand you simply miss your turn while the others continue playing. This seems to be less interesting than the rule that you turn only one stock card after a bomb, but have the option not to play a card from hand in two subsequent turns.
+Certains jouent que lorsque vous jouez une bombe (trois cartes du même mois pour capturer la quatrième), vous retournez trois cartes consécutives de la pioche pour terminer votre tour. Plus tard dans le jeu, quand vous n'avez plus de cartes en main, vous passez simplement votre tour tandis que les autres continuent à jouer. Cela semble moins intéressant que la règle selon laquelle vous ne retournez qu'une carte de la pioche après une bombe, mais avez la possibilité de ne pas jouer de carte de votre main lors de deux tours ultérieurs.
 
-Some play that the player of a bomb is paid one junk card by each opponent.
+Certains jouent que le joueur d'une bombe reçoit une carte ordinaire de chaque adversaire.
 
 ### Heundeum
 
-Some play that when declaring *heundeum* (three cards of the same month in hand), you must play one of those three cards on the turn in which it is declared.
+Certains jouent que lors de la déclaration de *heundeum* (trois cartes du même mois en main), vous devez jouer l'une de ces trois cartes lors du tour où elle est déclarée.
 
-Some play that winning after declaring *heundeum* with November or December cards gives the player a quadruple score rather than a double score.
+Certains jouent que gagner après avoir déclaré *heundeum* avec des cartes de novembre ou décembre donne au joueur un score quadruple plutôt qu'un double.
 
-### Special Events during Play
+### Événements spéciaux pendant le jeu
 
-On your first turn of the game, if you take all four cards of a month in one turn (either by two captures - ttadak or by capturing a three-card stack), or if the stock card you turn captures the card you played (chok), some award a payment of 3 chips from each opponent for this, and play continues. 
+À votre premier tour du jeu, si vous prenez les quatre cartes d'un mois en un seul tour (soit par deux captures — *ttadak* — soit en capturant un tas de trois cartes), ou si la carte de la pioche que vous retournez capture la carte que vous avez jouée (*chok*), certains accordent un paiement de 3 jetons de chaque adversaire pour cela, et le jeu continue.
 
-Some play that capturing all four cards of a month in your first turn gives you a quadruple score if you win. This is called *weol-yak*.
+Certains jouent que capturer les quatre cartes d'un mois lors de votre premier tour vous donne un score quadruple si vous gagnez. Cela s'appelle *weol-yak*.
 
-******Some play that before the deal a month is set, for example by drawing a card from the deck. If a player manages to win having captured all four cards of that month the payment for that deal is quadrupled. This is also called *weol-yak*.
+Certains jouent qu'avant la donne, un mois est fixé, par exemple en tirant une carte du jeu. Si un joueur parvient à gagner en ayant capturé les quatre cartes de ce mois, le paiement pour cette donne est quadruplé. Cela s'appelle aussi *weol-yak*.
 
-***Baek-hwa-jeom*****.** Some play that if on your first turn you manage to capture a card of each type: *guang* (bright), *yul* (animal), *tti* (ribbon) and *pi* (junk) you are given one junk card by each opponent who has one. This is known as *baek-hwa-jeom* (department store). Of course if the dealer achieves this he will receive nothing, as the other player(s) have not had a turn yet and therefore will have no junk to give.
+***Baek-hwa-jeom*.** Certains jouent que si, lors de votre premier tour, vous parvenez à capturer une carte de chaque type : *guang* (brillante), *yul* (animale), *tti* (ruban) et *pi* (ordinaire), vous recevez une carte ordinaire de chaque adversaire qui en a une. Cela s'appelle *baek-hwa-jeom* (grand magasin). Bien sûr, si le donneur réalise cela, il ne recevra rien, car les autres joueurs n'ont pas encore eu leur tour et n'auront donc pas de cartes ordinaires à donner.
 
-**Catching the Boar.** Some play with a pot to which all players contribute an equal number of chips at the start of each deal. Any player who captures the boar (the July animal) wins the pot. If no one captures the boar, the pot is carried forward and the agreed number of chips are added, causing it to grow from deal to deal until it is won. 
+**Attraper le sanglier.** Certains jouent avec un pot auquel tous les joueurs contribuent un nombre égal de jetons au début de chaque donne. Tout joueur qui capture le sanglier (la carte animale de juillet) gagne le pot. Si personne ne capture le sanglier, le pot est reporté et le nombre convenu de jetons est ajouté, le faisant croître de donne en donne jusqu'à ce qu'il soit gagné.
 
-Others play without a pot. Capturing the boar only counts if it happens in a player's first turn of the game, and the player wins a fixed number of chips (as for a first turn *ppuk*).
+D'autres jouent sans pot. La capture du sanglier ne compte que si elle se produit lors du premier tour d'un joueur dans le jeu, et le joueur gagne un nombre fixe de jetons (comme pour un *ppuk* en premier tour).
 
-### Scoring Combinations
+### Combinaisons de score
 
-Brights
-Some score only 3 points rather than 4 for a set of 4 bright including rain (December).
+Brillantes
+Certains ne comptent que 3 points au lieu de 4 pour un ensemble de 4 brillantes incluant la pluie (décembre).
 
-Some apply an extra payment of only 2 chips (rather than a double) when a player without brights pays a winner with a set of brights.
-Birds
-Some score only 3 points rather than 5 for *godori*. 
+Certains appliquent un paiement supplémentaire de seulement 2 jetons (au lieu d'un double) lorsqu'un joueur sans brillantes paie un gagnant avec un ensemble de brillantes.
+Oiseaux
+Certains ne comptent que 3 points au lieu de 5 pour *godori*.
 
-Some players recognise four birds: February, April, August and December. A player who captures all four of these birds scores 6 points for *yukdori*. A player who captures only three of them scores 4 points for *bidori* if they include the December (rain) bird, or the usual 5 points for *godori* if they do not include December.
-Animals
-Some play that a player without animals has to pay double to a player who wins with seven animals - this is known as *meoung-bak*.
-Ribbons
-Some play that a player without ribbons has to pay double to a winner who has scored ribbons - this is known as *tti-bak*.
-Junk
-In the two-player game, some require a player to have 7 junk rather than 5 to protect against a double payment to a player with a junk set.
+Certains joueurs reconnaissent quatre oiseaux : février, avril, août et décembre. Un joueur qui capture les quatre de ces oiseaux marque 6 points pour *yukdori*. Un joueur qui n'en capture que trois marque 4 points pour *bidori* s'ils incluent l'oiseau de décembre (pluie), ou les 5 points habituels pour *godori* s'ils n'incluent pas décembre.
+Animaux
+Certains jouent qu'un joueur sans animaux doit payer double à un joueur qui gagne avec sept animaux — c'est ce qu'on appelle *meoung-bak*.
+Rubans
+Certains jouent qu'un joueur sans rubans doit payer double à un gagnant qui a marqué des rubans — c'est ce qu'on appelle *tti-bak*.
+Cartes ordinaires
+Dans le jeu à deux joueurs, certains exigent qu'un joueur ait 7 cartes ordinaires au lieu de 5 pour se protéger d'un double paiement envers un joueur avec un ensemble de cartes ordinaires.
 
-Some play that capturing all three double junk cards - September animal, November 
-coloured junk and December (rain) junk - scores an extra 3 points, sometimes known as VIP. However, these 3 points do not count towards the points needed to stop the game.
-Eight clovers
-Some play that capturing all four April cards and all four July cards scores 8 points. This is known as *palssari* (eight clovers), but normally when this variant is played, these 8 points do not count towards stopping the game. The points needed to stop the game must be acquired from other combinations..
+Certains jouent que capturer les trois cartes ordinaires doubles — l'animal de septembre, la carte ordinaire colorée de novembre et la carte ordinaire de décembre (pluie) — rapporte 3 points supplémentaires, parfois appelé VIP. Cependant, ces 3 points ne comptent pas vers les points nécessaires pour arrêter le jeu.
+Huit trèfles
+Certains jouent que capturer les quatre cartes d'avril et les quatre cartes de juillet rapporte 8 points. C'est appelé *palssari* (huit trèfles), mais normalement quand cette variante est jouée, ces 8 points ne comptent pas vers l'arrêt du jeu. Les points nécessaires pour arrêter le jeu doivent être obtenus par d'autres combinaisons.
 
-### Stopping the Game and Payment
+### Arrêter le jeu et paiements
 
-As mentioned above, the target needed to stop the game can vary. A higher target is harder to achieve, but if you do reach it you are more likely to say "go", since it is also harder for your opponent to get reach the target. If the target is set higher than 3 in a 3-player game, games will quite often end in *nagari* (with no winner).
+Comme mentionné ci-dessus, la cible nécessaire pour arrêter le jeu peut varier. Une cible plus élevée est plus difficile à atteindre, mais si vous l'atteignez, vous êtes plus susceptible de dire « go », car il est aussi plus difficile pour votre adversaire d'atteindre la cible. Si la cible est fixée plus haut que 3 dans un jeu à 3 joueurs, les parties se terminent assez souvent en *nagari* (sans gagnant).
 
-Some award one chip to a player who said "Go" once before winning, double payment to a player who said "go" twice, triple payment to a player who said "go" three times, and so on.
+Certains accordent un jeton à un joueur qui a dit « Go » une fois avant de gagner, un double paiement à un joueur qui a dit « go » deux fois, un triple paiement à un joueur qui a dit « go » trois fois, et ainsi de suite.
 
-Many players do not enforce the *oe-myeon* rules in the three-player game. If used, these *oe-myeon* rules, whereby a player has to pay for both losers if he or she plays a card or neglects a capture that allows an opponent to win, are sometimes quite difficult to apply. It may be necessary to inspect the player's hand carefully to verify whether an alternative play could have prevented the win. 
+Beaucoup de joueurs n'appliquent pas les règles *oe-myeon* dans le jeu à trois joueurs. Si elles sont utilisées, ces règles *oe-myeon*, par lesquelles un joueur doit payer pour les deux perdants s'il joue une carte ou néglige une capture qui permet à un adversaire de gagner, sont parfois assez difficiles à appliquer. Il peut être nécessaire d'examiner soigneusement la main du joueur pour vérifier si un jeu alternatif aurait pu empêcher la victoire.
 
-Some play that if a player who has no captured cards at all when the play ends - either because they never captured anything, or because they captured only junk cards which they subsequently had to pay to other players - they do not have to pay anything to the winner.
+Certains jouent que si un joueur n'a aucune carte capturée à la fin du jeu — soit parce qu'il n'a jamais rien capturé, soit parce qu'il n'a capturé que des cartes ordinaires qu'il a ensuite dû payer aux autres joueurs — il n'a rien à payer au gagnant.
 
 ### Missions
 
-Most online Go Stop games feature 'missions'. For each deal a particular combination and a multiplier are specified at random. The combination might be for example *weol-yak* or some particular set of ribbons and the multiplier could be from 2× to 9×. If a player manages to make the combination and win the game, the multiplier is applied to their winnings.
+La plupart des jeux Go Stop en ligne comportent des « missions ». Pour chaque donne, une combinaison particulière et un multiplicateur sont choisis au hasard. La combinaison peut être par exemple *weol-yak* ou un ensemble particulier de rubans et le multiplicateur peut aller de 2× à 9×. Si un joueur parvient à réaliser la combinaison et gagner la partie, le multiplicateur est appliqué à ses gains.
 
-## Other Go Stop web sites
+## Autres sites web sur Go Stop
 
-A comprehensive description of Go Stop and its variants has been published by *'u fm'* on the [Fuda Wiki](https://fudawiki.org/en/hanafuda/games/go-stop).
+Une description complète de Go Stop et de ses variantes a été publiée par *« u fm »* sur le [Fuda Wiki](https://fudawiki.org/en/hanafuda/games/go-stop).
 
-Another set of rules for Go Stop can be found within Tom Sloper's [Hanafuda pages](https://www.sloperama.com/hanafuda.html).
+Un autre ensemble de règles pour Go Stop peut être trouvé dans les [pages Hanafuda](https://www.sloperama.com/hanafuda.html) de Tom Sloper.
 
-On BoardGameGeek, Justus Pang has provided a [Go Stop Cheat Sheet](https://boardgamegeek.com/filepage/71187/go-stop-cheat-sheet) - a one-page summary of Go Stop cards, combinations and scoring, which can be a convenient reference when learning the game.
-
-Home Page > Classified Index > Fishing Games > Go Stop
+Sur BoardGameGeek, Justus Pang a fourni un [Go Stop Cheat Sheet](https://boardgamegeek.com/filepage/71187/go-stop-cheat-sheet) — un résumé d'une page des cartes, combinaisons et scores de Go Stop, qui peut être une référence pratique lors de l'apprentissage du jeu.

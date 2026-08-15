@@ -3,110 +3,108 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A four-player card game from Brescia using an Italian-suited 52-card pack and related to Scopone and Casino.
+**But :** Jeu de cartes à quatre joueurs de Brescia utilisant un jeu de 52 cartes à couleurs italiennes, apparenté au Scopone et au Casino.
 
 ---
 
-*This page is based on a contribution from Virgilio Ferrari*
+*Cette page est basée sur une contribution de Virgilio Ferrari.*
 
 ## Introduction
 
-**Cicera** is an Italian fishing game closely related to the popular game Scopone.
+La **Cicera** est un jeu de pêche italien étroitement apparenté au jeu populaire *Scopone*.
 
-It is played in the province of Brescia and the technical terms are given in the dialect of Brescia. This game is the reason why the Bresciane pack is made with 52 cards and not with 40 as other Italian packs. (Trevisane cards are also made as 52 card packs because in that zone they play **Scaraboción**, which is another variant of Scopa similar to Cìcera)
+Elle se joue dans la province de Brescia et les termes techniques sont donnés dans le dialecte de Brescia. Ce jeu est la raison pour laquelle le jeu brescian est fabriqué avec 52 cartes et non 40 comme les autres jeux italiens. (Les cartes trévisanes sont également fabriquées en jeux de 52 cartes car dans cette zone on joue au **Scaraboción**, qui est une autre variante de la *Scopa* similaire à la *Cìcera*.)
 
-## Players
+## Joueurs
 
-There are four players, two against two in fixed partnerships; you sit opposite your partner. As in most Italian games, play is anticlockwise.
+Il y a quatre joueurs, deux contre deux en équipes fixes ; vous vous asseyez en face de votre partenaire. Comme dans la plupart des jeux italiens, le jeu se déroule dans le sens antihoraire.
 
-## Cards
+## Cartes
 
-A Bresciane 52 card pack is used. The cards in each suit are Re (king), Cavallo (horse), Fante (jack), 10, 9 ,8 ,7, 6, 5, 4, 3, 2, A. It would also be possible to play with a standard international 52 card pack, but in Brescia, the local cards are always used.
+On utilise un jeu brescian de 52 cartes. Les cartes de chaque couleur sont Re (roi), Cavallo (cavalier), Fante (valet), 10, 9, 8, 7, 6, 5, 4, 3, 2, A. Il serait également possible de jouer avec un jeu international standard de 52 cartes, mais à Brescia, on utilise toujours les cartes locales.
 
-## The Deal
+## La distribution
 
-Choose the first dealer at random. Turn to deal passes to the right after each hand. The dealer shuffles and the dealer's left hand opponent cuts.
+On choisit le premier donneur au hasard. Le tour de distribution passe à droite après chaque manche. Le donneur mélange et l'adversaire à sa gauche coupe.
 
-Deal a packet of twelve cards face down to each player (anticlockwise, beginning with the player to dealer's right), then four face up to the centre of the table. The players pick up their 12 card hands and look at them.
+On distribue un lot de douze cartes face cachée à chaque joueur (dans le sens antihoraire, en commençant par le joueur à la droite du donneur), puis quatre face visible au centre de la table. Les joueurs ramassent leur main de 12 cartes et les regardent.
 
-## The Play
+## Le jeu
 
-The player to dealer's right plays first, and the turn to play passes anticlockwise, until all the cards in the players' hands have been played.
+Le joueur à la droite du donneur joue en premier, et le tour de jeu passe dans le sens antihoraire, jusqu'à ce que toutes les cartes des mains des joueurs aient été jouées.
 
-A turn consists of playing one card from your hand face up to the table, which may capture one or more table cards. In the event of a capture, both the played card and the captured card(s) are taken and stored face down in front of one of the members of the team that made the capture, like a trick. If there is no capture the played card remains face up on the table. In either case the turn then passes to the next player.
+Un tour consiste à jouer une carte de sa main face visible sur la table, qui peut capturer une ou plusieurs cartes de la table. En cas de capture, la carte jouée et la ou les cartes capturées sont prises et stockées face cachée devant l'un des membres de l'équipe qui a effectué la capture, comme un pli. S'il n'y a pas de capture, la carte jouée reste face visible sur la table. Dans les deux cas, le tour passe ensuite au joueur suivant.
 
-The numeral cards 1 to 10 have a capture value that is equal to the rank of the card (for example: tens have a capture value of 10, sixes a capture value of 6, and so on). The courts (re, cavallo, fante) do not have a numerical capture value.
+Les cartes numérales 1 à 10 ont une valeur de capture égale au rang de la carte (par exemple : les dix ont une valeur de capture de 10, les six une valeur de 6, etc.). Les figures (re, cavallo, fante) n'ont pas de valeur numérique de capture.
 
-The capturing rules are as follows:
+Les règles de capture sont les suivantes :
 
-- if the rank of the card played matches that of a table card, the table card may be captured;
+- si le rang de la carte jouée correspond à celui d'une carte de la table, la carte de la table peut être capturée ;
 
-- if a numeral card is played whose capture value is equal to the sum of the capture values of two or more table cards, then that set of table cards may be captured;
+- si une carte numérale est jouée dont la valeur de capture est égale à la somme des valeurs de capture de deux cartes ou plus de la table, cet ensemble de cartes de la table peut être capturé ;
 
-- if more than one capture is possible, because the card played matches more than one table card, or there is more than one set which adds up to the capture value of the played card, or there is a choice of capturing a single card or a set, the player of the capturing card chooses which to take, but only one capture can be made on a turn - either one single card or one set adding up to the capture value of the played card;
+- si plusieurs captures sont possibles, parce que la carte jouée correspond à plusieurs cartes de la table, ou qu'il existe plusieurs ensembles totalisant la valeur de capture de la carte jouée, ou qu'il y a le choix entre capturer une seule carte ou un ensemble, le joueur qui effectue la capture choisit ce qu'il prend, mais une seule capture peut être faite par tour — soit une seule carte, soit un seul ensemble totalisant la valeur de capture de la carte jouée ;
 
-- if the card played does not match any table card or sum of table cards, then there is no capture and the played card remains face up on the table.
+- si la carte jouée ne correspond à aucune carte de la table ni à aucune somme de cartes de la table, il n'y a pas de capture et la carte jouée reste face visible sur la table.
 
-**Important points to note:**
+**Points importants à noter :**
 
-- there is no obligation to play a card which makes a capture - it is legal (and sometimes better play) simply to add a card to the table;
+- il n'y a aucune obligation de jouer une carte qui effectue une capture — il est autorisé (et parfois meilleur jeu) de simplement ajouter une carte sur la table ;
 
-- even if you play a card which can make a capture, the capture is optional and you can choose simply to add the played card to the other cards on the table without capturing;
+- même si vous jouez une carte qui peut effectuer une capture, la capture est facultative et vous pouvez choisir de simplement ajouter la carte jouée aux autres cartes sur la table sans capturer ;
 
-- if a card matches both a single card and a sum of cards on the table, the player can choose whether to capture the single card or the group.
+- si une carte correspond à la fois à une carte individuelle et à une somme de cartes sur la table, le joueur peut choisir de capturer la carte individuelle ou le groupe.
 
-- the court cards can only capture court cards of the same rank (for example: kings can only capture kings - they cannot capture a set of cards which add up to 13).
+- les figures ne peuvent capturer que des figures du même rang (par exemple : les rois ne peuvent capturer que des rois — ils ne peuvent pas capturer un ensemble de cartes dont la somme serait 13).
 
-After all the cards have been played, the last player who made a capture also takes any face up cards remaining on the table.
+Après que toutes les cartes ont été jouées, le dernier joueur ayant effectué une capture prend également les cartes face visibles restantes sur la table.
 
-## The Scoring
+## Le décompte
 
-At the end of the play, points are scored for the cards in each team's trick pile as follows:
+À la fin du jeu, les points sont décomptés pour les cartes dans la pile de plis de chaque équipe comme suit :
 
-**The Cards** 
-Two points are won by whichever team has taken the majority of the cards. If they split 26-26 the points are not awarded.
-**The Swords** 
-One point is won by whichever team has taken more cards of the swords suit.
-**Napula** 
-If one team has taken the ace, two and three of swords, they score a number of points equal to the highest sword card they capture in unbroken sequence with these - for example if they took the A-2-3-4-5-6 and 8 of swords they would score 6 points (in addition to the point for swords).
-**La Mata** 
-The team which takes the two of swords *(la mata)* scores one point.
-**Ten of coins** 
-The team which takes the ten of coins scores one point.
-**Fante of cups**
-The team which takes the fante (jack) of cups scores one point.
+**Les cartes**
+Deux points sont gagnés par l'équipe qui a pris la majorité des cartes. Si elles se partagent 26-26, les points ne sont pas attribués.
+**Les épées**
+Un point est gagné par l'équipe qui a pris le plus de cartes de la couleur épées.
+**Napula**
+Si une équipe a pris l'as, le deux et le trois d'épées, elle marque un nombre de points égal à la plus haute carte d'épées qu'elle capture en séquence ininterrompue avec celles-ci — par exemple si elle a pris le A-2-3-4-5-6 et le 8 d'épées, elle marquerait 6 points (en plus du point pour les épées).
+**La Mata**
+L'équipe qui prend le deux d'épées (*la mata*) marque un point.
+**Dix de pièces**
+L'équipe qui prend le dix de pièces marque un point.
+**Fante de coupes**
+L'équipe qui prend le fante (valet) de coupes marque un point.
 
-Additional points can be won during the play of the hand. Traditionally, for each of these points, a card is placed face up in the trick-pile of the capturing side, so that the number of extra points made by each side can easily be seen when the scoring is done at the end of the play. 
+Des points supplémentaires peuvent être gagnés au cours de la manche. Traditionnellement, pour chacun de ces points, une carte est placée face visible dans la pile de plis du côté capturant, afin que le nombre de points supplémentaires réalisés par chaque côté puisse être facilement vu lors du décompte en fin de jeu.
 
-The points which can be won during the play are:
+Les points pouvant être gagnés au cours du jeu sont :
 
-**Scùa** (Italian: Scopa) (= scoop, or sweep)
-You score one point for Scua when you play a card which captures the all table cards, leaving the table empty.
-**Picada** (Italian: Picchiata)
-You score one point for Picada if you capture the card just played by the player to the left by playing a card of the same rank.
-**Simili** 
-You win a point for a capture in a single suit - that is, the card you play and the cards you capture from the table all belong to the same suit (for example: the 3 and 4 of coins are on the table and you capture them with the 7 of coins). 
-**Quadriglia** 
-You win a point for quadriglia (= quartet) if you play a card which captures a set of three or more cards from the table.
+**Scùa** (italien : *Scopa*) (= balai)
+Vous marquez un point de *Scùa* lorsque vous jouez une carte qui capture toutes les cartes de la table, laissant la table vide.
+**Picada** (italien : *Picchiata*)
+Vous marquez un point de *Picada* si vous capturez la carte qui vient d'être jouée par le joueur à votre gauche en jouant une carte du même rang.
+**Simili**
+Vous gagnez un point pour une capture dans une seule couleur — c'est-à-dire que la carte que vous jouez et les cartes que vous capturez de la table appartiennent toutes à la même couleur (par exemple : le 3 et le 4 de pièces sont sur la table et vous les capturez avec le 7 de pièces).
+**Quadriglia**
+Vous gagnez un point pour une *quadriglia* (= quartet) si vous jouez une carte qui capture un ensemble de trois cartes ou plus de la table.
 
-It is possible to win more than one of these points with a single play. For example, if the 2, 3 and 4 of coins are on the table and you capture them with the 9 of coins you win two points, one for *Simili* and another one for *Quadriglia*. If those were the only cards on the table you would also score a third point for *Scua*. Similarly, if the previous player played a card to the empty table and you have a card of the same rank, you can capture the card played and you mark two points, one for *Scùa* and one for *Picada*).
+Il est possible de gagner plusieurs de ces points en un seul tour. Par exemple, si le 2, le 3 et le 4 de pièces sont sur la table et que vous les capturez avec le 9 de pièces, vous gagnez deux points, un pour *Simili* et un autre pour *Quadriglia*. Si ce sont les seules cartes sur la table, vous marquez également un troisième point pour *Scùa*. De même, si le joueur précédent a joué une carte sur la table vide et que vous avez une carte du même rang, vous pouvez capturer la carte jouée et marquer deux points, un pour *Scùa* et un pour *Picada*.
 
-It is possible for the dealer to score a Scùa or Picada (or both) with the very last play, but only if the last card played actually captures the necessary cards by matching or addition. Simply gathering up the remaining cards because you captured a card with your last play does not count.
+Il est possible pour le donneur de marquer une *Scùa* ou une *Picada* (ou les deux) lors du tout dernier tour, mais seulement si la dernière carte jouée capture effectivement les cartes nécessaires par correspondance ou addition. Ramasser simplement les cartes restantes parce que vous avez capturé une carte avec votre dernier tour ne compte pas.
 
-## Winning the Game
+## Gagner la partie
 
-The first team to have 51 or more points at the end of a hand wins. If both sides reach 51 in the same hand the side with more points wins. If both are equal, play further hands until one side has more points at the end of a hand.
+La première équipe à atteindre 51 points ou plus à la fin d'une manche gagne. Si les deux camps atteignent 51 lors de la même manche, le camp ayant le plus de points gagne. S'ils sont à égalité, d'autres manches sont jouées jusqu'à ce qu'un camp ait plus de points à la fin d'une manche.
 
-## Variations
+## Variantes
 
-Instead of dealing all 12 cards at once, the cards may be dealt one, two or three at a time.
+Au lieu de distribuer les 12 cartes d'un coup, les cartes peuvent être distribuées une, deux ou trois à la fois.
 
-There is a variant in which initially six cards are dealt to each player, and four cards face up on the table. The remaining 24 cards are put aside until everyone has played their first six cards. Then the rest of the cards are dealt out, so that each player has a new six card hand, and play continues until all the cards have been played.
+Il existe une variante dans laquelle six cartes sont initialement distribuées à chaque joueur, et quatre cartes face visible sur la table. Les 24 cartes restantes sont mises de côté jusqu'à ce que chacun ait joué ses six premières cartes. Ensuite, le reste des cartes est distribué, de sorte que chaque joueur a une nouvelle main de six cartes, et le jeu continue jusqu'à ce que toutes les cartes aient été jouées.
 
-## Other web sites and Software
+## Autres sites web et logiciels
 
-The Italian site Tretre includes rules of [Cicera](https://web.archive.org/web/20150911200307/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-c-d-f-g-h-i-l/#c196).
+Le site italien *Tretre* inclut les règles de la [Cicera](https://web.archive.org/web/20150911200307/http://www.tretre.it/menu/accademia-del-tre/enciclopedia-dei-giochi/enciclopedia-c-d-f-g-h-i-l/#c196).
 
-You can download a freeware Cicera program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Fishing Games > Cicera
+Vous pouvez télécharger un programme *Cicera* gratuit sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

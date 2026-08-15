@@ -2,182 +2,181 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** Uruguayan versions of the Spanish card game Escoba featuring declarations of 3-card combinations in hand.
+**But :** Versions uruguayennes du jeu de cartes espagnol Escoba, avec déclarations de combinaisons de trois cartes en main.
+**Autres noms :** Báciga
 
 ---
 
 ## Introduction
 
-Chorizo is variant of the Spanish game Escoba that is popular in Uruguay. The relationship of Chorizo to ordinary Escoba is similar to the relationship of the Ligurian game Cirulla to Italian Scopone: there are several bonuses for declaring combinations of cards in a player's hand at the start of a sub-deal and extra scores for capturing or saving certain special cards, and some versions also feature wild cards.
+Le *Chorizo* est une variante du jeu espagnol *Escoba* populaire en Uruguay. La relation du *Chorizo* avec l'*Escoba* ordinaire est similaire à celle du jeu ligure *Cirulla* avec le *Scopone* italien : il y a plusieurs bonus pour déclarer des combinaisons de cartes en main au début d'une sous-donne et des scores supplémentaires pour capturer ou conserver certaines cartes spéciales, et certaines versions comportent également des cartes wild.
 
-Some Uruguayan players just call this game Escoba. There is a variant in which two of the card combinations, *Tres de Nove* (for three cards adding up to 9) and *Dos de Miseria* (for three cards adding up to 7 or less), are replaced by a single combination *Báciga* (for three cards adding up to 9 or less), in which case the whole game is often known as Báciga .
+Certains joueurs uruguayens appellent ce jeu simplement *Escoba*. Il existe une variante dans laquelle deux des combinaisons de cartes, *Tres de Nueve* (pour trois cartes totalisant 9) et *Dos de Miseria* (pour trois cartes totalisant 7 ou moins), sont remplacées par une seule combinaison *Báciga* (pour trois cartes totalisant 9 ou moins), auquel cas le jeu entier est souvent appelé *Báciga*.
 
-*This page is mostly based on a contribution from Mateo Molina.* 
+*Cette page est principalement basée sur une contribution de Mateo Molina.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Chorizo is a game for two, three or four players - four can play individually or in partnerships, partners sitting opposite each other, though in Uruguay four people would often prefer to play Truco, so the two- and three-player versions may be more widespread.
+Le *Chorizo* se joue à deux, trois ou quatre joueurs — quatre peuvent jouer individuellement ou en équipes, les partenaires étant assis en face l'un de l'autre, bien qu'en Uruguay quatre personnes préféreraient souvent jouer au *Truco*, les versions à deux et trois joueurs sont donc peut-être plus répandues.
 
-Traditionally, a 40 card Spanish deck is used. This has suits of Coins, Cups, Clubs and Swords, the cards of each suit being 1, 2, 3, 4, 5, 6, 7, Sota (Jack), Caballo (Horse) and Rey (King). For the purpose of capturing:
+Traditionnellement, on utilise un jeu espagnol de 40 cartes. Celui-ci comporte les couleurs Pièces, Coupes, Bâtons et Épées, les cartes de chaque couleur étant 1, 2, 3, 4, 5, 6, 7, Sota (Valet), Caballo (Cavalier) et Rey (Roi). Pour la capture :
 
-- the numbers 1 to 7 have their face values 
+- les numéros 1 à 7 ont leur valeur faciale
 
-- the Sota (jack) counts as 8
+- la Sota (valet) compte pour 8
 
-- the Caballo (horse) counts as 9
+- le Caballo (cavalier) compte pour 9
 
-- the Rey (king) counts as 10
+- le Rey (roi) compte pour 10
 
-This can be extremely confusing for new players, because for historical reasons the picture cards of a Spanish deck normally have numbers printed on them that are different from their capture values in this game. 
+Cela peut être extrêmement déroutant pour les nouveaux joueurs, car pour des raisons historiques les figures d'un jeu espagnol portent normalement des numéros imprimés différents de leur valeur de capture dans ce jeu.
 
-- The Sota is labelled 10, although it counts as 8 for capturing.
+- La Sota est étiquetée 10, bien qu'elle compte pour 8 lors de la capture.
 
-- The Caballo is labelled 11, although it counts as 9.
+- Le Caballo est étiqueté 11, bien qu'il compte pour 9.
 
-- The Rey is labelled 12, although it counts as 10.
+- Le Rey est étiqueté 12, bien qu'il compte pour 10.
 
-## The Deal
+## La distribution
 
-The first dealer is chosen by some random method, such as cutting the cards. The dealer shuffles and the dealer's left hand opponent cuts. 
+Le premier donneur est choisi par une méthode aléatoire, comme couper les cartes. Le donneur mélange et l'adversaire à sa gauche coupe.
 
-Three cards are dealt face down to each player (counterclockwise, beginning with the player to dealer's right), and then four additional cards are dealt face-up to the table, laid out separately so that they are all visible. For clarity we will call this procedure the opening deal. The remaining cards are placed in a face down stack by the dealer ready to be dealt later.
+Trois cartes sont distribuées face cachée à chaque joueur (dans le sens antihoraire, en commençant par le joueur à la droite du donneur), puis quatre cartes supplémentaires sont distribuées face visible sur la table, disposées séparément pour qu'elles soient toutes visibles. Pour plus de clarté, nous appellerons cette procédure la donne d'ouverture. Les cartes restantes sont placées en une pile face cachée par le donneur, prêtes à être distribuées ultérieurement.
 
-After all players have played their three cards, the same dealer picks up the undealt stack of cards and deals a new batch of three cards to each player, but no more cards to the table, and the play continues. The player designated as the dealer continues with further sub-deals whenever the players run out of cards to play until all the cards of the pack have been dealt and played. There will be six sub-deals (including the opening deal) if there are two players, four if there are three players, and three if there are four players. After all the cards are have been played and the hand scored, the turn to deal passes to the right.
+Après que tous les joueurs ont joué leurs trois cartes, le même donneur reprend la pile de cartes non distribuées et distribue un nouveau lot de trois cartes à chaque joueur, mais sans ajouter de cartes sur la table, et le jeu continue. Le joueur désigné comme donneur poursuit avec d'autres sous-donnes chaque fois que les joueurs n'ont plus de cartes à jouer, jusqu'à ce que toutes les cartes du paquet aient été distribuées et jouées. Il y aura six sous-donnes (y compris la donne d'ouverture) pour deux joueurs, quatre pour trois joueurs, et trois pour quatre joueurs. Après que toutes les cartes ont été jouées et la manche marquée, le tour de distribution passe à droite.
 
-## Card Combinations
+## Combinaisons de cartes
 
-After any sub-deal, certain three-card combinations held in the hand of a player can be declared for extra points. These declarations are made by the holder of the cards at their turn immediately before playing the first of their three cards. Declarations are not compulsory, but if the cards are not declared before the first of them is played, the combination is no longer valid and cannot be scored. It is illegal to declare a combination that you do not have, and if a player accidentally does this the opposing players (or team) score the value of the combination.
+Après toute sous-donne, certaines combinaisons de trois cartes détenues dans la main d'un joueur peuvent être déclarées pour des points supplémentaires. Ces déclarations sont faites par le détenteur des cartes à son tour, immédiatement avant de jouer la première de ses trois cartes. Les déclarations ne sont pas obligatoires, mais si les cartes ne sont pas déclarées avant que la première d'entre elles soit jouée, la combinaison n'est plus valide et ne peut pas être marquée. Il est interdit de déclarer une combinaison que l'on ne possède pas, et si un joueur le fait par erreur, les joueurs adverses (ou l'équipe) marquent la valeur de la combinaison.
 
-The combinations that can be declared are:
+Les combinaisons pouvant être déclarées sont :
 
-***Flor*** (*Flower*, **Flush**): 3 points
-Three cards of the same suit. An example would be the 7, 3, and 12 of coins. There are countless other examples.
-***Escalera ***(*Staircase*, **Straight or Run of 3**): 3 points
-Three cards of consecutive ranks, which can be of any suits. (3 points). Note that because the game is played without 8s or 9s, 7 is adjacent to 10 and a combination like 7, 10, 11, or 6, 7, 10 counts as an Escalera. 3, 4 and 5 of any suits is another example.
-***Tres de Nueve*** (**Nine for 3**): 3 points
-Any combination of cards that adds up to 9, for example two 4s and a 1, or 1+3+5.
-***Dos de Miseria*** (**Misery for 2**): 2 points
-Any combination of cards that adds up to seven or less, for example two 2s and a 1.
-***Chorizo*** (*Sausage*, **Three of a kind**): 20 points
-Any combination of three cards of the same rank, for example three 7s.
-Note that, because the game is normally played to a target of 21 points, a player who declares a Chorizo is almost guaranteed to win. 
+***Flor*** (*Fleur*, **Couleur***) : 3 points
+Trois cartes de la même couleur. Un exemple serait le 7, le 3 et le 12 de pièces. Il existe d'innombrables autres exemples.
+***Escalera*** (*Escalier*, **Suite de 3***) : 3 points
+Trois cartes de rangs consécutifs, pouvant être de n'importe quelle couleur. (3 points). Notez que comme le jeu se joue sans 8 ni 9, le 7 est adjacent au 10 et une combinaison comme 7, 10, 11 ou 6, 7, 10 compte comme une *Escalera*. 3, 4 et 5 de n'importe quelle couleur en est un autre exemple.
+***Tres de Nueve*** (**Neuf pour 3***) : 3 points
+Toute combinaison de cartes dont la somme est 9, par exemple deux 4 et un 1, ou 1+3+5.
+***Dos de Miseria*** (**Misère pour 2***) : 2 points
+Toute combinaison de cartes dont la somme est sept ou moins, par exemple deux 2 et un 1.
+***Chorizo*** (*Saucisse*, **Brelan***) : 20 points
+Toute combinaison de trois cartes de même rang, par exemple trois 7.
+Notez que, comme le jeu se joue normalement avec un objectif de 21 points, un joueur qui déclare un *Chorizo* est presque assuré de gagner.
 
-It is possible to declare and score for several combinations at once with the same three cards. For example a player who was dealt the 1, 2 and 3 of batons would declare a *Flor*, an *Escalera* and a *Dos de Miseria*, for 8 points in total. Another example: a set of three 3's in a player's hand scores 23 points for *Chorizo* and *Tres de nueve*.
+Il est possible de déclarer et de marquer plusieurs combinaisons à la fois avec les mêmes trois cartes. Par exemple, un joueur qui a reçu le 1, le 2 et le 3 de bâtons déclarerait une *Flor*, une *Escalera* et un *Dos de Miseria*, pour un total de 8 points. Un autre exemple : un brelan de trois 3 dans la main d'un joueur rapporte 23 points pour *Chorizo* et *Tres de nueve*.
 
-## The Play
+## Le jeu
 
-The player to dealer's right plays first, and the turn to play passes anticlockwise, until all the cards have been played.
+Le joueur à la droite du donneur joue en premier, et le tour de jeu passe dans le sens antihoraire, jusqu'à ce que toutes les cartes aient été jouées.
 
-A turn consists of playing one card face up to the table, which may capture one or more table cards. In the event of a capture, both the played card and the captured card(s) are taken and stored face down in front of the player (or a member of the team) that made the capture, like a trick. If there is no capture the played card remains face up on the table. In either case the turn then passes to the next player.
+Un tour consiste à jouer une carte face visible sur la table, qui peut capturer une ou plusieurs cartes de la table. En cas de capture, la carte jouée et la ou les cartes capturées sont prises et stockées face cachée devant le joueur (ou un membre de l'équipe) qui a effectué la capture, comme un pli. S'il n'y a pas de capture, la carte jouée reste face visible sur la table. Dans les deux cas, le tour passe ensuite au joueur suivant.
 
-Once all the players have played all three of their cards, any cards that are face up on the table remain there and the dealer deals three new cards to each player (but no more to the table). The play continues as before from the player to dealer's right. This procedure is repeated until the pack is exhausted. When everyone has played their last three cards, any cards remaining face up on the table are taken by the last player or team that made a capture. This does not count as an escoba - see below. The points scored by both sides are then totalled and the pack is reshuffled and passed to the next dealer for a new round of play, beginning as before with the opening deal. 
+Une fois que tous les joueurs ont joué leurs trois cartes, les cartes face visibles sur la table y restent et le donneur distribue trois nouvelles cartes à chaque joueur (mais pas sur la table). Le jeu continue comme précédemment à partir du joueur à la droite du donneur. Cette procédure se répète jusqu'à épuisement du paquet. Lorsque tout le monde a joué ses dernières trois cartes, toute carte restante face visible sur la table est prise par le dernier joueur ou la dernière équipe ayant effectué une capture. Cela ne compte pas comme une *escoba* — voir ci-dessous. Les points marqués par les deux côtés sont alors totalisés et le paquet est remélangé et passé au donneur suivant pour un nouveau tour de jeu, commençant comme auparavant par la donne d'ouverture.
 
-### The capture
+### La capture
 
-The capturing rules are as follows:
+Les règles de capture sont les suivantes :
 
-- The card played captures any one set of cards which, together with the played card, add up to 15. For example if the table cards are A, 3, 4, 7 and you play a 4, it captures either the 4 and the 7 or the Ace, 3 and 7 at your choice.
+- La carte jouée capture n'importe quel ensemble de cartes qui, avec la carte jouée, totalisent 15. Par exemple, si les cartes sur la table sont A, 3, 4, 7 et que vous jouez un 4, elle capture soit le 4 et le 7, soit l'As, le 3 et le 7, à votre choix.
 
-- There is no obligation to play a card which makes a capture - it is legal (and sometimes better play) simply to add a card to the table; however if the played card does make a capture, the captured cards must be taken even if the player would prefer to leave them on the table. 
+- Il n'y a aucune obligation de jouer une carte qui effectue une capture — il est autorisé (et parfois meilleur jeu) de simplement ajouter une carte sur la table ; cependant, si la carte jouée effectue une capture, les cartes capturées doivent être prises même si le joueur préférerait les laisser sur la table.
 
-### Escobas (sweeps)
+### Escobas (balais)
 
-An escoba occurs when you play a card which captures all the table cards, leaving the table empty. This is worth an extra point to the team that makes the capture. Traditionally, the capturing card is placed face up in the trick-pile of the capturing side, so that the number of escobas made by each side can easily be seen when the scoring is done at the end of the play. 
+Une *escoba* se produit lorsque vous jouez une carte qui capture toutes les cartes de la table, laissant la table vide. Cela rapporte un point supplémentaire à l'équipe qui effectue la capture. Traditionnellement, la carte de capture est placée face visible dans la pile de plis du côté capturant, afin que le nombre d'*escobas* réalisées par chaque côté puisse être facilement vu lors du décompte en fin de jeu.
 
-If the values of the four cards that were dealt face-up on the table in the opening deal add up to exactly 15, the dealer immediately captures these four cards before any cards are played. This counts as an escoba, and the player to dealer's right then plays the first card to an empty table. If the cards in the initial four card layout add up to 30, the lucky dealer takes them and scores two escobas. 
+Si la valeur des quatre cartes distribuées face visible sur la table lors de la donne d'ouverture totalise exactement 15, le donneur capture immédiatement ces quatre cartes avant qu'aucune carte ne soit jouée. Cela compte comme une *escoba*, et le joueur à la droite du donneur joue alors la première carte sur une table vide. Si les cartes de la disposition initiale de quatre cartes totalisent 30, le donneur chanceux les prend et marque deux *escobas*.
 
-## Scoring
+## Décompte
 
-The following points are available to be won on each deal:
+Les points suivants peuvent être gagnés à chaque donne :
 
-- *Cartas* (the cards). Whichever player or team takes most cards wins **1 point**. 
+- *Cartas* (les cartes). Le joueur ou l'équipe qui prend le plus de cartes gagne **1 point**.
 
-- *Oros* (the coins). Whichever player or team takes most cards of the coins suit wins **1 point**. 
+- *Oros* (les pièces). Le joueur ou l'équipe qui prend le plus de cartes de la couleur pièces gagne **1 point**.
 
-- *Siete de oros / Siete de velo* (seven of coins). Whichever player or team takes the 7 of coins scores **1 point **at the end of the play.
+- *Siete de oros / Siete de velo* (sept de pièces). Le joueur ou l'équipe qui prend le 7 de pièces marque **1 point** à la fin du jeu.
 
-- ***Dos de basto / Carimbo: ***(two of clubs). The player or team that takes this card scores **4 points** at the end of the play. 
+- ***Dos de basto / Carimbo*** (deux de bâtons). Le joueur ou l'équipe qui prend cette carte marque **4 points** à la fin du jeu.
 
-- *La Setenta* (the prime). A prime consists of a set of cards, one of each suit, selected from the cards taken by the player or team. The player or team with the best prime scores **1 point**. Usually a prime has four cards, but if a player or team has taken no cards in some suit, a prime of three or even two cards is also possible. To decide who has the best prime the values of the cards in it are added. For this purpose cards 1 to 7 count face value and pictures count as zero. Most often the best prime will be the one with most sevens, but not always - for example 7-6-6-5 (worth 24) beats 7-7-7-2 (worth 23). In a three-player game it is even possible to win the prime with nothing better than a six - for example 6-6-6-5 (23) beats both 7-7-7-1 (22) and 7-6-5-3 (21). A prime in which the most valuable card is a six is known as a **sesenta**. 
+- *La Setenta* (la prime). Une prime consiste en un ensemble de cartes, une de chaque couleur, sélectionnées parmi les cartes prises par le joueur ou l'équipe. Le joueur ou l'équipe avec la meilleure prime marque **1 point**. En général, une prime comporte quatre cartes, mais si un joueur ou une équipe n'a pris aucune carte d'une couleur, une prime de trois ou même deux cartes est aussi possible. Pour décider qui a la meilleure prime, on additionne les valeurs des cartes qui la composent. Pour cela, les cartes 1 à 7 comptent pour leur valeur faciale et les figures comptent pour zéro. Le plus souvent, la meilleure prime sera celle qui a le plus de sept, mais pas toujours — par exemple 7-6-6-5 (valeur 24) bat 7-7-7-2 (valeur 23). Dans un jeu à trois joueurs, il est même possible de gagner la prime avec rien de mieux qu'un six — par exemple 6-6-6-5 (23) bat à la fois 7-7-7-1 (22) et 7-6-5-3 (21). Une prime dont la carte la plus précieuse est un six est appelée **sesenta**.
 
-As in Spanish Escoba, there are many different local rules in Uruguay on how the prime is scored - see variations below.
+Comme à l'Escoba espagnol, il existe de nombreuses règles locales différentes en Uruguay concernant le décompte de la prime — voir les variantes ci-dessous.
 
-In addition to the points mentioned above, you or your team also win **1 point for each escoba**, as indicated by the cards stored face up in the piles of captured cards. 
+En plus des points mentionnés ci-dessus, vous ou votre équipe gagnez également **1 point pour chaque escoba**, comme indiqué par les cartes stockées face visible dans les piles de cartes capturées.
 
-When scoring *cartas*, *oros* or *setenta* a tie for most cards, most points or most valuable prime is possible. If there is a tie between the teams in a partnership game or between all players in an individual game, no one scores the point. In an individual 3- or 4-player game if there is a tie but not all players are involved in the tie, then the players with the most cards or coins or best prime score 1 point each and the others do not score.
+Lors du décompte des *cartas*, *oros* ou *setenta*, une égalité pour le plus grand nombre de cartes, de points ou la prime la plus précieuse est possible. S'il y a égalité entre les équipes dans un jeu par équipe ou entre tous les joueurs dans un jeu individuel, personne ne marque le point. Dans un jeu individuel à 3 ou 4 joueurs, s'il y a égalité mais que tous les joueurs ne sont pas concernés, les joueurs ayant le plus de cartes ou de pièces ou la meilleure prime marquent chacun 1 point et les autres ne marquent rien.
 
-## Winning the game
+## Gagner la partie
 
-The first player or team to have 21 or more points at the end of a hand wins. If more than one player or team reaches 21 in the same hand whoever has with more points wins. If there is a tie for most points at 21 or more, further hands are played until the winner is determined.
+Le premier joueur ou la première équipe à atteindre 21 points ou plus à la fin d'une manche gagne. Si plusieurs joueurs ou équipes atteignent 21 lors de la même manche, celui qui a le plus de points gagne. S'il y a égalité à 21 points ou plus, d'autres manches sont jouées jusqu'à ce que le gagnant soit déterminé.
 
-## Variations
+## Variantes
 
-There are many slightly different versions of this game played in different parts of Uruguay. The above description is based on a version played in Flores. Some other versions reported by *Mateo Molina* as played in Montevideo and some from the classic book *El Juego es Cosa Seria* by Juan Capagorry *(Montevideo, 1979)* are as follows.
+Il existe de nombreuses versions légèrement différentes de ce jeu dans différentes régions d'Uruguay. La description ci-dessus est basée sur une version jouée dans la province de Flores. D'autres versions rapportées par *Mateo Molina* comme jouées à Montevideo et certaines issues du livre classique *El Juego es Cosa Seria* de Juan Capagorry *(Montevideo, 1979)* sont les suivantes.
 
-### Special Cards
+### Cartes spéciales
 
-The details of the individual cards that score points at the end of play for the player or team that won them vary a lot.
+Les détails des cartes individuelles qui rapportent des points en fin de jeu pour le joueur ou l'équipe qui les a obtenues varient considérablement.
 
-Everyone agrees that the seven of coins (*Siete de oros / Siete de velo*) is worth 1 point.
+Tout le monde s'accorde à dire que le sept de pièces (*Siete de oros / Siete de velo*) vaut 1 point.
 
-Some players do not recognise the two of clubs (*Dos de basto / Carimbo*) as a scoring card.
+Certains joueurs ne reconnaissent pas le deux de bâtons (*Dos de basto / Carimbo*) comme carte de décompte.
 
-In some places one or more of following additional special cards are scored by the player or team that takes them.
+Dans certains endroits, une ou plusieurs des cartes spéciales supplémentaires suivantes sont marquées par le joueur ou l'équipe qui les prend :
 
-- ***Uno de oro/ Culo sucio:*** One of coins. The player with this card scores **2 points** or **3 points** at the end of the play (the players must agree the value before the game).
+- ***Uno de oro / Culo sucio*** : As de pièces. Le joueur ayant cette carte marque **2 points** ou **3 points** à la fin du jeu (les joueurs doivent convenir de la valeur avant la partie).
 
-- ***Doce de oro:*** Twelve of coins. The player with this card scores **2 points** at the end of the play.
+- ***Doce de oro*** : Douze de pièces. Le joueur ayant cette carte marque **2 points** à la fin du jeu.
 
-- ***Uno de Espada/ Espadilla: ***One of swords. The player with this card scores **1 point** at the end of play.
+- ***Uno de Espada / Espadilla*** : As d'épées. Le joueur ayant cette carte marque **1 point** à la fin du jeu.
 
-- ***Uno de Basto/ Bastillo:*** One of batons. The player with this card scores **1 point** at the end of play.
+- ***Uno de Basto / Bastillo*** : As de bâtons. Le joueur ayant cette carte marque **1 point** à la fin du jeu.
 
-- ***Siete de Espada:*** Seven of swords. The player with this card scores **1 point** at the end of play.
+- ***Siete de Espada*** : Sept d'épées. Le joueur ayant cette carte marque **1 point** à la fin du jeu.
 
-According to Capagorry the **12 of coins** is worth only **1 point** but the **7 of coins** scores **2 points**. The ones and the 7 of swords do not score.
+Selon Capagorry, le **12 de pièces** ne vaut que **1 point** mais le **7 de pièces** rapporte **2 points**. Les as et le 7 d'épées ne rapportent rien.
 
-### Card Combinations
+### Combinaisons de cartes
 
-***Escoba en mano:*** This card combination is not universally used in Uruguay like the main five, and differs a bit from other card combinations. Some people play that, if you have three cards in your hand that add up to 15, then you have a *Escoba en mano* (*Broom in hand, Sweep in hand*, **15 for 1 point**), and it scores 1 point. What makes this combination differ from the rest is that you have to show it to other players and then put it in your trick pile with one card face up, like a normal Escoba. Then you don't play any cards in the current sub-deal: your turn is skipped until the other players have used their cards, and each player is given three new cards. An example of an *Escoba en mano *could be a 1, a 12, and a 4 of any suits. This can be scored along with any other combination. For example if you had three 5s, you would have a *Chorizo* and an *Escoba en mano*, for a total of 21 points.
+***Escoba en mano*** : Cette combinaison n'est pas universellement utilisée en Uruguay comme les cinq principales, et diffère un peu des autres combinaisons. Certains jouent que, si vous avez trois cartes en main qui totalisent 15, vous avez une *Escoba en mano* (*Balai en main*, **15 pour 1 point**), et elle rapporte 1 point. Ce qui différencie cette combinaison des autres, c'est que vous devez la montrer aux autres joueurs, puis la placer dans votre pile de plis avec une carte face visible, comme une *Escoba* normale. Ensuite, vous ne jouez aucune carte lors de la sous-donne en cours : votre tour est sauté jusqu'à ce que les autres joueurs aient utilisé leurs cartes, et chaque joueur reçoit trois nouvelles cartes. Un exemple d'*Escoba en mano* pourrait être un 1, un 12 et un 4 de n'importe quelle couleur. Cela peut être marqué en même temps que toute autre combinaison. Par exemple, si vous aviez trois 5, vous auriez un *Chorizo* et une *Escoba en mano*, pour un total de 21 points.
 
-In the version described by Capagorry, **Chorizo** scores only **10 points**, not 20.
+Dans la version décrite par Capagorry, **Chorizo** ne rapporte que **10 points**, et non 20.
 
-### Wild Cards
+### Cartes wild
 
-Some people play the game so that *Uno de oro* (1 of coins) and *Doce de oro* (king of coins) are special scoring cards as mentioned above, but some people also give these cards the function of being wild cards (*comodín*), so they have any capture value between 1 and 10, and also they are seen as having no suit. This power can be used for scoring card combinations or to capture cards. Once these wild cards are used as a specific rank, then they’ll have that rank until all points are scored at the end of the play. This means for example that they keep that assigned rank for scoring the *Setenta *(which is scored as usual).
+Certains jouent de sorte que *Uno de oro* (1 de pièces) et *Doce de oro* (roi de pièces) sont des cartes spéciales de décompte comme mentionné ci-dessus, mais certains donnent également à ces cartes la fonction de cartes wild (*comodín*), de sorte qu'elles ont n'importe quelle valeur de capture entre 1 et 10, et sont également considérées comme n'ayant pas de couleur. Ce pouvoir peut être utilisé pour marquer des combinaisons de cartes ou pour capturer des cartes. Une fois ces cartes wild utilisées comme un rang spécifique, elles conservent ce rang jusqu'à ce que tous les points soient comptés en fin de jeu. Cela signifie par exemple qu'elles conservent le rang attribué pour le décompte de la *Setenta* (qui est marquée comme d'habitude).
 
-Some people use the seven of coins and the twelve of coins as wild cards, instead of the twelve and one.
+Certains utilisent le sept de pièces et le douze de pièces comme cartes wild, au lieu du douze et du un.
 
-According to Capagorry the four cards dealt to the table in the initial deal cannot include any wild cards - if any appear, the cards must be gathered up, reshuffled and dealt again by the same dealer.
+Selon Capagorry, les quatre cartes distribuées sur la table lors de la donne initiale ne peuvent inclure aucune carte wild — si une apparaît, les cartes doivent être ramassées, remélangées et redistribuées par le même donneur.
 
-According to Capagorry the holder of a wild card can change **either** its rank **or** its suit but not both. Therefore 3 of swords, 4 of swords, king (12) of coins can be scored as an *escalera*, counting the king as either a 2 or a 5 of coins, but it is not a *flor* because the wild card remains a coin. On the other hand, 3-4-12 of coins is both a *flor* and an *escalera* for 6 points, and 10-11 of cups with the 12 of coins also scores 6 points for *flor* and *escalera* as the wild 12 of coins can be used as a 12 of cups. 
+Selon Capagorry, le détenteur d'une carte wild peut changer **soit** son rang **soit** sa couleur, mais pas les deux. Par conséquent, 3 d'épées, 4 d'épées, roi (12) de pièces peut être marqué comme une *escalera*, en comptant le roi comme un 2 ou un 5 de pièces, mais ce n'est pas une *flor* car la carte wild reste de la couleur pièces. D'un autre côté, 3-4-12 de pièces est à la fois une *flor* et une *escalera* pour 6 points, et 10-11 de coupes avec le 12 de pièces rapporte également 6 points pour *flor* et *escalera* car le 12 de pièces wild peut être utilisé comme un 12 de coupes.
 
 ### Báciga
 
-In normal Chorizo, you wouldn’t score anything if your cards add up to 8, but you would if they add up to 7 or 9. Some people don’t like this, so they don’t play with *Tres de nueve *and *Dos de miseria* and instead play with a card combination called *Báciga* which scores ** 2 points*** *if your three cards add up to 9 or less.
+Au *Chorizo* normal, vous ne marqueriez rien si vos cartes totalisent 8, mais vous le feriez si elles totalisent 7 ou 9. Certains n'aiment pas cela, aussi ils ne jouent pas avec *Tres de nueve* et *Dos de miseria* et jouent plutôt avec une combinaison appelée *Báciga* qui rapporte **2 points** si vos trois cartes totalisent 9 ou moins.
 
-As usual *Báciga* can be scored along with other combinations - for example the 1, 3 and 4 of cups score 5 points for '*Báciga* *y Flor*'. 
+Comme d'habitude, *Báciga* peut être marqué en même temps que d'autres combinaisons — par exemple le 1, le 3 et le 4 de coupes rapportent 5 points pour « *Báciga y Flor* ».
 
-Capagorry recognises an additional combination '***Báciga*** ***y Pares***': when two of the cards are equal, for example 2+3+3, the score is **3 points** instead of 2.
+Capagorry reconnaît une combinaison supplémentaire « ***Báciga y Pares*** » : lorsque deux des cartes sont égales, par exemple 2+3+3, le score est de **3 points** au lieu de 2.
 
-Also, in Capagorry's version of Báciga, if three or all four of the cards initially dealt to the table are the same suit, the dealer (or dealer's team) scores for *'**flor en la mesa***': **3 points** for 3 cards of a suit or **4 points** if all four are the same suit. 
+De plus, dans la version de Báciga de Capagorry, si trois ou les quatre cartes distribuées initialement sur la table sont de la même couleur, le donneur (ou l'équipe du donneur) marque « ***flor en la mesa*** » : **3 points** pour 3 cartes d'une même couleur ou **4 points** si les quatre sont de la même couleur.
 
-### Setenta and Multa
+### Setenta et Multa
 
-***Setenta:*** Although the general idea is always that you need a set of cards of different suits, sevens being the best cards, in Uruguay as in Spain there are several different methods of comparing primes. 
+***Setenta*** : Bien que l'idée générale soit toujours qu'il faut un ensemble de cartes de couleurs différentes, les sevens étant les meilleures cartes, en Uruguay comme en Espagne il existe plusieurs méthodes différentes pour comparer les primes.
 
-- At one extreme some play that the setenta is won by the player or team with most sevens, ignoring all other cards. 
+- À un extrême, certains jouent que la *setenta* est gagnée par le joueur ou l'équipe ayant le plus de sevens, ignorant toutes les autres cartes.
 
-- At the other extreme Capagorry describes the original Italian system where the card values are 21 for a 7, 18 for a 6, 16 for an ace, 15 for a 5, 14 for a 4, 13 for a 3, 12 for a 2 and 10 for a picture (12, 11 or 10). 
+- À l'autre extrême, Capagorry décrit le système italien original où les valeurs des cartes sont 21 pour un 7, 18 pour un 6, 16 pour un as, 15 pour un 5, 14 pour un 4, 13 pour un 3, 12 pour un 2 et 10 pour une figure (12, 11 ou 10).
 
-- Some require that a player or team must have at least one card in each of the four suits for their setenta to be valid. 
+- Certains exigent qu'un joueur ou une équipe doive avoir au moins une carte dans chacune des quatre couleurs pour que sa *setenta* soit valide.
 
-Other possible variants can be found on the Escoba page.
+D'autres variantes possibles peuvent être trouvées sur la page de l'Escoba.
 
-***Multa: ***If a player or team has taken all four sevens by the end of the play, they score **3 points** or **10 points** for that. The number of points scored for *Multa* should be agreed by all players before playing. 
+***Multa*** : Si un joueur ou une équipe a pris les quatre sevens à la fin du jeu, il marque **3 points** ou **10 points** pour cela. Le nombre de points marqués pour la *Multa* doit être convenu par tous les joueurs avant de jouer.
 
-### Last Cards
+### Dernières cartes
 
-Some play that any the cards left on the table at the end of play do not count for any player or team.
-
-Home Page > Classified Index > Fishing Games > Escoba > Chorizo
+Certains jouent que les cartes restantes sur la table en fin de jeu ne comptent pour aucun joueur ou équipe.

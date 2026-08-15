@@ -3,76 +3,74 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A card game for 2-4 players from Iran, in which players can capture cards from the play pile or from each other.
+**But :** Un jeu de cartes pour 2 à 4 joueurs originaire d'Iran, dans lequel les joueurs peuvent capturer des cartes depuis la pile de jeu ou depuis les tas des adversaires.
 
 ---
 
 ## Introduction
 
-Ghârat is an Iranian single pile fishing game for two to four players. Its name means 'loot', and refers to the fact that cards can be captured either from the play pile or from an opponent's capture pile.
+Ghârat est un jeu iranien de pêche à pile unique pour deux à quatre joueurs. Son nom signifie « butin », et fait référence au fait que les cartes peuvent être capturées soit depuis la pile de jeu, soit depuis le tas de capture d'un adversaire.
 
-*This page is based on information from Datis Khaje`ian.*
+*Cette page est basée sur des informations de Datis Khaje`ian.*
 
-## Players and Cards
+## Joueurs et cartes
 
-This game can be played by two, three or four players, playing as individuals. Sometimes four players play in partnerships, each player sitting opposite their partner.
+Ce jeu peut se jouer à deux, trois ou quatre joueurs, chacun jouant pour soi. Parfois quatre joueurs jouent en équipe, chaque joueur étant assis en face de son partenaire.
 
-A standard international 52-card pack without Jokers is used. In this game it is only the rank of the cards (A K Q J 10 9 8 7 6 5 4 3 2) that is important: suits are irrelevant.
+Un jeu de 52 cartes standard sans jokers est utilisé. Dans ce jeu, seul le rang des cartes (A R D V 10 9 8 7 6 5 4 3 2) importe : les couleurs sont sans importance.
 
-Deal and play are anticlockwise.
+La donne et le jeu se font dans le sens antihoraire.
 
-## Deal
+## Donne
 
-The dealer shuffles the deck and places a stack of four cards face up in the centre with only the top card visible - the three cards buried under it remain unknown unless and until the top card is captured. This is the beginning of the play pile. 
+Le donneur mélange le jeu et place un tas de quatre cartes face visible au centre, avec seulement la carte du dessus visible — les trois cartes enfouies en dessous restent inconnues jusqu'à ce que la carte du dessus soit capturée. C'est le début de la pile de jeu.
 
-The dealer then deals four cards to each player and stores the remainder of the deck in a face down stack. The players look at their cards (but do not show them to the other players) and play them as described below. 
+Le donneur distribue ensuite quatre cartes à chaque joueur et conserve le reste du jeu en tas face cachée. Les joueurs regardent leurs cartes (sans les montrer aux autres) et les jouent comme décrit ci-dessous.
 
-During the game there will be a face up play pile in the middle and a face up capture pile in front of each player. The play pile begins with four cards and the capture piles begin empty.
+Pendant la partie, il y a une pile de jeu face visible au centre et un tas de capture face visible devant chaque joueur. La pile de jeu commence avec quatre cartes et les tas de capture commencent vides.
 
-When everyone has played their four cards, if there are cards remaining in the undealt stack the dealer deals a new hand of four cards to each player and play continues. So with four players there will be three deals of four cards each, with three players four deals and with two players six deals until the deck is exhausted.
+Quand tout le monde a joué ses quatre cartes, s'il reste des cartes dans le tas non distribué, le donneur distribue une nouvelle main de quatre cartes à chaque joueur et le jeu continue. Ainsi, avec quatre joueurs il y aura trois donnes de quatre cartes chacune, avec trois joueurs quatre donnes, et avec deux joueurs six donnes jusqu'à épuisement du jeu.
 
-When all the cards have been played and none remain to be dealt the players score for the cards they have captured and the turn to deal passes to the next player to the right. 
+Quand toutes les cartes ont été jouées et qu'il n'en reste plus à distribuer, les joueurs marquent les points pour les cartes qu'ils ont capturées et le tour de donne passe au joueur suivant à droite.
 
-## Play
+## Jeu
 
-The play begins with the player to dealer's right and continues anticlockwise until everyone has played their four cards.
+Le jeu commence par le joueur à la droite du donneur et se poursuit dans le sens antihoraire jusqu'à ce que tout le monde ait joué ses quatre cartes.
 
-At their turn a player plays any one of the cards in their hand. 
+À son tour, un joueur joue l'une des cartes de sa main.
 
-- If the played card matches the rank of the top card of any of the piles on the table, either the top card of the play pile or the top card of a capture pile, the player takes that card and any further equal cards that are immediately under it and stacks those equal cards face up on top of their own capture pile.
+- Si la carte jouée correspond au rang de la carte du dessus de l'un des tas sur la table — soit la carte du dessus de la pile de jeu, soit la carte du dessus d'un tas de capture — le joueur prend cette carte et toutes les cartes égales immédiatement en dessous, et empile ces cartes égales face visible sur son propre tas de capture.
 
-- If the played card does not match the top card of any pile, the player simply adds it to the top of the play pile.
+- Si la carte jouée ne correspond à la carte du dessus d'aucun tas, le joueur l'ajoute simplement sur la pile de jeu.
 
-Either way, the turn now passes to the next player: a player can only ever play one card from their hand in their turn.
+Dans tous les cas, le tour passe au joueur suivant : un joueur ne peut jouer qu'une seule carte de sa main à son tour.
 
-'Stealing' cards from other players' capture piles by matching them is the 'looting' that gives the game its name.
+« Voler » des cartes dans le tas de capture d'un autre joueur en les faisant correspondre est le « pillage » qui donne son nom au jeu.
 
-It is also possible for a player to 'steal' cards from their own capture pile, but the cards do not move in this case, so if you play a card that matches the top card of your own capture pile you simply add it to the top of your own pile.
+Il est également possible de « voler » des cartes de son propre tas de capture, mais les cartes ne bougent pas dans ce cas : si vous jouez une carte qui correspond à la carte du dessus de votre propre tas de capture, vous l'ajoutez simplement sur votre tas.
 
-Note that all the piles must always be neatly stacked so that only the top card of each card is visible. It is illegal to look through any pile to see what is under the top card: the next card only becomes visible when the top card is captured. 
+Notez que tous les tas doivent toujours être bien empilés de sorte que seule la carte du dessus soit visible. Il est interdit de regarder dans un tas pour voir ce qui se trouve sous la carte du dessus : la carte suivante ne devient visible que lorsque la carte du dessus est capturée.
 
-## Scoring
+## Score
 
-When all the cards have been played, each player scores for the cards in their own capture pile as follows:
+Quand toutes les cartes ont été jouées, chaque joueur marque des points pour les cartes de son tas de capture comme suit :
 
-- **Number cards** (2, 3, 4, 5, 6, 7, 8, 9, 10): **5 points** each.
+- **Cartes numériques** (2, 3, 4, 5, 6, 7, 8, 9, 10) : **5 points** chacune.
 
-- **Court cards** (J, Q, K): **10 points** each.
+- **Figures** (V, D, R) : **10 points** chacune.
 
-- **Aces**: **20 points** each.
+- **As** : **20 points** chacun.
 
-Normally when the play ends there will be cards in the play pile that no one has captured. These cards are not counted and score for no one.
+Normalement, à la fin du jeu, il reste des cartes dans la pile de jeu que personne n'a capturées. Ces cartes ne comptent pour personne.
 
-A cumulative score is kept for each player, starting from zero. A target score should be agreed before the game, usually 500 or 1000, and the first player whose score exceeds that amount wins the game. If two or more players reach or exceed the target the highest score wins. If two or more players tie for highest score at or aboive the target, play continues until the tie is broken.
+Un score cumulatif est conservé pour chaque joueur, à partir de zéro. Un score cible doit être convenu avant la partie, généralement 500 ou 1000, et le premier joueur dont le score dépasse ce montant gagne la partie. Si deux joueurs ou plus atteignent ou dépassent le cible, le score le plus élevé gagne. Si deux joueurs ou plus sont à égalité au cible ou au-dessus, le jeu continue jusqu'à ce que l'égalité soit départagée.
 
-In a partnership game, partners add their scores together and the first team to reach the target wins. 
+En jeu par équipe, les partenaires additionnent leurs scores et la première équipe à atteindre le cible gagne.
 
-## Variant
+## Variante
 
-There is a version of Ghârat in which a player who holds a pair of equal cards can use their turn to add both cards together to their capture pile. Having used two cards in one turn, this player will have no card to play in the fourth turn of that deal, so at that point they simply miss that turn. (A player who had two pairs and used their first two turns to play them would then miss two turns while the othert players played their remaining cards.
+Il existe une version de Ghârat dans laquelle un joueur qui détient une paire de cartes égales peut utiliser son tour pour ajouter les deux cartes ensemble à son tas de capture. Ayant utilisé deux cartes en un seul tour, ce joueur n'aura pas de carte à jouer au quatrième tour de cette donne, il passe donc simplement son tour. (Un joueur qui avait deux paires et a utilisé ses deux premiers tours pour les jouer passerait ensuite deux tours pendant que les autres joueurs joueraient leurs cartes restantes.)
 
-This game is thought of as 'easier' than the normal game, because in the normal ('hard') game if you have a pair, you will normally have to play one card of your pair to the play pile, where it will usually be covered by a different card before you have a chance to capture it.
+Ce jeu est considéré comme « plus facile » que le jeu normal, car dans le jeu normal (« difficile »), si vous avez une paire, vous devrez normalement jouer une de vos cartes de la paire sur la pile de jeu, où elle sera généralement recouverte par une autre carte avant que vous ayez une chance de la capturer.
 
-In the 'easy' game, players normally wait until their third turn to play their pair, to reduce the chance that the two cards will be stolen by another player before they can be covered. 
-
-Home Page > Classified Index > Fishing Games > Ghârat
+Dans le jeu « facile », les joueurs attendent généralement leur troisième tour pour jouer leur paire, afin de réduire les chances que les deux cartes soient volées par un autre joueur avant de pouvoir être recouvertes.

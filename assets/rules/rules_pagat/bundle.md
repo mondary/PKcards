@@ -3,42 +3,40 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** In which a card played can capture an equal card from the table or steal another player's pile of captured cards.
+**But :** Un jeu où une carte jouée peut capturer une carte de même valeur sur la table ou voler la pile de cartes capturées d'un autre joueur.
+**Autres noms :** Steal the Old Man's Bundle, Casita Robada, Rubamazzo
 
 ---
 
 ## Introduction
 
-This children's game is also commonly known as Steal the Old Man's Bundle, Steal the Old Man's Pack or Steal Pile. A very similar game is played by children in Argentina, where it is known as Casita Robada, and in Italy it is known as **Rubamazzo**.
+Ce jeu d'enfants est aussi couramment appelé *Steal the Old Man's Bundle*, *Steal the Old Man's Pack* ou *Steal Pile*. Un jeu très similaire est pratiqué par les enfants en Argentine, où il est connu sous le nom de *Casita Robada*, et en Italy sous le nom de **Rubamazzo**.
 
-## Players and Cards
+## Joueurs et cartes
 
-Stealing Bundles is a fairly simple fishing game, for 2, 3 or 4 players, normally using a standard 52-card pack. To start the game, everyone draws a card and the player drawing the highest card deals first (in case of a tie the tied players draw again).
+*Stealing Bundles* est un jeu de pêche assez simple, pour 2, 3 ou 4 joueurs, utilisant normalement un jeu standard de 52 cartes. Pour commencer, chaque joueur tire une carte et le joueur ayant tiré la carte la plus haute distribue en premier (en cas d'égalité, les joueurs concernés tirent à nouveau).
 
-## Play
+## Déroulement
 
-The dealer shuffles, and then deals the cards out clockwise one at a time: four cards face down to each player and four face up to the centre of the table. The centre cards are laid out separately so that all are visible. The remainder of the pack is kept face down by the dealer and will be used later. The players then pick up their hands of four cards and look at them (but of course are not allowed to look at other players' cards).
+Le donneur mélange, puis distribue les cartes dans le sens horaire, une à une : quatre cartes face cachée à chaque joueur et quatre face visible au centre de la table. Les cartes du centre sont étalées séparément pour que toutes soient visibles. Le reste du paquet est conservé face cachée par le donneur et sera utilisé ultérieurement. Les joueurs ramassent alors leur main de quatre cartes et les regardent (mais ne sont bien sûr pas autorisés à regarder les cartes des autres joueurs).
 
-The player to the dealer's left starts, the turn to play passes clockwise around the table. At your turn you must play one card from your hand face up to the table. If the card you play matches the rank of any of the face up centre cards, you must take the card you played and any matched cards and place them in a face up pile in front of you, to start your 'bundle'. (Suits are ignored in this game: a King matches a King, an Eight matches an Eight, and so on.) No matter whether you matched a card or not, it is then the next player's turn to play.
+Le joueur situé à la gauche du donneur commence, et le tour de jouer passe dans le sens horaire autour de la table. À votre tour, vous devez jouer une carte de votre main face visible sur la table. Si la carte que vous jouez correspond au rang de l'une des cartes visibles au centre, vous devez prendre la carte que vous avez jouée ainsi que toute carte correspondante et les placer dans une pile face visible devant vous, pour commencer votre *bundle* (tas). (Les couleurs sont ignorées dans ce jeu : un Roi correspond à un Roi, un Huit correspond à un Huit, etc.) Que vous ayez ou non capturé une carte, c'est ensuite le tour du joueur suivant.
 
-Any matched cards that you acquire during the game are always stacked on top of your bundle, with the card you played on top, so that only this top card is visible.
+Toutes les cartes capturées au cours du jeu sont toujours empilées sur votre tas, avec la carte que vous avez jouée sur le dessus, de sorte que seule cette carte supérieure est visible.
 
-If you play a card that matches the top card of an opponent's bundle, you steal their whole of their bundle and add it to the top of yours, placing the matching card that you played on top.
+Si vous jouez une carte qui correspond à la carte supérieure du tas d'un adversaire, vous volez l'intégralité de son tas et l'ajoutez sur le vôtre, en plaçant la carte correspondante que vous avez jouée sur le dessus.
 
-After everyone has played their four cards, the same dealer takes the remaining undealt cards and deals another four cards face down to each player, one at a time (but no further cards to the layout). Again the players look at their hands, and play continues as before. After all these cards have been played another four cards each are dealt by the same dealer, and this process of dealing and playing continues until all the cards have been dealt and everyone has played their last four cards. At this point, any cards remaining face up in the centre are added to the bundle of the last player who matched a card.
+Après que tous les joueurs ont joué leurs quatre cartes, le même donneur prend les cartes non distribuées restantes et distribue quatre nouvelles cartes face cachée à chaque joueur, une à la fois (mais sans ajouter de cartes au centre). Les joueurs regardent à nouveau leurs mains, et le jeu continue comme précédemment. Après que toutes ces cartes ont été jouées, quatre autres cartes sont distribuées à chacun par le même donneur, et ce processus de distribution et de jeu se poursuit jusqu'à ce que toutes les cartes aient été distribuées et que chacun ait joué ses dernières quatre cartes. À ce moment, toute carte restante face visible au centre est ajoutée au tas du dernier joueur ayant effectué une capture.
 
-Now the cards in each are counted and whoever has the largest bundle wins.
+On compte alors les cartes de chaque joueur, et celui qui a le plus grand tas gagne.
 
-If you want to play again, the turn to deal now passes to the left. The new dealer shuffles all the cards and another game is played as described above.
+Si vous souhaitez rejouer, le tour de distribution passe à gauche. Le nouveau donneur mélange toutes les cartes et une nouvelle partie est jouée comme décrit ci-dessus.
 
-## Casita Robada and Rubamazzo
+## Casita Robada et Rubamazzo
 
-The Argentinean game *Casita Robata*, which was described to me Eduardo de Tello, is essentially the same. The only differences from Stealing Bundles are:
+Le jeu argentin *Casita Robada*, qui m'a été décrit par Eduardo de Tello, est essentiellement le même. Les seules différences avec *Stealing Bundles* sont :
 
-- A Spanish suited pack of 40 (or 48) cards is used;
+- Un jeu de 40 (ou 48) cartes à couleurs espagnoles est utilisé ;
+- Le jeu se joue dans le sens antihoraire.
 
-- The game is played counter-clockwise.
-
-The Italian game *Rubamazzo* is the same game played counter-clockwise with an Italian 40-card pack.
-
-Home Page > Classified Index > Fishing Games > Stealing Bundles
+Le jeu italien *Rubamazzo* est le même jeu, joué dans le sens antihoraire avec un jeu italien de 40 cartes.

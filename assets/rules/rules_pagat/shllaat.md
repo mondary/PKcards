@@ -2,105 +2,103 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A fishing game in which cards can be captured from the opponents as well as from the table, and each player's turn continues until they are unable to capture.
+**But :** Jeu de pêche dans lequel les cartes peuvent être capturées auprès des adversaires ainsi que sur la table, et le tour de chaque joueur continue jusqu'à ce qu'il soit incapable de capturer.
 
 ---
 
 ## Introduction
 
-This game may well have originated in Sudan, and was very popular there in early years of the 21st century. Although it is usually played by children, it can also be enjoyed by adults. Its usual Arabic name "shlla'at" (شَلَّعَت) means 'uprooted', but some groups call it "sanaht" (Arabic: سَنَحَت), meaning 'the opportunity'. "Shlla'at" could also be translated as 'blown away', in the sense that a strong wind could blow away a cover or a fragile roof.
+Ce jeu originate très probablement du Soudan et y était très populaire au début du XXIe siècle. Bien qu'il soit généralement joué par des enfants, les adultes peuvent aussi y prendre plaisir. Son nom arabe usuel « shlla'at » (شَلَّعَت) signifie « déraciné », mais certains groupes l'appellent « sanaht » (arabe : سَنَحَت), signifiant « l'opportunité ». « Shlla'at » peut aussi se traduire par « emporté », au sens où un vent fort pourrait emporter une couverture ou un toit fragile.
 
-Shlla'at is a fishing game with some unusual features. A player can make a series of captures in a single turn, drawing a new card from the deck after each capture and continuing until a card is played that captures nothing. Captures can be made both from the central layout or pool and from the capture piles of other players. The names of the game reflect these characteristics.
+Shlla'at est un jeu de pêche présentant quelques caractéristiques inhabituelles. Un joueur peut effectuer une série de captures en un seul tour, piochant une nouvelle carte du tas après chaque capture et continuant jusqu'à jouer une carte qui ne capture rien. Les captures peuvent être effectuées aussi bien dans la disposition centrale (le tas) que dans les tas de capture des autres joueurs. Les noms du jeu reflètent ces caractéristiques.
 
-*This page is based on information from Ali Hassan.*
+*Cette page est basée sur des informations fournies par Ali Hassan.*
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-In theory any reasonable number could play, but the game works best with 3-5 players. The direction of play is clockwise. There are no teams, though temporary informal alliances often emerge during the game. 
+En théorie, un nombre quelconque raisonnable de joueurs peut participer, mais le jeu fonctionne mieux avec 3 à 5 joueurs. Le sens de jeu est horaire. Il n'y a pas d'équipes, bien que des alliances temporaires informelles se forment souvent en cours de partie.
 
-A full international pack with two Jokers is used, 54 cards in all. The Jokers and Aces are **special cards**, and the other 48 cards are **normal cards**. The card values are as follows:
+On utilise un jeu international complet avec deux jokers, soit 54 cartes au total. Les jokers et les as sont des **cartes spéciales**, et les 48 autres cartes sont des **cartes normales**. Les valeurs des cartes sont les suivantes :
 
-| Jokers: | 50 points each |
-| Aces: | 25 points each |
-| Jacks: | 2 points each |
-| All other cards: | 1 point each |
+| Jokers : | 50 points chacun |
+| As : | 25 points chacun |
+| Valets : | 2 points chacun |
+| Toutes les autres cartes : | 1 point chacune |
 
-The total value of the cards in the pack is 252 points.
+La valeur totale des cartes du jeu est de 252 points.
 
-Before beginning, the players should agree the target score - the number of points required to win. This could be 500 points for a short game, or a multiple of 500 such as 1000 or 1500 for a longer game.
+Avant de commencer, les joueurs doivent s'accorder sur le score cible — le nombre de points nécessaires pour gagner. Il peut s'agir de 500 points pour une partie courte, ou d'un multiple de 500 comme 1000 ou 1500 pour une partie plus longue.
 
-## Capturing Cards
+## Capture de cartes
 
-The aim is to capture cards and the players score at the end of each hand according to the value of the cards in their capture pile. 
+Le but est de capturer des cartes, et les joueurs marquent des points à la fin de chaque manche selon la valeur des cartes de leur tas de capture.
 
-- When a normal card is played, it can capture any available cards of the same rank. This is a **'normal capture'**.
+- Lorsqu'une carte normale est jouée, elle peut capturer toutes les cartes disponibles de même rang. Il s'agit d'une **« capture normale »**.
 
-- A Joker can capture all available cards of any one rank that the player chooses. This is a '**special capture**'.
+- Un joker peut capturer toutes les cartes disponibles de n'importe quel rang choisi par le joueur. Il s'agit d'une **« capture spéciale »**.
 
-- An Ace can capture all available cards of any one rank that the player chooses, unless they are protected by a Joker. This is also a **'special capture'**.
+- Un as peut capturer toutes les cartes disponibles de n'importe quel rang choisi par le joueur, sauf si elles sont protégées par un joker. Il s'agit également d'une **« capture spéciale »**.
 
-The captured cards, including the card that made the capture, are stored face up as a set on top of the player's **capture pile**. Only the top card of this pile should be vsible. If the captured set contains a special card along with two or more normal cards, it is customary to put the special card(s) in the middle of the set with normal cards at the ends. If a special card is used to capture a singe normal card, the normal card should be placed on top of the special card.
+Les cartes capturées, y compris la carte ayant effectué la capture, sont conservées face visible sous forme d'un ensemble placé au sommet du **tas de capture** du joueur. Seule la carte supérieure de ce tas doit être visible. Si l'ensemble capturé contient une carte spéciale avec deux cartes normales ou plus, il est d'usage de placer la ou les cartes spéciales au milieu de l'ensemble avec des cartes normales aux extrémités. Si une carte spéciale est utilisée pour capturer une seule carte normale, la carte normale doit être placée sur la carte spéciale.
 
-The reason for captured cards to remain face up is that other players, at their turns, may 'steal' or capture the topmost set from any opponent's pile. The sets of cards on top of all your opponents' capture piles are available for capture along with the cards in the pool in the centre of the table. Removing the top set of cards from a player's pile will reveal the captured set directly beneath it, which only then will be at risk of being captured. These are the 'uprooting' and 'opportunity arising' aspects of the game.
+Les cartes capturées restent face visible pour que d'autres joueurs puissent, à leur tour, « voler » ou capturer l'ensemble supérieur du tas de capture de n'importe quel adversaire. Les ensembles de cartes au sommet de tous les tas de capture de vos adversaires sont disponibles pour la capture en même temps que les cartes du tas au centre de la table. Retirer l'ensemble supérieur du tas d'un joueur révèle l'ensemble capturé situé juste en dessous, qui devient alors à son tour exposé à la capture. Ce sont les aspects « déracinement » et « opportunité qui se présente » du jeu.
 
-It is possible for a single card to capture several separate cards or sets of cards from the pool or the other players' capture piles at the same time, provided that these cards and sets are all of the same rank. The cards captured in this way are combined into a single set. 
+Une seule carte peut capturer plusieurs cartes ou ensembles séparés du tas ou des tas de capture d'autres joueurs en même temps, à condition que ces cartes et ensembles soient tous de même rang. Les cartes capturées de cette manière sont regroupées en un seul ensemble.
 
-It is possible for a special card (Ace or a Joker) to capture just a single card from the pool on the table if the player wishes to do so. It is also possible for a player to discard a special card to the pool and leave it there, capturing nothing. A special card in the pool can subsequently be captured by any normal card, but not by another special card.
+Une carte spéciale (as ou joker) peut ne capturer qu'une seule carte du tas sur la table si le joueur le souhaite. Un joueur peut aussi défausser une carte spéciale sur le tas et la laisser là sans rien capturer. Une carte spéciale dans le tas peut ensuite être capturée par n'importe quelle carte normale, mais pas par une autre carte spéciale.
 
-When a card is played that can capture one or more available cards or sets, the player is not obliged to capture all these cards. The player of a normal card can choose to capture just some of the matching cards in the pool or from other players' capture piles, or may choose to capture nothing at all, leaving the played card in the pool. When capturing a set of cards from an opponent, the whole set of equal cards must be captured along with any special cards it contains: it is not possible to capture just a part of a set. 
+Lorsqu'une carte est jouée et peut capturer une ou plusieurs cartes ou ensembles disponibles, le joueur n'est pas obligé de capturer toutes ces cartes. Le joueur d'une carte normale peut choisir de ne capturer qu'une partie des cartes correspondantes du tas ou des tas de capture d'autres joueurs, ou peut choisir de ne rien capturer, laissant la carte jouée dans le tas. Lors de la capture d'un ensemble de cartes appartenant à un adversaire, l'ensemble complet de cartes de même rang doit être capturé avec toutes les cartes spéciales qu'il contient : il n'est pas possible de ne capturer qu'une partie d'un ensemble.
 
-If a player chooses not to capture all the cards they are entitled to, or fails to notice some cards that could be captured, the cards cannot be claimed later. In particular, as soon as the player draws a new card from the draw pile or the next player begins their turn, the missed capture is no longer possible - it is said to be 'burnt'. In some circumstances a missed capture can be declared burnt even before the next card is drawn or played - see Customs and Etiquette below.
+Si un joueur choisit de ne pas capturer toutes les cartes auxquelles il a droit, ou s'il ne remarque pas certaines cartes qui pourraient être capturées, ces cartes ne pourront plus être réclamées ultérieurement. En particulier, dès que le joueur pioche une nouvelle carte de la pioche ou que le joueur suivant commence son tour, la capture manquée n'est plus possible — elle est dite « brûlée ». Dans certaines circonstances, une capture manquée peut être déclarée brûlée même avant que la carte suivante ne soit piochée ou jouée — voir Coutumes et étiquette ci-dessous.
 
-It sometimes happens that a player captures cards of the same rank as the cards that are on top of their own capture pile. This will result in sets of equal rank stacked directly on top of each other. For the purposes of stealing, these equal cards are then treated as a single, larger set, which can be only captured together as a single unit.
+Il arrive parfois qu'un joueur capture des cartes de même rang que les cartes se trouvant au sommet de son propre tas de capture. Il en résulte des ensembles de même rang empilés directement les uns sur les autres. Aux fins de vol, ces cartes de même rang sont alors traitées comme un seul ensemble plus grand, qui ne peut être capturé que dans son ensemble.
 
-The rules of capture and special capture can be summarised as follows.
+Les règles de capture et de capture spéciale peuvent être résumées comme suit.
 
-- A card or set of cards can always be captured by a normal card of the same rank regardless of whether the set contains special card/s or not.
+- Une carte ou un ensemble de cartes peut toujours être capturé par une carte normale de même rang, que l'ensemble contienne ou non des cartes spéciales.
 
-- A normal card or a set of cards can be captured by a Joker regardless of whether the set contains special card/s or not.
+- Une carte normale ou un ensemble de cartes peut être capturé par un joker, que l'ensemble contienne ou non des cartes spéciales.
 
-- A normal card or set of cards that contains a Joker cannot be captured by an Ace. An Ace can capture a set of normal cards or a set that contains one or more Aces.
+- Une carte normale ou un ensemble de cartes contenant un joker ne peut pas être capturé par un as. Un as peut capturer un ensemble de cartes normales ou un ensemble contenant un ou plusieurs as.
 
-- A special card in the pool can be captured by any normal card but not by a special card.
+- Une carte spéciale dans le tas peut être capturée par n'importe quelle carte normale, mais pas par une carte spéciale.
 
-## Deal and Layout
+## Distribution et disposition
 
-It doesn't matter who deals the cards. Each player is dealt a hand four cards face down, which they pick up and look at. Then four cards are dealt to the centre of the table where they are placed separately face up to form the starting pool. The rest of the deck is stacked face down as a drawing pile. 
+Peu importe qui distribue les cartes. Chaque joueur reçoit quatre cartes face cachée, qu'il prend en main et regarde. Ensuite, quatre cartes sont posées face visible au centre de la table, séparément, pour former le tas initial. Le reste du jeu est empilé face cachée en tant que pioche.
 
-If one or two of the initial face up cards happen to be special cards (Aces or Jokers), they must be buried inside the drawing pile spaced away from one another, and then replaced by an equal number of cards from the top of the drawing pile. If the initial face up cards or any player's hand includes three or four special cards or three or four ordinary cards of the same rank, all the cards are thrown in, shuffled and redealt. 
+Si l'une ou deux des cartes face visible initiales s'avèrent être des cartes spéciales (as ou jokers), elles doivent être enfouies dans la pioche en les espaçant les unes des autres, puis remplacées par un nombre égal de cartes provenant du sommet de la pioche. Si les cartes face visibles initiales ou la main de n'importe quel joueur contiennent trois ou quatre cartes spéciales ou trois ou quatre cartes ordinaires de même rang, toutes les cartes sont jetées, mélangées et redistribuées.
 
-## Play
+## Déroulement
 
-In the first hand the first player is chosen by any convenient random method. In subsequent hands, the turn to play first rotates clockwise.
+Lors de la première manche, le premier joueur est choisi par n'importe quelle méthode aléatoire pratique. Dans les manches suivantes, le droit de jouer en premier tourne dans le sens horaire.
 
-There are two phases of play.
+Le jeu comporte deux phases.
 
-**1. When there is at least one card in the draw pile. **The player first draws a card from the draw pile without showing it to the other players, and then plays one of their five cards face up on the table. If this card is used to make a capture (see above), the player draws another card and plays again. If the player is not able to or does not wish to make a capture, they simply play a card face up to the table capturing nothing. The player's turn ends and the played card remains in the pool where it is available to be captured by later players. The turn passes to the next player to the left.
+**1. Lorsqu'il reste au moins une carte dans la pioche.** Le joueur tire d'abord une carte de la pioche sans la montrer aux autres joueurs, puis joue l'une de ses cinq cartes face visible sur la table. Si cette carte sert à effectuer une capture (voir ci-dessus), le joueur tire une autre carte et rejoue. Si le joueur ne peut pas ou ne souhaite pas effectuer de capture, il pose simplement une carte face visible sur la table sans rien capturer. Le tour du joueur s' termine et la carte jouée reste dans le tas, disponible pour être capturée par les joueurs suivants. Le tour passe au joueur suivant à gauche.
 
-**2. When the draw pile is empty.** From the moment when a player draws the last card of the draw pile, everyone will be permitted to play only one card per turn, regardless of whether they make a capture or not. This will start with the player who drew the last card from the pile and now holds 5 cards. This player plays one card and, whether it captures anything or not, the turn will pass to the next player in clockwise order. From now on each player in turn plays just one card from hand without drawing. The player who took the last card from the drawing pile will always be the last to run out of cards, which is often an advantage. The last player who had made a capture takes any uncaptured cards that remain on the table at the end of a hand after all the cards have been played.
+**2. Lorsque la pioche est vide.** À partir du moment où un joueur tire la dernière carte de la pioche, chacun n'aura droit qu'à une seule carte par tour, qu'il effectue ou non une capture. Cela commence avec le joueur qui a tiré la dernière carte de la pioche et détient maintenant 5 cartes. Ce joueur joue une carte et, qu'elle capture ou non, le tour passe au joueur suivant dans le sens horaire. Désormais, chaque joueur à son tour joue une seule carte de sa main sans piocher. Le joueur qui a pris la dernière carte de la pioche sera toujours le dernier à n'avoir plus de cartes, ce qui est souvent un avantage. Le dernier joueur à avoir effectué une capture récupère toutes les cartes non capturées restant sur la table à la fin de la manche, une fois toutes les cartes jouées.
 
-## End of the Play and Scoring
+## Fin de la partie et marquage
 
-A cumulative score is kept for each player, beginning at zero. At the end of each hand, each player counts the total value of the cards in their capture pile and and adds this to their score. If any player's score has reached or passed the agreed target (for example 500), the player with the highest score wins the game. In the extremely rare event of a tie for most points, the players should either accept that both (or all) tied players win, or agree a higher target and continue the game to the new target to decide the winner.
+Un score cumulatif est tenu pour chaque joueur, commençant à zéro. À la fin de chaque manche, chaque joueur compte la valeur totale des cartes de son tas de capture et l'ajoute à son score. Si le score d'un joueur a atteint ou dépassé le score cible convenu (par exemple 500), le joueur ayant le score le plus élevé gagne la partie. Dans le cas extrêmement rare d'une égalité pour le plus grand nombre de points, les joueurs doivent soit accepter que les deux (ou tous) joueurs à égalité gagnent, soit s'accorder sur un score cible supérieur et continuer la partie jusqu'au nouveau score pour départager le vainqueur.
 
-## Customs and Etiquette
+## Coutumes et étiquette
 
-When capturing cards from the pool the custom is either to place the capturing card on top of the cards to be captured, or to use the capturing card to scoop up the captured cards, then pick the cards up and add them to the top of your capture stack. Alternatively you may place your capturing card on top of your capture stack and then collect the cards you want to capture and put them on top of it (of course you can't do this if you intend to make no captures at all)
+Lors de la capture de cartes dans le tas, la coutume est soit de placer la carte de capture sur les cartes à capturer, soit d'utiliser la carte de capture pour ramasser les cartes capturées, puis les prendre et les ajouter au sommet de votre tas de capture. Vous pouvez aussi placer votre carte de capture sur votre tas et ensuite ramasser les cartes que vous souhaitez capturer et les poser dessus (bien sûr, vous ne pouvez pas le faire si vous ne comptez effectuer aucune capture).
 
-When capturing cards from an opponent's pile, you should place the capturing card or top of your own stack and ask for the cards that you want to capture, which the opponent must then give to you. It is considered impolite to reach out and take cards from an opponent's pile. When stealing using a special card the player usually keeps the special card in their hand as they are waiting for the captured cards to be handed to them. Usually the player who just lost his/her cards will create a gap in the middle of the set so that the special card holder will place it in the gap and then stack the set on top of his/her capture stack.
+Lors de la capture de cartes dans le tas d'un adversaire, vous devez placer la carte de capture au sommet de votre propre tas et demander les cartes que vous souhaitez capturer, que l'adversaire doit alors vous remettre. Il est considéré impoli de tendre la main et de prendre des cartes dans le tas d'un adversaire. Lors d'un vol avec une carte spéciale, le joueur garde généralement la carte spéciale en main en attendant qu'on lui remette les cartes capturées. Le joueur qui vient de perdre ses cartes crée généralement un espace au milieu de l'ensemble pour que le détenteur de la carte spéciale puisse y placer la sienne, puis empiler l'ensemble au sommet de son tas de capture.
 
-Capture piles must be neatly stacked so that only the topmost card, showing the rank of the most recently captured set, is visible. Players are not allowed to inspect the cards buried in the capture piles of other players, nor in their own pile. Furthermore, players are not allowed to comment on the number of type of cards in players' capture stacks or about what cards remain unplayed. Instead, players must rely on their own memory to keep track of such information. 
+Les tas de capture doivent être soigneusement empilés pour que seule la carte supérieure, indiquant le rang de l'ensemble le plus récemment capturé, soit visible. Les joueurs ne sont pas autorisés à inspecter les cartes enfouies dans les tas de capture d'autres joueurs, ni dans leur propre tas. De plus, les joueurs ne sont pas autorisés à commenter le nombre ou le type de cartes dans les tas de capture, ni sur les cartes restant non jouées. Les joueurs doivent compter sur leur propre mémoire pour suivre ces informations.
 
-When a player misses a possible capture, opponents may declare the capture 'burnt' even before the next card has been drawn. For example if a player places their played card in the pool rather than on top of their own capture pile, that is taken as a sign that they do not intend to steal any cards from opponents' capture piles, so a player who has a matching set on top of their capture pile can immediately declare that capture burnt. Or if you play a Joker and two of your opponents, A and B, have 8's on the top of their capture stacks, but you ask or gesture only to player A to hand you his 8's, player B could immediately declare her 8's a missed capture.
+Lorsqu'un joueur rate une capture possible, les adversaires peuvent déclarer la capture « brûlée » avant même que la carte suivante ne soit piochée. Par exemple, si un joueur pose sa carte jouée dans le tas plutôt que sur son propre tas de capture, cela est considéré comme un signe qu'il n'a pas l'intention de voler de cartes aux tas de capture des adversaires, de sorte qu'un joueur ayant un ensemble correspondant au sommet de son tas de capture peut immédiatement déclarer cette capture brûlée.
 
-When the topmost set of a player's capture pile is taken by another player, everyone is entitled to see what the stolen set contains - how many normal cards and what special cards. The 'stolen' cards may be fanned out to make this clear. Commenting on stolen cards as they are fanned out and being handed to the player who stole them is not against the rules, since the cards are already visible for everyone to see, but in some groups such comments might be slightly discouraged since they might alert inattentive who could otherwise remain oblivious. 
+Lorsque l'ensemble supérieur du tas de capture d'un joueur est pris par un autre joueur, tout le monde a le droit de voir ce que contient l'ensemble volé — combien de cartes normales et quelles cartes spéciales. Les cartes « volées » peuvent être éventées pour le rendre clair. Commenter les cartes volées au moment où elles sont éventées et remises au joueur qui les a volées n'est pas contraire aux règles, puisque les cartes sont déjà visibles pour tous, mais dans certains groupes de tels commentaires peuvent être légèrement découragés car ils pourraient alerter des joueurs inattentifs qui seraient autrement restés indifférents.
 
-The draw pile must be kept neatly stacked at all times. During the game players are not allowed to fan out the cards in the stock so as to count how many remain to be drawn.
+La pioche doit toujours être soigneusement empilée. Pendant la partie, les joueurs ne sont pas autorisés à éventailer les cartes de la pioche pour compter combien il en reste à piocher.
 
-***Note****. The rule that a player with 3 or 4 equal cards or special cards should throw the hand in and have the cards redealt is not strictly enforceable. A player with such a hand could keep quiet and play it as dealt. Because new cards are drawn each time a card is played, it could not be proved that the hand should have been cancelled. However it is obviously a disadvantage to begin the game holding 3 or 4 equal ranked cards since this severely reduces the player's options to capture cards, so a player with this hand will be happy to throw it in. Experience shows that holding 3 or 4 special cards at the start is also a liability, but in practice a player with such a hand could keep it and play it if they wished to.*
+***Note**. La règle selon laquelle un joueur ayant 3 ou 4 cartes égales ou cartes spéciales doit annuler la donne et faire redistribuer les cartes n'est pas strictement applicable. Un joueur avec une telle main pourrait se taire et la jouer telle qu'elle a été distribuée. Comme de nouvelles cartes sont piochées à chaque carte jouée, il ne pourrait être prouvé que la donne aurait dû être annulée. Cependant, il est évidemment désavantageux de commencer la partie en tenant 3 ou 4 cartes de même rang, car cela réduit sévèrement les options du joueur pour capturer des cartes, de sorte qu'un joueur dans cette situation sera heureux d'annuler la donne. L'expérience montre que détenir 3 ou 4 cartes spéciales au départ est aussi un désavantage, mais en pratique un joueur avec une telle main pourrait la conserver et la jouer s'il le souhaite.*
 
-## Variations
+## Variantes
 
-Ali Hassan reports that his uncle, along with the rest of his generation, played Shlla'at in their youth after having learned it from the previous generation. He said they used to play it in a group of 4 or 5 players and with two standard decks without the Jokers. The card values remain the same, so there are 304 points in the pack. 
-
-Home Page > Classified Index > Fishing Games > Shla'at
+Ali Hassan rapporte que son oncle, ainsi que le reste de sa génération, jouait à Shlla'at dans leur jeunesse après l'avoir appris de la génération précédente. Il dit qu'ils y jouaient en groupe de 4 ou 5 joueurs et avec deux jeux standards sans les jokers. Les valeurs des cartes restent les mêmes, soit 304 points dans le jeu.

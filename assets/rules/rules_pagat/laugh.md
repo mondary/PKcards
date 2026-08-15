@@ -2,14 +2,12 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** How to play the 16th-17th century English five-player card game Laugh and Lie Down: links to reconstructions by David Parlett and the Period Games site.
+**But :** Comment jouer à Laugh and Lie Down, un jeu de cartes anglais des XVIe et XVIIe siècles pour cinq joueurs : liens vers les reconstitutions de David Parlett et du site Period Games.
 
 ---
 
-A rather unusual fishing game for five players, played in England in the 16th and 17th centuries.
+Un jeu de pêche assez inhabituel pour cinq joueurs, pratiqué en Angleterre aux XVIe et XVIIe siècles.
 
-A reconstruction can be found on David Parlett's [Laugh and Lie Down page](https://www.parlettgames.uk/histocs/laughand.html). This also includes Willughby's version for four players, and David Parlett's suggested adaptations for three or six.
+Une reconstitution est disponible sur la page [Laugh and Lie Down](https://www.parlettgames.uk/histocs/laughand.html) de David Parlett. Elle inclut également la version de Willughby pour quatre joueurs, ainsi que les adaptations suggérées par David Parlett pour trois ou six joueurs.
 
-Another reconstruction is available on the [Laugh and Lie Down](https://jducoeur.com/game-hist/game-recon-laugh.html) page of the [Period Games](https://www.querki.net/u/jducoeur/period-games/period-games) site. 
-
-Home Page > Classified Index > Fishing Games > Laugh and Lie Down
+Une autre reconstitution est disponible sur la page [Laugh and Lie Down](https://jducoeur.com/game-hist/game-recon-laugh.html) du site [Period Games](https://www.querki.net/u/jducoeur/period-games/period-games).

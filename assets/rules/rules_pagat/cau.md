@@ -2,106 +2,104 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A children's fishing game from Catalonia.
+**But :** Jeu de pêche pour enfants originaire de Catalogne.
 
 ---
 
-This page is based on a contribution from Enric Capo
+Cette page est basée sur une contribution d'Enric Capo.
 
-## Contents
+## Sommaire
 
 - Introduction
 
-- The deck
+- Le jeu de cartes
 
 ## Introduction
 
-Cau robat is played in [Catalonia](https://www.gencat.cat/), the north east part of Spain. It is an unusual children's fishing game, somewhat similar to Ronda although with less scope for skill. The game has been included because of the unusual features of the Cau calls and the capture of sequences. Unfortunately the game mechanism is rather cumbersome, especially the payment in cards for caus and cleaning the table; because of this I cannot really recommend it is a game worth playing.
+Le *cau robat* se joue en [Catalogne](https://www.gencat.cat/), dans le nord-est de l'Espagne. C'est un jeu de pêche pour enfants inhabituel, un peu semblable à la *Ronda* bien qu'avec moins de place pour l'habileté. Le jeu a été inclus en raison des particularités des annonces de *cau* et de la capture de séquences. Malheureusement, le mécanisme du jeu est assez laborieux, notamment le paiement en cartes pour les *caus* et le nettoyage de la table ; c'est pourquoi je ne peux vraiment pas le recommander comme un jeu valant la peine d'être joué.
 
-## The Deck
+## Le jeu de cartes
 
-Cau is played with a standard Spanish 40 card deck of four suits: 
+Le *cau* se joue avec un jeu espagnol standard de 40 cartes à quatre couleurs :
 
-*oros* (coins)
+*oros* (pièces)
 
-*copes* (cups)
+*copes* (coupes)
 
-*espases* (swords)
+*espases* (épées)
 
-*bastons* (batons)
+*bastons* (bâtons)
 
-- the cards in each suit running from 1 to 7 and 10 to 12, with the 10 called *Sota* (Valet), the 11 *Cavall* (Horse) and the 12 *Rei* (King).
+- les cartes de chaque couleur allant de 1 à 7 et de 10 à 12, le 10 appelé *Sota* (Valet), le 11 *Cavall* (Cavalier) et le 12 *Rei* (Roi).
 
-Only the rank of the cards is important in the game. When making a sequence, the 10 follows the 7 and the 1 follows the 12, so that (for example) 5-6-7-10-11 and 11-12-1-2-3 are valid sequences.
+Seul le rang des cartes compte dans ce jeu. Lors de la constitution d'une séquence, le 10 suit le 7 et le 1 suit le 12, de sorte que (par exemple) 5-6-7-10-11 et 11-12-1-2-3 sont des séquences valides.
 
-Any number of players can play, although the usual number is from 3 to 5.
+N'importe quel nombre de joueurs peut jouer, bien que le nombre habituel soit de 3 à 5.
 
-## The deal
+## La distribution
 
-The deal and play are anticlockwise. The dealer puts four cards (or five cards if there are five players) face up on the table. If two or more of these cards have the same rank (for example two sixes) just one card of that rank is left face up on the table; any others are shuffled back into the deck and replacement cards dealt until the face-up cards are all different in rank. All of the remaining cards are dealt out to the players three at a time (if there are five players deal two rounds three at a time and then a final round of single cards).
+La distribution et le jeu se font dans le sens antihoraire. Le donneur pose quatre cartes (ou cinq cartes s'il y a cinq joueurs) face visible sur la table. Si deux ou plusieurs de ces cartes ont le même rang (par exemple deux six), une seule carte de ce rang est laissée face visible sur la table ; les autres sont remélangées dans le jeu et de nouvelles cartes sont distribuées jusqu'à ce que les cartes face visible soient toutes de rangs différents. Toutes les cartes restantes sont distribuées aux joueurs par trois à la fois (s'il y a cinq joueurs, deux tours de trois cartes puis un dernier tour de cartes individuelles).
 
-The aim of the game is to take more cards than your opponents.
+Le but du jeu est de prendre plus de cartes que vos adversaires.
 
-## Playing
+## Déroulement
 
-The player to the right of the dealer begins, and the turn to play passes around the table anticlockwise. In your turn of play, you place one of the cards from your hand face up in the centre of the table; this may capture one or more cards from table or from the other players. Players keep the cards they have won stacked face up in front of them in a single pile.
+Le joueur situé à la droite du donneur commence, et le tour de jouer passe dans le sens antihoraire. À votre tour, vous posez une carte de votre main face visible au centre de la table ; celle-ci peut capturer une ou plusieurs cartes sur la table ou chez les autres joueurs. Les joueurs conservent les cartes qu'ils ont gagnées en une pile face visible devant eux.
 
-If the card you play is the same rank as a card on the table, you capture it and place both cards face up in front of you. 
+Si la carte que vous jouez est du même rang qu'une carte sur la table, vous la capturez et placez les deux cartes face visible devant vous.
 
-If there is on the table an unbroken ascending sequence of cards beginning with one equal in rank to the one you play, you can capture the whole sequence. For example if the cards on the table are **1, 2, 4, 7, 11, 12** you can play an **11** and take **11-12-1-2**, or play a **4** and take just the **4**, or play a **1** and take **1-2**.
+S'il se trouve sur la table une séquence ascendante ininterrompue commençant par une carte de même rang que celle que vous jouez, vous pouvez capturer la séquence entière. Par exemple, si les cartes sur la table sont **1, 2, 4, 7, 11, 12**, vous pouvez jouer un **11** et prendre **11-12-1-2**, ou jouer un **4** et prendre seulement le **4**, ou jouer un **1** et prendre **1-2**.
 
-The cards you take should be maintained in order and you must put them in a pile in front of you, face up, with the one you played in top. For example, if you play a **6** to take **6-7**, there will be a six showing on top of your pile, under which is another **6**, then a **7**, followed by whatever was there before. 
+Les cartes que vous prenez doivent être conservées dans l'ordre et vous devez les placer dans une pile devant vous, face visible, avec celle que vous avez jouée sur le dessus. Par exemple, si vous jouez un **6** pour prendre **6-7**, il y aura un six visible sur le dessus de votre pile, en dessous un autre **6**, puis un **7**, suivi de ce qui s'y trouvait auparavant.
 
-When you are capturing a sequence of cards from the table, if the top card of one of the other players' piles fits in the sequence, you can capture their whole pile. Suppose that the cards on the table are **1, 2, 4, 7, 11, 12**, and some player has a **3** on the top of their captured cards. You can play a **12** and take **12-1-2** from the table, the whole **3**-pile and **4** from the table. Your pile will now have a **12** on the top, then **1**, **2**, the whole **3** pile (with its order unchanged), **4** and then whatever was there before. 
+Lorsque vous capturez une séquence de cartes sur la table, si la carte supérieure de la pile d'un autre joueur s'insère dans la séquence, vous pouvez capturer sa pile entière. Supposons que les cartes sur la table soient **1, 2, 4, 7, 11, 12** et qu'un joueur ait un **3** sur le dessus de ses cartes capturées. Vous pouvez jouer un **12** et prendre **12-1-2** sur la table, toute la pile de **3** et le **4** sur la table. Votre pile aura alors un **12** sur le dessus, puis **1**, **2**, la pile entière de **3** (avec son ordre inchangé), **4**, puis ce qui s'y trouvait auparavant.
 
-If you play a card that is not equal to any card in the centre of the table, you do not capture any cards; your card remains where it is and can be captured by a later player. 
+Si vous jouez une carte qui n'est égale à aucune carte au centre de la table, vous ne capturez aucune carte ; votre carte reste là où elle est et peut être capturée par un joueur ultérieur.
 
-Note that a pile belonging to another player cannot be captured by an equal card, but only as part of a sequence. If in the above example you play a **3**, it does not capture the **3**-pile, but simply remains on the table, capturing nothing. 
+Notez qu'une pile appartenant à un autre joueur ne peut pas être capturée par une carte égale, mais uniquement dans le cadre d'une séquence. Si dans l'exemple ci-dessus vous jouez un **3**, cela ne capture pas la pile de **3**, mais reste simplement sur la table sans rien capturer.
 
-If there is a card in the centre of the table which is equal to the top card of someone's pile, a player capturing a sequence must take the centre card rather than the pile - so the centre card effectively protects the pile. For example while there is a **5** in the centre of the table, a pile with a **5** in the top can not be taken. 
+S'il y a une carte au centre de la table qui est égale à la carte supérieure de la pile de quelqu'un, un joueur capturant une séquence doit prendre la carte du centre plutôt que la pile — la carte du centre protège donc effectivement la pile. Par exemple, tant qu'il y a un **5** au centre de la table, une pile avec un **5** sur le dessus ne peut pas être prise.
 
 ### Cau, Recau, Contracau
 
-If the player immediately before you plays a card that makes no capture, and you play a card that matches that card, you say **"cau"** (pronounced "cow"), and the previous player has to pay you a penalty. If the next player after you also has a matching card, that player can play it saying **"recau"** and capture all three cards, unless the player after that has the fourth matching card, plays it saying **"contracau"** and captures all four equal cards.
+Si le joueur précédent joue une carte qui ne capture rien, et que vous jouez une carte correspondante, vous dites **« cau »** (prononcé « caou »), et le joueur précédent doit vous payer une pénalité. Si le joueur suivant possède également une carte correspondante, il peut la jouer en disant **« recau »** et capturer les trois cartes, à moins que le joueur d'après n'ait la quatrième carte correspondante, la joue en disant **« contracau »** et capture les quatre cartes égales.
 
-The card you capture with **cau**, **recau** or **contracau** can also be the start of a sequence. For example suppose that the cards on the table are **5, 6, 12** and the player before you plays a **4**, capturing nothing. If you also have a 4 you can now play it, saying **cau**. You must now wait to hear whether the player after you says **recau**. If there is no **recau**, you can take the **4-5-6** with your **4**; if the next player does say **recau**, playing a **4**, that player can take the three fours, five and six, provided there is no **contracau**.
+La carte que vous capturez avec un **cau**, **recau** ou **contracau** peut aussi être le début d'une séquence. Par exemple, supposons que les cartes sur la table soient **5, 6, 12** et que le joueur précédent joue un **4** sans rien capturer. Si vous avez aussi un 4, vous pouvez le jouer maintenant en disant **cau**. Vous devez alors attendre de voir si le joueur suivant dit **recau**. S'il n'y a pas de **recau**, vous pouvez prendre **4-5-6** avec votre **4** ; si le joueur suivant dit **recau** en jouant un **4**, ce joueur peut prendre les trois quatre, cinq et six, à condition qu'il n'y ait pas de **contracau**.
 
-Note that a **cau** only takes place when a card played to the table is immediately matched by the very next player. If that player does not match the card, the opportunity for a **cau** is lost; capturing that card later in the game will no longer count as a **cau**. 
+Notez qu'un **cau** n'a lieu que lorsqu'une carte jouée sur la table est immédiatement égalée par le joueur suivant. Si ce joueur n'égale pas la carte, l'opportunité du **cau** est perdue ; capturer cette carte plus tard dans le jeu ne comptera plus comme un **cau**.
 
-Note also that to claim a **cau** you must capture the previously played card by equalling it. Capturing it as part of a sequence is not a cau. For example suppose that 3 and a 5 are on the table and the player before you plays a 6, capturing nothing. If you now play a **5**, capturing the **5** and the **6**, this is not a **cau**.
+Notez également que pour revendiquer un **cau** vous devez capturer la carte précédemment jouée en l'égalant. La capturer dans le cadre d'une séquence ne constitue pas un cau. Par exemple, supposons qu'un 3 et un 5 soient sur la table et que le joueur précédent joue un 6 sans rien capturer. Si vous jouez maintenant un **5** en capturant le **5** et le **6**, ce n'est pas un **cau**.
 
-The payment for a **cau** is **one card**. That is, one card is moved from the top of the pile of the first player (whose card was captured) to the top of the pile of the second player (who matched it). This payment is made after the capture, so the card given in payment will be placed on top of the capturing card, which is on top of the captured cards. 
+Le paiement pour un **cau** est **une carte**. Autrement dit, une carte est déplacée du sommet de la pile du premier joueur (dont la carte a été capturée) vers le sommet de la pile du deuxième joueur (qui l'a égalée). Ce paiement est effectué après la capture, de sorte que la carte donnée en paiement sera placée sur la carte de capture, qui est elle-même sur les cartes capturées.
 
-The additonal payment for a **recau** is **two cards** from the first player and **one card** from the player who said **cau**. If **A** plays a card without capturing, B says **cau** and matches it and C says **recau** and matches it again, but there is no contracau, then the payments are made in the following order: **B** pays one card to **C**; **A** pays one card to **B**; **A** pays two cards to **C**.
+Le paiement supplémentaire pour un **recau** est de **deux cartes** du premier joueur et **une carte** du joueur qui a dit **cau**. Si **A** joue une carte sans capturer, B dit **cau** et l'égale, et C dit **recau** et l'égale à nouveau, sans qu'il y ait de contracau, les paiements s'effectuent dans l'ordre suivant : **B** paie une carte à **C** ; **A** paie une carte à **B** ; **A** paie deux cartes à **C**.
 
-If the following player (**D**) says **contracau**, the additional payment is three cards from **A**, two from **B** and one from **C**. The order of payments is: **C** pays one card to **D**; **B** pays one to **C** and two to **D**. **A** pays one to **B**, two to **C** and three to **D**.
+Si le joueur suivant (**D**) dit **contracau**, le paiement supplémentaire est de trois cartes de **A**, deux de **B** et une de **C**. L'ordre des paiements est : **C** paie une carte à **D** ; **B** paie une à **C** et deux à **D**. **A** paie une à **B**, deux à **C** et trois à **D**.
 
-When paying two or three cards to another player, they are transferred from pile to pile without disturbing the order, so that the top card remains on top.
+Lorsqu'on paie deux ou trois cartes à un autre joueur, elles sont transférées de pile à pile sans modifier l'ordre, de sorte que la carte supérieure reste sur le dessus.
 
-### Cleaning the Table
+### Nettoyer la table
 
-If your play captures all the cards on the table, each player pays you one card. This is done in order of play, starting with the player to your right; after you have taken your captured cards, each player in turn transfers the top card from their pile to your pile. 
+Si votre jeu capture toutes les cartes sur la table, chaque joueur vous paie une carte. Cela se fait dans l'ordre de jeu, en commençant par le joueur à votre droite ; après avoir pris vos cartes capturées, chaque joueur à son tour transfère la carte supérieure de sa pile vers votre pile.
 
-If you clean the table with a **cau** (or **recau** or **contracau**) the payments for **cau**, etc. take place before the payments for cleaning the table.
+Si vous nettoyez la table avec un **cau** (ou **recau** ou **contracau**), les paiements pour le **cau**, etc. ont lieu avant les paiements pour le nettoyage de la table.
 
-In the event that you have to pay a penalty but your pile of captured cards is empty, you owe the penalty and should pay it as soon as you capture some cards.
+Dans le cas où vous devez payer une pénalité mais que votre pile de cartes capturées est vide, vous devez la pénalité et la payer dès que vous capturez des cartes.
 
-## The score
+## Le score
 
-When everyone has played all the cards from their hands, each player counts the number of cards in the pile in front of them. The player with most cards wins the hand, and the first player who wins an agreed number of hands wins the game.
+Lorsque tous les joueurs ont joué toutes les cartes de leur main, chaque joueur compte le nombre de cartes dans sa pile. Le joueur ayant le plus de cartes gagne la manche, et le premier joueur à gagner un nombre convenu de manches gagne la partie.
 
-## Variants
+## Variantes
 
-An alternative method of scoring is that each player gets one point for every 10 cards taken (i.e. no points for nine cards or fewer, one point for 10-19 cards, two points for 20-29 cards, etc.) When someone has 21 or more points at the end of a hand the player with most points is the winner.
+Une méthode de décompte alternative consiste à donner un point à chaque joueur pour chaque tranche de 10 cartes capturées (c'est-à-dire aucun point pour neuf cartes ou moins, un point pour 10 à 19 cartes, deux points pour 20 à 29 cartes, etc.). Lorsqu'un joueur atteint 21 points ou plus à la fin d'une manche, le joueur ayant le plus de points est le gagnant.
 
-The following two variants simplify the game somewhat: 
+Les deux variantes suivantes simplifient quelque peu le jeu :
 
-- some play that a **cau**, **recau** or **contracau** does not allow you to begin a sequence - you can only capture the equal card(s).
+- certains jouent qu'un **cau**, **recau** ou **contracau** ne permet pas de commencer une séquence — on ne peut capturer que la ou les cartes égales.
 
-- some play that in case of a **recau** or **contracau**, the payment (of two and three cards respectively) is only paid from the first player to the last one; the player(s) in between do not give or receive any cards.
+- certains jouent qu'en cas de **recau** ou **contracau**, le paiement (de deux et trois cartes respectivement) n'est effectué que par le premier joueur vers le dernier ; les joueurs intermédiaires ne donnent ni ne reçoivent de cartes.
 
-For an easier game you deal just three cards, play them, deal again, play them and so on until all cards are used, in the same way you do in Scopa.
+Pour un jeu plus simple, on distribue seulement trois cartes, on les joue, on redistribue, on les joue et ainsi de suite jusqu'à épuisement des cartes, de la même manière qu'à la *Scopa*.
 
-For an even easier game, players keep their captured cards face down, and these piles cannot be captured. As cau robat means "stolen" cau, this variant without stealing is simply known as **cau**.
-
-Home Page > Classified Index > Fishing Games > Cau Robat
+Pour un jeu encore plus simple, les joueurs conservent leurs cartes capturées face cachée, et ces piles ne peuvent pas être capturées. Comme *cau robat* signifie *cau* « volé », cette variante sans vol est simplement appelée **cau**.
