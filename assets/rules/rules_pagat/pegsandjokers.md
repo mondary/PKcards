@@ -2,259 +2,255 @@
 
 **Difficulté :** ⭐⭐
 **Type :** Divers, Divers
-**But :** An American game in which playing-cards are used to control the movement of pegs or marbles around a special board.
+**But :** Un jeu américain dans lequel des cartes à jouer servent à contrôler le déplacement de chevilles ou de billes autour d'un plateau spécial.
 
 ---
 
 ## Introduction
 
-Pegs and Jokers is a North American race game for four, six or eight players, using playing-cards to move pegs around a board. It is also sometimes known as Jokers and Pegs. Some board designs use marbles instead of pegs as the playing pieces in which case it may be called **Marbles and Jokers** or **Jokers and Marbles**.
+Pegs and Jokers est un jeu de course nord-américain pour quatre, six ou huit joueurs, utilisant des cartes à jouer pour déplacer des chevilles autour d'un plateau. Il est aussi parfois appelé Jokers and Pegs. Certains plateaux utilisent des billes au lieu de chevilles comme pièces de jeu, auquel cas on peut l'appeler **Marbles and Jokers** ou **Jokers and Marbles**.
 
-Pegs and Jokers is clearly derived ultimately from the Indian race game [Pachisi](https://en.wikipedia.org/wiki/Pachisi), a race game using dice for movement, probably via its American derivative [Sorry!](https://en.wikipedia.org/wiki/Sorry!_(game)), in which pawns are moved according to cards drawn from a special deck.
+Pegs and Jokers est clairement dérivé du jeu de course indien [Pachisi](https://en.wikipedia.org/wiki/Pachisi), un jeu de course utilisant des dés pour le mouvement, probablement via son dérivé américain [Sorry!](https://en.wikipedia.org/wiki/Sorry!_(game)), dans lequel des pions sont déplacés selon des cartes tirées d'un jeu spécial.
 
-Pegs and Jokers is a partnership game played with standard playing-cards on boards that are generally home-made. It allows extra scope for strategy by giving players a choice of cards to play. Each player has five pegs, and the winners are the first team to move all their pegs from their START area to their HOME areas.
+Pegs and Jokers est un jeu d'équipe joué avec des cartes à jouer standard sur des plateaux généralement fabriqués maison. Il offre une portée supplémentaire pour la stratégie en donnant aux joueurs le choix des cartes à jouer. Chaque joueur a cinq chevilles, et les gagnants sont la première équipe à déplacer toutes leurs chevilles de leur zone DÉPART vers leurs zones ARRIVÉE.
 
-This page is mainly based on information from Bill and Barb Bigger and from John and Linda Bristol.
+Cette page est principalement basée sur des informations de Bill et Barb Bigger et de John et Linda Bristol.
 
-## Players and Equipment
+## Joueurs et matériel
 
-The players are divided into two teams - two against two, three against three or four against four. They sit alternately - each player seated between two opponents. At is also possible for 6 players to play as 3 teams of 2 or 8 players as 4 teams of 2, in which case partners sit opposite each other.
+Les joueurs sont divisés en deux équipes — deux contre deux, trois contre trois ou quatre contre quatre. Ils s'assoient alternativement — chaque joueur assis entre deux adversaires. Il est aussi possible pour 6 joueurs de jouer en 3 équipes de 2 ou 8 joueurs en 4 équipes de 2, auquel cas les partenaires s'assoient en face l'un de l'autre.
 
-Standard decks of cards are used, with two jokers in each deck. Three decks (162 cards including 6 jokers) may be enough for up to six players: eight players should use four decks (216 cards including 8 jokers).
+Des jeux de cartes standard sont utilisés, avec deux jokers dans chaque jeu. Trois jeux (162 cartes dont 6 jokers) peuvent suffire pour jusqu'à six joueurs ; huit joueurs doivent utiliser quatre jeux (216 cartes dont 8 jokers).
 
-Four players use a four-sided board; six players use a six-sided board; eight players use an eight-sided board - one side for each player, each associated with a different color. Each player has five pegs in the color that corresponds to the side of the board nearest to them. Each side of the board has a straight section of track 18 units long: there is a corner hole at each end, shared between two adjacent sides, and 17 holes between them. The 8th hole after the corner is the "come out" position for the pegs on that side, and next to it is the colored "start" area with five holes where the pegs of that color are stored at the start of the game. The 3rd hole after the corner is the "in-spot" for that color, and branching off at the "in-spot" is a colored private track of 5 holes, which is the "home" or "safe" area or "castle", where the pegs end their journey. The diagram below shows one side of the board.
+Quatre joueurs utilisent un plateau à quatre côtés ; six joueurs un plateau à six côtés ; huit joueurs un plateau à huit côtés — un côté par joueur, chacun associé à une couleur différente. Chaque joueur a cinq chevilles de la couleur correspondant au côté du plateau le plus proche. Chaque côté du plateau comporte une section droite de piste de 18 unités de long : il y a un trou de coin à chaque extrémité, partagé entre deux côtés adjacents, et 17 trous entre eux. Le 8e trou après le coin est la position de « sortie » pour les chevilles de ce côté, et à côté se trouve la zone colorée de « départ » avec cinq trous où les chevilles de cette couleur sont stockées en début de partie. Le 3e trou après le coin est le « point d'entrée » pour cette couleur, et partant du point d'entrée se trouve une piste privée colorée de 5 trous, qui est la zone « arrivée » ou « refuge » ou « château », où les chevilles terminent leur parcours. Le diagramme ci-dessous montre un côté du plateau.
 
-![One side of a Pegs and Jokers board](../images/misc/pegside.gif)
+![Un côté d'un plateau de Pegs and Jokers](../images/misc/pegside.gif)
 
-Here are four examples of boards:
+Voici quatre exemples de plateaux :
 
-![woodimage board](../images/race/8pcMarblesJokers.jpg)
+![plateau woodimage](../images/race/8pcMarblesJokers.jpg)
 
-Marbles and jokers board by Wizard Woodworks.
-The black
-and white board sections can be used to expand to 8 players.
+Plateau billes et jokers de Wizard Woodworks. Les sections de plateau noires
+et blanches peuvent être utilisées pour étendre à 8 joueurs.
 
-![woodimage board](../images/misc/woodimage.jpg)
+![plateau woodimage](../images/misc/woodimage.jpg)
 
-Board made by Lonnie Beagles in sections that fit
+Plateau fabriqué par Lonnie Beagles en sections qui s'assemblent
+pour accommoder n'importe quel nombre de joueurs.
 
-together to accommodate any number of players.
+![Plateau Pegs and Jokers de Three Trees](../images/race/threetrees.jpg)
 
-![Three Trees Pegs and Jokers board](../images/race/threetrees.jpg)
+Plateau Pegs and Jokers de l'atelier Three Trees, avec
+sections emboîtables faites de quatre bois feuillus différents.
 
-Pegs and Jokers board from the Three Trees workshop, with
-interlocking sections made from four different hardwoods.
+![plateau biggers](../images/misc/biggersboard.jpg)
 
-![biggersboard](../images/misc/biggersboard.jpg)
+Plateau fabriqué par Bill Bigger suivant un dessin de Dave Vowells.
+Il comporte des pistes pour 4, 6 ou 8 joueurs sur un seul plateau : 8 joueurs utilisent
+la piste extérieure, 6 la piste du milieu et 4 la piste intérieure.
 
-Board made by Bill Bigger following a design by Dave Vowells.
-It has tracks for 4, 6 or 8 players on a single board: 8 players use
-the outer track, 6 use the middle track and 4 the inner track.
+Les plateaux Pegs and Jokers sont disponibles chez [Don Strenz Woodworking](https://www.donstrenzwoodworking.com) à Rochester, NY.
 
-Pegs and Jokers boards are available from [Don Strenz Woodworking](https://www.donstrenzwoodworking.com) in Rochester, NY.
+Nathan et Cynthia Epp de [Three Trees Workshop](https://www.threetreesworkshop.com/shop/pegs-jokers) à Warrensburg, MO fournissent des plateaux Pegs and Jokers de qualité en sections pour 4, 6 ou 8 joueurs. Ils possèdent aussi désormais [Wizard Woodworks](https://wizardwoodworks.com/), vendant des plateaux pour les versions à 6 ou 8 joueurs de [Pegs and Jokers](https://wizardwoodworks.com/pegs-jokers-8-player-fiesta-set/) et [Marbles and Jokers](https://wizardwoodworks.com/marbles-jokers-8-player-mardi-gras-board-game/).
 
-Nathan and Cynthia Epp of [Three Trees Workshop](https://www.threetreesworkshop.com/shop/pegs-jokers) in Warrensburg, MO supply fine quality Pegs and Jokers boards in sections for 4, 6 or 8 players. They also now own [Wizard Woodworks](https://wizardwoodworks.com/), selling boards for 6 or 8 player versions of [Pegs and Jokers](https://wizardwoodworks.com/pegs-jokers-8-player-fiesta-set/) and [Marbles and Jokers](https://wizardwoodworks.com/marbles-jokers-8-player-mardi-gras-board-game/).
+Certains utilisent des tees de golf colorés comme chevilles pour ce jeu. D'autres utilisent les petites ampoules en plastique coloré qui s'insèrent dans les sapins de Noël en céramique.
 
-Some people use colored golf tees as the pegs for this game. Others use the small colored plastic bulbs that fit into ceramic christmas trees.
+## Jeu de base
 
-## Basic Game
+### Distribution et jeu des cartes
 
-### Deal and play of cards
+Cinq cartes sont distribuées à chaque joueur, et les cartes restantes sont empilées face en bas. Comme d'habitude, les joueurs tiennent leurs cartes de manière à voir leurs faces sans que personne d'autre ne puisse les voir. Les cartes jouées forment un tas face visible sur la table. Les joueurs jouent à tour de rôle dans le sens horaire. À votre tour, vous faites ce qui suit :
 
-Five cards are dealt to each player, and the remaining cards are stacked face down. As usual players hold their cards so that they can see their faces but no one else can. Played cards form a face up pile on the table. Players take turns in clockwise order. At your turn you do the following:
+- Piochez une carte du dessus du tas face en bas, de manière à avoir six cartes.
 
-- Draw one card from the top of the face-down deck, so that you hold six cards.
+- Jouez une carte de votre choix de votre main face visible sur votre tas de défausse.
 
-- Play one card of your choice from your hand face up onto your discard pile.
+- Déplacez-vous selon la puissance de la carte jouée.
 
-- Move according to the power of the played card.
+Si vous avez une carte (sauf un joker) qui vous permet de déplacer une cheville, vous devez jouer une telle carte, même si le mouvement est désavantageux. Cependant, si vous n'avez pas de cartes (sauf des jokers) vous permettant de déplacer, vous pouvez défausser une carte de votre choix sans bouger et piocher une carte pour la remplacer. Cela termine votre tour. Défausser sans bouger ne se produit normalement qu'en début de partie, lorsqu'un joueur n'a pas d'as ou de figures pour sortir une cheville de la zone de départ.
 
-If you have any card (except a joker) that allows you to move a peg, you must play such a card, even if the move is disadvantageous. However, if you have no cards (except jokers) that enable you to move you may discard one card of your choice without moving and draw a card to replace it. This ends your turn. Discarding without moving normally happens only at the start of the game, when a player has no aces or pictures to move any peg out of the start area.
+Un joueur n'est jamais obligé de jouer un joker : si vous n'avez pas d'autre mouvement, vous pouvez garder le joker et défausser une autre carte.
 
-A player is never forced to play a joker: if you have no other move you may keep the joker and discard another card.
+### Déplacement des chevilles — règles générales
 
-### Movement of pegs - general rules
+Toutes les chevilles commencent dans leur propre zone de départ. De là, elles se déplacent vers le trou de « sortie » voisin, puis autour du plateau dans le sens horaire. En arrivant à son propre « point d'entrée », une cheville peut emprunter la branche vers sa piste d'« arrivée » refuge. Aucune cheville ne peut jamais entrer dans une zone de départ ou d'arrivée autre que la sienne.
 
-All the pegs begin in their own start areas. From there they move to the neighbouring "come out" hole, and then around the board clockwise. On reaching its own "in-spot" a peg may take the branch into its safe "home" track. No peg may ever move into any start or home area other than its own.
+Dans le jeu de base, sauf dans les circonstances spéciales décrites ci-dessous, vous ne pouvez déplacer que vos propres chevilles.
 
-In the basic game, except in special circumstances described below, you may only move your own pegs.
+Vous ne pouvez jamais atterrir sur ou passer au-dessus d'un trou occupé par l'une de vos propres chevilles, mais vous pouvez passer au-dessus ou atterrir sur les chevilles d'autres joueurs. Passer au-dessus d'une cheville d'une couleur différente n'a aucun effet sur elle, mais atterrir exactement dans le trou occupé par une cheville d'une couleur différente a les résultats suivants :
 
-You may never land on or pass over a hole occupied by one of your own pegs, but you may pass over or land on other player's pegs. Passing over a peg of a different color has no effect on it, but landing exactly in the hole occupied by a peg of a different color has the following results:
+- Quand une cheville atterrit sur la cheville d'un adversaire, la cheville de l'adversaire est immédiatement renvoyée dans sa zone de départ.
 
-- When a peg lands on an opponent's peg, the opponent's peg is immediately moved back to its start area.
+- Quand une cheville atterrit sur la cheville d'un partenaire, la cheville du partenaire est immédiatement déplacée vers son « point d'entrée », à condition que le partenaire n'y ait pas déjà une cheville. Il est interdit d'atterrir sur la cheville de votre partenaire si ce partenaire a déjà une cheville sur son propre point d'entrée.
 
-- When a peg lands on a partner's peg, the partner's peg is immediately moved to its "in-spot", provided the partner does not already have a peg there. It is illegal to land on your partner's peg if that partner already has a peg on his or her own in-spot.
+### Déplacement des chevilles — effets des cartes individuelles
 
-### Movement of pegs - effects of individual cards
+Pour sortir une cheville de votre zone de départ, vous devez jouer un valet, une dame, un roi, un as (pour la déplacer vers son trou de « sortie ») ou un joker (pour la déplacer vers le trou occupé par une cheville d'une couleur différente n'importe où sur la piste principale).
 
-In order to move your peg out of your start area, you must play a jack, queen, king, ace (to move it to its "come out" hole) or a joker (to move it to the hole occupied by a peg of a different color anywhere on the main track).
+En jouant un 2, 3, 4, 5, 6, 9 ou 10, vous déplacez l'une de vos chevilles qui n'est pas dans votre zone de départ en avant de ce nombre de trous le long de la piste.
 
-When playing a 2, 3, 4, 5, 6, 9 or 10, you move one of your own pegs that is not in your start area forward that number of holes along the track.
+En jouant un as, vous pouvez soit déplacer l'une de vos chevilles de votre zone de départ vers votre trou de « sortie », soit déplacer l'une de vos chevilles en avant d'un trou.
 
-When playing an ace, you may either move one of your pegs from your start area to your "come out" hole, or move one of your pegs forward one hole.
+En jouant un valet, une dame ou un roi, vous pouvez soit déplacer l'une de vos chevilles de votre zone de départ vers votre trou de « sortie », soit déplacer l'une de vos chevilles en avant de 10 trous.
 
-When playing a jack, queen or king you may either move one of your pegs from your start area to your "come out" hole, or move one of your pegs forward 10 holes.
+En jouant un 8, vous devez déplacer l'une de vos chevilles en arrière de 8 trous.
 
-When playing an 8, you must move one of your pegs backwards 8 holes.
+En jouant un 7, vous pouvez soit déplacer l'une de vos chevilles en avant de 7 trous, soit diviser le 7 entre deux de vos chevilles, les déplaçant de 1 et 6, 2 et 5 ou 3 et 4 trous en avant. Bien sûr, le mouvement divisé ne peut être fait que si vous avez au moins deux chevilles en jeu.
 
-When playing a 7, you may either move one of your pegs forward 7 holes, or split the 7 between two of your pegs, moving them 1 and 6, 2 and 5 or 3 and 4 holes forwards. Of course the split move can only be made if you have at least two pegs in play.
+Quand vous jouez un joker, vous déplacez l'une quelconque de vos chevilles (par exemple une dans la zone de départ) vers un trou de la piste principale occupé par la cheville d'un autre joueur, appartenant soit à un partenaire soit à un adversaire. Cela a pour effet d'envoyer cette cheville à son point d'entrée ou à sa zone de départ respectivement, comme décrit ci-dessus. Un joker ne peut pas être utilisé pour se déplacer vers un trou vide, donc s'il n'y a aucune cheville d'aucune couleur sur la piste principale, un joker ne peut pas être joué.
 
-When you play a joker, you move any one of your pegs (for example one in the start area) into a hole on the main track that is occupied by another player's peg, belonging either to a partner or to an opponent. This has the effect of sending that peg to its in-spot or start area respectively, as described above. A joker cannot be used to move to an empty hole, so if there are no pegs of any color on the main track a joker cannot be played.
+Vous devez toujours utiliser la pleine valeur de la carte jouée. Par exemple, en jouant un 6, vous devez déplacer une cheville en avant de 6 trous, pas moins. Si vous jouez un 6 alors que vous avez une cheville sur votre point d'entrée et toutes vos autres chevilles dans la zone de départ, vous devez déplacer votre cheville le long de la piste principale, car il n'y a pas assez de place dans la piste d'arrivée pour un mouvement de 6.
 
-You must always use the full value of the card played. For example when playing a 6 you must move a peg forward 6 holes, no less. If you play a 6 when you have a peg on your in-spot and all your other pegs in the start area, you must move your peg on along the main track, since there is not room in the home track for a move of 6.
+### Fin de partie
 
-### Endgame
+Pour qu'une équipe gagne, toutes ses chevilles doivent être dans leurs zones d'arrivée respectives. Les chevilles se déplacent le long des pistes d'arrivée de la manière habituelle. Comme elles ne peuvent pas atterrir sur ou passer au-dessus les unes des autres, la première cheville arrivée doit éventuellement être déplacée jusqu'au bout de la piste d'arrivée pour laisser de la place aux autres, la deuxième à l'espace suivant, etc.
 
-For a team to win the game, all its pegs must be in their respective home areas. Pegs move along the home tracks in the usual way. Since they cannot land on or pass over each other, the first peg to arrive must eventually be moved all the way to the end of the home track to leave room for the others, the second to the next space behind it and so on.
+« Reculer » dans la piste d'arrivée n'est pas autorisé. Autrement dit, les chevilles ne peuvent pas tourner dans leur piste d'arrivée en se déplaçant en arrière. De même, les chevilles déjà dans leurs zones d'arrivée ne sont pas autorisées à reculer.
 
-"Backing in" to the home track is not allowed. In other words, pegs cannot turn into their home track while moving backwards. Also, pegs that are already in their home areas are not allowed to move backwards.
+Cependant, il est autorisé d'utiliser un mouvement arrière sur la piste principale comme moyen d'aller du départ à l'arrivée. Par exemple : vous pouvez utiliser une figure pour passer du départ à la « sortie » ; utiliser un 8 pour reculer de 8 cases jusqu'au coin (PAS dans la piste d'arrivée) ; utiliser un 4, 5, 6 ou 7 pour avancer dans votre piste d'arrivée.
 
-However, it is legal to use a backward move on the main track as a means to get from start to home. For example: you could use a picture to move from the start area to "come-out"; use an 8 to move back 8 spaces to the corner (NOT into the home track); use a 4, 5, 6 or 7 to move forward into your home track.
+Quand, et seulement quand, vos cinq chevilles sont dans la position d'arrivée (refuge), occupant les cinq trous de votre piste d'arrivée, vous utilisez votre tour pour déplacer les chevilles de votre partenaire de gauche, si ce joueur a encore des chevilles jouables. Si les chevilles du partenaire de gauche sont aussi toutes arrivées, vous déplacez les chevilles du partenaire suivant autour de la table qui a encore des chevilles jouables.
 
-When, and only when, all five of your pegs are in the home (safe) position, occupying the five holes of your home track, you use your turn to move the pegs of your left-hand partner, if that player still has playable pegs. If left partner's pegs are also all home, you move the pegs of the next partner around the table who still has playable pegs.
+La première équipe qui parvient à placer toutes ses chevilles dans leurs zones d'arrivée respectives gagne la partie.
 
-The first team that manages to get all its pegs into their respective home areas wins the game.
+## Jeu avancé : Règles de l'Arizona
 
-## Advanced Game: Arizona Rules
+Cette version plus intéressante de Pegs and Jokers s'est développée en Arizona, d'où elle s'est propagée au Texas et peut-être ailleurs. Elle utilise quatre jeux complets de cartes dont 8 jokers. Les règles diffèrent du jeu de base comme suit :
 
-This more interesting version of Pegs and Jokers developed in Arizona, from where it has spread to Texas and perhaps other places. It uses four full decks of cards including 8 Jokers. The rules differ from the basic game as follows:
+- 5 cartes sont distribuées à chaque joueur comme d'habitude, mais un tour consiste d'abord à jouer une carte sur votre tas de défausse, puis à déplacer une ou plusieurs chevilles en utilisant la puissance de la carte jouée, et enfin à piocher une carte du tas face en bas pour avoir à nouveau 5 cartes. Ainsi, pour chaque tour, vous avez 5 cartes parmi lesquelles choisir au lieu de 6.
 
-- 5 cards are dealt to each player as usual, but a turn consists of first playing a card to your discard pile, then moving a peg or pegs using the power of the played card, and finally drawing a card from the face down deck so that you have 5 cards again. So for each turn you have 5 cards to choose from rather than 6.
+- Pendant toute la partie, vous pouvez déplacer n'importe quelle cheville appartenant à votre équipe (donc par exemple n'importe laquelle des 20 chevilles dans le jeu à 8 joueurs avec 4 par équipe). Par conséquent, vous ne pouvez défausser sans bouger que si vous êtes incapable de jouer une carte (autre qu'un joker) qui déplace l'une des chevilles de votre équipe.
 
-- Throughout the game, you may move any of the pegs belonging to your team (so for example any of 20 pegs in the 8-player game with 4 on each team). Therefore you may discard without moving only if you are unable to play a card (other than a joker) that moves any of your team's pegs.
+- Une cheville ne peut pas atterrir sur ou passer au-dessus d'une autre cheville de la même couleur.
 
-- A peg cannot land on or pass over another peg of the same color.
+- En jouant un 9, vous pouvez soit déplacer une cheville en avant de 9 trous, soit diviser le 9 entre deux chevilles différentes de votre équipe, en déplaçant une en avant et l'autre en arrière — par exemple en déplaçant une cheville de 3 trous en avant et une autre de 6 trous en arrière.
 
-- When playing a 9 you may either move one peg forward 9 holes, or split the 9 between two different pegs belonging to your team, moving one forward and the other backward - for example moving one peg 3 holes forward and another 6 holes backward.
+- En utilisant un 7 ou un 9 pour un mouvement divisé, vous pouvez déplacer deux chevilles différentes de votre équipe — de la même couleur ou de couleurs différentes.
 
-- When using a 7 or 9 for a split move, you may move any two different pegs belonging to your team - either the same color or different colors.
+- Quand vous jouez un joker, si votre équipe a des chevilles dans ses zones de départ, vous devez déplacer l'une de ces chevilles pour remplacer n'importe quelle cheville d'une couleur différente (appartenant à l'une ou l'autre équipe) sur la piste principale. Si les zones de départ de votre équipe sont toutes vides (mais seulement dans ce cas), vous pouvez déplacer l'une des chevilles de votre équipe de n'importe où sur la piste principale pour déplacer n'importe quelle cheville d'une couleur différente sur la piste principale.
 
-- When you play a joker, if your team has any pegs in their start areas, you must move one of these pegs to replace any peg of a different color (belonging to either team) that is on the main track. If your team's start areas are all empty (but only in that case), you can move one of your team's pegs from anywhere on the main track to displace any peg of a different color on the main track.
+Voici un bref résumé des règles de l'Arizona sous forme de PDF imprimable. Les nouveaux joueurs peuvent trouver utile de s'y référer pendant leurs premières parties. Brad Clark a fourni une traduction espagnole de cette fiche récapitulative.
 
-Here is a brief summary of the Arizona Rules in the form of printable PDF. New players may find it useful to refer to this during their first few games. Brad Clark has provided a Spanish translation of the summary sheet.
+Naturellement, un 9, comme un 7, ne peut être divisé que si votre équipe a au moins deux chevilles en jeu. Si votre équipe n'a plus qu'une cheville qui n'est pas dans sa position d'arrivée finale, alors les 7 et 9 ne peuvent être utilisés que pour avancer de ce nombre de trous.
 
-Naturally a 9, like a 7, can only be split if your team has at least two pegs in play. If your team only has one peg left that is not in its final home position, then 7 and 9 can only be used to move forward that number of holes.
+## Notes sur la stratégie
 
-## Notes on Strategy
+- 8 cases en arrière depuis le départ vous amène au coin, qui est une position risquée, car vous êtes à 10 trous du trou de sortie de votre voisin. Ainsi, après être sorti du départ, il est bon de commencer par avancer de 1, 2 ou 3 cases. Ensuite, 8 cases en arrière vous amènera à ou au-delà de votre point d'entrée, vous mettant en position d'aller à l'arrivée avec moins de risque d'être éliminé entre-temps par votre adversaire de droite.
 
-- 8 spaces backward from the start takes you to the corner, which is a risky position to occupy, because you are 10 holes away from your neighbour's come-out hole. So after coming out of Start it is good to begin by moving 1, 2 or 3 spaces forwards. Then 8 spaces backwards will take you to or beyond your in-spot, putting you in a position to go home with less risk of being killed meanwhile by your right-hand opponent.
+- Si vous avancez de 4 cases ou plus depuis votre trou de sortie, reculer de 8 n'est plus utile, car cela n'atteint pas votre point d'entrée. Votre cheville devient alors un « coureur » — une cheville envoyée faire le tour du plateau pour harceler les adversaires ou entrer dans la zone d'un partenaire.
 
-- If you move 4 or more spaces forward from your come-out hole, moving 8 backward is no longer useful, since this does not reach your in-spot. Your peg now becomes a runner - a peg to be sent on a journey around the board to harass opponents or move into partner's area. 
+- Vous pouvez essayer de préparer un « coup de circuit » en positionnant votre cheville « coureuse » dans le trou de sortie d'un coéquipier pour qu'une cheville sortant du DÉPART atterrisse sur votre cheville et l'envoie à son point d'entrée. Mieux encore est le double jeu : une cheville est laissée dans son propre trou de sortie pour qu'un coureur arrivant d'un coéquipier envoie directement la cheville de sortie à son point d'entrée. Ensuite, la prochaine cheville à sortir de la zone de départ envoie le coureur à son point d'entrée. Il est parfois même possible de préparer une plus longue « réaction en chaîne » dans laquelle une série de chevilles de couleurs différentes se déplacent mutuellement en un seul mouvement. Un 7 ou un 9 peut aussi être divisé pour utiliser une partie pour envoyer la cheville d'un partenaire à son point d'entrée et l'autre partie pour déplacer cette cheville à l'arrivée.
 
-- You can try to set up a home run by positioning your "runner" peg in teammate's come-out hole so that a peg coming out of START lands on your peg and sends it to its in-spot. Even better is the double play: a peg is left in its own come-out hole so that a teammate's arriving runner sends come-out peg directly to its in-spot. Then the next peg to come out of the start area sends the runner to its in-spot. Occasionally it is even possible to set up a longer "chain reaction" in which a series of different colored pegs displace each other in a single move. Also a 7 or 9 could be split to use one part to send a partner's peg to its in-spot and the other part to move that peg home.
+- Il est important de surveiller le plateau ! Quand un joueur voit un coureur approcher d'une zone de départ, il devrait positionner une cheville dans le trou de sortie adjacent pour permettre un circuit.
 
-- It is important to watch the board! When a player sees a runner approaching a start area, he should position a peg in the adjacent come-out hole to allow a home run. 
+- Les 10 et les figures déplacent une cheville de 10 trous, et il y en a 64 de ces « dix » dans les quatre jeux, ce qui fait de 10 la distance la plus facile à parcourir. Ainsi, en déplaçant un coureur vers la zone d'un partenaire ou en attaquant des adversaires, il est bon de se poster à 10 cases du trou de sortie du partenaire, ou du point d'entrée de l'adversaire. Notez aussi qu'une cheville positionnée à 10 cases du trou de sortie de son coéquipier se trouve aussi à 8 cases devant le trou de sortie de son adversaire, où elle est (presque) à l'abri d'une attaque (puisque les 8 reculent). Un autre bon endroit pour attendre est à 3 cases en avant du trou de sortie d'une cheville. C'est à 10 du point d'entrée de l'adversaire et aussi à portée de son propre point d'entrée en reculant de 8. Aussi, quand l'équipe n'a plus qu'une cheville et approche de l'ARRIVÉE, elle devrait essayer de manœuvrer pour que les derniers mouvements soient des 10.
 
-- 10's and face cards move a peg 10 holes, and there are 64 of these "tens" in the four decks, making 10 the easiest distance to move. So when moving a runner to a partner's area or attacking opponents, it is good to lurk 10 spaces short of partner's come-out hole, or opponent's in-spot. Note also that a peg sitting 10 spaces away from its teammate's come-out happens also to be 8 spaces in front of its opponent's come-out, where it is (almost) safe from attack (since 8's move backwards). Another good place to wait is 3 spaces forward from a peg's come-out. This is 10 away from opponent's in-spot and also within reach of its own in-spot by moving backward 8. Also, when the team only has one peg left in the game and is approaching HOME, they should try to maneuver so the last several moves are 10's.
+### Erreurs courantes
 
-### Common Errors
+- Ne pas avoir assez de chevilles sur le plateau. Les 9, 7 et jokers (offensifs) nécessitent au moins deux chevilles pour fonctionner. Les équipes devraient avoir un minimum de 2 chevilles mobiles par joueur sur le plateau à tout moment (une équipe de 4 devrait avoir 8 chevilles !).
 
-- Not having enough pegs on the board. 9s, 7s, and (offensive) Jokers need at least two pegs to work. Teams should have a minimum of 2 movable pegs per player on the board at all times (a 4-man team should have 8 pegs!) 
+- Se concentrer sur l'entrée à l'ARRIVÉE. Il vaut mieux attendre de pouvoir jouer une carte avec le compte exact pour aller jusqu'à l'arrivée (sauf si la cheville est en danger imminent d'être éliminée). Comptez sur vos partenaires.
 
-- Concentrating on moving into HOME. It is best to wait until an exact count card can be played to move all the way into Home (unless the peg is in imminent danger of being killed). Rely on your partners. 
+- Se bloquer : une ou plusieurs chevilles dans la zone ARRIVÉE mais pas jusqu'au bout. C'est le baiser de la mort !
 
-- Getting bound up: one or more pegs in HOME area but not all the way in. This is the Kiss of Death! 
+- Jouer un joker trop tôt. Gardez-le jusqu'à pouvoir faire un double ou triple jeu, ou l'utiliser en fin de partie pour sauver votre équipe de la défaite. Ne soyez pas trop pressé de le jouer !
 
-- Playing a joker too soon. Hold it until you can get a double or triple play or use it in the endgame to save your team from defeat. Don't be too eager to play it! 
+- Attaquer un adversaire au lieu de mettre un coéquipier en position de marquer. Un adversaire renvoyé au DÉPART n'est après tout qu'à deux mouvements de son espace d'entrée (une figure plus un 8 ou un 9).
 
-- Attacking an opponent instead of putting a teammate into a scoring position. An opponent sent to START is after all only two moves from his home entry space (a face card plus an 8 or 9). 
+- En fin de partie : jouer de hautes cartes de sorte que l'équipe est trop proche pour entrer à l'ARRIVÉE avec un compte exact. Si vous ne pouvez pas aller jusqu'à l'ARRIVÉE, jouez votre plus petite carte et donnez à vos coéquipiers plus de chances d'entrer.
 
-- In the endgame: playing high cards so that the team is too close to enter HOME on an exact count. If you can't go all the way HOME, play your smallest card and give your teammates more chances to enter HOME.
+### Note sur les commentaires de table
 
-### Note on Table Talk
+Comme dans la plupart des jeux de cartes, les joueurs ne sont pas autorisés à révéler les cartes de leur main à leurs partenaires ou adversaires. Il est parfois très tentant de donner des conseils ou de suggérer des mouvements à ses partenaires, ou de demander des conseils quand c'est votre tour, surtout en jouant avec les règles de l'Arizona qui permettent aux joueurs de déplacer n'importe quelle cheville de leur équipe. Ce genre de commentaires de table donne presque inévitablement des informations sur les cartes détenues par les joueurs, et n'est pas autorisé dans les parties entre joueurs expérimentés.
 
-As in most card games, players are not allowed to reveal the cards in their hands to partners or opponents. It is sometimes very tempting to offer advice or suggest moves to your partners, or to seek advice when it is your move, especially when playing by the Arizona rules which allow players to move any of their team's pegs. This kind of table talk almost inevitably gives away information about the cards held by the players, and is not allowed in games between experienced players.
+En enseignant le jeu aux débutants, cette règle peut être assouplie pour permettre de discuter des mouvements possibles par l'équipe. Dans ce cas, lors de la discussion des mouvements, les joueurs devraient faire de leur mieux pour éviter d'échanger des informations sur les cartes qu'ils détiennent.
 
-When teaching the game to beginners, this rule may be relaxed to allow possible moves to be discussed by the team. In this case, when discussing moves, players should do their best to avoid exchanging information about the cards that they hold.
+## Règles de Caroline du Nord
 
-## North Carolina Rules
+Ici le jeu est plus souvent appelé Jokers and Pegs. La zone « refuge » est connue comme le château. Les règles suivantes ont été contribuées par John et Linda Bristol et révisées par Patsy Howard :
 
-Here the game is more often called Jokers and Pegs. The safe "home" area is known as the castle. The following rules were contributed by John and Linda Bristol and revised by Patsy Howard:
+- Comme dans le jeu de base, un tour consiste d'abord à piocher, puis à jouer l'une de vos six cartes et à déplacer selon le cas.
 
-- As in the basic game, a turn consists of first drawing, then playing one of your six cards and moving as appropriate.
+- Comme dans le jeu de base, vous ne pouvez déplacer que vos propres chevilles jusqu'à ce que votre dernière cheville soit arrivée (sauf si vous jouez un 10 — voir ci-dessous). Après cela, vous déplacez les chevilles du partenaire le plus proche à votre gauche. Vous pouvez utiliser un mouvement divisé pour amener votre dernière cheville à l'arrivée et déplacer la cheville de votre partenaire de gauche avec le reste.
 
-- As in the basic game, you can only move your own pegs until your last peg is home (unless you play a 10 - see below). After that you move the pegs of the partner nearest to your left. You can use a split move to take your last peg home and move your left hand partner's peg with the remainder.
+- Un joker déplace l'une de vos propres chevilles de n'importe où sur le plateau vers n'importe quel trou de la piste principale occupé par une cheville. Vous êtes obligé de jouer une carte qui déplace une cheville si vous le pouvez, et dans les règles de Caroline du Nord cela inclut de jouer un joker même si cela vous est désavantageux, si vous n'avez pas d'autre possibilité. **Exception.** Lors de votre tout premier mouvement d'une partie, vous n'êtes pas obligé de jouer un joker, même si vous n'avez pas d'autre carte vous permettant de sortir une cheville de votre zone de départ.
 
-- A joker moves one or your own pegs from anywhere on the board to any hole on the main track that is occupied by a peg. You are obliged to play a card that moves a peg if you can, and in North Carolina rules that includes playing a joker even if it is disadvantageous to you, if you have no other possibility. **Exception. **On your very first move of a game you are not obliged to play a joker, even if you have no other card that allows you to bring a peg out of your start area.
+- Avec un as, vous pouvez sortir, ou avancer d'une case, ou reculer d'une case, ou avancer de 11 cases.
 
-- With an ace you can come out, or move one space forwards, or move one space backwards, or move 11 spaces forwards.
+- Le **deux** est une carte spéciale qui permet au joueur soit d'avancer de 2, soit d'échanger la position de sa propre cheville avec n'importe quelle autre cheville d'un autre joueur, à condition que les deux chevilles soient sur la piste principale (pas dans les zones de départ ou d'arrivée).
 
-- The **two** is a special card that allows the player either to move forward 2 or to exchange the positions of their own peg with any other player's peg provided that both pegs are on the main track (not in the start or home areas).
+- Les sept **doivent être divisés** si possible pour déplacer deux de vos chevilles en avant. Il ne peut être utilisé pour avancer une de vos chevilles de 7 que si vous n'avez pas d'autre cheville sur la piste principale ou dans votre château qui puisse avancer.
 
-- Sevens **must be split** if possible to move two of your pegs forwards. It can be used to move one of your pegs forward 7 only if you have no other peg on the main track or your castle that can move forwards.
+- Les neuf **doivent être divisés** si possible pour déplacer une de vos chevilles en avant et une autre de vos chevilles en arrière. Il ne peut être utilisé pour avancer une de vos chevilles de 9 que si vous n'avez pas d'autre cheville sur la piste principale ou dans votre château qui puisse être déplacée.
 
-- Nines **must be split** if possible to move one of your pegs forwards and a different one of your pegs backwards. It can be used to move one of your pegs forward 9 only if you have no other peg on the main track or your castle that can be moved.
+- Les dix **doivent toujours être divisés** entre deux chevilles de **couleurs différentes**, selon les règles suivantes.
 
-- Tens **must**** always be split** between two **different colored** pegs, according to the following rules.
+- Les chevilles déplacées par un 10 peuvent être deux chevilles de couleurs différentes quelconques sur le plateau — les vôtres, celles de vos partenaires ou de vos adversaires. Les chevilles des adversaires ne peuvent être déplacées que sur la piste principale, tandis que vos propres chevilles et celles de vos partenaires peuvent aussi être déplacées dans ou à l'intérieur de leurs propres châteaux.
 
-- The pegs moved by a 10 can be any two different colored pegs on the board - your own, your partners' or your opponents'. Opponents' pegs can only be moved on the main track, whereas your own and your partners' pegs can also be moved into or within their own castles. 
+- Ces chevilles peuvent toutes deux avancer, reculer toutes les deux, ou l'une avancer et l'autre reculer. Comme d'habitude, les mouvements en arrière ne sont autorisés que sur la piste principale, pas dans, à l'intérieur ou hors du château d'une cheville.
 
-- These pegs can both move forwards, both backwards or one forwards and one backwards. As usual backwards moves are only allowed on the main track, not into, within or out of a peg's castle. 
+- Vous ne pouvez jamais utiliser un 10 pour déplacer une seule cheville de 10 trous.
 
-- You can never use a 10 move a single peg 10 holes. 
+- Quand un 10 est joué, les chevilles déplacées peuvent passer au-dessus ou atterrir sur (« toucher ») des chevilles de la même couleur que la cheville en mouvement sur la piste principale. Une cheville peut même passer au-dessus d'une autre cheville de sa propre couleur et toucher une troisième cheville de la même couleur. Une cheville ne peut pas toucher ou sauter par-dessus une cheville dans son propre château.
 
-- When a 10 is played, the pegs that are moved can pass over or land on ("hit") pegs of the same color as the moving peg that are on the main track. A peg can even pass over another peg of its own color and hit a third peg of the same color. A peg cannot hit or jump over a peg within its castle.
+- Si vous touchez l'une des chevilles de votre propre équipe, la cheville touchée est déplacée vers son point d'entrée, même si vous l'avez touchée en utilisant la cheville d'un adversaire. Si le point d'entrée du joueur touché est déjà occupé par l'une de ses propres chevilles, le mouvement ne peut pas être effectué, mais si le point d'entrée est occupé par une cheville d'une couleur différente, cette cheville est aussi touchée. Si pendant votre jeu de 10 vous touchez la cheville d'un adversaire, elle retourne à sa zone de départ même si vous l'avez touchée avec une cheville de la même équipe.
 
-- If you hit one of your own team's pegs. the peg you hit is moved to its in-spot, even if you hit it using an opponent's peg. If the hit player's in-spot is already occupied by one of their own pegs the move cannot be performed, but if the in-spot is occupied by a peg of a different colour that peg is also hit. If during your 10-play you hit an opponent's peg, it goes back to its start area even if you hit it using a peg from the same team.
+- Bien qu'une cheville d'adversaire ne puisse pas être déplacée dans son château, elle peut être avancée au-delà de son point d'entrée sur la piste principale, de sorte que pour atteindre le château elle devra soit reculer, soit entreprendre un autre tour du plateau.
 
-- Although an opponent's peg cannot be moved into its castle, it can be moved forwards past its in-spot on the main track, so that to reach the castle it will either have to move backwards or embark on another journey around the board.
+- Notez que si vos 5 chevilles sont soit dans leur zone de départ soit dans leurs positions finales dans votre château et que vous n'avez pas d'A, R, D, V ou Joker mais que vous tenez un 10, vous **devez** jouer le 10 s'il y a deux chevilles de couleurs différentes que vous pouvez déplacer.
 
-- Note that if all your 5 pegs are either in their Start Area or in their final positions in your castle and you have no A, K, Q, J or Joker but you are holding a 10, you **must** play the 10 if there are two different colored pegs that you can move with it.
+- Si vous êtes incapable de bouger — par exemple toutes vos chevilles sont au départ ou dans votre château et après avoir pioché vous n'avez pas de carte de « sortie » (A, R, D, V, joker), pas de dix et pas de carte assez petite pour bouger dans votre château — vous défaussez une carte sans bouger. Cela s'appelle « compter ». Si cela se produit trois tours consécutifs, alors au troisième tour, après avoir défaussé n'importe quelle carte, vous devez déplacer l'une de vos chevilles vers votre trou de « sortie » gratuitement. Notez que le comptage s'applique à un joueur, pas à une équipe : si plus d'un joueur dans une équipe est incapable de bouger, ils comptent séparément (même s'ils déplacent tous les deux les mêmes chevilles parce que l'un d'eux a déjà amené toutes ses chevilles à l'arrivée). Aussi, au troisième tour, vous avez le privilège de défausser n'importe quelle carte et de sortir gratuitement même si vous avez pioché une carte de « sortie ».
 
-- If you are unable to move - for example all your pegs are at start or in your castle and after drawing you have no "come out" card (A, K, Q, J, joker), no ten and no card small enough to move within your castle - you discard a card without moving. This is known as "counting". If this happens on three consecutive turns, then on the third turn, after discarding any card you must move one of your pegs to your "come out" hole for free. Note that counting applies to a player, not a team: if more than one player in a team is unable to move they each count separately (even if they are both moving the same pegs because one of them has already brought all their pegs home). Also on the third turn you have the privilege of discarding any card and coming out free even if you drew a "come out" card. 
+- Notez que normalement vous ne pouvez pas compter si vous tenez un dix, puisque cette carte peut déplacer deux chevilles quelconques (à l'exception des chevilles au départ ou dans leurs positions finales, et des chevilles d'adversaires dans leurs zones de refuge). Si vous piochez un dix pendant que vous comptez et êtes capable de déplacer deux chevilles de couleurs différentes, vous devez arrêter de compter à ce moment-là et effectuer le mouvement même si vous êtes incapable de sortir de votre zone de départ. Vous commencez alors un nouveau comptage à un à votre prochain tour si vous êtes toujours incapable de sortir.
 
-- Note that normally you cannot count if you hold a ten, since this card can move any two pegs (with the exception of pegs at start or in their final positions, and opponents' pegs in their safe areas). If you draw a ten while counting and are able to move two different colored pegs you must stop counting at that point and make the move even though your are unable to come out of your starting area. You then start a new count from one on your next turn if you are still unable to come out.
-
-- Note also that if, while counting, you have a peg in your castle which is not all the way in, and you draw a small card that can move this peg further into the castle, you must stop counting, make that move in your castle, and start a new count from one on your next turn if you are unable to come out. 
+- Notez aussi que si, pendant que vous comptez, vous avez une cheville dans votre château qui n'est pas jusqu'au bout, et que vous piochez une petite carte qui peut déplacer cette cheville plus loin dans le château, vous devez arrêter de compter, effectuer ce mouvement dans votre château, et commencer un nouveau comptage à un à votre prochain tour si vous êtes incapable de sortir.
 
 ## Pegoo
 
-Wade Wilkerson has provided detailed rules for this variant played in Florida. In summary, its characteristic features are:
+Wade Wilkerson a fourni des règles détaillées pour cette variante jouée en Floride. En résumé, ses caractéristiques principales sont :
 
-- The board is slightly larger than a standard Pegs and Jokers board, with 20 holes on each side.
+- Le plateau est légèrement plus grand qu'un plateau standard de Pegs and Jokers, avec 20 trous de chaque côté.
 
-- A **joker** either moves one of your pegs from anywhere (even the start area) to its in-spot (known as the **'door'**) or sends one of your opponent's pegs back to its start area. 
+- Un **joker** déplace soit l'une de vos chevilles de n'importe où (même la zone de départ) vers son point d'entrée (connu comme la **« porte »**), soit renvoie l'une des chevilles de votre adversaire dans sa zone de départ.
 
-- A **two** moves 2 spaces forward or exchanges the positions of two different colored pegs on the main track (known here as the **ring**).
+- Un **deux** avance de 2 cases ou échange les positions de deux chevilles de couleurs différentes sur la piste principale (connue ici comme l'**anneau**).
 
-- As usual a **seven** can be split into two forward moves.
+- Comme d'habitude, un **sept** peut être divisé en deux mouvements en avant.
 
-- As in Arizona a **nine** can either move one peg forward or be split into a forward and a backward move.
+- Comme en Arizona, un **neuf** peut soit déplacer une cheville en avant, soit être divisé en un mouvement en avant et un en arrière.
 
-- As in North Carolina, on a third turn unable to move, a player may use any card to come out of their start area. The two turns when the player was unable to move are counted by discarding cards to a separate 'can't play' pile.
+- Comme en Caroline du Nord, au troisième tour sans mouvement, un joueur peut utiliser n'importe quelle carte pour sortir de sa zone de départ. Les deux tours où le joueur n'a pas pu bouger sont comptés en défaussant des cartes dans une pile séparée « ne peut pas jouer ».
 
-- A player can move their partner's pegs only when all their own pegs are home.
+- Un joueur ne peut déplacer les chevilles de son partenaire que lorsque toutes ses propres chevilles sont arrivées.
 
-## Other Variations
+## Autres variantes
 
-In the rule sheet distributed by Wizard Woodworks a **two** is a special card that can either moves a peg forward 2 or exchange two different colored pegs on the main track. Other rules are in the basic game, except that as in the Arizona version players first play a card, then move and draw a replacement card at the end of their turn, and nines can be split, moving one peg/marble forward and another backward. 
+Dans la feuille de règles distribuée par Wizard Woodworks, un **deux** est une carte spéciale qui peut soit avancer une cheville de 2, soit échanger deux chevilles de couleurs différentes sur la piste principale. Les autres règles sont celles du jeu de base, sauf que comme dans la version de l'Arizona, les joueurs jouent d'abord une carte, puis se déplacent et piochent une carte de remplacement à la fin de leur tour, et les neuf peuvent être divisés, déplaçant une cheville/bille en avant et une autre en arrière.
 
-Eileen Becker from Alaska describes a variation in which a 10 can be used to move a peg either forward 10 spaces or backward 1 space. Apart from this the game is similar to the basic game described on this page, but using the "counting rule" from the North Carolina rules, allowing a player to come out with any card on the fourth turn after being stuck for three turns.
+Eileen Becker d'Alaska décrit une variante dans laquelle un 10 peut être utilisé pour déplacer une cheville soit en avant de 10 cases, soit en arrière d'une case. À part cela, le jeu est similaire au jeu de base décrit sur cette page, mais en utilisant la « règle de comptage » des règles de Caroline du Nord, permettant à un joueur de sortir avec n'importe quelle carte au quatrième tour après avoir été bloqué pendant trois tours.
 
-### Kilpatrick Rules
+### Règles de Kilpatrick
 
-Susan McIntosh describes the 'Kilpatrick Rules' - a variant of the Arizona Rules with the following differences:
+Susan McIntosh décrit les « Règles de Kilpatrick » — une variante des règles de l'Arizona avec les différences suivantes :
 
-- Only 3 cards each are dealt instead of 5.
+- Seulement 3 cartes sont distribuées à chaque joueur au lieu de 5.
 
-- A peg cannot be moved forwards along the main track past its in-spot. When moving forwards it must turn into its home track when it reaches the in-spot and if there is not enough clear space there for the value of the played card to be fully used, that peg cannot be moved on that turn.
+- Une cheville ne peut pas être déplacée en avant le long de la piste principale au-delà de son point d'entrée. En avançant, elle doit tourner dans sa piste d'arrivée quand elle atteint le point d'entrée, et s'il n'y a pas assez d'espace libre pour que la valeur de la carte jouée soit pleinement utilisée, cette cheville ne peut pas être déplacée à ce tour.
 
 ### Bluffing Joker
 
-Ian Terry describes the Bluffing Joker variant, played in Florida, in which the basic rules are identical to the regular game, except that **all cards played are played face-down**. The player may declare the face-down card to be whatever they desire. 
+Ian Terry décrit la variante Bluffing Joker, jouée en Floride, dans laquelle les règles de base sont identiques au jeu régulier, sauf que **toutes les cartes jouées sont jouées face en bas**. Le joueur peut déclarer que la carte face en bas est ce qu'il désire.
 
-Before the player moves their piece, the opposing team has the chance to **doubt** the player's declaration. The next opponent player clockwise from the player whose turn it is has the option of doubting first. If no doubt is raised by the first opponent, it passes to the next opponent, and so on around the table. 
+Avant que le joueur ne déplace sa pièce, l'équipe adverse a la chance de **douter** de la déclaration du joueur. Le prochain joueur adverse dans le sens horaire à partir du joueur dont c'est le tour a la possibilité de douter en premier. Si aucun doute n'est soulevé par le premier adversaire, cela passe au suivant, et ainsi de suite autour de la table.
 
-If no doubts are raised, the peg is moved and the card is discarded, still face down, thus ending the turn.
+Si aucun doute n'est soulevé, la cheville est déplacée et la carte est défaussée, toujours face en bas, ce qui termine le tour.
 
-If a doubt *is* raised, one of two things can happen:
+Si un doute *est* soulevé, l'une de deux choses peut arriver :
 
-- If a bluff is doubted successfully, the team that doubted successfully chooses one of the bluffing player's pegs to send back to start *and *​the turn ends immediately. If the bluffing player has no pegs out of start yet, the player that doubted successfully has the option to take an extra turn on their next chance to play.
+- Si un bluff est douté avec succès, l'équipe qui a douté avec succès choisit l'une des chevilles du bluffeur pour la renvoyer au départ *et* le tour se termine immédiatement. Si le bluffeur n'a pas encore de chevilles sorties du départ, le joueur qui a douté avec succès a la possibilité de prendre un tour supplémentaire à sa prochaine occasion de jouer.
 
-- If a doubt is raised incorrectly, the truthful player chooses one of the incorrectly doubting player's pegs to send back to start. If the unsuccessful doubter has no pegs out of start yet, the truthful player has the option to take an extra turn on their next chance to play.​
+- Si un doute est soulevé à tort, le joueur honnête choisit l'une des chevilles du joueur qui a douté à tort pour la renvoyer au départ. Si le joueur qui a mal douté n'a pas encore de chevilles sorties du départ, le joueur honnête a la possibilité de prendre un tour supplémentaire à sa prochaine occasion de jouer.
 
-## Other Pegs and Jokers web sites
+## Autres sites Pegs and Jokers
 
-Here are archive copies of the former [Pegs and Jokers page of the D'Antiques Board Games Database](https://web.archive.org/web/20110919204016/http://www.1stingames.com/rules/pegsnjokers/index.htm) which included [rules of the game](https://web.archive.org/web/20111028173900/http://www.1stingames.com/rules/pegsnjokers/rules.htm).
-
-Home Page > Classified Index > Other Objectives > Race Games > Pegs and Jokers
+Voici des copies d'archive de l'ancienne [page Pegs and Jokers de la base de données de jeux de société D'Antiques](https://web.archive.org/web/20110919204016/http://www.1stingames.com/rules/pegsnjokers/index.htm) qui incluait les [règles du jeu](https://web.archive.org/web/20111028173900/http://www.1stingames.com/rules/pegsnjokers/rules.htm).

@@ -3,111 +3,109 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Bataille, Bataille
-**But :** An Arabic chldren's card game money in which a matching card captures the play pile and picture cards canbe used to buy more cards when needed
+**But :** Un jeu de cartes arabes pour enfants dans lequel une carte correspondante capture la pile de jeu et les figures peuvent être utilisées pour acheter des cartes en cas de besoin
 **Autres noms :** Buying-Selling
 
 ---
 
-![money layout](../images/war/money.jpg)
+![disposition money](../images/war/money.jpg)
 
 ## Introduction
 
-**Money** is a two-player card game found in several Arab countries, including Jordan, Syria and Egypt. The players hold their playing cards in a face down stack, and must play the top card of the stack at each turn. In this way it is similar to children's games such as Beggar My Neighbour or Snap. Players have no choice over which card to play next, but speed of reaction is important when capturing the play pile.
+**Money** est un jeu de cartes à deux joueurs que l'on trouve dans plusieurs pays arabes, notamment la Jordanie, la Syrie et l'Égypte. Les joueurs tiennent leurs cartes de jeu en tas face cachée et doivent jouer la carte supérieure du tas à chaque tour. De cette façon, c'est semblable aux jeux pour enfants tels que Beggar My Neighbour ou Snap. Les joueurs n'ont pas le choix de la carte à jouer ensuite, mais la rapidité de réaction est importante lors de la capture de la pile de jeu.
 
-The capture method is similar to that of fishing games with a single play pile such as Xeri or Pishti: the pile is taken when the number of the card played matches the top card of the pile. The name of the game refers to the picture cards (K, Q, J) which are set aside and can be used to buy cards when a player runs out.
+La méthode de capture est similaire à celle des jeux de pêche avec une pile de jeu unique comme Xeri ou Pishti : la pile est prise lorsque le nombre de la carte jouée correspond à la carte supérieure de la pile. Le nom du jeu fait référence aux figures (R, D, V) qui sont mises de côté et peuvent être utilisées pour acheter des cartes lorsqu'un joueur n'en a plus.
 
-The basic Jordanian version of the game will be described first, followed by details of variants found in different countries.
+La version jordanienne de base du jeu sera décrite en premier, suivie des détails des variantes trouvées dans différents pays.
 
-*This page is based on information collected by Sultan Ratrout.*
+*Cette page est basée sur des informations collectées par Sultan Ratrout.*
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-This is a two-player game normally played with a standard international 52-card pack. In some variants two Jokers are added to the deck.
+C'est un jeu à deux joueurs normalement joué avec un jeu international standard de 52 cartes. Dans certaines variantes, deux jokers sont ajoutés au jeu.
 
-Suits are irrelevant. The picture cards are used as money to buy numeral cards. All other cards including Aces and Jokers (if used) count as numeral cards: they have no ranking order but match if the numbers are equal. The values of the money cards are:
+Les couleurs n'ont pas d'importance. Les figures sont utilisées comme argent pour acheter des cartes numériques. Toutes les autres cartes, y compris les as et les jokers (si utilisés), comptent comme cartes numériques : elles n'ont pas d'ordre de rang mais correspondent si les numéros sont égaux. Les valeurs des cartes d'argent sont :
 
-| King: | 5 number cards |
-| Queen: | 15 number cards |
-| Jack: | 10 number cards |
+| Roi : | 5 cartes numériques |
+| Dame : | 15 cartes numériques |
+| Valet : | 10 cartes numériques |
 
-The objective is to collect all the cards, money and number cards, leaving the opponent with nothing.
+L'objectif est de collecter toutes les cartes, cartes d'argent et cartes numériques, en ne laissant rien à l'adversaire.
 
-## Deal
+## Donner
 
-The dealer is chosen by any convenient random method. Before shuffling, all the picture cards (King, Queen, Jack) are extracted from the pack, and each player is given two Kings, two Queens and two Jacks, which they store face up in their **money area** or **bank**. That leaves 40 numeral cards (Aces count as 1's and have no special value), which are shuffled and dealt out equally to the players. Each player then has a stack of 20 cards which they must not look at, but must hold face down without changing their order.
+Le donneur est choisi par n'importe quelle méthode aléatoire pratique. Avant le mélange, toutes les figures (roi, dame, valet) sont extraites du jeu, et chaque joueur reçoit deux rois, deux dames et deux valets, qu'il conserve face visible dans sa **zone d'argent** ou **banque**. Cela laisse 40 cartes numériques (les as comptent comme des 1 et n'ont pas de valeur spéciale), qui sont mélangées et distribuées équitablement aux joueurs. Chaque joueur a alors un tas de 20 cartes qu'il ne doit pas regarder, mais doit tenir face cachée sans changer leur ordre.
 
-## Play and Capture
+## Jeu et capture
 
-The players take turns to play the top card of their face down stack to the playing area, which is known as the **'floor'**. Each card is played by **'throwing'** it to the floor face down and then turning it face up to reveal its value and adding it to the top of the **'play pile'**. If the play pile is empty, which will be the case at the start of the game or if the previous play captured the pile, the played card begins a new face up play pile.
+Les joueurs jouent à tour de rôle la carte supérieure de leur tas face cachée vers la zone de jeu, appelée le **« sol »**. Chaque carte est jouée en la **« jetant »** sur le sol face cachée puis en la retournant face visible pour révéler sa valeur et en l'ajoutant au sommet de la **« pile de jeu »**. Si la pile de jeu est vide, ce qui sera le cas au début du jeu ou si la joue précédente a capturé la pile, la carte jouée commence une nouvelle pile de jeu face visible.
 
-The pile is captured if the number of the played card matches the number of the top card of the pile. The player then takes the whole of the play pile, turns it over so that the cards are face down, and adds these cards to the bottom of the stack of cards in their hand, without changing the order of the cards.
+La pile est capturée si le numéro de la carte jouée correspond au numéro de la carte supérieure de la pile. Le joueur prend alors toute la pile de jeu, la retourne pour que les cartes soient face cachée, et ajoute ces cartes au bas de son tas de cartes en main, sans changer l'ordre des cartes.
 
-If a player throws and turns a matching card but does not notice the match before their opponent throws and turns the next card, the opportunity to capture is lost and the pile remains in play. If a player throws a card that does not match but nevertheless attempts to take the play pile, then as a penalty the player's opponent can claim and take the play pile.
+Si un joueur jette et retourne une carte correspondante mais ne remarque pas la correspondance avant que son adversaire ne jette et ne retourne la carte suivante, l'opportunité de capture est perdue et la pile reste en jeu. Si un joueur jette une carte qui ne correspond pas mais tente néanmoins de prendre la pile de jeu, alors en pénalité l'adversaire du joueur peut réclamer et prendre la pile de jeu.
 
-When revealing the card they have thrown to the floor, a player is not allowed to turn it slowly in such a way that they can see its face and check whether it matches before revealing it to the opponent. Ideally the card should be flipped rapidly onto the play pile in such a way that the player cannot see its value before the opponent does.
+Lors de la révélation de la carte qu'il a jetée sur le sol, un joueur n'est pas autorisé à la retourner lentement de manière à pouvoir voir sa face et vérifier si elle correspond avant de la révéler à l'adversaire. Idéalement, la carte devrait être retournée rapidement sur la pile de jeu de manière à ce que le joueur ne puisse pas voir sa valeur avant l'adversaire.
 
-## Buying Cards, Exchanging Money and Capturing Money
+## Acheter des cartes, échanger de l'argent et capturer de l'argent
 
-When the player whose turn it is to play has no numeral cards in their hand, they must use one of the pictures in their money area to buy some numeral cards to play. If there are at least 5 numeral cards in the play pile on the floor, the player must buy from the floor. If there are fewer than 5 numeral cards on the floor the player must buy money cards from their opponent.
+Lorsque le joueur dont c'est le tour de jouer n'a plus de cartes numériques en main, il doit utiliser une de ses figures dans sa zone d'argent pour acheter des cartes numériques à jouer. S'il y a au moins 5 cartes numériques dans la pile de jeu sur le sol, le joueur doit acheter sur le sol. S'il y a moins de 5 cartes numériques sur le sol, le joueur doit acheter des cartes d'argent à son adversaire.
 
-A player who is buying cards may also exchange money cards from their bank area for money cards of equal value on the floor or in their opponent's money area - for example a Queen could be exchanged for a King and a Jack or for three Kings. Alternatively a player who is buying cards with a higher valued money card can take a lower valued money card in part exchange along with some numeral cards.
+Un joueur qui achète des cartes peut aussi échanger des cartes d'argent de sa zone de banque contre des cartes d'argent de valeur égale sur le sol ou dans la zone d'argent de son adversaire — par exemple, une dame pourrait être échangée contre un roi et un valet ou contre trois rois. Alternativement, un joueur qui achète des cartes avec une carte d'argent de valeur supérieure peut prendre une carte d'argent de valeur inférieure en échange partiel avec quelques cartes numériques.
 
-### Buying from the floor
+### Acheter sur le sol
 
-For example a player can use a King from their money area to buy 5 money cards from the floor. The player places the King face up on the floor beside the play pile, then takes the bottom five numeral cards from the play pile, turns them over as a block so that they are face down, and these numeral cards become the player's hand. The money card (King) that was used to buy the cards is slid part-way under the play pile so that its face is still visible. The next card thrown to the floor by the player who bought the cards will be the numeral card that was previously at the bottom of the play pile, since this is now the top card of their hand.
+Par exemple, un joueur peut utiliser un roi de sa zone d'argent pour acheter 5 cartes numériques sur le sol. Le joueur pose le roi face visible sur le sol à côté de la pile de jeu, puis prend les cinq cartes numériques du bas de la pile de jeu, les retourne en bloc pour qu'elles soient face cachée, et ces cartes numériques deviennent la main du joueur. La carte d'argent (roi) qui a été utilisée pour acheter les cartes est glissée partiellement sous la pile de jeu pour que sa face soit encore visible. La prochaine carte jetée sur le sol par le joueur qui a acheté les cartes sera la carte numérique qui était précédemment au bas de la pile de jeu, puisque c'est maintenant la carte supérieure de sa main.
 
-If there is already one or more money cards at the bottom of the play pile, left as payment for cards that were previously bought, a player can use a money card to buy the appropriate quantity of number cards from the bottom of the main part of the play pile, leaving any money cards that were under the play pile in place, and sliding the money card used for the purchase under any money cards that were already there.
+S'il y a déjà une ou plusieurs cartes d'argent au bas de la pile de jeu, laissées comme paiement pour des cartes précédemment achetées, un joueur peut utiliser une carte d'argent pour acheter la quantité appropriée de cartes numériques du bas de la partie principale de la pile de jeu, en laissant les cartes d'argent qui étaient sous la pile de jeu en place, et en glissant la carte d'argent utilisée pour l'achat sous les cartes d'argent qui étaient déjà là.
 
-If there are fewer than 10 numeral cards in the play pile but the player needing to buy cards has no King, it will be necessary for the player either to exchange money cards with their opponent to obtain a King or to take a money card that is under the play pile in part exchange. For example a player could exchange a Queen (value 15) from their money area for a King and a Jack (value 5+10) from their opponent's money area or from under the play pile, place the Jack they obtained in their money area use the King to buy five numeral cards from the bottom of the play pile, or if there was already a Jack or two Kings under the play pile, the player could take these in part exchange along with 5 numeral cards bought from the play pile. The five numeral cards become the player's new hand, while any money cards taken in part exchange are placed in their money area, and the Queen is left under the play pile.
+S'il y a moins de 10 cartes numériques dans la pile de jeu mais que le joueur devant acheter des cartes n'a pas de roi, il sera nécessaire pour le joueur soit d'échanger des cartes d'argent avec son adversaire pour obtenir un roi, soit de prendre une carte d'argent qui se trouve sous la pile de jeu en échange partiel. Par exemple, un joueur pourrait échanger une dame (valeur 15) de sa zone d'argent contre un roi et un valet (valeur 5+10) de la zone d'argent de son adversaire ou de sous la pile de jeu, placer le valet obtenu dans sa zone d'argent, utiliser le roi pour acheter cinq cartes numériques du bas de la pile de jeu, ou s'il y avait déjà un valet ou deux rois sous la pile de jeu, le joueur pourrait prendre ceux-ci en échange partiel avec 5 cartes numériques achetées sur la pile de jeu. Les cinq cartes numériques deviennent la nouvelle main du joueur, tandis que les cartes d'argent prises en échange partiel sont placées dans sa zone d'argent, et la dame est laissée sous la pile de jeu.
 
-Suppose that the play pile contains 12 numeral cards with a King underneath. In this case a player who has run out of cards and wants to buy cards with a Jack (value 10 cards) has two possibilities: to buy 10 numeral cards from the floor and plave the Jack under the King or to buy just 5 numeral cards from the floor and take the King from the floor in part exchange, placing the King in their money area and the Jack under the play pile.
+Supposons que la pile de jeu contienne 12 cartes numériques avec un roi en dessous. Dans ce cas, un joueur qui n'a plus de cartes et veut acheter des cartes avec un valet (valeur 10 cartes) a deux possibilités : acheter 10 cartes numériques sur le sol et placer le valet sous le roi, ou acheter seulement 5 cartes numériques sur le sol et prendre le roi du sol en échange partiel, en plaçant le roi dans sa zone d'argent et le valet sous la pile de jeu.
 
-### Buying from the opponent
+### Acheter à l'adversaire
 
-If a player runs out of cards and there are fewer than 5 numeral cards on the floor, the player must buy numeral cards from their opponent. The player without cards pays with a King, Queen or Jack from their money area, their opponent adds this card to their own money area and gives the buyer the appropriate quantity of numeral cards, in a single face down block, from the **top** of the stack of cards in their hand. This becomes the buyer's new hand from which they now play the top card. The order of these cards cannot be changed.
+Si un joueur n'a plus de cartes et qu'il y a moins de 5 cartes numériques sur le sol, le joueur doit acheter des cartes numériques à son adversaire. Le joueur sans cartes paie avec un roi, une dame ou un valet de sa zone d'argent, son adversaire ajoute cette carte à sa propre zone d'argent et donne à l'acheteur la quantité appropriée de cartes numériques, en un seul bloc face cachée, depuis le **sommet** de son tas de cartes en main. Cela devient la nouvelle main de l'acheteur à partir de laquelle il joue maintenant la carte supérieure. L'ordre de ces cartes ne peut pas être modifié.
 
-Since there are fewer than 5 numeral cards on the floor and the player buying cards has none, the opponent must have at least 36 cards in hand, so will always be able to supply the full value of the money card in numeral cards. However the opponent has the option, if they wish, instead to give a smaller number of numeral cards and make up the value of the offered money card by giving money cards back in part exchange - for example giving 10 numeral cards and a King when the buyer offers a Queen.
+Puisqu'il y a moins de 5 cartes numériques sur le sol et que le joueur qui achète des cartes n'en a pas, l'adversaire doit avoir au moins 36 cartes en main, il pourra donc toujours fournir la pleine valeur de la carte d'argent en cartes numériques. Cependant, l'adversaire a l'option, s'il le souhaite, de donner un nombre plus petit de cartes numériques et de compléter la valeur de la carte d'argent offerte en donnant des cartes d'argent en échange partiel — par exemple en donnant 10 cartes numériques et un roi lorsque l'acheteur offre une dame.
 
-Note that a player buying cards can only obtain numeral cards from a single source - **either** from the floor **or** from the opponent, not some from each. Numeral cards must be bought from the floor is there are 5 or more of these cards on the floor, otherwise from the opponent. Money cards can be obtained in exchange or part exchange either from the floor or for the opponent at the choice of the buyer.
+Notez qu'un joueur qui achète des cartes ne peut obtenir des cartes numériques que d'une seule source — **soit** sur le sol **soit** à l'adversaire, pas des deux. Les cartes numériques doivent être achetées sur le sol s'il y a 5 cartes numériques ou plus sur le sol, sinon à l'adversaire. Les cartes d'argent peuvent être obtenues en échange ou échange partiel soit sur le sol soit auprès de l'adversaire au choix de l'acheteur.
 
-Note also that the full value of a money card must always be given when it is used for buying or exchange. The buyer is not allowed to accept a lower value - for example just 8 numeral cards for a Jack.
+Notez également que la pleine valeur d'une carte d'argent doit toujours être donnée lorsqu'elle est utilisée pour acheter ou échanger. L'acheteur n'est pas autorisé à accepter une valeur inférieure — par exemple seulement 8 cartes numériques pour un valet.
 
-### Capturing Money from the Floor
+### Capturer de l'argent sur le sol
 
-A player who throws a numeral card that matches the numeral card on top of the play pile captures the whole pile, along with any money cards that may be under it. When money cards are captured in this way they are added to the player's money area and can be used in future to buy cards. The numeral cards from the play pile are turned face down and added to the bottom of the stack of cards in the capturing player's hand.
+Un joueur qui jette une carte numérique qui correspond à la carte numérique sur le sommet de la pile de jeu capture toute la pile, ainsi que toutes les cartes d'argent qui peuvent se trouver en dessous. Lorsque des cartes d'argent sont capturées de cette façon, elles sont ajoutées à la zone d'argent du joueur et peuvent être utilisées à l'avenir pour acheter des cartes. Les cartes numériques de la pile de jeu sont retournées face cachée et ajoutées au bas du tas de cartes en main du joueur capturant.
 
-Note that cards can only be thrown to the play pile from the player's hand, which always consists entirely of numeral cards. There is no possibility to use a card from a player's money area to capture cards. These money cards can only be used to buy cards when the owner runs out of cards in their hand.
+Notez que les cartes ne peuvent être jetées dans la pile de jeu qu'à partir de la main du joueur, qui se compose toujours entièrement de cartes numériques. Il n'est pas possible d'utiliser une carte de la zone d'argent d'un joueur pour capturer des cartes. Ces cartes d'argent ne peuvent être utilisées que pour acheter des cartes lorsque le propriétaire n'a plus de cartes en main.
 
-## End of Game
+## Fin de partie
 
-The game ends when one player has collected all the numeral cards and money cards, leaving their opponent with nothing. The player who has all the cards is the winner.
+Le jeu se termine lorsqu'un joueur a collecté toutes les cartes numériques et toutes les cartes d'argent, ne laissant rien à son adversaire. Le joueur qui a toutes les cartes est le gagnant.
 
-## Variations
+## Variantes
 
-**Jokers**. Some players add two Jokers to the game. These function exactly like numeral cards. Each player has 21 rather than 20 cards in hand at the start of the game. The Jokers match each other but do not match any other card, so a Joker only captures the play pile when the other joker is on top of the pile.
+**Jokers.** Certains joueurs ajoutent deux jokers au jeu. Ils fonctionnent exactement comme des cartes numériques. Chaque joueur a 21 plutôt que 20 cartes en main au début du jeu. Les jokers se correspondent entre eux mais ne correspondent à aucune autre carte, donc un joker ne capture la pile de jeu que lorsque l'autre joker est au sommet de la pile.
 
-### Egyptian Money
+### Money égyptien
 
-In Egypt the game is known in Arabic as *floos*, which means 'money'. Information on this version of the game was obtained by Sultan Ratrout from Mahmoud Ramadan and from the the website [dotmsr.com](http://www.dotmsr.com/news/204/606851/%D9%84%D8%B9%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%AA%D8%B4%D9%8A%D9%86%D9%87-%D8%B4%D8%B9%D9%88%D8%B1-%D8%A7%D9%84%D8%BA%D9%86%D9%89-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81). It differs from the Jordanian game as follows.
+En Égypte, le jeu est connu en arabe sous le nom de *floos*, qui signifie « argent ». Des informations sur cette version du jeu ont été obtenues par Sultan Ratrout auprès de Mahmoud Ramadan et du site web [dotmsr.com](http://www.dotmsr.com/news/204/606851/%D9%84%D8%B9%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%AA%D8%B4%D9%8A%D9%86%D9%87-%D8%B4%D8%B9%D9%88%D8%B1-%D8%A7%D9%84%D8%BA%D9%86%D9%89-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81). Elle diffère du jeu jordanien comme suit.
 
-- There is no possibility for the opponent to prevent a capture by playing the next card before the player notices that the capture is possible. If the played card matches the top card of the pile, the pile must be captured. This makes the Egyptian version a game of pure luck - speed of reaction is not an issue.
+- Il n'y a pas de possibilité pour l'adversaire d'empêcher une capture en jouant la carte suivante avant que le joueur ne remarque que la capture est possible. Si la carte jouée correspond à la carte supérieure de la pile, la pile doit être capturée. Cela fait de la version égyptienne un jeu de pur hasard — la rapidité de réaction n'est pas un facteur.
 
-- At the start of any turn a player may use money cards to buy cards or exchange for other money cards, even if the buying player has not run out of cards to play. The player has a free choice whether to buy or exchange cards from the floor or their opponent, provided that sufficient cards are available there, but can only buy numeral cards from once source with one money card.
+- Au début de n'importe quel tour, un joueur peut utiliser des cartes d'argent pour acheter des cartes ou échanger contre d'autres cartes d'argent, même si le joueur qui achète n'a pas encore épuisé ses cartes à jouer. Le joueur a le libre choix d'acheter ou d'échanger des cartes sur le sol ou auprès de son adversaire, à condition qu'il y ait suffisamment de cartes disponibles là-bas, mais il ne peut acheter des cartes numériques que d'une seule source avec une seule carte d'argent.
 
-- When a player buys numeral cards from their opponent, the cards are given in a block from the **bottom** of the opponent's play stack, not the top. In all cases numeral cards that are bought are added to the bottom of the buyer's play stack.
+- Lorsqu'un joueur achète des cartes numériques à son adversaire, les cartes sont données en bloc depuis le **bas** du tas de jeu de l'adversaire, et non du sommet. Dans tous les cas, les cartes numériques achetées sont ajoutées au bas du tas de jeu de l'acheteur.
 
-- The values of the money cards differ from those used in Jordan. In Egypt some play that the Queen is worth 5 cards, the King 10 and the Jack 15. Others give the Queen a value of 10 cards, the King 15 and the Jack 20.
+- Les valeurs des cartes d'argent diffèrent de celles utilisées en Jordanie. En Égypte, certains jouent que la dame vaut 5 cartes, le roi 10 et le valet 15. D'autres donnent à la dame une valeur de 10 cartes, au roi 15 et au valet 20.
 
-- Some play that Aces are not numeral cards but extra money cards worth 30 cards each: each player has two Aces and six pictures in their money are at the start of the game and just 18 numeral cards in hand. Others dislike this version as it requires extra money exchanges when using an Ace and makes the game last too long.
+- Certains jouent que les as ne sont pas des cartes numériques mais des cartes d'argent supplémentaires valant 30 cartes chacun : chaque joueur a deux as et six figures dans sa zone d'argent au début du jeu et seulement 18 cartes numériques en main. D'autres n'aiment pas cette version car elle nécessite des échanges d'argent supplémentaires lorsqu'on utilise un as et rend le jeu trop long.
 
-- Some play that the Seven of diamonds (known as *Al-koumi*) captures the whole play pile even if its top card is not a 7. This rule is probably borrowed from Basra, where the 7 of diamonds has a similar power.
+- Certains jouent que le sept de carreau (connu sous le nom d'*Al-koumi*) capture toute la pile de jeu même si sa carte supérieure n'est pas un 7. Cette règle est probablement empruntée au Basra, où le 7 de carreau a un pouvoir similaire.
 
-### Syrian Buying-Selling
+### Buying-Selling syrien
 
-In Syria the equivalent game to Money is known as Buying-Selling. Details of this version were obtained by Sultan Ratrout from Abdul malik Fatayerji. It differs from the Jordanian game as follows.
+En Syrie, le jeu équivalent à Money est connu sous le nom de Buying-Selling. Des détails de cette version ont été obtenus par Sultan Ratrout auprès d'Abdul malik Fatayerji. Elle diffère du jeu jordanien comme suit.
 
-- Two Jokers are added to make a deck of 54 cards. In this version the Jokers are money cards worth 5 cards each. Jacks are worth 10 cards, Queens 15 cards and Kings 20 cards each. Each player begins with one Joker, two Jacks, two Queens and two Kings in their money area and a hand of 20 numeral cards.
+- Deux jokers sont ajoutés pour faire un jeu de 54 cartes. Dans cette version, les jokers sont des cartes d'argent valant 5 cartes chacun. Les valets valent 10 cartes, les dames 15 cartes et les rois 20 cartes chacun. Chaque joueur commence avec un joker, deux valets, deux dames et deux rois dans sa zone d'argent et une main de 20 cartes numériques.
 
-- When numeral cards are bought from the floor, these cards are taken from the **top** of the play pile, not from the bottom.
-
-Home Page > Classified Index > War group > Money
+- Lorsque des cartes numériques sont achetées sur le sol, ces cartes sont prises depuis le **sommet** de la pile de jeu, et non du bas.

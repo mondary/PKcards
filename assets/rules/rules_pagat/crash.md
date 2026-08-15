@@ -1,232 +1,170 @@
-# Crash and 6-, 7- and 9-card Brag
+# Crash et Brag à 6, 7 et 9 cartes
 
 **Nombre de joueurs :** 4
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** (13-card Brag), also the games 9-card, 7-card and 6-card Brag, in which each player divides their hand into 3-card Brag hands.
+**But :** (Brag à 13 cartes), ainsi que les jeux de Brag à 9, 7 et 6 cartes, dans lesquels chaque joueur divise sa main en mains de Brag à 3 cartes.
 **Autres noms :** Yogi
 
 ---
 
 - Introduction
 
-- Crash or 13-card Brag
+- Crash ou Brag à 13 cartes
 
-- Players and deal
+- Joueurs et donne
 
 ## Introduction
 
-The games described on this page involve dividing your hand into a number of 'Brag' hands of three cards, so that as many as possible of them will beat the corresponding three-card hands of your opponents. A point is scored by the winner of each three-card hand, and the first to an agreed target score wins the game. Unlike Three Card Brag, on which the hand patterns are based, Crash and the other games on this page are not high stake gambling games. They are usually played for a small amount of money, and there is no process of betting to raise the stake.
+Les jeux décrits sur cette page consistent à diviser sa main en un certain nombre de mains de « Brag » de trois cartes, pour que le plus grand nombre possible d'entre elles battent les mains correspondantes de trois cartes de vos adversaires. Un point est marqué par le gagnant de chaque main de trois cartes, et le premier à atteindre un score cible convenu gagne la partie. Contrairement au Three Card Brag, sur lequel les combinaisons de mains sont basées, Crash et les autres jeux de cette page ne sont pas des jeux de paris à haute mise. Ils se jouent généralement pour une petite somme d'argent, et il n'y a pas de processus de paris pour augmenter la mise.
 
 ## Crash
 
-I am grateful to the many people who have contributed information about Crash, including: Bob Allison, David Calvert, Matt Daligan, Ben Hall, David Jennings, Robert Jones, Stephen Lowry, Allister Paterson, Peter Rollinson, Tom Valentine and Stephen Williams.
+Je suis reconnaissant envers les nombreuses personnes qui ont contribué des informations sur Crash, notamment : Bob Allison, David Calvert, Matt Daligan, Ben Hall, David Jennings, Robert Jones, Stephen Lowry, Allister Paterson, Peter Rollinson, Tom Valentine et Stephen Williams.
 
-The game of Crash is also known as Thirteen Card Brag. It is played over a large part of the north of England and in Wales - I have reports ranging from Coventry and Burton-on-Trent in the south to Cumbria and Yorkshire in the north, from Welshpool and from South Wales; also one report from Plymouth and one from Edinburgh, where the game was known as Crackers. There are numerous variations in the rules. I will try to list all those I have collected, and would be interested in comments and in further reports of places where Crash is played and the versions in use.
+Le jeu de Crash est aussi connu sous le nom de Thirteen Card Brag. Il se joue sur une grande partie du nord de l'Angleterre et au pays de Galles. Il existe de nombreuses variantes dans les règles. Je vais essayer de lister toutes celles que j'ai collectées.
 
-### Players, cards and deal
+### Joueurs, cartes et donne
 
-Crash is essentially a four player game. It is played with a standard 52 card pack.
+Crash est essentiellement un jeu à quatre joueurs. Il se joue avec un jeu standard de 52 cartes.
 
-The first dealer is chosen at random. One method is to deal the cards around face up: the first player who receives a seven is the first dealer. The dealer shuffles, the player to dealer's right cuts, and the dealer deals out all the cards clockwise, one at a time, so that everyone has 13 cards. After the cards have been played and scored, the turn to deal passes to the left.
+Le premier donneur est choisi au hasard. Le donneur mélange, le joueur à la droite du donneur coupe, et le donneur distribue toutes les cartes dans le sens horaire, une à la fois, de sorte que chacun a 13 cartes. Après que les cartes ont été jouées et comptées, le tour de donner passe à la gauche.
 
-It is possible for three people to play. In this case four 13-card hands are still dealt: three to the players and one face-down spare hand. Starting with the player to dealer's left, each player in turn then has the option to discard their hand and take the spare hand in exchange (without first knowing what the spare hand contains). Some play that anyone exchanging for the spare hand must put an additional stake in the pool which will be taken by the eventual winner of the game.
+Il est possible pour trois personnes de jouer. Dans ce cas, quatre mains de 13 cartes sont toujours distribuées : trois aux joueurs et une main de réserve face cachée.
 
-If two people wish to play, there will be two spare hands, and each player may keep the hand they are dealt or exchange it sight unseen for one of the spares.
+Si deux personnes souhaitent jouer, il y aura deux mains de réserve, et chaque joueur peut garder la main qui lui est distribuée ou l'échanger contre l'une des réserves sans la regarder.
 
-### The Play
+### Le jeu
 
-Each player divides their 13 cards into up to four three-card Brag hands, which are placed face down in front of the player in descending order from left to right. The card or cards remaining are set aside.
+Chaque joueur divise ses 13 cartes en jusqu'à quatre mains de Brag à 3 cartes, qui sont placées faces cachées devant le joueur par ordre décroissant de la gauche vers la droite. La ou les cartes restantes sont mises de côté.
 
-The valid three-card hands in descending order are:
+Les mains valides de trois cartes par ordre décroissant sont :
 
-- Prial: three cards of the same rank - threes highest, then aces, kings, etc.
+- Brelan : trois cartes de même hauteur — les trois les plus hauts, puis les as, rois, etc.
 
-- Running Flush, also known as a 'run on the bounce' or a trotter: three consecutive cards in one suit - 3-2-A highest, then A-K-Q, down to 4-3-2 (lowest)
+- Quinte flush, aussi appelée « run on the bounce » : trois cartes consécutives de la même couleur — 3-2-A le plus haut, puis A-R-D, jusqu'à 4-3-2 (le plus bas)
 
-- Run: three consecutive cards of mixed suits - ranking as for running flushes.
+- Quinte : trois cartes consécutives de couleurs mélangées — même classement que les quintes flush.
 
-- Flush: three cards of the same suit (ace high)
+- Couleur : trois cartes de la même couleur (as haut)
 
-- Pair: two cards of the same rank with any third card (aces high)
+- Paire : deux cartes de même hauteur avec une troisième carte (as haut)
 
-For those unfamiliar with Brag hands, these combinations are explained in more detail at the end of this page.
+Notez que trois cartes sans rapport — tous des rangs différents, couleurs mélangées et non consécutives — ne forment pas une main valide. Normalement, vous arrangez vos 13 cartes en quatre mains de 3 cartes et défaussez la dernière carte, mais dans certains cas, vous ne pourrez pas ou ne voudrez pas faire autant de quatre mains valides. Dans ce cas, vous faites autant de mains que vous souhaitez — peut-être seulement deux ou trois — et défaussez vos cartes restantes.
 
-Note that three unrelated cards - all different ranks, mixed suits and not consecutive - do not form a valid hand. Normally you arrange your 13 cards into four 3-card hands and discard the last card, but in some cases you be unable or unwilling to make as many as four valid hands from your 13 cards. In that case you just make as many hands as you wish - perhaps only two or three - and discard your remaining cards.
+Lorsque tous sont prêts, chacun révèle sa main de 3 cartes la plus à gauche (la plus haute), et la meilleure de ces mains marque un point. Puis chacun révèle sa deuxième main et la meilleure des deuxièmes mains marque un point, puis de même pour les troisièmes et les quatrièmes mains.
 
-When all are ready, everyone reveals their leftmost 3-card hand (highest hand), and the best of these hands scores a point. Then everyone reveals their second hand and the best of the second hands again scores a point, then the same again for the third hands and the fourth hands.
+Il peut arriver qu'il y ait une égalité pour la meilleure main — par exemple deux joueurs ont des suites également hautes avec des couleurs différentes. Cela s'appelle un arrêt (*stick-up* ou *stopper*), et personne ne marque le point correspondant.
 
-It can happen that there is a tie for best hand - for example two players have equally high runs with different suits. This is called a stick-up or a stopper, and no one scores the corresponding point.
+Vous devez toujours placer vos mains de 3 cartes par ordre décroissant de la gauche vers la droite.
 
-You must always place your 3-card hands in descending order from left to right. Anyone who places a better hand to the right of a worse hand (so unfairly increasing their chance of winning one of the later points) automatically loses the game. Also, if you make fewer than four hands, the hands that you do make must always compete for the earliest points - for example the first three points if you made three hands.
+### Comptage
 
-### Scoring
+Différents scores cibles sont utilisés selon les endroits — certains jouent à 7 points ; certains à 10, 11, 13 ou même 21.
 
-Different target scores are used in different places - some play to 7 points; some to 10, 11, 13 or even 21. The target score may be increased if there are fewer than 4 players - for example 4 players play to 11 points, two or three play to 15. In South Wales, the game is played to 12 points, but the leader must be 2 points ahead of the second placed player to win; if not, play continues until someone achieves a 2-point lead.
+![plateau Crash - Salford](../images/partition/crash.gif)
+![plateau Crash - Coventry](../images/partition/crash2.gif)
+Le gagnant est le premier joueur à atteindre le score cible.
 
-![Crash board - Salford](../images/partition/crash.gif)
-![Crash board - Coventry](../images/partition/crash2.gif)
-The winner is the first player to reach the target. This may happen before all the hands have been compared. For example, in a 7-point game, if two players have 6, and one of them wins the first (left) hand of the next deal, that player has won the game by reaching 7 first, even if the second player had the best of the second, third and fourth hands.
+Le gagnant de la partie est payé par les trois autres joueurs. Certains utilisent un paiement fixe par partie. D'autres jouent que chacun paie au gagnant un montant pour chaque point qui leur manque pour atteindre la cible. Dans tous les cas, certains jouent que quiconque n'a marqué aucun point pendant la partie doit payer double. Certains jouent que si les trois adversaires du gagnant ont marqué zéro point, le paiement pour la partie est triplé.
 
-In some places the score is kept on paper. Sometimes a special peg-board is used: illustrated to the right are two designs for the 7-point game from Salford and Coventry; players start from the corners and the winner is the first to reach the centre hole. Some score on a cribbage board, each player using one of the four tracks, starting from one end, the aim of course being to reach the agreed target score first.
+### Le Crash
 
-The winner of the game is paid by the other three players. Some use a fixed payment per game - such as 50p; others play that each pays the winner an amount (for example 1p or 2p) for each point that they are short of the target. In either case, some play that anyone who scored no points at all during the game must pay double. Some play that if all three opponents of the winner scored zero points, the payment for game is trebled.
+Un crash se produit lorsqu'un joueur gagne les quatre points d'une donne. Cela est récompensé par un score supplémentaire, qui doit être convenu avant de jouer, car il varie d'un endroit à l'autre.
 
-### The Crash
+- Certains jouent qu'un crash gagne la partie en cours immédiatement.
 
-A crash occurs when one player wins all four points in a deal. This is rewarded with an extra score, which should be agreed on before playing, because it varies from place to place.
+- Dans certains endroits, un crash vaut simplement un point supplémentaire — cinq points au lieu des quatre habituels.
 
-- Some play that a crash wins the current game outright.
+- Certains jouent qu'un crash rapporte quatre points vers la partie en cours, et en plus le joueur qui a fait le crash reçoit une mise supplémentaire de chaque adversaire.
 
-- In some places a crash is worth just one extra point - five points instead of the usual four.
+Certains jouent qu'un crash n'est valide que si le joueur l'annonce après que tout le monde a disposé ses mains, mais avant que les cartes soient exposées.
 
-- Some play that a crash wins four points towards the current game, and in addition the player who crashed is paid an extra stake (usually equal to the value of a game) by each opponent.
+### Mains spéciales
 
-Some play that a crash is only valid if the player announces it after everyone has set their hands, but before any cards are exposed. In this version of the game, a player who wins all four hands without having said 'crash' just scores four points towards the current game. The player attempting crash should check that everyone is ready before announcing it; no rearrangement of hands is allowed after the announcement. Again, there are various ways of scoring:
+Les mains spéciales suivantes sont généralement mais pas toujours reconnues. Les détails doivent être convenus avant de jouer.
 
-- Some play that an announced crash wins the current game if successful. If a player announces crash but then fails to win all four hands, the player scores nothing for that deal.
+Carré
+Si vous avez les quatre cartes d'un même rang et que vous les incluez toutes dans les mains de 3 cartes que vous jouez, cela s'appelle un bus ride ou un poppy, qui rapporte un point supplémentaire. Si deux joueurs ou plus ont des carrés, seul le plus haut marque. Pour cela seulement, les quatre quatre sont les plus hauts, puis les as, rois, dames, etc. jusqu'aux cinq, trois, deux.
 
-- Some award an extra payment outside the game for a successful announced crash. If you announce crash and fail to win all four hands you have to pay the other players the amount you would have won. For example in a 10-point game where the winner is paid 2p per point difference, a player announcing a crash receives 20p from each opponent in addition to the 4 points if it succeeds; if it fails, the player scores points as usual for any hands won, but has to pay 20p to each opponent for the crash.
+Paires
+Un joueur qui reçoit six paires peut les montrer et demander une redistribution par le même donneur. Ce n'est pas obligatoire — si vous pouvez faire des suites, vous préférerez peut-être jouer la main, mais si vous choisissez de déclarer les paires au lieu de jouer, cela a priorité sur toutes les autres actions et paiements.
 
-If a player reaches the target score before all four sets of hands have been compared, the game is over, and there can be no crash, even if the same player would have won the remaining hands. Therefore, in the version where you are paid extra for a successful announced crash, you should be careful not to announce it when you need 3 or fewer points to win: you would be certain to fail, as the game would end before you had won your four hands.
+Suite de treize cartes
+Un joueur qui a une carte de chaque rang (A-2-3-4-5-6-7-8-9-10-V-D-R) peut choisir de la déclarer au lieu de jouer la main et, selon un accord préalable, cela gagne soit la partie en cours immédiatement, soit donne droit à un paiement.
 
-### Special hands
+### Variantes supplémentaires
 
-The following special hands are usually but not always recognised. The details should be agreed before playing.
+Mélange facultatif
+Certains jouent que le donneur peut choisir de ne pas mélanger ; dans ce cas, le donneur doit avertir les autres joueurs que les cartes ne sont pas mélangées.
 
-Four of a kind
-If you have all four cards of one rank and include them all in the 3-card hands you play, this is known as a bus ride or a poppy, which scores an extra point. (It does not matter whether any of your hands actually win, as long as they include all of your four equal cards.) Usually there is also an extra payment, to be agreed in advance. When playing a fixed payment per game the extra payment could be the value of a game; when the payment is 2p per point difference, a bus ride could be worth 5p or 10p or 20p from each player, according to agreement.
-If two or more players have bus rides, only the highest scores. For this purpose only, four fours are highest, then aces, kings, queens, etc. down to fives, threes, twos.
-Some play that in order to score or be paid for a bus ride, you must knock (or "chap") when you first receive your cards, to warn the other players that you have four of a kind before they select their 3-card hands.
-In South Wales, some play that four of a kind (or the best four of a kind if there is more than one) wins all four points for the deal, and the cards are not played. Four fours win the game outright.
+Yogi ou Chas
+Dans cette version, en cas d'égalité pour un point, le point est attribué à un joueur fictif appelé Yogi (dans le Yorkshire) ou Chas (dans le Lincolnshire). À la fin de la partie, quiconque a un score égal ou inférieur à celui de Yogi/Chas doit payer le gagnant double. Si Yogi ou Chas gagne la partie, tout le monde paie le coût de la partie dans un pot, qui revient au gagnant de la partie suivante.
 
-Pairs
-A player who is dealt six pairs can show them and demand a new deal by the same dealer. This is not compulsory - if you can make some runs you might prefer to play the hand, but if you choose to declare the pairs instead of playing, this has precedence over all other actions and payments. For example a declaration of pairs has priority over a four of a kind or a crash announcement.
-Some play that only five pairs are needed to demand a redeal.
+Remise à zéro
+Dans cette variante, si un joueur déclare six paires ou une suite de treize cartes, les scores des trois autres joueurs sont réduits à zéro, tandis que le score du joueur déclarant reste tel quel.
 
-Thirteen card run
-A player who has one card of each rank (A-2-3-4-5-6-7-8-9-10-J-Q-K) can choose to declare this instead of playing the hand and according to prior agreement it either wins the current game outright, or entitles the holder to a payment. The payment could be equal to the stake for the game, or equal to the value of 10 points, if payments to the winner of the game are according to difference in points. If a 13 card run is declared the hand is not played, and the deal passes to the next player.
+Pas de paires
+Dans certains endroits, une paire n'est pas une main valide. La main de trois cartes la plus basse jouable est une couleur.
 
-### Further Variations
+### Logiciel et jeux en ligne
 
-Optional shuffle
-Some play that the dealer may choose not to shuffle; in this case the dealer must alert the other players that the cards are not shuffled. Also, the player to dealer's right may choose not to cut. If there is no shuffle, players who remember the previous deal may be able to estimate how the cards are distributed in the new deal.
+Avec le [Crash Online](https://crashcardgame.com/) d'Andy Black, vous pouvez apprendre Crash en jouant contre deux bots.
 
-Yogi or Chas
-In this version, in case of a tie for a point, the point is awarded to a fictional player known as Yogi (in Yorkshire) or Chas (in Lincolnshire). At the end of the game, anyone whose score is equal to or below Yogi/Chas's score has to pay the winner double. (This replaces the rule whereby a player with no points at all must pay double). If Yogi or Chas wins the game (having more points at the end than any of the real players), then everyone pays the cost of the game into a pool, which goes to the winner of the next game.
+## Brag à neuf cartes
 
-Resetting to zero
-In this variation, if a player declares six pairs or a thirteen card run from ace to king, the scores of the other three players are reduced to zero, while the score of the declaring player stays as it is. The cards are then thrown in and the next dealer deals. 
-A player who holds one of these hands might choose not to declare it but to play the cards instead. This will often be sensible if the other players have no points or very few points to lose - a thirteen card run can be played as four runs, some of which may be on the bounce, so it should bring in at least one point.
+Le Brag à neuf cartes peut être joué par jusqu'à cinq personnes. Tout le monde paie une mise au pot et neuf cartes sont distribuées à chaque joueur.
 
-No pairs
-In some places, a pair is not a valid hand. The lowest playable three-card hand is a flush.
+- Si quelqu'un a un carré, il le montre et le meilleur carré gagne le pot.
 
-### Software and Online Games
+- Si quelqu'un a quatre paires, il peut les montrer et « sauver la partie ». Personne ne gagne le pot, chaque joueur contribue une autre mise, et le joueur suivant donne.
 
-With Andy Black's [Crash Online](https://crashcardgame.com/) you can learn Crash by playing against two bots. It is free to play in your browser - no download and no account required.
+Si personne ne déclare de carré ou de quatre paires, chaque joueur divise ses neuf cartes en trois mains de Brag à 3 cartes, plaçant la plus haute face cachée à sa gauche, la plus basse à sa droite et la main du milieu entre les deux. Les mains de gauche sont exposées en premier. Celui qui a la meilleure main de gauche expose les mains du milieu, et celui qui a la meilleure de celles-ci expose les mains de droite.
 
-## Nine Card Brag
+Pour gagner le pot, un joueur doit gagner au moins deux des trois mains. Si trois joueurs gagnent une main chacun, la partie est « sauvée » — c'est-à-dire que le pot est reporté à la donne suivante.
 
-Nine Card Brag can be played by up to five people. Everyone pays a stake to the pool and nine cards are dealt to each player. 
+### Variantes du Brag à neuf cartes
 
-- If anyone has four of a kind, they show it and the best four of a kind wins the pot. 
+Beaucoup jouent que le pot n'est gagné que si un seul joueur gagne ou fait au moins égalité dans les trois mains.
 
-- If anyone has four pairs, they can show them and "save the game". No one wins the pot, each player contributes another stake to it, and the next player deals.
-Winning the pot with four of a kind has priority over saving the game with four pairs. 
+Certains jouent qu'un brelan de trois ou de sept, plutôt que de neuf, est le plus haut.
 
-If no one declares four of a kind or four pairs, each player divides their nine cards into three three-card Brag hands, placing the highest of these face down to their left, the lowest to their right and the middle hand between them. The left hands are exposed first, beginning with the player to dealer's left. Whoever has the best left hand begins exposing the middle hands, and whoever has the best of these begins exposing the right hands. Hands are always exposed in turn, going clockwise around the table. If there is a tie for best hand in any of the three rounds, the player who was first to expose the best hand wins that hand and is first to expose the next hand.
+### Brag à six cartes
 
-The ranking of Brag hands is as listed below, except that most play that the highest prial or is a set of nines, second is a set of aces, and other prials follow in the natural order: kings, queens, jacks, 10s, 8s, 7s, 6s, 5s, 4s, 3s, 2s. Fours of a kind rank in the same order as prials.
+Tout le monde contribue une mise convenue au pot, et le donneur distribue 6 cartes à chaque joueur, une à la fois. Si quelqu'un a quatre cartes de même hauteur, il le déclare immédiatement et le meilleur carré gagne.
 
-A set of three cards which are not a run, flush or pair can also be played as a hand, and if all players play this, the highest card wins (if two or more people have the same highest card, the second highest card is compared, and if these are also equal, the third card).
+Si personne n'a de carré, chaque joueur divise ses six cartes en deux mains de Brag à 3 cartes, les plaçant faces cachées sur la table avec la plus haute à gauche et la plus basse à droite. Le joueur à la gauche du donneur commence par exposer sa main de gauche. Les autres joueurs à leur tour passent ou exposent leur main de gauche. Celui qui a la meilleure main de gauche expose sa main de droite. Les autres joueurs font de même ou passent.
 
-To win the pot, a player must win at least two of the three hands. If three players win one hand each, the game is "saved" - that is, the pot is carried over to the next deal, and each player must contribute a further stake to it.
+Si un joueur a la meilleure main de gauche et la meilleure main de droite, ou gagne l'une et fait égalité sur l'autre, ou fait égalité pour la meilleure avec les deux mains, ce joueur gagne le pot. Sinon, personne ne gagne, et le pot est reporté à la donne suivante.
 
-### Variations of Nine-Card Brag
+**Variante :** certains jouent qu'une quinte flush à six cartes — par exemple 3-4-5-6-7-8-9 d'une même couleur — bat le carré.
 
-Many play that the pot is only won if a single player wins or at least ties all three hands. In this version the order in which the hands are exposed is not significant. If the same players tie as winners of all three hands, or if no player is best or equal best in all three hands, no one wins and the pot is carried forward to the next deal, everyone adding another stake.
+## Brag à sept cartes
 
-Some play that a prial of threes or a prial of sevens, rather than nines, is highest.
+Ce jeu est le même que le Brag à six cartes, sauf pour les points suivants.
 
-Some play that after looking at his hand, the dealer can decide to deal a tenth card to each player. Each player must then discard one card and the play proceeds as usual. This gives the dealer a slight advantage, in that the other players have no say over whether the tenth card is dealt.
+- Sept cartes sont distribuées à chaque joueur.
 
-Some play that if you consider you have no chance of winning you can call a "bum deal" and "pack" (i.e. throw in) your cards - this has no real effect on the game - the others play as usual, and you are entitled to play your cards rather than packing, however bad they are.
+- Si personne n'a de carré, chaque joueur défausse une carte face cachée avant de diviser les six restantes en une main de gauche et une main de droite.
 
-Some play that four pairs have priority over four of a kind.
+- Le meilleur brelan ou carré est un ensemble de sept, les autres se classant dans leur ordre naturel — l'ordre de priorité pour les brelans et les carrés est 7-A-R-D-V-10-9-8-6-5-4-3-2.
 
-Some play that a **nine** card running flush beats four of a kind. 
+- Certains jouent qu'une **sept** cartes quinte flush bat le carré.
 
-Victor Wakefield reports a version in which two jokers are added to the pack, allowing six people to play. A joker can be used to represent a specific rank or a specific suit - so it can be used to make a prial or a run or a flush, but not a running flush. Between two otherwise equal hands, one made of natural cards beats one containing a joker. When used in a flush, the joker always counts as the lowest card of its suit - so for example ![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)4-joker beats ![heart](../images/internat/heart.gif)7-![heart](../images/internat/heart.gif)3-![heart](../images/internat/heart.gif)2, which in turn beats ![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)3-joker.
+## Hiérarchie des mains de Brag
 
-In the six player game with two jokers, all the cards are dealt, but it is still possible to play the variant where the dealer can deal a tenth card as follows. If a player calls a "bum deal", then the dealer may shuffle that player's cards and deal one each to the remaining five players. These players each discard a card and the discards along with the undealt cards of the bum deal hand can be taken by the player who called the bum deal and played as a hand.
+L'ordre des mains possibles de Brag à 3 cartes, du plus haut au plus bas, est le suivant.
 
-Some play that jokers are exactly equivalent to the card they substitute for - wild cards are not inferior to natural ones. So 10-9-8 and 10-joker-8 are equal hands the first exposed would win. Nevertheless, in this version, jokers cannot be used to claim the pot by making four of a kind - only a natural four of a kind wins outright.
+| Combinaison | Exemples | Explication |
+| Brelan | 3-3-3 A-A-A . . . 2-2-2 | « Brelan » est le nom au Brag pour un ensemble de trois cartes de même hauteur. Le meilleur est généralement un brelan de trois, les autres brelans suivent dans l'ordre de rang des cartes : A-A-A, R-R-R, D-D-D, etc. jusqu'à 2-2-2, trois deux étant le brelan le plus bas. |
+| Quinte flush | 3-2-A A-R-D . . . 4-3-2 | Une quinte flush est un ensemble de trois cartes consécutives de la même couleur. Une quinte est un ensemble de trois cartes consécutives de couleurs mélangées. Bien que l'as soit haut, A-2-3 compte comme une quinte valide. En fait, A-2-3 est la quinte ou quinte flush la plus haute, A-R-D d'une couleur est la deuxième plus haute, puis R-D-V, et ainsi de suite jusqu'à 4-3-2, qui est la plus basse. |
+| Quinte | 3-2-A A-R-D . . . 4-3-2 | |
+| Couleur | A-R-V . . . 5-3-2 | Une couleur se compose de trois cartes de la même couleur — pas toutes consécutives, sinon ce serait une quinte flush. Lors de la comparaison des couleurs, la carte la plus haute est comparée en premier, puis si elles sont égales la carte du milieu, et enfin si nécessaire la carte la plus basse. |
+| Paire | A-A-R . . . 2-2-3 | Une paire se compose de deux cartes de même hauteur. La troisième carte est d'un rang différent, sinon on aurait un brelan. Lors de la comparaison des paires, le rang de la paire est comparé en premier, et si ceux-ci sont égaux, la carte impair détermine laquelle est la plus haute. |
 
-Some play that declaring four pairs has priority over declaring four of a kind.
+Les éléments ci-dessus sont les seules mains de 3 cartes jouables dans Crash. Dans le Three Card Brag, il est aussi possible de jouer trois cartes sans rapport — des cartes qui ne sont pas consécutives, pas toutes de la même couleur et ne contenant pas de paire. Elles se classent selon leur carte la plus haute. L'exemple le plus élevé d'un ensemble sans rapport est ![pique](../images/internat/spade.gif)A-![pique](../images/internat/spade.gif)R-![cœur](../images/internat/heart.gif)V et le plus bas est ![trèfle](../images/internat/club.gif)5-![carreau](../images/internat/diamond.gif)3-![pique](../images/internat/spade.gif)2.
 
-Nine-Card Brag is sometimes played for points, rather than with a pot for each deal. In that case the points scored in each deal are as follows:
+Il n'y a **pas d'ordre des couleurs** au Brag, il est donc possible que deux mains soient de même rang — par exemple **![pique](../images/internat/spade.gif)7-![cœur](../images/internat/heart.gif)7-![trèfle](../images/internat/club.gif)D** est égal à **![trèfle](../images/internat/club.gif)7-![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)D**.
 
-- 3 points for 4 of a kind, or
-
-- 1 point for saving the game (4 pair), or
-
-- 4 points for winning all three 3-card hands, or
-
-- 1 point for each 3-card hand won (if no one wins all three)
-
-A target number of points is set, and the player who first reaches or passes the target wins the pot. Alternatively a time limit can be set after which a fixed number of deals is played, for example "last 4 deals" could be called at 7.30 pm. 
-
-In this game a player cannot win the pot by saving the game. If a player achieves the highest score by saving the game in the last deal, another deal must be played.
-
-In the point scoring version with a target score, some play that a player who has four of a kind can choose to peg six points or to set all the other players back six points.
-
-Some play with one pot for each hand plus a fourth (bonus) pot that accumulates until taken by a player who wins all three hands.
-
-## Six Card Brag
-
-Everyone contributes an agreed stake to the pot, and the dealer deals out 6 cards to each player, one at a time. If anyone has four cards of the same rank they declare this immediately and the best four of a kind wins.
-
-If no one has four of a kind, each player divides their six cards into two three-card Brag hands, placing them face-down on the table with the higher on the left and the lower on the right. The player to dealer's left begins by exposing his left hand. The other players in turn either pass or expose their left hands. Whoever has the best left hand (or the first of these if there is a tie) then exposes his right hand. The other players in turn do the same or pass.
-
-The ranking of Brag hands is as listed below, except that most play that the highest prial or is a set of sixes, second is a set of aces, and other prials follow in the natural order: kings, queens, jacks, 10s, 9s, 8s, 7s, 5s, 4s, 3s, 2s. Fours of a kind rank in the same order.
-
-A set of three cards which are not a run, flush or pair can also be played as a hand, and if all players play this, the highest card wins (if two or more people have the same highest card, the second highest card is compared, and if these are also equal, the third card).
-
-If one player has the highest left hand and the highest right hand, or wins one of these and ties the other, or ties for best with both hands, that player wins the pot. If the same two players tie for best left hand and for best right hand then they split the pot equally between them. In any other case, no one wins, and the pot is carried forward to the next deal, everyone adding another stake.
-
-**Variation:** some play that a six-card running flush - for example 3-4-5-6-7-8-9 of one suit - wins the hand, beating four of a kind.
-
-## Seven Card Brag
-
-This game is the same as Six Card Brag, except for the following.
-
-- Seven cards are dealt to each player.
-
-- If no one has four of a kind, each player discards one card face down before dividing the remaining six into a left hand and a right hand.
-
-- The highest prial or four of a kind is a set of sevens, others ranking in their natural order - so the order of precedence for prials and fours of a kind is 7-A-K-Q-J-10-9-8-6-5-4-3-2.
-
-- Some play that a **seven** card running flush beats four of a kind. 
-
-## Rank of Brag hands
-
-The order of the possible three-card Brag hands, from highest to lowest, is as follows.
-
-| Combination |    Examples    | Explanation |
-| Prial | 3-3-3A-A-A. . .2-2-2 | "Prial" - short for "pair royal" - is the name in Brag for a set of three cards of equal rank. The best is usually a prial of threes, though in some variations some other prial is best (this will be specified in the rules for the relevant game). The remaining prials follow in the rank order of the cards: A-A-A, K-K-K, Q-Q-Q, etc. down to 2-2-2, three twos being the lowest prial. |
-| Running flushorRun on the bounce | 3-2-AA-K-Q. . .4-3-2 | A running flush is a set of three consecutive cards of the same suit. A run is a set of three consecutive cards of mixed suits. Although the ace is high, A-2-3 counts as a valid run - or a valid running flush if all the cards are the same suit. In fact A-2-3 is the highest run or running flush, A-K-Q of a suit is the second highest, then K-Q-J, and so on down to 4-3-2, which is the lowest. 2-A-K is not a valid run or running flush.
-
-Any running flush beats any run with mixed suits - so for example 4-3-2 beats 3-2-A or A-K-Q. |
-| Run | 3-2-AA-K-Q. . .4-3-2 |
-| Flush | A-K-J. . .5-3-2 | A flush consists of three cards of the same suit - not all consecutive, or it would be a running flush. When comparing flushes, the highest card is compared first, then if these are equal the middle card, and finally if necessary the lowest. Therefore K-9-2 beats Q-10-5, which beats Q-10-3, which beats Q-9-8. |
-| Pair | A-A-K. . .2-2-3 | A pair consists of two cards of equal rank. The third card is of a different rank, otherwise you would have a prial. When comparing pairs, the rank of the pair is compared first, and if these are equal the odd card determines which is higher. So for example 9-9-3 beats 8-8-K, which beats 8-8-J. |
-
-The above are the only 3-card hands that are playable in Crash. In Three Card Brag, it is also possible to play three unmatched cards - cards that are not consecutive, not all of the same suit and contain no pair. These rank according to their highest card; if the highest cards of two hands are equal the second highest cards are compared, and if these are equal too then the third highest. So **J-6-3** beats **10-9-7**, which beats **10-9-6**. An example of the highest unmatched set is ![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)K-![heart](../images/internat/heart.gif)J and of the lowest is ![club](../images/internat/club.gif)5-![diamond](../images/internat/diamond.gif)3-![spade](../images/internat/spade.gif)2. These unmatched sets can be used in 6-card, 7-card and 9-card Brag, but not in Crash.
-
-There is **no order of suits** in Brag, so it is possible for two hands to be equal in rank - for example **![spade](../images/internat/spade.gif)7-![heart](../images/internat/heart.gif)7-![club](../images/internat/club.gif)Q** is equal to **![club](../images/internat/club.gif)7-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)Q**.
-
-Poker players should take care to note that a running flush ('straight flush') is beaten by a prial in this game, and that the 'run' and 'flush' in Brag rank in the opposite order to Poker.
-
-Home Page > Classified Index > Showdown games > Partition Games > Crash (13-card Brag)
+Les joueurs de poker doivent noter qu'une quinte flush (« straight flush ») est battue par un brelan dans ce jeu, et que la « quinte » et la « couleur » au Brag se classent dans l'ordre inverse du poker.

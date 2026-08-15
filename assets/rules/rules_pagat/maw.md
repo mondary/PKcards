@@ -2,12 +2,10 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the card game Maw - link to David Parlett's page ion this 16th century ancestor of the Irish games Spoil 5 and 25.
+**But :** Comment jouer au jeu de cartes Maw — lien vers la page de David Parlett sur cet ancêtre du XVIe siècle des jeux irlandais Spoil 5 et 25.
 
 ---
 
-This game, popular in 16th century Britain, is an ancestor of a group of games normally associated with Ireland and Irish communities abroad. The descendants include Spoil Five and a series of games named after the number of points required to win: 25, 45, 55, 110, 120.
+Ce jeu, populaire en Grande-Bretagne au XVIe siècle, est un ancêtre d'un groupe de jeux normalement associés à l'Irlande et aux communautés irlandaises à l'étranger. Les descendants incluent Spoil Five et une série de jeux nommés d'après le nombre de points nécessaires pour gagner : 25, 45, 55, 110, 120.
 
-Information about Maw can be found on [David Parlett's Maw page](https://www.parlettgames.uk/histocs/maw.html).
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Spoil Five Group > Maw
+Des informations sur Maw peuvent être trouvées sur la [page Maw de David Parlett](https://www.parlettgames.uk/histocs/maw.html).

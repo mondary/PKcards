@@ -1,270 +1,263 @@
-# Chinese Poker
+# Poker Chinois
 
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A card game in which each player divides their 13-card hand into three hands of 5, 5 and 3 cards, which are compared as poker hands.
+**But :** Un jeu de cartes dans lequel chaque joueur divise sa main de 13 cartes en trois mains de 5, 5 et 3 cartes, qui sont comparées comme des mains de poker.
 
 ---
 
-This page is based partly on information from Ka Lun, Anthony Horsley Sr, Don Smolen, Richard Dewhirst, Alan Ho, Brandon Bahti and several anonymous correspondents.
+Cette page est en partie basée sur des informations de Ka Lun, Anthony Horsley Sr, Don Smolen, Richard Dewhirst, Alan Ho, Brandon Bahti et plusieurs correspondants anonymes.
 
 ## Introduction
 
-This Chinese gambling game is popular in Hong Kong and parts of Southeast Asia and is also played to some extent in the USA. It is known by several different names.
+Ce jeu de hasard chinois est populaire à Hong Kong et dans certaines régions d'Asie du Sud-Est et se joue aussi dans une certaine mesure aux États-Unis. Il est connu sous plusieurs noms différents.
 
-- In Cantonese it is called Sap Sam Cheung (十三張), which means 13 cards, and in Vietnamese it is known by the similar name Xập Xám Chướng
-.
+- En cantonais, il est appelé Sap Sam Cheung (十三張), ce qui signifie 13 cartes, et en vietnamien il est connu sous le nom similaire de Xập Xám Chướng.
 
-- In Chinese, it is also sometimes called Luosong Pai Jiu (羅宋牌九), which I think means Russian Pai Gow. The game is indeed distantly related to Pai Gow.
+- En chinois, il est aussi parfois appelé Luosong Pai Jiu (羅宋牌九), ce que je pense signifie Pai Gow russe. Le jeu est en effet distantement apparenté au Pai Gow.
 
-- In the USA it is often known as Chinese Poker or sometimes Russian Poker, but note that some people also use the name Chinese Poker to refer to the climbing game Big Two. In Hawaii it is called Pepito.
+- Aux États-Unis, il est souvent connu sous le nom de Poker Chinois ou parfois Poker Russe, mais notez que certaines personnes utilisent aussi le nom de Poker Chinois pour désigner le jeu de montée Big Two. À Hawaï, on l'appelle Pepito.
 
-- In the Phillipines it is known as Pusoy, again not to be confused with Pusoy Dos, which is Big Two. Another name sometimes used is Good, Better, Best, referring to the three hands of a player.
+- Aux Philippines, il est connu sous le nom de Pusoy, à ne pas confondre avec Pusoy Dos, qui est Big Two. Un autre nom parfois utilisé est Good, Better, Best, faisant référence aux trois mains d'un joueur.
 
-The aim is to arrange your 13 cards into three poker hands - two of five cards and one of three cards - which will beat the corresponding poker hands made by the other players.
+Le but est d'arranger vos 13 cartes en trois mains de poker — deux de cinq cartes et une de trois cartes — qui battront les mains de poker correspondantes des autres joueurs.
 
-A recent development is Open Face Chinese Poker, in which after the first five cards, hands are built face up one card at a time.
+Un développement récent est le Open Face Chinese Poker, dans lequel après les cinq premières cartes, les mains sont construites face visible une carte à la fois.
 
-## Players, Cards, Stakes and Deal
+## Joueurs, cartes, mises et donne
 
-There are four players, each playing for themselves. A standard 52 card pack is used.
+Il y a quatre joueurs, chacun jouant pour soi-même. Un jeu standard de 52 cartes est utilisé.
 
-Before playing it is necessary to agree on a stake. Below I will describe the payments in terms of units; one unit can be worth whatever the players agree in advance - $1, $10, $100, etc.
+Avant de jouer, il est nécessaire de se mettre d'accord sur une mise. Ci-dessous, je décrirai les paiements en unités ; une unité peut valoir ce sur quoi les joueurs se sont mis d'accord à l'avance — 1 $, 10 $, 100 $, etc.
 
-The cards are shuffled, cut and dealt out singly: 13 cards to each player.
+Les cartes sont mélangées, coupées et distribuées une à une : 13 cartes à chaque joueur.
 
-## Arrangement of cards
+## Arrangement des cartes
 
-Each player must divide their 13 cards into a "back" hand of 5 cards, a "middle" hand of 5 cards and a "front" hand of 3 cards. Considered as poker hands, the back hand must be better than the middle hand, and the middle hand must be better than the front hand. The standard poker ranking is used - so the hand types from high to low are: royal flush, straight flush, four of a kind, full house, flush, straight, three of a kind, two pairs, one pair, high card (see the page on ranking of poker hands). There are no wild cards.
+Chaque joueur doit diviser ses 13 cartes en une main « arrière » de 5 cartes, une main « du milieu » de 5 cartes et une main « avant » de 3 cartes. Considérées comme des mains de poker, la main arrière doit être meilleure que la main du milieu, et la main du milieu doit être meilleure que la main avant. Le classement standard du poker est utilisé — donc les types de mains du plus haut au plus bas sont : quinte flush royale, quinte flush, carré, full, couleur, quinte, brelan, double paire, paire, carte haute (voir la page sur le classement des mains de poker). Il n'y a pas de cartes sauvages.
 
-Since the front hand has only 3 cards, only three hand types are possible: three of a kind; one pair; high card. There is no value in having a front hand with three consecutive cards or three cards of the same suit: "straights" or "flushes" in the front hand do not count.
+Puisque la main avant n'a que 3 cartes, seuls trois types de mains sont possibles : brelan ; paire ; carte haute. Il n'y a pas de valeur à avoir une main avant avec trois cartes consécutives ou trois cartes de la même couleur : les « quintes » ou « couleurs » dans la main avant ne comptent pas.
 
-Players place their three hands face down in front of them, the front hand nearest the centre of the table and the back hand nearest themselves.
+Les joueurs placent leurs trois mains face cachée devant eux, la main avant la plus proche du centre de la table et la main arrière la plus proche d'eux-mêmes.
 
-## Showdown and Scoring
+## Abattage et comptage des points
 
-When everyone is ready, all the players expose their three hands and each pair of players compares the corresponding hands. In the simplest system of payments, you win one unit for each corresponding hand of another player that you beat and lose one for unit each hand that beats you. When the hands are equal you neither win nor lose. Here is an example:
+Lorsque tout le monde est prêt, tous les joueurs exposent leurs trois mains et chaque paire de joueurs compare les mains correspondantes. Dans le système de paiement le plus simple, vous gagnez une unité pour chaque main correspondante d'un autre joueur que vous battez et vous perdez une unité pour chaque main qui vous bat. Lorsque les mains sont égales, vous ne gagnez ni ne perdez. Voici un exemple :
 
 ![chinese poker example hand](../images/partition/pusoy1.gif)
-The result would be as follows:
+Le résultat serait le suivant :
 
-| Players | frontwinner | middlewinner | backwinner | North | East | South | West |
-| North v East | North | North | North | +3 | -3 | | |
-| North v South | South | South | North | -1 | | +1 | |
-| North v West | North | North | West | +1 | | | -1 |
-| East v South | South | South | East | | -1 | +1 | |
-| East v West | East | West | West | | -1 | | +1 |
-| South v West | South | South | West | | | +1 | -1 |
+| Joueurs | avant\gagnant | milieu\gagnant | arrière\gagnant | Nord | Est | Sud | Ouest |
+| Nord vs Est | Nord | Nord | Nord | +3 | -3 | | |
+| Nord vs Sud | Sud | Sud | Nord | -1 | | +1 | |
+| Nord vs Ouest | Nord | Nord | Ouest | +1 | | | -1 |
+| Est vs Sud | Sud | Sud | Est | | -1 | +1 | |
+| Est vs Ouest | Est | Ouest | Ouest | | -1 | | +1 |
+| Sud vs Ouest | Sud | Sud | Ouest | | | +1 | -1 |
 | Total | | | | +3 | -5 | +3 | -1 |
 
-Notice that although West's back hand is the overall best hand (aces full), West loses on balance because of the weaker middle and front hands. East could have done slightly less badly by putting the sevens in the middle hand, which would then have beaten West. Notice also that it is not legal for East to put the jacks in the front hand, because it would then not be possible to make a middle hand that was better and a back hand that was better still from the remaining ten cards.
+Notez que bien que la main arrière d'Ouest soit la meilleure main globale (full d'As), Ouest perd en raison des mains du milieu et avant plus faibles. Est aurait pu s'en sortir un peu mieux en mettant les sept dans la main du milieu, qui aurait alors battu Ouest. Notez également qu'il n'est pas légal pour Est de mettre les valets dans la main avant, car il ne serait alors plus possible de faire une main du milieu qui soit meilleure et une main arrière qui soit encore meilleure à partir des dix cartes restantes.
 
-## Special Hands
+## Mains spéciales
 
-It is possible to play using just the payments described above. However, many players add two further features to the stakes: increased payments for certain hands, and some special 13-card hands that win automatically. If you are playing with these it is important to agree in advance exactly which ones are allowed and how much each is worth.
+Il est possible de jouer en utilisant uniquement les paiements décrits ci-dessus. Cependant, beaucoup de joueurs ajoutent deux autres éléments aux mises : des paiements accrus pour certaines mains, et quelques mains spéciales de 13 cartes qui gagnent automatiquement. Si vous jouez avec celles-ci, il est important de se mettre d'accord à l'avance sur celles qui sont autorisées et combien chacune vaut.
 
-A typical scale of increased payments is as follows:
+Une échelle typique de paiements accrus est la suivante :
 
-- If you win the front hand with three of a kind, you receive 3 units instead of 1 for that hand.
+- Si vous gagnez la main avant avec un brelan, vous recevez 3 unités au lieu de 1 pour cette main.
 
-- If you win the middle hand with a full house, you receive 2 units instead of 1 for that hand.
+- Si vous gagnez la main du milieu avec un full, vous recevez 2 unités au lieu de 1 pour cette main.
 
-- If you win the back (or middle) hand with 4 of a kind, you receive 4 units instead of 1.
+- Si vous gagnez la main arrière (ou du milieu) avec un carré, vous recevez 4 unités au lieu de 1.
 
-- If you win the back (or middle) hand with a royal flush or straight flush you win 5 units instead of 1.
+- Si vous gagnez la main arrière (ou du milieu) avec une quinte flush royale ou une quinte flush, vous gagnez 5 unités au lieu de 1.
 
-These bonuses only count for you for hands that you win. For example if A and B each have a 3 of a kind in front, but B's is higher, A will pay B 3 units for it. A's 3 of a kind will still count against the other players if it wins.
+Ces bonus ne comptent que pour vous pour les mains que vous gagnez. Par exemple, si A et B ont chacun un brelan à l'avant, mais que celui de B est plus élevé, A paiera 3 unités à B pour celle-ci. Le brelan de A comptera toujours contre les autres joueurs s'il gagne.
 
-Example: A has 6-6-6, 4-4-4-9-9, K-K-K-8-8 and B has Q-Q-7, J-J-J-2-2, 5-5-5-5-A. A wins 3 for the front hand, but B wins 2 for the middle and 4 for the back, so altogether A pays 3 units to B.
+Exemple : A a 6-6-6, 4-4-4-9-9, R-R-R-8-8 et B a D-D-7, V-V-V-2-2, 5-5-5-5-A. A gagne 3 pour la main avant, mais B gagne 2 pour le milieu et 4 pour l'arrière, donc au total A paie 3 unités à B.
 
-When special hands are allowed, the following 13-card hands win automatically against any ordinary hand, if declared before the hands are exposed. When two special hands come up against each other, the higher wins the full specified amount and the lower loses its value (though it can still win against the other players). After the special hands have been dealt with, the remaining players expose their cards and settle up among themselves in the normal way. A typical schedule of special hands, in ascending order, is:
+Lorsque des mains spéciales sont autorisées, les mains de 13 cartes suivantes gagnent automatiquement contre n'importe quelle main ordinaire, si elles sont déclarées avant que les mains ne soient exposées. Lorsque deux mains spéciales s'affrontent, la plus haute gagne le montant spécifié et la plus basse perd sa valeur (bien qu'elle puisse encore gagner contre les autres joueurs). Après que les mains spéciales ont été traitées, les joueurs restants exposent leurs cartes et se règlent entre eux de la manière habituelle. Un programme typique de mains spéciales, par ordre croissant, est :
 
-- Six pairs: a hand with six pairs and one odd card. When two players have six pair hands, compare the highest pair; if the highest pairs are equal compare the second highest pair, and so on. Win 3 units.
+- Six paires : une main avec six paires et une carte impaire. Lorsque deux joueurs ont des mains de six paires, on compare la paire la plus haute ; si les paires les plus hautes sont égales, on compare la deuxième paire la plus haute, et ainsi de suite. Gagne 3 unités.
 
-- Three straights: the back and middle hands are five card straights and the front hand is a three card straight (i.e. three cards of consecutive rank). If two players have three straights, compare the highest (back) straights first, then if these are equal the middle straights, and finally, if all else is equal, the front straight. Win 3 units.
+- Trois quintes : les mains arrière et du milieu sont des quintes de cinq cartes et la main avant est une quinte de trois cartes (c'est-à-dire trois cartes de rang consécutif). Si deux joueurs ont trois quintes, on compare d'abord les quintes (arrière) les plus hautes, puis si celles-ci sont égales les quintes du milieu, et enfin, si tout le reste est égal, la quinte avant. Gagne 3 unités.
 
-- Three flushes: the back and middle hands are flushes, and the front hand is a three-card flush (three cards of one suit). If two players have this, the player with the better back hand wins; if tied the better middle hand; if those are also tied, the better front hand. Win 3 units.
+- Trois couleurs : les mains arrière et du milieu sont des couleurs, et la main avant est une couleur de trois cartes (trois cartes d'une même couleur). Si deux joueurs ont cela, le joueur avec la meilleure main arrière gagne ; en cas d'égalité, la meilleure main du milieu ; si celles-ci sont aussi à égalité, la meilleure main avant. Gagne 3 unités.
 
-- Complete straight: the hand has one card of each rank: A-2-3-4-5-6-7-8-9-10-J-Q-K. Suits can be mixed. If two players have this, they are tied. Win 13 units.
+- Quinte complète : la main a une carte de chaque rang : A-2-3-4-5-6-7-8-9-10-V-D-R. Les couleurs peuvent être mélangées. Si deux joueurs ont cela, ils sont à égalité. Gagne 13 unités.
 
-A player who has a special hand can choose not to declare it, but instead to set three hands of 5, 5 and 3 cards in the normal way. This loses the right to an automatic win, but it may occasionally be possible to win more units in the normal settlement, when extra payments can be won.
+Un joueur qui a une main spéciale peut choisir de ne pas la déclarer, et de placer plutôt trois mains de 5, 5 et 3 cartes de la manière normale. Cela perd le droit à une victoire automatique, mais il peut parfois être possible de gagner plus d'unités lors du règlement normal, lorsque des paiements supplémentaires peuvent être obtenus.
 
-## Variations
+## Variantes
 
-There seem to be numerous variations in the way the payments are organised. Here are the ones I have so far discovered.
+Il semble y avoir de nombreuses variantes dans la façon dont les paiements sont organisés. Voici celles que j'ai découvertes jusqu'à présent.
 
-Playing against the house
-One player, probably the dealer, is the house (bank, casino). The other players compare their hands with the house, but not with each other, and pay or receive accordingly. When an individual hand is tied, the house wins it.
+Jouer contre la maison
+Un joueur, probablement le donneur, est la maison (banque, casino). Les autres joueurs comparent leurs mains avec la maison, mais pas entre eux, et paient ou reçoivent en conséquence. Lorsqu'une main individuelle est à égalité, la maison la gagne.
 
-Extra payment for sweep
-Some play that a player who wins all three hands against another player is paid an extra 1 unit (or sometimes 3 units) for a sweep.
-Higher payment in the middle
-Some play that winning with four of a kind or a straight flush in the middle is worth an extra point, so 5 in the middle or 4 at the back for quads and 6 in the middle or 5 at the back for a straight flush.
+Paiement supplémentaire pour un balayage
+Certains jouent qu'un joueur qui gagne les trois mains contre un autre joueur reçoit un supplément de 1 unité (ou parfois 3 unités) pour un balayage.
+Paiement plus élevé au milieu
+Certains jouent que gagner avec un carré ou une quinte flush au milieu vaut un point supplémentaire, donc 5 au milieu ou 4 à l'arrière pour le carré et 6 au milieu ou 5 à l'arrière pour la quinte flush.
 
-The overall point
-Some play that between each pair of players, the net winner wins one additional unit - the overall point. This makes it more important to try to win two hands out of three whenever possible. If playing with extra payments for straight flush, quads, etc., these are taken into account in deciding who gets the overall point.
-Single winner
-Anthony Horsley Sr reports a version of Pusoy played in the Philippines in which apparently there is just one winner of each deal. In order to win, you have to beat each of the other players on at least two out of three hands. Presumably if no one achieves this, no one wins.
+Le point global
+Certains jouent qu'entre chaque paire de joueurs, le gagnant net gagne une unité supplémentaire — le point global. Cela rend plus important d'essayer de gagner deux mains sur trois autant que possible. Si on joue avec des paiements supplémentaires pour les quintes flush, les carrés, etc., ceux-ci sont pris en compte pour décider qui obtient le point global.
+Gagnant unique
+Anthony Horsley Sr rapporte une version de Pusoy jouée aux Philippines dans laquelle il n'y a apparemment qu'un seul gagnant à chaque donne. Pour gagner, vous devez battre chacun des autres joueurs sur au moins deux des trois mains. Presumably, si personne n'y parvient, personne ne gagne.
 
-Extra payments counted for losing hands
-Some play that instead of the increased payments for certain types of winning hand, the following extra payments count, irrespective of whether the hand in question wins or loses:
+Paiements supplémentaires comptés pour les mains perdantes
+Certains jouent qu'au lieu des paiements accrus pour certains types de mains gagnantes, les paiements supplémentaires suivants comptent, indépendamment du fait que la main en question gagne ou perde :
 
-- Three of a kind in the front hand: 2 extra units
+- Brelan dans la main avant : 2 unités supplémentaires
 
-- Full house in the middle hand: 1 extra unit
+- Full dans la main du milieu : 1 unité supplémentaire
 
-- Four of a kind in the back or middle hand: 3 extra units
+- Carré dans la main arrière ou du milieu : 3 unités supplémentaires
 
-- Straight or royal flush in the back or middle hand: 4 extra units
+- Quinte ou quinte flush royale dans la main arrière ou du milieu : 4 unités supplémentaires
 
-This variation is often combined with the overall point variation above.
+Cette variante est souvent combinée avec la variante du point global ci-dessus.
 
-Surrender
-Some play that a player with a poor hand can surrender before the hands are exposed. If you surrender, you pay each of the other players as though you had lost two out of three hands - one unit each, or two units each if you play the version with the overall point. If playing with a banker, then of course a surrendering player just pays the banker, and a surrendering banker pays each of the players.
-Winning from a pool
-Some play that each player contributes 3 units to a pool before the deal. Instead of comparing the hands between pairs of players, whichever of the four players has the best front hand collects 4 units, the player with the best middle hand collects 4 units, and the player with the best back hand collects 4 units. Some play that if one player wins all three hands, the collect the whole pool and each of the other players has to pay them an additional 3 units.
-No pictures
-I have been told that some people regard a hand containing no pictures as a special hand giving an automatic win, but I don't know how many units it is worth or how it ranks with respect to the other special hands.
-Malayan Sap Sam Cheung
-In his book "Gambling Games of Malaya", C.T.Dobree describes a version of Sap Sam Cheung in which three players play against the bank. The bank wins ties on individual hands as usual. Extra payments count irrespective of whether the hand wins or loses, as follows:
+Abandon
+Certains jouent qu'un joueur avec une mauvaise main peut abandonner avant que les mains ne soient exposées. Si vous abandonnez, vous payez à chacun des autres joueurs comme si vous aviez perdu deux mains sur trois — une unité chacun, ou deux unités chacun si vous jouez la version avec le point global. Si vous jouez avec un banquier, alors un joueur qui abandonne paie simplement le banquier, et un banquier qui abandonne paie chacun des joueurs.
+Gain à partir d'un pot
+Certains jouent que chaque joueur contribue 3 unités à un pot avant la donne. Au lieu de comparer les mains entre les paires de joueurs, celui des quatre joueurs qui a la meilleure main avant collecte 4 unités, le joueur avec la meilleure main du milieu collecte 4 unités, et le joueur avec la meilleure main arrière collecte 4 unités. Certains jouent que si un joueur gagne les trois mains, il collecte tout le pot et chacun des autres joueurs doit lui payer un supplément de 3 unités.
+Sans figures
+On m'a dit que certaines personnes considèrent une main ne contenant aucune figure comme une main spéciale donnant une victoire automatique, mais je ne sais pas combien d'unités elle vaut ni comment elle se classe par rapport aux autres mains spéciales.
+Sap Sam Cheung malais
+Dans son livre « Gambling Games of Malaya », C.T. Dobree décrit une version de Sap Sam Cheung dans laquelle trois joueurs jouent contre la banque. La banque gagne les égalités sur les mains individuelles comme d'habitude. Les paiements supplémentaires comptent indépendamment du fait que la main gagne ou perd, comme suit :
 
-- Three of a kind in the front hand: 2 extra units
+- Brelan dans la main avant : 2 unités supplémentaires
 
-- Full house in the middle hand: 2 extra units
+- Full dans la main du milieu : 2 unités supplémentaires
 
-- Four of a kind in the back hand: 4 extra units
+- Carré dans la main arrière : 4 unités supplémentaires
 
-- Four of a kind in the middle hand: 6 extra units
+- Carré dans la main du milieu : 6 unités supplémentaires
 
-- Straight or royal flush in the back hand: 6 extra units
+- Quinte ou quinte flush royale dans la main arrière : 6 unités supplémentaires
 
-- Straight or royal flush in the middle hand: 8 extra units
+- Quinte ou quinte flush royale dans la main du milieu : 8 unités supplémentaires
 
-The special hands, in ascending order, are:
+Les mains spéciales, par ordre croissant, sont :
 
-- Three flushes: 3 units
+- Trois couleurs : 3 unités
 
-- Three straights: 4 units
+- Trois quintes : 4 unités
 
-- Six and a half pairs: 4 units
+- Six paires et demie : 4 unités
 
-- Five pairs and one three of a kind: 5 units
+- Cinq paires et un brelan : 5 unités
 
-- Four threes of a kind and an odd card: 6 units
+- Quatre brelans et une carte impaire : 6 unités
 
-- All cards are the same colour: 10 points
+- Toutes les cartes de la même couleur : 10 points
 
-- Small: all cards are 2, 3, 4, 5, 6, 7, 8: 10 points
+- Petite : toutes les cartes sont 2, 3, 4, 5, 6, 7, 8 : 10 points
 
-- Big: all cards are 8, 9, 10, J, Q, K, A: 10 points
+- Grande : toutes les cartes sont 8, 9, 10, V, D, R, A : 10 points
 
-- Three fours of a kind and one odd card: 16 units
+- Trois carrés et une carte impaire : 16 unités
 
-- Three straight flushes: 18 units
+- Trois quintes flush : 18 unités
 
-- All 12 picture cards plus any 13th card: 18 units
+- Les 12 figures plus n'importe quelle 13e carte : 18 unités
 
-- All thirteen cards of one suit: 26 units
+- Les treize cartes d'une même couleur : 26 unités
 
-A special hand, if declared before the cards are exposed, beats any normal hand and wins the number of units specified in the table (a player wins from the bank, or the bank wins from all players). If the bank and a player both have special hands, the holder of the higher scoring hand wins the difference between their values.
+Une main spéciale, si elle est déclarée avant que les cartes ne soient exposées, bat n'importe quelle main normale et gagne le nombre d'unités spécifié dans le tableau (un joueur gagne contre la banque, ou la banque gagne contre tous les joueurs). Si la banque et un joueur ont tous les deux des mains spéciales, le détenteur de la main la plus élevée gagne la différence entre leurs valeurs.
 
-Vietnamese Version
-Phong Le gives the special scores for the Vietnamese game Xập Xám as follows:
+Version vietnamienne
+Phong Le donne les scores spéciaux pour le jeu vietnamien Xập Xám comme suit :
 
-- Three of a kind in front: 3 units instead of 1
+- Brelan à l'avant : 3 unités au lieu de 1
 
-- Full house in the middle: 2 units instead of 1
+- Full au milieu : 2 unités au lieu de 1
 
-- Four of a kind at the back: 4 units; in the middle: 8 units
+- Carré à l'arrière : 4 unités ; au milieu : 8 unités
 
-- Straight flush at the back: 5 units; in the middle: 10 units 
-Some play that a player who wins all three hands against one opponent is 
-paid double; a player who wins all three hands against all opponents is paid triple.
-The scores for special hands are:
+- Quinte flush à l'arrière : 5 unités ; au milieu : 10 unités
 
-- Three straights: 3 units
+Certains jouent qu'un joueur qui gagne les trois mains contre un adversaire est payé double ; un joueur qui gagne les trois mains contre tous les adversaires est payé triple.
+Les scores pour les mains spéciales sont :
 
-- Three flushes: 3 units
+- Trois quintes : 3 unités
 
-- Six pairs: 3 units
+- Trois couleurs : 3 unités
 
-- Five pairs and one triplet: 6 units
+- Six paires : 3 unités
 
-- Complete straight A to K with mixed suits: 13 units; if all 13 cards are of one 
-suit: 26 units.
+- Cinq paires et un brelan : 6 unités
 
-I am told that in some places there is the tradition that if anyone is dealt a complete suit of 13 cards, all those present, 
-including both players and non-players who may be watching the game, have to empty their pockets and give all their money 
-to the winner. 
+- Quinte complète de A à R avec couleurs mélangées : 13 unités ; si les 13 cartes sont d'une seule couleur : 26 unités.
 
-Singapore Version
-Alan Ho describes a version played in Singapore. 
-The special 13-card hands are known as **Claims**. The 13-card straight is known as a **Dragon** (Yi Tiao Long: 一条龙) and wins 13 units (or according to some players 26 units). Six and a half pairs, three straights, or three flushes each worth 3 units as usual. There is an additional hand called "**small cards"**, in which all 13 cards must be in the range 2 to 9 (or according to some players 2 to 10): this also wins 3 units from each opponent.
-If two of these 3-point special hands come up against each other, neither player pays the other. However a Dragon beats any other hand and is paid the full 13 (or 26) units.
-The payments for winning with strong hands in front, middle and back are:
+On me dit que dans certains endroits, il y a la tradition que si quelqu'un reçoit une couleur complète de 13 cartes, tous les présents, y compris les joueurs et les non-joueurs qui regardent la partie, doivent vider leurs poches et donner tout leur argent au gagnant.
 
-- **Three of a kind** in front: 3 units instead of 1
+Version de Singapour
+Alan Ho décrit une version jouée à Singapour.
+Les mains spéciales de 13 cartes sont appelées **Claims**. La quinte de 13 cartes est appelée **Dragon** (Yi Tiao Long : 一条龙) et rapporte 13 unités (ou selon certains joueurs 26 unités). Six paires et demie, trois quintes ou trois couleurs valent chacune 3 unités comme d'habitude. Il existe une main supplémentaire appelée « **petites cartes** », dans laquelle les 13 cartes doivent toutes être dans la plage de 2 à 9 (ou selon certains joueurs de 2 à 10) : cela rapporte également 3 unités de chaque adversaire.
+Si deux de ces mains spéciales à 3 points s'affrontent, aucun des deux joueurs ne paie l'autre. Cependant, un Dragon bat n'importe quelle autre main et rapporte les 13 (ou 26) unités complètes.
+Les paiements pour gagner avec des mains fortes à l'avant, au milieu et à l'arrière sont :
 
-- **Full house** in the middle: 2 units instead of 1
+- **Brelan** à l'avant : 3 unités au lieu de 1
 
-- **Four of a kind** at the back: 4 units; in the middle: 8 units
+- **Full** au milieu : 2 unités au lieu de 1
 
-- **Straight flush** at the back 7 units; in the middle: 14 units 
+- **Carré** à l'arrière : 4 unités ; au milieu : 8 unités
 
-Some play that a player who wins all three hands against all opponents is paid double - that is 6 points each instead of 3, assuming that no special hands are involved.
-Some play that if no one is willing to deal, the player who held the Ace of Spades must deal the next hand, and is paid 1 unit compensation by each opponent for this extra work.
+- **Quinte flush** à l'arrière : 7 unités ; au milieu : 14 unités
 
-Hawaiian Gardens Casino version
-Brandon Bahti describes a version played at the Hawaiian 
-Gardens Casino in California. The special 13-card hands are:
+Certains jouent qu'un joueur qui gagne les trois mains contre tous les adversaires est payé double — c'est-à-dire 6 points chacun au lieu de 3, en supposant qu'aucune main spéciale ne soit impliquée.
+Certains jouent que si personne ne veut donner, le joueur qui avait l'As de pique doit donner la main suivante, et est payé 1 unité de compensation par chaque adversaire pour ce travail supplémentaire.
 
-- **Three straights**: 4 units
+Version du casino Hawaiian Gardens
+Brandon Bahti décrit une version jouée au casino Hawaiian Gardens en Californie. Les mains spéciales de 13 cartes sont :
 
-- **Three flushes**: 4 units
+- **Trois quintes** : 4 unités
 
-- **12 red cards and 1 black **or** 12 black and 1 red**: 4 units
+- **Trois couleurs** : 4 unités
 
-- **All black** or **all red**: 6 units
+- **12 cartes rouges et 1 noire** ou **12 noires et 1 rouge** : 4 unités
 
-- **Six pairs**: 4 units
+- **Toutes noires** ou **toutes rouges** : 6 unités
 
-- **Complete straight** A to K with mixed suits: 13 units
+- **Six paires** : 4 unités
 
-- **All 13 cards of one suit**: 39 units
+- **Quinte complète** de A à R avec couleurs mélangées : 13 unités
 
-If two special hands come up against each other, the holder of the lower valued hand pays the difference (if they are equal there is no payment between these two players).
-A player wins two out of three hands against an opponent receives 1 unit from that opponent. For winning all three hands the payment is 6 units. A player who wins all three hands against every other player is paid 9 units (instead of 6) by each. For winning with particular hands in particular positions there are **additional** payments as follows:
+- **Les 13 cartes d'une même couleur** : 39 unités
 
-- **Straight flush**: 5 units at the back; 10 units in the middle
+Si deux mains spéciales s'affrontent, le détenteur de la main de moindre valeur paie la différence (si elles sont égales, il n'y a pas de paiement entre ces deux joueurs).
+Un joueur qui gagne deux mains sur trois contre un adversaire reçoit 1 unité de cet adversaire. Pour avoir gagné les trois mains, le paiement est de 6 unités. Un joueur qui gagne les trois mains contre chaque autre joueur est payé 9 unités (au lieu de 6) par chacun. Pour gagner avec des mains particulières à des positions particulières, il y a des paiements **supplémentaires** comme suit :
 
-- **Four of a kind**: 4 units at the back; 8 units in the middle
+- **Quinte flush** : 5 unités à l'arrière ; 10 unités au milieu
 
-- **Full house**: 2 units in the middle
+- **Carré** : 4 unités à l'arrière ; 8 unités au milieu
 
-- **Three of a kind**: 3 units at the front
+- **Full** : 2 unités au milieu
 
-A player who surrenders pays 3 units to each opponent. 
+- **Brelan** : 3 unités à l'avant
 
-Some play with an extra side bet on the number of aces held. One aces is worth 1, two aces 2, three aces 6, four aces 8. Between two players, the player with fewer aces pays the difference in units, in addition to the payments for the Chinese Poker game.
+Un joueur qui abandonne paie 3 unités à chaque adversaire.
 
-Payments are made in chips and it is not possible to win or lose more chips than you had in front of you at the start of the deal. Settlement is in clockwise order staring with the dealer. Any 13-card special hands are settled first, followed by all other payments. Specifically, if the players in clockwise order are A (dealer), B, C, D then settlements are made in the order A vs B, A vs C, A vs D, B vs C, B vs D, C vs D. **Example:** A starts with only 8 chips. A wins all three hands against B and loses all three against C. B pays A 6 chips, but A pays only 2 chips to C, because each chip is either doubled or lost, and A's first 6 chips have already been "used" to justify the win from B. Therefore A ends up with 8+6-2=12 chips. A neither pays to nor receives from D since the transactions with B and C have already accounted for all A's chips. Players can buy additional chips from the house after the settlement and before the next deal.
+Certains jouent avec un pari annexe supplémentaire sur le nombre d'As détenus. Un As vaut 1, deux As 2, trois As 6, quatre As 8. Entre deux joueurs, le joueur avec le moins d'As paie la différence en unités, en plus des paiements du jeu de poker chinois.
 
-The casino takes a fixed rake per hand, and part of this is used to build jackpots that are offered for certain unusual events - for example when a player has a straight flush, three of a kind, and a pair and loses all three hands to another player.
+Les paiements sont effectués en jetons et il n'est pas possible de gagner ou de perdre plus de jetons que vous n'en aviez devant vous au début de la donne. Le règlement se fait dans l'ordre horaire en commençant par le donneur. Toutes les mains spéciales de 13 cartes sont réglées en premier, suivies de tous les autres paiements. Spécifiquement, si les joueurs dans l'ordre horaire sont A (donneur), B, C, D, les règlements sont faits dans l'ordre A vs B, A vs C, A vs D, B vs C, B vs D, C vs D. **Exemple :** A commence avec seulement 8 jetons. A gagne les trois mains contre B et perd les trois contre C. B paie 6 jetons à A, mais A ne paie que 2 jetons à C, car chaque jeton est soit doublé soit perdu, et les 6 premiers jetons de A ont déjà été « utilisés » pour justifier le gain contre B. Par conséquent, A termine avec 8+6-2=12 jetons. A ne paie ni ne reçoit de D puisque les transactions avec B et C ont déjà comptabilisé tous les jetons de A. Les joueurs peuvent acheter des jetons supplémentaires à la maison après le règlement et avant la donne suivante.
+
+Le casino prélève un rake fixe par main, et une partie en est utilisée pour constituer des jackpots qui sont offerts pour certains événements inhabituels — par exemple lorsqu'un joueur a une quinte flush, un brelan et une paire et perd les trois mains contre un autre joueur.
 
 Open Face Chinese Poker
-This variant, which became popular worldwide in 2012, is now described on a separate page.
+Cette variante, devenue populaire dans le monde entier en 2012, est maintenant décrite sur une page séparée.
 
-## Other Chinese Poker web pages
+## Autres pages web sur le poker chinois
 
-Further information can be found on Don Smolen's [Chinese Poker page](https://web.archive.org/web/20200716100016/http://www.thesmolens.com/chinese/) (archive copy). From there you can also order his excellent book on the tactics of this game, and obtain his CPOKER computer program.
+On peut trouver davantage d'informations sur la [page Chinese Poker de Don Smolen](https://web.archive.org/web/20200716100016/http://www.thesmolens.com/chinese/) (copie archive). À partir de là, vous pouvez aussi commander son excellent livre sur la tactique de ce jeu, et obtenir son programme informatique CPOKER.
 
-Rules for a version of Chinese Poker can also be found under the name [Pusoy](https://web.archive.org/web/20151204221506/www.bicyclecards.ca/game-rules/pusoy--piat-piat--pepito-/65.php?page_id=32) on this archive copy the Bicycle Cards web site.
+Les règles d'une version du poker chinois peuvent aussi être trouvées sous le nom de [Pusoy](https://web.archive.org/web/20151204221506/www.bicyclecards.ca/game-rules/pusoy--piat-piat--pepito-/65.php?page_id=32) sur cette copie archive du site web de Bicycle Cards.
 
-Rules for Chinese Poker can also be found at the [Asian Games Site vinagames.com](https://www.vinagames.com), where it is possible to play Chinese Poker on line.
+Les règles du poker chinois peuvent aussi être trouvées sur le [site de jeux asiatiques vinagames.com](https://www.vinagames.com), où il est possible de jouer au poker chinois en ligne.
 
-## Playing Chinese Poker Online
+## Jouer au poker chinois en ligne
 
-With Phong Le's [Chinese Poker Analyser](https://www.nlsim.com/xapxam/xapxam.html) you can compare the power of alternative divisions of 13 cards into three hands, and play Chinese Poker (Xap Xam) against one, two or three computer players.
-
-Home Page > Classified Index > Showdown games > Partition Games > Chinese Poker
+Avec l'[analyseur de poker chinois de Phong Le](https://www.nlsim.com/xapxam/xapxam.html), vous pouvez comparer la puissance de différentes divisions de 13 cartes en trois mains, et jouer au poker chinois (Xap Xam) contre un, deux ou trois joueurs informatiques.

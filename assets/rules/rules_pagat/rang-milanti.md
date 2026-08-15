@@ -2,32 +2,30 @@
 
 **Difficulté :** —
 **Type :** Bataille, Bataille
-**But :** A Bengali children's game in which the play pile is captured by matching the suit of the previous card.
+**But :** Un jeu d'enfants bengali dans lequel le tas de jeu est capturé en associant la couleur de la carte précédente.
 
 ---
 
 ## Introduction
 
-Rang Milanti is a children's game from Bengal - that is the region consisting of Bangladesh and the Indian states of West Bengal, Assam and Tripura. It is loosely realted to the Western game War. Its name means 'suit matching'. It is said that it was originally devised to be played with the cards that were removed from standard packs by adults playing the popular Indian card game Twenty-Nine which uses only 32 of the 52 cards. The unused cards were the 2-6 of each suit and two such remainders were put together to make a 40-card pack with 10 cards of each suit. In this game only the suits of the cards matter, not the rank, and nowadays Rang Milanti is usually played with a full standard international pattern 52-card pack, or two such packs mixed together if there is a large number of players. Typically it is the first card game that Bengali children learn to play.
+Rang Milanti est un jeu d'enfants du Bengale — c'est-à-dire la région comprenant le Bangladesh et les États indiens du Bengale occidental, de l'Assam et du Tripura. Il est vaguement apparenté au jeu occidental Bataille. Son nom signifie « association de couleurs ». On dit qu'il a été inventé à l'origine pour être joué avec les cartes retirées des jeux standard par les adultes jouant au populaire jeu de cartes indien Vingt-Neuf, qui n'utilise que 32 des 52 cartes. Les cartes inutilisées étaient le 2 à 6 de chaque couleur, et deux tels restes étaient réunis pour former un jeu de 40 cartes avec 10 cartes de chaque couleur. Dans ce jeu, seules les couleurs des cartes comptent, pas le rang, et de nos jours Rang Milanti se joue généralement avec un jeu standard international complet de 52 cartes, ou deux jeux mélangés s'il y a beaucoup de joueurs. C'est typiquement le premier jeu de cartes que les enfants bengalis apprennent à jouer.
 
-*I am grateful to Sarthak Das for explaining this game to me.*
+*Je suis reconnaissant à Sarthak Das de m'avoir expliqué ce jeu.*
 
-## Deal
+## Distribution
 
-All the cards are dealt out equally to the players. If the cards do not divide equally any left over cards (if total cards don’t divide evenly) are stacked face up in the centre to begin the **play pile**. Each player holds their own cards as a face-down **deck**.
+Toutes les cartes sont distribuées équitablement aux joueurs. Si les cartes ne se divisent pas équitablement, les cartes restantes sont empilées face visible au centre pour commencer le **tas de jeu**. Chaque joueur conserve ses propres cartes comme un **jeu** face en bas.
 
-## Play
+## Jeu
 
-Turn order is anti-clockwise, starting with the dealer. On your turn you reveal the top card of your face-down deck and place it face up in the centre, on top of the play pile. 
+L'ordre de jeu est dans le sens antihoraire, en commençant par le donneur. À votre tour, vous révélez la carte du dessus de votre jeu face en bas et la placez face visible au centre, sur le tas de jeu.
 
-- If your card matches the suit of the previous top card, you collect the entire play pile, placing it aside face down as your **collected pile**. You then get another turn immediately, reveal your next card and place it face up in the centre to begin a new play pile.. 
+- Si votre carte correspond à la couleur de la carte précédente du dessus, vous collectez tout le tas de jeu, le plaçant de côté face en bas comme votre **tas collecté**. Vous obtenez alors un tour supplémentaire immédiatement, révélez votre carte suivante et la placez face visible au centre pour commencer un nouveau tas de jeu.
 
-- If the suit of the card doesn’t match, your card remains on top of the play pile and the turn passes to the next player om your right.
+- Si la couleur de la carte ne correspond pas, votre carte reste sur le dessus du tas de jeu et le tour passe au joueur suivant à votre droite.
 
-If at any point your deck runs out, you reshuffle your collected pile to form a new personal deck and continue. If you have no collected pile, you are eliminated and the other players continue without you, skipping your turn.
+Si à un moment donné votre jeu est épuisé, vous mélangez votre tas collecté pour former un nouveau jeu personnel et continuez. Si vous n'avez pas de tas collecté, vous êtes éliminé et les autres joueurs continuent sans vous, en sautant votre tour.
 
-## End of Game
+## Fin de partie
 
-The game continues until one player remains, having eliminated all others and amassing all the cards. This player is declared the winner. 
-
-Home Page > Classified Index > War group > Rang Milanti
+Le jeu continue jusqu'à ce qu'un seul joueur reste, ayant éliminé tous les autres et amassé toutes les cartes. Ce joueur est déclaré vainqueur.

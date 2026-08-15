@@ -2,94 +2,92 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A stops game with a 40-card pack using a staking board, in which the Jack of clubs (Pamfíll) is wild.
+**But :** Un jeu d'arrêt avec un jeu de 40 cartes utilisant un plateau de paris, dans lequel le valet de trèfle (Pamfíll) est joker.
 
 ---
 
-*This description was contributed by Robert Kissel.*
+*Cette description a été contribuée par Robert Kissel.*
 
-Púkk is the Icelandic reflex of the Poch family of games, which are of some antiquity. It is suitable for a relaxing evening of conversation with friends and family, and is best played by five, six or seven players.
+Púkk est la variante islandaise de la famille de jeux de Poch, qui remonte à une certaine antiquité. Il convient à une soirée détendue de conversation entre amis et en famille, et se joue au mieux à cinq, six ou sept joueurs.
 
-## Equipment
+## Matériel
 
-A pack of 40 cards is used, consisting of four suits: Clubs, Diamonds, Hearts, and Spades. The cards in each suit rank: 5 (low), 6, 7, 8, 9, 10, Jack, Queen, King, and Ace (high). In addition, one needs a Púkk betting layout. This consists of a mat or set of dishes or "pools" to contain bets, and a set of chips, if one prefers not to play for money (the game is really only suitable for very small stakes, anyway). In this description, I will refer to chips, rather than coins, as a scoring medium.
+On utilise un jeu de 40 cartes, composé de quatre couleurs : trèfles, carreaux, cœurs et piques. Les cartes de chaque couleur rangent : 5 (bas), 6, 7, 8, 9, 10, valet, dame, roi et as (haut). En outre, il faut un plateau de paris Púkk. Celui-ci se compose d'un tapis ou d'un ensemble de bols ou « mises » pour contenir les paris, et d'un ensemble de jetons, si l'on préfère ne pas jouer pour de l'argent (le jeu ne convient de toute façon vraiment qu'à de très petites mises). Dans cette description, je ferai référence aux jetons plutôt qu'aux pièces, comme moyen de score.
 
-The Púkk layout looks something like this:
+Le plateau Púkk ressemble à ceci :
 
-![diagram of púkk board](../images/stops/pukk.gif)
+![diagramme du plateau de púkk](../images/stops/pukk.gif)
 
-It has a large central compartment marked *Púkk,* surrounded by six compartments marked:
+Il comporte un grand compartiment central marqué *Púkk*, entouré de six compartiments marqués :
 
-*Ás* (Ace), *Kongur* (King), *Drottning* (Queen),
-*Gosi* (Jack), *Tía* (Ten), *Pamfíll* (Jack of Clubs).
+*Ás* (As), *Kongur* (Roi), *Drottning* (Dame),
+*Gosi* (Valet), *Tía* (Dix), *Pamfíll* (Valet de trèfle).
 
-The term "Pamfíll" is from the earlier "Pamphilius", i.e. "beloved of all." Cf. also "Mighty Pam" as mentioned by Alexander Pope in the game of Ombre played by Belinda in his poem, The Rape of the Lock.)
+Le terme « Pamfíll » vient de « Pamphilius », c'est-à-dire « bien-aimé de tous ». Cf. aussi « Mighty Pam » mentionné par Alexander Pope dans le jeu d'Ombre joué par Belinda dans son poème, *The Rape of the Lock*.)
 
-## Dressing the Board
+## Habiller le plateau
 
-Each play begins with all participating players "dressing the board" (að klæða in Icelandic). Each player is required to place a single chip in each of the seven compartments. The way that players actually perform this ante, in practice, is to place as many chips as there are players in the compartment closest to him, and to place one chip in the central compartment, which is a bit faster. It often happens that one or more compartments have chips left in them from the previous game, in which case, chips are added anyway. Compartments will always contain a multiple of the number of players (6, 12, 18, etc.) at the beginning of a game.
+Chaque donne commence avec tous les joueurs participants « habillant le plateau » (*að klæða* en islandais). Chaque joueur est tenu de placer un seul jeton dans chacun des sept compartiments. En pratique, les joueurs effectuent cette ante en plaçant autant de jetons qu'il y a de joueurs dans le compartiment le plus proche d'eux, et un jeton dans le compartiment central, ce qui est un peu plus rapide. Il arrive souvent qu'un ou plusieurs compartiments contiennent des jetons restants de la partie précédente, auquel cas des jetons sont ajoutés quand même. Les compartiments contiendront toujours un multiple du nombre de joueurs (6, 12, 18, etc.) au début d'une partie.
 
-## The Deal
+## La donne
 
-The dealer serves five cards, face down, to each player. He first serves three cards all around the table, and then the remaining two cards. Deal and play are to the left, and the deal passes to the left after each game.
+Le donneur sert cinq cartes, face en bas, à chaque joueur. Il sert d'abord trois cartes tout autour de la table, puis les deux cartes restantes. La donne et le jeu se font vers la gauche, et la donne passe à la gauche après chaque partie.
 
-When all players have received their five cards, the next card of the pack is turned face up for all to see, and designates a priviledged suit, called "trump" (tromp in Icelandic) even though Púkk is not a trick-taking game.
+Lorsque tous les joueurs ont reçu leurs cinq cartes, la carte suivante du jeu est retournée face visible pour que tous la voient, et désigne une couleur privilégiée, appelée « atout » (*tromp* en islandais) bien que Púkk ne soit pas un jeu de plis.
 
-A player holding the 7 of the "trump" suit (a card called bísefa in Icelandic), may, if he wishes, exchange it for the turned-up "trump" designator.
+Un joueur détenant le 7 de la couleur « atout » (une carte appelée *bísefa* en islandais) peut, s'il le souhaite, l'échanger contre la carte retournée désignant l'atout.
 
-## Collecting the Ante
+## Collecte de l'ante
 
-The player who holds the Ace, King, Queen, Jack or Ten of the "trump" suit now displays it to the others and collects the ante in the corresponding pool. The player holding Pamfíll (the Jack of Clubs) collects the ante placed in that pool. (And, if clubs are "trump" receives *both* the ante for Pamfíll *and* that for the Jack of the "trump" suit.
+Le joueur qui détient l'as, le roi, la dame, le valet ou le 10 de la couleur « atout » l'expose maintenant aux autres et collecte l'ante dans le compartiment correspondant. Le joueur détenant le Pamfíll (le valet de trèfle) collecte l'ante placée dans ce compartiment. (Et, si les trèfles sont « atout », il reçoit *les deux* l'ante du Pamfíll *et* celle du valet de la couleur « atout ».)
 
 ## Að Púkka
 
-Next comes a portion of the game which reveals its kinship with the game of Poker. 
+Vient ensuite une partie du jeu qui révèle sa parenté avec le jeu de Poker.
 
-Each players must decide, in turn, beginning with the player seated to the left of the dealer, if he wishes to participate in a contest for the best "Púkk" or card combination. If he *does* wish to participate, he adds a single chip to the Púkk compartment and says, "ég púkka", ("I pook!" Gentlemen, even American ones, carefully avoid making this sound vulgar if there are ladies present, and they also bear in mind that since this is a family game, children may be listening, too.)
+Chaque joueur doit décider, à tour de rôle, en commençant par le joueur assis à la gauche du donneur, s'il souhaite participer à un concours pour le meilleur « Púkk » ou la meilleure combinaison de cartes. S'il *veut* participer, il ajoute un jeton au compartiment Púkk et dit « *ég púkka* » (« je poukke ! » Messieurs, même américains, évitent soigneusement de faire sonner cela de façon vulgaire en présence de dames, et ils gardent aussi à l'esprit que puisque c'est un jeu familial, les enfants peuvent aussi écouter.)
 
-For the purpose of forming a combination or púkk, the Pamfíll (the Jack of Clubs) is a wild card, and ranks higher than the "natural" card it replaces. It is also possible to have five cards of the same rank, as a púkk, if one holds Pamfíll along with four of a kind.
+Pour former une combinaison ou púkk, le Pamfíll (le valet de trèfle) est une carte joker, et se classe au-dessus de la carte « naturelle » qu'il remplace. Il est aussi possible d'avoir cinq cartes du même rang, comme púkk, si l'on détient le Pamfíll avec quatre d'un genre.
 
-The possible púkk hands are, from highest to lowest:
+Les mains de púkk possibles sont, de la plus haute à la plus basse :
 
-- Five cards of the same rank;
+- Cinq cartes du même rang ;
 
-- Four cards of the same rank;
+- Quatre cartes du même rang ;
 
-- Three cards of the same rank;
+- Trois cartes du même rang ;
 
-- A pair of the same rank.
+- Une paire du même rang.
 
-Within each category, Sixes beat Aces, Aces beat Kings, Kings beat Queens, and so on. Note that for the purposes of this portion of the game, a pair of Sixes is better than a pair of Aces, but other than this anomaly, the cards rank in their "usual" order.
+Dans chaque catégorie, les six battent les as, les as battent les rois, les rois battent les dames, et ainsi de suite. Notez que pour cette partie du jeu, une paire de six vaut mieux qu'une paire d'as, mais à part cette anomalie, les cartes suivent leur ordre « habituel ».
 
-A combination employing Pamfíll beats a "natural" combination. Thus, Pamfíll together with four cards of the same rank cannot be beaten; and a pair of 5's can only win if no one else has a púkk. However, three 5's beat an Ace paired with Pamfíll.
+Une combinaison employant le Pamfíll bat une combinaison « naturelle ». Ainsi, le Pamfíll avec quatre cartes du même rang ne peut pas être battu ; et une paire de 5 ne peut gagner que si personne d'autre n'a de púkk. Cependant, trois 5 battent un as associé au Pamfíll.
 
-In turn, each player either puts a chip in the Púkk pool or declines to participate. It is illegal to "bluff;" you must have at least a pair of 5's to púkk. Each of the players who are "in" may then continue wagering, one chip at a time, until either no one wishes to raise the stakes any further, or until there are only two players still participating in the púkk, at which point, either may demand a showdown at any time, whether or not he has matched the other's betting level.
+À tour de rôle, chaque joueur met soit un jeton dans le pot Púkk, soit décline de participer. Il est interdit de « bluffer » ; vous devez avoir au moins une paire de 5 pour púkk. Chaque joueur qui est « entré » peut alors continuer à miser, un jeton à la fois, jusqu'à ce que plus personne ne souhaite relancer, ou jusqu'à ce qu'il ne reste que deux joueurs participant au púkk, auquel cas l'un ou l'autre peut demander un abattage à tout moment, qu'il ait ou non égalé le niveau de mise de l'autre.
 
-All players still participating in the púkk now display their combination holdings to all players, and the player holding the highest-ranking one takes the contents of the Púkk compartment.
+Tous les joueurs participant encore au púkk exposent maintenant leur combinaison à tous les joueurs, et le joueur détenant la combinaison la plus élevée prend le contenu du compartiment Púkk.
 
-## Playing out the Hand
+## Jeu de la main
 
-The third and final stage of the game has, as its object, getting rid of all ones cards first. In this stage, Pamfíll enjoys no special properties.
+La troisième et dernière étape du jeu a pour objectif de se débarrasser de toutes ses cartes en premier. Dans cette étape, le Pamfíll n'a aucune propriété spéciale.
 
-The player seated to the left of the dealer begins by placing a card face up before him. That player holding a card of the same suit, but one rank higher than the card just played, lays this card down. Players continue laying down cards of this suit, in sequence, until either the ace of the suit is played, or else until the next card is not in any player's hand.
+Le joueur assis à la gauche du donneur commence en posant une carte face visible devant lui. Le joueur détenant une carte de la même couleur, mais d'un rang supérieur à la carte qui vient d'être jouée, la pose. Les joueurs continuent à poser des cartes de cette couleur, en séquence, jusqu'à ce que soit l'as de la couleur soit joué, soit que la carte suivante ne soit dans la main d'aucun joueur.
 
-For example, Uggi plays the 7 of Spades. Ingrid plays the 8 of Spades, and, since she also holds the 9 of Spades, she plays this as well. Þórsteinn holds the 10 of Spades, and plays it, but no one holds the Jack of Spades, since it happens to be one of the cards that wasn't dealt out at all, this time.
+Par exemple, Uggi joue le 7 de pique. Ingrid joue le 8 de pique et, comme elle détient aussi le 9 de pique, elle le joue aussi. Þórsteinn détient le 10 de pique et le joue, mais personne ne détient le valet de pique, car il se trouve que c'est l'une des cartes qui n'ont pas été distribuées cette fois-ci.
 
-The player who plays the last card of the sequence, whether it is an Ace or a "stop" card which no one can follow, is permitted to play any card in his hand to start the next sequence. In the example above, Þórsteinn could play his 6 of Spades, for instance, and, since the 7 of Spades has already been played on the previous sequence, this too
-will be a "stop" card, allowing him to play out yet a third card in his hand.
+Le joueur qui joue la dernière carte de la séquence, que ce soit un as ou une carte d'« arrêt » que personne ne peut suivre, est autorisé à jouer n'importe quelle carte de sa main pour commencer la séquence suivante. Dans l'exemple ci-dessus, Þórsteinn pourrait jouer son 6 de pique, par exemple, et puisque le 7 de pique a déjà été joué dans la séquence précédente, ce sera aussi une carte d'« arrêt », lui permettant de jouer une troisième carte de sa main.
 
-Play continues in this manner until one player has played out *all* of his five cards. The other players now each pay him one chip for each of the cards they still hold. A player who has not had an opportunity to play off even one of his cards pays the winner of this portion of the game five chips; a player having only two cards left in his hand pays two chips, and
-so on.
+Le jeu continue ainsi jusqu'à ce qu'un joueur ait joué *toutes* ses cinq cartes. Les autres joueurs lui paient alors chacun un jeton pour chaque carte qu'ils détiennent encore. Un joueur qui n'a pas eu l'occasion de jouer ne serait-ce qu'une seule de ses cartes paie cinq jetons au gagnant de cette partie ; un joueur n'ayant que deux cartes restantes paie deux jetons, et ainsi de suite.
 
-## Variations
+## Variantes
 
-Some require that a player hold a combination no lower than a pair of 6's to púkk.
+Certains exigent qu'un joueur détienne une combinaison d'au moins une paire de 6 pour púkk.
 
-Some players do not permit Pamfíll to substitute for a Six.
+Certains joueurs ne permettent pas au Pamfíll de remplacer un six.
 
-### Púkk layouts
+### Plateaux Púkk
 
-The author obtained his plastic Púkk layout mat (spilaborð) from:
+L'auteur a obtenu son tapis de plateau Púkk en plastique (*spilaborð*) de :
 
 * Frímerkjamiðstöðin
 
@@ -97,16 +95,13 @@ Skólavörðustíg 21A
 
 IS-101 Reykjavík
 
-ICELAND
+ISLANDE
 
-Telephone: +354-1-21170
-
+Téléphone : +354-1-21170
 *
 
-In 1993, the author of this description purchased it for 450 Icelandic Crowns (at the time, about 6 to 7 U.S. Dollars).
+En 1993, l'auteur de cette description l'a acheté pour 450 couronnes islandaises (à l'époque, environ 6 à 7 dollars américains).
 
-### Póstarnir or Sixes
+### Póstarnir ou Sixes
 
-This unusual feature of the game comes from the prevalance of two Karnöffel games in Iceland, Alkort and Treikort, q.v. Ultimately, the word póstar comes from the German Pabst, meaning "Pope", the nickname given to these cards in many northern European descendants of this antique game family. The term bísefa for the 7 of "trumps" also comes from German nicknames for the sevens in Karnöffl, in this case, die böse Sieben "the evil seven".
-
-Home Page > Classified Index > Matching games > Stops group > Púkk
+Cette caractéristique inhabituelle du jeu vient de la prévalence de deux jeux de Karnöffel en Islande, Alkort et Treikort, cf. supra. En fin de compte, le mot *póstar* vient de l'allemand *Pabst*, signifiant « Pape », le surnom donné à ces cartes dans de nombreux descendants nord-européens de cette famille de jeux antique. Le terme *bísefa* pour le 7 des « atouts » vient aussi des surnoms allemands pour les sept dans Karnöffl, dans ce cas *die böse Sieben* « le mauvais sept ».

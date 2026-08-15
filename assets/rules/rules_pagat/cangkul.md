@@ -3,89 +3,87 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the popular Indonesian card game Cangkul and the related Spanish game Burro.
+**But :** Comment jouer au populaire jeu de cartes indonésien Cangkul et au jeu espagnol apparenté Burro.
 **Autres noms :** Burro
 
 ---
 
-*This page is partly based on information from Hamdanil Rasyid.*
+*Cette page est en partie basée sur des informations de Hamdanil Rasyid.*
 
 - Introduction
 
 - Cangkul
 
-- Burro (Donkey)
+- Burro (Âne)
 
 ## Introduction
 
-Cangkul is a simple but popular Indonesian game, in which players try to get rid of cards by following suit. A very similar game 'Donkey' is played in Goa. There is also a closely related Spanish game known as Burro (Donkey). 
+Cangkul est un jeu indonésien simple mais populaire, dans lequel les joueurs essaient de se débarrasser de leurs cartes en suivant la couleur. Un jeu très similaire, « Donkey », se joue à Goa. Il existe aussi un jeu espagnol étroitement apparenté connu sous le nom de Burro (Âne).
 
 ## Cangkul
 
-The Indonesian name Cangkul means to dig using a hoe, and refers to the need to dig for a suitable card from the stock pile when unable to follow suit. Some people call the game **Minuman** which means a drink or beverage.
+Le nom indonésien Cangkul signifie « bêcher avec une houe », et fait référence à la nécessité de creuser pour une carte appropriée dans le talon lorsqu'on ne peut pas suivre la couleur. Certaines personnes appellent le jeu **Minuman** qui signifie une boisson.
 
-### Players and Cards
+### Joueurs et cartes
 
-The game is best for around 3 to 5 players. A standard international 52-card pack is used, the cards in each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Le jeu se joue mieux avec environ 3 à 5 joueurs. Un jeu international standard de 52 cartes est utilisé, les cartes de chaque couleur se classant de la plus forte à la plus faible A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-The deal and play are clockwise and the turn to deal passes to the left after each hand.
+La distribution et le jeu se font dans le sens horaire et le tour de distribution passe à gauche après chaque main.
 
-### Deal
+### Distribution
 
-The dealer deals 7 cards to each player, and stacks the remainder of the pack face down to form a drawing stock. The players pick up their cards and look at them, without showing them to other players.
+Le donneur distribue 7 cartes à chaque joueur, et empile le reste du jeu face cachée pour former un talon de pioche. Les joueurs ramassent leurs cartes et les regardent, sans les montrer aux autres joueurs.
 
-### Play
+### Jeu
 
-The player to dealer's left begins. Any card can be led and the other players in turn must play a card of the same suit (i.e. follow suit). When all have played one card, whoever played the highest card puts the played cards (the trick) aside and leads a card to the next trick, which may be the same or a different suit. Again everyone must play a card of the suit that was led, and so the game continues.
+Le joueur à la gauche du donneur commence. N'importe quelle carte peut être entamée et les autres joueurs à tour de rôle doivent jouer une carte de la même couleur (c'est-à-dire suivre la couleur). Quand tous ont joué une carte, celui qui a joué la carte la plus élevée écarte les cartes jouées (la levée) et entame une carte pour la levée suivante, qui peut être de la même couleur ou d'une autre. Encore une fois, tout le monde doit jouer une carte de la couleur entamée, et ainsi le jeu continue.
 
-A player who does not have a card of the suit that was led must draw the top card of the stock. If it is of the required suit he must play it: if not he must add it to his cards without showing it to the other players and draw another. The player must continue to draw cards until a card of the right suit is found and played.
+Un joueur qui n'a pas de carte de la couleur entamée doit piocher la carte du dessus du talon. Si elle est de la couleur requise, il doit la jouer ; sinon il doit l'ajouter à ses cartes sans la montrer aux autres joueurs et piocher une autre. Le joueur doit continuer à piocher jusqu'à trouver une carte de la bonne couleur et la jouer.
 
-If a player has no card of the required suit and draws all the remaining cards from the stock without finding a card of the suit that is needed, or if a player is unable to follow suit when the stock is empty, the player does not play a card to that trick and it is the next player's turn to follow suit. At the end of the trick, the cards are not set aside, but are picked up and added to the hand of the player who was unable to follow suit.
+Si un joueur n'a pas de carte de la couleur requise et pioche toutes les cartes restantes du talon sans trouver de carte de la couleur nécessaire, ou si un joueur est incapable de suivre quand le talon est vide, le joueur ne joue pas de carte pour cette levée et c'est le tour du joueur suivant de suivre la couleur. À la fin de la levée, les cartes ne sont pas écartées, mais sont ramassées et ajoutées à la main du joueur qui n'a pas pu suivre.
 
-If two or more players have to pass in a trick because they cannot follow suit and the stock is exhausted, the players who passed take turns to draw a card from the trick, beginning with the first player who passed and continuing clockwise, until all the cards of the incomplete trick have been drawn. The player who played the highest card to the incomplete trick then leads again.
+Si deux joueurs ou plus doivent passer dans une levée parce qu'ils ne peuvent pas suivre et que le talon est épuisé, les joueurs qui ont passé prennent à tour de rôle une carte de la levée, en commençant par le premier joueur qui a passé et en continuant dans le sens horaire, jusqu'à ce que toutes les cartes de la levée incomplète aient été tirées. Le joueur qui a joué la carte la plus élevée dans la levée incomplète entame alors à nouveau.
 
-**Example.** There are four players **A**, **B**, **C** and **D**. The stock is empty, and player **A** is the only player who has any hearts. Player A leads the **![heart](../images/internat/heart.gif)3** and **B**, **C** and **D** have to pass. **B**, the first player who passed, has to pick up the ![heart](../images/internat/heart.gif)3. Player **A** won the trick since no one else played to it, so player **A** now leads the ![heart](../images/internat/heart.gif)7. Player **B** must play the ![heart](../images/internat/heart.gif)3 and players **C** and **D** must pass. Now **C** and **D** must pick up cards: **C** takes the ![heart](../images/internat/heart.gif)7 and **D** takes the ![heart](../images/internat/heart.gif)3. **A** won with the **7**, so next **A** leads the **![heart](../images/internat/heart.gif)9**. **B** has to pass but **C** and **D** play their hearts and **B** must pick up all three hearts. Since **A** won with the **9** it is **A**'s lead again. And so it goes on.
+**Exemple.** Il y a quatre joueurs **A**, **B**, **C** et **D**. Le talon est vide, et le joueur **A** est le seul joueur qui a des cœurs. Le joueur A entame le **![cœur](../images/internat/heart.gif)3** et **B**, **C** et **D** doivent passer. **B**, le premier joueur qui a passé, doit ramasser le ![cœur](../images/internat/heart.gif)3. Le joueur **A** a gagné la levée puisque personne d'autre n'y a joué, donc le joueur **A** entame maintenant le ![cœur](../images/internat/heart.gif)7. Le joueur **B** doit jouer le ![cœur](../images/internat/heart.gif)3 et les joueurs **C** et **D** doivent passer. Maintenant **C** et **D** doivent ramasser des cartes : **C** prend le ![cœur](../images/internat/heart.gif)7 et **D** prend le ![cœur](../images/internat/heart.gif)3. **A** a gagné avec le **7**, donc ensuite **A** entame le **![cœur](../images/internat/heart.gif)9**. **B** doit passer mais **C** et **D** jouent leurs cœurs et **B** doit ramasser les trois cœurs. Puisque **A** a gagné avec le **9**, c'est encore à **A** d'entamer. Et ainsi de suite.
 
-The first player who runs out of cards wins the game as soon as he manages to play his last card.
+Le premier joueur qui n'a plus de cartes gagne le jeu dès qu'il réussit à jouer sa dernière carte.
 
-### Variants
+### Variantes
 
-Some continue the game in order to find a loser. A player who has no cards in hand drops out of the game and the others continue playing. The loser is the last player left holdsing cards.
+Certains continuent le jeu pour trouver un perdant. Un joueur qui n'a plus de cartes en main quitte le jeu et les autres continuent à jouer. Le perdant est le dernier joueur qui reste avec des cartes.
 
-The procedure for taking cards when more than one player passes in a trick is sometimes quite informal - but if the game is not completely casual the method of drawing cards in turn described above is a fair way to proceed.
+La procédure de ramassage des cartes quand plus d'un joueur passe dans une levée est parfois assez informelle — mais si le jeu n'est pas totalement décontracté, la méthode de pioche à tour de rôle décrite ci-dessus est un moyen équitable de procéder.
 
-Some add a Joker to the deck and play with 53 cards. The joker always wins the trick to which it is played. If the joker is led, the second player can play any card and the other players have to match the suit of this card. There are some further variants on the use of the Joker. For example some play that the Joker can only be played if the player has no card of the suit that was led, and some play that the Joker **must** be played in this case - you cannot draw cards from the stock while holding the Joker.
+Certains ajoutent un Joker au jeu et jouent avec 53 cartes. Le Joker gagne toujours la levée dans laquelle il est joué. Si le Joker est entamé, le deuxième joueur peut jouer n'importe quelle carte et les autres joueurs doivent correspondre à la couleur de cette carte. Il existe d'autres variantes sur l'utilisation du Joker. Par exemple, certains jouent que le Joker ne peut être joué que si le joueur n'a pas de carte de la couleur entamée, et certains jouent que le Joker **doit** être joué dans ce cas — on ne peut pas piocher dans le talon tout en tenant le Joker.
 
-## Burro (Donkey)
+## Burro (Âne)
 
-The Spanish name Burro is used for at least two different card games. It is used for the inflation game described below, which is quite similar to Cangkul, but the Spanish version of the card passing game Pig is also often known as Burro. The following is based on the description in the book *'El gran libro de los juegos de cartas'* by José L. Núñez Elvira *(Ediciones Martínez Roca, Barcelona, 1990)*.
+Le nom espagnol Burro est utilisé pour au moins deux jeux de cartes différents. Il est utilisé pour le jeu d'inflation décrit ci-dessous, qui est assez similaire à Cangkul, mais la version espagnole du jeu de passage de cartes Pig est aussi souvent connue sous le nom de Burro. Ce qui suit est basé sur la description du livre *'El gran libro de los juegos de cartas'* de José L. Núñez Elvira *(Ediciones Martínez Roca, Barcelona, 1990)*.
 
-### Players and Cards
+### Joueurs et cartes
 
-Up to 8 people can play, each playing for themselves. A 48-card Spanish suited pack is used ranking from high to low King (*re*) - Horse (*caballo*) - Maid (*sota*) - 9 - 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1 in each suit (the Ace is low in this game). It is also possible to play with a 40-card Spanish pack, omitting the 9's and 8's. Deal and play are anticlockwise.
+Jusqu'à 8 personnes peuvent jouer, chacun pour soi. Un jeu espagnol de 48 cartes est utilisé, classé de la plus forte à la plus faible Roi (*re*) — Cavalier (*caballo*) — Servante (*sota*) — 9 - 8 - 7 - 6 - 5 - 4 - 3 - 2 - 1 dans chaque couleur (l'As est bas dans ce jeu). Il est aussi possible de jouer avec un jeu espagnol de 40 cartes, en omettant les 9 et les 8. La distribution et le jeu se font dans le sens antihoraire.
 
-### Deal
+### Distribution
 
-The dealer shuffles, the player to dealer's left cuts, and the dealer deals the cards one at a time until everyone has four cards. The remainder are stacked face down to form a drawing stock.
+Le donneur mélange, le joueur à sa gauche coupe, et le donneur distribue les cartes une par une jusqu'à ce que chacun ait quatre cartes. Le reste est empilé face cachée pour former un talon de pioche.
 
-### Play
+### Jeu
 
-The player to dealer's right leads any card. The other players must follow suit. A player who has no card of the suit led must draw cards one at a time from the stock until a card of the required suit is found and then play it. The player of the highest card wins the trick and leads any card to the next trick.
+Le joueur à la droite du donneur entame n'importe quelle carte. Les autres joueurs doivent suivre la couleur. Un joueur qui n'a pas de carte de la couleur entamée doit piocher des cartes une par une du talon jusqu'à trouver une carte de la couleur requise et la jouer. Le joueur de la carte la plus élevée gagne la levée et entame n'importe quelle carte pour la levée suivante.
 
-If the drawing stock runs out, players who have no card of the suit led simply pass and do not play. They are not required to draw any extra cards.
+Si le talon de pioche s'épuise, les joueurs qui n'ont pas de carte de la couleur entamée passent simplement et ne jouent pas. Ils ne sont pas tenus de piocher des cartes supplémentaires.
 
-Players who run out of cards drop out of the play, which continues until only one player has cards. This player loses the hand and gets a penalty point.
+Les joueurs qui n'ont plus de cartes quittent le jeu, qui continue jusqu'à ce qu'un seul joueur ait des cartes. Ce joueur perd la main et reçoit un point de pénalité.
 
-### End of Game
+### Fin de partie
 
-The game continues until a player reaches a previously agreed number of penalty points and loses the game.
+Le jeu continue jusqu'à ce qu'un joueur atteigne un nombre de points de pénalité convenu à l'avance et perde la partie.
 
-## Burro in Portugal
+## Burro au Portugal
 
-Alexandre Pinto describes two versions of **Burro** played by children in Portugal. A 40-card pack is used, consisting of King (Rei), Jack (Valete), Queen (Dama), 7, 6, 5, 4, 3, 2, A in each suit. Five cards are dealt to each player. In **Burro Deitado** the drawing stock is stacked face down as usual, but in **Burro em Pé** the pack of undealt cards is divided into two roughly equal halves and these are stood on the table supporting each other in the shape of a "Λ". 
+Alexandre Pinto décrit deux versions du **Burro** jouées par les enfants au Portugal. Un jeu de 40 cartes est utilisé, composé de Roi (Rei), Valet (Valete), Dame (Dama), 7, 6, 5, 4, 3, 2, A dans chaque couleur. Cinq cartes sont distribuées à chaque joueur. Dans le **Burro Deitado** (Burro couché), le talon de pioche est empilé face cachée comme d'habitude, mais dans le **Burro em Pé** (Burro debout), le paquet de cartes non distribuées est divisé en deux moitiés à peu près égales et celles-ci sont dressées sur la table en se soutenant mutuellement en forme de « Λ ».
 
-The rules of play are the same as in Spain, except that a player is allowed to draw from the stock (or continue drawing) even if he holds or finds a playable card. In Burro em Pé players who draw cards from the stock must be careful not to knock it over. Anyone who causes the Λ to fall over must add the whole of the remaining stock to his hand. The play ends as soon as a player runs out of cards and thereby wins.
+Les règles du jeu sont les mêmes qu'en Espagne, sauf qu'un joueur est autorisé à piocher dans le talon (ou à continuer à piocher) même s'il tient ou trouve une carte jouable. Dans le Burro em Pé, les joueurs qui piochent dans le talon doivent faire attention de ne pas le renverser. Quiconque fait tomber le Λ doit ajouter tout le talon restant à sa main. Le jeu s'arrête dès qu'un joueur n'a plus de cartes et gagne donc.
 
-**Note:** As in Spain, the name Burro is also used in Portugal to refer to a different card game, similar to Pig.
-
-Home Page > Classified Index > Inflation Games > Cangkul / Burro
+**Note :** Comme en Espagne, le nom Burro est aussi utilisé au Portugal pour désigner un jeu de cartes différent, similaire à Pig.

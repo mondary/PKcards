@@ -2,10 +2,8 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play Kapaga - link to rules of this variant of the card game Crazy Eights played in Greenland.
+**But :** Variante du huit américain jouée au Groenland.
 
 ---
 
-Kapaga is a game of the eights group played in Greenland. It is mentioned in "A Viking Voyage", by W. Hodding Carter (Ballentine, 2000), p92. Here is a link to an archive copy of a page giving [rules of Kapaga](https://web.archive.org/web/20181026011137/http://www.clayfox.com/kapaga).
-
-Home Page > Classified Index > Matching games > Eights Group > Kapaga
+Kapaga est un jeu de la famille des huit joué au Groenland. Il est mentionné dans « A Viking Voyage » de W. Hodding Carter (Ballentine, 2000), p. 92. Voici un lien vers une copie d'archive d'une page donnant les [règles de Kapaga](https://web.archive.org/web/20181026011137/http://www.clayfox.com/kapaga).

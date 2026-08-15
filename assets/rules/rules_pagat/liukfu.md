@@ -2,348 +2,209 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Chinese card game for three players using Hakka-style money cards.
+**But :** Un jeu de cartes chinois pour trois joueurs utilisant des cartes de type monnaie Hakka.
 
 ---
 
-*The following description is based an article by Anthony Smith and Günther Senst, revised on the basis of information from Dylan W.H.S and 'The Suffocated'.*
+*La description suivante est basée sur un article d'Anthony Smith et Günther Senst, révisé sur la base d'informations de Dylan W.H.S et « The Suffocated ».*
 
-## The Name
+## Le Nom
 
-C T Dobree (1955) spelled the name Luk Fu and used the characters for "Six Tigers", whereas J W Young (1866) said he could not learn the characters for what he spelled Lioek Foe. "Liuk" can certainly mean Six and, as the players' objective in the game
-is to use at least 6 of their own cards to win tricks or multitricks, Dobree's interpretation of his "Luk" is very probable. But we are sceptical of his Tigers, because Young also uses the word "Foe" for a unit of scoring in the rummy-like game Phien Kim ("ph" as in English
-"shepherd") - various combinations scored various multiples of "Foe" - but his informants could not tell him how to write "Foe". Since "Liuk" means "Six" and the objective is to take 6 cards-worth of multitricks, we imagine that "Fu" should be translated as "points", like the Mandarin word "Hu" in K Himly (1901) and L M Iakovlev (1946). But we shall see "tigers" in the terminology of the game, and this looks like a pun. Dylan W.H.S. confirms that the word for the number of trick-winning cards in this game is pronounced the same as the
-word for "tiger" in the Hakka dialect. 
+C T Dobree (1955) a orthographié le nom Luk Fu et a utilisé les caractères pour « Six Tigres », alors que J W Young (1866) a dit qu'il ne pouvait pas apprendre les caractères pour ce qu'il a orthographié Lioek Foe. « Liuk » peut certainement vouloir dire Six et, comme l'objectif des joueurs dans le jeu est d'utiliser au moins 6 de leurs propres cartes pour gagner des plis ou multi-plis, l'interprétation de Dobree de son « Luk » est très probable. Mais nous sommes sceptiques quant à ses Tigres, car Young utilise aussi le mot « Foe » pour une unité de marquage dans le jeu de rummy Phien Kim (« ph » comme dans l'anglais « shepherd ») — diverses combinaisons marquaient divers multiples de « Foe » — mais ses informateurs ne pouvaient pas lui dire comment écrire « Foe ». Puisque « Liuk » signifie « Six » et que l'objectif est de prendre 6 cartes-valeur de multi-plis, nous imaginons que « Fu » devrait être traduit par « points », comme le mot mandarin « Hu » chez K Himly (1901) et L M Iakovlev (1946). Mais nous verrons « tigres » dans la terminologie du jeu, ce qui ressemble à un jeu de mots. Dylan W.H.S. confirme que le mot pour le nombre de cartes gagnantes dans ce jeu se prononce de la même façon que le mot pour « tigre » dans le dialecte Hakka.
 
-We have pleasure in thanking Mrs Chan-Edmead, Miss Tsoi and Mr Pang of Gloucester, a cathedral city lying about 175 km. west of London, for their information on the rules of this game. In January 1993 Mrs Chan-Edmead of the Gloucestershire Chinese Community Group introduced Anthony Smith to an English-speaking user of these cards, Kim Tsoi, an undergraduate student at Westminster University whose family live in Gloucester. Miss Tsoi played cards with her grandmother and explained to him the rules of a three-player trick-taking game called Liuk Fu. In November
-1993 he met, through the Open University (a British correspondence college for which he is a tutor), another English-speaking Luk Fu player from Gloucester, Tim Pang.
+Nous avons le plaisir de remercier Mme Chan-Edmead, Mlle Tsoi et M. Pang de Gloucester, une ville cathédrale située à environ 175 km à l'ouest de Londres, pour leurs informations sur les règles de ce jeu. En janvier 1993, Mme Chan-Edmead du Gloucestershire Chinese Community Group a présenté Anthony Smith à un utilisateur anglophone de ces cartes, Kim Tsoi, un étudiant de premier cycle à l'Université de Westminster dont la famille vit à Gloucester. Mlle Tsoi jouait aux cartes avec sa grand-mère et lui a expliqué les règles d'un jeu de plis à trois joueurs appelé Liuk Fu. En novembre 1993, il a rencontré, par l'intermédiaire de l'Open University (une université britannique par correspondance dont il est tuteur), un autre joueur anglophone de Luk Fu de Gloucester, Tim Pang.
 
-## The Players
+## Les Joueurs
 
-Luk Fu is a game for three active players, though as in
-some European games a fourth player may deal. Such a dealer takes
-part in the payments even though taking no part in the play. Both
-tricks in the ordinary sense and multitricks, where each player
-contributes the same number, greater than one, of cards can be
-played. Let us use "trick" to cover both possibilities,
-in the sense that a 3-card multitrick is worth 3 "tricks".
+Luk Fu est un jeu pour trois joueurs actifs, bien que comme dans certains jeux européens un quatrième joueur puisse donner. Un tel donneur participe aux paiements bien qu'il ne prenne pas part au jeu. Des plis au sens ordinaire et des multi-plis, où chaque joueur contribue au même nombre, supérieur à un, de cartes peuvent être joués. Utilisons « pli » pour couvrir les deux possibilités, au sens où un multi-pli de 3 cartes vaut 3 « plis ».
 
-## The Cards
+## Les Cartes
 
-When there is no fourth player only 36 cards of the 38 are used,
-and these are not quite the 36 reported in W H Wilkinson (1895)
-to be used in the unnamed three-hander which he knew. If a fourth
-is present 37 cards are used and the dealer retains one card.
-Under no circumstance is the 38th card used, and the informants
-knew of no use for it. Packs are so easily obtainable that it
-is not even used to replace a damaged or lost card. A European
-equivalent of this state of affairs may be the Tarocco Bolognese
-pack which is sold with Jokers, although we know
-of no game for this pack using the Jokers.
+Lorsqu'il n'y a pas de quatrième joueur, seules 36 des 38 cartes sont utilisées, et ce ne sont pas exactement les 36 rapportées par W H Wilkinson (1895) comme étant utilisées dans le jeu à trois non nommé qu'il connaissait. S'il y a un quatrième joueur, 37 cartes sont utilisées et le donneur conserve une carte. En aucune circonstance la 38e carte n'est utilisée, et les informateurs ne connaissaient aucune utilisation pour celle-ci. Les jeux sont si facilement disponibles qu'elle n'est même pas utilisée pour remplacer une carte endommagée ou perdue. Un équivalent européen de cette situation pourrait être le jeu Tarocco Bolognese qui est vendu avec des Jokers, bien que nous ne connaissions aucun jeu pour ce jeu utilisant les Jokers.
 
-The 36 cards used are arranged in the illustration ranking l (low)
-- 9 (high) from left to right. The suits are:
+Les 36 cartes utilisées sont disposées dans l'illustration classées 1 (bas) - 9 (haut) de gauche à droite. Les couleurs sont :
 
-**"Sup" **(拾)** or "Tens" (ranking high) 
+**« Sup »** (拾)** ou « Dizaines » (classé haut)**
 
 ![1 sup](../images/hakka/1t.gif) ![2 sup](../images/hakka/2t.gif)
 ![3 sup](../images/hakka/3t.gif) ![4 sup](../images/hakka/4t.gif)
 ![5 sup](../images/hakka/5t.gif) ![6 sup](../images/hakka/6t.gif)
 ![7 sup](../images/hakka/7t.gif) ![8 sup](../images/hakka/8t.gif)
-![9 sup](../images/hakka/9t.gif) **
+![9 sup](../images/hakka/9t.gif)**
 
-**"Gong" **(貫)** or "Myriads"
+**« Gong »** (貫)** ou « Myriades »**
 
 ![1 gong](../images/hakka/1m.gif) ![2 gong](../images/hakka/2m.gif)
 ![3 gong](../images/hakka/3m.gif) ![4 gong](../images/hakka/4m.gif)
 ![5 gong](../images/hakka/5m.gif) ![6 gong](../images/hakka/6m.gif)
 ![7 gong](../images/hakka/7m.gif) ![8 gong](../images/hakka/8m.gif)
-![9 gong](../images/hakka/9m.gif) **
+![9 gong](../images/hakka/9m.gif)**
 
-**"Sok" **(索)** or "Knots"
+**« Sok »** (索)** ou « Nœuds »**
 
 ![1 sok](../images/hakka/1s.gif) ![2 sok](../images/hakka/2s.gif)
 ![3 sok](../images/hakka/3s.gif) ![4 sok](../images/hakka/4s.gif)
 ![5 sok](../images/hakka/5s.gif) ![6 sok](../images/hakka/6s.gif)
 ![7 sok](../images/hakka/7s.gif) ![8 sok](../images/hakka/8s.gif)
-![9 sok](../images/hakka/9s.gif) **
+![9 sok](../images/hakka/9s.gif)**
 
-**"Tyen" **(綫)** or "Coins" (ranking low)
+**« Tyen »** (綫)** ou « Pièces » (classé bas)**
 
 ![1 tyen](../images/hakka/1c.gif) ![2 tyen](../images/hakka/2c.gif)
 ![3 tyen](../images/hakka/3c.gif) ![4 tyen](../images/hakka/4c.gif)
 ![5 tyen](../images/hakka/5c.gif) ![6 tyen](../images/hakka/6c.gif)
 ![7 tyen](../images/hakka/7c.gif) ![8 tyen](../images/hakka/8c.gif)
-![9 tyen](../images/hakka/9c.gif) **
+![9 tyen](../images/hakka/9c.gif)**
 
-The extra card ranks as an Extra Ace, but is not attached to any
-suit.
+La carte supplémentaire se classe comme un As supplémentaire, mais n'est attachée à aucune couleur.
 
-**The five aces:
+**Les cinq as :**
 
 ![1 sup](../images/hakka/1t.gif) ![1 gong](../images/hakka/1m.gif)
 ![1 sok](../images/hakka/1s.gif) ![1 tyen](../images/hakka/1c.gif)
-![extra ace](../images/hakka/1x.gif) **
-
-'The Suffocated' points out that the character 綫, meaning 'thread', on the coins cards probably originated as a misreading of 錢, which stands for 文錢, the coin with the smallest face value.
-
-It will be observed that the cards used as Ace of Tens and as
-Ace of Coins are not so inscribed. The characters on the card
-used as Ace of Tens say "Hundred Sons" (Bak Chi - 百子) while those on
-the card functioning as Ace of Coins are too stylised to be read
-unambiguously. Miss Tsoi's grandmother called it "Mao
-Ta" but Mr Pang's mother called it "Ma Tyen".
-Young (1886) called it "Mo Kwoeng", Prince of
-Mao, and The Suffocated renders it as Mau Gung (毛公). The Extra Ace was called "Li Tyen" by Miss
-Tsoi's grandmother but "Yo Tyen" by Mr Pang's
-mother. Young (1886) has "Joen Tshiën" (雲錢).
-Although it bears the character for "Coins" it is not
-accounted a member of the Coins suit. Dylan W.H.S calls the extra ace Leeten (麗綫) and the spare card Leefa (麗花), but according to Hill Li these should be 梨綫 and 梨花 respectively. According to The Suffocated the spare card is Luk Fa (鹿花 "Stagflower").
-
-## The Deal
-
-The first dealer is chosen by lot. Subsequently deal rotates anticlockwise,
-except that when the Master (Tiu Ga - 頭家) wins then the same dealer
-will deal again, sitting out again if there are four players. 
-
-The dealer can allow a consistent loser to cut the cards.
-
-The dealer may deal the cards singly or in packets of two or more.
-
-If only three are playing the dealer deals to himself first and
-then anticlockwise until everyone has 12 cards. The dealer will
-be Master (or Forehand, the person who plays the first card).
-
-If four play then the deal is still anticlockwise, but starts
-with the player opposite the dealer, who will be Master. The dealer
-gives himself a single card at any stage , but usually first or
-last.
-
-## The Decision to Play
-
-When the deal is completed the Master either makes a lawful lead
-or passes. If he passed then the next player anticlockwise either
-passes or says "Play". If he also passes then the third
-player has the same choice. If all three pass the cards are redealt
-by the next dealer. If anyone said "Play" then the Master
-leads.
-According to Dylan W.H.S the word used for play is Tsoh (做).
-
-Any player who said "Play" is Vulnerable, and if he
-does not win will have to pay the other loser's losses as well
-as his own. Notice that the Master does not have to say "Play"
-when he wishes to play, and can never be Vulnerable. 
-
-## The Objective
-
-The objective is to win "tricks" with at least six cards.
-The amount won depends on how many "tricks" the victor
-takes. The player who first takes six can stop the game and claim
-immediate victory, but if he plays on, hoping for further "tricks",
-but another player takes the other six then that other player
-is the sole victor. If no one takes 6 "tricks" then
-the hand is drawn and there are no payments. Mr Pang said deal
-does not rotate in a drawn hand when the Master had not passed;
-Miss Tsoi said deal rotates in all drawn hands; Dylan W.H.S. says that in a drawn hand (Da Fo - 打和) there are no payments and the same dealer deals again, irrespective of whether the Master passed and who chose to Play.
-
-## Payments
-
-In Miss Tsoi's tariff of payments a unit stake and a value for
-extra "tricks" must both be agreed. She suggested 10p
-for both. The winner would then get 10p for six "tricks"
-and 10p for each further "trick", giving a maximum of
-70p for twelve "tricks". This is collected from each
-opponent - or twice from a Vulnerable opponent.
-
-Mr Pang's tariff involved a single unit, for which he also suggested
-10p, and winners with 6, 7, 8 or 9 were paid 10, 20, 30 or 40p
-just as in Miss Tsoi's system, but winners with 10 or 11 were
-paid double, thus getting £1 or £1.20 and a winner with
-12 was paid triple, for £2.10.
-
-If a fourth player had been sitting out he turns up his single
-card at the end of the play. If its rank matches that of one or
-more of the victor's winning cards then he collects at 10p per
-match from each loser (or twice from a Vulnerable loser).
-
-If the dealer's card is the Extra Ace it matches any other Aces
-among the victor's winners, and similarly if the victor has the
-Extra Ace among his winners then it matches any Ace which the
-dealer holds.
-
-Variant: Miss Tsoi said that it can be agreed beforehand that
-the winner also gets an extra 10p for each card with a red overprint
-among his winners. These cards are the Nines and the Old Aces
-and also the Eight of Tens.
-
-## Old Cards
-
-The four Nines, the Aces of Tens and Coins and (if it is in play)
-the Extra Ace are called Old Cards (Lao Sui Pai - 老歲牌). The Nines are initially the
-highest cards in the suits and any card which is known
-to become, during the course of the play, the highest in its suit
-has become Old. If a consecutive sequence in the same suit, headed
-by an Old card, is held by some player then the whole sequence
-are Old Cards. The point about being known to be highest
-is that there can be doubt - discards are made unseen and in the
-4-player version one card is out of play. The dealer may look
-at his card at once but is not obliged to reveal it until play
-is over. If it is a Nine or Eight, or sometimes even a Seven,
-he leaves it concealed so that the active players do not know
-what card has become highest in that suit.
+![as supplémentaire](../images/hakka/1x.gif)**
 
-The Aces of Tens and Coins are lowest in their suits and the Extra
-Ace is not in a suit at all. These cards cannot beat any single
-card played in front of them, but if any of them is led as a single
-card it wins the trick.
+« The Suffocated » fait remarquer que le caractère 綫, signifiant « fil », sur les cartes de pièces a probablement pour origine une mauvaise lecture de 錢, qui représente 文錢, la pièce avec la plus petite valeur nominale.
 
-## Leading to a Trick or Multitrick
+On observera que les cartes utilisées comme As de Dizaines et comme As de Pièces ne sont pas ainsi inscrites. Les caractères sur la carte utilisée comme As de Dizaines disent « Cent Fils » (Bak Chi - 百子) tandis que ceux sur la carte fonctionnant comme As de Pièces sont trop stylisés pour être lus sans ambiguïté. La grand-mère de Mlle Tsoi l'appelait « Mao Ta » mais la mère de M. Pang l'appelait « Ma Tyen ». Young (1886) l'appelait « Mo Kwoeng », Prince de Mao, et The Suffocated le rend comme Mau Gung (毛公). L'As supplémentaire était appelé « Li Tyen » par la grand-mère de Mlle Tsoi mais « Yo Tyen » par la mère de M. Pang. Young (1886) a « Joen Tshiën » (雲錢). Bien qu'il porte le caractère pour « Pièces », il n'est pas compté comme membre de la couleur Pièces. Dylan W.H.S appelle l'as supplémentaire Leeten (麗綫) et la carte de rechange Leefa (麗花), mais selon Hill Li, ils devraient être 梨綫 et 梨花 respectivement. Selon The Suffocated, la carte de rechange est Luk Fa (鹿花 « Fleur de cerf »).
 
-The Master leads first and the winner of each trick or multitrick
-leads to the next.
+## La Donne
 
-The player on lead may play
+Le premier donneur est choisi par tirage au sort. Ensuite, la donne tourne dans le sens antihoraire, sauf que lorsque le Maître (Tiu Ga - 頭家) gagne, le même donneur donne à nouveau, en restant à l'écart s'il y a quatre joueurs.
 
-- a single card
+Le donneur peut autoriser un perdant régulier à couper les cartes.
 
-- a set of three cards of equal rank
+Le donneur peut distribuer les cartes une par une ou par paquets de deux ou plus.
 
-- a set of four cards of equal rank
+Si seulement trois jouent, le donneur distribue d'abord à lui-même puis dans le sens antihoraire jusqu'à ce que tout le monde ait 12 cartes. Le donneur sera le Maître (ou premier joueur, la personne qui joue la première carte).
 
-- a sequence of three or more consecutive cards of the same
-suit.
+Si quatre jouent, la donne se fait toujours dans le sens antihoraire, mais commence par le joueur en face du donneur, qui sera le Maître. Le donneur se donne une seule carte à n'importe quel moment, mais généralement en premier ou en dernier.
 
-The Extra Ace does not count as an Ace when making sets of three
-or four Aces, nor can it enter a sequence. It can however be used
-to make a set of Five Aces and the lucky owner can claim an immediate
-victory before the first card is led, irrespective of who has the lead. Miss Tsoi called this "Ng
-Fu" ie "5 Fu" and valued it at six "tricks";
-Mr Pang valued it at 8 "tricks" and called it "Ng
-Fu Ha San" (五虎下山), "Five Tigers Emerge From the Mountain"
-in both the Hakka and Cantonese dialects, which we believe to
-be a play on the two meanings of "Fu". A player who holds other winners in addition to Five
-Aces cannot claim further "tricks": the payment for Five Tigers is a fixed amount. 
+## La Décision de jouer
 
-There are two constraints upon beginning tricks with single cards:
+Lorsque la donne est terminée, le Maître fait soit une ouverture légale soit passe. S'il passe, le joueur suivant dans le sens antihoraire passe ou dit « Jouer ». S'il passe aussi, le troisième joueur a le même choix. Si les trois passent, les cartes sont redistribuées par le donneur suivant. Si quelqu'un a dit « Jouer », alors le Maître mène.
+Selon Dylan W.H.S, le mot utilisé pour jouer est Tsoh (做).
 
-Firstly an Old Card can be led on its own only in three circumstances:
+Tout joueur qui a dit « Jouer » est Vulnérable, et s'il ne gagne pas devra payer les pertes de l'autre perdant ainsi que les siennes. Notez que le Maître n'a pas besoin de dire « Jouer » quand il veut jouer, et ne peut jamais être Vulnérable.
 
-- any player whose turn it is to lead may lay down any
-one or more Old Cards, regardless of their suits, if this brings
-immediate victory or gains further tricks over and above those
-needed for victory. Play then ends,
+## L'Objectif
 
-- a Vulnerable player may play one or more Old Cards whenever
-he has the lead,
+L'objectif est de gagner des « plis » totalisant au moins six cartes. Le montant gagné dépend du nombre de « plis » que le vainqueur prend. Le joueur qui prend six en premier peut arrêter le jeu et réclamer la victoire immédiate, mais s'il continue, en espérant d'autres « plis », et qu'un autre joueur prend les six autres, cet autre joueur est le seul vainqueur. Si personne ne prend 6 « plis », la main est nulle et il n'y a pas de paiements. M. Pang a dit que la donne ne tourne pas dans une main nulle lorsque le Maître n'avait pas passé ; Mlle Tsoi a dit que la donne tourne dans toutes les mains nulles ; Dylan W.H.S dit que dans une main nulle (Da Fo - 打和) il n'y a pas de paiements et le même donneur redistribue, indépendamment du fait que le Maître ait passé et qui a choisi de Jouer.
 
-- naturally, a player holding nothing but Old Cards playable
-only as single cards may lead one.
+## Paiements
 
-Secondly, a player who is starting a trick with a single card
-but may not lawfully play an Old Card must use a card from the
-highest suit in which he holds a (non-Old) card.
+Dans le tarif de paiements de Mlle Tsoi, une mise unitaire et une valeur pour les « plis » supplémentaires doivent être convenues. Elle a suggéré 10p pour les deux. Le gagnant obtiendrait alors 10p pour six « plis » et 10p pour chaque « pli » supplémentaire, soit un maximum de 70p pour douze « plis ». Cela est collecté auprès de chaque adversaire — ou doublement d'un adversaire Vulnérable.
 
-For example, suppose I am not Vulnerable.
+Le tarif de M. Pang impliquait une seule unité, pour laquelle il a aussi suggéré 10p, et les gagnants avec 6, 7, 8 ou 9 étaient payés 10, 20, 30 ou 40p comme dans le système de Mlle Tsoi, mais les gagnants avec 10 ou 11 étaient payés au double, obtenant ainsi 1 £ ou 1,20 £ et un gagnant avec 12 était payé au triple, pour 2,10 £.
 
-- If I have the lead and need one "trick" for victory
-and hold an Old Card in Coins and only non-Old cards in higher
-suits, then I may play the Old Card.
+Si un quatrième joueur était resté à l'écart, il retourne sa carte unique à la fin du jeu. Si son rang correspond à celui d'une ou plusieurs des cartes gagnantes du vainqueur, il collecte à 10p par correspondance de chaque perdant (ou doublement d'un perdant Vulnérable).
 
-- If I have the same holding but one "trick" will
-not suffice, then if I play a single card it must be from my highest
-suit.
+Si la carte du donneur est l'As supplémentaire, elle correspond à tous les autres As parmi les cartes gagnantes du vainqueur, et de même si le vainqueur a l'As supplémentaire parmi ses gagnantes, il correspond à tout As que le donneur détient.
 
-- If on the other hand I hold only an Old Card in Tens and only
-non-Old cards in other suits then if I play a single card then
-it must be from my next highest suit unless a single "trick"
-will bring me victory
+Variante : Mlle Tsoi a dit qu'il peut être convenu à l'avance que le gagnant obtient aussi 10p supplémentaires pour chaque carte avec un surimpression rouge parmi ses gagnantes. Ces cartes sont les Neuf et les As anciens ainsi que le Huit de Dizaines.
 
-The only constraint upon the lead to multitricks is that if the
-Master passed he is constrained never to lead a set of four or
-a sequence of four or more.
+## Vieilles Cartes
 
-## Following to a Trick or Multitrick
+Les quatre Neuf, les As de Dizaines et de Pièces et (s'il est en jeu) l'As supplémentaire sont appelés Vieilles Cartes (Lao Sui Pai - 老歲牌). Les Neuf sont initialement les cartes les plus hautes de leurs couleurs et toute carte qui est connue pour devenir, au cours du jeu, la plus haute de sa couleur est devenue Vieille. Si une séquence consécutive de la même couleur, menée par une Vieille carte, est détenue par un joueur, toute la séquence est des Vieilles Cartes. Le point important concernant le fait d'être connue comme la plus haute est qu'il peut y avoir un doute — les défausses se font sans être vues et dans la version à 4 joueurs une carte est hors jeu. Le donneur peut regarder sa carte immédiatement mais n'est pas tenu de la révéler avant la fin du jeu. Si c'est un Neuf ou un Huit, ou parfois même un Sept, il la garde cachée pour que les joueurs actifs ne sachent pas quelle carte est devenue la plus haute de cette couleur.
 
-Play follows anticlockwise. Each player must head the trick or
-multitrick if possible, or else discard the appropriate number
-of cards face down.
+Les As de Dizaines et de Pièces sont les plus bas de leurs couleurs et l'As supplémentaire n'est pas dans une couleur. Ces cartes ne peuvent battre aucune carte simple jouée devant elles, mais si l'une d'elles est menée comme carte simple, elle gagne le pli.
 
-A single card can be beaten only by a higher card in the same
-suit. A discard can be of any suit.
+## Mener à un pli ou multi-pli
 
-A set of three or four cards of the same rank can be beaten only
-by a set of the same number of cards of a higher rank. Exceptionally,
-if a set of three or four Aces is **led** to a multitrick then
-they can be beaten only by the same number of Nines.
+Le Maître mène en premier et le gagnant de chaque pli ou multi-pli mène au suivant.
 
-A sequence can be beaten either by a higher sequence of the same
-length in the same suit or by **any** sequence of the same
-length in a higher suit.
+Le meneur peut jouer :
 
-If a player who passed plays a set of 4 or a sequence of 4 or
-more he can expect to be challenged as to why he passed. If he
-held too good a hand to justify passing, the Pass will be considered
-unfair. If a player who said "Play" after such an unfair
-Pass loses then he will "not have to pay his share"
-of the losses. Presumably the other loser pays on behalf of both losers.
+- une carte unique
 
-## Completed Tricks and Multitricks
+- un ensemble de trois cartes de même rang
 
-When all three active players have played, the trick or multitrick is complete, and counts for as many "tricks" as the number of cards each person contributed. The winner of the trick or multitrick places his winning card or cards face-up in front of himself and the other cards are pushed aside. The losing cards remain face-up or face-down as they were played but may be buried when later tricks or multitricks are pushed aside. It is considered impolite to excavate in the pile for another sight of a card which is face-up but buried.
+- un ensemble de quatre cartes de même rang
 
-## Variations and other Luk Fu pages
+- une séquence de trois cartes ou plus consécutives de la même couleur.
 
-The version on the [Hak Ga Pai page](https://web.archive.org/web/20231004153953/https://dylansung.tripod.com/sapienti/hakgapai.htm) by Dylan W.H.S. (archive copy) has several small differences from the above description.
+L'As supplémentaire ne compte pas comme un As lors de la formation d'ensembles de trois ou quatre As, et ne peut pas entrer dans une séquence. Il peut cependant être utilisé pour faire un ensemble de Cinq As et le propriétaire chanceux peut réclamer une victoire immédiate avant la première carte menée, indépendamment de qui a la main. Mlle Tsoi appelait cela « Ng Fu » c'est-à-dire « 5 Fu » et l'évaluait à six « plis » ; M. Pang l'évaluait à 8 « plis » et l'appelait « Ng Fu Ha San » (五虎下山), « Cinq Tigres Sortent de la Montagne » dans les dialectes Hakka et cantonais, ce que nous croyons être un jeu de mots sur les deux sens de « Fu ». Un joueur qui détient d'autres cartes gagnantes en plus de Cinq As ne peut pas réclamer d'autres « plis » : le paiement pour Cinq Tigres est un montant fixe.
 
-- The winner of each hand deals next. With four players, the deal still begins with the dealer, and it is the player opposite the dealer who receives a single card.
+Il y a deux contraintes pour commencer les plis avec des cartes simples :
 
-- The dealer offers the cards to his left-hand opponent to cut. The player who cuts may look at the card which will become the bottom card of the deck, but this provides no extra information since he will receive this card as the last card of the deal.
+Premièrement, une Vieille Carte ne peut être menée seule que dans trois circonstances :
 
-- The constraint upon a 
-Master who has passed not to lead a set of four or
-a sequence of four or more does not apply. These cards may be led if held.
+- tout joueur dont c'est le tour de mener peut poser une ou plusieurs Vieilles Cartes, quelle que soit leur couleur, si cela apporte une victoire immédiate ou des plis supplémentaires au-delà de ceux nécessaires pour la victoire. Le jeu s'arrête alors,
 
-- If it is your lead and the only cards you have in the highest suit you hold are Old cards, then these can and must be led before leading any single card from a lower suit.
+- un joueur Vulnérable peut jouer une ou plusieurs Vieilles Cartes chaque fois qu'il a la main,
 
-- During the play, any player may ask another 'Giu - Um Giu?' (夠 - 唔夠) meaning 'do you have enough top cards to win?' If the player has, the play ends and the winner is paid for those cards (and not for any extra cards he might have won with had the cards been played out).
+- naturellement, un joueur ne détenant que des Vieilles Cartes jouables uniquement comme cartes simples peut en mener une.
 
-- There is no special immunity for the dealer if he chooses to play (Tsoh) and does win. He pays the other loser's loss as well as his own.
+Deuxièmement, un joueur qui commence un pli avec une carte unique mais qui ne peut pas légalement jouer une Vieille Carte doit utiliser une carte de la couleur la plus haute dans laquelle il détient une carte (non vieille).
 
-The [Rules of Luk Fu](https://aloneinthefart.blogspot.com/2011/01/rules-of-luk-fu-hakka-card-game.html) published by The Suffocated and Wong Siu Fat differ from the main description above as follows:
+Par exemple, supposons que je ne suis pas Vulnérable.
 
-- As in the Dylan W.H.S. version it is the player opposite the dealer who is the "dreamer" (Mung Ga - 夢家) and receives just one card. The dealer is always the Master (Tiu Ga - 頭家), whether there are three or four players. The same dealer deals again only when he Tsoh and wins or draws the game; in all other cases, including when everyone passes, the turn to deal passes to the right.
+- Si j'ai la main et qu'il me faut un « pli » pour la victoire et que je détiens une Vieille Carte en Pièces et seulement des cartes non vieilles dans les couleurs supérieures, alors je peux jouer la Vieille Carte.
 
-- In a multiple trick, a player can discard even if he could have beaten the highest play, provided that after discarding he is left with no combination that could have beaten the highest play. In other words, the combination that he could have played must be broken by the discard.
+- Si j'ai la même main mais qu'un « pli » ne suffit pas, alors si je joue une carte simple, ce doit être de ma couleur la plus haute.
 
-- The restrictions on leading single cards are somewhat different. If a player who is not Vulnerable leads a single card, it must be from the highest suit that he holds, and he must lead a non-old card of that suit if possible. A Vulnerable player may lead any old card, but must not lead a single non-old card if he holds any card of a higher suit.
+- Si, d'autre part, je ne détiens qu'une Vieille Carte en Dizaines et seulement des cartes non vieilles dans les autres couleurs, alors si je joue une carte simple, ce doit être de ma prochaine couleur la plus haute, à moins qu'un seul « pli » ne m'apporte la victoire.
 
-- There is no actual ban on the Master leading four or more cards if he passed, but if he does this, he runs the risk of being censored for passing when he should have played.
+La seule contrainte sur l'ouverture des multi-plis est que si le Maître a passé, il est contraint de ne jamais mener un ensemble de quatre ou une séquence de quatre ou plus.
 
-- It is normal practice (and not impolite) to examine cards that were played face up to previous tricks, and this may be necessary to resolve a dispute about which cards or combinations are known to be unbeatable.
+## Suivre à un pli ou multi-pli
 
-- The payments double rather than increasing by one unit for each additional trick. So the payment is 1 for 6 tricks, 2 for 7 tricks, 4 for 8 tricks, 8 for 9 tricks, 16 for ten tricks and 32 for eleven tricks. For a player who wins all twelve tricks there is an extra double: the player wins 128 rather than 64. The dreamer also doubles the amount won for each extra winning card that he can match.
+Le jeu se déroule dans le sens antihoraire. Chaque joueur doit surmonter le pli ou multi-pli si possible, ou sinon défausser le nombre approprié de cartes face cachée.
 
-Here is a [blog about Luk Fu](https://aloneinthefart.blogspot.com/2010/11/blog-post.html) (in Chinese) by The Suffocated.
+Une carte unique ne peut être battue que par une carte supérieure de la même couleur. Une défausse peut être de n'importe quelle couleur.
 
-## References Cited
+Un ensemble de trois ou quatre cartes du même rang ne peut être battu que par un ensemble du même nombre de cartes de rang supérieur. Exceptionnellement, si un ensemble de trois ou quatre As est **mené** à un multi-pli, il ne peut être battu que par le même nombre de Neuf.
 
-C T Dobree (1955): Gambling Games of Malaya, 1955
+Une séquence peut être battue soit par une séquence supérieure de même longueur dans la même couleur, soit par **n'importe quelle** séquence de même longueur dans une couleur supérieure.
 
-M Dummett (1980): The Game of Tarot, 1980
+Si un joueur qui a passé joue un ensemble de 4 ou une séquence de 4 ou plus, il peut s'attendre à être contesté sur les raisons de son passage. S'il avait une main trop bonne pour justifier le passage, le Pass sera considéré comme déloyal. Si un joueur qui a dit « Jouer » après un tel passage déloyal perd, il « n'aura pas à payer sa part » des pertes. Presumément, l'autre perdant paie au nom des deux perdants.
 
-K Himly (1901): Part VII of Die Abteilung der Spiele im Spiegel
-der Mandschu-Sprache, pp1-23 of T'oung Pao, 1901, 2nd series,
-vol. II
+## Plis et multi-plis complétés
 
-L M Iakovlev (1946): Igra v Karty u Kitaitsev, pp24-26
-of Zapiski Kharbinskogo Obshchestva Estestvoispytatelei i Etnagrofov,
-1946, vol 1
+Lorsque les trois joueurs actifs ont joué, le pli ou multi-pli est complet, et compte pour autant de « plis » que le nombre de cartes que chaque personne a contribué. Le gagnant du pli ou multi-pli pose sa ou ses cartes gagnantes face visible devant lui et les autres cartes sont poussées de côté. Les cartes perdantes restent face visible ou face cachée comme elles ont été jouées mais peuvent être enfouies lorsque des plis ou multi-plis ultérieurs sont poussés de côté. Il est considéré impoli de fouiller dans le tas pour revoir une carte qui est face visible mais enfouie.
 
-W H Wilkinson (1895): Chinese Origin of Playing Cards,
-The American Anthropologist, 1895
+## Variantes et autres pages Luk Fu
 
-J W Young (1886): Bijdrage tot de kennis der Chineesche hazard-
-en kaartspelen, pp269-302, Tijdschrift voor indische taal-,
-land- en volkenkunde, XXXI, 1886 
+La version sur la [page Hak Ga Pai](https://web.archive.org/web/20231004153953/https://dylansung.tripod.com/sapienti/hakgapai.htm) de Dylan W.H.S. (copie d'archive) présente plusieurs petites différences par rapport à la description ci-dessus.
 
-Home Page > Classified Index > Trick Taking Games > Multi-Trick Group > Luk Fu
+- Le gagnant de chaque main donne le suivant. Avec quatre joueurs, la donne commence toujours par le donneur, et c'est le joueur en face du donneur qui reçoit une seule carte.
+
+- Le donneur offre les cartes à son adversaire de gauche pour la coupe. Le joueur qui coupe peut regarder la carte qui deviendra la carte du bas du jeu, mais cela ne fournit aucune information supplémentaire puisqu'il recevra cette carte comme dernière carte de la donne.
+
+- La contrainte sur un Maître qui a passé de ne pas mener un ensemble de quatre ou une séquence de quatre ou plus ne s'applique pas. Ces cartes peuvent être menées si détenues.
+
+- Si c'est votre tour et que les seules cartes que vous avez dans la couleur la plus haute sont des vieilles cartes, celles-ci peuvent et doivent être menées avant de mener une carte simple d'une couleur inférieure.
+
+- Pendant le jeu, n'importe quel joueur peut demander à un autre « Giu - Um Giu ? » (夠 - 唔夠) signifiant « avez-vous assez de cartes hautes pour gagner ? » Si le joueur en a, le jeu s'arrête et le gagnant est payé pour ces cartes (et non pour les cartes supplémentaires qu'il aurait pu gagner si les cartes avaient été jouées).
+
+- Il n'y a pas d'immunité spéciale pour le donneur s'il choisit de jouer (Tsoh) et gagne. Il paie la perte de l'autre perdant ainsi que la sienne.
+
+Les [Règles de Luk Fu](https://aloneinthefart.blogspot.com/2011/01/rules-of-luk-fu-hakka-card-game.html) publiées par The Suffocated et Wong Siu Fat diffèrent de la description principale ci-dessus comme suit :
+
+- Comme dans la version de Dylan W.H.S., c'est le joueur en face du donneur qui est le « rêveur » (Mung Ga - 夢家) et ne reçoit qu'une seule carte. Le donneur est toujours le Maître (Tiu Ga - 頭家), qu'il y ait trois ou quatre joueurs. Le même donneur donne à nouveau seulement lorsqu'il Tsoh et gagne ou fait match nul ; dans tous les autres cas, y compris lorsque tout le monde passe, le tour de donner passe à droite.
+
+- Dans un multi-pli, un joueur peut défausser même s'il aurait pu battre le plus haut jeu, à condition qu'après la défausse il ne lui reste aucune combinaison qui aurait pu battre le plus haut jeu. En d'autres termes, la combinaison qu'il aurait pu jouer doit être brisée par la défausse.
+
+- Les restrictions sur les ouvertures de cartes simples sont quelque peu différentes. Si un joueur qui n'est pas Vulnérable mène une carte simple, ce doit être de la couleur la plus haute qu'il détient, et il doit mener une carte non-vieille de cette couleur si possible. Un joueur Vulnérable peut mener n'importe quelle vieille carte, mais ne doit pas mener une carte simple non-vieille s'il détient une carte d'une couleur supérieure.
+
+- Il n'y a pas d'interdiction réelle pour le Maître de mener quatre cartes ou plus s'il a passé, mais s'il le fait, il risque d'être blâmé pour avoir passé alors qu'il aurait dû jouer.
+
+- Il est normal (et non impoli) d'examiner les cartes jouées face visible lors des plis précédents, et cela peut être nécessaire pour résoudre un différend sur les cartes ou combinaisons connues pour être invincibles.
+
+- Les paiements doublent plutôt que d'augmenter d'une unité pour chaque pli supplémentaire. Le paiement est donc de 1 pour 6 plis, 2 pour 7 plis, 4 pour 8 plis, 8 pour 9 plis, 16 pour dix plis et 32 pour onze plis. Pour un joueur qui gagne les douze plis, il y a un double supplémentaire : le joueur gagne 128 plutôt que 64. Le rêveur double aussi le montant gagné pour chaque carte gagnante supplémentaire qu'il peut faire correspondre.
+
+Voici un [blog sur Luk Fu](https://aloneinthefart.blogspot.com/2010/11/blog-post.html) (en chinois) de The Suffocated.
+
+## Références citées
+
+C T Dobree (1955) : Gambling Games of Malaya, 1955
+
+M Dummett (1980) : The Game of Tarot, 1980
+
+K Himly (1901) : Part VII de Die Abteilung der Spiele im Spiegel der Mandschu-Sprache, pp1-23 de T'oung Pao, 1901, 2e série, vol. II
+
+L M Iakovlev (1946) : Igra v Karty u Kitaitsev, pp24-26 de Zapiski Kharbinskogo Obshchestva Estestvoispytatelei i Etnagrofov, 1946, vol 1
+
+W H Wilkinson (1895) : Chinese Origin of Playing Cards, The American Anthropologist, 1895
+
+J W Young (1886) : Bijdrage tot de kennis der Chineesche hazard- en kaartspelen, pp269-302, Tijdschrift voor indische taal-, land- en volkenkunde, XXXI, 1886

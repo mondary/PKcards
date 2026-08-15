@@ -3,106 +3,104 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** In which the holders of winning card combinations or of most points in a single suit win chips from a staking layout.
+**But :** Dans lequel les détenteurs de combinaisons gagnantes de cartes ou du plus de points dans une seule couleur gagnent des jetons d'une disposition de mises.
 
 ---
 
-This page is based on a contribution from Robert Reid.
+*Cette page est basée sur une contribution de Robert Reid.*
 
 ## Introduction
 
-This curious old game, also called 'Seven Cards', is known only from a description in a seventeenth-century collection of games by Francis Willughby and has no obviously close affinities with any other card game. It could perhaps be a declaration game of the Piquet / Imperial type which has shed the usual trick-play process. One can also see similarities to Primero and its relatives, although Ging lacks the vying element.
+Ce vieux jeu curieux, aussi appelé « Sept Cartes », n'est connu que par une description dans un recueil de jeux du XVIIe siècle de Francis Willughby et n'a pas d'affinités évidentes avec aucun autre jeu de cartes. Il pourrait peut-être s'agir d'un jeu de déclaration du type Piquet / Impérial qui aurait perdu le processus habituel de jeu de plis. On peut aussi voir des similitudes avec Primero et ses apparentés, bien que Ging manque d'élément de surenchère.
 
-Ging is quite enjoyable when played for small stakes or just for the counters. Success depends entirely on the cards you are dealt, but a certain level of concentration is still required in counting and declaring the points and remaining vigilant for the periodic appearance of the sweep combinations.
+Ging est assez agréable lorsqu'on y joue pour de petites mises ou juste pour les jetons. Le succès dépend entièrement des cartes qui vous sont distribuées, mais un certain niveau de concentration est quand même requis pour compter et déclarer les points et rester vigilant pour l'apparition périodique des combinaisons de balayage.
 
-## Cards
+## Cartes
 
-A 28 card pack is used, created by removing the aces and all cards below seven from a standard 52-card pack leaving K-Q-J-10-9-8-7 of each suit.
+On utilise un jeu de 28 cartes, créé en retirant les as et toutes les cartes inférieures au sept d'un jeu standard de 52 cartes, laissant R-D-V-10-9-8-7 de chaque couleur.
 
-## Players
+## Joueurs
 
-Four. In the description below, 'eldest hand' denotes the player immediately to the left of the dealer, i.e. moving clockwise from the dealer. In distinguishing the relative positions of any two players the 'elder' is the one closer to eldest hand and the 'younger' is the one further away, counting around the table from eldest hand in a clockwise direction. It follows that the dealer is always 'youngest hand'.
+Quatre. Dans la description ci-dessous, « la main du premier joueur » désigne le joueur immédiatement à la gauche du donneur, c'est-à-dire en allant dans le sens horaire à partir du donneur. Pour distinguer les positions relatives de deux joueurs, « l'aîné » est celui le plus proche de la main du premier joueur et le « cadet » est celui le plus éloigné, en comptant autour de la table depuis la main du premier joueur dans le sens horaire. Il s'ensuit que le donneur est toujours « la main la plus jeune ».
 
 | O | | O |
 | | OOOO | |
 | O | | O |
 
-## Stake
+## Mise
 
-Before play commences each of the four players places two counters on a square tray (a table mat will do) in the middle of the table: one counter at the centre and another at a corner which is not already occupied by another counter. This produces a layout with one counter at each of the four corners of the tray and four counters in the middle. The four counters in the middle are known collectively as 'the pee'.
+Avant le début du jeu, chacun des quatre joueurs place deux jetons sur un plateau carré (un sous-plat convient) au milieu de la table : un jeton au centre et un autre à un coin qui n'est pas déjà occupé par un autre jeton. Cela produit une disposition avec un jeton à chacun des quatre coins du plateau et quatre jetons au milieu. Les quatre jetons du milieu sont collectivement appelés « la pisse ».
 
-## Deal
+## Donner
 
-Players cut for first deal and seven cards are dealt to each player in a clockwise direction. Thereafter the turn to deal rotates clockwise.
+Les joueurs coupent pour la première donne et sept cartes sont distribuées à chaque joueur dans le sens horaire. Ensuite, le tour de donner passe dans le sens horaire.
 
 ## Scores
 
-Players win counters from the layout as follows:
+Les joueurs gagnent des jetons de la disposition comme suit :
 
-### I. 'Most of a suit'
+### I. « Le plus d'une couleur »
 
-The player with 'most of a suit' - the most points in a single suit - takes one corner counter from the layout and the player with the second most takes another corner counter. In calculating the points, court cards are reckoned at ten each and the rest by number. In the case of equal counts for most or second most, elder hands always take precedence over younger. Thus if three players hold an equal highest count of 30, the two elder players win most and second most, and the youngest wins nothing.
+Le joueur avec « le plus d'une couleur » — le plus de points dans une seule couleur — prend un jeton de coin de la disposition et le joueur avec le deuxième meilleur en prend un autre. Pour le calcul des points, les figures comptent dix chacune et le reste par numéro. En cas d'égalité pour le plus ou le deuxième plus, les mains aînées ont toujours priorité sur les mains cadettes. Ainsi, si trois joueurs ont un score supérieur égal de 30, les deux joueurs aînés gagnent le plus et le deuxième plus, et le plus jeune ne gagne rien.
 
-If a single player holds both most and second most he takes three corner counters rather than just two from the layout. This also applies, of course, if his two highest suits are of equal point value.
+Si un seul joueur détient à la fois le plus et le deuxième plus, il prend trois jetons de coin de la disposition plutôt que seulement deux. Cela s'applique aussi, bien sûr, si ses deux meilleures couleurs sont de valeur égale.
 
-After the winning players, or player, have removed their counters from the layout the other players must replace them. Thus, if two players have won, the other two players replace a counter each, and if one player has won, the other three players replace a counter each.
+Après que les joueurs gagnants, ou le joueur gagnant, ont retiré leurs jetons de la disposition, les autres joueurs doivent les remplacer. Ainsi, si deux joueurs ont gagné, les deux autres joueurs remplacent un jeton chacun, et si un joueur a gagné, les trois autres joueurs remplacent un jeton chacun.
 
-Only corner counters are taken and replaced for 'most of a suit' wins: 'the pee' remains untouched.
+Seuls les jetons de coin sont pris et remplacés pour les gains de « plus d'une couleur » : « la pisse » reste intacte.
 
-### II. Combinations
+### II. Combinaisons
 
-There are five combinations which sweep the layout: the winner takes all the counters - the four at the corners plus 'the pee'. The board then has to be dressed anew as at the beginning of the game - each player contributing one corner counter and one counter to 'the pee'. This means that a sweep-winner's real winnings are six, not eight counters, since he, too, has to contribute two to the new layout. Whenever one of these five combinations is declared it overrides 'most of a suit' which is therefore omitted (or abandoned) for that deal.
+Il y a cinq combinaisons qui balayent la disposition : le gagnant prend tous les jetons — les quatre aux coins plus « la pisse ». Le plateau doit ensuite être préparé à nouveau comme au début du jeu — chaque joueur contribuant un jeton de coin et un jeton à « la pisse ». Cela signifie que les gains réels du balayeur sont de six, et non de huit jetons, puisqu'il doit aussi contribuer deux jetons à la nouvelle disposition. Chaque fois que l'une de ces cinq combinaisons est déclarée, elle supplante « le plus d'une couleur » qui est donc omis (ou abandonné) pour cette donne.
 
-1. 'Seven cards': a flush - all seven cards in the hand are of the same suit.
+1. « Sept cartes » : une couleur — les sept cartes de la main sont de la même couleur.
 
-2. 'Four sevens': a hand containing four sevens. No other four-of-a-kind counts.
+2. « Quatre sept » : une main contenant quatre sept. Aucun autre carré ne compte.
 
-3. 'Ging': a suit count of 37 points. For this to be valid all the cards held in the suit must total exactly 37 and the method of calculation is the same as for 'most of a suit'.
+3. « Ging » : un décompte de couleur de 37 points. Pour que cela soit valide, toutes les cartes de la couleur doivent totaliser exactement 37 et la méthode de calcul est la même que pour « le plus d'une couleur ».
 
-4. 'Gentlemen': a hand consisting entirely of face cards. (It would be more accurate to term it 'Ladies and Gentlemen'.)
+4. « Gentlemen » : une main composée entièrement de figures. (Il serait plus exact de l'appeler « Dames et Gentlemen ».)
 
-5. 'Bare shoulders': a hand without face cards, a 'carte blanche'.
+5. « Épaules nues » : une main sans figures, une « carte blanche ».
 
-Only one of these combinations can be valid in any given deal. 'Seven cards' and 'four sevens' are mutually exclusive but otherwise it is possible for more than one combination to turn up in a single deal. If this occurs they rank in descending order as listed above, from 'seven cards' and 'four sevens' which take precedence over all other combinations, down to 'bare shoulders' which is outranked by any other combination. So, for example, if, on a particular deal, one player holds 'gentlemen' and another 'ging', 'ging' will take precedence and its holder will sweep the layout. It is also possible for the same combination to occur more than once in the same deal; in such a case the elder hand takes precedence. ('Four sevens' and 'gentlemen' can only occur once in a deal.) Likewise, it is very rare, but possible, for a single hand to contain two combinations - 'four sevens' + 'ging' or 'four sevens' + 'bare shoulders' - in which case only 'four sevens', as the higher combination, counts.
+Une seule de ces combinaisons peut être valide dans une donne donnée. « Sept cartes » et « quatre sept » s'excluent mutuellement mais autrement il est possible que plus d'une combinaison apparaisse dans une seule donne. Si cela se produit, elles se classent par ordre décroissant comme énuméré ci-dessus, de « sept cartes » et « quatre sept » qui priment sur toutes les autres combinaisons, jusqu'à « épaules nues » qui est surclassée par toute autre combinaison. Ainsi, par exemple, si, à une donne particulière, un joueur détient « gentlemen » et un autre « ging », « ging » aura priorité et son détenteur balayera la disposition. Il est aussi possible que la même combinaison se produise plus d'une fois dans la même donne ; dans ce cas, la main aînée a priorité. (« Quatre sept » et « gentlemen » ne peuvent se produire qu'une fois dans une donne.) De même, il est très rare, mais possible, qu'une seule main contienne deux combinaisons — « quatre sept » + « ging » ou « quatre sept » + « épaules nues » — auquel cas seul « quatre sept », comme combinaison supérieure, compte.
 
-The order of precedence also reflects the relative rarity of the combinations, with one important exception: 'ging' is by far the most commonly met with, although ranking midway in the hierarchy. The others occur very infrequently and players need to be careful not to overlook them when they are routinely counting up for 'most of a suit'.
+L'ordre de priorité reflète aussi la rareté relative des combinaisons, avec une exception importante : « ging » est de loin la plus couramment rencontrée, bien qu'elle se classe au milieu de la hiérarchie. Les autres se produisent très rarement et les joueurs doivent faire attention à ne pas les oublier lorsqu'ils comptent systématiquement pour « le plus d'une couleur ».
 
-The mechanics of declaring scores are not detailed by Willughby. There is no need to declare in turn - any player who has a good hand can announce it, and when everyone is satified, the player with the best combination, or if there is none, the player(s) with the two best suits claim their counters. 
+La mécanique de déclaration des scores n'est pas détaillée par Willughby. Il n'est pas nécessaire de déclarer à tour de rôle — tout joueur qui a une bonne main peut l'annoncer, et quand tout le monde est satisfait, le joueur avec la meilleure combinaison, ou s'il n'y en a pas, le ou les joueurs avec les deux meilleures couleurs réclament leurs jetons.
 
-## Examples
+## Exemples
 
-- A (eldest): ![spade](../images/internat/spade.gif) 9; ![heart](../images/internat/heart.gif) J 9; ![diamond](../images/internat/diamond.gif) 10 7; ![club](../images/internat/club.gif) K J
+- A (aîné) : ![piqué](../images/internat/spade.gif) 9 ; ![cœur](../images/internat/heart.gif) V 9 ; ![carreau](../images/internat/diamond.gif) 10 7 ; ![trèfle](../images/internat/club.gif) R V
 
-- B: ![spade](../images/internat/spade.gif) 10 8; ![heart](../images/internat/heart.gif) K 10; ![diamond](../images/internat/diamond.gif) K 9; ![diamond](../images/internat/diamond.gif) 10
+- B : ![piqué](../images/internat/spade.gif) 10 8 ; ![cœur](../images/internat/heart.gif) R 10 ; ![carreau](../images/internat/diamond.gif) R 9 ; ![carreau](../images/internat/diamond.gif) 10
 
-- C: ![spade](../images/internat/spade.gif) K J 7; ![heart](../images/internat/heart.gif) 7; ![diamond](../images/internat/diamond.gif) Q J 8; ![club](../images/internat/club.gif) --
+- C : ![piqué](../images/internat/spade.gif) R V 7 ; ![cœur](../images/internat/heart.gif) 7 ; ![carreau](../images/internat/diamond.gif) D V 8 ; ![trèfle](../images/internat/club.gif) --
 
-- D: ![spade](../images/internat/spade.gif) Q; ![heart](../images/internat/heart.gif) Q 8; ![diamond](../images/internat/diamond.gif) --; ![club](../images/internat/club.gif) Q 9 8 7
+- D : ![piqué](../images/internat/spade.gif) D ; ![cœur](../images/internat/heart.gif) D 8 ; ![carreau](../images/internat/diamond.gif) -- ; ![trèfle](../images/internat/club.gif) D 9 8 7
 
-D wins most (34 in clubs) and C second most (28 in diamonds). They each take a corner counter from the layout, and A and B each put a counter in their place.
+D gagne le plus (34 en trèfle) et C le deuxième plus (28 en carreau). Ils prennent chacun un jeton de coin de la disposition, et A et B placent chacun un jeton à sa place.
 
-- A (eldest): ![spade](../images/internat/spade.gif) K 10 8; ![heart](../images/internat/heart.gif) 10 9; ![diamond](../images/internat/diamond.gif) --; ![club](../images/internat/club.gif) K 10
+- A (aîné) : ![piqué](../images/internat/spade.gif) R 10 8 ; ![cœur](../images/internat/heart.gif) 10 9 ; ![carreau](../images/internat/diamond.gif) -- ; ![trèfle](../images/internat/club.gif) R 10
 
-- B: ![spade](../images/internat/spade.gif) Q 9; ![heart](../images/internat/heart.gif) J; ![diamond](../images/internat/diamond.gif) J 9; ![club](../images/internat/club.gif) Q 8
+- B : ![piqué](../images/internat/spade.gif) D 9 ; ![cœur](../images/internat/heart.gif) V ; ![carreau](../images/internat/diamond.gif) V 9 ; ![trèfle](../images/internat/club.gif) D 8
 
-- C: ![spade](../images/internat/spade.gif) 7; ![heart](../images/internat/heart.gif) 7; ![diamond](../images/internat/diamond.gif) K Q 10; ![club](../images/internat/club.gif) J 7
+- C : ![piqué](../images/internat/spade.gif) 7 ; ![cœur](../images/internat/heart.gif) 7 ; ![carreau](../images/internat/diamond.gif) R D 10 ; ![trèfle](../images/internat/club.gif) V 7
 
-- D: ![spade](../images/internat/spade.gif) J; ![heart](../images/internat/heart.gif) K Q 8; ![diamond](../images/internat/diamond.gif) 8 7; ![club](../images/internat/club.gif) 9
+- D : ![piqué](../images/internat/spade.gif) V ; ![cœur](../images/internat/heart.gif) R D 8 ; ![carreau](../images/internat/diamond.gif) 8 7 ; ![trèfle](../images/internat/club.gif) 9
 
-C wins most (30 in diamonds) and A second most (28 in spades). Note, however, that if D had been eldest hand he would have won second most (28 in diamonds), taking precedence over A.
+C gagne le plus (30 en carreau) et A le deuxième plus (28 en pique). Notez cependant que si D avait été la main aînée, il aurait gagné le deuxième plus (28 en carreau), prenant priority sur A.
 
-A declaration of any of the five sweep combinations outranks all 'most of suit' declarations. If a player declares 'ging' he should table his whole hand to show that he is not holding back cards that would take him over 37.
+Une déclaration de l'une des cinq combinaisons de balayage surclasse toutes les déclarations de « plus de couleur ». Si un joueur déclare « ging », il doit étaler toute sa main pour montrer qu'il ne retient pas de cartes qui le porteraient au-delà de 37.
 
-## Ending the game
+## Fin de partie
 
-Willughby offers no suggestions on how to conclude the game. One method is for the players to start with an equal number of counters and for the game to end as soon as one player has lost his last one. The layout is then divided up equally between the four players, so that, in effect, they get back the two counters they put in at the start of the game. A game should also end immediately after a sweep, if one of the players has only one counter left and therefore can't fully contribute to a new layout. Another method is to play over a set number of deals, dividing up the pool at the end of the last one.
+Willughby ne donne aucune suggestion sur la façon de conclure la partie. Une méthode consiste pour les joueurs à commencer avec un nombre égal de jetons et pour que la partie se termine dès qu'un joueur a perdu son dernier jeton. La disposition est alors divisée également entre les quatre joueurs, de sorte qu'en effet, ils récupèrent les deux jetons qu'ils ont mis au début du jeu. Une partie devrait aussi se terminer immédiatement après un balayage, si l'un des joueurs n'a plus qu'un seul jeton et ne peut donc pas contribuer pleinement à une nouvelle disposition. Une autre méthode consiste à jouer pendant un nombre fixe de donnes, en divisant le pot à la fin de la dernière.
 
-## Penalty
+## Pénalité
 
-'Losing' the deal, i.e. dodging your turn to deal, was clearly a temptation in a game where the dealer, as youngest hand, is at a disadvantage in relation to the other players. The penalty was for the guilty player, once detected, to take up the next deal and to replace each consecutive player as dealer until his next 'natural' turn to deal came round again.
+« Perdre » la donne, c'est-à-dire esquiver son tour de donner, était clairement une tentation dans un jeu où le donneur, en tant que main la plus jeune, est désavantagé par rapport aux autres joueurs. La pénalité était pour le joueur coupable, une fois découvert, de reprendre la donne suivante et de remplacer chaque joueur consécutif en tant que donneur jusqu'à ce que son prochain « tour naturel » de donner revienne.
 
-## Reference
+## Référence
 
-[Francis Willughby's Book of Games: A Seventeenth Century Treatise on Sports, Games, and Pastimes](https://www.amazon.com/gp/product/1859284604/ref=as_li_ss_tl?ie=UTF8&tag=cardgames&linkCode=as2&camp=1789&creative=390957&creativeASIN=1859284604), edited by David Cram, Jeffrey L. Forgeng and Dorothy Johnston, Ashgate Publishing Ltd, Aldershot, 2003, pp. 156-7.
-
-Home Page > Classified Index > Showdown games > Ging
+[Francis Willughby's Book of Games: A Seventeenth Century Treatise on Sports, Games, and Pastimes](https://www.amazon.com/gp/product/1859284604/ref=as_li_ss_tl?ie=UTF8&tag=cardgames&linkCode=as2&camp=1789&creative=390957&creativeASIN=1859284604), édité par David Cram, Jeffrey L. Forgeng et Dorothy Johnston, Ashgate Publishing Ltd, Aldershot, 2003, pp. 156-7.

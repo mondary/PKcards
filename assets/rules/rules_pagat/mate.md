@@ -2,92 +2,90 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A two-player card game of perfect information published by G. Capellen in 1915.
+**But :** Un jeu de cartes à deux joueurs à information complète publié par G. Capellen en 1915.
 
 ---
 
-*This page is based on a contribution from Doran Gaston.*
+*Cette page est basée sur une contribution de Doran Gaston.*
 
 ## Introduction
 
-The two-player card game* Mate* was first published in Germany in 1915 by G. Capellen in a pamphlet entitled "*Zwei Neue Kriegspiele!*" ("Two New War Games!") along with a Chess variant called *Free Chess*. The game did not find widespread success and has remained fairly obscure, but it later gained a small following after being included in the 1969 book *[A Gamut of Games](https://amzn.to/2fqn4F7)* by Sid Sackson.
+Le jeu de cartes à deux joueurs *Mate* a été publié pour la première fois en Allemagne en 1915 par G. Capellen dans une brochure intitulée « *Zwei Neue Kriegspiele!* » (« Deux nouveaux jeux de guerre ! ») avec une variante d'échecs appelée *Free Chess*. Le jeu n'a pas connu de succès généralisé et est resté assez obscur, mais il a ensuite gagné un petit groupe de fidèles après avoir été inclus dans le livre de 1969 *[A Gamut of Games](https://amzn.to/2fqn4F7)* de Sid Sackson.
 
-Unusually among games played with cards, *Mate* is a game of perfect information: both players know the location of all cards from the start. The card ranking with the Ten between Ace and King, the order of suits clubs-spades-hearts-diamonds and the card values 11-10-4-3 for the top cards will be familiar to players of other German games such as 66 and Skat.
+De manière inhabituelle parmi les jeux joués avec des cartes, *Mate* est un jeu à information complète : les deux joueurs connaissent l'emplacement de toutes les cartes dès le début. Le classement des cartes avec le Dix entre l'As et le Roi, l'ordre des couleurs trèfle-pique-cœur-carreau et les valeurs des cartes 11-10-4-3 pour les cartes supérieures seront familiers aux joueurs d'autres jeux allemands tels que 66 et Skat.
 
-## Objective
+## Objectif
 
-The objective of *Mate* is to score as many points as possible over the course of four games. Two games constitute a “round” and two “rounds” constitute a “match”. Points are scored by giving “mate” to an opponent in a manner somewhat analogous to a player being checkmated in a game of Chess when they are unable to defend their king from check. This is achieved by leading a card which the other player is unable to match in number or suit. We follow Sid Sackson in using the term “move” instead of “trick” to refer to a card led by one player plus a card played by the opponent in response: this was done * * to emphasize Mate’s similarity to abstract board games. 
+L'objectif de *Mate* est de marquer le plus de points possible au cours de quatre parties. Deux parties constituent une « manche » et deux « manches » constituent un « match ». Les points sont marqués en faisant « mate » à un adversaire d'une manière quelque peu analogue à un joueur mis en échec et mat aux échecs lorsqu'il est incapable de défendre son roi contre l'échec. Cela se réalise en menant une carte que l'autre joueur ne peut pas suivre en numéro ou en couleur. Nous suivons Sid Sackson en utilisant le terme « coup » au lieu de « levée » pour désigner une carte menée par un joueur plus une carte jouée par l'adversaire en réponse : cela a été fait pour souligner la similitude de Mate avec les jeux de plateau abstraits.
 
-## Players and Cards
+## Joueurs et cartes
 
-*Mate* is a two-player game played with 20 cards from a standard deck: the Ace, 10, King, Queen, and 7 from each suit. 
+*Mate* est un jeu à deux joueurs joué avec 20 cartes d'un jeu standard : l'As, le 10, le Roi, la Dame et le 7 de chaque couleur.
 
-The rank of the suits from highest to lowest: Clubs, Spades, Hearts, and Diamonds 
+Le rang des couleurs du plus haut au plus bas : Trèfle, Pique, Cœur, Carreau
 
-The cards of each suit rank from highest to lowest: Ace, 10, King, Queen, 7 
+Les cartes de chaque couleur se classent du plus haut au plus bas : As, 10, Roi, Dame, 7
 
-## Deal
+## Donne
 
-One player is the dealer for the first and fourth games, and the other is the dealer for the second and third games.
+Un joueur est le donneur pour la première et la quatrième partie, et l'autre est le donneur pour la deuxième et la troisième partie.
 
-For the first game the dealer shuffles the cards and deals 10** ** to each player in batches of 5. The cards are played in front of the players so that the two hands remain separate.
+Pour la première partie, le donneur mélange les cartes et distribue 10 cartes à chaque joueur en deux groupes de 5. Les cartes sont jouées devant les joueurs de sorte que les deux mains restent séparées.
 
-After the first game has been played and scored, the players pick up their cards and exchange hands with their opponent without shuffling them together. The player who did not deal the first game has the role of the dealer in the second game and plays the first card. The second game is played and scored to complete the first round.
+Après que la première partie a été jouée et marquée, les joueurs ramassent leurs cartes et échangent leurs mains avec leur adversaire sans les mélanger ensemble. Le joueur qui n'a pas donné la première partie a le rôle de donneur dans la deuxième partie et joue la première carte. La deuxième partie est jouée et marquée pour compléter la première manche.
 
-After the first round is finished, the dealer of the second game gathers all of the cards, shuffles them, and deals the cards for the third game in the same manner as the first game. At the end of the third game hands and roles are exchanged for the fourth game, which completes the second round. Then the final scores are compared.
+Après que la première manche est terminée, le donneur de la deuxième partie rassemble toutes les cartes, les mélange, et distribue les cartes pour la troisième partie de la même manière que la première partie. À la fin de la troisième partie, les mains et les rôles sont échangés pour la quatrième partie, qui complète la deuxième manche. Ensuite, les scores finaux sont comparés.
 
-## Play
+## Jeu
 
-In each game, the dealer leads to the first move. 
+Dans chaque partie, le donneur mène le premier coup.
 
-In each move, the leader may lead any card. The other player must follow with a card of the same suit if one is available. If not, they must follow with a card of the same rank. The player who plays the higher card, or the higher suit when rank is followed, leads to the next move. Cards remain on the table in front of the players after they are played.
+Dans chaque coup, le meneur peut mener n'importe quelle carte. L'autre joueur doit suivre avec une carte de la même couleur s'il en a une. Sinon, il doit suivre avec une carte du même rang. Le joueur qui joue la carte la plus haute, ou la couleur la plus haute quand le rang est suivi, mène le coup suivant. Les cartes restent sur la table devant les joueurs après avoir été jouées.
 
-If one player leads a card that the other player can’t follow in suit or rank, they have given “mate” to their opponent and the game ends. If all the cards are played with no mate, then the game is a draw. 
+Si un joueur mène une carte que l'autre joueur ne peut pas suivre en couleur ou en rang, il a fait « mate » à son adversaire et la partie se termine. Si toutes les cartes sont jouées sans mate, alors la partie est nulle.
 
-## Scoring
+## Comptage des points
 
-The score for each game is determined by the card used to give mate multiplied by the number of moves played in that game.
+Le score de chaque partie est déterminé par la carte utilisée pour faire mate multipliée par le nombre de coups joués dans cette partie.
 
-The score values for each card are:
+Les valeurs de score pour chaque carte sont :
 
-| Ace | 11 |
-| Ten | 10 |
-| King | 4 |
-| Queen | 3 |
-| Seven | 7 |
+| As | 11 |
+| Dix | 10 |
+| Roi | 4 |
+| Dame | 3 |
+| Sept | 7 |
 
-For example, if a player gives mate with an Ace on the third move of a game, he or she scores 33 points.
+Par exemple, si un joueur fait mate avec un As au troisième coup d'une partie, il ou elle marque 33 points.
 
-If a game is drawn, neither player scores.
+Si une partie est nulle, aucun des deux joueurs ne marque.
 
-The player with the higher total score at the end of the match is the winner. 
+Le joueur avec le score total le plus élevé à la fin du match est le gagnant.
 
-## Foreplacing
+## Pré-placement
 
-At the beginning of each game, each player in turn, beginning with the player who will lead to the first move, has the option to “foreplace” a card. A player foreplaces a card by taking if from their hand and putting it face up on the table, removing it from play. If the first player foreplaces a card, the second player is not allowed to foreplace a card of the same rank or suit.
+Au début de chaque partie, chaque joueur à tour de rôle, en commençant par le joueur qui mènera le premier coup, a la possibilité de « pré-placer » une carte. Un joueur pré-place une carte en la prenant dans sa main et en la posant face visible sur la table, la retirant du jeu. Si le premier joueur pré-place une carte, le deuxième joueur n'est pas autorisé à pré-placer une carte du même rang ou de la même couleur.
 
-If a player who has foreplaced a card wins the game, the score is the value of the mating card multiplied by the number of moves plus one. If both players foreplace a card the game only lasts for nine moves. If only one player foreplaces a card and there is no mate within nine moves, the player who foreplaced reuses the card they played for the ninth move for the tenth move as well. If the player who foreplaced gives mate on the 10th move in this manner, their score for the game is doubled - i.e. the score is the value of the mating card multiplied by 22. This is called an “overmate”.
+Si un joueur qui a pré-placé une carte gagne la partie, le score est la valeur de la carte de mate multipliée par le nombre de coups plus un. Si les deux joueurs pré-placent une carte, la partie ne dure que neuf coups. Si un seul joueur pré-place une carte et qu'il n'y a pas de mate dans les neuf coups, le joueur qui a pré-placé réutilise la carte qu'il a jouée pour le neuvième coup pour le dixième coup également. Si le joueur qui a pré-placé fait mate au 10e coup de cette manière, son score pour la partie est doublé — c'est-à-dire que le score est la valeur de la carte de mate multipliée par 22. C'est ce qu'on appelle un « overmate ».
 
-## Variations
+## Variantes
 
-### Double Deck
+### Double jeu
 
-The game may be played with a “Double Mate Deck” of 20 cards which has an extra copy of the Ace of Diamonds, 10 of Hearts, King of Spades, and 7 of Clubs but no Queens. If two identical cards are played in a move, the player who led to the move leads again to the next move.
+Le jeu peut être joué avec un « jeu Double Mate » de 20 cartes qui comporte une copie supplémentaire de l'As de carreau, du 10 de cœur, du Roi de pique et du 7 de trèfle, mais pas de Dames. Si deux cartes identiques sont jouées dans un coup, le joueur qui a mené le coup mène à nouveau le coup suivant.
 
-### Mate with Free Move
+### Mate avec coup libre
 
-Once per game, one player may announce “Free move" and follow a card with a card of the same rank instead of the same suit even if a card of the same suit is available. After a player has used the free move it is no longer available to either player until the next game.
+Une fois par partie, un joueur peut annoncer « Coup libre » et suivre une carte avec une carte du même rang au lieu de la même couleur, même s'il dispose d'une carte de la même couleur. Après qu'un joueur a utilisé le coup libre, il n'est plus disponible pour aucun des deux joueurs jusqu'à la partie suivante.
 
-### Mate with King’s Privilege
+### Mate avec privilège du Roi
 
-If a player leads a King, their opponent must follow with a King if one is available. Having no King, the opponent must play a card of the same suit.
+Si un joueur mène un Roi, son adversaire doit suivre avec un Roi s'il en a un. N'ayant pas de Roi, l'adversaire doit jouer une carte de la même couleur.
 
-### Figure Privilege
+### Privilège des figures
 
-Same as King’s Privilege, but it also applies to Queens.
+Identique au privilège du Roi, mais s'applique aussi aux Dames.
 
-### Mate with Free Move and King’s (or Figure) Privilege
+### Mate avec coup libre et privilège du Roi (ou des figures)
 
-If a “Free move” is taken to follow a King (or Queen), a player is allowed to follow with a different card of the same suit even if a King (or Queen) is available. 
-
-Home Page > Classified Index > Miscellaneous Games > Mate
+Si un « coup libre » est utilisé pour suivre un Roi (ou une Dame), un joueur est autorisé à suivre avec une carte différente de la même couleur même s'il a un Roi (ou une Dame) disponible.

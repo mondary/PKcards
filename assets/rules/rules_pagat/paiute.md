@@ -3,78 +3,76 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the Hawaiian card game Paiute in which players draw and discard cards trying to collect the strongest poker  combination.
+**But :** Comment jouer au jeu de cartes hawaïen Paiute dans lequel les joueurs piochent et écartent des cartes en essayant de constituer la combinaison de poker la plus forte.
 
 ---
 
 ## Introduction
 
-This Hawaiian draw and discard game has some slight similarity to Knock Poker, but with the difference that it is possible to go out after drawing with a six-card hand.
+Ce jeu hawaïen de pioche et d'écart présente une légère similitude avec le Knock Poker, mais avec la différence qu'il est possible de se sortir après la pioche avec une main de six cartes.
 
-This page is based mainly on information from Derek Bal, Malia Pugh and Pomai T and Anthony Kahakui-Maize.
+Cette page est principalement basée sur des informations de Derek Bal, Malia Pugh, Pomai T et Anthony Kahakui-Maize.
 
-## Players and Cards
+## Joueurs et cartes
 
-Paiute is played by from 2 to 5 players, using a standard international 52-card pack, ace ranking high.
+Le Paiute se joue à 2 à 5 joueurs, avec un jeu international standard de 52 cartes, l'As étant le plus haut.
 
-## Deal
+## Donne
 
-The dealer shuffles, the player to dealer's right cuts, and the dealer deals five cards to each player, one at a time. After the deal, the next card is placed face up on the table and becomes a wild card - for example if is a three, all the remaining threes are wild for that deal. The remainder of the deck is placed face down on top of the wild card (with part of the wild card still showing) to form the stock.
+Le donneur mélange, le joueur à sa droite coupe, et le donneur distribue cinq cartes à chaque joueur, une à la fois. Après la donne, la carte suivante est posée face visible sur la table et devient une carte sauvage — par exemple si c'est un trois, tous les trois restants sont sauvages pour cette donne. Le reste du jeu est posé face cachée sur la carte sauvage (avec une partie de la carte sauvage encore visible) pour former la réserve.
 
-## Play
+## Jeu
 
-The play goes clockwise beginning with the player to the dealer's left.
+Le jeu se déroule dans le sens horaire en commençant par le joueur à la gauche du donneur.
 
-On each turn, a player takes one card: either the top of the face down stock pile or the top card of the face up discard pile. The player must then discard one card face up on the discard pile. If you pick up from the stock you may discard the card you just picked up or a different one; if you pick up from the discard pile you must discard a different card. Therefore until there is a call, players will always have five cards at the end of their turn.
+À chaque tour, un joueur prend une carte : soit le dessus de la réserve face cachée, soit la carte du dessus de la défausse face visible. Le joueur doit ensuite écarter une carte face visible sur la défausse. Si vous prenez de la réserve, vous pouvez écarter la carte que vous venez de prendre ou une autre ; si vous prenez de la défausse, vous devez écarter une carte différente. Par conséquent, jusqu'à ce qu'il y ait un appel, les joueurs auront toujours cinq cartes à la fin de leur tour.
 
-A player who has a winning combination after drawing can call. If the caller is not the dealer, the current round of play is completed, each player up to and including the dealer having one turn to try to make a better winning combination.
+Un joueur qui a une combinaison gagnante après avoir pioché peut appeler. Si l'appelant n'est pas le donneur, le tour de jeu en cours est complété, chaque joueur jusqu'au donneur inclus ayant un tour pour essayer de faire une meilleure combinaison gagnante.
 
-A winning combination consists of either five or six cards. It is not obligatory to call when you have a winning combination - you could continue playing and try to improve it - but if you do call you place the combination face up on the table. If it is a five-card combination you then discard your sixth card. If it is a six-card you do not discard on that turn, and the next player as usual may either draw from the stock or take the top card of the discard pile, which is the card discarded by the player before the one who called.
+Une combinaison gagnante se compose de cinq ou six cartes. Il n'est pas obligatoire d'appeler lorsqu'on a une combinaison gagnante — on peut continuer à jouer et essayer de l'améliorer — mais si on appelle, on place la combinaison face visible sur la table. S'il s'agit d'une combinaison de cinq cartes, on écarte alors sa sixième carte. S'il s'agit d'une combinaison de six cartes, on n'écarte pas à ce tour, et le joueur suivant peut, comme d'habitude, soit piocher de la réserve, soit prendre la carte du dessus de la défausse, qui est la carte écartée par le joueur précédant celui qui a appelé.
 
-After a player has called, other players in turn around to the dealer can also call if they have a combination that equals or beats the highest combination shown so far.
+Après qu'un joueur a appelé, les autres joueurs à tour de rôle jusqu'au donneur peuvent aussi appeler s'ils ont une combinaison égale ou supérieure à la meilleure combinaison montrée jusque-là.
 
-The winning combinations, in order from high to low, are as follows:
+Les combinaisons gagnantes, de la plus haute à la plus basse, sont les suivantes :
 
-- Five of a Kind: Five cards of the same rank. 
+- Cinq d'un même rang : cinq cartes du même rang.
 
-- Royal Flush: A-K-Q-J-10 of a single suit.
+- Quinte flush royale : A-R-D-V-10 d'une seule couleur.
 
-- Straight Flush: Five consecutive cards of a suit. 5-4-3-2-A of a suit is the lowest straight flush.
+- Quinte flush : cinq cartes consécutives de la même couleur. 5-4-3-2-A d'une couleur est la quinte flush la plus basse.
 
-- Four / Two: Four cards of the same rank, plus a pair of cards of a second rank - for example 9-9-9-9-K-K. If two players have a four / two, the player with the higher four of a kind will win.
+- Carré/Paire : quatre cartes du même rang, plus une paire de cartes d'un second rang — par exemple 9-9-9-9-R-R. Si deux joueurs ont un carré/paire, le joueur avec le plus haut carré gagne.
 
-- Three / Three: Two sets of three of a kind - for example Q-Q-Q-6-6-6. If two players have a three / three, the ranks of the higher three of a kind held by each player are compared to decide who wins.
+- Double brelan : deux ensembles de brelan — par exemple D-D-D-6-6-6. Si deux joueurs ont un double brelan, les rangs du brelan le plus élevé de chaque joueur sont comparés pour décider qui gagne.
 
-- Two / Two / Two: Three pairs, such as J-J-7-7-3-3. This hand is called "paiute" and can only be called on a player's first draw. If two players call a paiute, their highest pairs are compared first, then if these are equal the middle pairs, and if these are equal the low pairs.
+- Triple paire : trois paires, comme V-V-7-7-3-3. Cette main est appelée « paiute » et ne peut être appelée qu'au premier tour de pioche d'un joueur. Si deux joueurs appellent un paiute, leurs paires les plus hautes sont d'abord comparées, puis si celles-ci sont égales, les paires du milieu, et si celles-ci sont égales, les paires basses.
 
-Poker players should note that regular straights (five consecutive cards of mixed suits) and flushes (five cards of a suit not in sequence) have no value in this game.
+Les joueurs de poker doivent noter que les quintes régulières (cinq cartes consécutives de couleurs mélangées) et les couleurs (cinq cartes de la même couleur non en séquence) n'ont aucune valeur dans ce jeu.
 
-If the stock pile runs out, the cards of the discard pile, other than the top card, are shuffled and stacked face down to form a new stock pile.
+Si la réserve s'épuise, les cartes de la défausse, à l'exception de la carte du dessus, sont mélangées et empilées face cachée pour former une nouvelle réserve.
 
-## Payment
+## Paiement
 
-Paiute is usually played for small stakes. Before each deal, each player pays an equal stake - say 25 cents - to the pot. The pot is taken by the winner - the player who called the highest hand. In the rare case where two players call equally high hands, they split the pot equally between them.
+Le Paiute se joue généralement pour de petites mises. Avant chaque donne, chaque joueur paie une mise égale — disons 25 centimes — au pot. Le pot est pris par le gagnant — le joueur qui a appelé la main la plus haute. Dans le cas rare où deux joueurs appellent des mains également hautes, ils se partagent le pot équitablement.
 
-## Variations
+## Variantes
 
-Some play that if two players have equally high hands, the first called wins and the other loses.
+Certains jouent que si deux joueurs ont des mains de même valeur, le premier qui a appelé gagne et l'autre perd.
 
-Some use a deck with jokers, and use these as the wild cards instead of turning up a card after the deal.
+Certains utilisent un jeu avec des jokers, et les utilisent comme cartes sauvages au lieu de retourner une carte après la donne.
 
-Paiute is sometimes played by six or more players, in which case a Paiute is allowed at any time, not only on the first round.
+Le Paiute se joue parfois à six joueurs ou plus, auquel cas un Paiute est autorisé à tout moment, pas seulement au premier tour.
 
-Some play that only the cards of the same rank and opposite colour to the turned up card are wild. For example if the five of spades is turned up, only the fives of hearts and diamonds are wild; the five of clubs is a normal five.
+Certains jouent que seules les cartes du même rang et de couleur opposée à la carte retournée sont sauvages. Par exemple, si le cinq de pique est retourné, seuls les cinq de cœur et de carreau sont sauvages ; le cinq de trèfle est un cinq normal.
 
-Some play that a royal flush is the highest combination, beating 5 of a kind.
+Certains jouent qu'une quinte flush royale est la combinaison la plus haute, battant cinq d'un même rang.
 
-In some groups the winner is paid by all the other players on a scale depending on the winning hand. In 25 cent Paiute a Paiute wins 25 cents from each opponent, 3/3 50 cents each, 4/2 75 cents, straight flush or Royal Flush $1.00 each, Five of a Kind $1.25 each. In this version, any call on a player's first turn pays double, so in practice the lowest payment is 50 cents each for a Paiute on the first round or a 3/3 later (unless you are playing the variation that allows Paiute after the first round).
+Dans certains groupes, le gagnant est payé par tous les autres joueurs selon une échelle dépendant de la main gagnante. Au Paiute à 25 centimes, un Paiute rapporte 25 centimes de chaque adversaire, un double brelan 50 centimes chacun, un carré/paire 75 centimes, une quinte flush ou une quinte flush royale 1,00 $ chacun, cinq d'un même rang 1,25 $ chacun. Dans cette version, tout appel lors du premier tour d'un joueur paie double, donc en pratique le paiement le plus bas est de 50 centimes chacun pour un Paiute au premier tour ou un double brelan plus tard (sauf si vous jouez la variante qui permet le Paiute après le premier tour).
 
-Some play without wild cards: no card is placed face up after the deal and no five of a kind combination is possible.
+Certains jouent sans cartes sauvages : aucune carte n'est posée face visible après la donne et aucune combinaison de cinq d'un même rang n'est possible.
 
-In some groups the play ends immediately when a player calls. That player is paid and the others have no opportunity to beat the caller's hand.
+Dans certains groupes, le jeu s'arrête immédiatement lorsqu'un joueur appelle. Ce joueur est payé et les autres n'ont aucune opportunité de battre la main de l'appelant.
 
-## Other web pages on Paiute
+## Autres pages web sur le Paiute
 
-Archive copy of a [short description of Paiute](https://web.archive.org/web/www.unitedpokerforum.com/archive/2002-10/07/1241/) published in 2002 in the United Poker Forum.
-
-Home Page > Classified Index > Draw and Discard Games > Paiute
+Copie archive d'une [courte description du Paiute](https://web.archive.org/web/www.unitedpokerforum.com/archive/2002-10/07/1241/) publiée en 2002 dans le United Poker Forum.

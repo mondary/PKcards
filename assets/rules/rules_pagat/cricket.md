@@ -2,114 +2,107 @@
 
 **Difficulté :** —
 **Type :** Patience, Solitaire
-**But :** A simulation for two players invented in WWII and played in Britain and South Africa, in which cards are played to a 3x3 square layout.
+**But :** Une simulation à deux joueurs inventée pendant la Seconde Guerre mondiale et jouée en Grande-Bretagne et en Afrique du Sud, dans laquelle les cartes sont jouées sur une grille de 3×3.
 
 ---
 
 ## Introduction
 
-This card simulation of [Cricket](https://en.wikipedia.org/wiki/Cricket) for two players was played by British prisoners of war during World War II, and apparently taught with some success to the German camp guards. It is still played to some extent in Britain and also in different forms in South Africa and New Zealand.
+Cette simulation de [cricket](https://en.wikipedia.org/wiki/Cricket) aux cartes pour deux joueurs était jouée par les prisonniers de guerre britanniques pendant la Seconde Guerre mondiale, et apparemment enseignée avec un certain succès aux gardes du camp allemands. Elle est encore jouée dans une certaine mesure en Grande-Bretagne et aussi sous différentes formes en Afrique du Sud et en Nouvelle-Zélande.
 
-It is an attempt to re-create as nearly as possible the play in a real live cricket match. However, there are certain limitations: there can only be one batsman and one bowler in play in this playing card version, and there are no 6-ball overs by the bowler. Many of the conventions of cricket can be used including draws, follow-on and declarations. For this reason 11 batsmen are named at the start of play. The players should decide at the beginning of play whether all 11 batsmen should bat, or whether the innings should finish at the fall of the 10th wicket as in real cricket.
+C'est une tentative de recréer aussi fidèlement que possible le déroulement d'un vrai match de cricket. Cependant, il y a certaines limites : il ne peut y avoir qu'un batteur et un lanceur en jeu dans cette version aux cartes, et il n'y a pas d'overs de 6 balles. Beaucoup des conventions du cricket peuvent être utilisées, y compris les matchs nuls, le follow-on et les déclarations. Pour cette raison, 11 batteurs sont nommés au début du jeu. Les joueurs doivent décider au début du jeu si les 11 batteurs doivent tous battre, ou si l'innings doit se terminer à la chute du 10e guichet comme dans le vrai cricket.
 
-Two innings test matches can be played, or single innings club matches.
+Des matches test à deux innings peuvent être joués, ou des matchs de club à un seul innings.
 
-This page is based on information from Peter Lewin, Kerry Allemann, Derek Hill and Russell Parkinson.
+Cette page est basée sur des informations de Peter Lewin, Kerry Allemann, Derek Hill et Russell Parkinson.
 
-## Players, Cards and Preparation
+## Joueurs, cartes et préparation
 
-There are two players. One standard English pack of 52 cards is used, without jokers. In play, aces have a value of 1 and pictures (jacks, queens and kings) have a value of 10 each.
+Il y a deux joueurs. Un jeu anglais standard de 52 cartes est utilisé, sans jokers. En jeu, les as ont une valeur de 1 et les figures (valets, dames et rois) ont une valeur de 10 chacune.
 
-A means of keeping score is also needed. A standard "real" cricket score-sheet can be used if desired.
+Un moyen de tenir le score est aussi nécessaire. Une feuille de score standard de cricket « réel » peut être utilisée si désiré.
 
-The cards are shuffled and cut to decide who starts. The player who cuts the higher card chooses to bat or bowl. The cards are then stacked face down.
+Les cartes sont mélangées et coupées pour décider qui commence. Le joueur qui coupe la carte la plus haute choisit de battre ou de lancer. Les cartes sont ensuite empilées faces cachées.
 
-## The Play
+## Le jeu
 
-The player representing the bowling side plays first, and the bowling and batting sides play alternate turns until the innings is ended.
+Le joueur représentant le camp qui lance joue en premier, et les camps de lancer et de battage jouent à tour de rôle jusqu'à ce que l'innings soit terminée.
 
-![cricket layout](../images/patience/cricket.gif)
+![mise en page cricket](../images/patience/cricket.gif)
 
-A turn, for either player, consists of taking cards from the top of the pack and placing them face up in a 3x3 grid, continuing until no further cards can be placed. The grid is filled row by row, beginning at the top left, as shown by the numbers in the diagram.
+Un tour, pour l'un ou l'autre joueur, consiste à prendre des cartes du dessus du tas et à les placer faces visibles dans une grille de 3×3, en continuant jusqu'à ce qu'aucune autre carte ne puisse être placée. La grille est remplie ligne par ligne, en commençant en haut à gauche, comme indiqué par les numéros dans le diagramme.
 
-If at any stage there are two cards showing whose values add up to 11 (for example 8 and 3, or ace and queen, or 6 and 5), the player may cover both cards with new cards before continuing to fill the grid.
+Si à tout moment il y a deux cartes visibles dont les valeurs s'additionnent à 11 (par exemple 8 et 3, ou as et dame, ou 6 et 5), le joueur peut couvrir les deux cartes avec de nouvelles cartes avant de continuer à remplir la grille.
 
-If at any stage there are three cards of the same rank (for example three 8's) in a straight line showing on the grid, the player may cover all three cards. The line may be horizontal, vertical or diagonal.
+Si à tout moment il y a trois cartes du même rang (par exemple trois 8) en ligne droite visibles sur la grille, le joueur peut couvrir les trois cartes. La ligne peut être horizontale, verticale ou diagonale.
 
-If at any stage there is a king, a queen and a jack showing anywhere on the grid, not necessarily in a line, the player may cover all three cards before continuing to fill the grid.
+Si à tout moment il y a un roi, une dame et un valet visibles n'importe où sur la grille, pas nécessairement en ligne, le joueur peut couvrir les trois cartes avant de continuer à remplir la grille.
 
-When covering a pair of cards adding up to 11, the player must cover both cards before doing anything else; the same applies to covering sets of three. A player is not allowed to interrupt one covering operation to begin a different one.
+Lors de la couverture d'une paire de cartes totalisant 11, le joueur doit couvrir les deux cartes avant de faire quoi que ce soit d'autre ; il en va de même pour la couverture d'ensembles de trois.
 
-Play continues until all 9 grid positions are filled and no further cards can be covered. If the cards run out before this happens, all 52 cards are gathered up, the deck is stacked face down and cut, and the same player continues playing with a new grid. There is no limit to the number of times the pack can be played through in this way. A player's turn is over when the grid is full and there are no pairs or sets of three cards that can be covered. Even if this happens when the last card is played from the pack, the turn ends. The turn also ends if the last wicket falls (see below), ending the innings.
+Le jeu continue jusqu'à ce que les 9 positions de la grille soient remplies et qu'aucune autre carte ne puisse être couverte. Si les cartes s'épuisent avant cela, les 52 cartes sont ramassées, le jeu est empilé face caché et coupé, et le même joueur continue à jouer avec une nouvelle grille.
 
-During a turn, the cards played from the pack are counted by both players. Although the bowling and batting players play cards in the same way, the effects are different, as follows.
+Pendant un tour, les cartes jouées depuis le tas sont comptées par les deux joueurs. Bien que les joueurs de lancer et de battage jouent des cartes de la même manière, les effets sont différents, comme suit.
 
-Bowling player's turn
-If the bowler plays 21 or more cards in one turn, one wicket falls, and a further wicket falls for each further 21 cards. If the bowler plays fewer than 21 cards, there is no wicket and the batting player's next turn adds to the score of the current batsman. If the bowler plays 42 or more cards, two wickets fall (one batsman scores a duck). To take three wickets requires the play of at least 63 cards - once through the deck and 11 more cards after restarting, and so on.
-Jack, queen and king anywhere on the grid gives away a wide (1 run) to the batting team.
-Three of a kind in a straight line gives away 4 byes (runs) to the batting team.
-Batting player's turn
-The current batsman scores 1 run for each card played. If the bowler took no wickets, this is added to the batsman's previous total if any.
-Jack, queen and king anywhere on the grid score 1 extra run if they are not all the same suit (so a total of 4 runs for playing these three cards). Jack, queen and king of the same suit scores 3 extra runs (6 runs in total for the three cards).
-Three of a kind in a straight line cause the batsman to be run out, provided that the bowler notices and claims the wicket. Provided that this was not the last wicket, the batting player continues his turn with a new batsman. Cards played before the wicket count for the batsman who was run out; cards after the wicket count for the new batsman.
+Tour du joueur qui lance
+Si le lanceur joue 21 cartes ou plus en un tour, un guichet tombe, et un guichet supplémentaire tombe pour chaque 21 cartes supplémentaires. Si le lanceur joue moins de 21 cartes, il n'y a pas de guichet et le tour suivant du batteur ajoute au score du batteur actuel. Si le lanceur joue 42 cartes ou plus, deux guichets tombent (un batteur marque un canard). Pour prendre trois guichets, il faut jouer au moins 63 cartes.
+Roi, dame et valet n'importe où sur la grille accordent un wide (1 point) au camp qui bat.
+Trois de même rang en ligne droite accordent 4 byes (points) au camp qui bat.
 
-## Innings and match
+Tour du batteur
+Le batteur actuel marque 1 point pour chaque carte jouée. Si le lanceur n'a pris aucun guichet, cela s'ajoute au total précédent du batteur le cas échéant.
+Roi, dame et valet n'importe où sur la grille marquent 1 point supplémentaire s'ils ne sont pas tous de la même couleur (soit un total de 4 points pour ces trois cartes). Roi, dame et valet de la même couleur marquent 3 points supplémentaires (6 points au total pour les trois cartes).
+Trois de même rang en ligne droite provoquent l'élimination du batteur (run out), à condition que le lanceur le remarque et réclame le guichet. Pourvu que ce ne soit pas le dernier guichet, le batteur continue son tour avec un nouveau batteur. Les cartes jouées avant le guichet comptent pour le batteur éliminé ; les cartes après le guichet comptent pour le nouveau batteur.
 
-After all 10 wickets (or 11 wickets if agreed) have fallen, the bowling and batting players exchange roles, and another innings is played. In a two innings test match, each player plays two innings as bowler and two innings as batsman, and the winner of the match is the player (side) that scored more runs.
+## Innings et match
 
-### Cricket conventions
+Après que les 10 guichets (ou 11 si convenu) sont tombés, les joueurs de lancer et de battage échangent leurs rôles, et un autre innings est joué. Dans un match test à deux innings, chaque joueur joue deux innings comme lanceur et deux innings comme batteur, et le gagnant du match est le joueur (camp) qui a marqué le plus de points.
 
-Some of the normal conventions in cricket can be used in this playing card version:
+### Conventions du cricket
 
-Follow-on: 
-In a two innings match, if the side that bats second fails to reach their opponents' first innings run score by a margin of 200 runs all out, they can be invited to follow-on. In this case they continue their batting from the 1st batsman again without changing to become the bowling side, effectively playing both their innings one after the other. 
-If the side following-on fails to reach 200 runs all out, the opposing side win by an innings and however many the shortfall of runs, it being unnecessary for them to bat again. If the side following-on exceeds 200 runs, the balance over 200 runs becomes the target for the opposing team to get to win the match.
+Certaines des conventions normales du cricket peuvent être utilisées dans cette version aux cartes :
 
-Draw: 
-To have something like a real match draw in the playing card version, a time limit must be agreed by both players before play begins. If the outcome is not settled within the time limit, the match is declared a draw. (In a real test match played over 5 days, if at the appointed end of play time on the 5th day, if a side still batting could still exceed the total number of runs accumulated by the opposing side if more time was available, the match ends with no conclusive outcome, therefore a draw.)
+Follow-on :
+Dans un match à deux innings, si le camp qui bat en second échoue à atteindre le score du premier innings de ses adversaires par une marge de 200 points tous éliminés, il peut être invité à suivre. Dans ce cas, il continue son battage à partir du 1er batteur sans changer pour devenir le camp qui lance, jouant effectivement ses deux innings l'un après l'autre.
 
-Declaration: 
-If the batting side has scored a very large number of runs for very few wickets lost (e.g 450 runs for 5 wickets lost) the batting side can "declare" its total at this point. The batting side voluntarily ends its innings at this point, and it the opposing side's turn to bat.
-The purpose of a declaration is to increase the chance of winning a match within the time limit rather than drawing. In a two innings test match, declarations are most common in the second innings.
+Match nul :
+Pour avoir quelque chose comme un vrai match nul dans la version aux cartes, une limite de temps doit être convenue par les deux joueurs avant le début du jeu.
 
-## Variations
+Déclaration :
+Si le camp qui bat a marqué un très grand nombre de points pour très peu de guichets perdus (par exemple 450 points pour 5 guichets perdus), le camp qui bat peut « déclarer » son total à ce moment-là. Le camp qui bat termine volontairement son innings à ce moment, et c'est au camp adverse de battre.
 
-In a letter to the Daily Mail in May 2006, Derek Hill described a simpler version of the above game. The differences are as follows.
+## Variantes
 
-- In each innings, the batting side plays first. (Therefore it is impossible for the first batsman to score fewer than 9 runs.)
+Dans une lettre au Daily Mail en mai 2006, Derek Hill a décrit une version plus simple du jeu ci-dessus. Les différences sont les suivantes.
 
-- A king, queen and jack in the grid have no effect on the score, but all three cards may be covered.
+- Dans chaque innings, le camp qui bat joue en premier. (Il est donc impossible que le premier batteur marque moins de 9 points.)
 
-- Three of a kind in a straight line in the grid always results in the fall of a wicket, irrespective of whether the bowling or batting player is playing.
+- Un roi, une dame et un valet dans la grille n'ont aucun effet sur le score, mais les trois cartes peuvent être couvertes.
 
-- Three consecutive cards in a straight line (irrespective of suit), such as A-2-3 or 9-10-J or Q-K-A also result in the fall of a wicket.
+- Trois de même rang en ligne droite dans la grille entraînent toujours la chute d'un guichet, que ce soit le joueur qui lance ou le batteur qui joue.
 
-In this version, because a triplet or run always results in a wicket, the batsman will try to minimise the chance of this by always covering cards when allowed and delaying the completion of the grid, while the bowler will prefer to deal the whole grid as soon as possible to maximise the chance of a wicket.
+- Trois cartes consécutives en ligne droite (quelle que soit la couleur), comme A-2-3 ou 9-10-V ou D-R-A, entraînent également la chute d'un guichet.
 
-### South African Cricket
+### Cricket sud-africain
 
-Kerry Allemann describes the following variation played in South Africa. This is much faster than the British game: runs are scored more quickly and wickets are more frequent.
+Kerry Allemann décrit la variante suivante jouée en Afrique du Sud. C'est beaucoup plus rapide que le jeu britannique : les points sont marqués plus rapidement et les guichets sont plus fréquents.
 
-It is compulsory to cover any pair of cards whose values add up to 11 before playing any other card. If the batting player fails to do this he loses a wicket and ends his turn, scoring no runs. If the bowling player fails to cover, his turn ends and he takes no wicket.
+Il est obligatoire de couvrir toute paire de cartes dont les valeurs s'additionnent à 11 avant de jouer toute autre carte. Si le batteur omet de le faire, il perd un guichet et termine son tour, sans marquer aucun point.
 
-The batting player scores 1 run per card played, as above. The bowling player takes 1 wicket for every 11 cards played (instead of 21 cards).
+Le batteur marque 1 point par carte jouée. Le lanceur prend 1 guichet pour chaque 11 cartes jouées (au lieu de 21).
 
-Threes of a kind and three-card sequences have no effect and are not covered. A king, queen and jack have no effect unless they appear in a straight line. KQJ in a straight line (in any order) score a half century (50 extra runs) if they appear during the batting player's turn. KQJ in the bowling player's turn take 5 wickets. In each case the three cards must be covered before any further cards are placed, and the penalty for not doing so is the same as for a pair.
+Les triplets et les séquences de trois cartes n'ont aucun effet et ne sont pas couverts. Un roi, une dame et un valet n'ont aucun effet sauf s'ils apparaissent en ligne droite. R-D-V en ligne droite (dans n'importe quel ordre) marquent un demi-siècle (50 points supplémentaires) s'ils apparaissent pendant le tour du batteur. R-D-V pendant le tour du lanceur prennent 5 guichets.
 
-When covering cards, a player may not look at the card in his hand before placing it. He must decide which cards he is going to cover (he need not announce this) and then cover them without first looking at the covering card in the hope of influencing the game later.
+### Cricket néo-zélandais
 
-### New Zealand Cricket
+Russell Parkinson décrit une variante jouée en Nouvelle-Zélande. Elle diffère des versions ci-dessus comme suit.
 
-Russell Parkinson describes a variant played in New Zealand, possibly passed on by his father who was in the NZ Air Force from 1945. It differs from the above versions as follows.
+- Lors de la couverture de deux cartes qui font 11, le numéro le plus bas doit être couvert en premier — par exemple 3 avant 8.
 
-- When covering two cards that make up 11 the lower number must be covered first - for example 3 before 8.
+- Il n'y a ni byes ni wides. Un ensemble Roi-Dame-Valet est juste 3 cartes de plus couvertes.
 
-- There are no byes or wides. So a Jack-Queen-King set is just 3 more cards covered. 
+- Le lanceur marque un guichet pour chaque 20 cartes jouées plutôt que chaque 21.
 
-- The bowler scores a wicket for each 20 cards played rather than each 21.
+- Couvrir trois cartes identiques en ligne (par exemple trois sept ou trois dames) donne au joueur un bonus de 60 points s'il bat ou un hat trick de 3 guichets s'il lance.
 
-- Covering three matching cards in a row (e.g. three sevens or three queens) gives the player a bonus 60 runs if batting or a 3 wicket hat trick if bowling.
-
-- As an alternative to a 2 inning 'test match', sometimes a 'one day game' is played in which each player has one innings of say 10 turns maximum. 
-
-Home Page > Classified Index > Layout Group > Competitive Patience > Cricket
+- Comme alternative à un match test à 2 innings, on joue parfois un « one day game » dans lequel chaque joueur a un seul innings d'un maximum de 10 tours.

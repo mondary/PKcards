@@ -4,220 +4,201 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐
 **Type :** Dernier pli, Plis
-**But :** How to play the North European card game Cucumber in which the object is to avoid winning the last trick.
+**But :** Comment jouer au jeu de cartes nord-européen Cucumber dont le but est d'éviter de remporter le dernier pli.
 
 ---
 
-- Introduction
-
-- Agurk / 21 (the Danish game) - Procedure - Scoring - Strategy - Variants
-
-- Gurka (the Swedish game)
-
-- Ogórek (the Polish game)
-
-- Kurkku / Mätäpesä / Rassi (the Finnish game)
-
-- Gurka (the Norwegian game)
-
-- Gúrka (the Icelandic game)
-
-- Other Versions
-
 ## Introduction
 
-Cucumber is a kind of trick-taking game, in which the object is **not** to win the last trick. To make this more difficult, there is a rule that in each trick players must either overtake or sacrifice their lowest card. To be safe from losing, you therefore need not only a low card for the last trick, but also high cards for overtaking, so that your low card(s) do not have to be given up prematurely.
+Cucumber est une sorte de jeu de plis dans lequel le but est de **ne pas** gagner le dernier pli. Pour rendre cela plus difficile, il y a une règle selon laquelle à chaque pli les joueurs doivent soit surmonter soit sacrifier leur carte la plus basse. Pour être en sécurité, il faut donc non seulement une carte basse pour le dernier pli, mais aussi des cartes hautes pour surmonter, afin que vos cartes basses n'aient pas à être sacrifiées prématurément.
 
-Cucumber appears to be a fairly recent game. It is played in several North European countries and was popular with students in the 1970's and 1980's. In the 1975 edition of the Swedish book *Kortoxen* by Einar Werner and Tore Sandgren, Gurka is described as "a comparatively new game". It does not appear in the 1949 edition, but was presumably introduced between these dates, since a translation is included as Kurkku in the 1970 Finnish book *Pelataan korttia* by Tore Sandgren. A very similar game Krypkille is played in Sweden with Kille cards. This game was already described in the 1949 edition of Werner and Sandgren's Kortoxen, and it seems likely that Cucumber originated as an adaptation of Krypkille to be played with the standard 52-card pack.
+Cucumber semble être un jeu assez récent. Il se joue dans plusieurs pays nord-européens et était populaire chez les étudiants dans les années 1970 et 1980. Dans l'édition de 1975 du livre suédois *Kortoxen* d'Einar Werner et Tore Sandgren, Gurka est décrit comme « un jeu relativement nouveau ». Il n'apparaît pas dans l'édition de 1949, mais a vraisemblablement été introduit entre ces dates, puisqu'une traduction est incluse sous le nom de Kurkku dans le livre finlandais de 1970 *Pelataan korttia* de Tore Sandgren. Un jeu très similaire, Krypkille, se joue en Suède avec les cartes Kille. Ce jeu était déjà décrit dans l'édition de 1949 du Kortoxen de Werner et Sandgren, et il semble probable que Cucumber est issu d'une adaptation de Krypkille pour être joué avec le jeu standard de 52 cartes.
 
-There are many somewhat different versions of Cucumber: the rules vary from country to country, and also within each country. This page describes forms played in Denmark (Agurk), Sweden (Gurka), Poland (Ogórek), Finland (Kurkku or Mätäpesä), Norway (Gurka) and Iceland (Gúrka). There are probably other versions, and variations described as played in any of these places may perhaps also be found in the others. The Danish game will be described in full, followed by the differences found in the other versions.
+Il existe de nombreuses versions quelque peu différentes de Cucumber : les règles varient d'un pays à l'autre, et aussi à l'intérieur de chaque pays. Cette page décrit les formes jouées au Danemark (Agurk), en Suède (Gurka), en Pologne (Ogórek), en Finlande (Kurkku ou Mätäpesä), en Norvège (Gurka) et en Islande (Gúrka). Il existe probablement d'autres versions, et les variantes décrites comme jouées dans l'un de ces endroits peuvent aussi se trouver dans les autres. Le jeu danois sera décrit en entier, suivi des différences trouvées dans les autres versions.
 
-## Agurk (Danish)
+## Agurk (Danois)
 
-Agurk is the Danish word for cucumber; the game is also sometimes known as **21**, since a player with more than 21 points loses. The game was played extensively at [DIKU](https://di.ku.dk/) in the 1970s. The following description is based mainly on a contribution from Jens Brix Christiansen.
+Agurk est le mot danois pour concombre ; le jeu est aussi parfois connu sous le nom de **21**, puisqu'un joueur avec plus de 21 points perd. Le jeu a été beaucoup joué au [DIKU](https://di.ku.dk/) dans les années 1970. La description suivante est principalement basée sur une contribution de Jens Brix Christiansen.
 
-### Procedure
+### Procédure
 
-Agurk is played with an ordinary deck of 52 cards. From 2 to 7 players participate. The cards are ranked from high to low A, K, Q, J, 10, 9, ..., 2; the suits have no significance. Cards are shuffled by the dealer and then dealt 7 at a time, face down, clockwise, starting with forehand (i.e., the player to the left of the dealer). The cards that are not dealt are set aside and seen by no one.
+Agurk se joue avec un jeu ordinaire de 52 cartes. De 2 à 7 joueurs participent. Les cartes se classent du plus haut au plus bas A, R, D, V, 10, 9, ..., 2 ; les couleurs n'ont pas de signification. Les cartes sont mélangées par le donneur puis distribuées 7 à la fois, face cachée, dans le sens horaire, en commençant par le premier joueur (c'est-à-dire le joueur à la gauche du donneur). Les cartes non distribuées sont mises de côté et ne sont vues par personne.
 
-Seven tricks are played. The cards played are simply placed on the table face-up in front of each player; the cards are neither collected nor turned over after each trick. Any player may inspect any of the cards played to previous tricks. Forehand leads to the first trick; the winner of each trick leads to the next trick. Once a card is led, the remaining players each play a card to the trick in clockwise rotation. 
+Sept plis sont joués. Les cartes jouées sont simplement posées sur la table face visible devant chaque joueur ; les cartes ne sont ni ramassées ni retournées après chaque pli. Tout joueur peut inspecter les cartes jouées aux plis précédents. Le premier joueur mène au premier pli ; le gagnant de chaque pli mène au pli suivant. Une fois qu'une carte est menée, les joueurs restants jouent chacun une carte au pli dans le sens horaire.
 
-The lead can be chosen freely. The other players in turn have a choice between: 
+Le pli mené peut être choisi librement. Les autres joueurs à tour de rôle ont le choix entre :
 
-- playing any card whose rank is at least as high as the highest card so far played to the trick, or
+- jouer n'importe quelle carte dont le rang est au moins aussi haut que la carte la plus haute jouée au pli jusqu'à présent, ou
 
-- playing their lowest ranking card. 
+- jouer leur carte de rang le plus bas.
 
-The highest ranking card wins the trick; if there are several of these, the **last** of them to be played wins the trick.
+La carte de rang le plus élevé gagne le pli ; s'il y en a plusieurs, la **dernière** d'entre elles à être jouée gagne le pli.
 
-The turn to deal passes clockwise after each hand. If the player whose turn it should be to deal has been eliminated from the game (see below), then the dealer is the next player in rotation who is still in the game.
+Le tour de donner passe dans le sens horaire après chaque main. Si le joueur dont ce devrait être le tour de donner a été éliminé du jeu (voir ci-dessous), alors le donneur est le prochain joueur dans la rotation qui est encore dans le jeu.
 
-### Scoring
+### Marquage
 
-The player who wins the last trick **loses** the deal and is penalized. Each player's score is the running total of the penalties he has accumulated. The losing player on a deal receives as many penalty points as the rank of the card taking the last trick (A=14, K=13, Q=12, J=11, spot cards according the number of spots). 
+Le joueur qui gagne le dernier pli **perd** la donne et est pénalisé. Le score de chaque joueur est le total cumulé des pénalités qu'il a accumulées. Le joueur perdant d'une donne reçoit autant de points de pénalité que le rang de la carte gagnant le dernier pli (A=14, R=13, D=12, V=11, cartes numériques selon leur numéro).
 
-When a player's score reaches or exceeds 21, he loses a life; in the score, a cucumber is drawn to signify this. He is then reincarnated with the highest score that any other player currently has accumulated. The second time a player's score reaches or exceeds 21, he loses his life permanently and no longer participates in the game. Eventually, only two players remain; they continue to play until one of them loses his second life. The sole survivor is the winner of the game.
+Lorsque le score d'un joueur atteint ou dépasse 21, il perd une vie ; dans le score, un concombre est dessiné pour le signifier. Il renaît alors avec le score le plus élevé que tout autre joueur a actuellement accumulé. La deuxième fois que le score d'un joueur atteint ou dépasse 21, il perd sa vie de façon permanente et ne participe plus au jeu. Finalement, seuls deux joueurs restent ; ils continuent à jouer jusqu'à ce que l'un d'eux perde sa deuxième vie. Le seul survivant est le gagnant du jeu.
 
-If any other players play in the last trick a card of the same rank as the card played by the loser of the deal, these other players are awarded a bonus of the same size as the penalty incurred by the loser. The bonus is deducted from the player's score. (Example: in the last trick of a six player game, the cards played are 5, 9, 3, 9, 9, 7, in that order. The fifth player wins the trick with the last 9 and gets 9 penalty points; the second and fourth players each have a bonus of 9 points subtracted from their scores).
+Si d'autres joueurs jouent dans le dernier pli une carte du même rang que la carte jouée par le perdant de la donne, ces autres joueurs reçoivent un bonus de même taille que la pénalité encourue par le perdant. Le bonus est déduit du score du joueur. (Exemple : dans le dernier pli d'une partie à six joueurs, les cartes jouées sont 5, 9, 3, 9, 9, 7, dans cet ordre. Le cinquième joueur gagne le pli avec le dernier 9 et obtient 9 points de pénalité ; le deuxième et le quatrième joueur ont chacun un bonus de 9 points déduit de leur score.)
 
-Bonuses cannot lower a player's score below zero. For players on their second life, a bonus cannot lower their score below a cucumber and zero. Bonuses are deducted only after the loser's score is added. Thus in a two-person game where both players are at 18, and both players play a 10 to the last trick, the score for the loser is first changed to cucumber and 18, after which the bonus changes the other player's score to 8. 
+Les bonus ne peuvent pas faire descendre le score d'un joueur en dessous de zéro. Pour les joueurs à leur deuxième vie, un bonus ne peut pas faire descendre leur score en dessous d'un concombre et zéro. Les bonus sont déduits seulement après que le score du perdant est ajouté. Ainsi, dans une partie à deux personnes où les deux joueurs sont à 18, et que les deux jouent un 10 au dernier pli, le score du perdant est d'abord changé en concombre et 18, après quoi le bonus change le score de l'autre joueur à 8.
 
-The winner goes on to deal the first deal of the next game. 
+Le gagnant donne la première donne de la partie suivante.
 
-### Strategy
+### Stratégie
 
-The best possible hand is four aces, two kings, and a low card. As forehand, you can lead your four aces, stripping all the other players of their four lowest cards, and continuing with your kings is bound to do significant damage. A hand of twos and threes is a boring hand, that will not engage its holder much. A hand of tens and jacks usually heralds catastrophe.
+La meilleure main possible est quatre as, deux rois et une carte basse. En tant que premier joueur, vous pouvez mener vos quatre as, privant tous les autres joueurs de leurs quatre cartes les plus basses, et continuer avec vos rois est garanti de faire des dégâts importants. Une main de deux et de trois est une main ennuyeuse qui n'engagera pas beaucoup son détenteur. Une main de dix et de valets annonce généralement une catastrophe.
 
-The simplest strategy is to try to survive each deal without taking the last trick. This is done by estimating at what level the last trick is likely to be taken and playing to get rid of cards at or above that level. To play this way is called *to fimp*. Fimping is an inferior strategy in the long run. Among seasoned players, "fimp" is a derogatory word. Even so, with inferior cards, fimping is the only available strategy.
+La stratégie la plus simple est d'essayer de survivre à chaque donne sans prendre le dernier pli. Cela se fait en estimant à quel niveau le dernier pli risque d'être pris et en jouant pour se débarrasser des cartes à ce niveau ou au-dessus. Jouer ainsi s'appelle *fimper*. Fimper est une stratégie inférieure à long terme. Chez les joueurs expérimentés, « fimp » est un mot péjoratif. Même ainsi, avec des cartes médiocres, fimper est la seule stratégie disponible.
 
-If all players fimp, the rank of the last trick will be low, and the loser will incur an insignificant penalty. If, instead, the players with high cards (aces, kings, and with fewer than three players, maybe also queens and jacks) consistently lead their high cards, the unfortunate players without high cards will be forced to discard their low cards early in the game, thus raising the rank of the last trick. This is known as "playing sharp" (no connotation of dishonesty intended). In deals played sharp, a number of players form an alliance to ensure that someone is caught with a much higher card. The rationale behind this strategy is that when someone else is penalized, it should be as severely as possible. Playing sharp with good cards is a superior strategy in the long run; but you don't always hold good cards.
+Si tous les joueurs fimpent, le rang du dernier pli sera bas, et le perdant encourra une pénalité insignifiante. Si, au contraire, les joueurs avec des cartes hautes (as, rois, et avec moins de trois joueurs, peut-être aussi dames et valets) mènent systématiquement leurs cartes hautes, les joueurs malchanceux sans cartes hautes seront forcés de défausser leurs cartes basses tôt dans le jeu, augmentant ainsi le rang du dernier pli. C'est ce qu'on appelle « jouer tranchant » (sans connotation de malhonnêteté). Dans les donnes jouées tranchantes, plusieurs joueurs forment une alliance pour s'assurer que quelqu'un est pris avec une carte nettement plus haute. La logique derrière cette stratégie est que lorsque quelqu'un d'autre est pénalisé, cela devrait être aussi sévèrement que possible. Jouer tranchant avec de bonnes cartes est une stratégie supérieure à long terme ; mais on n'a pas toujours de bonnes cartes.
 
-The game is often quite noisy. This means that alliances actually can be suggested orally during play. This includes bluffing, of course. It is not obvious whether the talking makes any difference to the actual play, since alliances are implicit anyway.
+Le jeu est souvent assez bruyant. Cela signifie que les alliances peuvent en fait être proposées oralement pendant le jeu. Cela inclut le bluff, bien sûr. Il n'est pas évident que les discussions fassent une différence pour le jeu réel, car les alliances sont de toute façon implicites.
 
-The two-person game, to which every game boils down, is quite different from the many-person game and surprisingly difficult to learn to play well.
+Le jeu à deux personnes, vers lequel toute partie se réduit, est assez différent du jeu à plusieurs personnes et étonnamment difficile à apprendre à bien jouer.
 
-The winning strategy in the long run is to play sharp almost always but to defect from an alliance of sharp players occasionally (when the cards are hopeless for sharp play). When played by experienced players, the game takes on many of the characteristics of the prisoner's dilemma.
+La stratégie gagnante à long terme est de jouer tranchant presque toujours mais de faire défaut à une alliance de joueurs tranchants à l'occasion (quand les cartes sont sans espoir pour le jeu tranchant). Lorsqu'il est joué par des joueurs expérimentés, le jeu prend beaucoup des caractéristiques du dilemme du prisonnier.
 
-### Variants
+### Variantes
 
-Some players use a 55-card pack including three jokers. Jokers are then the highest cards, ranking above aces, and count as 15 points.
+Certains joueurs utilisent un jeu de 55 cartes comprenant trois jokers. Les jokers sont alors les cartes les plus hautes, au-dessus des as, et comptent pour 15 points.
 
-Some play that after the deal, the player to dealer's left (the first player) can discard a number of unwanted cards. He then draws an equal number of replacement cards from the top of the undealt part of the pack. Each of the other players in turn then has the option to discard the same number of cards as the first player and replenish their hands. You are not allowed to discard a different number of cards from the first player, but you may opt not to discard but to play with your original hand. If the first player does not discard, no one else is allowed to discard. If there are fewer cards remaining in the undealt pack than the first player exchanged, the next player must discard as many cards as remain in the pack or none at all. If the undealt cards run out, later players cannot discard at all.
+Certains jouent qu'après la donne, le joueur à la gauche du donneur (le premier joueur) peut défausser un certain nombre de cartes indésirables. Il tire alors un nombre égal de cartes de remplacement du sommet de la partie non distribuée. Chacun des autres joueurs à tour de rôle a alors l'option de défausser le même nombre de cartes que le premier joueur et de reconstituer sa main. On n'est pas autorisé à défausser un nombre de cartes différent du premier joueur, mais on peut choisir de ne pas défausser et de jouer avec sa main d'origine. Si le premier joueur ne défausse pas, personne d'autre n'est autorisé à défausser. S'il reste moins de cartes dans la partie non distribuée que le premier joueur a échangées, le joueur suivant doit défausser autant de cartes qu'il en reste dans le jeu ou aucune du tout. Si les cartes non distribuées sont épuisées, les joueurs suivants ne peuvent plus défausser.
 
-Some players keep score by leaving the losing card of each hand face up on the table in front of the person who played it. There is no bonus for having a card equal to the losing card. A player whose cards add up to more than 21 drops out of the game - there is no second life.
+Certains joueurs gardent le score en laissant la carte perdante de chaque main face visible sur la table devant la personne qui l'a jouée. Il n'y a pas de bonus pour avoir une carte égale à la carte perdante. Un joueur dont les cartes totalisent plus de 21 est éliminé du jeu — il n'y a pas de deuxième vie.
 
-Some play that if there is a tie for highest card at the end of a hand, all players holding those high cards lose that number of points, which may be indicated by keeping the cards in front of them, if you score that way.
+Certains jouent que s'il y a égalité pour la carte la plus haute à la fin d'une main, tous les joueurs détenant ces cartes hautes perdent ce nombre de points, ce qui peut être indiqué en gardant les cartes devant eux.
 
-Some play that the game ends as soon as any player goes over 21, and that player is the loser, rather than continuing until all but one player has been knocked out.
+Certains jouent que le jeu se termine dès qu'un joueur dépasse 21, et que ce joueur est le perdant, plutôt que de continuer jusqu'à ce que tous sauf un joueur soient éliminés.
 
-Some play that a player whose score reaches 21 points exactly has his score reset to zero (he puts all his scoring cards back in the pack).
+Certains jouent qu'un joueur dont le score atteint exactement 21 points a son score remis à zéro (il remet toutes ses cartes de score dans le jeu).
 
-Some play that instead of always dealing seven cards, from the second hand onwards the number of cards dealt to each player is the value of the losing card from the previous hand. So if a hand is lost with a jack, 11 cards each are dealt and 11 tricks played. If a two loses, players get only two cards each.
+Certains jouent qu'au lieu de toujours distribuer sept cartes, à partir de la deuxième main, le nombre de cartes distribuées à chaque joueur est la valeur de la carte perdante de la main précédente. Ainsi, si une main est perdue avec un valet, 11 cartes sont distribuées à chacun et 11 plis sont joués. Si un deux perd, les joueurs ne reçoivent que deux cartes chacun.
 
-## Gurka (Swedish)
+## Gurka (Suédois)
 
-Gurka is the Swedish word for cucumber. According to the earliest known account, in Werner and Sandgren's *Kortoxen*, the Swedish game Gurka was originally played in a rather similar way to the Danish game above. 
+Gurka est le mot suédois pour concombre. Selon le premier compte rendu connu, dans le *Kortoxen* de Werner et Sandgren, le jeu suédois Gurka était à l'origine joué de manière assez similaire au jeu danois ci-dessus.
 
-A standard 52-card pack is used, ranking from ace (high) to two (low) and there can be from 3 to 8 players. At the start of the game everyone pays an equal stake into a pot, which is collected by the eventual winner. **Six** cards are dealt to each player, one at a time, clockwise. Play is clockwise, beginning with the player to dealer's left.
+Un jeu standard de 52 cartes est utilisé, classé de l'as (haut) au deux (bas), et il peut y avoir de 3 à 8 joueurs. Au début du jeu, chacun paie une mise égale dans un pot, qui sera encaissé par le gagnant final. **Six** cartes sont distribuées à chaque joueur, une à la fois, dans le sens horaire. Le jeu se fait dans le sens horaire, en commençant par le joueur à la gauche du donneur.
 
-Any card may be led. Other players in turn must either play a card that is at least as high as the highest card so far played to the trick, or play their lowest card. The trick is won by the highest card played to it, and if several equally high cards are played, by the last of those. 
+N'importe quelle carte peut être menée. Les autres joueurs à tour de rôle doivent soit jouer une carte au moins aussi haute que la carte la plus haute jouée au pli jusqu'à présent, soit jouer leur carte la plus basse. Le pli est gagné par la carte la plus haute jouée, et si plusieurs cartes de même hauteur sont jouées, par la dernière d'entre elles.
 
-Whoever has the highest card in the last trick scores that many penalty points (J=11, Q=12, K=13, A=14). If two or more players have equally high cards in the last trick they **all** score that number of penalty points. Any player who reaches a cumulative score of 30 points is out of the game: the player is said to be a cucumber, or to have flown. However, there is the option to buy back into the game for a second stake. 
+Celui qui a la carte la plus haute dans le dernier pli marque ce nombre de points de pénalité (V=11, D=12, R=13, A=14). Si deux joueurs ou plus ont des cartes de même hauteur dans le dernier pli, ils marquent **tous** ce nombre de points de pénalité. Tout joueur qui atteint un score cumulé de 30 points est éliminé du jeu : on dit du joueur qu'il est un concombre, ou qu'il a volé. Cependant, il y a l'option de racheter sa place dans le jeu pour une deuxième mise.
 
-Each player has one opportunity to "buy in", provided that there are are at least three other players remaining in the game at the time. The player pays another stake to the pot (equal the original stake), and the player's score is reset to equal the highest score (most penalty points) of any of the other players who is still in the game. The normal time to buy in is just after you have been eliminated, but it might also make sense to buy in at some other time. For example if you lose the first two deals with a 10 and a jack and everyone else is still on zero, you could pay to have your score reset to zero. There is no obligation to buy in: if you reach 30 or more you can simply accept your defeat and leave the game. For example, if the other players' scores were 0-5-28-2 it would probably be unwise to buy in for a score of 28. You can only buy in once, if your score goes over 30 after you have bought in you are finally eliminated from the game until after the pot has been won.
+Chaque joueur a une opportunité de « racheter », à condition qu'il y ait au moins trois autres joueurs restant dans le jeu à ce moment. Le joueur paie une autre mise au pot (égale à la mise initiale), et le score du joueur est remis à égal au score le plus élevé (le plus de points de pénalité) de tout autre joueur encore dans le jeu. Le moment normal de racheter est juste après avoir été éliminé, mais cela pourrait aussi avoir du sens de racheter à un autre moment. Par exemple, si vous perdez les deux premières donnes avec un 10 et un valet et que tout le monde est encore à zéro, vous pourriez payer pour remettre votre score à zéro. Il n'y a aucune obligation de racheter : si vous atteignez 30 ou plus, vous pouvez simplement accepter votre défaite et quitter le jeu. Par exemple, si les scores des autres joueurs sont 0-5-28-2, il serait probablement peu judicieux de racheter pour un score de 28. Vous ne pouvez racheter qu'une fois ; si votre score dépasse 30 après avoir racheté, vous êtes définitivement éliminé du jeu jusqu'à ce que le pot ait été gagné.
 
-This seems to have been the original version but there have been several significant changes in the rules. My thanks to Johan Pettersson and Dan Glimne for their help in collecting and analysing these changes.
+Cela semble avoir été la version originale mais il y a eu plusieurs changements significatifs dans les règles. Mes remerciements à Johan Pettersson et Dan Glimne pour leur aide à collecter et analyser ces changements.
 
-Only the previous player's card must be beaten 
-The most important change is in the rules of play. In Sweden most, or possibly all players now use the rule that you must either beat or equal the **previous player's** card or play your lowest card. It is not necessary to beat the highest card in the trick. Example: the first player plays a king, the second player equals it with a king, the third player, having no ace or king, is forced to play his lowest card, a three. The fourth player having Q-7-2 is allowed to play the 7, because it beats the 3.
-My impression is that this rule might have arisen from a misunderstanding of the account in Kortoxen, in which the rules is ambiguously stated, and the intention that the highest card in the trick must be beaten is only clear if one studies the example of play that is provided. However, Hans-Olof Hallén of the Skånes Bridgefederation asserts that from the beginning the requirement was only to beat the immediately previous card.
-Must beat the previous card when possible 
-Some play that each player must beat or equal the previous player's card if they can. Only a player who is unable to beat the previous card must play his or her lowest card. This rule is by no means universal. Many allow players the option to play their lowest card even when able to beat the previous card.
-Aces cannot beat aces 
-A newer rule, now widely played, is that when an ace is played, the next player **must** play his or her lowest card. All other cards can be "beaten" by an equal card, but an ace cannot be played immediately after another ace to beat it.
-Lowest card must be led 
-Some people now play that when leading to a trick you must play your lowest card.
-Target score and rebuys 
+Il suffit de battre la carte du joueur précédent
+Le changement le plus important est dans les règles de jeu. En Suède, la plupart, voire tous les joueurs utilisent maintenant la règle selon laquelle vous devez soit battre ou égaliser la carte du **joueur précédent** ou jouer votre carte la plus basse. Il n'est pas nécessaire de battre la carte la plus haute du pli. Exemple : le premier joueur joue un roi, le deuxième l'égale avec un roi, le troisième, n'ayant pas d'as ni de roi, est forcé de jouer sa carte la plus basse, un trois. Le quatrième, ayant D-7-2, est autorisé à jouer le 7, car il bat le 3.
+Mon impression est que cette règle a pu résulter d'un malentendu du compte rendu dans Kortoxen, où la règle est énoncée de manière ambiguë, et l'intention que la carte la plus haute du pli doive être battue n'est claire que si l'on étudie l'exemple de jeu fourni. Cependant, Hans-Olof Hallén de la fédération de bridge du Skåne affirme que dès le début, l'exigence était seulement de battre la carte immédiatement précédente.
+Battre la carte précédente quand c'est possible
+Certains jouent que chaque joueur doit battre ou égaliser la carte du joueur précédent s'il le peut. Seul un joueur incapable de battre la carte précédente doit jouer sa carte la plus basse. Cette règle n'est pas universelle. Beaucoup autorisent les joueurs à choisir de jouer leur carte la plus basse même lorsqu'ils sont capables de battre la carte précédente.
+Les as ne peuvent pas battre les as
+Une règle plus récente, maintenant largement jouée, est que lorsqu'un as est joué, le joueur suivant **doit** jouer sa carte la plus basse. Toutes les autres cartes peuvent être « battues » par une carte égale, mais un as ne peut pas être joué immédiatement après un autre as pour le battre.
+La carte la plus basse doit être menée
+Certains jouent maintenant que lors d'une ouverture, vous devez jouer votre carte la plus basse.
+Score cible et rachats
 
-Some play to a score of 20 rather than 30. Some play with a fixed stake, and each player has one free rebuy.
+Certains jouent à un score de 20 plutôt que 30. Certains jouent avec une mise fixe, et chaque joueur a un rachat gratuit.
 
-## Ogórek (Polish)
+## Ogórek (Polonais)
 
-A distinctive feature of the Polish version of Cucumber, known as **Ogórek**, is that although the ace is the highest card during the first five tricks, in the last trick it becomes the lowest card, worth 1 point. This was the standard rule when I played in Warsaw in 1980, and the same rule was given in the [Ogórek page of the Students Circle of Mathematicians at the Uniwersytet Jagielloński](https://web.archive.org/web/gamma.im.uj.edu.pl/complex2001/cd2005mat/mat/ciekawostki/studenci/KRONIKA/OGOREK/OGOREK.HTM) in Krakow, on which the following description is based. 
+Une caractéristique distinctive de la version polonaise de Cucumber, connue sous le nom d'**Ogórek**, est que bien que l'as soit la carte la plus haute pendant les cinq premiers plis, au dernier pli il devient la carte la plus basse, valant 1 point. C'était la règle standard lorsque j'ai joué à Varsovie en 1980, et la même règle était donnée sur la [page Ogórek du cercle d'étudiants en mathématiques de l'Université Jagielloński](https://web.archive.org/web/gamma.im.uj.edu.pl/complex2001/cd2005mat/mat/ciekawostki/studenci/KRONIKA/OGOREK/OGOREK.HTM) à Cracovie, sur laquelle la description suivante est basée.
 
-The game is played with a 52-card pack, or more than one such deck if there are more than 8 players. Six cards are dealt to each player. The player to dealer's left leads any card to the first trick. Subsequent players in clockwise order **must** beat or equal the highest card in the trick if able to do so. Any player unable to equal or beat the highest card must play his or her lowest card. Whoever plays the highest card, or the last of equally high cards, leads to the next trick. 
+Le jeu se joue avec un jeu de 52 cartes, ou plus d'un jeu de ce type s'il y a plus de 8 joueurs. Six cartes sont distribuées à chaque joueur. Le joueur à la gauche du donneur mène n'importe quelle carte au premier pli. Les joueurs suivants dans le sens horaire **doivent** battre ou égaliser la carte la plus haute du pli s'ils le peuvent. Tout joueur incapable d'égaler ou de battre la carte la plus haute doit jouer sa carte la plus basse. Celui qui joue la carte la plus haute, ou la dernière de plusieurs cartes de même hauteur, mène au pli suivant.
 
-In the last trick, whoever plays the highest card receives penalty points according to the value of the card. In the last trick only, the ace is low and counts as 1 point. 2 to 10 are face value, J=11, Q=12, K=13. If several players have equally high cards, they all receive that number of penalty points. Players whose scores reach 50 points or more drop out of the game and the last surviving player is the winner.
+Au dernier pli, celui qui joue la carte la plus haute reçoit des points de pénalité selon la valeur de la carte. Au dernier pli uniquement, l'as est bas et compte comme 1 point. 2 à 10 sont à valeur nominale, V=11, D=12, R=13. Si plusieurs joueurs ont des cartes de même hauteur, ils reçoivent tous ce nombre de points de pénalité. Les joueurs dont les scores atteignent 50 points ou plus sont éliminés du jeu et le dernier joueur survivant est le gagnant.
 
-### Variations
+### Variantes
 
-The UJ maths students site lists the following variations, among others:
+Le site des étudiants en maths de l'UJ liste les variantes suivantes, entre autres :
 
-**Classic Ogórek** - played to 21 points rather than 50.
+**Ogórek classique** — joué à 21 points plutôt qu'à 50.
 
-**Ogórek with Kontra**. After the deal the players speak in turn, beginning to dealer's left, saying either "pass" or "kontra". This continues until either someone says "kontra" or all have passed. If someone said kontra, the number of penalty points given to the loser(s) is doubled. If the player who said "kontra" loses, that player receives quadruple penalty points. If you say kontra and then lose with a king, you get a penalty of 52 (4×13) and lose the whole game in one hand.
+**Ogórek avec Kontra**. Après la donne, les joueurs parlent à tour de rôle, en commençant à la gauche du donneur, en disant soit « passe » soit « kontra ». Cela continue jusqu'à ce que quelqu'un dise « kontra » ou que tous aient passé. Si quelqu'un a dit kontra, le nombre de points de pénalité donné au(x) perdant(s) est doublé. Si le joueur qui a dit « kontra » perd, ce joueur reçoit un quadruple de points de pénalité. Si vous dites kontra et perdez ensuite avec un roi, vous obtenez une pénalité de 52 (4×13) et perdez toute la partie en une seule main.
 
-## Kurkku / Mätäpesä / Rassi (Finnish)
+## Kurkku / Mätäpesä / Rassi (Finlandais)
 
-In Finland, versions of Cucumber are played under several names. The book *Pelataan korttia* by Tore Sandgren (1970) gives under the name **Kurkku** (Cucumber) a Finnish translation of the Swedish rules for Gurka as in Kortoxen , so it may be assumed that the games in Finland and Sweden were similar at this time. The same play example is given, so the implication is that players must either equal or beat the highest card in the trick or play their lowest.
+En Finlande, des versions de Cucumber sont jouées sous plusieurs noms. Le livre *Pelataan korttia* de Tore Sandgren (1970) donne sous le nom de **Kurkku** (Concombre) une traduction finlandaise des règles suédoises de Gurka telles que dans Kortoxen, donc on peut supposer que les jeux en Finlande et en Suède étaient similaires à cette époque. Le même exemple de jeu est donné, donc l'implication est que les joueurs doivent soit égaliser ou battre la carte la plus haute du pli ou jouer leur carte la plus basse.
 
-Cristian Seres had similar rules on the [Kurkku](https://web.archive.org/web/20130325055931/www.korttipelit.net/kurkku) page of his Finnish card game website [Korttipelien sääntöjä](https://web.archive.org/web/20130812123106/www.korttipelit.net/) in a description contributed by Ohto Salo. There are a couple of differences: the number of players suggested is 3 or 4, not more, and it seems that the game ends as soon as any player reaches 30, with the player having the lowest score at that time declared the winner.
+Cristian Seres avait des règles similaires sur la page [Kurkku](https://web.archive.org/web/20130325055931/www.korttipelit.net/kurkku) de son site finlandais de jeux de cartes [Korttipelien sääntöjä](https://web.archive.org/web/20130812123106/www.korttipelit.net/) dans une description contribuée par Ohto Salo. Il y a quelques différences : le nombre de joueurs suggéré est 3 ou 4, pas plus, et il semble que le jeu se termine dès qu'un joueur atteint 30, le joueur ayant le score le plus bas à ce moment étant déclaré gagnant.
 
-Pekka Ranta's book *Marjapussissa Porvooseen* (1993) includes a simple variant called 
-**Mätäpesä** (Dirty Nest), which Anthony Smith has kindly translated. The number of players is not specified; they are dealt an equal number of cards from a standard 52-card pack. The implication seems to be that you should deal as many cards as possible - for example 7 each to 7 players - since the undealt cards are to be shown to the players after the deal. As usual the player to dealer's left leads to the first trick, and players must either equal or beat the highest card in the trick or play their lowest card. The highest card or the last of equally high cards wins the trick and the winner leads to the next trick. The winner of the last trick loses, and as a penalty must deal the next hand - the expression is *"jaa kortit ja opi pelaaman"* ("deal the cards and learn to play!"). No scoring system is given.
+Le livre *Marjapussissa Porvooseen* de Pekka Ranta (1993) inclut une variante simple appelée **Mätäpesä** (Nid pourri), qu'Anthony Smith a aimablement traduite. Le nombre de joueurs n'est pas spécifié ; on leur distribue un nombre égal de cartes d'un jeu standard de 52 cartes. Il semble qu'on devrait distribuer autant de cartes que possible — par exemple 7 à chacun pour 7 joueurs — puisque les cartes non distribuées doivent être montrées aux joueurs après la donne. Comme d'habitude, le joueur à la gauche du donneur mène au premier pli, et les joueurs doivent soit égaliser ou battre la carte la plus haute du pli ou jouer leur carte la plus basse. La carte la plus haute ou la dernière de plusieurs cartes de même hauteur gagne le pli et le gagnant mène au pli suivant. Le gagnant du dernier pli perd, et en pénalité doit donner la main suivante — l'expression est « *jaa kortit ja opi pelaoman* » (« distribue les cartes et apprends à jouer ! »). Aucun système de score n'est donné.
 
-Another Kurkku variation is described on a web page by Antti Louko, under the name [Kurko](https://louko.com/alo/Kurkon-saannot.html) (King), which is somewhat confusing, since "King" is also the name of another card game. Kurko is played by 2 to 9 players with a 54- or 55-card pack including two or three jokers, from which six cards are dealt to each player. Players are forced to equal or beat the highest card in the trick if they can; only if they are unable to do this are they forced to play their lowest card. The jokers function exactly like aces, and as in the Polish game Ogórek the aces and jokers count as the highest cards in the first five tricks, but as the lowest cards, worth just 1 point, in the last trick. In this variant, players are not eliminated, but all carry on playing until all players but one have a score of 30 points or more. The game then ends with the player on the lowest score as the winner, and all other payers pay the winner in proportion to the difference between their scores.
+Une autre variante de Kurkku est décrite sur une page web par Antti Louko, sous le nom de [Kurko](https://louko.com/alo/Kurkon-saannot.html) (Roi), ce qui est un peu confus puisque « Roi » est aussi le nom d'un autre jeu de cartes. Kurko se joue par 2 à 9 joueurs avec un jeu de 54 ou 55 cartes comprenant deux ou trois jokers, dont on distribue six cartes à chaque joueur. Les joueurs sont forcés d'égaler ou de battre la carte la plus haute du pli s'ils le peuvent ; seulement s'ils en sont incapables, ils sont forcés de jouer leur carte la plus basse. Les jokers fonctionnent exactement comme les as, et comme dans le jeu polonais Ogórek, les as et les jokers comptent comme les cartes les plus hautes dans les cinq premiers plis, mais comme les cartes les plus basses, valant seulement 1 point, au dernier pli. Dans cette variante, les joueurs ne sont pas éliminés, mais tous continuent à jouer jusqu'à ce que tous sauf un aient un score de 30 points ou plus. Le jeu se termine alors avec le joueur ayant le score le plus bas comme gagnant, et tous les autres paient le gagnant en proportion de la différence entre leurs scores.
 
-On his web page, Cristian Seres includes a variation **Rassi**, contributed by Tuomo Väliaho. As I understand it *"rassi"* means cleaning, and according to Antti Louko's glossary it is the term for what happens when a player leads an ace, forcing everyone else to give up their lowest card. 
+Sur sa page web, Cristian Seres inclut une variante **Rassi**, contribuée par Tuomo Väliaho. Comme je le comprends, « *rassi* » signifie nettoyer, et selon le glossaire d'Antti Louko, c'est le terme pour ce qui se passe lorsqu'un joueur mène un as, forçant tout le monde à donner sa carte la plus basse.
 
-- In Rassi, after dealing six cards to each player, the dealer asks "is it free?". Any players who have no picture cards (king, queen, jack) can at this point throw in their cards and receive a new six-card hand. 
+- Dans Rassi, après avoir distribué six cartes à chaque joueur, le donneur demande « c'est gratuit ? ». Tous les joueurs qui n'ont pas de figures (roi, dame, valet) peuvent à ce moment jeter leurs cartes et recevoir une nouvelle main de six cartes.
 
-- Next the dealer asks for "doubles?", at which point **any** player may discard all six cards and receive a new hand of six cards. Any player who has taken advantage of the opportunity to "double" will suffer a double penalty if he or she has the highest card on the last trick.
+- Ensuite, le donneur demande « doubles ? », à quel moment **n'importe quel** joueur peut défausser ses six cartes et recevoir une nouvelle main de six cartes. Tout joueur qui a profité de l'opportunité de « doubler » subira une double pénalité s'il a la carte la plus haute au dernier pli.
 
-- After any double, the dealer offers the player the chance to "redouble" - to discard all six cards again and receive another new hand. A player who loses after redoubling loses four times the usual number of penalty points.
+- Après un double, le donneur offre au joueur la chance de « redoubler » — de défausser ses six cartes à nouveau et de recevoir une autre nouvelle main. Un joueur qui perd après un redouble perd quatre fois le nombre habituel de points de pénalité.
 
-- It is possible for a player who begins with no pictures in hand to exchange cards three times, for "free", "double" and "redouble".
+- Il est possible pour un joueur qui commence sans figures en main d'échanger des cartes trois fois, pour « gratuit », « double » et « redouble ».
 
-- In this game, aces are high in the first five tricks, but low, counting 1 point, in the last trick. A player whose score reaches 50 is eliminated and the last surviving player wins.
+- Dans ce jeu, les as sont hauts dans les cinq premiers plis, mais bas, comptant 1 point, au dernier pli. Un joueur dont le score atteint 50 est éliminé et le dernier joueur survivant gagne.
 
-## Gurka (Norwegian)
+## Gurka (Norvégien)
 
-Norwegian Gurka is very similar to the Danish game. It is played with 52 cards and 7 cards dealt to each person. According to a post on the [skillsrinet forum](https://web.archive.org/web/20150225100240/http://www.spillskrinet.no/forum/viewtopic.php?t=81&sid=54f209b88bcbcc4c80245d65090b8cf5) there are a few differences:
+Le Gurka norvégien est très similaire au jeu danois. Il se joue avec 52 cartes et 7 cartes distribuées à chaque personne. Selon un post sur le [forum skillsrinet](https://web.archive.org/web/20150225100240/http://www.spillskrinet.no/forum/viewtopic.php?t=81&sid=54f209b88bcbcc4c80245d65090b8cf5), il y a quelques différences :
 
-- A player who reaches 21 points is immediately eliminated from the game - there is no second life.
+- Un joueur qui atteint 21 points est immédiatement éliminé du jeu — il n'y a pas de deuxième vie.
 
-- There is no bonus for playing a card equal to the loser's card in the last trick. 
+- Il n'y a pas de bonus pour jouer une carte égale à la carte du perdant au dernier pli.
 
-- Jokers can be added to the deck, in which case they function as extra aces.
+- Des jokers peuvent être ajoutés au jeu, auquel cas ils fonctionnent comme des as supplémentaires.
 
-- Alternatively, some play that an ace cannot be played on an ace. Since aces may then be played on four separate tricks, this results in a tenser game where the losing card may be quite high.
+- Alternativement, certains jouent qu'un as ne peut pas être joué sur un as. Puisque des as peuvent alors être joués sur quatre plis séparés, cela donne un jeu plus tendu où la carte perdante peut être assez haute.
 
-Nick Vidargas has described a variant that he learned under the name **Norwegian**, so it may well correspond to another version of Gurka played in Norway. The differences from the above game are as follows:
+Nick Vidargas a décrit une variante qu'il a apprise sous le nom de **Norvégien**, il pourrait bien correspondre à une autre version de Gurka jouée en Norvège. Les différences avec le jeu ci-dessus sont les suivantes :
 
-- In the first hand, 5 cards each are dealt. Subsequently the number of cards dealt is equal to the value of the card held by the loser of the previous hand, with a maximum deal of 7 cards each.
+- À la première main, 5 cartes sont distribuées à chacun. Ensuite, le nombre de cartes distribuées est égal à la valeur de la carte détenue par le perdant de la main précédente, avec un maximum de 7 cartes chacune.
 
-- As in some Danish variants, the dealer may discard some cards, keeping at least two, and draw replacements. If the dealer does this, each of the other players has the option to exchange the same number of cards as the dealer or play with their original hand. 
+- Comme dans certaines variantes danoises, le donneur peut défausser quelques cartes, en gardant au moins deux, et tirer des remplaçantes. Si le donneur le fait, chacun des autres joueurs a l'option d'échanger le même nombre de cartes que le donneur ou de jouer avec sa main d'origine.
 
-- The dealer plays first, and the player of the lowest card in the last trick, and the first of these if several are equally low, deals the next hand.
+- Le donneur joue en premier, et le joueur de la carte la plus basse au dernier pli, et le premier d'entre eux si plusieurs sont à égalité, donne la main suivante.
 
-- When counting the loser's score all pictures and aces count as 11.
+- En comptant le score du perdant, toutes les figures et tous les as comptent pour 11.
 
-## Gúrka (Icelandic)
+## Gúrka (Islandais)
 
-An Icelandic version of Cucumber is described at [spilareglur.is](https://web.archive.org/web/20210725054456/http://www.spilareglur.is/Game?id=28) (archive copy) and Anthony Smith has kindly provided a translation. This version is unusual in that it is possible to lead several cards at the same time, and that the **![club](../images/internat/club.gif)6** is the highest card. 
+Une version islandaise de Cucumber est décrite sur [spilareglur.is](https://web.archive.org/web/20210725054456/http://www.spilareglur.is/Game?id=28) (copie d'archive) et Anthony Smith a aimablement fourni une traduction. Cette version est inhabituelle en ce qu'il est possible de mener plusieurs cartes en même temps, et que le **![trèfle](../images/internat/club.gif)6** est la carte la plus haute.
 
-From 2-4 players play with a 52-card pack in which the cards rank from Ace (high) down to Two (low) as usual, except for the **six of clubs**, which is higher than all other cards including aces. In the first hand, 10 cards are dealt to each player, in the second hand 9 cards, and so on, reducing the hand size by one in each new deal.
+De 2 à 4 joueurs jouent avec un jeu de 52 cartes dans lequel les cartes se classent de l'As (haut) au Deux (bas) comme d'habitude, à l'exception du **six de trèfle**, qui est plus haut que toutes les autres cartes y compris les as. À la première main, 10 cartes sont distribuées à chaque joueur, à la deuxième main 9 cartes, et ainsi de suite, en réduisant la taille de la main d'une carte à chaque nouvelle donne.
 
-The player to the left of the dealer begins and may lead a single card or any number of equal cards - for example two eights or three jacks. If a single card is led, the rule is the same as in Denmark and elsewhere: subsequent players must beat or equal the highest card in the trick or play their lowest card. If more than one card is led, subsequent players must each player an equal number of cards. These cards need not be equal to each other, but they must be at least as high as the highest set of cards so far played to the trick, or the lowest cards that the player has. For example if 5-5-5 is led, the next player might play 5-9-J, on which the following player could play 8-Q-K. The fourth player, holding for example 2, 2, 4, 7, 7, J, J, A cannot play higher or equal; having used the ace to beat the king there is no other card in the hand that is as good as the queen. Therefore this player would be forced to play 2-2-4.
+Le joueur à la gauche du donneur commence et peut mener une carte unique ou n'importe quel nombre de cartes égales — par exemple deux huit ou trois valets. Si une seule carte est menée, la règle est la même qu'au Danemark et ailleurs : les joueurs suivants doivent battre ou égaliser la carte la plus haute du pli ou jouer leur carte la plus basse. Si plus d'une carte est menée, les joueurs suivants doivent chacun jouer le même nombre de cartes. Ces cartes n'ont pas besoin d'être égales entre elles, mais elles doivent être au moins aussi hautes que l'ensemble de cartes le plus haut joué au pli jusqu'à présent, ou les cartes les plus basses que le joueur a. Par exemple, si 5-5-5 est mené, le joueur suivant peut jouer 5-9-V, sur lequel le joueur suivant pourrait jouer 8-D-R. Le quatrième joueur, détenant par exemple 2, 2, 4, 7, 7, V, V, A, ne peut pas jouer plus haut ou à égalité ; ayant utilisé l'as pour battre le roi, il n'y a pas d'autre carte dans sa main qui soit aussi bonne que la dame. Par conséquent, ce joueur serait forcé de jouer 2-2-4.
 
-The trick is won by the player of the highest card or set, or by the last of equally high cards or sets, and the winner leads to the next trick. Players must keep a single card for the last trick. Even if your last cards are equal - for example a pair of 4's - you cannot lead them both at once. The winner of the final single card trick scores a penalty equal to the value of that card (Ace=14, King=13, Queen=12, Jack=11, 10-2 face value). This is indicated by storing the losing card in front of the player while the remaining cards are shuffled for the next deal. There is no bonus for having a card equal to the losing card. The **![club](../images/internat/club.gif)6** has a value of 21 points.
+Le pli est gagné par le joueur de la carte ou de l'ensemble le plus haut, ou par le dernier de plusieurs cartes ou ensembles de même hauteur, et le gagnant mène au pli suivant. Les joueurs doivent garder une carte unique pour le dernier pli. Même si vos dernières cartes sont égales — par exemple une paire de 4 — vous ne pouvez pas les mener toutes les deux à la fois. Le gagnant du dernier pli à carte unique marque une pénalité égale à la valeur de cette carte (As=14, Roi=13, Dame=12, Valet=11, 10-2 à valeur nominale). Cela est indiqué en stockant la carte perdante devant le joueur pendant que les cartes restantes sont mélangées pour la donne suivante. Il n'y a pas de bonus pour avoir une carte égale à la carte perdante. Le **![trèfle](../images/internat/club.gif)6** a une valeur de 21 points.
 
-A player who has a total score of more than 21 (as indicated by the sum of the cards in front of the player) drops out of the game, while the remaining players continue playing. The last surviving player is the winner.
+Un joueur qui a un score total de plus de 21 (selon la somme des cartes devant lui) est éliminé du jeu, tandis que les joueurs restants continuent à jouer. Le dernier joueur survivant est le gagnant.
 
-A player who has a score of exactly 21 points returns to zero and remains in the game. The player's scoring cards are shuffled back into the pack.
+Un joueur qui a un score d'exactement 21 points revient à zéro et reste dans le jeu. Les cartes de score du joueur sont remélangées dans le jeu.
 
-Note that a player who has the **![club](../images/internat/club.gif)6** as the last card will lose the hand since this is the highest card in the pack. If the player has previously lost a hand, this will take the player's score over 21 and the player is eliminated from the game. On the other hand if the player has no previous scoring cards, the **![club](../images/internat/club.gif)6** creates a score of 21 which becomes 0 and the player stays in the game.
+Notez qu'un joueur qui a le **![trèfle](../images/internat/club.gif)6** comme dernière carte perdra la main puisque c'est la carte la plus haute du jeu. Si le joueur a déjà perdu une main, cela portera le score du joueur au-dessus de 21 et il sera éliminé. D'un autre côté, si le joueur n'a pas de cartes de score précédentes, le **![trèfle](../images/internat/club.gif)6** crée un score de 21 qui devient 0 et le joueur reste dans le jeu.
 
-### Variants
+### Variantes
 
-Some play that before leading to the first trick, the player to dealer's left may discard some cards and draw an equal number of replacements from the undealt cards. In that case each other player has the opportunity to discard and draw before the play begins, with the restriction that the number of cards discarded must be less than or equal to the number discarded by the first player.
+Certains jouent qu'avant de mener au premier pli, le joueur à la gauche du donneur peut défausser quelques cartes et tirer un nombre égal de remplaçantes des cartes non distribuées. Dans ce cas, chaque autre joueur a l'opportunité de défausser et tirer avant le début du jeu, avec la restriction que le nombre de cartes défaussées doit être inférieur ou égal au nombre défaussé par le premier joueur.
 
-Some play with the two black sevens as equal high cards, in which case the six of clubs is just an ordinary six. In one version the **![spade](../images/internat/spade.gif)7** is highest, counting 16 points and the **![club](../images/internat/club.gif)7** is second highest, counting 15 points. In another, the two black sevens are equal highest, counting 21 points each.
+Certains jouent avec les deux sept noirs comme cartes hautes égales, auquel cas le six de trèfle est juste un six ordinaire. Dans une version, le **![piqué](../images/internat/spade.gif)7** est le plus haut, comptant 16 points, et le **![trèfle](../images/internat/club.gif)7** est le deuxième plus haut, comptant 15 points. Dans une autre, les deux sept noirs sont à égalité au plus haut, comptant 21 points chacun.
 
-Some play with the Swedish rule that it is only necessary to beat the previous card, not the highest card in the trick.
+Certains jouent avec la règle suédoise selon laquelle il suffit de battre la carte précédente, pas la carte la plus haute du pli.
 
-Some play with just 5 cards dealt to each player throughout. Some play with a different sequence of deals: first 6 cards each, then reducing one card at a time to 1, then increasing to 5, reducing to 1, increasing to 4, reducing to 1, etc. The result of a 1-card deal is of course pure chance.
+Certains jouent avec seulement 5 cartes distribuées à chaque joueur tout au long de la partie. Certains jouent avec une séquence différente de donnes : d'abord 6 cartes chacune, puis en réduisant d'une carte à la fois jusqu'à 1, puis en augmentant à 5, en réduisant à 1, en augmentant à 4, en réduisant à 1, etc. Le résultat d'une donne à 1 carte est bien sûr le pur hasard.
 
-## Other Versions
+## Autres versions
 
-There is an American variant twenty-two, which is quite similar to Icelandic Cucumber except that the six of clubs is not a special card. This is described on a separate page.
+Il existe une variante américaine twenty-deux, qui est assez similaire au Cucumber islandais sauf que le six de trèfle n'est pas une carte spéciale. Celle-ci est décrite sur une page séparée.
 
-Gwenael Beuchet describes **Concombre**, a version developed in 2009 and played at the Playing-Card Museum at Issy near Paris. The winner of the last trick keeps the card that won the trick face up in front of them, and this determines the number of cards to be dealt to each player in the next deal (Jack=11, Queen=12, King=13, Ace=14). If there are not enough cards to go around, the players are dealt 7 cards each. Each player's score is the total value of the cards face up in front of them. When a player reaches a score of 21 or more they are given a 'half-cucumber' and they give back to the dealer all their face-up cards except the highest, which determines the number of cards dealt in the next deal. When a player reaches 21 or more for the second time the game ends and this player is the loser.
+Gwenael Beuchet décrit **Concombre**, une version développée en 2009 et jouée au Musée du jeu de cartes à Issy, près de Paris. Le gagnant du dernier pli garde la carte qui a gagné le pli face visible devant lui, et cela détermine le nombre de cartes à distribuer à chaque joueur dans la donne suivante (V=11, D=12, R=13, A=14). S'il n'y a pas assez de cartes pour tout le monde, les joueurs reçoivent 7 cartes chacun. Le score de chaque joueur est la valeur totale des cartes face visible devant lui. Lorsqu'un joueur atteint un score de 21 ou plus, il reçoit un « demi-concombre » et rend au donneur toutes ses cartes face visibles sauf la plus haute, qui détermine le nombre de cartes distribuées à la donne suivante. Lorsqu'un joueur atteint 21 ou plus pour la deuxième fois, le jeu se termine et ce joueur est le perdant.
 
-Barry Rigal has described some variants played at the 2004 European Junior Bridge Championship in Prague. Since this was an international event, these probably reflect the practice in various countries. Some played with the variant described in the Swedish section above in which an ace forces the next player to play their lowest card. Some allowed players to choose whether to beat or equal the highest (or previous) card or to play their lowest card; others played by the rule that one must equal or beat the highest card if one can. Some played that one must play the lowest card one has that equals or beats the previous card, and holding no such card play one's lowest card: this removes all choice from the players except the decision of which card to lead to a trick. Some played that all players holding the highest card in the last trick score that number as a penalty; others that only the last of those players took a penalty.
+Barry Rigal a décrit des variantes jouées au Championnat d'Europe junior de bridge de 2004 à Prague. Puisqu'il s'agissait d'un événement international, celles-ci reflètent probablement la pratique dans divers pays. Certains jouaient avec la variante décrite dans la section suédoise ci-dessus selon laquelle un as force le joueur suivant à jouer sa carte la plus basse. Certains autorisaient les joueurs à choisir de battre ou d'égaler la carte la plus haute (ou précédente) ou de jouer leur carte la plus basse ; d'autres jouaient selon la règle qu'on doit égaliser ou battre la carte la plus haute si on le peut. Certains jouaient qu'on doit jouer la carte la plus basse qu'on a qui égale ou bat la carte précédente, et sans une telle carte jouer sa carte la plus basse : cela retire tout choix aux joueurs sauf la décision de quelle carte mener à un pli. Certains jouaient que tous les joueurs détenant la carte la plus haute au dernier pli marquent ce nombre en pénalité ; d'autres que seul le dernier de ces joueurs prenait une pénalité.
 
-Friedeman Friese has designed a variant known as [Five Cucumbers](https://boardgamegeek.com/boardgame/147768/five-cucumbers), played with a special 60-card deck.
+Friedeman Friese a conçu une variante connue sous le nom de [Five Cucumbers](https://boardgamegeek.com/boardgame/147768/five-cucumbers), jouée avec un jeu spécial de 60 cartes.
 
-Bernard Dulac has invented a variant Minibluff that incorporates Backgammon-style doubling. It can be played online at [minibluff.com](https://www.minibluff.com/).
-
-Home Page > Classified Index > Trick Taking Games > Last Trick group > Cucumber
+Bernard Dulac a inventé une variante Minibluff qui intègre le doublage de type Backgammon. Elle peut être jouée en ligne sur [minibluff.com](https://www.minibluff.com/).

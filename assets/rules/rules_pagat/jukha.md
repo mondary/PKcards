@@ -2,94 +2,92 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An Israeli game of bluff with 4-card hands in which the aim is to collect four equal cards and not to be left hoding the joker.
+**But :** Un jeu israélien de bluff avec des mains de 4 cartes dans lequel le but est de collecter quatre cartes identiques et de ne pas se retrouver avec le joker.
 
 ---
 
-## Introduction and Objective
+## Introduction et objectif
 
-Jukha is a card game played in Israel using a standard international deck, in which players try to collect four equal cards with which they can exit the game. The last two players remaining in the game when all the others have gone out are the losers. The deck includes one Joker, and so long as a player holds the Joker they cannot exit. 
+Jukha est un jeu de cartes joué en Israël avec un jeu international standard, dans lequel les joueurs essaient de collecter quatre cartes identiques qui leur permettent de sortir du jeu. Les deux derniers joueurs restant dans le jeu lorsque tous les autres sont sortis sont les perdants. Le jeu comprend un Joker, et tant qu'un joueur détient le Joker, il ne peut pas sortir.
 
-The game mechanism is very simple, but the main interest is in the conversation during the game, during which players may try to collaborate or may lie in order to mislead each other. 
+Le mécanisme du jeu est très simple, mais l'intérêt principal réside dans la conversation pendant le jeu, durant laquelle les joueurs peuvent essayer de collaborer ou mentir pour égarer les autres.
 
-"**Jukha**" is the name of a humorous character in the folklore of most Arab countries and the Muslim world, the Near East, Central Asia, the Caucasus, and the Balkans. The name is also common among Eastern Jews and Jokha stories are a genre in Ladino literature.
+« Jukha » est le nom d'un personnage humoristique du folklore de la plupart des pays arabes et du monde musulman, du Proche-Orient, de l'Asie centrale, du Caucase et des Balkans. Le nom est également courant parmi les Juifs orientaux et les histoires de Jokha forment un genre dans la littérature ladino.
 
-## Players and Cards and Objective
+## Joueurs, cartes et objectif
 
-In theory there can be from 3 to 13 players but it is best for 4 or 5. If more than 7 people want to play it works best to split them into two groups, and then consolidate them into a single game after some people have exited.
+En théorie, il peut y avoir de 3 à 13 joueurs, mais c'est idéal pour 4 ou 5. Si plus de 7 personnes veulent jouer, il vaut mieux les diviser en deux groupes, puis les consolider en une seule partie après que certains soient sortis.
 
-Some cards from a standard international pack is used. There need to be four equal cards for each player plus a joker. For example five players could play with all the aces, kings, queens, jacks and tens plus one joker (21 cards). Then if there were 2 jokers in the original deck, another group of six could play a separate game with the 9's, 8's, 7's, 6's, 5's, 4's and the other joker from the same deck (25 cards).
+On utilise certaines cartes d'un jeu international standard. Il faut quatre cartes identiques pour chaque joueur plus un joker. Par exemple, cinq joueurs pourraient jouer avec tous les as, rois, dames, valets et dizaines plus un joker (21 cartes). Ensuite, s'il y avait 2 jokers dans le jeu original, un autre groupe de six pourrait jouer une partie séparée avec les 9, 8, 7, 6, 5, 4 et l'autre joker du même jeu (25 cartes).
 
-The suits do not matter in this game and the cards have no ranking - it only matters whether cards are equal or not. 
+Les couleurs n'ont pas d'importance dans ce jeu et les cartes n'ont pas de rang — il importe seulement si les cartes sont identiques ou non.
 
-The objective is to have four equal cards in your hand at the start of your turn, in which case you show them and exit the game, so that you cannot be one of the losers.
+L'objectif est d'avoir quatre cartes identiques en main au début de son tour, auquel cas on les montre et on sort du jeu, pour ne pas être l'un des perdants.
 
-## Deal
+## Donner
 
-Deal and play are clockwise. The first dealer, who can be chosen by any convenient random method, deals all the cards one at a time face down so that the player to dealer's left has 5 cards and each of the other players has 4. The players look at their cards must must not show them to the other players.
+La donne et le jeu se font dans le sens horaire. Le premier donneur, qui peut être choisi par n'importe quelle méthode aléatoire, distribue toutes les cartes une à une face cachée de sorte que le joueur à la gauche du donneur ait 5 cartes et chacun des autres joueurs 4. Les joueurs regardent leurs cartes mais ne doivent pas les montrer aux autres joueurs.
 
-In subsequent games, the player who was the first to exit with four of a kind will be the new dealer.
+Dans les parties suivantes, le joueur qui est sorti le premier avec quatre d'un même rang sera le nouveau donneur.
 
-## Play
+## Jeu
 
-At the start of each turn each of the players in the game have four cards except for one player who has five. 
+Au début de chaque tour, chacun des joueurs dans le jeu a quatre cartes sauf un joueur qui en a cinq.
 
-The player to the left of the five-card player takes their turn. If their hand consists of four equal cards the player shows them and exits the game. The turn then passes to the next player to the left.
+Le joueur à la gauche du joueur à cinq cartes joue son tour. Si sa main se compose de quatre cartes identiques, le joueur les montre et sort du jeu. Le tour passe ensuite au joueur suivant à gauche.
 
-If the player on turn does not have four of a kind, they must ask the 5-card player for a card, and may specify the rank of the card they would like to have. The 5-card player must offer one card face down to the asker and may say what rank the offered card is.
+Si le joueur dont c'est le tour n'a pas quatre d'un même rang, il doit demander au joueur à cinq cartes une carte, et peut préciser le rang de la carte qu'il souhaiterait avoir. Le joueur à cinq cartes doit offrir une carte face cachée au demandeur et peut dire quel est le rang de la carte offerte.
 
-The asker may either take the offered card, which ends their turn, or may ask for a second card, in which case the five-card player must offer a second card face down.
+Le demandeur peut soit prendre la carte offerte, ce qui termine son tour, soit demander une deuxième carte, auquel cas le joueur à cinq cartes doit offrir une deuxième carte face cachée.
 
-When offered two cards, the asker can take either of those two cards, and the other card is taken back by the player who offered it. This ends the asker's turn. 
+Lorsqu'on lui offre deux cartes, le demandeur peut prendre l'une ou l'autre de ces deux cartes, et l'autre carte est reprise par le joueur qui l'a offerte. Cela termine le tour du demandeur.
 
-Alternatively the asker can ask for a third card. In this case the five-card player must offer a third card, which the asker **must** take, and take back both the first two offered card.
+Alternativement, le demandeur peut demander une troisième carte. Dans ce cas, le joueur à cinq cartes doit offrir une troisième carte, que le demandeur **doit** prendre, et reprendre les deux premières cartes offertes.
 
-In all cases the asker ends their turn with five cards and the game continues with the next player taking a turn.
+Dans tous les cas, le demandeur termine son tour avec cinq cartes et le jeu continue avec le joueur suivant jouant son tour.
 
-Note that having four equal cards and a fifth card is not sufficient to exit the game. You would need to somehow induce the next player to take that fifth card and not one of your set of four, and then wait until your next turn to declare your four of a kind and exit.
+Notez qu'avoir quatre cartes identiques et une cinquième carte ne suffit pas pour sortir du jeu. Il faudrait inciter le joueur suivant à prendre cette cinquième carte et non pas l'une de votre ensemble de quatre, puis attendre jusqu'à votre prochain tour pour déclarer votre carré et sortir.
 
-Note also that when asking for a card, players are allowed to lie about what rank they would like to have, and a player offering a card is allowed to lie about what it is.
+Notez également que lors d'une demande de carte, les joueurs sont autorisés à mentir sur le rang qu'ils aimeraient avoir, et un joueur offrant une carte est autorisé à mentir sur ce qu'elle est.
 
-Discussion od tactics and intentions thoughout the game is encouraged. Players may give information, true or false, about the cards they hold and suggest what cards should be passed. There are just two restrictions:
+La discussion sur les tactiques et les intentions tout au long du jeu est encouragée. Les joueurs peuvent donner des informations, vraies ou fausses, sur les cartes qu'ils détiennent et suggérer quelles cartes devraient être passées. Il y a seulement deux restrictions :
 
-- players are not allowed to mention or refer to suits;
+- les joueurs ne sont pas autorisés à mentionner ou faire référence aux couleurs ;
 
-- players are not allowed to refer to or mention the joker.
+- les joueurs ne sont pas autorisés à faire référence au joker ou à le mentionner.
 
-Clearly it is not possible for the player holding the joker to win the game. However the play continues until there are just **two** players who have not exited the game and these two are **both** losers.
+Il est clair qu'il n'est pas possible pour le joueur détenant le joker de gagner le jeu. Cependant, le jeu continue jusqu'à ce qu'il ne reste que **deux** joueurs qui ne sont pas sortis du jeu, et ces deux sont **tous les deux** perdants.
 
-### Example of play
+### Exemple de partie
 
-- Player A asks player B who sits to his right (and who is currently the player holding 5 cards amongst the 3 player group) **for a** **king**. 
+- Le joueur A demande au joueur B qui est assis à sa droite (et qui est actuellement le joueur détenant 5 cartes parmi le groupe de 3 joueurs) **un roi**.
 
-- Player B needs to present a single card and can say whatever he wants about the card. "Here you go", "This is a Queen" and so on and places the card upside down on the table. 
+- Le joueur B doit présenter une carte unique et peut dire ce qu'il veut de la carte. « Voici », « C'est une dame » et ainsi de suite, et pose la carte face cachée sur la table.
 
-- Player A now needs to decide if according to player B's words he should believe and take this card. Player A determined that he shouldn't trust this card and asks: "I'd like another king if you have one"
+- Le joueur A doit maintenant décider si, d'après les mots du joueur B, il doit croire et prendre cette carte. Le joueur A détermine qu'il ne devrait pas faire confiance à cette carte et demande : « J'aimerais un autre roi si vous en avez un »
 
-- Player B says "Here you go" and places another one. 
+- Le joueur B dit « Voici » et en pose une autre.
 
-- Now player A can pick either upside down card from the table. But still, from reading player B, he isn't confident that he had any Kings to begin with but he is sure B has placed the joker amongst the 2 cards already there and so decides to call for a 3rd card. 
+- Maintenant, le joueur A peut choisir l'une ou l'autre carte face cachée sur la table. Mais encore, en lisant le joueur B, il n'est pas confiant que B avait des rois pour commencer mais il est sûr que B a placé le joker parmi les 2 cartes déjà là et décide donc de demander une 3e carte.
 
-- According to the rules the third time you request a card you **must **take it so he picks it up and it is indeed a **king** and becomes the 5 cards player who is going to be asked next.
+- Selon les règles, la troisième fois que vous demandez une carte, vous **devez** la prendre, alors il la ramasse et c'est effectivement un **roi** et il devient le joueur à 5 cartes qui sera le prochain à qui l'on demandera.
 
-- Player B picks his 2 other cards back from the table to his hand. 
+- Le joueur B reprend ses 2 autres cartes sur la table dans sa main.
 
-- Now player C asks player A for an **Ace**, player A has 4 **kings **and 1 **Ace**, if he can convince player C to take the Ace, player A will now have exactly 4 Kings, he has to wait until his next turn to reveal them.
+- Maintenant, le joueur C demande au joueur A un **as**, le joueur A a 4 **rois** et 1 **as**, s'il peut convaincre le joueur C de prendre l'as, le joueur A aura exactement 4 rois, il doit attendre son prochain tour pour les révéler.
 
-- Once it's player A's turn again to ask for a card, instead he will reveal his set of 4 **Kings** and leave the rest of the players to keep going. 
+- Une fois que c'est de nouveau le tour du joueur A de demander une carte, au lieu de cela, il révélera son ensemble de 4 **rois** et laissera les autres joueurs continuer.
 
 ### Note
 
-The player with the 5 cards can offer any card(s) they wish regardless of what the asking player requested, and can even choose to offer a card before being asked. After asking for and taking a card one interesting tactic is not to look at the card you received but to leave it **face down on the table and offer it to the next person before you even know what it is.** This is legal and robs the next player of the opportunity to influence what you offer them by specifying the card they would like to be given. However it may be that the unknown card you offer happens to be the card the asker would have wanted.
+Le joueur avec les 5 cartes peut offrir n'importe quelle(s) carte(s) qu'il souhaite, indépendamment de ce que le joueur demandeur a demandé, et peut même choisir d'offrir une carte avant qu'on lui demande. Après avoir demandé et pris une carte, une tactique intéressante est de ne pas regarder la carte reçue mais de la laisser **face cachée sur la table et de l'offrir à la personne suivante avant même de savoir ce que c'est.** C'est légal et prive le joueur suivant de l'opportunité d'influencer ce que vous leur offrez en spécifiant la carte qu'il souhaiterait recevoir. Cependant, il se peut que la carte inconnue que vous offrez soit justement la carte que le demandeur aurait voulue.
 
-## Variants and Other Sources
+## Variantes et autres sources
 
-Some other ways of ending the game that are sometimes used:
+Quelques autres façons de terminer le jeu qui sont parfois utilisées :
 
-- As soon as any player exits the game the play ends and the player holding the joker is the loser (this may have been the original rule), or
+- Dès qu'un joueur sort du jeu, le jeu s'arrête et le joueur détenant le joker est le perdant (cela a peut-être été la règle originale), ou
 
-- When only two players remain the player holding the joker is the loser.
+- Lorsqu'il ne reste que deux joueurs, le joueur détenant le joker est le perdant.
 
-There is a description of the game in Hebrew in [this forum post](https://www.fxp.co.il/showthread.php?t=13532645) from 2013.
-
-Home Page > Classified Index > Card Passing Games > Jukha
+Il existe une description du jeu en hébreu dans [ce message de forum](https://www.fxp.co.il/showthread.php?t=13532645) de 2013.

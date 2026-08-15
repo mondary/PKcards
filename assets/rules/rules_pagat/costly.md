@@ -2,10 +2,8 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the two-player card game Costly Colours - link to David Parlett's page on this complex relative of Cribbage.
+**But :** Comment jouer au jeu de cartes à deux joueurs Costly Colours — lien vers la page de David Parlett sur ce parent complexe du Cribbage.
 
 ---
 
-This English game was a more complex relative of Cribbage. There are references to it in the 17th, 18th and early 19th centuries but it is probably now obsolete. You can find a description of it on David Parlett's [Costly Colours page](https://www.parlettgames.uk/histocs/costly.html).
-
-Home Page > Classified Index > Adding games > Costly Colours
+Ce jeu anglais était un parent plus complexe du Cribbage. Il y a des références à ce jeu aux 17e, 18e et début 19e siècles, mais il est probablement aujourd'hui obsolète. Vous pouvez trouver une description sur la [page Costly Colours de David Parlett](https://www.parlettgames.uk/histocs/costly.html).

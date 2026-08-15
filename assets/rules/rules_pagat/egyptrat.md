@@ -2,13 +2,11 @@
 
 **Difficulté :** —
 **Type :** Bataille, Bataille
-**But :** The children's card game Egyptian Ratscrew, also known as ERS, ERF, Egyptian War, Bloodystump or Slap
+**But :** Le jeu de cartes pour enfants Egyptian Ratscrew, aussi connu sous les noms ERS, ERF, Egyptian War, Bloodystump ou Slap
 **Autres noms :** ERS
 
 ---
 
-This name of this popular American game is often shortened to **ERS** or alternatively **ERF**. It is also sometimes known as **Egyptian War**, **Bloodystump**, **Ratslap**, or simply Slap. It is based on the English children's game known as "Beggar My Neighbour" or "Beat Your Neighbour Out Of Doors", with the additional rules that allow the pile to be won by slapping.
+Le nom de ce jeu américain populaire est souvent abrégé en **ERS** ou alternativement **ERF**. Il est aussi parfois connu sous le nom de **Egyptian War**, **Bloodystump**, **Ratslap**, ou simplement Slap. Il est basé sur le jeu anglais pour enfants connu sous le nom de « Beggar My Neighbour » ou « Beat Your Neighbour Out Of Doors », avec des règles supplémentaires permettant de gagner la pile en la giflant.
 
-For the rules, please refer to Oxymoron's [Egyptian Ratscrew Page](https://waste.org/~oliviax/cards/ratscrew.html).
-
-Home Page > Classified Index > War group > Egyptian Ratscrew
+Pour les règles, veuillez consulter la page [Egyptian Ratscrew Page](https://waste.org/~oliviax/cards/ratscrew.html) d'Oxymoron.

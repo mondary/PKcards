@@ -2,79 +2,73 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** In which the aim is to place straight rows of five chips on a board made from square pieces of playing-cards.
+**But :** Dont le but est de placer des rangées droites de cinq jetons sur un plateau fait de morceaux carrés de cartes à jouer.
 
 ---
 
-With thanks to William Gaul, Becky Beers, Tami Verdone and Mark Cornell for information about various versions of the game and board.
+Merci à William Gaul, Becky Beers, Tami Verdone et Mark Cornell pour les informations sur diverses versions du jeu et du plateau.
 
 ## Introduction
 
-This game, played in parts of in the Eastern USA (North Carolina, Tennessee, and perhaps other places), is known by various names including Jack Foolery, Jack Off and perhaps others. It is played with cards, poker chips and a board which is home made from a second deck of cards which are cut in half and glued to a base to make a 10x10 board. A commercial version of the game was published by Jax in 1982 under the name Sequence. The object is to form rows of five poker chips on the board, by placing chips on the board spaces that correspond to cards played from your hand.
+Ce jeu, joué dans certaines régions de l'est des États-Unis (Caroline du Nord, Tennessee, et peut-être d'autres endroits), est connu sous divers noms dont Jack Foolery, Jack Off et peut-être d'autres. Il se joue avec des cartes, des jetons de poker et un plateau fabriqué à partir d'un second jeu de cartes coupées en deux et collées sur une base pour former un plateau de 10×10. Une version commerciale du jeu a été publiée par Jax en 1982 sous le nom de Sequence. Le but est de former des rangées de cinq jetons de poker sur le plateau, en plaçant des jetons sur les cases du plateau qui correspondent aux cartes jouées depuis votre main.
 
-## Players and Equipment
+## Joueurs et matériel
 
-![one-eyed jack board](../images/misc/jack.jpg)
+![plateau de borgne](../images/misc/jack.jpg)
 
-There can be two, three or four players. Four normally play as partners.
+Il peut y avoir deux, trois ou quatre joueurs. Les quatre jouent généralement en partenariat.
 
-Two standard American 52-card packs without jokers are used - 104 cards in all.
+Deux jeux américains standard de 52 cartes sans jokers sont utilisés — 104 cartes au total.
 
-Also a board is required made from another 52-card pack with two jokers from which the four jacks have been removed, leaving 50 cards. Each of the 50 cards is cut to make two square pieces which are pasted onto two cells of the 10x10 board - see illustration. The exact arrangement of the cards on the board is not critical except that the four joker spaces should be in the corners. Usually the cards are placed in some sort of symmetrical or spiral sequence, to create a pleasing visual pattern.
+Un plateau est également requis, fabriqué à partir d'un autre jeu de 52 cartes avec deux jokers dont les quatre valets ont été retirés, laissant 50 cartes. Chacune des 50 cartes est coupée pour faire deux morceaux carrés qui sont collés sur deux cases du plateau 10×10 — voir illustration. L'arrangement exact des cartes sur le plateau n'est pas critique, sauf que les quatre cases de joker doivent être dans les coins. Les cartes sont généralement placées dans une sorte de séquence symétrique ou en spirale, pour créer un motif visuel agréable.
 
-A supply of chips or counters is needed: about 50 each of two colours if there are two or four players; about 40 each of three colours for three players. These are placed on the board to denote which player or team owns a cell.
+Un stock de jetons ou compteurs est nécessaire : environ 50 de chacune de deux couleurs s'il y a deux ou quatre joueurs ; environ 40 de chacune de trois couleurs pour trois joueurs. Ceux-ci sont placés sur le plateau pour indiquer quel joueur ou équipe possède une case.
 
-## Setup and Deal
+## Mise en place et donne
 
-Each player or team takes the chips of one colour. The 104 cards are shuffled and the dealer deals a hand of 7 cards to each player is there are 2 players, 6 each if there are 3 players, and 5 each if there are 4 players. The undealt cards are stacked face down to form a stock pile from which cards will be drawn during the game.
+Chaque joueur ou équipe prend les jetons d'une couleur. Les 104 cartes sont mélangées et le donneur distribue une main de 7 cartes à chaque joueur s'il y a 2 joueurs, 6 chacun s'il y a 3 joueurs, et 5 chacun s'il y a 4 joueurs. Les cartes non distribuées sont empilées faces cachées pour former une pioche à laquelle les cartes seront piochées pendant le jeu.
 
-## Play
+## Le jeu
 
-Players take turns in clockwise order, starting to dealer's left. At your turn you play one card from your hand face up on the table, and place a chip of your colour (or your team's colour) on an unoccupied space on the board whose card corresponds to the card you played. Then you replenish you hand by drawing the top card from the stock pile and it is the next player's turn.
+Les joueurs jouent à tour de rôle dans le sens horaire, en commençant par le joueur à la gauche du donneur. À votre tour, vous jouez une carte de votre main face visible sur la table, et placez un jeton de votre couleur (ou de la couleur de votre équipe) sur une case inoccupée du plateau dont la carte correspond à la carte que vous avez jouée. Ensuite, vous reconstituez votre main en piochant la carte du dessus de la pioche et c'est au tour du joueur suivant.
 
-Two-eyed jacks are wild. Playing a two-eyed jack (clubs or diamonds) entitles the player to place a chip of his or her colour on any unoccupied space on the board.
+Les valets à deux yeux sont wild. Jouer un valet à deux yeux (trèfle ou carreau) donne le droit au joueur de placer un jeton de sa couleur sur n'importe quelle case inoccupée du plateau.
 
-One-eyed jack kill your opponents' chips. Playing a one-eyed jack (hearts or spades) entitles the player to remove from the board any one chip belonging to an opponent.
+Les valets borgnes détruisent les jetons de vos adversaires. Jouer un valet borgne (cœur ou pique) donne le droit au joueur de retirer du plateau n'importe quel jeton appartenant à un adversaire.
 
-Note: there are no jack spaces on the board.
+Note : il n'y a pas de cases de valet sur le plateau.
 
-## Winning
+## Victoire
 
-The object is to form rows of five (or more) chips in an unbroken straight line - vertical horizontal or diagonal.
+Le but est de former des rangées de cinq (ou plus) jetons en ligne droite ininterrompue — verticale, horizontale ou diagonale.
 
-In a two-player or four-player partnership game the first player or team that has two straight rows of five chips of their colour on the board wins the game. These rows are allowed to intersect in one space, in which case only 9 chips are needed for the winning formation. Or a player or team can win with 10 chips forming two separate rows.
+Dans un jeu à deux joueurs ou à quatre en partenariat, le premier joueur ou équipe qui a deux rangées droites de cinq jetons de sa couleur sur le plateau gagne la partie. Ces rangées peuvent se croiser en une case, auquel cas seuls 9 jetons sont nécessaires pour la formation gagnante. Ou un joueur ou une équipe peut gagner avec 10 jetons formant deux rangées séparées.
 
-In a three-player game, the winner is the first player to form one straight row of five chips.
+Dans un jeu à trois joueurs, le gagnant est le premier joueur à former une rangée droite de cinq jetons.
 
-## Variations
+## Variantes
 
-The basic rules are explained above, but like most traditional games, this one has many variations. The ones I know about are listed below. Players who know of other popular variants please let me know.
+Les règles de base sont expliquées ci-dessus, mais comme la plupart des jeux traditionnels, celui-ci a de nombreuses variantes. Celles que je connais sont listées ci-dessous. Les joueurs qui connaissent d'autres variantes populaires sont priés de me le faire savoir.
 
-There are several ways to use the four joker spaces in the corners of the board. For example:
+Il y a plusieurs façons d'utiliser les quatre cases de joker dans les coins du plateau. Par exemple :
 
-- Some play that the joker squares are considered as belonging to all players throughout. Therefore a row of five can be made using only four chips combined with the corner square - for example on the illustrated board ![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)9-![heart](../images/internat/heart.gif)8-![heart](../images/internat/heart.gif)7 or ![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)Q-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)Q.
+- Certains jouent que les cases de joker sont considérées comme appartenant à tous les joueurs en permanence. Ainsi, une rangée de cinq peut être formée avec seulement quatre jetons combinés à la case de coin — par exemple sur le plateau illustré ![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)9-![cœur](../images/internat/heart.gif)8-![cœur](../images/internat/heart.gif)7 ou ![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)D-![carreau](../images/internat/diamond.gif)R-![carreau](../images/internat/diamond.gif)D.
 
-- Some include four jokers in the playing deck, for a total of 108 cards. In this case a joker entitles the player to put a chip on a corner square (but nowhere else). A chip placed on a joker square cannot be removed by a one-eyed jack.
+- Certains incluent quatre jokers dans le jeu de cartes, pour un total de 108 cartes. Dans ce cas, un joker donne le droit au joueur de placer un jeton sur une case de coin (mais nulle part ailleurs). Un jeton placé sur une case de joker ne peut pas être retiré par un valet borgne.
 
-Some play that a card is drawn at the start of each player's turn rather than at the end.
+Certains jouent qu'une carte est piochée au début de chaque tour de joueur plutôt qu'à la fin.
 
-The number of cards dealt to the players varies. For example some player the two-player game with 9-card hands. Some play the 4-player game with 6-card hands.
+Le nombre de cartes distribuées aux joueurs varie. Par exemple, certains jouent la partie à deux joueurs avec des mains de 9 cartes. Certains jouent la partie à 4 joueurs avec des mains de 6 cartes.
 
-Some allow the player of a one-eyed jack to place a chip on any space on the board, even an occupied space, replacing the token (if any) that is already on that space.
+Certains autorisent le joueur d'un valet borgne à placer un jeton sur n'importe quelle case du plateau, même une case occupée, en remplaçant le jeton (s'il y en a un) qui se trouve déjà sur cette case.
 
-Some do not allow a one-eyed jack to destroy a completed five-chip row by removing (or replacing) one of its chips.
+Certains n'autorisent pas un valet borgne à détruire une rangée de cinq jetons complétée en retirant (ou remplaçant) un de ses jetons.
 
-Occasionally a player will have a card in hand that is dead, in the sense that both spaces corresponding to that card are already occupied (at least one of them by playing a jack). Some allow the holder of a dead card to discard it and draw a replacement from the stock. This does not count as a turn.
-
-[](https://www.amazon.com/gp/product/B00000IVAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00000IVAK&linkCode=as2&tag=cardgames&linkId=QRAXXGLYMYAF7T5A)
+Parfois, un joueur aura une carte en main qui est « morte », dans le sens où les deux cases correspondant à cette carte sont déjà occupées (au moins l'une d'entre elles par le jeu d'un valet). Certains autorisent le détenteur d'une carte morte à la défausser et piocher un remplacement dans la pioche. Cela ne compte pas comme un tour.
 
 ![Double Series](../images/misc/doubleseries.jpg)
-If you prefer to use a ready-made playing-board rather than make your own, several commercial versions are available. 
+Si vous préférez utiliser un plateau prêt à l'emploi plutôt que de fabriquer le vôtre, plusieurs versions commerciales sont disponibles.
 
-You can obtain the Jax game [Sequence](https://www.amazon.com/gp/product/B00000IVAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00000IVAK&linkCode=as2&tag=cardgames&linkId=QRAXXGLYMYAF7T5A) from amazon.com. The set includes a board, cards, chips, and instructions for a version of the game. 
+Le jeu [Double Series](https://boardgamegeek.com/boardgame/55686/double-series) de l'entreprise canadienne Jouets Bo-Jeux Toys est fourni avec un grand plateau en bois ou dans une version de voyage utilisant un plateau à fiches.
 
-Alternatively the game [Double Series](https://boardgamegeek.com/boardgame/55686/double-series) from the Canadian firm Jouets Bo-Jeux Toys comes with either a large wooden board or in a travel version using a pegboard.
-
-In 2003 the Quinto Game Company released [Quinto](https://quintogame.com), which has the same board and play but adds an elaborate scoring system.
-
-Home Page > Classified Index > Miscellaneous Games > One-Eyed Jack
+En 2003, la Quinto Game Company a publié [Quinto](https://quintogame.com), qui utilise le même plateau et le même jeu mais ajoute un système de points élaboré.

@@ -3,249 +3,242 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** Versions for three and four players, and other variants.
+**But :** Versions pour trois et quatre joueurs, et autres variantes.
 **Autres noms :** Kurnik
 
 ---
 
 ## Introduction
 
-Six Card Cribbage is basically a game for two players, but adapts easily for three players, and for four players in fixed partnerships - a very useful feature. It is now the standard form of Cribbage and widely played in English speaking parts of the world.
+Le Cribbage à six cartes est fondamentalement un jeu pour deux joueurs, mais s'adapte facilement pour trois joueurs, et pour quatre joueurs en partenariats fixes — une caractéristique très utile. C'est maintenant la forme standard du Cribbage et il est largement joué dans les parties anglophones du monde.
 
-See also the page on Five Card Cribbage, an older form of the game which has been largely forgotten, though it is still played in parts of Britain.
+Voir aussi la page du Cribbage à cinq cartes, une forme plus ancienne du jeu qui a été largement oubliée, bien qu'elle soit encore jouée dans certaines régions de Grande-Bretagne.
 
-Cribbage in England is primarily a pub game - indeed, it is one of the few games allowed by Statute to be played in a public house for small stakes. A game of low animal cunning where players must balance a number of different objectives, remain quick witted enough to recognise combinations, and be able to add up, it is perhaps not the most obvious of games to be so firmly associated with the English pub. It is a game where experience counts for a great deal - though luck, of course, has a large part.
+Le Cribbage en Angleterre est principalement un jeu de pub — c'est d'ailleurs l'un des rares jeux autorisés par la loi à être joués dans un débit de boisson pour de petites mises. C'est un jeu de ruse animale basse où les joueurs doivent équilibrer plusieurs objectifs différents, rester assez vifs pour reconnaître les combinaisons, et savoir compter, ce n'est peut-être pas le jeu le plus évident à être si fermement associé au pub anglais. C'est un jeu où l'expérience compte pour beaucoup — bien que la chance, bien sûr, joue un grand rôle.
 
-It is also a game where etiquette is important. The rituals associated with cutting and dealing, playing and pegging, as well as the terminology, all serve the useful purpose of keeping things in order - and they help to give the game a flavour of its own. In card playing, as with food, authenticity matters.
+C'est aussi un jeu où l'étiquette est importante. Les rituels associés à la coupe et à la distribution, au jeu et au marquage, ainsi que la terminologie, servent tous l'objectif utile de maintenir l'ordre — et ils aident à donner au jeu sa propre saveur. Aux jeux de cartes comme à la nourriture, l'authenticité compte.
 
-*This page was originally based on a contribution from Mike Block, with additional material from David Dailey, John McLeod and many others.*
+*Cette page était à l'origine basée sur une contribution de Mike Block, avec du matériel supplémentaire de David Dailey, John McLeod et bien d'autres.*
 
-## Two-handed play
+## Jeu à deux joueurs
 
-Two players use a standard 52 card pack. Cards rank K(high) Q J 10 9 8 7 6 5 4 3 2 A(low).
+Deux joueurs utilisent un jeu standard de 52 cartes. Les cartes se classent R(haut) D V 10 9 8 7 6 5 4 3 2 A(bas).
 
-### Object
+### Objectif
 
-To be the first to score 121 points or over (**twice** round the usual British design of board) accumulated over several deals. Points are scored mainly for combinations of cards either occurring during the play or occurring in a player's hand or in the cards discarded before the play, which form the *crib* or *box*.
+Être le premier à marquer 121 points ou plus (**deux fois** autour du plateau britannique habituel) accumulés sur plusieurs donnes. Les points sont marqués principalement pour des combinaisons de cartes intervenant soit pendant le jeu, soit dans la main d'un joueur ou dans les cartes défaussées avant le jeu, qui forment le *crib* ou la *boîte*.
 
-### Board and Pegs
+### Plateau et pions
 
-[![Cribbage equipment](../images/com/cribbage-display.jpg)](https://amzn.to/2ABHV72)
+Le score est conservé au moyen d'un plateau et de pions. En commençant à une extrémité du plateau — généralement à la gauche du premier donneur — les joueurs marquent leurs scores au fur et à mesure en utilisant leurs deux pions alternativement : le pion avant montre le score le plus récent du joueur, et le pion arrière montre le score précédent.
 
-amazon.com stocks a selection
+Lorsqu'un joueur marque, le pion arrière est déplacé devant le pion avant du même nombre de trous que le score pour montrer le nouveau total. Cela permet de vérifier facilement les scores et constitue un relevé visible de la progression du jeu. Les joueurs marquent à l'extérieur du plateau et reviennent à l'intérieur. Le gagnant est le premier à « marquer » en dépassant 120.
 
-of cribbage boards and pegs
+Le design exact du plateau n'est pas critique. Le diagramme montre le type de plateau le plus couramment utilisé en Grande-Bretagne. En Amérique du Nord, ils existent sous une grande variété de formes. La caractéristique essentielle est une piste pour chaque joueur avec des trous représentant les nombres de 1 à 120.
 
-which can be [ordered on line](https://amzn.to/2ABHV72).
+### Donner
 
-The score is kept by means of a board and pegs. Starting at one end of the board - usually to the left of the first dealer - players peg their scores as they occur using their two pegs alternately: the forward peg shows the player's latest score, and the rear peg shows the previous score.
+La première donne est déterminée en coupant les cartes. Le joueur qui coupe la carte la plus basse donne et a la première boîte ou crib. Si les cartes sont égales — y compris le cas où les joueurs coupent des *cartes à dix* (10, V, D ou R) de deux rangs différents — il y a une autre coupe pour la première donne. La donne alterne ensuite de main en main jusqu'à la fin de la partie.
 
-When a player scores, the rear peg is moved in front of the forward peg by the same number of holes as the score to show the new total. This enables scores to be easily checked and acts as a visible statement of the progress of the game. Players peg up on the outside of the board and back on the inside. The winner is the first to *peg out* by exceeding 120.
+Il est habituel de jouer au meilleur de trois parties. L'adversaire du premier donneur de la première partie donne en premier et obtient la première boîte dans la deuxième partie. Pour la troisième partie — s'il faut un match décisif — il y a une nouvelle coupe pour décider qui donne en premier.
 
-The exact design of the board is not critical. The diagram shows the type of board most commonly used in Britain. In North America they come in a great variety of shapes. The essential feature is a track for each player with holes representing the numbers from 1 to 120.
+Le donneur mélange, le non-donneur coupe les cartes [mais voir les variantes], et le donneur distribue 6 cartes face cachée à chaque joueur une à la fois. La partie non distribuée du jeu est posée face cachée sur la table. À la fin de chaque main, les cartes jouées sont rassemblées et tout le jeu est mélangé par le nouveau donneur avant la donne suivante.
 
-### Deal
+### Défausse
 
-The first deal is determined by cutting the cards. The player cutting the lower card deals and has the first box or crib. If the cards are equal - and that includes the case where the players cut *ten cards* (10, J, Q or K) of two different ranks - there is another cut for first deal. The deal then alternates from hand to hand until the game is over.
+Chaque joueur choisit deux cartes à défausser face cachée pour former le crib. Ces quatre cartes sont mises de côté jusqu'à la fin de la main. Le crib comptera pour le donneur — le non-donneur essaiera de jeter des cartes qui ont peu de chances de former des combinaisons de valeur, mais doit équilibrer cela avec le fait de garder une bonne main pour lui-même. Le donneur, en revanche, peut parfois trouver avantageux de placer de bonnes cartes dans la boîte — surtout s'il ne peut pas les utiliser au mieux dans sa main.
 
-It is usual to play best of three games. The opponent of the first dealer in the first game deals first and gets the first box in the second game. For the third game - if a decider is needed - there is a fresh cut to decide who deals first.
+### Carte de départ
 
-The dealer shuffles, the non-dealer cuts the cards [but see variations], and dealer deals 6 cards face down to each player one at a time. The undealt part of the pack is placed face down on the table. At the end of each hand, the played cards are gathered together and the whole pack is shuffled by the new dealer before the next deal.
+Le non-donneur coupe le tas de cartes non distribuées, en soulevant la partie supérieure sans montrer sa carte du bas. Le donneur sort la carte supérieure de la partie inférieure, la retourne face visible et, après que le non-donneur a remis la partie supérieure, la pose face visible au sommet du jeu. Cette carte retournée est appelée la carte de *départ*. Elle n'est pas utilisée pendant le jeu des cartes, mais lors de l'abattage, elle comptera pour les combinaisons comme partie des mains des deux joueurs ainsi que de la boîte du donneur.
 
-### Discard
+Si la carte de départ est un valet, le donneur marque immédiatement 2 trous — c'est appelé « Deux pour ses talons ».
 
-Each player chooses two cards to discard face down to form the crib. These four cards are set aside until the end of the hand. The crib will count for the dealer - non-dealer will try to throw cards that are unlikely to make valuable combinations, but must balance this against keeping a good hand for himself. Dealer, on the other hand, may sometimes find it pays to place good cards in the box - especially if they cannot be used to best advantage in hand.
+### Jeu des cartes
 
-### Start Card
+En commençant par le non-donneur, les joueurs jouent à tour de rôle des cartes simples. Vous jouez vos propres cartes pour former un tas face visible devant vous, en les gardant séparées des cartes de l'autre joueur. Dans cette phase du jeu, la valeur totale en points des cartes jouées par les deux joueurs est comptée, en partant de zéro et en ajoutant la valeur de chaque carte à mesure qu'elle est jouée. Ce total ne doit pas dépasser 31. Lorsqu'aucune carte ne peut être jouée sans dépasser 31, le compte redémarre à zéro. Les valeurs des cartes sont :
 
-Non-dealer cuts the stack of undealt cards, lifting the upper part without showing its bottom card. The dealer takes out the top card of the lower part, turns it face up and, after non-dealer replaces the upper part, places it face up on top of the pack. This turned up card is called the *start* card. It is not used during the play of the cards but in the show it will count for combinations as part of both players' hands as well as of the dealer's box.
+As = 1 ; 2 à 10 = valeur nominale ; valet = 10 ; dame = 10 ; roi = 10.
 
-If the start card is a jack, the dealer immediately pegs 2 holes - this is called *Two for his heels*.
+À chaque carte jouée, le joueur annonce le total cumulé — par exemple le non-donneur joue un roi et dit « 10 », le donneur joue un 8 et dit « 18 », le non-donneur joue un valet et dit « 28 », et ainsi de suite. Si une carte portant le total exactement à 31 est jouée, le joueur marque 2 en déclarant « Trente et un deux » au moment où il le fait.
 
-### Play of the cards
+Un joueur qui ne peut pas jouer sans dépasser 31 ne joue pas de carte mais dit *Go* (passe), laissant son adversaire continuer si possible, en marquant pour toute combinaison supplémentaire formée (voir ci-dessous). Porter le total exactement à 31 marque 2, mais si le total est de 30 ou moins et qu'aucun des deux joueurs ne peut poser une carte sans dépasser 31, le dernier joueur à avoir posé une carte marque *un pour le go* ou *un pour le dernier*.
 
-Beginning with the non-dealer, the players take turns to play single cards. You play your own cards to form a face-up pile in front of yourself, keeping them separate from the other player's cards. In this stage of the game the total pip value of the cards played by both players is counted, starting from zero and adding the value of each card as it is played. This total must not exceed 31. When no more cards can be played without going over 31, the count is restarted from zero. The pip values of the cards are:
+Les cartes qui ont été jouées sont retournées et un nouveau tour de jeu recommence avec les cartes restantes dans les mains des joueurs exactement de la même façon. L'adversaire du joueur qui a joué en dernier au tour précédent (en marquant « Trente et un deux » ou « Un pour le dernier ») joue en premier dans le nouveau tour. Ce deuxième tour de jeu redémarre à zéro et continue jusqu'à ce que personne ne puisse jouer sans dépasser 31. Le dernier joueur marque à nouveau « 1 pour le dernier » ou « 31 pour 2 », et si l'un des joueurs a encore des cartes, il y a un tour supplémentaire. Le jeu continue pour autant de tours que nécessaire jusqu'à ce que les cartes des deux joueurs soient épuisées. Vers la fin, il peut arriver qu'un joueur n'ait plus de cartes mais que l'autre en ait encore plusieurs. Dans ce cas, le joueur qui a encore des cartes continue simplement à jouer et à marquer pour toute combinaison formée jusqu'à ce que toutes ses cartes aient été jouées.
 
-Ace = 1; 2 to 10 = face value; jack = 10; queen = 10; king = 10.
+**Exemple :** Le joueur **A** a **roi-roi-2-2** ; le joueur **B** a **9-8-7-6**.
+**Premier tour :** **A** joue **roi** — « 10 » ; **B** joue **6** — « 16 » ; **A** joue **roi** — « 26 » ; **B** dit « go » ; **A** joue **2** — « 28 » ; **A** joue **2** — « 30 pour 3 ». **A** marque 3, soit 2 pour la paire de deux et 1 pour avoir joué la dernière carte de ce tour.
+**Deuxième tour :** **B** joue **8** — « 8 » ; **A** n'a plus de cartes donc ne peut rien faire ; **B** joue **7** — « quinze deux » (**B** marque 2 points) ; **B** joue 9 « 24 pour 3 et 1 pour le dernier » (**B** marque 4 points : trois pour la suite **7-8-9** et un pour avoir joué la dernière carte).
 
-As each card is played, the player announces the running total - for example the non-dealer plays a king and says "10", the dealer plays an 8 and says "18", the non-dealer plays a jack and says "28", and so on. If a card is played which brings the total exactly to 31, the player pegs 2 claiming *Thirty one for two* as he does so.
+**Note importante :** il est **jamais** possible de marquer « un pour le dernier » et « 31 pour 2 » en même temps. Ce sont des **alternatives**. Si vous faites exactement 31 pour deux points, marquez simplement ces deux points — vous n'obtenez **pas** un « un pour le dernier » supplémentaire dans ce cas.
 
-A player who cannot play without exceeding 31 does not play a card but says *Go*, leaving his opponent to continue if possible, pegging for any further combinations made (see below). Bringing the total to exactly 31 pegs 2, but if the total is 30 or less and neither player can lay a card without going over 31, then the last player to lay a card pegs *one for the go* or *one for last*.
+**Note tactique :** Il vaut souvent la peine de garder des cartes basses en main pour cette phase du jeu, surtout quand il y a une forte possibilité de pouvoir marquer avant son adversaire.
 
-The cards that have been played are turned over and a fresh round of play starts with the cards remaining in the players' hands in exactly the same way. The opponent of the player who played last in the previous round (scoring *Thirty one for two* or *One for last*) plays first in the new round. This second round of play starts again from zero and again continues until neither can play without going over 31. The last player again scores "1 for last" or "31 for 2", and if either player has any cards left there is a further round. Play continues for as many rounds as necessary until both players' cards are exhausted. Towards the end, it may happen that one player has run out of cards but the other still has several cards. In that case the player who still has cards simply carries on playing and scoring for any combinations formed until all his cards have been played.
+### Marquage pendant le jeu
 
-**Example:** Player **A** has **king-king-2-2**; player **B** has **9-8-7-6**.
-**First round:** **A** plays **king** - "10"; **B** plays **6** - "16"; **A** plays **king** - "26"; **B** says "go"; **A** plays **2** - "28"; **A** plays **2** - "30 for 3". **A** pegs 3, namely 2 for the pair of twos and 1 for playing the last card of this round.
-**Second round:** **B** plays **8** - "8"; **A** has no cards left so cannot do anything; **B** plays **7** - "fifteen two" (**B** pegs 2 points); **B** plays 9 "24 for 3 and 1 for last" (**B** pegs 4 points: three for the run **7-8-9** and one for playing the last card).
+Un joueur qui réalise l'une des combinaisons suivantes pendant le jeu les marque immédiatement.
 
-**Please note:** it is **never** possible to score "one for last" and "31 for 2" at the same time. They are **alternatives**. If you make exactly 31 for two points just peg those two points - you do **not** get an additional "one for last" in this case.
+**15 :**
+Si vous jouez une carte qui porte le total à 15, vous marquez 2 en déclarant « Quinze deux ».
+**31 :**
+Comme mentionné ci-dessus, si vous jouez une carte qui porte le total exactement à 31, vous marquez 2.
+**Paire :**
+Si vous jouez une carte du même rang que la carte précédente (par exemple un roi après un roi), vous marquez 2 pour une paire. Notez que (par exemple) un 10 et une dame ne forment **pas** une paire même si elles valent toutes les deux 10 points.
+**Paire Royale :**
+Si immédiatement après une paire une troisième carte du même rang est jouée, le joueur de la troisième carte marque 6 pour une *paire royale*.
+**Double Paire Royale :**
+Quatre cartes du même rang, jouées en succession immédiate. Le joueur de la quatrième carte marque 12.
+**Suite :**
+Une *suite* ou *séquence* est un ensemble de 3 cartes ou plus de rangs consécutifs (quelle que soit la couleur) — comme 9-10-valet ou 2-3-4-5. Notez que l'as est bas donc, par exemple, as-roi-dame n'est pas une suite.
+Le joueur d'une carte qui complète une suite marque pour la suite ; le score est égal au nombre de cartes de la suite. Les cartes n'ont pas à être jouées dans l'ordre, mais aucune autre carte ne doit s'intercaler.
 
-**Tactical note:** It is often worth keeping low cards in hand for this phase of the game, especially when there is a strong possibility of being able to peg out before one's opponent.
+**Exemple :** les cartes sont jouées dans l'ordre suivant : 4-2-3-5-6. Le joueur du 3 marque 3 pour une suite, puis le joueur du 5 marque 4, et le joueur du 6 marque 5.
 
-### Scoring during the play
+**Autre exemple :** 4-2-3-4-3. Le joueur du premier 3 marque 3 pour la suite 4-2-3. Ensuite, le joueur du deuxième 4 marque 3 pour la suite 2-3-4. Le joueur du deuxième 3 ne marque rien car le 3 ne complète pas une suite.
 
-A player who makes any of the following scores during the play pegs them immediately.
+Autre exemple : 4-2-6-5-3. Le 3 final marque 5 points pour une suite de 5 cartes. Rien n'est marqué avant, car il n'y a pas de suite jusqu'à ce que le 3 soit joué.
+**Dernière carte :**
+Si aucun des deux joueurs ne parvient à porter le total exactement à 31, celui qui a joué la dernière carte marque 1.
 
-**15:**
-If you play a card which brings the total to 15 you peg 2 claiming *Fifteen two*.
-**31:**
-As mentioned above, if you play a card which brings the total to exactly 31 you peg 2.
-**Pair:**
-If you play a card of the same rank as the previous card (e.g. a king after a king) you peg 2 for a pair. Note that (for example) a 10 and a queen do NOT make a pair even though they are both worth 10 points.
-**Pair Royal:**
-If immediately after a pair a third card of the same rank is played, the player of the third card scores 6 for *pair royal*.
-**Double Pair Royal:**
-Four cards of the same rank, played in immediate succession. The player of the fourth card scores 12.
-**Run:**
-A *run* or *sequence* is a set of 3 or more cards of consecutive ranks (irrespective of suit) - such as 9-10-jack or 2-3-4-5. Note that ace is low so, for example, ace-king-queen is not a run.
-The player of a card which completes a run scores for the run; the score is equal to the number of cards in the run. The cards do not have to be played in order, but no other cards must intervene.
+Notez que pour marquer une paire, une paire royale, une double paire royale ou une suite, les cartes doivent avoir été jouées consécutivement pendant un seul tour de jeu. Si **un** joueur a dû dire « go » pendant que la combinaison se formait, la combinaison est encore valide, mais si **les deux** joueurs sont incapables de jouer, causant un nouveau tour de jeu à démarrer à zéro, toutes les combinaisons recommencent à neuf.
 
-**Example:** cards are played in the following order: 4-2-3-5-6. The player of the 3 scores 3 for a run, then the player of the 5 scores 4, and the player of the 6 scores 5.
+**Exemple 1** : Le joueur **A** a 10, 10, 9, 6 ; le joueur **B** a 7, 6, 5, 4.
+**A** joue 9, **B** joue 6 (marquant quinze deux), **A** joue 6 (marquant deux pour une paire), **B** joue 5. Le total est maintenant 26 ; **A** doit dire « go », donc **B** joue 4, marquant trois pour une suite, plus un pour le dernier. **A** recommence avec 10, **B** joue 7, et **A** joue l'autre 10, marquant un pour le dernier.
 
-**Another example:** 4-2-3-4-3. The player of the first 3 scores 3 for the run 4-2-3. Then the player of the second 4 score 3 for the run 2-3-4. The player of the second 3 scores nothing because the 3 does not complete a run.
+**Exemple 2** : Le joueur **A** a 10, 8, 7, 5 ; le joueur **B** a 7, 6, 5, 4.
+**A** joue 8, **B** joue 7 (marquant quinze deux), **A** joue 7 (marquant deux pour une paire), B joue 6. Le total est maintenant 28 ; aucun ne peut jouer, donc B marque un pour le dernier. Si A recommence maintenant avec un 5, A ne marque **pas** pour une suite, car le 7 et le 6 ont été joués lors du tour précédent (avant que le total ne soit remis à zéro).
 
-Another example: 4-2-6-5-3. The final 3 scores 5 points for a 5-card run. Nothing is scored before then, because there is no run until the 3 is played.
-**Last Card:**
-If neither player manages to make the total exactly 31, whoever played the last card pegs 1.
+### L'Abattage
 
-Note that to score for pair, pair royal, double pair royal or run, the cards must have been played consecutively during a single round of play. If **one** player had to say "go" while the combination was being formed, the combination is still valid, but if **both** players are unable to play, causing a new round of play to be started from zero, all combinations are started afresh.
+Les joueurs reprennent maintenant les cartes qu'ils ont posées pendant le jeu et marquent pour les combinaisons de cartes détenues en main. D'abord, la main du non-donneur est exposée et marquée. La carte de départ compte aussi comme partie de la main lors du marquage des combinaisons. Tous les scores valides de la liste suivante sont comptés.
 
-**Example 1**: Player **A** has 10, 10, 9, 6; player **B** has 7, 6, 5, 4.
-**A** plays 9, **B** plays 6 (scoring fifteen two), **A** plays 6 (scoring two for a pair), **B** plays 5. The total is now 26; **A** has to say "go", so **B** plays 4, scoring three for a run, plus one for last. The **A** begins again with 10, **B** plays 7, and **A** plays the other 10, scoring one for last.**Example 2**: Player **A** has 10, 8, 7, 5; player **B** has 7, 6, 5, 4.
-**A** plays 8, **B** plays 7 (scoring fifteen two), **A** plays 7 (scoring two for a pair), B plays 6. The total is now 28; neither can play, so B scores one for last. If A now begins again with a 5, A does **not** score for a run, because the 7 and 6 were played in the previous round of play (before the total was reset to zero).
+**15 :**
+Toute combinaison de cartes totalisant 15 points marque 2 points. Par exemple roi, valet, cinq, cinq marquerait 10 points au total : 8 points pour quatre quinze, puisque le roi et le valet peuvent chacun être associé à l'un ou l'autre des cinq, plus 2 points supplémentaires pour la paire de cinq. On dirait « Quinze deux, quinze quatre, quinze six, quinze huit et une paire fait dix ».
+**Paire :**
+Une paire de cartes du même rang marque 2 points. Trois cartes du même rang contiennent 3 paires différentes et marquent donc un total de 6 points pour une *paire royale*. Quatre d'un même rang contiennent 6 paires et marquent donc 12 points.
+**Suite :**
+Trois cartes de rang consécutif (quelle que soit la couleur), comme as-2-3, marquent 3 points pour une suite. Une main comme 6-7-7-8 contient deux suites de 3 (ainsi que deux quinze et une paire) et marquerait 12 au total. Une suite de quatre cartes, comme 9-10-V-D, marque 4 points (c'est légèrement illogique — on pourrait s'attendre à ce que cela marque 6 car elle contient deux suites de 3, mais ce n'est pas le cas. Les suites de 3 à l'intérieur ne comptent pas — on obtient simplement 4), et une suite de cinq cartes marque 5.
+**Couleur :**
+Si les quatre cartes de la main sont de la même couleur, 4 points sont marqués pour la couleur. Si la carte de départ est aussi de la même couleur, la couleur vaut 5 points. Il n'y a pas de score pour avoir 3 cartes en main et la carte de départ toutes de la même couleur. Notez aussi qu'il n'y a pas de score pour la couleur pendant le jeu — cela ne compte que lors de l'abattage.
+**Un pour son Monsieur :**
+Si la main contient le valet de la même couleur que la carte de départ, vous marquez *un pour son Monsieur* (parfois appelé, surtout en Amérique du Nord, « un pour ses messieurs » ou « un pour ses nibs »).
+**Dix-neuf :**
+Il est impossible de marquer dix-neuf en main ou dans la boîte. Si vous pensez l'avoir fait, alors vous devriez soit arrêter de jouer, soit arrêter de boire.
+*Dix-neuf* est proverbialement utilisé comme terme pour désigner une main sans valeur.
 
-### The Show
+Notez que lors du marquage d'une main, la même carte peut être comptée et marquée comme partie de plusieurs combinaisons différentes. Par exemple, si votre main est 7 8 8 R et la carte de départ est un 9, vous marquez « Quinze deux, quinze quatre, et une paire fait six, et une suite fait neuf, et une suite fait douze » — 12 trous à marquer, chacun de vos 8 formant partie d'un quinze, d'une paire et d'une suite.
 
-Players now retrieve the cards that they put down during the play and score for combinations of cards held in hand. First the non-dealer's hand is exposed, and scored. The start card also counts as part of the hand when scoring combinations. All valid scores from the following list are counted.
+Après que la main du non-donneur a été exposée et le score marqué, la main du donneur est exposée, marquée et comptée de la même façon. Enfin, le donneur expose les quatre cartes du crib et les marque avec la carte de départ. Le marquage est le même que pour les mains des joueurs, sauf qu'une couleur dans le crib ne marque que si les quatre cartes du crib et la carte de départ sont de la même couleur. Si cela se produit, la couleur marque 5.
 
-**15:**
-Any combination of cards adding up to 15 pips scores 2 points. For example king, jack, five, five would score 10 points altogether: 8 points for four fifteens, since the king and the jack can each be paired with either of the fives, plus 2 more points for the pair of fives. You would say *"Fifteen two, fifteen four, fifteen six, fifteen eight and a pair makes ten"*.
-**Pair:**
-A pair of cards of the same rank score 2 points. Three cards of the same rank contain 3 different pairs and thus score a total of 6 points for *pair royal*. Four of a kind contain 6 pairs and so score 12 points.
-**Run:**
-Three cards of consecutive rank (irrespective of suit), such as ace-2-3, score 3 points for a run. A hand such as 6-7-7-8 contains two runs of 3 (as well as two fifteens and a pair) and so would score 12 altogether. A run of four cards, such as 9-10-J-Q scores 4 points (this is slightly illogical - you might expect it to score 6 because it contains two runs of 3, but it doesn't. The runs of 3 within it don't count - you just get 4), and a run of five cards scores 5.
-**Flush:**
-If all four cards of the hand are the same suit, 4 points are scored for flush. If the start card is the same suit as well, the flush is worth 5 points. There is no score for having 3 hand cards and the start all the same suit. Note also that there is no score for flush during the play - it only counts in the show.
-**One For His Nob:**
-If the hand contains the jack of the same suit as the start card, you peg *One for his nob* (sometimes known, especially in North America, as "one for his nobs" or "one for his nibs")..
-**Nineteen:**
-It is impossible to score nineteen in hand or in box. If you think you have, then you should either stop playing or stop drinking.
-*Nineteen* is proverbially used as a term to indicate a worthless hand.
+**Muggins (règle optionnelle)**. Si un joueur, lors du marquage de sa main ou du crib, omet des points, alors après que le joueur a annoncé le total et l'a marqué, son adversaire peut appeler « muggins » et marquer les points lui-même. Certaines personnes appliquent la même règle si un joueur omet de réclamer une combinaison marquée pendant le jeu. Certains Américains appellent cette version du jeu le cribbage « cutthroat » (impitoyable), et jouent sans avoir à rien dire — on attend simplement que l'adversaire finisse de marquer les points qu'il a remarqués puis on marque silencieusement le reste de ses points soi-même.
 
-Note that when scoring a hand, the same card may be counted and scored as part of several different combinations. For example if your hand is 7 8 8 K and the start card is a 9 you score *Fifteen 2, fifteen 4, and a pair is 6, and a run is 9 and a run is 12* - 12 holes to peg, with each of your 8s forming part of a fifteen, a pair and a run.
+### Gagner la partie
 
-After non-dealer's hand has been shown and the score pegged, dealer's hand is shown, scored and pegged in the same way. Finally the dealer exposes the four cards of the crib and scores them with the start card. The scoring is the same as for the players' hands except that a flush in the crib only scores if all four crib cards and the start card are of the same suit. If that happens the flush scores 5.
+Dès que quelqu'un atteint ou dépasse 121, ce joueur gagne la partie. Cela peut arriver à n'importe quel stade — pendant le jeu ou l'abattage, ou même par le donneur marquant « deux pour ses talons ». Il n'est pas nécessaire d'atteindre exactement 121 — vous pouvez « marquer » en marquant 2 points de plus alors que vous étiez à 120 et gagner quand même. Tout ce qui compte, c'est que les pions de votre adversaire soient encore tous sur le plateau.
 
-**Muggins (optional rule)**. If a player, when scoring his hand or the crib, overlooks some points, then after the player has announced the total and scored it, his opponent can call "muggins", and peg the points himself. Some people apply the same rule if a player fails to claim a combination scored during the play. Some Americans call this version of the game "cutthroat" cribbage, and play that you don't have to say anything - you just wait until the opponent finishes pegging the points they have noticed and then silently peg the rest of their points yourself.
+## Jeu à quatre joueurs
 
-### Winning the game
+Toutes les caractéristiques de marquage sont identiques à la version à deux joueurs. Les partenaires sont assis l'un en face de l'autre. Un membre du partenariat est élu pour marquer et ces deux joueurs coupent pour la première boîte. Le donneur offre le jeu à l'adversaire à sa droite pour la première coupe (ou non, si on applique la règle que les cartes ne sont pas coupées). Les cartes sont distribuées dans le sens horaire une à la fois, cinq à chaque joueur. (C'est donc du cribbage à six cartes avec cinq cartes chacun — la logique du jeu est la même puisque la main et la boîte contiennent toujours le même nombre de cartes.)
 
-As soon as someone reaches or passes 121, that player wins the game. This can happen at any stage - during the play or the show, or even by dealer scoring *two for his heels*. It is not necessary to reach 121 exactly - you can *peg out* by scoring 2 more when you were on 120 and still win. All that matters is that your opponent's pegs are both still on the board.
+Chaque joueur met une carte dans la boîte du donneur. Le donneur offre alors le tas non distribué à l'adversaire à sa gauche pour couper la carte de *départ*. (« Coupez en arrière pour la boîte, en avant pour le départ. ») Les partenaires peuvent s'aider mutuellement à compter et essaieront de s'aider avec un bon défausse si possible (en mettant un 5 dans la boîte du partenaire à l'occasion, par exemple) et coopéreront pendant le jeu pour piéger leurs adversaires ou améliorer les chances de marquage de chacun. Mais ils ne peuvent pas ouvertement conseiller sur le jeu ou indiquer les cartes qu'ils détiennent. Lorsque trois joueurs sont forcés de dire « go », le quatrième joueur continue à jouer des cartes jusqu'à être incapable de jouer sans dépasser 31, puis gagne le point pour la dernière carte, ou deux points si le total est exactement 31. Le jeu continue ensuite avec le joueur suivant à gauche. Lors de l'abattage, le comptage commence à la gauche du donneur et se termine avec le donneur.
 
-## Four-handed play
+## Jeu à trois joueurs
 
-All the scoring features are identical to the two-handed version. Partners sit opposite each other. One member of the partnership is elected to peg and these two players cut for first box. Dealer offers the pack to the opponent on his right for the first cut (or not, if you pay the rule that the cards are not cut). Cards are dealt clockwise one at a time, five to each player. (So this is six card crib with five cards each - the logic of the game is the same since hand and box always contain the same number of cards.)
+Là encore, toutes les caractéristiques principales du jeu sont identiques. Le donneur distribue cinq cartes à chaque joueur et une dans la boîte. Chaque joueur défausse **une** carte, de sorte que chacun a une main de quatre cartes et qu'il y a quatre cartes dans le crib. Le joueur à la gauche du donneur coupe le jeu pour révéler la carte retournée. Ce joueur commence aussi le jeu en jouant la première carte. Lorsque deux joueurs sont forcés de dire « go », le troisième joueur continue à jouer des cartes jusqu'à être incapable de jouer sans dépasser 31, puis gagne le point pour la dernière carte, ou deux points si le total est exactement 31. Le jeu continue ensuite avec le joueur suivant à gauche. Lors de l'abattage, le comptage commence à la gauche du donneur et se termine avec le donneur. Chaque joueur agit de manière complètement indépendante, bien que les deux joueurs en retard puissent temporairement conspirer pour abattre le meneur. Cette forme du jeu nécessite vraiment un plateau spécial avec soit trois côtés, soit un autre arrangement pour accueillir trois séries de trous.
 
-Each player puts one card in the dealer's box. Dealer then offers the undealt stack to the opponent on his left to cut for *start*. ('Cut back for box, forward for start.') Partners may help each other keep score and will try to assist each other with a good discard if possible (putting a 5 in partner's box on occasion, for example) and will co-operate during play to trap their opponents or to improve each other's chances of pegging. But they may not overtly advise on play or indicate the cards they hold. When three players are forced to say "go", the fourth player continues to play cards until unable to play without exceeding 31 and then earns the point for last card, or two points if the total is exactly 31. Play then continues with the next player to the left. In the show, counting begins at the dealer's left and ends with the dealer.
+## Variantes
 
-## Three-handed play
+### Ordre de distribution
 
-Again, all the main features of play are identical. Dealer deals five cards to each player and one into the box. Each player discards **one** card, so that everyone has a four card hand and there are four cards in the crib. The player to the dealer's left cuts the deck to reveal the turn-up card. This player also begins the play, playing the first card. When two players are forced to say "go", the third player continues to play cards until unable to play without exceeding 31 and then earns the point for last card, or two points if the total is exactly 31. Play then continues with the next player to the left. In the show, counting begins at the dealer's left and ends with the dealer. Each player acts completely independently, although the two trailing players may temporarily conspire to do down the leader. This form of the game really requires a special board with either three sides or some other arrangement to accommodate three sets of holes.
+Selon les règles de l'American Cribbage Congress, dans un match consistant en une série de parties, le perdant de chaque partie donne en premier dans la partie suivante.
 
-## Variations
+### Pas de coupe
 
-### Dealing Sequence
+Dans certains cercles, le non-donneur n'a pas l'opportunité de couper les cartes avant la donne. Par exemple, David Dailey écrit :
 
-According to the American Cribbage Congress rules, in a match consisting of a series of games, the loser of each game deals first in the next game.
+Le donneur mélange le jeu (et peut le couper lui-même [bien que certains soient en désaccord]) mais ne le pose **pas** sur la table pour le couper. S'il le fait, l'adversaire peut ramasser le jeu et donner, s'attribuant le « crib » et un léger avantage.
 
-### No cutting
+Je pense que cette version sans coupe n'est jouée que dans certains cercles informels en Amérique du Nord. Les règles de l'American Cribbage Congress exigent que les cartes soient coupées, comme les règles normalement utilisées en Grande-Bretagne. Ceux qui omettent la coupe justifient parfois cela en affirmant que le Cribbage est un jeu de gentlemen dans lequel la coupe (considérée comme un dispositif pour rendre plus difficile la triche du donneur en empilant le jeu) est déplacée.
 
-In some circles, the non-dealer does not get the opportunity to cut the cards before the deal. For example, David Dailey writes:
+### Écrasage ou Mouchage
 
-Dealer shuffles the deck (and may cut it himself [though some disagree]) but does **not** place it on the table to be cut. If he does, the opponent may pick up the deck and deal, giving himself the "crib" and a slight advantage.
-I think this version without a cut is played only in some informal circles in North America. The American Cribbage Congress rules require the cards to be cut, as do the rules normally used in Britain. Those who omit the cut sometimes justify this by asserting that Cribbage is a gentleman's game in which cutting (seen as a device to make it more difficult for the dealer to cheat by stacking the deck) is out of place.
+Lorsqu'on joue à 121 points, certains jouent que si le perdant marque 60 points ou moins, il est **écrasé** et perd un double enjeu.
 
-### Lurching or Skunking
+Certains jouent que si le perdant marque 61-90 points, il est **mouché** et perd un double enjeu ; s'il marque 60 points ou moins, il est **doublement mouché** et perd un triple (ou quadruple) enjeu.
 
-When playing to 121 points, some play that if the loser scores 60 or fewer points he is **lurched** and loses a double stake.
+### Cribbage à 91 points
 
-Some play that if the loser scores 61-90 points he is **skunked** and loses a double stake; if he scores 60 or fewer he is **double skunked** and loses a triple (or quadruple) stake.
+Mike Tobias rapporte qu'à Manchester, en Angleterre, et dans les environs, il est habituel de jouer au Cribbage à 91 points plutôt qu'à 121 — c'est-à-dire un aller-retour sur un plateau standard de cribbage de 30 points.
 
-### 91-Point Cribbage
+### Restrictions sur le marquage en fin de partie
 
-Mike Tobias reports that in and around Manchester, England it is usual to play Cribbage to 91 points rather than 121 - that is up, down and up a standard 30-point long cribbage board.
+Jim Hinds rapporte les variantes suivantes. Celles-ci ne font certainement pas partie du jeu habituel ; je ne sais pas à quel point elles sont répandues :
 
-### Restrictions on pegging in the endgame
+- On ne peut pas terminer la partie sur un *go*. Donc, si vous avez 120 points dans une partie à 121, le point pour avoir joué la dernière carte ne compte pas.
 
-Jim Hinds reports the following variations. These are certainly not part of the usual game; I do not know how widespread they are:
+- On ne peut pas marquer « deux pour ses talons » s'il vous faut cinq points ou moins pour sortir.
 
-- You cannot finish the game on a *go*. So if you have 120 points in a 121 point game, the point for playing the last card does not count.
+### Deux dans le crib
 
-- You cannot score "two for his heels" if you need five or fewer points to go out.
+Cette version est rapportée par Bruce Clouette du Connecticut, États-Unis. Le donneur distribue cinq cartes à chaque joueur au lieu de six, et distribue deux cartes dans le crib. Les joueurs défaussent ensuite chacun une carte dans le crib, et le jeu se poursuit comme d'habitude avec un jeu à six cartes. Cela introduit un niveau supplémentaire d'incertitude dans le jeu.
 
-### Two into the Crib
+## Matériel de cribbage
 
-This version is reported by Bruce Clouette of Connecticut, USA. The dealer deals out five cards to each player instead of six, and deals two cards into the crib. The players then discard one card each into the crib, and play proceeds as usual with six card play. This introduces an extra level of uncertainty into the game.
+[Cribscapes](https://www.cribscapes.com) fournit des plateaux de cribbage originaux fabriqués individuellement en bois massif — un service de design personnalisé est disponible.
 
-## Cribbage Equipment
+## Autres pages sur le Cribbage
 
-Amazon.com stocks a selection of [cribbage boards](https://amzn.to/2ABHV72).
+### Pages de règles et stratégie du Cribbage
 
-[Cribscapes](https://www.cribscapes.com) supplies novelty cribbage boards individually made from solid wood - a custom design service is available.
+- L'[American Cribbage Congress](https://www.cribbage.org) publie les [Règles du Cribbage](https://www.cribbage.org/NewSite/rules/default.asp) pour ses tournois.
 
-## Other WWW pages about Cribbage
+- Le [Schellsburg Cribbage Forum](http://www.cribbageforum.com) comprend des articles sur la stratégie et un programme d'étude.
 
-### Cribbage rules and strategy pages
+- [Huddle Around Games](https://huddlearoundgames.com) propose une collection d'articles sur les règles et la stratégie du Cribbage.
 
-- The [American Cribbage Congress](https://www.cribbage.org) publishes [Rules of Cribbage](https://www.cribbage.org/NewSite/rules/default.asp) for use in its tournaments.
+- [Daily Cribbage Hand](https://dailycribbagehand.org/) publie des problèmes de défausse auxquels des contributeurs envoient des solutions et des analyses.
 
-- The [Schellsburg Cribbage Forum](http://www.cribbageforum.com) includes articles on strategy and course of study.
+- Copie d'archive des [Règles du Cribbage](https://web.archive.org/web/20130602063857/http://www.members.shaw.ca/bvwhit/crib.html) de Bill Whitnack.
 
-- [Huddle Around Games](https://huddlearoundgames.com) has a collection of articles on Cribbage rules and strategy.
+### Plus de variantes du Cribbage
 
-- [Daily Cribbage Hand](https://dailycribbagehand.org/) publishes discard problems to which contributors post solutions and analysis.
+Ma page du Cribbage à cinq cartes décrit une forme plus ancienne du jeu, encore jouée dans certaines régions de Grande-Bretagne. Voir aussi la page sur Noddy, un ancêtre plus lointain du Cribbage.
 
-- Archive copy of Bill Whitnack's [Rules of Cribbage](https://web.archive.org/web/20130602063857/http://www.members.shaw.ca/bvwhit/crib.html). 
+Une collection de variantes contribuées par les visiteurs de pagat.com se trouve sur la page des variantes du Cribbage de la section des jeux inventés du site. Celles-ci incluent un jeu de Cribbage en solitaire contribué par Natty Bumppo.
 
-### More Cribbage Variations
+Le Cribbage sur table est un type différent de jeu utilisant les combinaisons du Cribbage : les joueurs marquent pour les combinaisons formées dans les rangées et colonnes d'une disposition 5x5.
 
-My Five Card Cribbage page describes an older form of the game, still played in parts of Britain. See also the page on Noddy, an earlier ancestor of Cribbage.
+### Logiciels de Cribbage
 
-A collection of variations contributed by visitors to pagat.com can be found on the Cribbage Variations page of the Invented Games section of the site. These include a Cribbage Solitaire game contributed by Natty Bumppo.
+- La collection HOYLE Card Games pour Windows ou Mac OS X comprend un programme de Cribbage à 6 cartes, ainsi que de nombreux autres jeux de cartes populaires.
 
-Table Top Cribbage is a different type of game using Cribbage combinations: the players score for combinations formed in the rows and columns of a 5x5 layout.
+- Einar Egilsson a publié un programme gratuit de [Cribbage](https://cardgames.io/cribbage) en Java avec lequel vous pouvez jouer en ligne contre un adversaire informatique.
 
-### Cribbage software
+- Sur [Cribbage-online.net](https://cribbage-online.net/), vous pouvez jouer à un jeu de Cribbage gratuit en ligne contre l'ordinateur, et lire les règles et quelques conseils de stratégie.
 
-- The collection 
-HOYLE Card Games for Windows or Mac OS X includes a 6-card Cribbage program, along with many other popular card games.
+- Le site canadien [Cribbage.ca](https://www.cribbage.ca) propose des règles et des logiciels de Cribbage en français et en anglais.
 
-- Einar Egilsson has published a free Java [Cribbage program](https://cardgames.io/cribbage) with which you can play online against a computer opponent.
+- [Royal Cribbage](https://royal-cribbage.software.informer.com) est un programme gratuit de Cribbage.
 
-- At [Cribbage-online.net](https://cribbage-online.net/) you can play a free online Cribbage game against the computer, and read the rules and some strategy tips.
+### Sites pour jouer au Cribbage en ligne
 
-- The Canadian site [Cribbage.ca](https://www.cribbage.ca) has Cribbage rules and software in French and English.
+- [Game Colony](https://www.gamecolony.com) propose des parties de Cribbage en face à face et des tournois multi-joueurs, qui peuvent être joués gratuitement ou pour des prix en argent.
 
-- [Royal Cribbage](https://royal-cribbage.software.informer.com) is a freeware Cribbage program.
+- [Gaming Safari](https://www.gamingsafari.com) — jeu gratuit en ligne contre des adversaires humains ou informatiques.
 
-### Sites for playing Cribbage on-line
+- [Cribbage Pro](https://www.cribbagepro.net) propose un jeu de Cribbage en ligne pour une large gamme d'appareils mobiles (iPhone, iPad, Android, etc.)
 
-- [Game Colony](https://www.gamecolony.com) offers head to head Cribbage games and multi-player tournaments, which can be played free or for cash prizes.
+- Sur [eCribbage.com](http://ecribbage.com), le cribbage traditionnel à 6 cartes et plusieurs variantes peuvent être joués en ligne.
 
-- [Gaming Safari](https://www.gamingsafari.com) - free online play against human or computer opponents
-
-- [Cribbage Pro](https://www.cribbagepro.net) offers an online Cribbage game for a wide range of mobile devices (iPhone, iPad, Android, etc.)
-- At [eCribbage.com](http://ecribbage.com) traditional 6-card cribbage and a number of variants can be played online.
-
-- [Cribbage24](https://www.cribbage24.com/) online against computer opponent: free to play, hints and analysis available
+- [Cribbage24](https://www.cribbage24.com/) en ligne contre un adversaire informatique : gratuit, avec des indices et des analyses disponibles.
 
 - [Safe Harbor Games](https://www.safeharborgames.net/)
 
-- [PlayOK](https://www.playok.com/en/cribbage) (formerly known as Kurnik)
+- [PlayOK](https://www.playok.com/en/cribbage) (anciennement connu sous le nom de Kurnik)
 
 - [Tabletopia](https://tabletopia.com/games/crib)
 
-- JD Software offers a [Cribbage app](https://cardsjd.com/cribbage) for playing against live opponents or against the computer using an Android phone or iPhone or on the web.
+- JD Software propose une [application Cribbage](https://cardsjd.com/cribbage) pour jouer contre des adversaires en direct ou contre l'ordinateur en utilisant un téléphone Android ou iPhone ou sur le web.
 
 - [Mystic Island](http://www.mysticisland.net)
 
@@ -253,14 +246,12 @@ HOYLE Card Games for Windows or Mac OS X includes a 6-card Cribbage program, alo
 
 - [Rubl.com](https://www.rubl.com/)
 
-- [Case's Ladder](https://igl.net) organises online leagues and operates a tournament ranking system. 
+- [Case's Ladder](https://igl.net) organise des ligues en ligne et gère un système de classement de tournois.
 
-### Organisations, tournaments and clubs
+### Organisations, tournois et clubs
 
-- The [American Cribbage Congress](https://www.cribbage.org) home page.
+- La page d'accueil de l'[American Cribbage Congress](https://www.cribbage.org).
 
-- The [Salisbury and District Licensed Houses Cribbage League](http://www.salisburycrib.org.uk/) play the game described on this page with 4 players, but between two players they play Five Card Cribbage.
+- La [Salisbury and District Licensed Houses Cribbage League](http://www.salisburycrib.org.uk/) joue le jeu décrit sur cette page avec 4 joueurs, mais entre deux joueurs, ils jouent le Cribbage à cinq cartes.
 
-- The [Potters Bar & district Crib League](http://www.pbcrib.co.uk)
-
-Home Page > Classified Index > Adding games > Cribbage (Six Card)
+- La [Potters Bar & district Crib League](http://www.pbcrib.co.uk)

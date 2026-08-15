@@ -3,68 +3,66 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A children's card game from Jordan in which players must follow number or suit and Aces catch Kings.
+**But :** Un jeu de cartes pour enfants originaire de Jordanie, dans lequel les joueurs doivent suivre le numéro ou la couleur, et les As capturent les Rois.
 
 ---
 
 ## Introduction
 
-This children's game played in Jordan and Palestine is related to Crazy Eights, but with no wild card that allows the player to specify suit to be played next and none of the other usual special cards. Instead the Aces have the special effect that when one is played, the player is given a King by another player - presumably the game is named after this King capture possibility. Also there are red and black Jokers that are partly wild in that they match any card of their own colour.
+Ce jeu pour enfants joué en Jordanie et en Palestine est apparenté au huit américain, mais sans carte wild permettant au joueur de spécifier la couleur à jouer ensuite, et sans les autres cartes spéciales habituelles. À la place, les As ont l'effet spécial suivant : lorsqu'un As est joué, un autre joueur donne un Roi au joueur de l'As — probablement le jeu tient son nom de cette possibilité de capture de Roi. Il y a aussi des jokers rouge et noir qui sont partiellement wild en ce qu'ils correspondent à n'importe quelle carte de leur propre couleur.
 
-*This page is based on information from Sultan Ratrout.*
+*Cette page est basée sur des informations de Sultan Ratrout.*
 
-## Players and Cards
+## Joueurs et cartes
 
-There can be 2, 3 or 4 players. The game is played with a standard international 52-card pack with 2 Jokers, one red and one black - 54 cards in all. 
+Il peut y avoir 2, 3 ou 4 joueurs. Le jeu se joue avec un jeu international standard de 52 cartes avec 2 jokers, un rouge et un noir — 54 cartes au total.
 
-As in many Middle Eastern games the playing area is known as the 'floor', and the game often is played on the floor, on a rectangular carpet.
+Comme dans beaucoup de jeux du Moyen-Orient, l'aire de jeu est appelée le « sol », et le jeu se joue souvent sur le sol, sur un tapis rectangulaire.
 
-The direction of play is anticlockwise.
+Le sens du jeu est antihoraire.
 
-## Deal
+## La donne
 
-The first dealer can be chosen by any convenient method. If the dealer wins the game, the turn to deal passes to the right; if the dealer does not win the same player deals again.
+Le premier donneur peut être choisi par n'importe quelle méthode pratique. Si le donneur gagne la partie, le tour de donner passe à droite ; si le donneur ne gagne pas, le même joueur donne à nouveau.
 
-Ten cards are dealt singly to each player. The remaining cards constitute the stockpile from which cards are drawn during the game. They are placed face down on the floor, not usually in a stack but fanned so that any card can be drawn, not necessarily the top one.
+Dix cartes sont distribuées une à une à chaque joueur. Les cartes restantes constituent la pioche à laquelle on pioche pendant le jeu. Elles sont placées faces cachées sur le sol, généralement pas en tas mais éventailées pour qu'on puisse piocher n'importe quelle carte, pas nécessairement celle du dessus.
 
-## Play
+## Le jeu
 
-The dealer begins by playing any card face up on the floor to begin the play pile. The player continues in anticlockwise order around the table until a player wins by running out of cards.
+Le donneur commence en jouant n'importe quelle carte face visible sur le sol pour commencer le tas de jeu. Le jeu se poursuit dans l'ordre antihoraire autour de la table jusqu'à ce qu'un joueur gagne en n'ayant plus de cartes.
 
-At their turn, each player must if possible play one card that is the same rank or the same suit as the card, placing it face up on top of the play pile. For example on the six of clubs the next player must if possible play either a club or a six. 
+À son tour, chaque joueur doit si possible jouer une carte de même hauteur ou de même couleur que la carte du tas, en la posant face visible sur le tas de jeu. Par exemple sur le six de trèfle, le joueur suivant doit si possible jouer un trèfle ou un six.
 
-If a player has no card that can be played on their turn, they must draw a card from the stockpile. If this card matches the top card of the play pile in rank or suit they must play it; if not they must add it to their hand. 
+Si un joueur n'a aucune carte jouable à son tour, il doit piocher une carte de la pioche. Si cette carte correspond à la carte du dessus du tas de jeu en hauteur ou en couleur, il doit la jouer ; sinon, il doit l'ajouter à sa main.
 
-After the player has played a card or has drawn a card that they were unable to play, the turn passes to the next player to the right.
+Après que le joueur a joué une carte ou a pioché une carte qu'il ne pouvait pas jouer, le tour passe au joueur suivant à droite.
 
 ### Jokers
 
-The red Joker can be played on any red card (heart or diamond) and any red card can be played on it. Likewise the black Joker can be played on any spade or club and any spade or club can be played on it.
+Le joker rouge peut être joué sur n'importe quelle carte rouge (cœur ou carreau) et n'importe quelle carte rouge peut être jouée dessus. De même, le joker noir peut être joué sur n'importe quel pique ou trèfle, et tout pique ou trèfle peut être joué dessus.
 
-### Aces and Kings
+### As et Rois
 
-Whenever an Ace is played, the player's right hand opponent must give a King from their hand to the player of the Ace. If the right hand opponent has more than one King they give one King of their choice. If the right hand opponent has no King, then the following player in anticlockwise order gives a King, if this player also has no King then the following player must give a King to the player of the Ace, or if this player also has no King the player after that must give one. The player of the Ace adds the King to their hand and then the turn to play passes to the player to the right of the Ace player.
+Chaque fois qu'un As est joué, l'adversaire à droite du joueur doit donner un Roi de sa main au joueur de l'As. Si l'adversaire à droite a plus d'un Roi, il donne le Roi de son choix. Si l'adversaire à droite n'a pas de Roi, alors le joueur suivant dans l'ordre antihoraire donne un Roi ; si ce joueur n'a pas non plus de Roi, le joueur suivant doit donner un Roi au joueur de l'As, ou si ce joueur n'a pas non plus de Roi, le joueur après celui-ci doit en donner un. Le joueur de l'As ajoute le Roi à sa main, puis le tour de jouer passe au joueur à droite du joueur de l'As.
 
-If an Ace is played and none of the opponents of the Ace player has a King then the Ace player does not receive any card and the turn to play passes to the right as usual.
+Si un As est joué et qu'aucun des adversaires du joueur de l'As n'a de Roi, le joueur de l'As ne reçoit aucune carte et le tour de jouer passe à droite comme d'habitude.
 
-### Note on Play
+### Remarque sur le jeu
 
-Although it is illegal to draw a card when you have a card that you could have played, or to keep a drawn card in your hand when it could have been played, there is no reliable way to check whether this rule has been broken. The game relies on the assumption that the players will be honest about this and follow the rules. 
+Bien qu'il soit interdit de piocher une carte quand on a une carte jouable, ou de conserver une carte piochée dans sa main alors qu'elle aurait pu être jouée, il n'y a pas de moyen fiable de vérifier si cette règle a été enfreinte. Le jeu repose sur la présomption que les joueurs seront honnêtes à ce sujet et suivront les règles.
 
-## Endgame
+## Fin de partie
 
-A player who has only one card remaining in their hand **must** immediately alert the other players by saying "last card". 
+Un joueur qui n'a plus qu'une carte dans sa main **doit** immédiatement avertir les autres joueurs en disant « dernière carte ».
 
-The play ends when a player wins by playing the last card of their hand to the play pile. There are a few special cases involving Aces and Kings.
+Le jeu se termine lorsqu'un joueur gagne en jouant la dernière carte de sa main sur le tas de jeu. Il y a quelques cas particuliers impliquant des As et des Rois.
 
-- If a player's last card is an Ace, then playing it does not end the play if another player is able to give them the King. In this case they must accept the King, say "last card" again and play continues.
+- Si la dernière carte d'un joueur est un As, la jouer ne termine pas le jeu si un autre joueur est capable de lui donner un Roi. Dans ce cas, il doit accepter le Roi, dire « dernière carte » à nouveau et le jeu continue.
 
-- If a player's last card is a King and they give it away to the player of an Ace, this does not end the play, since their last card was not played to the pile. When it comes to the turn of this player, who now has no card, they must draw a card from the stockpile. If it matches the top card of the play pile they play it and win; if not they must keep it and play continues.
+- Si la dernière carte d'un joueur est un Roi et qu'il le donne au joueur d'un As, cela ne termine pas le jeu, puisque sa dernière carte n'a pas été jouée sur le tas. Lorsque arrive le tour de ce joueur, qui n'a maintenant plus de carte, il doit piocher une carte de la pioche. Si elle correspond à la carte du dessus du tas de jeu, il la joue et gagne ; sinon, il doit la garder et le jeu continue.
 
-- If a player's last card is a King, they give it to the player of an Ace and the stockpile is empty, then when it comes to this player's next turn to play, since they are unable to draw or play the play ends and the result is a draw (no winner).
+- Si la dernière carte d'un joueur est un Roi, qu'il la donne au joueur d'un As et que la pioche est vide, alors lorsque arrive le prochain tour de jeu de ce joueur, comme il est incapable de piocher ou de jouer, le jeu se termine et le résultat est un match nul (pas de gagnant).
 
-Another case in which a draw occurs is if a player plays their last card to the play pile but did not warn the other players by saying "last card" as soon as their hand was reduced to one card. In this case the play ends with no winner.
+Un autre cas de match nul se produit si un joueur joue sa dernière carte sur le tas de jeu mais n'a pas averti les autres joueurs en disant « dernière carte » dès que sa main a été réduite à une carte. Dans ce cas, le jeu se termine sans gagnant.
 
-There is no scoring. Players could keep a tally of how many games each has won, but in practice they do not normally do this.
-
-Home Page > Classified Index > Matching games > Eights Group > Checkmate
+Il n'y a pas de score. Les joueurs pourraient tenir un décompte du nombre de parties que chacun a gagnées, mais en pratique, ils ne le font généralement pas.

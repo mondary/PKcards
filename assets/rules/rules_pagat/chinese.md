@@ -2,183 +2,158 @@
 
 **Difficulté :** —
 **Type :** Patience, Solitaire
-**But :** An English single pack comptitive patience game for 2-4 players.
+**But :** Un jeu de patience compétitif anglais à un seul jeu pour 2 à 4 joueurs.
 
 ---
 
 ## Introduction
 
-This competitive patience game might be thought of as a single deck version of Russian Bank. As in that game the foundation piles and tableau are shared between the players, but in this game there are only four foundation piles and four columns in the tableau. Despite its name this game has nothing to do with China - as in many games, the inclusion of 'Chinese' in the name is probably just intended to suggest that it is somehow exotic.
+Ce jeu de patience compétitif pourrait être considéré comme une version à un seul jeu de la Banque russe. Comme dans ce jeu, les tas de fondation et le tableau sont partagés entre les joueurs, mais dans ce jeu, il n'y a que quatre tas de fondation et quatre colonnes dans le tableau. Malgré son nom, ce jeu n'a rien à voir avec la Chine — comme dans beaucoup de jeux, l'inclusion de « Chinese » dans le nom est probablement destinée à suggérer qu'il est de quelque façon exotique.
 
-I have received several descriptions of Chinese Patience, all from England. As with most traditional card games, there are variations in the rules from place to place, and the options I have heard about are covered in the variations section. 
+J'ai reçu plusieurs descriptions du Chinese Patience, toutes d'Angleterre. Comme pour la plupart des jeux de cartes traditionnels, il y a des variations dans les règles d'un endroit à l'autre, et les options dont j'ai entendu parler sont couvertes dans la section des variantes.
 
-*With thanks to Keven Cook, Mike Williams, Colin Cook, Andrew Manston, Trevor Mitchell, Miriam Moules and Steph Lynch for sending descriptions of Chinese Patience. Andrew Manston's version was also published in [The Playing-Card](https://i-p-c-s.org/journal/contents/41/2) (Vol 41, No 2, Dec 2012).* 
+*Avec remerciements à Keven Cook, Mike Williams, Colin Cook, Andrew Manston, Trevor Mitchell, Miriam Moules et Steph Lynch pour avoir envoyé des descriptions du Chinese Patience. La version d'Andrew Manston a également été publiée dans [The Playing-Card](https://i-p-c-s.org/journal/contents/41/2) (vol. 41, n° 2, déc. 2012).*
 
-## Players, Equipment and Objective
+## Joueurs, matériel et objectif
 
-It is possible for 2, 3 or 4 people to play. It is said to be best for 2 or 3, and some correspondents know it exclusively as a 2-player game. When there are more than two players the direction of play is clockwise.
+Il est possible que 2, 3 ou 4 personnes jouent. On dit que c'est meilleur à 2 ou 3, et certains correspondants le connaissent exclusivement comme un jeu à 2 joueurs. Lorsqu'il y a plus de deux joueurs, le sens du jeu est horaire.
 
-A standard English deck of 52 cards without Jokers is used. The ranking order from highest to lowest is K-Q-J-10-9-8-7-6-5-4-3-2-A.
+Un jeu anglais standard de 52 cartes sans jokers est utilisé. L'ordre de rang du plus haut au plus bas est R-D-V-10-9-8-7-6-5-4-3-2-A.
 
-The object of the game is to be the first to dispose of all your cards, by placing them on the foundation piles, the tableau or the other players' waste piles.
+Le but du jeu est d'être le premier à se débarrasser de toutes ses cartes, en les plaçant sur les tas de fondation, le tableau ou les tas de défausse des autres joueurs.
 
-## Deal and Layout
+## Donne et mise en place
 
-![Chinese Patience: initial layout](../images/patience/chinese1.png)
-The dealer is chosen by any convenient random method, for example by each drawing a card from the pack and the lowest deals. The cards are shuffled thoroughly and then four cards are dealt to the centre of the table in a row to start the tableau and the remaining cards are dealt out equally to the players to form their face down stock piles. 
+![Chinese Patience : mise en place initiale](../images/patience/chinese1.png)
+Le donneur est choisi par n'importe quelle méthode aléatoire pratique, par exemple en tirant chacun une carte du jeu et le plus bas donne. Les cartes sont soigneusement mélangées puis quatre cartes sont distribuées au centre de la table en ligne pour commencer le tableau et les cartes restantes sont distribuées équitablement aux joueurs pour former leurs tas de pioche faces cachées.
 
-The recommended method is to deal the cards clockwise one at a time, placing the four centre cards at any point during the deal that the dealer wishes with the proviso that they are not dealt consecutively nor can they be the first or last cards of the pack. The four tableau cards are dealt face down, and turned face up by the first player before beginning play.
+La méthode recommandée est de distribuer les cartes dans le sens horaire une à la fois, en plaçant les quatre cartes centrales à n'importe quel moment pendant la donne que le donneur souhaite, à condition qu'elles ne soient pas distribuées consécutivement ni qu'elles ne soient les premières ou dernières cartes du jeu. Les quatre cartes du tableau sont distribuées faces cachées et retournées face visible par le premier joueur avant de commencer à jouer.
 
-However it is also quite common to deal the four tableau cards face up, and to deal them first, followed by the players' stock piles.
+Cependant, il est aussi assez courant de distribuer les quatre cartes du tableau face visible, et de les distribuer en premier, suivies des tas de pioche des joueurs.
 
-The initial layout is shown in the diagram. Each player has space for a waste pile next to their stock pile and above the tableau are spaces for the four foundation piles which will be built upwards in suit starting from the aces.
+La mise en place initiale est montrée dans le diagramme. Chaque joueur a de la place pour un tas de défausse à côté de son tas de pioche et au-dessus du tableau se trouvent les espaces pour les quatre tas de fondation qui seront construits en montant par couleur en commençant par les as.
 
-During the game the tableau will be built downwards in columns of overlapping cards of alternating colours (red and black) in a similar way to Klondike patience. It is also possible to join two columns by moving an entire column onto another column if it fits. However there are two differences from Klondike patience.
+Pendant le jeu, le tableau sera construit en descendant dans des colonnes de cartes chevauchées de couleurs alternées (rouge et noir) de manière similaire au Klondike. Il est aussi possible de joindre deux colonnes en déplaçant une colonne entière sur une autre colonne si elle s'y place. Cependant, il y a deux différences avec le Klondike.
 
-- When a column becomes empty it can be restarted with any card: the top card of the column does not have to be a king.
+- Lorsqu'une colonne devient vide, elle peut être recommencée avec n'importe quelle carte : la carte du dessus de la colonne ne doit pas être un roi.
 
-- When manipulating the tableau a column can only be moved as a whole. A player cannot break a column to move part of it onto another column of the tableau or to an empty tableau space.. 
+- Lors de la manipulation du tableau, une colonne ne peut être déplacée que dans son ensemble. Un joueur ne peut pas scinder une colonne pour en déplacer une partie sur une autre colonne du tableau ou vers un espace vide du tableau.
 
-## Play
+## Le jeu
 
-The player to dealer's left plays first and then players take turns to play in clockwise order. (If there are two players the non-dealer starts and the turn to play alternates between them.) The first player begins by turning the four tableau cards face up (if they were dealt face down).
+Le joueur à la gauche du donneur joue en premier, puis les joueurs jouent à tour de rôle dans le sens horaire. Le premier joueur commence par retourner les quatre cartes du tableau face visible (si elles ont été distribuées faces cachées).
 
-In a turn, a player can make as many as they can and wish to of the following types of move. 
+À son tour, un joueur peut effectuer autant qu'il le peut et le souhaite des types de déplacement suivants.
 
-- **Turn the top card of their stock pile face up.** If they do this, the stock card turned up must **immediately** be used in one of the following four ways.
+- **Retourner la carte du dessus de son tas de pioche face visible.** S'il le fait, la carte retournée doit **immédiatement** être utilisée de l'une des quatre manières suivantes.
 
-- If possible, it must be placed on a foundation pile where it fits (an ace in an empty foundation pile or the next higher card of the same suit on a foundation pile that has been started).
+- Si possible, elle doit être placée sur un tas de fondation où elle se place (un as dans un tas de fondation vide ou la carte immédiatement supérieure de la même couleur sur un tas de fondation commencé).
 
-- It can be placed on top of an opponent's waste pile if it is the same suit as and one rank higher or lower than the card currently on top of that opponent's waste pile. 
+- Elle peut être placée sur le tas de défausse d'un adversaire si elle est de la même couleur et d'un rang immédiatement supérieur ou inférieur à la carte actuellement au-dessus de ce tas de défausse.
 
-- It can be placed in any empty column of the tableau, or at the bottom of any tableau column where it fits, being the opposite colour to and one rank lower than the card on which it is placed.
+- Elle peut être placée dans n'importe quelle colonne vide du tableau, ou au bas de n'importe quelle colonne du tableau où elle se place, étant de la couleur opposée et d'un rang immédiatement inférieur à la carte sur laquelle elle est placée.
 
-- It can be placed on the player's own waste pile, irrespective rank and suit. **This ends the player's turn**, so a player will not normally do this if the stock card can be placed anywhere else.
+- Elle peut être placée sur le propre tas de défausse du joueur, quel que soit le rang et la couleur. **Cela termine le tour du joueur**, un joueur ne le fera donc normalement pas si la carte de la pioche peut être placée ailleurs.
 
-- **Take the top card of their own waste pile** and place it face up on either 
+- **Prendre la carte du dessus de son propre tas de défausse** et la placer face visible soit sur
 
-- a foundation pile where it fits, or
+- un tas de fondation où elle se place, ou
 
-- an opponent's waste pile if it fits, being the same suit and adjacent in rank to the top card of that waste pile, or
+- le tas de défausse d'un adversaire si elle s'y place, étant de la même couleur et de rang adjacent à la carte du dessus de ce tas de défausse, ou
 
-- any empty column of the tableau or the bottom of a tableau column where it fits.
+- n'importe quelle colonne vide du tableau ou le bas d'une colonne du tableau où elle se place.
 
-- **Take the bottom card of any tableau column** and place it face up on either
+- **Prendre la carte du bas de n'importe quelle colonne du tableau** et la placer face visible soit sur
 
-- a foundation pile where it fits, or
+- un tas de fondation où elle se place, ou
 
-- an opponent's waste pile if it fits, being the same suit and adjacent in rank to the top card of that waste pile.
+- le tas de défausse d'un adversaire si elle s'y place, étant de la même couleur et de rang adjacent à la carte du dessus de ce tas de défausse.
 
-- **Join two tableau columns** if they fit together. The card at the top of the column being moved has to be one lower and the opposite colour to card at the bottom of the column to which it is joined. This will leave one empty column in the tableau. 
+- **Joindre deux colonnes du tableau** si elles s'emboîtent. La carte au-dessus de la colonne déplacée doit être d'un rang inférieur et de la couleur opposée à la carte au bas de la colonne à laquelle elle est jointe. Cela laisse une colonne vide dans le tableau.
 
-There are the following restrictions (but some of these vary from place to place - see the variations section for other options for the first two items below).
+Il y a les restrictions suivantes (mais certaines de celles-ci varient d'un endroit à l'autre — voir la section des variantes pour d'autres options concernant les deux premiers points ci-dessous).
 
-- Although a player can make a sequence of moves, they can only be made one at a time - having begun a move you are not allowed to interrupt it to make another move. In particular, **if you look at the top card of your stock you must play this card somewhere before doing anything else** - you cannot for example look at your next stock card and then make other moves to create a place to put it. 
+- Bien qu'un joueur puisse faire une séquence de déplacements, ils ne peuvent être faits qu'un à la fois — une fois un déplacement commencé, il n'est pas autorisé à l'interrompre pour en faire un autre. En particulier, **si vous regardez la carte du dessus de votre pioche, vous devez jouer cette carte quelque part avant de faire autre chose** — vous ne pouvez pas, par exemple, regarder votre prochaine carte de pioche puis faire d'autres déplacements pour créer un endroit où la placer.
 
-- When a stock card is turned face up **it must be moved to a foundation pile if possible**. 
+- Lorsqu'une carte de pioche est retournée face visible, **elle doit être déplacée vers un tas de fondation si possible**.
 
-- When moving cards from one tableau column to another, it is only possible to move an entire column. A player cannot move just part of a column or a single card from a column the has move that one column to another column of the tableau. It is however possible to move the bottom card of a column to a foundation or an opponent's waste pile (move type 3).
+- Lors du déplacement de cartes d'une colonne du tableau à une autre, il n'est possible de déplacer qu'une colonne entière. Un joueur ne peut pas déplacer seulement une partie d'une colonne ou une seule carte d'une colonne. Il est cependant possible de déplacer la carte du bas d'une colonne vers une fondation ou le tas de défausse d'un adversaire (type de déplacement 3).
 
-- You can never move any card **from** a foundation or **from** an opponent's waste pile to anywhere else.
+- Vous ne pouvez jamais déplacer une carte **d'un** tas de fondation ou **d'un** tas de défausse d'un adversaire vers n'importe quel autre endroit.
 
-- You cannot move a card from the tableau to **your own** waste pile.
+- Vous ne pouvez pas déplacer une carte du tableau vers **votre propre** tas de défausse.
 
-- Players are not allowed to look through any stock or waste pile - neither another player's nor their own - to check which or how many cards are in it. Only the top card of each waste pile is visible, and no stock pile card can be seen until the owner of the pile chooses to pick it up the top card and use it.
+- Les joueurs ne sont pas autorisés à regarder dans un tas de pioche ou de défausse — ni celui d'un autre joueur ni le leur — pour vérifier quelles cartes ou combien de cartes s'y trouvent. Seule la carte du dessus de chaque tas de défausse est visible, et aucune carte de pioche ne peut être vue avant que le propriétaire du tas ne choisisse de la ramasser.
 
-If a player has no card in their stock pile when they wish to draw from the stock, they turn over their whole waste pile (without disturbing the order of the cards) and use it as a new stock pile. A player with an empty stock pile should leave it empty until they they are ready to draw from the stock - until that time their waste pile remains in place where other players can add to it and the owner at their turn can move cards from it.
+Si un joueur n'a aucune carte dans son tas de pioche lorsqu'il souhaite piocher, il retourne son tas de défausse (sans perturber l'ordre des cartes) et l'utilise comme nouveau tas de pioche. Un joueur avec un tas de pioche vide doit le laisser vide jusqu'à ce qu'il soit prêt à piocher — jusqu'à ce moment, son tas de défausse reste en place où les autres joueurs peuvent y ajouter des cartes et le propriétaire peut à son tour en déplacer des cartes.
 
-Normally the first player will begin the game by moving any aces dealt to the tableau to begin foundation piles, and by making any possible moves within the tableau - for example in the initial layout illustrated above, the first player would begin by moving the ![club](../images/internat/club.gif)8 onto the ![heart](../images/internat/heart.gif)9 (move type 4). Next the player will use cards from their stock to fill any empty columns thereby created in the tableau (move type 1c) or add them to the foundations if they fit (1a), remembering always to make any possible type 4 tableau moves or type 3a moves from the tableau to a foundation pile before looking at their next stock card. Eventually the player will find a stock card which fits neither on a foundation nor in the tableau (which has no empty column) and will have to place this card on their waste pile, ending their turn. Then it is the second player's move and they have the additional options of moves of types 3b and 1b to the first player's waste pile.
+Normalement, le premier joueur commencera la partie en déplaçant tous les as distribués au tableau pour commencer les tas de fondation, et en faisant tous les déplacements possibles dans le tableau — par exemple dans la mise en place initiale illustrée ci-dessus, le premier joueur commencerait par déplacer le ![trèfle](../images/internat/club.gif)8 sur le ![cœur](../images/internat/heart.gif)9 (type de déplacement 4).
 
-During the game, a player will start their turn by looking for opportunities to dispose of cards from their own waste pile (type 2 moves) as well as any available type 3 or 4 moves. Only after these possibilities are exhausted will they look at the top card of their stock pile and hope to find a good place for it.
+**Exemple de jeu.** Le diagramme montre la situation en cours de partie. C'est le tour du joueur A.
 
-**Example of play.** The diagram shows the situation during a game in progress. It is player A's turn. 
+![exemple de jeu Chinese Patience](../images/patience/chinese2.png)
+Le joueur A pourrait penser à déplacer le ![pique](../images/internat/spade.gif)6-![carreau](../images/internat/diamond.gif)5 de la deuxième colonne du tableau sur le ![carreau](../images/internat/diamond.gif)7 dans la troisième colonne afin d'ajouter le ![cœur](../images/internat/heart.gif)7 à son tas de fondation, mais ce serait illégal (restriction III).
 
-![chines poker example of play](../images/patience/chinese2.png)
-Possibly player A would think of moving the ![spade](../images/internat/spade.gif)6-![diamond](../images/internat/diamond.gif)5 from the second tableau column onto the ![diamond](../images/internat/diamond.gif)7 in the third column so as to add the ![heart](../images/internat/heart.gif)7 to its foundation pile, but this would be illegal (restriction III).
+Au lieu de cela, le joueur A déplace le ![trèfle](../images/internat/club.gif)7 du tas de défausse de A sur le ![cœur](../images/internat/heart.gif)8 dans le tableau. Cela révèle le ![trèfle](../images/internat/club.gif)6 dans le tas de défausse que le joueur A place sur le ![carreau](../images/internat/diamond.gif)7 dans le tableau. La carte suivante dans le tas de défausse de A est le ![trèfle](../images/internat/club.gif)5 qui ne peut pas être déplacé.
 
-Instead, player A moves the ![club](../images/internat/club.gif)7 from A's waste pile onto the ![heart](../images/internat/heart.gif)8 in the tableau. This reveals the ![club](../images/internat/club.gif)6 in the waste pile which player A places on the ![diamond](../images/internat/diamond.gif)7 in the tableau. The next card in A's waste pile is the ![club](../images/internat/club.gif)5 which cannot be moved.
+Aucun autre déplacement de type 2, 3 ou 4 n'est possible, donc A doit retourner une carte de pioche, qui s'avère heureusement être le ![carreau](../images/internat/diamond.gif)4. A place celui-ci sur le ![carreau](../images/internat/diamond.gif)3 dans le tas de défausse de B et peut maintenant aussi ajouter le ![carreau](../images/internat/diamond.gif)5 du tableau à ce tas.
 
-No further moves of type 2, 3 or 4 are possible, so A must turn up a stock card, which luckily turns out to be the ![diamond](../images/internat/diamond.gif)4. A places this on the ![diamond](../images/internat/diamond.gif)3 in B's waste pile and can now also add the ![diamond](../images/internat/diamond.gif)5 from the tableau to that pile. 
+Cela libère le ![pique](../images/internat/spade.gif)6 puis le ![cœur](../images/internat/heart.gif)7 que A ajoute à leurs tas de fondation respectifs.
 
-This frees the ![spade](../images/internat/spade.gif)6 and then the ![heart](../images/internat/heart.gif)7 which A adds to their respective foundation piles. Now it is possible to make a type 4 tableau move, moving the third column (![diamond](../images/internat/diamond.gif)7-![club](../images/internat/club.gif)6) onto the ![club](../images/internat/club.gif)8 in the second column.
+## Fin de partie
 
-This leaves an empty column in the tableau, but A's next stock card is the ![spade](../images/internat/spade.gif)7 which A adds to the spade foundation pile, followed by the ![diamond](../images/internat/diamond.gif)2, which A adds to the diamond foundation pile. 
+Le but est de se débarrasser de toutes les cartes de son tas de pioche et de son tas de défausse. Lorsque le tas de pioche et le tas de défausse d'un joueur sont tous deux vides, le jeu se termine et ce joueur est le gagnant.
 
-A's next stock card is the ![diamond](../images/internat/diamond.gif)10 which A places in the empty tableau column and moves the ![club](../images/internat/club.gif)9-![heart](../images/internat/heart.gif)8-![club](../images/internat/club.gif)7 onto it, creating a new space. A's next stock card, the ![diamond](../images/internat/diamond.gif)8, is placed in this space, and the following stock card, the ![spade](../images/internat/spade.gif)10 has nowhere to go, so is added to A's waste pile.
+Il est possible de jouer pour des mises, auquel cas le gagnant reçoit une unité de chaque autre joueur pour chaque carte qu'ils ont encore dans leur tas de pioche et de défausse.
 
-It is now player B's turn, and unfortunately the ![diamond](../images/internat/diamond.gif)3 that was previously on top of B's waste pile is now covered by the ![diamond](../images/internat/diamond.gif)4 and ![diamond](../images/internat/diamond.gif)5. The ![diamond](../images/internat/diamond.gif)5 can be moved onto the ![club](../images/internat/club.gif)6 in the tableau, but unless B finds some way to dispose of the 4, the diamond foundation will not be built any further until B's waste pile is turned over and reused as stock. Instead, B might prefer to keep the ![diamond](../images/internat/diamond.gif)5 where it is and begin by loading the ![club](../images/internat/club.gif)6 and then the ![club](../images/internat/club.gif)7 from the tableau back onto A's waste pile.
+## Variantes
 
-## End of Game
+### Carte égale autorisée sur le tas de défausse
 
-The aim is to get rid of all the cards from your stock pile and waste pile. When a player's stock and waste pile are both empty, the game ends and that player is the winner.
+Une variante populaire est d'autoriser un joueur à charger sur le tas de défausse d'un adversaire non seulement la carte immédiatement supérieure ou inférieure de la même couleur, mais aussi une carte de même rang mais d'une couleur différente de la carte actuelle du dessus. Par exemple, si le tas de votre adversaire est actuellement couronné par le ![cœur](../images/internat/heart.gif)7, vous pouvez ajouter le ![trèfle](../images/internat/club.gif)7, ![carreau](../images/internat/diamond.gif)7, ![pique](../images/internat/spade.gif)7, ![cœur](../images/internat/heart.gif)6 ou ![cœur](../images/internat/heart.gif)8 au-dessus.
 
-It is possible to play for stakes, in which case the winner is paid one unit by each of the other players for each card they have remaining in their stock and waste piles. 
+### Priorités, « Knock » et pénalités
 
-## Variations
+Certaines versions n'insistent pas pour qu'une carte de la pioche soit toujours placée sur une fondation si possible. Dans les versions décrites par Colin Cook et Mike Williams, un joueur est toujours libre de placer une carte de sa pioche dans le tableau ou sur le tas de défausse d'un adversaire si elle s'y place, même si elle aurait pu être jouée sur un tas de fondation.
 
-### Equal card allowed on waste pile
+D'autre part, certaines versions ont des règles de priorité plus strictes. Par exemple, dans la version de Keven Cook, **n'importe quelle carte unique en cours de déplacement** doit être placée dans un tas de fondation si elle s'y place, plutôt que d'aller vers toute autre destination.
 
-A popular variant is to allow a player to load onto an opponent's waste pile not only the next higher or lower card of the same suit, but alternatively a card that is equal in rank but a different suit to the current top card. For example if your opponent's pile is currently topped by the ![heart](../images/internat/heart.gif)7 you can add the ![club](../images/internat/club.gif)7, ![diamond](../images/internat/diamond.gif)7, ![spade](../images/internat/spade.gif)7, ![heart](../images/internat/heart.gif)6 or ![heart](../images/internat/heart.gif)8 to the top of it. The versions described by Colin Cook, Miriam Moules and Keven Cook all allow this possibility.
+La version décrite par Miriam Moules a l'ensemble de priorités plus élaboré suivant :
 
-In this version much longer sequences of cards to be moved onto an opponent's web pile, going up and down in rank. For example onto an opponent's ![club](../images/internat/club.gif)10 you could load a sequence of cards such as ![club](../images/internat/club.gif)9-![diamond](../images/internat/diamond.gif)9-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)K-![heart](../images/internat/heart.gif)K-![heart](../images/internat/heart.gif)Q-![club](../images/internat/club.gif)Q, each successive card obeying the rules for placement on the waste pile. During the game such sequences may be moved back and forth several times between players as the opportunity arises.
+- Une carte du propre tas de défausse du joueur ou du bas d'une colonne du tableau qui se place sur un tas de fondation doit y être déplacée avant tout autre déplacement.
 
-Those that favour this rule say that it makes the game more exciting, especially if there are only two players, when there is only one opponent's waste pile and therefore opportunities to move cards to an opponent's waste pile are more limited than with 3 or 4 players.
+- Si aucun déplacement vers les fondations n'est possible, un joueur doit déplacer une carte de son propre tas de défausse ou du bas d'une colonne du tableau vers le tas de défausse d'un adversaire si possible.
 
-In this variant having a photographic memory for other people's waste piles is clearly very useful - a short term sacrifice can sometimes prevent 
-a lot of cards from coming your way. 
+- Si aucun déplacement vers les fondations ou vers le tas de défausse d'un adversaire n'est possible, le joueur doit déplacer une carte de son tas de défausse pour remplir une colonne vide du tableau ou vers le bas d'une colonne du tableau où elle se place, ou joindre deux colonnes du tableau si l'un de ces déplacements est possible.
 
-### Priorities, Knocking and Penalties
+- Ce n'est que lorsqu'aucun déplacement des types 1, 2 et 3 ci-dessus n'est possible qu'un joueur est autorisé à retourner la carte du dessus de sa pioche face visible. Cette carte doit être jouée immédiatement selon les mêmes priorités : sur un tas de fondation si possible, sinon sur le tas de défausse d'un adversaire si possible, sinon dans un espace vide du tableau ou au bas d'une colonne du tableau si possible.
 
-Some versions do not insist that a card from stock must always be placed on a foundation if possible. In the versions described by Colin Cook and Mike Williams, a player is always free to place a card from their stock in the tableau or on an opponent's waste pile if it fits there, even if it could have been played to a foundation pile.
+Si un joueur enfreint l'une de ces règles de priorité — effectuant un déplacement alors qu'un déplacement de priorité supérieure était disponible — n'importe quel adversaire peut appeler « stop » ou frapper. Cela termine le tour du joueur qui a enfreint les règles, mais le déplacement qu'il a effectué n'est pas annulé. La carte déplacée illégalement reste où elle a été placée et le joueur qui a effectué le déplacement illégal reçoit une carte de pénalité de chaque adversaire.
 
-On the other hand, some versions have stricter priority rules. For example in Keven Cook's version **any single card that is being moved** must be placed in a foundation pile if it fits, rather than going to any other destination. This is in contrast to the more usual rule where this restriction only applies to cards moved from the player's stock pile.
+Miriam Moules commente qu'il peut parfois valoir la peine d'enfreindre sciemment une règle de priorité, par exemple en ajoutant une carte jouable à son tas de défausse, et d'accepter les cartes de pénalité qui en résultent pour éviter le plus grand désavantage de recevoir tout le tas de défausse d'un autre joueur qui aurait été chargé sur le sien si les priorités avaient été respectées. C'est une tactique acceptée.
 
-The version described by Miriam Moules has the following more elaborate set of priorities.
+### Carte de pioche toujours disponible
 
-- A card from the player's own waste pile or from the bottom of a tableau column that fits on a foundation pile must be moved there before any other moves are made.
+Mike Williams décrit une version du jeu dans laquelle chaque joueur retourne sa prochaine carte de pioche au début de son tour. Le joueur peut alors faire des déplacements légaux dans n'importe quel ordre, en déplaçant des cartes de son tas de défausse et du tableau avant d'utiliser sa carte de pioche. Dès qu'une carte de pioche est jouée, la suivante est retournée et devient disponible.
 
-- If no moves to foundations are available, a player must move a card from their own waste pile or from the bottom of a tableau column to an opponent's waste pile if possible.
+### Jouer sur son propre tas de défausse
 
-- If no moves to foundations or any opponent's waste pile are available, the player must move a card from their waste pile to fill an empty tableau column or to the bottom of a tableau column where it fits, or join two columns of the tableau if any of these moves is possible.
+Dans la version de Colin Cook, si la carte de pioche d'un joueur se place sur **son propre** tas de défausse (ce qui dans cette version signifie être adjacent dans la même couleur ou de même rang dans une couleur différente), il peut l'ajouter à son tas de défausse et continuer son tour. Le tour du joueur ne se termine que lorsqu'il ajoute une carte de sa pioche à son propre tas de défausse qui ne se place pas.
 
-- Only when no moves of the above types 1, 2 and 3 are possible is a player allowed to turn the top card of their stock face up. This card must be played immediately according to the same priorities: to a foundation pile if possible, otherwise to an opponent's waste pile if possible, otherwise to an empty tableau space or the bottom of a tableau column if possible. After any of these moves the player must go back and play any new moves of types 1, 2 and 3 that have become available, in that order, before turning another card from their stock.
+### Tas de pioche vide termine le tour
 
-- If a face up stock card does not fit on any foundation or opponent's waste pile or anywhere in the tableau, the player adds it to the top of their waste pile, ending their turn.
+Une autre caractéristique inhabituelle de la version de Colin Cook est que lorsqu'un joueur utilise la dernière carte de sa pioche, cela termine son tour actuel. Il ne retourne pas son tas de défausse avant son prochain tour.
 
-If a player breaks any of these priority rules - making a move when a higher priority move was available - any opponent may call 'stop' or knock. This ends the turn of the player who broke the rules, but the move they made is not reversed. The illegally moved card stays where it was placed and the player who made the illegal move is given a penalty card by each opponent. Each penalty card is taken by the opponent from the middle of their stock pile (not the top or bottom card) and handed face down to the player receiving the penalty, who must add these cards to the bottom of their stock pile. *(If an opponent has only two cards in their stock they will give the bottom card, if only one then that only card, and if none at all then a card from the middle of their waste pile.)* It is then the next player's turn to play, and they will of course have to start by making any priority moves that the penalised player omitted if they are still available.
+### Plus de quatre joueurs
 
-Miriam Moules comments that it can sometimes be worthwhile to break a priority rule deliberately, for example by adding a playable card to your waste pile, and to accept the resulting penalty cards to avoid the greater disadvantage of receiving the whole of another player's waste pile that would have been loaded onto yours if the priorities were respected. This is an accepted tactic.
+Andrew Manston suggère que « n'importe quel nombre raisonnable » de joueurs peut participer.
 
-There is a variant in which a player who breaks a priority rule, completes their turn and notices the mistake they made and declares it before any other player knocks they can then give a penalty card to each of their opponents.
+### Jouer pour les places
 
-### Stock card always available
+Lorsque le jeu est joué par plus de deux joueurs, les versions décrites par Miriam Moules et Trevor Mitchell ne se terminent pas lorsqu'un joueur se débarrasse de toutes les cartes de son tas de pioche et de son tas de défausse. Le jeu continue, en sautant les tours des joueurs qui n'ont plus de cartes, pour déterminer qui arrive 2e, 3e, etc. selon l'ordre dans lequel ils se débarrassent de leurs cartes.
 
-Mike Williams describes a version of the game in which each player turns over their next stock card at the start of their turn. The player can then make legal moves in any order, moving cards from their waste pile and from and within the tableau if desired before using their stock card. As soon as a stock card is played, the next stock card is turned up and becomes available for use as required.
+Trevor Mitchell décrit une méthode de comptage dans laquelle les joueurs marquent des points de pénalité selon leur place d'arrivée : 0 point pour 1er, 1 point pour 2e, 2 points pour 3e, 3 points pour 4e.
 
-This is in contrast to the more usual version to the game where players are strictly forbidden to look at their next stock card until they have finished making waste pile and tableau moves, and must place their stock card immediately after looking at it. 
+### Choix des cartes initiales du tableau
 
-### Playing on own waste pile
-
-In Colin Cook's version, if a player's stock pile card fits onto **their own** waste pile (which in this version means being adjacent in the same suit or of the same rank in a different suit), they may add it to their waste pile and continue their turn. The player's turn only ends when they add a card from their stock to their own waste pile that does not fit.
-
-### Empty stock pile ends turn
-
-Another unusual feature of Colin Cook's version is that when a player uses the last card of their stock, this ends their current turn. They do not turn over their waste pile until their next turn, after they have made any preliminary moves from their waste pile and tableau and are ready to draw a card from the new stock. 
-
-### More than Four Players
-
-Andrew Manston suggests that 'any reasonable number' or players can take part. If there are 5 or 7 players the players to the left of the dealer will have one more card in their initial stock piles than the others, but this does not matter. 
-
-### Playing for Places
-
-When the game is played by more than two players, the versions described by Miriam Moules and Trevor Mitchell do not end when one player disposes of all the cards in their stock pile and waste pile. Play continues, skipping the turns of any players who have no cards left, to determine who comes 2nd, 3rd, etc. according to the order in which they run out of cards. When all players but one have run out of stock and waste cards, the final remaining player takes last place.
-
-Trevor Mitchell describes a method of scoring in which players score penalty points according to their finishing position: 0 points for 1st, 1 point for 2nd, 2 points for 3rd, 3 points for 4th. Further deals are played, players taking turns to be the starting player, until someone reaches 21 or more points. The game then ends with the final scores determining the overall result. The player(s) with 21 or more points lose(s), and the player(s) with fewest points win(s). 
-
-### Choice of Initial Tableau Cards
-
-Steph Lynch describes a two-player version in which in the initial deal is 22 cards to each player and 8 to the table in two face-down packs of four. The non-dealer chooses one of these two packs, sight unseen, and lays the cards out face up to start the tableau columns. The other four (unknown) cards are out of the game.
-
-In this version the game can sometimes become blocked because the missing cards prevent the foundation piles from being continued. If this happens the deadlock can be broken by dealing the 4 unused cards face down to the players. *(Each player receives two of these cards face down and adds them to the bottom of their stock.)* 
-
-Home Page > Classified Index > Layout Group > Competitive Patience > Chinese Patience
+Steph Lynch décrit une version à deux joueurs dans laquelle la donne initiale est de 22 cartes à chaque joueur et 8 sur la table en deux paquets faces cachées de quatre. Le non-donneur choisit l'un de ces deux paquets, sans les voir, et étale les cartes face visible pour commencer les colonnes du tableau. Les quatre autres cartes (inconnues) sont hors jeu.

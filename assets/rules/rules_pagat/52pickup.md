@@ -2,16 +2,14 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Not so much a card game as a practical joke in which one player throws the cards and the other has to pick them up.
+**But :** Moins un jeu de cartes qu'une farce pratique où un joueur jette les cartes et l'autre doit les ramasser.
 
 ---
 
-This is not really a card game; it is included here so that if someone proposes to play it with you, you will know what is involved.
+Ce n'est pas vraiment un jeu de cartes ; il est inclus ici pour que si quelqu'un vous propose d'y jouer, vous sachiez de quoi il s'agit.
 
-Two players and a pack of 52 cards are needed. The first player offers the second player a game of 52 pick-up (or 52 card pickup). If the second player accepts, the first player scatters the 52 cards over the floor and says "52 - pick up!". The second player's job is then to reassemble the pack of cards by picking them all up.
+Deux joueurs et un jeu de 52 cartes sont nécessaires. Le premier joueur propose au second une partie de 52 ramassages (ou 52 ramasse-cartes). Si le second accepte, le premier éparpille les 52 cartes sur le sol et dit « 52 — ramasse ! ». Le travail du second joueur est alors de reconstituer le jeu en ramassant toutes les cartes.
 
-That is all there is to it. 
+C'est tout ce qu'il y a à faire.
 
-Wei-Hwa Huang suggested that the name may be related to Elmore Leonard's 1974 mystery novel "52 Pick-Up", which was made into a movie in 1986. However, the game existed long before this. Bob Durbeck reports having fallen for the 52 Card Pickup ploy to his older brother in 1942 when he was 7 years old; Micki O'Connor played it with his brothers and sisters in the 1960's and Chaz Larson was invited to play a game with his cousin in 1972. So if there is a connection with the novel, the novel must be named after the game rather than vice versa.
-
-Home Page > Classified Index > Miscellaneous Games > 52 pick-up
+Wei-Hwa Huang a suggéré que le nom pourrait être lié au roman policier d'Elmore Leonard de 1974 « 52 Pick-Up », qui a été adapté en film en 1986. Cependant, le jeu existait bien avant cela. Bob Durbeck rapporte être tombé dans le piège du 52 Card Pickup face à son frère aîné en 1942 alors qu'il avait 7 ans ; Micki O'Connor y a joué avec ses frères et sœurs dans les années 1960 et Chaz Larson a été invité à y jouer avec son cousin en 1972. Ainsi, s'il existe un lien avec le roman, le roman doit être nommé d'après le jeu et non l'inverse.

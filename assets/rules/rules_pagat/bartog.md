@@ -2,32 +2,30 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A variant of Crazy Eights in which the effects of special cards can be altered by the players during the game.
+**But :** Une variante du huit américain dans laquelle les effets des cartes spéciales peuvent être modifiés par les joueurs pendant la partie.
 
 ---
 
-Bartok is a game of the Eights group. The object in these games is that to be the first to get rid of all your cards. There is a single discard pile and at your turn you can discard a card which matches the rank or the suit of the previous card. If you cannot or do not wish to play, you draw a card from the undealt stock and add it to your hand.
+Bartok est un jeu de la famille des huit. Le but dans ces jeux est d'être le premier à se débarrasser de toutes ses cartes. Il y a un seul tas de défausse et à votre tour vous pouvez défausser une carte qui correspond à la hauteur ou à la couleur de la carte précédente. Si vous ne pouvez pas ou ne souhaitez pas jouer, vous piochez une carte de la pioche non distribuée et l'ajoutez à votre main.
 
-Certain card ranks may have special properties. For example 
+Certaines hauteurs de cartes peuvent avoir des propriétés spéciales. Par exemple :
 
-- changing the direction of play;
+- changer le sens du jeu ;
 
-- requiring a different suit to be played;
+- exiger qu'une couleur différente soit jouée ;
 
-- requiring the next player to draw cards;
+- obliger le joueur suivant à piocher des cartes ;
 
-- causing the next player's turn to be skipped;
+- sauter le tour du joueur suivant ;
 
-- allowing the player to play one or more additional cards.
+- permettre au joueur de jouer une ou plusieurs cartes supplémentaires.
 
-Bartok takes this a stage further by allowing the rules about special cards to be changed by the players as the game goes on. This makes the rules increasingly difficult to remember, and anyone who does not follow the rules has to draw one or more penalty cards. The most successful players will be those who are best at keeping abreast of the changes, and inventing new rules which will confuse the other players.
+Bartok va un cran plus loin en permettant aux joueurs de modifier les règles concernant les cartes spéciales au fil de la partie. Cela rend les règles de plus en plus difficiles à retenir, et quiconque ne les respecte pas doit piocher une ou plusieurs cartes de pénalité. Les joueurs les plus performants seront ceux qui sont les meilleurs à suivre les changements et à inventer de nouvelles règles qui confondront les autres joueurs.
 
-Detailed rules for Bartok (also called Bartog or Warthog) can be found on the following pages. Most of them are Australian, which suggests that perhaps Bartok is of Australian origin, or at least is especially popular there.
+Les règles détaillées de Bartok (aussi appelé Bartog ou Warthog) peuvent être trouvées sur les pages suivantes. La plupart sont australiennes, ce qui suggère que Bartok est peut-être d'origine australienne, ou du moins particulièrement populaire là-bas.
 
-- Rules of Bartog by Malcolm Ryan, copied from the nomic ftp site.
+- Règles de Bartog par Malcolm Ryan, copiées du site ftp nomic.
 
-- [BARTOK / Warthog-- self-modifying game](https://web.archive.org/web/20160312043224/http://ofb.net/~lisa/warthog.html) - archive copy of Lisa Dusseault's page.
+- [BARTOK / Warthog — jeu auto-modifiable](https://web.archive.org/web/20160312043224/http://ofb.net/~lisa/warthog.html) — copie d'archive de la page de Lisa Dusseault.
 
-- [Bartok](https://www.dangermouse.net/games/bartok.html) - David Mar's page
-
-Home Page > Classified Index > Matching games > Eights Group > Bartok
+- [Bartok](https://www.dangermouse.net/games/bartok.html) — page de David Mar.

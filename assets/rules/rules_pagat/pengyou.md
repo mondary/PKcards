@@ -3,279 +3,281 @@
 **Nombre de joueurs :** 5–12
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** Tens and Fives, and the trump maker finds partners by calling for cards.
+**But :** Dix et Cinq, et le créateur d'atout trouve des partenaires en appelant des cartes.
 
 ---
 
-## Looking for Friends
+## Chercher des amis
 
 - Introduction
 
-- The Players and Cards
+- Les joueurs et les cartes
 
-- The Deal, the Scores and Making Trumps
+- La donne, les scores et la détermination de l'atout
 
 ## Introduction
 
-**Looking for Friends** is a Chinese trick-taking game for 5 to 12 or more players. It is played with multiple packs and features variable partnerships, which are unknown at the start of the play. The object is to win tricks for your team containing Kings, Tens and Fives. When sets of identical cards are held it is possible to lead more than one card at a time, beginning a multiple trick. You might expect that such a large game would be slow and unwieldy, but in fact this is not so. It is one of the most successful games for 6 or more people, and is almost the only trick-taking game of this size that works well.
+**Chercher des amis** est un jeu chinois de levées pour 5 à 12 joueurs ou plus. Il se joue avec plusieurs jeux et comporte des partenariats variables, qui sont inconnus au début du jeu. L'objectif est de gagner des levées contenant des Rois, des Dix et des Cinq. Lorsque des ensembles de cartes identiques sont détenus, il est possible de mener plus d'une carte à la fois, commençant une levée multiple. On pourrait s'attendre à ce qu'un jeu aussi grand soit lent et difficile à gérer, mais en réalité il n'en est rien. C'est l'un des jeux les plus réussis pour 6 personnes ou plus, et presque le seul jeu de levées de cette taille qui fonctionne bien.
 
-**Looking for Friends** (Zhăo Péngyou - 找朋友) is closely related to the games 100 (打百分) and Tractor (拖拉机), which are played with fixed partnerships. All these games, in which the player's score or "level" is represented by a card rank, are sometimes known collectively as **Shēng Jí** (升级) (raise level) games.
+**Chercher des amis** (Zhăo Péngyou - 找朋友) est étroitement lié aux jeux 100 (打百分) et Tractor (拖拉机), qui se jouent avec des partenariats fixes. Tous ces jeux, dans lesquels le score ou « niveau » du joueur est représenté par un rang de carte, sont parfois connus collectivement sous le nom de jeux **Shēng Jí** (升级) (monter de niveau).
 
-*This description is based on information from Jin Li, Wei-Hwa Huang, John Bauer, Rick Heli and Lucas Thomas.*
+*Cette description est basée sur des informations de Jin Li, Wei-Hwa Huang, John Bauer, Rick Heli et Lucas Thomas.*
 
-## The Players and Cards
+## Les joueurs et les cartes
 
-Looking for Friends is played with two or more identical standard packs shuffled together. From 5 to 7 players use two packs, from 8 to 11 players use 3 packs, and 12 or more players use 4 packs. Sufficient red and black jokers are included so that all the cards can be distributed equally to the players, with a kitty of six (or eight) cards left over.
+Chercher des amis se joue avec deux jeux standard identiques ou plus mélangés ensemble. De 5 à 7 joueurs utilisent deux jeux, de 8 à 11 joueurs utilisent 3 jeux, et 12 joueurs ou plus utilisent 4 jeux. Un nombre suffisant de jokers rouges et noirs est inclus pour que toutes les cartes puissent être distribuées équitablement aux joueurs, avec un talon de six (ou huit) cartes restantes.
 
-The specific requirements are as follows:
+Les exigences spécifiques sont les suivantes :
 
-| Players | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| Packs | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |
-| Red jokers | 2 | 2 | 0 | 2 | 3 | 0 | 2 | 2 |
-| Black jokers | 2 | 2 | 0 | 0 | 0 | 0 | 2 | 0 |
-| Cards per player | 20 | 17 | 14 | 19 | 17 | 15 | 14 | 17 |
-| Total cards | 108 | 108 | 104 | 158 | 159 | 156 | 160 | 210 |
+| Joueurs | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Jeux | 2 | 2 | 2 | 3 | 3 | 3 | 3 | 4 |
+| Jokers rouges | 2 | 2 | 0 | 2 | 3 | 0 | 2 | 2 |
+| Jokers noirs | 2 | 2 | 0 | 0 | 0 | 0 | 2 | 0 |
+| Cartes par joueur | 20 | 17 | 14 | 19 | 17 | 15 | 14 | 17 |
+| Total des cartes | 108 | 108 | 104 | 158 | 159 | 156 | 160 | 210 |
 
-In each hand, all the cards of a particular suit and a particular rank are trumps (for example all hearts and all twos); the jokers, if in use, are trumps as well. The highest trumps are the red jokers (if any), then the black jokers (if any), then the cards which belong to both the trump rank and the trump suit, then the other cards of the trump rank (all ranking equally), and finally the other cards of the trump suit, ranking in the normal order: ace, king, queen, jack, ten, ... down to two.
+À chaque main, toutes les cartes d'une couleur et d'un rang particuliers sont des atouts (par exemple tous les cœurs et tous les deux) ; les jokers, s'ils sont en jeu, sont aussi des atouts. Les atouts les plus élevés sont les jokers rouges (s'il y en a), puis les jokers noirs (s'il y en a), puis les cartes qui appartiennent à la fois au rang d'atout et à la couleur d'atout, puis les autres cartes du rang d'atout (toutes de même rang), et enfin les autres cartes de la couleur d'atout, classées dans l'ordre normal : As, Roi, Dame, Valet, Dix, ... jusqu'au deux.
 
-The cards of the other suits rank in the normal way from ace high down to two (low), leaving out the cards of the trump rank.
+Les cartes des autres couleurs sont classées normalement de l'As (haut) jusqu'au deux (bas), en excluant les cartes du rang d'atout.
 
-When different players play equal ranking cards to the same trick, the general rule is that the first played wins. This rule applies to identical cards, and also among the equal cards of the trump rank (i.e. those which do not belong to the trump suit as well).
+Lorsque différents joueurs jouent des cartes de même rang sur la même levée, la règle générale est que la première jouée l'emporte. Cette règle s'applique aux cartes identiques, et aussi parmi les cartes de même rang d'atout (c'est-à-dire celles qui n'appartiennent pas aussi à la couleur d'atout).
 
-**Example:** suppose that **eights** and **diamonds** are trumps. Then the ranking of the trump suit from high to low is: **red joker, black joker, ![diamond](../images/internat/diamond.gif)8, [![spade](../images/internat/spade.gif)8, ![heart](../images/internat/heart.gif)8, ![club](../images/internat/club.gif)8 ***- all equal***], ![diamond](../images/internat/diamond.gif)A, ![diamond](../images/internat/diamond.gif)K, ![diamond](../images/internat/diamond.gif)Q, ![diamond](../images/internat/diamond.gif)J, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)9, ![diamond](../images/internat/diamond.gif)7, ![diamond](../images/internat/diamond.gif)6, ![diamond](../images/internat/diamond.gif)5, ![diamond](../images/internat/diamond.gif)4, ![diamond](../images/internat/diamond.gif)3, ![diamond](../images/internat/diamond.gif)2**. The rank of the other three suits, from high to low, is **A, K, Q, J, 10, 9, 7, 6, 5, 4, 3, 2**.
+**Exemple :** supposons que les **huit** et les **carreaux** sont des atouts. Alors le classement de la couleur d'atout du plus haut au plus bas est : **joker rouge, joker noir, ![diamond](../images/internat/diamond.gif)8, [![spade](../images/internat/spade.gif)8, ![heart](../images/internat/heart.gif)8, ![club](../images/internat/club.gif)8 — tous égaux], ![diamond](../images/internat/diamond.gif)A, ![diamond](../images/internat/diamond.gif)R, ![diamond](../images/internat/diamond.gif)D, ![diamond](../images/internat/diamond.gif)V, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)9, ![diamond](../images/internat/diamond.gif)7, ![diamond](../images/internat/diamond.gif)6, ![diamond](../images/internat/diamond.gif)5, ![diamond](../images/internat/diamond.gif)4, ![diamond](../images/internat/diamond.gif)3, ![diamond](../images/internat/diamond.gif)2**. Le rang des trois autres couleurs, du plus haut au plus bas, est **A, R, D, V, 10, 9, 7, 6, 5, 4, 3, 2**.
 
-Looking for Friends is a point trick game - the aim is for the players on your team to win tricks containing valuable cards. As is usual in Chinese games, the values of the cards are:
+Chercher des amis est un jeu de levées à points — le but est pour les joueurs de votre équipe de gagner des levées contenant des cartes de valeur. Comme c'est habituel dans les jeux chinois, les valeurs des cartes sont :
 
-| Each king: | 10 points |
-| Each ten: | 10 points |
-| Each five: | 5 points |
-| All other cards: | No value |
+| Chaque roi : | 10 points |
+| Chaque dix : | 10 points |
+| Chaque cinq : | 5 points |
+| Toutes les autres cartes : | Pas de valeur |
 
-Thus the total number of card points is 200, 300 or 400 depending on the number of packs used.
+Ainsi, le nombre total de points de cartes est de 200, 300 ou 400 selon le nombre de jeux utilisés.
 
-## The Scores, the Deal and Making Trumps
+## Les scores, la donne et la détermination de l'atout
 
-At any time, each player has a score or **level** which is the **rank of a card** from two (low) up to ace (high). At the start of a new game, everyone begins at **level two**. In the course of the game the players' levels increase, and the game ends when a player or players achieve a level higher than ace and thereby win the game.
+À tout moment, chaque joueur a un score ou **niveau** qui est le **rang d'une carte** de deux (bas) jusqu'à l'As (haut). Au début d'un nouveau jeu, tout le monde commence au **niveau deux**. Au cours du jeu, les niveaux des joueurs augmentent, et le jeu se termine lorsqu'un ou plusieurs joueurs atteignent un niveau supérieur à l'As et gagnent ainsi la partie.
 
-The deal and play of Looking for Friends are anticlockwise, and the dealing is done in the usual Chinese way. There is no dealer. The pack is placed face down in the centre of the table and each player in turn takes one card from the top of the pack and adds it to their hand without showing it to the other players. The taking of cards continues around the table until everyone has their full number of cards (as specified in the table above), and there are six face-down cards remaining in the centre of the table.
+La donne et le jeu de Chercher des amis se font dans le sens antihoraire, et la distribution se fait de la manière habituelle chinoise. Il n'y a pas de donneur. Le jeu est placé face cachée au centre de la table et chaque joueur à tour de rôle prend une carte du dessus du jeu et l'ajoute à sa main sans la montrer aux autres joueurs. La prise de cartes continue autour de la table jusqu'à ce que tout le monde ait son nombre complet de cartes (comme indiqué dans le tableau ci-dessus), et qu'il reste six cartes face cachée au centre de la table.
 
-Trumps are made **during** the deal, by a player placing face-up on the table a card from their hand whose rank is equal to their own current level (which will be two for everyone if it is the first deal, but later in the game different players will have different levels). A card can be exposed in this way at any time during the deal, and the suit of the exposed card is the proposed trump suit. 
+L'atout est déterminé **pendant** la donne, par un joueur qui place face visible sur la table une carte de sa main dont le rang est égal à son propre niveau actuel (qui sera deux pour tout le monde s'il s'agit de la première donne, mais plus tard dans le jeu, différents joueurs auront des niveaux différents). Une carte peut être exposée de cette façon à tout moment pendant la donne, et la couleur de la carte exposée est la couleur d'atout proposée.
 
-After a card has been exposed, another player can change the proposed trump suit by exposing a pair of **identical** cards equal to their level. If the player who exposed the first card must now either
+Après qu'une carte a été exposée, un autre joueur peut changer la couleur d'atout proposée en exposant une paire de cartes **identiques** égales à son niveau. Le joueur qui a exposé la première carte doit alors soit :
 
-- take the first exposed card back into his or her hand, accepting the change of trump suit, or
+- reprendre la première carte exposée dans sa main, acceptant le changement de couleur d'atout, ou
 
-- maintain the original trump suit by exposing another card identical to the first one, making a pair. This forces the player who tried to change trumps to take back their pair.
+- maintenir la couleur d'atout originale en exposant une autre carte identique à la première, formant une paire. Cela oblige le joueur qui a essayé de changer l'atout à reprendre sa paire.
 
-If playing with more than two packs, a trump suit set using two identical cards can be changed by a player subsequently exposing three identical cards, and again the proposer of the previous trump suit can either withdraw them or add a third identical card to the pair, forcing the new triplet to be withdrawn. With four packs, a trump suit set with a triplet could be changed by four identical cards and so on.
+Si on joue avec plus de deux jeux, une couleur d'atout établie avec deux cartes identiques peut être changée par un joueur qui expose ensuite trois cartes identiques, et à nouveau le proposeur de la couleur d'atout précédente peut soit les retirer soit ajouter une troisième carte identique à la paire, forçant le nouveau triplet à être retiré. Avec quatre jeux, une couleur d'atout établie avec un triplet pourrait être changée par quatre cartes identiques et ainsi de suite.
 
-Example:
+Exemple :
 
-- Player A is at level 4, Player B at level 3, Player C at level 6. 
+- Le joueur A est au niveau 4, le joueur B au niveau 3, le joueur C au niveau 6.
 
-- A declares trump by exposing **![club](../images/internat/club.gif)**4. 
+- A déclare l'atout en exposant **![club](../images/internat/club.gif)**4.
 
-- B overcalls by exposing ![spade](../images/internat/spade.gif)3-![spade](../images/internat/spade.gif)3; A puts **![club](../images/internat/club.gif)**4 back in his hand. 
+- B surclame en exposant ![spade](../images/internat/spade.gif)3-![spade](../images/internat/spade.gif)3 ; A reprend **![club](../images/internat/club.gif)**4 dans sa main.
 
-- C overcalls by exposing ![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6; B defends by exposing a third ![spade](../images/internat/spade.gif)3; C returns the ![heart](../images/internat/heart.gif)6 triplet to hand. 
+- C surclame en exposant ![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6 ; B se défend en exposant un troisième ![spade](../images/internat/spade.gif)3 ; C retourne le triplet de ![heart](../images/internat/heart.gif)6 dans sa main.
 
-- B is now the trump maker with spades as the trump suit.
+- B est maintenant le créateur d'atout avec les piques comme couleur d'atout.
 
-If is **not** possible to change your **own** trump suit. If you expose, for example, a **![diamond](../images/internat/diamond.gif)2** to make diamonds trumps, and later pick up two **![club](../images/internat/club.gif)****2**'s and decide you would rather have clubs as trumps, you cannot override your own choice by exposing the **![club](../images/internat/club.gif)****2**'s.
+Il n'est **pas** possible de changer **votre propre** couleur d'atout. Si vous exposez, par exemple, un **![diamond](../images/internat/diamond.gif)2** pour faire des carreaux l'atout, et que vous ramassez ensuite deux **![club](../images/internat/club.gif)**2 et décidez que vous préféreriez des trèfles comme atout, vous ne pouvez pas annuler votre propre choix en exposant les **![club](../images/internat/club.gif)**2.
 
-The trump suit can be set or changed at **any** time during the deal. You are not obliged to expose a card just because you can. You might occasionally wish to avoid exposing a card if you were very weak in that suit and do not want to make it trumps.
-You might wait to collect more cards to decide whether it is worthwhile to make that suit trumps, or in the hope of getting another card of your rank in a different suit. By waiting you take the risk that another player may make trumps meanwhile. However, if another player tries to change your trump suit, you must respond immediately if you wish to defend it with an equal number of cards. If you do not respond immediately, an additional card is needed to change the suit again.
+La couleur d'atout peut être établie ou changée à **tout** moment pendant la donne. Vous n'êtes pas obligé d'exposer une carte simplement parce que vous le pouvez. Vous pourriez parfois souhaiter éviter d'exposer une carte si vous êtes très faible dans cette couleur et ne voulez pas en faire l'atout.
+Vous pourriez attendre de collecter plus de cartes pour décider s'il vaut la peine de faire de cette couleur l'atout, ou dans l'espoir d'obtenir une autre carte de votre rang dans une couleur différente. En attendant, vous prenez le risque qu'un autre joueur détermine l'atout entre-temps. Cependant, si un autre joueur essaie de changer votre couleur d'atout, vous devez répondre immédiatement si vous souhaitez la défendre avec un nombre égal de cartes. Si vous ne répondez pas immédiatement, une carte supplémentaire est nécessaire pour changer la couleur à nouveau.
 
-Although there is no actual dealer, someone has to begin by taking the first card, and there is a slight advantage in this, as the starter has the best chance of choosing trumps. 
+Bien qu'il n'y ait pas de donneur en tant que tel, quelqu'un doit commencer par prendre la première carte, et il y a un léger avantage à cela, car le premier joueur a le plus de chances de choisir l'atout.
 
-- At the beginning of a new game, the starter for the first deal is chosen at random: before the deal each player draws a card, and whoever gets the highest card will take the first card in the deal (after the drawn cards have been shuffled back into the pack). 
+- Au début d'un nouveau jeu, le joueur qui commence pour la première donne est choisi au hasard : avant la donne, chaque joueur tire une carte, et celui qui obtient la carte la plus haute prendra la première carte de la donne (après que les cartes tirées ont été remélangées dans le jeu).
 
-- For subsequent deals, the starter is the player who made trumps in the previous deal, provided that that player is still active. If that player has become passive, the deal is started by the next player in anticlockwise order who is active.
+- Pour les donnes suivantes, le joueur qui commence est celui qui a déterminé l'atout lors de la donne précédente, à condition que ce joueur soit encore actif. Si ce joueur est devenu passif, la donne est commencée par le joueur suivant dans l'ordre antihoraire qui est actif.
 
-Before the deal, the starter shuffles the cards and the player to the starter's left cuts the pack.
+Avant la donne, le joueur qui commence mélange les cartes et le joueur à sa gauche coupe le jeu.
 
-It is rare, but it can happen that no one exposes a card during the deal. If the last six (or eight) cards are reached without anyone having made trumps, all the cards are shuffled together and there is a new deal, started by the same player as before. 
+Il est rare, mais possible, que personne n'expose de carte pendant la donne. Si les six (ou huit) dernières cartes sont atteintes sans que personne n'ait déterminé l'atout, toutes les cartes sont remélangées ensemble et il y a une nouvelle donne, commencée par le même joueur qu'avant.
 
-## Discarding and Choosing Partners
+## Écart et choix des partenaires
 
-A kitty, consisting of six (or eight) face down cards, remains at the end of the deal. The player who made trumps picks up these cards without showing them to the other players and discards an equal number of cards face down. These discarded cards are kept face down in front of the trump maker until the end of the play. Any valuable cards among them will then be given to the team that wins the last trick and will **count double**.
+Un talon, composé de six (ou huit) cartes face cachée, reste à la fin de la donne. Le joueur qui a déterminé l'atout ramasse ces cartes sans les montrer aux autres joueurs et écarte un nombre égal de cartes face cachée. Ces cartes écartées sont conservées face cachée devant le créateur d'atout jusqu'à la fin du jeu. Toute carte de valeur parmi elles sera alors donnée à l'équipe qui gagne la dernière levée et **comptera double**.
 
-The trump maker now names cards which will eventually determine who plays for which team. The potential size of the teams and the number of cards called are as follows:
+Le créateur d'atout nomme maintenant les cartes qui détermineront qui joue pour quelle équipe. La taille potentielle des équipes et le nombre de cartes appelées sont les suivantes :
 
-| Players | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| Maximum size of trump maker's team | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 |
-| Minimum size of defending team | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 |
-| Number of cards called by trump maker | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
+| Joueurs | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Taille max de l'équipe du créateur d'atout | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 |
+| Taille min de l'équipe défensive | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6 |
+| Nombre de cartes appelées par le créateur d'atout | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 |
 
-The trump maker must call the number of cards indicated in the last row of the above table. The holders of the called cards will join the trump maker's team, and the other players will form the opposing team. The called cards **must not be trumps**; apart from this the trump maker is free to call any cards. 
+Le créateur d'atout doit appeler le nombre de cartes indiqué dans la dernière ligne du tableau ci-dessus. Les détenteurs des cartes appelées rejoindront l'équipe du créateur d'atout, et les autres joueurs formeront l'équipe adverse. Les cartes appelées **ne doivent pas être des atouts** ; à part cela, le créateur d'atout est libre d'appeler n'importe quelles cartes.
 
-As there is more than one of each card in play, the trump maker must also specify which copy of the relevant card is being called. This is done by saying "first" or "second" or "third" etc., up to the number of packs being used. The partner will be whoever plays the first, second, third, etc. copy of that card which appears during the play of the hand.
+Comme il y a plus d'un exemplaire de chaque carte en jeu, le créateur d'atout doit aussi spécifier quelle copie de la carte concernée est appelée. Cela se fait en disant « première » ou « deuxième » ou « troisième » etc., jusqu'au nombre de jeux utilisés. Le partenaire sera celui qui joue la première, deuxième, troisième, etc. copie de cette carte qui apparaît au cours de la partie.
 
-**Example:** There are eight players and fives and spades are trumps. The trump maker might call the first ace of clubs, the first king of clubs and the third ace of diamonds. In that case the first player to play an ace of clubs, the first to play a king of clubs, and the third player to play an ace of diamonds will belong to the trump maker's team.
+**Exemple :** Il y a huit joueurs et les cinq et les piques sont des atouts. Le créateur d'atout pourrait appeler le premier As de trèfle, le premier Roi de trèfle et le troisième As de carreau. Dans ce cas, le premier joueur à jouer un As de trèfle, le premier à jouer un Roi de trèfle, et le troisième à jouer un As de carreau appartiendront à l'équipe du créateur d'atout.
 
-The holders of the called cards must not reveal in any way who they are, except through the play of the cards. At the beginning of the play no one knows who is in which partnership. Not even the holders of the called cards themselves can be sure of this, as they do not necessarily know whether they will manage to play their called card before or after the other copies of the same card.
+Les détenteurs des cartes appelées ne doivent en aucun cas révéler qui ils sont, si ce n'est par le jeu des cartes. Au début du jeu, personne ne sait qui est dans quel partenariat. Même les détenteurs des cartes appelées ne peuvent pas en être sûrs, car ils ne savent pas nécessairement s'ils parviendront à jouer leur carte appelée avant ou après les autres copies de la même carte.
 
-Although the trump maker must always call the specified number of cards, it can happen that two of the called cards are played by the same person, or that one of the called cards is played by the trump maker. In this case the trump maker's team will be smaller than usual and the defenders' team will be larger.
+Bien que le créateur d'atout doive toujours appeler le nombre de cartes spécifié, il peut arriver que deux des cartes appelées soient jouées par la même personne, ou qu'une des cartes appelées soit jouée par le créateur d'atout. Dans ce cas, l'équipe du créateur d'atout sera plus petite que d'habitude et l'équipe des défenseurs sera plus grande.
 
-**Examples:** 
-In a seven player game, the trump maker calls the first and second aces of hearts. If one player turns out to hold both heart aces the trump maker only will have only this one partner.
-In a six player game, the trump maker calls the first ace of spades and the first ace of clubs. The trump maker leads a spade which player **A** wins with the ace, becoming the first partner. The two aces of clubs are held by players **A** and **B**. Player **B**, having a lot of clubs, deliberately keeps back the ace and plays small ones, driving out **A**'s ace first. Player **A** is now the trump maker's only partner.
+**Exemples :**
+Dans un jeu à sept joueurs, le créateur d'atout appelle le premier et le deuxième As de cœur. Si un seul joueur détient les deux As de cœur, le créateur d'atout n'aura que ce seul partenaire.
+Dans un jeu à six joueurs, le créateur d'atout appelle le premier As de pique et le premier As de trèfle. Le créateur d'atout mène un pique que le joueur **A** gagne avec l'As, devenant le premier partenaire. Les deux As de trèfle sont détenus par les joueurs **A** et **B**. Le joueur **B**, ayant beaucoup de trèfles, garde délibérément l'As et joue les petits, chassant d'abord l'As de **A**. Le joueur **A** est maintenant le seul partenaire du créateur d'atout.
 
-## The Play
+## Le jeu
 
-Play is anticlockwise. The trump maker leads to the first trick, and thereafter the winner of each trick leads to the next. When the called cards are played, they are left face up in front of the people who played them, so that it is easy to see which players are on the trump maker's team (the trump maker is identified by having the six face-down discards). 
+Le jeu se fait dans le sens antihoraire. Le créateur d'atout mène la première levée, et ensuite le gagnant de chaque levée mène la suivante. Lorsque les cartes appelées sont jouées, elles sont laissées face visible devant les personnes qui les ont jouées, afin qu'il soit facile de voir quels joueurs sont dans l'équipe du créateur d'atout (le créateur d'atout est identifié par les six cartes écartées face cachée devant lui).
 
-When a player who is or may be a member of the opposing team takes a trick, any valuable cards which are in it (kings, tens and fives) are kept face up in front of the winner of the trick. In this way it is easy to keep count of whether the defenders have enough points to defeat the trump making side, and also to see which players you would prefer to have as friends.
+Lorsqu'un joueur qui est ou peut être membre de l'équipe adverse gagne une levée, toutes les cartes de valeur qui s'y trouvent (rois, dix et cinq) sont conservées face visible devant le gagnant de la levée. De cette façon, il est facile de garder le compte pour savoir si les défenseurs ont suffisamment de points pour battre le côté créateur d'atout, et aussi de voir quels joueurs vous préféreriez avoir comme amis.
 
-All the remaining cards - that is, all the cards in the tricks won by the trump maker's team and all the worthless cards won by the other team - are thrown into a single face-down pile (well away from the trump maker's six discards). When a person who has previously won valuable cards plays one of the called cards and becomes a partner of the trump maker, the valuable cards are added to the face down heap, and the called card is placed in front of that person instead.
+Toutes les cartes restantes — c'est-à-dire toutes les cartes dans les levées gagnées par l'équipe du créateur d'atout et toutes les cartes sans valeur gagnées par l'autre équipe — sont jetées dans une seule pile face cachée (bien éloignée des six écartes du créateur d'atout). Lorsqu'une personne qui a déjà gagné des cartes de valeur joue une des cartes appelées et devient partenaire du créateur d'atout, les cartes de valeur sont ajoutées à la pile face cachée, et la carte appelée est placée devant cette personne à la place.
 
-The actual rules of following suit and winning tricks are similar to the normal rules of trick taking, but with some extensions involving multiple tricks in which each player plays a group of cards rather than just one.
+Les règles réelles de suivi de couleur et de gain des levées sont similaires aux règles normales des jeux de levées, mais avec quelques extensions impliquant des levées multiples dans lesquelles chaque joueur joue un groupe de cartes plutôt qu'une seule.
 
-The player whose turn it is to lead can choose between four types of lead (subject to having the requisite cards), as follows:
+Le joueur dont c'est le tour de mener peut choisir entre quatre types de menée (sous réserve d'avoir les cartes requises), comme suit :
 
-- Any single card can be led.
+- N'importe quelle carte isolée peut être menée.
 
-- Any set of two or more **identical** cards can be led together.
+- N'importe quel ensemble de deux cartes ou plus **identiques** peut être mené ensemble.
 
-- A sequence of equal sized, consecutive sets of identical cards can be led.
+- Une séquence d'ensembles de même taille et de cartes identiques consécutives peut être menée.
 
-- A collection of top cards in a suit can, in certain circumstances, be led.
+- Un ensemble de cartes supérieures d'une couleur peut, dans certaines circonstances, être mené.
 
-Each of the other players in turn contributes the same number of cards to the trick. The rules as to which cards can be played and who wins the trick are given below for each type of lead. 
+Chacun des autres joueurs à tour de rôle contribue le même nombre de cartes à la levée. Les règles concernant les cartes qui peuvent être jouées et qui gagne la levée sont données ci-dessous pour chaque type de menée.
 
-### Single Card Lead
+### Menée d'une carte isolée
 
-Any single card can be led. The other players in turn must each play a single card, if possible of the suit which was led. A player who has no card of the suit led may play any card. For this purpose all the cards of the trump number and suit and the jokers count as belonging to a single suit.
+N'importe quelle carte isolée peut être menée. Les autres joueurs à tour de rôle doivent chacun jouer une carte, si possible de la couleur qui a été menée. Un joueur qui n'a pas de carte de la couleur menée peut jouer n'importe quelle carte. Pour cela, toutes les cartes du rang et de la couleur d'atout et les jokers comptent comme appartenant à une seule couleur.
 
-**Example:** If **queens** and **diamonds** are trumps, and a trump is led (for example the **![spade](../images/internat/spade.gif)Q**), each of the other players must play a diamond, a queen or a joker; only if they have no trumps at all can they discard some other card - a spade, club or heart other than the queen. If the **![spade](../images/internat/spade.gif)7** is led the other players must if possible play a spade, but not the queen as she is not a spade but a trump; if they have no spades (except possibly the queen) they can trump with any trump or discard any other card.
+**Exemple :** Si les **dames** et les **carreaux** sont des atouts, et qu'un atout est mené (par exemple le **![spade](../images/internat/spade.gif)D**), chacun des autres joueurs doit jouer un carreau, une dame ou un joker ; ce n'est que s'ils n'ont aucun atout du tout qu'ils peuvent écarter une autre carte — un pique, un trèfle ou un cœur autre que la dame. Si le **![spade](../images/internat/spade.gif)7** est mené, les autres joueurs doivent si possible jouer un pique, mais pas la dame car ce n'est pas un pique mais un atout ; s'ils n'ont pas de piques (sauf éventuellement la dame), ils peuvent contrer avec n'importe quel atout ou écarter n'importe quelle autre carte.
 
-If any trumps are played to the trick, it is won by the highest trump played. If no one plays a trump it is won by the highest card played of the suit led. Between equal cards, the first played beats the others.
+Si des atouts sont joués dans la levée, elle est gagnée par l'atout le plus élevé joué. Si personne ne joue d'atout, elle est gagnée par la carte la plus élevée jouée de la couleur menée. Entre cartes égales, la première jouée bat les autres.
 
-**Example:** Queens and diamonds are trumps and the seven cards played to the trick are in order: **![diamond](../images/internat/diamond.gif)8, ![heart](../images/internat/heart.gif)Q, ![diamond](../images/internat/diamond.gif)10, ![club](../images/internat/club.gif)Q, ![club](../images/internat/club.gif)Q, ![heart](../images/internat/heart.gif)K, ![diamond](../images/internat/diamond.gif)A**. The trick is won by the **![heart](../images/internat/heart.gif)Q**, which beats the two queens of clubs as it was played earlier. A queen of diamonds from any player would have won the trick, as it belongs to both the rank and suit of trumps and thus beats the other queens.
+**Exemple :** Les dames et les carreaux sont des atouts et les sept cartes jouées dans la levée sont dans l'ordre : **![diamond](../images/internat/diamond.gif)8, ![heart](../images/internat/heart.gif)D, ![diamond](../images/internat/diamond.gif)10, ![club](../images/internat/club.gif)D, ![club](../images/internat/club.gif)D, ![heart](../images/internat/heart.gif)R, ![diamond](../images/internat/diamond.gif)A**. La levée est gagnée par le **![heart](../images/internat/heart.gif)D**, qui bat les deux dames de trèfle car il a été joué en premier. Une dame de carreau de n'importe quel joueur aurait gagné la levée, car elle appartient à la fois au rang et à la couleur des atouts et bat donc les autres dames.
 
-### Leading a Set of Identical Cards
+### Menée d'un ensemble de cartes identiques
 
-A player can lead two or more **identical** cards as a set. Note that it is not sufficient for the cards just to be equal in rank: if nines and clubs are trumps you can lead **![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)9** but not **![diamond](../images/internat/diamond.gif)9-![spade](../images/internat/spade.gif)9**.
+Un joueur peut mener deux cartes ou plus **identiques** comme un ensemble. Notez qu'il ne suffit pas que les cartes soient de même rang : si les neuf et les trèfles sont des atouts, vous pouvez mener **![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)9** mais pas **![diamond](../images/internat/diamond.gif)9-![spade](../images/internat/spade.gif)9**.
 
-The other players must each contribute the same number of cards to the trick, and as far as possible they must play cards of the suit led, again counting all the trumps as belonging to one suit. Moreover, if a pair of identical cards was led, the other players must if possible play a pair of identical cards of the same suit. Similarly when three or four identical cards are led, any other player who has a set (respectively) of three or four identical cards of that suit must play it.
+Les autres joueurs doivent chacun contribuer le même nombre de cartes à la levée, et autant que possible, ils doivent jouer des cartes de la couleur menée, en comptant à nouveau tous les atouts comme appartenant à une seule couleur. De plus, si une paire de cartes identiques a été menée, les autres joueurs doivent si possible jouer une paire de cartes identiques de la même couleur. De même, lorsque trois ou quatre cartes identiques sont menées, tout autre joueur qui a un ensemble (respectivement) de trois ou quatre cartes identiques de cette couleur doit le jouer.
 
-A player who cannot follow with identical cards of the suit led must still play cards of the suit led as far as possible. A player who does not have enough of these must play any that they do have, and make up the number of cards required with any other cards they choose.
+Un joueur qui ne peut pas suivre avec des cartes identiques de la couleur menée doit quand même jouer des cartes de la couleur menée autant que possible. Un joueur qui n'en a pas assez doit jouer toutes celles qu'il a, et compléter le nombre de cartes requis avec d'autres cartes de son choix.
 
-When identical cards are led the trick can only by won by a set of identical cards. The winner will be whoever plays the highest such set of the suit that was led, unless someone has no cards at all of the suit led and trumps with a set of identical trumps, in which case the trick is won by the highest set of identical trumps played.
+Lorsque des cartes identiques sont menées, la levée ne peut être gagnée que par un ensemble de cartes identiques. Le gagnant sera celui qui joue l'ensemble le plus élevé de la couleur menée, à moins que quelqu'un n'ait aucune carte de la couleur menée et contre avec un ensemble d'atouts identiques, auquel cas la levée est gagnée par l'ensemble d'atouts identiques le plus élevé joué.
 
-If equal sets of identical cards are played by different players (such as two nines of spades and two nines of diamonds when nines and clubs are trumps), then the earliest played beats the others.
+Si des ensembles égaux de cartes identiques sont joués par différents joueurs (comme deux neufs de pique et deux neufs de carreau lorsque les neuf et les trèfles sont des atouts), le premier joué bat les autres.
 
-**Example:** **nines** and **clubs** are trump and a pair of jacks of hearts is led.
+**Exemple :** Les **neuf** et les **trèfles** sont des atouts et une paire de valets de cœur est menée.
 
-- If you hold **![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)6** you may play any two hearts, but you will not win the trick as you do not have a pair.
+- Si vous détenez **![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)R, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)6** vous pouvez jouer deux cœurs quelconques, mais vous ne gagnerez pas la levée car vous n'avez pas de paire.
 
-- If you hold **![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)6** you **must** play your two tens. As the tens are worth points you might wish you could throw the ace and six, but this is not allowed.
+- Si vous détenez **![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)6** vous **devez** jouer vos deux dix. Comme les dix valent des points, vous souhaiteriez pouvoir jeter l'As et le six, mais cela n'est pas autorisé.
 
-- If you hold **![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)10** you can beat the lead with your kings or play under it with your tens if you prefer.
+- Si vous détenez **![heart](../images/internat/heart.gif)R, ![heart](../images/internat/heart.gif)R, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)10** vous pouvez battre la menée avec vos rois ou jouer en dessous avec vos dix si vous préférez.
 
-- If you hold **![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)5** you **must** play two of your eights, even though you might wish you could keep the set of three intact to lead as a triple later.
+- Si vous détenez **![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)5** vous **devez** jouer deux de vos huit, même si vous souhaiteriez garder l'ensemble de trois intact pour le mener comme un triplet plus tard.
 
-- If your only cards are **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)Q, ![spade](../images/internat/spade.gif)Q, ![club](../images/internat/club.gif)7, ![club](../images/internat/club.gif)7** you can play any two cards you choose, as you have no hearts. You are not forced to play a pair in this situation. If you choose to, you can beat the lead by trumping with your two sevens of clubs.
+- Si vos seules cartes sont **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)D, ![spade](../images/internat/spade.gif)D, ![club](../images/internat/club.gif)7, ![club](../images/internat/club.gif)7** vous pouvez jouer les deux cartes de votre choix, car vous n'avez pas de cœurs. Vous n'êtes pas obligé de jouer une paire dans cette situation. Si vous le choisissez, vous pouvez battre la menée en contrant avec vos deux sept de trèfle.
 
-- If your only cards are **![spade](../images/internat/spade.gif)10, ![heart](../images/internat/heart.gif)K, ![club](../images/internat/club.gif)7, ![club](../images/internat/club.gif)7** you cannot trump with your sevens as you are obliged to follow suit with the king of hearts. As your second card you must throw away the spade or one of your trumps, but either way you cannot win the trick.
+- Si vos seules cartes sont **![spade](../images/internat/spade.gif)10, ![heart](../images/internat/heart.gif)R, ![club](../images/internat/club.gif)7, ![club](../images/internat/club.gif)7** vous ne pouvez pas contrer avec vos sept car vous êtes obligé de suivre couleur avec le Roi de cœur. Comme deuxième carte, vous devez jeter le pique ou un de vos atouts, mais dans les deux cas vous ne pouvez pas gagner la levée.
 
-- If your only cards are **![club](../images/internat/club.gif)9, ![spade](../images/internat/spade.gif)9, ![heart](../images/internat/heart.gif)9, ![diamond](../images/internat/diamond.gif)K** you may play any two cards - you have no hearts as the **![heart](../images/internat/heart.gif)9** is a trump. Whatever you throw you cannot win the trick (two of your nines are equal in rank but not identical).
+- Si vos seules cartes sont **![club](../images/internat/club.gif)9, ![spade](../images/internat/spade.gif)9, ![heart](../images/internat/heart.gif)9, ![diamond](../images/internat/diamond.gif)R** vous pouvez jouer deux cartes quelconques — vous n'avez pas de cœurs car le **![heart](../images/internat/heart.gif)9** est un atout. Quoi que vous jetiez, vous ne pouvez pas gagner la levée (deux de vos neuf sont de même rang mais pas identiques).
 
-### Leading a Sequence of Sets
+### Menée d'une séquence d'ensembles
 
-If you are fortunate enough to hold two or more sets of identical cards of adjacent rank in the same suit, you can lead them together as a sequence of sets. The sets in the sequence must be equal in size. Jokers and cards of the trump rank cannot be included in a sequence of sets.
+Si vous avez la chance de détenir deux ensembles ou plus de cartes identiques de rangs adjacents dans la même couleur, vous pouvez les mener ensemble comme une séquence d'ensembles. Les ensembles de la séquence doivent être de même taille. Les jokers et les cartes du rang d'atout ne peuvent pas être inclus dans une séquence d'ensembles.
 
-**Examples:** **Fives** and **hearts** are trumps. The following leads are valid:
+**Exemples :** Les **cinq** et les **cœurs** sont des atouts. Les menées suivantes sont valides :
 
 - **![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)7**
 
-- **![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)Q**
+- **![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)D-![diamond](../images/internat/diamond.gif)D-![diamond](../images/internat/diamond.gif)D**
 
-- **![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)10**
+- **![heart](../images/internat/heart.gif)D-![heart](../images/internat/heart.gif)D-![heart](../images/internat/heart.gif)V-![heart](../images/internat/heart.gif)V-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)10**
 
-- **![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4** (six and four are adjacent because fives are trump)
-The following leads are **not** valid:
+- **![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4** (six et quatre sont adjacents car les cinq sont des atouts)
 
-- **![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)8-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7** - sets must be the same suit
+Les menées suivantes ne sont **pas** valides :
 
-- **![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)7** - sets must be adjacent in rank
+- **![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)8-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7** — les ensembles doivent être de la même couleur
 
-- **![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)8** - sets must be the same size
+- **![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)7-![club](../images/internat/club.gif)7** — les ensembles doivent être de rangs adjacents
 
-- **![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)5** - not adjacent, as fives are trump, and in any case cards of the trump rank cannot be used
+- **![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)9-![club](../images/internat/club.gif)8-![club](../images/internat/club.gif)8** — les ensembles doivent être de même taille
 
-- **![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)A** - cards of the trump rank cannot be used in sequences
+- **![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)6-![heart](../images/internat/heart.gif)5-![heart](../images/internat/heart.gif)5** — non adjacents, car les cinq sont des atouts, et de toute façon les cartes du rang d'atout ne peuvent pas être utilisées
 
-When a sequence of sets is led, the other players must play the same number of cards, and must play cards of the suit led as far as possible. Moreover, as far as possible they must follow suit with sets of the same size as the sets in the sequence that was led. Players are not obliged to follow with sequences of sets, even if they have them; any sets of the right size will do. However, the lead can only be beaten by a higher sequence of sets of the same size and length in the same suit or a sequence of sets of the same size and length in trumps. 
+- **![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)A** — les cartes du rang d'atout ne peuvent pas être utilisées dans les séquences
 
-A player who does not have sufficient sets of cards of the suit led can play any cards of the suit led. A player who runs out of cards of the suit led is free to play any cards - there is no obligation to play sets in this case.
+Lorsqu'une séquence d'ensembles est menée, les autres joueurs doivent jouer le même nombre de cartes, et doivent jouer des cartes de la couleur menée autant que possible. De plus, autant que possible, ils doivent suivre couleur avec des ensembles de même taille que les ensembles dans la séquence qui a été menée. Les joueurs ne sont pas obligés de suivre avec des séquences d'ensembles, même s'ils en ont ; des ensembles de la bonne taille suffisent. Cependant, la menée ne peut être battue que par une séquence d'ensembles plus élevée de même taille et longueur dans la même couleur ou une séquence d'ensembles de même taille et longueur dans les atouts.
 
-The trick is won by the highest sequence of sets in trumps which is the same shape as the lead, or if no one plays such a sequence, by the highest sequence of sets in the suit led which is the same shape as the lead. Most often no one will be able to beat the lead and the led cards will win the trick. 
+Un joueur qui n'a pas suffisamment d'ensembles de cartes de la couleur menée peut jouer des cartes quelconques de la couleur menée. Un joueur qui n'a plus de cartes de la couleur menée est libre de jouer des cartes quelconques — il n'y a pas d'obligation de jouer des ensembles dans ce cas.
 
-**Examples:** **Fives** and **hearts** are trumps, and the lead is **![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)J**
+La levée est gagnée par la séquence d'ensembles la plus élevée dans les atouts qui a la même forme que la menée, ou si personne ne joue une telle séquence, par la séquence d'ensembles la plus élevée dans la couleur menée qui a la même forme que la menée. Le plus souvent, personne ne pourra battre la menée et les cartes menées gagneront la levée.
 
-- If your spades are **A, Q, 10, 10, 7, 6** you must play the two tens and any other two spades (probably you will want to play the seven and six). You must play your pair of tens because pairs were led.
+**Exemples :** Les **cinq** et les **cœurs** sont des atouts, et la menée est **![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)D-![spade](../images/internat/spade.gif)V-![spade](../images/internat/spade.gif)V**
 
-- If your spades are **A, A, 10, 10, 9, 9** you can play any two of your pairs - for example if you are an enemy of the leader you probably want to play the aces and nines. There is no obligation to play your sequence.
+- Si vos piques sont **A, D, 10, 10, 7, 6** vous devez jouer la paire de dix et deux autres piques (probablement vous voudrez jouer le sept et le six). Vous devez jouer votre paire de dix car des paires ont été menées.
 
-- If your spades are **A, A, A, A, 6, 4** (in a twelve player game) you must play all your spade aces (as two pairs), but they do not beat the lead as they are not in sequence.
+- Si vos piques sont **A, A, 10, 10, 9, 9** vous pouvez jouer deux de vos paires — par exemple, si vous êtes un ennemi du meneur, vous voudrez probablement jouer les As et les neuf. Il n'y a pas d'obligation de jouer votre séquence.
 
-- If your spades are **K, K, Q, Q, 8, 7, 7** (in a twelve player game) you may play any two of your three pairs, and if you play **K-K-Q-Q** this will beat the lead.
+- Si vos piques sont **A, A, A, A, 6, 4** (dans un jeu à 12 joueurs) vous devez jouer tous vos As de pique (comme deux paires), mais ils ne battent pas la menée car ils ne sont pas en séquence.
 
-- If you hold **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)A, ![heart](../images/internat/heart.gif)5, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)K** you must play your two aces and any two of your three trumps; you cannot win the trick as you are not playing a sequence.
+- Si vos piques sont **R, R, D, D, 8, 7, 7** (dans un jeu à 12 joueurs) vous pouvez jouer deux de vos trois paires, et si vous jouez **R-R-D-D** cela battra la menée.
 
-- If you hold **![spade](../images/internat/spade.gif)2, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)4, ![heart](../images/internat/heart.gif)4** you must follow suit with your spade and play any three trumps; this will not win the trick.
+- Si vous détenez **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)A, ![heart](../images/internat/heart.gif)5, ![heart](../images/internat/heart.gif)R, ![heart](../images/internat/heart.gif)R** vous devez jouer vos deux As et deux de vos trois atouts ; vous ne pouvez pas gagner la levée car vous ne jouez pas une séquence.
 
-- If you hold **![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)4, ![heart](../images/internat/heart.gif)4** and no spades you can trump with your sixes and fours, beating the lead because these are a sequence (five is the trump rank).
+- Si vous détenez **![spade](../images/internat/spade.gif)2, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)4, ![heart](../images/internat/heart.gif)4** vous devez suivre couleur avec votre pique et jouer trois atouts quelconques ; cela ne gagnera pas la levée.
 
-If the lead was **Q-Q-J-J-10-10** of spades and your spades were **A, A, A, K, K, K, 4, 4** you must play two aces, two kings and two fours, which does not beat the lead. You cannot play your two triples, as when pairs are led you must follow with pairs. If your only spades were **A, A, A, K, K, K** you would have to play them, and they still would not beat the lead, as they would count as a pair of aces, a pair of kings and two odd cards.
+- Si vous détenez **![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)6, ![heart](../images/internat/heart.gif)4, ![heart](../images/internat/heart.gif)4** et aucun pique, vous pouvez contrer avec vos six et quatre, battant la menée car ils forment une séquence (cinq est le rang d'atout).
 
-### Leading a Group of Top Cards
+Si la menée était **D-D-V-V-10-10** de pique et que vos piques étaient **A, A, A, R, R, R, 4, 4** vous devez jouer deux As, deux Rois et deux quatre, ce qui ne bat pas la menée. Vous ne pouvez pas jouer vos deux triplets, car lorsque des paires sont menées, vous devez suivre avec des paires. Si vos seuls piques étaient **A, A, A, R, R, R** vous devriez les jouer, et ils ne battraient toujours pas la menée, car ils compteraient comme une paire d'As, une paire de Rois et deux cartes impaires.
 
-If you possess several cards or combinations in a suit and believe that they are all unbeatable by cards of that suit, you may lead them all at once. This lead can be a mixture of single cards, sets and sequences of sets. The other players must follow with the same number of cards. As far as possible they must play cards of the suit that was led, and so far as possible must include sets of identical cards of the same size as those in the lead. Players who have insufficient cards of the suit led play all their cards of that suit along with any other cards to make up the required number.
+### Menée d'un groupe de cartes supérieures
 
-If all the cards and combinations in the lead are really unbeatable, the leader will win the trick unless someone, having no cards of the suit led, is able to play an appropriate collection of trumps. To win the trick these trumps need to include similar combinations to those in the lead. If more than one player trumps, to determine which is higher look at the set of trumps used to beat the largest combination in the lead, and whoever played the highest such set of trumps wins the trick.
+Si vous possédez plusieurs cartes ou combinaisons dans une couleur et pensez qu'elles sont toutes imbattables par des cartes de cette couleur, vous pouvez toutes les mener à la fois. Cette menée peut être un mélange de cartes isolées, d'ensembles et de séquences d'ensembles. Les autres joueurs doivent suivre avec le même nombre de cartes. Autant que possible, ils doivent jouer des cartes de la couleur menée, et autant que possible, inclure des ensembles de cartes identiques de même taille que ceux de la menée. Les joueurs qui n'ont pas assez de cartes de la couleur menée jouent toutes leurs cartes de cette couleur avec d'autres cartes pour atteindre le nombre requis.
 
-If anyone - even a partner of the leader - has a card or combination in the suit of the lead that can beat one of the cards or combinations in the lead, they must immediately show it. As a penalty, the leader must change the lead to include only the card or combination that has been shown to be beatable, withdrawing all other cards in the original lead. For each card withdrawn, 10 card points are transferred from the leader's team to the opposing team.
+Si toutes les cartes et combinaisons de la menée sont vraiment imbattables, le meneur gagnera la levée à moins que quelqu'un, n'ayant aucune carte de la couleur menée, soit capable de jouer une collection appropriée d'atouts. Pour gagner la levée, ces atouts doivent inclure des combinaisons similaires à celles de la menée. Si plus d'un joueur contre, pour déterminer qui est le plus élevé, regardez l'ensemble d'atouts utilisé pour battre la plus grande combinaison de la menée, et celui qui a joué l'ensemble d'atouts le plus élevé gagne la levée.
 
-**Example.** Playing with **Fours** and **Diamonds** as trumps, a player leads **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)J**. If any other player has a single Ace of Spades (to beat the King), the leader has to take back the Ace and the Jacks, costing his side 30 points, and lead the King to be beaten by the Ace. If someone has a pair of Queens of Spades (to beat the Jacks), the Ace and King must be withdrawn, costing 20 points. If no one can beat the King or the Jacks, then everyone must play four Spades, if possible including a pair. Anyone who has no Spades at all may trump with two single trumps and a pair. If one player trumps with **![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)Q** and another plays **![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)2** the second of those players wins by playing a better pair (the Fives do not count as a triple but as a pair and a single card, since there was no triple in the lead).
+Si quelqu'un — même un partenaire du meneur — a une carte ou une combinaison dans la couleur de la menée qui peut battre l'une des cartes ou combinaisons de la menée, il doit immédiatement la montrer. En guise de pénalité, le meneur doit changer sa menée pour n'inclure que la carte ou la combinaison qui s'est révélée battable, retirant toutes les autres cartes de la menée originale. Pour chaque carte retirée, 10 points de carte sont transférés de l'équipe du meneur à l'équipe adverse.
 
-**Example.** **Threes** and **spades** are trumps. Player **A** leads **![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)J-![diamond](../images/internat/diamond.gif)J**. To trump this one needs a triple and a sequence of two pairs. Player **B**, having no diamonds, trumps with **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7** and player **C**, also having no diamonds, trumps with **![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4**. Player **C** wins the trick, because 10-10-9-9 beats 8-8-7-7. 
+**Exemple.** En jouant avec les **quatre** et les **carreaux** comme atouts, un joueur mène **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)V-![spade](../images/internat/spade.gif)V**. Si un autre joueur a un As de pique isolé (pour battre le Roi), le meneur doit reprendre l'As et les Valets, coûtant 30 points à son côté, et mener le Roi pour qu'il soit battu par l'As. Si quelqu'un a une paire de Dames de pique (pour battre les Valets), l'As et le Roi doivent être retirés, coûtant 20 points. Si personne ne peut battre le Roi ou les Valets, alors chacun doit jouer quatre piques, en incluant si possible une paire. Quiconque n'a aucun pique peut contrer avec deux atouts isolés et une paire. Si un joueur contre avec **![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)5-![diamond](../images/internat/diamond.gif)D** et un autre joue **![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)3-![diamond](../images/internat/diamond.gif)2**, le deuxième de ces joueurs gagne en jouant une meilleure paire (les cinq ne comptent pas comme un triplet mais comme une paire et une carte isolée, puisqu'il n'y avait pas de triplet dans la menée).
 
-## The Scoring
+**Exemple.** Les **trois** et les **piques** sont des atouts. Le joueur **A** mène **![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)V-![diamond](../images/internat/diamond.gif)V-![diamond](../images/internat/diamond.gif)V**. Pour contrer cela, il faut un triplet et une séquence de deux paires. Le joueur **B**, n'ayant pas de carreaux, contre avec **![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)A-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)8-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7** et le joueur **C**, n'ayant pas non plus de carreaux, contre avec **![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4**. Le joueur **C** gagne la levée, car 10-10-9-9 bat 8-8-7-7.
 
-At the end of the play, the defending team (the trump maker's opponents) count the card points they have won in tricks, which is easy because the relevant cards are lying face up in front of them. In addition, if they won the last trick, the cards discarded by the trump maker are exposed and the value of any discarded kings tens or fives is **doubled** and added to the total of defenders' points.
+## Le comptage des points
 
-The defenders win if their card point total is at least 60 times the number of packs of cards being used. The trump makers win if the defenders have less than 40 points per pack. If the defenders have at least 40 points pack but less than 60, neither side wins. All members of the winning team are promoted by at least one level.
+À la fin du jeu, l'équipe défensive (les adversaires du créateur d'atout) compte les points de carte qu'elle a gagnés dans les levées, ce qui est facile car les cartes concernées sont face visible devant eux. De plus, s'ils ont gagné la dernière levée, les cartes écartées par le créateur d'atout sont exposées et la valeur de tous les rois, dix ou cinq écartés est **doublée** et ajoutée au total des points des défenseurs.
 
-The winners are promoted by more than one level in the following cases:
+Les défenseurs gagnent si leur total de points de carte est au moins 60 fois le nombre de jeux de cartes utilisés. Le créateur d'atout gagne si les défenseurs ont moins de 40 points par jeu. Si les défenseurs ont au moins 40 points par jeu mais moins de 60, aucun camp ne gagne. Tous les membres de l'équipe gagnante sont promus d'au moins un niveau.
 
-- If the defenders' card point total is at least 80 times the number of packs in play, they are promoted two levels.
+Les gagnants sont promus de plus d'un niveau dans les cas suivants :
 
-- If the defenders' card point total is at least 100 times the number of packs in play, they are promoted three levels (although the basic value of the cards in each pack is only 100 points, it is sometimes possible to take more than 100 per pack because the points in the trump maker's discard are doubled).
+- Si le total de points de carte des défenseurs est au moins 80 fois le nombre de jeux en jeu, ils sont promus de deux niveaux.
 
-- If the defenders' card point total is less than 20 times the number of packs in play, the trump makers are promoted two levels.
+- Si le total de points de carte des défenseurs est au moins 100 fois le nombre de jeux en jeu, ils sont promus de trois niveaux (bien que la valeur de base des cartes dans chaque jeu ne soit que de 100 points, il est parfois possible de prendre plus de 100 par jeu car les points dans l'écart du créateur d'atout sont doublés).
 
-- If the defenders take no card points at all, the trump makers are promored by three levels.
+- Si le total de points de carte des défenseurs est inférieur à 20 fois le nombre de jeux en jeu, les créateurs d'atout sont promus de deux niveaux.
 
-- If the trump makers win with fewer than the maximum number of players in their team, they are promoted the same amount again for each player by which they are short of the maximum team size.
-The possibilities are set out in full in the table below.
+- Si les défenseurs ne prennent aucun point de carte, les créateurs d'atout sont promus de trois niveaux.
 
-|   | Number of players | Trump maker's team size |
-| 5 |   |   | 2 | 1 |   |   |   |   |
-| 6 |   |   | 3 | 2 | 1 |   |   |   |
-| 7 |   |   | 3 | 2 | 1 |   |   |   |
-|   | 8 |   | 4 | 3 | 2 | 1 |   |   |
-|   | 9 |   | 4 | 3 | 2 | 1 |   |   |
-|   | 10 |   | 5 | 4 | 3 | 2 | 1 |   |
-|   | 11 |   | 5 | 4 | 3 | 2 | 1 |   |
-|   |   | 12 | 6 | 5 | 4 | 3 | 2 | 1 |
-| Number of packs | Number of levels by which
-trump makers (T) or defenders (D)
-are promoted. |
+- Si les créateurs d'atout gagnent avec moins du nombre maximum de joueurs dans leur équipe, ils sont promus du même montant supplémentaire pour chaque joueur dont ils sont en dessous de la taille maximale de l'équipe.
+
+Les possibilités sont exposées en détail dans le tableau ci-dessous.
+
+|  | Nombre de joueurs | Taille de l'équipe du créateur d'atout |
+| 5 |  |  | 2 | 1 |  |  |  |  |
+| 6 |  |  | 3 | 2 | 1 |  |  |  |
+| 7 |  |  | 3 | 2 | 1 |  |  |  |
+|  | 8 |  | 4 | 3 | 2 | 1 |  |  |
+|  | 9 |  | 4 | 3 | 2 | 1 |  |  |
+|  | 10 |  | 5 | 4 | 3 | 2 | 1 |  |
+|  | 11 |  | 5 | 4 | 3 | 2 | 1 |  |
+|  |  | 12 | 6 | 5 | 4 | 3 | 2 | 1 |
+| Nombre de jeux | Nombre de niveaux dont
+les créateurs d'atout (T) ou les défenseurs (D)
+sont promus. |
 | 2 | 3 | 4 |
-| Defenders' 
-card points | 0 | 0 | 0 | T+3 | T+6 | T+9 | T+12 | T+15 | T+18 |
+| Points de carte
+des défenseurs | 0 | 0 | 0 | T+3 | T+6 | T+9 | T+12 | T+15 | T+18 |
 | 5-35 | 5-55 | 5-75 | T+2 | T+4 | T+6 | T+8 | T+10 | T+12 |
 | 40-75 | 60-115 | 80-155 | T+1 | T+2 | T+3 | T+4 | T+5 | T+6 |
 | 80-115 | 120-175 | 160-235 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -283,102 +285,100 @@ card points | 0 | 0 | 0 | T+3 | T+6 | T+9 | T+12 | T+15 | T+18 |
 | 160-195 | 240-295 | 320-395 | D+2 | D+2 | D+2 | D+2 | D+2 | D+2 |
 | 200+ | 300+ | 400+ | D+3 | D+3 | D+3 | D+3 | D+3 | D+3 |
 
-The possible levels are the same as the ranks of the cards. After 10 comes jack, queen, king, ace: for example if a level 10 player is promoted, their level becomes "jack". Ace is the highest possible level and when any player passes beyond this level they win and the game ends. 
+Les niveaux possibles sont les mêmes que les rangs des cartes. Après 10 vient valet, dame, roi, as : par exemple, si un joueur de niveau 10 est promu, son niveau devient « valet ». L'As est le niveau le plus élevé possible et lorsque un joueur dépasse ce niveau, il gagne et le jeu se termine.
 
-**Example**. In a six-player game with two packs the players' levels are A:8, B:10, C:7, D:7, E:9, F:4. In the deal player E exposes a card to make trumps. In the play it happens that the two cards called by E are both played by C, and the defending team of A, B, D and F take only 30 points in their tricks. In this case E and C will be promoted four levels each (two because the defenders have less than 40 (2×20) points and another two because their team has one member less than the maximum three). E's level goes up to 'king' and C is promoted to 'jack'. If in the same configuration, the defenders had taken (say) 140 points, then A, B, D and F would each have been promoted and their new levels would be 9, jack, 8, 5 respectively while C and E remained on 7 and 9.
+**Exemple**. Dans un jeu à six joueurs avec deux jeux, les niveaux des joueurs sont A:8, B:10, C:7, D:7, E:9, F:4. Lors de la donne, le joueur E expose une carte pour déterminer l'atout. Au cours du jeu, il se trouve que les deux cartes appelées par E sont toutes deux jouées par C, et l'équipe défensive de A, B, D et F ne prend que 30 points dans leurs levées. Dans ce cas, E et C seront promus de quatre niveaux chacun (deux parce que les défenseurs ont moins de 40 (2×20) points et deux autres parce que leur équipe a un membre de moins que le maximum de trois). Le niveau de E monte à « roi » et C est promu à « valet ». Si dans la même configuration, les défenseurs avaient pris (par exemple) 140 points, alors A, B, D et F auraient chacun été promus et leurs nouveaux niveaux seraient respectivement 9, valet, 8, 5 tandis que C et E resteraient à 7 et 9.
 
-## Variations
+## Variantes
 
-Generally, any of the variants found in other Shēng Jí games such as 100 and Tractor can also be used in Looking for Friends and vice versa. Here are some specific variants of Looking for Friends that have been reported.
+En général, n'importe laquelle des variantes trouvées dans d'autres jeux Shēng Jí tels que 100 et Tractor peut aussi être utilisée dans Chercher des amis et vice versa. Voici quelques variantes spécifiques de Chercher des amis qui ont été signalées.
 
-### Deal
+### Donne
 
-For the first deal, the player who draws the first card is chosen by some random method. For example a player cuts the deck, shows the cut card and counts off that many places around the table, moving anticlockwise. In subsequent deals the turn to draw the first card passes to the right.
+Pour la première donne, le joueur qui tire la première carte est choisi par une méthode aléatoire. Par exemple, un joueur coupe le jeu, montre la carte coupée et compte ce nombre de places autour de la table, dans le sens antihoraire. Pour les donnes suivantes, le tour de tirer la première carte passe à droite.
 
-### Number of Cards and Size of Kitty
+### Nombre de cartes et taille du talon
 
-While some players adjust the number of Jokers in the game to ensure that the kitty always consists of 6 cards, others always include one red and one black joker per deck and allow the size of the kitty to vary, keeping it as close to six cards as possible. For example with 5 players and two decks you can play with 4 Jokers and a kitty of 8 cards or remove the black Jokers and a have kitty of 6 cards. 7 players can play with three decks plus Jokers (162 cards): each player takes 22 cards and there are 8 cards in the kitty.
+Alors que certains joueurs ajustent le nombre de jokers dans le jeu pour s'assurer que le talon fait toujours 6 cartes, d'autres incluent toujours un joker rouge et un joker noir par jeu et laissent la taille du talon varier, en la gardant aussi proche que possible de six cartes. Par exemple, avec 5 joueurs et deux jeux, on peut jouer avec 4 jokers et un talon de 8 cartes, ou retirer les jokers noirs et avoir un talon de 6 cartes. 7 joueurs peuvent jouer avec trois jeux plus les jokers (162 cartes) : chaque joueur prend 22 cartes et il y a 8 cartes dans le talon.
 
-### Active and Passive Scores
+### Scores actifs et passifs
 
-When I first learned this game, players not only had levels but also were either **active** or **passive** as in other Shēng Jí games such as 100 and Tractor. In this version everyone begins as active on level two, but from the second deal onwards only the players who won the previous hand are active while the losers are passive, and **only active players are allowed to make trumps**. 
+Quand j'ai appris ce jeu pour la première fois, les joueurs n'avaient pas seulement des niveaux mais étaient aussi **actifs** ou **passifs** comme dans d'autres jeux Shēng Jí tels que 100 et Tractor. Dans cette version, tout le monde commence en actif au niveau deux, mais à partir de la deuxième donne, seuls les joueurs qui ont gagné la main précédente sont actifs tandis que les perdants sont passifs, et **seuls les joueurs actifs sont autorisés à déterminer l'atout**.
 
-I am told that the simpler method of scoring where each player just has a level and anyone can make trumps is now more widespread, so I have revised this page to describe that version first. For those who still prefer the older form of scoring with active and passive players, the details are as follows.
+On m'a dit que la méthode de comptage plus simple où chaque joueur a simplement un niveau et n'importe qui peut déterminer l'atout est maintenant plus répandue, donc j'ai révisé cette page pour décrire cette version en premier. Pour ceux qui préfèrent encore l'ancienne forme de comptage avec des joueurs actifs et passifs, les détails sont les suivants.
 
-The defenders win if their card point total is at least 40 times the number of packs of cards being used; otherwise the trump makers win. There is no middle zone in which neither side wins.
+Les défenseurs gagnent si leur total de points de carte est au moins 40 fois le nombre de jeux de cartes utilisés ; sinon, les créateurs d'atout gagnent. Il n'y a pas de zone intermédiaire où aucun camp ne gagne.
 
-The size of the win is given in game points, which are applied in the following way:
+L'importance de la victoire est donnée en points de jeu, qui sont appliqués de la manière suivante :
 
-- Players on the winning side who are already active remain active and their score increases by the number of points won. 
+- Les joueurs du côté gagnant qui sont déjà actifs restent actifs et leur score augmente du nombre de points gagnés.
 
-- Players on the winning side who were passive become active. The first point won simply turns them from passive to active without changing their score; any further points are added to their score. 
+- Les joueurs du côté gagnant qui étaient passifs deviennent actifs. Le premier point gagné les fait simplement passer de passif à actif sans changer leur score ; tout point supplémentaire est ajouté à leur score.
 
-- All players on the losing side become passive, and their scores do not change. 
+- Tous les joueurs du côté perdant deviennent passifs et leur score ne change pas.
 
-For example a player on 'active 5' who wins two game points is promoted to 'active 7', but a player on 'passive 5' who wins two game points is only promoted to 'active 6'. If a player on 'passive 5' wins one game point, their score simply becomes 'active 5'.
+Par exemple, un joueur en « actif 5 » qui gagne deux points de jeu est promu en « actif 7 », mais un joueur en « passif 5 » qui gagne deux points de jeu n'est promu qu'en « actif 6 ». Si un joueur en « passif 5 » gagne un point de jeu, son score devient simplement « actif 5 ».
 
-Normally the members of the winning team are awarded just one game point, but it is possible to win more than one point in the following ways:
+Normalement, les membres de l'équipe gagnante ne reçoivent qu'un point de jeu, mais il est possible de gagner plus d'un point des manières suivantes :
 
-- If the defenders' card point total is at least 80 times the number of packs in play, they get two game points.
+- Si le total de points de carte des défenseurs est au moins 80 fois le nombre de jeux en jeu, ils obtiennent deux points de jeu.
 
-- If the defenders' card point total is at least 100 times the number of packs in play, they win three game points (although the basic value of the cards in each pack is only 100 points, it is sometimes possible to take more than 100 per pack because the points in the trump maker's discard are doubled).
+- Si le total de points de carte des défenseurs est au moins 100 fois le nombre de jeux en jeu, ils gagnent trois points de jeu (bien que la valeur de base des cartes dans chaque jeu ne soit que de 100 points, il est parfois possible de prendre plus de 100 par jeu car les points dans l'écart du créateur d'atout sont doublés).
 
-- If the trump makers win with fewer than the maximum number of players in their team, they get an extra game point for each player below the maximum.
+- Si les créateurs d'atout gagnent avec moins du nombre maximum de joueurs dans leur équipe, ils obtiennent un point de jeu supplémentaire pour chaque joueur en dessous du maximum.
 
-- If the defenders take no card points at all, the trump makers score two game points, and if they do not have the maximum sized team they score an additional two game points for each team member short of the maximum.
+- Si les défenseurs ne prennent aucun point de carte, les créateurs d'atout marquent deux points de jeu, et s'ils n'ont pas la taille maximale d'équipe, ils marquent deux points de jeu supplémentaires pour chaque membre d'équipe en dessous du maximum.
 
-**Example of scoring:**
+**Exemple de comptage :**
 
-| | A | B | C | D | E | F |
-| Start of game: | active 2 | active 2 | active 2 | active 2 | active 2 | active 2 |
-| B, D and E win 1 point: | passive 2 | active 3 | passive 2 | active 3 | active 3 | passive 2 |
-| A, B and C win 1 point: | active 2 | active 4 | active 2 | passive 3 | passive 3 | passive 2 |
-| C, D and F win 2 points: | passive 2 | passive 4 | active 4 | active 4 | passive 3 | active 3 |
+|  | A | B | C | D | E | F |
+| Début du jeu : | actif 2 | actif 2 | actif 2 | actif 2 | actif 2 | actif 2 |
+| B, D et E gagnent 1 point : | passif 2 | actif 3 | passif 2 | actif 3 | actif 3 | passif 2 |
+| A, B et C gagnent 1 point : | actif 2 | actif 4 | actif 2 | passif 3 | passif 3 | passif 2 |
+| C, D et F gagnent 2 points : | passif 2 | passif 4 | actif 4 | actif 4 | passif 3 | actif 3 |
 
-In the case where no one makes trumps, for the new deal all the players become active, but their levels remain the same (so for example a player who was passive seven becomes active seven).
+Dans le cas où personne ne détermine l'atout, pour la nouvelle donne tous les joueurs deviennent actifs, mais leurs niveaux restent les mêmes (ainsi, par exemple, un joueur qui était passif sept devient actif sept).
 
-### Making trumps
+### Détermination de l'atout
 
-The first description of this game that I saw, provided by Jin Li, did not mention the possibility of changing the trump suit by exposing more than one card. The implication was that the initial choice of trumps by exposing the first card was final, but this could have been an oversight.
+La première description de ce jeu que j'ai vue, fournie par Jin Li, ne mentionnait pas la possibilité de changer la couleur d'atout en exposant plus d'une carte. L'implication était que le choix initial de l'atout en exposant la première carte était définitif, mais cela a pu être un oubli.
 
-Some allow any player to make trumps by exposing a card of any rank corresponding to an active player. For example if the winners of the last hand are on levels 4, 4 and 6, anyone can expose a 4 or a 6 to set the trump suit. If the player who exposed the final trump card(s) is not active, or is not on the level corresponding to the rank exposed, then the next player around the table in anticlockwise order who is active at that level becomes the trump maker and takes the kitty.
+Certains permettent à n'importe quel joueur de déterminer l'atout en exposant une carte de n'importe quel rang correspondant à un joueur actif. Par exemple, si les gagnants de la dernière main sont aux niveaux 4, 4 et 6, n'importe qui peut exposer un 4 ou un 6 pour établir la couleur d'atout. Si le joueur qui a exposé la ou les dernières carte(s) d'atout n'est pas actif, ou n'est pas au niveau correspondant au rang exposé, alors le joueur suivant autour de la table dans l'ordre antihoraire qui est actif à ce niveau devient le créateur d'atout et prend le talon.
 
-### Calling
+### Appel
 
-In a two-pack game, some allow a player who holds one copy of the card he or she wishes to call to ask for 'the other' copy of the card rather than specifying the first or the second. This not only avoids the danger that the trump maker might be forced to play the called copy of the card and therefore play alone, but also informs the other player that the trump maker has the other copy of the card that was called.
+Dans un jeu à deux paquets, certains permettent à un joueur qui détient une copie de la carte qu'il souhaite appeler de demander « l'autre » copie de la carte plutôt que de spécifier la première ou la deuxième. Cela évite non seulement le risque que le créateur d'atout soit forcé de jouer la copie appelée de la carte et doive donc jouer seul, mais informe aussi l'autre joueur que le créateur d'atout a l'autre copie de la carte qui a été appelée.
 
-### Play
+### Jeu
 
-Some allow trump suit tractors to continue above the ace. For example with 4's and diamonds as trumps the following would be legal plays:
+Certains permettent aux tracteurs de la couleur d'atout de continuer au-dessus de l'As. Par exemple, avec les 4 et les carreaux comme atouts, les coups suivants seraient légaux :
 
-- **![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)A-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4**. This is a valid tractor because four in a suit other than diamonds is the next rank above ace. 
+- **![diamond](../images/internat/diamond.gif)A-![diamond](../images/internat/diamond.gif)A-![spade](../images/internat/spade.gif)4-![spade](../images/internat/spade.gif)4**. C'est un tracteur valide car le quatre dans une couleur autre que les carreaux est le rang suivant au-dessus de l'As.
 
-- **![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)4-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)4-[black joker]-[black joker]**. These ranks are also adjacent when fours and diamonds are trumps. 
+- **![heart](../images/internat/heart.gif)4-![heart](../images/internat/heart.gif)4-![diamond](../images/internat/diamond.gif)4-![diamond](../images/internat/diamond.gif)4-[joker noir]-[joker noir]**. Ces rangs sont aussi adjacents lorsque les quatre et les carreaux sont des atouts.
 
-- **[black joker]-[black joker]-[red joker]-[red joker]**
+- **[joker noir]-[joker noir]-[joker rouge]-[joker rouge]**
 
-Some play that four equal cards beat a four-card tractor - for example with 4's and diamonds as trumps **![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6** beats **![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)J-![club](../images/internat/club.gif)J**.
+Certains jouent que quatre cartes égales battent un tracteur de quatre cartes — par exemple avec les 4 et les carreaux comme atouts **![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6-![club](../images/internat/club.gif)6** bat **![club](../images/internat/club.gif)D-![club](../images/internat/club.gif)D-![club](../images/internat/club.gif)V-![club](../images/internat/club.gif)V**.
 
-Some play that leading a set of cards or a sequence sets forces other players to follow with subset of the pattern that was led if they cannot play the full pattern. In this version, when a four-card tractor is led, other players must follow with four-card tractors of that suit if possible, failing that two pairs, and failing that one pair and two odd cards. If someone leads a triplet then those who cannot follow with a triplet must play pairs in that suit if they have them. For example if **![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7****-![spade](../images/internat/spade.gif)7** is led and my spades are **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)K, ![spade](../images/internat/spade.gif)K, ![spade](../images/internat/spade.gif)8, ![spade](../images/internat/spade.gif)5**, then I must play my Kings - for example **![spade](../images/internat/spade.gif)K-![spade](../images/internat/spade.gif)K****-![spade](../images/internat/spade.gif)8** - although this cannot win the trick because it is not a triple. Similarly, if someone leads 8-8-8-9-9-9 of a suit then anyone with a four-card tractor in that suit has to play it along with two other cards.
+Certains jouent que mener un ensemble de cartes ou une séquence d'ensembles oblige les autres joueurs à suivre avec un sous-ensemble du motif qui a été mené s'ils ne peuvent pas jouer le motif complet. Dans cette version, lorsqu'un tracteur de quatre cartes est mené, les autres joueurs doivent suivre avec des tracteurs de quatre cartes de cette couleur si possible, sinon deux paires, et sinon une paire et deux cartes impaires. Si quelqu'un mène un triplet, ceux qui ne peuvent pas suivre avec un triplet doivent jouer des paires de cette couleur s'ils en ont. Par exemple, si **![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7-![spade](../images/internat/spade.gif)7** est mené et que vos piques sont **![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)R, ![spade](../images/internat/spade.gif)R, ![spade](../images/internat/spade.gif)8, ![spade](../images/internat/spade.gif)5**, vous devez jouer vos Rois — par exemple **![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)R-![spade](../images/internat/spade.gif)8** — bien que cela ne puisse pas gagner la levée car ce n'est pas un triplet. De même, si quelqu'un mène 8-8-8-9-9-9 d'une couleur, quiconque a un tracteur de quatre cartes dans cette couleur doit le jouer avec deux autres cartes.
 
-When a player attempts to lead a collection of top cards but some part of it can be beaten in suit by another player, instead of requiring the player to lead the beatable cards, some end the play at that point, and the other team automatically wins one point. This penalty seems too mild if the other team was going to win anyway. Maybe a fairer penalty would be to give all the unplayed cards to the oipposing team and score accordingly.
+Lorsqu'un joueur tente de mener un ensemble de cartes supérieures mais qu'une partie peut être battue dans la couleur par un autre joueur, au lieu d'exiger du joueur qu'il mène les cartes battables, certains mettent fin au jeu à ce moment, et l'autre équipe gagne automatiquement un point. Cette pénalité semble trop douce si l'autre équipe allait gagner de toute façon. Une pénalité plus équitable serait de donner toutes les cartes non jouées à l'équipe adverse et de marquer en conséquence.
 
-Some play a lead of top cards must contain the same number of cards of each rank - for example with **Threes** and **Spades** as trumps one could lead **![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)Q** or **![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)K-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)Q-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)10** but not **![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)K-![heart](../images/internat/heart.gif)K**.
+Certains jouent qu'une menée de cartes supérieures doit contenir le même nombre de cartes de chaque rang — par exemple avec les **trois** et les **piques** comme atouts, on pourrait mener **![club](../images/internat/club.gif)A-![club](../images/internat/club.gif)D** ou **![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)R-![diamond](../images/internat/diamond.gif)D-![diamond](../images/internat/diamond.gif)D-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)10** mais pas **![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)R-![heart](../images/internat/heart.gif)R**.
 
-### Scoring
+### Comptage
 
-Rick Heli describes a version of the game in which after the first deal, the trump maker is determined by the result of the previous deal. In the 5-player game, if the trump maker's team wins, the new trump maker is the previous trump maker's partner. *[Presumably in a game with 6 or more players where the trump maker has more than one partner, the new trump maker will be the partner nearest to the right of the previous trump maker.]* If the trump maker's team loses, the new trump maker is the defender nearest to the old trump maker in anticlockwise order. In this variant only cards whose rank is equal to the trump maker's level can be revealed during the deal. Anyone can reveal such a card (and subsequenly a pair of identical cards and so on) to set the trump suit, but whoever sets the trump suit, it is the pre-determined trump maker who takes the kitty, discards and leads to the first trick. If no one reveals a card of the trump rank during the deal, the cards of the kitty are turned until a card of that rank is found and its suit becomes trump. If there is no such card in the kitty, then the highest card in the kitty (other than a Joker) determines the trump suit. If there is a tie for highest the suit of the first of the equal highest cards becomes trump.
+Rick Heli décrit une version du jeu dans laquelle après la première donne, le créateur d'atout est déterminé par le résultat de la donne précédente. Dans le jeu à 5 joueurs, si l'équipe du créateur d'atout gagne, le nouveau créateur d'atout est le partenaire du créateur d'atout précédent. *[Presumably, dans un jeu à 6 joueurs ou plus où le créateur d'atout a plus d'un partenaire, le nouveau créateur d'atout sera le partenaire le plus proche à la droite du créateur d'atout précédent.]* Si l'équipe du créateur d'atout perd, le nouveau créateur d'atout est le défenseur le plus proche de l'ancien créateur d'atout dans l'ordre antihoraire. Dans cette variante, seules les cartes dont le rang est égal au niveau du créateur d'atout peuvent être révélées pendant la donne. N'importe qui peut révéler une telle carte (et ensuite une paire de cartes identiques, etc.) pour établir la couleur d'atout, mais celui qui établit la couleur d'atout, c'est le créateur d'atout prédéterminé qui prend le talon, écarte et mène la première levée. Si personne ne révèle de carte du rang d'atout pendant la donne, les cartes du talon sont retournées jusqu'à ce qu'une carte de ce rang soit trouvée et que sa couleur devienne l'atout. S'il n'y a pas de telle carte dans le talon, alors la carte la plus élevée dans le talon (autre qu'un joker) détermine la couleur d'atout. S'il y a égalité pour la plus haute, la couleur de la première des cartes égales les plus hautes devient l'atout.
 
-This version of the game does not end when a player's level goes above Ace. Beyond Ace the next level is Joker (there is only one Joker level) and after that the player returns to Two. When the level is Joker there is no trump suit or rank and no exposing of cards during the deal. The Jokers are the only trumps. The levels above Joker are written as 2+, 3+, etc. (or 2*, 3*, etc.) on the score sheet to indicate that the player has gone above Joker and is on the second lap of scores. After Joker+, players continue to 2++ and so on, and the game continues for as long as the players wish or until a previously agreed deadline.
+Cette version du jeu ne se termine pas lorsque le niveau d'un joueur dépasse l'As. Au-delà de l'As, le niveau suivant est Joker (il n'y a qu'un seul niveau Joker) et après cela, le joueur revient à Deux. Lorsque le niveau est Joker, il n'y a pas de couleur d'atout ni de rang d'atout et pas d'exposition de cartes pendant la donne. Les jokers sont les seuls atouts. Les niveaux au-dessus de Joker sont écrits 2+, 3+, etc. (ou 2*, 3*, etc.) sur la feuille de score pour indiquer que le joueur est allé au-dessus de Joker et est au deuxième tour de scores. Après Joker+, les joueurs continuent à 2++ et ainsi de suite, et le jeu continue aussi longtemps que les joueurs le souhaitent ou jusqu'à une date limite convenue d'avance.
 
-Since levels 10 and K are particularly challenging to play, because the trump rank cards are also scoring cards, some omit levels 2-9 after the first lap so that the score progresses from Joker direct to 10+, then J+, Q+, K+, A+, Joker+, 10++, etc.
+Puisque les niveaux 10 et R sont particulièrement difficiles à jouer, car les cartes du rang d'atout sont aussi des cartes de score, certains omettent les niveaux 2-9 après le premier tour pour que le score progresse de Joker directement à 10+, puis V+, D+, R+, A+, Joker+, 10++, etc.
 
-Rick Heli also reports two alternative methods of dealing with a false lead of top cards of a suit. As usual a player who has a card or combination that can beat one of the components of the lead must expose it, but in these versions this ends the play, and according to prior agreement either:
+Rick Heli rapporte également deux méthodes alternatives pour traiter une fausse menée de cartes supérieures d'une couleur. Comme d'habitude, un joueur qui a une carte ou une combinaison qui peut battre l'un des composants de la menée doit l'exposer, mais dans ces versions, cela met fin au jeu, et selon un accord préalable, soit :
 
-- the offending team loses the hand and each member of the other team goes up one level, or
+- l'équipe en infraction perd la main et chaque membre de l'autre équipe monte d'un niveau, ou
 
-- the offending player is given a two point penalty and each other member of the offender's team a one point penalty. These penalties are written as -2 and -1 beside the relevant players' scores, which are deducted from their scores on future deals, one penalty point for each point scored, preventing them from going up to the next level until all their penalty points are paid off.
+- le joueur en infraction reçoit une pénalité de deux points et chaque autre membre de l'équipe du contrevenant une pénalité d'un point. Ces pénalités sont écrites -2 et -1 à côté des scores des joueurs concernés, et sont déduites de leurs scores lors des prochaines donnes, un point de pénalité pour chaque point marqué, les empêchant de monter au niveau suivant jusqu'à ce que tous leurs points de pénalité soient payés.
 
-Both these methods have the unsatisfactory feature that when a team is expecting to lose badly, it might be in a player's interest to lead a false set of top cards **deliberately**, because the penalty would cost less than the team was likely to lose if the play were completed. The tactic of deliberately making a false lead is considered unethical. However, it seems fairer to avoid this temptation altogether by requiring the play to continue after the leader has withdrawn all except the beatable cards, in addition to imposing whatever penalty is agreed upon.
-
-Home Page > Classified Index > Trick Taking Games > King-Ten-Five group > Zhăo Péngyou
+Ces deux méthodes présentent le défaut suivant : lorsqu'une équipe s'attend à perdre lourdement, il peut être dans l'intérêt d'un joueur de mener sciemment un faux ensemble de cartes supérieures **délibérément**, car la pénalité coûterait moins que ce que l'équipe risquerait de perdre si le jeu était mené à terme. La tactique de faire délibérément une fausse menée est considérée comme non éthique. Cependant, il semble plus équitable d'éviter cette tentation complètement en exigeant que le jeu continue après que le meneur a retiré toutes les cartes sauf celles qui sont battables, en plus d'imposer la pénalité convenue.

@@ -2,115 +2,113 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for the Italian card game Bestia, in which the pool is divided in proportion to tricks won, while any player who takes no trick must pay into the pool.
+**But :** Règles du jeu de cartes italien Bestia, dans lequel le pot est divisé proportionnellement aux levées gagnées, tandis que tout joueur qui ne prend aucune levée doit payer dans le pot.
 
 ---
 
 ## Introduction
 
-**Bestia** is an Italian game of the Rams group. Five tricks are played and the winner of each wins one fifth of the pool while anyone who takes no tricks at all must pay into the pool for the next deal. There are many variants of this game. On this page I first describe a version played near Rome, which was explained to me by Paolo Ronzoni. In the variations section I have included some other versions of the game described in various books and web sites.
+**Bestia** est un jeu italien du groupe Rams. Cinq levées sont jouées et le gagnant de chacune gagne un cinquième du pot, tandis que quiconque ne prend aucune levée doit payer dans le pot pour la distribution suivante. Il existe de nombreuses variantes de ce jeu. Sur cette page, je décris d'abord une version jouée près de Rome, qui m'a été expliquée par Paolo Ronzoni. Dans la section des variantes, j'ai inclus d'autres versions du jeu décrites dans divers livres et sites web.
 
-## Players and Cards
+## Joueurs et cartes
 
-This is a game for 4 to 6 players, each playing for themselves. Deal, bidding and play are anticlockwise. 
+C'est un jeu pour 4 à 6 joueurs, chacun jouant pour soi-même. La distribution, les enchères et le jeu se font dans le sens antihoraire.
 
-This game is usually played for stakes. Before beginning the players should agree the amount of the ante, which each player normally pays to the pool before each deal, and what additional amount (if any) must be paid by players who stay in the game rather than folding. The pool in this game is called *“la bestia”* (the beast).
+Ce jeu se joue généralement pour des mises. Avant de commencer, les joueurs doivent se mettre d'accord sur le montant de l'ante, que chaque joueur paie normalement dans le pot avant chaque distribution, et sur le montant supplémentaire (le cas échéant) que doivent payer les joueurs qui restent dans le jeu plutôt que de se coucher. Le pot dans ce jeu est appelé *« la bestia »* (la bête).
 
-An Italian 40-card pack is used, with either Latin or French suits. With latin suits, the rank of the cards from high to low is: Ace, 3, King (Re), Horse (Cavallo), Jack (Fante), 7, 6, 5, 4, 2. If French suited cards are used, the Queen (Donna) replaces the Horse.
+Un jeu italien de 40 cartes est utilisé, avec des couleurs latines ou françaises. Avec les couleurs latines, le rang des cartes de la plus forte à la plus faible est : As, 3, Roi (Re), Cavalier (Cavallo), Valet (Fante), 7, 6, 5, 4, 2. Si des cartes à couleurs françaises sont utilisées, la Dame (Donna) remplace le Cavalier.
 
-The position of the 3 as second highest card between the Ace and King may seem strange to players who are not used to Mediterranean card games. For Italian players, however, it is natural to use this order, which is the same as in the popular Italian game Briscola.
+La position du 3 comme deuxième carte la plus forte entre l'As et le Roi peut sembler étrange aux joueurs qui ne sont pas habitués aux jeux de cartes méditerranéens. Pour les joueurs italiens, cependant, il est naturel d'utiliser cet ordre, qui est le même que dans le jeu italien populaire Briscola.
 
-## Deal and Card Exchange
+## Distribution et échange de cartes
 
-Before the deal, each player pays the agreed stake to the pool. 
+Avant la distribution, chaque joueur paie la mise convenue dans le pot.
 
-The dealer is chosen at random for the first deal. Subsequently the turn to deal passes to the right. The dealer shuffles, the player to dealer's left cuts, and the dealer five cards to each player in a single batch, the player to dealer's right receiving the first five cards. After the five cards dealt to the dealer, the next card is turned face up to indicate the trump suit and the remaining cards are stacked face down on the table.
+Le donneur est choisi au hasard pour la première distribution. Ensuite, le tour de distribution passe à droite. Le donneur mélange, le joueur à la gauche du donneur coupe, et le donneur distribue cinq cartes à chaque joueur en une seule fois, le joueur à la droite du donneur recevant les cinq premières cartes. Après les cinq cartes distribuées au donneur, la carte suivante est retournée face ouverte pour indiquer la couleur d'atout et les cartes restantes sont empilées face cachée sur la table.
 
-Having looked at their cards, the players act in anticlockwise order around the table, beginning with the player to dealer's right. The possible actions are as follows:
+Ayant regardé leurs cartes, les joueurs agissent dans l'ordre antihoraire autour de la table, en commençant par le joueur à la droite du donneur. Les actions possibles sont les suivantes :
 
-- **Fold.** The player places his cards face down on the table. This action means that he does not wish to play. A player who has folded cannot win any part of the pool, but is safe from having to pay to the pool.
+- **Se coucher.** Le joueur pose ses cartes face cachée sur la table. Cette action signifie qu'il ne souhaite pas jouer. Un joueur qui s'est couché ne peut gagner aucune partie du pot, mais est à l'abri de devoir payer dans le pot.
 
-- **Play.** The player says *"gioco"* (I play) and discards from 0 to 5 cards, placing them face down on the table. The dealer gives the player an equal number of new cards from the undealt part of the deck in exchange. If the deck runs out, the dealer shuffles all the discarded cards to make a new deck, and continues giving replacement cards from this new deck.
+- **Jouer.** Le joueur dit *« gioco »* (je joue) et défausse de 0 à 5 cartes, en les posant face cachée sur la table. Le donneur lui donne un nombre égal de nouvelles cartes en échange, prélevées sur la partie non distribuée du jeu. Si le jeu est épuisé, le donneur mélange toutes les cartes défaussées pour constituer un nouveau jeu et continue à donner des cartes de remplacement.
 
-- **Knock.** When a player knocks on the table, no further exchanges are possible and play begins. The knocker (*il bussante*) does not exchange any cards on that turn. Note that if a player knocks at his first turn, anyone who has not yet had a turn to speak has no chance to fold or exchange: they are forced to play with the cards they were dealt.
+- **Frapper.** Lorsqu'un joueur frappe sur la table, aucun autre échange n'est possible et le jeu commence. Le frappeur (*il bussante*) n'échange aucune carte à ce tour. Notez que si un joueur frappe à son premier tour, tous ceux qui n'ont pas encore eu l'occasion de parler n'ont aucune chance de se coucher ou d'échanger : ils sont forcés de jouer avec les cartes qui leur ont été distribuées.
 
-- **'Terzo se devo'.** This can only be announced at a player's first turn to speak. The player undertakes to be the 'third player if needed'. At this player's next turn to speak, the player must fold if there are already three players in the game. If there are fewer than three players, the *'terzo se devo'* player becomes an ordinary player who may fold, play or knock. If a player knocks, then anyone who has said *'terzo se devo'* and not had a subsequent turn to speak must fold if there are at least three other players and fold otherwise. If several players said 'terzo se devo', then the earliest in turn after the knocker must play until there are three players, and the remainder must fold.
+- **« Terzo se devo ».** Cela ne peut être annoncé qu'au premier tour de parole d'un joueur. Le joueur s'engage à être le « troisième joueur si nécessaire ». Au prochain tour de parole de ce joueur, il doit se coucher s'il y a déjà trois joueurs dans le jeu. S'il y a moins de trois joueurs, le joueur « terzo se devo » devient un joueur ordinaire qui peut se coucher, jouer ou frapper. Si un joueur frappe, alors tous ceux qui ont dit « terzo se devo » et n'ont pas eu de tour de parole ultérieur doivent se coucher s'il y a au moins trois autres joueurs, et se coucher sinon. Si plusieurs joueurs ont dit « terzo se devo », celui qui est le plus proche dans l'ordre après le frappeur doit jouer jusqu'à ce qu'il y ait trois joueurs, et les autres doivent se coucher.
 
-This process continues around the table for as many circuits as necessary (skipping any players who have folded) until someone knocks. At this point all players who have not folded must pay to the pool the agreed additional stake (if any) for playing the game.
+Ce processus continue autour de la table pendant autant de circuits que nécessaire (en sautant les joueurs qui se sont couchés) jusqu'à ce que quelqu'un frappe. À ce moment, tous les joueurs qui ne se sont pas couchés doivent payer dans le pot la mise supplémentaire convenue (le cas échéant) pour jouer la partie.
 
-**Notes:**
+**Notes :**
 
-- Playing and exchanging 0 cards is not the same as knocking. If you just exchange 0 cards you allow the other players to continue exchanging.
+- Jouer et échanger 0 carte n'est pas la même chose que frapper. Si vous échangez simplement 0 carte, vous permettez aux autres joueurs de continuer à échanger.
 
-- The *terzo se devo* option is used by a player who would be happy to fold if there enough players, but wishes to join in if there are not more than two other players, to prevent these players from sharing the pool between them.
+- L'option « terzo se devo » est utilisée par un joueur qui serait heureux de se coucher s'il y a assez de joueurs, mais qui souhaite rejoindre le jeu s'il n'y a pas plus de deux autres joueurs, pour empêcher ces joueurs de partager le pot entre eux.
 
-## Play
+## Jeu
 
-The knocker leads to the first trick. Any card may be led and the other players must always follow suit if they can. Players must also head the trick if they can. This means that if the trick has not been trumped, a player who can follow suit must play a higher card of that suit than any that are in the trick if possible. A player who has no card of the suit led must if possible play a trump that is high enough to beat all trumps that have already been played to the trick. A player who cannot follow suit and has no trumps, or none big enough to beat the highest trump in the trick, may play any card. The player of the highest trump, or if no trumps are played the highest card of the suit led, wins the trick and leads to the next.
+Le frappeur entame la première levée. N'importe quelle carte peut être entamée et les autres joueurs doivent toujours suivre la couleur s'ils le peuvent. Les joueurs doivent également prendre la tête de la levée s'ils le peuvent. Cela signifie que si la levée n'a pas été coupée, un joueur qui peut suivre doit jouer une carte plus élevée de cette couleur que n'importe quelle carte déjà présente dans la levée si possible. Un joueur qui n'a pas de carte de la couleur entamée doit, si possible, jouer un atout suffisamment élevé pour battre tous les atouts déjà joués dans la levée. Un joueur qui ne peut pas suivre et n'a pas d'atout, ou pas d'atout assez élevé pour battre l'atout le plus élevé de la levée, peut jouer n'importe quelle carte. Le joueur de l'atout le plus élevé, ou s'il n'y a pas d'atout joué la carte la plus élevée de la couleur entamée, gagne la levée et entame la suivante.
 
-## Payments
+## Paiements
 
-The pool is divided between the players according to the number of tricks they win. Each player receives 1/5 of the pool for each trick won. 
+Le pot est divisé entre les joueurs selon le nombre de levées qu'ils gagnent. Chaque joueur reçoit 1/5 du pot pour chaque levée gagnée.
 
-Players who play and win zero tricks are *“andati in bestia*” (angry). They receive nothing, **and** they must each pay a stake equal to whole contents of the pool. These stakes go into the pool for the next deal.
+Les joueurs qui jouent et ne gagnent aucune levée sont « andati in bestia » (en colère). Ils ne reçoivent rien, **et** doivent chacun payer une mise égale au contenu total du pot. Ces mises vont dans le pot pour la distribution suivante.
 
-Some special rules apply to the knocker.
+Certaines règles spéciales s'appliquent au frappeur.
 
-- If the knocker wins zero tricks, he must pay a stake equal to one and a half times the contents of the pool towards the pool for the next deal.
+- Si le frappeur ne gagne aucune levée, il doit payer une mise égale à une fois et demie le contenu du pot pour le pot de la distribution suivante.
 
-- If the knocker wins more tricks and any one other player, the knocker only has to pay half the normal stake to the pool at the start of the next deal.
+- Si le frappeur gagne plus de levées que n'importe quel autre joueur, il ne doit payer que la moitié de la mise normale dans le pot au début de la distribution suivante.
 
-The game ends when all the players have been dealer, or when a majority of the players want to end it.
+Le jeu se termine lorsque tous les joueurs ont été donneurs, ou lorsqu'une majorité des joueurs souhaite y mettre fin.
 
-## Variations
+## Variantes
 
-To add variety to the game, some deals may be played under different rules. Sometimes the dealer will propose a variant, and if most of the players agree, it is adopted for that deal. It would of course be possible to play a series of deals or a whole session under any of these rules.
+Pour varier le jeu, certaines distributions peuvent être jouées selon des règles différentes. Parfois le donneur proposera une variante, et si la plupart des joueurs sont d'accord, elle est adoptée pour cette distribution. Il serait bien sûr possible de jouer une série de distributions ou une session entière selon l'une de ces règles.
 
-Briscola rubata (stolen trump): 
-After the deal but before looking at his cards, the dealer can take the turned up trump card and add it to his hand. He then discards a card of his choice face down. In this case the dealer is not allowed to fold and cannot exchange any other cards. The other players have the opportunity to exchange cards or fold as usual. If none of them knocks, they will each get at least one opportunity to exchange, because the dealer is the last to speak and cannot knock until it is his turn.
-Mano a fidarsi (trust hand):
-The trump card is not revealed until the end of the exchange phase. Some players don’t permit any cards to be exchanged in this variant - if you don't wish to play with the cards you are dealt your only option is to fold.
-A perdere (negative) 
-The determination of trumps and the card exchange process work as usual, but the player who takes the **fewest** tricks wins the pool. Often it is agreed that this game should be played for only a part of the pool. If two or more players tie for fewest tricks they split (the agreed portion of) the pool equally between them. The knocker fails if he takes **more** tricks than any other player. In this case he must pay the agreed amount into the pool, replacing the total amount taken out of the pool by the player(s) with fewest tricks, as well as paying 1.5 times the normal stake for the next deal.
-Giro a tre carte (three card hand) 
-Instead of five cards, only 3 cards are dealt to each player. The exchanging, knocking, play and payments work the same way as in the five-card game.
-Three-card hands without folding
-When there are five or six players, this variant may be played for a few deals at the start of the session, to build up the pool more quickly. Everyone pays an equal stake to the pool. Three cards each are dealt, and the trump is turned as usual. There is no exchanging, folding or knocking. The player to the right of the dealer leads and the cards are played. If anyone takes two tricks, they retrieve their stake for that deal from the pool. No one else takes anything from the pool, and the stakes for the next deal are added to it.
+Briscola rubata (atout volé) :
+Après la distribution mais avant de regarder ses cartes, le donneur peut prendre la carte d'atout retournée et l'ajouter à sa main. Il défausse ensuite une carte de son choix face cachée. Dans ce cas, le donneur n'est pas autorisé à se coucher et ne peut échanger aucune autre carte. Les autres joueurs ont la possibilité d'échanger des cartes ou de se coucher comme d'habitude. Si aucun d'eux ne frappe, chacun aura au moins une opportunité d'échanger, car le donneur est le dernier à parler et ne peut pas frapper avant son tour.
+Mano a fidarsi (main de confiance) :
+La carte d'atout n'est pas révélée avant la fin de la phase d'échange. Certains joueurs ne permettent aucun échange de cartes dans cette variante — si vous ne souhaitez pas jouer avec les cartes qui vous ont été distribuées, votre seule option est de vous coucher.
+A perdere (négatif)
+La détermination des atouts et le processus d'échange fonctionnent comme d'habitude, mais le joueur qui prend le **moins** de levées gagne le pot. Il est souvent convenu que cette partie ne se joue que pour une partie du pot. Si deux joueurs ou plus sont à égalité pour le moins de levées, ils se partagent (la portion convenue du) pot à parts égales. Le frappeur échoue s'il prend **plus** de levées que n'importe quel autre joueur. Dans ce cas, il doit payer le montant convenu dans le pot, en remplaçant le montant total retiré du pot par le ou les joueur(s) ayant le moins de levées, ainsi que payer 1,5 fois la mise normale pour la distribution suivante.
+Giro a tre carte (main de trois cartes)
+Au lieu de cinq cartes, seules 3 cartes sont distribuées à chaque joueur. L'échange, les frappes, le jeu et les paiements fonctionnent de la même manière que dans le jeu à cinq cartes.
+Mains de trois cartes sans coucher
+Quand il y a cinq ou six joueurs, cette variante peut être jouée pour quelques distributions au début de la session, pour constituer le pot plus rapidement. Chacun paie une mise égale dans le pot. Trois cartes chacun sont distribuées, et l'atout est retourné comme d'habitude. Il n'y a pas d'échange, de coucher ou de frappe. Le joueur à la droite du donneur entame et les cartes sont jouées. Si quelqu'un gagne deux levées, il récupère sa mise pour cette distribution dans le pot. Personne d'autre ne prend rien dans le pot, et les mises pour la distribution suivante y sont ajoutées.
 Terzo obligatorio
-In this variant there must be **at least** three players in each deal, so when only three players remain folding is no longer an option.
+Dans cette variante, il doit y avoir **au moins** trois joueurs dans chaque distribution, donc quand il ne reste que trois joueurs, se coucher n'est plus une option.
 
-### Single round of knocking
+### Tour unique de frappe
 
-Bestia is often played in such a way that each player has just one opportunity to play or fold and one opportunity to exchange cards. It is convenient if there are five players, because then the amount in the pool is guaranteed always to be divisible by five whatever the basic stake, but there is nothing to prevent 4 or 6 people playing by the same rules if the basic stake is divisible by 5.
+Bestia est souvent joué de manière que chaque joueur n'a qu'une seule occasion de jouer ou se coucher et une seule occasion d'échanger des cartes. C'est pratique s'il y a cinq joueurs, car le montant dans le pot est alors garanti divisible par cinq quelle que soit la mise de base, mais rien n'empêche 4 ou 6 personnes de jouer selon les mêmes règles si la mise de base est divisible par 5.
 
-After each player has paid a stake to the pool, the dealer deals one card face up to determine the trump suit, then a batch of five cards to each of the other players, and four cards to himself. These four cards together with the turned up trump make up the dealer's hand.
+Après que chaque joueur a payé une mise dans le pot, le donneur distribue une carte face ouverte pour déterminer la couleur d'atout, puis un paquet de cinq cartes à chacun des autres joueurs, et quatre cartes à lui-même. Ces quatre cartes avec la carte d'atout retournée forment la main du donneur.
 
-Beginning with the player to dealer's right and going round the table anticlockwise, ending with the dealer, each player decides whether to play (which may be indicated by knocking on the table) or fold (which may be indicated by throwing away one's cards). A player who chooses to play may immediately discard up to four cards (but not all five) and is dealt an equal number of replacement cards from the pack. If the pack runs out of cards, the cards discarded by previous players are shuffled to make a new pack. After the exchange it is the next player's turn to decide whether to play or fold.
+En commençant par le joueur à la droite du donneur et en faisant le tour de la table dans le sens antihoraire, en terminant par le donneur, chaque joueur décide de jouer (ce qui peut être indiqué en frappant sur la table) ou de se coucher (ce qui peut être indiqué en jetant ses cartes). Un joueur qui choisit de jouer peut immédiatement défausser jusqu'à quatre cartes (mais pas les cinq) et se faire distribuer un nombre égal de cartes de remplacement. Si le jeu n'a plus de cartes, les cartes défaussées par les joueurs précédents sont mélangées pour former un nouveau jeu. Après l'échange, c'est au joueur suivant de décider de jouer ou de se coucher.
 
-If all players but one fold, that player simply takes the pool. If more than one player plays, the active player nearest to dealer's right leads to the first trick. At the end of the play the players divide the pool between them, taking one fifth of the pool for each trick won. 
+Si tous les joueurs sauf un se couchent, ce joueur prend simplement le pot. Si plus d'un joueur joue, le joueur actif le plus proche de la droite du donneur entame la première levée. À la fin du jeu, les joueurs se partagent le pot, en prenant un cinquième du pot pour chaque levée gagnée.
 
-Any player who plays but takes no tricks must pay an amount equal to the whole pool (this is called *"andare in bestia"*). These payments plus the new stakes added by the players form the pool for the next deal. 
+Tout joueur qui joue mais ne gagne aucune levée doit payer un montant égal au pot entier (cela s'appelle *« andare in bestia »*). Ces paiements plus les nouvelles mises ajoutées par les joueurs forment le pot pour la distribution suivante.
 
-### Further restrictions in the play
+### Restrictions supplémentaires dans le jeu
 
-Some play that if the player leading to the first trick holds the ace of trumps, he must lead it. Some extend this to require that if at any stage the player whose turn it is to lead holds the highest remaining trump, that trump must be led to the trick.
+Certains jouent que si le joueur qui entame la première levée tient l'as d'atout, il doit l'entamer. Certains étendent cela pour exiger que si, à tout moment, le joueur dont c'est le tour d'entamer tient l'atout le plus élevé restant, cet atout doit être entamé dans la levée.
 
-Many play that a player who is unable to follow suit is always obliged to play a trump, even if the trick has already been trumped and the player has no trump high enough to beat the card that is currently winning the trick.
+Beaucoup jouent qu'un joueur qui ne peut pas suivre est toujours obligé de jouer un atout, même si la levée a déjà été coupée et que le joueur n'a pas d'atout assez élevé pour battre la carte qui gagne actuellement la levée.
 
-Some require that when playing a trump, you must announce out lout the card that you are playing. 
+Certains exigent que lorsqu'on joue un atout, on doit annoncer à voix haute la carte que l'on joue.
 
-### One player wins the whole pool
+### Un joueur gagne tout le pot
 
-Some play that pool is not divided. Instead, the player who wins most tricks collects the whole pool. So to win the pool you need 3 tricks, or 2 tricks if no other player takes more than one. If there is a tie for most trick (two players take 2 tricks each or no one takes more than one trick), no one wins the pool and it remains in play for the next deal.
+Certains jouent que le pot n'est pas divisé. Au lieu de cela, le joueur qui gagne le plus de levées collecte tout le pot. Pour gagner le pot, il faut donc 3 levées, ou 2 levées si aucun autre joueur n'en prend plus d'une. S'il y a égalité pour le plus grand nombre de levées (deux joueurs prennent 2 levées chacun ou personne n'en prend plus d'une), personne ne gagne le pot et il reste en jeu pour la distribution suivante.
 
 ### Bestia col Buco
 
-This variant for four or more players is played with three-card hands. It is said to be best for six players. After the players have paid their stakes, the dealer deals one card face up on the table to determine the trump suit, and on top of it at right angles places a packet of three cards face down. These are known as the *buco*. The dealer then deals a batch of three cards to each player, including himself. Beginning to the dealer's right, each player has the option to fold (*"passare"*), to knock (*"bussare"*) indicating that he will play with the three cards he was dealt, or to play *"col buco"*, meaning that he will discard all the cards he was dealt and play with the three cards of the buco instead. A player who looks at the *buco* is obliged to play - he is not allowed to fold however poor the cards in the *buco* may be.
+Cette variante pour quatre joueurs ou plus se joue avec des mains de trois cartes. Elle serait meilleure pour six joueurs. Après que les joueurs ont payé leurs mises, le donneur distribue une carte face ouverte sur la table pour déterminer la couleur d'atout, et par-dessus à angle droit pose un paquet de trois cartes face cachée. C'est ce qu'on appelle le *buco*. Le donneur distribue ensuite un paquet de trois cartes à chaque joueur, y compris lui-même. En commençant à la droite du donneur, chaque joueur a l'option de se coucher (*« passare »*), de frapper (*« bussare »*) indiquant qu'il jouera avec les trois cartes qui lui ont été distribuées, ou de jouer *« col buco »*, signifiant qu'il défaussera toutes les cartes qui lui ont été distribuées et jouera avec les trois cartes du buco à la place. Un joueur qui regarde le *buco* est obligé de jouer — il n'est pas autorisé à se coucher aussi mauvaises que soient les cartes du *buco*.
 
-The play is as usual, the nearest player to dealer's right who has not folded leading to the first trick. Players win a third of the pool for each trick they take. Anyone who plays and takes no tricks must pay an amount equal to the whole pool. 
+Le jeu se déroule comme d'habitude, le joueur le plus proche de la droite du donneur qui ne s'est pas couché entamant la première levée. Les joueurs gagnent un tiers du pot pour chaque levée qu'ils prennent. Quiconque joue et ne prend aucune levée doit payer un montant égal au pot entier.
 
-## Other Bestia Web Pages
+## Autres pages web sur Bestia
 
-The Italian [Wikipedia page on Bestia](https://it.wikipedia.org/wiki/Bestia_(gioco)) covers several variants. 
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Bestia
+La page [Wikipedia italienne sur Bestia](https://it.wikipedia.org/wiki/Bestia_(gioco)) couvre plusieurs variantes.

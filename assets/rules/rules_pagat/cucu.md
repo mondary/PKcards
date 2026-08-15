@@ -2,197 +2,195 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A traditional Italian card exchange game using cuckoo cards, in which the final holder of the lowest card loses a life.
-**Autres noms :** Lu Stù played at Montorio al Vo
+**But :** Un jeu traditionnel italien d'échange de cartes utilisant des cartes coucou, dans lequel le détenteur final de la carte la plus basse perd une vie.
+**Autres noms :** Lu Stù joué à Montorio al Vomano
 
 ---
 
 ## Introduction
 
-Cucù is an Italian game suitable for a large group of players played with a special pack of 40 cards. In principle the rules are very simple. Everyone is dealt one card, and has one opportunity to exchange it with their right-hand neighbour in the hope of getting a better card. After all exchanges the player holding the lowest card loses a life. To add variety to the play, some of the cards have special powers and the interaction of the effects of these cards can lead to more complex results.
+Cucù est un jeu italien adapté à un grand groupe de joueurs joué avec un jeu spécial de 40 cartes. En principe, les règles sont très simples. Chacun reçoit une carte et a une opportunité de l'échanger avec son voisin de droite dans l'espoir d'obtenir une meilleure carte. Après tous les échanges, le joueur détenant la carte la plus basse perd une vie. Pour ajouter de la variété au jeu, certaines cartes ont des pouvoirs spéciaux et l'interaction des effets de ces cartes peut conduire à des résultats plus complexes.
 
-Special cards for Cucù have been made since the early 18th century and the earliest known packs come from Bologna, although similar games using the ordinary 4-suited pack existed earlier than this and continue to be played. 
+Des cartes spéciales pour Cucù ont été fabriquées depuis le début du XVIIIe siècle et les premiers jeux connus proviennent de Bologne, bien que des jeux similaires utilisant le jeu ordinaire à quatre couleurs existaient avant cela et continuent d'être joués.
 
-Over time the special Cucù cards came to be used for other games as well, for example the trick-taking games Cucco and Zifuli, which came to be better known than the original game. Nevertheless a direct descendant of the original Cucù is still played in Campli and Montorio in the province of Teramo, as described in detail in a book by Nicolino Farina: *Cucù Antico Gioco di Carte* (Campli Nostra Notizie, 2010). 
+Au fil du temps, les cartes spéciales de Cucù ont fini par être utilisées pour d'autres jeux aussi, par exemple les jeux de plis Cucco et Zifuli, qui sont devenus plus connus que le jeu original. Néanmoins, un descendant direct du Cucù original est encore joué à Campli et Montorio dans la province de Teramo, comme décrit en détail dans un livre de Nicolino Farina : *Cucù Antico Gioco di Carte* (Campli Nostra Notizie, 2010).
 
-The first game described on this page is the version of Cucù played at Campli according to the rules in published in Nicolino Farina's book. It is clear from the book that there are many local variants of this game. As an example, this page also describes the version known as Lu Stù played at Montorio al Vomano.
+Le premier jeu décrit sur cette page est la version de Cucù jouée à Campli selon les règles publiées dans le livre de Nicolino Farina. Il ressort clairement du livre qu'il existe de nombreuses variantes locales de ce jeu. À titre d'exemple, cette page décrit aussi la version connue sous le nom de Lu Stù jouée à Montorio al Vomano.
 
-## Players and Cards
+## Joueurs et cartes
 
-There can any number of players from 2 to 20 and a full pack of 40 Cucù cards is used. Deal and play are anticlockwise.
+Il peut y avoir de 2 à 20 joueurs et un jeu complet de 40 cartes Cucù est utilisé. La donne et le jeu se font dans le sens antihoraire.
 
-From the highest card, the cuckoo (XV) down to the I the cards are identified by Roman numbers. The top five cards from XV down to XI also have pictures (cuckoo, hunter, horse, cat and inn), names and special powers which will be described later. Below the I comes the nulla (0), followed by the bucket (-1), the mask (-2) and the lion (-3). These low pictures have no special powers. According to Nicolino Farina's book, in Campli the lion card was originally known as '*Cacaccio*' and showed a man defecating, but nowadays the publishers of the cards evidently prefer to show the lion with the coat of arms. Finally there is the Matto (fool), which by itself ranks equal to the lowest card in play. However if two players have Matti, they become high cards as explained below. 
+De la carte la plus haute, le coucou (XV) jusqu'au I, les cartes sont identifiées par des chiffres romains. Les cinq cartes du haut, du XV au XI, ont aussi des images (coucou, chasseur, cheval, chat et auberge), des noms et des pouvoirs spéciaux qui seront décrits plus tard. En dessous du I vient le nulla (0), suivi du seau (-1), du masque (-2) et du lion (-3). Ces images basses n'ont pas de pouvoirs spéciaux. Selon le livre de Nicolino Farina, à Campli, la carte du lion était à l'origine connue sous le nom de « *Cacaccio* » et représentait un homme en train de déféquer, mais aujourd'hui les éditeurs des cartes préfèrent manifestement montrer le lion avec les armoiries. Enfin, il y a le Matto (fou), qui par lui-même est de rang égal à la carte la plus basse en jeu. Cependant, si deux joueurs ont des Matti, ils deviennent des cartes hautes comme expliqué ci-dessous.
 
-![cucù](../images/cucco/CUCCO.gif)![bum](../images/cucco/BRAGON.gif)![salt](../images/cucco/CAVALLO.gif)![gnaf](../images/cucco/GATTO.gif)![taverna](../images/cucco/OSTERIA.gif)![X](../images/cucco/X.gif)![VIIII](../images/cucco/VIIII.gif)![VIII](../images/cucco/VIII.gif)![VII](../images/cucco/VII.gif)![VI](../images/cucco/VI.gif)![V](../images/cucco/V.gif)![IIII](../images/cucco/IIII.gif)![III](../images/cucco/III.gif)![II](../images/cucco/II.gif)![I](../images/cucco/I.gif)![0](../images/cucco/NULLA.gif)![secchia](../images/cucco/SECCHIA.gif)![mascherone](../images/cucco/MASCH.gif)![cacaccio](../images/cucco/BRESCIA.gif)![matto](../images/cucco/MATTO.gif)
+![cucù](../images/cucco/CUCCO.gif)![cul](../images/cucco/BRAGON.gif)![saut](../images/cucco/CAVALLO.gif)![ronron](../images/cucco/GATTO.gif)![taverne](../images/cucco/OSTERIA.gif)![X](../images/cucco/X.gif)![VIIII](../images/cucco/VIIII.gif)![VIII](../images/cucco/VIII.gif)![VII](../images/cucco/VII.gif)![VI](../images/cucco/VI.gif)![V](../images/cucco/V.gif)![IIII](../images/cucco/IIII.gif)![III](../images/cucco/III.gif)![II](../images/cucco/II.gif)![I](../images/cucco/I.gif)![0](../images/cucco/NULLA.gif)![seau](../images/cucco/SECCHIA.gif)![masque](../images/cucco/MASCH.gif)![cacaccio](../images/cucco/BRESCIA.gif)![matto](../images/cucco/MATTO.gif)
 
-## Seating and Stakes
+## Places et mises
 
-At the start of the session seats may be allocated by dealing each player one card face up from a shuffled deck. In order to avoid ties, especially with a large group of players, it may be more convenient to use for this just half a pack (20 cards) containing one card of each rank. The player who receives the highest card is the first dealer, the player with the second highest card sits to the dealer's right, and so on in descending order anticlockwise around the table. So the player who was dealt the lowest card will sit to dealer's left.
+Au début de la session, les places peuvent être attribuées en distribuant à chaque joueur une carte face visible depuis un jeu mélangé. Pour éviter les égalités, surtout avec un grand nombre de joueurs, il peut être plus pratique de n'utiliser pour cela que la moitié du jeu (20 cartes) contenant une carte de chaque rang. Le joueur qui reçoit la carte la plus haute est le premier donneur, le joueur avec la deuxième plus haute carte s'assied à la droite du donneur, et ainsi de suite par ordre décroissant dans le sens antihoraire autour de la table. Ainsi, le joueur qui a reçu la carte la plus basse s'assiéra à la gauche du donneur.
 
-At the start of a game each player pays an agreed stake to the pool and is issued with three tokens. The loser of each hand loses one of their tokens. In some circumstances two or more players may lose a token or a player may lose more than one token. A player who still has their original three tokens is known as a **virgin**.
+Au début d'une partie, chaque joueur paie une mise convenue au pot et reçoit trois jetons. Le perdant de chaque main perd un de ses jetons. Dans certaines circonstances, deux joueurs ou plus peuvent perdre un jeton ou un joueur peut perdre plus d'un jeton. Un joueur qui a encore ses trois jetons originaux est appelé une **vierge**.
 
-The game ends when all but one player is eliminated and the final player collects the pool. A player who has lost all their tokens is eliminated from the game unless they choose re-enter by buying three new tokens. Re-entry is only possible if there is still at least one virgin in the game.
+Le jeu se termine lorsque tous sauf un joueur sont éliminés et que le dernier joueur encaisse le pot. Un joueur qui a perdu tous ses jetons est éliminé du jeu à moins qu'il ne choisisse de réintégrer en achetant trois nouveaux jetons. La réintégration n'est possible que s'il reste au moins une vierge dans le jeu.
 
-If another game is to be played, the winner of the previous game is the new first dealer, and any new players joining the group sit to the left of this dealer. 
+Si une autre partie doit être jouée, le gagnant de la partie précédente est le nouveau premier donneur, et tout nouveau joueur qui rejoint le groupe s'assied à la gauche de ce donneur.
 
-## Dealing and Exchanging
+## Distribution et échanges
 
-The player to dealer's right shuffles the whole 40-card pack and the player to dealer’s left cuts. In this game, cards are dealt from the bottom of the pack. the dealer will deal just one card to each player in turn, starting to the right and going around the table anticlockwise, but after each card is dealt there is a pause for any exchange or other effects to take place, and for the player who was dealt a card to decide what to do. 
+Le joueur à la droite du donneur mélange le jeu complet de 40 cartes et le joueur à la gauche du donneur coupe. Dans ce jeu, les cartes sont distribuées depuis le bas du jeu. Le donneur distribuera une seule carte à chaque joueur à tour de rôle, en commençant par la droite et en allant autour de la table dans le sens antihoraire, mais après chaque carte distribuée, il y a une pause pour tout échange ou autre effet, et pour que le joueur qui vient de recevoir une carte décide de ce qu'il fait.
 
-So the dealer begins by dealing one card face down to the player immediately to his or her right and waiting for this player's decision. The player looks at the card without showing it to the other players and decides between two possibilities:
+Le donneur commence donc par distribuer une carte face cachée au joueur immédiatement à sa droite et attend la décision de ce joueur. Le joueur regarde la carte sans la montrer aux autres joueurs et choisit entre deux possibilités :
 
-- To keep the card, by saying *"sto bene"* (I'm fine).
+- Garder la carte, en disant « *sto bene* » (je vais bien).
 
-- To try to exchange the card with the next player, by saying "*passo*" (I pass).
+- Essayer d'échanger la carte avec le joueur suivant, en disant « *passo* » (je passe).
 
-If the player chooses to keep their card, the dealer deals the next card to the next player - the player to the right of the one who just spoke - and this player has the same two options, to keep the card or try to exchange it.
+Si le joueur choisit de garder sa carte, le donneur distribue la carte suivante au joueur suivant — le joueur à la droite de celui qui vient de parler — et ce joueur a les mêmes deux options, garder la carte ou essayer de l'échanger.
 
-If a player asks to exchange, we will call this player the '**exchanger**' and the next player, who is about to be dealt a card, is the '**target player**' of the exchange. The dealer deals a card to the target player and if this new card is a **X** or lower, the target player **must** pass it face down to the exchanger and receive the exchanger's card face down in its place. The target player now looks at the card received from the exchanger, without showing it, and chooses between the usual two options:
+Si un joueur demande à échanger, nous appellerons ce joueur « l'échangeur » et le joueur suivant, qui est sur le point de recevoir une carte, est le « joueur cible » de l'échange. Le donneur distribue une carte au joueur cible et si cette nouvelle carte est un **X** ou inférieur, le joueur cible **doit** la passer face cachée à l'échangeur et recevoir la carte de l'échangeur face cachée à la place. Le joueur cible regarde alors la carte reçue de l'échangeur, sans la montrer, et choisit entre les deux options habituelles :
 
-- To keep the card received from the exchanger. 
+- Garder la carte reçue de l'échangeur.
 
-- To try to get rid of the card obtained from the exchanger by exchanging it with the next player.
+- Essayer de se débarrasser de la carte obtenue de l'échangeur en l'échangeant avec le joueur suivant.
 
-**Examples**
+**Exemples**
 
-- Player A is dealt a II and since this is a rather low card chooses to pass it. The next player B is dealt a VI and has to give to A, receiving the II in exchange. Player B will probably now opt to pass on the II to the next player C.
+- Le joueur A reçoit un II et, comme c'est une carte plutôt basse, choisit de la passer. Le joueur suivant B reçoit un VI et doit la donner à A, recevant le II en échange. Le joueur B choisira probablement maintenant de passer le II au joueur suivant C.
 
-- Player A is dealt a II and chooses to pass it. The next player B is dealt a bucket (*secchia*), gives it to A, and is happy to receive the II in exchange. In this case B will keep the II, knowing that it is not a losing card because the bucket that A now has is lower. This situation is known as "*passo e arresto*" (pass and stop). Now the next player C will be dealt a fresh card and decide whether to keep it or try to pass it.
+- Le joueur A reçoit un II et choisit de le passer. Le joueur suivant B reçoit un seau (*secchia*), le donne à A, et est heureux de recevoir le II en échange. Dans ce cas, B gardera le II, sachant que ce n'est pas une carte perdante car le seau que A a maintenant est plus bas. Cette situation est connue sous le nom de « *passo e arresto* » (passe et arrête). Maintenant, le joueur suivant C recevra une nouvelle carte et décidera de la garder ou d'essayer de la passer.
 
-The cards **higher than X** - the XI, XII, XIII, XIV and XV - are special cards. If the target player of an exchange is dealt a special card the target player does not give it to the exchanger but announces it as described below, and the effects of the special card take place. This is known as an arrest (*arresto*).
+Les cartes **supérieures au X** — le XI, XII, XIII, XIV et XV — sont des cartes spéciales. Si le joueur cible d'un échange reçoit une carte spéciale, le joueur cible ne la donne pas à l'échangeur mais l'annonce comme décrit ci-dessous, et les effets de la carte spéciale s'appliquent. Cela s'appelle un arrêt (*arresto*).
 
-Note that if the first player is dealt a special card, or if the next player after a player who chooses to keep their card is dealt a special card, there is no special effect since no one has tried to exchange with the special card. The lucky player who was dealt the special card does not make any announcements but usually just keeps the card (since it is a good one), and it is the following player's turn to be dealt a card. 
+Notez que si le premier joueur reçoit une carte spéciale, ou si le joueur suivant après un joueur qui a choisi de garder sa carte reçoit une carte spéciale, il n'y a pas d'effet spécial puisque personne n'a essayé d'échanger avec la carte spéciale. Le joueur chanceux qui a reçu la carte spéciale ne fait aucune annonce mais garde généralement la carte (puisque c'est une bonne carte), et c'est au joueur suivant d'être distribué.
 
-The dealer is the last person who receives a card. If the player to dealer's left asked for an exchange this is resolved in the usual way. The dealer can then either keep the card he or she was dealt or received or can exchange it for the next unknown card from the bottom of the deck. If the dealer exchanges and the card from the deck is a special card it has no effect - the dealer simply takes the card in exchange without arrest or penalty.
+Le donneur est la dernière personne qui reçoit une carte. Si le joueur à la gauche du donneur a demandé un échange, cela se résout de la manière habituelle. Le donneur peut alors soit garder la carte qui lui a été distribuée ou reçue, soit l'échanger contre la prochaine carte inconnue du bas du jeu. Si le donneur échange et que la carte du jeu est une carte spéciale, elle n'a aucun effet — le donneur prend simplement la carte en échange sans arrêt ni pénalité.
 
-Of course no one, including the dealer, is allowed to look at the bottom card of the deck during the cut and deal.
+Personne, y compris le donneur, n'est bien sûr pas autorisé à regarder la carte du bas du jeu pendant la coupe et la distribution.
 
-### Special Cards
+### Cartes spéciales
 
-**XV Cucù** (cuckoo). When a player tries to exchange a card with the XV, the holder of the Cucù shows it and the exchange does not take place. A player who holds a Cucù never loses a token; however the player who tried to exchange with the Cucù does not suffer any special penalty.
+**XV Cucù** (coucou). Lorsqu'un joueur essaie d'échanger une carte avec le XV, le détenteur du Cucù le montre et l'échange n'a pas lieu. Un joueur qui détient un Cucù ne perd jamais un jeton ; cependant, le joueur qui a essayé d'échanger avec le Cucù ne subit aucune pénalité spéciale.
 
-**XIV Bum** or **Tuff** ('bang' - hunter with a gun). If a player tries to exchange with the XIV, the target player shows it and mimes firing a gun at the exchanger. The exchanger keeps their card and immediately loses one token.
+**XIV Bum** ou **Tuff** (« bang » — chasseur avec un fusil). Si un joueur essaie d'échanger avec le XIV, le joueur cible le montre et mime un tir de fusil sur l'échangeur. L'échangeur garde sa carte et perd immédiatement un jeton.
 
-**XIII Salta** or **Cavallo** (horse). If a player tries to exchange with the XIII the target player exposes the card and imitates the neighing or the hooves of a horse. The exchanger must then try to exchange instead with the next player in turn. If the target player holding the horse is the dealer, the dealer keeps the horse and the exchanger receives the top card of the pack in exchange for their card without danger of arrest.
+**XIII Salta** ou **Cavallo** (cheval). Si un joueur essaie d'échanger avec le XIII, le joueur cible expose la carte et imite le hennissement ou les sabots d'un cheval. L'échangeur doit alors essayer d'échanger à la place avec le joueur suivant. Si le joueur cible détenant le cheval est le donneur, le donneur garde le cheval et l'échangeur reçoit la carte supérieure du jeu en échange de sa carte sans danger d'arrêt.
 
-**XII Gnaf** (cat). If holding the XII the target player shows it and imitates the sound or gesture of a cat. The exchanger immediately loses one token. In addition if the exchanger received their card in an exchange from another player, the previous exchanges are now reversed until this card returns to its original owner. If it jumped over a horse it jumps back over the same horse on its return journey.
+**XII Gnaf** (chat). Si le joueur cible détient le XII, il le montre et imite le son ou le geste d'un chat. L'échangeur perd immédiatement un jeton. De plus, si l'échangeur a reçu sa carte lors d'un échange d'un autre joueur, les échanges précédents sont maintenant annulés jusqu'à ce que cette carte revienne à son propriétaire original. Si elle a sauté par-dessus un cheval, elle saute en retour par-dessus le même cheval lors de son voyage de retour.
 
-**XI Taverna** (Inn). When a player tries to exchange with the Taverna the target player (innkeeper) does not show the Taverna but says “*fermatevi aliquanto*” (will you stop for a while?). The exchanger may now either just keep their card or reply “*pagherai se null?*” (will you pay if it’s a zero?). 
+**XI Taverna** (auberge). Lorsqu'un joueur essaie d'échanger avec la Taverna, le joueur cible (aubergiste) ne montre pas la Taverna mais dit « *fermatevi aliquanto* » (vous arrêterez-vous un moment ?). L'échangeur peut alors soit garder sa carte, soit répondre « *pagherai se null?** » (paierez-vous si c'est un zéro ?).
 
-- If the innkeeper agrees, both players keep their cards, and if the player who was trying to exchange has a *nulla* and it loses, the innkeeper has to pay a token in place of the guest. 
+- Si l'aubergiste accepte, les deux joueurs gardent leurs cartes, et si le joueur qui essayait d'échanger a un *nulla* et que cela perd, l'aubergiste doit payer un jeton à la place de l'invité.
 
-- If the innkeeper does not agree, the Taverna has to be exchanged for the exchanger's card, and the former innkeeper can then decide to keep this card or try to pass it on in the usual way.
+- Si l'aubergiste n'accepte pas, la Taverna doit être échangée contre la carte de l'échangeur, et l'ancien aubergiste peut alors décider de garder cette carte ou d'essayer de la passer de la manière habituelle.
 
-### Dead card
+### Carte morte
 
-If a player loses their last token as a result of trying to exchange with a XIV (Bum) or a XII (Gnaf) they cannot lose an additional token when the cards are compared at the end of the play. Therefore a card belonging to a player who has already lost their last token is considered dead ('*carta morta*') - it is not exposed and cannot count as the lowest card.
+Si un joueur perd son dernier jeton en raison d'une tentative d'échange avec un XIV (Bum) ou un XII (Gnaf), il ne peut pas perdre un jeton supplémentaire lorsque les cartes sont comparées à la fin du jeu. Par conséquent, une carte appartenant à un joueur qui a déjà perdu son dernier jeton est considérée comme morte (« *carta morta* ») — elle n'est pas exposée et ne peut pas compter comme la carte la plus basse.
 
 ### Conversation
 
-Players may say anything they wish during the game, hoping to get some idea of what cards the other players hold. No one is obliged to reveal any information or to tell the truth.
+Les joueurs peuvent dire tout ce qu'ils veulent pendant le jeu, en espérant se faire une idée des cartes que les autres joueurs détiennent. Personne n'est tenu de révéler des informations ou de dire la vérité.
 
-## The Result
+## Le Résultat
 
-After everyone has been dealt a card and had a chance to try to exchange it, all players who still have at least one token expose their cards. The holder of the lowest card loses one token. If two players tie for lowest card then they lose one token each. A player who loses their last token is eliminated from the game, unless there is still a virgin in the game and the player without tokens chooses to pay to re-enter, as described below.
+Après que tout le monde a reçu une carte et a eu la chance d'essayer de l'échanger, tous les joueurs qui ont encore au moins un jeton exposent leurs cartes. Le détenteur de la carte la plus basse perd un jeton. Si deux joueurs sont à égalité pour la carte la plus basse, ils perdent chacun un jeton. Un joueur qui perd son dernier jeton est éliminé du jeu, sauf s'il reste encore une vierge dans le jeu et que le joueur sans jetons choisit de payer pour réintégrer, comme décrit ci-dessous.
 
-### The Matto
+### Le Matto
 
-If **one** player has a Matto (fool), it counts as being equal in rank to the **lowest** card(s) in play. Both the owner of the Matto and the owner(s) of the lowest card(s) lose a token. There is one exception: if there are only two or three players in the game, and only cards are a Matto and one or two cuckoos, the player with the Matto loses a token and the cuckoos do not.
+Si **un** joueur a un Matto (fou), il compte comme étant de rang égal à la (aux) carte(s) la plus **basse** en jeu. Le propriétaire du Matto et le(s) propriétaire(s) de la (des) carte(s) la plus basse perdent tous un jeton. Il y a une exception : s'il n'y a que deux ou trois joueurs dans le jeu, et que les seules cartes sont un Matto et un ou deux coucous, le joueur avec le Matto perd un jeton et les coucous ne perdent pas.
 
-If **two** players each have a Matto, the two Matti become the **second highest** cards in the deck with a value of 14½. In other words they lose only if no one has a card that is XIV or lower.
+Si **deux** joueurs ont chacun un Matto, les deux Matti deviennent les **deuxièmes cartes les plus hautes** du jeu avec une valeur de 14,5. En d'autres termes, ils ne perdent que si personne n'a une carte qui soit XIV ou inférieure.
 
-### Two cuckoos
+### Deux coucous
 
-In a two player endgame if both players have cuckoos (XV) neither of them loses a token and the game continues. 
+Dans une finale à deux joueurs, si les deux joueurs ont des coucous (XV), aucun d'eux ne perd un jeton et le jeu continue.
 
-### Re-Entry
+### Réintégration
 
-So long as there is at least one virgin in the game a player may re-enter the game by paying an amount to the pool and receiving three new tokens. A player who re-enters after being eliminated does not count as a virgin. The cost of re-entry for first player who is eliminated is equal to the initial stake. For each subsequent player who is eliminated the cost doubles, even if the pervious player who was eliminated did not exercise their option to re-enter. *Nicolino Farina's book does not explain what happens if more than one player is eliminated in the same deal. I suggest that the player nearest to the dealer's right is considered to have been eliminated first and decides first whether to re-enter, followed by any others, for whom the cost will be greater, in anticlockwise order.*
+Tant qu'il reste au moins une vierge dans le jeu, un joueur peut réintégrer le jeu en payant un montant au pot et en recevant trois nouveaux jetons. Un joueur qui réintègre après avoir été éliminé ne compte pas comme une vierge. Le coût de réintégration pour le premier joueur éliminé est égal à la mise initiale. Pour chaque joueur éliminé suivant, le coût double, même si le joueur éliminé précédent n'a pas exercé son option de réintégration. *Le livre de Nicolino Farina n'explique pas ce qui se passe si plus d'un joueur est éliminé lors de la même donne. Je suggère que le joueur le plus proche de la droite du donneur est considéré comme ayant été éliminé en premier et décide en premier de réintégrer ou non, suivi des autres, pour lesquels le coût sera plus élevé, dans l'ordre antihoraire.*
 
-In some situations, a player who has only one token may deliberately try to lose it (by keeping a low card) so as to be allowed to re-enter at an advantageous price.
+Dans certaines situations, un joueur qui n'a plus qu'un seul jeton peut délibérément essayer de le perdre (en gardant une carte basse) afin d'être autorisé à réintégrer à un prix avantageux.
 
-### Sharing the re-entry fee
+### Partage des frais de réintégration
 
-When the cost of re-entry becomes high, a player who loses their last token may seek to share the cost of re-entry with other eliminated players or spectators. In case of a win the pot will be shared in proportion to the amounts contributed to the re-entry fee. The re-entering player keeps their place at the table and takes responsibility for making pass/keep decisions on behalf of the syndicate.
+Lorsque le coût de réintégration devient élevé, un joueur qui perd son dernier jeton peut chercher à partager le coût de réintégration avec d'autres joueurs éliminés ou spectateurs. En cas de gain, le pot sera partagé en proportion des montants contribués aux frais de réintégration. Le joueur qui réintègre conserve sa place à la table et prend la responsabilité de prendre les décisions de passer/garder au nom du syndicat.
 
-### All players re-enter
+### Tous les joueurs réintègrent
 
-If the remaining players have just one token each and they all lose their tokens, then **all** players, including those who were previously eliminated, automatically re-enter the game with three tokens **without paying **any more to the pool. None of them count as virgins, so players eliminated after this can no longer pay to re-enter. There are a number of ways this free re-entry can happen. The most obvious is when there are just two players with one token and they have equal cards (not cuckoos), or one of them has a Matto. Another way is when one or two players lose their last token in an arrest and the remainder have equal cards. For example in a contest between two players with one token each where the dealer has the **XIV** and the non-dealer has a low card which they try to exchange, both are eliminated: the non-dealer is shot by the hunter and the dealer's **XIV** is then the lowest (and only) card.
+Si les joueurs restants ont chacun un seul jeton et qu'ils perdent tous leurs jetons, alors **tous** les joueurs, y compris ceux qui ont été précédemment éliminés, réintègrent automatiquement le jeu avec trois jetons **sans payer** quoi que ce soit au pot. Aucun d'entre eux ne compte comme vierge, donc les joueurs éliminés après cela ne peuvent plus payer pour réintégrer. Il y a plusieurs façons dont cette réintégration gratuite peut se produire. La plus évidente est lorsqu'il n'y a que deux joueurs avec un jeton et qu'ils ont des cartes égales (pas des coucous), ou que l'un d'eux a un Matto. Une autre façon est lorsqu'un ou deux joueurs perdent leur dernier jeton lors d'un arrêt et que le reste a des cartes égales. Par exemple, dans un affrontement entre deux joueurs avec un jeton chacun où le donneur a le **XIV** et le non-donneur a une carte basse qu'il essaie d'échanger, les deux sont éliminés : le non-donneur est abattu par le chasseur et le **XIV** du donneur est alors la carte la plus basse (et la seule).
 
-In the most extreme case there could be as many as five remaining players whose cards are (say) I, XII, II, XII, Matto. The first and third players try to exchange and lose their tokens to the cats, and finally the dealer, knowing that the two players whose cards are not dead both have cats, does not risk drawing a lower card but keeps the Matto and ties for lowest, causing all the players to re-enter.
+Dans le cas le plus extrême, il pourrait y avoir jusqu'à cinq joueurs restants dont les cartes sont (par exemple) I, XII, II, XII, Matto. Le premier et le troisième joueur essaient d'échanger et perdent leurs jetons auprès des chats, et enfin le donneur, sachant que les deux joueurs dont les cartes ne sont pas mortes ont tous les deux des chats, ne risque pas de tirer une carte plus basse mais garde le Matto et fait égalité pour le plus bas, ce qui fait que tous les joueurs réintègrent.
 
-Note that this is a type of situation in which a player might choose to exchange a special card. For example suppose there are four players A, B, C and D in the game. The first player A, who has only one token, tries to exchange, the second player B has a horse (XIII) so the first player jumps this but is then shot by the third player C who has a XIV. Now if the fourth player (dealer, D) has a cat (XII), then knowing that A's card is dead and B and C have higher cards, D will exchange with the deck in the hope of getting a XIV or XV which would be safe, or failing that at least a XIII or Matto which would share the loss with B rather than losing alone.
+Notez qu'il s'agit d'un type de situation dans laquelle un joueur pourrait choisir d'échanger une carte spéciale. Par exemple, supposons qu'il y a quatre joueurs A, B, C et D dans le jeu. Le premier joueur A, qui n'a qu'un seul jeton, essaie d'échanger, le deuxième joueur B a un cheval (XIII) donc le premier joueur saute par-dessus mais est ensuite abattu par le troisième joueur C qui a un XIV. Maintenant, si le quatrième joueur (donneur, D) a un chat (XII), alors sachant que la carte de A est morte et que B et C ont des cartes plus hautes, D échangera avec le jeu en espérant obtenir un XIV ou un XV qui serait sûr, ou à défaut au moins un XIII ou un Matto qui partagerait la perte avec B plutôt que de perdre seul.
 
-### Agreement between the last two players
+### Accord entre les deux derniers joueurs
 
-When only two players remain in the game they may agree before the deal that if one of them is eliminated, instead of giving the whole pool to the winner they will divide the pool between them in some agreed proportion - for example 50% each or 60%-40% or 30%-70% etc. The proportions will be influenced by the number of tokens each player has and whose turn it is to deal, since the dealer has the advantage of being able to exchange without risk of arrest. In the event of an agreement, the last two players must still continue the game until one of them loses their last token, so as not to deprive the other players of the chance that they will both be eliminated at once allowing everyone to re-enter. During an endgame when there is an agreement to share the pool, the non-dealer is obliged to exchange if dealt a card that is lower than **V**. 
+Lorsqu'il ne reste que deux joueurs dans le jeu, ils peuvent convenir avant la donne que si l'un d'eux est éliminé, au lieu de donner tout le pot au gagnant, ils diviseront le pot entre eux dans une proportion convenue — par exemple 50 % chacun ou 60 %-40 % ou 30 %-70 %, etc. Les proportions seront influencées par le nombre de jetons de chaque joueur et dont c'est le tour de donner, puisque le donneur a l'avantage de pouvoir échanger sans risque d'arrêt. En cas d'accord, les deux derniers joueurs doivent quand même continuer le jeu jusqu'à ce que l'un d'eux perde son dernier jeton, afin de ne pas priver les autres joueurs de la chance qu'ils soient tous les deux éliminés en même temps, permettant à tout le monde de réintégrer. Pendant une phase finale lorsqu'il y a un accord pour partager le pot, le non-donneur est obligé d'échanger si on lui distribue une carte inférieure au **V**.
 
 ## Lu Stù
 
-Nicolino Farina's book includes rules provided by Graziano Di Luigi and ing. Dino Mazza for a version of Cucù known as Lu Stù played at Montorio al Vomano. The same rules have also been published online as a [PDF](https://web.archive.org/web/20200716095209/http://www.stuinpiazza.it/wp-content/uploads/2009/10/Regole-dell-St%C3%B9.pdf) (archive copy). There are several differences from the Campli version described above, and many more dialect names for the cards and situations. 
+Le livre de Nicolino Farina inclut des règles fournies par Graziano Di Luigi et ing. Dino Mazza pour une version de Cucù connue sous le nom de Lu Stù jouée à Montorio al Vomano. Les mêmes règles ont aussi été publiées en ligne sous forme de [PDF](https://web.archive.org/web/20200716095209/http://www.stuinpiazza.it/wp-content/uploads/2009/10/Regole-dell-St%C3%B9.pdf) (copie d'archive). Il y a plusieurs différences avec la version de Campli décrite ci-dessus, et beaucoup plus de noms dialectaux pour les cartes et les situations.
 
-The names for the picture cards and the phrases for announcing an arrest in Montorio are: 
+Les noms des cartes illustrées et les phrases pour annoncer un arrêt à Montorio sont :
 
-- XV (cuckoo): *Lu Cill*
+- XV (coucou) : *Lu Cill*
 
-- XIV (hunter): *Lu BBum*
+- XIV (chasseur) : *Lu BBum*
 
-- XIII (horse): *Lu Cavall, La Salt* - announced by saying *"zumb"* (jump)
+- XIII (cheval) : *Lu Cavall, La Salt* — annoncé en disant « *zumb* » (sauter)
 
-- XII (cat): *La Gnaf* - announced by saying "*Gnaf, cart'arrit*" (cat, card goes back)
+- XII (chat) : *La Gnaf* — annoncé en disant « *Gnaf, cart'arrit* » (chat, la carte repart)
 
-- XI (inn): *La Tavern, La Cas* - announced by saying "*tingh la Cas, che mi dai in cambio*" (I have the inn, what will you offer me for an exchange?)
+- XI (auberge) : *La Tavern, La Cas* — annoncé en disant « *tingh la Cas, che mi dai in cambio* » (j'ai l'auberge, que m'offrez-vous en échange ?)
 
-- NULLA: *La Null*
+- NULLA : *La Null*
 
-- SECCHIA: *La Sacchj, Lu Callarutt*
+- SECCHIA : *La Sacchj, Lu Callarutt*
 
-- MASCHERONE: *Lu MMascaraun*
+- MASCHERONE : *Lu MMascaraun*
 
-- LEONE: *Lu FFu, La Lambratt, Lu Rattachjul*
+- LEONE : *Lu FFu, La Lambratt, Lu Rattachjul*
 
-- MATTO: *Lu Matt*
+- MATTO : *Lu Matt*
 
-It is not explicitly stated, but the rules imply that in Lu Stù cards are dealt from the top of the pack, not from the bottom as in Campli.
+Il n'est pas explicitement indiqué, mais les règles impliquent que dans Lu Stù, les cartes sont distribuées depuis le sommet du jeu, et non depuis le bas comme à Campli.
 
-The tokens are not given out at the start of the game, though everyone is assumed to begin with three. Virgins have no physical tokens, but are issued with the appropriate number of tokens when they lose one or more tokens or gain a token (which is also possible in this version of the game).
+Les jetons ne sont pas distribués au début du jeu, bien que l'on suppose que chacun commence avec trois. Les vierges n'ont pas de jetons physiques, mais se voient attribuer le nombre approprié de jetons lorsqu'ils perdent un ou plusieurs jetons ou gagnent un jeton (ce qui est aussi possible dans cette version du jeu).
 
-If there is a tie for lowest card, only the player earlier in the playing order loses a token. 
+S'il y a égalité pour la carte la plus basse, seul le joueur le plus tôt dans l'ordre de jeu perd un jeton.
 
-If one player has a Matto there are two losers: the holder of the Matto and the holder of the lowest of the other cards or the earlier of two equal lowest cards. It is said that the Matto "*paga e fa pagare*" (pays and makes you pay). If two players have Matti, these become the **highest** cards (better than a cuckoo) and both these players **gain** one token, while the holder of the lowest of the other cards (or the earlier of two equal lowest) loses a token.
+Si un joueur a un Matto, il y a deux perdants : le détenteur du Matto et le détenteur de la plus basse des autres cartes ou le plus tôt de deux cartes basses égales. On dit que le Matto « *paga e fa pagare* » (paie et fait payer). Si deux joueurs ont des Matti, ceux-ci deviennent les cartes les plus **hautes** (meilleures qu'un coucou) et ces deux joueurs **gagnent** un jeton chacun, tandis que le détenteur de la plus basse des autres cartes (ou le plus tôt de deux cartes basses égales) perd un jeton.
 
-If there are a lot of players, making it likely that both Matti will be in play, the extra tokens may cause the game to go on form a long time. To speed up the game, players may agree to temporarily remove one of the two Matti from the pack.
+S'il y a beaucoup de joueurs, rendant probable que les deux Matti soient en jeu, les jetons supplémentaires peuvent faire que le jeu dure longtemps. Pour accélérer le jeu, les joueurs peuvent convenir de retirer temporairement l'un des deux Matti du jeu.
 
-Three of the special cards - the the XI (inn), the XII (cat), the XIV (hunter) and the XV (cuckoo) have somewhat different effects in Lu Stù.
+Trois des cartes spéciales — le XI (auberge), le XII (chat), le XIV (chasseur) et le XV (coucou) ont des effets quelque peu différents dans Lu Stù.
 
-**XI**. When a player tries to exchange with an inn, the innkeeper says "make me an offer" and the exchanger can propose some compensation for the exchange such as a sum of money or a share of the pool in the event that the exchanger goes on to win the game. If they can reach an agreement, the inn is exposed and exchanged for the exchanger's face down card, and the game continues with the former innkeeper deciding as usual whether to keep the exchanged card or try to pass it on. If no acceptable offer is forthcoming, the innkeeper exposes the inn and says "*fatt nu bicchijr*" (have a drink) and keeps the inn. In this case if the exchanger turns out to have a Null (zero) and it is a losing card, the innkeeper pays a token in place of the exchanger.
+**XI**. Lorsqu'un joueur essaie d'échanger avec une auberge, l'aubergiste dit « faites-moi une offre » et l'échangeur peut proposer une compensation pour l'échange, comme une somme d'argent ou une part du pot au cas où l'échangeur gagnerait la partie. S'ils peuvent parvenir à un accord, l'auberge est exposée et échangée contre la carte face cachée de l'échangeur, et le jeu continue avec l'ancien aubergiste décidant comme d'habitude de garder la carte échangée ou d'essayer de la passer. Si aucune offre acceptable n'est proposée, l'aubergiste expose l'auberge et dit « *fatt nu bicchijr* » (prenez un verre) et garde l'auberge. Dans ce cas, si l'échangeur s'avère avoir un Null (zéro) et que c'est une carte perdante, l'aubergiste paie un jeton à la place de l'échangeur.
 
-**XII**. A player who tries to exchange with a cat (XII) immediately loses a token, and unless they are the first player they must then try to exchange instead with the player to their left, even if they did not receive their card in an exchange. The reverse exchanges go back around the table until the card that encountered the cat reaches the player to dealer's right or a card higher than X. 
+**XII**. Un joueur qui essaie d'échanger avec un chat (XII) perd immédiatement un jeton, et sauf s'il est le premier joueur, il doit alors essayer d'échanger à la place avec le joueur à sa gauche, même s'il n'a pas reçu sa carte lors d'un échange. Les échanges inverses repartent autour de la table jusqu'à ce que la carte qui a rencontré le chat atteigne le joueur à la droite du donneur ou une carte supérieure au X.
 
-- If a reverse exchange encounters a horse (XIII), the horse is jumped and the card is exchanged with the next player to the horse's left (unless the horse is held by the first player to the right of the dealer in which case the reverse exchange simply does not take place). 
+- Si un échange inverse rencontre un cheval (XIII), le cheval est sauté et la carte est échangée avec le joueur suivant à la gauche du cheval (sauf si le cheval est détenu par le premier joueur à la droite du donneur, auquel cas l'échange inverse n'a tout simplement pas lieu).
 
-- If a reverse exchange encounters a XII or XIV the reverse exchanger immediately loses a token and the exchange does not take place. An attempted reverse exchange with a cat does not trigger a new set of exchanges.
+- Si un échange inverse rencontre un XII ou un XIV, l'échangeur inverse perd immédiatement un jeton et l'échange n'a pas lieu. Une tentative d'échange inverse avec un chat ne déclenche pas un nouvel ensemble d'échanges.
 
-- If a reverse exchange encounters a cuckoo (XV) it is arrested without penalty..
+- Si un échange inverse rencontre un coucou (XV), il est arrêté sans pénalité.
 
-- If a reverse exchange encounters an inn (XI) that was not exchanged before, the exchange does not take place and there is no penalty. There is no opportunity for a new agreement and the innkeeper does not pay if the arrested reverse exchanger loses with a Null. If a reverse exchange encounters an inn that was exchanged, the exchange is reversed and the reverse exchanges continue. There is no new agreement, and despite the reversal the compensation agreement for the original exchange remains in force.
+- Si un échange inverse rencontre une auberge (XI) qui n'a pas été échangée avant, l'échange n'a pas lieu et il n'y a pas de pénalité. Il n'y a pas d'opportunité pour un nouvel accord et l'aubergiste ne paie pas si l'échangeur inverse arrêté perd avec un Null. Si un échange inverse rencontre une auberge qui a été échangée, l'échange est inversé et les échanges inverses continuent. Il n'y a pas de nouvel accord, et malgré l'inversion, l'accord de compensation pour l'échange original reste en vigueur.
 
-**XII, XIV**. A player who has only one token and tries to exchange with a XII or XIV loses their token and is immediately eliminated from the game, unless there is still a virgin and they pay the cost to re-enter. The card of the eliminated player is set aside and does not take part in the final comparison of cards. *(The Italian rules say that the eliminated card is placed on the bottom of the deck, which effectively removes it from play since in this version of the game cards are dealt from the top of the deck.)*
+**XII, XIV**. Un joueur qui n'a qu'un seul jeton et qui essaie d'échanger avec un XII ou un XIV perd son jeton et est immédiatement éliminé du jeu, sauf s'il reste encore une vierge et qu'il paie pour réintégrer. La carte du joueur éliminé est mise de côté et ne participe pas à la comparaison finale des cartes. *(Les règles italiennes disent que la carte éliminée est placée au bas du jeu, ce qui la retire effectivement du jeu puisque dans cette version du jeu, les cartes sont distribuées depuis le sommet du jeu.)*
 
-It is possible that a player who "*pij na gnaffat*" (takes a penalty for encountering a cat) may lose two tokens in quick succession. They lose a token for the cat, and then if the player to their left also happens to have a XII or a XIV they lose a second token when they try to exchange with that player. If that doesn't knock them out of the game, they may even lose a third token in the same deal if it also turns out that they have the lowest card.
+Il est possible qu'un joueur qui « *pij na gnaffat* » (subit une pénalité pour avoir rencontré un chat) perde deux jetons à la suite. Il perd un jeton pour le chat, puis si le joueur à sa gauche a aussi un XII ou un XIV, il perd un deuxième jeton lorsqu'il essaie d'échanger avec ce joueur. Si cela ne l'élimine pas du jeu, il peut même perdre un troisième jeton lors de la même donne s'il s'avère aussi qu'il a la carte la plus basse.
 
-**XV**. A player who is dealt a cuckoo (XV) is not completely safe in this version of the game. If there are no cards in the game other than cuckoos and possibly Matti, the first cuckoo is the lowest card and loses a token.
+**XV**. Un joueur qui reçoit un coucou (XV) n'est pas complètement en sécurité dans cette version du jeu. S'il n'y a pas d'autres cartes dans le jeu que des coucous et éventuellement des Matti, le premier coucou est la carte la plus basse et perd un jeton.
 
-If only two players remain and they have equal cards, then the non-dealer's card is the first lowest and this player loses a token, even if the cards are cuckoos. If both players have Matti, then both gain a token and the non-dealer also loses a token. It is said that the non-dealer "*n llev e n matt*" (neither gives nor receives).
+S'il ne reste que deux joueurs et qu'ils ont des cartes égales, alors la carte du non-donneur est la première plus basse et ce joueur perd un jeton, même si les cartes sont des coucous. Si les deux joueurs ont des Matti, alors les deux gagnent un jeton et le non-donneur perd aussi un jeton. On dit que le non-donneur « *n llev e n matt* » (ne donne ni ne reçoit).
 
-If there is still a virgin in the game a player who is eliminated can pay to re-enter and acquire three new tokens. A player who has three tokens as a result of re-entry or after losing and gaining tokens is no longer a virgin. The cost of re-entry for the first player who re-enters is equal to the player's initial stake paid to the pool. The cost is doubled for each successive player who re-enters. If a player who is eliminated chooses not to re-enter this does **not** double the cost for subsequent eliminated players (unlike the Campli game). A player may share the cost of re-entry with other eliminated players or spectators and divide any winnings in the same proportions: in this case the player who re-enters retains the same place at the table and has the final responsibility for all decisions.
+S'il reste encore une vierge dans le jeu, un joueur éliminé peut payer pour réintégrer et acquérir trois nouveaux jetons. Un joueur qui a trois jetons suite à une réintégration ou après avoir perdu et gagné des jetons n'est plus une vierge. Le coût de réintégration pour le premier joueur qui réintègre est égal à la mise initiale payée au pot. Le coût double pour chaque joueur successif qui réintègre. Si un joueur éliminé choisit de ne pas réintégrer, cela ne **double pas** le coût pour les joueurs éliminés suivants (contrairement au jeu de Campli). Un joueur peut partager le coût de réintégration avec d'autres joueurs éliminés ou spectateurs et diviser les gains éventuels dans les mêmes proportions : dans ce cas, le joueur qui réintègre conserve la même place à la table et a la responsabilité finale de toutes les décisions.
 
-As in Campli, if there is no winner because the last two surviving players lose simultaneously then everyone automatically re-enters the game without payment, but there are fewer situations of this type than in Campli because a player who has only one token and suffers a *bummata* or *gnaffata* (loses a token for trying to exchange with a XII or XIV) is eliminated immediately rather than at the end of the deal. So for example in a two player game where each player has one token, if the non-dealer has a low card and the dealer a XIV, the non-dealer will be eliminated and the dealer will win. The dealer also wins if both players have equal cards. The only way that both can lose their tokens is if exactly one of them has a Matto. Another possibility occurs with three players. Suppose they each have one token, the first has a bucket (-1), the second a hunter (XIV) and the dealer a Matto. The first player tries to exchange as is eliminated by a *bummata*. The second and third players keep their cards and both lose their tokens simultaneously, and everyone re-enters free.
+Comme à Campli, s'il n'y a pas de gagnant parce que les deux derniers joueurs survivants perdent simultanément, tout le monde réintègre automatiquement le jeu sans paiement, mais il y a moins de situations de ce type qu'à Campli car un joueur qui n'a qu'un seul jeton et subit une *bummata* ou *gnaffata* (perd un jeton pour avoir essayé d'échanger avec un XII ou un XIV) est éliminé immédiatement plutôt qu'à la fin de la donne. Ainsi, par exemple, dans une partie à deux joueurs où chaque joueur a un jeton, si le non-donneur a une carte basse et le donneur un XIV, le non-donneur sera éliminé et le donneur gagnera. Le donneur gagne aussi si les deux joueurs ont des cartes égales. La seule façon pour que les deux perdent leurs jetons est qu'exactement un d'eux ait un Matto. Une autre possibilité se produit avec trois joueurs. Supposons qu'ils ont chacun un jeton, le premier a un seau (-1), le deuxième un chasseur (XIV) et le donneur un Matto. Le premier joueur essaie d'échanger et est éliminé par une *bummata*. Le deuxième et le troisième joueur gardent leurs cartes et perdent tous les deux leurs jetons simultanément, et tout le monde réintègre gratuitement.
 
-As in Campli, the last two surviving players can agree on how to divide the pool between them, but must complete the game to make sure that one of them wins, because if both are eliminated simultaneously everyone will still re-enter free.
+Comme à Campli, les deux derniers joueurs survivants peuvent convenir de la façon de diviser le pot entre eux, mais doivent terminer la partie pour s'assurer que l'un d'eux gagne, car si les deux sont éliminés simultanément, tout le monde réintègrera quand même gratuitement.
 
-## Other pages
+## Autres pages
 
-Franco Pratesi has written an article on [The Italian Game of Cuckoo](https://naibi.net/A/125-CUCU-Z.pdf) discussing the history of the game and including in an appendix a set of rules for Cucù (or 'Lu ttuffe') as played in Campli.
-
-Home Page > Classified Index > Comparing Single Cards > Cuckoo Group > Cucù
+Franco Pratesi a écrit un article sur [The Italian Game of Cuckoo](https://naibi.net/A/125-CUCU-Z.pdf) discutant de l'histoire du jeu et incluant en annexe un ensemble de règles pour Cucù (ou « Lu ttuffe ») tel que joué à Campli.

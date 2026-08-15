@@ -2,42 +2,40 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Rules for the card game Vier-Anderle or Strassenwart, a gambling game using Cego cards played in the Black Forest.
+**But :** Règles du jeu de cartes Vier-Anderle ou Strassenwart, un jeu d'argent utilisant les cartes Cego joué dans la Forêt-Noire.
 
 ---
 
-*This description was written by Nick Wedd, who learned the game from Walter Strunz.*
+*Cette description a été écrite par Nick Wedd, qui a appris le jeu auprès de Walter Strunz.*
 
-Vier-anderle is a simple trick-taking tarock game, suitable for gambling. It is played in the vicinity of Furtwangen, in the Black Forest in Germany.
+Vier-anderle est un jeu de tarock de levées simple, adapté aux jeux d'argent. Il se joue dans les environs de Furtwangen, dans la Forêt-Noire en Allemagne.
 
-A similar game is played in the region around Offenburg under the name **Strassenwart**.
+Un jeu similaire se joue dans la région d'Offenburg sous le nom de **Strassenwart**.
 
-## Players
+## Joueurs
 
-It is best with from 5 to 8 players, though it is possible to play it with any number from 2 to 13. It is a gambling game, and the players should agree on the value of the stake to be played for. In some circumstances, the sum lost on a hand can be a large multiple of the basic stake. It may be found more enjoyable when the players are drunk.
+Il se joue mieux de 5 à 8 joueurs, bien qu'il soit possible d'y jouer avec un nombre quelconque de 2 à 13. C'est un jeu d'argent, et les joueurs doivent se mettre d'accord sur la valeur de la mise à jouer. Dans certaines circonstances, la somme perdue sur une main peut être un multiple important de la mise de base. Il peut s'avérer plus amusant lorsque les joueurs sont ivres.
 
-## Cards
+## Cartes
 
-It is traditionally played with a Cego pack with the pip cards removed, leaving 38 cards. If a Cego pack is unavailable, it can be played with any tarock pack from which the pip cards have been removed. There are twenty-two tarocks, ranking with the Gstieß at the top, then the 21, 20, 19 etc., down to the 1. There are four side-suits, with the black ones ranking king-queen-knight-jack-10-9-8-7 and the red ones ranking king-queen-knight-jack-1-2-3-4 (though the pip cards 10, 9, 8, 7, 1, 2, 3, 4 are normally not used).
+Il se joue traditionnellement avec un jeu Cego sans les cartes numériques, laissant 38 cartes. Si un jeu Cego n'est pas disponible, on peut jouer avec n'importe quel jeu de tarock dont les cartes numériques ont été retirées. Il y a vingt-deux tarocks, classés avec le Gstieß au sommet, puis le 21, 20, 19, etc., jusqu'au 1. Il y a quatre couleurs secondaires, les noires classées roi-dame-cavalier-valet-10-9-8-7 et les rouges classées roi-dame-cavalier-valet-1-2-3-4 (bien que les cartes numériques 10, 9, 8, 7, 1, 2, 3, 4 ne soient normalement pas utilisées).
 
-If more than nine players wish to play, it will be necessary to have the pip cards in the pack so that there will be enough cards to go round.
+Si plus de neuf joueurs souhaitent jouer, il sera nécessaire de conserver les cartes numériques dans le jeu pour qu'il y ait assez de cartes pour tout le monde.
 
-## Deal and Play
+## Distribution et jeu
 
-The cards are dealt clockwise, with each player receiving four. Vorhand (on dealer's left) leads to the first trick; the winner of each trick leads to the next trick in the hand. Players must follow suit if they can. A player who cannot follow suit must play a tarock if he can. The trick is won by the player of the highest tarock in it; or if there is none, by the highest card of the suit lead. A player who is able to head a trick, by playing a higher card than any so far in it, must do so. After each hand, the deal rotates to the player on the previous dealer's left.
+Les cartes sont distribuées dans le sens horaire, chaque joueur recevant quatre cartes. Le Vorhand (à la gauche du donneur) entame la première levée ; le gagnant de chaque levée entame la suivante. Les joueurs doivent suivre la couleur s'ils le peuvent. Un joueur qui ne peut pas suivre doit jouer un tarock s'il le peut. La levée est gagnée par le joueur du tarock le plus élevé qu'elle contient ; ou s'il n'y en a pas, par la carte la plus élevée de la couleur entamée. Un joueur capable de prendre la tête d'une levée, en jouant une carte plus élevée que n'importe quelle carte déjà jouée, doit le faire. Après chaque main, la distribution passe au joueur à la gauche du donneur précédent.
 
-## Payments
+## Paiements
 
-There are two types of hand. The first type is played at the start of the game, and on subsequent occasions when the pot is empty. The second type is played when there is already money in the pot.
+Il y a deux types de main. Le premier type se joue au début du jeu, et lors des occasions ultérieures où le pot est vide. Le second type se joue lorsqu'il y a déjà de l'argent dans le pot.
 
-In the hands of the first type, all the players must take part. The dealer puts four stakes in the pot, and deals. In the play, each player will try to take at least one trick. At the end of the hand, each player who failed to take a trick will pay as much money into the pot as was already in it. Example: there are six players. When play starts there are four stakes in the pool. A takes two tricks, B and C take one trick each, D, E and F take no trick. D, E and F must each pay four stakes into the pool, which then contains sixteen stakes.
+Dans les mains du premier type, tous les joueurs doivent participer. Le donneur met quatre mises dans le pot et distribue. Pendant le jeu, chaque joueur essaiera de gagner au moins une levée. À la fin de la main, chaque joueur qui n'a pas réussi à gagner une levée paie dans le pot autant d'argent qu'il s'y trouvait déjà. Exemple : il y a six joueurs. Quand le jeu commence, il y a quatre mises dans le pot. A gagne deux levées, B et C en gagnent une chacune, D, E et F n'en gagnent aucune. D, E et F doivent chacun payer quatre mises dans le pot, qui contient alors seize mises.
 
-In hands of the second type, the dealer adds four stakes to the pot, and deals. He then asks each player in turn, starting with Vorhand and finishing with himself, whether he wishes to take part. Those who do not wish to take part (perhaps because they have no large tarocks) discard their hands face-down on the table and take no further part in the hand: they will neither win nor lose money on the hand. The hand is then played among those who wished to take part. The winner of each trick receives for it a quarter of the money in the pot; and each player who took part but won no trick then pays into the pot as much as it originally contained. Example: continuing from the previous hand, after the deal there are twenty stakes in the pool. A and F decide not to take part. C wins one trick and D wins three tricks. C receives five stakes from the pot, and D receives fifteen. B and E, who took part but won no tricks, then pay twenty stakes each into the pot.
+Dans les mains du second type, le donneur ajoute quatre mises au pot et distribue. Il demande ensuite à chaque joueur à tour de rôle, en commençant par le Vorhand et en terminant par lui-même, s'il souhaite participer. Ceux qui ne souhaitent pas participer (peut-être parce qu'ils n'ont pas de gros tarocks) défaussent leur main face cachée sur la table et ne prennent plus part à la main : ils ne gagneront ni ne perdront d'argent sur cette main. La main se joue alors entre ceux qui ont souhaité participer. Le gagnant de chaque levée reçoit pour celle-ci un quart de l'argent du pot ; et chaque joueur qui a participé mais n'a gagné aucune levée paie alors dans le pot autant que le pot contenait à l'origine. Exemple : en reprenant la main précédente, après la distribution il y a vingt mises dans le pot. A et F décident de ne pas participer. C gagne une levée et D en gagne trois. C reçoit cinq mises du pot, et D en reçoit quinze. B et E, qui ont participé mais n'ont gagné aucune levée, paient alors chacun vingt mises dans le pot.
 
-## Notes on play:
+## Notes sur le jeu :
 
-- It is possible for suit-cards (non-tarocks) to win tricks, but they should not be expected to do so.
+- Il est possible que des cartes de couleur (non-tarocks) gagnent des levées, mais on ne doit pas s'attendre à ce qu'elles le fassent.
 
-- The rule obliging players to head tricks is important. Example: You hold the 21 and three small tarocks, and the player on your right leads the 18. You would prefer to play a small tarock as the Gstieß is probably held by a player on your left who will use it to beat your 21. But you are obliged to play the 21.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Vier-Anderle
+- La règle obligeant les joueurs à prendre la tête des levées est importante. Exemple : Vous tenez le 21 et trois petits tarocks, et le joueur à votre droite entame le 18. Vous préféreriez jouer un petit tarock car le Gstieß est probablement détenu par un joueur à votre gauche qui l'utilisera pour battre votre 21. Mais vous êtes obligé de jouer le 21.

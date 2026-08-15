@@ -2,44 +2,42 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Survey of Tile Matching Solitaire games, in which the player has to clear a layout, often built of Mah Jong tiles, by removing matching pairs of exposed tiles.
+**But :** Présentation des jeux de solitaire d'appariement de tuiles, dans lesquels le joueur doit vider une disposition, souvent construite avec des tuiles de Mah Jong, en retirant des paires de tuiles exposées correspondantes.
 
 ---
 
-This type of solitaire is played with a set of around 144 tiles. Mah Jong tiles are traditionally used, but any design on the face of the tiles is suitable, so long as the tiles come in matching sets of four. 
+Ce type de solitaire se joue avec un ensemble d'environ 144 tuiles. Les tuiles de Mah Jong sont traditionnellement utilisées, mais n'importe quel design sur la face des tuiles convient, pourvu que les tuiles existent en ensembles correspondants de quatre.
 
-The tiles are stacked in layers, each layer consisting of several horzontal rows of tiles. The tiles of a row rest on the tiles of the row below - each row should be the same length as or shorter than the corresponding row in the layer below.
+Les tuiles sont empilées en couches, chaque couche consistant en plusieurs rangées horizontales de tuiles. Les tuiles d'une rangée reposent sur les tuiles de la rangée inférieure — chaque rangée doit être de la même longueur ou plus courte que la rangée correspondante dans la couche inférieure.
 
-The objective is to remove all the tiles from the layout, but they must be removed two at a time, in matching pairs. A tile is available for removal when it is at the end of a row, and is not covered by any tile in the layer above it.
+Le but est de retirer toutes les tuiles de la disposition, mais elles doivent être retirées deux à la fois, en paires correspondantes. Une tuile est disponible pour être retirée lorsqu'elle se trouve au bout d'une rangée et n'est pas recouverte par une tuile de la couche supérieure.
 
-This game seems to have originated as a computer game, and exists in many versions, using various tile designs and layouts. If the tiles are dealt at random there may be no way to remove all the tiles, but many computer versions are programmed to arrange every deal in such a way that a solution is possible.
+Ce jeu semble avoir vu le jour comme un jeu informatique, et existe sous de nombreuses versions, utilisant divers designs de tuiles et dispositions. Si les tuiles sont distribuées au hasard, il se peut qu'il n'y ait aucun moyen de retirer toutes les tuiles, mais de nombreuses versions informatiques sont programmées pour organiser chaque distribution de manière à ce qu'une solution soit possible.
 
-This game goes by many names: popular computer versions have included Shanghai, Taipei, Kyodai and Moraff's. Vegard Krog Petersen's [Solitaire Mahjongg site](https://web.archive.org/web/20230210074735/http://home.halden.net/vkp/vkp/) (archive copy) is a useful reference for information about these games, including their history and rules.
+Ce jeu porte de nombreux noms : les versions informatiques populaires ont notamment inclus Shanghai, Taipei, Kyodai et Moraff's. Le site [Solitaire Mahjongg de Vegard Krog Petersen](https://web.archive.org/web/20230210074735/http://home.halden.net/vkp/vkp/) (copie d'archive) est une référence utile pour des informations sur ces jeux, y compris leur histoire et leurs règles.
 
-There are a few variants. In a type of game sometimes known as **Mahjong Connect**, pairs of tiles can only be removed if they can be connected by a clear orthogonal path, often with not more than a given number of right angle bends.
+Il existe quelques variantes. Dans un type de jeu parfois connu sous le nom de **Mahjong Connect**, les paires de tuiles ne peuvent être retirées que si elles peuvent être reliées par un chemin orthogonal dégagé, souvent avec pas plus d'un nombre donné de coudes à angle droit.
 
-From Thomas Warfield's [Pretty Good Solitaire](https://www.goodsol.com/) site you can obtain Pretty Good Mahjongg, a collection of solitaire games using Mah Jong and other tiles sets. It includes the well-known tile matching game where tiles are removed from a layout in pairs, and also Mah Jong tile solitaires based on Freecell, Spider and Klondike.
+Depuis le site [Pretty Good Solitaire](https://www.goodsol.com/) de Thomas Warfield, vous pouvez obtenir Pretty Good Mahjongg, une collection de jeux de solitaire utilisant des tuiles de Mah Jong et d'autres ensembles. Il inclut le jeu d'appariement de tuiles bien connu où les tuiles sont retirées d'une disposition en paires, ainsi que des solitaires de tuiles de Mah Jong basés sur Freecell, Spider et Klondike.
 
-[Section 12 of Tom Sloper's Mah Jong FAQ](https://www.sloperama.com/mjfaq/mjfaq12.htm) contains information about tile matching games and numerous download links.
+La [Section 12 de la FAQ Mah Jong de Tom Sloper](https://www.sloperama.com/mjfaq/mjfaq12.htm) contient des informations sur les jeux d'appariement de tuiles et de nombreux liens de téléchargement.
 
-[Mahjong Fun](https://www.mahjongfun.com) offers a range of tile matching games using MahJong and other types of tiles that can be played online in a web browser.
+[Mahjong Fun](https://www.mahjongfun.com) propose une gamme de jeux d'appariement de tuiles utilisant des tuiles de Mah Jong et d'autres types qui peuvent être joués en ligne dans un navigateur web.
 
-Joseph Gough's free [Mahjong Solitaire](https://mahjongsolitaire-online.com/) can be played online in a web browser.
+Le [Mahjong Solitaire](https://mahjongsolitaire-online.com/) gratuit de Joseph Gough peut être joué en ligne dans un navigateur web.
 
-Laura and Emily's free online [Mahjong](https://www.mahjong-game.com/) tile matching game can be played online in a web browser.
+Le jeu d'appariement de tuiles [Mahjong](https://www.mahjong-game.com/) gratuit en ligne de Laura et Emily peut être joué dans un navigateur web.
 
-At Artjom Vinnikov's [Classic Mahjong](https://classic-mahjong.com/) site you can play standard tile matching Solitaire and also 'Mahjong Connect' free in a web browser. A wide choice of layouts is available.
+Sur le site [Classic Mahjong](https://classic-mahjong.com/) d'Artjom Vinnikov, vous pouvez jouer au solitaire d'appariement de tuiles standard ainsi qu'au « Mahjong Connect » gratuitement dans un navigateur. Un large choix de dispositions est disponible.
 
-At [Mahjong Games](https://www.mahjong.com/) you can play a range of online tile matching games using Mahjong tiles.
+Sur [Mahjong Games](https://www.mahjong.com/) vous pouvez jouer à une gamme de jeux d'appariement de tuiles en ligne utilisant des tuiles de Mah Jong.
 
-[Freemahjong.com](https://www.freemahjong.com) has a collection of tile matching games using Mahjong tiles that can be played free online in a browser.
+[Freemahjong.com](https://www.freemahjong.com) propose une collection de jeux d'appariement de tuiles utilisant des tuiles de Mah Jong qui peuvent être joués gratuitement en ligne dans un navigateur.
 
-In [Triple Mahjong](https://www.neongames.com/game/Triple+Mahjong) from gamesonly.net, sets of three tiles instead of pairs must be matched to be removed.
+Dans [Triple Mahjong](https://www.neongames.com/game/Triple+Mahjong) de gamesonly.net, des ensembles de trois tuiles au lieu de paires doivent être appariés pour être retirés.
 
-Albert Henderson's [Mahjong Solitaire](https://www.mahjongly.com/) site has a free online tile matching game with Mahjong tiles.
+Le site [Mahjong Solitaire](https://www.mahjongly.com/) d'Albert Henderson propose un jeu d'appariement de tuiles gratuit en ligne avec des tuiles de Mah Jong.
 
-Gametop.com has a collection of free mahjong-themed [tile matching games for PC](https://www.gametop.com/category/mahjong.html).
+Gametop.com propose une collection de [jeux d'appariement de tuiles pour PC](https://www.gametop.com/category/mahjong.html) à thème Mah Jong gratuits.
 
-A free tile-matching game using Mah-Jong tiles can be played online at Neal Taparia's [Mahjong Challenge](https://solitaired.com/mahjong/) site.
-
-Home Page > Tile Games > Tile Matching Solitaire
+Un jeu d'appariement de tuiles gratuit utilisant des tuiles de Mah Jong peut être joué en ligne sur le site [Mahjong Challenge](https://solitaired.com/mahjong/) de Neal Taparia.

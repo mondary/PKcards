@@ -1,13 +1,11 @@
-# Bone Ace and 31
+# Bone Ace et 31
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the 17th century English card games Bone Ace and 31: links to reconstructions of these games.
+**But :** Comment jouer aux jeux de cartes anglais du 17e siècle Bone Ace et 31 : liens vers des reconstitutions de ces jeux.
 
 ---
 
-These games were played in England in the 17th century. Each player is dealt a three card hand. Face cards count 10 points and pip cards count face value. Players can draw further cards aiming to get as near 31 as possible without going over that total.
+Ces jeux se jouaient en Angleterre au 17e siècle. Chaque joueur reçoit une main de trois cartes. Les figures comptent 10 points et les cartes numériques comptent leur valeur faciale. Les joueurs peuvent tirer d'autres cartes en cherchant à s'approcher le plus possible de 31 sans dépasser ce total.
 
-Full reconstructions can be found on the [One and Thirty and Bone Ace](https://jducoeur.com/game-hist/game-recon-boneace.html) page of the [Medieval and Renaissance Games](https://www.querki.net/u/jducoeur/period-games/period-games) site.
-
-Home Page > Classified Index > Showdown games > Bone Ace (31)
+Des reconstitutions complètes sont disponibles sur la page [One and Thirty and Bone Ace](https://jducoeur.com/game-hist/game-recon-boneace.html) du site [Medieval and Renaissance Games](https://www.querki.net/u/jducoeur/period-games/period-games).

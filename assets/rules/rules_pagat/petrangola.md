@@ -2,130 +2,128 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Also known as 31, an Italian game in which players improve their three-card hands by exchanging cards with the three face-up cards on the table.
+**But :** Aussi connu sous le nom de 31, un jeu italien dans lequel les joueurs améliorent leurs mains de trois cartes en échangeant des cartes avec les trois cartes face visible sur la table.
 
 ---
 
 ## Introduction
 
-Petrangola is a card game from the Italian provinces of Marche and Romagna, which has spread to some other parts of Italy where it is often just known as **31**. It is closely related to the game Schwimmen or 31 but is played with an Italian regional 40-card pack, usually the Piacentine pattern. Players have three cards each and can try to improve their hands by exchanging some or all of these with a set of three face-up cards on the table. As in Schwimmen the basic aim is to collect cards of a high total value in one suit, the maximum possible being 31, but in this game it is even better to collect a "*petrangola*", which is three equal cards or three cards of a suit in sequence.
+Petrangola est un jeu de cartes des provinces italiennes de Marche et de Romagne, qui s'est répandu dans d'autres parties de l'Italie où il est souvent simplement connu sous le nom de **31**. Il est étroitement lié au jeu Schwimmen ou 31 mais se joue avec un jeu régional italien de 40 cartes, généralement au motif Placentin. Les joueurs ont trois cartes chacun et peuvent essayer d'améliorer leur main en échangeant certaines ou toutes leurs cartes avec un ensemble de trois cartes face visible sur la table. Comme au Schwimmen, le but de base est de collecter des cartes d'une valeur totale élevée dans une seule couleur, le maximum possible étant 31, mais dans ce jeu, il est encore mieux de collecter une « *petrangola* », qui est trois cartes égales ou trois cartes d'une couleur en séquence.
 
-Note that there are many other games called 31, in which the object is to have cards worth as near as possible to 31, but with different play mechanisms. They include the draw and discard game **31**, also known in the USA as **Scat** and in Britain as **Ride the Bus**, in which cards are drawn from a stock or discard pile as in rummy, and the Greek banking game **31**, in which the object is to draw cards adding as near as possible to 31 without exceeding it. 
+Notez qu'il existe de nombreux autres jeux appelés 31, dans lesquels le but est d'avoir des cartes d'une valeur aussi proche que possible de 31, mais avec des mécanismes de jeu différents. Ils incluent le jeu de pioche et d'écart **31**, aussi connu aux États-Unis sous le nom de **Scat** et en Grande-Bretagne sous le nom de **Ride the Bus**, dans lequel les cartes sont piochées dans une réserve ou une défausse comme au rami, et le jeu bancaire grec **31**, dans lequel le but est de tirer des cartes s'additionnant aussi près que possible de 31 sans le dépasser.
 
-*The following description is based on a contribution from Antonio Di Sebastiano, on information from the [Petrangola Wikipedia page](https://it.wikipedia.org/wiki/Petrangola) and the various sites it gives as references, and on a chapter in *Il Maxi Libro dei Giochi di Carte* by Elvio Fantini (2010)*.
+*La description suivante est basée sur une contribution d'Antonio Di Sebastiano, sur des informations de la [page Wikipedia Petrangola](https://it.wikipedia.org/wiki/Petrangola) et des divers sites qu'elle donne en référence, et sur un chapitre de *Il Maxi Libro dei Giochi di Carte* d'Elvio Fantini (2010).*
 
-## Players, Cards and Ranking of Combinations
+## Joueurs, cartes et classement des combinaisons
 
-This game is probably best for 6 or 7 players, but is possible with any number from 3 up to 12 with a single deck or even more if two or more decks are shuffled together. Deal and play are counter-clockwise.
+Ce jeu est probablement meilleur pour 6 ou 7 joueurs, mais est possible avec n'importe quel nombre de 3 jusqu'à 12 avec un seul jeu ou même plus si deux jeux ou plus sont mélangés ensemble. La donne et le jeu se font dans le sens antihoraire.
 
-Petrangola is normally played with a 40-card Italian-suited pack of the Piacentine pattern. The rank and values of the cards from high to low are Ace (11 points), King (10), Horse (10), Jack (10), 7, 6, 5, 4, 3, 2 (face value). There are no 8's 9's or 10's in the pack. 
+Petrangola se joue normalement avec un jeu de 40 cartes italiennes au motif Placentin. Le rang et les valeurs des cartes, du plus haut au plus bas, sont : As (11 points), Roi (10), Cavalier (10), Valet (10), 7, 6, 5, 4, 3, 2 (valeur faciale). Il n'y a pas de 8, 9 ni 10 dans le jeu.
 
-Each player begins with three tokens (known as* "marche"* or "*vite").* The loser of each hand gives up one of these tokens and a player who loses all their tokens is eliminated unless they pay to re-enter. The last surviving player is the winner.
+Chaque joueur commence avec trois jetons (connus sous le nom de « *marche* » ou « *vite* »). Le perdant de chaque main abandonne un de ces jetons et un joueur qui perd tous ses jetons est éliminé, à moins qu'il ne paie pour rentrer. Le dernier joueur survivant est le gagnant.
 
-The ranking of the possible three-card hands from highest to lowest is as follows:
+Le classement des mains de trois cartes possibles, du plus haut au plus bas, est le suivant :
 
-- Three Aces
+- Trois As
 
-- A sequence of three consecutive cards of a suit (*"scala"*). Note that the 7 is immediately below the Jack, so for example Jack-7-6 is a sequence. Between two sequences the one with the higher top card wins.
+- Une séquence de trois cartes consécutives de la même couleur (« *scala* »). Notez que le 7 est immédiatement en dessous du Valet, donc par exemple Valet-7-6 est une séquence. Entre deux séquences, celle avec la carte du haut la plus élevée gagne.
 
-- Three cards of equal rank (other than Aces). Between two such sets the **lower** set beats the **higher** - so 2-2-2 is the best of these and K-K-K is the worst.
+- Trois cartes de même rang (autres que des As). Entre deux tels ensembles, le **plus bas** bat le **plus haut** — donc 2-2-2 est le meilleur de ceux-ci et R-R-R est le pire.
 
-- Any other three cards, ranking according to the highest total value of the cards in any one suit. So for example the King of coins with the 7 and 6 of swords is worth 13, and beats the Ace of coins with the 4 and 3 of coins which is worth only 11.
+- Toute autre main de trois cartes, classée selon la valeur totale la plus élevée des cartes d'une seule couleur. Ainsi, par exemple, le Roi de pièces avec le 7 et le 6 d'épées vaut 13, et bat l'As de pièces avec le 4 et le 3 de pièces qui ne vaut que 11.
 
-A three of a kind or a sequence of three is known as a "*petrangola*": a set of three Aces is sometimes called a "*petrangolone*".
+Un brelan ou une séquence de trois est appelé une « *petrangola* » : un ensemble de trois As est parfois appelé un « *petrangolone* ».
 
-## Deal
+## Donne
 
-Before the first deal each player pays an equal stake to the pool.
+Avant la première donne, chaque joueur paie une mise égale au pot.
 
-The first dealer is traditionally chosen by dealing cards face up to the players one at a time anticlockwise around the table until someone receives the Ace of coins. This player is the first dealer.
+Le premier donneur est traditionnellement choisi en distribuant des cartes face visible aux joueurs une à la fois dans le sens antihoraire autour de la table jusqu'à ce que quelqu'un reçoive l'As de pièces. Ce joueur est le premier donneur.
 
-The dealer shuffles, the player to dealer's left cuts, and the dealer deals one batch of three cards face down to each player, beginning with the player to dealer's right and going around anticlockwise. When everyone has their three cards, the dealer draws the next three cards from the top of the pack, looks at them privately, and may place them face up on the table to begin the play. These three face-up cards are called the *"monte"*. 
+Le donneur mélange, le joueur à sa gauche coupe, et le donneur distribue un lot de trois cartes face cachée à chaque joueur, en commençant par le joueur à sa droite et en tournant dans le sens antihoraire. Lorsque tout le monde a ses trois cartes, le donneur tire les trois cartes suivantes du dessus du jeu, les regarde en privé, et peut les poser face visible sur la table pour commencer le jeu. Ces trois cartes face visible sont appelées le « *monte* ».
 
-Alternatively, the dealer may choose to keep these three cards as a hand, without showing them to the other players, and instead expose the three (unknown) face-down cards that would have been the dealer's hand to become the *"monte"*. If the dealer chooses this option, it counts as a knock (*bussata*), the dealer's hand is fixed and each of the other players has just one turn - see below.
+Alternativement, le donneur peut choisir de conserver ces trois cartes comme une main, sans les montrer aux autres joueurs, et à la place exposer les trois cartes face cachée (inconnues) qui auraient été la main du donneur pour devenir le « *monte* ». Si le donneur choisit cette option, cela compte comme un frappe (*bussata*), la main du donneur est fixée et chacun des autres joueurs n'a qu'un seul tour — voir ci-dessous.
 
-## Play
+## Jeu
 
-Beginning with the player to dealer's right and continuing anti-clockwise, each player in turn has the following options:
+En commençant par le joueur à la droite du donneur et en continuant dans le sens antihoraire, chaque joueur à tour de rôle a les options suivantes :
 
-- Keep their hand of three cards and knock ("*bussare*").
+- Garder sa main de trois cartes et frapper (« *bussare* »).
 
-- Exchange one of their hand cards for one of the face-up cards on the table.
+- Échanger une de ses cartes contre une des cartes face visible sur la table.
 
-- Exchange two of their hand cards for two of the face-up cards on the table.
+- Échanger deux de ses cartes contre deux des cartes face visible sur la table.
 
-- Exchange their whole hand for the three cards on the table and knock. This is sometimes expressed by saying *"cambio camicia" *("I'm changing my shirt"). 
+- Échanger toute sa main contre les trois cartes sur la table et frapper. C'est parfois exprimé en disant « *cambio camicia* » (« je change de chemise »).
 
-A knock, either by a player who exchanges no cards or by a player who exchanges 3 cards, triggers the end of the play. After the knock, each player other than the knocker has just one more turn. In this last turn the player can exchange 0, 1, 2 or 3 cards.
+Un frappe, soit par un joueur qui n'échange aucune carte, soit par un joueur qui échange 3 cartes, déclenche la fin du jeu. Après le frappe, chaque joueur autre que le frappeur n'a plus qu'un seul tour. Dans ce dernier tour, le joueur peut échanger 0, 1, 2 ou 3 cartes.
 
-## Scoring
+## Comptage des points
 
-All players then expose their cards and the player with the worst hand loses one token. In case of a tie, all the players with the equal worst hands lose one token each. Any player who has three Aces - the best possible hand - gains one token, and in this way a player may sometimes have more than three tokens.
+Tous les joueurs exposent alors leurs cartes et le joueur avec la pire main perd un jeton. En cas d'égalité, tous les joueurs avec les pires mains égales perdent un jeton chacun. Tout joueur qui a trois As — la meilleure main possible — gagne un jeton, et de cette façon un joueur peut parfois avoir plus de trois jetons.
 
-A player who loses their last token is dead. They are eliminated from the game unless they decide before the next deal to pay a new stake equal to their original stake to the pool to re-enter the game. A player who pays to re-enter receives a number of tokens equal to the player who has fewest tokens at this point. So that the game does not last too long, it is usual to allow each player to re-enter only once in this way.
+Un joueur qui perd son dernier jeton est éliminé. Il est retiré du jeu à moins qu'il ne décide avant la donne suivante de payer une nouvelle mise égale à sa mise originale au pot pour rentrer dans le jeu. Un joueur qui paie pour rentrer reçoit un nombre de jetons égal à celui du joueur qui a le moins de jetons à ce moment. Pour que le jeu ne dure pas trop longtemps, il est d'usage de n'autoriser chaque joueur à rentrer qu'une seule fois de cette façon.
 
-Further hands are played, the turn to deal passing to the right after each hand. If the player who was due to deal is out of the game, the turn to deal passes to the next player in anticlockwise order who is still in. When all but one of the players have been eliminated, the last surviving player is the winner and collects the contents of the pool. If at the end both (or all) the surviving players have just one token each and both (or all) have equal hands, the dealer wins.
+D'autres mains sont jouées, le tour de donne passant à droite après chaque main. Si le joueur qui devait donner est hors du jeu, le tour de donne passe au joueur suivant dans l'ordre antihoraire qui est encore dans le jeu. Lorsque tous les joueurs sauf un ont été éliminés, le dernier joueur survivant est le gagnant et collecte le contenu du pot. Si à la fin tous les joueurs survivants (ou tous) n'ont qu'un seul jeton chacun et que tous ont des mains égales, le donneur gagne.
 
-## Variations
+## Variantes
 
-Some require a player who knocks with a *petrangola* (3-of-a-kind or sequence) to place their cards face up in front of them when knocking.
+Certains exigent qu'un joueur qui frappe avec une *petrangola* (brelan ou séquence) place ses cartes face visible devant lui lorsqu'il frappe.
 
-There is quite a lot of variation in the ranking of the highest hands. Some allow an Ace to be used as either the highest card or the lowest when making a sequence, so that 3-2-A of a suit is a valid *petrangola*, albeit the lowest sequence. 
+Il y a assez de variations dans le classement des meilleures mains. Certains permettent d'utiliser un As comme la carte la plus haute ou la plus basse lors de la constitution d'une séquence, de sorte que 3-2-A d'une couleur est une *petrangola* valide, bien que la séquence la plus basse.
 
-Some play that any 3-of-a-kind (*tris*) beats any sequence.
+Certains jouent que n'importe quel brelan (*tris*) bat n'importe quelle séquence.
 
-Some rank the threes of a kind in the same order as the cards, so that 2-2-2 is the lowest *tris* and K-K-K is the second highest.
+Certains classent les brelans dans le même ordre que les cartes, de sorte que 2-2-2 est le *tris* le plus bas et R-R-R est le deuxième plus haut.
 
-Some begin with 5 tokens each rather than 3.
+Certains commencent avec 5 jetons chacun plutôt que 3.
 
 ## Mambassa
 
-This game, which is played on the coast of the Italian province of Marche, is essentially a version of Petrangola with 4-card instead of 3-card hands. The following description is based on information from the [Mambassa Wikipedia page](https://it.wikipedia.org/wiki/Mambassa_(gioco)).
+Ce jeu, qui se joue sur la côte de la province italienne de Marche, est essentiellement une version de Petrangola avec des mains de 4 cartes au lieu de 3. La description suivante est basée sur des informations de la [page Wikipedia Mambassa](https://it.wikipedia.org/wiki/Mambassa_(gioco)).
 
-A 40-card Piacentine pattern deck is used. The maximum number of players is eight. The first dealer is whoever draws the highest card from a shuffled deck, and the turn to deal passes to the right after each hand.
+Un jeu de 40 cartes au motif Placentin est utilisé. Le nombre maximum de joueurs est de huit. Le premier donneur est celui qui tire la carte la plus haute d'un jeu mélangé, et le tour de donne passe à droite après chaque main.
 
-Each player begins with four tokens, which have an agreed value - say 50 cents. Before the deal each player puts one of these tokens in the pool and keeps the other three as lives.
+Chaque joueur commence avec quatre jetons, d'une valeur convenue — disons 50 centimes. Avant la donne, chaque joueur met un de ces jetons dans le pot et conserve les trois autres comme vies.
 
-The dealer deals a batch of 4 cards face down to each player, then looks privately at the next four cards, and may either place them face up on the table as the *monte* or take them as a hand, which counts as a **knock** (see below). If the dealer takes the original monte as a hand, the hand that was dealt to the dealer is turned face up and becomes the *monte*. In either case, the remainder of the deck is stacked face down as a stock (*mazzo*).
+Le donneur distribue un lot de 4 cartes face cachée à chaque joueur, puis regarde en privé les quatre cartes suivantes, et peut soit les poser face visible sur la table comme *monte*, soit les prendre comme une main, ce qui compte comme un **frappe** (voir ci-dessous). Si le donneur prend le *monte* original comme une main, la main qui a été distribuée au donneur est retournée face visible et devient le *monte*. Dans les deux cas, le reste du jeu est empilé face cachée comme réserve (*mazzo*).
 
-The possible hands, in descending order, are
+Les mains possibles, par ordre décroissant, sont :
 
-- Four Aces, known as a *Mambassa* (44 points)
+- Quatre As, appelés un *Mambassa* (44 points)
 
-- A *Quarantuna*, which is Ace-King-Horse-Jack all of the same suit (41 points)
+- Une *Quarantuna*, qui est As-Roi-Cavalier-Valet tous de la même couleur (41 points)
 
-- A *Quartina*, which is four cards of the same rank (40 points)
+- Une *Quartina*, qui est quatre cartes du même rang (40 points)
 
-- A Long Sequence (*scala lunga*), which is four cards of the same suit in sequence (39.5 points)
+- Une Longue Séquence (*scala lunga*), qui est quatre cartes de la même couleur en séquence (39,5 points)
 
-- A *Tris*, which is three cards of the same rank (39 points)
+- Un *Tris*, qui est trois cartes du même rang (39 points)
 
-- The Short Sequence (*scala corta*), which is three cards of the same suit in sequence (38.5 points)
+- La Courte Séquence (*scala corta*), qui est trois cartes de la même couleur en séquence (38,5 points)
 
-- Any other hand, which counts as the highest total value of cards in any one suit (at most 38 points, which would be the Ace, two pictures and the 7 of a suit).
+- Toute autre main, qui compte comme la valeur totale la plus élevée des cartes d'une seule couleur (au maximum 38 points, ce qui serait l'As, deux figures et le 7 d'une couleur).
 
-In a competition between two or more *Quartine* or between two or more *Tris*, a set of Aces is highest, then 2, 3, 4 and so on. A set of Kings is lowest.
+Dans une compétition entre deux ou plusieurs *Quartine* ou entre deux ou plusieurs *Tris*, un ensemble d'As est le plus haut, puis 2, 3, 4 et ainsi de suite. Un ensemble de Rois est le plus bas.
 
-In a competition between two or more sequences of the same length the one containing the highest card is best: Ace-King-Horse beats King-Horse-Jack which beats Horse-Jack-7 which beats Jack-7-6 and so on.
+Dans une compétition entre deux ou plusieurs séquences de même longueur, celle contenant la carte la plus élevée est la meilleure : As-Roi-Cavalier bat Roi-Cavalier-Valet qui bat Cavalier-Valet-7 qui bat Valet-7-6 et ainsi de suite.
 
-A competition between sequences of the same length with the same highest card is determined by the ranking of the suits which is from high to low: coins, swords, cups, batons. (If a French-suited pack is used the order from high to low is: hearts, diamonds, clubs, spades).
+Une compétition entre des séquences de même longueur avec la même carte la plus élevée est déterminée par le classement des couleurs qui est du plus haut au plus bas : pièces, épées, coupes, bâtons. (Si un jeu à couleurs françaises est utilisé, l'ordre du plus haut au plus bas est : cœur, carreau, trèfle, pique).
 
-The player to dealer's right begins and the turn to play passes anticlockwise. Each player in turn has the following possibilities.
+Le joueur à la droite du donneur commence et le tour de jeu passe dans le sens antihoraire. Chaque joueur à tour de rôle a les possibilités suivantes.
 
-- Exchange 0, 1, 2, 3 or all 4 hand cards for an equal number of the face up cards from the table.
+- Échanger 0, 1, 2, 3 ou les 4 cartes de sa main contre un nombre égal de cartes face visible de la table.
 
-- If the player did not exchange all 4 cards, they **may** then, if they wish, discard one of their cards face down, place it on the bottom of the stock pile (without showing it to anyone), draw the top card of the stock pile (also without showing it), and add it to their hand.
+- Si le joueur n'a pas échangé les 4 cartes, il **peut** alors, s'il le souhaite, écarter une de ses cartes face cachée, la placer en dessous de la réserve (sans la montrer à personne), tirer la carte du dessus de la réserve (également sans la montrer), et l'ajouter à sa main.
 
-If a player exchanges all 4 cards, or exchanges no cards and chooses not to discard and draw a card, this counts as a **knock**, which triggers the end of the play. After a knock, each player, excluding the knocker, has just one more turn. Then the hands are exposed and compared and the player with the worst hand must pay one of their tokens to the pool. If two or more players tie for worst hand, they each pay a token.
+Si un joueur échange les 4 cartes, ou n'échange aucune carte et choisit de ne pas écarter et tirer une carte, cela compte comme un **frappe**, qui déclenche la fin du jeu. Après un frappe, chaque joueur, à l'exception du frappeur, n'a plus qu'un seul tour. Ensuite, les mains sont exposées et comparées et le joueur avec la pire main doit payer un de ses jetons au pot. Si deux joueurs ou plus sont à égalité pour la pire main, chacun paie un jeton.
 
-If a player makes a *Mambassa* (44: Four Aces) or a *Quarantuna* (41: Ace-King-Horse-Jack of one suit) they declare it and the play ends immediately.
+Si un joueur fait un *Mambassa* (44 : quatre As) ou une *Quarantuna* (41 : As-Roi-Cavalier-Valet d'une même couleur), il le déclare et le jeu s'arrête immédiatement.
 
-- In the case of a *Mambassa* (44), each of the other players pays one of their tokens to the pool, regardless of what cards they have.
+- Dans le cas d'un *Mambassa* (44), chacun des autres joueurs paie un de ses jetons au pot, indépendamment des cartes qu'il a.
 
-- In the case of a *Quarantuno* (41), the player(s) with the worst hand(s) pay one token to the pool and the owner of the 41 takes one token out of the pool, thus gaining an extra life.
+- Dans le cas d'une *Quarantuna* (41), le ou les joueur(s) avec la ou les pire(s) main(s) paient un jeton au pot et le propriétaire du 41 sort un jeton du pot, gagnant ainsi une vie supplémentaire.
 
-A player who has lost all their tokens is eliminated from the game. The others continue playing with the tokens they have left. When all but one player have lost their tokens the last surviving player is the winner and takes the contents of the pool.
+Un joueur qui a perdu tous ses jetons est éliminé du jeu. Les autres continuent à jouer avec les jetons qu'ils ont restants. Lorsque tous les joueurs sauf un ont perdu leurs jetons, le dernier joueur survivant est le gagnant et prend le contenu du pot.
 
-If at the end of the game both (all) surviving players have just one token and both (all) have equal hands, then the dealer of that last hand wins the pool. 
-
-Home Page > Classified Index > Commerce group > Petrangola
+Si à la fin du jeu tous les joueurs survivants n'ont qu'un seul jeton et que tous ont des mains égales, alors le donneur de cette dernière main gagne le pot.

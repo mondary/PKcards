@@ -3,86 +3,84 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Patience, Solitaire
-**But :** A solitaire card game that is somewhat more challenging than ordinary Klondike, and can also be played as a competitive game between two players.
+**But :** Un jeu de patience (solitaire) quelque peu plus exigeant que le Klondike ordinaire, qui peut aussi se jouer comme un jeu compétitif entre deux joueurs.
 
 ---
 
 ## Introduction
 
-Australian Patience is basically a solitaire game, but can also be played competitively between two players. It comes from Australia, where some players prefer it as a more challenging alternative to better-known patience/solitaire games such as [Klondike](https://en.wikipedia.org/wiki/Klondike_%28solitaire%29).
+Australian Patience est fondamentalement un jeu de patience, mais il peut aussi se jouer de manière compétitive entre deux joueurs. Il vient d'Australie, où certains joueurs le préfèrent comme une alternative plus exigeante aux jeux de patience/solitaire plus connus comme le [Klondike](https://en.wikipedia.org/wiki/Klondike_%28solitaire%29).
 
-The aim is to build all the cards by suit onto four foundation piles beginning with the Aces. The moves are within the tableau similar to those in [Scorpion](https://en.wikipedia.org/wiki/Scorpion_(solitaire)), building downwards in suit and moving any column of cards whose top card fits onto the column it is moved to. 
+Le but est de construire toutes les cartes par couleur sur quatre tas de fondation commençant par les As. Les déplacements dans le tableau sont similaires à ceux du [Scorpion](https://en.wikipedia.org/wiki/Scorpion_(solitaire)), en construisant vers le bas par couleur et en déplaçant toute colonne de cartes dont la carte du dessus se place sur la colonne sur laquelle elle est déplacée.
 
-*I would like to thank Michael Doer for introducing me to this game.*
+*Je tiens à remercier Michael Doer de m'avoir fait découvrir ce jeu.*
 
-## Solitaire Game
+## Jeu en solitaire
 
-One-player Australian Patience is played with a standard international pack of 52 cards, each suit ranking from high to low K-Q-J-10-9-8-7-6-5-4-3-2-A. The player shuffles the cards and deals a tableau of 28 cards, consisting of 7 columns of 4 cards, all face up. Cards in each column are overlapped so that the first three cards dealt to the column are partly **covered**, leaving one end the card visible so that the suit and rank can be read, and only the fourth card of the column is fully **exposed**. The remaining 24 cards are stacked face down as a draw pile. Beside the draw pile there is space for a face up waste pile, which begins empty, and for four face up foundation piles, which also begin empty. An example initial layout is shown below.
+Le Australian Patience à un joueur se joue avec un jeu international standard de 52 cartes, chaque couleur se classant du plus haut au plus bas R-D-V-10-9-8-7-6-5-4-3-2-A. Le joueur mélange les cartes et distribue un tableau de 28 cartes, composé de 7 colonnes de 4 cartes, toutes face visible. Les cartes de chaque colonne sont chevauchées de sorte que les trois premières cartes distribuées à la colonne sont partiellement **cachées**, laissant une extrémité de la carte visible pour que la couleur et la hauteur puissent être lues, et seule la quatrième carte de la colonne est entièrement **exposée**. Les 24 cartes restantes sont empilées faces cachées comme pioche. À côté de la pioche, il y a de la place pour un tas de défausse face visible, qui commence vide, et pour quatre tas de fondation face visibles, qui commencent également vides. Un exemple de mise en place initiale est montré ci-dessous.
 
-![australian patience layout](../images/patience/australian.png)
+![mise en page Australian Patience](../images/patience/australian.png)
 
-The possible moves are:
+Les déplacements possibles sont :
 
-- To turn the top card of the stock pile and place it face up on top of the waste pile. 
+- Retourner la carte du dessus du tas de pioche et la placer face visible sur le tas de défausse.
 
-- To move any **exposed** card from the tableau or the top card of the waste pile to a foundation pile where it fits. The first card of each foundation pile must be an Ace, upon which the other cards of the same suit are placed in ascending sequence.
+- Déplacer n'importe quelle carte **exposée** du tableau ou la carte du dessus du tas de défausse vers un tas de fondation où elle se place. La première carte de chaque tas de fondation doit être un As, sur lequel les autres cartes de la même couleur sont placées en séquence ascendante.
 
-- To move **any** card in the tableau or the **top** card of the waste pile onto an **exposed** card in the tableau which is the next higher card of the same suit, partly covering it so as to extend the column. If a covered card from the tableau is moved, all the cards covering it must also be moved as a group. It is only the deepest buried card of the group and the exposed card that it is moved onto that must be adjacent in suit - the remainder of the moved group can contain any number of unrelated cards.
+- Déplacer **n'importe quelle** carte du tableau ou la carte du **dessus** du tas de défausse sur une carte **exposée** du tableau qui est la carte immédiatement supérieure de la même couleur, en la couvrant partiellement de manière à étendre la colonne. Si une carte cachée du tableau est déplacée, toutes les cartes qui la recouvrent doivent également être déplacées en groupe. Ce n'est que la carte la plus profondément enterrée du groupe et la carte exposée sur laquelle elle est déplacée qui doivent être adjacentes en couleur — le reste du groupe déplacé peut contenir n'importe quel nombre de cartes sans rapport.
 
-- To move any King in the tableau or on top of the waste pile to an empty column. If a covered King is moved, all the cards covering it must be moved as a group.
+- Déplacer n'importe quel Roi du tableau ou sur le dessus du tas de défausse vers une colonne vide. Si un Roi caché est déplacé, toutes les cartes qui le recouvrent doivent être déplacées en groupe.
 
-So some possible moves in the above illustration are:
+Ainsi, certains déplacements possibles dans l'illustration ci-dessus sont :
 
-- to move the Ace of hearts to a foundation pile,
+- déplacer l'As de cœur vers un tas de fondation,
 
-- to move the ![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)10 as a group onto the ![spade](../images/internat/spade.gif)10,
+- déplacer le ![pique](../images/internat/spade.gif)9-![pique](../images/internat/spade.gif)A-![carreau](../images/internat/diamond.gif)10 comme un groupe sur le ![pique](../images/internat/spade.gif)10,
 
-- to move the ![heart](../images/internat/heart.gif)J-![club](../images/internat/club.gif)6 as a group onto the ![heart](../images/internat/heart.gif)Q,
+- déplacer le ![cœur](../images/internat/heart.gif)V-![trèfle](../images/internat/club.gif)6 comme un groupe sur le ![cœur](../images/internat/heart.gif)D,
 
-- to move the ![spade](../images/internat/spade.gif)6-![spade](../images/internat/spade.gif)10-![spade](../images/internat/spade.gif)9-![spade](../images/internat/spade.gif)A-![diamond](../images/internat/diamond.gif)10 as a group onto the ![spade](../images/internat/spade.gif)7.
+- déplacer le ![pique](../images/internat/spade.gif)6-![pique](../images/internat/spade.gif)10-![pique](../images/internat/spade.gif)9-![pique](../images/internat/spade.gif)A-![carreau](../images/internat/diamond.gif)10 comme un groupe sur le ![pique](../images/internat/spade.gif)7.
 
-In order to move the ![club](../images/internat/club.gif)A to a foundation it will be necessary to expose it by moving the ![diamond](../images/internat/diamond.gif)J onto the ![diamond](../images/internat/diamond.gif)Q, which is only possible when the ![club](../images/internat/club.gif)K has been moved away into an empty column. This could be achieved as follows: 
+Pour déplacer le ![trèfle](../images/internat/club.gif)A vers une fondation, il faudra l'exposer en déplaçant le ![carreau](../images/internat/diamond.gif)V sur le ![carreau](../images/internat/diamond.gif)D, ce qui n'est possible que lorsque le ![trèfle](../images/internat/club.gif)R aura été déplacé vers une colonne vide. Cela peut être réalisé comme suit :
 
-- Move the whole column ![club](../images/internat/club.gif)A-![diamond](../images/internat/diamond.gif)J-![club](../images/internat/club.gif)J-![diamond](../images/internat/diamond.gif)3 onto the ![club](../images/internat/club.gif)2.
+- Déplacer toute la colonne ![trèfle](../images/internat/club.gif)A-![carreau](../images/internat/diamond.gif)V-![trèfle](../images/internat/club.gif)V-![carreau](../images/internat/diamond.gif)3 sur le ![trèfle](../images/internat/club.gif)2.
 
-- Move the group ![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)4-![diamond](../images/internat/diamond.gif)8 into the now empty left-hand column 
+- Déplacer le groupe ![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)4-![carreau](../images/internat/diamond.gif)8 dans la colonne de gauche maintenant vide.
 
-- Move the group ![diamond](../images/internat/diamond.gif)J-![club](../images/internat/club.gif)J-![diamond](../images/internat/diamond.gif)3 onto the ![diamond](../images/internat/diamond.gif)Q
+- Déplacer le groupe ![carreau](../images/internat/diamond.gif)V-![trèfle](../images/internat/club.gif)V-![carreau](../images/internat/diamond.gif)3 sur le ![carreau](../images/internat/diamond.gif)D.
 
-- Now the ![club](../images/internat/club.gif)A is exposed and can be moved to a foundation, exposing the ![club](../images/internat/club.gif)2 which can be moved onto the ![club](../images/internat/club.gif)A. The ![club](../images/internat/club.gif)3 can also be added to the club foundation pile as it was exposed by moving the ![spade](../images/internat/spade.gif)6 and its group. 
+- Maintenant, le ![trèfle](../images/internat/club.gif)A est exposé et peut être déplacé vers une fondation, exposant le ![trèfle](../images/internat/club.gif)2 qui peut être déplacé sur le ![trèfle](../images/internat/club.gif)A. Le ![trèfle](../images/internat/club.gif)3 peut aussi être ajouté au tas de fondation de trèfle car il a été exposé par le déplacement du ![pique](../images/internat/spade.gif)6 et de son groupe.
 
-The ![club](../images/internat/club.gif)4 is not accessible at the moment to add to the club foundation pile because there is no ![diamond](../images/internat/diamond.gif)9 in the layout onto which the ![diamond](../images/internat/diamond.gif)8 can be moved. Also the spade foundation cannot be started yet because the ![spade](../images/internat/spade.gif)A is covered by the ![diamond](../images/internat/diamond.gif)10, which cannot be moved onto the ![diamond](../images/internat/diamond.gif)J until there is a way to move the ![club](../images/internat/club.gif)J.
+Le ![trèfle](../images/internat/club.gif)4 n'est pas accessible pour le moment pour être ajouté au tas de fondation de trèfle car il n'y a pas de ![carreau](../images/internat/diamond.gif)9 dans la mise en place sur lequel le ![carreau](../images/internat/diamond.gif)8 peut être déplacé. De plus, la fondation de pique ne peut pas encore commencer car le ![pique](../images/internat/spade.gif)A est caché par le ![carreau](../images/internat/diamond.gif)10, qui ne peut pas être déplacé sur le ![carreau](../images/internat/diamond.gif)V tant qu'il n'y a pas de moyen de déplacer le ![trèfle](../images/internat/club.gif)V.
 
-Using move type 1 above, the top card of the draw pile can be exposed and placed on the waste pile at any time. It is a good idea to do this one right at the start of the game, and whenever the waste pile is empty, as the card on the waste pile may increase the choice of moves. If the card on top of the waste pile is not useful, further cards may be turned and placed on top of it. However, this must be done with caution. In Australian Patience, unlike many other solitaires, the player is **not** allowed to turn over the waste pile to make a new draw pile and run through it again. So any cards buried in the waste pile can only be used all when the cards on top of them have been moved to the tableau or foundations piles. If the draw pile is empty and no more moves are possible, the game is over.
+En utilisant le type de déplacement 1 ci-dessus, la carte du dessus de la pioche peut être exposée et placée sur le tas de défausse à tout moment. C'est une bonne idée de le faire dès le début du jeu, et chaque fois que le tas de défausse est vide, car la carte sur le tas de défausse peut augmenter le choix de déplacements. Si la carte du dessus du tas de défausse n'est pas utile, d'autres cartes peuvent être retournées et placées dessus. Cependant, cela doit être fait avec prudence. Dans Australian Patience, contrairement à beaucoup d'autres patiences, le joueur n'est **pas** autorisé à retourner le tas de défausse pour en faire une nouvelle pioche et la parcourir à nouveau. Ainsi, les cartes enfouies dans le tas de défausse ne peuvent être utilisées que lorsque les cartes au-dessus d'elles ont été déplacées vers le tableau ou les tas de fondation. Si la pioche est vide et qu'aucun autre déplacement n'est possible, le jeu est terminé.
 
-The player wins if all the cards are moved to the foundation piles so that each is topped with a King. If any cards remain in the waste pile or tableau the player has lost. 
+Le joueur gagne si toutes les cartes sont déplacées vers les tas de fondation de sorte que chacun est couronné par un Roi. S'il reste des cartes dans le tas de défausse ou le tableau, le joueur a perdu.
 
-## Two-Player Turn-Based Game
+## Jeu à deux joueurs au tour par tour
 
-Two standard 52-card packs are needed, one for each player. The packs must have different backs from each other, but should if possible be about the same size. The first player is chosen by any convenient method. For example each can draw a cards from a shuffled deck and whoever draws the higher card starts. 
+Deux jeux standard de 52 cartes sont nécessaires, un pour chaque joueur. Les jeux doivent avoir des dos différents, mais devraient si possible être de taille à peu près similaire. Le premier joueur est choisi par n'importe quelle méthode pratique. Par exemple, chacun peut tirer une carte d'un jeu mélangé et celui qui tire la carte la plus haute commence.
 
-The two decks are shuffled separately - to avoid any suspicion of inadequate shuffling it is probably a good idea for each player to shuffle the other player's deck. Each player then deals from their own deck their own tableau of 28 cards, stacking the remainder face down to form their 24-card draw pile, with space for their waste pile beside it. Between the two tableaux there should be space for eight foundation piles, all of which are available to both players.
+Les deux jeux sont mélangés séparément — pour éviter toute suspicion de mélange insuffisant, il est probablement préférable que chaque joueur mélange le jeu de l'autre joueur. Chaque joueur distribue ensuite depuis son propre jeu son propre tableau de 28 cartes, en empilant le reste face cachée pour former sa pioche de 24 cartes, avec de la place pour son tas de défausse à côté. Entre les deux tableaux, il devrait y avoir de la place pour huit tas de fondation, tous disponibles pour les deux joueurs.
 
-A turn consists of making any number of moves of types 2, 3 and 4 as described above - that is moving cards around the tableau, from the waste pile to the tableau or from the waste pile or tableau to a foundation pile. Each player may only move in their own tableau and waste pile, but they may play to any of the eight foundation piles - there will be two for each suit - including adding to a foundation pile that was started by the other player.
+Un tour consiste à effectuer autant de déplacements de types 2, 3 et 4 que souhaité — c'est-à-dire déplacer des cartes dans le tableau, du tas de défausse vers le tableau ou du tas de défausse ou du tableau vers un tas de fondation. Chaque joueur ne peut se déplacer que dans son propre tableau et tas de défausse, mais il peut jouer sur n'importe lequel des huit tas de fondation — il y en aura deux pour chaque couleur — y compris en ajoutant à un tas de fondation commencé par l'autre joueur.
 
-When the player has no more moves of type 2, 3 or 4 that they wish to make, they turn the top card of their draw pile and place it face up on their waste pile (move type 1). This ends their turn and it is the other player's turn to play.
+Lorsque le joueur n'a plus de déplacements de type 2, 3 ou 4 qu'il souhaite effectuer, il retourne la carte du dessus de sa pioche et la place face visible sur son tas de défausse (type de déplacement 1). Cela termine son tour et c'est au tour de l'autre joueur.
 
-When the players have no cards left in their draw piles, the game continues as before, but now players simply pass to end their turn. When both players pass in succession without making any further moves, the game is over. In this competitive game it is rare for all eight foundation piles to be completed - normally the players will have some unplayable cards left in their waste piles or tableaux at the end of the game.
+Lorsque les joueurs n'ont plus de cartes dans leur pioche, le jeu continue comme avant, mais maintenant les joueurs passent simplement pour terminer leur tour. Lorsque les deux joueurs passent successivement sans faire d'autre déplacement, le jeu est terminé. Dans ce jeu compétitif, il est rare que les huit tas de fondation soient tous complétés — normalement les joueurs auront encore des cartes injouables dans leurs tas de défausse ou tableaux à la fin du jeu.
 
-Now the cards in the foundation piles are turned over and sorted according to their backs. The player who has contributed most cards to the foundation piles is the winner. 
+Les cartes des tas de fondation sont alors retournées et triées selon leur dos. Le joueur qui a contribué le plus de cartes aux tas de fondation est le gagnant.
 
-## Two-Player Simultaneous Game
+## Jeu à deux joueurs simultané
 
-In the simultaneous version, the setup is the same as for the turn-based version described above, but both players start playing at the same time and try to finish the game as fast as possible. 
+Dans la version simultanée, la mise en place est la même que pour la version au tour par tour décrite ci-dessus, mais les deux joueurs commencent à jouer en même temps et essaient de terminer le jeu le plus rapidement possible.
 
-As in the turn-based game each player has exclusive use of their own tableau, draw pile and waste pile, but they can both play to any of the eight foundation piles. If both players try to play equivalent cards to the same foundation pile at the same time, whoever gets there first leaves their card on the pile, and the other player must take their card back and replace it where it was in their layout. They may later get an opportunity to play it on the other foundation pile of the same suit.
+Comme dans le jeu au tour par tour, chaque joueur a l'utilisation exclusive de son propre tableau, de sa pioche et de son tas de défausse, mais ils peuvent tous deux jouer sur n'importe lequel des huit tas de fondation. Si les deux joueurs essaient de jouer des cartes équivalentes sur le même tas de fondation en même temps, celui qui y arrive en premier laisse sa carte sur le tas, et l'autre joueur doit reprendre sa carte et la remettre où elle était dans sa mise en place. Il pourra plus tard avoir l'opportunité de la jouer sur l'autre tas de fondation de la même couleur.
 
-The game continues until neither player is able and willing to make any further moves. The cards belonging to each player in the foundation piles are then counted and whoever has contributed more cards to them wins. 
+Le jeu continue jusqu'à ce qu'aucun des deux joueurs ne soit capable ni disposé à faire d'autre déplacement. Les cartes appartenant à chaque joueur dans les tas de fondation sont alors comptées et celui qui a contribué le plus de cartes gagne.
 
-## Software and Online Games
+## Logiciel et jeux en ligne
 
-On SolitaireNetwork, the solo version of [Australian Patience](https://www.solitairenetwork.com/solitaire/australian-patience-solitaire-game.html) can be online in a web browser.
+Sur SolitaireNetwork, la version solo de l'[Australian Patience](https://www.solitairenetwork.com/solitaire/australian-patience-solitaire-game.html) peut être jouée en ligne dans un navigateur web.
 
-Solo Australian Patience can also be played at [Solitaire Paradise](https://www.solitaireparadise.com/games_list/australian-patience.html).
-
-Home Page > Classified Index > Layout Group > Competitive Patience > Australian
+L'Australian Patience en solo peut aussi être jouée sur [Solitaire Paradise](https://www.solitaireparadise.com/games_list/australian-patience.html).

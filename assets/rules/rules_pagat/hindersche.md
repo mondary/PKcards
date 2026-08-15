@@ -4,189 +4,169 @@
 **Nombre de cartes :** 36
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** How to play Hindersche - a 4-player card game from the Black Forest in which the main object is to avoid taking tricks containing card points.
+**But :** Comment jouer à Hindersche — un jeu de cartes à 4 joueurs de la Forêt-Noire dont le but principal est d'éviter de remporter des plis contenant des points de carte.
 
 ---
 
-Hindersche - card game rules
-
-Home
-A-Z
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Reunion Group > Hindersche 
-
-Hindersche 
-
 ## Introduction
 
-Hindersche, also known as **Vier-Strich**, is an unusual and little known reverse game that is only played in the central Black Forest in Germany. It is reputed to be over 200 years old and once played by farmers, foresters and journeymen in the Principality of Fürstenberg. Today it is only played in the valleys of the Kinzig and the Wolf, in particular, within a 20 mile radius of Bad Rippoldsau including the settlements of Kaltbrunn, Oberhammersbach, Oberwolfach, Schapbach, Schenkenzell and Wolfach. It is popular enough for regular tournaments to be held alongside annual ‘world championships’ organised by the Schapbach Sports Club.
+Hindersche, aussi connu sous le nom de **Vier-Strich**, est un jeu inversé inhabituel et peu connu qui n'est joué que dans la Forêt-Noire centrale en Allemagne. Sa réputation le dit vieux de plus de 200 ans et autrefois joué par des paysans, des forestiers et des compagnons dans la principauté de Fürstenberg. Aujourd'hui, il n'est joué que dans les vallées de la Kinzig et du Wolf, en particulier dans un rayon de 30 km autour de Bad Rippoldsau, y compris les villages de Kaltbrunn, Oberhammersbach, Oberwolfach, Schapbach, Schenkenzell et Wolfach. Il est assez populaire pour que des tournois réguliers soient organisés aux côtés des « championnats du monde » annuels organisés par le club sportif de Schapbach.
 
-According Uwe Schoch, the rules of Hindersche were handed down by word of mouth until he captured and [published them online in 2014](https://www.uschoch.de/files/spielregeln.pdf). The fact that it uses a 36-card pack, is played anticlockwise and is an Ace-Ten game with Tens ranking low suggest it is of considerable antiquity, although the earliest historical evidence only dates to 1933. The name *Hindersche *means ‘backwards’ in the local Swabian dialect and it may have developed from another local game called *Viersche* whose rules are very similar but whose name means ‘forwards’. Viersche is also known as *Hundert* (‘hundred’) thanks to its target score.
+Selon Uwe Schoch, les règles de Hindersche ont été transmises oralement jusqu'à ce qu'il les capture et les [publie en ligne en 2014](https://www.uschoch.de/files/spielregeln.pdf). Le fait qu'il utilise un jeu de 36 cartes, se joue dans le sens antihoraire et est un jeu As-Dix avec les Dix classés bas suggère qu'il est d'une grande antiquité, bien que la plus ancienne preuve historique ne date que de 1933. Le nom *Hindersche* signifie « en arrière » dans le dialecte souabe local et il a peut-être évolué à partir d'un autre jeu local appelé *Viersche* dont les règles sont très similaires mais dont le nom signifie « en avant ». Viersche est aussi connu sous le nom de *Hundert* (« cent ») grâce à son score cible.
 
-*This page is based on Paul Eaton’s article in [The Playing-Card, Vol. 51, No. 3 (2022)](https://i-p-c-s.org/journal/contents/51/3) which, in turn, was based on research that included a field trip to the Black Forest where he met at the Alte Tränke pub in Schafbach on 15 September 2022 and learned the game from Kurt Bonath (host), Stéphane Augst, Hubert Heizmann, Josef Ruf, Karl-Heinz Schmid, Werner Schmid, Martin Thörmer and Alfred Weiss. Thanks are also due to Uwe Schoch for his advice on the rules.*
+*Cette page est basée sur l'article de Paul Eaton dans [The Playing-Card, Vol. 51, No. 3 (2022)](https://i-p-c-s.org/journal/contents/51/3) qui, à son tour, reposait sur des recherches incluant un voyage sur le terrain dans la Forêt-Noire où il a rencontré le 15 septembre 2022 à la pub Alte Tränke à Schafbach et a appris le jeu de Kurt Bonath (hôte), Stéphane Augst, Hubert Heizmann, Josef Ruf, Karl-Heinz Schmid, Werner Schmid, Martin Thörmer et Alfred Weiss. Remerciements also à Uwe Schoch pour ses conseils sur les règles.*
 
-*The playing cards depicted above are the jacks of diamonds and hearts from a Jass/Tapp pack, © ASS Altenburger. Pack design: Berlin or North German pattern, originally designed before 1856. Cards depicted by kind permission of ASS Altenburger*.
+*Les cartes à jouer représentées ci-dessus sont les valets de carreau et de cœur d'un jeu Jass/Tapp, © ASS Altenburger. Design du jeu : pattern berlinois ou nord-allemand, conçu à l'origine avant 1856. Cartes représentées avec l'aimable autorisation d'ASS Altenburger.*
 
-*There are a few rule details about which we are currently uncertain - these are given below in italics.*
+*Il y a quelques détails de règles dont nous ne sommes actuellement pas certains — ceux-ci sont donnés ci-dessous en italique.*
 
-## Overview
+## Vue d'ensemble
 
-![The Alte Tränke in Bad Rippoldsau](../images/reunion/alte-traenke.jpg)
-The *Alte Tränke* in Bad Rippoldsau
-Hindersche is a four player, non-partnership, Ace-Ten game in which the ‘last in loses’. It is played in two phases. The first comprises a round of up to four deals, in each of which the player with the most points in tricks loses. The loss is reprented by a mark on the slate and the phase ends as soon as there are four marks, hence this phase is called Vier-Strich or 4-Strich (“four line”) like the alternative name of the game. 
+![L'Alte Tränke à Bad Rippoldsau](../images/reunion/alte-traenke.jpg)
+L'*Alte Tränke* à Bad Rippoldsau
+Hindersche est un jeu de plis As-Dix pour quatre joueurs sans partenariat, dans lequel « le dernier perd ». Il se joue en deux phases. La première comprend une série de jusqu'à quatre donnes, dans chacune desquelles le joueur avec le plus de points dans les plis perd. La perte est représentée par une marque sur l'ardoise et la phase se termine dès qu'il y a quatre marques, d'où le nom de Vier-Strich ou 4-Strich (« quatre traits ») comme nom alternatif du jeu.
 
-In the second phase, known as *Butzen* (“cleaning”), the player with the lowest score in each deal erases a mark and ‘gives it’ to the one with the highest. Anyone who has no marks at the start of phase two or erases their last mark during phase two drops out. The final stage begins when only two players are left and marks are erased but not added. The last player left in is the loser of the game and receives a line drawn on the frame of the slate. There are typically 4 games in a rubber (*Runde*) which lasts 1 to 1½ hours.
+Dans la deuxième phase, connue sous le nom de *Butzen* (« nettoyage »), le joueur avec le score le plus bas dans chaque donne efface une marque et la « donne » à celui qui a le plus haut. Quiconque n'a plus de marques au début de la phase deux ou efface sa dernière marque pendant la phase deux est éliminé. L'étape finale commence lorsqu'il ne reste que deux joueurs et que des marques sont effacées mais plus ajoutées. Le dernier joueur restant est le perdant de la partie et reçoit un trait tracé sur le cadre de l'ardoise. Il y a typiquement 4 parties dans une manche (*Runde*) qui dure 1 à 1h30.
 
-Hindersche has some other unusual features besides its quirky scoring system. It is actually legal to collect a trick you didn't win provided the others don't object; this is called *schleipfen *after an old forestry term which means “to haul (logs)”. Also if two or three players tie on points they may be required to hold a playoff to decide the result.
+Hindersche présente d'autres caractéristiques inhabituelles en plus de son système de marquage excentrique. Il est en réalité légal de ramasser un pli qu'on n'a pas gagné à condition que les autres ne s'y opposent pas ; cela s'appelle *schleipfen* d'après un ancien terme forestier qui signifie « traîner (des bûches) ». Aussi, si deux ou trois joueurs sont à égalité en points, ils peuvent être tenus de disputer un barrage pour décider du résultat.
 
-## Players and Equipment
+## Joueurs et matériel
 
-There are 4 players; each playing on his or her own account. The game is dealt and played anticlockwise
+Il y a 4 joueurs, chacun jouant pour son propre compte. La donne et le jeu se font dans le sens antihoraire.
 
-A 36-card, French-suited Jass/Tapp pack is used, but players found these hard to obtain (they are now out of production) and so usually shortened a standard 52-card pack, Berlin pattern pack by removing the 2s to 5s and any Jokers. Cards rank in their natural order, Aces high, and have the usual Ace-Ten values with two exceptions: the Jack of the trump suit, the Old Man (*de Alt*), is the highest trump; and the ‘next’ Jack (i.e. Jack of the same colour as the trump Jack), the Little Man (*de Kloei*), is the second highest trump. Both are worth 12 points. The ranking (from high to low) and the point values of the cards are as follows:
+Un jeu de 36 cartes Jass/Tapp à couleurs françaises est utilisé, mais les joueurs trouvaient ceux-ci difficiles à obtenir (ils ne sont plus en production) et raccourcissent donc généralement un jeu standard de 52 cartes, pattern de Berlin, en retirant les 2 à 5 et tous les jokers. Les cartes se classent dans leur ordre naturel, les as en haut, et ont les valeurs habituelles As-Dix avec deux exceptions : le valet de la couleur d'atout, le Vieux (*de Alt*), est le plus haut atout ; et le valet « suivant » (c'est-à-dire le valet de la même couleur que le valet d'atout), le Petit (*de Kloei*), est le deuxième plus haut atout. Les deux valent 12 points. Le classement (du plus haut au plus bas) et les valeurs en points des cartes sont les suivants :
 
-| Trumps | Non-trumps |
-| card | points | card | points |
-| Jack | 12 | Ace | 11 |
-| Next Jack | 12 | King | 4 |
-| Ace | 11 | Queen | 3 |
-| King | 4 | Jack | 2 |
-| Queen | 3 | Ten | 10 |
-| Ten | 10 | Nine | 0 |
-| Nine | 0 | Eight | 0 |
-| Eight | 0 | Seven | 0 |
-| Seven | 0 | Six | 0 |
-| Six | 0 |   |   |
+| Atouts | Non-atouts |
+| carte | points | carte | points |
+| Valet | 12 | As | 11 |
+| Valet suivant | 12 | Roi | 4 |
+| As | 11 | Dame | 3 |
+| Roi | 4 | Valet | 2 |
+| Dame | 3 | Dix | 10 |
+| Dix | 10 | Neuf | 0 |
+| Neuf | 0 | Huit | 0 |
+| Huit | 0 | Sept | 0 |
+| Sept | 0 | Six | 0 |
+| Six | 0 |   |   |
 
-Scores are chalked on a slate and a small sponge or cleaning cloth is used to erase them again.
+Les scores sont inscrits à la craie sur une ardoise et une petite éponge ou un chiffon propre est utilisé pour les effacer.
 
-## Deal
+## Donner
 
-Players draw cards from the pack and the one with the lowest card deals first, or sometimes the honour of dealing first is given to the newest player to join the group. Thereafter the turn to deal passes to the right.
+Les joueurs tirent des cartes du jeu et celui qui a la carte la plus basse donne en premier, ou parfois l'honneur de donner en premier est accordé au joueur le plus récent à avoir rejoint le groupe. Ensuite, le tour de donner passe à droite.
 
-The dealer shuffles, offers the pack to the left for cutting and deals 9 cards to each player in three batches of 3, beginning with forehand (the player to dealer's right). 
+Le donneur mélange, offre le jeu à gauche pour la coupe et distribue 9 cartes à chaque joueur en trois paquets de 3, en commençant par le premier joueur (le joueur à la droite du donneur).
 
-At the end of the deal a card is turned face up, whose suit will be the trump suit for the hand. When there are four active players in the game, the whole pack is dealt out to the players and the bottom card of the pack, which belongs to the dealer, is turned up. This upcard is left on the table while players arrange their cards and the dealer picks it up when the play begins. 
+À la fin de la donne, une carte est retournée face visible, dont la couleur sera l'atout pour la donne. Lorsqu'il y a quatre joueurs actifs dans le jeu, tout le jeu est distribué aux joueurs et la carte du bas du jeu, qui appartient au donneur, est retournée. Cette carte exposée reste sur la table pendant que les joueurs arrangent leurs cartes et le donneur la ramasse au début du jeu.
 
-In phase two of the game players will progressively drop out, so that only 2 or 3 active players may remain. In this case the dealer still deals 9 cards to each active player in packets of 3, but now the remaining 9 or 18 cars are out of play and are stacked face down on the table. The dealer turns the top card of this stack face up to determine the trump suit.
+Dans la deuxième phase du jeu, les joueurs abandonneront progressivement, de sorte qu'il ne restera plus que 2 ou 3 joueurs actifs. Dans ce cas, le donneur distribue toujours 9 cartes à chaque joueur actif en paquets de 3, mais les 9 ou 18 cartes restantes sont hors jeu et sont empilées face cachée sur la table. Le donneur retourne la carte supérieure de ce tas face visible pour déterminer la couleur d'atout.
 
-## Rules of Play
+## Règles de jeu
 
-Forehand (the nearest active player to dealer's right) leads to the first trick. Holding a card of the suit led you must **either** follow suit **or** play a trump. If you have no card of the suit that was led you may play any card. The player who takes the trick is the one who played the highest trump or, if no trumps were played, the highest card of the led suit. The trick taker leads to the next trick.
+Le premier joueur (le joueur actif le plus proche de la droite du donneur) mène au premier pli. Si vous détenez une carte de la couleur menée, vous devez **soit** suivre la couleur **soit** jouer un atout. Si vous n'avez pas de carte de la couleur menée, vous pouvez jouer n'importe quelle carte. Le joueur qui remporte le pli est celui qui a joué l'atout le plus haut ou, si aucun atout n'a été joué, la carte la plus haute de la couleur menée. Le gagnant du pli mène au pli suivant.
 
-You may accidentally or deliberately pick up a trick that is not legally yours (for example by ignoring a trump played by another player) and proceed as though you had won the trick, provided that there is no objection from your opponents before you lead to the next trick. This is known as a *Schleipfe.*
+Vous pouvez accidentellement ou délibérément ramasser un pli qui ne vous appartient pas légalement (par exemple en ignorant un atout joué par un autre joueur) et procéder comme si vous aviez gagné le pli, à condition qu'il n'y ait pas d'objection de vos adversaires avant que vous ne meniez au pli suivant. Cela s'appelle une *Schleipfe*.
 
-## Scoring
+## Marquage
 
-At the end of a deal, after all nine tricks have been played, each player works out their own score by counting up the total point value of cards they took in their tricks. There is a total of 140 card points in the pack. The result is recorded on the slate in **marks** and **games**. Each player is allocated a corner of the slate corresponding to their seating position, and each diagonal line (**mark**) across a corner of the slate represents one penalty point for the corresponding player. Each lost **game** is represented by line drawn on the wooden frame of the slate. In tournament play the lost games are known as *Bollen* (blobs) and the player who acquires most of these during the tournament is the *Bollenkönig* (blob king).
+À la fin d'une donne, après que les neuf plis ont été joués, chaque joueur calcule son propre score en additionnant la valeur totale en points des cartes qu'il a prises dans ses plis. Il y a un total de 140 points de carte dans le jeu. Le résultat est enregistré sur l'ardoise en **marques** et **parties**. Chaque joueur se voit attribuer un coin de l'ardoise correspondant à sa position à table, et chaque ligne diagonale (**marque**) sur un coin de l'ardoise représente un point de pénalité pour le joueur correspondant. Chaque **partie** perdue est représentée par une ligne tracée sur le cadre en bois de l'ardoise. En tournoi, les parties perdues sont appelées *Bollen* (taches) et le joueur qui en accumule le plus pendant le tournoi est le *Bollenkönig* (roi des taches).
 
-A **game** is played in two **phases** or **rounds** (*Runden*) each of which normally lasts for several **deals**, and normally four games constitute a **rubber**.
+Une **partie** se joue en deux **phases** ou **tours** (*Runden*) qui durent normalement chacun plusieurs **donnes**, et normalement quatre parties constituent une **manche**.
 
-### Phase 1 – Vier-Strich or 4-Strich
+### Phase 1 – Vier-Strich ou 4-Strich
 
-![phase 1 slate](../images/reunion/hindersche-slate1.jpg)
-Scoring. One player already has 1 game
-point recorded on the frame. In the current
-game, one player has lost twice and
+![ardoise phase 1](../images/reunion/hindersche-slate1.jpg)
+Marquage. Un joueur a déjà 1 point
+de partie enregistré sur le cadre. Dans la
+partie en cours, un joueur a perdu deux fois et
+un autre une fois, avec encore une donne à jouer.
 
-another once with one more deal to go.
-Phase 1 comprises up to four deals but ends as soon as four or more marks are chalked on the slate, hence the name *Vier-Strich* (“four lines”). The procedure is:
+La phase 1 comprend jusqu'à quatre donnes mais se termine dès que quatre marques ou plus sont inscrites sur l'ardoise, d'où le nom de *Vier-Strich* (« quatre traits »). La procédure est :
 
-- The player with the most points (if less than 100) at the end of a deal receives 1 mark.
+- Le joueur avec le plus de points (si moins de 100) à la fin d'une donne reçoit 1 marque.
 
-- A player who takes 100 or more card points in tricks has made a ‘**march**’ (*Durchmarsch*). This player wins and the three opponents are given 1 mark each.
+- Un joueur qui prend 100 points de carte ou plus dans les plis a réalisé un « **marche** » (*Durchmarsch*). Ce joueur gagne et les trois adversaires reçoivent 1 marque chacun.
 
-- If two or three players tie for most points, those involved in the tie hold a playoff to determine who gets the mark. 
+- Si deux ou trois joueurs sont à égalité pour le plus de points, ceux concernés par l'égalité disputent un barrage pour déterminer qui reçoit la marque.
 
-- If everyone scores exactly 35, each of the four players receives 1 mark.
+- Si tout le monde marque exactement 35, chacun des quatre joueurs reçoit 1 marque.
 
-Normally Phase 1 ends with 4 marks on the slate; if, however, a player has made 100 in the third or fourth deal or if all four players tie on 35 after at least one deal has been played, there will be 5 to 7 marks. The marks above 4 are called **excess marks**.
+Normalement, la phase 1 se termine avec 4 marques sur l'ardoise ; cependant, si un joueur a fait 100 lors de la troisième ou quatrième donne ou si les quatre joueurs sont à égalité à 35 après au moins une donne, il y aura 5 à 7 marques. Les marques au-dessus de 4 sont appelées **marques excédentaires**.
 
-At the end of the first phase any players who have no marks on the slate drop out of the game - they cannot lose and do not take part in phase 2.
+À la fin de la première phase, les joueurs qui n'ont aucune marque sur l'ardoise abandonnent le jeu — ils ne peuvent pas perdre et ne participent pas à la phase 2.
 
-If a player loses all the first four deals (and there is no march), that player loses the entire game and there is no Phase 2. **Two** lost games are chalked for that player on the frame of the slate and there is a ritual whereby the others all stand and point at them in recognition (or mockery) of their misfortune.
+Si un joueur perd les quatre premières donnes (et qu'il n'y a pas de marche), ce joueur perd la partie entière et il n'y a pas de phase 2. **Deux** parties perdues sont inscrites pour ce joueur sur le cadre de l'ardoise et il y a un rituel où les autres se lèvent tous et pointent vers lui en reconnaissance (ou moquerie) de sa malchance.
 
 ### Phase 2 - Butzen
 
-![phase 2 slate](../images/reunion/hindersche-slate2.jpg)
-Phase 1 – *Vier-Strich* – has been played out, but
+![ardoise phase 2](../images/reunion/hindersche-slate2.jpg)
+La phase 1 – *Vier-Strich* – a été jouée, mais
+un joueur a « fait 100 », donc il y a 6 marques
+au lieu des quatre habituelles. Un joueur a déjà
+un point de pénalité sur le cadre.
 
-one player has ‘made 100’, so there are 6 marks
-instead of the usual four. One player already
-has a penalty point on the frame.
-Phase 2 consists of as many deals as required until there is only one player left in who is the overall loser.  It begins as soon as there are 4 or more marks on the slate in Phase 1.
+La phase 2 consiste en autant de donnes que nécessaires jusqu'à ce qu'il ne reste qu'un joueur, qui est le perdant global. Elle commence dès qu'il y a 4 marques ou plus sur l'ardoise lors de la phase 1.
 
-In each deal, the player who scores the fewest card points erases 1 mark, hence the name *Butzen* ("cleaning off”), and if there are no excess marks the player with the highest score adds a mark to their corner of the slate. 
+Dans chaque donne, le joueur qui marque le moins de points de carte efface 1 marque — d'où le nom de *Butzen* (« nettoyer ») — et s'il n'y a pas de marques excédentaires, le joueur avec le score le plus élevé ajoute une marque à son coin de l'ardoise.
 
-During *Butzen*, a march is achieved **either** by 'making 100' **or** by taking all 9 tricks. A player who makes a march erases 2 marks and if there are no excess marks the opponents each add 1 to their tally.
+Pendant le *Butzen*, une marche est réalisée **soit** en « faisant 100 » **soit** en prenant les 9 plis. Un joueur qui fait une marche efface 2 marques et s'il n'y a pas de marques excédentaires, les adversaires ajoutent chacun 1 à leur décompte.
 
-During *Butzen*, if all players tie with the same number of card points, no marks are added or erased.
+Pendant le *Butzen*, si tous les joueurs sont à égalité avec le même nombre de points de carte, aucune marque n'est ajoutée ni effacée.
 
-As players erase their last mark, they drop out. If a player who drops out was due to deal next, the deal passes to the next player who is still in the game. 
+Au fur et à mesure que les joueurs effacent leur dernière marque, ils abandonnent. Si le joueur qui abandonnait devait donner le tour suivant, la donne passe au joueur suivant qui est encore dans le jeu.
 
-When three players have dropped out the last player left in is the loser of the game and is penalised with a single chalk mark on the frame of the slate, regardless of how many marks are left on the slate. The marks are cleaned from the slate ready for the next game to begin.
+Lorsque trois joueurs ont abandonné, le dernier joueur restant est le perdant de la partie et est pénalisé d'une seule marque à la craie sur le cadre de l'ardoise, quel que soit le nombre de marques restant sur l'ardoise. Les marques sont nettoyées de l'ardoise, prêtes pour que la partie suivante commence.
 
-In detail, the process is as follows.
+En détail, le processus est le suivant.
 
-**When there are excess marks and at least three players:**
+**Lorsqu'il y a des marques excédentaires et au moins trois joueurs :**
 
-If there are more than four marks on the slate, marks are erased but not added.
+S'il y a plus de quatre marques sur l'ardoise, des marques sont effacées mais pas ajoutées.
 
-- Normally, sufficient marks are erased in the next deal to get down to a total of 4 marks.  So if there are 5 marks on the slate, in the next deal 1 mark is erased by the player with the lowest score; if there are 6 marks, the players with the lowest two scores each erase 1 mark. If there are 7 marks, all except the player with the highest score erase 1 mark. No one adds marks. 
+- Normalement, suffisamment de marques sont effacées à la donne suivante pour redescendre à un total de 4 marques. Donc, s'il y a 5 marques sur l'ardoise, à la donne suivante 1 marque est effacée par le joueur avec le score le plus bas ; s'il y a 6 marques, les joueurs avec les deux scores les plus bas effacent chacun 1 marque. S'il y a 7 marques, tous sauf le joueur avec le score le plus élevé effacent 1 marque. Personne n'ajoute de marques.
 
-- If a player makes a march, that player erases 2 marks if there are at least 2 excess marks and the player has 2 marks to erase. If there is only one excess mark, or if the player who made march has only one mark, only one mark is erased.
+- Si un joueur fait une marche, il efface 2 marque s'il y a au moins 2 marques excédentaires et qu'il a 2 marques à effacer. S'il n'y a qu'une seule marque excédentaire, ou si le joueur qui a fait la marche n'a qu'une marque, seule une marque est effacée.
 
-**When there are exactly four marks and at least three players:**
+**Lorsqu'il y a exactement quatre marques et au moins trois joueurs :**
 
-- The player with the fewest points erases 1 mark, while the player with the most 'receives' the mark erased by the winner. Thus so long as there is no march, there are always 4 marks on the slate.
+- Le joueur avec le moins de points efface 1 marque, tandis que le joueur avec le plus « reçoit » la marque effacée par le gagnant. Ainsi, tant qu'il n'y a pas de marche, il y a toujours 4 marques sur l'ardoise.
 
-- A player who makes a march erases all their marks (1 or 2) and drops out, while the opponents each add 1 to their tally. This may create an excess mark, in which case the rules above apply until the marks on the slate are again reduced to four.
+- Un joueur qui fait une marche efface toutes ses marques (1 ou 2) et abandonne, tandis que les adversaires ajoutent chacun 1 à leur décompte. Cela peut créer une marque excédentaire, auquel cas les règles ci-dessus s'appliquent jusqu'à ce que les marques sur l'ardoise soient à nouveau réduites à quatre.
 
-**When there are only two players:**
+**Lorsqu'il ne reste que deux joueurs :**
 
-- When just two players remain, the final stage of the game begins. The winner of each deal erases one mark, or two in the case of march, but no marks are added by the loser.. As soon as one player has erased all their marks, that player drops out and the last remaining player is the loser of the game.
+- Lorsqu'il ne reste que deux joueurs, l'étape finale de la partie commence. Le gagnant de chaque donne efface une marque, ou deux en cas de marche, mais aucune marque n'est ajoutée par le perdant. Dès qu'un joueur a effacé toutes ses marques, il abandonne et le dernier joueur restant est le perdant de la partie.
 
-At any stage during *Butzen*, a player who feels they have an unwinnable hand may ask for “nicer ones” (*hübscher*) before play begins. If the opponent(s) agree, the cards are thrown in and the same dealer deals again. This normally happens only when there are only two players.
+À tout moment pendant le *Butzen*, un joueur qui estime avoir une main perdante peut demander des « plus jolies » (*hübscher*) avant le début du jeu. Si le(s) adversaire(s) acceptent, les cartes sont jetées et le même donneur redistribue. Cela ne se produit normalement que lorsqu'il n'y a que deux joueurs.
 
-### Playoff
+### Barrage
 
-In either phase, when two or three players have exactly equal number of points, it may be necessary to resolve the tie in order to determine which player should add or erase a mark. In this case there is an additional 'playoff' deal in which only the tied players take part, and the result is used only to break the tie. 
+Dans l'une ou l'autre phase, lorsque deux ou trois joueurs ont exactement le même nombre de points, il peut être nécessaire de départager pour déterminer quel joueur doit ajouter ou effacer une marque. Dans ce cas, il y a une donne de « barrage » supplémentaire à laquelle seuls les joueurs à égalité participent, et le résultat n'est utilisé que pour départager.
 
-For example, in the Butzen phase with 3 players and 4 marks on the slate, if A and B tie for lowest score, C adds a mark and then sits out while A and B hold a playoff. The winner of the playoff then erases a mark. 
+Par exemple, dans la phase Butzen avec 3 joueurs et 4 marques sur l'ardoise, si A et B sont à égalité pour le score le plus bas, C ajoute une marque et se retire pendant que A et B disputent un barrage. Le gagnant du barrage efface alors une marque.
 
-In a playoff deal, the cards are dealt by whichever player in the playoff has the earlier turn to deal and the next player in rotation leads to the first trick. When the playoff is settled, the normal game resumes, and the turn to deal passes to the player to the right of the one who dealt for the playoff.
+Dans une donne de barrage, les cartes sont distribuées par le joueur du barrage dont c'est le tour de donner, et le joueur suivant dans la rotation mène au premier pli. Lorsque le barrage est réglé, le jeu normal reprend, et le tour de donner passe au joueur à la droite de celui qui a donné pour le barrage.
 
-### Settlement
+### Règlement
 
-Normally four games constitute a rubber. If playing for stakes, at the end of a rubber those with marks on the frame pay each opponent for each mark they have acquired. A typical tariff is € 5.
+Normalement, quatre parties constituent une manche. Si on joue pour des mises, à la fin d'une manche, ceux qui ont des marques sur le cadre paient chaque adversaire pour chaque marque qu'ils ont accumulée. Un tarif typique est de 5 €.
 
-For example, if A has 3 marks on the frame, B has 1 mark and C and D have none, A pays € 15 and B € 5 to each opponent. Thus A loses €40, B breaks even and C and D win € 20 each. Of course, players can set their own tariff.
+Par exemple, si A a 3 marques sur le cadre, B a 1 marque et C et D n'en ont pas, A paie 15 € et B 5 € à chaque adversaire. Ainsi, A perd 40 €, B s'en sort à zéro et C et D gagnent 20 € chacun. Bien sûr, les joueurs peuvent fixer leur propre tarif.
 
-## Tactics
+## Tactique
 
-Being able to play a trump at any time is very useful. For example, if you are in rearhand and you see that the cards so far played are of low value, it may make sense to play your highest trump to get it out of the way. Equally if you are aiming to make a march, you may want to trump a high value trick rather than follow suit and lose it.  
+Pouvoir jouer un atout à tout moment est très utile. Par exemple, si vous êtes en arrière-main et que vous voyez que les cartes jouées jusqu'à présent sont de faible valeur, cela peut avoir du sens de jouer votre atout le plus élevé pour l'écarter. De même, si vous visez une marche, vous voudrez peut-être couper un pli de forte valeur plutôt que de suivre et le perdre.
 
-Smearing high value cards onto other players is usually a good tactic. To that end it is usually worth voiding suits early on in order to be able to do this.
+Étaler des cartes de forte valeur sur d'autres joueurs est généralement une bonne tactique. Pour cela, il vaut généralement la peine de se priver de couleurs tôt afin de pouvoir le faire.
 
-Leading medium-ranking cards early on is a good option, whilst keeping a low card in each suit – if you can’t void it – is also prudent. Leading a Ten is known as “selling a Tenner” (*10er verkaufe*) and is done in the hope that someone else will ‘buy it’. Demanding trumps (*Trumpf haische*) is a tactic to draw trumps out from one’s opponents, to test who has trumps or to work out how they are distributed.
+Mener des cartes de rang moyen tôt est une bonne option, tout en gardant une carte basse dans chaque couleur — si on ne peut pas s'en priver — est aussi prudent. Mener un Dix est appelé « vendre un dix » (*10er verkaufe*) et se fait dans l'espoir que quelqu'un d'autre l'« achètera ». Exiger des atouts (*Trumpf haische*) est une tactique pour tirer les atouts de ses adversaires, pour tester qui en a ou pour comprendre comment ils sont distribués.
 
-You may *schleipfen* deliberately if you are aiming to make 100 and want to ‘haul off’ a trick with high points; the others may let it go to you because they’re trying to score as few as possible. Even if they suspect you are trying for 100, they may allow you to have the points because they reckon you’re not going to make it. And if you are foolish enough to pick up a high value trick by mistake, the one who should have taken it may well be happy to let it go! Paul Eaton did not notice any *schleipfen* in the games that he played, and wondered if it would be frowned upon if a player did it too often. It seems a risky tactic.
+Vous pouvez *schleipfen* délibérément si vous visez les 100 et voulez « traîner » un pli avec beaucoup de points ; les autres peuvent vous le laisser car ils essaient de marquer le moins possible. Même s'ils soupçonnent que vous visez les 100, ils peuvent vous laisser les points car ils estiment que vous n'y arriverez pas. Et si vous êtes assez maladroits pour ramasser un pli de forte valeur par erreur, celui qui aurait dû le prendre sera probablement ravi de vous le laisser ! Paul Eaton n'a remarqué aucun *schleipfen* dans les parties qu'il a jouées, et se demandait si cela serait mal vu si un joueur le faisait trop souvent. Cela semble une tactique risquée.
 
-Essentially you don’t want to be left with high cards or trumps at the end unless you are aiming for a march.
+Essentiellement, vous ne voulez pas vous retrouver avec des cartes hautes ou des atouts à la fin, sauf si vous visez une marche.
 
 ## Conclusion
 
-Hindersche is one of those fascinating pieces of local history and culture that so often goes unrecorded. Sometimes reverse games are less fun because tactical play is limited, but this one is unexpectedly enjoyable. It is easy to learn and interesting to play, but tactically challenging to master. Its All Fours rules of play, the option of making 100 and the possibility of a sneaky *Schleipfe* add interest, uncertainty and opportunities for skilful play.
+Hindersche est l'un de ces morceaux fascinants d'histoire et de culture locale qui si souvent restent non enregistrés. Parfois, les jeux inversés sont moins amusants car le jeu tactique est limité, mais celui-ci est étonnamment agréable. Il est facile à apprendre et intéressant à jouer, mais tactiquement difficile à maîtriser. Ses règles de jeu de type All Fours, la possibilité de faire 100 et la possibilité d'une *Schleipfe* sournoise ajoutent de l'intérêt, de l'incertitude et des opportunités pour un jeu habile.
 
-The game also reflects local culture in the quirky scoring scheme and the laid back way that players are able to rotate in and out of the game or drop out after a successful run and relax while watching those left in engage in friendly combat.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Reunion Group > Hindersche
-
-This page was written by Paul Eaton and is maintained by John McLeod, john@pagat.com
-
-© Paul Eaton, John McLeod, 2024. Last updated: 28th March 2026
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
+Le jeu reflète aussi la culture locale dans le système de marquage excentrique et la manière détendue dont les joueurs peuvent tourner et sortir du jeu ou abandonner après une bonne série et se détendre en regardant ceux qui restent s'affronter amicalement.

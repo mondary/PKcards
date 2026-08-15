@@ -2,27 +2,25 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Information on the card game Mao in which new players joining a game are not allowed to be told the rules.
+**But :** Informations sur le jeu de cartes Mao dans lequel les nouveaux joueurs qui rejoignent une partie n'ont pas le droit de se faire expliquer les règles.
 
 ---
 
-Card games belonging to the Eights group have been popular with schoolchildren and college students at least since the 1960's. Part of their attraction is the ease with which increasingly elaborate rules can be added; success in these games depends largely on the ability to remember the rules and act on them correctly within a limited time.
+Les jeux de cartes appartenant au groupe des Huits sont populaires auprès des écoliers et des étudiants universitaires au moins depuis les années 1960. Une partie de leur attrait réside dans la facilité avec laquelle des règles de plus en plus élaborées peuvent être ajoutées ; la réussite dans ces jeux dépend largement de la capacité à mémoriser les règles et à les appliquer correctement dans un temps limité.
 
-Mao is a recent addition to the group, which is especially popular in the USA. The main feature of Mao which distinguishes it from many of its predecessors is that there is a rule against explaining or asking about the rules. New players are expected to join a game and deduce the rules of play by observation, trial and error.
+Mao est un ajout récent à ce groupe, particulièrement populaire aux États-Unis. La caractéristique principale de Mao qui le distingue de beaucoup de ses prédécesseurs est qu'il existe une règle interdisant d'expliquer ou de demander des informations sur les règles. On attend des nouveaux joueurs qu'ils rejoignent une partie et déduisent les règles du jeu par l'observation, l'essai et l'erreur.
 
-This ban on explaining the rules makes it rather awkward to produce a useful web page about Mao without violating its key principle, but that has not stopped several people from trying. 
+Cette interdiction d'expliquer les règles rend assez délicat de produire une page web utile sur Mao sans violer son principe clé, mais cela n'a pas empêché plusieurs personnes d'essayer.
 
-- [Ka Wai Tam's Mao page](https://www.homepage.tamlylin.hostignition.com/puz/mao.html) uses an interesting approach. You are given a description of a sample game, and from this you have to deduce the rules for yourself - as in real life.
+- La [page Mao de Ka Wai Tam](https://www.homepage.tamlylin.hostignition.com/puz/mao.html) utilise une approche intéressante. On vous donne la description d'une partie d'exemple, et à partir de celle-ci vous devez déduire les règles vous-même — comme dans la vraie vie.
 
-- Glenn Overby's page [Mao: A Sample Game](https://web.archive.org/web/20010406130841/www.geocities.com/Colosseum/Pressbox/5393/MAO.HTM) [archive copy] adopts a similar method to demonstrate the "Motor City Variant".
+- La page de Glenn Overby [Mao: A Sample Game](https://web.archive.org/web/20010406130841/www.geocities.com/Colosseum/Pressbox/5393/MAO.HTM) [copie archive] adopte une méthode similaire pour démontrer la « Motor City Variant ».
 
-Nicholas Cheung's page on [Mao](https://web.archive.org/web/20221202050629/http://www.nicholasc.info/cardgames/mao.html) (archive copy) may also help to give you a flavour of the game.
+La page de Nicholas Cheung sur [Mao](https://web.archive.org/web/20221202050629/http://www.nicholasc.info/cardgames/mao.html) (copie archive) peut également vous aider à vous donner une idée du jeu.
 
-Although many people have the impression that the game is named after the Chinese leader Mao Zedong, it seems likely that the direct ancestor of Mao is the German game Mau-Mau, which works on somewhat similar principles. Another theory links it to the following passage from Arthur Machen's short story [The White People](https://archive.org/details/TheWhitePeople/page/n9/mode/2up?q=mao), in which a young girl recording her bizarre experiences with witchcraft:
+Bien que beaucoup de gens aient l'impression que le jeu porte le nom du dirigeant chinois Mao Zedong, il semble probable que l'ancêtre direct de Mao soit le jeu allemand Mau-Mau, qui fonctionne sur des principes somewhat similaires. Une autre théorie le relie au passage suivant de la nouvelle d'Arthur Machen [The White People](https://archive.org/details/TheWhitePeople/page/n9/mode/2up?q=mao), dans laquelle une jeune fille consigne ses expériences bizarres avec la sorcellerie :
 
-"I must not write down the real names of the days and months which I found out a year ago, nor the way to make the Aklo letters, or the Chian language, or the great beautiful Circles, nor the Mao Games, nor the chief songs."
-This story was written at the end of the 19th century, which must be several decades before the card game Mao was invented. However it is conceivable that whoever named the card game had read and was influenced by the story. 
+« Je ne dois pas écrire les vrais noms des jours et des mois que j'ai découverts il y a un an, ni la façon de faire les lettres Aklo, ou la langue Chian, ou les grands et beaux Cercles, ni les Jeux Mao, ni les chansons principales. »
+Cette nouvelle a été écrite à la fin du 19e siècle, ce qui doit être plusieurs décennies avant que le jeu de cartes Mao n'ait été inventé. Cependant, il est concevable que celui qui a nommé le jeu de cartes ait lu l'histoire et en ait été influencé.
 
-A small collection of Mao Variations can be found in the Invented Games section. 
-
-Home Page > Classified Index > Matching games > Eights Group > Mao
+Une petite collection de variantes de Mao peut être trouvée dans la section des jeux inventés.

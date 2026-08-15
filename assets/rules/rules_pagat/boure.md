@@ -3,141 +3,138 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Sometimes known as Booray, a gambling trick-taking game from Louisiana in which a player who stays in but takes no tricks must match the pot.
-**Autres noms :** Booray
+**But :** Parfois connu sous le nom de Booray, un jeu de levées d'argent de Louisiane dans lequel un joueur qui reste mais ne gagne aucune levée doit égaliser le pot.
 
 ---
 
 ## Introduction
 
-This gambling game is popular in Louisiana, USA. Although it is a trick-taking game unrelated to Poker, it has become known to Poker players in North America as an alternative choice in home Poker games. The game is of French origin. It is a descendant of Bourre, a three-card game which was popular in southwest France in the early 20th century, which was probably descended in turn from the Spanish game Burro ("donkey"). In the French game a player who plays and takes no tricks is said to be "bourré", and it is this term that gives its name to the Louisiana game Bourré, which is sometimes spelled with just one 'r': (bouré). Sometimes this is altered to "bourre" or "boure" by American writers unfamiliar with French accents, and often it is written "booray" or "boo-ray" which in American spelling approximates the French pronunciation of bourré.
+Ce jeu d'argent est populaire en Louisiane, États-Unis. Bien qu'il s'agisse d'un jeu de levées sans rapport avec le Poker, il est devenu connu des joueurs de poker en Amérique du Nord comme une alternative dans les jeux de poker à la maison. Le jeu est d'origine française. C'est un descendant de Bourre, un jeu à trois cartes qui était populaire dans le sud-ouest de la France au début du 20e siècle, qui descendait probablement lui-même du jeu espagnol Burro (« âne »). Dans le jeu français, un joueur qui joue et ne gagne aucune levée est dit « bourré », et c'est ce terme qui donne son nom au jeu louisianais Bourré, parfois orthographié avec un seul 'r' : (bouré). Parfois cela est altéré en « bourre » ou « boure » par des auteurs américains unfamiliarisés avec les accents français, et souvent il s'écrit « booray » ou « boo-ray » qui, en orthographe américaine, se rapproche de la prononciation française de bourré.
 
-The information on this page relies heavily on the book Bouré by Roy J Nickens (Baton Rouge, 1972) as well as correspondence from John May, Brad Duhon, Victoria Diemer and others.
+Les informations de cette page s'appuient largement sur le livre Bouré de Roy J Nickens (Baton Rouge, 1972) ainsi que sur des correspondances de John May, Brad Duhon, Victoria Diemer et d'autres.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is best for seven players. In theory any number from two to eight can play, but with fewer than about five players the game becomes less interesting.
+Le jeu se joue mieux à sept joueurs. En théorie, n'importe quel nombre de deux à huit peut jouer, mais avec moins de cinq joueurs environ, le jeu devient moins intéressant.
 
-A standard international 52-card pack without jokers is used. The cards of each suit rank from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Un jeu international standard de 52 cartes sans jokers est utilisé. Les cartes de chaque couleur se classent de la plus forte à la plus faible : A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-## Ante and Deal
+## Ante et distribution
 
-Before the first deal each player must contribute an ante of one chip to the pot. Before subsequent deals, certain players may not have to pay an ante, depending on the result of the previous hand - see below.
+Avant la première distribution, chaque joueur doit contribuer à un ante d'un jeton dans le pot. Avant les distributions suivantes, certains joueurs peuvent ne pas avoir à payer d'ante, selon le résultat de la main précédente — voir ci-dessous.
 
-Any player who wishes to may shuffle and the dealer has the right to shuffle last. The cards must then be cut by the player to dealer's right.
+N'importe quel joueur qui le souhaite peut mélanger et le donneur a le droit de mélanger en dernier. Les cartes doivent ensuite être coupées par le joueur à la droite du donneur.
 
-The dealer deals out the cards one at a time, starting with the player to dealer's left and continuing clockwise until each player has five cards. Cards are dealt face down, except for the dealer's fifth and last card, which is dealt face up. The suit of this card indicates the trump suit.
+Le donneur distribue les cartes une par une, en commençant par le joueur à sa gauche et continuant dans le sens horaire jusqu'à ce que chaque joueur ait cinq cartes. Les cartes sont distribuées face cachée, sauf la cinquième et dernière carte du donneur, qui est distribuée face ouverte. La couleur de cette carte indique la couleur d'atout.
 
-The turn to deal passes to the left after each hand.
+Le tour de distribution passe à gauche après chaque main.
 
-## Draw or Pass
+## Pioche ou passe
 
-Players pick up their cards and look at them, but may not show their cards to anyone else.
+Les joueurs ramassent leurs cartes et les regardent, mais ne peuvent pas les montrer à personne d'autre.
 
-Beginning with the player to dealer's left, each player in clockwise order must declare whether he or she will pass or play, and if playing, how many cards he or she wishes to discard.
+En commençant par le joueur à la gauche du donneur, chaque joueur dans l'ordre horaire doit déclarer s'il passe ou joue, et s'il joue, combien de cartes il souhaite défausser.
 
-If you pass, you stack your cards face down in front of you.and take no further part in the play of the hand. You can no longer win the pot on that deal, nor can you lose any additional chips.
+Si vous passez, vous empilez vos cartes face cachée devant vous et ne prenez plus part au jeu de la main. Vous ne pouvez plus gagner le pot pour cette distribution, ni perdre de jetons supplémentaires.
 
-If you play, you may discard some of your cards face down, announcing how many you are discarding. The dealer then deals you an equal number of replacement cards from the undealt part of the deck. You may discard your whole hand of five cards if you wish to, or if you are happy with your original cards you may stand pat and play with the hand you were dealt, discarding nothing.
+Si vous jouez, vous pouvez défausser certaines de vos cartes face cachée, en annonçant combien vous en défaussez. Le donneur vous distribue alors un nombre égal de cartes de remplacement. Vous pouvez défausser toute votre main de cinq cartes si vous le souhaitez, ou si vous êtes satisfait de vos cartes d'origine, vous pouvez rester tel quel et jouer avec la main qui vous a été distribuée, sans rien défausser.
 
-It may happen, especially in an eight-player game, that the dealer runs out of cards to deal before all the players who wish to play have been served with replacements for their discards. In that case the dealer gathers up all the discarded cards and passed hands from the players who have already acted (but not the discards of the player who is currently being served). These cards are shuffled and cut and used to continue dealing cards to replace any remaining discards.
+Il peut arriver, surtout dans un jeu à huit joueurs, que le donneur n'ait plus de cartes à distribuer avant que tous les joueurs qui souhaitent jouer aient reçu des remplacements pour leurs défausses. Dans ce cas, le donneur rassemble toutes les cartes défaussées et les mains passées des joueurs qui ont déjà agi (mais pas les défausses du joueur en cours de service). Ces cartes sont mélangées, coupées et utilisées pour continuer à distribuer des remplacements.
 
-If the turned up trump card is an ace, the dealer must play. There is no risk in doing so since the ace of trumps always wins a trick.
+Si la carte d'atout retournée est un as, le donneur doit jouer. Il n'y a aucun risque à le faire puisque l'as d'atout gagne toujours une levée.
 
-If only one player elects to play, all the others passing, the lone player is deemed to have won all five tricks by default, and this player therefore collects the whole pot without playing out any cards. If all players other than the dealer pass, the dealer should of course play and collect the pot.
+Si un seul joueur décide de jouer, tous les autres passant, le joueur seul est réputé avoir gagné les cinq levées par défaut, et collecte donc tout le pot sans jouer aucune carte. Si tous les joueurs sauf le donneur passent, le donneur doit bien sûr jouer et collecter le pot.
 
-You should be careful not to make any premature announcement or gesture indicating whether you intend to play or pass or how many cards you might discard, before it is your turn to act. The penalty is to forfeit your next turn to deal.
+Vous devez faire attention à ne faire aucune annonce ou geste prématuré indiquant si vous avez l'intention de jouer ou de passer ou combien de cartes vous pourriez défausser, avant votre tour. La pénalité est de perdre votre prochain tour de distribution.
 
-## The Play
+## Le jeu
 
-The player to dealer's left, or if this player has passed, the next player in clockwise rotation who is playing, leads to the first trick. Thereafter the winner of each trick leads to the next.
+Le joueur à la gauche du donneur, ou si ce joueur a passé, le joueur suivant dans le sens horaire qui joue, entame la première levée. Ensuite, le gagnant de chaque levée entame la suivante.
 
-A card is led by placing it face up in the centre of the table. Each of the other active players (those who have not passed) in clockwise order must also play a card face up in the centre. When all have played a card, the trick is complete. It is won by whoever played the highest card of the trump suit, or if no trump was played, by whoever played the highest card of the suit that was led.
+Une carte est entamée en la posant face ouverte au centre de la table. Chacun des autres joueurs actifs (ceux qui n'ont pas passé) dans l'ordre horaire doit aussi jouer une carte face ouverte au centre. Quand tous ont joué une carte, la levée est terminée. Elle est gagnée par celui qui a joué la carte la plus élevée de la couleur d'atout, ou si aucun atout n'a été joué, par celui qui a joué la carte la plus élevée de la couleur entamée.
 
-The play of the cards is governed by strict rules.
+Le jeu des cartes est régi par des règles strictes.
 
-- Players must always "follow suit" if able to - that is, all but the first to play to a trick must play a card of the same suit as the card that was led.
+- Les joueurs doivent toujours « suivre la couleur » s'ils le peuvent — tous les joueurs sauf le premier doivent jouer une carte de la même couleur que la carte entamée.
 
-- Any player who is unable to follow suit, having no card of the suit that was led, must play a trump if able to.
+- Tout joueur incapable de suivre, n'ayant pas de carte de la couleur entamée, doit jouer un atout s'il le peut.
 
-- Subject to the requirement to follow suit, each player must play a card that beats the highest card so far played to the trick if possible.
+- Sous réserve de l'obligation de suivre, chaque joueur doit jouer une carte qui bat la carte la plus élevée jouée dans la levée si possible.
 
-A player who is unable to beat the highest card played to the trick, is still forced to follow suit if possible, and otherwise to trump. If the trick has already been trumped, and you are unable to follow suit, you must overtrump if possible, but if your trumps are not high enough to overtrump, you must still play a trump.
+Un joueur qui est incapable de battre la carte la plus élevée de la levée est quand même forcé de suivre si possible, et sinon de couper. Si la levée a déjà été coupée et que vous ne pouvez pas suivre, vous devez surcouper si possible, mais si vos atouts ne sont pas assez élevés pour surcouper, vous devez quand même jouer un atout.
 
-However, if you are unable to beat the highest card in the trick, you are under no obligation to play a high card, provided that you obey the rules of following suit or trumping. Example: spades are trumps and the queen of diamonds is led. The second player trumps with the four of spades. Playing third, you hold the ace and six of diamonds and some spades. You have diamonds so you are not allowed to trump, and therefore cannot win the trick. You can and should play your six of diamonds, not the ace. If the second player had played a diamond, you would have been obliged to play the ace of diamonds, to beat the queen.
+Cependant, si vous êtes incapable de battre la carte la plus élevée de la levée, vous n'êtes pas obligé de jouer une carte élevée, pourvu que vous respectiez les règles de suivi ou de coupe. Exemple : les piques sont atout et la dame de carreaux est entamée. Le deuxième joueur coupe avec le quatre de pique. En jouant troisième, vous tenez l'as et le six de carreaux ainsi que des piques. Vous avez des carreaux, vous n'êtes donc pas autorisé à couper, et ne pouvez donc pas gagner la levée. Vous pouvez et devez jouer votre six de carreaux, pas l'as. Si le deuxième joueur avait joué un carreau, vous auriez été obligé de jouer l'as de carreaux pour battre la dame.
 
-A player who has no card of the suit led and has no trumps either can play any card, but of course cannot win the trick.
+Un joueur qui n'a pas de carte de la couleur entamée et pas d'atout non plus peut jouer n'importe quelle carte, mais ne peut évidemment pas gagner la levée.
 
-If the dealer is playing, the dealer's card that was dealt face up to determine the trump suit counts as belonging to the dealer's hand (except in the very unusual case that the dealer chose to discard it) and is played in accordance with the rules of play above.
+Si le donneur joue, la carte du donneur qui a été distribuée face ouverte pour déterminer la couleur d'atout compte comme appartenant à la main du donneur (sauf dans le cas très inhabituel où le donneur a choisi de la défausser) et est jouée conformément aux règles ci-dessus.
 
-A player who has three sure tricks irrespective of how the cards are played, and is therefore certain to win the pot, is said to have a cinch. In this case there are additional restrictions.
+Un joueur qui a trois levées sûres indépendamment de la façon dont les cartes sont jouées, et est donc certain de gagner le pot, est dit avoir un « cinch ». Dans ce cas, il y a des restrictions supplémentaires.
 
-- If you have a cinch and it is your turn to lead, you must lead your highest trump. 
+- Si vous avez un cinch et que c'est votre tour d'entamer, vous devez entamer votre atout le plus élevé.
 
-- If you have a cinch and are playing on a trick to which another player led, and you are able to play a trump to the trick, you must play your highest trump.
+- Si vous avez un cinch et que vous jouez dans une levée entamée par un autre joueur, et que vous pouvez jouer un atout dans la levée, vous devez jouer votre atout le plus élevé.
 
-- If you have a cinch and are playing last to a trick, there are no special restrictions - you must simply win the trick if you can, subject to the usual restrictions of following suit and trumping.
+- Si vous avez un cinch et que vous jouez en dernier dans une levée, il n'y a pas de restrictions spéciales — vous devez simplement gagner la levée si vous le pouvez, sous réserve des restrictions habituelles de suivi et de coupe.
 
-Note that your hand can be a cinch at the start of the play if you have a trump holding such as A-K-Q or K-Q-10-9-8. It can become a cinch later, for example if after winning a trick you have two sure trump tricks. Also, if you win the first three tricks, the cinch rules apply since you are sure to take the pot, and you must lead a trump to the fourth trick if you have one.
+Notez que votre main peut être un cinch au début du jeu si vous avez une détention d'atout telle que A-R-D ou R-D-10-9-8. Elle peut devenir un cinch plus tard, par exemple si après avoir gagné une levée vous avez deux levées d'atout sûres. Aussi, si vous gagnez les trois premières levées, les règles du cinch s'appliquent puisque vous êtes sûr de remporter le pot, et vous devez entamer un atout à la quatrième levée si vous en avez un.
 
-When you are required to play your "highest" trump because your hand is a cinch, the play of an adjacent trump - such as the King from Ace-King or the Jack from King-Jack when the Queen has already been played - is acceptable.
+Quand vous êtes tenu de jouer votre atout « le plus élevé » parce que votre main est un cinch, le jeu d'un atout adjacent — comme le Roi dans As-Roi ou le Valet dans Roi-Valet lorsque la Dame a déjà été jouée — est acceptable.
 
-## Payments
+## Paiements
 
-The player who wins most tricks takes the whole pot. To win the pot it is necessary to win more tricks than any other single player. Three tricks are always sufficient. The pot can be won with two tricks if three other players take one trick each.
+Le joueur qui gagne le plus de levées prend tout le pot. Pour gagner le pot, il faut gagner plus de levées que n'importe quel autre joueur seul. Trois levées suffisent toujours. Le pot peut être gagné avec deux levées si trois autres joueurs en gagnent une chacune.
 
-If there is a tie for most tricks (when the tricks divide 2-2-1, and in the rare case of five players taking one trick each) no one takes the pot. This is known as a "split pot" but the pot is not shared out - it remains for the next deal and the new antes and any penalties are added to it.
+S'il y a égalité pour le plus grand nombre de levées (quand les levées se divisent 2-2-1, et dans le rare cas de cinq joueurs en gagnant une chacun), personne ne prend le pot. C'est ce qu'on appelle un « pot partagé » mais le pot n'est pas réparti — il reste pour la distribution suivante et les nouveaux antes et éventuelles pénalités s'y ajoutent.
 
-Anyone who plays and takes no trick is said to have gone "bourré". These players must pay an amount equal to the whole contents of the pot. This payment forms part of the pot for the next deal.
+Quiconque joue et ne gagne aucune levée est dit avoir fait « bourré ». Ces joueurs doivent payer un montant égal au contenu total du pot. Ce paiement fait partie du pot pour la distribution suivante.
 
-A player who goes bourré does not have to place the normal one chip ante for the next deal. Also, if the pot is split, the players who tied for most tricks do not post an ante for the next deal. All remaining players pay one chip ante as usual.
+Un joueur qui fait bourré n'a pas à placer l'ante normal d'un jeton pour la distribution suivante. Aussi, si le pot est partagé, les joueurs qui sont à égalité pour le plus de levées ne paient pas d'ante pour la distribution suivante. Tous les autres joueurs paient un ante d'un jeton comme d'habitude.
 
-In the following example the seven players are A, B, C, D, E, F and G.
+Dans l'exemple suivant, les sept joueurs sont A, B, C, D, E, F et G.
 
-Deal 1: All seven players ante so there are 7 chips in the pot. B, C, E and G play; the others pass. E wins 3 tricks, B and G win one each and C is bourré. E takes the 7 chips from the pot. C must pay 7 chips to the next pot. All players must ante for the next deal except for C. Therefore the pot now contains 13 chips.
+Distribution 1 : Les sept joueurs paient l'ante donc il y a 7 jetons dans le pot. B, C, E et G jouent ; les autres passent. E gagne 3 levées, B et G en gagnent une chacun et C est bourré. E prend les 7 jetons du pot. C doit payer 7 jetons pour le pot suivant. Tous les joueurs doivent payer l'ante pour la distribution suivante sauf C. Le pot contient donc maintenant 13 jetons.
 
-Deal 2: With 13 chips in the pot, A, B, E and F play. The others pass. A and F take 2 tricks each, B takes one and E none. This is a spilt pot between A and F, so no one wins it. E has to add 13 chips to the pot, and B, C, D and G each ante one chip for the next deal, so the pot now contains 30 chips.
+Distribution 2 : Avec 13 jetons dans le pot, A, B, E et F jouent. Les autres passent. A et F gagnent 2 levées chacun, B en gagne une et E aucune. C'est un pot partagé entre A et F, donc personne ne le gagne. E doit ajouter 13 jetons au pot, et B, C, D et G paient chacun un ante d'un jeton pour la distribution suivante, donc le pot contient maintenant 30 jetons.
 
-Deal 3: Only C, D and E play, and D wins all five tricks. D takes the 30 chips from the pot and C and E must each pay 30 chips to the next pot. In addition everyone except C and E must pay an ante for the next deal, and the pot now contains 65 chips.
+Distribution 3 : Seuls C, D et E jouent, et D gagne les cinq levées. D prend les 30 jetons du pot et C et E doivent chacun payer 30 jetons pour le pot suivant. De plus, tout le monde sauf C et E doit payer un ante pour la distribution suivante, et le pot contient maintenant 65 jetons.
 
-It should be clear from this example that the pot can sometimes build rather quickly, especially if more than one player is bourré or there is a split pot. For this reason the game is sometimes played with a limit. For example if the limit is 20 chips, then when the pot contains more than 20 chips, a player who wins takes only 20 chips from the pot, and a player who is bourré pays only 20 chips.
+Il devrait être clair d'après cet exemple que le pot peut parfois se constituer assez rapidement, surtout si plus d'un joueur est bourré ou s'il y a un pot partagé. Pour cette raison, le jeu se joue parfois avec une limite. Par exemple, si la limite est de 20 jetons, alors quand le pot contient plus de 20 jetons, un joueur qui gagne ne prend que 20 jetons du pot, et un joueur qui est bourré ne paie que 20 jetons.
 
-Any play that is not in accordance with the rules of play - such as failure to follow suit, failure to trump or failure to beat the highest card in the trick when able, is known as a renege. If the renege is not corrected before the next player plays a card, the penalty is to pay an amount equal to the size of the pot, exactly as though the player had gone bourré.
+Tout jeu qui n'est pas conforme aux règles — comme le défaut de suivre, le défaut de couper ou le défaut de battre la carte la plus élevée de la levée quand c'est possible — est appelé une renonce. Si la renonce n'est pas corrigée avant que le joueur suivant ne joue une carte, la pénalité est de payer un montant égal à la taille du pot, exactement comme si le joueur avait fait bourré.
 
-However, if having reneged you realise your error before the next player plays, you are allowed to recall your card and substitute a correct card. In this case you forfeit the right to win the pot, even if you take most tricks, and you forfeit your next turn to deal, but you do not have to match the pot (unless you win no tricks).
+Cependant, si après avoir renoncé vous réalisez votre erreur avant que le joueur suivant ne joue, vous êtes autorisé à reprendre votre carte et à la remplacer par une carte correcte. Dans ce cas, vous perdez le droit de gagner le pot, même si vous gagnez le plus de levées, et vous perdez votre prochain tour de distribution, mais vous n'avez pas à égaliser le pot (sauf si vous ne gagnez aucune levée).
 
-## Variations
+## Variantes
 
-### Double Ante
+### Double ante
 
-In this variation, all players pay an ante of one chip before the deal, and in addition, any player who decides to play must pay an additional chip to the pot. Those who pass do not pay this second ante - they just lose their first ante and forgo their chance to win the pot in this deal.
+Dans cette variante, tous les joueurs paient un ante d'un jeton avant la distribution, et en plus, tout joueur qui décide de jouer doit payer un jeton supplémentaire dans le pot. Ceux qui passent ne paient pas ce second ante — ils perdent simplement leur premier ante et renoncent à leur chance de gagner le pot pour cette distribution.
 
-In the double ante game, it is normal to require an initial ante from all players, including those who paid for a bourré or were involved in a split pot on the previous deal.
+Dans le jeu à double ante, il est normal d'exiger un ante initial de tous les joueurs, y compris ceux qui ont payé pour un bourré ou ont été impliqués dans un pot partagé lors de la distribution précédente.
 
-Some play that the decisions whether or not to play and how many cards to draw are separated into two separate rounds. First each player in turn declares either "play" (paying a second ante of one chip) or "pass". After everyone has declared, there is a second round in which those who decided to play discard cards if they wish and are dealt replacements.
+Certains jouent que les décisions de jouer ou non et le nombre de cartes à piocher sont séparées en deux tours distincts. D'abord, chaque joueur à tour de rôle déclare soit « jouer » (en payant un second ante d'un jeton) soit « passer ». Après que tout le monde a déclaré, il y a un second tour dans lequel ceux qui ont décidé de jouer défaussent des cartes s'ils le souhaitent et reçoivent des remplacements.
 
-### Separate Trump Card
+### Carte d'atout séparée
 
-Some play that five cards are dealt face down to each player, and then an extra card is dealt face up to determine the trump suit. There are two forms of this variation.
+Certains jouent que cinq cartes sont distribuées face cachée à chaque joueur, puis une carte supplémentaire est distribuée face ouverte pour déterminer la couleur d'atout. Il existe deux formes de cette variante.
 
-- The turned up trump belongs to no one. It indicates the trump suit but cannot be taken or played by any player.
+- La carte d'atout retournée n'appartient à personne. Elle indique la couleur d'atout mais ne peut être prise ou jouée par aucun joueur.
 
-- The turned up trump can be taken by the dealer if he or she decides to play. The dealer effectively has six cards; if for example the dealer discards four cards and elects to use the turned up trump, three replacement cards will be dealt to make up the dealer's five-card hand.
+- La carte d'atout retournée peut être prise par le donneur s'il décide de jouer. Le donneur a effectivement six cartes ; par exemple, si le donneur défausse quatre cartes et décide d'utiliser la carte d'atout retournée, trois cartes de remplacement seront distribuées pour constituer sa main de cinq cartes.
 
-## Simultaneous Declaration
+## Déclaration simultanée
 
-Some play that instead of declaring in rotation, all players decide independently whether they will play or pass. Those who want to play hold a chip in their closed fist; those who pass hold an empty fist. All reveal their decisions simultaneously and then those who decided to play discard in rotation as ussual.
+Certains jouent qu'au lieu de déclarer à tour de rôle, tous les joueurs décident indépendamment s'ils vont jouer ou passer. Ceux qui veulent jouer tiennent un jeton dans leur poing fermé ; ceux qui passent tiennent un poing vide. Tous révèlent leurs décisions simultanément puis ceux qui ont décidé de jouer défaussent à tour de rôle comme d'habitude.
 
-I suspect that this variation is not traditional in Louisiana, but was adopted by poker players, who use a similar method for declaring high or low in some hi-lo games.
+Je soupçonne que cette variante n'est pas traditionnelle en Louisiane, mais a été adoptée par des joueurs de poker, qui utilisent une méthode similaire pour déclarer haut ou bas dans certains jeux hi-lo.
 
-### Four card Bourré
+### Bourré à quatre cartes
 
-Victoria Diemer reports that in Indiana, Bourré is played with just four cards dealt to each player, with a separate card that belongs to no one indicating the trump suit. Players must have at least one trump or at least one club (a "dirty club") to play, which costs one chip. After players have decided whether to stay, up to 3 cards can be discarded, but not all four. After the draw, players have another chance to pass; those who want to play must pay an additional chip. As usual the player who takes most chips wins the pot, and if there is a tie the pot is carried over to the next deal. Anyone who takes no tricks must match the pot for the next deal. The penalty for a renege is twice the pot.
+Victoria Diemer rapporte qu'en Indiana, le Bourré se joue avec seulement quatre cartes distribuées à chaque joueur, avec une carte séparée n'appartenant à personne indiquant la couleur d'atout. Les joueurs doivent avoir au moins un atout ou au moins un trèfle (un « trèfle sale ») pour jouer, ce qui coûte un jeton. Après que les joueurs ont décidé de rester, jusqu'à 3 cartes peuvent être défaussées, mais pas les quatre. Après la pioche, les joueurs ont une autre chance de passer ; ceux qui veulent jouer doivent payer un jeton supplémentaire. Comme d'habitude, le joueur qui gagne le plus de levées gagne le pot, et s'il y a égalité, le pot est reporté à la distribution suivante. Quiconque ne gagne aucune levée doit égaliser le pot pour la distribution suivante. La pénalité pour une renonce est le double du pot.
 
-## Other Bourré Web Sites
+## Autres sites sur Bourré
 
-Another description of [Bourré](https://en.wikipedia.org/wiki/Bourré) is available on Wikipedia.
+Une autre description du [Bourré](https://en.wikipedia.org/wiki/Bourré) est disponible sur Wikipedia.
 
-Rules of a simplified version of [Boo-Ray](https://web.archive.org/web/20130512064644/gamereport.com/poker/nonpoker.html#BooRay) can be found in Peter Sarrett's Game Report site (archive copy).
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Bourré
+Les règles d'une version simplifiée du [Boo-Ray](https://web.archive.org/web/20130512064644/gamereport.com/poker/nonpoker.html#BooRay) se trouvent sur le site Game Report de Peter Sarrett (copie d'archive).

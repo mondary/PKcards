@@ -2,76 +2,74 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A popular Colombian gambling game with the Spanish 40-card pack, best for 5 or more players.
+**But :** Un jeu de cartes colombien de paris populaire avec le jeu espagnol de 40 cartes, au mieux pour 5 joueurs ou plus.
 
 ---
 
-*This page is based on information from Harry Viens and on the [Toruro rules](https://thespiel.net/files/toruro-rules.pdf) by Andres F Pabon published by Stephen Conway at [thespiel.net](https://thespiel.net).*
+*Cette page est basée sur des informations de Harry Viens et sur les [règles de Toruro](https://thespiel.net/files/toruro-rules.pdf) d'Andres F Pabon publiées par Stephen Conway sur [thespiel.net](https://thespiel.net).*
 
 ## Introduction
 
-This Colombian three-card gambling game is said to be popular in the state of Santander. There are three pots, one for the winner of each of the three tricks. Anyone who plays and fails to take a trick incurs a debt known as a *lulo*, which must be added to the pots in a future deal.
+Ce jeu de paris colombien à trois cartes est dit populaire dans l'état de Santander. Il y a trois pots, un pour le gagnant de chacun des trois plis. Quiconque joue et ne prend pas un pli contracte une dette connue sous le nom de *lulo*, qui doit être ajoutée aux pots lors d'une donne future.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is best for 5 or more players. It is played with a Spanish 40-card pack, the cards of each suit ranking from high to low: 
+Le jeu est au mieux pour 5 joueurs ou plus. Il se joue avec un jeu espagnol de 40 cartes, les cartes de chaque couleur se classant du plus haut au plus bas :
 
-**ace (1) - 3 - king (12) - knight (11) -jack (10) - 7 - 6 - 5 - 4 - 2. **
+**as (1) - 3 - roi (12) - cavalier (11) - valet (10) - 7 - 6 - 5 - 4 - 2.**
 
-One suit, determined by the deal, will be trump, and as usual all trumps beat all cards of other suits.
+Une couleur, déterminée par la donne, sera l'atout, et comme d'habitude tous les atouts battent toutes les cartes des autres couleurs.
 
-Deal and play are counterclockwise.
+La donne et le jeu se font dans le sens antihoraire.
 
-## The Stakes
+## Les mises
 
-There are three pots: the *cabeza* (head) is won by the winner of the first trick, the *barriga* (belly) is for the winner of the second trick, and the *cola* (tail) for the winner of the third and last trick. The dealer must place one chip in each pot. In addition, the player who owes the smallest lulo must pay this amount to the pots, distributing it in any way he wishes - for example a lulo of 6 could be placed all in the belly, or 2 chips in each pot, or any other combination. If several players owe equally small lulos any one of them can pay (the others will pay in subsequent deals) - normally if there are several equally small lulos, the dealer or the nearest player to dealer's right has priority in paying them off.
+Il y a trois pots : la *cabeza* (tête) est gagnée par le vainqueur du premier pli, la *barriga* (ventre) par le vainqueur du deuxième pli, et la *cola* (queue) par le vainqueur du troisième et dernier pli. Le donneur doit placer un jeton dans chaque pot. En outre, le joueur redevable du plus petit lulo doit payer ce montant aux pots, le répartissant comme il le souhaite — par exemple un lulo de 6 pourrait être placé entièrement dans le ventre, ou 2 jetons dans chaque pot, ou toute autre combinaison. Si plusieurs joueurs doivent des lulos égaux, n'importe lequel peut payer (les autres paieront lors des donnes suivantes) — normalement s'il y a plusieurs lulos égaux, le donneur ou le joueur le plus proche à sa droite a la priorité pour les payer.
 
-## The Deal and Exchange
+## La donne et l'échange
 
-Any player may deal first. Subsequently the turn to deal passes to the right after each hand. Three cards are dealt to each player, and one card is placed face up on the table to indicate the trump suit. 
+N'importe quel joueur peut distribuer en premier. Ensuite, le tour de donne passe à la droite après chaque main. Trois cartes sont distribuées à chaque joueur, et une carte est placée face visible sur la table pour indiquer la couleur d'atout.
 
-Starting to dealer's right and continuing anticlockwise, each player in turn announces whether they will stay in (*ir* or "go") or pass. Those who pass drop out and cannot win any of the pots. Those who play commit themselves to win at least one trick, otherwise they will owe a penalty (*lulo*).
+En commençant à la droite du donneur et continuant dans le sens antihoraire, chaque joueur à tour de rôle annonce s'il reste (*ir* ou « je vais ») ou passe. Ceux qui passent se retirent et ne peuvent gagner aucun des pots. Ceux qui jouent s'engagent à gagner au moins un pli, sinon ils devront un lulo.
 
-If all players but one drop out, the lone player automatically wins all three pots without play.
+Si tous les joueurs sauf un se retirent, le joueur seul gagne automatiquement les trois pots sans jouer.
 
-The players who stay in may, if they wish, discard one, two or all three of their cards face down. This is done in the same order that they announced that they were staying in. A player who discards one or two cards receives an equal number of replacement cards from the undealt part of the deck. A player who discards all three cards receives four new cards from the deck and discards one of them. A player who is happy with his original hand need not discard any cards. 
+Les joueurs qui restent peuvent, s'ils le souhaitent, défausser une, deux ou toutes leurs trois cartes face en bas. Cela se fait dans le même ordre qu'ils ont annoncé qu'ils restaient. Un joueur qui défausse une ou deux cartes reçoit le même nombre de cartes de remplacement de la partie non distribuée du jeu. Un joueur qui défausse ses trois cartes reçoit quatre nouvelles cartes du jeu et en défausse une. Un joueur satisfait de sa main d'origine n'a pas besoin de défausser de cartes.
 
-## The Play
+## Le jeu
 
-If more than one player stayed in, the nearest player to dealer's right who is playing leads to the first trick. Each trick is won by the highest trump in it, or if it contains no trump, by the highest card of the suit that was led. The winner of each trick leads to the next.
+Si plus d'un joueur est resté, le joueur le plus proche à la droite du donneur qui joue mène au premier pli. Chaque pli est gagné par le plus haut atout qu'il contient, ou s'il ne contient pas d'atout, par la carte la plus élevée de la couleur demandée. Le gagnant de chaque pli mène au suivant.
 
-The **seven of trumps** is a special card. If the card turned up to determine the trump suit is higher than the 7, then the 7 of trumps acts as though it were that card. For example if a 3 of coins is turned up, then the holder of the 7 of coins uses it exactly as though it were a 3 of coins - it loses to the ace of coins, but beats all other coins, including the king, knight and jack.
+Le **sept d'atout** est une carte spéciale. Si la carte retournée pour déterminer la couleur d'atout est supérieure au 7, alors le 7 d'atout agit comme s'il était cette carte. Par exemple, si un 3 de deniers est retourné, le détenteur du 7 de deniers l'utilise exactement comme s'il était un 3 de deniers — il perd contre l'as de deniers, mais bat tous les autres deniers, y compris le roi, le cavalier et le valet.
 
-The play of the cards is subject to the following constraints.
+Le jeu des cartes est soumis aux contraintes suivantes.
 
-- Players must always follow suit when possible.
+- Les joueurs doivent toujours suivre la couleur quand c'est possible.
 
-- A player who has no card of the suit led must play a trump.
+- Un joueur qui n'a pas de carte de la couleur demandée doit jouer un atout.
 
-- When a trump is led, players must beat the highest trump so far played to the trick if they can.
+- Lorsqu'un atout est demandé, les joueurs doivent battre le plus haut atout joué jusqu'ici s'ils le peuvent.
 
-- If the player leading to the first trick holds the ace of trumps, he must lead it.
+- Si le joueur menant au premier pli détient l'as d'atout, il doit le mener.
 
-- If the player leading to the first trick has the 3 and king of trumps, he must lead one of them.
+- Si le joueur menant au premier pli a le 3 et le roi d'atout, il doit mener l'un d'eux.
 
-- If the player leading to the second trick has any trumps, he must lead his highest trump.
+- Si le joueur menant au deuxième pli a des atouts, il doit mener son atout le plus élevé.
 
 ## Lulo
 
-The winner of each trick collects the corresponding pot. Anyone who played and fails to take a trick incurs a debt equal to the **total** of the three pots being played for. These debts are known as **lulos** and are recorded on a list. As described above, the lulos are paid off in ascending order, one for each deal, the owner of the lulo distributing the chips as he wishes between the three pots.
+Le gagnant de chaque pli collecte le pot correspondant. Quiconque a joué et n'a pas pris un pli contracte une dette égale au **total** des trois pots en jeu. Ces dettes sont connues sous le nom de **lulos** et sont enregistrées sur une liste. Comme décrit ci-dessus, les lulos sont payés par ordre croissant, un par donne, le propriétaire du lulo répartissant les jetons comme il le souhaite entre les trois pots.
 
-Any infringements of the rules, such as failing to follow suit or trump, or failing to lead a high trump when required to, are also punished by giving the player a lulo.
+Toute infraction aux règles, comme le fait de ne pas suivre la couleur ou l'atout, ou de ne pas mener un atout élevé quand requis, est aussi punie en donnant un lulo au joueur.
 
-Because the dealer always adds to the pots, the stakes tend to escalate as the game goes on. For example, in the first deal there are just three chips in the pots. Suppose one player fails to win a trick. Then that player has a lulo of 3, which together with next dealer's 3 makes 6 chips to be paid for in the second deal. In that deal, anyone who fails to take a trick will have a lulo of 6, so in the third deal there will be 9 chips at stake, and so on.
+Parce que le donneur ajoute toujours aux pots, les mises ont tendance à augmenter au fil du jeu. Par exemple, à la première donne il y a seulement trois jetons dans les pots. Supposons qu'un joueur ne gagne pas de pli. Alors ce joueur a un lulo de 3, qui avec les 3 du prochain donneur fait 6 jetons à payer lors de la deuxième donne. Dans cette donne, quiconque ne prend pas un pli aura un lulo de 6, donc à la troisième donne il y aura 9 jetons en jeu, et ainsi de suite.
 
-So long as there are any unpaid lulos on the list of debts, the game should continue. When, as a result of a series of deals in which no player fails to win a trick, all the lulos are paid, the game ends.
+Tant qu'il y a des lulos impayés sur la liste des dettes, le jeu devrait continuer. Lorsque, à la suite d'une série de donnes dans lesquelles aucun joueur ne manque de gagner un pli, tous les lulos sont payés, le jeu se termine.
 
-## Variations
+## Variantes
 
-The [description at thespiel.net](https://thespiel.net/files/toruro-rules.pdf) lists a number of variants, such as:
+La [description sur thespiel.net](https://thespiel.net/files/toruro-rules.pdf) liste un certain nombre de variantes, telles que :
 
-- In the first deal, everyone must play. This ensures that the game does not end immediately, and there are some lulos to be played for.
+- À la première donne, tout le monde doit jouer. Cela assure que le jeu ne se termine pas immédiatement, et qu'il y a des lulos à jouer.
 
-- When an ace is turned up for trump, everyone must play. 
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Toruro
+- Lorsqu'un as est retourné pour l'atout, tout le monde doit jouer.

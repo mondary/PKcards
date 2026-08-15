@@ -3,127 +3,119 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Patience, Solitaire
-**But :** Also known as Racing Demon or Pounce, a competitive game based on solitaire, in which players race to play their cards to common foundations.
-**Autres noms :** Racing Demon or Pounce
+**But :** Aussi connu sous le nom de Racing Demon ou Pounce, un jeu compétitif basé sur le solitaire, dans lequel les joueurs font la course pour jouer leurs cartes sur des fondations communes.
+**Autres noms :** Racing Demon, Pounce
 
 ---
 
-*The description on this page is based on contributions from Joe Childers, Scott D Rhodes, Larry Charbonneau, Steven Toillon, Jesse, Matt Beeken and Adam Joshua Smargon.* 
+*La description de cette page est basée sur des contributions de Joe Childers, Scott D Rhodes, Larry Charbonneau, Steven Toillon, Jesse, Matt Beeken et Adam Joshua Smargon.*
 
 ## Introduction
 
-The game of **Nerts** is also known as **Nertz, Pounce**, **Racing Demon**, **Peanuts,** **Squeal** or **Scrooge**. It is a competitive patience game for two or more players, using a pack of cards for each player (or team). The players race to get rid of the cards from their "Nerts piles" (also known as "Pounce piles", etc. - depending on what you call the game) by building them from the ace up onto common foundations. 
+Le jeu de **Nertz** est aussi connu sous les noms de **Nertz, Pounce**, **Racing Demon**, **Peanuts**, **Squeal** ou **Scrooge**. C'est un jeu de patience compétitif pour deux joueurs ou plus, utilisant un jeu de cartes pour chaque joueur (ou équipe). Les joueurs font la course pour se débarrasser des cartes de leur « pile Nerts » (aussi connue sous le nom de « pile Pounce », etc. — selon le nom que vous donnez au jeu) en les construisant de l'As vers le haut sur des fondations communes.
 
-## Players and cards
+## Joueurs et cartes
 
-There can be two or more players. It is a very good two-player game, a fun game for three or four. With five people playing as individuals it begins to get out of hand but with an even number of players from six upwards you can play a partnership version; partners sit next to each other and share a pack.
+Il peut y avoir deux joueurs ou plus. C'est un excellent jeu à deux joueurs, un jeu amusant à trois ou quatre. Avec cinq personnes jouant individuellement, cela commence à devenir ingérable, mais avec un nombre pair de joueurs à partir de six, on peut jouer une version en équipe ; les partenaires s'assoient côte à côte et partagent un jeu.
 
-Each player or team needs a standard 52-card pack - the cards ranking **A**(low) **2 3 4 5 6 7 8 9 10 J Q K**(high). Each deck **must** have a different back design. There is a variation in which two jokers are added to each deck.
+Chaque joueur ou équipe a besoin d'un jeu standard de 52 cartes — les cartes étant classées **A** (bas) **2 3 4 5 6 7 8 9 10 V D R** (haut). Chaque jeu **doit** avoir un dos différent. Il existe une variante dans laquelle deux jokers sont ajoutés à chaque jeu.
 
-## Initial setup
+## Mise en place initiale
 
-Each player deals a Nerts pile (Pounce pile) of thirteen cards in one pile, twelve cards face down and the thirteenth face up on top. Next to this pile, each player deals four cards face-up, side by side and not overlapping, to begin four work piles. The remainder of each player's cards are held face-down as a stock; these cards will be turned three at a time onto a face up stack, forming the player's waste pile.
+Chaque joueur distribue une pile Nerts (pile Pounce) de treize cartes en une seule pile, douze cartes face cachée et la treizième face visible sur le dessus. À côté de cette pile, chaque joueur distribue quatre cartes face visible, côte à côte et sans chevauchement, pour commencer quatre piles de travail. Le reste des cartes de chaque joueur est tenu face cachée comme réserve ; ces cartes seront retournées trois par trois sur une pile face visible, formant la pile de défausse du joueur.
 
-Players need to arrange themselves and their tableaus in a triangle, box, circle, etc. around a **common area** that all players can access easily. The common area is where the foundations will be placed and built on. 
+Les joueurs doivent s'organiser eux-mêmes et leurs tableaux en triangle, carré, cercle, etc. autour d'une **zone commune** accessible facilement par tous les joueurs. La zone commune est l'endroit où les fondations seront placées et construites.
 
-The layout of a game of Nerts / Pounce in progress looks something like this:
+La disposition d'une partie de Nerts / Pounce en cours ressemble à ceci :
 
 ![Nerts layout](../images/patience/nerts.gif)
 
-## The play
+## Le jeu
 
-Players play simultaneously as fast as they like, not taking turns, moving cards around their own tableau according to the rules given below, and where possible building on the foundations in the common area. The players' main objective is to eliminate their Nerts piles, by playing cards from them onto their work piles or onto foundations. A player whose Nerts / Pounce pile is exhausted may call **"Nerts!"** (or **"Pounce!"**), at which point the game immediately ends. Cards which were in the air being moved from one point to another may complete their move, but no further play is allowed. 
+Les joueurs jouent simultanément aussi vite qu'ils le souhaitent, sans prendre de tours, en déplaçant des cartes dans leur propre tableau selon les règles ci-dessous, et en construisant sur les fondations de la zone commune lorsque c'est possible. L'objectif principal des joueurs est d'éliminer leur pile Nerts, en jouant des cartes de celle-ci sur leurs piles de travail ou sur les fondations. Un joueur dont la pile Nerts / Pounce est épuisée peut appeler **« Nertz ! »** (ou **« Pounce ! »**), moment auquel le jeu s'arrête immédiatement. Les cartes qui étaient en l'air lors d'un déplacement d'un point à un autre peuvent terminer leur déplacement, mais aucun autre jeu n'est autorisé.
 
-It is not necessary to call Nerts! / Pounce! as soon as your Nerts / Pounce pile is empty. You may choose to carry on playing for a while to try to improve your score further.
+Il n'est pas nécessaire d'appeler Nertz ! / Pounce ! dès que votre pile Nerts / Pounce est vide. Vous pouvez choisir de continuer à jouer pendant un moment pour essayer d'améliorer davantage votre score.
 
-Players are only allowed to use one hand at a time to move cards, but may hold their stock in their other hand. Only one card at a time may be moved, except when moving a block of cards from one work pile to another. You can only move cards within your own tableau and into the common area. You cannot touch another player's tableau or take cards out of the common area.
+Les joueurs ne sont autorisés à utiliser qu'une main à la fois pour déplacer des cartes, mais peuvent tenir leur réserve dans leur autre main. Une seule carte à la fois peut être déplacée, sauf lors du déplacement d'un bloc de cartes d'une pile de travail à une autre. Vous ne pouvez déplacer des cartes que dans votre propre tableau et vers la zone commune. Vous ne pouvez pas toucher au tableau d'un autre joueur ni retirer des cartes de la zone commune.
 
-If two or more players try to play to the same foundation at the same time, the first played card (generally the one which ends up lowest in the heap) stays there, and all other players must return the equivalent cards they had just tried to play on that same foundation pile to their previous positions. If there is a tie which cannot be resolved, both cards stay.
+Si deux joueurs ou plus essaient de jouer sur la même fondation en même temps, la première carte jouée (généralement celle qui se retrouve le plus bas dans le tas) y reste, et tous les autres joueurs doivent remettre les cartes équivalentes qu'ils venaient d'essayer de jouer sur cette même pile de fondation à leur position précédente. S'il y a égalité qui ne peut être résolue, les deux cartes restent.
 
-You are never forced to play a card if it isn't in your best interest - you can always wait.
+Vous n'êtes jamais obligé de jouer une carte si ce n'est pas dans votre intérêt — vous pouvez toujours attendre.
 
-### Work piles
+### Piles de travail
 
-A player's four work piles begin with one card each. Work piles are built in descending order, alternating color, overlapping the cards. Thus a red six is placed on a black seven, a black ten on a red jack, and so on. You can move any card in one of your work piles onto another of your own work piles if it fits, and any cards on top of the card are moved go with it. When a space results, it may be filled by a card from your Nerts pile, your waste pile or another work pile. The exposed cards of each of the four work piles (i.e. the lowest ranked cards of each pile) are available to be played onto the foundations.
+Les quatre piles de travail de chaque joueur commencent avec une carte chacune. Les piles de travail sont construites dans l'ordre décroissant, en alternant la couleur, en chevauchant les cartes. Ainsi, un six rouge est placé sur un sept noir, un dix noir sur un valet rouge, et ainsi de suite. Vous pouvez déplacer n'importe quelle carte de l'une de vos piles de travail sur une autre de vos propres piles de travail si elle convient, et toutes les cartes au-dessus de la carte sont déplacées avec elle. Lorsqu'un espace se crée, il peut être rempli par une carte de votre pile Nerts, de votre pile de défausse ou d'une autre pile de travail. Les cartes exposées de chacune des quatre piles de travail (c'est-à-dire les cartes de rang le plus bas de chaque pile) sont disponibles pour être jouées sur les fondations.
 
-If one of your work piles is empty, you are allowed to save time by placing a card underneath a pile if it ranks one higher than the bottom card and is opposite in colour. For example, if you have a work pile headed by a red jack, and another work pile with nothing in it, and the top card of your Nerts pile is a black queen, it is permissible to take the black queen and slide it under the red jack, rather than first putting the black queen in the space and then moving the whole work pile headed by the red jack on top of it. 
+Si l'une de vos piles de travail est vide, vous êtes autorisé à gagner du temps en plaçant une carte sous une pile si son rang est supérieur d'un à la carte du bas et si elle est de couleur opposée. Par exemple, si vous avez une pile de travail commençant par un valet rouge, et une autre pile de travail vide, et que la carte du dessus de votre pile Nerts est une dame noire, il est permis de prendre la dame noire et de la glisser sous le valet rouge, plutôt que de d'abord placer la dame noire dans l'espace puis de déplacer toute la pile de travail commençant par le valet rouge par-dessus.
 
-### Nerts / Pounce pile
+### Pile Nerts / Pounce
 
-Cards from the top of your Nerts pile can be played onto empty spaces in your work piles. If they fit, they can also be played onto one of your existing work piles, or they can be played directly onto a foundation. When you have played the top card of your Nerts pile you can turn the next card of the pile face up. When your Nerts pile becomes empty, you are entitled to call "Nerts!" ("Pounce!"), though you need not do so immediately.
+Les cartes du dessus de votre pile Nerts peuvent être jouées sur des espaces vides dans vos piles de travail. Si elles conviennent, elles peuvent aussi être jouées sur l'une de vos piles de travail existantes, ou être jouées directement sur une fondation. Lorsque vous avez joué la carte du dessus de votre pile Nerts, vous pouvez retourner la carte suivante de la pile face visible. Lorsque votre pile Nerts devient vide, vous avez le droit d'appeler « Nertz ! » (« Pounce ! »), bien que vous n'ayez pas besoin de le faire immédiatement.
 
-### Foundations
+### Fondations
 
-Foundations piles are built in the common area. They are always begun with an ace, and can be built up by playing the next higher card of the same suit (for example the nine of spades on the eight of spades) until the king is reached. Players can always start new foundation piles by placing any available ace in the common area. Other available cards can be played onto an existing foundation where they fit, provided that another player doesn't get there before you. The cards available for playing to foundation piles are: the top card of the Nerts pile, the exposed cards (lowest ranked cards) of each work pile, and the top card of the waste pile. Any player may play onto any foundation. When a foundation is filled up to king, it is turned over and set aside.
+Les piles de fondations sont construites dans la zone commune. Elles commencent toujours par un As et peuvent être construites en jouant la carte immédiatement supérieure de la même couleur (par exemple le neuf de pique sur le huit de pique) jusqu'à ce que le Roi soit atteint. Les joueurs peuvent toujours commencer de nouvelles piles de fondations en plaçant n'importe quel As disponible dans la zone commune. D'autres cartes disponibles peuvent être jouées sur une fondation existante où elles conviennent, à condition qu'un autre joueur n'y soit pas arrivé avant vous. Les cartes disponibles pour jouer sur les piles de fondations sont : la carte du dessus de la pile Nerts, les cartes exposées (de rang le plus bas) de chaque pile de travail, et la carte du dessus de la pile de défausse. N'importe quel joueur peut jouer sur n'importe quelle fondation. Lorsqu'une fondation est remplie jusqu'au Roi, elle est retournée et mise de côté.
 
-### Stock and waste pile
+### Réserve et pile de défausse
 
-You can turn over cards from your stock three at a time and put them face-up onto your waste pile (the waste pile has no cards at the start of play). Be sure to keep the cards in the same order when you do so. The top card of your waste pile may be played to one of your work piles or to a foundation pile if it fits. If there are only one or two cards left in the stock, place them on the waste pile, and then turn the waste pile over to start a new stock; do not pick up the waste pile and place it underneath so that you can deal three cards. 
+Vous pouvez retourner des cartes de votre réserve trois par trois et les placer face visible sur votre pile de défausse (la pile de défausse n'a pas de cartes au début du jeu). Veillez à conserver les cartes dans le même ordre lorsque vous le faites. La carte du dessus de votre pile de défausse peut être jouée sur l'une de vos piles de travail ou sur une pile de fondations si elle convient. S'il ne reste qu'une ou deux cartes dans la réserve, placez-les sur la pile de défausse, puis retournez la pile de défausse pour commencer une nouvelle réserve ; ne ramassez pas la pile de défausse et ne la placez pas en dessous pour pouvoir distribuer trois cartes.
 
-If it happens that **all** players are stuck (no further legal moves), or no one wishes to play any more cards, then everyone picks up their waste pile to re-form their stock, and then puts the top card of the stock on the bottom. (This happens frequently in a two-player game and rarely with more players.) If you get stuck but others can still play, you have to wait for everyone else to get stuck (or decide they do not want to make any more moves) before you are allowed to transfer your top stock card to the bottom. 
+S'il se trouve que **tous** les joueurs sont bloqués (plus aucun coup légal possible), ou que personne ne souhaite plus jouer de cartes, alors chacun ramasse sa pile de défausse pour reformer sa réserve, puis place la carte du dessus de la réserve en dessous. (Cela arrive fréquemment dans un jeu à deux joueurs et rarement avec plus de joueurs.) Si vous êtes bloqué mais que d'autres peuvent encore jouer, vous devez attendre que tout le monde soit bloqué (ou décide de ne plus faire de coups) avant d'être autorisé à transférer la carte du dessus de votre réserve en dessous.
 
-## Scoring
+## Comptage des points
 
-When someone calls "Nerts!" (or "Pounce!") play ends and scoring takes place. Each player (team) scores one point for each of their own cards that they managed to play into the common area. To determine this, the foundation piles have to be sorted out according to the owners of the cards - this is why it is necessary that the decks have different backs. All players except the one who called Nerts then subtract two points for every card left in their Nerts pile when play ended. Thus calling Nerts does not guarantee the highest score, but more often than not it does result in a good score.
+Lorsque quelqu'un appelle « Nertz ! » (ou « Pounce ! »), le jeu s'arrête et le comptage des points a lieu. Chaque joueur (équipe) marque un point pour chacune de ses propres cartes qu'il a réussi à jouer dans la zone commune. Pour déterminer cela, les piles de fondations doivent être triées selon les propriétaires des cartes — c'est pourquoi il est nécessaire que les jeux aient des dos différents. Tous les joueurs sauf celui qui a appelé Nerts soustraient ensuite deux points pour chaque carte restante dans leur pile Nerts lorsque le jeu s'est arrêté. Ainsi, appeler Nertz ne garantit pas le score le plus élevé, mais la plupart du temps, cela donne un bon score.
 
-If all players get so stuck that no card in their stock will play, play stops and the score is calculated as usual. In this case everyone will have to subtract two points for each card that is left in their Nerts pile. 
+Si tous les joueurs sont tellement bloqués qu'aucune carte de leur réserve ne peut être jouée, le jeu s'arrête et le score est calculé comme d'habitude. Dans ce cas, chacun devra soustraire deux points pour chaque carte restante dans sa pile Nerts.
 
-Further deals are played until one or more player's scores reach or pass an agreed target score (usually 100). At this point the player with the highest score wins from each other player in proportion to the difference between their scores.
+D'autres donnes sont jouées jusqu'à ce que le score d'un ou plusieurs joueurs atteigne ou dépasse un score cible convenu (généralement 100). À ce stade, le joueur avec le score le plus élevé gagne contre chaque autre joueur proportionnellement à la différence entre leurs scores.
 
-## Partnership Game
+## Jeu en équipe
 
-Nerts / Pounce can be played by more than five people if they play as partners. Partners will sit next to each other. Each partnership plays just like an individual player except that they are able to help each other out (an extra set of eyes and hands can come in handy). One partner can go through the stock pile three at a time, while the other partner keeps an eye on the Nerts / Pounce pile.
+Nerts / Pounce peut être joué par plus de cinq personnes si elles jouent en équipe. Les partenaires s'assoient côte à côte. Chaque équipe joue comme un joueur individuel, sauf qu'ils peuvent s'aider mutuellement (un ensemble supplémentaire d'yeux et de mains peut s'avérer utile). Un partenaire peut parcourir la pile de réserve trois par trois, tandis que l'autre partenaire surveille la pile Nerts / Pounce.
 
-## Variations
+## Variantes
 
-**Jokers** (optional but fun)
-Two Jokers are added to each deck. Jokers can stand for any other card. When played a joker **onto a foundation**, a player must follow the following protocol: **before** moving the Joker, the player must announce the rank and suit it represents; **only then** can the player move the joker onto the foundation. A player may touch a Joker, and even pick it up halfway, but the announcement of rank and suit must be **completed before** the Joker leaves the pile it is on. The reason for this rule is to give other players a fair chance to realise that they can play the next card top of the joker, denying the player of the joker the chance to get un-stuck by doing the same. When playing Jokers on the work piles no announcement needs to be made. A Joker on top of a work pile or on the Nerts or waste pile can be placed on any work pile without a thought. If a regular card is moved onto a Joker, however, the Joker's rank and color are fixed until the cards above it are removed. Jokers score like any other cards.**Number of cards dealt to Nerts / Pounce pile** 
-Rather than 13 cards, some people deal 12 cards (11 face down and one face up), and some deal 11 cards (10 face down and one face up).**Scoring variations**
-Some people award a bonus of 25 points to the player who calls "Pounce!".
-Some people deduct only one point for each card remaining in a player's Nerts / Pounce pile.
-Some people, rather than totalling the score over a series of hands, play each hand as a separate event in which the player with the highest score wins.**Turning cards from stock pile onto waste pile**
-Some players reverse the order of each set of three cards, so that the card which was on top of the stock becomes the card which is uppermost on the waste pile.
-Some play that the stock cards are turned up onto the waste pile one at a time rather than three at a time.
+**Jokers** (facultatif mais amusant)
+Deux Jokers sont ajoutés à chaque jeu. Les Jokers peuvent remplacer n'importe quelle autre carte. Lorsqu'un joker est joué **sur une fondation**, le joueur doit suivre le protocole suivant : **avant** de déplacer le Joker, le joueur doit annoncer le rang et la couleur qu'il représente ; **seulement ensuite** le joueur peut déplacer le joker sur la fondation. Un joueur peut toucher un Joker, et même le soulever à moitié, mais l'annonce du rang et de la couleur doit être **terminée avant** que le Joker ne quitte la pile sur laquelle il se trouve. La raison de cette règle est de donner aux autres joueurs une chance équitable de réaliser qu'ils peuvent jouer la carte au-dessus du joker, privant le joueur du joker de la chance de se débloquer en faisant la même chose. Lorsqu'on joue des Jokers sur les piles de travail, aucune annonce n'est nécessaire. Un Joker au-dessus d'une pile de travail ou sur la pile Nerts ou la pile de défausse peut être placé sur n'importe quelle pile de travail sans réfléchir. Si une carte régulière est déplacée sur un Joker, le rang et la couleur du Joker sont fixés jusqu'à ce que les cartes au-dessus soient retirées. Les Jokers marquent comme n'importe quelle autre carte.**Nombre de cartes distribuées à la pile Nerts / Pounce**
+Plutôt que 13 cartes, certains distribuent 12 cartes (11 face cachée et une face visible), et d'autres distribuent 11 cartes (10 face cachée et une face visible).**Variantes de comptage des points**
+Certains attribuent un bonus de 25 points au joueur qui appelle « Pounce ! ».
+Certains ne retirent qu'un point pour chaque carte restante dans la pile Nerts / Pounce d'un joueur.
+Certains, plutôt que de totaliser le score sur une série de mains, jouent chaque main comme un événement séparé dans lequel le joueur avec le score le plus élevé gagne.**Retournement des cartes de la réserve vers la pile de défausse**
+Certains joueurs inversent l'ordre de chaque groupe de trois cartes, de sorte que la carte qui était au-dessus de la réserve devient la carte la plus haute sur la pile de défausse.
+Certains jouent que les cartes de la réserve sont retournées sur la pile de défausse une à une plutôt que trois par trois.
 
-Hand instead of waste pile
-Some play that each player has a stockpile and a hand of 7 cards. Cards may be played from the hand to the waste piles or common area, and after playing cards from hand, new cards may be drawn from the discard pile to replenish the hand up to 7 cards but never more than 7. The players have no discard pile. This variant may be characteristic of the variant of this game known as "Scrooge". In this version it is possible, especially with two players, for the game to become blocked with all playable cards buried in the players' stock piles or Nerts / Pounce piles. I suggest that if this happens, all players should show their hands to prove they have no playable card - if any playable card is found, the owner is obliged to play it and the game continues. If there is really no play for enyone, all players place their 7 hand cards on the bottom of their stock piles, draw 7 new cards from the top of their stock piles, and when all are ready the game continues. If any players have other ways of handling this situation, please let me know.
+Main au lieu de pile de défausse
+Certains jouent que chaque joueur a une réserve et une main de 7 cartes. Les cartes peuvent être jouées de la main vers les piles de défausse ou la zone commune, et après avoir joué des cartes de la main, de nouvelles cartes peuvent être tirées de la pile de défausse pour reconstituer la main jusqu'à 7 cartes mais jamais plus de 7. Les joueurs n'ont pas de pile de défausse. Cette variante peut être caractéristique de la variante de ce jeu connue sous le nom de « Scrooge ». Dans cette version, il est possible, surtout avec deux joueurs, que le jeu devienne bloqué avec toutes les cartes jouables enfouies dans les réserves des joueurs ou leurs piles Nerts / Pounce. Je suggère que si cela se produit, tous les joueurs montrent leur main pour prouver qu'ils n'ont pas de carte jouable — si une carte jouable est trouvée, le propriétaire est obligé de la jouer et le jeu continue. S'il n'y a vraiment aucun coup pour personne, tous les joueurs placent leurs 7 cartes de main en dessous de leur réserve, tirent 7 nouvelles cartes du dessus de leur réserve, et lorsque tous sont prêts, le jeu continue.
 
-## Commercial Versions of Nerts
+## Versions commerciales de Nertz
 
-[](https://amzn.to/3GlgQmh)
+[Dutch Blitz](https://dutchblitz.com)® est un autre jeu commercial étroitement lié à Nerts. Il est vendu comme un jeu de cartes Pennsylvania Dutch. Il se compose de quatre jeux de 40 cartes contenant uniquement des chiffres de 1 à 10. La **pile Blitz** est l'équivalent de la pile Nerts et contient 10 cartes au départ. Les **piles post** sont l'équivalent des piles de travail — chaque joueur a cinq piles post dans le jeu à deux joueurs, mais seulement trois piles post lorsqu'il y a plus de deux joueurs. La pile de défausse devient une **pile bois**, et les piles de fondations sont appelées **piles Dutch**. Il se peut que pour des raisons religieuses, les Pennsylvania Dutch soient offensés par les cartes à figures du jeu de cartes standard, ce qui pourrait expliquer l'existence de cette version avec uniquement des chiffres. Les cartes Rook sont utilisées par certaines communautés protestantes du Middle West américain pour des raisons similaires.
 
-[Dutch Blitz](https://dutchblitz.com)® is another commercial game closely related to Nerts. It is sold as a Pennsylvania Dutch card game. It consists of four decks of 40 cards containing numerals from 1 to 10 only. The **Blitz pile** is the equivalent of the Nerts pile and contains 10 cards at the start. The **post piles** are the equivalent of the work piles - each player has five post piles in the two player game, but only three post piles when there are more than two players. The waste pile becomes a **wood pile**, and the foundation piles are called **Dutch piles**. It may be that on religious grounds the Pennsylvania Dutch are offended by the picture cards in the regular playing-card deck, and this could explain the existence of this version with numerals only. Rook cards are used by some Protestant communities in the American mid-west for similar reasons. You can order [Dutch Blitz](https://amzn.to/3GlgQmh) from amazon.com.
+[Ligretto](https://en.wikipedia.org/wiki/Ligretto) est une version allemande propriétaire du même jeu, qui, à part le design des cartes, est presque identique à Dutch Blitz. Chaque joueur a un jeu de 40 cartes, numérotées de 1 à 10 en quatre couleurs. Les tableaux dans ce jeu consistent simplement en une rangée de trois cartes (ou plus avec moins de 4 joueurs) sans construction autorisée. Une boîte de jeu contient 160 cartes — suffisamment pour quatre joueurs, mais des boîtes sont disponibles dans diverses couleurs et thèmes, et en les combinant, on peut accommoder davantage de joueurs.
 
-[](https://amzn.to/3AXeEi1)
-[](https://amzn.to/3u0x1UV)
-[](https://amzn.to/3lLIMWV)
+**Solitaire Frenzy** était un autre jeu commercial Pounce / Racing Demon, de JAX.
 
-[Ligretto](https://en.wikipedia.org/wiki/Ligretto) is a German proprietary version of the same game, which apart from the card design is almost identical to Dutch Blitz. Each player has a pack of 40 cards, numbered 1 to 10 in four colours. The tableaux in this game consist just of a row of three cards (or more with fewer than 4 players) with no building allowed. One game box contains 160 cards - enough for four players, but boxes are available in various colours and themes, and by combining these more players can be accommodated. You can order [Ligretto](https://amzn.to/3AXeEi1) from amazon.com.
+## Autres pages web sur Nertz
 
-**Solitaire Frenzy** was another commercial Pounce / Racing Demon game, from JAX.
+Voici un lien vers la [page Nertz de Larry Charbonneau](https://www.sharbonline.com/fun-stuff/card-games/nertz), qui propose un autre compte des règles.
 
-## Other Nerts WWW pages
+La [National Nertz Association](https://national-nertz-association.blogspot.com) vise à promouvoir et développer le jeu de Nertz aux États-Unis. Son site web contient des détails sur les tournois, les jeux en ligne, une salle de discussion et d'autres informations et ressources.
 
-Here is a link to Larry Charbonneau's [Nertz Page](https://www.sharbonline.com/fun-stuff/card-games/nertz), which has another account of the rules.
+Voici la page de Chuck Jones [How to Play Pounce](https://www.babygorilla.com/warehouse/professional/pounce/pounce.html), qui fournit des règles illustrées, y compris un clip vidéo.
 
-The [National Nertz Association](https://national-nertz-association.blogspot.com) aims to promote and develop the game of Nertz in the USA. Their web site has details of tournaments, online games, a chat room and other information and resources.
+Voici une copie archive de la page Pounce d'Air Hadoken, qui décrivait une autre version, dans laquelle chaque joueur a cinq piles de travail disposées comme pour le solitaire Klondike.
 
-Here is Chuck Jones' [How to Play Pounce](https://www.babygorilla.com/warehouse/professional/pounce/pounce.html) page, which provides illustrated rules, including a video clip.
+Dans le [Game Cabinet](http://www.gamecabinet.com/), il y a une lettre de Mark Delano donnant les [règles de Nerts](http://www.gamecabinet.com/letters/Nurds.html).
 
-Here is an archive copy of Air Hadoken's Pounce page, which described another version, in which each player has five work piles arranged as for Klondike solitaire. 
+## Logiciels Nertz
 
-In the [Game Cabinet](http://www.gamecabinet.com/) there is a letter from Mark Delano giving [rules of Nerts](http://www.gamecabinet.com/letters/Nurds.html).
+JD Software propose une [application Nertz/Pounce](https://cardsjd.com/nertz/) pour jouer contre des adversaires en direct ou contre l'ordinateur en utilisant un téléphone Android ou iPhone ou sur le web.
 
-## Nerts Software
+Zachtronics a produit un [jeu Nertz en ligne gratuit](https://store.steampowered.com/app/1131190/NERTS_Online/) qui fonctionne sur la plateforme Steam.
 
-JD Software offers a [Nertz/Pounce app](https://cardsjd.com/nertz/) for playing against live opponents or against the computer using an Android phone or iPhone or on the web.
+George Keeling a écrit un [jeu Nerts / Racing Demon en ligne](https://racingdemon.net) qui peut être joué contre des joueurs en direct et/ou des bots.
 
-Zachtronics have produced a [free online Nerts game](https://store.steampowered.com/app/1131190/NERTS_Online/) that runs on the Steam gaming platform.
+Romain Bitard a écrit une application Nertz Online pour [Android](https://play.google.com/store/apps/details?id=com.unscripted.nerts) et [iOS](https://apps.apple.com/au/app/nerts-online/id6761326390) avec laquelle vous pouvez jouer seul contre des bots ou sur internet avec jusqu'à 6 joueurs.
 
-George Keeling has written an [online Nerts / Racing Demon game](https://racingdemon.net) that can be played against live players and/or bots.
-
-Romain Bitard has written a Nerts Online app for [Android](https://play.google.com/store/apps/details?id=com.unscripted.nerts) and [iOS](https://apps.apple.com/au/app/nerts-online/id6761326390) with which you can play alone against bots or over the internet with up to 6 players. 
-
-With Scott Pulkowski's iPhone app [NertsRush](https://apps.apple.com/us/app/nertrush-nerts-card-game/id6782686672?ppid=9d370977-d854-43f7-b80c-22a88c883219) you can play Nerts against 1-4 bot opponsnts, with a choice of three difficulty levels, or against a human opponent through the Apple Game Center.
-
-Home Page > Classified Index > Layout Group > Competitive Patience > Nerts / Pounce / Racing Demon
+Avec l'application iPhone de Scott Pulkowski [NertsRush](https://apps.apple.com/us/app/nertrush-nerts-card-game/id6782686672?ppid=9d370977-d854-43f7-b80c-22a88c883219), vous pouvez jouer à Nertz contre 1 à 4 bots adverses, avec un choix de trois niveaux de difficulté, ou contre un adversaire humain via l'Apple Game Center.

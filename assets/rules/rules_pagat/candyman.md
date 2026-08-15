@@ -3,47 +3,45 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Also known as Drug Dealer, in which two players have secret roles as Candyman and Cop and the other players try to buy candy before the Candyman is arrested.
+**But :** Aussi connu sous le nom de Drug Dealer, dans lequel deux joueurs ont des rôles secrets de Candyman et Flic, et les autres joueurs essaient d'acheter des bonbons avant que le Candyman ne soit arrêté.
 **Autres noms :** Drug Dealer
 
 ---
 
 ## Introduction
 
-**Candyman**, also known as **Drug Dealer**, is a game in which playing-cards are used to assign secret roles to the players. 
+**Candyman**, aussi connu sous le nom de **Drug Dealer**, est un jeu dans lequel les cartes à jouer sont utilisées pour attribuer des rôles secrets aux joueurs.
 
-At least 4 players are needed and the game works best with 6 or more.
+Au moins 4 joueurs sont nécessaires et le jeu fonctionne mieux avec 6 ou plus.
 
-## Setup
+## Mise en place
 
-From a standard 52-card pack take one Ace, one King and enough numeral cards (2-10) so that you have the same number of cards as there are players. These cards are shuffled and each player draws one card and looks at it, without showing it to any other player.
+À partir d'un jeu standard de 52 cartes, prenez un As, un Roi et assez de cartes numériques (2-10) pour avoir le même nombre de cartes que de joueurs. Ces cartes sont mélangées et chaque joueur tire une carte et la regarde, sans la montrer à aucun autre joueur.
 
-- The player who draws the Ace is the Candyman (or Drug Dealer).
+- Le joueur qui tire l'As est le Candyman (ou Drug Dealer).
 
-- The player who draws the King is the Cop (Police).
+- Le joueur qui tire le Roi est le Flic (Police).
 
-- All the other players, who draw numeral cards, are Buyers (or Users). 
+- Tous les autres joueurs, qui tirent des cartes numériques, sont des Acheteurs (ou Utilisateurs).
 
-## Play and Objectives
+## Jeu et objectifs
 
-The Candyman's aim is to sell candy to as many buyers as possible without being caught by the Cop. To sell candy, the Candyman makes eye contact with a buyer and winks at him or her. No player other than the Candyman is allowed to wink.
+L'objectif du Candyman est de vendre des bonbons à autant d'acheteurs que possible sans être attrapé par le Flic. Pour vendre des bonbons, le Candyman établit un contact visuel avec un acheteur et lui fait un clin d'œil. Aucun joueur autre que le Candyman n'est autorisé à faire un clin d'œil.
 
-The Buyers' aim is to buy candy. The difficulty is that they do not initially know which of the other players is the Candyman. When a Buyer succeeds in buying candy by being winked at by the Candyman, the Buyer reveals his or her card, says "Sold!" (or "The deal has been made!") and retires from the game. The Buyer must not reveal who the Candyman is.
+L'objectif des Acheteurs est d'acheter des bonbons. La difficulté est qu'ils ne savent pas initialement lequel des autres joueurs est le Candyman. Quand un Acheteur réussit à acheter des bonbons en recevant un clin d'œil du Candyman, l'Acheteur révèle sa carte, dit « Vendu ! » (ou « Le marché est conclu ! ») et se retire du jeu. L'Acheteur ne doit pas révéler qui est le Candyman.
 
-The Cop's aim is to identify and expose the Candyman as soon as possible, and at any rate before all the Buyers can buy candy. When the Cop thinks that he or she knows who is selling candy, the Cop can make an accusation, saying "busted" and naming and pointing at the accused player. This player must expose his or her card. If the accused player is really the Candyman, the round ends. If the accused player is a Buyer, the round continues. The Cop can make further accusations, although this may become more difficult, since after the first accusation everyone knows who the Cop is. 
+L'objectif du Flic est d'identifier et de démasquer le Candyman le plus vite possible, et en tout cas avant que tous les Acheteurs puissent acheter des bonbons. Quand le Flic pense qu'il sait qui vend des bonbons, il peut faire une accusation, en disant « pris ! » et en nommant et en pointant le joueur accusé. Ce joueur doit révéler sa carte. Si le joueur accusé est vraiment le Candyman, le tour s'arrête. Si le joueur accusé est un Acheteur, le tour continue. Le Flic peut faire d'autres accusations, bien que cela puisse devenir plus difficile, car après la première accusation tout le monde sait qui est le Flic.
 
-If your group of players finds winking inconvenient, you may agree to use some other sign for dealing, such as tapping your face.
+Si votre groupe de joueurs trouve le clin d'œil gênant, vous pouvez convenir d'utiliser un autre signe pour la transaction, comme tapoter votre visage.
 
-## Scoring
+## Score
 
-The game can be played without keeping score, but Bonnie Fishell's description included the following method of scoring, which reflects the aims of the players. 
+Le jeu peut se jouer sans garder le score, mais la description de Bonnie Fishell inclut la méthode de score suivante, qui reflète les objectifs des joueurs.
 
-- **Candyman:** +1 point for each successful deal, -2 points if busted.
+- **Candyman :** +1 point pour chaque transaction réussie, -2 points si attrapé.
 
-- **Buyer:** +1 point for buying candy or if wrongly accused by the cop. No points otherwise.
+- **Acheteur :** +1 point pour avoir acheté des bonbons ou si accusé à tort par le flic. Aucun point sinon.
 
-- **Cop:** -1 point for each incorrect accusation, +2 points for a correct accusation.
+- **Flic :** -1 point pour chaque accusation incorrecte, +2 points pour une accusation correcte.
 
-Points can be added up from round to round, and the game continues for 15 rounds, or until a player has 21 or more points, or the players can agree some other ending condition. 
-
-Home Page > Classified Index > Role Games > Candyman
+Les points peuvent s'additionner de tour en tour, et le jeu continue pendant 15 tours, ou jusqu'à ce qu'un joueur atteigne 21 points ou plus, ou les joueurs peuvent convenir d'une autre condition de fin.

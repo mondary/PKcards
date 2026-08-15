@@ -2,54 +2,52 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A card game from Liechtenstein played with 20 cards in which each player who does not drop out must either win at least one trick or match the pot.
+**But :** Un jeu de cartes du Liechtenstein joué avec 20 cartes dans lequel chaque joueur qui ne se retire pas doit soit gagner au moins un pli, soit égaliser le pot.
 
 ---
 
 ## Introduction
 
-Lupfen is a game for 3 to 5 players (best for four), that is played by high-school students in [Liechtenstein](https://www.liechtenstein.li). It is played with 20 cards of the Swiss German pack: in each of the four suits acorns, roses, shields and bells there are just five cards, ranking from high to low: 
+Lupfen est un jeu pour 3 à 5 joueurs (idéal pour quatre), joué par des lycéens au [Liechtenstein](https://www.liechtenstein.li). Il se joue avec 20 cartes du jeu suisse allemand : dans chacune des quatre couleurs — glands, roses, boucliers et cloches — il n'y a que cinq cartes, classées du plus haut au plus bas :
 
-- Ace (As or Sau), 
+- As (As ou Sau),
 
-- Banner, 
+- Bannière,
 
-- King (König), 
+- Roi (König),
 
-- Over (Ober), 
+- Ober,
 
-- Under
+- Unter
 
-Deal and play are counter-clockwise.
+La donne et le jeu se déroulent dans le sens inverse des aiguilles d'une montre.
 
-## Ante and deal
+## Mise et donne
 
-Before beginning the players should agree the size of the ante and the minimum and maximum bet.
+Avant de commencer, les joueurs doivent s'accorder sur le montant de la mise de base et les mises minimale et maximale.
 
-Before each deal, every player must pay the amount of the ante into the pool. The dealer shuffles, the player to dealer's left cuts, and the dealer deals out the cards one at the time, until each player has three cards and leaves the remaining cards in a face down stack. The players look at their cards.
+Avant chaque donne, chaque joueur doit payer le montant de la mise de base dans le pot. Le donneur mélange, le joueur à la gauche du donneur coupe, et le donneur distribue les cartes une à une, jusqu'à ce que chaque joueur ait trois cartes, et laisse les cartes restantes en tas face cachée. Les joueurs regardent leurs cartes.
 
-## The Lupf, and dropping out
+## Le Lupf, et le retrait
 
-Now the dealer asks the player to his right "Lupfsch?", which means "Do you lift?" If this player answer "yes", he becomes the "Lupfer" (lifter). He must turn the top card of the stack of undealt cards face up. The suit of this card is trumps. The Lupfer then decides the price of the hand, which can be any amount from the agreed mninimum bet up to the agreed maximum, and places this amount in the pool.
+Le donneur demande ensuite au joueur à sa droite « Lupfsch ? », ce qui signifie « Levez-vous ? » Si ce joueur répond « oui », il devient le « Lupfer » (celui qui lève). Il doit retourner la carte supérieure du tas de cartes non distribuées. La couleur de cette carte est l'atout. Le Lupfer décide ensuite du prix de la main, qui peut être n'importe quel montant entre la mise minimale convenue et la mise maximale convenue, et place ce montant dans le pot.
 
-If the player to dealer's right does not want to be the Lupfer, the dealer asks the other players the same question, in counter-clockwise order around the table, until someone says "yes". If all the other players say "no", the dealer has the opportunity to be the Lupfer. If the dealer also turns down this opportunity, the cards are thrown in, the turn to deal passes to the right, and everyone adds a new ante to the pool.
+Si le joueur à la droite du donneur ne veut pas être le Lupfer, le donneur pose la même question aux autres joueurs, dans le sens inverse des aiguilles d'une montre autour de la table, jusqu'à ce que quelqu'un dise « oui ». Si tous les autres joueurs disent « non », le donneur a l'opportunité d'être le Lupfer. Si le donneur refuse aussi cette opportunité, les cartes sont jetées, le tour de donner passe à droite, et chacun ajoute une nouvelle mise de base au pot.
 
-After the Lupfer has turned up a trump and announced the price to play, each of the other players in turn, starting to the Lupfer's right, must announce whether they will play or drop out. Those who play must pay the price of the hand to the pool. Those who drop out place their cards face down and take no further part until the next deal. The Lupfer himself, having already paid to play, is of course not allowed to drop out. If all the players other than the Lupfer pass, the Lupfer simply collects all the money in the pool, without needing to play the cards.
+Après que le Lupfer a retourné un atout et annoncé le prix pour jouer, chacun des autres joueurs à son tour, en commençant à la droite du Lupfer, doit annoncer s'il va jouer ou se retirer. Ceux qui jouent doivent payer le prix de la main au pot. Ceux qui se retirent posent leurs cartes face cachée et ne participent plus jusqu'à la donne suivante. Le Lupfer lui-même, ayant déjà payé pour jouer, n'est bien sûr pas autorisé à se retirer. Si tous les joueurs autres que le Lupfer passent, le Lupfer encaisse simplement tout l'argent du pot, sans avoir besoin de jouer les cartes.
 
-## The Play
+## Le Jeu
 
-Three tricks are played. The Lupfer leads to the first trick. The other active players must follow suit if they can. Those who cannot follow suit may play any card. The highest card of the suit led wins the trick, unless someone plays a trump, in which case the highest trump wins. The winner of the trick leads to the next trick.
+Trois plis sont joués. Le Lupfer mène au premier pli. Les autres joueurs actifs doivent suivre la couleur s'ils le peuvent. Ceux qui ne peuvent pas suivre peuvent jouer n'importe quelle carte. La carte la plus haute de la couleur menée remporte le pli, à moins que quelqu'un ne joue un atout, auquel cas l'atout le plus haut l'emporte. Le gagnant du pli mène au pli suivant.
 
-## Payments
+## Paiements
 
-At the end of the play, each player who has won a trick collects one third of the pool for each trick that they won. If the amount in the pool is not divisible by three, the Lupfer collects any remaining money.
+À la fin du jeu, chaque joueur qui a remporté un pli collecte un tiers du pot pour chaque pli gagné. Si le montant du pot n'est pas divisible par trois, le Lupfer collecte l'argent restant.
 
-Any active player, including the Lupfer, who does not take any tricks at all must pay into the pool an amount equal to what was in it at the start of play.
+Tout joueur actif, y compris le Lupfer, qui ne remporte aucun pli doit payer dans le pot un montant égal à ce qui s'y trouvait au début du jeu.
 
-## Special Hands
+## Mains spéciales
 
-A player who has three Unders (which according to the card ranks would be the worst possible hand) automatically wins all three tricks, irrespective of the trump suit and the cards held by the other players.
+Un joueur qui a trois Unterd (qui selon le rang des cartes serait la pire main possible) gagne automatiquement les trois plis, quel que soit l'atout et les cartes détenues par les autres joueurs.
 
-A player who has two Unders and an Ober and pays to play can exchange these three cards for the bottom three cards of the undealt deck at any time before playing to the first trick. It is possible for two players to have this hand, and in this case both can exchange, unless there are five players in the game, in which case there are only 5 undealt cards, and only one player can exchange for the bottom three of these. 
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Lupfen
+Un joueur qui a deux Unterd et un Ober et qui paie pour jouer peut échanger ces trois cartes contre les trois cartes du bas du tas non distribué à tout moment avant de jouer au premier pli. Il est possible que deux joueurs aient cette main, et dans ce cas les deux peuvent échanger, sauf s'il y a cinq joueurs dans la partie, auquel cas il n'y a que 5 cartes non distribuées, et un seul joueur peut échanger contre les trois du bas.

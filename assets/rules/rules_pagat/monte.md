@@ -2,52 +2,50 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Information on Three Card Monte or Find the Lady, a well-known street scam in which three cards are thrown face down, the punter places a bet and tries to find the queen.
+**But :** Informations sur le Three Card Monte ou Trouvez la Dame, une arnaque de rue bien connue dans laquelle trois cartes sont jetées face cachée, le parieur place un pari et tente de trouver la dame.
 
 ---
 
-This is not really a game, but a scam or swindle. **Three Card Monte** is the American name for it. In Britain it is usually called **Find the Lady**, and the equivalent French game is **Bonneteau**.
+Il ne s'agit pas vraiment d'un jeu, mais d'une arnaque ou d'une escroquerie. **Three Card Monte** est le nom américain. En Grande-Bretagne, on l'appelle généralement **Find the Lady**, et le jeu français équivalent est le **Bonneteau**.
 
-The appearance of the game is simple. It is played between the dealer (or tosser), who manipulates the cards and takes the bets, and the punter, a more or less gullible member of the public who places a bet on the game in the (unrealistic) hope of winning some money.
+L'apparence du jeu est simple. Il se joue entre le donneur (ou lanceur), qui manipule les cartes et prend les paris, et le parieur, un membre du public plus ou moins crédule qui parie sur le jeu dans l'espoir (irréaliste) de gagner de l'argent.
 
-The dealer has three cards, one of which is a queen. These cards are shown to the punter and then simultaneously thrown face-down on a table. The punter is invited to bet on which card is the queen. The dealer will employ various tricks, often with the help of accomplices, to ensure that the punter loses.
+Le donneur a trois cartes, dont une est une dame. Ces cartes sont montrées au parieur, puis simultanément jetées face cachée sur une table. Le parieur est invité à parier sur la carte qui est la dame. Le donneur emploie diverses astuces, souvent avec l'aide de complices, pour s'assurer que le parieur perd.
 
-Normally the operators of the game work as a team:
+Normalement, les opérateurs du jeu travaillent en équipe :
 
-- The **Tosser** (dealer) is the sleight of hand man who mixes the cards and takes the bets
+- Le **Lanceur** (donneur) est l'homme de la prestidigitation qui mélange les cartes et prend les paris
 
-- The **Shills** are accomplices who pose as punters making bets, to give real punters the impression that the game can be beaten
+- Les **Complices** sont des partenaires qui se font passer pour des parieurs, pour donner aux vrais parieurs l'impression que le jeu peut être battu
 
-- The **Lookout** watches for cops (police) and signals their approach so that the game can be "folded up" quickly 
+- Le **Guetteur** surveille la police et signale leur approche pour que le jeu puisse être « replié » rapidement
 
-- The **Muscle Man** takes care of anyone who decides to complain 
+- Le **Homme de main** s'occupe de quiconque décide de se plaindre
 
-- The **Roper** seeks out likely punters and encourages them to join the game
+- Le **Rabatteur** cherche des parieurs potentiels et les encourage à rejoindre le jeu
 
-There are many techniques of sleight of hand that the Tosser may use to induce the punter to select the wrong card. If you do happen to bet on the right card, the Tosser may employ various tactics, such as accepting instead a wrong bet from a Shill and refusing your bet on the grounds that only one bet can be taken at a time, or swapping the cards while your attention is distracted, or simply arranging for the table to be knocked over and declaring the deal void.
+Il existe de nombreuses techniques de prestidigitation que le Lanceur peut utiliser pour amener le parieur à sélectionner la mauvaise carte. Si vous avez la chance de parier sur la bonne carte, le Lanceur peut employer diverses tactiques, comme accepter à la place un mauvais pari d'un complice et refuser votre pari au motif qu'on ne peut prendre qu'un seul pari à la fois, ou échanger les cartes pendant que votre attention est distraite, ou simplement faire renverser la table et déclarer la donne nulle.
 
 ## Bonneteau
 
-*This description of the French version of the game was contributed by Jean-Pierre Coulon.*
+*Cette description de la version française du jeu a été contribuée par Jean-Pierre Coulon.*
 
-Bonneteau is described here as a warning to card enthusiasts visiting France, who might lose about 1000 French francs (150 Euro) within minutes if they happen to join such a game.
+Le Bonneteau est décrit ici comme un avertissement aux passionnés de cartes visitant la France, qui pourraient perdre environ 1000 francs français (150 euros) en quelques minutes s'ils ont la malchance de rejoindre un tel jeu.
 
-This game is often played in the street on a "table" made with a stack of two packing cases. Only three cards are needed, two from a black suit, and one from a red suit (or the opposite). The cards are slightly bent around their long axis, in a way similar to Mediterranean tiles, to facilitate their picking up from the "table". Hence the name Bonneteau, a little cap.
+Ce jeu se joue souvent dans la rue sur une « table » faite avec une pile de deux caisses d'emballage. Seules trois cartes sont nécessaires, deux d'une couleur noire et une d'une couleur rouge (ou l'inverse). Les cartes sont légèrement courbées autour de leur axe longitudinal, de manière similaire aux tuiles méditerranéennes, pour faciliter leur ramassage sur la « table ». D'où le nom Bonneteau, un petit bonnet.
 
-The "dealer" shows all three cards to you, lays them face-down on the "table", and rapidly picks up one card with his left hand and the other two in his right hand, and drops them back on the table at new positions. He repeats this scheme a couple of times. Now you have to bet the position of the card which is alone in its suit. In other words this is a contest between your eyes and the "dealer's" hands. A typical bet is 200 French francs.
+Le « donneur » vous montre les trois cartes, les pose face cachée sur la « table », et ramasse rapidement une carte de sa main gauche et les deux autres dans sa main droite, puis les repose sur la table à de nouvelles positions. Il répète ce schéma deux ou trois fois. Vous devez maintenant parier sur la position de la carte qui est seule dans sa couleur. En d'autres termes, il s'agit d'un concours entre vos yeux et les mains du « donneur ». Un pari typique est de 200 francs français.
 
-You will easily win the first few deals, but afterwards you won't win a single one, because the "dealer" uses the following trick. There are two cards in his right hand. The upper card is held between his thumb and his forefinger, and the lower card is held between his thumb and his middle finger, with a small gap (a few millimeters) between both cards. According to common sense, the "dealer" should drop the lower card first, but his forefinger surreptitiously ejects the upper card first, which causes you to lose track of the right card. This is especially difficult to see if the "dealer's" hand makes a sweeping move from his left side to his right side while he drops the cards.
+Vous gagnerez facilement les premières quelques donnes, mais ensuite vous n'en gagnerez plus une seule, car le « donneur » utilise l'astuce suivante. Il a deux cartes dans sa main droite. La carte supérieure est tenue entre son pouce et son index, et la carte inférieure est tenue entre son pouce et son majeur, avec un petit espace (quelques millimètres) entre les deux cartes. Le bon sens voudrait que le « donneur » laisse tomber d'abord la carte inférieure, mais son index éjecte subrepticement la carte supérieure en premier, ce qui vous fait perdre la trace de la bonne carte. Ceci est particulièrement difficile à voir si la main du « donneur » fait un mouvement balayant de son côté gauche vers son côté droit pendant qu'il pose les cartes.
 
-One variation is as follows. An accomplice diverts the dealer's attention, taps your shoulder, and bends a corner of the right card, to help you following it. But the dealer has a trick to simultaneously unbend this card, and bend the other card he is holding in the same hand.
+Une variante est la suivante. Un complice détourne l'attention du donneur, tape sur votre épaule, et plie un coin de la bonne carte, pour vous aider à la suivre. Mais le donneur a une astuce pour simultanément déplier cette carte, et plier l'autre carte qu'il tient dans la même main.
 
-### Strategy
+### Stratégie
 
-**Don't** play it! Do not think you will win because you know the trick - you would be in great danger. Do not be misled by noticing some players who quit the game after some winnings. They are accomplices of the dealer - a part of the swindle.
+**Ne** le jouez pas ! Ne pensez pas que vous allez gagner parce que vous connaissez l'astuce — vous seriez en grand danger. Ne vous laissez pas induire en erreur en remarquant certains joueurs qui quittent le jeu après quelques gains. Ce sont des complices du donneur — une partie de l'arnaque.
 
-You may play the game with your friends provided:
+Vous pouvez jouer au jeu avec vos amis à condition que :
 
-- no real money is involved. 
+- aucun argent réel ne soit en jeu.
 
-- you explain the trick afterwards.
-
-Home Page > Classified Index > Miscellaneous Games > Three Card Monte
+- vous expliquiez l'astuce ensuite.

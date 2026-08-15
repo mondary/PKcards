@@ -2,14 +2,12 @@
 
 **Difficulté :** —
 **Type :** Dernier pli, Plis
-**But :** A card game similar to Cucumber played with Swedish Kille cards: link to rules by Joachim Parrow.
+**But :** Un jeu de cartes similaire à Cucumber joué avec les cartes suédoises Kille : lien vers les règles par Joachim Parrow.
 
 ---
 
-This Swedish game, best for about 4 to 6 players, is played with Swedish Kille cards. These come as a 42 card deck, without suits, but with two of each of the 21 ranks, which from high to low are Harlekin (joker), Kuku (cuckoo), Husar (hussar), Husu (pig), Kavall (horse), Värdshus (inn), 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Kransen (wreath), Blompottan (flowerpot), Blaren (face).
+Ce jeu suédois, idéal pour environ 4 à 6 joueurs, se joue avec les cartes suédoises Kille. Il s'agit d'un jeu de 42 cartes, sans couleurs, avec deux exemplaires de chacun des 21 rangs, qui du plus haut au plus bas sont : Harlekin (joker), Kuku (coucou), Husar (hussard), Husu (cochon), Kavall (cheval), Värdshus (auberge), 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, Kransen (couronne), Blompottan (pot de fleurs), Blaren (visage).
 
-Each player is dealt 5 cards and tricks are played. Any card can be led, and subsequent players must either equal or beat the highest card so far played to the trick or play the lowest card in their hand. The object is to have the lowest card after four tricks have been played.
+Chaque joueur reçoit 5 cartes et les plis se jouent. N'importe quelle carte peut être menée, et les joueurs suivants doivent soit égaliser ou dépasser la plus haute carte jouée jusqu'à présent dans le pli, soit jouer la carte la plus basse de leur main. Le but est d'avoir la carte la plus basse après que quatre plis ont été joués.
 
-Rules for a version of Krypkille can be found on Joachim Parrow's [Kille](http://user.it.uu.se/~joachim/kille.html) page.
-
-Home Page > Classified Index > Trick Taking Games > Last Trick group > Krypkille
+Les règles d'une version de Krypkille peuvent être trouvées sur la page [Kille](http://user.it.uu.se/~joachim/kille.html) de Joachim Parrow.

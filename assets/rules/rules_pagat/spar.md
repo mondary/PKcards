@@ -3,139 +3,110 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Dernier pli, Plis
-**But :** Rules for the card games Spar and Sipa, played in Ghana, Benin and Togo.
+**But :** Règles pour les jeux de cartes Spar et Sipa, joués au Ghana, au Bénin et au Togo.
 
 ---
 
-I am grateful to Eric Aboagye for explaining one version of Spar to me, and to Alexey Lobashev for contributing several other variants.
+Je suis reconnaissant à Eric Aboagye de m'avoir expliqué une version de Spar, et à Alexey Lobashev pour avoir contribué plusieurs autres variantes.
 
 - Introduction
 
-- Spar - Players and Cards - Deal - Play - Scoring
+- Spar - Joueurs et cartes - Distribution - Jeu - Comptage
 
-- Variations - Benin - Togo: Sipa
+- Variantes - Bénin - Togo : Sipa
 
 ## Introduction
 
-Spar is the most popular card game in Ghana. Sometimes it is played for money, but often simply for the enjoyment the winner gets from boasting of having played better than the others. It is a trick-taking game without trumps, in which the object is to win the last trick.
+Spar est le jeu de cartes le plus populaire au Ghana. Il est parfois joué pour de l'argent, mais souvent simplement pour le plaisir que le gagnant tire à se vanter d'avoir mieux joué que les autres. C'est un jeu de prise de plis sans atout, dont l'objectif est de gagner le dernier pli.
 
-Similar games are played in Benin under the name Jeu de Carte, in Togo under the name Sipa, and in Niger and northern Mali under the name Agram and in Cameroon as Fapfap.
+Des jeux similaires sont joués au Bénin sous le nom de Jeu de Carte, au Togo sous le nom de Sipa, au Niger et au nord du Mali sous le nom d'Agram, et au Cameroun sous le nom de Fapfap.
 
 ## Spar
 
-### Players and Cards
+### Joueurs et cartes
 
-Spar is usually played by 2, 3 or 4 players, but it is possible for up to 7 to play. The game uses 35 cards from a standard international 52-card pack, the cards of each suit ranking from high to low: A, K, Q, J, 10, 9, 8, 7, 6, but the Ace of Spades is normally not used, so the highest card in that suit is the King. I am told it can be played in either direction: clockwise or counter-clockwise.
+Spar se joue généralement à 2, 3 ou 4 joueurs, mais il est possible de jouer jusqu'à 7. Le jeu utilise 35 cartes d'un jeu international standard de 52 cartes, les cartes de chaque couleur se classant du plus haut au plus bas : A, R, D, V, 10, 9, 8, 7, 6, mais l'as de pique n'est normalement pas utilisé, donc la carte la plus haute de cette couleur est le roi. On m'a dit qu'il peut être joué dans les deux sens : horaire ou antihoraire.
 
-### Deal
+### Distribution
 
-The first dealer is chosen at random; thereafter the winner of each hand deals the next. The dealer shuffles and deals five cards to each player: a batch of three cards to each player, starting with the player to dealer's left if playing clockwise, and then a batch of two cards each, ending with the dealer. In some serious games the cards are dealt one at a time; in informal games they may be dealt by other methods - for example the first five cards to the first player, the next five to the next and so on.
+Le premier donneur est choisi au hasard ; ensuite le gagnant de chaque main donne la suivante. Le donneur mélange et distribue cinq cartes à chaque joueur : une série de trois cartes à chaque joueur, en commençant par le joueur à la gauche du donneur si on joue dans le sens horaire, puis une série de deux cartes à chacun, en terminant par le donneur. Dans certains jeux sérieux, les cartes sont distribuées une par une ; dans les parties informelles, elles peuvent être distribuées par d'autres méthodes — par exemple les cinq premières cartes au premier joueur, les cinq suivantes au suivant, etc.
 
-### Play
+### Jeu
 
-The next player after the dealer (i.e. to dealer's left if play is clockwise, or to dealer's right if it is counter-clockwise) leads any card, playing it face up in the middle of the playing area. The other players in turn must play a card of the same suit if they can; those who have no card of the suit led play any card they choose.
+Le joueur suivant après le donneur (c'est-à-dire à la gauche du donneur si le jeu est horaire, ou à la droite s'il est antihoraire) mène n'importe quelle carte, la jouant face visible au milieu de l'aire de jeu. Les autres joueurs à tour de rôle doivent jouer une carte de la même couleur s'ils le peuvent ; ceux qui n'ont pas de carte de la couleur demandée jouent n'importe quelle carte de leur choix.
 
-When all have played one card, the first trick is complete. Whoever played the highest card of the suit that the first player led is the winner of the trick. The cards played are not gathered in but remain in a face up pile. The winner of the trick leads any card from hand to begin the next trick, playing it face up on top of the pile, and once again the other players must each play a card: this must be the same suit as the card that was led if possible, otherwise any card.
+Lorsque tous ont joué une carte, le premier pli est complet. Celui qui a joué la carte la plus élevée de la couleur que le premier joueur a demandée est le gagnant du pli. Les cartes jouées ne sont pas ramassées mais restent dans un tas face visible. Le gagnant du pli mène n'importe quelle carte de sa main pour commencer le pli suivant, la jouant face visible sur le tas, et une fois de plus les autres joueurs doivent chacun jouer une carte : ce doit être la même couleur que la carte demandée si possible, sinon n'importe quelle carte.
 
-This continues until five tricks have been played. 
+Cela continue jusqu'à ce que cinq plis aient été joués.
 
-### Scoring
+### Comptage
 
-Whoever wins the fifth and last trick wins the hand and scores: 
+Celui qui gagne le cinquième et dernier pli gagne la main et marque :
 
-- 3 points if the winning card is a 6 (NB. this is only possible if the winner of the second to last trick leads a 6 to the last trick and no one else has managed to keep a card of the same suit);
+- 3 points si la carte gagnante est un 6 (NB. cela n'est possible que si le gagnant de l'avant-dernier pli mène un 6 au dernier pli et que personne d'autre n'a réussi à garder une carte de la même couleur) ;
 
-- 2 points if the winning card is a 7;
+- 2 points si la carte gagnante est un 7 ;
 
-- 1 point for winning with any other card - 8 or higher.
+- 1 point pour gagner avec n'importe quelle autre carte — 8 ou plus.
 
-If the game is played for money, the winner is immediately paid 1, 2 or 3 stakes by each of the other players. If not, each player keeps a cumulative total of points scored during the session.
+Si le jeu est joué pour de l'argent, le gagnant est immédiatement payé 1, 2 ou 3 mises par chacun des autres joueurs. Sinon, chaque joueur conserve un total cumulé des points marqués pendant la session.
 
-The winner of the hand deals the next hand, and therefore plays last to the first trick of the next hand. The session continues for as long as the players wish - there is no fixed number of deals or target score that ends the session.
+Le gagnant de la main donne la main suivante, et joue donc en dernier au premier pli de la main suivante. La session continue aussi longtemps que les joueurs le souhaitent — il n'y a pas de nombre fixe de donnes ni de score cible pour terminer la session.
 
-## Variations
+## Variantes
 
-Some deal seven cards to each player rather than five, in which case the maximum number of players is 5. The scores are then for winning the seventh and last trick.
+Certains distribuent sept cartes à chaque joueur au lieu de cinq, auquel cas le nombre maximum de joueurs est 5. Les scores sont alors pour le septième et dernier pli.
 
-Some players include the Ace of Spades in the pack, so that it contains 36 cards.
+Certains joueurs incluent l'as de pique dans le jeu, qui contient alors 36 cartes.
 
-Some play with the "under ten" rule, that a player who is dealt no card higher than a 9 can trade in all five cards before play begins and is given a new hand of five cards dealt from the undealt part of the pack.
+Certains jouent avec la règle « sous dix » : un joueur qui n'a reçu aucune carte supérieure à un 9 peut échanger ses cinq cartes avant le début du jeu et se voir attribuer une nouvelle main de cinq cartes tirées de la partie non distribuée du jeu.
 
-Some play that during the penalutimate trick, a player can ask for the bottom card of the undealt part of the pack to be shown.
+Certains jouent que pendant l'avant-dernier pli, un joueur peut demander à voir la carte du bas de la partie non distribuée.
 
-In a version explained to Alexey Lobashev by Joseph Essilfy from Ghana, if a player wins the last two tricks with sixes, sevens or one of each, both tricks are scored for: 6 points for two sixes; 5 points for a 6 and a 7 in either order; 4 points for two sevens. In this version, the winner adds the amount won to his cumulative score, written on paper. Multiples of three points are preceded by a "c", followed by the odd one or two points if present. So for example 9 points are written as c9, 14 points are written as c12 2. The game is played until a player wins by reaching an agreed number, such as c30.
+Dans une version expliquée à Alexey Lobashev par Joseph Essilfy du Ghana, si un joueur gagne les deux derniers plis avec des six, des sept ou un de chaque, les deux plis sont comptabilisés : 6 points pour deux six ; 5 points pour un 6 et un 7 dans n'importe quel ordre ; 4 points pour deux sept. Dans cette version, le gagnant ajoute le montant gagné à son score cumulé, écrit sur papier. Les multiples de trois points sont précédés d'un « c », suivis du ou des points restants. Ainsi, par exemple, 9 points s'écrivent c9, 14 points s'écrivent c12 2. Le jeu se joue jusqu'à ce qu'un joueur gagne en atteignant un nombre convenu, comme c30.
 
-Some players keep score using stones. A number of stones - for example 10 for a short game or 30 for a longer one - are placed in the middle. Players take a stone for each point scored, and when all the stones have been taken the player with most stones is the winner. In case of a tie, the tieing players play another deal to decide the winner.
+Certains joueurs tiennent le score avec des pierres. Un certain nombre de pierres — par exemple 10 pour une partie courte ou 30 pour une plus longue — sont placées au milieu. Les joueurs prennent une pierre pour chaque point marqué, et quand toutes les pierres ont été prises, le joueur avec le plus de pierres est le gagnant. En cas d'égalité, les joueurs ex æquo jouent une autre donne pour déterminer le gagnant.
 
-### Jeu de Carte in Benin
+### Jeu de Carte au Bénin
 
-A similar game, known simply as "Jeu de Carte" (French for "card game") was described to Alexy Lobashev by Abdullai Atipo and Abderman Tagiru from Benin. It is played as follows:
+Un jeu similaire, connu simplement sous le nom de « Jeu de Carte », a été décrit à Alexey Lobashev par Abdullai Atipo et Abderman Tagiru du Bénin. Il se joue comme suit :
 
-- It is played with 31 cards (all the cards from Ace down to Seven except the Ace of Spades). 
+- Il se joue avec 31 cartes (toutes les cartes de l'as au sept sauf l'as de pique).
 
-- The cards are cut, the cutting player putting the upper part of the deck on the table. The dealer deals from the top of the lower part, five cards to each player, normally in batches of three followed by two. Instead of cutting one can tap with a pointing finger on the top of the deck. In this case, cards are dealt without cutting. 
+- Les cartes sont coupées, le joueur qui coupe posant la partie supérieure du jeu sur la table. Le donneur distribue à partir du haut de la partie inférieure, cinq cartes à chaque joueur, normalement en séries de trois suivies de deux. Au lieu de couper, on peut taper avec l'index sur le dessus du jeu. Dans ce cas, les cartes sont distribuées sans coupure.
 
-- Players play their cards in front of them, rather than in a single pile in the centre. A player who is unable to follow suit to a trick plays his card face down. 
+- Les joueurs jouent leurs cartes devant eux, plutôt que dans un tas unique au centre. Un joueur incapable de suivre la couleur d'un pli joue sa carte face en bas.
 
-- The score is 1 point for winning the last trick, or 2 if it is won with a Seven. 
+- Le score est de 1 point pour gagner le dernier pli, ou 2 s'il est gagné avec un sept.
 
-- The game is played until an agreed number of points is gained, often till 24.
+- Le jeu se joue jusqu'à ce qu'un nombre convenu de points soit atteint, souvent 24.
 
-- When it is played for money, the stakes vary from 100 to 1000 Benin francs, i.e. from about 0.15 cents to 1.50 US dollars.
+- Lorsqu'il est joué pour de l'argent, les mises varient de 100 à 1000 francs béninois, soit environ 0,15 à 1,50 dollars américains.
 
-### Sipa in Togo
+### Sipa au Togo
 
-Alexey Lobashev learned the Togolese card game Sipa from his guide Kiki K. Kewou in Lome,
-Togo. This game is very popular in rural areas during the
-dry season when there is no farm work to do. Sometimes it is played for money, sometimes for tokens of some kind. 
+Alexey Lobashev a appris le jeu de cartes togolais Sipa de son guide Kiki K. Kewou à Lomé, au Togo. Ce jeu est très populaire dans les zones rurales pendant la saison sèche quand il n'y a pas de travail agricole. Il est parfois joué pour de l'argent, parfois pour des jetons.
 
-Sipa is a game for 2 or more players, using 31 cards from a standard
-international 52-card pack. The cards of each suit rank from high to low: A,
-K, Q, J, 10, 9, 8, 7, without the Ace of Spades. It is played counter-clockwise. 
+Sipa est un jeu pour 2 joueurs ou plus, utilisant 31 cartes d'un jeu international standard de 52 cartes. Les cartes de chaque couleur se classent du plus haut au plus bas : A, R, D, V, 10, 9, 8, 7, sans l'as de pique. Il se joue dans le sens antihoraire.
 
-The first dealer is any player chosen by agreement; thereafter the winner of
-each hand deals the next. The dealer shuffles. The player on his right cuts
-the cards, the removed part of the deck being placed next to the remaining
-part. The dealer deals cards from the remaining part of the deck and after
-dealing puts it on the removed part. If there are not enough cards in the
-remaining part for dealing, after this part has been all dealt, the dealer
-takes additional cards from the remaining part.
+Le premier donneur est n'importe quel joueur choisi d'un commun accord ; ensuite le gagnant de chaque main donne la suivante. Le donneur mélange. Le joueur à sa droite coupe les cartes, la partie retirée du jeu étant placée à côté de la partie restante. Le donneur distribue les cartes à partir de la partie restante et après la distribution la pose sur la partie retirée. S'il n'y a pas assez de cartes dans la partie restante, après que cette partie a été entièrement distribuée, le donneur prend des cartes supplémentaires dans la partie restante.
 
-Instead of cutting, one can tap with the index finger on the top card of
-the deck, and the cards are dealt from the deck as it is.
+Au lieu de couper, on peut taper avec l'index sur la carte du dessus du jeu, et les cartes sont distribuées à partir du jeu tel quel.
 
-The dealer deals five cards to each player (first three to each player, then
-two).
-The player to dealer's right if play is
-counter-clockwise) leads any card, playing it face up in the middle of the
-playing area. The other players in turn must play a card of the same suit if
-they can; those who have no card of the suit led play any card they choose.
-In so doing, if the player does not beat the cards of the previous players,
-he puts his card face down next to himself without showing it. 
+Le donneur distribue cinq cartes à chaque joueur (d'abord trois à chacun, puis deux). Le joueur à la droite du donneur (si le jeu est antihoraire) mène n'importe quelle carte, la jouant face visible au milieu de l'aire de jeu. Les autres joueurs à tour de rôle doivent jouer une carte de la même couleur s'ils le peuvent ; ceux qui n'ont pas de carte de la couleur demandée jouent n'importe quelle carte de leur choix. Ce faisant, si le joueur ne bat pas les cartes des joueurs précédents, il pose sa carte face en bas à côté de lui sans la montrer.
 
-An experienced player, when playing a two-player game, if a trick is won by
-him, would often put two cards at once, one of them being a response to the
-lead of the first player, the other being his lead for the next trick.
+Un joueur expérimenté, lors d'une partie à deux joueurs, s'il gagne un pli, joue souvent deux cartes à la fois, l'une étant la réponse à la carte menée par le premier joueur, l'autre étant sa carte de départ pour le pli suivant.
 
-When all have played one card, the trick is complete. Whoever played
-the highest card of the suit that the first player led is the winner of the
-trick. The cards played are not gathered in but remain in a face up pile.
-The winner of the trick leads any card from hand to begin the next trick,
-playing it face up on top of the pile, and once again the other players must
-each play a card: this must be the same suit as the card that was led if
-possible, otherwise any card.
+Lorsque tous ont joué une carte, le pli est complet. Celui qui a joué la carte la plus élevée de la couleur demandée est le gagnant du pli. Les cartes jouées ne sont pas ramassées mais restent dans un tas face visible. Le gagnant du pli mène n'importe quelle carte de sa main pour commencer le pli suivant, la jouant face visible sur le tas, et une fois de plus les autres joueurs doivent chacun jouer une carte : ce doit être la même couleur que la carte demandée si possible, sinon n'importe quelle carte.
 
-This continues until five tricks have been played. Whoever wins the fifth
-and last trick wins the hand and scores:
+Cela continue jusqu'à ce que cinq plis aient été joués. Celui qui gagne le cinquième et dernier pli gagne la main et marque :
 
-- **6 points** if the winning player wins the last three tricks with 7’s (almost imnpossible)
+- **6 points** si le joueur gagnant gagne les trois derniers plis avec des 7 (presque impossible)
 
-- **4 points **if the winning player wins the last two tricks with 7’s
+- **4 points** si le joueur gagnant gagne les deux derniers plis avec des 7
 
-- **2 points** if the winning card is a 7;
+- **2 points** si la carte gagnante est un 7 ;
 
-- **1 point** for winning the last trick with any other card - 8 or higher.
+- **1 point** pour gagner le dernier pli avec n'importe quelle autre carte — 8 ou plus.
 
-The winner is the player who is the first to score 10 or more points - or the players may agree on some other target score, such as 6, 12 or 24 points.
-
-Home Page > Classified Index > Trick Taking Games > Last Trick group > Spar
+Le gagnant est le premier joueur à atteindre 10 points ou plus — ou les joueurs peuvent se mettre d'accord sur un autre score cible, comme 6, 12 ou 24 points.
